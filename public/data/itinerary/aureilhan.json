@@ -21,7 +21,8 @@
             "de": "Saint-Gérin Kirche",
             "hu": "Saint-Gérin templom",
             "ro": "Biserica Saint-Gérin",
-            "en": "Saint-Gérin Church"
+            "en": "Saint-Gérin Church",
+            "fr": "Église Saint-Gérin"
           },
           "coords": [
             0.097557,
@@ -36,7 +37,8 @@
             "de": "Bewundern Sie die schlichte Eleganz dieser historischen Kirche und nehmen Sie sich Zeit für eine ruhige Pause im kühlen Innenraum während der frühen Morgenstunden.",
             "hu": "Csodálja meg ennek a történelmi templomnak az egyszerű eleganciáját, és szánjon időt egy csendes pihenőre a hűvös belső térben a kora reggeli órákban.",
             "ro": "Admirați eleganța simplă a acestei biserici istorice și luați-vă timp pentru o pauză liniștită în interiorul răcoros în timpul orelor timpurii ale dimineții.",
-            "en": "Admire the simple elegance of this historic church and take some time for a quiet break in the cool interior during the early morning hours."
+            "en": "Admire the simple elegance of this historic church and take some time for a quiet break in the cool interior during the early morning hours.",
+            "fr": "Admirez l’élégance simple de cette église historique et prenez le temps d’une pause tranquille dans l’intérieur frais lors des premières heures du matin."
           }
         },
         {
@@ -44,7 +46,8 @@
             "de": "Musée Massey",
             "hu": "Musée Massey",
             "ro": "Musée Massey",
-            "en": "Musée Massey"
+            "en": "Musée Massey",
+            "fr": "Musée Massey"
           },
           "coords": [
             0.075252,
@@ -59,7 +62,8 @@
             "de": "Entdecken Sie in diesem prachtvollen Museum die faszinierende Geschichte der Husaren und spazieren Sie anschließend durch den wunderschönen, angrenzenden botanischen Garten.",
             "hu": "Fedezze fel a huszárok lenyűgöző történetét ebben a csodálatos múzeumban, majd sétáljon egyet a gyönyörű, szomszédos botanikus kertben.",
             "ro": "Descoperiți istoria fascinantă a husarilor în acest muzeu magnific și apoi faceți o plimbare prin frumoasa grădină botanică adiacentă.",
-            "en": "Discover the fascinating history of the hussars in this magnificent museum and then take a stroll through the beautiful, adjacent botanical garden."
+            "en": "Discover the fascinating history of the hussars in this magnificent museum and then take a stroll through the beautiful, adjacent botanical garden.",
+            "fr": "Découvrez l’histoire fascinante des hussards dans ce magnifique musée, puis promenez‑vous dans le superbe jardin botanique adjacent."
           }
         },
         {
@@ -67,7 +71,8 @@
             "de": "Spielplatz (Aire des Jeux)",
             "hu": "Játszótér (Aire des Jeux)",
             "ro": "Teren de joacă (Aire des Jeux)",
-            "en": "Aire des Jeux"
+            "en": "Aire des Jeux",
+            "fr": "Aire de jeux"
           },
           "coords": [
             0.076621,
@@ -82,7 +87,8 @@
             "de": "Lassen Sie Ihre Kinder auf diesem modernen und sicheren Spielplatz toben, während Sie sich auf den nahegelegenen Bänken entspannen und ein kleines Picknick genießen.",
             "hu": "Hagyja, hogy gyermekei ezen a modern és biztonságos játszótéren tomboljanak, miközben ön a közeli padokon pihen, és élvezi a kis pikniket.",
             "ro": "Lăsați copiii să se joace pe acest teren modern și sigur, în timp ce vă relaxați pe băncile din apropiere și vă bucurați de un mic picnic.",
-            "en": "Let your children run wild on this modern and safe playground while you relax on the nearby benches and enjoy a small picnic."
+            "en": "Let your children run wild on this modern and safe playground while you relax on the nearby benches and enjoy a small picnic.",
+            "fr": "Laissez vos enfants courir librement sur cette aire de jeux moderne et sécurisée pendant que vous vous détendez sur les bancs proches et profitez d’un petit pique‑nique."
           }
         },
         {
@@ -90,7 +96,8 @@
             "de": "Geburtshaus von Marschall Foch",
             "hu": "Foch marsall szülőháza",
             "ro": "Casa natală a mareșalului Foch",
-            "en": "Maison Natale du Maréchal Foch"
+            "en": "Maison Natale du Maréchal Foch",
+            "fr": "Maison natale du Maréchal Foch"
           },
           "coords": [
             0.071248,
@@ -105,7 +112,8 @@
             "de": "Besuchen Sie das Geburtshaus des berühmten Marschalls Foch und achten Sie auf die vielen persönlichen Gegenstände, die seine unglaubliche militärische Karriere veranschaulichen.",
             "hu": "Látogassa meg a híres Foch marsall szülőházát, és figyeljen a sok személyes tárgyra, amelyek bemutatják hihetetlen katonai karrierjét.",
             "ro": "Vizitați locul de naștere al celebrului mareșal Foch și acordați atenție numeroaselor obiecte personale care ilustrează incredibila sa carieră militară.",
-            "en": "Visit the birthplace of the famous Marshal Foch and pay attention to the many personal items that illustrate his incredible military career."
+            "en": "Visit the birthplace of the famous Marshal Foch and pay attention to the many personal items that illustrate his incredible military career.",
+            "fr": "Visitez la maison natale du célèbre Maréchal Foch et prêtez attention aux nombreux objets personnels qui illustrent sa remarquable carrière militaire."
           }
         },
         {
@@ -113,7 +121,8 @@
             "de": "Théâtre des Nouveautés",
             "hu": "Théâtre des Nouveautés",
             "ro": "Théâtre des Nouveautés",
-            "en": "Théâtre des Nouveautés"
+            "en": "Théâtre des Nouveautés",
+            "fr": "Théâtre des Nouveautés"
           },
           "coords": [
             0.075626,
@@ -128,7 +137,8 @@
             "de": "Bestaunen Sie die wunderschöne Fassade dieses kulturellen Juwels und informieren Sie sich am Ticketschalter über die aktuellen Abendvorstellungen für einen perfekten Tagesabschluss.",
             "hu": "Csodálja meg ennek a kulturális gyöngyszemnek a gyönyörű homlokzatát, és érdeklődjön a jegypénztárnál az aktuális esti előadásokról a tökéletes napzárás érdekében.",
             "ro": "Admirați fațada frumoasă a acestei bijuterii culturale și întrebați la casa de bilete despre spectacolele de seară actuale pentru a încheia ziua perfect.",
-            "en": "Marvel at the beautiful facade of this cultural gem and ask at the ticket office about current evening performances for a perfect end to the day."
+            "en": "Marvel at the beautiful facade of this cultural gem and ask at the ticket office about current evening performances for a perfect end to the day.",
+            "fr": "Admirez la belle façade de ce joyau culturel et renseignez‑vous au guichet sur les spectacles du soir pour une fin de journée parfaite."
           }
         },
         {
@@ -136,7 +146,8 @@
             "de": "Reiterstandbild des Marschall Foch",
             "hu": "Foch marsall lovas szobra",
             "ro": "Statuia ecvestră a mareșalului Foch",
-            "en": "Statue équestre du Maréchal Foch"
+            "en": "Statue équestre du Maréchal Foch",
+            "fr": "Statue équestre du Maréchal Foch"
           },
           "coords": [
             0.072962,
@@ -151,7 +162,8 @@
             "de": "Machen Sie beeindruckende Fotos von diesem imposanten Reiterstandbild im goldenen Nachmittagslicht und lernen Sie mehr über die lokale Geschichte anhand der Informationstafeln.",
             "hu": "Készítsen lenyűgöző fényképeket erről az impozáns lovas szoborról az arany délutáni fényben, és tudjon meg többet a helyi történelemről az információs táblákból.",
             "ro": "Faceți fotografii impresionante cu această statuie ecvestră impunătoare în lumina aurie a după-amiezii și aflați mai multe despre istoria locală de pe panourile informative.",
-            "en": "Take impressive photos of this imposing equestrian statue in the golden afternoon light and learn more about local history from the information boards."
+            "en": "Take impressive photos of this imposing equestrian statue in the golden afternoon light and learn more about local history from the information boards.",
+            "fr": "Prenez des photos impressionnantes de cette imposante statue équestre à la lumière dorée de l’après‑midi et informez‑vous sur l’histoire locale grâce aux panneaux."
           }
         },
         {
@@ -159,7 +171,8 @@
             "de": "Sainte-Anne Kirche",
             "hu": "Sainte-Anne templom",
             "ro": "Biserica Sainte-Anne",
-            "en": "Église Sainte-Anne"
+            "en": "Église Sainte-Anne",
+            "fr": "Église Sainte-Anne"
           },
           "coords": [
             0.06443,
@@ -174,7 +187,8 @@
             "de": "Erleben Sie die spirituelle Atmosphäre dieser charmanten Kirche und betrachten Sie die detaillierten Glasfenster, die besonders bei Sonnenschein in leuchtenden Farben erstrahlen.",
             "hu": "Tapasztalja meg ennek a bájos templomnak a spirituális hangulatát, és nézze meg a részletgazdag ólomüveg ablakokat, amelyek ragyogó színekben pompáznak a napsütésben.",
             "ro": "Experimentați atmosfera spirituală a acestei biserici fermecătoare și priviți vitraliile detaliate, care strălucesc în culori vibrante la lumina soarelui.",
-            "en": "Experience the spiritual atmosphere of this charming church and look at the detailed stained glass windows, which shine in vibrant colors in the sunlight."
+            "en": "Experience the spiritual atmosphere of this charming church and look at the detailed stained glass windows, which shine in vibrant colors in the sunlight.",
+            "fr": "Vivez l’atmosphère spirituelle de cette charmante église et observez les vitraux détaillés qui brillent de couleurs vives au soleil."
           }
         }
       ],
@@ -182,7 +196,8 @@
         "de": "Wir beginnen unseren Rundgang an der historischen Saint-Gérin Kirche, bevor wir das prächtige Musée Massey mit seinen Gärten erreichen. Am Mittag entspannen wir kurz am Spielplatz und tauchen in der Maison Natale in das Leben von Marschall Foch ein. Nachmittags bewundern wir das Théâtre des Nouveautés und das imposante Foch-Denkmal. Der Tag endet friedlich in der Église Sainte-Anne.",
         "hu": "Sétánkat a történelmi Saint-Gérin templomnál kezdjük, majd a csodálatos Musée Massey-hez érkezünk. Délben röviden megpihenünk a játszótéren, és elmerülünk Foch marsall életében a szülőházában. Délután megcsodáljuk a színházat és az impozáns Foch-emlékművet. A nap békésen zárul a Sainte-Anne templomban.",
         "ro": "Începem plimbarea noastră la biserica istorică Saint-Gérin înainte de a ajunge la magnificul Musée Massey. La prânz ne relaxăm la terenul de joacă și ne scufundăm în viața mareșalului Foch la casa sa natală. După-amiaza admirăm teatrul și impunătorul monument Foch. Ziua se încheie liniștit la biserica Sainte-Anne.",
-        "en": "We start our tour at the historic Saint-Gérin Church before reaching the magnificent Musée Massey and its gardens. At noon, we relax briefly at the playground and dive into the life of Marshal Foch at his birthplace. In the afternoon, we admire the theater and the imposing Foch monument. The day ends peacefully at the Sainte-Anne Church."
+        "en": "We start our tour at the historic Saint-Gérin Church before reaching the magnificent Musée Massey and its gardens. At noon, we relax briefly at the playground and dive into the life of Marshal Foch at his birthplace. In the afternoon, we admire the theater and the imposing Foch monument. The day ends peacefully at the Sainte-Anne Church.",
+        "fr": "Nous commençons la visite à l’historique Église Saint-Gérin avant d’atteindre le magnifique Musée Massey et ses jardins. À midi, nous nous relaxons brièvement à l’aire de jeux et découvrons la vie du Maréchal Foch à sa maison natale. L’après‑midi, nous admirons le théâtre et l’imposant monument à Foch. La journée se termine paisiblement à l’Église Sainte-Anne."
       },
       "variants": {
         "rainy": {
@@ -190,7 +205,8 @@
             "de": "Starten Sie mit einem stabilen Regenschirm nach Saint-Gérin. Mittags bietet das Musée Massey einen wunderbar trockenen Zufluchtsort. Der Nachmittag mischt Geschichte drinnen mit kurzen, nassen Wegen. Enden Sie Ihre Tour sicher unter dem Vordach des Theaters.",
             "hu": "Induljon egy erős esernyővel a Saint-Gérin felé. A déli órákban a Musée Massey kiváló, száraz menedéket nyújt. A délután a beltéri történelem és a záporok közötti gyors séták keveréke. Zárja a napot a színház eresze alatt.",
             "ro": "Începeți cu o umbrelă solidă spre Saint-Gérin. La prânz, Musée Massey oferă un refugiu uscat perfect. După-amiaza îmbină istoria la interior cu plimbări scurte între reprizele de ploaie. Încheiați traseul sub copertina teatrului.",
-            "en": "Start with a sturdy umbrella towards Saint-Gérin. Midday provides a perfect dry escape inside Musée Massey. The afternoon mixes indoor history with quick outdoor dashes between showers. Conclude safely under the theater's canopy."
+            "en": "Start with a sturdy umbrella towards Saint-Gérin. Midday provides a perfect dry escape inside Musée Massey. The afternoon mixes indoor history with quick outdoor dashes between showers. Conclude safely under the theater's canopy.",
+            "fr": "Commencez avec un parapluie solide vers Saint-Gérin. Midi offre une parfaite escapade sèche au Musée Massey. L’après‑midi mêle histoire en intérieur et courtes courses extérieures entre les averses. Concluez en toute sécurité sous le auvent du théâtre."
           },
           "stops": [
             {
@@ -198,13 +214,15 @@
                 "de": "Saint-Gérin Kirche",
                 "hu": "Saint-Gérin templom",
                 "ro": "Biserica Saint-Gérin",
-                "en": "Saint-Gérin Church"
+                "en": "Saint-Gérin Church",
+                "fr": "Église Saint-Gérin"
               },
               "tip_5lang": {
                 "de": "Bewundern Sie die beeindruckende Architektur und finden Sie drinnen einen friedlichen, trockenen Zufluchtsort vor dem Morgenregen.",
                 "hu": "Csodálja meg a lenyűgöző építészetet, miközben békés, száraz menedéket talál a benti terekben a reggeli záporok elől.",
                 "ro": "Admirați arhitectura impresionantă în timp ce găsiți la interior un refugiu liniștit și uscat de ploile matinale.",
-                "en": "Admire the striking architecture while taking a peaceful, dry refuge from the morning showers inside the nave."
+                "en": "Admire the striking architecture while taking a peaceful, dry refuge from the morning showers inside the nave.",
+                "fr": "Admirez l’architecture frappante tout en trouvant un refuge sec et paisible dans la nef contre les ondées matinales."
               }
             },
             {
@@ -212,13 +230,15 @@
                 "de": "Musée Massey",
                 "hu": "Musée Massey",
                 "ro": "Musée Massey",
-                "en": "Musée Massey"
+                "en": "Musée Massey",
+                "fr": "Musée Massey"
               },
               "tip_5lang": {
                 "de": "Dieses faszinierende Husarenmuseum ist der perfekte Rückzugsort für Regentage, um Geschichte im Trockenen zu erleben.",
                 "hu": "Ez a lenyűgöző huszármúzeum tökéletes esős napi menedék, ahol szárazon maradhat, miközben elmélyül a történelemben.",
                 "ro": "Acest fascinant muzeu al husarilor oferă o evadare perfectă, permițându-vă să explorați istoria fără a vă uda.",
-                "en": "This fascinating hussar museum provides a perfect indoor escape, letting you explore history without getting wet outside."
+                "en": "This fascinating hussar museum provides a perfect indoor escape, letting you explore history without getting wet outside.",
+                "fr": "Ce fascinant musée des hussards constitue une parfaite échappée intérieure, vous laissant explorer l’histoire à l’abri de la pluie."
               }
             },
             {
@@ -226,13 +246,15 @@
                 "de": "Spielplatz (Aire des Jeux)",
                 "hu": "Játszótér (Aire des Jeux)",
                 "ro": "Teren de joacă (Aire des Jeux)",
-                "en": "Aire des Jeux"
+                "en": "Aire des Jeux",
+                "fr": "Aire de jeux"
               },
               "tip_5lang": {
                 "de": "Auch wenn das Spielen im Freien ausfällt, lockert ein kurzer Spaziergang unter dem Schirm durch den Park die Route auf.",
                 "hu": "Bár a szabadtéri játék most elmarad, egy gyors esernyős séta a park mellett kellemesen megtöri az útvonalat.",
                 "ro": "Deși joaca în aer liber nu este posibilă, o scurtă plimbare pe lângă parc sub umbrelă este totuși plăcută.",
-                "en": "Though outdoor play is off the table, a quick stroll past this park under your umbrella breaks up the walk nicely."
+                "en": "Though outdoor play is off the table, a quick stroll past this park under your umbrella breaks up the walk nicely.",
+                "fr": "Même si le jeu extérieur est impossible, une courte promenade sous votre parapluie le long du parc permet de varier la balade."
               }
             },
             {
@@ -240,13 +262,15 @@
                 "de": "Geburtshaus von Marschall Foch",
                 "hu": "Foch marsall szülőháza",
                 "ro": "Casa natală a mareșalului Foch",
-                "en": "Maison Natale du Maréchal Foch"
+                "en": "Maison Natale du Maréchal Foch",
+                "fr": "Maison natale du Maréchal Foch"
               },
               "tip_5lang": {
                 "de": "Schütteln Sie Ihren Regenmantel ab und treten Sie ein, um in trockener Umgebung mehr über das Leben des Marschalls zu erfahren.",
                 "hu": "Rázza le esőkabátját, és lépjen be, hogy ebben a száraz, történelmi környezetben ismerje meg a marsall korai éveit.",
                 "ro": "Scuturați pelerina de ploaie și intrați pentru a descoperi viața timpurie a mareșalului într-un mediu uscat și plin de istorie.",
-                "en": "Shake off your raincoat and step inside to discover the Marshal's early life in this dry, historically rich environment."
+                "en": "Shake off your raincoat and step inside to discover the Marshal's early life in this dry, historically rich environment.",
+                "fr": "Enlevez votre imperméable et entrez pour découvrir la jeunesse du Maréchal dans ce lieu sec et riche en histoire."
               }
             },
             {
@@ -254,13 +278,15 @@
                 "de": "Théâtre des Nouveautés",
                 "hu": "Théâtre des Nouveautés",
                 "ro": "Théâtre des Nouveautés",
-                "en": "Théâtre des Nouveautés"
+                "en": "Théâtre des Nouveautés",
+                "fr": "Théâtre des Nouveautés"
               },
               "tip_5lang": {
                 "de": "Genießen Sie die prächtige Fassade und suchen Sie kurz Schutz unter dem Vordach, bevor Sie im Regen weitergehen.",
                 "hu": "Csodálja meg az elegáns homlokzatot, és keressen egy pillanatra menedéket az előtető alatt a nedves séta folytatása előtt.",
                 "ro": "Apreciați fațada grandioasă și adăpostiți-vă momentan sub copertina de la intrare înainte de a continua plimbarea.",
-                "en": "Appreciate the grand facade and take momentary shelter under the entrance canopy before continuing your wet-weather stroll."
+                "en": "Appreciate the grand facade and take momentary shelter under the entrance canopy before continuing your wet-weather stroll.",
+                "fr": "Appréciez la façade monumentale et abritez‑vous un instant sous le auvent de l’entrée avant de poursuivre votre promenade sous la pluie."
               }
             },
             {
@@ -268,13 +294,15 @@
                 "de": "Reiterstandbild des Marschall Foch",
                 "hu": "Foch marsall lovas szobra",
                 "ro": "Statuia ecvestră a mareșalului Foch",
-                "en": "Statue équestre du Maréchal Foch"
+                "en": "Statue équestre du Maréchal Foch",
+                "fr": "Statue équestre du Maréchal Foch"
               },
               "tip_5lang": {
                 "de": "Das bronzene Reiterstandbild wirkt im Regen besonders dramatisch; machen Sie ein schnelles Foto und halten Sie den Schirm bereit.",
                 "hu": "A bronz lovasszobor különösen drámaian fest az esőben; készítsen egy gyors fotót, és tartsa kéznél az esernyőt.",
                 "ro": "Statuia ecvestră de bronz arată deosebit de dramatic în ploaie; faceți o fotografie rapidă și țineți umbrela aproape.",
-                "en": "The bronze equestrian statue looks particularly dramatic in the rain; snap a quick photo and keep your umbrella handy."
+                "en": "The bronze equestrian statue looks particularly dramatic in the rain; snap a quick photo and keep your umbrella handy.",
+                "fr": "La statue équestre en bronze est particulièrement dramatique sous la pluie ; prenez une photo rapide et gardez votre parapluie à portée de main."
               }
             },
             {
@@ -282,13 +310,15 @@
                 "de": "Sainte-Anne Kirche",
                 "hu": "Sainte-Anne templom",
                 "ro": "Biserica Sainte-Anne",
-                "en": "Église Sainte-Anne"
+                "en": "Église Sainte-Anne",
+                "fr": "Église Sainte-Anne"
               },
               "tip_5lang": {
                 "de": "Ein ruhiger Ort, um sich endgültig abzutrocknen und fernab der Nachmittagsgüsse das wunderschöne Innere zu genießen.",
                 "hu": "Nyugodt hely, ahol végre megszáradhat, és a délutáni felhőszakadásoktól távol élvezheti a gyönyörű belső teret.",
                 "ro": "Un loc senin unde vă puteți usca în sfârșit, oferind o contemplare liniștită departe de ploile torențiale de după-amiază.",
-                "en": "A serene place to finally dry off, offering quiet contemplation and beautiful interiors away from the afternoon downpours."
+                "en": "A serene place to finally dry off, offering quiet contemplation and beautiful interiors away from the afternoon downpours.",
+                "fr": "Un lieu serein pour enfin se sécher, offrant une contemplation tranquille et de beaux intérieurs à l’abri des averses de l’après‑midi."
               }
             }
           ]
@@ -298,7 +328,8 @@
             "de": "Ein kalter Wintermorgen beginnt frisch an der Kirche. Mittags wärmen Sie sich ausgiebig in den großen Museumsgalerien auf. Nachmittags werden die Schatten lang, perfekt für die Geschichte drinnen. Die Dämmerung bricht um 17:00 Uhr herein.",
             "hu": "A csípős téli reggel a templomnál indul. A déli órákban a múzeum fűtött termei nyújtanak meleget. A délutáni árnyékok hamar nyúlnak, ami tökéletes a beltéri programokhoz. Sötétedés már 17:00 körül elkezdődik az utcákon.",
             "ro": "O dimineață rece de iarnă începe la biserică. La prânz, galeriile muzeului vă încălzesc foarte bine. Umbrele după-amiezii se lungesc devreme; perfect pentru istorie la interior. Amurgul sosește pe la ora 17:00, luminând orașul.",
-            "en": "A crisp winter morning begins at the church. Midday warms you up inside the grand museum galleries. Afternoon shadows stretch early, making it perfect for cozy indoor history. Dusk arrives around 17:00, illuminating the streets."
+            "en": "A crisp winter morning begins at the church. Midday warms you up inside the grand museum galleries. Afternoon shadows stretch early, making it perfect for cozy indoor history. Dusk arrives around 17:00, illuminating the streets.",
+            "fr": "Un matin d’hiver vif commence à l’église. Midi vous réchauffe dans les vastes galeries du musée. Les ombres de l’après‑midi s’allongent tôt, parfait pour une histoire cosy à l’intérieur. Le crépuscule arrive vers 17:00, illuminant les rues."
           },
           "stops": [
             {
@@ -306,13 +337,15 @@
                 "de": "Saint-Gérin Kirche",
                 "hu": "Saint-Gérin templom",
                 "ro": "Biserica Saint-Gérin",
-                "en": "Saint-Gérin Church"
+                "en": "Saint-Gérin Church",
+                "fr": "Église Saint-Gérin"
               },
               "tip_5lang": {
                 "de": "Die dicken Wände halten die Winterkälte ab, sodass Sie die Buntglasfenster an einem kalten Morgen friedlich bewundern können.",
                 "hu": "A vastag falak kint tartják a téli hideget, így békésen csodálhatja meg az ólomüveget ezen a fagyos, éles reggelen.",
                 "ro": "Pereții groși țin frigul de iarnă la distanță, permițându-vă să admirați liniștit vitraliile într-o dimineață geroasă.",
-                "en": "The thick walls keep the winter chill out, allowing you to peacefully admire the stained glass on a cold, crisp morning."
+                "en": "The thick walls keep the winter chill out, allowing you to peacefully admire the stained glass on a cold, crisp morning.",
+                "fr": "Les murs épais protègent du froid hivernal, vous permettant d’admirer paisiblement les vitraux par un matin frais et vif."
               }
             },
             {
@@ -320,13 +353,15 @@
                 "de": "Musée Massey",
                 "hu": "Musée Massey",
                 "ro": "Musée Massey",
-                "en": "Musée Massey"
+                "en": "Musée Massey",
+                "fr": "Musée Massey"
               },
               "tip_5lang": {
                 "de": "Verbringen Sie zusätzliche Zeit in diesen beheizten Galerien; ein idealer Mittagsstopp, um sich an einem eiskalten Wintertag aufzuwärmen.",
                 "hu": "Töltsön több időt ezekben a fűtött termekben; ideális déli megálló, hogy felmelegedjen egy fagyos téli napon.",
                 "ro": "Petreceți timp suplimentar în aceste galerii încălzite, o oprire ideală la prânz pentru a vă încălzi într-o zi înghețată de iarnă.",
-                "en": "Spend extra time in these heated galleries admiring the exhibits, an ideal midday stop to warm up on a freezing winter day."
+                "en": "Spend extra time in these heated galleries admiring the exhibits, an ideal midday stop to warm up on a freezing winter day.",
+                "fr": "Passez plus de temps dans ces galeries chauffées pour admirer les collections, un arrêt idéal à midi pour vous réchauffer lors d’une journée glaciale."
               }
             },
             {
@@ -334,13 +369,15 @@
                 "de": "Spielplatz (Aire des Jeux)",
                 "hu": "Játszótér (Aire des Jeux)",
                 "ro": "Teren de joacă (Aire des Jeux)",
-                "en": "Aire des Jeux"
+                "en": "Aire des Jeux",
+                "fr": "Aire de jeux"
               },
               "tip_5lang": {
                 "de": "Der frostige Spielplatz ist ruhig; gehen Sie zügig weiter, um warm zu bleiben und die frische Winterluft zu genießen.",
                 "hu": "A fagyos játszótér most csendes; haladjon tempósan, hogy melegen tartsa magát, miközben élvezi a friss téli levegőt.",
                 "ro": "Locul de joacă înghețat este liniștit; mișcați-vă rapid pentru a vă menține cald în timp ce vă bucurați de aerul rece de iarnă.",
-                "en": "The frosty playground is quiet; keep moving briskly to stay warm while enjoying the fresh, crisp winter air here."
+                "en": "The frosty playground is quiet; keep moving briskly to stay warm while enjoying the fresh, crisp winter air here.",
+                "fr": "L'aire de jeu givrée est silencieuse ; gardez un pas vif pour rester au chaud tout en profitant de l'air d'hiver frais et vif ici."
               }
             },
             {
@@ -348,13 +385,15 @@
                 "de": "Geburtshaus von Marschall Foch",
                 "hu": "Foch marsall szülőháza",
                 "ro": "Casa natală a mareșalului Foch",
-                "en": "Maison Natale du Maréchal Foch"
+                "en": "Maison Natale du Maréchal Foch",
+                "fr": "Maison Natale du Maréchal Foch"
               },
               "tip_5lang": {
                 "de": "Wärmen Sie sich drinnen auf, während Sie die faszinierenden Ausstellungsstücke dieses berühmten Anführers vor dem frühen Sonnenuntergang erkunden.",
                 "hu": "Melegítse fel a kezét bent, miközben még a korai naplemente előtt felfedezi a híres katonai vezető életét bemutató tárlatot.",
                 "ro": "Încălziți-vă mâinile la interior explorând expozițiile fascinante ale acestui faimos lider militar înainte de apusul devreme.",
-                "en": "Warm your hands indoors while exploring the fascinating exhibits of this famous military leader before the early sunset."
+                "en": "Warm your hands indoors while exploring the fascinating exhibits of this famous military leader before the early sunset.",
+                "fr": "Réchauffez-vous les mains à l'intérieur en explorant les fascinantes expositions de ce célèbre chef militaire avant le coucher du soleil précoce."
               }
             },
             {
@@ -362,13 +401,15 @@
                 "de": "Théâtre des Nouveautés",
                 "hu": "Théâtre des Nouveautés",
                 "ro": "Théâtre des Nouveautés",
-                "en": "Théâtre des Nouveautés"
+                "en": "Théâtre des Nouveautés",
+                "fr": "Théâtre des Nouveautés"
               },
               "tip_5lang": {
                 "de": "Das schwindende Winterlicht verleiht der Architektur einen schönen Glanz; ziehen Sie sich für diesen kurzen Halt im Freien warm an.",
                 "hu": "A halványuló téli fény gyönyörű ragyogást kölcsönöz az épületnek; ne felejtsen el jól felöltözni ehhez a rövid kinti megállóhoz.",
                 "ro": "Lumina de iarnă care scade aruncă o strălucire frumoasă asupra arhitecturii; asigurați-vă că sunteți bine îmbrăcat pentru această oprire rapidă.",
-                "en": "The fading winter light casts a beautiful glow on the architecture; just remember to bundle up for this quick outdoor stop."
+                "en": "The fading winter light casts a beautiful glow on the architecture; just remember to bundle up for this quick outdoor stop.",
+                "fr": "La lumière hivernale déclinante donne une belle lueur à l'architecture ; n'oubliez pas de bien vous emmitoufler pour cet arrêt extérieur rapide."
               }
             },
             {
@@ -376,13 +417,15 @@
                 "de": "Reiterstandbild des Marschall Foch",
                 "hu": "Foch marsall lovas szobra",
                 "ro": "Statuia ecvestră a mareșalului Foch",
-                "en": "Statue équestre du Maréchal Foch"
+                "en": "Statue équestre du Maréchal Foch",
+                "fr": "Statue équestre du Maréchal Foch"
               },
               "tip_5lang": {
                 "de": "Bewundern Sie das imposante Denkmal, wenn die langen Winterschatten über den Platz fallen, aber behalten Sie Ihre Handschuhe an.",
                 "hu": "Csodálja meg az impozáns emlékművet, ahogy a hosszú téli árnyékok átszelik a teret, de tartsa magán a kesztyűt a hideg ellen.",
                 "ro": "Admirați monumentul impunător în timp ce umbrele lungi de iarnă se întind peste piață, dar păstrați-vă mănușile pentru frig.",
-                "en": "Admire the imposing monument as the long winter shadows stretch across the square, but keep your gloves on against the cold."
+                "en": "Admire the imposing monument as the long winter shadows stretch across the square, but keep your gloves on against the cold.",
+                "fr": "Admirez le monument imposant tandis que les longues ombres hivernales s'étirent sur la place, mais gardez vos gants contre le froid."
               }
             },
             {
@@ -390,13 +433,15 @@
                 "de": "Sainte-Anne Kirche",
                 "hu": "Sainte-Anne templom",
                 "ro": "Biserica Sainte-Anne",
-                "en": "Église Sainte-Anne"
+                "en": "Église Sainte-Anne",
+                "fr": "Église Sainte-Anne"
               },
               "tip_5lang": {
                 "de": "Treten Sie in dieses friedliche Heiligtum ein, um der eisigen Kälte zu entkommen – ein perfektes, beruhigendes Ende vor dem Abend.",
                 "hu": "Lépjen be ebbe a békés szentélybe, hogy elmeneküljön a harapós hideg elől; tökéletes és megnyugtató befejezés az este közeledtével.",
                 "ro": "Intrați în acest sanctuar pașnic pentru a scăpa de frigul pătrunzător, un final calmant perfect pe măsură ce se apropie seara.",
-                "en": "Step inside this peaceful sanctuary to escape the biting cold, a perfect calming end to your walk as evening approaches."
+                "en": "Step inside this peaceful sanctuary to escape the biting cold, a perfect calming end to your walk as evening approaches.",
+                "fr": "Entrez dans ce sanctuaire paisible pour échapper au froid mordant, une parfaite conclusion apaisante à votre promenade à l'approche du soir."
               }
             }
           ]
@@ -416,7 +461,8 @@
             "de": "Saint-Gérin Kirche",
             "hu": "Saint-Gérin templom",
             "ro": "Biserica Saint-Gérin",
-            "en": "Saint-Gérin Church"
+            "en": "Saint-Gérin Church",
+            "fr": "Saint-Gérin Church"
           },
           "coords": [
             0.097557,
@@ -431,7 +477,8 @@
             "de": "Bewundern Sie die schlichte Eleganz dieser historischen Kirche und nehmen Sie sich Zeit für eine ruhige Pause im kühlen Innenraum während der frühen Morgenstunden.",
             "hu": "Csodálja meg ennek a történelmi templomnak az egyszerű eleganciáját, és szánjon időt egy csendes pihenőre a hűvös belső térben a kora reggeli órákban.",
             "ro": "Admirați eleganța simplă a acestei biserici istorice și luați-vă timp pentru o pauză liniștită în interiorul răcoros în timpul orelor timpurii ale dimineții.",
-            "en": "Admire the simple elegance of this historic church and take some time for a quiet break in the cool interior during the early morning hours."
+            "en": "Admire the simple elegance of this historic church and take some time for a quiet break in the cool interior during the early morning hours.",
+            "fr": "Admirez l'élégance simple de cette église historique et accordez-vous un moment de calme dans l'intérieur frais pendant les premières heures du matin."
           }
         },
         {
@@ -439,7 +486,8 @@
             "de": "Musée Massey",
             "hu": "Musée Massey",
             "ro": "Musée Massey",
-            "en": "Musée Massey"
+            "en": "Musée Massey",
+            "fr": "Musée Massey"
           },
           "coords": [
             0.075252,
@@ -454,7 +502,8 @@
             "de": "Entdecken Sie in diesem prachtvollen Museum die faszinierende Geschichte der Husaren und spazieren Sie anschließend durch den wunderschönen, angrenzenden botanischen Garten.",
             "hu": "Fedezze fel a huszárok lenyűgöző történetét ebben a csodálatos múzeumban, majd sétáljon egyet a gyönyörű, szomszédos botanikus kertben.",
             "ro": "Descoperiți istoria fascinantă a husarilor în acest muzeu magnific și apoi faceți o plimbare prin frumoasa grădină botanică adiacentă.",
-            "en": "Discover the fascinating history of the hussars in this magnificent museum and then take a stroll through the beautiful, adjacent botanical garden."
+            "en": "Discover the fascinating history of the hussars in this magnificent museum and then take a stroll through the beautiful, adjacent botanical garden.",
+            "fr": "Découvrez l'histoire fascinante des hussards dans ce magnifique musée puis promenez-vous dans le superbe jardin botanique adjacent."
           }
         },
         {
@@ -462,7 +511,8 @@
             "de": "Geburtshaus von Marschall Foch",
             "hu": "Foch marsall szülőháza",
             "ro": "Casa natală a mareșalului Foch",
-            "en": "Maison Natale du Maréchal Foch"
+            "en": "Maison Natale du Maréchal Foch",
+            "fr": "Maison Natale du Maréchal Foch"
           },
           "coords": [
             0.071248,
@@ -477,7 +527,8 @@
             "de": "Besuchen Sie das Geburtshaus des berühmten Marschalls Foch und achten Sie auf die vielen persönlichen Gegenstände, die seine unglaubliche militärische Karriere veranschaulichen.",
             "hu": "Látogassa meg a híres Foch marsall szülőházát, és figyeljen a sok személyes tárgyra, amelyek bemutatják hihetetlen katonai karrierjét.",
             "ro": "Vizitați locul de naștere al celebrului mareșal Foch și acordați atenție numeroaselor obiecte personale care ilustrează incredibila sa carieră militară.",
-            "en": "Visit the birthplace of the famous Marshal Foch and pay attention to the many personal items that illustrate his incredible military career."
+            "en": "Visit the birthplace of the famous Marshal Foch and pay attention to the many personal items that illustrate his incredible military career.",
+            "fr": "Visitez la maison natale du célèbre maréchal Foch et prêtez attention aux nombreux objets personnels qui illustrent sa remarquable carrière militaire."
           }
         },
         {
@@ -485,7 +536,8 @@
             "de": "Sainte-Anne Kirche",
             "hu": "Sainte-Anne templom",
             "ro": "Biserica Sainte-Anne",
-            "en": "Église Sainte-Anne"
+            "en": "Église Sainte-Anne",
+            "fr": "Église Sainte-Anne"
           },
           "coords": [
             0.06443,
@@ -500,7 +552,8 @@
             "de": "Erleben Sie die spirituelle Atmosphäre dieser charmanten Kirche und betrachten Sie die detaillierten Glasfenster, die besonders bei Sonnenschein in leuchtenden Farben erstrahlen.",
             "hu": "Tapasztalja meg ennek a bájos templomnak a spirituális hangulatát, és nézze meg a részletgazdag ólomüveg ablakokat, amelyek ragyogó színekben pompáznak a napsütésben.",
             "ro": "Experimentați atmosfera spirituală a acestei biserici fermecătoare și priviți vitraliile detaliate, care strălucesc în culori vibrante la lumina soarelui.",
-            "en": "Experience the spiritual atmosphere of this charming church and look at the detailed stained glass windows, which shine in vibrant colors in the sunlight."
+            "en": "Experience the spiritual atmosphere of this charming church and look at the detailed stained glass windows, which shine in vibrant colors in the sunlight.",
+            "fr": "Ressentez l'atmosphère spirituelle de cette charmante église et admirez les vitraux détaillés, qui brillent de couleurs vives au soleil."
           }
         },
         {
@@ -508,7 +561,8 @@
             "de": "Parc de l'Echez",
             "hu": "Echez park",
             "ro": "Parcul Echez",
-            "en": "Parc de l'Echez"
+            "en": "Parc de l'Echez",
+            "fr": "Parc de l'Echez"
           },
           "coords": [
             0.04625,
@@ -523,7 +577,8 @@
             "de": "Genießen Sie einen erholsamen Spaziergang entlang des Flusses in diesem weitläufigen Park und bringen Sie bequeme Schuhe mit, um die malerischen Naturpfade vollständig zu erkunden.",
             "hu": "Élvezze a pihentető sétát a folyó mentén ebben a tágas parkban, és hozzon kényelmes cipőt, hogy teljes mértékben felfedezze a festői természeti ösvényeket.",
             "ro": "Bucurați-vă de o plimbare relaxantă de-a lungul râului în acest parc spațios și aduceți încălțăminte confortabilă pentru a explora pe deplin traseele naturale pitorești.",
-            "en": "Enjoy a relaxing walk along the river in this spacious park and bring comfortable shoes to fully explore the picturesque nature trails."
+            "en": "Enjoy a relaxing walk along the river in this spacious park and bring comfortable shoes to fully explore the picturesque nature trails.",
+            "fr": "Profitez d'une promenade relaxante le long de la rivière dans ce parc spacieux et portez des chaussures confortables pour explorer pleinement les sentiers pittoresques."
           }
         },
         {
@@ -531,7 +586,8 @@
             "de": "Reiterstandbild des Marschall Foch",
             "hu": "Foch marsall lovas szobra",
             "ro": "Statuia ecvestră a mareșalului Foch",
-            "en": "Statue équestre du Maréchal Foch"
+            "en": "Statue équestre du Maréchal Foch",
+            "fr": "Statue équestre du Maréchal Foch"
           },
           "coords": [
             0.072962,
@@ -546,7 +602,8 @@
             "de": "Machen Sie beeindruckende Fotos von diesem imposanten Reiterstandbild im goldenen Nachmittagslicht und lernen Sie mehr über die lokale Geschichte anhand der Informationstafeln.",
             "hu": "Készítsen lenyűgöző fényképeket erről az impozáns lovas szoborról az arany délutáni fényben, és tudjon meg többet a helyi történelemről az információs táblákból.",
             "ro": "Faceți fotografii impresionante cu această statuie ecvestră impunătoare în lumina aurie a după-amiezii și aflați mai multe despre istoria locală de pe panourile informative.",
-            "en": "Take impressive photos of this imposing equestrian statue in the golden afternoon light and learn more about local history from the information boards."
+            "en": "Take impressive photos of this imposing equestrian statue in the golden afternoon light and learn more about local history from the information boards.",
+            "fr": "Prenez des photos impressionnantes de cette imposante statue équestre à la lumière dorée de l'après-midi et informez-vous sur l'histoire locale grâce aux panneaux d'information."
           }
         },
         {
@@ -554,7 +611,8 @@
             "de": "Théâtre des Nouveautés",
             "hu": "Théâtre des Nouveautés",
             "ro": "Théâtre des Nouveautés",
-            "en": "Théâtre des Nouveautés"
+            "en": "Théâtre des Nouveautés",
+            "fr": "Théâtre des Nouveautés"
           },
           "coords": [
             0.075626,
@@ -569,7 +627,8 @@
             "de": "Bestaunen Sie die wunderschöne Fassade dieses kulturellen Juwels und informieren Sie sich am Ticketschalter über die aktuellen Abendvorstellungen für einen perfekten Tagesabschluss.",
             "hu": "Csodálja meg ennek a kulturális gyöngyszemnek a gyönyörű homlokzatát, és érdeklődjön a jegypénztárnál az aktuális esti előadásokról a tökéletes napzárás érdekében.",
             "ro": "Admirați fațada frumoasă a acestei bijuterii culturale și întrebați la casa de bilete despre spectacolele de seară actuale pentru a încheia ziua perfect.",
-            "en": "Marvel at the beautiful facade of this cultural gem and ask at the ticket office about current evening performances for a perfect end to the day."
+            "en": "Marvel at the beautiful facade of this cultural gem and ask at the ticket office about current evening performances for a perfect end to the day.",
+            "fr": "Admirez la belle façade de ce joyau culturel et renseignez-vous au guichet sur les spectacles du soir en cours pour une parfaite fin de journée."
           }
         }
       ],
@@ -577,7 +636,8 @@
         "de": "Unsere Radtour startet gemütlich in Aureilhan und führt uns schnell zum kulturellen Herzen, dem Musée Massey. Nach einer historischen Entdeckungsreise bei der Maison Natale fahren wir zur Sainte-Anne Kirche. Der Nachmittag gehört der Natur im Parc de l'Echez, bevor wir den Tag am Foch-Reiterstandbild und dem charmanten Theater schwungvoll ausklingen lassen.",
         "hu": "Kerékpártúránk kényelmesen indul Aureilhanban, és gyorsan a kulturális központba, a Musée Massey-hez vezet. A szülőház történelmi felfedezése után a Sainte-Anne templomhoz tekerünk. A délután a természeté az Echez parkban, mielőtt a napot a Foch lovas szobornál és a bájos színháznál lendületesen lezárnánk.",
         "ro": "Turul nostru cu bicicleta începe confortabil în Aureilhan și ne duce rapid la inima culturală, Musée Massey. După o descoperire istorică la casa natală, pedalăm spre biserica Sainte-Anne. După-amiaza aparține naturii în Parcul Echez, înainte de a încheia ziua cu statuia ecvestră Foch și teatrul fermecător.",
-        "en": "Our bike tour starts comfortably in Aureilhan and quickly leads us to the cultural heart, the Musée Massey. After a historic discovery at the birthplace, we ride to Sainte-Anne Church. The afternoon belongs to nature in the Echez Park, before we end the day energetically at the Foch equestrian statue and the charming theater."
+        "en": "Our bike tour starts comfortably in Aureilhan and quickly leads us to the cultural heart, the Musée Massey. After a historic discovery at the birthplace, we ride to Sainte-Anne Church. The afternoon belongs to nature in the Echez Park, before we end the day energetically at the Foch equestrian statue and the charming theater.",
+        "fr": "Notre circuit à vélo commence confortablement à Aureilhan et nous mène rapidement au cœur culturel, le Musée Massey. Après une découverte historique à la maison natale, nous roulons vers l'église Sainte-Anne. L'après-midi est consacré à la nature au parc de l'Echez, avant de terminer la journée de façon énergique à la statue équestre Foch et au charmant théâtre."
       },
       "variants": {
         "rainy": {
@@ -585,7 +645,8 @@
             "de": "Tragen Sie unbedingt regenfeste Kleidung für diese nasse Fahrt. Mittags bieten die Museen eine willkommene Chance zum Trocknen. Nachmittags erfordert das Fahren auf den rutschigen Straßen Vorsicht, besonders in Kurven. Beenden Sie die Tour sicher trotz anhaltendem Regen.",
             "hu": "Feltétlenül viseljen vízálló felszerelést a nedves útra. A déli múzeumi szünetek esélyt adnak az alapos megszáradásra. A délutáni tekerés különös óvatosságot igényel a csúszós, vizes utcákon. Fejezze be a napot biztonságban, esőben is.",
             "ro": "Purtați echipament impermeabil complet pentru ploaie. Pauzele de prânz la muzeu oferă șansa excelentă de a vă usca. Mersul pe bicicletă după-amiaza necesită mare atenție pe străzile alunecoase. Terminați traseul în siguranță deși plouă.",
-            "en": "Wear full waterproof gear for this wet ride. Midday museum breaks offer a much-needed chance to dry off completely. Afternoon riding requires extra caution on slippery, wet streets between stops. Finish the route safely as the rain persists."
+            "en": "Wear full waterproof gear for this wet ride. Midday museum breaks offer a much-needed chance to dry off completely. Afternoon riding requires extra caution on slippery, wet streets between stops. Finish the route safely as the rain persists.",
+            "fr": "Portez un équipement totalement imperméable pour cette sortie humide. Les pauses musée de midi offrent une occasion essentielle de sécher complètement. L'après-midi, la circulation exige une prudence accrue sur les rues glissantes et mouillées entre les arrêts. Terminez l'itinéraire en toute sécurité tant que la pluie persiste."
           },
           "stops": [
             {
@@ -593,13 +654,15 @@
                 "de": "Saint-Gérin Kirche",
                 "hu": "Saint-Gérin templom",
                 "ro": "Biserica Saint-Gérin",
-                "en": "Saint-Gérin Church"
+                "en": "Saint-Gérin Church",
+                "fr": "Saint-Gérin Church"
               },
               "tip_5lang": {
                 "de": "Parken Sie Ihr Fahrrad vorsichtig und genießen Sie die kunstvollen Buntglasfenster, während Sie dem nassen Morgenwetter entkommen.",
                 "hu": "Parkolja le óvatosan a kerékpárt, és élvezze a díszes ólomüveg ablakokat, miközben elmenekül a nedves reggeli időjárás elől.",
                 "ro": "Parcați bicicleta cu grijă și bucurați-vă de vitraliile ornamentate în timp ce scăpați de vremea umedă de dimineață.",
-                "en": "Park your bike carefully and enjoy the ornate stained glass while escaping the wet, gray morning weather inside."
+                "en": "Park your bike carefully and enjoy the ornate stained glass while escaping the wet, gray morning weather inside.",
+                "fr": "Garez votre vélo soigneusement et profitez des vitraux ornés tout en vous abritant de la météo grise et pluvieuse du matin."
               }
             },
             {
@@ -607,13 +670,15 @@
                 "de": "Musée Massey",
                 "hu": "Musée Massey",
                 "ro": "Musée Massey",
-                "en": "Musée Massey"
+                "en": "Musée Massey",
+                "fr": "Musée Massey"
               },
               "tip_5lang": {
                 "de": "Schließen Sie Ihr Rad gut ab und verbringen Sie ein paar trockene Stunden damit, die Husarensammlung vor dem Regen geschützt zu erkunden.",
                 "hu": "Zárja le jól a bringát, és töltsön el néhány száraz órát a huszárgyűjtemény felfedezésével, védve a szakadó esőtől.",
                 "ro": "Legați bine bicicleta și petreceți câteva ore uscate explorând colecția de husari protejați de ploaie.",
-                "en": "Lock your bike securely and spend a dry couple of hours exploring the hussar collection shielded from the heavy rain."
+                "en": "Lock your bike securely and spend a dry couple of hours exploring the hussar collection shielded from the heavy rain.",
+                "fr": "Verrouillez bien votre vélo et passez quelques heures au sec à explorer la collection des hussards à l'abri de la forte pluie."
               }
             },
             {
@@ -621,13 +686,15 @@
                 "de": "Geburtshaus von Marschall Foch",
                 "hu": "Foch marsall szülőháza",
                 "ro": "Casa natală a mareșalului Foch",
-                "en": "Maison Natale du Maréchal Foch"
+                "en": "Maison Natale du Maréchal Foch",
+                "fr": "Maison Natale du Maréchal Foch"
               },
               "tip_5lang": {
                 "de": "Bremse auf nassem Kopfsteinpflaster vorsichtig; drinnen können Sie in Ruhe die Militärgeschichte studieren, ohne nass zu werden.",
                 "hu": "Fékezzen óvatosan a nedves köveken; bent nyugodtan tanulmányozhatja a hadtörténetet anélkül, hogy elázna.",
                 "ro": "Frânați ușor pe pietrele umede; înăuntru puteți studia istoria militară în liniște, fără a vă uda.",
-                "en": "Brake gently on the wet stones; inside you can comfortably study military history without getting soaked."
+                "en": "Brake gently on the wet stones; inside you can comfortably study military history without getting soaked.",
+                "fr": "Freinez délicatement sur les pierres mouillées ; à l'intérieur vous pouvez étudier confortablement l'histoire militaire sans être trempé."
               }
             },
             {
@@ -635,13 +702,15 @@
                 "de": "Sainte-Anne Kirche",
                 "hu": "Sainte-Anne templom",
                 "ro": "Biserica Sainte-Anne",
-                "en": "Église Sainte-Anne"
+                "en": "Église Sainte-Anne",
+                "fr": "Église Sainte-Anne"
               },
               "tip_5lang": {
                 "de": "Nutzen Sie diesen ruhigen Halt, um Ihr Regencape auszuschütteln und den spirituellen Frieden im Trockenen zu genießen.",
                 "hu": "Használja ki ezt a csendes megállót, rázza le esőkabátját, és élvezze a lelki békét a száraz belső térben.",
                 "ro": "Folosiți această oprire liniștită pentru a vă scutura pelerina de ploaie și a vă bucura de pacea spirituală la loc uscat.",
-                "en": "Use this quiet stop to shake off your rain cape and enjoy the spiritual peace in the dry, echoing interior."
+                "en": "Use this quiet stop to shake off your rain cape and enjoy the spiritual peace in the dry, echoing interior.",
+                "fr": "Profitez de cet arrêt tranquille pour secouer votre cape de pluie et apprécier la paix spirituelle dans l'intérieur sec et réverbérant."
               }
             },
             {
@@ -649,13 +718,15 @@
                 "de": "Parc de l'Echez",
                 "hu": "Echez park",
                 "ro": "Parcul Echez",
-                "en": "Parc de l'Echez"
+                "en": "Parc de l'Echez",
+                "fr": "Parc de l'Echez"
               },
               "tip_5lang": {
                 "de": "Die Wege können sehr matschig werden; fahren Sie langsam und genießen Sie das Rauschen des Regens durch die Bäume.",
                 "hu": "Az ösvények sárgák lehetnek; tekerjen lassan, és élvezze az eső megnyugtató kopogását a fák levelein.",
                 "ro": "Cărările pot deveni noroioase; pedalați încet și bucurați-vă de sunetul ploii prin frunzele copacilor.",
-                "en": "The park paths can get quite muddy; ride slowly and simply enjoy the soothing sound of rain falling through the trees."
+                "en": "The park paths can get quite muddy; ride slowly and simply enjoy the soothing sound of rain falling through the trees.",
+                "fr": "Les chemins du parc peuvent devenir très boueux ; roulez lentement et appréciez simplement le son apaisant de la pluie tombant à travers les arbres."
               }
             },
             {
@@ -663,13 +734,15 @@
                 "de": "Reiterstandbild des Marschall Foch",
                 "hu": "Foch marsall lovas szobra",
                 "ro": "Statuia ecvestră a mareșalului Foch",
-                "en": "Statue équestre du Maréchal Foch"
+                "en": "Statue équestre du Maréchal Foch",
+                "fr": "Statue équestre du Maréchal Foch"
               },
               "tip_5lang": {
                 "de": "Achten Sie auf rutschige Straßenbahnschienen oder glatte Steine rund um das glänzende, nasse Bronzedenkmal.",
                 "hu": "Vigyázzon a csúszós kövekre és a pocsolyákra a csillogó, nedves bronzemlékmű körüli kerékpározáskor.",
                 "ro": "Fiți atenți la pietrele alunecoase din jurul monumentului de bronz strălucitor și umed în timp ce pedalați.",
-                "en": "Watch out for slippery cobbles or puddles around the gleaming, wet bronze monument as you cycle past."
+                "en": "Watch out for slippery cobbles or puddles around the gleaming, wet bronze monument as you cycle past.",
+                "fr": "Faites attention aux pavés glissants ou aux flaques autour du monument en bronze mouillé et brillant lorsque vous passez à vélo."
               }
             },
             {
@@ -677,13 +750,15 @@
                 "de": "Théâtre des Nouveautés",
                 "hu": "Théâtre des Nouveautés",
                 "ro": "Théâtre des Nouveautés",
-                "en": "Théâtre des Nouveautés"
+                "en": "Théâtre des Nouveautés",
+                "fr": "Théâtre des Nouveautés"
               },
               "tip_5lang": {
                 "de": "Beenden Sie Ihre verregnete Fahrt mit einem Blick auf das Theater und stellen Sie sicher, dass Ihre Fahrradlichter bei dem grauen Wetter an sind.",
                 "hu": "Fejezze be esős útját a színház látványával, és győződjön meg róla, hogy a kerékpárlámpák be vannak kapcsolva a szürkületben.",
                 "ro": "Terminați plimbarea ploioasă admirând teatrul și asigurați-vă că luminile bicicletei sunt aprinse pe vremea mohorâtă.",
-                "en": "Finish your rainy ride admiring the theater, ensuring your bike lights are fully on in the dim, overcast weather."
+                "en": "Finish your rainy ride admiring the theater, ensuring your bike lights are fully on in the dim, overcast weather.",
+                "fr": "Terminez votre trajet pluvieux en admirant le théâtre, en vous assurant que les lumières de votre vélo sont bien allumées par ce temps sombre et couvert."
               }
             }
           ]
@@ -693,7 +768,8 @@
             "de": "Ziehen Sie sich für diese frostige Morgenfahrt gut in Schichten an. Die mittäglichen Stopps in den Museen spenden unverzichtbare Wärme. Die Nachmittagsfahrten sind extrem frisch, besonders wenn die Sonne tief steht. Schalten Sie das Fahrradlicht für den frühen Sonnenuntergang gegen 17:00 Uhr ein.",
             "hu": "Öltözzön fel melegen, rétegesen ehhez a fagyos reggeli tekeréshez. A déli beltéri megállók elengedhetetlen meleget biztosítanak. A délutáni utak különösen frissek, ahogy a nap egyre lejjebb ereszkedik. Kapcsolja be a lámpákat a korai, 17:00 óra körüli naplemente miatt.",
             "ro": "Îmbrăcați-vă bine în straturi pentru dimineața geroasă pe bicicletă. Opririle la interior de la prânz oferă căldură esențială. Plimbările de după-amiază sunt foarte proaspete. Aprindeți luminile bicicletei devreme, pentru apusul de la ora 17:00.",
-            "en": "Bundle up in warm layers for a frosty morning cycle. Midday indoor stops provide absolutely essential warmth. Afternoon rides become crisp and biting as the sun dips low. Ensure your bike lights are on early for the 17:00 winter sunset."
+            "en": "Bundle up in warm layers for a frosty morning cycle. Midday indoor stops provide absolutely essential warmth. Afternoon rides become crisp and biting as the sun dips low. Ensure your bike lights are on early for the 17:00 winter sunset.",
+            "fr": "Couvrez-vous de couches chaudes pour une balade matinale glacée. Les arrêts intérieurs de midi fournissent une chaleur absolument nécessaire. L'après-midi devient vif et mordant lorsque le soleil baisse. Assurez-vous que vos lumières sont allumées tôt pour le coucher du soleil hivernal à 17h00."
           },
           "stops": [
             {
@@ -701,13 +777,15 @@
                 "de": "Saint-Gérin Kirche",
                 "hu": "Saint-Gérin templom",
                 "ro": "Biserica Saint-Gérin",
-                "en": "Saint-Gérin Church"
+                "en": "Saint-Gérin Church",
+                "fr": "Saint-Gérin Church"
               },
               "tip_5lang": {
                 "de": "Parken Sie schnell und gehen Sie hinein, wo die dicken Mauern vor dem beißenden Winterwind während der Fahrt schützen.",
                 "hu": "Parkoljon le gyorsan és menjen be, ahol a vastag falak menedéket nyújtanak a kerékpározás közben átélt harapós téli szél elől.",
                 "ro": "Parcați rapid și intrați, unde zidurile groase vă protejează de vântul tăios de iarnă resimțit pe bicicletă.",
-                "en": "Park quickly and step inside, where the thick stone walls provide a welcome break from the biting winter wind of your ride."
+                "en": "Park quickly and step inside, where the thick stone walls provide a welcome break from the biting winter wind of your ride.",
+                "fr": "Garez-vous rapidement et entrez, où les épaisses murailles de pierre offrent une pause bienvenue contre le vent d'hiver mordant de votre trajet."
               }
             },
             {
@@ -715,13 +793,15 @@
                 "de": "Musée Massey",
                 "hu": "Musée Massey",
                 "ro": "Musée Massey",
-                "en": "Musée Massey"
+                "en": "Musée Massey",
+                "fr": "Musée Massey"
               },
               "tip_5lang": {
                 "de": "Dies ist der perfekte Ort, um steife Hände aufzuwärmen und in den gut beheizten Räumen die prächtigen Uniformen zu bewundern.",
                 "hu": "Ez a tökéletes hely a merev kezek felmelegítésére, miközben a jól fűtött termekben megcsodálja a pompás egyenruhákat.",
                 "ro": "Acesta este locul perfect pentru a vă încălzi mâinile amorțite și a admira uniformele superbe în camerele bine încălzite.",
-                "en": "This is the perfect spot to warm up stiff hands and admire the magnificent uniforms in the well-heated exhibition rooms."
+                "en": "This is the perfect spot to warm up stiff hands and admire the magnificent uniforms in the well-heated exhibition rooms.",
+                "fr": "C'est l'endroit parfait pour réchauffer des mains raides et admirer les magnifiques uniformes dans les salles d'exposition bien chauffées."
               }
             },
             {
@@ -729,13 +809,15 @@
                 "de": "Geburtshaus von Marschall Foch",
                 "hu": "Foch marsall szülőháza",
                 "ro": "Casa natală a mareșalului Foch",
-                "en": "Maison Natale du Maréchal Foch"
+                "en": "Maison Natale du Maréchal Foch",
+                "fr": "Maison Natale du Maréchal Foch"
               },
               "tip_5lang": {
                 "de": "Behalten Sie Ihre Handschuhe beim Fahren an, aber ziehen Sie sie aus, um die tiefen historischen Einblicke in diesem warmen Museum zu genießen.",
                 "hu": "Tartsa magán a kesztyűt tekerés közben, de vegye le, hogy kényelmesen élvezze a mély történelmi betekintést ebben a meleg múzeumban.",
                 "ro": "Păstrați mănușile în timp ce mergeți, dar dați-le jos pentru a vă bucura de detaliile istorice în acest muzeu cald.",
-                "en": "Keep your gloves on while riding, but peel them off to comfortably enjoy the deep historical insights inside this warm museum."
+                "en": "Keep your gloves on while riding, but peel them off to comfortably enjoy the deep historical insights inside this warm museum.",
+                "fr": "Gardez vos gants en roulant, mais enlevez-les pour profiter confortablement des riches découvertes historiques à l'intérieur de ce musée chauffé."
               }
             },
             {
@@ -743,13 +825,15 @@
                 "de": "Sainte-Anne Kirche",
                 "hu": "Sainte-Anne templom",
                 "ro": "Biserica Sainte-Anne",
-                "en": "Église Sainte-Anne"
+                "en": "Église Sainte-Anne",
+                "fr": "Église Sainte-Anne"
               },
               "tip_5lang": {
                 "de": "Eine ruhige, zugluftfreie Oase. Genießen Sie die friedliche Stille drinnen, bevor Sie sich wieder der eiskalten Winterluft stellen.",
                 "hu": "Nyugodt, huzatmentes oázis. Élvezze a békés csendet bent, mielőtt újra szembenézne a jéghideg téli levegővel a nyeregben.",
                 "ro": "O oază liniștită, fără curenți de aer. Bucurați-vă de liniștea din interior înainte de a înfrunta din nou aerul înghețat de iarnă.",
-                "en": "A calm, draft-free oasis. Enjoy the peaceful silence inside before braving the freezing winter air once more on your saddle."
+                "en": "A calm, draft-free oasis. Enjoy the peaceful silence inside before braving the freezing winter air once more on your saddle.",
+                "fr": "Une oasis calme, sans courant d'air. Appréciez le silence paisible à l'intérieur avant d'affronter de nouveau l'air hivernal glacé sur votre selle."
               }
             },
             {
@@ -757,13 +841,15 @@
                 "de": "Parc de l'Echez",
                 "hu": "Echez park",
                 "ro": "Parcul Echez",
-                "en": "Parc de l'Echez"
+                "en": "Parc de l'Echez",
+                "fr": "Parc de l'Echez"
               },
               "tip_5lang": {
                 "de": "Die frostigen Wege sehen wunderschön aus, aber fahren Sie extrem vorsichtig auf möglichen Eisflächen und packen Sie sich warm ein.",
                 "hu": "A fagyos ösvények gyönyörűek, de rendkívül óvatosan tekerjen az esetleges jeges foltokon, és öltözzön be melegen.",
                 "ro": "Cărările înghețate arată superb, dar mergeți cu extremă prudență pe posibilele petice de gheață și îmbrăcați-vă călduros.",
-                "en": "The frosty paths look beautiful, but ride with extreme caution over potential ice patches and keep your thermal layers zipped."
+                "en": "The frosty paths look beautiful, but ride with extreme caution over potential ice patches and keep your thermal layers zipped.",
+                "fr": "Les sentiers givrés sont magnifiques, mais roulez avec une prudence extrême en cas de plaques de verglas potentielles et gardez vos couches thermiques zippées."
               }
             },
             {
@@ -771,13 +857,15 @@
                 "de": "Reiterstandbild des Marschall Foch",
                 "hu": "Foch marsall lovas szobra",
                 "ro": "Statuia ecvestră a mareșalului Foch",
-                "en": "Statue équestre du Maréchal Foch"
+                "en": "Statue équestre du Maréchal Foch",
+                "fr": "Statue équestre du Maréchal Foch"
               },
               "tip_5lang": {
                 "de": "Das kalte Metall der Statue glänzt in der tief stehenden Wintersonne; halten Sie kurz an, behalten Sie aber den Schal um.",
                 "hu": "A szobor hideg féme megcsillan az alacsonyan járó téli napfényben; álljon meg egy pillanatra, de hagyja sálját szorosan magán.",
                 "ro": "Metalul rece al statuii strălucește în soarele de iarnă coborât; opriți-vă puțin, dar țineți fularul strâns.",
-                "en": "The statue's cold metal gleams in the low-hanging winter sun; pause briefly, but keep your scarf wrapped tightly against the chill."
+                "en": "The statue's cold metal gleams in the low-hanging winter sun; pause briefly, but keep your scarf wrapped tightly against the chill.",
+                "fr": "Le métal froid de la statue brille sous le soleil bas d'hiver ; faites une brève pause, mais gardez votre écharpe bien serrée contre le froid."
               }
             },
             {
@@ -785,13 +873,15 @@
                 "de": "Théâtre des Nouveautés",
                 "hu": "Théâtre des Nouveautés",
                 "ro": "Théâtre des Nouveautés",
-                "en": "Théâtre des Nouveautés"
+                "en": "Théâtre des Nouveautés",
+                "fr": "Théâtre des Nouveautés"
               },
               "tip_5lang": {
                 "de": "Wenn Sie hier ankommen, bricht wahrscheinlich schon die Dunkelheit herein; schalten Sie alle Lichter ein und fahren Sie vorsichtig zurück.",
                 "hu": "Mire ideér, valószínűleg már kezd sötétedni; kapcsolja be az összes lámpát, és óvatosan tekerjen vissza a szállásra.",
                 "ro": "Când ajungeți aici, probabil că se întunecă deja; aprindeți toate luminile și întoarceți-vă cu atenție.",
-                "en": "By the time you reach here, dusk is likely falling; ensure both front and rear lights are blazing for a safe ride back."
+                "en": "By the time you reach here, dusk is likely falling; ensure both front and rear lights are blazing for a safe ride back.",
+                "fr": "Lorsque vous arrivez ici, le crépuscule est probablement tombant ; assurez-vous que vos feux avant et arrière sont allumés pour un retour en sécurité."
               }
             }
           ]
@@ -811,7 +901,8 @@
             "de": "Parc de l'Echez",
             "hu": "Echez park",
             "ro": "Parcul Echez",
-            "en": "Parc de l'Echez"
+            "en": "Parc de l'Echez",
+            "fr": "Parc de l'Echez"
           },
           "coords": [
             0.04625,
@@ -826,7 +917,8 @@
             "de": "Genießen Sie einen erholsamen Spaziergang entlang des Flusses in diesem weitläufigen Park und bringen Sie bequeme Schuhe mit, um die malerischen Naturpfade vollständig zu erkunden.",
             "hu": "Élvezze a pihentető sétát a folyó mentén ebben a tágas parkban, és hozzon kényelmes cipőt, hogy teljes mértékben felfedezze a festői természeti ösvényeket.",
             "ro": "Bucurați-vă de o plimbare relaxantă de-a lungul râului în acest parc spațios și aduceți încălțăminte confortabilă pentru a explora pe deplin traseele naturale pitorești.",
-            "en": "Enjoy a relaxing walk along the river in this spacious park and bring comfortable shoes to fully explore the picturesque nature trails."
+            "en": "Enjoy a relaxing walk along the river in this spacious park and bring comfortable shoes to fully explore the picturesque nature trails.",
+            "fr": "Profitez d'une promenade relaxante le long de la rivière dans ce parc spacieux et portez des chaussures confortables pour explorer pleinement les sentiers pittoresques."
           }
         },
         {
@@ -834,7 +926,8 @@
             "de": "Sainte-Anne Kirche",
             "hu": "Sainte-Anne templom",
             "ro": "Biserica Sainte-Anne",
-            "en": "Église Sainte-Anne"
+            "en": "Église Sainte-Anne",
+            "fr": "Église Sainte-Anne"
           },
           "coords": [
             0.06443,
@@ -849,7 +942,8 @@
             "de": "Erleben Sie die spirituelle Atmosphäre dieser charmanten Kirche und betrachten Sie die detaillierten Glasfenster, die besonders bei Sonnenschein in leuchtenden Farben erstrahlen.",
             "hu": "Tapasztalja meg ennek a bájos templomnak a spirituális hangulatát, és nézze meg a részletgazdag ólomüveg ablakokat, amelyek ragyogó színekben pompáznak a napsütésben.",
             "ro": "Experimentați atmosfera spirituală a acestei biserici fermecătoare și priviți vitraliile detaliate, care strălucesc în culori vibrante la lumina soarelui.",
-            "en": "Experience the spiritual atmosphere of this charming church and look at the detailed stained glass windows, which shine in vibrant colors in the sunlight."
+            "en": "Experience the spiritual atmosphere of this charming church and look at the detailed stained glass windows, which shine in vibrant colors in the sunlight.",
+            "fr": "Ressentez l'atmosphère spirituelle de cette charmante église et admirez les vitraux détaillés, qui brillent de couleurs vives au soleil."
           }
         },
         {
@@ -857,7 +951,8 @@
             "de": "Geburtshaus von Marschall Foch",
             "hu": "Foch marsall szülőháza",
             "ro": "Casa natală a mareșalului Foch",
-            "en": "Maison Natale du Maréchal Foch"
+            "en": "Maison Natale du Maréchal Foch",
+            "fr": "Maison Natale du Maréchal Foch"
           },
           "coords": [
             0.071248,
@@ -872,7 +967,8 @@
             "de": "Besuchen Sie das Geburtshaus des berühmten Marschalls Foch und achten Sie auf die vielen persönlichen Gegenstände, die seine unglaubliche militärische Karriere veranschaulichen.",
             "hu": "Látogassa meg a híres Foch marsall szülőházát, és figyeljen a sok személyes tárgyra, amelyek bemutatják hihetetlen katonai karrierjét.",
             "ro": "Vizitați locul de naștere al celebrului mareșal Foch și acordați atenție numeroaselor obiecte personale care ilustrează incredibila sa carieră militară.",
-            "en": "Visit the birthplace of the famous Marshal Foch and pay attention to the many personal items that illustrate his incredible military career."
+            "en": "Visit the birthplace of the famous Marshal Foch and pay attention to the many personal items that illustrate his incredible military career.",
+            "fr": "Visitez la maison natale du célèbre maréchal Foch et prêtez attention aux nombreux objets personnels qui illustrent sa remarquable carrière militaire."
           }
         },
         {
@@ -880,7 +976,8 @@
             "de": "Reiterstandbild des Marschall Foch",
             "hu": "Foch marsall lovas szobra",
             "ro": "Statuia ecvestră a mareșalului Foch",
-            "en": "Statue équestre du Maréchal Foch"
+            "en": "Statue équestre du Maréchal Foch",
+            "fr": "Statue équestre du Maréchal Foch"
           },
           "coords": [
             0.072962,
@@ -895,7 +992,8 @@
             "de": "Machen Sie beeindruckende Fotos von diesem imposanten Reiterstandbild im goldenen Nachmittagslicht und lernen Sie mehr über die lokale Geschichte anhand der Informationstafeln.",
             "hu": "Készítsen lenyűgöző fényképeket erről az impozáns lovas szoborról az arany délutáni fényben, és tudjon meg többet a helyi történelemről az információs táblákból.",
             "ro": "Faceți fotografii impresionante cu această statuie ecvestră impunătoare în lumina aurie a după-amiezii și aflați mai multe despre istoria locală de pe panourile informative.",
-            "en": "Take impressive photos of this imposing equestrian statue in the golden afternoon light and learn more about local history from the information boards."
+            "en": "Take impressive photos of this imposing equestrian statue in the golden afternoon light and learn more about local history from the information boards.",
+            "fr": "Prenez des photos impressionnantes de cette imposante statue équestre à la lumière dorée de l'après-midi et informez-vous sur l'histoire locale grâce aux panneaux d'information."
           }
         },
         {
@@ -903,7 +1001,8 @@
             "de": "Musée Massey",
             "hu": "Musée Massey",
             "ro": "Musée Massey",
-            "en": "Musée Massey"
+            "en": "Musée Massey",
+            "fr": "Musée Massey"
           },
           "coords": [
             0.075252,
@@ -918,7 +1017,8 @@
             "de": "Entdecken Sie in diesem prachtvollen Museum die faszinierende Geschichte der Husaren und spazieren Sie anschließend durch den wunderschönen, angrenzenden botanischen Garten.",
             "hu": "Fedezze fel a huszárok lenyűgöző történetét ebben a csodálatos múzeumban, majd sétáljon egyet a gyönyörű, szomszédos botanikus kertben.",
             "ro": "Descoperiți istoria fascinantă a husarilor în acest muzeu magnific și apoi faceți o plimbare prin frumoasa grădină botanică adiacentă.",
-            "en": "Discover the fascinating history of the hussars in this magnificent museum and then take a stroll through the beautiful, adjacent botanical garden."
+            "en": "Discover the fascinating history of the hussars in this magnificent museum and then take a stroll through the beautiful, adjacent botanical garden.",
+            "fr": "Découvrez l'histoire fascinante des hussards dans ce magnifique musée puis promenez-vous dans le superbe jardin botanique adjacent."
           }
         },
         {
@@ -926,7 +1026,8 @@
             "de": "Saint-Gérin Kirche",
             "hu": "Saint-Gérin templom",
             "ro": "Biserica Saint-Gérin",
-            "en": "Saint-Gérin Church"
+            "en": "Saint-Gérin Church",
+            "fr": "Saint-Gérin Church"
           },
           "coords": [
             0.097557,
@@ -941,7 +1042,8 @@
             "de": "Bewundern Sie die schlichte Eleganz dieser historischen Kirche und nehmen Sie sich Zeit für eine ruhige Pause im kühlen Innenraum während der heißen Nachmittagsstunden.",
             "hu": "Csodálja meg ennek a történelmi templomnak az egyszerű eleganciáját, és szánjon időt egy csendes pihenőre a hűvös belső térben a forró délutáni órákban.",
             "ro": "Admirați eleganța simplă a acestei biserici istorice și luați-vă timp pentru o pauză liniștită în interiorul răcoros în timpul orelor fierbinți ale după-amiezii.",
-            "en": "Admire the simple elegance of this historic church and take some time for a quiet break in the cool interior during the hot afternoon hours."
+            "en": "Admire the simple elegance of this historic church and take some time for a quiet break in the cool interior during the hot afternoon hours.",
+            "fr": "Admirez la simplicité élégante de cette église historique et prenez le temps d'une pause tranquille dans l'intérieur frais pendant les heures chaudes de l'après-midi."
           }
         }
       ],
@@ -949,7 +1051,8 @@
         "de": "Mit dem Auto beginnen wir am weitläufigen Parc de l'Echez für einen erfrischenden Morgen, gefolgt von der friedlichen Sainte-Anne Kirche. Gegen Mittag widmen wir uns der Geschichte im Geburtshaus von Marschall Foch und betrachten sein großes Reiterstandbild. Der Nachmittag bietet Kultur im Musée Massey, und zum Abschluss kehren wir entspannt nach Aureilhan zurück.",
         "hu": "Autóval a tágas Echez parkban kezdünk egy frissítő reggelt, majd a békés Sainte-Anne templom következik. Délben Foch marsall szülőházában szenteljük magunkat a történelemnek, és megnézzük nagy lovas szobrát. A délután kultúrát kínál a Musée Massey-ben, majd lazítva térünk vissza Aureilhanba.",
         "ro": "Cu mașina începem la parcul spațios Echez pentru o dimineață răcoritoare, urmată de biserica liniștită Sainte-Anne. La prânz ne dedicăm istoriei în casa natală a mareșalului Foch și privim statuia sa ecvestră mare. După-amiaza oferă cultură la Musée Massey, iar la final ne întoarcem relaxați în Aureilhan.",
-        "en": "By car, we begin at the spacious Echez Park for a refreshing morning, followed by the peaceful Sainte-Anne Church. At noon, we dedicate ourselves to history at the birthplace of Marshal Foch and view his large equestrian statue. The afternoon offers culture at the Musée Massey, and finally, we return relaxed to Aureilhan."
+        "en": "By car, we begin at the spacious Echez Park for a refreshing morning, followed by the peaceful Sainte-Anne Church. At noon, we dedicate ourselves to history at the birthplace of Marshal Foch and view his large equestrian statue. The afternoon offers culture at the Musée Massey, and finally, we return relaxed to Aureilhan.",
+        "fr": "En voiture, nous commençons au spacieux parc de l'Echez pour une matinée revigorante, suivie de la paisible église Sainte-Anne. À midi, nous nous consacrons à l'histoire à la maison natale du maréchal Foch et contemplons sa grande statue équestre. L'après-midi offre la culture au Musée Massey, puis nous rentrons détendus à Aureilhan."
       },
       "variants": {
         "rainy": {
@@ -957,7 +1060,8 @@
             "de": "Starten Sie mit einer gemütlichen, trockenen Fahrt zum Park. Mittags wechseln Sie bequem vom warmen Auto in die Museen. Das Nachmittagsparken in der Stadt erfordert kurze, zügige Wege mit dem Schirm. Kehren Sie abends bequem und vor dem Regen geschützt nach Hause zurück.",
             "hu": "Indítson egy kényelmes, száraz autózással a park felé. A dél meleg, védett átmeneteket biztosít a fűtött autó és a múzeumok között. A délutáni városi parkolás után rövid esernyős séták kellenek. Térjen haza kényelmesen, a tartós esőtől teljesen védve autójában.",
             "ro": "Începeți cu o plimbare uscată și confortabilă spre parc. Prânzul oferă tranziții calde din mașină către muzee. Parcarea de după-amiază în oraș necesită plimbări scurte cu umbrela. Întoarceți-vă seara confortabil, feriți complet de ploaie în vehiculul dumneavoastră.",
-            "en": "Start with a cozy, dry drive toward the park. Midday provides warm, sheltered transitions from your car straight into the museums. Afternoon city parking requires brief, brisk walks with an umbrella. Head home comfortably, completely shielded from the persistent rain."
+            "en": "Start with a cozy, dry drive toward the park. Midday provides warm, sheltered transitions from your car straight into the museums. Afternoon city parking requires brief, brisk walks with an umbrella. Head home comfortably, completely shielded from the persistent rain.",
+            "fr": "Commencez par une conduite confortable et sèche en direction du parc. À midi, profitez de transitions abritées et chaudes de votre voiture directement vers les musées. L'après-midi, le stationnement en ville nécessite de courtes marches rapides sous parapluie. Rentrez chez vous confortablement, complètement à l'abri de la pluie persistante."
           },
           "stops": [
             {
@@ -965,13 +1069,15 @@
                 "de": "Parc de l'Echez",
                 "hu": "Echez park",
                 "ro": "Parcul Echez",
-                "en": "Parc de l'Echez"
+                "en": "Parc de l'Echez",
+                "fr": "Parc de l'Echez"
               },
               "tip_5lang": {
                 "de": "Halten Sie Ihren Regenschirm bereit für einen kurzen Blick ins Grün, bevor Sie schnell ins trockene Auto zurückkehren.",
                 "hu": "Tartsa készenlétben esernyőjét egy gyors pillantásra a zöldellő parkra, mielőtt visszatérne a száraz autóba.",
                 "ro": "Țineți umbrela pregătită pentru o scurtă privire asupra verdeții înainte de a vă întoarce rapid în mașina uscată.",
-                "en": "Keep your umbrella ready for a quick look at the park's greenery before rapidly retreating to your dry car."
+                "en": "Keep your umbrella ready for a quick look at the park's greenery before rapidly retreating to your dry car.",
+                "fr": "Gardez votre parapluie prêt pour un bref aperçu de la verdure du parc avant de regagner rapidement votre voiture au sec."
               }
             },
             {
@@ -979,13 +1085,15 @@
                 "de": "Sainte-Anne Kirche",
                 "hu": "Sainte-Anne templom",
                 "ro": "Biserica Sainte-Anne",
-                "en": "Église Sainte-Anne"
+                "en": "Église Sainte-Anne",
+                "fr": "Église Sainte-Anne"
               },
               "tip_5lang": {
                 "de": "Parken Sie möglichst nah; das Echo des Regens an den Kirchenfenstern macht diesen Halt besonders friedlich und stimmungsvoll.",
                 "hu": "Parkoljon minél közelebb; az eső kopogása a templomablakokon különösen békéssé és hangulatossá teszi ezt a megállót.",
                 "ro": "Parcați cât mai aproape; ecoul ploii pe ferestrele bisericii face această oprire deosebit de pașnică și atmosferică.",
-                "en": "Park as close as possible; the sound of rain drumming on the church windows makes this a remarkably peaceful and atmospheric stop."
+                "en": "Park as close as possible; the sound of rain drumming on the church windows makes this a remarkably peaceful and atmospheric stop.",
+                "fr": "Garez-vous au plus près ; le bruit de la pluie battant les vitres de l'église fait de cet arrêt un moment remarquablement paisible et atmosphérique."
               }
             },
             {
@@ -993,13 +1101,15 @@
                 "de": "Geburtshaus von Marschall Foch",
                 "hu": "Foch marsall szülőháza",
                 "ro": "Casa natală a mareșalului Foch",
-                "en": "Maison Natale du Maréchal Foch"
+                "en": "Maison Natale du Maréchal Foch",
+                "fr": "Maison Natale du Maréchal Foch"
               },
               "tip_5lang": {
                 "de": "Ein ausgezeichneter Indoor-Stopp; lassen Sie Ihren Schirm am Eingang und tauchen Sie im Trockenen in die Geschichte ein.",
                 "hu": "Kiváló beltéri megálló; hagyja az esernyőt a bejáratnál, és merüljön el a történelemben a teljesen száraz múzeumban.",
                 "ro": "O oprire excelentă la interior; lăsați umbrela la intrare și scufundați-vă în istorie în muzeul complet uscat.",
-                "en": "An excellent indoor stop; leave your umbrella at the entrance and immerse yourself in history within the dry museum."
+                "en": "An excellent indoor stop; leave your umbrella at the entrance and immerse yourself in history within the dry museum.",
+                "fr": "Un excellent arrêt intérieur ; laissez votre parapluie à l'entrée et immergez-vous dans l'histoire à l'abri de la pluie dans le musée."
               }
             },
             {
@@ -1007,13 +1117,15 @@
                 "de": "Reiterstandbild des Marschall Foch",
                 "hu": "Foch marsall lovas szobra",
                 "ro": "Statuia ecvestră a mareșalului Foch",
-                "en": "Statue équestre du Maréchal Foch"
+                "en": "Statue équestre du Maréchal Foch",
+                "fr": "Statue équestre du Maréchal Foch"
               },
               "tip_5lang": {
                 "de": "Sie können die Statue sogar aus dem Autofenster im Vorbeifahren bewundern, wenn der Regen draußen zu stark wird.",
                 "hu": "Akár az autó ablakából is megcsodálhatja a szobrot, ha kint az eső túlságosan rázendít és nem akar kiszállni.",
                 "ro": "Puteți admira statuia chiar și din fereastra mașinii dacă ploaia devine prea puternică afară pentru a ieși.",
-                "en": "You can even admire the dramatic wet bronze from the comfort of your car window if the heavy rain deters you from stepping out."
+                "en": "You can even admire the dramatic wet bronze from the comfort of your car window if the heavy rain deters you from stepping out.",
+                "fr": "Vous pouvez même admirer le bronze dramatique mouillé depuis le confort de la vitre de votre voiture si la forte pluie vous dissuade de sortir."
               }
             },
             {
@@ -1021,13 +1133,15 @@
                 "de": "Musée Massey",
                 "hu": "Musée Massey",
                 "ro": "Musée Massey",
-                "en": "Musée Massey"
+                "en": "Musée Massey",
+                "fr": "Musée Massey"
               },
               "tip_5lang": {
                 "de": "Suchen Sie sich einen Parkplatz in der Nähe der Gärten und sprinten Sie in dieses fantastische Museum, um den Regengüssen zu entkommen.",
                 "hu": "Keressen parkolót a kertek közelében, és sprinteljen be ebbe a fantasztikus múzeumba, hogy elmeneküljön a felhőszakadások elől.",
                 "ro": "Găsiți o parcare lângă grădini și alergați în acest muzeu fantastic pentru a scăpa de ploile torențiale.",
-                "en": "Find parking near the gardens and make a quick dash into this fantastic museum to completely escape the afternoon downpours."
+                "en": "Find parking near the gardens and make a quick dash into this fantastic museum to completely escape the afternoon downpours.",
+                "fr": "Trouvez un parking près des jardins et faites une petite course jusqu'à ce fantastique musée pour échapper complètement aux averses de l'après-midi."
               }
             },
             {
@@ -1035,13 +1149,15 @@
                 "de": "Saint-Gérin Kirche",
                 "hu": "Saint-Gérin templom",
                 "ro": "Biserica Saint-Gérin",
-                "en": "Saint-Gérin Church"
+                "en": "Saint-Gérin Church",
+                "fr": "Saint-Gérin Church"
               },
               "tip_5lang": {
                 "de": "Ein letzter kurzer Sprint vom Auto ins Trockene, um die atemberaubende Architektur bei gedämpftem Regenlicht zu genießen.",
                 "hu": "Egy utolsó rövid sprint az autótól a szárazföldig, hogy élvezze a lenyűgöző építészetet a tompított, esős fényben.",
                 "ro": "Un ultim sprint scurt de la mașină la adăpost pentru a vă bucura de arhitectura uimitoare în lumina difuză a ploii.",
-                "en": "One last short sprint from your car into the dry nave to enjoy the stunning architecture bathed in muted, rainy light."
+                "en": "One last short sprint from your car into the dry nave to enjoy the stunning architecture bathed in muted, rainy light.",
+                "fr": "Un dernier court sprint depuis votre voiture jusqu'à la nef sèche pour admirer l'architecture somptueuse baignée d'une lumière pluvieuse atténuée."
               }
             }
           ]
@@ -1051,7 +1167,8 @@
             "de": "Wärmen Sie das Auto für einen kühlen Parkbesuch am Morgen gut vor. Die Fahrten am Mittag halten Sie zwischen den historischen Stopps kuschelig warm. Das Nachmittagslicht schwindet sehr schnell, wodurch der geheizte Innenraum ein Segen ist. Beenden Sie die gemütliche Tour noch vor Einbruch der völligen Dunkelheit.",
             "hu": "Fűtse elő alaposan az autót a reggeli, hideg parklátogatáshoz. A déli utak melegen tartanak a történelmi megállók között. A délutáni fény nagyon gyorsan halványul, ami áldássá teszi a fűtött utasteret. Fejezze be kényelmes útját még a teljes sötétség beállta előtt.",
             "ro": "Încălziți bine mașina pentru vizita de dimineață în parc. Drumurile de prânz vă țin confortabil între opririle istorice. Lumina de după-amiază scade rapid, interiorul încălzit fiind o binecuvântare. Terminați turul confortabil înainte de întunericul complet.",
-            "en": "Thoroughly preheat the car for a crisp morning park visit. Midday drives keep you perfectly cozy between historic stops. Afternoon light fades surprisingly fast, making the heated interior an absolute blessing. Finish your comfortable driving tour before full darkness falls."
+            "en": "Thoroughly preheat the car for a crisp morning park visit. Midday drives keep you perfectly cozy between historic stops. Afternoon light fades surprisingly fast, making the heated interior an absolute blessing. Finish your comfortable driving tour before full darkness falls.",
+            "fr": "Préchauffez soigneusement la voiture pour une visite matinale vivifiante au parc. Les trajets de midi vous maintiennent parfaitement au chaud entre les étapes historiques. La lumière de l'après-midi baisse étonnamment vite, faisant de l'intérieur chauffé un confort précieux. Terminez votre circuit confortable en voiture avant la tombée totale de la nuit."
           },
           "stops": [
             {
@@ -1059,13 +1176,15 @@
                 "de": "Parc de l'Echez",
                 "hu": "Echez park",
                 "ro": "Parcul Echez",
-                "en": "Parc de l'Echez"
+                "en": "Parc de l'Echez",
+                "fr": "Parc de l'Echez"
               },
               "tip_5lang": {
                 "de": "Betrachten Sie den frostbedeckten Park; wenn es zu kalt ist, genießen Sie die winterliche Landschaft einfach von der Heizung aus.",
                 "hu": "Tekintse meg a fagyos parkot; ha túl hideg van, nyugodtan élvezze a téli tájat a fűtött autó kényelméből.",
                 "ro": "Priviți parcul înghețat; dacă este prea frig, bucurați-vă de peisajul de iarnă din confortul mașinii încălzite.",
-                "en": "View the frost-covered park; if the chill is too much, simply enjoy the crisp winter scenery from the comfort of your heated car."
+                "en": "View the frost-covered park; if the chill is too much, simply enjoy the crisp winter scenery from the comfort of your heated car.",
+                "fr": "Contemplez le parc couvert de givre ; si le froid est trop vif, profitez simplement du paysage hivernal depuis le confort de votre voiture chauffée."
               }
             },
             {
@@ -1073,13 +1192,15 @@
                 "de": "Sainte-Anne Kirche",
                 "hu": "Sainte-Anne templom",
                 "ro": "Biserica Sainte-Anne",
-                "en": "Église Sainte-Anne"
+                "en": "Église Sainte-Anne",
+                "fr": "Église Sainte-Anne"
               },
               "tip_5lang": {
                 "de": "Die dicken Steinmauern können kalt sein, aber die winterliche Stille im Inneren ist den kurzen Spaziergang vom Parkplatz wert.",
                 "hu": "A vastag kőfalak hidegek lehetnek, de a benti téli csend mindenképpen megéri a rövid sétát a fűtött parkolóból.",
                 "ro": "Zidurile groase de piatră pot fi reci, dar liniștea de iarnă din interior merită scurta plimbare de la parcare.",
-                "en": "The thick stone walls hold the cold, but the profound winter silence inside is absolutely worth the short walk from your parking spot."
+                "en": "The thick stone walls hold the cold, but the profound winter silence inside is absolutely worth the short walk from your parking spot.",
+                "fr": "Les épaisses murailles de pierre retiennent le froid, mais le profond silence hivernal à l'intérieur vaut absolument la courte marche depuis votre place de parking."
               }
             },
             {
@@ -1087,13 +1208,15 @@
                 "de": "Geburtshaus von Marschall Foch",
                 "hu": "Foch marsall szülőháza",
                 "ro": "Casa natală a mareșalului Foch",
-                "en": "Maison Natale du Maréchal Foch"
+                "en": "Maison Natale du Maréchal Foch",
+                "fr": "Maison Natale du Maréchal Foch"
               },
               "tip_5lang": {
                 "de": "Ziehen Sie Ihre dicke Winterjacke an, bevor Sie aussteigen, und tauchen Sie schnell in die Wärme dieses historischen Museums ein.",
                 "hu": "Vegye fel vastag télikabátját kiszállás előtt, és merüljön el gyorsan ennek a történelmi múzeumnak a kellemes melegében.",
                 "ro": "Puneți-vă haina groasă de iarnă înainte de a coborî și intrați rapid în căldura acestui muzeu istoric.",
-                "en": "Zip up your heavy winter coat before stepping out, and quickly immerse yourself in the cozy warmth of this historic museum."
+                "en": "Zip up your heavy winter coat before stepping out, and quickly immerse yourself in the cozy warmth of this historic museum.",
+                "fr": "Fermeturez votre manteau d'hiver avant de sortir et imprégnez-vous rapidement de la chaleureuse atmosphère de ce musée historique."
               }
             },
             {
@@ -1101,13 +1224,15 @@
                 "de": "Reiterstandbild des Marschall Foch",
                 "hu": "Foch marsall lovas szobra",
                 "ro": "Statuia ecvestră a mareșalului Foch",
-                "en": "Statue équestre du Maréchal Foch"
+                "en": "Statue équestre du Maréchal Foch",
+                "fr": "Statue équestre du Maréchal Foch"
               },
               "tip_5lang": {
                 "de": "Das Denkmal wirft am Nachmittag lange Winterschatten; verweilen Sie für ein Foto, bevor Sie wieder ins warme Auto steigen.",
                 "hu": "Az emlékmű délután hosszú téli árnyékokat vet; időzzön el egy fotó erejéig, mielőtt visszapattan a meleg autóba.",
                 "ro": "Monumentul aruncă umbre lungi de iarnă după-amiaza; faceți o fotografie înainte de a vă întoarce în mașina caldă.",
-                "en": "The monument casts long, dramatic winter shadows in the afternoon; linger for a quick photo before retreating to your warm car."
+                "en": "The monument casts long, dramatic winter shadows in the afternoon; linger for a quick photo before retreating to your warm car.",
+                "fr": "Le monument projette de longues ombres hivernales dramatiques l'après-midi ; restez un instant pour une photo avant de regagner votre voiture chauffée."
               }
             },
             {
@@ -1115,13 +1240,15 @@
                 "de": "Musée Massey",
                 "hu": "Musée Massey",
                 "ro": "Musée Massey",
-                "en": "Musée Massey"
+                "en": "Musée Massey",
+                "fr": "Musée Massey"
               },
               "tip_5lang": {
                 "de": "Ein hervorragendes Ziel, um dem Nachmittagsfrost zu entkommen; die Galerien sind wunderbar beheizt und voller faszinierender Geschichte.",
                 "hu": "Kiváló célpont a délutáni fagy elől való menekülésre; a galériák csodálatosan fűtöttek és lenyűgöző történelemmel teli terek.",
                 "ro": "O destinație excelentă pentru a scăpa de gerul după-amiezii; galeriile sunt minunat încălzite și pline de istorie fascinantă.",
-                "en": "An excellent destination to escape the afternoon frost; the grand galleries are wonderfully heated and full of fascinating military history."
+                "en": "An excellent destination to escape the afternoon frost; the grand galleries are wonderfully heated and full of fascinating military history.",
+                "fr": "Excellente destination pour échapper au gel de l'après-midi ; les grandes salles sont bien chauffées et riches en histoire militaire fascinante."
               }
             },
             {
@@ -1129,13 +1256,15 @@
                 "de": "Saint-Gérin Kirche",
                 "hu": "Saint-Gérin templom",
                 "ro": "Biserica Saint-Gérin",
-                "en": "Saint-Gérin Church"
+                "en": "Saint-Gérin Church",
+                "fr": "Église Saint-Gérin"
               },
               "tip_5lang": {
                 "de": "Wenn der Nachmittag gegen 17:00 Uhr dunkler wird, leuchten die Fenster von außen warm in der kalten Winterluft.",
                 "hu": "Ahogy a délután 17:00 körül sötétedni kezd, az ablakok kívülről melegen világítanak a fagyos téli levegőben.",
                 "ro": "Pe măsură ce după-amiaza se întunecă spre ora 17:00, ferestrele strălucesc cald din exterior în aerul rece de iarnă.",
-                "en": "As the afternoon turns dark near 17:00, the interior lights make the windows glow warmly against the freezing winter air outside."
+                "en": "As the afternoon turns dark near 17:00, the interior lights make the windows glow warmly against the freezing winter air outside.",
+                "fr": "Quand la fin d'après-midi approche vers 17:00, les lumières intérieures font rayonner les vitraux contre l'air glacial extérieur."
               }
             }
           ]

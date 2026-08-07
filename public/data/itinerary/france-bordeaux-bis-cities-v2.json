@@ -31,7 +31,8 @@
             "de": "Bewundern Sie das Spiegelbild im Miroir d'Eau.",
             "hu": "Csodálja meg a tükröződést a Miroir d'Eau-ban.",
             "ro": "Admirați reflexia în Miroir d'Eau.",
-            "en": "Admire the reflection in the Miroir d'Eau."
+            "en": "Admire the reflection in the Miroir d'Eau.",
+            "fr": "Admirez le reflet dans le Miroir d'Eau."
           }
         },
         {
@@ -49,7 +50,8 @@
             "de": "Eines der schönsten Theater des 18. Jahrhunderts.",
             "hu": "A 18. század egyik legszebb színháza.",
             "ro": "Unul dintre cele mai frumoase teatre din secolul al XVIII-lea.",
-            "en": "One of the most beautiful 18th-century theaters."
+            "en": "One of the most beautiful 18th-century theaters.",
+            "fr": "Un des plus beaux théâtres du XVIIIe siècle."
           }
         },
         {
@@ -67,7 +69,8 @@
             "de": "Ein perfekter Ort für eine Pause im Grünen.",
             "hu": "Tökéletes hely egy zöld pihenőhöz.",
             "ro": "Un loc perfect pentru o pauză în aer liber.",
-            "en": "A perfect spot for a green break."
+            "en": "A perfect spot for a green break.",
+            "fr": "Un endroit idéal pour une pause nature."
           }
         },
         {
@@ -85,7 +88,8 @@
             "de": "Genießen Sie die Aussicht vom Belvedere im 8. Stock.",
             "hu": "Élvezze a kilátást a 8. emeleti Belvedere-ből.",
             "ro": "Bucurați-vă de vedere de la Belvedere de la etajul 8.",
-            "en": "Enjoy the view from the 8th floor Belvedere."
+            "en": "Enjoy the view from the 8th floor Belvedere.",
+            "fr": "Profitez de la vue depuis le belvédère du 8e étage."
           }
         },
         {
@@ -103,7 +107,8 @@
             "de": "Die erste Brücke über die Garonne in Bordeaux.",
             "hu": "Az első híd a Garonne felett Bordeaux-ban.",
             "ro": "Primul pod peste Garonne din Bordeaux.",
-            "en": "The first bridge over the Garonne in Bordeaux."
+            "en": "The first bridge over the Garonne in Bordeaux.",
+            "fr": "Le premier pont sur la Garonne à Bordeaux."
           }
         },
         {
@@ -121,7 +126,8 @@
             "de": "Das alte Stadttor mit der monumentalen Glocke.",
             "hu": "A régi városkapu a monumentális haranggal.",
             "ro": "Vechea poartă a orașului cu clopotul monumental.",
-            "en": "The old city gate with the monumental bell."
+            "en": "The old city gate with the monumental bell.",
+            "fr": "La vieille porte de la ville avec la cloche monumentale."
           }
         },
         {
@@ -139,7 +145,8 @@
             "de": "Besteigen Sie den Pey-Berland-Turm für das Panorama.",
             "hu": "Másszon fel a Pey-Berland toronyba a panorámáért.",
             "ro": "Urcați în turnul Pey-Berland pentru panoramă.",
-            "en": "Climb the Pey-Berland tower for the panorama."
+            "en": "Climb the Pey-Berland tower for the panorama.",
+            "fr": "Montez la tour Pey-Berland pour le panorama."
           }
         }
       ],
@@ -147,7 +154,8 @@
         "de": "Bordeaux zu Fuß zu erkunden bedeutet, in die Eleganz des 18. Jahrhunderts einzutauchen. Beginnen Sie am glitzernden Miroir d'Eau am Place de la Bourse und spazieren Sie durch das 'Goldene Dreieck'. Nach einem Besuch in der futuristischen Cité du Vin führt der Weg zurück am Flussufer entlang zum historischen Zentrum, wo die Kathedrale und die Grosse Cloche die reiche mittelalterliche Vergangenheit der Stadt offenbaren.",
         "hu": "Bordeaux felfedezése gyalogosan a 18. századi elegancia megismerését jelenti. Kezdje a Tőzsde tér csillogó vízitükrénél, majd sétáljon át az 'Aranyháromszögön'. A futurisztikus Bor Városa után az út a folyópart mentén vezet vissza a történelmi központba, ahol a székesegyház és a Nagy Harang tanúskodik a város gazdag középkori múltjáról.",
         "ro": "Explorarea Bordeaux-ului pe jos înseamnă scufundarea în eleganța secolului al XVIII-lea. Începeți la sclipitoarea oglindă de apă de la Place de la Bourse și mergeți prin „Triunghiul de Aur”. După o vizită la futurista Cité du Vin, drumul vă duce înapoi pe malul râului spre centrul istoric, unde catedrala și Grosse Cloche dezvăluie trecutul medieval bogat al orașului.",
-        "en": "Exploring Bordeaux on foot means immersing yourself in 18th-century elegance. Start at the glistening Water Mirror at Place de la Bourse and walk through the 'Golden Triangle'. After visiting the futuristic Cité du Vin, the path leads back along the riverbanks to the historical center, where the Cathedral and the Grosse Cloche reveal the city's rich medieval past."
+        "en": "Exploring Bordeaux on foot means immersing yourself in 18th-century elegance. Start at the glistening Water Mirror at Place de la Bourse and walk through the 'Golden Triangle'. After visiting the futuristic Cité du Vin, the path leads back along the riverbanks to the historical center, where the Cathedral and the Grosse Cloche reveal the city's rich medieval past.",
+        "fr": "Explorer Bordeaux à pied, c'est s'immerger dans l'élégance du XVIIIe siècle. Commencez au scintillant Miroir d'Eau sur la Place de la Bourse et traversez le « Triangle d'Or ». Après la visite de la futuriste Cité du Vin, le chemin revient le long des quais vers le centre historique, où la Cathédrale et la Grosse Cloche révèlent le riche passé médiéval de la ville."
       },
       "gastro_picks": {
         "de": [
@@ -247,6 +255,10 @@
         "en": [
           "Wear comfortable shoes, the quays offer long but beautiful walks.",
           "The 'City Pass' includes the Cité du Vin and public transport."
+        ],
+        "fr": [
+          "Portez des chaussures confortables, les quais offrent de longues mais belles promenades.",
+          "Le « City Pass » inclut la Cité du Vin et les transports en commun."
         ]
       }
     },
@@ -273,7 +285,8 @@
             "de": "Parken Sie Ihr Fahrrad am Rand des Miroir d'Eau.",
             "hu": "Parkoljon a biciklivel a Miroir d'Eau szélénél.",
             "ro": "Parcați bicicleta la marginea Miroir d'Eau.",
-            "en": "Park your bike at the edge of the Miroir d'Eau."
+            "en": "Park your bike at the edge of the Miroir d'Eau.",
+            "fr": "Garez votre vélo au bord du Miroir d'Eau."
           }
         },
         {
@@ -291,7 +304,8 @@
             "de": "Ein kurzer Stopp am Place de la Comédie.",
             "hu": "Rövid megálló a Place de la Comédie-n.",
             "ro": "O scurtă oprire în Place de la Comédie.",
-            "en": "A quick stop at Place de la Comédie."
+            "en": "A quick stop at Place de la Comédie.",
+            "fr": "Un arrêt rapide sur la Place de la Comédie."
           }
         },
         {
@@ -309,7 +323,8 @@
             "de": "Radfahren ist auf den Hauptwegen des Parks erlaubt.",
             "hu": "A kerékpározás megengedett a park főútjain.",
             "ro": "Biciclismul este permis pe aleile principale ale parcului.",
-            "en": "Cycling is allowed on the main paths of the park."
+            "en": "Cycling is allowed on the main paths of the park.",
+            "fr": "Le vélo est autorisé sur les allées principales du parc."
           }
         },
         {
@@ -327,7 +342,8 @@
             "de": "Nutzen Sie den breiten Radweg entlang der Kais.",
             "hu": "Használja a széles kerékpárutat a rakpart mentén.",
             "ro": "Folosiți pista largă de biciclete de-a lungul cheiurilor.",
-            "en": "Use the wide bike path along the quays."
+            "en": "Use the wide bike path along the quays.",
+            "fr": "Utilisez la large piste cyclable le long des quais."
           }
         },
         {
@@ -345,7 +361,8 @@
             "de": "Genießen Sie die Brückenquerung mit Blick auf die Stadt.",
             "hu": "Élvezze az átkelést a hídon, kilátással a városra.",
             "ro": "Bucurați-vă de traversarea podului cu vedere la oraș.",
-            "en": "Enjoy crossing the bridge with views of the city."
+            "en": "Enjoy crossing the bridge with views of the city.",
+            "fr": "Savourez le passage du pont avec des vues sur la ville."
           }
         },
         {
@@ -363,7 +380,8 @@
             "de": "Schließen Sie Ihr Rad sicher an den dafür vorgesehenen Stellen.",
             "hu": "Zárja le biztonságosan a biciklit a kijelölt helyeken.",
             "ro": "Încuiați bicicleta în siguranță în locurile desemnate.",
-            "en": "Lock your bike securely in the designated spots."
+            "en": "Lock your bike securely in the designated spots.",
+            "fr": "Attachez votre vélo solidement aux emplacements prévus."
           }
         },
         {
@@ -381,7 +399,8 @@
             "de": "Besuchen Sie die Kathedrale vor der Rückgabe des Rades.",
             "hu": "Látogassa meg a székesegyházat a bringa leadása előtt.",
             "ro": "Vizitați catedrala înainte de a returna bicicleta.",
-            "en": "Visit the cathedral before returning your bike."
+            "en": "Visit the cathedral before returning your bike.",
+            "fr": "Visitez la cathédrale avant de rendre votre vélo."
           }
         }
       ],
@@ -389,7 +408,8 @@
         "de": "Bordeaux ist eine der fahrradfreundlichsten Städte Frankreichs. Auf zwei Rädern erreichen Sie mühelos die modernen Kais und die futuristische Cité du Vin im Norden, während Sie das historische Zentrum flexibel erkunden können. Die flache Topographie macht die Fahrt über den Pont de Pierre zu einem entspannten Erlebnis mit Panoramablick.",
         "hu": "Bordeaux Franciaország egyik leginkább kerékpárosbarát városa. Két keréken könnyedén elérheti a modern rakpartokat és a futurisztikus Bor Városát északon, miközben rugalmasan fedezheti fel a történelmi központot. A sík terepnek köszönhetően a Kőhídon való átkelés pihentető élmény, panorámás kilátással.",
         "ro": "Bordeaux este unul dintre cele mai prietenoase orașe pentru bicicliști din Franța. Pe două roți, puteți ajunge fără efort la cheiurile moderne și la futurista Cité du Vin din nord, explorând în același timp flexibil centrul istoric. Topografia plană face ca traversarea Pont de Pierre să fie o experiență relaxantă, cu vederi panoramice.",
-        "en": "Bordeaux is one of France's most bike-friendly cities. On two wheels, you can effortlessly reach the modern quays and the futuristic Cité du Vin in the north, while flexibly exploring the historic center. The flat topography makes crossing the Pont de Pierre a relaxed experience with panoramic views."
+        "en": "Bordeaux is one of France's most bike-friendly cities. On two wheels, you can effortlessly reach the modern quays and the futuristic Cité du Vin in the north, while flexibly exploring the historic center. The flat topography makes crossing the Pont de Pierre a relaxed experience with panoramic views.",
+        "fr": "Bordeaux est l'une des villes les plus accueillantes pour le vélo en France. À deux roues, vous atteignez facilement les quais modernes et la futuriste Cité du Vin au nord, tout en explorant de façon flexible le centre historique. La topographie plate rend la traversée du Pont de Pierre agréable et détendue, avec des vues panoramiques."
       },
       "gastro_picks": {
         "de": [
@@ -489,6 +509,10 @@
         "en": [
           "Rent a 'V3' city bike at any station.",
           "Be careful with bike tires near tram tracks."
+        ],
+        "fr": [
+          "Louez un vélo urbain « V3 » à n'importe quelle station.",
+          "Faites attention aux pneus près des rails du tram."
         ]
       }
     },
@@ -515,7 +539,8 @@
             "de": "Parken Sie im 'Interparking Cité du Vin'.",
             "hu": "Parkoljon az 'Interparking Cité du Vin' garázsban.",
             "ro": "Parcați la 'Interparking Cité du Vin'.",
-            "en": "Park at the 'Interparking Cité du Vin'."
+            "en": "Park at the 'Interparking Cité du Vin'.",
+            "fr": "Garez-vous à 'Interparking Cité du Vin'."
           }
         },
         {
@@ -533,7 +558,8 @@
             "de": "Parken Sie am 'Parking Auditorum' (Cluster B).",
             "hu": "Parkoljon a 'Parking Auditorum'-nál (B klaszter).",
             "ro": "Parcați la 'Parking Auditorum' (Cluster B).",
-            "en": "Park at 'Parking Auditorium' (Cluster B)."
+            "en": "Park at 'Parking Auditorium' (Cluster B).",
+            "fr": "Garez-vous à 'Parking Auditorium' (Cluster B)."
           }
         },
         {
@@ -551,7 +577,8 @@
             "de": "Vom Parkplatz Auditorum zu Fuß erreichbar.",
             "hu": "Sétatávolságra az Auditorum parkolótól.",
             "ro": "Accesibil pe jos de la parcarea Auditorum.",
-            "en": "Walkable from the Auditorium parking."
+            "en": "Walkable from the Auditorium parking.",
+            "fr": "Accessible à pied depuis le parking Auditorium."
           }
         },
         {
@@ -569,7 +596,8 @@
             "de": "Ein kurzer Spaziergang entlang der Kais.",
             "hu": "Rövid séta a rakpart mentén.",
             "ro": "O scurtă plimbare de-a lungul cheiurilor.",
-            "en": "A short walk along the quays."
+            "en": "A short walk along the quays.",
+            "fr": "Une courte promenade le long des quais."
           }
         },
         {
@@ -587,7 +615,8 @@
             "de": "Parken Sie am 'Parking Pey-Berland' (Cluster C).",
             "hu": "Parkoljon a 'Parking Pey-Berland'-nál (C klaszter).",
             "ro": "Parcați la 'Parking Pey-Berland' (Cluster C).",
-            "en": "Park at 'Parking Pey-Berland' (Cluster C)."
+            "en": "Park at 'Parking Pey-Berland' (Cluster C).",
+            "fr": "Garez-vous à 'Parking Pey-Berland' (Cluster C)."
           }
         },
         {
@@ -605,7 +634,8 @@
             "de": "Zu Fuß vom Pey-Berland Parkplatz.",
             "hu": "Gyalog a Pey-Berland parkolótól.",
             "ro": "Pe jos de la parcarea Pey-Berland.",
-            "en": "On foot from the Pey-Berland parking."
+            "en": "On foot from the Pey-Berland parking.",
+            "fr": "Accessible à pied depuis le parking Pey-Berland."
           }
         },
         {
@@ -623,7 +653,8 @@
             "de": "Ein schöner Abschluss im Herzen der Altstadt.",
             "hu": "Szép zárás az óváros szívében.",
             "ro": "O încheiere frumoasă în inima orașului vechi.",
-            "en": "A beautiful finish in the heart of the old town."
+            "en": "A beautiful finish in the heart of the old town.",
+            "fr": "Une belle conclusion au cœur de la vieille ville."
           }
         }
       ],
@@ -631,7 +662,8 @@
         "de": "Diese Autotour nutzt Cluster-Parken, um den Verkehr in der Innenstadt zu vermeiden. Sie besuchen zuerst die Cité du Vin im Norden, wechseln dann zum zentralen Cluster (Jardin Public/Bourse) und beenden den Tag im historischen Viertel Pey-Berland. So erleben Sie Bordeaux entspannt und sehen dennoch alle wichtigen Sehenswürdigkeiten.",
         "hu": "Ez az autós túra klaszter-parkolást használ, hogy elkerülje a belvárosi forgalmat. Először a Bor Városát látogatja meg északon, majd átvált a központi klaszterre (Jardin Public/Bourse), végül a történelmi Pey-Berland negyedben zárja a napot. Így kényelmesen látja Bordeaux minden fontos nevezetességét.",
         "ro": "Acest tur auto folosește parcarea pe clustere pentru a evita traficul din centrul orașului. Vizitați mai întâi Cité du Vin în nord, apoi treceți la clusterul central (Jardin Public/Bourse) și încheiați ziua în cartierul istoric Pey-Berland. Astfel vedeți toate atracțiile importante din Bordeaux într-un mod relaxat.",
-        "en": "This car tour uses cluster parking to avoid city center traffic. You first visit the Cité du Vin in the north, then switch to the central cluster (Jardin Public/Bourse), and end the day in the historic Pey-Berland district. This way you see all major Bordeaux sights in a relaxed manner."
+        "en": "This car tour uses cluster parking to avoid city center traffic. You first visit the Cité du Vin in the north, then switch to the central cluster (Jardin Public/Bourse), and end the day in the historic Pey-Berland district. This way you see all major Bordeaux sights in a relaxed manner.",
+        "fr": "Cette excursion en voiture utilise des parkings en cluster pour éviter le trafic du centre-ville. Vous visitez d'abord la Cité du Vin au nord, changez ensuite pour le cluster central (Jardin Public/Bourse), et terminez la journée dans le quartier historique de Pey-Berland. Ainsi, vous voyez tous les principaux sites de Bordeaux de manière détendue."
       },
       "gastro_picks": {
         "de": [
@@ -731,6 +763,10 @@
         "en": [
           "Use underground parkings to avoid street traffic.",
           "Download the 'EasyPark' app for easier payments."
+        ],
+        "fr": [
+          "Utilisez les parkings souterrains pour éviter le trafic de surface.",
+          "Téléchargez l'application 'EasyPark' pour faciliter les paiements."
         ]
       }
     },
@@ -757,7 +793,8 @@
             "de": "Straßenbahnlinie B, Haltestelle 'Cité du Vin'.",
             "hu": "B villamos vonal, 'Cité du Vin' megálló.",
             "ro": "Tramvaiul linia B, stația 'Cité du Vin'.",
-            "en": "Tram line B, station 'Cité du Vin'."
+            "en": "Tram line B, station 'Cité du Vin'.",
+            "fr": "Tram ligne B, station 'Cité du Vin'."
           }
         },
         {
@@ -775,7 +812,8 @@
             "de": "Straßenbahn C oder D, Haltestelle 'Place de la Bourse'.",
             "hu": "C vagy D villamos, 'Place de la Bourse' megálló.",
             "ro": "Tramvaiul C sau D, stația 'Place de la Bourse'.",
-            "en": "Tram C or D, station 'Place de la Bourse'."
+            "en": "Tram C or D, station 'Place de la Bourse'.",
+            "fr": "Tram C ou D, station 'Place de la Bourse'."
           }
         },
         {
@@ -793,7 +831,8 @@
             "de": "Nur einen kurzen Fußweg von Quinconces entfernt.",
             "hu": "Csak egy rövid séta a Quinconces-tól.",
             "ro": "La doar o scurtă plimbare de Quinconces.",
-            "en": "Just a short walk from Quinconces."
+            "en": "Just a short walk from Quinconces.",
+            "fr": "À courte distance à pied de Quinconces."
           }
         },
         {
@@ -811,7 +850,8 @@
             "de": "Zu Fuß erreichbar durch das Goldene Dreieck.",
             "hu": "Gyalogosan elérhető az Aranyháromszögön át.",
             "ro": "Accesibil pe jos prin Triunghiul de Aur.",
-            "en": "Walkable through the Golden Triangle."
+            "en": "Walkable through the Golden Triangle.",
+            "fr": "Accessible à pied à travers le Triangle d'Or."
           }
         },
         {
@@ -829,7 +869,8 @@
             "de": "Straßenbahn B oder A, Haltestelle 'Hôtel de Ville'.",
             "hu": "B vagy A villamos, 'Hôtel de Ville' megálló.",
             "ro": "Tramvaiul B sau A, stația 'Hôtel de Ville'.",
-            "en": "Tram B or A, station 'Hôtel de Ville'."
+            "en": "Tram B or A, station 'Hôtel de Ville'.",
+            "fr": "Tram B ou A, station 'Hôtel de Ville'."
           }
         },
         {
@@ -847,7 +888,8 @@
             "de": "Straßenbahn B, Haltestelle 'Musée d'Aquitaine'.",
             "hu": "B villamos, 'Musée d'Aquitaine' megálló.",
             "ro": "Tramvaiul B, stația 'Musée d'Aquitaine'.",
-            "en": "Tram line B, station 'Musée d'Aquitaine'."
+            "en": "Tram line B, station 'Musée d'Aquitaine'.",
+            "fr": "Tram ligne B, station 'Musée d'Aquitaine'."
           }
         },
         {
@@ -865,7 +907,8 @@
             "de": "Straßenbahn A, Haltestelle 'Stalingrad' am anderen Ende.",
             "hu": "A villamos, 'Stalingrad' megálló a híd túloldalán.",
             "ro": "Tramvaiul A, stația 'Stalingrad' la celălalt capăt.",
-            "en": "Tram line A, station 'Stalingrad' at the other end."
+            "en": "Tram line A, station 'Stalingrad' at the other end.",
+            "fr": "Tram ligne A, station 'Stalingrad' à l'autre extrémité."
           }
         }
       ],
@@ -873,7 +916,8 @@
         "de": "Das moderne Straßenbahnnetz von Bordeaux macht die Erkundung einfach und umweltfreundlich. Die Linien B, A und C verbinden die wichtigsten Viertel: von der modernen Weinwelt im Norden über das prachtvolle Zentrum bis hin zum historischen Rathausviertel. Ein Tagesticket ermöglicht Ihnen maximale Flexibilität.",
         "hu": "Bordeaux modern villamoshálózata egyszerűvé és környezetbaráttá teszi a városnézést. A B, A és C vonalak összekötik a legfontosabb negyedeket: az északi modern borvilágtól a pompás központon át a történelmi városháza negyedig. Egy napijegy maximális rugalmasságot biztosít.",
         "ro": "Rețeaua modernă de tramvaie din Bordeaux face explorarea ușoară și ecologică. Liniile B, A și C conectează cele mai importante cartiere: de la lumea modernă a vinului din nord, prin centrul fastuos, până la cartierul istoric al primăriei. Un bilet de o zi vă oferă flexibilitate maximă.",
-        "en": "Bordeaux's modern tram network makes exploration easy and eco-friendly. Lines B, A, and C connect the key districts: from the modern wine world in the north through the grand center to the historic town hall district. A day ticket provides maximum flexibility."
+        "en": "Bordeaux's modern tram network makes exploration easy and eco-friendly. Lines B, A, and C connect the key districts: from the modern wine world in the north through the grand center to the historic town hall district. A day ticket provides maximum flexibility.",
+        "fr": "Le réseau moderne de tram de Bordeaux facilite l'exploration de manière éco-responsable. Les lignes B, A et C relient les quartiers clés : du monde moderne du vin au nord en passant par le grand centre jusqu'au quartier historique de l'hôtel de ville. Un ticket journée offre une flexibilité maximale."
       },
       "gastro_picks": {
         "de": [
@@ -973,6 +1017,10 @@
         "en": [
           "Buy a 'Pass 24h' for unlimited travel.",
           "The 'TBM' app shows live tram times."
+        ],
+        "fr": [
+          "Achetez un 'Pass 24h' pour des trajets illimités.",
+          "L'application 'TBM' affiche les horaires de tram en temps réel."
         ]
       }
     }

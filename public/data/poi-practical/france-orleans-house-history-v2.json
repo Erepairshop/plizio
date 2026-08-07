@@ -3,55 +3,64 @@
     "de": "3 Place du Général de Gaulle, 45000 Orléans",
     "hu": "3 Place du Général de Gaulle, 45000 Orléans",
     "ro": "3 Place du Général de Gaulle, 45000 Orléans",
-    "en": "3 Place du Général de Gaulle, 45000 Orléans"
+    "en": "3 Place du Général de Gaulle, 45000 Orléans",
+    "fr": "3 Place du Général de Gaulle, 45000 Orléans"
   },
   "openingHours": {
     "de": "Tu-Su 10:00-18:00, Mo geschlossen",
     "hu": "Ke-Va 10:00-18:00, hétfőn zárva",
     "ro": "Mar-Dum 10:00-18:00, Luni închis",
-    "en": "Tue-Sun 10:00-18:00, Mon closed"
+    "en": "Tue-Sun 10:00-18:00, Mon closed",
+    "fr": "Mar‑Dim 10:00-18:00, fermé le lun."
   },
   "entranceFee": {
     "de": "€6 Erwachsene, unter 18 Jahren frei",
     "hu": "6 € felnőtteknek, 18 év alatt ingyenes",
     "ro": "6 € adulți, gratuit sub 18 ani",
-    "en": "€6 adults, free for under 18s"
+    "en": "€6 adults, free for under 18s",
+    "fr": "6 € adultes, gratuit pour les moins de 18 ans"
   },
   "website": "https://www.jeannedarc.com.fr",
   "publicTransport": {
     "de": "Straßenbahn Linie A oder B Haltestelle 'Jeanne d'Arc'",
     "hu": "A vagy B villamosvonal, 'Jeanne d'Arc' megálló",
     "ro": "Tramvai linia A sau B, stația 'Jeanne d'Arc'",
-    "en": "Tram line A or B, 'Jeanne d'Arc' stop"
+    "en": "Tram line A or B, 'Jeanne d'Arc' stop",
+    "fr": "Tram lignes A ou B, arrêt 'Jeanne d'Arc'"
   },
   "parking": {
     "de": "Parkhaus 'Les Halles-Charpenterie' in unmittelbarer Nähe",
     "hu": "'Les Halles-Charpenterie' parkolóház a közvetlen közelben",
     "ro": "Parcarea supraetajată 'Les Halles-Charpenterie' în imediata apropiere",
-    "en": "'Les Halles-Charpenterie' parking garage in the immediate vicinity"
+    "en": "'Les Halles-Charpenterie' parking garage in the immediate vicinity",
+    "fr": "Parc de stationnement 'Les Halles-Charpenterie' à proximité immédiate"
   },
   "accessibility": {
     "de": "Das moderne Museumszentrum ist vollständig barrierefrei",
     "hu": "A modern múzeumi központ teljes mértékben akadálymentesített",
     "ro": "Centrul muzeal modern este complet accesibil",
-    "en": "The modern museum center is fully barrier-free"
+    "en": "The modern museum center is fully barrier-free",
+    "fr": "Le centre muséal moderne est entièrement accessible aux personnes à mobilité réduite"
   },
   "photoRules": {
     "de": "Fotografieren ohne Blitz in der Dauerausstellung erlaubt",
     "hu": "Az állandó kiállításon vaku nélkül szabad fényképezni",
     "ro": "Fotografierea fără bliț în expoziția permanentă este permisă",
-    "en": "Photography without flash allowed in the permanent exhibition"
+    "en": "Photography without flash allowed in the permanent exhibition",
+    "fr": "Photographie sans flash autorisée dans l’exposition permanente"
   },
   "bestTimeToVisit": {
     "de": "Anfang Mai während der traditionellen Johannis-Feste (Fêtes de Jeanne d'Arc)",
     "hu": "Május elején, a hagyományos Szent Johanna-ünnepségek (Fêtes de Jeanne d'Arc) idején",
     "ro": "La începutul lunii mai în timpul festivităților tradiționale (Fêtes de Jeanne d'Arc)",
-    "en": "Early May during the traditional Joan of Arc festivals (Fêtes de Jeanne d'Arc)"
+    "en": "Early May during the traditional Joan of Arc festivals (Fêtes de Jeanne d'Arc)",
+    "fr": "Début mai lors des fêtes traditionnelles de Jeanne d'Arc (Fêtes de Jeanne d'Arc)"
   },
   "audioGuide": {
     "de": "EN, FR (Deutsche Infobroschüren vorhanden)",
     "hu": "EN, FR (német nyelvű információs brosúrák elérhetőek)",
     "ro": "EN, FR (broșuri informative disponibile în germană)",
-    "en": "EN, FR (German info brochures available)"
+    "en": "EN, FR (German info brochures available)",
+    "fr": "EN, FR (brochures d’information en allemand disponibles)"
   }
 }

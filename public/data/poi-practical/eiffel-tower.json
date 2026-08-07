@@ -3,55 +3,64 @@
     "de": "Champ de Mars, 5 Avenue Anatole France, 75007 Paris",
     "hu": "Champ de Mars, 5 Avenue Anatole France, 75007 Párizs",
     "ro": "Champ de Mars, 5 Avenue Anatole France, 75007 Paris",
-    "en": "Champ de Mars, 5 Avenue Anatole France, 75007 Paris"
+    "en": "Champ de Mars, 5 Avenue Anatole France, 75007 Paris",
+    "fr": "Champ de Mars, 5 Avenue Anatole France, 75007 Paris"
   },
   "openingHours": {
     "de": "Mo-Su 09:30-22:45",
     "hu": "H-V 09:30-22:45",
     "ro": "Lu-Du 09:30-22:45",
-    "en": "Mon-Sun 09:30-22:45"
+    "en": "Mon-Sun 09:30-22:45",
+    "fr": "Lun-Dim 09:30-22:45"
   },
   "entranceFee": {
     "de": "€18.10 (Aufzug 2. Etage) bis €28.30 (Aufzug Spitze)",
     "hu": "18,10 € (lift a 2. emeletig) - 28,30 € (lift a csúcsig)",
     "ro": "18,10 € (lift etajul 2) până la 28,30 € (lift vârf)",
-    "en": "€18.10 (lift 2nd floor) to €28.30 (lift summit)"
+    "en": "€18.10 (lift 2nd floor) to €28.30 (lift summit)",
+    "fr": "€18,10 (ascenseur 2e étage) à €28,30 (ascenseur sommet)"
   },
   "website": "https://www.toureiffel.paris",
   "publicTransport": {
     "de": "Metro Bir-Hakeim (Linie 6) oder Trocadéro (Linie 9)",
     "hu": "Metro Bir-Hakeim (6-os vonal) vagy Trocadéro (9-es vonal)",
     "ro": "Metrou Bir-Hakeim (Linia 6) sau Trocadéro (Linia 9)",
-    "en": "Metro Bir-Hakeim (Line 6) or Trocadéro (Line 9)"
+    "en": "Metro Bir-Hakeim (Line 6) or Trocadéro (Line 9)",
+    "fr": "Métro Bir-Hakeim (Ligne 6) ou Trocadéro (Ligne 9)"
   },
   "parking": {
     "de": "Parkhaus Quai Branly-Tour Eiffel, ca. €5 pro Stunde",
     "hu": "Quai Branly-Tour Eiffel parkolóház, kb. 5 € óránként",
     "ro": "Parcarea Quai Branly-Tour Eiffel, aprox. 5 € pe oră",
-    "en": "Quai Branly-Tour Eiffel parking garage, approx. €5 per hour"
+    "en": "Quai Branly-Tour Eiffel parking garage, approx. €5 per hour",
+    "fr": "Parking quai Branly-Tour Eiffel, env. €5 par heure"
   },
   "accessibility": {
     "de": "Rollstuhlgerecht bis zur 2. Etage, die Spitze ist nicht zugänglich",
     "hu": "Kerekesszékkel a 2. emeletig járható, a csúcs nem akadálymentes",
     "ro": "Accesibil cu scaunul cu rotile până la etajul 2, vârful nu este accesibil",
-    "en": "Wheelchair accessible to the 2nd floor, the summit is not accessible"
+    "en": "Wheelchair accessible to the 2nd floor, the summit is not accessible",
+    "fr": "Accessible en fauteuil jusqu'au 2ᵉ étage, le sommet n'est pas accessible"
   },
   "photoRules": {
     "de": "Private Aufnahmen erlaubt, gewerbliche Nachtaufnahmen genehmigungspflichtig",
     "hu": "Magáncélú fotók szabadon, a kereskedelmi célú éjszakai felvételek engedélykötelesek",
     "ro": "Fotografii private permise, fotografiile comerciale nocturne necesită autorizație",
-    "en": "Private photos allowed, commercial night photography requires permission"
+    "en": "Private photos allowed, commercial night photography requires permission",
+    "fr": "Photos privées autorisées, photographie commerciale de nuit nécessite autorisation"
   },
   "bestTimeToVisit": {
     "de": "Zum Sonnenuntergang für die goldene Stunde und Beleuchtung",
     "hu": "Naplementekor az aranyóra és a kivilágítás miatt",
     "ro": "La apus pentru ora de aur și iluminare",
-    "en": "At sunset for the golden hour and illumination"
+    "en": "At sunset for the golden hour and illumination",
+    "fr": "Au coucher du soleil pour l'heure dorée et l'illumination"
   },
   "audioGuide": {
     "de": "Smartphone-App in mehreren Sprachen verfügbar",
     "hu": "Több nyelven elérhető okostelefonos alkalmazás",
     "ro": "Aplicație pentru smartphone disponibilă în mai multe limbi",
-    "en": "Smartphone app available in several languages"
+    "en": "Smartphone app available in several languages",
+    "fr": "Application smartphone disponible en plusieurs langues"
   }
 }

@@ -3,55 +3,64 @@
     "de": "Rue du Château, 64000 Pau",
     "hu": "Rue du Château, 64000 Pau",
     "ro": "Rue du Château, 64000 Pau",
-    "en": "Rue du Château, 64000 Pau"
+    "en": "Rue du Château, 64000 Pau",
+    "fr": "Rue du Château, 64000 Pau"
   },
   "openingHours": {
     "de": "Mo-So 09:30-11:45, 14:00-17:00 (Winter); 09:30-12:15, 13:30-17:45 (Sommer)",
     "hu": "Hé-Va 09:30-11:45, 14:00-17:00 (tél); 09:30-12:15, 13:30-17:45 (nyár)",
     "ro": "Lun-Dum 09:30-11:45, 14:00-17:00 (iarna); 09:30-12:15, 13:30-17:45 (vara)",
-    "en": "Mon-Sun 09:30-11:45, 14:00-17:00 (winter); 09:30-12:15, 13:30-17:45 (summer)"
+    "en": "Mon-Sun 09:30-11:45, 14:00-17:00 (winter); 09:30-12:15, 13:30-17:45 (summer)",
+    "fr": "Lun‑Dim 09:30-11:45, 14:00-17:00 (hiver) ; 09:30-12:15, 13:30-17:45 (été)"
   },
   "entranceFee": {
     "de": "€7 Erwachsene, unter 26 Jahren kostenlos (EU-Bürger)",
     "hu": "7 € felnőtteknek, 26 év alatt ingyenes (EU-állampolgároknak)",
     "ro": "7 € adulți, gratuit sub 26 de ani (cetățeni UE)",
-    "en": "€7 adults, free for under 26s (EU citizens)"
+    "en": "€7 adults, free for under 26s (EU citizens)",
+    "fr": "7 € adultes, gratuit pour les moins de 26 ans (citoyens de l'UE)"
   },
   "website": "https://chateau-pau.fr",
   "publicTransport": {
     "de": "Busbahnhof Place de Verdun (Linien T1, T2, T3) oder Bahnhof Pau",
     "hu": "Place de Verdun buszállomás (T1, T2, T3 vonalak) vagy Pau vasútállomás",
     "ro": "Autogara Place de Verdun (liniile T1, T2, T3) sau gara Pau",
-    "en": "Place de Verdun bus station (lines T1, T2, T3) or Pau train station"
+    "en": "Place de Verdun bus station (lines T1, T2, T3) or Pau train station",
+    "fr": "Station de bus Place de Verdun (lignes T1, T2, T3) ou gare de Pau"
   },
   "parking": {
     "de": "Parkplatz Place de Verdun (15 Min. Fußweg), ca. €2 pro Tag",
     "hu": "Place de Verdun parkoló (15 perc séta), kb. 2 € naponta",
     "ro": "Parcarea Place de Verdun (15 min. de mers pe jos), aproximativ 2 € pe zi",
-    "en": "Place de Verdun parking lot (15 min walk), approx. €2 per day"
+    "en": "Place de Verdun parking lot (15 min walk), approx. €2 per day",
+    "fr": "Parking Place de Verdun (15 min à pied), env. 2 € par jour"
   },
   "accessibility": {
     "de": "Teilweise barrierefrei, Aufzug für die oberen Stockwerke vorhanden",
     "hu": "Részben akadálymentesített, lift elérhető a felső emeletekhez",
     "ro": "Parțial accesibil, lift disponibil pentru etajele superioare",
-    "en": "Partially accessible, elevator available for the upper floors"
+    "en": "Partially accessible, elevator available for the upper floors",
+    "fr": "Partiellement accessible, ascenseur disponible pour les étages supérieurs"
   },
   "photoRules": {
     "de": "Fotografieren ohne Blitz in den Räumen erlaubt, keine Stative",
     "hu": "A termekben vaku nélkül szabad fényképezni, állvány nem használható",
     "ro": "Fotografierea fără bliț în încăperi este permisă, fără trepiede",
-    "en": "Photography permitted in the rooms without flash, no tripods"
+    "en": "Photography permitted in the rooms without flash, no tripods",
+    "fr": "Photographie permise dans les salles sans flash, pas de trépieds"
   },
   "bestTimeToVisit": {
     "de": "Vormittags unter der Woche, um Schulklassen zu vermeiden",
     "hu": "Hétköznap délelőtt, az iskoláscsoportok elkerülése érdekében",
     "ro": "Dimineața în timpul săptămânii pentru a evita grupurile școlare",
-    "en": "Weekday mornings to avoid school groups"
+    "en": "Weekday mornings to avoid school groups",
+    "fr": "Les matinées en semaine pour éviter les groupes scolaires"
   },
   "audioGuide": {
     "de": "Verfügbar in DE, EN, FR, ES",
     "hu": "Elérhető: DE, EN, FR, ES nyelveken",
     "ro": "Disponibil în DE, EN, FR, ES",
-    "en": "Available in DE, EN, FR, ES"
+    "en": "Available in DE, EN, FR, ES",
+    "fr": "Disponible en DE, EN, FR, ES"
   }
 }

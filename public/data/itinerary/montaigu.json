@@ -21,7 +21,8 @@
             "de": "Château de la Caillauderie",
             "hu": "Château de la Caillauderie",
             "ro": "Château de la Caillauderie",
-            "en": "Château de la Caillauderie"
+            "en": "Château de la Caillauderie",
+            "fr": "Château de la Caillauderie"
           },
           "coords": [
             -1.311565,
@@ -36,7 +37,8 @@
             "de": "Erkunden Sie die historischen Mauern dieses majestätischen Schlosses und bewundern Sie die erhaltene Architektur, kommen Sie jedoch früh für das beste Morgenlicht.",
             "hu": "Fedezze fel e fenséges kastély történelmi falait és csodálja meg a megőrzött építészetet, de érkezzen korán, hogy elkerülje a tömeget a békés reggeli fényben.",
             "ro": "Explorați zidurile istorice ale acestui castel maiestuos și admirați arhitectura sa bine conservată, dar veniți devreme pentru a vă bucura de lumina liniștită a dimineții.",
-            "en": "Explore the historic walls of this majestic castle and admire the preserved architecture, but arrive early to enjoy the tranquil morning light without crowds."
+            "en": "Explore the historic walls of this majestic castle and admire the preserved architecture, but arrive early to enjoy the tranquil morning light without crowds.",
+            "fr": "Explorez les murs historiques de ce château majestueux et admirez l'architecture préservée, mais arrivez tôt pour profiter de la lumière matinale tranquille sans la foule."
           }
         },
         {
@@ -44,7 +46,8 @@
             "de": "Saint-Nicolas Brücke",
             "hu": "Saint-Nicolas híd",
             "ro": "Podul Saint-Nicolas",
-            "en": "Saint-Nicolas Bridge"
+            "en": "Saint-Nicolas Bridge",
+            "fr": "Pont Saint-Nicolas"
           },
           "coords": [
             -1.318114,
@@ -59,7 +62,8 @@
             "de": "Spazieren Sie über diese jahrhundertealte Brücke und nutzen Sie die Gelegenheit, die malerischen Flussreflexionen genau von der Mitte aus zu fotografieren.",
             "hu": "Sétáljon át ezen az évszázados hídon, amely összeköti a történelmet a természettel, és álljon meg a közepén, hogy lefotózza a folyó festői tükröződéseit.",
             "ro": "Plimbați-vă pe acest pod vechi de secole care leagă istoria de natură și nu uitați să faceți poze cu reflexiile pitorești ale râului chiar din centru.",
-            "en": "Stroll across this centuries-old bridge connecting history with nature, and take a moment to photograph the picturesque river reflections from the very center."
+            "en": "Stroll across this centuries-old bridge connecting history with nature, and take a moment to photograph the picturesque river reflections from the very center.",
+            "fr": "Promenez-vous sur ce pont séculaire qui relie l'histoire à la nature, et prenez un moment pour photographier les reflets pittoresques de la rivière depuis son centre."
           }
         },
         {
@@ -67,7 +71,8 @@
             "de": "Parc des Rochettes",
             "hu": "Parc des Rochettes",
             "ro": "Parcul Rochettes",
-            "en": "Parc des Rochettes"
+            "en": "Parc des Rochettes",
+            "fr": "Parc des Rochettes"
           },
           "coords": [
             -1.318321,
@@ -82,7 +87,8 @@
             "de": "Entspannen Sie im üppigen Grün dieses ruhigen Naturparks, während Sie die lokale Flora bewundern, und bringen Sie ein kleines Picknick für eine Rast auf den schattigen Bänken mit.",
             "hu": "Pihenjen meg e békés természeti park buja zöldjében, miközben élvezi a helyi növényvilágot, és hozzon egy kis pikniket az árnyékos padokra a víz közelében.",
             "ro": "Relaxați-vă în verdeața luxuriantă a acestui parc natural liniștit și aduceți o mică gustare pentru un picnic relaxant pe una dintre băncile umbrite de lângă apă.",
-            "en": "Relax in the lush greenery of this serene natural park while enjoying the local flora, and pack a small picnic to savor on one of the shaded benches near the water."
+            "en": "Relax in the lush greenery of this serene natural park while enjoying the local flora, and pack a small picnic to savor on one of the shaded benches near the water.",
+            "fr": "Détendez-vous dans la verdure luxuriante de ce parc naturel serein tout en profitant de la flore locale, et emportez un petit pique-nique à savourer sur l'un des bancs ombragés près de l'eau."
           }
         },
         {
@@ -90,7 +96,8 @@
             "de": "La Barillière",
             "hu": "La Barillière",
             "ro": "La Barillière",
-            "en": "La Barillière"
+            "en": "La Barillière",
+            "fr": "La Barillière"
           },
           "coords": [
             -1.298056,
@@ -105,7 +112,8 @@
             "de": "Entdecken Sie den zeitlosen Charme dieses beeindruckenden Anwesens in der Landschaft und tragen Sie bequeme Schuhe, um das unebene Gelände sicher zu erkunden.",
             "hu": "Fedezze fel e lenyűgöző birtok időtlen varázsát a táj szívében, és viseljen kényelmes cipőt, hogy biztonságosan bejárhassa a körülötte lévő egyenetlen terepet.",
             "ro": "Descoperiți farmecul atemporal al acestui domeniu impresionant și purtați încălțăminte confortabilă pentru a explora în siguranță terenul accidentat din jur.",
-            "en": "Discover the timeless charm of this impressive estate hidden amidst the landscape, and wear comfortable shoes to explore the uneven terrain of its surrounding grounds."
+            "en": "Discover the timeless charm of this impressive estate hidden amidst the landscape, and wear comfortable shoes to explore the uneven terrain of its surrounding grounds.",
+            "fr": "Découvrez le charme intemporel de ce domaine impressionnant caché dans le paysage, et portez des chaussures confortables pour explorer le terrain inégal de ses abords."
           }
         },
         {
@@ -113,7 +121,8 @@
             "de": "Die Mühle",
             "hu": "A Malom",
             "ro": "Moara",
-            "en": "Moulin"
+            "en": "Moulin",
+            "fr": "Moulin"
           },
           "coords": [
             -1.290597,
@@ -128,7 +137,8 @@
             "de": "Bewundern Sie die rustikale Schönheit dieser historischen Mühle, und werfen Sie einen Blick auf die alten Wassermechanismen, die vom nahen Weg noch sichtbar sind.",
             "hu": "Csodálja meg e történelmi malom rusztikus szépségét, amely egykor a helyi gazdaságot hajtotta, és figyelje meg a közeli ösvényről még látható régi vízimechanizmusokat.",
             "ro": "Admirați frumusețea rustică a acestei mori istorice care alimenta economia locală odată și examinați vechile mecanisme de apă vizibile încă de pe cărarea din apropiere.",
-            "en": "Admire the rustic beauty of this historical mill that powered the local economy long ago, and check out the ancient water mechanisms still visible from the nearby path."
+            "en": "Admire the rustic beauty of this historical mill that powered the local economy long ago, and check out the ancient water mechanisms still visible from the nearby path.",
+            "fr": "Admirez la beauté rustique de ce moulin historique qui alimentait autrefois l'économie locale, et observez les anciens mécanismes hydrauliques encore visibles depuis le chemin voisin."
           }
         }
       ],
@@ -136,7 +146,8 @@
         "de": "Beginnen Sie Ihren Morgen mit einem entspannten Spaziergang nahe dem Stadtkern und besuchen Sie das historische Château de la Caillauderie. \n\nÜberqueren Sie anschließend die alte Saint-Nicolas-Brücke, ein stummer Zeuge vergangener Jahrhunderte. \n\nVerbringen Sie den Nachmittag an der frischen Luft im Parc des Rochettes und erkunden Sie danach das Gelände von La Barillière. \n\nBeenden Sie Ihre Wanderung am frühen Abend bei der alten Mühle und lassen Sie die lokalen Eindrücke des Tages auf sich wirken.",
         "hu": "Kezdje a reggelt egy laza sétával a városközpont közelében, meglátogatva a történelmi Château de la Caillauderie-t. \n\nFolytassa útját a vízparton, átkelve az ősi Saint-Nicolas hídon, amely évszázadok néma tanúja. \n\nTöltse a délutánt a friss levegőn, a Parc des Rochettes nyugalmában, majd fedezze fel a La Barillière rusztikus területét. \n\nZárja gyalogtúráját az esti órák közeledtével a régi Malomnál, elgondolkodva a helyi történelemmel teli, csodálatos napon.",
         "ro": "Începeți dimineața cu o plimbare relaxată aproape de centrul orașului, vizitând istoricul Château de la Caillauderie. \n\nContinuați de-a lungul apei, traversând vechiul pod Saint-Nicolas, care stă ca un martor tăcut al secolelor trecute. \n\nPetreceți după-amiaza bucurându-vă de aer proaspăt în Parc des Rochettes, urmat de explorarea domeniului La Barillière. \n\nÎncheiați turul de mers pe jos spre seară la vechea Moară, reflectând la o zi petrecută complet în inima istoriei locale.",
-        "en": "Start your morning with a relaxed stroll near the town's core, visiting the historic Château de la Caillauderie. \n\nContinue by the water, crossing the ancient Saint-Nicolas Bridge which stands as a silent witness to centuries past. \n\nSpend your afternoon enjoying the fresh air and tranquility at Parc des Rochettes, followed by exploring the rustic grounds of La Barillière. \n\nConclude your walking tour as evening approaches at the old Moulin, reflecting on a day spent fully immersed in local history."
+        "en": "Start your morning with a relaxed stroll near the town's core, visiting the historic Château de la Caillauderie. \n\nContinue by the water, crossing the ancient Saint-Nicolas Bridge which stands as a silent witness to centuries past. \n\nSpend your afternoon enjoying the fresh air and tranquility at Parc des Rochettes, followed by exploring the rustic grounds of La Barillière. \n\nConclude your walking tour as evening approaches at the old Moulin, reflecting on a day spent fully immersed in local history.",
+        "fr": "Commencez votre matinée par une promenade détendue près du cœur de la ville, en visitant le château historique de la Caillauderie.\n\nContinuez au bord de l'eau, en traversant l'ancien pont Saint-Nicolas qui se dresse comme un témoin silencieux des siècles passés.\n\nPassez votre après-midi à profiter de l'air frais et de la tranquillité du parc des Rochettes, puis explorez les terrains rustiques de La Barillière.\n\nConcluez votre circuit pédestre en soirée au vieux moulin, en réfléchissant à une journée entièrement consacrée à l'histoire locale."
       },
       "variants": {
         "rainy": {
@@ -144,7 +155,8 @@
             "de": "Der Tag beginnt regnerisch am Schloss. Spazieren Sie vorsichtig über die historische Brücke und genießen Sie die mystische Atmosphäre im Park. Der Weg zur Mühle führt durch sanften Nieselregen, also denken Sie an einen festen Regenschirm. Am Abend glitzern die nassen Straßen im sanften Licht der Stadt. Ein wasserdichter Mantel ist heute Ihr wichtigstes Accessoire für Montaigu.",
             "hu": "Az esős reggel a kastélynál kezdődik, ahol a falak sötétebb tónust öltenek. A hídon és a parkban a sár ellenére is kellemes a séta a fák lombjai alatt. Délután a Barillière felé haladva vigyázzon a felázott ösvényeken. Az estét a malom látványa zárja, miközben az eső kopog a háztetőkön. Egy jó esőkabát és vízálló cipő elengedhetetlen a mai naphoz.",
             "ro": "Dimineața ploioasă începe la castel, unde zidurile capătă o nuanță dramatică. Plimbarea pe pod și în parc oferă un aer proaspăt, dar aveți grijă la suprafețele umede. După-amiaza spre Barillière poate fi noroioasă, deci folosiți încălțăminte adecvată. Seara se încheie la moară, sub sunetul picăturilor de ploaie. O pelerină de ploaie vă va menține confortabil pe tot parcursul zilei.",
-            "en": "The rainy morning begins at the castle, where the stone walls take on a deep hue. A walk across the bridge and through the park feels fresh, even under grey skies. Afternoon paths toward Barillière might be slippery, so watch your step. The evening ends at the mill, with a cozy atmosphere despite the dampness. A sturdy umbrella and waterproof boots are essential for your walk today."
+            "en": "The rainy morning begins at the castle, where the stone walls take on a deep hue. A walk across the bridge and through the park feels fresh, even under grey skies. Afternoon paths toward Barillière might be slippery, so watch your step. The evening ends at the mill, with a cozy atmosphere despite the dampness. A sturdy umbrella and waterproof boots are essential for your walk today.",
+            "fr": "La matinée pluvieuse commence au château, où les murs de pierre prennent une teinte profonde. Une promenade sur le pont et dans le parc reste fraîche, même sous un ciel gris. Les chemins vers La Barillière peuvent être glissants l'après-midi, surveillez vos pas. La soirée se termine au moulin, avec une atmosphère cosy malgré l'humidité. Un parapluie solide et des bottes imperméables sont essentiels pour votre promenade aujourd'hui."
           },
           "stops": [
             {
@@ -152,13 +164,15 @@
                 "de": "Château de la Caillauderie",
                 "hu": "Château de la Caillauderie",
                 "ro": "Château de la Caillauderie",
-                "en": "Château de la Caillauderie"
+                "en": "Château de la Caillauderie",
+                "fr": "Château de la Caillauderie"
               },
               "tip_5lang": {
                 "de": "Bewundern Sie die Architektur des Schlosses im Regen; die Steine wirken lebendiger. Ein großer Regenschirm ist hier Ihr bester Begleiter für einen trockenen Besuch.",
                 "hu": "Csodálja meg a kastély architektúráját az esőben, a kövek ilyenkor mélyebb színűek. Egy masszív esernyő kötelező kellék a kényelmes kerti sétához a várfalak tövében.",
                 "ro": "Admirați arhitectura castelului în ploaie; pietrele par mai vii sub apă. O umbrelă mare este cel mai bun partener pentru o vizită confortabilă în jurul zidurilor vechi.",
-                "en": "Admire the castle's architecture in the rain; the stones look more vibrant when wet. A sturdy umbrella is your best companion for a comfortable visit around the walls."
+                "en": "Admire the castle's architecture in the rain; the stones look more vibrant when wet. A sturdy umbrella is your best companion for a comfortable visit around the walls.",
+                "fr": "Admirez l'architecture du château sous la pluie ; les pierres paraissent plus vibrantes quand elles sont mouillées. Un parapluie solide est votre meilleur compagnon pour une visite confortable autour des murailles."
               }
             },
             {
@@ -166,13 +180,15 @@
                 "de": "Saint-Nicolas Brücke",
                 "hu": "Saint-Nicolas híd",
                 "ro": "Podul Saint-Nicolas",
-                "en": "Saint-Nicolas Bridge"
+                "en": "Saint-Nicolas Bridge",
+                "fr": "Pont Saint-Nicolas"
               },
               "tip_5lang": {
                 "de": "Die Brücke bietet im Regen einen dramatischen Blick auf den Fluss. Gehen Sie langsam, da die historischen Pflastersteine bei Nässe sehr rutschig sein können.",
                 "hu": "A híd drámai kilátást nyújt a folyóra az esőben. Haladjon lassan és óvatosan, mert a történelmi macskakövek nedvesen rendkívül csúszóssá válhatnak a lába alatt.",
                 "ro": "Podul oferă o vedere dramatică asupra râului în ploaie. Mergeți încet, deoarece pavajul istoric poate deveni foarte alunecos atunci când este umed de la precipitații.",
-                "en": "The bridge offers a dramatic view of the river in the rain. Walk slowly, as the historical cobblestones can become very slippery when wet from the rainfall."
+                "en": "The bridge offers a dramatic view of the river in the rain. Walk slowly, as the historical cobblestones can become very slippery when wet from the rainfall.",
+                "fr": "Le pont offre une vue spectaculaire sur la rivière sous la pluie. Marchez lentement, car les pavés historiques peuvent devenir très glissants lorsqu'ils sont mouillés."
               }
             },
             {
@@ -180,13 +196,15 @@
                 "de": "Parc des Rochettes",
                 "hu": "Parc des Rochettes",
                 "ro": "Parcul Rochettes",
-                "en": "Parc des Rochettes"
+                "en": "Parc des Rochettes",
+                "fr": "Parc des Rochettes"
               },
               "tip_5lang": {
                 "de": "Genießen Sie den Duft der nassen Natur unter dem Blätterdach der Bäume. Suchen Sie bei starken Schauern Schutz unter den dichten Baumkronen entlang der Hauptwege.",
                 "hu": "Élvezze a nedves természet illatát a fák lombkoronája alatt. Erősebb zápor esetén keressen menedéket a sűrűbb ágak alatt a főútvonalak mentén a parkban.",
                 "ro": "Bucurați-vă de mirosul naturii umede sub coronamentul copacilor. Căutați adăpost sub ramurile dese în timpul ploilor torențiale de-a lungul aleilor principale.",
-                "en": "Enjoy the scent of wet nature under the canopy of the trees. Seek shelter under the thick branches during heavy showers along the main paths in the park."
+                "en": "Enjoy the scent of wet nature under the canopy of the trees. Seek shelter under the thick branches during heavy showers along the main paths in the park.",
+                "fr": "Appréciez l'odeur de la nature humide sous la canopée des arbres. Cherchez un abri sous les branches épaisses lors des fortes averses le long des sentiers principaux du parc."
               }
             },
             {
@@ -194,13 +212,15 @@
                 "de": "La Barillière",
                 "hu": "La Barillière",
                 "ro": "La Barillière",
-                "en": "La Barillière"
+                "en": "La Barillière",
+                "fr": "La Barillière"
               },
               "tip_5lang": {
                 "de": "Das Anwesen wirkt im Nebel besonders herrschaftlich und ruhig. Tragen Sie wasserfeste Wanderschuhe, da die unbefestigten Wege rund um das Schloss aufweichen können.",
                 "hu": "A birtok a ködben és esőben különösen méltóságteljes és csendes. Viseljen vízálló túrabakancsot, mert a kastély körüli föutak ilyenkor könnyen felázhatnak.",
                 "ro": "Domeniul pare deosebit de maiestuos și liniștit în ceață și ploaie. Purtați ghete impermeabile, deoarece potecile din jurul castelului pot deveni noroioase.",
-                "en": "The estate looks particularly majestic and quiet in the mist and rain. Wear waterproof hiking boots as the paths around the castle can become muddy and soft."
+                "en": "The estate looks particularly majestic and quiet in the mist and rain. Wear waterproof hiking boots as the paths around the castle can become muddy and soft.",
+                "fr": "Le domaine paraît particulièrement majestueux et calme dans la brume et la pluie. Portez des chaussures de randonnée imperméables car les sentiers autour du château peuvent devenir boueux et meubles."
               }
             },
             {
@@ -208,13 +228,15 @@
                 "de": "Die Mühle",
                 "hu": "A Malom",
                 "ro": "Moara",
-                "en": "Moulin"
+                "en": "Moulin",
+                "fr": "Moulin"
               },
               "tip_5lang": {
                 "de": "Das Rauschen des Wassers an der Mühle ist bei Regen besonders intensiv. Ein wasserdichter Hut schützt Sie vor dem Wind, während Sie das historische Rad beobachten.",
                 "hu": "A víz zúgása a malomnál esőben sokkal intenzívebb és hangosabb élmény. Egy vízhatlan kalap megvédi a széltől, miközben a történelmi kereket figyeli a partról.",
                 "ro": "Sunetul apei la moară este mult mai intens și zgomotos pe timp de ploaie. O pălărie impermeabilă vă va proteja de vânt în timp ce observați roata istorică.",
-                "en": "The sound of the water at the mill is much more intense and loud during the rain. A waterproof hat will protect you from the wind while watching the historic wheel."
+                "en": "The sound of the water at the mill is much more intense and loud during the rain. A waterproof hat will protect you from the wind while watching the historic wheel.",
+                "fr": "Le bruit de l'eau au moulin est beaucoup plus intense et fort pendant la pluie. Un chapeau imperméable vous protégera du vent pendant que vous observez la roue historique."
               }
             }
           ]
@@ -224,7 +246,8 @@
             "de": "Ein frostiger Morgen am Schloss leitet den Wintertag ein. Der Spaziergang über die Brücke bietet klare Sicht, während der Park in winterlicher Stille ruht. Beenden Sie den Weg an der Mühle, bevor die frühe Dunkelheit gegen 17:00 Uhr einsetzt. Warme Kleidung und feste Schuhe sind für diesen Rundgang im kalten Montaigu unerlässlich, um die winterliche Pracht voll zu genießen.",
             "hu": "A fagyos reggel a kastélynál kezdődik, ahol a zúzmara díszíti a régi falakat. A hídon és a parkban a téli csend uralkodik, a levegő harapós, de friss. A Barillière látogatása után igyekezzen a malomhoz, mert 17 óra után hamar besötétedik. Réteges öltözet és egy termosz meleg tea ajánlott, hogy végig élvezni tudja ezt a hangulatos téli sétát.",
             "ro": "O dimineață geroasă la castel dă tonul zilei de iarnă. Plimbarea pe pod oferă vederi clare, în timp ce parcul se odihnește sub cerul rece. Încheiați traseul la moară înainte ca întunericul să se lase devreme, în jurul orei 17:00. Hainele groase și încălțele bine izolate sunt esențiale pentru a savura pe deplin splendoarea hibernală a orașului.",
-            "en": "A frosty morning at the castle sets the tone for a winter day. The walk over the bridge offers clear views, while the park rests in winter silence. Finish the route at the mill before darkness falls early around 5 PM. Warm layers and insulated boots are essential for this tour to fully enjoy the winter splendor and crisp air of Montaigu."
+            "en": "A frosty morning at the castle sets the tone for a winter day. The walk over the bridge offers clear views, while the park rests in winter silence. Finish the route at the mill before darkness falls early around 5 PM. Warm layers and insulated boots are essential for this tour to fully enjoy the winter splendor and crisp air of Montaigu.",
+            "fr": "Une matinée gelée au château donne le ton d'une journée hivernale. La traversée du pont offre des vues claires, tandis que le parc repose dans le silence de l'hiver. Terminez l'itinéraire au moulin avant la tombée de la nuit vers 17:00. Des couches chaudes et des bottes isolantes sont essentielles pour profiter pleinement du splendide air vif de Montaigu."
           },
           "stops": [
             {
@@ -232,13 +255,15 @@
                 "de": "Château de la Caillauderie",
                 "hu": "Château de la Caillauderie",
                 "ro": "Château de la Caillauderie",
-                "en": "Château de la Caillauderie"
+                "en": "Château de la Caillauderie",
+                "fr": "Château de la Caillauderie"
               },
               "tip_5lang": {
                 "de": "Die scharfen Kontraste der Burgmauer im Winterlicht sind ideal für Fotos. Ziehen Sie sich warm an, da der Wind in den offenen Bereichen des Schlosses kalt wehen kann.",
                 "hu": "A várfalak éles kontrasztjai a téli fényben kiválóak a fotózáshoz. Öltözzön nagyon melegen, mert a nyitott udvarokon a szél gyakran fagyosabbnak érződik.",
                 "ro": "Contrastele puternice ale zidurilor castelului în lumina iernii sunt ideale pentru fotografii. Îmbrăcați-vă gros, deoarece vântul poate fi tăios în zonele deschise.",
-                "en": "The sharp contrasts of the castle walls in the winter light are ideal for photography. Dress warmly, as the wind can be quite biting in the open areas of the estate."
+                "en": "The sharp contrasts of the castle walls in the winter light are ideal for photography. Dress warmly, as the wind can be quite biting in the open areas of the estate.",
+                "fr": "Les forts contrastes des murs du château sous la lumière hivernale sont idéaux pour la photographie. Habillez-vous chaudement, car le vent peut être assez mordant dans les espaces ouverts du domaine."
               }
             },
             {
@@ -246,13 +271,15 @@
                 "de": "Saint-Nicolas Brücke",
                 "hu": "Saint-Nicolas híd",
                 "ro": "Podul Saint-Nicolas",
-                "en": "Saint-Nicolas Bridge"
+                "en": "Saint-Nicolas Bridge",
+                "fr": "Pont Saint-Nicolas"
               },
               "tip_5lang": {
                 "de": "Genießen Sie den Blick auf das klare, kalte Wasser unter der Brücke. Tragen Sie Handschuhe, da die eisigen Metallgeländer bei Berührung sehr kalt sein können.",
                 "hu": "Élvezze a kilátást a híd alatti tiszta, hideg vízre és a zúzmarás partra. Viseljen kesztyűt, mert a jeges korlátok érintése rendkívül kellemetlen lehet a hidegben.",
                 "ro": "Bucurați-vă de vederea apei reci și limpezi de sub pod în dimineața geroasă. Purtați mănuși, deoarece balustradele înghețate pot fi foarte reci la atingere.",
-                "en": "Enjoy the view of the clear, cold water under the bridge on a frosty morning. Wear gloves, as the icy railings can be very cold to the touch during your crossing."
+                "en": "Enjoy the view of the clear, cold water under the bridge on a frosty morning. Wear gloves, as the icy railings can be very cold to the touch during your crossing.",
+                "fr": "Profitez de la vue de l'eau claire et froide sous le pont lors d'une matinée gelée. Portez des gants, car les rampes glacées peuvent être très froides au toucher durant votre traversée."
               }
             },
             {
@@ -260,13 +287,15 @@
                 "de": "Parc des Rochettes",
                 "hu": "Parc des Rochettes",
                 "ro": "Parcul Rochettes",
-                "en": "Parc des Rochettes"
+                "en": "Parc des Rochettes",
+                "fr": "Parc des Rochettes"
               },
               "tip_5lang": {
                 "de": "Die kahlen Bäume enthüllen verborgene Sichtachsen durch den winterlichen Park. Besuchen Sie den Park am frühen Nachmittag, um das beste Tageslicht vor dem Sonnenuntergang zu nutzen.",
                 "hu": "A kopár fák felfedik a park rejtett látványvonalait a téli csendben. Látogasson el ide kora délután, hogy kihasználja a legjobb fényeket a naplemente előtt.",
                 "ro": "Copacii golași dezvăluie perspective ascunse prin parcul hibernal tăcut. Vizitați parcul după-amiaza devreme pentru a profita de cea mai bună lumină înainte de apus.",
-                "en": "The bare trees reveal hidden vistas through the silent winter park. Visit the park in the early afternoon to make the most of the best light before the sun sets."
+                "en": "The bare trees reveal hidden vistas through the silent winter park. Visit the park in the early afternoon to make the most of the best light before the sun sets.",
+                "fr": "Les arbres dépouillés révèlent des vues cachées à travers le parc hivernal silencieux. Visitez le parc en début d'après-midi pour tirer le meilleur parti de la meilleure lumière avant le coucher du soleil."
               }
             },
             {
@@ -274,13 +303,15 @@
                 "de": "La Barillière",
                 "hu": "La Barillière",
                 "ro": "La Barillière",
-                "en": "La Barillière"
+                "en": "La Barillière",
+                "fr": "La Barillière"
               },
               "tip_5lang": {
                 "de": "Erkunden Sie die herrschaftliche Umgebung in der frischen Winterluft. Ein Thermosbecher mit einem Heißgetränk macht die Erkundung des Schlosses noch angenehmer.",
                 "hu": "Fedezze fel a méltóságteljes környezetet a friss és életerővel teli téli levegőn. Egy termosznyi forró ital még kellemesebbé teszi a kastély körüli hosszú sétát.",
                 "ro": "Explorați împrejurimile maiestuoase în aerul proaspăt și revigorant de iarnă. Un termos cu o băutură caldă va face explorarea castelului mult mai plăcută.",
-                "en": "Explore the majestic surroundings in the fresh and invigorating winter air. A thermos with a hot drink will make the exploration of the castle much more pleasant."
+                "en": "Explore the majestic surroundings in the fresh and invigorating winter air. A thermos with a hot drink will make the exploration of the castle much more pleasant.",
+                "fr": "Explorez les environs majestueux dans l'air vif et revigorant de l'hiver. Un thermos avec une boisson chaude rendra l'exploration du château bien plus agréable."
               }
             },
             {
@@ -288,13 +319,15 @@
                 "de": "Die Mühle",
                 "hu": "A Malom",
                 "ro": "Moara",
-                "en": "Moulin"
+                "en": "Moulin",
+                "fr": "Moulin"
               },
               "tip_5lang": {
                 "de": "Die Mühle wirkt in der blauen Stunde des Winters besonders malerisch. Da es früh dunkel wird, sollten Sie diesen Stopp vor 16:30 Uhr einplanen.",
                 "hu": "A malom a téli kék órában különösen festői látványt nyújt a folyóparton. Mivel korán sötétedik, tervezze be ezt a megállót legkésőbb 16:30-ig a nap végén.",
                 "ro": "Moara arată deosebit de pitoresc în „ora albastră” a iernii pe malul râului. Deoarece se întunecă devreme, planificați această oprire până cel târziu la ora 16:30.",
-                "en": "The mill looks particularly picturesque during the winter's blue hour by the river. Since it gets dark early, plan to reach this stop by 4:30 PM at the latest."
+                "en": "The mill looks particularly picturesque during the winter's blue hour by the river. Since it gets dark early, plan to reach this stop by 4:30 PM at the latest.",
+                "fr": "Le moulin paraît particulièrement pittoresque pendant l'heure bleue hivernale au bord de la rivière. Comme la nuit tombe tôt, prévoyez d'atteindre cet arrêt au plus tard à 16:30."
               }
             }
           ]
@@ -314,7 +347,8 @@
             "de": "Burg von Montaigu",
             "hu": "Montaigu kastélya",
             "ro": "Castelul Montaigu",
-            "en": "Castle of Montaigu"
+            "en": "Castle of Montaigu",
+            "fr": "Château de Montaigu"
           },
           "coords": [
             -1.341538,
@@ -329,7 +363,8 @@
             "de": "Spazieren Sie durch die imposanten Festungsruinen, die einst die Region verteidigten, und erklimmen Sie die verbleajhenden Zinnen für einen atemberaubenden Panoramablick.",
             "hu": "Sétáljon végig az egykor a régiót védő lenyűgöző erődromokon, és másszon fel a megmaradt bástyákra, hogy lélegzetelállító panorámát fotózzon a völgyre.",
             "ro": "Plimbați-vă prin ruinele impunătoare ale fortăreței care apărau cândva regiunea și urcați pe meterezele rămase pentru o panoramă uimitoare asupra văii.",
-            "en": "Walk through the imposing fortress ruins that once defended the region, and climb the remaining battlements to capture a stunning panoramic view of the valley below."
+            "en": "Walk through the imposing fortress ruins that once defended the region, and climb the remaining battlements to capture a stunning panoramic view of the valley below.",
+            "fr": "Parcourez les imposantes ruines de la forteresse qui défendait autrefois la région, et grimpez sur les remparts restants pour capturer une vue panoramique saisissante de la vallée en contrebas."
           }
         },
         {
@@ -337,7 +372,8 @@
             "de": "Château de la Caillauderie",
             "hu": "Château de la Caillauderie",
             "ro": "Château de la Caillauderie",
-            "en": "Château de la Caillauderie"
+            "en": "Château de la Caillauderie",
+            "fr": "Château de la Caillauderie"
           },
           "coords": [
             -1.311565,
@@ -352,7 +388,8 @@
             "de": "Erkunden Sie die historischen Mauern dieses majestätischen Schlosses und bewundern Sie die erhaltene Architektur, kommen Sie jedoch früh für das beste Morgenlicht.",
             "hu": "Fedezze fel e fenséges kastély történelmi falait és csodálja meg a megőrzött építészetet, de érkezzen korán, hogy elkerülje a tömeget a békés reggeli fényben.",
             "ro": "Explorați zidurile istorice ale acestui castel maiestuos și admirați arhitectura sa bine conservată, dar veniți devreme pentru a vă bucura de lumina liniștită a dimineții.",
-            "en": "Explore the historic walls of this majestic castle and admire the preserved architecture, but arrive early to enjoy the tranquil morning light without crowds."
+            "en": "Explore the historic walls of this majestic castle and admire the preserved architecture, but arrive early to enjoy the tranquil morning light without crowds.",
+            "fr": "Explorez les murs historiques de ce château majestueux et admirez l'architecture préservée, mais arrivez tôt pour profiter de la lumière matinale tranquille sans la foule."
           }
         },
         {
@@ -360,7 +397,8 @@
             "de": "Saint-Nicolas Brücke",
             "hu": "Saint-Nicolas híd",
             "ro": "Podul Saint-Nicolas",
-            "en": "Saint-Nicolas Bridge"
+            "en": "Saint-Nicolas Bridge",
+            "fr": "Pont Saint-Nicolas"
           },
           "coords": [
             -1.318114,
@@ -375,7 +413,8 @@
             "de": "Spazieren Sie über diese jahrhundertealte Brücke und nutzen Sie die Gelegenheit, die malerischen Flussreflexionen genau von der Mitte aus zu fotografieren.",
             "hu": "Sétáljon át ezen az évszázados hídon, amely összeköti a történelmet a természettel, és álljon meg a közepén, hogy lefotózza a folyó festői tükröződéseit.",
             "ro": "Plimbați-vă pe acest pod vechi de secole care leagă istoria de natură și nu uitați să faceți poze cu reflexiile pitorești ale râului chiar din centru.",
-            "en": "Stroll across this centuries-old bridge connecting history with nature, and take a moment to photograph the picturesque river reflections from the very center."
+            "en": "Stroll across this centuries-old bridge connecting history with nature, and take a moment to photograph the picturesque river reflections from the very center.",
+            "fr": "Promenez-vous sur ce pont centenaire qui relie l'histoire à la nature, et prenez un instant pour photographier les reflets pittoresques de la rivière depuis le centre."
           }
         },
         {
@@ -383,7 +422,8 @@
             "de": "Parc des Rochettes",
             "hu": "Parc des Rochettes",
             "ro": "Parcul Rochettes",
-            "en": "Parc des Rochettes"
+            "en": "Parc des Rochettes",
+            "fr": "Parc des Rochettes"
           },
           "coords": [
             -1.318321,
@@ -398,7 +438,8 @@
             "de": "Entspannen Sie im üppigen Grün dieses ruhigen Naturparks, während Sie die lokale Flora bewundern, und bringen Sie ein kleines Picknick für eine Rast auf den schattigen Bänken mit.",
             "hu": "Pihenjen meg e békés természeti park buja zöldjében, miközben élvezi a helyi növényvilágot, és hozzon egy kis pikniket az árnyékos padokra a víz közelében.",
             "ro": "Relaxați-vă în verdeața luxuriantă a acestui parc natural liniștit și aduceți o mică gustare pentru un picnic relaxant pe una dintre băncile umbrite de lângă apă.",
-            "en": "Relax in the lush greenery of this serene natural park while enjoying the local flora, and pack a small picnic to savor on one of the shaded benches near the water."
+            "en": "Relax in the lush greenery of this serene natural park while enjoying the local flora, and pack a small picnic to savor on one of the shaded benches near the water.",
+            "fr": "Détendez-vous dans la verdure luxuriante de ce parc naturel paisible en profitant de la flore locale, et emportez un petit pique-nique à savourer sur un des bancs ombragés près de l'eau."
           }
         },
         {
@@ -406,7 +447,8 @@
             "de": "Château de Bois-Corbeau",
             "hu": "Château de Bois-Corbeau",
             "ro": "Château de Bois-Corbeau",
-            "en": "Château de Bois-Corbeau"
+            "en": "Château de Bois-Corbeau",
+            "fr": "Château de Bois-Corbeau"
           },
           "coords": [
             -1.291206,
@@ -421,7 +463,8 @@
             "de": "Entdecken Sie die faszinierende Geschichte dieses großen Schlosses inmitten weitläufiger Wälder und spazieren Sie den gesamten Umfang ab, um seine Größe zu erfassen.",
             "hu": "Fedezze fel e hatalmas, erdőkkel körülvett kastély lenyűgöző történetét, és sétálja körbe a kerületét, hogy teljes mértékben értékelni tudja építészeti léptékét.",
             "ro": "Descoperiți istoria fascinantă a acestui castel măreț înconjurat de păduri vaste și faceți o plimbare liniștită în jurul său pentru a-i aprecia dimensiunea arhitecturală.",
-            "en": "Uncover the fascinating history of this grand castle surrounded by vast woodlands, and take a mindful walk around the perimeter to fully appreciate its architectural scale."
+            "en": "Uncover the fascinating history of this grand castle surrounded by vast woodlands, and take a mindful walk around the perimeter to fully appreciate its architectural scale.",
+            "fr": "Découvrez l'histoire fascinante de ce grand château entouré de vastes bois, et faites une marche attentive autour du périmètre pour apprécier pleinement son ampleur architecturale."
           }
         },
         {
@@ -429,7 +472,8 @@
             "de": "La Barillière",
             "hu": "La Barillière",
             "ro": "La Barillière",
-            "en": "La Barillière"
+            "en": "La Barillière",
+            "fr": "La Barillière"
           },
           "coords": [
             -1.298056,
@@ -444,7 +488,8 @@
             "de": "Entdecken Sie den zeitlosen Charme dieses beeindruckenden Anwesens in der Landschaft und tragen Sie bequeme Schuhe, um das unebene Gelände sicher zu erkunden.",
             "hu": "Fedezze fel e lenyűgöző birtok időtlen varázsát a táj szívében, és viseljen kényelmes cipőt, hogy biztonságosan bejárhassa a körülötte lévő egyenetlen terepet.",
             "ro": "Descoperiți farmecul atemporal al acestui domeniu impresionant și purtați încălțăminte confortabilă pentru a explora în siguranță terenul accidentat din jur.",
-            "en": "Discover the timeless charm of this impressive estate hidden amidst the landscape, and wear comfortable shoes to explore the uneven terrain of its surrounding grounds."
+            "en": "Discover the timeless charm of this impressive estate hidden amidst the landscape, and wear comfortable shoes to explore the uneven terrain of its surrounding grounds.",
+            "fr": "Découvrez le charme intemporel de ce domaine impressionnant caché dans le paysage, et portez des chaussures confortables pour explorer le terrain inégal qui l'entoure."
           }
         }
       ],
@@ -452,7 +497,8 @@
         "de": "Radeln Sie früh zum beeindruckenden Castle of Montaigu und spüren Sie die Morgenbrise bei den Festungsruinen. \n\nFahren Sie zurück ins Zentrum, um das Château de la Caillauderie zu bewundern, bevor Sie die malerische Saint-Nicolas-Brücke überqueren. \n\nGenießen Sie nachmittags die Natur im Parc des Rochettes und radeln Sie nach Norden zum Waldgut Château de Bois-Corbeau. \n\nLassen Sie das Radabenteuer mit einer gemütlichen Fahrt zur La Barillière ausklingen und beenden Sie einen aktiven Tag.",
         "hu": "Tekerjen ki korán a lenyűgöző Montaigu kastélyhoz, és érezze a reggeli szellőt az ősi erődromok felfedezése közben. \n\nKerékpározzon vissza a központba, hogy megcsodálja a Château de la Caillauderie-t, majd keljen át a festői Saint-Nicolas hídon. \n\nDélután élvezze a természetet a Parc des Rochettes-ben, majd tekerjen északra a Château de Bois-Corbeau hatalmas erdei birtokához. \n\nZárja kerékpáros kalandját egy egyenletes úttal a La Barillière felé, befejezve egy aktív és élményekkel teli napot.",
         "ro": "Pedalați devreme spre impresionantul Castel Montaigu, simțind briza dimineții în timp ce explorați ruinele antice. \n\nÎntoarceți-vă spre centru pentru a admira Château de la Caillauderie înainte de a traversa pitorescul pod Saint-Nicolas. \n\nDupă-amiaza, faceți o pauză în natură la Parc des Rochettes, apoi pedalați spre nord pentru a descoperi Château de Bois-Corbeau. \n\nÎncheiați aventura pe două roți cu o cursă liniștită spre La Barillière, finalizând o zi activă și satisfăcătoare.",
-        "en": "Pedal out early to the impressive Castle of Montaigu, feeling the morning breeze as you explore the ancient defensive ruins. \n\nRide back toward the center to marvel at Château de la Caillauderie before crossing the picturesque Saint-Nicolas Bridge. \n\nIn the afternoon, enjoy a nature break at Parc des Rochettes and then cycle north to uncover the vast woodland estate of Château de Bois-Corbeau. \n\nWind down your biking adventure with a steady ride to La Barillière, wrapping up an active and fulfilling day."
+        "en": "Pedal out early to the impressive Castle of Montaigu, feeling the morning breeze as you explore the ancient defensive ruins. \n\nRide back toward the center to marvel at Château de la Caillauderie before crossing the picturesque Saint-Nicolas Bridge. \n\nIn the afternoon, enjoy a nature break at Parc des Rochettes and then cycle north to uncover the vast woodland estate of Château de Bois-Corbeau. \n\nWind down your biking adventure with a steady ride to La Barillière, wrapping up an active and fulfilling day.",
+        "fr": "Partez à vélo tôt vers l'imposant Château de Montaigu, sentez la brise matinale en explorant les anciennes ruines défensives. \n\nRendez-vous ensuite vers le centre pour admirer le Château de la Caillauderie avant de traverser le pittoresque pont Saint-Nicolas. \n\nL'après-midi, faites une pause nature au Parc des Rochettes puis pédalez vers le nord pour découvrir le vaste domaine boisé du Château de Bois-Corbeau. \n\nTerminez votre journée cycliste par une balade régulière jusqu'à La Barillière, bouclant une journée active et satisfaisante."
       },
       "variants": {
         "rainy": {
@@ -460,7 +506,8 @@
             "de": "Eine nasse Radtour durch Montaigu beginnt an der alten Burg. Fahren Sie vorsichtig über die Brücke und durch den Parc des Rochettes, da die Wege rutschig sein können. Die Tour führt weiter zum Château de Bois-Corbeau durch den Regen. Ein kompletter Satz Regenbekleidung und Schutzbleche am Rad sind heute unerlässlich, um sicher und trocken ans Ziel zu kommen.",
             "hu": "Az esős kerékpártúra Montaigu váránál indul, ahol a nedves aszfalt óvatosságra int. Tekerjen át a hídon és a parkon, de vigyázzon a csúszós kanyarokban. Az út a Bois-Corbeau kastély felé folytatódik a szemerkélő esőben. A teljes esőfelszerelés és a sárvédők használata ma elengedhetetlen a biztonságos és tiszta érkezéshez.",
             "ro": "Turul cu bicicleta prin Montaigu începe la vechiul castel, pe un asfalt umed ce necesită prudență. Pedalați peste pod și prin parc, dar aveți grijă la virajele alunecoase. Traseul continuă spre Château de Bois-Corbeau prin ploaie. Un echipament complet de ploaie și aripile la bicicletă sunt esențiale pentru a ajunge curat și în siguranță.",
-            "en": "A wet bike tour through Montaigu starts at the old castle, where damp roads call for caution. Pedal across the bridge and through the park, but be careful in slippery turns. The route continues toward Château de Bois-Corbeau through the drizzle. Full rain gear and mudguards on your bike are essential today to arrive safe and clean at each stop."
+            "en": "A wet bike tour through Montaigu starts at the old castle, where damp roads call for caution. Pedal across the bridge and through the park, but be careful in slippery turns. The route continues toward Château de Bois-Corbeau through the drizzle. Full rain gear and mudguards on your bike are essential today to arrive safe and clean at each stop.",
+            "fr": "Une sortie vélo humide à travers Montaigu commence au vieux château, où les routes détrempées demandent de la prudence. Traversez le pont et le parc, mais méfiez-vous des virages glissants. L'itinéraire se poursuit vers le Château de Bois-Corbeau sous la bruine. Un équipement de pluie complet et des garde-boues sur votre vélo sont essentiels aujourd'hui pour arriver sain et sauf et propre à chaque arrêt."
           },
           "stops": [
             {
@@ -468,13 +515,15 @@
                 "de": "Burg von Montaigu",
                 "hu": "Montaigu kastélya",
                 "ro": "Castelul Montaigu",
-                "en": "Castle of Montaigu"
+                "en": "Castle of Montaigu",
+                "fr": "Château de Montaigu"
               },
               "tip_5lang": {
                 "de": "Die Ruinen wirken im Regen besonders wehmütig und imposant. Parken Sie Ihr Rad an einem festen Untergrund, um ein Einsinken im aufgeweichten Boden zu vermeiden.",
                 "hu": "A romok esőben különösen melankolikus és impozáns látványt nyújtanak. Szilárd talajon parkolja le a kerékpárt, hogy elkerülje a felázott földbe való süllyedést.",
                 "ro": "Ruinele par deosebit de melancolice și impunătoare pe timp de ploaie. Parcați bicicleta pe o suprafață solidă pentru a evita scufundarea în solul moale.",
-                "en": "The ruins look particularly melancholic and imposing in the rain. Park your bike on a solid surface to avoid sinking into the soft and wet ground."
+                "en": "The ruins look particularly melancholic and imposing in the rain. Park your bike on a solid surface to avoid sinking into the soft and wet ground.",
+                "fr": "Les ruines paraissent particulièrement mélancoliques et imposantes sous la pluie. Garez votre vélo sur une surface solide pour éviter d'enfoncer dans le sol mou et humide."
               }
             },
             {
@@ -482,13 +531,15 @@
                 "de": "Château de la Caillauderie",
                 "hu": "Château de la Caillauderie",
                 "ro": "Château de la Caillauderie",
-                "en": "Château de la Caillauderie"
+                "en": "Château de la Caillauderie",
+                "fr": "Château de la Caillauderie"
               },
               "tip_5lang": {
                 "de": "Das Schloss bietet im Regen eine tolle Kulisse für eine kurze Pause. Prüfen Sie Ihre Bremsen regelmäßig, da die Bremskraft bei nassen Felgen nachlassen kann.",
                 "hu": "A kastély esőben is remek hátteret biztosít egy rövid pihenőhöz a túra alatt. Rendszeresen ellenőrizze a fékeket, mert a nedves felniken csökkenhet a fékhatás.",
                 "ro": "Castelul oferă un fundal minunat pentru o scurtă pauză în timpul turului ploios. Verificați frânele regulat, deoarece eficiența lor scade pe jantele umede.",
-                "en": "The castle provides a great backdrop for a short break during your rainy tour. Check your brakes regularly, as their efficiency can decrease on wet rims."
+                "en": "The castle provides a great backdrop for a short break during your rainy tour. Check your brakes regularly, as their efficiency can decrease on wet rims.",
+                "fr": "Le château offre un excellent décor pour une courte pause lors de votre tour pluvieux. Contrôlez vos freins régulièrement, car leur efficacité peut diminuer sur jantes humides."
               }
             },
             {
@@ -496,13 +547,15 @@
                 "de": "Saint-Nicolas Brücke",
                 "hu": "Saint-Nicolas híd",
                 "ro": "Podul Saint-Nicolas",
-                "en": "Saint-Nicolas Bridge"
+                "en": "Saint-Nicolas Bridge",
+                "fr": "Pont Saint-Nicolas"
               },
               "tip_5lang": {
                 "de": "Überqueren Sie die Brücke langsam, um den Blick auf den Fluss zu genießen. Vermeiden Sie plötzliches Bremsen auf den nassen Pflastersteinen der Brücke.",
                 "hu": "Lassan keljen át a hídon, hogy megcsodálhassa a folyót az esőben. Kerülje a hirtelen fékezést a hídon, mert a nedves macskakövek nagyon csúszósak.",
                 "ro": "Traversați podul încet pentru a admira râul în ploaie. Evitați frânarea bruscă pe pod, deoarece pavajul umed este extrem de alunecos pentru roți.",
-                "en": "Cross the bridge slowly to admire the river in the rain. Avoid sudden braking on the bridge, as the wet cobblestones are extremely slippery for bike tires."
+                "en": "Cross the bridge slowly to admire the river in the rain. Avoid sudden braking on the bridge, as the wet cobblestones are extremely slippery for bike tires.",
+                "fr": "Traversez le pont lentement pour admirer la rivière sous la pluie. Évitez les freinages brusques sur le pont, car les pavés mouillés sont extrêmement glissants pour les pneus de vélo."
               }
             },
             {
@@ -510,13 +563,15 @@
                 "de": "Parc des Rochettes",
                 "hu": "Parc des Rochettes",
                 "ro": "Parcul Rochettes",
-                "en": "Parc des Rochettes"
+                "en": "Parc des Rochettes",
+                "fr": "Parc des Rochettes"
               },
               "tip_5lang": {
                 "de": "Die asphaltierten Wege im Park sind bei Regen sicherer als die Waldpfade. Achten Sie auf nasses Laub auf den Wegen, das sehr rutschig sein kann.",
                 "hu": "A park aszfaltozott útjai esőben biztonságosabbak, mint az erdei ösvények. Ügyeljen a nedves levelekre az úton, mert azok váratlanul megcsúsztathatják a kereket.",
                 "ro": "Aleile asfaltate din parc sunt mai sigure pe ploaie decât potecile de pământ. Atenție la frunzele umede de pe drum, pot fi foarte alunecoase sub roți.",
-                "en": "The paved paths in the park are safer in the rain than the dirt trails. Watch out for wet leaves on the road, as they can be very slippery under your tires."
+                "en": "The paved paths in the park are safer in the rain than the dirt trails. Watch out for wet leaves on the road, as they can be very slippery under your tires.",
+                "fr": "Les chemins goudronnés du parc sont plus sûrs sous la pluie que les sentiers de terre. Méfiez-vous des feuilles mouillées sur la route, elles peuvent être très glissantes sous vos pneus."
               }
             },
             {
@@ -524,13 +579,15 @@
                 "de": "Château de Bois-Corbeau",
                 "hu": "Château de Bois-Corbeau",
                 "ro": "Château de Bois-Corbeau",
-                "en": "Château de Bois-Corbeau"
+                "en": "Château de Bois-Corbeau",
+                "fr": "Château de Bois-Corbeau"
               },
               "tip_5lang": {
                 "de": "Ein beeindruckender Anblick, wenn der Regen auf die alten Dächer trommelt. Nutzen Sie die überdachten Bereiche am Eingang für eine kurze Trinkpause im Trockenen.",
                 "hu": "Lenyűgöző látvány, ahogy az eső dobol a kastély régi tetőin és falain. Használja a bejáratnál lévő fedett részeket egy rövid, száraz frissítő pihenőhöz.",
                 "ro": "O vedere impresionantă în timp ce ploaia bate pe acoperișurile vechi ale castelului. Folosiți zonele acoperite de la intrare pentru o scurtă pauză de hidratare.",
-                "en": "An impressive sight as the rain drums on the old roofs of the castle. Use the covered areas near the entrance for a short, dry hydration break during the ride."
+                "en": "An impressive sight as the rain drums on the old roofs of the castle. Use the covered areas near the entrance for a short, dry hydration break during the ride.",
+                "fr": "Un spectacle impressionnant quand la pluie tambourine sur les vieux toits du château. Utilisez les abris près de l'entrée pour une courte pause hydrique au sec pendant la balade."
               }
             },
             {
@@ -538,13 +595,15 @@
                 "de": "La Barillière",
                 "hu": "La Barillière",
                 "ro": "La Barillière",
-                "en": "La Barillière"
+                "en": "La Barillière",
+                "fr": "La Barillière"
               },
               "tip_5lang": {
                 "de": "Der krönende Abschluss der Tour in der erfrischenden Regenluft. Reinigen Sie nach der Tour Ihre Kette, um sie vor dem korrosiven Einfluss des Regenwassers zu schützen.",
                 "hu": "A túra méltó befejezése a frissítő, eső utáni tiszta és páradús levegőben. A túra után tisztítsa meg a láncot, hogy megvédje az esővíz korrodáló hatásától.",
                 "ro": "Finalul perfect al turului în aerul proaspăt și umed de după ploaie. După tur, curățați lanțul bicicletei pentru a-l proteja de efectele corozive ale apei.",
-                "en": "The perfect end to the tour in the refreshing and humid air after the rain. After the ride, clean your bike chain to protect it from the corrosive effects of rain."
+                "en": "The perfect end to the tour in the refreshing and humid air after the rain. After the ride, clean your bike chain to protect it from the corrosive effects of rain.",
+                "fr": "La fin parfaite de la visite dans l'air rafraîchi et humide après la pluie. Après la sortie, nettoyez la chaîne de votre vélo pour la protéger des effets corrosifs de la pluie."
               }
             }
           ]
@@ -554,7 +613,8 @@
             "de": "Eine winterliche Radtour durch Montaigu beginnt frisch an der Burg. Die kühle Luft belebt auf dem Weg über die Brücke und durch den stillen Parc des Rochettes. Besuchen Sie das Château de Bois-Corbeau in der tiefstehenden Wintersonne. Tragen Sie winddichte Handschuhe und warme Schichten, und kehren Sie vor Einbruch der Dunkelheit um 17:00 Uhr sicher nach Hause zurück.",
             "hu": "A téli kerékpártúra frissen indul a várnál, ahol a csípős levegő azonnal felébreszt. Tekerjen át a hídon és a csendes parkon, élvezve a tiszta téli panorámát. Látogasson el a Bois-Corbeau kastélyhoz az alacsonyan járó téli napfényben. Viseljen szélálló kesztyűt és réteges ruházatot, és fejezze be a túrát sötétedés előtt, délután 5 óra körül.",
             "ro": "Turul cu bicicleta iarna începe revigorant la castel, unde aerul rece vă trezește imediat. Pedalați peste pod și prin parcul tăcut, admirând panorama clară. Vizitați Château de Bois-Corbeau în lumina joasă a soarelui de iarnă. Purtați mănuși rezistente la vânt și haine în straturi, terminând turul înainte de lăsarea serii, la ora 17:00.",
-            "en": "A winter bike tour starts refreshingly at the castle, where the crisp air wakes you up. Pedal across the bridge and through the silent park, enjoying the clear winter views. Visit Château de Bois-Corbeau in the low winter sunlight. Wear windproof gloves and warm layers, and make sure to finish your ride before it gets dark around 5 PM."
+            "en": "A winter bike tour starts refreshingly at the castle, where the crisp air wakes you up. Pedal across the bridge and through the silent park, enjoying the clear winter views. Visit Château de Bois-Corbeau in the low winter sunlight. Wear windproof gloves and warm layers, and make sure to finish your ride before it gets dark around 5 PM.",
+            "fr": "Une sortie vélo hivernale commence de façon revigorante au château, où l'air vif vous réveille. Traversez le pont et le parc silencieux en profitant des vues hivernales claires. Visitez le Château de Bois-Corbeau dans la faible lumière d'hiver. Portez des gants coupe-vent et des couches chaudes, et veillez à terminer votre trajet avant la tombée de la nuit vers 17h00."
           },
           "stops": [
             {
@@ -562,13 +622,15 @@
                 "de": "Burg von Montaigu",
                 "hu": "Montaigu kastélya",
                 "ro": "Castelul Montaigu",
-                "en": "Castle of Montaigu"
+                "en": "Castle of Montaigu",
+                "fr": "Château de Montaigu"
               },
               "tip_5lang": {
                 "de": "Die massiven Mauern wirken in der kalten Winterluft noch mächtiger. Achten Sie auf überfrorene Stellen auf dem Parkplatz, wenn Sie Ihr Rad abstellen.",
                 "hu": "A masszív falak a hideg téli levegőben még hatalmasabbnak és erősebbnek tűnnek. Ügyeljen a jeges foltokra a parkolóban, amikor leállítja a kerékpárt.",
                 "ro": "Zidurile masive par și mai impunătoare în aerul rece de iarnă. Atenție la zonele înghețate din parcare atunci când lăsați bicicleta pentru a vizita ruinele.",
-                "en": "The massive walls look even more powerful in the cold winter air. Watch out for icy patches in the parking area when stopping your bike to see the ruins."
+                "en": "The massive walls look even more powerful in the cold winter air. Watch out for icy patches in the parking area when stopping your bike to see the ruins.",
+                "fr": "Les murs massifs paraissent encore plus puissants dans l'air froid de l'hiver. Méfiez-vous des plaques de verglas dans l'aire de stationnement lorsque vous arrêtez votre vélo pour voir les ruines."
               }
             },
             {
@@ -576,13 +638,15 @@
                 "de": "Château de la Caillauderie",
                 "hu": "Château de la Caillauderie",
                 "ro": "Château de la Caillauderie",
-                "en": "Château de la Caillauderie"
+                "en": "Château de la Caillauderie",
+                "fr": "Château de la Caillauderie"
               },
               "tip_5lang": {
                 "de": "Das Schloss liegt friedlich in der winterlichen Landschaft von Montaigu. Halten Sie Ihre Gelenke durch leichtes Aufwärmen während der Besichtigungspausen beweglich.",
                 "hu": "A kastély békésen pihen Montaigu téli tájában a túra ezen szakaszán. Tartsa melegen az ízületeit könnyed átmozgatással a rövid megálló és nézelődés alatt.",
                 "ro": "Castelul se odihnește liniștit în peisajul de iarnă al orașului Montaigu. Mențineți-vă articulațiile calde prin mișcări ușoare în timpul scurtelor opriri.",
-                "en": "The castle rests peacefully in the winter landscape of Montaigu during this stop. Keep your joints warm with light movements during the short breaks for sightseeing."
+                "en": "The castle rests peacefully in the winter landscape of Montaigu during this stop. Keep your joints warm with light movements during the short breaks for sightseeing.",
+                "fr": "Le château repose paisiblement dans le paysage hivernal de Montaigu lors de cet arrêt. Gardez vos articulations au chaud avec de légers mouvements pendant les courtes pauses pour le tourisme."
               }
             },
             {
@@ -590,13 +654,15 @@
                 "de": "Saint-Nicolas Brücke",
                 "hu": "Saint-Nicolas híd",
                 "ro": "Podul Saint-Nicolas",
-                "en": "Saint-Nicolas Bridge"
+                "en": "Saint-Nicolas Bridge",
+                "fr": "Pont Saint-Nicolas"
               },
               "tip_5lang": {
                 "de": "Der Blick auf den winterlichen Fluss von der Brücke aus ist einzigartig. Fahren Sie besonders vorsichtig, da die Brücke bei Frost gefährlich glatt sein kann.",
                 "hu": "A híd egyedülálló kilátást nyújt a téli folyóra és a jeges partokra. Tekerjen különös óvatossággal, mert fagy esetén a híd felülete veszélyesen csúszós.",
                 "ro": "Vederea râului înghețat de pe pod este cu adevărat unică și spectaculoasă. Pedalați cu mare atenție, deoarece suprafața podului poate fi foarte alunecoasă.",
-                "en": "The view of the winter river from the bridge is unique and spectacular. Cycle with great caution, as the bridge surface can be dangerously slippery in frost."
+                "en": "The view of the winter river from the bridge is unique and spectacular. Cycle with great caution, as the bridge surface can be dangerously slippery in frost.",
+                "fr": "La vue sur la rivière hivernale depuis le pont est unique et spectaculaire. Roulez avec une grande prudence, car la surface du pont peut être dangereusement glissante en cas de gel."
               }
             },
             {
@@ -604,13 +670,15 @@
                 "de": "Parc des Rochettes",
                 "hu": "Parc des Rochettes",
                 "ro": "Parcul Rochettes",
-                "en": "Parc des Rochettes"
+                "en": "Parc des Rochettes",
+                "fr": "Parc des Rochettes"
               },
               "tip_5lang": {
                 "de": "Die weite Sicht durch den entlaubten Park ist perfekt für Panoramablicke. Tragen Sie eine Mütze unter dem Helm, um den Wärmeverlust über den Kopf zu minimieren.",
                 "hu": "A kopár parkon átnyúló széles kilátás tökéletes a panorámafotókhoz. Viseljen vékony sapkát a sisak alatt, hogy csökkentse a fején keresztüli hőveszteséget.",
                 "ro": "Vederea largă prin parcul fără frunze este perfectă pentru fotografii panoramice. Purtați o căciulă sub cască pentru a minimiza pierderea de căldură prin cap.",
-                "en": "The wide view through the leafless park is perfect for panoramic photos. Wear a thin cap under your helmet to minimize heat loss through your head while riding."
+                "en": "The wide view through the leafless park is perfect for panoramic photos. Wear a thin cap under your helmet to minimize heat loss through your head while riding.",
+                "fr": "La vaste perspective à travers le parc dépouillé est parfaite pour des photos panoramiques. Portez un bonnet fin sous votre casque pour minimiser la perte de chaleur par la tête pendant la balade."
               }
             },
             {
@@ -618,13 +686,15 @@
                 "de": "Château de Bois-Corbeau",
                 "hu": "Château de Bois-Corbeau",
                 "ro": "Château de Bois-Corbeau",
-                "en": "Château de Bois-Corbeau"
+                "en": "Château de Bois-Corbeau",
+                "fr": "Château de Bois-Corbeau"
               },
               "tip_5lang": {
                 "de": "Die tiefstehende Sonne lässt das Schloss in warmen Winterfarben leuchten. Planen Sie diesen Stopp vor 16:00 Uhr ein, um das beste Licht für die Architektur zu nutzen.",
                 "hu": "Az alacsonyan járó nap meleg téli színekben ragyogtatja fel a kastélyt. Tervezze be ezt a megállót 16:00 előtt, hogy kihasználja a legjobb fényeket.",
                 "ro": "Soarele jos face castelul să strălucească în culori calde de iarnă. Planificați această oprire înainte de ora 16:00 pentru a profita de cea mai bună lumină.",
-                "en": "The low sun makes the castle glow in warm winter colors. Plan to arrive at this stop before 4 PM to take advantage of the best architectural light."
+                "en": "The low sun makes the castle glow in warm winter colors. Plan to arrive at this stop before 4 PM to take advantage of the best architectural light.",
+                "fr": "Le soleil bas fait rayonner le château de chaleureuses couleurs hivernales. Prévoyez d'arriver à cet arrêt avant 16h00 pour profiter de la meilleure lumière architecturale."
               }
             },
             {
@@ -632,13 +702,15 @@
                 "de": "La Barillière",
                 "hu": "La Barillière",
                 "ro": "La Barillière",
-                "en": "La Barillière"
+                "en": "La Barillière",
+                "fr": "La Barillière"
               },
               "tip_5lang": {
                 "de": "Ein schöner Abschluss der Radtour, wenn die Dämmerung langsam einsetzt. Stellen Sie sicher, dass Ihre Fahrradbeleuchtung für den Rückweg voll funktionsfähig ist.",
                 "hu": "Szép befejezése a túrának, ahogy a szürkület lassan leszáll a tájra. Győződjön meg róla, hogy a kerékpár lámpái tökéletesen működnek a hazafelé útra.",
                 "ro": "Un final frumos al turului pe măsură ce amurgul se lasă încet peste peisaj. Asigurați-vă că luminile bicicletei funcționează corect pentru drumul spre casă.",
-                "en": "A beautiful end to the tour as the dusk slowly falls over the landscape. Make sure your bike lights are fully functional for the ride back home in the dark."
+                "en": "A beautiful end to the tour as the dusk slowly falls over the landscape. Make sure your bike lights are fully functional for the ride back home in the dark.",
+                "fr": "Une belle fin de visite alors que le crépuscule tombe lentement sur le paysage. Assurez-vous que les lumières de votre vélo fonctionnent parfaitement pour le retour dans l'obscurité."
               }
             }
           ]
@@ -658,7 +730,8 @@
             "de": "Haus des Flusses",
             "hu": "A Folyó Háza",
             "ro": "Casa Râului",
-            "en": "Maison de la Rivière"
+            "en": "Maison de la Rivière",
+            "fr": "Maison de la Rivière"
           },
           "coords": [
             -1.293792,
@@ -673,7 +746,8 @@
             "de": "Lernen Sie das lebendige Flussökosystem an diesem faszinierenden Wahrzeichen kennen, und mieten Sie ein kleines Boot oder nehmen Sie an einer geführten Tour teil.",
             "hu": "Ismerje meg a nyüzsgő folyami ökoszisztémát ezen az érdekes helyszínen, és próbáljon meg bérelni egy kis csónakot, ha az évszakos kínálat lehetővé teszi.",
             "ro": "Aflați despre ecosistemul vibrant al râului la acest obiectiv captivant și încercați să închiriați o barcă mică dacă programul sezonier o permite.",
-            "en": "Learn about the vibrant river ecosystem at this engaging landmark site, and try to rent a small boat or join a guided aquatic tour if the seasonal schedule permits."
+            "en": "Learn about the vibrant river ecosystem at this engaging landmark site, and try to rent a small boat or join a guided aquatic tour if the seasonal schedule permits.",
+            "fr": "Découvrez l'écosystème vivant de la rivière à ce site remarquable et essayez de louer une petite embarcation ou de participer à une visite aquatique guidée si le calendrier saisonnier le permet."
           }
         },
         {
@@ -681,7 +755,8 @@
             "de": "Rathaus von Saint-Georges",
             "hu": "Saint-Georges-de-Montaigu Városháza",
             "ro": "Primăria din Saint-Georges",
-            "en": "Saint-Georges Town Hall"
+            "en": "Saint-Georges Town Hall",
+            "fr": "Mairie déléguée de Saint-Georges"
           },
           "coords": [
             -1.297098,
@@ -696,7 +771,8 @@
             "de": "Bewundern Sie die Architektur dieses wichtigen lokalen Verwaltungsgebäudes und achten Sie auf die aufwendigen Details der Fassade, die das Erbe der Region widerspiegeln.",
             "hu": "Csodálja meg e fontos helyi közigazgatási épület civil építészetét, és figyelje meg a homlokzat bonyolult részleteit, amelyek a régió büszke örökségét tükrözik.",
             "ro": "Admirați arhitectura civică a acestui important punct de reper administrativ local și observați detaliile complicate de pe fațadă care reflectă moștenirea regiunii.",
-            "en": "Admire the civic architecture of this important local administrative landmark, and notice the intricate detailing on the facade that reflects the region's proud heritage."
+            "en": "Admire the civic architecture of this important local administrative landmark, and notice the intricate detailing on the facade that reflects the region's proud heritage.",
+            "fr": "Admirez l'architecture civique de ce bâtiment administratif local important, et remarquez les détails soignés de la façade qui reflètent le patrimoine régional."
           }
         },
         {
@@ -704,7 +780,8 @@
             "de": "Burg von Montaigu",
             "hu": "Montaigu kastélya",
             "ro": "Castelul Montaigu",
-            "en": "Castle of Montaigu"
+            "en": "Castle of Montaigu",
+            "fr": "Château de Montaigu"
           },
           "coords": [
             -1.341538,
@@ -719,7 +796,8 @@
             "de": "Spazieren Sie durch die imposanten Festungsruinen, die einst die Region verteidigten, und erklimmen Sie die verbleibenden Zinnen für einen atemberaubenden Panoramablick.",
             "hu": "Sétáljon végig az egykor a régiót védő lenyűgöző erődromokon, és másszon fel a megmaradt bástyákra, hogy lélegzetelállító panorámát fotózzon a völgyre.",
             "ro": "Plimbați-vă prin ruinele impunătoare ale fortăreței care apărau cândva regiunea și urcați pe meterezele rămase pentru o panoramă uimitoare asupra văii.",
-            "en": "Walk through the imposing fortress ruins that once defended the region, and climb the remaining battlements to capture a stunning panoramic view of the valley below."
+            "en": "Walk through the imposing fortress ruins that once defended the region, and climb the remaining battlements to capture a stunning panoramic view of the valley below.",
+            "fr": "Parcourez les ruines imposantes de la forteresse qui défendait autrefois la région, et grimpez sur les battlements restants pour capturer une vue panoramique superbe de la vallée en contrebas."
           }
         },
         {
@@ -727,7 +805,8 @@
             "de": "Saint-Nicolas Brücke",
             "hu": "Saint-Nicolas híd",
             "ro": "Podul Saint-Nicolas",
-            "en": "Saint-Nicolas Bridge"
+            "en": "Saint-Nicolas Bridge",
+            "fr": "Pont Saint-Nicolas"
           },
           "coords": [
             -1.318114,
@@ -742,7 +821,8 @@
             "de": "Spazieren Sie über diese jahrhundertealte Brücke und nutzen Sie die Gelegenheit, die malerischen Flussreflexionen genau von der Mitte aus zu fotografieren.",
             "hu": "Sétáljon át ezen az évszázados hídon, amely összeköti a történelmet a természettel, és álljon meg a közepén, hogy lefotózza a folyó festői tükröződéseit.",
             "ro": "Plimbați-vă pe acest pod vechi de secole care leagă istoria de natură și nu uitați să faceți poze cu reflexiile pitorești ale râului chiar din centru.",
-            "en": "Stroll across this centuries-old bridge connecting history with nature, and take a moment to photograph the picturesque river reflections from the very center."
+            "en": "Stroll across this centuries-old bridge connecting history with nature, and take a moment to photograph the picturesque river reflections from the very center.",
+            "fr": "Promenez-vous sur ce pont centenaire qui relie l'histoire à la nature, et prenez un instant pour photographier les reflets pittoresques de la rivière depuis le centre."
           }
         },
         {
@@ -750,7 +830,8 @@
             "de": "Parc des Rochettes",
             "hu": "Parc des Rochettes",
             "ro": "Parcul Rochettes",
-            "en": "Parc des Rochettes"
+            "en": "Parc des Rochettes",
+            "fr": "Parc des Rochettes"
           },
           "coords": [
             -1.318321,
@@ -765,7 +846,8 @@
             "de": "Entspannen Sie im üppigen Grün dieses ruhigen Naturparks, während Sie die lokale Flora bewundern, und bringen Sie ein kleines Picknick für eine Rast auf den schattigen Bänken mit.",
             "hu": "Pihenjen meg e békés természeti park buja zöldjében, miközben élvezi a helyi növényvilágot, és hozzon egy kis pikniket az árnyékos padokra a víz közelében.",
             "ro": "Relaxați-vă în verdeața luxuriantă a acestui parc natural liniștit și aduceți o mică gustare pentru un picnic relaxant pe una dintre băncile umbrite de lângă apă.",
-            "en": "Relax in the lush greenery of this serene natural park while enjoying the local flora, and pack a small picnic to savor on one of the shaded benches near the water."
+            "en": "Relax in the lush greenery of this serene natural park while enjoying the local flora, and pack a small picnic to savor on one of the shaded benches near the water.",
+            "fr": "Détendez-vous dans la verdure luxuriante de ce parc naturel paisible en profitant de la flore locale, et emportez un petit pique-nique à savourer sur un des bancs ombragés près de l'eau."
           }
         },
         {
@@ -773,7 +855,8 @@
             "de": "Château de Bois-Corbeau",
             "hu": "Château de Bois-Corbeau",
             "ro": "Château de Bois-Corbeau",
-            "en": "Château de Bois-Corbeau"
+            "en": "Château de Bois-Corbeau",
+            "fr": "Château de Bois-Corbeau"
           },
           "coords": [
             -1.291206,
@@ -788,7 +871,8 @@
             "de": "Entdecken Sie die faszinierende Geschichte dieses großen Schlosses inmitten weitläufiger Wälder und spazieren Sie den gesamten Umfang ab, um seine Größe zu erfassen.",
             "hu": "Fedezze fel e hatalmas, erdőkkel körülvett kastély lenyűgöző történetét, és sétálja körbe a kerületét, hogy teljes mértékben értékelni tudja építészeti léptékét.",
             "ro": "Descoperiți istoria fascinantă a acestui castel măreț înconjurat de păduri vaste și faceți o plimbare liniștită în jurul său pentru a-i aprecia dimensiunea arhitecturală.",
-            "en": "Uncover the fascinating history of this grand castle surrounded by vast woodlands, and take a mindful walk around the perimeter to fully appreciate its architectural scale."
+            "en": "Uncover the fascinating history of this grand castle surrounded by vast woodlands, and take a mindful walk around the perimeter to fully appreciate its architectural scale.",
+            "fr": "Découvrez l'histoire fascinante de ce grand château entouré de vastes bois, et faites une marche attentive autour du périmètre pour apprécier pleinement son ampleur architecturale."
           }
         },
         {
@@ -796,7 +880,8 @@
             "de": "Château de la Caillauderie",
             "hu": "Château de la Caillauderie",
             "ro": "Château de la Caillauderie",
-            "en": "Château de la Caillauderie"
+            "en": "Château de la Caillauderie",
+            "fr": "Château de la Caillauderie"
           },
           "coords": [
             -1.311565,
@@ -811,7 +896,8 @@
             "de": "Erkunden Sie die historischen Mauern dieses majestätischen Schlosses und bewundern Sie die erhaltene Architektur, kommen Sie jedoch früh für das beste Morgenlicht.",
             "hu": "Fedezze fel e fenséges kastély történelmi falait és csodálja meg a megőrzött építészetet, de érkezzen korán, hogy elkerülje a tömeget a békés reggeli fényben.",
             "ro": "Explorați zidurile istorice ale acestui castel maiestuos și admirați arhitectura sa bine conservată, dar veniți devreme pentru a vă bucura de lumina liniștită a dimineții.",
-            "en": "Explore the historic walls of this majestic castle and admire the preserved architecture, but arrive early to enjoy the tranquil morning light without crowds."
+            "en": "Explore the historic walls of this majestic castle and admire the preserved architecture, but arrive early to enjoy the tranquil morning light without crowds.",
+            "fr": "Explorez les murs historiques de ce château majestueux et admirez l'architecture préservée, mais arrivez tôt pour profiter de la lumière tranquille du matin sans la foule."
           }
         }
       ],
@@ -819,7 +905,8 @@
         "de": "Fahren Sie nach Süden, um den Tag im Maison de la Rivière zu beginnen und die aquatische Schönheit der Region aufzusaugen. \n\nBesuchen Sie kurz die Mairie déléguée de Saint-Georges, bevor Sie nach Westen zum formidablen Castle of Montaigu fahren. \n\nFahren Sie am Nachmittag ins Zentrum zur Saint-Nicolas-Brücke und entspannen Sie sich im Parc des Rochettes. \n\nBeenden Sie Ihre Fahrt mit späten Nachmittagsbesuchen des majestätischen Château de Bois-Corbeau und des ruhigen Château de la Caillauderie.",
         "hu": "Vezessen délre, és kezdje a napot a Maison de la Rivière-nél, hogy magába szívja a régió vízi szépségeit. \n\nUgorjon át a Mairie déléguée de Saint-Georges-hoz, mielőtt nyugatra hajtana a félelmetes Montaigu kastélyhoz egy déli felfedezésre. \n\nDélután induljon a központba a Saint-Nicolas híd felé, és pihenjen meg a Parc des Rochettes buja tájain. \n\nFejezze be autós körútját egy késő délutáni látogatással a fenséges Château de Bois-Corbeau-nál és a békés Château de la Caillauderie-nél.",
         "ro": "Conduceți spre sud pentru a începe ziua la Maison de la Rivière, bucurându-vă de frumusețea acvatică a regiunii. \n\nFaceți o scurtă oprire la Mairie déléguée de Saint-Georges, apoi mergeți spre vest pentru a explora formidabilul Castel Montaigu. \n\nDupă-amiaza, conduceți spre centru pentru a traversa podul Saint-Nicolas și a vă relaxa în Parcul des Rochettes. \n\nÎncheiați turul cu mașina vizitând maiestuosul Château de Bois-Corbeau și, în final, seninul Château de la Caillauderie la sfârșitul zilei.",
-        "en": "Drive down south to start your day at the Maison de la Rivière, soaking in the aquatic beauty of the region. \n\nQuickly hop over to the Mairie déléguée de Saint-Georges before cruising west to the formidable Castle of Montaigu for some midday exploration. \n\nDrive centrally in the afternoon to traverse Saint-Nicolas Bridge and relax at Parc des Rochettes, catching your breath amid lush scenery. \n\nFinish your driving loop with late afternoon visits to the majestic Château de Bois-Corbeau and finally the serene Château de la Caillauderie."
+        "en": "Drive down south to start your day at the Maison de la Rivière, soaking in the aquatic beauty of the region. \n\nQuickly hop over to the Mairie déléguée de Saint-Georges before cruising west to the formidable Castle of Montaigu for some midday exploration. \n\nDrive centrally in the afternoon to traverse Saint-Nicolas Bridge and relax at Parc des Rochettes, catching your breath amid lush scenery. \n\nFinish your driving loop with late afternoon visits to the majestic Château de Bois-Corbeau and finally the serene Château de la Caillauderie.",
+        "fr": "Descendez en voiture vers le sud pour commencer votre journée à la Maison de la Rivière, en profitant de la beauté aquatique de la région. \n\nFaites un saut rapide à la Mairie déléguée de Saint-Georges avant de rouler vers l'ouest jusqu'au redoutable Château de Montaigu pour une exploration de midi. \n\nRevenez vers le centre l'après-midi pour traverser le pont Saint-Nicolas et vous détendre au Parc des Rochettes, respirant au milieu d'un paysage verdoyant. \n\nTerminez votre boucle en voiture par des visites en fin d'après-midi du majestueux Château de Bois-Corbeau puis enfin du paisible Château de la Caillauderie."
       },
       "variants": {
         "rainy": {
@@ -827,7 +914,8 @@
             "de": "Eine gemütliche Autofahrt durch das regnerische Montaigu beginnt am Haus des Flusses. Besuchen Sie das Rathaus und die Burg, während Sie zwischen den Stopps im trockenen Auto bleiben. Die Tour führt Sie zum Parc des Rochettes und weiteren Schlössern, auch wenn es draußen stürmt. Nutzen Sie die kurzen Wege vom Parkplatz, um die Sehenswürdigkeiten trotz Regen schnell zu erreichen.",
             "hu": "Kellemes autós túra az esős Montaigu-ben, amely a Folyó Házánál veszi kezdetét. Látogassa meg a városházát és a várat, miközben a megállók között az autó melegében pihenhet. Az út a Rochettes parkhoz és további kastélyokhoz vezet a záporban is. Használja ki a parkolók közelségét, hogy az eső ellenére is kényelmesen elérje a látnivalókat.",
             "ro": "Un tur auto confortabil prin Montaigu pe timp de ploaie, începând la Casa Râului. Vizitați primăria și castelul, rămânând la adăpost în mașină între opriri. Traseul vă duce la parcul Rochettes și la alte castele, chiar dacă afară plouă torențial. Profitați de parcările din apropiere pentru a ajunge rapid la obiective fără a vă uda prea tare.",
-            "en": "A comfortable car tour through rainy Montaigu starts at the River House. Visit the town hall and the castle while staying sheltered in your car between stops. The route takes you to Rochettes Park and more castles, even if it's pouring outside. Take advantage of the nearby parking to reach the sights quickly and stay dry despite the rain."
+            "en": "A comfortable car tour through rainy Montaigu starts at the River House. Visit the town hall and the castle while staying sheltered in your car between stops. The route takes you to Rochettes Park and more castles, even if it's pouring outside. Take advantage of the nearby parking to reach the sights quickly and stay dry despite the rain.",
+            "fr": "Une visite en voiture confortable sous la pluie à travers Montaigu commence à la Maison de la Rivière. Visitez la mairie et le château tout en restant à l'abri dans votre voiture entre les arrêts. L'itinéraire vous mène au Parc des Rochettes et à d'autres châteaux, même s'il pleut des cordes. Profitez des parkings à proximité pour rejoindre rapidement les sites et rester au sec malgré la pluie."
           },
           "stops": [
             {
@@ -835,13 +923,15 @@
                 "de": "Haus des Flusses",
                 "hu": "A Folyó Háza",
                 "ro": "Casa Râului",
-                "en": "Maison de la Rivière"
+                "en": "Maison de la Rivière",
+                "fr": "Maison de la Rivière"
               },
               "tip_5lang": {
                 "de": "Beobachten Sie das aufgewühlte Wasser des Flusses bequem aus der Nähe. Parken Sie direkt am Eingang, um den kurzen Weg durch den Regen trocken zu überstehen.",
                 "hu": "Figyelje meg a folyó felkorbácsolt vizét kényelmesen, közvetlen közelről. Parkoljon közvetlenül a bejáratnál, hogy a rövid utat az esőben szárazon megússza.",
                 "ro": "Observați apa învolburată a râului confortabil, de la mică distanță. Parcați chiar la intrare pentru a parcurge drumul scurt prin ploaie fără probleme.",
-                "en": "Observe the river's turbulent water comfortably from a short distance. Park right at the entrance to manage the short walk through the rain dryly."
+                "en": "Observe the river's turbulent water comfortably from a short distance. Park right at the entrance to manage the short walk through the rain dryly.",
+                "fr": "Observez l'eau tumultueuse de la rivière confortablement à courte distance. Garez-vous juste à l'entrée pour gérer la courte marche sous la pluie au sec."
               }
             },
             {
@@ -849,13 +939,15 @@
                 "de": "Rathaus von Saint-Georges",
                 "hu": "Saint-Georges-de-Montaigu Városháza",
                 "ro": "Primăria din Saint-Georges",
-                "en": "Saint-Georges Town Hall"
+                "en": "Saint-Georges Town Hall",
+                "fr": "Mairie déléguée de Saint-Georges"
               },
               "tip_5lang": {
                 "de": "Das Rathaus bietet eine architektonisch interessante Fassade, die im Regen glänzt. Ein kurzer Sprint vom Parkplatz genügt, um die Details aus der Nähe zu betrachten.",
                 "hu": "A városháza építészetileg érdekes homlokzata szépen csillog az esőben. Egy rövid futás a parkolótól elég, hogy közelebbről is megnézze a részleteket.",
                 "ro": "Fațada primăriei este interesantă arhitectural și strălucește frumos în ploaie. Un scurt sprint de la parcare este suficient pentru a vedea detaliile.",
-                "en": "The town hall's architecturally interesting facade shines beautifully in the rain. A short sprint from the parking is enough to see the details up close."
+                "en": "The town hall's architecturally interesting facade shines beautifully in the rain. A short sprint from the parking is enough to see the details up close.",
+                "fr": "La façade architecturale intéressante de la mairie brille magnifiquement sous la pluie. Un petit sprint depuis le parking suffit pour voir les détails de près."
               }
             },
             {
@@ -863,13 +955,15 @@
                 "de": "Burg von Montaigu",
                 "hu": "Montaigu kastélya",
                 "ro": "Castelul Montaigu",
-                "en": "Castle of Montaigu"
+                "en": "Castle of Montaigu",
+                "fr": "Château de Montaigu"
               },
               "tip_5lang": {
                 "de": "Die Burgruine wirkt bei grauem Himmel besonders geschichtsträchtig und mystisch. Nutzen Sie die Scheibenwischer auf höchster Stufe für den besten Blick bei der Anfahrt.",
                 "hu": "A várrom szürke égbolt alatt különösen történelmi és misztikus hangulatot áraszt. Használja az ablaktörlőt a legmagasabb fokozaton a legjobb kilátáshoz.",
                 "ro": "Ruina castelului are o atmosferă istorică și mistică sub cerul cenușiu. Folosiți ștergătoarele la viteză maximă pentru cea mai bună vizibilitate la sosire.",
-                "en": "The castle ruin has a particularly historical and mystical atmosphere under grey skies. Use your wipers at full speed for the best view upon arrival."
+                "en": "The castle ruin has a particularly historical and mystical atmosphere under grey skies. Use your wipers at full speed for the best view upon arrival.",
+                "fr": "La ruine du château dégage une atmosphère particulièrement historique et mystique sous un ciel gris. Mettez vos essuie-glaces à pleine vitesse pour la meilleure vue à l'arrivée."
               }
             },
             {
@@ -877,13 +971,15 @@
                 "de": "Saint-Nicolas Brücke",
                 "hu": "Saint-Nicolas híd",
                 "ro": "Podul Saint-Nicolas",
-                "en": "Saint-Nicolas Bridge"
+                "en": "Saint-Nicolas Bridge",
+                "fr": "Pont Saint-Nicolas"
               },
               "tip_5lang": {
                 "de": "Fahren Sie langsam über die Brücke, um die Aussicht aus dem Fenster zu genießen. Achten Sie auf Fußgänger mit Regenschirmen, die Ihren Weg kreuzen könnten.",
                 "hu": "Hajtson át lassan a hídon, hogy az autó ablakából is élvezhesse a kilátást. Ügyeljen az esernyős gyalogosokra, akik keresztezhetik az útját a hídon.",
                 "ro": "Traversați podul încet pentru a vă bucura de priveliște direct din mașină. Atenție la pietonii cu umbrele care ar putea traversa drumul în fața voastră.",
-                "en": "Drive across the bridge slowly to enjoy the view directly from your car window. Watch out for pedestrians with umbrellas who might cross your path."
+                "en": "Drive across the bridge slowly to enjoy the view directly from your car window. Watch out for pedestrians with umbrellas who might cross your path.",
+                "fr": "Traversez le pont en voiture lentement pour profiter de la vue directement depuis la fenêtre. Faites attention aux piétons sous parapluie qui pourraient traverser devant vous."
               }
             },
             {
@@ -891,13 +987,15 @@
                 "de": "Parc des Rochettes",
                 "hu": "Parc des Rochettes",
                 "ro": "Parcul Rochettes",
-                "en": "Parc des Rochettes"
+                "en": "Parc des Rochettes",
+                "fr": "Parc des Rochettes"
               },
               "tip_5lang": {
                 "de": "Der Park wirkt im Regen wie ein verwunschener, grüner Urwald. Ein Regenschirm im Auto ist für den kurzen Rundgang durch die Alleen sehr zu empfehlen.",
                 "hu": "A park az esőben olyannak tűnik, mint egy varázslatos, zöld őserdő. Egy esernyő az autóban erősen ajánlott a fasorok közötti rövid körsétához.",
                 "ro": "Parcul pare o junglă verde și fermecată pe timp de ploaie. O umbrelă în mașină este recomandată pentru o scurtă plimbare printre aleile de copaci.",
-                "en": "The park looks like an enchanted green jungle in the rain. An umbrella in the car is highly recommended for a short stroll through the tree-lined paths."
+                "en": "The park looks like an enchanted green jungle in the rain. An umbrella in the car is highly recommended for a short stroll through the tree-lined paths.",
+                "fr": "Le parc ressemble à une jungle verte enchantée sous la pluie. Un parapluie dans la voiture est fortement recommandé pour une courte promenade le long des allées bordées d'arbres."
               }
             },
             {
@@ -905,13 +1003,15 @@
                 "de": "Château de Bois-Corbeau",
                 "hu": "Château de Bois-Corbeau",
                 "ro": "Château de Bois-Corbeau",
-                "en": "Château de Bois-Corbeau"
+                "en": "Château de Bois-Corbeau",
+                "fr": "Château de Bois-Corbeau"
               },
               "tip_5lang": {
                 "de": "Ein prächtiges Schloss, das auch aus der Ferne im Regen beeindruckt. Halten Sie kurz an geeigneter Stelle für ein schnelles Foto aus dem trockenen Innenraum.",
                 "hu": "Pompás kastély, amely távolról, az esőben is lenyűgöző látványt nyújt. Álljon meg egy pillanatra egy gyors fotó erejéig a száraz utastérből.",
                 "ro": "Un castel magnific care impresionează și de la distanță pe timp de ploaie. Opriți un moment pentru o fotografie rapidă direct din interiorul uscat.",
-                "en": "A magnificent castle that impresses even from a distance in the rain. Stop for a moment for a quick photo directly from the dry interior of your car."
+                "en": "A magnificent castle that impresses even from a distance in the rain. Stop for a moment for a quick photo directly from the dry interior of your car.",
+                "fr": "Un château magnifique qui impressionne même de loin sous la pluie. Arrêtez-vous un instant pour une photo rapide depuis l'intérieur sec de votre voiture."
               }
             },
             {
@@ -919,13 +1019,15 @@
                 "de": "Château de la Caillauderie",
                 "hu": "Château de la Caillauderie",
                 "ro": "Château de la Caillauderie",
-                "en": "Château de la Caillauderie"
+                "en": "Château de la Caillauderie",
+                "fr": "Château de la Caillauderie"
               },
               "tip_5lang": {
                 "de": "Der perfekte Abschluss der Fahrt mit einem Blick auf das beleuchtete Schloss. Achten Sie auf große Pfützen auf dem Parkplatz beim Aussteigen am Abend.",
                 "hu": "Az autós túra tökéletes befejezése a kivilágított kastély látványával. Ügyeljen a nagyobb tócsákra a parkolóban, amikor este kiszáll az autóból.",
                 "ro": "Finalul perfect al turului auto cu o vedere spre castelul iluminat. Atenție la bălțile mari din parcare atunci când coborâți din mașină seara.",
-                "en": "The perfect end to your car tour with a view of the illuminated castle. Watch out for large puddles in the parking lot when getting out in the evening."
+                "en": "The perfect end to your car tour with a view of the illuminated castle. Watch out for large puddles in the parking lot when getting out in the evening.",
+                "fr": "La fin parfaite de votre circuit en voiture avec une vue sur le château illuminé. Faites attention aux grandes flaques dans le parking en sortant le soir."
               }
             }
           ]
@@ -935,7 +1037,8 @@
             "de": "Eine winterliche Spritztour durch Montaigu beginnt am Haus des Flusses bei klarer Kälte. Genießen Sie die Fahrt zum Rathaus und zur Burg in der angenehmen Wärme Ihres Autos. Der Parc des Rochettes und die Schlösser zeigen sich im sanften Winterlicht von ihrer schönsten Seite. Denken Sie daran, dass es gegen 17:00 Uhr dunkel wird, und nutzen Sie das Tageslicht für die Außenbesichtigungen.",
             "hu": "A téli autós túra a Folyó Házánál kezdődik a tiszta és csípős hidegben. Élvezze az utat a városházához és a várhoz az autó kellemes melegében pihenve. A Rochettes park és a kastélyok a lágy téli fényben a legszebb arcukat mutatják. Ne feledje, hogy 17 óra körül már sötétedik, így használja ki a nappali fényt a külső nézelődéshez.",
             "ro": "Turul auto de iarnă începe la Casa Râului, în gerul clar și revigorant. Bucurați-vă de drumul spre primărie și castel în căldura plăcută a mașinii voastre. Parcul Rochettes și castelele își arată cea mai frumoasă latură în lumina blândă de iarnă. Rețineți că se întunecă în jur de ora 17:00, deci folosiți lumina zilei la maximum.",
-            "en": "A winter car tour starts at the River House in the clear and crisp cold air. Enjoy the drive to the town hall and the castle while staying warm in your car. Rochettes Park and the castles show their most beautiful side in the soft winter light. Remember that it gets dark around 5 PM, so make the most of the daylight for outdoor sightseeing."
+            "en": "A winter car tour starts at the River House in the clear and crisp cold air. Enjoy the drive to the town hall and the castle while staying warm in your car. Rochettes Park and the castles show their most beautiful side in the soft winter light. Remember that it gets dark around 5 PM, so make the most of the daylight for outdoor sightseeing.",
+            "fr": "Une visite hivernale en voiture commence à la Maison de la Rivière dans l'air clair et vif. Profitez de la route vers la mairie et le château tout en restant au chaud dans votre voiture. Le Parc des Rochettes et les châteaux montrent leur plus beau profil sous la douce lumière d'hiver. Rappelez-vous qu'il fait nuit vers 17h00, profitez donc au maximum des heures de jour pour les visites extérieures."
           },
           "stops": [
             {
@@ -943,13 +1046,15 @@
                 "de": "Haus des Flusses",
                 "hu": "A Folyó Háza",
                 "ro": "Casa Râului",
-                "en": "Maison de la Rivière"
+                "en": "Maison de la Rivière",
+                "fr": "Maison de la Rivière"
               },
               "tip_5lang": {
                 "de": "Das Haus des Flusses wirkt in der winterlichen Stille besonders friedlich. Stellen Sie sicher, dass Ihre Scheiben vor der Abfahrt vollständig enteist sind.",
                 "hu": "A Folyó Háza a téli csendben és fagyban különösen békés hangulatot áraszt. Indulás előtt győződjön meg róla, hogy az ablakok teljesen jégmentesek.",
                 "ro": "Casa Râului pare deosebit de liniștită în tăcerea și gerul iernii. Asigurați-vă că geamurile sunt complet dezghețate înainte de a porni la drum.",
-                "en": "The River House looks particularly peaceful in the winter silence and frost. Make sure your windows are completely defrosted before starting the drive."
+                "en": "The River House looks particularly peaceful in the winter silence and frost. Make sure your windows are completely defrosted before starting the drive.",
+                "fr": "La Maison de la Rivière paraît particulièrement paisible dans le silence hivernal et le givre. Assurez-vous que vos vitres soient complètement dégivrées avant de démarrer la route."
               }
             },
             {
@@ -957,13 +1062,15 @@
                 "de": "Rathaus von Saint-Georges",
                 "hu": "Saint-Georges-de-Montaigu Városháza",
                 "ro": "Primăria din Saint-Georges",
-                "en": "Saint-Georges Town Hall"
+                "en": "Saint-Georges Town Hall",
+                "fr": "Mairie déléguée de Saint-Georges"
               },
               "tip_5lang": {
                 "de": "Ein kurzer Stopp am Rathaus, um die winterliche Architektur zu bewundern. Die Parkplätze sind im Winter oft weniger belegt, was den Besuch erleichtert.",
                 "hu": "Egy rövid megálló a városházánál, hogy megcsodálja a téli építészetet. Télen a parkolók gyakran kevésbé zsúfoltak, ami megkönnyíti a gyors látogatást.",
                 "ro": "O scurtă oprire la primărie pentru a admira arhitectura sub cerul de iarnă. Parcările sunt adesea mai libere iarna, facilitând o vizită rapidă.",
-                "en": "A short stop at the town hall to admire the architecture under the winter sky. Parking spaces are often less crowded in winter, making the visit easier."
+                "en": "A short stop at the town hall to admire the architecture under the winter sky. Parking spaces are often less crowded in winter, making the visit easier.",
+                "fr": "Un court arrêt à la mairie pour admirer l'architecture sous le ciel d'hiver. Les places de stationnement sont souvent moins fréquentées en hiver, facilitant la visite."
               }
             },
             {
@@ -971,13 +1078,15 @@
                 "de": "Burg von Montaigu",
                 "hu": "Montaigu kastélya",
                 "ro": "Castelul Montaigu",
-                "en": "Castle of Montaigu"
+                "en": "Castle of Montaigu",
+                "fr": "Château de Montaigu"
               },
               "tip_5lang": {
                 "de": "Die Burgruine bietet im klaren Winterlicht fantastische Möglichkeiten für Weitblicke. Halten Sie die Heizung im Auto auf einer angenehmen Temperatur für die Fahrt.",
                 "hu": "A várrom a tiszta téli fényben fantasztikus lehetőségeket kínál a távoli kilátáshoz. Tartsa az autó fűtését kellemes hőmérsékleten az út során.",
                 "ro": "Ruina castelului oferă oportunități fantastice pentru vederi panoramice în lumina clară. Mențineți căldura în mașină la o temperatură confortabilă pe drum.",
-                "en": "The castle ruin offers fantastic opportunities for panoramic views in the clear light. Keep the car's heater at a comfortable temperature during the drive."
+                "en": "The castle ruin offers fantastic opportunities for panoramic views in the clear light. Keep the car's heater at a comfortable temperature during the drive.",
+                "fr": "La ruine du château offre d'excellentes opportunités de vues panoramiques dans la lumière claire. Gardez le chauffage de la voiture à une température confortable durant le trajet."
               }
             },
             {
@@ -985,13 +1094,15 @@
                 "de": "Saint-Nicolas Brücke",
                 "hu": "Saint-Nicolas híd",
                 "ro": "Podul Saint-Nicolas",
-                "en": "Saint-Nicolas Bridge"
+                "en": "Saint-Nicolas Bridge",
+                "fr": "Pont Saint-Nicolas"
               },
               "tip_5lang": {
                 "de": "Die Brücke bietet einen malerischen Blick auf das frostige Flusstal von Montaigu. Fahren Sie vorsichtig, da Brückenoberflächen bei Frost zuerst gefrieren.",
                 "hu": "A híd festői kilátást nyújt Montaigu fagyos folyóvölgyére a téli reggelen. Vezessen óvatosan, mert a híd felülete fagyban hamarabb jegesedik le.",
                 "ro": "Podul oferă o vedere pitorească asupra văii înghețate a râului în dimineața de iarnă. Conduceți cu atenție, suprafața podului îngheață prima la ger.",
-                "en": "The bridge offers a picturesque view of the frosty river valley in the winter morning. Drive carefully, as bridge surfaces tend to freeze first in frost."
+                "en": "The bridge offers a picturesque view of the frosty river valley in the winter morning. Drive carefully, as bridge surfaces tend to freeze first in frost.",
+                "fr": "Le pont offre une vue pittoresque sur la vallée de la rivière givrée par une matinée d'hiver. Conduisez prudemment, car les ponts gèlent souvent en premier en cas de gel."
               }
             },
             {
@@ -999,13 +1110,15 @@
                 "de": "Parc des Rochettes",
                 "hu": "Parc des Rochettes",
                 "ro": "Parcul Rochettes",
-                "en": "Parc des Rochettes"
+                "en": "Parc des Rochettes",
+                "fr": "Parc des Rochettes"
               },
               "tip_5lang": {
                 "de": "Ein Spaziergang durch den Parc des Rochettes ist in der klaren Winterluft erfrischend. Lassen Sie keine Wertsachen sichtbar im Auto, während Sie den Park erkunden.",
                 "hu": "Egy séta a Rochettes parkban a tiszta téli levegőn igazán frissítő és élénkítő. Ne hagyjon értéktárgyat látható helyen az autóban a parkbeli séta alatt.",
                 "ro": "O plimbare prin parcul Rochettes în aerul clar de iarnă este revigorantă. Nu lăsați obiecte de valoare la vedere în mașină în timpul vizitei în parc.",
-                "en": "A walk through Rochettes Park in the clear winter air is refreshing and invigorating. Do not leave valuables visible in the car during your visit to the park."
+                "en": "A walk through Rochettes Park in the clear winter air is refreshing and invigorating. Do not leave valuables visible in the car during your visit to the park.",
+                "fr": "Une promenade dans le Parc des Rochettes par l'air d'hiver clair est revigorante et tonifiante. Ne laissez pas d'objets de valeur visibles dans la voiture pendant votre visite au parc."
               }
             },
             {
@@ -1013,13 +1126,15 @@
                 "de": "Château de Bois-Corbeau",
                 "hu": "Château de Bois-Corbeau",
                 "ro": "Château de Bois-Corbeau",
-                "en": "Château de Bois-Corbeau"
+                "en": "Château de Bois-Corbeau",
+                "fr": "Château de Bois-Corbeau"
               },
               "tip_5lang": {
                 "de": "Das Schloss wirkt im sanften Nachmittagslicht der Wintersonne besonders edel. Prüfen Sie Ihren Frostschutz im Wischwasser vor der Weiterfahrt zum nächsten Ziel.",
                 "hu": "A kastély a téli naplemente lágy, délutáni fényeiben különösen nemes látványt nyújt. Ellenőrizze a fagyállót a szélvédőmosóban a következő célpont előtt.",
                 "ro": "Castelul arată deosebit de nobil în lumina blândă a după-amiezii de iarnă. Verificați antigelul din lichidul de parbriz înainte de a continua traseul.",
-                "en": "The castle looks particularly noble in the soft afternoon light of the winter sun. Check the antifreeze in your wiper fluid before heading to the next stop."
+                "en": "The castle looks particularly noble in the soft afternoon light of the winter sun. Check the antifreeze in your wiper fluid before heading to the next stop.",
+                "fr": "Le château paraît particulièrement noble sous la douce lumière de l'après-midi d'hiver. Vérifiez l'antigel dans votre liquide d'essuie-glace avant de vous rendre au prochain arrêt."
               }
             },
             {
@@ -1027,13 +1142,15 @@
                 "de": "Château de la Caillauderie",
                 "hu": "Château de la Caillauderie",
                 "ro": "Château de la Caillauderie",
-                "en": "Château de la Caillauderie"
+                "en": "Château de la Caillauderie",
+                "fr": "Château de la Caillauderie"
               },
               "tip_5lang": {
                 "de": "Die Beleuchtung des Schlosses in der frühen Dunkelheit ist ein magischer Anblick. Achten Sie auf mögliche Glätte auf den Nebenwegen, wenn Sie abends parken.",
                 "hu": "A kastély díszkivilágítása a korai sötétségben igazán varázslatos látványt nyújt. Ügyeljen az esetleges jegesedésre a mellékutakon az esti parkoláskor.",
                 "ro": "Iluminatul castelului în întunericul ce se lasă devreme este o vedere magică. Atenție la posibila gheață de pe drumurile secundare când parcați seara.",
-                "en": "The illumination of the castle in the early darkness is a truly magical sight. Watch out for possible icy spots on the side roads when parking in the evening."
+                "en": "The illumination of the castle in the early darkness is a truly magical sight. Watch out for possible icy spots on the side roads when parking in the evening.",
+                "fr": "L'illumination du château dans la pénombre précoce est un spectacle véritablement magique. Méfiez-vous des éventuelles plaques de verglas sur les routes secondaires en vous garant le soir."
               }
             }
           ]

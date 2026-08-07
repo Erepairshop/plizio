@@ -3,55 +3,64 @@
     "de": "Avenue de la Libération, 14710 Saint-Laurent-sur-Mer",
     "hu": "Avenue de la Libération, 14710 Saint-Laurent-sur-Mer",
     "ro": "Avenue de la Libération, 14710 Saint-Laurent-sur-Mer",
-    "en": "Avenue de la Libération, 14710 Saint-Laurent-sur-Mer"
+    "en": "Avenue de la Libération, 14710 Saint-Laurent-sur-Mer",
+    "fr": "Avenue de la Libération, 14710 Saint‑Laurent‑sur‑Mer"
   },
   "openingHours": {
     "de": "24/7 (Strand); Museen meist 09:30-18:00",
     "hu": "24/7 (part); múzeumok általában 09:30-18:00",
     "ro": "24/7 (plajă); muzeele de obicei 09:30-18:00",
-    "en": "24/7 (beach); museums usually 09:30-18:00"
+    "en": "24/7 (beach); museums usually 09:30-18:00",
+    "fr": "24/7 (plage) ; musées en général 09:30-18:00"
   },
   "entranceFee": {
     "de": "Strandbesuch kostenlos; Museen vor Ort ca. €7-€10",
     "hu": "A part látogatása ingyenes; a helyi múzeumok kb. 7-10 €",
     "ro": "Accesul pe plajă gratuit; muzeele locale aprox. 7-10 €",
-    "en": "Beach visit free; local museums approx. 7-10 €"
+    "en": "Beach visit free; local museums approx. 7-10 €",
+    "fr": "Visite de la plage gratuite ; musées locaux env. 7‑10 €"
   },
   "website": "https://www.normandie-tourisme.fr",
   "publicTransport": {
     "de": "Bus Verts Linie 70 ab Bayeux",
     "hu": "Bus Verts 70-es vonal Bayeux-ből",
     "ro": "Linia Bus Verts 70 din Bayeux",
-    "en": "Bus Verts line 70 from Bayeux"
+    "en": "Bus Verts line 70 from Bayeux",
+    "fr": "Bus Verts ligne 70 depuis Bayeux"
   },
   "parking": {
     "de": "Kostenlose Parkplätze entlang der Strandpromenade vorhanden",
     "hu": "Ingyenes parkolási lehetőség a tengerparti sétány mentén",
     "ro": "Parcare gratuită disponibilă de-a lungul promenadei de pe plajă",
-    "en": "Free parking available along the beach promenade"
+    "en": "Free parking available along the beach promenade",
+    "fr": "Parking gratuit disponible le long de la promenade de la plage"
   },
   "accessibility": {
     "de": "Strandpromenade barrierefrei, Zugang zum Sand über Rampen",
     "hu": "A sétány akadálymentes, a homokos part rámpákon közelíthető meg",
     "ro": "Promenada este accesibilă, accesul la nisip prin rampe",
-    "en": "Beach promenade barrier-free, access to the sand via ramps"
+    "en": "Beach promenade barrier-free, access to the sand via ramps",
+    "fr": "Promenade de la plage sans barrières, accès au sable via des rampes"
   },
   "photoRules": {
     "de": "Erlaubt; am US-Friedhof (Colleville) Pietät bewahren",
     "hu": "Engedélyezett; az amerikai temetőben (Colleville) kérjük, viselkedjenek tisztelettudóan",
     "ro": "Permis; vă rugăm să păstrați discreția la cimitirul american (Colleville)",
-    "en": "Allowed; please be respectful at the US cemetery (Colleville)"
+    "en": "Allowed; please be respectful at the US cemetery (Colleville)",
+    "fr": "Autorisé ; veuillez respecter le cimetière américain (Colleville)"
   },
   "bestTimeToVisit": {
     "de": "Bei Ebbe, um die Größe des Landungsabschnitts zu erfassen",
     "hu": "Apálykor, hogy átlássuk a partraszállási szakasz nagyságát",
     "ro": "La reflux, pentru a înțelege dimensiunea sectorului de debarcare",
-    "en": "At low tide to grasp the scale of the landing sector"
+    "en": "At low tide to grasp the scale of the landing sector",
+    "fr": "À marée basse pour mieux percevoir l’échelle du secteur de débarquement"
   },
   "audioGuide": {
     "de": "In den lokalen Museen (z.B. Memorial Museum) verfügbar",
     "hu": "Elérhető a helyi múzeumokban (pl. Memorial Museum)",
     "ro": "Disponibil în muzeele locale (de ex. Memorial Museum)",
-    "en": "Available in local museums (e.g., Memorial Museum)"
+    "en": "Available in local museums (e.g., Memorial Museum)",
+    "fr": "Disponible dans les musées locaux (ex. Mémorial)"
   }
 }

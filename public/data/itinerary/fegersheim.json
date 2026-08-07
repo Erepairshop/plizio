@@ -21,7 +21,8 @@
             "de": "Rathaus von Fegersheim",
             "hu": "Fegersheim Városháza",
             "ro": "Primăria Fegersheim",
-            "en": "Fegersheim Town Hall"
+            "en": "Fegersheim Town Hall",
+            "fr": "Hôtel de ville de Fegersheim"
           },
           "coords": [
             7.679437,
@@ -36,7 +37,8 @@
             "de": "Bewundern Sie die typisch elsässische Architektur des Rathauses und achten Sie auf die Details an der Fassade, bevor Sie den Platz erkunden.",
             "hu": "Csodálja meg a városháza jellegzetes elzászi építészetét és figyeljen a homlokzat részleteire, mielőtt felfedezné a teret.",
             "ro": "Admiteți arhitectura tipic alsaciană a primăriei și fiți atenți la detaliile fațadei înainte de a explora piața centrală.",
-            "en": "Admire the typical Alsatian architecture of the town hall and pay attention to the facade details before exploring the square."
+            "en": "Admire the typical Alsatian architecture of the town hall and pay attention to the facade details before exploring the square.",
+            "fr": "Admirez l’architecture alsacienne typique de l’hôtel de ville et faites attention aux détails de la façade avant d’explorer la place."
           }
         },
         {
@@ -44,7 +46,8 @@
             "de": "St. Mauritius Kirche",
             "hu": "Szent Móric-templom",
             "ro": "Biserica Sfântul Mauriciu",
-            "en": "St. Maurice Church"
+            "en": "St. Maurice Church",
+            "fr": "Église Saint-Maurice"
           },
           "coords": [
             7.680545,
@@ -59,7 +62,8 @@
             "de": "Betreten Sie das historische Kirchenschiff und genießen Sie die spirituelle Stille, ideal für eine kurze Besinnung am Vormittag.",
             "hu": "Lépjen be a történelmi főhajóba és élvezze a spirituális csendet, amely ideális egy rövid délelőtti elmélkedéshez.",
             "ro": "Intrați în nava istorică a bisericii și bucurați-vă de liniștea spirituală, ideală pentru o scurtă reflecție de dimineață.",
-            "en": "Step into the historic nave and enjoy the spiritual silence, ideal for a short morning reflection away from the crowds."
+            "en": "Step into the historic nave and enjoy the spiritual silence, ideal for a short morning reflection away from the crowds.",
+            "fr": "Entrez dans la nef historique et profitez du silence spirituel, idéal pour une courte réflexion matinale à l’écart de la foule."
           }
         },
         {
@@ -67,7 +71,8 @@
             "de": "Protestantische Kapelle",
             "hu": "Protestáns kápolna",
             "ro": "Capela protestantă",
-            "en": "Protestant Chapel"
+            "en": "Protestant Chapel",
+            "fr": "Chapelle protestante"
           },
           "coords": [
             7.677995,
@@ -82,7 +87,8 @@
             "de": "Betrachten Sie die schlichte Eleganz dieses kleinen Gotteshauses und nutzen Sie das sanfte Licht für ein stimmungsvolles Foto im Inneren.",
             "hu": "Figyelje meg ennek a kis kápolnának az egyszerű eleganciáját, és használja ki a lágy fényeket egy hangulatos belső fotóhoz.",
             "ro": "Observați eleganța simplă a acestui mic lăcaș de cult și profitați de lumina blândă pentru a face o fotografie de interior reușită.",
-            "en": "Observe the simple elegance of this small chapel and take advantage of the soft light to capture an atmospheric indoor photo."
+            "en": "Observe the simple elegance of this small chapel and take advantage of the soft light to capture an atmospheric indoor photo.",
+            "fr": "Observez la simplicité élégante de cette petite chapelle et profitez de la lumière douce pour prendre une photo d’intérieur atmosphérique."
           }
         },
         {
@@ -90,7 +96,8 @@
             "de": "St. Pankratius Kirche",
             "hu": "Szent Pongrác-templom",
             "ro": "Biserica Sfântul Pancrațiu",
-            "en": "Église Saint-Pancrace"
+            "en": "Église Saint-Pancrace",
+            "fr": "Église Saint-Pancrace"
           },
           "coords": [
             7.662299,
@@ -105,7 +112,8 @@
             "de": "Entdecken Sie die kunstvollen Bleiglasfenster dieser Kirche, die bei Sonnenschein besonders schöne Farben auf den Boden zaubern.",
             "hu": "Fedezze fel a templom díszes ólomüveg ablakait, amelyek napsütésben különösen szép színeket varázsolnak a padlóra.",
             "ro": "Descoperiți vitraliile ornamentale ale acestei biserici, care proiectează culori deosebit de frumoase pe podea în lumina soarelui.",
-            "en": "Discover the ornate stained glass windows of this church, which cast beautifully vivid colors onto the floor when the sun shines."
+            "en": "Discover the ornate stained glass windows of this church, which cast beautifully vivid colors onto the floor when the sun shines.",
+            "fr": "Découvrez les vitraux ornés de cette église, qui projettent de magnifiques couleurs vives sur le sol quand le soleil brille."
           }
         },
         {
@@ -113,7 +121,8 @@
             "de": "St. Gallus Kirche",
             "hu": "Szent Gál-templom",
             "ro": "Biserica Sfântul Gallus",
-            "en": "Église Saint-Gall"
+            "en": "Église Saint-Gall",
+            "fr": "Église Saint-Gall"
           },
           "coords": [
             7.68088,
@@ -128,7 +137,8 @@
             "de": "Lassen Sie Ihren Spaziergang an diesem charmanten religiösen Ort ausklingen und achten Sie auf die historischen Grabsteine im Außenbereich.",
             "hu": "Zárja sétáját ezen a hangulatos vallási helyszínen, és figyeljen a külső területen található történelmi sírkövekre is.",
             "ro": "Încheiați plimbarea în acest loc religios fermecător și acordați atenție pietrelor funerare istorice aflate în zona exterioară.",
-            "en": "Conclude your walk at this charming religious site and pay special attention to the historical gravestones in the outer area."
+            "en": "Conclude your walk at this charming religious site and pay special attention to the historical gravestones in the outer area.",
+            "fr": "Concluez votre promenade à ce charmant lieu de culte et prêtez une attention particulière aux pierres tombales historiques dans l’aire extérieure."
           }
         }
       ],
@@ -136,7 +146,8 @@
         "de": "Beginnen Sie Ihren Tag im Herzen von Fegersheim mit einem Besuch des Rathauses und der St. Mauritius Kirche.\nGegen Mittag erkunden Sie die schlichte Schönheit der Protestantischen Kapelle, nur wenige Schritte entfernt.\nAm Nachmittag führt Sie ein gemütlicher Spaziergang zur charmanten Église Saint-Pancrace mit ihren Details.\nDer Tag endet besinnlich an der Église Saint-Gall, wo Sie die Ruhe des Ortes auf sich wirken lassen können.",
         "hu": "Kezdje a napot Fegersheim szívében a városháza és a gyönyörű Szent Móric-templom felfedezésével.\nDél körül tekintse meg a közeli protestáns kápolna egyszerű, de annál lenyűgözőbb szépségét a központban.\nDélután egy kellemes séta vezet a bájos Szent Pongrác-templomhoz, amely egyedi építészeti részleteket rejt.\nA nap a Szent Gál-templomnál ér békés véget, ahol átadhatja magát a történelmi helyszín nyugodt csendjének.",
         "ro": "Începeți ziua în inima orașului Fegersheim cu o vizită la primărie și la superba Biserică Sfântul Mauriciu.\nSpre prânz, explorați frumusețea simplă a Capelei protestante, aflată la doar câțiva pași de centrul orașului.\nDupă-amiaza, o plimbare plăcută vă va conduce la fermecătoarea Biserică Sfântul Pancrațiu și detaliile sale.\nZiua se încheie liniștit la Biserica Sfântul Gallus, unde vă puteți relaxa în atmosfera pașnică a locului.",
-        "en": "Start your day in the heart of Fegersheim by visiting the historic town hall and the beautiful St. Maurice Church.\nAround midday, explore the simple beauty of the Protestant Chapel, located just a few steps away in the center.\nIn the afternoon, a leisurely stroll leads you to the charming Église Saint-Pancrace with its unique details.\nThe day ends peacefully at Église Saint-Gall, where you can soak in the tranquil atmosphere of the historic site."
+        "en": "Start your day in the heart of Fegersheim by visiting the historic town hall and the beautiful St. Maurice Church.\nAround midday, explore the simple beauty of the Protestant Chapel, located just a few steps away in the center.\nIn the afternoon, a leisurely stroll leads you to the charming Église Saint-Pancrace with its unique details.\nThe day ends peacefully at Église Saint-Gall, where you can soak in the tranquil atmosphere of the historic site.",
+        "fr": "Commencez votre journée au cœur de Fegersheim en visitant l’historique hôtel de ville et la belle Église Saint-Maurice.\nVers midi, explorez la simplicité de la Chapelle protestante, située à quelques pas au centre.\nL’après-midi, une balade tranquille vous mène à la charmante Église Saint-Pancrace avec ses détails uniques.\nLa journée se termine paisiblement à l’Église Saint-Gall, où vous pourrez vous imprégner de l’atmosphère tranquille du site historique."
       },
       "variants": {
         "rainy": {
@@ -144,7 +155,8 @@
             "de": "Ein regnerischer Morgen beginnt am Rathaus, doch die Kirchen bieten trockenen Unterschlupf. Mittags erkunden wir das sakrale Erbe im Zentrum unter Regenschirmen. Am Nachmittag erreichen wir die Kapellen am Stadtrand in der frischen, feuchten Luft. Der Tag endet, wenn sich die Lichter in den nassen Straßen spiegeln, bevor wir den Rundgang beenden.",
             "hu": "Reggel az eső áztatja a városházát, de a templomok menedéket nyújtanak. Délben a központ szakrális emlékei között sétálunk esernyővel a csendes utcákon. Délután a távolabbi kápolnákat látogatjuk meg a friss, eső utáni illatban. Este a város fényei tükröződnek a vizes aszfalton, mielőtt befejeznénk a fegersheimi körsétát.",
             "ro": "O dimineață ploioasă începe la primărie, dar bisericile locale oferă un refugiu uscat. La prânz, explorăm moștenirea sacră din centru sub umbrele pe străzile liniștite. După-amiaza, ajungem la capelele de la periferie prin aerul proaspăt și umed. Ziua se încheie cu luminile orașului reflectate pe străzile ude în timpul serii.",
-            "en": "A rainy morning starts at the town hall, but the local churches offer dry refuge. By noon, we explore the sacred heritage of the center under umbrellas. In the afternoon, we reach the outskirts' chapels through the refreshing damp air. The day ends as city lights reflect on wet streets during a peaceful evening walk through Fegersheim."
+            "en": "A rainy morning starts at the town hall, but the local churches offer dry refuge. By noon, we explore the sacred heritage of the center under umbrellas. In the afternoon, we reach the outskirts' chapels through the refreshing damp air. The day ends as city lights reflect on wet streets during a peaceful evening walk through Fegersheim.",
+            "fr": "Une matinée pluvieuse commence à l’hôtel de ville, mais les églises locales offrent un refuge sec. À midi, nous explorons le patrimoine sacré du centre sous les parapluies. L’après-midi, nous atteignons les chapelles de la périphérie à travers l’air humide et vivifiant. La journée se termine alors que les lumières de la ville se reflètent sur les rues mouillées lors d’une promenade du soir paisible à travers Fegersheim."
           },
           "stops": [
             {
@@ -152,13 +164,15 @@
                 "de": "Rathaus von Fegersheim",
                 "hu": "Fegersheim Városháza",
                 "ro": "Primăria Fegersheim",
-                "en": "Fegersheim Town Hall"
+                "en": "Fegersheim Town Hall",
+                "fr": "Hôtel de ville de Fegersheim"
               },
               "tip_5lang": {
                 "de": "Betrachten Sie die Architektur vom überdachten Eingang aus; ein stabiler Regenschirm ist für den Übergang zum nächsten Halt unerlässlich.",
                 "hu": "Csodálja meg az épület homlokzatát a bejárat feletti eresz alól; egy erős esernyő elengedhetetlen a következő állomásig tartó rövid sétához.",
                 "ro": "Admirați arhitectura de sub intrarea acoperită; o umbrelă rezistentă este esențială pentru tranziția către următoarea oprire a traseului.",
-                "en": "Observe the architecture from the covered entrance; a sturdy umbrella is essential for the transition to the next stop on your walk."
+                "en": "Observe the architecture from the covered entrance; a sturdy umbrella is essential for the transition to the next stop on your walk.",
+                "fr": "Observez l’architecture depuis le porche couvert ; un parapluie solide est essentiel pour la transition vers l’étape suivante de votre promenade."
               }
             },
             {
@@ -166,13 +180,15 @@
                 "de": "St. Mauritius Kirche",
                 "hu": "Szent Móric-templom",
                 "ro": "Biserica Sfântul Mauriciu",
-                "en": "St. Maurice Church"
+                "en": "St. Maurice Church",
+                "fr": "Église Saint-Maurice"
               },
               "tip_5lang": {
                 "de": "Suchen Sie Schutz in dieser beeindruckenden Kirche; nutzen Sie die Zeit, um die Glasmalereien zu bewundern, während der Regen draußen abklingt.",
                 "hu": "Keressen menedéket ebben a lenyűgöző templomban; használja ki az időt az üvegablakok megcsodálására, amíg odakint elcsendesedik a zápor.",
                 "ro": "Căutați adăpost în această biserică impresionantă; profitați de timp pentru a admira vitraliile în timp ce ploaia de afară se potolește.",
-                "en": "Take shelter inside this impressive church; use the time to admire the stained glass while the heaviest rain passes outside."
+                "en": "Take shelter inside this impressive church; use the time to admire the stained glass while the heaviest rain passes outside.",
+                "fr": "Abritez-vous à l’intérieur de cette impressionnante église ; profitez-en pour admirer les vitraux pendant que la pluie la plus forte passe dehors."
               }
             },
             {
@@ -180,13 +196,15 @@
                 "de": "Protestantische Kapelle",
                 "hu": "Protestáns kápolna",
                 "ro": "Capela protestantă",
-                "en": "Protestant Chapel"
+                "en": "Protestant Chapel",
+                "fr": "Chapelle protestante"
               },
               "tip_5lang": {
                 "de": "Ein kleinerer Zufluchtsort, ideal zum Abtrocknen; achten Sie auf die Eingangsstufen, die bei Nässe rutschig sein können.",
                 "hu": "Kisebb szentély, amely tökéletes a gyors megszárítkozáshoz; ügyeljen a bejárati lépcsőkre, amelyek nedvesen csúszósak lehetnek.",
                 "ro": "Un sanctuar mai mic, perfect pentru a vă usca rapid; atenție la treptele de la intrare, care pot fi alunecoase când sunt ude.",
-                "en": "A smaller sanctuary perfect for a quick dry-off; watch your step on the entrance stairs which can be very slippery when wet."
+                "en": "A smaller sanctuary perfect for a quick dry-off; watch your step on the entrance stairs which can be very slippery when wet.",
+                "fr": "Un petit sanctuaire parfait pour un rapide séchage ; faites attention aux marches d’entrée qui peuvent être très glissantes quand elles sont mouillées."
               }
             },
             {
@@ -194,13 +212,15 @@
                 "de": "St. Pankratius Kirche",
                 "hu": "Szent Pongrác-templom",
                 "ro": "Biserica Sfântul Pancrațiu",
-                "en": "Église Saint-Pancrace"
+                "en": "Église Saint-Pancrace",
+                "fr": "Église Saint-Pancrace"
               },
               "tip_5lang": {
                 "de": "Diese historische Stätte ist über befestigte Wege erreichbar; halten Sie Ihre Regenjacke geschlossen, da hier oft Wind aufkommt.",
                 "hu": "Ez a történelmi helyszín szilárd burkolatú úton érhető el; tartsa zárva az esőkabátját, mert itt gyakran feltámad a szél.",
                 "ro": "Acest sit istoric este accesibil pe poteci pavate; păstrați pelerina de ploaie închisă, deoarece vântul se intensifică adesea aici.",
-                "en": "This historic site is best reached by the paved path; keep your raincoat zipped up as the wind often picks up around this area."
+                "en": "This historic site is best reached by the paved path; keep your raincoat zipped up as the wind often picks up around this area.",
+                "fr": "Ce site historique est mieux atteint par le chemin pavé ; gardez votre imperméable fermé car le vent se lève souvent autour de cette zone."
               }
             },
             {
@@ -208,13 +228,15 @@
                 "de": "St. Gallus Kirche",
                 "hu": "Szent Gál-templom",
                 "ro": "Biserica Sfântul Gallus",
-                "en": "Église Saint-Gall"
+                "en": "Église Saint-Gall",
+                "fr": "Église Saint-Gall"
               },
               "tip_5lang": {
                 "de": "Der letzte Halt bietet eine friedliche Atmosphäre; stellen Sie sicher, dass Ihr Schuhwerk für den Rückweg wasserfest ist.",
                 "hu": "Az utolsó állomás békés hangulatot áraszt az esőben; győződjön meg róla, hogy lábbelije vízálló a visszaúthoz.",
                 "ro": "Ultima oprire oferă o atmosferă liniștită; asigurați-vă că încălțămintea este impermeabilă pentru drumul de întoarcere.",
-                "en": "The final stop offers a peaceful atmosphere to wait out the drizzle; ensure your footwear is waterproof for the walk back."
+                "en": "The final stop offers a peaceful atmosphere to wait out the drizzle; ensure your footwear is waterproof for the walk back.",
+                "fr": "L’arrêt final offre une atmosphère paisible pour attendre la bruine ; assurez-vous que vos chaussures sont imperméables pour la marche du retour."
               }
             }
           ]
@@ -224,7 +246,8 @@
             "de": "An einem frostigen Morgen sieht das Rathaus magisch aus, doch beheizte Kirchen spenden Wärme. Mittags beleuchtet die blasse Wintersonne die Straßen. Am Nachmittag erreichen wir die äußeren Kirchen vor dem frühen Sonnenuntergang um 17:00 Uhr. Der Spaziergang endet unter gemütlichen Lichtern.",
             "hu": "A zúzmarás reggelen a városháza épülete varázslatos, de a fűtött templomok adják a szükséges melegséget. Délben a sápadt téli napfény világítja meg az utcákat. Délután a korai, 17 órai naplemente előtt elérjük a külső templomokat. A séta hangulatos téli fényekben ér véget.",
             "ro": "Într-o dimineață geroasă, primăria arată magic, dar bisericile încălzite oferă căldura necesară. La prânz, lumina palidă a soarelui de iarnă luminează străzile. După-amiaza, ajungem la bisericile exterioare înainte de apusul de la ora 17:00. Plimbarea se încheie sub lumini primitoare.",
-            "en": "On a frosty morning, the town hall looks magical, but heated churches provide much-needed warmth. At noon, pale winter sunlight illuminates the village streets. In the afternoon, we reach the outer churches before the early 5 PM sunset. The walk concludes under cozy winter lights as darkness falls."
+            "en": "On a frosty morning, the town hall looks magical, but heated churches provide much-needed warmth. At noon, pale winter sunlight illuminates the village streets. In the afternoon, we reach the outer churches before the early 5 PM sunset. The walk concludes under cozy winter lights as darkness falls.",
+            "fr": "Par une matinée glaciale, l’hôtel de ville paraît magique, mais les églises chauffées apportent la chaleur nécessaire. À midi, un pâle soleil d’hiver illumine les rues du village. L’après-midi, nous atteignons les églises extérieures avant le coucher du soleil à 17:00. La promenade se conclut sous des lumières hivernales confortables alors que l’obscurité tombe."
           },
           "stops": [
             {
@@ -232,13 +255,15 @@
                 "de": "Rathaus von Fegersheim",
                 "hu": "Fegersheim Városháza",
                 "ro": "Primăria Fegersheim",
-                "en": "Fegersheim Town Hall"
+                "en": "Fegersheim Town Hall",
+                "fr": "Hôtel de ville de Fegersheim"
               },
               "tip_5lang": {
                 "de": "Das Gebäude strahlt in der klaren Morgenluft; tragen Sie Thermoschichten, da es auf dem offenen Platz im Dezember zugig sein kann.",
                 "hu": "Az épület ragyog a friss reggeli levegőben; viseljen hőtartó rétegeket, mert a nyitott téren decemberben metsző szél fújhat.",
                 "ro": "Clădirea strălucește în aerul rece al dimineții; purtați straturi termice, deoarece piața deschisă poate fi foarte expusă vântului în decembrie.",
-                "en": "The building glows in the crisp morning air; wear thermal layers as the open square can be quite drafty during December days."
+                "en": "The building glows in the crisp morning air; wear thermal layers as the open square can be quite drafty during December days.",
+                "fr": "Le bâtiment brille dans l’air matinal vif ; portez des couches thermiques car la place ouverte peut être très froide durant les journées de décembre."
               }
             },
             {
@@ -246,13 +271,15 @@
                 "de": "St. Mauritius Kirche",
                 "hu": "Szent Móric-templom",
                 "ro": "Biserica Sfântul Mauriciu",
-                "en": "St. Maurice Church"
+                "en": "St. Maurice Church",
+                "fr": "Église Saint-Maurice"
               },
               "tip_5lang": {
                 "de": "Genießen Sie die feierliche Wärme im Inneren; es ist ein großartiger Ort, um sich aufzuwärmen, bevor Sie durch den Frost weitergehen.",
                 "hu": "Élvezze a belső tér ünnepi melegét; ez a legjobb hely a felmelegedésre, mielőtt folytatná útját a fagyos kültéren.",
                 "ro": "Bucurați-vă de căldura solemnă din interior; este un loc minunat pentru a vă încălzi înainte de a continua drumul prin ger.",
-                "en": "Enjoy the solemn interior warmth; it is a great place to rest your legs and warm up before continuing through the frost."
+                "en": "Enjoy the solemn interior warmth; it is a great place to rest your legs and warm up before continuing through the frost.",
+                "fr": "Profitez de la chaleur solennelle de l’intérieur ; c’est un excellent endroit pour reposer vos jambes et vous réchauffer avant de continuer dans le gel."
               }
             },
             {
@@ -260,13 +287,15 @@
                 "de": "Protestantische Kapelle",
                 "hu": "Protestáns kápolna",
                 "ro": "Capela protestantă",
-                "en": "Protestant Chapel"
+                "en": "Protestant Chapel",
+                "fr": "Chapelle protestante"
               },
               "tip_5lang": {
                 "de": "Die schlichte Eleganz wird durch das Winterlicht betont; achten Sie auf Glatteis auf den schattigen Gehwegen in der Nähe.",
                 "hu": "Az egyszerű eleganciát kiemeli a téli fény; ügyeljen a jeges foltokra a közeli árnyékos járdákon.",
                 "ro": "Eleganța simplă este evidențiată de lumina iernii; atenție la petele de gheață de pe trotuarele umbrite din apropiere.",
-                "en": "The simple elegance is highlighted by the winter light; be aware of early ice patches on the shaded sidewalks nearby."
+                "en": "The simple elegance is highlighted by the winter light; be aware of early ice patches on the shaded sidewalks nearby.",
+                "fr": "La simplicité élégante est mise en valeur par la lumière d’hiver ; soyez attentif aux plaques de glace matinales sur les trottoirs ombragés à proximité."
               }
             },
             {
@@ -274,13 +303,15 @@
                 "de": "St. Pankratius Kirche",
                 "hu": "Szent Pongrác-templom",
                 "ro": "Biserica Sfântul Pancrațiu",
-                "en": "Église Saint-Pancrace"
+                "en": "Église Saint-Pancrace",
+                "fr": "Église Saint-Pancrace"
               },
               "tip_5lang": {
                 "de": "Ein zügiger Gang hält den Kreislauf in Schwung; versuchen Sie vor Sonnenuntergang um 17:00 Uhr anzukommen, um die Fassade im Licht zu sehen.",
                 "hu": "A tempós séta segít melegen tartani a testet; próbáljon meg a 17 órai naplemente előtt megérkezni, hogy még fényben lássa a homlokzatot.",
                 "ro": "O plimbare vioaie menține circulația; încercați să ajungeți înainte de apusul de la ora 17:00 pentru a vedea fațada în lumina naturală.",
-                "en": "A brisk walk here keeps the blood flowing; aim to arrive before the 17:00 sunset to see the facade in the remaining natural light."
+                "en": "A brisk walk here keeps the blood flowing; aim to arrive before the 17:00 sunset to see the facade in the remaining natural light.",
+                "fr": "Une marche vive ici fait circuler le sang ; visez à arriver avant le coucher du soleil à 17:00 pour voir la façade à la lumière naturelle restante."
               }
             },
             {
@@ -288,13 +319,15 @@
                 "de": "St. Gallus Kirche",
                 "hu": "Szent Gál-templom",
                 "ro": "Biserica Sfântul Gallus",
-                "en": "Église Saint-Gall"
+                "en": "Église Saint-Gall",
+                "fr": "Église Saint-Gall"
               },
               "tip_5lang": {
                 "de": "Die ruhige Umgebung lädt zum Nachdenken ein; wickeln Sie sich in einen Schal, da die Temperatur nach vier Uhr schnell sinkt.",
                 "hu": "A csendes téli környezet tökéletes az elmélyüléshez; burkolózzon sálba, mert négy óra után a hőmérséklet gyorsan zuhanni kezd.",
                 "ro": "Împrejurimile liniștite de iarnă sunt ideale pentru contemplare; purtați un fular, deoarece temperatura scade rapid după ora patru.",
-                "en": "The quiet winter surroundings make for a contemplative visit; wrap up in a scarf as the temperature drops quickly after four PM."
+                "en": "The quiet winter surroundings make for a contemplative visit; wrap up in a scarf as the temperature drops quickly after four PM.",
+                "fr": "Le calme hivernal environnant rend la visite contemplative ; enveloppez-vous d’une écharpe car la température chute rapidement après seize heures."
               }
             }
           ]
@@ -314,7 +347,8 @@
             "de": "St. Ulrich Kapelle",
             "hu": "Szent Ulrik-kápolna",
             "ro": "Capela Sfântul Ulric",
-            "en": "St. Ulrich Chapel"
+            "en": "St. Ulrich Chapel",
+            "fr": "Chapelle Saint-Ulrich"
           },
           "coords": [
             7.695892,
@@ -329,7 +363,8 @@
             "de": "Genießen Sie die ruhige Lage dieser historischen Kapelle am Rande der Stadt, ein perfekter Startpunkt für Ihre entspannte Fahrradtour.",
             "hu": "Élvezze a történelmi kápolna csendes elhelyezkedését a város szélén, amely tökéletes kiindulópontja a pihentető kerékpártúrának.",
             "ro": "Bucurați-vă de locația liniștită a acestei capele istorice la marginea orașului, un punct de plecare perfect pentru turul dumneavoastră.",
-            "en": "Enjoy the peaceful location of this historical chapel on the outskirts of the town, making it a perfect starting point for your bike tour."
+            "en": "Enjoy the peaceful location of this historical chapel on the outskirts of the town, making it a perfect starting point for your bike tour.",
+            "fr": "Appréciez l’emplacement paisible de cette chapelle historique en périphérie de la ville, en faisant un point de départ parfait pour votre randonnée à vélo."
           }
         },
         {
@@ -337,7 +372,8 @@
             "de": "Rathaus von Fegersheim",
             "hu": "Fegersheim Városháza",
             "ro": "Primăria Fegersheim",
-            "en": "Fegersheim Town Hall"
+            "en": "Fegersheim Town Hall",
+            "fr": "Hôtel de ville de Fegersheim"
           },
           "coords": [
             7.679437,
@@ -352,7 +388,8 @@
             "de": "Bewundern Sie die typisch elsässische Architektur des Rathauses und achten Sie auf die Details an der Fassade, bevor Sie den Platz erkunden.",
             "hu": "Csodálja meg a városháza jellegzetes elzászi építészetét és figyeljen a homlokzat részleteire, mielőtt felfedezné a teret.",
             "ro": "Admiteți arhitectura tipic alsaciană a primăriei și fiți atenți la detaliile fațadei înainte de a explora piața centrală.",
-            "en": "Admire the typical Alsatian architecture of the town hall and pay attention to the facade details before exploring the square."
+            "en": "Admire the typical Alsatian architecture of the town hall and pay attention to the facade details before exploring the square.",
+            "fr": "Admirez l’architecture alsacienne typique de l’hôtel de ville et faites attention aux détails de la façade avant d’explorer la place."
           }
         },
         {
@@ -360,7 +397,8 @@
             "de": "Protestantische Kapelle",
             "hu": "Protestáns kápolna",
             "ro": "Capela protestantă",
-            "en": "Protestant Chapel"
+            "en": "Protestant Chapel",
+            "fr": "Chapelle protestante"
           },
           "coords": [
             7.677995,
@@ -375,7 +413,8 @@
             "de": "Betrachten Sie die schlichte Eleganz dieses kleinen Gotteshauses und nutzen Sie das sanfte Licht für ein stimmungsvolles Foto im Inneren.",
             "hu": "Figyelje meg ennek a kis kápolnának az egyszerű eleganciáját, és használja ki a lágy fényeket egy hangulatos belső fotóhoz.",
             "ro": "Observați eleganța simplă a acestui mic lăcaș de cult și profitați de lumina blândă pentru a face o fotografie de interior reușită.",
-            "en": "Observe the simple elegance of this small chapel and take advantage of the soft light to capture an atmospheric indoor photo."
+            "en": "Observe the simple elegance of this small chapel and take advantage of the soft light to capture an atmospheric indoor photo.",
+            "fr": "Observez la simplicité élégante de cette petite chapelle et profitez de la lumière douce pour prendre une photo d’intérieur atmosphérique."
           }
         },
         {
@@ -383,7 +422,8 @@
             "de": "St. Pankratius Kirche",
             "hu": "Szent Pongrác-templom",
             "ro": "Biserica Sfântul Pancrațiu",
-            "en": "Église Saint-Pancrace"
+            "en": "Église Saint-Pancrace",
+            "fr": "Église Saint-Pancrace"
           },
           "coords": [
             7.662299,
@@ -398,7 +438,8 @@
             "de": "Entdecken Sie die kunstvollen Bleiglasfenster dieser Kirche, die bei Sonnenschein besonders schöne Farben auf den Boden zaubern.",
             "hu": "Fedezze fel a templom díszes ólomüveg ablakait, amelyek napsütésben különösen szép színeket varázsolnak a padlóra.",
             "ro": "Descoperiți vitraliile ornamentale ale acestei biserici, care proiectează culori deosebit de frumoase pe podea în lumina soarelui.",
-            "en": "Discover the ornate stained glass windows of this church, which cast beautifully vivid colors onto the floor when the sun shines."
+            "en": "Discover the ornate stained glass windows of this church, which cast beautifully vivid colors onto the floor when the sun shines.",
+            "fr": "Découvrez les vitraux ornés de cette église, qui projettent de magnifiques couleurs vives sur le sol quand le soleil brille."
           }
         },
         {
@@ -406,7 +447,8 @@
             "de": "St. Ludan Kapelle",
             "hu": "Szent Ludan-kápolna",
             "ro": "Capela Sfântul Ludan",
-            "en": "Chapelle Saint-Ludan"
+            "en": "Chapelle Saint-Ludan",
+            "fr": "Chapelle Saint-Ludan"
           },
           "coords": [
             7.665746,
@@ -421,7 +463,8 @@
             "de": "Besuchen Sie dieses besondere Wahrzeichen und spazieren Sie kurz um die Anlage, um die charakteristische Architektur vollständig zu erfassen.",
             "hu": "Látogasson el ehhez a különleges nevezetességhez, és sétáljon egyet az épület körül, hogy teljesen befogadja a jellegzetes építészetet.",
             "ro": "Vizitați acest punct de reper special și faceți o scurtă plimbare în jurul clădirii pentru a admira pe deplin arhitectura sa caracteristică.",
-            "en": "Visit this special landmark and take a short walk around the complex to fully appreciate its characteristic and historic architecture."
+            "en": "Visit this special landmark and take a short walk around the complex to fully appreciate its characteristic and historic architecture.",
+            "fr": "Visitez ce repère particulier et faites une courte promenade autour du complexe pour apprécier pleinement son architecture caractéristique et historique."
           }
         },
         {
@@ -429,7 +472,8 @@
             "de": "St. Wendelin Kapelle",
             "hu": "Szent Wendelin-kápolna",
             "ro": "Capela Sfântul Wendelin",
-            "en": "Chapelle Saint-Wendelin"
+            "en": "Chapelle Saint-Wendelin",
+            "fr": "Chapelle Saint-Wendelin"
           },
           "coords": [
             7.675954,
@@ -444,7 +488,8 @@
             "de": "Erkunden Sie dieses kleine ländliche Juwel und legen Sie hier eine kurze Trinkpause ein, bevor Sie Ihre Fahrt in die Natur fortsetzen.",
             "hu": "Fedezze fel ezt a kis vidéki ékszert, és tartson itt egy rövid ivószünetet, mielőtt folytatná útját a természet lágy ölén.",
             "ro": "Explorați această mică bijuterie rurală și faceți o scurtă pauză de hidratare aici înainte de a vă continua drumul în natură.",
-            "en": "Explore this little rural gem and take a short hydration break here before continuing your ride further into the natural surroundings."
+            "en": "Explore this little rural gem and take a short hydration break here before continuing your ride further into the natural surroundings.",
+            "fr": "Explorez ce petit joyau rural et faites ici une courte pause hydratation avant de poursuivre votre parcours dans les environs naturels."
           }
         },
         {
@@ -452,7 +497,8 @@
             "de": "Hügelgrab (Tumulus)",
             "hu": "Halomsír (Tumulus)",
             "ro": "Tumul",
-            "en": "Tumulus"
+            "en": "Tumulus",
+            "fr": "Tumulus"
           },
           "coords": [
             7.690724,
@@ -467,7 +513,8 @@
             "de": "Bestaunen Sie dieses faszinierende prähistorische Denkmal und lesen Sie die Informationstafeln, um mehr über die frühe Besiedlung zu erfahren.",
             "hu": "Csodálja meg ezt a lenyűgöző történelem előtti emlékművet, és olvassa el a tájékoztató táblákat, hogy többet megtudjon a korai településről.",
             "ro": "Admirați acest fascinant monument preistoric și citiți panourile informative pentru a afla mai multe despre așezările umane timpurii.",
-            "en": "Marvel at this fascinating prehistoric monument and read the information boards to learn more about the early human settlements here."
+            "en": "Marvel at this fascinating prehistoric monument and read the information boards to learn more about the early human settlements here.",
+            "fr": "Admirez ce fascinant monument préhistorique et lisez les panneaux d’information pour en apprendre davantage sur les premiers établissements humains ici."
           }
         }
       ],
@@ -475,7 +522,8 @@
         "de": "Starten Sie am Rand von Fegersheim an der St. Ulrich Kapelle, bevor Sie ins Zentrum zum Rathaus radeln.\nMittags verbinden Sie Kultur und Bewegung mit Stopps an der Protestantischen Kapelle und der St. Pankratius Kirche.\nAm Nachmittag verlassen Sie den Kern und besuchen die idyllischen Kapellen St. Ludan und St. Wendelin.\nDer Ausflug gipfelt in einem Besuch des prähistorischen Tumulus, wo die faszinierende Geschichte lebendig wird.",
         "hu": "Induljon Fegersheim széléről, a Szent Ulrik-kápolnától, mielőtt a központba, a városházához kerékpározna.\nDélben ötvözze a kultúrát a mozgással a protestáns kápolna és a Szent Pongrác-templom meglátogatásával.\nDélután hagyja el a központot, és látogasson el az idilli Szent Ludan- és Szent Wendelin-kápolnákhoz a természetben.\nA kirándulás a történelem előtti halomsírnál csúcsosodik ki, ahol a múlt lenyűgöző emlékei elevenednek meg.",
         "ro": "Începeți la marginea orașului Fegersheim, la Capela Sfântul Ulric, înainte de a pedala spre primăria din centru.\nLa prânz, îmbinați cultura și mișcarea cu opriri la Capela protestantă și la Biserica Sfântul Pancrațiu.\nDupă-amiaza, părăsiți centrul pentru a vizita capelele idilice Sfântul Ludan și Sfântul Wendelin din apropiere.\nExcursia culminează cu o vizită la tumulul preistoric, unde istoria fascinantă a regiunii prinde viață.",
-        "en": "Start on the outskirts of Fegersheim at St. Ulrich Chapel before cycling into the center to see the town hall.\nAt midday, combine culture and exercise with stops at the Protestant Chapel and the lovely Église Saint-Pancrace.\nIn the afternoon, leave the core behind to visit the idyllic Chapelle Saint-Ludan and Chapelle Saint-Wendelin.\nThe excursion culminates in a visit to the prehistoric Tumulus, where the region's fascinating history comes alive."
+        "en": "Start on the outskirts of Fegersheim at St. Ulrich Chapel before cycling into the center to see the town hall.\nAt midday, combine culture and exercise with stops at the Protestant Chapel and the lovely Église Saint-Pancrace.\nIn the afternoon, leave the core behind to visit the idyllic Chapelle Saint-Ludan and Chapelle Saint-Wendelin.\nThe excursion culminates in a visit to the prehistoric Tumulus, where the region's fascinating history comes alive.",
+        "fr": "Commencez en périphérie de Fegersheim à la Chapelle Saint-Ulrich avant de pédaler vers le centre pour voir l’hôtel de ville.\nÀ midi, combinez culture et exercice avec des arrêts à la Chapelle protestante et la charmante Église Saint-Pancrace.\nL’après-midi, quittez le centre pour visiter l’idyllique Chapelle Saint-Ludan et la Chapelle Saint-Wendelin.\nL’excursion culmine par une visite du tumulus préhistorique, où l’histoire fascinante de la région prend vie."
       },
       "variants": {
         "rainy": {
@@ -483,7 +531,8 @@
             "de": "Eine nasse Radtour beginnt an der St. Ulrich Kapelle mit vorsichtigem Tempo. Mittags bieten die zentralen Gebäude Schutz bei kurzen Pausen. Am Nachmittag führt die Route über glatte Landstraßen zu historischen Punkten. Am Abend beenden wir die Tour bei nachlassendem Regen und vorsichtiger Fahrweise.",
             "hu": "Egy vizes kerékpártúra kezdődik a Szent Ulrik-kápolnánál óvatos tempóban. Délben a központi épületek nyújtanak fedezéket a rövid szünetekben. Délután az útvonal csúszós országutakon át vezet a történelmi pontokhoz. Este a szemerkélő esőben, de biztonságban fejezzük be a kört.",
             "ro": "O tură umedă cu bicicleta începe la Capela Sfântul Ulric cu un ritm precaut. La prânz, clădirile centrale oferă adăpost în timpul pauzelor scurte. După-amiaza, traseul trece peste drumuri alunecoase către puncte istorice. Seara încheiem turul cu prudență pe măsură ce ploaia se oprește.",
-            "en": "A wet cycling tour starts at St. Ulrich Chapel with a cautious pace. At noon, central buildings offer cover during short breaks. In the afternoon, the route leads over slippery roads to historic points. The tour ends in the evening with careful riding as the rain begins to subside."
+            "en": "A wet cycling tour starts at St. Ulrich Chapel with a cautious pace. At noon, central buildings offer cover during short breaks. In the afternoon, the route leads over slippery roads to historic points. The tour ends in the evening with careful riding as the rain begins to subside.",
+            "fr": "Une sortie à vélo sous la pluie commence à la Chapelle Saint-Ulrich à un rythme prudent. À midi, les bâtiments du centre offrent des abris pour de courtes pauses. L’après-midi, l’itinéraire emprunte des routes glissantes vers des points historiques. La sortie se termine en soirée en roulant prudemment alors que la pluie commence à faiblir."
           },
           "stops": [
             {
@@ -491,13 +540,15 @@
                 "de": "St. Ulrich Kapelle",
                 "hu": "Szent Ulrik-kápolna",
                 "ro": "Capela Sfântul Ulric",
-                "en": "St. Ulrich Chapel"
+                "en": "St. Ulrich Chapel",
+                "fr": "Chapelle Saint-Ulrich"
               },
               "tip_5lang": {
                 "de": "Beginnen Sie unter den Bäumen für Schutz; prüfen Sie Ihre Schutzbleche, da das Spritzwasser heute sehr stark sein kann.",
                 "hu": "Kezdje a fák alatt, hogy ne ázzon meg; ellenőrizze a sárvédőket, mert a kerekek által felvert víz ma nagyon erős lehet.",
                 "ro": "Începeți sub copaci pentru protecție; verificați aripile bicicletei, deoarece apa aruncată de roți poate fi foarte puternică astăzi.",
-                "en": "Start under the trees for cover; ensure your bike's mudguards are tight as the road spray can be very heavy today."
+                "en": "Start under the trees for cover; ensure your bike's mudguards are tight as the road spray can be very heavy today.",
+                "fr": "Commencez sous les arbres pour être à l’abri ; assurez-vous que les garde-boue de votre vélo sont bien serrés car les projections peuvent être très importantes aujourd’hui."
               }
             },
             {
@@ -505,13 +556,15 @@
                 "de": "Rathaus von Fegersheim",
                 "hu": "Fegersheim Városháza",
                 "ro": "Primăria Fegersheim",
-                "en": "Fegersheim Town Hall"
+                "en": "Fegersheim Town Hall",
+                "fr": "Hôtel de ville de Fegersheim"
               },
               "tip_5lang": {
                 "de": "Halten Sie kurz unter dem Dachvorsprung; senken Sie den Reifendruck leicht für besseren Grip auf nassem Asphalt.",
                 "hu": "Álljon meg röviden az eresz alatt; kissé csökkentse a gumiabroncsok nyomását a jobb tapadás érdekében a vizes aszfalton.",
                 "ro": "Opriți scurt sub streșină; reduceți ușor presiunea din anvelope pentru o aderență mai bună pe asfaltul ud.",
-                "en": "Stop briefly under the overhang; slightly lower tire pressure gives better grip on wet asphalt during your ride."
+                "en": "Stop briefly under the overhang; slightly lower tire pressure gives better grip on wet asphalt during your ride.",
+                "fr": "Arrêtez-vous brièvement sous l’auvent ; une pression de pneu légèrement réduite offre une meilleure adhérence sur l’asphalte mouillé pendant votre trajet."
               }
             },
             {
@@ -519,13 +572,15 @@
                 "de": "Protestantische Kapelle",
                 "hu": "Protestáns kápolna",
                 "ro": "Capela protestantă",
-                "en": "Protestant Chapel"
+                "en": "Protestant Chapel",
+                "fr": "Chapelle protestante"
               },
               "tip_5lang": {
                 "de": "Passen Sie hier Ihre Regenkleidung an; achten Sie auf Fahrbahnmarkierungen, die bei Regen sehr rutschig werden.",
                 "hu": "Itt igazítsa meg esőfelszerelését; legyen óvatos az útburkolati jelekkel, amelyek esőben rendkívül csúszóssá válnak.",
                 "ro": "Ajustați-vă echipamentul de ploaie aici; atenție la marcajele rutiere, care devin foarte alunecoase în timpul ploii.",
-                "en": "Use this area to adjust your rain gear; be cautious of painted road markings which become very slick in the rain."
+                "en": "Use this area to adjust your rain gear; be cautious of painted road markings which become very slick in the rain.",
+                "fr": "Profitez de cet endroit pour ajuster votre équipement de pluie ; soyez prudent avec les marquages routiers peints qui deviennent très glissants sous la pluie."
               }
             },
             {
@@ -533,13 +588,15 @@
                 "de": "St. Pankratius Kirche",
                 "hu": "Szent Pongrác-templom",
                 "ro": "Biserica Sfântul Pancrațiu",
-                "en": "Église Saint-Pancrace"
+                "en": "Église Saint-Pancrace",
+                "fr": "Église Saint-Pancrace"
               },
               "tip_5lang": {
                 "de": "Die Strecke ist den Elementen ausgesetzt; treten Sie gleichmäßig und vermeiden Sie abruptes Bremsen in den feuchten Kurven.",
                 "hu": "Ez a szakasz ki van téve az elemeknek; pedálozzon egyenletesen, és kerülje a hirtelen fékezést a nedves kanyarokban.",
                 "ro": "Traseul este expus elementelor; pedalați constant și evitați frânarea bruscă în curbele umede către biserică.",
-                "en": "The route here is exposed; pedal steadily and avoid sudden braking on the damp curves leading to the church entrance."
+                "en": "The route here is exposed; pedal steadily and avoid sudden braking on the damp curves leading to the church entrance.",
+                "fr": "Le parcours jusqu’à cet endroit est exposé ; pédalez régulièrement et évitez les freinages brusques dans les courbes humides menant à l’entrée de l’église."
               }
             },
             {
@@ -547,13 +604,15 @@
                 "de": "St. Ludan Kapelle",
                 "hu": "Szent Ludan-kápolna",
                 "ro": "Capela Sfântul Ludan",
-                "en": "Chapelle Saint-Ludan"
+                "en": "Chapelle Saint-Ludan",
+                "fr": "Chapelle Saint-Ludan"
               },
               "tip_5lang": {
                 "de": "Ein kurzer Blick unter Ihrer Kapuze; lassen Sie das Fahrradlicht für bessere Sichtbarkeit bei trübem Wetter an.",
                 "hu": "Csak egy gyors pillantás a kapucni alól; tartsa bekapcsolva a kerékpár lámpáit a jobb láthatóság érdekében a szürke időben.",
                 "ro": "O privire scurtă de sub glugă; păstrați luminile bicicletei aprinse pentru o mai bună vizibilitate pe vreme mohorâtă.",
-                "en": "A quick look from under your hood; keep your bike lights on for better visibility in the gloomy, rainy weather."
+                "en": "A quick look from under your hood; keep your bike lights on for better visibility in the gloomy, rainy weather.",
+                "fr": "Un rapide coup d’œil sous votre capuche ; gardez vos lampes de vélo allumées pour une meilleure visibilité par ce temps sombre et pluvieux."
               }
             },
             {
@@ -561,13 +620,15 @@
                 "de": "St. Wendelin Kapelle",
                 "hu": "Szent Wendelin-kápolna",
                 "ro": "Capela Sfântul Wendelin",
-                "en": "Chapelle Saint-Wendelin"
+                "en": "Chapelle Saint-Wendelin",
+                "fr": "Chapelle Saint-Wendelin"
               },
               "tip_5lang": {
                 "de": "Die Steinmauern bieten einen kleinen Windschutz; wischen Sie den Sattel trocken, bevor Sie weiterfahren, um Auskühlung zu vermeiden.",
                 "hu": "A kőfalak némi szélvédelmet nyújtanak; törölje szárazra a nyerget indulás előtt, hogy elkerülje a megfázást a nedvesség miatt.",
                 "ro": "Zidurile de piatră oferă puțin adăpost contra vântului; ștergeți șaua înainte de a pleca pentru a evita răceala din cauza umezelii.",
-                "en": "The stone walls offer a small windbreak; wipe your seat dry before continuing to avoid getting chilled by the damp."
+                "en": "The stone walls offer a small windbreak; wipe your seat dry before continuing to avoid getting chilled by the damp.",
+                "fr": "Les murs en pierre offrent un faible abri contre le vent ; essuyez votre selle avant de repartir pour éviter d’être refroidi par l’humidité."
               }
             },
             {
@@ -575,13 +636,15 @@
                 "de": "Hügelgrab (Tumulus)",
                 "hu": "Halomsír (Tumulus)",
                 "ro": "Tumul",
-                "en": "Tumulus"
+                "en": "Tumulus",
+                "fr": "Tumulus"
               },
               "tip_5lang": {
                 "de": "Das offene Gelände wird bei Regen schnell schlammig; bleiben Sie auf den Schotterwegen, um nicht steckenzubleiben.",
                 "hu": "A nyílt terep esőben gyorsan sárossá válik; maradjon a kavicsos ösvényeken, hogy elkerülje az elakadást a sárban.",
                 "ro": "Terenul deschis devine rapid noroios; rămâneți pe potecile cu pietriș pentru a nu rămâne blocați în noroi.",
-                "en": "This open area gets muddy quickly in the rain; stay on the gravel paths to avoid getting stuck in the wet ground."
+                "en": "This open area gets muddy quickly in the rain; stay on the gravel paths to avoid getting stuck in the wet ground.",
+                "fr": "Ce terrain ouvert devient vite boueux sous la pluie ; restez sur les chemins de gravier pour éviter de vous enliser dans la terre humide."
               }
             }
           ]
@@ -591,7 +654,8 @@
             "de": "Eine frostige Radtour erfordert warme Kleidung ab der St. Ulrich Kapelle. Mittags wärmen wir uns in den Kirchen kurz auf. Am Nachmittag radeln wir zügig, um die Körperwärme vor dem Sonnenuntergang um 17:00 Uhr zu halten. Der Tag endet mit einer kühlen Fahrt unter den ersten Abendsternen.",
             "hu": "A fagyos kerékpártúra meleg öltözetet igényel már a Szent Ulrik-kápolnától. Délben a templomokban melegedünk fel röviden. Délután tempósan haladunk, hogy tartsuk a testhőt a 17 órai naplemente előtt. A nap hűvös tekeréssel zárul az első esti csillagok alatt.",
             "ro": "O tură geroasă cu bicicleta necesită haine groase încă de la Capela Sfântul Ulric. La prânz, ne încălzim scurt în biserici. După-amiaza pedalăm vioi pentru a menține căldura înainte de apusul de la ora 17:00. Ziua se încheie cu o tură rece sub primele stele.",
-            "en": "A frosty bike tour requires warm gear starting from St. Ulrich Chapel. At noon, we warm up briefly inside the local churches. In the afternoon, we ride briskly to keep body heat before the 5 PM sunset. The day ends with a cool ride under the first evening stars."
+            "en": "A frosty bike tour requires warm gear starting from St. Ulrich Chapel. At noon, we warm up briefly inside the local churches. In the afternoon, we ride briskly to keep body heat before the 5 PM sunset. The day ends with a cool ride under the first evening stars.",
+            "fr": "Une sortie à vélo par un matin glacial nécessite des vêtements chauds dès la Chapelle Saint-Ulrich. À midi, nous nous réchauffons brièvement à l’intérieur des églises locales. L’après-midi, nous roulons d’un bon pas pour conserver la chaleur corporelle avant le coucher du soleil à 17:00. La journée se termine par une balade fraîche sous les premières étoiles du soir."
           },
           "stops": [
             {
@@ -599,13 +663,15 @@
                 "de": "St. Ulrich Kapelle",
                 "hu": "Szent Ulrik-kápolna",
                 "ro": "Capela Sfântul Ulric",
-                "en": "St. Ulrich Chapel"
+                "en": "St. Ulrich Chapel",
+                "fr": "Chapelle Saint-Ulrich"
               },
               "tip_5lang": {
                 "de": "Die Kapelle wirkt friedlich inmitten kahler Bäume; tragen Sie windfeste Handschuhe, um Ihre Hände vor der beißenden Morgenkälte zu schützen.",
                 "hu": "A kápolna békés a kopár fák között; viseljen szélálló kesztyűt, hogy megvédje kezeit a metsző reggeli hidegtől.",
                 "ro": "Capela pare liniștită printre copacii golași; purtați mănuși rezistente la vânt pentru a vă proteja mâinile de gerul dimineții.",
-                "en": "The chapel looks serene amidst bare trees; wear windproof gloves to protect your hands from the biting morning chill."
+                "en": "The chapel looks serene amidst bare trees; wear windproof gloves to protect your hands from the biting morning chill.",
+                "fr": "La chapelle paraît sereine au milieu des arbres dénudés ; portez des gants coupe-vent pour protéger vos mains du froid mordant du matin."
               }
             },
             {
@@ -613,13 +679,15 @@
                 "de": "Rathaus von Fegersheim",
                 "hu": "Fegersheim Városháza",
                 "ro": "Primăria Fegersheim",
-                "en": "Fegersheim Town Hall"
+                "en": "Fegersheim Town Hall",
+                "fr": "Hôtel de ville de Fegersheim"
               },
               "tip_5lang": {
                 "de": "Die Winterluft ist klar und schneidend; ein Gesichtsschutz oder Buff wird für die Weiterfahrt dringend empfohlen.",
                 "hu": "A téli levegő tiszta és metsző; egy arcmaszk vagy csősál erősen ajánlott a további tekeréshez a hideg szélben.",
                 "ro": "Aerul de iarnă este rece și tăios; o mască pentru față sau un buff este recomandat pentru continuarea drumului.",
-                "en": "The winter air is crisp and biting; a face mask or buff is highly recommended for the ride through the village."
+                "en": "The winter air is crisp and biting; a face mask or buff is highly recommended for the ride through the village.",
+                "fr": "L’air hivernal est vif et piquant ; un masque facial ou un tour de cou est fortement recommandé pour la traversée du village."
               }
             },
             {
@@ -627,13 +695,15 @@
                 "de": "Protestantische Kapelle",
                 "hu": "Protestáns kápolna",
                 "ro": "Capela protestantă",
-                "en": "Protestant Chapel"
+                "en": "Protestant Chapel",
+                "fr": "Chapelle protestante"
               },
               "tip_5lang": {
                 "de": "Genießen Sie die klare Sicht; achten Sie auf verstecktes Glatteis in den Schatten der Gebäude, wo die Sonne nicht hinkommt.",
                 "hu": "Élvezze a tiszta kilátást; ügyeljen a rejtett jégfoltokra az épületek árnyékában, ahová nem ér el a napsütés.",
                 "ro": "Bucurați-vă de vizibilitatea clară; atenție la gheața ascunsă în umbra clădirilor, unde soarele nu ajunge să o topească.",
-                "en": "Take in the clear view; watch out for black ice in the shadows of buildings where the sun hasn't reached yet."
+                "en": "Take in the clear view; watch out for black ice in the shadows of buildings where the sun hasn't reached yet.",
+                "fr": "Profitez de la vue dégagée ; méfiez-vous du verglas dans les ombres des bâtiments où le soleil n’est pas encore arrivé."
               }
             },
             {
@@ -641,13 +711,15 @@
                 "de": "St. Pankratius Kirche",
                 "hu": "Szent Pongrác-templom",
                 "ro": "Biserica Sfântul Pancrațiu",
-                "en": "Église Saint-Pancrace"
+                "en": "Église Saint-Pancrace",
+                "fr": "Église Saint-Pancrace"
               },
               "tip_5lang": {
                 "de": "Die Fahrt hierher hält Sie warm; halten Sie ein gleichmäßiges Tempo und vergessen Sie nicht, auch bei Kälte genug zu trinken.",
                 "hu": "A tekerés segít melegen maradni; tartson egyenletes tempót, és ne felejtsen el hidratálni a hideg idő ellenére sem.",
                 "ro": "Pedalatul vă va menține cald; păstrați un ritm constant și nu uitați să vă hidratați chiar și pe vreme rece.",
-                "en": "The ride here provides a good workout to stay warm; keep a steady pace and remember to stay hydrated even in the cold."
+                "en": "The ride here provides a good workout to stay warm; keep a steady pace and remember to stay hydrated even in the cold.",
+                "fr": "Le trajet jusqu’ici constitue un bon exercice pour rester au chaud ; gardez un rythme régulier et n’oubliez pas de vous hydrater même par temps froid."
               }
             },
             {
@@ -655,13 +727,15 @@
                 "de": "St. Ludan Kapelle",
                 "hu": "Szent Ludan-kápolna",
                 "ro": "Capela Sfântul Ludan",
-                "en": "Chapelle Saint-Ludan"
+                "en": "Chapelle Saint-Ludan",
+                "fr": "Chapelle Saint-Ludan"
               },
               "tip_5lang": {
                 "de": "Ein kurzer Stopp in der Winterlandschaft; die tiefstehende Sonne kann blenden, tragen Sie daher nach Möglichkeit eine Fahrradbrille.",
                 "hu": "Rövid megálló a téli tájban; az alacsonyan járó nap vakíthat, ezért lehetőség szerint viseljen kerékpáros szemüveget.",
                 "ro": "O oprire scurtă în peisajul de iarnă; soarele jos poate fi orbitor, așa că purtați ochelari de ciclism dacă este posibil.",
-                "en": "A quick stop in the winter landscape; the low sun can be blinding, so wear cycling glasses if possible for safety."
+                "en": "A quick stop in the winter landscape; the low sun can be blinding, so wear cycling glasses if possible for safety.",
+                "fr": "Un arrêt rapide dans le paysage hivernal ; le soleil bas peut éblouir, portez des lunettes de cyclisme si possible pour votre sécurité."
               }
             },
             {
@@ -669,13 +743,15 @@
                 "de": "St. Wendelin Kapelle",
                 "hu": "Szent Wendelin-kápolna",
                 "ro": "Capela Sfântul Wendelin",
-                "en": "Chapelle Saint-Wendelin"
+                "en": "Chapelle Saint-Wendelin",
+                "fr": "Chapelle Saint-Wendelin"
               },
               "tip_5lang": {
                 "de": "Genießen Sie die stille Einsamkeit; die Temperatur wird im Laufe des Nachmittags deutlich sinken, beeilen Sie sich etwas.",
                 "hu": "Élvezze a csendes magányt; a hőmérséklet délután jelentősen csökkenni fog, ezért ne időzzön túl sokat egy helyben.",
                 "ro": "Bucurați-vă de singurătatea liniștită; temperatura va scădea semnificativ pe parcursul după-amiezii, grăbiți-vă puțin.",
-                "en": "Appreciate the quiet solitude of the site; the temperature will start to fall significantly as the afternoon progresses."
+                "en": "Appreciate the quiet solitude of the site; the temperature will start to fall significantly as the afternoon progresses.",
+                "fr": "Appréciez la solitude paisible du site ; la température commencera à chuter sensiblement au fil de l’après-midi."
               }
             },
             {
@@ -683,13 +759,15 @@
                 "de": "Hügelgrab (Tumulus)",
                 "hu": "Halomsír (Tumulus)",
                 "ro": "Tumul",
-                "en": "Tumulus"
+                "en": "Tumulus",
+                "fr": "Tumulus"
               },
               "tip_5lang": {
                 "de": "Kommen Sie vor dem Sonnenuntergang um 17:00 Uhr an; das offene Feld ist sehr kalt, bleiben Sie also ständig in Bewegung.",
                 "hu": "Érkezzen meg a 17 órai naplemente előtt; a nyílt mezőn nagyon hideg van, ezért folyamatosan mozogjon, hogy ne fagyjon meg.",
                 "ro": "Ajungeți înainte de apusul de la ora 17:00; câmpul deschis este foarte rece, așa că rămâneți în mișcare constantă.",
-                "en": "Arrive here before the 17:00 sunset; the open field is very cold, so don't linger too long without moving around."
+                "en": "Arrive here before the 17:00 sunset; the open field is very cold, so don't linger too long without moving around.",
+                "fr": "Arrivez ici avant le coucher du soleil à 17:00 ; le champ ouvert est très froid, ne traînez pas trop sans bouger."
               }
             }
           ]
@@ -709,7 +787,8 @@
             "de": "Hügelgrab (Tumulus)",
             "hu": "Halomsír (Tumulus)",
             "ro": "Tumul",
-            "en": "Tumulus"
+            "en": "Tumulus",
+            "fr": "Tumulus"
           },
           "coords": [
             7.690724,
@@ -724,7 +803,8 @@
             "de": "Bestaunen Sie dieses faszinierende prähistorische Denkmal und lesen Sie die Informationstafeln, um mehr über die frühe Besiedlung zu erfahren.",
             "hu": "Csodálja meg ezt a lenyűgöző történelem előtti emlékművet, és olvassa el a tájékoztató táblákat, hogy többet megtudjon a korai településről.",
             "ro": "Admirați acest fascinant monument preistoric și citiți panourile informative pentru a afla mai multe despre așezările umane timpurii.",
-            "en": "Marvel at this fascinating prehistoric monument and read the information boards to learn more about the early human settlements here."
+            "en": "Marvel at this fascinating prehistoric monument and read the information boards to learn more about the early human settlements here.",
+            "fr": "Admirez ce fascinant monument préhistorique et lisez les panneaux d’information pour en apprendre davantage sur les premiers établissements humains ici."
           }
         },
         {
@@ -732,7 +812,8 @@
             "de": "St. Wendelin Kapelle",
             "hu": "Szent Wendelin-kápolna",
             "ro": "Capela Sfântul Wendelin",
-            "en": "Chapelle Saint-Wendelin"
+            "en": "Chapelle Saint-Wendelin",
+            "fr": "Chapelle Saint-Wendelin"
           },
           "coords": [
             7.675954,
@@ -747,7 +828,8 @@
             "de": "Erkunden Sie dieses kleine ländliche Juwel und legen Sie hier eine kurze Trinkpause ein, bevor Sie Ihre Fahrt in die Natur fortsetzen.",
             "hu": "Fedezze fel ezt a kis vidéki ékszert, és tartson itt egy rövid ivószünetet, mielőtt folytatná útját a természet lágy ölén.",
             "ro": "Explorați această mică bijuterie rurală și faceți o scurtă pauză de hidratare aici înainte de a vă continua drumul în natură.",
-            "en": "Explore this little rural gem and take a short hydration break here before continuing your ride further into the natural surroundings."
+            "en": "Explore this little rural gem and take a short hydration break here before continuing your ride further into the natural surroundings.",
+            "fr": "Explorez ce petit joyau rural et faites ici une courte pause hydratation avant de poursuivre votre parcours dans les environs naturels."
           }
         },
         {
@@ -755,7 +837,8 @@
             "de": "St. Ludan Kapelle",
             "hu": "Szent Ludan-kápolna",
             "ro": "Capela Sfântul Ludan",
-            "en": "Chapelle Saint-Ludan"
+            "en": "Chapelle Saint-Ludan",
+            "fr": "Chapelle Saint-Ludan"
           },
           "coords": [
             7.665746,
@@ -770,7 +853,8 @@
             "de": "Besuchen Sie dieses besondere Wahrzeichen und spazieren Sie kurz um die Anlage, um die charakteristische Architektur vollständig zu erfassen.",
             "hu": "Látogasson el ehhez a különleges nevezetességhez, és sétáljon egyet az épület körül, hogy teljesen befogadja a jellegzetes építészetet.",
             "ro": "Vizitați acest punct de reper special și faceți o scurtă plimbare în jurul clădirii pentru a admira pe deplin arhitectura sa caracteristică.",
-            "en": "Visit this special landmark and take a short walk around the complex to fully appreciate its characteristic and historic architecture."
+            "en": "Visit this special landmark and take a short walk around the complex to fully appreciate its characteristic and historic architecture.",
+            "fr": "Visitez ce lieu remarquable et faites une courte promenade autour du complexe pour apprécier pleinement son architecture caractéristique et historique."
           }
         },
         {
@@ -778,7 +862,8 @@
             "de": "St. Gallus Kirche",
             "hu": "Szent Gál-templom",
             "ro": "Biserica Sfântul Gallus",
-            "en": "Église Saint-Gall"
+            "en": "Église Saint-Gall",
+            "fr": "Église Saint-Gall"
           },
           "coords": [
             7.68088,
@@ -793,7 +878,8 @@
             "de": "Lassen Sie Ihren Spaziergang an diesem charmanten religiösen Ort ausklingen und achten Sie auf die historischen Grabsteine im Außenbereich.",
             "hu": "Zárja sétáját ezen a hangulatos vallási helyszínen, és figyeljen a külső területen található történelmi sírkövekre is.",
             "ro": "Încheiați plimbarea în acest loc religios fermecător și acordați atenție pietrelor funerare istorice aflate în zona exterioară.",
-            "en": "Conclude your walk at this charming religious site and pay special attention to the historical gravestones in the outer area."
+            "en": "Conclude your walk at this charming religious site and pay special attention to the historical gravestones in the outer area.",
+            "fr": "Terminez votre promenade à ce charmant site religieux et prêtez une attention particulière aux pierres tombales historiques dans l'enceinte extérieure."
           }
         },
         {
@@ -801,7 +887,8 @@
             "de": "St. Pankratius Kirche",
             "hu": "Szent Pongrác-templom",
             "ro": "Biserica Sfântul Pancrațiu",
-            "en": "Église Saint-Pancrace"
+            "en": "Église Saint-Pancrace",
+            "fr": "Église Saint-Pancrace"
           },
           "coords": [
             7.662299,
@@ -816,7 +903,8 @@
             "de": "Entdecken Sie die kunstvollen Bleiglasfenster dieser Kirche, die bei Sonnenschein besonders schöne Farben auf den Boden zaubern.",
             "hu": "Fedezze fel a templom díszes ólomüveg ablakait, amelyek napsütésben különösen szép színeket varázsolnak a padlóra.",
             "ro": "Descoperiți vitraliile ornamentale ale acestei biserici, care proiectează culori deosebit de frumoase pe podea în lumina soarelui.",
-            "en": "Discover the ornate stained glass windows of this church, which cast beautifully vivid colors onto the floor when the sun shines."
+            "en": "Discover the ornate stained glass windows of this church, which cast beautifully vivid colors onto the floor when the sun shines.",
+            "fr": "Découvrez les vitraux ornés de cette église, qui projettent de magnifiques couleurs vives sur le sol lorsque le soleil brille."
           }
         },
         {
@@ -824,7 +912,8 @@
             "de": "Rathaus von Fegersheim",
             "hu": "Fegersheim Városháza",
             "ro": "Primăria Fegersheim",
-            "en": "Fegersheim Town Hall"
+            "en": "Fegersheim Town Hall",
+            "fr": "Hôtel de ville de Fegersheim"
           },
           "coords": [
             7.679437,
@@ -839,7 +928,8 @@
             "de": "Bewundern Sie die typisch elsässische Architektur des Rathauses und achten Sie auf die Details an der Fassade, bevor Sie den Platz erkunden.",
             "hu": "Csodálja meg a városháza jellegzetes elzászi építészetét és figyeljen a homlokzat részleteire, mielőtt felfedezné a teret.",
             "ro": "Admiteți arhitectura tipic alsaciană a primăriei și fiți atenți la detaliile fațadei înainte de a explora piața centrală.",
-            "en": "Admire the typical Alsatian architecture of the town hall and pay attention to the facade details before exploring the square."
+            "en": "Admire the typical Alsatian architecture of the town hall and pay attention to the facade details before exploring the square.",
+            "fr": "Admirez l'architecture alsacienne typique de l'hôtel de ville et observez les détails de la façade avant d'explorer la place."
           }
         },
         {
@@ -847,7 +937,8 @@
             "de": "St. Mauritius Kirche",
             "hu": "Szent Móric-templom",
             "ro": "Biserica Sfântul Mauriciu",
-            "en": "St. Maurice Church"
+            "en": "St. Maurice Church",
+            "fr": "Église Saint-Maurice"
           },
           "coords": [
             7.680545,
@@ -862,7 +953,8 @@
             "de": "Betreten Sie das historische Kirchenschiff und genießen Sie die spirituelle Stille, ideal für eine kurze Besinnung am Vormittag.",
             "hu": "Lépjen be a történelmi főhajóba és élvezze a spirituális csendet, amely ideális egy rövid délelőtti elmélkedéshez.",
             "ro": "Intrați în nava istorică a bisericii și bucurați-vă de liniștea spirituală, ideală pentru o scurtă reflecție de dimineață.",
-            "en": "Step into the historic nave and enjoy the spiritual silence, ideal for a short morning reflection away from the crowds."
+            "en": "Step into the historic nave and enjoy the spiritual silence, ideal for a short morning reflection away from the crowds.",
+            "fr": "Pénétrez dans la nef historique et profitez du silence spirituel, idéal pour une brève réflexion matinale à l'écart de la foule."
           }
         },
         {
@@ -870,7 +962,8 @@
             "de": "St. Ulrich Kapelle",
             "hu": "Szent Ulrik-kápolna",
             "ro": "Capela Sfântul Ulric",
-            "en": "St. Ulrich Chapel"
+            "en": "St. Ulrich Chapel",
+            "fr": "Chapelle Saint-Ulrich"
           },
           "coords": [
             7.695892,
@@ -885,7 +978,8 @@
             "de": "Genießen Sie die ruhige Lage dieser historischen Kapelle am Rande der Stadt, ein perfekter Startpunkt für Ihre entspannte Fahrradtour.",
             "hu": "Élvezze a történelmi kápolna csendes elhelyezkedését a város szélén, amely tökéletes kiindulópontja a pihentető kerékpártúrának.",
             "ro": "Bucurați-vă de locația liniștită a acestei capele istorice la marginea orașului, un punct de plecare perfect pentru turul dumneavoastră.",
-            "en": "Enjoy the peaceful location of this historical chapel on the outskirts of the town, making it a perfect starting point for your bike tour."
+            "en": "Enjoy the peaceful location of this historical chapel on the outskirts of the town, making it a perfect starting point for your bike tour.",
+            "fr": "Profitez de l'emplacement paisible de cette chapelle historique à la périphérie de la ville, en faisant un point de départ parfait pour votre balade à vélo."
           }
         }
       ],
@@ -893,7 +987,8 @@
         "de": "Beginnen Sie Ihren Roadtrip am prähistorischen Tumulus und fahren Sie dann zur ländlichen St. Wendelin Kapelle.\nGegen Mittag erkunden Sie das Wahrzeichen Chapelle Saint-Ludan und setzen die Fahrt zur Église Saint-Gall fort.\nNachmittags besuchen Sie die Église Saint-Pancrace und fahren ins Zentrum zum charmanten Rathaus von Fegersheim.\nDer Tag endet an der St. Mauritius Kirche und der St. Ulrich Kapelle, die den historischen Kreis schließen.",
         "hu": "Kezdje autós túráját a történelem előtti halomsírnál, majd utazzon tovább a vidéki Szent Wendelin-kápolnához.\nDél körül fedezze fel a Szent Ludan-kápolnát, és folytassa útját a lenyűgöző Szent Gál-templom felé.\nDélután látogasson el a Szent Pongrác-templomhoz, majd hajtson be a központba, a fegersheimi városházához.\nA nap a Szent Móric-templomnál és a Szent Ulrik-kápolnánál zárul, amelyek teljessé teszik a történelmi utazást.",
         "ro": "Începeți excursia cu mașina la tumulul preistoric, apoi mergeți spre capela rurală Sfântul Wendelin din apropiere.\nSpre prânz, explorați Capela Sfântul Ludan și continuați călătoria către impresionanta Biserică Sfântul Gallus.\nDupă-amiaza, vizitați Biserica Sfântul Pancrațiu și mergeți în centrul orașului la primăria din Fegersheim.\nZiua se încheie la Biserica Sfântul Mauriciu și la Capela Sfântul Ulric, care completează perfect circuitul.",
-        "en": "Start your road trip at the prehistoric Tumulus, then drive to the nearby rural Chapelle Saint-Wendelin.\nAround midday, explore Chapelle Saint-Ludan and continue your scenic drive toward the impressive Église Saint-Gall.\nIn the afternoon, visit Église Saint-Pancrace and head into the town center to see the Fegersheim Town Hall.\nThe day ends at St. Maurice Church and St. Ulrich Chapel, which perfectly complete your historical journey."
+        "en": "Start your road trip at the prehistoric Tumulus, then drive to the nearby rural Chapelle Saint-Wendelin.\nAround midday, explore Chapelle Saint-Ludan and continue your scenic drive toward the impressive Église Saint-Gall.\nIn the afternoon, visit Église Saint-Pancrace and head into the town center to see the Fegersheim Town Hall.\nThe day ends at St. Maurice Church and St. Ulrich Chapel, which perfectly complete your historical journey.",
+        "fr": "Commencez votre road trip au tumulus préhistorique, puis conduisez jusqu'à la proche Chapelle Saint-Wendelin. Vers midi, explorez la Chapelle Saint-Ludan puis poursuivez votre route panoramique vers l'imposante Église Saint-Gall. L'après-midi, visitez l'Église Saint-Pancrace et rendez-vous au centre-ville pour voir l'Hôtel de ville de Fegersheim. La journée se termine à l'Église Saint-Maurice et à la Chapelle Saint-Ulrich, qui complètent parfaitement votre parcours historique."
       },
       "variants": {
         "rainy": {
@@ -901,7 +996,8 @@
             "de": "Eine gemütliche Autofahrt beginnt am Hügelgrab bei Regen. Mittags nutzen wir die Heizung zwischen den Stopps an den Kirchen. Am Nachmittag besuchen wir das Zentrum, wobei wir immer nah an den Sehenswürdigkeiten parken. Am Abend endet die Tour sicher und trocken im Fahrzeug.",
             "hu": "Egy kényelmes autós túra kezdődik a halomsírnál az esőben. Délben a fűtést használjuk a templomok közötti szakaszokon a száradáshoz. Délután a központot látogatjuk meg, mindig közel parkolva a látnivalókhoz. Este a túra biztonságban és szárazon ér véget az autóban.",
             "ro": "O călătorie confortabilă cu mașina începe la Tumul pe ploaie. La prânz folosim încălzirea între opririle de la biserici. După-amiaza vizităm centrul, parcând mereu aproape de obiective. Seara turul se încheie în siguranță și uscat în interiorul vehiculului.",
-            "en": "A comfortable car tour starts at the Tumulus in the rain. At noon, we use the heater between church stops to dry off. In the afternoon, we visit the center, always parking close to the sights. The tour ends safely and dry inside the vehicle in the evening."
+            "en": "A comfortable car tour starts at the Tumulus in the rain. At noon, we use the heater between church stops to dry off. In the afternoon, we visit the center, always parking close to the sights. The tour ends safely and dry inside the vehicle in the evening.",
+            "fr": "Une visite en voiture confortable commence au tumulus sous la pluie. À midi, nous utilisons le chauffage entre les arrêts d'églises pour nous sécher. L'après-midi, nous visitons le centre-ville en nous garant toujours près des sites. La visite se termine en sécurité et au sec à l'intérieur du véhicule le soir."
           },
           "stops": [
             {
@@ -909,13 +1005,15 @@
                 "de": "Hügelgrab (Tumulus)",
                 "hu": "Halomsír (Tumulus)",
                 "ro": "Tumul",
-                "en": "Tumulus"
+                "en": "Tumulus",
+                "fr": "Tumulus"
               },
               "tip_5lang": {
                 "de": "Betrachten Sie den antiken Hügel bei starkem Regen vom Auto aus; der nahegelegene Parkplatz kann nach dem Regen schlammig sein.",
                 "hu": "Nézze meg az ősi dombot az autóból, ha felerősödik a zápor; a közeli parkoló sártengerré válhat egy kiadós eső után.",
                 "ro": "Priviți tumulul antic din mașină dacă ploaia este puternică; parcarea din apropiere poate fi noroioasă după ploaie.",
-                "en": "View the ancient mound from your car if the downpour is heavy; the nearby parking area can be muddy after rain."
+                "en": "View the ancient mound from your car if the downpour is heavy; the nearby parking area can be muddy after rain.",
+                "fr": "Admirez le tertre ancien depuis votre voiture si l'averse est forte ; l'aire de stationnement voisine peut être boueuse après la pluie."
               }
             },
             {
@@ -923,13 +1021,15 @@
                 "de": "St. Wendelin Kapelle",
                 "hu": "Szent Wendelin-kápolna",
                 "ro": "Capela Sfântul Wendelin",
-                "en": "Chapelle Saint-Wendelin"
+                "en": "Chapelle Saint-Wendelin",
+                "fr": "Chapelle Saint-Wendelin"
               },
               "tip_5lang": {
                 "de": "Parken Sie nah am Eingang, um die Zeit im Regen zu minimieren; das Innere der Kapelle ist ein trockener Zufluchtsort.",
                 "hu": "Parkoljon közvetlenül a bejáratnál, hogy ne ázzon meg; a kápolna belső tere száraz menedéket nyújt a látogatás idejére.",
                 "ro": "Parcați aproape de intrare pentru a minimiza timpul petrecut în ploaie; interiorul capelei este un refugiu uscat.",
-                "en": "Park close to the entrance to minimize time in the rain; the chapel's interior is a dry haven for a peaceful visit."
+                "en": "Park close to the entrance to minimize time in the rain; the chapel's interior is a dry haven for a peaceful visit.",
+                "fr": "Garez-vous près de l'entrée pour minimiser le temps sous la pluie ; l'intérieur de la chapelle est un havre sec pour une visite paisible."
               }
             },
             {
@@ -937,13 +1037,15 @@
                 "de": "St. Ludan Kapelle",
                 "hu": "Szent Ludan-kápolna",
                 "ro": "Capela Sfântul Ludan",
-                "en": "Chapelle Saint-Ludan"
+                "en": "Chapelle Saint-Ludan",
+                "fr": "Chapelle Saint-Ludan"
               },
               "tip_5lang": {
                 "de": "Ein kurzer Sprint vom Auto zum Denkmal; halten Sie ein trockenes Handtuch im Wagen bereit, um Feuchtigkeit abzuwischen.",
                 "hu": "Csak egy rövid vágta az autótól az emlékműig; tartson egy száraz törölközőt a kocsiban a nedvesség letörléséhez.",
                 "ro": "O scurtă fugă de la mașină la monument; păstrați un prosop uscat în vehicul pentru a șterge umezeala rapid.",
-                "en": "A short dash from the car to the landmark; keep a dry towel in the vehicle to wipe off any moisture before driving."
+                "en": "A short dash from the car to the landmark; keep a dry towel in the vehicle to wipe off any moisture before driving.",
+                "fr": "Une courte course depuis la voiture jusqu'au monument ; gardez une serviette sèche dans le véhicule pour essuyer l'humidité avant de reprendre la route."
               }
             },
             {
@@ -951,13 +1053,15 @@
                 "de": "St. Gallus Kirche",
                 "hu": "Szent Gál-templom",
                 "ro": "Biserica Sfântul Gallus",
-                "en": "Église Saint-Gall"
+                "en": "Église Saint-Gall",
+                "fr": "Église Saint-Gall"
               },
               "tip_5lang": {
                 "de": "Nutzen Sie den Parkplatz in der Nähe; der Weg zur Kirche ist kurz, aber ein großer Schirm hält Sie und Ihre Begleiter trocken.",
                 "hu": "Használja a közeli kijelölt parkolót; az út a templomig rövid, de egy nagy esernyő jól jön a többieknek is.",
                 "ro": "Folosiți parcarea dedicată din apropiere; drumul până la biserică este scurt, dar o umbrelă mare vă va menține uscați.",
-                "en": "Use the dedicated parking area nearby; the walk to the church is short, but a large umbrella will keep everyone dry."
+                "en": "Use the dedicated parking area nearby; the walk to the church is short, but a large umbrella will keep everyone dry.",
+                "fr": "Utilisez l'aire de stationnement dédiée à proximité ; la marche jusqu'à l'église est courte, mais un grand parapluie gardera tout le monde au sec."
               }
             },
             {
@@ -965,13 +1069,15 @@
                 "de": "St. Pankratius Kirche",
                 "hu": "Szent Pongrác-templom",
                 "ro": "Biserica Sfântul Pancrațiu",
-                "en": "Église Saint-Pancrace"
+                "en": "Église Saint-Pancrace",
+                "fr": "Église Saint-Pancrace"
               },
               "tip_5lang": {
                 "de": "Die Fahrt zwischen den Stopps ist ideal, um feuchte Kleidung mit der Heizung zu trocknen; achten Sie auf Pfützen auf der Straße.",
                 "hu": "A megállók közötti vezetés ideális a nyirkos ruhák megszárítására a fűtéssel; figyeljen az úton lévő mélyebb tócsákra.",
                 "ro": "Drumul dintre opriri este momentul ideal pentru a usca hainele cu încălzirea; atenție la bălțile de pe șosea.",
-                "en": "The drive between stops is the perfect time to use the car's heater to dry damp clothes; watch for puddles on the road."
+                "en": "The drive between stops is the perfect time to use the car's heater to dry damp clothes; watch for puddles on the road.",
+                "fr": "La route entre les étapes est le moment idéal pour utiliser le chauffage de la voiture afin de sécher les vêtements humides ; faites attention aux flaques sur la route."
               }
             },
             {
@@ -979,13 +1085,15 @@
                 "de": "Rathaus von Fegersheim",
                 "hu": "Fegersheim Városháza",
                 "ro": "Primăria Fegersheim",
-                "en": "Fegersheim Town Hall"
+                "en": "Fegersheim Town Hall",
+                "fr": "Hôtel de ville de Fegersheim"
               },
               "tip_5lang": {
                 "de": "Günstige Parkmöglichkeiten am Straßenrand erlauben einen kurzen Besuch; das Zentrum ist auch an trüben Regentagen gut beleuchtet.",
                 "hu": "A kényelmes utcai parkolás lehetővé teszi a gyors látogatást; a központ még a legborúsabb esős napokon is jól megvilágított.",
                 "ro": "Parcarea convenabilă pe stradă permite o vizită scurtă; centrul este bine iluminat chiar și în cele mai mohorâte zile.",
-                "en": "Convenient street parking allows for a quick visit; the civic center is well-lit even on the gloomiest rainy days."
+                "en": "Convenient street parking allows for a quick visit; the civic center is well-lit even on the gloomiest rainy days.",
+                "fr": "Le stationnement en voirie pratique permet une visite rapide ; le centre civique est bien éclairé même par les jours les plus gris."
               }
             },
             {
@@ -993,13 +1101,15 @@
                 "de": "St. Mauritius Kirche",
                 "hu": "Szent Móric-templom",
                 "ro": "Biserica Sfântul Mauriciu",
-                "en": "St. Maurice Church"
+                "en": "St. Maurice Church",
+                "fr": "Église Saint-Maurice"
               },
               "tip_5lang": {
                 "de": "Die Kirche ist nur wenige Schritte vom Parkplatz entfernt; genießen Sie die Architektur, während Sie dem Regen auf dem Dach lauschen.",
                 "hu": "A templom csak néhány lépésre van a parkolótól; élvezze a belső részleteket, miközben hallgatja a tetőn kopogó esőt.",
                 "ro": "Biserica este la doar câțiva pași de parcare; admirați detaliile în timp ce ascultați ploaia bătând în acoperiș.",
-                "en": "The church is just steps from the parking; enjoy the architectural details while listening to the rain on the roof."
+                "en": "The church is just steps from the parking; enjoy the architectural details while listening to the rain on the roof.",
+                "fr": "L'église se trouve à quelques pas du parking ; profitez des détails architecturaux tout en écoutant la pluie sur le toit."
               }
             },
             {
@@ -1007,13 +1117,15 @@
                 "de": "St. Ulrich Kapelle",
                 "hu": "Szent Ulrik-kápolna",
                 "ro": "Capela Sfântul Ulric",
-                "en": "St. Ulrich Chapel"
+                "en": "St. Ulrich Chapel",
+                "fr": "Chapelle Saint-Ulrich"
               },
               "tip_5lang": {
                 "de": "Der letzte Halt liegt etwas außerhalb; stellen Sie sicher, dass Ihre Scheibenwischer für die Fahrt über das Land in gutem Zustand sind.",
                 "hu": "Az utolsó állomás kissé kiesik a városból; győződjön meg róla, hogy az ablaktörlők jól működnek az országúti vezetéshez.",
                 "ro": "Ultima oprire este ceva mai departe; asigurați-vă că ștergătoarele sunt în stare bună pentru drumul prin mediul rural.",
-                "en": "The final stop is a bit further out; ensure your windshield wipers are in good condition for the countryside drive."
+                "en": "The final stop is a bit further out; ensure your windshield wipers are in good condition for the countryside drive.",
+                "fr": "Le dernier arrêt est un peu plus éloigné ; vérifiez que vos essuie-glaces sont en bon état pour la route de campagne."
               }
             }
           ]
@@ -1023,7 +1135,8 @@
             "de": "Eine winterliche Autofahrt beginnt am Hügelgrab in der Frostlandschaft. Mittags wärmen wir uns in den Kirchen auf, während das Auto vorgeheizt wird. Am Nachmittag besuchen wir die Denkmäler vor dem Sonnenuntergang um 17:00 Uhr. Der Tag endet mit einer gemütlichen Fahrt durch das beleuchtete Dorf.",
             "hu": "A téli autós túra a halomsírnál kezdődik a zúzmarás tájban. Délben a templomokban melegszünk fel, miközben az autó is átmelegszik. Délután a műemlékeket látogatjuk meg a 17 órai naplemente előtt. A nap végén kényelmesen autózunk át a kivilágított falun.",
             "ro": "O călătorie de iarnă cu mașina începe la Tumul în peisajul înghețat. La prânz ne încălzim în biserici în timp ce mașina se dezgheață. După-amiaza vizităm monumentele înainte de apusul de la ora 17:00. Ziua se încheie cu o plimbare prin satul iluminat.",
-            "en": "A winter car tour starts at the Tumulus in the frosty landscape. At noon, we warm up inside churches while the car preheats. In the afternoon, we visit monuments before the 5 PM sunset. The day ends with a cozy drive through the illuminated village streets."
+            "en": "A winter car tour starts at the Tumulus in the frosty landscape. At noon, we warm up inside churches while the car preheats. In the afternoon, we visit monuments before the 5 PM sunset. The day ends with a cozy drive through the illuminated village streets.",
+            "fr": "Une excursion en voiture hivernale commence au tumulus dans le paysage givré. À midi, nous nous réchauffons à l'intérieur des églises pendant que la voiture préchauffe. L'après-midi, nous visitons des monuments avant le coucher du soleil à 17:00. La journée se termine par une agréable promenade en voiture à travers les rues du village illuminées."
           },
           "stops": [
             {
@@ -1031,13 +1144,15 @@
                 "de": "Hügelgrab (Tumulus)",
                 "hu": "Halomsír (Tumulus)",
                 "ro": "Tumul",
-                "en": "Tumulus"
+                "en": "Tumulus",
+                "fr": "Tumulus"
               },
               "tip_5lang": {
                 "de": "Die antike Stätte ist im Frost wunderschön; die Autoheizung macht den Wechsel zwischen den Außenansichten viel angenehmer.",
                 "hu": "Az ősi helyszín gyönyörű a zúzmarában; az autó fűtése sokkal kényelmesebbé teszi a váltást a külső nézelődés után.",
                 "ro": "Situl antic este superb în îngheț; încălzirea mașinii face tranziția între vizitele în aer liber mult mai confortabilă.",
-                "en": "The ancient site is beautiful in the frost; the car's heater makes the transition between outdoor views much more comfortable."
+                "en": "The ancient site is beautiful in the frost; the car's heater makes the transition between outdoor views much more comfortable.",
+                "fr": "Le site ancien est superbe sous le givre ; le chauffage de la voiture rend les transitions entre les vues extérieures bien plus confortables."
               }
             },
             {
@@ -1045,13 +1160,15 @@
                 "de": "St. Wendelin Kapelle",
                 "hu": "Szent Wendelin-kápolna",
                 "ro": "Capela Sfântul Wendelin",
-                "en": "Chapelle Saint-Wendelin"
+                "en": "Chapelle Saint-Wendelin",
+                "fr": "Chapelle Saint-Wendelin"
               },
               "tip_5lang": {
                 "de": "Besuchen Sie diese Kapelle, um die winterliche Stille zu genießen; achten Sie auf mögliche Eisstellen auf dem kleinen Parkplatz.",
                 "hu": "Látogassa meg ezt a kápolnát a téli csend élvezetéhez; ügyeljen a jeges foltokra a közeli kis parkolóban.",
                 "ro": "Vizitați această capelă pentru a vă bucura de liniștea iernii; atenție la gheața din mica parcare din apropiere.",
-                "en": "Visit this quiet chapel to enjoy the winter silence; be mindful of potentially icy patches in the small parking area nearby."
+                "en": "Visit this quiet chapel to enjoy the winter silence; be mindful of potentially icy patches in the small parking area nearby.",
+                "fr": "Visitez cette chapelle tranquille pour profiter du silence hivernal ; soyez attentif aux plaques potentiellement verglacées dans la petite aire de stationnement proche."
               }
             },
             {
@@ -1059,13 +1176,15 @@
                 "de": "St. Ludan Kapelle",
                 "hu": "Szent Ludan-kápolna",
                 "ro": "Capela Sfântul Ludan",
-                "en": "Chapelle Saint-Ludan"
+                "en": "Chapelle Saint-Ludan",
+                "fr": "Chapelle Saint-Ludan"
               },
               "tip_5lang": {
                 "de": "Ein kurzer Halt; die klare Winterluft ermöglicht oft eine bessere Sicht auf die umliegende elsässische Landschaft.",
                 "hu": "Csak egy rövid megálló; a tiszta téli levegő gyakran jobb kilátást tesz lehetővé a környező elzászi tájra.",
                 "ro": "O oprire scurtă; aerul clar de iarnă permite adesea o vizibilitate mai bună asupra peisajului alsacian din jur.",
-                "en": "A quick stop to admire the monument; the clear winter air often allows for better visibility of the surrounding landscape."
+                "en": "A quick stop to admire the monument; the clear winter air often allows for better visibility of the surrounding landscape.",
+                "fr": "Un arrêt rapide pour admirer le monument ; l'air clair d'hiver permet souvent une meilleure visibilité du paysage environnant."
               }
             },
             {
@@ -1073,13 +1192,15 @@
                 "de": "St. Gallus Kirche",
                 "hu": "Szent Gál-templom",
                 "ro": "Biserica Sfântul Gallus",
-                "en": "Église Saint-Gall"
+                "en": "Église Saint-Gall",
+                "fr": "Église Saint-Gall"
               },
               "tip_5lang": {
                 "de": "Der Steininnenraum kann kühl sein, lassen Sie Ihren Mantel an; die kurze Fahrt hierher lässt Ihre Hände wieder warm werden.",
                 "hu": "A kőfalak között hűvös lehet, tartsa magán a kabátját; a rövid autózás alatt újra felmelegítheti a kezeit.",
                 "ro": "Interiorul de piatră poate fi răcoros, păstrați haina pe dvs.; drumul scurt până aici vă permite să vă încălziți mâinile.",
-                "en": "The stone interior can be chilly, so keep your coat on; the short drive here allows you to warm up your hands again."
+                "en": "The stone interior can be chilly, so keep your coat on; the short drive here allows you to warm up your hands again.",
+                "fr": "L'intérieur en pierre peut être frais, gardez votre manteau ; le court trajet pour y aller vous permet de réchauffer vos mains à nouveau."
               }
             },
             {
@@ -1087,13 +1208,15 @@
                 "de": "St. Pankratius Kirche",
                 "hu": "Szent Pongrác-templom",
                 "ro": "Biserica Sfântul Pancrațiu",
-                "en": "Église Saint-Pancrace"
+                "en": "Église Saint-Pancrace",
+                "fr": "Église Saint-Pancrace"
               },
               "tip_5lang": {
                 "de": "Planen Sie den Besuch vor Sonnenuntergang um 17:00 Uhr; die Fassade wirkt in der goldenen Stunde besonders eindrucksvoll.",
                 "hu": "Tervezze a látogatást a 17 órai naplemente elé; az épület homlokzata különösen lenyűgöző az aranyóra fényeiben.",
                 "ro": "Plănuiți vizita înainte de apusul de la ora 17:00; fațada clădirii arată spectaculos în lumina orei de aur.",
-                "en": "Plan your visit to see the church before the 17:00 sunset; the facade looks particularly striking in the golden hour light."
+                "en": "Plan your visit to see the church before the 17:00 sunset; the facade looks particularly striking in the golden hour light.",
+                "fr": "Planifiez votre visite pour voir l'église avant le coucher du soleil à 17:00 ; la façade est particulièrement remarquable à l'heure dorée."
               }
             },
             {
@@ -1101,13 +1224,15 @@
                 "de": "Rathaus von Fegersheim",
                 "hu": "Fegersheim Városháza",
                 "ro": "Primăria Fegersheim",
-                "en": "Fegersheim Town Hall"
+                "en": "Fegersheim Town Hall",
+                "fr": "Hôtel de ville de Fegersheim"
               },
               "tip_5lang": {
                 "de": "Das Herz des Dorfes wirkt im Winter gemütlich; Parken ist einfach und die nahen Geschäfte sind oft festlich dekoriert.",
                 "hu": "A falu szíve barátságos télen; a parkolás egyszerű, a közeli üzletek pedig gyakran ünnepi díszben pompáznak.",
                 "ro": "Inima satului pare primitoare iarna; parcarea este ușoară, iar magazinele din apropiere sunt adesea decorate festiv.",
-                "en": "The heart of the village feels cozy in winter; parking is easy, and nearby shops often have festive decorations."
+                "en": "The heart of the village feels cozy in winter; parking is easy, and nearby shops often have festive decorations.",
+                "fr": "Le cœur du village paraît chaleureux en hiver ; le stationnement est facile et les boutiques à proximité affichent souvent des décorations festives."
               }
             },
             {
@@ -1115,13 +1240,15 @@
                 "de": "St. Mauritius Kirche",
                 "hu": "Szent Móric-templom",
                 "ro": "Biserica Sfântul Mauriciu",
-                "en": "St. Maurice Church"
+                "en": "St. Maurice Church",
+                "fr": "Église Saint-Maurice"
               },
               "tip_5lang": {
                 "de": "Verweilen Sie im geschützten Kirchenschiff; der Nachmittagskälte entgeht man am besten in diesem beeindruckenden Sakralbau.",
                 "hu": "Időzzön el a védett templomhajóban; a délutáni hideget legkönnyebben ebben a lenyűgöző szakrális térben kerülheti el.",
                 "ro": "Zăboviți în naosul protejat; frigul după-amiezii este cel mai bine evitat în acest spațiu sacru impresionant.",
-                "en": "Spend time in the sheltered nave; the afternoon cold is best avoided by lingering in this impressive religious space."
+                "en": "Spend time in the sheltered nave; the afternoon cold is best avoided by lingering in this impressive religious space.",
+                "fr": "Passez du temps dans la nef abritée ; le froid de l'après-midi est mieux évité en restant dans cet impressionnant espace religieux."
               }
             },
             {
@@ -1129,13 +1256,15 @@
                 "de": "St. Ulrich Kapelle",
                 "hu": "Szent Ulrik-kápolna",
                 "ro": "Capela Sfântul Ulric",
-                "en": "St. Ulrich Chapel"
+                "en": "St. Ulrich Chapel",
+                "fr": "Chapelle Saint-Ulrich"
               },
               "tip_5lang": {
                 "de": "Beenden Sie die Tour an diesem malerischen Ort; prüfen Sie bei der Rückfahrt in der Dunkelheit Ihre Scheinwerfer.",
                 "hu": "Fejezze be a túrát ezen a festői helyen; a sötétedés miatt ellenőrizze a fényszórókat a hazaúthoz.",
                 "ro": "Încheiați turul în acest loc pitoresc; verificați farurile pentru drumul de întoarcere pe întuneric.",
-                "en": "Finish your tour at this scenic spot; the early darkness means you'll drive back in the evening, so check your lamps."
+                "en": "Finish your tour at this scenic spot; the early darkness means you'll drive back in the evening, so check your lamps.",
+                "fr": "Terminez votre visite à cet endroit pittoresque ; l'obscurité précoce signifie que vous rentrerez le soir, vérifiez donc vos feux."
               }
             }
           ]

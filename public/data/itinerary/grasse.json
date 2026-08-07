@@ -21,7 +21,8 @@
             "de": "Place des Aires",
             "hu": "Place des Aires",
             "ro": "Place des Aires",
-            "en": "Place des Aires"
+            "en": "Place des Aires",
+            "fr": "Place des Aires"
           },
           "coords": [
             6.9238,
@@ -37,7 +38,7 @@
             "hu": "Csodáld meg a sárgás homlokzatokat és a reggeli virágpiacot.",
             "ro": "Admirați fațadele ocru și piața de flori de dimineață.",
             "en": "Admire the ochre facades and the flower market in the morning.",
-            "fr": "Admirez les façades ocres et le marché aux fleurs le matin."
+            "fr": "Admirez les façades ocre et le marché aux fleurs le matin."
           }
         },
         {
@@ -45,7 +46,8 @@
             "de": "Kathedrale Notre-Dame-du-Puy",
             "hu": "Notre-Dame-du-Puy székesegyház",
             "ro": "Catedrala Notre-Dame-du-Puy",
-            "en": "Notre-Dame-du-Puy Cathedral"
+            "en": "Notre-Dame-du-Puy Cathedral",
+            "fr": "Cathédrale Notre-Dame-du-Puy"
           },
           "coords": [
             6.9239,
@@ -61,7 +63,7 @@
             "hu": "Keresd meg a belső térben Rubens három festményét.",
             "ro": "Căutați cele trei picturi de Rubens în interior.",
             "en": "Look for the three paintings by Rubens inside.",
-            "fr": "Cherchez les trois peintures de Rubens à l'intérieur."
+            "fr": "Cherchez les trois peintures de Rubens à l’intérieur."
           }
         },
         {
@@ -69,7 +71,8 @@
             "de": "Parfumerie Fragonard - Historische Fabrik",
             "hu": "Fragonard Parfüméria - Történelmi gyár",
             "ro": "Parfumerie Fragonard - Fabrica Istorică",
-            "en": "Fragonard Perfumery - Historic Factory"
+            "en": "Fragonard Perfumery - Historic Factory",
+            "fr": "Parfumerie Fragonard - Usine historique"
           },
           "coords": [
             6.923,
@@ -93,7 +96,8 @@
             "de": "Provenzalisches Mittagessen",
             "hu": "Provence-i ebéd",
             "ro": "Prânz provensal",
-            "en": "Provencal Lunch"
+            "en": "Provencal Lunch",
+            "fr": "Déjeuner provençal"
           },
           "coords": [
             6.9225,
@@ -109,7 +113,7 @@
             "hu": "Kóstold meg a Lou Fassumot, Grasse hagyományos töltött káposztáját.",
             "ro": "Gustați Lou Fassum, mâncarea tradițională de varză din Grasse.",
             "en": "Taste Lou Fassum, the traditional cabbage dish of Grasse.",
-            "fr": "Goûtez le Lou Fassum, le plat de chou traditionnel de Grasse."
+            "fr": "Goûtez Lou Fassum, le plat traditionnel de chou de Grasse."
           }
         },
         {
@@ -117,7 +121,8 @@
             "de": "Internationales Parfümmuseum (MIP)",
             "hu": "Nemzetközi Parfümmúzeum",
             "ro": "Muzeul Internațional al Parfumului",
-            "en": "International Perfume Museum"
+            "en": "International Perfume Museum",
+            "fr": "Musée International de la Parfumerie"
           },
           "coords": [
             6.9219,
@@ -133,7 +138,7 @@
             "hu": "Fedezd fel a parfümkészítés 4000 éves történelmét.",
             "ro": "Descoperiți istoria de 4000 de ani a parfumului.",
             "en": "Discover the 4000-year history of perfume.",
-            "fr": "Découvrez les 4000 ans d'histoire du parfum."
+            "fr": "Découvrez les 4000 ans d’histoire du parfum."
           }
         },
         {
@@ -141,7 +146,8 @@
             "de": "Villa Musée Fragonard",
             "hu": "Villa Musée Fragonard",
             "ro": "Villa Musée Fragonard",
-            "en": "Villa Musée Fragonard"
+            "en": "Villa Musée Fragonard",
+            "fr": "Villa Musée Fragonard"
           },
           "coords": [
             6.9225,
@@ -157,7 +163,7 @@
             "hu": "Csodáld meg a lépcsőház gyönyörű freskóit.",
             "ro": "Admirați frescele superbe din casa scării.",
             "en": "Admire the beautiful staircase frescoes.",
-            "fr": "Admirez les magnifiques fresques de l'escalier."
+            "fr": "Admirez les magnifiques fresques de l’escalier."
           }
         },
         {
@@ -165,7 +171,8 @@
             "de": "Altstadt-Shopping",
             "hu": "Óvárosi vásárlás",
             "ro": "Cumpărături în centrul vechi",
-            "en": "Old Town Shopping"
+            "en": "Old Town Shopping",
+            "fr": "Boutiques de la vieille ville"
           },
           "coords": [
             6.9235,
@@ -181,7 +188,7 @@
             "hu": "Vegyél kézműves szappanokat és helyi levendulatermékeket.",
             "ro": "Luați săpunuri artizanale și produse locale cu lavandă.",
             "en": "Pick up handmade soaps and local lavender products.",
-            "fr": "Achetez des savons artisanaux et des produits à base de lavande locale."
+            "fr": "Achetez des savons artisanaux et des produits locaux à la lavande."
           }
         }
       ],
@@ -190,7 +197,7 @@
         "hu": "Kezdje a napot a bájos Place des Aires téren, ahol a friss virágok illata tölti be a levegőt. Egy rövid séta vezet a székesegyházhoz, amely rejtett művészeti kincseket őriz. Délben merüljön el a parfümkészítés világában a Fragonard gyárában, majd fogyasszon el egy bőséges provence-i ebédet az óváros szűk utcáin. A délután az illatok mély történelmének és az elegáns Villa Fragonard felfedezésének ideje. A napot az iparművészeti boltok közötti böngészés zárja, miközben az esti nap meleg fénybe vonja az ódon falakat.",
         "ro": "Începeți ziua în fermecătoarea Place des Aires, unde parfumul florilor proaspete umple aerul. O scurtă plimbare vă duce la catedrală, o bijuterie arhitecturală cu comori artistice ascunse. La prânz, scufundați-vă în lumea fabricării parfumurilor la Fragonard, urmat de o masă provensală copioasă pe străzile înguste ale centrului vechi. După-amiaza este dedicată istoriei profunde a aromelor la MIP și elegantei Villa Fragonard. Încheiați cu o plimbare prin magazinele de artizanat, în timp ce soarele serii scaldă zidurile ocru într-o lumină caldă.",
         "en": "Start your day at the charming Place des Aires, where the scent of fresh flowers fills the air. A short stroll leads to the cathedral, an architectural gem housing hidden art treasures. At midday, dive into the world of perfume making at Fragonard, followed by a hearty Provencal lunch in the narrow alleys of the old town. The afternoon is dedicated to the deep history of scents at the MIP and the elegant Villa Fragonard. Finish with a wander through boutique craft shops as the evening sun bathes the ochre walls in warm light.",
-        "fr": "Commencez votre journée sur la charmante Place des Aires, où le parfum des fleurs fraîches embaume l'air. Une courte promenade vous mène à la cathédrale, un joyau architectural abritant des trésors artistiques cachés. À la mi-journée, plongez dans l'univers de la parfumerie chez Fragonard, suivi d'un copieux déjeuner provençal dans les ruelles étroites de la vieille ville. L'après-midi est consacré à l'histoire profonde des senteurs au MIP et à l'élégante Villa Fragonard. Terminez par une flânerie dans les boutiques artisanales alors que le soleil couchant baigne les murs ocres d'une lumière chaude."
+        "fr": "Commencez votre journée à la charmante Place des Aires, où le parfum des fleurs fraîches emplit l’air. Une courte promenade mène à la cathédrale, un joyau architectural abritant des trésors d’art cachés. À midi, plongez dans l’univers de la parfumerie chez Fragonard, suivi d’un copieux déjeuner provençal dans les ruelles étroites de la vieille ville. L’après-midi est consacré à la riche histoire des senteurs au MIP et à l’élégante Villa Fragonard. Terminez par une flânerie dans les boutiques d’artisanat tandis que le soleil du soir baigne les murs ocres d’une lumière chaude."
       },
       "gastro_picks": {
         "de": [
@@ -430,9 +437,9 @@
         ],
         "fr": [
           "Portez des chaussures confortables car la vieille ville comporte de nombreux escaliers raides.",
-          "Réservez vos ateliers de parfum au moins une semaine à l'avance.",
+          "Réservez les ateliers de parfumerie au moins une semaine à l’avance.",
           "Visitez en mai pour le parfum des roses Centifolia.",
-          "La plupart des musées restent ouverts pendant les heures de déjeuner, mais vérifiez sur place."
+          "La plupart des musées restent ouverts pendant l’heure du déjeuner, mais vérifiez localement."
         ]
       },
       "variants": {
@@ -441,7 +448,8 @@
             "de": "Beginnen Sie Ihren Tag auf der charmanten Place des Aires, wo der Duft frischer Blumen die Luft erfüllt. Ein kurzer Spaziergang führt Sie zur Kathedrale, einem architektonischen Juwel mit versteckten Kunstschätzen. Mittags tauchen Sie in die Welt der Parfümherstellung bei Fragonard ein, gefolgt von einem herzhaften provenzalischen Essen in den engen Gassen der Altstadt. Der Nachmittag ist der tiefen Geschichte der Düfte im MIP und der eleganten Villa Fragonard gewidmet. Den Abschluss bildet ein Bummel durch die Kunsthandwerksläden, während die Abendsonne die ockerfarbenen Mauern in warmes Licht taucht.",
             "hu": "Kezdje a napot a bájos Place des Aires téren, ahol a friss virágok illata tölti be a levegőt. Egy rövid séta vezet a székesegyházhoz, amely rejtett művészeti kincseket őriz. Délben merüljön el a parfümkészítés világában a Fragonard gyárában, majd fogyasszon el egy bőséges provence-i ebédet az óváros szűk utcáin. A délután az illatok mély történelmének és az elegáns Villa Fragonard felfedezésének ideje. A napot az iparművészeti boltok közötti böngészés zárja, miközben az esti nap meleg fénybe vonja az ódon falakat.",
             "ro": "Începeți ziua în fermecătoarea Place des Aires, unde parfumul florilor proaspete umple aerul. O scurtă plimbare vă duce la catedrală, o bijuterie arhitecturală cu comori artistice ascunse. La prânz, scufundați-vă în lumea fabricării parfumurilor la Fragonard, urmat de o masă provensală copioasă pe străzile înguste ale centrului vechi. După-amiaza este dedicată istoriei profunde a aromelor la MIP și elegantei Villa Fragonard. Încheiați cu o plimbare prin magazinele de artizanat, în timp ce soarele serii scaldă zidurile ocru într-o lumină caldă.",
-            "en": "Start your day at the charming Place des Aires, where the scent of fresh flowers fills the air. A short stroll leads to the cathedral, an architectural gem housing hidden art treasures. At midday, dive into the world of perfume making at Fragonard, followed by a hearty Provencal lunch in the narrow alleys of the old town. The afternoon is dedicated to the deep history of scents at the MIP and the elegant Villa Fragonard. Finish with a wander through boutique craft shops as the evening sun bathes the ochre walls in warm light."
+            "en": "Start your day at the charming Place des Aires, where the scent of fresh flowers fills the air. A short stroll leads to the cathedral, an architectural gem housing hidden art treasures. At midday, dive into the world of perfume making at Fragonard, followed by a hearty Provencal lunch in the narrow alleys of the old town. The afternoon is dedicated to the deep history of scents at the MIP and the elegant Villa Fragonard. Finish with a wander through boutique craft shops as the evening sun bathes the ochre walls in warm light.",
+            "fr": "Commencez votre journée à la charmante Place des Aires, où le parfum des fleurs fraîches emplit l’air. Une courte promenade mène à la cathédrale, un joyau architectural abritant des trésors d’art cachés. À midi, plongez dans l’univers de la parfumerie chez Fragonard, suivi d’un copieux déjeuner provençal dans les ruelles étroites de la vieille ville. L’après-midi est consacré à la riche histoire des senteurs au MIP et à l’élégante Villa Fragonard. Terminez par une flânerie dans les boutiques d’artisanat tandis que le soleil du soir baigne les murs ocres d’une lumière chaude."
           },
           "stops": [
             {
@@ -449,13 +457,15 @@
                 "de": "Place des Aires",
                 "hu": "Place des Aires",
                 "ro": "Place des Aires",
-                "en": "Place des Aires"
+                "en": "Place des Aires",
+                "fr": "Place des Aires"
               },
               "tip_5lang": {
                 "de": "Bewundern Sie die ockerfarbenen Fassaden und den Blumenmarkt am Morgen.",
                 "hu": "Csodáld meg a sárgás homlokzatokat és a reggeli virágpiacot.",
                 "ro": "Admirați fațadele ocru și piața de flori de dimineață.",
-                "en": "Admire the ochre facades and the flower market in the morning."
+                "en": "Admire the ochre facades and the flower market in the morning.",
+                "fr": "Admirez les façades ocre et le marché aux fleurs le matin."
               }
             },
             {
@@ -463,13 +473,15 @@
                 "de": "Kathedrale Notre-Dame-du-Puy",
                 "hu": "Notre-Dame-du-Puy székesegyház",
                 "ro": "Catedrala Notre-Dame-du-Puy",
-                "en": "Notre-Dame-du-Puy Cathedral"
+                "en": "Notre-Dame-du-Puy Cathedral",
+                "fr": "Cathédrale Notre-Dame-du-Puy"
               },
               "tip_5lang": {
                 "de": "Suchen Sie im Inneren nach den drei Gemälden von Rubens.",
                 "hu": "Keresd meg a belső térben Rubens három festményét.",
                 "ro": "Căutați cele trei picturi de Rubens în interior.",
-                "en": "Look for the three paintings by Rubens inside."
+                "en": "Look for the three paintings by Rubens inside.",
+                "fr": "Cherchez les trois peintures de Rubens à l’intérieur."
               }
             },
             {
@@ -477,13 +489,15 @@
                 "de": "Parfumerie Fragonard - Historische Fabrik",
                 "hu": "Fragonard Parfüméria - Történelmi gyár",
                 "ro": "Parfumerie Fragonard - Fabrica Istorică",
-                "en": "Fragonard Perfumery - Historic Factory"
+                "en": "Fragonard Perfumery - Historic Factory",
+                "fr": "Parfumerie Fragonard - Usine historique"
               },
               "tip_5lang": {
                 "de": "Die geführten Touren sind kostenlos und sehr informativ.",
                 "hu": "A vezetett túrák ingyenesek és nagyon informatívak.",
                 "ro": "Tururile ghidate sunt gratuite și foarte informative.",
-                "en": "The guided tours are free and very informative."
+                "en": "The guided tours are free and very informative.",
+                "fr": "Les visites guidées sont gratuites et très instructives."
               }
             },
             {
@@ -491,13 +505,15 @@
                 "de": "Provenzalisches Mittagessen",
                 "hu": "Provence-i ebéd",
                 "ro": "Prânz provensal",
-                "en": "Provencal Lunch"
+                "en": "Provencal Lunch",
+                "fr": "Déjeuner provençal"
               },
               "tip_5lang": {
                 "de": "Probieren Sie Lou Fassum, das traditionelle Kohlgericht aus Grasse.",
                 "hu": "Kóstold meg a Lou Fassumot, Grasse hagyományos töltött káposztáját.",
                 "ro": "Gustați Lou Fassum, mâncarea tradițională de varză din Grasse.",
-                "en": "Taste Lou Fassum, the traditional cabbage dish of Grasse."
+                "en": "Taste Lou Fassum, the traditional cabbage dish of Grasse.",
+                "fr": "Goûtez Lou Fassum, le plat traditionnel de chou de Grasse."
               }
             },
             {
@@ -505,13 +521,15 @@
                 "de": "Internationales Parfümmuseum (MIP)",
                 "hu": "Nemzetközi Parfümmúzeum",
                 "ro": "Muzeul Internațional al Parfumului",
-                "en": "International Perfume Museum"
+                "en": "International Perfume Museum",
+                "fr": "Musée International de la Parfumerie"
               },
               "tip_5lang": {
                 "de": "Entdecken Sie die 4000-jährige Geschichte des Parfüms.",
                 "hu": "Fedezd fel a parfümkészítés 4000 éves történelmét.",
                 "ro": "Descoperiți istoria de 4000 de ani a parfumului.",
-                "en": "Discover the 4000-year history of perfume."
+                "en": "Discover the 4000-year history of perfume.",
+                "fr": "Découvrez les 4000 ans d’histoire du parfum."
               }
             },
             {
@@ -519,13 +537,15 @@
                 "de": "Villa Musée Fragonard",
                 "hu": "Villa Musée Fragonard",
                 "ro": "Villa Musée Fragonard",
-                "en": "Villa Musée Fragonard"
+                "en": "Villa Musée Fragonard",
+                "fr": "Villa Musée Fragonard"
               },
               "tip_5lang": {
                 "de": "Bewundern Sie die wunderschönen Treppenhaus-Fresken.",
                 "hu": "Csodáld meg a lépcsőház gyönyörű freskóit.",
                 "ro": "Admirați frescele superbe din casa scării.",
-                "en": "Admire the beautiful staircase frescoes."
+                "en": "Admire the beautiful staircase frescoes.",
+                "fr": "Admirez les magnifiques fresques de l’escalier."
               }
             },
             {
@@ -533,13 +553,15 @@
                 "de": "Altstadt-Shopping",
                 "hu": "Óvárosi vásárlás",
                 "ro": "Cumpărături în centrul vechi",
-                "en": "Old Town Shopping"
+                "en": "Old Town Shopping",
+                "fr": "Boutiques de la vieille ville"
               },
               "tip_5lang": {
                 "de": "Holen Sie sich handgemachte Seifen und lokale Lavendelprodukte.",
                 "hu": "Vegyél kézműves szappanokat és helyi levendulatermékeket.",
                 "ro": "Luați săpunuri artizanale și produse locale cu lavandă.",
-                "en": "Pick up handmade soaps and local lavender products."
+                "en": "Pick up handmade soaps and local lavender products.",
+                "fr": "Achetez des savons artisanaux et des produits locaux à la lavande."
               }
             }
           ],
@@ -737,6 +759,12 @@
               "Book perfume workshops at least a week in advance.",
               "Visit in May for the scent of Centifolia roses.",
               "Most museums stay open during lunch hours, but check locally."
+            ],
+            "fr": [
+              "Portez des chaussures confortables car la vieille ville comporte de nombreux escaliers raides.",
+              "Réservez les ateliers de parfumerie au moins une semaine à l’avance.",
+              "Visitez en mai pour le parfum des roses Centifolia.",
+              "La plupart des musées restent ouverts pendant l’heure du déjeuner, mais vérifiez localement."
             ]
           }
         },
@@ -746,7 +774,7 @@
             "hu": "Kezdje a napot a Place des Aires árkádjai alatt, amelyek védelmet nyújtanak az eső elől. A székesegyház kiváló menedék a Rubens-festmények megcsodálására. A délelőttöt töltse a Fragonard gyár falai között, ahol az illatok elfeledtetik a borús időt. Egy hosszú, kényelmes ebéd után a Nemzetközi Parfümmúzeum kínál többórás fedett programot. A napot a szűk, védett utcák boltjaiban zárhatja.",
             "ro": "Începeți ziua sub arcadele istorice din Place des Aires, care oferă adăpost bun împotriva ploii. Catedrala este un refugiu uscat ideal pentru a admira arta. Petreceți dimineața în fabrica Fragonard, unde aromele vă vor face să uitați de vremea de afară. După un prânz prelungit, Muzeul Internațional al Parfumului oferă ore de explorare la interior. Încheiați ziua cu cumpărături pe străzile înguste și protejate.",
             "en": "Start your day under the historic arcades of Place des Aires to stay dry. The Cathedral offers a spiritual and dry retreat to admire Flemish art. Spend a long morning at the Fragonard factory, where the scents mask the damp weather. After a slow Provencal lunch, the International Perfume Museum provides hours of indoor exploration. Conclude with quick shopping in the sheltered narrow alleys of the old town center.",
-            "fr": "Commencez votre journée sous les arcades historiques de la Place des Aires pour rester au sec. La Cathédrale offre un refuge spirituel et abrité pour admirer l'art flamand. Passez une longue matinée à l'usine Fragonard, où les parfums masquent le temps humide. Après un déjeuner provençal tranquille, le Musée International de la Parfumerie (MIP) propose des heures d'exploration intérieure. Concluez par un shopping rapide dans les ruelles abritées du centre de la vieille ville."
+            "fr": "Commencez votre journée sous les arcades historiques de la Place des Aires pour rester au sec. La Cathédrale offre un refuge spirituel et sec pour admirer l’art flamand. Passez une longue matinée à l’usine Fragonard, où les senteurs masquent l’humidité. Après un déjeuner provençal détendu, le Musée International de la Parfumerie permet des heures d’exploration intérieure. Concluez par un shopping rapide dans les ruelles abritées du centre ancien."
           },
           "stops": [
             {
@@ -766,7 +794,7 @@
                 "hu": "Tökéletes hely a hevesebb esőzés kivárására és a festmények megtekintésére.",
                 "ro": "Un loc perfect pentru a aștepta trecerea ploii și a admira picturile.",
                 "en": "A perfect place to wait out a downpour while admiring Rubens' works.",
-                "fr": "Un endroit parfait pour attendre la fin d'une averse tout en admirant les œuvres de Rubens."
+                "fr": "Un endroit parfait pour attendre la fin d’un orage tout en admirant les œuvres de Rubens."
               }
             },
             {
@@ -776,7 +804,7 @@
                 "hu": "A vezetett túrák teljesen fedett helyszínen zajlanak.",
                 "ro": "Tururile ghidate au loc în întregime la interior, ferite de ploaie.",
                 "en": "The guided tours take place entirely indoors, away from the rain.",
-                "fr": "Les visites guidées se déroulent entièrement à l'intérieur, à l'abri de la pluie."
+                "fr": "Les visites guidées se déroulent entièrement en intérieur, à l’abri de la pluie."
               }
             },
             {
@@ -786,7 +814,7 @@
                 "hu": "Válasszon hangulatos belső térrel rendelkező éttermet.",
                 "ro": "Alegeți un restaurant cu un interior primitor.",
                 "en": "Choose a restaurant with a cozy indoor seating area.",
-                "fr": "Choisissez un restaurant avec une salle intérieure accueillante."
+                "fr": "Choisissez un restaurant avec une salle intérieure chaleureuse."
               }
             },
             {
@@ -796,7 +824,7 @@
                 "hu": "Tervezzen ide több időt, ez a legjobb program rossz idő esetén.",
                 "ro": "Rezervați-vă mai mult timp aici, este cea mai bună activitate pe ploaie.",
                 "en": "Allocate extra time here; it is the best indoor activity in Grasse.",
-                "fr": "Prévoyez du temps supplémentaire ici ; c'est la meilleure activité d'intérieur à Grasse."
+                "fr": "Prévoyez du temps supplémentaire ici ; c’est la meilleure activité intérieure à Grasse."
               }
             },
             {
@@ -806,7 +834,7 @@
                 "hu": "Vigyázzon a kerti utakon, esőben csúszósak lehetnek.",
                 "ro": "Atenție pe aleile din grădină, pot fi alunecoase când sunt ude.",
                 "en": "Be careful on the garden paths; they can be slippery when wet.",
-                "fr": "Soyez prudent sur les sentiers du jardin ; ils peuvent être glissants lorsqu'ils sont mouillés."
+                "fr": "Faites attention aux allées du jardin ; elles peuvent être glissantes lorsqu’elles sont mouillées."
               }
             },
             {
@@ -816,7 +844,7 @@
                 "hu": "A szűk utcák bizonyos fokú természetes védelmet nyújtanak az eső ellen.",
                 "ro": "Străzile înguste oferă o oarecare protecție naturală împotriva ploii.",
                 "en": "The narrow streets provide some natural shelter from light rain.",
-                "fr": "Les rues étroites offrent un certain abri naturel contre la pluie légère."
+                "fr": "Les rues étroites offrent un abri naturel contre la pluie légère."
               }
             }
           ],
@@ -850,11 +878,11 @@
               "Enjoy the more intense scent experiences enhanced by the high humidity."
             ],
             "fr": [
-              "Portez des chaussures avec une bonne adhérence car les pavés deviennent très glissants.",
+              "Portez des chaussures à bonne adhérence car les pavés deviennent très glissants.",
               "Utilisez les nombreuses parfumeries comme étapes intermédiaires pour rester au sec.",
-              "Un parapluie compact est plus pratique dans les ruelles étroites qu'un grand modèle.",
-              "De nombreux musées sont fermés le lundi ; vérifiez les horaires à l'avance.",
-              "Profitez des expériences olfactives plus intenses favorisées par l'humidité élevée."
+              "Un parapluie compact est plus pratique dans les ruelles étroites qu’un grand modèle.",
+              "De nombreux musées sont fermés le lundi ; vérifiez les horaires d’ouverture à l’avance.",
+              "Profitez d’expériences olfactives plus intenses renforcées par la forte humidité."
             ]
           }
         },
@@ -864,7 +892,7 @@
             "hu": "Élvezze a tiszta téli fényt a Place des Aires-en egy forró kávé mellett. A székesegyház különleges nyugalmat áraszt az alacsonyan járó napfényben. A Fragonard gyárban a lepárlók melege várja. Egy kiadós provence-i ebéd után a Parfümmúzeum nyújt védelmet a hűvös szél elől. A Villa Fragonard megtekintését érdemes a 17 órai naplemente előtt befejezni.",
             "ro": "Bucurați-vă de lumina clară de iarnă în Place des Aires cu o cafea fierbinte. Catedrala emană o liniște aparte în soarele blând. În fabrica Fragonard, căldura proceselor de distilare este binevenită. După un prânz provensal consistent, Muzeul Parfumului oferă adăpost împotriva brizei reci. Vizita la Villa Fragonard trebuie programată înainte de apusul de la ora 17:00.",
             "en": "Enjoy the crisp winter light at Place des Aires with a hot coffee to start. The Cathedral radiates a special tranquility in the low afternoon sun. Inside the Fragonard factory, the warmth of the distillation process is welcoming. After a hearty Provencal lunch, the Perfume Museum protects you from the cool breeze. Plan to visit Villa Fragonard before the early winter sunset at 5 PM.",
-            "fr": "Profitez de la lumière hivernale cristalline de la Place des Aires avec un café chaud pour commencer. La Cathédrale dégage une tranquillité particulière sous le bas soleil de l'après-midi. À l'intérieur de l'usine Fragonard, la chaleur du processus de distillation est accueillante. Après un copieux déjeuner provençal, le Musée de la Parfumerie vous protège de la brise fraîche. Prévoyez de visiter la Villa Fragonard avant le coucher du soleil précoce à 17h."
+            "fr": "Profitez de la lumière hivernale claire à la Place des Aires avec un café chaud pour commencer. La Cathédrale rayonne d’une tranquillité particulière sous le faible soleil de l’après-midi. À l’intérieur de l’usine Fragonard, la chaleur du processus de distillation est accueillante. Après un copieux déjeuner provençal, le Musée du Parfum vous protège de la brise fraîche. Prévoyez de visiter la Villa Fragonard avant le coucher de soleil hivernal tôt à 17:00."
           },
           "stops": [
             {
@@ -874,7 +902,7 @@
                 "hu": "Keressen egy napsütötte helyet a reggeli meleghez.",
                 "ro": "Căutați un loc la soare pentru a profita de căldura dimineții.",
                 "en": "Find a spot in the sun to catch the morning warmth.",
-                "fr": "Trouvez un endroit au soleil pour capter la chaleur matinale."
+                "fr": "Trouvez un endroit au soleil pour capter la chaleur du matin."
               }
             },
             {
@@ -884,7 +912,7 @@
                 "hu": "Bent hűvös lehet, érdemes a kabátot magán hagyni.",
                 "ro": "Interiorul poate fi răcoros, păstrați-vă haina pe dvs.",
                 "en": "It can be chilly inside; keep your jacket on while exploring.",
-                "fr": "Il peut faire frais à l'intérieur ; gardez votre veste pendant l'exploration."
+                "fr": "Il peut faire frais à l’intérieur ; gardez votre veste pendant la visite."
               }
             },
             {
@@ -894,7 +922,7 @@
                 "hu": "Kellemesen meleg helyszín a késő délelőtti órákhoz.",
                 "ro": "Un loc plăcut și cald pentru finalul dimineții.",
                 "en": "A pleasantly warm location for the late morning hours.",
-                "fr": "Un endroit agréablement chaud pour les heures de fin de matinée."
+                "fr": "Un emplacement agréablement chaud pour la fin de la matinée."
               }
             },
             {
@@ -904,7 +932,7 @@
                 "hu": "Kóstoljon meg egy hagyományos Daube Provençale-t a felmelegedéshez.",
                 "ro": "Încercați o Daube Provençale tradițională pentru a vă încălzi.",
                 "en": "Try a traditional Daube Provençale to warm up.",
-                "fr": "Essayez une Daube Provençale traditionnelle pour vous réchauffer."
+                "fr": "Essayez une Daube provençale traditionnelle pour vous réchauffer."
               }
             },
             {
@@ -914,7 +942,7 @@
                 "hu": "A légkondicionálás télen is kellemes hőmérsékletet biztosít.",
                 "ro": "Climatizarea asigură temperaturi plăcute chiar și iarna.",
                 "en": "The climate control ensures pleasant temperatures even in winter.",
-                "fr": "Le contrôle climatique assure des températures agréables même en hiver."
+                "fr": "La climatisation garantit des températures agréables même en hiver."
               }
             },
             {
@@ -924,7 +952,7 @@
                 "hu": "Látogassa meg a kertet korán, mielőtt árnyékba kerülne.",
                 "ro": "Vizitați grădina devreme, înainte ca aceasta să intre în umbră.",
                 "en": "Visit the garden early before it falls completely into shadow.",
-                "fr": "Visitez le jardin tôt avant qu'il ne tombe complètement dans l'ombre."
+                "fr": "Visitez le jardin tôt avant qu’il ne tombe entièrement dans l’ombre."
               }
             },
             {
@@ -934,7 +962,7 @@
                 "hu": "Vásároljon helyi szappanokat illatos téli ajándékként.",
                 "ro": "Cumpărați săpunuri locale ca suveniruri parfumate de iarnă.",
                 "en": "Buy local soaps as fragrant winter souvenirs for home.",
-                "fr": "Achetez des savons locaux comme souvenirs d'hiver parfumés pour la maison."
+                "fr": "Achetez des savons locaux comme souvenirs parfumés d’hiver."
               }
             }
           ],
@@ -968,11 +996,11 @@
               "A hot chocolate in the small cafes is a must-do in the afternoon."
             ],
             "fr": [
-              "Le coucher du soleil est vers 17h00 ; les températures chutent rapidement après.",
-              "Habillez-vous en plusieurs couches pour gérer la transition entre le soleil et l'ombre.",
-              "L'hiver est la saison des mimosas dans la région ; cherchez les fleurs jaune vif.",
-              "Profitez de la ville sans les grandes foules de touristes de l'été.",
-              "Un chocolat chaud dans les petits cafés est un incontournable l'après-midi."
+              "Le coucher du soleil est vers 17:00 ; les températures chutent rapidement ensuite.",
+              "Habillez-vous en couches pour gérer la transition entre soleil et ombre.",
+              "L’hiver est la saison du mimosa dans la région ; cherchez les fleurs jaune vif.",
+              "Profitez de la ville sans les grandes foules touristiques de l’été.",
+              "Un chocolat chaud dans les petits cafés est un incontournable l’après-midi."
             ]
           }
         }
@@ -991,7 +1019,8 @@
             "de": "Grasse Zentrum",
             "hu": "Grasse központ",
             "ro": "Centrul Grasse",
-            "en": "Grasse Center"
+            "en": "Grasse Center",
+            "fr": "Centre de Grasse"
           },
           "coords": [
             6.9244,
@@ -1015,7 +1044,8 @@
             "de": "Parfumerie Molinard",
             "hu": "Molinard Parfüméria",
             "ro": "Parfumerie Molinard",
-            "en": "Molinard Perfumery"
+            "en": "Molinard Perfumery",
+            "fr": "Parfumerie Molinard"
           },
           "coords": [
             6.9215,
@@ -1031,7 +1061,7 @@
             "hu": "Pompás épület III. Napóleon idejéből.",
             "ro": "O clădire splendidă din epoca lui Napoleon al III-lea.",
             "en": "A magnificent building from the Napoleon III era.",
-            "fr": "Un magnifique bâtiment de l'époque Napoléon III."
+            "fr": "Un magnifique bâtiment de l’époque Napoléon III."
           }
         },
         {
@@ -1039,7 +1069,8 @@
             "de": "Parfumerie Galimard",
             "hu": "Galimard Parfüméria",
             "ro": "Parfumerie Galimard",
-            "en": "Galimard Perfumery"
+            "en": "Galimard Perfumery",
+            "fr": "Parfumerie Galimard"
           },
           "coords": [
             6.9365,
@@ -1063,7 +1094,8 @@
             "de": "Mittagspause in Mouans-Sartoux",
             "hu": "Ebédszünet Mouans-Sartoux-ban",
             "ro": "Pauză de prânz în Mouans-Sartoux",
-            "en": "Lunch in Mouans-Sartoux"
+            "en": "Lunch in Mouans-Sartoux",
+            "fr": "Déjeuner à Mouans-Sartoux"
           },
           "coords": [
             6.9715,
@@ -1079,7 +1111,7 @@
             "hu": "Csinos falu remek kávézókkal.",
             "ro": "Un sat drăguț cu cafenele grozave.",
             "en": "A pretty village with great cafes.",
-            "fr": "Un joli village avec d'excellents cafés."
+            "fr": "Un joli village avec de très bons cafés."
           }
         },
         {
@@ -1087,7 +1119,8 @@
             "de": "Gärten des Parfümmuseums",
             "hu": "A Parfümmúzeum kertjei",
             "ro": "Grădinile Muzeului Parfumului",
-            "en": "Gardens of the Perfume Museum"
+            "en": "Gardens of the Perfume Museum",
+            "fr": "Jardins du Musée du Parfum"
           },
           "coords": [
             6.9755,
@@ -1111,7 +1144,8 @@
             "de": "Rückkehr nach Grasse",
             "hu": "Visszatérés Grasse-ba",
             "ro": "Întoarcere în Grasse",
-            "en": "Return to Grasse"
+            "en": "Return to Grasse",
+            "fr": "Retour à Grasse"
           },
           "coords": [
             6.9244,
@@ -1127,7 +1161,7 @@
             "hu": "Visszafelé emelkedő van, használja az e-bike rásegítést.",
             "ro": "Drumul de întoarcere este în pantă, folosiți asistența e-bike.",
             "en": "The way back is uphill, use the e-bike assistance.",
-            "fr": "Le retour est en montée, utilisez l'assistance du vélo électrique."
+            "fr": "Le trajet du retour est en montée, utilisez l’assistance de l’e-bike."
           }
         }
       ],
@@ -1136,7 +1170,7 @@
         "hu": "Fedezze fel Grasse környékét kerékpárral. A Molinard gyárától az út lefelé vezet a történelmi Galimard parfümériához. Folytassa útját a festői Mouans-Sartoux-ba egy pihentető ebédre. A fénypont a Parfümmúzeum kertje, amely szabadtéri érzékszervi élményt nyújt. A visszaút némi kondíciót vagy e-bike-ot igényel, de nagyszerű kilátással jutalmaz.",
         "ro": "Explorați împrejurimile orașului Grasse cu bicicleta. De la fabrica Molinard, drumul coboară spre istorica parfumerie Galimard. Continuați spre pitorescul Mouans-Sartoux pentru un prânz relaxat. Punctul culminant sunt grădinile muzeului parfumului, o experiență senzorială în aer liber. Drumul de întoarcere necesită puțină condiție fizică sau un e-bike, dar recompensează cu priveliști grozave.",
         "en": "Explore the surroundings of Grasse by bike. From the Molinard factory, the path leads downhill to the historic Galimard perfumery. Continue to picturesque Mouans-Sartoux for a relaxed lunch. The highlight is the gardens of the perfume museum, an open-air sensory experience. The way back requires some fitness or an e-bike, but rewards with great views.",
-        "fr": "Explorez les environs de Grasse à vélo. Depuis l'usine Molinard, le chemin descend vers la parfumerie historique Galimard. Continuez vers le pittoresque Mouans-Sartoux pour un déjeuner détendu. Le point fort est les jardins du musée de la parfumerie, une expérience sensorielle en plein air. Le retour demande une certaine condition physique ou un vélo électrique, mais récompense par de superbes vues."
+        "fr": "Explorez les environs de Grasse à vélo. Depuis l’usine Molinard, le chemin descend vers la parfumerie historique Galimard. Continuez jusqu’à la pittoresque Mouans-Sartoux pour un déjeuner détendu. Le point d’orgue sont les jardins du musée du parfum, une expérience sensorielle en plein air. Le retour demande un peu de forme ou un e-bike, mais récompense par de superbes vues."
       },
       "gastro_picks": {
         "de": [
@@ -1257,8 +1291,8 @@
           "Avoid main roads and use side paths."
         ],
         "fr": [
-          "Louez un vélo électrique car Grasse est très vallonnée.",
-          "Évitez les routes principales et utilisez les sentiers secondaires."
+          "Louez un e-bike car Grasse est très vallonnée.",
+          "Évitez les routes principales et utilisez les chemins secondaires."
         ]
       },
       "variants": {
@@ -1267,7 +1301,8 @@
             "de": "Erkunden Sie die Umgebung von Grasse mit dem Fahrrad. Von der Molinard-Fabrik führt der Weg bergab zur historischen Galimard-Parfümerie. Weiter geht es in das malerische Mouans-Sartoux für ein entspanntes Mittagessen. Der Höhepunkt sind die Gärten des Parfümmuseums, ein Sinneserlebnis unter freiem Himmel. Der Rückweg erfordert etwas Kondition oder ein E-Bike, belohnt aber mit tollen Ausblicken.",
             "hu": "Fedezze fel Grasse környékét kerékpárral. A Molinard gyárától az út lefelé vezet a történelmi Galimard parfümériához. Folytassa útját a festői Mouans-Sartoux-ba egy pihentető ebédre. A fénypont a Parfümmúzeum kertje, amely szabadtéri érzékszervi élményt nyújt. A visszaút némi kondíciót vagy e-bike-ot igényel, de nagyszerű kilátással jutalmaz.",
             "ro": "Explorați împrejurimile orașului Grasse cu bicicleta. De la fabrica Molinard, drumul coboară spre istorica parfumerie Galimard. Continuați spre pitorescul Mouans-Sartoux pentru un prânz relaxat. Punctul culminant sunt grădinile muzeului parfumului, o experiență senzorială în aer liber. Drumul de întoarcere necesită puțină condiție fizică sau un e-bike, dar recompensează cu priveliști grozave.",
-            "en": "Explore the surroundings of Grasse by bike. From the Molinard factory, the path leads downhill to the historic Galimard perfumery. Continue to picturesque Mouans-Sartoux for a relaxed lunch. The highlight is the gardens of the perfume museum, an open-air sensory experience. The way back requires some fitness or an e-bike, but rewards with great views."
+            "en": "Explore the surroundings of Grasse by bike. From the Molinard factory, the path leads downhill to the historic Galimard perfumery. Continue to picturesque Mouans-Sartoux for a relaxed lunch. The highlight is the gardens of the perfume museum, an open-air sensory experience. The way back requires some fitness or an e-bike, but rewards with great views.",
+            "fr": "Explorez les environs de Grasse à vélo. Depuis l’usine Molinard, le chemin descend vers la parfumerie historique Galimard. Continuez jusqu’à la pittoresque Mouans-Sartoux pour un déjeuner détendu. Le point d’orgue sont les jardins du musée du parfum, une expérience sensorielle en plein air. Le retour demande un peu de forme ou un e-bike, mais récompense par de superbes vues."
           },
           "stops": [
             {
@@ -1275,13 +1310,15 @@
                 "de": "Grasse Zentrum",
                 "hu": "Grasse központ",
                 "ro": "Centrul Grasse",
-                "en": "Grasse Center"
+                "en": "Grasse Center",
+                "fr": "Centre de Grasse"
               },
               "tip_5lang": {
                 "de": "Starten Sie am Hauptplatz.",
                 "hu": "Kezdjen a főtéren.",
                 "ro": "Începeți în piața principală.",
-                "en": "Start at the main square."
+                "en": "Start at the main square.",
+                "fr": "Commencez sur la place principale."
               }
             },
             {
@@ -1289,13 +1326,15 @@
                 "de": "Parfumerie Molinard",
                 "hu": "Molinard Parfüméria",
                 "ro": "Parfumerie Molinard",
-                "en": "Molinard Perfumery"
+                "en": "Molinard Perfumery",
+                "fr": "Parfumerie Molinard"
               },
               "tip_5lang": {
                 "de": "Ein prächtiges Gebäude aus der Zeit Napoleons III.",
                 "hu": "Pompás épület III. Napóleon idejéből.",
                 "ro": "O clădire splendidă din epoca lui Napoleon al III-lea.",
-                "en": "A magnificent building from the Napoleon III era."
+                "en": "A magnificent building from the Napoleon III era.",
+                "fr": "Un magnifique bâtiment de l’époque Napoléon III."
               }
             },
             {
@@ -1303,13 +1342,15 @@
                 "de": "Parfumerie Galimard",
                 "hu": "Galimard Parfüméria",
                 "ro": "Parfumerie Galimard",
-                "en": "Galimard Perfumery"
+                "en": "Galimard Perfumery",
+                "fr": "Parfumerie Galimard"
               },
               "tip_5lang": {
                 "de": "Besuchen Sie das älteste Parfümhaus von Grasse.",
                 "hu": "Látogassa meg Grasse legrégebbi parfümházát.",
                 "ro": "Vizitați cea mai veche casă de parfumuri din Grasse.",
-                "en": "Visit the oldest perfume house in Grasse."
+                "en": "Visit the oldest perfume house in Grasse.",
+                "fr": "Visitez la plus ancienne maison de parfum de Grasse."
               }
             },
             {
@@ -1317,13 +1358,15 @@
                 "de": "Mittagspause in Mouans-Sartoux",
                 "hu": "Ebédszünet Mouans-Sartoux-ban",
                 "ro": "Pauză de prânz în Mouans-Sartoux",
-                "en": "Lunch in Mouans-Sartoux"
+                "en": "Lunch in Mouans-Sartoux",
+                "fr": "Déjeuner à Mouans-Sartoux"
               },
               "tip_5lang": {
                 "de": "Ein hübsches Dorf mit tollen Cafés.",
                 "hu": "Csinos falu remek kávézókkal.",
                 "ro": "Un sat drăguț cu cafenele grozave.",
-                "en": "A pretty village with great cafes."
+                "en": "A pretty village with great cafes.",
+                "fr": "Un joli village avec d’excellents cafés."
               }
             },
             {
@@ -1331,13 +1374,15 @@
                 "de": "Gärten des Parfümmuseums",
                 "hu": "A Parfümmúzeum kertjei",
                 "ro": "Grădinile Muzeului Parfumului",
-                "en": "Gardens of the Perfume Museum"
+                "en": "Gardens of the Perfume Museum",
+                "fr": "Jardins du Musée du Parfum"
               },
               "tip_5lang": {
                 "de": "Riechen Sie an den Pflanzen, die für Parfüms verwendet werden.",
                 "hu": "Szagolja meg a parfümökhöz használt növényeket.",
                 "ro": "Mirosiți plantele folosite pentru parfumuri.",
-                "en": "Smell the plants used for perfumes."
+                "en": "Smell the plants used for perfumes.",
+                "fr": "Sentez les plantes utilisées pour les parfums."
               }
             },
             {
@@ -1345,13 +1390,15 @@
                 "de": "Rückkehr nach Grasse",
                 "hu": "Visszatérés Grasse-ba",
                 "ro": "Întoarcere în Grasse",
-                "en": "Return to Grasse"
+                "en": "Return to Grasse",
+                "fr": "Retour à Grasse"
               },
               "tip_5lang": {
                 "de": "Der Rückweg ist bergauf, nutzen Sie die E-Bike-Unterstützung.",
                 "hu": "Visszafelé emelkedő van, használja az e-bike rásegítést.",
                 "ro": "Drumul de întoarcere este în pantă, folosiți asistența e-bike.",
-                "en": "The way back is uphill, use the e-bike assistance."
+                "en": "The way back is uphill, use the e-bike assistance.",
+                "fr": "Le chemin du retour est en montée, utilisez l’assistance de l’e-bike."
               }
             }
           ],
@@ -1453,6 +1500,10 @@
             "en": [
               "Rent an e-bike as Grasse is very hilly.",
               "Avoid main roads and use side paths."
+            ],
+            "fr": [
+              "Louez un vélo électrique car Grasse est très vallonnée.",
+              "Évitez les routes principales et empruntez des chemins secondaires."
             ]
           }
         },
@@ -1462,7 +1513,7 @@
             "hu": "Az esőben való kerékpározás óvatosságot igényel Grasse meredek utcáin. Kezdje a központban, és keressen menedéket a Molinard-nál. Az út Mouans-Sartoux felé vizes aszfalton vezet, ami csúszós lehet. Egy hosszú, száraz helyen töltött ebéd elengedhetetlen. A Parfümmúzeum kertjei misztikusak esőben, de tervezzen időt a felmelegedésre.",
             "ro": "O plimbare cu bicicleta pe ploaie necesită prudență pe străzile abrupte din Grasse. Începeți în centru și adăpostiți-vă rapid la Molinard. Drumul spre Mouans-Sartoux este pe asfalt ud, care poate fi alunecos. Un prânz prelungit la adăpost este esențial. Grădinile Muzeului Parfumului par mistice pe ploaie, dar rezervați timp pentru încălzire.",
             "en": "Cycling in the rain requires caution on Grasse's steep roads. Start in the center and quickly head to Molinard for shelter. The ride to Mouans-Sartoux follows wet asphalt paths that can be slippery. A long indoor lunch is essential to stay dry. The Gardens of the Perfume Museum have a mystical vibe in the rain, but plan time to warm up afterwards.",
-            "fr": "Faire du vélo sous la pluie demande de la prudence sur les routes escarpées de Grasse. Commencez par le centre et dirigez-vous rapidement vers Molinard pour vous abriter. Le trajet vers Mouans-Sartoux emprunte des pistes d'asphalte mouillées qui peuvent être glissantes. Un long déjeuner à l'intérieur est essentiel pour rester au sec. Les Jardins du Musée de la Parfumerie ont une ambiance mystique sous la pluie, mais prévoyez du temps pour vous réchauffer après."
+            "fr": "Le cyclisme sous la pluie nécessite de la prudence sur les routes escarpées de Grasse. Commencez au centre et dirigez-vous rapidement vers Molinard pour vous abriter. La route jusqu’à Mouans-Sartoux longe des voies asphaltées mouillées qui peuvent être glissantes. Un long déjeuner en intérieur est essentiel pour rester au sec. Les Jardins du Musée du Parfum ont une ambiance mystique sous la pluie, mais prévoyez du temps pour vous réchauffer ensuite."
           },
           "stops": [
             {
@@ -1472,7 +1523,7 @@
                 "hu": "Indulás előtt ellenőrizze a fékeket a vizes utakon.",
                 "ro": "Verificați frânele înainte de a pleca pe străzile ude.",
                 "en": "Check your brakes before starting on the wet downhill roads.",
-                "fr": "Vérifiez vos freins avant de vous engager sur les routes de descente mouillées."
+                "fr": "Vérifiez vos freins avant d’emprunter les routes en descente mouillées."
               }
             },
             {
@@ -1482,7 +1533,7 @@
                 "hu": "Használja a bejárat közeli kerékpártárolót, hogy gyorsan fedél alá kerüljön.",
                 "ro": "Folosiți suportul de biciclete de lângă intrare pentru a intra rapid la adăpost.",
                 "en": "Use the bike rack near the entrance to get indoors quickly.",
-                "fr": "Utilisez le porte-vélos près de l'entrée pour entrer rapidement à l'intérieur."
+                "fr": "Utilisez le porte-vélos près de l’entrée pour entrer rapidement à l’intérieur."
               }
             },
             {
@@ -1502,7 +1553,7 @@
                 "hu": "Válasszon olyan helyet, ahol van hely a vizes felszerelésnek.",
                 "ro": "Alegeți un local cu spațiu pentru echipamentul ud.",
                 "en": "Choose a place with enough room for your wet cycling gear.",
-                "fr": "Choisissez un endroit avec suffisamment de place pour votre équipement de cyclisme mouillé."
+                "fr": "Choisissez un lieu avec assez d’espace pour votre équipement de cyclisme mouillé."
               }
             },
             {
@@ -1512,7 +1563,7 @@
                 "hu": "Maradjon a kövezett utakon a sár elkerülése érdekében.",
                 "ro": "Rămâneți pe aleile pavate pentru a evita noroiul.",
                 "en": "Stay on the paved paths to avoid mud in the garden sections.",
-                "fr": "Restez sur les sentiers pavés pour éviter la boue dans les sections du jardin."
+                "fr": "Restez sur les chemins pavés pour éviter la boue dans les sections de jardin."
               }
             },
             {
@@ -1522,7 +1573,7 @@
                 "hu": "Vezessen óvatosan, esőben a látási viszonyok korlátozottak lehetnek.",
                 "ro": "Conduceți cu atenție, vizibilitatea poate fi redusă pe ploaie.",
                 "en": "Ride carefully as visibility can be limited during rain showers.",
-                "fr": "Roulez avec prudence car la visibilité peut être limitée lors des averses."
+                "fr": "Roulez prudemment car la visibilité peut être limitée lors des averses."
               }
             }
           ],
@@ -1556,11 +1607,11 @@
               "Drink warm beverages during stops to maintain your body temperature."
             ],
             "fr": [
-              "Un équipement de pluie complet est essentiel pour cet itinéraire de 14 km.",
+              "Un équipement pluie complet est essentiel pour cet itinéraire de 14 km.",
               "Évitez les freinages brusques dans les descentes raides vers Mouans-Sartoux.",
-              "Les marquages routiers peuvent être extrêmement glissants lorsqu'ils sont mouillés.",
-              "Un garde-boue vous protégera des éclaboussures d'eau sale.",
-              "Buvez des boissons chaudes pendant les arrêts pour maintenir votre température corporelle."
+              "Les marquages routiers peuvent être extrêmement glissants lorsqu’ils sont mouillés.",
+              "Un garde-boue vous protégera des projections d’eau sale.",
+              "Buvez des boissons chaudes lors des arrêts pour maintenir votre température corporelle."
             ]
           }
         },
@@ -1570,7 +1621,7 @@
             "hu": "A téli kerékpározás tiszta kilátást nyújt a Tengeri-Alpokra. A reggeli hűvös menetszél után a Molinard látogatása különösen kellemes. Az út Mouans-Sartoux felé gyakran napsütötte. Egy napos, szabadtéri ebéd után (kabátban) fedezze fel a kertek téli nyugalmát. A visszautat Grasse-ba a süllyedő hőmérséklet miatt még sötétedés előtt fejezze be.",
             "ro": "Ciclismul de iarnă oferă vederi clare asupra Alpilor Maritimi. Briza rece a dimineții face vizita la Molinard foarte plăcută. Traseul spre Mouans-Sartoux este adesea însorit. După un prânz la soare (cu haină), explorați liniștea de iarnă a grădinilor. Întoarcerea la Grasse trebuie făcută înainte de amurg din cauza scăderii temperaturii.",
             "en": "Winter cycling offers crystal clear views of the Maritime Alps. The cool morning breeze makes the visit to Molinard especially cozy. The route to Mouans-Sartoux is often bathed in sun. After a sunny outdoor lunch (with a jacket), explore the winter stillness of the gardens. Ensure you return to Grasse before dusk to avoid the rapid temperature drop.",
-            "fr": "Le cyclisme en hiver offre des vues cristallines sur les Alpes Maritimes. La brise fraîche du matin rend la visite de Molinard particulièrement chaleureuse. L'itinéraire vers Mouans-Sartoux est souvent baigné de soleil. Après un déjeuner ensoleillé en terrasse (avec une veste), explorez le calme hivernal des jardins. Assurez-vous de rentrer à Grasse avant le crépuscule pour éviter la chute rapide des températures."
+            "fr": "Le cyclisme hivernal offre des vues cristallines sur les Alpes-Maritimes. La brise fraîche du matin rend la visite de Molinard particulièrement chaleureuse. L’itinéraire vers Mouans-Sartoux est souvent baigné de soleil. Après un déjeuner en plein air (avec une veste), explorez le calme hivernal des jardins. Assurez-vous de revenir à Grasse avant le crépuscule pour éviter la chute rapide des températures."
           },
           "stops": [
             {
@@ -1580,7 +1631,7 @@
                 "hu": "Kezdje a túrát kesztyűben, a menetszél télen metsző lehet.",
                 "ro": "Porniți la drum cu mănuși, briza este tăioasă iarna.",
                 "en": "Start your ride with gloves; the wind chill can be biting in winter.",
-                "fr": "Commencez votre trajet avec des gants ; le vent peut être piquant en hiver."
+                "fr": "Commencez votre sortie avec des gants ; le refroidissement éolien peut être mordant en hiver."
               }
             },
             {
@@ -1590,7 +1641,7 @@
                 "hu": "Meleg állomás, ahol az ujjai újra kilazulhatnak.",
                 "ro": "O oprire caldă pentru a vă dezmorți degetele.",
                 "en": "A warm stop to regain dexterity in your fingers.",
-                "fr": "Une étape au chaud pour retrouver de la dextérité dans les doigts."
+                "fr": "Une pause chaude pour retrouver dextérité dans vos doigts."
               }
             },
             {
@@ -1600,7 +1651,7 @@
                 "hu": "Használja ki a késő délelőtti fényeket a fotózáshoz.",
                 "ro": "Profitați de lumina de la finalul dimineții pentru fotografii.",
                 "en": "Take advantage of the late morning light for great photos.",
-                "fr": "Profitez de la lumière de fin de matinée pour de superbes photos."
+                "fr": "Profitez de la lumière de fin de matinée pour de belles photos."
               }
             },
             {
@@ -1610,7 +1661,7 @@
                 "hu": "Keressen egy déli fal melletti helyet a maximális meleghez.",
                 "ro": "Căutați un loc lângă un perete sudic pentru căldură maximă.",
                 "en": "Find a spot against a south-facing wall for maximum warmth.",
-                "fr": "Trouvez un endroit contre un mur orienté au sud pour un maximum de chaleur."
+                "fr": "Trouvez un endroit contre un mur exposé au sud pour un maximum de chaleur."
               }
             },
             {
@@ -1620,7 +1671,7 @@
                 "hu": "A téli nap alacsonyan jár, ami hosszú árnyékokat vet a kertben.",
                 "ro": "Soarele de iarnă este jos, creând umbre lungi în grădină.",
                 "en": "The winter sun is low, casting long, dramatic shadows in the garden.",
-                "fr": "Le soleil d'hiver est bas, projetant de longues ombres dramatiques dans le jardin."
+                "fr": "Le soleil d’hiver est bas, projetant de longues ombres dramatiques dans le jardin."
               }
             },
             {
@@ -1630,7 +1681,7 @@
                 "hu": "Győződjön meg róla, hogy a kerékpáros világítás működik az estére.",
                 "ro": "Asigurați-vă că luminile bicicletei funcționează pentru seară.",
                 "en": "Ensure your bike lights are working for the early evening return.",
-                "fr": "Assurez-vous que vos éclairages de vélo fonctionnent pour le retour en début de soirée."
+                "fr": "Assurez-vous que les lumières de votre vélo fonctionnent pour le retour en début de soirée."
               }
             }
           ],
@@ -1664,10 +1715,10 @@
               "Check tire pressure as the cold can cause it to drop slightly."
             ],
             "fr": [
-              "Portez un gilet coupe-vent pour les sections de descente.",
-              "Le rayonnement UV est fort en altitude, même en hiver.",
-              "Emportez un thermos avec une boisson chaude pour le trajet.",
-              "Planifiez votre itinéraire pour être de retour à 16h30 au plus tard.",
+              "Portez une veste coupe-vent pour les sections en descente.",
+              "Les UV sont puissants en altitude même en hiver.",
+              "Transportez un thermos avec une boisson chaude pour la balade.",
+              "Prévoyez votre itinéraire pour être de retour au plus tard à 16h30.",
               "Vérifiez la pression des pneus car le froid peut la faire baisser légèrement."
             ]
           }
@@ -1687,7 +1738,8 @@
             "de": "Grasse Altstadt",
             "hu": "Grasse óváros",
             "ro": "Centrul vechi Grasse",
-            "en": "Grasse Old Town"
+            "en": "Grasse Old Town",
+            "fr": "Vieille ville de Grasse"
           },
           "coords": [
             6.9244,
@@ -1711,7 +1763,8 @@
             "de": "Gourdon (Adlernest-Dorf)",
             "hu": "Gourdon (sasfészek falu)",
             "ro": "Gourdon (sat cuib de vulturi)",
-            "en": "Gourdon (Eagle's Nest Village)"
+            "en": "Gourdon (Eagle's Nest Village)",
+            "fr": "Gourdon (village du Nid d’Aigle)"
           },
           "coords": [
             6.9785,
@@ -1727,7 +1780,7 @@
             "hu": "Franciaország egyik legszebb faluja.",
             "ro": "Unul dintre cele mai frumoase sate din Franța.",
             "en": "One of the most beautiful villages in France.",
-            "fr": "L'un des plus beaux villages de France."
+            "fr": "Un des plus beaux villages de France."
           }
         },
         {
@@ -1735,7 +1788,8 @@
             "de": "Mittagessen mit Aussicht",
             "hu": "Ebéd kilátással",
             "ro": "Prânz cu vedere",
-            "en": "Lunch with a View"
+            "en": "Lunch with a View",
+            "fr": "Déjeuner avec vue"
           },
           "coords": [
             6.979,
@@ -1751,7 +1805,7 @@
             "hu": "Élvezze a kilátást a Riviérára.",
             "ro": "Bucurați-vă de vederea spre Coasta de Azur.",
             "en": "Enjoy the view of the Côte d'Azur.",
-            "fr": "Profitez de la vue sur la Côte d'Azur."
+            "fr": "Profitez de la vue sur la Côte d’Azur."
           }
         },
         {
@@ -1759,7 +1813,8 @@
             "de": "Gorges du Loup",
             "hu": "Gorges du Loup (Loup-szurdok)",
             "ro": "Gorges du Loup",
-            "en": "Gorges du Loup"
+            "en": "Gorges du Loup",
+            "fr": "Gorges du Loup"
           },
           "coords": [
             6.9955,
@@ -1783,7 +1838,8 @@
             "de": "Confiserie Florian",
             "hu": "Confiserie Florian",
             "ro": "Confiserie Florian",
-            "en": "Confiserie Florian"
+            "en": "Confiserie Florian",
+            "fr": "Confiserie Florian"
           },
           "coords": [
             7.0315,
@@ -1799,7 +1855,7 @@
             "hu": "Kóstolja meg a kandírozott virágokat.",
             "ro": "Gustați florile zaharate.",
             "en": "Taste the candied flowers.",
-            "fr": "Goûtez les fleurs cristallisées."
+            "fr": "Goûtez les fleurs confites."
           }
         }
       ],
@@ -1808,7 +1864,7 @@
         "hu": "Ez az autós túra Grasse eleganciáját ötvözi az Alpok előhegyeinek vad természetével. Városnézés után hajtson fel Gourdonba, amely látványosan trónol egy sziklán. Ebéd után fedezze fel a Gorges du Loup szurdokot és vízeséseit. A napot a pont-du-loupi Confiserie Florian édességei zárják.",
         "ro": "Acest tur auto combină eleganța orașului Grasse cu natura sălbatică a prealpilor. După o plimbare prin oraș, urcați spre Gourdon, cocoțat spectaculos pe o stâncă. După prânz, explorați Gorges du Loup cu cascadele sale. Finalul dulce este la Confiserie Florian din Pont-du-Loup.",
         "en": "This car tour combines the elegance of Grasse with the wild nature of the Pre-Alps. After a city stroll, drive up to Gourdon, spectacularly perched on a rock. After lunch, explore the Gorges du Loup and its waterfalls. The sweet finish is at Confiserie Florian in Pont-du-Loup.",
-        "fr": "Ce circuit en voiture combine l'élégance de Grasse avec la nature sauvage des Préalpes. Après une promenade en ville, montez à Gourdon, spectaculairement perché sur un rocher. Après le déjeuner, explorez les Gorges du Loup et ses cascades. La note sucrée finale se trouve à la Confiserie Florian à Pont-du-Loup."
+        "fr": "Cette excursion en voiture allie l’élégance de Grasse à la nature sauvage des Préalpes. Après une promenade en ville, montez jusqu’à Gourdon, spectaculaire perché sur un rocher. Après le déjeuner, explorez les Gorges du Loup et ses cascades. La douceur finale se déguste à la Confiserie Florian à Pont-du-Loup."
       },
       "gastro_picks": {
         "de": [
@@ -1929,7 +1985,7 @@
           "Parking in Gourdon can be difficult in summer."
         ],
         "fr": [
-          "Les routes menant à Gourdon sont sinueuses, conduisez prudemment.",
+          "Les routes vers Gourdon sont sinueuses, conduisez prudemment.",
           "Le stationnement à Gourdon peut être difficile en été."
         ]
       },
@@ -1939,7 +1995,8 @@
             "de": "Diese Autotour kombiniert die Eleganz von Grasse mit der wilden Natur der Voralpen. Nach einem Stadtbummel fahren Sie hinauf nach Gourdon, das spektakulär auf einem Felsen thront. Nach dem Mittagessen erkunden Sie die Gorges du Loup mit ihren Wasserfällen. Den süßen Abschluss bildet die Confiserie Florian in Pont-du-Loup.",
             "hu": "Ez az autós túra Grasse eleganciáját ötvözi az Alpok előhegyeinek vad természetével. Városnézés után hajtson fel Gourdonba, amely látványosan trónol egy sziklán. Ebéd után fedezze fel a Gorges du Loup szurdokot és vízeséseit. A napot a pont-du-loupi Confiserie Florian édességei zárják.",
             "ro": "Acest tur auto combină eleganța orașului Grasse cu natura sălbatică a prealpilor. După o plimbare prin oraș, urcați spre Gourdon, cocoțat spectaculos pe o stâncă. După prânz, explorați Gorges du Loup cu cascadele sale. Finalul dulce este la Confiserie Florian din Pont-du-Loup.",
-            "en": "This car tour combines the elegance of Grasse with the wild nature of the Pre-Alps. After a city stroll, drive up to Gourdon, spectacularly perched on a rock. After lunch, explore the Gorges du Loup and its waterfalls. The sweet finish is at Confiserie Florian in Pont-du-Loup."
+            "en": "This car tour combines the elegance of Grasse with the wild nature of the Pre-Alps. After a city stroll, drive up to Gourdon, spectacularly perched on a rock. After lunch, explore the Gorges du Loup and its waterfalls. The sweet finish is at Confiserie Florian in Pont-du-Loup.",
+            "fr": "Cette excursion en voiture allie l’élégance de Grasse à la nature sauvage des Préalpes. Après une promenade en ville, montez jusqu’à Gourdon, spectaculaire perché sur un rocher. Après le déjeuner, explorez les Gorges du Loup et ses cascades. La douceur finale se déguste à la Confiserie Florian à Pont-du-Loup."
           },
           "stops": [
             {
@@ -1947,13 +2004,15 @@
                 "de": "Grasse Altstadt",
                 "hu": "Grasse óváros",
                 "ro": "Centrul vechi Grasse",
-                "en": "Grasse Old Town"
+                "en": "Grasse Old Town",
+                "fr": "Vieille ville de Grasse"
               },
               "tip_5lang": {
                 "de": "Parken Sie im Parkhaus Honoré Cresp.",
                 "hu": "Parkoljon a Honoré Cresp parkolóházban.",
                 "ro": "Parcați în parcarea Honoré Cresp.",
-                "en": "Park in the Honoré Cresp parking garage."
+                "en": "Park in the Honoré Cresp parking garage.",
+                "fr": "Garez-vous dans le parking Honoré Cresp."
               }
             },
             {
@@ -1961,13 +2020,15 @@
                 "de": "Gourdon (Adlernest-Dorf)",
                 "hu": "Gourdon (sasfészek falu)",
                 "ro": "Gourdon (sat cuib de vulturi)",
-                "en": "Gourdon (Eagle's Nest Village)"
+                "en": "Gourdon (Eagle's Nest Village)",
+                "fr": "Gourdon (village du Nid d’Aigle)"
               },
               "tip_5lang": {
                 "de": "Eines der schönsten Dörfer Frankreichs.",
                 "hu": "Franciaország egyik legszebb faluja.",
                 "ro": "Unul dintre cele mai frumoase sate din Franța.",
-                "en": "One of the most beautiful villages in France."
+                "en": "One of the most beautiful villages in France.",
+                "fr": "Un des plus beaux villages de France."
               }
             },
             {
@@ -1975,13 +2036,15 @@
                 "de": "Mittagessen mit Aussicht",
                 "hu": "Ebéd kilátással",
                 "ro": "Prânz cu vedere",
-                "en": "Lunch with a View"
+                "en": "Lunch with a View",
+                "fr": "Déjeuner avec vue"
               },
               "tip_5lang": {
                 "de": "Genießen Sie den Blick auf die Côte d'Azur.",
                 "hu": "Élvezze a kilátást a Riviérára.",
                 "ro": "Bucurați-vă de vederea spre Coasta de Azur.",
-                "en": "Enjoy the view of the Côte d'Azur."
+                "en": "Enjoy the view of the Côte d'Azur.",
+                "fr": "Profitez de la vue sur la Côte d’Azur."
               }
             },
             {
@@ -1989,13 +2052,15 @@
                 "de": "Gorges du Loup",
                 "hu": "Gorges du Loup (Loup-szurdok)",
                 "ro": "Gorges du Loup",
-                "en": "Gorges du Loup"
+                "en": "Gorges du Loup",
+                "fr": "Gorges du Loup"
               },
               "tip_5lang": {
                 "de": "Besuchen Sie den Saut du Loup Wasserfall.",
                 "hu": "Látogassa meg a Saut du Loup vízesést.",
                 "ro": "Vizitați cascada Saut du Loup.",
-                "en": "Visit the Saut du Loup waterfall."
+                "en": "Visit the Saut du Loup waterfall.",
+                "fr": "Visitez la cascade du Saut du Loup."
               }
             },
             {
@@ -2003,13 +2068,15 @@
                 "de": "Confiserie Florian",
                 "hu": "Confiserie Florian",
                 "ro": "Confiserie Florian",
-                "en": "Confiserie Florian"
+                "en": "Confiserie Florian",
+                "fr": "Confiserie Florian"
               },
               "tip_5lang": {
                 "de": "Probieren Sie die kandierten Blumen.",
                 "hu": "Kóstolja meg a kandírozott virágokat.",
                 "ro": "Gustați florile zaharate.",
-                "en": "Taste the candied flowers."
+                "en": "Taste the candied flowers.",
+                "fr": "Goûtez les fleurs confites."
               }
             }
           ],
@@ -2111,6 +2178,10 @@
             "en": [
               "The roads to Gourdon are winding, drive carefully.",
               "Parking in Gourdon can be difficult in summer."
+            ],
+            "fr": [
+              "Les routes vers Gourdon sont sinueuses, conduisez prudemment.",
+              "Le stationnement à Gourdon peut être difficile en été."
             ]
           }
         },
@@ -2120,7 +2191,7 @@
             "hu": "A ködös Provence-i tájon való autózásnak megvan a maga varázsa. Grasse megtekintése után a kanyargós út felvezet Gourdonba, amely gyakran misztikusan a felhőkbe burkolózik. Élvezze az ebédet panorámás kilátással az esős szurdokra. A Gorges du Loup esőben különösen lenyűgöző. A napot a Confiserie Florian édességei között, melegben zárhatja.",
             "ro": "Condusul prin ceața din Provence are un farmec aparte. După vizitarea orașului Grasse, drumul sinuos urcă spre Gourdon, care este adesea învăluit mistic în nori. Bucurați-vă de un prânz cu vedere panoramică spre defileul ploios. Gorges du Loup sunt impresionante pe ploaie. Încheiați ziua la Confiserie Florian, la căldură.",
             "en": "Driving through the misty Provencal landscape has a unique charm. After exploring Grasse, the winding road leads up to Gourdon, often shrouded mystically in clouds. Enjoy a lunch with a panoramic view of the rainy valley. The Gorges du Loup waterfalls are especially powerful during rain. End your day inside the warm Confiserie Florian.",
-            "fr": "Conduire à travers le paysage provençal brumeux a un charme unique. Après avoir exploré Grasse, la route sinueuse mène à Gourdon, souvent enveloppé mystiquement de nuages. Profitez d'un déjeuner avec vue panoramique sur la vallée pluvieuse. Les cascades des Gorges du Loup sont particulièrement puissantes pendant la pluie. Terminez votre journée à l'intérieur de la chaleureuse Confiserie Florian."
+            "fr": "Conduire à travers le paysage provençal brumeux a un charme unique. Après avoir exploré Grasse, la route sinueuse mène à Gourdon, souvent mystiquement enveloppé de nuages. Profitez d’un déjeuner avec vue panoramique sur la vallée pluvieuse. Les cascades des Gorges du Loup sont particulièrement puissantes après la pluie. Terminez votre journée à l’abri, à la Confiserie Florian."
           },
           "stops": [
             {
@@ -2130,7 +2201,7 @@
                 "hu": "Parkoljon a Honoré Cresp parkolóházban a közvetlen, száraz induláshoz.",
                 "ro": "Parcați în parcarea Honoré Cresp pentru a porni direct în centru la uscat.",
                 "en": "Park in the Honoré Cresp parking garage for dry access to the center.",
-                "fr": "Garez-vous dans le parking Honoré Cresp pour un accès au sec vers le centre."
+                "fr": "Garez-vous dans le parking Honoré Cresp pour un accès au centre à l’abri."
               }
             },
             {
@@ -2140,7 +2211,7 @@
                 "hu": "A kilátás korlátozott lehet, de a hangulat egyedülálló.",
                 "ro": "Vizibilitatea poate fi redusă, dar atmosfera este unică.",
                 "en": "Visibility might be limited, but the misty atmosphere is unique.",
-                "fr": "La visibilité peut être limitée, mais l'atmosphère brumeuse est unique."
+                "fr": "La visibilité peut être limitée, mais l’atmosphère brumeuse est unique."
               }
             },
             {
@@ -2160,7 +2231,7 @@
                 "hu": "A vízesések esőzés után sokkal látványosabbak.",
                 "ro": "Cascadele sunt mult mai spectaculoase după ploi.",
                 "en": "The waterfalls are significantly more spectacular after rainfall.",
-                "fr": "Les cascades sont nettement plus spectaculaires après les précipitations."
+                "fr": "Les cascades sont nettement plus spectaculaires après les pluies."
               }
             },
             {
@@ -2204,11 +2275,11 @@
               "Check in advance if all viewpoints are accessible during bad weather."
             ],
             "fr": [
-              "Conduisez très prudemment dans les virages en épingle à cheveux quand la route est mouillée.",
-              "La route des gorges peut être sujette aux chutes de pierres lors de fortes pluies.",
-              "Les feux de brouillard peuvent être utiles lors de la montée vers Gourdon.",
-              "Apportez un parapluie solide pour les courtes marches vers et depuis la voiture.",
-              "Vérifiez à l'avance si tous les points de vue sont accessibles par mauvais temps."
+              "Conduisez très prudemment dans les épingles à cheveux quand la route est mouillée.",
+              "La route de la gorge peut être sujette à des chutes de pierres lors de fortes pluies.",
+              "Les feux antibrouillard peuvent être utiles pour monter à Gourdon.",
+              "Apportez un parapluie solide pour les courts trajets entre la voiture et les lieux.",
+              "Vérifiez à l’avance si tous les points de vue sont accessibles par mauvais temps."
             ]
           }
         },
@@ -2218,7 +2289,7 @@
             "hu": "A tél kínálja a legtisztább kilátást a Côte d’Azur-re a hegyi utakról. Grasse-ban a parkolás egyszerűbb, mint nyáron. A Gourdonba vezető út látványos a kék téli égbolt alatt. Élvezze a meleg napsütést az ebéden egy védett teraszon. A Gorges du Loup hűvös, tiszta fényben mutatkozik meg, mielőtt a Floriannál édességekkel tankolna fel.",
             "ro": "Iarna oferă cele mai clare vederi spre Coasta de Azur de pe drumurile de înălțime. În Grasse parcarea este mai facilă decât vara. Urcarea spre Gourdon este spectaculoasă sub cerul albastru de iarnă. Bucurați-vă de soarele blând la prânz pe o terasă protejată. Gorges du Loup se arată în lumină rece și clară înainte de a vă aproviziona cu dulciuri la Florian.",
             "en": "Winter provides the clearest views of the Côte d’Azur from the mountain roads. Parking in Grasse is much easier than in summer. The drive to Gourdon is spectacular under a bright blue winter sky. Enjoy the warm sun during lunch on a sheltered terrace. The Gorges du Loup look crisp in the cool light before you stock up on sweets at Florian.",
-            "fr": "L'hiver offre les vues les plus claires sur la Côte d’Azur depuis les routes de montagne. Le stationnement à Grasse est beaucoup plus facile qu'en été. Le trajet vers Gourdon est spectaculaire sous un ciel d'hiver bleu éclatant. Profitez du soleil chaud lors du déjeuner sur une terrasse abritée. Les Gorges du Loup paraissent nettes sous la lumière fraîche avant de faire le plein de douceurs chez Florian."
+            "fr": "L’hiver offre les vues les plus nettes sur la Côte d’Azur depuis les routes de montagne. Le stationnement à Grasse est beaucoup plus facile qu’en été. La route vers Gourdon est spectaculaire sous un ciel d’hiver bleu vif. Profitez du soleil chaud pendant le déjeuner sur une terrasse abritée. Les Gorges du Loup paraissent vives dans la lumière fraîche avant que vous fassiez le plein de douceurs chez Florian."
           },
           "stops": [
             {
@@ -2228,7 +2299,7 @@
                 "hu": "Használja a kevésbé zsúfolt parkolókat a város szélén.",
                 "ro": "Folosiți parcările mai puțin aglomerate de la marginea orașului.",
                 "en": "Take advantage of the less crowded parking lots on the outskirts.",
-                "fr": "Profitez des parkings moins encombrés à la périphérie."
+                "fr": "Profitez des parkings moins fréquentés en périphérie."
               }
             },
             {
@@ -2238,7 +2309,7 @@
                 "hu": "A legjobb időszak a tengerig tartó kilátáshoz.",
                 "ro": "Cea mai bună perioadă pentru vederi panoramice până la mare.",
                 "en": "The best time for long-distance views all the way to the sea.",
-                "fr": "Le meilleur moment pour des vues lointaines jusqu'à la mer."
+                "fr": "Le meilleur moment pour des vues lointaines jusqu’à la mer."
               }
             },
             {
@@ -2248,7 +2319,7 @@
                 "hu": "A hősugárzókkal felszerelt teraszok nagyon népszerűek télen.",
                 "ro": "Terasele cu încălzitoare sunt foarte populare iarna.",
                 "en": "Terraces with outdoor heaters are very popular in winter.",
-                "fr": "Les terraces avec chauffages extérieurs sont très populaires en hiver."
+                "fr": "Les terrasses avec chauffages extérieurs sont très prisées en hiver."
               }
             },
             {
@@ -2258,7 +2329,7 @@
                 "hu": "Öltözzön melegen, a szurdokban árnyékos és hűvös az idő.",
                 "ro": "Îmbrăcați-vă gros, în defileu este umbră și răcoare.",
                 "en": "Wear warm clothes; the gorge stays shady and cool in winter.",
-                "fr": "Portez des vêtements chauds ; les gorges restent ombragées et fraîches en hiver."
+                "fr": "Portez des vêtements chauds ; la gorge reste ombragée et fraîche en hiver."
               }
             },
             {
@@ -2302,11 +2373,11 @@
               "Enjoy the crisp air for high-quality panoramic photos."
             ],
             "fr": [
-              "Évitez de conduire en haute altitude s'il y a un risque de gel.",
-              "Le bas soleil d'hiver peut être aveuglant ; gardez vos lunettes de soleil à portée de main.",
-              "Les villages de montagne sont beaucoup plus calmes et authentiques en hiver.",
+              "Évitez de conduire en haute altitude s’il y a un risque de gel.",
+              "Le soleil bas d’hiver peut être éblouissant ; gardez vos lunettes de soleil à portée.",
+              "Les villages de montagne sont bien plus calmes et authentiques en hiver.",
               "Certaines routes de montagne peuvent fermer lors de chutes de neige soudaines.",
-              "Profitez de l'air vif pour des photos panoramiques de haute qualité."
+              "Profitez de l’air vif pour des photos panoramiques de grande qualité."
             ]
           }
         }
@@ -2325,7 +2396,8 @@
             "de": "Grasse Bahnhof",
             "hu": "Grasse vasútállomás",
             "ro": "Gara Grasse",
-            "en": "Grasse Train Station"
+            "en": "Grasse Train Station",
+            "fr": "Gare de Grasse"
           },
           "coords": [
             6.9315,
@@ -2341,7 +2413,7 @@
             "hu": "Szálljon fel a központba menő ingajáratra.",
             "ro": "Luați autobuzul navetă spre centru.",
             "en": "Take the shuttle bus (navette) to the center.",
-            "fr": "Prenez la navette jusqu'au centre."
+            "fr": "Prenez la navette jusqu’au centre."
           }
         },
         {
@@ -2349,7 +2421,8 @@
             "de": "Cours Honoré Cresp",
             "hu": "Cours Honoré Cresp",
             "ro": "Cours Honoré Cresp",
-            "en": "Cours Honoré Cresp"
+            "en": "Cours Honoré Cresp",
+            "fr": "Cours Honoré Cresp"
           },
           "coords": [
             6.9245,
@@ -2373,7 +2446,8 @@
             "de": "MIP - Parfümmuseum",
             "hu": "MIP - Parfümmúzeum",
             "ro": "MIP - Muzeul Parfumului",
-            "en": "MIP - Perfume Museum"
+            "en": "MIP - Perfume Museum",
+            "fr": "MIP - Musée du Parfum"
           },
           "coords": [
             6.9219,
@@ -2397,7 +2471,8 @@
             "de": "Mittagessen in der Altstadt",
             "hu": "Ebéd az óvárosban",
             "ro": "Prânz în centrul vechi",
-            "en": "Lunch in the Old Town"
+            "en": "Lunch in the Old Town",
+            "fr": "Déjeuner dans la vieille ville"
           },
           "coords": [
             6.9235,
@@ -2413,7 +2488,7 @@
             "hu": "Fedezzen fel kis bisztrókat a sikátorokban.",
             "ro": "Descoperiți bistrouri mici pe străduțe.",
             "en": "Discover small bistros in the alleys.",
-            "fr": "Découvrez de petits bistros dans les ruelles."
+            "fr": "Découvrez de petits bistrots dans les ruelles."
           }
         },
         {
@@ -2421,7 +2496,8 @@
             "de": "Villa Fragonard & Gärten",
             "hu": "Villa Fragonard és kertek",
             "ro": "Villa Fragonard și grădinile",
-            "en": "Villa Fragonard & Gardens"
+            "en": "Villa Fragonard & Gardens",
+            "fr": "Villa Fragonard et jardins"
           },
           "coords": [
             6.9225,
@@ -2437,7 +2513,7 @@
             "hu": "Pihentető délután a zöldben.",
             "ro": "O după-amiază relaxantă în natură.",
             "en": "A relaxing afternoon in the greenery.",
-            "fr": "Un après-midi de détente dans la verdure."
+            "fr": "Un après-midi détente au milieu de la verdure."
           }
         }
       ],
@@ -2446,7 +2522,7 @@
         "hu": "Használja Grasse hatékony buszhálózatát. A vasútállomástól gyorsan bejuthat a város szívébe. Látogassa meg a neves MIP múzeumot, és élvezze a helyi specialitásokat az óvárosban. A délutánt töltse pihentetően a Villa Fragonard kertjében, mielőtt busszal visszatérne az állomásra.",
         "ro": "Utilizați sistemul eficient de autobuze din Grasse. De la gară ajungeți rapid în inima orașului. Vizitați renumitul muzeu MIP și savurați specialități locale în centrul vechi. Petreceți după-amiaza relaxându-vă în grădinile Villa Fragonard, înainte de a lua autobuzul înapoi spre gară.",
         "en": "Use the efficient bus system of Grasse. From the train station, you quickly reach the heart of the city. Visit the renowned MIP museum and enjoy local specialties in the old town. Spend a relaxing afternoon in the gardens of Villa Fragonard before taking the bus back to the station.",
-        "fr": "Utilisez le système de bus efficace de Grasse. Depuis la gare, vous atteignez rapidement le cœur de la ville. Visitez le célèbre musée MIP et dégustez des spécialités locales dans la vieille ville. Passez un après-midi de détente dans les jardins de la Villa Fragonard avant de reprendre le bus pour la gare."
+        "fr": "Utilisez le système de bus efficace de Grasse. Depuis la gare, vous rejoignez rapidement le cœur de la ville. Visitez le renommé musée MIP et dégustez des spécialités locales dans la vieille ville. Passez un après-midi détente dans les jardins de la Villa Fragonard avant de reprendre le bus pour la gare."
       },
       "gastro_picks": {
         "de": [
@@ -2567,7 +2643,7 @@
           "Buses run regularly between the station and the center."
         ],
         "fr": [
-          "Achetez un ticket à la journée pour le réseau de bus 'Sillages'.",
+          "Achetez un ticket journée pour le réseau de bus « Sillages ».",
           "Les bus circulent régulièrement entre la gare et le centre."
         ]
       },
@@ -2577,7 +2653,8 @@
             "de": "Nutzen Sie das effiziente Bussystem von Grasse. Vom Bahnhof gelangen Sie schnell ins Herz der Stadt. Besuchen Sie das renommierte MIP-Museum und genießen Sie lokale Spezialitäten in der Altstadt. Den Nachmittag verbringen Sie entspannt in den Gärten der Villa Fragonard, bevor Sie mit dem Bus zurück zum Bahnhof fahren.",
             "hu": "Használja Grasse hatékony buszhálózatát. A vasútállomástól gyorsan bejuthat a város szívébe. Látogassa meg a neves MIP múzeumot, és élvezze a helyi specialitásokat az óvárosban. A délutánt töltse pihentetően a Villa Fragonard kertjében, mielőtt busszal visszatérne az állomásra.",
             "ro": "Utilizați sistemul eficient de autobuze din Grasse. De la gară ajungeți rapid în inima orașului. Vizitați renumitul muzeu MIP și savurați specialități locale în centrul vechi. Petreceți după-amiaza relaxându-vă în grădinile Villa Fragonard, înainte de a lua autobuzul înapoi spre gară.",
-            "en": "Use the efficient bus system of Grasse. From the train station, you quickly reach the heart of the city. Visit the renowned MIP museum and enjoy local specialties in the old town. Spend a relaxing afternoon in the gardens of Villa Fragonard before taking the bus back to the station."
+            "en": "Use the efficient bus system of Grasse. From the train station, you quickly reach the heart of the city. Visit the renowned MIP museum and enjoy local specialties in the old town. Spend a relaxing afternoon in the gardens of Villa Fragonard before taking the bus back to the station.",
+            "fr": "Utilisez le système de bus efficace de Grasse. Depuis la gare, vous rejoignez rapidement le cœur de la ville. Visitez le renommé musée MIP et dégustez des spécialités locales dans la vieille ville. Passez un après-midi détente dans les jardins de la Villa Fragonard avant de reprendre le bus pour la gare."
           },
           "stops": [
             {
@@ -2585,13 +2662,15 @@
                 "de": "Grasse Bahnhof",
                 "hu": "Grasse vasútállomás",
                 "ro": "Gara Grasse",
-                "en": "Grasse Train Station"
+                "en": "Grasse Train Station",
+                "fr": "Gare de Grasse"
               },
               "tip_5lang": {
                 "de": "Nehmen Sie den Shuttlebus (Navette) ins Zentrum.",
                 "hu": "Szálljon fel a központba menő ingajáratra.",
                 "ro": "Luați autobuzul navetă spre centru.",
-                "en": "Take the shuttle bus (navette) to the center."
+                "en": "Take the shuttle bus (navette) to the center.",
+                "fr": "Prenez la navette pour le centre."
               }
             },
             {
@@ -2599,13 +2678,15 @@
                 "de": "Cours Honoré Cresp",
                 "hu": "Cours Honoré Cresp",
                 "ro": "Cours Honoré Cresp",
-                "en": "Cours Honoré Cresp"
+                "en": "Cours Honoré Cresp",
+                "fr": "Cours Honoré Cresp"
               },
               "tip_5lang": {
                 "de": "Der zentrale Punkt für alle Buslinien.",
                 "hu": "Minden buszjárat központi pontja.",
                 "ro": "Punctul central pentru toate liniile de autobuz.",
-                "en": "The central point for all bus lines."
+                "en": "The central point for all bus lines.",
+                "fr": "Le point central pour toutes les lignes de bus."
               }
             },
             {
@@ -2613,13 +2694,15 @@
                 "de": "MIP - Parfümmuseum",
                 "hu": "MIP - Parfümmúzeum",
                 "ro": "MIP - Muzeul Parfumului",
-                "en": "MIP - Perfume Museum"
+                "en": "MIP - Perfume Museum",
+                "fr": "MIP - Musée du Parfum"
               },
               "tip_5lang": {
                 "de": "Nur wenige Schritte von der Bushaltestelle entfernt.",
                 "hu": "Csak pár lépésre a buszmegállótól.",
                 "ro": "La doar câțiva pași de stația de autobuz.",
-                "en": "Just a few steps from the bus stop."
+                "en": "Just a few steps from the bus stop.",
+                "fr": "À quelques pas seulement de l'arrêt de bus."
               }
             },
             {
@@ -2627,13 +2710,15 @@
                 "de": "Mittagessen in der Altstadt",
                 "hu": "Ebéd az óvárosban",
                 "ro": "Prânz în centrul vechi",
-                "en": "Lunch in the Old Town"
+                "en": "Lunch in the Old Town",
+                "fr": "Déjeuner dans la vieille ville"
               },
               "tip_5lang": {
                 "de": "Entdecken Sie kleine Bistros in den Gassen.",
                 "hu": "Fedezzen fel kis bisztrókat a sikátorokban.",
                 "ro": "Descoperiți bistrouri mici pe străduțe.",
-                "en": "Discover small bistros in the alleys."
+                "en": "Discover small bistros in the alleys.",
+                "fr": "Découvrez de petits bistrots dans les ruelles."
               }
             },
             {
@@ -2641,13 +2726,15 @@
                 "de": "Villa Fragonard & Gärten",
                 "hu": "Villa Fragonard és kertek",
                 "ro": "Villa Fragonard și grădinile",
-                "en": "Villa Fragonard & Gardens"
+                "en": "Villa Fragonard & Gardens",
+                "fr": "Villa Fragonard et jardins"
               },
               "tip_5lang": {
                 "de": "Ein entspannter Nachmittag im Grünen.",
                 "hu": "Pihentető délután a zöldben.",
                 "ro": "O după-amiază relaxantă în natură.",
-                "en": "A relaxing afternoon in the greenery."
+                "en": "A relaxing afternoon in the greenery.",
+                "fr": "Un après-midi détente au milieu de la verdure."
               }
             }
           ],
@@ -2749,6 +2836,10 @@
             "en": [
               "Buy a day ticket for the 'Sillages' bus network.",
               "Buses run regularly between the station and the center."
+            ],
+            "fr": [
+              "Achetez un ticket journée pour le réseau de bus « Sillages ».",
+              "Les bus circulent régulièrement entre la gare et le centre."
             ]
           }
         },
@@ -2758,7 +2849,7 @@
             "hu": "A vonat kényelmesen elviszi a vizes Grasse-ba. A vasútállomástól rövid buszút vezet a Cours Honoré Cresp-hez, elkerülve az esőt. Töltse a délelőttöt a fedett Parfümmúzeumban (MIP). Egy óvárosi ebéd után a Villa Fragonard nyújt kulturális zárást. A tömegközlekedés a legjobb módja annak, hogy szárazon közlekedjen a látnivalók között.",
             "ro": "Trenul vă aduce confortabil în Grasse pe ploaie. De la gară, o scurtă călătorie cu autobuzul vă duce la Cours Honoré Cresp, evitând ploaia. Petreceți dimineața la Muzeul Parfumului (MIP). După un prânz în centrul vechi, Villa Fragonard oferă un final cultural. Transportul public este cea mai bună cale de a circula între obiective fără a vă uda.",
             "en": "The train brings you comfortably to Grasse despite the rain. From the station, a short bus ride takes you to Cours Honoré Cresp to avoid the wet walk. Spend your morning at the indoor Perfume Museum (MIP). After lunch in the old town, Villa Fragonard offers a cultural finish. Public transit is the best way to move between highlights while staying dry.",
-            "fr": "Le train vous amène confortablement à Grasse malgré la pluie. Depuis la gare, un court trajet en bus vous dépose au Cours Honoré Cresp pour éviter la marche sous l'eau. Passez votre matinée au Musée de la Parfumerie (MIP) en intérieur. Après le déjeuner dans la vieille ville, la Villa Fragonard offre une note culturelle finale. Les transports en commun sont le meilleur moyen de se déplacer entre les points forts tout en restant au sec."
+            "fr": "Le train vous amène confortablement à Grasse malgré la pluie. Depuis la gare, un court trajet en bus vous conduit au Cours Honoré Cresp pour éviter la marche sous la pluie. Passez la matinée au Musée du Parfum (MIP) à l'abri. Après le déjeuner dans la vieille ville, la Villa Fragonard offre une conclusion culturelle. Les transports en commun sont le meilleur moyen de se déplacer entre les points d'intérêt tout en restant au sec."
           },
           "stops": [
             {
@@ -2768,7 +2859,7 @@
                 "hu": "Várjon az állomás épületében a csatlakozó buszra.",
                 "ro": "Așteptați autobuzul de legătură în interiorul gării.",
                 "en": "Wait inside the station building for your connecting bus.",
-                "fr": "Attendez à l'intérieur du bâtiment de la gare votre bus de correspondance."
+                "fr": "Attendez à l'intérieur du bâtiment de la gare pour votre correspondance de bus."
               }
             },
             {
@@ -2798,7 +2889,7 @@
                 "hu": "Válasszon éttermet egy buszmegálló közelében.",
                 "ro": "Alegeți un restaurant aproape de o stație de autobuz.",
                 "en": "Choose a restaurant located near a major bus stop.",
-                "fr": "Choisissez un restaurant situé à proximité d'un arrêt de bus majeur."
+                "fr": "Choisissez un restaurant situé près d'un arrêt de bus principal."
               }
             },
             {
@@ -2808,7 +2899,7 @@
                 "hu": "A villa belső tere kiváló menedékhely.",
                 "ro": "Interiorul vilei este un loc de refugiu excelent.",
                 "en": "The interior of the villa is a great refuge from the weather.",
-                "fr": "L'intérieur de la villa est un excellent refuge contre les intempéries."
+                "fr": "L'intérieur de la villa est un excellent refuge contre le mauvais temps."
               }
             }
           ],
@@ -2842,9 +2933,9 @@
               "Keep your ticket ready to avoid searching for it while standing in the rain."
             ],
             "fr": [
-              "Utilisez l'application 'Sillages' pour connaître l'heure d'arrivée des bus en temps réel.",
-              "Un pass journalier vaut le coup si vous prévoyez de changer souvent de bus sous la pluie.",
-              "Les bus ont tendance à être plus bondés par mauvais temps ; prévoyez du temps supplémentaire.",
+              "Utilisez l'application « Sillages » pour les horaires de bus en temps réel.",
+              "Un pass journée vaut le coup si vous prévoyez de changer souvent de bus sous la pluie.",
+              "Les bus ont tendance à être plus chargés par mauvais temps ; prévoyez du temps supplémentaire.",
               "Les escalators centraux peuvent être hors service lors de fortes pluies.",
               "Gardez votre ticket à portée de main pour éviter de le chercher sous la pluie."
             ]
@@ -2856,7 +2947,7 @@
             "hu": "A vonattal való érkezés télen remek kilátást nyújt a partvidékre. A vasútállomástól a busz gyorsan a város szívébe repíti. Sétáljon a napsütötte Cours Honoré Cresp-en, mielőtt meglátogatja a MIP-et. Egy hangulatos ebéd felmelegíti a délutánra. Látogassa meg korán a Villa Fragonard-t, hogy élvezhesse az aranyló téli fényeket a kertben.",
             "ro": "Sosirea cu trenul oferă iarna o vedere excelentă asupra coastei. De la gară, autobuzul vă duce rapid în inima orașului. Plimbați-vă pe Cours Honoré Cresp însorit înainte de a vizita MIP. Un prânz plăcut vă va încălzi pentru după-amiază. Vizitați Villa Fragonard devreme pentru a vă bucura de lumina aurie de iarnă din grădini.",
             "en": "Arriving by train in winter offers great coastal views. The bus from the station quickly whisks you to the city center. Stroll across the sunny Cours Honoré Cresp before heading into the MIP. A cozy lunch will warm you up for the afternoon. Visit Villa Fragonard early to catch the golden winter light in its historic gardens.",
-            "fr": "Arriver en train en hiver offre de superbes vues sur la côte. Le bus depuis la gare vous transporte rapidement au centre-ville. Flânez sur le Cours Honoré Cresp ensoleillé avant de vous rendre au MIP. Un déjeuner chaleureux vous réchauffera pour l'après-midi. Visitez la Villa Fragonard tôt pour capturer la lumière dorée de l'hiver dans ses jardins historiques."
+            "fr": "Arriver en train en hiver offre de belles vues côtières. Le bus depuis la gare vous mène rapidement au centre-ville. Promenez-vous le long du lumineux Cours Honoré Cresp avant d'entrer au MIP. Un déjeuner chaleureux vous réchauffera pour l'après-midi. Visitez la Villa Fragonard tôt pour profiter de la lumière dorée d'hiver dans ses jardins historiques."
           },
           "stops": [
             {
@@ -2876,7 +2967,7 @@
                 "hu": "Szép hely a téli napsütés élvezetéhez.",
                 "ro": "Un loc frumos pentru a vă bucura de soarele de iarnă.",
                 "en": "A lovely spot to soak up some winter sunshine.",
-                "fr": "Un bel endroit pour profiter d'un peu de soleil hivernal."
+                "fr": "Un endroit agréable pour profiter du soleil hivernal."
               }
             },
             {
@@ -2886,7 +2977,7 @@
                 "hu": "Használja a ruhatárat a nehéz téli kabátokhoz.",
                 "ro": "Folosiți garderoba pentru hainele groase de iarnă.",
                 "en": "Use the cloakroom to store your heavy winter coats during the visit.",
-                "fr": "Utilisez le vestiaire pour déposer vos lourds manteaux d'hiver pendant la visite."
+                "fr": "Utilisez le vestiaire pour ranger vos lourds manteaux d'hiver pendant la visite."
               }
             },
             {
@@ -2896,7 +2987,7 @@
                 "hu": "Sok helyen van napsütötte kültéri rész télen is.",
                 "ro": "Multe locuri oferă zone exterioare însorite chiar și iarna.",
                 "en": "Many restaurants offer sunny outdoor seating areas even in winter.",
-                "fr": "De nombreux restaurants proposent des terrasses ensoleillées même en hiver."
+                "fr": "Beaucoup de restaurants proposent des terrasses ensoleillées même en hiver."
               }
             },
             {
@@ -2906,7 +2997,7 @@
                 "hu": "A fények kora délután a legszebbek.",
                 "ro": "Lumina este cea mai frumoasă la începutul după-amiezii.",
                 "en": "The light is most beautiful in the early afternoon hours.",
-                "fr": "La lumière est la plus belle dans les premières heures de l'après-midi."
+                "fr": "La lumière est la plus belle en début d'après-midi."
               }
             }
           ],
@@ -2940,11 +3031,11 @@
               "Winter often features attractive combo-tickets for rail and museums."
             ],
             "fr": [
-              "Les trains ont tendance à être plus ponctuels en hiver que pendant les canicules estivales.",
-              "Portez un bonnet car les zones d'attente des bus peuvent être assez venteuses.",
-              "Vérifiez la dernière correspondance de bus pour la gare après le coucher du soleil.",
-              "Utilisez les options de parking-relais si vous venez de l'extérieur de Grasse.",
-              "L'hiver propose souvent des billets combinés attractifs train et musées."
+              "Les trains ont tendance à être plus ponctuels en hiver qu'en période de canicule estivale.",
+              "Portez un chapeau car les zones d'attente des bus peuvent être assez courantes en courant d'air.",
+              "Vérifiez la dernière correspondance de bus vers la gare après le coucher du soleil.",
+              "Utilisez les options Park-and-Ride si vous venez de l'extérieur de Grasse.",
+              "L'hiver propose souvent des billets combinés attractifs train + musées."
             ]
           }
         }

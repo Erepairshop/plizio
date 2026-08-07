@@ -31,7 +31,8 @@
             "de": "Beobachten Sie das bunte Treiben der Fischerboote am frühen Morgen.",
             "hu": "Figyelje meg a halászhajók reggeli jövés-menését a csatornán.",
             "ro": "Priviți activitatea matinală a bărcilor de pescuit pe canal.",
-            "en": "Watch the morning bustle of the fishing boats along the canal."
+            "en": "Watch the morning bustle of the fishing boats along the canal.",
+            "fr": "Observez l'effervescence matinale des bateaux de pêche le long du canal."
           }
         },
         {
@@ -49,7 +50,8 @@
             "de": "Gehen Sie die Mole entlang bis zum markanten roten Leuchtturm.",
             "hu": "Sétáljon végig a gáton a jellegzetes piros világítótoronyig.",
             "ro": "Mergeți de-a lungul digului până la farul roșu distinctiv.",
-            "en": "Walk along the pier to the distinctive red lighthouse."
+            "en": "Walk along the pier to the distinctive red lighthouse.",
+            "fr": "Promenez-vous le long de la jetée jusqu'au phare rouge distinctif."
           }
         },
         {
@@ -67,7 +69,8 @@
             "de": "Genießen Sie die Kunstwerke mit Blick auf den Meeresfriedhof.",
             "hu": "Élvezze a műalkotásokat a tengerparti temetőre nyíló kilátással.",
             "ro": "Bucurați-vă de operele de artă cu vedere spre cimitirul marin.",
-            "en": "Enjoy the artworks with a view overlooking the sea cemetery."
+            "en": "Enjoy the artworks with a view overlooking the sea cemetery.",
+            "fr": "Appréciez les œuvres d'art avec une vue sur le cimetière marin."
           }
         },
         {
@@ -85,7 +88,8 @@
             "de": "Besuchen Sie das Grab von Paul Valéry in dieser ruhigen Anlage.",
             "hu": "Látogassa meg Paul Valéry sírját ebben a békés környezetben.",
             "ro": "Vizitați mormântul lui Paul Valéry în acest cadru liniștit.",
-            "en": "Visit Paul Valéry's grave in this peaceful setting by the sea."
+            "en": "Visit Paul Valéry's grave in this peaceful setting by the sea.",
+            "fr": "Visitez la tombe de Paul Valéry dans ce cadre paisible au bord de la mer."
           }
         },
         {
@@ -103,7 +107,8 @@
             "de": "Ein altes Fort, das heute als Freilichtbühne über den Klippen dient.",
             "hu": "Egy régi erőd, amely ma szabadtéri színpadként működik a sziklákon.",
             "ro": "O fostă fortăreață transformată în amfiteatru în aer liber pe stânci.",
-            "en": "An old fort now serving as an open-air theater above the cliffs."
+            "en": "An old fort now serving as an open-air theater above the cliffs.",
+            "fr": "Un ancien fort servant aujourd'hui de théâtre en plein air au-dessus des falaises."
           }
         },
         {
@@ -121,7 +126,8 @@
             "de": "Der Aufstieg ist steil, aber der Blick auf den Étang de Thau ist unbezahlbar.",
             "hu": "A kapaszkodó meredek, de az Étang de Thau látványa kárpótol.",
             "ro": "Urcarea este abruptă, dar vederea spre Étang de Thau merită efortul.",
-            "en": "The climb is steep, but the view of the Étang de Thau is priceless."
+            "en": "The climb is steep, but the view of the Étang de Thau is priceless.",
+            "fr": "La montée est raide, mais la vue sur l'Étang de Thau est inestimable."
           }
         }
       ],
@@ -129,7 +135,8 @@
         "de": "Der Tag beginnt am Canal Royal, wo das maritime Herz der Stadt schlägt. Wir schlendern zur Mole und dem Leuchtturm, bevor wir uns der Kultur im Paul-Valéry-Museum und der Stille des Meeresfriedhofs widmen. Nach einem Blick auf das spektakuläre Théâtre de la Mer nehmen wir die Herausforderung des Mont Saint-Clair an, um Sète von oben zu bewundern.",
         "hu": "A nap a Canal Royal mentén indul, ahol Sète tengeri szíve dobog. Elsétálunk a mólóhoz és a világítótoronyhoz, majd a Paul-Valéry-Múzeum és a tengerparti temető csendje következik. A látványos Théâtre de la Mer érintése után meghódítjuk a Mont Saint-Clairt, hogy fentről csodáljuk meg a várost és a lagúnát.",
         "ro": "Ziua începe pe Canal Royal, inima maritimă a orașului. Ne plimbăm spre dig și far, înainte de a ne dedica culturii la Muzeul Paul-Valéry și liniștii cimitirului marin. După o vizită la spectaculosul Théâtre de la Mer, acceptăm provocarea de a urca pe Mont Saint-Clair pentru a admira Sète de la înălțime.",
-        "en": "The day starts at Canal Royal, the maritime heart of the city. We stroll towards the pier and the lighthouse before diving into culture at the Paul-Valéry Museum and the serenity of the sea cemetery. After checking out the spectacular Théâtre de la Mer, we take on the challenge of Mont Saint-Clair to admire Sète from above."
+        "en": "The day starts at Canal Royal, the maritime heart of the city. We stroll towards the pier and the lighthouse before diving into culture at the Paul-Valéry Museum and the serenity of the sea cemetery. After checking out the spectacular Théâtre de la Mer, we take on the challenge of Mont Saint-Clair to admire Sète from above.",
+        "fr": "La journée commence au Canal Royal, cœur maritime de la ville. Nous nous promenons vers la jetée et le phare avant de plonger dans la culture au musée Paul-Valéry et la sérénité du cimetière marin. Après avoir découvert le spectaculaire Théâtre de la Mer, nous relevons le défi du Mont Saint-Clair pour admirer Sète d'en haut."
       },
       "gastro_picks": {
         "de": [
@@ -273,6 +280,12 @@
           "Try the fresh oysters from the nearby Étang de Thau lagoon.",
           "The city is very lively during the water jousting festivals (Saint-Louis).",
           "Explore the narrow, charming streets of the 'Quartier Haut' district."
+        ],
+        "fr": [
+          "Des chaussures confortables sont essentielles pour la montée au Mont Saint-Clair.",
+          "Goûtez les huîtres fraîches de l'étang de Thau tout proche.",
+          "La ville est très animée pendant les joutes nautiques (fête de Saint-Louis).",
+          "Explorez les rues étroites et charmantes du quartier du 'Quartier Haut'."
         ]
       }
     },
@@ -299,7 +312,8 @@
             "de": "Starten Sie Ihre Tour entlang der Kanäle.",
             "hu": "Indítsa a túrát a csatornák mentén.",
             "ro": "Începeți turul de-a lungul canalelor.",
-            "en": "Start your tour along the canals."
+            "en": "Start your tour along the canals.",
+            "fr": "Commencez votre visite le long des canaux."
           }
         },
         {
@@ -317,7 +331,8 @@
             "de": "Radeln Sie bis zum Ende der Mole.",
             "hu": "Kerekezzen egészen a móló végéig.",
             "ro": "Pedalați până la capătul digului.",
-            "en": "Cycle all the way to the end of the pier."
+            "en": "Cycle all the way to the end of the pier.",
+            "fr": "Pédalez jusqu'au bout de la jetée."
           }
         },
         {
@@ -335,7 +350,8 @@
             "de": "Kurzer Stopp an der imposanten Küstenfestung.",
             "hu": "Rövid megálló az impozáns tengerparti erődnél.",
             "ro": "Scurt popas la fortăreața impunătoare de pe coastă.",
-            "en": "Quick stop at the impressive coastal fortress."
+            "en": "Quick stop at the impressive coastal fortress.",
+            "fr": "Arrêt rapide au fort côtier impressionnant."
           }
         },
         {
@@ -353,7 +369,8 @@
             "de": "Museum gewidmet dem berühmten Chansonier von Sète.",
             "hu": "Sète híres sanzonénekesének szentelt múzeum.",
             "ro": "Muzeu dedicat celebrului șansonier din Sète.",
-            "en": "Museum dedicated to the famous singer-songwriter from Sète."
+            "en": "Museum dedicated to the famous singer-songwriter from Sète.",
+            "fr": "Musée dédié au célèbre auteur-compositeur-interprète de Sète."
           }
         },
         {
@@ -371,7 +388,8 @@
             "de": "Radeln Sie auf dem Radweg am Meer entlang.",
             "hu": "Tekerjen a tengerparti kerékpárúton.",
             "ro": "Pedalați pe pista de biciclete de-a lungul mării.",
-            "en": "Cycle along the coastal bike path."
+            "en": "Cycle along the coastal bike path.",
+            "fr": "Roulez le long de la piste cyclable côtière."
           }
         },
         {
@@ -389,7 +407,8 @@
             "de": "Nur für fitte Radfahrer oder mit E-Bike!",
             "hu": "Csak fitt bringásoknak vagy e-bike-kal!",
             "ro": "Doar pentru bicicliști antrenați sau cu e-bike!",
-            "en": "Only for fit cyclists or with an e-bike!"
+            "en": "Only for fit cyclists or with an e-bike!",
+            "fr": "Réservé aux cyclistes en forme ou avec un vélo à assistance électrique !"
           }
         }
       ],
@@ -397,7 +416,8 @@
         "de": "Diese Radtour führt uns vom geschäftigen Zentrum entlang der Küste zu den weiten Stränden des Lido. Wir huldigen Georges Brassens und genießen die Brise auf der Corniche. Zum Abschluss fordern wir den Mont Saint-Clair heraus, um den ultimativen Blick über das Becken von Thau zu erhaschen.",
         "hu": "Ez a kerékpártúra a nyüzsgő központtól a part mentén a Lido tágas strandjaiig vezet. Tisztelgünk Georges Brassens előtt, és élvezzük a tengeri szellőt a Corniche-on. Végezetül próbára tesszük magunkat a Mont Saint-Clair emelkedőjén a Thau-medencére nyíló panorámáért.",
         "ro": "Acest tur pe bicicletă ne duce din centrul aglomerat de-a lungul coastei spre plajele întinse din Lido. Îi aducem un omagiu lui Georges Brassens și ne bucurăm de briză pe Corniche. La final, provocăm muntele Saint-Clair pentru cea mai bună vedere asupra bazinului Thau.",
-        "en": "This bike tour takes us from the busy center along the coast to the wide beaches of the Lido. We pay tribute to Georges Brassens and enjoy the breeze on the Corniche. Finally, we challenge Mont Saint-Clair for the ultimate view over the Thau lagoon."
+        "en": "This bike tour takes us from the busy center along the coast to the wide beaches of the Lido. We pay tribute to Georges Brassens and enjoy the breeze on the Corniche. Finally, we challenge Mont Saint-Clair for the ultimate view over the Thau lagoon.",
+        "fr": "Cette randonnée à vélo nous emmène du centre animé le long de la côte jusqu'aux larges plages du Lido. Nous rendons hommage à Georges Brassens et profitons de la brise sur la corniche. Enfin, nous gravissons le Mont Saint-Clair pour la vue ultime sur l'étang de Thau."
       },
       "gastro_picks": {
         "de": [
@@ -501,6 +521,11 @@
           "The bike path to Marseillan is flat and very pleasant.",
           "Be careful with strong winds (Mistral/Tramontane).",
           "Always lock your bike securely."
+        ],
+        "fr": [
+          "La piste cyclable jusqu'à Marseillan est plate et très agréable.",
+          "Faites attention aux vents forts (Mistral/Tramontane).",
+          "Verrouillez toujours votre vélo solidement."
         ]
       }
     },
@@ -527,7 +552,8 @@
             "de": "Parken Sie im Parkhaus am Kanal.",
             "hu": "Parkoljon a csatorna melletti parkolóházban.",
             "ro": "Parcați în parcarea acoperită de lângă canal.",
-            "en": "Park in the parking garage near the canal."
+            "en": "Park in the parking garage near the canal.",
+            "fr": "Garez-vous dans le parking souterrain près du canal."
           }
         },
         {
@@ -545,7 +571,8 @@
             "de": "Vom Parkplatz zu Fuß erreichbar.",
             "hu": "A parkolóból gyalogosan elérhető.",
             "ro": "Accesibil pe jos din parcare.",
-            "en": "Accessible on foot from the parking area."
+            "en": "Accessible on foot from the parking area.",
+            "fr": "Accessible à pied depuis la zone de stationnement."
           }
         },
         {
@@ -563,7 +590,8 @@
             "de": "Fahren Sie direkt bis zum Gipfelparkplatz.",
             "hu": "Hajtson fel közvetlenül a csúcson lévő parkolóig.",
             "ro": "Conduceți direct până la parcarea de pe vârf.",
-            "en": "Drive directly up to the summit parking lot."
+            "en": "Drive directly up to the summit parking lot.",
+            "fr": "Montez directement jusqu'au parking du sommet."
           }
         },
         {
@@ -581,7 +609,8 @@
             "de": "Kleine Kapelle mit wunderschönen Fresken im Inneren.",
             "hu": "Kis kápolna gyönyörű belső freskókkal.",
             "ro": "Mică capelă cu fresce interioare superbe.",
-            "en": "Small chapel with beautiful frescoes inside."
+            "en": "Small chapel with beautiful frescoes inside.",
+            "fr": "Petite chapelle avec de belles fresques à l'intérieur."
           }
         },
         {
@@ -599,7 +628,8 @@
             "de": "Parken Sie entlang der Corniche.",
             "hu": "Parkoljon a Corniche út mentén.",
             "ro": "Parcați de-a lungul drumului Corniche.",
-            "en": "Park along the Corniche road."
+            "en": "Park along the Corniche road.",
+            "fr": "Garez-vous le long de la route de la corniche."
           }
         },
         {
@@ -617,7 +647,8 @@
             "de": "Direkt neben dem Friedhof gelegen.",
             "hu": "Közvetlenül a temető mellett található.",
             "ro": "Situat chiar lângă cimitir.",
-            "en": "Located right next to the cemetery."
+            "en": "Located right next to the cemetery.",
+            "fr": "Situé juste à côté du cimetière."
           }
         },
         {
@@ -635,7 +666,8 @@
             "de": "Kurzer Ausflug zu den Lagunenufern außerhalb von Sète.",
             "hu": "Rövid kiruccanás a lagúna partjára Sète-en kívül.",
             "ro": "Scurtă excursie pe malul lagunei în afara orașului Sète.",
-            "en": "Short trip to the lagoon shores outside of Sète."
+            "en": "Short trip to the lagoon shores outside of Sète.",
+            "fr": "Courte excursion jusqu'aux rives de la lagune en dehors de Sète."
           }
         }
       ],
@@ -643,7 +675,8 @@
         "de": "Mit dem Auto erkunden wir Sète in Clustern: erst das Hafenviertel, dann der mühelose Aufstieg zum Mont Saint-Clair für die Aussicht. Den Nachmittag verbringen wir an der Küste bei Kunst und Kultur, bevor wir für einen Abstecher an den Étang de Thau die Stadt kurz verlassen, um die Austernbänke aus der Ferne zu sehen.",
         "hu": "Autóval csoportokban fedezzük fel Sète-et: előbb a kikötőt, majd fáradság nélkül hajtunk fel a Mont Saint-Clairre a kilátásért. A délutánt a parton töltjük művészettel és kultúrával, végül teszünk egy rövid kitérőt az Étang de Thau tóhoz, hogy távolról láthassuk az osztrigaparkokat.",
         "ro": "Cu mașina explorăm Sète în grupuri: mai întâi zona portului, apoi urcăm fără efort pe Mont Saint-Clair pentru priveliște. După-amiaza o petrecem pe coastă între artă și cultură, înainte de a ieși puțin din oraș spre Étang de Thau pentru a vedea parcurile de stridii de la distanță.",
-        "en": "By car, we explore Sète in clusters: first the harbor area, then an effortless drive up Mont Saint-Clair for the view. We spend the afternoon on the coast with art and culture, before taking a short detour to the Étang de Thau to see the oyster beds from a distance."
+        "en": "By car, we explore Sète in clusters: first the harbor area, then an effortless drive up Mont Saint-Clair for the view. We spend the afternoon on the coast with art and culture, before taking a short detour to the Étang de Thau to see the oyster beds from a distance.",
+        "fr": "En voiture, nous explorons Sète par zones : d'abord le port, puis une montée sans effort au Mont Saint-Clair pour la vue. Nous passons l'après-midi sur la côte entre art et culture, avant un court détour vers l'étang de Thau pour voir de loin les parcs à huîtres."
       },
       "gastro_picks": {
         "de": [
@@ -747,6 +780,11 @@
           "Parking in the center can be difficult, use P+R parking lots.",
           "The streets on Mont Saint-Clair are very narrow and winding.",
           "Avoid rush hour around the Canal Royal area."
+        ],
+        "fr": [
+          "Le stationnement au centre peut être difficile, utilisez les parkings P+R.",
+          "Les rues du Mont Saint-Clair sont très étroites et sinueuses.",
+          "Évitez l'heure de pointe autour du Canal Royal."
         ]
       }
     },
@@ -773,7 +811,8 @@
             "de": "Zentraler Knotenpunkt für viele Buslinien.",
             "hu": "Számos buszjárat központi csomópontja.",
             "ro": "Nod central pentru multe linii de autobuz.",
-            "en": "Central hub for many bus lines."
+            "en": "Central hub for many bus lines.",
+            "fr": "Nœud central de nombreuses lignes de bus."
           }
         },
         {
@@ -791,7 +830,8 @@
             "de": "Der Bus spart Ihnen den schweißtreibenden Aufstieg.",
             "hu": "A busz megkíméli önt az izzasztó hegymenettől.",
             "ro": "Autobuzul vă scutește de urcarea obositoare.",
-            "en": "The bus saves you from the sweaty climb up."
+            "en": "The bus saves you from the sweaty climb up.",
+            "fr": "Le bus vous évite la montée en sueur."
           }
         },
         {
@@ -809,7 +849,8 @@
             "de": "Kurzer Spaziergang vom Bushalt auf dem Gipfel.",
             "hu": "Rövid séta a hegytetőn lévő buszmegállótól.",
             "ro": "Scurtă plimbare de la stația de autobuz de pe vârf.",
-            "en": "Short walk from the bus stop at the summit."
+            "en": "Short walk from the bus stop at the summit.",
+            "fr": "Courte marche depuis l'arrêt de bus au sommet."
           }
         },
         {
@@ -827,7 +868,8 @@
             "de": "Nutzen Sie den Bus für den Weg bergab.",
             "hu": "Használja a buszt a lefelé vezető úthoz.",
             "ro": "Folosiți autobuzul pentru drumul la vale.",
-            "en": "Use the bus for the way back downhill."
+            "en": "Use the bus for the way back downhill.",
+            "fr": "Utilisez le bus pour la descente au retour."
           }
         },
         {
@@ -845,7 +887,8 @@
             "de": "Die Bushaltestelle liegt fast direkt vor der Tür.",
             "hu": "A buszmegálló szinte közvetlenül az ajtó előtt van.",
             "ro": "Stația de autobuz este aproape în fața ușii.",
-            "en": "The bus stop is almost right in front of the door."
+            "en": "The bus stop is almost right in front of the door.",
+            "fr": "L'arrêt de bus est presque juste devant la porte."
           }
         },
         {
@@ -863,7 +906,8 @@
             "de": "Genießen Sie die Atmosphäre am Meer, bevor Sie den Bus zurück nehmen.",
             "hu": "Élvezze a tengerparti hangulatot, mielőtt visszabuszozna.",
             "ro": "Bucurați-vă de atmosfera marină înainte de a lua autobuzul înapoi.",
-            "en": "Enjoy the seaside atmosphere before taking the bus back."
+            "en": "Enjoy the seaside atmosphere before taking the bus back.",
+            "fr": "Profitez de l'ambiance marine avant de reprendre le bus."
           }
         }
       ],
@@ -871,7 +915,8 @@
         "de": "Dank des gut ausgebauten Busnetzes von Sète erreichen wir mühelos den Gipfel des Mont Saint-Clair. Wir kombinieren kurze Fahrten mit Spaziergängen zwischen den kulturellen Highlights der Küste und kehren schließlich entspannt zum Hafen zurück.",
         "hu": "Sète jól kiépített buszhálózatának köszönhetően könnyen elérjük a Mont Saint-Clair csúcsát. Rövid utazásokat kombinálunk sétákkal a tengerparti kulturális látnivalók között, végül kipihenten térünk vissza a kikötőbe.",
         "ro": "Datorită rețelei de autobuze bine dezvoltate din Sète, ajungem fără efort pe vârful Mont Saint-Clair. Combinăm călătoriile scurte cu plimbările între atracțiile culturale de pe coastă, revenind în final relaxați în port.",
-        "en": "Thanks to Sète's well-developed bus network, we effortlessly reach the summit of Mont Saint-Clair. We combine short rides with strolls between the cultural highlights of the coast, finally returning relaxed to the harbor."
+        "en": "Thanks to Sète's well-developed bus network, we effortlessly reach the summit of Mont Saint-Clair. We combine short rides with strolls between the cultural highlights of the coast, finally returning relaxed to the harbor.",
+        "fr": "Grâce au réseau de bus bien développé de Sète, nous atteignons facilement le sommet du Mont Saint-Clair. Nous combinons courts trajets et promenades entre les sites culturels de la côte, puis revenons détente au port."
       },
       "gastro_picks": {
         "de": [
@@ -979,6 +1024,12 @@
           "Line 5 takes you directly to Mont Saint-Clair.",
           "Buses run more frequently during the summer.",
           "Check the weekend schedules as they may vary."
+        ],
+        "fr": [
+          "Achetez un pass journée auprès du conducteur ou via l'application.",
+          "La ligne 5 vous emmène directement au Mont Saint-Clair.",
+          "Les bus circulent plus fréquemment en été.",
+          "Vérifiez les horaires du week-end, ils peuvent varier."
         ]
       }
     }

@@ -21,7 +21,8 @@
             "de": "Le Bourdieu",
             "hu": "Le Bourdieu",
             "ro": "Le Bourdieu",
-            "en": "Le Bourdieu"
+            "en": "Le Bourdieu",
+            "fr": "Le Bourdieu"
           },
           "coords": [
             -0.714173,
@@ -36,7 +37,8 @@
             "de": "Erkunden Sie die beeindruckende Architektur und die weitläufigen Anlagen dieses Schlosses und denken Sie daran, bequeme Schuhe für Ihren Rundgang zu tragen.",
             "hu": "Fedezze fel a helyi kastély lenyűgöző építészetét és kiterjedt birtokát, és ne felejtsen el kényelmes cipőt viselni a kiterjedt park bejárásához.",
             "ro": "Explorați arhitectura impresionantă și terenurile întinse ale acestui castel local, amintindu-vă să purtați încălțăminte confortabilă pentru plimbare.",
-            "en": "Explore the impressive architecture and sprawling grounds of this local castle, and remember to wear comfortable shoes for walking around the estate."
+            "en": "Explore the impressive architecture and sprawling grounds of this local castle, and remember to wear comfortable shoes for walking around the estate.",
+            "fr": "Explorez l’architecture impressionnante et l’étendue du domaine de ce château local, et pensez à porter des chaussures confortables pour marcher dans l’enceinte."
           }
         },
         {
@@ -44,7 +46,8 @@
             "de": "Kirche Saint-Médard",
             "hu": "Saint-Médard templom",
             "ro": "Biserica Saint-Médard",
-            "en": "Saint-Médard Church"
+            "en": "Saint-Médard Church",
+            "fr": "Saint-Médard Church"
           },
           "coords": [
             -0.717076,
@@ -59,7 +62,8 @@
             "de": "Bewundern Sie die wunderschönen Buntglasfenster und das friedliche Innere dieser historischen Kirche, die Sie am besten in den Morgenstunden besuchen sollten.",
             "hu": "Csodálja meg a történelmi templom gyönyörű ólomüveg ablakait és békés belső terét, de mindenképpen a reggeli órákban érkezzen a legjobb fényviszonyokért.",
             "ro": "Admirați vitraliile frumoase și interiorul liniștit al acestei biserici istorice, asigurându-vă că o vizitați dimineața pentru cea mai bună lumină naturală.",
-            "en": "Admire the beautiful stained glass and peaceful interior of this historic church, ensuring you visit during morning hours for the best natural light."
+            "en": "Admire the beautiful stained glass and peaceful interior of this historic church, ensuring you visit during morning hours for the best natural light.",
+            "fr": "Admirez les beaux vitraux et l’intérieur paisible de cette église historique, en veillant à la visiter le matin pour bénéficier de la meilleure lumière naturelle."
           }
         },
         {
@@ -67,7 +71,8 @@
             "de": "Secteur Dupérier",
             "hu": "Secteur Dupérier",
             "ro": "Secteur Dupérier",
-            "en": "Secteur Dupérier"
+            "en": "Secteur Dupérier",
+            "fr": "Secteur Dupérier"
           },
           "coords": [
             -0.715278,
@@ -82,7 +87,8 @@
             "de": "Entdecken Sie das reiche Erbe in diesem historischen Viertel, wo es sich lohnt, die Kamera griffbereit zu halten, um die alten Fassaden zu fotografieren.",
             "hu": "Fedezze fel a történelmi negyedben őrzött gazdag helyi örökséget, ahol érdemes kéznél tartani a fényképezőgépet a bájos, régi világot idéző homlokzatokért.",
             "ro": "Descoperiți moștenirea locală bogată din acest cartier istoric, unde având mereu aparatul foto la îndemână veți putea surprinde fațadele fermecătoare.",
-            "en": "Discover the rich local heritage preserved in this historical district, where keeping a camera handy will help you capture the charming old-world facades."
+            "en": "Discover the rich local heritage preserved in this historical district, where keeping a camera handy will help you capture the charming old-world facades.",
+            "fr": "Découvrez le riche patrimoine local préservé dans ce quartier historique ; avoir un appareil photo à portée de main vous aidera à capturer les charmantes façades d’autrefois."
           }
         },
         {
@@ -90,7 +96,8 @@
             "de": "La Fon",
             "hu": "La Fon",
             "ro": "La Fon",
-            "en": "La Fon"
+            "en": "La Fon",
+            "fr": "La Fon"
           },
           "coords": [
             -0.717417,
@@ -105,7 +112,8 @@
             "de": "Spazieren Sie an den eleganten Strukturen dieses klassischen französischen Anwesens vorbei und genießen Sie die Symmetrie vom Haupttor aus, bevor Sie weitergehen.",
             "hu": "Sétáljon el e klasszikus francia birtok elegáns épületei mellett, és szánjon egy percet a szimmetria megcsodálására a főkaputól, mielőtt folytatná útját.",
             "ro": "Plimbați-vă pe lângă structurile elegante ale acestui domeniu clasic francez, luându-vă un moment pentru a aprecia simetria de la poarta principală.",
-            "en": "Stroll past the elegant structures of this classical French estate, taking a moment to appreciate the symmetry from the main gate before continuing your tour."
+            "en": "Stroll past the elegant structures of this classical French estate, taking a moment to appreciate the symmetry from the main gate before continuing your tour.",
+            "fr": "Promenez-vous devant les élégantes constructions de ce domaine classique français, prenez un instant pour apprécier la symétrie depuis la porte principale avant de poursuivre votre visite."
           }
         },
         {
@@ -113,7 +121,8 @@
             "de": "Le Castérà",
             "hu": "Le Castérà",
             "ro": "Le Castérà",
-            "en": "Le Castérà"
+            "en": "Le Castérà",
+            "fr": "Le Castérà"
           },
           "coords": [
             -0.721507,
@@ -128,7 +137,8 @@
             "de": "Entdecken Sie die faszinierende Geschichte dieser majestätischen Festung, indem Sie an den Anschlagtafeln nach spontanen Führungen oder saisonalen Ereignissen suchen.",
             "hu": "Ismerje meg e fenséges erődítmény lenyűgöző történetét úgy, hogy ellenőrzi a helyi hirdetőtáblákat az esetlegesen induló tárlatvezetések vagy szezonális események miatt.",
             "ro": "Descoperiți istoria fascinantă a acestei fortărețe maiestuoase verificând panourile informative locale pentru eventuale tururi ghidate sau evenimente sezoniere.",
-            "en": "Uncover the fascinating history of this majestic stronghold by checking the local noticeboards for any pop-up guided tours or seasonal events held on-site."
+            "en": "Uncover the fascinating history of this majestic stronghold by checking the local noticeboards for any pop-up guided tours or seasonal events held on-site.",
+            "fr": "Découvrez l’histoire fascinante de cette majestueuse forteresse en consultant les panneaux d’informations locaux pour repérer d’éventuelles visites guidées improvisées ou des événements saisonniers sur place."
           }
         }
       ],
@@ -136,7 +146,8 @@
         "de": "Beginnen Sie den Morgen am eleganten Le Bourdieu, bevor Sie die ruhige Atmosphäre der nahen historischen Kirche erleben. Mittags schlendern Sie durch die malerischen Straßen des Secteur Dupérier. Der Nachmittag ist der Architektur gewidmet, während Sie das wunderschöne Anwesen La Fon betrachten. Am Abend beenden Sie Ihren Spaziergang an der majestätischen Burg Le Castérà.",
         "hu": "Kezdje a reggelt az elegáns Le Bourdieu megcsodálásával, majd élvezze a közeli történelmi templom békés hangulatát. Délben sétáljon végig a Secteur Dupérier festői utcáin, hogy átérezze a város régi báját. A délután a kastélyépítészetnek van szentelve, miközben megtekinti a gyönyörű La Fon birtokot. Az este közeledtével fejezze be sétáját a fenséges Le Castérànál.",
         "ro": "Începeți dimineața admirând elegantul Le Bourdieu înainte de a experimenta atmosfera senină a bisericii istorice din apropiere. La prânz, plimbați-vă pe străzile pitorești din Secteur Dupérier pentru a simți farmecul vechi al orașului. După-amiaza este dedicată arhitecturii, în timp ce priviți frumosul domeniu La Fon. Spre seară, încheiați turul la maiestuosul Le Castérà.",
-        "en": "Begin your morning admiring the elegant Le Bourdieu before experiencing the serene atmosphere of the nearby historic church. By midday, wander through the quaint streets of Secteur Dupérier to feel the city's old-world charm. The afternoon is dedicated to castle architecture as you view the beautiful La Fon estate. As evening nears, finish your walking tour at the majestic Le Castérà."
+        "en": "Begin your morning admiring the elegant Le Bourdieu before experiencing the serene atmosphere of the nearby historic church. By midday, wander through the quaint streets of Secteur Dupérier to feel the city's old-world charm. The afternoon is dedicated to castle architecture as you view the beautiful La Fon estate. As evening nears, finish your walking tour at the majestic Le Castérà.",
+        "fr": "Commencez votre matinée en admirant l’élégant Le Bourdieu avant de ressentir l’atmosphère sereine de l’église historique à proximité. À midi, flânez dans les ruelles pittoresques du Secteur Dupérier pour sentir le charme d’antan de la ville. L’après-midi est consacré à l’architecture des châteaux en visitant le magnifique domaine de La Fon. En fin de journée, terminez votre promenade à pied au majestueux Le Castérà."
       },
       "variants": {
         "rainy": {
@@ -144,7 +155,8 @@
             "de": "Beginnen Sie den Morgen mit einem Regenschirm beim historischen Anwesen und der Kirche. Mittags sollten Sie im historischen Sektor vorsichtig sein, da die Steine rutschig sind. Verbringen Sie den regnerischen Nachmittag bei den Schlössern und suchen Sie Schutz unter Torbögen. Beenden Sie den Abend drinnen.",
             "hu": "Kezdje a reggelt esernyővel a történelmi birtok és a templom felfedezésével. Délben óvatosan járja be az óvárosi részt, a nedves kövek csúszósak lehetnek. Az esős délutánt a kastélyoknál töltse, behúzódva az árkádok alá. Az estét egy benti melegedőben zárja le egy forró itallal.",
             "ro": "Începeți dimineața explorând conacul și biserica sub umbrelă. La prânz, parcurgeți sectorul istoric cu grijă, deoarece pietrele pot fi alunecoase. Petreceți după-amiaza ploioasă admirând castelele și adăpostindu-vă sub arcade. Încheiați seara înăuntru, la căldură, cu o băutură fierbinte.",
-            "en": "Start your morning exploring the historic estate and church under an umbrella. At midday, navigate the heritage sector carefully, as cobblestones may be slippery. Spend your rainy afternoon admiring the majestic castles, taking shelter under grand archways. End the evening indoors with a hot drink to warm up."
+            "en": "Start your morning exploring the historic estate and church under an umbrella. At midday, navigate the heritage sector carefully, as cobblestones may be slippery. Spend your rainy afternoon admiring the majestic castles, taking shelter under grand archways. End the evening indoors with a hot drink to warm up.",
+            "fr": "Commencez votre matinée en explorant le domaine historique et l’église sous un parapluie. À midi, parcourez prudemment le secteur patrimonial, car les pavés peuvent être glissants. Passez votre après-midi pluvieuse à admirer les châteaux majestueux en vous abritant sous de grands arcades. Terminez la soirée à l’intérieur avec une boisson chaude pour vous réchauffer."
           },
           "stops": [
             {
@@ -152,13 +164,15 @@
                 "de": "Le Bourdieu",
                 "hu": "Le Bourdieu",
                 "ro": "Le Bourdieu",
-                "en": "Le Bourdieu"
+                "en": "Le Bourdieu",
+                "fr": "Le Bourdieu"
               },
               "tip_5lang": {
                 "de": "Bewundern Sie die historische Fassade dieses großen Anwesens; tragen Sie wasserdichte Schuhe, da das Gelände schlammig wird.",
                 "hu": "Csodálja meg e nagyszerű birtok történelmi homlokzatát; viseljen vízálló cipőt, mert a környező talaj nagyon saras lesz.",
                 "ro": "Admirați fațada istorică a acestui conac grandios; purtați încălțăminte impermeabilă, deoarece terenul din jur devine noroios.",
-                "en": "Admire the historic facade of this grand estate; wear waterproof shoes as the surrounding grounds get quite muddy."
+                "en": "Admire the historic facade of this grand estate; wear waterproof shoes as the surrounding grounds get quite muddy.",
+                "fr": "Admirez la façade historique de ce grand domaine ; portez des chaussures imperméables car les terrains environnants deviennent très boueux."
               }
             },
             {
@@ -166,13 +180,15 @@
                 "de": "Kirche Saint-Médard",
                 "hu": "Saint-Médard templom",
                 "ro": "Biserica Saint-Médard",
-                "en": "Saint-Médard Church"
+                "en": "Saint-Médard Church",
+                "fr": "Saint-Médard Church"
               },
               "tip_5lang": {
                 "de": "Treten Sie in dieses friedliche Heiligtum ein, um die schöne Architektur zu bewundern und den plötzlichen Regenschauern zu entkommen.",
                 "hu": "Lépjen be ebbe a békés szentélybe, hogy megcsodálja gyönyörű építészetét és menedéket találjon a hirtelen esőzések elől.",
                 "ro": "Pășiți în acest sanctuar pașnic pentru a-i aprecia arhitectura frumoasă și pentru a scăpa de ploile bruște de afară.",
-                "en": "Step inside this peaceful sanctuary to appreciate its beautiful architecture and escape the sudden rain showers outside."
+                "en": "Step inside this peaceful sanctuary to appreciate its beautiful architecture and escape the sudden rain showers outside.",
+                "fr": "Entrez dans ce sanctuaire paisible pour apprécier sa belle architecture et échapper aux averses soudaines à l’extérieur."
               }
             },
             {
@@ -180,13 +196,15 @@
                 "de": "Secteur Dupérier",
                 "hu": "Secteur Dupérier",
                 "ro": "Secteur Dupérier",
-                "en": "Secteur Dupérier"
+                "en": "Secteur Dupérier",
+                "fr": "Secteur Dupérier"
               },
               "tip_5lang": {
                 "de": "Erkunden Sie das charmante alte Viertel, aber gehen Sie vorsichtig, da die nassen historischen Kopfsteinpflaster heute rutschig sein können.",
                 "hu": "Fedezze fel a bájos régi negyedet, de lépkedjen óvatosan, mivel a nedves történelmi macskakövek meglepően csúszósak lehetnek ma.",
                 "ro": "Explorați fermecătorul sector vechi, dar mergeți cu grijă, deoarece pietrele cubice istorice ude pot fi surprinzător de alunecoase.",
-                "en": "Explore the charming old sector, but walk carefully as the wet historic cobblestones can be surprisingly slippery today."
+                "en": "Explore the charming old sector, but walk carefully as the wet historic cobblestones can be surprisingly slippery today.",
+                "fr": "Explorez ce charmant vieux secteur, mais marchez prudemment car les pavés historiques mouillés peuvent être étonnamment glissants aujourd’hui."
               }
             },
             {
@@ -194,13 +212,15 @@
                 "de": "La Fon",
                 "hu": "La Fon",
                 "ro": "La Fon",
-                "en": "La Fon"
+                "en": "La Fon",
+                "fr": "La Fon"
               },
               "tip_5lang": {
                 "de": "Bestaunen Sie die markante Architektur dieses schönen Schlosses, während Sie unter den großen umliegenden Bäumen einen trockenen Unterstand finden.",
                 "hu": "Csodálja meg a gyönyörű kastély egyedi építészetét, miközben átmeneti száraz menedéket talál a környező nagy fák alatt.",
                 "ro": "Minunați-vă de arhitectura distinctă a acestui frumos castel în timp ce găsiți un adăpost temporar uscat sub copacii mari din jur.",
-                "en": "Marvel at the distinct architecture of this beautiful chateau while finding temporary dry shelter under its large surrounding trees."
+                "en": "Marvel at the distinct architecture of this beautiful chateau while finding temporary dry shelter under its large surrounding trees.",
+                "fr": "Émerveillez-vous devant l’architecture distinctive de ce beau château tout en trouvant un abri temporaire sous ses grands arbres environnants."
               }
             },
             {
@@ -208,13 +228,15 @@
                 "de": "Le Castérà",
                 "hu": "Le Castérà",
                 "ro": "Le Castérà",
-                "en": "Le Castérà"
+                "en": "Le Castérà",
+                "fr": "Le Castérà"
               },
               "tip_5lang": {
                 "de": "Beenden Sie Ihren Spaziergang an dieser imposanten Festung; bringen Sie einen stabilen Regenschirm mit, da die offenen Flächen wenig Schutz bieten.",
                 "hu": "Zárja sétáját ennél az impozáns erődnél; hozzon egy erős, szélálló esernyőt, mivel az itteni nyílt terek kevés védelmet nyújtanak.",
                 "ro": "Încheiați plimbarea la această fortăreață impunătoare; aduceți o umbrelă rezistentă la vânt, deoarece spațiile deschise oferă puțină protecție.",
-                "en": "Conclude your walk at this imposing fortress; bring a sturdy windproof umbrella as the open spaces here offer little rain protection."
+                "en": "Conclude your walk at this imposing fortress; bring a sturdy windproof umbrella as the open spaces here offer little rain protection.",
+                "fr": "Concluez votre promenade à cette imposante forteresse ; apportez un solide parapluie coupe-vent car les espaces ouverts offrent peu de protection contre la pluie."
               }
             }
           ]
@@ -224,7 +246,8 @@
             "de": "Genießen Sie einen frischen Morgenspaziergang um das Anwesen und die Kirche. Spazieren Sie mittags durch den historischen Sektor und tragen Sie warme Schichten. Bewundern Sie nachmittags die Schlösser, bevor die Wintersonne gegen 17:00 Uhr untergeht. Verbringen Sie den Abend in den beleuchteten Straßen.",
             "hu": "Élvezze a fagyos reggeli sétát a történelmi birtok és a helyi templom körül. Délben járja be a történelmi negyedet, meleg réteges öltözettel védekezve a hideg ellen. Délután csodálja meg a kastélyokat, mielőtt a nap 17:00 körül lemenne. Az estét a kivilágított utcák hangulatának szentelje.",
             "ro": "Bucurați-vă de o plimbare matinală răcoroasă pe la conac și biserică. La prânz, vizitați sectorul istoric, purtând haine groase împotriva frigului. După-amiaza, admirați castelele înainte ca soarele să apună devreme, în jur de ora 17:00. Seara, plimbați-vă pe străzile frumos luminate.",
-            "en": "Enjoy a crisp morning walk around the historic estate and the local church. By midday, wander the historical sector, making sure to wear warm layers against the chill. In the afternoon, admire the castles as the winter sun begins to set around 17:00. Spend your evening enjoying the beautifully illuminated streets."
+            "en": "Enjoy a crisp morning walk around the historic estate and the local church. By midday, wander the historical sector, making sure to wear warm layers against the chill. In the afternoon, admire the castles as the winter sun begins to set around 17:00. Spend your evening enjoying the beautifully illuminated streets.",
+            "fr": "Profitez d’une balade matinale vive autour du domaine historique et de l’église locale. À midi, parcourez le secteur historique en veillant à porter des couches chaudes contre la fraîcheur. L’après-midi, admirez les châteaux alors que le soleil d’hiver commence à se coucher vers 17:00. Passez la soirée à profiter des rues magnifiquement illuminées."
           },
           "stops": [
             {
@@ -232,13 +255,15 @@
                 "de": "Le Bourdieu",
                 "hu": "Le Bourdieu",
                 "ro": "Le Bourdieu",
-                "en": "Le Bourdieu"
+                "en": "Le Bourdieu",
+                "fr": "Le Bourdieu"
               },
               "tip_5lang": {
                 "de": "Sehen Sie das große Anwesen im frischen Morgenfrost; tragen Sie Thermokleidung, da der offene Bereich kalten Winden ausgesetzt ist.",
                 "hu": "Nézze meg a csípős reggeli dérbe burkolózó nagyszerű birtokot; vegyen fel termo rétegeket, mert a nyílt terület ki van téve a hideg szélnek.",
                 "ro": "Vedeți conacul grandios încadrat de bruma dimineții; purtați straturi termice, deoarece zona deschisă este expusă vânturilor reci.",
-                "en": "See the grand estate framed by the crisp morning frost; make sure to wear thermal layers as the open area is exposed to cold winds."
+                "en": "See the grand estate framed by the crisp morning frost; make sure to wear thermal layers as the open area is exposed to cold winds.",
+                "fr": "Voyez le grand domaine encadré par le givre matinal ; pensez à porter des couches thermiques car l’espace ouvert est exposé aux vents froids."
               }
             },
             {
@@ -246,13 +271,15 @@
                 "de": "Kirche Saint-Médard",
                 "hu": "Saint-Médard templom",
                 "ro": "Biserica Saint-Médard",
-                "en": "Saint-Médard Church"
+                "en": "Saint-Médard Church",
+                "fr": "Saint-Médard Church"
               },
               "tip_5lang": {
                 "de": "Entdecken Sie das ruhige Innere der lokalen Kirche, ein perfekter Ort, um Ihre frierenden Hände aufzuwärmen, bevor Sie weitergehen.",
                 "hu": "Fedezze fel a helyi templom békés belső terét, amely tökéletes csendes helyet kínál a fagyos kezek felmelegítésére a folytatás előtt.",
                 "ro": "Descoperiți interiorul senin al bisericii locale, oferind un loc liniștit perfect pentru a vă încălzi mâinile înghețate înainte de a continua.",
-                "en": "Discover the serene interior of the local church, providing a perfect quiet spot to warm up your freezing hands before continuing."
+                "en": "Discover the serene interior of the local church, providing a perfect quiet spot to warm up your freezing hands before continuing.",
+                "fr": "Découvrez l’intérieur serein de l’église locale, qui offre un endroit parfait et calme pour réchauffer vos mains gelées avant de reprendre votre visite."
               }
             },
             {
@@ -260,13 +287,15 @@
                 "de": "Secteur Dupérier",
                 "hu": "Secteur Dupérier",
                 "ro": "Secteur Dupérier",
-                "en": "Secteur Dupérier"
+                "en": "Secteur Dupérier",
+                "fr": "Secteur Dupérier"
               },
               "tip_5lang": {
                 "de": "Schlendern Sie durch dieses historische Viertel; tragen Sie einen dicken Schal und eine Mütze gegen die kalte Mittagswinterbrise.",
                 "hu": "Járja be ezt az örökségvédelmi területet, csodálja meg a történelmi homlokzatokat; viseljen vastag sálat és sapkát a metsző téli szél ellen.",
                 "ro": "Plimbați-vă prin această zonă de patrimoniu pentru a admira fațadele istorice; purtați fular gros și căciulă împotriva brizei tăioase de iarnă.",
-                "en": "Wander through this heritage area to admire the historic facades; wear a thick scarf and hat against the biting midday winter breeze."
+                "en": "Wander through this heritage area to admire the historic facades; wear a thick scarf and hat against the biting midday winter breeze.",
+                "fr": "Parcourez cette zone patrimoniale pour admirer les façades historiques ; portez une grosse écharpe et un bonnet contre la bise hivernale mordante de midi."
               }
             },
             {
@@ -274,13 +303,15 @@
                 "de": "La Fon",
                 "hu": "La Fon",
                 "ro": "La Fon",
-                "en": "La Fon"
+                "en": "La Fon",
+                "fr": "La Fon"
               },
               "tip_5lang": {
                 "de": "Genießen Sie den Anblick dieses charmanten Schlosses im klaren Winterlicht; bleiben Sie in Bewegung, um beim Erkunden warm zu bleiben.",
                 "hu": "Élvezze e bájos kastély látványát a nyers téli fényben; maradjon mozgásban, hogy fenntartsa testhőmérsékletét a terület felfedezése közben.",
                 "ro": "Bucurați-vă de vederea acestui castel fermecător în lumina aspră a iernii; continuați să vă mișcați pentru a vă menține căldura corporală.",
-                "en": "Enjoy the sight of this charming chateau in the stark winter light; keep moving to maintain your body heat while exploring the grounds."
+                "en": "Enjoy the sight of this charming chateau in the stark winter light; keep moving to maintain your body heat while exploring the grounds.",
+                "fr": "Appréciez la vue de ce charmant château sous la lumière hivernale crue ; continuez à marcher pour maintenir votre chaleur corporelle pendant l’exploration des terrains."
               }
             },
             {
@@ -288,13 +319,15 @@
                 "de": "Le Castérà",
                 "hu": "Le Castérà",
                 "ro": "Le Castérà",
-                "en": "Le Castérà"
+                "en": "Le Castérà",
+                "fr": "Le Castérà"
               },
               "tip_5lang": {
                 "de": "Besuchen Sie dieses beeindruckende Bauwerk vor dem frühen Sonnenuntergang gegen 17:00 Uhr, wenn die sinkenden Temperaturen Sie nach drinnen treiben.",
                 "hu": "Látogassa meg ezt a lenyűgöző történelmi építményt a 17:00 óra körüli korai naplemente előtt, amikor a zuhanó hőmérséklet beltérbe űzi.",
                 "ro": "Vizitați această structură istorică impresionantă înainte de apusul de la ora 17:00, când temperaturile scăzute vă vor trimite înăuntru.",
-                "en": "Visit this impressive historic structure before the early sunset around 17:00, when the plunging temperatures will send you indoors."
+                "en": "Visit this impressive historic structure before the early sunset around 17:00, when the plunging temperatures will send you indoors.",
+                "fr": "Visitez cette impressionnante construction historique avant le coucher du soleil précoce vers 17:00, quand la chute des températures vous ramènera à l’intérieur."
               }
             }
           ]
@@ -314,7 +347,8 @@
             "de": "Kirche Saint-Médard",
             "hu": "Saint-Médard templom",
             "ro": "Biserica Saint-Médard",
-            "en": "Saint-Médard Church"
+            "en": "Saint-Médard Church",
+            "fr": "Saint-Médard Church"
           },
           "coords": [
             -0.717076,
@@ -329,7 +363,8 @@
             "de": "Bewundern Sie die wunderschönen Buntglasfenster und das friedliche Innere dieser historischen Kirche, die Sie am besten in den Morgenstunden besuchen sollten.",
             "hu": "Csodálja meg a történelmi templom gyönyörű ólomüveg ablakait és békés belső terét, de mindenképpen a reggeli órákban érkezzen a legjobb fényviszonyokért.",
             "ro": "Admirați vitraliile frumoase și interiorul liniștit al acestei biserici istorice, asigurându-vă că o vizitați dimineața pentru cea mai bună lumină naturală.",
-            "en": "Admire the beautiful stained glass and peaceful interior of this historic church, ensuring you visit during morning hours for the best natural light."
+            "en": "Admire the beautiful stained glass and peaceful interior of this historic church, ensuring you visit during morning hours for the best natural light.",
+            "fr": "Admirez les beaux vitraux et l’intérieur paisible de cette église historique, en veillant à la visiter le matin pour la meilleure lumière naturelle."
           }
         },
         {
@@ -337,7 +372,8 @@
             "de": "Le Bourdieu",
             "hu": "Le Bourdieu",
             "ro": "Le Bourdieu",
-            "en": "Le Bourdieu"
+            "en": "Le Bourdieu",
+            "fr": "Le Bourdieu"
           },
           "coords": [
             -0.714173,
@@ -352,7 +388,8 @@
             "de": "Erkunden Sie die beeindruckende Architektur und die weitläufigen Anlagen dieses Schlosses und denken Sie daran, bequeme Schuhe für Ihren Rundgang zu tragen.",
             "hu": "Fedezze fel a helyi kastély lenyűgöző építészetét és kiterjedt birtokát, és ne felejtsen el kényelmes cipőt viselni a kiterjedt park bejárásához.",
             "ro": "Explorați arhitectura impresionantă și terenurile întinse ale acestui castel local, amintindu-vă să purtați încălțăminte confortabilă pentru plimbare.",
-            "en": "Explore the impressive architecture and sprawling grounds of this local castle, and remember to wear comfortable shoes for walking around the estate."
+            "en": "Explore the impressive architecture and sprawling grounds of this local castle, and remember to wear comfortable shoes for walking around the estate.",
+            "fr": "Explorez l’architecture impressionnante et les vastes terrains de ce château local, et n’oubliez pas de porter des chaussures confortables pour marcher autour du domaine."
           }
         },
         {
@@ -360,7 +397,8 @@
             "de": "Moulin de Gajac",
             "hu": "Moulin de Gajac",
             "ro": "Moulin de Gajac",
-            "en": "Moulin de Gajac"
+            "en": "Moulin de Gajac",
+            "fr": "Moulin de Gajac"
           },
           "coords": [
             -0.705146,
@@ -375,7 +413,8 @@
             "de": "Lauschen Sie dem beruhigenden Rauschen des Flusses an dieser historischen Mühle, die eine perfekte Kulisse für ein ruhiges Picknick mit eigenen Snacks bietet.",
             "hu": "Hallgassa a folyó nyugtató hangját ennél a történelmi malomnál, amely tökéletes hátteret biztosít egy csendes déli piknikhez, ha hoz magával némi harapnivalót.",
             "ro": "Ascultați sunetul liniștitor al râului la această moară istorică, care oferă un decor perfect pentru un picnic liniștit la prânz dacă vă aduceți propriile gustări.",
-            "en": "Listen to the soothing sound of the river at this historic mill site, which offers a perfect backdrop for a quiet midday picnic if you bring your own snacks."
+            "en": "Listen to the soothing sound of the river at this historic mill site, which offers a perfect backdrop for a quiet midday picnic if you bring your own snacks.",
+            "fr": "Écoutez le son apaisant de la rivière à ce site de moulin historique, qui offre un cadre parfait pour un pique-nique tranquille à midi si vous apportez vos propres collations."
           }
         },
         {
@@ -383,7 +422,8 @@
             "de": "Château de la Mothe-Gajac",
             "hu": "Château de la Mothe-Gajac",
             "ro": "Château de la Mothe-Gajac",
-            "en": "Château de la Mothe-Gajac"
+            "en": "Château de la Mothe-Gajac",
+            "fr": "Château de la Mothe-Gajac"
           },
           "coords": [
             -0.699633,
@@ -398,7 +438,8 @@
             "de": "Bewundern Sie die robusten Türme und den malerischen Wassergraben dieser mittelalterlichen Festung und umrunden Sie das gesamte Gelände, um die Ausmaße zu erfassen.",
             "hu": "Csodálja meg e lenyűgöző középkori erődítmény robusztus tornyait és festői várárkát, és mindenképpen sétálja körbe a teljes peremet a védelmi lépték értékeléséhez.",
             "ro": "Admirați turnurile robuste și șanțul pitoresc al acestei fortărețe medievale impresionante, asigurându-vă că mergeți pe întregul perimetru pentru a-i aprecia scara.",
-            "en": "Admire the robust towers and scenic moat of this impressive medieval fortress, making sure to walk the entire perimeter to appreciate its defensive scale."
+            "en": "Admire the robust towers and scenic moat of this impressive medieval fortress, making sure to walk the entire perimeter to appreciate its defensive scale.",
+            "fr": "Admirez les tours robustes et le douves pittoresques de cette impressionnante forteresse médiévale, en veillant à faire le tour complet pour apprécier son envergure défensive."
           }
         },
         {
@@ -406,7 +447,8 @@
             "de": "Saint-Médard Pulvermühle",
             "hu": "Saint-Médard Lőporgyár",
             "ro": "Moara de Pulbere Saint-Médard",
-            "en": "Saint-Médard Powder Mill"
+            "en": "Saint-Médard Powder Mill",
+            "fr": "Saint-Médard Powder Mill"
           },
           "coords": [
             -0.779511,
@@ -421,7 +463,8 @@
             "de": "Erfahren Sie mehr über die industrielle Vergangenheit dieser ehemaligen Sprengstofffabrik, indem Sie den offiziellen Audioguide herunterladen, um die Abläufe zu verstehen.",
             "hu": "Ismerje meg a volt robbanóanyag-gyár jelentős ipari múltját a hivatalos audioguide letöltésével, amiből megértheti az egykor alkalmazott szigorú biztonsági protokollokat.",
             "ro": "Aflați despre trecutul industrial semnificativ al acestei foste fabrici de explozibili descărcând ghidul audio oficial pentru a înțelege protocoalele lor de siguranță.",
-            "en": "Learn about the significant industrial past of this former explosives factory by downloading the official audio guide to understand the safety protocols they used."
+            "en": "Learn about the significant industrial past of this former explosives factory by downloading the official audio guide to understand the safety protocols they used.",
+            "fr": "Apprenez-en davantage sur l’importante histoire industrielle de cette ancienne usine d’explosifs en téléchargeant le guide audio officiel pour comprendre les protocoles de sécurité qu’ils utilisaient."
           }
         }
       ],
@@ -429,7 +472,8 @@
         "de": "Beginnen Sie Ihr Fahrradabenteuer an der zentralen Kirche, bevor Sie gemütlich zum nahegelegenen Schloss Le Bourdieu rollen. Gegen Mittag radeln Sie zum malerischen Moulin de Gajac am Flussufer. Ihr Nachmittag bietet eine kurze Fahrt zum beeindruckenden Château de la Mothe-Gajac. Machen Sie schließlich eine längere, erfrischende Fahrt zur historischen Pulvermühle als krönenden Abschluss.",
         "hu": "Kezdje kerékpáros kalandját a központi templomnál, majd guruljon át a közeli Le Bourdieu kastélyhoz. Dél közeledtével tekerjen a festői Moulin de Gajac felé, ahol a folyó gyönyörű hátteret biztosít. A délután egy rövid utat tartogat a lenyűgöző Château de la Mothe-Gajac kastélyhoz. Végül tegyen egy hosszabb utat a történelmi Lőporgyárhoz az esti befejezéshez.",
         "ro": "Începeți aventura pe bicicletă la biserica centrală înainte de a merge ușor spre castelul Le Bourdieu din apropiere. La prânz, pedalați spre pitorescul Moulin de Gajac, pe malul râului. După-amiaza include o scurtă călătorie până la impresionantul Château de la Mothe-Gajac. În cele din urmă, faceți o plimbare mai lungă până la Moara istorică de pulbere pentru încheierea serii.",
-        "en": "Start your biking adventure at the central church before rolling easily to the nearby Le Bourdieu castle. As midday approaches, pedal towards the scenic Moulin de Gajac where the river provides a beautiful backdrop. Your afternoon features a short ride to the impressive Château de la Mothe-Gajac. Finally, take a longer, invigorating ride to the historic Powder Mill for your evening conclusion."
+        "en": "Start your biking adventure at the central church before rolling easily to the nearby Le Bourdieu castle. As midday approaches, pedal towards the scenic Moulin de Gajac where the river provides a beautiful backdrop. Your afternoon features a short ride to the impressive Château de la Mothe-Gajac. Finally, take a longer, invigorating ride to the historic Powder Mill for your evening conclusion.",
+        "fr": "Commencez votre aventure à vélo à l’église centrale avant de rouler facilement jusqu’au château Le Bourdieu à proximité. À l’approche de midi, pédalez jusqu’au pittoresque Moulin de Gajac où la rivière offre un beau décor. Votre après-midi inclut une courte balade vers l’impressionnant Château de la Mothe-Gajac. Enfin, effectuez une longue et tonique sortie vers le Moulin à poudre historique pour conclure la soirée."
       },
       "variants": {
         "rainy": {
@@ -437,7 +481,8 @@
             "de": "Tragen Sie einen Poncho für die nasse Morgenfahrt zur Kirche und zum Anwesen. Radeln Sie mittags zur Gajac-Mühle und bremsen Sie früh auf rutschigen Wegen. Verbringen Sie den Nachmittag bei der Pulvermühle und bewahren Sie Ihre Ausrüstung wasserdicht auf. Beenden Sie den feuchten Abend sicher drinnen.",
             "hu": "Vegyen fel esőköpenyt a nedves reggeli tekeréshez a templomhoz és a birtokhoz. Délben a Gajac malom felé haladva fékezzen időben a csúszós utakon. A délutánt a lőporgyár környékén töltse, vízálló táskában tartva az értékeit. A nyirkos estét biztonságban, fedett helyen fejezze be.",
             "ro": "Purtați o pelerină pentru cursa matinală ploioasă spre biserică și conac. La prânz, pedalați spre moara Gajac, frânând devreme pe potecile alunecoase. Petreceți după-amiaza la moara de pulbere, ținând echipamentul în genți impermeabile. Încheiați seara umedă în siguranță, la interior.",
-            "en": "Wear a sturdy poncho for a wet morning ride to the church and historic estate. At midday, cycle towards the Gajac mill, braking early on rain-slicked paths. Spend the afternoon exploring the powder mill area, keeping your gear in waterproof bags. End your damp evening safely indoors."
+            "en": "Wear a sturdy poncho for a wet morning ride to the church and historic estate. At midday, cycle towards the Gajac mill, braking early on rain-slicked paths. Spend the afternoon exploring the powder mill area, keeping your gear in waterproof bags. End your damp evening safely indoors.",
+            "fr": "Portez un poncho solide pour une balade matinale humide vers l’église et le domaine historique. À midi, pédalez vers le moulin de Gajac en freinant tôt sur les chemins glissants par la pluie. Passez l’après-midi à explorer la zone du moulin à poudre en gardant votre équipement dans des sacs étanches. Terminez votre soirée mouillée en sécurité à l’intérieur."
           },
           "stops": [
             {
@@ -445,13 +490,15 @@
                 "de": "Kirche Saint-Médard",
                 "hu": "Saint-Médard templom",
                 "ro": "Biserica Saint-Médard",
-                "en": "Saint-Médard Church"
+                "en": "Saint-Médard Church",
+                "fr": "Saint-Médard Church"
               },
               "tip_5lang": {
                 "de": "Sehen Sie die schöne religiöse Architektur; treten Sie für ein paar Minuten ein, um den stärksten morgendlichen Regengüssen zu entgehen.",
                 "hu": "Tekintse meg e történelmi hely gyönyörű egyházi építészetét; lépjen be néhány percre, hogy elkerülje a leghevesebb reggeli felhőszakadásokat.",
                 "ro": "Vedeți frumoasa arhitectură religioasă a acestui sit istoric; intrați câteva minute pentru a scăpa de cele mai puternice averse matinale.",
-                "en": "View the beautiful religious architecture of this historic site; step inside for a few minutes to escape the heaviest morning downpours."
+                "en": "View the beautiful religious architecture of this historic site; step inside for a few minutes to escape the heaviest morning downpours.",
+                "fr": "Contemplez la belle architecture religieuse de ce site historique ; entrez quelques minutes pour échapper aux averses matinales les plus fortes."
               }
             },
             {
@@ -459,13 +506,15 @@
                 "de": "Le Bourdieu",
                 "hu": "Le Bourdieu",
                 "ro": "Le Bourdieu",
-                "en": "Le Bourdieu"
+                "en": "Le Bourdieu",
+                "fr": "Le Bourdieu"
               },
               "tip_5lang": {
                 "de": "Schätzen Sie das großartige Design des Anwesens vom Fahrrad aus; sichern Sie Ihr Gepäck in wasserdichten Packtaschen, bevor Sie losfahren.",
                 "hu": "Értékelje a birtok nagyszerű kialakítását a nyeregből; indulás előtt győződjön meg arról, hogy csomagjai vízálló táskákban vannak.",
                 "ro": "Apreciați designul grandios al conacului de pe bicicletă; asigurați-vă că bagajele sunt în genți impermeabile înainte de a pleca.",
-                "en": "Appreciate the grand design of the estate from your bike; make sure your luggage is secured in waterproof panniers before setting off."
+                "en": "Appreciate the grand design of the estate from your bike; make sure your luggage is secured in waterproof panniers before setting off.",
+                "fr": "Appréciez le grand design du domaine depuis votre vélo ; assurez-vous que vos bagages sont solidement attachés dans des sacoches étanches avant de partir."
               }
             },
             {
@@ -473,13 +522,15 @@
                 "de": "Moulin de Gajac",
                 "hu": "Moulin de Gajac",
                 "ro": "Moulin de Gajac",
-                "en": "Moulin de Gajac"
+                "en": "Moulin de Gajac",
+                "fr": "Moulin de Gajac"
               },
               "tip_5lang": {
                 "de": "Beobachten Sie die historische Mühle, aber steigen Sie ab und schieben Sie Ihr Fahrrad, da die Holzbrücken bei Regen extrem rutschig werden.",
                 "hu": "Figyelje meg a lenyűgöző történelmi malmot és rohanó vizeit, de szálljon le a kerékpárról, mert a fahidak rendkívül csúszóssá válnak.",
                 "ro": "Observați fascinanta moară istorică și apele sale învolburate, dar descălecați, deoarece podurile de lemn devin extrem de alunecoase.",
-                "en": "Observe the fascinating historic mill and its rushing waters, but dismount and walk your bike as the wooden bridges get extremely slippery."
+                "en": "Observe the fascinating historic mill and its rushing waters, but dismount and walk your bike as the wooden bridges get extremely slippery.",
+                "fr": "Observez le fascinant moulin historique et ses eaux tumultueuses, mais descendez de vélo et marchez car les ponts en bois deviennent extrêmement glissants."
               }
             },
             {
@@ -487,13 +538,15 @@
                 "de": "Château de la Mothe-Gajac",
                 "hu": "Château de la Mothe-Gajac",
                 "ro": "Château de la Mothe-Gajac",
-                "en": "Château de la Mothe-Gajac"
+                "en": "Château de la Mothe-Gajac",
+                "fr": "Château de la Mothe-Gajac"
               },
               "tip_5lang": {
                 "de": "Bewundern Sie die Verteidigungsmerkmale dieses schönen Schlosses; prüfen Sie häufig Ihre Bremsen, da die Wege heute rutschig und schlammig sind.",
                 "hu": "Csodálja meg e szép kastély védelmi vonásait; ellenőrizze gyakran a fékeket, mivel a megközelítési útvonalak csúszós, saras ösvényekké válnak.",
                 "ro": "Admirați caracteristicile defensive ale acestui frumos castel; verificați des frânele, deoarece cărările devin trasee noroioase și alunecoase.",
-                "en": "Admire the defensive features of this fine castle; check your brakes frequently as the approach paths turn into slick, muddy trails today."
+                "en": "Admire the defensive features of this fine castle; check your brakes frequently as the approach paths turn into slick, muddy trails today.",
+                "fr": "Admirez les éléments défensifs de ce beau château ; vérifiez fréquemment vos freins car les chemins d’approche se transforment aujourd’hui en sentiers boueux et glissants."
               }
             },
             {
@@ -501,13 +554,15 @@
                 "de": "Saint-Médard Pulvermühle",
                 "hu": "Saint-Médard Lőporgyár",
                 "ro": "Moara de Pulbere Saint-Médard",
-                "en": "Saint-Médard Powder Mill"
+                "en": "Saint-Médard Powder Mill",
+                "fr": "Saint-Médard Powder Mill"
               },
               "tip_5lang": {
                 "de": "Erkunden Sie die Überreste der Pulvermühle; fahren Sie vorsichtig um nasse Industriegleise und genießen Sie den stimmungsvollen Regen.",
                 "hu": "Fedezze fel a lőporgyári komplexum maradványait; vezessen óvatosan a nedves ipari vágányok körül, és élvezze a hangulatos esőt.",
                 "ro": "Explorați rămășițele complexului morii de pulbere; mergeți cu prudență pe șinele industriale ude și bucurați-vă de ploaia atmosferică.",
-                "en": "Explore the remnants of the powder mill complex; ride cautiously around wet industrial tracks and enjoy the moody, atmospheric rain."
+                "en": "Explore the remnants of the powder mill complex; ride cautiously around wet industrial tracks and enjoy the moody, atmospheric rain.",
+                "fr": "Explorez les vestiges du complexe du moulin à poudre ; roulez prudemment autour des voies industrielles humides et profitez de l’atmosphère pluvieuse et mélancolique."
               }
             }
           ]
@@ -517,7 +572,8 @@
             "de": "Beginnen Sie die kalte Morgenfahrt zur Kirche und zum Anwesen mit winddichten Handschuhen. Radeln Sie mittags zügig zur Mühle und zum Schloss, um warm zu bleiben. Erreichen Sie die Pulvermühle nachmittags vor der frühen Abenddämmerung. Schalten Sie für die kalte Abendfahrt Ihre hellen Lichter ein.",
             "hu": "Kezdje a fagyos reggeli tekerést a templomhoz és a birtokhoz szélálló kesztyűben. Délben a helyi malom és kastély felé pedálozva maradjon mozgásban, hogy felmelegedjen. Érjen a lőporgyárhoz délután, a korai téli sötétedés előtt. Kapcsolja be az erős lámpákat a hideg esti visszaúthoz.",
             "ro": "Începeți cursa matinală friguroasă spre biserică și conac purtând mănuși rezistente la vânt. La prânz, pedalați alert spre moară și castel pentru a vă încălzi. Ajungeți la moara de pulbere după-amiaza, înaintea amurgului timpuriu de iarnă. Aprindeți luminile bicicletei pentru cursa de seară.",
-            "en": "Start your chilly morning ride to the church and estate wearing windproof gloves. Midday brings a brisk pedal to the local mill and castle; keep moving to stay warm. Reach the historic powder mill in the afternoon before the early winter dusk. Turn on your bright bike lights for the cold evening ride."
+            "en": "Start your chilly morning ride to the church and estate wearing windproof gloves. Midday brings a brisk pedal to the local mill and castle; keep moving to stay warm. Reach the historic powder mill in the afternoon before the early winter dusk. Turn on your bright bike lights for the cold evening ride.",
+            "fr": "Commencez votre balade matinale frisquette vers l’église et le domaine en portant des gants coupe-vent. Midi apporte une pédalée vive vers le moulin local et le château ; gardez le mouvement pour rester au chaud. Rejoignez le moulin à poudre historique dans l’après-midi avant le crépuscule hivernal précoce. Allumez vos puissants éclairages de vélo pour la sortie froide du soir."
           },
           "stops": [
             {
@@ -525,13 +581,15 @@
                 "de": "Kirche Saint-Médard",
                 "hu": "Saint-Médard templom",
                 "ro": "Biserica Saint-Médard",
-                "en": "Saint-Médard Church"
+                "en": "Saint-Médard Church",
+                "fr": "Saint-Médard Church"
               },
               "tip_5lang": {
                 "de": "Beginnen Sie Ihren Radtag an dieser majestätischen Kirche; ihre dicken Wände bieten einen Windschutz vor dem kalten frühen Morgenfrost.",
                 "hu": "Kezdje kerékpáros napját ennél a fenséges templomnál; vastag falai átmeneti szélárnyékot nyújtanak a csípős kora reggeli fagy elől.",
                 "ro": "Începeți ziua de ciclism la această biserică maiestuoasă; zidurile sale groase oferă protecție temporară împotriva gerului tăios al dimineții.",
-                "en": "Start your cycling day at this majestic church; its thick walls offer a temporary windbreak from the biting early morning frost."
+                "en": "Start your cycling day at this majestic church; its thick walls offer a temporary windbreak from the biting early morning frost.",
+                "fr": "Commencez votre journée cycliste à cette majestueuse église ; ses murs épais offrent un abri temporaire contre le gel matinal mordant."
               }
             },
             {
@@ -539,13 +597,15 @@
                 "de": "Le Bourdieu",
                 "hu": "Le Bourdieu",
                 "ro": "Le Bourdieu",
-                "en": "Le Bourdieu"
+                "en": "Le Bourdieu",
+                "fr": "Le Bourdieu"
               },
               "tip_5lang": {
                 "de": "Genießen Sie die frostige Eleganz des historischen Anwesens; tragen Sie isolierte Radhandschuhe, um Ihre Finger zum Bremsen beweglich zu halten.",
                 "hu": "Gyönyörködjön a történelmi birtok fagyos eleganciájában; viseljen szigetelt kerékpáros kesztyűt, hogy ujjai fürgék maradjanak a fékezéshez.",
                 "ro": "Admirați eleganța înghețată a conacului istoric; purtați mănuși de ciclism izolate pentru a vă menține degetele agile pentru o frânare sigură.",
-                "en": "Take in the frosty elegance of the historic estate; wear insulated cycling gloves to keep your fingers nimble for braking safely."
+                "en": "Take in the frosty elegance of the historic estate; wear insulated cycling gloves to keep your fingers nimble for braking safely.",
+                "fr": "Appréciez l’élégance givrée du domaine historique ; portez des gants de cyclisme isolés pour garder vos doigts agiles pour freiner en toute sécurité."
               }
             },
             {
@@ -553,13 +613,15 @@
                 "de": "Moulin de Gajac",
                 "hu": "Moulin de Gajac",
                 "ro": "Moulin de Gajac",
-                "en": "Moulin de Gajac"
+                "en": "Moulin de Gajac",
+                "fr": "Moulin de Gajac"
               },
               "tip_5lang": {
                 "de": "Beobachten Sie das Winterwasser an der historischen Mühle; achten Sie besonders auf Glatteisbildung in der Nähe der kalten, feuchten Flussufer.",
                 "hu": "Nézze, ahogy a téli vizek elfolynak a történelmi malom mellett; legyen különösen óvatos a hideg, párás folyópartok közelében képződő tükörjéggel.",
                 "ro": "Priviți apele de iarnă curgând pe lângă moara istorică; fiți foarte atenți la poleiul care se formează lângă malurile reci și umede ale râului.",
-                "en": "Watch the winter waters flow past the historic mill; be extra careful of black ice patches forming near the cold, humid riverbanks."
+                "en": "Watch the winter waters flow past the historic mill; be extra careful of black ice patches forming near the cold, humid riverbanks.",
+                "fr": "Observez les eaux hivernales couler près du moulin historique ; soyez particulièrement vigilant aux plaques de verglas se formant près des rives froides et humides de la rivière."
               }
             },
             {
@@ -567,13 +629,15 @@
                 "de": "Château de la Mothe-Gajac",
                 "hu": "Château de la Mothe-Gajac",
                 "ro": "Château de la Mothe-Gajac",
-                "en": "Château de la Mothe-Gajac"
+                "en": "Château de la Mothe-Gajac",
+                "fr": "Château de la Mothe-Gajac"
               },
               "tip_5lang": {
                 "de": "Bewundern Sie die stoische Schönheit dieses Schlosses vor dem Winterhimmel; radeln Sie gleichmäßig, um eine angenehme Körperwärme zu erhalten.",
                 "hu": "Csodálja meg e kastély sztoikus szépségét a szürke téli égbolt előtt; pedálozzon egyenletes tempóban a kényelmes testhőmérséklet fenntartásához.",
                 "ro": "Admirați frumusețea stoică a acestui castel pe cerul gri de iarnă; pedalați într-un ritm constant pentru a vă menține o căldură corporală confortabilă.",
-                "en": "Admire the stoic beauty of this castle against the grey winter sky; keep pedaling at a steady pace to maintain a comfortable body heat."
+                "en": "Admire the stoic beauty of this castle against the grey winter sky; keep pedaling at a steady pace to maintain a comfortable body heat.",
+                "fr": "Admirez la beauté stoïque de ce château sous le ciel d’hiver gris ; pédalez à un rythme régulier pour maintenir une chaleur corporelle confortable."
               }
             },
             {
@@ -581,13 +645,15 @@
                 "de": "Saint-Médard Pulvermühle",
                 "hu": "Saint-Médard Lőporgyár",
                 "ro": "Moara de Pulbere Saint-Médard",
-                "en": "Saint-Médard Powder Mill"
+                "en": "Saint-Médard Powder Mill",
+                "fr": "Saint-Médard Powder Mill"
               },
               "tip_5lang": {
                 "de": "Entdecken Sie die faszinierenden Industrieruinen der Pulvermühle; schalten Sie Ihr starkes Fahrradlicht ein, da die Dämmerung gegen 17:00 Uhr schnell hereinbricht.",
                 "hu": "Fedezze fel a lőporgyár lenyűgöző ipari romjait; kapcsolja be erős kerékpáros lámpáit, mivel a szürkület gyorsan, 17:00 körül ereszkedik le.",
                 "ro": "Descoperiți ruinele industriale fascinante ale morii de pulbere; aprindeți luminile puternice ale bicicletei, deoarece amurgul cade rapid în jurul orei 17:00.",
-                "en": "Discover the fascinating industrial ruins of the powder mill; switch on your strong bike lights as dusk falls quickly around 17:00."
+                "en": "Discover the fascinating industrial ruins of the powder mill; switch on your strong bike lights as dusk falls quickly around 17:00.",
+                "fr": "Découvrez les ruines industrielles fascinantes du moulin à poudre ; allumez vos puissants éclairages de vélo car la tombée de la nuit arrive rapidement vers 17:00."
               }
             }
           ]
@@ -607,7 +673,8 @@
             "de": "Kirche Saint-Médard",
             "hu": "Saint-Médard templom",
             "ro": "Biserica Saint-Médard",
-            "en": "Saint-Médard Church"
+            "en": "Saint-Médard Church",
+            "fr": "Saint-Médard Church"
           },
           "coords": [
             -0.717076,
@@ -622,7 +689,8 @@
             "de": "Bewundern Sie die wunderschönen Buntglasfenster und das friedliche Innere dieser historischen Kirche, die Sie am besten in den Morgenstunden besuchen sollten.",
             "hu": "Csodálja meg a történelmi templom gyönyörű ólomüveg ablakait és békés belső terét, de mindenképpen a reggeli órákban érkezzen a legjobb fényviszonyokért.",
             "ro": "Admirați vitraliile frumoase și interiorul liniștit al acestei biserici istorice, asigurându-vă că o vizitați dimineața pentru cea mai bună lumină naturală.",
-            "en": "Admire the beautiful stained glass and peaceful interior of this historic church, ensuring you visit during morning hours for the best natural light."
+            "en": "Admire the beautiful stained glass and peaceful interior of this historic church, ensuring you visit during morning hours for the best natural light.",
+            "fr": "Admirez les beaux vitraux et l’intérieur paisible de cette église historique, en veillant à la visiter le matin pour la meilleure lumière naturelle."
           }
         },
         {
@@ -630,7 +698,8 @@
             "de": "Saint-Médard Pulvermühle",
             "hu": "Saint-Médard Lőporgyár",
             "ro": "Moara de Pulbere Saint-Médard",
-            "en": "Saint-Médard Powder Mill"
+            "en": "Saint-Médard Powder Mill",
+            "fr": "Saint-Médard Powder Mill"
           },
           "coords": [
             -0.779511,
@@ -645,7 +714,8 @@
             "de": "Erfahren Sie mehr über die industrielle Vergangenheit dieser ehemaligen Sprengstofffabrik, indem Sie den offiziellen Audioguide herunterladen, um die Abläufe zu verstehen.",
             "hu": "Ismerje meg a volt robbanóanyag-gyár jelentős ipari múltját a hivatalos audioguide letöltésével, amiből megértheti az egykor alkalmazott szigorú biztonsági protokollokat.",
             "ro": "Aflați despre trecutul industrial semnificativ al acestei foste fabrici de explozibili descărcând ghidul audio oficial pentru a înțelege protocoalele lor de siguranță.",
-            "en": "Learn about the significant industrial past of this former explosives factory by downloading the official audio guide to understand the safety protocols they used."
+            "en": "Learn about the significant industrial past of this former explosives factory by downloading the official audio guide to understand the safety protocols they used.",
+            "fr": "Apprenez-en davantage sur l’importante histoire industrielle de cette ancienne usine d’explosifs en téléchargeant le guide audio officiel pour comprendre les protocoles de sécurité qu’ils utilisaient."
           }
         },
         {
@@ -653,7 +723,8 @@
             "de": "Le Castérà",
             "hu": "Le Castérà",
             "ro": "Le Castérà",
-            "en": "Le Castérà"
+            "en": "Le Castérà",
+            "fr": "Le Castérà"
           },
           "coords": [
             -0.721507,
@@ -668,7 +739,8 @@
             "de": "Entdecken Sie die faszinierende Geschichte dieser majestätischen Festung, indem Sie an den Anschlagtafeln nach spontanen Führungen oder saisonalen Ereignissen suchen.",
             "hu": "Ismerje meg e fenséges erődítmény lenyűgöző történetét úgy, hogy ellenőrzi a helyi hirdetőtáblákat az esetlegesen induló tárlatvezetések vagy szezonális események miatt.",
             "ro": "Descoperiți istoria fascinantă a acestei fortărețe maiestuoase verificând panourile informative locale pentru eventuale tururi ghidate sau evenimente sezoniere.",
-            "en": "Uncover the fascinating history of this majestic stronghold by checking the local noticeboards for any pop-up guided tours or seasonal events held on-site."
+            "en": "Uncover the fascinating history of this majestic stronghold by checking the local noticeboards for any pop-up guided tours or seasonal events held on-site.",
+            "fr": "Découvrez l’histoire fascinante de cette majestueuse forteresse en consultant les panneaux d’informations locaux pour repérer d’éventuelles visites guidées improvisées ou des événements saisonniers sur place."
           }
         },
         {
@@ -676,7 +748,8 @@
             "de": "Château de la Mothe-Gajac",
             "hu": "Château de la Mothe-Gajac",
             "ro": "Château de la Mothe-Gajac",
-            "en": "Château de la Mothe-Gajac"
+            "en": "Château de la Mothe-Gajac",
+            "fr": "Château de la Mothe-Gajac"
           },
           "coords": [
             -0.699633,
@@ -691,7 +764,8 @@
             "de": "Bewundern Sie die robusten Türme und den malerischen Wassergraben dieser mittelalterlichen Festung und umrunden Sie das gesamte Gelände, um die Ausmaße zu erfassen.",
             "hu": "Csodálja meg e lenyűgöző középkori erődítmény robusztus tornyait és festői várárkát, és mindenképpen sétálja körbe a teljes peremet a védelmi lépték értékeléséhez.",
             "ro": "Admirați turnurile robuste și șanțul pitoresc al acestei fortărețe medievale impresionante, asigurându-vă că mergeți pe întregul perimetru pentru a-i aprecia scara.",
-            "en": "Admire the robust towers and scenic moat of this impressive medieval fortress, making sure to walk the entire perimeter to appreciate its defensive scale."
+            "en": "Admire the robust towers and scenic moat of this impressive medieval fortress, making sure to walk the entire perimeter to appreciate its defensive scale.",
+            "fr": "Admirez les tours robustes et le douves pittoresques de cette impressionnante forteresse médiévale, en veillant à faire le tour complet pour apprécier son envergure défensive."
           }
         },
         {
@@ -699,7 +773,8 @@
             "de": "Ingenand-Park",
             "hu": "Ingenand Park",
             "ro": "Parcul Ingenand",
-            "en": "Ingenand Park"
+            "en": "Ingenand Park",
+            "fr": "Ingenand Park"
           },
           "coords": [
             -0.673929,
@@ -714,7 +789,8 @@
             "de": "Entspannen Sie sich in den üppigen Grünflächen dieses weitläufigen öffentlichen Parks, wo Sie sich mit einer mitgebrachten Decke bequem unter den großen Bäumen ausruhen können.",
             "hu": "Pihenjen meg a tágas közpark buja zöldterületein, ahol egy magával hozott takaró segítségével kényelmesen leheveredhet a nagy árnyékot adó fák alá a felfedezés után.",
             "ro": "Relaxați-vă în spațiile verzi luxuriante ale acestui parc public întins, unde aducerea unei pături vă va permite să vă odihniți confortabil sub copacii mari după explorare.",
-            "en": "Relax in the lush green spaces of this expansive public park, where bringing a blanket will allow you to comfortably rest under the large shade trees after exploring."
+            "en": "Relax in the lush green spaces of this expansive public park, where bringing a blanket will allow you to comfortably rest under the large shade trees after exploring.",
+            "fr": "Détendez-vous dans les vastes espaces verts de ce grand parc public ; apporter une couverture vous permettra de vous reposer confortablement sous les grands arbres ombragés après l’exploration."
           }
         }
       ],
@@ -722,7 +798,8 @@
         "de": "Beginnen Sie Ihre Autotour mit einem morgendlichen Besuch der zentralen historischen Kirche. Mittags fahren Sie zur faszinierenden Pulvermühle, um mehr über das industrielle Erbe der Region zu erfahren. Am Nachmittag erkunden Sie die robuste Architektur von Le Castérà und dem Château de la Mothe-Gajac. Lassen Sie den Tag mit einem entspannenden Abendspaziergang im Ingenand-Park ausklingen.",
         "hu": "Kezdje autós útját a központi történelmi templom reggeli meglátogatásával. A dél a lenyűgöző Lőporgyárhoz vezet, ahol megismerheti a környék ipari örökségét. Délután fedezze fel a Le Castérà és a Château de la Mothe-Gajac robusztus építészetét. A napot tökéletesen zárhatja egy pihentető esti sétával a kiterjedt Ingenand Park zöldterületein.",
         "ro": "Începeți traseul auto cu o vizită de dimineață la biserica istorică centrală. Prânzul vă duce la fascinanta Moară de Pulbere pentru a afla despre moștenirea industrială a zonei. După-amiaza, explorați arhitectura robustă a Le Castérà și Château de la Mothe-Gajac. Încheiați ziua perfect cu o plimbare relaxantă de seară în aerul proaspăt al Parcului Ingenand.",
-        "en": "Kick off your driving route with a morning visit to the central historic church to admire its delicate features. Midday takes you to the fascinating Powder Mill site to learn about the area's industrial legacy. In the afternoon, explore the robust architecture of both Le Castérà and Château de la Mothe-Gajac. Wind down your day perfectly with a relaxing evening stroll at Ingenand Park."
+        "en": "Kick off your driving route with a morning visit to the central historic church to admire its delicate features. Midday takes you to the fascinating Powder Mill site to learn about the area's industrial legacy. In the afternoon, explore the robust architecture of both Le Castérà and Château de la Mothe-Gajac. Wind down your day perfectly with a relaxing evening stroll at Ingenand Park.",
+        "fr": "Commencez votre itinéraire en voiture par une visite matinale de l’église historique centrale pour en admirer les délicats détails. À midi, rendez-vous sur le site fascinant du Moulin à poudre pour découvrir l’héritage industriel de la région. L’après-midi, explorez l’architecture robuste du Le Castérà et du Château de la Mothe-Gajac. Terminez parfaitement la journée par une promenade relaxante en soirée au parc Ingenand."
       },
       "variants": {
         "rainy": {
@@ -730,7 +807,8 @@
             "de": "Fahren Sie bequem durch den Morgenregen zur Kirche und zur Pulvermühle. Fahren Sie mittags zu den historischen Schlössern und nutzen Sie das Auto als trockene Basis. Betrachten Sie nachmittags den Ingenand-Park vom Auto aus oder tragen Sie Gummistiefel. Verbringen Sie den regnerischen Abend entspannt in der Unterkunft.",
             "hu": "Vezessen kényelmesen a reggeli esőben a templomhoz és a lőporgyárhoz. Délben a történelmi kastélyokat célozza meg, az autót száraz bázisként használva a rövid séták között. Délután nézze meg az Ingenand Parkot az autóból, vagy húzzon vízálló csizmát. Az esős estét a szállásán pihenve töltse.",
             "ro": "Conduceți confortabil prin ploaia matinală pentru a vizita biserica și moara de pulbere. La prânz, navigați spre castele, folosind mașina ca bază uscată între plimbările scurte. După-amiaza, vedeți Parcul Ingenand din mașină sau purtați cizme impermeabile. Petreceți seara ploioasă relaxându-vă la cazare.",
-            "en": "Drive comfortably through the morning rain to visit the local church and powder mill. By midday, navigate to the historic castles, using your car as a dry base between short, wet walks. In the afternoon, view Ingenand Park from the car or wear sturdy waterproof boots. Spend the rainy evening relaxing at your accommodation."
+            "en": "Drive comfortably through the morning rain to visit the local church and powder mill. By midday, navigate to the historic castles, using your car as a dry base between short, wet walks. In the afternoon, view Ingenand Park from the car or wear sturdy waterproof boots. Spend the rainy evening relaxing at your accommodation.",
+            "fr": "Roulez confortablement sous la pluie matinale pour visiter l’église locale et le moulin à poudre. À midi, rejoignez les châteaux historiques, en utilisant votre voiture comme base sèche entre de courtes promenades mouillées. L’après-midi, admirez le parc Ingenand depuis la voiture ou chaussez des bottes imperméables robustes. Passez la soirée pluvieuse à vous détendre dans votre hébergement."
           },
           "stops": [
             {
@@ -738,13 +816,15 @@
                 "de": "Kirche Saint-Médard",
                 "hu": "Saint-Médard templom",
                 "ro": "Biserica Saint-Médard",
-                "en": "Saint-Médard Church"
+                "en": "Saint-Médard Church",
+                "fr": "Saint-Médard Church"
               },
               "tip_5lang": {
                 "de": "Schätzen Sie die Architektur der lokalen Kirche; parken Sie nah und treten Sie in das trockene Innere ein, um dem morgendlichen Dauerregen zu entkommen.",
                 "hu": "Értékelje a helyi templom nagyszerű építészetét; parkoljon közel, és lépjen be a száraz belső térbe, hogy elmeneküljön a szakadó reggeli eső elől.",
                 "ro": "Apreciați arhitectura grandioasă a bisericii locale; parcați aproape și intrați în interiorul uscat pentru a scăpa de ploaia necruțătoare de dimineață.",
-                "en": "Appreciate the grand architecture of the local church; park closely and step inside the dry interior to escape the relentless morning rain."
+                "en": "Appreciate the grand architecture of the local church; park closely and step inside the dry interior to escape the relentless morning rain.",
+                "fr": "Appréciez la grande architecture de l’église locale ; garez-vous à proximité et entrez dans l’intérieur sec pour échapper à la pluie matinale persistante."
               }
             },
             {
@@ -752,13 +832,15 @@
                 "de": "Saint-Médard Pulvermühle",
                 "hu": "Saint-Médard Lőporgyár",
                 "ro": "Moara de Pulbere Saint-Médard",
-                "en": "Saint-Médard Powder Mill"
+                "en": "Saint-Médard Powder Mill",
+                "fr": "Saint-Médard Powder Mill"
               },
               "tip_5lang": {
                 "de": "Erkunden Sie die industrielle Geschichte der Pulvermühle; nutzen Sie einen großen Regenschirm, da die Wege zwischen den Gebäuden ungeschützt sind.",
                 "hu": "Fedezze fel a lőporgyár kiterjedt ipari történelmét; használjon nagy esernyőt, mivel az épületek közötti gyalogutak teljesen nyitottak.",
                 "ro": "Explorați istoria industrială vastă a zonei morii de pulbere; folosiți o umbrelă mare, deoarece distanțele de mers între clădiri sunt expuse.",
-                "en": "Explore the sprawling industrial history of the powder mill area; use a large umbrella as the walking distances between buildings are exposed."
+                "en": "Explore the sprawling industrial history of the powder mill area; use a large umbrella as the walking distances between buildings are exposed.",
+                "fr": "Explorez l’importante histoire industrielle de la zone du moulin à poudre ; utilisez un grand parapluie car les distances à pied entre les bâtiments sont exposées."
               }
             },
             {
@@ -766,13 +848,15 @@
                 "de": "Le Castérà",
                 "hu": "Le Castérà",
                 "ro": "Le Castérà",
-                "en": "Le Castérà"
+                "en": "Le Castérà",
+                "fr": "Le Castérà"
               },
               "tip_5lang": {
                 "de": "Entdecken Sie die reiche Vergangenheit dieser Festung; das dicke, schlammige Gelände macht wasserdichte Stiefel für Ihren Besuch unerlässlich.",
                 "hu": "Fedezze fel e lenyűgöző erőd gazdag múltját; a vastag, sáros terep miatt a robusztus, vízálló csizma elengedhetetlen a gyors látogatáshoz.",
                 "ro": "Descoperiți trecutul bogat al acestei fortărețe impunătoare; terenul gros și noroios face ca cizmele impermeabile robuste să fie esențiale pentru vizită.",
-                "en": "Discover the rich past of this imposing fortress; the thick, muddy terrain means robust, waterproof boots are essential for your quick visit."
+                "en": "Discover the rich past of this imposing fortress; the thick, muddy terrain means robust, waterproof boots are essential for your quick visit.",
+                "fr": "Découvrez le riche passé de cette imposante forteresse ; le terrain épais et boueux rend des bottes robustes et imperméables indispensables pour votre visite rapide."
               }
             },
             {
@@ -780,13 +864,15 @@
                 "de": "Château de la Mothe-Gajac",
                 "hu": "Château de la Mothe-Gajac",
                 "ro": "Château de la Mothe-Gajac",
-                "en": "Château de la Mothe-Gajac"
+                "en": "Château de la Mothe-Gajac",
+                "fr": "Château de la Mothe-Gajac"
               },
               "tip_5lang": {
                 "de": "Sehen Sie das auffällige Äußere dieses klassischen Schlosses; eilen Sie schnell zurück in Ihr beheiztes Auto, wenn ein plötzlicher Regenschauer aufzieht.",
                 "hu": "Tekintse meg e klasszikus kastély feltűnő külsejét; siessen vissza a fűtött autójába, ha egy hirtelen heves esőzivatar söpör végig a területen.",
                 "ro": "Vedeți exteriorul izbitor al acestui castel clasic; fugiți rapid înapoi în mașina încălzită dacă o rafală bruscă de ploaie abundentă străbate zona.",
-                "en": "See the striking exterior of this classic chateau; dash quickly back to your heated car if a sudden heavy rain squall sweeps through the area."
+                "en": "See the striking exterior of this classic chateau; dash quickly back to your heated car if a sudden heavy rain squall sweeps through the area.",
+                "fr": "Découvrez l’extérieur saisissant de ce château classique ; courez rapidement vers votre voiture chauffée si une forte averse soudaine balaie la zone."
               }
             },
             {
@@ -794,13 +880,15 @@
                 "de": "Ingenand-Park",
                 "hu": "Ingenand Park",
                 "ro": "Parcul Ingenand",
-                "en": "Ingenand Park"
+                "en": "Ingenand Park",
+                "fr": "Ingenand Park"
               },
               "tip_5lang": {
                 "de": "Betrachten Sie das üppige, nasse Grün des Parks direkt aus den Autofenstern oder machen Sie einen kurzen Spaziergang, falls Sie gute Regenkleidung haben.",
                 "hu": "Nézze a park buja, nedves növényzetét közvetlenül az autó ablakából, vagy tegyen egy rövid sétát a tócsákat kerülgetve, ha van megfelelő esőruhája.",
                 "ro": "Vedeți verdeața luxuriantă și umedă a parcului direct de la geamurile mașinii sau faceți o scurtă plimbare printre bălți dacă aveți echipament de ploaie adecvat.",
-                "en": "View the lush, wet greenery of the park directly from your car windows, or take a short, puddle-jumping walk if equipped with good rain gear."
+                "en": "View the lush, wet greenery of the park directly from your car windows, or take a short, puddle-jumping walk if equipped with good rain gear.",
+                "fr": "Observez la verdure luxuriante et mouillée du parc depuis les vitres de votre voiture, ou faites une courte promenade en sautant les flaques si vous êtes équipé d’un bon équipement de pluie."
               }
             }
           ]
@@ -810,7 +898,8 @@
             "de": "Genießen Sie eine frostige Morgenfahrt zur Kirche und zur Pulvermühle bei eingeschalteter Heizung. Erkunden Sie mittags die Schlösser und wärmen Sie sich dazwischen im Auto auf. Machen Sie nachmittags einen flotten Spaziergang im Ingenand-Park, bevor die Sonne gegen 17:00 Uhr untergeht. Beenden Sie den Tag mit einer gemütlichen Abendfahrt.",
             "hu": "Fagyos reggeli autózással látogassa meg a történelmi templomot és lőporgyárat, bekapcsolva a fűtést. Délben fedezze fel a kastélyokat, két megálló között visszatérve a meleg járműbe. Tegyen egy frissítő délutáni sétát az Ingenand Parkban a 17:00 órai naplemente előtt. Zárja a napot egy hangulatos esti vezetéssel.",
             "ro": "Bucurați-vă de o dimineață geroasă la volan spre biserică și moara de pulbere, ținând căldura pornită. La prânz, explorați castelele și întoarceți-vă în mașina caldă între opriri. Faceți o plimbare scurtă după-amiaza în Parcul Ingenand înainte ca soarele să apună pe la 17:00. Încheiați cu o seară confortabilă la volan.",
-            "en": "Enjoy a frosty morning drive to the historic church and powder mill, keeping the car heater on. At midday, explore the majestic castles and return to the warm vehicle between stops. Take a brisk afternoon walk in Ingenand Park before the sun sets around 17:00. End with a cozy evening drive under the crisp winter sky."
+            "en": "Enjoy a frosty morning drive to the historic church and powder mill, keeping the car heater on. At midday, explore the majestic castles and return to the warm vehicle between stops. Take a brisk afternoon walk in Ingenand Park before the sun sets around 17:00. End with a cozy evening drive under the crisp winter sky.",
+            "fr": "Profitez d’une promenade matinale glacée en voiture vers l’église historique et le moulin à poudre, en gardant le chauffage allumé. À midi, explorez les châteaux majestueux et retournez au véhicule chauffé entre les arrêts. Faites une promenade vivifiante l’après-midi dans le parc Ingenand avant le coucher du soleil vers 17:00. Terminez par une balade du soir confortable sous le ciel hivernal frais."
           },
           "stops": [
             {
@@ -818,13 +907,15 @@
                 "de": "Kirche Saint-Médard",
                 "hu": "Saint-Médard templom",
                 "ro": "Biserica Saint-Médard",
-                "en": "Saint-Médard Church"
+                "en": "Saint-Médard Church",
+                "fr": "Saint-Médard Church"
               },
               "tip_5lang": {
                 "de": "Beginnen Sie Ihre Wintertour an dieser schönen Kirche; ihr geschütztes, warmes Innere ist ein einladender Start, bevor Sie in Ihr abgetautes Auto zurückkehren.",
                 "hu": "Kezdje téli túráját ennél a gyönyörű templomnál; védett, meleg belső tere barátságos indítást nyújt, mielőtt visszatérne a leolvasztott autójába.",
                 "ro": "Începeți turul de iarnă la această biserică frumoasă; interiorul său adăpostit și cald este un început primitor înainte de a vă întoarce la mașina dezghețată.",
-                "en": "Start your winter tour at this beautiful church; its sheltered, warm interior is a welcoming start before heading back to your defrosted car."
+                "en": "Start your winter tour at this beautiful church; its sheltered, warm interior is a welcoming start before heading back to your defrosted car.",
+                "fr": "Commencez votre circuit hivernal par cette belle église ; son intérieur abrité et chauffé est un accueil chaleureux avant de retourner à votre voiture dégivrée."
               }
             },
             {
@@ -832,13 +923,15 @@
                 "de": "Saint-Médard Pulvermühle",
                 "hu": "Saint-Médard Lőporgyár",
                 "ro": "Moara de Pulbere Saint-Médard",
-                "en": "Saint-Médard Powder Mill"
+                "en": "Saint-Médard Powder Mill",
+                "fr": "Moulin à poudre Saint-Médard"
               },
               "tip_5lang": {
                 "de": "Entdecken Sie die faszinierenden Ruinen der historischen Pulvermühle; ziehen Sie sich für die kurzen Spaziergänge in der kalten Winterluft warm an.",
                 "hu": "Fedezze fel a történelmi lőporgyár lenyűgöző romjait; öltözzön fel melegen a járműtől távolabbi rövid sétákhoz a metsző téli levegőben.",
                 "ro": "Descoperiți ruinele fascinante ale morii istorice de pulbere; îmbrăcați-vă gros pentru plimbările scurte departe de vehicul în aerul tăios de iarnă.",
-                "en": "Uncover the fascinating ruins of the historic powder mill; dress warmly for the short walks away from the vehicle in the biting winter air."
+                "en": "Uncover the fascinating ruins of the historic powder mill; dress warmly for the short walks away from the vehicle in the biting winter air.",
+                "fr": "Découvrez les ruines fascinantes de l'ancien moulin à poudre ; habillez-vous chaudement pour les courtes promenades depuis le véhicule dans l'air glacial de l'hiver."
               }
             },
             {
@@ -846,13 +939,15 @@
                 "de": "Le Castérà",
                 "hu": "Le Castérà",
                 "ro": "Le Castérà",
-                "en": "Le Castérà"
+                "en": "Le Castérà",
+                "fr": "Le Castérà"
               },
               "tip_5lang": {
                 "de": "Bestaunen Sie die Silhouette der historischen Festung vor dem blassen Winterhimmel; die umliegenden kahlen Bäume bieten tolle Fotomotive.",
                 "hu": "Csodálja meg a történelmi erőd zord sziluettjét a halvány téli égbolt előtt; a környező csupasz fák nagyszerű fotózási lehetőségeket kínálnak.",
                 "ro": "Minunați-vă de silueta aspră a fortăreței istorice pe cerul palid de iarnă; copacii goi din jur oferă oportunități excelente pentru fotografii.",
-                "en": "Marvel at the stark silhouette of the historic fortress against the pale winter sky; the surrounding bare trees offer great photo opportunities."
+                "en": "Marvel at the stark silhouette of the historic fortress against the pale winter sky; the surrounding bare trees offer great photo opportunities.",
+                "fr": "Admirez la silhouette austère de la forteresse historique contre le pâle ciel hivernal ; les arbres dépouillés alentour offrent d'excellentes opportunités photo."
               }
             },
             {
@@ -860,13 +955,15 @@
                 "de": "Château de la Mothe-Gajac",
                 "hu": "Château de la Mothe-Gajac",
                 "ro": "Château de la Mothe-Gajac",
-                "en": "Château de la Mothe-Gajac"
+                "en": "Château de la Mothe-Gajac",
+                "fr": "Château de la Mothe-Gajac"
               },
               "tip_5lang": {
                 "de": "Sehen Sie dieses schöne, elegant mit Winterfrost bedeckte Steinschloss; hüpfen Sie schnell zurück in die Heizung Ihres Autos vor dem letzten Stopp.",
                 "hu": "Nézze meg ezt a gyönyörű, téli dérrel elegánsan meghintett kőkastélyt; ugorjon vissza gyorsan az autó fűtött terébe a végső megálló előtt.",
                 "ro": "Vedeți acest frumos castel de piatră pudrat elegant cu brumă de iarnă; săriți rapid înapoi la căldura mașinii pentru a vă pregăti pentru ultima oprire.",
-                "en": "See this beautiful stone castle elegantly dusted with winter frost; quickly hop back into your car's heating to prepare for the final stop."
+                "en": "See this beautiful stone castle elegantly dusted with winter frost; quickly hop back into your car's heating to prepare for the final stop.",
+                "fr": "Voyez ce magnifique château de pierre élégamment saupoudré de givre hivernal ; remontez rapidement dans le chauffage de votre voiture pour vous préparer à la dernière étape."
               }
             },
             {
@@ -874,13 +971,15 @@
                 "de": "Ingenand-Park",
                 "hu": "Ingenand Park",
                 "ro": "Parcul Ingenand",
-                "en": "Ingenand Park"
+                "en": "Ingenand Park",
+                "fr": "Parc Ingenand"
               },
               "tip_5lang": {
                 "de": "Beenden Sie den Tag mit einem flotten Spaziergang durch die friedlichen Winterwege des Parks, bevor die frühe Dunkelheit gegen 17:00 Uhr hereinbricht.",
                 "hu": "Zárja a napot egy élénkítő sétával a park békés téli ösvényein, mielőtt a korai sötétség 17:00 óra körül leszállna.",
                 "ro": "Încheiați ziua cu o scurtă plimbare pe aleile pașnice de iarnă ale parcului, înainte ca întunericul timpuriu să se lase în jurul orei 17:00.",
-                "en": "Conclude the day with a brisk stroll through the peaceful winter paths of the park before the early darkness falls around 17:00."
+                "en": "Conclude the day with a brisk stroll through the peaceful winter paths of the park before the early darkness falls around 17:00.",
+                "fr": "Terminez la journée par une promenade tonique sur les sentiers paisibles et hivernaux du parc avant que l'obscurité précoce ne tombe vers 17:00."
               }
             }
           ]

@@ -21,7 +21,8 @@
             "de": "Bahnhof Bourg-Saint-Maurice",
             "hu": "Bourg-Saint-Maurice Pályaudvar",
             "ro": "Gara Bourg-Saint-Maurice",
-            "en": "Bourg-Saint-Maurice Station"
+            "en": "Bourg-Saint-Maurice Station",
+            "fr": "Gare de Bourg-Saint-Maurice"
           },
           "coords": [
             6.771667,
@@ -36,7 +37,8 @@
             "de": "Beginnen Sie Ihr alpines Abenteuer an diesem belebten Verkehrsknotenpunkt und holen Sie sich am Informationsschalter eine lokale Wanderkarte.",
             "hu": "Kezdje alpesi kalandját ezen a forgalmas közlekedési csomóponton, és mindenképpen szerezzen be egy helyi térképet a közeli információs pultnál.",
             "ro": "Începeți aventura alpină în acest nod de transport aglomerat și asigurați-vă că luați o hartă locală de la biroul de informații din apropiere.",
-            "en": "Start your alpine adventure at this bustling transport hub, and make sure to grab a local map from the nearby information desk before heading out."
+            "en": "Start your alpine adventure at this bustling transport hub, and make sure to grab a local map from the nearby information desk before heading out.",
+            "fr": "Commencez votre aventure alpine à ce nœud de transport animé et pensez à prendre une carte locale au bureau d'information voisin avant de partir."
           }
         },
         {
@@ -44,7 +46,8 @@
             "de": "Kirche Saint-Maurice",
             "hu": "Saint-Maurice Templom",
             "ro": "Biserica Saint-Maurice",
-            "en": "Saint-Maurice Church"
+            "en": "Saint-Maurice Church",
+            "fr": "Église Saint-Maurice"
           },
           "coords": [
             6.76624,
@@ -59,7 +62,8 @@
             "de": "Bewundern Sie die alpine Architektur dieser historischen Kirche und genießen Sie einen Moment der Stille, bevor Sie den Messeplan an der Tür prüfen.",
             "hu": "Csodálja meg e történelmi templom gyönyörű alpesi építészetét, és tartson egy perc csendes elmélkedést, mielőtt ellenőrizné a misék menetrendjét.",
             "ro": "Admirați frumoasa arhitectură alpină a acestei biserici istorice, luând un moment de reflecție înainte de a verifica programul slujbelor pe ușă.",
-            "en": "Admire the beautiful alpine architecture of this historic church, taking a moment of quiet reflection before checking the mass schedule on the door."
+            "en": "Admire the beautiful alpine architecture of this historic church, taking a moment of quiet reflection before checking the mass schedule on the door.",
+            "fr": "Admirez la belle architecture alpine de cette église historique, en prenant un moment de recueillement puis en vérifiant l'horaire des messes sur la porte."
           }
         },
         {
@@ -67,7 +71,8 @@
             "de": "Bassin de Compensation de Montrigon",
             "hu": "Montrigon Vízerőművi Medence",
             "ro": "Bazinul de Compensare Montrigon",
-            "en": "Bassin de Compensation de Montrigon"
+            "en": "Bassin de Compensation de Montrigon",
+            "fr": "Bassin de Compensation de Montrigon"
           },
           "coords": [
             6.783459,
@@ -82,7 +87,8 @@
             "de": "Bestaunen Sie die Technik dieses Wasserkraftbeckens, ein perfekter Ort, um das kristallklare Wasser zu fotografieren, das die Gipfel widerspiegelt.",
             "hu": "Csodálja meg ennek a vízerőművi medencének a lenyűgöző mérnöki munkáját, amely tökéletes hely a csúcsokat tükröző kristálytiszta víz fotózásához.",
             "ro": "Minunați-vă de ingineria acestui bazin hidroelectric, un loc perfect pentru a fotografia apa cristalină care reflectă vârfurile muntoase din jur.",
-            "en": "Marvel at the impressive engineering of this hydroelectric basin, a perfect spot to take some photos of the crystal-clear water reflecting the peaks."
+            "en": "Marvel at the impressive engineering of this hydroelectric basin, a perfect spot to take some photos of the crystal-clear water reflecting the peaks.",
+            "fr": "Émerveillez-vous devant l'impressionnante ingénierie de ce bassin hydroélectrique, un endroit parfait pour prendre des photos de l'eau cristalline reflétant les sommets."
           }
         },
         {
@@ -90,7 +96,8 @@
             "de": "Fort de la Platte",
             "hu": "Fort de la Platte Erőd",
             "ro": "Fortul de la Platte",
-            "en": "Fort de la Platte"
+            "en": "Fort de la Platte",
+            "fr": "Fort de la Platte"
           },
           "coords": [
             6.742971,
@@ -105,7 +112,8 @@
             "de": "Erkunden Sie die Ruinen dieser hochgelegenen Festung für atemberaubende Talblicke, aber tragen Sie feste Schuhe, da das Gelände ziemlich felsig ist.",
             "hu": "Fedezze fel e magasan fekvő erődítmény romjait a lélegzetelállító völgyi panorámáért, de viseljen erős cipőt, mivel a terep meglehetősen sziklás.",
             "ro": "Explorați ruinele acestei fortărețe de la mare altitudine pentru vederi panoramice uluitoare, dar purtați încălțăminte robustă deoarece terenul e stâncos.",
-            "en": "Explore the rugged ruins of this high-altitude fortress for breathtaking panoramic valley views, but wear sturdy shoes as the terrain is quite rocky."
+            "en": "Explore the rugged ruins of this high-altitude fortress for breathtaking panoramic valley views, but wear sturdy shoes as the terrain is quite rocky.",
+            "fr": "Explorez les ruines robustes de cette forteresse d'altitude pour des vues panoramiques à couper le souffle sur la vallée, mais portez des chaussures solides car le terrain est assez rocheux."
           }
         },
         {
@@ -113,7 +121,8 @@
             "de": "Lac Riondet",
             "hu": "Riondet-tó",
             "ro": "Lacul Riondet",
-            "en": "Lac Riondet"
+            "en": "Lac Riondet",
+            "fr": "Lac Riondet"
           },
           "coords": [
             6.704521,
@@ -128,7 +137,8 @@
             "de": "Entspannen Sie sich an diesem von Gipfeln umgebenen Alpensee und bringen Sie ein kleines Picknick mit, um die absolute Ruhe der Gegend zu genießen.",
             "hu": "Pihenjen a drámai csúcsokkal körülvett alpesi tó nyugodt vizénél, és hozzon magával egy kis pikniket, hogy élvezze a környék abszolút nyugalmát.",
             "ro": "Relaxați-vă lângă apele senine ale acestui lac alpin înconjurat de vârfuri și aduceți un mic picnic pentru a vă bucura de liniștea absolută a zonei.",
-            "en": "Relax by the serene waters of this alpine lake surrounded by dramatic peaks, and bring a small picnic to enjoy the absolute tranquility of the area."
+            "en": "Relax by the serene waters of this alpine lake surrounded by dramatic peaks, and bring a small picnic to enjoy the absolute tranquility of the area.",
+            "fr": "Détendez-vous au bord des eaux sereines de ce lac alpin entouré de sommets dramatiques et apportez un petit pique-nique pour profiter de la tranquillité absolue du lieu."
           }
         }
       ],
@@ -136,7 +146,8 @@
         "de": "Ihr Tag beginnt im Herzen von Bourg-Saint-Maurice am Hauptbahnhof, wo die Bergluft Sie weckt. Kurz darauf bewundern Sie die historische Kirche Saint-Maurice.\nGegen Mittag wandern Sie zum beeindruckenden Bassin de Compensation de Montrigon. Der sanfte Anstieg bietet großartige Ausblicke auf die Umgebung.\nAm Nachmittag machen Sie sich auf den steilen Weg zum historischen Fort de la Platte, das ein atemberaubendes Panorama bietet und Zeugnis der Militärgeschichte ablegt.\nGegen Abend erreichen Sie den Lac Riondet. Das ruhige Alpenwasser bietet ein friedliches Finale für einen aktiven Wandertag in den Bergen.",
         "hu": "Napja Bourg-Saint-Maurice szívében kezdődik, megérkezve a központi pályaudvarra. Nem sokkal később megcsodálhatja a történelmi Saint-Maurice templomot.\nDélben a városon kívülre, a lenyűgöző Montrigon vízerőművi medence felé veszi az irányt. Az enyhe emelkedő remek kilátást nyújt a völgyre.\nDélután komolyabb hegymászás vár a történelmi Fort de la Platte felé. A romok lenyűgöző panorámát kínálnak és a katonai múltról tanúskodnak.\nEste felé továbbhaladva eléri a Lac Riondet-t. A nyugodt alpesi vizek tökéletes, békés lezárást nyújtanak egy aktív és kihívásokkal teli napnak.",
         "ro": "Ziua începe în inima orașului Bourg-Saint-Maurice la gară, unde aerul curat vă trezește imediat. La scurt timp, veți admira biserica istorică Saint-Maurice.\nLa amiază, vă îndreptați spre impresionantul bazin hidroelectric de la Montrigon. Urcarea ușoară oferă vederi superbe asupra întregii văi.\nDupă-amiaza vă pregătiți pentru o urcare serioasă spre istoricul Fort de la Platte, care oferă o panoramă uluitoare și istorie militară.\nPe măsură ce se apropie seara, ajungeți la Lac Riondet. Apele alpine oferă un final liniștit perfect pentru o zi de drumeție foarte activă.",
-        "en": "Your day begins in the heart of Bourg-Saint-Maurice, arriving at the central station where the mountain air immediately wakes you up. Soon after, you will admire the historical Saint-Maurice Church.\nMidday takes you slightly out of town towards the impressive Bassin de Compensation de Montrigon. The gentle uphill walk offers great views of the valley.\nIn the afternoon, brace yourself for a serious ascent towards the historic Fort de la Platte. The imposing ruins are a testament to military history and offer a stunning panorama.\nAs evening approaches, push a little further to reach Lac Riondet. The serene alpine waters provide the perfect peaceful finale to an active and rewarding hiking day."
+        "en": "Your day begins in the heart of Bourg-Saint-Maurice, arriving at the central station where the mountain air immediately wakes you up. Soon after, you will admire the historical Saint-Maurice Church.\nMidday takes you slightly out of town towards the impressive Bassin de Compensation de Montrigon. The gentle uphill walk offers great views of the valley.\nIn the afternoon, brace yourself for a serious ascent towards the historic Fort de la Platte. The imposing ruins are a testament to military history and offer a stunning panorama.\nAs evening approaches, push a little further to reach Lac Riondet. The serene alpine waters provide the perfect peaceful finale to an active and rewarding hiking day.",
+        "fr": "Votre journée commence au cœur de Bourg-Saint-Maurice, à la gare centrale où l'air de la montagne vous réveille immédiatement. Peu après, vous admirerez la historique Église Saint-Maurice.\nLe midi vous emmène légèrement en dehors de la ville vers l'imposant Bassin de Compensation de Montrigon. La douce montée offre de superbes vues sur la vallée.\nL'après-midi, préparez-vous à une montée sérieuse vers le historique Fort de la Platte. Les ruines imposantes témoignent de l'histoire militaire et offrent un panorama magnifique.\nÀ l'approche du soir, poussez un peu plus loin pour atteindre le Lac Riondet. Les eaux alpines sereines offrent la parfaite conclusion paisible à une journée de randonnée active et gratifiante."
       },
       "variants": {
         "rainy": {
@@ -144,7 +155,8 @@
             "de": "Der Tag beginnt am Bahnhof, wo das Vordach Schutz vor dem ersten Nieselregen bietet. Mittags suchen wir Zuflucht in der warmen Atmosphäre der Saint-Maurice Kirche. Am Nachmittag führt der Weg zum Bassin und Fort durch mystische Nebelschwaden, wobei die Wege rutschig sein können. Den Abend lassen wir im Ort ausklingen, während der Regen auf die Dächer prasselt und die Berge verhüllt.",
             "hu": "A nap az állomáson indul, ahol az előtető véd az első szemerkélő esőtől. Délben a Saint-Maurice templom meleg falai között találunk menedéket. Délután a víztározó és az erőd felé vesszük az irányt a misztikus ködfátyolban, vigyázva a csúszós ösvényekre. Az estét a városban zárjuk, miközben az eső kopog a háztetőkön, és a hegyek felhőbe burkolóznak.",
             "ro": "Ziua începe la gară, unde copertina oferă adăpost împotriva primei ploi ușoare. La prânz, căutăm refugiu în atmosfera caldă a Bisericii Saint-Maurice. După-amiaza, drumul spre bazin și fort ne poartă prin cețuri mistice, unde potecile pot fi alunecoase. Seara se încheie în oraș, în timp ce ploaia bate în acoperișuri, iar munții rămân ascunși în nori.",
-            "en": "The day starts at the station, where the overhang provides shelter from the drizzle. At noon, we find refuge in the warm atmosphere of Saint-Maurice Church. In the afternoon, the path to the basin and fort leads through mystical mist, where the trails can be slippery. We end the evening in town as rain drums on the roofs and the mountains are shrouded in clouds."
+            "en": "The day starts at the station, where the overhang provides shelter from the drizzle. At noon, we find refuge in the warm atmosphere of Saint-Maurice Church. In the afternoon, the path to the basin and fort leads through mystical mist, where the trails can be slippery. We end the evening in town as rain drums on the roofs and the mountains are shrouded in clouds.",
+            "fr": "La journée commence à la gare, où le auvent abrite de la bruine. À midi, nous trouvons refuge dans l'atmosphère chaleureuse de l'Église Saint-Maurice. L'après-midi, le chemin vers le bassin et le fort traverse une brume mystique, où les sentiers peuvent être glissants. Nous terminons la soirée en ville tandis que la pluie tambourine sur les toits et que les montagnes sont enveloppées de nuages."
           },
           "stops": [
             {
@@ -152,13 +164,15 @@
                 "de": "Bahnhof Bourg-Saint-Maurice",
                 "hu": "Bourg-Saint-Maurice Pályaudvar",
                 "ro": "Gara Bourg-Saint-Maurice",
-                "en": "Bourg-Saint-Maurice Station"
+                "en": "Bourg-Saint-Maurice Station",
+                "fr": "Gare de Bourg-Saint-Maurice"
               },
               "tip_5lang": {
                 "de": "Nutzen Sie die Wartehalle, um Ihre Regenkleidung zu ordnen, bevor Sie den kurzen, nassen Weg ins Stadtzentrum antreten.",
                 "hu": "Használja ki a várótermet az esőfelszerelés igazítására, mielőtt elindulna a rövid, vizes úton a városközpont felé.",
                 "ro": "Folosiți sala de așteptare pentru a vă ajusta echipamentul de ploaie înainte de a porni pe drumul scurt spre centru.",
-                "en": "Use the waiting hall to organize your rain gear before starting the short, wet walk toward the town center."
+                "en": "Use the waiting hall to organize your rain gear before starting the short, wet walk toward the town center.",
+                "fr": "Utilisez le hall d'attente pour organiser vos affaires de pluie avant de commencer la courte marche humide vers le centre-ville."
               }
             },
             {
@@ -166,13 +180,15 @@
                 "de": "Kirche Saint-Maurice",
                 "hu": "Saint-Maurice Templom",
                 "ro": "Biserica Saint-Maurice",
-                "en": "Saint-Maurice Church"
+                "en": "Saint-Maurice Church",
+                "fr": "Église Saint-Maurice"
               },
               "tip_5lang": {
                 "de": "Bewundern Sie die barocke Pracht im trockenen Innenraum und nutzen Sie die Stille für eine kurze Pause vom Regenwetter.",
                 "hu": "Csodálja meg a barokk pompát a száraz belső térben, és használja ki a csendet egy rövid pihenőre az esős időben.",
                 "ro": "Admirați splendoarea barocă în interiorul uscat și folosiți liniștea pentru o scurtă pauză de vremea ploioasă.",
-                "en": "Admire the baroque splendor in the dry interior and use the silence for a short break from the rainy weather."
+                "en": "Admire the baroque splendor in the dry interior and use the silence for a short break from the rainy weather.",
+                "fr": "Admirez la splendeur baroque à l'abri à l'intérieur et utilisez le silence pour faire une courte pause loin du mauvais temps."
               }
             },
             {
@@ -180,13 +196,15 @@
                 "de": "Bassin de Compensation de Montrigon",
                 "hu": "Montrigon Vízerőművi Medence",
                 "ro": "Bazinul de Compensare Montrigon",
-                "en": "Bassin de Compensation de Montrigon"
+                "en": "Bassin de Compensation de Montrigon",
+                "fr": "Bassin de Compensation de Montrigon"
               },
               "tip_5lang": {
                 "de": "Der Wasserspiegel wirkt bei Regen besonders dramatisch; tragen Sie wasserfeste Schuhe, da das Ufergras sehr nass sein kann.",
                 "hu": "A vízfelszín esőben különösen drámai látvány; viseljen vízálló cipőt, mert a parti fű nagyon nedves lehet ilyenkor.",
                 "ro": "Nivelul apei pare deosebit de dramatic pe ploaie; purtați pantofi impermeabili, deoarece iarba de pe mal poate fi udă.",
-                "en": "The water surface looks especially dramatic in the rain; wear waterproof shoes as the bank grass can be very wet."
+                "en": "The water surface looks especially dramatic in the rain; wear waterproof shoes as the bank grass can be very wet.",
+                "fr": "La surface de l'eau paraît particulièrement dramatique sous la pluie ; portez des chaussures imperméables car l'herbe du bord peut être très humide."
               }
             },
             {
@@ -194,13 +212,15 @@
                 "de": "Fort de la Platte",
                 "hu": "Fort de la Platte Erőd",
                 "ro": "Fortul de la Platte",
-                "en": "Fort de la Platte"
+                "en": "Fort de la Platte",
+                "fr": "Fort de la Platte"
               },
               "tip_5lang": {
                 "de": "Die alten Mauern wirken im Nebel imposant; achten Sie auf den steilen Pfaden auf losen, nassen Untergrund und guten Halt.",
                 "hu": "A régi falak impozánsak a ködben; a meredek ösvényeken figyeljen a laza, nedves talajra és a biztos léptekre.",
                 "ro": "Zidurile vechi par impunătoare în ceață; pe potecile abrupte, aveți grijă la solul ud și asigurați-vă un sprijin bun.",
-                "en": "The old walls look imposing in the fog; watch out for loose, wet ground on the steep paths and ensure good footing."
+                "en": "The old walls look imposing in the fog; watch out for loose, wet ground on the steep paths and ensure good footing.",
+                "fr": "Les vieux remparts paraissent imposants dans le brouillard ; attention au sol meuble et humide sur les sentiers raides et assurez-vous d’avoir un bon appui."
               }
             },
             {
@@ -208,13 +228,15 @@
                 "de": "Lac Riondet",
                 "hu": "Riondet-tó",
                 "ro": "Lacul Riondet",
-                "en": "Lac Riondet"
+                "en": "Lac Riondet",
+                "fr": "Lac Riondet"
               },
               "tip_5lang": {
                 "de": "Die Regentropfen auf dem See erzeugen ein beruhigendes Muster; halten Sie sich wegen der Kälte nicht zu lange ungeschützt auf.",
                 "hu": "A tó vizén táncoló esőcseppek nyugtató látványt nyújtanak; a hideg miatt ne maradjon túl sokáig fedezék nélkül a parton.",
                 "ro": "Picăturile de ploaie pe lac creează un model liniștitor; nu stați prea mult timp neprotejat din cauza frigului umed.",
-                "en": "Raindrops on the lake create a soothing pattern; due to the damp cold, don't stay unprotected for too long by the shore."
+                "en": "Raindrops on the lake create a soothing pattern; due to the damp cold, don't stay unprotected for too long by the shore.",
+                "fr": "Les gouttes de pluie sur le lac créent un motif apaisant ; en raison du froid humide, ne restez pas trop longtemps sans protection sur le rivage."
               }
             }
           ]
@@ -224,7 +246,8 @@
             "de": "Ein frostiger Morgen am Bahnhof verspricht klare Bergluft. Mittags wärmen wir uns in der Saint-Maurice Kirche auf, während draußen der Schnee leise fällt. Der Nachmittag am Bassin und beim Aufstieg zum Fort erfordert warme Kleidung gegen den beißenden Wind. Gegen 17:00 Uhr sinkt die Sonne bereits hinter die Gipfel und taucht das Tal in ein blaues Dämmerlicht.",
             "hu": "A fagyos reggel az állomáson tiszta hegyi levegőt ígér. Délben a Saint-Maurice templomban melegszünk fel, miközben kint halkan hull a hó. A délutáni séta a tározónál és az erődhöz vezető kaptatón meleg rétegeket igényel a csípős szél miatt. 17:00 körül a nap már a csúcsok mögé bukik, kék alkonyatba vonva a völgyet.",
             "ro": "O dimineață geroasă la gară promite aer curat de munte. La prânz, ne încălzim în Biserica Saint-Maurice, în timp ce afară zăpada cade încet. După-amiaza la bazin și urcarea spre fort necesită haine groase împotriva vântului tăios. În jurul orei 17:00, soarele coboară deja după creste, scufundând valea într-o lumină albăstruie.",
-            "en": "A frosty morning at the station promises crisp mountain air. At noon, we warm up in Saint-Maurice Church while snow falls quietly outside. The afternoon at the basin and the climb to the fort requires warm layers against the biting wind. Around 17:00, the sun already sinks behind the peaks, bathing the valley in blue twilight."
+            "en": "A frosty morning at the station promises crisp mountain air. At noon, we warm up in Saint-Maurice Church while snow falls quietly outside. The afternoon at the basin and the climb to the fort requires warm layers against the biting wind. Around 17:00, the sun already sinks behind the peaks, bathing the valley in blue twilight.",
+            "fr": "Un matin givré à la gare promet un air de montagne vif. À midi, nous nous réchauffons dans l’église Saint-Maurice pendant que la neige tombe doucement dehors. L’après-midi au bassin et la montée jusqu’au fort exigent des couches chaudes contre le vent mordant. Vers 17:00, le soleil s’enfonce déjà derrière les sommets, baignant la vallée d’un crépuscule bleuté."
           },
           "stops": [
             {
@@ -232,13 +255,15 @@
                 "de": "Bahnhof Bourg-Saint-Maurice",
                 "hu": "Bourg-Saint-Maurice Pályaudvar",
                 "ro": "Gara Bourg-Saint-Maurice",
-                "en": "Bourg-Saint-Maurice Station"
+                "en": "Bourg-Saint-Maurice Station",
+                "fr": "Gare de Bourg-Saint-Maurice"
               },
               "tip_5lang": {
                 "de": "Nutzen Sie den beheizten Warteraum, um Ihre Handschuhe und Mütze für den winterlichen Spaziergang durch den Ort anzulegen.",
                 "hu": "Használja a fűtött várótermet a kesztyű és sapka felvételéhez a városközpont felé vezető téli séta megkezdése előtt.",
                 "ro": "Folosiți sala de așteptare încălzită pentru a vă pune mănușile și căciula înainte de plimbarea de iarnă prin oraș.",
-                "en": "Use the heated waiting room to put on your gloves and hat before starting your winter walk through the town."
+                "en": "Use the heated waiting room to put on your gloves and hat before starting your winter walk through the town.",
+                "fr": "Utilisez la salle d’attente chauffée pour enfiler vos gants et votre bonnet avant de commencer votre promenade hivernale en ville."
               }
             },
             {
@@ -246,13 +271,15 @@
                 "de": "Kirche Saint-Maurice",
                 "hu": "Saint-Maurice Templom",
                 "ro": "Biserica Saint-Maurice",
-                "en": "Saint-Maurice Church"
+                "en": "Saint-Maurice Church",
+                "fr": "Église Saint-Maurice"
               },
               "tip_5lang": {
                 "de": "Der Innenraum bietet eine willkommene Wärme; bewundern Sie die Krippe oder den Altar in der besinnlichen Winteratmosphäre.",
                 "hu": "A belső tér kellemes meleget nyújt; csodálja meg az oltárt a meghitt téli hangulatban, miközben megpihen a hideg elől.",
                 "ro": "Interiorul oferă o căldură binevenită; admirați altarul în atmosfera liniștită de iarnă în timp ce vă odihniți de frig.",
-                "en": "The interior offers welcome warmth; admire the altar in the peaceful winter atmosphere while taking a break from the cold."
+                "en": "The interior offers welcome warmth; admire the altar in the peaceful winter atmosphere while taking a break from the cold.",
+                "fr": "L’intérieur offre une chaleur bienvenue ; admirez l’autel dans l’atmosphère paisible de l’hiver tout en faisant une pause loin du froid."
               }
             },
             {
@@ -260,13 +287,15 @@
                 "de": "Bassin de Compensation de Montrigon",
                 "hu": "Montrigon Vízerőművi Medence",
                 "ro": "Bazinul de Compensare Montrigon",
-                "en": "Bassin de Compensation de Montrigon"
+                "en": "Bassin de Compensation de Montrigon",
+                "fr": "Bassin de Compensation de Montrigon"
               },
               "tip_5lang": {
                 "de": "Die Wasseroberfläche kann an den Rändern gefroren sein; bleiben Sie auf den geräumten Wegen, um nicht auf dem Eis auszurutschen.",
                 "hu": "A vízfelszín a széleken befagyhat; maradjon a letakarított ösvényeken, hogy elkerülje az elcsúszást a jégen.",
                 "ro": "Suprafața apei poate fi înghețată la margini; rămâneți pe potecile curățate pentru a evita alunecarea pe gheață.",
-                "en": "The water surface may be frozen at the edges; stay on the cleared paths to avoid slipping on any ice patches."
+                "en": "The water surface may be frozen at the edges; stay on the cleared paths to avoid slipping on any ice patches.",
+                "fr": "La surface de l’eau peut être gelée sur les bords ; restez sur les chemins déblayés pour éviter de glisser sur des plaques de glace."
               }
             },
             {
@@ -274,13 +303,15 @@
                 "de": "Fort de la Platte",
                 "hu": "Fort de la Platte Erőd",
                 "ro": "Fortul de la Platte",
-                "en": "Fort de la Platte"
+                "en": "Fort de la Platte",
+                "fr": "Fort de la Platte"
               },
               "tip_5lang": {
                 "de": "Die schneebedeckten Mauern bieten ein fantastisches Fotomotiv; der Aufstieg ist anstrengend, halten Sie sich durch Bewegung warm.",
                 "hu": "A hóval borított falak fantasztikus fotótémát nyújtanak; a kaptató fárasztó, de a folyamatos mozgás segít melegen tartani.",
                 "ro": "Zidurile acoperite de zăpadă oferă un subiect foto fantastic; urcarea este grea, dar mișcarea vă va ajuta să vă încălziți.",
-                "en": "The snow-covered walls offer a fantastic photo opportunity; the climb is tiring, but movement will help keep you warm."
+                "en": "The snow-covered walls offer a fantastic photo opportunity; the climb is tiring, but movement will help keep you warm.",
+                "fr": "Les murs enneigés offrent une fantastique opportunité de photo ; la montée est fatigante, mais le mouvement aide à vous réchauffer."
               }
             },
             {
@@ -288,13 +319,15 @@
                 "de": "Lac Riondet",
                 "hu": "Riondet-tó",
                 "ro": "Lacul Riondet",
-                "en": "Lac Riondet"
+                "en": "Lac Riondet",
+                "fr": "Lac Riondet"
               },
               "tip_5lang": {
                 "de": "Der zugefrorene See inmitten der weißen Gipfel ist magisch; kehren Sie zügig zurück, da die Kälte nach Sonnenuntergang stark zunimmt.",
                 "hu": "A befagyott tó a fehér csúcsok között varázslatos; induljon vissza időben, mert naplemente után a hideg gyorsan fokozódik.",
                 "ro": "Lacul înghețat printre crestele albe este magic; întorceți-vă rapid, deoarece frigul crește brusc după apusul soarelui.",
-                "en": "The frozen lake amidst white peaks is magical; return promptly as the temperature drops sharply after sunset at 17:00."
+                "en": "The frozen lake amidst white peaks is magical; return promptly as the temperature drops sharply after sunset at 17:00.",
+                "fr": "Le lac gelé au milieu des pics blancs est magique ; retournez-y rapidement car la température chute fortement après le coucher du soleil à 17:00."
               }
             }
           ]
@@ -314,7 +347,8 @@
             "de": "Bahnhof Bourg-Saint-Maurice",
             "hu": "Bourg-Saint-Maurice Pályaudvar",
             "ro": "Gara Bourg-Saint-Maurice",
-            "en": "Bourg-Saint-Maurice Station"
+            "en": "Bourg-Saint-Maurice Station",
+            "fr": "Gare de Bourg-Saint-Maurice"
           },
           "coords": [
             6.771667,
@@ -329,7 +363,8 @@
             "de": "Beginnen Sie Ihr alpines Abenteuer an diesem belebten Verkehrsknotenpunkt und holen Sie sich am Informationsschalter eine lokale Wanderkarte.",
             "hu": "Kezdje alpesi kalandját ezen a forgalmas közlekedési csomóponton, és mindenképpen szerezzen be egy helyi térképet a közeli információs pultnál.",
             "ro": "Începeți aventura alpină în acest nod de transport aglomerat și asigurați-vă că luați o hartă locală de la biroul de informații din apropiere.",
-            "en": "Start your alpine adventure at this bustling transport hub, and make sure to grab a local map from the nearby information desk before heading out."
+            "en": "Start your alpine adventure at this bustling transport hub, and make sure to grab a local map from the nearby information desk before heading out.",
+            "fr": "Commencez votre aventure alpine à ce nœud de transports animé et pensez à prendre une carte locale au bureau d’information avant de partir."
           }
         },
         {
@@ -337,7 +372,8 @@
             "de": "Kirche Saint-Maurice",
             "hu": "Saint-Maurice Templom",
             "ro": "Biserica Saint-Maurice",
-            "en": "Saint-Maurice Church"
+            "en": "Saint-Maurice Church",
+            "fr": "Église Saint-Maurice"
           },
           "coords": [
             6.76624,
@@ -352,7 +388,8 @@
             "de": "Bewundern Sie die alpine Architektur dieser historischen Kirche und genießen Sie einen Moment der Stille, bevor Sie den Messeplan an der Tür prüfen.",
             "hu": "Csodálja meg e történelmi templom gyönyörű alpesi építészetét, és tartson egy perc csendes elmélkedést, mielőtt ellenőrizné a misék menetrendjét.",
             "ro": "Admirați frumoasa arhitectură alpină a acestei biserici istorice, luând un moment de reflecție înainte de a verifica programul slujbelor pe ușă.",
-            "en": "Admire the beautiful alpine architecture of this historic church, taking a moment of quiet reflection before checking the mass schedule on the door."
+            "en": "Admire the beautiful alpine architecture of this historic church, taking a moment of quiet reflection before checking the mass schedule on the door.",
+            "fr": "Admirez la belle architecture alpine de cette église historique, prenez un moment de recueillement avant de consulter l’horaire des messes affiché sur la porte."
           }
         },
         {
@@ -360,7 +397,8 @@
             "de": "Skigebiet Les Arcs",
             "hu": "Les Arcs Síközpont",
             "ro": "Stațiunea de Schi Les Arcs",
-            "en": "Les Arcs Ski Resort"
+            "en": "Les Arcs Ski Resort",
+            "fr": "Station de ski Les Arcs"
           },
           "coords": [
             6.82781,
@@ -375,7 +413,8 @@
             "de": "Erleben Sie die lebhafte Atmosphäre dieses weltberühmten Resorts auch im Sommer und nutzen Sie die Seilbahn für eine malerische Fahrt.",
             "hu": "Tapasztalja meg e világhírű üdülőhely élénk hangulatát nyáron is, és használja ki a felvonót egy gyors és festői utazáshoz a hegyen.",
             "ro": "Experimentați atmosfera plină de viață a acestei stațiuni faimoase, profitând de facilitățile estivale pentru o experiență pitorească pe munte.",
-            "en": "Experience the lively atmosphere of this world-famous resort even in summer, taking advantage of the active cycling and hiking infrastructure."
+            "en": "Experience the lively atmosphere of this world-famous resort even in summer, taking advantage of the active cycling and hiking infrastructure.",
+            "fr": "Vivez l’ambiance animée de cette station mondialement connue même en été, en profitant des infrastructures actives pour le vélo et la randonnée."
           }
         },
         {
@@ -383,7 +422,8 @@
             "de": "Lac de la Vallée de l'Arc",
             "hu": "Vallée de l'Arc-tó",
             "ro": "Lacul Vallée de l'Arc",
-            "en": "Lac de la Vallée de l'Arc"
+            "en": "Lac de la Vallée de l'Arc",
+            "fr": "Lac de la Vallée de l'Arc"
           },
           "coords": [
             6.818193,
@@ -398,7 +438,8 @@
             "de": "Wandern Sie um diesen atemberaubenden Bergsee, um die unberührte Natur zu erleben, und halten Sie Ausschau nach Murmeltieren auf den nahen Felsen.",
             "hu": "Túrázzon körbe e lenyűgöző magaslati tó körül, hogy szemtanúja legyen a nyers alpesi természetnek, és figyeljen a sziklákon napozó mormotákra.",
             "ro": "Faceți drumeții în jurul acestui lac uluitor pentru a asista la natura alpină brută, fiind cu ochii în patru după marmotele care se bronzează.",
-            "en": "Hike around this stunning high-altitude lake to witness raw alpine nature, keeping an eye out for marmots that often sunbathe on the nearby rocks."
+            "en": "Hike around this stunning high-altitude lake to witness raw alpine nature, keeping an eye out for marmots that often sunbathe on the nearby rocks.",
+            "fr": "Randonnez autour de ce magnifique lac d’altitude pour observer la nature alpine brute, en gardant un œil sur les marmottes qui prennent souvent le soleil sur les rochers voisins."
           }
         },
         {
@@ -406,7 +447,8 @@
             "de": "Lac de la Montée",
             "hu": "Montée-tó",
             "ro": "Lacul de la Montée",
-            "en": "Lac de la Montée"
+            "en": "Lac de la Montée",
+            "fr": "Lac de la Montée"
           },
           "coords": [
             6.813213,
@@ -421,7 +463,8 @@
             "de": "Genießen Sie die friedliche Atmosphäre dieses abgelegenen Bergsees, der sich ideal für eine kurze Meditation oder zum Atmen der frischen Bergluft eignet.",
             "hu": "Merüljön el e félreeső hegyi tó békés hangulatában, amely ideális hely egy rövid meditációhoz vagy egyszerűen a friss hegyi levegő belélegzéséhez.",
             "ro": "Lăsați-vă absorbit de ambianța pașnică a acestui lac de munte izolat, un loc ideal pentru o scurtă meditație sau pur și simplu pentru aerul curat.",
-            "en": "Soak in the peaceful ambiance of this secluded mountain lake, which is an ideal spot for a short meditation or simply breathing in the fresh mountain air."
+            "en": "Soak in the peaceful ambiance of this secluded mountain lake, which is an ideal spot for a short meditation or simply breathing in the fresh mountain air.",
+            "fr": "Imprégnez-vous de l’ambiance paisible de ce lac de montagne isolé, idéal pour une courte méditation ou simplement pour respirer l’air pur des montagnes."
           }
         },
         {
@@ -429,7 +472,8 @@
             "de": "Lac Saint-Jacques",
             "hu": "Saint-Jacques-tó",
             "ro": "Lacul Saint-Jacques",
-            "en": "Lac Saint-Jacques"
+            "en": "Lac Saint-Jacques",
+            "fr": "Lac Saint-Jacques"
           },
           "coords": [
             6.830737,
@@ -444,7 +488,8 @@
             "de": "Entdecken Sie die kristallklaren Reflexionen dieses malerischen Sees und laden Sie Ihre Kamera auf, um die atemberaubenden Farben einzufangen.",
             "hu": "Fedezze fel e festői tó felszínén lévő kristályos tükröződéseket, és gondoskodjon fényképezőgépe feltöltéséről a lenyűgöző színek megörökítéséhez.",
             "ro": "Descoperiți reflexiile cristaline pe suprafața acestui lac pitoresc, asigurându-vă că aparatul foto este pregătit pentru culorile alpine uluitoare.",
-            "en": "Discover the crystalline reflections on the surface of this picturesque lake, making sure your camera is fully charged to capture the stunning hues."
+            "en": "Discover the crystalline reflections on the surface of this picturesque lake, making sure your camera is fully charged to capture the stunning hues.",
+            "fr": "Découvrez les reflets cristallins à la surface de ce lac pittoresque, en veillant à ce que votre appareil photo soit bien chargé pour capturer les teintes splendides."
           }
         }
       ],
@@ -452,7 +497,8 @@
         "de": "Starten Sie in den Morgen, indem Sie durch das Stadtzentrum radeln und den historischen Bahnhof sowie die Kirche Saint-Maurice erkunden. Die frische Brise ist perfekt für eine Radtour.\nMittags bezwingen Sie den Anstieg zum berühmten Skigebiet Les Arcs, das sich im Sommer in ein großartiges alpines Radzentrum verwandelt.\nDer Nachmittag ist den unberührten Bergseen gewidmet, beginnend mit dem Lac de la Vallée de l'Arc und dem nahen, friedlichen Lac de la Montée.\nIhr Abend endet am Lac Saint-Jacques im warmen Berglicht. Die landschaftliche Abfahrt zurück in die Stadt wird ein unvergesslicher Abschluss sein.",
         "hu": "Kezdje a reggelt a városközpontban pedálozva, megtekintve a történelmi állomást és a Saint-Maurice templomot. A friss alpesi szellő tökéletes a kerékpározáshoz.\nDélre meghódítja a híres Les Arcs síközponthoz vezető utat, amely nyáron nyüzsgő alpesi kerékpáros központtá alakul át.\nA délutánt az érintetlen hegyi tavaknak szenteli, a festői Lac de la Vallée de l'Arc és a közeli, békés Lac de la Montée felfedezésével.\nAz este a Lac Saint-Jacques-nál ér véget, élvezve a késői hegyi napfényt. A városba való festői visszatérés izgalmas és felejthetetlen lesz.",
         "ro": "Începeți dimineața pedalând prin centrul orașului, verificând gara istorică și frumoasa biserică Saint-Maurice. Briza alpină proaspătă este perfectă pentru o plimbare.\nLa amiază, veți ajunge în celebra stațiune de schi Les Arcs, transformată acum într-un hub vibrant de ciclism alpin de vară.\nDupă-amiaza este dedicată lacurilor montane neatinse, începând cu impecabilul Lac de la Vallée de l'Arc și vecinul său pașnic, Lac de la Montée.\nSeara se încheie la Lac Saint-Jacques, bucurându-vă de soarele târziu. Coborârea pitorească înapoi în oraș va fi un final memorabil.",
-        "en": "Start your morning pedaling through the town center, checking out the historic station and the quaint Saint-Maurice Church. The fresh alpine breeze is perfect for a bike ride.\nBy midday, you will conquer the path up to the famous Les Arcs Ski Resort. The bustling area transitions into a gorgeous summer cycling hub.\nThe afternoon is dedicated to untouched alpine lakes, starting with the pristine Lac de la Vallée de l'Arc. You'll quickly pedal to the neighboring Lac de la Montée.\nYour evening concludes at Lac Saint-Jacques, enjoying the late mountain sun reflecting off the water. The scenic descent back to town will be thrilling and unforgettable."
+        "en": "Start your morning pedaling through the town center, checking out the historic station and the quaint Saint-Maurice Church. The fresh alpine breeze is perfect for a bike ride.\nBy midday, you will conquer the path up to the famous Les Arcs Ski Resort. The bustling area transitions into a gorgeous summer cycling hub.\nThe afternoon is dedicated to untouched alpine lakes, starting with the pristine Lac de la Vallée de l'Arc. You'll quickly pedal to the neighboring Lac de la Montée.\nYour evening concludes at Lac Saint-Jacques, enjoying the late mountain sun reflecting off the water. The scenic descent back to town will be thrilling and unforgettable.",
+        "fr": "Commencez votre matinée en pédalant dans le centre-ville, en visitant la gare historique et la charmante église Saint-Maurice. La brise alpine fraîche est parfaite pour une balade à vélo.\nÀ midi, vous prendrez le chemin jusqu’à la célèbre station de ski Les Arcs. L’espace animé se transforme en un superbe pôle cycliste estival.\nL’après-midi est consacré aux lacs alpins intacts, en commençant par le pur Lac de la Vallée de l'Arc. Vous pédalerez rapidement jusqu’au voisin Lac de la Montée.\nVotre soirée se conclut au Lac Saint-Jacques, profitant du soleil tardif de la montagne se reflétant sur l’eau. La descente panoramique vers la ville sera exaltante et inoubliable."
       },
       "variants": {
         "rainy": {
@@ -460,7 +506,8 @@
             "de": "Die Radtour startet vorsichtig am nassen Bahnhofsgelände. Mittags führt die Fahrt zur Kirche durch Pfützen, wobei Schutzbleche Gold wert sind. Der Anstieg nach Les Arcs am Nachmittag verlangt volle Konzentration auf den rutschigen Asphaltkurven. Abends kehren wir durchnässt, aber zufrieden zurück, während die Bergwälder im schweren Regen tiefgrün leuchten.",
             "hu": "A kerékpártúra óvatosan indul a vizes állomás környékén. Délben a templomhoz vezető út pocsolyákon át visz, a sárvédő most aranyat ér. A délutáni kaptató Les Arcs felé teljes koncentrációt igényel a csúszós aszfaltkanyarokban. Estére ázottan, de elégedetten érünk vissza, miközben az esőtől mélyzöld hegyi erdők illata terjeng.",
             "ro": "Turul cu bicicleta începe cu prudență pe asfaltul ud de la gară. La prânz, drumul spre biserică trece prin bălți, unde aripile bicicletei sunt esențiale. Urcarea spre Les Arcs de după-amiază cere concentrare maximă pe curbele alunecoase. Seara ne întoarcem uzi, dar mulțumiți, în timp ce pădurile par de un verde intens sub ploaie.",
-            "en": "The bike tour starts cautiously on the wet station grounds. At noon, the ride to the church goes through puddles; mudguards are essential today. The afternoon climb to Les Arcs requires full concentration on the slippery asphalt curves. By evening, we return soaked but satisfied, as the mountain forests glow deep green in the heavy rain."
+            "en": "The bike tour starts cautiously on the wet station grounds. At noon, the ride to the church goes through puddles; mudguards are essential today. The afternoon climb to Les Arcs requires full concentration on the slippery asphalt curves. By evening, we return soaked but satisfied, as the mountain forests glow deep green in the heavy rain.",
+            "fr": "La balade à vélo commence prudemment sur le sol humide de la gare. À midi, la route vers l’église traverse des flaques ; les garde-boue sont indispensables aujourd’hui. La montée de l’après-midi jusqu’à Les Arcs demande une concentration totale sur les courbes d’asphalte glissantes. Le soir, nous revenons trempés mais satisfaits, alors que les forêts de montagne prennent un vert profond sous la pluie battante."
           },
           "stops": [
             {
@@ -468,13 +515,15 @@
                 "de": "Bahnhof Bourg-Saint-Maurice",
                 "hu": "Bourg-Saint-Maurice Pályaudvar",
                 "ro": "Gara Bourg-Saint-Maurice",
-                "en": "Bourg-Saint-Maurice Station"
+                "en": "Bourg-Saint-Maurice Station",
+                "fr": "Gare de Bourg-Saint-Maurice"
               },
               "tip_5lang": {
                 "de": "Prüfen Sie Ihre Bremsen auf dem nassen Boden und nutzen Sie die Überdachung, um Ihre Regenponchos sicher zu befestigen.",
                 "hu": "Ellenőrizze a fékeket a vizes talajon, és használja az előtetőt az esőponchók biztonságos rögzítéséhez az indulás előtt.",
                 "ro": "Verificați frânele pe asfaltul ud și folosiți copertina pentru a vă fixa bine pelerinele de ploaie înainte de plecare.",
-                "en": "Check your brakes on the wet ground and use the overhang to securely fasten your rain ponchos before setting off."
+                "en": "Check your brakes on the wet ground and use the overhang to securely fasten your rain ponchos before setting off.",
+                "fr": "Vérifiez vos freins sur le sol mouillé et utilisez le auvent pour fixer solidement vos ponchos de pluie avant de partir."
               }
             },
             {
@@ -482,13 +531,15 @@
                 "de": "Kirche Saint-Maurice",
                 "hu": "Saint-Maurice Templom",
                 "ro": "Biserica Saint-Maurice",
-                "en": "Saint-Maurice Church"
+                "en": "Saint-Maurice Church",
+                "fr": "Église Saint-Maurice"
               },
               "tip_5lang": {
                 "de": "Stellen Sie Ihr Rad unter und nutzen Sie die Kirchenbesichtigung für eine kurze Trockenpause, bevor es bergauf geht.",
                 "hu": "Állítsa le a kerékpárt fedett helyre, és használja a templomlátogatást egy rövid száradásra, mielőtt megkezdené a hegyi menetet.",
                 "ro": "Parcați bicicleta la adăpost și folosiți vizita la biserică pentru o scurtă pauză de uscare înainte de a urca panta.",
-                "en": "Park your bike under cover and use the church visit for a short drying break before heading uphill into the mountains."
+                "en": "Park your bike under cover and use the church visit for a short drying break before heading uphill into the mountains.",
+                "fr": "Garez votre vélo à l’abri et profitez de la visite de l’église pour une courte pause de séchage avant d’attaquer la montée en montagne."
               }
             },
             {
@@ -496,13 +547,15 @@
                 "de": "Skigebiet Les Arcs",
                 "hu": "Les Arcs Síközpont",
                 "ro": "Stațiunea de Schi Les Arcs",
-                "en": "Les Arcs Ski Resort"
+                "en": "Les Arcs Ski Resort",
+                "fr": "Station de ski Les Arcs"
               },
               "tip_5lang": {
                 "de": "Der Asphalt nach oben kann bei Regen sehr glatt sein; fahren Sie in den Kurven besonders vorsichtig und kontrolliert.",
                 "hu": "A felfelé vezető aszfalt esőben nagyon csúszós lehet; a kanyarokban vezessen különösen óvatosan és kontrolláltan.",
                 "ro": "Asfaltul spre stațiune poate fi foarte alunecos pe ploaie; conduceți cu mare prudență și control în curbele strânse.",
-                "en": "The asphalt heading up can be very slick in the rain; ride with extra caution and control through the winding curves."
+                "en": "The asphalt heading up can be very slick in the rain; ride with extra caution and control through the winding curves.",
+                "fr": "L’asphalte montant peut être très glissant sous la pluie ; roulez avec une prudence et un contrôle accrus dans les virages sinueux."
               }
             },
             {
@@ -510,13 +563,15 @@
                 "de": "Lac de la Vallée de l'Arc",
                 "hu": "Vallée de l'Arc-tó",
                 "ro": "Lacul Vallée de l'Arc",
-                "en": "Lac de la Vallée de l'Arc"
+                "en": "Lac de la Vallée de l'Arc",
+                "fr": "Lac de la Vallée de l'Arc"
               },
               "tip_5lang": {
                 "de": "Die Sicht auf den See ist oft wolkenverhangen; halten Sie wegen des Windes die Pausen kurz, um nicht auszukühlen.",
                 "hu": "A tóra nyíló kilátás gyakran felhős; a szél miatt tartsa röviden a pihenőket, hogy ne hűljön le túlságosan a teste.",
                 "ro": "Vederea spre lac este adesea acoperită de nori; din cauza vântului, faceți pauze scurte pentru a nu vă răci corpul.",
-                "en": "The lake view is often clouded over; keep your breaks short due to the wind to avoid getting too chilled while wet."
+                "en": "The lake view is often clouded over; keep your breaks short due to the wind to avoid getting too chilled while wet.",
+                "fr": "La vue sur le lac est souvent couverte de nuages ; gardez vos pauses courtes à cause du vent pour éviter de trop refroidir en étant mouillé."
               }
             },
             {
@@ -524,13 +579,15 @@
                 "de": "Lac de la Montée",
                 "hu": "Montée-tó",
                 "ro": "Lacul de la Montée",
-                "en": "Lac de la Montée"
+                "en": "Lac de la Montée",
+                "fr": "Lac de la Montée"
               },
               "tip_5lang": {
                 "de": "Die unbefestigten Wege am Seeufer sind bei Regen schlammig; achten Sie auf den Reifendruck für bessere Traktion.",
                 "hu": "A tóparti föutak esőben sarasak lehetnek; ügyeljen a guminyomásra a jobb tapadás érdekében a csúszós szakaszon.",
                 "ro": "Drumurile de pământ de lângă lac sunt noroioase pe ploaie; atenție la presiunea pneurilor pentru o tracțiune mai bună.",
-                "en": "The unpaved paths by the lake are muddy in the rain; pay attention to tire pressure for better traction on slippery sections."
+                "en": "The unpaved paths by the lake are muddy in the rain; pay attention to tire pressure for better traction on slippery sections.",
+                "fr": "Les sentiers non revêtus près du lac sont boueux sous la pluie ; faites attention à la pression des pneus pour une meilleure traction sur les sections glissantes."
               }
             },
             {
@@ -538,13 +595,15 @@
                 "de": "Lac Saint-Jacques",
                 "hu": "Saint-Jacques-tó",
                 "ro": "Lacul Saint-Jacques",
-                "en": "Lac Saint-Jacques"
+                "en": "Lac Saint-Jacques",
+                "fr": "Lac Saint-Jacques"
               },
               "tip_5lang": {
                 "de": "Ein letzter Blick auf den grauen See, bevor die schnelle, kühle Abfahrt ins Tal bei anhaltendem Regen beginnt.",
                 "hu": "Egy utolsó pillantás a szürke tóra, mielőtt megkezdené a hűvös és gyors ereszkedést a völgybe a szakadó esőben.",
                 "ro": "O ultimă privire spre lacul cenușiu înainte de a începe coborârea rapidă și rece spre vale în ploaia continuă.",
-                "en": "One last look at the grey lake before starting the cool, fast descent back to the valley in the persistent rain."
+                "en": "One last look at the grey lake before starting the cool, fast descent back to the valley in the persistent rain.",
+                "fr": "Un dernier regard sur le lac gris avant d’entamer la descente fraîche et rapide vers la vallée sous la pluie persistante."
               }
             }
           ]
@@ -554,7 +613,8 @@
             "de": "Die winterliche Radtour beginnt mit klammen Fingern am Bahnhof. Mittags bietet die Kirche eine spirituelle und physische Aufwärmpause. Der harte Anstieg nach Les Arcs am Nachmittag hält den Kreislauf in Schwung, während links und rechts hohe Schneewände stehen. Gegen 16:30 Uhr bereiten wir uns auf die eiskalte Abfahrt vor, bevor die Dunkelheit das Tal schlagartig einnimmt.",
             "hu": "A téli kerékpártúra zsibbadó ujjakkal indul az állomáson. Délben a templom nyújt lelki és fizikai felmelegedést. A délutáni kemény kaptató Les Arcs felé mozgásban tartja a vérkeringést a hatalmas hófalak között. 16:30 körül készülünk fel a jéghideg ereszkedésre, mielőtt a sötétség hirtelen elnyeli a völgyet.",
             "ro": "Turul de iarnă începe cu degete amorțite la gară. La prânz, biserica oferă o pauză de încălzire spirituală și fizică. Urcarea grea spre Les Arcs de după-amiază menține circulația activă printre pereții mari de zăpadă. În jurul orei 16:30, ne pregătim de coborârea înghețată înainte ca întunericul să cuprindă valea.",
-            "en": "The winter bike tour starts with numb fingers at the station. At noon, the church provides a spiritual and physical warming break. The tough afternoon climb to Les Arcs keeps the circulation going between high snow walls. Around 16:30, we prepare for the ice-cold descent before darkness suddenly swallows the valley."
+            "en": "The winter bike tour starts with numb fingers at the station. At noon, the church provides a spiritual and physical warming break. The tough afternoon climb to Les Arcs keeps the circulation going between high snow walls. Around 16:30, we prepare for the ice-cold descent before darkness suddenly swallows the valley.",
+            "fr": "La sortie à vélo hivernale commence avec des doigts engourdis à la gare. À midi, l’église offre une pause réconfortante à la fois spirituelle et physique. La rude montée de l’après-midi jusqu’à Les Arcs maintient la circulation entre de hauts murs de neige. Vers 16:30, nous nous préparons pour la descente glaciale avant que l’obscurité n’engloutisse soudain la vallée."
           },
           "stops": [
             {
@@ -562,13 +622,15 @@
                 "de": "Bahnhof Bourg-Saint-Maurice",
                 "hu": "Bourg-Saint-Maurice Pályaudvar",
                 "ro": "Gara Bourg-Saint-Maurice",
-                "en": "Bourg-Saint-Maurice Station"
+                "en": "Bourg-Saint-Maurice Station",
+                "fr": "Gare de Bourg-Saint-Maurice"
               },
               "tip_5lang": {
                 "de": "Stellen Sie sicher, dass Ihre Winterausrüstung winddicht ist, und checken Sie die Akkuladung Ihres E-Bikes bei der Kälte.",
                 "hu": "Győződjön meg róla, hogy a ruházata szélálló, és ellenőrizze az e-bike akkumulátorát, mert a hidegben gyorsabban merül.",
                 "ro": "Asigurați-vă că echipamentul este rezistent la vânt și verificați bateria bicicletei electrice, care se descarcă mai repede la frig.",
-                "en": "Ensure your gear is windproof and check your e-bike battery charge, as cold temperatures can reduce its range significantly."
+                "en": "Ensure your gear is windproof and check your e-bike battery charge, as cold temperatures can reduce its range significantly.",
+                "fr": "Assurez-vous que votre équipement est coupe-vent et vérifiez la charge de la batterie de votre vélo électrique, car le froid peut réduire considérablement son autonomie."
               }
             },
             {
@@ -576,13 +638,15 @@
                 "de": "Kirche Saint-Maurice",
                 "hu": "Saint-Maurice Templom",
                 "ro": "Biserica Saint-Maurice",
-                "en": "Saint-Maurice Church"
+                "en": "Saint-Maurice Church",
+                "fr": "Église Saint-Maurice"
               },
               "tip_5lang": {
                 "de": "Nutzen Sie den Halt, um Ihre Trinkflasche mit einem warmen Getränk zu füllen und Ihre Muskulatur kurz zu lockern.",
                 "hu": "Használja ki a megállót, hogy meleg teával töltse fel a kulacsát, és kicsit lazítsa el az izmait a fűtött környezetben.",
                 "ro": "Folosiți oprirea pentru a vă umple bidonul cu o băutură caldă și pentru a vă relaxa puțin mușchii în mediul încălzit.",
-                "en": "Use this stop to refill your bottle with a warm drink and briefly loosen your muscles in the heated environment."
+                "en": "Use this stop to refill your bottle with a warm drink and briefly loosen your muscles in the heated environment.",
+                "fr": "Profitez de cet arrêt pour remplir votre gourde avec une boisson chaude et détendre brièvement vos muscles dans l’environnement chauffé."
               }
             },
             {
@@ -590,13 +654,15 @@
                 "de": "Skigebiet Les Arcs",
                 "hu": "Les Arcs Síközpont",
                 "ro": "Stațiunea de Schi Les Arcs",
-                "en": "Les Arcs Ski Resort"
+                "en": "Les Arcs Ski Resort",
+                "fr": "Station de ski Les Arcs"
               },
               "tip_5lang": {
                 "de": "Achten Sie auf Schneematsch auf der Fahrbahn; die Auffahrt ist schweißtreibend, ziehen Sie für die Gipfelrast sofort etwas über.",
                 "hu": "Ügyeljen a latyakra az úttesten; a felfelé út izzasztó, a csúcson való megálláskor azonnal vegyen fel egy száraz réteget.",
                 "ro": "Atenție la zăpada topită de pe carosabil; urcarea este transpirantă, puneți-vă imediat o haină groasă când vă opriți sus.",
-                "en": "Watch out for slush on the road; the climb is sweaty, so put on an extra layer immediately when you stop at the top."
+                "en": "Watch out for slush on the road; the climb is sweaty, so put on an extra layer immediately when you stop at the top.",
+                "fr": "Attention à la slush sur la route ; la montée fait transpirer, alors enfilez une couche supplémentaire immédiatement lorsque vous vous arrêtez au sommet."
               }
             },
             {
@@ -604,13 +670,15 @@
                 "de": "Lac de la Vallée de l'Arc",
                 "hu": "Vallée de l'Arc-tó",
                 "ro": "Lacul Vallée de l'Arc",
-                "en": "Lac de la Vallée de l'Arc"
+                "en": "Lac de la Vallée de l'Arc",
+                "fr": "Lac de la Vallée de l'Arc"
               },
               "tip_5lang": {
                 "de": "Der See liegt in einer weißen Winterlandschaft; fahren Sie vorsichtig, da Streusalz die Bremsleistung beeinflussen kann.",
                 "hu": "A tó fehér téli tájba simul; vezessen óvatosan, mert az útszóró só befolyásolhatja a fékek hatékonyságát a hidegben.",
                 "ro": "Lacul este integrat în peisajul alb de iarnă; conduceți atent, sarea de pe drum poate afecta eficiența frânelor.",
-                "en": "The lake is nestled in a white winter landscape; ride carefully as road salt can affect your braking performance."
+                "en": "The lake is nestled in a white winter landscape; ride carefully as road salt can affect your braking performance.",
+                "fr": "Le lac est niché dans un paysage hivernal blanc ; roulez prudemment car le sel de voirie peut affecter vos performances de freinage."
               }
             },
             {
@@ -618,13 +686,15 @@
                 "de": "Lac de la Montée",
                 "hu": "Montée-tó",
                 "ro": "Lacul de la Montée",
-                "en": "Lac de la Montée"
+                "en": "Lac de la Montée",
+                "fr": "Lac de la Montée"
               },
               "tip_5lang": {
                 "de": "Die Kälte ist hier oben intensiv; machen Sie nur ein schnelles Foto vom Eis und bleiben Sie in Bewegung, um warm zu bleiben.",
                 "hu": "A hideg intenzív itt fent; csak egy gyors fotót készítsen a jégről, és maradjon mozgásban, hogy ne fagyjon meg.",
                 "ro": "Frigul este intens aici sus; faceți doar o poză rapidă cu gheața și rămâneți în mișcare pentru a vă menține căldura.",
-                "en": "The cold is intense up here; just take a quick photo of the ice and stay in motion to keep your body heat up."
+                "en": "The cold is intense up here; just take a quick photo of the ice and stay in motion to keep your body heat up.",
+                "fr": "Le froid est intense en altitude ; prenez juste une photo rapide de la glace et gardez-vous en mouvement pour préserver votre chaleur corporelle."
               }
             },
             {
@@ -632,13 +702,15 @@
                 "de": "Lac Saint-Jacques",
                 "hu": "Saint-Jacques-tó",
                 "ro": "Lacul Saint-Jacques",
-                "en": "Lac Saint-Jacques"
+                "en": "Lac Saint-Jacques",
+                "fr": "Lac Saint-Jacques"
               },
               "tip_5lang": {
                 "de": "Die Dämmerung beginnt; schalten Sie Ihr Licht ein und bereiten Sie sich auf die eiskalte Abfahrt zurück nach Bourg vor.",
                 "hu": "Kezdődik a szürkület; kapcsolja be a világítást, és készüljön fel a jéghideg ereszkedésre vissza Bourg irányába.",
                 "ro": "Începe amurgul; aprindeți luminile și pregătiți-vă pentru coborârea înghețată înapoi spre Bourg.",
-                "en": "Twilight is starting; turn on your lights and prepare for the freezing descent back down toward Bourg-Saint-Maurice."
+                "en": "Twilight is starting; turn on your lights and prepare for the freezing descent back down toward Bourg-Saint-Maurice.",
+                "fr": "Le crépuscule commence ; allumez vos éclairages et préparez-vous pour la descente glaciale vers Bourg-Saint-Maurice."
               }
             }
           ]
@@ -658,7 +730,8 @@
             "de": "Kirche Saint-Maurice",
             "hu": "Saint-Maurice Templom",
             "ro": "Biserica Saint-Maurice",
-            "en": "Saint-Maurice Church"
+            "en": "Saint-Maurice Church",
+            "fr": "Église Saint-Maurice"
           },
           "coords": [
             6.76624,
@@ -673,7 +746,8 @@
             "de": "Bewundern Sie die alpine Architektur dieser historischen Kirche und genießen Sie einen Moment der Stille, bevor Sie den Messeplan an der Tür prüfen.",
             "hu": "Csodálja meg e történelmi templom gyönyörű alpesi építészetét, és tartson egy perc csendes elmélkedést, mielőtt ellenőrizné a misék menetrendjét.",
             "ro": "Admirați frumoasa arhitectură alpină a acestei biserici istorice, luând un moment de reflecție înainte de a verifica programul slujbelor pe ușă.",
-            "en": "Admire the beautiful alpine architecture of this historic church, taking a moment of quiet reflection before checking the mass schedule on the door."
+            "en": "Admire the beautiful alpine architecture of this historic church, taking a moment of quiet reflection before checking the mass schedule on the door.",
+            "fr": "Admirez la belle architecture alpine de cette église historique, prenez un moment de recueillement avant de consulter l’horaire des messes affiché sur la porte."
           }
         },
         {
@@ -681,7 +755,8 @@
             "de": "Fort de la Platte",
             "hu": "Fort de la Platte Erőd",
             "ro": "Fortul de la Platte",
-            "en": "Fort de la Platte"
+            "en": "Fort de la Platte",
+            "fr": "Fort de la Platte"
           },
           "coords": [
             6.742971,
@@ -696,7 +771,8 @@
             "de": "Erkunden Sie die Ruinen dieser hochgelegenen Festung für atemberaubende Talblicke, aber tragen Sie feste Schuhe, da das Gelände ziemlich felsig ist.",
             "hu": "Fedezze fel e magasan fekvő erődítmény romjait a lélegzetelállító völgyi panorámáért, de viseljen erős cipőt, mivel a terep meglehetősen sziklás.",
             "ro": "Explorați ruinele acestei fortărețe de la mare altitudine pentru vederi panoramice uluitoare, dar purtați încălțăminte robustă deoarece terenul e stâncos.",
-            "en": "Explore the rugged ruins of this high-altitude fortress for breathtaking panoramic valley views, but wear sturdy shoes as the terrain is quite rocky."
+            "en": "Explore the rugged ruins of this high-altitude fortress for breathtaking panoramic valley views, but wear sturdy shoes as the terrain is quite rocky.",
+            "fr": "Explorez les ruines robustes de cette forteresse d’altitude pour des vues panoramiques à couper le souffle sur la vallée, mais portez des chaussures solides car le terrain est très rocheux."
           }
         },
         {
@@ -704,7 +780,8 @@
             "de": "Lac Riondet",
             "hu": "Riondet-tó",
             "ro": "Lacul Riondet",
-            "en": "Lac Riondet"
+            "en": "Lac Riondet",
+            "fr": "Lac Riondet"
           },
           "coords": [
             6.704521,
@@ -719,7 +796,8 @@
             "de": "Entspannen Sie sich an diesem von Gipfeln umgebenen Alpensee und bringen Sie ein kleines Picknick mit, um die absolute Ruhe der Gegend zu genießen.",
             "hu": "Pihenjen a drámai csúcsokkal körülvett alpesi tó nyugodt vizénél, és hozzon magával egy kis pikniket, hogy élvezze a környék abszolút nyugalmát.",
             "ro": "Relaxați-vă lângă apele senine ale acestui lac alpin înconjurat de vârfuri și aduceți un mic picnic pentru a vă bucura de liniștea absolută a zonei.",
-            "en": "Relax by the serene waters of this alpine lake surrounded by dramatic peaks, and bring a small picnic to enjoy the absolute tranquility of the area."
+            "en": "Relax by the serene waters of this alpine lake surrounded by dramatic peaks, and bring a small picnic to enjoy the absolute tranquility of the area.",
+            "fr": "Détendez-vous au bord des eaux sereines de ce lac alpin entouré de pics dramatiques, et apportez un petit pique-nique pour profiter de la tranquillité absolue du lieu."
           }
         },
         {
@@ -727,7 +805,8 @@
             "de": "Lac Noir",
             "hu": "Fekete-tó (Lac Noir)",
             "ro": "Lacul Noir",
-            "en": "Lac Noir"
+            "en": "Lac Noir",
+            "fr": "Lac Noir"
           },
           "coords": [
             6.696709,
@@ -742,7 +821,8 @@
             "de": "Bestaunen Sie die dunklen Farbtöne dieses passend benannten Alpenjuwels und treten Sie vorsichtig an die moosigen Ränder, um den perfekten Aussichtspunkt zu finden.",
             "hu": "Csodálja meg e találóan elnevezett alpesi gyöngyszem sötét árnyalatait, és óvatosan lépkedjen a mohás széleken a tökéletes kilátópont megtalálásához.",
             "ro": "Minunați-vă de nuanțele întunecate ale acestei bijuterii alpine denumite adecvat și pășiți cu grijă pe marginile acoperite de mușchi.",
-            "en": "Marvel at the deep, dark hues of this appropriately named alpine gem, and carefully step around the mossy edges to find the perfect vantage point."
+            "en": "Marvel at the deep, dark hues of this appropriately named alpine gem, and carefully step around the mossy edges to find the perfect vantage point.",
+            "fr": "Émerveillez-vous des teintes profondes et sombres de ce joyau alpin à la juste appellation, et contournez prudemment les rives moussus pour trouver le meilleur point de vue."
           }
         },
         {
@@ -750,7 +830,8 @@
             "de": "Lac Verdet",
             "hu": "Verdet-tó",
             "ro": "Lacul Verdet",
-            "en": "Lac Verdet"
+            "en": "Lac Verdet",
+            "fr": "Lac Verdet"
           },
           "coords": [
             6.702722,
@@ -765,7 +846,8 @@
             "de": "Genießen Sie die durch lokale Mineralien verursachten grünlichen Farbtöne des Wassers und halten Sie eine Windjacke bereit, da die Brise schnell auffrischen kann.",
             "hu": "Élvezze a víz helyi ásványok okozta élénk zöldes árnyalatait, és tartson kéznél egy könnyű széldzsekit, mivel a szél itt gyorsan feltámadhat.",
             "ro": "Bucurați-vă de nuanțele verzui vii ale apei cauzate de mineralele locale, păstrând o jachetă de vânt la îndemână, deoarece briza se poate înteți.",
-            "en": "Enjoy the vivid greenish tints of the water caused by local minerals, keeping a light windbreaker handy as the breeze can pick up quickly here."
+            "en": "Enjoy the vivid greenish tints of the water caused by local minerals, keeping a light windbreaker handy as the breeze can pick up quickly here.",
+            "fr": "Appréciez les nuances verdâtres vives de l’eau causées par les minéraux locaux, gardez une légère coupe-vent à portée de main car la brise peut se renforcer rapidement ici."
           }
         },
         {
@@ -773,7 +855,8 @@
             "de": "Lac Esola",
             "hu": "Esola-tó",
             "ro": "Lacul Esola",
-            "en": "Lac Esola"
+            "en": "Lac Esola",
+            "fr": "Lac Esola"
           },
           "coords": [
             6.710447,
@@ -788,7 +871,8 @@
             "de": "Genießen Sie die unberührte Wildnis rund um diesen kleinen, aber schönen See und bringen Sie ein Fernglas mit, um die vielfältigen Vogelarten zu beobachten.",
             "hu": "Gyönyörködjön az e kis, de gyönyörű tavat körülvevő érintetlen vadonban, és hozzon távcsövet a környéken fészkelő különféle madárfajok megfigyeléséhez.",
             "ro": "Admirați sălbăticia neatinsă care înconjoară acest lac mic, dar frumos, aducând un binoclu pentru a observa diversele specii de păsări din zonă.",
-            "en": "Take in the untouched wilderness surrounding this small but beautiful lake, bringing binoculars to spot the diverse bird species nesting in the area."
+            "en": "Take in the untouched wilderness surrounding this small but beautiful lake, bringing binoculars to spot the diverse bird species nesting in the area.",
+            "fr": "Imprégnez-vous de la nature intacte qui entoure ce petit mais beau lac, et emportez des jumelles pour repérer les différentes espèces d’oiseaux qui nichent dans la zone."
           }
         },
         {
@@ -796,7 +880,8 @@
             "de": "Lac Cornu",
             "hu": "Cornu-tó",
             "ro": "Lacul Cornu",
-            "en": "Lac Cornu"
+            "en": "Lac Cornu",
+            "fr": "Lac Cornu"
           },
           "coords": [
             6.703927,
@@ -811,7 +896,8 @@
             "de": "Beenden Sie Ihre Seentour an diesem einzigartigen hornförmigen Gewässer und schätzen Sie die völlige Stille, bevor Sie die Rückfahrt beginnen.",
             "hu": "Zárja tókörútját ennél az egyedülálló, szarv alakú víztestnél, és szánjon egy percet a teljes csend értékelésére, mielőtt elkezdené a visszautat.",
             "ro": "Încheiați turul lacurilor la acest corp de apă unic în formă de corn, luându-vă un moment pentru a aprecia liniștea deplină înainte de plecare.",
-            "en": "Conclude your lake tour at this unique horn-shaped body of water, taking a moment to appreciate the complete silence before beginning your drive back."
+            "en": "Conclude your lake tour at this unique horn-shaped body of water, taking a moment to appreciate the complete silence before beginning your drive back.",
+            "fr": "Concluez votre circuit des lacs à ce plan d’eau en forme de corne, prenez un instant pour apprécier le silence complet avant de reprendre la route."
           }
         }
       ],
@@ -819,7 +905,8 @@
         "de": "Ihre malerische Fahrt beginnt mit einem kulturellen Halt an der Kirche Saint-Maurice im Zentrum, bevor Sie auf die kurvigen Bergstraßen abbiegen. Die Morgenluft ist wunderbar frisch.\nMittags erkunden Sie die hochgelegenen Ruinen des historischen Fort de la Platte. Nachdem Sie das Talpanorama genossen haben, fahren Sie weiter zum absolut ruhigen Lac Riondet.\nDer Nachmittag ist ein spektakuläres See-Abenteuer in den Bergen. Sie wechseln mühelos vom dunklen Wasser des Lac Noir zum lebhaft gefärbten Lac Verdet, jeder mit seiner eigenen Magie.\nGegen Abend besuchen Sie noch Lac Esola und schließlich Lac Cornu. Das schwindende Licht über diesen alpinen Gewässern bildet einen dramatischen und friedlichen Abschluss Ihrer Autotour.",
         "hu": "A festői autózás egy gyors kulturális megállóval kezdődik a központi Saint-Maurice templomnál, mielőtt a kanyargós hegyi utakra térne. A reggeli levegő hihetetlenül friss.\nDélben a magasan fekvő, történelmi Fort de la Platte romjait fedezi fel. A völgyi panoráma megcsodálása után továbbutazik az abszolút nyugodt Lac Riondet felé.\nA délután egy látványos hegyi kaland a tavak között. Könnyedén átautózik a sötét vizű Lac Noir-tól az élénk színű Lac Verdet-ig, mindkettő saját varázslattal bír.\nAhogy leszáll az est, a Lac Esola és a Lac Cornu meglátogatása egy fenséges, drámai, mégis békés befejezést nyújt lenyűgöző hegyi autós túrájának.",
         "ro": "Plimbarea pitorească începe cu o scurtă oprire culturală la biserica centrală Saint-Maurice înainte de a intra pe drumurile de munte. Aerul dimineții este incredibil de proaspăt.\nLa amiază explorați ruinele aflate la mare altitudine ale istoricului Fort de la Platte. După ce absorbiți panoramele văii, conduceți mai sus spre seninul Lac Riondet.\nDupă-amiaza este o aventură montană spectaculoasă printre lacuri. Veți trece de la apele întunecate ale Lac Noir la Lac Verdet cel viu colorat, fiecare având magia sa.\nPe măsură ce se lasă seara, vizitați Lac Esola și în final Lac Cornu. Lumina apusului peste aceste ape alpine creează un final majestic și pașnic pentru excursia auto.",
-        "en": "Your scenic drive begins with a quick cultural stop at the central Saint-Maurice Church before you hit the winding mountain roads. The morning air is crisp and incredibly inviting.\nMidday finds you exploring the high-altitude ruins of the historic Fort de la Platte. After absorbing the panoramic valley views, you will drive further up towards the serene Lac Riondet.\nThe afternoon is a spectacular mountain lake-hopping adventure. You will easily transition from the dark waters of Lac Noir to the vividly colored Lac Verdet, each offering unique magic.\nAs evening sets in, visit Lac Esola and finally Lac Cornu. The fading sunlight over these high-altitude waters creates a majestic, dramatic, and deeply peaceful end to your road trip."
+        "en": "Your scenic drive begins with a quick cultural stop at the central Saint-Maurice Church before you hit the winding mountain roads. The morning air is crisp and incredibly inviting.\nMidday finds you exploring the high-altitude ruins of the historic Fort de la Platte. After absorbing the panoramic valley views, you will drive further up towards the serene Lac Riondet.\nThe afternoon is a spectacular mountain lake-hopping adventure. You will easily transition from the dark waters of Lac Noir to the vividly colored Lac Verdet, each offering unique magic.\nAs evening sets in, visit Lac Esola and finally Lac Cornu. The fading sunlight over these high-altitude waters creates a majestic, dramatic, and deeply peaceful end to your road trip.",
+        "fr": "Votre trajet panoramique commence par un arrêt culturel rapide à l’église Saint-Maurice avant d’emprunter les routes de montagne sinueuses. L’air du matin est vif et incroyablement invitant.\nLe midi vous mène aux hautes ruines du Fort de la Platte. Après avoir profité des vues panoramiques sur la vallée, vous monterez vers le serein Lac Riondet.\nL’après-midi est une spectaculaire succession de lacs de montagne. Vous passerez aisément des eaux sombres du Lac Noir aux teintes vives du Lac Verdet, chacun offrant une magie particulière.\nAu crépuscule, visitez le Lac Esola puis enfin le Lac Cornu. La lumière décroissante sur ces eaux d’altitude crée une fin de road trip majestueuse, dramatique et profondément apaisante."
       },
       "variants": {
         "rainy": {
@@ -827,7 +914,8 @@
             "de": "Die Fahrt beginnt entspannt im trockenen Auto mit Blick auf die verregnete Kirche. Mittags schlängelt sich der Wagen durch dichten Nebel hinauf zum Fort de la Platte. Die Bergseen am Nachmittag wirken unter den grauen Wolken wie dunkle Spiegel. Abends genießen wir die gemütliche Atmosphäre im Fahrzeug, während draußen der Regen die Straßen von Bourg-Saint-Maurice wäscht.",
             "hu": "Az út kényelmesen, a száraz autóban indul az eső áztatta templom látványával. Délben a kocsi sűrű ködben kanyarog fel a Fort de la Platte felé. A délutáni hegyi tavak sötét tükörként fénylenek a szürke felhők alatt. Este élvezzük az autó nyújtotta meghitt hangulatot, miközben kint az eső mossa Bourg-Saint-Maurice utcáit.",
             "ro": "Călătoria începe relaxat în mașina uscată, cu vedere spre biserica plouată. La prânz, mașina șerpuiește prin ceață densă spre Fort de la Platte. Lacurile montane de după-amiază par oglinzi întunecate sub norii cenușii. Seara ne bucurăm de atmosfera primitoare din vehicul, în timp ce afară ploaia spală străzile din oraș.",
-            "en": "The drive starts relaxed in the dry car with a view of the rain-soaked church. At noon, the car winds through thick fog up to Fort de la Platte. The mountain lakes in the afternoon look like dark mirrors under grey clouds. In the evening, we enjoy the cozy atmosphere inside the vehicle while rain washes the streets of Bourg-Saint-Maurice."
+            "en": "The drive starts relaxed in the dry car with a view of the rain-soaked church. At noon, the car winds through thick fog up to Fort de la Platte. The mountain lakes in the afternoon look like dark mirrors under grey clouds. In the evening, we enjoy the cozy atmosphere inside the vehicle while rain washes the streets of Bourg-Saint-Maurice.",
+            "fr": "La route commence détendue dans la voiture sèche avec vue sur l’église détrempée. À midi, la voiture serpente dans une épaisse brume jusqu’au Fort de la Platte. Les lacs de montagne l’après-midi ressemblent à des miroirs sombres sous des nuages gris. Le soir, nous profitons de l’atmosphère douillette dans le véhicule pendant que la pluie lave les rues de Bourg-Saint-Maurice."
           },
           "stops": [
             {
@@ -835,13 +923,15 @@
                 "de": "Kirche Saint-Maurice",
                 "hu": "Saint-Maurice Templom",
                 "ro": "Biserica Saint-Maurice",
-                "en": "Saint-Maurice Church"
+                "en": "Saint-Maurice Church",
+                "fr": "Église Saint-Maurice"
               },
               "tip_5lang": {
                 "de": "Parken Sie nah am Eingang und nutzen Sie den Regenschirm für den kurzen Weg, um die barocke Kunst im Inneren zu bestaunen.",
                 "hu": "Parkoljon közel a bejárathoz, és használjon esernyőt a rövid útra, hogy megcsodálhassa a barokk művészetet bent.",
                 "ro": "Parcați aproape de intrare și folosiți umbrela pentru drumul scurt, ca să admirați arta barocă din interior.",
-                "en": "Park close to the entrance and use an umbrella for the short walk to admire the baroque art inside the church."
+                "en": "Park close to the entrance and use an umbrella for the short walk to admire the baroque art inside the church.",
+                "fr": "Garez-vous près de l’entrée et utilisez un parapluie pour la courte marche afin d’admirer l’art baroque à l’intérieur de l’église."
               }
             },
             {
@@ -849,13 +939,15 @@
                 "de": "Fort de la Platte",
                 "hu": "Fort de la Platte Erőd",
                 "ro": "Fortul de la Platte",
-                "en": "Fort de la Platte"
+                "en": "Fort de la Platte",
+                "fr": "Fort de la Platte"
               },
               "tip_5lang": {
                 "de": "Die Bergstraße kann bei Regen rutschig sein; fahren Sie langsam und achten Sie auf Steinschlaggefahr in den Kurven.",
                 "hu": "A hegyi út esőben csúszós lehet; vezessen lassan, és figyeljen a kanyarokban az esetleges kőomlásokra.",
                 "ro": "Drumul montan poate fi alunecos pe ploaie; conduceți încet și fiți atenți la riscul de căderi de pietre în curbe.",
-                "en": "The mountain road can be slippery in the rain; drive slowly and watch for potential rockfall in the sharp bends."
+                "en": "The mountain road can be slippery in the rain; drive slowly and watch for potential rockfall in the sharp bends.",
+                "fr": "La route de montagne peut être glissante sous la pluie ; conduisez lentement et méfiez-vous des chutes de pierres dans les virages serrés."
               }
             },
             {
@@ -863,13 +955,15 @@
                 "de": "Lac Riondet",
                 "hu": "Riondet-tó",
                 "ro": "Lacul Riondet",
-                "en": "Lac Riondet"
+                "en": "Lac Riondet",
+                "fr": "Lac Riondet"
               },
               "tip_5lang": {
                 "de": "Genießen Sie den Blick aus dem Fenster oder steigen Sie kurz aus; der Nebel über dem Wasser ist ein tolles Fotomotiv.",
                 "hu": "Élvezze a kilátást az ablakból, vagy szálljon ki egy pillanatra; a víz feletti köd különleges fotótémát kínál.",
                 "ro": "Bucurați-vă de priveliște de la fereastră sau coborâți scurt; ceața de deasupra apei este un subiect foto deosebit.",
-                "en": "Enjoy the view from the window or step out briefly; the mist over the water makes for a unique and moody photo."
+                "en": "Enjoy the view from the window or step out briefly; the mist over the water makes for a unique and moody photo.",
+                "fr": "Profitez de la vue depuis la fenêtre ou sortez brièvement ; la brume sur l’eau offre un photo unique et d’atmosphère."
               }
             },
             {
@@ -877,13 +971,15 @@
                 "de": "Lac Noir",
                 "hu": "Fekete-tó (Lac Noir)",
                 "ro": "Lacul Noir",
-                "en": "Lac Noir"
+                "en": "Lac Noir",
+                "fr": "Lac Noir"
               },
               "tip_5lang": {
                 "de": "Der See macht seinem Namen bei Regen alle Ehre; bleiben Sie im Auto, falls es stark schüttet, und beobachten Sie das Wetter.",
                 "hu": "A tó esőben hű a nevéhez; maradjon az autóban, ha szakad az eső, és onnan figyelje a természet változásait.",
                 "ro": "Lacul își merită numele pe ploaie; rămâneți în mașină dacă plouă torențial și observați schimbările naturii.",
-                "en": "The lake lives up to its name in the rain; stay in the car if it pours and watch the changing mountain weather."
+                "en": "The lake lives up to its name in the rain; stay in the car if it pours and watch the changing mountain weather.",
+                "fr": "Le lac tient sa réputation sous la pluie ; restez dans la voiture s’il pleut à verse et observez la météo changeante de la montagne."
               }
             },
             {
@@ -891,13 +987,15 @@
                 "de": "Lac Verdet",
                 "hu": "Verdet-tó",
                 "ro": "Lacul Verdet",
-                "en": "Lac Verdet"
+                "en": "Lac Verdet",
+                "fr": "Lac Verdet"
               },
               "tip_5lang": {
                 "de": "Die Farben wirken gedämpft; nutzen Sie die Sitzheizung, um sich nach einem kurzen Fotostopp am Ufer wieder aufzuwärmen.",
                 "hu": "A színek visszafogottak; használja az ülésfűtést a felmelegedéshez egy rövid parti fotómegálló után az esőben.",
                 "ro": "Culorile sunt estompate; folosiți încălzirea în scaune pentru a vă încălzi după o scurtă oprire foto pe mal.",
-                "en": "The colors are muted; use the seat heating to warm up after a quick photo stop by the shore in the damp air."
+                "en": "The colors are muted; use the seat heating to warm up after a quick photo stop by the shore in the damp air.",
+                "fr": "Les couleurs sont atténuées ; utilisez le chauffage des sièges pour vous réchauffer après un arrêt photo rapide au bord dans l’air humide."
               }
             },
             {
@@ -905,13 +1003,15 @@
                 "de": "Lac Esola",
                 "hu": "Esola-tó",
                 "ro": "Lacul Esola",
-                "en": "Lac Esola"
+                "en": "Lac Esola",
+                "fr": "Lac Esola"
               },
               "tip_5lang": {
                 "de": "Achten Sie beim Parken auf matschigen Untergrund; die Sicht kann durch die nassen Scheiben eingeschränkt sein.",
                 "hu": "Parkoláskor ügyeljen a sáros talajra; a látási viszonyokat korlátozhatják a párás és vizes autóüvegek.",
                 "ro": "Atenție la solul noroios când parcați; vizibilitatea poate fi limitată de geamurile aburite sau ude ale mașinii.",
-                "en": "Watch out for muddy ground when parking; visibility might be limited by steamed or wet car windows today."
+                "en": "Watch out for muddy ground when parking; visibility might be limited by steamed or wet car windows today.",
+                "fr": "Faites attention au sol boueux au moment de vous garer ; la visibilité peut être limitée par des vitres embuées ou mouillées aujourd’hui."
               }
             },
             {
@@ -919,13 +1019,15 @@
                 "de": "Lac Cornu",
                 "hu": "Cornu-tó",
                 "ro": "Lacul Cornu",
-                "en": "Lac Cornu"
+                "en": "Lac Cornu",
+                "fr": "Lac Cornu"
               },
               "tip_5lang": {
                 "de": "Die letzte Station vor der Rückfahrt; prüfen Sie Ihre Scheibenwischer für eine sichere Fahrt zurück ins beleuchtete Tal.",
                 "hu": "Az utolsó állomás a visszatérés előtt; ellenőrizze az ablaktörlőket a biztonságos leereszkedéshez a kivilágított völgybe.",
                 "ro": "Ultima oprire înainte de întoarcere; verificați ștergătoarele pentru o coborâre sigură spre valea iluminată.",
-                "en": "The last stop before returning; check your wipers for a safe descent back into the brightly lit valley."
+                "en": "The last stop before returning; check your wipers for a safe descent back into the brightly lit valley.",
+                "fr": "Dernier arrêt avant le retour ; vérifiez vos essuie-glaces pour une descente en toute sécurité vers la vallée lumineuse."
               }
             }
           ]
@@ -935,7 +1037,8 @@
             "de": "Die Wintertour startet mit Eiskratzen vor der Kirche Saint-Maurice. Mittags bietet die Fahrt zum Fort de la Platte atemberaubende Ausblicke auf schneebedeckte Tannen. Die Seen am Nachmittag sind oft völlig zugefroren und glitzern im kühlen Licht. Bereits um 17:00 Uhr kehren wir im Scheinwerferlicht zurück, während der Frost die Bergwelt fest im Griff hat.",
             "hu": "A téli túra jégkaparással indul a Saint-Maurice templom előtt. Délben a Fort de la Platte felé vezető út lélegzetelállító kilátást nyújt a hófödte fenyvesekre. A délutáni tavak gyakran teljesen befagynak és csillognak a hűvös fényben. Már 17:00-kor a fényszórók fényénél térünk vissza, miközben a fagy uralja a hegyvilágot.",
             "ro": "Turul de iarnă începe cu curățarea gheții în fața Bisericii Saint-Maurice. La prânz, drumul spre Fort de la Platte oferă priveliști uimitoare cu brazi înzăpeziți. Lacurile de după-amiază sunt adesea complet înghețate și sclipesc în lumina rece. Deja la ora 17:00 ne întoarcem la lumina farurilor, în timp ce gerul stăpânește munții.",
-            "en": "The winter tour starts with scraping ice in front of Saint-Maurice Church. At noon, the drive to Fort de la Platte offers breathtaking views of snow-covered pines. The lakes in the afternoon are often completely frozen and glisten in the cool light. By 17:00, we return by headlight as frost firmly grips the mountain world."
+            "en": "The winter tour starts with scraping ice in front of Saint-Maurice Church. At noon, the drive to Fort de la Platte offers breathtaking views of snow-covered pines. The lakes in the afternoon are often completely frozen and glisten in the cool light. By 17:00, we return by headlight as frost firmly grips the mountain world.",
+            "fr": "La visite hivernale commence par gratter la glace devant l’église Saint-Maurice. À midi, la route jusqu’au Fort de la Platte offre des vues à couper le souffle sur des pins couverts de neige. Les lacs de l’après-midi sont souvent complètement gelés et scintillent dans la lumière froide. À 17:00, nous revenons sous phares alors que le gel envahit fermement le monde montagnard."
           },
           "stops": [
             {
@@ -943,13 +1046,15 @@
                 "de": "Kirche Saint-Maurice",
                 "hu": "Saint-Maurice Templom",
                 "ro": "Biserica Saint-Maurice",
-                "en": "Saint-Maurice Church"
+                "en": "Saint-Maurice Church",
+                "fr": "Église Saint-Maurice"
               },
               "tip_5lang": {
                 "de": "Schalten Sie die Klimaanlage auf Enteisung, während Sie den prachtvollen Altarraum im wohltemperierten Inneren besichtigen.",
                 "hu": "Állítsa a klímát páramentesítésre, amíg megtekinti a pompás oltárt a kellemesen temperált belső térben.",
                 "ro": "Setați climatizarea pe degivrare în timp ce vizitați altarul splendid în interiorul cu temperatură plăcută.",
-                "en": "Set your climate control to defrost while you visit the magnificent altar in the pleasantly warm interior."
+                "en": "Set your climate control to defrost while you visit the magnificent altar in the pleasantly warm interior.",
+                "fr": "Réglez votre climatisation sur dégivrage pendant que vous visitez le magnifique autel dans l'intérieur agréablement chauffé."
               }
             },
             {
@@ -957,13 +1062,15 @@
                 "de": "Fort de la Platte",
                 "hu": "Fort de la Platte Erőd",
                 "ro": "Fortul de la Platte",
-                "en": "Fort de la Platte"
+                "en": "Fort de la Platte",
+                "fr": "Fort de la Platte"
               },
               "tip_5lang": {
                 "de": "Winterreifen sind auf dieser Höhe Pflicht; genießen Sie das Panorama der Alpen von der Wärme Ihres Fahrzeugs aus.",
                 "hu": "A téli gumi ezen a magasságon kötelező; élvezze az Alpok panorámáját az autó melengető utasteréből.",
                 "ro": "Anvelopele de iarnă sunt obligatorii la această altitudine; admirați panorama Alpilor din căldura habitaclului.",
-                "en": "Winter tires are mandatory at this altitude; enjoy the Alpine panorama from the warmth of your vehicle interior."
+                "en": "Winter tires are mandatory at this altitude; enjoy the Alpine panorama from the warmth of your vehicle interior.",
+                "fr": "Les pneus hiver sont obligatoires à cette altitude ; profitez du panorama alpin depuis la chaleur de l'habitacle de votre véhicule."
               }
             },
             {
@@ -971,13 +1078,15 @@
                 "de": "Lac Riondet",
                 "hu": "Riondet-tó",
                 "ro": "Lacul Riondet",
-                "en": "Lac Riondet"
+                "en": "Lac Riondet",
+                "fr": "Lac Riondet"
               },
               "tip_5lang": {
                 "de": "Die Straße zum See kann vereist sein; nutzen Sie die Motorbremse bei der Anfahrt und bleiben Sie wachsam.",
                 "hu": "A tóhoz vezető út jeges lehet; használja a motorféket a megközelítéskor, és maradjon éber a kanyarokban.",
                 "ro": "Drumul spre lac poate fi înghețat; folosiți frâna de motor la apropiere și rămâneți vigilenți în curbe.",
-                "en": "The road to the lake may be icy; use engine braking during your approach and stay alert on the bends."
+                "en": "The road to the lake may be icy; use engine braking during your approach and stay alert on the bends.",
+                "fr": "La route vers le lac peut être verglacée ; utilisez le frein moteur en approchant et restez vigilant dans les virages."
               }
             },
             {
@@ -985,13 +1094,15 @@
                 "de": "Lac Noir",
                 "hu": "Fekete-tó (Lac Noir)",
                 "ro": "Lacul Noir",
-                "en": "Lac Noir"
+                "en": "Lac Noir",
+                "fr": "Lac Noir"
               },
               "tip_5lang": {
                 "de": "Ein oft schneebedeckter Spiegel inmitten der Stille; achten Sie auf ausreichenden Frostschutz in Ihrem Wischwasser.",
                 "hu": "Hóval borított tükör a hegyi csendben; ügyeljen arra, hogy legyen elegendő fagyálló a szélvédőmosó folyadékban.",
                 "ro": "O oglindă acoperită de zăpadă în liniștea munților; asigurați-vă că aveți suficient lichid de parbriz antigel.",
-                "en": "A snow-covered mirror in the mountain silence; ensure you have enough anti-freeze in your windshield washer fluid."
+                "en": "A snow-covered mirror in the mountain silence; ensure you have enough anti-freeze in your windshield washer fluid.",
+                "fr": "Un miroir enneigé dans le silence de la montagne ; assurez‑vous d'avoir suffisamment d'antigel dans le liquide lave‑glace."
               }
             },
             {
@@ -999,13 +1110,15 @@
                 "de": "Lac Verdet",
                 "hu": "Verdet-tó",
                 "ro": "Lacul Verdet",
-                "en": "Lac Verdet"
+                "en": "Lac Verdet",
+                "fr": "Lac Verdet"
               },
               "tip_5lang": {
                 "de": "Das Eis kann hier oben sehr dick sein; machen Sie nur kurze Stopps, da die Autobatterie bei extremer Kälte leiden kann.",
                 "hu": "A jég itt fent nagyon vastag lehet; csak rövid ideig álljon meg, mert az akkumulátor megszenvedheti az extrém hideget.",
                 "ro": "Gheața poate fi foarte groasă aici sus; faceți doar opriri scurte, bateria mașinii poate suferi la ger extrem.",
-                "en": "The ice can be very thick up here; keep your stops brief as car batteries can struggle in extreme cold."
+                "en": "The ice can be very thick up here; keep your stops brief as car batteries can struggle in extreme cold.",
+                "fr": "La glace peut être très épaisse ici ; limitez la durée de vos arrêts car les batteries de voiture peuvent peiner par grand froid."
               }
             },
             {
@@ -1013,13 +1126,15 @@
                 "de": "Lac Esola",
                 "hu": "Esola-tó",
                 "ro": "Lacul Esola",
-                "en": "Lac Esola"
+                "en": "Lac Esola",
+                "fr": "Lac Esola"
               },
               "tip_5lang": {
                 "de": "Die weiße Pracht ist herrlich anzusehen; parken Sie so, dass Sie problemlos wieder anfahren können (auf ebenem Grund).",
                 "hu": "A fehér hótakaró gyönyörű látvány; úgy parkoljon, hogy könnyen el tudjon indulni (lehetőleg sík talajon).",
                 "ro": "Peisajul alb este superb; parcați astfel încât să puteți pleca fără probleme (pe un teren cât mai drept).",
-                "en": "The white scenery is beautiful; park in a way that allows you to pull away easily, preferably on level ground."
+                "en": "The white scenery is beautiful; park in a way that allows you to pull away easily, preferably on level ground.",
+                "fr": "Le paysage blanc est magnifique ; garez‑vous de façon à pouvoir repartir facilement, de préférence sur un terrain plat."
               }
             },
             {
@@ -1027,13 +1142,15 @@
                 "de": "Lac Cornu",
                 "hu": "Cornu-tó",
                 "ro": "Lacul Cornu",
-                "en": "Lac Cornu"
+                "en": "Lac Cornu",
+                "fr": "Lac Cornu"
               },
               "tip_5lang": {
                 "de": "Die Sonne geht bereits unter (17:00); prüfen Sie Ihr Licht für die Rückfahrt und fahren Sie äußerst vorsichtig bergab.",
                 "hu": "A nap már lemenőben van (17:00); ellenőrizze a világítást a visszúthoz, és vezessen rendkívül óvatosan lefelé.",
                 "ro": "Soarele apune deja (17:00); verificați luminile pentru drumul de întoarcere și conduceți extrem de atent la coborâre.",
-                "en": "The sun is already setting (17:00); check your lights for the return journey and drive extremely carefully downhill."
+                "en": "The sun is already setting (17:00); check your lights for the return journey and drive extremely carefully downhill.",
+                "fr": "Le soleil se couche déjà (17:00) ; vérifiez vos feux pour le retour et descendez avec une prudence extrême."
               }
             }
           ]

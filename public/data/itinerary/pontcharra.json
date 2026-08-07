@@ -21,7 +21,8 @@
             "de": "Gare de Pontcharra",
             "hu": "Gare de Pontcharra",
             "ro": "Gare de Pontcharra",
-            "en": "Gare de Pontcharra"
+            "en": "Gare de Pontcharra",
+            "fr": "Gare de Pontcharra"
           },
           "coords": [
             6.007649,
@@ -36,7 +37,8 @@
             "de": "Starten Sie am historischen Bahnhof, einem wichtigen Verkehrsknotenpunkt der Region, wo Sie vorab am Kiosk ein Ticket für spätere Fahrten kaufen sollten.",
             "hu": "Kezdje a túrát a történelmi vasútállomáson, amely a régió fontos közlekedési csomópontja, és ahol érdemes előre megvenni a jegyet a későbbi utazásokhoz.",
             "ro": "Începeți turul la gara istorică, un important nod de transport regional, unde este recomandat să cumpărați un bilet în avans pentru călătoriile ulterioare.",
-            "en": "Begin your journey at the historic railway station, a vital transport hub for the region, where you should purchase a ticket in advance for later trips."
+            "en": "Begin your journey at the historic railway station, a vital transport hub for the region, where you should purchase a ticket in advance for later trips.",
+            "fr": "Commencez votre trajet à la gare historique, un pôle de transport vital pour la région, où vous devez acheter un billet à l'avance pour les trajets ultérieurs."
           }
         },
         {
@@ -44,7 +46,8 @@
             "de": "Le Bréda",
             "hu": "Le Bréda",
             "ro": "Le Bréda",
-            "en": "Le Bréda"
+            "en": "Le Bréda",
+            "fr": "Le Bréda"
           },
           "coords": [
             6.005556,
@@ -59,7 +62,8 @@
             "de": "Spazieren Sie entlang des Flusses Le Bréda, dessen klare Wasser die lokale Natur prägen, und achten Sie auf das rutschige Ufer bei den malerischen Brücken.",
             "hu": "Sétáljon végig a Le Bréda folyó mentén, melynek tiszta vize meghatározza a helyi természetet, és ügyeljen a csúszós partra a festői hidak közelében.",
             "ro": "Plimbați-vă de-a lungul râului Le Bréda, ale cărui ape limpezi modelează natura locală, și aveți grijă la malurile alunecoase de lângă podurile pitorești.",
-            "en": "Walk along the Le Bréda river, whose clear waters shape the local natural environment, and watch out for slippery banks near the picturesque little bridges."
+            "en": "Walk along the Le Bréda river, whose clear waters shape the local natural environment, and watch out for slippery banks near the picturesque little bridges.",
+            "fr": "Promenez-vous le long du Le Bréda, dont les eaux claires façonnent l'environnement naturel local, et méfiez-vous des berges glissantes près des petits ponts pittoresques."
           }
         },
         {
@@ -67,7 +71,8 @@
             "de": "Plan d’eau des Lônes",
             "hu": "Plan d’eau des Lônes",
             "ro": "Plan d’eau des Lônes",
-            "en": "Plan d’eau des Lônes"
+            "en": "Plan d’eau des Lônes",
+            "fr": "Plan d’eau des Lônes"
           },
           "coords": [
             6.008203,
@@ -82,7 +87,8 @@
             "de": "Genießen Sie die ruhige Atmosphäre an diesem idyllischen See, der perfekte Bedingungen für eine kleine Auszeit bietet, wenn Sie ein Picknick mitbringen.",
             "hu": "Élvezze a békés hangulatot ennél az idilli tónál, amely tökéletes feltételeket biztosít egy kis pihenéshez, ha magával hoz egy finom piknikkosarat.",
             "ro": "Bucurați-vă de atmosfera liniștită de la acest lac idilic, care oferă condiții perfecte pentru o mică pauză dacă aduceți cu dumneavoastră un coș de picnic.",
-            "en": "Enjoy the peaceful atmosphere at this idyllic lake, which offers the perfect setting for a short relaxing break if you remember to bring a picnic basket."
+            "en": "Enjoy the peaceful atmosphere at this idyllic lake, which offers the perfect setting for a short relaxing break if you remember to bring a picnic basket.",
+            "fr": "Profitez de l'atmosphère paisible de ce lac idyllique, qui offre le cadre parfait pour une courte pause relaxante si vous pensez à apporter un panier de pique-nique."
           }
         },
         {
@@ -90,7 +96,8 @@
             "de": "Lac du Vernay",
             "hu": "Lac du Vernay",
             "ro": "Lac du Vernay",
-            "en": "Lac du Vernay"
+            "en": "Lac du Vernay",
+            "fr": "Lac du Vernay"
           },
           "coords": [
             6.00195,
@@ -105,7 +112,8 @@
             "de": "Bewundern Sie die unberührte Schönheit des Lac du Vernay, ein wahres Paradies für Vogelbeobachter, und packen Sie unbedingt ein Fernglas in Ihren Rucksack.",
             "hu": "Csodálja meg a Lac du Vernay érintetlen szépségét, amely a madármegfigyelők igazi paradicsoma, ezért mindenképpen tegyen egy távcsövet a hátizsákjába.",
             "ro": "Admirați frumusețea neatinsă a Lac du Vernay, un adevărat paradis pentru observatorii de păsări, așa că nu uitați să puneți un binoclu în rucsacul dumneavoastră.",
-            "en": "Admire the untouched beauty of Lac du Vernay, a true paradise for birdwatchers, making it essential to pack a good pair of binoculars in your backpack."
+            "en": "Admire the untouched beauty of Lac du Vernay, a true paradise for birdwatchers, making it essential to pack a good pair of binoculars in your backpack.",
+            "fr": "Admirez la beauté intacte du Lac du Vernay, un véritable paradis pour l'observation des oiseaux ; il est essentiel d'emporter une bonne paire de jumelles dans votre sac à dos."
           }
         },
         {
@@ -113,7 +121,8 @@
             "de": "Musée Bayard",
             "hu": "Musée Bayard",
             "ro": "Musée Bayard",
-            "en": "Musée Bayard"
+            "en": "Musée Bayard",
+            "fr": "Musée Bayard"
           },
           "coords": [
             6.019047,
@@ -128,7 +137,8 @@
             "de": "Tauchen Sie im Musée Bayard in das Leben des berühmten Ritters ohne Furcht und Tadel ein, wobei Sie den kostenlosen Audioguide am Eingang verlangen sollten.",
             "hu": "Merüljön el a Musée Bayard kiállításán a félelmet nem ismerő és gáncstalan lovag életében, és feltétlenül kérje a bejáratnál az ingyenes audioguide-ot.",
             "ro": "Cufundați-vă în viața cavalerului fără frică și fără reproș la Musée Bayard, solicitând neapărat ghidul audio gratuit disponibil chiar la intrare.",
-            "en": "Immerse yourself in the life of the knight without fear and beyond reproach at the Musée Bayard, and be sure to request the free audio guide at the entrance."
+            "en": "Immerse yourself in the life of the knight without fear and beyond reproach at the Musée Bayard, and be sure to request the free audio guide at the entrance.",
+            "fr": "Plongez dans la vie du chevalier sans peur et sans reproche au Musée Bayard, et pensez à demander le audioguide gratuit à l'entrée."
           }
         },
         {
@@ -136,7 +146,8 @@
             "de": "Château de Bayard",
             "hu": "Château de Bayard",
             "ro": "Château de Bayard",
-            "en": "Château de Bayard"
+            "en": "Château de Bayard",
+            "fr": "Château de Bayard"
           },
           "coords": [
             6.018889,
@@ -151,7 +162,8 @@
             "de": "Erkunden Sie die majestätischen Ruinen des Château de Bayard, die eine reiche Geschichte atmen, und tragen Sie festes Schuhwerk für die unebenen Steinwege.",
             "hu": "Fedezze fel a Château de Bayard fenséges, történelemmel átitatott romjait, és viseljen masszív lábbelit az egyenetlen, köves ösvényeken való sétáláshoz.",
             "ro": "Explorați ruinele maiestuoase ale Château de Bayard, care respiră o istorie bogată, și purtați încălțăminte solidă pentru a parcurge potecile pietruite denivelate.",
-            "en": "Explore the majestic ruins of Château de Bayard, which breathe a rich history, and wear sturdy footwear to navigate the uneven stone paths safely."
+            "en": "Explore the majestic ruins of Château de Bayard, which breathe a rich history, and wear sturdy footwear to navigate the uneven stone paths safely.",
+            "fr": "Explorez les ruines majestueuses du Château de Bayard, qui respirent une histoire riche ; portez des chaussures solides pour parcourir en toute sécurité les chemins de pierre inégaux."
           }
         }
       ],
@@ -159,7 +171,8 @@
         "de": "Beginnen Sie den Morgen am historischen Bahnhof, bevor Sie zum erfrischenden Fluss Le Bréda spazieren. Die Mittagszeit bietet ruhige Momente an den Seen, ideal für ein Picknick. Am Nachmittag verlagert sich der Fokus mit einem langen Spaziergang zum Musée Bayard auf die Geschichte. Beenden Sie den Tag mit der Erkundung der Burgruine Château de Bayard im weichen Abendlicht.",
         "hu": "Kezdje a reggelt a történelmi vasútállomáson, majd sétáljon el a frissítő Le Bréda folyóhoz. A délidő nyugodt pillanatokat tartogat a tavaknál, tökéletes helyszínt biztosítva egy piknikhez. Délután a történelemé a főszerep egy hosszú séta után a Musée Bayard felé. Zárja a napot a legendás Château de Bayard romjainak felfedezésével a kellemes esti szürkületben.",
         "ro": "Începeți dimineața la gara istorică înainte de a vă plimba spre râul răcoritor Le Bréda. Miezul zilei aduce momente liniștite la lacuri, locuri perfecte pentru a savura un prânz la pachet. După-amiaza, schimbați accentul pe istorie cu o plimbare lungă până la Musée Bayard. Încheiați ziua explorând legendarele ruine ale Château de Bayard odată cu lăsarea serii.",
-        "en": "Begin your morning at the historic train station before strolling towards the refreshing Le Bréda river. Midday brings tranquil moments at Plan d'eau des Lônes and Lac du Vernay, perfect spots to enjoy a packed lunch. In the afternoon, shift your focus to history with a long walk to Musée Bayard. Conclude the day exploring the legendary Château de Bayard ruins as the evening sets."
+        "en": "Begin your morning at the historic train station before strolling towards the refreshing Le Bréda river. Midday brings tranquil moments at Plan d'eau des Lônes and Lac du Vernay, perfect spots to enjoy a packed lunch. In the afternoon, shift your focus to history with a long walk to Musée Bayard. Conclude the day exploring the legendary Château de Bayard ruins as the evening sets.",
+        "fr": "Commencez votre matinée à la gare historique avant de vous promener vers le rafraîchissant Le Bréda. À midi, profitez de moments tranquilles au Plan d’eau des Lônes et au Lac du Vernay, des endroits parfaits pour déguster un déjeuner sorti du sac. L'après-midi, recentrez-vous sur l'histoire avec une longue promenade jusqu'au Musée Bayard. Concluez la journée en explorant les ruines légendaires du Château de Bayard au coucher du soleil."
       },
       "variants": {
         "rainy": {
@@ -167,7 +180,8 @@
             "de": "Beginnen Sie Ihren Tag am Bahnhof mit einem Regenschirm und spazieren Sie entlang des Baches Bréda. Die Seen wirken im Nebel mystisch, doch wasserfeste Schuhe sind für die schlammigen Uferwege unerlässlich. Am Nachmittag bietet das Musée Bayard ein trockenes Refugium voller Geschichte. Beenden Sie den Tag am Schloss, dessen Mauern im Regen besonders düster und imposant erscheinen.",
             "hu": "Kezdje a napot az állomáson egy esernyővel, majd sétáljon a Bréda-patak mentén. A tavak a ködben misztikus látványt nyújtanak, de a sár miatt vízálló bakancs kötelező. Délután a Musée Bayard nyújt száraz menedéket és gazdag történelmi tárlatot. Az estét a várkastélynál zárja, melynek falai az esőben még tekintélyesebbnek és komorabbnak tűnnek a szürkületben.",
             "ro": "Începeți ziua la gară cu o umbrelă și plimbați-vă de-a lungul pârâului Bréda. Lacurile par mistice în ceață, dar ghetele impermeabile sunt esențiale pentru potecile noroioase. După-amiaza, Musée Bayard oferă un refugiu uscat și o incursiune în istorie. Încheiați ziua la castel, ale cărui ziduri par și mai impunătoare sub ploaie, înainte de a reveni în oraș.",
-            "en": "Start your day at the station with an umbrella and walk along the Bréda stream. The lakes look mystical in the mist, but waterproof boots are essential for the muddy paths. In the afternoon, Musée Bayard provides a dry refuge filled with history. End your day at the castle, where the stone walls look particularly imposing in the rain before heading back."
+            "en": "Start your day at the station with an umbrella and walk along the Bréda stream. The lakes look mystical in the mist, but waterproof boots are essential for the muddy paths. In the afternoon, Musée Bayard provides a dry refuge filled with history. End your day at the castle, where the stone walls look particularly imposing in the rain before heading back.",
+            "fr": "Commencez la journée à la gare avec un parapluie et promenez-vous le long du ruisseau Bréda. Les lacs paraissent mystiques dans la brume, mais des bottes imperméables sont essentielles pour les sentiers boueux. L'après-midi, le Musée Bayard offre un refuge sec rempli d'histoire. Terminez votre journée au château, où les murs de pierre paraissent particulièrement imposants sous la pluie avant de rentrer."
           },
           "stops": [
             {
@@ -175,13 +189,15 @@
                 "de": "Gare de Pontcharra",
                 "hu": "Gare de Pontcharra",
                 "ro": "Gare de Pontcharra",
-                "en": "Gare de Pontcharra"
+                "en": "Gare de Pontcharra",
+                "fr": "Gare de Pontcharra"
               },
               "tip_5lang": {
                 "de": "Nutzen Sie die Wartehalle des Bahnhofs, um Ihre Regenbekleidung zu richten; die Bahnsteige sind bei Nässe oft rutschig, gehen Sie daher vorsichtig.",
                 "hu": "Használja az állomás fedett váróját az esőfelszerelés igazítására; a peronok vizesen csúszósak lehetnek, így óvatosan közlekedjen a lépcsőkön.",
                 "ro": "Folosiți sala de așteptare a gării pentru a vă pregăti pelerina de ploaie; peroanele pot fi alunecoase, deci mergeți cu atenție sporită.",
-                "en": "Use the station's covered waiting area to adjust your rain gear; the platforms can be slippery when wet, so walk carefully on the stairs."
+                "en": "Use the station's covered waiting area to adjust your rain gear; the platforms can be slippery when wet, so walk carefully on the stairs.",
+                "fr": "Utilisez l'aire d'attente couverte de la gare pour ajuster votre tenue de pluie ; les quais peuvent être glissants lorsqu'ils sont mouillés, marchez donc prudemment sur les escaliers."
               }
             },
             {
@@ -189,13 +205,15 @@
                 "de": "Le Bréda",
                 "hu": "Le Bréda",
                 "ro": "Le Bréda",
-                "en": "Le Bréda"
+                "en": "Le Bréda",
+                "fr": "Le Bréda"
               },
               "tip_5lang": {
                 "de": "Der Wasserstand des Baches steigt bei Regen schnell an; bewundern Sie die Dynamik des Wassers von den befestigten Brücken aus, um trocken zu bleiben.",
                 "hu": "A patak vízszintje esőben gyorsan megemelkedik; a víz erejét a biztonságos, kövezett hidakról csodálja meg, hogy elkerülje a felcsapódó sarat.",
                 "ro": "Nivelul pârâului crește rapid în timpul ploii; admirați forța apei de pe podurile amenajate pentru a rămâne uscat și în siguranță.",
-                "en": "The stream level rises quickly during rain; admire the water's power from the paved bridges to stay dry and avoid the muddy riverbanks."
+                "en": "The stream level rises quickly during rain; admire the water's power from the paved bridges to stay dry and avoid the muddy riverbanks.",
+                "fr": "Le niveau du ruisseau monte rapidement lors des pluies ; admirez la puissance de l'eau depuis les ponts pavés pour rester au sec et évitez les berges boueuses."
               }
             },
             {
@@ -203,13 +221,15 @@
                 "de": "Plan d’eau des Lônes",
                 "hu": "Plan d’eau des Lônes",
                 "ro": "Plan d’eau des Lônes",
-                "en": "Plan d’eau des Lônes"
+                "en": "Plan d’eau des Lônes",
+                "fr": "Plan d’eau des Lônes"
               },
               "tip_5lang": {
                 "de": "Die Bäume bieten nur begrenzten Schutz vor Schauern; suchen Sie bei starkem Regen die überdachten Picknickplätze auf und tragen Sie Gummistiefel.",
                 "hu": "A fák csak korlátozott védelmet nyújtanak a záporok ellen; heves esőben keresse a fedett pihenőhelyeket, és viseljen sárálló lábbelit a parton.",
                 "ro": "Copacii oferă protecție limitată împotriva ploii; în caz de aversă, căutați locurile de picnic acoperite și purtați cizme de cauciuc pe mal.",
-                "en": "The trees offer limited shelter from showers; seek out the covered picnic spots during heavy rain and wear waterproof boots for the lake path."
+                "en": "The trees offer limited shelter from showers; seek out the covered picnic spots during heavy rain and wear waterproof boots for the lake path.",
+                "fr": "Les arbres offrent un abri limité contre les averses ; recherchez les emplacements de pique-nique couverts en cas de fortes pluies et portez des bottes imperméables pour le sentier du lac."
               }
             },
             {
@@ -217,13 +237,15 @@
                 "de": "Lac du Vernay",
                 "hu": "Lac du Vernay",
                 "ro": "Lac du Vernay",
-                "en": "Lac du Vernay"
+                "en": "Lac du Vernay",
+                "fr": "Lac du Vernay"
               },
               "tip_5lang": {
                 "de": "Der Uferweg kann bei Regen sehr aufgeweicht sein; genießen Sie die melancholische Aussicht auf den See und achten Sie auf Pfützen auf dem Pfad.",
                 "hu": "A tóparti ösvény esőben erősen felázhat; élvezze a vízfelület melankolikus látványát, de ügyeljen a mélyebb tócsákra a gyalogút mentén.",
                 "ro": "Poteca de pe malul lacului poate deveni foarte moale; bucurați-vă de vederea melancolică a apei, dar fiți atenți la bălțile de pe traseu.",
-                "en": "The lakeside path can get very muddy during rain; enjoy the melancholy view of the water and watch out for deep puddles along the trail."
+                "en": "The lakeside path can get very muddy during rain; enjoy the melancholy view of the water and watch out for deep puddles along the trail.",
+                "fr": "Le sentier du bord du lac peut devenir très boueux sous la pluie ; profitez de la vue mélancolique de l'eau et méfiez-vous des flaques profondes le long du chemin."
               }
             },
             {
@@ -231,13 +253,15 @@
                 "de": "Musée Bayard",
                 "hu": "Musée Bayard",
                 "ro": "Musée Bayard",
-                "en": "Musée Bayard"
+                "en": "Musée Bayard",
+                "fr": "Musée Bayard"
               },
               "tip_5lang": {
                 "de": "Dies ist der ideale Ort, um dem Regen zu entfliehen; nutzen Sie die Zeit für eine ausführliche Besichtigung der Ausstellungen im Trockenen.",
                 "hu": "Ez a tökéletes hely az eső elöli menekülésre; szánjon bőséges időt a kiállítások megtekintésére a várfalak védelmező szárazságában.",
                 "ro": "Acesta este locul ideal pentru a scăpa de ploaie; acordați-vă timp pentru a explora expozițiile în interiorul cald și uscat al muzeului.",
-                "en": "This is the perfect spot to escape the rain; take your time to explore the indoor exhibits thoroughly while staying completely dry."
+                "en": "This is the perfect spot to escape the rain; take your time to explore the indoor exhibits thoroughly while staying completely dry.",
+                "fr": "C'est l'endroit parfait pour échapper à la pluie ; prenez votre temps pour explorer les expositions intérieures tout en restant complètement au sec."
               }
             },
             {
@@ -245,13 +269,15 @@
                 "de": "Château de Bayard",
                 "hu": "Château de Bayard",
                 "ro": "Château de Bayard",
-                "en": "Château de Bayard"
+                "en": "Château de Bayard",
+                "fr": "Château de Bayard"
               },
               "tip_5lang": {
                 "de": "Die Außenanlagen können rutschig sein; betrachten Sie die Architektur des Schlosses aus der Nähe und achten Sie auf herabtropfendes Regenwasser.",
                 "hu": "A vár külső udvara csúszóssá válhat; csodálja meg az épület részleteit közelről, és ügyeljen az ereszekről lezúduló csapadékvízre.",
                 "ro": "Curtea exterioară poate fi alunecoasă; admirați detaliile arhitecturale de aproape și aveți grijă la apa care se scurge de pe stresini.",
-                "en": "The outer castle grounds can be slippery; admire the architecture from close up and watch out for heavy runoff from the ancient rooftops."
+                "en": "The outer castle grounds can be slippery; admire the architecture from close up and watch out for heavy runoff from the ancient rooftops.",
+                "fr": "Les extérieurs du château peuvent être glissants ; admirez l'architecture de près et garez-vous aux fortes ruissellements provenant des toits anciens."
               }
             }
           ]
@@ -261,7 +287,8 @@
             "de": "Erleben Sie Pontcharra an einem klaren Wintermorgen, wenn Reif die Felder bedeckt. Die Wanderung entlang des Bréda erfordert warme Schichten und Handschuhe. Mittags bietet das Musée Bayard eine wohlige Wärme, bevor die Sonne bereits gegen 17:00 Uhr hinter den Bergen verschwindet. Der Rückweg zum Bahnhof führt durch die beleuchteten Straßen der Stadt, was eine gemütliche Atmosphäre schafft.",
             "hu": "Fedezze fel Pontcharrát egy fagyos téli reggelen, amikor zúzmara fedi a tájat. A Bréda menti séta során a réteges öltözködés és a kesztyű elengedhetetlen. Délben a Musée Bayard nyújt kellemes meleget, mielőtt a nap már 17:00 körül eltűnik a hegyek mögött. A visszaút az állomásra a kivilágított utcákon keresztül vezet, ami igazi meghitt hangulatot áraszt.",
             "ro": "Descoperiți Pontcharra într-o dimineață geroasă de iarnă, când chiciura acoperă câmpurile. Plimbarea pe lângă Bréda necesită haine groase și mănuși. La prânz, Musée Bayard oferă o căldură primitoare înainte ca soarele să apună devreme, în jurul orei 17:00. Drumul de întoarcere spre gară prin străzile iluminate creează o atmosferă foarte primitoare.",
-            "en": "Experience Pontcharra on a crisp winter morning with frost covering the fields. Walking along the Bréda requires warm layers and gloves for comfort. At noon, Musée Bayard offers cozy warmth before the sun sets early behind the mountains around 17:00. The walk back to the station through illuminated streets creates a lovely, cozy atmosphere."
+            "en": "Experience Pontcharra on a crisp winter morning with frost covering the fields. Walking along the Bréda requires warm layers and gloves for comfort. At noon, Musée Bayard offers cozy warmth before the sun sets early behind the mountains around 17:00. The walk back to the station through illuminated streets creates a lovely, cozy atmosphere.",
+            "fr": "Vivez Pontcharra par une fraîche matinée d'hiver avec le gel recouvrant les champs. La promenade le long du Bréda nécessite des couches chaudes et des gants pour le confort. À midi, le Musée Bayard offre une chaleur douillette avant que le soleil ne se couche tôt derrière les montagnes vers 17:00. Le retour à la gare à travers des rues illuminées crée une belle atmosphère chaleureuse."
           },
           "stops": [
             {
@@ -269,13 +296,15 @@
                 "de": "Gare de Pontcharra",
                 "hu": "Gare de Pontcharra",
                 "ro": "Gare de Pontcharra",
-                "en": "Gare de Pontcharra"
+                "en": "Gare de Pontcharra",
+                "fr": "Gare de Pontcharra"
               },
               "tip_5lang": {
                 "de": "Wärmen Sie sich kurz in der Wartehalle auf; im Winter ist der Wind auf den Bahnsteigen oft beißend kalt, tragen Sie eine warme Mütze.",
                 "hu": "Melegedjen át kicsit a váróteremben; télen a peronokon a szél gyakran metsző, ezért viseljen fülvédőt vagy meleg sapkát indulás előtt.",
                 "ro": "Încălziți-vă puțin în sala de așteptare; iarna, vântul pe peroane este adesea tăios, așa că purtați o căciulă groasă și fular.",
-                "en": "Warm up briefly in the waiting hall; in winter, the wind on the platforms is often biting, so put on your hat and scarf before heading out."
+                "en": "Warm up briefly in the waiting hall; in winter, the wind on the platforms is often biting, so put on your hat and scarf before heading out.",
+                "fr": "Réchauffez-vous brièvement dans le hall d'attente ; en hiver, le vent sur les quais est souvent mordant, alors mettez votre bonnet et votre écharpe avant de partir."
               }
             },
             {
@@ -283,13 +312,15 @@
                 "de": "Le Bréda",
                 "hu": "Le Bréda",
                 "ro": "Le Bréda",
-                "en": "Le Bréda"
+                "en": "Le Bréda",
+                "fr": "Le Bréda"
               },
               "tip_5lang": {
                 "de": "An den Ufern kann sich Eis bilden; bewundern Sie das klare Wasser und die frostige Vegetation, aber halten Sie sich von den rutschigen Rändern fern.",
                 "hu": "A part mentén jég képződhet; csodálja meg a kristálytiszta vizet és a deres növényzetet, de tartson biztonságos távolságot a csúszós szélektől.",
                 "ro": "Gheața se poate forma pe maluri; admirați apa limpede și vegetația înghețată, dar păstrați o distanță sigură de marginile alunecoase.",
-                "en": "Ice can form along the banks; admire the crystal-clear water and frosty vegetation, but stay a safe distance from the slippery edges."
+                "en": "Ice can form along the banks; admire the crystal-clear water and frosty vegetation, but stay a safe distance from the slippery edges.",
+                "fr": "De la glace peut se former le long des berges ; admirez l'eau cristalline et la végétation engelée, mais restez à une distance de sécurité des bords glissants."
               }
             },
             {
@@ -297,13 +328,15 @@
                 "de": "Plan d’eau des Lônes",
                 "hu": "Plan d’eau des Lônes",
                 "ro": "Plan d’eau des Lônes",
-                "en": "Plan d’eau des Lônes"
+                "en": "Plan d’eau des Lônes",
+                "fr": "Plan d’eau des Lônes"
               },
               "tip_5lang": {
                 "de": "Der See ist im Winter oft teilweise zugefroren; betreten Sie niemals das Eis und genießen Sie die Stille der schlafenden Natur bei einem Heißgetränk.",
                 "hu": "A tó télen gyakran részben befagy; soha ne lépjen a jégre, inkább élvezze az alvó természet csendjét egy termosznyi forró teával a kezében.",
                 "ro": "Lacul este adesea parțial înghețat iarna; nu pășiți niciodată pe gheață și bucurați-vă de liniștea naturii cu o băutură caldă în mână.",
-                "en": "The lake is often partially frozen in winter; never step onto the ice, instead enjoy the silence of sleeping nature with a hot drink in hand."
+                "en": "The lake is often partially frozen in winter; never step onto the ice, instead enjoy the silence of sleeping nature with a hot drink in hand.",
+                "fr": "Le lac est souvent partiellement gelé en hiver ; ne marchez jamais sur la glace, profitez plutôt du silence de la nature endormie avec une boisson chaude à la main."
               }
             },
             {
@@ -311,13 +344,15 @@
                 "de": "Lac du Vernay",
                 "hu": "Lac du Vernay",
                 "ro": "Lac du Vernay",
-                "en": "Lac du Vernay"
+                "en": "Lac du Vernay",
+                "fr": "Lac du Vernay"
               },
               "tip_5lang": {
                 "de": "Die Wege können bei Bodenfrost sehr glatt sein; achten Sie auf festes Schuhwerk mit Profil, um die winterliche Seeatmosphäre sicher zu genießen.",
                 "hu": "A talajmenti fagy miatt az utak nagyon csúszósak lehetnek; válasszon bordázott talpú bakancsot, hogy biztonságban csodálhassa a téli tópartot.",
                 "ro": "Potecile pot fi foarte alunecoase din cauza înghețului; purtați încălțăminte cu talpă aderentă pentru a vă bucura în siguranță de peisaj.",
-                "en": "Paths can be very slick due to ground frost; wear boots with good grip to safely enjoy the winter atmosphere around the lake shore."
+                "en": "Paths can be very slick due to ground frost; wear boots with good grip to safely enjoy the winter atmosphere around the lake shore.",
+                "fr": "Les sentiers peuvent être très glissants à cause du gel du sol ; portez des bottes offrant une bonne adhérence pour profiter en toute sécurité de l'ambiance hivernale au bord du lac."
               }
             },
             {
@@ -325,13 +360,15 @@
                 "de": "Musée Bayard",
                 "hu": "Musée Bayard",
                 "ro": "Musée Bayard",
-                "en": "Musée Bayard"
+                "en": "Musée Bayard",
+                "fr": "Musée Bayard"
               },
               "tip_5lang": {
                 "de": "Nutzen Sie diesen Stopp zum Aufwärmen; die dicken Mauern halten die Kälte draußen, was den Museumsbesuch im Winter besonders angenehm macht.",
                 "hu": "Használja ki ezt a megállót a felmelegedésre; a vastag falak távol tartják a kinti fagyot, így a múzeumlátogatás télen különösen kellemes.",
                 "ro": "Profitați de această oprire pentru a vă încălzi; zidurile groase țin gerul la distanță, făcând vizita la muzeu foarte plăcută iarna.",
-                "en": "Use this stop to thaw out; the thick walls keep the winter chill at bay, making a museum visit especially pleasant during the cold months."
+                "en": "Use this stop to thaw out; the thick walls keep the winter chill at bay, making a museum visit especially pleasant during the cold months.",
+                "fr": "Profitez de cet arrêt pour vous réchauffer ; les murs épais empêchent la morsure de l'hiver, rendant la visite du musée particulièrement agréable pendant les mois froids."
               }
             },
             {
@@ -339,13 +376,15 @@
                 "de": "Château de Bayard",
                 "hu": "Château de Bayard",
                 "ro": "Château de Bayard",
-                "en": "Château de Bayard"
+                "en": "Château de Bayard",
+                "fr": "Château de Bayard"
               },
               "tip_5lang": {
                 "de": "Da es ab 17:00 Uhr dunkel wird, sollten Sie das Schloss früher besuchen; die frühe Dämmerung verleiht der Ruine eine besonders mystische Aura.",
                 "hu": "Mivel 17:00 után sötétedik, tervezze korábbra a vár látogatását; a korai szürkület különleges, misztikus aurát kölcsönöz az ódon romoknak.",
                 "ro": "Deoarece se întunecă după ora 17:00, planificați vizita mai devreme; amurgul timpuriu oferă ruinelor o aură mistică deosebită.",
-                "en": "Since it gets dark after 17:00, plan your castle visit earlier; the early twilight gives the ancient ruins a particularly mystical aura."
+                "en": "Since it gets dark after 17:00, plan your castle visit earlier; the early twilight gives the ancient ruins a particularly mystical aura.",
+                "fr": "Comme il fait sombre après 17:00, planifiez votre visite du château plus tôt ; la tombée du jour précoce donne aux ruines anciennes une aura particulièrement mystique."
               }
             }
           ]
@@ -365,7 +404,8 @@
             "de": "Gare de Pontcharra",
             "hu": "Gare de Pontcharra",
             "ro": "Gare de Pontcharra",
-            "en": "Gare de Pontcharra"
+            "en": "Gare de Pontcharra",
+            "fr": "Gare de Pontcharra"
           },
           "coords": [
             6.007649,
@@ -380,7 +420,8 @@
             "de": "Starten Sie am historischen Bahnhof, einem wichtigen Verkehrsknotenpunkt der Region, wo Sie vorab am Kiosk ein Ticket für spätere Fahrten kaufen sollten.",
             "hu": "Kezdje a túrát a történelmi vasútállomáson, amely a régió fontos közlekedési csomópontja, és ahol érdemes előre megvenni a jegyet a későbbi utazásokhoz.",
             "ro": "Începeți turul la gara istorică, un important nod de transport regional, unde este recomandat să cumpărați un bilet în avans pentru călătoriile ulterioare.",
-            "en": "Begin your journey at the historic railway station, a vital transport hub for the region, where you should purchase a ticket in advance for later trips."
+            "en": "Begin your journey at the historic railway station, a vital transport hub for the region, where you should purchase a ticket in advance for later trips.",
+            "fr": "Commencez votre trajet à la gare historique, un pôle de transport vital pour la région, où vous devez acheter un billet à l'avance pour les trajets ultérieurs."
           }
         },
         {
@@ -388,7 +429,8 @@
             "de": "Le Bréda",
             "hu": "Le Bréda",
             "ro": "Le Bréda",
-            "en": "Le Bréda"
+            "en": "Le Bréda",
+            "fr": "Le Bréda"
           },
           "coords": [
             6.005556,
@@ -403,7 +445,8 @@
             "de": "Spazieren Sie entlang des Flusses Le Bréda, dessen klare Wasser die lokale Natur prägen, und achten Sie auf das rutschige Ufer bei den malerischen Brücken.",
             "hu": "Sétáljon végig a Le Bréda folyó mentén, melynek tiszta vize meghatározza a helyi természetet, és ügyeljen a csúszós partra a festői hidak közelében.",
             "ro": "Plimbați-vă de-a lungul râului Le Bréda, ale cărui ape limpezi modelează natura locală, și aveți grijă la malurile alunecoase de lângă podurile pitorești.",
-            "en": "Walk along the Le Bréda river, whose clear waters shape the local natural environment, and watch out for slippery banks near the picturesque little bridges."
+            "en": "Walk along the Le Bréda river, whose clear waters shape the local natural environment, and watch out for slippery banks near the picturesque little bridges.",
+            "fr": "Promenez-vous le long du Le Bréda, dont les eaux claires façonnent l'environnement naturel local, et méfiez-vous des berges glissantes près des petits ponts pittoresques."
           }
         },
         {
@@ -411,7 +454,8 @@
             "de": "Plan d’eau des Lônes",
             "hu": "Plan d’eau des Lônes",
             "ro": "Plan d’eau des Lônes",
-            "en": "Plan d’eau des Lônes"
+            "en": "Plan d’eau des Lônes",
+            "fr": "Plan d’eau des Lônes"
           },
           "coords": [
             6.008203,
@@ -426,7 +470,8 @@
             "de": "Genießen Sie die ruhige Atmosphäre an diesem idyllischen See, der perfekte Bedingungen für eine kleine Auszeit bietet, wenn Sie ein Picknick mitbringen.",
             "hu": "Élvezze a békés hangulatot ennél az idilli tónál, amely tökéletes feltételeket biztosít egy kis pihenéshez, ha magával hoz egy finom piknikkosarat.",
             "ro": "Bucurați-vă de atmosfera liniștită de la acest lac idilic, care oferă condiții perfecte pentru o mică pauză dacă aduceți cu dumneavoastră un coș de picnic.",
-            "en": "Enjoy the peaceful atmosphere at this idyllic lake, which offers the perfect setting for a short relaxing break if you remember to bring a picnic basket."
+            "en": "Enjoy the peaceful atmosphere at this idyllic lake, which offers the perfect setting for a short relaxing break if you remember to bring a picnic basket.",
+            "fr": "Profitez de l'atmosphère paisible de ce lac idyllique, qui offre le cadre parfait pour une courte pause relaxante si vous pensez à apporter un panier de pique-nique."
           }
         },
         {
@@ -434,7 +479,8 @@
             "de": "Musée Bayard",
             "hu": "Musée Bayard",
             "ro": "Musée Bayard",
-            "en": "Musée Bayard"
+            "en": "Musée Bayard",
+            "fr": "Musée Bayard"
           },
           "coords": [
             6.019047,
@@ -449,7 +495,8 @@
             "de": "Tauchen Sie im Musée Bayard in das Leben des berühmten Ritters ohne Furcht und Tadel ein, wobei Sie den kostenlosen Audioguide am Eingang verlangen sollten.",
             "hu": "Merüljön el a Musée Bayard kiállításán a félelmet nem ismerő és gáncstalan lovag életében, és feltétlenül kérje a bejáratnál az ingyenes audioguide-ot.",
             "ro": "Cufundați-vă în viața cavalerului fără frică și fără reproș la Musée Bayard, solicitând neapărat ghidul audio gratuit disponibil chiar la intrare.",
-            "en": "Immerse yourself in the life of the knight without fear and beyond reproach at the Musée Bayard, and be sure to request the free audio guide at the entrance."
+            "en": "Immerse yourself in the life of the knight without fear and beyond reproach at the Musée Bayard, and be sure to request the free audio guide at the entrance.",
+            "fr": "Plongez dans la vie du chevalier sans peur et sans reproche au Musée Bayard, et pensez à demander le audioguide gratuit à l'entrée."
           }
         },
         {
@@ -457,7 +504,8 @@
             "de": "Château de Bayard",
             "hu": "Château de Bayard",
             "ro": "Château de Bayard",
-            "en": "Château de Bayard"
+            "en": "Château de Bayard",
+            "fr": "Château de Bayard"
           },
           "coords": [
             6.018889,
@@ -472,7 +520,8 @@
             "de": "Erkunden Sie die majestätischen Ruinen des Château de Bayard, die eine reiche Geschichte atmen, und tragen Sie festes Schuhwerk für die unebenen Steinwege.",
             "hu": "Fedezze fel a Château de Bayard fenséges, történelemmel átitatott romjait, és viseljen masszív lábbelit az egyenetlen, köves ösvényeken való sétáláshoz.",
             "ro": "Explorați ruinele maiestuoase ale Château de Bayard, care respiră o istorie bogată, și purtați încălțăminte solidă pentru a parcurge potecile pietruite denivelate.",
-            "en": "Explore the majestic ruins of Château de Bayard, which breathe a rich history, and wear sturdy footwear to navigate the uneven stone paths safely."
+            "en": "Explore the majestic ruins of Château de Bayard, which breathe a rich history, and wear sturdy footwear to navigate the uneven stone paths safely.",
+            "fr": "Explorez les ruines majestueuses du Château de Bayard, qui respirent une histoire riche ; portez des chaussures solides pour parcourir en toute sécurité les chemins de pierre inégaux."
           }
         },
         {
@@ -480,7 +529,8 @@
             "de": "Panorama de Belledonne",
             "hu": "Panorama de Belledonne",
             "ro": "Panorama de Belledonne",
-            "en": "Panorama de Belledonne"
+            "en": "Panorama de Belledonne",
+            "fr": "Panorama de Belledonne"
           },
           "coords": [
             6.018501,
@@ -495,7 +545,8 @@
             "de": "Genießen Sie vom Panorama de Belledonne einen atemberaubenden Blick auf die Alpen, wobei Sie am besten am späten Nachmittag für das weiche Licht kommen.",
             "hu": "Élvezze az Alpokra nyíló lélegzetelállító kilátást a Panorama de Belledonne pontról, ahová a legjobb késő délután érkezni a lágy fények miatt.",
             "ro": "Bucurați-vă de o vedere uluitoare asupra Alpilor de la Panorama de Belledonne, locul ideal de vizitat la sfârșitul după-amiezii pentru lumina sa blândă.",
-            "en": "Enjoy breathtaking views of the Alps from the Panorama de Belledonne, which is best visited in the late afternoon to take advantage of the soft, golden light."
+            "en": "Enjoy breathtaking views of the Alps from the Panorama de Belledonne, which is best visited in the late afternoon to take advantage of the soft, golden light.",
+            "fr": "Profitez de vues à couper le souffle sur les Alpes depuis le Panorama de Belledonne, qui est préférable de visiter en fin d'après-midi pour profiter de la lumière dorée et douce."
           }
         }
       ],
@@ -503,7 +554,8 @@
         "de": "Radeln Sie vom Bahnhof zum Fluss Le Bréda und genießen Sie die frische Morgenbrise. Entspannen Sie sich mittags an den ruhigen Gewässern des Plan d'eau des Lônes, um neue Energie zu tanken. Der Nachmittag ist dem legendären Ritter im Musée und Château de Bayard gewidmet. Fahren Sie schließlich zum Panorama de Belledonne, um den spektakulären Sonnenuntergang zu beobachten.",
         "hu": "Kerékpározzon el az állomástól a kanyargós Le Bréda folyó felé, élvezve a friss reggeli szellőt. Délidőben pihenjen meg a Plan d'eau des Lônes békés vizeinél. A délutánt a legendás lovagnak szenteljük a Musée Bayard és az ősi Château de Bayard meglátogatásával. Végül tekerjen fel a Panorama de Belledonne-hoz, hogy megnézze a látványos hegyi naplementét.",
         "ro": "Pedalați de la gară spre râul șerpuitor Le Bréda, bucurându-vă de briza proaspătă a dimineții. La amiază, relaxați-vă pe malurile liniștite ale Plan d'eau des Lônes. După-amiaza este dedicată legendarului cavaler la Musée Bayard și ancestralului său Château de Bayard. În cele din urmă, pedalați spre Panorama de Belledonne pentru apusul spectaculos.",
-        "en": "Cycle out from the local station toward the winding Le Bréda river, enjoying the fresh morning breeze. By midday, relax by the peaceful waters of Plan d'eau des Lônes to recharge. The afternoon is dedicated to the legendary knight at Musée Bayard and his ancestral Château de Bayard. Finally, cycle up to the Panorama de Belledonne to watch the spectacular sunset over the mountains."
+        "en": "Cycle out from the local station toward the winding Le Bréda river, enjoying the fresh morning breeze. By midday, relax by the peaceful waters of Plan d'eau des Lônes to recharge. The afternoon is dedicated to the legendary knight at Musée Bayard and his ancestral Château de Bayard. Finally, cycle up to the Panorama de Belledonne to watch the spectacular sunset over the mountains.",
+        "fr": "Partez en vélo depuis la gare locale en direction du sinueux Le Bréda, en profitant de la fraîcheur matinale. À midi, détendez-vous au bord des eaux paisibles du Plan d’eau des Lônes pour reprendre des forces. L'après-midi est dédié au chevalier légendaire au Musée Bayard et à son Château de Bayard ancestral. Enfin, montez à vélo jusqu'au Panorama de Belledonne pour admirer le spectaculaire coucher de soleil sur les montagnes."
       },
       "variants": {
         "rainy": {
@@ -511,7 +563,8 @@
             "de": "Eine Radtour im Regen erfordert Vorsicht, besonders auf den Wegen am Bréda. Der Asphalt kann rutschig sein, daher ist eine angepasste Geschwindigkeit wichtig. Nach einer Pause an den Seen bietet das Musée Bayard eine trockene Kulturpause. Trotz des Wetters ist die Fahrt zum Panorama lohnenswert, da die Wolken dramatisch über den Gipfeln der Belledonne hängen.",
             "hu": "Az esős bringázás óvatosságot igényel, főleg a Bréda menti utakon. Az aszfalt csúszós lehet, ezért a sebesség megválasztása kulcsfontosságú. A tavaknál tartott rövid pihenő után a Musée Bayard nyújt száraz kulturális szünetet. Az eső ellenére a panoráma felé vezető út látványos, ahogy a felhők drámaian megülnek a Belledonne csúcsain.",
             "ro": "O tură cu bicicleta pe ploaie necesită prudență, mai ales pe drumurile de lângă Bréda. Asfaltul poate fi alunecos, deci viteza redusă este esențială. După o pauză la lacuri, Musée Bayard oferă un moment cultural la adăpost. În ciuda vremii, drumul spre panoramă merită, norii oferind un aspect dramatic vârfurilor Belledonne.",
-            "en": "Cycling in the rain requires caution, especially on the paths near the Bréda. The asphalt can be slippery, so choosing a safe speed is key. After a quick break by the lakes, Musée Bayard offers a dry cultural interval. Despite the weather, the ride to the panorama is rewarding as clouds hang dramatically over the Belledonne peaks."
+            "en": "Cycling in the rain requires caution, especially on the paths near the Bréda. The asphalt can be slippery, so choosing a safe speed is key. After a quick break by the lakes, Musée Bayard offers a dry cultural interval. Despite the weather, the ride to the panorama is rewarding as clouds hang dramatically over the Belledonne peaks.",
+            "fr": "Le vélo sous la pluie exige de la prudence, surtout sur les chemins près du Bréda. L'asphalte peut être glissant, donc choisir une vitesse sûre est essentiel. Après une courte pause au bord des lacs, le Musée Bayard offre un intervalle culturel sec. Malgré le temps, la route vers le panorama est gratifiante avec des nuages dramatiques sur les sommets de la Belledonne."
           },
           "stops": [
             {
@@ -519,13 +572,15 @@
                 "de": "Gare de Pontcharra",
                 "hu": "Gare de Pontcharra",
                 "ro": "Gare de Pontcharra",
-                "en": "Gare de Pontcharra"
+                "en": "Gare de Pontcharra",
+                "fr": "Gare de Pontcharra"
               },
               "tip_5lang": {
                 "de": "Prüfen Sie Ihre Bremsen und Beleuchtung vor der Abfahrt; Regencapes sind bei diesem Wetter praktischer als Schirme für Radfahrer.",
                 "hu": "Indulás előtt ellenőrizze a fékeket és a világítást; kerékpárosoknak az esőköpeny praktikusabb választás az esernyőnél ilyen időben.",
                 "ro": "Verificați frânele și luminile înainte de plecare; pelerinele de ploaie sunt mult mai practice decât umbrelele pentru bicicliști.",
-                "en": "Check your brakes and lights before setting off; rain capes are much more practical than umbrellas for cyclists in this weather."
+                "en": "Check your brakes and lights before setting off; rain capes are much more practical than umbrellas for cyclists in this weather.",
+                "fr": "Vérifiez vos freins et vos lumières avant de partir ; les ponchos sont bien plus pratiques que les parapluies pour les cyclistes par ce temps."
               }
             },
             {
@@ -533,13 +588,15 @@
                 "de": "Le Bréda",
                 "hu": "Le Bréda",
                 "ro": "Le Bréda",
-                "en": "Le Bréda"
+                "en": "Le Bréda",
+                "fr": "Le Bréda"
               },
               "tip_5lang": {
                 "de": "Der Uferweg kann Schlamm aufwirbeln; Schutzbleche sind hier Gold wert, um Ihre Kleidung vor aufspritzendem Regenwasser zu schützen.",
                 "hu": "A vízparti út sarat verhet fel; a sárvédő itt aranyat ér, hogy megvédje ruházatát a felcsapódó víztől és a hordaléktól.",
                 "ro": "Drumul de pe mal poate arunca noroi; apărătorile de noroi sunt esențiale pentru a vă proteja hainele de apa pulverizată de roți.",
-                "en": "The riverside path can kick up mud; mudguards are essential here to protect your clothing from splashes and road debris."
+                "en": "The riverside path can kick up mud; mudguards are essential here to protect your clothing from splashes and road debris.",
+                "fr": "Le chemin au bord de la rivière peut projeter de la boue ; des garde-boue sont indispensables ici pour protéger vos vêtements des éclaboussures et des débris de la route."
               }
             },
             {
@@ -547,13 +604,15 @@
                 "de": "Plan d’eau des Lônes",
                 "hu": "Plan d’eau des Lônes",
                 "ro": "Plan d’eau des Lônes",
-                "en": "Plan d’eau des Lônes"
+                "en": "Plan d’eau des Lônes",
+                "fr": "Plan d’eau des Lônes"
               },
               "tip_5lang": {
                 "de": "Die Wege um den See sind oft schlammig; fahren Sie langsam in den Kurven, um ein Wegrutschen des Vorderrads auf nassem Laub zu vermeiden.",
                 "hu": "A tó körüli utak gyakran sarasak; a kanyarokban haladjon lassan, hogy elkerülje az első kerék megcsúszását a nedves leveleken.",
                 "ro": "Drumurile din jurul lacului sunt adesea noroioase; circulați încet în curbe pentru a evita deraparea roții pe frunzele ude.",
-                "en": "The paths around the lake are often muddy; take corners slowly to prevent your front wheel from slipping on wet leaves or soft ground."
+                "en": "The paths around the lake are often muddy; take corners slowly to prevent your front wheel from slipping on wet leaves or soft ground.",
+                "fr": "Les sentiers autour du lac sont souvent boueux ; prenez les virages lentement pour éviter que votre roue avant ne dérape sur les feuilles mouillées ou le sol meuble."
               }
             },
             {
@@ -561,13 +620,15 @@
                 "de": "Musée Bayard",
                 "hu": "Musée Bayard",
                 "ro": "Musée Bayard",
-                "en": "Musée Bayard"
+                "en": "Musée Bayard",
+                "fr": "Musée Bayard"
               },
               "tip_5lang": {
                 "de": "Nutzen Sie den überdachten Bereich zum Abstellen Ihres Rades; trocknen Sie Ihren Sattel ab, bevor Sie die Tour nach dem Museumsbesuch fortsetzen.",
                 "hu": "Használja a fedett részeket a kerékpár tárolására; törölje szárazra a nyerget, mielőtt a múzeumlátogatás után folytatná a túrát.",
                 "ro": "Folosiți zonele acoperite pentru a parca bicicleta; ștergeți șaua înainte de a continua tura după vizitarea muzeului.",
-                "en": "Use covered areas to park your bike; wipe your saddle dry before continuing your tour after exploring the museum exhibits."
+                "en": "Use covered areas to park your bike; wipe your saddle dry before continuing your tour after exploring the museum exhibits.",
+                "fr": "Utilisez les zones couvertes pour garer votre vélo ; essuyez votre selle avant de reprendre la visite après avoir exploré les expositions du musée."
               }
             },
             {
@@ -575,13 +636,15 @@
                 "de": "Château de Bayard",
                 "hu": "Château de Bayard",
                 "ro": "Château de Bayard",
-                "en": "Château de Bayard"
+                "en": "Château de Bayard",
+                "fr": "Château de Bayard"
               },
               "tip_5lang": {
                 "de": "Das Kopfsteinpflaster am Schloss ist bei Regen extrem rutschig; steigen Sie im Zweifelsfall ab und schieben Sie Ihr Rad ein kurzes Stück.",
                 "hu": "A várnál található macskakő esőben rendkívül csúszós; kétség esetén szálljon le, és tolja a bringát a biztonságosabb haladás érdekében.",
                 "ro": "Paveaua de la castel este extrem de alunecoasă pe ploaie; dacă aveți dubii, coborâți și împingeți bicicleta pentru siguranță.",
-                "en": "The cobblestones at the castle are extremely slippery when wet; if in doubt, dismount and push your bike for a short distance."
+                "en": "The cobblestones at the castle are extremely slippery when wet; if in doubt, dismount and push your bike for a short distance.",
+                "fr": "Les pavés du château sont extrêmement glissants lorsqu'ils sont mouillés ; en cas de doute, descendez et poussez votre vélo sur une courte distance."
               }
             },
             {
@@ -589,13 +652,15 @@
                 "de": "Panorama de Belledonne",
                 "hu": "Panorama de Belledonne",
                 "ro": "Panorama de Belledonne",
-                "en": "Panorama de Belledonne"
+                "en": "Panorama de Belledonne",
+                "fr": "Panorama de Belledonne"
               },
               "tip_5lang": {
                 "de": "Die Sicht kann durch tief hängende Wolken eingeschränkt sein; tragen Sie eine neongelbe Weste, um bei grauem Regenwetter besser gesehen zu werden.",
                 "hu": "A látótávolság az alacsony felhők miatt korlátozott lehet; viseljen fényvisszaverő mellényt, hogy a szürke esőben is jól látható maradjon.",
                 "ro": "Vizibilitatea poate fi limitată de norii joși; purtați o vestă reflectorizantă pentru a fi vizibil pe drum în condiții de ploaie gri.",
-                "en": "Visibility can be limited by low clouds; wear a high-visibility vest to ensure you remain seen by others in the grey rainy weather."
+                "en": "Visibility can be limited by low clouds; wear a high-visibility vest to ensure you remain seen by others in the grey rainy weather.",
+                "fr": "La visibilité peut être limitée par des nuages bas ; portez un gilet haute visibilité pour vous assurer d'être vu des autres dans ce temps gris et pluvieux."
               }
             }
           ]
@@ -605,7 +670,8 @@
             "de": "Eine winterliche Radtour durch Pontcharra bietet klare Luft und verschneite Gipfelblicke. Die Kälte erfordert winddichte Kleidung und gute Handschuhe für die Bremskontrolle. Das Musée Bayard ist ein idealer Stopp, um die eingefrorenen Finger aufzuwärmen. Da das Tageslicht gegen 17:00 Uhr schwindet, ist eine gute Beleuchtung für die Rückfahrt durch das ruhige Tal unerlässlich.",
             "hu": "A téli bringázás Pontcharra környékén friss levegőt és havas hegycsúcsokat kínál. A hideg miatt szélálló ruházat és jó kesztyű szükséges a fékek biztonságos kezeléséhez. A Musée Bayard ideális megálló a megfagyott ujjak felmelegítésére. Mivel 17:00 körül elfogy a fény, a jó világítás elengedhetetlen a csendes völgyben való visszatéréshez.",
             "ro": "O tură de iarnă cu bicicleta prin Pontcharra oferă aer curat și vederi spre vârfurile înzăpezite. Frigul necesită haine rezistente la vânt și mănuși bune pentru controlul frânelor. Musée Bayard este o oprire ideală pentru a vă încălzi degetele amorțite. Lumina dispare în jurul orei 17:00, deci iluminarea bună este esențială.",
-            "en": "A winter bike ride through Pontcharra offers crisp air and snowy mountain views. The cold requires windproof clothing and good gloves for proper brake control. Musée Bayard is an ideal stop to warm up frozen fingers. Since daylight fades around 17:00, good lights are essential for the ride back through the quiet valley."
+            "en": "A winter bike ride through Pontcharra offers crisp air and snowy mountain views. The cold requires windproof clothing and good gloves for proper brake control. Musée Bayard is an ideal stop to warm up frozen fingers. Since daylight fades around 17:00, good lights are essential for the ride back through the quiet valley.",
+            "fr": "Une balade à vélo hivernale à travers Pontcharra offre un air vif et des vues sur des montagnes enneigées. Le froid exige des vêtements coupe-vent et de bons gants pour un contrôle optimal des freins. Le Musée Bayard est une halte idéale pour réchauffer des doigts gelés. Comme la lumière décline vers 17:00, de bonnes lumières sont indispensables pour le retour à travers la vallée tranquille."
           },
           "stops": [
             {
@@ -613,13 +679,15 @@
                 "de": "Gare de Pontcharra",
                 "hu": "Gare de Pontcharra",
                 "ro": "Gare de Pontcharra",
-                "en": "Gare de Pontcharra"
+                "en": "Gare de Pontcharra",
+                "fr": "Gare de Pontcharra"
               },
               "tip_5lang": {
                 "de": "Achten Sie auf vereiste Stellen am Bahnhofsvorplatz; starten Sie langsam, um Ihre Muskeln bei den kalten Temperaturen erst einmal aufzuwärmen.",
                 "hu": "Ügyeljen a jeges foltokra az állomás előtti téren; kezdjen lassú tempóban, hogy az izmai fokozatosan bemelegedjenek a nagy hidegben.",
                 "ro": "Atenție la porțiunile înghețate din fața gării; începeți într-un ritm lent pentru a permite mușchilor să se încălzească treptat.",
-                "en": "Watch out for icy patches in the station square; start at a slow pace to allow your muscles to warm up gradually in the freezing air."
+                "en": "Watch out for icy patches in the station square; start at a slow pace to allow your muscles to warm up gradually in the freezing air.",
+                "fr": "Surveillez les plaques de verglas sur la place de la gare ; commencez à un rythme lent pour permettre à vos muscles de chauffer progressivement dans l'air glacial."
               }
             },
             {
@@ -627,13 +695,15 @@
                 "de": "Le Bréda",
                 "hu": "Le Bréda",
                 "ro": "Le Bréda",
-                "en": "Le Bréda"
+                "en": "Le Bréda",
+                "fr": "Le Bréda"
               },
               "tip_5lang": {
                 "de": "Der Wind entlang des Baches kann sehr kalt sein; eine Gesichtsmaske oder ein Schlauchtuch schützt Sie vor dem beißenden Fahrtwind im Winter.",
                 "hu": "A patak menti szél metszően hideg lehet; egy csősál vagy arcmaszk megvédi Önt a fagyos menetszéltől a téli tekerés során.",
                 "ro": "Vântul de-a lungul pârâului poate fi foarte rece; o mască sau un fular vă va proteja fața de curentul înghețat în timpul mersului.",
-                "en": "The wind along the stream can be very cold; a neck gaiter or face mask will protect you from the freezing wind chill while riding."
+                "en": "The wind along the stream can be very cold; a neck gaiter or face mask will protect you from the freezing wind chill while riding.",
+                "fr": "Le vent le long du ruisseau peut être très froid ; un tour de cou ou un masque facial vous protégera du refroidissement éolien en roulant."
               }
             },
             {
@@ -641,13 +711,15 @@
                 "de": "Plan d’eau des Lônes",
                 "hu": "Plan d’eau des Lônes",
                 "ro": "Plan d’eau des Lônes",
-                "en": "Plan d’eau des Lônes"
+                "en": "Plan d’eau des Lônes",
+                "fr": "Plan d’eau des Lônes"
               },
               "tip_5lang": {
                 "de": "Die Wege können durch gefrorenen Tau glatt sein; reduzieren Sie den Reifendruck leicht, um mehr Grip auf dem winterlichen Untergrund zu haben.",
                 "hu": "A deres utak csúszósak lehetnek; csökkentse kissé a guminyomást, hogy jobb tapadást érjen el a fagyos talajon a tó körüli szakaszon.",
                 "ro": "Potecile pot fi alunecoase din cauza brumei înghețate; reduceți ușor presiunea din pneuri pentru o aderență mai bună pe solul înghețat.",
-                "en": "The paths can be slick from frozen dew; slightly reduce your tire pressure to get better grip on the frozen ground around the lake."
+                "en": "The paths can be slick from frozen dew; slightly reduce your tire pressure to get better grip on the frozen ground around the lake.",
+                "fr": "Les sentiers peuvent être glissants à cause de la rosée gelée ; réduisez légèrement la pression de vos pneus pour obtenir une meilleure adhérence sur le sol gelé autour du lac."
               }
             },
             {
@@ -655,13 +727,15 @@
                 "de": "Musée Bayard",
                 "hu": "Musée Bayard",
                 "ro": "Musée Bayard",
-                "en": "Musée Bayard"
+                "en": "Musée Bayard",
+                "fr": "Musée Bayard"
               },
               "tip_5lang": {
                 "de": "Nutzen Sie die Garderobe, um schwere Winterkleidung kurz abzulegen; die Wärme im Inneren hilft, die Durchblutung der Hände wieder anzuregen.",
                 "hu": "Használja a ruhatárat a nehéz téli öltözet leadására; a benti meleg segít helyreállítani a kezek vérkeringését a hosszú tekerés után.",
                 "ro": "Folosiți garderoba pentru a lăsa hainele groase; căldura din interior ajută la restabilirea circulației în mâini după drumul lung.",
-                "en": "Use the cloakroom to store heavy winter gear; the indoor warmth helps restore circulation to your hands after the long winter ride."
+                "en": "Use the cloakroom to store heavy winter gear; the indoor warmth helps restore circulation to your hands after the long winter ride.",
+                "fr": "Utilisez le vestiaire pour ranger vos lourds vêtements d'hiver ; la chaleur intérieure aide à rétablir la circulation dans vos mains après la longue sortie hivernale."
               }
             },
             {
@@ -669,13 +743,15 @@
                 "de": "Château de Bayard",
                 "hu": "Château de Bayard",
                 "ro": "Château de Bayard",
-                "en": "Château de Bayard"
+                "en": "Château de Bayard",
+                "fr": "Château de Bayard"
               },
               "tip_5lang": {
                 "de": "Im Schatten der Burgmauern ist es deutlich kühler; halten Sie sich in den sonnigen Bereichen auf, solange die Wintersonne noch scheint.",
                 "hu": "A várfalak árnyékában sokkal hűvösebb van; tartózkodjon a naposabb részeken, amíg a téli nap ereje még kitart a délutáni órákban.",
                 "ro": "La umbra zidurilor castelului este mult mai rece; stați în zonele însorite cât timp soarele de iarnă încă mai strălucește după-amiaza.",
-                "en": "It is much cooler in the shadow of the castle walls; try to stay in the sunny areas while the winter sun still holds some warmth."
+                "en": "It is much cooler in the shadow of the castle walls; try to stay in the sunny areas while the winter sun still holds some warmth.",
+                "fr": "Il fait beaucoup plus frais à l'ombre des murs du château ; essayez de rester dans les zones ensoleillées tant que le soleil hivernal garde encore un peu de chaleur."
               }
             },
             {
@@ -683,13 +759,15 @@
                 "de": "Panorama de Belledonne",
                 "hu": "Panorama de Belledonne",
                 "ro": "Panorama de Belledonne",
-                "en": "Panorama de Belledonne"
+                "en": "Panorama de Belledonne",
+                "fr": "Panorama de Belledonne"
               },
               "tip_5lang": {
                 "de": "Der Rückweg erfolgt oft in der Dämmerung; stellen Sie sicher, dass Ihre Akkus für die Beleuchtung bei Kälte voll geladen sind.",
                 "hu": "A visszaút gyakran szürkületben történik; győződjön meg róla, hogy a lámpák akkumulátorai teljesen fel vannak töltve a hidegben is.",
                 "ro": "Drumul de întoarcere are loc adesea în amurg; asigurați-vă că bateriile luminilor sunt complet încărcate pentru condiții de frig.",
-                "en": "The return trip often happens at dusk; ensure your light batteries are fully charged, as cold temperatures can drain them faster."
+                "en": "The return trip often happens at dusk; ensure your light batteries are fully charged, as cold temperatures can drain them faster.",
+                "fr": "Le trajet de retour a souvent lieu au crépuscule ; assurez-vous que les piles de votre lampe sont pleinement chargées, car le froid les décharge plus rapidement."
               }
             }
           ]
@@ -709,7 +787,8 @@
             "de": "Gare de Pontcharra",
             "hu": "Gare de Pontcharra",
             "ro": "Gare de Pontcharra",
-            "en": "Gare de Pontcharra"
+            "en": "Gare de Pontcharra",
+            "fr": "Gare de Pontcharra"
           },
           "coords": [
             6.007649,
@@ -724,7 +803,8 @@
             "de": "Starten Sie am historischen Bahnhof, einem wichtigen Verkehrsknotenpunkt der Region, wo Sie vorab am Kiosk ein Ticket für spätere Fahrten kaufen sollten.",
             "hu": "Kezdje a túrát a történelmi vasútállomáson, amely a régió fontos közlekedési csomópontja, és ahol érdemes előre megvenni a jegyet a későbbi utazásokhoz.",
             "ro": "Începeți turul la gara istorică, un important nod de transport regional, unde este recomandat să cumpărați un bilet în avans pentru călătoriile ulterioare.",
-            "en": "Begin your journey at the historic railway station, a vital transport hub for the region, where you should purchase a ticket in advance for later trips."
+            "en": "Begin your journey at the historic railway station, a vital transport hub for the region, where you should purchase a ticket in advance for later trips.",
+            "fr": "Commencez votre parcours à la gare historique, un nœud de transport vital pour la région, où vous devriez acheter un billet à l'avance pour vos trajets ultérieurs."
           }
         },
         {
@@ -732,7 +812,8 @@
             "de": "Bassin du Cheylas",
             "hu": "Bassin du Cheylas",
             "ro": "Bassin du Cheylas",
-            "en": "Bassin du Cheylas"
+            "en": "Bassin du Cheylas",
+            "fr": "Bassin du Cheylas"
           },
           "coords": [
             5.988263,
@@ -747,7 +828,8 @@
             "de": "Beobachten Sie die Wasservögel am ruhigen Bassin du Cheylas, einem wichtigen ökologischen Reservat, und bleiben Sie auf den markierten Wegen zum Schutz der Natur.",
             "hu": "Figyelje meg a vízimadarakat a csendes Bassin du Cheylas ökológiai rezervátumban, és a természet védelme érdekében kérjük, maradjon a kijelölt ösvényeken.",
             "ro": "Observați păsările de apă la liniștitul Bassin du Cheylas, o importantă rezervație ecologică, și rămâneți pe traseele marcate pentru a proteja natura.",
-            "en": "Observe the waterfowl at the tranquil Bassin du Cheylas, an important ecological reserve, and strictly stay on marked trails to help protect the environment."
+            "en": "Observe the waterfowl at the tranquil Bassin du Cheylas, an important ecological reserve, and strictly stay on marked trails to help protect the environment.",
+            "fr": "Observez les oiseaux d'eau au tranquille Bassin du Cheylas, une réserve écologique importante, et restez strictement sur les sentiers balisés pour aider à protéger l'environnement."
           }
         },
         {
@@ -755,7 +837,8 @@
             "de": "Panorama de Belledonne",
             "hu": "Panorama de Belledonne",
             "ro": "Panorama de Belledonne",
-            "en": "Panorama de Belledonne"
+            "en": "Panorama de Belledonne",
+            "fr": "Panorama de Belledonne"
           },
           "coords": [
             6.018501,
@@ -770,7 +853,8 @@
             "de": "Genießen Sie vom Panorama de Belledonne einen atemberaubenden Blick auf die Alpen, wobei Sie am besten am späten Nachmittag für das weiche Licht kommen.",
             "hu": "Élvezze az Alpokra nyíló lélegzetelállító kilátást a Panorama de Belledonne pontról, ahová a legjobb késő délután érkezni a lágy fények miatt.",
             "ro": "Bucurați-vă de o vedere uluitoare asupra Alpilor de la Panorama de Belledonne, locul ideal de vizitat la sfârșitul după-amiezii pentru lumina sa blândă.",
-            "en": "Enjoy breathtaking views of the Alps from the Panorama de Belledonne, which is best visited in the late afternoon to take advantage of the soft, golden light."
+            "en": "Enjoy breathtaking views of the Alps from the Panorama de Belledonne, which is best visited in the late afternoon to take advantage of the soft, golden light.",
+            "fr": "Profitez des vues à couper le souffle sur les Alpes depuis le Panorama de Belledonne, à visiter de préférence en fin d'après-midi pour profiter de la lumière douce et dorée."
           }
         },
         {
@@ -778,7 +862,8 @@
             "de": "Musée Bayard",
             "hu": "Musée Bayard",
             "ro": "Musée Bayard",
-            "en": "Musée Bayard"
+            "en": "Musée Bayard",
+            "fr": "Musée Bayard"
           },
           "coords": [
             6.019047,
@@ -793,7 +878,8 @@
             "de": "Tauchen Sie im Musée Bayard in das Leben des berühmten Ritters ohne Furcht und Tadel ein, wobei Sie den kostenlosen Audioguide am Eingang verlangen sollten.",
             "hu": "Merüljön el a Musée Bayard kiállításán a félelmet nem ismerő és gáncstalan lovag életében, és feltétlenül kérje a bejáratnál az ingyenes audioguide-ot.",
             "ro": "Cufundați-vă în viața cavalerului fără frică și fără reproș la Musée Bayard, solicitând neapărat ghidul audio gratuit disponibil chiar la intrare.",
-            "en": "Immerse yourself in the life of the knight without fear and beyond reproach at the Musée Bayard, and be sure to request the free audio guide at the entrance."
+            "en": "Immerse yourself in the life of the knight without fear and beyond reproach at the Musée Bayard, and be sure to request the free audio guide at the entrance.",
+            "fr": "Plongez dans la vie du chevalier sans peur et sans reproche au Musée Bayard, et pensez à demander le guide audio gratuit à l'entrée."
           }
         },
         {
@@ -801,7 +887,8 @@
             "de": "Château de Bayard",
             "hu": "Château de Bayard",
             "ro": "Château de Bayard",
-            "en": "Château de Bayard"
+            "en": "Château de Bayard",
+            "fr": "Château de Bayard"
           },
           "coords": [
             6.018889,
@@ -816,7 +903,8 @@
             "de": "Erkunden Sie die majestätischen Ruinen des Château de Bayard, die eine reiche Geschichte atmen, und tragen Sie festes Schuhwerk für die unebenen Steinwege.",
             "hu": "Fedezze fel a Château de Bayard fenséges, történelemmel átitatott romjait, és viseljen masszív lábbelit az egyenetlen, köves ösvényeken való sétáláshoz.",
             "ro": "Explorați ruinele maiestuoase ale Château de Bayard, care respiră o istorie bogată, și purtați încălțăminte solidă pentru a parcurge potecile pietruite denivelate.",
-            "en": "Explore the majestic ruins of Château de Bayard, which breathe a rich history, and wear sturdy footwear to navigate the uneven stone paths safely."
+            "en": "Explore the majestic ruins of Château de Bayard, which breathe a rich history, and wear sturdy footwear to navigate the uneven stone paths safely.",
+            "fr": "Explorez les majestueuses ruines du Château de Bayard, riches d'histoire, et portez des chaussures solides pour circuler en sécurité sur les chemins de pierre inégaux."
           }
         },
         {
@@ -824,7 +912,8 @@
             "de": "Bassin du Flumet",
             "hu": "Bassin du Flumet",
             "ro": "Bassin du Flumet",
-            "en": "Bassin du Flumet"
+            "en": "Bassin du Flumet",
+            "fr": "Bassin du Flumet"
           },
           "coords": [
             6.061211,
@@ -839,7 +928,8 @@
             "de": "Entdecken Sie das technische Wunderwerk des Bassin du Flumet, das für die Wasserkraft entscheidend ist, und lesen Sie die informativen Tafeln am Aussichtspunkt.",
             "hu": "Fedezze fel a vízenergia szempontjából döntő jelentőségű Bassin du Flumet műszaki csodáját, és olvassa el a kilátónál elhelyezett tájékoztató táblákat.",
             "ro": "Descoperiți minunea tehnică a Bassin du Flumet, crucială pentru energia hidroelectrică, și asigurați-vă că citiți panourile informative de la punctul de belvedere.",
-            "en": "Discover the engineering marvel of the Bassin du Flumet, crucial for local hydroelectric power, and take time to read the informative plaques at the viewpoint."
+            "en": "Discover the engineering marvel of the Bassin du Flumet, crucial for local hydroelectric power, and take time to read the informative plaques at the viewpoint.",
+            "fr": "Découvrez la prouesse technique du Bassin du Flumet, crucial pour l'hydroélectricité locale, et prenez le temps de lire les panneaux informatifs au point de vue."
           }
         },
         {
@@ -847,7 +937,8 @@
             "de": "Lac de Sainte-Hélène",
             "hu": "Lac de Sainte-Hélène",
             "ro": "Lac de Sainte-Hélène",
-            "en": "Lac de Sainte-Hélène"
+            "en": "Lac de Sainte-Hélène",
+            "fr": "Lac de Sainte-Hélène"
           },
           "coords": [
             6.075143,
@@ -862,7 +953,8 @@
             "de": "Entspannen Sie an den Ufern des Lac de Sainte-Hélène, einem friedlichen Rückzugsort in der Natur, und nutzen Sie die kleinen Holzbänke für eine bequeme Rast.",
             "hu": "Pihenjen a Lac de Sainte-Hélène partján, amely egy békés természeti menedékhely, és használja a kis fapadokat egy rendkívül kényelmes pihenéshez.",
             "ro": "Relaxați-vă pe malurile Lacului Sainte-Hélène, o retragere pașnică în natură, și folosiți micile bănci de lemn pentru a vă odihni confortabil.",
-            "en": "Relax on the shores of Lac de Sainte-Hélène, a peaceful natural retreat, and take advantage of the small wooden benches for a comfortable rest during your visit."
+            "en": "Relax on the shores of Lac de Sainte-Hélène, a peaceful natural retreat, and take advantage of the small wooden benches for a comfortable rest during your visit.",
+            "fr": "Détendez-vous sur les rives du Lac de Sainte-Hélène, un paisible refuge naturel, et profitez des petits bancs en bois pour un repos confortable pendant votre visite."
           }
         },
         {
@@ -870,7 +962,8 @@
             "de": "Plan d’eau des Lônes",
             "hu": "Plan d’eau des Lônes",
             "ro": "Plan d’eau des Lônes",
-            "en": "Plan d’eau des Lônes"
+            "en": "Plan d’eau des Lônes",
+            "fr": "Plan d’eau des Lônes"
           },
           "coords": [
             6.008203,
@@ -885,7 +978,8 @@
             "de": "Genießen Sie die ruhige Atmosphäre an diesem idyllischen See, der perfekte Bedingungen für eine kleine Auszeit bietet, wenn Sie ein Picknick mitbringen.",
             "hu": "Élvezze a békés hangulatot ennél az idilli tónál, amely tökéletes feltételeket biztosít egy kis pihenéshez, ha magával hoz egy finom piknikkosarat.",
             "ro": "Bucurați-vă de atmosfera liniștită de la acest lac idilic, care oferă condiții perfecte pentru o mică pauză dacă aduceți cu dumneavoastră un coș de picnic.",
-            "en": "Enjoy the peaceful atmosphere at this idyllic lake, which offers the perfect setting for a short relaxing break if you remember to bring a picnic basket."
+            "en": "Enjoy the peaceful atmosphere at this idyllic lake, which offers the perfect setting for a short relaxing break if you remember to bring a picnic basket.",
+            "fr": "Appréciez l'atmosphère paisible de ce lac idyllique, cadre parfait pour une courte pause détente si vous pensez à apporter un panier-repas."
           }
         }
       ],
@@ -893,7 +987,8 @@
         "de": "Fahren Sie vom Hauptbahnhof direkt zum Bassin du Cheylas für einen ruhigen Morgenspaziergang in der Natur. Genießen Sie mittags den weiten Blick auf die Alpen vom Panorama de Belledonne, bevor Sie das Bayard-Museum besuchen. Der späte Nachmittag führt Sie an Bassin du Flumet und Lac de Sainte-Hélène vorbei und endet mit einem ruhigen Abend an den Lônes.",
         "hu": "Vezessen a központi állomástól egyenesen a Bassin du Cheylas felé egy békés reggeli sétára a természetben. Délben élvezze a lenyűgöző alpesi kilátást a Panorama de Belledonne-ról, mielőtt a Bayard múzeumba menne. A késő délután a Bassin du Flumet és a Lac de Sainte-Hélène mellett vezet el, majd a nap egy csendes estével zárul a Lônes-nál.",
         "ro": "Conduceți de la gară direct la Bassin du Cheylas pentru o plimbare matinală liniștită în natură. La amiază, admirați priveliștile alpine de la Panorama de Belledonne înainte de a vă îndrepta spre muzeul Bayard. Sfârșitul după-amiezii vă poartă pe lângă Bassin du Flumet și Lac de Sainte-Hélène, încheind călătoria cu o seară liniștită la Lônes.",
-        "en": "Drive from the central station straight to the serene Bassin du Cheylas for a peaceful morning nature walk. By midday, take in the sweeping alpine views at the Panorama de Belledonne before heading to the historical Bayard museum and castle. The late afternoon takes you past the impressive Bassin du Flumet and Lac de Sainte-Hélène, ending the journey with a quiet evening at Lônes."
+        "en": "Drive from the central station straight to the serene Bassin du Cheylas for a peaceful morning nature walk. By midday, take in the sweeping alpine views at the Panorama de Belledonne before heading to the historical Bayard museum and castle. The late afternoon takes you past the impressive Bassin du Flumet and Lac de Sainte-Hélène, ending the journey with a quiet evening at Lônes.",
+        "fr": "Partez de la gare centrale en voiture directement vers le serein Bassin du Cheylas pour une promenade matinale dans la nature. Vers midi, admirez les vastes panoramas alpins au Panorama de Belledonne avant de vous rendre au musée et au château historiques de Bayard. La fin d'après-midi vous mène au remarquable Bassin du Flumet et au Lac de Sainte-Hélène, et la journée se termine par une soirée tranquille aux Lônes."
       },
       "variants": {
         "rainy": {
@@ -901,7 +996,8 @@
             "de": "Mit dem Auto erkunden Sie das Grésivaudan-Tal bequem geschützt vor dem Regen. Die Fahrt zu den verschiedenen Becken bietet trotz Wolken weite Ausblicke auf die neblige Berglandschaft. Das Musée Bayard ist ein idealer Stopp für eine längere Pause im Trockenen. Genießen Sie die Fahrt entlang der Seen, während die Regentropfen auf das Panoramadach prasseln.",
             "hu": "Autóval kényelmesen és az esőtől védve fedezheti fel a Grésivaudan-völgyet. A különböző tározókhoz vezető út a felhők ellenére is tágas kilátást nyújt a ködös hegyvidékre. A Musée Bayard ideális állomás egy hosszabb száraz pihenőhöz. Élvezze az utazást a tavak mentén, miközben az eső kopog az autó tetején, és a táj szürke tónusokba öltözik.",
             "ro": "Cu mașina, explorați valea Grésivaudan confortabil, protejat de ploaie. Drumul către bazinele de acumulare oferă vederi largi asupra peisajului montan cețos. Musée Bayard este o oprire ideală pentru o pauză prelungită la uscat. Bucurați-vă de traseul de-a lungul lacurilor în timp ce ploaia bate în parbriz, oferind o notă relaxantă.",
-            "en": "By car, you can explore the Grésivaudan valley comfortably protected from the rain. The drive to the various basins offers wide views of the misty mountain landscape despite the clouds. Musée Bayard is an ideal stop for a longer indoor break. Enjoy the scenic drive along the lakes while the rain creates a relaxing atmosphere on your windshield."
+            "en": "By car, you can explore the Grésivaudan valley comfortably protected from the rain. The drive to the various basins offers wide views of the misty mountain landscape despite the clouds. Musée Bayard is an ideal stop for a longer indoor break. Enjoy the scenic drive along the lakes while the rain creates a relaxing atmosphere on your windshield.",
+            "fr": "En voiture, vous pouvez explorer la vallée du Grésivaudan confortablement protégé de la pluie. La route vers les différents bassins offre de larges vues sur le paysage montagneux brumeux malgré les nuages. Le Musée Bayard est une halte idéale pour une pause intérieure plus longue. Profitez du trajet pittoresque le long des lacs tandis que la pluie crée une atmosphère relaxante sur votre pare-brise."
           },
           "stops": [
             {
@@ -909,13 +1005,15 @@
                 "de": "Gare de Pontcharra",
                 "hu": "Gare de Pontcharra",
                 "ro": "Gare de Pontcharra",
-                "en": "Gare de Pontcharra"
+                "en": "Gare de Pontcharra",
+                "fr": "Gare de Pontcharra"
               },
               "tip_5lang": {
                 "de": "Prüfen Sie Ihre Scheibenwischer vor der Abfahrt; Parkplätze in Bahnhofsnähe können bei starkem Regen Pfützen bilden, tragen Sie feste Schuhe.",
                 "hu": "Indulás előtt ellenőrizze az ablaktörlőket; az állomás környéki parkolókban tócsák alakulhatnak ki, válasszon vízálló lábbelit a kiszálláshoz.",
                 "ro": "Verificați ștergătoarele înainte de plecare; parcările de lângă gară pot avea bălți mari, așa că purtați încălțăminte adecvată.",
-                "en": "Check your wipers before setting off; parking lots near the station can develop large puddles, so wear waterproof shoes for getting out."
+                "en": "Check your wipers before setting off; parking lots near the station can develop large puddles, so wear waterproof shoes for getting out.",
+                "fr": "Vérifiez vos essuie-glaces avant de partir ; les parkings près de la gare peuvent former de grandes flaques, alors portez des chaussures imperméables pour sortir."
               }
             },
             {
@@ -923,13 +1021,15 @@
                 "de": "Bassin du Cheylas",
                 "hu": "Bassin du Cheylas",
                 "ro": "Bassin du Cheylas",
-                "en": "Bassin du Cheylas"
+                "en": "Bassin du Cheylas",
+                "fr": "Bassin du Cheylas"
               },
               "tip_5lang": {
                 "de": "Genießen Sie den Blick auf das Wasser direkt aus dem Auto, falls es zu stark regnet; die Zufahrtsstraßen können bei Nässe etwas rutschig sein.",
                 "hu": "Élvezze a víz látványát közvetlenül az autóból, ha túl erősen esne; a bekötőutak vizesen csúszósak lehetnek, vezessen óvatosan a kanyarokban.",
                 "ro": "Admirați vederea apei direct din mașină dacă plouă prea tare; drumurile de acces pot fi alunecoase, conduceți cu prudență sporită.",
-                "en": "Enjoy the water view directly from your car if it rains too hard; the access roads can be slippery when wet, so take the turns slowly."
+                "en": "Enjoy the water view directly from your car if it rains too hard; the access roads can be slippery when wet, so take the turns slowly.",
+                "fr": "Profitez de la vue sur l'eau directement depuis votre voiture si la pluie est trop forte ; les voies d'accès peuvent devenir glissantes lorsqu'elles sont mouillées, prenez les virages lentement."
               }
             },
             {
@@ -937,13 +1037,15 @@
                 "de": "Panorama de Belledonne",
                 "hu": "Panorama de Belledonne",
                 "ro": "Panorama de Belledonne",
-                "en": "Panorama de Belledonne"
+                "en": "Panorama de Belledonne",
+                "fr": "Panorama de Belledonne"
               },
               "tip_5lang": {
                 "de": "Die Wolken hängen oft tief im Tal; nutzen Sie die Parkplätze mit bester Aussicht, um das Wetterphänomen geschützt aus dem Fahrzeug zu beobachten.",
                 "hu": "A felhők gyakran mélyen megülnek a völgyben; használja a legjobb kilátást nyújtó parkolóhelyeket, hogy védett helyről figyelje a jelenséget.",
                 "ro": "Norii stau adesea jos în vale; folosiți locurile de parcare cu cea mai bună vedere pentru a observa fenomenul din confortul mașinii.",
-                "en": "Clouds often hang low in the valley; use the parking spots with the best views to observe the weather phenomena from inside your vehicle."
+                "en": "Clouds often hang low in the valley; use the parking spots with the best views to observe the weather phenomena from inside your vehicle.",
+                "fr": "Les nuages pendent souvent bas dans la vallée ; utilisez les emplacements de parking offrant les meilleures vues pour observer les phénomènes météorologiques depuis l'habitacle."
               }
             },
             {
@@ -951,13 +1053,15 @@
                 "de": "Musée Bayard",
                 "hu": "Musée Bayard",
                 "ro": "Musée Bayard",
-                "en": "Musée Bayard"
+                "en": "Musée Bayard",
+                "fr": "Musée Bayard"
               },
               "tip_5lang": {
                 "de": "Der Parkplatz liegt nah am Eingang; nehmen Sie trotzdem einen Schirm mit für den kurzen Weg vom Auto bis in die trockenen Ausstellungsräume.",
                 "hu": "A parkoló közel van a bejárathoz; ennek ellenére vigyen esernyőt az autó és a száraz kiállítótermek közötti rövid szakasz megtételéhez.",
                 "ro": "Parcarea este aproape de intrare; totuși, luați o umbrelă pentru scurta distanță dintre mașină și sălile de expoziție uscate.",
-                "en": "The parking area is close to the entrance; nevertheless, take an umbrella for the short walk from the car to the dry exhibition rooms."
+                "en": "The parking area is close to the entrance; nevertheless, take an umbrella for the short walk from the car to the dry exhibition rooms.",
+                "fr": "Le parking est proche de l'entrée ; néanmoins, prenez un parapluie pour la courte marche entre la voiture et les salles d'exposition sèches."
               }
             },
             {
@@ -965,13 +1069,15 @@
                 "de": "Château de Bayard",
                 "hu": "Château de Bayard",
                 "ro": "Château de Bayard",
-                "en": "Château de Bayard"
+                "en": "Château de Bayard",
+                "fr": "Château de Bayard"
               },
               "tip_5lang": {
                 "de": "Die Auffahrt zum Schloss kann bei Regen schlammig sein; parken Sie auf befestigtem Untergrund, um ein Festfahren Ihres Autos zu vermeiden.",
                 "hu": "A várhoz vezető feljáró esőben saras lehet; parkoljon a kövezett vagy szilárd burkolatú részeken, hogy elkerülje az autó elakadását.",
                 "ro": "Urcarea spre castel poate fi noroioasă pe ploaie; parcați pe suprafețe pavate sau solide pentru a evita împotmolirea mașinii.",
-                "en": "The driveway to the castle can be muddy during rain; park on paved or solid surfaces to avoid getting your vehicle stuck in the soft mud."
+                "en": "The driveway to the castle can be muddy during rain; park on paved or solid surfaces to avoid getting your vehicle stuck in the soft mud.",
+                "fr": "L'allée menant au château peut être boueuse pendant la pluie ; garez-vous sur des surfaces pavées ou solides pour éviter d'enliser votre véhicule dans la boue molle."
               }
             },
             {
@@ -979,13 +1085,15 @@
                 "de": "Bassin du Flumet",
                 "hu": "Bassin du Flumet",
                 "ro": "Bassin du Flumet",
-                "en": "Bassin du Flumet"
+                "en": "Bassin du Flumet",
+                "fr": "Bassin du Flumet"
               },
               "tip_5lang": {
                 "de": "Achten Sie bei Regen auf die eingeschränkte Sicht durch Gischt; nutzen Sie das Fahrzeug als Basis für kurze Spaziergänge am Ufer des Beckens.",
                 "hu": "Esőben ügyeljen a felcsapódó víz miatti korlátozott látótávolságra; használja az autót bázisként a tározó partján tett rövid sétákhoz.",
                 "ro": "Atenție la vizibilitatea redusă cauzată de ploaie; folosiți mașina ca bază pentru scurte plimbări pe malul bazinului de acumulare.",
-                "en": "Watch out for limited visibility due to road spray; use your car as a base for quick, refreshing walks along the edge of the reservoir."
+                "en": "Watch out for limited visibility due to road spray; use your car as a base for quick, refreshing walks along the edge of the reservoir.",
+                "fr": "Faites attention à la visibilité réduite due aux projections d'eau ; servez-vous de votre voiture comme base pour de courtes promenades vivifiantes le long du réservoir."
               }
             },
             {
@@ -993,13 +1101,15 @@
                 "de": "Lac de Sainte-Hélène",
                 "hu": "Lac de Sainte-Hélène",
                 "ro": "Lac de Sainte-Hélène",
-                "en": "Lac de Sainte-Hélène"
+                "en": "Lac de Sainte-Hélène",
+                "fr": "Lac de Sainte-Hélène"
               },
               "tip_5lang": {
                 "de": "Die Umgebung des Sees ist bei Regen oft menschenleer und friedlich; genießen Sie die Ruhe vom Auto aus oder bei einer kurzen Seeumrundung.",
                 "hu": "A tó környéke esőben gyakran néptelen és békés; élvezze a csendet az autóból, vagy tegyen egy villámgyors kört a tó körül esőkabátban.",
                 "ro": "Zona lacului este adesea pustie și liniștită pe ploaie; bucurați-vă de liniște din mașină sau faceți o scurtă tură în jurul apei.",
-                "en": "The lake area is often deserted and peaceful during rain; enjoy the silence from your car or take a quick walk around with a raincoat."
+                "en": "The lake area is often deserted and peaceful during rain; enjoy the silence from your car or take a quick walk around with a raincoat.",
+                "fr": "La zone du lac est souvent déserte et paisible sous la pluie ; profitez du silence depuis votre voiture ou faites une courte promenade avec un imperméable."
               }
             },
             {
@@ -1007,13 +1117,15 @@
                 "de": "Plan d’eau des Lônes",
                 "hu": "Plan d’eau des Lônes",
                 "ro": "Plan d’eau des Lônes",
-                "en": "Plan d’eau des Lônes"
+                "en": "Plan d’eau des Lônes",
+                "fr": "Plan d’eau des Lônes"
               },
               "tip_5lang": {
                 "de": "Nutzen Sie die Parkmöglichkeiten mit Blick auf den See für ein Picknick im Auto, während Sie den Regentropfen auf der Scheibe zusehen.",
                 "hu": "Használja a tóra néző parkolóhelyeket egy hangulatos autós piknikhez, miközben az ablakon lecsorgó esőcseppeket figyeli az este előtt.",
                 "ro": "Folosiți locurile de parcare cu vedere la lac pentru un picnic în mașină, în timp ce priviți stropii de ploaie pe geam înainte de seară.",
-                "en": "Use the parking spots with lake views for a cozy car picnic while watching the raindrops on the window before heading back for the evening."
+                "en": "Use the parking spots with lake views for a cozy car picnic while watching the raindrops on the window before heading back for the evening.",
+                "fr": "Utilisez les emplacements de parking avec vue sur le lac pour un pique-nique douillet en voiture tout en regardant les gouttes de pluie sur la vitre avant de reprendre la route pour la soirée."
               }
             }
           ]
@@ -1023,7 +1135,8 @@
             "de": "Erkunden Sie Pontcharra im Winter mit dem Auto, um die verschneite Gebirgslandschaft der Alpen sicher zu genießen. Die Heizung sorgt für Komfort zwischen den Stopps an gefrorenen Seen und historischen Stätten. Das Musée Bayard bietet die perfekte Aufwärmpause am Nachmittag. Da es bereits gegen 17:00 Uhr dunkel wird, endet Ihre Tour mit einer stimmungsvollen Fahrt durch das beleuchtete Tal.",
             "hu": "Fedezze fel Pontcharrát télen autóval, hogy biztonságban élvezhesse az Alpok havas hegyi tájait. A fűtés kényelmet biztosít a befagyott tavak és történelmi helyszínek közötti megállók során. A Musée Bayard tökéletes délutáni melegedőhely. Mivel már 17:00 körül sötétedik, a túra a kivilágított völgyben tett hangulatos utazással zárul az állomás felé.",
             "ro": "Explorați Pontcharra iarna cu mașina pentru a vă bucura în siguranță de peisajele montane înzăpezite ale Alpilor. Căldura oferă confort între opririle la lacurile înghețate și siturile istorice. Musée Bayard este locul perfect pentru a vă încălzi după-amiaza. Deoarece se întunecă în jur de 17:00, turul se încheie cu o călătorie prin valea iluminată.",
-            "en": "Explore Pontcharra in winter by car to safely enjoy the snowy mountain landscapes of the Alps. The car's heater ensures comfort between stops at frozen lakes and historic sites. Musée Bayard offers the perfect afternoon warm-up break. Since it gets dark around 17:00, your tour ends with an atmospheric drive through the illuminated valley."
+            "en": "Explore Pontcharra in winter by car to safely enjoy the snowy mountain landscapes of the Alps. The car's heater ensures comfort between stops at frozen lakes and historic sites. Musée Bayard offers the perfect afternoon warm-up break. Since it gets dark around 17:00, your tour ends with an atmospheric drive through the illuminated valley.",
+            "fr": "Explorez Pontcharra en hiver en voiture pour profiter en toute sécurité des paysages enneigés des Alpes. Le chauffage de la voiture assure le confort entre les arrêts aux lacs gelés et aux sites historiques. Le Musée Bayard offre la pause idéale de l'après-midi pour se réchauffer. Comme il fait nuit vers 17:00, votre circuit se termine par une promenade atmosphérique à travers la vallée illuminée."
           },
           "stops": [
             {
@@ -1031,13 +1144,15 @@
                 "de": "Gare de Pontcharra",
                 "hu": "Gare de Pontcharra",
                 "ro": "Gare de Pontcharra",
-                "en": "Gare de Pontcharra"
+                "en": "Gare de Pontcharra",
+                "fr": "Gare de Pontcharra"
               },
               "tip_5lang": {
                 "de": "Achten Sie auf Glatteis auf dem Parkplatz; befreien Sie Ihre Scheiben komplett von Eis, bevor Sie die winterliche Tour durch das Tal starten.",
                 "hu": "Ügyeljen a jegesedésre a parkolóban; indulás előtt teljesen jégtelenítse az ablakokat, hogy tökéletes legyen a kilátás a havas tájra.",
                 "ro": "Atenție la polei în parcare; dezghețați complet geamurile înainte de a porni în tura de iarnă prin vale pentru o vizibilitate maximă.",
-                "en": "Watch out for black ice in the parking lot; clear all ice from your windows before starting your winter tour for maximum visibility."
+                "en": "Watch out for black ice in the parking lot; clear all ice from your windows before starting your winter tour for maximum visibility.",
+                "fr": "Attention au verglas noir sur le parking ; enlevez toute la glace de vos vitres avant de commencer votre tour hivernal pour une visibilité maximale."
               }
             },
             {
@@ -1050,7 +1165,8 @@
                 "de": "Die Straßen in Ufernähe können bei Frost sehr glatt sein; genießen Sie das Panorama des eisigen Beckens und halten Sie Abstand zum Fahrbahnrand.",
                 "hu": "A vízparti utak fagyban nagyon csúszósak lehetnek; csodálja meg a jeges tározó panorámáját, de tartson biztonságos távolságot az út szélétől.",
                 "ro": "Drumurile de lângă apă pot fi foarte alunecoase; admirați panorama bazinului înghețat, dar păstrați o distanță sigură de marginea drumului.",
-                "en": "Roads near the water can be very slick during frost; admire the panorama of the icy reservoir but keep a safe distance from the road edges."
+                "en": "Roads near the water can be very slick during frost; admire the panorama of the icy reservoir but keep a safe distance from the road edges.",
+                "fr": "Les routes près de l'eau peuvent être très glissantes en cas de gel ; admirez le panorama du réservoir glacé mais restez à distance des bords de la route."
               }
             },
             {
@@ -1058,13 +1174,15 @@
                 "de": "Panorama de Belledonne",
                 "hu": "Panorama de Belledonne",
                 "ro": "Panorama de Belledonne",
-                "en": "Panorama de Belledonne"
+                "en": "Panorama de Belledonne",
+                "fr": "Panorama de Belledonne"
               },
               "tip_5lang": {
                 "de": "Die Zufahrt zum Aussichtspunkt kann im Winter steil und rutschig sein; Winterreifen sind hier zwingend erforderlich für eine sichere Ankunft.",
                 "hu": "A kilátóhoz vezető út télen meredek és csúszós lehet; a téli gumi itt elengedhetetlen a biztonságos feljutáshoz és a kanyarok bevételéhez.",
                 "ro": "Accesul la punctul de belvedere poate fi abrupt și alunecos iarna; anvelopele de iarnă sunt obligatorii pentru a ajunge în siguranță sus.",
-                "en": "The access to the viewpoint can be steep and slippery in winter; winter tires are mandatory here for reaching the top safely in icy conditions."
+                "en": "The access to the viewpoint can be steep and slippery in winter; winter tires are mandatory here for reaching the top safely in icy conditions.",
+                "fr": "L'accès au point de vue peut être raide et glissant en hiver ; les pneus hiver sont obligatoires ici pour atteindre le sommet en toute sécurité par temps de verglas."
               }
             },
             {
@@ -1072,13 +1190,15 @@
                 "de": "Musée Bayard",
                 "hu": "Musée Bayard",
                 "ro": "Musée Bayard",
-                "en": "Musée Bayard"
+                "en": "Musée Bayard",
+                "fr": "Musée Bayard"
               },
               "tip_5lang": {
                 "de": "Nutzen Sie die Parkplätze direkt vor dem Museum; die Innenräume sind gut beheizt und bieten eine willkommene Abwechslung zur klaren Winterluft.",
                 "hu": "Használja a közvetlenül a múzeum előtti parkolókat; a belső terek jól fűtöttek, így kellemes felüdülést nyújtanak a kinti metsző hideg után.",
                 "ro": "Folosiți locurile de parcare din fața muzeului; spațiile interioare sunt bine încălzite, oferind un refugiu plăcut de frigul de afară.",
-                "en": "Use the parking spaces right in front of the museum; the interior rooms are well-heated, offering a welcome break from the freezing winter air."
+                "en": "Use the parking spaces right in front of the museum; the interior rooms are well-heated, offering a welcome break from the freezing winter air.",
+                "fr": "Utilisez les places de parking juste devant le musée ; les salles intérieures sont bien chauffées, offrant une pause bienvenue de l'air glacial hivernal."
               }
             },
             {
@@ -1086,13 +1206,15 @@
                 "de": "Château de Bayard",
                 "hu": "Château de Bayard",
                 "ro": "Château de Bayard",
-                "en": "Château de Bayard"
+                "en": "Château de Bayard",
+                "fr": "Château de Bayard"
               },
               "tip_5lang": {
                 "de": "Besuchen Sie das Schloss vor 16:30 Uhr, um das letzte Tageslicht zu nutzen; die Schatten der Burg werden im Winter sehr früh lang und dunkel.",
                 "hu": "Látogassa meg a várat 16:30 előtt, hogy kihasználja az utolsó fényeket; a vár árnyékai télen nagyon hamar megnyúlnak és sötétbe borulnak.",
                 "ro": "Vizitați castelul înainte de 16:30 pentru a profita de ultima lumină; umbrele zidurilor devin foarte lungi și întunecate devreme iarna.",
-                "en": "Visit the castle before 16:30 to make the most of the last daylight; the shadows of the ruins become long and dark very early in winter."
+                "en": "Visit the castle before 16:30 to make the most of the last daylight; the shadows of the ruins become long and dark very early in winter.",
+                "fr": "Visitez le château avant 16:30 pour profiter au maximum des dernières lueurs du jour ; les ombres des ruines deviennent longues et sombres très tôt en hiver."
               }
             },
             {
@@ -1100,13 +1222,15 @@
                 "de": "Bassin du Flumet",
                 "hu": "Bassin du Flumet",
                 "ro": "Bassin du Flumet",
-                "en": "Bassin du Flumet"
+                "en": "Bassin du Flumet",
+                "fr": "Bassin du Flumet"
               },
               "tip_5lang": {
                 "de": "Stellen Sie sicher, dass Ihr Wischwasser Frostschutz enthält; die Gischt auf den Straßen um das Becken kann bei Minusgraden sofort gefrieren.",
                 "hu": "Győződjön meg róla, hogy a szélvédőmosó fagyálló; a tározó körüli utakról felcsapódó víz fagypont alatt azonnal a szélvédőre fagyhat.",
                 "ro": "Asigurați-vă că lichidul de parbriz este antigel; apa pulverizată de pe drumurile din jurul bazinului poate îngheța instantaneu pe parbriz.",
-                "en": "Ensure your washer fluid contains antifreeze; spray from the roads around the basin can freeze instantly on your windshield in sub-zero temps."
+                "en": "Ensure your washer fluid contains antifreeze; spray from the roads around the basin can freeze instantly on your windshield in sub-zero temps.",
+                "fr": "Assurez-vous que votre liquide lave-glace contient un antigel ; les projections de la route autour du bassin peuvent geler instantanément sur votre pare-brise par températures négatives."
               }
             },
             {
@@ -1114,13 +1238,15 @@
                 "de": "Lac de Sainte-Hélène",
                 "hu": "Lac de Sainte-Hélène",
                 "ro": "Lac de Sainte-Hélène",
-                "en": "Lac de Sainte-Hélène"
+                "en": "Lac de Sainte-Hélène",
+                "fr": "Lac de Sainte-Hélène"
               },
               "tip_5lang": {
                 "de": "Die winterliche Ruhe am See ist am besten vom beheizten Auto aus zu genießen; achten Sie auf Wildwechsel in der Dämmerung auf den Zufahrtswegen.",
                 "hu": "A tó téli nyugalmát leginkább a fűtött autóból élvezheti; a szürkületben ügyeljen a vadállatokra a bekötőutakon a tó környékén.",
                 "ro": "Liniștea de iarnă a lacului este cel mai bine savurată din mașina încălzită; atenție la animalele sălbatice pe drum la lăsarea serii.",
-                "en": "The winter tranquility of the lake is best enjoyed from your heated car; watch out for wildlife crossing the access roads at twilight."
+                "en": "The winter tranquility of the lake is best enjoyed from your heated car; watch out for wildlife crossing the access roads at twilight.",
+                "fr": "La tranquillité hivernale du lac se savoure mieux depuis votre voiture chauffée ; soyez attentif à la faune qui traverse les voies d'accès au crépuscule."
               }
             },
             {
@@ -1128,13 +1254,15 @@
                 "de": "Plan d’eau des Lônes",
                 "hu": "Plan d’eau des Lônes",
                 "ro": "Plan d’eau des Lônes",
-                "en": "Plan d’eau des Lônes"
+                "en": "Plan d’eau des Lônes",
+                "fr": "Plan d’eau des Lônes"
               },
               "tip_5lang": {
                 "de": "Da es ab 17:00 Uhr dunkel ist, beenden Sie den Tag hier mit Blick auf die beleuchteten Siedlungen; prüfen Sie Ihre Beleuchtung für die Rückfahrt.",
                 "hu": "Mivel 17:00 után besötétedik, zárja itt a napot a kivilágított települések látványával; ellenőrizze a fényszórókat a biztonságos hazaúthoz.",
                 "ro": "Deoarece se întunecă după ora 17:00, încheiați ziua admirând luminile localității; verificați farurile pentru drumul sigur spre casă.",
-                "en": "As it gets dark after 17:00, end your day here admiring the town lights; check your headlights for a safe return journey to the station."
+                "en": "As it gets dark after 17:00, end your day here admiring the town lights; check your headlights for a safe return journey to the station.",
+                "fr": "Comme il fait nuit après 17:00, terminez votre journée ici en admirant les lumières du village ; vérifiez vos phares pour un retour en toute sécurité vers la gare."
               }
             }
           ]

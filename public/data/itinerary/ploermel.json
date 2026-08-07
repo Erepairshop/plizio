@@ -21,7 +21,8 @@
             "de": "Chapelle des Ursulines",
             "hu": "Chapelle des Ursulines",
             "ro": "Chapelle des Ursulines",
-            "en": "Chapelle des Ursulines"
+            "en": "Chapelle des Ursulines",
+            "fr": "Chapelle des Ursulines"
           },
           "coords": [
             -2.395528,
@@ -36,7 +37,8 @@
             "de": "Besuchen Sie diese historische Kapelle, ein bemerkenswertes Stück lokalen Erbes mit wunderschönen Altarbildern, und treten Sie im frühen Morgenlicht ein, um die Reflexionen an den Wänden zu sehen.",
             "hu": "Látogassa meg ezt a történelmi kápolnát, amely gyönyörű oltárképeivel a helyi örökség figyelemre méltó része, és lépjen be a kora reggeli fényben, hogy lássa a falakon táncoló tükröződéseket.",
             "ro": "Vizitați această capelă istorică, o piesă remarcabilă a patrimoniului local cu altare frumoase, și intrați în lumina dimineții pentru a vedea reflexiile pe pereții de piatră.",
-            "en": "Visit this historic chapel, a remarkable piece of local heritage with beautiful altarpieces, and step inside during early morning light to see the vibrant reflections on the stone walls."
+            "en": "Visit this historic chapel, a remarkable piece of local heritage with beautiful altarpieces, and step inside during early morning light to see the vibrant reflections on the stone walls.",
+            "fr": "Visitez cette chapelle historique, remarquable pièce du patrimoine local aux beaux retables, et entrez tôt le matin pour voir les reflets vibrants sur les murs de pierre."
           }
         },
         {
@@ -44,7 +46,8 @@
             "de": "Église Saint-Armel",
             "hu": "Église Saint-Armel",
             "ro": "Église Saint-Armel",
-            "en": "Église Saint-Armel"
+            "en": "Église Saint-Armel",
+            "fr": "Église Saint-Armel"
           },
           "coords": [
             -2.398106,
@@ -59,7 +62,8 @@
             "de": "Erkunden Sie diese atemberaubende spätgotische Kirche, die für ihre majestätischen Buntglasfenster und aufwendig geschnitzten Portale bekannt ist, und genießen Sie die ruhige spirituelle Atmosphäre im Inneren.",
             "hu": "Fedezze fel ezt a lenyűgöző késő gótikus templomot, amely fenséges ólomüveg ablakairól és faragott portáljairól ismert, és szánjon egy percet a csendes spirituális atmoszféra élvezetére.",
             "ro": "Explorați această uimitoare biserică în stil gotic târziu, cunoscută pentru vitraliile sale maiestuoase și portalurile sculptate, și bucurați-vă de o clipă de liniște spirituală în interior.",
-            "en": "Explore this stunning late-Gothic church known for its majestic stained-glass windows and intricately carved portals, taking a moment to appreciate the quiet spiritual atmosphere inside."
+            "en": "Explore this stunning late-Gothic church known for its majestic stained-glass windows and intricately carved portals, taking a moment to appreciate the quiet spiritual atmosphere inside.",
+            "fr": "Explorez cette magnifique église gothique tardive, réputée pour ses vitraux majestueux et ses portails finement sculptés ; prenez un moment pour apprécier l’atmosphère spirituelle et paisible à l’intérieur."
           }
         },
         {
@@ -67,7 +71,8 @@
             "de": "Maison des Marmousets",
             "hu": "Maison des Marmousets",
             "ro": "Maison des Marmousets",
-            "en": "Maison des Marmousets"
+            "en": "Maison des Marmousets",
+            "fr": "Maison des Marmousets"
           },
           "coords": [
             -2.398833,
@@ -82,7 +87,8 @@
             "de": "Bewundern Sie die markante holzgeschnitzte Fassade dieses Hauses aus dem 16. Jahrhundert, das einen Einblick in die lokale Geschichte bietet, und achten Sie auf die aufwendigen Figuren, bevor Sie einen Kaffee trinken.",
             "hu": "Csodálja meg ennek a 16. századi háznak a lenyűgöző fametszetes homlokzatát, amely bepillantást enged a helyi történelembe, és figyelje meg a bonyolult figurákat, mielőtt meginna egy kávét a közelben.",
             "ro": "Admirați fațada sculptată în lemn a acestei case din secolul al XVI-lea, care oferă o privire în istoria locală, și căutați figurinele complicate înainte de a savura o cafea în apropiere.",
-            "en": "Admire the striking wood-carved facade of this 16th-century house, which offers a glimpse into local history, and look for the intricate figurines before grabbing a nearby coffee."
+            "en": "Admire the striking wood-carved facade of this 16th-century house, which offers a glimpse into local history, and look for the intricate figurines before grabbing a nearby coffee.",
+            "fr": "Admirez la façade en bois sculpté de cette maison du XVIe siècle, qui offre un aperçu de l’histoire locale ; cherchez les figurines détaillées avant d’aller prendre un café à proximité."
           }
         },
         {
@@ -90,7 +96,8 @@
             "de": "Horloge Astronomique",
             "hu": "Horloge Astronomique",
             "ro": "Horloge Astronomique",
-            "en": "Horloge Astronomique"
+            "en": "Horloge Astronomique",
+            "fr": "Horloge Astronomique"
           },
           "coords": [
             -2.399581,
@@ -105,7 +112,8 @@
             "de": "Bestaunen Sie diese beeindruckende astronomische Uhr aus dem 19. Jahrhundert, die von einem lokalen Mönch erbaut wurde, und beobachten Sie ihre komplexen Mechanismen beim Stundenwechsel.",
             "hu": "Csodálja meg ezt a lenyűgöző 19. századi csillagászati órát, amelyet egy helyi szerzetes épített, és figyelje meg a bolygókat is mutató bonyolult mechanizmusokat az óraváltáskor.",
             "ro": "Minunați-vă de acest impresionant ceas astronomic din secolul al XIX-lea, construit de un călugăr local, observând mecanismele sale complexe și afișajele planetare în timpul schimbării orei.",
-            "en": "Marvel at this impressive 19th-century astronomical clock built by a local monk, observing its complex mechanisms and planetary displays during the hour change."
+            "en": "Marvel at this impressive 19th-century astronomical clock built by a local monk, observing its complex mechanisms and planetary displays during the hour change.",
+            "fr": "Merveillez devant cette impressionnante horloge astronomique du XIXe siècle construite par un moine local, et observez ses mécanismes complexes et ses indications planétaires pendant le changement d’heure."
           }
         },
         {
@@ -113,7 +121,8 @@
             "de": "Lac au Duc",
             "hu": "Lac au Duc",
             "ro": "Lac au Duc",
-            "en": "Lac au Duc"
+            "en": "Lac au Duc",
+            "fr": "Lac au Duc"
           },
           "coords": [
             -2.414304,
@@ -128,7 +137,8 @@
             "de": "Entspannen Sie sich an den weiten Gewässern dieses malerischen Sees, ideal für Naturliebhaber, und mieten Sie ein Tretboot oder spazieren Sie auf den mit Hortensien gesäumten Uferpfaden.",
             "hu": "Pihenjen ennek a festői tónak a hatalmas vize partján, amely tökéletes a természet kedvelőinek, és béreljen vízibiciklit, vagy sétáljon a part menti hortenziákkal övezett ösvényeken.",
             "ro": "Relaxați-vă pe malurile acestui lac pitoresc, perfect pentru iubitorii de natură, și luați în considerare închirierea unei hidrobiciclete sau plimbarea pe potecile pline de hortensii.",
-            "en": "Relax by the vast waters of this scenic lake, perfect for nature lovers and outdoor enthusiasts, and consider renting a pedal boat or strolling the hydrangea-lined paths along the shore."
+            "en": "Relax by the vast waters of this scenic lake, perfect for nature lovers and outdoor enthusiasts, and consider renting a pedal boat or strolling the hydrangea-lined paths along the shore.",
+            "fr": "Détendez-vous au bord des vastes eaux de ce lac pittoresque, idéal pour les amoureux de la nature : pensez à louer un pédalo ou à vous promener le long des allées bordées d’hortensias."
           }
         }
       ],
@@ -136,7 +146,8 @@
         "de": "Der Morgen beginnt mit der historischen Chapelle des Ursulines und der Église Saint-Armel im Zentrum. Der Mittag lädt ein, die geschnitzte Maison des Marmousets zu entdecken. Der Nachmittag wird mit der Mechanik der astronomischen Uhr fortgesetzt. Der Abend endet mit einem entspannten Spaziergang zum ruhigen Lac au Duc.",
         "hu": "A reggel a történelmi Chapelle des Ursulines-nél és a központi Église Saint-Armel-nél kezdődik. A délidő a fafaragásos Maison des Marmousets felfedezésére hív. A délután az asztronómiai óra lenyűgöző mechanikájával folytatódik. Az este egy pihentető sétával zárul a festői Lac au Duc partján, a naplementét figyelve.",
         "ro": "Dimineața începe cu capela istorică Ursulines și grandioasa Église Saint-Armel. Amiaza vă invită să descoperiți secretele sculpturilor de la Maison des Marmousets. După-amiaza continuă cu mecanica fascinantă a ceasului astronomic. Seara se încheie cu o plimbare relaxantă către seninul Lac au Duc.",
-        "en": "Morning begins with the historic Chapelle des Ursulines and the grand Église Saint-Armel in the town center. Midday invites you to uncover the secrets of the carved Maison des Marmousets. Afternoon continues with the fascinating mechanics of the Horloge Astronomique. Evening concludes with a relaxing, longer walk out to the serene Lac au Duc for sunset views."
+        "en": "Morning begins with the historic Chapelle des Ursulines and the grand Église Saint-Armel in the town center. Midday invites you to uncover the secrets of the carved Maison des Marmousets. Afternoon continues with the fascinating mechanics of the Horloge Astronomique. Evening concludes with a relaxing, longer walk out to the serene Lac au Duc for sunset views.",
+        "fr": "La matinée commence par la Chapelle des Ursulines et la grandiose Église Saint-Armel au centre-ville. La mi-journée vous invite à percer les secrets de la Maison des Marmousets. L’après-midi se poursuit avec les fascinants mécanismes de l’Horloge Astronomique. La soirée se conclut par une longue et relaxante promenade jusqu’au serein Lac au Duc pour le coucher du soleil."
       },
       "variants": {
         "rainy": {
@@ -144,7 +155,8 @@
             "de": "Beginnen Sie den regnerischen Morgen in Ploërmels historischen Kapellen, die perfekten Schutz bieten. Mittags spazieren Sie über nasses Pflaster zur astronomischen Uhr im Innenbereich. Nachmittags spazieren Sie in Regenkleidung zum stimmungsvollen See. Beenden Sie den Tag in einem gemütlichen Café nach Ihrem nassen, aber lohnenden Spaziergang.",
             "hu": "Kezdje az esős reggelt Ploërmel történelmi kápolnáiban, melyek tökéletes menedéket nyújtanak. Délben a nedves macskaköveken át érje el a beltéri csillagászati órát. Délután vízálló ruhában tegyen egy hangulatos sétát a tóparton. Zárja a napot egy kávézóban, felmelegedve a vizes, de csodás séta után.",
             "ro": "Începeți dimineața ploioasă explorând capelele istorice din Ploërmel, adăpostul perfect. La prânz, navigați pe pietrele umede pentru a vedea ceasul astronomic în interior. După-amiaza, îmbrăcați-vă impermeabil pentru o plimbare atmosferică la lac. Încheiați ziua încălzindu-vă într-o cafenea locală după traseul umed.",
-            "en": "Start your rainy morning exploring Ploërmel's historic chapels, offering perfect shelter. By noon, navigate the wet cobblestones to admire the unique astronomical clock indoors. In the afternoon, bundle up in waterproofs for a moody, atmospheric walk by the lake. Conclude the day warming up in a local café after your wet but rewarding stroll."
+            "en": "Start your rainy morning exploring Ploërmel's historic chapels, offering perfect shelter. By noon, navigate the wet cobblestones to admire the unique astronomical clock indoors. In the afternoon, bundle up in waterproofs for a moody, atmospheric walk by the lake. Conclude the day warming up in a local café after your wet but rewarding stroll.",
+            "fr": "Commencez votre matinée pluvieuse en explorant les chapelles historiques de Ploërmel, parfaites pour s’abriter. À midi, circulez sur les pavés mouillés pour admirer l’unique horloge astronomique à l’intérieur. L’après-midi, couvrez-vous de vêtements imperméables pour une balade d’atmosphère au bord du lac. Concluez la journée en vous réchauffant dans un café local après votre promenade humide mais gratifiante."
           },
           "stops": [
             {
@@ -152,13 +164,15 @@
                 "de": "Chapelle des Ursulines",
                 "hu": "Chapelle des Ursulines",
                 "ro": "Chapelle des Ursulines",
-                "en": "Chapelle des Ursulines"
+                "en": "Chapelle des Ursulines",
+                "fr": "Chapelle des Ursulines"
               },
               "tip_5lang": {
                 "de": "Suchen Sie Schutz in dieser schönen Kapelle; achten Sie auf rutschige Steine am Eingang.",
                 "hu": "Keressen menedéket a kápolnában; vigyázzon a bejáratnál lévő csúszós és nedves kövekkel.",
                 "ro": "Căutați adăpost în această capelă frumoasă; atenție la pietrele umede și alunecoase la intrare.",
-                "en": "Seek shelter inside this beautiful chapel; watch your step on the wet entrance stones."
+                "en": "Seek shelter inside this beautiful chapel; watch your step on the wet entrance stones.",
+                "fr": "Cherchez refuge à l’intérieur de cette belle chapelle ; faites attention aux pierres d’entrée mouillées."
               }
             },
             {
@@ -166,13 +180,15 @@
                 "de": "Église Saint-Armel",
                 "hu": "Église Saint-Armel",
                 "ro": "Église Saint-Armel",
-                "en": "Église Saint-Armel"
+                "en": "Église Saint-Armel",
+                "fr": "Église Saint-Armel"
               },
               "tip_5lang": {
                 "de": "Das trockene Innere ist ein perfekter Zufluchtsort; die Glasfenster wirken bei Regen dunkler.",
                 "hu": "A száraz belső tér tökéletes menedék az eső elől; az üvegablakok sötétebbnek tűnnek.",
                 "ro": "Interiorul uscat este un refugiu perfect; vitraliile par mai întunecate în ploaie.",
-                "en": "The magnificent stained glass looks darker in the rain, but the dry interior is a perfect refuge."
+                "en": "The magnificent stained glass looks darker in the rain, but the dry interior is a perfect refuge.",
+                "fr": "Les vitraux paraissent plus sombres sous la pluie, mais l’intérieur sec est un refuge parfait."
               }
             },
             {
@@ -180,13 +196,15 @@
                 "de": "Maison des Marmousets",
                 "hu": "Maison des Marmousets",
                 "ro": "Maison des Marmousets",
-                "en": "Maison des Marmousets"
+                "en": "Maison des Marmousets",
+                "fr": "Maison des Marmousets"
               },
               "tip_5lang": {
                 "de": "Bewundern Sie die Holzfassade unter einem Regenschirm; das Dach bietet etwas Schutz.",
                 "hu": "Csodálja meg a fafaragásokat esernyő alól; a kinyúló eresz nyújt némi védelmet.",
                 "ro": "Admirați fațada din lemn sub umbrelă; streșinile proeminente oferă puțină acoperire.",
-                "en": "Admire the carved wooden facade under an umbrella; the overhanging eaves provide a bit of cover."
+                "en": "Admire the carved wooden facade under an umbrella; the overhanging eaves provide a bit of cover.",
+                "fr": "Admirez la façade en bois sculpté sous un parapluie ; les avant-toits offrent un peu d’abri."
               }
             },
             {
@@ -194,13 +212,15 @@
                 "de": "Horloge Astronomique",
                 "hu": "Horloge Astronomique",
                 "ro": "Horloge Astronomique",
-                "en": "Horloge Astronomique"
+                "en": "Horloge Astronomique",
+                "fr": "Horloge Astronomique"
               },
               "tip_5lang": {
                 "de": "Ein fantastisches Innenwunder; nehmen Sie sich Zeit, um starke Regenschauer abzuwarten.",
                 "hu": "Fantasztikus beltéri csoda; szánjon rá időt, míg kint eláll a heves esőzés.",
                 "ro": "O minune interioară; acordați-vă timp studiind mecanismul în timp ce așteptați să treacă ploaia.",
-                "en": "A fantastic indoor marvel; take your time studying the mechanism while waiting out any heavy showers."
+                "en": "A fantastic indoor marvel; take your time studying the mechanism while waiting out any heavy showers.",
+                "fr": "Une merveille intérieure fantastique ; prenez le temps d’étudier le mécanisme en attendant la fin des fortes averses."
               }
             },
             {
@@ -208,13 +228,15 @@
                 "de": "Lac au Duc",
                 "hu": "Lac au Duc",
                 "ro": "Lac au Duc",
-                "en": "Lac au Duc"
+                "en": "Lac au Duc",
+                "fr": "Lac au Duc"
               },
               "tip_5lang": {
                 "de": "Der See hat im Regen eine mystische Atmosphäre; tragen Sie wasserdichte Stiefel für die Pfade.",
                 "hu": "A tó esőben misztikus arcát mutatja; vegyen fel vízálló cipőt a saras ösvények miatt.",
                 "ro": "Lacul are o vibrație mistică în ploaie; purtați cizme impermeabile pentru potecile noroioase.",
-                "en": "The lake has a mystical vibe in the rain; wear sturdy waterproof boots for the muddy lakeside paths."
+                "en": "The lake has a mystical vibe in the rain; wear sturdy waterproof boots for the muddy lakeside paths.",
+                "fr": "Le lac dégage une ambiance mystique sous la pluie ; portez des bottes imperméables robustes pour les sentiers boueux au bord de l’eau."
               }
             }
           ]
@@ -224,7 +246,8 @@
             "de": "Packen Sie sich warm ein für einen frischen Wintermorgen in den historischen Kapellen. Mittags bietet die astronomische Uhr einen gemütlichen Rückzugsort. Die Nachmittagskälte am See erfordert zusätzliche Schichten, aber die frostige Aussicht ist atemberaubend. Beenden Sie Ihren Spaziergang vor dem frühen Sonnenuntergang um 17 Uhr.",
             "hu": "Öltözzön melegen a csípős téli reggelen, miközben bejárja a történelmi kápolnákat. Délben a csillagászati óra hangulatos, meleg beltéri menedéket ad. Délután a tónál extra rétegekre lesz szükség a hideg szél miatt. Fejezze be a sétát a korai, délután 5 órás naplemente előtt, és térjen be egy meleg helyre.",
             "ro": "Îmbrăcați-vă călduros pentru o dimineață de iarnă explorând capelele istorice. La prânz, ceasul astronomic oferă o retragere interioară confortabilă. Frigul de după-amiază de la lac necesită straturi suplimentare, dar priveliștea înghețată este uimitoare. Terminați plimbarea înainte de apusul devreme, în jur de ora 17.",
-            "en": "Wrap up warmly for a brisk winter morning exploring the historic chapels of Ploërmel. Midday brings you to the fascinating astronomical clock, a cozy indoor retreat. The afternoon chill by the lake requires extra layers, but the frosty views are stunning. Finish your walk before the early 5 PM sunset sets in."
+            "en": "Wrap up warmly for a brisk winter morning exploring the historic chapels of Ploërmel. Midday brings you to the fascinating astronomical clock, a cozy indoor retreat. The afternoon chill by the lake requires extra layers, but the frosty views are stunning. Finish your walk before the early 5 PM sunset sets in.",
+            "fr": "Couvrez-vous chaudement pour une matinée hivernale vivifiante à explorer les chapelles historiques de Ploërmel. La mi-journée vous mène à l’horloge astronomique fascinante, un abri intérieur chaleureux. Le froid de l’après-midi au bord du lac demande des couches supplémentaires, mais les vues givrées sont splendides. Terminez votre balade avant le coucher du soleil anticipé à 17 h."
           },
           "stops": [
             {
@@ -232,13 +255,15 @@
                 "de": "Chapelle des Ursulines",
                 "hu": "Chapelle des Ursulines",
                 "ro": "Chapelle des Ursulines",
-                "en": "Chapelle des Ursulines"
+                "en": "Chapelle des Ursulines",
+                "fr": "Chapelle des Ursulines"
               },
               "tip_5lang": {
                 "de": "Genießen Sie die ruhige Winteratmosphäre; behalten Sie die Handschuhe an, da die Wände kalt sind.",
                 "hu": "Élvezze a csendes téli hangulatot; tartsa magán a kesztyűt, mert a kőfalak jéghidegek.",
                 "ro": "Bucurați-vă de atmosfera liniștită de iarnă; păstrați mănușile, pereții de piatră sunt reci.",
-                "en": "Enjoy the quiet winter atmosphere inside; keep your gloves on as the stone walls can be freezing."
+                "en": "Enjoy the quiet winter atmosphere inside; keep your gloves on as the stone walls can be freezing.",
+                "fr": "Profitez de l’atmosphère hivernale calme à l’intérieur ; gardez vos gants car les murs de pierre peuvent être glacés."
               }
             },
             {
@@ -246,13 +271,15 @@
                 "de": "Église Saint-Armel",
                 "hu": "Église Saint-Armel",
                 "ro": "Église Saint-Armel",
-                "en": "Église Saint-Armel"
+                "en": "Église Saint-Armel",
+                "fr": "Église Saint-Armel"
               },
               "tip_5lang": {
                 "de": "Treten Sie ein, um dem beißenden Wind zu entkommen und die Architektur im Winterlicht zu sehen.",
                 "hu": "Lépjen be, hogy elmeneküljön a metsző szél elől, és csodálja meg a belső teret téli fényben.",
                 "ro": "Intrați pentru a scăpa de vântul tăios și admirați arhitectura istorică în lumina iernii.",
-                "en": "Step inside to escape the biting wind and marvel at the intricate historical architecture in winter light."
+                "en": "Step inside to escape the biting wind and marvel at the intricate historical architecture in winter light.",
+                "fr": "Entrez pour échapper au vent mordant et admirez l’architecture historique complexe sous la lumière hivernale."
               }
             },
             {
@@ -260,13 +287,15 @@
                 "de": "Maison des Marmousets",
                 "hu": "Maison des Marmousets",
                 "ro": "Maison des Marmousets",
-                "en": "Maison des Marmousets"
+                "en": "Maison des Marmousets",
+                "fr": "Maison des Marmousets"
               },
               "tip_5lang": {
                 "de": "Die Holzschnitzereien wirken mit Frost magisch; ziehen Sie sich warm an fürs Stehen im Freien.",
                 "hu": "A fafaragások varázslatosak egy kis dérrel; öltözzön melegen, mert kint fog állni.",
                 "ro": "Sculpturile arată magic cu puțină brumă; îmbrăcați-vă gros deoarece veți sta afară.",
-                "en": "The wooden carvings look magical with a touch of frost; dress warmly as you'll be standing outside."
+                "en": "The wooden carvings look magical with a touch of frost; dress warmly as you'll be standing outside.",
+                "fr": "Les sculptures sur bois paraissent magiques avec une légère gelée ; habillez-vous chaudement car vous serez à l’extérieur."
               }
             },
             {
@@ -274,13 +303,15 @@
                 "de": "Horloge Astronomique",
                 "hu": "Horloge Astronomique",
                 "ro": "Horloge Astronomique",
-                "en": "Horloge Astronomique"
+                "en": "Horloge Astronomique",
+                "fr": "Horloge Astronomique"
               },
               "tip_5lang": {
                 "de": "Ein warmer Ort, um die Hände aufzutauen, während Sie das astronomische Zifferblatt beobachten.",
                 "hu": "Tökéletes meleg megálló, ahol felolvaszthatja a kezét, miközben a mechanikát figyeli.",
                 "ro": "O oprire caldă perfectă pentru a vă dezgheța mâinile în timp ce observați cadranul astronomic.",
-                "en": "A perfect warm stop to thaw your hands while observing the fascinating 19th-century astronomical dial."
+                "en": "A perfect warm stop to thaw your hands while observing the fascinating 19th-century astronomical dial.",
+                "fr": "Un arrêt chaleureux parfait pour réchauffer vos mains tout en observant le fascinant cadran astronomique du XIXe siècle."
               }
             },
             {
@@ -288,13 +319,15 @@
                 "de": "Lac au Duc",
                 "hu": "Lac au Duc",
                 "ro": "Lac au Duc",
-                "en": "Lac au Duc"
+                "en": "Lac au Duc",
+                "fr": "Lac au Duc"
               },
               "tip_5lang": {
                 "de": "Die eisige Brise vom Wasser ist scharf, tragen Sie eine Windjacke für die Winterlandschaft.",
                 "hu": "A vízről fújó fagyos szél erős, ezért viseljen szélkabátot a téli táj élvezetéhez.",
                 "ro": "Briza înghețată de pe apă este puternică, purtați o jachetă de vânt pentru peisajul de iarnă.",
-                "en": "The freezing breeze off the water is sharp, so wear a windbreaker and enjoy the crisp winter scenery."
+                "en": "The freezing breeze off the water is sharp, so wear a windbreaker and enjoy the crisp winter scenery.",
+                "fr": "La brise glaciale venant de l’eau est vive, portez une veste coupe-vent et profitez du paysage hivernal vif."
               }
             }
           ]
@@ -314,7 +347,8 @@
             "de": "Chapelle des Ursulines",
             "hu": "Chapelle des Ursulines",
             "ro": "Chapelle des Ursulines",
-            "en": "Chapelle des Ursulines"
+            "en": "Chapelle des Ursulines",
+            "fr": "Chapelle des Ursulines"
           },
           "coords": [
             -2.395528,
@@ -329,7 +363,8 @@
             "de": "Besuchen Sie diese historische Kapelle, ein bemerkenswertes Stück lokalen Erbes mit wunderschönen Altarbildern, und treten Sie im frühen Morgenlicht ein, um die Reflexionen an den Wänden zu sehen.",
             "hu": "Látogassa meg ezt a történelmi kápolnát, amely gyönyörű oltárképeivel a helyi örökség figyelemre méltó része, és lépjen be a kora reggeli fényben, hogy lássa a falakon táncoló tükröződéseket.",
             "ro": "Vizitați această capelă istorică, o piesă remarcabilă a patrimoniului local cu altare frumoase, și intrați în lumina dimineții pentru a vedea reflexiile pe pereții de piatră.",
-            "en": "Visit this historic chapel, a remarkable piece of local heritage with beautiful altarpieces, and step inside during early morning light to see the vibrant reflections on the stone walls."
+            "en": "Visit this historic chapel, a remarkable piece of local heritage with beautiful altarpieces, and step inside during early morning light to see the vibrant reflections on the stone walls.",
+            "fr": "Visitez cette chapelle historique, remarquable patrimoine local avec de beaux retables ; entrez tôt le matin pour voir les reflets vibrants sur les murs de pierre."
           }
         },
         {
@@ -337,7 +372,8 @@
             "de": "Église Saint-Armel",
             "hu": "Église Saint-Armel",
             "ro": "Église Saint-Armel",
-            "en": "Église Saint-Armel"
+            "en": "Église Saint-Armel",
+            "fr": "Église Saint-Armel"
           },
           "coords": [
             -2.398106,
@@ -352,7 +388,8 @@
             "de": "Erkunden Sie diese atemberaubende spätgotische Kirche, die für ihre majestätischen Buntglasfenster und aufwendig geschnitzten Portale bekannt ist, und genießen Sie die ruhige spirituelle Atmosphäre im Inneren.",
             "hu": "Fedezze fel ezt a lenyűgöző késő gótikus templomot, amely fenséges ólomüveg ablakairól és faragott portáljairól ismert, és szánjon egy percet a csendes spirituális atmoszféra élvezetére.",
             "ro": "Explorați această uimitoare biserică în stil gotic târziu, cunoscută pentru vitraliile sale maiestuoase și portalurile sculptate, și bucurați-vă de o clipă de liniște spirituală în interior.",
-            "en": "Explore this stunning late-Gothic church known for its majestic stained-glass windows and intricately carved portals, taking a moment to appreciate the quiet spiritual atmosphere inside."
+            "en": "Explore this stunning late-Gothic church known for its majestic stained-glass windows and intricately carved portals, taking a moment to appreciate the quiet spiritual atmosphere inside.",
+            "fr": "Explorez cette magnifique église gothique tardive connue pour ses vitraux majestueux et ses portails finement sculptés, et prenez un moment pour apprécier l’atmosphère spirituelle calme à l’intérieur."
           }
         },
         {
@@ -360,7 +397,8 @@
             "de": "Horloge Astronomique",
             "hu": "Horloge Astronomique",
             "ro": "Horloge Astronomique",
-            "en": "Horloge Astronomique"
+            "en": "Horloge Astronomique",
+            "fr": "Horloge Astronomique"
           },
           "coords": [
             -2.399581,
@@ -375,7 +413,8 @@
             "de": "Bestaunen Sie diese beeindruckende astronomische Uhr aus dem 19. Jahrhundert, die von einem lokalen Mönch erbaut wurde, und beobachten Sie ihre komplexen Mechanismen beim Stundenwechsel.",
             "hu": "Csodálja meg ezt a lenyűgöző 19. századi csillagászati órát, amelyet egy helyi szerzetes épített, és figyelje meg a bolygókat is mutató bonyolult mechanizmusokat az óraváltáskor.",
             "ro": "Minunați-vă de acest impresionant ceas astronomic din secolul al XIX-lea, construit de un călugăr local, observând mecanismele sale complexe și afișajele planetare în timpul schimbării orei.",
-            "en": "Marvel at this impressive 19th-century astronomical clock built by a local monk, observing its complex mechanisms and planetary displays during the hour change."
+            "en": "Marvel at this impressive 19th-century astronomical clock built by a local monk, observing its complex mechanisms and planetary displays during the hour change.",
+            "fr": "Admirez cette impressionnante horloge astronomique du XIXe siècle construite par un moine local, en observant ses mécanismes complexes et ses représentations planétaires lors du changement d’heure."
           }
         },
         {
@@ -383,7 +422,8 @@
             "de": "Maison des Marmousets",
             "hu": "Maison des Marmousets",
             "ro": "Maison des Marmousets",
-            "en": "Maison des Marmousets"
+            "en": "Maison des Marmousets",
+            "fr": "Maison des Marmousets"
           },
           "coords": [
             -2.398833,
@@ -398,7 +438,8 @@
             "de": "Bewundern Sie die markante holzgeschnitzte Fassade dieses Hauses aus dem 16. Jahrhundert, das einen Einblick in die lokale Geschichte bietet, und achten Sie auf die aufwendigen Figuren, bevor Sie einen Kaffee trinken.",
             "hu": "Csodálja meg ennek a 16. századi háznak a lenyűgöző fametszetes homlokzatát, amely bepillantást enged a helyi történelembe, és figyelje meg a bonyolult figurákat, mielőtt meginna egy kávét a közelben.",
             "ro": "Admirați fațada sculptată în lemn a acestei case din secolul al XVI-lea, care oferă o privire în istoria locală, și căutați figurinele complicate înainte de a savura o cafea în apropiere.",
-            "en": "Admire the striking wood-carved facade of this 16th-century house, which offers a glimpse into local history, and look for the intricate figurines before grabbing a nearby coffee."
+            "en": "Admire the striking wood-carved facade of this 16th-century house, which offers a glimpse into local history, and look for the intricate figurines before grabbing a nearby coffee.",
+            "fr": "Admirez la façade en bois sculpté frappante de cette maison du XVIe siècle, qui offre un aperçu de l’histoire locale, et cherchez les figurines détaillées avant de prendre un café à proximité."
           }
         },
         {
@@ -406,7 +447,8 @@
             "de": "Chapelle Saint-Joseph",
             "hu": "Chapelle Saint-Joseph",
             "ro": "Chapelle Saint-Joseph",
-            "en": "Chapelle Saint-Joseph"
+            "en": "Chapelle Saint-Joseph",
+            "fr": "Chapelle Saint-Joseph"
           },
           "coords": [
             -2.397911,
@@ -421,7 +463,8 @@
             "de": "Entdecken Sie diese friedliche, etwas abgelegene Kapelle mit traditioneller bretonischer Architektur und genießen Sie die ruhige Umgebung bei einem Spaziergang um das Gebäude.",
             "hu": "Fedezze fel ezt a békés, kissé félreeső kápolnát, amely hagyományos breton építészettel büszkélkedhet, és sétálja körbe az épületet, hogy megcsodálja a klasszikus falazatot a csendes környezetben.",
             "ro": "Descoperiți această capelă liniștită, ușor izolată, cu arhitectură tradițională bretonă, și bucurați-vă de împrejurimile pașnice plimbându-vă în jurul clădirii pentru a admira zidăria.",
-            "en": "Discover this peaceful, somewhat secluded chapel featuring traditional Breton architecture, and enjoy the tranquil surroundings by walking the perimeter to appreciate the classic masonry."
+            "en": "Discover this peaceful, somewhat secluded chapel featuring traditional Breton architecture, and enjoy the tranquil surroundings by walking the perimeter to appreciate the classic masonry.",
+            "fr": "Découvrez cette chapelle paisible et quelque peu isolée présentant une architecture bretonne traditionnelle, et profitez du calme en faisant le tour pour apprécier la maçonnerie classique."
           }
         },
         {
@@ -429,7 +472,8 @@
             "de": "Lac au Duc",
             "hu": "Lac au Duc",
             "ro": "Lac au Duc",
-            "en": "Lac au Duc"
+            "en": "Lac au Duc",
+            "fr": "Lac au Duc"
           },
           "coords": [
             -2.414304,
@@ -444,7 +488,8 @@
             "de": "Entspannen Sie sich an den weiten Gewässern dieses malerischen Sees, ideal für Naturliebhaber, und mieten Sie ein Tretboot oder spazieren Sie auf den mit Hortensien gesäumten Uferpfaden.",
             "hu": "Pihenjen ennek a festői tónak a hatalmas vize partján, amely tökéletes a természet kedvelőinek, és béreljen vízibiciklit, vagy sétáljon a part menti hortenziákkal övezett ösvényeken.",
             "ro": "Relaxați-vă pe malurile acestui lac pitoresc, perfect pentru iubitorii de natură, și luați în considerare închirierea unei hidrobiciclete sau plimbarea pe potecile pline de hortensii.",
-            "en": "Relax by the vast waters of this scenic lake, perfect for nature lovers and outdoor enthusiasts, and consider renting a pedal boat or strolling the hydrangea-lined paths along the shore."
+            "en": "Relax by the vast waters of this scenic lake, perfect for nature lovers and outdoor enthusiasts, and consider renting a pedal boat or strolling the hydrangea-lined paths along the shore.",
+            "fr": "Détendez-vous au bord des vastes eaux de ce lac pittoresque, parfait pour les amoureux de la nature et les amateurs d’activités de plein air ; envisagez de louer une pédalo ou de vous promener le long des allées bordées d’hortensias."
           }
         }
       ],
@@ -452,7 +497,8 @@
         "de": "Der Morgen beginnt mit einer Radtour zwischen der Chapelle des Ursulines und der Église Saint-Armel. Mittags erkunden Sie die astronomische Uhr und die historische Maison des Marmousets. Der Nachmittag bringt eine angenehme Fahrt zur Chapelle Saint-Joseph. Der Abend belohnt Sie mit einem Erlebnis am Lac au Duc.",
         "hu": "A reggel a Chapelle des Ursulines és az Église Saint-Armel közötti biciklizéssel indul. Délben a helyi csodákra, az asztronómiai órára és a Maison des Marmousets-re fókuszálunk. A délután egy kellemes tekerést hoz a Chapelle Saint-Joseph felé. Az este festői tóparti élménnyel jutalmaz a Lac au Duc-nál.",
         "ro": "Dimineața începe pedalând între Chapelle des Ursulines și Église Saint-Armel. Amiaza se mută la minunile locale, explorând ceasul astronomic și Maison des Marmousets. După-amiaza aduce o plimbare plăcută spre capela retrasă Saint-Joseph. Seara vă răsplătește cu o experiență pitorească la Lac au Duc.",
-        "en": "Morning kicks off by cycling between the elegant Chapelle des Ursulines and Église Saint-Armel. Midday shifts to local marvels, exploring the Horloge Astronomique and the historic Maison des Marmousets. Afternoon brings a pleasant ride to the somewhat secluded Chapelle Saint-Joseph. Evening rewards you with a scenic lakeside experience at Lac au Duc."
+        "en": "Morning kicks off by cycling between the elegant Chapelle des Ursulines and Église Saint-Armel. Midday shifts to local marvels, exploring the Horloge Astronomique and the historic Maison des Marmousets. Afternoon brings a pleasant ride to the somewhat secluded Chapelle Saint-Joseph. Evening rewards you with a scenic lakeside experience at Lac au Duc.",
+        "fr": "La matinée commence par une balade à vélo entre la élégante Chapelle des Ursulines et l’Église Saint-Armel. À midi, visite des merveilles locales, l’Horloge Astronomique et la Maison des Marmousets. L’après‑midi propose une agréable randonnée jusqu’à la Chapelle Saint-Joseph, quelque peu isolée. La soirée vous récompense par une balade au bord du Lac au Duc."
       },
       "variants": {
         "rainy": {
@@ -460,7 +506,8 @@
             "de": "Rüsten Sie Ihr Rad mit Schutzblechen aus für einen nassen Morgen. Mittags können Sie sich an der Uhr und in den historischen Häusern aufwärmen und trocknen. Die Nachmittagsfahrt zum See erfordert Vorsicht auf rutschigen Wegen. Beenden Sie die Tour früh, um das Fahrrad zu reinigen und Ihre Ausrüstung zu trocknen.",
             "hu": "Szereljen sárvédőt a kerékpárra a nedves reggeli tekeréshez. Délben tartson szünetet a beltéri óránál és száradjon meg. A délutáni tekerés a tóhoz óvatosságot igényel a csúszós utakon. Érjen vissza korán, hogy legyen ideje letisztítani a kerékpárt és megszárítani a vizes felszerelést.",
             "ro": "Echipati bicicleta cu apărători de noroi pentru o dimineață umedă. La prânz, faceți pauze în interior la ceas și casele istorice pentru a vă usca. Plimbarea de după-amiază spre lac necesită prudență pe căile alunecoase. Terminați devreme pentru a vă curăța bicicleta și a usca echipamentul.",
-            "en": "Equip your bike with mudguards for a wet morning riding between Ploërmel's historic religious sites. By midday, take breaks indoors at the clock to dry off. The afternoon ride to the lake requires caution on slippery paths. Finish up early to clean your bike and dry your gear."
+            "en": "Equip your bike with mudguards for a wet morning riding between Ploërmel's historic religious sites. By midday, take breaks indoors at the clock to dry off. The afternoon ride to the lake requires caution on slippery paths. Finish up early to clean your bike and dry your gear.",
+            "fr": "Installez des garde‑boue sur votre vélo pour une matinée humide entre les sites religieux historiques de Ploërmel. À midi, faites des pauses à l’intérieur de l’horloge pour vous sécher. La route de l’après‑midi vers le lac demande de la prudence sur les chemins glissants. Terminez tôt pour nettoyer votre vélo et sécher votre équipement."
           },
           "stops": [
             {
@@ -468,13 +515,15 @@
                 "de": "Chapelle des Ursulines",
                 "hu": "Chapelle des Ursulines",
                 "ro": "Chapelle des Ursulines",
-                "en": "Chapelle des Ursulines"
+                "en": "Chapelle des Ursulines",
+                "fr": "Chapelle des Ursulines"
               },
               "tip_5lang": {
                 "de": "Parken Sie vorsichtig; das nasse Kopfsteinpflaster rund um die Kapelle ist sehr rutschig.",
                 "hu": "Parkoljon óvatosan; a kápolna körüli nedves macskakövek nagyon csúszósak lehetnek.",
                 "ro": "Parcați cu grijă; pietrele cubice umede din jurul capelei pot fi destul de alunecoase.",
-                "en": "Park your bike carefully; the wet cobblestones around the chapel can be quite slippery."
+                "en": "Park your bike carefully; the wet cobblestones around the chapel can be quite slippery.",
+                "fr": "Garez votre vélo avec précaution ; les pavés mouillés autour de la chapelle peuvent être très glissants."
               }
             },
             {
@@ -482,13 +531,15 @@
                 "de": "Église Saint-Armel",
                 "hu": "Église Saint-Armel",
                 "ro": "Église Saint-Armel",
-                "en": "Église Saint-Armel"
+                "en": "Église Saint-Armel",
+                "fr": "Église Saint-Armel"
               },
               "tip_5lang": {
                 "de": "Ein toller trockener Stopp; lassen Sie nasse Ausrüstung am Eingang.",
                 "hu": "Remek száraz megálló; hagyja a vizes felszerelést a bejáratnál, mielőtt körülnéz.",
                 "ro": "O oprire uscată excelentă; lăsați echipamentul umed la intrare înainte de a vizita.",
-                "en": "A great dry stop; leave your wet gear at the entrance before admiring the interior details."
+                "en": "A great dry stop; leave your wet gear at the entrance before admiring the interior details.",
+                "fr": "Un excellent arrêt au sec ; laissez votre équipement mouillé à l’entrée avant d’admirer les détails intérieurs."
               }
             },
             {
@@ -496,13 +547,15 @@
                 "de": "Horloge Astronomique",
                 "hu": "Horloge Astronomique",
                 "ro": "Horloge Astronomique",
-                "en": "Horloge Astronomique"
+                "en": "Horloge Astronomique",
+                "fr": "Horloge Astronomique"
               },
               "tip_5lang": {
                 "de": "Eine ideale Innenpause vor dem Regen; lassen Sie Ihre Fahrradjacke hier trocknen.",
                 "hu": "Ideális beltéri pihenő az eső elől; használja ki az időt a kerékpáros kabát szárítására.",
                 "ro": "O pauză ideală la interior; folosiți timpul pentru a vă usca jacheta de ciclism.",
-                "en": "An ideal indoor break from the rain; use the time to let your cycling jacket dry off."
+                "en": "An ideal indoor break from the rain; use the time to let your cycling jacket dry off.",
+                "fr": "Une pause intérieure idéale pour échapper à la pluie ; profitez-en pour laisser votre veste de cycliste sécher."
               }
             },
             {
@@ -510,13 +563,15 @@
                 "de": "Maison des Marmousets",
                 "hu": "Maison des Marmousets",
                 "ro": "Maison des Marmousets",
-                "en": "Maison des Marmousets"
+                "en": "Maison des Marmousets",
+                "fr": "Maison des Marmousets"
               },
               "tip_5lang": {
                 "de": "Bremsen Sie sanft, da die nassen Straßen die Bodenhaftung der Reifen verringern.",
                 "hu": "Fékezzen finoman a történelmi ház felé, mert a nedves utak rontják a tapadást.",
                 "ro": "Frânați ușor când vă apropiați, deoarece străzile umede reduc aderența anvelopelor.",
-                "en": "Brake gently when approaching this historic house, as the wet streets reduce tire grip."
+                "en": "Brake gently when approaching this historic house, as the wet streets reduce tire grip.",
+                "fr": "Freinez doucement en approchant de cette maison historique, les rues mouillées réduisant l’adhérence des pneus."
               }
             },
             {
@@ -524,13 +579,15 @@
                 "de": "Chapelle Saint-Joseph",
                 "hu": "Chapelle Saint-Joseph",
                 "ro": "Chapelle Saint-Joseph",
-                "en": "Chapelle Saint-Joseph"
+                "en": "Chapelle Saint-Joseph",
+                "fr": "Chapelle Saint-Joseph"
               },
               "tip_5lang": {
                 "de": "Eine kurze nasse Fahrt; treten Sie ein, um dem Nieselregen zu entkommen.",
                 "hu": "Rövid esős tekerés; lépjen be, hogy elmeneküljön a szitáló eső elől a csendbe.",
                 "ro": "O scurtă plimbare ploioasă; intrați pentru a scăpa de burniță și a vă bucura de liniște.",
-                "en": "A short rainy ride leads here; step inside to escape the drizzle and enjoy the serene silence."
+                "en": "A short rainy ride leads here; step inside to escape the drizzle and enjoy the serene silence.",
+                "fr": "Une courte balade sous la pluie vous y mène ; entrez pour échapper à la bruine et profiter du silence serein."
               }
             },
             {
@@ -538,13 +595,15 @@
                 "de": "Lac au Duc",
                 "hu": "Lac au Duc",
                 "ro": "Lac au Duc",
-                "en": "Lac au Duc"
+                "en": "Lac au Duc",
+                "fr": "Lac au Duc"
               },
               "tip_5lang": {
                 "de": "Seien Sie auf schlammige Wege gefasst; wasserdichte Jacke und Schutzbleche sind hier Pflicht.",
                 "hu": "Készüljön fel a saras ösvényekre a tó körül; a vízálló kabát és sárvédő elengedhetetlen.",
                 "ro": "Feriți-vă de noroi pe traseele din jurul lacului; o jachetă impermeabilă este esențială aici.",
-                "en": "Be prepared for muddy trails around the lake; a waterproof jacket and mudguards are essential here."
+                "en": "Be prepared for muddy trails around the lake; a waterproof jacket and mudguards are essential here.",
+                "fr": "Préparez-vous aux sentiers boueux autour du lac ; une veste imperméable et des garde‑boue sont indispensables ici."
               }
             }
           ]
@@ -554,7 +613,8 @@
             "de": "Ziehen Sie Thermo-Radkleidung an für eine frostige Morgenfahrt durch Ploërmel. Mittags bieten Innenstationen die Möglichkeit, kalte Finger aufzuwärmen. Am Nachmittag weht am See ein kalter Wind, halten Sie das Tempo hoch. Sorgen Sie für gutes Licht am Fahrrad wegen der frühen winterlichen Dämmerung um 17 Uhr.",
             "hu": "Vegyen fel termo kerékpáros ruházatot a fagyos reggeli tekeréshez. Délben a beltéri megállók lehetőséget adnak az átfagyott ujjak felmelegítésére. Délután a tónál csípős szél fúj, tartsa a tempót a melegen maradáshoz. Ellenőrizze a lámpákat a korai, délután 5 órás sötétedés miatt.",
             "ro": "Purtați echipament termic de ciclism pentru o plimbare geroasă de dimineață. La prânz, opririle interioare vă permit să vă încălziți degetele. După-amiaza, vântul rece de la lac necesită un ritm alert pentru a vă menține cald. Asigurați-vă că aveți lumini bune pentru amurgul de iarnă de la ora 17.",
-            "en": "Layer up with thermal cycling gear for a crisp morning ride through Ploërmel's historic center. Midday offers cozy indoor stops to warm your frozen fingers. The afternoon ride to the lake features biting winds, so keep your pace up to stay warm. Ensure your bike has lights for the early winter dusk."
+            "en": "Layer up with thermal cycling gear for a crisp morning ride through Ploërmel's historic center. Midday offers cozy indoor stops to warm your frozen fingers. The afternoon ride to the lake features biting winds, so keep your pace up to stay warm. Ensure your bike has lights for the early winter dusk.",
+            "fr": "Superposez des vêtements thermiques de cyclisme pour une matinée fraîche à travers le centre historique de Ploërmel. À midi, des arrêts confortables à l’intérieur permettent de réchauffer vos doigts gelés. L’après‑midi vers le lac apporte des vents mordants, gardez un rythme soutenu pour rester au chaud. Assurez‑vous que votre vélo est équipé de lumières pour le crépuscule hivernal précoce."
           },
           "stops": [
             {
@@ -562,13 +622,15 @@
                 "de": "Chapelle des Ursulines",
                 "hu": "Chapelle des Ursulines",
                 "ro": "Chapelle des Ursulines",
-                "en": "Chapelle des Ursulines"
+                "en": "Chapelle des Ursulines",
+                "fr": "Chapelle des Ursulines"
               },
               "tip_5lang": {
                 "de": "Die Winterluft lässt die Fassade erstrahlen; treten Sie ein, um sich aufzuwärmen.",
                 "hu": "A csípős téli levegő kiemeli a kőhomlokzatot; lépjen be melegedni az első tekerés után.",
                 "ro": "Aerul rece de iarnă scoate în evidență fațada; intrați pentru a vă încălzi după prima cursă.",
-                "en": "The crisp winter air makes the stone facade pop; step inside to warm up after your first ride."
+                "en": "The crisp winter air makes the stone facade pop; step inside to warm up after your first ride.",
+                "fr": "L’air hivernal vif fait ressortir la façade en pierre ; entrez pour vous réchauffer après votre première balade."
               }
             },
             {
@@ -576,13 +638,15 @@
                 "de": "Église Saint-Armel",
                 "hu": "Église Saint-Armel",
                 "ro": "Église Saint-Armel",
-                "en": "Église Saint-Armel"
+                "en": "Église Saint-Armel",
+                "fr": "Église Saint-Armel"
               },
               "tip_5lang": {
                 "de": "Machen Sie eine Pause vom kalten Sattel und erkunden Sie die historischen Details drinnen.",
                 "hu": "Pihenjen meg a hideg nyereg után, és fedezze fel a templom lenyűgöző történelmi részleteit.",
                 "ro": "Luați o pauză de la șaua rece și explorați detaliile istorice magnifice din interior.",
-                "en": "Take a break from the cold saddle and explore the magnificent historical details inside the church."
+                "en": "Take a break from the cold saddle and explore the magnificent historical details inside the church.",
+                "fr": "Faites une pause hors de la selle froide et explorez les magnifiques détails historiques à l’intérieur de l’église."
               }
             },
             {
@@ -590,13 +654,15 @@
                 "de": "Horloge Astronomique",
                 "hu": "Horloge Astronomique",
                 "ro": "Horloge Astronomique",
-                "en": "Horloge Astronomique"
+                "en": "Horloge Astronomique",
+                "fr": "Horloge Astronomique"
               },
               "tip_5lang": {
                 "de": "Ein fantastischer Innenstopp, um die Hände aufzutauen und das Uhrwerk zu bewundern.",
                 "hu": "Fantasztikus beltéri megálló, ahol felolvaszthatja a kezét a lenyűgöző szerkezet mellett.",
                 "ro": "O oprire fantastică la interior pentru a vă dezgheța mâinile în fața mecanismului complex.",
-                "en": "A fantastic indoor stop to thaw your hands while marveling at the complex mechanical clockwork."
+                "en": "A fantastic indoor stop to thaw your hands while marveling at the complex mechanical clockwork.",
+                "fr": "Un arrêt intérieur fantastique pour réchauffer vos mains tout en admirant le mécanisme horloger complexe."
               }
             },
             {
@@ -604,13 +670,15 @@
                 "de": "Maison des Marmousets",
                 "hu": "Maison des Marmousets",
                 "ro": "Maison des Marmousets",
-                "en": "Maison des Marmousets"
+                "en": "Maison des Marmousets",
+                "fr": "Maison des Marmousets"
               },
               "tip_5lang": {
                 "de": "Behalten Sie warme Handschuhe an, während Sie die Holzschnitzereien in der Kälte betrachten.",
                 "hu": "Tartsa magán a meleg kesztyűt, miközben a fagyos levegőn csodálja a fafaragásokat.",
                 "ro": "Păstrați mănușile calde în timp ce admirați sculpturile în lemn în aerul înghețat.",
-                "en": "Keep your warm gloves on while admiring the wooden carvings in the freezing outdoor air."
+                "en": "Keep your warm gloves on while admiring the wooden carvings in the freezing outdoor air.",
+                "fr": "Gardez vos gants chauds en admirant les sculptures sur bois dans l’air glacé extérieur."
               }
             },
             {
@@ -618,13 +686,15 @@
                 "de": "Chapelle Saint-Joseph",
                 "hu": "Chapelle Saint-Joseph",
                 "ro": "Chapelle Saint-Joseph",
-                "en": "Chapelle Saint-Joseph"
+                "en": "Chapelle Saint-Joseph",
+                "fr": "Chapelle Saint-Joseph"
               },
               "tip_5lang": {
                 "de": "Die Fahrt kann kühl sein; das friedliche Innere bietet eine windfreie Pause.",
                 "hu": "A téli út ide csípős lehet; a békés belső tér szélmentes pihenőt kínál.",
                 "ro": "Cursa de iarnă poate fi rece; interiorul pașnic oferă un scurt respiro fără vânt.",
-                "en": "The winter ride here might be chilly; the peaceful interior offers a brief, wind-free respite."
+                "en": "The winter ride here might be chilly; the peaceful interior offers a brief, wind-free respite.",
+                "fr": "La balade hivernale jusqu’ici peut être fraîche ; l’intérieur paisible offre un bref répit à l’abri du vent."
               }
             },
             {
@@ -632,13 +702,15 @@
                 "de": "Lac au Duc",
                 "hu": "Lac au Duc",
                 "ro": "Lac au Duc",
-                "en": "Lac au Duc"
+                "en": "Lac au Duc",
+                "fr": "Lac au Duc"
               },
               "tip_5lang": {
                 "de": "Erwarten Sie eisigen Gegenwind; Thermoschichten und eine winddichte Jacke sind Pflicht.",
                 "hu": "Számítson fagyos szembeszélre a víznél; a termorétegek és a szélálló kabát kötelező.",
                 "ro": "Așteptați-vă la un vânt puternic; straturile termice și o jachetă rezistentă sunt obligatorii.",
-                "en": "Expect a strong, freezing headwind by the water; thermal layers and a windproof jacket are absolute musts."
+                "en": "Expect a strong, freezing headwind by the water; thermal layers and a windproof jacket are absolute musts.",
+                "fr": "Attendez‑vous à un vent de face fort et glacial près de l’eau ; des couches thermiques et une veste coupe‑vent sont indispensables."
               }
             }
           ]
@@ -658,7 +730,8 @@
             "de": "Maison des Marmousets",
             "hu": "Maison des Marmousets",
             "ro": "Maison des Marmousets",
-            "en": "Maison des Marmousets"
+            "en": "Maison des Marmousets",
+            "fr": "Maison des Marmousets"
           },
           "coords": [
             -2.398833,
@@ -673,7 +746,8 @@
             "de": "Bewundern Sie die markante holzgeschnitzte Fassade dieses Hauses aus dem 16. Jahrhundert, das einen Einblick in die lokale Geschichte bietet, und achten Sie auf die aufwendigen Figuren, bevor Sie einen Kaffee trinken.",
             "hu": "Csodálja meg ennek a 16. századi háznak a lenyűgöző fametszetes homlokzatát, amely bepillantást enged a helyi történelembe, és figyelje meg a bonyolult figurákat, mielőtt meginna egy kávét a közelben.",
             "ro": "Admirați fațada sculptată în lemn a acestei case din secolul al XVI-lea, care oferă o privire în istoria locală, și căutați figurinele complicate înainte de a savura o cafea în apropiere.",
-            "en": "Admire the striking wood-carved facade of this 16th-century house, which offers a glimpse into local history, and look for the intricate figurines before grabbing a nearby coffee."
+            "en": "Admire the striking wood-carved facade of this 16th-century house, which offers a glimpse into local history, and look for the intricate figurines before grabbing a nearby coffee.",
+            "fr": "Admirez la façade en bois sculpté frappante de cette maison du XVIe siècle, qui offre un aperçu de l’histoire locale, et cherchez les figurines détaillées avant de prendre un café à proximité."
           }
         },
         {
@@ -681,7 +755,8 @@
             "de": "Horloge Astronomique",
             "hu": "Horloge Astronomique",
             "ro": "Horloge Astronomique",
-            "en": "Horloge Astronomique"
+            "en": "Horloge Astronomique",
+            "fr": "Horloge Astronomique"
           },
           "coords": [
             -2.399581,
@@ -696,7 +771,8 @@
             "de": "Bestaunen Sie diese beeindruckende astronomische Uhr aus dem 19. Jahrhundert, die von einem lokalen Mönch erbaut wurde, und beobachten Sie ihre komplexen Mechanismen beim Stundenwechsel.",
             "hu": "Csodálja meg ezt a lenyűgöző 19. századi csillagászati órát, amelyet egy helyi szerzetes épített, és figyelje meg a bolygókat is mutató bonyolult mechanizmusokat az óraváltáskor.",
             "ro": "Minunați-vă de acest impresionant ceas astronomic din secolul al XIX-lea, construit de un călugăr local, observând mecanismele sale complexe și afișajele planetare în timpul schimbării orei.",
-            "en": "Marvel at this impressive 19th-century astronomical clock built by a local monk, observing its complex mechanisms and planetary displays during the hour change."
+            "en": "Marvel at this impressive 19th-century astronomical clock built by a local monk, observing its complex mechanisms and planetary displays during the hour change.",
+            "fr": "Admirez cette impressionnante horloge astronomique du XIXe siècle construite par un moine local, en observant ses mécanismes complexes et ses représentations planétaires lors du changement d’heure."
           }
         },
         {
@@ -704,7 +780,8 @@
             "de": "Église Saint-Armel",
             "hu": "Église Saint-Armel",
             "ro": "Église Saint-Armel",
-            "en": "Église Saint-Armel"
+            "en": "Église Saint-Armel",
+            "fr": "Église Saint-Armel"
           },
           "coords": [
             -2.398106,
@@ -719,7 +796,8 @@
             "de": "Erkunden Sie diese atemberaubende spätgotische Kirche, die für ihre majestätischen Buntglasfenster und aufwendig geschnitzten Portale bekannt ist, und genießen Sie die ruhige spirituelle Atmosphäre im Inneren.",
             "hu": "Fedezze fel ezt a lenyűgöző késő gótikus templomot, amely fenséges ólomüveg ablakairól és faragott portáljairól ismert, és szánjon egy percet a csendes spirituális atmoszféra élvezetére.",
             "ro": "Explorați această uimitoare biserică în stil gotic târziu, cunoscută pentru vitraliile sale maiestuoase și portalurile sculptate, și bucurați-vă de o clipă de liniște spirituală în interior.",
-            "en": "Explore this stunning late-Gothic church known for its majestic stained-glass windows and intricately carved portals, taking a moment to appreciate the quiet spiritual atmosphere inside."
+            "en": "Explore this stunning late-Gothic church known for its majestic stained-glass windows and intricately carved portals, taking a moment to appreciate the quiet spiritual atmosphere inside.",
+            "fr": "Explorez cette magnifique église gothique tardive connue pour ses vitraux majestueux et ses portails finement sculptés, et prenez un moment pour apprécier l’atmosphère spirituelle calme à l’intérieur."
           }
         },
         {
@@ -727,7 +805,8 @@
             "de": "Chapelle Saint-Joseph",
             "hu": "Chapelle Saint-Joseph",
             "ro": "Chapelle Saint-Joseph",
-            "en": "Chapelle Saint-Joseph"
+            "en": "Chapelle Saint-Joseph",
+            "fr": "Chapelle Saint-Joseph"
           },
           "coords": [
             -2.397911,
@@ -742,7 +821,8 @@
             "de": "Entdecken Sie diese friedliche, etwas abgelegene Kapelle mit traditioneller bretonischer Architektur und genießen Sie die ruhige Umgebung bei einem Spaziergang um das Gebäude.",
             "hu": "Fedezze fel ezt a békés, kissé félreeső kápolnát, amely hagyományos breton építészettel büszkélkedhet, és sétálja körbe az épületet, hogy megcsodálja a klasszikus falazatot a csendes környezetben.",
             "ro": "Descoperiți această capelă liniștită, ușor izolată, cu arhitectură tradițională bretonă, și bucurați-vă de împrejurimile pașnice plimbându-vă în jurul clădirii pentru a admira zidăria.",
-            "en": "Discover this peaceful, somewhat secluded chapel featuring traditional Breton architecture, and enjoy the tranquil surroundings by walking the perimeter to appreciate the classic masonry."
+            "en": "Discover this peaceful, somewhat secluded chapel featuring traditional Breton architecture, and enjoy the tranquil surroundings by walking the perimeter to appreciate the classic masonry.",
+            "fr": "Découvrez cette chapelle paisible et quelque peu isolée présentant une architecture bretonne traditionnelle, et profitez du calme en faisant le tour pour apprécier la maçonnerie classique."
           }
         },
         {
@@ -750,7 +830,8 @@
             "de": "Lac au Duc",
             "hu": "Lac au Duc",
             "ro": "Lac au Duc",
-            "en": "Lac au Duc"
+            "en": "Lac au Duc",
+            "fr": "Lac au Duc"
           },
           "coords": [
             -2.414304,
@@ -765,7 +846,8 @@
             "de": "Entspannen Sie sich an den weiten Gewässern dieses malerischen Sees, ideal für Naturliebhaber, und mieten Sie ein Tretboot oder spazieren Sie auf den mit Hortensien gesäumten Uferpfaden.",
             "hu": "Pihenjen ennek a festői tónak a hatalmas vize partján, amely tökéletes a természet kedvelőinek, és béreljen vízibiciklit, vagy sétáljon a part menti hortenziákkal övezett ösvényeken.",
             "ro": "Relaxați-vă pe malurile acestui lac pitoresc, perfect pentru iubitorii de natură, și luați în considerare închirierea unei hidrobiciclete sau plimbarea pe potecile pline de hortensii.",
-            "en": "Relax by the vast waters of this scenic lake, perfect for nature lovers and outdoor enthusiasts, and consider renting a pedal boat or strolling the hydrangea-lined paths along the shore."
+            "en": "Relax by the vast waters of this scenic lake, perfect for nature lovers and outdoor enthusiasts, and consider renting a pedal boat or strolling the hydrangea-lined paths along the shore.",
+            "fr": "Détendez‑vous au bord des vastes eaux de ce lac pittoresque, parfait pour les amoureux de la nature et les amateurs d’activités de plein air ; envisagez de louer une pédalo ou de vous promener le long des allées bordées d’hortensias."
           }
         },
         {
@@ -773,7 +855,8 @@
             "de": "Manoir de la Cour",
             "hu": "Manoir de la Cour",
             "ro": "Manoir de la Cour",
-            "en": "Manoir de la Cour"
+            "en": "Manoir de la Cour",
+            "fr": "Manoir de la Cour"
           },
           "coords": [
             -2.361693,
@@ -788,7 +871,8 @@
             "de": "Machen Sie eine Zeitreise in diesem authentischen ländlichen Herrenhaus, einem schönen Beispiel regionaler aristokratischer Architektur, und beachten Sie die robusten Steintürme.",
             "hu": "Lépjen vissza az időben ebben az autentikus vidéki udvarházban, amely a regionális arisztokrata építészet szép példája, és figyelje meg a robusztus kőtornyokat a környező birtok felfedezése előtt.",
             "ro": "Întoarceți-vă în timp la acest conac rural autentic, un exemplu fin de arhitectură aristocratică regională, și observați turnurile robuste de piatră înainte de a explora domeniul.",
-            "en": "Step back in time at this authentic rural manor, a fine example of regional aristocratic architecture, and take note of the robust stone towers before checking the surrounding estate."
+            "en": "Step back in time at this authentic rural manor, a fine example of regional aristocratic architecture, and take note of the robust stone towers before checking the surrounding estate.",
+            "fr": "Remontez le temps dans ce manoir rural authentique, bel exemple d’architecture aristocratique régionale, et notez les robustes tours de pierre avant d’inspecter le domaine environnant."
           }
         },
         {
@@ -796,7 +880,8 @@
             "de": "Château de Malleville",
             "hu": "Château de Malleville",
             "ro": "Château de Malleville",
-            "en": "Château de Malleville"
+            "en": "Château de Malleville",
+            "fr": "Château de Malleville"
           },
           "coords": [
             -2.377618,
@@ -811,7 +896,8 @@
             "de": "Beenden Sie Ihre historische Reise an diesem prächtigen Schloss, das von üppigen Anlagen umgeben ist, machen Sie Fotos der eleganten Fassaden und erkunden Sie die gepflegten Gärten.",
             "hu": "Fejezze be történelmi utazását ebben a csodálatos, buja növényzettel körülvett kastélyban, fényképezze le az elegáns homlokzatokat, és kényelmes tempóban fedezze fel a gondozott kerteket.",
             "ro": "Încheiați-vă călătoria istorică la acest castel magnific, înconjurat de terenuri luxuriante, realizând fotografii cu fațadele elegante și explorând grădinile bine întreținute într-un ritm relaxant.",
-            "en": "End your historic journey at this magnificent château surrounded by lush grounds, capturing photos of the elegant facades and exploring the well-maintained gardens at a leisurely pace."
+            "en": "End your historic journey at this magnificent château surrounded by lush grounds, capturing photos of the elegant facades and exploring the well-maintained gardens at a leisurely pace.",
+            "fr": "Terminez votre parcours historique à ce magnifique château entouré de vastes jardins ; prenez des photos des élégantes façades et explorez les jardins bien entretenus à un rythme tranquille."
           }
         }
       ],
@@ -819,7 +905,8 @@
         "de": "Der Morgen beginnt an der aufwendig geschnitzten Maison des Marmousets und der nahegelegenen astronomischen Uhr. Mittags besuchen Sie die Église Saint-Armel und die Chapelle Saint-Joseph. Der Nachmittag bietet Natur am Lac au Duc und das Manoir de la Cour. Der Abend endet beeindruckend am Château de Malleville.",
         "hu": "A reggel az igényesen faragott Maison des Marmousets-nél és az asztronómiai óránál indul. A délidő a spirituális helyszínekre, az Église Saint-Armel-re és a Chapelle Saint-Joseph-re tér át. A délután a Lac au Duc természetére és a Manoir de la Cour-ra fókuszál. Az este a Château de Malleville arisztokratikus környezetében ér véget.",
         "ro": "Dimineața începe la Maison des Marmousets, urmată de ceasul astronomic. Amiaza face tranziția către siturile spirituale, vizitând Église Saint-Armel și Chapelle Saint-Joseph. După-amiaza se concentrează pe natură la Lac au Duc și Manoir de la Cour. Seara se încheie cu impresionantul Château de Malleville.",
-        "en": "Morning starts strong at the elaborately carved Maison des Marmousets, followed by the nearby Horloge Astronomique. Midday transitions to spiritual sites, visiting Église Saint-Armel and Chapelle Saint-Joseph. Afternoon focuses on nature at the sprawling Lac au Duc before a drive out to Manoir de la Cour. Evening ends with the impressive aristocratic setting of Château de Malleville."
+        "en": "Morning starts strong at the elaborately carved Maison des Marmousets, followed by the nearby Horloge Astronomique. Midday transitions to spiritual sites, visiting Église Saint-Armel and Chapelle Saint-Joseph. Afternoon focuses on nature at the sprawling Lac au Duc before a drive out to Manoir de la Cour. Evening ends with the impressive aristocratic setting of Château de Malleville.",
+        "fr": "La matinée commence fort à la Maison des Marmousets richement sculptée, suivie par la Horloge Astronomique toute proche. À midi, visite des sites spirituels, l’Église Saint-Armel et la Chapelle Saint-Joseph. L’après‑midi est consacré à la nature au vaste Lac au Duc avant de prendre la voiture jusqu’au Manoir de la Cour. La soirée se termine dans le cadre aristocratique impressionnant du Château de Malleville."
       },
       "variants": {
         "rainy": {
@@ -827,7 +914,8 @@
             "de": "Ein regnerischer Morgen ist perfekt, um bequem zwischen den Sehenswürdigkeiten im Zentrum zu fahren. Mittags bieten Kirche und Uhr tolle Fluchtmöglichkeiten vor dem Regen. Nachmittags fahren Sie zum See und zu den Schlössern und genießen die stimmungsvolle Landschaft aus dem warmen und trockenen Auto heraus.",
             "hu": "Egy esős reggel tökéletes arra, hogy szárazon közlekedjen a központ látnivalói között. Délben a templom és az óra nagyszerű menedéket nyújt a zápor elől. Délután autózzon el a tóhoz és a kastélyokhoz, élvezve a borongós, hangulatos tájat a meleg és kényelmes autóból.",
             "ro": "O dimineață ploioasă este perfectă pentru a conduce între atracțiile din centru, rămânând uscat. La prânz, biserica și ceasul oferă scăpări excelente de ploaie. După-amiaza, conduceți spre lac și castele, bucurându-vă de peisajele atmosferice din confortul mașinii calde și uscate.",
-            "en": "A rainy morning is perfect for driving between Ploërmel's town center attractions, keeping you mostly dry. Midday visits to the church and clock offer great indoor escapes from the downpour. In the afternoon, drive out to the lake and castles, enjoying the moody landscapes from your warm car."
+            "en": "A rainy morning is perfect for driving between Ploërmel's town center attractions, keeping you mostly dry. Midday visits to the church and clock offer great indoor escapes from the downpour. In the afternoon, drive out to the lake and castles, enjoying the moody landscapes from your warm car.",
+            "fr": "Une matinée pluvieuse est idéale pour conduire entre les attractions du centre de Ploërmel, vous gardant majoritairement au sec. Les visites à midi de l’église et de l’horloge offrent d’excellents abris intérieurs contre l’averse. L’après‑midi, partez en voiture jusqu’au lac et aux châteaux, en profitant des paysages d’ambiance depuis votre véhicule chauffé."
           },
           "stops": [
             {
@@ -835,13 +923,15 @@
                 "de": "Maison des Marmousets",
                 "hu": "Maison des Marmousets",
                 "ro": "Maison des Marmousets",
-                "en": "Maison des Marmousets"
+                "en": "Maison des Marmousets",
+                "fr": "Maison des Marmousets"
               },
               "tip_5lang": {
                 "de": "Parken Sie nah und nutzen Sie einen Regenschirm, um die Holzfassade im Regen zu sehen.",
                 "hu": "Parkoljon közel, és esernyő alól csodálja meg a részletgazdag fa homlokzatot az esőben.",
                 "ro": "Parcați aproape și deschideți umbrela pentru a admira fațada detaliată din lemn în ploaie.",
-                "en": "Park close by and pop up your umbrella to admire the detailed wooden facade in the rain."
+                "en": "Park close by and pop up your umbrella to admire the detailed wooden facade in the rain.",
+                "fr": "Garez‑vous à proximité et ouvrez votre parapluie pour admirer la façade en bois détaillée sous la pluie."
               }
             },
             {
@@ -849,13 +939,15 @@
                 "de": "Horloge Astronomique",
                 "hu": "Horloge Astronomique",
                 "ro": "Horloge Astronomique",
-                "en": "Horloge Astronomique"
+                "en": "Horloge Astronomique",
+                "fr": "Horloge Astronomique"
               },
               "tip_5lang": {
                 "de": "Huschen Sie aus dem Auto in diese faszinierende Innenausstellung, um trocken zu bleiben.",
                 "hu": "Fussan be az autóból ebbe a lenyűgöző beltéri kiállításra, hogy teljesen száraz maradjon.",
                 "ro": "Fugiți din mașină în această expoziție fascinantă din interior pentru a rămâne complet uscat.",
-                "en": "Dash from your car into this fascinating indoor exhibit to stay dry and learn about astronomy."
+                "en": "Dash from your car into this fascinating indoor exhibit to stay dry and learn about astronomy.",
+                "fr": "Courez de votre voiture vers cet fascinant espace intérieur pour rester au sec et en apprendre plus sur l’astronomie."
               }
             },
             {
@@ -863,13 +955,15 @@
                 "de": "Église Saint-Armel",
                 "hu": "Église Saint-Armel",
                 "ro": "Église Saint-Armel",
-                "en": "Église Saint-Armel"
+                "en": "Église Saint-Armel",
+                "fr": "Église Saint-Armel"
               },
               "tip_5lang": {
                 "de": "Der dunkle, regnerische Himmel lässt die Beleuchtung der Kirche dramatisch wirken.",
                 "hu": "A sötét, esős égbolt miatt a templom belső megvilágítása még drámaibbnak hat.",
                 "ro": "Cerul întunecat face ca iluminarea interioară a bisericii să pară și mai dramatică.",
-                "en": "The dark, rainy skies make the interior lighting of the church feel even more dramatic and cozy."
+                "en": "The dark, rainy skies make the interior lighting of the church feel even more dramatic and cozy.",
+                "fr": "Les ciels sombres et pluvieux rendent l’éclairage intérieur de l’église encore plus dramatique et chaleureux."
               }
             },
             {
@@ -877,13 +971,15 @@
                 "de": "Chapelle Saint-Joseph",
                 "hu": "Chapelle Saint-Joseph",
                 "ro": "Chapelle Saint-Joseph",
-                "en": "Chapelle Saint-Joseph"
+                "en": "Chapelle Saint-Joseph",
+                "fr": "Chapelle Saint-Joseph"
               },
               "tip_5lang": {
                 "de": "Eine kurze Fahrt hält Sie trocken; der Regen auf dem Dach wirkt sehr friedlich.",
                 "hu": "A rövid autóút szárazon tart; a tetőn kopogó eső békés hangulatot teremt.",
                 "ro": "O scurtă plimbare vă menține uscat; ploaia lovind acoperișul e foarte pașnică.",
-                "en": "A quick drive keeps you dry; the rain hitting the chapel roof creates a peaceful atmosphere."
+                "en": "A quick drive keeps you dry; the rain hitting the chapel roof creates a peaceful atmosphere.",
+                "fr": "Un court trajet en voiture vous garde au sec ; la pluie frappant le toit de la chapelle crée une atmosphère paisible."
               }
             },
             {
@@ -891,13 +987,15 @@
                 "de": "Lac au Duc",
                 "hu": "Lac au Duc",
                 "ro": "Lac au Duc",
-                "en": "Lac au Duc"
+                "en": "Lac au Duc",
+                "fr": "Lac au Duc"
               },
               "tip_5lang": {
                 "de": "Genießen Sie die regnerische, stimmungsvolle Aussicht vom Parkplatz aus vor einem kurzen Gang.",
                 "hu": "Élvezze a tó esős, atmoszférikus látványát közvetlenül a parkolóból egy rövid séta előtt.",
                 "ro": "Bucurați-vă de priveliștile ploioase ale lacului chiar din parcare înainte de o scurtă plimbare.",
-                "en": "Enjoy the rainy, atmospheric views of the lake right from the parking area before a quick stroll."
+                "en": "Enjoy the rainy, atmospheric views of the lake right from the parking area before a quick stroll.",
+                "fr": "Profitez des vues pluvieuses et atmosphériques du lac depuis le parking avant une courte promenade."
               }
             },
             {
@@ -905,13 +1003,15 @@
                 "de": "Manoir de la Cour",
                 "hu": "Manoir de la Cour",
                 "ro": "Manoir de la Cour",
-                "en": "Manoir de la Cour"
+                "en": "Manoir de la Cour",
+                "fr": "Manoir de la Cour"
               },
               "tip_5lang": {
                 "de": "Fahren Sie vorsichtig auf nassen Landstraßen; das Herrenhaus wirkt unter grauen Wolken toll.",
                 "hu": "Vezessen óvatosan a vizes utakon; a kúria lenyűgöző a szürke égbolt alatt.",
                 "ro": "Conduceți cu grijă pe drumurile umede; conacul arată izbitor pe cerul gri.",
-                "en": "Drive carefully on the wet rural roads; the manor looks strikingly beautiful against gray skies."
+                "en": "Drive carefully on the wet rural roads; the manor looks strikingly beautiful against gray skies.",
+                "fr": "Conduisez prudemment sur les routes rurales mouillées ; le manoir paraît particulièrement beau sous un ciel gris."
               }
             },
             {
@@ -919,13 +1019,15 @@
                 "de": "Château de Malleville",
                 "hu": "Château de Malleville",
                 "ro": "Château de Malleville",
-                "en": "Château de Malleville"
+                "en": "Château de Malleville",
+                "fr": "Château de Malleville"
               },
               "tip_5lang": {
                 "de": "Das Schlossgelände kann schlammig sein, tragen Sie feste, wasserdichte Schuhe.",
                 "hu": "A kastély parkja saras lehet, ezért viseljen vízálló cipőt a kiszálláshoz.",
                 "ro": "Terenul castelului poate fi noroios, așa că purtați încălțăminte impermeabilă.",
-                "en": "The castle grounds might be muddy, so wear sturdy waterproof shoes if you step out of the car."
+                "en": "The castle grounds might be muddy, so wear sturdy waterproof shoes if you step out of the car.",
+                "fr": "Les terrains du château peuvent être boueux, donc portez des chaussures imperméables et robustes si vous sortez de la voiture."
               }
             }
           ]
@@ -935,7 +1037,8 @@
             "de": "Genießen Sie den Luxus der Autoheizung an einem frostigen Morgen im historischen Zentrum. Mittags halten die kurzen Fahrten die Winterkälte fern. Der Nachmittag bietet landschaftlich reizvolle Fahrten zum See und zu den Schlössern. Erreichen Sie das letzte Schloss vor der frühen Dunkelheit um 17 Uhr.",
             "hu": "Élvezze az autó fűtésének luxusát a fagyos reggelen a történelmi központban. Délben a rövid utak távol tartják a téli hideget. A délután festői autózást kínál a tóhoz és a kastélyokhoz. Érjen az utolsó kastélyhoz a korai, délután 5 órás téli sötétedés előtt, hogy lássa a szépségét.",
             "ro": "Bucurați-vă de luxul încălzirii auto într-o dimineață geroasă în centrul istoric. La prânz, scurtările drumuri țin frigul de iarnă la distanță. După-amiaza oferă plimbări pitorești spre lac și castele. Ajungeți la ultimul castel înainte de întunericul devreme, în jur de ora 17.",
-            "en": "Enjoy the luxury of car heating on a frosty morning exploring Ploërmel's historic center. At noon, the short drives between churches and the clock keep the winter chill at bay. The afternoon features scenic drives to the lake and castles. Head to the final castle early before the 5 PM winter darkness sets in."
+            "en": "Enjoy the luxury of car heating on a frosty morning exploring Ploërmel's historic center. At noon, the short drives between churches and the clock keep the winter chill at bay. The afternoon features scenic drives to the lake and castles. Head to the final castle early before the 5 PM winter darkness sets in.",
+            "fr": "Profitez du chauffage de la voiture lors d’une matinée froide en explorant le centre historique de Ploërmel. À midi, les courts trajets entre églises et horloge tiennent le froid hivernal à distance. L’après‑midi offre des routes panoramiques vers le lac et les châteaux. Rendez‑vous au dernier château tôt avant que l’obscurité hivernale ne tombe à 17h."
           },
           "stops": [
             {
@@ -943,13 +1046,15 @@
                 "de": "Maison des Marmousets",
                 "hu": "Maison des Marmousets",
                 "ro": "Maison des Marmousets",
-                "en": "Maison des Marmousets"
+                "en": "Maison des Marmousets",
+                "fr": "Maison des Marmousets"
               },
               "tip_5lang": {
                 "de": "Das Holzäußere sieht mit Frost atemberaubend aus; genießen Sie danach das warme Auto.",
                 "hu": "A fa külseje lenyűgöző egy réteg dérrel; rögtön utána élvezze a meleg autót.",
                 "ro": "Exteriorul din lemn arată uimitor cu puțină brumă; bucurați-vă de mașina caldă după.",
-                "en": "The wooden exterior looks stunning with a layer of frost; enjoy the warm car immediately after."
+                "en": "The wooden exterior looks stunning with a layer of frost; enjoy the warm car immediately after.",
+                "fr": "L’extérieur en bois est superbe avec une couche de gel ; profitez immédiatement de la chaleur de la voiture."
               }
             },
             {
@@ -957,13 +1062,15 @@
                 "de": "Horloge Astronomique",
                 "hu": "Horloge Astronomique",
                 "ro": "Horloge Astronomique",
-                "en": "Horloge Astronomique"
+                "en": "Horloge Astronomique",
+                "fr": "Horloge Astronomique"
               },
               "tip_5lang": {
                 "de": "Ein toller Innenstopp; der komplexe Mechanismus fasziniert und der Raum bietet eine Pause vor der Kälte.",
                 "hu": "Remek beltéri megálló; a szerkezet lenyűgöző, és a szoba menedéket nyújt a hideg elől.",
                 "ro": "O oprire excelentă; mecanismul fascinează și camera oferă o pauză de la frigul de afară.",
-                "en": "A great indoor stop; the complex mechanism is fascinating and the room offers a break from the cold."
+                "en": "A great indoor stop; the complex mechanism is fascinating and the room offers a break from the cold.",
+                "fr": "Un excellent arrêt intérieur ; le mécanisme complexe est fascinant et la salle offre une pause contre le froid."
               }
             },
             {
@@ -971,13 +1078,15 @@
                 "de": "Église Saint-Armel",
                 "hu": "Église Saint-Armel",
                 "ro": "Église Saint-Armel",
-                "en": "Église Saint-Armel"
+                "en": "Église Saint-Armel",
+                "fr": "Église Saint-Armel"
               },
               "tip_5lang": {
                 "de": "Treten Sie kurz in die frische Luft, bevor Sie das atemberaubende Innere der Kirche genießen.",
                 "hu": "Lépjen ki a friss levegőre röviden, mielőtt élvezné a templom védett belső terét.",
                 "ro": "Ieșiți scurt în aerul proaspăt înainte de a vă bucura de interiorul adăpostit al bisericii.",
-                "en": "Step out into the crisp air briefly before enjoying the sheltered, awe-inspiring interior of the church."
+                "en": "Step out into the crisp air briefly before enjoying the sheltered, awe-inspiring interior of the church.",
+                "fr": "Sortez brièvement dans l’air frais avant de profiter de l’intérieur abrité et impressionnant de l’église."
               }
             },
             {
@@ -985,13 +1094,15 @@
                 "de": "Chapelle Saint-Joseph",
                 "hu": "Chapelle Saint-Joseph",
                 "ro": "Chapelle Saint-Joseph",
-                "en": "Chapelle Saint-Joseph"
+                "en": "Chapelle Saint-Joseph",
+                "fr": "Chapelle Saint-Joseph"
               },
               "tip_5lang": {
                 "de": "Die Landstraßen können vereist sein; fahren Sie langsam zu diesem winterlichen Heiligtum.",
                 "hu": "A vidéki utakon lehetnek jeges foltok; vezessen lassan ehhez a téli szentélyhez.",
                 "ro": "Drumurile rurale pot avea pete de gheață; conduceți încet spre acest sanctuar.",
-                "en": "The rural roads might have icy patches; drive slowly to this quiet, wintry sanctuary."
+                "en": "The rural roads might have icy patches; drive slowly to this quiet, wintry sanctuary.",
+                "fr": "Les routes rurales peuvent avoir des plaques de verglas ; roulez lentement vers ce sanctuaire hivernal et paisible."
               }
             },
             {
@@ -999,13 +1110,15 @@
                 "de": "Lac au Duc",
                 "hu": "Lac au Duc",
                 "ro": "Lac au Duc",
-                "en": "Lac au Duc"
+                "en": "Lac au Duc",
+                "fr": "Lac au Duc"
               },
               "tip_5lang": {
                 "de": "Die Seeblicke sind glasklar, aber der Wind ist beißend; beobachten Sie vom warmen Auto aus.",
                 "hu": "A tó látványa kristálytiszta télen, de a szél metsző; érdemes a meleg autóból nézni.",
                 "ro": "Vederea e limpede, dar vântul este tăios; priviți din mașina caldă dacă preferați.",
-                "en": "The lake views are crystal clear in winter, but the wind is biting; watch it from the warm car if preferred."
+                "en": "The lake views are crystal clear in winter, but the wind is biting; watch it from the warm car if preferred.",
+                "fr": "Les vues sur le lac sont d'une clarté cristalline en hiver, mais le vent est mordant ; observez-le depuis la voiture chauffée si vous préférez."
               }
             },
             {
@@ -1013,13 +1126,15 @@
                 "de": "Manoir de la Cour",
                 "hu": "Manoir de la Cour",
                 "ro": "Manoir de la Cour",
-                "en": "Manoir de la Cour"
+                "en": "Manoir de la Cour",
+                "fr": "Manoir de la Cour"
               },
               "tip_5lang": {
                 "de": "Die Winterlandschaft ist kahl, aber schön; achten Sie auf frühe Nachmittagsschatten.",
                 "hu": "A téli táj kopár, de gyönyörű; ügyeljen a kora délutáni hosszú árnyékokra.",
                 "ro": "Peisajul de iarnă este arid, dar frumos; atenție la umbrele lungi de după-amiază.",
-                "en": "The winter landscape around the manor is barren but beautiful; be mindful of early afternoon shadows."
+                "en": "The winter landscape around the manor is barren but beautiful; be mindful of early afternoon shadows.",
+                "fr": "Le paysage hivernal autour du manoir est dénudé mais magnifique ; faites attention aux ombres de début d'après-midi."
               }
             },
             {
@@ -1027,13 +1142,15 @@
                 "de": "Château de Malleville",
                 "hu": "Château de Malleville",
                 "ro": "Château de Malleville",
-                "en": "Château de Malleville"
+                "en": "Château de Malleville",
+                "fr": "Château de Malleville"
               },
               "tip_5lang": {
                 "de": "Kommen Sie vor Einbruch der Dunkelheit an; die Zwielichtstimmung wirkt magisch.",
                 "hu": "Érkezzen sötétedés előtt; a téli szürkület varázslatos hangulatot kölcsönöz neki.",
                 "ro": "Ajungeți înainte de lăsarea întunericului; crepusculul îi dă un aer magic.",
-                "en": "Arrive before dusk to appreciate the architecture; winter twilight gives the castle a magical feel."
+                "en": "Arrive before dusk to appreciate the architecture; winter twilight gives the castle a magical feel.",
+                "fr": "Arrivez avant le crépuscule pour apprécier l'architecture ; le ciel d'hiver donne au château une atmosphère magique."
               }
             }
           ]

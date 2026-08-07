@@ -21,7 +21,8 @@
             "de": "Place de la République",
             "hu": "Köztársaság tér",
             "ro": "Piața Republicii",
-            "en": "Place de la République"
+            "en": "Place de la République",
+            "fr": "Place de la République"
           },
           "coords": [
             0.4695,
@@ -45,7 +46,8 @@
             "de": "Château d'Azay-le-Rideau",
             "hu": "Azay-le-Rideau kastély",
             "ro": "Castelul Azay-le-Rideau",
-            "en": "Château d'Azay-le-Rideau"
+            "en": "Château d'Azay-le-Rideau",
+            "fr": "Château d’Azay-le-Rideau"
           },
           "coords": [
             0.466,
@@ -61,7 +63,7 @@
             "hu": "Figyeld a kastély tükröződését a vízben.",
             "ro": "Observați reflexia castelului în apă.",
             "en": "Watch for the mirror reflection in the water.",
-            "fr": "Observez l'effet miroir dans l'eau."
+            "fr": "Surveillez le reflet miroir dans l’eau."
           }
         },
         {
@@ -69,7 +71,8 @@
             "de": "Parc Romantique",
             "hu": "Romantikus park",
             "ro": "Parcul Romantic",
-            "en": "Romantic Park"
+            "en": "Romantic Park",
+            "fr": "Parc romantique"
           },
           "coords": [
             0.465,
@@ -85,7 +88,7 @@
             "hu": "Tökéletes helyszín a kastély fotózásához.",
             "ro": "Perfect pentru poze cu castelul.",
             "en": "Perfect spot for photos of the castle.",
-            "fr": "Lieu idéal pour photographier le château."
+            "fr": "Endroit parfait pour des photos du château."
           }
         },
         {
@@ -93,7 +96,8 @@
             "de": "Vieux Azay",
             "hu": "Óváros",
             "ro": "Centrul vechi Azay",
-            "en": "Vieux Azay"
+            "en": "Vieux Azay",
+            "fr": "Vieux Azay"
           },
           "coords": [
             0.468,
@@ -109,7 +113,7 @@
             "hu": "Fedezd fel a régi gerendavázas házakat.",
             "ro": "Descoperiți casele vechi cu bârne.",
             "en": "Discover the old half-timbered houses.",
-            "fr": "Découvrez les vieilles maisons à colombages."
+            "fr": "Découvrez les anciennes maisons à colombages."
           }
         },
         {
@@ -117,7 +121,8 @@
             "de": "Église Saint-Symphorien",
             "hu": "Szent Symphorien templom",
             "ro": "Biserica Sfântul Symphorien",
-            "en": "Saint-Symphorien Church"
+            "en": "Saint-Symphorien Church",
+            "fr": "Église Saint-Symphorien"
           },
           "coords": [
             0.4685,
@@ -141,7 +146,8 @@
             "de": "Bords de l'Indre",
             "hu": "Indre partja",
             "ro": "Malurile Indre",
-            "en": "Bords de l'Indre"
+            "en": "Bords de l'Indre",
+            "fr": "Bords de l’Indre"
           },
           "coords": [
             0.47,
@@ -157,7 +163,7 @@
             "hu": "Nyugtató séta a folyóparton.",
             "ro": "O plimbare liniștitoare pe malul râului.",
             "en": "A calming walk along the riverbanks.",
-            "fr": "Une promenade apaisante le long des berges."
+            "fr": "Promenade apaisante le long des berges."
           }
         }
       ],
@@ -166,7 +172,7 @@
         "hu": "Délelőtt elmerülünk az Azay-le-Rideau kastély reneszánsz pompájában, amely úgy lebeg az Indre folyón, mint egy gyémánt. A romantikus parkban tett séta után délben felfedezzük a történelmi központ szűk utcáit és gerendavázas házait. Délután meglátogatjuk az impozáns Szent Symphorien templomot, majd a napot békésen zárjuk az Indre folyó partján.",
         "ro": "Dimineața vă cufundați în splendoarea renascentistă a castelului Azay-le-Rideau, care pare să plutească pe râul Indre ca un diamant. După o plimbare relaxantă în parcul romantic, explorați la prânz centrul istoric cu străzile sale înguste și casele vechi. După-amiaza vizitați biserica impunătoare Saint-Symphorien și încheiați ziua liniștit pe malul râului Indre.",
         "en": "In the morning, immerse yourself in the Renaissance splendor of the Château d'Azay-le-Rideau, which seems to float on the Indre like a diamond. After a relaxing walk in the romantic park, explore the historical center with its narrow streets and half-timbered houses at midday. In the afternoon, visit the impressive Saint-Symphorien Church and end the day peacefully on the banks of the Indre.",
-        "fr": "Le matin, plongez dans la splendeur Renaissance du Château d'Azay-le-Rideau, qui semble flotter sur l'Indre tel un diamant. Après une promenade relaxante dans le parc romantique, explorez à la mi-journée le centre historique avec ses rues étroites et ses maisons à colombages. L'après-midi, visitez l'impressionnante église Saint-Symphorien et terminez la journée paisiblement sur les bords de l'Indre."
+        "fr": "Le matin, imprégnez-vous de la splendeur Renaissance du Château d’Azay-le-Rideau, qui semble flotter sur l’Indre comme un diamant. Après une promenade relaxante dans le parc romantique, explorez le centre historique aux rues étroites et maisons à colombages à midi. L’après-midi, visitez l’imposante église Saint-Symphorien et terminez la journée paisiblement sur les bords de l’Indre."
       },
       "gastro_picks": {
         "de": [
@@ -360,10 +366,10 @@
           "Don't miss the chance to try the local white wine."
         ],
         "fr": [
-          "Réservez votre billet pour le château en ligne pour éviter les longues files d'attente.",
-          "Les reflets sont plus beaux lorsqu'il n'y a pas de vent.",
+          "Réservez votre billet pour le château en ligne pour éviter les longues files d’attente.",
+          "Les reflets se voient mieux lorsqu'il n'y a pas de vent.",
           "Visitez le château tôt le matin pour une expérience plus calme.",
-          "Ne manquez pas l'occasion de goûter au vin blanc local."
+          "Ne manquez pas l'occasion de goûter le vin blanc local."
         ]
       }
     },
@@ -380,7 +386,8 @@
             "de": "Château d'Azay-le-Rideau",
             "hu": "Azay-le-Rideau kastély",
             "ro": "Castelul Azay-le-Rideau",
-            "en": "Château d'Azay-le-Rideau"
+            "en": "Château d'Azay-le-Rideau",
+            "fr": "Château d'Azay-le-Rideau"
           },
           "coords": [
             0.466,
@@ -396,7 +403,7 @@
             "hu": "A túra indítása a kastélynál.",
             "ro": "Punctul de plecare al turului de la castel.",
             "en": "Start your tour at the castle.",
-            "fr": "Commencez votre tour au château."
+            "fr": "Commencez votre visite au château."
           }
         },
         {
@@ -404,7 +411,8 @@
             "de": "Vallée des Goupillières",
             "hu": "Vallée des Goupillières",
             "ro": "Valea Goupillières",
-            "en": "Vallée des Goupillières"
+            "en": "Vallée des Goupillières",
+            "fr": "Vallée des Goupillières"
           },
           "coords": [
             0.445,
@@ -420,7 +428,7 @@
             "hu": "Fedezd fel a paraszti barlanglakásokat.",
             "ro": "Descoperiți locuințele rupestre ale țăranilor.",
             "en": "Discover the troglodyte peasant dwellings.",
-            "fr": "Découvrez les habitations paysannes troglodytiques."
+            "fr": "Découvrez les habitations troglodytiques paysannes."
           }
         },
         {
@@ -428,7 +436,8 @@
             "de": "Château de l'Islette",
             "hu": "Château de l'Islette",
             "ro": "Castelul Islette",
-            "en": "Château de l'Islette"
+            "en": "Château de l'Islette",
+            "fr": "Château de l'Islette"
           },
           "coords": [
             0.44,
@@ -452,7 +461,8 @@
             "de": "Bords de l'Indre",
             "hu": "Indre partja",
             "ro": "Malurile Indre",
-            "en": "Bords de l'Indre"
+            "en": "Bords de l'Indre",
+            "fr": "Bords de l'Indre"
           },
           "coords": [
             0.47,
@@ -468,7 +478,7 @@
             "hu": "Nyugodt visszavezető út a folyó mentén.",
             "ro": "Drum relaxant de întoarcere pe malul râului.",
             "en": "Relaxing ride back along the river.",
-            "fr": "Retour relaxant le long de la rivière."
+            "fr": "Retour en détente le long de la rivière à vélo."
           }
         },
         {
@@ -476,7 +486,8 @@
             "de": "Vieux Azay",
             "hu": "Óváros",
             "ro": "Centrul vechi Azay",
-            "en": "Vieux Azay"
+            "en": "Vieux Azay",
+            "fr": "Vieux Azay"
           },
           "coords": [
             0.468,
@@ -492,7 +503,7 @@
             "hu": "Egy hűsítő ital a falu központjában.",
             "ro": "O băutură răcoritoare în centrul satului.",
             "en": "A refreshing drink in the village center.",
-            "fr": "Une boisson rafraîchissante dans le centre du village."
+            "fr": "Une boisson rafraîchissante au centre du village."
           }
         }
       ],
@@ -501,7 +512,7 @@
         "hu": "Fedezze fel az Indre-völgyet két keréken. A falu pompás kastélyának megtekintése után a Goupillières-völgybe tekerünk, hogy megismerjük a barlanglakók (trogloditák) életét. A túra másik fénypontja az Islette kastély, Azay 'kistestvére'. A visszaút zöld tájakon és a folyó nyugodt folyása mentén vezet vissza a faluba.",
         "ro": "Experimentați valea Indre pe două roți. După vizitarea castelului magnific din sat, pedalați spre valea Goupillières pentru a înțelege viața în locuințele rupestre (troglodite). Un alt punct de atracție este castelul L'Islette, 'fratele mai mic' al lui Azay. Drumul de întoarcere vă poartă prin peisaje verzi și pe lângă cursul liniștit al râului înapoi în sat.",
         "en": "Experience the Indre valley on two wheels. After visiting the magnificent castle in the village, cycle to the Goupillières valley to learn about troglodyte life. Another highlight is the Château de l'Islette, the smaller 'sibling' of Azay. The return journey takes you through lush green landscapes and along the calm river path back into the town.",
-        "fr": "Découvrez la vallée de l'Indre sur deux roues. Après avoir visité le magnifique château du village, pédalez jusqu'à la vallée des Goupillières pour découvrir la vie troglodytique. Un autre point fort est le Château de l'Islette, le petit « frère » d'Azay. Le voyage de retour vous emmène à travers des paysages verdoyants et le long du sentier calme de la rivière jusqu'à la ville."
+        "fr": "Parcourez la vallée de l'Indre à vélo. Après la visite du magnifique château du village, pédalez jusqu'à la vallée des Goupillières pour en apprendre plus sur la vie troglodytique. Un autre point fort est le Château de l'Islette, le « petit frère » d'Azay. Le trajet de retour vous mène à travers des paysages verdoyants et le long du chemin paisible qui longe la rivière jusqu'à la ville."
       },
       "gastro_picks": {
         "de": [
@@ -630,10 +641,10 @@
           "Picnicking is encouraged in the park of Château de l'Islette."
         ],
         "fr": [
-          "L'itinéraire fait partie de 'La Loire à Vélo' et est très bien balisé.",
-          "Des locations de vélos sont disponibles directement dans le centre du village.",
-          "Les sentiers sont pour la plupart plats et adaptés aux familles.",
-          "Le pique-nique est encouragé dans le parc du Château de l'Islette."
+          "L'itinéraire fait partie de « La Loire à Vélo » et est très bien balisé.",
+          "Des locations de vélos sont disponibles directement au centre du village.",
+          "Les chemins sont principalement plats et adaptés aux familles.",
+          "Pique-niquer est encouragé dans le parc du Château de l'Islette."
         ]
       }
     },
@@ -650,7 +661,8 @@
             "de": "Château d'Azay-le-Rideau",
             "hu": "Azay-le-Rideau kastély",
             "ro": "Castelul Azay-le-Rideau",
-            "en": "Château d'Azay-le-Rideau"
+            "en": "Château d'Azay-le-Rideau",
+            "fr": "Château d'Azay-le-Rideau"
           },
           "coords": [
             0.466,
@@ -674,7 +686,8 @@
             "de": "Vallée des Goupillières",
             "hu": "Vallée des Goupillières",
             "ro": "Valea Goupillières",
-            "en": "Vallée des Goupillières"
+            "en": "Vallée des Goupillières",
+            "fr": "Vallée des Goupillières"
           },
           "coords": [
             0.445,
@@ -690,7 +703,7 @@
             "hu": "Betekintés a múlt vidéki életébe.",
             "ro": "O privire asupra vieții rurale din trecut.",
             "en": "Insight into rural life of past times.",
-            "fr": "Aperçu de la vie rurale d'autrefois."
+            "fr": "Un aperçu de la vie rurale d'autrefois."
           }
         },
         {
@@ -698,7 +711,8 @@
             "de": "Musée Maurice Dufresne",
             "hu": "Maurice Dufresne Múzeum",
             "ro": "Muzeul Maurice Dufresne",
-            "en": "Maurice Dufresne Museum"
+            "en": "Maurice Dufresne Museum",
+            "fr": "Musée Maurice Dufresne"
           },
           "coords": [
             0.38,
@@ -722,7 +736,8 @@
             "de": "Vieux Azay",
             "hu": "Óváros",
             "ro": "Centrul vechi Azay",
-            "en": "Vieux Azay"
+            "en": "Vieux Azay",
+            "fr": "Vieux Azay"
           },
           "coords": [
             0.468,
@@ -738,7 +753,7 @@
             "hu": "Itt az idő egy helyi borkóstolóra.",
             "ro": "Timp pentru o degustare de vin local.",
             "en": "Time for a local wine tasting.",
-            "fr": "Temps pour une dégustation de vin local."
+            "fr": "Moment pour une dégustation de vin local."
           }
         },
         {
@@ -746,7 +761,8 @@
             "de": "Bords de l'Indre",
             "hu": "Indre partja",
             "ro": "Malurile Indre",
-            "en": "Bords de l'Indre"
+            "en": "Bords de l'Indre",
+            "fr": "Bords de l'Indre"
           },
           "coords": [
             0.47,
@@ -771,7 +787,7 @@
         "hu": "Az autó lehetővé teszi, hogy Azay-le-Rideau környékét alaposabban felfedezzük. A tündérkastély után a Goupillières-völgybe autózunk, majd az egyedülálló Maurice Dufresne Múzeumba, amely történelmi gépeivel nyűgözi le a technika kedvelőit. A késő délutánt ismét Azay szívében töltjük, élvezve a helyi borkultúrát és a folyópartot.",
         "ro": "Mașina vă permite să explorați împrejurimile Azay-le-Rideau mai pe larg. După vizitarea castelului de basm, conduceți spre valea Goupillières și apoi spre muzeul unic Maurice Dufresne, care îi fascinează pe pasionații de tehnică cu colecția sa de mașini istorice. După-amiaza târziu o petreceți din nou în inima Azay, bucurându-vă de cultura vinului local și de râu.",
         "en": "A car allows you to explore the surroundings of Azay-le-Rideau more extensively. After visiting the fairytale castle, drive to the Goupillières valley and then to the unique Maurice Dufresne Museum, which fascinates tech enthusiasts with its collection of historic machinery. Spend the late afternoon back in the heart of Azay to enjoy the local wine culture and the riverbank.",
-        "fr": "La voiture vous permet d'explorer les environs d'Azay-le-Rideau plus largement. Après avoir visité le château de conte de fées, conduisez vers la vallée des Goupillières puis vers l'unique musée Maurice Dufresne, qui fascine les passionnés de technique avec sa collection de machines historiques. Passez la fin d'après-midi au cœur d'Azay pour profiter de la culture viticole locale et des bords de l'Indre."
+        "fr": "Une voiture vous permet d'explorer plus largement les environs d'Azay-le-Rideau. Après la visite du château de contes de fées, rejoignez la vallée des Goupillières puis l'unique Musée Maurice Dufresne, qui fascine les passionnés de technique avec sa collection de machines historiques. Passez la fin d'après‑midi au cœur d'Azay pour profiter de la culture locale du vin et des berges."
       },
       "gastro_picks": {
         "de": [
@@ -900,10 +916,10 @@
           "Consider combining this tour with a visit to Villandry (15 min drive)."
         ],
         "fr": [
-          "Attention aux zones de stationnement en ville ; beaucoup sont limitées dans le temps.",
+          "Faites attention aux zones de stationnement en ville ; beaucoup ont des limites de durée.",
           "Les routes environnantes sont étroites mais très pittoresques.",
           "Certains musées ont des horaires d'ouverture différents en hiver.",
-          "Pensez à combiner ce tour avec une visite de Villandry (15 min de route)."
+          "Envisagez de combiner cette visite avec un détour à Villandry (15 min en voiture)."
         ]
       }
     },
@@ -920,7 +936,8 @@
             "de": "Gare d'Azay-le-Rideau",
             "hu": "Vasútállomás",
             "ro": "Gara Azay-le-Rideau",
-            "en": "Azay-le-Rideau Train Station"
+            "en": "Azay-le-Rideau Train Station",
+            "fr": "Gare d'Azay-le-Rideau"
           },
           "coords": [
             0.475,
@@ -944,7 +961,8 @@
             "de": "Vieux Azay",
             "hu": "Óváros",
             "ro": "Centrul vechi Azay",
-            "en": "Vieux Azay"
+            "en": "Vieux Azay",
+            "fr": "Vieux Azay"
           },
           "coords": [
             0.468,
@@ -960,7 +978,7 @@
             "hu": "Séta az állomástól a központig.",
             "ro": "Plimbare de la gară spre centru.",
             "en": "A short walk from the station to the center.",
-            "fr": "Courte promenade de la gare vers le centre."
+            "fr": "Une courte promenade de la gare au centre."
           }
         },
         {
@@ -968,7 +986,8 @@
             "de": "Château d'Azay-le-Rideau",
             "hu": "Azay-le-Rideau kastély",
             "ro": "Castelul Azay-le-Rideau",
-            "en": "Château d'Azay-le-Rideau"
+            "en": "Château d'Azay-le-Rideau",
+            "fr": "Château d'Azay-le-Rideau"
           },
           "coords": [
             0.466,
@@ -992,7 +1011,8 @@
             "de": "Église Saint-Symphorien",
             "hu": "Szent Symphorien templom",
             "ro": "Biserica Sfântul Symphorien",
-            "en": "Saint-Symphorien Church"
+            "en": "Saint-Symphorien Church",
+            "fr": "Église Saint-Symphorien"
           },
           "coords": [
             0.4685,
@@ -1016,7 +1036,8 @@
             "de": "Place de la République",
             "hu": "Köztársaság tér",
             "ro": "Piața Republicii",
-            "en": "Place de la République"
+            "en": "Place de la République",
+            "fr": "Place de la République"
           },
           "coords": [
             0.4695,
@@ -1032,7 +1053,7 @@
             "hu": "Tökéletes hely egy hosszú ebédhez.",
             "ro": "Ideal pentru un prânz prelungit.",
             "en": "Perfect for a leisurely lunch.",
-            "fr": "Parfait pour un déjeuner tranquille."
+            "fr": "Parfaite pour un déjeuner tranquille."
           }
         }
       ],
@@ -1041,7 +1062,7 @@
         "hu": "A vasúti összeköttetésnek köszönhetően Azay-le-Rideau ideális egynapos túra tömegközlekedéssel. Az állomásra érkezve egy rövid séta után elérjük a bájos központot és a híres kastélyt. Élvezze a település nyugodt légkörét, látogassa meg a történelmi templomot, és fogyasszon el egy bőséges ebédet a piactéren, mielőtt kényelmesen visszatérne a vonathoz.",
         "ro": "Datorită conexiunii feroviare, Azay-le-Rideau este ideal pentru o excursie de o zi cu transportul public. După sosirea la gară, ajungeți în centrul fermecător și la castel după o scurtă plimbare. Savurați atmosfera relaxată a orașului, vizitați biserica istorică și răsfățați-vă cu un prânz bogat în piața centrală înainte de a vă întoarce la tren.",
         "en": "Thanks to its train station, Azay-le-Rideau is perfect for a day trip using public transport. Upon arrival, a short walk brings you to the charming center and the famous castle. Enjoy the relaxed atmosphere, visit the historical church, and treat yourself to a long lunch in the main square before heading back to the train station.",
-        "fr": "Grâce à sa gare, Azay-le-Rideau est idéale pour une excursion d'une journée en transports en commun. À votre arrivée, une courte marche vous mène au charmant centre et au célèbre château. Profitez de l'atmosphère détendue, visitez l'église historique et offrez-vous un long déjeuner sur la place principale avant de retourner à la gare."
+        "fr": "Grâce à sa gare, Azay-le-Rideau est parfait pour une excursion d'une journée en transport en commun. À l'arrivée, une courte marche vous amène au charmant centre et au célèbre château. Profitez de l'atmosphère détendue, visitez l'église historique et offrez-vous un long déjeuner sur la place principale avant de retourner à la gare."
       },
       "gastro_picks": {
         "de": [
@@ -1171,9 +1192,9 @@
         ],
         "fr": [
           "Vérifiez les horaires des trains de retour vers Tours ou Chinon.",
-          "La marche de la gare au château prend environ 15-20 minutes.",
+          "La marche de la gare au château prend environ 15 à 20 minutes.",
           "En haute saison, des services de bus supplémentaires sont souvent disponibles.",
-          "N'oubliez pas de composter votre billet avant de monter à bord."
+          "Pensez à composter votre billet avant de monter à bord."
         ]
       }
     }

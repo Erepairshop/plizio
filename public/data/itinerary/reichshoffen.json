@@ -21,7 +21,8 @@
             "de": "Saint-Michel Church",
             "hu": "Saint-Michel Church",
             "ro": "Saint-Michel Church",
-            "en": "Saint-Michel Church"
+            "en": "Saint-Michel Church",
+            "fr": "Église Saint-Michel"
           },
           "coords": [
             7.664413,
@@ -36,7 +37,8 @@
             "de": "Bewundern Sie die Architektur dieser Kirche, die ein Zeugnis lokaler Geschichte ist, und achten Sie auf die kunstvollen Fensterläden.",
             "hu": "Csodálja meg ennek a templomnak a lenyűgöző építészetét, amely a helyi történelem tanúja, és figyelje meg a díszes belső üvegablakokat.",
             "ro": "Admirați arhitectura impresionantă a acestei biserici istorice și nu uitați să observați vitraliile frumos ornamentate din interior.",
-            "en": "Admire the impressive architecture of this church that stands as a testament to local history, and observe the ornate stained glass windows."
+            "en": "Admire the impressive architecture of this church that stands as a testament to local history, and observe the ornate stained glass windows.",
+            "fr": "Admirez l’impressionnante architecture de cette église qui témoigne de l’histoire locale, et observez les vitraux ornés."
           }
         },
         {
@@ -44,7 +46,8 @@
             "de": "De Dietrich Castle",
             "hu": "De Dietrich Castle",
             "ro": "De Dietrich Castle",
-            "en": "De Dietrich Castle"
+            "en": "De Dietrich Castle",
+            "fr": "Château De Dietrich"
           },
           "coords": [
             7.673212,
@@ -59,7 +62,8 @@
             "de": "Erkunden Sie dieses historische Schloss der industriellen Epoche und nehmen Sie sich Zeit für einen Spaziergang durch den schönen Garten.",
             "hu": "Fedezze fel a régió ipari örökségéhez kötődő történelmi kastélyt, és mindenképpen szánjon időt egy sétára a környező gyönyörű parkban.",
             "ro": "Explorați castelul istoric legat de moștenirea industrială a regiunii și rezervați-vă timp pentru o plimbare relaxantă prin parc.",
-            "en": "Explore this historic castle deeply connected to the region's industrial heritage, and reserve time for a stroll through the park."
+            "en": "Explore this historic castle deeply connected to the region's industrial heritage, and reserve time for a stroll through the park.",
+            "fr": "Explorez ce château historique profondément lié au patrimoine industriel de la région, et prévoyez du temps pour une promenade dans le parc."
           }
         },
         {
@@ -67,7 +71,8 @@
             "de": "Maison de l'Archéologie des Vosges du Nord",
             "hu": "Maison de l'Archéologie des Vosges du Nord",
             "ro": "Maison de l'Archéologie des Vosges du Nord",
-            "en": "Maison de l'Archéologie des Vosges du Nord"
+            "en": "Maison de l'Archéologie des Vosges du Nord",
+            "fr": "Maison de l’Archéologie des Vosges du Nord"
           },
           "coords": [
             7.650506,
@@ -82,7 +87,8 @@
             "de": "Tauchen Sie in diesem Museum in die galloromanische Vergangenheit ein und verpassen Sie nicht die Artefakte im Hauptausstellungssaal.",
             "hu": "Merüljön el a galloromán múltban ebben a múzeumban, és semmiképpen ne hagyja ki a fő kiállítótérben található régészeti leleteket.",
             "ro": "Pătrundeți în trecutul galo-roman în acest muzeu fascinant și asigurați-vă că nu ratați artefactele detaliate din sala principală.",
-            "en": "Delve into the Gallo-Roman past within this fascinating museum, and make sure you do not miss the archaeological artifacts in the main hall."
+            "en": "Delve into the Gallo-Roman past within this fascinating museum, and make sure you do not miss the archaeological artifacts in the main hall.",
+            "fr": "Plongez dans le passé gallo-romain au sein de ce musée fascinant, et ne manquez pas les artefacts archéologiques dans la salle principale."
           }
         },
         {
@@ -90,7 +96,8 @@
             "de": "Église Saint-Martin",
             "hu": "Église Saint-Martin",
             "ro": "Église Saint-Martin",
-            "en": "Église Saint-Martin"
+            "en": "Église Saint-Martin",
+            "fr": "Église Saint-Martin"
           },
           "coords": [
             7.645619,
@@ -105,7 +112,8 @@
             "de": "Besichtigen Sie dieses charmante Gotteshaus mit ruhiger Atmosphäre und achten Sie auf die Details des historischen Altars.",
             "hu": "Látogasson el ebbe a békés hangulatú, bájos templomba, és figyelje meg a történelmi oltár finom és kidolgozott részleteit.",
             "ro": "Vizitați acest lăcaș de cult fermecător cu atmosferă liniștită și acordați atenție detaliilor fine ale altarului istoric special.",
-            "en": "Visit this charming place of worship known for its tranquil atmosphere, and pay close attention to the details of the historic altar."
+            "en": "Visit this charming place of worship known for its tranquil atmosphere, and pay close attention to the details of the historic altar.",
+            "fr": "Visitez ce lieu de culte charmant connu pour son atmosphère tranquille, et prêtez une attention particulière aux détails de l’autel historique."
           }
         },
         {
@@ -113,7 +121,8 @@
             "de": "La Glacière",
             "hu": "La Glacière",
             "ro": "La Glacière",
-            "en": "La Glacière"
+            "en": "La Glacière",
+            "fr": "La Glacière"
           },
           "coords": [
             7.64051,
@@ -128,7 +137,8 @@
             "de": "Entdecken Sie diesen einzigartigen Eiskeller, der zur Kühlung genutzt wurde, und tragen Sie bequeme Schuhe für das Gelände.",
             "hu": "Fedezze fel az egyedülálló jégvermet, amelyet régen hűtésre használtak, és viseljen kényelmes cipőt az egyenetlen terep miatt.",
             "ro": "Descoperiți pivnița de gheață unică folosită în trecut pentru răcire și purtați încălțăminte confortabilă pentru terenul denivelat.",
-            "en": "Discover this unique historic ice cellar once used for cooling provisions, and wear comfortable shoes for the slightly uneven terrain."
+            "en": "Discover this unique historic ice cellar once used for cooling provisions, and wear comfortable shoes for the slightly uneven terrain.",
+            "fr": "Découvrez cette glacière historique unique autrefois utilisée pour conserver les provisions, et portez des chaussures confortables pour le terrain légèrement irrégulier."
           }
         }
       ],
@@ -136,7 +146,8 @@
         "de": "Starten Sie in der Kirche Saint-Michel. Ein kurzer Spaziergang führt zum Schloss De Dietrich und seiner Industriegeschichte.\n\nDanach geht es nach Norden. Der Weg zur Maison de l'Archéologie zeigt die schöne lokale Architektur.\n\nDer Nachmittag gehört der Historie. Besuchen Sie die Kirche Saint-Martin vor der einzigartigen Anlage La Glacière.\n\nDer Tag endet ruhig. Genießen Sie einen entspannten Spaziergang.",
         "hu": "Kezdje a Saint-Michel templomban. Egy rövid séta elvezet a De Dietrich kastélyhoz, ahol megismeri az ipartörténetet.\n\nEzután induljon északra. A Maison de l'Archéologie felé vezető út bemutatja a bájos helyi építészetet.\n\nA délután a történelemé. Látogassa meg a Saint-Martin templomot, majd a különleges La Glacière-t.\n\nA nap nyugodtan zárul. Élvezze a békés sétát a csendes történelmi utcákon.",
         "ro": "Începeți la Biserica Saint-Michel. O plimbare scurtă duce la Castelul De Dietrich pentru a descoperi istoria industrială.\n\nApoi, mergeți spre nord. Traseul spre Maison de l'Archéologie dezvăluie arhitectura locală fermecătoare.\n\nDupă-amiaza este pentru istorie. Vizitați Biserica Saint-Martin înainte de a explora unica La Glacière.\n\nZiua se încheie liniștit. Bucurați-vă de o plimbare relaxantă de seară.",
-        "en": "Start at Saint-Michel Church. A short walk leads to De Dietrich Castle to discover industrial history.\n\nNext, head north. The route to Maison de l'Archéologie showcases charming local architecture.\n\nThe afternoon is for historical sites. Visit Église Saint-Martin before exploring the unique La Glacière.\n\nThe day concludes gently. Enjoy a peaceful stroll, letting the city's rich impressions sink in."
+        "en": "Start at Saint-Michel Church. A short walk leads to De Dietrich Castle to discover industrial history.\n\nNext, head north. The route to Maison de l'Archéologie showcases charming local architecture.\n\nThe afternoon is for historical sites. Visit Église Saint-Martin before exploring the unique La Glacière.\n\nThe day concludes gently. Enjoy a peaceful stroll, letting the city's rich impressions sink in.",
+        "fr": "Commencez à l’Église Saint-Michel. Une courte promenade mène au Château De Dietrich pour découvrir l’histoire industrielle.\n\nEnsuite, dirigez-vous vers le nord. La route vers la Maison de l’Archéologie met en valeur une charmante architecture locale.\n\nL’après-midi est consacré aux sites historiques. Visitez l’Église Saint-Martin avant d’explorer la singulière La Glacière.\n\nLa journée se termine en douceur. Profitez d’une promenade paisible pour laisser les riches impressions de la ville s’imprégner."
       },
       "variants": {
         "rainy": {
@@ -144,7 +155,8 @@
             "de": "Der morgendliche Regen hält Sie nicht von Kirche und Schloss ab. Mittags bietet das Archäologiemuseum eine trockene Zuflucht. Der Nachmittag geht mit einer weiteren Kirche und dem Eiskeller weiter. Der Abend bringt einen nassen, aber stimmungsvollen Spaziergang. Bringen Sie einen Regenschirm mit und achten Sie auf rutschige Steine.",
             "hu": "A reggeli eső nem akadályozza meg a templom és a kastély felfedezését. Délben a múzeum száraz menedéket nyújt. A délután egy újabb templommal és a történelmi jégveremmel folytatódik. Az este vizes, de hangulatos sétát ígér. Hozzon jó esernyőt, és vigyázzon a csúszós macskakövekre a központban.",
             "ro": "Ploaia de dimineață nu va opri explorarea bisericii și a castelului. La prânz, muzeul de arheologie oferă un adăpost uscat. După-amiaza continuă cu o altă biserică și o veche casă de gheață. Seara aduce o plimbare umedă, dar plină de atmosferă. Luați o umbrelă și atenție la pietrele cubice alunecoase.",
-            "en": "Morning rain won't stop your exploration of the church and castle. Midday calls for the dry shelter of the archaeology museum. The afternoon continues with another historic church and the old icehouse. Evening brings a wet but atmospheric walk. Bring a good umbrella and watch out for slippery cobblestones in the center."
+            "en": "Morning rain won't stop your exploration of the church and castle. Midday calls for the dry shelter of the archaeology museum. The afternoon continues with another historic church and the old icehouse. Evening brings a wet but atmospheric walk. Bring a good umbrella and watch out for slippery cobblestones in the center.",
+            "fr": "La pluie du matin ne freinera pas votre exploration de l’église et du château. À midi, le musée d’archéologie offre un abri sec. L’après-midi se poursuit avec une autre église historique et la vieille glacière. Le soir, une promenade humide mais atmosphérique vous attend. Prenez un bon parapluie et attention aux pavés glissants du centre."
           },
           "stops": [
             {
@@ -152,13 +164,15 @@
                 "de": "Saint-Michel Church",
                 "hu": "Saint-Michel Church",
                 "ro": "Saint-Michel Church",
-                "en": "Saint-Michel Church"
+                "en": "Saint-Michel Church",
+                "fr": "Église Saint-Michel"
               },
               "tip_5lang": {
                 "de": "Bewundern Sie die Architektur im Trockenen; halten Sie Ihren Schirm für den kurzen Weg bereit.",
                 "hu": "Csodálja meg a lenyűgöző építészetet a száraz belső térben; tartsa kéznél az esernyőjét.",
                 "ro": "Admirați arhitectura impresionantă în interiorul uscat; țineți umbrela la îndemână pentru scurtul drum.",
-                "en": "Admire the striking architecture inside where it's dry; keep your umbrella handy for the short walk."
+                "en": "Admire the striking architecture inside where it's dry; keep your umbrella handy for the short walk.",
+                "fr": "Admirez l’architecture frappante à l’intérieur où il fait sec ; gardez votre parapluie à portée pour la courte promenade."
               }
             },
             {
@@ -166,13 +180,15 @@
                 "de": "De Dietrich Castle",
                 "hu": "De Dietrich Castle",
                 "ro": "De Dietrich Castle",
-                "en": "De Dietrich Castle"
+                "en": "De Dietrich Castle",
+                "fr": "Château De Dietrich"
               },
               "tip_5lang": {
                 "de": "Erkunden Sie die überdachten Bereiche; nasse Wege erfordern rutschfestes Schuhwerk.",
                 "hu": "Fedezze fel a fedett tereket; a birtok körüli nedves ösvények csúszásmentes cipőt igényelnek.",
                 "ro": "Explorați interioarele și zonele acoperite; aleile umede necesită încălțăminte rezistentă la alunecare.",
-                "en": "Explore the grand interiors and covered sections; wet paths around the estate require sturdy, non-slip shoes."
+                "en": "Explore the grand interiors and covered sections; wet paths around the estate require sturdy, non-slip shoes.",
+                "fr": "Explorez les grands intérieurs et les parties couvertes ; les chemins humides autour du domaine exigent des chaussures solides et antidérapantes."
               }
             },
             {
@@ -180,13 +196,15 @@
                 "de": "Maison de l'Archéologie des Vosges du Nord",
                 "hu": "Maison de l'Archéologie des Vosges du Nord",
                 "ro": "Maison de l'Archéologie des Vosges du Nord",
-                "en": "Maison de l'Archéologie des Vosges du Nord"
+                "en": "Maison de l'Archéologie des Vosges du Nord",
+                "fr": "Maison de l’Archéologie des Vosges du Nord"
               },
               "tip_5lang": {
                 "de": "Perfekter Zufluchtsort an Regentagen; genießen Sie die Ausstellung, während es draußen in Strömen regnet.",
                 "hu": "Tökéletes esős napi menedék ősi leletekkel; élvezze a kiállítást, amíg kint zuhog az eső.",
                 "ro": "Refugiu perfect pentru o zi ploioasă; bucurați-vă de expozițiile detaliate în timp ce afară toarnă.",
-                "en": "Perfect rainy day refuge filled with ancient artifacts; enjoy the extensive exhibits while the rain pours outside."
+                "en": "Perfect rainy day refuge filled with ancient artifacts; enjoy the extensive exhibits while the rain pours outside.",
+                "fr": "Parfait refuge par temps de pluie rempli d’objets anciens ; profitez des vastes expositions pendant que la pluie tombe dehors."
               }
             },
             {
@@ -194,13 +212,15 @@
                 "de": "Église Saint-Martin",
                 "hu": "Église Saint-Martin",
                 "ro": "Église Saint-Martin",
-                "en": "Église Saint-Martin"
+                "en": "Église Saint-Martin",
+                "fr": "Église Saint-Martin"
               },
               "tip_5lang": {
                 "de": "Machen Sie eine trockene Pause; die Buntglasfenster wirken unter bewölktem Himmel besonders dramatisch.",
                 "hu": "Tartson egy száraz pihenőt; az ólomüveg ablakok drámaian festenek a felhős égbolt alatt.",
                 "ro": "Faceți o pauză uscată aici; vitraliile sale arată dramatic sub cerul întunecat și înnorat.",
-                "en": "Take a peaceful, dry break in this historic sanctuary; its stained glass looks dramatic under dark, cloudy skies."
+                "en": "Take a peaceful, dry break in this historic sanctuary; its stained glass looks dramatic under dark, cloudy skies.",
+                "fr": "Faites une pause paisible et au sec dans ce sanctuaire historique ; ses vitraux sont dramatiques sous un ciel sombre et nuageux."
               }
             },
             {
@@ -208,13 +228,15 @@
                 "de": "La Glacière",
                 "hu": "La Glacière",
                 "ro": "La Glacière",
-                "en": "La Glacière"
+                "en": "La Glacière",
+                "fr": "La Glacière"
               },
               "tip_5lang": {
                 "de": "Entdecken Sie die historische Eislagerung; der Ort ist feucht, tragen Sie daher wasserfestes Schuhwerk.",
                 "hu": "Fedezze fel a történelmi jégtárolást; a helyszín nagyon nyirkos lehet, viseljen vízálló lábbelit.",
                 "ro": "Descoperiți cum se păstra gheața; situl poate fi umed, așa că purtați încălțăminte impermeabilă.",
-                "en": "Discover how ice was historically stored; the site can be very damp, so wear waterproof footwear during your visit."
+                "en": "Discover how ice was historically stored; the site can be very damp, so wear waterproof footwear during your visit.",
+                "fr": "Découvrez comment la glace était conservée historiquement ; le site peut être très humide, portez des chaussures imperméables pendant la visite."
               }
             }
           ]
@@ -224,7 +246,8 @@
             "de": "Klare Wintermorgen sind perfekt für Schloss und Kirche. Wärmen Sie sich mittags im Museum auf. Nachmittags beim Eiskeller wird es kalt, tragen Sie warme Schichten. Sonnenuntergang ist bereits gegen 17:00 Uhr, was einen magischen Abendspaziergang durch das frostige Zentrum schafft.",
             "hu": "A csípős téli reggelek tökéletesek a kastélyhoz. Délben melegedjen fel a múzeumban. Délután a jégveremnél fokozódik a hideg, öltözzön rétegesen. A nap már 17:00 körül lenyugszik, ami varázslatos esti hangulatot teremt a fagyos városközpontban tett sétához.",
             "ro": "Diminețile de iarnă sunt perfecte pentru castel și biserică. Încălziți-vă în muzeu la prânz. Frigul se instalează după-amiaza la casa de gheață, purtați haine groase. Apusul sosește devreme, în jur de 17:00, creând o atmosferă magică pentru o plimbare de seară în centrul înghețat.",
-            "en": "Crisp winter mornings are perfect for the castle and church. Warm up in the museum around midday. The afternoon chill sets in as you visit the icehouse, so dress in warm layers. Sunset arrives early around 17:00, creating a magical dusk atmosphere for your evening walk through the frosty town center."
+            "en": "Crisp winter mornings are perfect for the castle and church. Warm up in the museum around midday. The afternoon chill sets in as you visit the icehouse, so dress in warm layers. Sunset arrives early around 17:00, creating a magical dusk atmosphere for your evening walk through the frosty town center.",
+            "fr": "Les matinées hivernales vives sont parfaites pour le château et l’église. Réchauffez-vous au musée vers midi. Le froid de l’après-midi s’installe lors de la visite de la glacière, pensez à vous habiller en couches chaudes. Le coucher du soleil arrive tôt vers 17:00, créant une atmosphère crépusculaire magique pour votre promenade du soir dans le centre gelé."
           },
           "stops": [
             {
@@ -232,13 +255,15 @@
                 "de": "Saint-Michel Church",
                 "hu": "Saint-Michel Church",
                 "ro": "Saint-Michel Church",
-                "en": "Saint-Michel Church"
+                "en": "Saint-Michel Church",
+                "fr": "Église Saint-Michel"
               },
               "tip_5lang": {
                 "de": "Die ruhige Winteratmosphäre ist wunderschön; wärmen Sie sich drinnen auf, bevor Sie weitergehen.",
                 "hu": "A csendes téli hangulat fokozza az élményt; lépjen be, hogy felmelegítse a kezét a séta folytatása előtt.",
                 "ro": "Atmosfera de iarnă îmbunătățește această biserică; intrați pentru a vă încălzi mâinile înainte de a continua.",
-                "en": "The quiet winter atmosphere enhances this church; step inside to warm your hands before continuing your walk."
+                "en": "The quiet winter atmosphere enhances this church; step inside to warm your hands before continuing your walk.",
+                "fr": "L’atmosphère hivernale calme met en valeur cette église ; entrez pour vous réchauffer les mains avant de poursuivre votre promenade."
               }
             },
             {
@@ -246,13 +271,15 @@
                 "de": "De Dietrich Castle",
                 "hu": "De Dietrich Castle",
                 "ro": "De Dietrich Castle",
-                "en": "De Dietrich Castle"
+                "en": "De Dietrich Castle",
+                "fr": "Château De Dietrich"
               },
               "tip_5lang": {
                 "de": "Das Schloss wirkt im Winter majestätisch; kleiden Sie sich warm, die Steinflure sind oft kühl.",
                 "hu": "A kastély télen fenséges látványt nyújt; öltözzön melegen, mert a kőfolyosók hűvösek lehetnek.",
                 "ro": "Castelul arată maiestuos iarna; îmbrăcați-vă călduros, deoarece coridoarele de piatră pot fi reci.",
-                "en": "The imposing castle looks stark and majestic in winter; dress warmly as the stone corridors can be quite chilly."
+                "en": "The imposing castle looks stark and majestic in winter; dress warmly as the stone corridors can be quite chilly.",
+                "fr": "L’imposant château paraît austère et majestueux en hiver ; habillez-vous chaudement car les corridors de pierre peuvent être très froids."
               }
             },
             {
@@ -260,13 +287,15 @@
                 "de": "Maison de l'Archéologie des Vosges du Nord",
                 "hu": "Maison de l'Archéologie des Vosges du Nord",
                 "ro": "Maison de l'Archéologie des Vosges du Nord",
-                "en": "Maison de l'Archéologie des Vosges du Nord"
+                "en": "Maison de l'Archéologie des Vosges du Nord",
+                "fr": "Maison de l’Archéologie des Vosges du Nord"
               },
               "tip_5lang": {
                 "de": "Ein gut beheizter Ort für Geschichte; verbringen Sie hier extra Zeit, um der Kälte zu entfliehen.",
                 "hu": "Jól fűtött tér a helyi történelemhez; töltsön itt több időt, hogy elkerülje a kinti fagyos hőmérsékletet.",
                 "ro": "Un spațiu bine încălzit; petreceți mai mult timp aici pentru a scăpa de temperaturile de îngheț de afară.",
-                "en": "A well-heated space to dive into local history; spend extra time here to escape the freezing outdoor temperatures."
+                "en": "A well-heated space to dive into local history; spend extra time here to escape the freezing outdoor temperatures.",
+                "fr": "Un espace bien chauffé pour plonger dans l’histoire locale ; passez plus de temps ici pour échapper aux températures glaciales extérieures."
               }
             },
             {
@@ -274,13 +303,15 @@
                 "de": "Église Saint-Martin",
                 "hu": "Église Saint-Martin",
                 "ro": "Église Saint-Martin",
-                "en": "Église Saint-Martin"
+                "en": "Église Saint-Martin",
+                "fr": "Église Saint-Martin"
               },
               "tip_5lang": {
                 "de": "Ein ruhiger Halt, um das Winterlicht zu bewundern; der Innenraum bietet eine willkommene Pause von der Kälte.",
                 "hu": "Békés megálló a téli fények csodálatára; a fűtött belső tér kellemes menedéket nyújt a hideg elől.",
                 "ro": "O oprire senină pentru a admira lumina iernii; interiorul încălzit oferă un refugiu binevenit de frig.",
-                "en": "A serene stop to admire the winter light through the windows; the heated interior offers a welcome cold respite."
+                "en": "A serene stop to admire the winter light through the windows; the heated interior offers a welcome cold respite.",
+                "fr": "Un arrêt serein pour admirer la lumière hivernale à travers les vitraux ; l’intérieur chauffé offre un répit bienvenu contre le froid."
               }
             },
             {
@@ -288,13 +319,15 @@
                 "de": "La Glacière",
                 "hu": "La Glacière",
                 "ro": "La Glacière",
-                "en": "La Glacière"
+                "en": "La Glacière",
+                "fr": "La Glacière"
               },
               "tip_5lang": {
                 "de": "Sehen Sie den historischen Eiskeller im Frost; dicke Handschuhe und eine Mütze sind hier unerlässlich.",
                 "hu": "Nézze meg a jégvermet a természetes, fagyos közegében; vastag kesztyű és meleg sapka elengedhetetlen.",
                 "ro": "Vedeți casa de gheață în elementul ei natural; mănușile groase și o căciulă caldă sunt esențiale aici.",
-                "en": "See the historic icehouse in its natural freezing element; thick gloves and a warm hat are essential for this stop."
+                "en": "See the historic icehouse in its natural freezing element; thick gloves and a warm hat are essential for this stop.",
+                "fr": "Voyez la glacière historique dans son élément glacial naturel ; des gants épais et un bonnet chaud sont essentiels pour cette étape."
               }
             }
           ]
@@ -314,7 +347,8 @@
             "de": "Saint-Michel Church",
             "hu": "Saint-Michel Church",
             "ro": "Saint-Michel Church",
-            "en": "Saint-Michel Church"
+            "en": "Saint-Michel Church",
+            "fr": "Église Saint-Michel"
           },
           "coords": [
             7.664413,
@@ -329,7 +363,8 @@
             "de": "Bewundern Sie die Architektur dieser Kirche, die ein Zeugnis lokaler Geschichte ist, und achten Sie auf die kunstvollen Fensterläden.",
             "hu": "Csodálja meg ennek a templomnak a lenyűgöző építészetét, amely a helyi történelem tanúja, és figyelje meg a díszes belső üvegablakokat.",
             "ro": "Admirați arhitectura impresionantă a acestei biserici istorice și nu uitați să observați vitraliile frumos ornamentate din interior.",
-            "en": "Admire the impressive architecture of this church that stands as a testament to local history, and observe the ornate stained glass windows."
+            "en": "Admire the impressive architecture of this church that stands as a testament to local history, and observe the ornate stained glass windows.",
+            "fr": "Admirez l’impressionnante architecture de cette église qui témoigne de l’histoire locale, et observez les vitraux ornés."
           }
         },
         {
@@ -337,7 +372,8 @@
             "de": "De Dietrich Castle",
             "hu": "De Dietrich Castle",
             "ro": "De Dietrich Castle",
-            "en": "De Dietrich Castle"
+            "en": "De Dietrich Castle",
+            "fr": "Château De Dietrich"
           },
           "coords": [
             7.673212,
@@ -352,7 +388,8 @@
             "de": "Erkunden Sie dieses historische Schloss der industriellen Epoche und nehmen Sie sich Zeit für einen Spaziergang durch den schönen Garten.",
             "hu": "Fedezze fel a régió ipari örökségéhez kötődő történelmi kastélyt, és mindenképpen szánjon időt egy sétára a környező gyönyörű parkban.",
             "ro": "Explorați castelul istoric legat de moștenirea industrială a regiunii și rezervați-vă timp pentru o plimbare relaxantă prin parc.",
-            "en": "Explore this historic castle deeply connected to the region's industrial heritage, and reserve time for a stroll through the park."
+            "en": "Explore this historic castle deeply connected to the region's industrial heritage, and reserve time for a stroll through the park.",
+            "fr": "Explorez ce château historique profondément lié au patrimoine industriel de la région, et prévoyez du temps pour une promenade dans le parc."
           }
         },
         {
@@ -360,7 +397,8 @@
             "de": "Réserve naturelle du plan d'eau de Reichshoffen",
             "hu": "Réserve naturelle du plan d'eau de Reichshoffen",
             "ro": "Réserve naturelle du plan d'eau de Reichshoffen",
-            "en": "Réserve naturelle du plan d'eau de Reichshoffen"
+            "en": "Réserve naturelle du plan d'eau de Reichshoffen",
+            "fr": "Réserve naturelle du plan d’eau de Reichshoffen"
           },
           "coords": [
             7.679201,
@@ -375,7 +413,8 @@
             "de": "Entspannen Sie in diesem Naturschutzgebiet mit idyllischem See, wo Sie mit einem Fernglas hervorragend Wasservögel beobachten können.",
             "hu": "Pihenjen meg ebben a gyönyörű természetvédelmi területben a tavánál, ahol távcsővel kiválóan megfigyelheti a ritka vízimadarakat.",
             "ro": "Relaxați-vă în rezervația naturală cu lacul pitoresc, unde puteți observa excelent păsări de apă rare cu un binoclu.",
-            "en": "Relax in this beautiful nature reserve featuring a picturesque lake, making it the perfect spot to observe rare water birds."
+            "en": "Relax in this beautiful nature reserve featuring a picturesque lake, making it the perfect spot to observe rare water birds.",
+            "fr": "Détendez-vous dans cette belle réserve naturelle avec un lac pittoresque, un lieu parfait pour observer des oiseaux d’eau rares."
           }
         },
         {
@@ -383,7 +422,8 @@
             "de": "Maison de l'Archéologie des Vosges du Nord",
             "hu": "Maison de l'Archéologie des Vosges du Nord",
             "ro": "Maison de l'Archéologie des Vosges du Nord",
-            "en": "Maison de l'Archéologie des Vosges du Nord"
+            "en": "Maison de l'Archéologie des Vosges du Nord",
+            "fr": "Maison de l’Archéologie des Vosges du Nord"
           },
           "coords": [
             7.650506,
@@ -398,7 +438,8 @@
             "de": "Tauchen Sie in diesem Museum in die galloromanische Vergangenheit ein und verpassen Sie nicht die Artefakte im Hauptausstellungssaal.",
             "hu": "Merüljön el a galloromán múltban ebben a múzeumban, és semmiképpen ne hagyja ki a fő kiállítótérben található régészeti leleteket.",
             "ro": "Pătrundeți în trecutul galo-roman în acest muzeu fascinant și asigurați-vă că nu ratați artefactele detaliate din sala principală.",
-            "en": "Delve into the Gallo-Roman past within this fascinating museum, and make sure you do not miss the archaeological artifacts in the main hall."
+            "en": "Delve into the Gallo-Roman past within this fascinating museum, and make sure you do not miss the archaeological artifacts in the main hall.",
+            "fr": "Plongez dans le passé gallo-romain au sein de ce musée fascinant, et ne manquez pas les artefacts archéologiques dans la salle principale."
           }
         },
         {
@@ -406,7 +447,8 @@
             "de": "Cuirassiers Monument",
             "hu": "Cuirassiers Monument",
             "ro": "Cuirassiers Monument",
-            "en": "Cuirassiers Monument"
+            "en": "Cuirassiers Monument",
+            "fr": "Monument des Cuirassiers"
           },
           "coords": [
             7.691417,
@@ -421,7 +463,8 @@
             "de": "Halten Sie an diesem Denkmal, das an Reiterangriffe erinnert, und lesen Sie die Informationstafeln für tiefe historische Einblicke.",
             "hu": "Álljon meg az emlékműnél, amely a hősies lovasrohamoknak állít emléket, és olvassa el a táblákat a történelmi megértéshez.",
             "ro": "Opriți-vă la acest monument care comemorează atacurile cavaleriei și citiți panourile pentru a înțelege contextul istoric.",
-            "en": "Stop by this striking monument commemorating heroic cavalry charges, and read the informational plaques for a deeper historical context."
+            "en": "Stop by this striking monument commemorating heroic cavalry charges, and read the informational plaques for a deeper historical context.",
+            "fr": "Faites un arrêt auprès de ce monument saisissant commémorant de courageuses charges de cavalerie, et lisez les plaques d’information pour un contexte historique plus profond."
           }
         }
       ],
@@ -429,7 +472,8 @@
         "de": "Starten Sie bei der Kirche Saint-Michel. Die erste Etappe führt zum prachtvollen Schloss De Dietrich.\n\nRadeln Sie entspannt zur Réserve naturelle. Genießen Sie die idyllische Natur an diesem malerischen See.\n\nDanach geht es zur Maison de l'Archéologie. Die schönen Radwege dorthin bieten tolle Ausblicke.\n\nZum Abschluss erreichen Sie das Cuirassiers-Denkmal. Reflektieren Sie Ihre erlebnisreiche Fahrt.",
         "hu": "Induljon a Saint-Michel templomtól. Az első szakasz a lenyűgöző De Dietrich kastélyhoz vezet.\n\nKerekezzen kényelmesen a Réserve naturelle tavához. Élvezze a festői tájat és az idilli természetet.\n\nAz útvonal ezután a Maison de l'Archéologie ókori kincseihez visz. Az itteni utak csodás kilátást nyújtanak.\n\nZárja a napot a Cuirassiers emlékműnél, és gondoljon vissza az izgalmas utazásra.",
         "ro": "Începeți la Biserica Saint-Michel. Prima etapă vă duce la magnificul Castel De Dietrich, un reper industrial.\n\nPedalați relaxat spre Réserve naturelle. Bucurați-vă de peisajele naturale idilice la acest lac pitoresc.\n\nTraseul continuă la Maison de l'Archéologie. Drumurile oferă priveliști minunate asupra împrejurimilor.\n\nÎncheiați la Monumentul Cuirasierilor, reflectând asupra călătoriei captivante.",
-        "en": "Start your ride at Saint-Michel Church. The first stretch takes you to De Dietrich Castle, a glorious industrial landmark.\n\nCycle leisurely to the Réserve naturelle. At this picturesque lake, enjoy the idyllic natural landscapes.\n\nThe route then leads to Maison de l'Archéologie for ancient treasures. The paths offer wonderful views.\n\nConclude at the striking Cuirassiers Monument. Reflect on a captivating ride."
+        "en": "Start your ride at Saint-Michel Church. The first stretch takes you to De Dietrich Castle, a glorious industrial landmark.\n\nCycle leisurely to the Réserve naturelle. At this picturesque lake, enjoy the idyllic natural landscapes.\n\nThe route then leads to Maison de l'Archéologie for ancient treasures. The paths offer wonderful views.\n\nConclude at the striking Cuirassiers Monument. Reflect on a captivating ride.",
+        "fr": "Commencez votre balade à l’Église Saint-Michel. Le premier tronçon vous mène au Château De Dietrich, un glorieux repère industriel.\n\nPédalez tranquillement jusqu’à la Réserve naturelle. Au bord du lac pittoresque, profitez des paysages naturels idylliques.\n\nL’itinéraire conduit ensuite à la Maison de l’Archéologie pour des trésors antiques. Les chemins offrent de belles vues.\n\nConcluez au saisissant Monument des Cuirassiers. Réfléchissez à cette balade captivante."
       },
       "variants": {
         "rainy": {
@@ -437,7 +481,8 @@
             "de": "Beginnen Sie die nasse Fahrt mit guter Regenkleidung. Radeln Sie mittags vorsichtig zum Naturschutzgebiet und trocknen Sie im Museum. Der Nachmittag endet am Denkmal. Abendliche Fahrten erfordern Vorsicht. Sorgen Sie für Schutzbleche und achten Sie auf rutschiges Laub.",
             "hu": "Kezdje a vizes utat jó esőruhában. Délben tekerjen óvatosan a természetvédelmi területre, majd száradjon meg a múzeumban. A délután az emlékműnél ér véget. Az esti kerékpározás óvatosságot igényel. Legyen sárvédője, és vigyázzon a csúszós, nedves falevelekre.",
             "ro": "Începeți plimbarea umedă cu echipament bun de ploaie. Pedalați cu grijă spre rezervație la prânz, apoi uscați-vă în muzeu. După-amiaza se termină la monument. Ciclismul de seară necesită prudență. Asigurați-vă că aveți apărători de noroi și atenție la frunzele umede.",
-            "en": "Start your wet ride with the church and castle, wearing good rain gear. Cycle carefully to the nature reserve at midday, then dry off in the museum. The afternoon finishes at the monument. Evening riding requires caution. Ensure your bike has mudguards and ride cautiously on wet, slippery leaves."
+            "en": "Start your wet ride with the church and castle, wearing good rain gear. Cycle carefully to the nature reserve at midday, then dry off in the museum. The afternoon finishes at the monument. Evening riding requires caution. Ensure your bike has mudguards and ride cautiously on wet, slippery leaves.",
+            "fr": "Commencez votre sortie humide par l’église et le château en portant un bon équipement de pluie. Roulez prudemment jusqu’à la réserve naturelle à midi, puis séchez-vous dans le musée. L’après-midi se termine au monument. La conduite du soir exige de la prudence. Assurez-vous que votre vélo a des garde-boue et roulez prudemment sur les feuilles mouillées et glissantes."
           },
           "stops": [
             {
@@ -445,13 +490,15 @@
                 "de": "Saint-Michel Church",
                 "hu": "Saint-Michel Church",
                 "ro": "Saint-Michel Church",
-                "en": "Saint-Michel Church"
+                "en": "Saint-Michel Church",
+                "fr": "Église Saint-Michel"
               },
               "tip_5lang": {
                 "de": "Ein trockener Hafen am Morgen; parken Sie das Rad sicher und schütteln Sie den Regen ab.",
                 "hu": "Száraz menedék a reggel indításához; parkolja le a kerékpárt, és rázza le az esőt belépés előtt.",
                 "ro": "Un refugiu uscat dimineața; parcați bicicleta în siguranță și scuturați-vă de ploaie înainte de a intra.",
-                "en": "A dry haven to start your morning; park your bike securely and shake off the rain before admiring the interior."
+                "en": "A dry haven to start your morning; park your bike securely and shake off the rain before admiring the interior.",
+                "fr": "Un havre sec pour commencer la matinée ; attachez bien votre vélo et secouez la pluie avant d’admirer l’intérieur."
               }
             },
             {
@@ -459,13 +506,15 @@
                 "de": "De Dietrich Castle",
                 "hu": "De Dietrich Castle",
                 "ro": "De Dietrich Castle",
-                "en": "De Dietrich Castle"
+                "en": "De Dietrich Castle",
+                "fr": "Château De Dietrich"
               },
               "tip_5lang": {
                 "de": "Fahren Sie vorsichtig auf dem nassen Weg; die großen Säle bieten eine faszinierende, trockene Zuflucht.",
                 "hu": "Óvatosan tekerjen a nedves úton; a nagy csarnokok lenyűgöző és száraz menedéket nyújtanak az eső elől.",
                 "ro": "Pedalați cu prudență pe drumul umed; sălile grandioase oferă o evadare uscată și fascinantă din ploaie.",
-                "en": "Cycle cautiously on the wet approach; the grand halls offer a fascinating and dry escape from the heavy showers."
+                "en": "Cycle cautiously on the wet approach; the grand halls offer a fascinating and dry escape from the heavy showers.",
+                "fr": "Pédalez prudemment sur l’approche humide ; les grandes salles offrent une évasion fascinante et sèche des fortes averses."
               }
             },
             {
@@ -473,13 +522,15 @@
                 "de": "Réserve naturelle du plan d'eau de Reichshoffen",
                 "hu": "Réserve naturelle du plan d'eau de Reichshoffen",
                 "ro": "Réserve naturelle du plan d'eau de Reichshoffen",
-                "en": "Réserve naturelle du plan d'eau de Reichshoffen"
+                "en": "Réserve naturelle du plan d'eau de Reichshoffen",
+                "fr": "Réserve naturelle du plan d’eau de Reichshoffen"
               },
               "tip_5lang": {
                 "de": "Der Regen bringt sattes Grün hervor; tragen Sie einen Poncho und achten Sie auf schlammige Wege.",
                 "hu": "Az eső előhozza az egyedi vadvilágot; viseljen vízálló poncsót, és vigyázzon a saras ösvényekre.",
                 "ro": "Ploaia scoate la iveală un verde vibrant; purtați un poncho impermeabil și atenție la traseele noroioase.",
-                "en": "The rain brings out unique wildlife and vibrant greens; wear a waterproof poncho and watch for muddy trails."
+                "en": "The rain brings out unique wildlife and vibrant greens; wear a waterproof poncho and watch for muddy trails.",
+                "fr": "La pluie fait ressortir une faune unique et des verts vibrants ; portez une cape imperméable et garez-vous aux sentiers boueux."
               }
             },
             {
@@ -487,13 +538,15 @@
                 "de": "Maison de l'Archéologie des Vosges du Nord",
                 "hu": "Maison de l'Archéologie des Vosges du Nord",
                 "ro": "Maison de l'Archéologie des Vosges du Nord",
-                "en": "Maison de l'Archéologie des Vosges du Nord"
+                "en": "Maison de l'Archéologie des Vosges du Nord",
+                "fr": "Maison de l’Archéologie des Vosges du Nord"
               },
               "tip_5lang": {
                 "de": "Sichern Sie das nasse Rad draußen und genießen Sie die trockenen, faszinierenden Ausstellungen drinnen.",
                 "hu": "Zárja le a vizes kerékpárt, és élvezze a régió ősi múltját bemutató száraz, lenyűgöző kiállításokat.",
                 "ro": "Asigurați bicicleta udă afară și bucurați-vă de expozițiile uscate și fascinante din interior.",
-                "en": "Secure your wet bike outside and enjoy the dry, fascinating exhibits covering the region's ancient past indoors."
+                "en": "Secure your wet bike outside and enjoy the dry, fascinating exhibits covering the region's ancient past indoors.",
+                "fr": "Attachez votre vélo mouillé à l’extérieur et profitez des expositions sèches et fascinantes sur le passé ancien de la région à l’intérieur."
               }
             },
             {
@@ -501,13 +554,15 @@
                 "de": "Cuirassiers Monument",
                 "hu": "Cuirassiers Monument",
                 "ro": "Cuirassiers Monument",
-                "en": "Cuirassiers Monument"
+                "en": "Cuirassiers Monument",
+                "fr": "Monument des Cuirassiers"
               },
               "tip_5lang": {
                 "de": "Ein kurzer Halt im Regen; bremsen Sie früh auf den nassen Straßen, wenn Sie sich dem Denkmal nähern.",
                 "hu": "Gyors megálló a történelem tiszteletére esőben; fékezzen időben a nedves utakon az emlékmű felé.",
                 "ro": "O oprire rapidă în ploaie; frânați devreme pe drumurile umede pe măsură ce vă apropiați de memorial.",
-                "en": "A quick stop to honor history in the rain; brake early on the wet roads as you approach the tall memorial."
+                "en": "A quick stop to honor history in the rain; brake early on the wet roads as you approach the tall memorial.",
+                "fr": "Un arrêt rapide pour honorer l’histoire sous la pluie ; freinez tôt sur les routes mouillées en approchant du haut mémorial."
               }
             }
           ]
@@ -517,7 +572,8 @@
             "de": "Packen Sie sich für eine frische Winterfahrt gut ein. Mittags lockt eine frostige Fahrt am See, dann das warme Museum. Enden Sie am Denkmal vor Sonnenuntergang um 17:00 Uhr. Abends ist es sehr kalt. Tragen Sie Thermohandschuhe und achten Sie auf Eisflächen.",
             "hu": "Öltözzön melegen a csípős téli kerékpározáshoz. Délben fagyos tekerés vár a tónál, majd jöhet a meleg múzeum. Érjen az emlékműhöz a 17:00-es naplemente előtt. Az esti tekerés hideg. Viseljen termo kesztyűt, és figyeljen a rejtett jeges foltokra az utakon.",
             "ro": "Îmbrăcați-vă bine pentru o pedalare de iarnă. Prânzul oferă o plimbare geroasă pe malul lacului, urmată de muzeul cald. Terminați la monument înainte de apusul de la 17:00. Seara este foarte frig. Purtați mănuși termice și atenție la peticele de gheață ascunse.",
-            "en": "Bundle up for a brisk winter cycle to the historic sites. Midday offers a frosty ride by the lake before heading to the warm museum. Finish at the monument before the early 17:00 sunset. Evening riding is very cold. Wear thermal gloves and watch carefully for hidden icy patches on the roads."
+            "en": "Bundle up for a brisk winter cycle to the historic sites. Midday offers a frosty ride by the lake before heading to the warm museum. Finish at the monument before the early 17:00 sunset. Evening riding is very cold. Wear thermal gloves and watch carefully for hidden icy patches on the roads.",
+            "fr": "Préparez-vous pour une rude balade hivernale aux sites historiques. À midi, une route glaciale longe le lac avant de vous rendre au musée chauffé. Terminez au monument avant le coucher du soleil anticipé à 17:00. La sortie du soir est très froide. Portez des gants thermiques et soyez vigilant aux plaques de verglas cachées sur la route."
           },
           "stops": [
             {
@@ -525,13 +581,15 @@
                 "de": "Saint-Michel Church",
                 "hu": "Saint-Michel Church",
                 "ro": "Saint-Michel Church",
-                "en": "Saint-Michel Church"
+                "en": "Saint-Michel Church",
+                "fr": "Église Saint-Michel"
               },
               "tip_5lang": {
                 "de": "Beginnen Sie hier Ihre kalte Fahrt; wärmen Sie drinnen Ihre Finger, bevor Sie wieder aufsteigen.",
                 "hu": "Kezdje itt a hideg utat; lépjen be a csendes hajóba, hogy felmelegítse ujjait az indulás előtt.",
                 "ro": "Începeți plimbarea rece aici; intrați în nava liniștită pentru a vă încălzi degetele înainte de a pedala.",
-                "en": "Kick off your cold ride here; step inside the quiet nave to warm your fingers before getting back in the saddle."
+                "en": "Kick off your cold ride here; step inside the quiet nave to warm your fingers before getting back in the saddle.",
+                "fr": "Commencez votre balade froide ici ; entrez dans la nef paisible pour réchauffer vos doigts avant de remonter en selle."
               }
             },
             {
@@ -539,13 +597,15 @@
                 "de": "De Dietrich Castle",
                 "hu": "De Dietrich Castle",
                 "ro": "De Dietrich Castle",
-                "en": "De Dietrich Castle"
+                "en": "De Dietrich Castle",
+                "fr": "Château De Dietrich"
               },
               "tip_5lang": {
                 "de": "Die Wintersilhouette ist atemberaubend; steigen Sie vorsichtig ab, die Pflastersteine können frostig sein.",
                 "hu": "A kastély téli sziluettje lenyűgöző; szálljon le óvatosan, mert a bejárati kövek fagyosak lehetnek.",
                 "ro": "Silueta de iarnă a castelului este uimitoare; descălecați cu grijă, deoarece pietrele de la intrare pot fi înghețate.",
-                "en": "The castle's winter silhouette is stunning; dismount carefully as the entrance paving stones might be slippery with frost."
+                "en": "The castle's winter silhouette is stunning; dismount carefully as the entrance paving stones might be slippery with frost.",
+                "fr": "La silhouette hivernale du château est magnifique ; descendez prudemment de vélo car les pavés d’entrée peuvent être glissants à cause du gel."
               }
             },
             {
@@ -553,13 +613,15 @@
                 "de": "Réserve naturelle du plan d'eau de Reichshoffen",
                 "hu": "Réserve naturelle du plan d'eau de Reichshoffen",
                 "ro": "Réserve naturelle du plan d'eau de Reichshoffen",
-                "en": "Réserve naturelle du plan d'eau de Reichshoffen"
+                "en": "Réserve naturelle du plan d'eau de Reichshoffen",
+                "fr": "Réserve naturelle du plan d'eau de Reichshoffen"
               },
               "tip_5lang": {
                 "de": "Eine frostige Landschaft erwartet Sie; bleiben Sie in Bewegung und achten Sie auf Eis auf den Radwegen.",
                 "hu": "Zord, fagyos táj várja a víznél; maradjon mozgásban a melegért, és figyeljen a jégre a kerékpárutakon.",
                 "ro": "Un peisaj înghețat vă așteaptă la apă; continuați să vă mișcați pentru a vă încălzi și atenție la gheață.",
-                "en": "A stark, frosty landscape awaits by the water; keep moving to stay warm and watch for ice on the cycling paths."
+                "en": "A stark, frosty landscape awaits by the water; keep moving to stay warm and watch for ice on the cycling paths.",
+                "fr": "Un paysage austère et givré vous attend au bord de l'eau ; gardez le mouvement pour rester au chaud et surveillez la glace sur les pistes cyclables."
               }
             },
             {
@@ -567,13 +629,15 @@
                 "de": "Maison de l'Archéologie des Vosges du Nord",
                 "hu": "Maison de l'Archéologie des Vosges du Nord",
                 "ro": "Maison de l'Archéologie des Vosges du Nord",
-                "en": "Maison de l'Archéologie des Vosges du Nord"
+                "en": "Maison de l'Archéologie des Vosges du Nord",
+                "fr": "Maison de l'Archéologie des Vosges du Nord"
               },
               "tip_5lang": {
                 "de": "Ein perfekt beheizter Ort zum Auftauen, während Sie die reichen historischen Sammlungen erkunden.",
                 "hu": "Tökéletesen fűtött megálló a teljes felmelegedéshez a helyi történelmi gyűjtemények felfedezése közben.",
                 "ro": "O oprire perfect încălzită pentru a vă dezgheța complet în timp ce explorați colecțiile istorice.",
-                "en": "A perfectly heated stop to thaw out entirely while exploring the rich historical collections of the local region."
+                "en": "A perfectly heated stop to thaw out entirely while exploring the rich historical collections of the local region.",
+                "fr": "Un arrêt parfaitement chauffé pour vous réchauffer complètement en explorant les riches collections historiques de la région."
               }
             },
             {
@@ -581,13 +645,15 @@
                 "de": "Cuirassiers Monument",
                 "hu": "Cuirassiers Monument",
                 "ro": "Cuirassiers Monument",
-                "en": "Cuirassiers Monument"
+                "en": "Cuirassiers Monument",
+                "fr": "Monument des Cuirassiers"
               },
               "tip_5lang": {
                 "de": "Das Denkmal wirkt im tiefen Winterlicht markant; sorgen Sie für gute Fahrradlichter für die frühe Dämmerung.",
                 "hu": "Az emlékmű feltűnő a téli napfényben; gondoskodjon megbízható lámpákról, mivel a sötétség korán beáll.",
                 "ro": "Monumentul arată impresionant în soarele de iarnă; asigurați-vă că aveți lumini bune la bicicletă.",
-                "en": "The monument looks striking in the low winter sun; make sure you have reliable bike lights as dusk falls very early."
+                "en": "The monument looks striking in the low winter sun; make sure you have reliable bike lights as dusk falls very early.",
+                "fr": "Le monument est saisissant sous le faible soleil d'hiver ; assurez-vous d'avoir des éclairages de vélo fiables car la tombée du soir est très précoce."
               }
             }
           ]
@@ -607,7 +673,8 @@
             "de": "Saint-Michel Church",
             "hu": "Saint-Michel Church",
             "ro": "Saint-Michel Church",
-            "en": "Saint-Michel Church"
+            "en": "Saint-Michel Church",
+            "fr": "Église Saint-Michel"
           },
           "coords": [
             7.664413,
@@ -622,7 +689,8 @@
             "de": "Bewundern Sie die Architektur dieser Kirche, die ein Zeugnis lokaler Geschichte ist, und achten Sie auf die kunstvollen Fensterläden.",
             "hu": "Csodálja meg ennek a templomnak a lenyűgöző építészetét, amely a helyi történelem tanúja, és figyelje meg a díszes belső üvegablakokat.",
             "ro": "Admirați arhitectura impresionantă a acestei biserici istorice și nu uitați să observați vitraliile frumos ornamentate din interior.",
-            "en": "Admire the impressive architecture of this church that stands as a testament to local history, and observe the ornate stained glass windows."
+            "en": "Admire the impressive architecture of this church that stands as a testament to local history, and observe the ornate stained glass windows.",
+            "fr": "Admirez l'architecture impressionnante de cette église, témoin de l'histoire locale, et observez les vitraux ornés."
           }
         },
         {
@@ -630,7 +698,8 @@
             "de": "Cuirassiers Monument",
             "hu": "Cuirassiers Monument",
             "ro": "Cuirassiers Monument",
-            "en": "Cuirassiers Monument"
+            "en": "Cuirassiers Monument",
+            "fr": "Monument des Cuirassiers"
           },
           "coords": [
             7.691417,
@@ -645,7 +714,8 @@
             "de": "Halten Sie an diesem Denkmal, das an Reiterangriffe erinnert, und lesen Sie die Informationstafeln für tiefe historische Einblicke.",
             "hu": "Álljon meg az emlékműnél, amely a hősies lovasrohamoknak állít emléket, és olvassa el a táblákat a történelmi megértéshez.",
             "ro": "Opriți-vă la acest monument care comemorează atacurile cavaleriei și citiți panourile pentru a înțelege contextul istoric.",
-            "en": "Stop by this striking monument commemorating heroic cavalry charges, and read the informational plaques for a deeper historical context."
+            "en": "Stop by this striking monument commemorating heroic cavalry charges, and read the informational plaques for a deeper historical context.",
+            "fr": "Faites une halte à ce monument frappant commémorant les charges héroïques de la cavalerie, et lisez les plaques d'information pour un contexte historique plus approfondi."
           }
         },
         {
@@ -653,7 +723,8 @@
             "de": "Réserve naturelle du plan d'eau de Reichshoffen",
             "hu": "Réserve naturelle du plan d'eau de Reichshoffen",
             "ro": "Réserve naturelle du plan d'eau de Reichshoffen",
-            "en": "Réserve naturelle du plan d'eau de Reichshoffen"
+            "en": "Réserve naturelle du plan d'eau de Reichshoffen",
+            "fr": "Réserve naturelle du plan d'eau de Reichshoffen"
           },
           "coords": [
             7.679201,
@@ -668,7 +739,8 @@
             "de": "Entspannen Sie in diesem Naturschutzgebiet mit idyllischem See, wo Sie mit einem Fernglas hervorragend Wasservögel beobachten können.",
             "hu": "Pihenjen meg ebben a gyönyörű természetvédelmi területben a tavánál, ahol távcsővel kiválóan megfigyelheti a ritka vízimadarakat.",
             "ro": "Relaxați-vă în rezervația naturală cu lacul pitoresc, unde puteți observa excelent păsări de apă rare cu un binoclu.",
-            "en": "Relax in this beautiful nature reserve featuring a picturesque lake, making it the perfect spot to observe rare water birds."
+            "en": "Relax in this beautiful nature reserve featuring a picturesque lake, making it the perfect spot to observe rare water birds.",
+            "fr": "Détendez-vous dans cette belle réserve naturelle avec son lac pittoresque, un endroit parfait pour observer des oiseaux d'eau rares."
           }
         },
         {
@@ -676,7 +748,8 @@
             "de": "Maison de l'Archéologie des Vosges du Nord",
             "hu": "Maison de l'Archéologie des Vosges du Nord",
             "ro": "Maison de l'Archéologie des Vosges du Nord",
-            "en": "Maison de l'Archéologie des Vosges du Nord"
+            "en": "Maison de l'Archéologie des Vosges du Nord",
+            "fr": "Maison de l'Archéologie des Vosges du Nord"
           },
           "coords": [
             7.650506,
@@ -691,7 +764,8 @@
             "de": "Tauchen Sie in diesem Museum in die galloromanische Vergangenheit ein und verpassen Sie nicht die Artefakte im Hauptausstellungssaal.",
             "hu": "Merüljön el a galloromán múltban ebben a múzeumban, és semmiképpen ne hagyja ki a fő kiállítótérben található régészeti leleteket.",
             "ro": "Pătrundeți în trecutul galo-roman în acest muzeu fascinant și asigurați-vă că nu ratați artefactele detaliate din sala principală.",
-            "en": "Delve into the Gallo-Roman past within this fascinating museum, and make sure you do not miss the archaeological artifacts in the main hall."
+            "en": "Delve into the Gallo-Roman past within this fascinating museum, and make sure you do not miss the archaeological artifacts in the main hall.",
+            "fr": "Plongez dans le passé gallo-romain au sein de ce musée fascinant, et ne manquez pas les artefacts archéologiques de la salle principale."
           }
         },
         {
@@ -699,7 +773,8 @@
             "de": "La Glacière",
             "hu": "La Glacière",
             "ro": "La Glacière",
-            "en": "La Glacière"
+            "en": "La Glacière",
+            "fr": "La Glacière"
           },
           "coords": [
             7.64051,
@@ -714,7 +789,8 @@
             "de": "Entdecken Sie diesen einzigartigen Eiskeller, der zur Kühlung genutzt wurde, und tragen Sie bequeme Schuhe für das Gelände.",
             "hu": "Fedezze fel az egyedülálló jégvermet, amelyet régen hűtésre használtak, és viseljen kényelmes cipőt az egyenetlen terep miatt.",
             "ro": "Descoperiți pivnița de gheață unică folosită în trecut pentru răcire și purtați încălțăminte confortabilă pentru terenul denivelat.",
-            "en": "Discover this unique historic ice cellar once used for cooling provisions, and wear comfortable shoes for the slightly uneven terrain."
+            "en": "Discover this unique historic ice cellar once used for cooling provisions, and wear comfortable shoes for the slightly uneven terrain.",
+            "fr": "Découvrez cette glacière historique unique autrefois utilisée pour conserver les provisions, et portez des chaussures confortables pour le terrain légèrement irrégulier."
           }
         },
         {
@@ -722,7 +798,8 @@
             "de": "Golf sur pistes",
             "hu": "Golf sur pistes",
             "ro": "Golf sur pistes",
-            "en": "Golf sur pistes"
+            "en": "Golf sur pistes",
+            "fr": "Golf sur pistes"
           },
           "coords": [
             7.637283,
@@ -737,7 +814,8 @@
             "de": "Genießen Sie eine Runde Minigolf mit der Familie auf diesen gepflegten Bahnen, wobei die frühen Nachmittagsstunden sehr angenehm sind.",
             "hu": "Élvezze a szórakoztató minigolfozást a családdal ezeken a pályákon, ahol a kora délutáni órák a legkellemesebbek a játékhoz.",
             "ro": "Bucurați-vă de o rundă de minigolf cu familia pe aceste piste îngrijite, orele după-amiezii fiind cele mai plăcute pentru joc.",
-            "en": "Enjoy a fun round of mini-golf with the family on these tracks, keeping in mind that the early afternoon is best for a game."
+            "en": "Enjoy a fun round of mini-golf with the family on these tracks, keeping in mind that the early afternoon is best for a game.",
+            "fr": "Profitez d'une partie de mini-golf amusante en famille sur ces parcours, en gardant à l'esprit que le début d'après-midi est le meilleur moment pour jouer."
           }
         }
       ],
@@ -745,7 +823,8 @@
         "de": "Beginnen Sie an der Kirche Saint-Michel und halten Sie kurz am Cuirassiers-Denkmal für einen historischen Überblick.\n\nFahren Sie zur Réserve naturelle. Der friedliche See ist die perfekte Pause vor der Maison de l'Archéologie.\n\nParken Sie dann nahe der Anlage La Glacière. Dieser Ort zeigt eindrucksvoll alte, intelligente Kühlmethoden.\n\nBeenden Sie den Tag fröhlich beim Golf sur pistes mit der Familie.",
         "hu": "Kezdje a Saint-Michel templomnál, majd álljon meg a Cuirassiers emlékműnél egy gyors történelmi áttekintésre.\n\nVezessen a Réserve naturelle tavához. A békés hely tökéletes pihenő a Maison de l'Archéologie előtt.\n\nEzután parkoljon le a történelmi La Glacière közelében, amely a régi intelligens hűtési módszereket mutatja be.\n\nZárja a napot egy vidám családi játékkal a Golf sur pistes pályáin.",
         "ro": "Începeți la Biserica Saint-Michel și opriți scurt la Monumentul Cuirasierilor pentru o perspectivă istorică rapidă.\n\nConduceți spre Réserve naturelle. Lacul pașnic oferă o pauză perfectă înaintea Maison de l'Archéologie.\n\nParcați apoi lângă istorica La Glacière. Acest loc fascinant demonstrează metodele vechi de răcire.\n\nÎncheiați ziua cu o rundă distractivă de minigolf la Golf sur pistes.",
-        "en": "Begin at Saint-Michel Church, followed by a quick stop at the Cuirassiers Monument for a fascinating historical overview.\n\nDrive to the tranquil Réserve naturelle. The peaceful lake offers a perfect break before Maison de l'Archéologie.\n\nNext, park near the historic La Glacière. This intriguing location demonstrates clever past cooling methods.\n\nEnd with a family-friendly round at Golf sur pistes."
+        "en": "Begin at Saint-Michel Church, followed by a quick stop at the Cuirassiers Monument for a fascinating historical overview.\n\nDrive to the tranquil Réserve naturelle. The peaceful lake offers a perfect break before Maison de l'Archéologie.\n\nNext, park near the historic La Glacière. This intriguing location demonstrates clever past cooling methods.\n\nEnd with a family-friendly round at Golf sur pistes.",
+        "fr": "Commencez à l'église Saint-Michel, puis faites une brève halte au monument des Cuirassiers pour une vue historique fascinante.\n\nRejoignez la paisible Réserve naturelle. Le lac calme offre une pause parfaite avant la Maison de l'Archéologie.\n\nEnsuite, garez-vous près de la historique La Glacière. Ce lieu intrigant illustre les méthodes anciennes de refroidissement.\n\nTerminez par une partie familiale au Golf sur pistes."
       },
       "variants": {
         "rainy": {
@@ -753,7 +832,8 @@
             "de": "Fahren Sie morgens bequem zwischen Kirche, Denkmal und Reservat. Verbringen Sie den Nachmittag trocken im Museum, danach Eiskeller und Minigolf. Der Abend ist perfekt für eine warme Heimfahrt. Nutzen Sie überdachte Parkplätze und halten Sie einen Schirm bereit.",
             "hu": "Vezessen kényelmesen a templom, az emlékmű és a tó között az esőben. Töltse a délutánt a száraz múzeumban, majd jöhet a jégverem és a minigolf. Az este tökéletes a meleg hazautazáshoz. Használjon fedett parkolót, és tartson esernyőt a csomagtartóban.",
             "ro": "Conduceți confortabil între biserică, monument și rezervație în ploaia de dimineață. Petreceți după-amiaza în muzeul uscat, apoi mergeți la casa de gheață și mini-golf. Seara e perfectă pentru condus spre casă. Folosiți parcări acoperite și țineți o umbrelă la îndemână.",
-            "en": "Drive comfortably between the church, monument, and nature reserve in the morning rain. Spend the afternoon in the dry museum before heading to the icehouse and mini-golf. The evening is perfect for a warm drive home. Use covered parking where possible and keep an umbrella in the trunk."
+            "en": "Drive comfortably between the church, monument, and nature reserve in the morning rain. Spend the afternoon in the dry museum before heading to the icehouse and mini-golf. The evening is perfect for a warm drive home. Use covered parking where possible and keep an umbrella in the trunk.",
+            "fr": "Roulez confortablement entre l'église, le monument et la réserve naturelle sous la pluie du matin. Passez l'après-midi au sec au musée avant de vous rendre à la glacière et au mini-golf. La soirée est idéale pour un trajet chauffé vers la maison. Utilisez un parking couvert si possible et gardez un parapluie dans le coffre."
           },
           "stops": [
             {
@@ -761,13 +841,15 @@
                 "de": "Saint-Michel Church",
                 "hu": "Saint-Michel Church",
                 "ro": "Saint-Michel Church",
-                "en": "Saint-Michel Church"
+                "en": "Saint-Michel Church",
+                "fr": "Église Saint-Michel"
               },
               "tip_5lang": {
                 "de": "Parken Sie in der Nähe und nutzen Sie Ihren Schirm, um das trockene Innere schnell zu erreichen.",
                 "hu": "Parkoljon a közelben, és nyissa ki az esernyőt, hogy gyorsan elérje és megcsodálja a száraz belső teret.",
                 "ro": "Parcați aproape și deschideți umbrela pentru a ajunge rapid și a admira interiorul uscat.",
-                "en": "Park close by and pop your umbrella to quickly reach this stunning religious site and admire its dry interior."
+                "en": "Park close by and pop your umbrella to quickly reach this stunning religious site and admire its dry interior.",
+                "fr": "Garez-vous à proximité et ouvrez rapidement votre parapluie pour atteindre ce splendide site religieux et admirer son intérieur sec."
               }
             },
             {
@@ -775,13 +857,15 @@
                 "de": "Cuirassiers Monument",
                 "hu": "Cuirassiers Monument",
                 "ro": "Cuirassiers Monument",
-                "en": "Cuirassiers Monument"
+                "en": "Cuirassiers Monument",
+                "fr": "Monument des Cuirassiers"
               },
               "tip_5lang": {
                 "de": "Betrachten Sie das Denkmal bequem vom Auto aus oder machen Sie einen kurzen Sprint mit Schirm.",
                 "hu": "Nézze meg az impozáns emlékművet az autó kényelméből, vagy tegyen egy gyors sétát esernyővel.",
                 "ro": "Vedeți monumentul din confortul mașinii sau faceți o scurtă ieșire rapidă cu umbrela.",
-                "en": "View the imposing monument from the comfort of your warm car or take a very quick dash out with an umbrella."
+                "en": "View the imposing monument from the comfort of your warm car or take a very quick dash out with an umbrella.",
+                "fr": "Admirez l'imposant monument depuis le confort de votre voiture chauffée ou faites une très brève sortie avec un parapluie."
               }
             },
             {
@@ -789,13 +873,15 @@
                 "de": "Réserve naturelle du plan d'eau de Reichshoffen",
                 "hu": "Réserve naturelle du plan d'eau de Reichshoffen",
                 "ro": "Réserve naturelle du plan d'eau de Reichshoffen",
-                "en": "Réserve naturelle du plan d'eau de Reichshoffen"
+                "en": "Réserve naturelle du plan d'eau de Reichshoffen",
+                "fr": "Réserve naturelle du plan d'eau de Reichshoffen"
               },
               "tip_5lang": {
                 "de": "Genießen Sie den regnerischen Seeblick direkt vom Parkplatz aus, ohne schlammige Schuhe zu bekommen.",
                 "hu": "Élvezze a hangulatos, eső áztatta tó látványát a parkolóból, anélkül, hogy sáros lenne a cipője.",
                 "ro": "Bucurați-vă de vederea lacului ploios direct din parcare, fără a vă murdări pantofii de noroi.",
-                "en": "Enjoy the moody, rain-swept lake views directly from the parking area without getting your shoes completely muddy."
+                "en": "Enjoy the moody, rain-swept lake views directly from the parking area without getting your shoes completely muddy.",
+                "fr": "Appréciez les vues du lac balayé par la pluie directement depuis l'aire de stationnement sans vous salir complètement les chaussures."
               }
             },
             {
@@ -803,13 +889,15 @@
                 "de": "Maison de l'Archéologie des Vosges du Nord",
                 "hu": "Maison de l'Archéologie des Vosges du Nord",
                 "ro": "Maison de l'Archéologie des Vosges du Nord",
-                "en": "Maison de l'Archéologie des Vosges du Nord"
+                "en": "Maison de l'Archéologie des Vosges du Nord",
+                "fr": "Maison de l'Archéologie des Vosges du Nord"
               },
               "tip_5lang": {
                 "de": "Ein ideales Innenrefugium; parken Sie nahe am Eingang und verbringen Sie eine trockene Stunde hier.",
                 "hu": "Ideális beltéri menedék az eső elől; parkoljon a bejárat közelében, és töltsön el egy teljesen száraz órát.",
                 "ro": "Un refugiu ideal la interior; parcați aproape de intrare și petreceți o oră complet uscată explorând.",
-                "en": "An ideal indoor refuge from the rain; park close to the entrance and spend a completely dry hour exploring."
+                "en": "An ideal indoor refuge from the rain; park close to the entrance and spend a completely dry hour exploring.",
+                "fr": "Un refuge intérieur idéal contre la pluie ; garez-vous près de l'entrée et passez une heure au sec à explorer."
               }
             },
             {
@@ -817,13 +905,15 @@
                 "de": "La Glacière",
                 "hu": "La Glacière",
                 "ro": "La Glacière",
-                "en": "La Glacière"
+                "en": "La Glacière",
+                "fr": "La Glacière"
               },
               "tip_5lang": {
                 "de": "Das feuchte Wetter passt zum Eiskeller; tragen Sie wasserfeste Schuhe für den kurzen Weg vom Auto.",
                 "hu": "A nedves időjárás fokozza a történelmi jégverem hangulatát; viseljen vízálló cipőt a rövid sétához.",
                 "ro": "Vremea umedă adaugă atmosferei casei de gheață; purtați pantofi impermeabili pentru drumul scurt.",
-                "en": "The damp weather adds to the historic icehouse's atmosphere; wear waterproof shoes for the short walk from your car."
+                "en": "The damp weather adds to the historic icehouse's atmosphere; wear waterproof shoes for the short walk from your car.",
+                "fr": "L'humidité renforce l'atmosphère de la glacière historique ; portez des chaussures imperméables pour la courte marche depuis votre voiture."
               }
             },
             {
@@ -831,13 +921,15 @@
                 "de": "Golf sur pistes",
                 "hu": "Golf sur pistes",
                 "ro": "Golf sur pistes",
-                "en": "Golf sur pistes"
+                "en": "Golf sur pistes",
+                "fr": "Golf sur pistes"
               },
               "tip_5lang": {
                 "de": "Bringen Sie Regenkleidung mit; die nassen Bahnen machen das Spiel zu einer lustigen Herausforderung.",
                 "hu": "Hozzon esőruhát; a kissé nedves pályák szórakoztató, kihívást jelentő csavart adnak a játéknak.",
                 "ro": "Aduceți haine impermeabile; traseele ușor umede adaugă o întorsătură distractivă jocului.",
-                "en": "Bring waterproofs for this outdoor activity; the slightly wet courses add a fun, challenging twist to your game."
+                "en": "Bring waterproofs for this outdoor activity; the slightly wet courses add a fun, challenging twist to your game.",
+                "fr": "Prévoyez des vêtements imperméables pour cette activité extérieure ; les parcours un peu humides ajoutent une touche ludique et challenging à la partie."
               }
             }
           ]
@@ -847,7 +939,8 @@
             "de": "Ein beheiztes Auto ist perfekt für den Winter. Besuchen Sie morgens Kirche, Denkmal und den frostigen See. Wärmen Sie sich mittags im Museum auf. Enden Sie vor 17:00 Uhr. Abends friert es, fahren Sie vorsichtig. Sorgen Sie für gute Winterreifen am Auto.",
             "hu": "A fűtött autó tökéletes a téli felfedezéshez. Délelőtt nézze meg a templomot, az emlékművet és a tavat. Délben melegedjen fel a múzeumban. Fejezze be a napot a 17:00-es naplemente előtt. Este fagyos a levegő, vezessen óvatosan. Legyen jó téli gumija.",
             "ro": "O mașină încălzită e perfectă iarna. Vizitați biserica, monumentul și lacul înghețat dimineața. Încălziți-vă în muzeu la prânz. Terminați înainte de apusul de la 17:00. Seara aduce temperaturi de îngheț, conduceți cu grijă. Asigurați-vă că aveți anvelope de iarnă.",
-            "en": "A heated car is perfect for winter exploring. Visit the church, monument, and frosty lake in the morning. Warm up in the museum midday. Finish at the icehouse and mini-golf before the 17:00 sunset. Evening brings freezing temps, so drive carefully. Ensure your car is equipped with good winter tires."
+            "en": "A heated car is perfect for winter exploring. Visit the church, monument, and frosty lake in the morning. Warm up in the museum midday. Finish at the icehouse and mini-golf before the 17:00 sunset. Evening brings freezing temps, so drive carefully. Ensure your car is equipped with good winter tires.",
+            "fr": "Une voiture chauffée est parfaite pour les explorations hivernales. Visitez l'église, le monument et le lac givré le matin. Réchauffez-vous au musée en milieu de journée. Terminez à la glacière et au mini-golf avant le coucher du soleil à 17:00. La soirée amène des températures glaciales, conduisez prudemment. Assurez-vous que votre voiture est équipée de bons pneus hiver."
           },
           "stops": [
             {
@@ -855,13 +948,15 @@
                 "de": "Saint-Michel Church",
                 "hu": "Saint-Michel Church",
                 "ro": "Saint-Michel Church",
-                "en": "Saint-Michel Church"
+                "en": "Saint-Michel Church",
+                "fr": "Église Saint-Michel"
               },
               "tip_5lang": {
                 "de": "Verlassen Sie das warme Auto für die Kirche; ihre dicken Steinwände isolieren gut gegen den kalten Wind.",
                 "hu": "Hagyja el a meleg autót a templomért; vastag kőfalai jó szigetelést nyújtanak a csípős szél ellen.",
                 "ro": "Lăsați mașina caldă pentru biserică; pereții săi groși de piatră oferă o bună izolație împotriva vântului.",
-                "en": "Leave the warm car to explore this serene church; its thick stone walls offer good insulation from the biting wind."
+                "en": "Leave the warm car to explore this serene church; its thick stone walls offer good insulation from the biting wind.",
+                "fr": "Quittez la voiture chaude pour explorer cette église sereine ; ses murs épais en pierre offrent une bonne isolation contre le vent mordant."
               }
             },
             {
@@ -869,13 +964,15 @@
                 "de": "Cuirassiers Monument",
                 "hu": "Cuirassiers Monument",
                 "ro": "Cuirassiers Monument",
-                "en": "Cuirassiers Monument"
+                "en": "Cuirassiers Monument",
+                "fr": "Monument des Cuirassiers"
               },
               "tip_5lang": {
                 "de": "Das Denkmal steht stolz in der Winterluft; ein schneller Fotostopp, bevor es zurück in die Wärme geht.",
                 "hu": "Az emlékmű büszkén áll a csípős téli levegőn; gyors fotómegálló, mielőtt visszatérne az autó melegébe.",
                 "ro": "Memorialul stă mândru în aerul rece; o oprire rapidă pentru foto înainte de a reveni la căldură.",
-                "en": "The memorial stands proudly in the crisp winter air; a quick photo stop is easy before returning to the vehicle's heat."
+                "en": "The memorial stands proudly in the crisp winter air; a quick photo stop is easy before returning to the vehicle's heat.",
+                "fr": "Le mémorial se dresse fièrement dans l'air vif de l'hiver ; une courte halte photo est facile avant de revenir à la chaleur du véhicule."
               }
             },
             {
@@ -883,13 +980,15 @@
                 "de": "Réserve naturelle du plan d'eau de Reichshoffen",
                 "hu": "Réserve naturelle du plan d'eau de Reichshoffen",
                 "ro": "Réserve naturelle du plan d'eau de Reichshoffen",
-                "en": "Réserve naturelle du plan d'eau de Reichshoffen"
+                "en": "Réserve naturelle du plan d'eau de Reichshoffen",
+                "fr": "Réserve naturelle du plan d'eau de Reichshoffen"
               },
               "tip_5lang": {
                 "de": "Bewundern Sie den zugefrorenen See; ein kurzer Spaziergang ist mit einem dicken Mantel belebend.",
                 "hu": "Csodálja meg a tó fagyott széleit; egy rövid, élénk séta frissítő, ha vastag télikabátot visel.",
                 "ro": "Admirați marginile înghețate ale lacului; o plimbare scurtă și rapidă este revigorantă cu o haină groasă.",
-                "en": "Admire the frozen edges of the lake; a short, brisk walk is invigorating if you're wearing a thick winter coat."
+                "en": "Admire the frozen edges of the lake; a short, brisk walk is invigorating if you're wearing a thick winter coat.",
+                "fr": "Admirez les rives gelées du lac ; une courte promenade vivifiante est revigorante si vous portez un manteau d'hiver épais."
               }
             },
             {
@@ -897,13 +996,15 @@
                 "de": "Maison de l'Archéologie des Vosges du Nord",
                 "hu": "Maison de l'Archéologie des Vosges du Nord",
                 "ro": "Maison de l'Archéologie des Vosges du Nord",
-                "en": "Maison de l'Archéologie des Vosges du Nord"
+                "en": "Maison de l'Archéologie des Vosges du Nord",
+                "fr": "Maison de l'Archéologie des Vosges du Nord"
               },
               "tip_5lang": {
                 "de": "Ein voll beheiztes Museum, wo Sie den dicken Mantel ablegen und tief in die Geschichte eintauchen können.",
                 "hu": "Fantasztikus, fűtött múzeum, ahol leveheti nehéz kabátját, és kényelmesen elmerülhet a helyi történelemben.",
                 "ro": "Un muzeu fantastic, complet încălzit, unde vă puteți da jos haina groasă și explora confortabil istoria.",
-                "en": "A fantastic, fully heated museum where you can shed your heavy coat and dive deep into local history comfortably."
+                "en": "A fantastic, fully heated museum where you can shed your heavy coat and dive deep into local history comfortably.",
+                "fr": "Un musée fantastique et entièrement chauffé où vous pouvez enlever votre manteau lourd et approfondir confortablement l'histoire locale."
               }
             },
             {
@@ -911,13 +1012,15 @@
                 "de": "La Glacière",
                 "hu": "La Glacière",
                 "ro": "La Glacière",
-                "en": "La Glacière"
+                "en": "La Glacière",
+                "fr": "La Glacière"
               },
               "tip_5lang": {
                 "de": "Entdecken Sie den Eiskeller im passenden Frostwetter; Thermostiefel sind für den kalten Boden empfehlenswert.",
                 "hu": "Fedezze fel a történelmi jégtárolót fagyos időben; termo csizma ajánlott a hideg talaj miatt.",
                 "ro": "Descoperiți depozitul istoric de gheață pe o vreme potrivită de îngheț; cizmele termice sunt recomandate.",
-                "en": "Discover the historic ice storage in fittingly freezing weather; thermal boots are recommended for the cold ground."
+                "en": "Discover the historic ice storage in fittingly freezing weather; thermal boots are recommended for the cold ground.",
+                "fr": "Découvrez la réserve historique de glace par un temps à la hauteur de son nom ; des bottes thermiques sont recommandées pour le sol froid."
               }
             },
             {
@@ -925,13 +1028,15 @@
                 "de": "Golf sur pistes",
                 "hu": "Golf sur pistes",
                 "ro": "Golf sur pistes",
-                "en": "Golf sur pistes"
+                "en": "Golf sur pistes",
+                "fr": "Golf sur pistes"
               },
               "tip_5lang": {
                 "de": "Packen Sie sich in Schal und Handschuhe für eine Runde Winter-Minigolf, bevor die Sonne früh untergeht.",
                 "hu": "Burkolózzon vastag sálba és kesztyűbe egy élénk téli minigolfhoz, mielőtt a nap korán, 17:00-kor lenyugszik.",
                 "ro": "Înfofoliți-vă cu un fular și mănuși pentru o rundă plină de viață de mini-golf de iarnă înainte de apus.",
-                "en": "Wrap up in a thick scarf and gloves for a brisk, fun round of winter mini-golf before the sun sets early at 17:00."
+                "en": "Wrap up in a thick scarf and gloves for a brisk, fun round of winter mini-golf before the sun sets early at 17:00.",
+                "fr": "Enveloppez-vous d'une grosse écharpe et de gants pour une partie de mini-golf hivernale et dynamique avant le coucher du soleil précoce à 17:00."
               }
             }
           ]

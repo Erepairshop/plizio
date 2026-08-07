@@ -21,7 +21,8 @@
             "de": "Place de la Comédie",
             "hu": "Place de la Comédie",
             "ro": "Place de la Comédie",
-            "en": "Place de la Comédie"
+            "en": "Place de la Comédie",
+            "fr": "Place de la Comédie"
           },
           "coords": [
             3.8794,
@@ -36,7 +37,8 @@
             "de": "Bewundern Sie die Drei Grazien am Brunnen.",
             "hu": "Csodálja meg a Három Grácia szökőkutat.",
             "ro": "Admirați fântâna celor Trei Grații.",
-            "en": "Admire the Three Graces fountain."
+            "en": "Admire the Three Graces fountain.",
+            "fr": "Admirez la fontaine des Trois Grâces."
           }
         },
         {
@@ -44,7 +46,8 @@
             "de": "Musée Fabre",
             "hu": "Musée Fabre",
             "ro": "Muzeul Fabre",
-            "en": "Fabre Museum"
+            "en": "Fabre Museum",
+            "fr": "Musée Fabre"
           },
           "coords": [
             3.8804,
@@ -59,7 +62,8 @@
             "de": "Besuchen Sie die Galerie der flämischen Meister.",
             "hu": "Nézze meg a flamand mesterek galériáját.",
             "ro": "Vizitați galeria maeștrilor flamanzi.",
-            "en": "Visit the gallery of Flemish masters."
+            "en": "Visit the gallery of Flemish masters.",
+            "fr": "Visitez la galerie des maîtres flamands."
           }
         },
         {
@@ -67,7 +71,8 @@
             "de": "Cathédrale Saint-Pierre",
             "hu": "Szent Péter-székesegyház",
             "ro": "Catedrala Sfântul Petru",
-            "en": "Saint-Pierre Cathedral"
+            "en": "Saint-Pierre Cathedral",
+            "fr": "Cathédrale Saint-Pierre"
           },
           "coords": [
             3.8715,
@@ -82,7 +87,8 @@
             "de": "Achten Sie auf die massiven kegelförmigen Pfeiler.",
             "hu": "Figyelje meg a hatalmas kúpos pilléreket.",
             "ro": "Observați pilonii masivi în formă de con.",
-            "en": "Note the massive cone-shaped pillars."
+            "en": "Note the massive cone-shaped pillars.",
+            "fr": "Remarquez les piliers massifs en forme de cône."
           }
         },
         {
@@ -90,7 +96,8 @@
             "de": "Jardin des Plantes",
             "hu": "Fűvészkert",
             "ro": "Grădina Botanică",
-            "en": "Botanical Garden"
+            "en": "Botanical Garden",
+            "fr": "Jardin botanique"
           },
           "coords": [
             3.8711,
@@ -105,7 +112,8 @@
             "de": "Frankreichs ältester botanischer Garten.",
             "hu": "Franciaország legrégebbi botanikus kertje.",
             "ro": "Cea mai veche grădină botanică din Franța.",
-            "en": "The oldest botanical garden in France."
+            "en": "The oldest botanical garden in France.",
+            "fr": "Le plus ancien jardin botanique de France."
           }
         },
         {
@@ -113,7 +121,8 @@
             "de": "Promenade du Peyrou",
             "hu": "Peyrou sétány",
             "ro": "Promenada Peyrou",
-            "en": "Promenade du Peyrou"
+            "en": "Promenade du Peyrou",
+            "fr": "Promenade du Peyrou"
           },
           "coords": [
             3.8695,
@@ -128,7 +137,8 @@
             "de": "Blick auf das Aquädukt Saint-Clément.",
             "hu": "Kilátás a Saint-Clément vízvezetékre.",
             "ro": "Vedere spre apeductul Saint-Clément.",
-            "en": "View of the Saint-Clément aqueduct."
+            "en": "View of the Saint-Clément aqueduct.",
+            "fr": "Vue sur l'aqueduc Saint-Clément."
           }
         },
         {
@@ -136,7 +146,8 @@
             "de": "Altstadt-Abendessen",
             "hu": "Vacsora az óvárosban",
             "ro": "Cină în centrul vechi",
-            "en": "Old Town Dinner"
+            "en": "Old Town Dinner",
+            "fr": "Dîner en vieille ville"
           },
           "coords": [
             3.8755,
@@ -151,7 +162,8 @@
             "de": "Probieren Sie lokale Weine aus dem Languedoc.",
             "hu": "Kóstolja meg a helyi Languedoc borokat.",
             "ro": "Gustați vinurile locale din Languedoc.",
-            "en": "Taste local Languedoc wines."
+            "en": "Taste local Languedoc wines.",
+            "fr": "Dégustez les vins locaux du Languedoc."
           }
         }
       ],
@@ -159,7 +171,8 @@
         "de": "Ihr Tag beginnt am belebten Place de la Comédie, dem pulsierenden Herzen der Stadt. Nach einem Besuch im beeindruckenden Musée Fabre tauchen Sie in die mittelalterlichen Gassen des Écusson-Viertels ein. Mittags erkunden Sie die gotische Kathedrale und den historischen botanischen Garten. Der Nachmittag endet mit einem Panorama-Ausblick vom Peyrou, bevor Sie den Tag bei einem gemütlichen Abendessen in der Altstadt ausklingen lassen.",
         "hu": "Napját a forgalmas Place de la Comédie-n, a város lüktető szívében kezdi. A lenyűgöző Musée Fabre megtekintése után elmerül az Écusson negyed középkori utcáiban. Délben felfedezi a gótikus székesegyházat és a történelmi füvészkertet. A délután a Peyrou sétány panorámájával zárul, majd a napot egy hangulatos óvárosi vacsorával koronázza meg.",
         "ro": "Ziua începe în vibranta Place de la Comédie, inima orașului. După o vizită la impresionantul Muzeu Fabre, vă pierdeți pe străzile medievale din cartierul Écusson. La prânz, explorați catedrala gotică și grădina botanică istorică. După-amiaza se încheie cu o panoramă de pe esplanada Peyrou, înainte de a finaliza ziua cu o cină relaxantă în centrul vechi.",
-        "en": "Your day starts at the bustling Place de la Comédie, the city's beating heart. After a visit to the impressive Fabre Museum, dive into the medieval streets of the Écusson district. At noon, explore the Gothic cathedral and the historic botanical garden. The afternoon ends with a panoramic view from Peyrou before capping off the day with a cozy dinner in the old town."
+        "en": "Your day starts at the bustling Place de la Comédie, the city's beating heart. After a visit to the impressive Fabre Museum, dive into the medieval streets of the Écusson district. At noon, explore the Gothic cathedral and the historic botanical garden. The afternoon ends with a panoramic view from Peyrou before capping off the day with a cozy dinner in the old town.",
+        "fr": "Votre journée commence à la Place de la Comédie animée, le cœur battant de la ville. Après une visite de l'impressionnant Musée Fabre, plongez dans les rues médiévales du quartier de l'Écusson. À midi, explorez la cathédrale gothique et le jardin botanique historique. L'après-midi se termine par une vue panoramique depuis le Peyrou avant de clore la journée par un dîner chaleureux en vieille ville."
       },
       "gastro_picks": {
         "de": [
@@ -259,6 +272,10 @@
         "en": [
           "Wear comfortable shoes for the cobblestone streets.",
           "Use the narrow alleys to find shade."
+        ],
+        "fr": [
+          "Portez des chaussures confortables pour les pavés.",
+          "Utilisez les ruelles étroites pour trouver de l'ombre."
         ]
       },
       "variants": {
@@ -267,7 +284,8 @@
             "de": "Ihr Tag beginnt am belebten Place de la Comédie, dem pulsierenden Herzen der Stadt. Nach einem Besuch im beeindruckenden Musée Fabre tauchen Sie in die mittelalterlichen Gassen des Écusson-Viertels ein. Mittags erkunden Sie die gotische Kathedrale und den historischen botanischen Garten. Der Nachmittag endet mit einem Panorama-Ausblick vom Peyrou, bevor Sie den Tag bei einem gemütlichen Abendessen in der Altstadt ausklingen lassen.",
             "hu": "Napját a forgalmas Place de la Comédie-n, a város lüktető szívében kezdi. A lenyűgöző Musée Fabre megtekintése után elmerül az Écusson negyed középkori utcáiban. Délben felfedezi a gótikus székesegyházat és a történelmi füvészkertet. A délután a Peyrou sétány panorámájával zárul, majd a napot egy hangulatos óvárosi vacsorával koronázza meg.",
             "ro": "Ziua începe în vibranta Place de la Comédie, inima orașului. După o vizită la impresionantul Muzeu Fabre, vă pierdeți pe străzile medievale din cartierul Écusson. La prânz, explorați catedrala gotică și grădina botanică istorică. După-amiaza se încheie cu o panoramă de pe esplanada Peyrou, înainte de a finaliza ziua cu o cină relaxantă în centrul vechi.",
-            "en": "Your day starts at the bustling Place de la Comédie, the city's beating heart. After a visit to the impressive Fabre Museum, dive into the medieval streets of the Écusson district. At noon, explore the Gothic cathedral and the historic botanical garden. The afternoon ends with a panoramic view from Peyrou before capping off the day with a cozy dinner in the old town."
+            "en": "Your day starts at the bustling Place de la Comédie, the city's beating heart. After a visit to the impressive Fabre Museum, dive into the medieval streets of the Écusson district. At noon, explore the Gothic cathedral and the historic botanical garden. The afternoon ends with a panoramic view from Peyrou before capping off the day with a cozy dinner in the old town.",
+            "fr": "Votre journée commence à la Place de la Comédie animée, le cœur battant de la ville. Après une visite de l'impressionnant Musée Fabre, plongez dans les rues médiévales du quartier de l'Écusson. À midi, explorez la cathédrale gothique et le jardin botanique historique. L'après-midi se termine par une vue panoramique depuis le Peyrou avant de clore la journée par un dîner chaleureux en vieille ville."
           },
           "stops": [
             {
@@ -275,7 +293,8 @@
                 "de": "Place de la Comédie",
                 "hu": "Place de la Comédie",
                 "ro": "Place de la Comédie",
-                "en": "Place de la Comédie"
+                "en": "Place de la Comédie",
+                "fr": "Place de la Comédie"
               },
               "tip_5lang": null
             },
@@ -284,7 +303,8 @@
                 "de": "Musée Fabre",
                 "hu": "Musée Fabre",
                 "ro": "Muzeul Fabre",
-                "en": "Fabre Museum"
+                "en": "Fabre Museum",
+                "fr": "Musée Fabre"
               },
               "tip_5lang": null
             },
@@ -293,7 +313,8 @@
                 "de": "Cathédrale Saint-Pierre",
                 "hu": "Szent Péter-székesegyház",
                 "ro": "Catedrala Sfântul Petru",
-                "en": "Saint-Pierre Cathedral"
+                "en": "Saint-Pierre Cathedral",
+                "fr": "Cathédrale Saint-Pierre"
               },
               "tip_5lang": null
             },
@@ -302,7 +323,8 @@
                 "de": "Jardin des Plantes",
                 "hu": "Fűvészkert",
                 "ro": "Grădina Botanică",
-                "en": "Botanical Garden"
+                "en": "Botanical Garden",
+                "fr": "Jardin botanique"
               },
               "tip_5lang": null
             },
@@ -311,7 +333,8 @@
                 "de": "Promenade du Peyrou",
                 "hu": "Peyrou sétány",
                 "ro": "Promenada Peyrou",
-                "en": "Promenade du Peyrou"
+                "en": "Promenade du Peyrou",
+                "fr": "Promenade du Peyrou"
               },
               "tip_5lang": null
             },
@@ -320,7 +343,8 @@
                 "de": "Altstadt-Abendessen",
                 "hu": "Vacsora az óvárosban",
                 "ro": "Cină în centrul vechi",
-                "en": "Old Town Dinner"
+                "en": "Old Town Dinner",
+                "fr": "Dîner en vieille ville"
               },
               "tip_5lang": null
             }
@@ -423,6 +447,10 @@
             "en": [
               "Wear comfortable shoes for the cobblestone streets.",
               "Use the narrow alleys to find shade."
+            ],
+            "fr": [
+              "Portez des chaussures confortables pour les pavés.",
+              "Utilisez les ruelles étroites pour trouver de l'ombre."
             ]
           }
         },
@@ -431,7 +459,8 @@
             "de": "Ein regnerischer Morgen beginnt auf der Place de la Comédie unter den schützenden Arkaden. Der Vormittag gehört der Kunst im Fabre-Museum, wo man trocken bleibt. Nach einem gemütlichen Mittagessen in der Altstadt besuchen wir die Kathedrale Saint-Pierre. Der Botanische Garten wirkt im Regen mystisch, bevor wir den Tag bei einem Glas Wein in einem warmen Bistro ausklingen lassen.",
             "hu": "Az esős reggel a Place de la Comédie árkádjai alatt indul. A délelőttöt a Musée Fabre műalkotásai között töltjük, szárazon. Egy hangulatos óvárosi ebéd után meglátogatjuk a Saint-Pierre székesegyházat. A botanikus kert az esőben misztikus arcát mutatja, majd a napot egy pohár bor mellett, egy meleg bisztróban zárjuk az óváros szívében.",
             "ro": "O dimineață ploioasă începe sub arcadele din Place de la Comédie. Dimineața este dedicată artei la Muzeul Fabre, unde rămâneți la adăpost. După un prânz cald în orașul vechi, vizităm Catedrala Saint-Pierre. Grădina Botanică pare mistică în ploaie, înainte de a încheia ziua cu un pahar de vin într-un bistro primitor.",
-            "en": "A rainy morning starts under the protected arcades of Place de la Comédie. Spend the morning dry among the art at the Fabre Museum. After a cozy lunch in the old town, visit the Saint-Pierre Cathedral. The Botanical Garden looks mystical in the rain, before ending the day with a glass of wine in a warm bistro in the heart of the old city."
+            "en": "A rainy morning starts under the protected arcades of Place de la Comédie. Spend the morning dry among the art at the Fabre Museum. After a cozy lunch in the old town, visit the Saint-Pierre Cathedral. The Botanical Garden looks mystical in the rain, before ending the day with a glass of wine in a warm bistro in the heart of the old city.",
+            "fr": "Un matin pluvieux commence sous les arcades protégées de la Place de la Comédie. Passez la matinée au sec parmi les œuvres du Musée Fabre. Après un déjeuner chaleureux en vieille ville, visitez la cathédrale Saint-Pierre. Le Jardin botanique paraît mystique sous la pluie, avant de terminer la journée par un verre de vin dans un bistro chaleureux au cœur de la vieille cité."
           },
           "stops": [
             {
@@ -440,7 +469,8 @@
                 "de": "Nutzen Sie die Arkaden der Oper, um trocken zu bleiben.",
                 "hu": "Használja az operaház árkádjait, hogy szárazon maradjon.",
                 "ro": "Folosiți arcadele operei pentru a rămâne la adăpost.",
-                "en": "Use the opera house arcades to stay dry."
+                "en": "Use the opera house arcades to stay dry.",
+                "fr": "Utilisez les arcades de l'opéra pour rester au sec."
               }
             },
             {
@@ -449,7 +479,8 @@
                 "de": "Perfekter Zufluchtsort bei starkem Regen.",
                 "hu": "Tökéletes menedék heves esőzés esetén.",
                 "ro": "Refugiul perfect în caz de ploaie torențială.",
-                "en": "Perfect refuge during heavy rain."
+                "en": "Perfect refuge during heavy rain.",
+                "fr": "Refuge parfait lors de fortes pluies."
               }
             },
             {
@@ -458,7 +489,8 @@
                 "de": "Die massiven Mauern bieten exzellenten Wetterschutz.",
                 "hu": "A masszív falak kiváló védelmet nyújtanak az időjárás ellen.",
                 "ro": "Zidurile masive oferă o protecție excelentă.",
-                "en": "Massive walls offer excellent weather protection."
+                "en": "Massive walls offer excellent weather protection.",
+                "fr": "D'imposants murs offrent une excellente protection contre le mauvais temps."
               }
             },
             {
@@ -467,7 +499,8 @@
                 "de": "Bringen Sie einen stabilen Regenschirm für die Alleen mit.",
                 "hu": "Hozzon egy stabil esernyőt a fasorokhoz.",
                 "ro": "Aduceți o umbrelă rezistentă pentru alei.",
-                "en": "Bring a sturdy umbrella for the avenues."
+                "en": "Bring a sturdy umbrella for the avenues.",
+                "fr": "Apportez un parapluie solide pour les avenues."
               }
             },
             {
@@ -476,7 +509,8 @@
                 "de": "Achtung, die Steine können bei Nässe rutschig sein.",
                 "hu": "Vigyázat, a kövek nedvesen csúszósak lehetnek.",
                 "ro": "Atenție, pietrele pot fi alunecoase când sunt ude.",
-                "en": "Watch out, the stones can be slippery when wet."
+                "en": "Watch out, the stones can be slippery when wet.",
+                "fr": "Attention, les pierres peuvent être glissantes quand elles sont mouillées."
               }
             },
             {
@@ -485,7 +519,8 @@
                 "de": "Wählen Sie einen Tisch fernab der zugigen Eingangstür.",
                 "hu": "Válasszon asztalt távol a huzatos bejárati ajtótól.",
                 "ro": "Alegeți o masă departe de ușa de la intrare.",
-                "en": "Choose a table away from the drafty entrance door."
+                "en": "Choose a table away from the drafty entrance door.",
+                "fr": "Choisissez une table à l'écart de la porte d'entrée courante d'air."
               }
             }
           ],
@@ -513,6 +548,12 @@
               "Halles Castellane offers a covered market experience.",
               "Use museums as longer rest stops.",
               "A poncho is more practical than an umbrella in the wind."
+            ],
+            "fr": [
+              "Portez des chaussures imperméables pour les pavés de la vieille ville.",
+              "Les Halles Castellane offrent une expérience de marché couvert.",
+              "Utilisez les musées comme pauses plus longues.",
+              "Un poncho est plus pratique qu'un parapluie par vent fort."
             ]
           }
         },
@@ -521,7 +562,8 @@
             "de": "Die Wintersonne beleuchtet die Place de la Comédie in goldenem Licht. Nach einem Museumsbesuch wärmen wir uns bei einem Café au Lait auf. Die Kathedrale wirkt in der klaren Winterluft besonders imposant. Ein Spaziergang im Peyrou bietet einen weiten Blick bis zu den Cevennen. Der Abend endet festlich in den beleuchteten Gassen der Altstadt bei regionalen Spezialitäten.",
             "hu": "A téli nap arany fénybe vonja a Place de la Comédie-t. A múzeumlátogatás után egy café au lait mellett melegszünk fel. A székesegyház különösen impozáns a tiszta téli levegőben. A Peyrou sétányról ilyenkor ellátni egészen a Cévennekig. Az este ünnepi hangulatban zárul az óváros kivilágított utcáin, helyi specialitásokkal.",
             "ro": "Soarele de iarnă luminează Place de la Comédie în tonuri aurii. După muzeu, ne încălzim cu un café au lait. Catedrala pare impunătoare în aerul curat de iarnă. O plimbare pe Peyrou oferă o vedere clară până la munții Cévennes. Seara se încheie festiv pe străzile luminate ale orașului vechi.",
-            "en": "Winter sun bathes Place de la Comédie in golden light. Warm up with a café au lait after the museum. The cathedral looks particularly imposing in the crisp winter air. A walk at Peyrou offers clear views all the way to the Cévennes mountains. The evening ends festively in the illuminated alleys of the old town."
+            "en": "Winter sun bathes Place de la Comédie in golden light. Warm up with a café au lait after the museum. The cathedral looks particularly imposing in the crisp winter air. A walk at Peyrou offers clear views all the way to the Cévennes mountains. The evening ends festively in the illuminated alleys of the old town.",
+            "fr": "Le soleil d'hiver baigne la Place de la Comédie d'une lumière dorée. Réchauffez-vous avec un café au lait après le musée. La cathédrale paraît particulièrement imposante dans l'air vif de l'hiver. Une promenade au Peyrou offre des vues dégagées jusqu'aux montagnes des Cévennes. La soirée se termine dans l'allégresse des ruelles illuminées de la vieille ville."
           },
           "stops": [
             {
@@ -530,7 +572,8 @@
                 "de": "Genießen Sie die Wintersonne auf den Terrassen mit Heizstrahlern.",
                 "hu": "Élvezze a téli napsütést a fűtött teraszokon.",
                 "ro": "Bucurați-vă de soarele de iarnă pe terasele cu încălzitoare.",
-                "en": "Enjoy the winter sun on the terraces with heaters."
+                "en": "Enjoy the winter sun on the terraces with heaters.",
+                "fr": "Profitez du soleil d'hiver sur les terrasses chauffées."
               }
             },
             {
@@ -539,7 +582,8 @@
                 "de": "Die Garderobe ist ideal, um schwere Wintermäntel abzugeben.",
                 "hu": "A ruhatár ideális a nehéz téli kabátok leadására.",
                 "ro": "Garderoba este ideală pentru a lăsa hainele groase.",
-                "en": "The cloakroom is ideal for dropping off heavy winter coats."
+                "en": "The cloakroom is ideal for dropping off heavy winter coats.",
+                "fr": "Le vestiaire est idéal pour déposer les lourds manteaux d'hiver."
               }
             },
             {
@@ -548,7 +592,8 @@
                 "de": "Im Inneren ist es oft wärmer als draußen.",
                 "hu": "Odabent gyakran melegebb van, mint kint.",
                 "ro": "În interior este adesea mai cald decât afară.",
-                "en": "It is often warmer inside than outside."
+                "en": "It is often warmer inside than outside.",
+                "fr": "Il fait souvent plus chaud à l'intérieur qu'à l'extérieur."
               }
             },
             {
@@ -557,7 +602,8 @@
                 "de": "Besuchen Sie die Gewächshäuser für eine tropische Aufwärmpause.",
                 "hu": "Látogassa meg az üvegházakat egy trópusi felmelegedéshez.",
                 "ro": "Vizitați serele pentru o pauză tropicală caldă.",
-                "en": "Visit the greenhouses for a tropical warm-up break."
+                "en": "Visit the greenhouses for a tropical warm-up break.",
+                "fr": "Visitez les serres pour une pause chaude et tropicale."
               }
             },
             {
@@ -566,7 +612,8 @@
                 "de": "Der Mistral-Wind kann hier oben sehr kalt wehen.",
                 "hu": "A Mistral szél itt fent nagyon hideg lehet.",
                 "ro": "Vântul Mistral poate fi foarte rece aici sus.",
-                "en": "The Mistral wind can blow very cold up here."
+                "en": "The Mistral wind can blow very cold up here.",
+                "fr": "Le Mistral peut souffler très froid ici."
               }
             },
             {
@@ -575,7 +622,8 @@
                 "de": "Reservieren Sie einen Tisch in der Nähe des Kamins, falls vorhanden.",
                 "hu": "Foglaljon asztalt a kandalló közelében, ha van.",
                 "ro": "Rezervați o masă lângă șemineu, dacă există.",
-                "en": "Book a table near the fireplace if available."
+                "en": "Book a table near the fireplace if available.",
+                "fr": "Réservez une table près de la cheminée si possible."
               }
             }
           ],
@@ -603,6 +651,12 @@
               "Watch out for the cold Mistral wind from the north.",
               "Layering your clothes is highly recommended.",
               "Christmas lights in the old town start in late November."
+            ],
+            "fr": [
+              "Le coucher du soleil a lieu déjà vers 17:30 en hiver.",
+              "Attention au froid vent de Mistral venant du nord.",
+              "Superposer les vêtements est fortement recommandé.",
+              "Les illuminations de Noël dans la vieille ville commencent fin novembre."
             ]
           }
         }
@@ -621,7 +675,8 @@
             "de": "Place de la Comédie",
             "hu": "Place de la Comédie",
             "ro": "Place de la Comédie",
-            "en": "Place de la Comédie"
+            "en": "Place de la Comédie",
+            "fr": "Place de la Comédie"
           },
           "coords": [
             3.8794,
@@ -636,7 +691,8 @@
             "de": "Startpunkt für Radtouren in Richtung Meer.",
             "hu": "Kiindulópont a tenger felé tartó biciklitúrákhoz.",
             "ro": "Punct de plecare pentru trasee de bicicletă spre mare.",
-            "en": "Starting point for bike tours towards the sea."
+            "en": "Starting point for bike tours towards the sea.",
+            "fr": "Point de départ pour les balades à vélo vers la mer."
           }
         },
         {
@@ -644,7 +700,8 @@
             "de": "Viertel Antigone",
             "hu": "Antigone negyed",
             "ro": "Cartierul Antigone",
-            "en": "Antigone District"
+            "en": "Antigone District",
+            "fr": "Quartier Antigone"
           },
           "coords": [
             3.8902,
@@ -659,7 +716,8 @@
             "de": "Neoklassizistische Architektur von Ricardo Bofill.",
             "hu": "Ricardo Bofill neoklasszicista építészete.",
             "ro": "Arhitectură neoclasică de Ricardo Bofill.",
-            "en": "Neoclassical architecture by Ricardo Bofill."
+            "en": "Neoclassical architecture by Ricardo Bofill.",
+            "fr": "Architecture néoclassique de Ricardo Bofill."
           }
         },
         {
@@ -667,7 +725,8 @@
             "de": "Rives du Lez",
             "hu": "Lez partja",
             "ro": "Malurile râului Lez",
-            "en": "Rives du Lez"
+            "en": "Rives du Lez",
+            "fr": "Rives du Lez"
           },
           "coords": [
             3.8955,
@@ -682,7 +741,8 @@
             "de": "Entspannter Radweg entlang des Flusses.",
             "hu": "Pihentető kerékpárút a folyó mentén.",
             "ro": "Pistă de biciclete relaxantă de-a lungul râului.",
-            "en": "Relaxing bike path along the river."
+            "en": "Relaxing bike path along the river.",
+            "fr": "Piste cyclable relaxante le long de la rivière."
           }
         },
         {
@@ -690,7 +750,8 @@
             "de": "Port Marianne",
             "hu": "Port Marianne",
             "ro": "Port Marianne",
-            "en": "Port Marianne"
+            "en": "Port Marianne",
+            "fr": "Port Marianne"
           },
           "coords": [
             3.8988,
@@ -705,7 +766,8 @@
             "de": "Moderne Architektur und künstliche Seen.",
             "hu": "Modern építészet és mesterséges tavak.",
             "ro": "Arhitectură modernă și lacuri artificiale.",
-            "en": "Modern architecture and artificial lakes."
+            "en": "Modern architecture and artificial lakes.",
+            "fr": "Architecture moderne et lacs artificiels."
           }
         },
         {
@@ -713,7 +775,8 @@
             "de": "Palavas-les-Flots Strand",
             "hu": "Palavas-les-Flots strand",
             "ro": "Plaja Palavas-les-Flots",
-            "en": "Palavas-les-Flots Beach"
+            "en": "Palavas-les-Flots Beach",
+            "fr": "Plage de Palavas-les-Flots"
           },
           "coords": [
             3.9312,
@@ -728,7 +791,8 @@
             "de": "Genießen Sie ein Bad im Mittelmeer.",
             "hu": "Élvezze a mártózást a Földközi-tengerben.",
             "ro": "Bucurați-vă de o baie în Marea Mediterană.",
-            "en": "Enjoy a dip in the Mediterranean Sea."
+            "en": "Enjoy a dip in the Mediterranean Sea.",
+            "fr": "Profitez d'une baignade dans la mer Méditerranée."
           }
         },
         {
@@ -736,7 +800,8 @@
             "de": "Sonnenuntergang am Meer",
             "hu": "Naplemente a tengerparton",
             "ro": "Apus de soare la malul mării",
-            "en": "Sunset at the Beach"
+            "en": "Sunset at the Beach",
+            "fr": "Coucher de soleil à la plage"
           },
           "coords": [
             3.9355,
@@ -751,7 +816,8 @@
             "de": "Perfekter Ort für Fotos.",
             "hu": "Tökéletes helyszín fotózáshoz.",
             "ro": "Locul perfect pentru fotografii.",
-            "en": "Perfect spot for photos."
+            "en": "Perfect spot for photos.",
+            "fr": "Endroit parfait pour les photos."
           }
         }
       ],
@@ -759,7 +825,8 @@
         "de": "Diese Radtour führt Sie vom historischen Zentrum direkt an die Küste. Sie starten am Place de la Comédie und durchqueren das futuristische Viertel Antigone. Entlang des Flusses Lez radeln Sie auf gut ausgebauten Wegen durch das moderne Port Marianne bis nach Palavas-les-Flots. Hier können Sie den Nachmittag am Strand verbringen und den weiten Blick auf das Meer genießen, bevor Sie den Rückweg antreten.",
         "hu": "Ez a kerékpártúra a történelmi központból egyenesen a tengerpartra vezeti Önt. A Place de la Comédie-ról indulva áthalad a futurista Antigone negyeden. A Lez folyó mentén, jól kiépített utakon kerékpározik a modern Port Marianne-on keresztül egészen Palavas-les-Flots-ig. Itt a délutánt a strandon töltheti, élvezve a tengerre nyíló kilátást, mielőtt visszaindulna.",
         "ro": "Acest tur cu bicicleta vă poartă din centrul istoric direct spre coastă. Plecați din Place de la Comédie și traversați cartierul futurist Antigone. De-a lungul râului Lez, pedalați pe piste bine amenajate prin modernul Port Marianne până la Palavas-les-Flots. Aici vă puteți petrece după-amiaza pe plajă, admirând marea, înainte de a vă întoarce.",
-        "en": "This bike tour takes you from the historic center directly to the coast. Starting at Place de la Comédie, you'll cross the futuristic Antigone district. Pedal along the Lez river on well-maintained paths through modern Port Marianne all the way to Palavas-les-Flots. Here, you can spend the afternoon at the beach, enjoying the sea views before heading back."
+        "en": "This bike tour takes you from the historic center directly to the coast. Starting at Place de la Comédie, you'll cross the futuristic Antigone district. Pedal along the Lez river on well-maintained paths through modern Port Marianne all the way to Palavas-les-Flots. Here, you can spend the afternoon at the beach, enjoying the sea views before heading back.",
+        "fr": "Cette randonnée à vélo vous mène du centre historique directement à la côte. En partant de la Place de la Comédie, vous traverserez le quartier futuriste d'Antigone. Pédalez le long du Lez sur des voies bien entretenues à travers le moderne Port Marianne jusqu'à Palavas-les-Flots. Là, vous pourrez passer l'après-midi à la plage, profiter de la vue sur la mer avant de revenir."
       },
       "gastro_picks": {
         "de": [
@@ -859,6 +926,10 @@
         "en": [
           "Rent a bike through the Vélomagg system.",
           "Take plenty of water and sunscreen."
+        ],
+        "fr": [
+          "Louez un vélo via le système Vélomagg.",
+          "Prenez suffisamment d'eau et de crème solaire."
         ]
       },
       "variants": {
@@ -867,7 +938,8 @@
             "de": "Diese Radtour führt Sie vom historischen Zentrum direkt an die Küste. Sie starten am Place de la Comédie und durchqueren das futuristische Viertel Antigone. Entlang des Flusses Lez radeln Sie auf gut ausgebauten Wegen durch das moderne Port Marianne bis nach Palavas-les-Flots. Hier können Sie den Nachmittag am Strand verbringen und den weiten Blick auf das Meer genießen, bevor Sie den Rückweg antreten.",
             "hu": "Ez a kerékpártúra a történelmi központból egyenesen a tengerpartra vezeti Önt. A Place de la Comédie-ról indulva áthalad a futurista Antigone negyeden. A Lez folyó mentén, jól kiépített utakon kerékpározik a modern Port Marianne-on keresztül egészen Palavas-les-Flots-ig. Itt a délutánt a strandon töltheti, élvezve a tengerre nyíló kilátást, mielőtt visszaindulna.",
             "ro": "Acest tur cu bicicleta vă poartă din centrul istoric direct spre coastă. Plecați din Place de la Comédie și traversați cartierul futurist Antigone. De-a lungul râului Lez, pedalați pe piste bine amenajate prin modernul Port Marianne până la Palavas-les-Flots. Aici vă puteți petrece după-amiaza pe plajă, admirând marea, înainte de a vă întoarce.",
-            "en": "This bike tour takes you from the historic center directly to the coast. Starting at Place de la Comédie, you'll cross the futuristic Antigone district. Pedal along the Lez river on well-maintained paths through modern Port Marianne all the way to Palavas-les-Flots. Here, you can spend the afternoon at the beach, enjoying the sea views before heading back."
+            "en": "This bike tour takes you from the historic center directly to the coast. Starting at Place de la Comédie, you'll cross the futuristic Antigone district. Pedal along the Lez river on well-maintained paths through modern Port Marianne all the way to Palavas-les-Flots. Here, you can spend the afternoon at the beach, enjoying the sea views before heading back.",
+            "fr": "Cette randonnée à vélo vous mène du centre historique directement à la côte. En partant de la Place de la Comédie, vous traverserez le quartier futuriste d'Antigone. Pédalez le long du Lez sur des voies bien entretenues à travers le moderne Port Marianne jusqu'à Palavas-les-Flots. Là, vous pourrez passer l'après-midi à la plage, profiter de la vue sur la mer avant de revenir."
           },
           "stops": [
             {
@@ -875,7 +947,8 @@
                 "de": "Place de la Comédie",
                 "hu": "Place de la Comédie",
                 "ro": "Place de la Comédie",
-                "en": "Place de la Comédie"
+                "en": "Place de la Comédie",
+                "fr": "Place de la Comédie"
               },
               "tip_5lang": null
             },
@@ -884,7 +957,8 @@
                 "de": "Viertel Antigone",
                 "hu": "Antigone negyed",
                 "ro": "Cartierul Antigone",
-                "en": "Antigone District"
+                "en": "Antigone District",
+                "fr": "Quartier Antigone"
               },
               "tip_5lang": null
             },
@@ -893,7 +967,8 @@
                 "de": "Rives du Lez",
                 "hu": "Lez partja",
                 "ro": "Malurile râului Lez",
-                "en": "Rives du Lez"
+                "en": "Rives du Lez",
+                "fr": "Rives du Lez"
               },
               "tip_5lang": null
             },
@@ -902,7 +977,8 @@
                 "de": "Port Marianne",
                 "hu": "Port Marianne",
                 "ro": "Port Marianne",
-                "en": "Port Marianne"
+                "en": "Port Marianne",
+                "fr": "Port Marianne"
               },
               "tip_5lang": null
             },
@@ -911,7 +987,8 @@
                 "de": "Palavas-les-Flots Strand",
                 "hu": "Palavas-les-Flots strand",
                 "ro": "Plaja Palavas-les-Flots",
-                "en": "Palavas-les-Flots Beach"
+                "en": "Palavas-les-Flots Beach",
+                "fr": "Plage de Palavas-les-Flots"
               },
               "tip_5lang": null
             },
@@ -920,7 +997,8 @@
                 "de": "Sonnenuntergang am Meer",
                 "hu": "Naplemente a tengerparton",
                 "ro": "Apus de soare la malul mării",
-                "en": "Sunset at the Beach"
+                "en": "Sunset at the Beach",
+                "fr": "Coucher de soleil à la plage"
               },
               "tip_5lang": null
             }
@@ -1023,6 +1101,10 @@
             "en": [
               "Rent a bike through the Vélomagg system.",
               "Take plenty of water and sunscreen."
+            ],
+            "fr": [
+              "Louez un vélo via le système Vélomagg.",
+              "Prenez suffisamment d'eau et de crème solaire."
             ]
           }
         },
@@ -1031,7 +1113,8 @@
             "de": "Trotz Regen starten wir auf der Comédie. Die futuristische Architektur von Antigone glänzt im nassen Asphalt. Entlang des Lez radeln wir vorsichtig nach Port Marianne. Die Fahrt zum Strand von Palavas erfordert gute Regenkleidung, bietet aber eine dramatische Küstenlandschaft. Wir wärmen uns in einer Strandbar auf, während die Wellen gegen die Küste schlagen.",
             "hu": "Az eső ellenére a Comédie-ról indulunk. Antigone futurisztikus építészete csillog a nedves aszfalton. A Lez mentén óvatosan tekerünk Port Marianne felé. A palavasi strandhoz vezető út jó esőruházatot igényel, de drámai tengerparti látványt nyújt. Egy vízparti bárban melegszünk fel, miközben a hullámok a partot mossák.",
             "ro": "În ciuda ploii, pornim din Comédie. Arhitectura futuristă din Antigone strălucește pe asfaltul ud. Pedalăm cu grijă de-a lungul râului Lez spre Port Marianne. Drumul spre plaja Palavas necesită echipament bun de ploaie, dar oferă un peisaj dramatic. Ne încălzim într-un bar de pe plajă în timp ce valurile lovesc țărmul.",
-            "en": "Despite the rain, we start at Comédie. Antigone's futuristic architecture shines on the wet asphalt. We cycle carefully along the Lez towards Port Marianne. The ride to Palavas beach requires good rain gear but offers a dramatic coastal landscape. We warm up in a beach bar while the waves crash against the shore."
+            "en": "Despite the rain, we start at Comédie. Antigone's futuristic architecture shines on the wet asphalt. We cycle carefully along the Lez towards Port Marianne. The ride to Palavas beach requires good rain gear but offers a dramatic coastal landscape. We warm up in a beach bar while the waves crash against the shore.",
+            "fr": "Malgré la pluie, nous commençons à la Comédie. L'architecture futuriste d'Antigone brille sur l'asphalte mouillé. Nous roulons prudemment le long du Lez vers Port Marianne. La route vers la plage de Palavas exige un bon équipement pluie mais offre un paysage côtier spectaculaire. Nous nous réchauffons dans un bar de plage tandis que les vagues s'écrasent sur le rivage."
           },
           "stops": [
             {
@@ -1040,7 +1123,8 @@
                 "de": "Prüfen Sie den Luftdruck bei Kälte und Nässe.",
                 "hu": "Ellenőrizze a guminyomást hidegben és esőben.",
                 "ro": "Verificați presiunea pneurilor pe ploaie.",
-                "en": "Check tire pressure for wet conditions."
+                "en": "Check tire pressure for wet conditions.",
+                "fr": "Vérifiez la pression des pneus pour conditions humides."
               }
             },
             {
@@ -1049,7 +1133,8 @@
                 "de": "Vorsicht auf den glatten Marmoroberflächen der Plätze.",
                 "hu": "Vigyázat a terek sima márványfelületein.",
                 "ro": "Atenție la suprafețele de marmură lucioase.",
-                "en": "Watch out for smooth marble surfaces in the squares."
+                "en": "Watch out for smooth marble surfaces in the squares.",
+                "fr": "Attention aux surfaces en marbre lisses sur les places."
               }
             },
             {
@@ -1058,7 +1143,8 @@
                 "de": "Halten Sie Abstand zum Flussufer bei starkem Regen.",
                 "hu": "Tartson távolságot a folyóparttól heves esőben.",
                 "ro": "Păstrați distanța față de malul râului pe ploaie grea.",
-                "en": "Stay away from the riverbank during heavy rain."
+                "en": "Stay away from the riverbank during heavy rain.",
+                "fr": "Éloignez-vous des berges pendant de fortes pluies."
               }
             },
             {
@@ -1067,7 +1153,8 @@
                 "de": "Nutzen Sie die überdachten Bereiche der modernen Cafés.",
                 "hu": "Használja a modern kávézók fedett részeit.",
                 "ro": "Folosiți zonele acoperite ale cafenelelor moderne.",
-                "en": "Use the covered areas of the modern cafes."
+                "en": "Use the covered areas of the modern cafes.",
+                "fr": "Utilisez les zones couvertes des cafés modernes."
               }
             },
             {
@@ -1076,7 +1163,8 @@
                 "de": "Ein Regenponcho schützt auch vor der Gischt.",
                 "hu": "Az esőpelerín a tengeri permet ellen is véd.",
                 "ro": "O pelerină protejează și împotriva aerosolilor marini.",
-                "en": "A rain poncho also protects against sea spray."
+                "en": "A rain poncho also protects against sea spray.",
+                "fr": "Un poncho protège aussi contre les embruns marins."
               }
             },
             {
@@ -1085,7 +1173,8 @@
                 "de": "Suchen Sie Schutz in einer der ganzjährig geöffneten Bars.",
                 "hu": "Keressen menedéket az egész évben nyitva tartó bárokban.",
                 "ro": "Căutați adăpost într-unul dintre barurile deschise tot anul.",
-                "en": "Seek shelter in one of the year-round open bars."
+                "en": "Seek shelter in one of the year-round open bars.",
+                "fr": "Cherchez refuge dans l'un des bars ouverts toute l'année."
               }
             }
           ],
@@ -1113,6 +1202,12 @@
               "Use covered Vélomagg stations.",
               "Mudguards are essential in this weather.",
               "Wear bright clothes or reflectors for better visibility."
+            ],
+            "fr": [
+              "Méfiance avec les rails de tram : ils sont extrêmement glissants lorsqu'ils sont mouillés.",
+              "Utilisez les stations Vélomagg couvertes.",
+              "Les garde-boue sont essentiels par ce temps.",
+              "Portez des vêtements clairs ou des réflecteurs pour une meilleure visibilité."
             ]
           }
         },
@@ -1121,7 +1216,8 @@
             "de": "Ein frischer Wintermorgen am Rad. Die moderne Architektur in Antigone wirkt im klaren Licht scharf gezeichnet. Die Fahrt entlang des Lez ist ruhig, die Natur im Winterschlaf. Port Marianne lädt zu einer kurzen Pause in der Sonne ein. Der Weg zum Strand ist windig, aber die klare Sicht entschädigt. Der Sonnenuntergang über dem Meer ist im Winter besonders farbenfroh.",
             "hu": "Friss téli reggel a kerékpáron. Antigone modern építészete élesen kirajzolódik a tiszta fényben. A Lez menti út nyugodt, a természet téli álmot alszik. Port Marianne napsütötte részei hívogatnak egy rövid pihenőre. A strand felé vezető út szeles, de a tiszta kilátás kárpótol. A tenger feletti naplemente télen különösen színes.",
             "ro": "O dimineață proaspătă de iarnă pe bicicletă. Arhitectura din Antigone pare bine definită în lumina clară. Drumul de-a lungul Lez este liniștit. Port Marianne vă invită la o scurtă pauză la soare. Drumul spre plajă este vântos, dar vizibilitatea merită efortul. Apusul peste mare este extrem de colorat iarna.",
-            "en": "A fresh winter morning on the bike. Modern architecture in Antigone looks sharp in the clear light. The ride along the Lez is peaceful. Port Marianne invites you for a short break in the sun. The path to the beach is windy, but the clear view makes up for it. The winter sunset over the sea is exceptionally colorful."
+            "en": "A fresh winter morning on the bike. Modern architecture in Antigone looks sharp in the clear light. The ride along the Lez is peaceful. Port Marianne invites you for a short break in the sun. The path to the beach is windy, but the clear view makes up for it. The winter sunset over the sea is exceptionally colorful.",
+            "fr": "Un frais matin d'hiver à vélo. L'architecture moderne d'Antigone apparaît nette sous la lumière claire. La route le long du Lez est paisible. Port Marianne invite à une courte pause au soleil. Le chemin vers la plage est venteux, mais la vue dégagée le compense. Le coucher de soleil hivernal sur la mer est exceptionnellement coloré."
           },
           "stops": [
             {
@@ -1130,7 +1226,8 @@
                 "de": "Tragen Sie warme Handschuhe, der Fahrtwind ist eisig.",
                 "hu": "Viseljen meleg kesztyűt, a menetszél jeges.",
                 "ro": "Purtați mănuși groase, vântul este înghețat.",
-                "en": "Wear warm gloves, the wind chill is icy."
+                "en": "Wear warm gloves, the wind chill is icy.",
+                "fr": "Portez des gants chauds, le refroidissement éolien est glacial."
               }
             },
             {
@@ -1139,7 +1236,8 @@
                 "de": "Nutzen Sie die sonnigen Abschnitte für Pausen.",
                 "hu": "Használja a napsütötte szakaszokat pihenésre.",
                 "ro": "Folosiți secțiunile însorite pentru pauze.",
-                "en": "Use the sunny sections for breaks."
+                "en": "Use the sunny sections for breaks.",
+                "fr": "Profitez des sections ensoleillées pour faire des pauses."
               }
             },
             {
@@ -1148,7 +1246,8 @@
                 "de": "Die Wege können im Schatten leicht gefroren sein.",
                 "hu": "Az utak az árnyékban enyhén fagyottak lehetnek.",
                 "ro": "Pistele pot fi ușor înghețate la umbră.",
-                "en": "Paths can be slightly frozen in shaded areas."
+                "en": "Paths can be slightly frozen in shaded areas.",
+                "fr": "Les chemins peuvent être légèrement gelés dans les zones ombragées."
               }
             },
             {
@@ -1157,7 +1256,8 @@
                 "de": "Wärmen Sie sich in einem der modernen Bistro-Innenräume auf.",
                 "hu": "Melegedjen fel a modern bisztrók belső tereiben.",
                 "ro": "Încălziți-vă în interiorul unui bistro modern.",
-                "en": "Warm up in one of the modern bistro interiors."
+                "en": "Warm up in one of the modern bistro interiors.",
+                "fr": "Réchauffez-vous dans l'un des intérieurs de bistrots modernes."
               }
             },
             {
@@ -1166,7 +1266,8 @@
                 "de": "Der Wind am Meer ist im Winter deutlich stärker.",
                 "hu": "A tengerparti szél télen jelentősen erősebb.",
                 "ro": "Vântul la mare este mult mai puternic iarna.",
-                "en": "The wind at the sea is significantly stronger in winter."
+                "en": "The wind at the sea is significantly stronger in winter.",
+                "fr": "Le vent en mer est nettement plus fort en hiver."
               }
             },
             {
@@ -1175,7 +1276,8 @@
                 "de": "Seien Sie spätestens um 17:00 Uhr für den Sonnenuntergang da.",
                 "hu": "Legyen ott legkésőbb 17:00-kor a naplementére.",
                 "ro": "Fiți acolo cel târziu la 17:00 pentru apus.",
-                "en": "Be there by 17:00 at the latest for the sunset."
+                "en": "Be there by 17:00 at the latest for the sunset.",
+                "fr": "Arrivez au plus tard à 17:00 pour le coucher du soleil."
               }
             }
           ],
@@ -1203,6 +1305,12 @@
               "Days are short, plan your return trip before dark.",
               "Hot tea in a thermos is a good companion.",
               "Watch out for icy patches on bridges over the Lez."
+            ],
+            "fr": [
+              "Des vêtements chauds en plusieurs couches protègent contre le refroidissement.",
+              "Les jours sont courts, prévoyez votre retour avant la tombée de la nuit.",
+              "Un thé chaud dans un thermos est un bon compagnon.",
+              "Attention aux plaques de verglas sur les ponts au-dessus du Lez."
             ]
           }
         }
@@ -1221,7 +1329,8 @@
             "de": "Promenade du Peyrou",
             "hu": "Peyrou sétány",
             "ro": "Promenada Peyrou",
-            "en": "Promenade du Peyrou"
+            "en": "Promenade du Peyrou",
+            "fr": "Promenade du Peyrou"
           },
           "coords": [
             3.8695,
@@ -1236,7 +1345,8 @@
             "de": "Einfaches Parken im nahegelegenen Parkhaus.",
             "hu": "Könnyű parkolás a közeli parkolóházban.",
             "ro": "Parcare ușoară în garajul din apropiere.",
-            "en": "Easy parking in the nearby garage."
+            "en": "Easy parking in the nearby garage.",
+            "fr": "Parking facile dans le garage à proximité."
           }
         },
         {
@@ -1244,7 +1354,8 @@
             "de": "Cathédrale Saint-Pierre",
             "hu": "Szent Péter-székesegyház",
             "ro": "Catedrala Sfântul Petru",
-            "en": "Saint-Pierre Cathedral"
+            "en": "Saint-Pierre Cathedral",
+            "fr": "Cathédrale Saint-Pierre"
           },
           "coords": [
             3.8715,
@@ -1259,7 +1370,8 @@
             "de": "Einzigartige Architektur der südfranzösischen Gotik.",
             "hu": "Dél-francia gótika egyedi építészete.",
             "ro": "Arhitectură unică a goticului sud-francez.",
-            "en": "Unique architecture of Southern French Gothic."
+            "en": "Unique architecture of Southern French Gothic.",
+            "fr": "Architectures uniques du gothique méridional."
           }
         },
         {
@@ -1267,7 +1379,8 @@
             "de": "Château de Flaugergues",
             "hu": "Flaugergues kastély",
             "ro": "Castelul Flaugergues",
-            "en": "Château de Flaugergues"
+            "en": "Château de Flaugergues",
+            "fr": "Château de Flaugergues"
           },
           "coords": [
             3.9215,
@@ -1282,7 +1395,8 @@
             "de": "Besichtigen Sie das Weingut und die Gärten.",
             "hu": "Látogassa meg a borászatot és a kerteket.",
             "ro": "Vizitați crama și grădinile.",
-            "en": "Visit the winery and the gardens."
+            "en": "Visit the winery and the gardens.",
+            "fr": "Visitez la cave et les jardins."
           }
         },
         {
@@ -1290,7 +1404,8 @@
             "de": "Saint-Guilhem-le-Désert",
             "hu": "Saint-Guilhem-le-Désert",
             "ro": "Saint-Guilhem-le-Désert",
-            "en": "Saint-Guilhem-le-Désert"
+            "en": "Saint-Guilhem-le-Désert",
+            "fr": "Saint-Guilhem-le-Désert"
           },
           "coords": [
             3.5485,
@@ -1305,7 +1420,8 @@
             "de": "Eines der schönsten Dörfer Frankreichs.",
             "hu": "Franciaország egyik legszebb faluja.",
             "ro": "Unul dintre cele mai frumoase sate din Franța.",
-            "en": "One of the most beautiful villages in France."
+            "en": "One of the most beautiful villages in France.",
+            "fr": "Un des plus beaux villages de France."
           }
         },
         {
@@ -1313,7 +1429,8 @@
             "de": "Vacsora Montpellierben",
             "hu": "Vacsora Montpellierben",
             "ro": "Cină în Montpellier",
-            "en": "Dinner in Montpellier"
+            "en": "Dinner in Montpellier",
+            "fr": "Dîner à Montpellier"
           },
           "coords": [
             3.8755,
@@ -1328,7 +1445,8 @@
             "de": "Rückkehr in die Stadt zum Abendessen.",
             "hu": "Visszatérés a városba vacsorázni.",
             "ro": "Revenire în oraș pentru cină.",
-            "en": "Return to the city for dinner."
+            "en": "Return to the city for dinner.",
+            "fr": "Retournez en ville pour le dîner."
           }
         }
       ],
@@ -1336,7 +1454,8 @@
         "de": "Mit dem Auto erkunden Sie sowohl die Highlights von Montpellier als auch das spektakuläre Umland. Nach dem Besuch der Kathedrale und des luxuriösen Château de Flaugergues führt Sie die Fahrt ins Hinterland nach Saint-Guilhem-le-Désert, einem mittelalterlichen Juwel in einer Schlucht. Der Tag endet wieder im Stadtzentrum, wo Sie die kulinarischen Köstlichkeiten der Region genießen können.",
         "hu": "Autóval felfedezheti Montpellier legfontosabb látnivalóit és a látványos környéket is. A székesegyház és a fényűző Château de Flaugergues meglátogatása után az út a hátországba, Saint-Guilhem-le-Désertbe vezet, amely egy középkori ékszerdoboz egy szurdok mélyén. A nap a városközpontban ér véget, ahol megkóstolhatja a régió kulináris finomságait.",
         "ro": "Cu mașina, explorați atât punctele forte din Montpellier, cât și împrejurimile spectaculoase. După vizitarea catedralei și a luxosului Château de Flaugergues, drumul vă poartă în interiorul regiunii spre Saint-Guilhem-le-Désert, o bijuterie medievală situată într-un defileu. Ziua se încheie din nou în centrul orașului, unde puteți savura delicii culinare locale.",
-        "en": "By car, you explore both the highlights of Montpellier and the spectacular surrounding area. After visiting the cathedral and the luxurious Château de Flaugergues, the drive takes you inland to Saint-Guilhem-le-Désert, a medieval gem nestled in a gorge. The day ends back in the city center, where you can enjoy the region's culinary delights."
+        "en": "By car, you explore both the highlights of Montpellier and the spectacular surrounding area. After visiting the cathedral and the luxurious Château de Flaugergues, the drive takes you inland to Saint-Guilhem-le-Désert, a medieval gem nestled in a gorge. The day ends back in the city center, where you can enjoy the region's culinary delights.",
+        "fr": "En voiture, vous explorez à la fois les incontournables de Montpellier et les alentours spectaculaires. Après la visite de la cathédrale et du luxueux Château de Flaugergues, la route vous mène à l’intérieur des terres jusqu’à Saint-Guilhem-le-Désert, un joyau médiéval niché dans une gorge. La journée se termine au centre-ville, où vous pourrez savourer les spécialités culinaires de la région."
       },
       "gastro_picks": {
         "de": [
@@ -1436,6 +1555,10 @@
         "en": [
           "Book parking in advance where possible.",
           "The drive to Saint-Guilhem takes about 45 minutes."
+        ],
+        "fr": [
+          "Réservez votre parking à l’avance quand c’est possible.",
+          "La route jusqu’à Saint-Guilhem prend environ 45 minutes."
         ]
       },
       "variants": {
@@ -1444,7 +1567,8 @@
             "de": "Mit dem Auto erkunden Sie sowohl die Highlights von Montpellier als auch das spektakuläre Umland. Nach dem Besuch der Kathedrale und des luxuriösen Château de Flaugergues führt Sie die Fahrt ins Hinterland nach Saint-Guilhem-le-Désert, einem mittelalterlichen Juwel in einer Schlucht. Der Tag endet wieder im Stadtzentrum, wo Sie die kulinarischen Köstlichkeiten der Region genießen können.",
             "hu": "Autóval felfedezheti Montpellier legfontosabb látnivalóit és a látványos környéket is. A székesegyház és a fényűző Château de Flaugergues meglátogatása után az út a hátországba, Saint-Guilhem-le-Désertbe vezet, amely egy középkori ékszerdoboz egy szurdok mélyén. A nap a városközpontban ér véget, ahol megkóstolhatja a régió kulináris finomságait.",
             "ro": "Cu mașina, explorați atât punctele forte din Montpellier, cât și împrejurimile spectaculoase. După vizitarea catedralei și a luxosului Château de Flaugergues, drumul vă poartă în interiorul regiunii spre Saint-Guilhem-le-Désert, o bijuterie medievală situată într-un defileu. Ziua se încheie din nou în centrul orașului, unde puteți savura delicii culinare locale.",
-            "en": "By car, you explore both the highlights of Montpellier and the spectacular surrounding area. After visiting the cathedral and the luxurious Château de Flaugergues, the drive takes you inland to Saint-Guilhem-le-Désert, a medieval gem nestled in a gorge. The day ends back in the city center, where you can enjoy the region's culinary delights."
+            "en": "By car, you explore both the highlights of Montpellier and the spectacular surrounding area. After visiting the cathedral and the luxurious Château de Flaugergues, the drive takes you inland to Saint-Guilhem-le-Désert, a medieval gem nestled in a gorge. The day ends back in the city center, where you can enjoy the region's culinary delights.",
+            "fr": "En voiture, vous explorez à la fois les incontournables de Montpellier et les alentours spectaculaires. Après la visite de la cathédrale et du luxueux Château de Flaugergues, la route vous mène à l’intérieur des terres jusqu’à Saint-Guilhem-le-Désert, un joyau médiéval niché dans une gorge. La journée se termine au centre-ville, où vous pourrez savourer les spécialités culinaires de la région."
           },
           "stops": [
             {
@@ -1452,7 +1576,8 @@
                 "de": "Promenade du Peyrou",
                 "hu": "Peyrou sétány",
                 "ro": "Promenada Peyrou",
-                "en": "Promenade du Peyrou"
+                "en": "Promenade du Peyrou",
+                "fr": "Promenade du Peyrou"
               },
               "tip_5lang": null
             },
@@ -1461,7 +1586,8 @@
                 "de": "Cathédrale Saint-Pierre",
                 "hu": "Szent Péter-székesegyház",
                 "ro": "Catedrala Sfântul Petru",
-                "en": "Saint-Pierre Cathedral"
+                "en": "Saint-Pierre Cathedral",
+                "fr": "Cathédrale Saint-Pierre"
               },
               "tip_5lang": null
             },
@@ -1470,7 +1596,8 @@
                 "de": "Château de Flaugergues",
                 "hu": "Flaugergues kastély",
                 "ro": "Castelul Flaugergues",
-                "en": "Château de Flaugergues"
+                "en": "Château de Flaugergues",
+                "fr": "Château de Flaugergues"
               },
               "tip_5lang": null
             },
@@ -1479,7 +1606,8 @@
                 "de": "Saint-Guilhem-le-Désert",
                 "hu": "Saint-Guilhem-le-Désert",
                 "ro": "Saint-Guilhem-le-Désert",
-                "en": "Saint-Guilhem-le-Désert"
+                "en": "Saint-Guilhem-le-Désert",
+                "fr": "Saint-Guilhem-le-Désert"
               },
               "tip_5lang": null
             },
@@ -1488,7 +1616,8 @@
                 "de": "Vacsora Montpellierben",
                 "hu": "Vacsora Montpellierben",
                 "ro": "Cină în Montpellier",
-                "en": "Dinner in Montpellier"
+                "en": "Dinner in Montpellier",
+                "fr": "Dîner à Montpellier"
               },
               "tip_5lang": null
             }
@@ -1591,6 +1720,10 @@
             "en": [
               "Book parking in advance where possible.",
               "The drive to Saint-Guilhem takes about 45 minutes."
+            ],
+            "fr": [
+              "Réservez votre parking à l’avance quand c’est possible.",
+              "La route jusqu’à Saint-Guilhem prend environ 45 minutes."
             ]
           }
         },
@@ -1599,7 +1732,8 @@
             "de": "Ein Regentag ist ideal für eine Fahrt ins Umland. Wir starten am Peyrou und besichtigen die Kathedrale. Das Château de Flaugergues bietet eine wunderbare Innenbesichtigung. Die Fahrt nach Saint-Guilhem-le-Désert führt durch neblige Weinberge. Das mittelalterliche Dorf wirkt im Regen wie aus einer anderen Zeit. Zum Abschluss genießen wir ein ausgiebiges Abendessen in Montpellier.",
             "hu": "Az esős nap ideális a környék felfedezésére autóval. A Peyrou-tól indulunk és megnézzük a székesegyházat. A Château de Flaugergues csodás belső vezetést kínál. Az út Saint-Guilhem-le-Désert felé ködös szőlőültetvényeken át vezet. A középkori falu az esőben olyan, mintha megállt volna az idő. Végül egy kiadós vacsorát fogyasztunk Montpellier-ben.",
             "ro": "O zi ploioasă este ideală pentru o excursie în împrejurimi. Începem la Peyrou și vizităm Catedrala. Château de Flaugergues oferă un tur interior minunat. Drumul spre Saint-Guilhem-le-Désert trece prin podgorii cețoase. Satul medieval pare desprins din altă epocă sub ploaie. La final, savurăm o cină copioasă în Montpellier.",
-            "en": "A rainy day is ideal for a drive to the surroundings. We start at Peyrou and visit the Cathedral. Château de Flaugergues offers a wonderful indoor tour. The drive to Saint-Guilhem-le-Désert leads through misty vineyards. The medieval village looks timeless in the rain. Finally, enjoy a hearty dinner back in Montpellier."
+            "en": "A rainy day is ideal for a drive to the surroundings. We start at Peyrou and visit the Cathedral. Château de Flaugergues offers a wonderful indoor tour. The drive to Saint-Guilhem-le-Désert leads through misty vineyards. The medieval village looks timeless in the rain. Finally, enjoy a hearty dinner back in Montpellier.",
+            "fr": "Une journée pluvieuse est idéale pour une excursion dans les environs. Nous commençons au Peyrou et visitons la cathédrale. Le Château de Flaugergues propose une superbe visite intérieure. La route vers Saint-Guilhem-le-Désert traverse des vignobles embrumés. Le village médiéval paraît intemporel sous la pluie. Enfin, profitez d’un dîner copieux de retour à Montpellier."
           },
           "stops": [
             {
@@ -1608,7 +1742,8 @@
                 "de": "Parken Sie im unterirdischen Parkhaus am Arc de Triomphe.",
                 "hu": "Parkoljon az Arc de Triomphe alatti mélygarázsban.",
                 "ro": "Parcați în parcarea subterană de la Arcul de Triumf.",
-                "en": "Park in the underground parking at Arc de Triomphe."
+                "en": "Park in the underground parking at Arc de Triomphe.",
+                "fr": "Garez-vous dans le parking souterrain de l’Arc de Triomphe."
               }
             },
             {
@@ -1617,7 +1752,8 @@
                 "de": "Kurzer Fußweg vom Parkhaus Foch Préfecture.",
                 "hu": "Rövid séta a Foch Préfecture parkolóháztól.",
                 "ro": "Scurtă plimbare de la parcarea Foch Préfecture.",
-                "en": "Short walk from the Foch Préfecture parking garage."
+                "en": "Short walk from the Foch Préfecture parking garage.",
+                "fr": "Courte marche depuis le parking Foch Préfecture."
               }
             },
             {
@@ -1626,7 +1762,8 @@
                 "de": "Kostenlose Parkplätze direkt beim Schloss verfügbar.",
                 "hu": "Ingyenes parkolás közvetlenül a kastélynál.",
                 "ro": "Parcare gratuită disponibilă direct la castel.",
-                "en": "Free parking available directly at the chateau."
+                "en": "Free parking available directly at the chateau.",
+                "fr": "Parking gratuit disponible directement au château."
               }
             },
             {
@@ -1635,7 +1772,8 @@
                 "de": "Nutzen Sie den großen Parkplatz am Ortseingang.",
                 "hu": "Használja a falu bejáratánál lévő nagy parkolót.",
                 "ro": "Folosiți parcarea mare de la intrarea în sat.",
-                "en": "Use the large parking lot at the entrance of the village."
+                "en": "Use the large parking lot at the entrance of the village.",
+                "fr": "Utilisez le grand parking à l’entrée du village."
               }
             },
             {
@@ -1644,7 +1782,8 @@
                 "de": "Reservieren Sie vorab ein Parkhaus im Zentrum.",
                 "hu": "Foglaljon előre helyet egy központi parkolóházban.",
                 "ro": "Rezervați din timp un loc în parcarea centrală.",
-                "en": "Pre-book a parking spot in a central garage."
+                "en": "Pre-book a parking spot in a central garage.",
+                "fr": "Réservez une place de parking dans un garage central."
               }
             }
           ],
@@ -1672,6 +1811,12 @@
               "Visibility in the mountains around Saint-Guilhem can be limited.",
               "Use parking garages to get to the center dry-footed.",
               "Check the condition of your windshield wipers."
+            ],
+            "fr": [
+              "Attendez-vous à plus d’embouteillages au centre-ville en cas de pluie.",
+              "La visibilité dans les montagnes autour de Saint-Guilhem peut être limitée.",
+              "Utilisez les parkings couverts pour rejoindre le centre sans se mouiller.",
+              "Vérifiez l’état de vos essuie-glaces."
             ]
           }
         },
@@ -1680,7 +1825,8 @@
             "de": "Ein klarer Wintertag eignet sich perfekt für eine Tour. Am Peyrou genießen wir die Fernsicht, bevor wir die Kathedrale besuchen. Das Château de Flaugergues zeigt sich in winterlicher Ruhe. Die Fahrt durch das Hérault-Tal nach Saint-Guilhem ist bei tiefstehender Sonne malerisch. Der Abend in Montpellier bietet eine warme Atmosphäre in den beleuchteten Restaurants der Stadt.",
             "hu": "Egy tiszta téli nap tökéletes egy autós túrához. A Peyrou-nál élvezzük a távoli kilátást, mielőtt meglátogatjuk a székesegyházat. A Château de Flaugergues téli nyugalomba burkolózik. Az út az Hérault-völgyön át Saint-Guilhem felé festői az alacsonyan járó nap fényében. A montpellier-i este meleg hangulatot áraszt a város kivilágított éttermeiben.",
             "ro": "O zi senină de iarnă este perfectă pentru un tur. La Peyrou admirăm vederea înainte de a vizita Catedrala. Château de Flaugergues se arată în liniștea iernii. Drumul prin valea Hérault spre Saint-Guilhem este pitoresc sub soarele jos. Seara în Montpellier oferă o atmosferă caldă în restaurantele iluminate.",
-            "en": "A clear winter day is perfect for a tour. At Peyrou, we enjoy the distant views before visiting the Cathedral. Château de Flaugergues shows its winter tranquility. The drive through the Hérault valley to Saint-Guilhem is picturesque with the low sun. The evening in Montpellier offers a warm atmosphere in the city's illuminated restaurants."
+            "en": "A clear winter day is perfect for a tour. At Peyrou, we enjoy the distant views before visiting the Cathedral. Château de Flaugergues shows its winter tranquility. The drive through the Hérault valley to Saint-Guilhem is picturesque with the low sun. The evening in Montpellier offers a warm atmosphere in the city's illuminated restaurants.",
+            "fr": "Une journée d’hiver claire est parfaite pour une visite. Au Peyrou, nous profitons des vues lointaines avant de visiter la cathédrale. Le Château de Flaugergues révèle sa tranquillité hivernale. La route à travers la vallée de l’Hérault jusqu’à Saint-Guilhem est pittoresque avec le soleil bas. La soirée à Montpellier offre une atmosphère chaleureuse dans les restaurants illuminés de la ville."
           },
           "stops": [
             {
@@ -1689,7 +1835,8 @@
                 "de": "Das Auto heizt sich in der Sonne schnell auf, parken Sie schattig.",
                 "hu": "Az autó gyorsan felmelegszik a napon, parkoljon árnyékba.",
                 "ro": "Mașina se încălzește repede la soare, parcați la umbră.",
-                "en": "The car heats up quickly in the sun, park in the shade."
+                "en": "The car heats up quickly in the sun, park in the shade.",
+                "fr": "La voiture chauffe rapidement au soleil, garez-vous à l’ombre."
               }
             },
             {
@@ -1698,7 +1845,8 @@
                 "de": "Achten Sie auf Glätte in den engen, schattigen Gassen.",
                 "hu": "Ügyeljen a csúszós szakaszokra a szűk, árnyékos utcákban.",
                 "ro": "Atenție la porțiunile alunecoase pe străzile înguste.",
-                "en": "Watch out for slippery spots in narrow, shaded alleys."
+                "en": "Watch out for slippery spots in narrow, shaded alleys.",
+                "fr": "Attention aux zones glissantes dans les ruelles étroites et ombragées."
               }
             },
             {
@@ -1707,7 +1855,8 @@
                 "de": "Prüfen Sie die Winteröffnungszeiten für die Parkbesichtigung.",
                 "hu": "Ellenőrizze a téli nyitvatartást a kertlátogatáshoz.",
                 "ro": "Verificați programul de iarnă pentru vizitarea grădinilor.",
-                "en": "Check winter opening hours for the garden tour."
+                "en": "Check winter opening hours for the garden tour.",
+                "fr": "Vérifiez les horaires d’hiver pour la visite du jardin."
               }
             },
             {
@@ -1716,7 +1865,8 @@
                 "de": "Tragen Sie festes Schuhwerk für die kalten Pflastersteine.",
                 "hu": "Viseljen stabil lábbelit a hideg macskaköveken.",
                 "ro": "Purtați încălțăminte solidă pentru pavajul rece.",
-                "en": "Wear solid footwear for the cold cobblestones."
+                "en": "Wear solid footwear for the cold cobblestones.",
+                "fr": "Portez des chaussures solides pour les pavés froids."
               }
             },
             {
@@ -1725,7 +1875,8 @@
                 "de": "Meiden Sie Parkplätze direkt an zugigen Ecken.",
                 "hu": "Kerülje a huzatos sarkoknál lévő parkolóhelyeket.",
                 "ro": "Evitați locurile de parcare din colțurile expuse vântului.",
-                "en": "Avoid parking spots at windy corners."
+                "en": "Avoid parking spots at windy corners.",
+                "fr": "Évitez les places de parking aux coins exposés au vent."
               }
             }
           ],
@@ -1754,6 +1905,12 @@
               "Mountain roads can be icy in the morning.",
               "Use the air conditioning against foggy windows.",
               "Sun protection is important even in winter on long drives."
+            ],
+            "fr": [
+              "N’oubliez pas l’antigel dans le liquide lave-glace.",
+              "Les routes de montagne peuvent être verglacées le matin.",
+              "Utilisez la climatisation contre les vitres embuées.",
+              "La protection solaire est importante même en hiver lors de longs trajets."
             ]
           }
         }
@@ -1772,7 +1929,8 @@
             "de": "Place de la Comédie",
             "hu": "Place de la Comédie",
             "ro": "Place de la Comédie",
-            "en": "Place de la Comédie"
+            "en": "Place de la Comédie",
+            "fr": "Place de la Comédie"
           },
           "coords": [
             3.8794,
@@ -1787,7 +1945,8 @@
             "de": "Knotenpunkt aller Straßenbahnlinien.",
             "hu": "Az összes villamosvonal csomópontja.",
             "ro": "Nod central pentru toate liniile de tramvai.",
-            "en": "Hub for all tram lines."
+            "en": "Hub for all tram lines.",
+            "fr": "Nœud pour toutes les lignes de tram."
           }
         },
         {
@@ -1795,7 +1954,8 @@
             "de": "Musée Fabre",
             "hu": "Musée Fabre",
             "ro": "Muzeul Fabre",
-            "en": "Fabre Museum"
+            "en": "Fabre Museum",
+            "fr": "Musée Fabre"
           },
           "coords": [
             3.8804,
@@ -1810,7 +1970,8 @@
             "de": "Kurzer Fußweg von der Haltestelle Corum.",
             "hu": "Rövid séta a Corum megállótól.",
             "ro": "Scurtă plimbare de la stația Corum.",
-            "en": "Short walk from the Corum stop."
+            "en": "Short walk from the Corum stop.",
+            "fr": "Courte marche depuis l’arrêt Corum."
           }
         },
         {
@@ -1818,7 +1979,8 @@
             "de": "Viertel Antigone",
             "hu": "Antigone negyed",
             "ro": "Cartierul Antigone",
-            "en": "Antigone District"
+            "en": "Antigone District",
+            "fr": "Quartier Antigone"
           },
           "coords": [
             3.8902,
@@ -1833,7 +1995,8 @@
             "de": "Nutzen Sie die Linie 1 (blau mit Schwalben).",
             "hu": "Használja az 1-es vonalat (kék, fecskékkel).",
             "ro": "Folosiți linia 1 (albastră cu rândunele).",
-            "en": "Use line 1 (blue with swallows)."
+            "en": "Use line 1 (blue with swallows).",
+            "fr": "Prenez la ligne 1 (bleue avec des hirondelles)."
           }
         },
         {
@@ -1841,7 +2004,8 @@
             "de": "Odysseum",
             "hu": "Odysseum",
             "ro": "Odysseum",
-            "en": "Odysseum"
+            "en": "Odysseum",
+            "fr": "Odysseum"
           },
           "coords": [
             3.9215,
@@ -1856,7 +2020,8 @@
             "de": "Großes Einkaufs- und Freizeitzentrum.",
             "hu": "Nagy bevásárló- és szabadidőközpont.",
             "ro": "Mare centru de cumpărături și agrement.",
-            "en": "Large shopping and leisure center."
+            "en": "Large shopping and leisure center.",
+            "fr": "Grand centre commercial et de loisirs."
           }
         },
         {
@@ -1864,7 +2029,8 @@
             "de": "Aquarium Mare Nostrum",
             "hu": "Mare Nostrum Akvárium",
             "ro": "Acvariul Mare Nostrum",
-            "en": "Mare Nostrum Aquarium"
+            "en": "Mare Nostrum Aquarium",
+            "fr": "Mare Nostrum Aquarium"
           },
           "coords": [
             3.9235,
@@ -1879,7 +2045,8 @@
             "de": "Unterwasserreise durch die Weltmeere.",
             "hu": "Víz alatti utazás a világ óceánjain keresztül.",
             "ro": "Călătorie subacvatică prin oceanele lumii.",
-            "en": "Underwater journey through the world's oceans."
+            "en": "Underwater journey through the world's oceans.",
+            "fr": "Voyage sous-marin à travers les océans du monde."
           }
         }
       ],
@@ -1887,7 +2054,8 @@
         "de": "Montpellier verfügt über eines der schönsten Straßenbahnnetze der Welt. Starten Sie im Zentrum und besuchen Sie das Musée Fabre. Mit der blauen Linie 1 fahren Sie weiter in das architektonisch einzigartige Antigone-Viertel. Die Fahrt endet am Endpunkt Odysseum, einem modernen Areal für Shopping und Freizeit, wo Sie das Aquarium besuchen können, bevor Sie bequem mit der Tram zurückkehren.",
         "hu": "Montpellier a világ egyik legszebb villamoshálózatával rendelkezik. Kezdjen a központban a Musée Fabre meglátogatásával. A kék 1-es vonallal utazzon tovább az építészetileg egyedülálló Antigone negyedbe. Az út az Odysseum végállomáson ér véget, amely egy modern bevásárló- és szabadidős terület, ahol meglátogathatja az akváriumot, mielőtt kényelmesen visszautazna.",
         "ro": "Montpellier are una dintre cele mai frumoase rețele de tramvai din lume. Începeți în centru cu vizitarea Muzeului Fabre. Cu linia albastră 1, mergeți spre cartierul Antigone, unic din punct de vedere arhitectural. Călătoria se încheie la stația terminus Odysseum, o zonă modernă de cumpărături și agrement, unde puteți vizita acvariul înainte de a reveni confortabil cu tramvaiul.",
-        "en": "Montpellier has one of the world's most beautiful tram networks. Start in the center by visiting the Fabre Museum. Take the blue line 1 to the architecturally unique Antigone district. The trip ends at the Odysseum terminus, a modern shopping and leisure area where you can visit the aquarium before returning comfortably by tram."
+        "en": "Montpellier has one of the world's most beautiful tram networks. Start in the center by visiting the Fabre Museum. Take the blue line 1 to the architecturally unique Antigone district. The trip ends at the Odysseum terminus, a modern shopping and leisure area where you can visit the aquarium before returning comfortably by tram.",
+        "fr": "Montpellier possède l’un des plus beaux réseaux de tram au monde. Commencez au centre en visitant le Musée Fabre. Prenez la ligne 1 bleue jusqu’au quartier architecturalement unique d’Antigone. Le trajet se termine à la station terminus d’Odysseum, un espace moderne de commerces et de loisirs où vous pouvez visiter l’aquarium avant de revenir confortablement en tram."
       },
       "gastro_picks": {
         "de": [
@@ -1987,6 +2155,10 @@
         "en": [
           "Buy a day pass for unlimited travel.",
           "The tram designs were created by Christian Lacroix."
+        ],
+        "fr": [
+          "Achetez un ticket journée pour des trajets illimités.",
+          "Les designs des trams ont été créés par Christian Lacroix."
         ]
       },
       "variants": {
@@ -1995,7 +2167,8 @@
             "de": "Montpellier verfügt über eines der schönsten Straßenbahnnetze der Welt. Starten Sie im Zentrum und besuchen Sie das Musée Fabre. Mit der blauen Linie 1 fahren Sie weiter in das architektonisch einzigartige Antigone-Viertel. Die Fahrt endet am Endpunkt Odysseum, einem modernen Areal für Shopping und Freizeit, wo Sie das Aquarium besuchen können, bevor Sie bequem mit der Tram zurückkehren.",
             "hu": "Montpellier a világ egyik legszebb villamoshálózatával rendelkezik. Kezdjen a központban a Musée Fabre meglátogatásával. A kék 1-es vonallal utazzon tovább az építészetileg egyedülálló Antigone negyedbe. Az út az Odysseum végállomáson ér véget, amely egy modern bevásárló- és szabadidős terület, ahol meglátogathatja az akváriumot, mielőtt kényelmesen visszautazna.",
             "ro": "Montpellier are una dintre cele mai frumoase rețele de tramvai din lume. Începeți în centru cu vizitarea Muzeului Fabre. Cu linia albastră 1, mergeți spre cartierul Antigone, unic din punct de vedere arhitectural. Călătoria se încheie la stația terminus Odysseum, o zonă modernă de cumpărături și agrement, unde puteți vizita acvariul înainte de a reveni confortabil cu tramvaiul.",
-            "en": "Montpellier has one of the world's most beautiful tram networks. Start in the center by visiting the Fabre Museum. Take the blue line 1 to the architecturally unique Antigone district. The trip ends at the Odysseum terminus, a modern shopping and leisure area where you can visit the aquarium before returning comfortably by tram."
+            "en": "Montpellier has one of the world's most beautiful tram networks. Start in the center by visiting the Fabre Museum. Take the blue line 1 to the architecturally unique Antigone district. The trip ends at the Odysseum terminus, a modern shopping and leisure area where you can visit the aquarium before returning comfortably by tram.",
+            "fr": "Montpellier possède l’un des plus beaux réseaux de tram au monde. Commencez au centre en visitant le Musée Fabre. Prenez la ligne 1 bleue jusqu’au quartier architecturalement unique d’Antigone. Le trajet se termine à la station terminus d’Odysseum, un espace moderne de commerces et de loisirs où vous pouvez visiter l’aquarium avant de revenir confortablement en tram."
           },
           "stops": [
             {
@@ -2003,7 +2176,8 @@
                 "de": "Place de la Comédie",
                 "hu": "Place de la Comédie",
                 "ro": "Place de la Comédie",
-                "en": "Place de la Comédie"
+                "en": "Place de la Comédie",
+                "fr": "Place de la Comédie"
               },
               "tip_5lang": null
             },
@@ -2012,7 +2186,8 @@
                 "de": "Musée Fabre",
                 "hu": "Musée Fabre",
                 "ro": "Muzeul Fabre",
-                "en": "Fabre Museum"
+                "en": "Fabre Museum",
+                "fr": "Musée Fabre"
               },
               "tip_5lang": null
             },
@@ -2021,7 +2196,8 @@
                 "de": "Viertel Antigone",
                 "hu": "Antigone negyed",
                 "ro": "Cartierul Antigone",
-                "en": "Antigone District"
+                "en": "Antigone District",
+                "fr": "Quartier Antigone"
               },
               "tip_5lang": null
             },
@@ -2030,7 +2206,8 @@
                 "de": "Odysseum",
                 "hu": "Odysseum",
                 "ro": "Odysseum",
-                "en": "Odysseum"
+                "en": "Odysseum",
+                "fr": "Odysseum"
               },
               "tip_5lang": null
             },
@@ -2039,7 +2216,8 @@
                 "de": "Aquarium Mare Nostrum",
                 "hu": "Mare Nostrum Akvárium",
                 "ro": "Acvariul Mare Nostrum",
-                "en": "Mare Nostrum Aquarium"
+                "en": "Mare Nostrum Aquarium",
+                "fr": "Mare Nostrum Aquarium"
               },
               "tip_5lang": null
             }
@@ -2142,6 +2320,10 @@
             "en": [
               "Buy a day pass for unlimited travel.",
               "The tram designs were created by Christian Lacroix."
+            ],
+            "fr": [
+              "Achetez un ticket journée pour des trajets illimités.",
+              "Les designs des trams ont été créés par Christian Lacroix."
             ]
           }
         },
@@ -2150,7 +2332,8 @@
             "de": "Mit der Straßenbahn bleiben wir heute mobil und trocken. Von der Comédie geht es zum Fabre-Museum. Danach fahren wir ins moderne Antigone. Den Nachmittag verbringen wir im riesigen Odysseum-Einkaufszentrum, das viele überdachte Bereiche bietet. Das Mare Nostrum Aquarium ist das Highlight für einen Regentag, bevor wir bequem mit der Tram zurück ins Zentrum fahren.",
             "hu": "A villamossal ma is mobilak és szárazak maradunk. A Comédie-ról a Musée Fabre-hoz megyünk. Ezután a modern Antigone negyedbe utazunk. A délutánt az Odysseum bevásárlóközpontban töltjük, ahol sok a fedett rész. A Mare Nostrum akvárium az esős nap fénypontja, mielőtt kényelmesen visszatérnénk a központba.",
             "ro": "Cu tramvaiul rămânem mobili și uscați astăzi. De la Comédie mergem la Muzeul Fabre. Apoi vizităm cartierul modern Antigone. Petrecem după-amiaza în centrul comercial Odysseum, care oferă multe zone acoperite. Acvariul Mare Nostrum este punctul culminant pentru o zi ploioasă.",
-            "en": "With the tram, we stay mobile and dry today. From Comédie, we head to the Fabre Museum. Then we travel to the modern Antigone district. We spend the afternoon in the huge Odysseum shopping center, which offers many covered areas. The Mare Nostrum aquarium is the highlight for a rainy day before returning to the center."
+            "en": "With the tram, we stay mobile and dry today. From Comédie, we head to the Fabre Museum. Then we travel to the modern Antigone district. We spend the afternoon in the huge Odysseum shopping center, which offers many covered areas. The Mare Nostrum aquarium is the highlight for a rainy day before returning to the center.",
+            "fr": "Avec le tram, nous restons mobiles et au sec aujourd’hui. Depuis la Comédie, nous nous dirigeons vers le Musée Fabre. Puis nous prenons le tram pour le moderne quartier d’Antigone. Nous passons l’après-midi au vaste centre commercial Odysseum, qui offre de nombreuses zones couvertes. L’aquarium Mare Nostrum est le point d’orgue d’une journée pluvieuse avant le retour au centre."
           },
           "stops": [
             {
@@ -2159,7 +2342,8 @@
                 "de": "Die Tramstation ist direkt am Platz, nutzen Sie die Wartehäuschen.",
                 "hu": "A villamosmegálló közvetlenül a téren van, használja a várókat.",
                 "ro": "Stația de tramvai este direct în piață, folosiți adăposturile.",
-                "en": "The tram station is right on the square, use the shelters."
+                "en": "The tram station is right on the square, use the shelters.",
+                "fr": "La station de tram est directement sur la place, utilisez les abris."
               }
             },
             {
@@ -2168,7 +2352,8 @@
                 "de": "Nur 5 Minuten Fußweg von der Haltestelle Corum entfernt.",
                 "hu": "Mindössze 5 perc séta a Corum megállótól.",
                 "ro": "La doar 5 minute de mers pe jos de stația Corum.",
-                "en": "Only a 5-minute walk from the Corum stop."
+                "en": "Only a 5-minute walk from the Corum stop.",
+                "fr": "À seulement 5 minutes à pied de l’arrêt Corum."
               }
             },
             {
@@ -2177,7 +2362,8 @@
                 "de": "Linie 1 hält direkt im Herzen des Viertels.",
                 "hu": "Az 1-es vonal közvetlenül a negyed szívében áll meg.",
                 "ro": "Linia 1 oprește direct în inima cartierului.",
-                "en": "Line 1 stops right in the heart of the district."
+                "en": "Line 1 stops right in the heart of the district.",
+                "fr": "La ligne 1 s’arrête en plein cœur du quartier."
               }
             },
             {
@@ -2186,7 +2372,8 @@
                 "de": "Viel Platz zum Bummeln unter Glasdächern.",
                 "hu": "Sok hely a sétához az üvegtetők alatt.",
                 "ro": "Mult spațiu pentru plimbare sub acoperișuri de sticlă.",
-                "en": "Plenty of space for strolling under glass roofs."
+                "en": "Plenty of space for strolling under glass roofs.",
+                "fr": "Beaucoup d’espace pour flâner sous des verrières."
               }
             },
             {
@@ -2195,7 +2382,8 @@
                 "de": "Komplett überdacht, ideal bei jedem Unwetter.",
                 "hu": "Teljesen fedett, ideális bármilyen ítéletidőben.",
                 "ro": "Complet acoperit, ideal pe orice vreme rea.",
-                "en": "Completely covered, ideal for any bad weather."
+                "en": "Completely covered, ideal for any bad weather.",
+                "fr": "Entièrement couvert, idéal par mauvais temps."
               }
             }
           ],
@@ -2223,6 +2411,12 @@
               "Buy a day ticket directly at the machine.",
               "The blue Line 1 runs most frequently.",
               "Use the Park-and-Ride lots at the termini."
+            ],
+            "fr": [
+              "L’appli TAM offre des infos en temps réel sur toutes les lignes.",
+              "Achetez un ticket journée directement au distributeur.",
+              "La ligne 1 bleue circule le plus fréquemment.",
+              "Utilisez les parkings relais aux terminus."
             ]
           }
         },
@@ -2231,7 +2425,8 @@
             "de": "Die beheizten Straßenbahnen sind im Winter ein Segen. Wir erkunden die Comédie und die Kunstschätze im Fabre-Museum. Eine kurze Fahrt bringt uns nach Antigone, das in der Wintersonne strahlt. Den Nachmittag verbringen wir im Odysseum, wo die Weihnachtsdekoration für Stimmung sorgt. Der Besuch im Aquarium rundet den Tag ab, bevor wir in die festlich beleuchtete Innenstadt zurückkehren.",
             "hu": "A fűtött villamosok télen igazi áldást jelentenek. Felfedezzük a Comédie-t és a Musée Fabre kincseit. Egy rövid út Antigonéba repít, ami ragyog a téli napfényben. A délutánt az Odysseumban töltjük, ahol a karácsonyi dekoráció adja meg az alaphangot. Az akváriumlátogatás megkoronázza a napot, mielőtt visszatérnénk a kivilágított belvárosba.",
             "ro": "Tramvaiele încălzite sunt o binecuvântare iarna. Explorăm Comédie și comorile de la Muzeul Fabre. O scurtă călătorie ne duce în Antigone, care strălucește în soarele de iarnă. Petrecem după-amiaza la Odysseum, printre decorațiunile de Crăciun. Vizita la acvariu încheie ziua înainte de a ne întoarce în centrul festiv.",
-            "en": "Heated trams are a blessing in winter. Explore Comédie and the art at Fabre Museum. A short ride takes us to Antigone, glowing in the winter sun. Spend the afternoon at Odysseum, where Christmas decorations set the mood. An aquarium visit rounds off the day before returning to the festively lit city center."
+            "en": "Heated trams are a blessing in winter. Explore Comédie and the art at Fabre Museum. A short ride takes us to Antigone, glowing in the winter sun. Spend the afternoon at Odysseum, where Christmas decorations set the mood. An aquarium visit rounds off the day before returning to the festively lit city center.",
+            "fr": "Les trams chauffés sont une bénédiction en hiver. Explorez la Comédie et les œuvres du Musée Fabre. Un court trajet nous mène à Antigone, qui brille sous le soleil d’hiver. Passez l’après-midi à Odysseum, où les décorations de Noël créent l’ambiance. Une visite de l’aquarium clôt la journée avant le retour au centre-ville illuminé pour les fêtes."
           },
           "stops": [
             {
@@ -2240,7 +2435,8 @@
                 "de": "Genießen Sie die Weihnachtsbeleuchtung direkt an der Haltestelle.",
                 "hu": "Élvezze a karácsonyi kivilágítást közvetlenül a megállóban.",
                 "ro": "Bucurați-vă de luminile de Crăciun direct în stație.",
-                "en": "Enjoy the Christmas lights right at the stop."
+                "en": "Enjoy the Christmas lights right at the stop.",
+                "fr": "Profitez des illuminations de Noël directement à l’arrêt."
               }
             },
             {
@@ -2249,7 +2445,8 @@
                 "de": "Geben Sie Ihre Winterkleidung an der warmen Garderobe ab.",
                 "hu": "Adja le téli ruházatát a meleg ruhatárban.",
                 "ro": "Lăsați hainele groase la garderoba încălzită.",
-                "en": "Leave your winter gear at the warm cloakroom."
+                "en": "Leave your winter gear at the warm cloakroom.",
+                "fr": "Laissez vos affaires d’hiver au vestiaire chauffé."
               }
             },
             {
@@ -2258,7 +2455,8 @@
                 "de": "Die offenen Plätze sind windig, ziehen Sie sich warm an.",
                 "hu": "A nyitott terek szelesek, öltözzön melegen.",
                 "ro": "Piețele deschise sunt vântoase, îmbrăcați-vă bine.",
-                "en": "The open squares are windy, dress warmly."
+                "en": "The open squares are windy, dress warmly.",
+                "fr": "Les places ouvertes sont venteuses, habillez-vous chaudement."
               }
             },
             {
@@ -2267,7 +2465,8 @@
                 "de": "Die Eislaufbahn im Winter ist ein besonderes Erlebnis.",
                 "hu": "A téli jégpálya különleges élmény.",
                 "ro": "Patinuarul de iarnă este o experiență specială.",
-                "en": "The winter ice rink is a special experience."
+                "en": "The winter ice rink is a special experience.",
+                "fr": "La patinoire d’hiver est une expérience particulière."
               }
             },
             {
@@ -2276,7 +2475,8 @@
                 "de": "Ein warmer Ort, perfekt für den späten Nachmittag.",
                 "hu": "Meleg hely, tökéletes a késő délutánra.",
                 "ro": "Un loc cald, perfect pentru după-amiaza târzie.",
-                "en": "A warm place, perfect for late afternoon."
+                "en": "A warm place, perfect for late afternoon.",
+                "fr": "Un lieu chaleureux, parfait pour la fin d’après-midi."
               }
             }
           ],
@@ -2304,6 +2504,12 @@
               "Watch out for shortened winter hours at some sights.",
               "Hot drinks are available at kiosks near the station.",
               "Allow more time for transfers if it snows (rare)."
+            ],
+            "fr": [
+              "Les trams circulent selon l’horaire habituel en hiver.",
+              "Attention aux horaires d’ouverture réduits en hiver pour certains sites.",
+              "Des boissons chaudes sont disponibles aux kiosques près de la station.",
+              "Prévoyez plus de temps pour les correspondances s'il neige (rare)."
             ]
           }
         }

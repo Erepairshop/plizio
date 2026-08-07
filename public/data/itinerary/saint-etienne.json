@@ -31,7 +31,8 @@
             "de": "Bewundern Sie die imposante Fassade der Kathedrale.",
             "hu": "Csodáld meg a katedrális monumentális homlokzatát.",
             "ro": "Admirați fațada impunătoare a catedralei.",
-            "en": "Admire the monumental facade of the cathedral."
+            "en": "Admire the monumental facade of the cathedral.",
+            "fr": "Admirez la façade monumentale de la cathédrale."
           }
         },
         {
@@ -49,7 +50,8 @@
             "de": "Eine ruhige Kirche mit schönen Buntglasfenstern.",
             "hu": "Egy csendes templom szép színes üvegablakokkal.",
             "ro": "O biserică liniștită cu vitralii frumoase.",
-            "en": "A quiet church with beautiful stained glass windows."
+            "en": "A quiet church with beautiful stained glass windows.",
+            "fr": "Une église paisible avec de beaux vitraux."
           }
         },
         {
@@ -67,7 +69,8 @@
             "de": "Entdecken Sie die Geschichte der Bänder und Waffen.",
             "hu": "Fedezd fel a szalagok és fegyverek gyártásának történetét.",
             "ro": "Descoperiți istoria panglicilor și a armelor.",
-            "en": "Discover the history of ribbons and weapons manufacturing."
+            "en": "Discover the history of ribbons and weapons manufacturing.",
+            "fr": "Découvrez l'histoire de la fabrication de rubans et d'armes."
           }
         },
         {
@@ -85,7 +88,8 @@
             "de": "Der perfekte Ort für ein typisches Mittagessen.",
             "hu": "A tökéletes hely egy tipikus ebédhez.",
             "ro": "Locul perfect pentru un prânz tipic.",
-            "en": "The perfect spot for a typical local lunch."
+            "en": "The perfect spot for a typical local lunch.",
+            "fr": "L'endroit parfait pour un déjeuner typiquement local."
           }
         },
         {
@@ -103,7 +107,8 @@
             "de": "Ein Symbol für die moderne Erneuerung der Stadt.",
             "hu": "A város modern megújulásának szimbóluma.",
             "ro": "Un simbol al reînnoirii moderne a orașului.",
-            "en": "A symbol of the city's modern industrial renewal."
+            "en": "A symbol of the city's modern industrial renewal.",
+            "fr": "Un symbole du renouveau industriel moderne de la ville."
           }
         }
       ],
@@ -111,7 +116,8 @@
         "de": "Beginnen Sie Ihren Tag im historischen Zentrum von Saint-Étienne bei der beeindruckenden Kathedrale und der Kirche Sainte-Marie. Nach dem Eintauchen in die Industriegeschichte im Musée d'Art et d'Industrie genießen Sie ein Mittagessen auf der belebten Place Jean Jaurès. Den Nachmittag verbringen Sie in der Cité du Design, dem modernen Herzstück der UNESCO-Designstadt.",
         "hu": "Kezdje a napot Saint-Étienne történelmi központjában az impozáns katedrálisnál és a Sainte-Marie templomnál. Miután elmélyedt az ipari történelemben a Művészeti és Ipari Múzeumban, élvezze az ebédet a pezsgő Place Jean Jaurès téren. A délutánt a Cité du Design területén töltse, amely az UNESCO dizájnváros modern központja.",
         "ro": "Începeți ziua în centrul istoric al orașului Saint-Étienne, la catedrala impresionantă și biserica Sainte-Marie. După ce explorați istoria industrială la Muzeul de Artă și Industrie, savurați un prânz în animata Place Jean Jaurès. Petreceți după-amiaza la Cité du Design, inima modernă a acestui oraș al designului UNESCO.",
-        "en": "Start your day in the historic center of Saint-Étienne at the impressive cathedral and Sainte-Marie church. After diving into industrial history at the Museum of Art and Industry, enjoy lunch at the lively Place Jean Jaurès. Spend the afternoon at the Cité du Design, the modern centerpiece of this UNESCO City of Design."
+        "en": "Start your day in the historic center of Saint-Étienne at the impressive cathedral and Sainte-Marie church. After diving into industrial history at the Museum of Art and Industry, enjoy lunch at the lively Place Jean Jaurès. Spend the afternoon at the Cité du Design, the modern centerpiece of this UNESCO City of Design.",
+        "fr": "Commencez votre journée dans le centre historique de Saint‑Étienne par l'imposante cathédrale et l'église Sainte‑Marie. Après vous être plongé dans l'histoire industrielle au Musée d'Art et d'Industrie, profitez d'un déjeuner sur la vivante Place Jean Jaurès. Passez l'après‑midi à la Cité du Design, pièce maîtresse moderne de cette Ville créative UNESCO."
       },
       "gastro_picks": {
         "de": [
@@ -231,6 +237,11 @@
           "The city is hilly, so wear comfortable walking shoes.",
           "Use the 'Saint-Étienne Design' app for guided thematic tours.",
           "Many shops in the center are closed on Sundays."
+        ],
+        "fr": [
+          "La ville est vallonnée, portez donc des chaussures de marche confortables.",
+          "Utilisez l'application « Saint‑Étienne Design » pour des visites thématiques guidées.",
+          "De nombreuses boutiques du centre sont fermées le dimanche."
         ]
       }
     },
@@ -257,7 +268,8 @@
             "de": "Erkunden Sie die echten Stollen der Mine.",
             "hu": "Fedezze fel a bánya valódi vágatait.",
             "ro": "Explorați galeriile reale ale minei.",
-            "en": "Explore the real mine shafts underground."
+            "en": "Explore the real mine shafts underground.",
+            "fr": "Explorez les véritables puits de mine souterrains."
           }
         },
         {
@@ -275,7 +287,8 @@
             "de": "Kurze Fahrt durch das Stadtzentrum.",
             "hu": "Rövid tekerés a városközponton keresztül.",
             "ro": "O scurtă plimbare prin centrul orașului.",
-            "en": "Short ride through the city center."
+            "en": "Short ride through the city center.",
+            "fr": "Courte balade à travers le centre-ville."
           }
         },
         {
@@ -293,7 +306,8 @@
             "de": "Ideal für ein Picknick oder eine entspannte Pause.",
             "hu": "Ideális egy piknikhez vagy egy pihentető szünethez.",
             "ro": "Ideal pentru un picnic sau o pauză relaxantă.",
-            "en": "Ideal for a picnic or a relaxing break."
+            "en": "Ideal for a picnic or a relaxing break.",
+            "fr": "Idéal pour un pique‑nique ou une pause détente."
           }
         },
         {
@@ -311,7 +325,8 @@
             "de": "Besuchen Sie die Ausstellungen im 'Platine'.",
             "hu": "Nézze meg a kiállításokat a 'Platine'-ban.",
             "ro": "Vizitați expozițiile din 'Platine'.",
-            "en": "Visit the exhibitions inside the 'Platine'."
+            "en": "Visit the exhibitions inside the 'Platine'.",
+            "fr": "Visitez les expositions à l'intérieur du « Platine »."
           }
         },
         {
@@ -329,7 +344,8 @@
             "de": "Eine der größten Sammlungen in Frankreich.",
             "hu": "Franciaország egyik legnagyobb gyűjteménye.",
             "ro": "Una dintre cele mai mari colecții din Franța.",
-            "en": "One of the largest modern art collections in France."
+            "en": "One of the largest modern art collections in France.",
+            "fr": "Une des plus grandes collections d'art moderne en France."
           }
         }
       ],
@@ -337,7 +353,8 @@
         "de": "Erfahren Sie mehr über das Erbe der Bergleute im Musée de la Mine, bevor Sie südwärts zum Parc de l'Europe radeln. Genießen Sie die grünen Wege und fahren Sie dann nach Norden, um die moderne Seite von Saint-Étienne in der Cité du Design und im MAMC zu entdecken. Diese Route verbindet industrielle Vergangenheit mit kreativer Zukunft.",
         "hu": "Ismerje meg a bányászok örökségét a Bányászati Múzeumban, mielőtt dél felé tekerne az Európa Parkba. Élvezze a zöld utakat, majd irány észak, hogy felfedezze Saint-Étienne modern oldalát a Cité du Design és a MAMC területén. Ez az útvonal összeköti az ipari múltat a kreatív jövővel.",
         "ro": "Aflați despre moștenirea minerilor la Muzeul Minei, înainte de a pedala spre sud către Parcul Europei. Bucurați-vă de traseele verzi, apoi mergeți spre nord pentru a descoperi latura modernă a orașului Saint-Étienne la Cité du Design și MAMC. Acest traseu îmbină trecutul industrial cu viitorul creativ.",
-        "en": "Learn about the miners' heritage at the Mine Museum before cycling south to Parc de l'Europe. Enjoy the green paths and then head north to discover the modern side of Saint-Étienne at the Cité du Design and the MAMC. This route connects the industrial past with a creative future."
+        "en": "Learn about the miners' heritage at the Mine Museum before cycling south to Parc de l'Europe. Enjoy the green paths and then head north to discover the modern side of Saint-Étienne at the Cité du Design and the MAMC. This route connects the industrial past with a creative future.",
+        "fr": "Apprenez l'héritage des mineurs au Musée de la Mine avant de rouler vers le sud jusqu'au Parc de l'Europe. Profitez des chemins verts puis dirigez‑vous vers le nord pour découvrir le côté moderne de Saint‑Étienne à la Cité du Design et au MAMC. Cet itinéraire relie le passé industriel à un avenir créatif."
       },
       "gastro_picks": {
         "de": [
@@ -441,6 +458,11 @@
           "Use the 'Vélivert' bike-sharing system for easy rental.",
           "Some sections have steep climbs, so be prepared.",
           "The North-South axis is well-equipped with bike lanes."
+        ],
+        "fr": [
+          "Utilisez le système de vélos en libre‑service « Vélivert » pour une location facile.",
+          "Certaines sections comportent des montées raides, soyez préparé.",
+          "L'axe nord‑sud est bien équipé en pistes cyclables."
         ]
       }
     },
@@ -467,7 +489,8 @@
             "de": "Parken Sie direkt auf dem Gelände des Museums.",
             "hu": "Parkoljon közvetlenül a múzeum területén.",
             "ro": "Parcați direct în incinta muzeului.",
-            "en": "Park directly on the museum grounds."
+            "en": "Park directly on the museum grounds.",
+            "fr": "Garez‑vous directement sur l'emprise du musée."
           }
         },
         {
@@ -485,7 +508,8 @@
             "de": "Ein schöner Spaziergang rund um die Fördertürme.",
             "hu": "Egy szép séta az aknatornyok körül.",
             "ro": "O plimbare frumoasă în jurul turnurilor de extracție.",
-            "en": "A lovely walk around the old headframes."
+            "en": "A lovely walk around the old headframes.",
+            "fr": "Une agréable promenade autour des anciens chevalements."
           }
         },
         {
@@ -503,7 +527,8 @@
             "de": "Nutzen Sie das Parkhaus 'Ursules' in der Nähe.",
             "hu": "Használja a közeli 'Ursules' parkolóházat.",
             "ro": "Folosiți parcarea 'Ursules' din apropiere.",
-            "en": "Use the 'Ursules' parking garage nearby."
+            "en": "Use the 'Ursules' parking garage nearby.",
+            "fr": "Utilisez le parking « Ursules » à proximité."
           }
         },
         {
@@ -521,7 +546,8 @@
             "de": "Kurzer Spaziergang vom Museum zur Kathedrale.",
             "hu": "Rövid séta a múzeumtól a katedrálisig.",
             "ro": "O scurtă plimbare de la muzeu la catedrală.",
-            "en": "Short walk from the museum to the cathedral."
+            "en": "Short walk from the museum to the cathedral.",
+            "fr": "Courte marche du musée à la cathédrale."
           }
         },
         {
@@ -539,7 +565,8 @@
             "de": "Parken Sie auf dem 'Carnot'-Parkplatz.",
             "hu": "Parkoljon a 'Carnot' parkolóban.",
             "ro": "Parcați în parcarea 'Carnot'.",
-            "en": "Park in the 'Carnot' parking lot."
+            "en": "Park in the 'Carnot' parking lot.",
+            "fr": "Garez‑vous au parking « Carnot »."
           }
         },
         {
@@ -557,7 +584,8 @@
             "de": "Einfacher Zugang über die Autobahn A72.",
             "hu": "Könnyű megközelítés az A72-es autópályán.",
             "ro": "Acces ușor prin autostrada A72.",
-            "en": "Easy access via the A72 highway."
+            "en": "Easy access via the A72 highway.",
+            "fr": "Accès facile via l'autoroute A72."
           }
         }
       ],
@@ -565,7 +593,8 @@
         "de": "Entdecken Sie die Vielfalt von Saint-Étienne bequem mit dem Auto. Beginnen Sie beim Bergbau-Cluster im Westen und erkunden Sie dann das historische Zentrum zu Fuß. Am Nachmittag fahren Sie nach Norden zur modernen Cité du Design und schließen den Tag mit zeitgenössischer Kunst im MAMC ab. Diese Route nutzt das Auto für den Wechsel zwischen den Stadtteilen.",
         "hu": "Fedezze fel Saint-Étienne sokszínűségét kényelmesen, autóval. Kezdje a bányászati negyedben nyugaton, majd fedezze fel a történelmi központot gyalog. Délután autózzon északra a modern Cité du Designhoz, és zárja a napot kortárs művészettel a MAMC-ban. Ez az útvonal az autót a városrészek közötti váltásra használja.",
         "ro": "Descoperiți diversitatea orașului Saint-Étienne confortabil cu mașina. Începeți la complexul minier din vest, apoi explorați centrul istoric la pas. După-amiazza mergeți spre nord la Cité du Design și încheiați ziua cu artă contemporană la MAMC. Acest traseu folosește mașina pentru a schimba cartierele.",
-        "en": "Discover the diversity of Saint-Étienne comfortably by car. Start at the mining cluster in the west, then explore the historic center on foot. In the afternoon, drive north to the modern Cité du Design and end your day with contemporary art at the MAMC. This route uses the car to move between the city's distinct districts."
+        "en": "Discover the diversity of Saint-Étienne comfortably by car. Start at the mining cluster in the west, then explore the historic center on foot. In the afternoon, drive north to the modern Cité du Design and end your day with contemporary art at the MAMC. This route uses the car to move between the city's distinct districts.",
+        "fr": "Découvrez la diversité de Saint‑Étienne confortablement en voiture. Commencez par le pôle minier à l'ouest, puis explorez le centre historique à pied. L'après‑midi, conduisez vers le nord jusqu'à la moderne Cité du Design et terminez la journée par l'art contemporain au MAMC. Cet itinéraire utilise la voiture pour relier les différents quartiers de la ville."
       },
       "gastro_picks": {
         "de": [
@@ -669,6 +698,11 @@
           "Parking in the center can be difficult, so use parking garages.",
           "Avoid rush hour on the A72 highway.",
           "Many streets in the center are one-way, so use a GPS."
+        ],
+        "fr": [
+          "Le stationnement au centre peut être difficile, utilisez donc les parkings couverts.",
+          "Évitez l'heure de pointe sur l'autoroute A72.",
+          "De nombreuses rues du centre sont à sens unique, utilisez un GPS."
         ]
       }
     },
@@ -695,7 +729,8 @@
             "de": "Ausstieg an der Haltestelle 'Hôtel de Ville'.",
             "hu": "Szálljon le az 'Hôtel de Ville' megállónál.",
             "ro": "Coborâți la stația 'Hôtel de Ville'.",
-            "en": "Get off at the 'Hôtel de Ville' stop."
+            "en": "Get off at the 'Hôtel de Ville' stop.",
+            "fr": "Descendez à l'arrêt « Hôtel de Ville »."
           }
         },
         {
@@ -713,7 +748,8 @@
             "de": "Ein kurzer Spaziergang durch die Einkaufsstraßen.",
             "hu": "Rövid séta a bevásárlóutcákon keresztül.",
             "ro": "O scurtă plimbare pe străzile comerciale.",
-            "en": "A short walk through the shopping streets."
+            "en": "A short walk through the shopping streets.",
+            "fr": "Une courte promenade à travers les rues commerçantes."
           }
         },
         {
@@ -731,7 +767,8 @@
             "de": "Nehmen Sie die Straßenbahn T1 oder T2 bis 'Cité du Design'.",
             "hu": "Szálljon fel a T1-es vagy T2-es villamosra a 'Cité du Design'-ig.",
             "ro": "Luați tramvaiul T1 sau T2 până la 'Cité du Design'.",
-            "en": "Take tram T1 or T2 to the 'Cité du Design' stop."
+            "en": "Take tram T1 or T2 to the 'Cité du Design' stop.",
+            "fr": "Prenez le tram T1 ou T2 jusqu'à l'arrêt « Cité du Design »."
           }
         },
         {
@@ -749,7 +786,8 @@
             "de": "Gleich neben der Cité du Design gelegen.",
             "hu": "Közvetlenül a Cité du Design mellett található.",
             "ro": "Situat chiar lângă Cité du Design.",
-            "en": "Located right next to the Cité du Design."
+            "en": "Located right next to the Cité du Design.",
+            "fr": "Situé juste à côté de la Cité du Design."
           }
         },
         {
@@ -767,7 +805,8 @@
             "de": "Buslinie M4 oder M6 bringt Sie direkt zum Park.",
             "hu": "Az M4-es vagy M6-os busz közvetlenül a parkhoz visz.",
             "ro": "Linia de autobuz M4 sau M6 vă duce direct la parc.",
-            "en": "Bus line M4 or M6 takes you directly to the park."
+            "en": "Bus line M4 or M6 takes you directly to the park.",
+            "fr": "La ligne de bus M4 ou M6 vous emmène directement au parc."
           }
         }
       ],
@@ -775,7 +814,8 @@
         "de": "Nutzen Sie das ausgezeichnete Straßenbahnnetz von Saint-Étienne. Starten Sie im Zentrum, besuchen Sie das Museum d'Art et d'Industrie und fahren Sie dann mit der Tram in das moderne Viertel Manufacture zur Cité du Design. Schließen Sie den Tag mit einer Busfahrt zum weitläufigen Parc de l'Europe ab. Eine effiziente und umweltfreundliche Art, die Stadt zu erkunden.",
         "hu": "Használja ki Saint-Étienne kiváló villamoshálózatát. Kezdjen a központban, látogasson el a Művészeti és Ipari Múzeumba, majd villamosozzon a modern Manufacture negyedbe a Cité du Designhoz. Zárja a napot egy buszos utazással a tágas Európa Parkba. Hatékony és környezetbarát módja a város felfedezésének.",
         "ro": "Profități de rețeaua excelentă de tramvaie din Saint-Étienne. Începeți în centru, vizitați Muzeul de Artă și Industrie, apoi mergeți cu tramvaiul în cartierul modern Manufacture la Cité du Design. Încheiați ziua cu o călătorie cu autobuzul până la vastul Parc de l'Europe. Un mod eficient și ecologic de a explora orașul.",
-        "en": "Take advantage of Saint-Étienne's excellent tram network. Start in the center, visit the Museum of Art and Industry, and then take the tram to the modern Manufacture district for the Cité du Design. Finish the day with a bus ride to the spacious Parc de l'Europe. An efficient and eco-friendly way to explore the city."
+        "en": "Take advantage of Saint-Étienne's excellent tram network. Start in the center, visit the Museum of Art and Industry, and then take the tram to the modern Manufacture district for the Cité du Design. Finish the day with a bus ride to the spacious Parc de l'Europe. An efficient and eco-friendly way to explore the city.",
+        "fr": "Profitez du excellent réseau de tramways de Saint-Étienne. Commencez au centre, visitez le Musée d'Art et d'Industrie, puis prenez le tram jusqu'au quartier moderne de la Manufacture pour la Cité du Design. Terminez la journée par un trajet en bus jusqu'au vaste Parc de l'Europe. Un moyen efficace et écologique pour explorer la ville."
       },
       "gastro_picks": {
         "de": [
@@ -879,6 +919,11 @@
           "Buy a day ticket for the STAS transit network.",
           "Trams run very frequently on the main lines.",
           "Download the Moov'in app for real-time schedule information."
+        ],
+        "fr": [
+          "Achetez un ticket journée pour le réseau de transport STAS.",
+          "Les trams circulent très fréquemment sur les lignes principales.",
+          "Téléchargez l'application Moov'in pour les informations horaires en temps réel."
         ]
       }
     }

@@ -21,7 +21,8 @@
             "de": "Bahnhof Templeuve",
             "hu": "Templeuve Vasútállomás",
             "ro": "Gara Templeuve",
-            "en": "Templeuve Railway Station"
+            "en": "Templeuve Railway Station",
+            "fr": "Gare de Templeuve"
           },
           "coords": [
             3.17513,
@@ -36,7 +37,8 @@
             "de": "Beginnen Sie Ihre Reise an diesem historischen Bahnhofsgebäude, das noch immer als Tor zur Region Pévèle dient und ein idealer Treffpunkt ist.",
             "hu": "Kezdje útját ennél a történelmi vasútállomásnál, amely továbbra is a Pévèle régió kapujaként szolgál, így ideális találkozási pont.",
             "ro": "Începeți-vă călătoria la această gară istorică, care încă servește drept poartă de acces către regiunea Pévèle, fiind un punct de întâlnire ideal.",
-            "en": "Start your journey at this historic station building, which still serves as the gateway to the Pévèle region, making it an ideal meeting point."
+            "en": "Start your journey at this historic station building, which still serves as the gateway to the Pévèle region, making it an ideal meeting point.",
+            "fr": "Commencez votre voyage à cette gare historique, qui sert toujours de porte d’entrée vers la région de la Pévèle, en faisant un point de rendez‑vous idéal."
           }
         },
         {
@@ -44,7 +46,8 @@
             "de": "Au Petit Théâtre",
             "hu": "Au Petit Théâtre",
             "ro": "Au Petit Théâtre",
-            "en": "Au Petit Théâtre"
+            "en": "Au Petit Théâtre",
+            "fr": "Au Petit Théâtre"
           },
           "coords": [
             3.173432,
@@ -59,7 +62,8 @@
             "de": "Genießen Sie die intime Atmosphäre dieses lokalen Kulturzentrums und prüfen Sie vorab den Spielplan, um eine einzigartige Aufführung zu erleben.",
             "hu": "Élvezze a helyi kulturális központ meghitt hangulatát, és előzetesen ellenőrizze a műsort, hogy egyedi amatőr vagy profi előadást láthasson.",
             "ro": "Bucurați-vă de atmosfera intimă a acestui centru cultural local, verificând programul în avans pentru a surprinde o reprezentație unică.",
-            "en": "Enjoy the intimate atmosphere of this local cultural hub by checking their schedule in advance to catch a unique amateur or professional performance."
+            "en": "Enjoy the intimate atmosphere of this local cultural hub by checking their schedule in advance to catch a unique amateur or professional performance.",
+            "fr": "Profitez de l’atmosphère intime de ce lieu culturel local en consultant leur programmation à l’avance pour assister à une représentation amateur ou professionnelle unique."
           }
         },
         {
@@ -67,7 +71,8 @@
             "de": "Wandbild der Mühlenberufe",
             "hu": "Malomipari Szakmák Freskója",
             "ro": "Fresca Profesiilor de Morărit",
-            "en": "Fresque \"Les Métiers autour du Moulin\""
+            "en": "Fresque \"Les Métiers autour du Moulin\"",
+            "fr": "Fresque « Les Métiers autour du Moulin »"
           },
           "coords": [
             3.169293,
@@ -82,7 +87,8 @@
             "de": "Bewundern Sie dieses lebhafte Wandbild von Przygodzsky über traditionelle Mühlenberufe und kommen Sie an einem sonnigen Tag für die besten Fotos.",
             "hu": "Csodálja meg Przygodzsky hagyományos malomipari szakmákat ábrázoló élénk freskóját, és napos időben jöjjön, hogy a legjobb fotókat készíthesse.",
             "ro": "Admirați această frescă vibrantă de Przygodzsky cu profesii tradiționale de morărit și vizitați-o într-o zi însorită pentru cele mai bune fotografii.",
-            "en": "Admire this vibrant mural by Przygodzsky depicting traditional mill professions, and try to visit on a sunny day for the best photos of the details."
+            "en": "Admire this vibrant mural by Przygodzsky depicting traditional mill professions, and try to visit on a sunny day for the best photos of the details.",
+            "fr": "Admirez cette fresque vibrante de Przygodzsky représentant les métiers traditionnels du moulin, et essayez de visiter par une journée ensoleillée pour de meilleures photos des détails."
           }
         },
         {
@@ -90,7 +96,8 @@
             "de": "Kirche Saint-Martin",
             "hu": "Saint-Martin Templom",
             "ro": "Biserica Saint-Martin",
-            "en": "Saint-Martin Church"
+            "en": "Saint-Martin Church",
+            "fr": "Église Saint-Martin"
           },
           "coords": [
             3.169401,
@@ -105,7 +112,8 @@
             "de": "Betreten Sie diese reizvolle Kirche, um die Buntglasfenster zu bewundern, und verhalten Sie sich beim Erkunden des Kirchenschiffs stets ruhig.",
             "hu": "Lépjen be ebbe a bájos templomba, hogy megcsodálja az ólomüveg ablakokat, és a hajó, valamint az oltár felfedezése közben őrizze meg a csendet.",
             "ro": "Pășiți în această biserică fermecătoare pentru vitraliile sale și păstrați o atitudine liniștită în timp ce explorați naosul și altarul.",
-            "en": "Step inside this charming church to appreciate its stained glass windows, and maintain a quiet, respectful tone while exploring the nave and altar."
+            "en": "Step inside this charming church to appreciate its stained glass windows, and maintain a quiet, respectful tone while exploring the nave and altar.",
+            "fr": "Pénétrez dans cette charmante église pour apprécier ses vitraux, et gardez un ton calme et respectueux en explorant la nef et l’autel."
           }
         },
         {
@@ -113,7 +121,8 @@
             "de": "Schloss Baratte",
             "hu": "Baratte Kastély",
             "ro": "Castelul Baratte",
-            "en": "Chateau Baratte"
+            "en": "Chateau Baratte",
+            "fr": "Château Baratte"
           },
           "coords": [
             3.174146,
@@ -128,7 +137,8 @@
             "de": "Nehmen Sie sich Zeit für einen Spaziergang um das wunderschöne Schloss, um die Architektur zu bewundern, wobei private Bereiche gesperrt sein können.",
             "hu": "Sétáljon egyet ennek a gyönyörű kastélynak a külseje körül, hogy megcsodálja építészetét, de vegye figyelembe a magánterületekre vonatkozó korlátozásokat.",
             "ro": "Plimbați-vă în jurul acestui frumos castel pentru a-i aprecia arhitectura, dar rețineți că accesul în zonele private ar putea fi restricționat.",
-            "en": "Take your time strolling around the exterior of this beautiful château to appreciate its architecture, noting that private areas might be restricted."
+            "en": "Take your time strolling around the exterior of this beautiful château to appreciate its architecture, noting that private areas might be restricted.",
+            "fr": "Prenez votre temps pour flâner autour de l’extérieur de ce beau château afin d’apprécier son architecture, en notant que certaines zones privées peuvent être restreintes."
           }
         },
         {
@@ -136,7 +146,8 @@
             "de": "Mühle von Vertain",
             "hu": "Vertain Malom",
             "ro": "Moara din Vertain",
-            "en": "Moulin de Vertain"
+            "en": "Moulin de Vertain",
+            "fr": "Moulin de Vertain"
           },
           "coords": [
             3.177758,
@@ -151,7 +162,8 @@
             "de": "Beenden Sie Ihren Spaziergang an dieser restaurierten Windmühle aus dem 15. Jahrhundert und fragen Sie die Touristeninfo nach Führungen im Inneren.",
             "hu": "Zárja sétáját ennél az ikonikus, 15. századi felújított szélmalomnál, és érdeklődjön a helyi turisztikai irodában a belső idegenvezetések időpontjairól.",
             "ro": "Încheiați plimbarea la această moară de vânt restaurată din secolul al XV-lea și verificați la biroul de turism orele pentru tururile ghidate.",
-            "en": "Conclude your walk at this iconic restored windmill from the 15th century, and check with the local tourist office for interior guided tour timings."
+            "en": "Conclude your walk at this iconic restored windmill from the 15th century, and check with the local tourist office for interior guided tour timings.",
+            "fr": "Concluez votre promenade à ce moulin à vent restauré du XVe siècle, et renseignez‑vous auprès de l’office de tourisme local pour les horaires des visites guidées intérieures."
           }
         }
       ],
@@ -159,7 +171,8 @@
         "de": "Beginnen Sie Ihren Morgen am historischen Bahnhof und tauchen Sie im gemütlichen Petit Théâtre in die lokale Kunstszene ein. Gegen Mittag bewundern Sie das faszinierende Wandbild der alten Müllerberufe, bevor Sie die friedliche Kirche Saint-Martin besuchen. Verbringen Sie Ihren Nachmittag damit, das elegante Chateau Baratte zu erkunden und die architektonische Schönheit zu genießen. Beenden Sie Ihren Tagesausflug mit einem letzten Halt an der ikonischen Mühle von Vertain, ein perfekter Ort für den Sonnenuntergang.",
         "hu": "Kezdje a reggelt a történelmi vasútállomáson, majd merüljön el a helyi művészeti életben a hangulatos Petit Théâtre-ban. Délidőben álljon meg a régi molnár szakmákat ábrázoló lenyűgöző freskónál, mielőtt meglátogatná a békés Saint-Martin templomot. Töltse a délutánt az elegáns Chateau Baratte körüli sétával, átadva magát a Pévèle régió építészeti szépségének. Zárja a napot az ikonikus Moulin de Vertain-nél, amely tökéletes helyszín a lenyugvó nap megtekintéséhez.",
         "ro": "Începeți dimineața la gara istorică, apoi cufundați-vă în scena artistică locală la cochetul Petit Théâtre. La prânz, opriți-vă la fresca fascinantă a vechilor profesii de morar înainte de a vizita liniștita Biserică Saint-Martin. Petreceți după-amiaza plimbându-vă în jurul elegantului Chateau Baratte, bucurându-vă de frumusețea arhitecturală a regiunii Pévèle. Încheiați-vă excursia cu o ultimă oprire la emblematica Moulin de Vertain, un loc perfect pentru a privi apusul.",
-        "en": "Start your morning right at the historical railway station, proceeding to immerse yourself in the local arts scene at the cozy Petit Théâtre. As midday approaches, stop by the fascinating mural depicting old milling professions before visiting the peaceful Saint-Martin Church. Spend your afternoon wandering around the elegant Chateau Baratte, soaking in the architectural beauty of the Pévèle region. Conclude your day trip with a final stop at the iconic Moulin de Vertain, a perfect spot to watch the sun begin to set over the rolling landscape."
+        "en": "Start your morning right at the historical railway station, proceeding to immerse yourself in the local arts scene at the cozy Petit Théâtre. As midday approaches, stop by the fascinating mural depicting old milling professions before visiting the peaceful Saint-Martin Church. Spend your afternoon wandering around the elegant Chateau Baratte, soaking in the architectural beauty of the Pévèle region. Conclude your day trip with a final stop at the iconic Moulin de Vertain, a perfect spot to watch the sun begin to set over the rolling landscape.",
+        "fr": "Commencez votre matinée à la gare historique, puis immergez‑vous dans la scène artistique locale au convivial Petit Théâtre. Vers midi, arrêtez‑vous devant la fresque fascinante représentant les anciens métiers du moulin avant de visiter la paisible église Saint‑Martin. Passez votre après‑midi à flâner autour de l’élégant Château Baratte pour savourer la beauté architecturale de la région de la Pévèle. Concluez votre excursion par un dernier arrêt au emblématique Moulin de Vertain, un endroit parfait pour regarder le soleil commencer à se coucher sur le paysage vallonné."
       },
       "variants": {
         "rainy": {
@@ -167,7 +180,8 @@
             "de": "Beginnen Sie den nassen Morgen im überdachten Bahnhof und eilen Sie zum Theater. Suchen Sie mittags Schutz in der Kirche. Der Nachmittag ist für die Eleganz des Schlosses reserviert. Abends bietet die Mühle einen mystischen, nebligen Anblick.",
             "hu": "Kezdje esős reggelét a fedett állomáson, majd siessen a színházba. Délben keressen menedéket a templomban a záporok elől. A délutánt a kastély belső eleganciája menti meg. Este a malom misztikus, ködös látványával zárja a sétát.",
             "ro": "Începeți dimineața ploioasă la gara acoperită, îndreptându-vă rapid spre teatru. La prânz, adăpostiți-vă de ploaie în biserică. După-amiaza este rezervată eleganței interioare a castelului. Seara aduce o priveliște mistică a morii.",
-            "en": "Start your wet morning at the covered station, heading quickly to the theatre. Midday, dodge the rain at the church. The afternoon is reserved for the castle's indoor elegance. Evening brings a misty view of the mill before heading back."
+            "en": "Start your wet morning at the covered station, heading quickly to the theatre. Midday, dodge the rain at the church. The afternoon is reserved for the castle's indoor elegance. Evening brings a misty view of the mill before heading back.",
+            "fr": "Commencez votre matinée pluvieuse à la gare couverte, en vous dirigeant rapidement vers le théâtre. À midi, abritez‑vous de la pluie à l’église. L’après‑midi est réservé à l’élégance intérieure du château. La soirée offre une vue brumeuse du moulin avant le retour."
           },
           "stops": [
             {
@@ -175,13 +189,15 @@
                 "de": "Bahnhof Templeuve",
                 "hu": "Templeuve Vasútállomás",
                 "ro": "Gara Templeuve",
-                "en": "Templeuve Railway Station"
+                "en": "Templeuve Railway Station",
+                "fr": "Gare de Templeuve"
               },
               "tip_5lang": {
                 "de": "Bewundern Sie die klassische Architektur des Bahnhofs aus dem gemütlichen Innenraum und bleiben Sie trocken, während Sie den Morgenschauer abwarten.",
                 "hu": "Csodálja meg az állomás klasszikus építészetét a meleg váróteremből, teljesen szárazon maradva, amíg eláll a reggeli zápor a séta megkezdése előtt.",
                 "ro": "Admirați arhitectura clasică a gării din interior, rămânând complet uscat în timp ce așteptați să treacă aversele matinale înainte de plimbare.",
-                "en": "Admire the station's classic architecture from the inside, staying completely dry while waiting out the morning showers before starting your walk."
+                "en": "Admire the station's classic architecture from the inside, staying completely dry while waiting out the morning showers before starting your walk.",
+                "fr": "Admirez l’architecture classique de la gare depuis l’intérieur, en restant complètement au sec pendant que vous attendez que la pluie cesse avant de commencer votre promenade."
               }
             },
             {
@@ -189,13 +205,15 @@
                 "de": "Au Petit Théâtre",
                 "hu": "Au Petit Théâtre",
                 "ro": "Au Petit Théâtre",
-                "en": "Au Petit Théâtre"
+                "en": "Au Petit Théâtre",
+                "fr": "Au Petit Théâtre"
               },
               "tip_5lang": {
                 "de": "Genießen Sie die intimen kulturellen Aufführungen an diesem charmanten Ort, der einen perfekten, trockenen Zufluchtsort bei starkem Regen bietet.",
                 "hu": "Élvezze az intim kulturális előadásokat ebben a hangulatos térben, amely tökéletes fedett menedéket nyújt, amikor kint heves esőzés kezdődik.",
                 "ro": "Bucurați-vă de spectacolele culturale intime în acest spațiu fermecător, oferind un refugiu interior perfect și uscat când începe ploaia torențială.",
-                "en": "Enjoy the intimate cultural performances in this charming venue, offering a perfect, completely dry indoor escape when the heavy rain starts pouring."
+                "en": "Enjoy the intimate cultural performances in this charming venue, offering a perfect, completely dry indoor escape when the heavy rain starts pouring.",
+                "fr": "Profitez des spectacles culturels intimistes dans ce lieu charmant, offrant une excellente échappée intérieure et complètement sèche lorsque la forte pluie commence."
               }
             },
             {
@@ -203,13 +221,15 @@
                 "de": "Wandbild der Mühlenberufe",
                 "hu": "Malomipari Szakmák Freskója",
                 "ro": "Fresca Profesiilor de Morărit",
-                "en": "Fresque \"Les Métiers autour du Moulin\""
+                "en": "Fresque \"Les Métiers autour du Moulin\"",
+                "fr": "Fresque « Les Métiers autour du Moulin »"
               },
               "tip_5lang": {
                 "de": "Betrachten Sie die detaillierten Berufe auf dem bunten Wandbild, aber bringen Sie unbedingt einen stabilen Regenschirm mit, da es hier keinen Schutz gibt.",
                 "hu": "Nézze meg a molnár szakmákat ábrázoló részletes freskót, de feltétlenül hozzon magával egy erős esernyőt, mivel itt egyáltalán nincs fedett menedék.",
                 "ro": "Observați detaliile profesiilor de morărit pe fresca colorată, dar asigurați-vă că aveți o umbrelă robustă, deoarece nu există deloc adăpost aici.",
-                "en": "Take in the detailed milling professions depicted on the colorful mural, but be sure to bring a sturdy umbrella as there is absolutely no cover here."
+                "en": "Take in the detailed milling professions depicted on the colorful mural, but be sure to bring a sturdy umbrella as there is absolutely no cover here.",
+                "fr": "Appréciez les détails des métiers du moulin représentés sur la fresque colorée, mais n’oubliez pas d’apporter un parapluie solide car il n’y a absolument aucune protection ici."
               }
             },
             {
@@ -217,13 +237,15 @@
                 "de": "Kirche Saint-Martin",
                 "hu": "Saint-Martin Templom",
                 "ro": "Biserica Saint-Martin",
-                "en": "Saint-Martin Church"
+                "en": "Saint-Martin Church",
+                "fr": "Église Saint-Martin"
               },
               "tip_5lang": {
                 "de": "Bestaunen Sie die atemberaubenden Buntglasfenster, die das graue Regenlicht streuen und einen friedlichen, trockenen Zufluchtsort vor dem Wetter bieten.",
                 "hu": "Csodálja meg a lenyűgöző ólomüveg ablakokat, amelyek tompítják a szürke esős fényt, békés és teljesen száraz menedéket nyújtva a zord időjárás elől.",
                 "ro": "Minunați-vă de vitraliile uimitoare care difuzează lumina ploioasă cenușie, oferind un sanctuar pașnic și complet uscat departe de vremea urâtă.",
-                "en": "Marvel at the stunning stained glass windows that diffuse the grey rainy daylight, providing a peaceful and dry sanctuary from the nasty weather."
+                "en": "Marvel at the stunning stained glass windows that diffuse the grey rainy daylight, providing a peaceful and dry sanctuary from the nasty weather.",
+                "fr": "Admirez les superbes vitraux qui diffusent la lumière grise de la pluie, offrant un sanctuaire paisible et sec contre le mauvais temps."
               }
             },
             {
@@ -231,13 +253,15 @@
                 "de": "Schloss Baratte",
                 "hu": "Baratte Kastély",
                 "ro": "Castelul Baratte",
-                "en": "Chateau Baratte"
+                "en": "Chateau Baratte",
+                "fr": "Château Baratte"
               },
               "tip_5lang": {
                 "de": "Erkunden Sie die eleganten historischen Korridore des Schlosses, ideal für einen nassen Nachmittag drinnen, ohne Ihre bequemen Schuhe schmutzig zu machen.",
                 "hu": "Fedezze fel a kastély elegáns történelmi folyosóit, ami fantasztikus módja egy nedves délután eltöltésének anélkül, hogy sáros lenne a kényelmes cipője.",
                 "ro": "Explorați coridoarele istorice elegante ale castelului, o modalitate fantastică de a petrece o după-amiază umedă în interior fără a vă murdări pantofii.",
-                "en": "Explore the elegant historical corridors of the castle, a fantastic way to spend a wet afternoon indoors without muddying your comfortable shoes."
+                "en": "Explore the elegant historical corridors of the castle, a fantastic way to spend a wet afternoon indoors without muddying your comfortable shoes.",
+                "fr": "Explorez les élégants corridors historiques du château, une façon idéale de passer un après‑midi humide à l’intérieur sans salir vos chaussures confortables."
               }
             },
             {
@@ -245,13 +269,15 @@
                 "de": "Mühle von Vertain",
                 "hu": "Vertain Malom",
                 "ro": "Moara din Vertain",
-                "en": "Moulin de Vertain"
+                "en": "Moulin de Vertain",
+                "fr": "Moulin de Vertain"
               },
               "tip_5lang": {
                 "de": "Machen Sie ein stimmungsvolles Foto dieser ikonischen Mühle vor dem dramatischen Regenhimmel, aber treten Sie vorsichtig, da die Graswege rutschig werden.",
                 "hu": "Készítsen egy hangulatos képet az ikonikus malomról a drámai esős égbolt előtt, de lépjen nagyon óvatosan, mert a környező füves ösvények csúszósak.",
                 "ro": "Faceți o poză de atmosferă a acestei mori emblematice pe cerul ploios și dramatic, dar pășiți cu atenție deoarece cărările cu iarbă devin foarte alunecoase.",
-                "en": "Snap a moody picture of this iconic windmill against the dramatic rainy sky, but step carefully as the surrounding grassy paths get very slippery."
+                "en": "Snap a moody picture of this iconic windmill against the dramatic rainy sky, but step carefully as the surrounding grassy paths get very slippery.",
+                "fr": "Prenez une photo d’ambiance de ce moulin emblématique sous le ciel orageux, mais marchez prudemment car les chemins herbeux environnants deviennent très glissants."
               }
             }
           ]
@@ -261,7 +287,8 @@
             "de": "Ein frischer Wintermorgen beginnt am Bahnhof, wärmen Sie sich im Theater auf. Mittags bietet die Kirche Schutz nach einem kurzen Spaziergang. Nachmittags leuchtet das Schloss. Beenden Sie die Tour früh an der Mühle vor dem Sonnenuntergang.",
             "hu": "A csípős téli reggel az állomáson indul, melegedjen fel a színházban. Délben egy frissítő séta vezet a templom oltalma alá. A délutáni fények kiemelik a kastélyt. Fejezze be korán a malomnál, mielőtt az 5 órás naplemente lehűti a levegőt.",
             "ro": "O dimineață de iarnă rece începe la gară, încălziți-vă la teatru. Prânzul oferă o plimbare revigorantă spre adăpostul bisericii. Lumina după-amiezii evidențiază castelul. Încheiați devreme la moară, înainte de apusul de la ora 17:00.",
-            "en": "A crisp winter morning starts at the station, warming up at the theatre. Midday offers a brisk walk to the church for shelter. The afternoon glow highlights the castle. Conclude early by the windmill before the 5 PM sunset chills the air."
+            "en": "A crisp winter morning starts at the station, warming up at the theatre. Midday offers a brisk walk to the church for shelter. The afternoon glow highlights the castle. Conclude early by the windmill before the 5 PM sunset chills the air.",
+            "fr": "Une matinée hivernale fraîche commence à la gare, se réchauffe au théâtre. Vers midi, une courte marche vivifiante mène à l’église pour un abri. L’après‑midi voit l’éclat qui met en valeur le château. Concluez tôt près du moulin avant que le coucher du soleil à 17 h n’amène la fraîcheur."
           },
           "stops": [
             {
@@ -269,13 +296,15 @@
                 "de": "Bahnhof Templeuve",
                 "hu": "Templeuve Vasútállomás",
                 "ro": "Gara Templeuve",
-                "en": "Templeuve Railway Station"
+                "en": "Templeuve Railway Station",
+                "fr": "Gare de Templeuve"
               },
               "tip_5lang": {
                 "de": "Beginnen Sie Ihre frostige Reise in der beheizten Bahnhofshalle, bewundern Sie die Baudetails und wärmen Sie Ihre Hände, bevor Sie nach draußen gehen.",
                 "hu": "Kezdje fagyos útját a fűtött állomáscsarnokból, szánjon időt a szerkezeti részletek megcsodálására, miközben felmelegíti a kezét az indulás előtt.",
                 "ro": "Începeți călătoria geroasă în holul încălzit al gării, admirând detaliile structurale în timp ce vă încălziți mâinile înainte de a ieși afară.",
-                "en": "Start your frosty journey inside the heated station hall, taking time to admire its structural details while warming your hands before heading out."
+                "en": "Start your frosty journey inside the heated station hall, taking time to admire its structural details while warming your hands before heading out.",
+                "fr": "Commencez votre voyage glacé dans le hall chauffé de la gare, en prenant le temps d’admirer ses détails structurels tout en vous réchauffant les mains avant de partir."
               }
             },
             {
@@ -283,13 +312,15 @@
                 "de": "Au Petit Théâtre",
                 "hu": "Au Petit Théâtre",
                 "ro": "Au Petit Théâtre",
-                "en": "Au Petit Théâtre"
+                "en": "Au Petit Théâtre",
+                "fr": "Au Petit Théâtre"
               },
               "tip_5lang": {
                 "de": "Tauchen Sie in die lokale Kultur an diesem warm beleuchteten Ort ein, wo Sie Ihren dicken Wintermantel ablegen und die Kunst komfortabel genießen können.",
                 "hu": "Merüljön el a helyi kultúrában ebben a melegen megvilágított térben, ahol leveheti nehéz téli kabátját, és teljes kényelemben élvezheti a művészetet.",
                 "ro": "Cufundați-vă în cultura locală în acest spațiu iluminat cald, permițându-vă să dați jos haina groasă de iarnă și să vă bucurați confortabil de arte.",
-                "en": "Immerse yourself in local culture within this warmly lit venue, allowing you to shed your heavy winter coat and enjoy the arts in complete comfort."
+                "en": "Immerse yourself in local culture within this warmly lit venue, allowing you to shed your heavy winter coat and enjoy the arts in complete comfort.",
+                "fr": "Plongez dans la culture locale dans ce lieu chaleureusement éclairé, vous permettant d’enlever votre manteau d’hiver épais et de profiter des arts en tout confort."
               }
             },
             {
@@ -297,13 +328,15 @@
                 "de": "Wandbild der Mühlenberufe",
                 "hu": "Malomipari Szakmák Freskója",
                 "ro": "Fresca Profesiilor de Morărit",
-                "en": "Fresque \"Les Métiers autour du Moulin\""
+                "en": "Fresque \"Les Métiers autour du Moulin\"",
+                "fr": "Fresque « Les Métiers autour du Moulin »"
               },
               "tip_5lang": {
                 "de": "Schätzen Sie die lebhaften Farben dieses Mühlen-Wandbilds, die sich brillant vom tristen Winterhintergrund abheben; tragen Sie Handschuhe gegen den Wind.",
                 "hu": "Értékelje a molnár freskó élénk színeit, amelyek ragyogóan kitűnnek a zord téli háttérből; viseljen meleg kesztyűt, mert a szél itt nagyon csípős.",
                 "ro": "Apreciați culorile vibrante ale acestei fresce care ies în evidență pe fundalul sumbru de iarnă; purtați mănuși deoarece vântul este tăios aici.",
-                "en": "Appreciate the vibrant colors of this milling mural which stand out brilliantly against the bleak winter backdrop; wear gloves as the wind bites here."
+                "en": "Appreciate the vibrant colors of this milling mural which stand out brilliantly against the bleak winter backdrop; wear gloves as the wind bites here.",
+                "fr": "Appréciez les couleurs vives de cette fresque des métiers du moulin qui ressortent brillamment sur le fond hivernal; portez des gants car le vent y mord."
               }
             },
             {
@@ -311,13 +344,15 @@
                 "de": "Kirche Saint-Martin",
                 "hu": "Saint-Martin Templom",
                 "ro": "Biserica Saint-Martin",
-                "en": "Saint-Martin Church"
+                "en": "Saint-Martin Church",
+                "fr": "Église Saint-Martin"
               },
               "tip_5lang": {
                 "de": "Suchen Sie Zuflucht im ruhigen Kirchenschiff, wo die kalte Winterluft die Akustik verstärkt und eine stille Pause von der eisigen Kälte bietet.",
                 "hu": "Menedéket találhat a templom békés hajójában, ahol a csendes, hideg téli levegő felerősíti az akusztikát, és nyugodt pihenést kínál a fagyos hideg elől.",
                 "ro": "Refugiați-vă în naosul senin al bisericii, unde aerul rece de iarnă îmbunătățește acustica și oferă o pauză liniștită departe de frigul înghețat.",
-                "en": "Take refuge in the serene nave of the church, where the still, cold winter air enhances the acoustics and offers a quiet break from the freezing cold."
+                "en": "Take refuge in the serene nave of the church, where the still, cold winter air enhances the acoustics and offers a quiet break from the freezing cold.",
+                "fr": "Refugiez‑vous dans la nef sereine de l’église, où l’air froid et immobile de l’hiver améliore l’acoustique et offre une pause tranquille du grand froid."
               }
             },
             {
@@ -325,13 +360,15 @@
                 "de": "Schloss Baratte",
                 "hu": "Baratte Kastély",
                 "ro": "Castelul Baratte",
-                "en": "Chateau Baratte"
+                "en": "Chateau Baratte",
+                "fr": "Château Baratte"
               },
               "tip_5lang": {
                 "de": "Durchstreifen Sie die großen Säle des Schlosses, um seine Geschichte zu schätzen – ein herrlicher Rückzugsort drinnen gegen die sinkenden Temperaturen.",
                 "hu": "Barangoljon a kastély nagytermeiben gazdag történelmének megismeréséért, ami egy csodálatos beltéri menedék, amely melegít a délutáni hideg ellen.",
                 "ro": "Plimbați-vă prin sălile mărețe ale castelului pentru istoria sa bogată, un refugiu interior magnific oferind căldură împotriva frisoanelor de după-amiază.",
-                "en": "Roam the grand halls of the chateau to appreciate its rich history, a magnificent indoor retreat providing warmth against the falling afternoon chills."
+                "en": "Roam the grand halls of the chateau to appreciate its rich history, a magnificent indoor retreat providing warmth against the falling afternoon chills.",
+                "fr": "Parcourez les grandes salles du château pour apprécier son histoire riche, un magnifique refuge intérieur qui apporte de la chaleur contre les fraîches heures de l’après‑midi."
               }
             },
             {
@@ -339,13 +376,15 @@
                 "de": "Mühle von Vertain",
                 "hu": "Vertain Malom",
                 "ro": "Moara din Vertain",
-                "en": "Moulin de Vertain"
+                "en": "Moulin de Vertain",
+                "fr": "Moulin de Vertain"
               },
               "tip_5lang": {
                 "de": "Erfassen Sie die schöne Silhouette der Mühle vor 17 Uhr; packen Sie sich warm ein, da die offenen Felder keinen Schutz vor der strengen Winterdämmerung bieten.",
                 "hu": "Kapja le a malom gyönyörű sziluettjét délután 5 előtt; öltözzön fel nagyon melegen, mivel a nyitott mezők nem nyújtanak védelmet a kemény téli alkonyatban.",
                 "ro": "Prindeți silueta superbă a morii înainte de ora 17; înfofoliți-vă bine, deoarece câmpurile deschise nu oferă protecție împotriva asprului amurg de iarnă.",
-                "en": "Catch the stark, beautiful silhouette of the windmill before 5 PM; bundle up tightly as the open fields offer no protection from the harsh winter dusk."
+                "en": "Catch the stark, beautiful silhouette of the windmill before 5 PM; bundle up tightly as the open fields offer no protection from the harsh winter dusk.",
+                "fr": "Admirez la silhouette nette et belle du moulin avant 17 h ; emmitouflez‑vous bien car les champs ouverts n’offrent aucune protection contre la tombée du soir hivernale."
               }
             }
           ]
@@ -365,7 +404,8 @@
             "de": "Bahnhof Templeuve",
             "hu": "Templeuve Vasútállomás",
             "ro": "Gara Templeuve",
-            "en": "Templeuve Railway Station"
+            "en": "Templeuve Railway Station",
+            "fr": "Gare de Templeuve"
           },
           "coords": [
             3.17513,
@@ -380,7 +420,8 @@
             "de": "Beginnen Sie Ihre Reise an diesem historischen Bahnhofsgebäude, das noch immer als Tor zur Region Pévèle dient und ein idealer Treffpunkt ist.",
             "hu": "Kezdje útját ennél a történelmi vasútállomásnál, amely továbbra is a Pévèle régió kapujaként szolgál, így ideális találkozási pont.",
             "ro": "Începeți-vă călătoria la această gară istorică, care încă servește drept poartă de acces către regiunea Pévèle, fiind un punct de întâlnire ideal.",
-            "en": "Start your journey at this historic station building, which still serves as the gateway to the Pévèle region, making it an ideal meeting point."
+            "en": "Start your journey at this historic station building, which still serves as the gateway to the Pévèle region, making it an ideal meeting point.",
+            "fr": "Commencez votre voyage à cette gare historique, qui sert toujours de porte d’entrée vers la région de la Pévèle, en faisant un point de rendez‑vous idéal."
           }
         },
         {
@@ -388,7 +429,8 @@
             "de": "Wandbild der Mühlenberufe",
             "hu": "Malomipari Szakmák Freskója",
             "ro": "Fresca Profesiilor de Morărit",
-            "en": "Fresque \"Les Métiers autour du Moulin\""
+            "en": "Fresque \"Les Métiers autour du Moulin\"",
+            "fr": "Fresque « Les Métiers autour du Moulin »"
           },
           "coords": [
             3.169293,
@@ -403,7 +445,8 @@
             "de": "Bewundern Sie dieses lebhafte Wandbild von Przygodzsky über traditionelle Mühlenberufe und kommen Sie an einem sonnigen Tag für die besten Fotos.",
             "hu": "Csodálja meg Przygodzsky hagyományos malomipari szakmákat ábrázoló élénk freskóját, és napos időben jöjjön, hogy a legjobb fotókat készíthesse.",
             "ro": "Admirați această frescă vibrantă de Przygodzsky cu profesii tradiționale de morărit și vizitați-o într-o zi însorită pentru cele mai bune fotografii.",
-            "en": "Admire this vibrant mural by Przygodzsky depicting traditional mill professions, and try to visit on a sunny day for the best photos of the details."
+            "en": "Admire this vibrant mural by Przygodzsky depicting traditional mill professions, and try to visit on a sunny day for the best photos of the details.",
+            "fr": "Admirez cette fresque vibrante de Przygodzsky représentant les métiers traditionnels du moulin, et essayez de visiter par une journée ensoleillée pour de meilleures photos des détails."
           }
         },
         {
@@ -411,7 +454,8 @@
             "de": "Mühle von Vertain",
             "hu": "Vertain Malom",
             "ro": "Moara din Vertain",
-            "en": "Moulin de Vertain"
+            "en": "Moulin de Vertain",
+            "fr": "Moulin de Vertain"
           },
           "coords": [
             3.177758,
@@ -426,7 +470,8 @@
             "de": "Beenden Sie Ihren Spaziergang an dieser restaurierten Windmühle aus dem 15. Jahrhundert und fragen Sie die Touristeninfo nach Führungen im Inneren.",
             "hu": "Zárja sétáját ennél az ikonikus, 15. századi felújított szélmalomnál, és érdeklődjön a helyi turisztikai irodában a belső idegenvezetések időpontjairól.",
             "ro": "Încheiați plimbarea la această moară de vânt restaurată din secolul al XV-lea și verificați la biroul de turism orele pentru tururile ghidate.",
-            "en": "Conclude your walk at this iconic restored windmill from the 15th century, and check with the local tourist office for interior guided tour timings."
+            "en": "Conclude your walk at this iconic restored windmill from the 15th century, and check with the local tourist office for interior guided tour timings.",
+            "fr": "Concluez votre promenade à ce moulin à vent restauré du XVe siècle, et renseignez‑vous auprès de l’office de tourisme local pour les horaires des visites guidées intérieures."
           }
         },
         {
@@ -434,7 +479,8 @@
             "de": "Kirche Notre-Dame-de-la-Visitation",
             "hu": "Notre-Dame-de-la-Visitation Templom",
             "ro": "Biserica Notre-Dame-de-la-Visitation",
-            "en": "Église Notre-Dame-de-la-Visitation"
+            "en": "Église Notre-Dame-de-la-Visitation",
+            "fr": "Église Notre-Dame-de-la-Visitation"
           },
           "coords": [
             3.214352,
@@ -449,7 +495,8 @@
             "de": "Bewundern Sie die besondere Architektur dieser örtlichen Pfarrei und parken Sie Ihr Fahrrad sicher, bevor Sie für einen ruhigen Moment eintreten.",
             "hu": "Csodálja meg e helyi plébánia különleges építészetét, és biztonságosan parkolja le kerékpárját, mielőtt belépne egy csendes pillanatra.",
             "ro": "Admirați arhitectura religioasă distinctă a acestei parohii locale și parcați-vă bicicleta în siguranță înainte de a intra pentru un moment de liniște.",
-            "en": "Marvel at the distinct religious architecture of this local parish, and park your bike securely at the nearby racks before stepping in for a quiet moment."
+            "en": "Marvel at the distinct religious architecture of this local parish, and park your bike securely at the nearby racks before stepping in for a quiet moment.",
+            "fr": "Admirez l’architecture religieuse distincte de cette paroisse locale, et garez votre vélo en toute sécurité aux arceaux à proximité avant d’entrer pour un moment de recueillement."
           }
         },
         {
@@ -457,7 +504,8 @@
             "de": "Kirche Saint-Nicolas",
             "hu": "Saint-Nicolas Templom",
             "ro": "Biserica Saint-Nicolas",
-            "en": "Église Saint-Nicolas"
+            "en": "Église Saint-Nicolas",
+            "fr": "Église Saint-Nicolas"
           },
           "coords": [
             3.172103,
@@ -472,7 +520,8 @@
             "de": "Erkunden Sie diese friedliche ländliche Kirche, in der oft weniger los ist, und nutzen Sie sie als perfekten kurzen Halt auf Ihrer Radtour.",
             "hu": "Fedezze fel ezt a békés vidéki templomot, ahol ritkán van tömeg, így tökéletes egy rövid pihenőre a vidéki kerékpáros túra során.",
             "ro": "Explorați această biserică rurală liniștită, unde de obicei nu este aglomerat, fiind un loc perfect pentru o scurtă pauză în timpul traseului cu bicicleta.",
-            "en": "Explore this peaceful rural church, which often has fewer crowds, making it a perfect quick stop to rest your legs during your countryside cycling route."
+            "en": "Explore this peaceful rural church, which often has fewer crowds, making it a perfect quick stop to rest your legs during your countryside cycling route.",
+            "fr": "Explorez cette paisible église rurale, qui accueille souvent moins de monde, en faisant une halte idéale pour reposer vos jambes lors de votre itinéraire à vélo à la campagne."
           }
         },
         {
@@ -480,7 +529,8 @@
             "de": "Schloss Rupilly",
             "hu": "Rupilly Kastély",
             "ro": "Castelul Rupilly",
-            "en": "Château de Rupilly"
+            "en": "Château de Rupilly",
+            "fr": "Château de Rupilly"
           },
           "coords": [
             3.147819,
@@ -495,7 +545,8 @@
             "de": "Nähern Sie sich diesem majestätischen Schloss über malerische Landstraßen, und machen Sie Ihre besten Fotos von den öffentlichen Wegen aus.",
             "hu": "A festői vidéki utakon közelítse meg ezt a fenséges kastélyt, de ne feledje, hogy magánbirtok, így a legjobb fotókat a közutakról készítheti.",
             "ro": "Apropiați-vă de acest castel maiestuos pe drumurile pitorești, reținând că este domeniu privat, deci cele mai bune fotografii se fac de pe drumul public.",
-            "en": "Approach this majestic castle via the scenic country roads, keeping in mind that it is a private domain, so the best photos are taken from the public paths."
+            "en": "Approach this majestic castle via the scenic country roads, keeping in mind that it is a private domain, so the best photos are taken from the public paths.",
+            "fr": "Approchez ce château majestueux par les routes de campagne pittoresques, en gardant à l’esprit qu’il s’agit d’un domaine privé, les meilleures photos se prennent depuis les voies publiques."
           }
         }
       ],
@@ -503,7 +554,8 @@
         "de": "Starten Sie Ihre Radtour am Bahnhof und sehen Sie sich das lebhafte Wandbild der Müllerei an. Bis zum Mittag radeln Sie zur historischen Mühle von Vertain und spüren das landwirtschaftliche Erbe der Gegend. Fahren Sie am Nachmittag über malerische Routen zu den Kirchen Notre-Dame und Saint-Nicolas, die ländlichen Charme versprühen. Lassen Sie Ihren aktiven Tag am imposanten Château de Rupilly ausklingen und genießen Sie die ruhigen Landstraßen am frühen Abend.",
         "hu": "Indítsa kerékpártúráját az állomásról, és nézze meg a lenyűgöző malomipari freskót, a helyi történelem színes mementóját. Délre tekerjen el az ikonikus Moulin de Vertain-hez, ahol megérezheti a környék mezőgazdasági örökségét. Délután festői utakon kerekezve látogassa meg a Notre-Dame és a Saint-Nicolas templomokat. Zárja ezt az aktív napot az impozáns Château de Rupilly-nél, élvezve a csendes vidéki utakat a közeledő este nyugalmában.",
         "ro": "Începeți turul cu bicicleta de la gară și îndreptați-vă spre fresca morăritului, o dovadă colorată a istoriei locale. La prânz, pedalați spre emblematica Moulin de Vertain, simțind patrimoniul agricol. După-amiaza, mergeți pe rute pitorești pentru a vizita bisericile Notre-Dame și Saint-Nicolas, fiecare oferind un farmec rural distinct. Încheiați ziua activă la impunătorul Château de Rupilly, bucurându-vă de drumurile de țară liniștite în apropierea serii.",
-        "en": "Kick off your cycling tour at the station and quickly head to see the vibrant milling mural, a colorful testament to local history. By midday, cycle to the iconic Moulin de Vertain, getting a true sense of the area's agricultural heritage. In the afternoon, ride through the scenic routes to visit both Notre-Dame and Saint-Nicolas churches, each offering distinct rural charm. Wrap up your active day at the imposing Château de Rupilly, enjoying the quiet countryside roads as evening softly approaches."
+        "en": "Kick off your cycling tour at the station and quickly head to see the vibrant milling mural, a colorful testament to local history. By midday, cycle to the iconic Moulin de Vertain, getting a true sense of the area's agricultural heritage. In the afternoon, ride through the scenic routes to visit both Notre-Dame and Saint-Nicolas churches, each offering distinct rural charm. Wrap up your active day at the imposing Château de Rupilly, enjoying the quiet countryside roads as evening softly approaches.",
+        "fr": "Commencez votre circuit à vélo à la gare et dirigez‑vous rapidement vers la fresque colorée, témoignage vivant de l’histoire locale. À midi, pédalez jusqu’à l’emblématique Moulin de Vertain pour ressentir le patrimoine agricole de la région. L’après‑midi, empruntez les routes panoramiques pour visiter les églises Notre‑Dame et Saint‑Nicolas, chacune offrant un charme rural distinct. Terminez votre journée active au imposant Château de Rupilly, en profitant des tranquilles chemins de campagne au crépuscule."
       },
       "variants": {
         "rainy": {
@@ -511,7 +563,8 @@
             "de": "Ziehen Sie Regenkleidung für die morgendliche Fahrt zum Wandbild an. Mittags erfordern Schauer Vorsicht auf dem Weg zur Mühle und Kirche. Der nasse Nachmittag verlangt Achtsamkeit auf rutschigen Straßen. Beenden Sie die Tour am Schloss.",
             "hu": "Húzzon esőkabátot a reggeli tekeréshez az állomástól a freskóig. A déli záporok miatt óvatosan pedálozzon a malomhoz és a templomhoz. A nedves délután figyelmet kér a csúszós utakon. Zárja a napot a kastélynál, ahogy az esti eső rákezdi.",
             "ro": "Echipați-vă de ploaie pentru cursa matinală de la gară la frescă. Aversele de prânz necesită prudență spre moară și biserică. După-amiaza umedă cere atenție pe drumurile alunecoase. Încheiați la castel, pe măsură ce ploaia de seară se instalează.",
-            "en": "Equip your rain gear for a morning ride from the station to the mural. Midday showers mean careful cycling to the mill and church. The wet afternoon demands caution on slippery roads. End at the castle as the evening rain settles in."
+            "en": "Equip your rain gear for a morning ride from the station to the mural. Midday showers mean careful cycling to the mill and church. The wet afternoon demands caution on slippery roads. End at the castle as the evening rain settles in.",
+            "fr": "Prévoyez votre équipement de pluie pour une sortie matinale de la gare à la fresque. Des averses en milieu de journée exigent prudence pour rejoindre le moulin et l’église. L’après‑midi humide nécessite vigilance sur les routes glissantes. Terminez au château alors que la pluie du soir s’installe."
           },
           "stops": [
             {
@@ -519,13 +572,15 @@
                 "de": "Bahnhof Templeuve",
                 "hu": "Templeuve Vasútállomás",
                 "ro": "Gara Templeuve",
-                "en": "Templeuve Railway Station"
+                "en": "Templeuve Railway Station",
+                "fr": "Gare de Templeuve"
               },
               "tip_5lang": {
                 "de": "Nutzen Sie das großzügige Vordach des Bahnhofs, um wasserdichte Taschen zu packen und die Regenjacke zu schließen, bevor Ihre nasse Radtour beginnt.",
                 "hu": "Használja ki az állomás széles előtetőjét a vízálló táskák biztonságos bepakolására és az esőkabát összehúzására a nedves kerékpártúra megkezdése előtt.",
                 "ro": "Folosiți copertina generoasă a gării pentru a vă împacheta pungile impermeabile și a închide pelerina de ploaie înainte de a începe cursa umedă cu bicicleta.",
-                "en": "Use the station's generous overhang to securely pack your waterproof bags and zip up your rain jacket before embarking on your wet cycling journey."
+                "en": "Use the station's generous overhang to securely pack your waterproof bags and zip up your rain jacket before embarking on your wet cycling journey.",
+                "fr": "Utilisez la vaste avancée de la gare pour ranger solidement vos sacs imperméables et fermer votre veste contre la pluie avant d’entamer votre parcours cycliste humide."
               }
             },
             {
@@ -533,13 +588,15 @@
                 "de": "Wandbild der Mühlenberufe",
                 "hu": "Malomipari Szakmák Freskója",
                 "ro": "Fresca Profesiilor de Morărit",
-                "en": "Fresque \"Les Métiers autour du Moulin\""
+                "en": "Fresque \"Les Métiers autour du Moulin\"",
+                "fr": "Fresque \"Les Métiers autour du Moulin\""
               },
               "tip_5lang": {
                 "de": "Halten Sie kurz an, um das lebhafte Mühlen-Wandbild zu bewundern; bremsen Sie sanft bei der Annäherung, da die nassen Pflastersteine tückisch sein können.",
                 "hu": "Álljon meg röviden a molnár életet ábrázoló freskó megcsodálására; fékezzen finoman a közeledéskor, mert a nedves macskakövek nagyon kiszámíthatatlanok.",
                 "ro": "Opriți-vă scurt pentru a admira fresca vibrantă a morăritului; frânați ușor la apropiere, deoarece pietrele cubice umede din apropiere pot fi trădătoare.",
-                "en": "Pause briefly to admire this vibrant mural depicting milling life; brake gently on the approach, as the wet cobblestones nearby can be quite treacherous."
+                "en": "Pause briefly to admire this vibrant mural depicting milling life; brake gently on the approach, as the wet cobblestones nearby can be quite treacherous.",
+                "fr": "Faites une courte pause pour admirer cette fresque vibrante représentant la vie du moulin ; freinez doucement en approchant, car les pavés mouillés à proximité peuvent être très glissants."
               }
             },
             {
@@ -547,13 +604,15 @@
                 "de": "Mühle von Vertain",
                 "hu": "Vertain Malom",
                 "ro": "Moara din Vertain",
-                "en": "Moulin de Vertain"
+                "en": "Moulin de Vertain",
+                "fr": "Moulin de Vertain"
               },
               "tip_5lang": {
                 "de": "Betrachten Sie die imposante Struktur der Mühle durch den Regen; bleiben Sie mit dem Rad auf befestigten Wegen, um nicht im rutschigen Matsch stecken zu bleiben.",
                 "hu": "Nézze meg a klasszikus malom impozáns szerkezetét az esőben; tartsa a kerékpárt a burkolt szakaszokon, hogy elkerülje az elakadást a csúszós, mély sárban.",
                 "ro": "Admiteți structura impunătoare a morii prin ploaie; păstrați bicicleta pe secțiunile pavate pentru a evita să vă împotmoliți în noroiul alunecos din jur.",
-                "en": "Take in the imposing structure of the classic windmill through the rain; keep your bike on the paved sections to avoid getting bogged down in slippery mud."
+                "en": "Take in the imposing structure of the classic windmill through the rain; keep your bike on the paved sections to avoid getting bogged down in slippery mud.",
+                "fr": "Contemplez l'imposante structure du moulin à vent traditionnel sous la pluie ; gardez votre vélo sur les sections pavées pour éviter de vous enliser dans la boue glissante."
               }
             },
             {
@@ -561,13 +620,15 @@
                 "de": "Kirche Notre-Dame-de-la-Visitation",
                 "hu": "Notre-Dame-de-la-Visitation Templom",
                 "ro": "Biserica Notre-Dame-de-la-Visitation",
-                "en": "Église Notre-Dame-de-la-Visitation"
+                "en": "Église Notre-Dame-de-la-Visitation",
+                "fr": "Église Notre-Dame-de-la-Visitation"
               },
               "tip_5lang": {
                 "de": "Treten Sie in diese majestätische Kirche, um sich zu trocknen und religiöse Kunst zu schätzen; decken Sie Ihren Fahrradsattel draußen während des Regens ab.",
                 "hu": "Lépjen be a fenséges templomba száradni, miközben értékeli a vallási művészetet; gondoskodjon arról, hogy a kerékpár nyerge le legyen takarva a záporban.",
                 "ro": "Intrați în această biserică maiestuoasă pentru a vă usca admirând arta religioasă; asigurați-vă că șaua bicicletei este acoperită afară în timpul ploii.",
-                "en": "Step inside this majestic church to dry off while appreciating its religious art; ensure your bike's saddle is covered outside during the downpour."
+                "en": "Step inside this majestic church to dry off while appreciating its religious art; ensure your bike's saddle is covered outside during the downpour.",
+                "fr": "Entrez dans cette église majestueuse pour vous sécher tout en appréciant son art religieux ; veillez à couvrir la selle de votre vélo à l'extérieur pendant l'averse."
               }
             },
             {
@@ -575,13 +636,15 @@
                 "de": "Kirche Saint-Nicolas",
                 "hu": "Saint-Nicolas Templom",
                 "ro": "Biserica Saint-Nicolas",
-                "en": "Église Saint-Nicolas"
+                "en": "Église Saint-Nicolas",
+                "fr": "Église Saint-Nicolas"
               },
               "tip_5lang": {
                 "de": "Entdecken Sie die stille Schönheit dieses Pfarrhauses; ein toller Ort zum Aufwärmen und Putzen der Radbrille, bevor Sie wieder nasse Straßen befahren.",
                 "hu": "Fedezze fel a plébánia belső terének csendes szépségét; kiváló hely felmelegedni és letörölni a kerékpáros szemüveget, mielőtt újra nekivág a nedves útnak.",
                 "ro": "Descoperiți frumusețea liniștită a interiorului parohiei; un loc excelent pentru a vă încălzi și a șterge ochelarii de ciclism înainte de drumurile umede.",
-                "en": "Discover the quiet beauty of this parish interior; it's a great spot to warm up and wipe down your cycling glasses before navigating the wet roads again."
+                "en": "Discover the quiet beauty of this parish interior; it's a great spot to warm up and wipe down your cycling glasses before navigating the wet roads again.",
+                "fr": "Découvrez la beauté tranquille de l'intérieur paroissial ; c'est un excellent endroit pour vous réchauffer et essuyer vos lunettes de vélo avant de reprendre les routes mouillées."
               }
             },
             {
@@ -589,13 +652,15 @@
                 "de": "Schloss Rupilly",
                 "hu": "Rupilly Kastély",
                 "ro": "Castelul Rupilly",
-                "en": "Château de Rupilly"
+                "en": "Château de Rupilly",
+                "fr": "Château de Rupilly"
               },
               "tip_5lang": {
                 "de": "Bestaunen Sie die große Fassade des Schlosses im Regen; beenden Sie Ihre Fahrt vorsichtig, da sich auf den Eingangswegen rutschige nasse Blätter sammeln.",
                 "hu": "Csodálja meg a kastély pompás homlokzatát, amely ragyog a nedves időben; óvatosan fejezze be az utat, mert a birtok bejáratánál csúszós levelek gyűlnek össze.",
                 "ro": "Minunați-vă de marea fațadă a castelului strălucind în ploaie; încheiați cursa cu atenție, deoarece pe cărările domeniului se adună frunze alunecoase de toamnă.",
-                "en": "Marvel at the castle's grand facade shining in the wet conditions; conclude your ride carefully, as the estate's entry paths gather slippery autumn leaves."
+                "en": "Marvel at the castle's grand facade shining in the wet conditions; conclude your ride carefully, as the estate's entry paths gather slippery autumn leaves.",
+                "fr": "Admirez la grande façade du château brillant sous la pluie ; terminez votre trajet avec prudence, car les allées du domaine accumulent des feuilles d'automne glissantes."
               }
             }
           ]
@@ -605,7 +670,8 @@
             "de": "Packen Sie sich warm ein für die frostige Fahrt zum Wandbild. Die Mittagssonne wärmt kurz den Weg zur Mühle und Kirche. Der Nachmittag führt zu einer weiteren Gemeinde. Erreichen Sie das Schloss vor der Kälte und Dunkelheit um 17 Uhr.",
             "hu": "Öltözzön be melegen a fagyos reggeli kerékpározáshoz a freskóhoz. A déli nap rövid időre felmelegíti a malomhoz és templomhoz vezető utat. A csípős délután a másik plébániához vezet. Érjen a kastélyhoz a sötét, 5 órás alkonyat előtt.",
             "ro": "Îmbrăcați-vă gros pentru o cursă matinală geroasă pe lângă frescă. Soarele de prânz încălzește scurt drumul spre moară și biserică. După-amiaza rece duce la altă parohie. Ajungeți la castel înainte de frigul și întunericul de la ora 17:00.",
-            "en": "Bundle up for a frosty morning ride past the station and mural. Midday sun briefly warms the path to the mill and church. The crisp afternoon leads to another parish. Reach the castle before the biting cold and dark of the 5 PM dusk."
+            "en": "Bundle up for a frosty morning ride past the station and mural. Midday sun briefly warms the path to the mill and church. The crisp afternoon leads to another parish. Reach the castle before the biting cold and dark of the 5 PM dusk.",
+            "fr": "Couvrez-vous bien pour une balade matinale glaciale près de la gare et de la fresque. Le soleil de midi réchauffe brièvement le chemin vers le moulin et l'église. L'après‑midi frais mène à une autre paroisse. Atteignez le château avant le froid mordant et l'obscurité du crépuscule à 17h."
           },
           "stops": [
             {
@@ -613,13 +679,15 @@
                 "de": "Bahnhof Templeuve",
                 "hu": "Templeuve Vasútállomás",
                 "ro": "Gara Templeuve",
-                "en": "Templeuve Railway Station"
+                "en": "Templeuve Railway Station",
+                "fr": "Gare de Templeuve"
               },
               "tip_5lang": {
                 "de": "Prüfen Sie den Reifendruck in der frischen Morgenluft; Kälte senkt den Druck, pumpen Sie also vor der frostigen Fahrt gut auf der Station auf.",
                 "hu": "Ellenőrizze a guminyomást a csípős reggeli levegőben az állomás előtt; a hideg csökkenti a nyomást, ezért fújja fel rendesen a fagyos túra megkezdése előtt.",
                 "ro": "Verificați presiunea anvelopelor în aerul rece al dimineții la gară; frigul reduce presiunea, așa că umflați-le corect înainte de a începe plimbarea geroasă.",
-                "en": "Check your tire pressure in the crisp morning air outside the station; cold weather reduces pressure, so inflate them properly before starting your frosty ride."
+                "en": "Check your tire pressure in the crisp morning air outside the station; cold weather reduces pressure, so inflate them properly before starting your frosty ride.",
+                "fr": "Vérifiez la pression de vos pneus dans l'air vif du matin devant la gare ; le froid réduit la pression, gonflez-les correctement avant de commencer votre sortie glaciale."
               }
             },
             {
@@ -627,13 +695,15 @@
                 "de": "Wandbild der Mühlenberufe",
                 "hu": "Malomipari Szakmák Freskója",
                 "ro": "Fresca Profesiilor de Morărit",
-                "en": "Fresque \"Les Métiers autour du Moulin\""
+                "en": "Fresque \"Les Métiers autour du Moulin\"",
+                "fr": "Fresque \"Les Métiers autour du Moulin\""
               },
               "tip_5lang": {
                 "de": "Betrachten Sie das historische Wandbild der lokalen Berufe; behalten Sie Ihre dicken Handschuhe an, da der eisige Winterwind scharf durch diese Straße weht.",
                 "hu": "Tekintse meg a helyi mesterségeket ábrázoló történelmi freskót; tartsa magán a vastag kesztyűt tekerés közben, mert a fagyos téli szél erősen átfúj az utcán.",
                 "ro": "Vedeți fresca istorică a meseriilor locale; păstrați mănușile groase în timp ce mergeți cu bicicleta, deoarece vânturile reci de iarnă trec puternic pe aici.",
-                "en": "View the historical mural depicting local trades; keep your heavy gloves on while cycling here as the brisk winter winds funnel sharply through this street."
+                "en": "View the historical mural depicting local trades; keep your heavy gloves on while cycling here as the brisk winter winds funnel sharply through this street.",
+                "fr": "Admirez la fresque historique représentant les métiers locaux ; gardez vos gants épais pour faire du vélo ici car les vents d'hiver s'engouffrent fortement dans cette rue."
               }
             },
             {
@@ -641,13 +711,15 @@
                 "de": "Mühle von Vertain",
                 "hu": "Vertain Malom",
                 "ro": "Moara din Vertain",
-                "en": "Moulin de Vertain"
+                "en": "Moulin de Vertain",
+                "fr": "Moulin de Vertain"
               },
               "tip_5lang": {
                 "de": "Fotografieren Sie die Mühle vor dem blassen Winterhimmel; auf offenem Gelände gibt es oft Eisflächen, steigen Sie ab, wenn der Weg gefroren und rutschig wirkt.",
                 "hu": "Fényképezze le a malmot a sápadt téli égbolt előtt; a nyílt terepen gyakoriak a jeges foltok, ezért szálljon le, ha az ösvény fagyottnak és veszélyesnek tűnik.",
                 "ro": "Fotografiați moara pe cerul palid de iarnă; terenul deschis înseamnă petice de gheață frecvente, deci coborâți dacă poteca pare înghețată și foarte alunecoasă.",
-                "en": "Photograph the windmill against the pale winter sky; the open terrain means icy patches are common, so dismount if the path looks frosted and dangerously slick."
+                "en": "Photograph the windmill against the pale winter sky; the open terrain means icy patches are common, so dismount if the path looks frosted and dangerously slick.",
+                "fr": "Photographiez le moulin contre le ciel hivernal pâle ; le terrain découvert favorise les plaques de verglas, descendez du vélo si le chemin semble gelé et dangereusement glissant."
               }
             },
             {
@@ -655,13 +727,15 @@
                 "de": "Kirche Notre-Dame-de-la-Visitation",
                 "hu": "Notre-Dame-de-la-Visitation Templom",
                 "ro": "Biserica Notre-Dame-de-la-Visitation",
-                "en": "Église Notre-Dame-de-la-Visitation"
+                "en": "Église Notre-Dame-de-la-Visitation",
+                "fr": "Église Notre-Dame-de-la-Visitation"
               },
               "tip_5lang": {
                 "de": "Wärmen Sie Ihre gefrorenen Hände in diesem großen Heiligtum auf und bestaunen Sie die Gewölbedecken; eine wichtige Wärmepause auf einer eisigen Radroute.",
                 "hu": "Melegítse fel fagyott végtagjait a grandiózus szentélyben, miközben a boltozatokat csodálja; ez egy létfontosságú termális szünet egy fagyos kerékpáros úton.",
                 "ro": "Încălziți-vă extremitățile înghețate în acest mare sanctuar în timp ce admirați tavanele boltite; este o pauză termică vitală în timpul unui traseu răcoros.",
-                "en": "Warm your frozen extremities inside this grand sanctuary while marveling at its vaulted ceilings; it is a vital thermal break during a chilling cycling route."
+                "en": "Warm your frozen extremities inside this grand sanctuary while marveling at its vaulted ceilings; it is a vital thermal break during a chilling cycling route.",
+                "fr": "Réchauffez vos extrémités gelées à l'intérieur de ce grand sanctuaire en admirant ses voûtes ; c'est un arrêt thermique vital lors d'un itinéraire à vélo frigorifiant."
               }
             },
             {
@@ -669,13 +743,15 @@
                 "de": "Kirche Saint-Nicolas",
                 "hu": "Saint-Nicolas Templom",
                 "ro": "Biserica Saint-Nicolas",
-                "en": "Église Saint-Nicolas"
+                "en": "Église Saint-Nicolas",
+                "fr": "Église Saint-Nicolas"
               },
               "tip_5lang": {
                 "de": "Besinnen Sie sich in der Stille dieser alten Kirche; die dicken Steinmauern speichern die restliche Wärme und geben Radfahrern eine schnelle Pause vom Frost.",
                 "hu": "Töltődjön fel az ősi templom békés csendjében; a vastag kőfalak megtartják a kevéske maradék hőt, így a kerékpárosok gyors felmentést kapnak a kemény fagytól.",
                 "ro": "Reflectați în tăcerea acestei biserici antice; zidurile groase de piatră captează puțină căldură, oferind bicicliștilor o scurtă eliberare de înghețul de afară.",
-                "en": "Reflect in the peaceful silence of this ancient church; the thick stone walls trap what little warmth remains, giving cyclists a quick reprieve from the frost."
+                "en": "Reflect in the peaceful silence of this ancient church; the thick stone walls trap what little warmth remains, giving cyclists a quick reprieve from the frost.",
+                "fr": "Réfléchissez dans le silence paisible de cette église ancienne ; les murs épais en pierre retiennent la chaleur résiduelle, offrant aux cyclistes un bref répit contre le gel."
               }
             },
             {
@@ -683,13 +759,15 @@
                 "de": "Schloss Rupilly",
                 "hu": "Rupilly Kastély",
                 "ro": "Castelul Rupilly",
-                "en": "Château de Rupilly"
+                "en": "Château de Rupilly",
+                "fr": "Château de Rupilly"
               },
               "tip_5lang": {
                 "de": "Beenden Sie Ihre Tour am prächtigen Schloss vor der Dämmerung um 17 Uhr; stellen Sie sicher, dass Ihre Fahrradlichter für die dunkle, eisige Heimfahrt voll sind.",
                 "hu": "Fejezze be túráját a csodálatos kastélynál, mielőtt délután 5 órakor teljesen leszáll az éj; a sötét, fagyos hazaúthoz teljesen feltöltött kerékpárlámpák kellenek.",
                 "ro": "Încheiați turul la castel înainte de amurgul de la 17:00; asigurați-vă că luminile bicicletei sunt complet încărcate pentru drumul întunecat și rece spre casă.",
-                "en": "End your tour at this magnificent castle before the 5 PM twilight sets in completely; ensure your bike lights are fully charged for the dark, freezing ride home."
+                "en": "End your tour at this magnificent castle before the 5 PM twilight sets in completely; ensure your bike lights are fully charged for the dark, freezing ride home.",
+                "fr": "Terminez votre circuit à ce château magnifique avant que le crépuscule de 17h ne s'installe complètement ; assurez‑vous que les feux de votre vélo sont pleinement chargés pour le trajet sombre et glacial du retour."
               }
             }
           ]
@@ -709,7 +787,8 @@
             "de": "Kirche Saint-Martin",
             "hu": "Saint-Martin Templom",
             "ro": "Biserica Saint-Martin",
-            "en": "Saint-Martin Church"
+            "en": "Saint-Martin Church",
+            "fr": "Église Saint-Martin"
           },
           "coords": [
             3.169401,
@@ -724,7 +803,8 @@
             "de": "Betreten Sie diese reizvolle Kirche, um die Buntglasfenster zu bewundern, und verhalten Sie sich beim Erkunden des Kirchenschiffs stets ruhig.",
             "hu": "Lépjen be ebbe a bájos templomba, hogy megcsodálja az ólomüveg ablakokat, és a hajó, valamint az oltár felfedezése közben őrizze meg a csendet.",
             "ro": "Pășiți în această biserică fermecătoare pentru vitraliile sale și păstrați o atitudine liniștită în timp ce explorați naosul și altarul.",
-            "en": "Step inside this charming church to appreciate its stained glass windows, and maintain a quiet, respectful tone while exploring the nave and altar."
+            "en": "Step inside this charming church to appreciate its stained glass windows, and maintain a quiet, respectful tone while exploring the nave and altar.",
+            "fr": "Entrez dans cette charmante église pour apprécier ses vitraux, et conservez un ton calme et respectueux en explorant la nef et l'autel."
           }
         },
         {
@@ -732,7 +812,8 @@
             "de": "Schloss Baratte",
             "hu": "Baratte Kastély",
             "ro": "Castelul Baratte",
-            "en": "Chateau Baratte"
+            "en": "Chateau Baratte",
+            "fr": "Château Baratte"
           },
           "coords": [
             3.174146,
@@ -747,7 +828,8 @@
             "de": "Nehmen Sie sich Zeit für einen Spaziergang um das wunderschöne Schloss, um die Architektur zu bewundern, wobei private Bereiche gesperrt sein können.",
             "hu": "Sétáljon egyet ennek a gyönyörű kastélynak a külseje körül, hogy megcsodálja építészetét, de vegye figyelembe a magánterületekre vonatkozó korlátozásokat.",
             "ro": "Plimbați-vă în jurul acestui frumos castel pentru a-i aprecia arhitectura, dar rețineți că accesul în zonele private ar putea fi restricționat.",
-            "en": "Take your time strolling around the exterior of this beautiful château to appreciate its architecture, noting that private areas might be restricted."
+            "en": "Take your time strolling around the exterior of this beautiful château to appreciate its architecture, noting that private areas might be restricted.",
+            "fr": "Prenez votre temps pour flâner autour de l'extérieur de ce beau château afin d'apprécier son architecture, en notant que certaines zones privées peuvent être restreintes."
           }
         },
         {
@@ -755,7 +837,8 @@
             "de": "Mühle von Vertain",
             "hu": "Vertain Malom",
             "ro": "Moara din Vertain",
-            "en": "Moulin de Vertain"
+            "en": "Moulin de Vertain",
+            "fr": "Moulin de Vertain"
           },
           "coords": [
             3.177758,
@@ -770,7 +853,8 @@
             "de": "Beenden Sie Ihren Spaziergang an dieser restaurierten Windmühle aus dem 15. Jahrhundert und fragen Sie die Touristeninfo nach Führungen im Inneren.",
             "hu": "Zárja sétáját ennél az ikonikus, 15. századi felújított szélmalomnál, és érdeklődjön a helyi turisztikai irodában a belső idegenvezetések időpontjairól.",
             "ro": "Încheiați plimbarea la această moară de vânt restaurată din secolul al XV-lea și verificați la biroul de turism orele pentru tururile ghidate.",
-            "en": "Conclude your walk at this iconic restored windmill from the 15th century, and check with the local tourist office for interior guided tour timings."
+            "en": "Conclude your walk at this iconic restored windmill from the 15th century, and check with the local tourist office for interior guided tour timings.",
+            "fr": "Concluez votre promenade à ce moulin à vent emblématique restauré du XVe siècle, et renseignez‑vous auprès de l'office de tourisme local pour les horaires des visites guidées intérieures."
           }
         },
         {
@@ -778,7 +862,8 @@
             "de": "Kirche Notre-Dame-de-la-Visitation",
             "hu": "Notre-Dame-de-la-Visitation Templom",
             "ro": "Biserica Notre-Dame-de-la-Visitation",
-            "en": "Église Notre-Dame-de-la-Visitation"
+            "en": "Église Notre-Dame-de-la-Visitation",
+            "fr": "Église Notre-Dame-de-la-Visitation"
           },
           "coords": [
             3.214352,
@@ -793,7 +878,8 @@
             "de": "Bewundern Sie die besondere Architektur dieser örtlichen Pfarrei und parken Sie Ihr Fahrrad sicher, bevor Sie für einen ruhigen Moment eintreten.",
             "hu": "Csodálja meg e helyi plébánia különleges építészetét, és biztonságosan parkolja le kerékpárját, mielőtt belépne egy csendes pillanatra.",
             "ro": "Admirați arhitectura religioasă distinctă a acestei parohii locale și parcați-vă bicicleta în siguranță înainte de a intra pentru un moment de liniște.",
-            "en": "Marvel at the distinct religious architecture of this local parish, and park your bike securely at the nearby racks before stepping in for a quiet moment."
+            "en": "Marvel at the distinct religious architecture of this local parish, and park your bike securely at the nearby racks before stepping in for a quiet moment.",
+            "fr": "Émerveillez‑vous devant l'architecture religieuse distincte de cette paroisse locale, et garez votre vélo en toute sécurité aux abris à vélos proches avant d'entrer pour un moment de recueillement."
           }
         },
         {
@@ -801,7 +887,8 @@
             "de": "Kirche Saint-Nicolas",
             "hu": "Saint-Nicolas Templom",
             "ro": "Biserica Saint-Nicolas",
-            "en": "Église Saint-Nicolas"
+            "en": "Église Saint-Nicolas",
+            "fr": "Église Saint-Nicolas"
           },
           "coords": [
             3.172103,
@@ -816,7 +903,8 @@
             "de": "Erkunden Sie diese friedliche ländliche Kirche, in der oft weniger los ist, und nutzen Sie sie als perfekten kurzen Halt auf Ihrer Radtour.",
             "hu": "Fedezze fel ezt a békés vidéki templomot, ahol ritkán van tömeg, így tökéletes egy rövid pihenőre a vidéki kerékpáros túra során.",
             "ro": "Explorați această biserică rurală liniștită, unde de obicei nu este aglomerat, fiind un loc perfect pentru o scurtă pauză în timpul traseului cu bicicleta.",
-            "en": "Explore this peaceful rural church, which often has fewer crowds, making it a perfect quick stop to rest your legs during your countryside cycling route."
+            "en": "Explore this peaceful rural church, which often has fewer crowds, making it a perfect quick stop to rest your legs during your countryside cycling route.",
+            "fr": "Explorez cette paisible église rurale, souvent moins fréquentée, ce qui en fait un arrêt idéal pour reposer vos jambes lors de votre circuit à vélo à la campagne."
           }
         },
         {
@@ -824,7 +912,8 @@
             "de": "Schloss Rupilly",
             "hu": "Rupilly Kastély",
             "ro": "Castelul Rupilly",
-            "en": "Château de Rupilly"
+            "en": "Château de Rupilly",
+            "fr": "Château de Rupilly"
           },
           "coords": [
             3.147819,
@@ -839,7 +928,8 @@
             "de": "Nähern Sie sich diesem majestätischen Schloss über malerische Landstraßen, und machen Sie Ihre besten Fotos von den öffentlichen Wegen aus.",
             "hu": "A festői vidéki utakon közelítse meg ezt a fenséges kastélyt, de ne feledje, hogy magánbirtok, így a legjobb fotókat a közutakról készítheti.",
             "ro": "Apropiați-vă de acest castel maiestuos pe drumurile pitorești, reținând că este domeniu privat, deci cele mai bune fotografii se fac de pe drumul public.",
-            "en": "Approach this majestic castle via the scenic country roads, keeping in mind that it is a private domain, so the best photos are taken from the public paths."
+            "en": "Approach this majestic castle via the scenic country roads, keeping in mind that it is a private domain, so the best photos are taken from the public paths.",
+            "fr": "Approchez ce château majestueux par les routes de campagne pittoresques, en gardant à l'esprit qu'il s'agit d'un domaine privé ; les meilleures photos se prennent des chemins publics."
           }
         }
       ],
@@ -847,7 +937,8 @@
         "de": "Beginnen Sie Ihre Autotour mit einem morgendlichen Besuch der zentral gelegenen Kirche Saint-Martin, die reich an spiritueller Atmosphäre ist. Gegen Mittag fahren Sie zum majestätischen Chateau Baratte und zur Mühle von Vertain. Fahren Sie am Nachmittag bequem zu den Kirchen Notre-Dame und Saint-Nicolas und bewundern Sie die sanften Landschaften von Pévèle. Beenden Sie den Tag am entfernten Château de Rupilly, um vor dem Abendessen über die Geschichte der Region nachzudenken.",
         "hu": "Kezdje autós túráját egy békés reggeli látogatással a központban található, spirituális hangulatú Saint-Martin templomban. Délidőben vezessen ki a fenséges Chateau Baratte-hoz és a közeli Moulin de Vertain-hez. A délután folyamán kényelmesen autózva keresse fel a Notre-Dame és a Saint-Nicolas templomokat, útközben megcsodálva Pévèle dimbes-dombos tájait. Fejezze be a napot a távoli Château de Rupilly-nél, csendesen elmélyedve a régió történelmében vacsora előtt.",
         "ro": "Începeți turul auto cu o vizită matinală la Biserica Saint-Martin, situată central și bogată în ambianță spirituală. La prânz, conduceți către maiestuosul Chateau Baratte și moara de vânt din Vertain. Pe măsură ce se desfășoară după-amiaza, navigați confortabil spre bisericile Notre-Dame și Saint-Nicolas, admirând peisajele Pévèle. Încheiați ziua la îndepărtatul Château de Rupilly, găsind un loc liniștit pentru a reflecta înainte de cină.",
-        "en": "Begin your driving tour with a peaceful morning visit to the centrally located Saint-Martin Church, rich in spiritual ambiance. Around midday, drive out to the majestic Chateau Baratte and the nearby Moulin de Vertain, capturing the essence of local heritage. As the afternoon unfolds, comfortably navigate to the Notre-Dame and Saint-Nicolas churches, admiring the rolling Pévèle landscapes along the way. Finish your day at the distant Château de Rupilly, finding a quiet spot to reflect on the region's castles before dinner."
+        "en": "Begin your driving tour with a peaceful morning visit to the centrally located Saint-Martin Church, rich in spiritual ambiance. Around midday, drive out to the majestic Chateau Baratte and the nearby Moulin de Vertain, capturing the essence of local heritage. As the afternoon unfolds, comfortably navigate to the Notre-Dame and Saint-Nicolas churches, admiring the rolling Pévèle landscapes along the way. Finish your day at the distant Château de Rupilly, finding a quiet spot to reflect on the region's castles before dinner.",
+        "fr": "Commencez votre circuit en voiture par une visite paisible matinale de l'église Saint‑Martin, riche en ambiance spirituelle. Vers midi, prenez la route vers le majestueux Château Baratte et le proche Moulin de Vertain pour capter l'essence du patrimoine local. Dans l'après‑midi, rendez‑vous confortablement aux églises Notre‑Dame et Saint‑Nicolas en admirant les paysages vallonnés de la Pévèle. Terminez la journée au lointain Château de Rupilly et trouvez un endroit tranquille pour réfléchir aux châteaux de la région avant le dîner."
       },
       "variants": {
         "rainy": {
@@ -855,7 +946,8 @@
             "de": "Beginnen Sie die regnerische Fahrt mit den Kircheninnenräumen. Parken Sie mittags nah am Schloss, um Regengüsse zu meiden. Nachmittags reicht ein kurzer Sprint zur Mühle. Beenden Sie den nassen Abend sicher am majestätischen Schloss.",
             "hu": "Kezdje az esős autózást a lenyűgöző templombelsőkkel. Délben parkoljon közel a kastélyhoz, hogy elkerülje a felhőszakadást. Délután csak szaladjon ki a malomhoz. Zárja a nedves estét biztonságban a fenséges kastély védelmében.",
             "ro": "Începeți plimbarea ploioasă explorând interioarele bisericii. La prânz, parcați aproape de castel pentru a evita aversa. După-amiaza faceți o fugă rapidă la moară. Încheiați seara umedă în siguranță la castelul maiestuos.",
-            "en": "Start your rainy drive with the impressive church interiors. Midday, park close to the chateau to avoid the downpours. The afternoon features a quick dash to the mill and the nearby parish. End your wet evening securely at the majestic castle."
+            "en": "Start your rainy drive with the impressive church interiors. Midday, park close to the chateau to avoid the downpours. The afternoon features a quick dash to the mill and the nearby parish. End your wet evening securely at the majestic castle.",
+            "fr": "Commencez votre trajet sous la pluie par les intérieurs impressionnants des églises. À midi, garez‑vous près du château pour éviter les averses. L'après‑midi comprend une courte escapade au moulin et à la paroisse voisine. Terminez votre soirée humide en sécurité au château majestueux."
           },
           "stops": [
             {
@@ -863,13 +955,15 @@
                 "de": "Kirche Saint-Martin",
                 "hu": "Saint-Martin Templom",
                 "ro": "Biserica Saint-Martin",
-                "en": "Saint-Martin Church"
+                "en": "Saint-Martin Church",
+                "fr": "Église Saint-Martin"
               },
               "tip_5lang": {
                 "de": "Bewundern Sie Steindetails und Buntglas ohne dem Wetter zu trotzen; parken Sie direkt auf dem Platz, um einen langen, nassen Fußweg vom Fahrzeug zu vermeiden.",
                 "hu": "Csodálja meg a kőrészleteket és az ólomüveget anélkül, hogy dacolna az elemekkel; parkoljon közvetlenül a téren, hogy elkerülje a hosszú, áztató sétát az autótól.",
                 "ro": "Admirați detaliile din piatră și vitraliile fără a înfrunta elementele; parcați direct în piață pentru a evita o plimbare lungă și udă de la mașina dumneavoastră.",
-                "en": "Admire the exquisite stone details and stained glass without braving the elements; park directly in the square to avoid a long, soaking walk from the vehicle."
+                "en": "Admire the exquisite stone details and stained glass without braving the elements; park directly in the square to avoid a long, soaking walk from the vehicle.",
+                "fr": "Admirez les détails de pierre exquis et les vitraux sans affronter les intempéries ; garez‑vous directement sur la place pour éviter une longue marche trempée depuis le véhicule."
               }
             },
             {
@@ -877,13 +971,15 @@
                 "de": "Schloss Baratte",
                 "hu": "Baratte Kastély",
                 "ro": "Castelul Baratte",
-                "en": "Chateau Baratte"
+                "en": "Chateau Baratte",
+                "fr": "Château Baratte"
               },
               "tip_5lang": {
                 "de": "Besichtigen Sie die luxuriösen Innenräume des Schlosses, ideal bei Regen; bringen Sie einen Schirm für den kurzen Sprint vom Parkplatz zur Eingangstür mit.",
                 "hu": "Járja be a kastély fényűző termeit, ami ideális esős napi program; hozzon esernyőt a parkolótól az ajtóig tartó rövid, de elkerülhetetlen futáshoz a záporban.",
                 "ro": "Vizitați camerele interioare luxoase ale castelului, ideal într-o zi ploioasă; luați o umbrelă pentru sprintul scurt de la zona de parcare până la ușa de intrare.",
-                "en": "Tour the luxurious indoor rooms of the chateau, an ideal rainy day activity; bring an umbrella for the short but inevitable sprint from the parking area to the door."
+                "en": "Tour the luxurious indoor rooms of the chateau, an ideal rainy day activity; bring an umbrella for the short but inevitable sprint from the parking area to the door.",
+                "fr": "Visitez les somptueuses pièces intérieures du château, une activité idéale pour un jour de pluie ; prenez un parapluie pour la courte mais inévitable course du parking à la porte."
               }
             },
             {
@@ -891,13 +987,15 @@
                 "de": "Mühle von Vertain",
                 "hu": "Vertain Malom",
                 "ro": "Moara din Vertain",
-                "en": "Moulin de Vertain"
+                "en": "Moulin de Vertain",
+                "fr": "Moulin de Vertain"
               },
               "tip_5lang": {
                 "de": "Kurbeln Sie das Fenster nur herunter, um die verregnete Mühle zu fotografieren; das Betreten des matschigen Feldes würde Ihre bequemen Fahrschuhe ruinieren.",
                 "hu": "Csak annyira húzza le az ablakot, hogy lőjön egy drámai képet az eső áztatta malomról; a sáros mezőre lépve valószínűleg tönkreteszi a kényelmes vezetőcipőjét.",
                 "ro": "Coborâți geamul doar cât să faceți o poză dramatică a morii bătute de ploaie; pășirea pe câmpul noroios vă va distruge probabil pantofii comozi de condus mașina.",
-                "en": "Roll your window down just enough to snap a dramatic picture of the rain-swept mill; stepping out into the muddy field will likely ruin your comfortable driving shoes."
+                "en": "Roll your window down just enough to snap a dramatic picture of the rain-swept mill; stepping out into the muddy field will likely ruin your comfortable driving shoes.",
+                "fr": "Baissez juste assez la vitre pour prendre une photo saisissante du moulin arrosé par la pluie ; sortir dans le champ boueux ruinerait probablement vos chaussures de ville confortables."
               }
             },
             {
@@ -905,13 +1003,15 @@
                 "de": "Kirche Notre-Dame-de-la-Visitation",
                 "hu": "Notre-Dame-de-la-Visitation Templom",
                 "ro": "Biserica Notre-Dame-de-la-Visitation",
-                "en": "Église Notre-Dame-de-la-Visitation"
+                "en": "Église Notre-Dame-de-la-Visitation",
+                "fr": "Église Notre-Dame-de-la-Visitation"
               },
               "tip_5lang": {
                 "de": "Entdecken Sie die Akustik und das Erbe im Inneren; die gepflasterten Straßen in der Nähe verhindern, dass Ihr Auto bei sintflutartigen Regengüssen im Matsch stecken bleibt.",
                 "hu": "Fedezze fel az épület gazdag akusztikáját és örökségét; a közeli aszfaltozott utcák megakadályozzák, hogy az autója elakadjon a sárban a heves felhőszakadások során.",
                 "ro": "Descoperiți acustica bogată și moștenirea în interior; străzile pavate din apropiere previn blocarea mașinii dumneavoastră în noroi în timpul ploilor torențiale.",
-                "en": "Discover the rich acoustics and heritage inside this structure; the nearby paved streets prevent your car from getting stuck in mud during heavy torrential downpours."
+                "en": "Discover the rich acoustics and heritage inside this structure; the nearby paved streets prevent your car from getting stuck in mud during heavy torrential downpours.",
+                "fr": "Découvrez la riche acoustique et le patrimoine à l'intérieur de cet édifice ; les rues pavées à proximité empêchent votre voiture de s'enfoncer dans la boue lors de fortes pluies torrentielles."
               }
             },
             {
@@ -919,13 +1019,15 @@
                 "de": "Kirche Saint-Nicolas",
                 "hu": "Saint-Nicolas Templom",
                 "ro": "Biserica Saint-Nicolas",
-                "en": "Église Saint-Nicolas"
+                "en": "Église Saint-Nicolas",
+                "fr": "Église Saint-Nicolas"
               },
               "tip_5lang": {
                 "de": "Genießen Sie die trockene Atmosphäre dieser charmanten Stätte; halten Sie ein Mikrofasertuch im Auto bereit, um Ihre Linse nach Außenaufnahmen im Nebel abzuwischen.",
                 "hu": "Élvezze a bájos vallási helyszín békés, száraz légkörét; tartson egy mikroszálas kendőt az autóban a kameralencse letörléséhez, miután külső fotókat készít a ködben.",
                 "ro": "Bucurați-vă de atmosfera senină și uscată a acestui sit religios; păstrați o lavetă în mașină pentru a șterge obiectivul camerei după fotografii exterioare în ceață.",
-                "en": "Enjoy the serene, dry atmosphere of this charming religious site; keep a microfiber cloth in the car to wipe your camera lens after taking exterior photos in the mist."
+                "en": "Enjoy the serene, dry atmosphere of this charming religious site; keep a microfiber cloth in the car to wipe your camera lens after taking exterior photos in the mist.",
+                "fr": "Profitez de l'atmosphère sereine et sèche de ce charmant lieu de culte ; gardez un chiffon microfibre dans la voiture pour essuyer votre objectif d'appareil photo après des prises extérieures dans la brume."
               }
             },
             {
@@ -933,13 +1035,15 @@
                 "de": "Schloss Rupilly",
                 "hu": "Rupilly Kastély",
                 "ro": "Castelul Rupilly",
-                "en": "Château de Rupilly"
+                "en": "Château de Rupilly",
+                "fr": "Château de Rupilly"
               },
               "tip_5lang": {
                 "de": "Beenden Sie Ihre Fahrt mit dem Blick auf die Architektur aus dem warmen Fahrzeug, während der Abendregen über dem weitläufigen, historischen Schlossgelände intensiver wird.",
                 "hu": "Zárja a festői autózást a fenséges építészet megtekintésével a jármű melegéből, ahogy az esti eső felerősödik a hatalmas, történelmi kastély hatalmas birtoka felett.",
                 "ro": "Încheiați-vă plimbarea admirând arhitectura din căldura vehiculului dumneavoastră pe măsură ce ploaia de seară se intensifică peste vastele domenii istorice ale castelului.",
-                "en": "Conclude your scenic drive by viewing the stately architecture from the warmth of your vehicle as the evening rain intensifies over the vast, historical castle grounds."
+                "en": "Conclude your scenic drive by viewing the stately architecture from the warmth of your vehicle as the evening rain intensifies over the vast, historical castle grounds.",
+                "fr": "Concluez votre promenade panoramique en admirant l'architecture imposante depuis la chaleur de votre véhicule tandis que la pluie du soir s'intensifie sur les vastes terres historiques du château."
               }
             }
           ]
@@ -949,7 +1053,8 @@
             "de": "Schalten Sie die Heizung für den Wintermorgen in der historischen Kirche ein. Mittags locken die gemütlichen Schlossausstellungen. Der kalte Nachmittag ist ideal für kurze Stopps. Beenden Sie die Tour am Schloss vor der Dämmerung um 17 Uhr.",
             "hu": "Kapcsolja be a fűtést a téli reggelen a történelmi templom felfedezéséhez. A dél egy hangulatos látogatást hoz a kastély kiállításain. A hideg délután tökéletes rövid megállókra. Fejezze be a kastélynál a korai, 5 órás sötétedés előtt.",
             "ro": "Porniți căldura pentru o dimineață de iarnă explorând biserica istorică. Prânzul aduce o vizită confortabilă la expozițiile castelului. După-amiaza rece este perfectă pentru opriri scurte. Încheiați la castel înainte de amurgul de la 17:00.",
-            "en": "Turn on the heater for a winter morning exploring the historic church. Midday brings a cozy visit to the chateau's exhibits. The cold afternoon is perfect for quick stops at the mill and parishes. Finish at the castle before the 5 PM twilight."
+            "en": "Turn on the heater for a winter morning exploring the historic church. Midday brings a cozy visit to the chateau's exhibits. The cold afternoon is perfect for quick stops at the mill and parishes. Finish at the castle before the 5 PM twilight.",
+            "fr": "Allumez le chauffage pour une matinée hivernale consacrée à l'exploration de l'église historique. À midi, profitez d'une visite confortable des expositions du château. L'après‑midi froid se prête à des arrêts rapides au moulin et aux paroisses. Terminez au château avant le crépuscule à 17h."
           },
           "stops": [
             {
@@ -957,13 +1062,15 @@
                 "de": "Kirche Saint-Martin",
                 "hu": "Saint-Martin Templom",
                 "ro": "Biserica Saint-Martin",
-                "en": "Saint-Martin Church"
+                "en": "Saint-Martin Church",
+                "fr": "Église Saint-Martin"
               },
               "tip_5lang": {
                 "de": "Schätzen Sie das leuchtende Buntglas im Heiligtum; das Laufenlassen der Autoheizung zwischen den Stopps sorgt dafür, dass Sie bei der Kulturerkundung nicht erfrieren.",
                 "hu": "Értékelje a ragyogó ólomüveget a szentélyből; az autó fűtésének járatása a megállók között biztosítja, hogy soha ne fagyjon át teljesen a kulturális felfedezés során.",
                 "ro": "Apreciați vitraliile strălucitoare din interior; lăsând căldura pornită în mașină între opriri vă asigură că nu înghețați complet în timpul explorării dumneavoastră.",
-                "en": "Appreciate the glowing stained glass from within the sanctuary; running your car heater between stops ensures you never completely freeze during your cultural exploration."
+                "en": "Appreciate the glowing stained glass from within the sanctuary; running your car heater between stops ensures you never completely freeze during your cultural exploration.",
+                "fr": "Appréciez les vitraux lumineux depuis l'intérieur du sanctuaire ; faire fonctionner le chauffage de la voiture entre les arrêts vous évitera d'être complètement gelé pendant votre exploration culturelle."
               }
             },
             {
@@ -971,13 +1078,15 @@
                 "de": "Schloss Baratte",
                 "hu": "Baratte Kastély",
                 "ro": "Castelul Baratte",
-                "en": "Chateau Baratte"
+                "en": "Chateau Baratte",
+                "fr": "Château Baratte"
               },
               "tip_5lang": {
                 "de": "Schlendern Sie durch die erhaltenen Räume des Schlosses; es ist außergewöhnlich gut isoliert und bietet einen sehr komfortablen, warmen Zufluchtsort vor der Winterkälte.",
                 "hu": "Sétáljon végig a kastély gondosan megőrzött szobáin; a hely kivételesen jól szigetelt, így igazán kényelmes és meleg menedéket kínál a metsző téli hideg elől.",
                 "ro": "Plimbați-vă prin camerele meticulos conservate ale castelului; este excepțional de bine izolat, oferind un refugiu cu adevărat confortabil și cald de frigul iernii.",
-                "en": "Wander through the meticulously preserved rooms of the chateau; it is exceptionally well-insulated, offering a truly comfortable and warm refuge from the biting winter cold."
+                "en": "Wander through the meticulously preserved rooms of the chateau; it is exceptionally well-insulated, offering a truly comfortable and warm refuge from the biting winter cold.",
+                "fr": "Parcourez les pièces méticuleusement préservées du château ; il est exceptionnellement bien isolé, offrant un refuge confortable et chaud contre le froid hivernal mordant."
               }
             },
             {
@@ -985,13 +1094,15 @@
                 "de": "Mühle von Vertain",
                 "hu": "Vertain Malom",
                 "ro": "Moara din Vertain",
-                "en": "Moulin de Vertain"
+                "en": "Moulin de Vertain",
+                "fr": "Moulin de Vertain"
               },
               "tip_5lang": {
                 "de": "Genießen Sie die Vorbeifahrt an der frostigen Mühle; bewahren Sie einen Eiskratzer im Kofferraum auf, da Autoscheiben in dieser ländlichen Gegend extrem schnell zufrieren.",
                 "hu": "Élvezze a kopár mezők fölé magasodó fagyos malom látványát autózás közben; tartson a csomagtartóban egy erős jégkaparót, mert a vidéki szélvédők itt rendkívül gyorsan fagynak.",
                 "ro": "Bucurați-vă de priveliștea din mers a morii înghețate; păstrați o racletă puternică în portbagaj deoarece parbrizele mașinilor din zonele rurale îngheață extrem de rapid aici.",
-                "en": "Enjoy a drive-by viewing of the frosty windmill rising above the stark fields; keep a heavy ice scraper in the trunk as rural windshields frost over extremely fast here."
+                "en": "Enjoy a drive-by viewing of the frosty windmill rising above the stark fields; keep a heavy ice scraper in the trunk as rural windshields frost over extremely fast here.",
+                "fr": "Profitez d'un aperçu en voiture du moulin givré dominant les champs austères ; gardez un grand grattoir à glace dans le coffre car les pare‑brises ruraux se givrent très rapidement ici."
               }
             },
             {
@@ -999,13 +1110,15 @@
                 "de": "Kirche Notre-Dame-de-la-Visitation",
                 "hu": "Notre-Dame-de-la-Visitation Templom",
                 "ro": "Biserica Notre-Dame-de-la-Visitation",
-                "en": "Église Notre-Dame-de-la-Visitation"
+                "en": "Église Notre-Dame-de-la-Visitation",
+                "fr": "Église Notre-Dame-de-la-Visitation"
               },
               "tip_5lang": {
                 "de": "Parken Sie vorsichtig nahe dem Kircheneingang, um vereiste Gehwege zu meiden; drinnen bietet das imposante Mauerwerk einen ruhigen Raum zum Nachdenken auf der Winterreise.",
                 "hu": "Parkoljon óvatosan a templom bejárata közelében, hogy elkerülje a jeges járdákat; odabent az impozáns kőfalak nyugodt teret kínálnak a frissítő téli utazás átgondolására.",
                 "ro": "Parcați atent lângă biserică pentru a evita pavajul înghețat; înăuntru, piatra impunătoare oferă un spațiu liniștit pentru a reflecta la călătoria dumneavoastră de iarnă.",
-                "en": "Park carefully near the church entrance to minimize walking on icy pavements; inside, the imposing stonework offers a tranquil space to reflect on your brisk winter journey."
+                "en": "Park carefully near the church entrance to minimize walking on icy pavements; inside, the imposing stonework offers a tranquil space to reflect on your brisk winter journey.",
+                "fr": "Garez‑vous soigneusement près de l'entrée de l'église pour minimiser la marche sur les trottoirs verglacés ; à l'intérieur, la maçonnerie imposante offre un espace tranquille pour réfléchir à votre trajet hivernal vif."
               }
             },
             {
@@ -1013,13 +1126,15 @@
                 "de": "Kirche Saint-Nicolas",
                 "hu": "Saint-Nicolas Templom",
                 "ro": "Biserica Saint-Nicolas",
-                "en": "Église Saint-Nicolas"
+                "en": "Église Saint-Nicolas",
+                "fr": "Église Saint-Nicolas"
               },
               "tip_5lang": {
                 "de": "Betreten Sie das ruhige Innere des historischen Gebäudes; achten Sie auf Glatteis in kleinen Parkplätzen, die nachmittags vor den schwachen Wintersonnenstrahlen verborgen sind.",
                 "hu": "Lépjen be a történelmi épület csendes belsejébe; óvakodjon a fekete jégtől, amely a gyenge téli napsugaraktól elzárt kis parkolókban képződik a fagyos délután folyamán.",
                 "ro": "Pășiți în interiorul liniștit al acestei clădiri; feriți-vă de gheața neagră care se formează în micile parcări ascunse de razele slabe ale soarelui de iarnă după-amiaza.",
-                "en": "Step into the hushed interior of this historical building; beware of black ice forming in the small parking lots hidden from the sun's weak winter rays during the afternoon."
+                "en": "Step into the hushed interior of this historical building; beware of black ice forming in the small parking lots hidden from the sun's weak winter rays during the afternoon.",
+                "fr": "Pénétrez dans l'intérieur feutré de ce bâtiment historique ; méfiez‑vous du verglas noir formant des plaques dans les petits parkings à l'abri du faible soleil d'hiver l'après‑midi."
               }
             },
             {
@@ -1027,13 +1142,15 @@
                 "de": "Schloss Rupilly",
                 "hu": "Rupilly Kastély",
                 "ro": "Castelul Rupilly",
-                "en": "Château de Rupilly"
+                "en": "Château de Rupilly",
+                "fr": "Château de Rupilly"
               },
               "tip_5lang": {
                 "de": "Fangen Sie den Winterzauber des Schlosses ein, bevor es gegen 17 Uhr völlig dunkel wird; stellen Sie sicher, dass Ihre Scheinwerfer für die sichere Heimfahrt sauber sind.",
                 "hu": "Örökítse meg a kastély téli varázsát, mielőtt délután 5 körül teljesen sötét lesz; gondoskodjon róla, hogy az autó fényszórói tiszták legyenek a biztonságos hazavezetéshez.",
                 "ro": "Surprindeți magia de iarnă a castelului înainte ca întunericul să se lase la ora 17:00; asigurați-vă că farurile mașinii sunt perfect curate pentru o călătorie sigură spre casă.",
-                "en": "Capture the winter magic of the castle grounds before darkness sets in completely around 5 PM; make sure your car's headlights are wiped clean for a safe journey home."
+                "en": "Capture the winter magic of the castle grounds before darkness sets in completely around 5 PM; make sure your car's headlights are wiped clean for a safe journey home.",
+                "fr": "Saisissez la magie hivernale des terres du château avant que la nuit ne tombe complètement vers 17h ; assurez‑vous que les phares de votre voiture sont nettoyés pour un trajet sûr jusqu'à la maison."
               }
             }
           ]

@@ -21,7 +21,8 @@
             "de": "Provencal Market of Apt",
             "hu": "Provencal Market of Apt",
             "ro": "Provencal Market of Apt",
-            "en": "Provencal Market of Apt"
+            "en": "Provencal Market of Apt",
+            "fr": "Marché provençal d'Apt"
           },
           "coords": [
             5.395387,
@@ -36,7 +37,8 @@
             "de": "Entdecken Sie frische regionale Produkte auf diesem lebhaften provenzalischen Markt und probieren Sie unbedingt die kandierten Früchte, für die Apt berühmt ist.",
             "hu": "Fedezze fel a friss helyi termékeket ezen a nyüzsgő provence-i piacon, és mindenképpen kóstolja meg a kandírozott gyümölcsöket, amelyekről Apt híres.",
             "ro": "Descoperiți produse locale proaspete în această piață provensală plină de viață și asigurați-vă că gustați fructele confiate pentru care orașul Apt este renumit.",
-            "en": "Discover fresh local produce at this bustling Provencal market, and be sure to taste the candied fruits for which Apt is famous."
+            "en": "Discover fresh local produce at this bustling Provencal market, and be sure to taste the candied fruits for which Apt is famous.",
+            "fr": "Découvrez des produits locaux frais dans ce marché animé, et n'oubliez pas de goûter les fruits confits dont Apt est célèbre."
           }
         },
         {
@@ -44,7 +46,8 @@
             "de": "Clock Tower",
             "hu": "Clock Tower",
             "ro": "Clock Tower",
-            "en": "Clock Tower"
+            "en": "Clock Tower",
+            "fr": "Tour de l'Horloge"
           },
           "coords": [
             5.397189,
@@ -59,7 +62,8 @@
             "de": "Bewundern Sie diesen historischen Uhrturm, der das Stadtbild prägt, und achten Sie auf die kunstvollen Details an der Spitze, die bei Sonnenlicht gut zur Geltung kommen.",
             "hu": "Csodálja meg ezt a történelmi óratornyot, amely meghatározza a városképet, és figyelje meg a csúcsán lévő díszes részleteket, amelyek napfényben érvényesülnek a legjobban.",
             "ro": "Admirați acest turn istoric cu ceas care definește peisajul urban și observați detaliile ornamentate din partea de sus, care sunt cel mai bine văzute în lumina soarelui.",
-            "en": "Admire this historic clock tower that defines the cityscape, and look out for the ornate details at the top which are best appreciated in bright sunlight."
+            "en": "Admire this historic clock tower that defines the cityscape, and look out for the ornate details at the top which are best appreciated in bright sunlight.",
+            "fr": "Admirez cette tour de l'horloge historique qui définit le paysage urbain, et repérez les détails ornés au sommet qui se voient mieux par un soleil lumineux."
           }
         },
         {
@@ -67,7 +71,8 @@
             "de": "Apt Museum",
             "hu": "Apt Museum",
             "ro": "Apt Museum",
-            "en": "Apt Museum"
+            "en": "Apt Museum",
+            "fr": "Musée d'Apt"
           },
           "coords": [
             5.3977,
@@ -82,7 +87,8 @@
             "de": "Tauchen Sie in die reiche Geschichte der Region ein, indem Sie die faszinierenden archäologischen Exponate erkunden, und nehmen Sie sich Zeit für die römischen Artefakte.",
             "hu": "Merüljön el a régió gazdag történelmében a lenyűgöző régészeti kiállítások felfedezésével, és feltétlenül szánjon időt a római kori leletekre is.",
             "ro": "Cufundați-vă în istoria bogată a regiunii explorând exponatele arheologice fascinante și asigurați-vă că vă rezervați timp pentru a studia artefactele romane.",
-            "en": "Immerse yourself in the region's rich history by exploring the fascinating archaeological exhibits, and make sure to take your time examining the Roman artifacts."
+            "en": "Immerse yourself in the region's rich history by exploring the fascinating archaeological exhibits, and make sure to take your time examining the Roman artifacts.",
+            "fr": "Plongez dans la riche histoire de la région en explorant les fascinantes expositions archéologiques, et prenez le temps d'examiner les artefacts romains."
           }
         },
         {
@@ -90,7 +96,8 @@
             "de": "Luberon Park House",
             "hu": "Luberon Park House",
             "ro": "Luberon Park House",
-            "en": "Luberon Park House"
+            "en": "Luberon Park House",
+            "fr": "Maison du Parc du Luberon"
           },
           "coords": [
             5.397772,
@@ -105,7 +112,8 @@
             "de": "Informieren Sie sich über die lokale Flora und Fauna im Besucherzentrum und holen Sie sich an der Rezeption nützliche Karten für Ihre Erkundungen im Naturpark.",
             "hu": "Tájékozódjon a helyi növény- és állatvilágról ebben a látogatóközpontban, és kérjen hasznos térképeket a recepción a natúrpark további felfedezéséhez.",
             "ro": "Aflați despre flora și fauna locală în acest centru de vizitatori și luați hărți utile de la recepție pentru explorările dumneavoastră viitoare în parcul natural.",
-            "en": "Learn about the local flora and fauna at this visitor center, and pick up useful maps from the reception desk for your further explorations in the natural park."
+            "en": "Learn about the local flora and fauna at this visitor center, and pick up useful maps from the reception desk for your further explorations in the natural park.",
+            "fr": "Renseignez-vous sur la flore et la faune locales dans ce centre d'accueil, et récupérez des cartes utiles à la réception pour vos explorations dans le parc naturel."
           }
         },
         {
@@ -113,7 +121,8 @@
             "de": "Stade St Michel",
             "hu": "Stade St Michel",
             "ro": "Stade St Michel",
-            "en": "Stade St Michel"
+            "en": "Stade St Michel",
+            "fr": "Stade St Michel"
           },
           "coords": [
             5.397699,
@@ -128,7 +137,8 @@
             "de": "Nutzen Sie diesen weitläufigen Bereich für eine entspannte Pause im Freien, während die Kinder spielen können, und bringen Sie etwas Wasser für sportliche Aktivitäten mit.",
             "hu": "Használja ki ezt a tágas területet egy pihentető szabadtéri szünetre, miközben a gyerekek játszhatnak, és vigyen magával egy kis vizet a sporttevékenységekhez.",
             "ro": "Profitați de această zonă spațioasă pentru o pauză relaxantă în aer liber, în timp ce copiii se pot juca, și aduceți niște apă dacă plănuiți activități sportive.",
-            "en": "Take advantage of this spacious area for a relaxing outdoor break while the kids play, and remember to bring some water if you plan on joining in on sports activities."
+            "en": "Take advantage of this spacious area for a relaxing outdoor break while the kids play, and remember to bring some water if you plan on joining in on sports activities.",
+            "fr": "Profitez de cet espace vaste pour une pause détente en plein air pendant que les enfants jouent, et pensez à apporter de l'eau si vous comptez participer à des activités sportives."
           }
         }
       ],
@@ -136,7 +146,8 @@
         "de": "Starten Sie Ihren Tag auf dem Markt und lassen Sie sich von den Düften verzaubern.\n\nErkunden Sie die reiche Geschichte der Stadt im Museum und am historischen Uhrturm.\n\nErfahren Sie im Luberon Park House mehr über die beeindruckende Natur der Umgebung.\n\nBeenden Sie den Tag entspannt am Stade St Michel, ideal für Familien und Freizeit.",
         "hu": "Kezdje a napot a helyi piacon, és hagyja, hogy elvarázsolják a különleges illatok.\n\nFedezze fel a város gazdag történelmét a múzeumban és a történelmi óratoronynál.\n\nTudjon meg többet a környék lenyűgöző természetéről a Luberon Park House-ban.\n\nFejezze be a napot egy pihentető sétával a Stade St Michel környékén a friss levegőn.",
         "ro": "Începeți ziua la piața locală și lăsați-vă fermecați de aromele produselor proaspete.\n\nExplorați istoria bogată a orașului la muzeu și la pitorescul turn cu ceas.\n\nAflați mai multe despre natura impresionantă a împrejurimilor la Casa Parcului Luberon.\n\nÎncheiați ziua relaxându-vă la Stade St Michel, un loc perfect pentru activități de seară.",
-        "en": "Start your day at the local market and let yourself be enchanted by the fresh aromas.\n\nExplore the rich history of the city at the local museum and the historic clock tower.\n\nLearn more about the impressive nature of the surrounding area at the Luberon Park House.\n\nEnd your day relaxing at Stade St Michel, an ideal spot for family leisure and fresh air."
+        "en": "Start your day at the local market and let yourself be enchanted by the fresh aromas.\n\nExplore the rich history of the city at the local museum and the historic clock tower.\n\nLearn more about the impressive nature of the surrounding area at the Luberon Park House.\n\nEnd your day relaxing at Stade St Michel, an ideal spot for family leisure and fresh air.",
+        "fr": "Commencez votre journée au marché local et laissez-vous envoûter par les arômes frais.\n\nExplorez la riche histoire de la ville au musée local et à la tour de l'horloge historique.\n\nInformez-vous sur la nature impressionnante des environs à la Maison du Parc du Luberon.\n\nTerminez votre journée en vous relaxant au Stade St Michel, un lieu idéal pour les loisirs en famille et l'air frais."
       },
       "variants": {
         "rainy": {
@@ -144,7 +155,8 @@
             "de": "Ein verregneter Vormittag in Apt beginnt am besten unter den Markisen des provenzalischen Marktes. Mittags bieten die Museen der Stadt den perfekten Schutz vor dem nassen Wetter. Nachmittags führt ein kurzer Spaziergang zum Stadion, wobei man auf den glatten Pflastersteinen der Altstadt vorsichtig sein sollte. Den Abend lässt man gemütlich in einem der überdachten Bistros ausklingen.",
             "hu": "Az esős délelőtt Aptban a piac ponyvái alatti rejtőzködéssel indul. Délben a város múzeumai nyújtanak tökéletes menedéket a csapadék elől. Délután egy rövid séta következik a stadion felé, vigyázva a belváros csúszós macskaköveire. Az estét érdemes egy fedett bisztró melegében tölteni, hallgatva az eső kopogását a háztetőkön.",
             "ro": "O dimineață ploioasă în Apt începe sub copertinele pieței provensale. La prânz, muzeele orașului oferă adăpostul perfect împotriva vremii umede. După-amiaza, o scurtă plimbare spre stadion necesită atenție pe pavajul alunecos din centrul vechi. Seara se încheie plăcut într-un bistro acoperit, savurând atmosfera intimă a orașului sub ploaie.",
-            "en": "A rainy morning in Apt is best spent under the market awnings. At noon, the town's museums provide the perfect shelter from the wet weather. In the afternoon, a short walk to the stadium requires care on the slippery cobblestones of the old town. End the evening cozily in a covered bistro, enjoying the rhythmic sound of rain on the roofs."
+            "en": "A rainy morning in Apt is best spent under the market awnings. At noon, the town's museums provide the perfect shelter from the wet weather. In the afternoon, a short walk to the stadium requires care on the slippery cobblestones of the old town. End the evening cozily in a covered bistro, enjoying the rhythmic sound of rain on the roofs.",
+            "fr": "Une matinée pluvieuse à Apt se passe au mieux sous les auvents du marché. À midi, les musées de la ville offrent un abri parfait contre l'humidité. L'après-midi, une courte marche jusqu'au stade demande de la prudence sur les pavés glissants de la vieille ville. Terminez la soirée au chaud dans un bistrot couvert, en profitant du bruit rythmique de la pluie sur les toits."
           },
           "stops": [
             {
@@ -152,13 +164,15 @@
                 "de": "Provencal Market of Apt",
                 "hu": "Provencal Market of Apt",
                 "ro": "Provencal Market of Apt",
-                "en": "Provencal Market of Apt"
+                "en": "Provencal Market of Apt",
+                "fr": "Marché provençal d'Apt"
               },
               "tip_5lang": {
                 "de": "Suchen Sie Schutz unter den Arkaden und Markisen der Händler; probieren Sie die kandierten Früchte, während es draußen regnet. Ein Regenschirm ist in den engen Gassen unerlässlich.",
                 "hu": "Keressen menedéket az árusok ponyvái és az árkádok alatt; kóstolja meg a híres kandírozott gyümölcsöket az eső elől bújva. Az esernyő elengedhetetlen a szűk utcákon.",
                 "ro": "Căutați adăpost sub arcadele și copertinele comercianților; gustați fructele confiate în timp ce vă feriți de ploaie. O umbrelă este esențială pe străzile înguste.",
-                "en": "Seek shelter under the merchants' awnings and the stone arches; try the famous candied fruits while hiding from the rain. An umbrella is essential in the narrow streets."
+                "en": "Seek shelter under the merchants' awnings and the stone arches; try the famous candied fruits while hiding from the rain. An umbrella is essential in the narrow streets.",
+                "fr": "Cherchez refuge sous les auvents des marchands et les arches de pierre ; goûtez les célèbres fruits confits en vous abritant de la pluie. Un parapluie est essentiel dans les rues étroites."
               }
             },
             {
@@ -166,13 +180,15 @@
                 "de": "Clock Tower",
                 "hu": "Clock Tower",
                 "ro": "Clock Tower",
-                "en": "Clock Tower"
+                "en": "Clock Tower",
+                "fr": "Tour de l'Horloge"
               },
               "tip_5lang": {
                 "de": "Bewundern Sie den Turm von einem der nahen Cafés aus, um trocken zu bleiben. Die nassen Steine des Turms glänzen bei diesem Wetter besonders fotogen im fahlen Licht.",
                 "hu": "Csodálja meg a tornyot egy közeli kávézó ablakából, hogy száraz maradjon. Az ázott kövek ilyenkor különleges, fényes csillogást kölcsönöznek az épületnek a fotókon.",
                 "ro": "Admirați turnul din interiorul unei cafenele apropiate pentru a rămâne uscat. Pietrele ude ale turnului strălucesc fotogenic în lumina difuză a zilei ploioase.",
-                "en": "Admire the tower from the comfort of a nearby cafe to stay dry. The wet stones of the tower glisten photogenically in the dim light of a rainy day."
+                "en": "Admire the tower from the comfort of a nearby cafe to stay dry. The wet stones of the tower glisten photogenically in the dim light of a rainy day.",
+                "fr": "Admirez la tour depuis le confort d'un café à proximité pour rester au sec. Les pierres mouillées de la tour brillent photogéniquement dans la lumière tamisée d'une journée pluvieuse."
               }
             },
             {
@@ -180,13 +196,15 @@
                 "de": "Apt Museum",
                 "hu": "Apt Museum",
                 "ro": "Apt Museum",
-                "en": "Apt Museum"
+                "en": "Apt Museum",
+                "fr": "Musée d'Apt"
               },
               "tip_5lang": {
                 "de": "Nutzen Sie den Regen für einen ausführlichen Besuch der archäologischen Sammlungen im trockenen Innenraum. Die Garderobe bietet Platz für nasse Mäntel und Schirme.",
                 "hu": "Használja ki az esőt a régészeti gyűjtemények alapos felfedezésére a száraz belső terekben. A ruhatárban kényelmesen leteheti a vizes kabátokat és esernyőket.",
                 "ro": "Profitați de ploaie pentru o vizită detaliată a colecțiilor arheologice în interiorul uscat. Garderoba oferă spațiu pentru hainele și umbrelele ude.",
-                "en": "Take advantage of the rain for a detailed visit to the archaeological collections in the dry interior. The cloakroom has space for wet coats and umbrellas."
+                "en": "Take advantage of the rain for a detailed visit to the archaeological collections in the dry interior. The cloakroom has space for wet coats and umbrellas.",
+                "fr": "Profitez de la pluie pour une visite détaillée des collections archéologiques à l'abri. Le vestiaire dispose d'espace pour manteaux et parapluies mouillés."
               }
             },
             {
@@ -194,13 +212,15 @@
                 "de": "Luberon Park House",
                 "hu": "Luberon Park House",
                 "ro": "Luberon Park House",
-                "en": "Luberon Park House"
+                "en": "Luberon Park House",
+                "fr": "Maison du Parc du Luberon"
               },
               "tip_5lang": {
                 "de": "Ein idealer Ort, um mehr über die Geologie des Luberon zu erfahren, ohne nass zu werden. Verweilen Sie in den Ausstellungsräumen, bis der stärkste Schauer vorüber ist.",
                 "hu": "Ideális helyszín a Luberon geológiájának megismeréséhez anélkül, hogy megázna. Időzzön el a kiállítótermekben, amíg eláll a leghevesebb zápor.",
                 "ro": "Un loc ideal pentru a învăța despre geologia Luberonului fără a vă uda. Rămâneți în sălile de expoziție până când trece aversa cea mai puternică.",
-                "en": "An ideal place to learn about the geology of the Luberon without getting wet. Linger in the exhibition rooms until the heaviest shower passes."
+                "en": "An ideal place to learn about the geology of the Luberon without getting wet. Linger in the exhibition rooms until the heaviest shower passes.",
+                "fr": "Un lieu idéal pour découvrir la géologie du Luberon sans se mouiller. Flânez dans les salles d'exposition jusqu'à ce que l'averse la plus forte passe."
               }
             },
             {
@@ -208,13 +228,15 @@
                 "de": "Stade St Michel",
                 "hu": "Stade St Michel",
                 "ro": "Stade St Michel",
-                "en": "Stade St Michel"
+                "en": "Stade St Michel",
+                "fr": "Stade St Michel"
               },
               "tip_5lang": {
                 "de": "Vorsicht vor Pfützen und schlammigen Stellen auf dem Weg zum Stadion. Ein kurzer Blick genügt bei Regen; tragen Sie unbedingt wasserfeste Schuhe für diesen Abschnitt.",
                 "hu": "Vigyázzon a tócsákra és a saras részekre a stadion felé vezető úton. Esőben elég egy rövid látogatás; mindenképpen vízálló cipőt viseljen ezen a szakaszon.",
                 "ro": "Atenție la bălți și zonele noroioase de pe drumul spre stadion. O vizită scurtă este suficientă pe ploaie; purtați neapărat încălțăminte impermeabilă.",
-                "en": "Watch out for puddles and muddy spots on the way to the stadium. A short visit is enough in the rain; be sure to wear waterproof shoes for this section."
+                "en": "Watch out for puddles and muddy spots on the way to the stadium. A short visit is enough in the rain; be sure to wear waterproof shoes for this section.",
+                "fr": "Attention aux flaques et zones boueuses sur le chemin du stade. Une visite courte suffit sous la pluie ; portez des chaussures imperméables pour cette portion."
               }
             }
           ]
@@ -224,7 +246,8 @@
             "de": "Der Wintermorgen in Apt ist frisch und klar, ideal für einen Besuch auf dem Markt mit einem heißen Kaffee. Mittags locken die beheizten Museen mit kulturellen Schätzen. Da die Sonne bereits gegen 17:00 Uhr untergeht, sollte man den Spaziergang zum Stadion am frühen Nachmittag planen. Der Abend gehört der regionalen Küche in einem gemütlichen, warmen Restaurant.",
             "hu": "A téli reggel Aptban friss és tiszta, ideális egy forró kávéhoz a piac forgatagában. Délben a fűtött múzeumok kulturális kincsei nyújtanak melegedőt. Mivel a nap már 17:00 körül lemegy, a stadionhoz vezető sétát kora délutánra érdemes időzíteni. Az estét töltse egy hangulatos, meleg étteremben, megkóstolva a helyi specialitásokat.",
             "ro": "Dimineața de iarnă în Apt este răcoroasă și senină, ideală pentru o cafea fierbinte în piață. La prânz, muzeele încălzite vă atrag cu comori culturale. Deoarece soarele apune deja în jur de ora 17:00, planificați plimbarea spre stadion devreme. Seara aparține bucătăriei regionale într-un restaurant călduros și primitor.",
-            "en": "The winter morning in Apt is crisp and clear, ideal for a hot coffee at the market. At noon, the heated museums offer cultural treasures and warmth. Since the sun sets around 17:00, plan the walk to the stadium for the early afternoon. Spend the evening in a cozy, warm restaurant, tasting the local regional specialties."
+            "en": "The winter morning in Apt is crisp and clear, ideal for a hot coffee at the market. At noon, the heated museums offer cultural treasures and warmth. Since the sun sets around 17:00, plan the walk to the stadium for the early afternoon. Spend the evening in a cozy, warm restaurant, tasting the local regional specialties.",
+            "fr": "Le matin d'hiver à Apt est vif et clair, idéal pour un café chaud au marché. À midi, les musées chauffés offrent trésors culturels et chaleur. Comme le soleil se couche vers 17:00, prévoyez la promenade jusqu'au stade en début d'après-midi. Passez la soirée dans un restaurant cosy et chaud en goûtant les spécialités régionales."
           },
           "stops": [
             {
@@ -232,13 +255,15 @@
                 "de": "Provencal Market of Apt",
                 "hu": "Provencal Market of Apt",
                 "ro": "Provencal Market of Apt",
-                "en": "Provencal Market of Apt"
+                "en": "Provencal Market of Apt",
+                "fr": "Marché provençal d'Apt"
               },
               "tip_5lang": {
                 "de": "Genießen Sie die winterliche Atmosphäre und kaufen Sie Trüffel oder Honig für die kalten Tage. Kleiden Sie sich in Schichten, da der Wind in den Gassen kühl sein kann.",
                 "hu": "Élvezze a téli hangulatot, és vásároljon szarvasgombát vagy mézet a hideg napokra. Öltözzön rétegesen, mert a szél hűvös lehet a szűk utcákban.",
                 "ro": "Bucurați-vă de atmosfera de iarnă și cumpărați trufe sau miere pentru zilele reci. Îmbrăcați-vă în straturi, deoarece vântul poate fi tăios pe străduțe.",
-                "en": "Enjoy the winter atmosphere and buy truffles or honey for the cold days. Dress in layers, as the wind can be quite chilly in the narrow streets."
+                "en": "Enjoy the winter atmosphere and buy truffles or honey for the cold days. Dress in layers, as the wind can be quite chilly in the narrow streets.",
+                "fr": "Profitez de l'atmosphère hivernale et achetez truffes ou miel pour les jours froids. Habillez-vous en plusieurs couches, le vent peut être assez frais dans les rues étroites."
               }
             },
             {
@@ -246,13 +271,15 @@
                 "de": "Clock Tower",
                 "hu": "Clock Tower",
                 "ro": "Clock Tower",
-                "en": "Clock Tower"
+                "en": "Clock Tower",
+                "fr": "Tour de l'Horloge"
               },
               "tip_5lang": {
                 "de": "Das flache Winterlicht wirft lange Schatten auf den Turm und sorgt für dramatische Fotos. Bleiben Sie in Bewegung, um bei der kühlen Brise nicht auszukühlen.",
                 "hu": "Az alacsony téli napfény hosszú árnyékokat vet a toronyra, ami drámai fotókat eredményez. Maradjon mozgásban, hogy ne fázzon meg a hűvös szélben.",
                 "ro": "Lumina joasă de iarnă proiectează umbre lungi pe turn, creând fotografii dramatice. Rămâneți în mișcare pentru a nu îngheța din cauza brizei reci.",
-                "en": "The low winter sun casts long shadows on the tower, making for dramatic photos. Keep moving to stay warm in the cool Provençal breeze."
+                "en": "The low winter sun casts long shadows on the tower, making for dramatic photos. Keep moving to stay warm in the cool Provençal breeze.",
+                "fr": "Le soleil bas d'hiver projette de longues ombres sur la tour, pour des photos dramatiques. Continuez à marcher pour rester au chaud dans la fraîche brise provençale."
               }
             },
             {
@@ -260,13 +287,15 @@
                 "de": "Apt Museum",
                 "hu": "Apt Museum",
                 "ro": "Apt Museum",
-                "en": "Apt Museum"
+                "en": "Apt Museum",
+                "fr": "Musée d'Apt"
               },
               "tip_5lang": {
                 "de": "Ein wunderbar beheizter Ort, um die Geschichte der Region zu erkunden. Nutzen Sie die Mittagszeit hier, wenn es draußen am kühlsten ist.",
                 "hu": "Csodálatosan fűtött helyszín a régió történelmének felfedezéséhez. Időzítse ide a látogatást délben, amikor kint a leghűvösebb az idő.",
                 "ro": "Un loc minunat de încălzit pentru a explora istoria regiunii. Planificați vizita aici la prânz, când afară este cel mai frig.",
-                "en": "A wonderfully heated place to explore the history of the region. Plan your visit here at midday, when it is coolest outside."
+                "en": "A wonderfully heated place to explore the history of the region. Plan your visit here at midday, when it is coolest outside.",
+                "fr": "Un endroit merveilleusement chauffé pour explorer l'histoire de la région. Planifiez votre visite ici à midi, quand il fait le plus frais dehors."
               }
             },
             {
@@ -274,13 +303,15 @@
                 "de": "Luberon Park House",
                 "hu": "Luberon Park House",
                 "ro": "Luberon Park House",
-                "en": "Luberon Park House"
+                "en": "Luberon Park House",
+                "fr": "Maison du Parc du Luberon"
               },
               "tip_5lang": {
                 "de": "Die Ausstellungen bieten einen warmen Rückzugsort und spannende Einblicke in die Natur des Luberon im Winter. Ein Muss für Naturfreunde an kalten Tagen.",
                 "hu": "A kiállítások meleg menedéket és izgalmas betekintést nyújtanak a Luberon téli természetébe. Természetbarátoknak kötelező program a hideg napokon.",
                 "ro": "Expozițiile oferă un refugiu cald și perspective fascinante asupra naturii Luberonului iarna. O vizită obligatorie pentru iubitorii de natură în zilele reci.",
-                "en": "The exhibitions provide a warm retreat and fascinating insights into the Luberon's nature in winter. A must for nature lovers on cold days."
+                "en": "The exhibitions provide a warm retreat and fascinating insights into the Luberon's nature in winter. A must for nature lovers on cold days.",
+                "fr": "Les expositions offrent un chaleureux refuge et des aperçus fascinants de la nature du Luberon en hiver. Incontournable pour les amoureux de la nature par temps froid."
               }
             },
             {
@@ -288,13 +319,15 @@
                 "de": "Stade St Michel",
                 "hu": "Stade St Michel",
                 "ro": "Stade St Michel",
-                "en": "Stade St Michel"
+                "en": "Stade St Michel",
+                "fr": "Stade St Michel"
               },
               "tip_5lang": {
                 "de": "Genießen Sie den weiten Blick in der klaren Winterluft, bevor es dunkel wird. Planen Sie den Rückweg vor 17:00 Uhr ein, um den Sonnenuntergang sicher zu erleben.",
                 "hu": "Élvezze a tiszta téli levegőt és a kilátást, mielőtt besötétedik. Tervezze a visszautat 17:00 előttre, hogy még világosban visszaérjen a központba.",
                 "ro": "Bucurați-vă de aerul curat de iarnă și de priveliște înainte de lăsarea întunericului. Planificați întoarcerea înainte de ora 17:00 pentru siguranță.",
-                "en": "Enjoy the crisp winter air and the views before it gets dark. Plan your walk back before 17:00 to ensure you reach the center by sunset."
+                "en": "Enjoy the crisp winter air and the views before it gets dark. Plan your walk back before 17:00 to ensure you reach the center by sunset.",
+                "fr": "Profitez de l'air vif d'hiver et des vues avant la tombée de la nuit. Prévoyez votre retour avant 17:00 pour être au centre avant le coucher du soleil."
               }
             }
           ]
@@ -314,7 +347,8 @@
             "de": "Provencal Market of Apt",
             "hu": "Provencal Market of Apt",
             "ro": "Provencal Market of Apt",
-            "en": "Provencal Market of Apt"
+            "en": "Provencal Market of Apt",
+            "fr": "Marché provençal d'Apt"
           },
           "coords": [
             5.395387,
@@ -329,7 +363,8 @@
             "de": "Entdecken Sie frische regionale Produkte auf diesem lebhaften provenzalischen Markt und probieren Sie unbedingt die kandierten Früchte, für die Apt berühmt ist.",
             "hu": "Fedezze fel a friss helyi termékeket ezen a nyüzsgő provence-i piacon, és mindenképpen kóstolja meg a kandírozott gyümölcsöket, amelyekről Apt híres.",
             "ro": "Descoperiți produse locale proaspete în această piață provensală plină de viață și asigurați-vă că gustați fructele confiate pentru care orașul Apt este renumit.",
-            "en": "Discover fresh local produce at this bustling Provencal market, and be sure to taste the candied fruits for which Apt is famous."
+            "en": "Discover fresh local produce at this bustling Provencal market, and be sure to taste the candied fruits for which Apt is famous.",
+            "fr": "Découvrez des produits locaux frais à ce marché provençal animé, et n'oubliez pas de goûter les fruits confits pour lesquels Apt est célèbre."
           }
         },
         {
@@ -337,7 +372,8 @@
             "de": "Clock Tower",
             "hu": "Clock Tower",
             "ro": "Clock Tower",
-            "en": "Clock Tower"
+            "en": "Clock Tower",
+            "fr": "Tour de l'Horloge"
           },
           "coords": [
             5.397189,
@@ -352,7 +388,8 @@
             "de": "Bewundern Sie diesen historischen Uhrturm, der das Stadtbild prägt, und achten Sie auf die kunstvollen Details an der Spitze, die bei Sonnenlicht gut zur Geltung kommen.",
             "hu": "Csodálja meg ezt a történelmi óratornyot, amely meghatározza a városképet, és figyelje meg a csúcsán lévő díszes részleteket, amelyek napfényben érvényesülnek a legjobban.",
             "ro": "Admirați acest turn istoric cu ceas care definește peisajul urban și observați detaliile ornamentate din partea de sus, care sunt cel mai bine văzute în lumina soarelui.",
-            "en": "Admire this historic clock tower that defines the cityscape, and look out for the ornate details at the top which are best appreciated in bright sunlight."
+            "en": "Admire this historic clock tower that defines the cityscape, and look out for the ornate details at the top which are best appreciated in bright sunlight.",
+            "fr": "Admirez cette tour horloge historique qui définit le paysage urbain, et cherchez les détails ornés au sommet qui se révèlent mieux par grand soleil."
           }
         },
         {
@@ -360,7 +397,8 @@
             "de": "Apt Museum",
             "hu": "Apt Museum",
             "ro": "Apt Museum",
-            "en": "Apt Museum"
+            "en": "Apt Museum",
+            "fr": "Musée d'Apt"
           },
           "coords": [
             5.3977,
@@ -375,7 +413,8 @@
             "de": "Tauchen Sie in die reiche Geschichte der Region ein, indem Sie die faszinierenden archäologischen Exponate erkunden, und nehmen Sie sich Zeit für die römischen Artefakte.",
             "hu": "Merüljön el a régió gazdag történelmében a lenyűgöző régészeti kiállítások felfedezésével, és feltétlenül szánjon időt a római kori leletekre is.",
             "ro": "Cufundați-vă în istoria bogată a regiunii explorând exponatele arheologice fascinante și asigurați-vă că vă rezervați timp pentru a studia artefactele romane.",
-            "en": "Immerse yourself in the region's rich history by exploring the fascinating archaeological exhibits, and make sure to take your time examining the Roman artifacts."
+            "en": "Immerse yourself in the region's rich history by exploring the fascinating archaeological exhibits, and make sure to take your time examining the Roman artifacts.",
+            "fr": "Plongez dans la riche histoire de la région en explorant les fascinantes expositions archéologiques, et prenez le temps d'examiner les artefacts romains."
           }
         },
         {
@@ -383,7 +422,8 @@
             "de": "Stade St Michel",
             "hu": "Stade St Michel",
             "ro": "Stade St Michel",
-            "en": "Stade St Michel"
+            "en": "Stade St Michel",
+            "fr": "Stade St Michel"
           },
           "coords": [
             5.397699,
@@ -398,7 +438,8 @@
             "de": "Nutzen Sie diesen weitläufigen Bereich für eine entspannte Pause im Freien, während die Kinder spielen können, und bringen Sie etwas Wasser für sportliche Aktivitäten mit.",
             "hu": "Használja ki ezt a tágas területet egy pihentető szabadtéri szünetre, miközben a gyerekek játszhatnak, és vigyen magával egy kis vizet a sporttevékenységekhez.",
             "ro": "Profitați de această zonă spațioasă pentru o pauză relaxantă în aer liber, în timp ce copiii se pot juca, și aduceți niște apă dacă plănuiți activități sportive.",
-            "en": "Take advantage of this spacious area for a relaxing outdoor break while the kids play, and remember to bring some water if you plan on joining in on sports activities."
+            "en": "Take advantage of this spacious area for a relaxing outdoor break while the kids play, and remember to bring some water if you plan on joining in on sports activities.",
+            "fr": "Profitez de cet espace spacieux pour une pause extérieure relaxante pendant que les enfants jouent, et pensez à apporter de l'eau si vous comptez participer à des activités sportives."
           }
         },
         {
@@ -406,7 +447,8 @@
             "de": "Baignade flottante de la Riaille",
             "hu": "Baignade flottante de la Riaille",
             "ro": "Baignade flottante de la Riaille",
-            "en": "Baignade flottante de la Riaille"
+            "en": "Baignade flottante de la Riaille",
+            "fr": "Baignade flottante de la Riaille"
           },
           "coords": [
             5.378546,
@@ -421,7 +463,8 @@
             "de": "Erfrischen Sie sich an heißen Tagen in diesem sicheren Schwimmbereich und kommen Sie am besten frühzeitig, um sich einen guten Schattenplatz am Ufer zu sichern.",
             "hu": "Frissüljön fel a forró napokon ezen a biztonságos fürdőhelyen, és érdemes korán érkeznie, hogy biztosan találjon egy jó árnyékos helyet a parton.",
             "ro": "Răcoriți-vă în zilele fierbinți în această zonă sigură de înot și încercați să ajungeți devreme pentru a vă asigura un loc bun la umbră pe mal.",
-            "en": "Cool off on hot days in this safe swimming area, and try to arrive early so you can secure a good shaded spot on the shore before it gets crowded."
+            "en": "Cool off on hot days in this safe swimming area, and try to arrive early so you can secure a good shaded spot on the shore before it gets crowded.",
+            "fr": "Rafraîchissez-vous lors des journées chaudes dans cet endroit de baignade sûr, et essayez d'arriver tôt pour obtenir un bon emplacement ombragé sur la rive avant l'arrivée de la foule."
           }
         }
       ],
@@ -429,7 +472,8 @@
         "de": "Radeln Sie zunächst zum bunten Markt und genießen Sie das lebhafte Treiben der Stadt.\n\nNach einem Stopp am Uhrturm vertiefen Sie Ihr Wissen im spannenden archäologischen Museum.\n\nEine kurze Fahrt bringt Sie zum Stadion für sportliche Aktivitäten oder eine kleine Pause.\n\nGenießen Sie die Abendsonne bei einem erfrischenden Bad in der Baignade flottante de la Riaille.",
         "hu": "Először kerékpározzon el a színes piacra, és élvezze a város nyüzsgő forgatagát.\n\nAz óratorony után mélyítse el tudását az izgalmas régészeti múzeumban a központban.\n\nEgy rövid út elviszi a stadionhoz, ahol sportolhat vagy tarthat egy kis pihenőt.\n\nÉlvezze az esti napsütést egy frissítő fürdőzéssel a Baignade flottante de la Riaille-ban.",
         "ro": "Mergeți cu bicicleta la piața colorată și bucurați-vă de agitația plină de viață a orașului.\n\nDupă o oprire la turnul cu ceas, aprofundați-vă cunoștințele în muzeul de arheologie.\n\nO scurtă plimbare vă duce la stadion pentru activități sportive sau o scurtă pauză.\n\nBucurați-vă de soarele serii cu o baie răcoritoare la Baignade flottante de la Riaille.",
-        "en": "Cycle first to the colorful market and enjoy the lively hustle and bustle of the city.\n\nAfter a stop at the clock tower, deepen your knowledge at the exciting archaeological museum.\n\nA short ride takes you to the stadium for some sports activities or a quick rest.\n\nEnjoy the evening sun with a refreshing swim at the Baignade flottante de la Riaille."
+        "en": "Cycle first to the colorful market and enjoy the lively hustle and bustle of the city.\n\nAfter a stop at the clock tower, deepen your knowledge at the exciting archaeological museum.\n\nA short ride takes you to the stadium for some sports activities or a quick rest.\n\nEnjoy the evening sun with a refreshing swim at the Baignade flottante de la Riaille.",
+        "fr": "Commencez par faire du vélo jusqu'au marché coloré et profitez de l'animation de la ville.\n\nAprès un arrêt à la tour de l'horloge, approfondissez vos connaissances au passionnant musée archéologique.\n\nUne courte balade vous mène au stade pour des activités sportives ou un repos rapide.\n\nProfitez du soleil du soir avec une baignade rafraîchissante à la Baignade flottante de la Riaille."
       },
       "variants": {
         "rainy": {
@@ -437,7 +481,8 @@
             "de": "Radfahren im Regen erfordert in Apt Vorsicht, besonders auf den rutschigen Straßen der Altstadt. Nach dem Marktbesuch bieten Museen eine trockene Pause. Die Fahrt zum See Riaille ist bei Regen eine Herausforderung; achten Sie auf spritzendes Wasser und gute Bremsen. Abends sollte das Rad sicher abgestellt werden, während Sie sich im Trockenen aufwärmen.",
             "hu": "Az esőben való biciklizés óvatosságot igényel Aptban, főleg az óváros csúszós útjain. A piaci látogatás után a múzeumok nyújtanak száraz pihenőt. A Riaille-tóhoz vezető út esőben kihívás; figyeljen a felcsapódó vízre és a fékekre. Este tegye biztonságos helyre a biciklit, és melegedjen fel egy fedett helyen.",
             "ro": "Mersul pe bicicletă în ploaie necesită prudență în Apt, mai ales pe străzile alunecoase. După piață, muzeele oferă o pauză uscată. Drumul spre lacul Riaille este o provocare pe ploaie; atenție la apă și la frâne. Seara, lăsați bicicleta la adăpost și încălziți-vă într-un loc ferit de umezeală.",
-            "en": "Cycling in the rain requires caution in Apt, especially on the slippery old town streets. After the market, museums offer a dry break. The ride to Lake Riaille is challenging in the rain; watch out for splashes and ensure your brakes are reliable. In the evening, park the bike safely and warm up in a dry place."
+            "en": "Cycling in the rain requires caution in Apt, especially on the slippery old town streets. After the market, museums offer a dry break. The ride to Lake Riaille is challenging in the rain; watch out for splashes and ensure your brakes are reliable. In the evening, park the bike safely and warm up in a dry place.",
+            "fr": "Le cyclisme sous la pluie demande de la prudence à Apt, surtout dans les rues glissantes de la vieille ville. Après le marché, les musées offrent une pause au sec. La route vers le lac de la Riaille est délicate sous la pluie ; attention aux éclaboussures et assurez-vous que vos freins sont fiables. Le soir, garez le vélo en sécurité et réchauffez-vous dans un endroit sec."
           },
           "stops": [
             {
@@ -445,13 +490,15 @@
                 "de": "Provencal Market of Apt",
                 "hu": "Provencal Market of Apt",
                 "ro": "Provencal Market of Apt",
-                "en": "Provencal Market of Apt"
+                "en": "Provencal Market of Apt",
+                "fr": "Marché provençal d'Apt"
               },
               "tip_5lang": {
                 "de": "Stellen Sie Ihr Fahrrad an einem überdachten Ort ab, während Sie den Markt erkunden. Tragen Sie eine vollständige Regenmontur, um für die Weiterfahrt trocken zu bleiben.",
                 "hu": "Parkolja le a biciklit egy fedett helyen, amíg a piacot járja. Viseljen teljes esőruházatot, hogy száraz maradjon a következő útszakaszon is.",
                 "ro": "Parcați bicicleta într-un loc acoperit în timp ce explorați piața. Purtați echipament complet de ploaie pentru a rămâne uscat în continuare.",
-                "en": "Park your bike in a covered spot while you explore the market. Wear full rain gear to ensure you stay dry for the rest of your ride."
+                "en": "Park your bike in a covered spot while you explore the market. Wear full rain gear to ensure you stay dry for the rest of your ride.",
+                "fr": "Garez votre vélo dans un endroit couvert pendant que vous explorez le marché. Portez une tenue de pluie complète pour rester au sec pour la suite de votre balade."
               }
             },
             {
@@ -459,13 +506,15 @@
                 "de": "Clock Tower",
                 "hu": "Clock Tower",
                 "ro": "Clock Tower",
-                "en": "Clock Tower"
+                "en": "Clock Tower",
+                "fr": "Tour de l'Horloge"
               },
               "tip_5lang": {
                 "de": "Vorsicht beim Bremsen auf dem nassen Kopfsteinpflaster rund um den Turm. Ein kurzer Fotostopp reicht aus, bevor Sie schnell wieder in den Windschatten fahren.",
                 "hu": "Vigyázzon a fékezéssel a vizes macskaköveken a torony környékén. Egy gyors fotó erejéig álljon meg, majd keressen szélvédettebb útvonalat.",
                 "ro": "Atenție la frânare pe pavajul umed din jurul turnului. O scurtă oprire pentru poze este suficientă înainte de a căuta un traseu mai ferit.",
-                "en": "Be careful when braking on the wet cobblestones around the tower. A quick photo stop is enough before heading to a more sheltered route."
+                "en": "Be careful when braking on the wet cobblestones around the tower. A quick photo stop is enough before heading to a more sheltered route.",
+                "fr": "Faites attention en freinant sur les pavés mouillés autour de la tour. Un arrêt photo rapide suffit avant de reprendre un itinéraire plus abrité."
               }
             },
             {
@@ -473,13 +522,15 @@
                 "de": "Apt Museum",
                 "hu": "Apt Museum",
                 "ro": "Apt Museum",
-                "en": "Apt Museum"
+                "en": "Apt Museum",
+                "fr": "Musée d'Apt"
               },
               "tip_5lang": {
                 "de": "Nutzen Sie die Zeit im Museum, um Ihre Kleidung zu trocknen. Fragen Sie nach einem sicheren Abstellplatz für Ihr Rad in Sichtweite des Eingangs.",
                 "hu": "Használja ki a múzeumi időt a ruhái szárítására. Érdeklődjön biztonságos biciklitároló után a bejárat közelében, hogy nyugodtan nézelődhessen.",
                 "ro": "Folosiți timpul petrecut în muzeu pentru a vă usca hainele. Întrebați de un loc sigur de parcare pentru bicicletă lângă intrare.",
-                "en": "Use the time in the museum to dry your clothes. Ask about a secure bicycle parking spot near the entrance so you can explore in peace."
+                "en": "Use the time in the museum to dry your clothes. Ask about a secure bicycle parking spot near the entrance so you can explore in peace.",
+                "fr": "Profitez du temps au musée pour sécher vos vêtements. Informez-vous sur un emplacement sécurisé pour garer les vélos près de l'entrée afin d'explorer sereinement."
               }
             },
             {
@@ -487,13 +538,15 @@
                 "de": "Stade St Michel",
                 "hu": "Stade St Michel",
                 "ro": "Stade St Michel",
-                "en": "Stade St Michel"
+                "en": "Stade St Michel",
+                "fr": "Stade St Michel"
               },
               "tip_5lang": {
                 "de": "Die unbefestigten Wege zum Stadion können bei Regen sehr rutschig und matschig sein. Prüfen Sie nach der Fahrt Ihre Reifen und Kette auf Schmutz.",
                 "hu": "A stadionhoz vezető nem aszfaltozott utak esőben nagyon csúszósak és sarasak lehetnek. A szakasz után ellenőrizze a gumikat és a láncot.",
                 "ro": "Drumurile neasfaltate spre stadion pot fi foarte alunecoase și noroioase pe ploaie. Verificați anvelopele și lanțul după această porțiune.",
-                "en": "The unpaved paths to the stadium can be very slippery and muddy in the rain. Check your tires and chain for dirt after this section."
+                "en": "The unpaved paths to the stadium can be very slippery and muddy in the rain. Check your tires and chain for dirt after this section.",
+                "fr": "Les chemins non revêtus vers le stade peuvent être très glissants et boueux sous la pluie. Vérifiez vos pneus et votre chaîne pour la boue après cette section."
               }
             },
             {
@@ -501,13 +554,15 @@
                 "de": "Baignade flottante de la Riaille",
                 "hu": "Baignade flottante de la Riaille",
                 "ro": "Baignade flottante de la Riaille",
-                "en": "Baignade flottante de la Riaille"
+                "en": "Baignade flottante de la Riaille",
+                "fr": "Baignade flottante de la Riaille"
               },
               "tip_5lang": {
                 "de": "Suchen Sie Schutz in der Nähe des Wassersportzentrums. Das Schwimmen fällt aus, aber die dramatische Sicht auf den See unter Regenwolken ist beeindruckend.",
                 "hu": "Keressen menedéket a vízisportközpont közelében. Az úszás elmarad, de a tó látványa az esőfelhők alatt drámai és lenyűgöző.",
                 "ro": "Căutați adăpost lângă centrul de sporturi nautice. Înotul este exclus, dar vederea dramatică a lacului sub norii de ploaie este impresionantă.",
-                "en": "Seek shelter near the water sports center. Swimming is off the table, but the dramatic view of the lake under rain clouds is impressive."
+                "en": "Seek shelter near the water sports center. Swimming is off the table, but the dramatic view of the lake under rain clouds is impressive.",
+                "fr": "Cherchez un abri près du centre de sports nautiques. La baignade est à proscrire, mais la vue dramatique du lac sous les nuages de pluie est impressionnante."
               }
             }
           ]
@@ -517,7 +572,8 @@
             "de": "Winterliches Radfahren in Apt bietet klare Sichten, aber kühlen Fahrtwind. Beginnen Sie den Tag auf dem Markt und wärmen Sie sich mit lokalen Köstlichkeiten auf. Die Museen bieten mittags den nötigen Kälteschutz. Fahren Sie rechtzeitig zum See Riaille, um das goldene Licht vor dem frühen Sonnenuntergang gegen 17:00 Uhr zu genießen. Ein warmer Tee am Abend ist der perfekte Abschluss.",
             "hu": "A téli biciklizés Aptban tiszta kilátást, de hideg mentszelet jelent. Kezdje a napot a piacon, és melegedjen fel helyi finomságokkal. A múzeumok délben jó szolgálatot tesznek kuckóként. Tekerjen időben a Riaille-tóhoz, hogy elcsípje az aranyló fényeket a 17:00 körüli naplemente előtt. Egy forró tea este a tökéletes zárás.",
             "ro": "Ciclismul de iarnă în Apt oferă vederi clare, dar un vânt rece în timpul mersului. Începeți ziua în piață și încălziți-vă cu delicatese locale. Muzeele servesc drept refugiu la prânz. Pedalați din timp spre lacul Riaille pentru a prinde lumina aurie înainte de apusul de la ora 17:00. Un ceai fierbinte seara este finalul perfect.",
-            "en": "Winter cycling in Apt offers clear views but cold wind chill. Start the day at the market and warm up with local delicacies. The museums serve as a great midday warm-up spot. Cycle to Lake Riaille early to catch the golden light before the 17:00 sunset. A hot tea in the evening is the perfect conclusion."
+            "en": "Winter cycling in Apt offers clear views but cold wind chill. Start the day at the market and warm up with local delicacies. The museums serve as a great midday warm-up spot. Cycle to Lake Riaille early to catch the golden light before the 17:00 sunset. A hot tea in the evening is the perfect conclusion.",
+            "fr": "Le cyclisme hivernal à Apt offre des vues dégagées mais un refroidissement dû au vent. Commencez la journée au marché et réchauffez-vous avec des spécialités locales. Les musées sont un excellent endroit pour se réchauffer à midi. Partez tôt pour le lac de la Riaille afin de capter la lumière dorée avant le coucher du soleil à 17:00. Une tasse de thé chaud le soir est la conclusion parfaite."
           },
           "stops": [
             {
@@ -525,13 +581,15 @@
                 "de": "Provencal Market of Apt",
                 "hu": "Provencal Market of Apt",
                 "ro": "Provencal Market of Apt",
-                "en": "Provencal Market of Apt"
+                "en": "Provencal Market of Apt",
+                "fr": "Marché provençal d'Apt"
               },
               "tip_5lang": {
                 "de": "Tragen Sie winddichte Handschuhe und eine Mütze unter dem Helm. Der Markt ist am frühen Morgen besonders frisch; ein heißes Getränk ist hier Pflicht.",
                 "hu": "Viseljen szélálló kesztyűt és sapkát a sisak alatt. A piac kora reggel különösen hűvös; egy forró ital kötelező program a bemelegítéshez.",
                 "ro": "Purtați mănuși rezistente la vânt și o căciulă sub cască. Piața este foarte răcoroasă dimineața devreme; o băutură caldă este obligatorie.",
-                "en": "Wear windproof gloves and a hat under your helmet. The market is especially chilly early in the morning; a hot drink is a must to warm up."
+                "en": "Wear windproof gloves and a hat under your helmet. The market is especially chilly early in the morning; a hot drink is a must to warm up.",
+                "fr": "Portez des gants coupe-vent et un bonnet sous le casque. Le marché est particulièrement froid tôt le matin ; une boisson chaude est indispensable pour se réchauffer."
               }
             },
             {
@@ -539,13 +597,15 @@
                 "de": "Clock Tower",
                 "hu": "Clock Tower",
                 "ro": "Clock Tower",
-                "en": "Clock Tower"
+                "en": "Clock Tower",
+                "fr": "Tour de l'Horloge"
               },
               "tip_5lang": {
                 "de": "Kurzer Stopp für ein Foto im klaren Winterlicht. Achten Sie auf mögliche eisige Stellen im Schatten des Turms, wenn die Temperaturen nachts stark gefallen sind.",
                 "hu": "Gyors megálló egy fotóhoz a tiszta téli fényben. Ügyeljen az esetleges jeges foltokra a torony árnyékában, ha a hőmérséklet éjjel fagypont alá esett.",
                 "ro": "Oprire scurtă pentru o poză în lumina clară de iarnă. Atenție la posibilele porțiuni înghețate la umbra turnului dacă temperaturile au scăzut mult.",
-                "en": "Quick stop for a photo in the crisp winter light. Watch out for potential icy patches in the tower's shadow if temperatures dropped overnight."
+                "en": "Quick stop for a photo in the crisp winter light. Watch out for potential icy patches in the tower's shadow if temperatures dropped overnight.",
+                "fr": "Arrêt rapide pour une photo dans la lumière hivernale nette. Méfiez-vous des plaques de verglas potentielles à l'ombre de la tour si les températures sont descendues la nuit."
               }
             },
             {
@@ -553,13 +613,15 @@
                 "de": "Apt Museum",
                 "hu": "Apt Museum",
                 "ro": "Apt Museum",
-                "en": "Apt Museum"
+                "en": "Apt Museum",
+                "fr": "Musée d'Apt"
               },
               "tip_5lang": {
                 "de": "Die ideale Gelegenheit, die Beine aufzuwärmen und den Fahrtwind zu vergessen. Parken Sie Ihr Rad an einem gut sichtbaren Ort und genießen Sie die Wärme.",
                 "hu": "Ideális alkalom a lábak bemelegítésére és a menetszél elfelejtésére. Parkolja le a gépet jól látható helyen, és élvezze a múzeumi meleget.",
                 "ro": "Ocazia ideală pentru a vă încălzi picioarele și a uita de vântul rece. Parcați bicicleta la vedere și bucurați-vă de căldura muzeului.",
-                "en": "The ideal opportunity to warm up your legs and forget the wind chill. Park your bike in a visible spot and enjoy the museum's warmth."
+                "en": "The ideal opportunity to warm up your legs and forget the wind chill. Park your bike in a visible spot and enjoy the museum's warmth.",
+                "fr": "L'occasion idéale pour réchauffer vos jambes et oublier le froid du vent. Garez votre vélo en un endroit visible et profitez de la chaleur du musée."
               }
             },
             {
@@ -567,13 +629,15 @@
                 "de": "Stade St Michel",
                 "hu": "Stade St Michel",
                 "ro": "Stade St Michel",
-                "en": "Stade St Michel"
+                "en": "Stade St Michel",
+                "fr": "Stade St Michel"
               },
               "tip_5lang": {
                 "de": "Die Auffahrt hält Sie warm, aber oben angekommen kühlt man schnell aus. Ein kurzer Blick über die Stadt lohnt sich bei der weiten Fernsicht im Winter.",
                 "hu": "A felfelé tekerés melegen tartja, de a tetőn hamar lehűlhet az ember. A város feletti panoráma a tiszta téli időben különösen messzire ellát.",
                 "ro": "Urcarea vă va ține de cald, dar odată ajunși sus vă puteți răci repede. Priveliștea asupra orașului merită datorită vizibilității mari de iarnă.",
-                "en": "The ride up keeps you warm, but you'll cool down quickly at the top. The view over the town is worth it due to the great visibility in winter."
+                "en": "The ride up keeps you warm, but you'll cool down quickly at the top. The view over the town is worth it due to the great visibility in winter.",
+                "fr": "La montée à vélo vous réchauffe, mais vous refroidirez vite une fois arrivé au sommet. La vue sur la ville en vaut la peine grâce à l'excellente visibilité en hiver."
               }
             },
             {
@@ -581,13 +645,15 @@
                 "de": "Baignade flottante de la Riaille",
                 "hu": "Baignade flottante de la Riaille",
                 "ro": "Baignade flottante de la Riaille",
-                "en": "Baignade flottante de la Riaille"
+                "en": "Baignade flottante de la Riaille",
+                "fr": "Baignade flottante de la Riaille"
               },
               "tip_5lang": {
                 "de": "Das Wasser ist eiskalt; genießen Sie die Ruhe am Seeufer ohne die sommerlichen Menschenmassen. Kehren Sie vor Sonnenuntergang um 17:00 Uhr um.",
                 "hu": "A víz jéghideg; élvezze a tóparti nyugalmat a nyári tömeg nélkül. Mindenképpen forduljon vissza a 17:00 órai naplemente előtt.",
                 "ro": "Apa este înghețată; bucurați-vă de liniștea de pe malul lacului fără mulțimile de vară. Întoarceți-vă înainte de apusul de la ora 17:00.",
-                "en": "The water is ice cold; enjoy the tranquility of the lakeshore without the summer crowds. Be sure to head back before the 17:00 sunset."
+                "en": "The water is ice cold; enjoy the tranquility of the lakeshore without the summer crowds. Be sure to head back before the 17:00 sunset.",
+                "fr": "L'eau est glacée ; profitez de la tranquillité du bord du lac sans les foules estivales. Pensez à repartir avant le coucher du soleil à 17:00."
               }
             }
           ]
@@ -607,7 +673,8 @@
             "de": "Provencal Market of Apt",
             "hu": "Provencal Market of Apt",
             "ro": "Provencal Market of Apt",
-            "en": "Provencal Market of Apt"
+            "en": "Provencal Market of Apt",
+            "fr": "Marché provençal d'Apt"
           },
           "coords": [
             5.395387,
@@ -622,7 +689,8 @@
             "de": "Entdecken Sie frische regionale Produkte auf diesem lebhaften provenzalischen Markt und probieren Sie unbedingt die kandierten Früchte, für die Apt berühmt ist.",
             "hu": "Fedezze fel a friss helyi termékeket ezen a nyüzsgő provence-i piacon, és mindenképpen kóstolja meg a kandírozott gyümölcsöket, amelyekről Apt híres.",
             "ro": "Descoperiți produse locale proaspete în această piață provensală plină de viață și asigurați-vă că gustați fructele confiate pentru care orașul Apt este renumit.",
-            "en": "Discover fresh local produce at this bustling Provencal market, and be sure to taste the candied fruits for which Apt is famous."
+            "en": "Discover fresh local produce at this bustling Provencal market, and be sure to taste the candied fruits for which Apt is famous.",
+            "fr": "Découvrez des produits locaux frais à ce marché provençal animé, et n'oubliez pas de goûter les fruits confits pour lesquels Apt est célèbre."
           }
         },
         {
@@ -630,7 +698,8 @@
             "de": "Luberon Park House",
             "hu": "Luberon Park House",
             "ro": "Luberon Park House",
-            "en": "Luberon Park House"
+            "en": "Luberon Park House",
+            "fr": "Maison du Parc du Luberon"
           },
           "coords": [
             5.397772,
@@ -645,7 +714,8 @@
             "de": "Informieren Sie sich über die lokale Flora und Fauna im Besucherzentrum und holen Sie sich an der Rezeption nützliche Karten für Ihre Erkundungen im Naturpark.",
             "hu": "Tájékozódjon a helyi növény- és állatvilágról ebben a látogatóközpontban, és kérjen hasznos térképeket a recepción a natúrpark további felfedezéséhez.",
             "ro": "Aflați despre flora și fauna locală în acest centru de vizitatori și luați hărți utile de la recepție pentru explorările dumneavoastră viitoare în parcul natural.",
-            "en": "Learn about the local flora and fauna at this visitor center, and pick up useful maps from the reception desk for your further explorations in the natural park."
+            "en": "Learn about the local flora and fauna at this visitor center, and pick up useful maps from the reception desk for your further explorations in the natural park.",
+            "fr": "Renseignez-vous sur la flore et la faune locales dans ce centre d'accueil, et récupérez des cartes utiles à la réception pour vos explorations dans le parc naturel."
           }
         },
         {
@@ -653,7 +723,8 @@
             "de": "Piscines Allard",
             "hu": "Piscines Allard",
             "ro": "Piscines Allard",
-            "en": "Piscines Allard"
+            "en": "Piscines Allard",
+            "fr": "Piscines Allard"
           },
           "coords": [
             5.370654,
@@ -668,7 +739,8 @@
             "de": "Verbringen Sie vergnügliche Stunden in diesen familienfreundlichen Schwimmbädern, die ideal für Kinder sind, und denken Sie daran, ausreichend Sonnencreme einzupacken.",
             "hu": "Töltsön el néhány vidám órát ezekben a családbarát medencékben, amelyek ideálisak a gyerekek számára, és ne felejtsen el elegendő naptejet csomagolni.",
             "ro": "Petreceți câteva ore distractive în aceste piscine potrivite pentru familii, care sunt ideale pentru copii, și nu uitați să împachetați multă cremă de protecție solară.",
-            "en": "Spend some fun hours at these family-friendly swimming pools which are ideal for children, and just remember to pack plenty of sunscreen for the day."
+            "en": "Spend some fun hours at these family-friendly swimming pools which are ideal for children, and just remember to pack plenty of sunscreen for the day.",
+            "fr": "Passez des heures amusantes dans ces piscines familiales idéales pour les enfants, et pensez à emporter beaucoup de crème solaire pour la journée."
           }
         },
         {
@@ -676,7 +748,8 @@
             "de": "Baignade flottante de la Riaille",
             "hu": "Baignade flottante de la Riaille",
             "ro": "Baignade flottante de la Riaille",
-            "en": "Baignade flottante de la Riaille"
+            "en": "Baignade flottante de la Riaille",
+            "fr": "Baignade flottante de la Riaille"
           },
           "coords": [
             5.378546,
@@ -691,7 +764,8 @@
             "de": "Erfrischen Sie sich an heißen Tagen in diesem sicheren Schwimmbereich und kommen Sie am besten frühzeitig, um sich einen guten Schattenplatz am Ufer zu sichern.",
             "hu": "Frissüljön fel a forró napokon ezen a biztonságos fürdőhelyen, és érdemes korán érkeznie, hogy biztosan találjon egy jó árnyékos helyet a parton.",
             "ro": "Răcoriți-vă în zilele fierbinți în această zonă sigură de înot și încercați să ajungeți devreme pentru a vă asigura un loc bun la umbră pe mal.",
-            "en": "Cool off on hot days in this safe swimming area, and try to arrive early so you can secure a good shaded spot on the shore before it gets crowded."
+            "en": "Cool off on hot days in this safe swimming area, and try to arrive early so you can secure a good shaded spot on the shore before it gets crowded.",
+            "fr": "Rafraîchissez-vous lors des journées chaudes dans cet endroit de baignade sûr, et essayez d'arriver tôt pour obtenir un bon emplacement ombragé sur la rive avant l'arrivée de la foule."
           }
         },
         {
@@ -699,7 +773,8 @@
             "de": "Réserve de Rustrel",
             "hu": "Réserve de Rustrel",
             "ro": "Réserve de Rustrel",
-            "en": "Réserve de Rustrel"
+            "en": "Réserve de Rustrel",
+            "fr": "Réserve de Rustrel"
           },
           "coords": [
             5.454812,
@@ -714,7 +789,8 @@
             "de": "Erleben Sie die spektakulären Ockerfelsen, die oft als provenzalisches Colorado bezeichnet werden, und tragen Sie festes Schuhwerk für die unebenen Wanderwege.",
             "hu": "Csodálja meg a látványos okkersziklákat, amelyeket gyakran provence-i Coloradónak neveznek, és viseljen zárt cipőt a helyenként egyenetlen túraútvonalak miatt.",
             "ro": "Experimentați spectaculoasele stânci de ocru, adesea numite Colorado-ul provensal, și purtați încălțăminte robustă, deoarece traseele pot fi destul de denivelate.",
-            "en": "Experience the spectacular ochre cliffs, often referred to as the Provencal Colorado, and make sure to wear sturdy shoes for the occasionally uneven hiking trails."
+            "en": "Experience the spectacular ochre cliffs, often referred to as the Provencal Colorado, and make sure to wear sturdy shoes for the occasionally uneven hiking trails.",
+            "fr": "Découvrez les spectaculaires falaises d'ocre, souvent appelées le Colorado provençal, et veillez à porter des chaussures robustes pour les sentiers de randonnée parfois irréguliers."
           }
         }
       ],
@@ -722,7 +798,8 @@
         "de": "Beginnen Sie mit einem Marktbesuch und lernen Sie danach das Luberon Park House kennen.\n\nFahren Sie zu den Piscines Allard, wo sich die ganze Familie hervorragend abkühlen kann.\n\nEntspannen Sie an der idyllischen Baignade flottante de la Riaille bei schönstem Wetter.\n\nDer Höhepunkt ist die Fahrt zur spektakulären Réserve de Rustrel mit ihren Ockerfelsen.",
         "hu": "Kezdje a piac meglátogatásával, majd ismerkedjen meg a Luberon Park House kiállításaival.\n\nVezessen a Piscines Allard-hoz, ahol az egész család kiválóan felfrissülhet a vízben.\n\nPihenjen az idilli Baignade flottante de la Riaille partján a gyönyörű időben.\n\nA nap fénypontja a látványos Réserve de Rustrel és a különleges okkersziklák felfedezése.",
         "ro": "Începeți cu o vizită la piață și apoi faceți cunoștință cu expoziția de la Casa Parcului.\n\nConduceți la Piscines Allard, unde întreaga familie se poate răcori și distra de minune.\n\nRelaxați-vă pe țărmurile idilice ale Baignade flottante de la Riaille în vremea frumoasă.\n\nPunctul culminant este o excursie la spectaculoasa Rezervație Rustrel cu stâncile sale.",
-        "en": "Start with a visit to the market and then get to know the Luberon Park House exhibits.\n\nDrive to the Piscines Allard where the whole family can cool off and have a great time.\n\nRelax on the idyllic shores of the Baignade flottante de la Riaille in the beautiful weather.\n\nThe highlight is a trip to the spectacular Réserve de Rustrel with its famous ochre cliffs."
+        "en": "Start with a visit to the market and then get to know the Luberon Park House exhibits.\n\nDrive to the Piscines Allard where the whole family can cool off and have a great time.\n\nRelax on the idyllic shores of the Baignade flottante de la Riaille in the beautiful weather.\n\nThe highlight is a trip to the spectacular Réserve de Rustrel with its famous ochre cliffs.",
+        "fr": "Commencez par une visite du marché puis découvrez les expositions de la Maison du Parc du Luberon.\n\nPrenez la voiture jusqu'aux Piscines Allard où toute la famille peut se rafraîchir et s'amuser.\n\nDétendez-vous sur les rives idylliques de la Baignade flottante de la Riaille par beau temps.\n\nLe clou du voyage est l'excursion à la spectaculaire Réserve de Rustrel avec ses célèbres falaises d'ocre."
       },
       "variants": {
         "rainy": {
@@ -730,7 +807,8 @@
             "de": "Eine Autofahrt durch das Luberon im Regen ist entspannt, solange man auf den kurvigen Straßen vorsichtig bleibt. Nach dem Marktbesuch bieten Museen und das Hallenbad perfekte Indoor-Aktivitäten. Die Reserve de Rustrel kann bei Regen schlammig sein, bietet aber dramatische Farben. Den Abend verbringt man am besten in einem warmen Restaurant in Apt.",
             "hu": "Az autóút a Luberonon keresztül esőben is pihentető, amíg óvatosan vezet a kanyargós utakon. A piaci vizit után a múzeumok és a fedett uszoda remek benti programot kínálnak. A Rustrel rezervátum saras lehet, de a színei ilyenkor is lenyűgözőek. Az estét töltse egy hangulatos étteremben Apt városában.",
             "ro": "O călătorie cu mașina prin Luberon pe ploaie este relaxantă, atât timp cât conduceți cu prudență pe drumurile virajate. După piață, muzeele și piscina acoperită oferă activități indoor perfecte. Rezervația Rustrel poate fi noroioasă, dar culorile sunt dramatice. Seara, retrageți-vă într-un restaurant primitor în Apt.",
-            "en": "A car trip through the Luberon in the rain is relaxing as long as you drive carefully on the winding roads. After the market, museums and the indoor pool offer perfect indoor activities. The Rustrel Reserve can be muddy, but its colors are dramatic. Spend the evening in a cozy restaurant back in Apt."
+            "en": "A car trip through the Luberon in the rain is relaxing as long as you drive carefully on the winding roads. After the market, museums and the indoor pool offer perfect indoor activities. The Rustrel Reserve can be muddy, but its colors are dramatic. Spend the evening in a cozy restaurant back in Apt.",
+            "fr": "Un trajet en voiture dans le Luberon sous la pluie est relaxant tant que vous conduisez prudemment sur les routes sinueuses. Après le marché, les musées et la piscine intérieure offrent des activités d'intérieur parfaites. La Réserve de Rustrel peut être boueuse, mais ses couleurs sont dramatiques. Passez la soirée dans un restaurant chaleureux de retour à Apt."
           },
           "stops": [
             {
@@ -738,13 +816,15 @@
                 "de": "Provencal Market of Apt",
                 "hu": "Provencal Market of Apt",
                 "ro": "Provencal Market of Apt",
-                "en": "Provencal Market of Apt"
+                "en": "Provencal Market of Apt",
+                "fr": "Marché provençal d'Apt"
               },
               "tip_5lang": {
                 "de": "Parken Sie in einem der nahen Parkhäuser, um den Regenweg kurz zu halten. Ein großer Regenschirm ist für den Bummel zwischen den Ständen unerlässlich.",
                 "hu": "Parkoljon a közeli parkolóházak egyikében, hogy lerövidítse az esőben való gyaloglást. Egy nagy esernyő elengedhetetlen az árusok közötti nézelődéshez.",
                 "ro": "Parcați într-una dintre parcările acoperite din apropiere pentru a scurta drumul prin ploaie. O umbrelă mare este indispensabilă pentru plimbare.",
-                "en": "Park in one of the nearby parking garages to keep your walk in the rain short. A large umbrella is essential for browsing between the stalls."
+                "en": "Park in one of the nearby parking garages to keep your walk in the rain short. A large umbrella is essential for browsing between the stalls.",
+                "fr": "Garez-vous dans un des parkings à proximité pour réduire la marche sous la pluie. Un grand parapluie est essentiel pour circuler entre les étals."
               }
             },
             {
@@ -752,13 +832,15 @@
                 "de": "Luberon Park House",
                 "hu": "Luberon Park House",
                 "ro": "Luberon Park House",
-                "en": "Luberon Park House"
+                "en": "Luberon Park House",
+                "fr": "Maison du Parc du Luberon"
               },
               "tip_5lang": {
                 "de": "Das Parken direkt davor ist praktisch bei schlechtem Wetter. Nutzen Sie die Zeit, um die Geologie der Region im trockenen Ausstellungsraum zu studieren.",
                 "hu": "A közvetlenül előtte való parkolás nagyon praktikus rossz időben. Használja ki az időt a régió geológiájának tanulmányozására a száraz kiállítótérben.",
                 "ro": "Parcarea direct în față este practică pe vreme rea. Profitați de timp pentru a studia geologia regiunii în sala de expoziție uscată.",
-                "en": "Parking directly in front is convenient in bad weather. Use the time to study the region's geology in the dry and informative exhibition space."
+                "en": "Parking directly in front is convenient in bad weather. Use the time to study the region's geology in the dry and informative exhibition space.",
+                "fr": "Le stationnement juste devant est pratique par mauvais temps. Profitez-en pour étudier la géologie de la région dans l'espace d'exposition sec et informatif."
               }
             },
             {
@@ -766,13 +848,15 @@
                 "de": "Piscines Allard",
                 "hu": "Piscines Allard",
                 "ro": "Piscines Allard",
-                "en": "Piscines Allard"
+                "en": "Piscines Allard",
+                "fr": "Piscines Allard"
               },
               "tip_5lang": {
                 "de": "Der perfekte Ort für einen regnerischen Mittag; das Hallenbad bietet Entspannung pur. Prüfen Sie die Öffnungszeiten, da diese an Regentagen variieren können.",
                 "hu": "Tökéletes helyszín egy esős délidőben; a fedett medence igazi kikapcsolódást nyújt. Ellenőrizze a nyitvatartást, mert esős napokon változhat.",
                 "ro": "Locul perfect pentru un prânz ploios; piscina acoperită oferă relaxare totală. Verificați programul, deoarece acesta poate varia în zilele cu ploaie.",
-                "en": "The perfect spot for a rainy midday; the indoor pool offers pure relaxation. Check the opening hours as they might vary on rainy days."
+                "en": "The perfect spot for a rainy midday; the indoor pool offers pure relaxation. Check the opening hours as they might vary on rainy days.",
+                "fr": "Le lieu parfait pour un midi pluvieux ; la piscine intérieure offre une pure détente. Vérifiez les horaires d'ouverture car ils peuvent varier les jours de pluie."
               }
             },
             {
@@ -780,13 +864,15 @@
                 "de": "Baignade flottante de la Riaille",
                 "hu": "Baignade flottante de la Riaille",
                 "ro": "Baignade flottante de la Riaille",
-                "en": "Baignade flottante de la Riaille"
+                "en": "Baignade flottante de la Riaille",
+                "fr": "Baignade flottante de la Riaille"
               },
               "tip_5lang": {
                 "de": "Genießen Sie den Blick auf den See aus dem warmen Auto oder dem nahen Café. Die Spiegelung der Wolken im Wasser ist auch bei Regen wunderschön.",
                 "hu": "Élvezze a tóra nyíló kilátást a meleg autóból vagy a közeli kávézóból. A felhők tükröződése a vízen esőben is gyönyörű látványt nyújt.",
                 "ro": "Bucurați-vă de vederea spre lac din mașina caldă sau dintr-o cafenea apropiată. Reflexia norilor în apă este superbă chiar și pe ploaie.",
-                "en": "Enjoy the view of the lake from your warm car or a nearby cafe. The reflection of the clouds in the water is beautiful even when it rains."
+                "en": "Enjoy the view of the lake from your warm car or a nearby cafe. The reflection of the clouds in the water is beautiful even when it rains.",
+                "fr": "Appréciez la vue sur le lac depuis votre voiture chauffée ou un café à proximité. Le reflet des nuages dans l'eau est beau même sous la pluie."
               }
             },
             {
@@ -794,13 +880,15 @@
                 "de": "Réserve de Rustrel",
                 "hu": "Réserve de Rustrel",
                 "ro": "Réserve de Rustrel",
-                "en": "Réserve de Rustrel"
+                "en": "Réserve de Rustrel",
+                "fr": "Réserve de Rustrel"
               },
               "tip_5lang": {
                 "de": "Vorsicht, der Ockerboden wird bei Regen extrem rutschig und färbt stark ab. Tragen Sie alte, wasserfeste Schuhe und achten Sie auf sichere Tritte.",
                 "hu": "Vigyázat, az okkeres talaj esőben rendkívül csúszóssá válik és erősen fog. Viseljen régi, vízálló cipőt, és figyeljen minden egyes lépésére.",
                 "ro": "Atenție, solul de ocru devine extrem de alunecos pe ploaie și pătează tare. Purtați încălțăminte veche, impermeabilă și pășiți cu mare grijă.",
-                "en": "Caution: the ochre soil becomes extremely slippery when wet and stains heavily. Wear old, waterproof shoes and watch your footing carefully."
+                "en": "Caution: the ochre soil becomes extremely slippery when wet and stains heavily. Wear old, waterproof shoes and watch your footing carefully.",
+                "fr": "Attention : le sol d'ocre devient extrêmement glissant quand il est mouillé et tâche fortement. Portez de vieilles chaussures imperméables et faites très attention à votre appui."
               }
             }
           ]
@@ -810,7 +898,8 @@
             "de": "Wintertage im Luberon bieten klare Luft und wunderbares Licht für Autofahrer. Nach dem Marktbesuch wärmen Sie sich in den Museen von Apt auf. Ein Besuch im Schwimmbad entspannt die Muskeln bei der Kälte. Die Reserve de Rustrel leuchtet im tiefen Winterlicht besonders intensiv. Planen Sie die Rückfahrt gegen 17:00 Uhr ein, wenn die Sonne hinter den Hügeln verschwindet.",
             "hu": "A téli napok a Luberonban tiszta levegőt és csodás fényeket kínálnak az autósoknak. A piaci séta után melegedjen fel Apt múzeumaiban. Egy úszás a medencében ellazítja az izmokat a hidegben. A Rustrel rezervátum színei az alacsony téli napfényben különösen élénkek. Tervezze a visszautat 17:00 körülre, amikor a nap eltűnik a dombok mögött.",
             "ro": "Zilele de iarnă în Luberon oferă aer curat și lumini minunate pentru șoferi. După piață, încălziți-vă în muzeele din Apt. O vizită la piscină vă va relaxa mușchii în frigul de afară. Rezervația Rustrel strălucește intens în lumina joasă de iarnă. Planificați întoarcerea în jur de ora 17:00, când soarele dispare după dealuri.",
-            "en": "Winter days in the Luberon offer crisp air and wonderful light for driving. After the market visit, warm up in the museums of Apt. A visit to the pool relaxes your muscles in the cold. The Rustrel Reserve glows intensely in the low winter light. Plan your drive back around 17:00 as the sun disappears behind the hills."
+            "en": "Winter days in the Luberon offer crisp air and wonderful light for driving. After the market visit, warm up in the museums of Apt. A visit to the pool relaxes your muscles in the cold. The Rustrel Reserve glows intensely in the low winter light. Plan your drive back around 17:00 as the sun disappears behind the hills.",
+            "fr": "Les journées d'hiver dans le Luberon offrent un air vif et une lumière merveilleuse pour la conduite. Après la visite du marché, réchauffez-vous dans les musées d'Apt. Une visite à la piscine détend vos muscles dans le froid. La Réserve de Rustrel brille intensément dans la faible lumière hivernale. Prévoyez votre retour vers 17:00 car le soleil disparaît derrière les collines."
           },
           "stops": [
             {
@@ -818,13 +907,15 @@
                 "de": "Provencal Market of Apt",
                 "hu": "Provencal Market of Apt",
                 "ro": "Provencal Market of Apt",
-                "en": "Provencal Market of Apt"
+                "en": "Provencal Market of Apt",
+                "fr": "Marché provençal d'Apt"
               },
               "tip_5lang": {
                 "de": "Nutzen Sie die Sitzheizung auf dem Rückweg zum Auto. Der Wintermarkt bietet tolle regionale Produkte wie Olivenöl und Wein für gemütliche Abende.",
                 "hu": "Használja az ülésfűtést, amikor visszaér az autóhoz. A téli piacon kiváló helyi termékeket, például olívaolajat és bort vásárolhat a kuckózós estékre.",
                 "ro": "Folosiți încălzirea în scaune la întoarcerea la mașină. Piața de iarnă oferă produse regionale excelente, cum ar fi ulei de măsline și vin local.",
-                "en": "Make use of the seat heating when returning to your car. The winter market offers great local products like olive oil and wine for cozy evenings."
+                "en": "Make use of the seat heating when returning to your car. The winter market offers great local products like olive oil and wine for cozy evenings.",
+                "fr": "Utilisez le chauffage des sièges au retour à la voiture. Le marché hivernal propose d'excellents produits locaux comme l'huile d'olive et le vin pour des soirées cosy."
               }
             },
             {
@@ -832,13 +923,15 @@
                 "de": "Luberon Park House",
                 "hu": "Luberon Park House",
                 "ro": "Luberon Park House",
-                "en": "Luberon Park House"
+                "en": "Luberon Park House",
+                "fr": "Maison du Parc du Luberon"
               },
               "tip_5lang": {
                 "de": "Ein warmer Zwischenstopp mit interessanten Informationen zur winterlichen Flora und Fauna. Die Parkplätze in der Nähe sind im Winter meist problemlos verfügbar.",
                 "hu": "Meleg pihenőhely érdekes információkkal a téli flóráról és faunáról. A közeli parkolóhelyek télen általában gond nélkül rendelkezésre állnak.",
                 "ro": "O oprire călduroasă cu informații interesante despre flora și fauna de iarnă. Locurile de parcare din apropiere sunt ușor de găsit în acest sezon.",
-                "en": "A warm stopover with interesting information about winter flora and fauna. Parking spaces nearby are usually readily available during the winter."
+                "en": "A warm stopover with interesting information about winter flora and fauna. Parking spaces nearby are usually readily available during the winter.",
+                "fr": "Une halte chaleureuse avec des informations intéressantes sur la flore et la faune hivernales. Les places de parking à proximité sont généralement disponibles en hiver."
               }
             },
             {
@@ -846,13 +939,15 @@
                 "de": "Piscines Allard",
                 "hu": "Piscines Allard",
                 "ro": "Piscines Allard",
-                "en": "Piscines Allard"
+                "en": "Piscines Allard",
+                "fr": "Piscines Allard"
               },
               "tip_5lang": {
                 "de": "Perfekt, um die Kälte draußen zu vergessen und im beheizten Becken Bahnen zu ziehen. Denken Sie an warme Kleidung für den Weg zurück zum Parkplatz.",
                 "hu": "Tökéletes a kinti hideg elfelejtésére és a fűtött medencében való úszásra. Ne felejtsen el melegen felöltözni, mielőtt visszamegy a parkolóhoz.",
                 "ro": "Perfect pentru a uita de frigul de afară și a înota în bazinul încălzit. Nu uitați să vă îmbrăcați bine pentru drumul înapoi spre parcare.",
-                "en": "Perfect for forgetting the cold outside and swimming laps in the heated pool. Remember to dress warmly for the walk back to the parking lot."
+                "en": "Perfect for forgetting the cold outside and swimming laps in the heated pool. Remember to dress warmly for the walk back to the parking lot.",
+                "fr": "Parfait pour oublier le froid extérieur et nager des longueurs dans la piscine chauffée. Pensez à vous habiller chaudement pour le retour au parking."
               }
             },
             {
@@ -860,13 +955,15 @@
                 "de": "Baignade flottante de la Riaille",
                 "hu": "Baignade flottante de la Riaille",
                 "ro": "Baignade flottante de la Riaille",
-                "en": "Baignade flottante de la Riaille"
+                "en": "Baignade flottante de la Riaille",
+                "fr": "Baignade flottante de la Riaille"
               },
               "tip_5lang": {
                 "de": "Das klare Winterwetter bietet eine weite Sicht über den spiegelglatten See. Bleiben Sie für einen kurzen Spaziergang am Ufer, bevor die Kälte einzieht.",
                 "hu": "A tiszta téli időben messzire ellátni a tükörsima tó felett. Tehet egy rövid sétát a parton, mielőtt a naplemente után hirtelen lehűlne a levegő.",
                 "ro": "Vremea clară de iarnă oferă o vizibilitate mare peste lacul liniștit. Rămâneți pentru o scurtă plimbare pe mal înainte de lăsarea serii.",
-                "en": "The clear winter weather offers far-reaching views over the glassy lake. Stay for a short walk along the shore before the cold sets in after sunset."
+                "en": "The clear winter weather offers far-reaching views over the glassy lake. Stay for a short walk along the shore before the cold sets in after sunset.",
+                "fr": "Le temps clair d'hiver offre de vastes vues sur le lac miroitant. Restez pour une courte promenade le long de la rive avant que le froid n'arrive après le coucher du soleil."
               }
             },
             {
@@ -874,13 +971,15 @@
                 "de": "Réserve de Rustrel",
                 "hu": "Réserve de Rustrel",
                 "ro": "Réserve de Rustrel",
-                "en": "Réserve de Rustrel"
+                "en": "Réserve de Rustrel",
+                "fr": "Réserve de Rustrel"
               },
               "tip_5lang": {
                 "de": "Die Farben des Colorado Provençal sind im tiefstehenden Winterlicht atemberaubend. Planen Sie den Besuch gegen 15:00 Uhr, um das beste Licht zu nutzen.",
                 "hu": "A Colorado Provençal színei lélegzetelállítóak az alacsony téli napfényben. Időzítse a látogatást 15:00 környékére a legszebb fényekért.",
                 "ro": "Culorile de la Colorado Provençal sunt uluitoare în lumina joasă de iarnă. Planificați vizita în jur de ora 15:00 pentru cea mai bună lumină.",
-                "en": "The colors of the Colorado Provençal are breathtaking in the low winter light. Plan your visit around 15:00 to make the most of the golden hour."
+                "en": "The colors of the Colorado Provençal are breathtaking in the low winter light. Plan your visit around 15:00 to make the most of the golden hour.",
+                "fr": "Les couleurs du Colorado Provençal sont à couper le souffle sous la faible lumière hivernale. Planifiez votre visite vers 15:00 pour profiter au mieux de l'heure dorée."
               }
             }
           ]

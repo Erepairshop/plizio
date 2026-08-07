@@ -31,7 +31,8 @@
             "de": "Bewundern Sie das Grand Théâtre am Morgen.",
             "hu": "Csodálja meg a Grand Théâtre épületét reggel.",
             "ro": "Admirați Grand Théâtre în lumina dimineții.",
-            "en": "Admire the Grand Théâtre in the morning light."
+            "en": "Admire the Grand Théâtre in the morning light.",
+            "fr": "Admirez le Grand Théâtre à la lumière du matin."
           }
         },
         {
@@ -49,7 +50,8 @@
             "de": "Suchen Sie den 'Piss-Männchen' an der Fassade.",
             "hu": "Keresse meg a vicces faragványokat a fagerendákon.",
             "ro": "Căutați sculpturile amuzante de pe fațadă.",
-            "en": "Look for the whimsical carvings on the timber frame."
+            "en": "Look for the whimsical carvings on the timber frame.",
+            "fr": "Cherchez les sculptures fantaisistes sur la charpente en bois."
           }
         },
         {
@@ -67,7 +69,8 @@
             "de": "Die Glasmalerei aus dem 12. Jh. ist spektakulär.",
             "hu": "A 12. századi üvegablakok világhírűek.",
             "ro": "Vitraliile din secolul XII sunt spectaculoase.",
-            "en": "The 12th-century stained glass is world-famous."
+            "en": "The 12th-century stained glass is world-famous.",
+            "fr": "Les vitraux du XIIe siècle sont mondialement célèbres."
           }
         },
         {
@@ -85,7 +88,8 @@
             "de": "Der Wandteppich der Apokalypse ist ein Muss.",
             "hu": "Az Apokalipszis-faliszőnyeg kötelező látnivaló.",
             "ro": "Tapiseria Apocalipsei este o capodoperă.",
-            "en": "The Apocalypse Tapestry is an absolute must-see."
+            "en": "The Apocalypse Tapestry is an absolute must-see.",
+            "fr": "La Tapisserie de l'Apocalypse est un incontournable absolu."
           }
         },
         {
@@ -103,7 +107,8 @@
             "de": "Einzigartige Skulpturen unter einem Glasdach.",
             "hu": "Egyedülálló szobrok a modern üvegtető alatt.",
             "ro": "Sculpturi unice sub un acoperiș modern de sticlă.",
-            "en": "Unique sculptures under a stunning glass roof."
+            "en": "Unique sculptures under a stunning glass roof.",
+            "fr": "Sculptures uniques sous une magnifique toiture en verre."
           }
         },
         {
@@ -121,7 +126,8 @@
             "de": "Besuchen Sie die Voliere und den kleinen Bach.",
             "hu": "Nézze meg a madárházat és a kis patakot.",
             "ro": "Vizitați voliera și pârâul liniștit.",
-            "en": "Visit the aviary and the tranquil stream."
+            "en": "Visit the aviary and the tranquil stream.",
+            "fr": "Visitez la volière et le ruisseau paisible."
           }
         }
       ],
@@ -129,7 +135,8 @@
         "de": "Morgen: Start am Place du Ralliement und Besichtigung des Adam-Hauses. Mittag: Die majestätische Kathedrale und das Schloss mit dem berühmten Teppich. Nachmittag: Kunst in der Galerie David d'Angers. Abend: Entspannung im Jardin des Plantes. Angers verbindet mittelalterliche Strenge mit französischer Eleganz.",
         "hu": "Reggel: Kezdés a Place du Ralliement téren és az Ádám-háznál. Délben: A katedrális és a vár megtekintése az Apokalipszis-faliszőnyeggel. Délután: Szobrászati remekművek a Galerie David d'Angers-ben. Este: Pihenés a botanikus kertben. Angers a Plantagenet-örökség és a Loire-menti nyugalom városa.",
         "ro": "Dimineața: Începeți în Place du Ralliement și admirați Maison d'Adam. Prânz: Vizitați Catedrala și Castelul cu faimoasa tapiserie. După-amiaza: Sculpturi impresionante la Galerie David d'Angers. Seara: Relaxare în Grădina Botanică. Angers îmbină istoria medievală cu eleganța modernă a văii Loarei.",
-        "en": "Morning: Start at Place du Ralliement and see the timber-framed Maison d'Adam. Midday: Explore the Cathedral and the fortress housing the Apocalypse Tapestry. Afternoon: Marvel at the sculptures in Galerie David d'Angers. Evening: Unwind in the Jardin des Plantes. Angers perfectly blends Plantagenet history with relaxed Loire Valley vibes."
+        "en": "Morning: Start at Place du Ralliement and see the timber-framed Maison d'Adam. Midday: Explore the Cathedral and the fortress housing the Apocalypse Tapestry. Afternoon: Marvel at the sculptures in Galerie David d'Angers. Evening: Unwind in the Jardin des Plantes. Angers perfectly blends Plantagenet history with relaxed Loire Valley vibes.",
+        "fr": "Matin : Commencez à la Place du Ralliement et voyez la maison à pans de bois Maison d'Adam. Midi : Explorez la Cathédrale et la forteresse abritant la Tapisserie de l'Apocalypse. Après-midi : Émerveillez-vous devant les sculptures de la Galerie David d'Angers. Soir : Détendez-vous au Jardin des Plantes. Angers allie parfaitement l'histoire plantagenêt à l'atmosphère détendue de la vallée de la Loire."
       },
       "gastro_picks": {
         "de": [
@@ -289,6 +296,12 @@
           "Consider a City Pass for free museum entries.",
           "Try Cointreau, which originated in this city.",
           "The cathedral is quieter during lunch hours."
+        ],
+        "fr": [
+          "Angers est très agréable pour les piétons et facile à parcourir.",
+          "Envisagez un City Pass pour des entrées gratuites aux musées.",
+          "Goûtez le Cointreau, originaire de cette ville.",
+          "La cathédrale est plus calme pendant l'heure du déjeuner."
         ]
       }
     },
@@ -315,7 +328,8 @@
             "de": "Zentraler Treffpunkt.",
             "hu": "Központi találkozóhely.",
             "ro": "Punct central de întâlnire.",
-            "en": "Central meeting point."
+            "en": "Central meeting point.",
+            "fr": "Point de rendez-vous central."
           }
         },
         {
@@ -333,7 +347,8 @@
             "de": "Fahrradparkplätze am Eingang.",
             "hu": "Kerékpártárolók a bejáratnál.",
             "ro": "Parcare pentru biciclete la intrare.",
-            "en": "Bike parking available at the entrance."
+            "en": "Bike parking available at the entrance.",
+            "fr": "Stationnement vélo disponible à l'entrée."
           }
         },
         {
@@ -351,7 +366,8 @@
             "de": "Überqueren Sie die Maine-Brücke.",
             "hu": "Tekerjen át a Maine-hídon.",
             "ro": "Traversați râul Maine pe pod.",
-            "en": "Cycle across the Maine river bridge."
+            "en": "Cycle across the Maine river bridge.",
+            "fr": "Traversez à vélo le pont sur la Maine."
           }
         },
         {
@@ -369,7 +385,8 @@
             "de": "Der erste Pflanzenpark Europas.",
             "hu": "Európa első tematikus növénykertje.",
             "ro": "Primul parc tematic de plante din Europa.",
-            "en": "Europe's first plant-themed adventure park."
+            "en": "Europe's first plant-themed adventure park.",
+            "fr": "Premier parc d'aventure européen sur le thème des plantes."
           }
         },
         {
@@ -387,7 +404,8 @@
             "de": "Ein schöner Ort zum Verschnaufen.",
             "hu": "Tökéletes hely egy kis pihenőre.",
             "ro": "Loc perfect pentru o pauză.",
-            "en": "A perfect spot for a short break."
+            "en": "A perfect spot for a short break.",
+            "fr": "Un endroit parfait pour une courte pause."
           }
         }
       ],
@@ -395,7 +413,8 @@
         "de": "Entdecken Sie Angers und seine Umgebung mit dem Fahrrad. Start im Zentrum, dann über den Fluss zum Lurçat-Museum. Highlight ist der Besuch des Terra Botanica Parks im Norden. Eine grüne Tour durch die 'Stadt der Blumen'.",
         "hu": "Fedezze fel Angerst és környékét két keréken. Kezdjen a központban, tekerjen át a folyón a Lurçat múzeumhoz. A nap fénypontja az északi Terra Botanica park. Zöld túra a virágok városában.",
         "ro": "Explorați Angers și împrejurimile pe bicicletă. Începeți în centru, apoi traversați râul spre muzeul Lurçat. Punctul culminant este parcul Terra Botanica din nord. Un tur verde prin orașul florilor.",
-        "en": "Explore Angers and its surroundings by bike. Start in the center, cross the river to the Lurçat Museum, and head north to the impressive Terra Botanica park. A green tour through the city of flowers."
+        "en": "Explore Angers and its surroundings by bike. Start in the center, cross the river to the Lurçat Museum, and head north to the impressive Terra Botanica park. A green tour through the city of flowers.",
+        "fr": "Explorez Angers et ses alentours à vélo. Commencez au centre, traversez la rivière jusqu'au musée Lurçat, puis dirigez-vous au nord vers l'imposant parc Terra Botanica. Une visite verte à travers la ville fleurie."
       },
       "gastro_picks": {
         "de": [
@@ -495,6 +514,10 @@
         "en": [
           "Follow the 'Loire à Vélo' cycling paths.",
           "Terra Botanica is huge; allow plenty of time."
+        ],
+        "fr": [
+          "Suivez les itinéraires cyclables « Loire à Vélo ».",
+          "Terra Botanica est immense ; prévoyez suffisamment de temps."
         ]
       }
     },
@@ -521,7 +544,8 @@
             "de": "Parkhaus unter dem Platz nutzen.",
             "hu": "Használja a tér alatti parkolóházat.",
             "ro": "Folosiți parcarea subterană.",
-            "en": "Use the underground parking garage."
+            "en": "Use the underground parking garage.",
+            "fr": "Utilisez le parking souterrain."
           }
         },
         {
@@ -539,7 +563,8 @@
             "de": "Zu Fuß vom Parkhaus erreichbar.",
             "hu": "Gyalogosan elérhető a parkolótól.",
             "ro": "Accesibil pe jos de la parcare.",
-            "en": "Short walk from the parking area."
+            "en": "Short walk from the parking area.",
+            "fr": "Courte marche depuis la zone de stationnement."
           }
         },
         {
@@ -557,7 +582,8 @@
             "de": "Beeindruckende Stadtmauern.",
             "hu": "Lenyűgöző várfalak.",
             "ro": "Ziduri de apărare impresionante.",
-            "en": "Impressive fortress walls."
+            "en": "Impressive fortress walls.",
+            "fr": "Impressionnantes murailles de la forteresse."
           }
         },
         {
@@ -575,7 +601,8 @@
             "de": "Großer kostenloser Parkplatz.",
             "hu": "Hatalmas ingyenes parkoló.",
             "ro": "Parcare mare gratuită.",
-            "en": "Large free parking lot available."
+            "en": "Large free parking lot available.",
+            "fr": "Grand parking gratuit disponible."
           }
         }
       ],
@@ -583,7 +610,8 @@
         "de": "Diese Tour kombiniert das historische Zentrum mit dem modernen botanischen Park. Parken Sie im Zentrum für die Kathedrale und das Schloss, dann fahren Sie bequem zum Terra Botanica im Norden. Ideal für Familien.",
         "hu": "Ez a túra ötvözi a történelmi belvárost a modern botanikai élményparkkal. Parkoljon a központban a vár és a katedrális megtekintéséhez, majd autózzon kényelmesen északra a Terra Botanica-hoz. Ideális családoknak.",
         "ro": "Acest tur combină centrul istoric cu parcul botanic modern. Parcați în centru pentru catedrală și castel, apoi conduceți relaxat spre Terra Botanica în nord. Ideal pentru familii.",
-        "en": "This tour combines the historic center with a modern botanical adventure park. Park in the center for the cathedral and castle, then drive comfortably north to Terra Botanica. Perfect for families."
+        "en": "This tour combines the historic center with a modern botanical adventure park. Park in the center for the cathedral and castle, then drive comfortably north to Terra Botanica. Perfect for families.",
+        "fr": "Cette visite combine le centre historique avec un parc botanique moderne. Gare au centre pour la cathédrale et le château, puis conduisez confortablement au nord jusqu'à Terra Botanica. Parfait pour les familles."
       },
       "gastro_picks": {
         "de": [
@@ -684,6 +712,10 @@
         "en": [
           "Avoid rush hour in the city center.",
           "Use 'Parking Ralliement' for easy access."
+        ],
+        "fr": [
+          "Évitez l'heure de pointe dans le centre-ville.",
+          "Utilisez « Parking Ralliement » pour un accès facile."
         ]
       }
     },
@@ -710,7 +742,8 @@
             "de": "Zentraler Straßenbahn-Knotenpunkt.",
             "hu": "Központi villamoscsomópont.",
             "ro": "Nod central de tramvai.",
-            "en": "Central tram hub."
+            "en": "Central tram hub.",
+            "fr": "Nœud central du tram."
           }
         },
         {
@@ -728,7 +761,8 @@
             "de": "Haltestelle 'Château' (Linie B).",
             "hu": "Megálló: 'Château' (B vonal).",
             "ro": "Stația 'Château' (Linia B).",
-            "en": "Get off at 'Château' station (Line B)."
+            "en": "Get off at 'Château' station (Line B).",
+            "fr": "Descendez à la station « Château » (ligne B)."
           }
         },
         {
@@ -746,7 +780,8 @@
             "de": "Buslinie 3 oder Straßenbahn A.",
             "hu": "3-as busz vagy A villamos.",
             "ro": "Autobuzul 3 sau tramvaiul A.",
-            "en": "Take bus line 3 or tram line A."
+            "en": "Take bus line 3 or tram line A.",
+            "fr": "Prenez la ligne de bus 3 ou la ligne de tram A."
           }
         },
         {
@@ -764,7 +799,8 @@
             "de": "Straßenbahnlinie A bis Endstation.",
             "hu": "A villamos a végállomásig.",
             "ro": "Linia de tramvai A până la capăt.",
-            "en": "Tram line A to the northern terminus."
+            "en": "Tram line A to the northern terminus.",
+            "fr": "Tram ligne A jusqu'à la première/terminus nord."
           }
         },
         {
@@ -782,7 +818,8 @@
             "de": "Nähe Haltestelle 'Foch-Maison Bleue'.",
             "hu": "A 'Foch-Maison Bleue' megálló közelében.",
             "ro": "Lângă stația 'Foch-Maison Bleue'.",
-            "en": "Near 'Foch-Maison Bleue' station."
+            "en": "Near 'Foch-Maison Bleue' station.",
+            "fr": "Près de la station « Foch-Maison Bleue »."
           }
         }
       ],
@@ -790,7 +827,8 @@
         "de": "Das effiziente Straßenbahnnetz von Angers macht diese Tour sehr einfach. Besuchen Sie das Schloss und die Museen im Zentrum und fahren Sie dann mit der Linie A direkt zum Terra Botanica. Modern und umweltfreundlich.",
         "hu": "Angers hatékony villamoshálózata rendkívül egyszerűvé teszi ezt a túrát. Látogassa meg a várat és a múzeumokat a központban, majd az A vonallal menjen ki a Terra Botanicába. Modern és környezetbarát.",
         "ro": "Rețeaua eficientă de tramvaie din Angers face acest tur foarte ușor. Vizitați castelul și muzeele din centru, apoi luați linia A direct spre Terra Botanica. Modern și ecologic.",
-        "en": "Angers' efficient tram network makes this tour a breeze. Explore the castle and museums in the center, then take tram line A directly to Terra Botanica. Modern and eco-friendly sightseeing."
+        "en": "Angers' efficient tram network makes this tour a breeze. Explore the castle and museums in the center, then take tram line A directly to Terra Botanica. Modern and eco-friendly sightseeing.",
+        "fr": "Le réseau de tram efficace d'Angers facilite cette visite. Explorez le château et les musées du centre, puis prenez la ligne A du tram directement jusqu'à Terra Botanica. Moderne et écologique pour découvrir la ville."
       },
       "gastro_picks": {
         "de": [
@@ -891,6 +929,10 @@
         "en": [
           "Use the 'Irigo' app for schedules.",
           "A day pass is very cost-effective."
+        ],
+        "fr": [
+          "Utilisez l'application « Irigo » pour les horaires.",
+          "Un pass journée est très économique."
         ]
       }
     }

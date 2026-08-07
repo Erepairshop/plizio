@@ -21,7 +21,8 @@
             "de": "Altstadt von Foix",
             "hu": "Foix óvárosa",
             "ro": "Centrul vechi din Foix",
-            "en": "Foix Old Town"
+            "en": "Foix Old Town",
+            "fr": "Vieille Ville de Foix"
           },
           "coords": [
             1.606,
@@ -36,7 +37,8 @@
             "de": "Frühstücken Sie in einem der Cafés am Place Parmentier.",
             "hu": "Reggelizz a Place Parmentier egyik kávézójában.",
             "ro": "Luați micul dejun la una dintre cafenelele din Place Parmentier.",
-            "en": "Have breakfast at one of the cafes in Place Parmentier."
+            "en": "Have breakfast at one of the cafes in Place Parmentier.",
+            "fr": "Prendre le petit-déjeuner dans un des cafés de la Place Parmentier."
           }
         },
         {
@@ -44,7 +46,8 @@
             "de": "Abtei Saint-Volusien",
             "hu": "Saint-Volusien apátság",
             "ro": "Abația Saint-Volusien",
-            "en": "Saint-Volusien Abbey"
+            "en": "Saint-Volusien Abbey",
+            "fr": "Abbaye Saint-Volusien"
           },
           "coords": [
             1.606,
@@ -59,7 +62,8 @@
             "de": "Bewundern Sie das romanische Portal und die gotischen Kirchenschiffe.",
             "hu": "Csodáld meg a román stílusú kaput és a gótikus hajót.",
             "ro": "Admirați portalul romanic și navele gotice.",
-            "en": "Admire the Romanesque portal and Gothic naves."
+            "en": "Admire the Romanesque portal and Gothic naves.",
+            "fr": "Admirez le portail roman et les nefs gothiques."
           }
         },
         {
@@ -67,7 +71,8 @@
             "de": "Burg Foix",
             "hu": "Foix vára",
             "ro": "Castelul Foix",
-            "en": "Foix Castle"
+            "en": "Foix Castle",
+            "fr": "Château de Foix"
           },
           "coords": [
             1.605,
@@ -82,7 +87,8 @@
             "de": "Interaktives Museum mit Vorführungen mittelalterlicher Maschinen.",
             "hu": "Interaktív múzeum középkori gépbemutatókkal.",
             "ro": "Muzeu interactiv cu demonstrații de mașini medievale.",
-            "en": "Interactive museum with demonstrations of medieval machines."
+            "en": "Interactive museum with demonstrations of medieval machines.",
+            "fr": "Musée interactif avec démonstrations de machines médiévales."
           }
         },
         {
@@ -90,7 +96,8 @@
             "de": "Allées de Villote",
             "hu": "Allées de Villote sétány",
             "ro": "Promenada Allées de Villote",
-            "en": "Allées de Villote Promenade"
+            "en": "Allées de Villote Promenade",
+            "fr": "Promenade des Allées de Villote"
           },
           "coords": [
             1.607,
@@ -105,7 +112,8 @@
             "de": "Der ideale Ort für eine Mittagspause im Schatten der Platanen.",
             "hu": "Ideális hely egy ebédszünethez a platánok árnyékában.",
             "ro": "Locul ideal pentru o pauză de prânz la umbra platanilor.",
-            "en": "The ideal place for a lunch break under the shade of plane trees."
+            "en": "The ideal place for a lunch break under the shade of plane trees.",
+            "fr": "L'endroit idéal pour une pause déjeuner à l'ombre des platanes."
           }
         },
         {
@@ -113,7 +121,8 @@
             "de": "Alte Brücke (Pont Vieux)",
             "hu": "Öreg híd",
             "ro": "Podul Vechi",
-            "en": "Old Bridge"
+            "en": "Old Bridge",
+            "fr": "Pont Vieux"
           },
           "coords": [
             1.607,
@@ -128,7 +137,8 @@
             "de": "Bester Fotospot für die Burg über dem Fluss Ariège.",
             "hu": "A legjobb fotópont a várra az Ariège-folyó felett.",
             "ro": "Cel mai bun punct foto pentru castel deasupra râului Ariège.",
-            "en": "Best photo spot for the castle over the Ariège river."
+            "en": "Best photo spot for the castle over the Ariège river.",
+            "fr": "Meilleur point photo pour le château au-dessus de l'Ariège."
           }
         },
         {
@@ -136,7 +146,8 @@
             "de": "Departement-Museum",
             "hu": "Megyei Múzeum",
             "ro": "Muzeul Departamental",
-            "en": "Departmental Museum"
+            "en": "Departmental Museum",
+            "fr": "Musée départemental"
           },
           "coords": [
             1.605,
@@ -151,7 +162,8 @@
             "de": "Erfahren Sie mehr über die Geschichte der Grafschaft Foix.",
             "hu": "Ismerd meg Foix grófságának történelmét.",
             "ro": "Aflați mai multe despre istoria comitatului Foix.",
-            "en": "Learn more about the history of the County of Foix."
+            "en": "Learn more about the history of the County of Foix.",
+            "fr": "En savoir plus sur l'histoire du comté de Foix."
           }
         }
       ],
@@ -159,7 +171,8 @@
         "de": "Entdecken Sie das Herz der Grafschaft Foix zu Fuß. Der Vormittag gehört der mittelalterlichen Altstadt und der imposanten Burg, die über der Stadt thront. Nach einem ausgiebigen Mittagessen im Schatten der Villote-Alleen spazieren Sie entlang der Ariège und genießen die Aussicht von der alten Brücke, bevor Sie den Tag mit Kultur im Museum abschließen.",
         "hu": "Fedezd fel Foix grófság szívét gyalogosan. A délelőtt a középkori óvárosé és a város fölé magasodó impozáns váré. Egy kiadós ebéd után a Villote sétány platánjai alatt, sétálj az Ariège partján, élvezd a kilátást az öreg hídról, majd zárd a napot kulturális élményekkel a helyi múzeumban.",
         "ro": "Descoperiți inima comitatului Foix la pas. Dimineața aparține orașului vechi medieval și castelului impunător care domină orașul. După un prânz copios la umbra aleilor Villote, plimbați-vă de-a lungul râului Ariège și bucurați-vă de priveliștea de pe podul vechi, înainte de a încheia ziua cu cultură la muzeu.",
-        "en": "Explore the heart of the County of Foix on foot. The morning is dedicated to the medieval old town and the imposing castle towering over the city. After a leisurely lunch under the plane trees of the Villote avenues, stroll along the Ariège river and enjoy the views from the old bridge before ending the day with culture at the museum."
+        "en": "Explore the heart of the County of Foix on foot. The morning is dedicated to the medieval old town and the imposing castle towering over the city. After a leisurely lunch under the plane trees of the Villote avenues, stroll along the Ariège river and enjoy the views from the old bridge before ending the day with culture at the museum.",
+        "fr": "Explorez le cœur du comté de Foix à pied. La matinée est consacrée à la vieille ville médiévale et à l'imposant château qui domine la cité. Après un déjeuner tranquille sous les platanes des Allées de Villote, flânez le long de l'Ariège et profitez des vues depuis le pont Vieux avant de terminer la journée par une visite au musée."
       },
       "gastro_picks": {
         "de": [
@@ -275,6 +288,10 @@
         "en": [
           "Wear comfortable shoes for the climb to the castle.",
           "Visit the castle early to avoid the crowds."
+        ],
+        "fr": [
+          "Portez des chaussures confortables pour la montée au château.",
+          "Visitez le château tôt pour éviter la foule."
         ]
       }
     },
@@ -291,7 +308,8 @@
             "de": "Allées de Villote",
             "hu": "Allées de Villote",
             "ro": "Allées de Villote",
-            "en": "Allées de Villote"
+            "en": "Allées de Villote",
+            "fr": "Allées de Villote"
           },
           "coords": [
             1.607,
@@ -306,7 +324,8 @@
             "de": "Startpunkt für Radtouren in der Stadt.",
             "hu": "A városi kerékpártúrák kiindulópontja.",
             "ro": "Punctul de plecare pentru tururile cu bicicleta în oraș.",
-            "en": "Starting point for bike tours in the city."
+            "en": "Starting point for bike tours in the city.",
+            "fr": "Point de départ des circuits à vélo en ville."
           }
         },
         {
@@ -314,7 +333,8 @@
             "de": "Burg Foix",
             "hu": "Foix vára",
             "ro": "Castelul Foix",
-            "en": "Foix Castle"
+            "en": "Foix Castle",
+            "fr": "Château de Foix"
           },
           "coords": [
             1.605,
@@ -329,7 +349,8 @@
             "de": "Stellen Sie Ihr Rad unten am bewachten Parkplatz ab.",
             "hu": "Zárd le a bringát lent az őrzött parkolónál.",
             "ro": "Lăsați bicicleta jos, la parcarea supravegheată.",
-            "en": "Park your bike below at the guarded parking lot."
+            "en": "Park your bike below at the guarded parking lot.",
+            "fr": "Garez votre vélo en bas, au parking gardé."
           }
         },
         {
@@ -337,7 +358,8 @@
             "de": "Pont Vieux",
             "hu": "Pont Vieux",
             "ro": "Pont Vieux",
-            "en": "Pont Vieux"
+            "en": "Pont Vieux",
+            "fr": "Pont Vieux"
           },
           "coords": [
             1.607,
@@ -352,7 +374,8 @@
             "de": "Kurzer Stopp für Panoramafotos.",
             "hu": "Rövid megálló panorámafotókhoz.",
             "ro": "O scurtă oprire pentru fotografii panoramice.",
-            "en": "Short stop for panoramic photos."
+            "en": "Short stop for panoramic photos.",
+            "fr": "Arrêt court pour photos panoramiques."
           }
         },
         {
@@ -360,7 +383,8 @@
             "de": "Fluss Ariège Radweg",
             "hu": "Ariège-folyó kerékpárút",
             "ro": "Pista de biciclete râul Ariège",
-            "en": "Ariège River Bike Path"
+            "en": "Ariège River Bike Path",
+            "fr": "Piste cyclable le long de l'Ariège"
           },
           "coords": [
             1.609,
@@ -375,7 +399,8 @@
             "de": "Flacher Weg entlang des Wassers nach Süden.",
             "hu": "Lapos út a víz mentén dél felé.",
             "ro": "Traseu plat de-a lungul apei spre sud.",
-            "en": "Flat path along the water heading south."
+            "en": "Flat path along the water heading south.",
+            "fr": "Itinéraire plat le long de l'eau en direction du sud."
           }
         },
         {
@@ -383,7 +408,8 @@
             "de": "Forges de Pyrène",
             "hu": "Forges de Pyrène",
             "ro": "Forges de Pyrène",
-            "en": "Forges de Pyrène"
+            "en": "Forges de Pyrène",
+            "fr": "Forges de Pyrène"
           },
           "coords": [
             1.595,
@@ -398,7 +424,8 @@
             "de": "Ein Dorf von damals mit alten Handwerkstechniken.",
             "hu": "Egykori falu régi kézműves technikákkal.",
             "ro": "Un sat de odinioară cu tehnici artizanale vechi.",
-            "en": "A village of yesteryear with old craft techniques."
+            "en": "A village of yesteryear with old craft techniques.",
+            "fr": "Un village d'antan avec d'anciennes techniques artisanales."
           }
         },
         {
@@ -406,7 +433,8 @@
             "de": "Abtei Saint-Volusien",
             "hu": "Saint-Volusien apátság",
             "ro": "Abația Saint-Volusien",
-            "en": "Saint-Volusien Abbey"
+            "en": "Saint-Volusien Abbey",
+            "fr": "Abbaye Saint-Volusien"
           },
           "coords": [
             1.606,
@@ -421,7 +449,8 @@
             "de": "Rückkehr ins Zentrum für den kulturellen Abschluss.",
             "hu": "Visszatérés a központba a kulturális záráshoz.",
             "ro": "Revenire în centru pentru finalul cultural.",
-            "en": "Return to the center for the cultural finale."
+            "en": "Return to the center for the cultural finale.",
+            "fr": "Retour au centre pour la finale culturelle."
           }
         }
       ],
@@ -429,7 +458,8 @@
         "de": "Diese Radtour verbindet die Geschichte von Foix mit den malerischen Wegen entlang der Ariège. Nach dem Besuch der Burg fahren Sie flussabwärts zu den Forges de Pyrène, einem lebendigen Museumsdorf, das die Traditionen der Pyrenäen bewahrt. Eine ideale Tour für aktive Reisende, die mehr als nur das Stadtzentrum sehen möchten.",
         "hu": "Ez a kerékpártúra ötvözi Foix történelmét az Ariège menti festői utakkal. A vár megtekintése után a folyó mentén a Forges de Pyrène-hez tekerünk, amely egy élő skanzen, megőrizve a Pireneusok hagyományait. Ideális túra aktív utazóknak, akik a városközponton kívül is látni szeretnének.",
         "ro": "Acest tur cu bicicleta combină istoria din Foix cu traseele pitorești de-a lungul râului Ariège. După vizitarea castelului, pedalați în aval spre Forges de Pyrène, un sat-muzeu viu care păstrează tradițiile Pirineilor. Un tur ideal pentru călătorii activi care doresc să vadă mai mult decât centrul orașului.",
-        "en": "This bike tour combines Foix's history with scenic paths along the Ariège. After visiting the castle, pedal downstream to Forges de Pyrène, a living museum village preserving Pyrenean traditions. An ideal tour for active travelers wanting to see more than just the city center."
+        "en": "This bike tour combines Foix's history with scenic paths along the Ariège. After visiting the castle, pedal downstream to Forges de Pyrène, a living museum village preserving Pyrenean traditions. An ideal tour for active travelers wanting to see more than just the city center.",
+        "fr": "Cette balade à vélo combine l'histoire de Foix avec des chemins agréables le long de l'Ariège. Après la visite du château, pédalez en aval jusqu'aux Forges de Pyrène, un village-musée vivant qui préserve les traditions pyrénéennes. Une sortie idéale pour les voyageurs actifs qui veulent voir plus que le centre-ville."
       },
       "gastro_picks": {
         "de": [
@@ -529,6 +559,10 @@
         "en": [
           "The paths along the Ariège are mostly flat and easy to ride.",
           "Take enough water for the ride to Montgailhard."
+        ],
+        "fr": [
+          "Les chemins le long de l'Ariège sont en grande partie plats et faciles à parcourir.",
+          "Prenez suffisamment d'eau pour la route jusqu'à Montgailhard."
         ]
       }
     },
@@ -545,7 +579,8 @@
             "de": "Unterirdischer Fluss Labouiche",
             "hu": "Labouiche földalatti folyó",
             "ro": "Râul subteran Labouiche",
-            "en": "Labouiche Underground River"
+            "en": "Labouiche Underground River",
+            "fr": "Rivière souterraine de Labouiche"
           },
           "coords": [
             1.565,
@@ -560,7 +595,8 @@
             "de": "Eine Bootsfahrt 60 Meter unter der Erde. Reservierung empfohlen!",
             "hu": "Hajókázás 60 méterrel a föld alatt. Foglalás ajánlott!",
             "ro": "O plimbare cu barca la 60 de metri sub pământ. Rezervarea este recomandată!",
-            "en": "A boat trip 60 meters underground. Reservation recommended!"
+            "en": "A boat trip 60 meters underground. Reservation recommended!",
+            "fr": "Une promenade en barque à 60 mètres sous terre. Réservation recommandée !"
           }
         },
         {
@@ -568,7 +604,8 @@
             "de": "Altstadt Foix (Cluster A)",
             "hu": "Foix óváros (A klaszter)",
             "ro": "Orașul vechi Foix (Cluster A)",
-            "en": "Foix Old Town (Cluster A)"
+            "en": "Foix Old Town (Cluster A)",
+            "fr": "Vieille ville de Foix (Cluster A)"
           },
           "coords": [
             1.606,
@@ -583,7 +620,8 @@
             "de": "Parken Sie auf dem Parkplatz de l'Ariège.",
             "hu": "Parkolj a de l'Ariège parkolóban.",
             "ro": "Parcați în parcarea de l'Ariège.",
-            "en": "Park at the de l'Ariège parking lot."
+            "en": "Park at the de l'Ariège parking lot.",
+            "fr": "Garez-vous au parking de l'Ariège."
           }
         },
         {
@@ -591,7 +629,8 @@
             "de": "Burg Foix (Cluster A)",
             "hu": "Foix vára (A klaszter)",
             "ro": "Castelul Foix (Cluster A)",
-            "en": "Foix Castle (Cluster A)"
+            "en": "Foix Castle (Cluster A)",
+            "fr": "Château de Foix (Cluster A)"
           },
           "coords": [
             1.605,
@@ -606,7 +645,8 @@
             "de": "Zu Fuß vom Parkplatz erreichbar.",
             "hu": "Gyalogosan elérhető a parkolótól.",
             "ro": "Accesibil pe jos din parcare.",
-            "en": "Accessible on foot from the parking lot."
+            "en": "Accessible on foot from the parking lot.",
+            "fr": "Accessible à pied depuis le parking."
           }
         },
         {
@@ -614,7 +654,8 @@
             "de": "Mittagessen in Foix (Cluster A)",
             "hu": "Ebéd Foix-ban (A klaszter)",
             "ro": "Prânz în Foix (Cluster A)",
-            "en": "Lunch in Foix (Cluster A)"
+            "en": "Lunch in Foix (Cluster A)",
+            "fr": "Déjeuner à Foix (Cluster A)"
           },
           "coords": [
             1.607,
@@ -629,7 +670,8 @@
             "de": "Probieren Sie lokale Spezialitäten in den Gassen.",
             "hu": "Kóstolj helyi különlegességeket a sikátorokban.",
             "ro": "Gustați specialități locale pe străduțe.",
-            "en": "Taste local specialties in the alleys."
+            "en": "Taste local specialties in the alleys.",
+            "fr": "Goûtez les spécialités locales dans les ruelles."
           }
         },
         {
@@ -637,7 +679,8 @@
             "de": "Forges de Pyrène (Cluster B)",
             "hu": "Forges de Pyrène (B klaszter)",
             "ro": "Forges de Pyrène (Cluster B)",
-            "en": "Forges de Pyrène (Cluster B)"
+            "en": "Forges de Pyrène (Cluster B)",
+            "fr": "Forges de Pyrène (Cluster B)"
           },
           "coords": [
             1.595,
@@ -652,7 +695,8 @@
             "de": "Großer kostenloser Parkplatz direkt am Eingang.",
             "hu": "Nagy ingyenes parkoló közvetlenül a bejáratnál.",
             "ro": "Parcare mare gratuită chiar la intrare.",
-            "en": "Large free parking lot right at the entrance."
+            "en": "Large free parking lot right at the entrance.",
+            "fr": "Grand parking gratuit juste à l'entrée."
           }
         },
         {
@@ -660,7 +704,8 @@
             "de": "Abtei Saint-Volusien",
             "hu": "Saint-Volusien apátság",
             "ro": "Abația Saint-Volusien",
-            "en": "Saint-Volusien Abbey"
+            "en": "Saint-Volusien Abbey",
+            "fr": "Abbaye Saint-Volusien"
           },
           "coords": [
             1.606,
@@ -675,7 +720,8 @@
             "de": "Kurzer Stopp auf dem Rückweg.",
             "hu": "Rövid megálló visszafelé.",
             "ro": "Scurtă oprire la întoarcere.",
-            "en": "Short stop on the way back."
+            "en": "Short stop on the way back.",
+            "fr": "Arrêt court sur le chemin du retour."
           }
         }
       ],
@@ -683,7 +729,8 @@
         "de": "Das Auto ermöglicht es Ihnen, das Highlight der Region einzuschließen: den unterirdischen Fluss von Labouiche. Nach der morgendlichen Höhlentour kehren Sie nach Foix zurück, um die Burg und die Altstadt zu Fuß zu erkunden. Den Nachmittag verbringen Sie in den Forges de Pyrène, bevor Sie den Tag in der Stadtmitte ausklingen lassen.",
         "hu": "Az autó lehetővé teszi a régió egyik fő látványosságát: a Labouiche földalatti folyót. A reggeli barlangi túra után térj vissza Foix-ba, hogy gyalog fedezd fel a várat és az óvárost. A délutánt töltsd a Forges de Pyrène skanzenben, mielőtt a napot a városközpontban zárnád.",
         "ro": "Mașina vă permite să includeți atracția principală a regiunii: râul subteran Labouiche. După turul peșterii de dimineață, reveniți la Foix pentru a explora castelul și orașul vechi la pas. Petreceți după-amiaza la Forges de Pyrène, înainte de a încheia ziua în centrul orașului.",
-        "en": "The car allows you to include the region's top highlight: the Labouiche underground river. After the morning cave tour, return to Foix to explore the castle and old town on foot. Spend the afternoon at Forges de Pyrène before finishing the day in the city center."
+        "en": "The car allows you to include the region's top highlight: the Labouiche underground river. After the morning cave tour, return to Foix to explore the castle and old town on foot. Spend the afternoon at Forges de Pyrène before finishing the day in the city center.",
+        "fr": "La voiture vous permet d'inclure le point fort régional : la rivière souterraine de Labouiche. Après la visite matinale de la grotte, retournez à Foix pour explorer le château et la vieille ville à pied. Passez l'après-midi aux Forges de Pyrène avant de terminer la journée au centre-ville."
       },
       "gastro_picks": {
         "de": [
@@ -783,6 +830,10 @@
         "en": [
           "Be sure to book the Labouiche tour online in advance.",
           "The de l'Ariège parking lot is often full; try Champ de Mars as an alternative."
+        ],
+        "fr": [
+          "Veillez à réserver la visite de Labouiche en ligne à l'avance.",
+          "Le parking de l'Ariège est souvent plein ; essayez le Champ de Mars en alternative."
         ]
       }
     },
@@ -799,7 +850,8 @@
             "de": "Bahnhof Foix",
             "hu": "Foix vasútállomás",
             "ro": "Gara Foix",
-            "en": "Foix Station"
+            "en": "Foix Station",
+            "fr": "Gare de Foix"
           },
           "coords": [
             1.611,
@@ -814,7 +866,8 @@
             "de": "Ankunft mit dem TER aus Toulouse.",
             "hu": "Érkezés a Toulouse felőli TER vonattal.",
             "ro": "Sosire cu trenul TER dinspre Toulouse.",
-            "en": "Arrival by TER train from Toulouse."
+            "en": "Arrival by TER train from Toulouse.",
+            "fr": "Arrivée en TER depuis Toulouse."
           }
         },
         {
@@ -822,7 +875,8 @@
             "de": "Altstadt / Pont Vieux",
             "hu": "Óváros / Pont Vieux",
             "ro": "Orașul vechi / Pont Vieux",
-            "en": "Old Town / Pont Vieux"
+            "en": "Old Town / Pont Vieux",
+            "fr": "Vieille ville / Pont Vieux"
           },
           "coords": [
             1.607,
@@ -837,7 +891,8 @@
             "de": "Spaziergang vom Bahnhof ins Zentrum.",
             "hu": "Séta az állomástól a központba.",
             "ro": "Plimbare de la gară spre centru.",
-            "en": "Walk from the station to the center."
+            "en": "Walk from the station to the center.",
+            "fr": "Marche depuis la gare jusqu'au centre."
           }
         },
         {
@@ -845,7 +900,8 @@
             "de": "Burg Foix",
             "hu": "Foix vára",
             "ro": "Castelul Foix",
-            "en": "Foix Castle"
+            "en": "Foix Castle",
+            "fr": "Château de Foix"
           },
           "coords": [
             1.605,
@@ -860,7 +916,8 @@
             "de": "Der Hauptgrund für einen Besuch.",
             "hu": "A látogatás fő oka.",
             "ro": "Principalul motiv al vizitei.",
-            "en": "The main reason for visiting."
+            "en": "The main reason for visiting.",
+            "fr": "La principale raison de la visite."
           }
         },
         {
@@ -868,7 +925,8 @@
             "de": "Saint-Volusien",
             "hu": "Saint-Volusien",
             "ro": "Saint-Volusien",
-            "en": "Saint-Volusien"
+            "en": "Saint-Volusien",
+            "fr": "Saint-Volusien"
           },
           "coords": [
             1.606,
@@ -883,7 +941,8 @@
             "de": "Direkt am Fuße der Burg.",
             "hu": "Közvetlenül a vár lábánál.",
             "ro": "Chiar la poalele castelului.",
-            "en": "Right at the foot of the castle."
+            "en": "Right at the foot of the castle.",
+            "fr": "Juste au pied du château."
           }
         },
         {
@@ -891,7 +950,8 @@
             "de": "Allées de Villote",
             "hu": "Allées de Villote",
             "ro": "Allées de Villote",
-            "en": "Allées de Villote"
+            "en": "Allées de Villote",
+            "fr": "Allées de Villote"
           },
           "coords": [
             1.607,
@@ -906,7 +966,8 @@
             "de": "Zentraler Platz für Mittagessen und Busse.",
             "hu": "Központi hely ebédhez és buszokhoz.",
             "ro": "Loc central pentru prânz și autobuze.",
-            "en": "Central spot for lunch and buses."
+            "en": "Central spot for lunch and buses.",
+            "fr": "Lieu central pour déjeuner et prendre le bus."
           }
         },
         {
@@ -914,7 +975,8 @@
             "de": "Ariège Promenade",
             "hu": "Ariège sétány",
             "ro": "Promenada Ariège",
-            "en": "Ariège Promenade"
+            "en": "Ariège Promenade",
+            "fr": "Promenade de l'Ariège"
           },
           "coords": [
             1.609,
@@ -929,7 +991,8 @@
             "de": "Gemütlicher Weg zurück zum Bahnhof.",
             "hu": "Hangulatos út vissza az állomásra.",
             "ro": "Traseu plăcut înapoi la gară.",
-            "en": "Atmospheric path back to the station."
+            "en": "Atmospheric path back to the station.",
+            "fr": "Chemin d'ambiance pour le retour à la gare."
           }
         }
       ],
@@ -937,7 +1000,8 @@
         "de": "Foix ist perfekt per Bahn von Toulouse aus erreichbar. Vom Bahnhof führt ein kurzer Spaziergang über die Brücke direkt ins historische Herz. Sie erkunden die Burg und die Abtei, genießen ein Mittagessen auf dem Hauptboulevard und spazieren entspannt am Flussufer entlang zurück zum Zug. Alles ist in bequemer Gehweite.",
         "hu": "Foix tökéletesen megközelíthető vonattal Toulouse felől. Az állomástól rövid séta vezet a hídon át egyenesen a történelmi szívbe. Fedezd fel a várat és az apátságot, ebédelj a fő sugárúton, majd sétálj pihentetően a folyóparton vissza a vonathoz. Minden kényelmes sétatávolságra van.",
         "ro": "Foix este perfect accesibil cu trenul dinspre Toulouse. De la gară, o scurtă plimbare peste pod duce direct în inima istorică. Explorați castelul și abația, bucurați-vă de prânz pe bulevardul principal și plimbați-vă relaxat pe malul râului înapoi la tren. Totul este la o distanță confortabilă de mers pe jos.",
-        "en": "Foix is perfectly accessible by train from Toulouse. From the station, a short walk across the bridge leads straight into the historical heart. Explore the castle and the abbey, enjoy lunch on the main boulevard, and take a relaxing stroll along the riverbank back to the train. Everything is within easy walking distance."
+        "en": "Foix is perfectly accessible by train from Toulouse. From the station, a short walk across the bridge leads straight into the historical heart. Explore the castle and the abbey, enjoy lunch on the main boulevard, and take a relaxing stroll along the riverbank back to the train. Everything is within easy walking distance.",
+        "fr": "Foix est parfaitement accessible en train depuis Toulouse. Depuis la gare, une courte marche sur le pont mène directement au cœur historique. Explorez le château et l'abbaye, déjeunez sur le boulevard principal et faites une promenade relaxante le long des berges pour revenir au train. Tout est à distance de marche facile."
       },
       "gastro_picks": {
         "de": [
@@ -1037,6 +1101,10 @@
         "en": [
           "The train connection to Toulouse is hourly and very reliable.",
           "Lockers at the station are limited; travel with light luggage."
+        ],
+        "fr": [
+          "La liaison en train vers Toulouse est horaire et très fiable.",
+          "Les casiers à la gare sont limités ; voyagez avec des bagages légers."
         ]
       }
     }

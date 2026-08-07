@@ -21,7 +21,8 @@
             "de": "Place Hennequin",
             "hu": "Place Hennequin",
             "ro": "Piața Hennequin",
-            "en": "Place Hennequin"
+            "en": "Place Hennequin",
+            "fr": "Place Hennequin"
           },
           "coords": [
             3.197906,
@@ -36,7 +37,8 @@
             "de": "Beginnen Sie Ihren Besuch an diesem zentralen Platz, dem historischen Herzen der Stadt, wo Sie einen schnellen Kaffee trinken können, bevor Sie das Erbe erkunden.",
             "hu": "Kezdje a látogatást ezen a központi téren, a város történelmi szívében, ahol igyon egy gyors kávét, mielőtt felfedezné a környező történelmi örökséget.",
             "ro": "Începeți vizita în această piață centrală, inima istorică a orașului, unde puteți savura o cafea rapidă înainte de a explora patrimoniul arhitectural înconjurător.",
-            "en": "Start your visit at this central square, the historic heart of the town, where you can grab a quick coffee before exploring the surrounding heritage."
+            "en": "Start your visit at this central square, the historic heart of the town, where you can grab a quick coffee before exploring the surrounding heritage.",
+            "fr": "Commencez votre visite sur cette place centrale, cœur historique de la ville, où vous pouvez prendre un café rapidement avant d’explorer le patrimoine alentour."
           }
         },
         {
@@ -44,7 +46,8 @@
             "de": "Heilig-Kreuz-Kirche",
             "hu": "Sainte-Croix Templom",
             "ro": "Biserica Sainte-Croix",
-            "en": "Sainte-Croix Church"
+            "en": "Sainte-Croix Church",
+            "fr": "Église Sainte-Croix"
           },
           "coords": [
             3.198685,
@@ -59,7 +62,8 @@
             "de": "Bewundern Sie die markante Mischung aus romanischer und gotischer Architektur in dieser Kirche und prüfen Sie vorab die stets variierenden Öffnungszeiten.",
             "hu": "Csodálja meg a román és gótikus építészet lenyűgöző keverékét ebben a gyönyörű templomban, és mindenképpen ellenőrizze a változó nyitvatartási időt.",
             "ro": "Admirați amestecul impresionant de arhitectură romanică și gotică din această biserică frumoasă și verificați în prealabil programul de vizitare care variază.",
-            "en": "Admire the striking mix of Romanesque and Gothic architecture in this beautiful church, and be sure to check the opening hours beforehand as they vary."
+            "en": "Admire the striking mix of Romanesque and Gothic architecture in this beautiful church, and be sure to check the opening hours beforehand as they vary.",
+            "fr": "Admirez le mélange saisissant d’éléments romans et gothiques de cette belle église, et pensez à vérifier les horaires d’ouverture à l’avance car ils varient."
           }
         },
         {
@@ -67,7 +71,8 @@
             "de": "Musée Yves-Machelon",
             "hu": "Yves-Machelon Múzeum",
             "ro": "Muzeul Yves-Machelon",
-            "en": "Musée Yves-Machelon"
+            "en": "Musée Yves-Machelon",
+            "fr": "Musée Yves-Machelon"
           },
           "coords": [
             3.196572,
@@ -82,7 +87,8 @@
             "de": "Entdecken Sie in diesem Museum faszinierende lokale Geschichte und seltene archäologische Funde, aber denken Sie an etwas Bargeld für den reibungslosen Eintritt.",
             "hu": "Fedezze fel a lenyűgöző helyi történelmet és a ritka régészeti leleteket ebben a múzeumban, de ne felejtsen el némi készpénzt hozni a kis belépődíjra.",
             "ro": "Descoperiți istoria locală fascinantă și artefacte arheologice rare în acest muzeu, dar nu uitați să aveți la voi puțin numerar pentru taxa de intrare rapidă.",
-            "en": "Discover fascinating local history and rare archaeological artifacts in this museum, but remember to bring some cash for the small admission fee to enter smoothly."
+            "en": "Discover fascinating local history and rare archaeological artifacts in this museum, but remember to bring some cash for the small admission fee to enter smoothly.",
+            "fr": "Découvrez l’histoire locale fascinante et des objets archéologiques rares dans ce musée, mais pensez à apporter un peu d’espèces pour le petit droit d’entrée."
           }
         },
         {
@@ -90,7 +96,8 @@
             "de": "Schloss Gannat",
             "hu": "Gannat Kastélya",
             "ro": "Castelul din Gannat",
-            "en": "Castle of Gannat"
+            "en": "Castle of Gannat",
+            "fr": "Château de Gannat"
           },
           "coords": [
             3.196204,
@@ -105,7 +112,8 @@
             "de": "Erkunden Sie diese beeindruckende Festung, die heute als kulturelles Zentrum dient, und spazieren Sie um die massiven Mauern, um das Design zu würdigen.",
             "hu": "Fedezze fel ezt a lenyűgöző erődöt, amely ma kulturális központként szolgál, és sétáljon végig a hatalmas falak mentén a lenyűgöző stratégiai kialakításért.",
             "ro": "Explorați această fortăreață impresionantă care servește acum drept centru cultural și faceți o plimbare în jurul zidurilor sale masive pentru a-i aprecia designul.",
-            "en": "Explore this impressive fortress which now serves as a cultural hub, and take time to walk around its massive walls to appreciate its strategic design."
+            "en": "Explore this impressive fortress which now serves as a cultural hub, and take time to walk around its massive walls to appreciate its strategic design.",
+            "fr": "Explorez cette imposante forteresse devenue un pôle culturel, et prenez le temps de faire le tour de ses murs massifs pour apprécier sa conception stratégique."
           }
         },
         {
@@ -113,7 +121,8 @@
             "de": "Kirche Saint-Étienne",
             "hu": "Saint-Étienne Templom",
             "ro": "Biserica Saint-Étienne",
-            "en": "Église Saint-Étienne"
+            "en": "Église Saint-Étienne",
+            "fr": "Église Saint-Étienne"
           },
           "coords": [
             3.189619,
@@ -128,7 +137,8 @@
             "de": "Diese malerische Kirche bietet einen friedlichen Rückzugsort mit schönen Buntglasfenstern, also nähern Sie sich leise, um die Atmosphäre zu respektieren.",
             "hu": "Ez a festői templom békés menedéket kínál gyönyörű ólomüveg ablakokkal, ezért csendben közeledjen, hogy tiszteletben tartsa az ősi épület nyugalmát.",
             "ro": "Această biserică pitorească oferă un refugiu liniștit cu vitralii frumoase, așa că apropiați-vă în liniște pentru a respecta atmosfera senină a structurii.",
-            "en": "This quaint church offers a peaceful retreat with beautiful stained glass, so approach quietly to respect the serene atmosphere of this ancient structure."
+            "en": "This quaint church offers a peaceful retreat with beautiful stained glass, so approach quietly to respect the serene atmosphere of this ancient structure.",
+            "fr": "Cette charmante église offre un refuge paisible avec de beaux vitraux ; approchez-vous en silence pour respecter l’atmosphère sereine de cet édifice ancien."
           }
         }
       ],
@@ -136,7 +146,8 @@
         "de": "Der Vormittag beginnt im Herzen von Gannat, wo das lebendige Treiben am zentralen Platz nahtlos in die stille Erhabenheit der historischen Stadtkirche übergeht. Tauchen Sie anschließend im nahen Museum in die reiche, vielschichtige Geschichte der gesamten Region ein.\n\nZur Mittagszeit lockt die imposante Festungsanlage, die stolz über das Stadtbild wacht und tiefe Einblicke in die strategische Vergangenheit der Gegend gewährt. Die kurzen Wege erlauben eine entspannte Erkundung ohne jegliche Eile.\n\nAm Nachmittag führt ein kurzer, malerischer Spaziergang aus dem dicht bebauten Zentrum hinaus zu einer weiteren, überaus idyllisch gelegenen Kirche. Hier finden Sie einen Moment der perfekten inneren Ruhe, um die vielen Eindrücke zu verarbeiten.\n\nDer frühe Abend lädt dazu ein, die Erlebnisse dieses rein fussläufigen Tages in den charmanten Altstadtgassen von Gannat nachklingen zu lassen, während die untergehende Sonne die historischen Fassaden in weiches Licht taucht.",
         "hu": "A délelőtt Gannat szívében kezdődik, ahol a központi tér pezsgése zökkenőmentesen olvad egybe a történelmi templom csendes nagyszerűségével. Ezt követően merüljön el a közeli múzeumban a régió gazdag, sokrétű történelmében.\n\nDélben az impozáns erődítmény csábít, amely büszkén őrködik a városkép felett, és mély bepillantást enged a környék stratégiai múltjába. A rövid távolságok lehetővé teszik a nyugodt, sietség nélküli felfedezést.\n\nDélután egy rövid, festői séta vezet ki a sűrűn beépített központból egy másik, rendkívül idilli fekvésű templomhoz. Itt megtalálhatja a tökéletes belső nyugalom pillanatát, hogy feldolgozza a sok csodás élményt.\n\nA kora este arra hív, hogy a mai, kizárólag gyalogos nap élményeit Gannat hangulatos óvárosi utcáin hagyja lecsengeni, miközben a lemenő nap lágy fénybe öltözteti a történelmi kőhomlokzatokat.",
         "ro": "Dimineața începe în inima orașului Gannat, unde forfota din piața centrală se îmbină perfect cu măreția liniștită a bisericii istorice. Ulterior, scufundați-vă în muzeul din apropiere pentru a descoperi istoria bogată și complexă a întregii regiuni.\n\nLa prânz, impunătoarea cetate, care veghează cu mândrie asupra peisajului urban, atrage vizitatorii oferind o perspectivă profundă asupra trecutului strategic al zonei. Distanțele scurte permit o explorare relaxată, fără grabă.\n\nDupă-amiaza, o scurtă și pitorească plimbare vă conduce din centrul dens construit către o altă biserică situată într-un cadru deosebit de idilic. Aici veți găsi un moment de liniște interioară perfectă pentru a asimila impresiile.\n\nSeara devreme vă invită să lăsați experiențele acestei zile pietonale să rezoneze în străduțele fermecătoare ale orașului vechi Gannat, în timp ce soarele apune și scaldă fațadele istorice într-o lumină blândă.",
-        "en": "The morning begins in the very heart of Gannat, where the gentle buzz of the central square seamlessly blends into the quiet grandeur of the historic local church. Afterwards, immerse yourself in the rich, multifaceted history of the region at the nearby museum.\n\nAt midday, the imposing fortress beckons, standing proudly over the townscape and offering deep insights into the strategic past of the area. The short walking distances allow for a relaxed exploration without feeling rushed at all.\n\nIn the afternoon, a short, picturesque stroll leads out of the densely built center to another exceptionally idyllic church. Here you will find a moment of perfect inner peace to process the multitude of visual and historical impressions.\n\nEarly evening invites you to let the experiences of this purely pedestrian day linger in the charming old town streets of Gannat, while the setting sun bathes the ancient stone facades in a soft, warm light."
+        "en": "The morning begins in the very heart of Gannat, where the gentle buzz of the central square seamlessly blends into the quiet grandeur of the historic local church. Afterwards, immerse yourself in the rich, multifaceted history of the region at the nearby museum.\n\nAt midday, the imposing fortress beckons, standing proudly over the townscape and offering deep insights into the strategic past of the area. The short walking distances allow for a relaxed exploration without feeling rushed at all.\n\nIn the afternoon, a short, picturesque stroll leads out of the densely built center to another exceptionally idyllic church. Here you will find a moment of perfect inner peace to process the multitude of visual and historical impressions.\n\nEarly evening invites you to let the experiences of this purely pedestrian day linger in the charming old town streets of Gannat, while the setting sun bathes the ancient stone facades in a soft, warm light.",
+        "fr": "La matinée commence au cœur même de Gannat, où le doux brouhaha de la place centrale se fond harmonieusement dans la grandeur tranquille de l’église historique. Ensuite, plongez dans l’histoire riche et multifacette de la région au musée à proximité.\n\nÀ midi, la forteresse imposante vous appelle, dominant la ville et offrant un aperçu profond du passé stratégique de la région. Les courtes distances à pied permettent une exploration détendue sans se presser.\n\nL’après-midi, une courte et pittoresque promenade mène hors du centre dense vers une autre église exceptionnellement idyllique. Vous y trouverez un moment de paix intérieure parfait pour digérer la multitude d’impressions visuelles et historiques.\n\nLa fin d’après-midi vous invite à laisser s’attarder les expériences de cette journée entièrement piétonne dans les charmantes rues de la vieille ville de Gannat, tandis que le soleil couchant baigne les façades de pierre anciennes d’une douce lumière chaude."
       },
       "variants": {
         "rainy": {
@@ -144,7 +155,8 @@
             "de": "Starten Sie am Platz mit Regenschirm und suchen Sie in den Kirchen schnellen Schutz. Der Nachmittag ist ideal für die trockenen Ausstellungen im Museum und Schloss. Halten Sie Ihre Regenkleidung stets bereit, da die kurzen Wege zwischen den Sehenswürdigkeiten sehr nass werden können. Beenden Sie den Tag und lauschen Sie dem Regen in der historischen Kulisse.",
             "hu": "Induljon a térről egy masszív esernyővel, majd keressen gyors menedéket a templomokban. A délután tökéletes a múzeum és a kastély fedett kiállításainak felfedezésére. Tartsa kéznél az esőruházatot, mert a rövid séták során is könnyen elázhat. Zárja a napot a lenyűgöző építészet csodálatával, miközben az eső kopogását hallgatja a védett belső terekben.",
             "ro": "Începeți în piață cu o umbrelă solidă, apoi găsiți adăpost rapid în biserici. După-amiaza este perfectă pentru a explora muzeul interior și expozițiile uscate ale castelului. Păstrați echipamentul de ploaie la îndemână, deoarece scurtele plimbări pot fi destul de ude. Încheiați ziua admirând arhitectura în timp ce ascultați sunetul ploii de la adăpost.",
-            "en": "Start at the square with a sturdy umbrella, then quickly find shelter in the churches. The afternoon is perfect for exploring the indoor museum and dry castle exhibitions. Keep your rain gear handy, as the short walks between sights can get quite wet. End the day admiring the gorgeous historic architecture while listening to the rain from a cozy interior."
+            "en": "Start at the square with a sturdy umbrella, then quickly find shelter in the churches. The afternoon is perfect for exploring the indoor museum and dry castle exhibitions. Keep your rain gear handy, as the short walks between sights can get quite wet. End the day admiring the gorgeous historic architecture while listening to the rain from a cozy interior.",
+            "fr": "Commencez sur la place avec un parapluie solide, puis abritez-vous rapidement dans les églises. L’après-midi est parfait pour visiter le musée intérieur et les parties couvertes du château. Gardez votre équipement de pluie à portée de main, car les courts trajets entre les sites peuvent être très humides. Terminez la journée en admirant la superbe architecture historique tout en écoutant la pluie depuis un intérieur douillet."
           },
           "stops": [
             {
@@ -152,13 +164,15 @@
                 "de": "Place Hennequin",
                 "hu": "Place Hennequin",
                 "ro": "Piața Hennequin",
-                "en": "Place Hennequin"
+                "en": "Place Hennequin",
+                "fr": "Place Hennequin"
               },
               "tip_5lang": {
                 "de": "Bewundern Sie den Platz kurz unter Ihrem stabilen Regenschirm, bevor Sie schnell zu den nahegelegenen Innenattraktionen gehen, um dem starken Regen zu entkommen.",
                 "hu": "Csodálja meg a történelmi teret a stabil esernyője alól, mielőtt gyorsan a közeli fedett látnivalók felé venné az irányt a heves esőzések elől menekülve.",
                 "ro": "Admirați scurt piața istorică sub umbrela dumneavoastră rezistentă înainte de a vă îndrepta rapid spre atracțiile interioare pentru a scăpa de ploaia deasă.",
-                "en": "Admire the historic square briefly under your sturdy umbrella before quickly heading to the nearby indoor attractions to escape the heavy rain showers."
+                "en": "Admire the historic square briefly under your sturdy umbrella before quickly heading to the nearby indoor attractions to escape the heavy rain showers.",
+                "fr": "Admirez brièvement la place historique sous votre parapluie solide avant de vous diriger rapidement vers les attractions intérieures à proximité pour échapper aux fortes averses."
               }
             },
             {
@@ -166,13 +180,15 @@
                 "de": "Heilig-Kreuz-Kirche",
                 "hu": "Sainte-Croix Templom",
                 "ro": "Biserica Sainte-Croix",
-                "en": "Sainte-Croix Church"
+                "en": "Sainte-Croix Church",
+                "fr": "Église Sainte-Croix"
               },
               "tip_5lang": {
                 "de": "Suchen Sie in dieser prächtigen Kirche Schutz vor dem strömenden Regen und bewundern Sie die wunderschönen Buntglasfenster in völlig trockenem Komfort.",
                 "hu": "Keressen menedéket a szakadó eső elől ebben a csodálatos templomban, és száraz kényelemben csodálja meg a gyönyörű ólomüveg ablakokat.",
                 "ro": "Refugiați-vă de ploaia torențială în această biserică magnifică și admirați frumoasele vitralii într-un confort complet uscat și protejat.",
-                "en": "Take refuge from the pouring rain inside this magnificent church and marvel at the beautiful stained glass windows in complete, dry comfort."
+                "en": "Take refuge from the pouring rain inside this magnificent church and marvel at the beautiful stained glass windows in complete, dry comfort.",
+                "fr": "Abritez-vous de la pluie battante à l’intérieur de cette magnifique église et admirez les beaux vitraux au sec et en tout confort."
               }
             },
             {
@@ -180,13 +196,15 @@
                 "de": "Musée Yves-Machelon",
                 "hu": "Yves-Machelon Múzeum",
                 "ro": "Muzeul Yves-Machelon",
-                "en": "Musée Yves-Machelon"
+                "en": "Musée Yves-Machelon",
+                "fr": "Musée Yves-Machelon"
               },
               "tip_5lang": {
                 "de": "Dieses spannende Innenmuseum ist der perfekte Rückzugsort an Regentagen. Es bietet faszinierende lokale Geschichte, während Sie komplett trocken bleiben.",
                 "hu": "Ez a lenyűgöző fedett múzeum a tökéletes esős napi menedék, amely bemutatja a helyi történelmet, miközben Ön teljesen száraz és meleg marad.",
                 "ro": "Acest muzeu de interior captivant este evadarea perfectă pentru o zi ploioasă, oferind istorie locală fascinantă, permițându-vă să rămâneți complet uscat.",
-                "en": "This engaging indoor museum is the perfect rainy day escape, offering fascinating local history while allowing you to stay completely dry and warm."
+                "en": "This engaging indoor museum is the perfect rainy day escape, offering fascinating local history while allowing you to stay completely dry and warm.",
+                "fr": "Ce musée intérieur captivant est l’escapade idéale par temps de pluie, offrant une histoire locale fascinante tout en vous gardant complètement au sec et au chaud."
               }
             },
             {
@@ -194,13 +212,15 @@
                 "de": "Schloss Gannat",
                 "hu": "Gannat Kastélya",
                 "ro": "Castelul din Gannat",
-                "en": "Castle of Gannat"
+                "en": "Castle of Gannat",
+                "fr": "Château de Gannat"
               },
               "tip_5lang": {
                 "de": "Erkunden Sie die historischen Säle und überdachten Bereiche dieses beeindruckenden Schlosses, was eine fantastische Möglichkeit bietet, den ständigen Schauern zu entkommen.",
                 "hu": "Fedezze fel a lenyűgöző kastély történelmi termeit és fedett részeit, ami fantasztikus és oktató módja annak, hogy elmeneküljön a folyamatos záporok elől.",
                 "ro": "Explorați sălile istorice și zonele acoperite ale acestui castel impresionant, care oferă o modalitate fantastică de a scăpa de aversele constante de afară.",
-                "en": "Explore the historic halls and covered areas of this impressive castle, which provides a fantastic and educational way to escape the constant showers."
+                "en": "Explore the historic halls and covered areas of this impressive castle, which provides a fantastic and educational way to escape the constant showers.",
+                "fr": "Explorez les salles historiques et les espaces couverts de cet imposant château, qui offrent une façon fantastique et instructive d’échapper aux averses persistantes."
               }
             },
             {
@@ -208,13 +228,15 @@
                 "de": "Kirche Saint-Étienne",
                 "hu": "Saint-Étienne Templom",
                 "ro": "Biserica Saint-Étienne",
-                "en": "Église Saint-Étienne"
+                "en": "Église Saint-Étienne",
+                "fr": "Église Saint-Étienne"
               },
               "tip_5lang": {
                 "de": "Genießen Sie den ruhigen, trockenen Innenraum dieser schönen Kirche und nehmen Sie sich Zeit, die Architektur fernab der nassen Straßen zu schätzen.",
                 "hu": "Élvezze a gyönyörű templom békés, száraz belsejét, és szánjon időt a finom építészet értékelésére, távol a város nedves és hideg utcáitól.",
                 "ro": "Bucurați-vă de interiorul senin și uscat al acestei frumoase biserici, făcându-vă timp să apreciați arhitectura sa fină, departe de străzile umede ale orașului.",
-                "en": "Enjoy the serene, dry interior of this beautiful church, taking time to appreciate its fine architecture away from the cold, wet streets of the city."
+                "en": "Enjoy the serene, dry interior of this beautiful church, taking time to appreciate its fine architecture away from the cold, wet streets of the city.",
+                "fr": "Profitez de l’intérieur serein et sec de cette belle église, prenez le temps d’apprécier sa belle architecture loin des rues froides et mouillées."
               }
             }
           ]
@@ -224,7 +246,8 @@
             "de": "Packen Sie sich für einen frischen Morgenspaziergang am historischen Platz warm ein. Die kalte Luft ist erfrischend, aber die Kirchen bieten einen gemütlichen Rückzugsort. Nachmittags spenden das Museum und das Schloss warme Innenräume. Wenn es gegen 17:00 Uhr früh dunkel wird, sorgen die beleuchteten Straßen und historischen Gebäude für eine absolut magische und romantische Winterstimmung.",
             "hu": "Öltözzön fel melegen a csípős reggeli sétához a történelmi téren. A hideg levegő frissítő, de a templomok hangulatos menedéket kínálnak. Délután a múzeum és a kastély fűtött belső tereket biztosít a felfedezéshez. Mivel délután 5 óra körül korán sötétedik, a kivilágított utcák és történelmi épületek varázslatos téli hangulatot teremtenek.",
             "ro": "Îmbrăcați-vă gros pentru o plimbare matinală geroasă, începând în piața istorică. Aerul rece este revigorant, dar bisericile oferă o retragere confortabilă. După-amiaza, muzeul și castelul oferă spații interioare calde. Pe măsură ce întunericul cade devreme, în jurul orei 17:00, străzile iluminate și clădirile istorice creează o atmosferă magică de iarnă.",
-            "en": "Bundle up for a crisp morning walk starting at the historic square. The cold air is refreshing, but the churches offer a cozy, dry retreat. In the afternoon, the museum and castle provide warm indoor spaces to explore. As darkness falls early around 5 PM, the illuminated streets and beautiful historic buildings create a truly magical winter mood."
+            "en": "Bundle up for a crisp morning walk starting at the historic square. The cold air is refreshing, but the churches offer a cozy, dry retreat. In the afternoon, the museum and castle provide warm indoor spaces to explore. As darkness falls early around 5 PM, the illuminated streets and beautiful historic buildings create a truly magical winter mood.",
+            "fr": "Couvrez-vous bien pour une promenade matinale vivifiante à partir de la place historique. L’air froid est tonifiant, mais les églises offrent un refuge douillet et sec. L’après-midi, le musée et le château fournissent des espaces intérieurs chauds à explorer. À la tombée de la nuit, vers 17 h, les rues illuminées et les beaux bâtiments historiques créent une ambiance hivernale réellement magique."
           },
           "stops": [
             {
@@ -232,13 +255,15 @@
                 "de": "Place Hennequin",
                 "hu": "Place Hennequin",
                 "ro": "Piața Hennequin",
-                "en": "Place Hennequin"
+                "en": "Place Hennequin",
+                "fr": "Place Hennequin"
               },
               "tip_5lang": {
                 "de": "Beginnen Sie Ihren Winterspaziergang hier, aber achten Sie darauf, sich für die frische Morgenluft in dicke Schichten zu kleiden, bevor Sie weitergehen.",
                 "hu": "Kezdje itt a téli sétát, de ügyeljen arra, hogy vastag rétegekbe öltözzön a csípős reggeli levegőhöz, mielőtt a következő állomásra indulna.",
                 "ro": "Începeți plimbarea de iarnă aici, dar asigurați-vă că sunteți îmbrăcat în straturi groase pentru aerul rece al dimineții înainte de a trece mai departe.",
-                "en": "Start your winter walk here, but make sure you are warmly dressed in thick layers for the crisp morning air before moving to the next stop."
+                "en": "Start your winter walk here, but make sure you are warmly dressed in thick layers for the crisp morning air before moving to the next stop.",
+                "fr": "Commencez votre promenade hivernale ici, mais assurez-vous d’être bien emmitouflé en couches épaisses pour l’air frais du matin avant de rejoindre l’arrêt suivant."
               }
             },
             {
@@ -246,13 +271,15 @@
                 "de": "Heilig-Kreuz-Kirche",
                 "hu": "Sainte-Croix Templom",
                 "ro": "Biserica Sainte-Croix",
-                "en": "Sainte-Croix Church"
+                "en": "Sainte-Croix Church",
+                "fr": "Église Sainte-Croix"
               },
               "tip_5lang": {
                 "de": "Treten Sie in die Kirche ein, um Ihre Hände aufzuwärmen und die ruhige, friedliche Winteratmosphäre innerhalb der dicken historischen Steinmauern zu genießen.",
                 "hu": "Lépjen be a templomba, hogy felmelegítse a kezét, és élvezze a csendes, békés téli hangulatot a vastag, történelmi kőfalak között.",
                 "ro": "Pășiți în biserică pentru a vă încălzi mâinile și a vă bucura de atmosfera de iarnă liniștită și pașnică din interiorul zidurilor groase de piatră.",
-                "en": "Step inside the church to warm your hands and enjoy the quiet, peaceful winter atmosphere within its thick, historic stone walls."
+                "en": "Step inside the church to warm your hands and enjoy the quiet, peaceful winter atmosphere within its thick, historic stone walls.",
+                "fr": "Entrez dans l’église pour réchauffer vos mains et profiter de l’atmosphère hivernale tranquille à l’abri de ses épaisses murailles de pierre historiques."
               }
             },
             {
@@ -260,13 +287,15 @@
                 "de": "Musée Yves-Machelon",
                 "hu": "Yves-Machelon Múzeum",
                 "ro": "Muzeul Yves-Machelon",
-                "en": "Musée Yves-Machelon"
+                "en": "Musée Yves-Machelon",
+                "fr": "Musée Yves-Machelon"
               },
               "tip_5lang": {
                 "de": "Wärmen Sie sich in diesem gut beheizten Museum gründlich auf, während Sie den Nachmittag damit verbringen, das reiche und faszinierende Erbe zu entdecken.",
                 "hu": "Melegedjen fel alaposan ebben a jól fűtött múzeumban, miközben a délutánt a régió gazdag és lenyűgöző helyi örökségének felfedezésével tölti.",
                 "ro": "Încălziți-vă bine în acest muzeu bine încălzit, petrecând după-amiaza descoperind patrimoniul local bogat și fascinant al regiunii.",
-                "en": "Warm up thoroughly in this well-heated museum while spending the afternoon discovering the rich and fascinating local heritage of the region."
+                "en": "Warm up thoroughly in this well-heated museum while spending the afternoon discovering the rich and fascinating local heritage of the region.",
+                "fr": "Réchauffez-vous pleinement dans ce musée bien chauffé en passant l’après-midi à découvrir le riche et fascinant patrimoine local de la région."
               }
             },
             {
@@ -274,13 +303,15 @@
                 "de": "Schloss Gannat",
                 "hu": "Gannat Kastélya",
                 "ro": "Castelul din Gannat",
-                "en": "Castle of Gannat"
+                "en": "Castle of Gannat",
+                "fr": "Château de Gannat"
               },
               "tip_5lang": {
                 "de": "Die dicken Steinmauern können im Winter ziemlich kühl sein, behalten Sie also Ihren warmen Mantel an, während Sie die faszinierenden mittelalterlichen Exponate erkunden.",
                 "hu": "A vastag kőfalak télen meglehetősen hűvösek lehetnek, ezért tartsa magán a meleg kabátját, miközben felfedezi a lenyűgöző középkori kiállításokat.",
                 "ro": "Zidurile groase de piatră pot fi destul de reci iarna, așa că păstrați haina groasă pe dumneavoastră în timp ce explorați exponatele medievale fascinante.",
-                "en": "The thick stone walls can be quite chilly in winter, so keep your warm coat on while exploring the fascinating medieval exhibits inside."
+                "en": "The thick stone walls can be quite chilly in winter, so keep your warm coat on while exploring the fascinating medieval exhibits inside.",
+                "fr": "Les murs épais en pierre peuvent être assez froids en hiver, gardez donc votre manteau chaud pour visiter les expositions médiévales intéressantes à l’intérieur."
               }
             },
             {
@@ -288,13 +319,15 @@
                 "de": "Kirche Saint-Étienne",
                 "hu": "Saint-Étienne Templom",
                 "ro": "Biserica Saint-Étienne",
-                "en": "Église Saint-Étienne"
+                "en": "Église Saint-Étienne",
+                "fr": "Église Saint-Étienne"
               },
               "tip_5lang": {
                 "de": "Besuchen Sie diese schöne Kirche, wenn das Winterlicht gegen 17:00 Uhr verblasst, und bieten Sie einen warmen Abschluss Ihres kalten täglichen Spaziergangs.",
                 "hu": "Látogassa meg ezt a gyönyörű templomot, amikor a téli fény délután 5 óra körül fakulni kezd, meleg és békés lezárást kínálva a hideg napi sétának.",
                 "ro": "Vizitați această biserică frumoasă pe măsură ce lumina de iarnă începe să se estompeze în jurul orei 17:00, oferind o încheiere caldă plimbării dumneavoastră.",
-                "en": "Visit this beautiful church as the winter light begins to fade around 5 PM, offering a warm and peaceful conclusion to your cold daily walk."
+                "en": "Visit this beautiful church as the winter light begins to fade around 5 PM, offering a warm and peaceful conclusion to your cold daily walk.",
+                "fr": "Visitez cette belle église alors que la lumière hivernale commence à s’estomper vers 17 h, offrant une conclusion chaleureuse et paisible à votre promenade froide de la journée."
               }
             }
           ]
@@ -314,7 +347,8 @@
             "de": "Place Hennequin",
             "hu": "Place Hennequin",
             "ro": "Piața Hennequin",
-            "en": "Place Hennequin"
+            "en": "Place Hennequin",
+            "fr": "Place Hennequin"
           },
           "coords": [
             3.197906,
@@ -329,7 +363,8 @@
             "de": "Beginnen Sie Ihren Besuch an diesem zentralen Platz, dem historischen Herzen der Stadt, wo Sie einen schnellen Kaffee trinken können, bevor Sie das Erbe erkunden.",
             "hu": "Kezdje a látogatást ezen a központi téren, a város történelmi szívében, ahol igyon egy gyors kávét, mielőtt felfedezné a környező történelmi örökséget.",
             "ro": "Începeți vizita în această piață centrală, inima istorică a orașului, unde puteți savura o cafea rapidă înainte de a explora patrimoniul arhitectural înconjurător.",
-            "en": "Start your visit at this central square, the historic heart of the town, where you can grab a quick coffee before exploring the surrounding heritage."
+            "en": "Start your visit at this central square, the historic heart of the town, where you can grab a quick coffee before exploring the surrounding heritage.",
+            "fr": "Commencez votre visite sur cette place centrale, cœur historique de la ville, où vous pouvez prendre un café rapidement avant d’explorer le patrimoine alentour."
           }
         },
         {
@@ -337,7 +372,8 @@
             "de": "Schloss Gannat",
             "hu": "Gannat Kastélya",
             "ro": "Castelul din Gannat",
-            "en": "Castle of Gannat"
+            "en": "Castle of Gannat",
+            "fr": "Château de Gannat"
           },
           "coords": [
             3.196204,
@@ -352,7 +388,8 @@
             "de": "Erkunden Sie diese beeindruckende Festung, die heute als kulturelles Zentrum dient, und spazieren Sie um die massiven Mauern, um das Design zu würdigen.",
             "hu": "Fedezze fel ezt a lenyűgöző erődöt, amely ma kulturális központként szolgál, és sétáljon végig a hatalmas falak mentén a lenyűgöző stratégiai kialakításért.",
             "ro": "Explorați această fortăreață impresionantă care servește acum drept centru cultural și faceți o plimbare în jurul zidurilor sale masive pentru a-i aprecia designul.",
-            "en": "Explore this impressive fortress which now serves as a cultural hub, and take time to walk around its massive walls to appreciate its strategic design."
+            "en": "Explore this impressive fortress which now serves as a cultural hub, and take time to walk around its massive walls to appreciate its strategic design.",
+            "fr": "Explorez cette imposante forteresse devenue un pôle culturel, et prenez le temps de faire le tour de ses murs massifs pour apprécier sa conception stratégique."
           }
         },
         {
@@ -360,7 +397,8 @@
             "de": "Kirche Saint-Étienne",
             "hu": "Saint-Étienne Templom",
             "ro": "Biserica Saint-Étienne",
-            "en": "Église Saint-Étienne"
+            "en": "Église Saint-Étienne",
+            "fr": "Église Saint-Étienne"
           },
           "coords": [
             3.189619,
@@ -375,7 +413,8 @@
             "de": "Diese malerische Kirche bietet einen friedlichen Rückzugsort mit schönen Buntglasfenstern, also nähern Sie sich leise, um die Atmosphäre zu respektieren.",
             "hu": "Ez a festői templom békés menedéket kínál gyönyörű ólomüveg ablakokkal, ezért csendben közeledjen, hogy tiszteletben tartsa az ősi épület nyugalmát.",
             "ro": "Această biserică pitorească oferă un refugiu liniștit cu vitralii frumoase, așa că apropiați-vă în liniște pentru a respecta atmosfera senină a structurii.",
-            "en": "This quaint church offers a peaceful retreat with beautiful stained glass, so approach quietly to respect the serene atmosphere of this ancient structure."
+            "en": "This quaint church offers a peaceful retreat with beautiful stained glass, so approach quietly to respect the serene atmosphere of this ancient structure.",
+            "fr": "Cette charmante église offre un refuge paisible avec de beaux vitraux ; approchez-vous en silence pour respecter l’atmosphère sereine de cet édifice ancien."
           }
         },
         {
@@ -383,7 +422,8 @@
             "de": "Paleopolis",
             "hu": "Paleopolis",
             "ro": "Paleopolis",
-            "en": "Paleopolis"
+            "en": "Paleopolis",
+            "fr": "Paléopolis"
           },
           "coords": [
             3.16613,
@@ -398,7 +438,8 @@
             "de": "Tauchen Sie in diesem weitläufigen Dinosaurierpark in die prähistorische Welt ein und kommen Sie früh an, um den Massen zu entgehen und gut zu parken.",
             "hu": "Merüljön el a történelem előtti világban ebben a kiterjedt dinoszauruszparkban, és érkezzen korán, hogy elkerülje a tömeget és jó parkolóhelyet találjon.",
             "ro": "Pătrundeți în lumea preistorică la acest vast parc de dinozauri, ajungând devreme pentru a evita aglomerația și a asigura un loc de parcare bun la intrare.",
-            "en": "Dive into the prehistoric world at this expansive dinosaur park, arriving early in the day to beat the crowds and secure a good parking spot nearby."
+            "en": "Dive into the prehistoric world at this expansive dinosaur park, arriving early in the day to beat the crowds and secure a good parking spot nearby.",
+            "fr": "Plongez dans le monde préhistorique de ce vaste parc aux dinosaures ; arrivez tôt dans la journée pour devancer la foule et trouver une bonne place de parking à proximité."
           }
         },
         {
@@ -406,7 +447,8 @@
             "de": "Château de La Motte-Mazerier",
             "hu": "La Motte-Mazerier Kastélya",
             "ro": "Castelul La Motte-Mazerier",
-            "en": "Château de La Motte-Mazerier"
+            "en": "Château de La Motte-Mazerier",
+            "fr": "Château de La Motte-Mazerier"
           },
           "coords": [
             3.185855,
@@ -421,7 +463,8 @@
             "de": "Bewundern Sie dieses elegante Landschloss, das von üppigem Grün umgeben ist, und bleiben Sie auf den markierten Außenwegen, da das Innere privat ist.",
             "hu": "Csodálja meg ezt az elegáns, buja növényzettel körülvett vidéki kastélyt, és maradjon a kijelölt külső utakon, mivel a belső tér nagyrészt magántulajdon.",
             "ro": "Minunați-vă de acest elegant castel de țară înconjurat de verdeață luxuriantă și rămâneți pe cărările exterioare marcate, deoarece interiorul este privat.",
-            "en": "Marvel at this elegant countryside castle surrounded by lush greenery, and stick to the marked exterior paths as the interior is mostly privately owned."
+            "en": "Marvel at this elegant countryside castle surrounded by lush greenery, and stick to the marked exterior paths as the interior is mostly privately owned.",
+            "fr": "Admirez ce château de campagne élégant entouré d’une végétation luxuriante, et restez sur les chemins extérieurs balisés car l’intérieur est majoritairement privé."
           }
         },
         {
@@ -429,7 +472,8 @@
             "de": "Heilig-Kreuz-Kirche",
             "hu": "Sainte-Croix Templom",
             "ro": "Biserica Sainte-Croix",
-            "en": "Sainte-Croix Church"
+            "en": "Sainte-Croix Church",
+            "fr": "Église Sainte-Croix"
           },
           "coords": [
             3.198685,
@@ -444,7 +488,8 @@
             "de": "Bewundern Sie die markante Mischung aus romanischer und gotischer Architektur in dieser Kirche und prüfen Sie vorab die stets variierenden Öffnungszeiten.",
             "hu": "Csodálja meg a román és gótikus építészet lenyűgöző keverékét ebben a gyönyörű templomban, és mindenképpen ellenőrizze a változó nyitvatartási időt.",
             "ro": "Admirați amestecul impresionant de arhitectură romanică și gotică din această biserică frumoasă și verificați în prealabil programul de vizitare care variază.",
-            "en": "Admire the striking mix of Romanesque and Gothic architecture in this beautiful church, and be sure to check the opening hours beforehand as they vary."
+            "en": "Admire the striking mix of Romanesque and Gothic architecture in this beautiful church, and be sure to check the opening hours beforehand as they vary.",
+            "fr": "Admirez le mélange saisissant d’éléments romans et gothiques de cette belle église, et pensez à vérifier les horaires d’ouverture à l’avance car ils varient."
           }
         }
       ],
@@ -452,7 +497,8 @@
         "de": "Ihre Fahrradtour startet komfortabel im Stadtzentrum, wo Sie nach einem schnellen Überblick auf dem Hauptplatz sofort das majestätische Schloss erkunden können. Die frische Luft macht wach für die nahen historischen Entdeckungen.\n\nGegen Mittag radeln Sie entspannt in die Randbezirke zu einer ruhigen Pfarrkirche, bevor die Route Sie aus der Stadt hinaus in die prähistorische Welt eines weitläufigen Freizeitparks führt. Die abwechslungsreichen Wege bieten dabei stets schöne Aussichten.\n\nAm Nachmittag durchqueren Sie grüne Landschaften, um ein beeindruckendes, ländliches Château zu erreichen, das zum Innehalten einlädt. Die sanften Hügel der Umgebung machen das Radeln zu einem großen Vergnügen für Naturfreunde.\n\nDer späte Nachmittag führt Sie zurück ins Zentrum zur gotischen Hauptkirche, wo diese abwechslungsreiche und aktive Route ihren gebührenden Abschluss findet, während Sie sich auf ein wohlverdientes Abendessen freuen können.",
         "hu": "A kerékpártúra kényelmesen, a városközpontban indul, ahol a főtér gyors áttekintése után azonnal felfedezheti a fenséges kastélyt. A friss levegő felébreszti a közeli történelmi felfedezésekhez szükséges kíváncsiságot.\n\nDél körül lazán elteker a külső kerületekbe egy csendes plébániatemplomhoz, mielőtt az útvonal kivezet a városból egy kiterjedt szabadidőpark történelem előtti világába. A változatos utak végig csodás kilátást nyújtanak.\n\nDélután zöldellő tájakon halad keresztül, hogy elérjen egy lenyűgöző, vidéki kastélyt, amely tökéletes egy kis pihenőre. A környék szelíd dombjai miatt a kerékpározás nagy élvezet a természet szerelmeseinek.\n\nA késő délután visszavezeti Önt a központba, a gótikus főtemplomhoz, ahol ez a változatos és aktív útvonal méltóképpen zárul, miközben már egy jól megérdemelt vacsorára is bátran gondolhat.",
         "ro": "Turul dumneavoastră cu bicicleta începe confortabil în centrul orașului, unde, după o privire de ansamblu în piața principală, puteți explora imediat castelul maiestuos. Aerul proaspăt vă trezește interesul pentru descoperirile istorice apropiate.\n\nÎn jurul prânzului, pedalați relaxat spre periferie, către o biserică parohială liniștită, înainte ca traseul să vă scoată din oraș spre lumea preistorică a unui vast parc de agrement. Cărările variate oferă priveliști frumoase pe tot parcursul.\n\nDupă-amiaza veți traversa peisaje verzi pentru a ajunge la un impresionant castel rural, care vă invită la o scurtă pauză. Colinele domoale din împrejurimi fac din ciclism o adevărată plăcere pentru iubitorii de natură.\n\nDupă-amiaza târziu vă conduce înapoi în centru, la biserica principală gotică, unde acest traseu variat și activ își găsește o încheiere binemeritată, în timp ce vă puteți gândi cu bucurie la o cină delicioasă.",
-        "en": "Your bike tour starts comfortably in the city center, where after a quick overview of the main square you can immediately explore the majestic castle. The fresh morning air awakens you for the nearby historical discoveries ahead.\n\nAround midday, you pedal casually to the outskirts to a quiet parish church, before the route leads you out of the city into the prehistoric world of an expansive recreational park. The varied paths consistently offer beautiful views.\n\nIn the afternoon, you ride through verdant landscapes to reach an impressive, rural château that invites you to pause and reflect. The gentle hills of the surrounding area make cycling a great pleasure for true nature lovers.\n\nLate afternoon leads you back to the center to the striking main Gothic church, where this varied and active route finds its fitting conclusion, allowing you to eagerly look forward to a very well-deserved dinner."
+        "en": "Your bike tour starts comfortably in the city center, where after a quick overview of the main square you can immediately explore the majestic castle. The fresh morning air awakens you for the nearby historical discoveries ahead.\n\nAround midday, you pedal casually to the outskirts to a quiet parish church, before the route leads you out of the city into the prehistoric world of an expansive recreational park. The varied paths consistently offer beautiful views.\n\nIn the afternoon, you ride through verdant landscapes to reach an impressive, rural château that invites you to pause and reflect. The gentle hills of the surrounding area make cycling a great pleasure for true nature lovers.\n\nLate afternoon leads you back to the center to the striking main Gothic church, where this varied and active route finds its fitting conclusion, allowing you to eagerly look forward to a very well-deserved dinner.",
+        "fr": "Votre tour à vélo commence confortablement au centre-ville, où après un rapide aperçu de la place principale vous pouvez immédiatement explorer le château majestueux. L’air frais du matin vous éveille pour les découvertes historiques à venir.\n\nVers midi, vous pédalez tranquillement vers la périphérie jusqu’à une paisible église paroissiale, puis l’itinéraire vous conduit hors de la ville vers le monde préhistorique d’un vaste parc de loisirs. Les chemins variés offrent sans cesse de beaux panoramas.\n\nL’après-midi, vous traversez des paysages verdoyants pour atteindre un impressionnant château rural qui invite à la pause et à la réflexion. Les collines douces des environs rendent le vélo particulièrement agréable pour les amoureux de la nature.\n\nLa fin d’après-midi vous ramène au centre jusqu’à la principale église gothique imposante, où cet itinéraire varié et sportif trouve sa conclusion appropriée, vous laissant impatients de savourer un dîner bien mérité."
       },
       "variants": {
         "rainy": {
@@ -460,7 +506,8 @@
             "de": "Radfahren im Regen erfordert gute wasserdichte Kleidung und Vorsicht auf nassem Kopfsteinpflaster. Starten Sie am Hauptplatz, fahren Sie dann vorsichtig zum Schloss. Die Nachmittagsfahrt nach Paleopolis ist nass, aber lohnend; achten Sie auf rutschige Landstraßen. Kehren Sie sicher vor Einbruch der Dunkelheit zurück, bevor der Regen abends noch stärker wird.",
             "hu": "Az esőben való kerékpározáshoz jó vízálló felszerelés és óvatosság szükséges a vizes macskaköveken. Induljon a főtérről, majd tekerjen óvatosan a kastélyhoz. A délutáni út a Paleopolisba vizes, de megéri, csak figyeljen a csúszós vidéki utakra! Térjen vissza biztonságosan, mielőtt az eső este még jobban rákezdene.",
             "ro": "Mersul pe bicicletă pe ploaie necesită echipament impermeabil bun și prudență pe pietruiala udă. Începeți în piața principală, apoi mergeți atent la castel. Plimbarea de după-amiază spre Paleopolis este umedă, dar plină de satisfacții, atenție la drumurile rurale alunecoase. Întoarceți-vă în siguranță înainte ca ploaia să se întețească seara.",
-            "en": "Biking in the rain requires good waterproof gear and extreme caution on wet cobblestones. Start at the main square, then ride carefully to the castle. The afternoon ride to Paleopolis is wet but rewarding, just watch out for very slippery country roads. Return safely before the rain gets significantly heavier in the evening."
+            "en": "Biking in the rain requires good waterproof gear and extreme caution on wet cobblestones. Start at the main square, then ride carefully to the castle. The afternoon ride to Paleopolis is wet but rewarding, just watch out for very slippery country roads. Return safely before the rain gets significantly heavier in the evening.",
+            "fr": "Faire du vélo sous la pluie nécessite un bon équipement imperméable et une grande prudence sur les pavés mouillés. Commencez sur la place principale, puis roulez prudemment jusqu’au château. La balade de l’après-midi vers Paléopolis est humide mais gratifiante ; faites attention aux routes de campagne très glissantes. Revenez en sécurité avant que la pluie ne s’intensifie en soirée."
           },
           "stops": [
             {
@@ -468,13 +515,15 @@
                 "de": "Place Hennequin",
                 "hu": "Place Hennequin",
                 "ro": "Piața Hennequin",
-                "en": "Place Hennequin"
+                "en": "Place Hennequin",
+                "fr": "Place Hennequin"
               },
               "tip_5lang": {
                 "de": "Tragen Sie helle, wasserdichte Kleidung für gute Sichtbarkeit, während Sie Ihre regnerische Radtour von diesem belebten zentralen Platz aus starten.",
                 "hu": "Viseljen élénk színű, vízálló ruházatot a láthatóság érdekében, amikor elindítja esős kerékpártúráját erről a nyüzsgő központi térről.",
                 "ro": "Purtați haine luminoase și impermeabile pentru vizibilitate pe măsură ce începeți turul ciclist ploios din această piață centrală aglomerată.",
-                "en": "Wear bright, waterproof clothing for maximum visibility as you proudly start your rainy cycling tour from this bustling central square."
+                "en": "Wear bright, waterproof clothing for maximum visibility as you proudly start your rainy cycling tour from this bustling central square.",
+                "fr": "Portez des vêtements visibles et imperméables pour être bien repéré en démarrant fièrement votre circuit cycliste pluvieux depuis cette place animée."
               }
             },
             {
@@ -482,13 +531,15 @@
                 "de": "Schloss Gannat",
                 "hu": "Gannat Kastélya",
                 "ro": "Castelul din Gannat",
-                "en": "Castle of Gannat"
+                "en": "Castle of Gannat",
+                "fr": "Château de Gannat"
               },
               "tip_5lang": {
                 "de": "Parken Sie Ihr Fahrrad sicher und trocknen Sie sich im historischen Schloss ab, wo Sie die faszinierenden Exponate fernab des starken Platzregens genießen.",
                 "hu": "Parkolja le biztonságosan a kerékpárját, és szárátkozzon meg a történelmi kastélyban, élvezve a lenyűgöző kiállításokat a heves felhőszakadás elől elzárva.",
                 "ro": "Parcați bicicleta în siguranță și uscați-vă în interiorul castelului istoric, bucurându-vă de exponatele fascinante complet ferit de ploaia torențială.",
-                "en": "Park your bike safely and dry off inside the historic castle, enjoying the fascinating historical exhibits completely out of the heavy downpour."
+                "en": "Park your bike safely and dry off inside the historic castle, enjoying the fascinating historical exhibits completely out of the heavy downpour.",
+                "fr": "Garez votre vélo en sécurité et séchez-vous à l’intérieur du château historique, en profitant des expositions fascinantes à l’abri de la forte averse."
               }
             },
             {
@@ -496,13 +547,15 @@
                 "de": "Kirche Saint-Étienne",
                 "hu": "Saint-Étienne Templom",
                 "ro": "Biserica Saint-Étienne",
-                "en": "Église Saint-Étienne"
+                "en": "Église Saint-Étienne",
+                "fr": "Église Saint-Étienne"
               },
               "tip_5lang": {
                 "de": "Machen Sie in dieser trockenen, ruhigen Kirche eine Pause vom nassen Sattel, dem perfekten Ort, um den anhaltenden Regen abzuschütteln.",
                 "hu": "Tartson egy kis szünetet a nedves nyeregből ebben a száraz, csendes templomban, amely tökéletes hely arra, hogy lerázza magáról a kitartó esőt.",
                 "ro": "Luați o pauză de la șaua udă în această biserică uscată și liniștită, locul perfect pentru a vă scutura de ploaia persistentă.",
-                "en": "Take a brief break from the wet saddle in this dry, quiet church, which is the absolute perfect place for shaking off the persistent rain."
+                "en": "Take a brief break from the wet saddle in this dry, quiet church, which is the absolute perfect place for shaking off the persistent rain.",
+                "fr": "Faites une courte pause hors de la selle humide dans cette église sèche et calme, l’endroit parfait pour se débarrasser de la pluie persistante."
               }
             },
             {
@@ -510,13 +563,15 @@
                 "de": "Paleopolis",
                 "hu": "Paleopolis",
                 "ro": "Paleopolis",
-                "en": "Paleopolis"
+                "en": "Paleopolis",
+                "fr": "Paléopolis"
               },
               "tip_5lang": {
                 "de": "Die lange Fahrt hierher könnte schlammig sein, seien Sie auf nassen Straßen extrem vorsichtig, aber die Indoor-Dinosaurier-Exponate sind es absolut wert.",
                 "hu": "A hosszú út ide saras lehet, ezért legyen rendkívül óvatos a csúszós, nedves utakon, de a fedett dinoszaurusz-kiállítások teljesen megérik az erőfeszítést.",
                 "ro": "Traseul lung până aici poate fi noroios, așa că aveți mare grijă pe drumurile umede, dar exponatele interioare cu dinozauri merită din plin.",
-                "en": "The long ride here might be quite muddy, so take extreme care on the slippery wet roads, but the indoor dinosaur exhibits are totally worth the effort."
+                "en": "The long ride here might be quite muddy, so take extreme care on the slippery wet roads, but the indoor dinosaur exhibits are totally worth the effort.",
+                "fr": "La longue route jusqu’ici peut être très boueuse, prenez donc un soin extrême sur les routes glissantes, mais les expositions intérieures sur les dinosaures valent vraiment l’effort."
               }
             },
             {
@@ -524,13 +579,15 @@
                 "de": "Château de La Motte-Mazerier",
                 "hu": "La Motte-Mazerier Kastélya",
                 "ro": "Castelul La Motte-Mazerier",
-                "en": "Château de La Motte-Mazerier"
+                "en": "Château de La Motte-Mazerier",
+                "fr": "Château de La Motte-Mazerier"
               },
               "tip_5lang": {
                 "de": "Bremsen Sie vorsichtig auf der nassen Anfahrt zu diesem majestätischen Schloss und genießen Sie dann seine Erhabenheit unter dem dramatischen bewölkten Himmel.",
                 "hu": "Óvatosan fékezzen a fenséges kastélyhoz vezető nedves megközelítés során, majd élvezze annak nagyszerűségét a drámai, felhős égbolt alatt.",
                 "ro": "Frânați cu atenție pe drumul ud spre acest castel majestuos, apoi bucurați-vă de măreția sa sub cerul înnorat și dramatic.",
-                "en": "Carefully apply your brakes on the wet approach to this majestic castle, then enjoy its architectural grandeur under the dramatic cloudy sky."
+                "en": "Carefully apply your brakes on the wet approach to this majestic castle, then enjoy its architectural grandeur under the dramatic cloudy sky.",
+                "fr": "Appliquez vos freins avec précaution à l’approche humide de ce château majestueux, puis appréciez sa grandeur architecturale sous un ciel nuageux et dramatique."
               }
             },
             {
@@ -538,13 +595,15 @@
                 "de": "Heilig-Kreuz-Kirche",
                 "hu": "Sainte-Croix Templom",
                 "ro": "Biserica Sainte-Croix",
-                "en": "Sainte-Croix Church"
+                "en": "Sainte-Croix Church",
+                "fr": "Église Sainte-Croix"
               },
               "tip_5lang": {
                 "de": "Beenden Sie Ihre regnerische Fahrt, indem Sie in dieser wunderschönen Kirche Schutz suchen, die ein friedliches und trockenes Ende eines sehr nassen Tages bietet.",
                 "hu": "Fejezze be az esős utat azzal, hogy menedéket keres ebben a gyönyörű templomban, békés és teljesen száraz lezárást kínálva egy nagyon nedves napnak.",
                 "ro": "Încheiați-vă cursa ploioasă căutând adăpost în această biserică frumoasă, oferind un sfârșit pașnic și uscat unei zile foarte umede.",
-                "en": "Finish your rainy ride by safely seeking shelter in this beautiful church, offering a peaceful and perfectly dry end to a very wet cycling day."
+                "en": "Finish your rainy ride by safely seeking shelter in this beautiful church, offering a peaceful and perfectly dry end to a very wet cycling day.",
+                "fr": "Terminez votre balade pluvieuse en trouvant un abri sûr dans cette belle église, qui offre une fin paisible et parfaitement sèche à une journée très humide à vélo."
               }
             }
           ]
@@ -554,7 +613,8 @@
             "de": "Eine winterliche Radtour ist hier erfrischend; tragen Sie Thermoschichten und Handschuhe. Die morgendlichen Schlossbesuche sind klar und kalt. Die Fahrt am Nachmittag erfordert Vorsicht wegen möglichem Frost auf den Landstraßen. Planen Sie Ihre Rückkehr sorgfältig, da die Temperaturen nach Sonnenuntergang (17 Uhr) extrem schnell fallen.",
             "hu": "Egy téli kerékpározás itt igazán felpezsdítő, ezért viseljen termo rétegeket és kesztyűt. A reggeli kastélylátogatások csípősek, de tiszták. A délutáni utazás óvatosságot igényel a vidéki utak lehetséges fagypontja miatt. Tervezze meg gondosan a visszatérést, mivel a hőmérséklet rendkívül gyorsan csökken, amikor a nap délután 5 óra körül lemegy.",
             "ro": "O plimbare cu bicicleta iarna aici este revigorantă, așa că purtați straturi termice și mănuși. Vizitele matinale la castel sunt reci și clare. Călătoria de după-amiază necesită prudență din cauza posibilului îngheț pe drumurile rurale. Planificați întoarcerea cu atenție, deoarece temperaturile scad extrem de repede la apus, în jurul orei 17:00.",
-            "en": "A winter bike ride here is bracing, so wear thick thermal layers and windproof gloves. Morning visits to the castle are crisp and clear. The afternoon journey requires caution due to potential frost on the rural roads. Plan your return carefully, as temperatures drop extremely fast when the sun quickly sets around 5 PM."
+            "en": "A winter bike ride here is bracing, so wear thick thermal layers and windproof gloves. Morning visits to the castle are crisp and clear. The afternoon journey requires caution due to potential frost on the rural roads. Plan your return carefully, as temperatures drop extremely fast when the sun quickly sets around 5 PM.",
+            "fr": "Une balade à vélo hivernale ici est revigorante : portez des couches thermiques épaisses et des gants coupe-vent. Les visites matinales du château sont vives et claires. L’après-midi, soyez prudent en raison du risque de gel sur les routes rurales. Planifiez bien votre retour, car les températures chutent très vite quand le soleil se couche rapidement vers 17 h."
           },
           "stops": [
             {
@@ -562,13 +622,15 @@
                 "de": "Place Hennequin",
                 "hu": "Place Hennequin",
                 "ro": "Piața Hennequin",
-                "en": "Place Hennequin"
+                "en": "Place Hennequin",
+                "fr": "Place Hennequin"
               },
               "tip_5lang": {
                 "de": "Tragen Sie warme Handschuhe und eine zusätzliche Thermoschicht, wenn Sie Ihre kühle Winterradtour auf diesem schönen historischen Platz beginnen.",
                 "hu": "Viseljen meleg kesztyűt és egy extra termo réteget, amikor megkezdi hűvös téli kerékpártúráját ezen a gyönyörű történelmi téren.",
                 "ro": "Purtați mănuși călduroase și un strat termic suplimentar în timp ce începeți turul ciclist rece de iarnă din această frumoasă piață istorică.",
-                "en": "Wear thick warm gloves and an extra thermal layer as you proudly begin your chilly winter cycling tour from this beautiful historic square."
+                "en": "Wear thick warm gloves and an extra thermal layer as you proudly begin your chilly winter cycling tour from this beautiful historic square.",
+                "fr": "Portez des gants chauds épais et une couche thermique supplémentaire en commençant fièrement votre tour cycliste hivernal depuis cette belle place historique."
               }
             },
             {
@@ -576,13 +638,15 @@
                 "de": "Schloss Gannat",
                 "hu": "Gannat Kastélya",
                 "ro": "Castelul din Gannat",
-                "en": "Castle of Gannat"
+                "en": "Castle of Gannat",
+                "fr": "Château de Gannat"
               },
               "tip_5lang": {
                 "de": "Schließen Sie Ihr Fahrrad ab und genießen Sie die Ausstellungen, obwohl die Steinkorridore des Schlosses immer noch Ihre dicke Winterjacke erfordern.",
                 "hu": "Zárja le kerékpárját, és élvezze a kiállításokat, bár a kastély hideg kőfolyosóin továbbra is szükség lesz a vastag téli kabátjára.",
                 "ro": "Legați bicicleta și bucurați-vă de exponate, deși coridoarele de piatră ale castelului pot necesita totuși geaca dumneavoastră groasă de iarnă.",
-                "en": "Lock up your bike safely and enjoy the exhibits, though the cold stone corridors of the castle might still strongly require your thick winter jacket."
+                "en": "Lock up your bike safely and enjoy the exhibits, though the cold stone corridors of the castle might still strongly require your thick winter jacket.",
+                "fr": "Verrouillez votre vélo en sécurité et profitez des expositions, bien que les couloirs en pierre froide du château nécessitent encore votre épais manteau d’hiver."
               }
             },
             {
@@ -590,13 +654,15 @@
                 "de": "Kirche Saint-Étienne",
                 "hu": "Saint-Étienne Templom",
                 "ro": "Biserica Saint-Étienne",
-                "en": "Église Saint-Étienne"
+                "en": "Église Saint-Étienne",
+                "fr": "Église Saint-Étienne"
               },
               "tip_5lang": {
                 "de": "Wärmen Sie Ihre eiskalten Hände im Inneren dieser historischen Kirche nach der frischen Morgenfahrt durch die kalten Straßen von Gannat auf.",
                 "hu": "Melegítse fel jéghideg kezét ebben a történelmi templomban a hideg, fagyos gannat-i utcákon tett csípős reggeli kerékpározás után.",
                 "ro": "Încălziți-vă mâinile înghețate în interiorul acestei biserici istorice după cursa matinală geroasă prin străzile reci din Gannat.",
-                "en": "Warm your freezing cold hands inside this wonderfully historic church after the crisp morning ride through the cold, frosty streets of Gannat."
+                "en": "Warm your freezing cold hands inside this wonderfully historic church after the crisp morning ride through the cold, frosty streets of Gannat.",
+                "fr": "Réchauffez vos mains gelées à l’intérieur de cette église merveilleusement historique après la sortie matinale à vélo dans les rues froides et givrées de Gannat."
               }
             },
             {
@@ -604,13 +670,15 @@
                 "de": "Paleopolis",
                 "hu": "Paleopolis",
                 "ro": "Paleopolis",
-                "en": "Paleopolis"
+                "en": "Paleopolis",
+                "fr": "Paléopolis"
               },
               "tip_5lang": {
                 "de": "Halten Sie ein gleichmäßiges Tempo, um auf der langen Fahrt warm zu bleiben, und genießen Sie dann die beheizten Indoor-Dinosaurier-Ausstellungen.",
                 "hu": "Tartson egyenletes tempót, hogy melegen maradjon a hosszú úton, majd kényelmesen élvezze a fűtött, fedett dinoszaurusz-kiállításokat.",
                 "ro": "Păstrați un ritm constant pentru a vă menține cald pe drumul lung, apoi bucurați-vă de expozițiile interioare încălzite cu dinozauri.",
-                "en": "Keep a very steady pace to stay warm on the long ride out, then comfortably enjoy the thoroughly heated indoor dinosaur exhibitions."
+                "en": "Keep a very steady pace to stay warm on the long ride out, then comfortably enjoy the thoroughly heated indoor dinosaur exhibitions.",
+                "fr": "Maintenez un rythme soutenu pour rester au chaud lors de la longue sortie, puis profitez confortablement des expositions intérieures de dinosaures bien chauffées."
               }
             },
             {
@@ -618,13 +686,15 @@
                 "de": "Château de La Motte-Mazerier",
                 "hu": "La Motte-Mazerier Kastélya",
                 "ro": "Castelul La Motte-Mazerier",
-                "en": "Château de La Motte-Mazerier"
+                "en": "Château de La Motte-Mazerier",
+                "fr": "Château de La Motte-Mazerier"
               },
               "tip_5lang": {
                 "de": "Achten Sie auf gefährliche Eisflächen auf den ländlichen Straßen, die sich diesem atemberaubenden winterlichen Schloss am Nachmittag nähern.",
                 "hu": "Vigyázzon a veszélyes jégfoltokra azokon a vidéki utakon, amelyek a lenyűgöző, téliesített kastélyhoz vezetnek a hideg délután folyamán.",
                 "ro": "Atenție la porțiunile periculoase de gheață de pe drumurile rurale care se apropie de acest castel uimitor de iarnă în timpul după-amiezii.",
-                "en": "Carefully watch out for very dangerous icy patches on the rural roads approaching this stunning winter-bound castle during the late afternoon."
+                "en": "Carefully watch out for very dangerous icy patches on the rural roads approaching this stunning winter-bound castle during the late afternoon.",
+                "fr": "Faites très attention aux plaques de verglas extrêmement dangereuses sur les routes rurales menant à ce magnifique château hivernal en fin d’après‑midi."
               }
             },
             {
@@ -632,13 +702,15 @@
                 "de": "Heilig-Kreuz-Kirche",
                 "hu": "Sainte-Croix Templom",
                 "ro": "Biserica Sainte-Croix",
-                "en": "Sainte-Croix Church"
+                "en": "Sainte-Croix Church",
+                "fr": "Église Sainte‑Croix"
               },
               "tip_5lang": {
                 "de": "Kommen Sie vor der frühen Abenddämmerung um 17:00 Uhr an und genießen Sie das warme Licht im Inneren, während der kalte Winterabend schnell naht.",
                 "hu": "Érkezzen meg a korai, délután 5 órai sötétedés előtt, és élvezze a benti meleg fényt, ahogy a rendkívül hideg téli este gyorsan közeledik.",
                 "ro": "Ajungeți înainte de amurgul timpuriu de la ora 17:00, bucurându-vă de lumina caldă din interior pe măsură ce seara rece de iarnă se apropie rapid.",
-                "en": "Arrive well before the very early 5 PM dusk sets in, enjoying the wonderfully warm light inside as the freezing winter evening approaches rapidly."
+                "en": "Arrive well before the very early 5 PM dusk sets in, enjoying the wonderfully warm light inside as the freezing winter evening approaches rapidly.",
+                "fr": "Arrivez bien avant le tout début du crépuscule à 17h pour profiter de la lumière chaleureuse à l’intérieur alors que la soirée glaciale s’installe rapidement."
               }
             }
           ]
@@ -658,7 +730,8 @@
             "de": "Schloss Gannat",
             "hu": "Gannat Kastélya",
             "ro": "Castelul din Gannat",
-            "en": "Castle of Gannat"
+            "en": "Castle of Gannat",
+            "fr": "Château de Gannat"
           },
           "coords": [
             3.196204,
@@ -673,7 +746,8 @@
             "de": "Erkunden Sie diese beeindruckende Festung, die heute als kulturelles Zentrum dient, und spazieren Sie um die massiven Mauern, um das Design zu würdigen.",
             "hu": "Fedezze fel ezt a lenyűgöző erődöt, amely ma kulturális központként szolgál, és sétáljon végig a hatalmas falak mentén a lenyűgöző stratégiai kialakításért.",
             "ro": "Explorați această fortăreață impresionantă care servește acum drept centru cultural și faceți o plimbare în jurul zidurilor sale masive pentru a-i aprecia designul.",
-            "en": "Explore this impressive fortress which now serves as a cultural hub, and take time to walk around its massive walls to appreciate its strategic design."
+            "en": "Explore this impressive fortress which now serves as a cultural hub, and take time to walk around its massive walls to appreciate its strategic design.",
+            "fr": "Explorez cette imposante forteresse devenue pôle culturel, et prenez le temps de faire le tour de ses murs massifs pour apprécier son architecture stratégique."
           }
         },
         {
@@ -681,7 +755,8 @@
             "de": "Musée Yves-Machelon",
             "hu": "Yves-Machelon Múzeum",
             "ro": "Muzeul Yves-Machelon",
-            "en": "Musée Yves-Machelon"
+            "en": "Musée Yves-Machelon",
+            "fr": "Musée Yves‑Machelon"
           },
           "coords": [
             3.196572,
@@ -696,7 +771,8 @@
             "de": "Entdecken Sie in diesem Museum faszinierende lokale Geschichte und seltene archäologische Funde, aber denken Sie an etwas Bargeld für den reibungslosen Eintritt.",
             "hu": "Fedezze fel a lenyűgöző helyi történelmet és a ritka régészeti leleteket ebben a múzeumban, de ne felejtsen el némi készpénzt hozni a kis belépődíjra.",
             "ro": "Descoperiți istoria locală fascinantă și artefacte arheologice rare în acest muzeu, dar nu uitați să aveți la voi puțin numerar pentru taxa de intrare rapidă.",
-            "en": "Discover fascinating local history and rare archaeological artifacts in this museum, but remember to bring some cash for the small admission fee to enter smoothly."
+            "en": "Discover fascinating local history and rare archaeological artifacts in this museum, but remember to bring some cash for the small admission fee to enter smoothly.",
+            "fr": "Découvrez l’histoire locale fascinante et des artefacts archéologiques rares, mais pensez à prévoir un peu d’argent liquide pour le petit droit d’entrée."
           }
         },
         {
@@ -704,7 +780,8 @@
             "de": "Place Hennequin",
             "hu": "Place Hennequin",
             "ro": "Piața Hennequin",
-            "en": "Place Hennequin"
+            "en": "Place Hennequin",
+            "fr": "Place Hennequin"
           },
           "coords": [
             3.197906,
@@ -719,7 +796,8 @@
             "de": "Beginnen Sie Ihren Besuch an diesem zentralen Platz, dem historischen Herzen der Stadt, wo Sie einen schnellen Kaffee trinken können, bevor Sie das Erbe erkunden.",
             "hu": "Kezdje a látogatást ezen a központi téren, a város történelmi szívében, ahol igyon egy gyors kávét, mielőtt felfedezné a környező történelmi örökséget.",
             "ro": "Începeți vizita în această piață centrală, inima istorică a orașului, unde puteți savura o cafea rapidă înainte de a explora patrimoniul arhitectural înconjurător.",
-            "en": "Start your visit at this central square, the historic heart of the town, where you can grab a quick coffee before exploring the surrounding heritage."
+            "en": "Start your visit at this central square, the historic heart of the town, where you can grab a quick coffee before exploring the surrounding heritage.",
+            "fr": "Commencez votre visite sur cette place centrale, cœur historique de la ville, où vous pouvez prendre un café rapide avant d’explorer le patrimoine alentour."
           }
         },
         {
@@ -727,7 +805,8 @@
             "de": "Heilig-Kreuz-Kirche",
             "hu": "Sainte-Croix Templom",
             "ro": "Biserica Sainte-Croix",
-            "en": "Sainte-Croix Church"
+            "en": "Sainte-Croix Church",
+            "fr": "Église Sainte‑Croix"
           },
           "coords": [
             3.198685,
@@ -742,7 +821,8 @@
             "de": "Bewundern Sie die markante Mischung aus romanischer und gotischer Architektur in dieser Kirche und prüfen Sie vorab die stets variierenden Öffnungszeiten.",
             "hu": "Csodálja meg a román és gótikus építészet lenyűgöző keverékét ebben a gyönyörű templomban, és mindenképpen ellenőrizze a változó nyitvatartási időt.",
             "ro": "Admirați amestecul impresionant de arhitectură romanică și gotică din această biserică frumoasă și verificați în prealabil programul de vizitare care variază.",
-            "en": "Admire the striking mix of Romanesque and Gothic architecture in this beautiful church, and be sure to check the opening hours beforehand as they vary."
+            "en": "Admire the striking mix of Romanesque and Gothic architecture in this beautiful church, and be sure to check the opening hours beforehand as they vary.",
+            "fr": "Admirez le mélange saisissant d’architecture romane et gothique de cette belle église, et vérifiez les heures d’ouverture à l’avance car elles varient."
           }
         },
         {
@@ -750,7 +830,8 @@
             "de": "Paleopolis",
             "hu": "Paleopolis",
             "ro": "Paleopolis",
-            "en": "Paleopolis"
+            "en": "Paleopolis",
+            "fr": "Paléopolis"
           },
           "coords": [
             3.16613,
@@ -765,7 +846,8 @@
             "de": "Tauchen Sie in diesem weitläufigen Dinosaurierpark in die prähistorische Welt ein und kommen Sie früh an, um den Massen zu entgehen und gut zu parken.",
             "hu": "Merüljön el a történelem előtti világban ebben a kiterjedt dinoszauruszparkban, és érkezzen korán, hogy elkerülje a tömeget és jó parkolóhelyet találjon.",
             "ro": "Pătrundeți în lumea preistorică la acest vast parc de dinozauri, ajungând devreme pentru a evita aglomerația și a asigura un loc de parcare bun la intrare.",
-            "en": "Dive into the prehistoric world at this expansive dinosaur park, arriving early in the day to beat the crowds and secure a good parking spot nearby."
+            "en": "Dive into the prehistoric world at this expansive dinosaur park, arriving early in the day to beat the crowds and secure a good parking spot nearby.",
+            "fr": "Plongez dans le monde préhistorique de ce vaste parc de dinosaures ; arrivez tôt pour éviter la foule et trouver une bonne place de parking à proximité."
           }
         },
         {
@@ -773,7 +855,8 @@
             "de": "Kirche Saint-Saturnin",
             "hu": "Saint-Saturnin Templom",
             "ro": "Biserica Saint-Saturnin",
-            "en": "Église Saint-Saturnin"
+            "en": "Église Saint-Saturnin",
+            "fr": "Église Saint‑Saturnin"
           },
           "coords": [
             3.189185,
@@ -788,7 +871,8 @@
             "de": "Betreten Sie diese charmante, weniger bekannte Dorfkirche, um ihre historischen rustikalen Fresken zu beobachten, und bringen Sie eine warme Jacke mit.",
             "hu": "Lépjen be ebbe a bájos, kevésbé ismert falusi templomba, hogy megfigyelje történelmi rusztikus freskóit, és vigyen magával kabátot a hűvös belső tér miatt.",
             "ro": "Pășiți în această biserică de sat fermecătoare și mai puțin cunoscută pentru a observa frescele sale rustice, aducând o jachetă deoarece interiorul este răcoros.",
-            "en": "Step into this charming, lesser-known village church to observe its historic rustic frescoes, making sure to bring a jacket as the stone interior is quite cool."
+            "en": "Step into this charming, lesser-known village church to observe its historic rustic frescoes, making sure to bring a jacket as the stone interior is quite cool.",
+            "fr": "Pénétrez dans cette charmante église de village moins connue pour observer ses fresques rustiques historiques ; pensez à emporter une veste car l’intérieur en pierre est assez frais."
           }
         },
         {
@@ -796,7 +880,8 @@
             "de": "Château de La Motte-Mazerier",
             "hu": "La Motte-Mazerier Kastélya",
             "ro": "Castelul La Motte-Mazerier",
-            "en": "Château de La Motte-Mazerier"
+            "en": "Château de La Motte-Mazerier",
+            "fr": "Château de La Motte‑Mazerier"
           },
           "coords": [
             3.185855,
@@ -811,7 +896,8 @@
             "de": "Bewundern Sie dieses elegante Landschloss, das von üppigem Grün umgeben ist, und bleiben Sie auf den markierten Außenwegen, da das Innere privat ist.",
             "hu": "Csodálja meg ezt az elegáns, buja növényzettel körülvett vidéki kastélyt, és maradjon a kijelölt külső utakon, mivel a belső tér nagyrészt magántulajdon.",
             "ro": "Minunați-vă de acest elegant castel de țară înconjurat de verdeață luxuriantă și rămâneți pe cărările exterioare marcate, deoarece interiorul este privat.",
-            "en": "Marvel at this elegant countryside castle surrounded by lush greenery, and stick to the marked exterior paths as the interior is mostly privately owned."
+            "en": "Marvel at this elegant countryside castle surrounded by lush greenery, and stick to the marked exterior paths as the interior is mostly privately owned.",
+            "fr": "Admirez ce élégant château de campagne entouré d’un écrin de verdure et restez sur les sentiers extérieurs balisés, l’intérieur étant pour la plupart privé."
           }
         }
       ],
@@ -819,7 +905,8 @@
         "de": "Dieser motorisierte Ausflug beginnt tief in der Vergangenheit am eindrucksvollen Schloss von Gannat, wo Sie Ihr Fahrzeug bequem parken können. Das angrenzende Museum vertieft anschließend Ihr Verständnis für die reiche lokale Geschichte der Stadt.\n\nGegen Mittag steuern Sie den lebhaften Marktplatz an, um eine kurze urbane Pause einzulegen, gefolgt von einer Besichtigung der nahegelegenen Hauptkirche. Die Flexibilität des Autos macht diesen Wechsel der Szenerie völlig stressfrei und angenehm.\n\nAm Nachmittag verlassen Sie das städtische Zentrum und tauchen im familienfreundlichen Paleopolis in die aufregende Welt der Dinosaurier ein. Diese Fahrt ins Grüne bietet einen tollen Kontrast zu den vormittäglichen kulturellen Sehenswürdigkeiten.\n\nDer späte Nachmittag führt Sie weiter durch die malerischen Ausläufer zu einer idyllischen Dorfkirche und endet schließlich an einem prächtigen ländlichen Château. Hier lassen Sie den dynamischen Tag fernab der Hektik ganz entspannt ausklingen.",
         "hu": "Ez a motoros kirándulás a múltban, Gannat lenyűgöző kastélyánál kezdődik, ahol kényelmesen leparkolhatja járművét. A szomszédos múzeum ezután elmélyíti megértését a város gazdag és sokszínű helyi történelmével kapcsolatban.\n\nDél körül a nyüzsgő főtér felé veszi az irányt egy rövid városi pihenőre, amelyet a közeli főtemplom meglátogatása követ. Az autó nyújtotta rugalmasság ezt a helyszínváltást teljesen stresszmentessé és hihetetlenül kényelmessé teszi.\n\nDélután elhagyja a városközpontot, és a családbarát Paleopolisban belemerül a dinoszauruszok izgalmas világába. Ez a zöldövezeti autózás nagyszerű kontrasztot kínál a délelőtti komolyabb kulturális és történelmi látnivalókhoz képest.\n\nA késő délután továbbvezeti Önt a festői peremvidéken egy idilli falusi templomhoz, végül pedig egy csodálatos vidéki kastélynál ér véget. Itt, távol a nyüzsgéstől, teljesen nyugodtan és elégedetten zárhatja ezt a dinamikus napot.",
         "ro": "Această excursie motorizată începe adânc în trecut, la impresionantul castel din Gannat, unde vă puteți parca vehiculul confortabil. Muzeul adiacent vă va aprofunda apoi înțelegerea bogatei istorii locale a acestui oraș fascinant.\n\nÎn jurul prânzului, vă îndreptați spre piața plină de viață pentru o scurtă pauză urbană, urmată de o vizită la biserica principală din apropiere. Flexibilitatea mașinii face această schimbare de peisaj complet lipsită de stres și foarte plăcută.\n\nDupă-amiaza, părăsiți centrul urban și vă cufundați în lumea captivantă a dinozaurilor la Paleopolis, un loc ideal pentru familii. Această plimbare cu mașina spre zonele verzi oferă un contrast excelent cu atracțiile culturale de dimineață.\n\nDupă-amiaza târziu vă poartă mai departe prin periferiile pitorești către o biserică de sat idilică și se încheie la un magnific castel rural. Aici, departe de agitație, lăsați această zi dinamică să se încheie într-o atmosferă complet relaxată.",
-        "en": "This motorized excursion begins deep in the past at the impressive Castle of Gannat, where you can easily park your vehicle right outside. The adjacent museum then deepens your understanding of the surprisingly rich local history of the town.\n\nAround midday, you drive to the bustling main square for a short urban break, followed closely by a visit to the nearby principal church. The flexibility of having a car makes this quick change of scenery completely stress-free and enjoyable.\n\nIn the afternoon, you leave the urban center entirely and dive into the exciting world of dinosaurs at the family-friendly Paleopolis. This drive into the green outskirts offers a fantastic contrast to the morning's intense cultural and historical sights.\n\nLate afternoon leads you further through the picturesque outskirts to an idyllic village church, finally ending at a magnificent rural château. Here, far away from any hustle, you can let this highly dynamic day come to a completely relaxed end."
+        "en": "This motorized excursion begins deep in the past at the impressive Castle of Gannat, where you can easily park your vehicle right outside. The adjacent museum then deepens your understanding of the surprisingly rich local history of the town.\n\nAround midday, you drive to the bustling main square for a short urban break, followed closely by a visit to the nearby principal church. The flexibility of having a car makes this quick change of scenery completely stress-free and enjoyable.\n\nIn the afternoon, you leave the urban center entirely and dive into the exciting world of dinosaurs at the family-friendly Paleopolis. This drive into the green outskirts offers a fantastic contrast to the morning's intense cultural and historical sights.\n\nLate afternoon leads you further through the picturesque outskirts to an idyllic village church, finally ending at a magnificent rural château. Here, far away from any hustle, you can let this highly dynamic day come to a completely relaxed end.",
+        "fr": "Cette excursion motorisée commence dans le passé au remarquable Château de Gannat, où vous pouvez facilement garer votre véhicule juste à l’extérieur. Le musée adjacent approfondit ensuite votre compréhension de l’histoire locale étonnamment riche de la ville.\n\nVers midi, vous rejoignez la place principale animée pour une courte pause urbaine, suivie d’une visite de l’église principale à proximité. La flexibilité apportée par la voiture rend ce changement de décor rapide totalement sans stress et agréable.\n\nL’après‑midi, vous quittez complètement le centre urbain et plongez dans le monde excitant des dinosaures à Paléopolis, familial et ludique. Cette escapade dans la périphérie verte offre un contraste fantastique avec les visites culturelles et historiques du matin.\n\nEn fin d’après‑midi, vous traversez davantage les paysages pittoresques jusqu’à une église de village idyllique, pour finir au pied d’un magnifique château rural. Ici, loin de toute agitation, vous pouvez laisser cette journée très dynamique se conclure dans une grande détente."
       },
       "variants": {
         "rainy": {
@@ -827,7 +914,8 @@
             "de": "Autofahren ist heute der absolut beste Weg, um trocken zu bleiben. Verbringen Sie Ihren Vormittag damit, zwischen dem Schloss und dem Museum zu pendeln, und nutzen Sie die nahegelegenen Parkplätze. Die Nachmittagsfahrt zu den entfernten Burgen ist komfortabel; fahren Sie einfach vorsichtig auf nassen, rutschigen Straßen und halten Sie für kurze Wege einen Regenschirm bereit.",
             "hu": "Az autóvezetés ma a legjobb módja a szárazon maradásnak. Töltse a délelőttöt a kastély és a múzeum között, kihasználva a közeli parkolókat. A délutáni autózás a Paleopolisba és a távolabbi kastélyokba kényelmes; csak vezessen óvatosan a vizes, csúszós utakon, és tartson kéznél egy esernyőt a rövid sétákhoz a megállók között.",
             "ro": "Condusul este absolut cel mai bun mod de a rămâne uscat astăzi. Petreceți-vă dimineața pendulând între castel și muzeu, folosind parcările din apropiere. Condusul de după-amiază spre castelele îndepărtate este confortabil, doar conduceți cu atenție pe drumurile ude, alunecoase și păstrați o umbrelă la îndemână pentru scurte plimbări.",
-            "en": "Driving is the absolute best way to stay completely dry today. Spend your morning comfortably hopping between the castle and museum, utilizing convenient nearby parking. The afternoon drive out to Paleopolis and the distant castles is very comfortable, just drive carefully on wet, slippery roads and keep a sturdy umbrella quite handy."
+            "en": "Driving is the absolute best way to stay completely dry today. Spend your morning comfortably hopping between the castle and museum, utilizing convenient nearby parking. The afternoon drive out to Paleopolis and the distant castles is very comfortable, just drive carefully on wet, slippery roads and keep a sturdy umbrella quite handy.",
+            "fr": "Conduire est de loin le meilleur moyen de rester complètement au sec aujourd’hui. Passez la matinée à alterner confortablement entre le château et le musée, en utilisant les parkings pratiques à proximité. L’après‑midi, la route vers Paléopolis et les châteaux lointains est agréable ; conduisez prudemment sur les routes humides et glissantes et gardez un parapluie solide à portée de main."
           },
           "stops": [
             {
@@ -835,13 +923,15 @@
                 "de": "Schloss Gannat",
                 "hu": "Gannat Kastélya",
                 "ro": "Castelul din Gannat",
-                "en": "Castle of Gannat"
+                "en": "Castle of Gannat",
+                "fr": "Château de Gannat"
               },
               "tip_5lang": {
                 "de": "Parken Sie dicht dran, um dem Regen zu entgehen, und treten Sie schnell ein, um die trockenen, überdachten historischen Ausstellungen zu erkunden.",
                 "hu": "Parkoljon közel a bejárathoz, hogy elkerülje az esőt, és lépjen be gyorsan, hogy felfedezze a száraz, fedett történelmi kiállításokat.",
                 "ro": "Parcați aproape pentru a evita ploaia și pășiți rapid înăuntru pentru a explora expozițiile istorice uscate și complet acoperite.",
-                "en": "Park your car very close to comfortably avoid the rain and step directly inside to thoroughly explore the completely dry, covered historical exhibits."
+                "en": "Park your car very close to comfortably avoid the rain and step directly inside to thoroughly explore the completely dry, covered historical exhibits.",
+                "fr": "Garez votre voiture tout près pour éviter la pluie et entrez directement pour explorer en toute tranquillité les expositions historiques couvertes et sèches."
               }
             },
             {
@@ -849,13 +939,15 @@
                 "de": "Musée Yves-Machelon",
                 "hu": "Yves-Machelon Múzeum",
                 "ro": "Muzeul Yves-Machelon",
-                "en": "Musée Yves-Machelon"
+                "en": "Musée Yves-Machelon",
+                "fr": "Musée Yves‑Machelon"
               },
               "tip_5lang": {
                 "de": "Genießen Sie dieses großartige Innenmuseum, ein perfekter Zufluchtsort vor den Schauern, wo Sie tief in die lokale Geschichte eintauchen können.",
                 "hu": "Élvezze ezt a nagyszerű fedett múzeumot, amely tökéletes menedék a záporok elől, ahol kényelmesen elmerülhet a gazdag helyi történelemben.",
                 "ro": "Bucurați-vă de acest muzeu interior grozav, un refugiu perfect din calea averselor unde vă puteți scufunda adânc în istoria locală.",
-                "en": "Enjoy this fantastic indoor museum, a genuinely perfect refuge from the cold showers where you can dive deeply into the fascinating local history."
+                "en": "Enjoy this fantastic indoor museum, a genuinely perfect refuge from the cold showers where you can dive deeply into the fascinating local history.",
+                "fr": "Profitez de ce formidable musée intérieur, un refuge parfait contre la pluie où vous pouvez vous plonger en profondeur dans l’histoire locale."
               }
             },
             {
@@ -863,13 +955,15 @@
                 "de": "Place Hennequin",
                 "hu": "Place Hennequin",
                 "ro": "Piața Hennequin",
-                "en": "Place Hennequin"
+                "en": "Place Hennequin",
+                "fr": "Place Hennequin"
               },
               "tip_5lang": {
                 "de": "Werfen Sie einen kurzen Blick aus dem Auto oder nutzen Sie einen Regenschirm für einen sehr kurzen Spaziergang um diesen nassen städtischen Platz.",
                 "hu": "Vessen egy gyors pillantást az autóból, vagy használjon esernyőt egy nagyon rövid, frissítő sétához ezen a nedves, történelmi városi téren.",
                 "ro": "Aruncați o scurtă privire din mașină sau folosiți o umbrelă pentru o plimbare foarte scurtă în jurul acestei piețe civice umede.",
-                "en": "Take a very quick look from the warmth of the car or vigorously use an umbrella for a brief stroll around this rather wet and shiny civic square."
+                "en": "Take a very quick look from the warmth of the car or vigorously use an umbrella for a brief stroll around this rather wet and shiny civic square.",
+                "fr": "Jetez un coup d’œil rapide depuis la chaleur de la voiture ou utilisez vigoureusement un parapluie pour une brève promenade autour de cette place civique assez mouillée et brillante."
               }
             },
             {
@@ -877,13 +971,15 @@
                 "de": "Heilig-Kreuz-Kirche",
                 "hu": "Sainte-Croix Templom",
                 "ro": "Biserica Sainte-Croix",
-                "en": "Sainte-Croix Church"
+                "en": "Sainte-Croix Church",
+                "fr": "Église Sainte‑Croix"
               },
               "tip_5lang": {
                 "de": "Treten Sie direkt von Ihrem warmen Auto in das trockene, friedliche Innere, um die atemberaubende religiöse Architektur in Ruhe zu bewundern.",
                 "hu": "Lépjen közvetlenül a meleg autójából a száraz, békés belső térbe, hogy teljes nyugalomban megcsodálja a lenyűgöző vallási építészetet.",
                 "ro": "Pășiți direct din mașina dumneavoastră caldă în interiorul uscat și pașnic pentru a admira în liniște arhitectura religioasă uimitoare.",
-                "en": "Step directly from your warm, dry car into the wonderfully dry, peaceful interior to comfortably admire its stunning religious architecture."
+                "en": "Step directly from your warm, dry car into the wonderfully dry, peaceful interior to comfortably admire its stunning religious architecture.",
+                "fr": "Allez directement de votre voiture chaude et sèche vers l’intérieur paisible et sec pour admirer confortablement son architecture religieuse remarquable."
               }
             },
             {
@@ -891,13 +987,15 @@
                 "de": "Paleopolis",
                 "hu": "Paleopolis",
                 "ro": "Paleopolis",
-                "en": "Paleopolis"
+                "en": "Paleopolis",
+                "fr": "Paléopolis"
               },
               "tip_5lang": {
                 "de": "Fahren Sie äußerst vorsichtig auf den nassen Straßen, um diesen Park zu erreichen, wo faszinierende Innenausstellungen Sie vor dem Regen schützen.",
                 "hu": "Vezessen rendkívül óvatosan a nedves utakon, hogy elérje ezt a parkot, ahol a lenyűgöző fedett kiállítások teljesen megvédik az esőtől.",
                 "ro": "Conduceți cu mare atenție pe drumurile umede pentru a ajunge în acest parc, unde exponatele interioare fascinante vă țin departe de ploaie.",
-                "en": "Drive very carefully on the completely wet roads to reach this park, where fascinating indoor exhibits effectively keep you totally out of the rain."
+                "en": "Drive very carefully on the completely wet roads to reach this park, where fascinating indoor exhibits effectively keep you totally out of the rain.",
+                "fr": "Conduisez très prudemment sur les routes totalement mouillées pour atteindre ce parc, où des expositions intérieures intéressantes vous protègent efficacement de la pluie."
               }
             },
             {
@@ -905,13 +1003,15 @@
                 "de": "Kirche Saint-Saturnin",
                 "hu": "Saint-Saturnin Templom",
                 "ro": "Biserica Saint-Saturnin",
-                "en": "Église Saint-Saturnin"
+                "en": "Église Saint-Saturnin",
+                "fr": "Église Saint‑Saturnin"
               },
               "tip_5lang": {
                 "de": "Parken Sie ganz in der Nähe und huschen Sie hinein, um die heitere und trockene Atmosphäre fernab des trostlosen Wetters draußen zu genießen.",
                 "hu": "Parkoljon nagyon közel, és siessen befelé, hogy élvezze a derűs és teljesen száraz légkört távol a kinti zord, lehangoló esős időjárástól.",
                 "ro": "Parcați foarte aproape și fugiți înăuntru pentru a vă bucura de atmosfera senină și uscată, departe de vremea mohorâtă de afară.",
-                "en": "Park very close by and quickly dash inside to enjoy the serene and dry atmosphere completely away from the very dreary, wet weather outside."
+                "en": "Park very close by and quickly dash inside to enjoy the serene and dry atmosphere completely away from the very dreary, wet weather outside.",
+                "fr": "Garez‑vous tout près et courez à l’intérieur pour profiter de l’atmosphère sereine et sèche, loin du temps maussade et très humide extérieur."
               }
             },
             {
@@ -919,13 +1019,15 @@
                 "de": "Château de La Motte-Mazerier",
                 "hu": "La Motte-Mazerier Kastélya",
                 "ro": "Castelul La Motte-Mazerier",
-                "en": "Château de La Motte-Mazerier"
+                "en": "Château de La Motte-Mazerier",
+                "fr": "Château de La Motte‑Mazerier"
               },
               "tip_5lang": {
                 "de": "Die nassen Straßen, die hierher führen, erfordern vorsichtiges Fahren, aber die beeindruckende Aussicht auf das Schloss lohnt sich am Nachmittag.",
                 "hu": "Az ide vezető nedves utak óvatos vezetést igényelnek, de a lenyűgöző kilátás a kastélyra a felhős délutánon minden erőfeszítést megér.",
                 "ro": "Drumurile ude care duc aici necesită o conducere prudentă, dar priveliștile impresionante ale castelului în după-amiaza înnorată merită din plin.",
-                "en": "The rather wet roads leading here strictly require cautious driving, but the impressive castle views under the cloudy sky are entirely worth it."
+                "en": "The rather wet roads leading here strictly require cautious driving, but the impressive castle views under the cloudy sky are entirely worth it.",
+                "fr": "Les routes assez humides menant ici demandent une conduite prudente, mais les vues impressionnantes du château sous un ciel nuageux en valent entièrement la peine."
               }
             }
           ]
@@ -935,7 +1037,8 @@
             "de": "Die Autoheizung ist an diesem kalten Wintertag Ihr bester Freund. Der Vormittag ist perfekt für den Besuch von Schloss und Museum, während der Frost auftaut. Nach einem mittäglichen Kirchenbesuch fahren Sie bequem nach Paleopolis. Der frühe Sonnenuntergang (17 Uhr) bedeutet, dass Sie im Dunkeln zurückfahren; achten Sie unbedingt auf vereiste Straßen.",
             "hu": "Az autó fűtése a legjobb barátja ezen a hideg téli napon. A délelőtt tökéletes a kastély és a múzeum meglátogatására, amíg a kinti fagy lassan felenged. A déli templomlátogatás után vezessen ki kényelmesen a Paleopolisba. A korai, 17 órai naplemente miatt sötétben fog visszavezetni, ezért nagyon figyeljen a jeges, csúszós utakra.",
             "ro": "Căldura mașinii este cel mai bun prieten al dumneavoastră în această zi rece de iarnă. Dimineața este perfectă pentru a vizita castelul și muzeul în timp ce gerul se topește. După o vizită la biserică la prânz, conduceți spre Paleopolis. Apusul de la ora 17:00 înseamnă că veți conduce înapoi pe întuneric, deci atenție la drumurile înghețate.",
-            "en": "Your car's heater is your absolute best friend on this freezing cold winter day. The morning is perfect for visiting the castle and museum while the outdoor frost safely thaws. After a midday church visit, drive out to Paleopolis. The very early 5 PM sunset means you will be driving back in the total dark, so watch out for icy roads."
+            "en": "Your car's heater is your absolute best friend on this freezing cold winter day. The morning is perfect for visiting the castle and museum while the outdoor frost safely thaws. After a midday church visit, drive out to Paleopolis. The very early 5 PM sunset means you will be driving back in the total dark, so watch out for icy roads.",
+            "fr": "Le chauffage de votre voiture est votre meilleur allié par cette journée d’hiver glaciale. La matinée est parfaite pour visiter le château et le musée pendant que le gel extérieur dégèle doucement. Après une visite d’église à midi, conduisez jusqu’à Paléopolis. Le coucher du soleil très tôt à 17h signifie que vous roulerez de nuit pour le retour, donc attention au verglas."
           },
           "stops": [
             {
@@ -943,13 +1046,15 @@
                 "de": "Schloss Gannat",
                 "hu": "Gannat Kastélya",
                 "ro": "Castelul din Gannat",
-                "en": "Castle of Gannat"
+                "en": "Castle of Gannat",
+                "fr": "Château de Gannat"
               },
               "tip_5lang": {
                 "de": "Beginnen Sie Ihren Tag mit der Erkundung der reichen Geschichte hier; die Steinmauern sind sehr kalt, behalten Sie also Ihren Wintermantel drinnen an.",
                 "hu": "Kezdje a napot a gazdag történelem felfedezésével; a kőfalak nagyon hidegek, ezért mindenképpen tartsa magán a téli kabátját a belső terekben is.",
                 "ro": "Începeți ziua explorând istoria bogată de aici; zidurile de piatră sunt foarte reci, așa că păstrați-vă haina de iarnă pe dumneavoastră în interior.",
-                "en": "Start your day safely exploring the rich history here; the old stone walls are quite cold, so definitely keep your thick winter coat on while inside."
+                "en": "Start your day safely exploring the rich history here; the old stone walls are quite cold, so definitely keep your thick winter coat on while inside.",
+                "fr": "Commencez la journée en explorant en toute sécurité cette histoire riche ; les vieux murs de pierre sont très froids, gardez donc votre manteau d’hiver bien fermé à l’intérieur."
               }
             },
             {
@@ -957,13 +1062,15 @@
                 "de": "Musée Yves-Machelon",
                 "hu": "Yves-Machelon Múzeum",
                 "ro": "Muzeul Yves-Machelon",
-                "en": "Musée Yves-Machelon"
+                "en": "Musée Yves-Machelon",
+                "fr": "Musée Yves‑Machelon"
               },
               "tip_5lang": {
                 "de": "Wärmen Sie sich in diesem beheizten Innenraum wunderbar auf, während Sie am eiskalten Morgen viel über die faszinierende lokale Kultur lernen.",
                 "hu": "Melegedjen fel nagyszerűen ebben a fűtött belső térben, miközben rengeteget tanul a lenyűgöző helyi kultúráról a fagyos, hideg téli délelőttön.",
                 "ro": "Încălziți-vă minunat în acest spațiu interior încălzit în timp ce învățați despre cultura locală fascinantă în timpul dimineții foarte reci.",
-                "en": "Warm up wonderfully in this effectively heated indoor space while closely learning about the fascinating local culture during the freezing morning."
+                "en": "Warm up wonderfully in this effectively heated indoor space while closely learning about the fascinating local culture during the freezing morning.",
+                "fr": "Réchauffez‑vous agréablement dans cet espace intérieur chauffé tout en découvrant la culture locale fascinante pendant la matinée glaciale."
               }
             },
             {
@@ -971,13 +1078,15 @@
                 "de": "Place Hennequin",
                 "hu": "Place Hennequin",
                 "ro": "Piața Hennequin",
-                "en": "Place Hennequin"
+                "en": "Place Hennequin",
+                "fr": "Place Hennequin"
               },
               "tip_5lang": {
                 "de": "Genießen Sie einen sehr flotten Spaziergang um den historischen Platz, bevor Sie schnell in die beruhigende Wärme Ihres beheizten Autos zurückkehren.",
                 "hu": "Élvezze a nagyon fürge sétát a történelmi tér körül, mielőtt gyorsan visszatérne a kényelmesen fűtött autója megnyugtató, kellemes melegébe.",
                 "ro": "Bucurați-vă de o plimbare foarte vioaie în jurul pieței istorice înainte de a vă întoarce rapid la căldura reconfortantă a mașinii dumneavoastră.",
-                "en": "Enjoy a very brisk, refreshing walk around the historic square before quickly returning to the comforting, cozy warmth of your nicely heated car."
+                "en": "Enjoy a very brisk, refreshing walk around the historic square before quickly returning to the comforting, cozy warmth of your nicely heated car.",
+                "fr": "Faites une promenade très brève et vivifiante autour de la place historique avant de retourner rapidement à la chaleur réconfortante de votre voiture bien chauffée."
               }
             },
             {
@@ -985,13 +1094,15 @@
                 "de": "Heilig-Kreuz-Kirche",
                 "hu": "Sainte-Croix Templom",
                 "ro": "Biserica Sainte-Croix",
-                "en": "Sainte-Croix Church"
+                "en": "Sainte-Croix Church",
+                "fr": "Église Sainte‑Croix"
               },
               "tip_5lang": {
                 "de": "Die ruhige, kalte Schönheit dieser Kirche wird durch ihre zutiefst friedliche Winteratmosphäre innerhalb der dicken Mauern perfekt ergänzt.",
                 "hu": "Ennek a templomnak a csendes, hideg szépségét tökéletesen kiegészíti a vastag falak között uralkodó, mélyen békés és lenyűgöző téli hangulat.",
                 "ro": "Frumusețea rece și liniștită a acestei biserici este perfect completată de atmosfera sa pașnică de iarnă din interiorul zidurilor groase.",
-                "en": "The quiet, cold beauty of this classic church is perfectly complemented by its profoundly peaceful winter atmosphere inside the thick stone walls."
+                "en": "The quiet, cold beauty of this classic church is perfectly complemented by its profoundly peaceful winter atmosphere inside the thick stone walls.",
+                "fr": "La beauté froide et silencieuse de cette église classique est parfaitement renforcée par son atmosphère hivernale profondément paisible à l’intérieur des épaisses pierres."
               }
             },
             {
@@ -999,13 +1110,15 @@
                 "de": "Paleopolis",
                 "hu": "Paleopolis",
                 "ro": "Paleopolis",
-                "en": "Paleopolis"
+                "en": "Paleopolis",
+                "fr": "Paléopolis"
               },
               "tip_5lang": {
                 "de": "Genießen Sie die malerische Winterfahrt hierher, wo beheizte Indoor-Dinosaurier-Pavillons eine wirklich lustige, warme Flucht am Nachmittag bieten.",
                 "hu": "Élvezze a festői téli autózást ide, ahol a fűtött beltéri dinoszaurusz pavilonok igazán szórakoztató és nagyon meleg délutáni kikapcsolódást kínálnak.",
                 "ro": "Bucurați-vă de drumul pitoresc de iarnă până aici, unde pavilioanele interioare încălzite cu dinozauri oferă o evadare caldă și distractivă.",
-                "en": "Enjoy the scenic winter drive out here, where beautifully heated indoor dinosaur pavilions effectively offer a fun, reliably warm afternoon escape."
+                "en": "Enjoy the scenic winter drive out here, where beautifully heated indoor dinosaur pavilions effectively offer a fun, reliably warm afternoon escape.",
+                "fr": "Appréciez la belle route hivernale jusqu’ici, où des pavillons intérieurs chauffés dédiés aux dinosaures offrent une après‑midi amusante et agréablement chaude."
               }
             },
             {
@@ -1013,13 +1126,15 @@
                 "de": "Kirche Saint-Saturnin",
                 "hu": "Saint-Saturnin Templom",
                 "ro": "Biserica Saint-Saturnin",
-                "en": "Église Saint-Saturnin"
+                "en": "Église Saint-Saturnin",
+                "fr": "Église Saint‑Saturnin"
               },
               "tip_5lang": {
                 "de": "Treten Sie kurz in die sehr klare Winterluft hinaus, um diese wunderschöne historische Kirche zu bewundern, bevor die Sonne viel zu früh untergeht.",
                 "hu": "Lépjen ki egy rövid időre a nagyon éles, csípős téli levegőre, hogy megcsodálja ezt a gyönyörű történelmi templomot, még mielőtt a nap lemenne.",
                 "ro": "Ieșiți scurt în aerul proaspăt și tăios de iarnă pentru a admira această frumoasă biserică istorică chiar înainte ca soarele să înceapă să apună.",
-                "en": "Step out into the very crisp winter air briefly to thoroughly admire this beautiful historic church just before the sun noticeably begins to set."
+                "en": "Step out into the very crisp winter air briefly to thoroughly admire this beautiful historic church just before the sun noticeably begins to set.",
+                "fr": "Sortez brièvement dans l’air très vif de l’hiver pour admirer en détail cette belle église historique juste avant que le soleil ne commence à se coucher."
               }
             },
             {
@@ -1027,13 +1142,15 @@
                 "de": "Château de La Motte-Mazerier",
                 "hu": "La Motte-Mazerier Kastélya",
                 "ro": "Castelul La Motte-Mazerier",
-                "en": "Château de La Motte-Mazerier"
+                "en": "Château de La Motte-Mazerier",
+                "fr": "Château de La Motte‑Mazerier"
               },
               "tip_5lang": {
                 "de": "Fahren Sie sehr vorsichtig auf abendlichen Straßen, um dieses markante Schloss zu sehen, während die frühe Winterdämmerung pünktlich um 17 Uhr hereinbricht.",
                 "hu": "Vezessen nagyon óvatosan a lehetségesen fagyos esti utakon, hogy megnézze ezt a feltűnő kastélyt, amikor a korai téli szürkület pont 17 órakor beáll.",
                 "ro": "Conduceți cu mare atenție pe drumurile de seară cu potențial de îngheț pentru a vedea acest castel impresionant la lăsarea amurgului, la ora 17:00.",
-                "en": "Drive very carefully on potentially frosty evening roads to safely see this striking castle as the very early winter dusk beautifully falls at 5 PM."
+                "en": "Drive very carefully on potentially frosty evening roads to safely see this striking castle as the very early winter dusk beautifully falls at 5 PM.",
+                "fr": "Conduisez très prudemment sur des routes du soir potentiellement givrées pour voir ce château saisissant alors que le crépuscule hivernal tombe à 17h."
               }
             }
           ]

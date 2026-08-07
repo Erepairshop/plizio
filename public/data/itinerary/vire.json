@@ -21,7 +21,8 @@
             "de": "Square Santa Fe",
             "hu": "Square Santa Fe",
             "ro": "Square Santa Fe",
-            "en": "Square Santa Fe"
+            "en": "Square Santa Fe",
+            "fr": "Square Santa Fe"
           },
           "coords": [
             -0.885283,
@@ -36,7 +37,8 @@
             "de": "Beginnen Sie Ihren Morgen am Square Santa Fe, um die historische Atmosphäre zu genießen, und holen Sie sich einen frischen Kaffee in der Nähe.",
             "hu": "Kezdje a reggelt a Square Santa Fe-n, hogy élvezze annak békés hangulatát, és vegyen egy friss kávét a közeli pékségben, mielőtt továbbindulna.",
             "ro": "Începeți dimineața în Square Santa Fe pentru a admira atmosfera pașnică ce onorează istoria și luați o cafea proaspătă de la o brutărie din apropiere.",
-            "en": "Start your morning at Square Santa Fe to admire its peaceful historical atmosphere, and grab a fresh coffee from a nearby bakery before continuing."
+            "en": "Start your morning at Square Santa Fe to admire its peaceful historical atmosphere, and grab a fresh coffee from a nearby bakery before continuing.",
+            "fr": "Commencez votre matinée au Square Santa Fe pour admirer son atmosphère historique paisible, et prenez un café frais dans la boulangerie voisine avant de continuer."
           }
         },
         {
@@ -44,7 +46,8 @@
             "de": "Porte Horloge",
             "hu": "Porte Horloge",
             "ro": "Porte Horloge",
-            "en": "Porte Horloge"
+            "en": "Porte Horloge",
+            "fr": "Porte Horloge"
           },
           "coords": [
             -0.89,
@@ -59,7 +62,8 @@
             "de": "Entdecken Sie die majestätische Porte Horloge, das ikonische Tor von Vire, und betrachten Sie die feinen Details der Uhr von der Ostseite aus.",
             "hu": "Fedezze fel a fenséges Porte Horloge-t, Vire ikonikus kapuját, és mindenképpen figyelje meg az óra bonyolult részleteit a keleti sétálóoldalról.",
             "ro": "Descoperiți maiestuoasa Porte Horloge, poarta medievală din Vire, și asigurați-vă că verificați detaliile complicate ale ceasului dinspre est.",
-            "en": "Discover the majestic Porte Horloge, the iconic medieval gateway of Vire, and be sure to check the intricate clock details from the eastern side."
+            "en": "Discover the majestic Porte Horloge, the iconic medieval gateway of Vire, and be sure to check the intricate clock details from the eastern side.",
+            "fr": "Découvrez la majestueuse Porte Horloge, la porte médiévale emblématique de Vire, et pensez à vérifier les détails horlogers du côté est."
           }
         },
         {
@@ -67,7 +71,8 @@
             "de": "Donjon de Vire",
             "hu": "Donjon de Vire",
             "ro": "Donjon de Vire",
-            "en": "Donjon de Vire"
+            "en": "Donjon de Vire",
+            "fr": "Donjon de Vire"
           },
           "coords": [
             -0.89194,
@@ -82,7 +87,8 @@
             "de": "Erkunden Sie die Ruinen des Donjon de Vire, um die befestigte Vergangenheit zu verstehen; tragen Sie festes Schuhwerk für die unebenen Steine.",
             "hu": "Fedezze fel a Donjon de Vire drámai romjait, hogy megértse az erődített múltat, és viseljen kényelmes cipőt az egyenetlen köveken való sétához.",
             "ro": "Explorați ruinele dramatice ale Donjon de Vire pentru a înțelege trecutul fortificat și purtați încălțăminte robustă pentru pietrele inegale.",
-            "en": "Explore the dramatic ruins of the Donjon de Vire to understand the town's fortified past, and wear sturdy shoes for walking over the uneven stones."
+            "en": "Explore the dramatic ruins of the Donjon de Vire to understand the town's fortified past, and wear sturdy shoes for walking over the uneven stones.",
+            "fr": "Explorez les ruines dramatiques du Donjon de Vire pour comprendre le passé fortifié de la ville, et portez des chaussures solides pour marcher sur les pierres inégales."
           }
         },
         {
@@ -90,7 +96,8 @@
             "de": "Vaux de Vire",
             "hu": "Vaux de Vire",
             "ro": "Vaux de Vire",
-            "en": "Vaux de Vire"
+            "en": "Vaux de Vire",
+            "fr": "Vaux de Vire"
           },
           "coords": [
             -0.899119,
@@ -105,7 +112,8 @@
             "de": "Schlendern Sie durch das Tal Vaux de Vire, wo lokale Lieder entstanden, und halten Sie die Kamera für wunderschöne Flussspiegelungen bereit.",
             "hu": "Sétáljon végig a festői Vaux de Vire völgyön, ahonnan a helyi dalok származnak, és tartson magánál gépet a folyó tükröződéseinek megörökítéséhez.",
             "ro": "Plimbați-vă prin valea Vaux de Vire, unde au apărut cântecele locale, și păstrați o cameră la îndemână pentru a surprinde reflexiile râului.",
-            "en": "Stroll through the scenic Vaux de Vire valley where local songs originated, and keep a camera handy to capture the beautiful river reflections."
+            "en": "Stroll through the scenic Vaux de Vire valley where local songs originated, and keep a camera handy to capture the beautiful river reflections.",
+            "fr": "Promenez‑vous dans la pittoresque vallée des Vaux de Vire où sont nés des chants locaux, et gardez un appareil photo à portée de main pour capturer les belles reflets sur la rivière."
           }
         },
         {
@@ -113,7 +121,8 @@
             "de": "Parc de l'Europe",
             "hu": "Parc de l'Europe",
             "ro": "Parc de l'Europe",
-            "en": "Parc de l'Europe"
+            "en": "Parc de l'Europe",
+            "fr": "Parc de l'Europe"
           },
           "coords": [
             -0.888721,
@@ -128,7 +137,8 @@
             "de": "Entspannen Sie sich im Parc de l'Europe, einer schönen grünen Oase, und suchen Sie sich eine schattige Bank für ein ruhiges Nachmittagspicknick.",
             "hu": "Pihenjen a Parc de l'Europe buja zöld területén, amely tökéletes a kikapcsolódásra, és keressen egy árnyékos padot egy délutáni piknikhez.",
             "ro": "Relaxați-vă în Parc de l'Europe, un spațiu verde luxuriant perfect pentru odihnă, și găsiți o bancă umbrită pentru un picnic liniștit de după-amiază.",
-            "en": "Relax at Parc de l'Europe, a lush green space perfect for unwinding, and find a shady bench near the center to enjoy a quiet afternoon picnic."
+            "en": "Relax at Parc de l'Europe, a lush green space perfect for unwinding, and find a shady bench near the center to enjoy a quiet afternoon picnic.",
+            "fr": "Détendez‑vous au Parc de l'Europe, un espace vert luxuriant parfait pour se reposer, et trouvez un banc ombragé près du centre pour un pique‑nique calme l'après‑midi."
           }
         }
       ],
@@ -136,7 +146,8 @@
         "de": "Vire empfängt Sie mit seinem reichen normannischen Erbe und einer friedlichen Natur. Beginnen Sie Ihren Morgen im historischen Zentrum und erkunden Sie den beeindruckenden Uhrenturm und die alten Burgruinen. Tauchen Sie mittags in die üppigen Täler ein, die lokale Dichter inspirierten. Verbringen Sie den Nachmittag entspannt in gepflegten Parks und genießen Sie die ruhige Atmosphäre.",
         "hu": "Vire gazdag normann örökséggel és békés természeti környezettel várja. Kezdje a reggelt a történelmi központban, felfedezve az impozáns óratornyot és az ősi kastélyromokat. Délben merüljön el a buja völgyekben, amelyek helyi költőket és zenészeket ihlettek. Délután pihenjen a gondozott parkokban, élvezve a nyugodt, kellemes levegőt a séta végén.",
         "ro": "Vire vă întâmpină cu bogata sa moștenire normandă și cu un cadru natural pașnic. Începeți dimineața în centrul istoric, explorând impresionantul turn cu ceas și ruinele vechiului castel. La prânz, pătrundeți în văile luxuriante care au inspirat poeții locali. Petreceți-vă după-amiaza relaxându-vă în parcurile frumos amenajate ale orașului.",
-        "en": "Vire welcomes you with its rich Norman heritage and peaceful natural surroundings. Start your morning exploring the historic center, tracing the shadows of the impressive clock tower and ancient castle ruins. By midday, delve into the lush valleys that inspire local poets and musicians. Spend your afternoon relaxing in manicured parks to end your walking tour on a peaceful note."
+        "en": "Vire welcomes you with its rich Norman heritage and peaceful natural surroundings. Start your morning exploring the historic center, tracing the shadows of the impressive clock tower and ancient castle ruins. By midday, delve into the lush valleys that inspire local poets and musicians. Spend your afternoon relaxing in manicured parks to end your walking tour on a peaceful note.",
+        "fr": "Vire vous accueille avec son riche patrimoine normand et ses environs naturels paisibles. Commencez la matinée en explorant le centre historique, en suivant les ombres de l'imposante tour de l'horloge et des anciennes ruines du château. À la mi‑journée, plongez dans les vallées verdoyantes qui inspirent poètes et musiciens locaux. Passez l'après‑midi à vous détendre dans des parcs soignés pour conclure votre promenade à pied sur une note paisible."
       },
       "variants": {
         "rainy": {
@@ -144,7 +155,8 @@
             "de": "Beginnen Sie den regnerischen Morgen am Square Santa Fe und am Uhrturm, wo Sie Schutz unter Bögen finden. Mittags bieten die Burgruine und das Flusstal einen mystischen Anblick; wasserfeste Schuhe sind Pflicht. Nachmittags spenden die Baumkronen des Europaparks etwas Regenschutz. Lassen Sie den Abend in einem gemütlichen Café in der Innenstadt ausklingen, um sich aufzuwärmen.",
             "hu": "Kezdje a borongós reggelt a Santa Fe téren és az óratoronynál, ahol az árkádok alatt is talál menedéket. Délben a várrom és a folyóvölgy misztikus látványt nyújt, vegyen fel vízálló cipőt. Délután az Európa park fáinak lombjai adnak némi védelmet az eső elől. Este keressen egy meleg kávézót a központban, ahol megszárítkozhat és átgondolhatja a napot.",
             "ro": "Începeți dimineața ploioasă în Piața Santa Fe și la Turnul cu Ceas, găsind adăpost sub arcade. La prânz, ruinele castelului și valea râului oferă o priveliște mistică; purtați neapărat încălțăminte impermeabilă. După-amiaza, copacii din Parcul Europei vă protejează de ploaie. Seara, relaxați-vă într-o cafenea caldă din centru pentru a vă usca după plimbare.",
-            "en": "Start your rainy morning at Square Santa Fe and the Clock Tower, finding shelter under nearby arches. At noon, the castle ruins and river valley look mystical; ensure you wear waterproof boots. In the afternoon, the thick canopy of Europe Park offers some natural rain protection. Spend your evening drying off in a cozy downtown cafe, reflecting on your wet but rewarding walk."
+            "en": "Start your rainy morning at Square Santa Fe and the Clock Tower, finding shelter under nearby arches. At noon, the castle ruins and river valley look mystical; ensure you wear waterproof boots. In the afternoon, the thick canopy of Europe Park offers some natural rain protection. Spend your evening drying off in a cozy downtown cafe, reflecting on your wet but rewarding walk.",
+            "fr": "Commencez votre matinée pluvieuse au Square Santa Fe et à la tour de l'horloge, en trouvant un abri sous les arches voisines. À midi, les ruines du château et la vallée fluviale prennent un air mystique ; veillez à porter des bottes imperméables. L'après‑midi, la dense voûte arborée du Parc de l'Europe offre une certaine protection naturelle contre la pluie. Passez la soirée à vous sécher dans un café confortable du centre, en réfléchissant à votre promenade humide mais gratifiante."
           },
           "stops": [
             {
@@ -152,13 +164,15 @@
                 "de": "Square Santa Fe",
                 "hu": "Square Santa Fe",
                 "ro": "Square Santa Fe",
-                "en": "Square Santa Fe"
+                "en": "Square Santa Fe",
+                "fr": "Square Santa Fe"
               },
               "tip_5lang": {
                 "de": "Bei Regen kann das Pflaster rutschig sein, achten Sie auf Ihre Schritte am Denkmal.",
                 "hu": "Esőben a burkolat csúszós lehet, vigyázzon a lépteire, miközben megnézi az emlékművet.",
                 "ro": "Pavajul poate fi alunecos pe timp de ploaie, aveți grijă la pași lângă monument.",
-                "en": "The pavement can be slippery in the rain, so watch your step while viewing the monument."
+                "en": "The pavement can be slippery in the rain, so watch your step while viewing the monument.",
+                "fr": "Le pavé peut être glissant sous la pluie, faites attention en regardant le monument."
               }
             },
             {
@@ -166,13 +180,15 @@
                 "de": "Porte Horloge",
                 "hu": "Porte Horloge",
                 "ro": "Porte Horloge",
-                "en": "Porte Horloge"
+                "en": "Porte Horloge",
+                "fr": "Porte Horloge"
               },
               "tip_5lang": {
                 "de": "Das Tor des Uhrturms ist ein perfekter Unterschlupf bei einem plötzlichen Schauer, um die Details zu bewundern.",
                 "hu": "A masszív óratorony kapualja tökéletes menedék egy hirtelen zápor esetén, csodálja meg innen a részleteket.",
                 "ro": "Poarta turnului este un adăpost perfect în caz de ploaie bruscă, de unde puteți admira detaliile.",
-                "en": "The massive clock tower's gateway is a perfect shelter during a sudden downpour to admire the details."
+                "en": "The massive clock tower's gateway is a perfect shelter during a sudden downpour to admire the details.",
+                "fr": "La massive tour‑horloge et sa porte constituent un parfait abri lors d'une averse soudaine pour admirer les détails."
               }
             },
             {
@@ -180,13 +196,15 @@
                 "de": "Donjon de Vire",
                 "hu": "Donjon de Vire",
                 "ro": "Donjon de Vire",
-                "en": "Donjon de Vire"
+                "en": "Donjon de Vire",
+                "fr": "Donjon de Vire"
               },
               "tip_5lang": {
                 "de": "Die Steine der Burgruine wirken im Regen dunkler, aber gehen Sie vorsichtig auf den nassen, moosigen Stufen.",
                 "hu": "A várrom kövei esőben sötétebb árnyalatot öltenek, de óvatosan lépkedjen a nedves és mohás lépcsőkön.",
                 "ro": "Pietrele ruinelor devin mai închise la culoare pe ploaie, dar pășiți cu grijă pe treptele umede.",
-                "en": "The castle ruins take on a darker hue in the rain, but step carefully on the wet, mossy stairs."
+                "en": "The castle ruins take on a darker hue in the rain, but step carefully on the wet, mossy stairs.",
+                "fr": "Les ruines du château prennent une teinte plus sombre sous la pluie, mais marchez prudemment sur les escaliers mouillés et moussus."
               }
             },
             {
@@ -194,13 +212,15 @@
                 "de": "Vaux de Vire",
                 "hu": "Vaux de Vire",
                 "ro": "Vaux de Vire",
-                "en": "Vaux de Vire"
+                "en": "Vaux de Vire",
+                "fr": "Vaux de Vire"
               },
               "tip_5lang": {
                 "de": "Die Bäume fangen den Regen ab; der rauschende Bach schafft eine besondere Atmosphäre für den Spaziergang.",
                 "hu": "A völgy fái felfogják az eső egy részét; a megáradt patak hangja különleges atmoszférát teremt a sétához.",
                 "ro": "Copacii opresc o parte din ploaie, iar sunetul pârâului umflat creează o atmosferă unică pentru plimbare.",
-                "en": "The trees catch some of the rain, and the sound of the swollen stream creates a unique walking atmosphere."
+                "en": "The trees catch some of the rain, and the sound of the swollen stream creates a unique walking atmosphere.",
+                "fr": "Les arbres retiennent une partie de la pluie, et le bruit du cours d'eau gonflé crée une atmosphère de marche unique."
               }
             },
             {
@@ -208,13 +228,15 @@
                 "de": "Parc de l'Europe",
                 "hu": "Parc de l'Europe",
                 "ro": "Parc de l'Europe",
-                "en": "Parc de l'Europe"
+                "en": "Parc de l'Europe",
+                "fr": "Parc de l'Europe"
               },
               "tip_5lang": {
                 "de": "Obwohl es regnet, ist das Grün am lebhaftesten; bringen Sie einen guten Regenschirm für die frische Luft mit.",
                 "hu": "Bár esik, a park zöldje ilyenkor a legélénkebb; hozzon jó esernyőt, és élvezze a friss, ózondús levegőt.",
                 "ro": "Deși plouă, verdeața parcului este foarte vie; aduceți o umbrelă bună și bucurați-vă de aerul proaspăt.",
-                "en": "Although it's raining, the park's greenery is vibrant; bring a good umbrella and enjoy the fresh air."
+                "en": "Although it's raining, the park's greenery is vibrant; bring a good umbrella and enjoy the fresh air.",
+                "fr": "Même sous la pluie, la végétation du parc est vibrante ; apportez un bon parapluie et profitez de l'air frais."
               }
             }
           ]
@@ -224,7 +246,8 @@
             "de": "Beginnen Sie den frostigen Morgen mit einem Spaziergang am Square Santa Fe und dem historischen Uhrturm. Mittags sollten Sie sich für die Burgruine und das Tal warm anziehen. Nachmittags bricht die Dämmerung zwischen den kahlen Bäumen des Europaparks früh herein; genießen Sie die Winterstille. Wärmen Sie sich abends nach dem frühen Sonnenuntergang in einem gemütlichen Restaurant auf.",
             "hu": "A fagyos reggelt indítsa egy frissítő sétával a Santa Fe téren és a történelmi óratoronynál. Délben öltözzön melegen a várrom és a völgy felfedezéséhez, ahol a hideg szél élesebb lehet. Délután az Európa park kopasz fái között hamarabb ereszkedik le a szürkület, élvezze a téli csendet. Este, a korai sötétedés után, térjen be egy meleg étterembe a központban egy forró italra.",
             "ro": "Începeți dimineața geroasă cu o plimbare revigorantă prin Piața Santa Fe și la Turnul cu Ceas. La prânz, îmbrăcați-vă gros pentru ruinele castelului și vale, unde vântul de iarnă este tăios. După-amiaza, amurgul se lasă devreme printre copacii goi din Parcul Europei; bucurați-vă de liniște. Seara, după apusul devreme, încălziți-vă într-un restaurant primitor din centrul orașului.",
-            "en": "Start your frosty morning with a brisk walk at Square Santa Fe and the historic Clock Tower. At noon, bundle up for the castle ruins and the valley, where the winter wind can be sharp. In the afternoon, twilight descends early among the bare trees of Europe Park, offering deep winter silence. In the evening, after the early sunset around 5 PM, warm up in a cozy downtown restaurant."
+            "en": "Start your frosty morning with a brisk walk at Square Santa Fe and the historic Clock Tower. At noon, bundle up for the castle ruins and the valley, where the winter wind can be sharp. In the afternoon, twilight descends early among the bare trees of Europe Park, offering deep winter silence. In the evening, after the early sunset around 5 PM, warm up in a cozy downtown restaurant.",
+            "fr": "Commencez votre matinée glaciale par une marche vive au Square Santa Fe et près de la tour historique. À midi, emmitouflez‑vous pour les ruines du château et la vallée, où le vent d'hiver peut être mordant. L'après‑midi, le crépuscule descend tôt parmi les arbres dénudés du Parc de l'Europe, offrant un profond silence hivernal. Le soir, après le coucher du soleil vers 17h, réchauffez‑vous dans un restaurant chaleureux du centre."
           },
           "stops": [
             {
@@ -232,13 +255,15 @@
                 "de": "Square Santa Fe",
                 "hu": "Square Santa Fe",
                 "ro": "Square Santa Fe",
-                "en": "Square Santa Fe"
+                "en": "Square Santa Fe",
+                "fr": "Square Santa Fe"
               },
               "tip_5lang": {
                 "de": "An Wintermorgen ist der Platz ruhiger; ziehen Sie sich nach dem Zwiebelprinzip an, um der Kälte zu trotzen.",
                 "hu": "Téli reggeleken a tér csendesebb, a fagyott fű ropog a talpa alatt; öltözzön rétegesen a hideg ellen.",
                 "ro": "În diminețile de iarnă piața e mai liniștită; îmbrăcați-vă în straturi pentru a vă proteja de frigul tăios.",
-                "en": "On winter mornings, the square is quieter; dress in layers to stay warm against the morning chill."
+                "en": "On winter mornings, the square is quieter; dress in layers to stay warm against the morning chill.",
+                "fr": "Les matins d'hiver, la place est plus calme ; habillez‑vous par couches pour rester au chaud contre la fraîcheur matinale."
               }
             },
             {
@@ -246,13 +271,15 @@
                 "de": "Porte Horloge",
                 "hu": "Porte Horloge",
                 "ro": "Porte Horloge",
-                "en": "Porte Horloge"
+                "en": "Porte Horloge",
+                "fr": "Porte Horloge"
               },
               "tip_5lang": {
                 "de": "Auf dem offenen Platz um den Turm kann der Wind stark sein; ziehen Sie den Schal hoch, wenn Sie das Tor betrachten.",
                 "hu": "A torony körüli nyitott téren erős lehet a téli szél, húzza fel a sálját, miközben a középkori kaput nézi.",
                 "ro": "Spațiul deschis din jurul turnului este vântos iarna; ridicați fularul în timp ce priviți poarta medievală.",
-                "en": "The open space around the tower can be windy in winter; pull up your scarf while viewing the medieval gate."
+                "en": "The open space around the tower can be windy in winter; pull up your scarf while viewing the medieval gate.",
+                "fr": "L'espace ouvert autour de la tour peut être venteux en hiver ; remontez votre écharpe en regardant la porte médiévale."
               }
             },
             {
@@ -260,13 +287,15 @@
                 "de": "Donjon de Vire",
                 "hu": "Donjon de Vire",
                 "ro": "Donjon de Vire",
-                "en": "Donjon de Vire"
+                "en": "Donjon de Vire",
+                "fr": "Donjon de Vire"
               },
               "tip_5lang": {
                 "de": "Am höchsten Punkt ist die Luft besonders kalt, aber das Fotografieren der Ruinen im Winterlicht lohnt sich.",
                 "hu": "A magaslati ponton különösen hideg a levegő, de a téli napfényben a romok fotózása nagyon megéri a didergést.",
                 "ro": "Aerul este deosebit de rece în cel mai înalt punct, dar fotografierea ruinelor în lumina iernii merită efortul.",
-                "en": "The air is especially cold at this high point, but photographing the ruins in the winter light is worth it."
+                "en": "The air is especially cold at this high point, but photographing the ruins in the winter light is worth it.",
+                "fr": "L'air est particulièrement froid à ce point élevé, mais photographier les ruines sous la lumière hivernale en vaut la peine."
               }
             },
             {
@@ -274,13 +303,15 @@
                 "de": "Vaux de Vire",
                 "hu": "Vaux de Vire",
                 "ro": "Vaux de Vire",
-                "en": "Vaux de Vire"
+                "en": "Vaux de Vire",
+                "fr": "Vaux de Vire"
               },
               "tip_5lang": {
                 "de": "Wegen der kahlen Bäume sieht man weiter ins Tal; Vorsicht, die steileren Wege können teilweise vereist sein.",
                 "hu": "A lombjukat vesztett fák miatt messzebb ellátni a völgyben; vigyázzon, a meredekebb ösvények jegesek lehetnek.",
                 "ro": "Fără frunze, puteți vedea mai departe în vale; aveți grijă, potecile mai abrupte pot fi alunecoase sau înghețate.",
-                "en": "Without leaves, you can see further into the valley; be careful, as the steeper paths can be icy and slippery."
+                "en": "Without leaves, you can see further into the valley; be careful, as the steeper paths can be icy and slippery.",
+                "fr": "Sans feuilles, on voit plus loin dans la vallée ; soyez prudent, les sentiers plus raides peuvent être verglacés et glissants."
               }
             },
             {
@@ -288,13 +319,15 @@
                 "de": "Parc de l'Europe",
                 "hu": "Parc de l'Europe",
                 "ro": "Parc de l'Europe",
-                "en": "Parc de l'Europe"
+                "en": "Parc de l'Europe",
+                "fr": "Parc de l'Europe"
               },
               "tip_5lang": {
                 "de": "Durch die frühe Dunkelheit gehen die Parklampen schnell an und bieten einen stimmungsvollen Winterspaziergang.",
                 "hu": "A korai sötétedés miatt a park lámpái hamar felgyulladnak, hangulatos téli sétát biztosítva a fagyos levegőn.",
                 "ro": "Din cauza întunericului timpuriu, lămpile parcului se aprind repede, oferind o plimbare de iarnă plină de atmosferă.",
-                "en": "Due to the early dusk, the park lights turn on soon, providing a highly atmospheric winter walk in the frosty air."
+                "en": "Due to the early dusk, the park lights turn on soon, providing a highly atmospheric winter walk in the frosty air.",
+                "fr": "En raison de la tombée de la nuit précoce, les lumières du parc s'allument bientôt, offrant une promenade hivernale très atmosphérique dans l'air givré."
               }
             }
           ]
@@ -314,7 +347,8 @@
             "de": "Square Santa Fe",
             "hu": "Square Santa Fe",
             "ro": "Square Santa Fe",
-            "en": "Square Santa Fe"
+            "en": "Square Santa Fe",
+            "fr": "Square Santa Fe"
           },
           "coords": [
             -0.885283,
@@ -329,7 +363,8 @@
             "de": "Beginnen Sie Ihren Morgen am Square Santa Fe, um die historische Atmosphäre zu genießen, und holen Sie sich einen frischen Kaffee in der Nähe.",
             "hu": "Kezdje a reggelt a Square Santa Fe-n, hogy élvezze annak békés hangulatát, és vegyen egy friss kávét a közeli pékségben, mielőtt továbbindulna.",
             "ro": "Începeți dimineața în Square Santa Fe pentru a admira atmosfera pașnică ce onorează istoria și luați o cafea proaspătă de la o brutărie din apropiere.",
-            "en": "Start your morning at Square Santa Fe to admire its peaceful historical atmosphere, and grab a fresh coffee from a nearby bakery before continuing."
+            "en": "Start your morning at Square Santa Fe to admire its peaceful historical atmosphere, and grab a fresh coffee from a nearby bakery before continuing.",
+            "fr": "Commencez votre matinée au Square Santa Fe pour admirer son atmosphère historique paisible, et prenez un café frais dans la boulangerie voisine avant de continuer."
           }
         },
         {
@@ -337,7 +372,8 @@
             "de": "Porte Horloge",
             "hu": "Porte Horloge",
             "ro": "Porte Horloge",
-            "en": "Porte Horloge"
+            "en": "Porte Horloge",
+            "fr": "Porte Horloge"
           },
           "coords": [
             -0.89,
@@ -352,7 +388,8 @@
             "de": "Entdecken Sie die majestätische Porte Horloge, das ikonische Tor von Vire, und betrachten Sie die feinen Details der Uhr von der Ostseite aus.",
             "hu": "Fedezze fel a fenséges Porte Horloge-t, Vire ikonikus kapuját, és mindenképpen figyelje meg az óra bonyolult részleteit a keleti sétálóoldalról.",
             "ro": "Descoperiți maiestuoasa Porte Horloge, poarta medievală din Vire, și asigurați-vă că verificați detaliile complicate ale ceasului dinspre est.",
-            "en": "Discover the majestic Porte Horloge, the iconic medieval gateway of Vire, and be sure to check the intricate clock details from the eastern side."
+            "en": "Discover the majestic Porte Horloge, the iconic medieval gateway of Vire, and be sure to check the intricate clock details from the eastern side.",
+            "fr": "Découvrez la majestueuse Porte Horloge, la porte médiévale emblématique de Vire, et pensez à vérifier les détails horlogers du côté est."
           }
         },
         {
@@ -360,7 +397,8 @@
             "de": "Donjon de Vire",
             "hu": "Donjon de Vire",
             "ro": "Donjon de Vire",
-            "en": "Donjon de Vire"
+            "en": "Donjon de Vire",
+            "fr": "Donjon de Vire"
           },
           "coords": [
             -0.89194,
@@ -375,7 +413,8 @@
             "de": "Erkunden Sie die Ruinen des Donjon de Vire, um die befestigte Vergangenheit zu verstehen; tragen Sie festes Schuhwerk für die unebenen Steine.",
             "hu": "Fedezze fel a Donjon de Vire drámai romjait, hogy megértse az erődített múltat, és viseljen kényelmes cipőt az egyenetlen köveken való sétához.",
             "ro": "Explorați ruinele dramatice ale Donjon de Vire pentru a înțelege trecutul fortificat și purtați încălțăminte robustă pentru pietrele inegale.",
-            "en": "Explore the dramatic ruins of the Donjon de Vire to understand the town's fortified past, and wear sturdy shoes for walking over the uneven stones."
+            "en": "Explore the dramatic ruins of the Donjon de Vire to understand the town's fortified past, and wear sturdy shoes for walking over the uneven stones.",
+            "fr": "Explorez les ruines dramatiques du Donjon de Vire pour comprendre le passé fortifié de la ville, et portez des chaussures solides pour marcher sur les pierres inégales."
           }
         },
         {
@@ -383,7 +422,8 @@
             "de": "Vaux de Vire",
             "hu": "Vaux de Vire",
             "ro": "Vaux de Vire",
-            "en": "Vaux de Vire"
+            "en": "Vaux de Vire",
+            "fr": "Vaux de Vire"
           },
           "coords": [
             -0.899119,
@@ -398,7 +438,8 @@
             "de": "Schlendern Sie durch das Tal Vaux de Vire, wo lokale Lieder entstanden, und halten Sie die Kamera für wunderschöne Flussspiegelungen bereit.",
             "hu": "Sétáljon végig a festői Vaux de Vire völgyön, ahonnan a helyi dalok származnak, és tartson magánál gépet a folyó tükröződéseinek megörökítéséhez.",
             "ro": "Plimbați-vă prin valea Vaux de Vire, unde au apărut cântecele locale, și păstrați o cameră la îndemână pentru a surprinde reflexiile râului.",
-            "en": "Stroll through the scenic Vaux de Vire valley where local songs originated, and keep a camera handy to capture the beautiful river reflections."
+            "en": "Stroll through the scenic Vaux de Vire valley where local songs originated, and keep a camera handy to capture the beautiful river reflections.",
+            "fr": "Promenez‑vous dans la pittoresque vallée des Vaux de Vire où sont nés des chants locaux, et gardez un appareil photo à portée de main pour capturer les belles reflets sur la rivière."
           }
         },
         {
@@ -406,7 +447,8 @@
             "de": "Parc de l'Europe",
             "hu": "Parc de l'Europe",
             "ro": "Parc de l'Europe",
-            "en": "Parc de l'Europe"
+            "en": "Parc de l'Europe",
+            "fr": "Parc de l'Europe"
           },
           "coords": [
             -0.888721,
@@ -421,7 +463,8 @@
             "de": "Entspannen Sie sich im Parc de l'Europe, einer schönen grünen Oase, und suchen Sie sich eine schattige Bank für ein ruhiges Nachmittagspicknick.",
             "hu": "Pihenjen a Parc de l'Europe buja zöld területén, amely tökéletes a kikapcsolódásra, és keressen egy árnyékos padot egy délutáni piknikhez.",
             "ro": "Relaxați-vă în Parc de l'Europe, un spațiu verde luxuriant perfect pentru odihnă, și găsiți o bancă umbrită pentru un picnic liniștit de după-amiază.",
-            "en": "Relax at Parc de l'Europe, a lush green space perfect for unwinding, and find a shady bench near the center to enjoy a quiet afternoon picnic."
+            "en": "Relax at Parc de l'Europe, a lush green space perfect for unwinding, and find a shady bench near the center to enjoy a quiet afternoon picnic.",
+            "fr": "Détendez‑vous au Parc de l'Europe, un espace vert luxuriant parfait pour se reposer, et trouvez un banc ombragé près du centre pour un pique‑nique calme l'après‑midi."
           }
         },
         {
@@ -429,7 +472,8 @@
             "de": "Lac de la Dathée",
             "hu": "Lac de la Dathée",
             "ro": "Lac de la Dathée",
-            "en": "Lac de la Dathée"
+            "en": "Lac de la Dathée",
+            "fr": "Lac de la Dathée"
           },
           "coords": [
             -0.954105,
@@ -444,7 +488,8 @@
             "de": "Beenden Sie Ihren Ausflug am Lac de la Dathée für herrliche Naturansichten und fahren Sie auf den markierten Wegen, um Vögel zu beobachten.",
             "hu": "Fejezze be utazását a nyugodt Lac de la Dathée-nél, és tekerjen a jól jelzett ösvényeken, hogy megfigyelhesse a helyi madárfajokat alkonyatkor.",
             "ro": "Încheiați-vă călătoria la Lac de la Dathée pentru priveliști naturale extinse și pedalați pe trasee pentru a vedea păsări locale la amurg.",
-            "en": "Conclude your trip at the tranquil Lac de la Dathée to enjoy sweeping natural views, and cycle along the trails to spot local bird species at dusk."
+            "en": "Conclude your trip at the tranquil Lac de la Dathée to enjoy sweeping natural views, and cycle along the trails to spot local bird species at dusk.",
+            "fr": "Concluez votre voyage au paisible Lac de la Dathée pour profiter de vues naturelles étendues, et faites du vélo sur les sentiers pour observer les oiseaux locaux au crépuscule."
           }
         }
       ],
@@ -452,7 +497,8 @@
         "de": "Vire empfängt Sie mit seinem reichen normannischen Erbe und einer friedlichen Natur. Beginnen Sie Ihren Morgen im historischen Zentrum und erkunden Sie den beeindruckenden Uhrenturm und die alten Burgruinen. Tauchen Sie mittags in die üppigen Täler ein, die lokale Dichter inspirierten. Verbringen Sie den Nachmittag in gepflegten Parks. Am Abend erwartet Sie die ruhige Schönheit des nahen Sees.",
         "hu": "Vire gazdag normann örökséggel és békés természeti környezettel várja. Kezdje a reggelt a történelmi központban, felfedezve az impozáns óratornyot és az ősi kastélyromokat. Délben merüljön el a buja völgyekben, amelyek helyi költőket ihlettek. Délután pihenjen a gondozott parkokban, majd tekerjen ki a gyönyörű tóhoz, ahol a naplementében gyönyörködhet.",
         "ro": "Vire vă întâmpină cu bogata sa moștenire normandă și cu un cadru natural pașnic. Începeți dimineața în centrul istoric, explorând impresionantul turn cu ceas și ruinele vechiului castel. La prânz, pătrundeți în văile luxuriante care au inspirat poeții. Petreceți-vă după-amiaza în parcuri, iar seara, bucurați-vă de frumusețea senină a lacului din apropiere la apus.",
-        "en": "Vire welcomes you with its rich Norman heritage and peaceful natural surroundings. Start your morning exploring the historic center, tracing the shadows of the impressive clock tower and ancient castle ruins. By midday, delve into the lush valleys that inspire local poets. Spend your afternoon relaxing in manicured parks, and as evening falls, cycle out to embrace the serene beauty of the lake."
+        "en": "Vire welcomes you with its rich Norman heritage and peaceful natural surroundings. Start your morning exploring the historic center, tracing the shadows of the impressive clock tower and ancient castle ruins. By midday, delve into the lush valleys that inspire local poets. Spend your afternoon relaxing in manicured parks, and as evening falls, cycle out to embrace the serene beauty of the lake.",
+        "fr": "Vire vous accueille avec son riche patrimoine normand et ses environs naturels paisibles. Commencez la matinée en explorant le centre historique, en suivant les ombres de l'imposante tour de l'horloge et des anciennes ruines du château. À la mi‑journée, plongez dans les vallées verdoyantes qui inspirent les poètes locaux. Passez l'après‑midi à vous détendre dans des parcs soignés, et à la tombée du jour, partez à vélo pour embrasser la beauté sereine du lac."
       },
       "variants": {
         "rainy": {
@@ -460,7 +506,8 @@
             "de": "Beginnen Sie den nassen Morgen in der Innenstadt mit einem guten Regenponcho und Schutzblechen. Radeln Sie mittags vorsichtig zur Burgruine, da Kopfsteinpflaster rutschig ist. Nachmittags ist die Fahrt zum See eine erfrischende Herausforderung; die Landschaft ist wunderschön im Regen. Gönnen Sie sich abends nach der sicheren Rückkehr eine wohlverdiente Pause.",
             "hu": "Kezdje a nedves reggelt a belvárosban, viseljen jó minőségű esőköpenyt és sárvédőt. Délben óvatosan tekerjen a várrom és a völgy felé, a macskakövek csúszhatnak. Délután a tóhoz vezető út igazi frissítő kihívás; a táj gyönyörű az esőben. Este, a biztonságos visszaérkezés után, jöhet a jól megérdemelt pihenés és a kerékpár szárazra törlése.",
             "ro": "Începeți dimineața umedă în centru cu un poncho de ploaie bun și apărători de noroi. La prânz, pedalați cu grijă spre ruinele castelului, deoarece piatra cubică alunecă. După-amiaza, drumul spre lac este o provocare revigorantă; peisajul este uimitor în ploaie. Seara, după o întoarcere sigură, bucurați-vă de o odihnă binemeritată și curățați bicicleta.",
-            "en": "Start your wet morning downtown equipped with a quality poncho and mudguards. At noon, cycle carefully towards the castle ruins and valley, as cobblestones get slippery. In the afternoon, the ride to the lake is a refreshing challenge; the landscape is stunning in the rain. In the evening, after safely returning, enjoy a well-deserved rest and dry off your bike."
+            "en": "Start your wet morning downtown equipped with a quality poncho and mudguards. At noon, cycle carefully towards the castle ruins and valley, as cobblestones get slippery. In the afternoon, the ride to the lake is a refreshing challenge; the landscape is stunning in the rain. In the evening, after safely returning, enjoy a well-deserved rest and dry off your bike.",
+            "fr": "Commencez votre matinée humide au centre‑ville équipé d'une bonne cape et de garde‑boue. À midi, roulez prudemment vers les ruines du château et la vallée, car les pavés deviennent glissants. L'après‑midi, la route jusqu'au lac est un défi rafraîchissant ; le paysage est superbe sous la pluie. Le soir, après être revenu en sécurité, profitez d'un repos bien mérité et séchez votre vélo."
           },
           "stops": [
             {
@@ -468,13 +515,15 @@
                 "de": "Square Santa Fe",
                 "hu": "Square Santa Fe",
                 "ro": "Square Santa Fe",
-                "en": "Square Santa Fe"
+                "en": "Square Santa Fe",
+                "fr": "Square Santa Fe"
               },
               "tip_5lang": {
                 "de": "Prüfen Sie vor der Abfahrt die Bremsen auf nasser Straße; der Belag um den Platz erfordert bei Regen Aufmerksamkeit.",
                 "hu": "Indulás előtt ellenőrizze a fékeket a nedves úton; a tér körül a burkolat fokozott figyelmet igényel esőben.",
                 "ro": "Verificați frânele pe drumul umed înainte de plecare; pavajul din jurul pieței necesită atenție sporită pe ploaie.",
-                "en": "Check your brakes for wet roads before starting; the pavement around the square requires extra attention in rain."
+                "en": "Check your brakes for wet roads before starting; the pavement around the square requires extra attention in rain.",
+                "fr": "Vérifiez vos freins pour les routes mouillées avant de partir ; le revêtement autour de la place demande une attention particulière sous la pluie."
               }
             },
             {
@@ -482,13 +531,15 @@
                 "de": "Porte Horloge",
                 "hu": "Porte Horloge",
                 "ro": "Porte Horloge",
-                "en": "Porte Horloge"
+                "en": "Porte Horloge",
+                "fr": "Porte Horloge"
               },
               "tip_5lang": {
                 "de": "Fahren Sie langsam zum historischen Tor, auf nassem Asphalt und Steinen ist der Bremsweg länger, achten Sie auf Fußgänger.",
                 "hu": "Guruljon lassan a történelmi kapuhoz, a vizes aszfalton és köveken hosszabb lehet a fékút, vigyázzon a gyalogosokra.",
                 "ro": "Rulați încet spre poarta istorică, distanța de frânare crește pe pietrele ude, fiți atenți la pietonii cu umbrele.",
-                "en": "Ride slowly to the historic gate, braking distances are longer on wet asphalt and stones, watch out for pedestrians."
+                "en": "Ride slowly to the historic gate, braking distances are longer on wet asphalt and stones, watch out for pedestrians.",
+                "fr": "Roulez lentement jusqu'à la porte historique, les distances de freinage sont plus longues sur l'asphalte et les pierres mouillés, et faites attention aux piétons."
               }
             },
             {
@@ -496,13 +547,15 @@
                 "de": "Donjon de Vire",
                 "hu": "Donjon de Vire",
                 "ro": "Donjon de Vire",
-                "en": "Donjon de Vire"
+                "en": "Donjon de Vire",
+                "fr": "Donjon de Vire"
               },
               "tip_5lang": {
                 "de": "Der Anstieg zur Burg kann im Regen voller rutschiger Blätter sein; radeln Sie vorsichtig in einem niedrigeren Gang.",
                 "hu": "A vár felé vezető emelkedő esőben csúszós falevelekkel lehet teli, tekerjen óvatosan egy alacsonyabb fokozatban.",
                 "ro": "Urcușul spre castel poate fi plin de frunze alunecoase pe ploaie, pedalați cu grijă într-o treaptă inferioară.",
-                "en": "The climb to the castle may be covered with slippery wet leaves; pedal carefully in a lower gear."
+                "en": "The climb to the castle may be covered with slippery wet leaves; pedal carefully in a lower gear.",
+                "fr": "La montée vers le château peut être couverte de feuilles mouillées et glissantes ; pédalez prudemment en petit plateau."
               }
             },
             {
@@ -510,13 +563,15 @@
                 "de": "Vaux de Vire",
                 "hu": "Vaux de Vire",
                 "ro": "Vaux de Vire",
-                "en": "Vaux de Vire"
+                "en": "Vaux de Vire",
+                "fr": "Vaux de Vire"
               },
               "tip_5lang": {
                 "de": "Der Radweg am Fluss kann voller Pfützen sein, Schutzbleche sind unerlässlich; genießen Sie das saftige Grün der Natur.",
                 "hu": "A folyó menti kerékpárút pocsolyás lehet, a sárvédő elengedhetetlen; élvezze a természet harsány zöldjét.",
                 "ro": "Pista de biciclete de-a lungul râului poate avea bălți; apărătorile sunt esențiale pentru a vă bucura de verdeața naturii.",
-                "en": "The riverside bike path can be puddly, making mudguards essential; enjoy the vibrant green of nature in the rain."
+                "en": "The riverside bike path can be puddly, making mudguards essential; enjoy the vibrant green of nature in the rain.",
+                "fr": "La piste cyclable au bord de la rivière peut être bourbeuse, rendant les garde‑boue essentiels ; profitez du vert vibrant de la nature sous la pluie."
               }
             },
             {
@@ -524,13 +579,15 @@
                 "de": "Parc de l'Europe",
                 "hu": "Parc de l'Europe",
                 "ro": "Parc de l'Europe",
-                "en": "Parc de l'Europe"
+                "en": "Parc de l'Europe",
+                "fr": "Parc de l'Europe"
               },
               "tip_5lang": {
                 "de": "Fahren Sie vorsichtig durch den Park wegen nassen Laubs in den Kurven; hier können Sie unter den Bäumen kurz rasten.",
                 "hu": "Keresztülhajtva a parkon vigyázzon a nedves avarral borított kanyarokban; itt tarthat egy rövid pihenőt a fák alatt.",
                 "ro": "Mergând prin parc, aveți grijă la curbele acoperite cu frunze ude; puteți face o scurtă pauză sub copacii mari.",
-                "en": "Riding through the park, watch out for wet leaves in the corners; you can take a short break under the large trees."
+                "en": "Riding through the park, watch out for wet leaves in the corners; you can take a short break under the large trees.",
+                "fr": "En traversant le parc, méfiez‑vous des feuilles mouillées dans les virages ; vous pouvez faire une courte pause sous les grands arbres."
               }
             },
             {
@@ -538,13 +595,15 @@
                 "de": "Lac de la Dathée",
                 "hu": "Lac de la Dathée",
                 "ro": "Lac de la Dathée",
-                "en": "Lac de la Dathée"
+                "en": "Lac de la Dathée",
+                "fr": "Lac de la Dathée"
               },
               "tip_5lang": {
                 "de": "Die Umrundung des Sees ist auch im Regen zauberhaft, aber bringen Sie eine wasserdichte Tasche und trockene Kleidung mit.",
                 "hu": "A tó körüli tekerés esőben is varázslatos, de hozzon vízhatlan táskát az értékeinek és extra száraz ruhát.",
                 "ro": "Mersul cu bicicleta în jurul lacului e magic și pe ploaie, dar aduceți o geantă impermeabilă și haine uscate de schimb.",
-                "en": "Cycling around the lake is magical even in rain, but bring a waterproof bag for valuables and extra dry clothes."
+                "en": "Cycling around the lake is magical even in rain, but bring a waterproof bag for valuables and extra dry clothes.",
+                "fr": "Faire le tour du lac à vélo est magique même sous la pluie, mais apportez un sac étanche pour les objets de valeur et des vêtements secs supplémentaires."
               }
             }
           ]
@@ -554,7 +613,8 @@
             "de": "Ein kalter Morgen erwartet Sie; tragen Sie dicke Handschuhe und eine Mütze unter dem Helm. Mittags wärmt Sie die Fahrt zur Burg und ins Tal auf, aber auf den Abfahrten ist eine winddichte Jacke Pflicht. Achten Sie nachmittags auf der langen Strecke zum See auf die frühe Dämmerung und schalten Sie das Licht ein. Trinken Sie abends nach der frostigen Tour einen heißen Tee.",
             "hu": "Hideg reggel várja, húzzon vastag kesztyűt és sapkát a sisak alá a belvárosi tekeréshez. Délben a vár és a völgy meghódítása kimelegíti, de a lejtőkön a metsző szél miatt jól jön a szélálló dzseki. Délután a tóhoz vezető hosszú szakaszon figyeljen a korai sötétedésre és kapcsolja be a lámpákat. Este, a fagyos túra végén, igyon egy forró teát és melegedjen fel.",
             "ro": "Vă așteaptă o dimineață rece; purtați mănuși groase și o căciulă sub cască în centru. La prânz, urcarea spre castel vă va încălzi, dar la coborâri vântul tăios necesită o jachetă rezistentă. După-amiaza, pe drumul lung spre lac, fiți atenți la apusul devreme și aprindeți luminile bicicletei. Seara, după turul înghețat, beți un ceai fierbinte pentru a vă încălzi.",
-            "en": "A crisp cold morning awaits; wear thick gloves and a cap under your helmet for the downtown ride. At noon, conquering the castle and valley will warm you up, but you'll need a windbreaker for the biting winds on descents. In the afternoon, watch out for the early sunset during the long stretch to the lake and turn on your lights. In the evening, after the frosty tour, drink hot tea to thaw out."
+            "en": "A crisp cold morning awaits; wear thick gloves and a cap under your helmet for the downtown ride. At noon, conquering the castle and valley will warm you up, but you'll need a windbreaker for the biting winds on descents. In the afternoon, watch out for the early sunset during the long stretch to the lake and turn on your lights. In the evening, after the frosty tour, drink hot tea to thaw out.",
+            "fr": "Un matin froid et vif vous attend ; portez des gants épais et une casquette sous le casque pour la balade en ville. À midi, gravir le château et la vallée vous réchauffera, mais vous aurez besoin d'une coupe‑vent pour les descentes au vent mordant. L'après‑midi, faites attention au coucher du soleil précoce lors du long trajet vers le lac et allumez vos lumières. Le soir, après la tournée glaciale, buvez un thé chaud pour vous réchauffer."
           },
           "stops": [
             {
@@ -562,13 +622,15 @@
                 "de": "Square Santa Fe",
                 "hu": "Square Santa Fe",
                 "ro": "Square Santa Fe",
-                "en": "Square Santa Fe"
+                "en": "Square Santa Fe",
+                "fr": "Square Santa Fe"
               },
               "tip_5lang": {
                 "de": "In der frostigen Morgenluft kann der Reifendruck sinken; prüfen Sie dies vor der Abfahrt und kleiden Sie sich winddicht.",
                 "hu": "A fagyos reggeli levegőben a gumiabroncsok nyomása csökkenhet, indulás előtt ellenőrizze, öltözzön szélállóan.",
                 "ro": "În aerul înghețat al dimineții, presiunea anvelopelor poate scădea; verificați înainte de plecare și purtați haine anti-vânt.",
-                "en": "In the frosty morning air, tire pressure might drop; check before leaving and wear windproof cycling gear."
+                "en": "In the frosty morning air, tire pressure might drop; check before leaving and wear windproof cycling gear.",
+                "fr": "Par grand froid matinal, la pression des pneus peut baisser ; vérifiez‑la avant de partir et portez des vêtements cyclistes coupe‑vent."
               }
             },
             {
@@ -576,13 +638,15 @@
                 "de": "Porte Horloge",
                 "hu": "Porte Horloge",
                 "ro": "Porte Horloge",
-                "en": "Porte Horloge"
+                "en": "Porte Horloge",
+                "fr": "Porte Horloge"
               },
               "tip_5lang": {
                 "de": "Fahren Sie vorsichtig auf dem Kopfsteinpflaster, an Wintermorgen kann sich Raureif bilden; bremsen Sie am Turm ab.",
                 "hu": "A macskaköveken óvatosan haladjon, a téli hajnalokon a pára ráfagyhat az útra, a torony tövében lassítson le.",
                 "ro": "Mergeți încet pe piatra cubică; în zorii de iarnă roua poate îngheța pe drum, încetiniți la baza turnului.",
-                "en": "Proceed carefully on cobblestones; on winter mornings, frost can form on the road, so slow down at the tower's base."
+                "en": "Proceed carefully on cobblestones; on winter mornings, frost can form on the road, so slow down at the tower's base.",
+                "fr": "Avancez prudemment sur les pavés ; les matins d'hiver peuvent voir se former du givre sur la route, ralentissez à la base de la tour."
               }
             },
             {
@@ -590,13 +654,15 @@
                 "de": "Donjon de Vire",
                 "hu": "Donjon de Vire",
                 "ro": "Donjon de Vire",
-                "en": "Donjon de Vire"
+                "en": "Donjon de Vire",
+                "fr": "Donjon de Vire"
               },
               "tip_5lang": {
                 "de": "Der steile Anstieg wärmt auf, aber der eisige Wind bei den Ruinen kühlt schnell ab; machen Sie eine kurze, aktive Pause.",
                 "hu": "A meredek kaptató kimelegíti, de fent a romoknál a jeges szél gyorsan lehűti; tartson egy rövid, de aktív pihenőt.",
                 "ro": "Urcușul abrupt vă încălzește, dar vântul înghețat de la ruine vă răcește rapid; faceți o pauză scurtă și activă.",
-                "en": "The steep climb warms you up, but the icy wind at the ruins cools you down fast; take a short, active break."
+                "en": "The steep climb warms you up, but the icy wind at the ruins cools you down fast; take a short, active break.",
+                "fr": "La montée raide vous réchauffe, mais le vent glacé aux ruines vous refroidit rapidement ; faites une courte pause active."
               }
             },
             {
@@ -604,13 +670,15 @@
                 "de": "Vaux de Vire",
                 "hu": "Vaux de Vire",
                 "ro": "Vaux de Vire",
-                "en": "Vaux de Vire"
+                "en": "Vaux de Vire",
+                "fr": "Vaux de Vire"
               },
               "tip_5lang": {
                 "de": "Im Flusstal staut sich im Winter die Kälte, treten Sie kräftiger in die Pedale; das Wintersonnenlicht durch die Bäume ist herrlich.",
                 "hu": "A folyóvölgyben télen a hideg megül, tekerjen intenzívebben; a kopasz fák között átszűrődő téli napfény csodás.",
                 "ro": "Frigul persistă în valea râului iarna, pedalați mai intens; lumina soarelui de iarnă printre copacii goi este minunată.",
-                "en": "The cold settles in the river valley in winter, so pedal harder; the winter sunlight filtering through bare trees is wonderful."
+                "en": "The cold settles in the river valley in winter, so pedal harder; the winter sunlight filtering through bare trees is wonderful.",
+                "fr": "Le froid s'installe dans la vallée fluviale en hiver, donc pédalez plus fort ; la lumière hivernale filtrant à travers les arbres nus est superbe."
               }
             },
             {
@@ -618,13 +686,15 @@
                 "de": "Parc de l'Europe",
                 "hu": "Parc de l'Europe",
                 "ro": "Parc de l'Europe",
-                "en": "Parc de l'Europe"
+                "en": "Parc de l'Europe",
+                "fr": "Parc de l'Europe"
               },
               "tip_5lang": {
                 "de": "Schalten Sie beim Durchfahren des Parks die Lichter ein, da die Sicht zwischen den Bäumen und im Winterlicht schnell schlechter wird.",
                 "hu": "A parkon áthaladva kapcsolja be a lámpákat, mert a fák között és a téli szürkületben hamar romlik a látási viszony.",
                 "ro": "Aprindeți luminile trecând prin parc, deoarece vizibilitatea scade rapid printre copaci și în amurgul de iarnă.",
-                "en": "Turn on your lights while passing through the park, as visibility drops quickly among the trees and in the winter dusk."
+                "en": "Turn on your lights while passing through the park, as visibility drops quickly among the trees and in the winter dusk.",
+                "fr": "Allumez vos lumières en traversant le parc, car la visibilité baisse rapidement parmi les arbres et dans le crépuscule hivernal."
               }
             },
             {
@@ -632,13 +702,15 @@
                 "de": "Lac de la Dathée",
                 "hu": "Lac de la Dathée",
                 "ro": "Lac de la Dathée",
-                "en": "Lac de la Dathée"
+                "en": "Lac de la Dathée",
+                "fr": "Lac de la Dathée"
               },
               "tip_5lang": {
                 "de": "Am Seeufer kann der Winterwind stark sein; fahren Sie unbedingt vor der frühen Dämmerung gegen 17:00 Uhr zurück.",
                 "hu": "A tóparton erős lehet a téli szél, a korai ~17:00 órás sötétedés előtt mindenképp induljon vissza a szállásra.",
                 "ro": "Pe malul lacului vântul de iarnă poate fi puternic; asigurați-vă că porniți înapoi înainte de apusul de la ora 17:00.",
-                "en": "Winter winds can be strong at the lake; make sure to head back to your accommodation before the early 5 PM sunset."
+                "en": "Winter winds can be strong at the lake; make sure to head back to your accommodation before the early 5 PM sunset.",
+                "fr": "Les vents d'hiver peuvent être forts au lac ; veillez à revenir à votre hébergement avant le coucher du soleil tôt à 17h."
               }
             }
           ]
@@ -658,7 +730,8 @@
             "de": "Square Santa Fe",
             "hu": "Square Santa Fe",
             "ro": "Square Santa Fe",
-            "en": "Square Santa Fe"
+            "en": "Square Santa Fe",
+            "fr": "Place Santa Fe"
           },
           "coords": [
             -0.885283,
@@ -673,7 +746,8 @@
             "de": "Beginnen Sie Ihren Morgen am Square Santa Fe, um die historische Atmosphäre zu genießen, und holen Sie sich einen frischen Kaffee in der Nähe.",
             "hu": "Kezdje a reggelt a Square Santa Fe-n, hogy élvezze annak békés hangulatát, és vegyen egy friss kávét a közeli pékségben, mielőtt továbbindulna.",
             "ro": "Începeți dimineața în Square Santa Fe pentru a admira atmosfera pașnică ce onorează istoria și luați o cafea proaspătă de la o brutărie din apropiere.",
-            "en": "Start your morning at Square Santa Fe to admire its peaceful historical atmosphere, and grab a fresh coffee from a nearby bakery before continuing."
+            "en": "Start your morning at Square Santa Fe to admire its peaceful historical atmosphere, and grab a fresh coffee from a nearby bakery before continuing.",
+            "fr": "Commencez votre matinée à la Place Santa Fe pour admirer son atmosphère historique paisible et prenez un café frais dans une boulangerie voisine avant de continuer."
           }
         },
         {
@@ -681,7 +755,8 @@
             "de": "Porte Horloge",
             "hu": "Porte Horloge",
             "ro": "Porte Horloge",
-            "en": "Porte Horloge"
+            "en": "Porte Horloge",
+            "fr": "Porte Horloge"
           },
           "coords": [
             -0.89,
@@ -696,7 +771,8 @@
             "de": "Entdecken Sie die majestätische Porte Horloge, das ikonische Tor von Vire, und betrachten Sie die feinen Details der Uhr von der Ostseite aus.",
             "hu": "Fedezze fel a fenséges Porte Horloge-t, Vire ikonikus kapuját, és mindenképpen figyelje meg az óra bonyolult részleteit a keleti sétálóoldalról.",
             "ro": "Descoperiți maiestuoasa Porte Horloge, poarta medievală din Vire, și asigurați-vă că verificați detaliile complicate ale ceasului dinspre est.",
-            "en": "Discover the majestic Porte Horloge, the iconic medieval gateway of Vire, and be sure to check the intricate clock details from the eastern side."
+            "en": "Discover the majestic Porte Horloge, the iconic medieval gateway of Vire, and be sure to check the intricate clock details from the eastern side.",
+            "fr": "Découvrez la majestueuse Porte Horloge, l'emblématique porte médiévale de Vire, et pensez à observer les détails complexes de l'horloge depuis le côté est."
           }
         },
         {
@@ -704,7 +780,8 @@
             "de": "Donjon de Vire",
             "hu": "Donjon de Vire",
             "ro": "Donjon de Vire",
-            "en": "Donjon de Vire"
+            "en": "Donjon de Vire",
+            "fr": "Donjon de Vire"
           },
           "coords": [
             -0.89194,
@@ -719,7 +796,8 @@
             "de": "Erkunden Sie die Ruinen des Donjon de Vire, um die befestigte Vergangenheit zu verstehen; tragen Sie festes Schuhwerk für die unebenen Steine.",
             "hu": "Fedezze fel a Donjon de Vire drámai romjait, hogy megértse az erődített múltat, és viseljen kényelmes cipőt az egyenetlen köveken való sétához.",
             "ro": "Explorați ruinele dramatice ale Donjon de Vire pentru a înțelege trecutul fortificat și purtați încălțăminte robustă pentru pietrele inegale.",
-            "en": "Explore the dramatic ruins of the Donjon de Vire to understand the town's fortified past, and wear sturdy shoes for walking over the uneven stones."
+            "en": "Explore the dramatic ruins of the Donjon de Vire to understand the town's fortified past, and wear sturdy shoes for walking over the uneven stones.",
+            "fr": "Explorez les ruines spectaculaires du Donjon de Vire pour comprendre le passé fortifié de la ville, et portez des chaussures robustes pour marcher sur les pierres inégales."
           }
         },
         {
@@ -727,7 +805,8 @@
             "de": "Musée de Vire et du Bocage",
             "hu": "Musée de Vire et du Bocage",
             "ro": "Musée de Vire et du Bocage",
-            "en": "Musée de Vire et du Bocage"
+            "en": "Musée de Vire et du Bocage",
+            "fr": "Musée de Vire et du Bocage"
           },
           "coords": [
             -0.898287,
@@ -742,7 +821,8 @@
             "de": "Tauchen Sie im Museum in die lokale Geschichte ein und fragen Sie das Personal nach Sonderausstellungen, bevor Sie den Rundgang starten.",
             "hu": "Merüljön el a helyi történelemben a múzeumban, és érdeklődjön a személyzetnél az időszaki kiállításokról, mielőtt elkezdené az önálló túrát.",
             "ro": "Pătrundeți în istoria locală la muzeu și întrebați personalul despre expozițiile temporare înainte de a începe turul expoziției auto-ghidat.",
-            "en": "Dive into local history at the museum, and ask the friendly staff about temporary exhibits before beginning your informative self-guided tour."
+            "en": "Dive into local history at the museum, and ask the friendly staff about temporary exhibits before beginning your informative self-guided tour.",
+            "fr": "Plongez dans l'histoire locale au musée et demandez au personnel sympathique quelles sont les expositions temporaires avant de commencer votre visite libre informative."
           }
         },
         {
@@ -750,7 +830,8 @@
             "de": "Parc de l'Europe",
             "hu": "Parc de l'Europe",
             "ro": "Parc de l'Europe",
-            "en": "Parc de l'Europe"
+            "en": "Parc de l'Europe",
+            "fr": "Parc de l'Europe"
           },
           "coords": [
             -0.888721,
@@ -765,7 +846,8 @@
             "de": "Entspannen Sie sich im Parc de l'Europe, einer schönen grünen Oase, und suchen Sie sich eine schattige Bank für ein ruhiges Nachmittagspicknick.",
             "hu": "Pihenjen a Parc de l'Europe buja zöld területén, amely tökéletes a kikapcsolódásra, és keressen egy árnyékos padot egy délutáni piknikhez.",
             "ro": "Relaxați-vă în Parc de l'Europe, un spațiu verde luxuriant perfect pentru odihnă, și găsiți o bancă umbrită pentru un picnic liniștit de după-amiază.",
-            "en": "Relax at Parc de l'Europe, a lush green space perfect for unwinding, and find a shady bench near the center to enjoy a quiet afternoon picnic."
+            "en": "Relax at Parc de l'Europe, a lush green space perfect for unwinding, and find a shady bench near the center to enjoy a quiet afternoon picnic.",
+            "fr": "Détendez-vous au Parc de l'Europe, un espace vert luxuriant idéal pour se relaxer, et trouvez un banc ombragé près du centre pour profiter d'un pique-nique tranquille l'après-midi."
           }
         },
         {
@@ -773,7 +855,8 @@
             "de": "Vaux de Vire",
             "hu": "Vaux de Vire",
             "ro": "Vaux de Vire",
-            "en": "Vaux de Vire"
+            "en": "Vaux de Vire",
+            "fr": "Vaux de Vire"
           },
           "coords": [
             -0.899119,
@@ -788,7 +871,8 @@
             "de": "Schlendern Sie durch das Tal Vaux de Vire, wo lokale Lieder entstanden, und halten Sie die Kamera für wunderschöne Flussspiegelungen bereit.",
             "hu": "Sétáljon végig a festői Vaux de Vire völgyön, ahonnan a helyi dalok származnak, és tartson magánál gépet a folyó tükröződéseinek megörökítéséhez.",
             "ro": "Plimbați-vă prin valea Vaux de Vire, unde au apărut cântecele locale, și păstrați o cameră la îndemână pentru a surprinde reflexiile râului.",
-            "en": "Stroll through the scenic Vaux de Vire valley where local songs originated, and keep a camera handy to capture the beautiful river reflections."
+            "en": "Stroll through the scenic Vaux de Vire valley where local songs originated, and keep a camera handy to capture the beautiful river reflections.",
+            "fr": "Promenez-vous dans la vallée pittoresque des Vaux de Vire où sont nées les chansons locales, et gardez un appareil photo à portée de main pour capturer les magnifiques reflets sur la rivière."
           }
         },
         {
@@ -796,7 +880,8 @@
             "de": "Lac de la Dathée",
             "hu": "Lac de la Dathée",
             "ro": "Lac de la Dathée",
-            "en": "Lac de la Dathée"
+            "en": "Lac de la Dathée",
+            "fr": "Lac de la Dathée"
           },
           "coords": [
             -0.954105,
@@ -811,7 +896,8 @@
             "de": "Beenden Sie Ihren Ausflug am Lac de la Dathée für herrliche Naturansichten und spazieren Sie auf den markierten Wegen, um Vögel zu beobachten.",
             "hu": "Fejezze be utazását a nyugodt Lac de la Dathée-nél, és sétáljon a jól jelzett ösvényeken, hogy megfigyelhesse a helyi madárfajokat alkonyatkor.",
             "ro": "Încheiați-vă călătoria la Lac de la Dathée pentru priveliști naturale extinse și plimbați-vă pe trasee pentru a vedea păsări locale la amurg.",
-            "en": "Conclude your trip at the tranquil Lac de la Dathée to enjoy sweeping natural views, and walk along the trails to spot local bird species at dusk."
+            "en": "Conclude your trip at the tranquil Lac de la Dathée to enjoy sweeping natural views, and walk along the trails to spot local bird species at dusk.",
+            "fr": "Concluez votre voyage au paisible Lac de la Dathée pour profiter de vues naturelles vastes et marchez le long des sentiers pour observer les oiseaux locaux au crépuscule."
           }
         }
       ],
@@ -819,7 +905,8 @@
         "de": "Vire empfängt Sie mit seinem reichen normannischen Erbe und einer friedlichen Natur. Beginnen Sie Ihren Morgen im historischen Zentrum und erkunden Sie den beeindruckenden Uhrenturm und die alten Burgruinen. Fahren Sie mittags zum Heimatmuseum, um mehr über die lokale Kultur zu erfahren. Verbringen Sie den Nachmittag entspannt in den grünen Tälern und Parks. Am Abend erwartet Sie die idyllische Schönheit des großen Sees.",
         "hu": "Vire gazdag normann örökséggel és békés természeti környezettel várja. Kezdje a reggelt a történelmi központban, felfedezve az impozáns óratornyot és az ősi kastélyromokat. Délben autózózzon el a múzeumba a helyi kultúra megismeréséért. Délután pihenjen a zöld völgyekben és parkokban. Estefelé élvezze a közeli tó nyugodt, festői szépségét és a lemenő nap fényeit.",
         "ro": "Vire vă întâmpină cu bogata sa moștenire normandă și cu un cadru natural pașnic. Începeți dimineața în centrul istoric, explorând turnul cu ceas și ruinele vechiului castel. La prânz, conduceți către muzeu pentru a descoperi cultura locală. Petreceți-vă după-amiaza relaxându-vă în văile și parcurile verzi. Seara, bucurați-vă de frumusețea senină a marelui lac din apropiere.",
-        "en": "Vire welcomes you with its rich Norman heritage and peaceful natural surroundings. Start your morning exploring the historic center, tracing the shadows of the impressive clock tower and ancient castle ruins. By midday, drive to the local museum to delve into regional culture. Spend your afternoon relaxing in the lush valleys and parks. As evening falls, embrace the serene, sweeping beauty of the nearby lake."
+        "en": "Vire welcomes you with its rich Norman heritage and peaceful natural surroundings. Start your morning exploring the historic center, tracing the shadows of the impressive clock tower and ancient castle ruins. By midday, drive to the local museum to delve into regional culture. Spend your afternoon relaxing in the lush valleys and parks. As evening falls, embrace the serene, sweeping beauty of the nearby lake.",
+        "fr": "Vire vous accueille avec son riche patrimoine normand et ses environs naturels paisibles. Commencez la matinée par l'exploration du centre historique, en suivant les ombres de l'impressionnante tour horloge et des anciennes ruines du château. À midi, conduisez jusqu'au musée local pour vous plonger dans la culture régionale. Passez l'après-midi à vous détendre dans les vallées et parcs luxuriants. Au crépuscule, contemplez la beauté sereine et étendue du lac tout proche."
       },
       "variants": {
         "rainy": {
@@ -827,7 +914,8 @@
             "de": "An einem regnerischen Morgen können Sie die Sehenswürdigkeiten der Innenstadt trocken erkunden. Mittags, nach der Burgruine, bieten die warmen, überdachten Ausstellungen des Museums den perfekten Zufluchtsort. Nachmittags ist die Natur auch vom Auto aus beeindruckend. Fahren Sie abends sicher zurück und achten Sie auf die nassen, spiegelnden Straßen.",
             "hu": "Esős reggelen kényelmesen, szárazon fedezheti fel a belváros látványosságait. Délben a várrom megtekintése után a múzeum fedett, meleg kiállítóterei tökéletes menedéket nyújtanak. Délután a természet (park, völgy, tó) autóból is lenyűgöző; ahol lehet, húzza le az ablakot a friss esőillatért. Este biztonságos vezetéssel térjen vissza, figyelve a vizes, csillogó utakra.",
             "ro": "Într-o dimineață ploioasă, puteți explora confortabil și uscat atracțiile din centru. La prânz, după ruine, expozițiile calde din interiorul muzeului oferă un refugiu perfect. După-amiaza, natura (parcul, valea, lacul) arată uimitor din mașină; deschideți geamul pentru mirosul de ploaie. Seara, conduceți în siguranță înapoi, fiind atenți la drumurile umede și alunecoase.",
-            "en": "On a rainy morning, you can comfortably explore the downtown sights while staying dry. At noon, after viewing the castle ruins, the museum's warm indoor exhibits provide a perfect refuge. In the afternoon, nature (the park, valley, and lake) looks stunning from the car; roll down the window for the fresh rain scent. In the evening, drive back safely, watching for wet, glaring roads."
+            "en": "On a rainy morning, you can comfortably explore the downtown sights while staying dry. At noon, after viewing the castle ruins, the museum's warm indoor exhibits provide a perfect refuge. In the afternoon, nature (the park, valley, and lake) looks stunning from the car; roll down the window for the fresh rain scent. In the evening, drive back safely, watching for wet, glaring roads.",
+            "fr": "Par une matinée pluvieuse, vous pouvez visiter confortablement les sites du centre-ville tout en restant au sec. À midi, après la visite des ruines du château, les expositions intérieures du musée offrent un refuge parfait. L'après-midi, la nature (parc, vallée et lac) est splendide vue depuis la voiture ; baissez la fenêtre pour humer l'odeur fraîche de la pluie. Le soir, rentrez prudemment en surveillant les routes mouillées et éblouissantes."
           },
           "stops": [
             {
@@ -835,13 +923,15 @@
                 "de": "Square Santa Fe",
                 "hu": "Square Santa Fe",
                 "ro": "Square Santa Fe",
-                "en": "Square Santa Fe"
+                "en": "Square Santa Fe",
+                "fr": "Place Santa Fe"
               },
               "tip_5lang": {
                 "de": "Parken Sie in der Nähe; nehmen Sie einen großen Regenschirm für den kurzen, aber stimmungsvollen Spaziergang über den Platz mit.",
                 "hu": "Parkoljon le a közelben; vigyen magával egy nagy esernyőt a tér rövid, de annál hangulatosabb körbesétálásához.",
                 "ro": "Parcați în apropiere; luați o umbrelă mare pentru o scurtă, dar atmosferică plimbare în jurul pieței.",
-                "en": "Park nearby; take a large umbrella with you for a short but highly atmospheric walk around the square."
+                "en": "Park nearby; take a large umbrella with you for a short but highly atmospheric walk around the square.",
+                "fr": "Garez-vous à proximité ; prenez un grand parapluie pour une courte mais très atmosphérique promenade autour de la place."
               }
             },
             {
@@ -849,13 +939,15 @@
                 "de": "Porte Horloge",
                 "hu": "Porte Horloge",
                 "ro": "Porte Horloge",
-                "en": "Porte Horloge"
+                "en": "Porte Horloge",
+                "fr": "Porte Horloge"
               },
               "tip_5lang": {
                 "de": "Achten Sie im Regen auf Fußgänger in engen Straßen; der Durchgang unter dem Uhrturm ist auch bei Regen ein tolles Fotomotiv.",
                 "hu": "Figyeljen a gyalogosokra a szűkebb utcákban esőben; az óratorony alatti átjáró remek fotótéma, ha esik is.",
                 "ro": "Atenție la pietonii din străzile înguste pe ploaie; trecerea de sub turnul cu ceas este un loc excelent pentru fotografii.",
-                "en": "Watch for pedestrians in narrow streets in the rain; the passage under the clock tower is a great photo spot even when wet."
+                "en": "Watch for pedestrians in narrow streets in the rain; the passage under the clock tower is a great photo spot even when wet.",
+                "fr": "Soyez attentif aux piétons dans les rues étroites sous la pluie ; le passage sous la tour horloge est un excellent point photo, même mouillé."
               }
             },
             {
@@ -863,13 +955,15 @@
                 "de": "Donjon de Vire",
                 "hu": "Donjon de Vire",
                 "ro": "Donjon de Vire",
-                "en": "Donjon de Vire"
+                "en": "Donjon de Vire",
+                "fr": "Donjon de Vire"
               },
               "tip_5lang": {
                 "de": "Der Parkplatz unter der Burg kann schlammig sein, wasserfeste Schuhe sind ratsam; die Wolken bieten einen dramatischen Hintergrund.",
                 "hu": "A vár alatti parkoló esőben sáros lehet, vízálló cipő javasolt; a felhők drámai hátteret adnak a romoknak.",
                 "ro": "Parcarea de sub castel poate fi noroioasă pe ploaie, recomandăm pantofi impermeabili; norii oferă un fundal dramatic ruinelor.",
-                "en": "The parking lot under the castle can be muddy in rain, waterproof shoes are advised; clouds add a dramatic backdrop to ruins."
+                "en": "The parking lot under the castle can be muddy in rain, waterproof shoes are advised; clouds add a dramatic backdrop to ruins.",
+                "fr": "Le parking sous le château peut être boueux par temps de pluie, des chaussures imperméables sont conseillées ; les nuages ajoutent un arrière-plan dramatique aux ruines."
               }
             },
             {
@@ -877,13 +971,15 @@
                 "de": "Musée de Vire et du Bocage",
                 "hu": "Musée de Vire et du Bocage",
                 "ro": "Musée de Vire et du Bocage",
-                "en": "Musée de Vire et du Bocage"
+                "en": "Musée de Vire et du Bocage",
+                "fr": "Musée de Vire et du Bocage"
               },
               "tip_5lang": {
                 "de": "Das beste Regenprogramm! Verbringen Sie mehr Zeit drinnen und lernen Sie die lokale Geschichte kennen, während es draußen gießt.",
                 "hu": "A legjobb esős program! Töltsön több időt bent, ismerje meg a helyi történelmet, miközben kint szakad az eső.",
                 "ro": "Cel mai bun program pe ploaie! Petreceți mai mult timp înăuntru, învățând istoria locală, în timp ce afară plouă torențial.",
-                "en": "The best rainy activity! Spend more time indoors learning about local history while it pours rain outside."
+                "en": "The best rainy activity! Spend more time indoors learning about local history while it pours rain outside.",
+                "fr": "La meilleure activité par temps de pluie ! Passez plus de temps à l'intérieur à découvrir l'histoire locale pendant qu'il pleut dehors."
               }
             },
             {
@@ -891,13 +987,15 @@
                 "de": "Parc de l'Europe",
                 "hu": "Parc de l'Europe",
                 "ro": "Parc de l'Europe",
-                "en": "Parc de l'Europe"
+                "en": "Parc de l'Europe",
+                "fr": "Parc de l'Europe"
               },
               "tip_5lang": {
                 "de": "Wenn es stark regnet, rollen Sie langsam am Parkrand entlang oder machen Sie einen Blitzspaziergang unter dem Schirm.",
                 "hu": "Ha nagyon esik, csak guruljon lassan a park szélén, vagy tegyen egy villámsétát az esernyő alatt a friss levegőért.",
                 "ro": "Dacă plouă tare, conduceți încet pe marginea parcului sau faceți o plimbare rapidă sub umbrelă pentru aer curat.",
-                "en": "If it's raining heavily, just roll slowly along the park edge or take a lightning-fast walk under an umbrella for fresh air."
+                "en": "If it's raining heavily, just roll slowly along the park edge or take a lightning-fast walk under an umbrella for fresh air.",
+                "fr": "S'il pleut fortement, faites simplement le tour du parc en roulant lentement ou faites une marche éclair sous un parapluie pour prendre l'air."
               }
             },
             {
@@ -905,13 +1003,15 @@
                 "de": "Vaux de Vire",
                 "hu": "Vaux de Vire",
                 "ro": "Vaux de Vire",
-                "en": "Vaux de Vire"
+                "en": "Vaux de Vire",
+                "fr": "Vaux de Vire"
               },
               "tip_5lang": {
                 "de": "Fahren Sie auf der kurvigen Talstraße wegen Aquaplaninggefahr langsamer; die Landschaft ist jetzt wunderbar grün.",
                 "hu": "A kanyargós völgyi úton esőben vezessen lassabban a vízátfolyások miatt; a táj csodálatosan zöld ilyenkor.",
                 "ro": "Conduceți mai încet pe drumul șerpuitor din vale din cauza bălților; peisajul este minunat de verde în acest moment.",
-                "en": "Drive slower on the winding valley road due to potential water pooling; the landscape is wonderfully green right now."
+                "en": "Drive slower on the winding valley road due to potential water pooling; the landscape is wonderfully green right now.",
+                "fr": "Roulez plus lentement sur la route sinueuse de la vallée en raison d'éventuelles accumulations d'eau ; le paysage est merveilleusement vert en ce moment."
               }
             },
             {
@@ -919,13 +1019,15 @@
                 "de": "Lac de la Dathée",
                 "hu": "Lac de la Dathée",
                 "ro": "Lac de la Dathée",
-                "en": "Lac de la Dathée"
+                "en": "Lac de la Dathée",
+                "fr": "Lac de la Dathée"
               },
               "tip_5lang": {
                 "de": "Auch vom Auto aus können Sie den Blick auf den See genießen; die Regentropfen am Fenster sorgen für eine romantische Stimmung.",
                 "hu": "Az autóban ülve is élvezheti a tó látványát, a vízcseppek az ablakon kifejezetten mélabús, romantikus hangulatot adnak.",
                 "ro": "Vă puteți bucura de vederea lacului și din mașină; picăturile de ploaie pe geam oferă o atmosferă romantică și melancolică.",
-                "en": "You can enjoy the lake view from your car; raindrops on the window provide a distinctly melancholic, romantic atmosphere."
+                "en": "You can enjoy the lake view from your car; raindrops on the window provide a distinctly melancholic, romantic atmosphere.",
+                "fr": "Vous pouvez profiter de la vue sur le lac depuis votre voiture ; les gouttes de pluie sur la vitre créent une atmosphère mélancolique et romantique."
               }
             }
           ]
@@ -935,7 +1037,8 @@
             "de": "Genießen Sie am Wintermorgen das beheizte Auto bei kurzen Fahrten zwischen den Zielen im Zentrum und achten Sie auf Glatteis. Mittags gleicht das Museum den kalten Wind der Burgruine aus. Nachmittags ist die Winterpracht von Tal und See atemberaubend; teilen Sie sich Ihre Zeit wegen des frühen Sonnenuntergangs (~17:00 Uhr) gut ein. Fahren Sie abends sicher zu einem warmen Abendessen.",
             "hu": "Téli reggelen élvezze a fűtött autót a belvárosi helyszínek közötti rövid utakon, figyelve a jeges szakaszokra. Délben a vár hideg szélét a múzeum fűtött termeiben ellensúlyozhatja, ami remek téli menedék. Délután a völgy és a tó téli pompája lenyűgöző, de a korai sötétedés miatt (~17:00) jól ossza be az idejét. Este biztonságosan hajtson vissza a kivilágított utakon egy meleg vacsorára.",
             "ro": "Într-o dimineață de iarnă, bucurați-vă de mașina încălzită pe distanțe scurte în centru, atenție la gheață. La prânz, contracarați vântul rece de la castel cu sălile încălzite ale muzeului. După-amiaza, splendoarea iernii în vale și la lac este uimitoare, dar gestionați-vă bine timpul din cauza apusului devreme (~17:00). Seara, conduceți în siguranță înapoi pentru o cină caldă.",
-            "en": "On a winter morning, enjoy your heated car during short trips between downtown spots, watching for icy patches. At noon, offset the cold wind at the castle ruins with the heated halls of the museum, a great winter refuge. In the afternoon, the winter splendor of the valley and lake is stunning, but manage your time well due to the early sunset (~5 PM). In the evening, drive back safely to a warm dinner."
+            "en": "On a winter morning, enjoy your heated car during short trips between downtown spots, watching for icy patches. At noon, offset the cold wind at the castle ruins with the heated halls of the museum, a great winter refuge. In the afternoon, the winter splendor of the valley and lake is stunning, but manage your time well due to the early sunset (~5 PM). In the evening, drive back safely to a warm dinner.",
+            "fr": "Par une matinée d'hiver, profitez de votre voiture chauffée pour les courts trajets entre les sites du centre-ville, en surveillant les plaques de verglas. À midi, contrariez le vent froid aux ruines du château dans les salles chauffées du musée, un excellent refuge hivernal. L'après-midi, la splendeur hivernale de la vallée et du lac est magnifique, mais gérez bien votre temps à cause du coucher du soleil précoce (~17h). Le soir, rentrez prudemment pour un dîner chaud."
           },
           "stops": [
             {
@@ -943,13 +1046,15 @@
                 "de": "Square Santa Fe",
                 "hu": "Square Santa Fe",
                 "ro": "Square Santa Fe",
-                "en": "Square Santa Fe"
+                "en": "Square Santa Fe",
+                "fr": "Place Santa Fe"
               },
               "tip_5lang": {
                 "de": "Fahren Sie auf frostigen Straßen vorsichtig; nach dem Spaziergang auf dem Platz ist die Rückkehr ins warme Auto sehr angenehm.",
                 "hu": "A fagyos utakon vezessen óvatosan; a téren sétálva jól fog esni utána a meleg autóba való visszatérés.",
                 "ro": "Conduceți cu grijă pe drumurile înghețate; după plimbarea prin piață, întoarcerea în mașina caldă va fi foarte plăcută.",
-                "en": "Drive carefully on frosty roads; after walking around the square, returning to the warm car will feel great."
+                "en": "Drive carefully on frosty roads; after walking around the square, returning to the warm car will feel great.",
+                "fr": "Conduisez prudemment sur les routes givrées ; après la promenade autour de la place, retrouver la voiture chaude fera du bien."
               }
             },
             {
@@ -957,13 +1062,15 @@
                 "de": "Porte Horloge",
                 "hu": "Porte Horloge",
                 "ro": "Porte Horloge",
-                "en": "Porte Horloge"
+                "en": "Porte Horloge",
+                "fr": "Porte Horloge"
               },
               "tip_5lang": {
                 "de": "Das Kopfsteinpflaster kann im Winter besonders rutschig sein; parken Sie sicher und ziehen Sie Handschuhe zum Besichtigen an.",
                 "hu": "A macskaköves részek télen különösen csúszósak lehetnek, parkoljon le biztonságosan, és húzzon kesztyűt a nézelődéshez.",
                 "ro": "Piatra cubică poate fi deosebit de alunecoasă iarna, parcați în siguranță și purtați mănuși pentru a explora.",
-                "en": "Cobblestones can be especially slippery in winter, park safely and put on your gloves to look around outside."
+                "en": "Cobblestones can be especially slippery in winter, park safely and put on your gloves to look around outside.",
+                "fr": "Les pavés peuvent être particulièrement glissants en hiver, garez-vous en sécurité et mettez vos gants pour regarder autour de vous."
               }
             },
             {
@@ -971,13 +1078,15 @@
                 "de": "Donjon de Vire",
                 "hu": "Donjon de Vire",
                 "ro": "Donjon de Vire",
-                "en": "Donjon de Vire"
+                "en": "Donjon de Vire",
+                "fr": "Donjon de Vire"
               },
               "tip_5lang": {
                 "de": "Der Spaziergang um die Burg ist frostig; lassen Sie den Motor kurz laufen, bevor Sie abfahren, damit es drinnen schön warm ist.",
                 "hu": "A vár körüli séta fagyos lesz, hagyja járva a motort pár percig indulás előtt, hogy kellemes meleg várja vissza.",
                 "ro": "Plimbarea pe lângă castel va fi geroasă, lăsați motorul pornit câteva minute înainte de plecare pentru a vă întoarce la cald.",
-                "en": "The walk around the castle will be frosty, maybe preheat the car for a few minutes before returning so it's warm."
+                "en": "The walk around the castle will be frosty, maybe preheat the car for a few minutes before returning so it's warm.",
+                "fr": "La promenade autour du château sera gelée, préchauffez peut-être la voiture quelques minutes avant de revenir pour qu'elle soit chaude."
               }
             },
             {
@@ -985,13 +1094,15 @@
                 "de": "Musée de Vire et du Bocage",
                 "hu": "Musée de Vire et du Bocage",
                 "ro": "Musée de Vire et du Bocage",
-                "en": "Musée de Vire et du Bocage"
+                "en": "Musée de Vire et du Bocage",
+                "fr": "Musée de Vire et du Bocage"
               },
               "tip_5lang": {
                 "de": "Dieses beheizte Gebäude ist der perfekte Zufluchtsort vor der Winterkälte; legen Sie den Mantel ab und genießen Sie die Ausstellung.",
                 "hu": "Ez a fűtött épület tökéletes menedék a téli hideg elől; tegye le a nagykabátot, és kényelmesen élvezze a kiállítást.",
                 "ro": "Această clădire încălzită este refugiul perfect de frigul iernii; lăsați haina groasă și bucurați-vă confortabil de expoziție.",
-                "en": "This heated building is a perfect refuge from the winter cold; take off your heavy coat and comfortably enjoy the exhibit."
+                "en": "This heated building is a perfect refuge from the winter cold; take off your heavy coat and comfortably enjoy the exhibit.",
+                "fr": "Ce bâtiment chauffé est un refuge parfait contre le froid hivernal ; enlevez votre manteau lourd et profitez confortablement des expositions."
               }
             },
             {
@@ -999,13 +1110,15 @@
                 "de": "Parc de l'Europe",
                 "hu": "Parc de l'Europe",
                 "ro": "Parc de l'Europe",
-                "en": "Parc de l'Europe"
+                "en": "Parc de l'Europe",
+                "fr": "Parc de l'Europe"
               },
               "tip_5lang": {
                 "de": "An Winternachmittagen steht die Sonne tief und wirft schöne Schatten; ein kurzer Fotostopp in der Kälte lohnt sich auf jeden Fall.",
                 "hu": "Téli délutánokon a nap már alacsonyan jár, gyönyörű árnyékokat vetve; egy rövid fotószünet a hidegben is megéri.",
                 "ro": "În după-amiezele de iarnă soarele este coborât, aruncând umbre frumoase; o scurtă oprire pentru fotografii merită frigul.",
-                "en": "On winter afternoons, the sun is low, casting beautiful shadows; a short photo stop is worth braving the cold."
+                "en": "On winter afternoons, the sun is low, casting beautiful shadows; a short photo stop is worth braving the cold.",
+                "fr": "Les après‑midi d'hiver, le soleil est bas et projette de beaux jeux d'ombre ; un arrêt photo bref vaut la peine malgré le froid."
               }
             },
             {
@@ -1013,13 +1126,15 @@
                 "de": "Vaux de Vire",
                 "hu": "Vaux de Vire",
                 "ro": "Vaux de Vire",
-                "en": "Vaux de Vire"
+                "en": "Vaux de Vire",
+                "fr": "Vaux de Vire"
               },
               "tip_5lang": {
                 "de": "Fahren Sie auf den frostigen Talstraßen besonders vorsichtig; in den schattigen Kurven kann sich leicht Blitzeis bilden.",
                 "hu": "A völgy fagyos útjain fokozott óvatossággal vezessen, fekete jég is kialakulhat az árnyékos kanyarokban.",
                 "ro": "Conduceți cu mare grijă pe drumurile înghețate din vale, se poate forma gheață neagră în curbele umbrite.",
-                "en": "Drive with extreme caution on the frosty valley roads, as black ice can easily form in the shaded, cold corners."
+                "en": "Drive with extreme caution on the frosty valley roads, as black ice can easily form in the shaded, cold corners.",
+                "fr": "Conduisez avec une extrême prudence sur les routes de la vallée gelées, car le verglas noir peut se former facilement dans les coins ombragés et froids."
               }
             },
             {
@@ -1027,13 +1142,15 @@
                 "de": "Lac de la Dathée",
                 "hu": "Lac de la Dathée",
                 "ro": "Lac de la Dathée",
-                "en": "Lac de la Dathée"
+                "en": "Lac de la Dathée",
+                "fr": "Lac de la Dathée"
               },
               "tip_5lang": {
                 "de": "Kommen Sie vor Einbruch der Dunkelheit um 17:00 Uhr an, um den See zu sehen, und fahren Sie dann sicher in die Stadt zurück.",
                 "hu": "Érkezzen meg még a 17:00 órás sötétedés előtt, hogy lássa a téli tavat, majd biztonságosan vezessen vissza a városba.",
                 "ro": "Ajungeți înainte de întunericul de la ora 17:00 pentru a vedea lacul de iarnă, apoi conduceți în siguranță înapoi în oraș.",
-                "en": "Arrive before the 5 PM darkness to see the winter lake, then drive back safely to the city on the lit roads."
+                "en": "Arrive before the 5 PM darkness to see the winter lake, then drive back safely to the city on the lit roads.",
+                "fr": "Arrivez avant la nuit à 17h pour voir le lac d'hiver, puis rentrez prudemment en ville sur des routes éclairées."
               }
             }
           ]

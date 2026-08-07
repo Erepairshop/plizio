@@ -21,7 +21,8 @@
             "de": "Château des Rohan",
             "hu": "Rohan kastély",
             "ro": "Castelul Rohan",
-            "en": "Château des Rohan"
+            "en": "Château des Rohan",
+            "fr": "Château des Rohan"
           },
           "coords": [
             -2.963318,
@@ -36,7 +37,8 @@
             "de": "Erkunden Sie die imposante Festung der Familie Rohan aus dem 15. Jahrhundert mit ihren massiven Zwillingstürmen und spazieren Sie am Wassergraben entlang, um die besten Fotos zu machen.",
             "hu": "Fedezze fel a Rohan család lenyűgöző, 15. századi erődítményét a hatalmas ikertornyokkal, és sétáljon végig a várárok mentén a legjobb fotókért.",
             "ro": "Explorați impunătoarea fortăreață din secolul al XV-lea a familiei Rohan cu turnurile sale gemene masive, plimbându-vă de-a lungul șanțului pentru a face cele mai bune fotografii.",
-            "en": "Explore the imposing 15th-century stronghold of the Rohan family with its massive twin towers, taking time to walk the moat path for the best photos."
+            "en": "Explore the imposing 15th-century stronghold of the Rohan family with its massive twin towers, taking time to walk the moat path for the best photos.",
+            "fr": "Explorez l'imposante forteresse du XVe siècle de la famille de Rohan avec ses massives tours jumelles, en prenant le temps de longer le chemin le long du fossé pour les meilleures photos."
           }
         },
         {
@@ -44,7 +46,8 @@
             "de": "Nantes-Brest-Kanal",
             "hu": "Nantes-Brest csatorna",
             "ro": "Canalul Nantes-Brest",
-            "en": "Nantes-Brest Canal"
+            "en": "Nantes-Brest Canal",
+            "fr": "Canal de Nantes à Brest"
           },
           "coords": [
             -2.966414,
@@ -59,7 +62,8 @@
             "de": "Genießen Sie einen ruhigen Spaziergang entlang der historischen Treidelpfade dieses technischen Meisterwerks, wo Sie ganz einfach ein kleines Boot mieten können.",
             "hu": "Élvezze a békés sétát e mérnöki csoda történelmi vontatóútjain, ahol könnyedén bérelhet egy kis csónakot, vagy egyszerűen csak nézheti a zsilipek működését.",
             "ro": "Bucurați-vă de o plimbare liniștită de-a lungul traseelor istorice ale acestei minuni inginerești, de unde puteți închiria cu ușurință o barcă mică.",
-            "en": "Enjoy a peaceful stroll along the historical towpaths of this engineering marvel, where you can easily rent a small boat or simply watch the locks in action."
+            "en": "Enjoy a peaceful stroll along the historical towpaths of this engineering marvel, where you can easily rent a small boat or simply watch the locks in action.",
+            "fr": "Profitez d'une promenade paisible le long des chemins de halage historiques de ce chef‑d'œuvre d'ingénierie, où vous pouvez facilement louer un petit bateau ou simplement regarder les écluses en action."
           }
         },
         {
@@ -67,7 +71,8 @@
             "de": "Basilika Notre-Dame-de-Joie",
             "hu": "Notre-Dame-de-Joie Bazilika",
             "ro": "Bazilica Notre-Dame-de-Joie",
-            "en": "Basilica of Notre-Dame-de-Joie"
+            "en": "Basilica of Notre-Dame-de-Joie",
+            "fr": "Basilique Notre‑Dame‑de‑Joie"
           },
           "coords": [
             -2.966211,
@@ -82,7 +87,8 @@
             "de": "Bewundern Sie den markanten Kontrast zwischen der neugotischen Architektur und dem älteren historischen Zentrum, und achten Sie dabei besonders auf die Buntglasfenster.",
             "hu": "Csodálja meg a neogótikus építészet és a régebbi történelmi központ közötti feltűnő kontrasztot, és feltétlenül pillantson fel a bonyolult ólomüveg ablakokra.",
             "ro": "Admirați contrastul izbitor dintre arhitectura neogotică și centrul istoric mai vechi, având grijă să priviți vitraliile complicate.",
-            "en": "Admire the striking contrast between the Neo-Gothic architecture and the older historic center, making sure to look up at the intricate stained glass windows."
+            "en": "Admire the striking contrast between the Neo-Gothic architecture and the older historic center, making sure to look up at the intricate stained glass windows.",
+            "fr": "Admirez le contraste saisissant entre l'architecture néo‑gothique et le vieux centre historique, en prenant soin de lever les yeux pour voir les vitraux finement ouvragés."
           }
         },
         {
@@ -90,7 +96,8 @@
             "de": "Tumulus de Nillizien",
             "hu": "Nillizien halomsír",
             "ro": "Tumulul Nillizien",
-            "en": "Tumulus de Nillizien"
+            "en": "Tumulus de Nillizien",
+            "fr": "Tumulus de Nillizien"
           },
           "coords": [
             -2.96831,
@@ -105,7 +112,8 @@
             "de": "Entdecken Sie die alten prähistorischen Wurzeln der Region an diesem faszinierenden Grabhügel, den Sie am besten am Nachmittag bei dramatischem Licht besuchen.",
             "hu": "Fedezze fel a régió ősi őskori gyökereit ezen a lenyűgöző halomsíron, amelyet a legjobb délután meglátogatni, amikor a fény drámai árnyékokat vet.",
             "ro": "Descoperiți rădăcinile preistorice antice ale regiunii la acest fascinant tumul funerar, care este cel mai bine vizitat după-amiaza pentru o lumină dramatică.",
-            "en": "Uncover the ancient prehistoric roots of the region at this fascinating burial mound, best visited in the afternoon when the light casts dramatic shadows."
+            "en": "Uncover the ancient prehistoric roots of the region at this fascinating burial mound, best visited in the afternoon when the light casts dramatic shadows.",
+            "fr": "Découvrez les racines préhistoriques de la région sur cette fascinante tombe à tumulus, à visiter de préférence l’après‑midi lorsque la lumière projette des ombres dramatiques."
           }
         },
         {
@@ -113,7 +121,8 @@
             "de": "Sainte-Tréphine",
             "hu": "Sainte-Tréphine",
             "ro": "Sainte-Tréphine",
-            "en": "Sainte-Tréphine"
+            "en": "Sainte-Tréphine",
+            "fr": "Sainte-Tréphine"
           },
           "coords": [
             -2.98691,
@@ -128,7 +137,8 @@
             "de": "Entdecken Sie dieses verborgene Juwel der lokalen Religionsgeschichte inmitten friedlicher Natur und bringen Sie bequeme Schuhe für die etwas unebenen Wege mit.",
             "hu": "Fedezze fel a helyi vallástörténet e rejtett gyöngyszemét békés természettel körülvéve, és vigyen magával kényelmes cipőt a kissé egyenetlen ösvényekhez.",
             "ro": "Descoperiți această bijuterie ascunsă a istoriei religioase locale înconjurată de natură, purtând încălțăminte confortabilă pentru cărările ușor accidentate.",
-            "en": "Discover this hidden gem of local religious history surrounded by peaceful nature, bringing comfortable shoes for the slightly uneven paths leading up to it."
+            "en": "Discover this hidden gem of local religious history surrounded by peaceful nature, bringing comfortable shoes for the slightly uneven paths leading up to it.",
+            "fr": "Découvrez ce trésor caché de l’histoire religieuse locale, entouré d’une nature paisible ; apportez des chaussures confortables pour les sentiers légèrement irréguliers qui y montent."
           }
         }
       ],
@@ -136,7 +146,8 @@
         "de": "Der Morgen beginnt am beeindruckenden Château des Rohan und führt Sie in die mittelalterliche bretonische Geschichte ein, gefolgt von einem Spaziergang am Nantes-Brest-Kanal. Mittags erreichen Sie das Zentrum von Pontivy, um die neugotische Basilika zu bewundern. Am Nachmittag reisen Sie am Tumulus de Nillizien in die Antike, bevor der Tag friedlich bei Sainte-Tréphine ausklingt.",
         "hu": "A reggel a lenyűgöző Château des Rohannál kezdődik, elmerülve a középkori breton történelemben, majd egy kellemes séta következik a Nantes-Brest csatorna mentén. Délben Pontivy szívében megcsodálhatja a neogótikus bazilikát. Délután a Tumulus de Nilliziennél az ókorba repül vissza, az estét pedig a békés Sainte-Tréphine-nél fejezi be.",
         "ro": "Dimineața începe la impresionantul Château des Rohan, urmată de o plimbare pe malul canalului Nantes-Brest. La prânz ajungeți în inima orașului Pontivy pentru a admira Bazilica neogotică. După-amiaza vă poartă înapoi în timp la Tumulus de Nillizien, iar seara se încheie cu o plimbare liniștită către serena Sainte-Tréphine, oferind un final perfect.",
-        "en": "Morning begins at the impressive Château des Rohan, immersing you in medieval Breton history, followed by a leisurely stroll along the Nantes-Brest Canal. Midday brings you into the heart of Pontivy to admire the Neo-Gothic Basilica. In the afternoon, you will transition to ancient times at the Tumulus de Nillizien. The evening concludes with a quiet walk to the serene Sainte-Tréphine."
+        "en": "Morning begins at the impressive Château des Rohan, immersing you in medieval Breton history, followed by a leisurely stroll along the Nantes-Brest Canal. Midday brings you into the heart of Pontivy to admire the Neo-Gothic Basilica. In the afternoon, you will transition to ancient times at the Tumulus de Nillizien. The evening concludes with a quiet walk to the serene Sainte-Tréphine.",
+        "fr": "La matinée commence au remarquable Château des Rohan, pour vous plonger dans l’histoire médiévale bretonne, suivie d’une promenade le long du canal Nantes‑Brest. À midi, rendez‑vous au cœur de Pontivy pour admirer la basilique néo‑gothique. L’après‑midi vous ramène aux temps anciens au Tumulus de Nillizien. La soirée se conclut par une balade tranquille jusqu’à la sereine Sainte‑Tréphine."
       },
       "variants": {
         "rainy": {
@@ -144,7 +155,8 @@
             "de": "Beginnen Sie den Morgen im Schutz des Schlosses Rohan, wo die dicken Mauern vor dem bretonischen Regen schützen. Mittags bietet die Basilika einen trockenen Ort für Besinnung, während der Kanal im Regen eine mystische Atmosphäre ausstrahlt. Am Nachmittag führt der Weg zum Hügelgrab und zur Kapelle; wasserfeste Kleidung ist hier unerlässlich. Den Abend lassen Sie in den beleuchteten Gassen ausklingen.",
             "hu": "Kezdje a reggelt a Rohan kastély védelmében, ahol a vastag falak óvnak a breton esőtől. Délben a bazilika kínál száraz menedéket, miközben a csatorna misztikus hangulatot áraszt a szitáló esőben. Délután a halomsírhoz és a kápolnához vezet az út; a vízálló ruházat és a sár elleni védekezés elengedhetetlen. Az estét a város ódon, esőtől fénylő utcáin fejezheti be.",
             "ro": "Începeți dimineața la adăpostul Castelului Rohan, unde zidurile groase vă protejează de ploaia bretonă. La prânz, bazilica oferă un refugiu uscat, în timp ce canalul emană o atmosferă mistică sub stropii de apă. După-amiaza, drumul duce spre tumul și capelă; îmbrăcămintea impermeabilă este esențială aici. Încheiați seara pe străzile vechi, strălucind sub reflexiile ploii.",
-            "en": "Begin your morning in the shelter of Château des Rohan, where thick walls protect you from the Breton rain. At noon, the basilica offers a dry sanctuary, while the canal exudes a mystic atmosphere in the drizzle. In the afternoon, the path leads to the tumulus and chapel; waterproof clothing is essential for these outdoor sections. End your evening in the historic, rain-glistening streets."
+            "en": "Begin your morning in the shelter of Château des Rohan, where thick walls protect you from the Breton rain. At noon, the basilica offers a dry sanctuary, while the canal exudes a mystic atmosphere in the drizzle. In the afternoon, the path leads to the tumulus and chapel; waterproof clothing is essential for these outdoor sections. End your evening in the historic, rain-glistening streets.",
+            "fr": "Commencez la matinée à l’abri du Château des Rohan, dont les murs épais vous protègent de la pluie bretonne. À midi, la basilique offre un sanctuaire sec, tandis que le canal dégage une atmosphère mystique sous la bruine. L’après‑midi, le chemin mène au tumulus et à la chapelle ; des vêtements imperméables sont essentiels pour ces sections en plein air. Terminez la soirée dans les rues historiques, brillantes de pluie."
           },
           "stops": [
             {
@@ -152,13 +164,15 @@
                 "de": "Château des Rohan",
                 "hu": "Rohan kastély",
                 "ro": "Castelul Rohan",
-                "en": "Château des Rohan"
+                "en": "Château des Rohan",
+                "fr": "Château des Rohan"
               },
               "tip_5lang": {
                 "de": "Besichtigen Sie die prächtigen Innenräume der Festung, um dem Regen zu entkommen, und achten Sie im gepflasterten Innenhof auf rutschige Stellen durch Nässe.",
                 "hu": "Fedezze fel az erőd pompás belső tereit, hogy elkerülje az esőt, és ügyeljen a köves belső udvar csúszós részeire a nedvesség miatt; viseljen stabil talpú cipőt.",
                 "ro": "Vizitați interioarele splendide ale cetății pentru a scăpa de ploaie și aveți grijă la zonele alunecoase din curtea pavată din cauza umezelii; purtați pantofi aderenți.",
-                "en": "Visit the splendid interiors of the fortress to escape the rain, and watch out for slippery spots in the paved courtyard due to moisture; wear shoes with good grip."
+                "en": "Visit the splendid interiors of the fortress to escape the rain, and watch out for slippery spots in the paved courtyard due to moisture; wear shoes with good grip.",
+                "fr": "Visitez les splendides intérieurs de la forteresse pour échapper à la pluie et faites attention aux zones glissantes dans la cour pavée à cause de l’humidité ; portez des chaussures à bonne adhérence."
               }
             },
             {
@@ -166,13 +180,15 @@
                 "de": "Nantes-Brest-Kanal",
                 "hu": "Nantes-Brest csatorna",
                 "ro": "Canalul Nantes-Brest",
-                "en": "Nantes-Brest Canal"
+                "en": "Nantes-Brest Canal",
+                "fr": "Nantes‑Brest Canal"
               },
               "tip_5lang": {
                 "de": "Genießen Sie den Spaziergang unter einem stabilen Regenschirm und nutzen Sie die befestigten Wege am Ufer, um tiefe Schlammpfützen auf den Wiesen zu vermeiden.",
                 "hu": "Élvezze a sétát egy stabil esernyő alatt, és használja a part menti szilárd burkolatú utakat, hogy elkerülje a füves területeken kialakuló mély sárfoltokat.",
                 "ro": "Bucurați-vă de plimbare sub o umbrelă solidă și folosiți potecile pavate de-a lungul malului pentru a evita porțiunile cu noroi adânc de pe zonele cu iarbă.",
-                "en": "Enjoy the walk under a sturdy umbrella and stick to the paved paths along the bank to avoid deep mud patches that form on the grassy areas during heavy rain."
+                "en": "Enjoy the walk under a sturdy umbrella and stick to the paved paths along the bank to avoid deep mud patches that form on the grassy areas during heavy rain.",
+                "fr": "Profitez de la promenade sous un parapluie solide et restez sur les chemins pavés le long de la berge pour éviter les zones de boue profonde qui se forment sur les pelouses par fortes pluies."
               }
             },
             {
@@ -180,13 +196,15 @@
                 "de": "Basilika Notre-Dame-de-Joie",
                 "hu": "Notre-Dame-de-Joie Bazilika",
                 "ro": "Bazilica Notre-Dame-de-Joie",
-                "en": "Basilica of Notre-Dame-de-Joie"
+                "en": "Basilica of Notre-Dame-de-Joie",
+                "fr": "Basilique Notre‑Dame‑de‑Joie"
               },
               "tip_5lang": {
                 "de": "Nutzen Sie diesen spirituellen Ort als perfektes Versteck vor einem Schauer und bewundern Sie die bunten Glasfenster, die auch bei grauem Himmel leuchten.",
                 "hu": "Használja ezt a spirituális helyet tökéletes rejtekhelyként a zápor elől, és csodálja meg a színes üvegablakokat, amelyek szürke égbolt mellett is ragyognak.",
                 "ro": "Folosiți acest loc spiritual ca ascunzătoare perfectă împotriva unei averse și admirați vitraliile colorate care strălucesc chiar și sub un cer cenușiu.",
-                "en": "Use this spiritual site as a perfect hideout from a downpour and admire the colorful stained-glass windows that glow even under a grey, overcast sky."
+                "en": "Use this spiritual site as a perfect hideout from a downpour and admire the colorful stained-glass windows that glow even under a grey, overcast sky.",
+                "fr": "Utilisez ce lieu spirituel comme refuge parfait lors d’un orage et admirez les vitraux colorés qui s’illuminent même sous un ciel gris et couvert."
               }
             },
             {
@@ -194,13 +212,15 @@
                 "de": "Tumulus de Nillizien",
                 "hu": "Nillizien halomsír",
                 "ro": "Tumulul Nillizien",
-                "en": "Tumulus de Nillizien"
+                "en": "Tumulus de Nillizien",
+                "fr": "Tumulus de Nillizien"
               },
               "tip_5lang": {
                 "de": "Betrachten Sie das Hügelgrab von der befestigten Straße aus, da der Boden rundherum sehr aufgeweicht sein kann; Gummistiefel sind bei diesem Wetter ideal.",
                 "hu": "A halomsírt a szilárd burkolatú útról tekintse meg, mivel a környező talaj nagyon felázhat; ilyen időben a gumicsizma vagy vízálló bakancs az ideális választás.",
                 "ro": "Priviți tumulul de pe drumul pavat, deoarece solul din jur poate fi foarte moale; cizmele de cauciuc sau ghetele impermeabile sunt ideale pe acest timp.",
-                "en": "View the tumulus from the paved road as the surrounding ground can be very soggy; rubber boots or waterproof hiking shoes are ideal for this weather."
+                "en": "View the tumulus from the paved road as the surrounding ground can be very soggy; rubber boots or waterproof hiking shoes are ideal for this weather.",
+                "fr": "Contemplez le tumulus depuis la route pavée car le sol environnant peut être très détrempé ; des bottes en caoutchouc ou des chaussures de randonnée imperméables sont idéales par ce temps."
               }
             },
             {
@@ -208,13 +228,15 @@
                 "de": "Sainte-Tréphine",
                 "hu": "Sainte-Tréphine",
                 "ro": "Sainte-Tréphine",
-                "en": "Sainte-Tréphine"
+                "en": "Sainte-Tréphine",
+                "fr": "Sainte‑Tréphine"
               },
               "tip_5lang": {
                 "de": "Schließen Sie die Tour in der Stille dieser Kapelle ab, die einen trockenen Rückzugsort bietet; achten Sie beim Verlassen auf den rutschigen Granitschwellen.",
                 "hu": "Zárja a túrát e kápolna csendjében, amely száraz menedéket nyújt; távozáskor ügyeljen a küszöb környéki gránitkövekre, mert azok rendkívül csúszósak lehetnek.",
                 "ro": "Încheiați turul în liniștea acestei capele care oferă un refugiu uscat; la plecare, aveți grijă la pragul de granit, deoarece poate fi extrem de alunecos.",
-                "en": "Finish the tour in the silence of this chapel which provides a dry sanctuary; when leaving, be careful on the granite steps as they can be extremely slippery."
+                "en": "Finish the tour in the silence of this chapel which provides a dry sanctuary; when leaving, be careful on the granite steps as they can be extremely slippery.",
+                "fr": "Terminez la visite dans le silence de cette chapelle qui offre un sanctuaire sec ; en partant, faites attention aux marches en granit qui peuvent être extrêmement glissantes."
               }
             }
           ]
@@ -224,7 +246,8 @@
             "de": "Erleben Sie Pontivy im winterlichen Glanz, wenn der Morgenfrost das Schloss in eine Märchenkulisse verwandelt. Mittags wärmen Sie sich in der Basilika auf, bevor Sie die frische Luft am Kanal genießen. Da die Sonne bereits gegen 17:00 Uhr untergeht, sollten Sie die Außenbesuche frühzeitig planen. Der Abend gehört der gemütlichen Altstadt mit ihren sanft beleuchteten Fassaden.",
             "hu": "Ismerje meg Pontivy téli arcát, amikor a reggeli dér tündérmesévé varázsolja a kastélyt. Délben melegedjen fel a bazilikában, mielőtt élvezné a csatorna menti friss levegőt. Mivel a nap már 17:00 körül lenyugszik, tervezze korábbra a szabadtéri látnivalókat. Az este a hangulatos óvárosé, ahol a lámpák lágyan világítják meg a homlokzatokat.",
             "ro": "Descoperiți fața de iarnă a orașului Pontivy, când chiciura de dimineață transformă castelul într-un decor de basm. La prânz, încălziți-vă în bazilică înainte de a vă bucura de aerul proaspăt de pe canal. Deoarece soarele apune deja în jur de ora 17:00, planificați vizitele în aer liber mai devreme. Seara aparține centrului vechi.",
-            "en": "Experience Pontivy in its winter glory when morning frost transforms the castle into a fairytale setting. At noon, warm up in the basilica before enjoying the crisp air along the canal. Since the sun sets around 17:00, plan your outdoor visits early. The evening belongs to the cozy old town, with lights softly illuminating the facades."
+            "en": "Experience Pontivy in its winter glory when morning frost transforms the castle into a fairytale setting. At noon, warm up in the basilica before enjoying the crisp air along the canal. Since the sun sets around 17:00, plan your outdoor visits early. The evening belongs to the cozy old town, with lights softly illuminating the facades.",
+            "fr": "Vivez Pontivy dans sa splendeur hivernale lorsque le givre matinal transforme le château en décor de conte. À midi, réchauffez‑vous dans la basilique avant de profiter de l’air vif le long du canal. Le soleil se couche vers 17:00, planifiez donc vos visites extérieures tôt. La soirée appartient à la vieille ville chaleureuse, avec des lumières qui éclairent doucement les façades."
           },
           "stops": [
             {
@@ -232,13 +255,15 @@
                 "de": "Château des Rohan",
                 "hu": "Rohan kastély",
                 "ro": "Castelul Rohan",
-                "en": "Château des Rohan"
+                "en": "Château des Rohan",
+                "fr": "Château des Rohan"
               },
               "tip_5lang": {
                 "de": "Bewundern Sie die Frostkristalle an den massiven Schlossmauern im frühen Sonnenlicht; drinnen erwartet Sie eine angenehme Kühle, die vor dem Wind schützt.",
                 "hu": "Csodálja meg a fagy kristályait a kastély masszív falain a korai napsütésben; odabent a szél elől védett, történelmi hangulat várja a látogatókat.",
                 "ro": "Admirați cristalele de gheață de pe zidurile masive ale castelului în lumina timpurie a soarelui; în interior vă așteaptă o atmosferă istorică, ferită de vânt.",
-                "en": "Admire the frost crystals on the massive castle walls in the early sunlight; inside, a historical atmosphere protected from the cold wind awaits visitors."
+                "en": "Admire the frost crystals on the massive castle walls in the early sunlight; inside, a historical atmosphere protected from the cold wind awaits visitors.",
+                "fr": "Admirez les cristaux de givre sur les murs massifs du château au soleil matinal ; à l’intérieur, une atmosphère historique vous attend, à l’abri du vent froid."
               }
             },
             {
@@ -246,13 +271,15 @@
                 "de": "Nantes-Brest-Kanal",
                 "hu": "Nantes-Brest csatorna",
                 "ro": "Canalul Nantes-Brest",
-                "en": "Nantes-Brest Canal"
+                "en": "Nantes-Brest Canal",
+                "fr": "Nantes‑Brest Canal"
               },
               "tip_5lang": {
                 "de": "Ein zügiger Spaziergang am Wasser hält warm; achten Sie auf glatte Stellen auf den Holzbrücken und genießen Sie die klare, kalte Winterluft der Bretagne.",
                 "hu": "A víz menti tempós séta segít melegen maradni; ügyeljen a fahidacskák jegesedésére, és élvezze Bretagne tiszta, hideg téli levegőjét a parton.",
                 "ro": "O plimbare vioaie pe malul apei vă va ține de cald; atenție la gheața de pe podurile mici de lemn și bucurați-vă de aerul curat și rece de iarnă al Bretaniei.",
-                "en": "A brisk walk along the water will keep you warm; watch out for ice on the small wooden bridges and enjoy Brittany's clear, cold winter air by the bank."
+                "en": "A brisk walk along the water will keep you warm; watch out for ice on the small wooden bridges and enjoy Brittany's clear, cold winter air by the bank.",
+                "fr": "Une marche vive le long de l’eau vous tiendra chaud ; méfiez‑vous de la glace sur les petits ponts en bois et profitez de l’air clair et froid de l’hiver breton sur la berge."
               }
             },
             {
@@ -260,13 +287,15 @@
                 "de": "Basilika Notre-Dame-de-Joie",
                 "hu": "Notre-Dame-de-Joie Bazilika",
                 "ro": "Bazilica Notre-Dame-de-Joie",
-                "en": "Basilica of Notre-Dame-de-Joie"
+                "en": "Basilica of Notre-Dame-de-Joie",
+                "fr": "Basilique Notre‑Dame‑de‑Joie"
               },
               "tip_5lang": {
                 "de": "Genießen Sie die friedliche Stille und die relative Wärme des Kirchenschiffs, während das schräge Winterlicht die Architektur in sanfte Farben taucht.",
                 "hu": "Élvezze a békés csendet és a templomhajó viszonylagos melegét, miközben a ferdén beeső téli fény lágy színekbe öltözteti a belső építészetet.",
                 "ro": "Bucurați-vă de liniștea pașnică și de căldura relativă a navei bisericii, în timp ce lumina oblică de iarnă scaldă arhitectura în culori blânde.",
-                "en": "Enjoy the peaceful silence and relative warmth of the nave while the slanting winter light bathes the interior architecture in soft, golden colors."
+                "en": "Enjoy the peaceful silence and relative warmth of the nave while the slanting winter light bathes the interior architecture in soft, golden colors.",
+                "fr": "Savourez le silence paisible et la chaleur relative de la nef pendant que la lumière d’hiver oblique baigne l’architecture intérieure de tons dorés et doux."
               }
             },
             {
@@ -274,13 +303,15 @@
                 "de": "Tumulus de Nillizien",
                 "hu": "Nillizien halomsír",
                 "ro": "Tumulul Nillizien",
-                "en": "Tumulus de Nillizien"
+                "en": "Tumulus de Nillizien",
+                "fr": "Tumulus de Nillizien"
               },
               "tip_5lang": {
                 "de": "Besuchen Sie diesen Ort vor 16:30 Uhr, um das Hügelgrab in der blauen Stunde zu sehen; die karge Winterlandschaft unterstreicht die archaische Kraft des Ortes.",
                 "hu": "Látogasson el ide 16:30 előtt, hogy a kék órában láthassa a halomsírt; a kopár téli táj még inkább kiemeli a hely ősi, archaikus erejét.",
                 "ro": "Vizitați acest loc înainte de ora 16:30 pentru a vedea tumulul în ora albastră; peisajul golaș de iarnă subliniază puterea arhaică a locului.",
-                "en": "Visit this site before 16:30 to see the tumulus during the blue hour; the stark winter landscape further emphasizes the archaic power of the location."
+                "en": "Visit this site before 16:30 to see the tumulus during the blue hour; the stark winter landscape further emphasizes the archaic power of the location.",
+                "fr": "Visitez ce site avant 16:30 pour voir le tumulus pendant l’heure bleue ; le paysage hivernal austère renforce l’aspect archaïque du lieu."
               }
             },
             {
@@ -288,13 +319,15 @@
                 "de": "Sainte-Tréphine",
                 "hu": "Sainte-Tréphine",
                 "ro": "Sainte-Tréphine",
-                "en": "Sainte-Tréphine"
+                "en": "Sainte-Tréphine",
+                "fr": "Sainte‑Tréphine"
               },
               "tip_5lang": {
                 "de": "Die Kapelle wirkt im fahlen Winterlicht besonders geheimnisvoll; ziehen Sie sich warm an, da die Steinmauern im Inneren die Kälte der Nacht speichern.",
                 "hu": "A kápolna a sápadt téli fényben különösen titokzatosnak tűnik; öltözzön rétegesen, mert a kőfalak belül erősen tartják az éjszakai hideget.",
                 "ro": "Capela pare deosebit de misterioasă în lumina palidă de iarnă; îmbrăcați-vă bine, deoarece zidurile de piatră rețin frigul nopții la interior.",
-                "en": "The chapel looks particularly mysterious in the pale winter light; dress warmly in layers as the stone walls hold the night's cold inside."
+                "en": "The chapel looks particularly mysterious in the pale winter light; dress warmly in layers as the stone walls hold the night's cold inside.",
+                "fr": "La chapelle paraît particulièrement mystérieuse à la pâle lumière hivernale ; habillez‑vous chaudement en couches car les murs de pierre conservent le froid nocturne."
               }
             }
           ]
@@ -314,7 +347,8 @@
             "de": "Basilika Notre-Dame-de-Joie",
             "hu": "Notre-Dame-de-Joie Bazilika",
             "ro": "Bazilica Notre-Dame-de-Joie",
-            "en": "Basilica of Notre-Dame-de-Joie"
+            "en": "Basilica of Notre-Dame-de-Joie",
+            "fr": "Basilique Notre‑Dame‑de‑Joie"
           },
           "coords": [
             -2.966211,
@@ -329,7 +363,8 @@
             "de": "Bewundern Sie den markanten Kontrast zwischen der neugotischen Architektur und dem älteren historischen Zentrum, und achten Sie dabei besonders auf die Buntglasfenster.",
             "hu": "Csodálja meg a neogótikus építészet és a régebbi történelmi központ közötti feltűnő kontrasztot, és feltétlenül pillantson fel a bonyolult ólomüveg ablakokra.",
             "ro": "Admirați contrastul izbitor dintre arhitectura neogotică și centrul istoric mai vechi, având grijă să priviți vitraliile complicate.",
-            "en": "Admire the striking contrast between the Neo-Gothic architecture and the older historic center, making sure to look up at the intricate stained glass windows."
+            "en": "Admire the striking contrast between the Neo-Gothic architecture and the older historic center, making sure to look up at the intricate stained glass windows.",
+            "fr": "Admirez le contraste saisissant entre l’architecture néo‑gothique et le vieux centre historique, en prenant soin de lever les yeux vers les vitraux finement travaillés."
           }
         },
         {
@@ -337,7 +372,8 @@
             "de": "Château des Rohan",
             "hu": "Rohan kastély",
             "ro": "Castelul Rohan",
-            "en": "Château des Rohan"
+            "en": "Château des Rohan",
+            "fr": "Château des Rohan"
           },
           "coords": [
             -2.963318,
@@ -352,7 +388,8 @@
             "de": "Erkunden Sie die imposante Festung der Familie Rohan aus dem 15. Jahrhundert mit ihren massiven Zwillingstürmen und spazieren Sie am Wassergraben entlang, um die besten Fotos zu machen.",
             "hu": "Fedezze fel a Rohan család lenyűgöző, 15. századi erődítményét a hatalmas ikertornyokkal, és sétáljon végig a várárok mentén a legjobb fotókért.",
             "ro": "Explorați impunătoarea fortăreață din secolul al XV-lea a familiei Rohan cu turnurile sale gemene masive, plimbându-vă de-a lungul șanțului pentru a face cele mai bune fotografii.",
-            "en": "Explore the imposing 15th-century stronghold of the Rohan family with its massive twin towers, taking time to walk the moat path for the best photos."
+            "en": "Explore the imposing 15th-century stronghold of the Rohan family with its massive twin towers, taking time to walk the moat path for the best photos.",
+            "fr": "Explorez l’impressionnante forteresse du XVe siècle de la famille de Rohan avec ses massives tours jumelles, et prenez le temps d’emprunter le chemin le long du fossé pour les meilleures photos."
           }
         },
         {
@@ -360,7 +397,8 @@
             "de": "Nantes-Brest-Kanal",
             "hu": "Nantes-Brest csatorna",
             "ro": "Canalul Nantes-Brest",
-            "en": "Nantes-Brest Canal"
+            "en": "Nantes-Brest Canal",
+            "fr": "Nantes‑Brest Canal"
           },
           "coords": [
             -2.966414,
@@ -375,7 +413,8 @@
             "de": "Genießen Sie einen ruhigen Spaziergang entlang der historischen Treidelpfade dieses technischen Meisterwerks, wo Sie ganz einfach ein kleines Boot mieten können.",
             "hu": "Élvezze a békés sétát e mérnöki csoda történelmi vontatóútjain, ahol könnyedén bérelhet egy kis csónakot, vagy egyszerűen csak nézheti a zsilipek működését.",
             "ro": "Bucurați-vă de o plimbare liniștită de-a lungul traseelor istorice ale acestei minuni inginerești, de unde puteți închiria cu ușurință o barcă mică.",
-            "en": "Enjoy a peaceful stroll along the historical towpaths of this engineering marvel, where you can easily rent a small boat or simply watch the locks in action."
+            "en": "Enjoy a peaceful stroll along the historical towpaths of this engineering marvel, where you can easily rent a small boat or simply watch the locks in action.",
+            "fr": "Profitez d’une promenade paisible le long des chemins de halage de cet ouvrage d’ingénierie, où l’on peut facilement louer un petit bateau ou simplement observer le fonctionnement des écluses."
           }
         },
         {
@@ -383,7 +422,8 @@
             "de": "Espace Michel Masson",
             "hu": "Espace Michel Masson",
             "ro": "Espace Michel Masson",
-            "en": "Espace Michel Masson"
+            "en": "Espace Michel Masson",
+            "fr": "Espace Michel Masson"
           },
           "coords": [
             -2.977597,
@@ -398,7 +438,8 @@
             "de": "Machen Sie eine erholsame Pause in diesem familienfreundlichen Erholungsgebiet, das hervorragende Picknickplätze und Freiflächen für Kinder bietet.",
             "hu": "Tartson egy pihentető szünetet ezen a családbarát rekreációs területen, amely kiváló piknikezőhelyeket és tágas tereket kínál a gyermekek számára.",
             "ro": "Luați o pauză relaxantă în această zonă de recreere pentru familii, care oferă locuri excelente pentru picnic și spații deschise pentru copii.",
-            "en": "Take a relaxing break at this family-friendly recreational area, which offers excellent picnic spots and open spaces for children to run around safely."
+            "en": "Take a relaxing break at this family-friendly recreational area, which offers excellent picnic spots and open spaces for children to run around safely.",
+            "fr": "Faites une pause relaxante dans cet espace de loisirs familial, qui offre d’excellents emplacements pour pique‑niquer et des espaces ouverts où les enfants peuvent courir en toute sécurité."
           }
         },
         {
@@ -406,7 +447,8 @@
             "de": "Manoir du Gros Chêne",
             "hu": "Gros Chêne udvarház",
             "ro": "Conacul Gros Chêne",
-            "en": "Manoir du Gros Chêne"
+            "en": "Manoir du Gros Chêne",
+            "fr": "Manoir du Gros Chêne"
           },
           "coords": [
             -2.980135,
@@ -421,7 +463,8 @@
             "de": "Machen Sie in diesem traditionellen bretonischen Herrenhaus eine Reise in die Vergangenheit und erkunden Sie den umliegenden landwirtschaftlichen Campus.",
             "hu": "Lépjen vissza az időben ebben a hagyományos breton udvarházban, és feltétlenül fedezze fel a környező mezőgazdasági kampuszt is.",
             "ro": "Întoarceți-vă în timp la acest conac tradițional breton, unde ar trebui să explorați campusul agricol din jur pentru a vedea agricultura modernă alături de patrimoniu.",
-            "en": "Step back in time at this traditional Breton manor house, where you should explore the surrounding agricultural campus to see modern farming alongside heritage."
+            "en": "Step back in time at this traditional Breton manor house, where you should explore the surrounding agricultural campus to see modern farming alongside heritage.",
+            "fr": "Faites un bond dans le passé à ce manoir breton traditionnel, où vous devriez explorer le campus agricole environnant pour voir l’agriculture moderne à côté du patrimoine."
           }
         },
         {
@@ -429,7 +472,8 @@
             "de": "Fontaine Saint-Mériadec",
             "hu": "Saint-Mériadec forrás",
             "ro": "Fântâna Saint-Mériadec",
-            "en": "Fontaine Saint-Mériadec"
+            "en": "Fontaine Saint-Mériadec",
+            "fr": "Fontaine Saint‑Mériadec"
           },
           "coords": [
             -2.992682,
@@ -444,7 +488,8 @@
             "de": "Erleben Sie die Ruhe dieser heiligen Quelle, die für ihre heilenden Eigenschaften bekannt ist, und waschen Sie sich nach lokaler Tradition kurz die Hände.",
             "hu": "Tapasztalja meg a gyógyító erejéről híres szent forrás nyugalmát, és szánjon egy pillanatot arra, hogy a helyi hagyományoknak megfelelően megmossa a kezét.",
             "ro": "Experimentați liniștea acestui izvor sacru renumit pentru proprietățile sale curative și luați-vă un moment pentru a vă spăla pe mâini conform tradiției.",
-            "en": "Experience the tranquility of this sacred spring reputed for its healing properties, and take a moment to wash your hands as local tradition suggests."
+            "en": "Experience the tranquility of this sacred spring reputed for its healing properties, and take a moment to wash your hands as local tradition suggests.",
+            "fr": "Ressentez la tranquillité de cette source sacrée réputée pour ses propriétés curatives, et prenez un moment pour vous laver les mains comme le suggère la tradition locale."
           }
         },
         {
@@ -452,7 +497,8 @@
             "de": "Église Saint-Mériadec-de-Stival",
             "hu": "Saint-Mériadec-de-Stival templom",
             "ro": "Biserica Saint-Mériadec-de-Stival",
-            "en": "Église Saint-Mériadec-de-Stival"
+            "en": "Église Saint-Mériadec-de-Stival",
+            "fr": "Église Saint‑Mériadec‑de‑Stival"
           },
           "coords": [
             -2.99326,
@@ -467,7 +513,8 @@
             "de": "Bewundern Sie die wunderschönen Innenfresken dieser historischen Kirche und stellen Sie sicher, dass Sie vor dem späten Nachmittag ankommen.",
             "hu": "Csodálja meg e történelmi templom gyönyörű belső freskóit, ügyelve arra, hogy még késő délután előtt érkezzen, amikor az épületet általában bezárják.",
             "ro": "Minunați-vă de frumoasele fresce interioare ale acestei biserici istorice, asigurându-vă că ajungeți înainte de sfârșitul după-amiezii.",
-            "en": "Marvel at the beautiful interior frescoes of this historic church, ensuring you arrive before late afternoon when the building is usually locked for the day."
+            "en": "Marvel at the beautiful interior frescoes of this historic church, ensuring you arrive before late afternoon when the building is usually locked for the day.",
+            "fr": "Admirez les belles fresques intérieures de cette église historique, en veillant à arriver avant la fin d’après‑midi car le bâtiment est généralement fermé le soir."
           }
         }
       ],
@@ -475,7 +522,8 @@
         "de": "Starten Sie an der Basilika, bevor Sie zum Château des Rohan und entlang der malerischen Treidelpfade des Kanals radeln. Die Mittagszeit bietet eine Pause im Espace Michel Masson. Am Nachmittag radeln Sie zum Manoir du Gros Chêne und zur friedlichen Fontaine Saint-Mériadec. Der Tag endet mit einer angenehmen Fahrt zur historischen Église Saint-Mériadec.",
         "hu": "Kezdje a kerékpározást a lenyűgöző bazilikánál, majd tekerjen a Château des Rohanhoz és a csatorna festői vontatóútjaihoz. A dél egy megérdemelt pihenőt kínál az Espace Michel Massonnál. Délután fedezze fel a Manoir du Gros Chêne-t és a Fontaine Saint-Mériadec-et. A nap egy kellemes esti tekeréssel zárul a történelmi Église Saint-Mériadec-hez.",
         "ro": "Începeți plimbarea la superba Bazilică înainte de a pedala spre Château des Rohan și de-a lungul canalului pitoresc. Prânzul vă oferă o pauză binemeritată la Espace Michel Masson. După-amiaza, mergeți cu bicicleta pentru a explora Manoir du Gros Chêne și liniștita Fontaine Saint-Mériadec. Ziua se încheie cu o plimbare plăcută către biserica istorică Saint-Mériadec.",
-        "en": "Start your ride at the stunning Basilica before pedaling to the monumental Château des Rohan and along the scenic towpaths of the canal. Midday offers a well-deserved break at Espace Michel Masson. In the afternoon, cycle out to explore the Manoir du Gros Chêne and the peaceful Fontaine Saint-Mériadec. The day wraps up with a pleasant twilight ride to the historic Église Saint-Mériadec."
+        "en": "Start your ride at the stunning Basilica before pedaling to the monumental Château des Rohan and along the scenic towpaths of the canal. Midday offers a well-deserved break at Espace Michel Masson. In the afternoon, cycle out to explore the Manoir du Gros Chêne and the peaceful Fontaine Saint-Mériadec. The day wraps up with a pleasant twilight ride to the historic Église Saint-Mériadec.",
+        "fr": "Commencez votre circuit à vélo à la superbe basilique avant de pédaler jusqu’au monumental Château des Rohan et le long des pittoresques chemins de halage du canal. À midi, accordez‑vous une pause bien méritée à l’Espace Michel Masson. L’après‑midi, partez à vélo pour explorer le Manoir du Gros Chêne et la paisible Fontaine Saint‑Mériadec. La journée se termine par une agréable balade crépusculaire vers l’historique Église Saint‑Mériadec."
       },
       "variants": {
         "rainy": {
@@ -483,7 +531,8 @@
             "de": "Eine Radtour im Regen erfordert Vorsicht, besonders auf den Kopfsteinpflastergassen und am Kanalufer. Starten Sie morgens bei der Basilika und dem Schloss, um häufige trockene Pausen einzulegen. Mittags am Kanal sollten Sie auf rutschiges Laub achten. Der Nachmittag führt durch Parks und zu historischen Manoirs; wasserdichte Packtaschen sind ein Muss für Ihre Ausrüstung.",
             "hu": "Az esős bringázás óvatosságot igényel, különösen a macskaköves utcákon és a csatornaparton. Kezdje reggel a bazilikánál és a kastélynál, hogy gyakran tarthasson száraz szünetet. Délben a csatornánál ügyeljen a csúszós levelekre. A délután parkokon és udvarházakon át vezet; a vízálló táska elengedhetetlen a felszereléshez.",
             "ro": "O tură cu bicicleta pe ploaie necesită prudență, mai ales pe străzile pavate și pe malul canalului. Începeți dimineața la bazilică și castel pentru pauze dese la uscat. La prânz, atenție la frunzele alunecoase de pe canal. După-amiaza trece prin parcuri și conace; gențile impermeabile sunt obligatorii pentru echipament.",
-            "en": "Cycling in the rain requires caution, especially on cobbled streets and along the canal bank. Start in the morning at the basilica and castle for frequent dry breaks. At noon by the canal, watch out for slippery wet leaves. The afternoon leads through parks and manors; waterproof panniers are a must for your gear."
+            "en": "Cycling in the rain requires caution, especially on cobbled streets and along the canal bank. Start in the morning at the basilica and castle for frequent dry breaks. At noon by the canal, watch out for slippery wet leaves. The afternoon leads through parks and manors; waterproof panniers are a must for your gear.",
+            "fr": "Le cyclisme sous la pluie demande de la prudence, surtout sur les pavés et le long de la berge du canal. Commencez le matin à la basilique et au château pour des pauses fréquentes à l’abri. À midi, près du canal, attention aux feuilles mouillées glissantes. L’après‑midi traverse parcs et manoirs ; des sacoches imperméables sont indispensables pour votre équipement."
           },
           "stops": [
             {
@@ -491,13 +540,15 @@
                 "de": "Basilika Notre-Dame-de-Joie",
                 "hu": "Notre-Dame-de-Joie Bazilika",
                 "ro": "Bazilica Notre-Dame-de-Joie",
-                "en": "Basilica of Notre-Dame-de-Joie"
+                "en": "Basilica of Notre-Dame-de-Joie",
+                "fr": "Basilique Notre‑Dame‑de‑Joie"
               },
               "tip_5lang": {
                 "de": "Nutzen Sie den überdachten Eingangsbereich, um Ihre Ausrüstung kurz zu ordnen, und genießen Sie die Stille im Inneren, während draußen der Regen prasselt.",
                 "hu": "Használja a fedett bejáratot a felszerelése gyors elrendezéséhez, és élvezze a benti csendet, miközben odakint kopog az eső a háztetőkön.",
                 "ro": "Folosiți intrarea acoperită pentru a vă organiza rapid echipamentul și bucurați-vă de liniștea din interior în timp ce ploaia bate afară pe acoperișuri.",
-                "en": "Use the covered entrance area to quickly organize your gear and enjoy the indoor silence while the rain patters on the roofs outside."
+                "en": "Use the covered entrance area to quickly organize your gear and enjoy the indoor silence while the rain patters on the roofs outside.",
+                "fr": "Utilisez le porche couvert pour organiser rapidement votre équipement et profitez du silence intérieur pendant que la pluie tambourine sur les toitures."
               }
             },
             {
@@ -505,13 +556,15 @@
                 "de": "Château des Rohan",
                 "hu": "Rohan kastély",
                 "ro": "Castelul Rohan",
-                "en": "Château des Rohan"
+                "en": "Château des Rohan",
+                "fr": "Château des Rohan"
               },
               "tip_5lang": {
                 "de": "Parken Sie Ihr Rad an einem geschützten Ort und nehmen Sie sich Zeit für die Innenräume, um dem stärksten Regen des Vormittags sicher zu entgehen.",
                 "hu": "Parkolja le kerékpárját egy védett helyen, és szánjon időt a belső terekre, hogy biztonságban elkerülje a délelőtti leghevesebb esőzést.",
                 "ro": "Parcați bicicleta într-un loc protejat și acordați-vă timp pentru interioare, pentru a evita în siguranță cele mai abundente ploi ale dimineții.",
-                "en": "Park your bike in a sheltered spot and take your time for the interiors to safely avoid the heaviest rainfall of the morning hours."
+                "en": "Park your bike in a sheltered spot and take your time for the interiors to safely avoid the heaviest rainfall of the morning hours.",
+                "fr": "Garez votre vélo à l’abri et prenez le temps de visiter les intérieurs pour éviter en toute sécurité les pluies les plus fortes du matin."
               }
             },
             {
@@ -519,13 +572,15 @@
                 "de": "Nantes-Brest-Kanal",
                 "hu": "Nantes-Brest csatorna",
                 "ro": "Canalul Nantes-Brest",
-                "en": "Nantes-Brest Canal"
+                "en": "Nantes-Brest Canal",
+                "fr": "Nantes‑Brest Canal"
               },
               "tip_5lang": {
                 "de": "Fahren Sie am Kanalufer besonders vorsichtig, da der Boden schlammig und rutschig sein kann; reduzieren Sie Ihr Tempo bei Kurven auf dem nassen Pfad.",
                 "hu": "Közlekedjen a csatornaparton különös óvatossággal, mert a talaj sáros és csúszós lehet; csökkentse a sebességet a nedves ösvény kanyarulataiban.",
                 "ro": "Circulați pe malul canalului cu prudență sporită, deoarece solul poate fi noroios și alunecos; reduceți viteza în curbele de pe poteca umedă.",
-                "en": "Ride along the canal bank with extra caution as the ground can be muddy and slippery; reduce your speed on the curves of the wet path."
+                "en": "Ride along the canal bank with extra caution as the ground can be muddy and slippery; reduce your speed on the curves of the wet path.",
+                "fr": "Roulez le long de la berge du canal avec une prudence accrue car le sol peut être boueux et glissant ; réduisez votre vitesse dans les courbes du chemin mouillé."
               }
             },
             {
@@ -533,13 +588,15 @@
                 "de": "Espace Michel Masson",
                 "hu": "Espace Michel Masson",
                 "ro": "Espace Michel Masson",
-                "en": "Espace Michel Masson"
+                "en": "Espace Michel Masson",
+                "fr": "Espace Michel Masson"
               },
               "tip_5lang": {
                 "de": "Suchen Sie unter den Bäumen oder Pavillons Schutz, falls der Regen zunimmt, und nutzen Sie die befestigten Flächen für eine sichere Weiterfahrt.",
                 "hu": "Keressen menedéket a fák vagy pavilonok alatt, ha erősödik az eső, és használja a szilárd burkolatú felületeket a biztonságos továbbhaladáshoz.",
                 "ro": "Căutați adăpost sub copaci sau pavilioane dacă ploaia se intensifică și folosiți suprafețele pavate pentru a continua drumul în siguranță.",
-                "en": "Seek shelter under trees or pavilions if the rain intensifies and use the paved surfaces for a safer continuation of your journey."
+                "en": "Seek shelter under trees or pavilions if the rain intensifies and use the paved surfaces for a safer continuation of your journey.",
+                "fr": "Recherchez un abri sous les arbres ou les pavillons si la pluie s’intensifie et utilisez les surfaces pavées pour poursuivre votre trajet en toute sécurité."
               }
             },
             {
@@ -547,13 +604,15 @@
                 "de": "Manoir du Gros Chêne",
                 "hu": "Gros Chêne udvarház",
                 "ro": "Conacul Gros Chêne",
-                "en": "Manoir du Gros Chêne"
+                "en": "Manoir du Gros Chêne",
+                "fr": "Manoir du Gros Chêne"
               },
               "tip_5lang": {
                 "de": "Betrachten Sie die Architektur des Herrenhauses vom Weg aus und meiden Sie die nassen Wiesenflächen, um nicht mit dem Rad im Schlamm stecken zu bleiben.",
                 "hu": "Az udvarház építészetét az útról csodálja meg, és kerülje a nedves füves területeket, hogy ne akadjon el a kerékpárral a mély sárban.",
                 "ro": "Admirați arhitectura conacului de pe drum și evitați zonele cu iarbă umedă pentru a nu rămâne blocat cu bicicleta în noroiul adânc.",
-                "en": "Admire the manor's architecture from the road and avoid wet grassy areas to prevent getting your bike stuck in deep, slippery mud."
+                "en": "Admire the manor's architecture from the road and avoid wet grassy areas to prevent getting your bike stuck in deep, slippery mud.",
+                "fr": "Admirez l’architecture du manoir depuis la route et évitez les zones herbeuses mouillées pour ne pas coincer votre vélo dans une boue profonde et glissante."
               }
             },
             {
@@ -561,13 +620,15 @@
                 "de": "Fontaine Saint-Mériadec",
                 "hu": "Saint-Mériadec forrás",
                 "ro": "Fântâna Saint-Mériadec",
-                "en": "Fontaine Saint-Mériadec"
+                "en": "Fontaine Saint-Mériadec",
+                "fr": "Fontaine Saint‑Mériadec"
               },
               "tip_5lang": {
                 "de": "Die feuchten Steine rund um den Brunnen sind sehr rutschig; steigen Sie vom Rad ab und gehen Sie die letzten Meter zu Fuß, um Stürze zu vermeiden.",
                 "hu": "A forrás körüli nedves kövek nagyon csúszósak; szálljon le a bicikliről, és gyalog tegye meg az utolsó métereket az esések elkerülése érdekében.",
                 "ro": "Pietrele umede din jurul fântânii sunt foarte alunecoase; coborâți de pe bicicletă și parcurgeți ultimii metri pe jos pentru a evita căzăturile.",
-                "en": "The damp stones around the fountain are very slippery; dismount your bike and walk the last few meters to avoid any dangerous falls."
+                "en": "The damp stones around the fountain are very slippery; dismount your bike and walk the last few meters to avoid any dangerous falls.",
+                "fr": "Les pierres humides autour de la fontaine sont très glissantes ; descendez de votre vélo et marchez les derniers mètres pour éviter toute chute dangereuse."
               }
             },
             {
@@ -575,13 +636,15 @@
                 "de": "Église Saint-Mériadec-de-Stival",
                 "hu": "Saint-Mériadec-de-Stival templom",
                 "ro": "Biserica Saint-Mériadec-de-Stival",
-                "en": "Église Saint-Mériadec-de-Stival"
+                "en": "Église Saint-Mériadec-de-Stival",
+                "fr": "Église Saint‑Mériadec‑de‑Stival"
               },
               "tip_5lang": {
                 "de": "Beenden Sie Ihre Tour in dieser trockenen Kirche; wischen Sie Ihre Bremsen kurz trocken, bevor Sie die letzte Etappe zurück in die Stadt antreten.",
                 "hu": "Zárja a túrát ebben a száraz templomban; törölje szárazra a fékeket, mielőtt megkezdené az utolsó szakaszt vissza a városközpontba.",
                 "ro": "Încheiați tura în această biserică uscată; ștergeți frânele înainte de a începe ultima etapă de întoarcere spre centrul orașului.",
-                "en": "Finish your bike tour in this dry church; wipe your brakes dry before starting the last segment of your ride back to the town center."
+                "en": "Finish your bike tour in this dry church; wipe your brakes dry before starting the last segment of your ride back to the town center.",
+                "fr": "Terminez votre circuit à vélo dans cette église sèche ; essuyez vos freins avant d’entamer le dernier tronçon du retour vers le centre‑ville."
               }
             }
           ]
@@ -591,7 +654,8 @@
             "de": "Der Winterwind kann auf dem Fahrrad schneidend kalt sein, besonders am offenen Kanal. Starten Sie morgens bei der Basilika und kleiden Sie sich nach dem Zwiebelprinzip. Die tiefstehende Sonne bietet wunderbare Fotomotive am Schloss. Beachten Sie das frühe Ende des Tageslichts gegen 17:00 Uhr und planen Sie Ihre Rückkehr so, dass Sie nicht in der winterlichen Dunkelheit radeln müssen.",
             "hu": "A téli szél metszően hideg lehet a biciklin, különösen a nyitott csatornaparton. Kezdje a reggelt a bazilikánál, és öltözzön rétegesen. Az alacsonyan járó nap csodás fotótémákat kínál a kastélynál. Ügyeljen a nappali fény korai, 17:00 körüli végére, és úgy tervezze a visszautat, hogy ne a téli sötétben kelljen tekernie.",
             "ro": "Vântul de iarnă poate fi tăios pe bicicletă, mai ales pe malul deschis al canalului. Începeți dimineața la bazilică și îmbrăcați-vă în straturi. Soarele jos oferă cadre foto superbe la castel. Atenție la lumina zilei care se termină devreme, în jur de ora 17:00, și planificați întoarcerea pentru a nu pedala pe întuneric.",
-            "en": "The winter wind can be piercingly cold on a bike, especially along the open canal bank. Start at the basilica and dress in warm layers. The low sun offers wonderful photo opportunities at the castle. Note the early end of daylight around 17:00 and plan your return to avoid cycling in the winter darkness."
+            "en": "The winter wind can be piercingly cold on a bike, especially along the open canal bank. Start at the basilica and dress in warm layers. The low sun offers wonderful photo opportunities at the castle. Note the early end of daylight around 17:00 and plan your return to avoid cycling in the winter darkness.",
+            "fr": "Le vent hivernal peut être perçant à vélo, surtout le long de la berge ouverte du canal. Commencez à la basilique et habillez‑vous en couches chaudes. La faible hauteur du soleil offre de belles opportunités photo au château. Notez la fin précoce du jour vers 17:00 et planifiez votre retour pour éviter de rouler dans l’obscurité hivernale."
           },
           "stops": [
             {
@@ -599,13 +663,15 @@
                 "de": "Basilika Notre-Dame-de-Joie",
                 "hu": "Notre-Dame-de-Joie Bazilika",
                 "ro": "Bazilica Notre-Dame-de-Joie",
-                "en": "Basilica of Notre-Dame-de-Joie"
+                "en": "Basilica of Notre-Dame-de-Joie",
+                "fr": "Basilique Notre‑Dame‑de‑Joie"
               },
               "tip_5lang": {
                 "de": "Wärmen Sie sich im Inneren kurz auf, bevor Sie die Fahrt fortsetzen; die dicken Steinmauern bieten einen guten Schutz vor dem kalten Morgenwind.",
                 "hu": "Melegedjen fel egy kicsit odabent, mielőtt folytatná az utat; a vastag kőfalak kiváló védelmet nyújtanak a metsző hideg reggeli szél ellen.",
                 "ro": "Încălziți-vă puțin în interior înainte de a continua drumul; zidurile groase de piatră oferă o protecție excelentă împotriva vântului rece de dimineață.",
-                "en": "Warm up for a bit inside before continuing your ride; the thick stone walls provide excellent protection against the biting cold morning wind."
+                "en": "Warm up for a bit inside before continuing your ride; the thick stone walls provide excellent protection against the biting cold morning wind.",
+                "fr": "Réchauffez‑vous un peu à l’intérieur avant de reprendre la route ; les murs épais en pierre offrent une excellente protection contre le vent froid du matin."
               }
             },
             {
@@ -613,13 +679,15 @@
                 "de": "Château des Rohan",
                 "hu": "Rohan kastély",
                 "ro": "Castelul Rohan",
-                "en": "Château des Rohan"
+                "en": "Château des Rohan",
+                "fr": "Château des Rohan"
               },
               "tip_5lang": {
                 "de": "Nutzen Sie das klare Winterlicht für Fotos der Fassade und verbringen Sie Zeit im Inneren, um Ihre Hände in den geheizten Ausstellungsräumen zu wärmen.",
                 "hu": "Használja ki a tiszta téli fényt a homlokzat fotózásához, és töltsön időt odabent, hogy felmelegítse kezeit a fűtött kiállítóterekben.",
                 "ro": "Profitați de lumina clară de iarnă pentru a fotografia fațada și petreceți timp în interior pentru a vă încălzi mâinile în spațiile expoziționale.",
-                "en": "Take advantage of the clear winter light to photograph the facade and spend time inside to warm your hands in the heated exhibition spaces."
+                "en": "Take advantage of the clear winter light to photograph the facade and spend time inside to warm your hands in the heated exhibition spaces.",
+                "fr": "Profitez de la lumière hivernale claire pour photographier la façade et passez du temps à l’intérieur pour réchauffer vos mains dans les espaces d’exposition chauffés."
               }
             },
             {
@@ -627,13 +695,15 @@
                 "de": "Nantes-Brest-Kanal",
                 "hu": "Nantes-Brest csatorna",
                 "ro": "Canalul Nantes-Brest",
-                "en": "Nantes-Brest Canal"
+                "en": "Nantes-Brest Canal",
+                "fr": "Nantes‑Brest Canal"
               },
               "tip_5lang": {
                 "de": "Tragen Sie winddichte Handschuhe, da der Fahrtwind am Wasser besonders kalt ist; genießen Sie die Ruhe am Kanal, der im Winter fast menschenleer ist.",
                 "hu": "Viseljen szélálló kesztyűt, mert a menetszél a víz mellett különösen hideg; élvezze a csatorna nyugalmát, amely télen szinte teljesen néptelen.",
                 "ro": "Purtați mănuși rezistente la vânt, deoarece curentul de aer pe malul apei este foarte rece; bucurați-vă de liniștea canalului, aproape pustiu iarna.",
-                "en": "Wear windproof gloves as the breeze along the water is especially cold; enjoy the tranquility of the canal, which is almost deserted in winter."
+                "en": "Wear windproof gloves as the breeze along the water is especially cold; enjoy the tranquility of the canal, which is almost deserted in winter.",
+                "fr": "Portez des gants coupe‑vent car la brise le long de l’eau est particulièrement froide ; appréciez la tranquillité du canal, presque désert en hiver."
               }
             },
             {
@@ -641,13 +711,15 @@
                 "de": "Espace Michel Masson",
                 "hu": "Espace Michel Masson",
                 "ro": "Espace Michel Masson",
-                "en": "Espace Michel Masson"
+                "en": "Espace Michel Masson",
+                "fr": "Espace Michel Masson"
               },
               "tip_5lang": {
                 "de": "Dieser Stopp eignet sich für eine kurze Trinkpause; achten Sie darauf, nicht zu lange stillzustehen, damit Ihr Körper bei der Kälte nicht auskühlt.",
                 "hu": "Ez a megálló alkalmas egy rövid frissítőre; ügyeljen rá, hogy ne álljon meg túl hosszú ideig, nehogy a teste túlságosan lehűljön a hidegben.",
                 "ro": "Această oprire este potrivită pentru o scurtă pauză de hidratare; aveți grijă să nu staționați prea mult timp pentru a nu vă răci corpul în frig.",
-                "en": "This stop is suitable for a short hydration break; be careful not to stand still for too long so that your body doesn't cool down too much in the cold."
+                "en": "This stop is suitable for a short hydration break; be careful not to stand still for too long so that your body doesn't cool down too much in the cold.",
+                "fr": "Cet arrêt convient pour une courte pause hydratation ; attention à ne pas rester immobile trop longtemps afin que votre corps ne se refroidisse pas excessivement dans le froid."
               }
             },
             {
@@ -655,13 +727,15 @@
                 "de": "Manoir du Gros Chêne",
                 "hu": "Gros Chêne udvarház",
                 "ro": "Conacul Gros Chêne",
-                "en": "Manoir du Gros Chêne"
+                "en": "Manoir du Gros Chêne",
+                "fr": "Manoir du Gros Chêne"
               },
               "tip_5lang": {
                 "de": "Bewundern Sie die kahlen, skulpturalen Äste der alten Eichen rund um das Herrenhaus, die im Winter besonders dramatisch gegen den Himmel wirken.",
                 "hu": "Csodálja meg az udvarház körüli öreg tölgyek kopasz, szoborszerű ágait, amelyek télen különösen drámai látványt nyújtanak az égbolt előtt.",
                 "ro": "Admirați ramurile golașe și sculpturale ale stejarilor bătrâni din jurul conacului, care par deosebit de dramatice pe fundalul cerului de iarnă.",
-                "en": "Admire the bare, sculptural branches of the old oaks around the manor, which look particularly dramatic against the winter sky."
+                "en": "Admire the bare, sculptural branches of the old oaks around the manor, which look particularly dramatic against the winter sky.",
+                "fr": "Admirez les branches nues et sculpturales des vieux chênes autour du manoir, qui sont particulièrement dramatiques contre le ciel hivernal."
               }
             },
             {
@@ -669,13 +743,15 @@
                 "de": "Fontaine Saint-Mériadec",
                 "hu": "Saint-Mériadec forrás",
                 "ro": "Fântâna Saint-Mériadec",
-                "en": "Fontaine Saint-Mériadec"
+                "en": "Fontaine Saint-Mériadec",
+                "fr": "Fontaine Saint‑Mériadec"
               },
               "tip_5lang": {
                 "de": "Achten Sie auf Glatteis an den Steinstufen des Brunnens; das gefrorene Wasser an den Rändern bildet oft kunstvolle Eisskulpturen zum Fotografieren.",
                 "hu": "Ügyeljen a jegesedésre a forrás kőlépcsőin; a széleken megfagyott víz gyakran művészi jégszobrokat alkot, amelyeket érdemes lefotózni.",
                 "ro": "Atenție la porțiunile înghețate de pe treptele de piatră ale fântânii; apa înghețată de pe margini formează adesea sculpturi de gheață artistice.",
-                "en": "Watch out for ice on the fountain's stone steps; the frozen water along the edges often forms artistic ice sculptures perfect for photographing."
+                "en": "Watch out for ice on the fountain's stone steps; the frozen water along the edges often forms artistic ice sculptures perfect for photographing.",
+                "fr": "Méfiez‑vous de la glace sur les marches en pierre de la fontaine ; l’eau gelée sur les bords forme souvent des sculptures de glace artistiques parfaites pour la photographie."
               }
             },
             {
@@ -683,13 +759,15 @@
                 "de": "Église Saint-Mériadec-de-Stival",
                 "hu": "Saint-Mériadec-de-Stival templom",
                 "ro": "Biserica Saint-Mériadec-de-Stival",
-                "en": "Église Saint-Mériadec-de-Stival"
+                "en": "Église Saint-Mériadec-de-Stival",
+                "fr": "Église Saint‑Mériadec‑de‑Stival"
               },
               "tip_5lang": {
                 "de": "Sollte es bereits dämmern, bietet die beleuchtete Kirche einen sicheren Orientierungspunkt; schalten Sie für die Rückfahrt unbedingt Ihr Fahrradlicht ein.",
                 "hu": "Ha már alkonyodik, a megvilágított templom biztos tájékozódási pontot nyújt; a visszautazáshoz feltétlenül kapcsolja be a kerékpár lámpáit.",
                 "ro": "Dacă a început deja să se întunece, biserica iluminată oferă un punct de reper sigur; asigurați-vă că aprindeți luminile bicicletei pentru retur.",
-                "en": "If it's already getting dark, the illuminated church offers a safe landmark; be sure to turn on your bike lights for the return journey."
+                "en": "If it's already getting dark, the illuminated church offers a safe landmark; be sure to turn on your bike lights for the return journey.",
+                "fr": "S’il commence à faire sombre, l’église illuminée constitue un point de repère sûr ; pensez à allumer vos lumières pour le retour à vélo."
               }
             }
           ]
@@ -709,7 +787,8 @@
             "de": "Chapelle Notre-Dame de la Houssaye",
             "hu": "Notre-Dame de la Houssaye kápolna",
             "ro": "Capela Notre-Dame de la Houssaye",
-            "en": "Chapelle Notre-Dame de la Houssaye"
+            "en": "Chapelle Notre-Dame de la Houssaye",
+            "fr": "Chapelle Notre‑Dame de la Houssaye"
           },
           "coords": [
             -2.949682,
@@ -724,7 +803,8 @@
             "de": "Beginnen Sie Ihren Tag, indem Sie den bemerkenswerten geschnitzten Altar in dieser idyllischen ländlichen Kapelle fotografieren.",
             "hu": "Kezdje a napot azzal, hogy lefotózza ennek a festői vidéki kápolnának a figyelemre méltó faragott oltárképét, mielőtt a fővárosba indulna.",
             "ro": "Începeți-vă ziua fotografiind remarcabilul retablu sculptat din interiorul acestei capele rurale pitorești, înainte de a vă îndrepta spre orașul principal.",
-            "en": "Start your day by photographing the remarkable carved altarpiece inside this quaint countryside chapel before heading into the main city."
+            "en": "Start your day by photographing the remarkable carved altarpiece inside this quaint countryside chapel before heading into the main city.",
+            "fr": "Commencez la journée en photographiant le remarquable retable sculpté à l’intérieur de cette charmante chapelle rurale avant de vous diriger vers le centre-ville."
           }
         },
         {
@@ -732,7 +812,8 @@
             "de": "Tumulus de Nillizien",
             "hu": "Nillizien halomsír",
             "ro": "Tumulul Nillizien",
-            "en": "Tumulus de Nillizien"
+            "en": "Tumulus de Nillizien",
+            "fr": "Tumulus de Nillizien"
           },
           "coords": [
             -2.96831,
@@ -747,7 +828,8 @@
             "de": "Entdecken Sie die alten prähistorischen Wurzeln der Region an diesem faszinierenden Grabhügel, den Sie am besten am Nachmittag bei dramatischem Licht besuchen.",
             "hu": "Fedezze fel a régió ősi őskori gyökereit ezen a lenyűgöző halomsíron, amelyet a legjobb délután meglátogatni, amikor a fény drámai árnyékokat vet.",
             "ro": "Descoperiți rădăcinile preistorice antice ale regiunii la acest fascinant tumul funerar, care este cel mai bine vizitat după-amiaza pentru o lumină dramatică.",
-            "en": "Uncover the ancient prehistoric roots of the region at this fascinating burial mound, best visited in the afternoon when the light casts dramatic shadows."
+            "en": "Uncover the ancient prehistoric roots of the region at this fascinating burial mound, best visited in the afternoon when the light casts dramatic shadows.",
+            "fr": "Découvrez les racines préhistoriques de la région sur cette fascinante tombe à tumulus, à visiter de préférence l’après‑midi lorsque la lumière projette des ombres dramatiques."
           }
         },
         {
@@ -755,7 +837,8 @@
             "de": "Château des Rohan",
             "hu": "Rohan kastély",
             "ro": "Castelul Rohan",
-            "en": "Château des Rohan"
+            "en": "Château des Rohan",
+            "fr": "Château des Rohan"
           },
           "coords": [
             -2.963318,
@@ -770,7 +853,8 @@
             "de": "Erkunden Sie die imposante Festung der Familie Rohan aus dem 15. Jahrhundert mit ihren massiven Zwillingstürmen und spazieren Sie am Wassergraben entlang, um die besten Fotos zu machen.",
             "hu": "Fedezze fel a Rohan család lenyűgöző, 15. századi erődítményét a hatalmas ikertornyokkal, és sétáljon végig a várárok mentén a legjobb fotókért.",
             "ro": "Explorați impunătoarea fortăreață din secolul al XV-lea a familiei Rohan cu turnurile sale gemene masive, plimbându-vă de-a lungul șanțului pentru a face cele mai bune fotografii.",
-            "en": "Explore the imposing 15th-century stronghold of the Rohan family with its massive twin towers, taking time to walk the moat path for the best photos."
+            "en": "Explore the imposing 15th-century stronghold of the Rohan family with its massive twin towers, taking time to walk the moat path for the best photos.",
+            "fr": "Explorez l’impressionnante forteresse du XVe siècle de la famille de Rohan avec ses massives tours jumelles, et prenez le temps d’emprunter le chemin le long du fossé pour les meilleures photos."
           }
         },
         {
@@ -778,7 +862,8 @@
             "de": "Manoir du Gros Chêne",
             "hu": "Gros Chêne udvarház",
             "ro": "Conacul Gros Chêne",
-            "en": "Manoir du Gros Chêne"
+            "en": "Manoir du Gros Chêne",
+            "fr": "Manoir du Gros Chêne"
           },
           "coords": [
             -2.980135,
@@ -793,7 +878,8 @@
             "de": "Machen Sie in diesem traditionellen bretonischen Herrenhaus eine Reise in die Vergangenheit und erkunden Sie den umliegenden landwirtschaftlichen Campus.",
             "hu": "Lépjen vissza az időben ebben a hagyományos breton udvarházban, és feltétlenül fedezze fel a környező mezőgazdasági kampuszt is.",
             "ro": "Întoarceți-vă în timp la acest conac tradițional breton, unde ar trebui să explorați campusul agricol din jur pentru a vedea agricultura modernă alături de patrimoniu.",
-            "en": "Step back in time at this traditional Breton manor house, where you should explore the surrounding agricultural campus to see modern farming alongside heritage."
+            "en": "Step back in time at this traditional Breton manor house, where you should explore the surrounding agricultural campus to see modern farming alongside heritage.",
+            "fr": "Faites un bond dans le passé à ce manoir breton traditionnel, où vous devriez explorer le campus agricole environnant pour voir l’agriculture moderne à côté du patrimoine."
           }
         },
         {
@@ -801,7 +887,8 @@
             "de": "Église Saint-Mériadec-de-Stival",
             "hu": "Saint-Mériadec-de-Stival templom",
             "ro": "Biserica Saint-Mériadec-de-Stival",
-            "en": "Église Saint-Mériadec-de-Stival"
+            "en": "Église Saint-Mériadec-de-Stival",
+            "fr": "Église Saint‑Mériadec‑de‑Stival"
           },
           "coords": [
             -2.99326,
@@ -816,7 +903,8 @@
             "de": "Bewundern Sie die wunderschönen Innenfresken dieser historischen Kirche und stellen Sie sicher, dass Sie vor dem späten Nachmittag ankommen.",
             "hu": "Csodálja meg e történelmi templom gyönyörű belső freskóit, ügyelve arra, hogy még késő délután előtt érkezzen, amikor az épületet általában bezárják.",
             "ro": "Minunați-vă de frumoasele fresce interioare ale acestei biserici istorice, asigurându-vă că ajungeți înainte de sfârșitul după-amiezii.",
-            "en": "Marvel at the beautiful interior frescoes of this historic church, ensuring you arrive before late afternoon when the building is usually locked for the day."
+            "en": "Marvel at the beautiful interior frescoes of this historic church, ensuring you arrive before late afternoon when the building is usually locked for the day.",
+            "fr": "Admirez les belles fresques intérieures de cette église historique, en veillant à arriver avant la fin d’après‑midi car le bâtiment est généralement fermé le soir."
           }
         },
         {
@@ -824,7 +912,8 @@
             "de": "Sainte-Tréphine",
             "hu": "Sainte-Tréphine",
             "ro": "Sainte-Tréphine",
-            "en": "Sainte-Tréphine"
+            "en": "Sainte-Tréphine",
+            "fr": "Sainte‑Tréphine"
           },
           "coords": [
             -2.98691,
@@ -839,7 +928,8 @@
             "de": "Entdecken Sie dieses verborgene Juwel der lokalen Religionsgeschichte inmitten friedlicher Natur und bringen Sie bequeme Schuhe für die etwas unebenen Wege mit.",
             "hu": "Fedezze fel a helyi vallástörténet e rejtett gyöngyszemét békés természettel körülvéve, és vigyen magával kényelmes cipőt a kissé egyenetlen ösvényekhez.",
             "ro": "Descoperiți această bijuterie ascunsă a istoriei religioase locale înconjurată de natură, purtând încălțăminte confortabilă pentru cărările ușor accidentate.",
-            "en": "Discover this hidden gem of local religious history surrounded by peaceful nature, bringing comfortable shoes for the slightly uneven paths leading up to it."
+            "en": "Discover this hidden gem of local religious history surrounded by peaceful nature, bringing comfortable shoes for the slightly uneven paths leading up to it.",
+            "fr": "Découvrez ce trésor caché de l’histoire religieuse locale, entouré d’une nature paisible ; apportez des chaussures confortables pour les sentiers légèrement irréguliers qui y montent."
           }
         }
       ],
@@ -847,7 +937,8 @@
         "de": "Ihre Autotour beginnt an der idyllischen Chapelle Notre-Dame, bevor Sie die antike Geschichte am Tumulus de Nillizien entdecken. Mittags erkunden Sie das prächtige Château des Rohan. Am Nachmittag fahren Sie zum malerischen Manoir du Gros Chêne und zur wunderschön erhaltenen Église Saint-Mériadec, bevor der Abend entspannt in Sainte-Tréphine endet.",
         "hu": "Autós túrája a Chapelle Notre-Dame de la Houssaye-nél kezdődik, mielőtt felfedezné a Tumulus de Nillizien ókori történelmét. A dél a városközpontban található Château des Rohan felfedezésével telik. Délután kocsikázzon a Manoir du Gros Chêne-hez és az Église Saint-Mériadec-hez, majd fejezze be az estét a Sainte-Tréphine nyugalmában.",
         "ro": "Turul dvs. cu mașina începe la Chapelle Notre-Dame de la Houssaye înainte de a descoperi istoria la Tumulus de Nillizien. Prânzul este petrecut explorând grandiosul Château des Rohan. După-amiaza, veți conduce spre pitorescul Manoir du Gros Chêne și biserica Saint-Mériadec, încheind seara în liniștea de la Sainte-Tréphine.",
-        "en": "Your driving tour kicks off at the quaint Chapelle Notre-Dame de la Houssaye before uncovering ancient history at the Tumulus de Nillizien. Midday is spent exploring the grand Château des Rohan in the city center. In the afternoon, you'll drive out to the scenic Manoir du Gros Chêne and the beautifully preserved Église Saint-Mériadec, finishing the evening at Sainte-Tréphine."
+        "en": "Your driving tour kicks off at the quaint Chapelle Notre-Dame de la Houssaye before uncovering ancient history at the Tumulus de Nillizien. Midday is spent exploring the grand Château des Rohan in the city center. In the afternoon, you'll drive out to the scenic Manoir du Gros Chêne and the beautifully preserved Église Saint-Mériadec, finishing the evening at Sainte-Tréphine.",
+        "fr": "Votre circuit en voiture commence à la charmante Chapelle Notre‑Dame de la Houssaye avant de découvrir l’histoire ancienne au Tumulus de Nillizien. Le midi, vous explorerez le grand Château des Rohan au centre‑ville. L’après‑midi, vous prendrez la route pour le pittoresque Manoir du Gros Chêne et la magnifiquement préservée Église Saint‑Mériadec, pour terminer la soirée à Sainte‑Tréphine."
       },
       "variants": {
         "rainy": {
@@ -855,7 +946,8 @@
             "de": "Genießen Sie die bretonische Landschaft ganz entspannt vom Auto aus, während der Regen gegen die Scheiben prasselt. Vormittags besuchen Sie abgelegene Kapellen und historische Stätten; achten Sie auf den Landstraßen auf Aquaplaning. Mittags im Schloss Rohan finden Sie ein großes kulturelles Angebot im Trockenen. Den Nachmittag verbringen Sie bei Kirchen und Herrenhäusern in der Umgebung.",
             "hu": "Élvezze a breton tájat kényelmesen az autóból, miközben az eső kopog a szélvédőn. Délelőtt látogasson el a távoli kápolnákhoz és történelmi helyszínekhez; ügyeljen a vízátfolyásokra az utakon. Délben a Rohan kastélyban gazdag kulturális kínálat várja fedett helyen. A délutánt a környék templomainak és udvarházainak felfedezésével töltheti.",
             "ro": "Bucurați-vă de peisajul breton relaxat din mașină, în timp ce ploaia bate în geamuri. Dimineața vizitați capele izolate și situri istorice; atenție la acvaplanare pe drumurile rurale. La prânz, Castelul Rohan oferă o bogată ofertă culturală la adăpost. După-amiaza o petreceți explorând bisericile și conacele din împrejurimi.",
-            "en": "Enjoy the Breton landscape comfortably from your car while the rain drum on the windshield. In the morning, visit remote chapels and historical sites; watch out for hydroplaning on rural roads. At noon, Château des Rohan offers a rich cultural experience in the dry. Spend the afternoon exploring the nearby churches and manors."
+            "en": "Enjoy the Breton landscape comfortably from your car while the rain drum on the windshield. In the morning, visit remote chapels and historical sites; watch out for hydroplaning on rural roads. At noon, Château des Rohan offers a rich cultural experience in the dry. Spend the afternoon exploring the nearby churches and manors.",
+            "fr": "Profitez du paysage breton confortablement depuis votre voiture pendant que la pluie tambourine sur le pare-brise. Le matin, visitez des chapelles isolées et des sites historiques ; attention à l’aquaplanage sur les routes rurales. À midi, le Château des Rohan offre une riche expérience culturelle à l’abri. Passez l’après‑midi à explorer les églises et manoirs voisins."
           },
           "stops": [
             {
@@ -863,13 +955,15 @@
                 "de": "Chapelle Notre-Dame de la Houssaye",
                 "hu": "Notre-Dame de la Houssaye kápolna",
                 "ro": "Capela Notre-Dame de la Houssaye",
-                "en": "Chapelle Notre-Dame de la Houssaye"
+                "en": "Chapelle Notre-Dame de la Houssaye",
+                "fr": "Chapelle Notre-Dame de la Houssaye"
               },
               "tip_5lang": {
                 "de": "Parken Sie so nah wie möglich am Eingang, um trocken ins Innere zu gelangen, und bewundern Sie den Altaraufsatz, der auch bei Regenlicht beeindruckt.",
                 "hu": "Parkoljon a lehető legközelebb a bejárathoz, hogy szárazon jusson be, és csodálja meg a retablót, amely még esős, szűrt fényben is lenyűgöző látvány.",
                 "ro": "Parcați cât mai aproape de intrare pentru a ajunge uscat în interior și admirați retablul care impresionează chiar și în lumina filtrată de ploaie.",
-                "en": "Park as close to the entrance as possible to reach the interior dry, and admire the altarpiece, which remains impressive even in grey rain light."
+                "en": "Park as close to the entrance as possible to reach the interior dry, and admire the altarpiece, which remains impressive even in grey rain light.",
+                "fr": "Garez‑vous aussi près que possible de l’entrée pour rester au sec en atteignant l’intérieur, et admirez le retable, toujours impressionnant même dans la lumière grise de la pluie."
               }
             },
             {
@@ -877,13 +971,15 @@
                 "de": "Tumulus de Nillizien",
                 "hu": "Nillizien halomsír",
                 "ro": "Tumulul Nillizien",
-                "en": "Tumulus de Nillizien"
+                "en": "Tumulus de Nillizien",
+                "fr": "Tumulus de Nillizien"
               },
               "tip_5lang": {
                 "de": "Vom Auto aus hat man einen guten Blick auf das Hügelgrab; steigen Sie nur kurz aus, da der Weg zum Monument bei Regen sehr matschig sein kann.",
                 "hu": "Az autóból is jó kilátás nyílik a halomsírra; csak rövid időre szálljon ki, mivel az emlékműhöz vezető út esőben rendkívül sáros és csúszós lehet.",
                 "ro": "Din mașină aveți o vedere bună asupra tumulului; coborâți doar pentru scurt timp, deoarece poteca spre monument poate fi foarte noroioasă pe ploaie.",
-                "en": "You get a good view of the tumulus from the car; only step out briefly as the path to the monument can be extremely muddy and slippery in the rain."
+                "en": "You get a good view of the tumulus from the car; only step out briefly as the path to the monument can be extremely muddy and slippery in the rain.",
+                "fr": "Vous avez une bonne vue sur le tumulus depuis la voiture ; ne descendez que brièvement car le chemin vers le monument peut être extrêmement boueux et glissant sous la pluie."
               }
             },
             {
@@ -891,13 +987,15 @@
                 "de": "Château des Rohan",
                 "hu": "Rohan kastély",
                 "ro": "Castelul Rohan",
-                "en": "Château des Rohan"
+                "en": "Château des Rohan",
+                "fr": "Château des Rohan"
               },
               "tip_5lang": {
                 "de": "Nutzen Sie die zentrumsnahen Parkplätze und verbringen Sie die regenreichste Zeit des Tages in den Ausstellungsräumen der imposanten Festung.",
                 "hu": "Használja a központhoz közeli parkolókat, és töltse a nap legesősebb részét az impozáns erőd belső kiállítótereiben, ahol szárazon nézelődhet.",
                 "ro": "Folosiți parcările din apropierea centrului și petreceți cea mai ploioasă parte a zilei în spațiile expoziționale ale fortăreței impunătoare.",
-                "en": "Use the parking lots near the center and spend the rainiest part of the day inside the imposing fortress's exhibition halls, staying dry and warm."
+                "en": "Use the parking lots near the center and spend the rainiest part of the day inside the imposing fortress's exhibition halls, staying dry and warm.",
+                "fr": "Utilisez les parkings proches du centre et passez la partie la plus pluvieuse de la journée dans les salles d’exposition de l’imposante forteresse, à l’abri et au chaud."
               }
             },
             {
@@ -905,13 +1003,15 @@
                 "de": "Manoir du Gros Chêne",
                 "hu": "Gros Chêne udvarház",
                 "ro": "Conacul Gros Chêne",
-                "en": "Manoir du Gros Chêne"
+                "en": "Manoir du Gros Chêne",
+                "fr": "Manoir du Gros Chêne"
               },
               "tip_5lang": {
                 "de": "Fahren Sie langsam am Herrenhaus vorbei, um die Details der Architektur zu sehen, ohne im starken Regen auf das Gelände gehen zu müssen.",
                 "hu": "Hajtson el lassan az udvarház mellett, hogy megfigyelje az építészeti részleteket anélkül, hogy a heves esőben be kellene mennie a területre.",
                 "ro": "Conduceți încet pe lângă conac pentru a observa detaliile arhitecturale fără a fi nevoie să intrați pe teren în timpul ploii abundente.",
-                "en": "Drive slowly past the manor to observe the architectural details without needing to step onto the grounds during heavy rainfall."
+                "en": "Drive slowly past the manor to observe the architectural details without needing to step onto the grounds during heavy rainfall.",
+                "fr": "Roulez lentement devant le manoir pour observer les détails architecturaux sans avoir à entrer dans l’enceinte en cas de fortes averses."
               }
             },
             {
@@ -919,13 +1019,15 @@
                 "de": "Église Saint-Mériadec-de-Stival",
                 "hu": "Saint-Mériadec-de-Stival templom",
                 "ro": "Biserica Saint-Mériadec-de-Stival",
-                "en": "Église Saint-Mériadec-de-Stival"
+                "en": "Église Saint-Mériadec-de-Stival",
+                "fr": "Église Saint-Mériadec-de-Stival"
               },
               "tip_5lang": {
                 "de": "Diese Kirche ist ein idealer Stopp für eine längere Pause im Trockenen; bewundern Sie die Deckengemälde, während draußen der Regen fällt.",
                 "hu": "Ez a templom ideális megálló egy hosszabb száraz pihenőhöz; csodálja meg a mennyezeti festményeket, miközben odakint kitartóan esik az eső.",
                 "ro": "Această biserică este o oprire ideală pentru o pauză mai lungă la uscat; admirați picturile de pe tavan în timp ce afară plouă persistent.",
-                "en": "This church is an ideal stop for a longer dry break; admire the ceiling paintings while the rain falls persistently on the ancient stone roof."
+                "en": "This church is an ideal stop for a longer dry break; admire the ceiling paintings while the rain falls persistently on the ancient stone roof.",
+                "fr": "Cette église est une halte idéale pour une pause sèche plus longue ; admirez les peintures du plafond tandis que la pluie tombe sur les anciennes pierres du toit."
               }
             },
             {
@@ -933,13 +1035,15 @@
                 "de": "Sainte-Tréphine",
                 "hu": "Sainte-Tréphine",
                 "ro": "Sainte-Tréphine",
-                "en": "Sainte-Tréphine"
+                "en": "Sainte-Tréphine",
+                "fr": "Sainte-Tréphine"
               },
               "tip_5lang": {
                 "de": "Beenden Sie die Fahrt hier und genießen Sie den Blick auf die Kapelle durch die regennassen Scheiben, bevor Sie für einen kurzen Besuch aussteigen.",
                 "hu": "Zárja itt az utat, és élvezze a kápolnára nyíló kilátást az esőáztatta ablakokon keresztül, mielőtt kiszállna egy rövid, frissítő látogatásra.",
                 "ro": "Încheiați călătoria aici și bucurați-vă de vederea capelei prin geamurile ude de ploaie, înainte de a coborî pentru o scurtă vizită revigorantă.",
-                "en": "End your trip here and enjoy the view of the chapel through the rain-streaked windows before stepping out for a short, refreshing visit."
+                "en": "End your trip here and enjoy the view of the chapel through the rain-streaked windows before stepping out for a short, refreshing visit.",
+                "fr": "Terminez votre balade ici et profitez de la vue sur la chapelle à travers les vitres striées de pluie avant de sortir pour une courte visite rafraîchissante."
               }
             }
           ]
@@ -949,7 +1053,8 @@
             "de": "Eine winterliche Spritztour durch Pontivy ist besonders komfortabel. Morgens glitzert der Reif auf den Feldern rund um die Chapelle Notre-Dame. Die Schlossbesichtigung am Mittag bietet angenehme Wärme in den Museumsräumen. Planen Sie Ihre Route so, dass Sie die Kapellen bei Tageslicht sehen, da die Sonne gegen 17:00 Uhr sinkt und die Sicht auf Nebenstraßen einschränkt.",
             "hu": "A téli autós kirándulás Pontivy környékén különösen kényelmes. Reggel a dér csillog a mezőkön a Notre-Dame kápolna körül. A déli kastélylátogatás kellemes meleget kínál a múzeumi terekben. Úgy tervezze az útvonalat, hogy a kápolnákat még nappali fénynél lássa, mert a nap 17:00 körül lenyugszik, rontva a látási viszonyokat.",
             "ro": "O excursie cu mașina iarna prin Pontivy este deosebit de confortabilă. Dimineața, bruma sclipeste pe câmpurile din jurul capelei Notre-Dame. Vizita la castel de la prânz oferă o căldură plăcută în muzeu. Planificați ruta pentru a vedea capelele la lumina zilei, deoarece soarele apune în jur de ora 17:00.",
-            "en": "A winter driving tour through Pontivy is particularly comfortable. In the morning, frost glitters on the fields around Chapelle Notre-Dame. The castle visit at noon offers pleasant warmth in the museum spaces. Plan your route to see the chapels in daylight, as the sun sets around 17:00, limiting visibility on back roads."
+            "en": "A winter driving tour through Pontivy is particularly comfortable. In the morning, frost glitters on the fields around Chapelle Notre-Dame. The castle visit at noon offers pleasant warmth in the museum spaces. Plan your route to see the chapels in daylight, as the sun sets around 17:00, limiting visibility on back roads.",
+            "fr": "Une visite hivernale en voiture à Pontivy est particulièrement confortable. Le matin, le givre scintille sur les champs autour de la Chapelle Notre‑Dame. La visite du château à midi offre une agréable chaleur dans les espaces muséaux. Planifiez votre itinéraire pour voir les chapelles en plein jour, le soleil se couchant vers 17:00 et limitant la visibilité sur les petites routes."
           },
           "stops": [
             {
@@ -957,13 +1062,15 @@
                 "de": "Chapelle Notre-Dame de la Houssaye",
                 "hu": "Notre-Dame de la Houssaye kápolna",
                 "ro": "Capela Notre-Dame de la Houssaye",
-                "en": "Chapelle Notre-Dame de la Houssaye"
+                "en": "Chapelle Notre-Dame de la Houssaye",
+                "fr": "Chapelle Notre-Dame de la Houssaye"
               },
               "tip_5lang": {
                 "de": "Genießen Sie den Anblick der Kapelle in der klaren Winterluft; die tiefstehende Sonne lässt die Granitsteine in einem warmen Goldton leuchten.",
                 "hu": "Élvezze a kápolna látványát a tiszta téli levegőben; az alacsonyan járó nap meleg arany tónusba öltözteti a szürke gránitköveket.",
                 "ro": "Bucurați-vă de vederea capelei în aerul curat de iarnă; soarele jos face ca pietrele de granit să strălucească într-o nuanță aurie caldă.",
-                "en": "Enjoy the view of the chapel in the crisp winter air; the low-hanging sun makes the grey granite stones glow in a warm, golden hue."
+                "en": "Enjoy the view of the chapel in the crisp winter air; the low-hanging sun makes the grey granite stones glow in a warm, golden hue.",
+                "fr": "Profitez de la vue sur la chapelle dans l’air vif de l’hiver ; le soleil bas fait rayonner les pierres de granit gris d’une teinte chaude et dorée."
               }
             },
             {
@@ -971,13 +1078,15 @@
                 "de": "Tumulus de Nillizien",
                 "hu": "Nillizien halomsír",
                 "ro": "Tumulul Nillizien",
-                "en": "Tumulus de Nillizien"
+                "en": "Tumulus de Nillizien",
+                "fr": "Tumulus de Nillizien"
               },
               "tip_5lang": {
                 "de": "Das Hügelgrab wirkt in der kahlen Winterlandschaft besonders mystisch; nutzen Sie die Standheizung Ihres Autos, um sich nach dem Fotostopp aufzuwärmen.",
                 "hu": "A halomsír különösen misztikusnak tűnik a kopár téli tájban; használja az autó fűtését a gyors felmelegedéshez a fotós megálló után.",
                 "ro": "Tumulul pare deosebit de mistic în peisajul golaș de iarnă; folosiți încălzirea mașinii pentru a vă încălzi rapid după oprirea pentru fotografii.",
-                "en": "The tumulus looks particularly mystic in the stark winter landscape; use your car's heater to warm up quickly after your photo stop."
+                "en": "The tumulus looks particularly mystic in the stark winter landscape; use your car's heater to warm up quickly after your photo stop.",
+                "fr": "Le tumulus semble particulièrement mystique dans le paysage hivernal dépouillé ; utilisez le chauffage de la voiture pour vous réchauffer rapidement après votre arrêt photo."
               }
             },
             {
@@ -985,13 +1094,15 @@
                 "de": "Château des Rohan",
                 "hu": "Rohan kastély",
                 "ro": "Castelul Rohan",
-                "en": "Château des Rohan"
+                "en": "Château des Rohan",
+                "fr": "Château des Rohan"
               },
               "tip_5lang": {
                 "de": "Besuchen Sie die Ausstellungen im Inneren, um der Kälte draußen zu entfliehen; das Schloss ist im Winter weniger besucht und bietet viel Ruhe.",
                 "hu": "Látogassa meg a benti kiállításokat, hogy elmeneküljön a kinti hideg elől; a kastély télen kevésbé zsúfolt, így nyugodtan nézelődhet.",
                 "ro": "Vizitați expozițiile din interior pentru a scăpa de frigul de afară; castelul este mai puțin vizitat iarna, oferind multă liniște.",
-                "en": "Visit the exhibitions inside to escape the outdoor cold; the castle is less crowded in winter, providing a peaceful and quiet experience."
+                "en": "Visit the exhibitions inside to escape the outdoor cold; the castle is less crowded in winter, providing a peaceful and quiet experience.",
+                "fr": "Visitez les expositions à l’intérieur pour échapper au froid extérieur ; le château est moins fréquenté en hiver, offrant une expérience paisible et calme."
               }
             },
             {
@@ -999,13 +1110,15 @@
                 "de": "Manoir du Gros Chêne",
                 "hu": "Gros Chêne udvarház",
                 "ro": "Conacul Gros Chêne",
-                "en": "Manoir du Gros Chêne"
+                "en": "Manoir du Gros Chêne",
+                "fr": "Manoir du Gros Chêne"
               },
               "tip_5lang": {
                 "de": "Das Herrenhaus sieht im Winterlicht sehr elegant aus; achten Sie bei der Anfahrt auf die teils glatten Straßenränder in schattigen Waldstücken.",
                 "hu": "Az udvarház nagyon elegánsan fest a téli fényben; az odaúton ügyeljen az árnyékos erdőszéli útszakaszokra, amelyek jegesek lehetnek.",
                 "ro": "Conacul arată foarte elegant în lumina de iarnă; pe drumul spre el, atenție la marginile drumului umbrite care pot fi înghețate.",
-                "en": "The manor looks very elegant in the winter light; on the drive there, watch out for shaded road sections that might remain icy all day."
+                "en": "The manor looks very elegant in the winter light; on the drive there, watch out for shaded road sections that might remain icy all day.",
+                "fr": "Le manoir est très élégant à la lumière hivernale ; sur la route, méfiez‑vous des sections ombragées qui peuvent rester verglacées toute la journée."
               }
             },
             {
@@ -1013,13 +1126,15 @@
                 "de": "Église Saint-Mériadec-de-Stival",
                 "hu": "Saint-Mériadec-de-Stival templom",
                 "ro": "Biserica Saint-Mériadec-de-Stival",
-                "en": "Église Saint-Mériadec-de-Stival"
+                "en": "Église Saint-Mériadec-de-Stival",
+                "fr": "Église Saint-Mériadec-de-Stival"
               },
               "tip_5lang": {
                 "de": "Planen Sie diesen Stopp vor 16:30 Uhr ein, damit Sie die feinen Details der Fresken noch bei ausreichendem Tageslicht bewundern können.",
                 "hu": "Tervezze ezt a megállót 16:30 elé, hogy a freskók finom részleteit még elegendő nappali fény mellett tudja megcsodálni odabent.",
                 "ro": "Planificați această oprire înainte de ora 16:30, pentru a putea admira detaliile fine ale frescelor încă la lumina zilei.",
-                "en": "Plan this stop before 16:30 so you can admire the fine details of the frescoes while there's still sufficient natural daylight available."
+                "en": "Plan this stop before 16:30 so you can admire the fine details of the frescoes while there's still sufficient natural daylight available.",
+                "fr": "Prévoyez cet arrêt avant 16:30 afin de pouvoir admirer les détails fins des fresques tant qu’il y a encore suffisamment de lumière naturelle."
               }
             },
             {
@@ -1027,13 +1142,15 @@
                 "de": "Sainte-Tréphine",
                 "hu": "Sainte-Tréphine",
                 "ro": "Sainte-Tréphine",
-                "en": "Sainte-Tréphine"
+                "en": "Sainte-Tréphine",
+                "fr": "Sainte-Tréphine"
               },
               "tip_5lang": {
                 "de": "Die Kapelle im Abendlicht ist der perfekte Abschluss; genießen Sie die winterliche Stille, bevor Sie die Heizung für die Rückfahrt einschalten.",
                 "hu": "A kápolna az esti fényekben tökéletes lezárása a napnak; élvezze a téli csendet, mielőtt bekapcsolná a fűtést a visszavezető útra.",
                 "ro": "Capela în lumina serii este încheierea perfectă; bucurați-vă de liniștea iernii înainte de a porni încălzirea pentru drumul de întoarcere.",
-                "en": "The chapel in the evening light is the perfect conclusion; enjoy the winter silence before turning on the heater for your drive back."
+                "en": "The chapel in the evening light is the perfect conclusion; enjoy the winter silence before turning on the heater for your drive back.",
+                "fr": "La chapelle au crépuscule est la parfaite conclusion ; appréciez le silence hivernal avant de remettre le chauffage pour le retour en voiture."
               }
             }
           ]

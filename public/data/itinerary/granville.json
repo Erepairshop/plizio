@@ -21,7 +21,8 @@
             "de": "Port of Granville",
             "hu": "Port of Granville",
             "ro": "Port of Granville",
-            "en": "Port of Granville"
+            "en": "Port of Granville",
+            "fr": "Port of Granville"
           },
           "coords": [
             -1.59879,
@@ -36,7 +37,8 @@
             "de": "Schlendern Sie durch den historischen Hafen, beobachten Sie die traditionellen Fischerboote und das rege Treiben, und besuchen Sie den morgendlichen Fischmarkt.",
             "hu": "Sétáljon végig a történelmi kikötőn, figyelve a hagyományos halászhajókat és a nyüzsgő tevékenységet, és érdemes kora reggel meglátogatni a halpiacot.",
             "ro": "Plimbați-vă de-a lungul portului istoric, observând bărcile tradiționale de pescuit și activitatea plină de viață, și vizitați piața de pește de dimineață.",
-            "en": "Stroll along the historic port, observing the traditional fishing boats and bustling activity, and consider visiting the early morning fish market for the freshest catch."
+            "en": "Stroll along the historic port, observing the traditional fishing boats and bustling activity, and consider visiting the early morning fish market for the freshest catch.",
+            "fr": "Promenez‑vous le long du port historique en observant les bateaux de pêche traditionnels et l’activité animée, et pensez à visiter le marché aux poissons tôt le matin pour le poisson le plus frais."
           }
         },
         {
@@ -44,7 +46,8 @@
             "de": "Phare du Roc",
             "hu": "Phare du Roc",
             "ro": "Phare du Roc",
-            "en": "Phare du Roc"
+            "en": "Phare du Roc",
+            "fr": "Phare du Roc"
           },
           "coords": [
             -1.609388,
@@ -59,7 +62,8 @@
             "de": "Bewundern Sie die atemberaubende Aussicht von diesem historischen Leuchtturm auf dem Felsvorsprung, aber halten Sie Ihren Hut fest, da es hier sehr windig werden kann.",
             "hu": "Csodálja meg a sziklás hegyfokon magasodó történelmi világítótorony lenyűgöző panorámáját, de fogja meg a kalapját, mert itt eléggé szeles az idő.",
             "ro": "Admirați priveliștile panoramice uimitoare de la acest far istoric cocoțat pe promontoriul stâncos, dar țineți-vă pălăria, deoarece aici poate fi destul de vânt.",
-            "en": "Admire the stunning panoramic views from this historic lighthouse perched on the rocky promontory, but hold onto your hat as it can get quite windy here."
+            "en": "Admire the stunning panoramic views from this historic lighthouse perched on the rocky promontory, but hold onto your hat as it can get quite windy here.",
+            "fr": "Admirez les vues panoramiques époustouflantes depuis ce phare historique perché sur le promontoire rocheux, mais tenez‑vous bien car il peut y avoir beaucoup de vent."
           }
         },
         {
@@ -67,7 +71,8 @@
             "de": "Église Notre-Dame du Cap Lihou",
             "hu": "Église Notre-Dame du Cap Lihou",
             "ro": "Église Notre-Dame du Cap Lihou",
-            "en": "Église Notre-Dame du Cap Lihou"
+            "en": "Église Notre-Dame du Cap Lihou",
+            "fr": "Église Notre-Dame du Cap Lihou"
           },
           "coords": [
             -1.60503,
@@ -82,7 +87,8 @@
             "de": "Erkunden Sie die Granitarchitektur dieser Kirche und achten Sie besonders auf die Buntglasfenster, die den Innenraum in buntes Licht tauchen.",
             "hu": "Fedezze fel ennek a gyönyörű templomnak a lenyűgöző gránit építészetét, különös figyelmet fordítva a pompás ólomüveg ablakokra, amelyek színes fényben fürdetik a belsőt.",
             "ro": "Explorați arhitectura impresionantă din granit a acestei biserici, acordând o atenție deosebită vitraliilor rafinate care scaldă interiorul în lumină colorată.",
-            "en": "Explore the striking granite architecture of this beautiful church, paying special attention to its exquisite stained glass windows that bathe the interior in colorful light."
+            "en": "Explore the striking granite architecture of this beautiful church, paying special attention to its exquisite stained glass windows that bathe the interior in colorful light.",
+            "fr": "Explorez l’impressionnante architecture granitique de cette belle église, en portant une attention particulière à ses vitraux exquis qui inondent l’intérieur d’une lumière colorée."
           }
         },
         {
@@ -90,7 +96,8 @@
             "de": "Casino de Granville",
             "hu": "Casino de Granville",
             "ro": "Casino de Granville",
-            "en": "Casino de Granville"
+            "en": "Casino de Granville",
+            "fr": "Casino de Granville"
           },
           "coords": [
             -1.598793,
@@ -105,7 +112,8 @@
             "de": "Erleben Sie die lebhafte Atmosphäre dieses klassischen Casinos, und selbst wenn Sie nicht spielen, genießen Sie einen Drink an der Bar im Belle-Époque-Ambiente.",
             "hu": "Tapasztalja meg ennek a klasszikus kaszinónak a vibráló atmoszféráját, és még ha nem is játszik, igyon egy italt a bárban, hogy elmerüljön a Belle Époque hangulatban.",
             "ro": "Bucurați-vă de atmosfera vibrantă a acestui cazinou clasic și, chiar dacă nu jucați, savurați o băutură la bar pentru a vă cufunda în ambianța Belle Époque.",
-            "en": "Experience the vibrant atmosphere of this classic casino, and even if you do not play, enjoy a drink at the bar to soak in the lively Belle Époque ambiance."
+            "en": "Experience the vibrant atmosphere of this classic casino, and even if you do not play, enjoy a drink at the bar to soak in the lively Belle Époque ambiance.",
+            "fr": "Vivez l’atmosphère animée de ce casino classique, et même si vous ne jouez pas, prenez un verre au bar pour profiter de l’ambiance Belle Époque."
           }
         },
         {
@@ -113,7 +121,8 @@
             "de": "Le Plat Gousset",
             "hu": "Le Plat Gousset",
             "ro": "Le Plat Gousset",
-            "en": "Le Plat Gousset"
+            "en": "Le Plat Gousset",
+            "fr": "Le Plat Gousset"
           },
           "coords": [
             -1.597305,
@@ -128,7 +137,8 @@
             "de": "Spazieren Sie gemütlich diese Promenade entlang, die von charmanten Strandhütten gesäumt ist, und packen Sie eine leichte Jacke ein, da die Meeresbrise oft frisch ist.",
             "hu": "Tegyen egy kényelmes sétát a bájos strandkabinokkal szegélyezett ikonikus sétányon, és ne felejtsen el könnyű kabátot csomagolni, mert a tengeri szellő gyakran hűvös.",
             "ro": "Faceți o plimbare lejeră de-a lungul acestei promenade emblematice mărginite de cabine de plajă fermecătoare și nu uitați să împachetați o jachetă ușoară.",
-            "en": "Take a leisurely walk along this iconic promenade lined with charming beach cabins, and don't forget to pack a light jacket as the sea breeze is often crisp."
+            "en": "Take a leisurely walk along this iconic promenade lined with charming beach cabins, and don't forget to pack a light jacket as the sea breeze is often crisp.",
+            "fr": "Faites une promenade tranquille le long de cette promenade emblématique bordée de cabines de plage charmantes, et n’oubliez pas une légère veste car la brise marine est souvent fraîche."
           }
         },
         {
@@ -136,7 +146,8 @@
             "de": "Piscine de mer de Granville",
             "hu": "Piscine de mer de Granville",
             "ro": "Piscine de mer de Granville",
-            "en": "Piscine de mer de Granville"
+            "en": "Piscine de mer de Granville",
+            "fr": "Piscine de mer de Granville"
           },
           "coords": [
             -1.596673,
@@ -151,7 +162,8 @@
             "de": "Bewundern Sie dieses einzigartige Gezeiten-Schwimmbecken, das direkt in die Felsen gebaut wurde, und prüfen Sie vorab den Gezeitenplan, um es gefüllt zu sehen.",
             "hu": "Csodálja meg ezt az egyedülálló, közvetlenül a sziklákba épített árapályos úszómedencét, és előtte feltétlenül ellenőrizze az árapály-naptárat, hogy tengervízzel teli láthassa.",
             "ro": "Minunați-vă de această piscină cu maree unică construită direct în stânci, asigurându-vă că verificați programul mareelor pentru a o vedea plină cu apă de mare.",
-            "en": "Marvel at this unique tidal swimming pool built directly into the rocks, making sure to check the tide schedule beforehand to see it filled with seawater."
+            "en": "Marvel at this unique tidal swimming pool built directly into the rocks, making sure to check the tide schedule beforehand to see it filled with seawater.",
+            "fr": "Admirez cette piscine de marée unique construite directement dans les rochers, en veillant à consulter le calendrier des marées au préalable pour la voir remplie d’eau de mer."
           }
         },
         {
@@ -159,7 +171,8 @@
             "de": "Musée Christian Dior",
             "hu": "Musée Christian Dior",
             "ro": "Musée Christian Dior",
-            "en": "Musée Christian Dior"
+            "en": "Musée Christian Dior",
+            "fr": "Musée Christian Dior"
           },
           "coords": [
             -1.592506,
@@ -174,7 +187,8 @@
             "de": "Spazieren Sie durch das Elternhaus des berühmten Modeschöpfers inmitten wunderschöner Klippengärten, und buchen Sie Ihre Tickets im Voraus, um Warteschlangen zu vermeiden.",
             "hu": "Sétáljon a híres divattervező szülőházában, amelyet lenyűgöző sziklafalon lévő kertek vesznek körül, és a hosszú sorban állás elkerülése érdekében előre foglaljon jegyet.",
             "ro": "Plimbați-vă prin casa copilăriei celebrului creator de modă, înconjurată de grădini rafinate pe stânci, și rezervați-vă biletele în avans pentru a evita cozile de vară.",
-            "en": "Wander through the childhood home of the famous couturier surrounded by exquisite cliffside gardens, and book your tickets in advance to avoid long summer queues."
+            "en": "Wander through the childhood home of the famous couturier surrounded by exquisite cliffside gardens, and book your tickets in advance to avoid long summer queues.",
+            "fr": "Parcourez la maison d’enfance du célèbre couturier entourée d’exquis jardins en bord de falaise, et réservez vos billets à l’avance pour éviter les longues files en été."
           }
         }
       ],
@@ -182,7 +196,8 @@
         "de": "Beginnen Sie am lebhaften Hafen, bevor Sie zum historischen Leuchtturm hinaufsteigen. Erkunden Sie die charmante Altstadt und die ikonische Notre-Dame Kirche. Genießen Sie die Belle-Époque-Promenade, das Casino und das einzigartige Gezeitenbecken. Beenden Sie den Tag in den Gärten des Dior-Museums.",
         "hu": "Kezdje a nyüzsgő kikötőben, mielőtt felmászna a történelmi világítótoronyhoz. Fedezze fel az óváros hangulatos utcáit és az ikonikus Notre-Dame templomot. Élvezze a Belle Époque sétányt, a kaszinót és az egyedülálló árapály-medencét. Fejezze be a napot a Dior múzeum gyönyörű kertjeiben.",
         "ro": "Începeți la portul plin de viață înainte de a urca la farul istoric. Explorați străzile fermecătoare ale orașului vechi și biserica emblematică Notre-Dame. Bucurați-vă de promenada Belle Époque, de cazinou și de piscina unică cu maree. Încheiați ziua explorând grădinile frumoase ale muzeului Dior.",
-        "en": "Start at the lively port before climbing up to the historic lighthouse. Explore the charming old town streets and the iconic Notre-Dame church. Enjoy the Belle Époque promenade, the casino, and the unique tidal pool. Finish your day exploring the beautiful gardens of the Dior museum."
+        "en": "Start at the lively port before climbing up to the historic lighthouse. Explore the charming old town streets and the iconic Notre-Dame church. Enjoy the Belle Époque promenade, the casino, and the unique tidal pool. Finish your day exploring the beautiful gardens of the Dior museum.",
+        "fr": "Commencez au port animé avant de monter jusqu’au phare historique. Explorez les charmantes ruelles de la vieille ville et l’iconique église Notre‑Dame. Profitez de la promenade Belle Époque, du casino et de la piscine de mer unique. Terminez votre journée par la découverte des beaux jardins du musée Dior."
       },
       "variants": {
         "rainy": {
@@ -190,7 +205,8 @@
             "de": "Der Vormittag am Hafen von Granville ist trotz Regens charmant, wenn man die Boote unter dem Schutz eines Regenschirms beobachtet. Mittags erkunden wir die historische Oberstadt, wo die Kirche Notre-Dame trockenen Zufluchtsort bietet. Der Nachmittag führt uns entlang der Uferpromenade zum Casino, ideal für eine Pause im Trockenen. Den Tag lassen wir im Christian Dior Museum ausklingen, dessen elegante Innenräume perfekt für regnerische Stunden sind.",
             "hu": "A délelőtt a kikötőben az eső ellenére is hangulatos, ha ernyő alatt figyeljük a ringó hajókat. Délben a felsőváros felé vesszük az irányt, ahol a Notre-Dame templom nyújt száraz menedéket. A délután folyamán a tengerparti sétányon haladunk a kaszinó felé, amely ideális megálló a csapadék elől. A napot a Christian Dior múzeumban zárjuk, melynek elegáns belső terei tökéletesek a borongós órákban.",
             "ro": "Dimineața în portul Granville este fermecătoare în ciuda ploii, dacă observați bărcile sub protecția unei umbrele. La prânz explorăm orașul vechi, unde biserica Notre-Dame oferă un refugiu uscat. După-amiaza ne conduce de-a lungul promenadei către cazino, ideal pentru o pauză la adăpost. Încheiem ziua la Muzeul Christian Dior, ale cărui interioare elegante sunt perfecte pentru orele ploioase.",
-            "en": "The morning at Granville harbor remains charming despite the rain, especially when watching the boats under the shelter of an umbrella. At noon, we head to the upper town where the Notre-Dame church provides a dry sanctuary. The afternoon takes us along the promenade to the casino, an ideal stop to escape the showers. We finish the day at the Christian Dior Museum, whose elegant interiors are perfect for rainy hours."
+            "en": "The morning at Granville harbor remains charming despite the rain, especially when watching the boats under the shelter of an umbrella. At noon, we head to the upper town where the Notre-Dame church provides a dry sanctuary. The afternoon takes us along the promenade to the casino, an ideal stop to escape the showers. We finish the day at the Christian Dior Museum, whose elegant interiors are perfect for rainy hours.",
+            "fr": "La matinée au port de Granville reste charmante malgré la pluie, notamment en regardant les bateaux sous un parapluie. À midi, nous montons en ville haute où l’église Notre‑Dame offre un sanctuaire sec. L’après‑midi nous longeons la promenade jusqu’au casino, un arrêt idéal pour échapper aux averses. Nous terminons la journée au Musée Christian Dior, dont les intérieurs élégants sont parfaits pour les heures pluvieuses."
           },
           "stops": [
             {
@@ -198,13 +214,15 @@
                 "de": "Port of Granville",
                 "hu": "Port of Granville",
                 "ro": "Port of Granville",
-                "en": "Port of Granville"
+                "en": "Port of Granville",
+                "fr": "Port of Granville"
               },
               "tip_5lang": {
                 "de": "Beobachten Sie das geschäftige Treiben der Fischerboote von den überdachten Hallen am Kai aus; nutzen Sie die Architektur als Regenschutz und tragen Sie rutschfeste Sohlen.",
                 "hu": "Figyelje meg a halászhajók nyüzsgését a rakpart fedett csarnokai alól; használja az épületeket esővédőként, és viseljen csúszásmentes talpú cipőt a vizes köveken.",
                 "ro": "Observați activitatea bărcilor de pescuit din halele acoperite de pe chei; folosiți arhitectura ca protecție împotriva ploii și purtați tălpi antiderapante.",
-                "en": "Watch the bustling fishing boats from the sheltered halls on the quay; use the architecture for rain cover and wear non-slip soles on the wet pavement."
+                "en": "Watch the bustling fishing boats from the sheltered halls on the quay; use the architecture for rain cover and wear non-slip soles on the wet pavement.",
+                "fr": "Observez les bateaux de pêche animés depuis les halls abrités du quai ; utilisez les bâtiments pour vous protéger de la pluie et portez des semelles antidérapantes sur le pavé mouillé."
               }
             },
             {
@@ -212,13 +230,15 @@
                 "de": "Phare du Roc",
                 "hu": "Phare du Roc",
                 "ro": "Phare du Roc",
-                "en": "Phare du Roc"
+                "en": "Phare du Roc",
+                "fr": "Phare du Roc"
               },
               "tip_5lang": {
                 "de": "Genießen Sie den dramatischen Blick auf das stürmische Meer vom windgeschützten Bereich hinter dem Turm; halten Sie den Regenschirm wegen starker Böen besonders fest.",
                 "hu": "Élvezze a viharos tenger drámai látványát a torony mögötti szélvédett részen; a viharos széllökések miatt tartsa erősen az ernyőjét a sziklafal mentén.",
                 "ro": "Bucurați-vă de vederea dramatică a mării învolburate din zona ferită de vânt din spatele turnului; țineți umbrela strâns din cauza rafalelor puternice.",
-                "en": "Enjoy the dramatic view of the stormy sea from the wind-sheltered area behind the tower; hold your umbrella firmly due to strong gusts along the cliff."
+                "en": "Enjoy the dramatic view of the stormy sea from the wind-sheltered area behind the tower; hold your umbrella firmly due to strong gusts along the cliff.",
+                "fr": "Appréciez la vue dramatique sur la mer orageuse depuis la zone abritée du vent derrière la tour ; tenez fermement votre parapluie à cause des rafales fortes le long de la falaise."
               }
             },
             {
@@ -226,13 +246,15 @@
                 "de": "Église Notre-Dame du Cap Lihou",
                 "hu": "Église Notre-Dame du Cap Lihou",
                 "ro": "Église Notre-Dame du Cap Lihou",
-                "en": "Église Notre-Dame du Cap Lihou"
+                "en": "Église Notre-Dame du Cap Lihou",
+                "fr": "Église Notre-Dame du Cap Lihou"
               },
               "tip_5lang": {
                 "de": "Bewundern Sie die düstere Granitarchitektur und nutzen Sie die Stille im Inneren, um dem Regen zu entfliehen; die dicken Mauern bieten perfekten Schutz vor Unwettern.",
                 "hu": "Csodálja meg a komor gránit architektúrát, és használja ki a benti csendet az eső elöli menekülésre; a vastag falak tökéletes védelmet nyújtanak a vihar ellen.",
                 "ro": "Admirați arhitectura sumbră din granit și folosiți liniștea din interior pentru a scăpa de ploaie; pereții groși oferă o protecție perfectă împotriva furtunii.",
-                "en": "Admire the somber granite architecture and use the silence inside to escape the rain; the thick walls provide perfect protection from the weather outside."
+                "en": "Admire the somber granite architecture and use the silence inside to escape the rain; the thick walls provide perfect protection from the weather outside.",
+                "fr": "Admirez l’architecture granitique sombre et utilisez le silence intérieur pour échapper à la pluie ; les murs épais offrent une protection parfaite contre les intempéries."
               }
             },
             {
@@ -240,13 +262,15 @@
                 "de": "Casino de Granville",
                 "hu": "Casino de Granville",
                 "ro": "Casino de Granville",
-                "en": "Casino de Granville"
+                "en": "Casino de Granville",
+                "fr": "Casino de Granville"
               },
               "tip_5lang": {
                 "de": "Nutzen Sie den prachtvollen Eingangsbereich als trockenen Aussichtspunkt auf das Meer; idealer Ort, um die Regenbekleidung kurz auszuschütteln und sich aufzuwärmen.",
                 "hu": "Használja a pompás bejárati részt száraz kilátópontként a tengerre; ideális hely az esőkabát megrázására és egy rövid pihenőre a fedett belső térben.",
                 "ro": "Folosiți intrarea splendidă ca punct de observație uscat asupra mării; este locul ideal pentru a scutura pelerina de ploaie și a vă încălzi puțin la interior.",
-                "en": "Use the grand entrance area as a dry vantage point over the sea; it is an ideal spot to shake off your raincoat and warm up in the sheltered interior."
+                "en": "Use the grand entrance area as a dry vantage point over the sea; it is an ideal spot to shake off your raincoat and warm up in the sheltered interior.",
+                "fr": "Utilisez le grand hall d’entrée comme point d’observation sec sur la mer ; c’est l’endroit idéal pour enlever votre imperméable et vous réchauffer à l’abri."
               }
             },
             {
@@ -254,13 +278,15 @@
                 "de": "Le Plat Gousset",
                 "hu": "Le Plat Gousset",
                 "ro": "Le Plat Gousset",
-                "en": "Le Plat Gousset"
+                "en": "Le Plat Gousset",
+                "fr": "Le Plat Gousset"
               },
               "tip_5lang": {
                 "de": "Spazieren Sie unter den Arkaden der Strandpromenade, um trocken zu bleiben, während die Wellen gegen die Mauer schlagen; achten Sie auf Gischt bei starkem Wind.",
                 "hu": "Sétáljon a tengerparti sétány árkádjai alatt, hogy száraz maradjon, miközben a hullámok a falnak csapódnak; erős szélben vigyázzon a felcsapó vízpermetre.",
                 "ro": "Plimbați-vă sub arcadele promenadei pentru a rămâne uscat în timp ce valurile se lovesc de zid; aveți grijă la stropii de apă în caz de vânt puternic.",
-                "en": "Walk under the arcades of the beach promenade to stay dry while waves crash against the wall; watch out for sea spray during periods of high wind."
+                "en": "Walk under the arcades of the beach promenade to stay dry while waves crash against the wall; watch out for sea spray during periods of high wind.",
+                "fr": "Marchez sous les arcades de la promenade pour rester au sec tandis que les vagues frappent le mur ; faites attention aux embruns lors de vents forts."
               }
             },
             {
@@ -268,13 +294,15 @@
                 "de": "Piscine de mer de Granville",
                 "hu": "Piscine de mer de Granville",
                 "ro": "Piscine de mer de Granville",
-                "en": "Piscine de mer de Granville"
+                "en": "Piscine de mer de Granville",
+                "fr": "Piscine de mer de Granville"
               },
               "tip_5lang": {
                 "de": "Betrachten Sie das surreale Bild des Regenwassers, das in das Salzwasserbecken fällt, vom oberen Deich aus; der asphaltierte Weg ist weniger schlammig als der Strand.",
                 "hu": "Nézze meg a sós vizes medencébe hulló esőcseppek szürreális látványát a felső gátról; az aszfaltozott út kevésbé sáros, mint a közvetlen tengerparti homok.",
                 "ro": "Priviți imaginea suprarealistă a ploii care cade în piscina cu apă sărată de pe digul superior; drumul asfaltat este mai puțin noroios decât plaja.",
-                "en": "Watch the surreal sight of raindrops falling into the saltwater pool from the upper dike; the paved path is much less muddy than the direct beach sand."
+                "en": "Watch the surreal sight of raindrops falling into the saltwater pool from the upper dike; the paved path is much less muddy than the direct beach sand.",
+                "fr": "Contemplez la vision surréaliste des gouttes de pluie tombant dans la piscine d’eau salée depuis la digue supérieure ; le chemin pavé est beaucoup moins boueux que le sable de la plage directe."
               }
             },
             {
@@ -282,13 +310,15 @@
                 "de": "Musée Christian Dior",
                 "hu": "Musée Christian Dior",
                 "ro": "Musée Christian Dior",
-                "en": "Musée Christian Dior"
+                "en": "Musée Christian Dior",
+                "fr": "Musée Christian Dior"
               },
               "tip_5lang": {
                 "de": "Verbringen Sie viel Zeit in den Ausstellungsräumen der Villa Les Rhumbs; die Garderobe bietet Platz für nasse Mäntel, sodass Sie die Mode trocken genießen können.",
                 "hu": "Töltsön hosszabb időt a Villa Les Rhumbs kiállítótereiben; a ruhatárban leadhatja vizes kabátját, így kényelmesen és szárazon csodálhatja meg a divattörténetet.",
                 "ro": "Petreceți mai mult timp în sălile de expoziție ale Vilei Les Rhumbs; garderoba primește hainele ude, astfel încât să puteți admira moda în confort și uscăciune.",
-                "en": "Spend extended time in the exhibition rooms of Villa Les Rhumbs; the cloakroom accepts wet coats, allowing you to enjoy the fashion history comfortably and dry."
+                "en": "Spend extended time in the exhibition rooms of Villa Les Rhumbs; the cloakroom accepts wet coats, allowing you to enjoy the fashion history comfortably and dry.",
+                "fr": "Passez de longues heures dans les salles d’exposition de la Villa Les Rhumbs ; le vestiaire accepte les manteaux mouillés, vous permettant de profiter de l’histoire de la mode confortablement et au sec."
               }
             }
           ]
@@ -298,7 +328,8 @@
             "de": "Der Wintermorgen in Granville ist frisch und klar, ideal für einen zügigen Gang zum Hafen. Mittags wärmen wir uns in der geschichtsträchtigen Oberstadt auf, wo die tiefstehende Sonne die Granitfassaden golden färbt. Der frühe Nachmittag gehört dem Dior-Garten, bevor die Kälte anzieht. Da es bereits gegen 17:00 Uhr dunkel wird, nutzen wir die Dämmerung für einen stimmungsvollen Abschluss am Casino, wenn die Lichter der Stadt angehen.",
             "hu": "A téli reggel Granville-ben friss és tiszta, ideális egy élénk sétához a kikötőben. Napközben a történelmi felsővárosban melegedünk fel, ahol az alacsonyan járó nap aranyba öltözteti a gránit homlokzatokat. A kora délutánt a Dior-kertben töltjük, mielőtt lehűlne a levegő. Mivel 17:00 körül sötétedik, a szürkületet a kaszinónál töltjük, miközben kigyúlnak a város esti fényei.",
             "ro": "Dimineața de iarnă în Granville este proaspătă și senină, ideală pentru o plimbare revigorantă în port. La prânz ne încălzim în orașul vechi, unde soarele palid colorează fațadele de granit în nuanțe aurii. Prima parte a după-amiezii aparține grădinilor Dior, înainte ca frigul să se intensifice. Deoarece se întunecă în jur de ora 17:00, profităm de amurg pentru un final atmosferic lângă cazino.",
-            "en": "A winter morning in Granville is crisp and clear, perfect for a brisk walk to the harbor. At midday, we warm up in the historic upper town, where the low sun paints the granite facades in golden hues. Early afternoon is spent in the Dior gardens before the temperature drops. Since it gets dark around 17:00, we use the twilight for an atmospheric finish at the casino as the city lights come on."
+            "en": "A winter morning in Granville is crisp and clear, perfect for a brisk walk to the harbor. At midday, we warm up in the historic upper town, where the low sun paints the granite facades in golden hues. Early afternoon is spent in the Dior gardens before the temperature drops. Since it gets dark around 17:00, we use the twilight for an atmospheric finish at the casino as the city lights come on.",
+            "fr": "Une matinée d’hiver à Granville est fraîche et claire, parfaite pour une marche tonique jusqu’au port. À midi, nous nous réchauffons dans la ville haute historique, où le soleil bas dore les façades granitiques. Le début d’après‑midi se passe dans les jardins Dior avant que la température ne baisse. Comme il fait nuit vers 17:00, nous utilisons le crépuscule pour une fin d’escapade atmosphérique au casino lorsque les lumières de la ville s’allument."
           },
           "stops": [
             {
@@ -306,13 +337,15 @@
                 "de": "Port of Granville",
                 "hu": "Port of Granville",
                 "ro": "Port of Granville",
-                "en": "Port of Granville"
+                "en": "Port of Granville",
+                "fr": "Port of Granville"
               },
               "tip_5lang": {
                 "de": "Genießen Sie die klare Winterluft und die Ruhe im Hafen ohne die Touristenmassen; tragen Sie winddichte Kleidung gegen die beißende Brise vom offenen Meer.",
                 "hu": "Élvezze a tiszta téli levegőt és a kikötő nyugalmát a turistatömeg nélkül; viseljen szélálló ruházatot a nyílt tenger felől érkező csípős szél ellen.",
                 "ro": "Bucurați-vă de aerul curat de iarnă și de liniștea portului fără mulțimile de turiști; purtați haine rezistente la vânt împotriva brizelor tăioase din larg.",
-                "en": "Enjoy the crisp winter air and the harbor's tranquility without the tourist crowds; wear windproof clothing against the biting breeze from the open sea."
+                "en": "Enjoy the crisp winter air and the harbor's tranquility without the tourist crowds; wear windproof clothing against the biting breeze from the open sea.",
+                "fr": "Profitez de l’air vif de l’hiver et de la tranquillité du port sans la foule touristique ; portez des vêtements coupe‑vent contre la brise mordante venue de la mer ouverte."
               }
             },
             {
@@ -320,13 +353,15 @@
                 "de": "Phare du Roc",
                 "hu": "Phare du Roc",
                 "ro": "Phare du Roc",
-                "en": "Phare du Roc"
+                "en": "Phare du Roc",
+                "fr": "Phare du Roc"
               },
               "tip_5lang": {
                 "de": "Beobachten Sie das faszinierende Licht des Winters über dem Atlantik; Handschuhe sind hier oben unerlässlich, da der Wind an der Felsspitze besonders kalt weht.",
                 "hu": "Figyelje meg az Atlanti-óceán felett elterülő lenyűgöző téli fényeket; a kesztyű elengedhetetlen itt fent, mivel a szikla csúcsán különösen hidegen fúj a szél.",
                 "ro": "Observați lumina fascinantă a iernii deasupra Atlanticului; mănușile sunt esențiale aici sus, deoarece vântul bate deosebit de rece la vârful stâncii.",
-                "en": "Observe the fascinating winter light over the Atlantic; gloves are essential up here, as the wind blows particularly cold at the tip of the rock cliff."
+                "en": "Observe the fascinating winter light over the Atlantic; gloves are essential up here, as the wind blows particularly cold at the tip of the rock cliff.",
+                "fr": "Observez la lumière hivernale fascinante sur l’Atlantique ; des gants sont essentiels ici, car le vent souffle particulièrement froid au bout du promontoire rocheux."
               }
             },
             {
@@ -334,13 +369,15 @@
                 "de": "Église Notre-Dame du Cap Lihou",
                 "hu": "Église Notre-Dame du Cap Lihou",
                 "ro": "Église Notre-Dame du Cap Lihou",
-                "en": "Église Notre-Dame du Cap Lihou"
+                "en": "Église Notre-Dame du Cap Lihou",
+                "fr": "Église Notre-Dame du Cap Lihou"
               },
               "tip_5lang": {
                 "de": "Suchen Sie Zuflucht im stillen Kirchenschiff, das eine willkommene Pause von der Winterkälte bietet; die dicken Granitmauern halten die ärgsten Fröste draußen.",
                 "hu": "Keressen menedéket a csendes templomhajóban, amely üdvözlendő pihenőt nyújt a téli hideg elől; a vastag gránitfalak távol tartják a legzordabb fagyokat is.",
                 "ro": "Căutați refugiu în nava liniștită a bisericii, care oferă o pauză binevenită de frigul iernii; pereții groși de granit țin la distanță cele mai aspre înghețuri.",
-                "en": "Seek refuge in the silent nave, which offers a welcome break from the winter cold; the thick granite walls keep the harshest frosts at bay outside."
+                "en": "Seek refuge in the silent nave, which offers a welcome break from the winter cold; the thick granite walls keep the harshest frosts at bay outside.",
+                "fr": "Recherchez refuge dans la nef silencieuse, qui offre une bienvenue pause contre le froid hivernal ; les murs épais de granit gardent les pires gelées à l’extérieur."
               }
             },
             {
@@ -348,13 +385,15 @@
                 "de": "Casino de Granville",
                 "hu": "Casino de Granville",
                 "ro": "Casino de Granville",
-                "en": "Casino de Granville"
+                "en": "Casino de Granville",
+                "fr": "Casino de Granville"
               },
               "tip_5lang": {
                 "de": "Bewundern Sie die festliche Beleuchtung des Gebäudes in der frühen Dämmerung; das beheizte Foyer ist perfekt, um die kalten Glieder vor dem Weitergehen aufzuwärmen.",
                 "hu": "Csodálja meg az épület ünnepi kivilágítását a korai szürkületben; a fűtött előcsarnok tökéletes a megfagyott végtagok felmelegítésére a továbbindulás előtt.",
                 "ro": "Admirați iluminatul festiv al clădirii în amurgul timpuriu; holul încălzit este perfect pentru a vă încălzi membrele înghețate înainte de a merge mai departe.",
-                "en": "Admire the festive lighting of the building in the early twilight; the heated foyer is perfect for warming up frozen limbs before continuing your walk."
+                "en": "Admire the festive lighting of the building in the early twilight; the heated foyer is perfect for warming up frozen limbs before continuing your walk.",
+                "fr": "Admirez l’éclairage festif du bâtiment au crépuscule ; le foyer chauffé est parfait pour réchauffer des membres engourdis avant de poursuivre votre promenade."
               }
             },
             {
@@ -362,13 +401,15 @@
                 "de": "Le Plat Gousset",
                 "hu": "Le Plat Gousset",
                 "ro": "Le Plat Gousset",
-                "en": "Le Plat Gousset"
+                "en": "Le Plat Gousset",
+                "fr": "Le Plat Gousset"
               },
               "tip_5lang": {
                 "de": "Genießen Sie den einsamen Strandspaziergang und die raue Schönheit der Wintersee; festes Schuhwerk ist wichtig, da die Promenade stellenweise überfroren sein kann.",
                 "hu": "Élvezze a magányos tengerparti sétát és a téli tenger zord szépségét; a stabil lábbeli fontos, mivel a sétány helyenként jeges és csúszós lehet.",
                 "ro": "Bucurați-vă de plimbarea solitară pe plajă și de frumusețea aspră a mării iarna; încălțămintea stabilă este importantă, deoarece faleza poate fi înghețată.",
-                "en": "Enjoy the solitary beach walk and the raw beauty of the winter sea; sturdy footwear is important as the promenade may be icy or slippery in patches."
+                "en": "Enjoy the solitary beach walk and the raw beauty of the winter sea; sturdy footwear is important as the promenade may be icy or slippery in patches.",
+                "fr": "Profitez d’une promenade solitaire sur la plage et de la beauté brute de la mer d’hiver ; des chaussures solides sont importantes car la promenade peut être verglacée ou glissante par endroits."
               }
             },
             {
@@ -376,13 +417,15 @@
                 "de": "Piscine de mer de Granville",
                 "hu": "Piscine de mer de Granville",
                 "ro": "Piscine de mer de Granville",
-                "en": "Piscine de mer de Granville"
+                "en": "Piscine de mer de Granville",
+                "fr": "Piscine de mer de Granville"
               },
               "tip_5lang": {
                 "de": "Das leere Becken wirkt im Winterlicht fast wie eine Skulptur; kommen Sie kurz vor Sonnenuntergang für die besten Fotos, aber achten Sie auf die schnelle Abkühlung.",
                 "hu": "Az üres medence a téli fényben szinte szoborszerűnek hat; jöjjön röviddel naplemente előtt a legjobb fotókért, de készüljön fel a gyors lehűlésre.",
                 "ro": "Piscina goală pare aproape o sculptură în lumina iernii; veniți cu puțin timp înainte de apus pentru cele mai bune fotografii, dar atenție la răcirea rapidă.",
-                "en": "The empty pool looks almost sculptural in the winter light; visit shortly before sunset for the best photos, but be prepared for the rapid drop in temperature."
+                "en": "The empty pool looks almost sculptural in the winter light; visit shortly before sunset for the best photos, but be prepared for the rapid drop in temperature.",
+                "fr": "La piscine vide semble presque sculpturale sous la lumière hivernale ; visitez peu avant le coucher du soleil pour les meilleures photos, mais préparez‑vous à la chute rapide de la température."
               }
             },
             {
@@ -390,13 +433,15 @@
                 "de": "Musée Christian Dior",
                 "hu": "Musée Christian Dior",
                 "ro": "Musée Christian Dior",
-                "en": "Musée Christian Dior"
+                "en": "Musée Christian Dior",
+                "fr": "Musée Christian Dior"
               },
               "tip_5lang": {
                 "de": "Nutzen Sie den Museumsbesuch als wohlig warmen Höhepunkt des Tages; der Garten bietet auch im Winter Struktur, aber die Innenräume sind der beste Ort bei Frost.",
                 "hu": "Használja ki a múzeumlátogatást a nap melengető csúcspontjaként; a kert télen is szép szerkezetű, de a fagyos időben a belső terek nyújtják a legnagyobb élményt.",
                 "ro": "Folosiți vizita la muzeu ca punct culminant al zilei pentru a vă încălzi; grădina are structură și iarna, dar interioarele sunt cel mai bun loc pe timp de îngheț.",
-                "en": "Use the museum visit as the cozy, warm highlight of your day; the garden retains its structure in winter, but the interiors are the best place during frost."
+                "en": "Use the museum visit as the cozy, warm highlight of your day; the garden retains its structure in winter, but the interiors are the best place during frost.",
+                "fr": "Faites de la visite du musée le moment chaleureux et douillet de votre journée ; le jardin garde sa structure en hiver, mais l’intérieur est l’endroit idéal pendant les gelées."
               }
             }
           ]
@@ -416,7 +461,8 @@
             "de": "Port of Granville",
             "hu": "Port of Granville",
             "ro": "Port of Granville",
-            "en": "Port of Granville"
+            "en": "Port of Granville",
+            "fr": "Port de Granville"
           },
           "coords": [
             -1.59879,
@@ -431,7 +477,8 @@
             "de": "Schlendern Sie durch den historischen Hafen, beobachten Sie die traditionellen Fischerboote und das rege Treiben, und besuchen Sie den morgendlichen Fischmarkt.",
             "hu": "Sétáljon végig a történelmi kikötőn, figyelve a hagyományos halászhajókat és a nyüzsgő tevékenységet, és érdemes kora reggel meglátogatni a halpiacot.",
             "ro": "Plimbați-vă de-a lungul portului istoric, observând bărcile tradiționale de pescuit și activitatea plină de viață, și vizitați piața de pește de dimineață.",
-            "en": "Stroll along the historic port, observing the traditional fishing boats and bustling activity, and consider visiting the early morning fish market for the freshest catch."
+            "en": "Stroll along the historic port, observing the traditional fishing boats and bustling activity, and consider visiting the early morning fish market for the freshest catch.",
+            "fr": "Promenez‑vous le long du port historique, observez les bateaux de pêche traditionnels et l’activité animée, et songez à visiter le marché aux poissons tôt le matin pour le poisson le plus frais."
           }
         },
         {
@@ -439,7 +486,8 @@
             "de": "Phare du Roc",
             "hu": "Phare du Roc",
             "ro": "Phare du Roc",
-            "en": "Phare du Roc"
+            "en": "Phare du Roc",
+            "fr": "Phare du Roc"
           },
           "coords": [
             -1.609388,
@@ -454,7 +502,8 @@
             "de": "Bewundern Sie die atemberaubende Aussicht von diesem historischen Leuchtturm auf dem Felsvorsprung, aber halten Sie Ihren Hut fest, da es hier sehr windig werden kann.",
             "hu": "Csodálja meg a sziklás hegyfokon magasodó történelmi világítótorony lenyűgöző panorámáját, de fogja meg a kalapját, mert itt eléggé szeles az idő.",
             "ro": "Admirați priveliștile panoramice uimitoare de la acest far istoric cocoțat pe promontoriul stâncos, dar țineți-vă pălăria, deoarece aici poate fi destul de vânt.",
-            "en": "Admire the stunning panoramic views from this historic lighthouse perched on the rocky promontory, but hold onto your hat as it can get quite windy here."
+            "en": "Admire the stunning panoramic views from this historic lighthouse perched on the rocky promontory, but hold onto your hat as it can get quite windy here.",
+            "fr": "Admirez la vue panoramique superbe depuis ce phare historique perché sur le promontoire rocheux, mais accrochez‑vous à votre chapeau car il peut y faire très venteux."
           }
         },
         {
@@ -462,7 +511,8 @@
             "de": "Église Notre-Dame du Cap Lihou",
             "hu": "Église Notre-Dame du Cap Lihou",
             "ro": "Église Notre-Dame du Cap Lihou",
-            "en": "Église Notre-Dame du Cap Lihou"
+            "en": "Église Notre-Dame du Cap Lihou",
+            "fr": "Église Notre‑Dame du Cap Lihou"
           },
           "coords": [
             -1.60503,
@@ -477,7 +527,8 @@
             "de": "Erkunden Sie die Granitarchitektur dieser Kirche und achten Sie besonders auf die Buntglasfenster, die den Innenraum in buntes Licht tauchen.",
             "hu": "Fedezze fel ennek a gyönyörű templomnak a lenyűgöző gránit építészetét, különös figyelmet fordítva a pompás ólomüveg ablakokra, amelyek színes fényben fürdetik a belsőt.",
             "ro": "Explorați arhitectura impresionantă din granit a acestei biserici, acordând o atenție deosebită vitraliilor rafinate care scaldă interiorul în lumină colorată.",
-            "en": "Explore the striking granite architecture of this beautiful church, paying special attention to its exquisite stained glass windows that bathe the interior in colorful light."
+            "en": "Explore the striking granite architecture of this beautiful church, paying special attention to its exquisite stained glass windows that bathe the interior in colorful light.",
+            "fr": "Explorez l’architecture de granit saisissante de cette belle église, en portant une attention particulière à ses vitraux exquis qui baignent l’intérieur d’une lumière colorée."
           }
         },
         {
@@ -485,7 +536,8 @@
             "de": "Musée Christian Dior",
             "hu": "Musée Christian Dior",
             "ro": "Musée Christian Dior",
-            "en": "Musée Christian Dior"
+            "en": "Musée Christian Dior",
+            "fr": "Musée Christian Dior"
           },
           "coords": [
             -1.592506,
@@ -500,7 +552,8 @@
             "de": "Spazieren Sie durch das Elternhaus des berühmten Modeschöpfers inmitten wunderschöner Klippengärten, und buchen Sie Ihre Tickets im Voraus, um Warteschlangen zu vermeiden.",
             "hu": "Sétáljon a híres divattervező szülőházában, amelyet lenyűgöző sziklafalon lévő kertek vesznek körül, és a hosszú sorban állás elkerülése érdekében előre foglaljon jegyet.",
             "ro": "Plimbați-vă prin casa copilăriei celebrului creator de modă, înconjurată de grădini rafinate pe stânci, și rezervați-vă biletele în avans pentru a evita cozile de vară.",
-            "en": "Wander through the childhood home of the famous couturier surrounded by exquisite cliffside gardens, and book your tickets in advance to avoid long summer queues."
+            "en": "Wander through the childhood home of the famous couturier surrounded by exquisite cliffside gardens, and book your tickets in advance to avoid long summer queues.",
+            "fr": "Parcourez la maison d’enfance du célèbre couturier entourée de jardins cliffside exquis, et réservez vos billets à l’avance pour éviter les longues files en été."
           }
         },
         {
@@ -508,7 +561,8 @@
             "de": "Plage surveillée de l'Ermitage",
             "hu": "Plage surveillée de l'Ermitage",
             "ro": "Plage surveillée de l'Ermitage",
-            "en": "Plage surveillée de l'Ermitage"
+            "en": "Plage surveillée de l'Ermitage",
+            "fr": "Plage surveillée de l'Ermitage"
           },
           "coords": [
             -1.585481,
@@ -523,7 +577,8 @@
             "de": "Genießen Sie einen friedlichen Nachmittag an diesem überwachten, feinsandigen Strand und bringen Sie Ihren eigenen Sonnenschirm mit, da es nur wenig natürlichen Schatten gibt.",
             "hu": "Élvezze a békés délutánt ezen a felügyelt, finom homokos strandon, és hozzon magával saját napernyőt, mivel nagyon kevés a természetes árnyékos terület.",
             "ro": "Bucurați-vă de o după-amiază liniștită pe această plajă supravegheată cu nisip fin, aducând propria umbrelă, deoarece există foarte puține zone naturale umbrite.",
-            "en": "Enjoy a peaceful afternoon on this supervised, fine-sand beach, bringing along your own parasol as there are very few natural shaded areas available for resting."
+            "en": "Enjoy a peaceful afternoon on this supervised, fine-sand beach, bringing along your own parasol as there are very few natural shaded areas available for resting.",
+            "fr": "Profitez d’un après‑midi paisible sur cette plage de sable fin surveillée, en emportant votre propre parasol car il y a très peu d’ombre naturelle pour se reposer."
           }
         },
         {
@@ -531,7 +586,8 @@
             "de": "Plage de Donville",
             "hu": "Plage de Donville",
             "ro": "Plage de Donville",
-            "en": "Plage de Donville"
+            "en": "Plage de Donville",
+            "fr": "Plage de Donville"
           },
           "coords": [
             -1.578161,
@@ -546,7 +602,8 @@
             "de": "Spazieren Sie an diesem weitläufigen und weniger überlaufenen Strand, ideal zum Muschelsammeln, aber tragen Sie geeignetes Schuhwerk für die gelegentlichen Kieselabschnitte.",
             "hu": "Sétáljon ezen a tágas és kevésbé zsúfolt strandon, amely ideális kagylógyűjtésre, bár érdemes megfelelő lábbelit viselni a kavicsos részek kényelmes bejárásához.",
             "ro": "Plimbați-vă pe această plajă întinsă și mai puțin aglomerată, ideală pentru a găsi scoici, deși ar trebui să purtați încălțăminte adecvată pentru a naviga confortabil secțiunile cu pietriș.",
-            "en": "Stroll along this expansive and less crowded beach ideal for finding seashells, though you should wear suitable footwear to navigate the occasional pebbly sections comfortably."
+            "en": "Stroll along this expansive and less crowded beach ideal for finding seashells, though you should wear suitable footwear to navigate the occasional pebbly sections comfortably.",
+            "fr": "Promenez‑vous le long de cette plage vaste et moins fréquentée, idéale pour chercher des coquillages, mais portez des chaussures adaptées pour franchir confortablement les sections parfois caillouteuses."
           }
         },
         {
@@ -554,7 +611,8 @@
             "de": "Plage d'Hacqueville",
             "hu": "Plage d'Hacqueville",
             "ro": "Plage d'Hacqueville",
-            "en": "Plage d'Hacqueville"
+            "en": "Plage d'Hacqueville",
+            "fr": "Plage d'Hacqueville"
           },
           "coords": [
             -1.583997,
@@ -569,7 +627,8 @@
             "de": "Entdecken Sie dieses versteckte Juwel eines Strandes unterhalb der Klippen, und besuchen Sie ihn bei Ebbe, um die dramatische Küstenlandschaft voll zu würdigen.",
             "hu": "Fedezze fel a sziklák alatt megbúvó strand e rejtett gyöngyszemét, és feltétlenül apálykor látogasson el ide, hogy teljes mértékben értékelhesse a drámai parti tájat.",
             "ro": "Descoperiți această bijuterie ascunsă de plajă situată sub stânci, asigurându-vă că o vizitați în timpul refluxului pentru a aprecia pe deplin peisajul de coastă dramatic.",
-            "en": "Discover this hidden gem of a beach nestled below the cliffs, ensuring you visit during low tide to fully appreciate the dramatic coastal scenery and rock formations."
+            "en": "Discover this hidden gem of a beach nestled below the cliffs, ensuring you visit during low tide to fully appreciate the dramatic coastal scenery and rock formations.",
+            "fr": "Découvrez ce trésor caché de plage nichée au pied des falaises, en veillant à la visiter à marée basse pour apprécier pleinement le paysage côtier dramatique et les formations rocheuses."
           }
         }
       ],
@@ -577,7 +636,8 @@
         "de": "Fahren Sie vom historischen Hafen zum felsigen Vorgebirge und Leuchtturm. Radeln Sie durch das historische Zentrum und besuchen Sie die Dior-Museumsgärten. Treten Sie entlang der malerischen Küste zu den Sandstränden von Donville. Beenden Sie Ihre Radtour mit einem Küstensonnenuntergang in Hacqueville.",
         "hu": "Tekerjen a történelmi kikötőtől a sziklás hegyfokig és a világítótoronyig. Kerékpározzon át a történelmi központon, és látogassa meg a Dior múzeum kertjeit. Pedálozzon a festői part mentén Donville gyönyörű homokos strandjai felé. Zárja a túrát egy látványos tengerparti naplementével Hacqueville-ben.",
         "ro": "Mergeți de la portul istoric până la promontoriul stâncos și far. Ciclati prin centrul istoric și vizitați frumoasele grădini ale muzeului Dior. Pedalați de-a lungul coastei pitorești spre plajele cu nisip din Donville. Încheiați turul cu un apus de soare spectaculos la Hacqueville.",
-        "en": "Ride from the historic port up to the rocky promontory and lighthouse. Cycle through the historic center and visit the beautiful Dior museum gardens. Pedal along the scenic coast towards the beautiful sandy beaches of Donville. Conclude your bike tour with a spectacular coastal sunset at Hacqueville."
+        "en": "Ride from the historic port up to the rocky promontory and lighthouse. Cycle through the historic center and visit the beautiful Dior museum gardens. Pedal along the scenic coast towards the beautiful sandy beaches of Donville. Conclude your bike tour with a spectacular coastal sunset at Hacqueville.",
+        "fr": "Montez depuis le port historique jusqu’au promontoire rocheux et au phare. Pédalez à travers le centre historique et visitez les beaux jardins du musée Dior. Roulez le long de la côte pittoresque vers les belles plages de sable de Donville. Concluez votre parcours à vélo par un spectaculaire coucher de soleil côtier à Hacqueville."
       },
       "variants": {
         "rainy": {
@@ -585,7 +645,8 @@
             "de": "Eine Radtour im Regen durch Granville erfordert gute Ausrüstung, bietet aber leere Wege und eine frische Brise. Vom Hafen aus radeln wir zum Phare du Roc, wobei wir auf rutschigen Untergrund achten. Mittags bietet die Kirche Notre-Dame eine Pause im Trockenen. Nachmittags erkunden wir die Strände der Umgebung, wobei die weite Sicht auf das graue Meer eine ganz eigene, nordische Ästhetik besitzt.",
             "hu": "Egy esős kerékpártúra Granville-ben jó felszerelést igényel, de cserébe üres utakat és friss szellőt kínál. A kikötőből a Phare du Roc felé tekerünk, ügyelve a csúszós szakaszokra. Délben a Notre-Dame templom nyújt száraz pihenőt. Délután a környező strandokat fedezzük fel, ahol a szürke tenger látványa különleges, északi esztétikát áraszt.",
             "ro": "O tură cu bicicleta prin ploaie în Granville necesită echipament bun, dar oferă drumuri libere și o briză proaspătă. Din port pedalăm spre Phare du Roc, fiind atenți la suprafețele alunecoase. La prânz, biserica Notre-Dame oferă o pauză la uscat. După-amiaza explorăm plajele din jur, unde vederea mării cenușii are o estetică nordică aparte.",
-            "en": "A rainy bike tour through Granville requires good gear but offers empty paths and a fresh breeze. From the harbor, we cycle to Phare du Roc, staying alert on slippery sections. At noon, the Notre-Dame church provides a dry break. The afternoon is spent exploring nearby beaches, where the view of the gray sea possesses a unique, Nordic aesthetic."
+            "en": "A rainy bike tour through Granville requires good gear but offers empty paths and a fresh breeze. From the harbor, we cycle to Phare du Roc, staying alert on slippery sections. At noon, the Notre-Dame church provides a dry break. The afternoon is spent exploring nearby beaches, where the view of the gray sea possesses a unique, Nordic aesthetic.",
+            "fr": "Une randonnée à vélo sous la pluie à Granville exige un bon équipement mais offre des chemins déserts et une brise fraîche. Depuis le port, nous allons au Phare du Roc, en restant vigilants sur les sections glissantes. À midi, l’église Notre‑Dame offre une pause au sec. L’après‑midi est consacré à l’exploration des plages voisines, où la vue sur la mer grise possède une esthétique nordique unique."
           },
           "stops": [
             {
@@ -593,13 +654,15 @@
                 "de": "Port of Granville",
                 "hu": "Port of Granville",
                 "ro": "Port of Granville",
-                "en": "Port of Granville"
+                "en": "Port of Granville",
+                "fr": "Port de Granville"
               },
               "tip_5lang": {
                 "de": "Prüfen Sie Ihre Bremsen vor dem Start im Regen; die Markierungen am Hafen können bei Nässe sehr rutschig sein, fahren Sie also besonders vorsichtig an den Kais.",
                 "hu": "Indulás előtt ellenőrizze a fékeket az esőben; a kikötői útburkolati jelek vizesen nagyon csúszhatnak, ezért fokozott óvatossággal közlekedjen a rakparton.",
                 "ro": "Verificați frânele înainte de a porni prin ploaie; marcajele din port pot fi foarte alunecoase când sunt ude, deci pedalați cu prudență sporită pe chei.",
-                "en": "Check your brakes before starting in the rain; harbor road markings can be very slippery when wet, so ride with extra caution along the quaysides."
+                "en": "Check your brakes before starting in the rain; harbor road markings can be very slippery when wet, so ride with extra caution along the quaysides.",
+                "fr": "Vérifiez vos freins avant de partir sous la pluie ; le marquage routier du port peut être très glissant lorsqu’il est mouillé, donc roulez avec une prudence accrue le long des quais."
               }
             },
             {
@@ -607,13 +670,15 @@
                 "de": "Phare du Roc",
                 "hu": "Phare du Roc",
                 "ro": "Phare du Roc",
-                "en": "Phare du Roc"
+                "en": "Phare du Roc",
+                "fr": "Phare du Roc"
               },
               "tip_5lang": {
                 "de": "Der Anstieg zum Leuchtturm ist bei Regen anstrengend, aber die Sicht auf die Brandung belohnt Sie; achten Sie auf starke Seitenwinde beim Radfahren an der Klippe.",
                 "hu": "Az esőben való felkapaszkodás a világítótoronyhoz fárasztó, de a hullámtörés látványa kárpótolja; figyeljen az erős oldalszélre a szikla menti kerékpározáskor.",
                 "ro": "Urcarea la far prin ploaie este obositoare, dar vederea valurilor care se sparg merită efortul; atenție la vântul lateral puternic când pedalați pe faleză.",
-                "en": "The climb to the lighthouse in the rain is tiring, but the view of the crashing surf rewards you; watch out for strong crosswinds while cycling near the cliff."
+                "en": "The climb to the lighthouse in the rain is tiring, but the view of the crashing surf rewards you; watch out for strong crosswinds while cycling near the cliff.",
+                "fr": "La montée vers le phare sous la pluie est fatigante, mais la vue sur les vagues déferlantes vous récompense ; méfiez‑vous des rafales de vent latérales en roulant près de la falaise."
               }
             },
             {
@@ -621,13 +686,15 @@
                 "de": "Église Notre-Dame du Cap Lihou",
                 "hu": "Église Notre-Dame du Cap Lihou",
                 "ro": "Église Notre-Dame du Cap Lihou",
-                "en": "Église Notre-Dame du Cap Lihou"
+                "en": "Église Notre-Dame du Cap Lihou",
+                "fr": "Église Notre‑Dame du Cap Lihou"
               },
               "tip_5lang": {
                 "de": "Stellen Sie Ihr Rad an einem geschützten Ort nahe der Mauer ab und nutzen Sie die Kirche zum Aufwärmen; der Innenraum ist der perfekte Ort, um die Regenjacke zu trocknen.",
                 "hu": "Támassza le kerékpárját egy védett helyen a fal közelében, és használja a templomot melegedésre; a belső tér tökéletes hely az esőkabát rövid szárítására.",
                 "ro": "Parcați bicicleta într-un loc protejat lângă zid și folosiți biserica pentru a vă încălzi; interiorul este locul perfect pentru a vă usca puțin pelerina de ploaie.",
-                "en": "Park your bike in a sheltered spot near the wall and use the church to warm up; the interior is the perfect place to let your raincoat dry for a few minutes."
+                "en": "Park your bike in a sheltered spot near the wall and use the church to warm up; the interior is the perfect place to let your raincoat dry for a few minutes.",
+                "fr": "Garez votre vélo à l’abri près du mur et utilisez l’église pour vous réchauffer ; l’intérieur est l’endroit parfait pour laisser sécher votre imperméable quelques minutes."
               }
             },
             {
@@ -635,13 +702,15 @@
                 "de": "Musée Christian Dior",
                 "hu": "Musée Christian Dior",
                 "ro": "Musée Christian Dior",
-                "en": "Musée Christian Dior"
+                "en": "Musée Christian Dior",
+                "fr": "Musée Christian Dior"
               },
               "tip_5lang": {
                 "de": "Nutzen Sie die Fahrradständer am Eingang und planen Sie einen langen Aufenthalt ein, um den Regen auszusitzen; die Villa bietet Schutz und Kultur unter einem Dach.",
                 "hu": "Használja a bejáratnál lévő kerékpártárolókat, és tervezzen hosszú látogatást az eső átvészelésére; a villa védelmet és kultúrát kínál egy fedél alatt.",
                 "ro": "Folosiți rastelele de biciclete de la intrare și planificați o vizită lungă pentru a lăsa ploaia să treacă; vila oferă protecție și cultură sub același acoperiș.",
-                "en": "Utilize the bike racks at the entrance and plan a long visit to wait out the rain; the villa offers protection and high culture under a single roof."
+                "en": "Utilize the bike racks at the entrance and plan a long visit to wait out the rain; the villa offers protection and high culture under a single roof.",
+                "fr": "Profitez des arceaux à vélos à l’entrée et prévoyez une longue visite pour attendre la fin de la pluie ; la villa offre protection et haute culture sous un même toit."
               }
             },
             {
@@ -649,13 +718,15 @@
                 "de": "Plage surveillée de l'Ermitage",
                 "hu": "Plage surveillée de l'Ermitage",
                 "ro": "Plage surveillée de l'Ermitage",
-                "en": "Plage surveillée de l'Ermitage"
+                "en": "Plage surveillée de l'Ermitage",
+                "fr": "Plage surveillée de l'Ermitage"
               },
               "tip_5lang": {
                 "de": "Die Küstenstraße bietet bei Regen eine dramatische Kulisse; bleiben Sie auf dem asphaltierten Weg, da der sandige Zugang zum Strand bei Nässe sehr weich wird.",
                 "hu": "A partmenti út esőben drámai hátteret nyújt; maradjon az aszfaltozott úton, mivel a homokos lejárat a strandhoz vizesen nagyon felpuhulhat és csúszós lehet.",
                 "ro": "Drumul de coastă oferă un decor dramatic pe ploaie; rămâneți pe drumul asfaltat, deoarece accesul cu nisip spre plajă devine foarte moale când este ud.",
-                "en": "The coastal road offers a dramatic backdrop in the rain; stay on the paved path as the sandy access to the beach becomes very soft and muddy when wet."
+                "en": "The coastal road offers a dramatic backdrop in the rain; stay on the paved path as the sandy access to the beach becomes very soft and muddy when wet.",
+                "fr": "La route côtière offre un décor dramatique sous la pluie ; restez sur le chemin goudronné car l’accès sableux à la plage devient très mou et boueux quand il est humide."
               }
             },
             {
@@ -663,13 +734,15 @@
                 "de": "Plage de Donville",
                 "hu": "Plage de Donville",
                 "ro": "Plage de Donville",
-                "en": "Plage de Donville"
+                "en": "Plage de Donville",
+                "fr": "Plage de Donville"
               },
               "tip_5lang": {
                 "de": "Das graue Meer wirkt hier besonders weitläufig; nutzen Sie kurze Regenpausen für einen Blick vom Rad aus und tragen Sie reflektierende Kleidung für bessere Sichtbarkeit.",
                 "hu": "A szürke tenger itt különösen tágasnak tűnik; használja ki a rövid esőszüneteket a kerékpárról való nézelődésre, és viseljen láthatósági elemeket a borús időben.",
                 "ro": "Marea cenușie pare deosebit de vastă aici; profitați de pauzele scurte de ploaie pentru a privi de pe bicicletă și purtați elemente reflectorizante pentru vizibilitate.",
-                "en": "The gray sea feels especially vast here; take advantage of short rain breaks for a view from your bike and wear reflective gear for better visibility in the gloom."
+                "en": "The gray sea feels especially vast here; take advantage of short rain breaks for a view from your bike and wear reflective gear for better visibility in the gloom.",
+                "fr": "La mer grise paraît particulièrement vaste ici ; profitez des courtes accalmies pour admirer le paysage à vélo et portez des éléments réfléchissants pour être mieux vu dans la pénombre."
               }
             },
             {
@@ -677,13 +750,15 @@
                 "de": "Plage d'Hacqueville",
                 "hu": "Plage d'Hacqueville",
                 "ro": "Plage d'Hacqueville",
-                "en": "Plage d'Hacqueville"
+                "en": "Plage d'Hacqueville",
+                "fr": "Plage d'Hacqueville"
               },
               "tip_5lang": {
                 "de": "Beenden Sie Ihre Tour zügig, wenn der Regen zunimmt; der Rückweg zum Hafen führt über exponierte Wege, auf denen Spritzschutzbleche am Rad Gold wert sind.",
                 "hu": "Fejezze be gyorsan a túrát, ha erősödik az eső; a kikötőbe visszavezető út nyitott szakaszokon halad, ahol a sárvédő aranyat ér a kerékpáron.",
                 "ro": "Încheiați turul rapid dacă ploaia se intensifică; drumul de întoarcere spre port trece prin zone expuse, unde aripile de protecție ale bicicletei sunt esențiale.",
-                "en": "Finish your tour quickly if the rain intensifies; the route back to the harbor follows exposed paths where mudguards on your bike are worth their weight in gold."
+                "en": "Finish your tour quickly if the rain intensifies; the route back to the harbor follows exposed paths where mudguards on your bike are worth their weight in gold.",
+                "fr": "Terminez rapidement votre tour si la pluie s’intensifie ; le trajet de retour vers le port suit des chemins exposés où les garde‑boue de votre vélo valent leur pesant d’or."
               }
             }
           ]
@@ -693,7 +768,8 @@
             "de": "Winterliches Radfahren in Granville bietet klare Aussichten und eine erfrischende Kälte. Wir starten am Hafen und folgen der Küste zum Leuchtturm, wobei die tiefstehende Sonne lange Schatten wirft. Mittags dient die Oberstadt als windgeschützter Stopp. Der Nachmittag führt uns zu den einsamen Stränden von Donville, bevor die Temperaturen bei Sonnenuntergang gegen 17:00 Uhr drastisch sinken und wir die Fahrt beenden.",
             "hu": "A téli kerékpározás Granville-ben tiszta kilátást és frissítő hideget kínál. A kikötőből indulunk, és a part mentén haladunk a világítótorony felé, miközben az alacsony nap hosszú árnyékokat vet. Délben a felsőváros szélvédett megállóként szolgál. Délután Donville magányos strandjai felé tekerünk, mielőtt a naplemente környékén, 17:00-kor a hőmérséklet hirtelen leesne.",
             "ro": "Pedalatul iarna în Granville oferă vederi clare și un frig revigorant. Pornim din port și urmăm coasta spre far, în timp ce soarele jos lasă umbre lungi. La prânz, orașul vechi servește ca oprire ferită de vânt. După-amiaza ne îndreptăm spre plajele solitare din Donville, înainte ca temperaturile să scadă drastic la apus, în jur de ora 17:00.",
-            "en": "Winter cycling in Granville offers clear vistas and refreshing cold. We start at the harbor and follow the coast to the lighthouse as the low sun casts long shadows. At noon, the upper town serves as a wind-sheltered stop. The afternoon takes us to the lonely beaches of Donville before temperatures drop sharply around sunset at 17:00."
+            "en": "Winter cycling in Granville offers clear vistas and refreshing cold. We start at the harbor and follow the coast to the lighthouse as the low sun casts long shadows. At noon, the upper town serves as a wind-sheltered stop. The afternoon takes us to the lonely beaches of Donville before temperatures drop sharply around sunset at 17:00.",
+            "fr": "Le cyclisme hivernal à Granville offre des vues claires et un froid vivifiant. Nous partons du port et longeons la côte jusqu’au phare tandis que le soleil bas jette de longues ombres. À midi, la haute ville sert d’escale abritée du vent. L’après‑midi nous mène aux plages solitaires de Donville avant que les températures chutent brutalement vers le coucher du soleil à 17:00."
           },
           "stops": [
             {
@@ -701,13 +777,15 @@
                 "de": "Port of Granville",
                 "hu": "Port of Granville",
                 "ro": "Port of Granville",
-                "en": "Port of Granville"
+                "en": "Port of Granville",
+                "fr": "Port de Granville"
               },
               "tip_5lang": {
                 "de": "Die kalte Meeresluft ist belebend; tragen Sie mehrere Schichten Kleidung und halten Sie die Fahrtzeit kurz, um nicht auszukühlen, bevor Sie die Stadt verlassen.",
                 "hu": "A hideg tengeri levegő élénkítő; viseljen több réteg ruhát, és tartsa röviden a menetidőt, hogy ne hűljön ki túlságosan, mielőtt elhagyná a várost.",
                 "ro": "Aerul rece al mării este revigorant; purtați mai multe straturi de haine și mențineți timpul de pedalat scurt pentru a nu îngheța înainte de a părăsi orașul.",
-                "en": "The cold sea air is invigorating; wear multiple layers of clothing and keep your riding time short to avoid getting too chilled before you leave the town area."
+                "en": "The cold sea air is invigorating; wear multiple layers of clothing and keep your riding time short to avoid getting too chilled before you leave the town area.",
+                "fr": "L’air froid de la mer est revigorant ; portez plusieurs couches et gardez vos sorties courtes pour éviter d’être trop frigorifié avant de quitter la ville."
               }
             },
             {
@@ -715,13 +793,15 @@
                 "de": "Phare du Roc",
                 "hu": "Phare du Roc",
                 "ro": "Phare du Roc",
-                "en": "Phare du Roc"
+                "en": "Phare du Roc",
+                "fr": "Phare du Roc"
               },
               "tip_5lang": {
                 "de": "Der Wind auf der Klippe ist im Winter eisig; tragen Sie unbedingt eine Sturmhaube oder einen dicken Schal unter dem Helm, um Ihr Gesicht vor Frost zu schützen.",
                 "hu": "A sziklán fújó szél télen jeges; feltétlenül viseljen maszkot vagy vastag sálat a sisak alatt, hogy megvédje arcát a fagyos széllökésektől a csúcson.",
                 "ro": "Vântul de pe stâncă este ghețos iarna; purtați neapărat o cagulă sau un fular gros sub cască pentru a vă proteja fața de îngheț la înălțime.",
-                "en": "The wind on the cliff is icy in winter; be sure to wear a balaclava or a thick scarf under your helmet to protect your face from the freezing gusts at the top."
+                "en": "The wind on the cliff is icy in winter; be sure to wear a balaclava or a thick scarf under your helmet to protect your face from the freezing gusts at the top.",
+                "fr": "Le vent sur la falaise est glacial en hiver ; pensez à porter une cagoule ou une grosse écharpe sous votre casque pour protéger votre visage des rafales glacées au sommet."
               }
             },
             {
@@ -729,13 +809,15 @@
                 "de": "Église Notre-Dame du Cap Lihou",
                 "hu": "Église Notre-Dame du Cap Lihou",
                 "ro": "Église Notre-Dame du Cap Lihou",
-                "en": "Église Notre-Dame du Cap Lihou"
+                "en": "Église Notre-Dame du Cap Lihou",
+                "fr": "Église Notre‑Dame du Cap Lihou"
               },
               "tip_5lang": {
                 "de": "Die Kirche bietet eine ideale Pause, um die Finger wieder aufzuwärmen; die dicken Mauern schützen perfekt vor dem beißenden Winterwind in der Oberstadt.",
                 "hu": "A templom ideális pihenőt kínál az ujjai felmelegítéséhez; a vastag falak tökéletesen védenek a felsővárosban fújó metsző téli szél ellen.",
                 "ro": "Biserica oferă o pauză ideală pentru a vă încălzi degetele; pereții groși protejează perfect împotriva vântului tăios de iarnă din orașul vechi.",
-                "en": "The church provides an ideal break to warm up your fingers; the thick walls offer perfect protection from the biting winter wind in the upper town area."
+                "en": "The church provides an ideal break to warm up your fingers; the thick walls offer perfect protection from the biting winter wind in the upper town area.",
+                "fr": "L’église offre une pause idéale pour réchauffer vos doigts ; ses murs épais protègent parfaitement du vent hivernal mordant en haute ville."
               }
             },
             {
@@ -743,13 +825,15 @@
                 "de": "Musée Christian Dior",
                 "hu": "Musée Christian Dior",
                 "ro": "Musée Christian Dior",
-                "en": "Musée Christian Dior"
+                "en": "Musée Christian Dior",
+                "fr": "Musée Christian Dior"
               },
               "tip_5lang": {
                 "de": "Planen Sie hier eine längere Aufwärmpause im Inneren ein; der Kontrast zwischen der winterlichen Gartenstruktur und der Wärme der Villa ist faszinierend.",
                 "hu": "Tervezzen ide egy hosszabb melegedő szünetet a belső térben; a téli kert szerkezete és a villa melege közötti kontraszt lenyűgöző élményt nyújt.",
                 "ro": "Planificați aici o pauză mai lungă de încălzire în interior; contrastul dintre structura grădinii de iarnă și căldura vilei este absolut fascinant.",
-                "en": "Plan a long warm-up break inside the museum; the contrast between the winter garden's structure and the villa's warmth is a fascinating experience."
+                "en": "Plan a long warm-up break inside the museum; the contrast between the winter garden's structure and the villa's warmth is a fascinating experience.",
+                "fr": "Prévoyez une longue pause chauffante à l’intérieur du musée ; le contraste entre la structure du jardin d’hiver et la chaleur de la villa est une expérience fascinante."
               }
             },
             {
@@ -757,13 +841,15 @@
                 "de": "Plage surveillée de l'Ermitage",
                 "hu": "Plage surveillée de l'Ermitage",
                 "ro": "Plage surveillée de l'Ermitage",
-                "en": "Plage surveillée de l'Ermitage"
+                "en": "Plage surveillée de l'Ermitage",
+                "fr": "Plage surveillée de l'Ermitage"
               },
               "tip_5lang": {
                 "de": "Das Licht am Nachmittag ist im Winter einzigartig für Fotos; halten Sie kurz an, aber bleiben Sie in Bewegung, um bei den sinkenden Temperaturen nicht zu frieren.",
                 "hu": "A délutáni fény télen egyedülálló a fotózáshoz; álljon meg egy rövid időre, de maradjon mozgásban, hogy ne fázzon meg a süllyedő hőmérsékletben.",
                 "ro": "Lumina de după-amiază este unică iarna pentru fotografii; opriți-vă scurt, dar rămâneți în mișcare pentru a nu îngheța pe măsură ce temperatura scade.",
-                "en": "The afternoon light is unique for photography in winter; stop briefly, but keep moving to stay warm as the temperature begins to drop towards evening."
+                "en": "The afternoon light is unique for photography in winter; stop briefly, but keep moving to stay warm as the temperature begins to drop towards evening.",
+                "fr": "La lumière de l’après‑midi est unique pour la photographie en hiver ; arrêtez‑vous brièvement, mais continuez à bouger pour rester au chaud car la température baisse en soirée."
               }
             },
             {
@@ -771,13 +857,15 @@
                 "de": "Plage de Donville",
                 "hu": "Plage de Donville",
                 "ro": "Plage de Donville",
-                "en": "Plage de Donville"
+                "en": "Plage de Donville",
+                "fr": "Plage de Donville"
               },
               "tip_5lang": {
                 "de": "Die Weite des Strandes wirkt im Winter fast unendlich; achten Sie auf mögliche Glätte auf dem Radweg durch gefrorene Gischt oder Reif am Boden.",
                 "hu": "A strand tágassága télen szinte végtelennek tűnik; figyeljen az esetleges jegesedésre a kerékpárúton a fagyott vízpermet vagy a dér miatt.",
                 "ro": "Vastitatea plajei pare aproape infinită iarna; atenție la posibilele porțiuni alunecoase de pe pista de biciclete din cauza chiciurei sau a înghețului.",
-                "en": "The vastness of the beach feels almost infinite in winter; watch out for potential icy patches on the bike path caused by frozen sea spray or frost."
+                "en": "The vastness of the beach feels almost infinite in winter; watch out for potential icy patches on the bike path caused by frozen sea spray or frost.",
+                "fr": "L’immensité de la plage semble presque infinie en hiver ; méfiez‑vous des plaques glacées potentielles sur la piste cyclable causées par les embruns gelés ou le givre."
               }
             },
             {
@@ -785,13 +873,15 @@
                 "de": "Plage d'Hacqueville",
                 "hu": "Plage d'Hacqueville",
                 "ro": "Plage d'Hacqueville",
-                "en": "Plage d'Hacqueville"
+                "en": "Plage d'Hacqueville",
+                "fr": "Plage d'Hacqueville"
               },
               "tip_5lang": {
                 "de": "Beenden Sie die Fahrt vor 17:00 Uhr, da es dann schnell dunkel und sehr kalt wird; sorgen Sie für eine funktionierende Beleuchtung an Ihrem Fahrrad.",
                 "hu": "Fejezze be a túrát 17:00 előtt, mert utána gyorsan sötétedik és lehűl az idő; gondoskodjon a kerékpár megfelelő és működő világításáról.",
                 "ro": "Încheiați turul înainte de ora 17:00, deoarece se întunecă repede și se face foarte frig; asigurați-vă că aveți lumini funcționale pe bicicletă.",
-                "en": "Finish your ride before 17:00 as it gets dark and very cold quickly; ensure you have functioning lights on your bike for the final stretch back."
+                "en": "Finish your ride before 17:00 as it gets dark and very cold quickly; ensure you have functioning lights on your bike for the final stretch back.",
+                "fr": "Terminez votre sortie avant 17:00 car il fait vite sombre et très froid ; assurez‑vous d’avoir des éclairages fonctionnels sur votre vélo pour le dernier tronçon du retour."
               }
             }
           ]
@@ -811,7 +901,8 @@
             "de": "Phare du Roc",
             "hu": "Phare du Roc",
             "ro": "Phare du Roc",
-            "en": "Phare du Roc"
+            "en": "Phare du Roc",
+            "fr": "Phare du Roc"
           },
           "coords": [
             -1.609388,
@@ -826,7 +917,8 @@
             "de": "Bewundern Sie die atemberaubende Aussicht von diesem historischen Leuchtturm auf dem Felsvorsprung, aber halten Sie Ihren Hut fest, da es hier sehr windig werden kann.",
             "hu": "Csodálja meg a sziklás hegyfokon magasodó történelmi világítótorony lenyűgöző panorámáját, de fogja meg a kalapját, mert itt eléggé szeles az idő.",
             "ro": "Admirați priveliștile panoramice uimitoare de la acest far istoric cocoțat pe promontoriul stâncos, dar țineți-vă pălăria, deoarece aici poate fi destul de vânt.",
-            "en": "Admire the stunning panoramic views from this historic lighthouse perched on the rocky promontory, but hold onto your hat as it can get quite windy here."
+            "en": "Admire the stunning panoramic views from this historic lighthouse perched on the rocky promontory, but hold onto your hat as it can get quite windy here.",
+            "fr": "Admirez la vue panoramique superbe depuis ce phare historique perché sur le promontoire rocheux, mais accrochez‑vous à votre chapeau car il peut y faire très venteux."
           }
         },
         {
@@ -834,7 +926,8 @@
             "de": "Église Notre-Dame du Cap Lihou",
             "hu": "Église Notre-Dame du Cap Lihou",
             "ro": "Église Notre-Dame du Cap Lihou",
-            "en": "Église Notre-Dame du Cap Lihou"
+            "en": "Église Notre-Dame du Cap Lihou",
+            "fr": "Église Notre‑Dame du Cap Lihou"
           },
           "coords": [
             -1.60503,
@@ -849,7 +942,8 @@
             "de": "Erkunden Sie die Granitarchitektur dieser Kirche und achten Sie besonders auf die Buntglasfenster, die den Innenraum in buntes Licht tauchen.",
             "hu": "Fedezze fel ennek a gyönyörű templomnak a lenyűgöző gránit építészetét, különös figyelmet fordítva a pompás ólomüveg ablakokra, amelyek színes fényben fürdetik a belsőt.",
             "ro": "Explorați arhitectura impresionantă din granit a acestei biserici, acordând o atenție deosebită vitraliilor rafinate care scaldă interiorul în lumină colorată.",
-            "en": "Explore the striking granite architecture of this beautiful church, paying special attention to its exquisite stained glass windows that bathe the interior in colorful light."
+            "en": "Explore the striking granite architecture of this beautiful church, paying special attention to its exquisite stained glass windows that bathe the interior in colorful light.",
+            "fr": "Explorez l’architecture de granit saisissante de cette belle église, en portant une attention particulière à ses vitraux exquis qui baignent l’intérieur d’une lumière colorée."
           }
         },
         {
@@ -857,7 +951,8 @@
             "de": "Musée Christian Dior",
             "hu": "Musée Christian Dior",
             "ro": "Musée Christian Dior",
-            "en": "Musée Christian Dior"
+            "en": "Musée Christian Dior",
+            "fr": "Musée Christian Dior"
           },
           "coords": [
             -1.592506,
@@ -872,7 +967,8 @@
             "de": "Spazieren Sie durch das Elternhaus des berühmten Modeschöpfers inmitten wunderschöner Klippengärten, und buchen Sie Ihre Tickets im Voraus, um Warteschlangen zu vermeiden.",
             "hu": "Sétáljon a híres divattervező szülőházában, amelyet lenyűgöző sziklafalon lévő kertek vesznek körül, és a hosszú sorban állás elkerülése érdekében előre foglaljon jegyet.",
             "ro": "Plimbați-vă prin casa copilăriei celebrului creator de modă, înconjurată de grădini rafinate pe stânci, și rezervați-vă biletele în avans pentru a evita cozile de vară.",
-            "en": "Wander through the childhood home of the famous couturier surrounded by exquisite cliffside gardens, and book your tickets in advance to avoid long summer queues."
+            "en": "Wander through the childhood home of the famous couturier surrounded by exquisite cliffside gardens, and book your tickets in advance to avoid long summer queues.",
+            "fr": "Parcourez la maison d’enfance du célèbre couturier entourée de jardins cliffside exquis, et réservez vos billets à l’avance pour éviter les longues files en été."
           }
         },
         {
@@ -880,7 +976,8 @@
             "de": "Piscine de mer de Donville",
             "hu": "Piscine de mer de Donville",
             "ro": "Piscine de mer de Donville",
-            "en": "Piscine de mer de Donville"
+            "en": "Piscine de mer de Donville",
+            "fr": "Piscine de mer de Donville"
           },
           "coords": [
             -1.587854,
@@ -895,7 +992,8 @@
             "de": "Entspannen Sie an diesem familienfreundlichen Gezeitenbecken, das eine sichere Schwimmumgebung bietet und sich ideal für Kinder eignet, wenn Sie es mittags besuchen.",
             "hu": "Pihenjen ennél a családbarát árapály-medencénél, amely biztonságos úszási környezetet kínál, így tökéletes a gyermekek számára a nap melegebb óráiban.",
             "ro": "Relaxați-vă la această piscină cu maree, care oferă un mediu de înot sigur, fiind perfectă pentru copii dacă o vizitați în timpul orelor mai calde ale zilei.",
-            "en": "Relax by this family-friendly tidal pool which offers a safe swimming environment, making it perfect for children if you visit during the warmer hours of the day."
+            "en": "Relax by this family-friendly tidal pool which offers a safe swimming environment, making it perfect for children if you visit during the warmer hours of the day.",
+            "fr": "Détendez‑vous près de cette piscine maritime familiale qui offre un cadre de baignade sécurisé, parfaite pour les enfants si vous venez pendant les heures les plus chaudes de la journée."
           }
         },
         {
@@ -903,7 +1001,8 @@
             "de": "Plage de Donville",
             "hu": "Plage de Donville",
             "ro": "Plage de Donville",
-            "en": "Plage de Donville"
+            "en": "Plage de Donville",
+            "fr": "Plage de Donville"
           },
           "coords": [
             -1.578161,
@@ -918,7 +1017,8 @@
             "de": "Spazieren Sie an diesem weitläufigen und weniger überlaufenen Strand, ideal zum Muschelsammeln, aber tragen Sie geeignetes Schuhwerk für die gelegentlichen Kieselabschnitte.",
             "hu": "Sétáljon ezen a tágas és kevésbé zsúfolt strandon, amely ideális kagylógyűjtésre, bár érdemes megfelelő lábbelit viselni a kavicsos részek kényelmes bejárásához.",
             "ro": "Plimbați-vă pe această plajă întinsă și mai puțin aglomerată, ideală pentru a găsi scoici, deși ar trebui să purtați încălțăminte adecvată pentru a naviga confortabil secțiunile cu pietriș.",
-            "en": "Stroll along this expansive and less crowded beach ideal for finding seashells, though you should wear suitable footwear to navigate the occasional pebbly sections comfortably."
+            "en": "Stroll along this expansive and less crowded beach ideal for finding seashells, though you should wear suitable footwear to navigate the occasional pebbly sections comfortably.",
+            "fr": "Promenez‑vous le long de cette plage vaste et moins fréquentée, idéale pour chercher des coquillages, mais portez des chaussures adaptées pour franchir confortablement les sections parfois caillouteuses."
           }
         },
         {
@@ -926,7 +1026,8 @@
             "de": "Plage d'Hacqueville",
             "hu": "Plage d'Hacqueville",
             "ro": "Plage d'Hacqueville",
-            "en": "Plage d'Hacqueville"
+            "en": "Plage d'Hacqueville",
+            "fr": "Plage d'Hacqueville"
           },
           "coords": [
             -1.583997,
@@ -941,7 +1042,8 @@
             "de": "Entdecken Sie dieses versteckte Juwel eines Strandes unterhalb der Klippen, und besuchen Sie ihn bei Ebbe, um die dramatische Küstenlandschaft voll zu würdigen.",
             "hu": "Fedezze fel a sziklák alatt megbúvó strand e rejtett gyöngyszemét, és feltétlenül apálykor látogasson el ide, hogy teljes mértékben értékelhesse a drámai parti tájat.",
             "ro": "Descoperiți această bijuterie ascunsă de plajă situată sub stânci, asigurându-vă că o vizitați în timpul refluxului pentru a aprecia pe deplin peisajul de coastă dramatic.",
-            "en": "Discover this hidden gem of a beach nestled below the cliffs, ensuring you visit during low tide to fully appreciate the dramatic coastal scenery and rock formations."
+            "en": "Discover this hidden gem of a beach nestled below the cliffs, ensuring you visit during low tide to fully appreciate the dramatic coastal scenery and rock formations.",
+            "fr": "Découvrez ce trésor caché de plage nichée au pied des falaises, en veillant à la visiter à marée basse pour apprécier pleinement le paysage côtier dramatique et les formations rocheuses."
           }
         }
       ],
@@ -949,7 +1051,8 @@
         "de": "Fahren Sie zum historischen Leuchtturm und erkunden Sie die Kirche der Oberstadt. Besuchen Sie das Christian-Dior-Museum und schlendern Sie durch die Klippengärten. Fahren Sie nach Norden, um die Gezeitenbecken und Sandstrände zu genießen. Fahren Sie nach Süden für einen ruhigen Spaziergang am Strand Hacqueville.",
         "hu": "Vezessen fel a történelmi világítótoronyhoz, és fedezze fel a felsőváros templomát. Látogassa meg a híres Christian Dior múzeumot, és sétáljon a sziklafalon lévő kertjeiben. Vezessen északra a családbarát árapály-medencékhez és homokos partokhoz. Irány dél, hogy békésen sétáljon a drámai Hacqueville strandon.",
         "ro": "Conduceți până la farul istoric și explorați biserica din orașul de sus. Vizitați celebrul muzeu Christian Dior și plimbați-vă prin grădinile sale. Conduceți spre nord pentru a vă bucura de piscinele cu maree și de țărmurile cu nisip. Mergeți spre sud pentru o plimbare liniștită pe plaja Hacqueville.",
-        "en": "Drive up to the historic lighthouse and explore the upper town's church. Visit the famous Christian Dior museum and stroll through its cliffside gardens. Drive slightly north to enjoy the family-friendly tidal pools and sandy shores. Head south for a peaceful walk along the secluded and dramatic Hacqueville beach."
+        "en": "Drive up to the historic lighthouse and explore the upper town's church. Visit the famous Christian Dior museum and stroll through its cliffside gardens. Drive slightly north to enjoy the family-friendly tidal pools and sandy shores. Head south for a peaceful walk along the secluded and dramatic Hacqueville beach.",
+        "fr": "Montez en voiture jusqu’au phare historique et explorez l’église de la haute ville. Visitez le célèbre musée Christian Dior et promenez‑vous dans ses jardins en falaise. Conduisez un peu plus au nord pour profiter des piscines de mer familiales et des rivages sablonneux. Dirigez‑vous vers le sud pour une promenade paisible le long de la plage isolée et spectaculaire d’Hacqueville."
       },
       "variants": {
         "rainy": {
@@ -957,7 +1060,8 @@
             "de": "Mit dem Auto ist Granville bei Regen ein Genuss, da man trocken von Aussichtspunkt zu Aussichtspunkt gelangt. Wir starten am Phare du Roc, wo die Scheibenwischer den Blick auf das stürmische Meer freigeben. Mittags bietet die Kirche Notre-Dame einen spirituellen und trockenen Halt. Der Nachmittag ist dem Dior-Museum und den Stränden gewidmet, die man bequem vom warmen Fahrzeuginneren aus bewundern kann.",
             "hu": "Autóval Granville esőben is élvezet, hiszen szárazon juthatunk el egyik kilátóponttól a másikig. A Phare du Roc-nál kezdünk, ahol az ablaktörlők mögül figyelhetjük a viharos tengert. Délben a Notre-Dame templom nyújt spirituális és száraz pihenőt. A délután a Dior-múzeumé és a strandoké, melyeket kényelmesen, a meleg járműből is megcsodálhatunk.",
             "ro": "Cu mașina, Granville este o plăcere pe ploaie, deoarece puteți ajunge uscat de la un punct de belvedere la altul. Începem la Phare du Roc, unde ștergătoarele dezvăluie marea învolburată. La prânz, biserica Notre-Dame oferă o oprire spirituală și uscată. După-amiaza este dedicată Muzeului Dior și plajelor, pe care le puteți admira din confortul mașinii.",
-            "en": "Granville by car is a delight in the rain, as you can travel dry from one viewpoint to another. We start at Phare du Roc, watching the stormy sea through the wipers. At noon, the Notre-Dame church offers a spiritual and dry stop. The afternoon is dedicated to the Dior Museum and the beaches, which can be comfortably admired from inside the warm vehicle."
+            "en": "Granville by car is a delight in the rain, as you can travel dry from one viewpoint to another. We start at Phare du Roc, watching the stormy sea through the wipers. At noon, the Notre-Dame church offers a spiritual and dry stop. The afternoon is dedicated to the Dior Museum and the beaches, which can be comfortably admired from inside the warm vehicle.",
+            "fr": "Granville en voiture est un plaisir sous la pluie, car vous pouvez voyager au sec d’un point de vue à l’autre. Nous commençons au Phare du Roc, regardant la mer orageuse à travers les essuie‑glaces. À midi, l’église Notre‑Dame offre une halte spirituelle et sèche. L’après‑midi est dédié au musée Dior et aux plages, qu’on peut admirer confortablement depuis l’intérieur du véhicule chauffé."
           },
           "stops": [
             {
@@ -965,13 +1069,15 @@
                 "de": "Phare du Roc",
                 "hu": "Phare du Roc",
                 "ro": "Phare du Roc",
-                "en": "Phare du Roc"
+                "en": "Phare du Roc",
+                "fr": "Phare du Roc"
               },
               "tip_5lang": {
                 "de": "Parken Sie so, dass Sie die Wellen direkt vom Auto aus sehen können; nutzen Sie kurze Regenpausen für ein schnelles Foto an der windgepeitschten Felswand.",
                 "hu": "Parkoljon úgy, hogy közvetlenül az autóból lássa a hullámokat; használja ki a rövid esőszüneteket egy gyors fotóra a szélfútta sziklafalnál.",
                 "ro": "Parcați astfel încât să puteți vedea valurile direct din mașină; profitați de pauzele scurte de ploaie pentru o fotografie rapidă lângă faleza bătută de vânt.",
-                "en": "Park your car so you can watch the waves directly from inside; take advantage of short rain breaks for a quick photo at the windswept cliff edge."
+                "en": "Park your car so you can watch the waves directly from inside; take advantage of short rain breaks for a quick photo at the windswept cliff edge.",
+                "fr": "Garez votre voiture pour pouvoir observer les vagues directement depuis l’intérieur ; profitez des courtes accalmies pour une photo rapide au bord de la falaise battue par le vent."
               }
             },
             {
@@ -979,13 +1085,15 @@
                 "de": "Église Notre-Dame du Cap Lihou",
                 "hu": "Église Notre-Dame du Cap Lihou",
                 "ro": "Église Notre-Dame du Cap Lihou",
-                "en": "Église Notre-Dame du Cap Lihou"
+                "en": "Église Notre-Dame du Cap Lihou",
+                "fr": "Église Notre‑Dame du Cap Lihou"
               },
               "tip_5lang": {
                 "de": "Es gibt Parkplätze in der Nähe der Oberstadt; der kurze Fußweg zur Kirche lohnt sich, um die trockene Pracht des gotischen Innenraums zu bewundern.",
                 "hu": "A felsőváros közelében vannak parkolóhelyek; a templomhoz vezető rövid séta megéri, hogy megcsodálja a gótikus belső tér száraz és nyugodt pompáját.",
                 "ro": "Există locuri de parcare în apropierea orașului vechi; scurta plimbare până la biserică merită pentru a admira splendoarea uscată a interiorului gotic.",
-                "en": "There are parking spots near the upper town; the short walk to the church is worth it to admire the dry and peaceful splendor of the gothic interior."
+                "en": "There are parking spots near the upper town; the short walk to the church is worth it to admire the dry and peaceful splendor of the gothic interior.",
+                "fr": "Il y a des places de parking près de la haute ville ; la courte marche jusqu’à l’église vaut le coup pour admirer la splendeur gothique, sèche et paisible, de l’intérieur."
               }
             },
             {
@@ -993,13 +1101,15 @@
                 "de": "Musée Christian Dior",
                 "hu": "Musée Christian Dior",
                 "ro": "Musée Christian Dior",
-                "en": "Musée Christian Dior"
+                "en": "Musée Christian Dior",
+                "fr": "Musée Christian Dior"
               },
               "tip_5lang": {
                 "de": "Nutzen Sie den Parkplatz des Museums, um den Weg im Regen zu minimieren; die Villa ist der perfekte Ort, um einen verregneten Vormittag stilvoll zu verbringen.",
                 "hu": "Használja a múzeum parkolóját az esőben való gyaloglás minimalizálására; a villa tökéletes hely egy esős délelőtt stílusos és száraz eltöltéséhez.",
                 "ro": "Folosiți parcarea muzeului pentru a minimiza mersul prin ploaie; vila este locul perfect pentru a petrece o dimineață ploioasă cu stil și în confort.",
-                "en": "Use the museum's parking lot to minimize walking in the rain; the villa is the perfect place to spend a rainy morning stylishly and out of the wet."
+                "en": "Use the museum's parking lot to minimize walking in the rain; the villa is the perfect place to spend a rainy morning stylishly and out of the wet.",
+                "fr": "Utilisez le parking du musée pour minimiser la marche sous la pluie ; la villa est l’endroit parfait pour passer une matinée pluvieuse avec style et à l’abri."
               }
             },
             {
@@ -1007,13 +1117,15 @@
                 "de": "Piscine de mer de Donville",
                 "hu": "Piscine de mer de Donville",
                 "ro": "Piscine de mer de Donville",
-                "en": "Piscine de mer de Donville"
+                "en": "Piscine de mer de Donville",
+                "fr": "Piscine de mer de Donville"
               },
               "tip_5lang": {
                 "de": "Betrachten Sie das verlassene Becken im Regen durch die Scheiben; die Atmosphäre ist melancholisch schön und Sie bleiben im geheizten Auto angenehm trocken.",
                 "hu": "Figyelje meg az elhagyatott medencét az esőben az ablakon keresztül; az atmoszféra melankolikusan szép, Ön pedig a fűtött autóban kellemesen száraz marad.",
                 "ro": "Observați piscina abandonată prin ploaie de la geamul mașinii; atmosfera este melancolic de frumoasă, iar dumneavoastră rămâneți uscat în interiorul încălzit.",
-                "en": "Watch the deserted pool in the rain through the car windows; the atmosphere is melancholically beautiful, and you stay pleasantly dry in the heated car."
+                "en": "Watch the deserted pool in the rain through the car windows; the atmosphere is melancholically beautiful, and you stay pleasantly dry in the heated car.",
+                "fr": "Regardez la piscine déserte sous la pluie à travers les vitres de la voiture ; l’atmosphère est mélancoliquement belle et vous restez agréablement au chaud dans le véhicule chauffé."
               }
             },
             {
@@ -1021,13 +1133,15 @@
                 "de": "Plage de Donville",
                 "hu": "Plage de Donville",
                 "ro": "Plage de Donville",
-                "en": "Plage de Donville"
+                "en": "Plage de Donville",
+                "fr": "Plage de Donville"
               },
               "tip_5lang": {
                 "de": "Fahren Sie nah an die Promenade heran, um die Weite des Meeres zu genießen; achten Sie beim Aussteigen auf große Pfützen und den starken Küstenwind.",
                 "hu": "Hajtson közel a sétányhoz, hogy élvezhesse a tenger tágasságát; kiszálláskor ügyeljen a hatalmas tócsákra és az erős, csapadékos tengerparti szélre.",
                 "ro": "Conduceți aproape de promenadă pentru a vă bucura de vastitatea mării; la coborâre, atenție la bălțile mari și la vântul puternic de pe coastă.",
-                "en": "Drive close to the promenade to enjoy the vastness of the sea; watch out for large puddles and the strong coastal wind when stepping out of the car."
+                "en": "Drive close to the promenade to enjoy the vastness of the sea; watch out for large puddles and the strong coastal wind when stepping out of the car.",
+                "fr": "Garez‑vous près de la promenade pour profiter de l’immensité de la mer ; méfiez‑vous des grandes flaques et du vent côtier fort en sortant du véhicule."
               }
             },
             {
@@ -1035,13 +1149,15 @@
                 "de": "Plage d'Hacqueville",
                 "hu": "Plage d'Hacqueville",
                 "ro": "Plage d'Hacqueville",
-                "en": "Plage d'Hacqueville"
+                "en": "Plage d'Hacqueville",
+                "fr": "Plage d'Hacqueville"
               },
               "tip_5lang": {
                 "de": "Der Parkplatz bietet eine tolle Sicht auf die zerklüftete Küste; lassen Sie den Tag gemütlich im Auto ausklingen, während der Regen gegen das Dach trommelt.",
                 "hu": "A parkolóból nagyszerű kilátás nyílik a tagolt partvonalra; zárja a napot kényelmesen az autóban, miközben az eső kopog a tetőn, és élvezze a látványt.",
                 "ro": "Parcarea oferă o vedere excelentă asupra coastei zimțate; încheiați ziua confortabil în mașină, în timp ce ploaia bate în plafon, și admirați peisajul.",
-                "en": "The parking lot offers a great view of the rugged coastline; end the day comfortably in the car while the rain drums on the roof and enjoy the scenery."
+                "en": "The parking lot offers a great view of the rugged coastline; end the day comfortably in the car while the rain drums on the roof and enjoy the scenery.",
+                "fr": "Le parking offre une belle vue sur la côte sauvage ; terminez la journée confortablement dans la voiture pendant que la pluie tambourine sur le toit et profitez du paysage."
               }
             }
           ]
@@ -1051,7 +1167,8 @@
             "de": "Eine winterliche Autotour durch Granville zeigt die Stadt von ihrer ruhigsten Seite. Wir beginnen am Phare du Roc, wo die Wintersonne glitzert. Mittags bietet die Oberstadt historischen Charme und Schutz vor der Kälte. Der Nachmittag führt uns zum Dior-Museum und entlang der Strände von Donville. Da die Sonne gegen 17:00 Uhr untergeht, genießen wir das letzte Licht im warmen Auto, bevor wir die Tour beenden.",
             "hu": "Egy téli autós túra Granville-ben a város legnyugodtabb arcát mutatja meg. A Phare du Roc-nál kezdünk, ahol a téli nap csillog a tengeren. Délben a felsőváros történelmi bája és a hideg elleni védelem vár ránk. A délután a Dior-múzeumba és Donville strandjaihoz vezet. Mivel 17:00 körül lebukik a nap, az utolsó fényeket a meleg autóból élvezzük.",
             "ro": "Un tur cu mașina iarna prin Granville dezvăluie latura cea mai liniștită a orașului. Începem la Phare du Roc, unde soarele de iarnă sclipește pe mare. La prânz, orașul vechi oferă farmec istoric și protecție contra frigului. După-amiaza ne duce la Muzeul Dior și pe plajele din Donville. Deoarece soarele apune spre ora 17:00, savurăm ultima lumină din mașină.",
-            "en": "A winter car tour through Granville reveals the city's quietest side. We begin at Phare du Roc, where the winter sun glitters on the sea. At noon, the upper town offers historic charm and protection from the cold. The afternoon takes us to the Dior Museum and along the beaches of Donville. As the sun sets around 17:00, we enjoy the last light from the warm car."
+            "en": "A winter car tour through Granville reveals the city's quietest side. We begin at Phare du Roc, where the winter sun glitters on the sea. At noon, the upper town offers historic charm and protection from the cold. The afternoon takes us to the Dior Museum and along the beaches of Donville. As the sun sets around 17:00, we enjoy the last light from the warm car.",
+            "fr": "Une excursion en voiture hivernale à Granville révèle le côté le plus calme de la ville. Nous commençons au Phare du Roc, où le soleil d’hiver scintille sur la mer. À midi, la haute ville offre charme historique et protection contre le froid. L’après‑midi nous mène au musée Dior et le long des plages de Donville. Alors que le soleil se couche vers 17:00, nous profitons des dernières lueurs depuis la voiture chauffée."
           },
           "stops": [
             {
@@ -1059,13 +1176,15 @@
                 "de": "Phare du Roc",
                 "hu": "Phare du Roc",
                 "ro": "Phare du Roc",
-                "en": "Phare du Roc"
+                "en": "Phare du Roc",
+                "fr": "Phare du Roc"
               },
               "tip_5lang": {
                 "de": "Nutzen Sie die Heizung Ihres Autos, während Sie die raue Wintersee beobachten; die Aussicht vom Parkplatz ist spektakulär und schützt Sie vor dem eisigen Wind.",
                 "hu": "Használja az autó fűtését, miközben a zord téli tengert figyeli; a parkolóból nyíló kilátás látványos, és megvédi Önt a sziklán fújó jeges széltől.",
                 "ro": "Folosiți încălzirea mașinii în timp ce observați marea aspră de iarnă; vederea din parcare este spectaculoasă și vă protejează de vântul înghețat de pe stâncă.",
-                "en": "Utilize your car's heater while watching the raw winter sea; the view from the parking lot is spectacular and protects you from the icy wind on the cliff."
+                "en": "Utilize your car's heater while watching the raw winter sea; the view from the parking lot is spectacular and protects you from the icy wind on the cliff.",
+                "fr": "Utilisez le chauffage de votre voiture en contemplant la mer hivernale crue ; la vue depuis le parking est spectaculaire et vous protège du vent glacial sur la falaise."
               }
             },
             {
@@ -1073,13 +1192,15 @@
                 "de": "Église Notre-Dame du Cap Lihou",
                 "hu": "Église Notre-Dame du Cap Lihou",
                 "ro": "Église Notre-Dame du Cap Lihou",
-                "en": "Église Notre-Dame du Cap Lihou"
+                "en": "Église Notre-Dame du Cap Lihou",
+                "fr": "Église Notre‑Dame du Cap Lihou"
               },
               "tip_5lang": {
                 "de": "Parken Sie in der Nähe und genießen Sie die Stille der Oberstadt im Winter; die Kirche ist ein herrlicher Ort, um kurz innezuhalten und der Kälte zu entfliehen.",
                 "hu": "Parkoljon a közelben, és élvezze a felsőváros téli csendjét; a templom nagyszerű hely egy rövid megállásra, hogy elmeneküljön a kinti fagyos levegő elől.",
                 "ro": "Parcați în apropiere și bucurați-vă de liniștea orașului vechi iarna; biserica este un loc minunat pentru o scurtă pauză de la aerul înghețat de afară.",
-                "en": "Park nearby and enjoy the winter silence of the upper town; the church is a wonderful place for a brief pause to escape the freezing air outside."
+                "en": "Park nearby and enjoy the winter silence of the upper town; the church is a wonderful place for a brief pause to escape the freezing air outside.",
+                "fr": "Garez‑vous à proximité et profitez du silence hivernal de la haute ville ; l’église est un lieu merveilleux pour une brève pause afin d’échapper à l’air glacial extérieur."
               }
             },
             {
@@ -1087,13 +1208,15 @@
                 "de": "Musée Christian Dior",
                 "hu": "Musée Christian Dior",
                 "ro": "Musée Christian Dior",
-                "en": "Musée Christian Dior"
+                "en": "Musée Christian Dior",
+                "fr": "Musée Christian Dior"
               },
               "tip_5lang": {
                 "de": "Das beheizte Museum ist der ideale Ort für den kältesten Teil des Tages; bewundern Sie die Villa Les Rhumbs, während die Wintersonne durch die Fenster scheint.",
                 "hu": "A fűtött múzeum ideális hely a nap leghidegebb részében; csodálja meg a Villa Les Rhumbs tárlatait, miközben a téli nap átsüt az elegáns ablakokon.",
                 "ro": "Muzeul încălzit este locul ideal pentru cea mai rece parte a zilei; admirați Vila Les Rhumbs în timp ce soarele de iarnă strălucește prin ferestre.",
-                "en": "The heated museum is the ideal place for the coldest part of the day; admire Villa Les Rhumbs while the winter sun shines through the elegant windows."
+                "en": "The heated museum is the ideal place for the coldest part of the day; admire Villa Les Rhumbs while the winter sun shines through the elegant windows.",
+                "fr": "Le musée chauffé est l’endroit idéal pour la partie la plus froide de la journée ; admirez la Villa Les Rhumbs pendant que le soleil d’hiver illumine les élégantes fenêtres."
               }
             },
             {
@@ -1101,13 +1224,15 @@
                 "de": "Piscine de mer de Donville",
                 "hu": "Piscine de mer de Donville",
                 "ro": "Piscine de mer de Donville",
-                "en": "Piscine de mer de Donville"
+                "en": "Piscine de mer de Donville",
+                "fr": "Piscine de mer de Donville"
               },
               "tip_5lang": {
                 "de": "Die Anlage wirkt im Winterlicht wie eingefroren; halten Sie kurz an, um das Panorama zu genießen, bevor die Temperaturen bei Dämmerung weiter sinken.",
                 "hu": "A létesítmény a téli fényben szinte megfagyottnak tűnik; álljon meg egy pillanatra a panoráma kedvéért, mielőtt a hőmérséklet tovább esne a szürkületben.",
                 "ro": "Instalația pare aproape înghețată în lumina iernii; opriți-vă un moment pentru a savura panorama înainte ca temperaturile să scadă și mai mult la amurg.",
-                "en": "The facility looks almost frozen in the winter light; stop for a moment to enjoy the panorama before the temperature drops further at twilight."
+                "en": "The facility looks almost frozen in the winter light; stop for a moment to enjoy the panorama before the temperature drops further at twilight.",
+                "fr": "L’équipement semble presque figé dans la lumière hivernale ; arrêtez‑vous un instant pour profiter du panorama avant que la température baisse encore au crépuscule."
               }
             },
             {
@@ -1115,13 +1240,15 @@
                 "de": "Plage de Donville",
                 "hu": "Plage de Donville",
                 "ro": "Plage de Donville",
-                "en": "Plage de Donville"
+                "en": "Plage de Donville",
+                "fr": "Plage de Donville"
               },
               "tip_5lang": {
                 "de": "Genießen Sie den weiten Blick auf den Sandstrand vom warmen Auto aus; im Winter sind die Farben des Meeres und des Himmels besonders klar und intensiv.",
                 "hu": "Élvezze a homokos tengerpartra nyíló tágas kilátást a meleg autóból; télen a tenger és az ég színei különösen tiszták és intenzívek ezen a szakaszon.",
                 "ro": "Bucurați-vă de vederea vastă a plajei cu nisip din mașina caldă; iarna, culorile mării și ale cerului sunt deosebit de clare și intense în această zonă.",
-                "en": "Enjoy the vast view of the sandy beach from your warm car; in winter, the colors of the sea and the sky are particularly clear and intense along this stretch."
+                "en": "Enjoy the vast view of the sandy beach from your warm car; in winter, the colors of the sea and the sky are particularly clear and intense along this stretch.",
+                "fr": "Appréciez la vaste vue de la plage de sable depuis votre voiture chaude ; en hiver, les couleurs de la mer et du ciel sont particulièrement claires et intenses le long de ce littoral."
               }
             },
             {
@@ -1129,13 +1256,15 @@
                 "de": "Plage d'Hacqueville",
                 "hu": "Plage d'Hacqueville",
                 "ro": "Plage d'Hacqueville",
-                "en": "Plage d'Hacqueville"
+                "en": "Plage d'Hacqueville",
+                "fr": "Plage d'Hacqueville"
               },
               "tip_5lang": {
                 "de": "Beobachten Sie den frühen Sonnenuntergang gegen 17:00 Uhr direkt durch die Frontscheibe; der Parkplatz bietet den perfekten, warmen Ort für dieses Naturschauspiel.",
                 "hu": "Figyelje meg a korai, 17:00 körüli naplementét közvetlenül a szélvédőn keresztül; a parkoló tökéletes és meleg helyet kínál ehhez a természeti látványhoz.",
                 "ro": "Observați apusul timpuriu de la ora 17:00 direct prin parbriz; parcarea oferă locul perfect și călduros pentru a admira acest spectacol al naturii.",
-                "en": "Watch the early sunset around 17:00 directly through the windshield; the parking lot provides a perfect, warm spot for this natural winter spectacle."
+                "en": "Watch the early sunset around 17:00 directly through the windshield; the parking lot provides a perfect, warm spot for this natural winter spectacle.",
+                "fr": "Admirez le coucher de soleil précoce vers 17:00 directement à travers le pare-brise ; le parking offre un emplacement parfait et chaleureux pour ce spectacle naturel hivernal."
               }
             }
           ]

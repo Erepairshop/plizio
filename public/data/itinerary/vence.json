@@ -21,7 +21,8 @@
             "de": "Place du Grand Jardin",
             "hu": "Place du Grand Jardin",
             "ro": "Piața Marelui Grădină",
-            "en": "Place du Grand Jardin"
+            "en": "Place du Grand Jardin",
+            "fr": "Place du Grand Jardin"
           },
           "coords": [
             7.1118,
@@ -37,7 +38,7 @@
             "hu": "Kedd és péntek piaci nap.",
             "ro": "Zile de piață marți și vineri.",
             "en": "Market days Tuesday/Friday.",
-            "fr": "Jours de marché : mardi et vendredi."
+            "fr": "Marchés les mardi et vendredi."
           }
         },
         {
@@ -45,7 +46,8 @@
             "de": "Porte du Peyra & Brunnen",
             "hu": "Porte du Peyra és szökőkút",
             "ro": "Poarta Peyra și fântâna",
-            "en": "Porte du Peyra & Fountain"
+            "en": "Porte du Peyra & Fountain",
+            "fr": "Porte du Peyra et Fontaine"
           },
           "coords": [
             7.1105,
@@ -69,7 +71,8 @@
             "de": "Kathedrale von Vence",
             "hu": "Vence-i székesegyház",
             "ro": "Catedrala din Vence",
-            "en": "Cathedral of Vence"
+            "en": "Cathedral of Vence",
+            "fr": "Cathédrale de Vence"
           },
           "coords": [
             7.1102,
@@ -93,7 +96,8 @@
             "de": "Mittagessen in der Altstadt",
             "hu": "Ebéd az óvárosban",
             "ro": "Prânz în orașul vechi",
-            "en": "Lunch in the Old Town"
+            "en": "Lunch in the Old Town",
+            "fr": "Déjeuner dans la vieille ville"
           },
           "coords": [
             7.1108,
@@ -117,7 +121,8 @@
             "de": "Chapelle du Rosaire (Matisse)",
             "hu": "Matisse-kápolna",
             "ro": "Capela Rozariului (Matisse)",
-            "en": "Chapelle du Rosaire (Matisse)"
+            "en": "Chapelle du Rosaire (Matisse)",
+            "fr": "Chapelle du Rosaire (Matisse)"
           },
           "coords": [
             7.1082,
@@ -133,7 +138,7 @@
             "hu": "Matisse mesterműve.",
             "ro": "Capodopera lui Matisse.",
             "en": "Matisse's masterpiece.",
-            "fr": "Le chef-d'œuvre de Matisse."
+            "fr": "Chef-d'œuvre de Matisse."
           }
         },
         {
@@ -141,7 +146,8 @@
             "de": "Der Eschenbaum (Le Frêne)",
             "hu": "Vence-i kőris",
             "ro": "Frasinul din Vence",
-            "en": "The Ash Tree (Le Frêne)"
+            "en": "The Ash Tree (Le Frêne)",
+            "fr": "Le Frêne"
           },
           "coords": [
             7.1088,
@@ -166,7 +172,7 @@
         "hu": "Vence Provence egyik ékköve. Kezdje a reggelt a Place du Grand Jardin nyüzsgő terén. Lépjen be az óvárosba a Peyra-kapun át, és töltse meg kulacsát a híres szökőkútnál. Látogassa meg Franciaország legkisebb katedrálisát, ahol Chagall mozaikját is megcsodálhatja. Egy autentikus provanszi ebéd után sétáljon el a Matisse által tervezett Rózsafüzér-kápolnához. A napot pihenéssel zárja a történelmi kőrisfa alatt.",
         "ro": "Vence este o bijuterie a Provenței. Începeți dimineața în vibranta Place du Grand Jardin. Intrați în orașul vechi prin Poarta Peyra și umpleți-vă sticla la fântâna celebră. Vizitați cea mai mică catedrală din Franța, cu celebrul său mozaic de Chagall. După un prânz provensal autentic, mergeți la Capela Rozariului, proiectată de Henri Matisse. Încheiați ziua relaxându-vă sub frasinul istoric.",
         "en": "Vence is a jewel of Provence. Start your morning at the lively Place du Grand Jardin. Enter the old town through the Peyra Gate and fill your bottle at the famous fountain. Visit the smallest cathedral in France, featuring its famous Chagall mosaic. After an authentic Provençal lunch, walk to the Chapelle du Rosaire, designed by Henri Matisse. End the day relaxing under the historic ash tree.",
-        "fr": "Vence est un joyau de la Provence. Commencez votre matinée sur la place animée du Grand Jardin. Entrez dans la vieille ville par la porte du Peyra et remplissez votre bouteille à la célèbre fontaine. Visitez la plus petite cathédrale de France, ornée de sa célèbre mosaïque de Chagall. Après un déjeuner provençal authentique, marchez jusqu'à la chapelle du Rosaire, conçue par Henri Matisse. Terminez la journée en vous relaxant sous le frêne historique."
+        "fr": "Vence est un joyau de Provence. Commencez la matinée sur la vivante Place du Grand Jardin. Entrez dans la vieille ville par la porte Peyra et remplissez votre bouteille à la fontaine célèbre. Visitez la plus petite cathédrale de France, qui abrite sa célèbre mosaïque de Chagall. Après un déjeuner provençal authentique, marchez jusqu’à la Chapelle du Rosaire, conçue par Henri Matisse. Terminez la journée en vous relaxant sous le frêne historique."
       },
       "gastro_picks": {
         "de": [
@@ -313,7 +319,7 @@
         "fr": [
           "Portez des chaussures confortables pour les pavés.",
           "Remplissez votre bouteille à la fontaine.",
-          "La chapelle Matisse est fermée à la mi-journée."
+          "La chapelle Matisse est fermée à midi."
         ]
       }
     },
@@ -330,7 +336,8 @@
             "de": "Vence Stadtzentrum",
             "hu": "Vence városközpont",
             "ro": "Vence centrul orașului",
-            "en": "Vence City Center"
+            "en": "Vence City Center",
+            "fr": "Centre-ville de Vence"
           },
           "coords": [
             7.1117,
@@ -354,7 +361,8 @@
             "de": "St. Paul de Vence",
             "hu": "St. Paul de Vence",
             "ro": "St. Paul de Vence",
-            "en": "St. Paul de Vence"
+            "en": "St. Paul de Vence",
+            "fr": "St-Paul de Vence"
           },
           "coords": [
             7.1221,
@@ -370,7 +378,7 @@
             "hu": "Művészfalu.",
             "ro": "Satul artiștilor.",
             "en": "Artist village.",
-            "fr": "Village d'artistes."
+            "fr": "Village d’artistes."
           }
         },
         {
@@ -378,7 +386,8 @@
             "de": "Ebéd St. Paulban",
             "hu": "Ebéd St. Paulban",
             "ro": "Prânz în St. Paul",
-            "en": "Lunch in St. Paul"
+            "en": "Lunch in St. Paul",
+            "fr": "Déjeuner à St-Paul"
           },
           "coords": [
             7.1215,
@@ -402,7 +411,8 @@
             "de": "Fondation Maeght",
             "hu": "Maeght Alapítvány",
             "ro": "Fundația Maeght",
-            "en": "Fondation Maeght"
+            "en": "Fondation Maeght",
+            "fr": "Fondation Maeght"
           },
           "coords": [
             7.1147,
@@ -426,7 +436,8 @@
             "de": "Rückkehr nach Vence",
             "hu": "Visszatérés Vence-be",
             "ro": "Întoarcere în Vence",
-            "en": "Return to Vence"
+            "en": "Return to Vence",
+            "fr": "Retour à Vence"
           },
           "coords": [
             7.1117,
@@ -442,7 +453,7 @@
             "hu": "Hegymenet visszafelé.",
             "ro": "Urcare la întoarcere.",
             "en": "Uphill ride back.",
-            "fr": "Retour en montée."
+            "fr": "Montée retour à vélo."
           }
         }
       ],
@@ -451,7 +462,7 @@
         "hu": "Ez a kerékpártúra összeköti a művészetet és a történelmet. Tekerjen át Vence-ből a szomszédos St. Paul de Vence hegyi falujába. Fedezze fel a galériákat és ebédeljen a várfalon. Visszaúton látogassa meg a neves Maeght Alapítványt, mielőtt nekivágna a Vence-be vezető emelkedőnek.",
         "ro": "Acest tur cu bicicleta îmbină arta și istoria. Mergeți cu bicicleta de la Vence la satul vecin St. Paul de Vence. Explorați galeriile și bucurați-vă de prânz pe zidurile cetății. La întoarcere, vizitați renumita Fundație Maeght înainte de a aborda urcarea înapoi spre Vence.",
         "en": "This bike tour connects art and history. Cycle from Vence to the neighboring hilltop village of St. Paul de Vence. Explore the galleries and enjoy lunch on the ramparts. On the way back, visit the renowned Fondation Maeght before tackling the climb back to Vence.",
-        "fr": "Ce tour à vélo allie art et histoire. Pédalez de Vence jusqu'au village perché voisin de Saint-Paul-de-Vence. Explorez les galeries et déjeunez sur les remparts. Au retour, visitez la célèbre Fondation Maeght avant d'attaquer la montée vers Vence."
+        "fr": "Cette excursion à vélo relie art et histoire. Partez de Vence vers le village perché voisin de St-Paul de Vence. Explorez les galeries et profitez d’un déjeuner sur les remparts. Au retour, visitez la renommée Fondation Maeght avant d’affronter la montée vers Vence."
       },
       "gastro_picks": {
         "de": [
@@ -576,9 +587,9 @@
           "Park bikes before the entrance of St. Paul."
         ],
         "fr": [
-          "Les vélos électriques sont recommandés pour les collines.",
-          "Prudence avec la circulation entre les villages.",
-          "Garez les vélos avant l'entrée de Saint-Paul."
+          "Les vélos électriques sont recommandés pour les côtes.",
+          "Attention à la circulation entre les villages.",
+          "Garez les vélos avant l’entrée de St-Paul."
         ]
       }
     },
@@ -595,7 +606,8 @@
             "de": "Vence Altstadt",
             "hu": "Vence óváros",
             "ro": "Vence centrul vechi",
-            "en": "Vence Old Town"
+            "en": "Vence Old Town",
+            "fr": "Vieille ville de Vence"
           },
           "coords": [
             7.1117,
@@ -619,7 +631,8 @@
             "de": "Tourettes-sur-Loup",
             "hu": "Tourettes-sur-Loup",
             "ro": "Tourettes-sur-Loup",
-            "en": "Tourettes-sur-Loup"
+            "en": "Tourettes-sur-Loup",
+            "fr": "Tourrettes-sur-Loup"
           },
           "coords": [
             7.0592,
@@ -643,7 +656,8 @@
             "de": "Ebéd a hegyekben",
             "hu": "Ebéd a hegyekben",
             "ro": "Prânz în munți",
-            "en": "Mountain Lunch"
+            "en": "Mountain Lunch",
+            "fr": "Déjeuner à la montagne"
           },
           "coords": [
             7.0585,
@@ -667,7 +681,8 @@
             "de": "Gorges du Loup",
             "hu": "Farkas-szurdok",
             "ro": "Cheile Loup",
-            "en": "Gorges du Loup"
+            "en": "Gorges du Loup",
+            "fr": "Gorges du Loup"
           },
           "coords": [
             6.9952,
@@ -683,7 +698,7 @@
             "hu": "Vízesések.",
             "ro": "Cascade.",
             "en": "Waterfalls.",
-            "fr": "Cascades."
+            "fr": "Chutes d’eau."
           }
         },
         {
@@ -691,7 +706,8 @@
             "de": "Saut du Loup",
             "hu": "Saut du Loup",
             "ro": "Saut du Loup",
-            "en": "Saut du Loup"
+            "en": "Saut du Loup",
+            "fr": "Saut du Loup"
           },
           "coords": [
             6.9935,
@@ -707,7 +723,7 @@
             "hu": "Kilátópont.",
             "ro": "Punct panoramic.",
             "en": "Viewpoint.",
-            "fr": "Point de vue."
+            "fr": "Belvédère."
           }
         }
       ],
@@ -716,7 +732,7 @@
         "hu": "Fedezze fel Nizza hátországát. Vence-i látogatása után autózzon át a bájos középkori Tourettes-sur-Loup-ba, amely ibolyáiról híres. Élvezze az ebédet pazar kilátással, majd merüljön el a látványos Farkas-szurdok (Gorges du Loup) világában, ahol vízesések törnek utat a sziklák között.",
         "ro": "Descoperiți hinterlandul Nisei. După o vizită în Vence, conduceți spre fermecătorul sat medieval Tourettes-sur-Loup, cunoscut pentru violetele sale. Savurați un prânz cu priveliște, apoi intrați în spectaculoasele Chei ale Loup-ului (Gorges du Loup), unde cascadele întâlnesc stâncile calcaroase.",
         "en": "Discover the hinterland of Nice. After a visit to Vence, drive to the charming medieval village of Tourettes-sur-Loup, famous for its violets. Enjoy lunch with a view before diving into the spectacular Gorges du Loup, where waterfalls meet limestone cliffs.",
-        "fr": "Découvrez l'arrière-pays niçois. Après une visite de Vence, conduisez jusqu'au charmant village médiéval de Tourrettes-sur-Loup, célèbre pour ses violettes. Profitez d'un déjeuner avec vue avant de plonger dans les spectaculaires Gorges du Loup, où les cascades côtoient les falaises de calcaire."
+        "fr": "Découvrez l’arrière-pays de Nice. Après la visite de Vence, rendez-vous en voiture jusqu’au charmant village médiéval de Tourrettes-sur-Loup, célèbre pour ses violettes. Savourez un déjeuner avec vue avant de vous engager dans les spectaculaires Gorges du Loup, où cascades et falaises calcaires se rencontrent."
       },
       "gastro_picks": {
         "de": [
@@ -842,8 +858,8 @@
         ],
         "fr": [
           "Routes étroites dans les gorges.",
-          "Utilisez le parking à l'entrée de Tourrettes.",
-          "L'entrée au Saut du Loup est payante."
+          "Utilisez le parking à l’entrée de Tourrettes.",
+          "L’accès au Saut du Loup est payant."
         ]
       }
     },
@@ -860,7 +876,8 @@
             "de": "Vence Haltestelle",
             "hu": "Vence megálló",
             "ro": "Stația Vence",
-            "en": "Vence Stop"
+            "en": "Vence Stop",
+            "fr": "Arrêt Vence"
           },
           "coords": [
             7.1117,
@@ -884,7 +901,8 @@
             "de": "St. Paul de Vence (Bus 400)",
             "hu": "St. Paul de Vence (400-as busz)",
             "ro": "St. Paul de Vence (Autobuz 400)",
-            "en": "St. Paul de Vence (Bus 400)"
+            "en": "St. Paul de Vence (Bus 400)",
+            "fr": "St-Paul de Vence (Bus 400)"
           },
           "coords": [
             7.1221,
@@ -900,7 +918,7 @@
             "hu": "Kilátás a dombokra.",
             "ro": "Vedere spre dealuri.",
             "en": "Hill views.",
-            "fr": "Vues sur les collines."
+            "fr": "Vues depuis la colline."
           }
         },
         {
@@ -908,7 +926,8 @@
             "de": "Ebéd a faluban",
             "hu": "Ebéd a faluban",
             "ro": "Prânz în sat",
-            "en": "Lunch in the Village"
+            "en": "Lunch in the Village",
+            "fr": "Déjeuner au village"
           },
           "coords": [
             7.122,
@@ -932,7 +951,8 @@
             "de": "Cagnes-sur-Mer",
             "hu": "Cagnes-sur-Mer",
             "ro": "Cagnes-sur-Mer",
-            "en": "Cagnes-sur-Mer"
+            "en": "Cagnes-sur-Mer",
+            "fr": "Cagnes-sur-Mer"
           },
           "coords": [
             7.1458,
@@ -956,7 +976,8 @@
             "de": "Rückkehr nach Vence",
             "hu": "Visszatérés Vence-be",
             "ro": "Întoarcere în Vence",
-            "en": "Return to Vence"
+            "en": "Return to Vence",
+            "fr": "Retour à Vence"
           },
           "coords": [
             7.1117,
@@ -981,7 +1002,7 @@
         "hu": "Használja a kiváló buszhálózatot (400-as vonal) a régió felfedezéséhez. Reggel látogassa meg Vence-t, majd utazzon át St. Paul de Vence-be, és zárja a napot Cagnes-sur-Merben, mielőtt kényelmesen visszatérne busszal.",
         "ro": "Utilizați rețeaua excelentă de autobuze (linia 400) pentru a explora regiunea. Vizitați Vence dimineața, apoi mergeți la St. Paul de Vence și încheiați ziua în Cagnes-sur-Mer înainte de a reveni confortabil cu autobuzul.",
         "en": "Use the excellent bus network (line 400) to explore the region. Visit Vence in the morning, then travel to St. Paul de Vence, and perhaps end the day in Cagnes-sur-Mer before returning comfortably by bus.",
-        "fr": "Utilisez l'excellent réseau de bus (ligne 400) pour explorer la région. Visitez Vence le matin, puis rendez-vous à Saint-Paul-de-Vence, et terminez peut-être la journée à Cagnes-sur-Mer avant de revenir confortablement en bus."
+        "fr": "Utilisez l’excellent réseau de bus (ligne 400) pour explorer la région. Visitez Vence le matin, puis voyagez jusqu’à St-Paul de Vence, et terminez éventuellement la journée à Cagnes-sur-Mer avant de rentrer confortablement en bus."
       },
       "gastro_picks": {
         "de": [
@@ -1107,7 +1128,7 @@
         ],
         "fr": [
           "La ligne de bus 400 est très fiable.",
-          "Prévoyez de la monnaie pour le bus.",
+          "Ayez de la petite monnaie pour le bus.",
           "Vérifiez les horaires aux arrêts."
         ]
       }

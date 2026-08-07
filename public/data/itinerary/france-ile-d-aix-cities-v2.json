@@ -21,7 +21,8 @@
             "de": "Fort de la Rade",
             "hu": "Fort de la Rade",
             "ro": "Fort de la Rade",
-            "en": "Fort de la Rade"
+            "en": "Fort de la Rade",
+            "fr": "Fort de la Rade"
           },
           "coords": [
             -1.176595,
@@ -36,7 +37,8 @@
             "de": "Erkunden Sie die robusten Befestigungsanlagen dieser historischen Stätte, die die Küste schützte, und tragen Sie bequeme Schuhe für die Mauern.",
             "hu": "Fedezze fel a partvonalat védő történelmi helyszín masszív erődítményeit, és feltétlenül viseljen kényelmes cipőt a falakon való sétához.",
             "ro": "Explorați fortificațiile robuste ale acestui sit istoric care proteja coasta și purtați neapărat încălțăminte comodă pentru a vă plimba pe ziduri.",
-            "en": "Explore the robust fortifications of this historical site that protected the coastline, and be sure to wear comfortable shoes for walking the walls."
+            "en": "Explore the robust fortifications of this historical site that protected the coastline, and be sure to wear comfortable shoes for walking the walls.",
+            "fr": "Explorez les solides fortifications de ce site historique et veillez à porter des chaussures confortables pour marcher sur les remparts."
           }
         },
         {
@@ -44,7 +46,8 @@
             "de": "Plage de l'Anse de la Croix",
             "hu": "Plage de l'Anse de la Croix",
             "ro": "Plage de l'Anse de la Croix",
-            "en": "Plage de l'Anse de la Croix"
+            "en": "Plage de l'Anse de la Croix",
+            "fr": "Plage de l'Anse de la Croix"
           },
           "coords": [
             -1.17781,
@@ -59,7 +62,8 @@
             "de": "Genießen Sie eine entspannende Pause an diesem Strand mit atemberaubendem Blick auf Fort Boyard, ideal für ein schnelles Bad bei richtiger Flut.",
             "hu": "Élvezze a pihentető szünetet ezen a bájos strandon, ahonnan lenyűgöző kilátás nyílik a Fort Boyard-ra, ami ideális egy gyors, frissítő csobbanásra.",
             "ro": "Bucurați-vă de o pauză relaxantă la această plajă cu vedere uimitoare la Fort Boyard, perfectă pentru o baie rapidă dacă mareea este favorabilă.",
-            "en": "Enjoy a relaxing break at this charming crescent beach with stunning views of Fort Boyard, perfect for a quick refreshing dip if the tide is right."
+            "en": "Enjoy a relaxing break at this charming crescent beach with stunning views of Fort Boyard, perfect for a quick refreshing dip if the tide is right.",
+            "fr": "Profitez d'une pause relaxante sur cette plage en croissant charmante offrant une vue splendide sur Fort Boyard, parfaite pour une courte baignade revigorante si la marée le permet."
           }
         },
         {
@@ -67,7 +71,8 @@
             "de": "Sémaphore",
             "hu": "Sémaphore",
             "ro": "Sémaphore",
-            "en": "Sémaphore"
+            "en": "Sémaphore",
+            "fr": "Sémaphore"
           },
           "coords": [
             -1.177033,
@@ -82,7 +87,8 @@
             "de": "Bewundern Sie den hoch aufragenden maritimen Semaphor als nautisches Herz der Insel und machen Sie die besten Fotos vom Weg direkt darunter aus.",
             "hu": "Csodálja meg a sziget tengerészeti szíveként működő tornyosuló szemaforot, és készítse el a legjobb fotókat a közvetlenül alatta lévő ösvényről.",
             "ro": "Admirați semaforul maritim impunător, inima navigației pe insulă, și surprindeți cele mai bune fotografii de pe poteca aflată chiar dedesubt.",
-            "en": "Admire the towering maritime semaphore that acts as the island's navigational heart, and capture the best photos from the pathway just below it."
+            "en": "Admire the towering maritime semaphore that acts as the island's navigational heart, and capture the best photos from the pathway just below it.",
+            "fr": "Admirez le sémaphore maritime dominant qui fait office de cœur de la navigation de l'île et prenez vos meilleures photos depuis le chemin juste en dessous."
           }
         },
         {
@@ -90,7 +96,8 @@
             "de": "Musée Napoléon",
             "hu": "Musée Napoléon",
             "ro": "Musée Napoléon",
-            "en": "Musée Napoléon"
+            "en": "Musée Napoléon",
+            "fr": "Musée Napoléon"
           },
           "coords": [
             -1.174658,
@@ -105,7 +112,8 @@
             "de": "Treten Sie in die Geschichte des Hauses ein, in dem Kaiser Napoleon seine letzten Tage in Frankreich verbrachte, und achten Sie auf die Möbel.",
             "hu": "Lépjen be a történelembe abban a házban, ahol Napóleon császár utolsó franciaországi napjait töltötte, és figyelje meg az aprólékos korabeli bútorokat.",
             "ro": "Pășiți în istorie chiar în casa în care împăratul Napoleon și-a petrecut ultimele zile în Franța și urmăriți mobilierul de epocă expus.",
-            "en": "Step into history at the very house where Emperor Napoleon spent his final days in France, and look out for the intricate period furniture on display."
+            "en": "Step into history at the very house where Emperor Napoleon spent his final days in France, and look out for the intricate period furniture on display.",
+            "fr": "Plongez dans l'histoire dans la maison même où l'Empereur Napoléon passa ses derniers jours en France, et repérez les meubles d'époque finement travaillés exposés."
           }
         },
         {
@@ -113,7 +121,8 @@
             "de": "Musée de la Nacre",
             "hu": "Musée de la Nacre",
             "ro": "Musée de la Nacre",
-            "en": "Musée de la Nacre"
+            "en": "Musée de la Nacre",
+            "fr": "Musée de la Nacre"
           },
           "coords": [
             -1.173587,
@@ -128,7 +137,8 @@
             "de": "Entdecken Sie in diesem einzigartigen Museum das faszinierende lokale Handwerk der Perlmuttverarbeitung und kaufen Sie ein handgeschnitztes Souvenir.",
             "hu": "Fedezze fel a gyöngyházmegmunkálás lenyűgöző helyi mesterségét ebben az egyedi múzeumban, és fontolja meg egy kézzel faragott ajándék vásárlását.",
             "ro": "Descoperiți meșteșugul local fascinant al prelucrării sidefului la acest muzeu unic și luați în considerare achiziționarea unui suvenir sculptat manual.",
-            "en": "Discover the fascinating local craft of mother-of-pearl working at this unique museum, and consider purchasing a hand-carved souvenir in the shop."
+            "en": "Discover the fascinating local craft of mother-of-pearl working at this unique museum, and consider purchasing a hand-carved souvenir in the shop.",
+            "fr": "Découvrez l'artisanat local fascinant du travail de la nacre dans ce musée unique et pensez à acheter un souvenir sculpté à la main dans la boutique."
           }
         },
         {
@@ -136,7 +146,8 @@
             "de": "Pointe Sainte-Catherine",
             "hu": "Pointe Sainte-Catherine",
             "ro": "Pointe Sainte-Catherine",
-            "en": "Pointe Sainte-Catherine"
+            "en": "Pointe Sainte-Catherine",
+            "fr": "Pointe Sainte-Catherine"
           },
           "coords": [
             -1.177015,
@@ -151,7 +162,8 @@
             "de": "Beenden Sie Ihren Spaziergang an dieser südlichsten Spitze mit spektakulären Meerespanoramen, die besonders magisch sind, wenn Sie die goldene Stunde abwarten.",
             "hu": "Fejezze be sétáját ezen a legdélibb ponton, amely látványos óceáni panorámát kínál, és amely különösen varázslatos az aranyóra fényében.",
             "ro": "Încheiați plimbarea la acest punct sudic care oferă panorame spectaculoase ale oceanului, deosebit de magic dacă așteptați ora de aur a apusului.",
-            "en": "End your walk at this southernmost tip offering spectacular sweeping ocean panoramas, which is especially magical if you wait for the golden hour."
+            "en": "End your walk at this southernmost tip offering spectacular sweeping ocean panoramas, which is especially magical if you wait for the golden hour.",
+            "fr": "Terminez votre promenade à cette pointe la plus au sud qui offre des panoramas spectaculaires sur l'océan, particulièrement magique si vous attendez l'heure dorée."
           }
         }
       ],
@@ -159,7 +171,8 @@
         "de": "Der Morgen beginnt an den imposanten Mauern des Fort de la Rade, wo Sie Küstengeschichte neben spektakulären Gezeiten erwartet. Gegen Mittag führt ein Spaziergang zur Plage de l'Anse de la Croix und zum hoch aufragenden Sémaphore. Der Nachmittag lädt mit dem Musée Napoléon und dem faszinierenden Musée de la Nacre zu einem tiefen Eintauchen in die Kultur ein. Wenn der Abend naht, bietet die südliche Spitze der Pointe Sainte-Catherine einen atemberaubend friedlichen Blick auf den Ozean, um Ihre Tour abzuschließen.",
         "hu": "A reggel a Fort de la Rade impozáns falaival kezdődik, ahol a part menti történelem a lenyűgöző árapállyal várja. Délben egy séta a Plage de l'Anse de la Croix-hoz és a tornyosuló Sémaphore-hoz vezet, jelezve a sziget jelentőségét. A délután a helyi kultúrában való elmélyülésre hív a Musée Napoléon és az érdekes Musée de la Nacre révén. Ahogy közeledik az este, a Pointe Sainte-Catherine déli csücske lélegzetelállítóan békés óceáni panorámát nyújt a kényelmes séta megkoronázásaként.",
         "ro": "Dimineața începe cu zidurile impunătoare ale Fort de la Rade, unde istoria coastei vă întâmpină alături de mareele spectaculoase. La prânz, o plimbare vă duce la Plage de l'Anse de la Croix și la Sémaphore, marcând importanța insulei. După-amiaza vă invită la o incursiune în cultura locală la Musée Napoléon și la fascinantul Musée de la Nacre. Odată cu lăsarea serii, extremitatea sudică de la Pointe Sainte-Catherine oferă o priveliște liniștită a oceanului pentru a încheia turul de plimbare.",
-        "en": "Morning begins with the imposing walls of Fort de la Rade, where coastal history greets you alongside spectacular morning tides. By midday, a stroll takes you to Plage de l'Anse de la Croix and the towering Sémaphore, marking the island's navigational significance. The afternoon invites deep dives into local culture at Musée Napoléon and the intriguing Musée de la Nacre. As evening approaches, the southern extremity of Pointe Sainte-Catherine provides a breathtakingly peaceful ocean vista to conclude your leisurely walking tour."
+        "en": "Morning begins with the imposing walls of Fort de la Rade, where coastal history greets you alongside spectacular morning tides. By midday, a stroll takes you to Plage de l'Anse de la Croix and the towering Sémaphore, marking the island's navigational significance. The afternoon invites deep dives into local culture at Musée Napoléon and the intriguing Musée de la Nacre. As evening approaches, the southern extremity of Pointe Sainte-Catherine provides a breathtakingly peaceful ocean vista to conclude your leisurely walking tour.",
+        "fr": "La matinée commence par les imposants murs du Fort de la Rade, où l'histoire côtière vous accueille aux côtés de marées du matin spectaculaires. À midi, une promenade vous mène à la Plage de l'Anse de la Croix et au Sémaphore, marquant l'importance navigatrice de l'île. L'après-midi invite à des plongées profondes dans la culture locale au Musée Napoléon et à l'intrigant Musée de la Nacre. Au crépuscule, l'extrémité sud de la Pointe Sainte-Catherine offre une vue océanique paisible et à couper le souffle pour conclure votre balade tranquille."
       },
       "variants": {
         "rainy": {
@@ -167,7 +180,8 @@
             "de": "Der Tag beginnt regnerisch am Fort de la Rade, wo die grauen Steine im nassen Glanz schimmern. Mittags bietet das Dorfzentrum Schutz vor den Schauern. Am Nachmittag sind die Museen ideale Zufluchtsorte, um trocken in die Geschichte einzutauchen. Der Abend klingt bei prasselndem Regen in der gemütlichen Atmosphäre der Insel aus, während die Wege etwas rutschig sein können.",
             "hu": "A nap esősen indul a Fort de la Rade falai között, ahol a nedves kövek különleges fényt kapnak. Délben a falu központjában keresünk menedéket a záporok elől. A délutáni múzeumlátogatások tökéletes fedett programot nyújtanak a viharos szélben. Este az eső kopogása mellett élvezhetjük a sziget csendjét, ügyelve a helyenként csúszóssá váló tengerparti ösvényekre.",
             "ro": "Ziua începe cu ploaie la Fort de la Rade, unde zidurile vechi capătă o strălucire aparte sub cerul gri. La prânz, centrul satului oferă adăpost împotriva averselor. După-amiaza este dedicată muzeelor, refugii perfecte pentru a rămâne uscat în timp ce explorezi istoria. Seara se încheie cu sunetul ploii, într-o atmosferă intimă, având grijă la potecile care pot deveni alunecoase.",
-            "en": "The day starts rainy at Fort de la Rade, where the wet stones glisten under the gray sky. At noon, the village center provides shelter from the passing showers. In the afternoon, the local museums serve as perfect indoor retreats to stay dry while diving into history. The evening ends with the rhythmic sound of rain, creating a cozy island atmosphere despite the damp paths."
+            "en": "The day starts rainy at Fort de la Rade, where the wet stones glisten under the gray sky. At noon, the village center provides shelter from the passing showers. In the afternoon, the local museums serve as perfect indoor retreats to stay dry while diving into history. The evening ends with the rhythmic sound of rain, creating a cozy island atmosphere despite the damp paths.",
+            "fr": "La journée commence sous la pluie au Fort de la Rade, où les pierres humides luisent sous le ciel gris. À midi, le centre du village offre un abri contre les averses. L'après-midi, les musées locaux servent de parfaits refuges intérieurs pour rester au sec tout en plongeant dans l'histoire. La soirée se termine sur le bruit rythmique de la pluie, créant une atmosphère insulaire cocooning malgré les chemins détrempés."
           },
           "stops": [
             {
@@ -175,13 +189,15 @@
                 "de": "Fort de la Rade",
                 "hu": "Fort de la Rade",
                 "ro": "Fort de la Rade",
-                "en": "Fort de la Rade"
+                "en": "Fort de la Rade",
+                "fr": "Fort de la Rade"
               },
               "tip_5lang": {
                 "de": "Erkunden Sie die Festungswälle und achten Sie auf die rutschigen Steinpfade; die hohen Mauern bieten stellenweise guten Schutz vor dem peitschenden Wind.",
                 "hu": "Fedezze fel az erőd falait, de vigyázzon a csúszós kőfelületekre; a magas falak néhol kiváló szélárnyékot biztosítanak az esős záporok idején.",
                 "ro": "Explorați bastioanele fortăreței și aveți grijă la suprafețele de piatră alunecoase; zidurile înalte oferă protecție bună împotriva vântului tăios.",
-                "en": "Explore the fortress ramparts and watch out for slippery stone paths; the high walls provide good wind protection in several spots during rain."
+                "en": "Explore the fortress ramparts and watch out for slippery stone paths; the high walls provide good wind protection in several spots during rain.",
+                "fr": "Explorez les remparts de la forteresse et méfiez-vous des pierres glissantes ; les hauts murs offrent une bonne protection contre le vent à plusieurs endroits pendant la pluie."
               }
             },
             {
@@ -189,13 +205,15 @@
                 "de": "Plage de l'Anse de la Croix",
                 "hu": "Plage de l'Anse de la Croix",
                 "ro": "Plage de l'Anse de la Croix",
-                "en": "Plage de l'Anse de la Croix"
+                "en": "Plage de l'Anse de la Croix",
+                "fr": "Plage de l'Anse de la Croix"
               },
               "tip_5lang": {
                 "de": "Ein kurzer, erfrischender Strandspaziergang im Regen ist herrlich, sofern Sie wasserfeste Schuhe tragen, um den nassen Sand und Algen zu trotzen.",
                 "hu": "Egy rövid, frissítő tengerparti séta az esőben is élvezetes, ha vízálló cipőt visel a nedves homok és a kimosott hínárok közötti barangoláshoz.",
                 "ro": "O scurtă plimbare revigorantă pe plajă în ploaie este minunată, cu condiția să purtați încălțăminte impermeabilă pentru nisipul ud și alge.",
-                "en": "A short, refreshing beach walk in the rain is wonderful if you wear waterproof shoes to navigate the wet sand and washed-up seaweed."
+                "en": "A short, refreshing beach walk in the rain is wonderful if you wear waterproof shoes to navigate the wet sand and washed-up seaweed.",
+                "fr": "Une courte promenade rafraîchissante sur la plage sous la pluie est merveilleuse si vous portez des chaussures imperméables pour traverser le sable mouillé et les algues échouées."
               }
             },
             {
@@ -203,13 +221,15 @@
                 "de": "Sémaphore",
                 "hu": "Sémaphore",
                 "ro": "Sémaphore",
-                "en": "Sémaphore"
+                "en": "Sémaphore",
+                "fr": "Sémaphore"
               },
               "tip_5lang": {
                 "de": "Der Ausblick vom Semaphor ist auch bei Regen dramatisch; nutzen Sie ein Fernglas unter einem stabilen Regenschirm, um die stürmische See zu beobachten.",
                 "hu": "A szemafor felől a kilátás esőben is drámai; használjon távcsövet egy stabil esernyő alatt, hogy megfigyelje a viharos, tajtékzó tengert.",
                 "ro": "Vederea de la semafor este dramatică chiar și pe ploaie; folosiți un binoclu sub o umbrelă stabilă pentru a observa marea învolburată.",
-                "en": "The view from the semaphore is dramatic even in rain; use binoculars under a sturdy umbrella to observe the churning, stormy Atlantic sea."
+                "en": "The view from the semaphore is dramatic even in rain; use binoculars under a sturdy umbrella to observe the churning, stormy Atlantic sea.",
+                "fr": "La vue depuis le sémaphore est spectaculaire même sous la pluie ; utilisez des jumelles sous un parapluie solide pour observer l'Atlantique en furie."
               }
             },
             {
@@ -217,13 +237,15 @@
                 "de": "Musée Napoléon",
                 "hu": "Musée Napoléon",
                 "ro": "Musée Napoléon",
-                "en": "Musée Napoléon"
+                "en": "Musée Napoléon",
+                "fr": "Musée Napoléon"
               },
               "tip_5lang": {
                 "de": "Dies ist der beste Ort, um dem Regen zu entfliehen; genießen Sie die umfangreiche Sammlung in den trockenen, geschichtsträchtigen Räumen des Kaisers.",
                 "hu": "Ez a legjobb hely az eső elől való menekülésre; élvezze a gazdag gyűjteményt a császár száraz, történelmi hangulatú szobáiban barangolva.",
                 "ro": "Acesta este cel mai bun loc pentru a scăpa de ploaie; bucurați-vă de colecția bogată în camerele uscate și pline de istorie ale împăratului.",
-                "en": "This is the best place to escape the rain; enjoy the extensive collection inside the dry, historically rich rooms where Napoleon once stayed."
+                "en": "This is the best place to escape the rain; enjoy the extensive collection inside the dry, historically rich rooms where Napoleon once stayed.",
+                "fr": "C'est l'endroit idéal pour échapper à la pluie ; profitez de la vaste collection à l'abri dans les pièces historiques et sèches où Napoléon séjourna."
               }
             },
             {
@@ -231,13 +253,15 @@
                 "de": "Musée de la Nacre",
                 "hu": "Musée de la Nacre",
                 "ro": "Musée de la Nacre",
-                "en": "Musée de la Nacre"
+                "en": "Musée de la Nacre",
+                "fr": "Musée de la Nacre"
               },
               "tip_5lang": {
                 "de": "Bewundern Sie das Kunsthandwerk aus Perlmutt im trockenen Inneren; der Museumsshop ist ideal, um in Ruhe ein Souvenir ohne Regenhektik auszuwählen.",
                 "hu": "Csodálja meg a gyöngyház-kézművességet a száraz belső térben; a múzeumi bolt ideális egy szuvenír nyugodt kiválasztásához az eső elől bujkálva.",
                 "ro": "Admirați măiestria sidefului în interiorul uscat; magazinul muzeului este ideal pentru a alege un suvenir în liniște, fără graba cauzată de ploaie.",
-                "en": "Admire the mother-of-pearl craftsmanship in the dry interior; the museum shop is ideal for picking a souvenir calmly away from the rain."
+                "en": "Admire the mother-of-pearl craftsmanship in the dry interior; the museum shop is ideal for picking a souvenir calmly away from the rain.",
+                "fr": "Admirez le travail de la nacre dans l'intérieur sec ; la boutique du musée est idéale pour choisir un souvenir au calme loin de la pluie."
               }
             },
             {
@@ -245,13 +269,15 @@
                 "de": "Pointe Sainte-Catherine",
                 "hu": "Pointe Sainte-Catherine",
                 "ro": "Pointe Sainte-Catherine",
-                "en": "Pointe Sainte-Catherine"
+                "en": "Pointe Sainte-Catherine",
+                "fr": "Pointe Sainte-Catherine"
               },
               "tip_5lang": {
                 "de": "Die Landspitze ist dem Wind stark ausgesetzt; tragen Sie eine windfeste Regenjacke, um die raue Schönheit der Küste sicher genießen zu können.",
                 "hu": "A szirt fokozottan ki van téve a szélnek; viseljen szélálló esőkabátot, hogy biztonságban élvezhesse a partvidék vad, eső áztatta szépségét.",
                 "ro": "Promontoriul este puternic expus vântului; purtați o jachetă de ploaie rezistentă la vânt pentru a savura frumusețea brută a coastei în siguranță.",
-                "en": "The point is highly exposed to the wind; wear a windproof rain jacket to safely enjoy the raw, rain-soaked beauty of the coastline."
+                "en": "The point is highly exposed to the wind; wear a windproof rain jacket to safely enjoy the raw, rain-soaked beauty of the coastline.",
+                "fr": "La pointe est très exposée au vent ; portez une veste imperméable coupe-vent pour profiter en toute sécurité de la beauté brute et trempée de la côte."
               }
             }
           ]
@@ -261,7 +287,8 @@
             "de": "Ein frischer Wintermorgen am Fort lässt die Meeresluft besonders klar wirken. Mittags wärmen die Museen die Besucher auf, während die Sonne tief über dem Horizont steht. Da es bereits gegen 17:00 Uhr dunkel wird, sollte man den Nachmittag für die Küstenwege nutzen. Der Abend ist ruhig und friedlich, ideal für einen frühen Rückzug in die Wärme nach einem Tag an der kühlen Atlantikluft.",
             "hu": "A friss téli reggel az erődnél különösen tiszta tengeri levegőt ígér. Délben a múzeumok nyújtanak meleg menedéket, miközben a nap alacsonyan jár a horizont felett. Mivel 17:00 körül már sötétedik, a délutánt érdemes a parti sétákra szánni. Az este csendes és békés, tökéletes a korai visszavonulásra a melegbe a hűvös atlanti széllel teli nap után.",
             "ro": "O dimineață răcoroasă de iarnă la fort face ca aerul mării să pară extrem de clar. La prânz, muzeele încălzesc vizitatorii, în timp ce soarele rămâne jos la orizont. Deoarece se întunecă deja în jurul orei 17:00, profitați de după-amiază pentru potecile de coastă. Seara este calmă, ideală pentru o retragere timpurie la căldură după o zi în aerul rece al Atlanticului.",
-            "en": "A crisp winter morning at the fort offers exceptionally clear sea air. At noon, museums warm up visitors while the sun stays low on the horizon. As darkness falls around 17:00, use the afternoon for coastal walks. The evening is quiet and peaceful, perfect for an early retreat to the warmth after a day spent in the chilly Atlantic breeze."
+            "en": "A crisp winter morning at the fort offers exceptionally clear sea air. At noon, museums warm up visitors while the sun stays low on the horizon. As darkness falls around 17:00, use the afternoon for coastal walks. The evening is quiet and peaceful, perfect for an early retreat to the warmth after a day spent in the chilly Atlantic breeze.",
+            "fr": "Un matin d'hiver vif au fort offre un air de mer exceptionnellement clair. À midi, les musées réchauffent les visiteurs pendant que le soleil reste bas à l'horizon. Lorsque l'obscurité tombe vers 17:00, utilisez l'après-midi pour des promenades côtières. La soirée est calme et paisible, parfaite pour un retour précoce au chaud après une journée passée dans la brise fraîche de l'Atlantique."
           },
           "stops": [
             {
@@ -269,13 +296,15 @@
                 "de": "Fort de la Rade",
                 "hu": "Fort de la Rade",
                 "ro": "Fort de la Rade",
-                "en": "Fort de la Rade"
+                "en": "Fort de la Rade",
+                "fr": "Fort de la Rade"
               },
               "tip_5lang": {
                 "de": "Die kalte Brise ist an den Mauern deutlich spürbar; ziehen Sie sich in Schichten an, um die klare Sicht auf das Festland ohne zu frieren zu genießen.",
                 "hu": "A falaknál erősen érezhető a hideg szél; öltözzön rétegesen, hogy fázás nélkül élvezhesse a téli napsütésben tündöklő szárazföldi kilátást.",
                 "ro": "Briza rece este resimțită puternic la ziduri; îmbrăcați-vă în straturi pentru a vă bucura de vederea clară spre continent fără a îngheța.",
-                "en": "The cold breeze is very noticeable at the walls; dress in layers to enjoy the clear views of the mainland without getting chilled."
+                "en": "The cold breeze is very noticeable at the walls; dress in layers to enjoy the clear views of the mainland without getting chilled.",
+                "fr": "La brise froide se fait très sentir aux remparts ; habillez-vous en couches pour profiter des vues claires du continent sans avoir froid."
               }
             },
             {
@@ -283,13 +312,15 @@
                 "de": "Plage de l'Anse de la Croix",
                 "hu": "Plage de l'Anse de la Croix",
                 "ro": "Plage de l'Anse de la Croix",
-                "en": "Plage de l'Anse de la Croix"
+                "en": "Plage de l'Anse de la Croix",
+                "fr": "Plage de l'Anse de la Croix"
               },
               "tip_5lang": {
                 "de": "Der Strand ist im Winter fast menschenleer; ein kurzer Spaziergang im weichen Winterlicht bietet tolle Fotomotive, aber Handschuhe sind ratsam.",
                 "hu": "A strand télen szinte teljesen néptelen; egy rövid séta a lágy téli fényekben remek fotótéma, de a kesztyű viselése erősen ajánlott.",
                 "ro": "Plaja este aproape pustie iarna; o scurtă plimbare în lumina blândă de iarnă oferă motive foto grozave, dar mănușile sunt recomandate.",
-                "en": "The beach is nearly deserted in winter; a short walk in the soft winter light offers great photo opportunities, but gloves are highly advised."
+                "en": "The beach is nearly deserted in winter; a short walk in the soft winter light offers great photo opportunities, but gloves are highly advised.",
+                "fr": "La plage est presque déserte en hiver ; une courte promenade sous la douce lumière hivernale offre de belles opportunités photo, mais des gants sont fortement recommandés."
               }
             },
             {
@@ -297,13 +328,15 @@
                 "de": "Sémaphore",
                 "hu": "Sémaphore",
                 "ro": "Sémaphore",
-                "en": "Sémaphore"
+                "en": "Sémaphore",
+                "fr": "Sémaphore"
               },
               "tip_5lang": {
                 "de": "Beobachten Sie das frühe Lichtspiel am Horizont; die klare Winterluft ermöglicht oft eine weite Sicht bis zum Fort Boyard, wenn man warm eingepackt ist.",
                 "hu": "Figyelje meg a korai fényeket a horizonton; a tiszta téli levegőben gyakran ellátni egészen Fort Boyard-ig, ha jól be van bugyolálva.",
                 "ro": "Observați jocul de lumini pe orizont; aerul clar de iarnă permite adesea o vedere până la Fort Boyard, dacă sunteți bine înfofolit.",
-                "en": "Watch the early light play on the horizon; the clear winter air often allows views all the way to Fort Boyard if you are warmly wrapped up."
+                "en": "Watch the early light play on the horizon; the clear winter air often allows views all the way to Fort Boyard if you are warmly wrapped up.",
+                "fr": "Observez la lumière matinale jouer sur l'horizon ; l'air d'hiver clair permet souvent de voir jusqu'à Fort Boyard si vous êtes bien emmitouflé."
               }
             },
             {
@@ -311,13 +344,15 @@
                 "de": "Musée Napoléon",
                 "hu": "Musée Napoléon",
                 "ro": "Musée Napoléon",
-                "en": "Musée Napoléon"
+                "en": "Musée Napoléon",
+                "fr": "Musée Napoléon"
               },
               "tip_5lang": {
                 "de": "Die geheizten Räume sind im Winter ein Segen; nehmen Sie sich Zeit für die Exponate und entfliehen Sie der Kälte für eine ausgiebige Geschichtsstunde.",
                 "hu": "A fűtött szobák télen igazi áldást jelentenek; szánjon időt a kiállításokra, és meneküljön be a hideg elől egy alapos történelmi leckére.",
                 "ro": "Încăperile încălzite sunt o binecuvântare iarna; acordați-vă timp pentru exponate și evadați din frig pentru o lecție de istorie detaliată.",
-                "en": "The heated rooms are a blessing in winter; take your time with the exhibits and escape the cold for an extensive history lesson indoors."
+                "en": "The heated rooms are a blessing in winter; take your time with the exhibits and escape the cold for an extensive history lesson indoors.",
+                "fr": "Les salles chauffées sont une bénédiction en hiver ; prenez votre temps avec les expositions et échappez au froid pour une longue leçon d'histoire intérieure."
               }
             },
             {
@@ -325,13 +360,15 @@
                 "de": "Musée de la Nacre",
                 "hu": "Musée de la Nacre",
                 "ro": "Musée de la Nacre",
-                "en": "Musée de la Nacre"
+                "en": "Musée de la Nacre",
+                "fr": "Musée de la Nacre"
               },
               "tip_5lang": {
                 "de": "Ein weiterer gemütlicher Ort zum Aufwärmen; bewundern Sie das schimmernde Perlmutt, das in den warmen Innenräumen besonders schön zur Geltung kommt.",
                 "hu": "Egy újabb barátságos hely a felmelegedésre; csodálja meg a csillogó gyöngyházat, amely a meleg belső terekben különösen szépen érvényesül.",
                 "ro": "Un alt loc primitor pentru a vă încălzi; admirați sideful sclipitor care arată deosebit de frumos în spațiile interioare călduroase.",
-                "en": "Another cozy spot to warm up; admire the shimmering mother-of-pearl which looks particularly beautiful in the warm indoor lighting."
+                "en": "Another cozy spot to warm up; admire the shimmering mother-of-pearl which looks particularly beautiful in the warm indoor lighting.",
+                "fr": "Un autre endroit chaleureux pour se réchauffer ; admirez la nacre chatoyante qui paraît particulièrement belle sous l'éclairage intérieur."
               }
             },
             {
@@ -339,13 +376,15 @@
                 "de": "Pointe Sainte-Catherine",
                 "hu": "Pointe Sainte-Catherine",
                 "ro": "Pointe Sainte-Catherine",
-                "en": "Pointe Sainte-Catherine"
+                "en": "Pointe Sainte-Catherine",
+                "fr": "Pointe Sainte-Catherine"
               },
               "tip_5lang": {
                 "de": "Besuchen Sie diesen Ort vor 16:30 Uhr, um die Dämmerung zu erleben; die Kombination aus Kälte und Abendrot über dem Meer ist unvergesslich.",
                 "hu": "Látogasson el ide 16:30 előtt, hogy elcsípje a szürkületet; a hideg és a tenger feletti alkonyi pír kombinációja felejthetetlen élmény.",
                 "ro": "Vizitați acest punct înainte de 16:30 pentru a prinde amurgul; combinația de frig și roșul apusului peste mare este de neuitat.",
-                "en": "Visit this spot before 16:30 to catch the dusk; the combination of the cold and the sunset glow over the sea is truly unforgettable."
+                "en": "Visit this spot before 16:30 to catch the dusk; the combination of the cold and the sunset glow over the sea is truly unforgettable.",
+                "fr": "Visitez ce lieu avant 16:30 pour profiter du crépuscule ; la combinaison du froid et de la lueur du coucher de soleil sur la mer est vraiment inoubliable."
               }
             }
           ]
@@ -365,7 +404,8 @@
             "de": "Fort de la Rade",
             "hu": "Fort de la Rade",
             "ro": "Fort de la Rade",
-            "en": "Fort de la Rade"
+            "en": "Fort de la Rade",
+            "fr": "Fort de la Rade"
           },
           "coords": [
             -1.176595,
@@ -380,7 +420,8 @@
             "de": "Beginnen Sie Ihren Radtag mit der Erkundung der Tore dieser Festung und achten Sie darauf, nicht im geschützten Innenhof mit dem Fahrrad zu fahren.",
             "hu": "Kezdje a kerékpáros napot ennek a kolosszális kőerődnek a felfedezésével, ügyelve arra, hogy ne kerékpározzon a védett belső udvar területén.",
             "ro": "Începeți ziua de ciclism explorând porțile acestei fortărețe colosale din piatră, având grijă să nu mergeți cu bicicleta în curtea interioară protejată.",
-            "en": "Start your cycling day exploring the defensive gates of this colossal stone fortress, taking care not to ride your bike inside the protected inner courtyard."
+            "en": "Start your cycling day exploring the defensive gates of this colossal stone fortress, taking care not to ride your bike inside the protected inner courtyard.",
+            "fr": "Commencez votre journée à vélo en explorant les portes défensives de cette colossale forteresse de pierre, en prenant soin de ne pas circuler à vélo dans la cour intérieure protégée."
           }
         },
         {
@@ -388,7 +429,8 @@
             "de": "Musée Napoléon",
             "hu": "Musée Napoléon",
             "ro": "Musée Napoléon",
-            "en": "Musée Napoléon"
+            "en": "Musée Napoléon",
+            "fr": "Musée Napoléon"
           },
           "coords": [
             -1.174658,
@@ -403,7 +445,8 @@
             "de": "Erfahren Sie in dieser historischen Residenz mehr über Napoleons letzte Exilvorbereitungen und schließen Sie Ihr Fahrrad sicher am Haupteingang ab.",
             "hu": "Tudjon meg többet Napóleon végső száműzetési előkészületeiről ebben az autentikus történelmi rezidenciában, és zárja le kerékpárját a bejáratnál.",
             "ro": "Aflați despre pregătirile finale de exil ale lui Napoleon în această reședință istorică autentică, lăsându-vă bicicleta asigurată lângă intrarea principală.",
-            "en": "Learn about Napoleon's final exile preparations in this authentic historical residence, leaving your bicycle securely locked near the front entrance."
+            "en": "Learn about Napoleon's final exile preparations in this authentic historical residence, leaving your bicycle securely locked near the front entrance.",
+            "fr": "Découvrez les préparatifs de la dernière exile de Napoléon dans cette demeure historique authentique, en laissant votre bicyclette solidement attachée près de l'entrée."
           }
         },
         {
@@ -411,7 +454,8 @@
             "de": "La Grande Plage",
             "hu": "La Grande Plage",
             "ro": "La Grande Plage",
-            "en": "La Grande Plage"
+            "en": "La Grande Plage",
+            "fr": "La Grande Plage"
           },
           "coords": [
             -1.177532,
@@ -426,7 +470,8 @@
             "de": "Radeln Sie zum weitläufigen Sandstrand von La Grande Plage für eine angenehme Pause am Meer und bleiben Sie unbedingt auf den ausgewiesenen Radwegen.",
             "hu": "Kerékpározzon el a La Grande Plage homokos partjára egy kellemes tengerparti szünetre, ügyelve arra, hogy a kijelölt tengerparti utakon maradjon.",
             "ro": "Pedalați spre plaja cu nisip La Grande Plage pentru o pauză plăcută pe malul mării, asigurându-vă că rămâneți pe pistele de biciclete de pe coastă.",
-            "en": "Cycle down to the expansive sandy stretch of La Grande Plage for a pleasant seaside break, making sure to stick to the designated coastal cycling paths."
+            "en": "Cycle down to the expansive sandy stretch of La Grande Plage for a pleasant seaside break, making sure to stick to the designated coastal cycling paths.",
+            "fr": "Pédalez jusqu'à la vaste étendue de sable de La Grande Plage pour une agréable pause en bord de mer, en veillant à rester sur les pistes cyclables côtières désignées."
           }
         },
         {
@@ -434,7 +479,8 @@
             "de": "Batterie de Jamblet",
             "hu": "Batterie de Jamblet",
             "ro": "Batterie de Jamblet",
-            "en": "Batterie de Jamblet"
+            "en": "Batterie de Jamblet",
+            "fr": "Batterie de Jamblet"
           },
           "coords": [
             -1.175842,
@@ -449,7 +495,8 @@
             "de": "Untersuchen Sie die teilweise restaurierten Bunker dieser Küstenbatterie, die faszinierende Einblicke in das Verteidigungsnetzwerks der Insel bietet.",
             "hu": "Vizsgálja meg ennek a parti ütegnek a részben felújított bunkereit, amely lenyűgöző betekintést nyújt a sziget tizenkilencedik századi védelmébe.",
             "ro": "Investigați buncărele parțial restaurate ale acestei baterii de coastă, care oferă o perspectivă fascinantă asupra rețelei de apărare a insulei.",
-            "en": "Investigate the partially restored bunkers of this coastal battery, which provides fascinating insights into the island's 19th-century defense network."
+            "en": "Investigate the partially restored bunkers of this coastal battery, which provides fascinating insights into the island's 19th-century defense network.",
+            "fr": "Visitez les bunkers partiellement restaurés de cette batterie côtière, qui offrent des aperçus fascinants du réseau défensif de l'île au XIXe siècle."
           }
         },
         {
@@ -457,7 +504,8 @@
             "de": "Pointe du Parc",
             "hu": "Pointe du Parc",
             "ro": "Pointe du Parc",
-            "en": "Pointe du Parc"
+            "en": "Pointe du Parc",
+            "fr": "Pointe du Parc"
           },
           "coords": [
             -1.174634,
@@ -472,7 +520,8 @@
             "de": "Erreichen Sie den nördlichen Rand der Insel für einen unverbauten Blick auf den Pertuis d'Antioche und genießen Sie die frische atlantische Meeresbrise.",
             "hu": "Érje el a sziget északi csücskét, ahonnan zavartalan kilátás nyílik a Pertuis d'Antioche-ra, és szánjon egy percet a friss atlanti tengeri szellőre.",
             "ro": "Ajungeți la extremitatea nordică a insulei pentru vederi neîntrerupte către Pertuis d'Antioche, luându-vă un moment pentru a simți briza atlantică.",
-            "en": "Reach the northern extremity of the island for uninterrupted views of the Pertuis d'Antioche, taking a moment to feel the fresh Atlantic sea breeze."
+            "en": "Reach the northern extremity of the island for uninterrupted views of the Pertuis d'Antioche, taking a moment to feel the fresh Atlantic sea breeze.",
+            "fr": "Atteignez l'extrémité nord de l'île pour des vues dégagées sur le Pertuis d'Antioche, en prenant un instant pour sentir la fraîche brise marine de l'Atlantique."
           }
         },
         {
@@ -480,7 +529,8 @@
             "de": "Fort Liédot",
             "hu": "Fort Liédot",
             "ro": "Fort Liédot",
-            "en": "Fort Liédot"
+            "en": "Fort Liédot",
+            "fr": "Fort Liédot"
           },
           "coords": [
             -1.164586,
@@ -495,7 +545,8 @@
             "de": "Bewundern Sie diese sternförmige Festung, die halb im Wald versunken ist, und prüfen Sie den Zeitplan, da oft Führungen im Inneren angeboten werden.",
             "hu": "Csodálja meg ezt a csillag alakú, félig az erdőbe süllyesztett erődöt, és előzetesen ellenőrizze a menetrendet, mivel gyakran indulnak vezetett túrák.",
             "ro": "Minunați-vă de această fortăreață în formă de stea construită pe jumătate îngropată în pădure și verificați programul, deoarece deseori se oferă tururi.",
-            "en": "Marvel at this star-shaped fortress built half-buried in the forest, and check the local schedule beforehand as guided tours are often available inside."
+            "en": "Marvel at this star-shaped fortress built half-buried in the forest, and check the local schedule beforehand as guided tours are often available inside.",
+            "fr": "Admirez cette forteresse en forme d'étoile construite à moitié enfouie dans la forêt, et vérifiez le calendrier local car des visites guidées y sont souvent proposées."
           }
         },
         {
@@ -503,7 +554,8 @@
             "de": "Les Sables Jaunes ou d'Or",
             "hu": "Les Sables Jaunes ou d'Or",
             "ro": "Les Sables Jaunes ou d'Or",
-            "en": "Les Sables Jaunes ou d'Or"
+            "en": "Les Sables Jaunes ou d'Or",
+            "fr": "Les Sables Jaunes ou d'Or"
           },
           "coords": [
             -1.159187,
@@ -518,7 +570,8 @@
             "de": "Entspannen Sie sich an diesem abgelegenen Strand, der inmitten von Küstenkiefern versteckt ist, dem perfekten Ort, um Ihr Radabenteuer zu beenden.",
             "hu": "Pihenjen ezen az eldugott, tengerparti fenyők között megbúvó sárga homokos strandon, amely tökéletes, csendes hely a kerékpáros kaland befejezéséhez.",
             "ro": "Relaxați-vă la această plajă izolată cu nisip galben, ascunsă printre pinii de coastă, locul perfect pentru a vă încheia aventura pitorească pe bicicletă.",
-            "en": "Relax at this secluded yellow-sand beach hidden amidst the coastal pines, the perfect quiet spot to conclude your scenic biking adventure on the island."
+            "en": "Relax at this secluded yellow-sand beach hidden amidst the coastal pines, the perfect quiet spot to conclude your scenic biking adventure on the island.",
+            "fr": "Détendez-vous sur cette plage isolée de sable jaune cachée parmi les pins côtiers, le parfait endroit tranquille pour conclure votre belle balade à vélo sur l'île."
           }
         }
       ],
@@ -526,7 +579,8 @@
         "de": "Beginnen Sie Ihre Radtour am Fort de la Rade und nehmen Sie die Architektur in sich auf, bevor Sie zum historischen Musée Napoléon radeln. Mittags fahren Sie zur La Grande Plage, genießen die Meeresbrise und erkunden die Bunker der Batterie de Jamblet. Die Fahrt am Nachmittag führt zur Nordspitze am Pointe du Parc und zum sternförmigen Fort Liédot. Der Abend bricht herein, während Sie an den abgelegenen Les Sables Jaunes ou d'Or entspannen und über einen wunderbaren Tag auf der Insel nachdenken.",
         "hu": "Kezdje kerékpáros útját a Fort de la Rade-nál, majd tekerjen a Musée Napoléon történelmi intrikái felé. Délben a La Grande Plage-hoz hajthat, élvezve a tengeri szellőt, és felfedezheti a Batterie de Jamblet felújított bunkereit. A délutáni kerékpározás a Pointe du Parc északi csücskébe és a fák között megbúvó, lenyűgöző, csillag alakú Fort Liédot-hoz vezet. Az este beköszöntével az eldugott Les Sables Jaunes ou d'Or homokján pihenhet meg, egy csodálatos nap élményeivel gazdagodva.",
         "ro": "Începeți-vă călătoria pe bicicletă la Fort de la Rade, absorbind arhitectura înainte de a pedala spre intriga de la Musée Napoléon. La prânz vă îndreptați spre La Grande Plage, bucurându-vă de briză și explorând buncărele de la Batterie de Jamblet. Plimbarea de după-amiază duce spre extremitatea nordică la Pointe du Parc și la impresionantul Fort Liédot ascuns printre copaci. Seara se lasă în timp ce vă relaxați la plaja izolată Les Sables Jaunes ou d'Or, reflectând la o zi minunată.",
-        "en": "Kick off your cycling journey at Fort de la Rade, absorbing the grand architecture before pedaling toward the historical intrigue of Musée Napoléon. Midday finds you cruising to La Grande Plage, enjoying the sea breeze, and exploring the restored bunkers at Batterie de Jamblet. Afternoon riding leads to the northern tip at Pointe du Parc and the impressive star-shaped Fort Liédot hidden amongst the trees. Evening descends as you relax at the secluded Les Sables Jaunes ou d'Or, reflecting on a wonderful day out."
+        "en": "Kick off your cycling journey at Fort de la Rade, absorbing the grand architecture before pedaling toward the historical intrigue of Musée Napoléon. Midday finds you cruising to La Grande Plage, enjoying the sea breeze, and exploring the restored bunkers at Batterie de Jamblet. Afternoon riding leads to the northern tip at Pointe du Parc and the impressive star-shaped Fort Liédot hidden amongst the trees. Evening descends as you relax at the secluded Les Sables Jaunes ou d'Or, reflecting on a wonderful day out.",
+        "fr": "Commencez votre excursion à vélo au Fort de la Rade, absorbez l'architecture imposante puis pédalez vers l'intrigue historique du Musée Napoléon. À midi, vous filez vers La Grande Plage, profitez de la brise marine et explorez les bunkers restaurés de la Batterie de Jamblet. L'après-midi vous mène à la pointe nord à la Pointe du Parc et au remarquable Fort Liédot en forme d'étoile, caché parmi les arbres. La soirée descend pendant que vous vous détendez aux Sables Jaunes ou d'Or, en repensant à cette magnifique journée."
       },
       "variants": {
         "rainy": {
@@ -534,7 +588,8 @@
             "de": "Die Radtour startet erfrischend feucht am Fort de la Rade. Mittags bieten die Museen im Dorf eine willkommene Pause vom Regen. Am Nachmittag führen die Wege durch die Pinienwälder, die einen gewissen Schutz bieten, auch wenn die Pfade schlammig sein können. Der Abend endet ruhig im Dorf, wo man die Fahrräder sicher abstellt und sich nach der nassen Fahrt wieder trocknet.",
             "hu": "A kerékpártúra frissítően nedvesen indul a Fort de la Rade-nál. Délben a falu múzeumaiban tarthatunk pihenőt az eső elől. Délután az erdei utak fenyői nyújtanak némi védelmet, bár az ösvények sárga agyagja csúszóssá válhat. Az este csendesen zárul a faluban, ahol a vizes tekerés után végre megszárítkozhatunk és biztonságba helyezhetjük a bringákat.",
             "ro": "Turul cu bicicleta începe revigorant de umed la Fort de la Rade. La prânz, muzeele din sat oferă o pauză binevenită de ploaie. După-amiaza, potecile prin pădurile de pini oferă o oarecare protecție, deși drumurile pot fi noroioase. Seara se încheie liniștit în sat, unde puteți parca bicicletele și vă puteți usca după plimbarea udă.",
-            "en": "The bike tour starts refreshingly damp at Fort de la Rade. At noon, the village museums offer a welcome break from the rain. In the afternoon, paths through pine forests provide some natural cover, though tracks can get muddy. The evening ends quietly in the village, where you can park the bikes and dry off after the wet coastal ride."
+            "en": "The bike tour starts refreshingly damp at Fort de la Rade. At noon, the village museums offer a welcome break from the rain. In the afternoon, paths through pine forests provide some natural cover, though tracks can get muddy. The evening ends quietly in the village, where you can park the bikes and dry off after the wet coastal ride.",
+            "fr": "La visite à vélo commence tout à fait détrempée au Fort de la Rade. À midi, les musées du village offrent une pause bienvenue à l'abri de la pluie. L'après-midi, les pistes à travers les pins fournissent un certain abri naturel, bien que les chemins puissent être boueux. La soirée se termine tranquillement au village, où vous pouvez ranger les vélos et vous sécher après la balade côtière humide."
           },
           "stops": [
             {
@@ -542,13 +597,15 @@
                 "de": "Fort de la Rade",
                 "hu": "Fort de la Rade",
                 "ro": "Fort de la Rade",
-                "en": "Fort de la Rade"
+                "en": "Fort de la Rade",
+                "fr": "Fort de la Rade"
               },
               "tip_5lang": {
                 "de": "Fahren Sie vorsichtig über das Kopfsteinpflaster am Eingang; eine gute Regenjacke ist beim Radfahren auf den offenen Wällen unerlässlich.",
                 "hu": "Óvatosan tekerjen a bejáratnál lévő macskaköveken; egy jó esőkabát elengedhetetlen, amikor a nyitott bástyák mentén biciklizik.",
                 "ro": "Pedalați cu atenție pe pavajul de la intrare; o pelerină de ploaie bună este esențială când mergeți cu bicicleta pe bastioanele deschise.",
-                "en": "Ride carefully over the cobblestones at the entrance; a good rain poncho is essential when cycling along the open fortress ramparts."
+                "en": "Ride carefully over the cobblestones at the entrance; a good rain poncho is essential when cycling along the open fortress ramparts.",
+                "fr": "Roulez prudemment sur les pavés à l'entrée ; une bonne cape de pluie est indispensable lorsque vous pédalez le long des remparts ouverts de la forteresse."
               }
             },
             {
@@ -556,13 +613,15 @@
                 "de": "Musée Napoléon",
                 "hu": "Musée Napoléon",
                 "ro": "Musée Napoléon",
-                "en": "Musée Napoléon"
+                "en": "Musée Napoléon",
+                "fr": "Musée Napoléon"
               },
               "tip_5lang": {
                 "de": "Parken Sie Ihr Rad nah am Eingang, um schnell ins Trockene zu kommen; nutzen Sie die Zeit, um die Kleidung etwas abtropfen zu lassen.",
                 "hu": "Parkoljon közvetlenül a bejáratnál, hogy gyorsan fedett helyre érjen; használja ki az időt, hogy az esőruházat egy kicsit lecsöpöghessen.",
                 "ro": "Parcați bicicleta aproape de intrare pentru a ajunge rapid la adăpost; folosiți timpul pentru a lăsa hainele de ploaie să se scurgă puțin.",
-                "en": "Park your bike close to the entrance to reach shelter quickly; use the time indoors to let your rain gear drip dry for a while."
+                "en": "Park your bike close to the entrance to reach shelter quickly; use the time indoors to let your rain gear drip dry for a while.",
+                "fr": "Garez votre vélo près de l'entrée pour atteindre rapidement un abri ; profitez du temps à l'intérieur pour laisser goutter votre équipement de pluie."
               }
             },
             {
@@ -570,13 +629,15 @@
                 "de": "La Grande Plage",
                 "hu": "La Grande Plage",
                 "ro": "La Grande Plage",
-                "en": "La Grande Plage"
+                "en": "La Grande Plage",
+                "fr": "La Grande Plage"
               },
               "tip_5lang": {
                 "de": "Vermeiden Sie es, mit dem Rad direkt auf den weichen, nassen Sand zu fahren; beobachten Sie die Wellen vom befestigten Weg aus.",
                 "hu": "Kerülje el a közvetlen kerékpározást a puha, nedves homokon; figyelje a hullámverést a szilárdabb parti útról, elkerülve az elakadást.",
                 "ro": "Evitați să mergeți cu bicicleta direct pe nisipul ud și moale; observați valurile de pe poteca consolidată pentru a nu rămâne blocat.",
-                "en": "Avoid cycling directly onto the soft, wet sand; watch the waves from the firmer coastal path to prevent getting your bike stuck."
+                "en": "Avoid cycling directly onto the soft, wet sand; watch the waves from the firmer coastal path to prevent getting your bike stuck.",
+                "fr": "Évitez de rouler directement sur le sable mou et humide ; regardez la mer depuis le chemin côtier plus ferme pour éviter d'enliser votre vélo."
               }
             },
             {
@@ -584,13 +645,15 @@
                 "de": "Batterie de Jamblet",
                 "hu": "Batterie de Jamblet",
                 "ro": "Batterie de Jamblet",
-                "en": "Batterie de Jamblet"
+                "en": "Batterie de Jamblet",
+                "fr": "Batterie de Jamblet"
               },
               "tip_5lang": {
                 "de": "Die Gräser um die Batterie sind bei Regen sehr nass; bleiben Sie auf den Hauptwegen, um Schlammspritzer an der Kleidung zu minimieren.",
                 "hu": "Az üteg körüli fű esőben nagyon vizes; maradjon a főutakon, hogy minimálisra csökkentse a sárfelverődést a ruházatára.",
                 "ro": "Iarba din jurul bateriei este foarte udă pe ploaie; rămâneți pe drumurile principale pentru a minimiza stropii de noroi pe haine.",
-                "en": "The grass around the battery gets very soaked; stay on the main gravel paths to minimize mud splashes on your clothes."
+                "en": "The grass around the battery gets very soaked; stay on the main gravel paths to minimize mud splashes on your clothes.",
+                "fr": "L'herbe autour de la batterie devient très mouillée ; restez sur les chemins principaux en gravier pour limiter les éclaboussures de boue sur vos vêtements."
               }
             },
             {
@@ -598,13 +661,15 @@
                 "de": "Pointe du Parc",
                 "hu": "Pointe du Parc",
                 "ro": "Pointe du Parc",
-                "en": "Pointe du Parc"
+                "en": "Pointe du Parc",
+                "fr": "Pointe du Parc"
               },
               "tip_5lang": {
                 "de": "Der Boden kann hier rutschig sein; bremsen Sie frühzeitig vor Kurven und genießen Sie den Blick auf die tosende Gischt im Regen.",
                 "hu": "A talaj itt csúszós lehet; fékezzen időben a kanyarok előtt, és élvezze a zuhogó esőben felcsapó tajték látványát.",
                 "ro": "Terenul poate fi alunecos aici; frânați din timp înainte de curbe și bucurați-vă de vederea spumei mării sub ploaie.",
-                "en": "The ground can be slippery here; brake early before turns and enjoy the view of the churning sea foam through the rain."
+                "en": "The ground can be slippery here; brake early before turns and enjoy the view of the churning sea foam through the rain.",
+                "fr": "Le sol peut être glissant ici ; freinez tôt avant les virages et profitez de la vue de l'écume de mer agitée sous la pluie."
               }
             },
             {
@@ -612,13 +677,15 @@
                 "de": "Fort Liédot",
                 "hu": "Fort Liédot",
                 "ro": "Fort Liédot",
-                "en": "Fort Liédot"
+                "en": "Fort Liédot",
+                "fr": "Fort Liédot"
               },
               "tip_5lang": {
                 "de": "Das Innere des Forts bietet exzellenten Schutz; stellen Sie die Räder unter und erkunden Sie die massiven Gewölbe, während es draußen schüttet.",
                 "hu": "Az erőd belseje kiváló menedéket nyújt; támassza le a bringákat fedett helyre, és fedezze fel a masszív boltozatokat, amíg kint szakad.",
                 "ro": "Interiorul fortului oferă un adăpost excelent; lăsați bicicletele la adăpost și explorați bolțile masive în timp ce afară plouă torențial.",
-                "en": "The interior of the fort provides excellent cover; park your bikes under shelter and explore the massive vaults while it pours outside."
+                "en": "The interior of the fort provides excellent cover; park your bikes under shelter and explore the massive vaults while it pours outside.",
+                "fr": "L'intérieur du fort offre un excellent abri ; garez vos vélos sous couvert et explorez les vastes voûtes pendant l'averse."
               }
             },
             {
@@ -626,13 +693,15 @@
                 "de": "Les Sables Jaunes ou d'Or",
                 "hu": "Les Sables Jaunes ou d'Or",
                 "ro": "Les Sables Jaunes ou d'Or",
-                "en": "Les Sables Jaunes ou d'Or"
+                "en": "Les Sables Jaunes ou d'Or",
+                "fr": "Les Sables Jaunes ou d'Or"
               },
               "tip_5lang": {
                 "de": "Ein letzter Blick auf den verregneten Strand; achten Sie auf dem Rückweg ins Dorf auf Pfützen, die tiefer sein könnten, als sie aussehen.",
                 "hu": "Még egy utolsó pillantás az eső áztatta partra; a faluba visszafelé menet ügyeljen a tócsákra, amelyek mélyebbek lehetnek, mint látszanak.",
                 "ro": "O ultimă privire spre plaja plouată; la întoarcerea spre sat, aveți grijă la bălțile care pot fi mai adânci decât par la prima vedere.",
-                "en": "A final look at the rain-soaked beach; on the way back to the village, watch out for puddles that might be deeper than they appear."
+                "en": "A final look at the rain-soaked beach; on the way back to the village, watch out for puddles that might be deeper than they appear.",
+                "fr": "Un dernier regard sur la plage trempée ; sur le chemin du retour au village, méfiez-vous des flaques qui peuvent être plus profondes qu'elles n'en ont l'air."
               }
             }
           ]
@@ -642,7 +711,8 @@
             "de": "Die Winter-Radtour beginnt mit einer frischen Brise am Fort. Mittags laden die Museen zur Pause in geheizten Räumen ein. Am Nachmittag radelt man im goldenen, tiefstehenden Licht an der Küste entlang, bevor die Kälte gegen 16:30 Uhr intensiver wird. Der Abend kommt früh, sodass man rechtzeitig zum Sonnenuntergang um 17:00 Uhr wieder im schützenden Dorf sein sollte.",
             "hu": "A téli bringatúra friss szellővel indul az erődnél. Délben a múzeumok fűtött terei hívogatnak pihenőre. Délután az alacsonyan járó nap aranyló fényében tekerhetünk a parton, mielőtt a hideg 16:30 körül felerősödne. Az este korán érkezik, így érdemes a 17:00 órai naplemente előtt visszaérni a faluba.",
             "ro": "Turul de iarnă cu bicicleta începe cu o briză rece la fort. La prânz, muzeele vă invită la o pauză în spații încălzite. După-amiaza, pedalați în lumina aurie a soarelui jos pe cer de-a lungul coastei, înainte ca frigul să se intensifice după 16:30. Seara vine devreme, așa că reveniți în sat înainte de apusul de la 17:00.",
-            "en": "The winter bike tour starts with a brisk breeze at the fort. At noon, the museums invite you for a break in heated spaces. In the afternoon, cycle along the coast in the golden, low-hanging light before the cold intensifies around 16:30. Evening comes early, so plan to be back in the village before the 17:00 sunset."
+            "en": "The winter bike tour starts with a brisk breeze at the fort. At noon, the museums invite you for a break in heated spaces. In the afternoon, cycle along the coast in the golden, low-hanging light before the cold intensifies around 16:30. Evening comes early, so plan to be back in the village before the 17:00 sunset.",
+            "fr": "La randonnée à vélo hivernale commence avec une brise vive au fort. À midi, les musées vous invitent à vous réchauffer dans des espaces chauffés. L'après-midi, roulez le long de la côte dans la lumière dorée et basse avant que le froid n'intensifie vers 16:30. La soirée arrive tôt, prévoyez d'être de retour au village avant le coucher du soleil à 17:00."
           },
           "stops": [
             {
@@ -650,13 +720,15 @@
                 "de": "Fort de la Rade",
                 "hu": "Fort de la Rade",
                 "ro": "Fort de la Rade",
-                "en": "Fort de la Rade"
+                "en": "Fort de la Rade",
+                "fr": "Fort de la Rade"
               },
               "tip_5lang": {
                 "de": "Tragen Sie warme Handschuhe, da der Fahrtwind an den Wällen sehr kalt ist; der Ausblick auf das winterliche Meer ist jedoch glasklar.",
                 "hu": "Viseljen meleg kesztyűt, mert a menetszél a bástyáknál nagyon hideg; a kilátás a téli tengerre azonban ilyenkor a legtisztább.",
                 "ro": "Purtați mănuși groase, deoarece curentul de aer la bastioane este foarte rece; totuși, vederea asupra mării iarna este extrem de clară.",
-                "en": "Wear warm gloves as the wind chill at the ramparts is significant; however, the view of the winter sea is crystal clear right now."
+                "en": "Wear warm gloves as the wind chill at the ramparts is significant; however, the view of the winter sea is crystal clear right now.",
+                "fr": "Portez des gants chauds car la sensation de froid aux remparts est importante ; cependant, la vue de la mer hivernale est d'une clarté cristalline en ce moment."
               }
             },
             {
@@ -664,13 +736,15 @@
                 "de": "Musée Napoléon",
                 "hu": "Musée Napoléon",
                 "ro": "Musée Napoléon",
-                "en": "Musée Napoléon"
+                "en": "Musée Napoléon",
+                "fr": "Musée Napoléon"
               },
               "tip_5lang": {
                 "de": "Nutzen Sie den Museumsbesuch, um die Finger wieder aufzuwärmen; im Winter ist es hier wunderbar ruhig für eine ungestörte Besichtigung.",
                 "hu": "Használja ki a múzeumlátogatást az ujjai felmelegítésére; télen csodálatos nyugalom honol itt az akadálytalan nézelődéshez.",
                 "ro": "Folosiți vizita la muzeu pentru a vă reîncălzi degetele; iarna este o liniște minunată aici pentru o vizionare neîntreruptă.",
-                "en": "Use the museum visit to warm up your fingers; in winter, it is wonderfully quiet here for an undisturbed tour of the exhibits."
+                "en": "Use the museum visit to warm up your fingers; in winter, it is wonderfully quiet here for an undisturbed tour of the exhibits.",
+                "fr": "Profitez de la visite du musée pour réchauffer vos doigts ; en hiver, il y règne une merveilleuse tranquillité pour une visite sans détour des expositions."
               }
             },
             {
@@ -678,13 +752,15 @@
                 "de": "La Grande Plage",
                 "hu": "La Grande Plage",
                 "ro": "La Grande Plage",
-                "en": "La Grande Plage"
+                "en": "La Grande Plage",
+                "fr": "La Grande Plage"
               },
               "tip_5lang": {
                 "de": "Radeln Sie zügig am Ufer entlang, um warm zu bleiben; das Winterlicht auf den Wellen ist ein fantastisches Motiv für schnelle Fotos.",
                 "hu": "Tekerjen tempósan a part mentén, hogy melegen tartsa magát; a hullámokon megcsillanó téli fény fantasztikus téma egy gyors fotóhoz.",
                 "ro": "Pedalați vioi pe mal pentru a vă menține căldura; lumina de iarnă pe valuri este un motiv fantastic pentru fotografii rapide.",
-                "en": "Cycle briskly along the shore to keep your body heat up; the winter light on the waves is a fantastic subject for quick photos."
+                "en": "Cycle briskly along the shore to keep your body heat up; the winter light on the waves is a fantastic subject for quick photos.",
+                "fr": "Pédalez d'un bon rythme le long du rivage pour conserver votre chaleur corporelle ; la lumière hivernale sur les vagues est un sujet fantastique pour des photos rapides."
               }
             },
             {
@@ -692,13 +768,15 @@
                 "de": "Batterie de Jamblet",
                 "hu": "Batterie de Jamblet",
                 "ro": "Batterie de Jamblet",
-                "en": "Batterie de Jamblet"
+                "en": "Batterie de Jamblet",
+                "fr": "Batterie de Jamblet"
               },
               "tip_5lang": {
                 "de": "Ein schöner Ort für eine kurze Rast, aber setzen Sie sich nicht zu lange auf die kalten Steine; die Wintersonne wärmt nur schwach.",
                 "hu": "Szép hely egy rövid pihenőre, de ne üljön túl sokat a hideg köveken; a téli nap ereje ilyenkor már csak gyengén melegít.",
                 "ro": "Un loc frumos pentru un scurt popas, dar nu stați prea mult pe pietrele reci; soarele de iarnă încălzește doar foarte slab.",
-                "en": "A beautiful spot for a short break, but don't sit on the cold stones for too long; the winter sun provides only very weak warmth."
+                "en": "A beautiful spot for a short break, but don't sit on the cold stones for too long; the winter sun provides only very weak warmth.",
+                "fr": "Beau spot pour une courte pause, mais ne vous asseyez pas trop longtemps sur les pierres froides ; le soleil d'hiver n'apporte qu'une chaleur très faible."
               }
             },
             {
@@ -706,13 +784,15 @@
                 "de": "Pointe du Parc",
                 "hu": "Pointe du Parc",
                 "ro": "Pointe du Parc",
-                "en": "Pointe du Parc"
+                "en": "Pointe du Parc",
+                "fr": "Pointe du Parc"
               },
               "tip_5lang": {
                 "de": "Der Nordwind kann hier beißend sein; schützen Sie Ihr Gesicht mit einem Schal, während Sie den weiten Blick über den Ozean genießen.",
                 "hu": "Az északi szél itt metsző lehet; védje arcát sállal, miközben az óceán feletti végtelen kilátásban gyönyörködik.",
                 "ro": "Vântul de nord poate fi tăios aici; protejați-vă fața cu un fular în timp ce admirați vederea vastă peste ocean.",
-                "en": "The north wind can be biting here; protect your face with a scarf while enjoying the wide-open views across the Atlantic Ocean."
+                "en": "The north wind can be biting here; protect your face with a scarf while enjoying the wide-open views across the Atlantic Ocean.",
+                "fr": "Le vent du nord peut être mordant ici ; protégez votre visage avec une écharpe tout en profitant des vastes vues sur l'océan Atlantique."
               }
             },
             {
@@ -720,13 +800,15 @@
                 "de": "Fort Liédot",
                 "hu": "Fort Liédot",
                 "ro": "Fort Liédot",
-                "en": "Fort Liédot"
+                "en": "Fort Liédot",
+                "fr": "Fort Liédot"
               },
               "tip_5lang": {
                 "de": "Das massive Mauerwerk hält die Kälte; bewegen Sie sich im Inneren des Forts viel, um nicht auszukühlen, während Sie die Geschichte erkunden.",
                 "hu": "A masszív falak tartják a hideget; mozogjon sokat az erőd belsejében, hogy ne hűljön ki, miközben a történelmi termeket járja.",
                 "ro": "Zidăria masivă reține frigul; mișcați-vă mult în interiorul fortului pentru a nu vă răci în timp ce explorați istoria.",
-                "en": "The massive stonework retains the cold; keep moving while inside the fort to maintain your body heat as you explore the history."
+                "en": "The massive stonework retains the cold; keep moving while inside the fort to maintain your body heat as you explore the history.",
+                "fr": "La maçonnerie massive retient le froid ; restez en mouvement à l'intérieur du fort pour conserver votre chaleur en explorant l'histoire."
               }
             },
             {
@@ -734,13 +816,15 @@
                 "de": "Les Sables Jaunes ou d'Or",
                 "hu": "Les Sables Jaunes ou d'Or",
                 "ro": "Les Sables Jaunes ou d'Or",
-                "en": "Les Sables Jaunes ou d'Or"
+                "en": "Les Sables Jaunes ou d'Or",
+                "fr": "Les Sables Jaunes ou d'Or"
               },
               "tip_5lang": {
                 "de": "Erleben Sie die Stille des leeren Strandes, bevor es dämmert; radeln Sie danach zügig zurück, bevor die Abendkälte nach 17:00 Uhr einsetzt.",
                 "hu": "Élje át az üres strand csendjét, mielőtt alkonyodni kezd; tekerjen vissza tempósan, mielőtt 17:00 után beállna az esti fagyos hideg.",
                 "ro": "Experimentați liniștea plajei pustii înainte de amurg; pedalați rapid înapoi înainte ca frigul serii să se instaleze după ora 17:00.",
-                "en": "Experience the silence of the empty beach before dusk; cycle back quickly afterwards before the evening chill sets in after 17:00."
+                "en": "Experience the silence of the empty beach before dusk; cycle back quickly afterwards before the evening chill sets in after 17:00.",
+                "fr": "Vivez le silence de la plage déserte avant le crépuscule ; rentrez rapidement ensuite à vélo avant que la fraîcheur du soir ne s'installe après 17:00."
               }
             }
           ]
@@ -760,7 +844,8 @@
             "de": "Musée de la Nacre",
             "hu": "Musée de la Nacre",
             "ro": "Musée de la Nacre",
-            "en": "Musée de la Nacre"
+            "en": "Musée de la Nacre",
+            "fr": "Musée de la Nacre"
           },
           "coords": [
             -1.173587,
@@ -775,7 +860,8 @@
             "de": "Parken Sie in der Nähe des Zentrums, um die zarten Perlmuttartefakte zu bewundern, und nehmen Sie sich Zeit, um etwas über die Werkzeuge zu lernen.",
             "hu": "Parkoljon le a sziget központjának közelében, hogy megcsodálhassa a finom gyöngyház tárgyakat, és időt szánva a kézművesek összetett eszközeire.",
             "ro": "Parcați aproape de centrul insulei pentru a admira artefactele delicate din sidef, alocând timp pentru a învăța despre uneltele folosite de meșteri.",
-            "en": "Park near the island's center to admire the delicate mother-of-pearl artifacts, taking time to learn about the intricate tools used by the craftsmen."
+            "en": "Park near the island's center to admire the delicate mother-of-pearl artifacts, taking time to learn about the intricate tools used by the craftsmen.",
+            "fr": "Garez-vous près du centre de l'île pour admirer les délicats objets en nacre, en prenant le temps d'apprendre sur les outils complexes utilisés par les artisans."
           }
         },
         {
@@ -783,7 +869,8 @@
             "de": "Plage aux Coquillages",
             "hu": "Plage aux Coquillages",
             "ro": "Plage aux Coquillages",
-            "en": "Plage aux Coquillages"
+            "en": "Plage aux Coquillages",
+            "fr": "Plage aux Coquillages"
           },
           "coords": [
             -1.167851,
@@ -798,7 +885,8 @@
             "de": "Fahren Sie zu diesem ruhigen, muschelübersäten Strand hinauf, wo Sie dem beruhigenden Rauschen der Wellen lauschen können, aber achten Sie auf die Wege.",
             "hu": "Hajtson el ehhez a békés, kagylókkal borított strandhoz, ahol élvezheti a hullámok nyugtató hangját, figyelemmel kísérve az itteni szűk bekötőutakat.",
             "ro": "Conduceți spre această plajă liniștită plină de scoici unde vă puteți bucura de sunetul calmant al valurilor, fiind atenți la drumurile înguste de acces.",
-            "en": "Drive up towards this serene, shell-strewn beach where you can enjoy the calming sound of the waves, being mindful of the narrow access roads here."
+            "en": "Drive up towards this serene, shell-strewn beach where you can enjoy the calming sound of the waves, being mindful of the narrow access roads here.",
+            "fr": "Montez jusqu'à cette plage paisible couverte de coquillages où vous pourrez apprécier le bruit apaisant des vagues, en faisant attention aux routes d'accès étroites."
           }
         },
         {
@@ -806,7 +894,8 @@
             "de": "Baby Plage",
             "hu": "Baby Plage",
             "ro": "Baby Plage",
-            "en": "Baby Plage"
+            "en": "Baby Plage",
+            "fr": "Baby Plage"
           },
           "coords": [
             -1.160458,
@@ -821,7 +910,8 @@
             "de": "Machen Sie einen kurzen Halt in dieser winzigen Bucht, die ein sehr intimes Badeerlebnis bietet, und bringen Sie Ihr eigenes Wasser mit, da es nichts gibt.",
             "hu": "Tartson egy rövid pihenőt ebben az apró, festői öbölben, amely nagyon meghitt fürdőzési élményt kínál, de hozzon magával vizet a létesítmények hiánya miatt.",
             "ro": "Faceți o scurtă oprire în acest golfuleț pitoresc care oferă o experiență de înot intimă, aducându-vă propria apă, deoarece nu există facilități.",
-            "en": "Make a short stop at this tiny, picturesque cove that offers a very intimate swimming experience, bringing your own water as there are no facilities."
+            "en": "Make a short stop at this tiny, picturesque cove that offers a very intimate swimming experience, bringing your own water as there are no facilities.",
+            "fr": "Faites un court arrêt dans cette petite crique pittoresque qui offre une baignade très intime, en apportant votre propre eau car il n'y a pas d'installations."
           }
         },
         {
@@ -829,7 +919,8 @@
             "de": "Batterie de Coudepont",
             "hu": "Batterie de Coudepont",
             "ro": "Batterie de Coudepont",
-            "en": "Batterie de Coudepont"
+            "en": "Batterie de Coudepont",
+            "fr": "Batterie de Coudepont"
           },
           "coords": [
             -1.15621,
@@ -844,7 +935,8 @@
             "de": "Erkunden Sie an dieser historischen Militärbatterie die robusten äußeren Verteidigungsanlagen der Ostküste, die einen weiten Blick auf das Festland bieten.",
             "hu": "Fedezze fel a keleti partvonal masszív külső védelmét ennél a történelmi katonai ütegnél, amely széles kilátást nyújt a francia anyaország felé.",
             "ro": "Explorați apărarea exterioară a coastei estice la această baterie militară istorică, care se mândrește cu vederi ample spre partea continentală a Franței.",
-            "en": "Explore the robust outer defenses of the eastern shoreline at this historical military battery, which boasts sweeping views towards the French mainland."
+            "en": "Explore the robust outer defenses of the eastern shoreline at this historical military battery, which boasts sweeping views towards the French mainland.",
+            "fr": "Explorez les robustes défenses extérieures de la côte est à cette batterie militaire historique, qui offre de larges vues vers la France continentale."
           }
         },
         {
@@ -852,7 +944,8 @@
             "de": "Fort Liédot",
             "hu": "Fort Liédot",
             "ro": "Fort Liédot",
-            "en": "Fort Liédot"
+            "en": "Fort Liédot",
+            "fr": "Fort Liédot"
           },
           "coords": [
             -1.164586,
@@ -867,7 +960,8 @@
             "de": "Halten Sie Ihr Fahrzeug in der Nähe des Waldes an, um dieses beeindruckende Steinfort zu besuchen, und prüfen Sie die Informationstafel auf Veranstaltungen.",
             "hu": "Állítsa meg járművét az erdő közelében, hogy meglátogassa ezt az ötszögletű kőerődöt, és ellenőrizze az információs táblát a különleges eseményekről.",
             "ro": "Opriți-vă vehiculul lângă pădure pentru a vizita acest fort impresionant din piatră, verificând panoul informativ pentru evenimente speciale din curte.",
-            "en": "Stop your vehicle near the woods to visit this impressive pentagonal stone fort, checking the information board for any special events held in the courtyard."
+            "en": "Stop your vehicle near the woods to visit this impressive pentagonal stone fort, checking the information board for any special events held in the courtyard.",
+            "fr": "Arrêtez votre véhicule près des bois pour visiter cet impressionnant fort pentagonal en pierre, en vérifiant le panneau d'information pour d'éventuels événements spéciaux dans la cour."
           }
         },
         {
@@ -875,7 +969,8 @@
             "de": "Sémaphore",
             "hu": "Sémaphore",
             "ro": "Sémaphore",
-            "en": "Sémaphore"
+            "en": "Sémaphore",
+            "fr": "Sémaphore"
           },
           "coords": [
             -1.177033,
@@ -890,7 +985,8 @@
             "de": "Beenden Sie Ihre Fahrt zurück im Hauptdorf in der Nähe des Semaphors und blicken Sie nach oben, um seine wichtige Rolle für die Navigation zu würdigen.",
             "hu": "Fejezze be az utat a főfaluban, a tornyosuló szemafor közelében, felnézve, hogy értékelje annak létfontosságú szerepét az atlanti partvidék navigációjában.",
             "ro": "Încheiați-vă plimbarea cu mașina înapoi în satul principal lângă semaforul falnic, privind în sus pentru a-i aprecia rolul vital în navigația atlantică.",
-            "en": "Conclude your drive back in the main village near the towering semaphore, looking up to appreciate its vital role in the navigation of the Atlantic coast."
+            "en": "Conclude your drive back in the main village near the towering semaphore, looking up to appreciate its vital role in the navigation of the Atlantic coast.",
+            "fr": "Concluez votre trajet dans le village principal près du haut sémaphore, en levant les yeux pour apprécier son rôle vital dans la navigation de la côte atlantique."
           }
         }
       ],
@@ -898,7 +994,8 @@
         "de": "Ihre Fahrt beginnt anmutig am Musée de la Nacre und bietet Einblicke in die zarte Handwerkskunst der Insel. Gegen Mittag navigieren Sie über die Küstenwege zur Plage aux Coquillages und Baby Plage, um die unberührten Uferansichten zu genießen. Der Nachmittag ist der Militärgeschichte gewidmet, wenn Sie an der Batterie de Coudepont und dem Fort Liédot Halt machen. Der Abend naht, wenn Sie ins Dorfzentrum zurückkehren und in der Nähe des Semaphors parken, um den herrlichen Sonnenuntergang zu beobachten.",
         "hu": "Az út a Musée de la Nacre elegáns bemutatóival kezdődik, amely betekintést nyújt a sziget finom kézművességébe. Délben a part menti utakon a Plage aux Coquillages és a Baby Plage felé navigál, megcsodálva az érintetlen partvonalat. A délutánt a hadtörténelemnek szenteli a Batterie de Coudepont és az északi erdőkben megbúvó, félelmetes Fort Liédot meglátogatásával. Az este közeledtével visszatér a falu központjába, a Sémaphore közelében parkolva, hogy megnézze a csodálatos naplementét.",
         "ro": "Plimbarea dumneavoastră începe grațios la Musée de la Nacre, oferind perspective asupra măiestriei delicate a insulei. Până la prânz, navigați pe cărările de coastă spre Plage aux Coquillages și Baby Plage, admirând priveliștile neatinse. După-amiaza este dedicată istoriei militare, oprindu-vă la Batterie de Coudepont și formidabilul Fort Liédot ascuns în pădurile nordice. Seara se apropie pe măsură ce vă întoarceți în centrul satului, parcând lângă Sémaphore pentru a privi apusul soarelui.",
-        "en": "Your drive starts gracefully at Musée de la Nacre, offering insights into the island's delicate artisanship before the morning crowds arrive. By midday, you navigate the coastal paths to Plage aux Coquillages and Baby Plage, taking in the untouched shoreline vistas. The afternoon is dedicated to military history as you stop by Batterie de Coudepont and the formidable Fort Liédot nestled in the northern woods. Evening approaches as you return to the village center, parking near the Sémaphore to watch the sunset."
+        "en": "Your drive starts gracefully at Musée de la Nacre, offering insights into the island's delicate artisanship before the morning crowds arrive. By midday, you navigate the coastal paths to Plage aux Coquillages and Baby Plage, taking in the untouched shoreline vistas. The afternoon is dedicated to military history as you stop by Batterie de Coudepont and the formidable Fort Liédot nestled in the northern woods. Evening approaches as you return to the village center, parking near the Sémaphore to watch the sunset.",
+        "fr": "Votre trajet commence élégamment au Musée de la Nacre, offrant un aperçu de l'artisanat délicat de l'île avant l'arrivée des foules matinales. À midi, vous empruntez les chemins côtiers vers la Plage aux Coquillages et Baby Plage, admirant les panoramas côtiers préservés. L'après-midi est consacré à l'histoire militaire avec des arrêts à la Batterie de Coudepont et au formidable Fort Liédot niché dans les bois du nord. Le soir approche lorsque vous retournez au centre du village, en vous garant près du Sémaphore pour regarder le coucher du soleil."
       },
       "variants": {
         "rainy": {
@@ -906,7 +1003,8 @@
             "de": "Mit dem Elektromobil geht es trocken durch den Regenmorgen zum Perlmuttmuseum. Mittags schützen die geschlossenen Fahrzeuge auf dem Weg zu den Stränden vor den Schauern. Am Nachmittag lassen sich die Festungsanlagen bequem erkunden, während es draußen stürmt. Der Abend ist gemütlich im Dorf, da man dank des Dachs über dem Kopf fast unbeschadet von den Regengüssen bleibt.",
             "hu": "Az elektromos kocsival szárazon juthatunk el az esős reggelen a Gyöngyházmúzeumba. Délben a zártabb járművek megvédenek a záporoktól a strandok felé vezető úton. Délután kényelmesen felfedezhetjük az erődítményeket, miközben kint tombol a szél. Az este barátságos a faluban, hiszen a tetőnek köszönhetően szinte teljesen megússzuk az elázást a nap folyamán.",
             "ro": "Cu vehiculul electric parcurgeți dimineața ploioasă la adăpost spre muzeul sidefului. La prânz, vehiculele acoperite vă protejează de averse pe drumul spre plaje. După-amiaza, fortificațiile pot fi explorate confortabil în timp ce afară e furtună. Seara este plăcută în sat, deoarece datorită acoperișului rămâneți aproape uscat în ciuda ploii de peste zi.",
-            "en": "With the electric cart, you travel dry through the rainy morning to the pearl museum. At noon, the covered vehicles protect you from showers on the way to the beaches. In the afternoon, the fortifications can be explored comfortably while it storms outside. The evening is cozy in the village, as you stay mostly dry throughout the day thanks to the roof over your head."
+            "en": "With the electric cart, you travel dry through the rainy morning to the pearl museum. At noon, the covered vehicles protect you from showers on the way to the beaches. In the afternoon, the fortifications can be explored comfortably while it storms outside. The evening is cozy in the village, as you stay mostly dry throughout the day thanks to the roof over your head.",
+            "fr": "Avec le véhicule électrique, vous voyagez au sec pendant la matinée pluvieuse jusqu'au musée de la perle. À midi, les véhicules couverts vous protègent des averses sur le chemin des plages. L'après-midi, les fortifications peuvent être explorées confortablement pendant l'orage. La soirée est chaleureuse au village, car vous restez principalement au sec toute la journée grâce au toit au-dessus de vous."
           },
           "stops": [
             {
@@ -914,13 +1012,15 @@
                 "de": "Musée de la Nacre",
                 "hu": "Musée de la Nacre",
                 "ro": "Musée de la Nacre",
-                "en": "Musée de la Nacre"
+                "en": "Musée de la Nacre",
+                "fr": "Musée de la Nacre"
               },
               "tip_5lang": {
                 "de": "Parken Sie direkt am Museum, um den Regen zu minimieren; die filigranen Kunstwerke drinnen lassen das trübe Wetter schnell vergessen.",
                 "hu": "Parkoljon közvetlenül a múzeumnál, hogy minimálisra csökkentse az elázást; a benti filigrán műalkotások elfeledtetik a borús időt.",
                 "ro": "Parcați chiar lângă muzeu pentru a minimiza expunerea la ploaie; operele de artă filigranate din interior vă vor face să uitați de vremea mohorâtă.",
-                "en": "Park directly by the museum to minimize rain exposure; the delicate artworks inside will quickly make you forget the gloomy weather."
+                "en": "Park directly by the museum to minimize rain exposure; the delicate artworks inside will quickly make you forget the gloomy weather.",
+                "fr": "Garez-vous directement auprès du musée pour minimiser l'exposition à la pluie ; les délicates œuvres d'art à l'intérieur vous feront vite oublier le temps maussade."
               }
             },
             {
@@ -928,13 +1028,15 @@
                 "de": "Plage aux Coquillages",
                 "hu": "Plage aux Coquillages",
                 "ro": "Plage aux Coquillages",
-                "en": "Plage aux Coquillages"
+                "en": "Plage aux Coquillages",
+                "fr": "Plage aux Coquillages"
               },
               "tip_5lang": {
                 "de": "Genießen Sie den Blick auf den Strand aus dem schützenden Mobil; ein kurzer Sprint zum Wasser lohnt sich nur mit gutem Regenzeug.",
                 "hu": "Élvezze a strand látványát a védelmet nyújtó kocsiból; egy rövid vágta a vízig csak jó esőfelszerelésben éri meg a vizes homokon.",
                 "ro": "Bucurați-vă de vederea plajei din vehiculul protector; un scurt sprint spre apă merită doar cu echipament de ploaie adecvat.",
-                "en": "Enjoy the beach view from the protective cart; a short dash to the water is only worth it with proper rain gear on the wet sand."
+                "en": "Enjoy the beach view from the protective cart; a short dash to the water is only worth it with proper rain gear on the wet sand.",
+                "fr": "Profitez de la vue sur la plage depuis le véhicule protecteur ; une courte ruée jusqu'à l'eau ne vaut le coup qu'avec un véritable équipement de pluie sur le sable mouillé."
               }
             },
             {
@@ -942,13 +1044,15 @@
                 "de": "Baby Plage",
                 "hu": "Baby Plage",
                 "ro": "Baby Plage",
-                "en": "Baby Plage"
+                "en": "Baby Plage",
+                "fr": "Baby Plage"
               },
               "tip_5lang": {
                 "de": "Bleiben Sie auf den befestigten Parkplätzen, um nicht im Matsch stecken zu bleiben; die graue See bietet hier ein beeindruckendes Naturschauspiel.",
                 "hu": "Maradjon a szilárdabb parkolóhelyeken, hogy ne ragadjon be a sárba; a szürke tenger itt lenyűgöző természeti látványt nyújt esőben is.",
                 "ro": "Rămâneți pe locurile de parcare consolidate pentru a nu rămâne blocat în noroi; marea gri oferă aici un spectacol natural impresionant.",
-                "en": "Stay on the firmer parking spots to avoid getting stuck in the mud; the gray sea offers an impressive natural spectacle here even in rain."
+                "en": "Stay on the firmer parking spots to avoid getting stuck in the mud; the gray sea offers an impressive natural spectacle here even in rain.",
+                "fr": "Restez sur les emplacements de stationnement les plus fermes pour éviter de vous enliser dans la boue ; la mer grise offre ici un spectacle naturel impressionnant même sous la pluie."
               }
             },
             {
@@ -956,13 +1060,15 @@
                 "de": "Batterie de Coudepont",
                 "hu": "Batterie de Coudepont",
                 "ro": "Batterie de Coudepont",
-                "en": "Batterie de Coudepont"
+                "en": "Batterie de Coudepont",
+                "fr": "Batterie de Coudepont"
               },
               "tip_5lang": {
                 "de": "Das Mobil bietet Schutz vor dem Wind, während Sie die Batterie betrachten; nutzen Sie Pausen im Regen für kurze Erkundungen der Außenanlagen.",
                 "hu": "A kocsi védelmet nyújt a szél elől, amíg az üteget nézi; használja ki az esőszüneteket a külső falak gyors felfedezésére.",
                 "ro": "Vehiculul oferă protecție împotriva vântului în timp ce priviți bateria; folosiți pauzele dintre averse pentru scurte explorări exterioare.",
-                "en": "The cart provides wind protection while you view the battery; use breaks in the rain for quick explorations of the outdoor structures."
+                "en": "The cart provides wind protection while you view the battery; use breaks in the rain for quick explorations of the outdoor structures.",
+                "fr": "Le véhicule offre une protection contre le vent pendant que vous regardez la batterie ; profitez des accalmies pour de brèves explorations des structures extérieures."
               }
             },
             {
@@ -970,13 +1076,15 @@
                 "de": "Fort Liédot",
                 "hu": "Fort Liédot",
                 "ro": "Fort Liédot",
-                "en": "Fort Liédot"
+                "en": "Fort Liédot",
+                "fr": "Fort Liédot"
               },
               "tip_5lang": {
                 "de": "Fahren Sie bis nah an das Eingangstor heran; im massiven Fort sind Sie absolut sicher vor dem Regen und können die Ausstellungen genießen.",
                 "hu": "Hajtson egészen a bejárati kapu közelébe; a masszív erődben abszolút biztonságban lesz az esőtől, és élvezheti a benti kiállításokat.",
                 "ro": "Conduceți până aproape de poarta de intrare; în fortul masiv sunteți în siguranță totală față de ploaie și puteți savura expozițiile.",
-                "en": "Drive close to the entrance gate; inside the massive fort, you are absolutely safe from the rain and can fully enjoy the indoor exhibits."
+                "en": "Drive close to the entrance gate; inside the massive fort, you are absolutely safe from the rain and can fully enjoy the indoor exhibits.",
+                "fr": "Garez-vous près de la porte d'entrée ; à l'intérieur du fort massif, vous êtes parfaitement à l'abri de la pluie et pouvez pleinement apprécier les expositions intérieures."
               }
             },
             {
@@ -984,13 +1092,15 @@
                 "de": "Sémaphore",
                 "hu": "Sémaphore",
                 "ro": "Sémaphore",
-                "en": "Sémaphore"
+                "en": "Sémaphore",
+                "fr": "Sémaphore"
               },
               "tip_5lang": {
                 "de": "Der Parkplatz bietet eine gute Sicht; bleiben Sie bei starkem Guss im Mobil und beobachten Sie die Schiffe im Dunst des Regens.",
                 "hu": "A parkolóból jó a kilátás; erős zivatar esetén maradjon a kocsiban, és figyelje a hajókat az eső okozta párás ködben.",
                 "ro": "Parcarea oferă o vedere bună; în caz de ploaie torențială, rămâneți în vehicul și observați navele prin ceața ploii.",
-                "en": "The parking area offers a good vantage point; stay in the cart during heavy downpours and watch the ships through the misty rain."
+                "en": "The parking area offers a good vantage point; stay in the cart during heavy downpours and watch the ships through the misty rain.",
+                "fr": "L'aire de stationnement offre un bon point de vue ; restez dans le véhicule pendant les fortes averses et observez les navires à travers la pluie brumeuse."
               }
             }
           ]
@@ -1000,7 +1110,8 @@
             "de": "Ein klarer Wintermorgen lädt zur Fahrt mit dem Elektromobil über die Insel ein. Mittags bieten die Museen eine angenehme Wärme, während man die Geschichte der Insel erkundet. Am Nachmittag nutzt man das Mobil, um zügig zwischen den windigen Küstenpunkten zu wechseln. Da es um 17:00 Uhr bereits dunkel ist, endet die Tour rechtzeitig im gemütlich beleuchteten Dorfzentrum.",
             "hu": "A tiszta téli reggel elektromos kocsikázásra hívogat a szigeten. Délben a múzeumok kellemes meleget árasztanak, miközben a sziget múltját kutatjuk. Délután a kocsival gyorsan válthatunk a szeles parti pontok között, elkerülve a fagyoskodást. Mivel 17:00-kor már sötét van, a túra időben véget ér a barátságosan kivilágított faluközpontban.",
             "ro": "O dimineață senină de iarnă vă invită la o plimbare cu vehiculul electric pe insulă. La prânz, muzeele oferă o căldură plăcută în timp ce explorați trecutul insulei. După-amiaza folosiți vehiculul pentru a schimba rapid punctele de coastă vântoase. Deoarece la ora 17:00 este deja întuneric, turul se încheie la timp în centrul satului luminat.",
-            "en": "A clear winter morning invites you for a tour of the island in your electric cart. At noon, museums offer pleasant warmth while you explore the island's history. In the afternoon, use the cart to quickly zip between windy coastal spots. Since it's already dark by 17:00, the tour ends perfectly in the cozily lit village center."
+            "en": "A clear winter morning invites you for a tour of the island in your electric cart. At noon, museums offer pleasant warmth while you explore the island's history. In the afternoon, use the cart to quickly zip between windy coastal spots. Since it's already dark by 17:00, the tour ends perfectly in the cozily lit village center.",
+            "fr": "Une matinée d'hiver claire vous invite à faire le tour de l'île en votre véhicule électrique. À midi, les musées offrent une agréable chaleur pendant que vous découvrez l'histoire de l'île. L'après-midi, utilisez le véhicule pour vous déplacer rapidement entre les points côtiers venteux. Comme il fait déjà sombre à 17:00, la visite se termine parfaitement dans le centre du village joliment éclairé."
           },
           "stops": [
             {
@@ -1008,13 +1119,15 @@
                 "de": "Musée de la Nacre",
                 "hu": "Musée de la Nacre",
                 "ro": "Musée de la Nacre",
-                "en": "Musée de la Nacre"
+                "en": "Musée de la Nacre",
+                "fr": "Musée de la Nacre"
               },
               "tip_5lang": {
                 "de": "Der ideale Startpunkt zum Aufwärmen; bewundern Sie die glänzenden Exponate in der behaglichen Stille des winterlichen Museums.",
                 "hu": "Ideális kiindulópont a felmelegedéshez; csodálja meg a csillogó kiállítási tárgyakat a téli múzeum meghitt, csendes nyugalmában.",
                 "ro": "Punctul de plecare ideal pentru a vă încălzi; admirați exponatele strălucitoare în liniștea confortabilă a muzeului pe timp de iarnă.",
-                "en": "The ideal starting point to warm up; admire the shimmering exhibits in the cozy silence of the museum during the winter season."
+                "en": "The ideal starting point to warm up; admire the shimmering exhibits in the cozy silence of the museum during the winter season.",
+                "fr": "Le point de départ idéal pour se réchauffer ; admirez les expositions scintillantes dans le silence douillet du musée durant la saison hivernale."
               }
             },
             {
@@ -1022,13 +1135,15 @@
                 "de": "Plage aux Coquillages",
                 "hu": "Plage aux Coquillages",
                 "ro": "Plage aux Coquillages",
-                "en": "Plage aux Coquillages"
+                "en": "Plage aux Coquillages",
+                "fr": "Plage aux Coquillages"
               },
               "tip_5lang": {
                 "de": "Das Mobil schützt vor der kalten Seebrise; genießen Sie den weiten Blick auf den Atlantik und das klare Winterlicht direkt vom Fahrersitz aus.",
                 "hu": "A kocsi megvéd a hideg tengeri szellőtől; élvezze az Atlanti-óceánra nyíló kilátást és a tiszta téli fényt közvetlenül a vezetőülésből.",
                 "ro": "Vehiculul vă protejează de briza rece a mării; bucurați-vă de vederea largă spre Atlantic și de lumina clară de iarnă direct de la volan.",
-                "en": "The cart protects you from the cold sea breeze; enjoy the wide views of the Atlantic and the clear winter light directly from your seat."
+                "en": "The cart protects you from the cold sea breeze; enjoy the wide views of the Atlantic and the clear winter light directly from your seat.",
+                "fr": "Le véhicule vous protège de la brise froide de mer ; profitez des larges vues sur l'Atlantique et de la lumière claire de l'hiver directement depuis votre siège."
               }
             },
             {
@@ -1036,13 +1151,15 @@
                 "de": "Baby Plage",
                 "hu": "Baby Plage",
                 "ro": "Baby Plage",
-                "en": "Baby Plage"
+                "en": "Baby Plage",
+                "fr": "Baby Plage"
               },
               "tip_5lang": {
                 "de": "Ein kurzer Stopp für ein Foto der einsamen Bucht; im Winter ist die Atmosphäre hier besonders friedlich, aber eine Mütze ist beim Aussteigen Pflicht.",
                 "hu": "Egy rövid megálló a magányos öböl fotózásához; télen a hangulat itt különösen békés, de a kiszállásnál a sapka viselése kötelező.",
                 "ro": "Un scurt popas pentru o fotografie a golfului pustiu; iarna atmosfera aici este extrem de pașnică, dar căciula este obligatorie la coborâre.",
-                "en": "A short stop for a photo of the lonely bay; in winter, the atmosphere is especially peaceful here, but a hat is a must when stepping out."
+                "en": "A short stop for a photo of the lonely bay; in winter, the atmosphere is especially peaceful here, but a hat is a must when stepping out.",
+                "fr": "Un court arrêt pour une photo de la baie solitaire ; en hiver, l'atmosphère est particulièrement paisible ici, mais un bonnet est indispensable en sortant."
               }
             },
             {
@@ -1050,13 +1167,15 @@
                 "de": "Batterie de Coudepont",
                 "hu": "Batterie de Coudepont",
                 "ro": "Batterie de Coudepont",
-                "en": "Batterie de Coudepont"
+                "en": "Batterie de Coudepont",
+                "fr": "Batterie de Coudepont"
               },
               "tip_5lang": {
                 "de": "Betrachten Sie die Festungskunst vom warmen Mobil aus; die tiefstehende Wintersonne wirft lange, dramatische Schatten auf die alten Mauern.",
                 "hu": "Nézze meg az erődítményt a meleg kocsiból; az alacsonyan járó téli nap hosszú, drámai árnyékokat vet a régi falakra és az ütegre.",
                 "ro": "Admirați fortificația din vehiculul cald; soarele de iarnă jos pe cer aruncă umbre lungi și dramatice pe zidurile vechi ale bateriei.",
-                "en": "View the fortifications from the warmth of your cart; the low winter sun casts long, dramatic shadows across the ancient walls of the battery."
+                "en": "View the fortifications from the warmth of your cart; the low winter sun casts long, dramatic shadows across the ancient walls of the battery.",
+                "fr": "Admirez les fortifications depuis la chaleur de votre véhicule ; le soleil bas d'hiver projette de longues ombres dramatiques sur les vieux murs de la batterie."
               }
             },
             {
@@ -1064,13 +1183,15 @@
                 "de": "Fort Liédot",
                 "hu": "Fort Liédot",
                 "ro": "Fort Liédot",
-                "en": "Fort Liédot"
+                "en": "Fort Liédot",
+                "fr": "Fort Liédot"
               },
               "tip_5lang": {
                 "de": "Die dicken Mauern speichern die Kälte, also bleiben Sie in Bewegung; die winterliche Einsamkeit macht den Besuch des Forts jedoch sehr authentisch.",
                 "hu": "A vastag falak tartják a hideget, így maradjon mozgásban; a téli magány azonban rendkívül autentikussá teszi az erőd meglátogatását.",
                 "ro": "Zidurile groase rețin frigul, așa că rămâneți în mișcare; totuși, singurătatea iernii face vizita la fort foarte autentică.",
-                "en": "The thick walls retain the cold, so keep moving inside; however, the winter solitude makes visiting the fort feel very authentic."
+                "en": "The thick walls retain the cold, so keep moving inside; however, the winter solitude makes visiting the fort feel very authentic.",
+                "fr": "Les murs épais gardent le froid, donc bougez à l'intérieur ; cependant, la solitude hivernale rend la visite du fort très authentique."
               }
             },
             {
@@ -1078,13 +1199,15 @@
                 "de": "Sémaphore",
                 "hu": "Sémaphore",
                 "ro": "Sémaphore",
-                "en": "Sémaphore"
+                "en": "Sémaphore",
+                "fr": "Sémaphore"
               },
               "tip_5lang": {
                 "de": "Beobachten Sie das Ende des Tages gegen 16:45 Uhr; das Mobil erlaubt eine schnelle Rückkehr ins Dorf, bevor die Winterkälte nach Sonnenuntergang zunimmt.",
                 "hu": "Figyelje meg a nap végét 16:45 körül; a kocsi lehetővé teszi a gyors visszatérést a faluba, mielőtt a téli hideg a naplemente után felerősödne.",
                 "ro": "Observați sfârșitul zilei în jurul orei 16:45; vehiculul permite o revenire rapidă în sat înainte ca frigul să se intensifice după apus.",
-                "en": "Watch the day end around 16:45; the cart allows for a quick return to the village before the winter chill sharpens after the 17:00 sunset."
+                "en": "Watch the day end around 16:45; the cart allows for a quick return to the village before the winter chill sharpens after the 17:00 sunset.",
+                "fr": "Observez la fin de journée vers 16:45 ; le véhicule permet un retour rapide au village avant que la fraîcheur hivernale ne se fasse plus vive après le coucher du soleil à 17:00."
               }
             }
           ]

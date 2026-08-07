@@ -21,7 +21,8 @@
             "de": "Botanischer Garten (Jardin des Plantes)",
             "hu": "Fűvészkert (Jardin des Plantes)",
             "ro": "Grădina Plantelor",
-            "en": "Botanical Garden (Jardin des Plantes)"
+            "en": "Botanical Garden (Jardin des Plantes)",
+            "fr": "Jardin botanique (Jardin des Plantes)"
           },
           "coords": [
             -1.5428,
@@ -37,7 +38,7 @@
             "hu": "Keresd meg Claude Ponti vicces növényszobrait.",
             "ro": "Căutați sculpturile vegetale amuzante ale lui Claude Ponti.",
             "en": "Look for the funny plant sculptures by Claude Ponti.",
-            "fr": "Cherchez les sculptures végétales amusantes de Claude Ponti."
+            "fr": "Cherchez les sculptures de plantes amusantes de Claude Ponti."
           }
         },
         {
@@ -45,7 +46,8 @@
             "de": "Kathedrale Saint-Pierre-et-Saint-Paul",
             "hu": "Szent Péter és Szent Pál katedrális",
             "ro": "Catedrala Sfântul Petru și Sfântul Paul",
-            "en": "St. Peter and St. Paul Cathedral"
+            "en": "St. Peter and St. Paul Cathedral",
+            "fr": "Cathédrale Saint-Pierre-et-Saint-Paul"
           },
           "coords": [
             -1.5508,
@@ -61,7 +63,7 @@
             "hu": "Csodáld meg II. Ferenc herceg pompás síremlékét bent.",
             "ro": "Admirați mormântul magnific al lui Francisc al II-lea în interior.",
             "en": "Admire the magnificent tomb of Francis II inside.",
-            "fr": "Admirez le magnifique tombeau de François II à l'intérieur."
+            "fr": "Admirez l’imposant tombeau de François II à l’intérieur."
           }
         },
         {
@@ -69,7 +71,8 @@
             "de": "Schloss der Herzöge der Bretagne",
             "hu": "Bretagne hercegeinek kastélya",
             "ro": "Castelul Ducilor de Bretania",
-            "en": "Castle of the Dukes of Brittany"
+            "en": "Castle of the Dukes of Brittany",
+            "fr": "Château des Ducs de Bretagne"
           },
           "coords": [
             -1.5492,
@@ -93,7 +96,8 @@
             "de": "Viertel Bouffay (Mittagessen)",
             "hu": "Bouffay negyed (Ebéd)",
             "ro": "Cartierul Bouffay (Prânz)",
-            "en": "Bouffay District (Lunch)"
+            "en": "Bouffay District (Lunch)",
+            "fr": "Quartier Bouffay (Déjeuner)"
           },
           "coords": [
             -1.5535,
@@ -109,7 +113,7 @@
             "hu": "Kóstolj meg egy sós galette-et a számos palacsintázó egyikében.",
             "ro": "Încercați o galetă la una dintre numeroasele clătătării.",
             "en": "Try a galette in one of the many creperies.",
-            "fr": "Dégustez une galette dans l'une des nombreuses crêperies."
+            "fr": "Goûtez une galette dans l’une des nombreuses crêperies."
           }
         },
         {
@@ -117,7 +121,8 @@
             "de": "Passage Pommeraye",
             "hu": "Passage Pommeraye",
             "ro": "Pasajul Pommeraye",
-            "en": "Passage Pommeraye"
+            "en": "Passage Pommeraye",
+            "fr": "Passage Pommeraye"
           },
           "coords": [
             -1.5588,
@@ -133,7 +138,7 @@
             "hu": "Európa egyik legszebb 19. századi bevásárlópasszázsa.",
             "ro": "Una dintre cele mai frumoase pasaje comerciale din sec. XIX din Europa.",
             "en": "One of Europe's most beautiful 19th-century shopping arcades.",
-            "fr": "L'une des plus belles galeries marchandes du XIXe siècle en Europe."
+            "fr": "L’une des plus belles galeries commerçantes européennes du XIXe siècle."
           }
         },
         {
@@ -141,7 +146,8 @@
             "de": "Die Maschinen der Insel (Les Machines de l'île)",
             "hu": "A sziget gépei (Les Machines de l'île)",
             "ro": "Mașinile Insulei",
-            "en": "The Machines of the Isle"
+            "en": "The Machines of the Isle",
+            "fr": "Les Machines de l’île"
           },
           "coords": [
             -1.5644,
@@ -157,7 +163,7 @@
             "hu": "Ne hagyd ki a hatalmas mechanikus elefántot.",
             "ro": "Nu ratați uriașul elefant mecanic.",
             "en": "Don't miss the giant mechanical elephant.",
-            "fr": "Ne manquez pas le géant éléphant mécanique."
+            "fr": "Ne manquez pas le gigantesque éléphant mécanique."
           }
         },
         {
@@ -165,7 +171,8 @@
             "de": "Quai des Antilles",
             "hu": "Quai des Antilles",
             "ro": "Quai des Antilles",
-            "en": "Quai des Antilles"
+            "en": "Quai des Antilles",
+            "fr": "Quai des Antilles"
           },
           "coords": [
             -1.5715,
@@ -181,7 +188,7 @@
             "hu": "Tökéletes egy italra a kivilágított gyűrűk (Buren) látványával.",
             "ro": "Perfect pentru o băutură cu vedere la inelele iluminate.",
             "en": "Perfect for a drink with a view of the illuminated rings.",
-            "fr": "Parfait pour prendre un verre avec vue sur les anneaux illuminés."
+            "fr": "Parfait pour un verre avec vue sur les anneaux illuminés."
           }
         }
       ],
@@ -190,7 +197,7 @@
         "hu": "A napot a buja Fűvészkertben indítjuk, majd megcsodáljuk a gótikus katedrálist. Késő délelőtt a Bretagne hercegeinek kastélyát fedezzük fel.\n\nEbédidőben a Bouffay negyed középkori utcáin kóstolunk bele a helyi ízekbe, majd a pazar Passage Pommeraye folyosóin sétálunk tovább.\n\nDélután a sziget gépei várnak: Jules Verne világa elevenedik meg a hatalmas elefánttal és a tengeri körhintával.\n\nEste a Loire-parton sétálunk a Quai des Antilles-ig, ahol a kivilágított Buren-gyűrűk mellett élvezhetjük a kikötői hangulatot és a naplementét.",
         "ro": "Ziua începe în luxurianta Grădină a Plantelor, înainte de a admira catedrala gotică. Spre sfârșitul dimineții, explorați castelul istoric al Bretaniei.\n\nLa prânz, pătrundeți în străzile medievale din Bouffay pentru a savura specialități locale. Apoi, plimbați-vă prin spectaculosul Pasaj Pommeraye.\n\nDupă-amiaza aparține lumii fantastice a lui Jules Verne la Machines de l'île. Rămâneți uimiți de elefantul mecanic și caruselul lumilor marine.\n\nÎn încheiere, plimbați-vă de-a lungul Loarei până la Quai des Antilles, unde inelele lui Buren strălucesc la apus, îmbinând arta modernă cu atmosfera portuară.",
         "en": "Your day starts in the lush Botanical Garden before admiring the Gothic cathedral. In the late morning, explore the historic Castle of Brittany.\n\nAt lunchtime, dive into the medieval streets of Bouffay to enjoy local specialties, then stroll through the magnificent Passage Pommeraye.\n\nThe afternoon belongs to the fantasy world of Jules Verne at the Machines de l'île. Marvel at the mechanical elephant and the marine worlds carousel.\n\nTo finish, walk along the Loire to Quai des Antilles, where Buren's rings glow at sunset, blending modern art with a harbor atmosphere.",
-        "fr": "Votre journée commence dans le luxuriant Jardin des Plantes avant d'admirer la cathédrale gothique. En fin de matinée, explorez l'historique Château des ducs de Bretagne.\n\nÀ l'heure du déjeuner, plongez dans les rues médiévales du quartier du Bouffay pour savourer des spécialités locales, puis flânez dans le magnifique Passage Pommeraye.\n\nL'après-midi appartient au monde fantastique de Jules Verne aux Machines de l'île. Émerveillez-vous devant l'éléphant mécanique et le Carrousel des Mondes Marins.\n\nPour finir, marchez le long de la Loire jusqu'au Quai des Antilles, où les anneaux de Buren s'illuminent au coucher du soleil, mêlant l'art moderne à une atmosphère portuaire."
+        "fr": "Votre journée commence dans l'abondant Jardin des Plantes avant d'admirer la cathédrale gothique. En fin de matinée, explorez le château historique des ducs de Bretagne.\n\nÀ midi, plongez dans les rues médiévales de Bouffay pour déguster des spécialités locales, puis promenez-vous dans le magnifique Passage Pommeraye.\n\nL'après‑midi appartient à l'univers fantastique de Jules Verne aux Machines de l'île. Émerveillez‑vous devant l'éléphant mécanique et le carrousel des mondes marins.\n\nPour finir, marchez le long de la Loire jusqu'au Quai des Antilles, où les anneaux de Buren s'illuminent au coucher du soleil, mêlant art moderne et ambiance portuaire."
       },
       "gastro_picks": {
         "de": [
@@ -388,11 +395,11 @@
           "Use the 'Navibus' water buses for a quick river trip."
         ],
         "fr": [
-          "Suivez la ligne verte tracée au sol, elle mène à tous les sites incontournables.",
-          "Nantes est très plate et parfaite pour une exploration à pied.",
+          "Suivez la ligne verte peinte au sol, elle mène à tous les sites clés.",
+          "Nantes est très plate et idéale pour explorer à pied.",
           "La cathédrale peut être partiellement fermée en raison de travaux de restauration.",
-          "Réservez vos billets pour le voyage en éléphant à l'avance en ligne.",
-          "Utilisez les navettes fluviales 'Navibus' pour une traversée rapide du fleuve."
+          "Réservez les billets pour la promenade en éléphant à l'avance en ligne.",
+          "Utilisez les 'Navibus' pour une courte traversée fluviale."
         ]
       },
       "variants": {
@@ -401,7 +408,8 @@
             "de": "Ihr Tag beginnt im üppigen Botanischen Garten, bevor Sie die gotische Kathedrale bewundern. Am späten Vormittag erkunden Sie das historische Schloss der Bretagne.\n\nMittags tauchen Sie in die mittelalterlichen Gassen von Bouffay ein, um lokale Spezialitäten zu genießen. Danach spazieren Sie durch die prächtige Passage Pommeraye.\n\nDer Nachmittag gehört der Fantasiewelt von Jules Verne bei den Machines de l'île. Staunen Sie über den mechanischen Elefanten und das Karussell der Meereswelten.\n\nZum Abschluss schlendern Sie entlang der Loire zum Quai des Antilles, wo die Buren-Ringe im Sonnenuntergang leuchten und moderne Kunst auf Hafenatmosphäre trifft.",
             "hu": "A napot a buja Fűvészkertben indítjuk, majd megcsodáljuk a gótikus katedrálist. Késő délelőtt a Bretagne hercegeinek kastélyát fedezzük fel.\n\nEbédidőben a Bouffay negyed középkori utcáin kóstolunk bele a helyi ízekbe, majd a pazar Passage Pommeraye folyosóin sétálunk tovább.\n\nDélután a sziget gépei várnak: Jules Verne világa elevenedik meg a hatalmas elefánttal és a tengeri körhintával.\n\nEste a Loire-parton sétálunk a Quai des Antilles-ig, ahol a kivilágított Buren-gyűrűk mellett élvezhetjük a kikötői hangulatot és a naplementét.",
             "ro": "Ziua începe în luxurianta Grădină a Plantelor, înainte de a admira catedrala gotică. Spre sfârșitul dimineții, explorați castelul istoric al Bretaniei.\n\nLa prânz, pătrundeți în străzile medievale din Bouffay pentru a savura specialități locale. Apoi, plimbați-vă prin spectaculosul Pasaj Pommeraye.\n\nDupă-amiaza aparține lumii fantastice a lui Jules Verne la Machines de l'île. Rămâneți uimiți de elefantul mecanic și caruselul lumilor marine.\n\nÎn încheiere, plimbați-vă de-a lungul Loarei până la Quai des Antilles, unde inelele lui Buren strălucesc la apus, îmbinând arta modernă cu atmosfera portuară.",
-            "en": "Your day starts in the lush Botanical Garden before admiring the Gothic cathedral. In the late morning, explore the historic Castle of Brittany.\n\nAt lunchtime, dive into the medieval streets of Bouffay to enjoy local specialties, then stroll through the magnificent Passage Pommeraye.\n\nThe afternoon belongs to the fantasy world of Jules Verne at the Machines de l'île. Marvel at the mechanical elephant and the marine worlds carousel.\n\nTo finish, walk along the Loire to Quai des Antilles, where Buren's rings glow at sunset, blending modern art with a harbor atmosphere."
+            "en": "Your day starts in the lush Botanical Garden before admiring the Gothic cathedral. In the late morning, explore the historic Castle of Brittany.\n\nAt lunchtime, dive into the medieval streets of Bouffay to enjoy local specialties, then stroll through the magnificent Passage Pommeraye.\n\nThe afternoon belongs to the fantasy world of Jules Verne at the Machines de l'île. Marvel at the mechanical elephant and the marine worlds carousel.\n\nTo finish, walk along the Loire to Quai des Antilles, where Buren's rings glow at sunset, blending modern art with a harbor atmosphere.",
+            "fr": "Votre journée commence dans l'abondant Jardin des Plantes avant d'admirer la cathédrale gothique. En fin de matinée, explorez le château historique des ducs de Bretagne.\n\nÀ midi, plongez dans les rues médiévales de Bouffay pour déguster des spécialités locales, puis promenez-vous dans le magnifique Passage Pommeraye.\n\nL'après‑midi appartient à l'univers fantastique de Jules Verne aux Machines de l'île. Émerveillez‑vous devant l'éléphant mécanique et le carrousel des mondes marins.\n\nPour finir, marchez le long de la Loire jusqu'au Quai des Antilles, où les anneaux de Buren s'illuminent au coucher du soleil, mêlant art moderne et ambiance portuaire."
           },
           "stops": [
             {
@@ -409,13 +417,15 @@
                 "de": "Botanischer Garten (Jardin des Plantes)",
                 "hu": "Fűvészkert (Jardin des Plantes)",
                 "ro": "Grădina Plantelor",
-                "en": "Botanical Garden (Jardin des Plantes)"
+                "en": "Botanical Garden (Jardin des Plantes)",
+                "fr": "Jardin des Plantes (Botanical Garden)"
               },
               "tip_5lang": {
                 "de": "Suchen Sie die lustigen Pflanzenskulpturen von Claude Ponti.",
                 "hu": "Keresd meg Claude Ponti vicces növényszobrait.",
                 "ro": "Căutați sculpturile vegetale amuzante ale lui Claude Ponti.",
-                "en": "Look for the funny plant sculptures by Claude Ponti."
+                "en": "Look for the funny plant sculptures by Claude Ponti.",
+                "fr": "Cherchez les sculptures végétales amusantes de Claude Ponti."
               }
             },
             {
@@ -423,13 +433,15 @@
                 "de": "Kathedrale Saint-Pierre-et-Saint-Paul",
                 "hu": "Szent Péter és Szent Pál katedrális",
                 "ro": "Catedrala Sfântul Petru și Sfântul Paul",
-                "en": "St. Peter and St. Paul Cathedral"
+                "en": "St. Peter and St. Paul Cathedral",
+                "fr": "Cathédrale Saint‑Pierre et Saint‑Paul"
               },
               "tip_5lang": {
                 "de": "Bewundern Sie das prächtige Grabmal von Franz II. im Inneren.",
                 "hu": "Csodáld meg II. Ferenc herceg pompás síremlékét bent.",
                 "ro": "Admirați mormântul magnific al lui Francisc al II-lea în interior.",
-                "en": "Admire the magnificent tomb of Francis II inside."
+                "en": "Admire the magnificent tomb of Francis II inside.",
+                "fr": "Admirez le magnifique tombeau de François II à l'intérieur."
               }
             },
             {
@@ -437,13 +449,15 @@
                 "de": "Schloss der Herzöge der Bretagne",
                 "hu": "Bretagne hercegeinek kastélya",
                 "ro": "Castelul Ducilor de Bretania",
-                "en": "Castle of the Dukes of Brittany"
+                "en": "Castle of the Dukes of Brittany",
+                "fr": "Château des Ducs de Bretagne"
               },
               "tip_5lang": {
                 "de": "Man kann kostenlos auf den Festungsmauern spazieren gehen.",
                 "hu": "A várfalakon ingyenesen lehet körbesétálni.",
                 "ro": "Vă puteți plimba gratuit pe zidurile cetății.",
-                "en": "You can walk on the fortress walls for free."
+                "en": "You can walk on the fortress walls for free.",
+                "fr": "Vous pouvez marcher sur les remparts gratuitement."
               }
             },
             {
@@ -451,13 +465,15 @@
                 "de": "Viertel Bouffay (Mittagessen)",
                 "hu": "Bouffay negyed (Ebéd)",
                 "ro": "Cartierul Bouffay (Prânz)",
-                "en": "Bouffay District (Lunch)"
+                "en": "Bouffay District (Lunch)",
+                "fr": "Quartier Bouffay (Déjeuner)"
               },
               "tip_5lang": {
                 "de": "Probieren Sie eine Galette in einer der vielen Crêperien.",
                 "hu": "Kóstolj meg egy sós galette-et a számos palacsintázó egyikében.",
                 "ro": "Încercați o galetă la una dintre numeroasele clătătării.",
-                "en": "Try a galette in one of the many creperies."
+                "en": "Try a galette in one of the many creperies.",
+                "fr": "Goûtez une galette dans l'une des nombreuses crêperies."
               }
             },
             {
@@ -465,13 +481,15 @@
                 "de": "Passage Pommeraye",
                 "hu": "Passage Pommeraye",
                 "ro": "Pasajul Pommeraye",
-                "en": "Passage Pommeraye"
+                "en": "Passage Pommeraye",
+                "fr": "Passage Pommeraye"
               },
               "tip_5lang": {
                 "de": "Eine der schönsten Einkaufspassagen Europas aus dem 19. Jhd.",
                 "hu": "Európa egyik legszebb 19. századi bevásárlópasszázsa.",
                 "ro": "Una dintre cele mai frumoase pasaje comerciale din sec. XIX din Europa.",
-                "en": "One of Europe's most beautiful 19th-century shopping arcades."
+                "en": "One of Europe's most beautiful 19th-century shopping arcades.",
+                "fr": "L'une des plus belles galeries commerçantes du XIXe siècle en Europe."
               }
             },
             {
@@ -479,13 +497,15 @@
                 "de": "Die Maschinen der Insel (Les Machines de l'île)",
                 "hu": "A sziget gépei (Les Machines de l'île)",
                 "ro": "Mașinile Insulei",
-                "en": "The Machines of the Isle"
+                "en": "The Machines of the Isle",
+                "fr": "Les Machines de l'île"
               },
               "tip_5lang": {
                 "de": "Verpassen Sie nicht den riesigen mechanischen Elefanten.",
                 "hu": "Ne hagyd ki a hatalmas mechanikus elefántot.",
                 "ro": "Nu ratați uriașul elefant mecanic.",
-                "en": "Don't miss the giant mechanical elephant."
+                "en": "Don't miss the giant mechanical elephant.",
+                "fr": "Ne manquez pas le gigantesque éléphant mécanique."
               }
             },
             {
@@ -493,13 +513,15 @@
                 "de": "Quai des Antilles",
                 "hu": "Quai des Antilles",
                 "ro": "Quai des Antilles",
-                "en": "Quai des Antilles"
+                "en": "Quai des Antilles",
+                "fr": "Quai des Antilles"
               },
               "tip_5lang": {
                 "de": "Perfekt für einen Drink mit Blick auf die beleuchteten Ringe.",
                 "hu": "Tökéletes egy italra a kivilágított gyűrűk (Buren) látványával.",
                 "ro": "Perfect pentru o băutură cu vedere la inelele iluminate.",
-                "en": "Perfect for a drink with a view of the illuminated rings."
+                "en": "Perfect for a drink with a view of the illuminated rings.",
+                "fr": "Parfait pour un verre avec vue sur les anneaux illuminés."
               }
             }
           ],
@@ -665,6 +687,13 @@
               "The cathedral may be partially closed due to restoration work.",
               "Book elephant ride tickets in advance online.",
               "Use the 'Navibus' water buses for a quick river trip."
+            ],
+            "fr": [
+              "Suivez la ligne verte peinte au sol, elle mène à tous les sites clés.",
+              "Nantes est très plate et idéale pour explorer à pied.",
+              "La cathédrale peut être partiellement fermée en raison de travaux de restauration.",
+              "Réservez les billets pour la promenade en éléphant à l'avance en ligne.",
+              "Utilisez les 'Navibus' pour une courte traversée fluviale."
             ]
           }
         },
@@ -674,7 +703,7 @@
             "hu": "Reggel: A Botanikus kert történelmi pálmaházai menedéket nyújtanak az eső elől. A katedrális belső tere csendes és száraz. Délben: A vár múzeuma kiváló fedett program, a Bouffay negyed szűk utcáin pedig gyorsan találunk egy barátságos éttermet. Délután: A Passage Pommeraye fedett passzázsa tökéletes esőben. A Gépek szigete hatalmas csarnoka is védett. Este: A Quai des Antilles egykori raktárépületei fedett bároknak adnak helyet a folyóparton.",
             "ro": "Dimineața: Grădina Botanică oferă adăpost în serele sale istorice. Catedrala este un refugiu uscat și liniștit. Prânz: Muzeul Castelului este ideal pentru cultură la interior, urmat de prânz în cartierul Bouffay. După-amiaza: Passage Pommeraye este o galerie comercială acoperită superbă. Machines de l'Île se află într-o hală protejată. Seara: Quai des Antilles oferă baruri acoperite pe malul râului.",
             "en": "Morning: The Botanical Garden's historic greenhouses provide a tropical escape from the drizzle. The Cathedral offers a silent, dry sanctuary. Noon: The Castle museum is perfect for indoor exploration, followed by a cozy lunch in the Bouffay district. Afternoon: Passage Pommeraye is a magnificent covered arcade. The Machines gallery keeps you dry under its glass roof. Evening: Quai des Antilles features sheltered bars in converted warehouses with river views.",
-            "fr": "Matin : Les serres historiques du Jardin des Plantes offrent une évasion tropicale loin de la bruine. La cathédrale offre un sanctuaire silencieux et sec. Midi : Le musée du Château est parfait pour une exploration en intérieur, suivie d'un déjeuner chaleureux dans le quartier du Bouffay. Après-midi : Le Passage Pommeraye est une magnifique galerie couverte. La galerie des Machines vous garde au sec sous son toit de verre. Soir : Le Quai des Antilles propose des bars abrités dans d'anciens entrepôts avec vue sur la Loire."
+            "fr": "Matin : Les serres historiques du Jardin des Plantes offrent une escapade tropicale à l'abri de la bruine. La cathédrale offre un sanctuaire silencieux et sec. Midi : Le musée du Château est parfait pour une visite intérieure, suivi d'un déjeuner chaleureux dans le quartier Bouffay. Après‑midi : Le Passage Pommeraye est une magnifique galerie couverte. La galerie des Machines vous abrite sous sa verrière. Soir : Le Quai des Antilles propose des bars abrités dans d'anciennes hangars avec vue sur la rivière."
           },
           "stops": [
             {
@@ -684,7 +713,7 @@
                 "hu": "Irány az üvegházak, ahol trópusi melegben, szárazon sétálhat a növények között.",
                 "ro": "Vizitați serele mari pentru a admira plante exotice rămânând la adăpost.",
                 "en": "Head straight for the greenhouses to admire exotic plants while staying dry.",
-                "fr": "Dirigez-vous directement vers les serres pour admirer les plantes exotiques à l'abri."
+                "fr": "Dirigez‑vous directement vers les serres pour admirer les plantes exotiques tout en restant au sec."
               }
             },
             {
@@ -694,7 +723,7 @@
                 "hu": "Töltsön több időt a késő gótikus belső tér és a síremlékek felfedezésével.",
                 "ro": "Folosiți timpul pentru o vizită detaliată a interiorului gotic târziu.",
                 "en": "Take your time to admire the late Gothic interior and the tomb of Francis II.",
-                "fr": "Prenez votre temps pour admirer l'intérieur gothique flamboyant et le tombeau de François II."
+                "fr": "Prenez votre temps pour admirer l'intérieur gothique tardif et le tombeau de François II."
               }
             },
             {
@@ -704,7 +733,7 @@
                 "hu": "A várfalak helyett fókuszáljon a belső várostörténeti múzeum kiállításaira.",
                 "ro": "Concentrați-vă pe muzeul de istorie din interior pentru a evita ploaia.",
                 "en": "Focus on the history museum inside the palace to stay away from the rain.",
-                "fr": "Concentrez-vous sur le musée d'histoire à l'intérieur du palais pour rester loin de la pluie."
+                "fr": "Concentrez‑vous sur le musée d'histoire à l'intérieur du palais pour vous abriter de la pluie."
               }
             },
             {
@@ -714,7 +743,7 @@
                 "hu": "Válasszon egy hangulatos palacsintázót a negyed szűk, ódon utcáiban.",
                 "ro": "Alegeți o clătitărie primitoare pe străzile înguste ale cartierului.",
                 "en": "Pick a cozy crêperie in the narrow streets to warm up and dry off.",
-                "fr": "Choisissez une crêperie chaleureuse dans les ruelles étroites pour vous réchauffer."
+                "fr": "Choisissez une crêperie chaleureuse dans les rues étroites pour vous réchauffer et vous sécher."
               }
             },
             {
@@ -724,7 +753,7 @@
                 "hu": "Csodálja meg az 1843-ban épült, teljesen fedett bevásárlóudvar építészetét.",
                 "ro": "Admirați arhitectura acestei galerii comerciale acoperite, construită în 1843.",
                 "en": "Enjoy the architecture of this 1843 shopping arcade, which is completely covered.",
-                "fr": "Profitez de l'architecture de cette galerie marchande de 1843, entièrement couverte."
+                "fr": "Appréciez l'architecture de cette arcade commerciale de 1843, entièrement couverte."
               }
             },
             {
@@ -734,7 +763,7 @@
                 "hu": "A galéria és a körhinta is fedett, így esőben is teljes értékű élményt nyújt.",
                 "ro": "Galeria și caruselul sunt acoperite, fiind accesibile pe orice vreme.",
                 "en": "The gallery and the carousel are indoors, providing a full experience regardless of rain.",
-                "fr": "La galerie et le carrousel sont en intérieur, offrant une expérience complète malgré la pluie."
+                "fr": "La galerie et le carrousel sont à l'intérieur, offrant une expérience complète quel que soit la pluie."
               }
             },
             {
@@ -744,7 +773,7 @@
                 "hu": "A Hangar à Bananes bárjai ideálisak a nap zárásához, védve az elemektől.",
                 "ro": "Barurile din Hangar à Bananes sunt perfecte pentru a încheia ziua la adăpost.",
                 "en": "The bars in the Hangar à Bananes are ideal for ending the day sheltered from the rain.",
-                "fr": "Les bars du Hangar à Bananes sont idéaux pour terminer la journée à l'abri."
+                "fr": "Les bars du Hangar à Bananes sont idéaux pour finir la journée à l'abri de la pluie."
               }
             }
           ],
@@ -778,11 +807,11 @@
               "Many restaurants in the Bouffay district offer cozy, sheltered seating."
             ],
             "fr": [
-              "Un parapluie solide est essentiel en raison des rafales de vent près de la Loire.",
-              "Le Passage Pommeraye relie la ville haute et basse tout en vous gardant au sec.",
-              "Les musées du Château et des Machines sont d'excellents abris de longue durée.",
-              "Utilisez le tramway pour éviter les longs trajets à pied sous une forte pluie.",
-              "De nombreux restaurants du quartier du Bouffay offrent des places assises confortables et abritées."
+              "Un parapluie solide est essentiel en raison des rafales près de la Loire.",
+              "Le Passage Pommeraye relie la ville haute et la ville basse tout en vous gardant au sec.",
+              "Les musées du Château et des Machines sont d'excellents abris pour de longues durées.",
+              "Utilisez le tramway pour éviter de longues distances à pied sous une forte pluie.",
+              "De nombreux restaurants du quartier Bouffay proposent des places abritées et confortables."
             ]
           }
         },
@@ -792,7 +821,7 @@
             "hu": "Reggel: Frissítő séta a botanikus kertben, majd melegedés a katedrális falai között. Délben: Történelmi hangulat a várban, utána laktató regionális fogások a Bouffay negyedben. Délután: Az ünnepi fényekben úszó Passage Pommeraye és a Gépek szigetének fűtött kiállítóterei. Este: Mivel a nap 17:15 körül nyugszik, élvezze a korai szürkületet a folyóparton egy forró ital társaságában.",
             "ro": "Dimineața: O plimbare revigorantă în Grădina Botanică, apoi încălzire în Catedrală. Prânz: Ambianță istorică la Castel, urmată de bucătărie regională consistentă în Bouffay. După-amiaza: Passage Pommeraye iluminat festiv și atelierele încălzite de la Machines. Seara: Deoarece soarele apune în jur de 17:15, bucurați-vă de amurgul timpuriu pe malul râului cu o băutură caldă.",
             "en": "Morning: A crisp walk through the Botanical Garden, followed by warming up inside the Cathedral. Noon: Medieval history at the Castle and a hearty winter lunch in the Bouffay district. Afternoon: Festive lights in Passage Pommeraye and the indoor magic of the Machines gallery. Evening: With sunset around 17:15, enjoy the early twilight by the river with a hot drink at the Quai des Antilles.",
-            "fr": "Matin : Une promenade tonifiante au Jardin des Plantes, suivie d'un moment de réchauffement dans la cathédrale. Midi : Histoire médiévale au Château et un déjeuner d'hiver copieux au Bouffay. Après-midi : Lumières festives au Passage Pommeraye et magie intérieure de la galerie des Machines. Soir : Avec un coucher de soleil vers 17h15, profitez du crépuscule précoce au bord du fleuve avec une boisson chaude au Quai des Antilles."
+            "fr": "Matin : Une promenade vivifiante dans le Jardin des Plantes, suivie d'un réchauffement à l'intérieur de la Cathédrale. Midi : Histoire médiévale au Château et un déjeuner copieux dans le quartier Bouffay. Après‑midi : Lumières festives au Passage Pommeraye et la magie intérieure de la galerie des Machines. Soir : Le coucher du soleil vers 17:15, profitez du crépuscule précoce au bord de la rivière avec une boisson chaude au Quai des Antilles."
           },
           "stops": [
             {
@@ -802,7 +831,7 @@
                 "hu": "A kaméliák gyakran már tél végén virágoznak, ne hagyja ki látványukat.",
                 "ro": "Cameliile înfloresc adesea spre sfârșitul iernii și sunt un punct de atracție.",
                 "en": "The camellias often bloom in late winter and are a local highlight.",
-                "fr": "Les camélias fleurissent souvent à la fin de l'hiver et sont une fierté locale."
+                "fr": "Les camélias fleurissent souvent en fin d'hiver et constituent un point fort local."
               }
             },
             {
@@ -812,7 +841,7 @@
                 "hu": "Csendes hely, ahol megpihenhet és menedéket találhat a téli hideg elől.",
                 "ro": "Un loc liniștit pentru a scăpa de frigul iernii și a savura tăcerea.",
                 "en": "A peaceful place to escape the winter chill and enjoy the silence.",
-                "fr": "Un lieu paisible pour échapper au froid hivernal et savourer le silence."
+                "fr": "Un endroit paisible pour échapper au froid hivernal et profiter du silence."
               }
             },
             {
@@ -822,7 +851,7 @@
                 "hu": "A várudvar téli díszkivilágítása kora délután már nagyon hangulatos.",
                 "ro": "Vizitați curtea castelului pentru iluminatul de iarnă la sfârșitul după-amiezii.",
                 "en": "Visit the castle courtyard for the winter lighting in the late afternoon.",
-                "fr": "Visitez la cour du château pour les illuminations d'hiver en fin d'après-midi."
+                "fr": "Visitez la cour du château pour l'illumination hivernale en fin d'après‑midi."
               }
             },
             {
@@ -832,7 +861,7 @@
                 "hu": "Kóstolja meg a Muscadet mártással készült halételeket, télen különösen jók.",
                 "ro": "Încercați sosul Muscadet cu preparate din pește, ideal pentru acest sezon.",
                 "en": "Try local fish with Muscadet sauce, a perfect warming winter dish.",
-                "fr": "Goûtez au poisson local sauce Muscadet, un plat d'hiver parfait."
+                "fr": "Essayez un plat de poisson local avec sauce Muscadet, parfait pour se réchauffer en hiver."
               }
             },
             {
@@ -842,7 +871,7 @@
                 "hu": "Az adventi időszakban a karácsonyi díszítés különleges varázst ad a helynek.",
                 "ro": "Decorațiunile de Crăciun fac acest loc deosebit de magic iarna.",
                 "en": "The Christmas decorations make this shopping arcade truly magical in winter.",
-                "fr": "Les décorations de Noël rendent cette galerie marchande vraiment magique en hiver."
+                "fr": "Les décorations de Noël rendent cette galerie commerçante vraiment magique en hiver."
               }
             },
             {
@@ -852,7 +881,7 @@
                 "hu": "Melegedjen fel a galériában, miközben a hatalmas elefántot figyeli.",
                 "ro": "Încălziți-vă în galerie în timp ce urmăriți elefantul uriaș.",
                 "en": "Warm up in the gallery while watching the giant mechanical elephant.",
-                "fr": "Réchauffez-vous dans la galerie tout en observant le géant éléphant mécanique."
+                "fr": "Réchauffez‑vous dans la galerie en regardant le gigantesque éléphant mécanique."
               }
             },
             {
@@ -862,7 +891,7 @@
                 "hu": "A Buren-gyűrűk színes fényei különösen látványosak a hosszú téli éjszakákon.",
                 "ro": "Inelele lui Buren strălucesc intens în nopțile lungi de iarnă.",
                 "en": "The colorful Buren rings shine brightly during the long winter nights.",
-                "fr": "Les anneaux colorés de Buren brillent intensément pendant les longues nuits d'hiver."
+                "fr": "Les colorés anneaux de Buren brillent intensément pendant les longues nuits d'hiver."
               }
             }
           ],
@@ -896,11 +925,11 @@
               "The Christmas market at Place Royale is a must-see during December."
             ],
             "fr": [
-              "Des vêtements chauds et superposés sont essentiels en raison de l'humidité près de la Loire.",
-              "Le soleil se couche tôt (vers 17h15), prévoyez vos photos en extérieur en conséquence.",
-              "Réchauffez-vous avec un Gâteau Nantais dans l'un des cafés accueillants de la ville.",
-              "Les bâtiments publics et les musées sont bien chauffés pour des pauses méridiennes au chaud.",
-              "Le marché de Noël de la Place Royale est un incontournable en décembre."
+              "Des vêtements chauds et superposés sont essentiels en raison de la forte humidité près de la Loire.",
+              "Le coucher du soleil est tôt (vers 17:15), planifiez vos photos extérieures en conséquence.",
+              "Réchauffez‑vous avec un Gâteau Nantais dans l'un des cafés confortables de la ville.",
+              "Les bâtiments publics et les musées sont bien chauffés pour des pauses à midi loin du froid.",
+              "Le marché de Noël sur la Place Royale est un incontournable en décembre."
             ]
           }
         }
@@ -919,7 +948,8 @@
             "de": "Île de Versailles",
             "hu": "Versailles-sziget",
             "ro": "Insula Versailles",
-            "en": "Versailles Island"
+            "en": "Versailles Island",
+            "fr": "Île de Versailles"
           },
           "coords": [
             -1.5542,
@@ -935,7 +965,7 @@
             "hu": "Gyönyörű japánkert.",
             "ro": "Grădină japoneză superbă.",
             "en": "Beautiful Japanese garden.",
-            "fr": "Magnifique jardin japonais."
+            "fr": "Beau jardin japonais."
           }
         },
         {
@@ -943,7 +973,8 @@
             "de": "Musée d'Arts de Nantes",
             "hu": "Nantes-i Művészeti Múzeum",
             "ro": "Muzeul de Artă din Nantes",
-            "en": "Nantes Art Museum"
+            "en": "Nantes Art Museum",
+            "fr": "Musée d'Arts de Nantes"
           },
           "coords": [
             -1.5471,
@@ -959,7 +990,7 @@
             "hu": "Nagyszerű gyűjtemény a klasszikustól a modernig.",
             "ro": "Colecție impresionantă de la clasic la modern.",
             "en": "Great collection from classic to modern art.",
-            "fr": "Grande collection allant de l'art classique à l'art moderne."
+            "fr": "Superbe collection du classique au moderne."
           }
         },
         {
@@ -967,7 +998,8 @@
             "de": "Schloss der Herzöge",
             "hu": "Hercegi kastély",
             "ro": "Castelul Ducilor",
-            "en": "Castle of the Dukes"
+            "en": "Castle of the Dukes",
+            "fr": "Château des Ducs"
           },
           "coords": [
             -1.5492,
@@ -991,7 +1023,8 @@
             "de": "Trentemoult (Dorf)",
             "hu": "Trentemoult (falu)",
             "ro": "Trentemoult (sat)",
-            "en": "Trentemoult (village)"
+            "en": "Trentemoult (village)",
+            "fr": "Trentemoult (village)"
           },
           "coords": [
             -1.5833,
@@ -1007,7 +1040,7 @@
             "hu": "Színes halászházak és parti éttermek.",
             "ro": "Case de pescari colorate și restaurante pe mal.",
             "en": "Colorful fishermen's houses and riverside restaurants.",
-            "fr": "Maisons de pêcheurs colorées et restaurants en bord de Loire."
+            "fr": "Maisons de pêcheurs colorées et restaurants au bord de l'eau."
           }
         },
         {
@@ -1015,7 +1048,8 @@
             "de": "Hangar à Bananes",
             "hu": "Hangar à Bananes",
             "ro": "Hangar à Bananes",
-            "en": "Hangar à Bananes"
+            "en": "Hangar à Bananes",
+            "fr": "Hangar à Bananes"
           },
           "coords": [
             -1.5744,
@@ -1031,7 +1065,7 @@
             "hu": "Régi raktárak, ma bárok és galériák.",
             "ro": "Vechile depozite, acum baruri și galerii.",
             "en": "Old warehouses, now bars and galleries.",
-            "fr": "Anciens entrepôts devenus des bars et des galeries d'art."
+            "fr": "Anciens entrepôts, aujourd'hui bars et galeries."
           }
         },
         {
@@ -1039,7 +1073,8 @@
             "de": "Les Machines de l'île",
             "hu": "A sziget gépei",
             "ro": "Mașinile Insulei",
-            "en": "Machines of the Isle"
+            "en": "Machines of the Isle",
+            "fr": "Les Machines de l'île"
           },
           "coords": [
             -1.5644,
@@ -1055,7 +1090,7 @@
             "hu": "A túra méltó lezárása.",
             "ro": "Finalul perfect al turului.",
             "en": "The perfect end to the tour.",
-            "fr": "La conclusion parfaite de la visite."
+            "fr": "La parfaite conclusion de la visite."
           }
         }
       ],
@@ -1064,7 +1099,7 @@
         "hu": "Indíts lazán a Versailles-szigeten, majd tekerj a Művészeti Múzeumhoz. Ebédre a hidakon át a bájos, színes Trentemoult halászfaluba látogatunk.\n\nA folyóparti ebéd után fedezd fel a Hangar à Bananes modern galériáit, a napot pedig a lenyűgöző Sziget Gépeinél zárd.",
         "ro": "Începeți relaxat pe Insula Versailles, apoi pedalați spre Muzeul de Artă. La prânz, traversați podurile spre fermecătorul sat de pescari Trentemoult.\n\nDupă prânzul pe malul râului, explorați instalațiile de artă modernă de la Hangar à Bananes și încheiați ziua la spectaculoasele Machines de l'île.",
         "en": "Start relaxed on Versailles Island and then cycle to the Art Museum. At lunchtime, head across the bridges to the charming, colorful fishing village of Trentemoult.\n\nAfter lunch by the river, explore the modern art installations at Hangar à Bananes and end the day at the spectacular Machines de l'île.",
-        "fr": "Commencez en douceur sur l'île de Versailles puis pédalez jusqu'au Musée d'Arts. À l'heure du déjeuner, traversez les ponts vers le charmant et coloré village de pêcheurs de Trentemoult.\n\nAprès un déjeuner au bord de l'eau, explorez les installations d'art moderne au Hangar à Bananes et terminez la journée aux spectaculaires Machines de l'île."
+        "fr": "Commencez tranquillement sur l'Île de Versailles puis préférez le vélo jusqu'au Musée d'Arts. À midi, traversez les ponts pour rejoindre le charmant et coloré village de pêcheurs de Trentemoult.\n\nAprès le déjeuner au bord de la rivière, explorez les installations d'art moderne au Hangar à Bananes et terminez la journée aux spectaculaires Machines de l'île."
       },
       "gastro_picks": {
         "de": [
@@ -1194,9 +1229,9 @@
         ],
         "fr": [
           "Utilisez les nombreuses pistes cyclables balisées de la ville.",
-          "Traversez la Loire via le pont Haudaudine.",
-          "Attention aux rails du tramway !",
-          "À Trentemoult, poussez votre vélo à pied pour profiter des ruelles étroites."
+          "Traversez la Loire via le pont 'Pont Haudaudine'.",
+          "Attention aux rails du tram !",
+          "À Trentemoult, poussez votre vélo pour profiter des ruelles étroites à pied."
         ]
       },
       "variants": {
@@ -1205,7 +1240,8 @@
             "de": "Starten Sie entspannt auf der Île de Versailles und radeln Sie dann zum Kunstmuseum. Mittags geht es über die Brücken in das charmante, bunte Fischerdorf Trentemoult.\n\nNach dem Mittagessen am Flussufer erkunden Sie die modernen Kunstinstallationen am Hangar à Bananes und beenden den Tag bei den spektakulären Machines de l'île.",
             "hu": "Indíts lazán a Versailles-szigeten, majd tekerj a Művészeti Múzeumhoz. Ebédre a hidakon át a bájos, színes Trentemoult halászfaluba látogatunk.\n\nA folyóparti ebéd után fedezd fel a Hangar à Bananes modern galériáit, a napot pedig a lenyűgöző Sziget Gépeinél zárd.",
             "ro": "Începeți relaxat pe Insula Versailles, apoi pedalați spre Muzeul de Artă. La prânz, traversați podurile spre fermecătorul sat de pescari Trentemoult.\n\nDupă prânzul pe malul râului, explorați instalațiile de artă modernă de la Hangar à Bananes și încheiați ziua la spectaculoasele Machines de l'île.",
-            "en": "Start relaxed on Versailles Island and then cycle to the Art Museum. At lunchtime, head across the bridges to the charming, colorful fishing village of Trentemoult.\n\nAfter lunch by the river, explore the modern art installations at Hangar à Bananes and end the day at the spectacular Machines de l'île."
+            "en": "Start relaxed on Versailles Island and then cycle to the Art Museum. At lunchtime, head across the bridges to the charming, colorful fishing village of Trentemoult.\n\nAfter lunch by the river, explore the modern art installations at Hangar à Bananes and end the day at the spectacular Machines de l'île.",
+            "fr": "Commencez tranquillement sur l'Île de Versailles puis préférez le vélo jusqu'au Musée d'Arts. À midi, traversez les ponts pour rejoindre le charmant et coloré village de pêcheurs de Trentemoult.\n\nAprès le déjeuner au bord de la rivière, explorez les installations d'art moderne au Hangar à Bananes et terminez la journée aux spectaculaires Machines de l'île."
           },
           "stops": [
             {
@@ -1213,13 +1249,15 @@
                 "de": "Île de Versailles",
                 "hu": "Versailles-sziget",
                 "ro": "Insula Versailles",
-                "en": "Versailles Island"
+                "en": "Versailles Island",
+                "fr": "Île de Versailles"
               },
               "tip_5lang": {
                 "de": "Wunderschöner japanischer Garten.",
                 "hu": "Gyönyörű japánkert.",
                 "ro": "Grădină japoneză superbă.",
-                "en": "Beautiful Japanese garden."
+                "en": "Beautiful Japanese garden.",
+                "fr": "Beau jardin japonais."
               }
             },
             {
@@ -1227,13 +1265,15 @@
                 "de": "Musée d'Arts de Nantes",
                 "hu": "Nantes-i Művészeti Múzeum",
                 "ro": "Muzeul de Artă din Nantes",
-                "en": "Nantes Art Museum"
+                "en": "Nantes Art Museum",
+                "fr": "Musée d'Arts de Nantes"
               },
               "tip_5lang": {
                 "de": "Großartige Sammlung von Klassik bis Moderne.",
                 "hu": "Nagyszerű gyűjtemény a klasszikustól a modernig.",
                 "ro": "Colecție impresionantă de la clasic la modern.",
-                "en": "Great collection from classic to modern art."
+                "en": "Great collection from classic to modern art.",
+                "fr": "Superbe collection du classique au moderne."
               }
             },
             {
@@ -1241,13 +1281,15 @@
                 "de": "Schloss der Herzöge",
                 "hu": "Hercegi kastély",
                 "ro": "Castelul Ducilor",
-                "en": "Castle of the Dukes"
+                "en": "Castle of the Dukes",
+                "fr": "Château des Ducs"
               },
               "tip_5lang": {
                 "de": "Stellen Sie die Räder am Eingang ab.",
                 "hu": "A bringákat a bejáratnál tedd le.",
                 "ro": "Lăsați bicicletele la intrare.",
-                "en": "Park your bikes at the entrance."
+                "en": "Park your bikes at the entrance.",
+                "fr": "Garez vos vélos à l'entrée."
               }
             },
             {
@@ -1255,13 +1297,15 @@
                 "de": "Trentemoult (Dorf)",
                 "hu": "Trentemoult (falu)",
                 "ro": "Trentemoult (sat)",
-                "en": "Trentemoult (village)"
+                "en": "Trentemoult (village)",
+                "fr": "Trentemoult (village)"
               },
               "tip_5lang": {
                 "de": "Bunte Fischerhäuser und Uferrestaurants.",
                 "hu": "Színes halászházak és parti éttermek.",
                 "ro": "Case de pescari colorate și restaurante pe mal.",
-                "en": "Colorful fishermen's houses and riverside restaurants."
+                "en": "Colorful fishermen's houses and riverside restaurants.",
+                "fr": "Maisons de pêcheurs colorées et restaurants au bord de l'eau."
               }
             },
             {
@@ -1269,13 +1313,15 @@
                 "de": "Hangar à Bananes",
                 "hu": "Hangar à Bananes",
                 "ro": "Hangar à Bananes",
-                "en": "Hangar à Bananes"
+                "en": "Hangar à Bananes",
+                "fr": "Hangar à Bananes"
               },
               "tip_5lang": {
                 "de": "Alte Lagerhallen, jetzt Bars und Galerien.",
                 "hu": "Régi raktárak, ma bárok és galériák.",
                 "ro": "Vechile depozite, acum baruri și galerii.",
-                "en": "Old warehouses, now bars and galleries."
+                "en": "Old warehouses, now bars and galleries.",
+                "fr": "Anciens entrepôts, aujourd'hui bars et galeries."
               }
             },
             {
@@ -1283,13 +1329,15 @@
                 "de": "Les Machines de l'île",
                 "hu": "A sziget gépei",
                 "ro": "Mașinile Insulei",
-                "en": "Machines of the Isle"
+                "en": "Machines of the Isle",
+                "fr": "Les Machines de l'île"
               },
               "tip_5lang": {
                 "de": "Der krönende Abschluss der Tour.",
                 "hu": "A túra méltó lezárása.",
                 "ro": "Finalul perfect al turului.",
-                "en": "The perfect end to the tour."
+                "en": "The perfect end to the tour.",
+                "fr": "La parfaite conclusion de la visite."
               }
             }
           ],
@@ -1399,6 +1447,12 @@
               "Cross the Loire via the 'Pont Haudaudine' bridge.",
               "Watch out for the tram tracks!",
               "In Trentemoult, walk your bike to enjoy the narrow alleys."
+            ],
+            "fr": [
+              "Utilisez les nombreux itinéraires cyclables balisés en ville.",
+              "Traversez la Loire via le pont 'Pont Haudaudine'.",
+              "Attention aux rails du tram !",
+              "À Trentemoult, poussez votre vélo pour profiter des ruelles étroites."
             ]
           }
         },
@@ -1408,7 +1462,7 @@
             "hu": "Reggel: Rövid tekerés a Versailles-szigetre, ahol a japánkert misztikus az esőben. A Művészeti Múzeum órákig tartó menedéket nyújt. Délben: Guruljon el a várhoz, és fedezze fel a belső tereket. Délután: A fedett Navibus komppal keljen át Trentemoult-ba. Este: A Hangar à Bananes fedett kerékpártárolókat és száraz bárokat kínál.",
             "ro": "Dimineața: O scurtă plimbare spre Insula Versailles, unde grădina zen pare mistică pe ploaie. Muzeul de Artă oferă apoi adăpost. Prânz: Mergeți cu bicicleta la Castel și încălziți-vă în interior. După-amiaza: Cu feribotul Navibus (acoperit) ajungeți la Trentemoult. Seara: Hangar à Bananes oferă parcare uscată și baruri animate.",
             "en": "Morning: A short ride to Versailles Island, where the Zen garden looks mystical in the drizzle. The Art Museum provides a long, dry break. Noon: Cycle to the Castle and explore the dry interior exhibits. Afternoon: Take the covered Navibus ferry across the river to Trentemoult. Evening: End at Hangar à Bananes, which offers sheltered bike racks and lively bars.",
-            "fr": "Matin : Un court trajet jusqu'à l'île de Versailles, où le jardin zen semble mystique sous la bruine. Le Musée d'Arts offre une longue pause au sec. Midi : Pédalez jusqu'au Château et explorez les expositions intérieures. Après-midi : Prenez le ferry Navibus couvert pour traverser le fleuve vers Trentemoult. Soir : Terminez au Hangar à Bananes, qui propose des parkings vélos abrités et des bars animés."
+            "fr": "Matin : Une courte balade jusqu'à l'Île de Versailles, où le jardin zen paraît mystique sous la bruine. Le Musée d'Art offre une longue pause au sec. Midi : Partez à vélo vers le Château et explorez les expositions intérieures à l'abri. Après-midi : Prenez le ferry couvert Navibus pour traverser la rivière jusqu'à Trentemoult. Soir : Terminez au Hangar à Bananes, qui propose des arceaux vélos abrités et des bars animés."
           },
           "stops": [
             {
@@ -1418,7 +1472,7 @@
                 "hu": "Vigyázzon a fapallókon, mert esőben rendkívül csúszóssá válhatnak.",
                 "ro": "Atenție pe podurile de lemn, pot fi foarte alunecoase când sunt ude.",
                 "en": "Be careful on the wooden walkways, as they can be very slippery when wet.",
-                "fr": "Soyez prudent sur les passerelles en bois, car elles peuvent être très glissantes quand il pleut."
+                "fr": "Faites attention aux passerelles en bois, elles peuvent être très glissantes lorsqu'elles sont mouillées."
               }
             },
             {
@@ -1428,7 +1482,7 @@
                 "hu": "Használja a ruhatárat a vizes esőkabátok és sisakok biztonságos tárolására.",
                 "ro": "Folosiți garderoba pentru a lăsa pelerinele de ploaie și căștile ude.",
                 "en": "Use the cloakroom to store wet rain gear and helmets while you visit.",
-                "fr": "Utilisez le vestiaire pour ranger vos vêtements de pluie mouillés et vos casques pendant votre visite."
+                "fr": "Utilisez le vestiaire pour ranger les vêtements de pluie mouillés et les casques pendant votre visite."
               }
             },
             {
@@ -1438,7 +1492,7 @@
                 "hu": "Fedett kerékpártárolókat a főbejárat közelében találhat.",
                 "ro": "Găsiți suporturi de biciclete acoperite lângă intrarea principală.",
                 "en": "Look for sheltered bike racks located near the main entrance of the castle.",
-                "fr": "Cherchez les racks à vélos abrités situés près de l'entrée principale du château."
+                "fr": "Cherchez des arceaux vélos abrités situés près de l'entrée principale du château."
               }
             },
             {
@@ -1448,7 +1502,7 @@
                 "hu": "A szűk utcák védenek a széltől, de viseljen vízálló lábbelit a sétához.",
                 "ro": "Străzile înguste oferă protecție contra vântului, dar purtați încălțăminte impermeabilă.",
                 "en": "Narrow alleys provide some wind shelter, but wear waterproof shoes for exploring.",
-                "fr": "Les ruelles étroites offrent un certain abri contre le vent, mais portez des chaussures étanches."
+                "fr": "Les ruelles étroites offrent un certain abri contre le vent, mais portez des chaussures imperméables pour explorer."
               }
             },
             {
@@ -1458,7 +1512,7 @@
                 "hu": "Az egész terület hosszan fedett, így ideális célpont esőben is.",
                 "ro": "Întreaga zonă este acoperită pe porțiuni mari, ideală pentru bicicliști pe ploaie.",
                 "en": "The entire area is largely covered, making it ideal for cyclists in rainy weather.",
-                "fr": "Toute la zone est largement couverte, ce qui la rend idéale pour les cyclistes par temps pluvieux."
+                "fr": "Toute la zone est largement couverte, idéale pour les cyclistes par temps de pluie."
               }
             },
             {
@@ -1468,7 +1522,7 @@
                 "hu": "Parkolja le kerékpárját a Carrousel des Mondes Marins védőtetője alatt.",
                 "ro": "Parcați bicicleta sub acoperișul Carrousel des Mondes Marins.",
                 "en": "Park your bike under the shelter of the Carrousel des Mondes Marins.",
-                "fr": "Garez votre vélo sous l'abri du Carrousel des Mondes Marins."
+                "fr": "Garez votre vélo à l'abri du Carrousel des Mondes Marins."
               }
             }
           ],
@@ -1502,11 +1556,11 @@
               "Look for official Vélo'Nantes stations that offer some overhead shelter."
             ],
             "fr": [
-              "Faites extrêmement attention aux rails du tramway – ils sont mortellement glissants lorsqu'ils sont mouillés.",
-              "Portez un équipement de pluie complet, incluant des surchaussures imperméables pour plus de confort.",
+              "Soyez extrêmement vigilants avec les rails du tram – ils deviennent dangereusement glissants sous la pluie.",
+              "Portez un équipement de pluie complet, y compris des surchaussures imperméables pour plus de confort.",
               "Les ferries Navibus acceptent les vélos et offrent une protection totale contre la pluie.",
-              "Commencez à freiner plus tôt que d'habitude, car les jantes mouillées réduisent la puissance de freinage.",
-              "Cherchez les stations officielles Vélo'Nantes qui offrent parfois un abri partiel."
+              "Commencez à freiner plus tôt que d'habitude, car les jantes mouillées réduisent le pouvoir de freinage.",
+              "Recherchez les stations Vélo'Nantes officielles qui offrent un certain abri en hauteur."
             ]
           }
         },
@@ -1516,7 +1570,7 @@
             "hu": "Reggel: Tiszta téli levegő a Versailles-szigeten, majd a Művészeti Múzeum melengető tárlatai. Délben: Rövid tekerés a várhoz és egy kiadós ebéd. Délután: Tekerjen a Loire mentén Trentemoult-ba, amíg tart a világosság. Este: Csodálja meg a Gépek szigetének ünnepi fényeit, mielőtt túl hideg lenne.",
             "ro": "Dimineața: Aer curat de iarnă pe Insula Versailles, urmat de căldura plăcută a Muzeului de Artă. Prânz: O scurtă plimbare spre Castel și un prânz consistent. După-amiaza: Pedalți de-a lungul Loarei spre Trentemoult cât încă e lumină. Seara: Experimentați iluminatul festiv de la Machines de l'Île înainte să se facă prea frig.",
             "en": "Morning: Crisp winter air on Versailles Island, followed by the cozy warmth of the Art Museum. Noon: A quick ride to the Castle and a hearty local lunch. Afternoon: Cycle along the Loire to Trentemoult while the winter sun is still up. Evening: See the festive lights at the Machines de l'Île before the evening frost sets in.",
-            "fr": "Matin : L'air frais de l'hiver sur l'île de Versailles, suivi de la chaleur accueillante du Musée d'Arts. Midi : Un trajet rapide vers le Château et un déjeuner local copieux. Après-midi : Pédalez le long de la Loire vers Trentemoult tant que le soleil d'hiver est encore présent. Soir : Admirez les illuminations festives aux Machines de l'île avant que le givre du soir ne s'installe."
+            "fr": "Matin : Air d'hiver vif sur l'Île de Versailles, suivi de la chaleur douillette du Musée d'Art. Midi : Une courte balade jusqu'au Château et un copieux déjeuner local. Après-midi : Roulez le long de la Loire jusqu'à Trentemoult tant que le soleil d'hiver est encore présent. Soir : Admirez les illuminations aux Machines de l'Île avant que le gel du soir ne s'installe."
           },
           "stops": [
             {
@@ -1526,7 +1580,7 @@
                 "hu": "Élvezze a japánkert téli csendjét a kora reggeli órákban.",
                 "ro": "Bucurați-vă de liniștea hibernală a grădinii japoneze dimineața devreme.",
                 "en": "Enjoy the winter stillness of the Japanese garden in the early morning.",
-                "fr": "Profitez du calme hivernal du jardin japonais tôt le matin."
+                "fr": "Appréciez la quiétude hivernale du jardin japonais tôt le matin."
               }
             },
             {
@@ -1536,7 +1590,7 @@
                 "hu": "Tökéletes hely a felmelegedésre a biciklizés után, miközben remekműveket néz.",
                 "ro": "Perfect pentru a vă încălzi după drum și pentru a admira capodopere.",
                 "en": "A perfect spot to warm up after your ride while admiring artistic masterpieces.",
-                "fr": "Un endroit parfait pour se réchauffer après votre trajet tout en admirant des chefs-d'œuvre artistiques."
+                "fr": "Un endroit parfait pour se réchauffer après votre balade tout en admirant des œuvres d'art."
               }
             },
             {
@@ -1546,7 +1600,7 @@
                 "hu": "Ügyeljen a zúzmarára a vár körüli macskaköves utakon, csúszhat.",
                 "ro": "Atenție la chiciura de pe pavajul din jurul castelului.",
                 "en": "Watch out for frost on the cobblestones around the castle entrance.",
-                "fr": "Attention au givre sur les pavés autour de l'entrée du château."
+                "fr": "Surveillez le givre sur les pavés autour de l'entrée du château."
               }
             },
             {
@@ -1556,7 +1610,7 @@
                 "hu": "Érkezzen 16:30 előtt, hogy még láthassa a falut az utolsó nappali fényben.",
                 "ro": "Ajungeți înainte de 16:30 pentru a vedea satul în ultima lumină a zilei.",
                 "en": "Arrive before 16:30 to see the colorful village in the last daylight.",
-                "fr": "Arrivez avant 16h30 pour voir le village coloré sous les dernières lueurs du jour."
+                "fr": "Arrivez avant 16:30 pour voir le village coloré dans la dernière lumière du jour."
               }
             },
             {
@@ -1576,7 +1630,7 @@
                 "hu": "Az elefánt kivilágítása a téli szürkületben különösen látványos.",
                 "ro": "Iluminatul elefantului este deosebit de frumos în amurgul de iarnă.",
                 "en": "The elephant's lighting is particularly beautiful in the winter twilight.",
-                "fr": "L'éclairage de l'éléphant est particulièrement beau dans le crépuscule hivernal."
+                "fr": "L'éclairage de l'éléphant est particulièrement beau au crépuscule hivernal."
               }
             }
           ],
@@ -1610,11 +1664,11 @@
               "A thermos with hot tea is a great companion for a winter bike ride."
             ],
             "fr": [
-              "Portez des gants coupe-vent – le vent le long de la Loire est perçant en hiver.",
+              "Portez des gants coupe-vent – la sensation de froid le long de la Loire est perçante en hiver.",
               "Attention au verglas sur les ponts et dans les ruelles ombragées.",
-              "Les journées sont courtes ; prévoyez votre itinéraire pour arriver à destination vers 17h30.",
-              "Profitez des ferries Navibus chauffés pour une pause à l'abri du vent froid.",
-              "Un thermos de thé chaud est un excellent compagnon pour une balade à vélo en hiver."
+              "Les jours sont courts ; planifiez votre itinéraire pour atteindre votre destination finale avant 17:30.",
+              "Profitez des Navibus chauffés pour faire une pause face au vent froid.",
+              "Un thermos de thé chaud est un excellent compagnon pour une balade à vélo hivernale."
             ]
           }
         }
@@ -1633,7 +1687,8 @@
             "de": "Machines de l'île",
             "hu": "A sziget gépei",
             "ro": "Mașinile Insulei",
-            "en": "Machines of the Isle"
+            "en": "Machines of the Isle",
+            "fr": "Machines de l'Île"
           },
           "coords": [
             -1.5644,
@@ -1649,7 +1704,7 @@
             "hu": "Parkolóház közvetlenül mellette.",
             "ro": "Parcare 'Les Machines' chiar alături.",
             "en": "Parking garage 'Les Machines' right next to it.",
-            "fr": "Parking 'Les Machines' juste à côté."
+            "fr": "Parking souterrain 'Les Machines' juste à côté."
           }
         },
         {
@@ -1657,7 +1712,8 @@
             "de": "Trentemoult (Mittagessen)",
             "hu": "Trentemoult (Ebéd)",
             "ro": "Trentemoult (Prânz)",
-            "en": "Trentemoult (Lunch)"
+            "en": "Trentemoult (Lunch)",
+            "fr": "Trentemoult (Déjeuner)"
           },
           "coords": [
             -1.5833,
@@ -1681,7 +1737,8 @@
             "de": "Clisson (Mittelalterstadt)",
             "hu": "Clisson (középkori város)",
             "ro": "Clisson (oraș medieval)",
-            "en": "Clisson (medieval town)"
+            "en": "Clisson (medieval town)",
+            "fr": "Clisson (ville médiévale)"
           },
           "coords": [
             -1.2831,
@@ -1697,7 +1754,7 @@
             "hu": "Olaszos hangulatú város Franciaországban.",
             "ro": "Un oraș cu aer italian în Franța.",
             "en": "A town with an Italian flair in France.",
-            "fr": "Une ville aux airs d'Italie en pleine France."
+            "fr": "Une ville à l'allure italienne en France."
           }
         },
         {
@@ -1705,7 +1762,8 @@
             "de": "Muscadet Weinberge",
             "hu": "Muscadet szőlőültetvények",
             "ro": "Podgoriile Muscadet",
-            "en": "Muscadet Vineyards"
+            "en": "Muscadet Vineyards",
+            "fr": "Vignobles du Muscadet"
           },
           "coords": [
             -1.35,
@@ -1721,7 +1779,7 @@
             "hu": "Látogass meg egy borászatot kóstolóra.",
             "ro": "Vizitați o cramă pentru o degustare.",
             "en": "Visit a winery for a tasting session.",
-            "fr": "Visitez un domaine viticole pour une séance de dégustation."
+            "fr": "Visitez un domaine viticole pour une dégustation."
           }
         },
         {
@@ -1729,7 +1787,8 @@
             "de": "Rückkehr nach Nantes",
             "hu": "Visszatérés Nantes-ba",
             "ro": "Întoarcerea în Nantes",
-            "en": "Return to Nantes"
+            "en": "Return to Nantes",
+            "fr": "Retour à Nantes"
           },
           "coords": [
             -1.5536,
@@ -1745,7 +1804,7 @@
             "hu": "Vacsora a városközpontban.",
             "ro": "Cină în centrul orașului.",
             "en": "Dinner in the city center.",
-            "fr": "Dîner dans le centre-ville."
+            "fr": "Dîner au centre-ville."
           }
         }
       ],
@@ -1754,7 +1813,7 @@
         "hu": "Délelőtt Nantes technikai csodáit fedezzük fel, amit ebéd követ a festői Trentemoult-ban. Délután az út a környékbeli, lenyűgöző Clissonba vezet.\n\nClisson toszkán építészetével lep meg. Visszaúton megállunk a híres Muscadet szőlőültetvényeknél, mielőtt a napot Nantes-ban zárnánk.",
         "ro": "Dimineața explorați minunile tehnice din Nantes, urmate de un prânz în pitorescul Trentemoult. După-amiaza, drumul vă duce în împrejurimi, în fascinantul Clisson.\n\nClisson surprinde prin arhitectura sa toscană. La întoarcere, opriți-vă în faimoasele podgorii Muscadet înainte de a încheia ziua relaxat în Nantes.",
         "en": "In the morning, explore the technical wonders of Nantes, followed by lunch in picturesque Trentemoult. In the afternoon, the drive takes you to the fascinating Clisson.\n\nClisson surprises with its Tuscan-style architecture. On the way back, stop at the famous Muscadet vineyards before finishing the day back in Nantes.",
-        "fr": "Le matin, explorez les merveilles techniques de Nantes, suivi d'un déjeuner dans le pittoresque village de Trentemoult. L'après-midi, la route vous mène à la fascinante ville de Clisson.\n\nClisson surprend par son architecture de style toscan. Sur le chemin du retour, arrêtez-vous dans les célèbres vignobles du Muscadet avant de terminer la journée à Nantes."
+        "fr": "Le matin, explorez les merveilles techniques de Nantes, suivi d'un déjeuner dans le pittoresque Trentemoult. L'après-midi, la route vous mène à l'envoûtante Clisson.\n\nClisson surprend par son architecture de style toscan. Au retour, arrêtez-vous aux célèbres vignobles du Muscadet avant de terminer la journée à Nantes."
       },
       "gastro_picks": {
         "de": [
@@ -1883,10 +1942,10 @@
           "Only taste Muscadet if you are not driving!"
         ],
         "fr": [
-          "Évitez les heures de pointe dans le centre-ville.",
-          "Les parkings couverts sont préférables au stationnement dans la rue à Nantes.",
+          "Évitez l'heure de pointe au centre-ville.",
+          "Les parkings souterrains sont préférables au stationnement dans la rue à Nantes.",
           "Le trajet jusqu'à Clisson prend environ 40 minutes.",
-          "Ne dégustez le Muscadet que si vous ne conduisez pas !"
+          "Ne dégustez du Muscadet que si vous ne prenez pas le volant !"
         ]
       },
       "variants": {
@@ -1895,7 +1954,8 @@
             "de": "Vormittags erkunden Sie die technischen Wunder von Nantes, gefolgt von einem Mittagessen im malerischen Trentemoult. Am Nachmittag führt Sie die Fahrt ins Umland in das faszinierende Clisson.\n\nClisson überrascht mit seiner toskanischen Architektur. Auf dem Rückweg halten Sie in den berühmten Muscadet-Weinbergen, bevor Sie den Tag entspannt in Nantes ausklingen lassen.",
             "hu": "Délelőtt Nantes technikai csodáit fedezzük fel, amit ebéd követ a festői Trentemoult-ban. Délután az út a környékbeli, lenyűgöző Clissonba vezet.\n\nClisson toszkán építészetével lep meg. Visszaúton megállunk a híres Muscadet szőlőültetvényeknél, mielőtt a napot Nantes-ban zárnánk.",
             "ro": "Dimineața explorați minunile tehnice din Nantes, urmate de un prânz în pitorescul Trentemoult. După-amiaza, drumul vă duce în împrejurimi, în fascinantul Clisson.\n\nClisson surprinde prin arhitectura sa toscană. La întoarcere, opriți-vă în faimoasele podgorii Muscadet înainte de a încheia ziua relaxat în Nantes.",
-            "en": "In the morning, explore the technical wonders of Nantes, followed by lunch in picturesque Trentemoult. In the afternoon, the drive takes you to the fascinating Clisson.\n\nClisson surprises with its Tuscan-style architecture. On the way back, stop at the famous Muscadet vineyards before finishing the day back in Nantes."
+            "en": "In the morning, explore the technical wonders of Nantes, followed by lunch in picturesque Trentemoult. In the afternoon, the drive takes you to the fascinating Clisson.\n\nClisson surprises with its Tuscan-style architecture. On the way back, stop at the famous Muscadet vineyards before finishing the day back in Nantes.",
+            "fr": "Le matin, explorez les merveilles techniques de Nantes, suivi d'un déjeuner dans le pittoresque Trentemoult. L'après-midi, la route vous mène à l'envoûtante Clisson.\n\nClisson surprend par son architecture de style toscan. Au retour, arrêtez-vous aux célèbres vignobles du Muscadet avant de terminer la journée à Nantes."
           },
           "stops": [
             {
@@ -1903,13 +1963,15 @@
                 "de": "Machines de l'île",
                 "hu": "A sziget gépei",
                 "ro": "Mașinile Insulei",
-                "en": "Machines of the Isle"
+                "en": "Machines of the Isle",
+                "fr": "Machines de l'Île"
               },
               "tip_5lang": {
                 "de": "Parkhaus 'Les Machines' direkt daneben.",
                 "hu": "Parkolóház közvetlenül mellette.",
                 "ro": "Parcare 'Les Machines' chiar alături.",
-                "en": "Parking garage 'Les Machines' right next to it."
+                "en": "Parking garage 'Les Machines' right next to it.",
+                "fr": "Parking souterrain 'Les Machines' juste à côté."
               }
             },
             {
@@ -1917,13 +1979,15 @@
                 "de": "Trentemoult (Mittagessen)",
                 "hu": "Trentemoult (Ebéd)",
                 "ro": "Trentemoult (Prânz)",
-                "en": "Trentemoult (Lunch)"
+                "en": "Trentemoult (Lunch)",
+                "fr": "Trentemoult (Déjeuner)"
               },
               "tip_5lang": {
                 "de": "Parken Sie am Dorfeingang.",
                 "hu": "A falu szélén parkolj.",
                 "ro": "Parcați la intrarea în sat.",
-                "en": "Park at the village entrance."
+                "en": "Park at the village entrance.",
+                "fr": "Garez-vous à l'entrée du village."
               }
             },
             {
@@ -1931,13 +1995,15 @@
                 "de": "Clisson (Mittelalterstadt)",
                 "hu": "Clisson (középkori város)",
                 "ro": "Clisson (oraș medieval)",
-                "en": "Clisson (medieval town)"
+                "en": "Clisson (medieval town)",
+                "fr": "Clisson (ville médiévale)"
               },
               "tip_5lang": {
                 "de": "Eine Stadt mit italienischem Flair in Frankreich.",
                 "hu": "Olaszos hangulatú város Franciaországban.",
                 "ro": "Un oraș cu aer italian în Franța.",
-                "en": "A town with an Italian flair in France."
+                "en": "A town with an Italian flair in France.",
+                "fr": "Une ville à l'allure italienne en France."
               }
             },
             {
@@ -1945,13 +2011,15 @@
                 "de": "Muscadet Weinberge",
                 "hu": "Muscadet szőlőültetvények",
                 "ro": "Podgoriile Muscadet",
-                "en": "Muscadet Vineyards"
+                "en": "Muscadet Vineyards",
+                "fr": "Vignobles du Muscadet"
               },
               "tip_5lang": {
                 "de": "Besuchen Sie ein Weingut für eine Verkostung.",
                 "hu": "Látogass meg egy borászatot kóstolóra.",
                 "ro": "Vizitați o cramă pentru o degustare.",
-                "en": "Visit a winery for a tasting session."
+                "en": "Visit a winery for a tasting session.",
+                "fr": "Visitez un domaine viticole pour une dégustation."
               }
             },
             {
@@ -1959,13 +2027,15 @@
                 "de": "Rückkehr nach Nantes",
                 "hu": "Visszatérés Nantes-ba",
                 "ro": "Întoarcerea în Nantes",
-                "en": "Return to Nantes"
+                "en": "Return to Nantes",
+                "fr": "Retour à Nantes"
               },
               "tip_5lang": {
                 "de": "Abendessen im Stadtzentrum.",
                 "hu": "Vacsora a városközpontban.",
                 "ro": "Cină în centrul orașului.",
-                "en": "Dinner in the city center."
+                "en": "Dinner in the city center.",
+                "fr": "Dîner au centre-ville."
               }
             }
           ],
@@ -2075,6 +2145,12 @@
               "Parking garages are better than street parking in Nantes.",
               "The drive to Clisson takes about 40 minutes.",
               "Only taste Muscadet if you are not driving!"
+            ],
+            "fr": [
+              "Évitez l'heure de pointe au centre-ville.",
+              "Les parkings souterrains sont préférables au stationnement dans la rue à Nantes.",
+              "Le trajet jusqu'à Clisson prend environ 40 minutes.",
+              "Ne dégustez du Muscadet que si vous ne prenez pas le volant !"
             ]
           }
         },
@@ -2084,7 +2160,7 @@
             "hu": "Reggel: Kényelmes érkezés a Gépek szigetéhez, ahol fedett parkolót is találhat. Délben: Autózás Trentemoult-ba egy folyóparti ebédre. Délután: Kirándulás a középkori Clissonba, melynek romjai drámaiak az esőben. Utána borkóstoló a Muscadet vidéken. Este: Visszatérés Nantes-ba az eső áztatta tájon keresztül.",
             "ro": "Dimineața: Sosire confortabilă la Machines de l'Île, unde puteți parca la adăpost. Prânz: Drum spre Trentemoult pentru un prânz pe malul râului. După-amiaza: O excursie în Clisson medieval, ale cărui ruine par dramatice pe ploaie. Apoi o degustare de vin în zona Muscadet. Seara: Revenire în Nantes prin peisajul ploios.",
             "en": "Morning: Easy drive to the Machines de l'Île with nearby sheltered parking. Noon: Drive to Trentemoult for a scenic lunch by the river. Afternoon: A trip to the medieval town of Clisson, where the ruins look dramatic in the rain. Follow this with a Muscadet wine tasting. Evening: A comfortable return drive to Nantes through the rainy countryside.",
-            "fr": "Matin : Trajet facile vers les Machines de l'île avec parking abrité à proximité. Midi : Route vers Trentemoult pour un déjeuner panoramique au bord du fleuve. Après-midi : Excursion dans la cité médiévale de Clisson, dont les ruines sont spectaculaires sous la pluie. Poursuivez par une dégustation de Muscadet. Soir : Retour confortable en voiture vers Nantes à travers la campagne pluvieuse."
+            "fr": "Matin : Trajet facile jusqu'aux Machines de l'Île avec parking abrité à proximité. Midi : Conduisez jusqu'à Trentemoult pour un déjeuner pittoresque au bord de la rivière. Après-midi : Excursion dans la ville médiévale de Clisson, où les ruines sont dramatiques sous la pluie. Poursuivez par une dégustation de Muscadet. Soir : Retour confortable vers Nantes à travers la campagne pluvieuse."
           },
           "stops": [
             {
@@ -2094,7 +2170,7 @@
                 "hu": "Használja a 'Les Machines' parkolóházat, így száraz lábbal érheti el a gépeket.",
                 "ro": "Folosiți parcarea etajată 'Les Machines' pentru a ieși direct la adăpost.",
                 "en": "Use the 'Les Machines' parking garage to exit directly undercover.",
-                "fr": "Utilisez le parking 'Les Machines' pour sortir directement à l'abri."
+                "fr": "Utilisez le parking 'Les Machines' pour sortir directement à couvert."
               }
             },
             {
@@ -2104,7 +2180,7 @@
                 "hu": "A falu szélén van parkoló; az éttermek rövid sétával elérhetőek.",
                 "ro": "Există parcări la intrarea în sat; drumul spre restaurante este scurt.",
                 "en": "Parking is available at the village entrance; the walk to restaurants is short.",
-                "fr": "Des parkings sont disponibles à l'entrée du village ; la marche vers les restaurants est courte."
+                "fr": "Le stationnement est disponible à l'entrée du village ; la marche jusqu'aux restaurants est courte."
               }
             },
             {
@@ -2114,7 +2190,7 @@
                 "hu": "Keresse fel a 15. századi vásárcsarnokot, amely tökéletes menedék az esőben.",
                 "ro": "Vizitați piața acoperită din sec. XV – oferă protecție perfectă.",
                 "en": "Visit the 15th-century covered market hall for perfect shelter from rain.",
-                "fr": "Visitez les halles couvertes du XVe siècle pour un abri parfait contre la pluie."
+                "fr": "Visitez la halle couverte du XVe siècle pour un abri parfait contre la pluie."
               }
             },
             {
@@ -2124,7 +2200,7 @@
                 "hu": "A borospincék (caves) ideális helyszínek az eső elől való menekülésre.",
                 "ro": "Cramele (caves) sunt locul ideal pentru a scăpa de ploaie.",
                 "en": "Wine cellars (caves) are the perfect indoor environment to escape the rain.",
-                "fr": "Les caves viticoles sont l'environnement intérieur idéal pour échapper à la pluie."
+                "fr": "Les caves à vin sont l'environnement intérieur idéal pour échapper à la pluie."
               }
             },
             {
@@ -2134,7 +2210,7 @@
                 "hu": "Vigyázzon a vízátfolyásokra a Nantes környéki országutakon.",
                 "ro": "Atenție la acvaplanare pe drumurile județene din jurul orașului.",
                 "en": "Be cautious of aquaplaning on the country roads around Nantes.",
-                "fr": "Attention à l'aquaplaning sur les routes de campagne autour de Nantes."
+                "fr": "Soyez prudent face au risque d'aquaplaning sur les routes de campagne autour de Nantes."
               }
             }
           ],
@@ -2168,11 +2244,11 @@
               "City center parking garages (Cité des Congrès, Feydeau) offer dry access."
             ],
             "fr": [
-              "La circulation à Nantes peut devenir très dense en cas de pluie.",
-              "Pensez à utiliser les parkings P+R le long des lignes de tramway lors de fortes averses.",
-              "Soyez attentif à la visibilité réduite causée par les projections d'eau sur les voies rapides.",
-              "Gardez un parapluie à portée de main dans la voiture pour le trajet depuis le parking.",
-              "Les parkings du centre-ville (Cité des Congrès, Feydeau) offrent un accès au sec."
+              "La circulation à Nantes peut fortement se congestionar par temps de pluie.",
+              "Envisagez d'utiliser les P+R le long des lignes de tram lors de fortes averses.",
+              "Prenez en compte la visibilité réduite causée par les projections d'eau sur les routes rapides.",
+              "Gardez un parapluie dans la voiture pour la marche depuis le parking.",
+              "Les parkings souterrains du centre-ville (Cité des Congrès, Feydeau) offrent un accès au sec."
             ]
           }
         },
@@ -2182,7 +2258,7 @@
             "hu": "Reggel: Látogatás a Gépek szigetén, nyári sorban állás nélkül. Délben: Autózás Trentemoult-ba egy hangulatos, kandalló melletti ebédre. Délután: Fedezze fel Clissont a téli fényekben, majd látogasson el egy borászathoz Muscadet kóstolóra. Este: Visszautazás Nantes-ba, pont a kék órára.",
             "ro": "Dimineața: Vizită la Machines de l'Île fără cozile de vară. Prânz: Drum spre Trentemoult pentru un prânz cald lângă șemineu. După-amiaza: Descoperiți Clisson în lumina iernii și vizitați o vinărie pentru degustare. Seara: Revenire în Nantes la timp pentru ora albastră.",
             "en": "Morning: Visit the Machines de l'Île without the long summer queues. Noon: Drive to Trentemoult for a cozy lunch, perhaps near a fireplace. Afternoon: Discover Clisson in the soft winter light and stop at a winery for a Muscadet tasting. Evening: Drive back to Nantes in time to see the city lights during twilight.",
-            "fr": "Matin : Visitez les Machines de l'île sans les longues files d'attente de l'été. Midi : Route vers Trentemoult pour un déjeuner chaleureux, peut-être près d'une cheminée. Après-midi : Découvrez Clisson sous la douce lumière hivernale et arrêtez-vous dans un domaine pour une dégustation de Muscadet. Soir : Retour vers Nantes à temps pour voir les lumières de la ville s'allumer au crépuscule."
+            "fr": "Matin : Visitez les Machines de l'Île sans les longues queues estivales. Midi : Conduisez jusqu'à Trentemoult pour un déjeuner au coin du feu. Après-midi : Découvrez Clisson sous la douce lumière hivernale et arrêtez-vous dans un domaine pour une dégustation de Muscadet. Soir : Retournez à Nantes pour admirer les lumières de la ville au crépuscule."
           },
           "stops": [
             {
@@ -2192,7 +2268,7 @@
                 "hu": "Télen sokkal nyugodtabb a környék, ideális tömegmentes fotózáshoz.",
                 "ro": "Iarna este mult mai liniște aici, ideal pentru poze fără mulțimi.",
                 "en": "It is much quieter in winter, perfect for taking photos without crowds.",
-                "fr": "C'est beaucoup plus calme en hiver, parfait pour prendre des photos sans la foule."
+                "fr": "Il est bien plus calme en hiver, idéal pour prendre des photos sans foule."
               }
             },
             {
@@ -2202,7 +2278,7 @@
                 "hu": "Sok étterem rendelkezik barátságos, fűtött belső térrel télen.",
                 "ro": "Multe restaurante au interioare încălzite și primitoare iarna.",
                 "en": "Many restaurants offer cozy, heated indoor seating during winter months.",
-                "fr": "De nombreux restaurants proposent des salles chauffées et confortables en hiver."
+                "fr": "De nombreux restaurants proposent des salles intérieures chauffées et confortables en hiver."
               }
             },
             {
@@ -2212,7 +2288,7 @@
                 "hu": "A várromok a téli ködben különösen misztikus látványt nyújtanak.",
                 "ro": "Ruinele castelului par deosebit de mistice în ceața de iarnă.",
                 "en": "The castle ruins look especially mystical in the winter fog.",
-                "fr": "Les ruines du château semblent particulièrement mystiques dans le brouillard hivernal."
+                "fr": "Les ruines du château paraissent particulièrement mystérieuses dans le brouillard hivernal."
               }
             },
             {
@@ -2232,7 +2308,7 @@
                 "hu": "Élvezze Nantes kivilágított látképét, ahogy visszaérkezik a városba.",
                 "ro": "Bucurați-vă de silueta iluminată a orașului Nantes la întoarcere.",
                 "en": "Enjoy the illuminated skyline of Nantes as you drive back into the city.",
-                "fr": "Profitez de la silhouette illuminée de Nantes lors de votre retour dans la ville."
+                "fr": "Appréciez la silhouette illuminée de Nantes en revenant en voiture vers la ville."
               }
             }
           ],
@@ -2267,10 +2343,10 @@
             ],
             "fr": [
               "Le givre peut rendre les routes autour de Nantes glissantes pendant les nuits d'hiver.",
-              "Le brouillard matinal le long de la Loire peut réduire considérablement la visibilité.",
-              "Planifiez vos visites pour voir Clisson avant l'obscurité précoce de l'hiver.",
-              "Un grattoir et de l'antigel sont conseillés pour la conduite hivernale dans l'ouest de la France.",
-              "L'utilisation de parkings couverts permet d'éviter le givre matinal sur votre véhicule."
+              "Le brouillard matinal le long de la Loire peut réduire fortement la visibilité de conduite.",
+              "Planifiez vos visites pour voir Clisson avant la tombée précoce de la nuit hivernale.",
+              "Un grattoir à glace et de l'antigel sont recommandés pour la conduite hivernale en Ouest de la France.",
+              "Utiliser des parkings souterrains aide à protéger votre voiture du givre matinal."
             ]
           }
         }
@@ -2289,7 +2365,8 @@
             "de": "Gare de Nantes / Jardin des Plantes",
             "hu": "Nantes vasútállomás / Fűvészkert",
             "ro": "Gara Nantes / Grădina Plantelor",
-            "en": "Nantes Station / Botanical Garden"
+            "en": "Nantes Station / Botanical Garden",
+            "fr": "Gare de Nantes / Jardin Botanique"
           },
           "coords": [
             -1.5428,
@@ -2313,7 +2390,8 @@
             "de": "Lieu Unique (LU-Turm)",
             "hu": "Lieu Unique (LU torony)",
             "ro": "Lieu Unique (Turnul LU)",
-            "en": "Lieu Unique (LU Tower)"
+            "en": "Lieu Unique (LU Tower)",
+            "fr": "Lieu Unique (Tour LU)"
           },
           "coords": [
             -1.5461,
@@ -2329,7 +2407,7 @@
             "hu": "A régi kekszgyár ma kulturális központ.",
             "ro": "Vechea fabrică de biscuiți este acum centru cultural.",
             "en": "The old biscuit factory is now a cultural center.",
-            "fr": "L'ancienne biscuiterie est devenue un centre culturel."
+            "fr": "La vieille biscuiterie est aujourd'hui un centre culturel."
           }
         },
         {
@@ -2337,7 +2415,8 @@
             "de": "Bouffay (Mittagessen)",
             "hu": "Bouffay (Ebéd)",
             "ro": "Bouffay (Prânz)",
-            "en": "Bouffay (Lunch)"
+            "en": "Bouffay (Lunch)",
+            "fr": "Bouffay (Déjeuner)"
           },
           "coords": [
             -1.5535,
@@ -2353,7 +2432,7 @@
             "hu": "1-es villamos, 'Bouffay' megálló.",
             "ro": "Tramvaiul linia 1, stația 'Bouffay'.",
             "en": "Tram line 1, stop 'Bouffay'.",
-            "fr": "Ligne 1 du tram, arrêt 'Bouffay'."
+            "fr": "Tram ligne 1, arrêt « Bouffay »."
           }
         },
         {
@@ -2361,7 +2440,8 @@
             "de": "Chantiers Navals / Machines de l'île",
             "hu": "Hajógyár / A sziget gépei",
             "ro": "Șantierele Navale / Mașinile Insulei",
-            "en": "Shipyards / Machines of the Isle"
+            "en": "Shipyards / Machines of the Isle",
+            "fr": "Chantiers navals / Machines de l'Île"
           },
           "coords": [
             -1.5644,
@@ -2377,7 +2457,7 @@
             "hu": "1-es villamos 'Chantiers Navals' megállóig.",
             "ro": "Tramvaiul linia 1 până la 'Chantiers Navale'.",
             "en": "Tram line 1 to 'Chantiers Navals'.",
-            "fr": "Ligne 1 du tram vers 'Chantiers Navals'."
+            "fr": "Tram ligne 1 en direction de « Chantiers Navals »."
           }
         },
         {
@@ -2385,7 +2465,8 @@
             "de": "Navibus nach Trentemoult",
             "hu": "Navibus Trentemoult-ba",
             "ro": "Navibus spre Trentemoult",
-            "en": "Navibus to Trentemoult"
+            "en": "Navibus to Trentemoult",
+            "fr": "Navibus pour Trentemoult"
           },
           "coords": [
             -1.5833,
@@ -2401,7 +2482,7 @@
             "hu": "A komp része a tömegközlekedési bérletnek.",
             "ro": "Feribotul este inclus în biletul de transport public.",
             "en": "The ferry is included in the transit ticket.",
-            "fr": "Le ferry est inclus dans le ticket de transport."
+            "fr": "La traversée est incluse dans le titre de transport."
           }
         },
         {
@@ -2409,7 +2490,8 @@
             "de": "Rückfahrt ins Zentrum",
             "hu": "Visszautazás a központba",
             "ro": "Întoarcerea în centru",
-            "en": "Return to center"
+            "en": "Return to center",
+            "fr": "Retour au centre"
           },
           "coords": [
             -1.5536,
@@ -2425,7 +2507,7 @@
             "hu": "Navibus és villamos használata.",
             "ro": "Folosiți Navibus și tramvaiul.",
             "en": "Use Navibus and tram.",
-            "fr": "Combinez le Navibus et le tramway."
+            "fr": "Utilisez le Navibus et le tram."
           }
         }
       ],
@@ -2434,7 +2516,7 @@
         "hu": "Nantes kiváló villamoshálózata és a Navibus kompok révén autó nélkül is tökéletes. Kezdj az állomásnál, nézd meg a híres LU gyárat.\n\nAz óvárosi ebéd után a villamos egyenesen a mechanikus csodákhoz repít. A csúcspont a hajós átkelés Trentemoult halászfalujába.",
         "ro": "Datorită rețelei excelente de tramvaie și a feriboturilor Navibus, Nantes se vizitează perfect fără mașină. Începeți la gară și vizitați faimoasa fabrică LU.\n\nDupă prânzul în orașul vechi, tramvaiul vă duce direct la minunile mecanice. Momentul culminant este traversarea cu barca spre satul de pescari Trentemoult.",
         "en": "Thanks to Nantes' excellent tram network and Navibus ferries, it's perfect to explore without a car. Start at the station and visit the famous LU factory.\n\nAfter lunch in the old town, the tram takes you straight to the mechanical wonders. The highlight is the boat crossing to the fishing village of Trentemoult.",
-        "fr": "Grâce à l'excellent réseau de tramway et aux ferries Navibus, Nantes est parfaite à explorer sans voiture. Commencez à la gare et visitez la célèbre usine LU.\n\nAprès un déjeuner dans la vieille ville, le tram vous emmène directement aux merveilles mécaniques. Le point fort est la traversée en bateau vers le village de pêcheurs de Trentemoult."
+        "fr": "Grâce au réseau excellent de trams de Nantes et aux Navibus, c'est parfait pour visiter sans voiture. Commencez à la gare et visitez la célèbre usine LU.\n\nAprès le déjeuner dans la vieille ville, le tram vous mène directement aux merveilles mécaniques. Le clou est la traversée en bateau jusqu'au village de pêcheurs de Trentemoult."
       },
       "gastro_picks": {
         "de": [
@@ -2563,9 +2645,9 @@
           "Public transit is often free on weekends."
         ],
         "fr": [
-          "Achetez le 'Pass Nantes' pour des trajets illimités et des entrées gratuites.",
-          "Les trams circulent très fréquemment.",
-          "L'embarcadère du Navibus se trouve au Quai de la Fosse.",
+          "Achetez le « Pass Nantes » pour des trajets illimités et des entrées gratuites.",
+          "Les trams passent très fréquemment.",
+          "La station Navibus se trouve au Quai de la Fosse.",
           "Les transports en commun sont souvent gratuits le week-end."
         ]
       },
@@ -2575,7 +2657,8 @@
             "de": "Dank des exzellenten Straßenbahnnetzes und der Navibus-Fähren lässt sich Nantes perfekt ohne Auto erkunden. Starten Sie am Bahnhof und besuchen Sie die berühmte LU-Fabrik.\n\nNach dem Mittagessen in der Altstadt bringt Sie die Bahn direkt zu den mechanischen Wundern. Der Höhepunkt ist die Überfahrt mit dem Schiff in das Fischerdorf Trentemoult.",
             "hu": "Nantes kiváló villamoshálózata és a Navibus kompok révén autó nélkül is tökéletes. Kezdj az állomásnál, nézd meg a híres LU gyárat.\n\nAz óvárosi ebéd után a villamos egyenesen a mechanikus csodákhoz repít. A csúcspont a hajós átkelés Trentemoult halászfalujába.",
             "ro": "Datorită rețelei excelente de tramvaie și a feriboturilor Navibus, Nantes se vizitează perfect fără mașină. Începeți la gară și vizitați faimoasa fabrică LU.\n\nDupă prânzul în orașul vechi, tramvaiul vă duce direct la minunile mecanice. Momentul culminant este traversarea cu barca spre satul de pescari Trentemoult.",
-            "en": "Thanks to Nantes' excellent tram network and Navibus ferries, it's perfect to explore without a car. Start at the station and visit the famous LU factory.\n\nAfter lunch in the old town, the tram takes you straight to the mechanical wonders. The highlight is the boat crossing to the fishing village of Trentemoult."
+            "en": "Thanks to Nantes' excellent tram network and Navibus ferries, it's perfect to explore without a car. Start at the station and visit the famous LU factory.\n\nAfter lunch in the old town, the tram takes you straight to the mechanical wonders. The highlight is the boat crossing to the fishing village of Trentemoult.",
+            "fr": "Grâce au réseau excellent de trams de Nantes et aux Navibus, c'est parfait pour visiter sans voiture. Commencez à la gare et visitez la célèbre usine LU.\n\nAprès le déjeuner dans la vieille ville, le tram vous mène directement aux merveilles mécaniques. Le clou est la traversée en bateau jusqu'au village de pêcheurs de Trentemoult."
           },
           "stops": [
             {
@@ -2583,13 +2666,15 @@
                 "de": "Gare de Nantes / Jardin des Plantes",
                 "hu": "Nantes vasútállomás / Fűvészkert",
                 "ro": "Gara Nantes / Grădina Plantelor",
-                "en": "Nantes Station / Botanical Garden"
+                "en": "Nantes Station / Botanical Garden",
+                "fr": "Gare de Nantes / Jardin botanique"
               },
               "tip_5lang": {
                 "de": "Direkt gegenüber dem Nordausgang des Bahnhofs.",
                 "hu": "Közvetlenül az állomás északi kijáratával szemben.",
                 "ro": "Direct vizavi de ieșirea de nord a gării.",
-                "en": "Directly opposite the north exit of the station."
+                "en": "Directly opposite the north exit of the station.",
+                "fr": "Directement en face de la sortie nord de la gare."
               }
             },
             {
@@ -2597,13 +2682,15 @@
                 "de": "Lieu Unique (LU-Turm)",
                 "hu": "Lieu Unique (LU torony)",
                 "ro": "Lieu Unique (Turnul LU)",
-                "en": "Lieu Unique (LU Tower)"
+                "en": "Lieu Unique (LU Tower)",
+                "fr": "Lieu Unique (Tour LU)"
               },
               "tip_5lang": {
                 "de": "Die alte Keksfabrik ist jetzt ein Kulturzentrum.",
                 "hu": "A régi kekszgyár ma kulturális központ.",
                 "ro": "Vechea fabrică de biscuiți este acum centru cultural.",
-                "en": "The old biscuit factory is now a cultural center."
+                "en": "The old biscuit factory is now a cultural center.",
+                "fr": "La vieille biscuiterie est aujourd'hui un centre culturel."
               }
             },
             {
@@ -2611,13 +2698,15 @@
                 "de": "Bouffay (Mittagessen)",
                 "hu": "Bouffay (Ebéd)",
                 "ro": "Bouffay (Prânz)",
-                "en": "Bouffay (Lunch)"
+                "en": "Bouffay (Lunch)",
+                "fr": "Bouffay (Déjeuner)"
               },
               "tip_5lang": {
                 "de": "Straßenbahnlinie 1, Haltestelle 'Bouffay'.",
                 "hu": "1-es villamos, 'Bouffay' megálló.",
                 "ro": "Tramvaiul linia 1, stația 'Bouffay'.",
-                "en": "Tram line 1, stop 'Bouffay'."
+                "en": "Tram line 1, stop 'Bouffay'.",
+                "fr": "Tram ligne 1, arrêt « Bouffay »."
               }
             },
             {
@@ -2625,13 +2714,15 @@
                 "de": "Chantiers Navals / Machines de l'île",
                 "hu": "Hajógyár / A sziget gépei",
                 "ro": "Șantierele Navale / Mașinile Insulei",
-                "en": "Shipyards / Machines of the Isle"
+                "en": "Shipyards / Machines of the Isle",
+                "fr": "Chantiers navals / Machines de l'Île"
               },
               "tip_5lang": {
                 "de": "Straßenbahnlinie 1 bis 'Chantiers Navals'.",
                 "hu": "1-es villamos 'Chantiers Navals' megállóig.",
                 "ro": "Tramvaiul linia 1 până la 'Chantiers Navale'.",
-                "en": "Tram line 1 to 'Chantiers Navals'."
+                "en": "Tram line 1 to 'Chantiers Navals'.",
+                "fr": "Tram ligne 1 en direction de « Chantiers Navals »."
               }
             },
             {
@@ -2639,13 +2730,15 @@
                 "de": "Navibus nach Trentemoult",
                 "hu": "Navibus Trentemoult-ba",
                 "ro": "Navibus spre Trentemoult",
-                "en": "Navibus to Trentemoult"
+                "en": "Navibus to Trentemoult",
+                "fr": "Navibus pour Trentemoult"
               },
               "tip_5lang": {
                 "de": "Die Fähre ist im Nahverkehrsticket enthalten.",
                 "hu": "A komp része a tömegközlekedési bérletnek.",
                 "ro": "Feribotul este inclus în biletul de transport public.",
-                "en": "The ferry is included in the transit ticket."
+                "en": "The ferry is included in the transit ticket.",
+                "fr": "La traversée est incluse dans le titre de transport."
               }
             },
             {
@@ -2653,13 +2746,15 @@
                 "de": "Rückfahrt ins Zentrum",
                 "hu": "Visszautazás a központba",
                 "ro": "Întoarcerea în centru",
-                "en": "Return to center"
+                "en": "Return to center",
+                "fr": "Retour au centre"
               },
               "tip_5lang": {
                 "de": "Navibus und Tram nutzen.",
                 "hu": "Navibus és villamos használata.",
                 "ro": "Folosiți Navibus și tramvaiul.",
-                "en": "Use Navibus and tram."
+                "en": "Use Navibus and tram.",
+                "fr": "Utilisez le Navibus et le tram."
               }
             }
           ],
@@ -2769,6 +2864,12 @@
               "Trams run very frequently.",
               "The Navibus dock is at Quai de la Fosse.",
               "Public transit is often free on weekends."
+            ],
+            "fr": [
+              "Achetez le « Pass Nantes » pour des trajets illimités et des entrées gratuites.",
+              "Les trams passent très fréquemment.",
+              "La station Navibus se trouve au Quai de la Fosse.",
+              "Les transports en commun sont souvent gratuits le week-end."
             ]
           }
         },
@@ -2778,7 +2879,7 @@
             "hu": "Reggel: Villamossal a Botanikus kerthez, majd látogatás a Lieu Unique fedett tereiben. Délben: Rövid utazás a Bouffay negyedbe ebédelni. Délután: Az 1-es villamos szárazon viszi a Gépek szigetéhez. Ezután a fedett Navibus komppal Trentemoult-ba. Este: Visszatérés a központba villamossal, ami esőben a legkényelmesebb.",
             "ro": "Dimineața: Cu tramvaiul la Grădina Botanică, apoi vizită protejată la Lieu Unique. Prânz: O scurtă călătorie spre cartierul Bouffay pentru masă. După-amiaza: Tramvaiul linia 1 vă duce la Machines de l'Île. Apoi feribotul Navibus (acoperit) spre Trentemoult. Seara: Revenire în centru cu tramvaiul, ideal pe ploaie.",
             "en": "Morning: Take the tram to the Botanical Garden, then enjoy the sheltered spaces of Lieu Unique. Noon: A quick transit ride to the Bouffay district for lunch. Afternoon: Tram Line 1 takes you dry to the Machines de l'Île. Follow this with the covered Navibus ferry to Trentemoult. Evening: Return to the center by tram, the best way to stay dry in Nantes.",
-            "fr": "Matin : Prenez le tram jusqu'au Jardin des Plantes, puis profitez des espaces abrités du Lieu Unique. Midi : Un court trajet en transport vers le quartier du Bouffay pour le déjeuner. Après-midi : La ligne 1 du tram vous emmène au sec jusqu'aux Machines de l'île. Poursuivez avec le ferry Navibus couvert vers Trentemoult. Soir : Retour au centre en tram, le meilleur moyen de rester au sec à Nantes."
+            "fr": "Matin : Prenez le tram pour le Jardin botanique, puis profitez des espaces couverts du Lieu Unique. Midi : court trajet en transport vers le quartier Bouffay pour le déjeuner. Après‑midi : la ligne 1 du tram vous mène à l'abri jusqu'aux Machines de l'Île. Enchaînez par le Navibus couvert pour Trentemoult. Soir : retour au centre en tram, la meilleure façon de rester au sec à Nantes."
           },
           "stops": [
             {
@@ -2788,7 +2889,7 @@
                 "hu": "Az állomás 'Nord' (északi) kijárata közvetlenül a kert bejáratához vezet.",
                 "ro": "Ieșirea 'Nord' a gării vă duce direct la intrarea în grădină.",
                 "en": "The 'Nord' exit of the train station leads directly to the garden entrance.",
-                "fr": "La sortie 'Nord' de la gare mène directement à l'entrée du jardin."
+                "fr": "La sortie « Nord » de la gare mène directement à l'entrée du jardin."
               }
             },
             {
@@ -2798,7 +2899,7 @@
                 "hu": "Nagyszerű hely kávézóval, könyvesbolttal és fedett kiállításokkal.",
                 "ro": "Un loc grozav cu cafenea, librărie și expoziții, complet la adăpost.",
                 "en": "A great multi-purpose space with a cafe and bookstore, all indoors.",
-                "fr": "Un grand espace polyvalent avec café et librairie, tout en intérieur."
+                "fr": "Un grand espace polyvalent avec un café et une librairie, entièrement couvert."
               }
             },
             {
@@ -2808,7 +2909,7 @@
                 "hu": "A 'Bouffay' villamosmegálló a negyed szívében van, alig kell gyalogolni.",
                 "ro": "Stația de tramvai 'Bouffay' este în centrul acțiunii, minim de mers pe jos.",
                 "en": "The 'Bouffay' tram stop is right in the center, minimizing walking in rain.",
-                "fr": "L'arrêt de tram 'Bouffay' est en plein centre, limitant la marche sous la pluie."
+                "fr": "L'arrêt de tram « Bouffay » est en plein centre, minimisant la marche sous la pluie."
               }
             },
             {
@@ -2818,7 +2919,7 @@
                 "hu": "A 'Chantiers Navals' megálló csak pár lépésre van a fedett csarnoktól.",
                 "ro": "Stația 'Chantiers Navals' este la doar câțiva pași de hală.",
                 "en": "The 'Chantiers Navals' stop is just a few steps from the covered gallery.",
-                "fr": "L'arrêt 'Chantiers Navals' est à quelques pas seulement de la galerie couverte."
+                "fr": "L'arrêt « Chantiers Navals » se trouve à quelques pas de la galerie couverte."
               }
             },
             {
@@ -2828,7 +2929,7 @@
                 "hu": "A komp zárt utastere védett, és szép kilátást nyújt az eső áztatta folyóra.",
                 "ro": "Feribotul este închis și oferă o vedere frumoasă asupra Loarei pe ploaie.",
                 "en": "The ferry is enclosed, providing shelter and great views of the rainy river.",
-                "fr": "Le ferry est fermé, offrant un abri et de superbes vues sur le fleuve sous la pluie."
+                "fr": "Le ferry est fermé, offrant abri et belles vues sur la Loire pluvieuse."
               }
             },
             {
@@ -2838,7 +2939,7 @@
                 "hu": "Használja a 'Naolib' appot, hogy ne kelljen sokat várnia az esőben a megállóban.",
                 "ro": "Folosiți aplicația 'Naolib' pentru a evita așteptarea în ploaie în stație.",
                 "en": "Use the 'Naolib' app to check real-time arrivals and avoid waiting in the rain.",
-                "fr": "Utilisez l'application 'Naolib' pour vérifier les arrivées en temps réel et éviter d'attendre sous la pluie."
+                "fr": "Utilisez l'application « Naolib » pour vérifier les arrivées en temps réel et éviter d'attendre sous la pluie."
               }
             }
           ],
@@ -2872,10 +2973,10 @@
               "Station underpasses are great for staying dry while transferring lines."
             ],
             "fr": [
-              "Les tramways nantais circulent très fréquemment, ce qui est idéal par mauvais temps.",
-              "Achetez votre billet par paiement sans contact dans le tram ou via l'application.",
-              "La plupart des arrêts de la ligne 1 offrent de bons abris contre la pluie.",
-              "Le ferry Navibus N1 est un moyen panoramique et sec de traverser la Loire.",
+              "Les trams de Nantes circulent très fréquemment, parfaits par mauvais temps.",
+              "Achetez votre ticket par paiement sans contact dans le tram ou via l'application.",
+              "La plupart des arrêts de la ligne 1 offrent un bon abri contre la pluie.",
+              "Le Navibus N1 est un moyen sec et panoramique de traverser la Loire.",
               "Les passages souterrains de la gare sont parfaits pour rester au sec lors des correspondances."
             ]
           }
@@ -2886,7 +2987,7 @@
             "hu": "Reggel: Fűtött villamossal a Botanikus kerthez, majd melegedés a Lieu Unique falai között. Délben: Utazás a Bouffay negyedbe egy téli menüre. Délután: Látogatás a Gépek szigetén, amely csodás a téli fényekben. Ezután hajózás Trentemoult-ba. Este: Visszatérés a városba, miközben Nantes fényei csillognak a téli hidegben.",
             "ro": "Dimineața: Cu tramvaiul încălzit la Grădina Botanică, apoi încălzire în Lieu Unique. Prânz: Drum spre cartierul Bouffay pentru un meniu de iarnă. După-amiaza: Vizită la Machines de l'Île, care strălucesc în lumina iernii. Apoi o plimbare cu barca spre Trentemoult. Seara: Revenire în oraș în timp ce luminile sclipesc în frigul iernii.",
             "en": "Morning: Take a heated tram to the Botanical Garden, followed by a warm break at Lieu Unique. Noon: Head to the Bouffay district for a comforting winter meal. Afternoon: Visit the Machines de l'Île, shining in the soft winter light. Take the ferry to Trentemoult. Evening: Return to the city as the lights of Nantes sparkle in the winter evening chill.",
-            "fr": "Matin : Prenez un tram chauffé jusqu'au Jardin des Plantes, suivi d'une pause au chaud au Lieu Unique. Midi : Direction le quartier du Bouffay pour un repas d'hiver réconfortant. Après-midi : Visitez les Machines de l'île, brillant sous la douce lumière d'hiver. Prenez le ferry pour Trentemoult. Soir : Retour en ville alors que les lumières de Nantes scintillent dans la fraîcheur du soir hivernal."
+            "fr": "Matin : prenez un tram chauffé pour le Jardin botanique, suivi d'une pause au chaud au Lieu Unique. Midi : rendez‑vous dans le quartier Bouffay pour un repas réconfortant. Après‑midi : visitez les Machines de l'Île, qui brillent dans la douce lumière hivernale. Prenez le ferry pour Trentemoult. Soir : retour en ville alors que Nantes s'illumine dans le froid du soir d'hiver."
           },
           "stops": [
             {
@@ -2896,7 +2997,7 @@
                 "hu": "Élvezze a rövid sétát az állomástól az üvegházak melegébe.",
                 "ro": "Bucurați-vă de drumul scurt de la gară spre căldura serelor.",
                 "en": "Enjoy the very short walk from the station into the warmth of the greenhouses.",
-                "fr": "Profitez de la très courte marche depuis la gare vers la chaleur des serres."
+                "fr": "Profitez de la très courte marche depuis la gare jusqu'à la chaleur des serres."
               }
             },
             {
@@ -2906,7 +3007,7 @@
                 "hu": "A LU bárja télen népszerű és jól fűtött találkozóhely.",
                 "ro": "Barul din LU este un punct de întâlnire popular și bine încălzit iarna.",
                 "en": "The bar at Lieu Unique is a popular, well-heated meeting spot in winter.",
-                "fr": "Le bar du Lieu Unique est un point de rencontre populaire et bien chauffé en hiver."
+                "fr": "Le bar du Lieu Unique est un endroit populaire et bien chauffé en hiver."
               }
             },
             {
@@ -2936,7 +3037,7 @@
                 "hu": "Az átkelés nagyszerű kilátást nyújt az esti fényekben úszó városra.",
                 "ro": "Traversarea oferă o vedere excelentă asupra orașului iluminat seara.",
                 "en": "The ferry crossing offers a great view of the illuminated city in the evening.",
-                "fr": "La traversée en ferry offre une vue imprenable sur la ville illuminée le soir."
+                "fr": "La traversée en ferry offre une belle vue sur la ville illuminée le soir."
               }
             },
             {
@@ -2946,7 +3047,7 @@
                 "hu": "A belvárosi villamosmegállók télen gyakran ünnepi díszítést kapnak.",
                 "ro": "Stațiile de tramvai din centru sunt adesea decorate festiv iarna.",
                 "en": "City center tram stops are often festively decorated during the winter.",
-                "fr": "Les arrêts de tram du centre-ville sont souvent décorés pour les fêtes en hiver."
+                "fr": "Les arrêts de tram du centre sont souvent décorés pour les fêtes en hiver."
               }
             }
           ],
@@ -2980,11 +3081,11 @@
               "A day pass is a good investment if you plan to hop on and off to warm up."
             ],
             "fr": [
-              "Les véhicules de transport public à Nantes sont bien chauffés pendant l'hiver.",
-              "Les trams circulent un peu moins fréquemment le soir ; vérifiez les horaires.",
-              "Le ferry Navibus N1 est chauffé et offre une traversée protégée du vent.",
-              "Utilisez l'application mobile pour minimiser le temps d'attente à l'extérieur aux arrêts.",
-              "Un pass journalier est un bon investissement si vous prévoyez de monter et descendre pour vous réchauffer."
+              "Les véhicules des transports en commun à Nantes sont bien chauffés en hiver.",
+              "Les trams passent un peu moins fréquemment le soir ; vérifiez les horaires.",
+              "Le Navibus N1 est chauffé et assure une traversée protégée du vent.",
+              "Utilisez l'application mobile pour réduire le temps d'attente à l'extérieur aux arrêts.",
+              "Un pass journée est un bon investissement si vous comptez monter et descendre pour vous réchauffer."
             ]
           }
         }

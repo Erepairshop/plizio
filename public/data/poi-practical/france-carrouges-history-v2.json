@@ -3,55 +3,64 @@
     "de": "Le Château, 61320 Carrouges",
     "hu": "Le Château, 61320 Carrouges",
     "ro": "Le Château, 61320 Carrouges",
-    "en": "Le Château, 61320 Carrouges"
+    "en": "Le Château, 61320 Carrouges",
+    "fr": "Le Château, 61320 Carrouges"
   },
   "openingHours": {
     "de": "Mo-Su 10:00-18:00",
     "hu": "Hé-Va 10:00-18:00",
     "ro": "Lun-Dum 10:00-18:00",
-    "en": "Mon-Sun 10:00-18:00"
+    "en": "Mon-Sun 10:00-18:00",
+    "fr": "Lun–Dim 10:00-18:00"
   },
   "entranceFee": {
     "de": "€8 Erwachsene",
     "hu": "8 € felnőtteknek",
     "ro": "8 € adulți",
-    "en": "€8 adults"
+    "en": "€8 adults",
+    "fr": "€8 adultes"
   },
   "website": "https://www.chateau-carrouges.fr",
   "publicTransport": {
     "de": "Nur mit dem Auto oder Taxi ab Bahnhof Alençon erreichbar",
     "hu": "Csak autóval vagy taxival érhető el Alençon vasútállomástól",
     "ro": "Accesibil doar cu mașina sau taxiul de la gara Alençon",
-    "en": "Only accessible by car or taxi from Alençon train station"
+    "en": "Only accessible by car or taxi from Alençon train station",
+    "fr": "Accessible uniquement en voiture ou taxi depuis la gare d’Alençon"
   },
   "parking": {
     "de": "Großer kostenloser Parkplatz unmittelbar vor dem Schlossportal",
     "hu": "Nagy ingyenes parkoló közvetlenül a kastélykapu előtt",
     "ro": "Parcare mare gratuită imediat în fața porții castelului",
-    "en": "Large free parking lot directly in front of the castle gate"
+    "en": "Large free parking lot directly in front of the castle gate",
+    "fr": "Grand parking gratuit directement devant la porte du château"
   },
   "accessibility": {
     "de": "Schlosspark barrierefrei, Innenräume nur über historische Treppen",
     "hu": "A kastélypark akadálymentes, a belső terek csak történelmi lépcsőkön érhetők el",
     "ro": "Parcul castelului este accesibil, interioarele doar prin scări istorice",
-    "en": "Castle park is barrier-free, interiors accessible via historic stairs only"
+    "en": "Castle park is barrier-free, interiors accessible via historic stairs only",
+    "fr": "Le parc du château est accessible sans obstacle, les intérieurs le sont uniquement via des escaliers historiques"
   },
   "photoRules": {
     "de": "Fotografieren in den Innenräumen ohne Blitz erlaubt",
     "hu": "A belső terekben vaku nélkül szabad fényképezni",
     "ro": "Fotografierea în interior fără bliț este permisă",
-    "en": "Photography permitted in the interiors without flash"
+    "en": "Photography permitted in the interiors without flash",
+    "fr": "Photographie autorisée à l’intérieur sans flash"
   },
   "bestTimeToVisit": {
     "de": "An Wochenenden für detaillierte Themenführungen zur Regionalgeschichte",
     "hu": "Hétvégén a régió történelmét bemutató részletes tematikus vezetések miatt",
     "ro": "În weekenduri pentru tururi tematice detaliate despre istoria regională",
-    "en": "On weekends for detailed themed tours on regional history"
+    "en": "On weekends for detailed themed tours on regional history",
+    "fr": "Les week‑ends pour des visites thématiques détaillées sur l’histoire régionale"
   },
   "audioGuide": {
     "de": "FR, EN (Infoblätter in Deutsch verfügbar)",
     "hu": "FR, EN (német nyelvű információs lapok elérhetőek)",
     "ro": "FR, EN (pliante informative disponibile în germană)",
-    "en": "FR, EN (German information sheets available)"
+    "en": "FR, EN (German information sheets available)",
+    "fr": "FR, EN (fiches d’information allemandes disponibles)"
   }
 }

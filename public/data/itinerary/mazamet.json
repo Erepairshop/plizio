@@ -21,7 +21,8 @@
             "de": "Spielplatz Tourniquet",
             "hu": "Tourniquet Park",
             "ro": "Parcul Tourniquet",
-            "en": "Tourniquet Park"
+            "en": "Tourniquet Park",
+            "fr": "Parc du Tourniquet"
           },
           "coords": [
             2.384378,
@@ -36,7 +37,8 @@
             "de": "Lassen Sie die Kinder in diesem tollen Familienspielbereich Energie abbauen, der den Eltern viele sichere, schattige Plätze zum Ausruhen bietet.",
             "hu": "Hagyja, hogy a gyerekek levezessék az energiájukat ezen a családi játszótéren, amely sok biztonságos, árnyékos helyet kínál a szülők pihenéséhez.",
             "ro": "Lăsați copiii să-și consume energia în acest spațiu de joacă interactiv, care oferă părinților numeroase locuri sigure și umbrite pentru a se odihni.",
-            "en": "Let the kids burn off energy at this engaging family play area, which offers plenty of safe, shaded spots for parents to rest and watch them."
+            "en": "Let the kids burn off energy at this engaging family play area, which offers plenty of safe, shaded spots for parents to rest and watch them.",
+            "fr": "Laissez les enfants se dépenser dans cet espace de jeu familial engageant, qui offre de nombreux endroits ombragés et sûrs pour que les parents se reposent et les surveillent."
           }
         },
         {
@@ -44,7 +46,8 @@
             "de": "Église Saint-Sauveur",
             "hu": "Église Saint-Sauveur",
             "ro": "Biserica Saint-Sauveur",
-            "en": "Église Saint-Sauveur"
+            "en": "Église Saint-Sauveur",
+            "fr": "Église Saint-Sauveur"
           },
           "coords": [
             2.375535,
@@ -59,7 +62,8 @@
             "de": "Bewundern Sie die wunderschöne neugotische Architektur und die markanten Buntglasfenster dieser zentralen Kirche, die man am besten morgens besucht.",
             "hu": "Csodálja meg e központi templom gyönyörű neogótikus építészetét és lenyűgöző ólomüveg ablakait, amelyeket a reggeli fényben érdemes megtekinteni.",
             "ro": "Admirați frumoasa arhitectură neogotică și vitraliile impresionante ale acestei biserici centrale, care este cel mai bine vizitată în lumina dimineții.",
-            "en": "Admire the beautiful neo-Gothic architecture and striking stained glass windows of this central church, best visited in the early morning light."
+            "en": "Admire the beautiful neo-Gothic architecture and striking stained glass windows of this central church, best visited in the early morning light.",
+            "fr": "Admirez la belle architecture néo‑gothique et les vitraux saisissants de cette église centrale, à visiter de préférence à la lumière douce du matin."
           }
         },
         {
@@ -67,7 +71,8 @@
             "de": "Maison des Mémoires",
             "hu": "Maison des Mémoires",
             "ro": "Maison des Mémoires",
-            "en": "Maison des Mémoires"
+            "en": "Maison des Mémoires",
+            "fr": "Maison des Mémoires"
           },
           "coords": [
             2.373739,
@@ -82,7 +87,8 @@
             "de": "Entdecken Sie die reiche industrielle Vergangenheit in diesem faszinierenden Museum, in dem Audioguides hervorragende Erklärungen zu den Exponaten liefern.",
             "hu": "Fedezze fel a város gazdag ipari múltját ebben a lenyűgöző múzeumban, ahol az audioguide-ok kiváló történelmi kontextust adnak a kiállításokhoz.",
             "ro": "Descoperiți trecutul industrial bogat al orașului în acest muzeu fascinant, unde ghidurile audio oferă un context excelent pentru expozițiile prezentate.",
-            "en": "Discover Mazamet's rich industrial past and Cathar history in this fascinating museum, where audio guides provide excellent context to the exhibits."
+            "en": "Discover Mazamet's rich industrial past and Cathar history in this fascinating museum, where audio guides provide excellent context to the exhibits.",
+            "fr": "Découvrez le riche passé industriel et l’histoire cathare de Mazamet dans ce musée fascinant, où des audioguides fournissent d’excellents éléments de contexte aux expositions."
           }
         },
         {
@@ -90,7 +96,8 @@
             "de": "Passerelle de Mazamet",
             "hu": "Passerelle de Mazamet",
             "ro": "Pasarela din Mazamet",
-            "en": "Passerelle de Mazamet"
+            "en": "Passerelle de Mazamet",
+            "fr": "Passerelle de Mazamet"
           },
           "coords": [
             2.377778,
@@ -105,7 +112,8 @@
             "de": "Überqueren Sie diese aufregende Hängebrücke, um spektakuläre Talblicke zu genießen, aber tragen Sie festes Schuhwerk und meiden Sie windige Tage.",
             "hu": "Sétáljon át ezen az izgalmas függőhídon a látványos völgypanorámáért, de a legjobb élmény érdekében viseljen masszív cipőt és kerülje a szeles napokat.",
             "ro": "Traversați această pasarelă suspendată spectaculoasă pentru vederi uimitoare ale văii, dar purtați încălțăminte robustă și evitați zilele cu vânt puternic.",
-            "en": "Walk across this thrilling suspended footbridge to enjoy spectacular valley views, but wear sturdy shoes and avoid windy days for the best experience."
+            "en": "Walk across this thrilling suspended footbridge to enjoy spectacular valley views, but wear sturdy shoes and avoid windy days for the best experience.",
+            "fr": "Traversez cette passerelle suspendue impressionnante pour profiter de vues spectaculaires sur la vallée, mais portez des chaussures robustes et évitez les jours de vent pour une meilleure expérience."
           }
         },
         {
@@ -113,7 +121,8 @@
             "de": "Village médiéval d'Hautpoul",
             "hu": "Hautpoul Középkori Falu",
             "ro": "Satul Medieval Hautpoul",
-            "en": "Hautpoul Medieval Village"
+            "en": "Hautpoul Medieval Village",
+            "fr": "Village médiéval de Hautpoul"
           },
           "coords": [
             2.378625,
@@ -128,7 +137,8 @@
             "de": "Erkunden Sie die steilen, engen Gassen dieser alten mittelalterlichen Festung und verpassen Sie nicht die Burgruine ganz oben für den besten Blick.",
             "hu": "Fedezze fel ezen ősi középkori erődítmény meredek, szűk utcáit, és semmiképpen se hagyja ki a hegycsúcson található lenyűgöző kastélyromot.",
             "ro": "Explorați străzile abrupte și înguste ale acestei vechi fortărețe medievale și nu ratați ruinele castelului din vârf pentru o panoramă de neuitat.",
-            "en": "Explore the steep, narrow streets of this ancient medieval stronghold to feel the history, and don't miss the ruined castle at the very top."
+            "en": "Explore the steep, narrow streets of this ancient medieval stronghold to feel the history, and don't miss the ruined castle at the very top.",
+            "fr": "Explorez les rues pentues et étroites de cette ancienne place forte médiévale pour ressentir l’histoire, et ne manquez pas le château en ruines tout en haut."
           }
         }
       ],
@@ -136,7 +146,8 @@
         "de": "Beginnen Sie den Morgen mit der Erkundung der zentralen Parks und der Kirche Saint-Sauveur, was eine friedliche Stimmung schafft.\n\nAm Mittag tauchen Sie im Maison des Mémoires tief in die industrielle Vergangenheit ein.\n\nDer Nachmittag ist für einen aufregenden Spaziergang über die spektakuläre Passerelle de Mazamet reserviert.\n\nGegen Abend reisen Sie in den mittelalterlichen Ruinen von Hautpoul in die Vergangenheit zurück und genießen den Sonnenuntergang über dem Tal.",
         "hu": "Kezdje a reggelt a központi parkok és a csodálatos Église Saint-Sauveur felfedezésével.\n\nDélben a Maison des Mémoires múzeumban elmerülhet a régió izgalmas ipari múltjában.\n\nA délutánt a látványos Passerelle de Mazamet függőhíd izgalmas átszelésére tartogattuk.\n\nAhogy közeledik az este, sétáljon vissza az időben Hautpoul középkori romjai között, és élvezze a völgy felett lemenő nap gyönyörű látványát.",
         "ro": "Începeți dimineața explorând parcurile centrale și frumoasa Église Saint-Sauveur pentru un început pașnic.\n\nLa prânz, aprofundați trecutul industrial al regiunii vizitând Maison des Mémoires.\n\nDupă-amiaza este rezervată pentru o plimbare captivantă pe spectaculoasa Passerelle de Mazamet.\n\nOdată cu lăsarea serii, călătoriți înapoi în timp printre ruinele medievale din Hautpoul, admirând un apus de soare superb deasupra întregii văi.",
-        "en": "Start your morning exploring the central parks and the beautiful Église Saint-Sauveur, setting a peaceful tone for the day.\n\nMidday brings a deep dive into the region's industrial past at the Maison des Mémoires before heading south.\n\nThe afternoon is reserved for a thrilling walk across the spectacular Passerelle de Mazamet suspended bridge.\n\nAs evening approaches, step back in time wandering through the medieval ruins of Hautpoul, enjoying sunset views over the valley."
+        "en": "Start your morning exploring the central parks and the beautiful Église Saint-Sauveur, setting a peaceful tone for the day.\n\nMidday brings a deep dive into the region's industrial past at the Maison des Mémoires before heading south.\n\nThe afternoon is reserved for a thrilling walk across the spectacular Passerelle de Mazamet suspended bridge.\n\nAs evening approaches, step back in time wandering through the medieval ruins of Hautpoul, enjoying sunset views over the valley.",
+        "fr": "Commencez la matinée en explorant les parcs centraux et la belle Église Saint‑Sauveur, pour instaurer une ambiance paisible.\n\nÀ midi, plongez dans le passé industriel de la région à la Maison des Mémoires avant de vous diriger vers le sud.\n\nL’après‑midi est réservé à une traversée palpitante de la spectaculaire passerelle suspendue de Mazamet.\n\nEn soirée, replongez dans le passé en déambulant parmi les ruines médiévales de Hautpoul, en appréciant le coucher du soleil sur la vallée."
       },
       "variants": {
         "rainy": {
@@ -144,7 +155,8 @@
             "de": "Beginnen Sie Ihren Regentag unter den nassen Bäumen im Tourniquet Park und suchen Sie danach Schutz in der Église Saint-Sauveur. Mittags bietet das Maison des Mémoires eine trockene, kulturelle Zuflucht. Der Nachmittag erfordert Vorsicht auf der rutschigen Passerelle. Beenden Sie den Tag auf den nassen, aber stimmungsvollen mittelalterlichen Pflastersteinen von Hautpoul. Tragen Sie gutes Regenzeug.",
             "hu": "Kezdje az esős napot a Tourniquet Park nedves fáinak menedékében, majd térjen be a száraz Église Saint-Sauveur-be. Délben a Maison des Mémoires nyújt kényelmes, fedett menedéket. Délután óvatosan keljen át a csúszós Passerelle hídon. Zárja a napot a nedves, de hangulatos Hautpoul középkori kövei között. Mindenképpen hozzon magával jó minőségű esőkabátot és vízálló lábbelit.",
             "ro": "Începeți ziua ploioasă sub copacii umezi din Parcul Tourniquet, apoi adăpostiți-vă în Église Saint-Sauveur. La prânz, Maison des Mémoires oferă un refugiu cultural uscat. După-amiaza necesită prudență pe Passerelle, care devine foarte alunecoasă. Încheiați ziua printre pietrele medievale umede și pline de atmosferă din Hautpoul. Purtați neapărat îmbrăcăminte impermeabilă.",
-            "en": "Start your rainy day under the wet canopy of Tourniquet Park, then seek shelter in the majestic Église Saint-Sauveur. Midday offers a dry, cultural refuge at Maison des Mémoires. The afternoon demands extreme caution on the slippery Passerelle de Mazamet. Conclude your walk among the atmospheric but wet medieval stones of Hautpoul. Good rain gear and waterproof boots are essential today."
+            "en": "Start your rainy day under the wet canopy of Tourniquet Park, then seek shelter in the majestic Église Saint-Sauveur. Midday offers a dry, cultural refuge at Maison des Mémoires. The afternoon demands extreme caution on the slippery Passerelle de Mazamet. Conclude your walk among the atmospheric but wet medieval stones of Hautpoul. Good rain gear and waterproof boots are essential today.",
+            "fr": "Commencez votre journée pluvieuse sous le couvert humide du Parc du Tourniquet, puis abritez‑vous dans la majestueuse Église Saint‑Sauveur. À midi, trouvez un refuge culturel au sec à la Maison des Mémoires. L’après‑midi demande une extrême prudence sur la glissante Passerelle de Mazamet. Concluez votre promenade parmi les pierres médiévales atmosphériques mais mouillées de Hautpoul. Un bon équipement de pluie et des bottes imperméables sont essentiels aujourd’hui."
           },
           "stops": [
             {
@@ -152,13 +164,15 @@
                 "de": "Spielplatz Tourniquet",
                 "hu": "Tourniquet Park",
                 "ro": "Parcul Tourniquet",
-                "en": "Tourniquet Park"
+                "en": "Tourniquet Park",
+                "fr": "Parc du Tourniquet"
               },
               "tip_5lang": {
                 "de": "Erleben Sie morgens das frische, regengewaschene Grün des Parks, aber tragen Sie unbedingt wasserdichte Stiefel, da die unbefestigten Wege ziemlich schlammig und rutschig werden.",
                 "hu": "Tapasztalja meg a park élénk, esőmosta zöldjét kora reggel, de mindenképpen viseljen masszív vízálló bakancsot, mivel a földes utak meglehetősen sarasak és csúszósak lehetnek.",
                 "ro": "Experimentați verdeața vibrantă și spălată de ploaie a parcului dimineața, dar asigurați-vă că purtați cizme impermeabile robuste, deoarece potecile pot deveni foarte noroioase.",
-                "en": "Experience the vibrant, rain-washed greenery of the park early in the morning, but make sure to wear sturdy waterproof boots as the dirt paths can get quite muddy and slippery."
+                "en": "Experience the vibrant, rain-washed greenery of the park early in the morning, but make sure to wear sturdy waterproof boots as the dirt paths can get quite muddy and slippery.",
+                "fr": "Vivez la vibrante verdure lavée par la pluie du parc tôt le matin, mais assurez‑vous de porter des bottes imperméables robustes car les sentiers de terre peuvent devenir très boueux et glissants."
               }
             },
             {
@@ -166,13 +180,15 @@
                 "de": "Église Saint-Sauveur",
                 "hu": "Église Saint-Sauveur",
                 "ro": "Biserica Saint-Sauveur",
-                "en": "Église Saint-Sauveur"
+                "en": "Église Saint-Sauveur",
+                "fr": "Église Saint-Sauveur"
               },
               "tip_5lang": {
                 "de": "Bewundern Sie die schönen Buntglasfenster im weichen Regenlicht, während Sie dieses majestätische Heiligtum als perfekten, trockenen Zufluchtsort vor starken Schauern nutzen.",
                 "hu": "Csodálja meg a lágy, szórt esős fényben megvilágított gyönyörű ólomüveg ablakokat, miközben ez a fenséges szentély tökéletes száraz menedékként szolgál a heves záporok elől.",
                 "ro": "Admirați vitraliile frumoase iluminate de lumina moale a ploii, folosind în același timp acest sanctuar maiestuos ca un refugiu uscat perfect împotriva averselor puternice.",
-                "en": "Admire the beautiful stained glass windows illuminated by the soft, diffused rainy light, while using this majestic sanctuary as a perfect dry refuge from the heavy showers."
+                "en": "Admire the beautiful stained glass windows illuminated by the soft, diffused rainy light, while using this majestic sanctuary as a perfect dry refuge from the heavy showers.",
+                "fr": "Admirez les magnifiques vitraux éclairés par la douce lumière diffuse de la pluie, en utilisant ce sanctuaire majestueux comme un refuge sec parfait contre les fortes averses."
               }
             },
             {
@@ -180,13 +196,15 @@
                 "de": "Maison des Mémoires",
                 "hu": "Maison des Mémoires",
                 "ro": "Maison des Mémoires",
-                "en": "Maison des Mémoires"
+                "en": "Maison des Mémoires",
+                "fr": "Maison des Mémoires"
               },
               "tip_5lang": {
                 "de": "Tauchen Sie in den gemütlichen Räumen dieses Museums tief in die lokale Geschichte ein und verbringen Sie mehr Zeit drinnen, um die stärksten Regenschauer am Mittag abzuwarten.",
                 "hu": "Merüljön el a gazdag helyi történelemben e múzeum hangulatos belső terében, tudatosan több időt töltve bent, hogy kivárja a legintenzívebb déli esőzések elvonulását.",
                 "ro": "Scufundați-vă adânc în istoria locală în interioarele confortabile ale acestui muzeu, petrecând mai mult timp înăuntru pentru a aștepta trecerea celor mai intense ploi de prânz.",
-                "en": "Dive deeply into the rich local history within the cozy interiors of this museum, effectively spending extra time indoors to wait out the most intense midday rainstorms."
+                "en": "Dive deeply into the rich local history within the cozy interiors of this museum, effectively spending extra time indoors to wait out the most intense midday rainstorms.",
+                "fr": "Plongez au cœur de la riche histoire locale dans l’intimité chaleureuse de ce musée, en y passant plus de temps à l’intérieur pour attendre les pluies les plus intenses de midi."
               }
             },
             {
@@ -194,13 +212,15 @@
                 "de": "Passerelle de Mazamet",
                 "hu": "Passerelle de Mazamet",
                 "ro": "Pasarela din Mazamet",
-                "en": "Passerelle de Mazamet"
+                "en": "Passerelle de Mazamet",
+                "fr": "Passerelle de Mazamet"
               },
               "tip_5lang": {
                 "de": "Erleben Sie den Nervenkitzel, die neblige Schlucht im Regen zu überqueren, aber halten Sie sich gut fest und tragen Sie rutschfeste Schuhe, da das Metallgitter sehr glatt wird.",
                 "hu": "Élje át a ködös szurdok feletti átkelés izgalmát esőben, de kapaszkodjon nagyon erősen a korlátba, és viseljen csúszásmentes cipőt, mert a fémrácsok rendkívül csúszósak.",
                 "ro": "Experimentați emoția traversării defileului cețos pe ploaie, dar țineți-vă foarte bine de balustrade și purtați pantofi antiderapanți, deoarece grătarele metalice devin alunecoase.",
-                "en": "Experience the thrill of crossing the misty gorge in the rain, but hold the handrails very tightly and wear non-slip shoes as the metal grates become extremely slick."
+                "en": "Experience the thrill of crossing the misty gorge in the rain, but hold the handrails very tightly and wear non-slip shoes as the metal grates become extremely slick.",
+                "fr": "Vivez le frisson de traverser le gouffre embrumé sous la pluie, mais tenez‑fermement les mains courantes et portez des chaussures antidérapantes car les grilles métalliques deviennent extrêmement glissantes."
               }
             },
             {
@@ -208,13 +228,15 @@
                 "de": "Village médiéval d'Hautpoul",
                 "hu": "Hautpoul Középkori Falu",
                 "ro": "Satul Medieval Hautpoul",
-                "en": "Hautpoul Medieval Village"
+                "en": "Hautpoul Medieval Village",
+                "fr": "Village médiéval de Hautpoul"
               },
               "tip_5lang": {
                 "de": "Erkunden Sie die stimmungsvollen, im Regen glänzenden Ruinen, aber gehen Sie extrem vorsichtig, da das alte, unebene Kopfsteinpflaster bei Nässe wie Eis wirken kann.",
                 "hu": "Fedezze fel az esőben csillogó hangulatos romokat, de lépkedjen rendkívül óvatosan, mivel az ősi, egyenetlen macskaköves utak teljesen vizesen úgy csúsznak, mint a jég.",
                 "ro": "Explorați ruinele medievale atmosferice care strălucesc sub ploaie, dar pășiți cu extremă prudență, deoarece potecile vechi și inegale din piatră cubică alunecă ca gheața.",
-                "en": "Explore the atmospheric medieval ruins glistening under the rain, but step with extreme caution since the ancient, uneven cobblestone paths act like ice when completely wet."
+                "en": "Explore the atmospheric medieval ruins glistening under the rain, but step with extreme caution since the ancient, uneven cobblestone paths act like ice when completely wet.",
+                "fr": "Explorez les ruines médiévales atmosphériques scintillant sous la pluie, mais avancez avec une extrême prudence car les anciens pavés irréguliers deviennent comme de la glace lorsqu’ils sont complètement mouillés."
               }
             }
           ]
@@ -224,7 +246,8 @@
             "de": "Trotzen Sie der kalten Morgenluft im Tourniquet Park, bevor Sie sich in der Église Saint-Sauveur aufwärmen. Mittags ist das Maison des Mémoires ideal. Der Nachmittagsspaziergang über die Passerelle ist eisig und windig. Beenden Sie den Tag in Hautpoul, bevor der frühe Sonnenuntergang gegen 17 Uhr die Ruinen in Dunkelheit taucht. Tragen Sie unbedingt mehrere warme Schichten.",
             "hu": "Dacoljon a csípős reggeli levegővel a Tourniquet Parkban, majd melegedjen fel az Église Saint-Sauveur-ben. A dél ideális a Maison des Mémoires felfedezésére. A délutáni séta a Passerelle-en szeles és fagyos. Érjen Hautpoulba még azelőtt, hogy a korai, 17 órás naplemente teljes sötétségbe borítaná a romokat. Öltözzön nagyon melegen, rétegesen.",
             "ro": "Înfruntați aerul rece al dimineții în Parcul Tourniquet înainte de a vă încălzi în Église Saint-Sauveur. Prânzul este perfect la Maison des Mémoires. Plimbarea de după-amiază pe Passerelle este înghețată și vântoasă. Încheiați la Hautpoul înainte ca apusul timpuriu de la ora 17:00 să aducă întunericul total. Purtați straturi groase de haine termice.",
-            "en": "Brave the crisp morning air at Tourniquet Park before warming up inside the Église Saint-Sauveur. Midday is perfect for cozying up at Maison des Mémoires. The afternoon walk across the Passerelle is brisk and freezing. Finish at Hautpoul just before the early winter sunset brings total darkness around 5 PM. Thermal layers and warm accessories are absolutely vital."
+            "en": "Brave the crisp morning air at Tourniquet Park before warming up inside the Église Saint-Sauveur. Midday is perfect for cozying up at Maison des Mémoires. The afternoon walk across the Passerelle is brisk and freezing. Finish at Hautpoul just before the early winter sunset brings total darkness around 5 PM. Thermal layers and warm accessories are absolutely vital.",
+            "fr": "Bravez l'air frais du matin au parc du Tourniquet avant de vous réchauffer à l'intérieur de l'Église Saint-Sauveur. Le milieu de journée est parfait pour se blottir à la Maison des Mémoires. La promenade de l'après-midi sur la Passerelle est vive et glaciale. Terminez à Hautpoul juste avant que le coucher de soleil hivernal précoce n'amène l'obscurité totale vers 17 h. Des couches thermiques et des accessoires chauds sont absolument indispensables."
           },
           "stops": [
             {
@@ -232,13 +255,15 @@
                 "de": "Spielplatz Tourniquet",
                 "hu": "Tourniquet Park",
                 "ro": "Parcul Tourniquet",
-                "en": "Tourniquet Park"
+                "en": "Tourniquet Park",
+                "fr": "Parc du Tourniquet"
               },
               "tip_5lang": {
                 "de": "Genießen Sie die friedlichen, frostbedeckten Bäume am frühen Morgen, aber tragen Sie dicke Thermoschichten und warme Handschuhe, um der eisigen Außenluft standzuhalten.",
                 "hu": "Élvezze a békés, dérrel borított fákat a kora reggeli séta során, de feltétlenül viseljen vastag termorétegeket és meleg kesztyűt a fagyos kinti levegő elviseléséhez.",
                 "ro": "Bucurați-vă de copacii pașnici acoperiți de chiciură dimineața devreme, dar asigurați-vă că purtați straturi termice groase și mănuși calde pentru aerul înghețat de afară.",
-                "en": "Enjoy the peaceful, frost-covered trees during your early morning walk, but be sure to wear thick thermal layers and warm gloves to comfortably handle the freezing outdoor air."
+                "en": "Enjoy the peaceful, frost-covered trees during your early morning walk, but be sure to wear thick thermal layers and warm gloves to comfortably handle the freezing outdoor air.",
+                "fr": "Appréciez les arbres paisibles couverts de gelée lors de votre promenade matinale, mais veillez à porter des couches thermiques épaisses et des gants chauds pour affronter confortablement l'air extérieur glacial."
               }
             },
             {
@@ -246,13 +271,15 @@
                 "de": "Église Saint-Sauveur",
                 "hu": "Église Saint-Sauveur",
                 "ro": "Biserica Saint-Sauveur",
-                "en": "Église Saint-Sauveur"
+                "en": "Église Saint-Sauveur",
+                "fr": "Église Saint-Sauveur"
               },
               "tip_5lang": {
                 "de": "Nehmen Sie sich einen Moment Zeit für die Architektur und genießen Sie das warme Innere als hochwillkommene Pause von den eisigen, beißenden Winterwinden draußen.",
                 "hu": "Szánjon egy percet a lenyűgöző gótikus építészetre, miközben élvezi a meleg belső teret, amely rendkívül kellemes menedéket nyújt a fagyos, csípős téli szelek elől.",
                 "ro": "Apreciați arhitectura gotică izbitoare în timp ce vă bucurați de interiorul cald ca de o pauză foarte binevenită de la vânturile de iarnă înghețate și mușcătoare de afară.",
-                "en": "Take a moment to appreciate the striking gothic architecture while enjoying the warm interior as a highly welcome break from the freezing, biting winter winds outside."
+                "en": "Take a moment to appreciate the striking gothic architecture while enjoying the warm interior as a highly welcome break from the freezing, biting winter winds outside.",
+                "fr": "Prenez un instant pour admirer la remarquable architecture gothique tout en profitant de l'intérieur chauffé, pause très appréciable face aux vents hivernaux glacials et mordants à l'extérieur."
               }
             },
             {
@@ -260,13 +287,15 @@
                 "de": "Maison des Mémoires",
                 "hu": "Maison des Mémoires",
                 "ro": "Maison des Mémoires",
-                "en": "Maison des Mémoires"
+                "en": "Maison des Mémoires",
+                "fr": "Maison des Mémoires"
               },
               "tip_5lang": {
                 "de": "Legen Sie Ihre dicken Wintermäntel in der Garderobe ab und tauchen Sie bequem in das faszinierende lokale Erbe ein, während Sie die beheizten Räume genießen.",
                 "hu": "Vegye le vastag téli kabátját a ruhatárban, és kényelmesen merüljön el a lenyűgöző helyi örökségben, élvezve a fűtött szobákat a nap leghidegebb szakaszában.",
                 "ro": "Scoateți-vă paltoanele grele de iarnă la garderobă și scufundați-vă confortabil în fascinantul patrimoniu local, bucurându-vă de camerele încălzite în cea mai rece parte a zilei.",
-                "en": "Remove your heavy winter coats in the cloakroom and comfortably immerse yourself in the fascinating local heritage, enjoying the heated rooms during the coldest part of the day."
+                "en": "Remove your heavy winter coats in the cloakroom and comfortably immerse yourself in the fascinating local heritage, enjoying the heated rooms during the coldest part of the day.",
+                "fr": "Retirez vos lourds manteaux d'hiver au vestiaire et plongez confortablement dans le patrimoine local fascinant, en profitant des salles chauffées pendant la période la plus froide de la journée."
               }
             },
             {
@@ -274,13 +303,15 @@
                 "de": "Passerelle de Mazamet",
                 "hu": "Passerelle de Mazamet",
                 "ro": "Pasarela din Mazamet",
-                "en": "Passerelle de Mazamet"
+                "en": "Passerelle de Mazamet",
+                "fr": "Passerelle de Mazamet"
               },
               "tip_5lang": {
                 "de": "Bewundern Sie die karge, gefrorene Schönheit des tiefen Tals, aber binden Sie Schal und Mütze fest, da die Schlucht in den Wintermonaten wie ein eisiger Windkanal wirkt.",
                 "hu": "Csodálja meg a mély völgy zord, fagyos szépségét, de rögzítse szorosan sálját és sapkáját, mivel a szurdok a kemény téli hónapokban fagyos szélcsatornaként működik.",
                 "ro": "Minunați-vă de frumusețea înghețată a văii adânci, dar asigurați-vă fularul și căciula strâns, deoarece defileul acționează ca un tunel de vânt înghețat în lunile aspre de iarnă.",
-                "en": "Marvel at the stark, frozen beauty of the deep valley, but secure your scarf and hat tightly as the gorge acts like a freezing wind tunnel during the harsh winter months."
+                "en": "Marvel at the stark, frozen beauty of the deep valley, but secure your scarf and hat tightly as the gorge acts like a freezing wind tunnel during the harsh winter months.",
+                "fr": "Admirez la beauté austère et gelée de la vallée profonde, mais fixez bien votre écharpe et votre bonnet car la gorge se transforme en véritable tunnel de vent glacial durant les mois d'hiver rudes."
               }
             },
             {
@@ -288,13 +319,15 @@
                 "de": "Village médiéval d'Hautpoul",
                 "hu": "Hautpoul Középkori Falu",
                 "ro": "Satul Medieval Hautpoul",
-                "en": "Hautpoul Medieval Village"
+                "en": "Hautpoul Medieval Village",
+                "fr": "Village médiéval de Hautpoul"
               },
               "tip_5lang": {
                 "de": "Kommen Sie früh an, um das mittelalterliche Dorf im goldenen Nachmittagslicht zu fotografieren, bevor der frühe Sonnenuntergang um 17 Uhr völlige Dunkelheit bringt.",
                 "hu": "Érkezzen korán, hogy lenyűgöző fotókat készíthessen a faluról az aranyló délutáni fényben, és fejezze be a felfedezést a korai, 17 órás teljes sötétedés előtt.",
                 "ro": "Ajungeți devreme pentru a face fotografii uimitoare cu satul în lumina aurie a după-amiezii, asigurându-vă că terminați de explorat înainte ca apusul de la ora 17:00 să aducă întunericul.",
-                "en": "Arrive early to capture stunning photographs of the medieval village in the golden afternoon light, ensuring you finish exploring before the early sunset brings pitch darkness at 5 PM."
+                "en": "Arrive early to capture stunning photographs of the medieval village in the golden afternoon light, ensuring you finish exploring before the early sunset brings pitch darkness at 5 PM.",
+                "fr": "Arrivez tôt pour capturer de superbes photos du village médiéval à la lumière dorée de l'après-midi, en veillant à terminer votre visite avant que le coucher de soleil précoce n'apporte l'obscurité complète à 17 h."
               }
             }
           ]
@@ -314,7 +347,8 @@
             "de": "Maison des Mémoires",
             "hu": "Maison des Mémoires",
             "ro": "Maison des Mémoires",
-            "en": "Maison des Mémoires"
+            "en": "Maison des Mémoires",
+            "fr": "Maison des Mémoires"
           },
           "coords": [
             2.373739,
@@ -329,7 +363,8 @@
             "de": "Entdecken Sie die reiche industrielle Vergangenheit in diesem faszinierenden Museum, in dem Audioguides hervorragende Erklärungen zu den Exponaten liefern.",
             "hu": "Fedezze fel a város gazdag ipari múltját ebben a lenyűgöző múzeumban, ahol az audioguide-ok kiváló történelmi kontextust adnak a kiállításokhoz.",
             "ro": "Descoperiți trecutul industrial bogat al orașului în acest muzeu fascinant, unde ghidurile audio oferă un context excelent pentru expozițiile prezentate.",
-            "en": "Discover Mazamet's rich industrial past and Cathar history in this fascinating museum, where audio guides provide excellent context to the exhibits."
+            "en": "Discover Mazamet's rich industrial past and Cathar history in this fascinating museum, where audio guides provide excellent context to the exhibits.",
+            "fr": "Découvrez le riche passé industriel de Mazamet et l'histoire cathare dans ce musée fascinant, où des audioguides apportent un excellent contexte aux expositions."
           }
         },
         {
@@ -337,7 +372,8 @@
             "de": "Église Saint-Sauveur",
             "hu": "Église Saint-Sauveur",
             "ro": "Biserica Saint-Sauveur",
-            "en": "Église Saint-Sauveur"
+            "en": "Église Saint-Sauveur",
+            "fr": "Église Saint-Sauveur"
           },
           "coords": [
             2.375535,
@@ -352,7 +388,8 @@
             "de": "Bewundern Sie die wunderschöne neugotische Architektur und die markanten Buntglasfenster dieser zentralen Kirche, die man am besten morgens besucht.",
             "hu": "Csodálja meg e központi templom gyönyörű neogótikus építészetét és lenyűgöző ólomüveg ablakait, amelyeket a reggeli fényben érdemes megtekinteni.",
             "ro": "Admirați frumoasa arhitectură neogotică și vitraliile impresionante ale acestei biserici centrale, care este cel mai bine vizitată în lumina dimineții.",
-            "en": "Admire the beautiful neo-Gothic architecture and striking stained glass windows of this central church, best visited in the early morning light."
+            "en": "Admire the beautiful neo-Gothic architecture and striking stained glass windows of this central church, best visited in the early morning light.",
+            "fr": "Admirez la belle architecture néo-gothique et les vitraux saisissants de cette église centrale, à visiter de préférence au tout début de la matinée."
           }
         },
         {
@@ -360,7 +397,8 @@
             "de": "Passerelle de Mazamet",
             "hu": "Passerelle de Mazamet",
             "ro": "Pasarela din Mazamet",
-            "en": "Passerelle de Mazamet"
+            "en": "Passerelle de Mazamet",
+            "fr": "Passerelle de Mazamet"
           },
           "coords": [
             2.377778,
@@ -375,7 +413,8 @@
             "de": "Überqueren Sie diese aufregende Hängebrücke, um spektakuläre Talblicke zu genießen, aber tragen Sie festes Schuhwerk und meiden Sie windige Tage.",
             "hu": "Sétáljon át ezen az izgalmas függőhídon a látványos völgypanorámáért, de a legjobb élmény érdekében viseljen masszív cipőt és kerülje a szeles napokat.",
             "ro": "Traversați această pasarelă suspendată spectaculoasă pentru vederi uimitoare ale văii, dar purtați încălțăminte robustă și evitați zilele cu vânt puternic.",
-            "en": "Walk across this thrilling suspended footbridge to enjoy spectacular valley views, but wear sturdy shoes and avoid windy days for the best experience."
+            "en": "Walk across this thrilling suspended footbridge to enjoy spectacular valley views, but wear sturdy shoes and avoid windy days for the best experience.",
+            "fr": "Traversez ce palpitant pont piéton suspendu pour profiter de vues spectaculaires sur la vallée, mais portez des chaussures solides et évitez les jours de vent pour la meilleure expérience."
           }
         },
         {
@@ -383,7 +422,8 @@
             "de": "Village médiéval d'Hautpoul",
             "hu": "Hautpoul Középkori Falu",
             "ro": "Satul Medieval Hautpoul",
-            "en": "Hautpoul Medieval Village"
+            "en": "Hautpoul Medieval Village",
+            "fr": "Village médiéval de Hautpoul"
           },
           "coords": [
             2.378625,
@@ -398,7 +438,8 @@
             "de": "Erkunden Sie die steilen, engen Gassen dieser alten mittelalterlichen Festung und verpassen Sie nicht die Burgruine ganz oben für den besten Blick.",
             "hu": "Fedezze fel ezen ősi középkori erődítmény meredek, szűk utcáit, és semmiképpen se hagyja ki a hegycsúcson található lenyűgöző kastélyromot.",
             "ro": "Explorați străzile abrupte și înguste ale acestei vechi fortărețe medievale și nu ratați ruinele castelului din vârf pentru o panoramă de neuitat.",
-            "en": "Explore the steep, narrow streets of this ancient medieval stronghold to feel the history, and don't miss the ruined castle at the very top."
+            "en": "Explore the steep, narrow streets of this ancient medieval stronghold to feel the history, and don't miss the ruined castle at the very top.",
+            "fr": "Parcourez les rues étroites et pentues de cette ancienne forteresse médiévale pour ressentir l'histoire, et ne manquez pas le château en ruine tout en haut."
           }
         },
         {
@@ -406,7 +447,8 @@
             "de": "Lac des Montagnès",
             "hu": "Lac des Montagnès",
             "ro": "Lac des Montagnès",
-            "en": "Lac des Montagnès"
+            "en": "Lac des Montagnès",
+            "fr": "Lac des Montagnès"
           },
           "coords": [
             2.340556,
@@ -421,7 +463,8 @@
             "de": "Entspannen Sie an diesem ruhigen Bergsee inmitten dichter Wälder, ideal für ein erfrischendes Bad im Sommer oder ein friedliches Picknick am Ufer.",
             "hu": "Pihenjen meg a sűrű erdőkkel körülvett békés hegyi tó partján, amely tökéletes egy frissítő nyári úszáshoz vagy egy nyugodt, árnyékos piknikhez.",
             "ro": "Relaxați-vă la acest lac montan liniștit înconjurat de păduri dese, perfect pentru o baie răcoroasă de vară sau un picnic pașnic pe malul umbrit.",
-            "en": "Relax by this tranquil mountain lake surrounded by dense forests, perfect for a refreshing summer swim or a peaceful picnic along the shaded shores."
+            "en": "Relax by this tranquil mountain lake surrounded by dense forests, perfect for a refreshing summer swim or a peaceful picnic along the shaded shores.",
+            "fr": "Détendez-vous près de ce lac de montagne paisible entouré de forêts denses, parfait pour une baignade rafraîchissante en été ou un pique-nique paisible sur les rives ombragées."
           }
         },
         {
@@ -429,7 +472,8 @@
             "de": "Tyrolienne",
             "hu": "Tyrolienne Kalandpark",
             "ro": "Tiroliana Tyrolienne",
-            "en": "Tyrolienne Zipline"
+            "en": "Tyrolienne Zipline",
+            "fr": "Tyrolienne Zipline"
           },
           "coords": [
             2.404073,
@@ -444,7 +488,8 @@
             "de": "Erleben Sie einen Adrenalinstoß auf diesem aufregenden Seilrutschen-Abenteuerparcours, aber buchen Sie in den Sommermonaten Tickets im Voraus.",
             "hu": "Tapasztalja meg az adrenalint ezen az izgalmas drótkötélpályás kalandparkban, de a nyári csúcsidőszakban mindenképpen foglalja le előre a jegyeket.",
             "ro": "Experimentați o doză de adrenalină pe acest traseu de tiroliană captivant, dar asigurați-vă că rezervați biletele în avans în lunile aglomerate de vară.",
-            "en": "Experience an adrenaline rush on this exciting zipline adventure course, but make sure to book your tickets in advance during peak summer months."
+            "en": "Experience an adrenaline rush on this exciting zipline adventure course, but make sure to book your tickets in advance during peak summer months.",
+            "fr": "Vivez une montée d'adrénaline sur ce parcours de tyrolienne excitant, mais pensez à réserver vos billets à l'avance pendant les mois d'été de forte affluence."
           }
         }
       ],
@@ -452,7 +497,8 @@
         "de": "Beginnen Sie Ihre Radtour im Zentrum und entdecken Sie im Museum und in der Kirche die lokale Geschichte.\n\nGegen Mittag radeln Sie zur atemberaubenden Passerelle und erkunden den mittelalterlichen Charme von Hautpoul.\n\nAm Nachmittag führt Sie eine malerische Fahrt zum Lac des Montagnès für eine erfrischende Pause am Wasser.\n\nBeenden Sie Ihren aktiven Tag mit einer rasanten Fahrt auf der Tyrolienne, während der Abend lange Schatten wirft.",
         "hu": "Kezdje a kerékpártúrát a belvárosban, felfedezve a múzeumot és a templomot, mielőtt a dombok felé venné az irányt.\n\nDélben tekerjen fel a lélegzetelállító Passerelle-hez, és barangoljon Hautpoul ódon utcáin.\n\nDélután egy festői út visz a Lac des Montagnès-hez egy frissítő tóparti pihenőre.\n\nZárja ezt az aktív napot a Tyrolienne kalandpályáján, miközben az esti naplemente hosszú árnyékokat vet az erdőre.",
         "ro": "Începeți turul cu bicicleta în centru, descoperind istoria locală la muzeu și la biserică, înainte de a pedala spre dealuri.\n\nLa prânz, urcați spre uluitoarea Passerelle și explorați farmecul medieval din Hautpoul.\n\nDupă-amiaza, o plimbare pitorească vă duce la Lac des Montagnès pentru o pauză relaxantă lângă apă.\n\nÎncheiați ziua zburând pe Tyrolienne, în timp ce soarele apune și aruncă umbre lungi peste coroanele copacilor.",
-        "en": "Kick off your cycling tour in the city center, discovering local history at the museum and the imposing church before riding towards the hills.\n\nAround midday, pedal up to the breathtaking Passerelle and explore the medieval charm of Hautpoul.\n\nIn the afternoon, a scenic ride takes you to Lac des Montagnès for a refreshing break by the water.\n\nEnd your active day flying down the Tyrolienne as the evening casts long shadows over the beautiful trees."
+        "en": "Kick off your cycling tour in the city center, discovering local history at the museum and the imposing church before riding towards the hills.\n\nAround midday, pedal up to the breathtaking Passerelle and explore the medieval charm of Hautpoul.\n\nIn the afternoon, a scenic ride takes you to Lac des Montagnès for a refreshing break by the water.\n\nEnd your active day flying down the Tyrolienne as the evening casts long shadows over the beautiful trees.",
+        "fr": "Commencez votre circuit à vélo au centre-ville, découvrez l'histoire locale au musée et l'imposante église avant de prendre la route vers les collines.\n\nVers midi, montez à vélo jusqu'à la spectaculaire Passerelle et explorez le charme médiéval de Hautpoul.\n\nL'après-midi, une balade panoramique vous mène au Lac des Montagnès pour une pause rafraîchissante au bord de l'eau.\n\nTerminez votre journée active en dévalant la Tyrolienne alors que le soir projette de longues ombres sur les beaux arbres."
       },
       "variants": {
         "rainy": {
@@ -460,7 +506,8 @@
             "de": "Starten Sie trocken im Museum und der Kirche. Mittags wird die Fahrt zur Brücke und nach Hautpoul bei Regen knifflig; tragen Sie gute wasserdichte Kleidung. Die Runde um den See ist am feuchten Nachmittag neblig und magisch. Beenden Sie die Tour an der Seilrutsche, deren nasse Kabel extra schnell sind. Halten Sie Ihre Fahrradlichter wegen der schlechten Sicht immer eingeschaltet.",
             "hu": "Kezdjen szárazon a múzeumban és a templomban. Délben a hídig és Hautpoulig tartó út az esőben trükkös lesz, viseljen jó vízálló ruházatot. A tó körüli szakasz nedves, ködös délutánon varázslatos. Zárja a napot a kalandparkban, ahol a vizes drótköteleken még gyorsabban csúszhat. A rossz látási viszonyok miatt mindig tartsa bekapcsolva a kerékpárlámpákat.",
             "ro": "Începeți uscat la muzeu și biserică. La prânz, drumul spre pod și Hautpoul pe ploaie va fi dificil; purtați haine impermeabile bune. Buclele din jurul lacului sunt cețoase și magice într-o după-amiază ploioasă. Încheiați la tiroliană, ale cărei cabluri umede sunt foarte rapide. Păstrați farurile bicicletei aprinse din cauza vizibilității reduse.",
-            "en": "Start entirely dry at the museum and church. Midday showers make the steep ride to the bridge and Hautpoul tricky, requiring high-quality waterproof cycling gear. The lake loop is misty and magical in the rainy afternoon. Finish your ride at the zipline, which runs extremely fast on wet cables. Keep your bike lights firmly turned on due to poor visibility."
+            "en": "Start entirely dry at the museum and church. Midday showers make the steep ride to the bridge and Hautpoul tricky, requiring high-quality waterproof cycling gear. The lake loop is misty and magical in the rainy afternoon. Finish your ride at the zipline, which runs extremely fast on wet cables. Keep your bike lights firmly turned on due to poor visibility.",
+            "fr": "Commencez entièrement au sec au musée et à l'église. Des averses de la mi-journée rendent la montée raide vers le pont et Hautpoul délicate, nécessitant un équipement cycliste imperméable de haute qualité. Le tour du lac est brumeux et magique lors de l'après-midi pluvieux. Terminez votre sortie à la tyrolienne, qui va très vite sur des câbles mouillés. Gardez vos éclairages de vélo allumés en permanence à cause de la mauvaise visibilité."
           },
           "stops": [
             {
@@ -468,13 +515,15 @@
                 "de": "Maison des Mémoires",
                 "hu": "Maison des Mémoires",
                 "ro": "Maison des Mémoires",
-                "en": "Maison des Mémoires"
+                "en": "Maison des Mémoires",
+                "fr": "Maison des Mémoires"
               },
               "tip_5lang": {
                 "de": "Beginnen Sie Ihren Radtag völlig trocken, indem Sie Ihre nasse Ausrüstung am Eingang lassen und sich Zeit nehmen, die Geschichte zu verinnerlichen, bevor Sie in den Regen hinausfahren.",
                 "hu": "Kezdje a kerékpáros napot teljesen szárazon, hagyja nedves felszerelését a bejáratnál, és szánjon időt a történelem magába szívására, mielőtt nekivágna a reggeli esőnek.",
                 "ro": "Începeți ziua de ciclism complet uscat lăsând echipamentul ud la intrare, luându-vă timp să absorbiți istoria înainte de a înfrunta aversele de dimineață.",
-                "en": "Start your cycling day completely dry by leaving your wet gear at the entrance, taking your time to absorb the historical exhibits before braving the morning rain showers."
+                "en": "Start your cycling day completely dry by leaving your wet gear at the entrance, taking your time to absorb the historical exhibits before braving the morning rain showers.",
+                "fr": "Démarrez votre journée à vélo complètement au sec en laissant votre équipement mouillé à l'entrée, prenez le temps d'absorber les expositions historiques avant d'affronter les averses matinales."
               }
             },
             {
@@ -482,13 +531,15 @@
                 "de": "Église Saint-Sauveur",
                 "hu": "Église Saint-Sauveur",
                 "ro": "Biserica Saint-Sauveur",
-                "en": "Église Saint-Sauveur"
+                "en": "Église Saint-Sauveur",
+                "fr": "Église Saint-Sauveur"
               },
               "tip_5lang": {
                 "de": "Nutzen Sie diesen architektonischen Stopp nicht nur für Besichtigungen, sondern auch als wichtigen trockenen Ort, um die kalten Hände zu wärmen und den Regen abzuschütteln.",
                 "hu": "Ezt a lenyűgöző építészeti megállót ne csak városnézésre használja, hanem kulcsfontosságú száraz pontként is, ahol felmelegítheti hideg kezét, és lerázhatja magáról az esőt.",
                 "ro": "Folosiți această oprire arhitecturală nu doar pentru vizitare, ci și ca un loc uscat crucial pentru a vă încălzi mâinile reci și a scutura ploaia înainte de a pedala mai departe.",
-                "en": "Use this magnificent architectural stop not just for sightseeing but as a crucial dry spot to warm up your cold hands and shake off the rain before continuing your ride."
+                "en": "Use this magnificent architectural stop not just for sightseeing but as a crucial dry spot to warm up your cold hands and shake off the rain before continuing your ride.",
+                "fr": "Utilisez cet arrêt architectural magnifique non seulement pour le tourisme mais aussi comme un abri sec essentiel pour réchauffer vos mains froides et vous débarrasser de la pluie avant de reprendre la route."
               }
             },
             {
@@ -496,13 +547,15 @@
                 "de": "Passerelle de Mazamet",
                 "hu": "Passerelle de Mazamet",
                 "ro": "Pasarela din Mazamet",
-                "en": "Passerelle de Mazamet"
+                "en": "Passerelle de Mazamet",
+                "fr": "Passerelle de Mazamet"
               },
               "tip_5lang": {
                 "de": "Steigen Sie ab und schieben Sie Ihr Fahrrad über die Hängebrücke, da das nasse Metallgitter für Fahrradschuhe extrem tückisch ist und maximale Vorsicht erfordert.",
                 "hu": "Szálljon le, és tolja át a kerékpárt a lengőhídon, mivel a nedves fémrácsok rendkívül veszélyesek a kerékpáros cipőkre, és maximális óvatosságot igényelnek esőben.",
                 "ro": "Descălecați și împingeți bicicleta peste podul suspendat, deoarece grătarele metalice umede sunt extrem de perfide pentru pantofii de ciclism și necesită precauție maximă.",
-                "en": "Dismount and walk your bike across the swaying suspension bridge, as the wet metal grates are extremely treacherous for cycling shoes and require maximum caution in the rain."
+                "en": "Dismount and walk your bike across the swaying suspension bridge, as the wet metal grates are extremely treacherous for cycling shoes and require maximum caution in the rain.",
+                "fr": "Déscendez et poussez votre vélo à travers le pont suspendu vacillant, car les grilles métalliques mouillées sont extrêmement traîtresses pour les chaussures de cyclisme et demandent une prudence maximale sous la pluie."
               }
             },
             {
@@ -510,13 +563,15 @@
                 "de": "Village médiéval d'Hautpoul",
                 "hu": "Hautpoul Középkori Falu",
                 "ro": "Satul Medieval Hautpoul",
-                "en": "Hautpoul Medieval Village"
+                "en": "Hautpoul Medieval Village",
+                "fr": "Village médiéval de Hautpoul"
               },
               "tip_5lang": {
                 "de": "Schieben Sie Ihr Fahrrad durch die alten Gassen, denn das regennasse mittelalterliche Kopfsteinpflaster bietet nassen Reifen null Halt und stellt eine ernste Rutschgefahr dar.",
                 "hu": "Tolja a kerékpárját az ősi falu utcáin, mert a meredek, esőtől síkos középkori macskakövek nulla tapadást biztosítanak a nedves gumiknak, és komoly csúszásveszélyt jelentenek.",
                 "ro": "Împingeți bicicleta prin străzile antice, deoarece piatra cubică medievală alunecoasă din cauza ploii oferă aderență zero anvelopelor ude și prezintă un pericol serios.",
-                "en": "Push your bicycle through the ancient village streets, because the steep, rain-slicked medieval cobblestones offer zero traction for wet tires and pose a serious slipping hazard."
+                "en": "Push your bicycle through the ancient village streets, because the steep, rain-slicked medieval cobblestones offer zero traction for wet tires and pose a serious slipping hazard.",
+                "fr": "Poussez votre bicyclette dans les ruelles anciennes du village, car les pavés médiévaux pentus et détrempés n'offrent aucune adhérence aux pneus mouillés et présentent un risque sérieux de glissade."
               }
             },
             {
@@ -524,13 +579,15 @@
                 "de": "Lac des Montagnès",
                 "hu": "Lac des Montagnès",
                 "ro": "Lac des Montagnès",
-                "en": "Lac des Montagnès"
+                "en": "Lac des Montagnès",
+                "fr": "Lac des Montagnès"
               },
               "tip_5lang": {
                 "de": "Fahren Sie vorsichtig um den nebligen See und stellen Sie sicher, dass Ihr Fahrrad Schutzbleche hat, da sich die Waldwege bei Regen schnell in tiefen Schlamm verwandeln.",
                 "hu": "Óvatosan tekerjen a ködös, hangulatos tó körül, és győződjön meg róla, hogy kerékpárja sárvédővel van felszerelve, mivel az erdei utak hamar mély sárrá változnak.",
                 "ro": "Mergeți cu grijă în jurul lacului cețos, asigurându-vă că bicicleta are apărători de noroi, deoarece potecile forestiere neasfaltate se transformă rapid în noroi adânc.",
-                "en": "Ride carefully around the misty, atmospheric lake perimeter, ensuring your bike has mudguards equipped, as the unpaved forest trails quickly turn into deep, splashing mud."
+                "en": "Ride carefully around the misty, atmospheric lake perimeter, ensuring your bike has mudguards equipped, as the unpaved forest trails quickly turn into deep, splashing mud.",
+                "fr": "Roulez prudemment autour du périmètre brumeux et atmosphérique du lac, en vous assurant que votre vélo est équipé de garde-boues, car les sentiers forestiers non revêtus se transforment rapidement en bourbiers profonds et éclaboussants."
               }
             },
             {
@@ -538,13 +595,15 @@
                 "de": "Tyrolienne",
                 "hu": "Tyrolienne Kalandpark",
                 "ro": "Tiroliana Tyrolienne",
-                "en": "Tyrolienne Zipline"
+                "en": "Tyrolienne Zipline",
+                "fr": "Tyrolienne Zipline"
               },
               "tip_5lang": {
                 "de": "Genießen Sie den Adrenalinschub der nassen Seilrutsche, bei der Sie durch glatte Kabel noch schneller werden. Tragen Sie jedoch wasserdichte Handschuhe für sicheren Halt.",
                 "hu": "Élvezze a vizes drótkötélpálya adta adrenalinlöketet, ahol a síkos kábelek miatt még gyorsabban csúszhat, de a biztonságos fogás érdekében feltétlenül viseljen vízálló kesztyűt.",
                 "ro": "Bucurați-vă de adrenalina tirolienei umede unde cablurile alunecoase vă fac să mergeți și mai repede, dar purtați absolut mănuși impermeabile pentru o prindere sigură.",
-                "en": "Embrace the adrenaline rush of a wet zipline ride where the slick cables make you go even faster, but absolutely wear waterproof gloves to maintain a secure and safe grip."
+                "en": "Embrace the adrenaline rush of a wet zipline ride where the slick cables make you go even faster, but absolutely wear waterproof gloves to maintain a secure and safe grip.",
+                "fr": "Savourez la montée d'adrénaline d'une tyrolienne mouillée où les câbles lisses vous font aller encore plus vite, mais portez absolument des gants imperméables pour garder une prise sûre et sécurisée."
               }
             }
           ]
@@ -554,7 +613,8 @@
             "de": "Wärmen Sie sich morgens bei Hallenkultur auf, bevor Sie auf die eisigen Winterradwege fahren. Der Aufstieg zur Brücke und nach Hautpoul bringt den Kreislauf in Schwung. Der Nachmittag am See ist eiskalt, aber landschaftlich ruhig. Beenden Sie Ihre Fahrt an der Seilrutsche, kurz bevor gegen 17 Uhr die Dunkelheit hereinbricht, was helle Fahrradlichter für den Heimweg zwingend erfordert.",
             "hu": "Melegedjen be a reggeli beltéri kultúrával, mielőtt rátérne a fagyos téli kerékpárutakra. A hídig és Hautpoulig tartó emelkedő felpezsdíti a vérkeringését. A délután a tónál jéghideg, de csendes. Fejezze be az utat a kalandparkban a 17 órás sötétedés előtt, amely után rendkívül erős kerékpárlámpákra lesz szüksége az erdei visszaúthoz.",
             "ro": "Încălziți-vă dimineața cu cultură de interior înainte de a înfrunta pistele de iarnă. Urcarea spre pod și Hautpoul vă va pune sângele în mișcare. După-amiaza la lac este înghețată, dar senină. Încheiați la tiroliană chiar înainte ca întunericul de la ora 17:00 să se apropie, necesitând lumini puternice la bicicletă pentru întoarcere.",
-            "en": "Warm up with morning indoor culture before facing the crisp, freezing winter cycling paths. The steep climb to the bridge and Hautpoul will keep your blood pumping. The afternoon at the lake is freezing but remarkably serene. End your ride at the zipline just as the 5 PM darkness approaches, which strictly requires extremely bright bike lights."
+            "en": "Warm up with morning indoor culture before facing the crisp, freezing winter cycling paths. The steep climb to the bridge and Hautpoul will keep your blood pumping. The afternoon at the lake is freezing but remarkably serene. End your ride at the zipline just as the 5 PM darkness approaches, which strictly requires extremely bright bike lights.",
+            "fr": "Réchauffez-vous le matin avec la culture en intérieur avant d'affronter les chemins cyclables hivernaux, crispés et glacés. La montée raide vers le pont et Hautpoul fera battre votre cœur. L'après-midi au lac est glaciale mais remarquablement sereine. Terminez votre sortie à la tyrolienne juste alors que l'obscurité de 17 h approche, ce qui exige impérativement des éclairages de vélo extrêmement puissants."
           },
           "stops": [
             {
@@ -562,13 +622,15 @@
                 "de": "Maison des Mémoires",
                 "hu": "Maison des Mémoires",
                 "ro": "Maison des Mémoires",
-                "en": "Maison des Mémoires"
+                "en": "Maison des Mémoires",
+                "fr": "Maison des Mémoires"
               },
               "tip_5lang": {
                 "de": "Starten Sie Ihre Fahrt mit einem faszinierenden kulturellen Tauchgang und nutzen Sie die beheizten Räume, um Ihre Muskeln vor den eisigen Radwegen aufzuwärmen.",
                 "hu": "Kezdje a túrát egy lenyűgöző beltéri kulturális merüléssel, maximálisan kihasználva a fűtött szobákat az izmai bemelegítésére a fagyos téli kerékpárutak előtt.",
                 "ro": "Începeți plimbarea cu o scufundare culturală fascinantă în interior, profitând din plin de camerele încălzite pentru a vă încălzi mușchii înainte de traseele reci de iarnă.",
-                "en": "Kick off your ride with a fascinating indoor cultural dive, taking full advantage of the heated rooms to warm your muscles before facing the crisp, freezing winter cycling paths."
+                "en": "Kick off your ride with a fascinating indoor cultural dive, taking full advantage of the heated rooms to warm your muscles before facing the crisp, freezing winter cycling paths.",
+                "fr": "Lancez votre sortie en vélo par une immersion culturelle intérieure fascinante, profitant pleinement des salles chauffées pour réchauffer vos muscles avant d'affronter les chemins cyclables hivernaux froids et vifs."
               }
             },
             {
@@ -576,13 +638,15 @@
                 "de": "Église Saint-Sauveur",
                 "hu": "Église Saint-Sauveur",
                 "ro": "Biserica Saint-Sauveur",
-                "en": "Église Saint-Sauveur"
+                "en": "Église Saint-Sauveur",
+                "fr": "Église Saint-Sauveur"
               },
               "tip_5lang": {
                 "de": "Halten Sie an, um die winterliche Atmosphäre zu bewundern, und nutzen Sie diesen Moment im Haus, um Ihre frierenden Finger aufzutauen, bevor Sie wieder den kalten Lenker greifen.",
                 "hu": "Álljon meg megcsodálni a főhajó nyugodt téli hangulatát, és használja ki ezt a benti pillanatot a fagyos ujjai felengedésére, mielőtt újra megragadná a hideg kormányt.",
                 "ro": "Opriți-vă pentru a admira ambianța liniștită de iarnă a navei, folosind acest moment în interior pentru a vă dezgheța degetele înainte de a prinde din nou ghidonul rece.",
-                "en": "Stop to admire the tranquil winter ambiance of the nave, using this indoor moment to thaw your freezing fingers before gripping the cold bicycle handlebars once again."
+                "en": "Stop to admire the tranquil winter ambiance of the nave, using this indoor moment to thaw your freezing fingers before gripping the cold bicycle handlebars once again.",
+                "fr": "Faites une pause pour admirer l'ambiance hivernale paisible de la nef, en utilisant ce moment intérieur pour réchauffer vos doigts engourdis avant de reprendre les freins du guidon froid."
               }
             },
             {
@@ -590,13 +654,15 @@
                 "de": "Passerelle de Mazamet",
                 "hu": "Passerelle de Mazamet",
                 "ro": "Pasarela din Mazamet",
-                "en": "Passerelle de Mazamet"
+                "en": "Passerelle de Mazamet",
+                "fr": "Passerelle de Mazamet"
               },
               "tip_5lang": {
                 "de": "Genießen Sie die atemberaubende Aussicht auf die frostige Landschaft von der Brücke, aber tragen Sie eine winddichte Maske, um sich vor den eisigen Zugluft im offenen Tal zu schützen.",
                 "hu": "Élvezze a fagyos táj lélegzetelállító kilátását a hídról, de mindenképpen viseljen szélálló arcmaszkot, amely megvédi a nyitott völgyben tomboló keserű, fagyos huzattól.",
                 "ro": "Bucurați-vă de priveliștile uluitoare ale peisajului înghețat de pe pod, dar asigurați-vă că purtați o mască de față rezistentă la vânt împotriva curenților înghețați din vale.",
-                "en": "Enjoy the breathtaking views of the frosty landscape from the bridge, but make sure to wear a windproof face mask to protect against the bitter, freezing drafts in the open valley."
+                "en": "Enjoy the breathtaking views of the frosty landscape from the bridge, but make sure to wear a windproof face mask to protect against the bitter, freezing drafts in the open valley.",
+                "fr": "Profitez des vues à couper le souffle du paysage givré depuis le pont, mais assurez-vous de porter un masque facial coupe-vent pour vous protéger des courants d'air amers et glacés dans la vallée ouverte."
               }
             },
             {
@@ -604,13 +670,15 @@
                 "de": "Village médiéval d'Hautpoul",
                 "hu": "Hautpoul Középkori Falu",
                 "ro": "Satul Medieval Hautpoul",
-                "en": "Hautpoul Medieval Village"
+                "en": "Hautpoul Medieval Village",
+                "fr": "Village médiéval de Hautpoul"
               },
               "tip_5lang": {
                 "de": "Navigieren Sie vorsichtig über die frostigen Steine, da sich im hochgelegenen Dorf die kalte Luft staut und die steilen Kurven im Winterschatten rutschig macht.",
                 "hu": "Óvatosan navigáljon a fagyos, ősi köveken, mivel a középkori falu magasan fekszik, ahol megreked a hideg levegő, és a meredek kanyarok meglepően csúszósak a téli árnyékban.",
                 "ro": "Navigați cu grijă pe pietrele antice înghețate, deoarece satul medieval este situat la înălțime unde aerul rece persistă, făcând curbele abrupte surprinzător de alunecoase.",
-                "en": "Navigate the frosty, ancient stones with care, as the medieval village sits high up where the cold air lingers, making the steep corners surprisingly slippery in the winter shadow."
+                "en": "Navigate the frosty, ancient stones with care, as the medieval village sits high up where the cold air lingers, making the steep corners surprisingly slippery in the winter shadow.",
+                "fr": "Frayez-vous un chemin avec prudence sur les pierres anciennes et gelées, le village médiéval étant perché en hauteur où l'air froid persiste, rendant les virages pentus étonnamment glissants à l'ombre hivernale."
               }
             },
             {
@@ -618,13 +686,15 @@
                 "de": "Lac des Montagnès",
                 "hu": "Lac des Montagnès",
                 "ro": "Lac des Montagnès",
-                "en": "Lac des Montagnès"
+                "en": "Lac des Montagnès",
+                "fr": "Lac des Montagnès"
               },
               "tip_5lang": {
                 "de": "Behalten Sie um den teilweise zugefrorenen See herum ein flottes Tempo bei, um Körperwärme zu erzeugen und den eisigen Winden vom kalten Wasser entgegenzuwirken.",
                 "hu": "Tartson fenn erőteljes pedálozási tempót a gyönyörűen nyugodt, részben befagyott tó körül, hogy testhőt termeljen, és ellensúlyozza a hideg víz felől fújó metsző, jeges szeleket.",
                 "ro": "Mențineți un ritm viguros de pedalare în jurul lacului parțial înghețat pentru a genera căldură corporală și a contracara vânturile înghețate care suflă de pe apa rece.",
-                "en": "Keep up a vigorous pedaling pace around the beautifully serene, partially frozen lake to generate body heat and counteract the biting, icy winds sweeping off the cold water."
+                "en": "Keep up a vigorous pedaling pace around the beautifully serene, partially frozen lake to generate body heat and counteract the biting, icy winds sweeping off the cold water.",
+                "fr": "Maintenez un rythme de pédalage soutenu autour du lac partiellement gelé et d'une grande sérénité pour générer de la chaleur corporelle et contrer les vents glacés et mordants soufflant sur l'eau froide."
               }
             },
             {
@@ -632,13 +702,15 @@
                 "de": "Tyrolienne",
                 "hu": "Tyrolienne Kalandpark",
                 "ro": "Tiroliana Tyrolienne",
-                "en": "Tyrolienne Zipline"
+                "en": "Tyrolienne Zipline",
+                "fr": "Tyrolienne Zipline"
               },
               "tip_5lang": {
                 "de": "Erleben Sie den Winterwald von oben, aber beenden Sie Ihre Seilrutschfahrt deutlich vor 17 Uhr, da die dichten Bergwälder sehr früh stockfinster werden.",
                 "hu": "Tapasztalja meg a téli erdőt felülről, de győződjön meg róla, hogy az izgalmas csúszást jóval 17 óra előtt befejezi, mivel a sűrű hegyi erdők nagyon korán vaksötétté válnak.",
                 "ro": "Experimentați pădurea de iarnă de sus, dar asigurați-vă că finalizați cursa cu tiroliana mult înainte de ora 17:00, deoarece pădurile dense de munte devin negre foarte devreme.",
-                "en": "Experience the winter forest from above, but make sure you complete your thrilling zipline run well before 5 PM, as the dense mountain woods become pitch black very early."
+                "en": "Experience the winter forest from above, but make sure you complete your thrilling zipline run well before 5 PM, as the dense mountain woods become pitch black very early.",
+                "fr": "Vivez la forêt hivernale d'en haut, mais veillez à terminer votre descente en tyrolienne bien avant 17 h, car les bois denses de montagne deviennent très tôt complètement noirs."
               }
             }
           ]
@@ -658,7 +730,8 @@
             "de": "Maison des Mémoires",
             "hu": "Maison des Mémoires",
             "ro": "Maison des Mémoires",
-            "en": "Maison des Mémoires"
+            "en": "Maison des Mémoires",
+            "fr": "Maison des Mémoires"
           },
           "coords": [
             2.373739,
@@ -673,7 +746,8 @@
             "de": "Entdecken Sie die reiche industrielle Vergangenheit in diesem faszinierenden Museum, in dem Audioguides hervorragende Erklärungen zu den Exponaten liefern.",
             "hu": "Fedezze fel a város gazdag ipari múltját ebben a lenyűgöző múzeumban, ahol az audioguide-ok kiváló történelmi kontextust adnak a kiállításokhoz.",
             "ro": "Descoperiți trecutul industrial bogat al orașului în acest muzeu fascinant, unde ghidurile audio oferă un context excelent pentru expozițiile prezentate.",
-            "en": "Discover Mazamet's rich industrial past and Cathar history in this fascinating museum, where audio guides provide excellent context to the exhibits."
+            "en": "Discover Mazamet's rich industrial past and Cathar history in this fascinating museum, where audio guides provide excellent context to the exhibits.",
+            "fr": "Découvrez le riche passé industriel de Mazamet et l'histoire cathare dans ce musée fascinant, où des audioguides apportent un excellent contexte aux expositions."
           }
         },
         {
@@ -681,7 +755,8 @@
             "de": "Église Saint-Sauveur",
             "hu": "Église Saint-Sauveur",
             "ro": "Biserica Saint-Sauveur",
-            "en": "Église Saint-Sauveur"
+            "en": "Église Saint-Sauveur",
+            "fr": "Église Saint-Sauveur"
           },
           "coords": [
             2.375535,
@@ -696,7 +771,8 @@
             "de": "Bewundern Sie die wunderschöne neugotische Architektur und die markanten Buntglasfenster dieser zentralen Kirche, die man am besten morgens besucht.",
             "hu": "Csodálja meg e központi templom gyönyörű neogótikus építészetét és lenyűgöző ólomüveg ablakait, amelyeket a reggeli fényben érdemes megtekinteni.",
             "ro": "Admirați frumoasa arhitectură neogotică și vitraliile impresionante ale acestei biserici centrale, care este cel mai bine vizitată în lumina dimineții.",
-            "en": "Admire the beautiful neo-Gothic architecture and striking stained glass windows of this central church, best visited in the early morning light."
+            "en": "Admire the beautiful neo-Gothic architecture and striking stained glass windows of this central church, best visited in the early morning light.",
+            "fr": "Admirez la belle architecture néo-gothique et les vitraux saisissants de cette église centrale, à visiter de préférence au tout début de la matinée."
           }
         },
         {
@@ -704,7 +780,8 @@
             "de": "Passerelle de Mazamet",
             "hu": "Passerelle de Mazamet",
             "ro": "Pasarela din Mazamet",
-            "en": "Passerelle de Mazamet"
+            "en": "Passerelle de Mazamet",
+            "fr": "Passerelle de Mazamet"
           },
           "coords": [
             2.377778,
@@ -719,7 +796,8 @@
             "de": "Überqueren Sie diese aufregende Hängebrücke, um spektakuläre Talblicke zu genießen, aber tragen Sie festes Schuhwerk und meiden Sie windige Tage.",
             "hu": "Sétáljon át ezen az izgalmas függőhídon a látványos völgypanorámáért, de a legjobb élmény érdekében viseljen masszív cipőt és kerülje a szeles napokat.",
             "ro": "Traversați această pasarelă suspendată spectaculoasă pentru vederi uimitoare ale văii, dar purtați încălțăminte robustă și evitați zilele cu vânt puternic.",
-            "en": "Walk across this thrilling suspended footbridge to enjoy spectacular valley views, but wear sturdy shoes and avoid windy days for the best experience."
+            "en": "Walk across this thrilling suspended footbridge to enjoy spectacular valley views, but wear sturdy shoes and avoid windy days for the best experience.",
+            "fr": "Traversez ce palpitant pont piéton suspendu pour profiter de vues spectaculaires sur la vallée, mais portez des chaussures solides et évitez les jours de vent pour la meilleure expérience."
           }
         },
         {
@@ -727,7 +805,8 @@
             "de": "Village médiéval d'Hautpoul",
             "hu": "Hautpoul Középkori Falu",
             "ro": "Satul Medieval Hautpoul",
-            "en": "Hautpoul Medieval Village"
+            "en": "Hautpoul Medieval Village",
+            "fr": "Village médiéval de Hautpoul"
           },
           "coords": [
             2.378625,
@@ -742,7 +821,8 @@
             "de": "Erkunden Sie die steilen, engen Gassen dieser alten mittelalterlichen Festung und verpassen Sie nicht die Burgruine ganz oben für den besten Blick.",
             "hu": "Fedezze fel ezen ősi középkori erődítmény meredek, szűk utcáit, és semmiképpen se hagyja ki a hegycsúcson található lenyűgöző kastélyromot.",
             "ro": "Explorați străzile abrupte și înguste ale acestei vechi fortărețe medievale și nu ratați ruinele castelului din vârf pentru o panoramă de neuitat.",
-            "en": "Explore the steep, narrow streets of this ancient medieval stronghold to feel the history, and don't miss the ruined castle at the very top."
+            "en": "Explore the steep, narrow streets of this ancient medieval stronghold to feel the history, and don't miss the ruined castle at the very top.",
+            "fr": "Explorez les rues étroites et pentues de cette ancienne forteresse médiévale pour ressentir l'histoire, et ne manquez pas le château en ruine au sommet."
           }
         },
         {
@@ -750,7 +830,8 @@
             "de": "Lac des Montagnès",
             "hu": "Lac des Montagnès",
             "ro": "Lac des Montagnès",
-            "en": "Lac des Montagnès"
+            "en": "Lac des Montagnès",
+            "fr": "Lac des Montagnès"
           },
           "coords": [
             2.340556,
@@ -765,7 +846,8 @@
             "de": "Entspannen Sie an diesem ruhigen Bergsee inmitten dichter Wälder, ideal für ein erfrischendes Bad im Sommer oder ein friedliches Picknick am Ufer.",
             "hu": "Pihenjen meg a sűrű erdőkkel körülvett békés hegyi tó partján, amely tökéletes egy frissítő nyári úszáshoz vagy egy nyugodt, árnyékos piknikhez.",
             "ro": "Relaxați-vă la acest lac montan liniștit înconjurat de păduri dese, perfect pentru o baie răcoroasă de vară sau un picnic pașnic pe malul umbrit.",
-            "en": "Relax by this tranquil mountain lake surrounded by dense forests, perfect for a refreshing summer swim or a peaceful picnic along the shaded shores."
+            "en": "Relax by this tranquil mountain lake surrounded by dense forests, perfect for a refreshing summer swim or a peaceful picnic along the shaded shores.",
+            "fr": "Détendez-vous au bord de ce lac de montagne tranquille entouré de forêts denses, parfait pour une baignade rafraîchissante en été ou un pique-nique paisible sur les rives ombragées."
           }
         },
         {
@@ -773,7 +855,8 @@
             "de": "Montagne Noire",
             "hu": "Montagne Noire",
             "ro": "Montagne Noire",
-            "en": "Montagne Noire"
+            "en": "Montagne Noire",
+            "fr": "Montagne Noire"
           },
           "coords": [
             2.462778,
@@ -788,7 +871,8 @@
             "de": "Fahren Sie in diesen herrlichen, dunklen bewaldeten Gebirgszug hinauf und bringen Sie eine warme Jacke mit, da die Temperaturen am Gipfel sinken.",
             "hu": "Autózzon fel ehhez a sötét erdőkkel borított hegységhez a lélegzetelállító kilátásért, és hozzon meleg kabátot, mert a csúcson hűvösebb az idő.",
             "ro": "Conduceți spre această zonă montană împădurită magnifică pentru vederi panoramice uluitoare și aduceți o jachetă caldă deoarece la vârf este mai frig.",
-            "en": "Drive up to this magnificent dark forested mountain range for breathtaking panoramic views, and bring a warm jacket as temperatures drop at the summit."
+            "en": "Drive up to this magnificent dark forested mountain range for breathtaking panoramic views, and bring a warm jacket as temperatures drop at the summit.",
+            "fr": "Montez en voiture jusqu'à cette magnifique chaîne de montagnes boisées pour des vues panoramiques à couper le souffle, et prenez une veste chaude car les températures chutent au sommet."
           }
         },
         {
@@ -796,7 +880,8 @@
             "de": "Tyrolienne",
             "hu": "Tyrolienne Kalandpark",
             "ro": "Tiroliana Tyrolienne",
-            "en": "Tyrolienne Zipline"
+            "en": "Tyrolienne Zipline",
+            "fr": "Tyrolienne Zipline"
           },
           "coords": [
             2.404073,
@@ -811,7 +896,8 @@
             "de": "Erleben Sie einen Adrenalinstoß auf diesem aufregenden Seilrutschen-Abenteuerparcours, aber buchen Sie in den Sommermonaten Tickets im Voraus.",
             "hu": "Tapasztalja meg az adrenalint ezen az izgalmas drótkötélpályás kalandparkban, de a nyári csúcsidőszakban mindenképpen foglalja le előre a jegyeket.",
             "ro": "Experimentați o doză de adrenalină pe acest traseu de tiroliană captivant, dar asigurați-vă că rezervați biletele în avans în lunile aglomerate de vară.",
-            "en": "Experience an adrenaline rush on this exciting zipline adventure course, but make sure to book your tickets in advance during peak summer months."
+            "en": "Experience an adrenaline rush on this exciting zipline adventure course, but make sure to book your tickets in advance during peak summer months.",
+            "fr": "Vivez une montée d'adrénaline sur ce parcours de tyrolienne excitant, mais pensez à réserver vos billets à l'avance pendant les mois d'été de forte affluence."
           }
         }
       ],
@@ -819,7 +905,8 @@
         "de": "Ihr Roadtrip beginnt im kulturellen Herzen von Mazamet mit dem Museum und der Kirche, bevor Sie hinauf zur beeindruckenden Hängebrücke fahren.\n\nDer Mittag ist perfekt, um durch Hautpoul zu schlendern und am malerischen Lac des Montagnès zu Mittag zu essen.\n\nAm Nachmittag fahren Sie tief in die Montagne Noire für absolut atemberaubende Panoramablicke über die Region.\n\nBeenden Sie den Tag mit einer adrenalingeladenen Seilrutschenfahrt auf der Tyrolienne, genau dann, wenn der Abend hereinbricht.",
         "hu": "Autós túrája Mazamet kulturális szívében indul a múzeum és a templom felfedezésével, majd a lenyűgöző függőhíd felé veszi az irányt.\n\nA dél kiválóan alkalmas Hautpoul macskakövein való sétára és egy tóparti ebédre a Lac des Montagnès-nél.\n\nDélután egy festői autózás vár a Montagne Noire sötét erdeiben a páratlanul szép panorámáért.\n\nZárja a napot egy adrenalindús drótkötélpályás csúszással a Tyrolienne-en, pont a kora esti órákban.",
         "ro": "Excursia auto începe în inima culturală din Mazamet, vizitând muzeul și biserica înainte de a conduce spre pasarela suspendată.\n\nPrânzul este perfect pentru a explora Hautpoul și a savura o masă relaxantă la Lac des Montagnès.\n\nDupă-amiaza include o plimbare pitorească spre Montagne Noire pentru vederi panoramice absolut excepționale.\n\nÎncheiați ziua cu o experiență plină de adrenalină pe tiroliană, chiar la lăsarea serii, pentru amintiri de neuitat.",
-        "en": "Your road trip begins with Mazamet's cultural heart, exploring the museum and church before driving up to the stunning suspended footbridge.\n\nMidday is perfect for wandering the cobblestones of Hautpoul and then enjoying a lakeside lunch at Lac des Montagnès.\n\nThe afternoon features a scenic drive deep into the pristine Montagne Noire for expansive panoramic views.\n\nFinish the day with an adrenaline-pumping zipline ride at Tyrolienne just as the beautiful evening falls."
+        "en": "Your road trip begins with Mazamet's cultural heart, exploring the museum and church before driving up to the stunning suspended footbridge.\n\nMidday is perfect for wandering the cobblestones of Hautpoul and then enjoying a lakeside lunch at Lac des Montagnès.\n\nThe afternoon features a scenic drive deep into the pristine Montagne Noire for expansive panoramic views.\n\nFinish the day with an adrenaline-pumping zipline ride at Tyrolienne just as the beautiful evening falls.",
+        "fr": "Votre road-trip commence au cœur culturel de Mazamet, en explorant le musée et l'église avant de monter jusqu'au spectaculaire pont suspendu.\n\nLe milieu de journée est parfait pour flâner sur les pavés de Hautpoul puis déguster un déjeuner au bord du Lac des Montagnès.\n\nL'après-midi propose une route pittoresque jusqu'au cœur préservé de la Montagne Noire pour des panoramas étendus.\n\nTerminez la journée par une tyrolienne pleine d'adrénaline à Tyrolienne juste au coucher du soir."
       },
       "variants": {
         "rainy": {
@@ -827,7 +914,8 @@
             "de": "Fahren Sie bequem zu den morgendlichen kulturellen Sehenswürdigkeiten im Haus. Bringen Sie einen stabilen Regenschirm für die kurzen Spaziergänge zur Brücke und zum Dorf mit. Die Nachmittagsfahrt zum See und zur Montagne Noire bietet dramatische Wolken. Nasse Bergstraßen erfordern langsames Fahren. Enden Sie an der Seilrutsche, falls das Wetter noch eine kurze Outdoor-Aktivität zulässt.",
             "hu": "Vezessen kényelmesen a reggeli beltéri kulturális látnivalókhoz. Hozzon egy erős esernyőt a hídig és a faluig tartó rövid sétákhoz. A délutáni út a tóhoz és a Montagne Noire-hoz drámai, hangulatos felhőket kínál. A nedves hegyi utak lassú, óvatos vezetést igényelnek. Zárja a napot a kalandparkban, ha az időjárás még megengedi a kinti tevékenységet.",
             "ro": "Conduceți confortabil către atracțiile culturale de interior de dimineață. Aduceți o umbrelă robustă pentru plimbările scurte spre pod și satul medieval. Drumul de după-amiază spre lac și Montagne Noire oferă nori dramatici. Drumurile umede de munte necesită condus prudent. Încheiați la tiroliană dacă vremea permite o scurtă activitate în aer liber.",
-            "en": "Drive comfortably to the morning's indoor cultural sights. Bring a sturdy umbrella for the short walks out to the bridge and the medieval village. The afternoon drive up to the lake and Montagne Noire offers dramatic, moody cloud formations. Wet mountain roads strictly require careful, slow driving. End at the zipline if the rainy weather still permits."
+            "en": "Drive comfortably to the morning's indoor cultural sights. Bring a sturdy umbrella for the short walks out to the bridge and the medieval village. The afternoon drive up to the lake and Montagne Noire offers dramatic, moody cloud formations. Wet mountain roads strictly require careful, slow driving. End at the zipline if the rainy weather still permits.",
+            "fr": "Conduisez confortablement vers les sites culturels intérieurs du matin. Apportez un parapluie solide pour les courtes promenades jusqu'au pont et au village médiéval. L'après-midi, la route vers le lac et la Montagne Noire offre des formations nuageuses dramatiques et atmosphériques. Les routes de montagne mouillées exigent une conduite prudente et lente. Terminez à la tyrolienne si la météo pluvieuse le permet encore."
           },
           "stops": [
             {
@@ -835,13 +923,15 @@
                 "de": "Maison des Mémoires",
                 "hu": "Maison des Mémoires",
                 "ro": "Maison des Mémoires",
-                "en": "Maison des Mémoires"
+                "en": "Maison des Mémoires",
+                "fr": "Maison des Mémoires"
               },
               "tip_5lang": {
                 "de": "Parken Sie nah am Eingang, um den Regen zu meiden, und genießen Sie eine entspannte, völlig trockene Erkundung der faszinierenden lokalen Geschichte im Inneren.",
                 "hu": "Parkoljon minél közelebb a bejárathoz, hogy minimalizálja az esőben töltött időt, és élvezze a lenyűgöző helyi történelem nyugodt, teljesen száraz felfedezését odabent.",
                 "ro": "Parcați cât mai aproape de intrare pentru a minimiza expunerea la ploaie și bucurați-vă de o explorare relaxată, complet uscată a istoriei locale fascinante în interior.",
-                "en": "Park as close to the entrance as possible to minimize your exposure to the downpour, and enjoy a relaxed, completely dry exploration of the fascinating local history inside."
+                "en": "Park as close to the entrance as possible to minimize your exposure to the downpour, and enjoy a relaxed, completely dry exploration of the fascinating local history inside.",
+                "fr": "Garez-vous le plus près possible de l'entrée pour limiter votre exposition à la pluie battante, et profitez d'une exploration détendue et entièrement sèche de l'histoire locale fascinante à l'intérieur."
               }
             },
             {
@@ -849,13 +939,15 @@
                 "de": "Église Saint-Sauveur",
                 "hu": "Église Saint-Sauveur",
                 "ro": "Biserica Saint-Sauveur",
-                "en": "Église Saint-Sauveur"
+                "en": "Église Saint-Sauveur",
+                "fr": "Église Saint-Sauveur"
               },
               "tip_5lang": {
                 "de": "Lauschen Sie der beeindruckenden Akustik des starken Regens, der gegen den massiven Stein trommelt, während Sie in diesem wunderschönen Heiligtum völlig trocken bleiben.",
                 "hu": "Hallgassa meg a masszív kőépületen doboló heves eső lenyűgöző akusztikáját, miközben teljesen száraz és meleg marad ebben a gyönyörű, történelmi menedékben.",
                 "ro": "Ascultați acustica impresionantă a ploii puternice care bate în structura masivă de piatră, rămânând în același timp complet uscat în acest frumos sanctuar istoric.",
-                "en": "Listen to the impressive acoustics of the heavy rain drumming against the massive stone structure while staying completely dry and warm inside this beautiful historical sanctuary."
+                "en": "Listen to the impressive acoustics of the heavy rain drumming against the massive stone structure while staying completely dry and warm inside this beautiful historical sanctuary.",
+                "fr": "Écoutez l'acoustique impressionnante de la pluie battante martelant la masse de pierre tout en restant au chaud et au sec à l'intérieur de ce beau sanctuaire historique."
               }
             },
             {
@@ -863,13 +955,15 @@
                 "de": "Passerelle de Mazamet",
                 "hu": "Passerelle de Mazamet",
                 "ro": "Pasarela din Mazamet",
-                "en": "Passerelle de Mazamet"
+                "en": "Passerelle de Mazamet",
+                "fr": "Passerelle de Mazamet"
               },
               "tip_5lang": {
                 "de": "Holen Sie einen stabilen Regenschirm aus dem Auto, aber seien Sie auf plötzliche, unvorhersehbare Windböen in der Schlucht vorbereitet, die ihn umstülpen könnten.",
                 "hu": "Vegyen elő egy erős esernyőt a csomagtartóból a hídhoz vezető sétához, de készüljön fel a szurdokban hirtelen, kiszámíthatatlanul feltámadó széllökésekre, amelyek kifordíthatják.",
                 "ro": "Luați o umbrelă robustă din portbagaj înainte de a merge la pod, dar fiți pregătiți pentru rafale de vânt bruște și imprevizibile canalizate prin defileu care o pot răsturna.",
-                "en": "Grab a sturdy umbrella from your trunk before walking to the bridge, but be prepared for sudden, unpredictable wind gusts funneled through the gorge that might invert it."
+                "en": "Grab a sturdy umbrella from your trunk before walking to the bridge, but be prepared for sudden, unpredictable wind gusts funneled through the gorge that might invert it.",
+                "fr": "Prenez un parapluie solide dans votre coffre avant de marcher jusqu'au pont, mais préparez-vous à des rafales de vent soudaines et imprévisibles canalisées par la gorge qui pourraient le retourner."
               }
             },
             {
@@ -877,13 +971,15 @@
                 "de": "Village médiéval d'Hautpoul",
                 "hu": "Hautpoul Középkori Falu",
                 "ro": "Satul Medieval Hautpoul",
-                "en": "Hautpoul Medieval Village"
+                "en": "Hautpoul Medieval Village",
+                "fr": "Hautpoul Medieval Village"
               },
               "tip_5lang": {
                 "de": "Bringen Sie Wechselschuhe für das Auto mit, da die Erkundung der bezaubernden, aber sehr nassen mittelalterlichen Ruinen Ihre Schuhe unweigerlich mit tiefem Schlamm bedecken wird.",
                 "hu": "Hozzon magával egy váltócipőt az autóba, mivel a varázslatos, de nagyon nedves középkori romok felfedezése után a lábbelije elkerülhetetlenül vastag sárral lesz borítva.",
                 "ro": "Aduceți o pereche de pantofi de schimb pentru mașină, deoarece explorarea ruinelor medievale fermecătoare, dar foarte umede, vă va lăsa inevitabil încălțămintea plină de noroi.",
-                "en": "Bring a spare pair of shoes to change into back at the car, as exploring the enchanting but very wet medieval ruins will inevitably leave your footwear covered in thick mud."
+                "en": "Bring a spare pair of shoes to change into back at the car, as exploring the enchanting but very wet medieval ruins will inevitably leave your footwear covered in thick mud.",
+                "fr": "Apportez une paire de chaussures de rechange à changer dans la voiture, car explorer les ruines médiévales enchanteresses mais très humides couvrira inévitablement vos chaussures de boue épaisse."
               }
             },
             {
@@ -891,13 +987,15 @@
                 "de": "Lac des Montagnès",
                 "hu": "Lac des Montagnès",
                 "ro": "Lac des Montagnès",
-                "en": "Lac des Montagnès"
+                "en": "Lac des Montagnès",
+                "fr": "Lac des Montagnès"
               },
               "tip_5lang": {
                 "de": "Genießen Sie den stimmungsvollen Blick auf den nebelverhangenen See von den asphaltierten Wegen aus und meiden Sie die unbefestigten Ränder, die sich bei Regen mit Wasser vollsaugen.",
                 "hu": "Élvezze a ködbe burkolózó tó hangulatos látványát a burkolt utak kényelméből, elkerülve a saras peremösvényeket, amelyek heves esőzések idején teljesen víz alá kerülnek.",
                 "ro": "Bucurați-vă de vederea atmosferică a lacului acoperit de ceață de pe aleile pavate, evitând traseele periferice noroioase care devin pline de apă în timpul ploilor abundente.",
-                "en": "Enjoy the moody, atmospheric view of the mist-covered lake from the comfort of the paved paths, avoiding the muddy peripheral trails that become waterlogged during heavy rains."
+                "en": "Enjoy the moody, atmospheric view of the mist-covered lake from the comfort of the paved paths, avoiding the muddy peripheral trails that become waterlogged during heavy rains.",
+                "fr": "Appréciez la vue atmosphérique et brumeuse du lac depuis le confort des sentiers pavés, en évitant les sentiers périphériques boueux qui deviennent gorgés d'eau pendant les fortes pluies."
               }
             },
             {
@@ -905,13 +1003,15 @@
                 "de": "Montagne Noire",
                 "hu": "Montagne Noire",
                 "ro": "Montagne Noire",
-                "en": "Montagne Noire"
+                "en": "Montagne Noire",
+                "fr": "Montagne Noire"
               },
               "tip_5lang": {
                 "de": "Fahren Sie extrem langsam und schalten Sie die Nebelscheinwerfer ein, da die kurvenreichen Bergstraßen bei Nässe berüchtigt glatt und oft in dichte Regenwolken gehüllt sind.",
                 "hu": "Vezessen rendkívül lassan, és tartsa bekapcsolva a ködlámpákat, mivel a kanyargós hegyi utak nedvesen hírhedten csúszósak, és gyakran sűrű, látást gátló esőfelhőkbe burkolóznak.",
                 "ro": "Conduceți extrem de încet și mențineți farurile de ceață aprinse, deoarece drumurile șerpuite de munte sunt notorii de alunecoase când sunt ude și adesea învăluite în nori denși.",
-                "en": "Drive extremely slowly and keep your fog lights on, as the winding mountain roads are notoriously slick when wet and often shrouded in dense, visibility-reducing rain clouds."
+                "en": "Drive extremely slowly and keep your fog lights on, as the winding mountain roads are notoriously slick when wet and often shrouded in dense, visibility-reducing rain clouds.",
+                "fr": "Conduisez extrêmement lentement et gardez vos feux de brouillard allumés, car les routes de montagne sinueuses sont notoirement glissantes lorsqu'elles sont mouillées et souvent enveloppées de nuages de pluie réduisant fortement la visibilité."
               }
             },
             {
@@ -919,13 +1019,15 @@
                 "de": "Tyrolienne",
                 "hu": "Tyrolienne Kalandpark",
                 "ro": "Tiroliana Tyrolienne",
-                "en": "Tyrolienne Zipline"
+                "en": "Tyrolienne Zipline",
+                "fr": "Tyrolienne Zipline"
               },
               "tip_5lang": {
                 "de": "Tragen Sie eine robuste wasserdichte Jacke, um die Seilrutsche zu genießen, die auch bei leichtem Regen funktioniert. Der Weg zurück zum Auto wird jedoch eine sehr feuchte Angelegenheit.",
                 "hu": "Viseljen strapabíró vízálló dzsekit, hogy élvezhesse a kalandparkot, amely enyhe esőben is üzemel, de számítson rá, hogy a parkoló autóhoz való visszaséta alaposan nedves élmény lesz.",
                 "ro": "Purtați o jachetă impermeabilă rezistentă pentru a vă bucura de tiroliană, care funcționează bine în ploaie ușoară, dar așteptați-vă ca drumul înapoi spre mașină să fie umed.",
-                "en": "Wear a heavy-duty waterproof jacket to enjoy the zipline, which operates fine in light rain, but expect the walk back to your parked car to be a thoroughly damp experience."
+                "en": "Wear a heavy-duty waterproof jacket to enjoy the zipline, which operates fine in light rain, but expect the walk back to your parked car to be a thoroughly damp experience.",
+                "fr": "Portez une veste imperméable robuste pour profiter de la tyrolienne, qui fonctionne par temps de pluie légère, mais comptez-vous à ce que la marche de retour jusqu'à votre voiture soit une expérience très humide."
               }
             }
           ]
@@ -935,7 +1037,8 @@
             "de": "Nutzen Sie die Autoheizung zwischen den historischen Stopps am Morgen. Die Brücke und Hautpoul bieten atemberaubende, aber eisige Winteraussichten. Die Nachmittagsfahrt zum See und zur Montagne Noire offenbart karge, frostige Landschaften. Fahren Sie rechtzeitig zur Seilrutsche und beenden Sie den Tag, bevor die Sonne gegen 17 Uhr untergeht, da die Bergstraßen nachts schnell gefährlich vereisen.",
             "hu": "Használja ki az autó fűtését a reggeli történelmi megállók között. A híd és Hautpoul lenyűgöző, de fagyos téli kilátást nyújt. A délutáni autózás a tóhoz zord, dérlepte tájakat tár fel. Érjen időben a kalandparkhoz, és fejezze be a napot a 17 órás naplemente előtt, mivel a kanyargós hegyi utak éjszaka hihetetlenül gyorsan és veszélyesen eljegesednek.",
             "ro": "Utilizați încălzirea mașinii între opririle istorice de dimineață. Podul și Hautpoul oferă priveliști de iarnă uimitoare, dar înghețate. Drumul de după-amiază spre lac și Montagne Noire dezvăluie peisaje reci. Mergeți la tiroliană înainte ca soarele să apună în jurul orei 17:00, deoarece drumurile de munte devin rapid pline de gheață periculoasă noaptea.",
-            "en": "Utilize your car's heater perfectly between historical stops in the morning. The bridge and Hautpoul offer stunning but freezing winter views. The afternoon drive to the lake and Montagne Noire reveals stark, frosty landscapes. Head to the zipline before the sun sets around 5 PM, as the winding mountain roads get dangerously icy very fast at night."
+            "en": "Utilize your car's heater perfectly between historical stops in the morning. The bridge and Hautpoul offer stunning but freezing winter views. The afternoon drive to the lake and Montagne Noire reveals stark, frosty landscapes. Head to the zipline before the sun sets around 5 PM, as the winding mountain roads get dangerously icy very fast at night.",
+            "fr": "Utilisez parfaitement le chauffage de votre voiture entre les arrêts historiques du matin. Le pont et Hautpoul offrent des vues hivernales magnifiques mais glaciales. La route de l'après-midi vers le lac et la Montagne Noire révèle des paysages austères et givrés. Dirigez-vous vers la tyrolienne avant le coucher du soleil vers 17 h, car les routes de montagne sinueuses gèlent très vite et deviennent dangereuses la nuit."
           },
           "stops": [
             {
@@ -943,13 +1046,15 @@
                 "de": "Maison des Mémoires",
                 "hu": "Maison des Mémoires",
                 "ro": "Maison des Mémoires",
-                "en": "Maison des Mémoires"
+                "en": "Maison des Mémoires",
+                "fr": "Maison des Mémoires"
               },
               "tip_5lang": {
                 "de": "Genießen Sie einen warmen Start in den Tag, indem Sie Ihre dicken Winterschichten ablegen, um die reiche Geschichte zu erkunden, bevor Sie wieder in den Morgenfrost hinausgehen.",
                 "hu": "Élvezze a nap tökéletesen meleg és kényelmes beltéri kezdését, vetkőzze le vastag téli rétegeit, hogy felfedezze a gazdag történelmet, mielőtt visszatérne a reggeli fagyba.",
                 "ro": "Bucurați-vă de un început de zi perfect cald și confortabil în interior, renunțând la straturile groase de iarnă pentru a explora istoria bogată înainte de a ieși în gerul dimineții.",
-                "en": "Enjoy a perfectly warm and comfortable indoor start to your day, shedding your heavy winter layers to explore the rich history before heading back out into the morning frost."
+                "en": "Enjoy a perfectly warm and comfortable indoor start to your day, shedding your heavy winter layers to explore the rich history before heading back out into the morning frost.",
+                "fr": "Profitez d'un démarrage de journée parfaitement chaud et confortable en intérieur, en ôtant vos lourdes couches d'hiver pour explorer la riche histoire avant de ressortir dans le gel matinal."
               }
             },
             {
@@ -957,13 +1062,15 @@
                 "de": "Église Saint-Sauveur",
                 "hu": "Église Saint-Sauveur",
                 "ro": "Biserica Saint-Sauveur",
-                "en": "Église Saint-Sauveur"
+                "en": "Église Saint-Sauveur",
+                "fr": "Église Saint-Sauveur"
               },
               "tip_5lang": {
                 "de": "Behalten Sie Ihren dicken Wintermantel auch drinnen an, da die massiven, unbeheizten Steinmauern der Kirche die Kälte speichern und es im Winter oft sehr zugig ist.",
                 "hu": "Tartsa becipzározva vastag téli kabátját még bent is, mivel a templom masszív, fűtetlen kőfalai hajlamosak csapdába ejteni a hideget, így a téli hónapokban preces huzat is lehet.",
                 "ro": "Păstrați-vă haina groasă de iarnă închisă chiar și înăuntru, deoarece pereții masivi de piatră neîncălziți ai bisericii tind să capteze frigul, făcând să se simtă destul de curent iarna.",
-                "en": "Keep your thick winter coat zipped up even inside, as the massive, unheated stone walls of the church tend to trap the cold, making it feel quite drafty during the winter months."
+                "en": "Keep your thick winter coat zipped up even inside, as the massive, unheated stone walls of the church tend to trap the cold, making it feel quite drafty during the winter months.",
+                "fr": "Gardez votre épais manteau d'hiver fermé même à l'intérieur, car les immenses murs de pierre non chauffés de l'église retiennent le froid et la rendent assez venteuse pendant les mois d'hiver."
               }
             },
             {
@@ -971,13 +1078,15 @@
                 "de": "Passerelle de Mazamet",
                 "hu": "Passerelle de Mazamet",
                 "ro": "Pasarela din Mazamet",
-                "en": "Passerelle de Mazamet"
+                "en": "Passerelle de Mazamet",
+                "fr": "Passerelle de Mazamet"
               },
               "tip_5lang": {
                 "de": "Gehen Sie extrem vorsichtig und halten Sie sich gut fest, da der Morgenfrost oft eine unsichtbare, gefährliche Eisschicht auf dem Metallsteg der Hängebrücke hinterlässt.",
                 "hu": "Sétáljon rendkívül óvatosan, erősen fogva a korlátot, mivel a reggeli fagy gyakran áruló, láthatatlan jégréteget hagy a függőhíd szabadon lévő, fagyos fém járdáján.",
                 "ro": "Mergeți cu extremă grijă ținându-vă bine de balustrade, deoarece gerul dimineții lasă adesea un strat invizibil și periculos de gheață pe pasarela metalică expusă a podului suspendat.",
-                "en": "Walk with extreme care holding the handrails tightly, as the morning frost often leaves a treacherous, invisible layer of ice on the exposed metal walkway of the suspension bridge."
+                "en": "Walk with extreme care holding the handrails tightly, as the morning frost often leaves a treacherous, invisible layer of ice on the exposed metal walkway of the suspension bridge.",
+                "fr": "Marchez avec la plus grande prudence en tenant fermement les rampes, car le gel matinal laisse souvent une couche traîtresse et invisible de glace sur la passerelle métallique exposée du pont suspendu."
               }
             },
             {
@@ -985,13 +1094,15 @@
                 "de": "Village médiéval d'Hautpoul",
                 "hu": "Hautpoul Középkori Falu",
                 "ro": "Satul Medieval Hautpoul",
-                "en": "Hautpoul Medieval Village"
+                "en": "Hautpoul Medieval Village",
+                "fr": "Village médiéval de Hautpoul"
               },
               "tip_5lang": {
                 "de": "Planen Sie Ihren Besuch so, dass Sie die mittelalterlichen Ruinen im goldenen Nachmittagslicht einfangen und die langen Schatten der tief stehenden Wintersonne nutzen.",
                 "hu": "Időzítse látogatását tökéletesen, hogy az aranyló délutáni fényben fürdőző középkori romokat lefotózhassa, kihasználva az alacsony téli nap okozta drámai, hosszú árnyékokat.",
                 "ro": "Sincronizați-vă vizita perfect pentru a surprinde ruinele medievale scăldate în lumina aurie a după-amiezii, profitând de umbrele lungi și dramatice cauzate de soarele de iarnă.",
-                "en": "Time your visit perfectly to capture the medieval ruins bathed in golden afternoon light, taking advantage of the dramatic long shadows caused by the incredibly low winter sun."
+                "en": "Time your visit perfectly to capture the medieval ruins bathed in golden afternoon light, taking advantage of the dramatic long shadows caused by the incredibly low winter sun.",
+                "fr": "Choisissez le moment idéal pour capturer les ruines médiévales baignées par la lumière dorée de l’après‑midi, en profitant des ombres longues et dramatiques causées par le soleil d’hiver incroyablement bas."
               }
             },
             {
@@ -999,13 +1110,15 @@
                 "de": "Lac des Montagnès",
                 "hu": "Lac des Montagnès",
                 "ro": "Lac des Montagnès",
-                "en": "Lac des Montagnès"
+                "en": "Lac des Montagnès",
+                "fr": "Lac des Montagnès"
               },
               "tip_5lang": {
                 "de": "Packen Sie sich für den kurzen Spaziergang vom Parkplatz zum wunderschönen, teils zugefrorenen See warm ein, da der eisige Wind über dem offenen Wasser bemerkenswert bitter ist.",
                 "hu": "Öltözzön fel melegen a parkolótól a lenyűgöző, részben befagyott tóig tartó rövid sétához, mivel a nyílt víz felett végigsöprő jeges szelek rendkívül keserűek és metszőek.",
                 "ro": "Îmbrăcați-vă bine pentru scurta plimbare de la parcare pentru a admira lacul uimitor, parțial înghețat, deoarece vânturile de gheață care mătură apa deschisă sunt remarcabil de aspre.",
-                "en": "Bundle up securely for the short walk from the parking lot to admire the stunning, partially frozen lake, as the icy winds sweeping across the open water are remarkably bitter."
+                "en": "Bundle up securely for the short walk from the parking lot to admire the stunning, partially frozen lake, as the icy winds sweeping across the open water are remarkably bitter.",
+                "fr": "Couvrez‑vous chaudement pour la courte promenade entre le parking et le lac partiellement gelé, car les vents glacés qui balaient l’eau ouverte sont d’une amertume remarquable."
               }
             },
             {
@@ -1013,13 +1126,15 @@
                 "de": "Montagne Noire",
                 "hu": "Montagne Noire",
                 "ro": "Montagne Noire",
-                "en": "Montagne Noire"
+                "en": "Montagne Noire",
+                "fr": "Montagne Noire"
               },
               "tip_5lang": {
                 "de": "Achten Sie äußerst wachsam auf unsichtbares Glatteis in den schattigen Kurven des Bergpasses und stellen Sie sicher, dass Ihr Auto mit guten Winterreifen ausgestattet ist.",
                 "hu": "Legyen rendkívül éber az alattomos fekete jégfoltok miatt a hágó árnyékos kanyarjaiban, és győződjön meg arról, hogy autója megfelelő téli gumiabroncsokkal van felszerelve a fagyos utakra.",
                 "ro": "Fiți extrem de vigilenți la peticele de gheață neagră de pe curbele umbrite ale trecătorii montane, asigurându-vă că mașina dumneavoastră este echipată cu anvelope de iarnă adecvate.",
-                "en": "Be extremely vigilant for treacherous patches of black ice on the shaded curves of the mountain pass, ensuring your car is equipped with completely appropriate winter tires."
+                "en": "Be extremely vigilant for treacherous patches of black ice on the shaded curves of the mountain pass, ensuring your car is equipped with completely appropriate winter tires.",
+                "fr": "Soyez extrêmement vigilant face aux plaques de verglas traîtres sur les virages ombragés du col ; assurez‑vous que votre voiture est équipée de pneus hiver parfaitement adaptés."
               }
             },
             {
@@ -1027,13 +1142,15 @@
                 "de": "Tyrolienne",
                 "hu": "Tyrolienne Kalandpark",
                 "ro": "Tiroliana Tyrolienne",
-                "en": "Tyrolienne Zipline"
+                "en": "Tyrolienne Zipline",
+                "fr": "Tyrolienne Zipline"
               },
               "tip_5lang": {
                 "de": "Beenden Sie Ihr Waldabenteuer frühzeitig und stellen Sie sicher, dass Sie wieder im geheizten Auto sind, bevor der Sonnenuntergang um 17 Uhr die Bergstraßen in Dunkelheit taucht.",
                 "hu": "Fejezze be korán a magasba törő erdei kalandot, és győződjön meg róla, hogy biztonságban ül a fűtött autóban, mielőtt a 17 órás naplemente teljes sötétségbe borítja a kanyargós hegyi utakat.",
                 "ro": "Finalizați-vă devreme aventura în pădure, asigurându-vă că v-ați întors în siguranță în mașina încălzită înainte ca apusul de la ora 17:00 să cufunde drumurile montane șerpuite în întuneric total.",
-                "en": "Complete your high-flying forest adventure early, ensuring you are safely back in your heated car before the 5 PM sunset plunges the winding, precarious mountain roads into total darkness."
+                "en": "Complete your high-flying forest adventure early, ensuring you are safely back in your heated car before the 5 PM sunset plunges the winding, precarious mountain roads into total darkness.",
+                "fr": "Terminez votre aventure aérienne en forêt tôt afin d’être de retour en sécurité dans votre voiture chauffée avant que le coucher du soleil à 17h plonge les routes de montagne sinueuses et précaires dans l’obscurité totale."
               }
             }
           ]

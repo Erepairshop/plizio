@@ -21,7 +21,8 @@
             "de": "Hafen von Le Palais",
             "hu": "Le Palais kikötője",
             "ro": "Portul Le Palais",
-            "en": "Port of Le Palais"
+            "en": "Port of Le Palais",
+            "fr": "Port du Palais"
           },
           "coords": [
             -3.1535,
@@ -37,7 +38,7 @@
             "hu": "Nézze a kompok érkezését egy kávé mellett.",
             "ro": "Urmăriți sosirea feriboturilor la o cafea.",
             "en": "Watch the ferries arrive while enjoying a coffee.",
-            "fr": "Regardez les ferries arriver tout en dégustant un café."
+            "fr": "Regardez les ferries arriver en dégustant un café."
           }
         },
         {
@@ -45,7 +46,8 @@
             "de": "Zitadelle Vauban",
             "hu": "Vauban citadella",
             "ro": "Citadela Vauban",
-            "en": "Vauban Citadel"
+            "en": "Vauban Citadel",
+            "fr": "Citadelle Vauban"
           },
           "coords": [
             -3.1505,
@@ -69,7 +71,8 @@
             "de": "Quai de l'Acadie",
             "hu": "Quai de l'Acadie sétány",
             "ro": "Promenada Quai de l'Acadie",
-            "en": "Quai de l'Acadie"
+            "en": "Quai de l'Acadie",
+            "fr": "Quai de l'Acadie"
           },
           "coords": [
             -3.155,
@@ -85,7 +88,7 @@
             "hu": "Kiváló kilátás a színes házsorokra.",
             "ro": "Vedere excelentă asupra caselor colorate.",
             "en": "Excellent view of the colorful rows of houses.",
-            "fr": "Excellente vue sur les rangées de maisons colorées."
+            "fr": "Excellente vue sur les rangées colorées de maisons."
           }
         },
         {
@@ -93,7 +96,8 @@
             "de": "Mittagessen im Zentrum",
             "hu": "Ebéd a belvárosban",
             "ro": "Prânz în centru",
-            "en": "Lunch in the center"
+            "en": "Lunch in the center",
+            "fr": "Déjeuner au centre"
           },
           "coords": [
             -3.154,
@@ -109,7 +113,7 @@
             "hu": "Kóstoljon meg egy sós vajas palacsintát.",
             "ro": "Încercați o galetă cu unt sărat.",
             "en": "Try a savory galette with salted butter.",
-            "fr": "Goûtez une galette savoureuse au beurre salé."
+            "fr": "Goûtez une galette salée au beurre demi-sel."
           }
         },
         {
@@ -117,7 +121,8 @@
             "de": "Plage de Ramonette",
             "hu": "Ramonette strand",
             "ro": "Plaja Ramonette",
-            "en": "Ramonette Beach"
+            "en": "Ramonette Beach",
+            "fr": "Plage de Ramonette"
           },
           "coords": [
             -3.148,
@@ -133,7 +138,7 @@
             "hu": "A legközelebbi fürdőstrand közvetlenül a város szélén.",
             "ro": "Cea mai apropiată plajă chiar la marginea orașului.",
             "en": "The nearest swimming beach right on the edge of town.",
-            "fr": "La plage de baignade la plus proche, juste à la sortie de la ville."
+            "fr": "La plage de baignade la plus proche, en bordure de la ville."
           }
         }
       ],
@@ -142,7 +147,7 @@
         "hu": "A nap Le Palais bájos kikötőjében indul, ahol a színes homlokzatok köszöntik a hajók érkezését. Egy rövid emelkedő vezet a fenséges Vauban-citadellához, amely évszázadok óta őrzi az Atlanti-óceánt.\n\nDélben a rakpartok mentén sétálva élvezheti a tengeri szellőt. Az alsóváros szűk utcái megállásra és a kis művészeti galériák felfedezésére csábítanak.\n\nDélután egy helyi bisztróban breton specialitásokkal frissülhet fel. A sziget nyugodt légköre tükröződik a helyiek vendégszeretetében.\n\nZárásként sétáljon el a Ramonette strandra, amely egy rejtett öböl, ideális egy rövid frissítőre a kristálytiszta vízben, mielőtt a nap kényelmesen véget érne.",
         "ro": "Ziua începe în portul fermecător Le Palais, unde fațadele colorate salută sosirea navelor. O scurtă urcare duce la maiestuoasa Citadelă Vauban, care veghează asupra Atlanticului de secole.\n\nLa prânz, plimbați-vă de-a lungul cheiurilor și bucurați-vă de briza mării. Străzile înguste ale orașului de jos vă invită să poposiți și să descoperiți mici galerii de artă.\n\nDupă-amiaza, vă puteți delecta într-un bistro local cu specialități bretone. Atmosfera relaxată a insulei se reflectă în ospitalitatea localnicilor.\n\nLa final, mergeți la Plage de Ramonette, un golf ascuns, ideal pentru o scurtă reîmprospătare în apa cristalină, înainte ca ziua să se încheie liniștit.",
         "en": "Your day begins in the charming port of Le Palais, where colorful facades welcome the arriving ships. A short climb leads to the majestic Vauban Citadel, which has guarded the Atlantic for centuries.\n\nAt noon, stroll along the quays and enjoy the sea breeze. The narrow streets of the lower town invite you to linger and discover small art galleries.\n\nIn the afternoon, recharge in a local bistro with Breton specialties. The island's relaxed atmosphere is reflected in the hospitality of the locals.\n\nFinally, walk to Plage de Ramonette, a hidden cove ideal for a quick dip in the crystal-clear water before the day ends peacefully.",
-        "fr": "Votre journée commence dans le charmant port de Le Palais, où des façades colorées accueillent les navires à leur arrivée. Une courte montée mène à la majestueuse Citadelle Vauban, qui garde l'Atlantique depuis des siècles.\n\nÀ midi, flânez le long des quais et profitez de la brise marine. Les rues étroites de la ville basse vous invitent à vous attarder et à découvrir de petites galeries d'art.\n\nL'après-midi, ressourcez-vous dans un bistrot local avec des spécialités bretonnes. L'atmosphère décontractée de l'île se reflète dans l'hospitalité des habitants.\n\nEnfin, marchez jusqu'à la plage de Ramonette, une crique cachée idéale pour une petite baignade dans l'eau cristalline avant que la journée ne se termine paisiblement."
+        "fr": "Votre journée commence dans le charmant port du Palais, où des façades colorées accueillent les navires arrivants. Une courte montée mène à la majestueuse Citadelle Vauban, qui a gardé l'Atlantique pendant des siècles.\n\nÀ midi, flânez le long des quais et profitez de la brise marine. Les ruelles étroites de la basse-ville invitent à s'attarder et à découvrir de petites galeries d'art.\n\nL'après-midi, rechargez-vous dans un bistrot local avec des spécialités bretonnes. L'ambiance détendue de l'île se reflète dans l'hospitalité des habitants.\n\nEnfin, marchez jusqu'à la Plage de Ramonette, une crique cachée idéale pour une baignade rapide dans une eau cristalline avant que la journée ne se termine paisiblement."
       },
       "gastro_picks": {
         "de": [
@@ -292,9 +297,9 @@
         ],
         "fr": [
           "Réservez le ferry à l'avance, surtout en été.",
-          "La citadelle n'est souvent que partiellement accessible le lundi.",
+          "La citadelle est souvent seulement partiellement accessible le lundi.",
           "Portez des chaussures confortables pour les rues pavées.",
-          "Surveillez les marées lors de la visite des plages."
+          "Regardez les marées lorsque vous visitez les plages."
         ]
       },
       "variants": {
@@ -303,7 +308,8 @@
             "de": "Ihr Tag beginnt im charmanten Hafen von Le Palais, wo die bunten Fassaden die Ankunft der Schiffe begrüßen. Ein kurzer Aufstieg führt zur majestätischen Zitadelle Vauban, die seit Jahrhunderten über den Atlantik wacht.\n\nMittags schlendern Sie entlang der Kais und genießen die Meeresbrise. Die engen Gassen der Unterstadt laden zum Verweilen und Entdecken kleiner Kunstgalerien ein.\n\nAm Nachmittag stärken Sie sich in einem lokalen Bistro mit bretonischen Spezialitäten. Die entspannte Atmosphäre der Insel spiegelt sich in der Gastfreundschaft der Einheimischen wider.\n\nZum Abschluss spazieren Sie zur Plage de Ramonette, einer versteckten Bucht, die ideal für eine kurze Erfrischung im kristallklaren Wasser ist, bevor der Tag gemütlich ausklingt.",
             "hu": "A nap Le Palais bájos kikötőjében indul, ahol a színes homlokzatok köszöntik a hajók érkezését. Egy rövid emelkedő vezet a fenséges Vauban-citadellához, amely évszázadok óta őrzi az Atlanti-óceánt.\n\nDélben a rakpartok mentén sétálva élvezheti a tengeri szellőt. Az alsóváros szűk utcái megállásra és a kis művészeti galériák felfedezésére csábítanak.\n\nDélután egy helyi bisztróban breton specialitásokkal frissülhet fel. A sziget nyugodt légköre tükröződik a helyiek vendégszeretetében.\n\nZárásként sétáljon el a Ramonette strandra, amely egy rejtett öböl, ideális egy rövid frissítőre a kristálytiszta vízben, mielőtt a nap kényelmesen véget érne.",
             "ro": "Ziua începe în portul fermecător Le Palais, unde fațadele colorate salută sosirea navelor. O scurtă urcare duce la maiestuoasa Citadelă Vauban, care veghează asupra Atlanticului de secole.\n\nLa prânz, plimbați-vă de-a lungul cheiurilor și bucurați-vă de briza mării. Străzile înguste ale orașului de jos vă invită să poposiți și să descoperiți mici galerii de artă.\n\nDupă-amiaza, vă puteți delecta într-un bistro local cu specialități bretone. Atmosfera relaxată a insulei se reflectă în ospitalitatea localnicilor.\n\nLa final, mergeți la Plage de Ramonette, un golf ascuns, ideal pentru o scurtă reîmprospătare în apa cristalină, înainte ca ziua să se încheie liniștit.",
-            "en": "Your day begins in the charming port of Le Palais, where colorful facades welcome the arriving ships. A short climb leads to the majestic Vauban Citadel, which has guarded the Atlantic for centuries.\n\nAt noon, stroll along the quays and enjoy the sea breeze. The narrow streets of the lower town invite you to linger and discover small art galleries.\n\nIn the afternoon, recharge in a local bistro with Breton specialties. The island's relaxed atmosphere is reflected in the hospitality of the locals.\n\nFinally, walk to Plage de Ramonette, a hidden cove ideal for a quick dip in the crystal-clear water before the day ends peacefully."
+            "en": "Your day begins in the charming port of Le Palais, where colorful facades welcome the arriving ships. A short climb leads to the majestic Vauban Citadel, which has guarded the Atlantic for centuries.\n\nAt noon, stroll along the quays and enjoy the sea breeze. The narrow streets of the lower town invite you to linger and discover small art galleries.\n\nIn the afternoon, recharge in a local bistro with Breton specialties. The island's relaxed atmosphere is reflected in the hospitality of the locals.\n\nFinally, walk to Plage de Ramonette, a hidden cove ideal for a quick dip in the crystal-clear water before the day ends peacefully.",
+            "fr": "Votre journée commence dans le charmant port du Palais, où des façades colorées accueillent les navires arrivants. Une courte montée mène à la majestueuse Citadelle Vauban, qui a gardé l'Atlantique pendant des siècles.\n\nÀ midi, flânez le long des quais et profitez de la brise marine. Les ruelles étroites de la basse-ville invitent à s'attarder et à découvrir de petites galeries d'art.\n\nL'après-midi, rechargez-vous dans un bistrot local avec des spécialités bretonnes. L'ambiance détendue de l'île se reflète dans l'hospitalité des habitants.\n\nEnfin, marchez jusqu'à la Plage de Ramonette, une crique cachée idéale pour une baignade rapide dans une eau cristalline avant que la journée ne se termine paisiblement."
           },
           "stops": [
             {
@@ -311,13 +317,15 @@
                 "de": "Hafen von Le Palais",
                 "hu": "Le Palais kikötője",
                 "ro": "Portul Le Palais",
-                "en": "Port of Le Palais"
+                "en": "Port of Le Palais",
+                "fr": "Port du Palais"
               },
               "tip_5lang": {
                 "de": "Beobachten Sie das Einlaufen der Fähren bei einem Kaffee.",
                 "hu": "Nézze a kompok érkezését egy kávé mellett.",
                 "ro": "Urmăriți sosirea feriboturilor la o cafea.",
-                "en": "Watch the ferries arrive while enjoying a coffee."
+                "en": "Watch the ferries arrive while enjoying a coffee.",
+                "fr": "Regardez les ferries arriver en dégustant un café."
               }
             },
             {
@@ -325,13 +333,15 @@
                 "de": "Zitadelle Vauban",
                 "hu": "Vauban citadella",
                 "ro": "Citadela Vauban",
-                "en": "Vauban Citadel"
+                "en": "Vauban Citadel",
+                "fr": "Citadelle Vauban"
               },
               "tip_5lang": {
                 "de": "Buchen Sie eine Führung, um die unterirdischen Gänge zu sehen.",
                 "hu": "Foglaljon vezetést a földalatti járatok megtekintéséhez.",
                 "ro": "Rezervați un tur pentru a vedea pasajele subterane.",
-                "en": "Book a tour to see the underground passages."
+                "en": "Book a tour to see the underground passages.",
+                "fr": "Réservez une visite pour voir les passages souterrains."
               }
             },
             {
@@ -339,13 +349,15 @@
                 "de": "Quai de l'Acadie",
                 "hu": "Quai de l'Acadie sétány",
                 "ro": "Promenada Quai de l'Acadie",
-                "en": "Quai de l'Acadie"
+                "en": "Quai de l'Acadie",
+                "fr": "Quai de l'Acadie"
               },
               "tip_5lang": {
                 "de": "Hervorragender Blick auf die bunten Häuserzeilen.",
                 "hu": "Kiváló kilátás a színes házsorokra.",
                 "ro": "Vedere excelentă asupra caselor colorate.",
-                "en": "Excellent view of the colorful rows of houses."
+                "en": "Excellent view of the colorful rows of houses.",
+                "fr": "Excellente vue sur les rangées colorées de maisons."
               }
             },
             {
@@ -353,13 +365,15 @@
                 "de": "Mittagessen im Zentrum",
                 "hu": "Ebéd a belvárosban",
                 "ro": "Prânz în centru",
-                "en": "Lunch in the center"
+                "en": "Lunch in the center",
+                "fr": "Déjeuner au centre"
               },
               "tip_5lang": {
                 "de": "Probieren Sie eine Galette mit gesalzener Butter.",
                 "hu": "Kóstoljon meg egy sós vajas palacsintát.",
                 "ro": "Încercați o galetă cu unt sărat.",
-                "en": "Try a savory galette with salted butter."
+                "en": "Try a savory galette with salted butter.",
+                "fr": "Goûtez une galette salée au beurre demi-sel."
               }
             },
             {
@@ -367,13 +381,15 @@
                 "de": "Plage de Ramonette",
                 "hu": "Ramonette strand",
                 "ro": "Plaja Ramonette",
-                "en": "Ramonette Beach"
+                "en": "Ramonette Beach",
+                "fr": "Plage de Ramonette"
               },
               "tip_5lang": {
                 "de": "Der nächste Badestrand direkt am Stadtrand.",
                 "hu": "A legközelebbi fürdőstrand közvetlenül a város szélén.",
                 "ro": "Cea mai apropiată plajă chiar la marginea orașului.",
-                "en": "The nearest swimming beach right on the edge of town."
+                "en": "The nearest swimming beach right on the edge of town.",
+                "fr": "La plage de baignade la plus proche, en bordure de la ville."
               }
             }
           ],
@@ -499,6 +515,12 @@
               "The citadel is often only partially accessible on Mondays.",
               "Wear comfortable shoes for the cobblestone streets.",
               "Watch the tides when visiting beaches."
+            ],
+            "fr": [
+              "Réservez le ferry à l'avance, surtout en été.",
+              "La citadelle est souvent seulement partiellement accessible le lundi.",
+              "Portez des chaussures confortables pour les rues pavées.",
+              "Regardez les marées lorsque vous visitez les plages."
             ]
           }
         },
@@ -508,7 +530,7 @@
             "hu": "Az esős reggel Le Palais kikötőjében indul, de a Vauban-citadella vastag falai tökéletes menedéket és történelmi kalandot nyújtanak. Ebédre a kikötő menti bisztrók melegébe húzódunk az atlanti eső elől. Délután a Ramonette strand vad, szeles arcát csodáljuk meg vízhatlan ruhában, majd az estét a városközpont egyik hangulatos, fedett teraszán zárjuk egy forró itallal.",
             "ro": "O dimineață ploioasă începe în portul Le Palais, dar Citadela Vauban oferă adăpostul perfect și o incursiune în istoria insulei. La prânz, ne retragem în bistrourile primitoare de pe chei pentru a scăpa de ploaia atlantică. După-amiaza aparține atmosferei dramatice de pe plaja Ramonette, unde spuma mării se contopește cu ploaia, înainte de a încheia seara la căldură, în centrul orașului.",
             "en": "A rainy morning starts at Le Palais port, but the massive Vauban Citadel provides perfect shelter and a deep dive into island history. At noon, we retreat to cozy bistros along the quay to escape the Atlantic rain. The afternoon belongs to the raw coastal atmosphere at Ramonette Beach, where sea spray meets the rain, before ending the evening dry and comfortable in the town center.",
-            "fr": "Une matinée pluvieuse commence au port de Le Palais, mais l'imposante Citadelle Vauban offre un abri parfait pour une immersion dans l'histoire de l'île. À midi, nous nous retirons dans les bistrots chaleureux le long du quai pour échapper à la pluie atlantique. L'après-midi est consacré à l'atmosphère sauvage de la plage de Ramonette, où les embruns rencontrent la pluie, avant de terminer la soirée au sec et confortablement dans le centre-ville."
+            "fr": "Une matinée pluvieuse commence au port du Palais, mais la massive Citadelle Vauban offre un abri parfait et une plongée profonde dans l'histoire de l'île. À midi, nous nous réfugions dans des bistrots chaleureux le long du quai pour échapper à la pluie atlantique. L'après-midi appartient à l'atmosphère côtière brute de la Plage de Ramonette, où les embruns rencontrent la pluie, avant de terminer la soirée au sec et confortablement au centre-ville."
           },
           "stops": [
             {
@@ -518,7 +540,7 @@
                 "hu": "A kikötői üzletek árkádjai alatt védelmet találunk az első záporok elől.",
                 "ro": "Sub arcadele magazinelor din port găsiți protecție împotriva primelor averse.",
                 "en": "Under the arcades of the harbor shops, you can find shelter from the first showers.",
-                "fr": "Sous les arcades des boutiques du port, vous trouverez un abri dès les premières averses."
+                "fr": "Sous les arcades des boutiques du port, vous pouvez trouver un abri lors des premières averses."
               }
             },
             {
@@ -538,7 +560,7 @@
                 "hu": "Rövid, viharos séta; ügyeljen a csúszós macskakövekre a parton.",
                 "ro": "O plimbare scurtă și furtunoasă; atenție la pavajul alunecos de pe chei.",
                 "en": "A short, stormy walk; watch out for slippery cobblestones along the quay.",
-                "fr": "Une courte marche venteuse ; attention aux pavés glissants le long du quai."
+                "fr": "Une courte promenade orageuse ; attention aux pavés glissants le long du quai."
               }
             },
             {
@@ -549,7 +571,7 @@
                 "hu": "Válasszon üvegteraszos éttermet, hogy élvezze az eső látványát az ebéd mellé.",
                 "ro": "Alegeți un restaurant cu verandă pentru a vă bucura de vederea ploii în timp ce mâncați.",
                 "en": "Choose a restaurant with a conservatory to enjoy the view of the rain while dining.",
-                "fr": "Choisissez un restaurant avec véranda pour profiter de la vue sur la pluie tout en dînant."
+                "fr": "Choisissez un restaurant avec une véranda pour profiter de la vue sur la pluie pendant le repas."
               }
             },
             {
@@ -559,7 +581,7 @@
                 "hu": "Tökéletes a vihar megfigyeléséhez, de tartson távolságot a hullámzó tengertől.",
                 "ro": "Perfect pentru observarea furtunii, dar păstrați distanța față de mare.",
                 "en": "Perfect for storm-watching, but keep a safe distance from the surging tide.",
-                "fr": "Parfait pour observer la tempête, mais restez à distance de sécurité de la marée montante."
+                "fr": "Parfait pour observer la tempête, mais gardez une distance de sécurité par rapport à la marée montante."
               }
             }
           ],
@@ -593,11 +615,11 @@
               "Harbor bistros fill up quickly when it rains, so arrive early."
             ],
             "fr": [
-              "Des vêtements entièrement imperméables sont obligatoires sur l'île.",
+              "Un vêtement totalement imperméable est obligatoire sur l'île.",
               "La Citadelle est le meilleur endroit pour passer de longues périodes de pluie.",
-              "Utilisez des parapluies résistants au vent ; le vent de l'Atlantique est ici très fort.",
+              "Utilisez des parapluies coupe-vent ; le vent de l'Atlantique y est très fort.",
               "Profitez-en pour visiter le musée de l'île à l'intérieur de la forteresse.",
-              "Les bistrots du port se remplissent vite quand il pleut, arrivez tôt."
+              "Les bistros du port se remplissent rapidement quand il pleut, arrivez tôt."
             ]
           }
         },
@@ -607,7 +629,7 @@
             "hu": "A friss téli levegő Le Palais kikötőjében felfrissít, miközben a citadella magányos büszkeséggel trónol a tenger felett. Ebédre a holtszezon nyugalmát élvezzük egy melengető egytálétellel a csendes városközpontban. A rövid délután a Quai de l'Acadie-n ér minket, mielőtt az 5 órai naplemente aranyba vonná a várfalakat, mi pedig a szállásunk melegébe vonulunk.",
             "ro": "Aerul proaspăt de iarnă din portul Le Palais este revigorant, în timp ce citadela tronează cu o mândrie solitară deasupra mării. La prânz, ne bucurăm de liniștea sezonului rece cu o tocană caldă în centrul gol al orașului. Scurta după-amiază ne poartă pe Quai de l'Acadie, înainte ca apusul de la ora 17 să scalde zidurile fortăreței în lumină aurie.",
             "en": "The crisp winter air in Le Palais harbor is refreshing, while the Citadel stands in solitary splendor above the sea. At noon, enjoy the off-season peace with a warming stew in the quiet town center. The short afternoon leads to Quai de l'Acadie before the 5 PM sunset bathes the fortress walls in golden light, signaling a retreat to the warmth.",
-            "fr": "L'air pur de l'hiver sur le port de Le Palais est rafraîchissant, tandis que la Citadelle se dresse dans sa splendeur solitaire au-dessus de la mer. À midi, profitez du calme hors saison avec un ragoût réconfortant dans le centre-ville tranquille. Le court après-midi mène au quai de l'Acadie avant que le coucher du soleil de 17h ne baigne les murs de la forteresse d'une lumière dorée, signalant le retour au chaud."
+            "fr": "L'air vif d'hiver dans le port du Palais est revigorant, tandis que la Citadelle se dresse en solitaire au-dessus de la mer. À midi, profitez de la paix hors saison avec un ragoût réconfortant dans le centre-ville tranquille. La courte après-midi mène au Quai de l'Acadie avant que le coucher du soleil de 17h n'illumine les murs de la forteresse d'une lumière dorée, signalant un retrait vers la chaleur."
           },
           "stops": [
             {
@@ -617,7 +639,7 @@
                 "hu": "Élvezze a csendet a nyári turistaáradat nélkül.",
                 "ro": "Bucurați-vă de liniștea portului fără mulțimile de turiști de vară.",
                 "en": "Enjoy the silence of the harbor without the summer tourist crowds.",
-                "fr": "Profitez du silence du port sans les foules de touristes de l'été."
+                "fr": "Profitez du silence du port sans les foules touristiques estivales."
               }
             },
             {
@@ -637,7 +659,7 @@
                 "hu": "Az alacsony téli napállás fantasztikus fényeket kínál a fotózáshoz.",
                 "ro": "Soarele jos de iarnă oferă o lumină fantastică pentru fotografii.",
                 "en": "The low winter sun provides fantastic light for photography.",
-                "fr": "Le soleil bas d'hiver offre une lumière fantastique pour la photographie."
+                "fr": "Le faible soleil d'hiver offre une lumière fantastique pour la photographie."
               }
             },
             {
@@ -647,7 +669,7 @@
                 "hu": "Ellenőrizze a nyitvatartást; télen kevesebb hely van nyitva.",
                 "ro": "Verificați programul; iarna sunt deschise mai puține localuri.",
                 "en": "Check opening hours; fewer places are open during the winter season.",
-                "fr": "Vérifiez les horaires d'ouverture ; moins d'endroits sont ouverts en saison hivernale."
+                "fr": "Vérifiez les heures d'ouverture ; moins d'établissements sont ouverts en saison hivernale."
               }
             },
             {
@@ -657,7 +679,7 @@
                 "hu": "Magányos tengerparti séta; tökéletes a feltöltődéshez.",
                 "ro": "O plimbare solitară pe plajă; perfectă pentru relaxare.",
                 "en": "A solitary beach walk; perfect for clearing your head.",
-                "fr": "Une promenade solitaire sur la plage ; parfait pour se vider la tête."
+                "fr": "Une promenade solitaire sur la plage ; parfaite pour se vider la tête."
               }
             }
           ],
@@ -691,9 +713,9 @@
               "The Citadel has restricted visiting hours during winter."
             ],
             "fr": [
-              "Le soleil se couche dès 17h00.",
-              "De nombreux cafés sont fermés pour les vacances d'hiver ; prévoyez à l'avance.",
-              "Les ferries circulent moins fréquemment et dépendent des conditions météo.",
+              "Le coucher du soleil a lieu dès 17h00.",
+              "Beaux cafés sont fermés pour les vacances d'hiver ; planifiez à l'avance.",
+              "Les ferries circulent moins fréquemment et sont soumis aux conditions météorologiques.",
               "Portez des vêtements coupe-vent même si le soleil brille.",
               "La Citadelle a des horaires de visite restreints pendant l'hiver."
             ]
@@ -714,7 +736,8 @@
             "de": "Hafen von Le Palais",
             "hu": "Le Palais kikötője",
             "ro": "Portul Le Palais",
-            "en": "Port of Le Palais"
+            "en": "Port of Le Palais",
+            "fr": "Port du Palais"
           },
           "coords": [
             -3.153,
@@ -730,7 +753,7 @@
             "hu": "Béreljen elektromos kerékpárt közvetlenül a rakparton.",
             "ro": "Închiriați o bicicletă electrică direct pe chei.",
             "en": "Rent your e-bike directly on the quay.",
-            "fr": "Louez votre vélo électrique directement sur le quai."
+            "fr": "Louez votre VAE directement sur le quai."
           }
         },
         {
@@ -738,7 +761,8 @@
             "de": "Hafen von Sauzon",
             "hu": "Sauzon kikötője",
             "ro": "Portul Sauzon",
-            "en": "Port of Sauzon"
+            "en": "Port of Sauzon",
+            "fr": "Port de Sauzon"
           },
           "coords": [
             -3.218,
@@ -762,7 +786,8 @@
             "de": "Pointe des Poulains",
             "hu": "Poulains-fok",
             "ro": "Pointe des Poulains",
-            "en": "Pointe des Poulains"
+            "en": "Pointe des Poulains",
+            "fr": "Pointe des Poulains"
           },
           "coords": [
             -3.251,
@@ -786,7 +811,8 @@
             "de": "Fort von Sarah Bernhardt",
             "hu": "Sarah Bernhardt erőd",
             "ro": "Fortul Sarah Bernhardt",
-            "en": "Sarah Bernhardt's Fort"
+            "en": "Sarah Bernhardt's Fort",
+            "fr": "Fort de Sarah Bernhardt"
           },
           "coords": [
             -3.249,
@@ -802,7 +828,7 @@
             "hu": "A híres tragika egykori nyaralója.",
             "ro": "Fosta casă de vară a celebrei actrițe.",
             "en": "The former summer home of the famous actress.",
-            "fr": "L'ancienne résidence d'été de la célèbre actrice."
+            "fr": "L'ancienne maison d'été de la célèbre actrice."
           }
         },
         {
@@ -810,7 +836,8 @@
             "de": "Grotte de l'Apothicairerie",
             "hu": "Patika-barlang",
             "ro": "Grotte de l'Apothicairerie",
-            "en": "Apothicairerie Cave"
+            "en": "Apothicairerie Cave",
+            "fr": "Grotte de l'Apothicairerie"
           },
           "coords": [
             -3.258,
@@ -834,7 +861,8 @@
             "de": "Großer Leuchtturm (Goulphar)",
             "hu": "Goulphar világítótorony",
             "ro": "Marele Far (Goulphar)",
-            "en": "Grand Lighthouse (Goulphar)"
+            "en": "Grand Lighthouse (Goulphar)",
+            "fr": "Grand Phare (Goulphar)"
           },
           "coords": [
             -3.22,
@@ -859,7 +887,7 @@
         "hu": "Kerékpárral fedezheti fel Belle-Île valódi kiterjedését. Le Palais-ból az út Sauzonba vezet, amely egy mesébe illő halászfalu. A friss tengeri levegő kíséri útját az északi csúcs felé.\n\nA Pointe des Poulains-nál az ég és a tenger összeolvad. Itt lakott egykor Sarah Bernhardt, akit lenyűgözött a sziklák vad szépsége. A csend és az inspiráció helye ez.\n\nAz útvonal tovább halad a Côte Sauvage mentén. Az Apothicairerie-barlang megmutatja az Atlanti-óceán féktelen erejét, amely évezredek alatt formálta a sziklákat.\n\nZárásként eléri a Goulphar világítótornyot. A fentről nyíló kilátás az egész szigetre a jutalom a tekerésért, mielőtt visszatérne a kikötőbe.",
         "ro": "Cu bicicleta veți descoperi adevărata întindere a insulei Belle-Île. De la Le Palais, drumul duce spre Sauzon, un sat de pescari desprins din cărțile poștale. Aerul proaspăt al mării vă însoțește spre vârful nordic.\n\nLa Pointe des Poulains, cerul și marea se contopesc. Aici a locuit cândva Sarah Bernhardt, fermecată de frumusețea sălbatică a stâncilor. Un loc de liniște și inspirație.\n\nTraseul continuă de-a lungul Côte Sauvage. Grotte de l'Apothicairerie arată forța neîmblânzită a Atlanticului, care a modelat stâncile de milenii.\n\nLa final, ajungeți la Marele Far din Goulphar. Vederea de sus peste întreaga insulă este răsplata pentru drum, înainte de a vă întoarce în port.",
         "en": "By bike, you will discover the true expanse of Belle-Île. From Le Palais, the path leads to Sauzon, a picture-perfect fishing village. The fresh sea air accompanies you on your way to the northern tip.\n\nAt Pointe des Poulains, sky and sea merge. Sarah Bernhardt once resided here, enchanted by the wild beauty of the cliffs. A place of silence and inspiration.\n\nThe route continues along the Côte Sauvage. The Grotte de l'Apothicairerie shows the irrepressible power of the Atlantic, which has shaped the rocks over millennia.\n\nFinally, you reach the Grand Lighthouse of Goulphar. The view from the top over the entire island is the reward for the ride before heading back to the port.",
-        "fr": "À vélo, vous découvrirez la véritable étendue de Belle-Île. Depuis Le Palais, le chemin mène à Sauzon, un village de pêcheurs digne d'une carte postale. L'air pur de la mer vous accompagne sur votre route vers la pointe nord.\n\nÀ la Pointe des Poulains, le ciel et la mer se confondent. Sarah Bernhardt y résida autrefois, enchantée par la beauté sauvage des falaises. Un lieu de silence et d'inspiration.\n\nL'itinéraire se poursuit le long de la Côte Sauvage. La Grotte de l'Apothicairerie montre la puissance irrépressible de l'Atlantique, qui a façonné les rochers au fil des millénaires.\n\nEnfin, vous atteignez le Grand Phare de Goulphar. La vue du sommet sur toute l'île est la récompense de l'effort avant de retourner vers le port."
+        "fr": "À vélo, vous découvrirez la véritable étendue de Belle-Île. Depuis le Palais, le chemin mène à Sauzon, un village de pêcheurs digne d'une carte postale. L'air marin frais vous accompagne jusqu'à la pointe nord.\n\nÀ la Pointe des Poulains, ciel et mer se confondent. Sarah Bernhardt y résida autrefois, envoûtée par la beauté sauvage des falaises. Un lieu de silence et d'inspiration.\n\nL'itinéraire se poursuit le long de la Côte Sauvage. La Grotte de l'Apothicairerie témoigne de la puissance irrépressible de l'Atlantique, qui a façonné les rochers pendant des millénaires.\n\nEnfin, vous atteignez le Grand Phare de Goulphar. La vue du sommet sur l'ensemble de l'île est la récompense de la balade avant de retourner au port."
       },
       "gastro_picks": {
         "de": [
@@ -988,10 +1016,10 @@
           "Check the wind report before departure."
         ],
         "fr": [
-          "Les vélos électriques sont fortement recommandés en raison du paysage vallonné.",
-          "Prenez assez d'eau avec vous, les chemins sont ensoleillés.",
+          "Les VAE sont fortement recommandés en raison du relief vallonné.",
+          "Emportez suffisamment d'eau, les chemins sont ensoleillés.",
           "Évitez les routes principales et utilisez les pistes cyclables balisées.",
-          "Vérifiez le bulletin météo pour le vent avant le départ."
+          "Vérifiez le bulletin de vent avant le départ."
         ]
       },
       "variants": {
@@ -1000,7 +1028,8 @@
             "de": "Mit dem Rad entdecken Sie die wahre Weite der Belle-Île. Von Le Palais führt der Weg nach Sauzon, einem Fischerort wie aus dem Bilderbuch. Die frische Meeresluft begleitet Sie auf dem Weg zur Nordspitze.\n\nAn der Pointe des Poulains verschmelzen Himmel und Meer. Hier residierte einst Sarah Bernhardt, verzaubert von der wilden Schönheit der Klippen. Ein Ort der Stille und Inspiration.\n\nDie Route führt weiter entlang der Côte Sauvage. Die Grotte de l'Apothicairerie zeigt die unbändige Kraft des Atlantiks, der die Felsen über Jahrtausende geformt hat.\n\nZum Abschluss erreichen Sie den Großen Leuchtturm von Goulphar. Der Blick von oben über die gesamte Insel ist die Belohnung für die Fahrt, bevor es zurück zum Hafen geht.",
             "hu": "Kerékpárral fedezheti fel Belle-Île valódi kiterjedését. Le Palais-ból az út Sauzonba vezet, amely egy mesébe illő halászfalu. A friss tengeri levegő kíséri útját az északi csúcs felé.\n\nA Pointe des Poulains-nál az ég és a tenger összeolvad. Itt lakott egykor Sarah Bernhardt, akit lenyűgözött a sziklák vad szépsége. A csend és az inspiráció helye ez.\n\nAz útvonal tovább halad a Côte Sauvage mentén. Az Apothicairerie-barlang megmutatja az Atlanti-óceán féktelen erejét, amely évezredek alatt formálta a sziklákat.\n\nZárásként eléri a Goulphar világítótornyot. A fentről nyíló kilátás az egész szigetre a jutalom a tekerésért, mielőtt visszatérne a kikötőbe.",
             "ro": "Cu bicicleta veți descoperi adevărata întindere a insulei Belle-Île. De la Le Palais, drumul duce spre Sauzon, un sat de pescari desprins din cărțile poștale. Aerul proaspăt al mării vă însoțește spre vârful nordic.\n\nLa Pointe des Poulains, cerul și marea se contopesc. Aici a locuit cândva Sarah Bernhardt, fermecată de frumusețea sălbatică a stâncilor. Un loc de liniște și inspirație.\n\nTraseul continuă de-a lungul Côte Sauvage. Grotte de l'Apothicairerie arată forța neîmblânzită a Atlanticului, care a modelat stâncile de milenii.\n\nLa final, ajungeți la Marele Far din Goulphar. Vederea de sus peste întreaga insulă este răsplata pentru drum, înainte de a vă întoarce în port.",
-            "en": "By bike, you will discover the true expanse of Belle-Île. From Le Palais, the path leads to Sauzon, a picture-perfect fishing village. The fresh sea air accompanies you on your way to the northern tip.\n\nAt Pointe des Poulains, sky and sea merge. Sarah Bernhardt once resided here, enchanted by the wild beauty of the cliffs. A place of silence and inspiration.\n\nThe route continues along the Côte Sauvage. The Grotte de l'Apothicairerie shows the irrepressible power of the Atlantic, which has shaped the rocks over millennia.\n\nFinally, you reach the Grand Lighthouse of Goulphar. The view from the top over the entire island is the reward for the ride before heading back to the port."
+            "en": "By bike, you will discover the true expanse of Belle-Île. From Le Palais, the path leads to Sauzon, a picture-perfect fishing village. The fresh sea air accompanies you on your way to the northern tip.\n\nAt Pointe des Poulains, sky and sea merge. Sarah Bernhardt once resided here, enchanted by the wild beauty of the cliffs. A place of silence and inspiration.\n\nThe route continues along the Côte Sauvage. The Grotte de l'Apothicairerie shows the irrepressible power of the Atlantic, which has shaped the rocks over millennia.\n\nFinally, you reach the Grand Lighthouse of Goulphar. The view from the top over the entire island is the reward for the ride before heading back to the port.",
+            "fr": "À vélo, vous découvrirez la véritable étendue de Belle-Île. Depuis le Palais, le chemin mène à Sauzon, un village de pêcheurs digne d'une carte postale. L'air marin frais vous accompagne jusqu'à la pointe nord.\n\nÀ la Pointe des Poulains, ciel et mer se confondent. Sarah Bernhardt y résida autrefois, envoûtée par la beauté sauvage des falaises. Un lieu de silence et d'inspiration.\n\nL'itinéraire se poursuit le long de la Côte Sauvage. La Grotte de l'Apothicairerie témoigne de la puissance irrépressible de l'Atlantique, qui a façonné les rochers pendant des millénaires.\n\nEnfin, vous atteignez le Grand Phare de Goulphar. La vue du sommet sur l'ensemble de l'île est la récompense de la balade avant de retourner au port."
           },
           "stops": [
             {
@@ -1008,13 +1037,15 @@
                 "de": "Hafen von Le Palais",
                 "hu": "Le Palais kikötője",
                 "ro": "Portul Le Palais",
-                "en": "Port of Le Palais"
+                "en": "Port of Le Palais",
+                "fr": "Port du Palais"
               },
               "tip_5lang": {
                 "de": "Mieten Sie Ihr E-Bike direkt am Quai.",
                 "hu": "Béreljen elektromos kerékpárt közvetlenül a rakparton.",
                 "ro": "Închiriați o bicicletă electrică direct pe chei.",
-                "en": "Rent your e-bike directly on the quay."
+                "en": "Rent your e-bike directly on the quay.",
+                "fr": "Louez votre VAE directement sur le quai."
               }
             },
             {
@@ -1022,13 +1053,15 @@
                 "de": "Hafen von Sauzon",
                 "hu": "Sauzon kikötője",
                 "ro": "Portul Sauzon",
-                "en": "Port of Sauzon"
+                "en": "Port of Sauzon",
+                "fr": "Port de Sauzon"
               },
               "tip_5lang": {
                 "de": "Das malerischste Fischerdorf der Insel.",
                 "hu": "A sziget legfestőibb halászfaluja.",
                 "ro": "Cel mai pitoresc sat de pescari de pe insulă.",
-                "en": "The most picturesque fishing village on the island."
+                "en": "The most picturesque fishing village on the island.",
+                "fr": "Le village de pêcheurs le plus pittoresque de l'île."
               }
             },
             {
@@ -1036,13 +1069,15 @@
                 "de": "Pointe des Poulains",
                 "hu": "Poulains-fok",
                 "ro": "Pointe des Poulains",
-                "en": "Pointe des Poulains"
+                "en": "Pointe des Poulains",
+                "fr": "Pointe des Poulains"
               },
               "tip_5lang": {
                 "de": "Besuchen Sie den Leuchtturm bei Ebbe zu Fuß.",
                 "hu": "Apálykor gyalog is megközelítheti a világítótornyot.",
                 "ro": "Vizitați farul pe jos în timpul refluxului.",
-                "en": "Visit the lighthouse on foot during low tide."
+                "en": "Visit the lighthouse on foot during low tide.",
+                "fr": "Visitez le phare à pied à marée basse."
               }
             },
             {
@@ -1050,13 +1085,15 @@
                 "de": "Fort von Sarah Bernhardt",
                 "hu": "Sarah Bernhardt erőd",
                 "ro": "Fortul Sarah Bernhardt",
-                "en": "Sarah Bernhardt's Fort"
+                "en": "Sarah Bernhardt's Fort",
+                "fr": "Fort de Sarah Bernhardt"
               },
               "tip_5lang": {
                 "de": "Das ehemalige Sommerhaus der berühmten Tragödin.",
                 "hu": "A híres tragika egykori nyaralója.",
                 "ro": "Fosta casă de vară a celebrei actrițe.",
-                "en": "The former summer home of the famous actress."
+                "en": "The former summer home of the famous actress.",
+                "fr": "L'ancienne maison d'été de la célèbre actrice."
               }
             },
             {
@@ -1064,13 +1101,15 @@
                 "de": "Grotte de l'Apothicairerie",
                 "hu": "Patika-barlang",
                 "ro": "Grotte de l'Apothicairerie",
-                "en": "Apothicairerie Cave"
+                "en": "Apothicairerie Cave",
+                "fr": "Grotte de l'Apothicairerie"
               },
               "tip_5lang": {
                 "de": "Spektakuläre Klippenformationen an der Wildküste.",
                 "hu": "Látványos sziklaformációk a vadparton.",
                 "ro": "Formațiuni spectaculoase de stânci pe coasta sălbatică.",
-                "en": "Spectacular cliff formations on the wild coast."
+                "en": "Spectacular cliff formations on the wild coast.",
+                "fr": "Formations rocheuses spectaculaires sur la côte sauvage."
               }
             },
             {
@@ -1078,13 +1117,15 @@
                 "de": "Großer Leuchtturm (Goulphar)",
                 "hu": "Goulphar világítótorony",
                 "ro": "Marele Far (Goulphar)",
-                "en": "Grand Lighthouse (Goulphar)"
+                "en": "Grand Lighthouse (Goulphar)",
+                "fr": "Grand Phare (Goulphar)"
               },
               "tip_5lang": {
                 "de": "Steigen Sie hinauf für einen 360-Grad-Inselblick.",
                 "hu": "Másszon fel a 360 fokos szigeti panorámáért.",
                 "ro": "Urcați pentru o vedere de 360 de grade asupra insulei.",
-                "en": "Climb up for a 360-degree island view."
+                "en": "Climb up for a 360-degree island view.",
+                "fr": "Montez pour une vue à 360 degrés sur l'île."
               }
             }
           ],
@@ -1194,6 +1235,12 @@
               "Take enough water with you, the paths are sunny.",
               "Avoid main roads and use the marked cycle paths.",
               "Check the wind report before departure."
+            ],
+            "fr": [
+              "Les VAE sont fortement recommandés en raison du relief vallonné.",
+              "Prenez suffisamment d'eau avec vous, les sentiers sont exposés au soleil.",
+              "Évitez les routes principales et utilisez les pistes cyclables balisées.",
+              "Vérifiez le bulletin de vent avant le départ."
             ]
           }
         },
@@ -1203,7 +1250,7 @@
             "hu": "Az eső ellenére Le Palais-ból indulunk, esőruhában tekerve Sauzon felé, ahol a színes kikötő vibrál a ködben. Délben érjük el a Pointe des Poulains-t; a dübörgő hullámok drámai látványt nyújtanak. Sarah Bernhardt erődje után óvatosan haladunk a Goulphar világítótoronyhoz a csúszós utakon, végül vizesen, de felejthetetlen élményekkel térünk vissza.",
             "ro": "În ciuda ploii, pornim din Le Palais echipați pentru drumul spre Sauzon, unde portul colorat strălucește în ceață. La prânz ajungem la Pointe des Poulains; valurile înfuriate oferă un spectacol dramatic. După vizita la fortul lui Sarah Bernhardt, pedalăm cu grijă spre farul Goulphar pe drumuri alunecoase, întorcându-ne uzi, dar impresionați.",
             "en": "Despite the rain, we set off from Le Palais, armed with waterproofs for the ride to Sauzon, where the colorful harbor glows in the mist. At noon, we reach Pointe des Poulains; the crashing waves offer a dramatic spectacle. After Sarah Bernhardt's Fort, we navigate carefully to the Goulphar Lighthouse on slippery paths, returning soaked but deeply impressed.",
-            "fr": "Malgré la pluie, nous partons de Le Palais, équipés d'imperméables pour la balade vers Sauzon, où le port coloré brille dans la brume. À midi, nous atteignons la Pointe des Poulains ; les vagues déchaînées offrent un spectacle dramatique. Après le fort de Sarah Bernhardt, nous naviguons prudemment vers le phare de Goulphar sur des chemins glissants, revenant trempés mais profondément impressionnés."
+            "fr": "Malgré la pluie, nous sommes partis de Le Palais, équipés d'imperméables pour la traversée jusqu'à Sauzon, où le port coloré brille dans la brume. À midi, nous atteignons la Pointe des Poulains ; les vagues déferlantes offrent un spectacle dramatique. Après le fort de Sarah Bernhardt, nous naviguons prudemment vers le phare de Goulphar sur des sentiers glissants, revenant trempés mais profondément impressionnés."
           },
           "stops": [
             {
@@ -1213,7 +1260,7 @@
                 "hu": "Ellenőrizze a guminyomást; a vizes utak több tapadást igényelnek.",
                 "ro": "Verificați presiunea în anvelope; drumurile ude necesită aderență sporită.",
                 "en": "Check tire pressure; wet roads require better grip.",
-                "fr": "Vérifiez la pression des pneus ; les routes mouillées nécessitent une meilleure adhérence."
+                "fr": "Vérifiez la pression des pneus ; sur routes mouillées, l'adhérence est primordiale."
               }
             },
             {
@@ -1233,7 +1280,7 @@
                 "hu": "Vigyázat a leszálláskor; a sziklák esőben rendkívül csúszósak.",
                 "ro": "Atenție la coborâre; stâncile sunt extrem de alunecoase pe ploaie.",
                 "en": "Caution when dismounting; the rocks are extremely slippery when wet.",
-                "fr": "Prudence en descendant de vélo ; les rochers sont extrêmement glissants lorsqu'ils sont mouillés."
+                "fr": "Attention en descendant ; les rochers sont extrêmement glissants lorsqu'ils sont mouillés."
               }
             },
             {
@@ -1243,7 +1290,7 @@
                 "hu": "Jó hely egy száraz pihenőre a látogatás során.",
                 "ro": "Un loc bun pentru o pauză la adăpost în timpul vizitei.",
                 "en": "A good place for a dry break during your visit.",
-                "fr": "Un bon endroit pour une pause au sec pendant votre visite."
+                "fr": "Un bon endroit pour une pause à l'abri pendant votre visite."
               }
             },
             {
@@ -1253,7 +1300,7 @@
                 "hu": "Tartson távolságot a szélétől; a talaj váratlanul megcsúszhat.",
                 "ro": "Păstrați distanța față de margine; solul poate ceda neașteptat.",
                 "en": "Keep your distance from the edge; the ground can give way unexpectedly.",
-                "fr": "Restez à distance du bord ; le sol peut s'affaisser de manière inattendue."
+                "fr": "Gardez vos distances du bord ; le sol peut céder de façon inattendue."
               }
             },
             {
@@ -1263,7 +1310,7 @@
                 "hu": "A feljutás fárasztó, de fent védve lesz az esőtől.",
                 "ro": "Urcarea este obositoare, dar sus sunteți protejați de ploaie.",
                 "en": "The climb is strenuous, but inside you'll be sheltered from the rain.",
-                "fr": "La montée est pénible, mais à l'intérieur vous serez à l'abri de la pluie."
+                "fr": "La montée est éprouvante, mais à l'intérieur vous serez à l'abri de la pluie."
               }
             }
           ],
@@ -1297,10 +1344,10 @@
               "A hot drink in Sauzon works wonders against the cold."
             ],
             "fr": [
-              "Évitez les sentiers côtiers ; utilisez les routes goudronnées quand il pleut.",
+              "Évitez les sentiers côtiers ; empruntez les routes goudronnées quand il pleut.",
               "Les ralentisseurs et les marquages au sol sont extrêmement glissants.",
-              "Une protection faciale contre la pluie aide contre le vent et la pluie cinglants.",
-              "Vérifiez soigneusement vos freins avant de partir.",
+              "Une protection intégrale contre la pluie aide contre le vent coupant et la pluie.",
+              "Contrôlez soigneusement vos freins avant de partir.",
               "Une boisson chaude à Sauzon fait des merveilles contre le froid."
             ]
           }
@@ -1311,7 +1358,7 @@
             "hu": "A tiszta téli nap Sauzon felé hív, ahol a hideg élesíti az érzékeket. A Pointe des Poulains szinte mágikus az alacsony napfényben, még ha a szél jeges is. Sarah Bernhardt erődje után gyorsan tekerünk tovább a Goulphar világítótoronyhoz, hogy még a korai sötétedés előtt odaérjünk, miközben a táj téli álomba merül.",
             "ro": "O zi senină de iarnă ne invită la un tur spre Sauzon, unde frigul ascute simțurile. Pointe des Poulains pare magică sub soarele jos, chiar dacă vântul este înghețat. După vizita la Sarah Bernhardt, pedalăm rapid spre farul Goulphar pentru a ajunge înainte de lăsarea întunericului.",
             "en": "A clear winter day invites a tour to Sauzon, where the cold sharpens the senses. Pointe des Poulains looks magical in the low sun, even with an icy wind. After visiting Sarah Bernhardt's Fort, we cycle briskly toward the Goulphar Lighthouse to beat the early sunset, while the landscape lies in silent winter peace.",
-            "fr": "Une journée d'hiver claire invite à une excursion vers Sauzon, où le froid aiguise les sens. La Pointe des Poulains est magique sous le soleil bas, même avec un vent glacial. Après avoir visité le fort de Sarah Bernhardt, nous pédalons vivement vers le phare de Goulphar pour devancer le coucher de soleil précoce, tandis que le paysage repose dans la paix silencieuse de l'hiver."
+            "fr": "Une journée d'hiver claire invite à une excursion à Sauzon, où le froid aiguise les sens. La Pointe des Poulains paraît magique sous le faible soleil, même avec un vent glacial. Après la visite du fort de Sarah Bernhardt, nous pédalons d'un bon pas vers le phare de Goulphar pour devancer le coucher du soleil, tandis que le paysage repose dans une silencieuse paix hivernale."
           },
           "stops": [
             {
@@ -1321,7 +1368,7 @@
                 "hu": "Később induljon, hogy az utakon az éjszakai fagy felengedjen.",
                 "ro": "Porniți mai târziu, ca să se topească bruma de pe drumuri.",
                 "en": "Start later in the morning to allow any overnight frost to melt.",
-                "fr": "Commencez plus tard le matin pour laisser fondre le givre éventuel de la nuit."
+                "fr": "Commencez plus tard le matin pour permettre à d'éventuelles gelées nocturnes de fondre."
               }
             },
             {
@@ -1331,7 +1378,7 @@
                 "hu": "Tökéletes egy melengető szünetre egy finom galette mellett.",
                 "ro": "Perfect pentru o pauză de încălzire cu o clătită bretonă.",
                 "en": "Perfect for a warming break with a traditional galette.",
-                "fr": "Parfait pour une pause réchauffante avec une galette traditionnelle."
+                "fr": "Parfait pour une pause réconfortante autour d'une galette traditionnelle."
               }
             },
             {
@@ -1341,7 +1388,7 @@
                 "hu": "Itt a legerősebb a szél; viseljen szélálló külső réteget.",
                 "ro": "Vântul este cel mai puternic aici; purtați un strat rezistent.",
                 "en": "The wind is strongest here; wear a windproof outer layer.",
-                "fr": "Le vent est le plus fort ici ; portez une couche extérieure coupe-vent."
+                "fr": "Le vent est plus fort ici ; portez une couche extérieure coupe-vent."
               }
             },
             {
@@ -1361,7 +1408,7 @@
                 "hu": "Használja ki a nappali fényt; az árnyékban a sziklák hamar komorrá válnak.",
                 "ro": "Profitați de lumina zilei; stâncile par întunecate rapid la umbră.",
                 "en": "Make the most of the daylight; the rocks darken quickly in the shadows.",
-                "fr": "Profitez au maximum de la lumière du jour ; les rochers s'assombrissent vite à l'ombre."
+                "fr": "Profitez de la lumière du jour ; les rochers s'assombrissent rapidement à l'ombre."
               }
             },
             {
@@ -1405,11 +1452,11 @@
               "Plan your route to ensure you return before 5 PM."
             ],
             "fr": [
-              "Portez des gants de cyclisme thermiques pour vous protéger du refroidissement éolien.",
+              "Portez des gants de cyclisme thermiques pour vous protéger du froid éolien.",
               "Notez les horaires d'ouverture réduits des loueurs de vélos.",
-              "Les feux avant et arrière sont essentiels après 16h30.",
+              "Éclairages avant et arrière indispensables après 16h30.",
               "Emportez un thermos avec une boisson chaude pour le trajet.",
-              "Planifiez votre itinéraire pour vous assurer de rentrer avant 17h."
+              "Planifiez votre itinéraire pour vous assurer de revenir avant 17h."
             ]
           }
         }
@@ -1428,7 +1475,8 @@
             "de": "Zitadelle Vauban",
             "hu": "Vauban citadella",
             "ro": "Citadela Vauban",
-            "en": "Vauban Citadel"
+            "en": "Vauban Citadel",
+            "fr": "Citadelle de Vauban"
           },
           "coords": [
             -3.151,
@@ -1444,7 +1492,7 @@
             "hu": "Parkolóhelyeket közvetlenül a bejárat előtt talál.",
             "ro": "Găsiți locuri de parcare chiar în fața intrării.",
             "en": "You will find parking spaces right in front of the entrance area.",
-            "fr": "Vous trouverez des places de parking juste devant l'entrée."
+            "fr": "Vous trouverez des places de stationnement juste devant l'entrée."
           }
         },
         {
@@ -1452,7 +1500,8 @@
             "de": "Pointe des Poulains",
             "hu": "Poulains-fok",
             "ro": "Pointe des Poulains",
-            "en": "Pointe des Poulains"
+            "en": "Pointe des Poulains",
+            "fr": "Pointe des Poulains"
           },
           "coords": [
             -3.251,
@@ -1468,7 +1517,7 @@
             "hu": "Kötelező látnivaló minden első alkalommal idelátogatónak.",
             "ro": "O necesitate pentru orice vizitator aflat pentru prima dată pe insulă.",
             "en": "A must-see for every first-time visitor to the island.",
-            "fr": "Un incontournable pour tout visiteur qui découvre l'île pour la première fois."
+            "fr": "Un incontournable pour tout visiteur découvrant l'île pour la première fois."
           }
         },
         {
@@ -1476,7 +1525,8 @@
             "de": "Fort von Sarah Bernhardt",
             "hu": "Sarah Bernhardt erőd",
             "ro": "Fortul Sarah Bernhardt",
-            "en": "Sarah Bernhardt's Fort"
+            "en": "Sarah Bernhardt's Fort",
+            "fr": "Fort de Sarah Bernhardt"
           },
           "coords": [
             -3.249,
@@ -1492,7 +1542,7 @@
             "hu": "A kis múzeum a nyári hónapokban tart nyitva.",
             "ro": "Micul muzeu este deschis în lunile de vară.",
             "en": "The small museum is open during the summer months.",
-            "fr": "Le petit musée est ouvert pendant les mois d'été."
+            "fr": "Le petit musée est ouvert pendant la saison estivale."
           }
         },
         {
@@ -1500,7 +1550,8 @@
             "de": "Plage de Donnant",
             "hu": "Donnant strand",
             "ro": "Plaja Donnant",
-            "en": "Donnant Beach"
+            "en": "Donnant Beach",
+            "fr": "Plage de Donnant"
           },
           "coords": [
             -3.232,
@@ -1524,7 +1575,8 @@
             "de": "Aiguilles de Port Coton",
             "hu": "Port Coton tűsziklák",
             "ro": "Aiguilles de Port Coton",
-            "en": "Aiguilles de Port Coton"
+            "en": "Aiguilles de Port Coton",
+            "fr": "Aiguilles de Port-Coton"
           },
           "coords": [
             -3.242,
@@ -1540,7 +1592,7 @@
             "hu": "Claude Monet festményei tették híressé.",
             "ro": "Faimoase datorită picturilor lui Claude Monet.",
             "en": "Famous from the paintings of Claude Monet.",
-            "fr": "Célèbre grâce aux peintures de Claude Monet."
+            "fr": "Célèbres grâce aux peintures de Claude Monet."
           }
         },
         {
@@ -1548,7 +1600,8 @@
             "de": "Großer Leuchtturm",
             "hu": "Nagy világítótorony",
             "ro": "Marele Far",
-            "en": "Grand Lighthouse"
+            "en": "Grand Lighthouse",
+            "fr": "Grand Phare"
           },
           "coords": [
             -3.22,
@@ -1564,7 +1617,7 @@
             "hu": "A parkoló kb. 500 méterre van a toronytól.",
             "ro": "Parcarea se află la aproximativ 500 m de turn.",
             "en": "The parking lot is located approx. 500m from the tower.",
-            "fr": "Le parking est situé à environ 500m de la tour."
+            "fr": "Le parking se trouve à env. 500 m de la tour."
           }
         },
         {
@@ -1572,7 +1625,8 @@
             "de": "Hafen von Le Palais",
             "hu": "Le Palais kikötője",
             "ro": "Portul Le Palais",
-            "en": "Port of Le Palais"
+            "en": "Port of Le Palais",
+            "fr": "Port de Le Palais"
           },
           "coords": [
             -3.153,
@@ -1597,7 +1651,7 @@
         "hu": "Autóval könnyedén elérheti Belle-Île legtávolabbi szegleteit is. A Le Palais-i citadellától indulva átszeli a szigetet a drámai északi csúcs felé, ahol az Atlanti-óceán a gránitsziklákkal találkozik.\n\nA Pointe des Poulains a mágikus fények helyszíne. Látogassa meg Sarah Bernhardt erődjét, mielőtt továbbutazna a szörfösök paradicsomába, a Donnant strandra, ahol a hullámok fenségesen csapnak le az aranyló homokra.\n\nDélután a Port Coton tűsziklák következnek. Ezek a bizarr sziklaalakzatok már Monetet is megihlették, és Bretagne egyik legtöbbet fotózott látványosságát nyújtják.\n\nUtazása a Nagy Világítótoronynál ér véget, majd visszatér Le Palais pezsgő kikötőjébe, ahol egy pohár cider mellett zárhatja a napot.",
         "ro": "Cu mașina puteți ajunge fără efort în cele mai îndepărtate colțuri ale insulei Belle-Île. După plecarea de la citadela din Le Palais, traversați insula spre vârful nordic dramatic, unde Atlanticul întâlnește granitul.\n\nPointe des Poulains este un loc al jocurilor de lumină magice. Vizitați fortul lui Sarah Bernhardt înainte de a continua spre paradisul surferilor, Plage de Donnant, unde valurile se sparg maiestuos de nisipul auriu.\n\nDupă-amiaza, pe program sunt Aiguilles de Port Coton. Aceste ace de stâncă bizare l-au inspirat deja pe Monet și oferă unul dintre cele mai fotografiate motive din Bretania.\n\nCălătoria se încheie la Marele Far și vă duce înapoi în portul plin de viață Le Palais, unde puteți încheia ziua cu un pahar de cidru.",
         "en": "By car, you can effortlessly reach the most remote corners of Belle-Île. After starting at the Citadel of Le Palais, you drive across the island to the dramatic northern tip, where the Atlantic meets granite.\n\nPointe des Poulains is a place of magical light displays. Visit Sarah Bernhardt's fort before continuing to the surfers' paradise, Plage de Donnant, where the surf breaks majestically against the golden sand.\n\nIn the afternoon, the Aiguilles de Port Coton are on the agenda. These bizarre rock needles already inspired Monet and offer one of the most photographed motifs in Brittany.\n\nYour journey ends at the Grand Lighthouse and finally leads back to the busy port of Le Palais, where you can end the day with a glass of cider.",
-        "fr": "En voiture, vous pouvez rejoindre sans effort les coins les plus reculés de Belle-Île. Après un départ à la Citadelle de Le Palais, vous traversez l'île jusqu'à la pointe nord spectaculaire, où l'Atlantique rencontre le granit.\n\nLa Pointe des Poulains est un lieu de jeux de lumière magiques. Visitez le fort de Sarah Bernhardt avant de continuer vers le paradis des surfeurs, la plage de Donnant, où les vagues se brisent majestueusement contre le sable doré.\n\nL'après-midi, les Aiguilles de Port Coton sont au programme. Ces aiguilles rocheuses bizarres ont déjà inspiré Monet et offrent l'un des motifs les plus photographiés de Bretagne.\n\nVotre voyage se termine au Grand Phare et vous ramène enfin au port animé de Le Palais, où vous pourrez terminer la journée avec un verre de cidre."
+        "fr": "En voiture, vous pouvez atteindre sans effort les recoins les plus reculés de Belle-Île. Après un départ depuis la Citadelle de Le Palais, vous traversez l'île jusqu'à la pointe nord dramatique, où l'Atlantique rencontre le granit.\n\nLa Pointe des Poulains est un lieu de jeux de lumière magiques. Visitez le fort de Sarah Bernhardt avant de poursuivre vers le paradis des surfeurs, la plage de Donnant, où les vagues se brisent majestueusement sur le sable doré.\n\nL'après-midi, les Aiguilles de Port-Coton sont au programme. Ces curieuses aiguilles rocheuses ont déjà inspiré Monet et offrent l'un des motifs les plus photographiés de Bretagne.\n\nVotre parcours se termine au Grand Phare puis revient au port animé de Le Palais, où vous pourrez clore la journée autour d'un verre de cidre."
       },
       "gastro_picks": {
         "de": [
@@ -1728,8 +1782,8 @@
         "fr": [
           "Conduisez prudemment, les routes à l'intérieur de l'île sont souvent étroites.",
           "Faites le plein à Le Palais avant d'explorer l'île.",
-          "Les places de parking sur les sites touristiques peuvent être rares en été.",
-          "Utilisez les offres de parking-relais pendant les périodes de forte affluence."
+          "Les places de parking aux sites peuvent se faire rares en été.",
+          "Profitez des offres de parkings relais pendant les périodes d'affluence."
         ]
       },
       "variants": {
@@ -1738,7 +1792,8 @@
             "de": "Mit dem Auto erreichen Sie mühelos die entlegensten Winkel von Belle-Île. Nach dem Start an der Zitadelle von Le Palais fahren Sie quer über die Insel zur dramatischen Nordspitze, wo der Atlantik auf Granit trifft.\n\nDie Pointe des Poulains ist ein Ort magischer Lichtspiele. Besuchen Sie das Fort von Sarah Bernhardt, bevor Sie zum Surferparadies Plage de Donnant weiterfahren, wo die Brandung majestätisch gegen den goldenen Sand schlägt.\n\nAm Nachmittag stehen die Aiguilles de Port Coton auf dem Programm. Diese bizarren Felsnadeln inspirierten schon Monet und bieten eines der meistfotografierten Motive der Bretagne.\n\nIhre Reise endet am Großen Leuchtturm und führt schließlich zurück in den belebten Hafen von Le Palais, wo Sie den Tag bei einem Glas Cidre ausklingen lassen können.",
             "hu": "Autóval könnyedén elérheti Belle-Île legtávolabbi szegleteit is. A Le Palais-i citadellától indulva átszeli a szigetet a drámai északi csúcs felé, ahol az Atlanti-óceán a gránitsziklákkal találkozik.\n\nA Pointe des Poulains a mágikus fények helyszíne. Látogassa meg Sarah Bernhardt erődjét, mielőtt továbbutazna a szörfösök paradicsomába, a Donnant strandra, ahol a hullámok fenségesen csapnak le az aranyló homokra.\n\nDélután a Port Coton tűsziklák következnek. Ezek a bizarr sziklaalakzatok már Monetet is megihlették, és Bretagne egyik legtöbbet fotózott látványosságát nyújtják.\n\nUtazása a Nagy Világítótoronynál ér véget, majd visszatér Le Palais pezsgő kikötőjébe, ahol egy pohár cider mellett zárhatja a napot.",
             "ro": "Cu mașina puteți ajunge fără efort în cele mai îndepărtate colțuri ale insulei Belle-Île. După plecarea de la citadela din Le Palais, traversați insula spre vârful nordic dramatic, unde Atlanticul întâlnește granitul.\n\nPointe des Poulains este un loc al jocurilor de lumină magice. Vizitați fortul lui Sarah Bernhardt înainte de a continua spre paradisul surferilor, Plage de Donnant, unde valurile se sparg maiestuos de nisipul auriu.\n\nDupă-amiaza, pe program sunt Aiguilles de Port Coton. Aceste ace de stâncă bizare l-au inspirat deja pe Monet și oferă unul dintre cele mai fotografiate motive din Bretania.\n\nCălătoria se încheie la Marele Far și vă duce înapoi în portul plin de viață Le Palais, unde puteți încheia ziua cu un pahar de cidru.",
-            "en": "By car, you can effortlessly reach the most remote corners of Belle-Île. After starting at the Citadel of Le Palais, you drive across the island to the dramatic northern tip, where the Atlantic meets granite.\n\nPointe des Poulains is a place of magical light displays. Visit Sarah Bernhardt's fort before continuing to the surfers' paradise, Plage de Donnant, where the surf breaks majestically against the golden sand.\n\nIn the afternoon, the Aiguilles de Port Coton are on the agenda. These bizarre rock needles already inspired Monet and offer one of the most photographed motifs in Brittany.\n\nYour journey ends at the Grand Lighthouse and finally leads back to the busy port of Le Palais, where you can end the day with a glass of cider."
+            "en": "By car, you can effortlessly reach the most remote corners of Belle-Île. After starting at the Citadel of Le Palais, you drive across the island to the dramatic northern tip, where the Atlantic meets granite.\n\nPointe des Poulains is a place of magical light displays. Visit Sarah Bernhardt's fort before continuing to the surfers' paradise, Plage de Donnant, where the surf breaks majestically against the golden sand.\n\nIn the afternoon, the Aiguilles de Port Coton are on the agenda. These bizarre rock needles already inspired Monet and offer one of the most photographed motifs in Brittany.\n\nYour journey ends at the Grand Lighthouse and finally leads back to the busy port of Le Palais, where you can end the day with a glass of cider.",
+            "fr": "En voiture, vous pouvez atteindre sans effort les recoins les plus reculés de Belle-Île. Après un départ depuis la Citadelle de Le Palais, vous traversez l'île jusqu'à la pointe nord dramatique, où l'Atlantique rencontre le granit.\n\nLa Pointe des Poulains est un lieu de jeux de lumière magiques. Visitez le fort de Sarah Bernhardt avant de poursuivre vers le paradis des surfeurs, la plage de Donnant, où les vagues se brisent majestueusement sur le sable doré.\n\nL'après-midi, les Aiguilles de Port-Coton sont au programme. Ces curieuses aiguilles rocheuses ont déjà inspiré Monet et offrent l'un des motifs les plus photographiés de Bretagne.\n\nVotre parcours se termine au Grand Phare puis revient au port animé de Le Palais, où vous pourrez clore la journée autour d'un verre de cidre."
           },
           "stops": [
             {
@@ -1746,13 +1801,15 @@
                 "de": "Zitadelle Vauban",
                 "hu": "Vauban citadella",
                 "ro": "Citadela Vauban",
-                "en": "Vauban Citadel"
+                "en": "Vauban Citadel",
+                "fr": "Citadelle de Vauban"
               },
               "tip_5lang": {
                 "de": "Parkplätze finden Sie direkt vor dem Eingangsbereich.",
                 "hu": "Parkolóhelyeket közvetlenül a bejárat előtt talál.",
                 "ro": "Găsiți locuri de parcare chiar în fața intrării.",
-                "en": "You will find parking spaces right in front of the entrance area."
+                "en": "You will find parking spaces right in front of the entrance area.",
+                "fr": "Vous trouverez des places de stationnement juste devant l'entrée."
               }
             },
             {
@@ -1760,13 +1817,15 @@
                 "de": "Pointe des Poulains",
                 "hu": "Poulains-fok",
                 "ro": "Pointe des Poulains",
-                "en": "Pointe des Poulains"
+                "en": "Pointe des Poulains",
+                "fr": "Pointe des Poulains"
               },
               "tip_5lang": {
                 "de": "Ein Muss für jeden Erstbesucher der Insel.",
                 "hu": "Kötelező látnivaló minden első alkalommal idelátogatónak.",
                 "ro": "O necesitate pentru orice vizitator aflat pentru prima dată pe insulă.",
-                "en": "A must-see for every first-time visitor to the island."
+                "en": "A must-see for every first-time visitor to the island.",
+                "fr": "Un incontournable pour tout visiteur découvrant l'île pour la première fois."
               }
             },
             {
@@ -1774,13 +1833,15 @@
                 "de": "Fort von Sarah Bernhardt",
                 "hu": "Sarah Bernhardt erőd",
                 "ro": "Fortul Sarah Bernhardt",
-                "en": "Sarah Bernhardt's Fort"
+                "en": "Sarah Bernhardt's Fort",
+                "fr": "Fort de Sarah Bernhardt"
               },
               "tip_5lang": {
                 "de": "Das kleine Museum ist in den Sommermonaten geöffnet.",
                 "hu": "A kis múzeum a nyári hónapokban tart nyitva.",
                 "ro": "Micul muzeu este deschis în lunile de vară.",
-                "en": "The small museum is open during the summer months."
+                "en": "The small museum is open during the summer months.",
+                "fr": "Le petit musée est ouvert pendant la saison estivale."
               }
             },
             {
@@ -1788,13 +1849,15 @@
                 "de": "Plage de Donnant",
                 "hu": "Donnant strand",
                 "ro": "Plaja Donnant",
-                "en": "Donnant Beach"
+                "en": "Donnant Beach",
+                "fr": "Plage de Donnant"
               },
               "tip_5lang": {
                 "de": "Wunderschöner Sandstrand mit beeindruckenden Wellen.",
                 "hu": "Gyönyörű homokos tengerpart lenyűgöző hullámokkal.",
                 "ro": "Plajă de nisip superbă cu valuri impresionante.",
-                "en": "Beautiful sandy beach with impressive waves."
+                "en": "Beautiful sandy beach with impressive waves.",
+                "fr": "Belle plage de sable avec des vagues impressionnantes."
               }
             },
             {
@@ -1802,13 +1865,15 @@
                 "de": "Aiguilles de Port Coton",
                 "hu": "Port Coton tűsziklák",
                 "ro": "Aiguilles de Port Coton",
-                "en": "Aiguilles de Port Coton"
+                "en": "Aiguilles de Port Coton",
+                "fr": "Aiguilles de Port-Coton"
               },
               "tip_5lang": {
                 "de": "Berühmt durch die Gemälde von Claude Monet.",
                 "hu": "Claude Monet festményei tették híressé.",
                 "ro": "Faimoase datorită picturilor lui Claude Monet.",
-                "en": "Famous from the paintings of Claude Monet."
+                "en": "Famous from the paintings of Claude Monet.",
+                "fr": "Célèbres grâce aux peintures de Claude Monet."
               }
             },
             {
@@ -1816,13 +1881,15 @@
                 "de": "Großer Leuchtturm",
                 "hu": "Nagy világítótorony",
                 "ro": "Marele Far",
-                "en": "Grand Lighthouse"
+                "en": "Grand Lighthouse",
+                "fr": "Grand Phare"
               },
               "tip_5lang": {
                 "de": "Der Parkplatz befindet sich ca. 500m vom Turm entfernt.",
                 "hu": "A parkoló kb. 500 méterre van a toronytól.",
                 "ro": "Parcarea se află la aproximativ 500 m de turn.",
-                "en": "The parking lot is located approx. 500m from the tower."
+                "en": "The parking lot is located approx. 500m from the tower.",
+                "fr": "Le parking se trouve à env. 500 m de la tour."
               }
             },
             {
@@ -1830,13 +1897,15 @@
                 "de": "Hafen von Le Palais",
                 "hu": "Le Palais kikötője",
                 "ro": "Portul Le Palais",
-                "en": "Port of Le Palais"
+                "en": "Port of Le Palais",
+                "fr": "Port de Le Palais"
               },
               "tip_5lang": {
                 "de": "Geben Sie Ihren Mietwagen vor der letzten Fähre ab.",
                 "hu": "Adja le bérautóját az utolsó komp előtt.",
                 "ro": "Predați mașina închiriată înainte de ultimul feribot.",
-                "en": "Return your rental car before the last ferry."
+                "en": "Return your rental car before the last ferry.",
+                "fr": "Rendez votre voiture de location avant le dernier ferry."
               }
             }
           ],
@@ -1946,6 +2015,12 @@
               "Refuel in Le Palais before exploring the island.",
               "Parking spaces at the sights can be scarce in summer.",
               "Use the park-and-ride offers during busy periods."
+            ],
+            "fr": [
+              "Conduisez prudemment, les routes à l'intérieur de l'île sont souvent étroites.",
+              "Faites le plein à Le Palais avant d'explorer l'île.",
+              "Les places de parking aux sites peuvent se faire rares en été.",
+              "Profitez des offres de parkings relais pendant les périodes d'affluence."
             ]
           }
         },
@@ -1955,7 +2030,7 @@
             "hu": "Szárazon és kényelemben fedezzük fel a szigetet autóval. A Vauban-citadella az első állomásunk az esőben, majd drámai autózás következik a Pointe des Poulains felé, ahol a kocsiból figyeljük az elemek harcát. Ebédszünet az erődnél, majd a viharos Donnant strand és a Port Coton sziklái következnek, ahol a sós permet az autó szélvédőjéig ér.",
             "ro": "Explorăm insula confortabil și uscați cu mașina. Citadela Vauban este prima oprire pe ploaie, urmată de un drum dramatic spre Pointe des Poulains, unde observăm vremea din mașină. Prânz la fort, apoi vizităm plaja furtunoasă Donnant și stâncile Port Coton, unde spuma mării ajunge până la parbriz.",
             "en": "Explore the island in dry comfort by car. The Vauban Citadel is our first rainy-day stop, followed by a dramatic drive to Pointe des Poulains, where we watch the weather from the vehicle. Lunch at the Fort, then visit the stormy Donnant Beach and the needles of Port Coton, where sea spray hits the windshield.",
-            "fr": "Explorez l'île au sec et confortablement en voiture. La Citadelle Vauban est notre premier arrêt par temps de pluie, suivi d'une route spectaculaire vers la Pointe des Poulains, où nous observons la météo depuis le véhicule. Déjeuner au Fort, puis visite de la plage de Donnant tempétueuse et des aiguilles de Port Coton, où les embruns frappent le pare-brise."
+            "fr": "Explorez l'île au sec et confortablement en voiture. La Citadelle de Vauban est notre premier arrêt par temps de pluie, suivi d'une route dramatique jusqu'à la Pointe des Poulains, où nous observons la météo depuis le véhicule. Déjeuner au Fort, puis visite de la tempétueuse plage de Donnant et des Aiguilles de Port-Coton, où les embruns frappent le pare-brise."
           },
           "stops": [
             {
@@ -1975,7 +2050,7 @@
                 "hu": "Használja az autót kilátóként az erős széllökések idején.",
                 "ro": "Folosiți mașina ca platformă de observație în timpul rafalelor.",
                 "en": "Use your car as a viewing platform during strong gusts.",
-                "fr": "Utilisez votre voiture comme plateforme d'observation lors des fortes rafales."
+                "fr": "Utilisez votre voiture comme plateforme d'observation lors de rafales importantes."
               }
             },
             {
@@ -1985,7 +2060,7 @@
                 "hu": "Jó megálló, hogy az út során megszárítsuk a vizes ruhákat.",
                 "ro": "Un popas bun pentru a usca hainele în timpul drumului.",
                 "en": "A good stop to dry off your gear during the drive.",
-                "fr": "Un bon arrêt pour sécher votre équipement pendant le trajet."
+                "fr": "Un bon arrêt pour faire sécher votre équipement pendant la route."
               }
             },
             {
@@ -1995,7 +2070,7 @@
                 "hu": "Ügyeljen a futóhomokra és az erős áramlatokra vihardagály idején.",
                 "ro": "Atenție la nisipurile mișcătoare și curenții puternici în timpul furtunii.",
                 "en": "Watch out for shifting sands and strong currents during storm tides.",
-                "fr": "Faites attention aux sables mouvants et aux courants forts lors des marées de tempête."
+                "fr": "Attention aux bancs de sable mobiles et aux courants forts lors des grandes marées."
               }
             },
             {
@@ -2005,7 +2080,7 @@
                 "hu": "Maradjon a kijelölt parkolóhelyeken; a sziklaszéli talaj felázhat.",
                 "ro": "Rămâneți în parcările amenajate; solul de la margine este moale.",
                 "en": "Stay in designated parking areas; the ground near the edge is soft.",
-                "fr": "Restez sur les zones de stationnement désignées ; le sol près du bord est meuble."
+                "fr": "Restez dans les zones de stationnement aménagées ; le terrain près du bord est mou."
               }
             },
             {
@@ -2015,7 +2090,7 @@
                 "hu": "Esőben a kilátás korlátozott fentről, de a hangulat egyedülálló.",
                 "ro": "Pe ploaie vizibilitatea este redusă, dar atmosfera este unică.",
                 "en": "Visibility from the top is limited in rain, but the atmosphere is unique.",
-                "fr": "La visibilité du sommet est limitée sous la pluie, mais l'atmosphère est unique."
+                "fr": "La visibilité depuis le sommet est limitée sous la pluie, mais l'atmosphère est unique."
               }
             },
             {
@@ -2025,7 +2100,7 @@
                 "hu": "Egy fedett kikötői vacsora a tökéletes befejezés.",
                 "ro": "O cină la adăpost în port este finalul perfect.",
                 "en": "A sheltered dinner at the harbor is the perfect ending.",
-                "fr": "Un dîner abrité au port est la fin de journée parfaite."
+                "fr": "Un dîner abrité au port est la fin parfaite."
               }
             }
           ],
@@ -2059,11 +2134,11 @@
               "Drive times between sites are short and reliably dry."
             ],
             "fr": [
-              "Conduisez prudemment car les flaques d'eau sur les routes étroites peuvent être profondes.",
-              "Les embruns peuvent laisser des résidus de sel sur le pare-brise.",
-              "Utilisez le chauffage de la voiture pour maintenir un faible taux d'humidité à l'intérieur.",
+              "Conduisez prudemment car les flaques sur les routes étroites peuvent être profondes.",
+              "Les embruns peuvent laisser des dépôts de sel sur le pare-brise.",
+              "Utilisez le chauffage de la voiture pour limiter l'humidité à l'intérieur.",
               "Certains parkings côtiers peuvent être fermés lors de fortes tempêtes.",
-              "Les temps de trajet entre les sites sont courts et garantis au sec."
+              "Les temps de trajet entre les sites sont courts et généralement secs."
             ]
           }
         },
@@ -2073,7 +2148,7 @@
             "hu": "Télen az autó szabadságot ad, hogy a hidegben is bejárjuk a szigetet. A magányos citadellától a Pointe des Poulains felé vesszük az irányt, ahol szikrázik a téli nap. Meleg ebéd után ellátogatunk a szeles Donnant strandra, és pontosan a látványos naplementére érünk a Port Coton sziklákhoz, végül a világítótorony fényei köszönnek ránk.",
             "ro": "Iarna, mașina oferă libertatea de a explora insula în ciuda frigului. De la citadela solitară mergem spre Pointe des Poulains, unde soarele de iarnă strălucește. Ne bucurăm de un prânz cald, vizităm plaja Donnant și ajungem la stâncile Port Coton exact pentru apusul spectaculos.",
             "en": "In winter, the car offers the freedom to explore the island despite the cold. From the solitary Citadel, head to Pointe des Poulains, where the winter sun glitters. Enjoy a warm lunch, visit the windswept Donnant Beach, and reach Port Coton just in time for a spectacular sunset before the lighthouse greets you.",
-            "fr": "En hiver, la voiture offre la liberté d'explorer l'île malgré le froid. De la Citadelle solitaire, dirigez-vous vers la Pointe des Poulains, où le soleil d'hiver scintille. Profitez d'un déjeuner chaud, visitez la plage de Donnant balayée par les vents, et atteignez Port Coton juste à temps pour un coucher de soleil spectaculaire avant que le phare ne vous accueille."
+            "fr": "En hiver, la voiture offre la liberté d'explorer l'île malgré le froid. Depuis la Citadelle solitaire, dirigez-vous vers la Pointe des Poulains, où le soleil hivernal scintille. Profitez d'un déjeuner chaud, visitez la plage balayée par le vent de Donnant, et rejoignez Port-Coton juste à temps pour un coucher de soleil spectaculaire avant d'atteindre le phare."
           },
           "stops": [
             {
@@ -2083,7 +2158,7 @@
                 "hu": "A kevesebb turista miatt könnyű parkolni közvetlenül a bejáratnál.",
                 "ro": "Mai puțină aglomerație înseamnă parcare ușoară chiar în față.",
                 "en": "Fewer crowds mean easy parking right in front of the gate.",
-                "fr": "Moins de monde signifie un parking facile juste devant la porte."
+                "fr": "Moins de monde signifie un stationnement facile juste devant la porte."
               }
             },
             {
@@ -2093,7 +2168,7 @@
                 "hu": "Élvezze a tenger feletti fényjátékot kényelmesen, az autóból.",
                 "ro": "Bucurați-vă de jocul de lumini pe mare din confortul mașinii.",
                 "en": "Enjoy the play of light over the sea from the comfort of your car.",
-                "fr": "Profitez du jeu de lumière sur la mer depuis le confort de votre voiture."
+                "fr": "Appréciez le jeu de lumière sur la mer depuis le confort de votre voiture."
               }
             },
             {
@@ -2103,7 +2178,7 @@
                 "hu": "Látogassa meg az erődöt a kora délutáni meleg fényekben.",
                 "ro": "Vizitați fortul în lumina caldă a după-amiezii devreme.",
                 "en": "Visit the fort in the warm light of early afternoon.",
-                "fr": "Visitez le fort dans la lumière chaude du début d'après-midi."
+                "fr": "Visitez le fort dans la chaude lumière du début d'après-midi."
               }
             },
             {
@@ -2113,7 +2188,7 @@
                 "hu": "A parkoló télen gyakran üres; ideális a nyugalomhoz.",
                 "ro": "Parcarea este adesea pustie iarna; ideal pentru liniște.",
                 "en": "The parking lot is often empty in winter; ideal for peace and quiet.",
-                "fr": "Le parking est souvent vide en hiver ; idéal pour le calme et la tranquillité."
+                "fr": "Le parking est souvent vide en hiver ; idéal pour la tranquillité."
               }
             },
             {
@@ -2123,7 +2198,7 @@
                 "hu": "A legjobb hely a naplementéhez; érkezzen meg 16:45-ig.",
                 "ro": "Cel mai bun loc pentru apus; ajungeți până la ora 16:45.",
                 "en": "Best spot for sunset; make sure to arrive by 4:45 PM.",
-                "fr": "Le meilleur endroit pour le coucher du soleil ; assurez-vous d'arriver pour 16h45."
+                "fr": "Meilleur endroit pour le coucher du soleil ; veillez à arriver avant 16h45."
               }
             },
             {
@@ -2143,7 +2218,7 @@
                 "hu": "A kikötő ünnepi téli kivilágítása nagyon bájos.",
                 "ro": "Iluminatul festiv de iarnă din port este foarte fermecător.",
                 "en": "The festive winter lighting in the harbor is very charming.",
-                "fr": "L'éclairage festif d'hiver dans le port est très charmant."
+                "fr": "L'éclairage hivernal festif du port est très charmant."
               }
             }
           ],
@@ -2177,11 +2252,11 @@
               "Take warm blankets for breaks at scenic viewpoints."
             ],
             "fr": [
-              "Certaines routes secondaires peuvent être glissantes à cause du givre nocturne.",
-              "Faites le plein tôt ; les stations-service font souvent une pause déjeuner.",
-              "Les batteries de voiture se déchargent plus vite au froid ; ne laissez pas les feux allumés.",
-              "Profitez des temps de trajet rapides sans les embouteillages d'été.",
-              "Prenez des couvertures chaudes pour les pauses aux points de vue panoramiques."
+              "Certaines routes secondaires peuvent être glissantes à cause du gel nocturne.",
+              "Faites le plein tôt ; les stations-service prennent souvent une pause déjeuner.",
+              "Les batteries de voiture se déchargent plus vite par grand froid ; ne laissez pas les phares allumés.",
+              "Profitez des temps de trajet rapides sans les embouteillages estivaux.",
+              "Prenez des couvertures chaudes pour les pauses aux points de vue."
             ]
           }
         }
@@ -2200,7 +2275,8 @@
             "de": "Hafen von Le Palais",
             "hu": "Le Palais kikötője",
             "ro": "Portul Le Palais",
-            "en": "Port of Le Palais"
+            "en": "Port of Le Palais",
+            "fr": "Port du Palais"
           },
           "coords": [
             -3.153,
@@ -2216,7 +2292,7 @@
             "hu": "A 'Les Cars Bleus' buszok közvetlenül a kikötőből indulnak.",
             "ro": "Autobuzele 'Les Cars Bleus' pleacă direct din port.",
             "en": "The 'Les Cars Bleus' buses start right at the port.",
-            "fr": "Les bus 'Les Cars Bleus' partent directement du port."
+            "fr": "Les bus « Les Cars Bleus » partent directement du port."
           }
         },
         {
@@ -2224,7 +2300,8 @@
             "de": "Sauzon (Hafen)",
             "hu": "Sauzon (kikötő)",
             "ro": "Sauzon (Port)",
-            "en": "Sauzon (Port)"
+            "en": "Sauzon (Port)",
+            "fr": "Sauzon (Port)"
           },
           "coords": [
             -3.218,
@@ -2240,7 +2317,7 @@
             "hu": "Szálljon le itt egy sétára a halászfaluban.",
             "ro": "Coborâți aici pentru o plimbare în satul de pescari.",
             "en": "Get off here for a stroll through the fishing village.",
-            "fr": "Descendez ici pour une promenade dans le village de pêcheurs."
+            "fr": "Descendez ici pour une balade dans le village de pêcheurs."
           }
         },
         {
@@ -2248,7 +2325,8 @@
             "de": "Pointe des Poulains",
             "hu": "Poulains-fok",
             "ro": "Pointe des Poulains",
-            "en": "Pointe des Poulains"
+            "en": "Pointe des Poulains",
+            "fr": "Pointe des Poulains"
           },
           "coords": [
             -3.251,
@@ -2264,7 +2342,7 @@
             "hu": "A busz a világítótoronyhoz vezető túraútvonal közelében áll meg.",
             "ro": "Autobuzul oprește aproape de traseul spre far.",
             "en": "The bus stops near the hiking trail to the lighthouse.",
-            "fr": "Le bus s'arrête près du sentier de randonnée vers le phare."
+            "fr": "Le bus s'arrête près du sentier de randonnée menant au phare."
           }
         },
         {
@@ -2272,7 +2350,8 @@
             "de": "Großer Leuchtturm",
             "hu": "Nagy világítótorony",
             "ro": "Marele Far",
-            "en": "Grand Lighthouse"
+            "en": "Grand Lighthouse",
+            "fr": "Grand Phare"
           },
           "coords": [
             -3.22,
@@ -2288,7 +2367,7 @@
             "hu": "Pontosan ellenőrizze a visszaindulást, a buszok ritkábban járnak.",
             "ro": "Verificați bine orele de întoarcere, autobuzele circulă mai rar.",
             "en": "Check return times carefully, buses run less frequently.",
-            "fr": "Vérifiez bien les horaires de retour, les bus circulent moins souvent."
+            "fr": "Vérifiez bien les horaires de retour : les bus circulent moins souvent."
           }
         },
         {
@@ -2296,7 +2375,8 @@
             "de": "Zitadelle Vauban",
             "hu": "Vauban citadella",
             "ro": "Citadela Vauban",
-            "en": "Vauban Citadel"
+            "en": "Vauban Citadel",
+            "fr": "Citadelle Vauban"
           },
           "coords": [
             -3.151,
@@ -2312,7 +2392,7 @@
             "hu": "A busz visszaviszi Önt a történelmi jelképhez.",
             "ro": "Autobuzul vă aduce înapoi la simbolul istoric.",
             "en": "The bus takes you back to the historical landmark.",
-            "fr": "Le bus vous ramène au monument historique."
+            "fr": "Le bus vous ramène au site historique."
           }
         }
       ],
@@ -2321,7 +2401,7 @@
         "hu": "Belle-Île buszhálózata stresszmentes felfedezést tesz lehetővé. Induljon Le Palais-ból Sauzonba, ahol élvezheti a reggeli nyugalmat.\n\nA következő megálló a drámai északi csúcs. A Pointe des Poulains olyan természeti élmény, amelyet kényelmesen elérhet busszal, anélkül, hogy a parkolás miatt aggódna.\n\nDélután az út a déli Nagy Világítótoronyhoz vezet. A sziget tágas tájai elsuhannak az ablak előtt, miközben felkészül a kilátóhoz vezető útra.\n\nVisszatérve Le Palais-ba, marad elég idő a Vauban-citadellára, mielőtt naplementekor megtapasztalná a főváros kikötőjét és pezsgő hangulatát.",
         "ro": "Sistemul de autobuze din Belle-Île permite o explorare relaxată fără stres. Începeți în Le Palais și lăsați-vă dus spre Sauzon, unde vă puteți bucura de liniștea dimineții.\n\nUrmătoarea oprire este vârful nordic dramatic. Pointe des Poulains este o experiență naturală la care ajungeți confortabil cu autobuzul, fără să vă faceți griji pentru parcare.\n\nDupă-amiaza, drumul duce la Marele Far din sud. Peisajul vast al insulei trece prin fața ferestrei în timp ce vă pregătiți pentru urcarea spre platforma de observație.\n\nÎnapoi în Le Palais, rămâne destul timp pentru Citadela Vauban, înainte de a experimenta portul și atmosfera plină de viață a capitalei la apus.",
         "en": "The Belle-Île bus system allows for relaxed exploration without stress. Start in Le Palais and let yourself be driven to Sauzon, where you can enjoy the peace in the morning.\n\nThe next stop is the dramatic northern tip. Pointe des Poulains is a natural experience that you can easily reach by bus without having to worry about parking.\n\nIn the afternoon, the journey leads to the Grand Lighthouse in the south. The wide island landscape passes by the window while you prepare for the climb to the observation deck.\n\nBack in Le Palais, there is enough time for the Vauban Citadel before you experience the port and the lively atmosphere of the capital at sunset.",
-        "fr": "Le système de bus de Belle-Île permet une exploration détendue sans stress. Commencez à Le Palais et laissez-vous conduire jusqu'à Sauzon, où vous pourrez profiter du calme le matin.\n\nLe prochain arrêt est la pointe nord spectaculaire. La Pointe des Poulains est une expérience naturelle que vous pouvez facilement atteindre en bus sans avoir à vous soucier du stationnement.\n\nL'après-midi, le voyage mène au Grand Phare au sud. Le vaste paysage insulaire défile devant la fenêtre pendant que vous vous préparez pour la montée vers la plateforme d'observation.\n\nDe retour à Le Palais, il reste assez de temps pour la Citadelle Vauban avant de découvrir le port et l'atmosphère animée de la capitale au coucher du soleil."
+        "fr": "Le réseau de bus de Belle-Île permet une exploration détendue et sans stress. Commencez au Palais et laissez-vous conduire jusqu'à Sauzon, où vous pourrez profiter du calme matinal.\n\nL'arrêt suivant est la spectaculaire pointe nord. La Pointe des Poulains est une expérience naturelle facile d'accès en bus, sans souci de stationnement.\n\nL'après-midi, le trajet mène au Grand Phare au sud. Le large paysage insulaire défile à la fenêtre pendant que vous vous préparez à monter sur la plateforme d'observation.\n\nDe retour au Palais, il reste assez de temps pour la Citadelle Vauban avant de vivre l'animation du port et de la capitale au coucher du soleil."
       },
       "gastro_picks": {
         "de": [
@@ -2450,10 +2530,10 @@
           "Plan buffer times for connections."
         ],
         "fr": [
-          "Achetez un ticket à la journée directement auprès du chauffeur de bus.",
-          "Les horaires sont affichés à l'office de tourisme de Le Palais.",
-          "En basse saison, les bus circulent nettement moins fréquemment.",
-          "Prévoyez des marges de sécurité pour les correspondances."
+          "Achetez un ticket journée directement auprès du conducteur.",
+          "Les horaires sont affichés à l'office de tourisme du Palais.",
+          "En basse saison, les bus circulent beaucoup moins souvent.",
+          "Prévoyez des marges pour les correspondances."
         ]
       },
       "variants": {
@@ -2462,7 +2542,8 @@
             "de": "Das Bussystem von Belle-Île ermöglicht eine entspannte Erkundung ohne Stress. Starten Sie in Le Palais und lassen Sie sich nach Sauzon fahren, wo Sie die Ruhe am Morgen genießen können.\n\nDer nächste Halt ist die dramatische Nordspitze. Die Pointe des Poulains ist ein Naturerlebnis, das Sie bequem mit dem Bus erreichen, ohne sich um Parkplätze sorgen zu müssen.\n\nNachmittags führt die Fahrt zum Großen Leuchtturm im Süden. Die weite Insellandschaft zieht am Fenster vorbei, während Sie sich auf den Aufstieg zur Aussichtsplattform vorbereiten.\n\nZurück in Le Palais bleibt genügend Zeit für die Zitadelle Vauban, bevor Sie den Hafen und die lebhafte Atmosphäre der Hauptstadt bei Sonnenuntergang erleben.",
             "hu": "Belle-Île buszhálózata stresszmentes felfedezést tesz lehetővé. Induljon Le Palais-ból Sauzonba, ahol élvezheti a reggeli nyugalmat.\n\nA következő megálló a drámai északi csúcs. A Pointe des Poulains olyan természeti élmény, amelyet kényelmesen elérhet busszal, anélkül, hogy a parkolás miatt aggódna.\n\nDélután az út a déli Nagy Világítótoronyhoz vezet. A sziget tágas tájai elsuhannak az ablak előtt, miközben felkészül a kilátóhoz vezető útra.\n\nVisszatérve Le Palais-ba, marad elég idő a Vauban-citadellára, mielőtt naplementekor megtapasztalná a főváros kikötőjét és pezsgő hangulatát.",
             "ro": "Sistemul de autobuze din Belle-Île permite o explorare relaxată fără stres. Începeți în Le Palais și lăsați-vă dus spre Sauzon, unde vă puteți bucura de liniștea dimineții.\n\nUrmătoarea oprire este vârful nordic dramatic. Pointe des Poulains este o experiență naturală la care ajungeți confortabil cu autobuzul, fără să vă faceți griji pentru parcare.\n\nDupă-amiaza, drumul duce la Marele Far din sud. Peisajul vast al insulei trece prin fața ferestrei în timp ce vă pregătiți pentru urcarea spre platforma de observație.\n\nÎnapoi în Le Palais, rămâne destul timp pentru Citadela Vauban, înainte de a experimenta portul și atmosfera plină de viață a capitalei la apus.",
-            "en": "The Belle-Île bus system allows for relaxed exploration without stress. Start in Le Palais and let yourself be driven to Sauzon, where you can enjoy the peace in the morning.\n\nThe next stop is the dramatic northern tip. Pointe des Poulains is a natural experience that you can easily reach by bus without having to worry about parking.\n\nIn the afternoon, the journey leads to the Grand Lighthouse in the south. The wide island landscape passes by the window while you prepare for the climb to the observation deck.\n\nBack in Le Palais, there is enough time for the Vauban Citadel before you experience the port and the lively atmosphere of the capital at sunset."
+            "en": "The Belle-Île bus system allows for relaxed exploration without stress. Start in Le Palais and let yourself be driven to Sauzon, where you can enjoy the peace in the morning.\n\nThe next stop is the dramatic northern tip. Pointe des Poulains is a natural experience that you can easily reach by bus without having to worry about parking.\n\nIn the afternoon, the journey leads to the Grand Lighthouse in the south. The wide island landscape passes by the window while you prepare for the climb to the observation deck.\n\nBack in Le Palais, there is enough time for the Vauban Citadel before you experience the port and the lively atmosphere of the capital at sunset.",
+            "fr": "Le réseau de bus de Belle-Île permet une exploration détendue et sans stress. Commencez au Palais et laissez-vous conduire jusqu'à Sauzon, où vous pourrez profiter du calme matinal.\n\nL'arrêt suivant est la spectaculaire pointe nord. La Pointe des Poulains est une expérience naturelle facile d'accès en bus, sans souci de stationnement.\n\nL'après-midi, le trajet mène au Grand Phare au sud. Le large paysage insulaire défile à la fenêtre pendant que vous vous préparez à monter sur la plateforme d'observation.\n\nDe retour au Palais, il reste assez de temps pour la Citadelle Vauban avant de vivre l'animation du port et de la capitale au coucher du soleil."
           },
           "stops": [
             {
@@ -2470,13 +2551,15 @@
                 "de": "Hafen von Le Palais",
                 "hu": "Le Palais kikötője",
                 "ro": "Portul Le Palais",
-                "en": "Port of Le Palais"
+                "en": "Port of Le Palais",
+                "fr": "Port du Palais"
               },
               "tip_5lang": {
                 "de": "Die Busse 'Les Cars Bleus' starten direkt am Hafen.",
                 "hu": "A 'Les Cars Bleus' buszok közvetlenül a kikötőből indulnak.",
                 "ro": "Autobuzele 'Les Cars Bleus' pleacă direct din port.",
-                "en": "The 'Les Cars Bleus' buses start right at the port."
+                "en": "The 'Les Cars Bleus' buses start right at the port.",
+                "fr": "Les bus « Les Cars Bleus » partent directement du port."
               }
             },
             {
@@ -2484,13 +2567,15 @@
                 "de": "Sauzon (Hafen)",
                 "hu": "Sauzon (kikötő)",
                 "ro": "Sauzon (Port)",
-                "en": "Sauzon (Port)"
+                "en": "Sauzon (Port)",
+                "fr": "Sauzon (Port)"
               },
               "tip_5lang": {
                 "de": "Steigen Sie hier aus für einen Spaziergang im Fischerdorf.",
                 "hu": "Szálljon le itt egy sétára a halászfaluban.",
                 "ro": "Coborâți aici pentru o plimbare în satul de pescari.",
-                "en": "Get off here for a stroll through the fishing village."
+                "en": "Get off here for a stroll through the fishing village.",
+                "fr": "Descendez ici pour une balade dans le village de pêcheurs."
               }
             },
             {
@@ -2498,13 +2583,15 @@
                 "de": "Pointe des Poulains",
                 "hu": "Poulains-fok",
                 "ro": "Pointe des Poulains",
-                "en": "Pointe des Poulains"
+                "en": "Pointe des Poulains",
+                "fr": "Pointe des Poulains"
               },
               "tip_5lang": {
                 "de": "Der Bus hält in der Nähe des Wanderwegs zum Leuchtturm.",
                 "hu": "A busz a világítótoronyhoz vezető túraútvonal közelében áll meg.",
                 "ro": "Autobuzul oprește aproape de traseul spre far.",
-                "en": "The bus stops near the hiking trail to the lighthouse."
+                "en": "The bus stops near the hiking trail to the lighthouse.",
+                "fr": "Le bus s'arrête près du sentier de randonnée menant au phare."
               }
             },
             {
@@ -2512,13 +2599,15 @@
                 "de": "Großer Leuchtturm",
                 "hu": "Nagy világítótorony",
                 "ro": "Marele Far",
-                "en": "Grand Lighthouse"
+                "en": "Grand Lighthouse",
+                "fr": "Grand Phare"
               },
               "tip_5lang": {
                 "de": "Prüfen Sie die Rückfahrzeiten genau, die Busse fahren seltener.",
                 "hu": "Pontosan ellenőrizze a visszaindulást, a buszok ritkábban járnak.",
                 "ro": "Verificați bine orele de întoarcere, autobuzele circulă mai rar.",
-                "en": "Check return times carefully, buses run less frequently."
+                "en": "Check return times carefully, buses run less frequently.",
+                "fr": "Vérifiez bien les horaires de retour : les bus circulent moins souvent."
               }
             },
             {
@@ -2526,13 +2615,15 @@
                 "de": "Zitadelle Vauban",
                 "hu": "Vauban citadella",
                 "ro": "Citadela Vauban",
-                "en": "Vauban Citadel"
+                "en": "Vauban Citadel",
+                "fr": "Citadelle Vauban"
               },
               "tip_5lang": {
                 "de": "Der Bus bringt Sie zurück zum historischen Wahrzeichen.",
                 "hu": "A busz visszaviszi Önt a történelmi jelképhez.",
                 "ro": "Autobuzul vă aduce înapoi la simbolul istoric.",
-                "en": "The bus takes you back to the historical landmark."
+                "en": "The bus takes you back to the historical landmark.",
+                "fr": "Le bus vous ramène au site historique."
               }
             }
           ],
@@ -2642,6 +2733,12 @@
               "The schedules are posted at the tourist office in Le Palais.",
               "In the low season, buses run significantly less frequently.",
               "Plan buffer times for connections."
+            ],
+            "fr": [
+              "Achetez un ticket journée directement auprès du conducteur.",
+              "Les horaires sont affichés à l'office de tourisme du Palais.",
+              "En basse saison, les bus circulent beaucoup moins souvent.",
+              "Prévoyez des marges pour les correspondances."
             ]
           }
         },
@@ -2651,7 +2748,7 @@
             "hu": "A 'Taol Mor' buszjárattal fedezzük fel Belle-Île-t az esőben. Le Palais-ból kényelmesen utazunk Sauzonba, ahol egy kávézóban várjuk ki a záport. Délben a busz a Pointe des Poulains-hoz visz egy szeles kitérőre. A délután a világítótoronynál és a citadella védelmező falai között ér véget, miközben a ködös tájat figyeljük az ablakból.",
             "ro": "Cu autobuzul 'Taol Mor' explorăm Belle-Île pe ploaie. Din Le Palais mergem confortabil spre Sauzon, unde așteptăm să treacă ploaia într-o cafenea. La prânz, autobuzul ne duce la Pointe des Poulains pentru o scurtă vizită. După-amiaza se încheie la far și la citadelă, bucurându-ne de peisajul cețos.",
             "en": "Explore Belle-Île in the rain using the 'Taol Mor' bus service. Travel comfortably from Le Palais to Sauzon, where you can wait out the rain in a cafe. At noon, the bus takes you to Pointe des Poulains for a windswept detour. The afternoon ends at the lighthouse and the protective Citadel, while enjoying the misty landscape through the bus window.",
-            "fr": "Explorez Belle-Île sous la pluie en utilisant le service de bus 'Taol Mor'. Voyagez confortablement de Le Palais à Sauzon, où vous pourrez attendre la fin de l'averse dans un café. À midi, le bus vous emmène à la Pointe des Poulains pour un détour venteux. L'après-midi se termine au phare et à la Citadelle protectrice, tout en profitant du paysage brumeux à travers la vitre du bus."
+            "fr": "Explorez Belle-Île sous la pluie avec le service de bus « Taol Mor ». Voyagez confortablement du Palais à Sauzon, où vous pourrez attendre la fin de l'averse dans un café. À midi, le bus vous emmène à la Pointe des Poulains pour une escapade venteuse. L'après-midi se termine au phare et à la Citadelle protectrice, en profitant du paysage embrumé par la fenêtre du bus."
           },
           "stops": [
             {
@@ -2661,7 +2758,7 @@
                 "hu": "A buszmegálló fedett, így várakozás közben védve van az esőtől.",
                 "ro": "Stația de autobuz oferă adăpost împotriva ploii în timp ce așteptați.",
                 "en": "The bus stop provides shelter from the rain while you wait.",
-                "fr": "L'arrêt de bus offre un abri contre la pluie en attendant."
+                "fr": "L'arrêt de bus offre un abri contre la pluie pendant l'attente."
               }
             },
             {
@@ -2671,7 +2768,7 @@
                 "hu": "Esőben tervezze meg időben a visszautat a buszmegállóhoz.",
                 "ro": "Planificați din timp întoarcerea la stație pe ploaie.",
                 "en": "Plan your walk back to the bus stop ahead of time when it rains.",
-                "fr": "Planifiez votre retour à l'arrêt de bus à l'avance quand il pleut."
+                "fr": "Prévoyez votre retour à l'arrêt à l'avance quand il pleut."
               }
             },
             {
@@ -2681,7 +2778,7 @@
                 "hu": "A buszparkoló jó találkozási pont rossz idő esetén.",
                 "ro": "Parcarea autobuzelor este un bun punct de întâlnire pe vreme rea.",
                 "en": "The bus parking area is a reliable meeting point in bad weather.",
-                "fr": "Le parking des bus est un point de rendez-vous fiable par mauvais temps."
+                "fr": "L'aire de stationnement des bus est un point de rendez-vous fiable par mauvais temps."
               }
             },
             {
@@ -2691,7 +2788,7 @@
                 "hu": "Használja a buszt, hogy szárazon tegye meg a nagy távolságokat.",
                 "ro": "Folosiți autobuzul pentru a parcurge distanțele mari la uscat.",
                 "en": "Use the bus to cover the long distances while staying dry.",
-                "fr": "Utilisez le bus pour couvrir les longues distances tout en restant au sec."
+                "fr": "Utilisez le bus pour parcourir les longues distances tout en restant au sec."
               }
             },
             {
@@ -2701,7 +2798,7 @@
                 "hu": "A megálló közel van a bejárathoz; tökéletes esős napokra.",
                 "ro": "Stația este aproape de intrare; perfect pentru zilele ploioase.",
                 "en": "The stop is close to the entrance; perfect for rainy days.",
-                "fr": "L'arrêt est proche de l'entrée ; parfait pour les jours de pluie."
+                "fr": "L'arrêt est proche de l'entrée ; parfait pour les jours de pluie."
               }
             }
           ],
@@ -2735,9 +2832,9 @@
               "Combine bus rides with short visits to sheltered attractions."
             ],
             "fr": [
-              "Vérifiez l'horaire actuel ; les tempêtes peuvent entraîner des annulations de service.",
-              "Ayez de la petite monnaie pour acheter des billets à bord.",
-              "Les bus sont chauffés et offrent de bonnes vues même sous la pluie.",
+              "Vérifiez l'horaire actuel ; les tempêtes peuvent entraîner des suppressions de service.",
+              "Ayez de la petite monnaie prête pour acheter les billets à bord.",
+              "Les bus sont chauffés et offrent une bonne vue même sous la pluie.",
               "Les horaires sont affichés à tous les arrêts principaux.",
               "Combinez les trajets en bus avec de courtes visites d'attractions abritées."
             ]
@@ -2749,7 +2846,7 @@
             "hu": "Télen a szigeti menetrendet használjuk egy pihentető túrához. Le Palais-ból a csendes Sauzonba utazunk, majd a friss levegőn a Pointe des Poulains-hoz sétálunk. A buszban való felmelegedés után a Goulphar világítótorony következik. Végül a citadellát nézzük meg, mielőtt az utolsó busszal visszatérünk a kivilágított Le Palais-ba.",
             "ro": "Iarna folosim programul local de transport pentru un tur relaxat. Din Le Palais mergem spre liniștitul Sauzon și ne plimbăm spre Pointe des Poulains în aerul curat. După ce ne încălzim în autobuz, mergem la farul Goulphar. Încheiem cu citadela, înainte de a lua ultimul autobuz spre Le Palais.",
             "en": "In winter, use the island bus schedule for a relaxed tour. Travel from Le Palais to quiet Sauzon and walk to Pointe des Poulains in the crisp air. After warming up on the bus, head to the Goulphar Lighthouse. Finish at the Citadel before catching the last bus back to illuminated Le Palais.",
-            "fr": "En hiver, utilisez les horaires de bus de l'île pour un tour décontracté. Voyagez de Le Palais jusqu'au calme de Sauzon et marchez vers la Pointe des Poulains dans l'air pur. Après vous être réchauffé dans le bus, dirigez-vous vers le phare de Goulphar. Terminez à la Citadelle avant de prendre le dernier bus pour retourner à Le Palais illuminé."
+            "fr": "En hiver, utilisez l'horaire des bus de l'île pour une visite détendue. Voyagez du Palais jusqu'à l'ensoleillé Sauzon et marchez jusqu'à la Pointe des Poulains dans l'air vif. Après vous être réchauffé dans le bus, dirigez-vous vers le Phare de Goulphar. Terminez à la Citadelle avant de reprendre le dernier bus pour un Palais illuminé."
           },
           "stops": [
             {
@@ -2759,7 +2856,7 @@
                 "hu": "A téli menetrend korlátozott; tervezze meg pontosan az indulást.",
                 "ro": "Orarele de iarnă sunt mult reduse; planificați cu atenție.",
                 "en": "Winter schedules are significantly reduced; plan your timing carefully.",
-                "fr": "Les horaires d'hiver sont considérablement réduits ; planifiez bien votre temps."
+                "fr": "Les horaires d'hiver sont fortement réduits ; planifiez soigneusement vos déplacements."
               }
             },
             {
@@ -2789,7 +2886,7 @@
                 "hu": "A busz kellemes felmelegedési lehetőséget nyújt az állomások között.",
                 "ro": "Autobuzul oferă o pauză de încălzire binevenită între destinații.",
                 "en": "The bus provides a welcome warming break between destinations.",
-                "fr": "Le bus offre une pause réchauffante bienvenue entre les destinations."
+                "fr": "Le bus offre une agréable pause chauffée entre les destinations."
               }
             },
             {
@@ -2799,7 +2896,7 @@
                 "hu": "Télen ez az utolsó megálló a kikötőbe való visszatérés előtt.",
                 "ro": "Iarna, aceasta este ultima oprire înainte de întoarcerea în port.",
                 "en": "In winter, this is the final stop before returning to the harbor.",
-                "fr": "En hiver, c'est le dernier arrêt avant de retourner au port."
+                "fr": "En hiver, c'est l'arrêt final avant le retour au port."
               }
             }
           ],
@@ -2833,11 +2930,11 @@
               "Use the local transit app for real-time schedule information."
             ],
             "fr": [
-              "Seule la ligne de bus principale circule régulièrement pendant l'hiver.",
-              "Les temps de trajet sont idéaux pour voir l'île sans avoir trop froid.",
+              "Seule la ligne principale circule régulièrement pendant l'hiver.",
+              "Les temps de trajet sont idéaux pour voir l'île sans trop se refroidir.",
               "Le dernier bus part souvent peu après le coucher du soleil.",
-              "Attendez aux arrêts marqués ; faites signe au chauffeur pour vous assurer qu'il s'arrête.",
-              "Utilisez l'application de transport locale pour les horaires en temps réel."
+              "Attendez-vous aux arrêts signalés ; faites signe au conducteur pour qu'il s'arrête.",
+              "Utilisez l'application de transport locale pour les informations d'horaires en temps réel."
             ]
           }
         }

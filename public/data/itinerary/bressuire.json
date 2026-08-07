@@ -21,7 +21,8 @@
             "de": "Bressuire Museum",
             "hu": "Bressuire Múzeum",
             "ro": "Muzeul Bressuire",
-            "en": "Bressuire Museum"
+            "en": "Bressuire Museum",
+            "fr": "Musée de Bressuire"
           },
           "coords": [
             -0.492898,
@@ -36,7 +37,8 @@
             "de": "Entdecken Sie die lokale Geschichte und Kunst in diesem umfassenden Museum, dessen Exponate mit dem Audioguide am Empfang noch lebendiger werden.",
             "hu": "Fedezze fel a helyi történelmet és művészetet ebben az átfogó múzeumban, ahol a részletes kiállítások életre kelnek, ha kér egy audioguide-ot.",
             "ro": "Descoperiți istoria și arta locală în acest muzeu cuprinzător, unde exponatele prind viață dacă solicitați un ghid audio de la recepție.",
-            "en": "Discover local history and artistry at this comprehensive museum, where detailed exhibits come alive if you grab an audio guide at the front desk."
+            "en": "Discover local history and artistry at this comprehensive museum, where detailed exhibits come alive if you grab an audio guide at the front desk.",
+            "fr": "Découvrez l’histoire et l’art locaux dans ce musée complet, où les expositions prennent vie si vous prenez un audioguide à l’accueil."
           }
         },
         {
@@ -44,7 +46,8 @@
             "de": "Église Notre-Dame",
             "hu": "Église Notre-Dame",
             "ro": "Église Notre-Dame",
-            "en": "Église Notre-Dame"
+            "en": "Église Notre-Dame",
+            "fr": "Église Notre‑Dame"
           },
           "coords": [
             -0.491552,
@@ -59,7 +62,8 @@
             "de": "Bewundern Sie die gotische Architektur und die bunten Glasfenster dieser zentralen Kirche, die im morgendlichen Sonnenlicht besonders schön wirken.",
             "hu": "Csodálja meg a központi templom lenyűgöző gótikus építészetét és ólomüveg ablakait, de mindenképpen a reggeli fényben érdemes idelátogatni.",
             "ro": "Admirați arhitectura gotică uimitoare și vitraliile acestei biserici centrale, având grijă să o vizitați când lumina dimineții pătrunde înăuntru.",
-            "en": "Admire the stunning Gothic architecture and stained glass windows of this central church, making sure to visit when the morning light streams inside."
+            "en": "Admire the stunning Gothic architecture and stained glass windows of this central church, making sure to visit when the morning light streams inside.",
+            "fr": "Admirez l’architecture gothique impressionnante et les vitraux de cette église centrale ; assurez‑vous d’y aller lorsque la lumière du matin pénètre l’intérieur."
           }
         },
         {
@@ -67,7 +71,8 @@
             "de": "Crèche animée",
             "hu": "Crèche animée",
             "ro": "Crèche animée",
-            "en": "Crèche animée"
+            "en": "Crèche animée",
+            "fr": "Crèche animée"
           },
           "coords": [
             -0.493917,
@@ -82,7 +87,8 @@
             "de": "Erleben Sie den Charme dieser animierten Krippe, die Besucher jeden Alters begeistert, wobei Sie vorab die genauen Betriebszeiten prüfen sollten.",
             "hu": "Tapasztalja meg ennek az animált betlehemnek a varázsát, amely minden korosztályt elbűvöl, bár érdemes előre ellenőrizni a nyitvatartási időt.",
             "ro": "Experimentați farmecul acestei scene de naștere animate care încântă vizitatorii de toate vârstele, deși ar trebui să verificați programul de funcționare.",
-            "en": "Experience the charm of this automated nativity scene that delights visitors of all ages, though you should check the local schedule for operating hours."
+            "en": "Experience the charm of this automated nativity scene that delights visitors of all ages, though you should check the local schedule for operating hours.",
+            "fr": "Vivez le charme de cette crèche mécanique qui enchante les visiteurs de tous âges ; vérifiez toutefois les horaires locaux de fonctionnement."
           }
         },
         {
@@ -90,7 +96,8 @@
             "de": "Saint-Cyprien Church",
             "hu": "Saint-Cyprien templom",
             "ro": "Biserica Saint-Cyprien",
-            "en": "Saint-Cyprien Church"
+            "en": "Saint-Cyprien Church",
+            "fr": "Église Saint‑Cyprien"
           },
           "coords": [
             -0.50161,
@@ -105,7 +112,8 @@
             "de": "Erkunden Sie diese ruhigere, historisch reiche Stätte, die friedliche Kontemplation bietet, und achten Sie besonders auf die feinen Altarschnitzereien.",
             "hu": "Fedezze fel ezt a csendesebb, történelmileg gazdag templomot, amely békés elmélkedést kínál, és figyelje meg az oltárfaragványok finom részleteit.",
             "ro": "Explorați această biserică mai liniștită și bogată istoric, ideală pentru contemplare, și priviți cu atenție detaliile sculpturilor de pe altar.",
-            "en": "Explore this quieter, historically rich religious site that offers peaceful contemplation, and look closely at the intricate details of the altar carvings."
+            "en": "Explore this quieter, historically rich religious site that offers peaceful contemplation, and look closely at the intricate details of the altar carvings.",
+            "fr": "Explorez ce lieu de culte plus calme et riche en histoire qui offre une contemplation paisible ; regardez de près les détails complexes des sculptures de l’autel."
           }
         },
         {
@@ -113,7 +121,8 @@
             "de": "Espace Jeunesse",
             "hu": "Espace Jeunesse",
             "ro": "Espace Jeunesse",
-            "en": "Espace Jeunesse"
+            "en": "Espace Jeunesse",
+            "fr": "Espace Jeunesse"
           },
           "coords": [
             -0.489777,
@@ -128,7 +137,8 @@
             "de": "Genießen Sie einen entspannten Spaziergang durch dieses Jugendzentrum, das ein hervorragender Ort ist, um mit einem Kaffee das lokale Leben zu beobachten.",
             "hu": "Élvezze a sétát ebben a fiatalokat támogató közösségi központban, amely kiváló hely arra, hogy egy kávéval a kezében figyelje a helyi életet.",
             "ro": "Bucurați-vă de o plimbare prin acest centru comunitar dedicat tinerilor, un loc excelent pentru a savura o cafea și a observa viața locală.",
-            "en": "Enjoy a relaxing stroll through this community hub that fosters youth culture, making it an excellent spot to sit with a coffee and watch local life."
+            "en": "Enjoy a relaxing stroll through this community hub that fosters youth culture, making it an excellent spot to sit with a coffee and watch local life.",
+            "fr": "Profitez d’une promenade détendue dans ce lieu communautaire qui encourage la culture jeune ; c’est un excellent endroit pour s’asseoir avec un café et observer la vie locale."
           }
         },
         {
@@ -136,7 +146,8 @@
             "de": "Bressuire Castle",
             "hu": "Bressuire-i vár",
             "ro": "Castelul Bressuire",
-            "en": "Bressuire Castle"
+            "en": "Bressuire Castle",
+            "fr": "Château de Bressuire"
           },
           "coords": [
             -0.470353,
@@ -151,7 +162,8 @@
             "de": "Durchstreifen Sie die imposanten Ruinen dieser mittelalterlichen Festung, wobei Sie für die unebenen Festungsmauern unbedingt festes Schuhwerk tragen sollten.",
             "hu": "Barangoljon a hatalmas középkori erőd lenyűgöző romjai között, amely egykor a régiót védte, és viseljen kényelmes cipőt az egyenetlen várfalakon.",
             "ro": "Plimbați-vă prin ruinele impunătoare ale acestei fortărețe medievale masive și purtați încălțăminte rezistentă pentru a explora meterezele denivelate.",
-            "en": "Wander the imposing ruins of this massive medieval fortress that once defended the region, and wear sturdy shoes for walking along the uneven ramparts."
+            "en": "Wander the imposing ruins of this massive medieval fortress that once defended the region, and wear sturdy shoes for walking along the uneven ramparts.",
+            "fr": "Parcourez les ruines imposantes de cette massive forteresse médiévale qui défendait autrefois la région ; portez des chaussures solides pour marcher le long des remparts inégaux."
           }
         }
       ],
@@ -159,7 +171,8 @@
         "de": "Starten Sie Ihren Tag mit dem reichen Erbe von Bressuire im zentralen Museum, gefolgt von einem Besuch der beeindruckenden Église Notre-Dame.\n\nGegen Mittag können Sie die charmante Crèche animée bewundern, bevor Sie einen ruhigen Spaziergang zur historisch bedeutsamen Kirche Saint-Cyprien unternehmen.\n\nVerbringen Sie den frühen Nachmittag entspannt im Espace Jeunesse, wo Sie die lokale Kultur aufsaugen und eine wohlverdiente Ruhepause genießen.\n\nBeenden Sie Ihren Rundgang am monumentalen Schloss von Bressuire, wo das goldene Abendlicht die imposanten mittelalterlichen Ruinen zum Leben erweckt.",
         "hu": "Kezdje a napot Bressuire gazdag örökségének megismerésével a központi múzeumban, majd látogasson el a lenyűgöző Église Notre-Dame-ba.\n\nDélben csodálja meg a bájos animált betlehemet, mielőtt egy békés sétát tenne a történelmileg jelentős Saint-Cyprien templom felé.\n\nKora délután pihenjen az Espace Jeunesse területén, szívja magába a helyi kultúrát és élvezze a jól megérdemelt pihenést.\n\nFejezze be a gyalogos túrát a monumentális bressuire-i várnál, ahol az aranyló esti fények életre keltik az impozáns középkori romokat.",
         "ro": "Începeți ziua descoperind patrimoniul bogat al orașului Bressuire la muzeul central, urmat de o vizită la impresionanta Église Notre-Dame.\n\nÎn jurul prânzului, admirați fermecătoarea Crèche animée înainte de a face o plimbare liniștită spre biserica istorică Saint-Cyprien.\n\nPetreceți-vă prima parte a după-amiezii relaxându-vă la Espace Jeunesse, absorbind cultura locală și bucurându-vă de un moment de odihnă.\n\nÎncheiați-vă turul pietonal la monumentalul Castel Bressuire, unde lumina aurie a serii readuce la viață ruinele medievale impunătoare.",
-        "en": "Start your day immersing in the rich heritage of Bressuire at the central museum, followed by a visit to the striking Église Notre-Dame.\n\nAround midday, marvel at the charming Crèche animée before taking a peaceful stroll towards the historically significant Saint-Cyprien Church.\n\nSpend your early afternoon relaxing at the Espace Jeunesse, absorbing the local culture and enjoying a well-deserved moment of rest.\n\nConclude your walking tour at the monumental Bressuire Castle, where the golden evening light brings the imposing medieval ruins back to life."
+        "en": "Start your day immersing in the rich heritage of Bressuire at the central museum, followed by a visit to the striking Église Notre-Dame.\n\nAround midday, marvel at the charming Crèche animée before taking a peaceful stroll towards the historically significant Saint-Cyprien Church.\n\nSpend your early afternoon relaxing at the Espace Jeunesse, absorbing the local culture and enjoying a well-deserved moment of rest.\n\nConclude your walking tour at the monumental Bressuire Castle, where the golden evening light brings the imposing medieval ruins back to life.",
+        "fr": "Commencez la journée en vous plongeant dans le riche patrimoine de Bressuire au musée central, puis visitez la remarquable Église Notre‑Dame.\n\nVers midi, admirez la charmante Crèche animée avant de flâner paisiblement vers l’historiquement significative Église Saint‑Cyprien.\n\nPassez le début d’après‑midi à vous détendre à l’Espace Jeunesse, en absorbant la culture locale et en profitant d’un moment de repos bien mérité.\n\nConcluez votre visite à pied au monumental Château de Bressuire, où la lumière dorée du soir redonne vie aux ruines médiévales imposantes."
       },
       "variants": {
         "rainy": {
@@ -167,7 +180,8 @@
             "en": "Begin your rainy morning at the museum to stay dry while exploring local history. By noon, take shelter in the nearby churches and enjoy their serene atmosphere. In the afternoon, navigate the indoor cultural spaces before heading to the castle. Be careful on the wet fortress grounds as evening approaches, and wear sturdy waterproof shoes today.",
             "hu": "Kezdje az esős reggelt a száraz múzeumban, elmerülve a helyi történelemben. Délben keressen menedéket a közeli templomokban, ahol nyugodt atmoszféra várja. Délután fedezze fel a kulturális teret, mielőtt a várhoz sétálna. Kora este óvatosan lépkedjen a csúszós várudvaron; a vízálló cipő ma elengedhetetlen a kényelmes városnézéshez.",
             "de": "Beginnen Sie Ihren regnerischen Morgen im Museum, um trocken zu bleiben. Mittags bieten die nahegelegenen Kirchen eine friedliche Zuflucht vor dem Wetter. Am Nachmittag erkunden Sie die überdachten Kulturräume, bevor Sie zum Schloss gehen. Seien Sie am Abend vorsichtig auf dem nassen Festungsgelände; wasserdichte Schuhe sind heute unerlässlich.",
-            "ro": "Începeți dimineața ploioasă la muzeu pentru a rămâne uscat explorând istoria. La prânz, adăpostiți-vă în bisericile din apropiere și bucurați-vă de liniștea lor. După-amiaza, vizitați spațiile culturale acoperite înainte de a merge la castel. Seara, pășiți cu grijă pe aleile umede ale fortăreței; încălțămintea impermeabilă este esențială azi."
+            "ro": "Începeți dimineața ploioasă la muzeu pentru a rămâne uscat explorând istoria. La prânz, adăpostiți-vă în bisericile din apropiere și bucurați-vă de liniștea lor. După-amiaza, vizitați spațiile culturale acoperite înainte de a merge la castel. Seara, pășiți cu grijă pe aleile umede ale fortăreței; încălțămintea impermeabilă este esențială azi.",
+            "fr": "Commencez votre matinée pluvieuse au musée pour rester au sec tout en explorant l’histoire locale. À midi, abritez‑vous dans les églises voisines et profitez de leur atmosphère sereine. L’après‑midi, naviguez dans les espaces culturels intérieurs avant de rejoindre le château. Faites attention aux sols mouillés de la forteresse en soirée et portez des chaussures imperméables et solides aujourd’hui."
           },
           "stops": [
             {
@@ -175,13 +189,15 @@
                 "de": "Bressuire Museum",
                 "hu": "Bressuire Múzeum",
                 "ro": "Muzeul Bressuire",
-                "en": "Bressuire Museum"
+                "en": "Bressuire Museum",
+                "fr": "Musée de Bressuire"
               },
               "tip_5lang": {
                 "en": "Explore the rich local history indoors to escape the morning rain, keeping your umbrella handy for the short walk.",
                 "hu": "Fedezze fel a helyi történelmet a száraz beltérben, hogy elkerülje a reggeli esőt, de tartsa kéznél az esernyőjét.",
                 "de": "Erkunden Sie die reiche lokale Geschichte im Trockenen und halten Sie Ihren Regenschirm für den kurzen Weg bereit.",
-                "ro": "Explorați istoria locală în interior pentru a scăpa de ploaia matinală, păstrând umbrela la îndemână pentru drum."
+                "ro": "Explorați istoria locală în interior pentru a scăpa de ploaia matinală, păstrând umbrela la îndemână pentru drum.",
+                "fr": "Explorez la riche histoire locale à l’intérieur pour échapper à la pluie du matin, en gardant votre parapluie à portée de main pour le court trajet."
               }
             },
             {
@@ -189,13 +205,15 @@
                 "de": "Église Notre-Dame",
                 "hu": "Église Notre-Dame",
                 "ro": "Église Notre-Dame",
-                "en": "Église Notre-Dame"
+                "en": "Église Notre-Dame",
+                "fr": "Église Notre‑Dame"
               },
               "tip_5lang": {
                 "en": "Admire the stunning Gothic architecture while enjoying a dry, peaceful refuge from the persistent midday showers.",
                 "hu": "Csodálja meg a lenyűgöző gótikus építészetet, miközben száraz és békés menedéket talál a kitartó déli záporok elől.",
                 "de": "Bewundern Sie die gotische Architektur und genießen Sie eine trockene, friedliche Zuflucht vor den Mittagsschauern.",
-                "ro": "Admirați arhitectura gotică uluitoare în timp ce vă bucurați de un refugiu uscat și pașnic din calea averselor."
+                "ro": "Admirați arhitectura gotică uluitoare în timp ce vă bucurați de un refugiu uscat și pașnic din calea averselor.",
+                "fr": "Admirez l’architecture gothique impressionnante tout en profitant d’un refuge sec et paisible contre les averses persistantes de la mi‑journée."
               }
             },
             {
@@ -203,13 +221,15 @@
                 "de": "Crèche animée",
                 "hu": "Crèche animée",
                 "ro": "Crèche animée",
-                "en": "Crèche animée"
+                "en": "Crèche animée",
+                "fr": "Crèche animée"
               },
               "tip_5lang": {
                 "en": "Marvel at this charming mechanical nativity scene indoors, offering a delightful and completely dry cultural stop.",
                 "hu": "Gyönyörködjön a bájos mechanikus betlehemben, amely elragadó és teljesen száraz kulturális megállót kínál.",
                 "de": "Bestaunen Sie diese charmante mechanische Krippe im Innenbereich, die einen wunderbar trockenen Kulturstopp bietet.",
-                "ro": "Minunați-vă de această fermecătoare scenă mecanică a nașterii, o oprire culturală încântătoare și ferită de ploaie."
+                "ro": "Minunați-vă de această fermecătoare scenă mecanică a nașterii, o oprire culturală încântătoare și ferită de ploaie.",
+                "fr": "Admirez cette charmante crèche mécanique à l’abri, offrant une halte culturelle délicieuse et parfaitement sèche."
               }
             },
             {
@@ -217,13 +237,15 @@
                 "de": "Saint-Cyprien Church",
                 "hu": "Saint-Cyprien templom",
                 "ro": "Biserica Saint-Cyprien",
-                "en": "Saint-Cyprien Church"
+                "en": "Saint-Cyprien Church",
+                "fr": "Église Saint‑Cyprien"
               },
               "tip_5lang": {
                 "en": "Take time to inspect the intricate stained glass windows that look beautiful even in the grey, rainy afternoon light.",
                 "hu": "Szánjon időt a bonyolult ólomüveg ablakok megfigyelésére, amelyek még a szürke, esős délutáni fényben is gyönyörűek.",
                 "de": "Betrachten Sie die kunstvollen Buntglasfenster, die auch im grauen, regnerischen Nachmittagslicht wunderschön aussehen.",
-                "ro": "Alocați timp pentru a studia vitraliile complexe care arată superb chiar și în lumina cenușie a ploii de după-amiază."
+                "ro": "Alocați timp pentru a studia vitraliile complexe care arată superb chiar și în lumina cenușie a ploii de după-amiază.",
+                "fr": "Prenez le temps d’examiner les vitraux finement travaillés qui restent magnifiques même sous la lumière grise et pluvieuse de l’après‑midi."
               }
             },
             {
@@ -231,13 +253,15 @@
                 "de": "Espace Jeunesse",
                 "hu": "Espace Jeunesse",
                 "ro": "Espace Jeunesse",
-                "en": "Espace Jeunesse"
+                "en": "Espace Jeunesse",
+                "fr": "Espace Jeunesse"
               },
               "tip_5lang": {
                 "en": "Participate in engaging indoor activities here, providing a perfect shelter and entertainment during heavy rain spells.",
                 "hu": "Vegyen részt a benti programokon, amelyek tökéletes menedéket és szórakozást nyújtanak a heves esőzések idején.",
                 "de": "Nehmen Sie an spannenden Indoor-Aktivitäten teil, die bei starkem Regen perfekten Schutz und Unterhaltung bieten.",
-                "ro": "Participați la activitățile de interior captivante, oferind un adăpost perfect și divertisment în timpul ploilor torențiale."
+                "ro": "Participați la activitățile de interior captivante, oferind un adăpost perfect și divertisment în timpul ploilor torențiale.",
+                "fr": "Participez aux activités intérieures engageantes ici, offrant un abri parfait et du divertissement pendant les fortes pluies."
               }
             },
             {
@@ -245,13 +269,15 @@
                 "de": "Bressuire Castle",
                 "hu": "Bressuire-i vár",
                 "ro": "Castelul Bressuire",
-                "en": "Bressuire Castle"
+                "en": "Bressuire Castle",
+                "fr": "Château de Bressuire"
               },
               "tip_5lang": {
                 "en": "Discover the impressive ruins but step carefully on the wet stones, as the paths can be very slippery in the rain.",
                 "hu": "Fedezze fel a lenyűgöző romokat, de lépkedjen óvatosan a vizes köveken, mivel az ösvények nagyon csúszósak lehetnek.",
                 "de": "Entdecken Sie die beeindruckenden Ruinen, aber treten Sie vorsichtig auf die nassen Steine, da die Wege rutschig sind.",
-                "ro": "Descoperiți ruinele impresionante, dar pășiți cu grijă pe pietrele umede, deoarece potecile pot deveni alunecoase."
+                "ro": "Descoperiți ruinele impresionante, dar pășiți cu grijă pe pietrele umede, deoarece potecile pot deveni alunecoase.",
+                "fr": "Découvrez les ruines impressionnantes mais marchez prudemment sur les pierres mouillées, car les sentiers peuvent être très glissants sous la pluie."
               }
             }
           ]
@@ -261,7 +287,8 @@
             "en": "Bundle up for a crisp winter morning starting at the warm museum. Around noon, step into the historic churches to escape the biting wind. The afternoon continues with cozy indoor cultural activities before your final stop at the majestic castle. Keep in mind that the sun sets early around 17:00, so the castle ruins will be bathed in the magical fading light.",
             "hu": "Öltözzön melegen a csípős téli reggelre, amelyet a fűtött múzeumban kezdhet. Dél körül térjen be a történelmi templomokba, hogy elmeneküljön a hideg szél elől. A délután meghitt, benti kulturális programokkal telik, mielőtt a várhoz érne. Ne feledje, hogy a nap már 17:00 körül lenyugszik, így a várromokat a varázslatos, halványuló fényben csodálhatja meg.",
             "de": "Ziehen Sie sich warm an für den kühlen Wintermorgen, der im beheizten Museum beginnt. Mittags bieten die historischen Kirchen Schutz vor dem eisigen Wind. Der Nachmittag bietet gemütliche Indoor-Aktivitäten, bevor Sie das majestätische Schloss besuchen. Denken Sie daran, dass die Sonne gegen 17:00 Uhr untergeht und die Ruinen in magisches Licht taucht.",
-            "ro": "Îmbrăcați-vă gros pentru o dimineață rece de iarnă, începând la muzeul încălzit. La prânz, intrați în bisericile istorice pentru a scăpa de vântul tăios. După-amiaza continuă cu activități culturale interioare confortabile înainte de a ajunge la castel. Rețineți că soarele apune devreme, spre ora 17:00, oferind ruinelor o lumină magică de amurg."
+            "ro": "Îmbrăcați-vă gros pentru o dimineață rece de iarnă, începând la muzeul încălzit. La prânz, intrați în bisericile istorice pentru a scăpa de vântul tăios. După-amiaza continuă cu activități culturale interioare confortabile înainte de a ajunge la castel. Rețineți că soarele apune devreme, spre ora 17:00, oferind ruinelor o lumină magică de amurg.",
+            "fr": "Emmitouflez‑vous pour un matin d’hiver frais en commençant par le musée chaleureux. Vers midi, entrez dans les églises historiques pour échapper au vent mordant. L’après‑midi se poursuit par des activités culturelles cosy en intérieur avant votre arrêt final au majestueux château. Gardez à l’esprit que le soleil se couche tôt vers 17:00, donc les ruines du château seront baignées d’une lumière magique déclinante."
           },
           "stops": [
             {
@@ -269,13 +296,15 @@
                 "de": "Bressuire Museum",
                 "hu": "Bressuire Múzeum",
                 "ro": "Muzeul Bressuire",
-                "en": "Bressuire Museum"
+                "en": "Bressuire Museum",
+                "fr": "Musée de Bressuire"
               },
               "tip_5lang": {
                 "en": "Warm up inside while discovering fascinating exhibits, a perfect start to a chilly winter day before heading outside.",
                 "hu": "Melegedjen fel odabent, miközben lenyűgöző kiállításokat fedez fel; tökéletes kezdése egy csípős téli napnak.",
                 "de": "Wärmen Sie sich drinnen auf, während Sie faszinierende Exponate entdecken – der perfekte Start in den kalten Wintertag.",
-                "ro": "Încălziți-vă înăuntru descoperind exponate fascinante, un început perfect pentru o zi răcoroasă de iarnă."
+                "ro": "Încălziți-vă înăuntru descoperind exponate fascinante, un început perfect pentru o zi răcoroasă de iarnă.",
+                "fr": "Réchauffez‑vous à l’intérieur en découvrant des expositions fascinantes, un départ parfait pour une froide journée d’hiver avant de sortir."
               }
             },
             {
@@ -283,13 +312,15 @@
                 "de": "Église Notre-Dame",
                 "hu": "Église Notre-Dame",
                 "ro": "Église Notre-Dame",
-                "en": "Église Notre-Dame"
+                "en": "Église Notre-Dame",
+                "fr": "Église Notre‑Dame"
               },
               "tip_5lang": {
                 "en": "Enjoy the quiet, slightly chilly but wind-free interior to admire its gothic grandeur; a warm scarf is recommended here.",
                 "hu": "Élvezze a csendes, kissé hűvös, de szélvédett belső teret; a gótikus pompa megcsodálásához ajánlott egy meleg sál.",
                 "de": "Genießen Sie den windgeschützten, etwas kühlen Innenraum, um seine gotische Pracht zu bewundern; ein Schal wird empfohlen.",
-                "ro": "Bucurați-vă de interiorul liniștit, fără vânt, pentru a admira măreția gotică; o eșarfă călduroasă este recomandată aici."
+                "ro": "Bucurați-vă de interiorul liniștit, fără vânt, pentru a admira măreția gotică; o eșarfă călduroasă este recomandată aici.",
+                "fr": "Profitez de l’intérieur calme, légèrement frais mais à l’abri du vent, pour admirer sa grandeur gothique ; une écharpe chaude est recommandée."
               }
             },
             {
@@ -297,13 +328,15 @@
                 "de": "Crèche animée",
                 "hu": "Crèche animée",
                 "ro": "Crèche animée",
-                "en": "Crèche animée"
+                "en": "Crèche animée",
+                "fr": "Crèche animée"
               },
               "tip_5lang": {
                 "en": "Step out of the cold to see this intricate animated display, providing a heartwarming and cozy winter experience.",
                 "hu": "Lépjen be a hidegből, hogy megnézze ezt a bonyolult animációs kijelzőt, amely szívmelengető téli élményt nyújt.",
                 "de": "Entfliehen Sie der Kälte und betrachten Sie diese detailreiche Ausstellung, die ein herzerwärmendes Wintererlebnis bietet.",
-                "ro": "Scăpați de frig pentru a vedea această expoziție animată complexă, oferind o experiență de iarnă plină de căldură."
+                "ro": "Scăpați de frig pentru a vedea această expoziție animată complexă, oferind o experiență de iarnă plină de căldură.",
+                "fr": "Sortez du froid pour voir ce décor animé et détaillé, offrant une expérience hivernale chaleureuse et réconfortante."
               }
             },
             {
@@ -311,13 +344,15 @@
                 "de": "Saint-Cyprien Church",
                 "hu": "Saint-Cyprien templom",
                 "ro": "Biserica Saint-Cyprien",
-                "en": "Saint-Cyprien Church"
+                "en": "Saint-Cyprien Church",
+                "fr": "Église Saint‑Cyprien"
               },
               "tip_5lang": {
                 "en": "The low winter sun beautifully illuminates the stained glass; keep your jacket on as historic stone churches stay cold.",
                 "hu": "Az alacsony téli nap gyönyörűen megvilágítja az ólomüveget; tartsa magán a kabátját, mert a kőtemplomok hidegek maradnak.",
                 "de": "Die tiefe Wintersonne beleuchtet das Buntglas wunderschön; behalten Sie die Jacke an, da Steinkirchen oft kalt sind.",
-                "ro": "Soarele de iarnă luminează superb vitraliile; păstrați geaca pe dumneavoastră, deoarece bisericile din piatră sunt reci."
+                "ro": "Soarele de iarnă luminează superb vitraliile; păstrați geaca pe dumneavoastră, deoarece bisericile din piatră sunt reci.",
+                "fr": "Le faible soleil d’hiver illumine magnifiquement les vitraux ; gardez votre veste car les églises anciennes restent froides."
               }
             },
             {
@@ -325,13 +360,15 @@
                 "de": "Espace Jeunesse",
                 "hu": "Espace Jeunesse",
                 "ro": "Espace Jeunesse",
-                "en": "Espace Jeunesse"
+                "en": "Espace Jeunesse",
+                "fr": "Espace Jeunesse"
               },
               "tip_5lang": {
                 "en": "Take a relaxing break in this well-heated cultural space to completely thaw out before your final outdoor walk.",
                 "hu": "Tartson egy pihentető szünetet ebben a jól fűtött kulturális térben, hogy teljesen felengedjen az utolsó kinti séta előtt.",
                 "de": "Machen Sie eine Pause in diesem gut beheizten Kulturraum, um sich vor dem letzten Spaziergang draußen aufzuwärmen.",
-                "ro": "Luați o pauză relaxantă în acest spațiu cultural bine încălzit pentru a vă dezgheța complet înainte de plimbarea finală."
+                "ro": "Luați o pauză relaxantă în acest spațiu cultural bine încălzit pentru a vă dezgheța complet înainte de plimbarea finală.",
+                "fr": "Faites une pause relaxante dans cet espace culturel bien chauffé pour vous réchauffer complètement avant votre dernière promenade en extérieur."
               }
             },
             {
@@ -339,13 +376,15 @@
                 "de": "Bressuire Castle",
                 "hu": "Bressuire-i vár",
                 "ro": "Castelul Bressuire",
-                "en": "Bressuire Castle"
+                "en": "Bressuire Castle",
+                "fr": "Château de Bressuire"
               },
               "tip_5lang": {
                 "en": "Explore the majestic fortress ruins as the early winter dusk sets in; dress warmly against the brisk afternoon winds.",
                 "hu": "Fedezze fel a fenséges várromokat a korai téli szürkületben; öltözzön melegen a csípős délutáni szelek ellen.",
                 "de": "Erkunden Sie die Festungsruinen in der frühen Winterdämmerung; kleiden Sie sich warm gegen den frischen Nachmittagswind.",
-                "ro": "Explorați ruinele maiestuoase ale fortăreței odată cu lăsarea amurgului; îmbrăcați-vă gros împotriva vântului tăios."
+                "ro": "Explorați ruinele maiestuoase ale fortăreței odată cu lăsarea amurgului; îmbrăcați-vă gros împotriva vântului tăios.",
+                "fr": "Explorez les majestueuses ruines de la forteresse au crépuscule de l'hiver naissant ; habillez-vous chaudement contre les vents vifs de l'après-midi."
               }
             }
           ]
@@ -365,7 +404,8 @@
             "de": "Chapelle Notre-Dame-de-Bon-Secours",
             "hu": "Chapelle Notre-Dame-de-Bon-Secours",
             "ro": "Chapelle Notre-Dame-de-Bon-Secours",
-            "en": "Chapelle Notre-Dame-de-Bon-Secours"
+            "en": "Chapelle Notre-Dame-de-Bon-Secours",
+            "fr": "Chapelle Notre-Dame-de-Bon-Secours"
           },
           "coords": [
             -0.460471,
@@ -380,7 +420,8 @@
             "de": "Finden Sie Ruhe in dieser etwas abgelegenen Kapelle mit schönen Steinarbeiten und bringen Sie eine Kamera für die malerische Landschaft mit.",
             "hu": "Találjon békére ebben a kissé félreeső, gyönyörű kőfaragásokkal díszített kápolnában, és hozzon magával fényképezőgépet a festői táj megörökítéséhez.",
             "ro": "Găsiți liniștea în această capelă retrasă, cu lucrări frumoase din piatră, și aduceți un aparat foto pentru a surprinde peisajul pitoresc din jur.",
-            "en": "Find tranquility at this slightly secluded chapel featuring beautiful stonework, and bring a camera to capture the picturesque surrounding landscape."
+            "en": "Find tranquility at this slightly secluded chapel featuring beautiful stonework, and bring a camera to capture the picturesque surrounding landscape.",
+            "fr": "Trouvez la tranquillité dans cette chapelle légèrement isolée aux belles pierres, et prenez un appareil photo pour capturer le paysage pittoresque alentour."
           }
         },
         {
@@ -388,7 +429,8 @@
             "de": "Bressuire Museum",
             "hu": "Bressuire Múzeum",
             "ro": "Muzeul Bressuire",
-            "en": "Bressuire Museum"
+            "en": "Bressuire Museum",
+            "fr": "Musée de Bressuire"
           },
           "coords": [
             -0.492898,
@@ -403,7 +445,8 @@
             "de": "Entdecken Sie die lokale Geschichte und Kunst in diesem umfassenden Museum, dessen Exponate mit dem Audioguide am Empfang noch lebendiger werden.",
             "hu": "Fedezze fel a helyi történelmet és művészetet ebben az átfogó múzeumban, ahol a részletes kiállítások életre kelnek, ha kér egy audioguide-ot.",
             "ro": "Descoperiți istoria și arta locală în acest muzeu cuprinzător, unde exponatele prind viață dacă solicitați un ghid audio de la recepție.",
-            "en": "Discover local history and artistry at this comprehensive museum, where detailed exhibits come alive if you grab an audio guide at the front desk."
+            "en": "Discover local history and artistry at this comprehensive museum, where detailed exhibits come alive if you grab an audio guide at the front desk.",
+            "fr": "Découvrez l'histoire locale et l'artisanat dans ce musée complet, où les expositions détaillées prennent vie si vous prenez un audioguide à l'accueil."
           }
         },
         {
@@ -411,7 +454,8 @@
             "de": "Église Notre-Dame",
             "hu": "Église Notre-Dame",
             "ro": "Église Notre-Dame",
-            "en": "Église Notre-Dame"
+            "en": "Église Notre-Dame",
+            "fr": "Église Notre-Dame"
           },
           "coords": [
             -0.491552,
@@ -426,7 +470,8 @@
             "de": "Bewundern Sie die gotische Architektur und die bunten Glasfenster dieser zentralen Kirche, die im morgendlichen Sonnenlicht besonders schön wirken.",
             "hu": "Csodálja meg a központi templom lenyűgöző gótikus építészetét és ólomüveg ablakait, de mindenképpen a reggeli fényben érdemes idelátogatni.",
             "ro": "Admirați arhitectura gotică uimitoare și vitraliile acestei biserici centrale, având grijă să o vizitați când lumina dimineții pătrunde înăuntru.",
-            "en": "Admire the stunning Gothic architecture and stained glass windows of this central church, making sure to visit when the morning light streams inside."
+            "en": "Admire the stunning Gothic architecture and stained glass windows of this central church, making sure to visit when the morning light streams inside.",
+            "fr": "Admirez la splendide architecture gothique et les vitraux de cette église centrale, en veillant à la visiter lorsque la lumière du matin y pénètre."
           }
         },
         {
@@ -434,7 +479,8 @@
             "de": "Saint-Cyprien Church",
             "hu": "Saint-Cyprien templom",
             "ro": "Biserica Saint-Cyprien",
-            "en": "Saint-Cyprien Church"
+            "en": "Saint-Cyprien Church",
+            "fr": "Église Saint-Cyprien"
           },
           "coords": [
             -0.50161,
@@ -449,7 +495,8 @@
             "de": "Erkunden Sie diese ruhigere, historisch reiche Stätte, die friedliche Kontemplation bietet, und achten Sie besonders auf die feinen Altarschnitzereien.",
             "hu": "Fedezze fel ezt a csendesebb, történelmileg gazdag templomot, amely békés elmélkedést kínál, és figyelje meg az oltárfaragványok finom részleteit.",
             "ro": "Explorați această biserică mai liniștită și bogată istoric, ideală pentru contemplare, și priviți cu atenție detaliile sculpturilor de pe altar.",
-            "en": "Explore this quieter, historically rich religious site that offers peaceful contemplation, and look closely at the intricate details of the altar carvings."
+            "en": "Explore this quieter, historically rich religious site that offers peaceful contemplation, and look closely at the intricate details of the altar carvings.",
+            "fr": "Explorez ce lieu de culte plus calme et riche d'histoire qui offre une contemplation paisible, et observez de près les détails finement sculptés de l'autel."
           }
         },
         {
@@ -457,7 +504,8 @@
             "de": "Bressuire Castle",
             "hu": "Bressuire-i vár",
             "ro": "Castelul Bressuire",
-            "en": "Bressuire Castle"
+            "en": "Bressuire Castle",
+            "fr": "Château de Bressuire"
           },
           "coords": [
             -0.470353,
@@ -472,7 +520,8 @@
             "de": "Durchstreifen Sie die imposanten Ruinen dieser mittelalterlichen Festung, wobei Sie für die unebenen Festungsmauern unbedingt festes Schuhwerk tragen sollten.",
             "hu": "Barangoljon a hatalmas középkori erőd lenyűgöző romjai között, amely egykor a régiót védte, és viseljen kényelmes cipőt az egyenetlen várfalakon.",
             "ro": "Plimbați-vă prin ruinele impunătoare ale acestei fortărețe medievale masive și purtați încălțăminte rezistentă pentru a explora meterezele denivelate.",
-            "en": "Wander the imposing ruins of this massive medieval fortress that once defended the region, and wear sturdy shoes for walking along the uneven ramparts."
+            "en": "Wander the imposing ruins of this massive medieval fortress that once defended the region, and wear sturdy shoes for walking along the uneven ramparts.",
+            "fr": "Parcourez les imposantes ruines de cette vaste forteresse médiévale qui défendait autrefois la région, et portez des chaussures solides pour marcher le long des remparts inégaux."
           }
         },
         {
@@ -480,7 +529,8 @@
             "de": "Château de La Coussaie",
             "hu": "Château de La Coussaie",
             "ro": "Château de La Coussaie",
-            "en": "Château de La Coussaie"
+            "en": "Château de La Coussaie",
+            "fr": "Château de La Coussaie"
           },
           "coords": [
             -0.498205,
@@ -495,7 +545,8 @@
             "de": "Machen Sie eine Zeitreise in diesem eleganten historischen Schloss, das Sie am besten bei einer spannenden Führung durch die prächtigen Säle erleben.",
             "hu": "Lépjen vissza az időben ebben az elegáns kastélyban, amely a regionális arisztokrata örökséget mutatja be, és élvezze a fő csarnokok vezetett túráját.",
             "ro": "Întoarceți-vă în timp în acest castel istoric elegant, care prezintă patrimoniul aristocratic regional, savurat cel mai bine printr-un tur ghidat al sălilor.",
-            "en": "Step back in time at this elegant historical castle that showcases regional aristocratic heritage, best enjoyed with a guided tour of the main halls."
+            "en": "Step back in time at this elegant historical castle that showcases regional aristocratic heritage, best enjoyed with a guided tour of the main halls.",
+            "fr": "Faites un saut dans le passé dans ce château historique élégant qui met en valeur le patrimoine aristocratique régional, à apprécier de préférence lors d'une visite guidée des salons principaux."
           }
         }
       ],
@@ -503,7 +554,8 @@
         "de": "Radeln Sie zur ruhigen Kapelle Notre-Dame-de-Bon-Secours für einen friedlichen Morgen und erkunden Sie anschließend das faszinierende Museum von Bressuire.\n\nRollen Sie in den historischen Stadtkern, um sowohl die Église Notre-Dame als auch die Kirche Saint-Cyprien zu bewundern und die Architektur zu genießen.\n\nEine kurze Radtour bringt Sie zu den hoch aufragenden Ruinen des Schlosses Bressuire, einer Festung, die ein echtes Gefühl für die mittelalterliche Vergangenheit vermittelt.\n\nBeenden Sie Ihre Radtour mit einer angenehmen Route nach Süden zum eleganten Château de La Coussaie und lassen Sie den Tag bei Sonnenuntergang Revue passieren.",
         "hu": "Tekerjen el a békés Notre-Dame-de-Bon-Secours kápolnához a reggeli nyugalomért, majd biciklizzen vissza a lenyűgöző Bressuire Múzeumhoz.\n\nGuruljon be a város történelmi központjába, hogy megcsodálja a Notre-Dame és a Saint-Cyprien templomok lenyűgöző építészeti szépségét útközben.\n\nEgy rövid bicikliút elviszi a hatalmas bressuire-i vár romjaihoz, egy hihetetlen erődhöz, amely igazi középkori hangulatot áraszt.\n\nFejezze be kerékpáros útját egy kellemes délre tartó tekeréssel az elegáns Château de La Coussaie-hez, és gondoljon vissza a napra a naplementében.",
         "ro": "Porniți cu bicicleta spre liniștita Capelă Notre-Dame-de-Bon-Secours, apoi întoarceți-vă pentru a explora fascinantul Muzeu Bressuire.\n\nCălătoriți spre centrul istoric al orașului pentru a admira atât Église Notre-Dame, cât și Biserica Saint-Cyprien, bucurându-vă de frumusețea arhitecturală.\n\nO scurtă plimbare cu bicicleta vă duce la ruinele grandioase ale Castelului Bressuire, o fortăreață care oferă un sentiment autentic al trecutului medieval.\n\nÎncheiați călătoria cu bicicleta printr-un traseu plăcut spre sud către elegantul Château de La Coussaie, reflectând asupra zilei la apus.",
-        "en": "Pedal out to the tranquil Chapelle Notre-Dame-de-Bon-Secours to start your morning in peace, then cycle back to explore the fascinating Bressuire Museum.\n\nRoll into the historic core of the city to admire both Église Notre-Dame and Saint-Cyprien Church, taking in the architectural beauty along the way.\n\nA short bike ride takes you to the towering ruins of Bressuire Castle, an incredible fortress that offers a true sense of the region's medieval past.\n\nFinish your cycling journey with a pleasant route south to the elegant Château de La Coussaie, reflecting on the day as the sun sets."
+        "en": "Pedal out to the tranquil Chapelle Notre-Dame-de-Bon-Secours to start your morning in peace, then cycle back to explore the fascinating Bressuire Museum.\n\nRoll into the historic core of the city to admire both Église Notre-Dame and Saint-Cyprien Church, taking in the architectural beauty along the way.\n\nA short bike ride takes you to the towering ruins of Bressuire Castle, an incredible fortress that offers a true sense of the region's medieval past.\n\nFinish your cycling journey with a pleasant route south to the elegant Château de La Coussaie, reflecting on the day as the sun sets.",
+        "fr": "Partez à vélo vers la paisible Chapelle Notre-Dame-de-Bon-Secours pour commencer votre matinée en paix, puis revenez à vélo pour explorer le fascinant Musée de Bressuire.\n\nRoulez vers le noyau historique de la ville pour admirer à la fois l'Église Notre-Dame et l'Église Saint-Cyprien, en appréciant la beauté architecturale en chemin.\n\nUne courte balade à vélo vous mène aux imposantes ruines du Château de Bressuire, une forteresse incroyable qui donne un véritable aperçu du passé médiéval de la région.\n\nTerminez votre parcours à vélo par un agréable trajet vers le sud jusqu'à l'élégant Château de La Coussaie, en réfléchissant à la journée au coucher du soleil."
       },
       "variants": {
         "rainy": {
@@ -511,7 +563,8 @@
             "en": "Pedal carefully this morning to the chapel, ensuring your rain gear is tightly secured. By noon, dry off in the museum and churches while enjoying Bressuire's heritage. The afternoon ride to the castles requires caution on wet, slippery cycling paths. Finish your damp evening with a warming drink somewhere cozy; good brakes and mudguards are highly recommended today.",
             "hu": "Óvatosan tekerjen ezen a reggelen a kápolnához, ügyelve az esőruha szorosságára. Délben szárítkozzon meg a múzeumban és a templomokban. A délutáni kastélytúra során fokozott óvatosság szükséges a csúszós kerékpárutakon. A nedves estét zárja egy melegítő itallal egy barátságos helyen; a jó fékek és sárvédők ma kifejezetten ajánlottak.",
             "de": "Radeln Sie heute Morgen vorsichtig zur Kapelle und achten Sie auf fest sitzende Regenkleidung. Mittags können Sie sich im Museum und in den Kirchen aufwärmen. Die Nachmittagsfahrt zu den Schlössern erfordert Vorsicht auf nassen, rutschigen Radwegen. Beenden Sie den Abend an einem gemütlichen Ort; gute Bremsen und Schutzbleche sind heute sehr wichtig.",
-            "ro": "Pedați cu grijă în această dimineață spre capelă, asigurându-vă că pelerina de ploaie este bine fixată. La prânz, uscați-vă în muzeu și biserici. Plimbarea de după-amiază spre castele necesită atenție pe pistele de biciclete umede și alunecoase. Încheiați seara umedă cu o băutură caldă; frânele bune și apărătorile de noroi sunt recomandate azi."
+            "ro": "Pedați cu grijă în această dimineață spre capelă, asigurându-vă că pelerina de ploaie este bine fixată. La prânz, uscați-vă în muzeu și biserici. Plimbarea de după-amiază spre castele necesită atenție pe pistele de biciclete umede și alunecoase. Încheiați seara umedă cu o băutură caldă; frânele bune și apărătorile de noroi sunt recomandate azi.",
+            "fr": "Pédalez prudemment ce matin jusqu'à la chapelle, en veillant à bien arrimer vos vêtements de pluie. À midi, séchez-vous au musée et dans les églises tout en profitant du patrimoine de Bressuire. La balade de l'après‑midi vers les châteaux nécessite de la prudence sur les pistes cyclables mouillées et glissantes. Terminez votre soirée humide avec une boisson réconfortante dans un endroit chaleureux ; de bons freins et des garde‑boue sont vivement recommandés aujourd'hui."
           },
           "stops": [
             {
@@ -519,13 +572,15 @@
                 "de": "Chapelle Notre-Dame-de-Bon-Secours",
                 "hu": "Chapelle Notre-Dame-de-Bon-Secours",
                 "ro": "Chapelle Notre-Dame-de-Bon-Secours",
-                "en": "Chapelle Notre-Dame-de-Bon-Secours"
+                "en": "Chapelle Notre-Dame-de-Bon-Secours",
+                "fr": "Chapelle Notre-Dame-de-Bon-Secours"
               },
               "tip_5lang": {
                 "en": "Seek immediate shelter in this peaceful chapel if the morning rain gets heavy, keeping your bike covered outside.",
                 "hu": "Keressen azonnali menedéket ebben a békés kápolnában, ha a reggeli eső rákezdené, a kerékpárt pedig takarja le kint.",
                 "de": "Suchen Sie in dieser friedlichen Kapelle sofort Schutz vor dem Regen und decken Sie Ihr Fahrrad draußen gut ab.",
-                "ro": "Căutați adăpost în această capelă liniștită dacă ploaia se întețește, păstrând bicicleta acoperită afară."
+                "ro": "Căutați adăpost în această capelă liniștită dacă ploaia se întețește, păstrând bicicleta acoperită afară.",
+                "fr": "Cherchez un abri immédiat dans cette chapelle paisible si la pluie du matin devient forte, en couvrant votre vélo à l'extérieur."
               }
             },
             {
@@ -533,13 +588,15 @@
                 "de": "Bressuire Museum",
                 "hu": "Bressuire Múzeum",
                 "ro": "Muzeul Bressuire",
-                "en": "Bressuire Museum"
+                "en": "Bressuire Museum",
+                "fr": "Musée de Bressuire"
               },
               "tip_5lang": {
                 "en": "Lock your wet bike and enjoy a fascinating, fully dry exploration of local artifacts and historical exhibitions inside.",
                 "hu": "Zárja le vizes kerékpárját, és élvezze a helyi leletek és történelmi kiállítások lenyűgöző, teljesen száraz felfedezését.",
                 "de": "Schließen Sie das nasse Fahrrad ab und genießen Sie eine faszinierende, trockene Erkundung lokaler Artefakte im Inneren.",
-                "ro": "Legați bicicleta udă și bucurați-vă de o explorare fascinantă și complet uscată a artefactelor și expozițiilor istorice."
+                "ro": "Legați bicicleta udă și bucurați-vă de o explorare fascinantă și complet uscată a artefactelor și expozițiilor istorice.",
+                "fr": "Verrouillez votre vélo mouillé et profitez d'une exploration fascinante et entièrement au sec des artefacts et expositions historiques à l'intérieur."
               }
             },
             {
@@ -547,13 +604,15 @@
                 "de": "Église Notre-Dame",
                 "hu": "Église Notre-Dame",
                 "ro": "Église Notre-Dame",
-                "en": "Église Notre-Dame"
+                "en": "Église Notre-Dame",
+                "fr": "Église Notre-Dame"
               },
               "tip_5lang": {
                 "en": "Rest your legs and dry your jacket in this magnificent gothic church, an ideal refuge from unpredictable rain showers.",
                 "hu": "Pihentesse meg a lábát és szárítsa meg a kabátját ebben a gótikus templomban, amely ideális menedék a záporok elől.",
                 "de": "Ruhen Sie Ihre Beine aus und trocknen Sie Ihre Jacke in dieser herrlichen Kirche – idealer Schutz vor Regenschauern.",
-                "ro": "Odihniți-vă picioarele și uscați-vă jacheta în această biserică gotică magnifică, un refugiu ideal din calea ploii."
+                "ro": "Odihniți-vă picioarele și uscați-vă jacheta în această biserică gotică magnifică, un refugiu ideal din calea ploii.",
+                "fr": "Reposez vos jambes et séchez votre veste dans cette magnifique église gothique, un refuge idéal contre les averses imprévisibles."
               }
             },
             {
@@ -561,13 +620,15 @@
                 "de": "Saint-Cyprien Church",
                 "hu": "Saint-Cyprien templom",
                 "ro": "Biserica Saint-Cyprien",
-                "en": "Saint-Cyprien Church"
+                "en": "Saint-Cyprien Church",
+                "fr": "Église Saint-Cyprien"
               },
               "tip_5lang": {
                 "en": "Appreciate the atmospheric light filtering through the stained glass on a grey day; step carefully on the wet entryway.",
                 "hu": "Értékelje a szürke napon az ólomüvegen átszűrődő hangulatos fényt; lépjen óvatosan a vizes bejáratnál.",
                 "de": "Genießen Sie das stimmungsvolle Licht durch die Buntglasfenster an einem grauen Tag; Vorsicht am nassen Eingang.",
-                "ro": "Apreciați lumina atmosferică ce filtrează prin vitralii într-o zi cenușie; pășiți cu grijă pe intrarea umedă."
+                "ro": "Apreciați lumina atmosferică ce filtrează prin vitralii într-o zi cenușie; pășiți cu grijă pe intrarea umedă.",
+                "fr": "Appréciez la lumière d'ambiance filtrant à travers les vitraux par une journée grise ; marchez prudemment sur le seuil humide."
               }
             },
             {
@@ -575,13 +636,15 @@
                 "de": "Bressuire Castle",
                 "hu": "Bressuire-i vár",
                 "ro": "Castelul Bressuire",
-                "en": "Bressuire Castle"
+                "en": "Bressuire Castle",
+                "fr": "Château de Bressuire"
               },
               "tip_5lang": {
                 "en": "Walk your bike safely on the castle's wet, slippery stone paths while imagining the dramatic history of these ruins.",
                 "hu": "Tolja biztonságosan a kerékpárt a vár vizes, csúszós kövein, miközben elképzeli e romok drámai történelmét.",
                 "de": "Schieben Sie Ihr Fahrrad sicher über die nassen, rutschigen Steinwege und stellen Sie sich die dramatische Geschichte vor.",
-                "ro": "Mergeți pe lângă bicicletă pe aleile umede din piatră ale castelului în timp ce vă imaginați istoria dramatică a ruinelor."
+                "ro": "Mergeți pe lângă bicicletă pe aleile umede din piatră ale castelului în timp ce vă imaginați istoria dramatică a ruinelor.",
+                "fr": "Poussez votre vélo en toute sécurité sur les chemins de pierre mouillés et glissants du château tout en imaginant l'histoire dramatique de ces ruines."
               }
             },
             {
@@ -589,13 +652,15 @@
                 "de": "Château de La Coussaie",
                 "hu": "Château de La Coussaie",
                 "ro": "Château de La Coussaie",
-                "en": "Château de La Coussaie"
+                "en": "Château de La Coussaie",
+                "fr": "Château de La Coussaie"
               },
               "tip_5lang": {
                 "en": "Admire the striking architecture in the rain; watch out for muddy patches as you park your bike near the estate.",
                 "hu": "Csodálja meg a lenyűgöző építészetet az esőben; ügyeljen a sáros foltokra, amikor leparkolja a kerékpárt a birtok közelében.",
                 "de": "Bewundern Sie die markante Architektur im Regen; achten Sie auf schlammige Stellen, wenn Sie das Fahrrad parken.",
-                "ro": "Admirați arhitectura impresionantă în ploaie; aveți grijă la zonele noroioase când parcați bicicleta lângă domeniu."
+                "ro": "Admirați arhitectura impresionantă în ploaie; aveți grijă la zonele noroioase când parcați bicicleta lângă domeniu.",
+                "fr": "Admirez l'architecture saisissante sous la pluie ; faites attention aux zones boueuses lorsque vous garez votre vélo près du domaine."
               }
             }
           ]
@@ -605,7 +670,8 @@
             "en": "Bundle up tightly for a bracing winter cycling morning. By noon, use the museum and churches as critical warm-up points to regain feeling in your fingers. The afternoon ride connects historic castles before the early sunset around 17:00. Ensure you have powerful bike lights and wear thermal layers to combat the freezing evening winds during your return journey.",
             "hu": "Öltözzön be alaposan a fagyos téli kerékpározáshoz ezen a reggelen. Délben használja a múzeumot és a templomokat, hogy újra érezze az ujjait. A délutáni túra történelmi kastélyokat köt össze a 17:00 óra körüli naplemente előtt. Gondoskodjon az erős kerékpáros lámpákról, és viseljen termo rétegeket, hogy leküzdje a fagyos esti szeleket a visszaúton.",
             "de": "Ziehen Sie sich für den frischen Wintermorgen auf dem Fahrrad warm an. Mittags können Sie sich im Museum und in den Kirchen gut aufwärmen. Die Nachmittagsfahrt verbindet historische Schlösser vor dem frühen Sonnenuntergang gegen 17:00 Uhr. Sorgen Sie für gutes Fahrradlicht und tragen Sie Thermokleidung gegen den eisigen Abendwind auf dem Rückweg.",
-            "ro": "Îmbrăcați-vă gros pentru o dimineață de iarnă revigorantă pe bicicletă. La prânz, folosiți muzeul și bisericile pentru a vă încălzi degetele înghețate. Traseul de după-amiază conectează castele istorice înainte de apusul de la ora 17:00. Asigurați-vă că aveți lumini puternice la bicicletă și purtați straturi termice pentru a combate vântul înghețat de seară."
+            "ro": "Îmbrăcați-vă gros pentru o dimineață de iarnă revigorantă pe bicicletă. La prânz, folosiți muzeul și bisericile pentru a vă încălzi degetele înghețate. Traseul de după-amiază conectează castele istorice înainte de apusul de la ora 17:00. Asigurați-vă că aveți lumini puternice la bicicletă și purtați straturi termice pentru a combate vântul înghețat de seară.",
+            "fr": "Couvrez-vous chaudement pour une matinée cycliste hivernale tonique. À midi, utilisez le musée et les églises comme points indispensables pour réchauffer et retrouver la sensation dans vos doigts. La balade de l'après‑midi relie des châteaux historiques avant le coucher du soleil vers 17:00. Assurez‑vous d'avoir de puissantes lumières pour vélo et de porter des couches thermiques pour combattre les vents glacés du soir lors du retour."
           },
           "stops": [
             {
@@ -613,13 +679,15 @@
                 "de": "Chapelle Notre-Dame-de-Bon-Secours",
                 "hu": "Chapelle Notre-Dame-de-Bon-Secours",
                 "ro": "Chapelle Notre-Dame-de-Bon-Secours",
-                "en": "Chapelle Notre-Dame-de-Bon-Secours"
+                "en": "Chapelle Notre-Dame-de-Bon-Secours",
+                "fr": "Chapelle Notre-Dame-de-Bon-Secours"
               },
               "tip_5lang": {
                 "en": "Take a quick look inside this quiet chapel to get your blood flowing after the crisp, freezing morning bike ride.",
                 "hu": "Vessen egy gyors pillantást a csendes kápolnára, hogy felpezsdüljön a vére a csípős, fagyos reggeli kerékpározás után.",
                 "de": "Werfen Sie einen kurzen Blick in diese ruhige Kapelle, um sich nach der eiskalten morgendlichen Radtour etwas aufzuwärmen.",
-                "ro": "Aruncați o privire în această capelă liniștită pentru a vă pune sângele în mișcare după plimbarea matinală geroasă."
+                "ro": "Aruncați o privire în această capelă liniștită pentru a vă pune sângele în mișcare după plimbarea matinală geroasă.",
+                "fr": "Jetez un coup d'œil rapide à l'intérieur de cette chapelle tranquille pour faire circuler le sang après la sortie à vélo fraîche et glaciale du matin."
               }
             },
             {
@@ -627,13 +695,15 @@
                 "de": "Bressuire Museum",
                 "hu": "Bressuire Múzeum",
                 "ro": "Muzeul Bressuire",
-                "en": "Bressuire Museum"
+                "en": "Bressuire Museum",
+                "fr": "Musée de Bressuire"
               },
               "tip_5lang": {
                 "en": "Spend generous time in the heated interior learning local history and completely thawing your hands before cycling on.",
                 "hu": "Töltsön bőséges időt a fűtött belső térben a helyi történelem megismerésével, és olvassza ki a kezét a továbbindulás előtt.",
                 "de": "Verbringen Sie viel Zeit im beheizten Inneren, lernen Sie die Geschichte kennen und wärmen Sie Ihre Hände gut auf.",
-                "ro": "Petreceți timp generos în interiorul încălzit învățând istoria locală și dezghețându-vă mâinile înainte de a pedala mai departe."
+                "ro": "Petreceți timp generos în interiorul încălzit învățând istoria locală și dezghețându-vă mâinile înainte de a pedala mai departe.",
+                "fr": "Passez un long moment dans l'intérieur chauffé à apprendre l'histoire locale et à réchauffer complètement vos mains avant de reprendre le vélo."
               }
             },
             {
@@ -641,13 +711,15 @@
                 "de": "Église Notre-Dame",
                 "hu": "Église Notre-Dame",
                 "ro": "Église Notre-Dame",
-                "en": "Église Notre-Dame"
+                "en": "Église Notre-Dame",
+                "fr": "Église Notre-Dame"
               },
               "tip_5lang": {
                 "en": "Marvel at the imposing gothic structure, though keep your gloves on as the historic stone nave holds the winter chill.",
                 "hu": "Csodálja meg az impozáns gótikus építményt, de tartsa magán a kesztyűt, mert a kőhajó őrzi a téli hideget.",
                 "de": "Bestaunen Sie das imposante gotische Bauwerk; behalten Sie die Handschuhe an, da das Steinschiff die Winterkälte speichert.",
-                "ro": "Minunați-vă de structura gotică impunătoare, deși păstrați mănușile pe mâini, deoarece naosul de piatră este rece."
+                "ro": "Minunați-vă de structura gotică impunătoare, deși păstrați mănușile pe mâini, deoarece naosul de piatră este rece.",
+                "fr": "Émerveillez‑vous devant l'imposante structure gothique, tout en gardant vos gants car la nef en pierre historique conserve le froid hivernal."
               }
             },
             {
@@ -655,13 +727,15 @@
                 "de": "Saint-Cyprien Church",
                 "hu": "Saint-Cyprien templom",
                 "ro": "Biserica Saint-Cyprien",
-                "en": "Saint-Cyprien Church"
+                "en": "Saint-Cyprien Church",
+                "fr": "Église Saint-Cyprien"
               },
               "tip_5lang": {
                 "en": "Admire the beautiful winter light filtering through the glass; a great brief stop to block out the icy wind outside.",
                 "hu": "Csodálja meg az üvegen átszűrődő gyönyörű téli fényt; nagyszerű rövid megálló a kinti jeges szél elől.",
                 "de": "Bewundern Sie das schöne Winterlicht durch die Fenster; ein toller kurzer Stopp, um dem eisigen Wind zu entgehen.",
-                "ro": "Admirați frumoasa lumină de iarnă filtrată prin vitralii; o oprire scurtă excelentă pentru a vă adăposti de vântul înghețat."
+                "ro": "Admirați frumoasa lumină de iarnă filtrată prin vitralii; o oprire scurtă excelentă pentru a vă adăposti de vântul înghețat.",
+                "fr": "Admirez la belle lumière hivernale filtrant à travers les vitraux ; une excellente halte brève pour se protéger du vent glacial extérieur."
               }
             },
             {
@@ -669,13 +743,15 @@
                 "de": "Bressuire Castle",
                 "hu": "Bressuire-i vár",
                 "ro": "Castelul Bressuire",
-                "en": "Bressuire Castle"
+                "en": "Bressuire Castle",
+                "fr": "Château de Bressuire"
               },
               "tip_5lang": {
                 "en": "Enjoy the stark, dramatic beauty of the ruins against a grey winter sky, but watch out for frost patches on the stones.",
                 "hu": "Élvezze a romok drámai szépségét a szürke téli égbolttal a háttérben, de vigyázzon a köveken lévő fagyfoltokra.",
                 "de": "Genießen Sie die dramatische Schönheit der Ruinen vor dem grauen Winterhimmel, aber achten Sie auf Froststellen.",
-                "ro": "Bucurați-vă de frumusețea dramatică a ruinelor sub un cer cenușiu de iarnă, dar aveți grijă la peticele de gheață pe pietre."
+                "ro": "Bucurați-vă de frumusețea dramatică a ruinelor sub un cer cenușiu de iarnă, dar aveți grijă la peticele de gheață pe pietre.",
+                "fr": "Appréciez la beauté austère et dramatique des ruines sous un ciel d'hiver gris, mais méfiez‑vous des plaques de givre sur les pierres."
               }
             },
             {
@@ -683,13 +759,15 @@
                 "de": "Château de La Coussaie",
                 "hu": "Château de La Coussaie",
                 "ro": "Château de La Coussaie",
-                "en": "Château de La Coussaie"
+                "en": "Château de La Coussaie",
+                "fr": "Château de La Coussaie"
               },
               "tip_5lang": {
                 "en": "Arrive just as the early dusk falls to see the castle shadows lengthen, ensuring your bike lights are ready for departure.",
                 "hu": "Érkezzen meg a korai szürkület beálltakor, hogy lássa a kastély árnyékainak megnyúlását, és készítse elő a kerékpárlámpát.",
                 "de": "Kommen Sie genau zur frühen Dämmerung an, um die langen Schatten zu sehen; stellen Sie sicher, dass Ihre Lichter bereit sind.",
-                "ro": "Ajungeți exact când se lasă amurgul devreme pentru a vedea umbrele lungi ale castelului, pregătind luminile pentru plecare."
+                "ro": "Ajungeți exact când se lasă amurgul devreme pentru a vedea umbrele lungi ale castelului, pregătind luminile pentru plecare.",
+                "fr": "Arrivez juste au moment où l'obscurité précoce tombe pour voir les ombres du château s'allonger, en vous assurant que vos lampes de vélo sont prêtes pour le départ."
               }
             }
           ]
@@ -709,7 +787,8 @@
             "de": "Château de La Coussaie",
             "hu": "Château de La Coussaie",
             "ro": "Château de La Coussaie",
-            "en": "Château de La Coussaie"
+            "en": "Château de La Coussaie",
+            "fr": "Château de La Coussaie"
           },
           "coords": [
             -0.498205,
@@ -724,7 +803,8 @@
             "de": "Machen Sie eine Zeitreise in diesem eleganten historischen Schloss, das Sie am besten bei einer spannenden Führung durch die prächtigen Säle erleben.",
             "hu": "Lépjen vissza az időben ebben az elegáns kastélyban, amely a regionális arisztokrata örökséget mutatja be, és élvezze a fő csarnokok vezetett túráját.",
             "ro": "Întoarceți-vă în timp în acest castel istoric elegant, care prezintă patrimoniul aristocratic regional, savurat cel mai bine printr-un tur ghidat al sălilor.",
-            "en": "Step back in time at this elegant historical castle that showcases regional aristocratic heritage, best enjoyed with a guided tour of the main halls."
+            "en": "Step back in time at this elegant historical castle that showcases regional aristocratic heritage, best enjoyed with a guided tour of the main halls.",
+            "fr": "Faites un saut dans le passé dans ce château historique élégant qui met en valeur le patrimoine aristocratique régional, à apprécier de préférence lors d'une visite guidée des salons principaux."
           }
         },
         {
@@ -732,7 +812,8 @@
             "de": "Bressuire Castle",
             "hu": "Bressuire-i vár",
             "ro": "Castelul Bressuire",
-            "en": "Bressuire Castle"
+            "en": "Bressuire Castle",
+            "fr": "Château de Bressuire"
           },
           "coords": [
             -0.470353,
@@ -747,7 +828,8 @@
             "de": "Durchstreifen Sie die imposanten Ruinen dieser mittelalterlichen Festung, wobei Sie für die unebenen Festungsmauern unbedingt festes Schuhwerk tragen sollten.",
             "hu": "Barangoljon a hatalmas középkori erőd lenyűgöző romjai között, amely egykor a régiót védte, és viseljen kényelmes cipőt az egyenetlen várfalakon.",
             "ro": "Plimbați-vă prin ruinele impunătoare ale acestei fortărețe medievale masive și purtați încălțăminte rezistentă pentru a explora meterezele denivelate.",
-            "en": "Wander the imposing ruins of this massive medieval fortress that once defended the region, and wear sturdy shoes for walking along the uneven ramparts."
+            "en": "Wander the imposing ruins of this massive medieval fortress that once defended the region, and wear sturdy shoes for walking along the uneven ramparts.",
+            "fr": "Parcourez les imposantes ruines de cette vaste forteresse médiévale qui défendait autrefois la région, et portez des chaussures solides pour marcher le long des remparts inégaux."
           }
         },
         {
@@ -755,7 +837,8 @@
             "de": "Bressuire Museum",
             "hu": "Bressuire Múzeum",
             "ro": "Muzeul Bressuire",
-            "en": "Bressuire Museum"
+            "en": "Bressuire Museum",
+            "fr": "Musée de Bressuire"
           },
           "coords": [
             -0.492898,
@@ -770,7 +853,8 @@
             "de": "Entdecken Sie die lokale Geschichte und Kunst in diesem umfassenden Museum, dessen Exponate mit dem Audioguide am Empfang noch lebendiger werden.",
             "hu": "Fedezze fel a helyi történelmet és művészetet ebben az átfogó múzeumban, ahol a részletes kiállítások életre kelnek, ha kér egy audioguide-ot.",
             "ro": "Descoperiți istoria și arta locală în acest muzeu cuprinzător, unde exponatele prind viață dacă solicitați un ghid audio de la recepție.",
-            "en": "Discover local history and artistry at this comprehensive museum, where detailed exhibits come alive if you grab an audio guide at the front desk."
+            "en": "Discover local history and artistry at this comprehensive museum, where detailed exhibits come alive if you grab an audio guide at the front desk.",
+            "fr": "Découvrez l'histoire locale et l'artisanat dans ce musée complet, où les expositions détaillées prennent vie si vous prenez un audioguide à l'accueil."
           }
         },
         {
@@ -778,7 +862,8 @@
             "de": "Église Notre-Dame",
             "hu": "Église Notre-Dame",
             "ro": "Église Notre-Dame",
-            "en": "Église Notre-Dame"
+            "en": "Église Notre-Dame",
+            "fr": "Église Notre-Dame"
           },
           "coords": [
             -0.491552,
@@ -793,7 +878,8 @@
             "de": "Bewundern Sie die gotische Architektur und die bunten Glasfenster dieser zentralen Kirche, die im morgendlichen Sonnenlicht besonders schön wirken.",
             "hu": "Csodálja meg a központi templom lenyűgöző gótikus építészetét és ólomüveg ablakait, de mindenképpen a reggeli fényben érdemes idelátogatni.",
             "ro": "Admirați arhitectura gotică uimitoare și vitraliile acestei biserici centrale, având grijă să o vizitați când lumina dimineții pătrunde înăuntru.",
-            "en": "Admire the stunning Gothic architecture and stained glass windows of this central church, making sure to visit when the morning light streams inside."
+            "en": "Admire the stunning Gothic architecture and stained glass windows of this central church, making sure to visit when the morning light streams inside.",
+            "fr": "Admirez la splendide architecture gothique et les vitraux de cette église centrale, en veillant à la visiter lorsque la lumière du matin y pénètre."
           }
         },
         {
@@ -801,7 +887,8 @@
             "de": "Saint-Cyprien Church",
             "hu": "Saint-Cyprien templom",
             "ro": "Biserica Saint-Cyprien",
-            "en": "Saint-Cyprien Church"
+            "en": "Saint-Cyprien Church",
+            "fr": "Église Saint-Cyprien"
           },
           "coords": [
             -0.50161,
@@ -816,7 +903,8 @@
             "de": "Erkunden Sie diese ruhigere, historisch reiche Stätte, die friedliche Kontemplation bietet, und achten Sie besonders auf die feinen Altarschnitzereien.",
             "hu": "Fedezze fel ezt a csendesebb, történelmileg gazdag templomot, amely békés elmélkedést kínál, és figyelje meg az oltárfaragványok finom részleteit.",
             "ro": "Explorați această biserică mai liniștită și bogată istoric, ideală pentru contemplare, și priviți cu atenție detaliile sculpturilor de pe altar.",
-            "en": "Explore this quieter, historically rich religious site that offers peaceful contemplation, and look closely at the intricate details of the altar carvings."
+            "en": "Explore this quieter, historically rich religious site that offers peaceful contemplation, and look closely at the intricate details of the altar carvings.",
+            "fr": "Explorez ce lieu de culte plus calme et riche d'histoire qui offre une contemplation paisible, et observez de près les détails finement sculptés de l'autel."
           }
         },
         {
@@ -824,7 +912,8 @@
             "de": "Chapelle Notre-Dame-de-Bon-Secours",
             "hu": "Chapelle Notre-Dame-de-Bon-Secours",
             "ro": "Chapelle Notre-Dame-de-Bon-Secours",
-            "en": "Chapelle Notre-Dame-de-Bon-Secours"
+            "en": "Chapelle Notre-Dame-de-Bon-Secours",
+            "fr": "Chapelle Notre-Dame-de-Bon-Secours"
           },
           "coords": [
             -0.460471,
@@ -839,7 +928,8 @@
             "de": "Finden Sie Ruhe in dieser etwas abgelegenen Kapelle mit schönen Steinarbeiten und bringen Sie eine Kamera für die malerische Landschaft mit.",
             "hu": "Találjon békére ebben a kissé félreeső, gyönyörű kőfaragásokkal díszített kápolnában, és hozzon magával fényképezőgépet a festői táj megörökítéséhez.",
             "ro": "Găsiți liniștea în această capelă retrasă, cu lucrări frumoase din piatră, și aduceți un aparat foto pentru a surprinde peisajul pitoresc din jur.",
-            "en": "Find tranquility at this slightly secluded chapel featuring beautiful stonework, and bring a camera to capture the picturesque surrounding landscape."
+            "en": "Find tranquility at this slightly secluded chapel featuring beautiful stonework, and bring a camera to capture the picturesque surrounding landscape.",
+            "fr": "Trouvez la tranquillité dans cette chapelle légèrement isolée aux belles pierres, et prenez un appareil photo pour capturer le paysage pittoresque alentour."
           }
         }
       ],
@@ -847,7 +937,8 @@
         "de": "Beginnen Sie Ihre Autotour abseits des Zentrums beim prächtigen Château de La Coussaie und tauchen Sie direkt in die edle Geschichte der Gegend ein.\n\nFahren Sie zum Schloss Bressuire, um auf den mittelalterlichen Festungsmauern zu spazieren, gefolgt von einem Besuch im lokalen Museum für tiefere Einblicke.\n\nParken Sie zentral, um die herrliche Église Notre-Dame und die historische Kirche Saint-Cyprien zu erkunden und durch die charmanten Straßen zu schlendern.\n\nMachen Sie eine letzte malerische Fahrt zur Kapelle Notre-Dame-de-Bon-Secours und genießen Sie die ruhige ländliche Atmosphäre, bevor Sie zurückkehren.",
         "hu": "Kezdje az autós túrát a központtól távolabb fekvő pompás Château de La Coussaie-nél, és merüljön el a régió nemesi történelmében.\n\nVezessen a bressuire-i várhoz, hogy sétáljon a középkori várfalakon, majd látogasson el a helyi múzeumba a gazdag kultúra jobb megértéséhez.\n\nParkoljon a központban, hogy felfedezze a csodálatos Notre-Dame-t és a történelmi Saint-Cyprien templomot a városközpont hangulatos utcáin.\n\nTegyen egy utolsó, festői autózást a Notre-Dame-de-Bon-Secours kápolnához, élvezve a nyugodt vidéki hangulatot a visszatérés előtt.",
         "ro": "Începeți-vă turul cu mașina departe de centru la grandiosul Château de La Coussaie, scufundându-vă direct în istoria nobilă a zonei.\n\nConduceți până la Castelul Bressuire pentru a vă plimba pe meterezele medievale, urmat de o vizită la muzeul local pentru a înțelege mai bine cultura.\n\nParcați central pentru a explora magnifica Église Notre-Dame și biserica istorică Saint-Cyprien, navigând pe străzile fermecătoare ale centrului.\n\nFaceți o ultimă plimbare pitorească cu mașina până la Capela Notre-Dame-de-Bon-Secours, bucurându-vă de atmosfera rurală liniștită înainte de întoarcere.",
-        "en": "Begin your driving tour away from the center at the grand Château de La Coussaie, diving straight into the noble history of the area.\n\nDrive over to Bressuire Castle to walk the medieval ramparts, followed by a visit to the local museum to further understand the town's rich culture.\n\nPark centrally to explore the magnificent Église Notre-Dame and the historic Saint-Cyprien Church, navigating the charming streets of the city center.\n\nTake a final, scenic evening drive out to the Chapelle Notre-Dame-de-Bon-Secours, enjoying the tranquil countryside atmosphere before heading back."
+        "en": "Begin your driving tour away from the center at the grand Château de La Coussaie, diving straight into the noble history of the area.\n\nDrive over to Bressuire Castle to walk the medieval ramparts, followed by a visit to the local museum to further understand the town's rich culture.\n\nPark centrally to explore the magnificent Église Notre-Dame and the historic Saint-Cyprien Church, navigating the charming streets of the city center.\n\nTake a final, scenic evening drive out to the Chapelle Notre-Dame-de-Bon-Secours, enjoying the tranquil countryside atmosphere before heading back.",
+        "fr": "Commencez votre circuit en voiture hors du centre au grand Château de La Coussaie, plongeant directement dans l'histoire noble de la région.\n\nConduisez ensuite jusqu'au Château de Bressuire pour parcourir les remparts médiévaux, suivi d'une visite au musée local pour mieux comprendre la riche culture de la ville.\n\nGarez‑vous au centre pour explorer la magnifique Église Notre-Dame et l'historique Église Saint‑Cyprien, en déambulant dans les rues charmantes du centre‑ville.\n\nTerminez par une dernière balade panoramique en soirée jusqu'à la Chapelle Notre‑Dame‑de‑Bon‑Secours, en appréciant l'atmosphère paisible de la campagne avant de retourner."
       },
       "variants": {
         "rainy": {
@@ -855,7 +946,8 @@
             "en": "Driving makes a rainy morning comfortable as you explore the estates. Around noon, park carefully and dash into the museum and local churches to stay perfectly dry. The afternoon drives through wet streets offer beautiful, moody views of the heritage sites from your warm vehicle. In the evening, watch out for reduced visibility and slippery cobblestones when parking near the chapel.",
             "hu": "A vezetés kényelmessé teszi az esős reggelt, miközben felfedezi a birtokokat. Dél körül parkoljon le óvatosan, és szaladjon be a múzeumba és a templomokba, hogy teljesen száraz maradjon. A délutáni autózás a nedves utcákon át hangulatos kilátást nyújt az örökségi helyszínekre a meleg járműből. Este ügyeljen a csökkent látási viszonyokra és a csúszós macskakövekre.",
             "de": "Das Fahren macht den regnerischen Morgen angenehm. Mittags parken Sie vorsichtig und eilen ins Museum und in die Kirchen, um trocken zu bleiben. Die Nachmittagsfahrten durch nasse Straßen bieten aus dem warmen Auto schöne, stimmungsvolle Ausblicke. Achten Sie abends auf eingeschränkte Sicht und rutschiges Kopfsteinpflaster beim Parken nahe der Kapelle.",
-            "ro": "Condusul face dimineața ploioasă confortabilă explorând domeniile. La prânz, parcați cu atenție și fugiți în muzeu și biserici pentru a rămâne perfect uscat. Plimbările de după-amiază pe străzile umede oferă priveliști atmosferice din vehiculul cald. Seara, aveți grijă la vizibilitatea redusă și la pietrele cubice alunecoase când parcați lângă capelă."
+            "ro": "Condusul face dimineața ploioasă confortabilă explorând domeniile. La prânz, parcați cu atenție și fugiți în muzeu și biserici pentru a rămâne perfect uscat. Plimbările de după-amiază pe străzile umede oferă priveliști atmosferice din vehiculul cald. Seara, aveți grijă la vizibilitatea redusă și la pietrele cubice alunecoase când parcați lângă capelă.",
+            "fr": "La voiture rend une matinée pluvieuse confortable pendant que vous explorez les domaines. Vers midi, garez‑vous avec soin et courez au musée et aux églises locales pour rester parfaitement au sec. Les trajets de l'après‑midi sur des rues mouillées offrent de belles vues d'ambiance des sites patrimoniaux depuis votre véhicule chauffé. Le soir, faites attention à la visibilité réduite et aux pavés glissants en vous garant près de la chapelle."
           },
           "stops": [
             {
@@ -863,13 +955,15 @@
                 "de": "Château de La Coussaie",
                 "hu": "Château de La Coussaie",
                 "ro": "Château de La Coussaie",
-                "en": "Château de La Coussaie"
+                "en": "Château de La Coussaie",
+                "fr": "Château de La Coussaie"
               },
               "tip_5lang": {
                 "en": "Observe the grand estate comfortably from nearby; if walking the grounds, an umbrella and waterproof boots are essential today.",
                 "hu": "Figyelje meg a nagyszerű birtokot kényelmesen a közelből; ha sétál a területen, ma esernyő és vízálló csizma szükséges.",
                 "de": "Betrachten Sie das prächtige Anwesen bequem aus der Nähe; beim Spaziergang sind Regenschirm und wasserdichte Schuhe unerlässlich.",
-                "ro": "Observați domeniul grandios confortabil din apropiere; dacă vă plimbați pe domeniu, o umbrelă și cizme impermeabile sunt esențiale."
+                "ro": "Observați domeniul grandios confortabil din apropiere; dacă vă plimbați pe domeniu, o umbrelă și cizme impermeabile sunt esențiale.",
+                "fr": "Observez le grand domaine confortablement depuis les abords ; si vous parcourez les jardins, un parapluie et des bottes imperméables sont essentiels aujourd'hui."
               }
             },
             {
@@ -877,13 +971,15 @@
                 "de": "Bressuire Castle",
                 "hu": "Bressuire-i vár",
                 "ro": "Castelul Bressuire",
-                "en": "Bressuire Castle"
+                "en": "Bressuire Castle",
+                "fr": "Château de Bressuire"
               },
               "tip_5lang": {
                 "en": "Keep your umbrella ready as you dash from the car to the impressive ruins; beware of slippery mud near the historic walls.",
                 "hu": "Tartsa készenlétben az esernyőt, ahogy az autótól a lenyűgöző romokig szalad; óvakodjon a csúszós sártól a történelmi falaknál.",
                 "de": "Halten Sie den Regenschirm bereit, wenn Sie vom Auto zu den Ruinen eilen; Vorsicht vor rutschigem Schlamm an den Mauern.",
-                "ro": "Țineți umbrela pregătită când fugiți de la mașină la ruinele impresionante; atenție la noroiul alunecos de lângă ziduri."
+                "ro": "Țineți umbrela pregătită când fugiți de la mașină la ruinele impresionante; atenție la noroiul alunecos de lângă ziduri.",
+                "fr": "Gardez votre parapluie à portée de main en courant de la voiture aux impressionnantes ruines ; attention à la boue glissante près des murs historiques."
               }
             },
             {
@@ -891,13 +987,15 @@
                 "de": "Bressuire Museum",
                 "hu": "Bressuire Múzeum",
                 "ro": "Muzeul Bressuire",
-                "en": "Bressuire Museum"
+                "en": "Bressuire Museum",
+                "fr": "Musée de Bressuire"
               },
               "tip_5lang": {
                 "en": "Park close by and escape the pouring rain into this culturally rich space, keeping yourself entertained and completely dry.",
                 "hu": "Parkoljon a közelben, és meneküljön be a zuhogó eső elől ebbe a kulturálisan gazdag térbe, ahol szárazon szórakozhat.",
                 "de": "Parken Sie in der Nähe und entfliehen Sie dem Regen in diesen kulturellen Raum, wo Sie sich trocken und gut unterhalten können.",
-                "ro": "Parcați aproape și scăpați de ploaia torențială în acest spațiu cultural bogat, menținându-vă captivat și complet uscat."
+                "ro": "Parcați aproape și scăpați de ploaia torențială în acest spațiu cultural bogat, menținându-vă captivat și complet uscat.",
+                "fr": "Garez‑vous à proximité et échappez à la pluie battante dans cet espace culturel riche, en restant diverti et entièrement au sec."
               }
             },
             {
@@ -905,13 +1003,15 @@
                 "de": "Église Notre-Dame",
                 "hu": "Église Notre-Dame",
                 "ro": "Église Notre-Dame",
-                "en": "Église Notre-Dame"
+                "en": "Église Notre-Dame",
+                "fr": "Église Notre-Dame"
               },
               "tip_5lang": {
                 "en": "Enjoy the dry sanctuary of the gothic church, admiring how the gloomy, rainy sky outside highlights the vibrant stained glass.",
                 "hu": "Élvezze a gótikus templom száraz szentélyét, megfigyelve, hogyan emeli ki a kinti komor, esős égbolt az élénk ólomüvegeket.",
                 "de": "Genießen Sie die trockene gotische Kirche und bewundern Sie, wie der regnerische Himmel die Buntglasfenster hervorhebt.",
-                "ro": "Bucurați-vă de sanctuarul uscat al bisericii gotice, admirând cum cerul ploios evidențiază vitraliile vibrante."
+                "ro": "Bucurați-vă de sanctuarul uscat al bisericii gotice, admirând cum cerul ploios evidențiază vitraliile vibrante.",
+                "fr": "Profitez du sanctuaire sec de l'église gothique, en admirant comment le ciel sombre et pluvieux extérieur met en valeur les vitraux colorés."
               }
             },
             {
@@ -919,13 +1019,15 @@
                 "de": "Saint-Cyprien Church",
                 "hu": "Saint-Cyprien templom",
                 "ro": "Biserica Saint-Cyprien",
-                "en": "Saint-Cyprien Church"
+                "en": "Saint-Cyprien Church",
+                "fr": "Église Saint-Cyprien"
               },
               "tip_5lang": {
                 "en": "Make a quick dash from your parked car to view this serene spot; watch your step on the wet and slippery entrance stones.",
                 "hu": "Tegyen egy gyors sprintet a parkoló autótól, hogy megtekintse ezt a békés helyet; vigyázzon a lépésére a vizes köveken.",
                 "de": "Eilen Sie vom geparkten Auto zu diesem ruhigen Ort; achten Sie auf Ihre Schritte auf den nassen Eingangssteinen.",
-                "ro": "Fugiți rapid de la mașina parcată pentru a vedea acest loc liniștit; fiți atenți pe pietrele umede și alunecoase de la intrare."
+                "ro": "Fugiți rapid de la mașina parcată pentru a vedea acest loc liniștit; fiți atenți pe pietrele umede și alunecoase de la intrare.",
+                "fr": "Faites une courte course depuis votre voiture garée pour voir ce lieu serein ; faites attention à votre pas sur les pierres d'entrée humides et glissantes."
               }
             },
             {
@@ -933,13 +1035,15 @@
                 "de": "Chapelle Notre-Dame-de-Bon-Secours",
                 "hu": "Chapelle Notre-Dame-de-Bon-Secours",
                 "ro": "Chapelle Notre-Dame-de-Bon-Secours",
-                "en": "Chapelle Notre-Dame-de-Bon-Secours"
+                "en": "Chapelle Notre-Dame-de-Bon-Secours",
+                "fr": "Chapelle Notre-Dame-de-Bon-Secours"
               },
               "tip_5lang": {
                 "en": "Conclude your rainy tour at this peaceful chapel, offering a final cozy shelter before a cautious evening drive home.",
                 "hu": "Zárja az esős túrát ennél a békés kápolnánál, amely utolsó meghitt menedéket kínál az óvatos esti hazautazás előtt.",
                 "de": "Beenden Sie Ihre Regentour an dieser friedlichen Kapelle, die einen letzten Schutz bietet, bevor Sie vorsichtig heimfahren.",
-                "ro": "Încheiați turul ploios la această capelă pașnică, oferind un ultim adăpost înainte de a conduce cu prudență spre casă."
+                "ro": "Încheiați turul ploios la această capelă pașnică, oferind un ultim adăpost înainte de a conduce cu prudență spre casă.",
+                "fr": "Concluez votre visite pluvieuse à cette chapelle paisible, offrant un dernier abri douillet avant un retour prudent en voiture le soir."
               }
             }
           ]
@@ -949,7 +1053,8 @@
             "en": "Enjoy the luxury of a heated car on this freezing winter morning as you visit the estates. Around midday, bundle up tightly for the short walks to the castle ruins and local museum. The afternoon allows for quick, comfortable hops between majestic churches. Remember that it gets dark by 17:00, so be prepared for driving in frosty, low-light evening conditions.",
             "hu": "Élvezze a fűtött autó luxusát ezen a fagyos téli reggelen, miközben meglátogatja a birtokokat. Dél körül öltözzön be melegen a várromokhoz és a helyi múzeumhoz vezető rövid sétákhoz. A délután gyors, kényelmes ugrásokat tesz lehetővé a templomok között. Ne feledje, hogy 17:00 órára besötétedik, így készüljön fel a fagyos, rossz látási viszonyok közötti esti vezetésre.",
             "de": "Genießen Sie an diesem frostigen Wintermorgen den Luxus eines beheizten Autos. Mittags sollten Sie sich für die kurzen Wege zu den Ruinen und zum Museum warm anziehen. Der Nachmittag ermöglicht schnelle, bequeme Fahrten zwischen den Kirchen. Denken Sie daran, dass es um 17:00 Uhr dunkel wird, und stellen Sie sich auf frostige, schlechte Lichtverhältnisse ein.",
-            "ro": "Bucurați-vă de luxul unei mașini încălzite în această dimineață geroasă vizitând domeniile. La prânz, îmbrăcați-vă gros pentru scurtele plimbări spre ruine și muzeu. După-amiaza permite deplasări rapide și confortabile între bisericile maiestuoase. Amintiți-vă că se întunecă până la ora 17:00, așa că fiți pregătiți pentru a conduce seara pe ger și lumină slabă."
+            "ro": "Bucurați-vă de luxul unei mașini încălzite în această dimineață geroasă vizitând domeniile. La prânz, îmbrăcați-vă gros pentru scurtele plimbări spre ruine și muzeu. După-amiaza permite deplasări rapide și confortabile între bisericile maiestuoase. Amintiți-vă că se întunecă până la ora 17:00, așa că fiți pregătiți pentru a conduce seara pe ger și lumină slabă.",
+            "fr": "Profitez du luxe d'une voiture chauffée lors de cette matinée hivernale glaciale en visitant les domaines. Vers midi, emmitouflez‑vous pour les courtes promenades jusqu'aux ruines du château et au musée local. L'après‑midi permet des trajets rapides et confortables entre les églises majestueuses. N'oubliez pas qu'il fait nuit dès 17:00, alors préparez‑vous à conduire dans des conditions froides et peu éclairées."
           },
           "stops": [
             {
@@ -957,13 +1062,15 @@
                 "de": "Château de La Coussaie",
                 "hu": "Château de La Coussaie",
                 "ro": "Château de La Coussaie",
-                "en": "Château de La Coussaie"
+                "en": "Château de La Coussaie",
+                "fr": "Château de La Coussaie"
               },
               "tip_5lang": {
                 "en": "The frosted grounds look magical from the warmth of your car, but wear a thick scarf if you venture out to explore.",
                 "hu": "A fagyos terület varázslatosnak tűnik az autó melegéből, de viseljen vastag sálat, ha kimerészkedik felfedezni.",
                 "de": "Das gefrorene Gelände sieht vom warmen Auto aus magisch aus, aber tragen Sie einen dicken Schal, wenn Sie es erkunden.",
-                "ro": "Terenul înghețat arată magic din căldura mașinii dumneavoastră, dar purtați un fular gros dacă ieșiți să explorați."
+                "ro": "Terenul înghețat arată magic din căldura mașinii dumneavoastră, dar purtați un fular gros dacă ieșiți să explorați.",
+                "fr": "Les jardins givrés semblent magiques depuis la chaleur de votre voiture, mais portez une grosse écharpe si vous sortez pour explorer."
               }
             },
             {
@@ -971,13 +1078,15 @@
                 "de": "Bressuire Castle",
                 "hu": "Bressuire-i vár",
                 "ro": "Castelul Bressuire",
-                "en": "Bressuire Castle"
+                "en": "Bressuire Castle",
+                "fr": "Château de Bressuire"
               },
               "tip_5lang": {
                 "en": "Park carefully in the crisp winter air and explore the dramatic stone ruins; watch out for icy patches on the pathways.",
                 "hu": "Parkoljon le óvatosan a csípős téli levegőn, és fedezze fel a drámai kőromokat; vigyázzon a jégfoltokra az ösvényeken.",
                 "de": "Parken Sie vorsichtig in der kalten Winterluft und erkunden Sie die dramatischen Steinruinen; achten Sie auf vereiste Wege.",
-                "ro": "Parcați cu atenție în aerul rece de iarnă și explorați ruinele dramatice din piatră; aveți grijă la porțiunile înghețate de pe alei."
+                "ro": "Parcați cu atenție în aerul rece de iarnă și explorați ruinele dramatice din piatră; aveți grijă la porțiunile înghețate de pe alei.",
+                "fr": "Garez‑vous prudemment dans l'air vif de l'hiver et parcourez les ruines de pierre dramatiques ; attention aux plaques de verglas sur les chemins."
               }
             },
             {
@@ -985,13 +1094,15 @@
                 "de": "Bressuire Museum",
                 "hu": "Bressuire Múzeum",
                 "ro": "Muzeul Bressuire",
-                "en": "Bressuire Museum"
+                "en": "Bressuire Museum",
+                "fr": "Musée de Bressuire"
               },
               "tip_5lang": {
                 "en": "Step inside to warm up completely; the engaging exhibitions offer a perfect, well-heated break from the freezing outdoors.",
                 "hu": "Lépjen be, hogy teljesen felmelegedjen; a lenyűgöző kiállítások tökéletes, jól fűtött szünetet kínálnak a fagyos külvilág elől.",
                 "de": "Treten Sie ein, um sich richtig aufzuwärmen; die spannenden Ausstellungen bieten eine perfekt beheizte Pause von der Kälte.",
-                "ro": "Intrați pentru a vă încălzi complet; expozițiile captivante oferă o pauză perfectă și bine încălzită de la frigul de afară."
+                "ro": "Intrați pentru a vă încălzi complet; expozițiile captivante oferă o pauză perfectă și bine încălzită de la frigul de afară.",
+                "fr": "Entrez pour vous réchauffer complètement ; les expositions captivantes offrent une pause chauffée parfaite loin du gel extérieur."
               }
             },
             {
@@ -999,13 +1110,15 @@
                 "de": "Église Notre-Dame",
                 "hu": "Église Notre-Dame",
                 "ro": "Église Notre-Dame",
-                "en": "Église Notre-Dame"
+                "en": "Église Notre-Dame",
+                "fr": "Église Notre-Dame"
               },
               "tip_5lang": {
                 "en": "The car heater will be a relief after admiring this unheated gothic masterpiece; keep your winter coat zipped up inside.",
                 "hu": "Az autófűtés megkönnyebbülés lesz e fűtetlen gótikus remekmű megcsodálása után; bent is tartsa összehúzva a télikabátját.",
                 "de": "Die Autoheizung ist eine Wohltat, nachdem Sie dieses unbeheizte Meisterwerk bewundert haben; lassen Sie die Jacke geschlossen.",
-                "ro": "Încălzirea mașinii va fi o ușurare după admirarea acestei capodopere gotice neîncălzite; țineți geaca de iarnă închisă înăuntru."
+                "ro": "Încălzirea mașinii va fi o ușurare după admirarea acestei capodopere gotice neîncălzite; țineți geaca de iarnă închisă înăuntru.",
+                "fr": "Le chauffage de la voiture sera un soulagement après avoir admiré ce chef‑d'œuvre gothique non chauffé ; gardez votre manteau d'hiver fermé à l'intérieur."
               }
             },
             {
@@ -1013,13 +1126,15 @@
                 "de": "Saint-Cyprien Church",
                 "hu": "Saint-Cyprien templom",
                 "ro": "Biserica Saint-Cyprien",
-                "en": "Saint-Cyprien Church"
+                "en": "Saint-Cyprien Church",
+                "fr": "Église Saint-Cyprien"
               },
               "tip_5lang": {
                 "en": "Enjoy the stunning low-angle winter sunlight illuminating the quiet nave before rushing back to your comfortably warm vehicle.",
                 "hu": "Élvezze a lenyűgöző, alacsony szögben beeső téli napfényt, amely megvilágítja a csendes hajót, mielőtt visszasietne a meleg járműbe.",
                 "de": "Genießen Sie das atemberaubende, flache Wintersonnenlicht im ruhigen Kirchenschiff, bevor Sie zurück ins warme Auto eilen.",
-                "ro": "Bucurați-vă de lumina uimitoare a soarelui de iarnă care luminează naosul liniștit înainte de a fugi înapoi la vehiculul călduros."
+                "ro": "Bucurați-vă de lumina uimitoare a soarelui de iarnă care luminează naosul liniștit înainte de a fugi înapoi la vehiculul călduros.",
+                "fr": "Profitez du splendide soleil hivernal rasant illuminant la nef tranquille avant de retourner rapidement à votre véhicule confortablement chauffé."
               }
             },
             {
@@ -1027,13 +1142,15 @@
                 "de": "Chapelle Notre-Dame-de-Bon-Secours",
                 "hu": "Chapelle Notre-Dame-de-Bon-Secours",
                 "ro": "Chapelle Notre-Dame-de-Bon-Secours",
-                "en": "Chapelle Notre-Dame-de-Bon-Secours"
+                "en": "Chapelle Notre-Dame-de-Bon-Secours",
+                "fr": "Chapelle Notre-Dame-de-Bon-Secours"
               },
               "tip_5lang": {
                 "en": "As the early 17:00 dusk falls, see this lovely chapel bathed in twilight before carefully driving home on potentially frosty roads.",
                 "hu": "Ahogy leszáll a korai 17:00 órai szürkület, nézze meg ezt a szép kápolnát félhomályban fürdőzve, mielőtt óvatosan hazavezetne.",
                 "de": "Wenn die frühe Dämmerung um 17:00 Uhr einsetzt, sehen Sie die Kapelle im Zwielicht, bevor Sie vorsichtig nach Hause fahren.",
-                "ro": "Odată cu lăsarea amurgului devreme, vedeți această capelă superbă în lumina asfințitului înainte de a conduce acasă cu prudență."
+                "ro": "Odată cu lăsarea amurgului devreme, vedeți această capelă superbă în lumina asfințitului înainte de a conduce acasă cu prudență.",
+                "fr": "À l'approche du crépuscule vers 17:00, voyez cette charmante chapelle baignée de la lumière du soir avant de rentrer prudemment sur des routes potentiellement verglacées."
               }
             }
           ]

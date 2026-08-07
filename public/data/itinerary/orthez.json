@@ -21,7 +21,8 @@
             "de": "Haus Jeanne d'Albret",
             "hu": "Jeanne d'Albret Ház",
             "ro": "Casa Jeanne d'Albret",
-            "en": "Jeanne d'Albret House"
+            "en": "Jeanne d'Albret House",
+            "fr": "Maison Jeanne d’Albret"
           },
           "coords": [
             -0.774734,
@@ -36,7 +37,8 @@
             "de": "Entdecken Sie die protestantische Geschichte des Béarn in diesem Museum aus dem 16. Jahrhundert und nutzen Sie den Audioguide für das beste Erlebnis.",
             "hu": "Ismerje meg a Béarn régió protestáns történelmét ebben a 16. századi múzeumban, és a legjobb élmény érdekében kérje az angol nyelvű audioguide-ot.",
             "ro": "Descoperiți istoria protestantă a regiunii Béarn în acest muzeu din secolul al XVI-lea și solicitați un ghid audio pentru o experiență completă.",
-            "en": "Explore the deep Protestant history of the Béarn region in this 16th-century museum, and pick up the English audio guide for the best experience."
+            "en": "Explore the deep Protestant history of the Béarn region in this 16th-century museum, and pick up the English audio guide for the best experience.",
+            "fr": "Explorez la profonde histoire protestante du Béarn dans ce musée du XVIe siècle et prenez le guide audio anglais pour la meilleure expérience."
           }
         },
         {
@@ -44,7 +46,8 @@
             "de": "Hôtel de la Lune",
             "hu": "Hôtel de la Lune",
             "ro": "Hôtel de la Lune",
-            "en": "Hôtel de la Lune"
+            "en": "Hôtel de la Lune",
+            "fr": "Hôtel de la Lune"
           },
           "coords": [
             -0.774515,
@@ -59,7 +62,8 @@
             "de": "Bewundern Sie die mittelalterliche Architektur dieses historischen Gästehauses, in dem Froissart einst wohnte, und achten Sie auf die Steinfassade.",
             "hu": "Csodálja meg annak a történelmi vendégháznak a középkori építészetét, ahol egykor Froissart is megszállt, különös tekintettel a kőhomlokzatra.",
             "ro": "Admirați arhitectura medievală a acestei case de oaspeți istorice unde a stat Froissart, observând cu atenție fațada de piatră remarcabil conservată.",
-            "en": "Admire the medieval architecture of this historic guest house where Froissart once stayed, taking note of its remarkably preserved stone facade."
+            "en": "Admire the medieval architecture of this historic guest house where Froissart once stayed, taking note of its remarkably preserved stone facade.",
+            "fr": "Admirez l’architecture médiévale de cette maison d’hôtes historique où Froissart séjourna, en notant sa façade de pierre remarquablement préservée."
           }
         },
         {
@@ -67,7 +71,8 @@
             "de": "Saint-Pierre-Kirche",
             "hu": "Saint-Pierre Templom",
             "ro": "Biserica Saint-Pierre",
-            "en": "Saint-Pierre Church"
+            "en": "Saint-Pierre Church",
+            "fr": "Église Saint‑Pierre"
           },
           "coords": [
             -0.775265,
@@ -82,7 +87,8 @@
             "de": "Bestaunen Sie die beeindruckenden gotischen Gewölbedecken dieser wunderschönen historischen Kirche, aber denken Sie an angemessene Kleidung.",
             "hu": "Csodálja meg ennek a gyönyörű történelmi templomnak a lenyűgöző gótikus boltozatát, de ne felejtsen el szerény ruházatot viselni a belépéskor.",
             "ro": "Minunați-vă de impresionantele tavane boltite gotice ale acestei frumoase biserici istorice, amintindu-vă să aveți o ținută decentă la intrare.",
-            "en": "Marvel at the impressive gothic vaulted ceilings of this beautiful historic church, but remember to dress modestly when stepping inside."
+            "en": "Marvel at the impressive gothic vaulted ceilings of this beautiful historic church, but remember to dress modestly when stepping inside.",
+            "fr": "Émerveillez‑vous devant les impressionnantes voûtes gothiques de cette belle église historique, mais pensez à vous vêtir modestement pour y entrer."
           }
         },
         {
@@ -90,7 +96,8 @@
             "de": "Moncade-Turm",
             "hu": "Moncade Torony",
             "ro": "Turnul Moncade",
-            "en": "Moncade Tower"
+            "en": "Moncade Tower",
+            "fr": "Tour de Moncade"
           },
           "coords": [
             -0.770002,
@@ -105,7 +112,8 @@
             "de": "Steigen Sie die Treppen zur Spitze dieses imposanten Festungsturms hinauf, um einen tollen Panoramablick auf Orthez in bequemen Schuhen zu genießen.",
             "hu": "Mássza meg a lépcsőket ezen az impozáns erődtornyon, hogy lenyűgöző panorámát élvezhessen Orthezre, de viseljen kényelmes, stabil cipőt.",
             "ro": "Urcați scările până în vârful acestui turn de fortăreață impunător pentru o vedere panoramică uimitoare asupra Orthezului, purtând încălțăminte comodă.",
-            "en": "Climb the stairs to the top of this imposing fortress tower for a stunning panoramic view of Orthez, but wear comfortable and sturdy shoes."
+            "en": "Climb the stairs to the top of this imposing fortress tower for a stunning panoramic view of Orthez, but wear comfortable and sturdy shoes.",
+            "fr": "Montez les escaliers jusqu’au sommet de cette imposante tour de forteresse pour une vue panoramique superbe sur Orthez, mais portez des chaussures confortables et solides."
           }
         },
         {
@@ -113,7 +121,8 @@
             "de": "Pont Vieux",
             "hu": "Pont Vieux (Öreg Híd)",
             "ro": "Pont Vieux (Podul Vechi)",
-            "en": "Pont Vieux (Old Bridge)"
+            "en": "Pont Vieux (Old Bridge)",
+            "fr": "Pont Vieux (Old Bridge)"
           },
           "coords": [
             -0.777031,
@@ -128,7 +137,8 @@
             "de": "Spazieren Sie über diese befestigte Brücke aus dem 13. Jahrhundert über den Fluss Gave de Pau und gehen Sie zum Ufer für das beste Fotomotiv.",
             "hu": "Sétáljon át a Gave de Pau folyót átívelő, 13. századi erődített hídon, és a legjobb fotók kedvéért ereszkedjen le egészen a folyópartig.",
             "ro": "Plimbați-vă pe acest pod fortificat emblematic din secolul al XIII-lea peste râul Gave de Pau și coborâți pe mal pentru cel mai bun unghi foto.",
-            "en": "Walk across this iconic 13th-century fortified bridge spanning the Gave de Pau river, and step down to the riverbank for the best photo angle."
+            "en": "Walk across this iconic 13th-century fortified bridge spanning the Gave de Pau river, and step down to the riverbank for the best photo angle.",
+            "fr": "Traversez ce pont fortifié emblématique du XIIIe siècle qui enjambe le gave de Pau, puis descendez sur la berge pour le meilleur angle photo."
           }
         },
         {
@@ -136,7 +146,8 @@
             "de": "Francis Jammes Museum",
             "hu": "Francis Jammes Múzeum",
             "ro": "Muzeul Francis Jammes",
-            "en": "Francis Jammes Museum"
+            "en": "Francis Jammes Museum",
+            "fr": "Musée Francis Jammes"
           },
           "coords": [
             -0.765206,
@@ -151,7 +162,8 @@
             "de": "Entdecken Sie das Leben und die Werke des berühmten lokalen Dichters in diesem Hausmuseum, dessen Nachmittagsöffnungszeiten Sie vorab prüfen sollten.",
             "hu": "Fedezze fel a híres helyi költő életét és munkásságát ebben a dedikált emlékházban, amelynek délutáni nyitvatartását érdemes előre ellenőrizni.",
             "ro": "Descoperiți viața și operele celebrului poet local în acest muzeu memorial, pe care este cel mai bine să-l vizitați verificând programul de după-amiază.",
-            "en": "Discover the life and works of the famous local poet in this dedicated house museum, which is best visited after checking the afternoon opening hours."
+            "en": "Discover the life and works of the famous local poet in this dedicated house museum, which is best visited after checking the afternoon opening hours.",
+            "fr": "Découvrez la vie et l’œuvre du célèbre poète local dans cette maison‑musée dédiée, à visiter de préférence après avoir vérifié les horaires d’ouverture de l’après‑midi."
           }
         }
       ],
@@ -159,7 +171,8 @@
         "de": "Beginnen Sie Ihren Morgen mit der Geschichte des Protestantismus im Haus Jeanne d'Albret und im mittelalterlichen Hôtel de la Lune. Mittags bewundern Sie die Saint-Pierre-Kirche und erklimmen den imposanten Moncade-Turm. Am Nachmittag überqueren Sie die mittelalterliche Brücke Pont Vieux über den Gave de Pau. Lassen Sie den Abend entspannt im Francis Jammes Museum ausklingen.",
         "hu": "Kezdje a reggelt a protestantizmus történetének felfedezésével a Jeanne d'Albret házban és a középkori Hôtel de la Lune-nál. Délben csodálja meg a Saint-Pierre templomot és mássza meg az impozáns Moncade tornyot. Délután keljen át a Gave de Pau felett ívelő középkori Pont Vieux-n. Zárja az estét a helyi költészet felfedezésével a Francis Jammes Múzeumban.",
         "ro": "Începeți dimineața explorând istoria protestantismului la Casa Jeanne d'Albret și medievalul Hôtel de la Lune. La prânz, admirați Biserica Saint-Pierre și cuceriți scările turnului impunător Moncade. După-amiaza, traversați podul medieval Pont Vieux peste râul Gave de Pau. Încheiați seara descoperind poezia locală la interesantul Muzeu Francis Jammes.",
-        "en": "Start your morning exploring the history of Protestantism at the Jeanne d'Albret House and the medieval Hôtel de la Lune. Midday, admire the gothic features of Saint-Pierre Church and conquer the steep stairs of the imposing Moncade Tower. In the afternoon, cross the medieval Pont Vieux bridging the Gave de Pau. Conclude your evening discovering local poetry at the Francis Jammes Museum."
+        "en": "Start your morning exploring the history of Protestantism at the Jeanne d'Albret House and the medieval Hôtel de la Lune. Midday, admire the gothic features of Saint-Pierre Church and conquer the steep stairs of the imposing Moncade Tower. In the afternoon, cross the medieval Pont Vieux bridging the Gave de Pau. Conclude your evening discovering local poetry at the Francis Jammes Museum.",
+        "fr": "Commencez la matinée en explorant l’histoire du protestantisme à la maison Jeanne d’Albret et à l’Hôtel de la Lune médiéval. À midi, admirez les éléments gothiques de l’église Saint‑Pierre et gravissez les escaliers raides de la tour de Moncade. L’après‑midi, traversez le Pont Vieux qui enjambe le gave de Pau. Concluez votre soirée en découvrant la poésie locale au musée Francis Jammes."
       },
       "variants": {
         "rainy": {
@@ -167,7 +180,8 @@
             "de": "Beginnen Sie den regnerischen Morgen im trockenen Haus Jeanne d'Albret. Suchen Sie mittags Schutz in der Kirche Saint-Pierre. Nachmittags erwarten Sie rutschiges Pflaster am Turm und an der Brücke, tragen Sie also gute Schuhe. Beenden Sie den feuchten Abend gemütlich im warmen Francis Jammes Museum.",
             "hu": "Kezdje az esős reggelt a Jeanne d'Albret ház száraz falai között. Délben keressen menedéket a fenséges Saint-Pierre templomban. Délután csúszós macskaköveken sétál a toronyhoz és a hídhoz, ezért vigyázzon lépéseire! Az estét a meleg és védett Francis Jammes Múzeumban zárhatja.",
             "ro": "Începeți dimineața ploioasă la adăpost în casa Jeanne d'Albret. La prânz, căutați refugiu în biserica Saint-Pierre. După-amiaza aduce pavaj alunecos la turn și la pod, așa că purtați încălțăminte adecvată. Încheiați seara umedă în confortul Muzeului Francis Jammes.",
-            "en": "Start your wet morning indoors at the Jeanne d'Albret house. By noon, seek reliable shelter inside the majestic Saint-Pierre church. The afternoon brings slippery cobblestones at the tower and bridge, so tread carefully. End the rainy evening completely dry in the warm Francis Jammes Museum."
+            "en": "Start your wet morning indoors at the Jeanne d'Albret house. By noon, seek reliable shelter inside the majestic Saint-Pierre church. The afternoon brings slippery cobblestones at the tower and bridge, so tread carefully. End the rainy evening completely dry in the warm Francis Jammes Museum.",
+            "fr": "Commencez votre matinée humide à l’intérieur à la maison Jeanne d’Albret. À midi, cherchez un abri fiable dans la majestueuse église Saint‑Pierre. L’après‑midi apporte des pavés glissants à la tour et au pont, donc marchez prudemment. Terminez la soirée pluvieuse complètement au sec dans le chaleureux musée Francis Jammes."
           },
           "stops": [
             {
@@ -175,13 +189,15 @@
                 "de": "Haus Jeanne d'Albret",
                 "hu": "Jeanne d'Albret Ház",
                 "ro": "Casa Jeanne d'Albret",
-                "en": "Jeanne d'Albret House"
+                "en": "Jeanne d'Albret House",
+                "fr": "Maison Jeanne d’Albret"
               },
               "tip_5lang": {
                 "de": "Ein hervorragender Start im Innenbereich, um den Morgenschauern zu entkommen und die reiche lokale Geschichte zu erkunden.",
                 "hu": "Kiváló beltéri kezdés a reggeli záporok elől, miközben felfedezi a város gazdag és érdekes helyi történelmet.",
                 "ro": "Un început excelent în interior pentru a scăpa de ploile matinale în timp ce explorați istoria locală bogată.",
-                "en": "An excellent indoor start to safely escape the morning showers while exploring the region's rich local history."
+                "en": "An excellent indoor start to safely escape the morning showers while exploring the region's rich local history.",
+                "fr": "Un excellent départ en intérieur pour échapper en sécurité aux averses matinales tout en explorant l’histoire locale riche."
               }
             },
             {
@@ -189,13 +205,15 @@
                 "de": "Hôtel de la Lune",
                 "hu": "Hôtel de la Lune",
                 "ro": "Hôtel de la Lune",
-                "en": "Hôtel de la Lune"
+                "en": "Hôtel de la Lune",
+                "fr": "Hôtel de la Lune"
               },
               "tip_5lang": {
                 "de": "Die historische Fassade wirkt im Regen dramatisch, aber achten Sie auf Ihre Schritte auf dem nassen, rutschigen Pflaster.",
                 "hu": "A történelmi homlokzat drámaian fest az esőben, de feltétlenül vigyázzon a csúszós és nedves járdán sétálva.",
                 "ro": "Fațada istorică arată dramatic în ploaie, dar aveți grijă unde călcați pe pavajul ud și alunecos.",
-                "en": "The historic facade looks beautifully dramatic in the rain, but watch your step closely on the slippery wet pavement."
+                "en": "The historic facade looks beautifully dramatic in the rain, but watch your step closely on the slippery wet pavement.",
+                "fr": "La façade historique est magnifiquement dramatique sous la pluie, mais faites très attention au pavé mouillé et glissant."
               }
             },
             {
@@ -203,13 +221,15 @@
                 "de": "Saint-Pierre-Kirche",
                 "hu": "Saint-Pierre Templom",
                 "ro": "Biserica Saint-Pierre",
-                "en": "Saint-Pierre Church"
+                "en": "Saint-Pierre Church",
+                "fr": "Église Saint‑Pierre"
               },
               "tip_5lang": {
                 "de": "Treten Sie in dieses massive steinerne Refugium ein, um sich abzutrocknen und das schwach beleuchtete Innere zu bewundern.",
                 "hu": "Lépjen be ebbe a masszív kőmenedékbe, hogy megszáradjon, és nyugodtan megcsodálja a gyönyörű, esős fényben úszó belső teret.",
                 "ro": "Pășiți în acest adăpost masiv de piatră pentru a vă usca și a admira interiorul frumos și slab luminat.",
-                "en": "Step inside this massive medieval stone shelter to dry off completely and admire the beautiful, dimly lit interior."
+                "en": "Step inside this massive medieval stone shelter to dry off completely and admire the beautiful, dimly lit interior.",
+                "fr": "Entrez dans cet imposant abri médiéval en pierre pour vous sécher complètement et admirer l’intérieur beau et tamisé."
               }
             },
             {
@@ -217,13 +237,15 @@
                 "de": "Moncade-Turm",
                 "hu": "Moncade Torony",
                 "ro": "Turnul Moncade",
-                "en": "Moncade Tower"
+                "en": "Moncade Tower",
+                "fr": "Tour de Moncade"
               },
               "tip_5lang": {
                 "de": "Bringen Sie einen stabilen Regenschirm mit; der Aufstieg kann nass sein, aber die neblige Aussicht ist unvergesslich.",
                 "hu": "Hozzon magával erős esernyőt; a felfelé vezető út nedves lehet, de a városra nyíló ködös kilátás felejthetetlen marad.",
                 "ro": "Aduceți o umbrelă rezistentă; urcarea poate fi udă, dar priveliștea cețoasă a orașului este de neuitat.",
-                "en": "Carry a sturdy umbrella; the climb can be wet and slippery, but the misty, atmospheric views of the city are unforgettable."
+                "en": "Carry a sturdy umbrella; the climb can be wet and slippery, but the misty, atmospheric views of the city are unforgettable.",
+                "fr": "Emportez un parapluie solide ; la montée peut être humide et glissante, mais les vues brumeuses et atmosphériques sur la ville sont inoubliables."
               }
             },
             {
@@ -231,13 +253,15 @@
                 "de": "Pont Vieux",
                 "hu": "Pont Vieux (Öreg Híd)",
                 "ro": "Pont Vieux (Podul Vechi)",
-                "en": "Pont Vieux (Old Bridge)"
+                "en": "Pont Vieux (Old Bridge)",
+                "fr": "Pont Vieux (Old Bridge)"
               },
               "tip_5lang": {
                 "de": "Beobachten Sie den angeschwollenen Fluss, aber halten Sie Ihre Regenjacke fest, da es auf der Brücke sehr windig wird.",
                 "hu": "Nézze a megáradt folyót odalent, de fogja szorosan az esőkabátját, mert a hídon kifejezetten szeles idő lehet.",
                 "ro": "Priviți râul umflat curgând dedesubt, dar țineți-vă bine haina de ploaie deoarece bate vântul pe pod.",
-                "en": "Watch the swollen river rush below, but hold onto your raincoat tightly as it gets surprisingly windy standing on the bridge."
+                "en": "Watch the swollen river rush below, but hold onto your raincoat tightly as it gets surprisingly windy standing on the bridge.",
+                "fr": "Regardez la rivière en crue s'élancer en contrebas, mais gardez bien votre imperméable car il devient étonnamment venteux sur le pont."
               }
             },
             {
@@ -245,13 +269,15 @@
                 "de": "Francis Jammes Museum",
                 "hu": "Francis Jammes Múzeum",
                 "ro": "Muzeul Francis Jammes",
-                "en": "Francis Jammes Museum"
+                "en": "Francis Jammes Museum",
+                "fr": "Musée Francis Jammes"
               },
               "tip_5lang": {
                 "de": "Beenden Sie Ihren nassen Wandertag vollkommen trocken in diesem faszinierenden literarischen und kulturellen Museum.",
                 "hu": "Fejezze be a nedves városnéző sétát teljesen szárazon ebben a lenyűgöző irodalmi és kulturális múzeumban.",
                 "ro": "Încheiați-vă ziua umedă de plimbare complet uscat în interiorul acestui fascinant muzeu literar și cultural.",
-                "en": "End your thoroughly wet walking day completely dry inside this fascinating and deeply cultural literary museum."
+                "en": "End your thoroughly wet walking day completely dry inside this fascinating and deeply cultural literary museum.",
+                "fr": "Terminez votre journée de marche complètement trempée bien au sec à l'intérieur de ce fascinant et profondément culturel musée littéraire."
               }
             }
           ]
@@ -261,7 +287,8 @@
             "de": "Beginnen Sie den klaren, kalten Morgen bei den historischen Häusern. Wärmen Sie sich mittags in der Kirche auf. Nachmittags ist die Sicht vom Turm kristallklar, aber bedenken Sie, dass die Sonne bereits gegen 17:00 Uhr untergeht. Verbringen Sie den kalten, dunklen Abend im gut beleuchteten Museum.",
             "hu": "Kezdje a fagyos téli reggelt a történelmi házaknál, öltözzön rétegesen. Délben melegedjen fel a templom vastag falai között. A délutáni kilátás a toronyból tiszta, de 17:00 körül már sötétedik. A hideg, sötét estét töltse kellemesen a múzeum kiállításain.",
             "ro": "Începeți dimineața geroasă de iarnă explorând casele istorice. La prânz, încălziți-vă în interiorul bisericii. Priveliștea de după-amiază din turn este clară, dar se întunecă devreme, în jur de 17:00. Petreceți seara rece și întunecată la căldură în muzeu.",
-            "en": "Start your crisp winter morning exploring historic houses in warm layers. Warm up by noon inside the thick walls of the church. Afternoon views from the tower are clear, but remember sunset comes early around 17:00. Spend the chilly evening learning inside the well-lit museum."
+            "en": "Start your crisp winter morning exploring historic houses in warm layers. Warm up by noon inside the thick walls of the church. Afternoon views from the tower are clear, but remember sunset comes early around 17:00. Spend the chilly evening learning inside the well-lit museum.",
+            "fr": "Commencez votre matinée d'hiver fraîche en explorant les maisons historiques en couches chaudes. Réchauffez-vous à midi à l'intérieur des murs épais de l'église. Les vues depuis le clocher l'après-midi sont nettes, mais souvenez-vous que le soleil se couche tôt vers 17:00. Passez la soirée fraîche à apprendre dans le musée bien éclairé."
           },
           "stops": [
             {
@@ -269,13 +296,15 @@
                 "de": "Haus Jeanne d'Albret",
                 "hu": "Jeanne d'Albret Ház",
                 "ro": "Casa Jeanne d'Albret",
-                "en": "Jeanne d'Albret House"
+                "en": "Jeanne d'Albret House",
+                "fr": "Maison de Jeanne d'Albret"
               },
               "tip_5lang": {
                 "de": "Tauen Sie in diesem warmen historischen Haus auf, um an einem frostigen Morgen mehr über die Könige von Navarra zu erfahren.",
                 "hu": "Melegedjen fel ebben a történelmi házban, hogy egy fagyos reggelen kényelmesen tanulhasson a navarrai királyokról.",
                 "ro": "Încălziți-vă în această casă istorică caldă pentru a afla despre regalitatea navareză într-o dimineață geroasă.",
-                "en": "Thaw out completely in this warm historic house to learn about Navarrese royalty comfortably on a frosty morning."
+                "en": "Thaw out completely in this warm historic house to learn about Navarrese royalty comfortably on a frosty morning.",
+                "fr": "Réchauffez-vous complètement dans cette maison historique pour en apprendre confortablement sur la royauté de Navarre lors d'une matinée glaciale."
               }
             },
             {
@@ -283,13 +312,15 @@
                 "de": "Hôtel de la Lune",
                 "hu": "Hôtel de la Lune",
                 "ro": "Hôtel de la Lune",
-                "en": "Hôtel de la Lune"
+                "en": "Hôtel de la Lune",
+                "fr": "Hôtel de la Lune"
               },
               "tip_5lang": {
                 "de": "Die Winterluft verleiht diesem mittelalterlichen Gasthaus eine klare Atmosphäre; packen Sie sich warm ein für den Weg.",
                 "hu": "A csípős téli levegő különleges hangulatot ad a középkori fogadónak; öltözzön be jól a következő állomásig.",
                 "ro": "Aerul de iarnă conferă acestui han medieval o atmosferă proaspătă; îmbrăcați-vă bine înainte de următoarea oprire.",
-                "en": "The crisp winter air gives this medieval inn a magical vibe; bundle up tightly before heading to the next outdoor stop."
+                "en": "The crisp winter air gives this medieval inn a magical vibe; bundle up tightly before heading to the next outdoor stop.",
+                "fr": "L'air vif d'hiver donne à cette auberge médiévale une atmosphère magique ; emmitouflez-vous bien avant de vous rendre au prochain arrêt en plein air."
               }
             },
             {
@@ -297,13 +328,15 @@
                 "de": "Saint-Pierre-Kirche",
                 "hu": "Saint-Pierre Templom",
                 "ro": "Biserica Saint-Pierre",
-                "en": "Saint-Pierre Church"
+                "en": "Saint-Pierre Church",
+                "fr": "Église Saint-Pierre"
               },
               "tip_5lang": {
                 "de": "Die dicken mittelalterlichen Mauern blockieren den beißenden Winterwind während Ihrer mittäglichen Erkundung perfekt.",
                 "hu": "A vastag középkori falak tökéletesen felfogják a metsző téli szelet a déli, nyugodt városnézés során.",
                 "ro": "Zidurile medievale groase blochează perfect vântul tăios de iarnă în timpul explorării de la prânz.",
-                "en": "The incredibly thick medieval walls block the biting winter wind perfectly during your peaceful midday exploration."
+                "en": "The incredibly thick medieval walls block the biting winter wind perfectly during your peaceful midday exploration.",
+                "fr": "Les murs médiévaux incroyablement épais bloquent parfaitement le vent hivernal mordant pendant votre paisible exploration de midi."
               }
             },
             {
@@ -311,13 +344,15 @@
                 "de": "Moncade-Turm",
                 "hu": "Moncade Torony",
                 "ro": "Turnul Moncade",
-                "en": "Moncade Tower"
+                "en": "Moncade Tower",
+                "fr": "Tour de Moncade"
               },
               "tip_5lang": {
                 "de": "Steigen Sie für kristallklare Winterpanoramen nach oben, aber tragen Sie eine Mütze, da es dort sehr windig wird.",
                 "hu": "Másszon fel a kristálytiszta téli panorámáért, de feltétlenül viseljen sapkát, mert odafent nagyon fúj a szél.",
                 "ro": "Urcați în vârf pentru panorame de iarnă cristaline, dar purtați o căciulă deoarece devine foarte vântos sus.",
-                "en": "Climb to the very top for crystal-clear winter panoramas, but firmly wear a hat as it gets extremely breezy up there."
+                "en": "Climb to the very top for crystal-clear winter panoramas, but firmly wear a hat as it gets extremely breezy up there.",
+                "fr": "Montez tout en haut pour des panoramas hivernaux d'une clarté cristalline, mais portez fermement un bonnet car il y fait extrêmement venteux."
               }
             },
             {
@@ -325,13 +360,15 @@
                 "de": "Pont Vieux",
                 "hu": "Pont Vieux (Öreg Híd)",
                 "ro": "Pont Vieux (Podul Vechi)",
-                "en": "Pont Vieux (Old Bridge)"
+                "en": "Pont Vieux (Old Bridge)",
+                "fr": "Pont Vieux (Old Bridge)"
               },
               "tip_5lang": {
                 "de": "Die tiefstehende Wintersonne wirft vor der frühen Dämmerung um 17:00 Uhr wunderschöne lange Schatten über die Brücke.",
                 "hu": "Az alacsonyan járó téli nap gyönyörű, hosszú árnyékokat vet a hídra a korai, 17:00 órás sötétedés előtt.",
                 "ro": "Soarele blând de iarnă aruncă umbre lungi și frumoase peste pod înainte de lăsarea devreme a întunericului de la 17:00.",
-                "en": "The low winter sun casts beautifully dramatic long shadows over the stone bridge before the early 17:00 dusk falls."
+                "en": "The low winter sun casts beautifully dramatic long shadows over the stone bridge before the early 17:00 dusk falls.",
+                "fr": "Le faible soleil d'hiver projette de belles ombres longues et dramatiques sur le pont de pierre avant que la pénombre de 17:00 n'arrive."
               }
             },
             {
@@ -339,13 +376,15 @@
                 "de": "Francis Jammes Museum",
                 "hu": "Francis Jammes Múzeum",
                 "ro": "Muzeul Francis Jammes",
-                "en": "Francis Jammes Museum"
+                "en": "Francis Jammes Museum",
+                "fr": "Musée Francis Jammes"
               },
               "tip_5lang": {
                 "de": "Ein gemütlicher, gut beleuchteter kultureller Rückzugsort, wenn draußen der dunkle und kalte Abend hereinbricht.",
                 "hu": "Kényelmes, jól megvilágított kulturális menedék, amelyet érdemes felfedezni, miután kint beáll a sötét és hideg este.",
                 "ro": "Un refugiu cultural confortabil și bine luminat pentru a fi explorat odată ce se lasă seara rece și întunecată afară.",
-                "en": "A cozy, wonderfully well-lit cultural retreat to explore at your own pace once the dark and cold evening sets in outside."
+                "en": "A cozy, wonderfully well-lit cultural retreat to explore at your own pace once the dark and cold evening sets in outside.",
+                "fr": "Un refuge culturel chaleureux et merveilleusement bien éclairé à explorer à votre rythme une fois que la nuit froide et sombre s'installe dehors."
               }
             }
           ]
@@ -365,7 +404,8 @@
             "de": "Pont Vieux",
             "hu": "Pont Vieux (Öreg Híd)",
             "ro": "Pont Vieux (Podul Vechi)",
-            "en": "Pont Vieux (Old Bridge)"
+            "en": "Pont Vieux (Old Bridge)",
+            "fr": "Pont Vieux (Old Bridge)"
           },
           "coords": [
             -0.777031,
@@ -380,7 +420,8 @@
             "de": "Spazieren Sie über diese befestigte Brücke aus dem 13. Jahrhundert über den Fluss Gave de Pau und gehen Sie zum Ufer für das beste Fotomotiv.",
             "hu": "Sétáljon át a Gave de Pau folyót átívelő, 13. századi erődített hídon, és a legjobb fotók kedvéért ereszkedjen le egészen a folyópartig.",
             "ro": "Plimbați-vă pe acest pod fortificat emblematic din secolul al XIII-lea peste râul Gave de Pau și coborâți pe mal pentru cel mai bun unghi foto.",
-            "en": "Walk across this iconic 13th-century fortified bridge spanning the Gave de Pau river, and step down to the riverbank for the best photo angle."
+            "en": "Walk across this iconic 13th-century fortified bridge spanning the Gave de Pau river, and step down to the riverbank for the best photo angle.",
+            "fr": "Traversez ce pont fortifié emblématique du XIIIe siècle qui enjambe le Gave de Pau, et descendez sur la berge pour le meilleur angle photo."
           }
         },
         {
@@ -388,7 +429,8 @@
             "de": "Haus Jeanne d'Albret",
             "hu": "Jeanne d'Albret Ház",
             "ro": "Casa Jeanne d'Albret",
-            "en": "Jeanne d'Albret House"
+            "en": "Jeanne d'Albret House",
+            "fr": "Maison de Jeanne d'Albret"
           },
           "coords": [
             -0.774734,
@@ -403,7 +445,8 @@
             "de": "Entdecken Sie die protestantische Geschichte des Béarn in diesem Museum aus dem 16. Jahrhundert und nutzen Sie den Audioguide für das beste Erlebnis.",
             "hu": "Ismerje meg a Béarn régió protestáns történelmét ebben a 16. századi múzeumban, és a legjobb élmény érdekében kérje az angol nyelvű audioguide-ot.",
             "ro": "Descoperiți istoria protestantă a regiunii Béarn în acest muzeu din secolul al XVI-lea și solicitați un ghid audio pentru o experiență completă.",
-            "en": "Explore the deep Protestant history of the Béarn region in this 16th-century museum, and pick up the English audio guide for the best experience."
+            "en": "Explore the deep Protestant history of the Béarn region in this 16th-century museum, and pick up the English audio guide for the best experience.",
+            "fr": "Explorez la profonde histoire protestante de la région du Béarn dans ce musée du XVIe siècle, et prenez le audioguide en anglais pour une meilleure expérience."
           }
         },
         {
@@ -411,7 +454,8 @@
             "de": "Saint-Pierre-Kirche",
             "hu": "Saint-Pierre Templom",
             "ro": "Biserica Saint-Pierre",
-            "en": "Saint-Pierre Church"
+            "en": "Saint-Pierre Church",
+            "fr": "Église Saint-Pierre"
           },
           "coords": [
             -0.775265,
@@ -426,7 +470,8 @@
             "de": "Bestaunen Sie die beeindruckenden gotischen Gewölbedecken dieser wunderschönen historischen Kirche, aber denken Sie an angemessene Kleidung.",
             "hu": "Csodálja meg ennek a gyönyörű történelmi templomnak a lenyűgöző gótikus boltozatát, de ne felejtsen el szerény ruházatot viselni a belépéskor.",
             "ro": "Minunați-vă de impresionantele tavane boltite gotice ale acestei frumoase biserici istorice, amintindu-vă să aveți o ținută decentă la intrare.",
-            "en": "Marvel at the impressive gothic vaulted ceilings of this beautiful historic church, but remember to dress modestly when stepping inside."
+            "en": "Marvel at the impressive gothic vaulted ceilings of this beautiful historic church, but remember to dress modestly when stepping inside.",
+            "fr": "Admirez les impressionnantes voûtes gothiques de cette belle église historique, mais pensez à vous habiller modestement en entrant."
           }
         },
         {
@@ -434,7 +479,8 @@
             "de": "Moncade-Turm",
             "hu": "Moncade Torony",
             "ro": "Turnul Moncade",
-            "en": "Moncade Tower"
+            "en": "Moncade Tower",
+            "fr": "Tour de Moncade"
           },
           "coords": [
             -0.770002,
@@ -449,7 +495,8 @@
             "de": "Steigen Sie die Treppen zur Spitze dieses imposanten Festungsturms hinauf, um einen tollen Panoramablick auf Orthez in bequemen Schuhen zu genießen.",
             "hu": "Mássza meg a lépcsőket ezen az impozáns erődtornyon, hogy lenyűgöző panorámát élvezhessen Orthezre, de viseljen kényelmes, stabil cipőt.",
             "ro": "Urcați scările până în vârful acestui turn de fortăreață impunător pentru o vedere panoramică uimitoare asupra Orthezului, purtând încălțăminte comodă.",
-            "en": "Climb the stairs to the top of this imposing fortress tower for a stunning panoramic view of Orthez, but wear comfortable and sturdy shoes."
+            "en": "Climb the stairs to the top of this imposing fortress tower for a stunning panoramic view of Orthez, but wear comfortable and sturdy shoes.",
+            "fr": "Montez les escaliers jusqu'au sommet de cette imposante tour-forteresse pour une vue panoramique époustouflante d'Orthez, mais portez des chaussures confortables et solides."
           }
         },
         {
@@ -457,7 +504,8 @@
             "de": "Lac de l'Y",
             "hu": "Lac de l'Y",
             "ro": "Lac de l'Y",
-            "en": "Lac de l'Y"
+            "en": "Lac de l'Y",
+            "fr": "Lac de l'Y"
           },
           "coords": [
             -0.76904,
@@ -472,7 +520,8 @@
             "de": "Genießen Sie einen Spaziergang an den von Bäumen gesäumten Ufern dieses ruhigen Natursees, ein idealer Ort, um auf einer Bank etwas zu entspannen.",
             "hu": "Tegyen egy békés sétát e nyugodt, természetes tó fával szegélyezett partjainál, amely ideális hely arra, hogy egy padon megpihenve lazítson.",
             "ro": "Bucurați-vă de o plimbare liniștită pe malurile împădurite ale acestui lac natural calm, un loc ideal pentru a vă relaxa puțin pe o bancă.",
-            "en": "Enjoy a peaceful walk around the tree-lined shores of this calm natural lake, making it an ideal spot to sit on a bench and relax for a while."
+            "en": "Enjoy a peaceful walk around the tree-lined shores of this calm natural lake, making it an ideal spot to sit on a bench and relax for a while.",
+            "fr": "Profitez d'une promenade paisible autour des rives bordées d'arbres de ce lac naturel calme, idéal pour s'asseoir sur un banc et se détendre un moment."
           }
         },
         {
@@ -480,7 +529,8 @@
             "de": "Francis Jammes Museum",
             "hu": "Francis Jammes Múzeum",
             "ro": "Muzeul Francis Jammes",
-            "en": "Francis Jammes Museum"
+            "en": "Francis Jammes Museum",
+            "fr": "Musée Francis Jammes"
           },
           "coords": [
             -0.765206,
@@ -495,7 +545,8 @@
             "de": "Entdecken Sie das Leben und die Werke des berühmten lokalen Dichters in diesem Hausmuseum, dessen Nachmittagsöffnungszeiten Sie vorab prüfen sollten.",
             "hu": "Fedezze fel a híres helyi költő életét és munkásságát ebben a dedikált emlékházban, amelynek délutáni nyitvatartását érdemes előre ellenőrizni.",
             "ro": "Descoperiți viața și operele celebrului poet local în acest muzeu memorial, pe care este cel mai bine să-l vizitați verificând programul de după-amiază.",
-            "en": "Discover the life and works of the famous local poet in this dedicated house museum, which is best visited after checking the afternoon opening hours."
+            "en": "Discover the life and works of the famous local poet in this dedicated house museum, which is best visited after checking the afternoon opening hours.",
+            "fr": "Découvrez la vie et l'œuvre du célèbre poète local dans cette maison-musée dédiée, mieux visitée après avoir vérifié les horaires d'ouverture de l'après-midi."
           }
         }
       ],
@@ -503,7 +554,8 @@
         "de": "Radeln Sie morgens zum Pont Vieux für Fotos, bevor Sie die Ausstellungen im Haus Jeanne d'Albret erkunden. Mittags genießen Sie die Ruhe der Saint-Pierre-Kirche und fahren hinauf zur Festung Moncade. Verbringen Sie den Nachmittag in der Natur am ruhigen Lac de l'Y und beenden Sie Ihren aktiven Tag mit einem kulturellen Besuch im Francis Jammes Museum.",
         "hu": "Először tekerjen az ikonikus Pont Vieux-hoz egy reggeli fotózásra, majd fedezze fel a Jeanne d'Albret ház gazdag kiállításait. Délben csendesedjen el a Saint-Pierre templomban, mielőtt a Moncade erődhöz hajtana. Töltse a délutánt a természetben a békés Lac de l'Y tónál, majd zárja aktív napját a Francis Jammes Múzeum kulturális kincseivel.",
         "ro": "Pedalați mai întâi la emblematicul Pont Vieux pentru o fotografie de dimineață, apoi explorați Casa Jeanne d'Albret. La prânz, petreceți un moment liniștit în Biserica Saint-Pierre înainte de a ajunge la fortăreața Moncade. Petreceți-vă după-amiaza bucurându-vă de natură la Lac de l'Y și încheiați-vă ziua activă la Muzeul cultural Francis Jammes.",
-        "en": "Pedal first to the iconic Pont Vieux for a morning photo op, then explore the rich exhibits of the Jeanne d'Albret House. By midday, take a quiet moment in the Saint-Pierre Church before pushing your bike up to the towering Moncade fortress. Spend your afternoon enjoying nature at the serene Lac de l'Y, and end your active day with a cultural visit to the Francis Jammes Museum."
+        "en": "Pedal first to the iconic Pont Vieux for a morning photo op, then explore the rich exhibits of the Jeanne d'Albret House. By midday, take a quiet moment in the Saint-Pierre Church before pushing your bike up to the towering Moncade fortress. Spend your afternoon enjoying nature at the serene Lac de l'Y, and end your active day with a cultural visit to the Francis Jammes Museum.",
+        "fr": "Pédalez d'abord jusqu'à l'emblématique Pont Vieux pour une photo matinale, puis explorez les riches collections de la Maison de Jeanne d'Albret. À midi, prenez un moment de calme à l'Église Saint-Pierre avant de pousser votre vélo jusqu'à la forteresse de Moncade. Passez l'après-midi à profiter de la nature au paisible Lac de l'Y, et terminez votre journée active par une visite culturelle au Musée Francis Jammes."
       },
       "variants": {
         "rainy": {
@@ -511,7 +563,8 @@
             "de": "Eine nasse Morgenfahrt beginnt an der Brücke; tragen Sie unbedingt einen guten Poncho. Suchen Sie mittags Schutz in der Kirche. Nachmittags sind die Wege zum Turm und See extrem rutschig, fahren Sie langsam. Beenden Sie den regnerischen Abend sicher und trocken im Museum.",
             "hu": "Egy nedves reggeli tekerés a hídnál indul; vegyen fel jó poncsót. Délben keressen száraz menedéket a templomban. Délután a toronyhoz és a tóhoz vezető utak kifejezetten csúszósak lehetnek, tekerjen lassan! Az esős estét biztonságban, a múzeumban fejezheti be.",
             "ro": "O plimbare umedă de dimineață începe la pod; purtați un poncho bun. Căutați adăpost la prânz în biserică. După-amiaza potecile spre turn și lac vor fi foarte alunecoase, mergeți încet. Terminați seara ploioasă în siguranță, la adăpost în muzeu.",
-            "en": "A wet morning ride starts at the bridge; wear a sturdy poncho. Seek noon shelter inside the dry church. Afternoon paths to the tower and lake will be surprisingly slippery, so ride slowly. Finish the rainy evening safely indoors at the local museum."
+            "en": "A wet morning ride starts at the bridge; wear a sturdy poncho. Seek noon shelter inside the dry church. Afternoon paths to the tower and lake will be surprisingly slippery, so ride slowly. Finish the rainy evening safely indoors at the local museum.",
+            "fr": "Une balade matinale sous la pluie commence au pont ; portez un poncho solide. Cherchez refuge à midi dans l'église sèche. Les chemins menant à la tour et au lac l'après-midi seront étonnamment glissants, roulez donc lentement. Terminez la soirée pluvieuse en sécurité à l'intérieur du musée local."
           },
           "stops": [
             {
@@ -519,13 +572,15 @@
                 "de": "Pont Vieux",
                 "hu": "Pont Vieux (Öreg Híd)",
                 "ro": "Pont Vieux (Podul Vechi)",
-                "en": "Pont Vieux (Old Bridge)"
+                "en": "Pont Vieux (Old Bridge)",
+                "fr": "Pont Vieux (Old Bridge)"
               },
               "tip_5lang": {
                 "de": "Das Kopfsteinpflaster der Brücke ist bei Nässe extrem rutschig; steigen Sie ab, um die Aussicht sicher zu genießen.",
                 "hu": "A híd macskakövei nedvesen nagyon csúszósak; szálljon le a kerékpárról, ha biztonságosan akarja élvezni a kilátást.",
                 "ro": "Pietrele cubice de pe pod sunt foarte alunecoase când sunt ude; descălecați dacă este necesar pentru siguranță.",
-                "en": "The bridge's cobblestones are extremely slippery when wet; dismount your bike if necessary to safely enjoy the view."
+                "en": "The bridge's cobblestones are extremely slippery when wet; dismount your bike if necessary to safely enjoy the view.",
+                "fr": "Les pavés du pont sont extrêmement glissants quand ils sont mouillés ; descendez de votre vélo si nécessaire pour profiter du paysage en sécurité."
               }
             },
             {
@@ -533,13 +588,15 @@
                 "de": "Haus Jeanne d'Albret",
                 "hu": "Jeanne d'Albret Ház",
                 "ro": "Casa Jeanne d'Albret",
-                "en": "Jeanne d'Albret House"
+                "en": "Jeanne d'Albret House",
+                "fr": "Maison de Jeanne d'Albret"
               },
               "tip_5lang": {
                 "de": "Parken Sie Ihr Fahrrad und trocknen Sie sich in diesem faszinierenden Museum ab, während es draußen regnet.",
                 "hu": "Parkolja le a kerékpárt, és száradjon meg ebben a lenyűgöző múzeumban, amíg kint esik az eső.",
                 "ro": "Parcați bicicleta și uscați-vă în interiorul acestui muzeu fascinant în timp ce plouă afară.",
-                "en": "Park your bike securely and dry off completely inside this fascinating museum while the rain continues outside."
+                "en": "Park your bike securely and dry off completely inside this fascinating museum while the rain continues outside.",
+                "fr": "Garez votre vélo en sécurité et séchez-vous complètement à l'intérieur de ce musée fascinant pendant que la pluie continue dehors."
               }
             },
             {
@@ -547,13 +604,15 @@
                 "de": "Saint-Pierre-Kirche",
                 "hu": "Saint-Pierre Templom",
                 "ro": "Biserica Saint-Pierre",
-                "en": "Saint-Pierre Church"
+                "en": "Saint-Pierre Church",
+                "fr": "Église Saint-Pierre"
               },
               "tip_5lang": {
                 "de": "Ein perfekter überdachter Zwischenstopp. Stellen Sie Ihr Fahrrad ab und entfliehen Sie den heftigen Mittagsschauern.",
                 "hu": "Tökéletes fedett megálló. Támassza le a kerékpárt, és meneküljön be a heves déli záporok elől a templomba.",
                 "ro": "O oprire acoperită perfectă. Lăsați bicicleta și scăpați de ploile grele de la amiază în interior.",
-                "en": "A perfectly reliable covered stop. Park your bike and completely escape the heavy midday showers inside the nave."
+                "en": "A perfectly reliable covered stop. Park your bike and completely escape the heavy midday showers inside the nave.",
+                "fr": "Un arrêt couvert parfaitement fiable. Garez votre vélo et échappez complètement aux fortes averses de midi à l'intérieur de la nef."
               }
             },
             {
@@ -561,13 +620,15 @@
                 "de": "Moncade-Turm",
                 "hu": "Moncade Torony",
                 "ro": "Turnul Moncade",
-                "en": "Moncade Tower"
+                "en": "Moncade Tower",
+                "fr": "Tour de Moncade"
               },
               "tip_5lang": {
                 "de": "Regnerische Aussichten vom Bergfried sind schön, aber seien Sie besonders vorsichtig auf den nassen, rutschigen Stufen.",
                 "hu": "A toronyból nyíló esős kilátás szép, de legyen különösen óvatos a nedves, csúszós lépcsőkön felfelé haladva.",
                 "ro": "Priveliștea ploioasă din turn este frumoasă, dar fiți extrem de precauți pe treptele ude și alunecoase.",
-                "en": "Rainy views from the high keep are atmospheric, but be extra cautious walking on the wet, slippery stone steps."
+                "en": "Rainy views from the high keep are atmospheric, but be extra cautious walking on the wet, slippery stone steps.",
+                "fr": "Les vues pluvieuses depuis le haut du donjon sont atmosphériques, mais soyez très prudent en marchant sur les marches de pierre mouillées et glissantes."
               }
             },
             {
@@ -575,13 +636,15 @@
                 "de": "Lac de l'Y",
                 "hu": "Lac de l'Y",
                 "ro": "Lac de l'Y",
-                "en": "Lac de l'Y"
+                "en": "Lac de l'Y",
+                "fr": "Lac de l'Y"
               },
               "tip_5lang": {
                 "de": "Die unbefestigten Wege um den See können im Regen schlammig werden, bleiben Sie also auf den gepflasterten Abschnitten.",
                 "hu": "A tó körüli földutak nagyon sárosak lehetnek esőben, ezért maradjon biztonságban a burkolt szakaszokon tekerve.",
                 "ro": "Potecile neasfaltate din jurul lacului pot deveni noroioase în ploaie, așa că rămâneți pe porțiunile pavate.",
-                "en": "The dirt paths around the lake can easily become muddy in the rain, so strictly stick to the paved riding sections."
+                "en": "The dirt paths around the lake can easily become muddy in the rain, so strictly stick to the paved riding sections.",
+                "fr": "Les sentiers de terre autour du lac peuvent facilement devenir boueux sous la pluie, respectez donc strictement les sections goudronnées pour rouler."
               }
             },
             {
@@ -589,13 +652,15 @@
                 "de": "Francis Jammes Museum",
                 "hu": "Francis Jammes Múzeum",
                 "ro": "Muzeul Francis Jammes",
-                "en": "Francis Jammes Museum"
+                "en": "Francis Jammes Museum",
+                "fr": "Musée Francis Jammes"
               },
               "tip_5lang": {
                 "de": "Ein perfekter, warmer Innenabschluss für einen nassen Reittag; hier können Sie sich vor der Rückfahrt trocknen.",
                 "hu": "Tökéletes, meleg beltéri befejezés egy nedves kerékpáros nap után; itt megszáradhat a hazautazás előtt.",
                 "ro": "O concluzie interioară perfectă și caldă pentru o zi umedă de pedalat; aici vă puteți usca înainte de plecare.",
-                "en": "A thoroughly perfect, warm indoor conclusion to a wet riding day; completely dry off here before heading home."
+                "en": "A thoroughly perfect, warm indoor conclusion to a wet riding day; completely dry off here before heading home.",
+                "fr": "Une conclusion intérieure parfaitement idéale et chaleureuse à une journée de vélo humide ; séchez-vous complètement ici avant de rentrer chez vous."
               }
             }
           ]
@@ -605,7 +670,8 @@
             "de": "Beginnen Sie Ihre frostige Morgenfahrt gut eingepackt in warmen Schichten. Halten Sie mittags an der Kirche, um Ihre Hände aufzuwärmen. Der See ist nachmittags wunderschön, aber denken Sie daran, dass die Sonne um 17:00 Uhr untergeht. Beenden Sie die Fahrt im Museum, bevor es völlig dunkel wird.",
             "hu": "Kezdje a fagyos reggeli tekerést vastag, meleg rétegekben. Délben álljon meg a templomnál felmelegíteni a kezét. A délutáni tó fagyosan is gyönyörű, de ne feledje, hogy 17:00-kor sötétedik. Zárja a hideg túrát a múzeumban, mielőtt teljesen besötétedik és lehűl a levegő.",
             "ro": "Începeți cursa de dimineață geroasă bine înfofolit în straturi calde. Opriți-vă la biserică la prânz pentru a vă încălzi mâinile. Lacul după-amiaza este superb, dar amintiți-vă că soarele apune la 17:00. Terminați cursa rece la muzeu înainte să se întunece complet.",
-            "en": "Start your incredibly frosty morning ride securely wrapped in warm layers. Stop at the church at noon to properly warm your freezing hands. The afternoon lake is beautiful, but remember the sun fully sets by 17:00. End your chilly ride at the museum before it gets completely dark."
+            "en": "Start your incredibly frosty morning ride securely wrapped in warm layers. Stop at the church at noon to properly warm your freezing hands. The afternoon lake is beautiful, but remember the sun fully sets by 17:00. End your chilly ride at the museum before it gets completely dark.",
+            "fr": "Commencez votre matinée de vélo incroyablement glaciale bien emmitouflé dans des couches chaudes. Arrêtez-vous à l'église à midi pour réchauffer correctement vos mains gelées. Le lac de l'après-midi est beau, mais souvenez-vous que le soleil se couche complètement à 17:00. Terminez votre balade froide au musée avant qu'il fasse complètement nuit."
           },
           "stops": [
             {
@@ -613,13 +679,15 @@
                 "de": "Pont Vieux",
                 "hu": "Pont Vieux (Öreg Híd)",
                 "ro": "Pont Vieux (Podul Vechi)",
-                "en": "Pont Vieux (Old Bridge)"
+                "en": "Pont Vieux (Old Bridge)",
+                "fr": "Pont Vieux (Old Bridge)"
               },
               "tip_5lang": {
                 "de": "Ein wunderschöner, frostiger Start in Ihre Fahrt; achten Sie früh am Morgen auf tückisches Glatteis auf den Steinen.",
                 "hu": "Gyönyörű, fagyos kezdete a kerékpározásnak; kora reggel különösen figyeljen a köveken lévő alattomos jégre.",
                 "ro": "Un început frumos și geros pentru plimbarea ta; fii atent la gheața ascunsă pe pietre dimineața devreme.",
-                "en": "A beautiful, deeply frosty start to your ride; actively watch for treacherous black ice on the bridge stones early on."
+                "en": "A beautiful, deeply frosty start to your ride; actively watch for treacherous black ice on the bridge stones early on.",
+                "fr": "Un joli départ profondément gelé pour votre balade ; surveillez activement le redoutable verglas noir sur les pierres du pont dès le matin."
               }
             },
             {
@@ -627,13 +695,15 @@
                 "de": "Haus Jeanne d'Albret",
                 "hu": "Jeanne d'Albret Ház",
                 "ro": "Casa Jeanne d'Albret",
-                "en": "Jeanne d'Albret House"
+                "en": "Jeanne d'Albret House",
+                "fr": "Maison de Jeanne d'Albret"
               },
               "tip_5lang": {
                 "de": "Treten Sie ein, um aufzutauen und die Exponate zu erkunden, während Sie den kalten Winterwinden entkommen.",
                 "hu": "Lépjen be, hogy kellemesen felengedjen és nyugodtan felfedezze a kiállításokat, menekülve a hideg téli szelek elől.",
                 "ro": "Pășiți înăuntru pentru a vă dezgheța și a explora exponatele în timp ce scăpați de vânturile reci de iarnă.",
-                "en": "Step inside to effectively thaw out and slowly explore the historical exhibits while safely escaping the freezing winds."
+                "en": "Step inside to effectively thaw out and slowly explore the historical exhibits while safely escaping the freezing winds.",
+                "fr": "Entrez pour vous réchauffer efficacement et explorer lentement les expositions historiques tout en échappant en toute sécurité aux vents glacials."
               }
             },
             {
@@ -641,13 +711,15 @@
                 "de": "Saint-Pierre-Kirche",
                 "hu": "Saint-Pierre Templom",
                 "ro": "Biserica Saint-Pierre",
-                "en": "Saint-Pierre Church"
+                "en": "Saint-Pierre Church",
+                "fr": "Église Saint-Pierre"
               },
               "tip_5lang": {
                 "de": "Ein ruhiger, geschlossener Raum, um sich auf halber Strecke aufzuwärmen, bevor es zurück in die Kälte geht.",
                 "hu": "Csendes, zárt tér, ahol a túra felénél remekül felmelegedhet, mielőtt visszatérne a kinti csípős hidegbe.",
                 "ro": "Un spațiu liniștit și închis pentru a vă încălzi la jumătatea drumului înainte de a înfrunta din nou frigul.",
-                "en": "A wonderfully quiet, fully enclosed space to warm your core mid-ride before bravely facing the winter chill again."
+                "en": "A wonderfully quiet, fully enclosed space to warm your core mid-ride before bravely facing the winter chill again.",
+                "fr": "Un espace merveilleusement calme et entièrement clos pour réchauffer votre corps en milieu de balade avant d'affronter courageusement à nouveau le froid hivernal."
               }
             },
             {
@@ -655,13 +727,15 @@
                 "de": "Moncade-Turm",
                 "hu": "Moncade Torony",
                 "ro": "Turnul Moncade",
-                "en": "Moncade Tower"
+                "en": "Moncade Tower",
+                "fr": "Tour de Moncade"
               },
               "tip_5lang": {
                 "de": "Klettern Sie hinauf für ein klares Winterpanorama, bevor die Sonne sinkt; behalten Sie Ihre Handschuhe oben an.",
                 "hu": "Másszon fel a tiszta téli panorámáért, mielőtt a nap lemenne; a hideg szél miatt tartsa magán a kesztyűt odafent.",
                 "ro": "Urcați pentru o panoramă de iarnă clară înainte ca soarele să coboare; păstrați mănușile în mâini în vârf.",
-                "en": "Climb up for a remarkably crisp winter panorama before the sun dips entirely; firmly keep your riding gloves on at the top."
+                "en": "Climb up for a remarkably crisp winter panorama before the sun dips entirely; firmly keep your riding gloves on at the top.",
+                "fr": "Montez pour un panorama d'hiver remarquablement net avant que le soleil ne se couche entièrement ; gardez fermement vos gants de cyclisme en haut."
               }
             },
             {
@@ -669,13 +743,15 @@
                 "de": "Lac de l'Y",
                 "hu": "Lac de l'Y",
                 "ro": "Lac de l'Y",
-                "en": "Lac de l'Y"
+                "en": "Lac de l'Y",
+                "fr": "Lac de l'Y"
               },
               "tip_5lang": {
                 "de": "Die kahlen Bäume spiegeln sich wunderschön im kalten Wasser; bleiben Sie in Bewegung, um warm zu bleiben.",
                 "hu": "A csupasz fák gyönyörűen tükröződnek a hideg vízben; tekerjen folyamatosan, hogy melegen tartsa az izmait.",
                 "ro": "Copacii goi se reflectă superb în apa rece; continuați să pedalați pentru a vă menține căldura corporală.",
-                "en": "The beautifully bare trees reflect sharply in the freezing water; purposely keep moving quickly to maintain body heat."
+                "en": "The beautifully bare trees reflect sharply in the freezing water; purposely keep moving quickly to maintain body heat.",
+                "fr": "Les arbres magnifiquement dénudés se reflètent nettement dans l'eau glacée ; continuez délibérément à bouger rapidement pour conserver votre chaleur corporelle."
               }
             },
             {
@@ -683,13 +759,15 @@
                 "de": "Francis Jammes Museum",
                 "hu": "Francis Jammes Múzeum",
                 "ro": "Muzeul Francis Jammes",
-                "en": "Francis Jammes Museum"
+                "en": "Francis Jammes Museum",
+                "fr": "Musée Francis Jammes"
               },
               "tip_5lang": {
                 "de": "Beenden Sie Ihre eisige Fahrt hier im Warmen, da die frühe Winterdämmerung das Radfahren draußen dunkel macht.",
                 "hu": "Fejezze be a jeges túrát itt a melegben, mivel a korai, 17:00 órás téli alkonyat miatt kint már sötét lesz tekerni.",
                 "ro": "Încheiați-vă cursa înghețată aici la căldură, deoarece amurgul timpuriu de iarnă face pedalatul afară periculos de întunecat.",
-                "en": "End your freezing ride here in the warmth, as the extremely early winter dusk makes outdoor cycling far too dark."
+                "en": "End your freezing ride here in the warmth, as the extremely early winter dusk makes outdoor cycling far too dark.",
+                "fr": "Terminez ici votre balade glaciale au chaud, car la tombée de la nuit hivernale extrêmement précoce rend le cyclisme extérieur trop sombre."
               }
             }
           ]
@@ -709,7 +787,8 @@
             "de": "Moncade-Turm",
             "hu": "Moncade Torony",
             "ro": "Turnul Moncade",
-            "en": "Moncade Tower"
+            "en": "Moncade Tower",
+            "fr": "Tour de Moncade"
           },
           "coords": [
             -0.770002,
@@ -724,7 +803,8 @@
             "de": "Steigen Sie die Treppen zur Spitze dieses imposanten Festungsturms hinauf, um einen tollen Panoramablick auf Orthez in bequemen Schuhen zu genießen.",
             "hu": "Mássza meg a lépcsőket ezen az impozáns erődtornyon, hogy lenyűgöző panorámát élvezhessen Orthezre, de viseljen kényelmes, stabil cipőt.",
             "ro": "Urcați scările până în vârful acestui turn de fortăreață impunător pentru o vedere panoramică uimitoare asupra Orthezului, purtând încălțăminte comodă.",
-            "en": "Climb the stairs to the top of this imposing fortress tower for a stunning panoramic view of Orthez, but wear comfortable and sturdy shoes."
+            "en": "Climb the stairs to the top of this imposing fortress tower for a stunning panoramic view of Orthez, but wear comfortable and sturdy shoes.",
+            "fr": "Montez les escaliers jusqu'au sommet de cette imposante tour-forteresse pour une vue panoramique époustouflante d'Orthez, mais portez des chaussures confortables et solides."
           }
         },
         {
@@ -732,7 +812,8 @@
             "de": "Saint-Pierre-Kirche",
             "hu": "Saint-Pierre Templom",
             "ro": "Biserica Saint-Pierre",
-            "en": "Saint-Pierre Church"
+            "en": "Saint-Pierre Church",
+            "fr": "Église Saint-Pierre"
           },
           "coords": [
             -0.775265,
@@ -747,7 +828,8 @@
             "de": "Bestaunen Sie die beeindruckenden gotischen Gewölbedecken dieser wunderschönen historischen Kirche, aber denken Sie an angemessene Kleidung.",
             "hu": "Csodálja meg ennek a gyönyörű történelmi templomnak a lenyűgöző gótikus boltozatát, de ne felejtsen el szerény ruházatot viselni a belépéskor.",
             "ro": "Minunați-vă de impresionantele tavane boltite gotice ale acestei frumoase biserici istorice, amintindu-vă să aveți o ținută decentă la intrare.",
-            "en": "Marvel at the impressive gothic vaulted ceilings of this beautiful historic church, but remember to dress modestly when stepping inside."
+            "en": "Marvel at the impressive gothic vaulted ceilings of this beautiful historic church, but remember to dress modestly when stepping inside.",
+            "fr": "Admirez les impressionnantes voûtes gothiques de cette belle église historique, mais pensez à vous habiller modestement en entrant."
           }
         },
         {
@@ -755,7 +837,8 @@
             "de": "Haus Jeanne d'Albret",
             "hu": "Jeanne d'Albret Ház",
             "ro": "Casa Jeanne d'Albret",
-            "en": "Jeanne d'Albret House"
+            "en": "Jeanne d'Albret House",
+            "fr": "Maison de Jeanne d'Albret"
           },
           "coords": [
             -0.774734,
@@ -770,7 +853,8 @@
             "de": "Entdecken Sie die protestantische Geschichte des Béarn in diesem Museum aus dem 16. Jahrhundert und nutzen Sie den Audioguide für das beste Erlebnis.",
             "hu": "Ismerje meg a Béarn régió protestáns történelmét ebben a 16. századi múzeumban, és a legjobb élmény érdekében kérje az angol nyelvű audioguide-ot.",
             "ro": "Descoperiți istoria protestantă a regiunii Béarn în acest muzeu din secolul al XVI-lea și solicitați un ghid audio pentru o experiență completă.",
-            "en": "Explore the deep Protestant history of the Béarn region in this 16th-century museum, and pick up the English audio guide for the best experience."
+            "en": "Explore the deep Protestant history of the Béarn region in this 16th-century museum, and pick up the English audio guide for the best experience.",
+            "fr": "Explorez la profonde histoire protestante de la région du Béarn dans ce musée du XVIe siècle, et prenez le audioguide en anglais pour une meilleure expérience."
           }
         },
         {
@@ -778,7 +862,8 @@
             "de": "Pont Vieux",
             "hu": "Pont Vieux (Öreg Híd)",
             "ro": "Pont Vieux (Podul Vechi)",
-            "en": "Pont Vieux (Old Bridge)"
+            "en": "Pont Vieux (Old Bridge)",
+            "fr": "Pont Vieux (Old Bridge)"
           },
           "coords": [
             -0.777031,
@@ -793,7 +878,8 @@
             "de": "Spazieren Sie über diese befestigte Brücke aus dem 13. Jahrhundert über den Fluss Gave de Pau und gehen Sie zum Ufer für das beste Fotomotiv.",
             "hu": "Sétáljon át a Gave de Pau folyót átívelő, 13. századi erődített hídon, és a legjobb fotók kedvéért ereszkedjen le egészen a folyópartig.",
             "ro": "Plimbați-vă pe acest pod fortificat emblematic din secolul al XIII-lea peste râul Gave de Pau și coborâți pe mal pentru cel mai bun unghi foto.",
-            "en": "Walk across this iconic 13th-century fortified bridge spanning the Gave de Pau river, and step down to the riverbank for the best photo angle."
+            "en": "Walk across this iconic 13th-century fortified bridge spanning the Gave de Pau river, and step down to the riverbank for the best photo angle.",
+            "fr": "Traversez ce pont fortifié emblématique du XIIIe siècle qui enjambe le Gave de Pau, et descendez sur la berge pour le meilleur angle photo."
           }
         },
         {
@@ -801,7 +887,8 @@
             "de": "Base de Loisirs d'Orthez",
             "hu": "Base de Loisirs d'Orthez",
             "ro": "Base de Loisirs d'Orthez",
-            "en": "Base de Loisirs d'Orthez"
+            "en": "Base de Loisirs d'Orthez",
+            "fr": "Base de Loisirs d'Orthez"
           },
           "coords": [
             -0.753163,
@@ -816,7 +903,8 @@
             "de": "Verbringen Sie eine schöne Zeit in diesem Freizeitzentrum mit Sandstrand und Wasseraktivitäten und packen Sie Sonnencreme und ein Handtuch ein.",
             "hu": "Töltsön el egy kellemes időt ebben a homokos stranddal rendelkező szabadidőközpontban, és mindenképpen vigyen magával naptejet és törölközőt.",
             "ro": "Petreceți timp de calitate la acest centru de agrement cu plaja sa de nisip și activități nautice, aducând cremă de soare și un prosop cu dumneavoastră.",
-            "en": "Spend quality time at this leisure center with its sandy beach and water activities, packing plenty of sunscreen and a towel for a sunny afternoon."
+            "en": "Spend quality time at this leisure center with its sandy beach and water activities, packing plenty of sunscreen and a towel for a sunny afternoon.",
+            "fr": "Passez un agréable moment dans ce centre de loisirs avec sa plage de sable et ses activités nautiques ; emportez beaucoup de crème solaire et une serviette pour un après-midi ensoleillé."
           }
         },
         {
@@ -824,7 +912,8 @@
             "de": "Piscine",
             "hu": "Városi Uszoda",
             "ro": "Piscina Municipală",
-            "en": "Piscine"
+            "en": "Piscine",
+            "fr": "Piscine"
           },
           "coords": [
             -0.768367,
@@ -839,7 +928,8 @@
             "de": "Kühlen Sie sich am Ende des Tages in diesem gepflegten städtischen Schwimmbad ab, aber denken Sie an eine in Frankreich obligatorische Badekappe.",
             "hu": "Hűtse le magát a nap végén ebben a jól karbantartott városi uszodában, de ne felejtsen el úszósapkát vinni, ami kötelező a francia uszodákban.",
             "ro": "Răcoriți-vă la sfârșitul zilei în această piscină municipală bine întreținută, dar nu uitați să aduceți o cască de înot, care este obligatorie în Franța.",
-            "en": "Cool off at the end of the day in this well-maintained municipal pool facility, but remember to bring a swimming cap which is mandatory in France."
+            "en": "Cool off at the end of the day in this well-maintained municipal pool facility, but remember to bring a swimming cap which is mandatory in France.",
+            "fr": "Rafraîchissez-vous en fin de journée dans cette piscine municipale bien entretenue, mais pensez à apporter un bonnet de bain qui est obligatoire en France."
           }
         }
       ],
@@ -847,7 +937,8 @@
         "de": "Fahren Sie morgens zum Moncade-Turm für eine tolle Aussicht, bevor Sie im Zentrum die Saint-Pierre-Kirche und das Haus Jeanne d'Albret besuchen. Mittags erkunden Sie die alten Befestigungen am Pont Vieux. Parken Sie nachmittags nahe der Base de Loisirs d'Orthez, um am Sandstrand zu entspannen. Beenden Sie den Tag mit einem abendlichen Bad in der städtischen Piscine.",
         "hu": "Reggel hajtson a Moncade toronyhoz a lenyűgöző panorámáért, majd irány a központ a Saint-Pierre templom és a Jeanne d'Albret ház felfedezésére. Délben tegyen egy kellemes sétát az ősi Pont Vieux erődítményeinél. Délután parkoljon le a Base de Loisirs d'Orthez közelében, hogy a homokos strandon pihenjen. Fejezze be a napot egy esti csobbanással a helyi uszodában.",
         "ro": "Conduceți la Turnul Moncade pentru o priveliște de dimineață, apoi mergeți în centru pentru a vizita Biserica Saint-Pierre și Casa Jeanne d'Albret. Bucurați-vă la prânz de o plimbare plăcută în jurul vechiului Pont Vieux. După-amiaza, parcați lângă Base de Loisirs d'Orthez pentru a vă relaxa pe plajă. Terminați cu o baie de seară la piscina locală.",
-        "en": "Drive up to the Moncade Tower first for a sweeping morning view, then head into the center to visit the Saint-Pierre Church and Jeanne d'Albret House. Enjoy a pleasant midday walk around the ancient fortifications of Pont Vieux. In the afternoon, park near the Base de Loisirs d'Orthez to relax by the sandy beach. Finish with an evening dip in the local Piscine."
+        "en": "Drive up to the Moncade Tower first for a sweeping morning view, then head into the center to visit the Saint-Pierre Church and Jeanne d'Albret House. Enjoy a pleasant midday walk around the ancient fortifications of Pont Vieux. In the afternoon, park near the Base de Loisirs d'Orthez to relax by the sandy beach. Finish with an evening dip in the local Piscine.",
+        "fr": "Montez d'abord à la Tour de Moncade pour une vue matinale panoramique, puis dirigez-vous vers le centre pour visiter l'Église Saint-Pierre et la Maison de Jeanne d'Albret. Profitez d'une agréable promenade de midi autour des anciennes fortifications du Pont Vieux. L'après-midi, garez-vous près de la Base de Loisirs d'Orthez pour vous détendre sur la plage de sable. Terminez par une baignade en soirée à la Piscine locale."
       },
       "variants": {
         "rainy": {
@@ -855,7 +946,8 @@
             "de": "Fahren Sie an diesem regnerischen Morgen mit einem Regenschirm zum Turm. Verbringen Sie den Mittag sicher und trocken in der Kirche und im Museum. Ein schlammiger Nachmittag am See ist nicht ideal, also genießen Sie den Nachmittag und Abend entspannt im warmen Hallenbad.",
             "hu": "Vezessen a toronyhoz ezen a nedves, esős reggelen, és mindig legyen kéznél esernyő. A delet töltse biztonságban és szárazon a templomban és a múzeumban. A sáros délután a szabadidőközpontnál nem ideális, menjen inkább a fedett uszodába az esős este elől.",
             "ro": "Conduceți la turn în această dimineață ploioasă, având umbrela pregătită. Petreceți prânzul în siguranță, la adăpost, în biserică și muzeu. O după-amiază noroioasă la baza de agrement nu este ideală, așa că relaxați-vă la piscina acoperită pe timp de seară.",
-            "en": "Drive straight to the tower this rainy morning with a large umbrella ready. Spend noon safely dry inside the historic church and museum. A muddy afternoon at the leisure base isn't ideal, so wisely spend your thoroughly wet evening at the indoor pool."
+            "en": "Drive straight to the tower this rainy morning with a large umbrella ready. Spend noon safely dry inside the historic church and museum. A muddy afternoon at the leisure base isn't ideal, so wisely spend your thoroughly wet evening at the indoor pool.",
+            "fr": "Conduisez directement jusqu'à la tour ce matin pluvieux avec un grand parapluie prêt. Passez le midi bien au sec à l'intérieur de l'église et du musée. Un après-midi boueux à la base de loisirs n'est pas idéal, donc passez sagement votre soirée totalement trempée à la piscine intérieure."
           },
           "stops": [
             {
@@ -863,13 +955,15 @@
                 "de": "Moncade-Turm",
                 "hu": "Moncade Torony",
                 "ro": "Turnul Moncade",
-                "en": "Moncade Tower"
+                "en": "Moncade Tower",
+                "fr": "Tour de Moncade"
               },
               "tip_5lang": {
                 "de": "Halten Sie einen Regenschirm für den kurzen Fußweg vom Auto bereit; die Stufen sind bei Nässe sehr rutschig.",
                 "hu": "Tartson kéznél esernyőt az autótól vezető rövid sétához; a torony lépcsői nedvesen nagyon csúszósak lehetnek.",
                 "ro": "Păstrați o umbrelă la îndemână pentru scurta plimbare de la mașină; treptele sunt foarte alunecoase când sunt ude.",
-                "en": "Keep an umbrella handy for the short walk from the car; the stone steps are notoriously slippery when wet."
+                "en": "Keep an umbrella handy for the short walk from the car; the stone steps are notoriously slippery when wet.",
+                "fr": "Gardez un parapluie à portée de main pour la courte marche depuis la voiture ; les marches de pierre sont notoirement glissantes quand elles sont mouillées."
               }
             },
             {
@@ -877,13 +971,15 @@
                 "de": "Saint-Pierre-Kirche",
                 "hu": "Saint-Pierre Templom",
                 "ro": "Biserica Saint-Pierre",
-                "en": "Saint-Pierre Church"
+                "en": "Saint-Pierre Church",
+                "fr": "Église Saint-Pierre"
               },
               "tip_5lang": {
                 "de": "Ein ausgezeichneter trockener Unterschlupf, um die mittelalterliche Architektur zu bewundern, während der Regen prasselt.",
                 "hu": "Kiváló, teljesen száraz menedék a középkori építészet megcsodálására, miközben kint szakad az eső.",
                 "ro": "Un adăpost uscat excelent pentru a admira arhitectura medievală impresionantă în timp ce ploaia cade neîncetat afară.",
-                "en": "An excellent completely dry shelter to slowly admire the medieval architecture while the heavy rain falls safely outside."
+                "en": "An excellent completely dry shelter to slowly admire the medieval architecture while the heavy rain falls safely outside.",
+                "fr": "Un excellent abri complètement sec pour admirer lentement l'architecture médiévale pendant que la forte pluie tombe dehors en toute sécurité."
               }
             },
             {
@@ -891,13 +987,15 @@
                 "de": "Haus Jeanne d'Albret",
                 "hu": "Jeanne d'Albret Ház",
                 "ro": "Casa Jeanne d'Albret",
-                "en": "Jeanne d'Albret House"
+                "en": "Jeanne d'Albret House",
+                "fr": "Maison de Jeanne d'Albret"
               },
               "tip_5lang": {
                 "de": "Genießen Sie die faszinierenden Innenausstellungen im Trockenen, während das schlechte Wetter draußen wütet.",
                 "hu": "Élvezze a lenyűgöző beltéri kiállításokat a szárazon, miközben kint zord és esős az időjárás.",
                 "ro": "Bucurați-vă de expozițiile interioare fascinante la uscat, în timp ce vremea rea și ploaia continuă să se desfășoare afară.",
-                "en": "Fully enjoy the fascinating indoor exhibits completely in the dry while the bad weather relentlessly continues outside."
+                "en": "Fully enjoy the fascinating indoor exhibits completely in the dry while the bad weather relentlessly continues outside.",
+                "fr": "Profitez pleinement des expositions intérieures fascinantes bien au sec pendant que le mauvais temps continue dehors."
               }
             },
             {
@@ -905,13 +1003,15 @@
                 "de": "Pont Vieux",
                 "hu": "Pont Vieux (Öreg Híd)",
                 "ro": "Pont Vieux (Podul Vechi)",
-                "en": "Pont Vieux (Old Bridge)"
+                "en": "Pont Vieux (Old Bridge)",
+                "fr": "Pont Vieux (Old Bridge)"
               },
               "tip_5lang": {
                 "de": "Machen Sie einen schnellen Fotostopp unter einem Regenschirm oder bewundern Sie die Brücke einfach bequem vom Auto aus.",
                 "hu": "Tartson egy gyors fotószünetet egy esernyő alatt, vagy egyszerűen csodálja meg a hidat kényelmesen az autóból.",
                 "ro": "Faceți o oprire rapidă pentru fotografii sub o umbrelă sau pur și simplu admirați podul confortabil din mașină.",
-                "en": "Make a very quick photo stop firmly under an umbrella or simply admire the historic bridge comfortably from your car."
+                "en": "Make a very quick photo stop firmly under an umbrella or simply admire the historic bridge comfortably from your car.",
+                "fr": "Faites un arrêt photo très rapide fermement sous un parapluie ou admirez simplement le pont historique confortablement depuis votre voiture."
               }
             },
             {
@@ -919,13 +1019,15 @@
                 "de": "Base de Loisirs d'Orthez",
                 "hu": "Base de Loisirs d'Orthez",
                 "ro": "Base de Loisirs d'Orthez",
-                "en": "Base de Loisirs d'Orthez"
+                "en": "Base de Loisirs d'Orthez",
+                "fr": "Base de Loisirs d'Orthez"
               },
               "tip_5lang": {
                 "de": "Da das Gelände schlammig ist, konzentrieren Sie sich auf befestigte Wege oder genießen Sie den dramatischen Seeblick aus dem Auto.",
                 "hu": "Mivel a terep rendkívül sáros lehet, maradjon a betonozott utakon, vagy élvezze a tó drámai látványát az autóból.",
                 "ro": "Deoarece terenul este noroios, concentrați-vă pe căile pavate sau bucurați-vă de vederea dramatică a lacului din mașină.",
-                "en": "Since the ground is incredibly muddy, stick to paved paths or enjoy the dramatically stormy lake view right from the car."
+                "en": "Since the ground is incredibly muddy, stick to paved paths or enjoy the dramatically stormy lake view right from the car.",
+                "fr": "Comme le sol est incroyablement boueux, tenez-vous-en aux chemins goudronnés ou profitez de la vue dramatique du lac orageux directement depuis la voiture."
               }
             },
             {
@@ -933,13 +1035,15 @@
                 "de": "Piscine",
                 "hu": "Városi Uszoda",
                 "ro": "Piscina Municipală",
-                "en": "Piscine"
+                "en": "Piscine",
+                "fr": "Piscine"
               },
               "tip_5lang": {
                 "de": "Die perfekte wetterunabhängige Aktivität, wenn es draußen in Strömen regnet – warmes Wasser im trockenen Innenbereich.",
                 "hu": "A tökéletes, időjárástól független tevékenység, amikor kint szakad az eső – meleg víz egy száraz belső térben.",
                 "ro": "Activitatea perfectă, independentă de vreme, când plouă cu găleata afară – apă caldă într-un interior complet uscat.",
-                "en": "The absolutely perfect weather-independent activity when it is pouring rain outside – warm water completely indoors."
+                "en": "The absolutely perfect weather-independent activity when it is pouring rain outside – warm water completely indoors.",
+                "fr": "L'activité absolument parfaite, indépendante de la météo, quand il pleut des cordes dehors – de l'eau chaude entièrement à l'intérieur."
               }
             }
           ]
@@ -949,7 +1053,8 @@
             "de": "Die Autoheizung ist perfekt für einen klaren Wintermorgen auf dem Weg zum Turm. Erkunden Sie mittags Kirche und Museum, um warm zu bleiben. Der Nachmittag an der Freizeitanlage ist frisch, also gehen Sie vor dem frühen Sonnenuntergang um 17:00 ins Hallenbad.",
             "hu": "Az autó fűtése tökéletes a fagyos téli reggelen a torony felé haladva. Délben fedezze fel a templomot és a múzeumot, hogy védve legyen a hidegtől. A délután a szabadidőközpontban frissítő, de a korai, 17:00 órai sötétedés előtt irány a fűtött uszoda.",
             "ro": "Căldura mașinii este perfectă pentru o dimineață geroasă de iarnă conducând spre turn. Explorați biserica și muzeul la prânz pentru a sta la cald. După-amiaza la baza de agrement este răcoroasă, așa că mergeți la piscină înainte de apusul de la 17:00.",
-            "en": "The car's heater is absolutely perfect for a crisp winter morning driving to the tower. Explore the church and museum around noon to actively stay warm. The afternoon at the leisure base is brisk, so eagerly head to the indoor pool before the early 17:00 sunset."
+            "en": "The car's heater is absolutely perfect for a crisp winter morning driving to the tower. Explore the church and museum around noon to actively stay warm. The afternoon at the leisure base is brisk, so eagerly head to the indoor pool before the early 17:00 sunset.",
+            "fr": "Le chauffage de la voiture est absolument parfait pour une matinée d'hiver fraîche en conduisant vers la tour. Explorez l'église et le musée autour de midi pour rester au chaud. L'après-midi à la base de loisirs est vif, dirigez-vous donc avec empressement vers la piscine intérieure avant le coucher du soleil précoce à 17:00."
           },
           "stops": [
             {
@@ -957,13 +1062,15 @@
                 "de": "Moncade-Turm",
                 "hu": "Moncade Torony",
                 "ro": "Turnul Moncade",
-                "en": "Moncade Tower"
+                "en": "Moncade Tower",
+                "fr": "Tour de Moncade"
               },
               "tip_5lang": {
                 "de": "Der frostige Morgenblick vom Turm ist spektakulär; die kurze Fahrt hält Sie auf dem Weg dorthin warm.",
                 "hu": "A fagyos, tiszta reggeli kilátás a toronyból látványos; a rövid autózás melegen tartja az odaúton.",
                 "ro": "Priveliștea geroasă de dimineață din turn este spectaculoasă; drumul scurt te menține cald pe traseu.",
-                "en": "The deeply frosty morning view from the tower is spectacular; the short, heated drive keeps you perfectly warm on the way."
+                "en": "The deeply frosty morning view from the tower is spectacular; the short, heated drive keeps you perfectly warm on the way.",
+                "fr": "La vue du matin profondément glaciale depuis la tour est spectaculaire ; le court trajet chauffé en voiture vous garde parfaitement au chaud en chemin."
               }
             },
             {
@@ -971,13 +1078,15 @@
                 "de": "Saint-Pierre-Kirche",
                 "hu": "Saint-Pierre Templom",
                 "ro": "Biserica Saint-Pierre",
-                "en": "Saint-Pierre Church"
+                "en": "Saint-Pierre Church",
+                "fr": "Église Saint-Pierre"
               },
               "tip_5lang": {
                 "de": "Ein friedlicher, vor Wind geschützter Rückzugsort von der klaren Winterluft, bevor Sie wieder ins warme Auto steigen.",
                 "hu": "Békés, széltől védett menedék a csípős téli levegő elől, mielőtt visszaszállna a meleg, fűtött autóba.",
                 "ro": "Un refugiu pașnic, protejat de vânt de aerul rece de iarnă, înainte de a te urca înapoi în mașina caldă.",
-                "en": "A deeply peaceful, completely wind-protected retreat from the crisp winter air before eagerly hopping back into the warm car."
+                "en": "A deeply peaceful, completely wind-protected retreat from the crisp winter air before eagerly hopping back into the warm car.",
+                "fr": "Retraite profondément paisible, complètement abritée du vent, pour fuir l'air vif de l'hiver avant de remonter rapidement dans la voiture chaude."
               }
             },
             {
@@ -985,13 +1094,15 @@
                 "de": "Haus Jeanne d'Albret",
                 "hu": "Jeanne d'Albret Ház",
                 "ro": "Casa Jeanne d'Albret",
-                "en": "Jeanne d'Albret House"
+                "en": "Jeanne d'Albret House",
+                "fr": "Maison de Jeanne d'Albret"
               },
               "tip_5lang": {
                 "de": "Wärmen Sie sich drinnen auf, während Sie tief in die Geschichte Navarras eintauchen, fernab des kalten Nachmittagswindes.",
                 "hu": "Melegedjen fel odabent, miközben elmélyed Navarra történelmében, távol a hideg, fagyos délutáni széltől.",
                 "ro": "Încălziți-vă înăuntru în timp ce vă scufundați profund în istoria Navarrei, departe de vântul rece de după-amiază.",
-                "en": "Warm up fully inside while diving deeply into Navarre history, safely far away from the freezing afternoon winter wind."
+                "en": "Warm up fully inside while diving deeply into Navarre history, safely far away from the freezing afternoon winter wind.",
+                "fr": "Réchauffez-vous pleinement à l'intérieur en plongeant dans l'histoire de la Navarre, bien à l'abri du vent glacial de l'après-midi."
               }
             },
             {
@@ -999,13 +1110,15 @@
                 "de": "Pont Vieux",
                 "hu": "Pont Vieux (Öreg Híd)",
                 "ro": "Pont Vieux (Podul Vechi)",
-                "en": "Pont Vieux (Old Bridge)"
+                "en": "Pont Vieux (Old Bridge)",
+                "fr": "Pont Vieux (Old Bridge)"
               },
               "tip_5lang": {
                 "de": "Die Brücke sieht im weichen Winterlicht atemberaubend aus; steigen Sie für ein kurzes, kühles Foto aus dem Auto.",
                 "hu": "A híd lenyűgözően néz ki a lágy téli fényben; szálljon ki az autóból egy gyors, csípős levegőjű fotózásra.",
                 "ro": "Podul arată uimitor în lumina blândă de iarnă; coborâți din mașină doar pentru o fotografie rapidă și răcoroasă.",
-                "en": "The bridge undeniably looks stunning in the soft winter light; step out of the car briefly for a quick, chilly photo."
+                "en": "The bridge undeniably looks stunning in the soft winter light; step out of the car briefly for a quick, chilly photo.",
+                "fr": "Le pont est indéniablement magnifique dans la douce lumière hivernale ; sortez brièvement de la voiture pour une photo rapide et fraîche."
               }
             },
             {
@@ -1013,13 +1126,15 @@
                 "de": "Base de Loisirs d'Orthez",
                 "hu": "Base de Loisirs d'Orthez",
                 "ro": "Base de Loisirs d'Orthez",
-                "en": "Base de Loisirs d'Orthez"
+                "en": "Base de Loisirs d'Orthez",
+                "fr": "Base de Loisirs d'Orthez"
               },
               "tip_5lang": {
                 "de": "Genießen Sie einen zügigen Spaziergang in der ruhigen Winteratmosphäre, aber behalten Sie den nahenden Sonnenuntergang im Auge.",
                 "hu": "Élvezze a frissítő sétát a csendes téli hangulatban, de mindenképpen tartsa szemmel a közelgő, kora esti naplementét.",
                 "ro": "Bucurați-vă de o plimbare vioaie în atmosfera liniștită de iarnă, dar fiți atenți la apusul de soare care se apropie rapid.",
-                "en": "Enjoy a brisk walk in the remarkably quiet winter atmosphere, but keep a very close eye on the rapidly approaching sunset."
+                "en": "Enjoy a brisk walk in the remarkably quiet winter atmosphere, but keep a very close eye on the rapidly approaching sunset.",
+                "fr": "Profitez d'une marche tonique dans l'atmosphère d'hiver remarquablement calme, mais surveillez de très près le coucher de soleil qui approche rapidement."
               }
             },
             {
@@ -1027,13 +1142,15 @@
                 "de": "Piscine",
                 "hu": "Városi Uszoda",
                 "ro": "Piscina Municipală",
-                "en": "Piscine"
+                "en": "Piscine",
+                "fr": "Piscine"
               },
               "tip_5lang": {
                 "de": "Warmes Indoor-Schwimmen ist das perfekte, gemütliche Ende für einen dunklen, eiskalten Winternachmittag nach 17:00 Uhr.",
                 "hu": "A meleg beltéri úszás a legtökéletesebb, hangulatos befejezés egy sötét, jéghideg téli délutánon 17:00 óra után.",
                 "ro": "Înotul la interior la căldură este finalul perfect și confortabil pentru o după-amiază de iarnă întunecată și înghețată după 17:00.",
-                "en": "Warm indoor swimming is the absolutely perfect, cozy end to a thoroughly dark, freezing winter afternoon post-17:00."
+                "en": "Warm indoor swimming is the absolutely perfect, cozy end to a thoroughly dark, freezing winter afternoon post-17:00.",
+                "fr": "La baignade chaude en intérieur est la conclusion absolument parfaite et douillette d'un après-midi d'hiver sombre et glacial après 17:00."
               }
             }
           ]

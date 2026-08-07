@@ -21,7 +21,8 @@
             "de": "Rathaus von Vizille",
             "hu": "Vizille Városháza",
             "ro": "Primăria Vizille",
-            "en": "Vizille Town Hall"
+            "en": "Vizille Town Hall",
+            "fr": "Hôtel de ville de Vizille"
           },
           "coords": [
             5.77253,
@@ -36,7 +37,8 @@
             "de": "Betrachten Sie das historische Rathaus im Herzen von Vizille, ein Symbol des lokalen Stolzes, und besuchen Sie den Markt am Dienstagmorgen für frische regionale Produkte.",
             "hu": "Csodálja meg a történelmi városházát Vizille szívében, amely a helyi büszkeség szimbóluma, és látogasson el a kedd reggeli piacra friss regionális termékekért.",
             "ro": "Admirați primăria istorică din inima orașului Vizille, un simbol al mândriei locale, și vizitați piața de marți dimineața pentru produse regionale proaspete.",
-            "en": "Admire the historical town hall in the heart of Vizille, a symbol of local pride, and visit the Tuesday morning market to buy fresh regional produce."
+            "en": "Admire the historical town hall in the heart of Vizille, a symbol of local pride, and visit the Tuesday morning market to buy fresh regional produce.",
+            "fr": "Admirez l'hôtel de ville historique au cœur de Vizille, symbole de fierté locale, et visitez le marché du mardi matin pour acheter des produits régionaux frais."
           }
         },
         {
@@ -44,7 +46,8 @@
             "de": "Schlosspark von Vizille",
             "hu": "Vizille Kastélypark",
             "ro": "Parcul Castelului Vizille",
-            "en": "Vizille Castle Park"
+            "en": "Vizille Castle Park",
+            "fr": "Parc du château de Vizille"
           },
           "coords": [
             5.769512,
@@ -59,7 +62,8 @@
             "de": "Schlendern Sie durch die weitläufigen, von Kanälen durchzogenen Gärten des Schlossparks, um die Natur zu genießen und bringen Sie ein Picknick für ein ruhiges Mittagessen mit.",
             "hu": "Sétáljon végig a kastélypark csatornákkal átszőtt kiterjedt kertjein, hogy élvezze a természetet, és hozzon magával pikniket egy békés szabadtéri ebédhez.",
             "ro": "Plimbați-vă prin grădinile vaste ale parcului castelului, traversate de canale, pentru a vă bucura de natură, și aduceți un picnic pentru un prânz liniștit.",
-            "en": "Stroll through the vast, canal-laced gardens of the castle park to enjoy nature's tranquility, and be sure to bring a picnic for a peaceful outdoor lunch."
+            "en": "Stroll through the vast, canal-laced gardens of the castle park to enjoy nature's tranquility, and be sure to bring a picnic for a peaceful outdoor lunch.",
+            "fr": "Promenez-vous dans les vastes jardins traversés de canaux du parc du château pour profiter de la tranquillité de la nature, et n'oubliez pas d'apporter un pique-nique pour un déjeuner paisible en plein air."
           }
         },
         {
@@ -67,7 +71,8 @@
             "de": "Museum für die Französische Revolution",
             "hu": "Francia Forradalom Múzeuma",
             "ro": "Muzeul Revoluției Franceze",
-            "en": "Museum of the French Revolution"
+            "en": "Museum of the French Revolution",
+            "fr": "Musée de la Révolution française"
           },
           "coords": [
             5.773056,
@@ -82,7 +87,8 @@
             "de": "Erkunden Sie die faszinierenden Exponate des Museums für die Französische Revolution im alten Schloss und nutzen Sie die kostenlosen Audioguides für tiefere Einblicke.",
             "hu": "Fedezze fel a Francia Forradalom Múzeumának lenyűgöző kiállításait a régi kastélyban, és használja az ingyenes audioguide-okat a mélyebb történelmi betekintés érdekében.",
             "ro": "Explorați expozițiile fascinante ale Muzeului Revoluției Franceze din vechiul castel și utilizați ghidurile audio gratuite pentru o perspectivă istorică mai profundă.",
-            "en": "Explore the fascinating exhibits of the Museum of the French Revolution inside the old castle, and make sure to use the free audio guides for deeper historical insights."
+            "en": "Explore the fascinating exhibits of the Museum of the French Revolution inside the old castle, and make sure to use the free audio guides for deeper historical insights.",
+            "fr": "Explorez les expositions fascinantes du Musée de la Révolution française à l'intérieur de l'ancien château et pensez à utiliser les audioguides gratuits pour approfondir vos connaissances historiques."
           }
         },
         {
@@ -90,7 +96,8 @@
             "de": "Hirsche und Rehe",
             "hu": "Szarvasok és Őzek",
             "ro": "Cerbi și Căprioare",
-            "en": "Cerfs et biches"
+            "en": "Cerfs et biches",
+            "fr": "Cerfs et biches"
           },
           "coords": [
             5.774051,
@@ -105,7 +112,8 @@
             "de": "Beobachten Sie die majestätischen Hirsche und Rehe, die frei im Tiergehege des Parks umherstreifen, und kommen Sie am frühen Nachmittag, wenn sie am aktivsten sind.",
             "hu": "Figyelje meg a park állatkeresztjében szabadon kószáló fenséges szarvasokat és őzeket, és érkezzen kora délután, amikor ezek az állatok a legaktívabbak.",
             "ro": "Observați cerbii și căprioarele maiestuoase care cutreieră liber în rezervația parcului și veniți la începutul după-amiezii când aceste animale sunt cele mai active.",
-            "en": "Watch the majestic deer and does roaming freely within the park's animal reserve, and plan to arrive in the early afternoon when the animals are most active."
+            "en": "Watch the majestic deer and does roaming freely within the park's animal reserve, and plan to arrive in the early afternoon when the animals are most active.",
+            "fr": "Observez les majestueux cerfs et biches qui se promènent librement dans la réserve animale du parc, et prévoyez d'arriver en début d'après‑midi quand les animaux sont les plus actifs."
           }
         },
         {
@@ -113,7 +121,8 @@
             "de": "Domaine de Vizille",
             "hu": "Domaine de Vizille",
             "ro": "Domeniul Vizille",
-            "en": "Domaine de Vizille"
+            "en": "Domaine de Vizille",
+            "fr": "Domaine de Vizille"
           },
           "coords": [
             5.77225,
@@ -128,7 +137,8 @@
             "de": "Bewundern Sie die beeindruckende Architektur der historischen Domaine de Vizille, dem Geburtsort der Revolution, und tragen Sie bequeme Schuhe für die großen Höfe.",
             "hu": "Csodálja meg a történelmi Domaine de Vizille, a forradalom szülőhelyének lenyűgöző építészetét, és viseljen kényelmes cipőt a nagy udvarok bejárásához.",
             "ro": "Admirați arhitectura impresionantă a domeniului istoric Vizille, locul de naștere al revoluției, și purtați încălțăminte confortabilă pentru curțile sale imense.",
-            "en": "Admire the impressive architecture of the historical Domaine de Vizille, the birthplace of the revolution, and wear comfortable shoes to easily walk the large courtyards."
+            "en": "Admire the impressive architecture of the historical Domaine de Vizille, the birthplace of the revolution, and wear comfortable shoes to easily walk the large courtyards.",
+            "fr": "Admirez l'architecture impressionnante du Domaine de Vizille, berceau de la Révolution, et portez des chaussures confortables pour parcourir facilement les grandes cours."
           }
         }
       ],
@@ -136,7 +146,8 @@
         "de": "Beginnen Sie Ihren Tag im Zentrum am historischen Rathaus. Schlendern Sie anschließend entspannt in den beeindruckenden Schlosspark von Vizille, um die üppige Natur zu genießen. Tauchen Sie mittags im Museum für die Französische Revolution in die reiche Geschichte ein. Der Nachmittag bietet eine Begegnung mit den Rehen des Parks und endet am majestätischen Domaine de Vizille.",
         "hu": "Kezdje a napot a központban, a történelmi városházánál. Ezután tegyen egy pihentető sétát Vizille lenyűgöző kastélyparkjában, hogy élvezze a buja természetet. Délben merüljön el a gazdag történelemben a Francia Forradalom Múzeumában. A délután lehetőséget nyújt a park szarvasainak megfigyelésére, végül pedig a fenséges Domaine de Vizille-nél ér véget a túra.",
         "ro": "Începeți-vă ziua în centru la primăria istorică. Apoi faceți o plimbare relaxantă în impresionantul parc al castelului din Vizille pentru a vă bucura de natura luxuriantă. La prânz, scufundați-vă în istoria bogată la Muzeul Revoluției Franceze. După-amiaza oferă o întâlnire cu cerbii din parc și se încheie la maiestuosul Domeniu Vizille.",
-        "en": "Start your day in the center at the historic town hall. Afterward, take a relaxing stroll into the impressive Vizille castle park to enjoy the lush nature and tranquil canals. At midday, dive into rich history at the Museum of the French Revolution. The afternoon offers an encounter with the park's roaming deer, ending at the majestic Domaine de Vizille."
+        "en": "Start your day in the center at the historic town hall. Afterward, take a relaxing stroll into the impressive Vizille castle park to enjoy the lush nature and tranquil canals. At midday, dive into rich history at the Museum of the French Revolution. The afternoon offers an encounter with the park's roaming deer, ending at the majestic Domaine de Vizille.",
+        "fr": "Commencez votre journée au centre sous l'hôtel de ville historique. Ensuite, faites une promenade relaxante dans l'impressionnant parc du château de Vizille pour profiter de la nature luxuriante et des canaux paisibles. À midi, plongez dans l'histoire riche au Musée de la Révolution française. L'après‑midi offre une rencontre avec les cerfs du parc, pour finir au majestueux Domaine de Vizille."
       },
       "variants": {
         "rainy": {
@@ -144,7 +155,8 @@
             "de": "Morgens suchen wir Schutz unter den Arkaden des Rathauses. Mittags bietet das Revolutionsmuseum einen perfekten, trockenen Rückzugsort für Stunden. Nachmittags erleben wir die mystische Atmosphäre des Schlossparks im Regen, achten aber auf rutschige Wege. Abends lassen wir den Tag bei der Spiegelung der Lichter in den Pfützen der Altstadt gemütlich ausklingen.",
             "hu": "Reggel a városháza árkádjai alatt kezdünk, védve az esőtől. Délben a forradalmi múzeum nyújt tökéletes és tartalmas menedéket a csapadék elől. Délután a kastélypark párás, zöldellő ösvényein sétálunk, ügyelve a csúszós szakaszokra. Az este folyamán a vizes macskaköveken megcsillanó városi fények kísérnek minket utolsó állomásunk felé.",
             "ro": "Dimineața ne adăpostim sub arcadele primăriei pentru a ne planifica traseul. La prânz, muzeul oferă refugiul ideal împotriva ploii, fiind plin de istorie fascinantă. După-amiaza, parcul castelului capătă o atmosferă mistică sub stropii de ploaie, dar atenție la potecile noroioase. Seara, reflexiile luminilor în bălțile de pe străzile vechi încheie ziua.",
-            "en": "Morning starts under the town hall's portico to stay dry while planning. At noon, the museum provides a perfect indoor sanctuary from the rain for several hours. In the afternoon, the park feels mystical in the mist, though paths may be slippery under the old trees. By evening, enjoy the beautiful reflections of streetlights on the wet cobblestones of Vizille."
+            "en": "Morning starts under the town hall's portico to stay dry while planning. At noon, the museum provides a perfect indoor sanctuary from the rain for several hours. In the afternoon, the park feels mystical in the mist, though paths may be slippery under the old trees. By evening, enjoy the beautiful reflections of streetlights on the wet cobblestones of Vizille.",
+            "fr": "La matinée commence sous le porche de l'hôtel de ville pour rester au sec tout en planifiant. À midi, le musée offre un parfait sanctuaire intérieur contre la pluie pendant plusieurs heures. L'après‑midi, le parc paraît mystique dans la brume, bien que les sentiers puissent être glissants sous les vieux arbres. Le soir, profitez des beaux reflets des réverbères sur les pavés mouillés de Vizille."
           },
           "stops": [
             {
@@ -152,13 +164,15 @@
                 "de": "Rathaus von Vizille",
                 "hu": "Vizille Városháza",
                 "ro": "Primăria Vizille",
-                "en": "Vizille Town Hall"
+                "en": "Vizille Town Hall",
+                "fr": "Hôtel de ville de Vizille"
               },
               "tip_4lang": {
                 "de": "Nutzen Sie den überdachten Eingangsbereich des Rathauses, um den Stadtplan trocken zu studieren und die Route für diesen regnerischen Vormittag festzulegen.",
                 "hu": "Használja a városháza fedett bejáratát az útvonal megtervezéséhez, így szárazon várakozhat, amíg az intenzívebb reggeli zápor alábbhagy a város felett.",
                 "ro": "Folosiți intrarea acoperită a primăriei pentru a studia harta orașului la adăpost de ploaie în timp ce vă organizați traseul pentru această dimineață umedă.",
-                "en": "Take advantage of the town hall's covered entrance to check your map and plan your route while staying completely dry during the morning showers."
+                "en": "Take advantage of the town hall's covered entrance to check your map and plan your route while staying completely dry during the morning showers.",
+                "fr": "Profitez de l'entrée couverte de l'hôtel de ville pour vérifier votre carte et planifier votre itinéraire tout en restant parfaitement au sec pendant les averses matinales."
               }
             },
             {
@@ -166,13 +180,15 @@
                 "de": "Schlosspark von Vizille",
                 "hu": "Vizille Kastélypark",
                 "ro": "Parcul Castelului Vizille",
-                "en": "Vizille Castle Park"
+                "en": "Vizille Castle Park",
+                "fr": "Parc du château de Vizille"
               },
               "tip_4lang": {
                 "de": "Genießen Sie das satte Grün des Parks unter einem Regenschirm und bleiben Sie auf den festen Kieswegen, um Schlamm auf den Wiesen zu vermeiden.",
                 "hu": "Élvezze a park friss, eső áztatta illatait egy esernyő alatt, de mindenképpen maradjon a kavicsos utakon, hogy elkerülje a felázott, saras pázsitot.",
                 "ro": "Bucurați-vă de verdele intens al parcului sub o umbrelă, dar rămâneți pe aleile pietruite pentru a evita noroiul de pe peluzele vaste ale domeniului.",
-                "en": "Enjoy the lush greenery of the park under an umbrella, but be sure to stick to the gravel paths to avoid the muddy grass near the historic castle."
+                "en": "Enjoy the lush greenery of the park under an umbrella, but be sure to stick to the gravel paths to avoid the muddy grass near the historic castle.",
+                "fr": "Appréciez la verdure du parc sous un parapluie, mais restez sur les chemins de gravier pour éviter la boue sur la pelouse près du château historique."
               }
             },
             {
@@ -180,13 +196,15 @@
                 "de": "Museum für die Französische Revolution",
                 "hu": "Francia Forradalom Múzeuma",
                 "ro": "Muzeul Revoluției Franceze",
-                "en": "Museum of the French Revolution"
+                "en": "Museum of the French Revolution",
+                "fr": "Musée de la Révolution française"
               },
               "tip_4lang": {
                 "de": "Dies ist der ideale Ort für Regentage; verbringen Sie viel Zeit in den weiten Galerien und bewundern Sie die Kunstwerke ohne nass zu werden.",
                 "hu": "Ez a tökéletes helyszín esős napokra; töltsön el hosszabb időt a tágas galériákban, ahol szárazon merülhet el a francia forradalom lenyűgöző emlékeiben.",
                 "ro": "Acesta este locul ideal pentru zilele ploioase; petreceți mult timp în galeriile vaste admirând exponatele istorice fără a vă face griji de vreme.",
-                "en": "This museum is the perfect rainy-day destination; spend plenty of time exploring the vast galleries and indoor exhibits away from the damp weather."
+                "en": "This museum is the perfect rainy-day destination; spend plenty of time exploring the vast galleries and indoor exhibits away from the damp weather.",
+                "fr": "Ce musée est la destination idéale par temps de pluie ; prenez le temps d'explorer les vastes galeries et expositions intérieures à l'abri de l'humidité."
               }
             },
             {
@@ -194,13 +212,15 @@
                 "de": "Hirsche und Rehe",
                 "hu": "Szarvasok és Őzek",
                 "ro": "Cerbi și Căprioare",
-                "en": "Cerfs et biches"
+                "en": "Cerfs et biches",
+                "fr": "Cerfs et biches"
               },
               "tip_4lang": {
                 "de": "Suchen Sie die überdachten Beobachtungshütten auf, von denen aus Sie die Tiere beobachten können, die oft unter den dichten Bäumen Schutz suchen.",
                 "hu": "Keresse fel a fedett megfigyelőhelyeket, ahonnan kényelmesen láthatja a vadakat, amik esőben gyakran a sűrű lombok alá húzódnak menedékért.",
                 "ro": "Mergeți la punctele de observare acoperite, de unde puteți vedea animalele care caută adesea adăpost sub arborii deși în timpul averselor de ploaie.",
-                "en": "Head to the covered observation points where you can spot the deer frequently sheltering under the thick canopy of trees during the rainfall."
+                "en": "Head to the covered observation points where you can spot the deer frequently sheltering under the thick canopy of trees during the rainfall.",
+                "fr": "Rendez‑vous aux points d'observation couverts où vous pouvez apercevoir les cerfs qui cherchent souvent refuge sous l'épais couvert des arbres pendant la pluie."
               }
             },
             {
@@ -208,13 +228,15 @@
                 "de": "Domaine de Vizille",
                 "hu": "Domaine de Vizille",
                 "ro": "Domeniul Vizille",
-                "en": "Domaine de Vizille"
+                "en": "Domaine de Vizille",
+                "fr": "Domaine de Vizille"
               },
               "tip_4lang": {
                 "de": "Nutzen Sie die architektonischen Vorsprünge des Schlosses als Unterstand und genießen Sie den Blick auf die dramatischen Wolken über dem See.",
                 "hu": "Használja ki a kastély építészeti kiugróit menedékként, és csodálja meg a tó felett tornyosuló drámai esőfelhők látványát a biztonságos szárazból.",
                 "ro": "Folosiți elementele arhitecturale ale castelului ca adăpost și admirați vederea dramatică a norilor de ploaie deasupra lacului principal al domeniului.",
-                "en": "Use the castle's architectural overhangs as temporary shelter while enjoying the dramatic view of rain clouds moving across the large estate lake."
+                "en": "Use the castle's architectural overhangs as temporary shelter while enjoying the dramatic view of rain clouds moving across the large estate lake.",
+                "fr": "Utilisez les avancées architecturales du château comme abri temporaire tout en profitant de la vue dramatique des nuages de pluie se déplaçant au‑dessus du grand étang du domaine."
               }
             }
           ]
@@ -224,7 +246,8 @@
             "de": "Der frostige Morgen beginnt am Rathaus, ziehen Sie sich warm an. Mittags wärmen wir uns in den beheizten Sälen des Museums auf und tauchen in die Geschichte ein. Nachmittags glitzert der Raureif im Park, während die Hirsche im Winterlicht grasen. Da es bereits um 17:00 Uhr dunkel wird, endet unser Rundgang früh in der gemütlich beleuchteten Stadt.",
             "hu": "A fagyos reggel a városházánál indul, érdemes rétegesen öltözni. Délben a múzeum fűtött termeiben melegszünk fel, miközben a történelmi tárlatokat járjuk. Délután a zúzmarás park és a téli fényben legelésző szarvasok látványa varázsol el minket. Mivel 17 órakor már sötétedik, a napot korán, a város esti fényeiben fejezzük be.",
             "ro": "Dimineața geroasă începe la primărie, așa că îmbrăcați-vă cu haine groase. La prânz, ne încălzim în sălile primitoare ale muzeului, explorând istoria Franței. După-amiaza, chiciura strălucește în parc, iar cerbii pot fi văzuți în lumina palidă a iernii. Deoarece întunericul cade la ora 17:00, încheiem turul devreme în orașul luminat.",
-            "en": "The frosty morning begins at the Town Hall, so dress in warm layers. At noon, warm up in the heated museum halls while diving deep into revolutionary history. In the afternoon, see the frost glistening on the park trees and deer grazing in the winter light. As sunset arrives early at 5 PM, finish your walk in the cozy, lit-up streets."
+            "en": "The frosty morning begins at the Town Hall, so dress in warm layers. At noon, warm up in the heated museum halls while diving deep into revolutionary history. In the afternoon, see the frost glistening on the park trees and deer grazing in the winter light. As sunset arrives early at 5 PM, finish your walk in the cozy, lit-up streets.",
+            "fr": "La matinée glaciale commence à l'Hôtel de ville, habillez‑vous en couches chaudes. À midi, réchauffez‑vous dans les salles chauffées du musée tout en plongeant dans l'histoire révolutionnaire. L'après‑midi, observez le givre scintiller sur les arbres du parc et les cerfs broutant dans la lumière hivernale. Comme le coucher du soleil arrive tôt à 17h, terminez votre promenade dans les rues éclairées et accueillantes."
           },
           "stops": [
             {
@@ -232,13 +255,15 @@
                 "de": "Rathaus von Vizille",
                 "hu": "Vizille Városháza",
                 "ro": "Primăria Vizille",
-                "en": "Vizille Town Hall"
+                "en": "Vizille Town Hall",
+                "fr": "Hôtel de ville de Vizille"
               },
               "tip_4lang": {
                 "de": "Bewundern Sie die winterliche Fassade kurz und nutzen Sie die Nähe zu lokalen Cafés, um sich vor dem Start mit einem heißen Getränk aufzuwärmen.",
                 "hu": "Csodálja meg a városháza téli homlokzatát, majd látogasson el a közeli kávézók egyikébe egy forró italra, mielőtt elkezdené a fagyos városnézést.",
                 "ro": "Admirați fațada hibernală a primăriei și profitați de cafenelele din apropiere pentru a vă încălzi cu o băutură fierbinte înainte de a porni la drum.",
-                "en": "Admire the winter facade of the town hall quickly, then stop by a nearby cafe for a hot drink to warm up before starting your frosty morning walk."
+                "en": "Admire the winter facade of the town hall quickly, then stop by a nearby cafe for a hot drink to warm up before starting your frosty morning walk.",
+                "fr": "Admirez rapidement la façade hivernale de l'hôtel de ville, puis arrêtez‑vous dans un café à proximité pour une boisson chaude avant de commencer votre promenade glaciale."
               }
             },
             {
@@ -246,13 +271,15 @@
                 "de": "Schlosspark von Vizille",
                 "hu": "Vizille Kastélypark",
                 "ro": "Parcul Castelului Vizille",
-                "en": "Vizille Castle Park"
+                "en": "Vizille Castle Park",
+                "fr": "Parc du château de Vizille"
               },
               "tip_4lang": {
                 "de": "Tragen Sie feste Schuhe für die gefrorenen Wege und genießen Sie die klare Winterluft sowie die kahle, majestätische Struktur der alten Bäume.",
                 "hu": "Viseljen vastag talpú cipőt a fagyott ösvényeken, és élvezze a tiszta téli levegőt, valamint az idős fák fenséges, kopár szerkezetét a parkban.",
                 "ro": "Purtați încălțăminte adecvată pentru aleile înghețate și bucurați-vă de aerul curat de iarnă și de structura maiestuoasă a arborilor desfrunziți.",
-                "en": "Wear sturdy shoes for the frozen paths and enjoy the crisp winter air along with the majestic silhouettes of the bare, ancient trees in the park."
+                "en": "Wear sturdy shoes for the frozen paths and enjoy the crisp winter air along with the majestic silhouettes of the bare, ancient trees in the park.",
+                "fr": "Portez des chaussures solides pour les sentiers gelés et profitez de l'air vif de l'hiver ainsi que des silhouettes majestueuses des vieux arbres dénudés du parc."
               }
             },
             {
@@ -260,13 +287,15 @@
                 "de": "Museum für die Französische Revolution",
                 "hu": "Francia Forradalom Múzeuma",
                 "ro": "Muzeul Revoluției Franceze",
-                "en": "Museum of the French Revolution"
+                "en": "Museum of the French Revolution",
+                "fr": "Musée de la Révolution française"
               },
               "tip_4lang": {
                 "de": "Nutzen Sie die Garderobe für Ihre schwere Winterkleidung und genießen Sie die angenehme Wärme im Inneren dieses beeindruckenden historischen Schlosses.",
                 "hu": "Használja a ruhatárat a nehéz téli kabátok leadására, és élvezze a fűtött termek kellemes melegét ebben a lenyűgöző történelmi kastélyépületben.",
                 "ro": "Folosiți garderoba pentru hainele groase de iarnă și bucurați-vă de căldura plăcută din interior în timp ce explorați acest castel istoric impresionant.",
-                "en": "Make use of the cloakroom for your heavy winter coats and enjoy the cozy indoor heating while exploring the fascinating exhibits of the castle."
+                "en": "Make use of the cloakroom for your heavy winter coats and enjoy the cozy indoor heating while exploring the fascinating exhibits of the castle.",
+                "fr": "Profitez du vestiaire pour vos lourds manteaux d'hiver et bénéficiez du chauffage intérieur pendant que vous explorez les expositions passionnantes du château."
               }
             },
             {
@@ -274,13 +303,15 @@
                 "de": "Hirsche und Rehe",
                 "hu": "Szarvasok és Őzek",
                 "ro": "Cerbi și Căprioare",
-                "en": "Cerfs et biches"
+                "en": "Cerfs et biches",
+                "fr": "Cerfs et biches"
               },
               "tip_4lang": {
                 "de": "Die Tiere sind im Winter oft aktiver auf der Suche nach Futter; halten Sie Ferngläser bereit, um sie im schneebedeckten Gelände besser zu sehen.",
                 "hu": "Az állatok télen gyakran aktívabbak az etetők körül; tartsa készenlétben a távcsövet, hogy jobban láthassa őket a deres vagy havas tájban.",
                 "ro": "Animalele sunt adesea mai active iarna în căutarea hranei; pregătiți binoclul pentru a le observa mai bine în peisajul înghețat al domeniului.",
-                "en": "The deer are often more active during winter as they forage for food; bring binoculars to spot them easily against the frosty or snowy ground."
+                "en": "The deer are often more active during winter as they forage for food; bring binoculars to spot them easily against the frosty or snowy ground.",
+                "fr": "Les cerfs sont souvent plus actifs en hiver lorsqu'ils cherchent de la nourriture ; apportez des jumelles pour mieux les repérer sur le sol gelé ou enneigé."
               }
             },
             {
@@ -288,13 +319,15 @@
                 "de": "Domaine de Vizille",
                 "hu": "Domaine de Vizille",
                 "ro": "Domeniul Vizille",
-                "en": "Domaine de Vizille"
+                "en": "Domaine de Vizille",
+                "fr": "Domaine de Vizille"
               },
               "tip_4lang": {
                 "de": "Besuchen Sie das Gelände vor 16:30 Uhr, um das letzte Tageslicht auf dem Schloss zu erleben, bevor die frühe Winterdunkelheit den Park einhüllt.",
                 "hu": "Látogasson el a területre délután fél öt előtt, hogy elkapja az utolsó fényeket a kastélyon, mielőtt a korai téli sötétség beállna a parkban.",
                 "ro": "Vizitați domeniul înainte de ora 16:30 pentru a vedea ultima lumină a zilei pe castel înainte ca întunericul iernii să cuprindă întregul parc.",
-                "en": "Plan to visit the grounds before 4:30 PM to catch the last rays of daylight on the castle walls before the early winter sunset takes over."
+                "en": "Plan to visit the grounds before 4:30 PM to catch the last rays of daylight on the castle walls before the early winter sunset takes over.",
+                "fr": "Prévoyez de visiter les extérieurs avant 16h30 pour attraper les dernières lueurs du jour sur les murs du château avant que le coucher du soleil hivernal n'arrive."
               }
             }
           ]
@@ -314,7 +347,8 @@
             "de": "Rathaus von Vizille",
             "hu": "Vizille Városháza",
             "ro": "Primăria Vizille",
-            "en": "Vizille Town Hall"
+            "en": "Vizille Town Hall",
+            "fr": "Hôtel de ville de Vizille"
           },
           "coords": [
             5.77253,
@@ -329,7 +363,8 @@
             "de": "Betrachten Sie das historische Rathaus im Herzen von Vizille, ein Symbol des lokalen Stolzes, und besuchen Sie den Markt am Dienstagmorgen für frische regionale Produkte.",
             "hu": "Csodálja meg a történelmi városházát Vizille szívében, amely a helyi büszkeség szimbóluma, és látogasson el a kedd reggeli piacra friss regionális termékekért.",
             "ro": "Admirați primăria istorică din inima orașului Vizille, un simbol al mândriei locale, și vizitați piața de marți dimineața pentru produse regionale proaspete.",
-            "en": "Admire the historical town hall in the heart of Vizille, a symbol of local pride, and visit the Tuesday morning market to buy fresh regional produce."
+            "en": "Admire the historical town hall in the heart of Vizille, a symbol of local pride, and visit the Tuesday morning market to buy fresh regional produce.",
+            "fr": "Admirez l'hôtel de ville historique au cœur de Vizille, un symbole de fierté locale, et visitez le marché du mardi matin pour acheter des produits régionaux frais."
           }
         },
         {
@@ -337,7 +372,8 @@
             "de": "Schlosspark von Vizille",
             "hu": "Vizille Kastélypark",
             "ro": "Parcul Castelului Vizille",
-            "en": "Vizille Castle Park"
+            "en": "Vizille Castle Park",
+            "fr": "Parc du château de Vizille"
           },
           "coords": [
             5.769512,
@@ -352,7 +388,8 @@
             "de": "Schlendern Sie durch die weitläufigen, von Kanälen durchzogenen Gärten des Schlossparks, um die Natur zu genießen und bringen Sie ein Picknick für ein ruhiges Mittagessen mit.",
             "hu": "Sétáljon végig a kastélypark csatornákkal átszőtt kiterjedt kertjein, hogy élvezze a természetet, és hozzon magával pikniket egy békés szabadtéri ebédhez.",
             "ro": "Plimbați-vă prin grădinile vaste ale parcului castelului, traversate de canale, pentru a vă bucura de natură, și aduceți un picnic pentru un prânz liniștit.",
-            "en": "Stroll through the vast, canal-laced gardens of the castle park to enjoy nature's tranquility, and be sure to bring a picnic for a peaceful outdoor lunch."
+            "en": "Stroll through the vast, canal-laced gardens of the castle park to enjoy nature's tranquility, and be sure to bring a picnic for a peaceful outdoor lunch.",
+            "fr": "Promenez‑vous dans les vastes jardins traversés de canaux du parc du château pour profiter de la tranquillité de la nature, et n'oubliez pas d'apporter un pique‑nique pour un déjeuner paisible en plein air."
           }
         },
         {
@@ -360,7 +397,8 @@
             "de": "Museum für die Französische Revolution",
             "hu": "Francia Forradalom Múzeuma",
             "ro": "Muzeul Revoluției Franceze",
-            "en": "Museum of the French Revolution"
+            "en": "Museum of the French Revolution",
+            "fr": "Musée de la Révolution française"
           },
           "coords": [
             5.773056,
@@ -375,7 +413,8 @@
             "de": "Erkunden Sie die faszinierenden Exponate des Museums für die Französische Revolution im alten Schloss und nutzen Sie die kostenlosen Audioguides für tiefere Einblicke.",
             "hu": "Fedezze fel a Francia Forradalom Múzeumának lenyűgöző kiállításait a régi kastélyban, és használja az ingyenes audioguide-okat a mélyebb történelmi betekintés érdekében.",
             "ro": "Explorați expozițiile fascinante ale Muzeului Revoluției Franceze din vechiul castel și utilizați ghidurile audio gratuite pentru o perspectivă istorică mai profundă.",
-            "en": "Explore the fascinating exhibits of the Museum of the French Revolution inside the old castle, and make sure to use the free audio guides for deeper historical insights."
+            "en": "Explore the fascinating exhibits of the Museum of the French Revolution inside the old castle, and make sure to use the free audio guides for deeper historical insights.",
+            "fr": "Explorez les expositions fascinantes du Musée de la Révolution française à l'intérieur de l'ancien château et pensez à utiliser les audioguides gratuits pour approfondir vos connaissances historiques."
           }
         },
         {
@@ -383,7 +422,8 @@
             "de": "Domaine de Vizille",
             "hu": "Domaine de Vizille",
             "ro": "Domeniul Vizille",
-            "en": "Domaine de Vizille"
+            "en": "Domaine de Vizille",
+            "fr": "Domaine de Vizille"
           },
           "coords": [
             5.77225,
@@ -398,7 +438,8 @@
             "de": "Bewundern Sie die beeindruckende Architektur der historischen Domaine de Vizille, dem Geburtsort der Revolution, und tragen Sie bequeme Schuhe für die großen Höfe.",
             "hu": "Csodálja meg a történelmi Domaine de Vizille, a forradalom szülőhelyének lenyűgöző építészetét, és viseljen kényelmes cipőt a nagy udvarok bejárásához.",
             "ro": "Admirați arhitectura impresionantă a domeniului istoric Vizille, locul de naștere al revoluției, și purtați încălțăminte confortabilă pentru curțile sale imense.",
-            "en": "Admire the impressive architecture of the historical Domaine de Vizille, the birthplace of the revolution, and wear comfortable shoes to easily walk the large courtyards."
+            "en": "Admire the impressive architecture of the historical Domaine de Vizille, the birthplace of the revolution, and wear comfortable shoes to easily walk the large courtyards.",
+            "fr": "Admirez l’architecture impressionnante du Domaine de Vizille, berceau de la Révolution, et portez des chaussures confortables pour circuler facilement dans les vastes cours."
           }
         },
         {
@@ -406,7 +447,8 @@
             "de": "Prioratsruinen",
             "hu": "Perjelség Romjai",
             "ro": "Ruinele Prioratului",
-            "en": "Priory Ruins"
+            "en": "Priory Ruins",
+            "fr": "Ruines du prieuré"
           },
           "coords": [
             5.727845,
@@ -421,7 +463,8 @@
             "de": "Entdecken Sie die geheimnisvollen Ruinen des alten Priorats, die eine ruhige historische Atmosphäre bieten, und fotografieren Sie das Gelände im weichen Nachmittagslicht.",
             "hu": "Fedezze fel a régi perjelség titokzatos romjait, amelyek nyugodt történelmi légkört kínálnak, és fotózza le a területet a lágy, délutáni napfényben.",
             "ro": "Descoperiți ruinele misterioase ale vechii priorități, care oferă o atmosferă istorică liniștită, și fotografiați site-ul în lumina blândă a după-amiezii.",
-            "en": "Discover the mysterious ruins of the old priory that offer a serene historical atmosphere, and bring your camera to photograph the site in the soft afternoon light."
+            "en": "Discover the mysterious ruins of the old priory that offer a serene historical atmosphere, and bring your camera to photograph the site in the soft afternoon light.",
+            "fr": "Découvrez les mystérieuses ruines de l’ancien prieuré qui offrent une atmosphère historique paisible, et apportez votre appareil photo pour les photographier à la douce lumière de l’après‑midi."
           }
         }
       ],
@@ -429,7 +472,8 @@
         "de": "Die Radtour startet zentral am Rathaus von Vizille. Von dort fahren Sie direkt in die wunderschönen Parkanlagen des Schlosses, ein idealer Ort für eine morgendliche Erkundung. Mittags besuchen Sie das Revolutionsmuseum und das umliegende historische Gut. Am Nachmittag radeln Sie gemütlich aus der Stadt heraus, um die geheimnisvollen Prioratsruinen zu entdecken.",
         "hu": "A kerékpártúra központilag, Vizille városházájától indul. Innen egyenesen a kastély gyönyörű parkjába tekerhet, amely ideális helyszín egy reggeli felfedezéshez. Délben látogassa meg a forradalmi múzeumot és a környező történelmi birtokot. Délután kényelmesen kerekezzen ki a városból, hogy felfedezze a régi perjelség titokzatos romjait.",
         "ro": "Turul cu bicicleta începe central la primăria din Vizille. De acolo mergeți direct în grădinile frumoase ale castelului, o locație ideală pentru o explorare matinală. La prânz vizitați muzeul revoluției și domeniul istoric din jur. După-amiaza pedalați lejer în afara orașului pentru a descoperi ruinele misterioase ale priorității.",
-        "en": "The bike tour starts centrally at the Vizille town hall. From there, ride straight into the beautiful parklands of the castle, an ideal location for morning exploration. At midday, visit the revolution museum and the surrounding historical estate grounds. In the afternoon, cycle leisurely out of town to discover the mysterious ruins of the old priory."
+        "en": "The bike tour starts centrally at the Vizille town hall. From there, ride straight into the beautiful parklands of the castle, an ideal location for morning exploration. At midday, visit the revolution museum and the surrounding historical estate grounds. In the afternoon, cycle leisurely out of town to discover the mysterious ruins of the old priory.",
+        "fr": "Le circuit à vélo commence au centre, à la mairie de Vizille. De là, roulez directement dans les beaux parcs du château, un lieu idéal pour l’exploration matinale. À midi, visitez le musée de la Révolution et les jardins historiques qui l’entourent. L’après‑midi, pédalez tranquillement hors de la ville pour découvrir les mystérieuses ruines de l’ancien prieuré."
       },
       "variants": {
         "rainy": {
@@ -437,7 +481,8 @@
             "de": "Der Vormittag auf dem Rad startet nass, prüfen Sie Ihre Bremsen am Rathaus. Mittags bietet das Museum eine ideale Aufwärmpause, während die Räder sicher parken. Nachmittags radeln wir vorsichtig durch den herbstlichen Park, achten auf nasse Blätter. Der Abend kommt früh mit eingeschränkter Sicht, schalten Sie unbedingt das Licht für die Rückfahrt ein.",
             "hu": "A délelőtti tekerés esőben indul, ellenőrizze a fékeket a városházánál. Délben a múzeum kiváló pihenőhely, amíg a biciklik biztonságban várnak odakint. Délután óvatosan haladunk a park vizes útjain, figyelve a csúszós levelekre. Az este korán érkezik rossz látási viszonyokkal, így ne felejtse el bekapcsolni a lámpákat.",
             "ro": "Dimineața pe bicicletă începe ud, așa că verificați frânele la primărie. La prânz, muzeul oferă o pauză binemeritată pentru a vă usca echipamentul. După-amiaza, pedalați cu atenție prin parc, evitând frunzele ude și alunecoase. Seara vine devreme cu vizibilitate redusă, deci aprindeți obligatoriu luminile de drum.",
-            "en": "The morning bike ride starts wet, so check your brakes at the Town Hall. At noon, the museum is a great place to warm up and dry your gear. In the afternoon, cycle carefully through the park, watching out for slippery wet leaves on the paths. Evening arrives early with low visibility, so ensure your lights are on for safety."
+            "en": "The morning bike ride starts wet, so check your brakes at the Town Hall. At noon, the museum is a great place to warm up and dry your gear. In the afternoon, cycle carefully through the park, watching out for slippery wet leaves on the paths. Evening arrives early with low visibility, so ensure your lights are on for safety.",
+            "fr": "La balade à vélo du matin commence sur routes mouillées, vérifiez donc vos freins à la mairie. À midi, le musée est un excellent endroit pour se réchauffer et sécher votre équipement. L’après‑midi, roulez prudemment dans le parc en surveillant les feuilles mouillées glissantes sur les chemins. La soirée arrive tôt avec une faible visibilité, assurez‑vous d’avoir vos lumières allumées pour la sécurité."
           },
           "stops": [
             {
@@ -445,13 +490,15 @@
                 "de": "Rathaus von Vizille",
                 "hu": "Vizille Városháza",
                 "ro": "Primăria Vizille",
-                "en": "Vizille Town Hall"
+                "en": "Vizille Town Hall",
+                "fr": "Mairie de Vizille"
               },
               "tip_4lang": {
                 "de": "Prüfen Sie Ihre Bremsen und Reifen unter dem Dach des Rathauses, da nasse Straßen den Bremsweg Ihres Fahrrads erheblich verlängern können.",
                 "hu": "Ellenőrizze a fékeket és a gumiabroncsokat a városháza eresze alatt, mivel a vizes aszfalton jelentősen megnőhet a bicikli féktávolsága.",
                 "ro": "Verificați frânele și pneurile sub streașina primăriei, deoarece carosabilul umed poate prelungi considerabil distanța de frânare a bicicletei.",
-                "en": "Check your brakes and tire pressure under the town hall's shelter, as wet roads will significantly increase your bicycle's stopping distance."
+                "en": "Check your brakes and tire pressure under the town hall's shelter, as wet roads will significantly increase your bicycle's stopping distance.",
+                "fr": "Vérifiez vos freins et la pression des pneus sous l’abri de la mairie, car les routes humides augmentent sensiblement la distance de freinage de votre vélo."
               }
             },
             {
@@ -459,13 +506,15 @@
                 "de": "Schlosspark von Vizille",
                 "hu": "Vizille Kastélypark",
                 "ro": "Parcul Castelului Vizille",
-                "en": "Vizille Castle Park"
+                "en": "Vizille Castle Park",
+                "fr": "Parc du Château de Vizille"
               },
               "tip_4lang": {
                 "de": "Fahren Sie langsam auf den Parkwegen; nasse Blätter und Schlamm können Kurven gefährlich machen, besonders in der Nähe der Wassergräben.",
                 "hu": "Haladjon lassan a park ösvényein; a vizes levelek és a sár veszélyessé tehetik a kanyarokat, különösen a kastély körüli vizesárkok mentén.",
                 "ro": "Circulați cu viteză redusă pe aleile parcului; frunzele ude și noroiul pot face virajele periculoase, mai ales în apropierea canalelor de apă.",
-                "en": "Ride slowly on the park paths; wet leaves and mud can make corners treacherous, especially when cycling near the estate's water canals."
+                "en": "Ride slowly on the park paths; wet leaves and mud can make corners treacherous, especially when cycling near the estate's water canals.",
+                "fr": "Roulez lentement sur les allées du parc ; les feuilles mouillées et la boue rendent les virages traîtres, surtout près des canaux d’eau du domaine."
               }
             },
             {
@@ -473,13 +522,15 @@
                 "de": "Museum für die Französische Revolution",
                 "hu": "Francia Forradalom Múzeuma",
                 "ro": "Muzeul Revoluției Franceze",
-                "en": "Museum of the French Revolution"
+                "en": "Museum of the French Revolution",
+                "fr": "Musée de la Révolution française"
               },
               "tip_4lang": {
                 "de": "Nutzen Sie die Fahrradständer in der Nähe und nehmen Sie sich Zeit im Museum, um Ihre Regenbekleidung für die nächste Etappe trocknen zu lassen.",
                 "hu": "Használja a közeli kerékpártárolókat, és töltsön el több időt a múzeumban, hogy az esőruházata teljesen megszáradhasson a következő szakasz előtt.",
                 "ro": "Folosiți rastelele de biciclete din apropiere și acordați-vă timp în muzeu pentru a lăsa echipamentul de ploaie să se usuce înainte de următoarea etapă.",
-                "en": "Use the nearby bike racks and take an extended break in the museum to allow your rain gear to dry out before you head back onto the road."
+                "en": "Use the nearby bike racks and take an extended break in the museum to allow your rain gear to dry out before you head back onto the road.",
+                "fr": "Utilisez les arceaux à vélos à proximité et faites une longue pause au musée pour laisser sécher votre équipement de pluie avant de reprendre la route."
               }
             },
             {
@@ -487,13 +538,15 @@
                 "de": "Domaine de Vizille",
                 "hu": "Domaine de Vizille",
                 "ro": "Domeniul Vizille",
-                "en": "Domaine de Vizille"
+                "en": "Domaine de Vizille",
+                "fr": "Domaine de Vizille"
               },
               "tip_4lang": {
                 "de": "Halten Sie an den überdachten Aussichtspunkten an, um den Blick auf das neblige Gelände zu genießen, ohne während der Fahrt völlig durchnässt zu werden.",
                 "hu": "Álljon meg a fedett kilátópontoknál, hogy megcsodálhassa a ködös birtokot anélkül, hogy tekerés közben teljesen elázna a szakadó esőben.",
                 "ro": "Opriți-vă la punctele de belvedere acoperite pentru a admira domeniul cețos fără a vă uda complet în timp ce pedalați prin ploaia persistentă.",
-                "en": "Stop at the covered lookout points to admire the misty grounds without getting completely soaked while you continue your cycling tour."
+                "en": "Stop at the covered lookout points to admire the misty grounds without getting completely soaked while you continue your cycling tour.",
+                "fr": "Arrêtez‑vous aux belvédères couverts pour admirer le domaine brumeux sans être complètement trempé pendant votre circuit à vélo."
               }
             },
             {
@@ -501,13 +554,15 @@
                 "de": "Prioratsruinen",
                 "hu": "Perjelség Romjai",
                 "ro": "Ruinele Prioratului",
-                "en": "Priory Ruins"
+                "en": "Priory Ruins",
+                "fr": "Ruines du prieuré"
               },
               "tip_4lang": {
                 "de": "Achten Sie auf unebenen, nassen Untergrund bei den Ruinen und nutzen Sie wasserfeste Schuhüberzüge, um Ihre Füße auf der feuchten Rückfahrt trocken zu halten.",
                 "hu": "Ügyeljen az egyenetlen, vizes talajra a romoknál, és használjon vízálló kamáslit, hogy lábai szárazak maradjanak a nedves visszaúton.",
                 "ro": "Atenție la terenul denivelat și umed de la ruine; folosiți protecții impermeabile pentru încălțăminte pentru a vă păstra picioarele uscate la întoarcere.",
-                "en": "Watch out for uneven, wet ground around the ruins and use waterproof shoe covers to keep your feet dry during the damp return journey."
+                "en": "Watch out for uneven, wet ground around the ruins and use waterproof shoe covers to keep your feet dry during the damp return journey.",
+                "fr": "Faites attention au sol inégal et humide autour des ruines et utilisez des couvre‑chaussures imperméables pour garder vos pieds au sec lors du retour détrempé."
               }
             }
           ]
@@ -517,7 +572,8 @@
             "de": "Der frostige Radmorgen beginnt mit kalten Händen am Rathaus, tragen Sie Thermohandschuhe. Mittags ist das Museum die Rettung, um Körper und Seele aufzuwärmen. Nachmittags radeln wir durch die klare, kalte Luft zu den Ruinen, achten aber auf überfrierende Nässe auf Brücken. Da die Sonne um 17:00 Uhr sinkt, beenden wir die Tour mit hellen Lichtern in der Dämmerung.",
             "hu": "A fagyos reggeli tekerésnél elgémberedhetnek az ujjak, viseljen termokesztyűt a városházánál. Délben a múzeum fűtött terei adják vissza az életkedvünket. Délután a tiszta, hideg levegőben tekerünk a romok felé, figyelve a hidakon előforduló jegesedésre. Mivel 17 órakor lemegy a nap, erős lámpákkal fejezzük be a túrát a szürkületben.",
             "ro": "Dimineața geroasă pe bicicletă necesită mănuși termice încă de la plecarea de la primărie. La prânz, muzeul este refugiul perfect pentru a ne dezgheța și a ne odihni. După-amiaza, pedalăm prin aerul rece către ruine, fiind atenți la gheața de pe poduri. Deoarece soarele apune la ora 17:00, încheiem tura cu lumini puternice în amurg.",
-            "en": "The frosty morning bike ride requires thermal gloves from the start at the Town Hall. At noon, the museum is the perfect place to thaw out and rest. In the afternoon, cycle through the crisp air to the ruins, watching for ice on bridges. Since the sun sets at 5 PM, make sure your bike lights are bright for the ride back in the twilight."
+            "en": "The frosty morning bike ride requires thermal gloves from the start at the Town Hall. At noon, the museum is the perfect place to thaw out and rest. In the afternoon, cycle through the crisp air to the ruins, watching for ice on bridges. Since the sun sets at 5 PM, make sure your bike lights are bright for the ride back in the twilight.",
+            "fr": "La balade matinale givrée nécessite des gants thermiques dès le départ à la mairie. À midi, le musée est l’endroit parfait pour se réchauffer et se reposer. L’après‑midi, roulez dans l’air frais jusqu’aux ruines en surveillant la glace sur les ponts. Le soleil se couche à 17 h, assurez‑vous que vos éclairages de vélo sont puissants pour le retour au crépuscule."
           },
           "stops": [
             {
@@ -525,13 +581,15 @@
                 "de": "Rathaus von Vizille",
                 "hu": "Vizille Városháza",
                 "ro": "Primăria Vizille",
-                "en": "Vizille Town Hall"
+                "en": "Vizille Town Hall",
+                "fr": "Mairie de Vizille"
               },
               "tip_4lang": {
                 "de": "Starten Sie mit voll geladenen Akkus (bei E-Bikes), da Kälte die Leistung mindert, und wärmen Sie Ihre Hände vor der Abfahrt noch einmal kurz auf.",
                 "hu": "Induljon teljesen feltöltött akkumulátorral, mivel a hideg csökkenti a teljesítményt, és alaposan melegítse be az ízületeit a fagyos indulás előtt.",
                 "ro": "Porniți cu bateriile complet încărcate, deoarece frigul reduce performanța, și încălziți-vă bine mâinile înainte de a pleca în tura de dimineață.",
-                "en": "Start with a fully charged battery as cold weather reduces performance, and warm up your hands thoroughly before setting off on your winter ride."
+                "en": "Start with a fully charged battery as cold weather reduces performance, and warm up your hands thoroughly before setting off on your winter ride.",
+                "fr": "Commencez avec une batterie pleinement chargée car le froid réduit les performances, et réchauffez bien vos mains avant de partir pour votre sortie hivernale."
               }
             },
             {
@@ -539,13 +597,15 @@
                 "de": "Schlosspark von Vizille",
                 "hu": "Vizille Kastélypark",
                 "ro": "Parcul Castelului Vizille",
-                "en": "Vizille Castle Park"
+                "en": "Vizille Castle Park",
+                "fr": "Parc du Château de Vizille"
               },
               "tip_4lang": {
                 "de": "Vermeiden Sie schattige Stellen, an denen sich Eis auf den Wegen halten kann, und genießen Sie die klare Sicht durch die unbelaubten Baumreihen.",
                 "hu": "Kerülje az árnyékos szakaszokat, ahol a jég megmaradhat az utakon, és élvezze a tiszta kilátást a lombkorona nélküli fasorok között.",
                 "ro": "Evitați porțiunile umbrite unde gheața poate persista pe alei și bucurați-vă de vizibilitatea sporită printre șirurile de arbori desfrunziți.",
-                "en": "Avoid shaded areas where ice might linger on the paths and enjoy the clear views through the rows of trees that have lost their winter foliage."
+                "en": "Avoid shaded areas where ice might linger on the paths and enjoy the clear views through the rows of trees that have lost their winter foliage.",
+                "fr": "Évitez les zones ombragées où la glace peut subsister sur les allées et profitez des vues dégagées à travers les rangées d’arbres dépourvus de leur feuillage hivernal."
               }
             },
             {
@@ -553,13 +613,15 @@
                 "de": "Museum für die Französische Revolution",
                 "hu": "Francia Forradalom Múzeuma",
                 "ro": "Muzeul Revoluției Franceze",
-                "en": "Museum of the French Revolution"
+                "en": "Museum of the French Revolution",
+                "fr": "Musée de la Révolution française"
               },
               "tip_4lang": {
                 "de": "Nutzen Sie den Museumsbesuch als Aufwärmstopp; die warmen Innenräume sind eine Wohltat nach der kalten Fahrt durch den frostigen Park.",
                 "hu": "Használja a múzeumlátogatást melegedőként; a fűtött belső terek igazi felüdülést jelentenek a jeges parkon át tett hideg tekerés után.",
                 "ro": "Folosiți vizita la muzeu ca punct de încălzire; spațiile interioare încălzite sunt o binecuvântare după pedalatul prin parcul înghețat.",
-                "en": "Use your museum visit as a primary warming station; the heated interiors are a relief after cycling through the biting cold of the winter park."
+                "en": "Use your museum visit as a primary warming station; the heated interiors are a relief after cycling through the biting cold of the winter park.",
+                "fr": "Faites de votre visite au musée une station principale de réchauffement ; les intérieurs chauffés sont un soulagement après le froid mordant du parc en hiver."
               }
             },
             {
@@ -567,13 +629,15 @@
                 "de": "Domaine de Vizille",
                 "hu": "Domaine de Vizille",
                 "ro": "Domeniul Vizille",
-                "en": "Domaine de Vizille"
+                "en": "Domaine de Vizille",
+                "fr": "Domaine de Vizille"
               },
               "tip_4lang": {
                 "de": "Fahren Sie vorsichtig in der Nähe von Wasserstellen, da die Brücken oft als erstes gefrieren; genießen Sie die stille, winterliche Pracht des Geländes.",
                 "hu": "Közlekedjen óvatosan a vizek közelében, mivel a hidak fagynak le először; csodálja meg a birtok csendes, méltóságteljes téli nyugalmát.",
                 "ro": "Circulați cu prudență în apropierea apei, deoarece podurile îngheață primele; admirați liniștea și splendoarea hibernală a întregului domeniu.",
-                "en": "Ride cautiously near the water features as bridges often freeze first; enjoy the quiet, wintery splendor of the estate's landscape."
+                "en": "Ride cautiously near the water features as bridges often freeze first; enjoy the quiet, wintery splendor of the estate's landscape.",
+                "fr": "Roulezz prudemment près des zones d’eau car les ponts gèlent souvent en premier ; savourez la splendide quiétude hivernale du paysage du domaine."
               }
             },
             {
@@ -581,13 +645,15 @@
                 "de": "Prioratsruinen",
                 "hu": "Perjelség Romjai",
                 "ro": "Ruinele Prioratului",
-                "en": "Priory Ruins"
+                "en": "Priory Ruins",
+                "fr": "Ruines du prieuré"
               },
               "tip_4lang": {
                 "de": "Schließen Sie Ihre Tour ab, bevor die Temperaturen bei Sonnenuntergang rapide sinken, und nutzen Sie reflektierende Kleidung für die Fahrt in der Dämmerung.",
                 "hu": "Fejezze be a túrát, mielőtt a hőmérséklet naplemente után hirtelen leesne, és viseljen fényvisszaverő ruházatot a szürkületi visszatéréshez.",
                 "ro": "Încheiați tura înainte ca temperaturile să scadă brusc la apus și purtați îmbrăcăminte reflectorizantă pentru drumul de întoarcere în amurg.",
-                "en": "Finish your tour before temperatures drop rapidly at sunset and wear reflective clothing for the ride back through the early winter twilight."
+                "en": "Finish your tour before temperatures drop rapidly at sunset and wear reflective clothing for the ride back through the early winter twilight.",
+                "fr": "Terminez votre visite avant que les températures ne chutent rapidement au coucher du soleil et portez des vêtements réfléchissants pour le retour à travers le crépuscule hivernal."
               }
             }
           ]
@@ -607,7 +673,8 @@
             "de": "Rathaus von Vizille",
             "hu": "Vizille Városháza",
             "ro": "Primăria Vizille",
-            "en": "Vizille Town Hall"
+            "en": "Vizille Town Hall",
+            "fr": "Mairie de Vizille"
           },
           "coords": [
             5.77253,
@@ -622,7 +689,8 @@
             "de": "Betrachten Sie das historische Rathaus im Herzen von Vizille, ein Symbol des lokalen Stolzes, und besuchen Sie den Markt am Dienstagmorgen für frische regionale Produkte.",
             "hu": "Csodálja meg a történelmi városházát Vizille szívében, amely a helyi büszkeség szimbóluma, és látogasson el a kedd reggeli piacra friss regionális termékekért.",
             "ro": "Admirați primăria istorică din inima orașului Vizille, un simbol al mândriei locale, și vizitați piața de marți dimineața pentru produse regionale proaspete.",
-            "en": "Admire the historical town hall in the heart of Vizille, a symbol of local pride, and visit the Tuesday morning market to buy fresh regional produce."
+            "en": "Admire the historical town hall in the heart of Vizille, a symbol of local pride, and visit the Tuesday morning market to buy fresh regional produce.",
+            "fr": "Admirez la mairie historique au cœur de Vizille, symbole de fierté locale, et visitez le marché du mardi matin pour acheter des produits régionaux frais."
           }
         },
         {
@@ -630,7 +698,8 @@
             "de": "Museum für die Französische Revolution",
             "hu": "Francia Forradalom Múzeuma",
             "ro": "Muzeul Revoluției Franceze",
-            "en": "Museum of the French Revolution"
+            "en": "Museum of the French Revolution",
+            "fr": "Musée de la Révolution française"
           },
           "coords": [
             5.773056,
@@ -645,7 +714,8 @@
             "de": "Erkunden Sie die faszinierenden Exponate des Museums für die Französische Revolution im alten Schloss und nutzen Sie die kostenlosen Audioguides für tiefere Einblicke.",
             "hu": "Fedezze fel a Francia Forradalom Múzeumának lenyűgöző kiállításait a régi kastélyban, és használja az ingyenes audioguide-okat a mélyebb történelmi betekintés érdekében.",
             "ro": "Explorați expozițiile fascinante ale Muzeului Revoluției Franceze din vechiul castel și utilizați ghidurile audio gratuite pentru o perspectivă istorică mai profundă.",
-            "en": "Explore the fascinating exhibits of the Museum of the French Revolution inside the old castle, and make sure to use the free audio guides for deeper historical insights."
+            "en": "Explore the fascinating exhibits of the Museum of the French Revolution inside the old castle, and make sure to use the free audio guides for deeper historical insights.",
+            "fr": "Explorez les fascinantes expositions du Musée de la Révolution française à l’intérieur de l’ancien château, et pensez à utiliser les audioguides gratuits pour des approfondissements historiques."
           }
         },
         {
@@ -653,7 +723,8 @@
             "de": "Lac Luitel",
             "hu": "Lac Luitel",
             "ro": "Lacul Luitel",
-            "en": "Lac Luitel"
+            "en": "Lac Luitel",
+            "fr": "Lac Luitel"
           },
           "coords": [
             5.848437,
@@ -668,7 +739,8 @@
             "de": "Genießen Sie die friedliche Umgebung am Lac Luitel, einem geschützten Torfmoor mit einzigartiger Flora, und bleiben Sie auf den Holzstegen, um die Natur zu schützen.",
             "hu": "Élvezze a békés környezetet a Lac Luitel-nél, egy védett tőzeglápnál egyedi növényvilággal, és maradjon a fa pallókon, hogy megvédje az érzékeny természetet.",
             "ro": "Bucurați-vă de mediul pașnic de la Lac Luitel, o turbărie protejată cu floră unică, și rămâneți pe pasarelele din lemn pentru a proteja ecosistemul fragil.",
-            "en": "Enjoy the peaceful surroundings at Lac Luitel, a protected peat bog featuring unique flora, and please stay on the wooden boardwalks to protect the fragile nature."
+            "en": "Enjoy the peaceful surroundings at Lac Luitel, a protected peat bog featuring unique flora, and please stay on the wooden boardwalks to protect the fragile nature.",
+            "fr": "Appréciez le calme du Lac Luitel, une tourbière protégée abritant une flore unique, et restez sur les passerelles en bois pour protéger cette nature fragile."
           }
         },
         {
@@ -676,7 +748,8 @@
             "de": "Lac de Praver",
             "hu": "Lac de Praver",
             "ro": "Lacul de Praver",
-            "en": "Lac de Praver"
+            "en": "Lac de Praver",
+            "fr": "Lac de Praver"
           },
           "coords": [
             5.854861,
@@ -691,7 +764,8 @@
             "de": "Entspannen Sie sich an den ruhigen Ufern des Lac de Praver, der abseits der großen Touristenströme liegt, und nehmen Sie ein Fernglas für die Vogelbeobachtung mit.",
             "hu": "Pihenjen meg a Lac de Praver nyugodt partjainál, amely távol esik a nagy turistatömegektől, és vigyen magával távcsövet a helyi madarak megfigyeléséhez.",
             "ro": "Relaxați-vă pe țărmurile liniștite ale lacului de Praver, situat departe de mulțimile de turiști, și luați un binoclu pentru a observa păsările din zonă.",
-            "en": "Relax by the tranquil shores of Lac de Praver, which lies well away from the major tourist crowds, and don't forget to pack binoculars for excellent bird watching."
+            "en": "Relax by the tranquil shores of Lac de Praver, which lies well away from the major tourist crowds, and don't forget to pack binoculars for excellent bird watching.",
+            "fr": "Détendez‑vous au bord paisible du Lac de Praver, éloigné des foules touristiques, et n’oubliez pas vos jumelles pour un excellent observation des oiseaux."
           }
         },
         {
@@ -699,7 +773,8 @@
             "de": "Lac Mort",
             "hu": "Lac Mort",
             "ro": "Lac Mort",
-            "en": "Lac Mort"
+            "en": "Lac Mort",
+            "fr": "Lac Mort"
           },
           "coords": [
             5.789836,
@@ -714,7 +789,8 @@
             "de": "Besuchen Sie den Lac Mort für atemberaubende alpine Spiegelungen im klaren Wasser, und beachten Sie, dass das Schwimmen in diesem künstlichen Stausee verboten ist.",
             "hu": "Látogasson el a Lac Mort-hoz a tiszta vízben tükröződő lenyűgöző alpesi tájért, de vegye figyelembe, hogy ebben a mesterséges víztározóban tilos az úszás.",
             "ro": "Vizitați Lac Mort pentru reflexiile alpine uimitoare în apele sale clare și rețineți că înotul este strict interzis în acest rezervor de apă artificial.",
-            "en": "Visit Lac Mort to witness stunning alpine reflections on its clear waters, but please be aware that swimming is strictly prohibited in this artificial reservoir."
+            "en": "Visit Lac Mort to witness stunning alpine reflections on its clear waters, but please be aware that swimming is strictly prohibited in this artificial reservoir.",
+            "fr": "Visitez le Lac Mort pour admirer les superbes reflets alpins sur ses eaux claires, mais sachez que la baignade est strictement interdite dans ce réservoir artificiel."
           }
         },
         {
@@ -722,7 +798,8 @@
             "de": "Grand Lac de Laffrey",
             "hu": "Grand Lac de Laffrey",
             "ro": "Grand Lac de Laffrey",
-            "en": "Grand Lac de Laffrey"
+            "en": "Grand Lac de Laffrey",
+            "fr": "Grand Lac de Laffrey"
           },
           "coords": [
             5.777424,
@@ -737,7 +814,8 @@
             "de": "Beenden Sie Ihren Tag am Grand Lac de Laffrey, einem perfekten Ort für Wassersport und Entspannung, und genießen Sie den Sonnenuntergang von den westlichen Ufern aus.",
             "hu": "Fejezze be a napját a Grand Lac de Laffrey-nél, amely tökéletes hely vízi sportokhoz és pihenéshez, és élvezze a naplementét a nyugati partok egyikéről.",
             "ro": "Încheiați-vă ziua la Grand Lac de Laffrey, un loc perfect pentru sporturi nautice și relaxare, și bucurați-vă de un apus spectaculos de pe malurile vestice.",
-            "en": "Conclude your day at the Grand Lac de Laffrey, a perfect spot for water sports and relaxation, and secure a spot on the western shores to watch the beautiful sunset."
+            "en": "Conclude your day at the Grand Lac de Laffrey, a perfect spot for water sports and relaxation, and secure a spot on the western shores to watch the beautiful sunset.",
+            "fr": "Concluez votre journée au Grand Lac de Laffrey, un endroit parfait pour les sports nautiques et la détente, et installez‑vous sur les rives ouest pour admirer le magnifique coucher de soleil."
           }
         }
       ],
@@ -745,7 +823,8 @@
         "de": "Beginnen Sie mit einem kurzen Halt am Rathaus und tauchen Sie im Revolutionsmuseum in die Geschichte ein. Danach verlassen Sie die Stadt, um den malerischen alpinen Lac Luitel zu erkunden. Der Nachmittag ist der Natur gewidmet, beginnend mit der Ruhe am Lac de Praver und den atemberaubenden Spiegelungen am Lac Mort. Der Tag endet perfekt am großflächigen Grand Lac de Laffrey.",
         "hu": "Kezdje egy rövid megállóval a városházánál, majd merüljön el a történelemben a forradalmi múzeumban. Ezután hagyja el a várost, hogy felfedezze a festői, alpesi Lac Luitel-t. A délután a természetnek van szentelve, amely a Lac de Praver nyugalmával és a Lac Mort lenyűgöző tükröződéseivel kezdődik. A nap tökéletesen zárul a hatalmas Grand Lac de Laffrey partján.",
         "ro": "Începeți cu o scurtă oprire la primărie și aprofundați istoria la muzeul revoluției. Apoi părăsiți orașul pentru a explora pitorescul lac alpin Luitel. După-amiaza este dedicată naturii, începând cu liniștea de la Lac de Praver și reflexiile uimitoare de la Lac Mort. Ziua se încheie perfect pe malurile întinse ale Grand Lac de Laffrey.",
-        "en": "Begin with a brief stop at the town hall and delve into history at the revolution museum. Afterwards, leave the town to explore the picturesque alpine Lac Luitel. The afternoon is completely dedicated to nature, starting with tranquility at Lac de Praver and stunning reflections at Lac Mort. The day wraps up perfectly by the expansive Grand Lac de Laffrey."
+        "en": "Begin with a brief stop at the town hall and delve into history at the revolution museum. Afterwards, leave the town to explore the picturesque alpine Lac Luitel. The afternoon is completely dedicated to nature, starting with tranquility at Lac de Praver and stunning reflections at Lac Mort. The day wraps up perfectly by the expansive Grand Lac de Laffrey.",
+        "fr": "Commencez par un bref arrêt à la mairie et plongez dans l’histoire au musée de la Révolution. Ensuite, quittez la ville pour explorer le pittoresque Lac Luitel en montagne. L’après‑midi est entièrement dédié à la nature, avec la tranquillité du Lac de Praver et les reflets du Lac Mort. La journée se termine idéalement au vaste Grand Lac de Laffrey."
       },
       "variants": {
         "rainy": {
@@ -753,7 +832,8 @@
             "de": "Der Vormittag beginnt mit Regenfahrten, nutzen Sie die gute Heizung Ihres Autos. Mittags ist das Museum der ideale Ort, um dem Wetter zu entfliehen. Nachmittags fahren wir zu den Seen, die im Regen eine dramatische, neblige Kulisse bieten. Der Abend in Vizille ist trotz Regen gemütlich, wenn man die beleuchteten Straßen durch die Windschutzscheibe betrachtet.",
             "hu": "A délelőtt esős vezetéssel indul, használja autója páramentesítőjét. Délben a múzeum az ideális helyszín, hogy elmeneküljünk az időjárás elől. Délután a tavakhoz autózunk, amelyek az esőben drámai, ködös látványt nyújtanak. Az este Vizille-ben az eső ellenére is barátságos, ahogy a kivilágított utcákat nézzük a szélvédő mögül.",
             "ro": "Dimineața începe cu condus prin ploaie, deci folosiți sistemul de dezaburire al mașinii. La prânz, muzeul este locul ideal pentru a scăpa de vremea rea. După-amiaza conducem spre lacuri, care oferă un peisaj dramatic și mistic sub ploaie. Seara în Vizille este primitoare în ciuda ploii, privind străzile luminate prin parbriz.",
-            "en": "The morning starts with a rainy drive, so keep your car’s defroster on. At noon, the museum is the perfect spot to escape the wet weather. In the afternoon, we drive to the nearby lakes, which offer a dramatic, misty backdrop in the rain. Evening in Vizille remains cozy as you watch the lit-up streets through your windshield."
+            "en": "The morning starts with a rainy drive, so keep your car’s defroster on. At noon, the museum is the perfect spot to escape the wet weather. In the afternoon, we drive to the nearby lakes, which offer a dramatic, misty backdrop in the rain. Evening in Vizille remains cozy as you watch the lit-up streets through your windshield.",
+            "fr": "La matinée commence par une route pluvieuse, gardez donc le dégivreur de votre voiture allumé. À midi, le musée est l’endroit idéal pour échapper au mauvais temps. L’après‑midi, nous nous rendons aux lacs voisins qui offrent un arrière‑plan brumeux et dramatique sous la pluie. La soirée à Vizille reste chaleureuse tandis que vous regardez les rues illuminées à travers votre pare‑brise."
           },
           "stops": [
             {
@@ -761,13 +841,15 @@
                 "de": "Rathaus von Vizille",
                 "hu": "Vizille Városháza",
                 "ro": "Primăria Vizille",
-                "en": "Vizille Town Hall"
+                "en": "Vizille Town Hall",
+                "fr": "Mairie de Vizille"
               },
               "tip_4lang": {
                 "de": "Parken Sie auf dem nahen Parkplatz und nutzen Sie den kurzen Weg zum Rathaus, um trotz des Regens die Architektur schnell zu bewundern.",
                 "hu": "Parkoljon a közeli parkolóban, és használja ki a rövid sétát a városházáig, hogy az eső ellenére is gyorsan megcsodálhassa az épületet.",
                 "ro": "Parcați în parcarea din apropiere și profitați de drumul scurt până la primărie pentru a admira rapid arhitectura în ciuda ploii persistente.",
-                "en": "Park in the nearby lot and take advantage of the short walk to the town hall to quickly admire the architecture despite the morning rain."
+                "en": "Park in the nearby lot and take advantage of the short walk to the town hall to quickly admire the architecture despite the morning rain.",
+                "fr": "Garez‑vous dans le parking à proximité et profitez de la courte marche jusqu’à la mairie pour admirer rapidement l’architecture malgré la pluie du matin."
               }
             },
             {
@@ -775,13 +857,15 @@
                 "de": "Museum für die Französische Revolution",
                 "hu": "Francia Forradalom Múzeuma",
                 "ro": "Muzeul Revoluției Franceze",
-                "en": "Museum of the French Revolution"
+                "en": "Museum of the French Revolution",
+                "fr": "Musée de la Révolution française"
               },
               "tip_4lang": {
                 "de": "Das Museum ist der perfekte Stopp bei Regen; genießen Sie die trockene, kulturelle Atmosphäre und lassen Sie sich Zeit in den Ausstellungen.",
                 "hu": "A múzeum a legjobb megálló esőben; élvezze a száraz, kulturális környezetet, és szánjon bőséges időt a kiállítások alapos megtekintésére.",
                 "ro": "Muzeul este oprirea perfectă pe ploaie; bucurați-vă de atmosfera culturală uscată și acordați-vă timp pentru a explora toate expozițiile.",
-                "en": "The museum is an ideal stop during a downpour; enjoy the dry, cultural atmosphere and take your time exploring the extensive indoor exhibits."
+                "en": "The museum is an ideal stop during a downpour; enjoy the dry, cultural atmosphere and take your time exploring the extensive indoor exhibits.",
+                "fr": "Le musée est un arrêt idéal pendant une averse ; profitez de l’atmosphère culturelle et sèche et prenez le temps d’explorer les riches expositions intérieures."
               }
             },
             {
@@ -789,13 +873,15 @@
                 "de": "Lac Luitel",
                 "hu": "Lac Luitel",
                 "ro": "Lacul Luitel",
-                "en": "Lac Luitel"
+                "en": "Lac Luitel",
+                "fr": "Lac Luitel"
               },
               "tip_4lang": {
                 "de": "Fahren Sie vorsichtig auf der kurvigen Bergstraße zum See, da Nebel und Nässe die Sicht einschränken können; genießen Sie die mystische Stimmung.",
                 "hu": "Vezessen óvatosan a tóhoz vezető kanyargós hegyi úton, mivel a köd és az eső ronthatja a látási viszonyokat; élvezze a hely misztikus hangulatát.",
                 "ro": "Conduceți cu prudență pe drumul montan șerpuitor spre lac, deoarece ceața și ploaia pot reduce vizibilitatea; admirați atmosfera mistică.",
-                "en": "Drive carefully on the winding mountain road to the lake, as mist and rain can reduce visibility; enjoy the mystical atmosphere of the wetland."
+                "en": "Drive carefully on the winding mountain road to the lake, as mist and rain can reduce visibility; enjoy the mystical atmosphere of the wetland.",
+                "fr": "Conduisez prudemment sur la route de montagne sinueuse vers le lac, car la brume et la pluie peuvent réduire la visibilité ; appréciez l’atmosphère mystique de la zone humide."
               }
             },
             {
@@ -803,13 +889,15 @@
                 "de": "Lac de Praver",
                 "hu": "Lac de Praver",
                 "ro": "Lacul de Praver",
-                "en": "Lac de Praver"
+                "en": "Lac de Praver",
+                "fr": "Lac de Praver"
               },
               "tip_4lang": {
                 "de": "Bleiben Sie bei starkem Regen kurz im Auto und genießen Sie den Blick auf die Bergspitzen, die sich dramatisch in den tiefhängenden Wolken verbergen.",
                 "hu": "Heves esőben maradjon az autóban, és csodálja meg a hegycsúcsokat, amelyek drámai módon bújnak meg az alacsonyan szálló, szürke felhők között.",
                 "ro": "În caz de ploaie torențială, rămâneți în mașină și admirați vârfurile munților care se ascund dramatic printre norii de joasă altitudine.",
-                "en": "During heavy rain, stay in the car and enjoy the view of the mountain peaks as they hide dramatically behind the low-hanging grey clouds."
+                "en": "During heavy rain, stay in the car and enjoy the view of the mountain peaks as they hide dramatically behind the low-hanging grey clouds.",
+                "fr": "Par forte pluie, restez dans la voiture et admirez la vue sur les sommets qui se cachent dramatiquement derrière les nuages bas et gris."
               }
             },
             {
@@ -817,13 +905,15 @@
                 "de": "Lac Mort",
                 "hu": "Lac Mort",
                 "ro": "Lac Mort",
-                "en": "Lac Mort"
+                "en": "Lac Mort",
+                "fr": "Lac Mort"
               },
               "tip_4lang": {
                 "de": "Nutzen Sie die Parkmöglichkeiten mit Seeblick, um die melancholische Schönheit des Sees im Regen zu bewundern, ohne nass zu werden.",
                 "hu": "Használja a tóra néző parkolóhelyeket, hogy a száraz autóból csodálhassa meg a tó melankolikus, eső áztatta szépségét a délutáni órákban.",
                 "ro": "Folosiți locurile de parcare cu vedere la lac pentru a admira frumusețea melancolică a apei sub ploaie, fără a părăsi confortul mașinii.",
-                "en": "Use the parking spots with a view of the water to admire the lake's melancholy beauty in the rain without needing to step outside."
+                "en": "Use the parking spots with a view of the water to admire the lake's melancholy beauty in the rain without needing to step outside.",
+                "fr": "Utilisez les places de parking avec vue sur l’eau pour admirer la beauté mélancolique du lac sous la pluie sans avoir à sortir à l’extérieur."
               }
             },
             {
@@ -831,13 +921,15 @@
                 "de": "Grand Lac de Laffrey",
                 "hu": "Grand Lac de Laffrey",
                 "ro": "Grand Lac de Laffrey",
-                "en": "Grand Lac de Laffrey"
+                "en": "Grand Lac de Laffrey",
+                "fr": "Grand Lac de Laffrey"
               },
               "tip_4lang": {
                 "de": "Achten Sie auf Spritzwasser von anderen Fahrzeugen auf der Hauptstraße und genießen Sie den weiten Blick auf den See unter dem grauen Himmel.",
                 "hu": "Ügyeljen a többi jármű által felcsapott vízre a főúton, és élvezze a tóra nyíló tágas kilátást a drámai szürke égbolt alatt.",
                 "ro": "Atenție la apa împroșcată de alte vehicule pe drumul principal și bucurați-vă de vederea vastă a lacului sub cerul cenușiu de iarnă.",
-                "en": "Watch out for spray from other vehicles on the main road and enjoy the expansive view of the lake under the dramatic grey rainy sky."
+                "en": "Watch out for spray from other vehicles on the main road and enjoy the expansive view of the lake under the dramatic grey rainy sky.",
+                "fr": "Faites attention aux projections des autres véhicules sur la route principale et profitez de la vaste vue du lac sous le ciel gris et orageux."
               }
             }
           ]
@@ -847,7 +939,8 @@
             "de": "Der frostige Morgen beginnt mit Scheibenkratzen, die Bergstraßen können glatt sein. Mittags bietet das Museum eine willkommene Aufwärmpause im historischen Ambiente. Nachmittags fahren wir zu den teils gefrorenen Seen, die im Winterlicht magisch glitzern. Da die Sonne bereits um 17:00 Uhr untergeht, genießen wir den frühen Abendhimmel über den verschneiten Gipfeln.",
             "hu": "A fagyos reggel jégkaparással indul, a hegyi utak csúszósak lehetnek. Délben a múzeum fűtött termei nyújtanak kellemes menedéket a hideg elől. Délután a részben befagyott tavakhoz autózunk, amelyek varázslatosan csillognak a téli fényben. Mivel 17 órakor lemegy a nap, a korai alkonyatot már a havas csúcsok felett csodálhatjuk meg.",
             "ro": "Dimineața geroasă începe cu curățarea parbrizului, drumurile montane putând fi alunecoase. La prânz, muzeul oferă o pauză de încălzire binevenită într-un cadru istoric. După-amiaza conducem spre lacurile parțial înghețate, care sclipesc magic în lumina iernii. Deoarece soarele apune la ora 17:00, admirăm amurgul peste vârfurile înzăpezite.",
-            "en": "The frosty morning starts with clearing ice from your windshield; mountain roads can be slick. At noon, the museum offers a welcome warming break in a historic setting. In the afternoon, drive to the partially frozen lakes that glisten magically in the winter light. As the sun sets at 5 PM, enjoy the early evening sky over the snow-capped peaks."
+            "en": "The frosty morning starts with clearing ice from your windshield; mountain roads can be slick. At noon, the museum offers a welcome warming break in a historic setting. In the afternoon, drive to the partially frozen lakes that glisten magically in the winter light. As the sun sets at 5 PM, enjoy the early evening sky over the snow-capped peaks.",
+            "fr": "La matinée givrée commence en nettoyant la glace de votre pare‑brise ; les routes de montagne peuvent être glissantes. À midi, le musée offre une pause chaleureuse dans un cadre historique. L’après‑midi, conduisez jusqu’aux lacs partiellement gelés qui brillent magiquement à la lumière hivernale. Le soleil se couche à 17 h, profitez du ciel de fin d’après‑midi au‑dessus des sommets enneigés."
           },
           "stops": [
             {
@@ -855,13 +948,15 @@
                 "de": "Rathaus von Vizille",
                 "hu": "Vizille Városháza",
                 "ro": "Primăria Vizille",
-                "en": "Vizille Town Hall"
+                "en": "Vizille Town Hall",
+                "fr": "Mairie de Vizille"
               },
               "tip_4lang": {
                 "de": "Vergewissern Sie sich, dass Ihr Auto winterfest ist und Frostschutzmittel hat, bevor Sie den Tag am frostigen Rathaus von Vizille starten.",
                 "hu": "Győződjön meg róla, hogy autója fel van készítve a télre és van benne fagyálló, mielőtt elkezdené a napot a fagyos Vizille városházájánál.",
                 "ro": "Asigurați-vă că mașina este echipată pentru iarnă și are antigel înainte de a începe ziua la primăria înghețată din Vizille.",
-                "en": "Ensure your car is winter-ready with proper antifreeze before starting your frosty morning journey at the Vizille Town Hall."
+                "en": "Ensure your car is winter-ready with proper antifreeze before starting your frosty morning journey at the Vizille Town Hall.",
+                "fr": "Assurez‑vous que votre voiture est prête pour l’hiver avec un antigel adapté avant de commencer votre trajet givré à la mairie de Vizille."
               }
             },
             {
@@ -869,13 +964,15 @@
                 "de": "Museum für die Französische Revolution",
                 "hu": "Francia Forradalom Múzeuma",
                 "ro": "Muzeul Revoluției Franceze",
-                "en": "Museum of the French Revolution"
+                "en": "Museum of the French Revolution",
+                "fr": "Musée de la Révolution française"
               },
               "tip_4lang": {
                 "de": "Genießen Sie die wohlige Wärme im Inneren des Schlosses und lassen Sie die Winterkälte draußen, während Sie die Kunstwerke bewundern.",
                 "hu": "Élvezze a kastély belső tereinek kellemes melegét, és hagyja kint a téli hideget, amíg a forradalmi műalkotásokban gyönyörködik.",
                 "ro": "Bucurați-vă de căldura primitoare din interiorul castelului și lăsați gerul de afară în timp ce admirați operele de artă istorică.",
-                "en": "Enjoy the cozy warmth inside the castle and leave the winter chill outside while you admire the revolutionary artworks on display."
+                "en": "Enjoy the cozy warmth inside the castle and leave the winter chill outside while you admire the revolutionary artworks on display.",
+                "fr": "Profitez de la chaleur confortable à l’intérieur du château et laissez le froid hivernal dehors tout en admirant les œuvres révolutionnaires exposées."
               }
             },
             {
@@ -883,13 +980,15 @@
                 "de": "Lac Luitel",
                 "hu": "Lac Luitel",
                 "ro": "Lacul Luitel",
-                "en": "Lac Luitel"
+                "en": "Lac Luitel",
+                "fr": "Lac Luitel"
               },
               "tip_4lang": {
                 "de": "Prüfen Sie die Straßenbedingungen vor der Auffahrt, da der See hoch liegt und oft verschneite oder vereiste Zufahrten im Winter hat.",
                 "hu": "Ellenőrizze az útviszonyokat az indulás előtt, mivel a tó magasan fekszik, és a hozzá vezető utak télen gyakran havasak vagy jegesek lehetnek.",
                 "ro": "Verificați starea drumurilor înainte de plecare, deoarece lacul se află la înălțime și accesul poate fi înzăpezit sau înghețat iarna.",
-                "en": "Check road conditions before heading up, as the lake is at a high elevation and access roads are often snowy or icy during winter."
+                "en": "Check road conditions before heading up, as the lake is at a high elevation and access roads are often snowy or icy during winter.",
+                "fr": "Vérifiez l’état des routes avant de monter, car le lac est en haute altitude et les accès sont souvent enneigés ou verglacés en hiver."
               }
             },
             {
@@ -897,13 +996,15 @@
                 "de": "Lac de Praver",
                 "hu": "Lac de Praver",
                 "ro": "Lacul de Praver",
-                "en": "Lac de Praver"
+                "en": "Lac de Praver",
+                "fr": "Lac de Praver"
               },
               "tip_4lang": {
                 "de": "Genießen Sie den Blick auf die schneebedeckten Gipfel der Belledonne-Kette, die sich im klaren, kalten Wasser des Sees spiegeln.",
                 "hu": "Csodálja meg a Belledonne-hegység hófödte csúcsainak látványát, amelyek visszatükröződnek a tó tiszta, fagyos víztükrében.",
                 "ro": "Admirați vederea vârfurilor înzăpezite ale masivului Belledonne care se oglindesc în apa limpede și rece a lacului montan.",
-                "en": "Enjoy the stunning view of the snow-capped Belledonne peaks reflecting in the clear, freezing waters of this mountain lake."
+                "en": "Enjoy the stunning view of the snow-capped Belledonne peaks reflecting in the clear, freezing waters of this mountain lake.",
+                "fr": "Appréciez la vue spectaculaire des sommets de la chaîne de Belledonne enneigés qui se reflètent dans les eaux claires et glacées de ce lac de montagne."
               }
             },
             {
@@ -911,13 +1012,15 @@
                 "de": "Lac Mort",
                 "hu": "Lac Mort",
                 "ro": "Lac Mort",
-                "en": "Lac Mort"
+                "en": "Lac Mort",
+                "fr": "Lac Mort"
               },
               "tip_4lang": {
                 "de": "Der See wirkt im Winter besonders friedlich; achten Sie beim Parken auf gefrorene Pfützen und genießen Sie die stille Eislandschaft.",
                 "hu": "A tó télen különösen békés arcát mutatja; parkoláskor ügyeljen a jeges foltokra, és élvezze a csendes, fagyos táj látványát.",
                 "ro": "Lacul pare deosebit de liniștit iarna; atenție la petele de gheață când parcați și bucurați-vă de peisajul hibernal tăcut.",
-                "en": "The lake appears especially peaceful in winter; watch for icy patches when parking and enjoy the silent, frozen landscape of the area."
+                "en": "The lake appears especially peaceful in winter; watch for icy patches when parking and enjoy the silent, frozen landscape of the area.",
+                "fr": "Le lac paraît particulièrement paisible en hiver ; faites attention aux plaques de glace en vous garant et savourez le paysage silencieux et gelé des environs."
               }
             },
             {
@@ -925,13 +1028,15 @@
                 "de": "Grand Lac de Laffrey",
                 "hu": "Grand Lac de Laffrey",
                 "ro": "Grand Lac de Laffrey",
-                "en": "Grand Lac de Laffrey"
+                "en": "Grand Lac de Laffrey",
+                "fr": "Grand Lac de Laffrey"
               },
               "tip_4lang": {
                 "de": "Beenden Sie Ihren Besuch vor 17:00 Uhr, um die Rückfahrt bei Tageslicht zu machen, bevor die Temperaturen auf dem Hochplateau sinken.",
                 "hu": "Fejezze be a látogatást 17 óra előtt, hogy még nappali fényben indulhasson vissza, mielőtt a hőmérséklet hirtelen leesne a fennsíkon.",
                 "ro": "Încheiați vizita înainte de ora 17:00 pentru a face drumul de întoarcere pe lumină, înainte ca temperaturile să scadă brusc pe platou.",
-                "en": "Plan to leave before 5 PM to ensure a safe drive back in daylight before temperatures drop sharply on the high plateau."
+                "en": "Plan to leave before 5 PM to ensure a safe drive back in daylight before temperatures drop sharply on the high plateau.",
+                "fr": "Prévoyez de partir avant 17 h pour assurer un retour de jour sûr avant que les températures ne chutent fortement sur le haut plateau."
               }
             }
           ]

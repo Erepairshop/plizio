@@ -21,7 +21,8 @@
             "de": "Mairie de Gisors (Rathaus)",
             "hu": "Mairie de Gisors (Városháza)",
             "ro": "Mairie de Gisors (Primăria)",
-            "en": "Mairie de Gisors (Town Hall)"
+            "en": "Mairie de Gisors (Town Hall)",
+            "fr": "Mairie de Gisors"
           },
           "coords": [
             1.777806,
@@ -36,7 +37,8 @@
             "de": "Bewundern Sie die Architektur des Rathauses, die den historischen Charme von Gisors einfängt, und beginnen Sie Ihren Spaziergang von diesem zentralen Platz aus.",
             "hu": "Csodálja meg a helyi városháza lenyűgöző építészetét, amely tökéletesen tükrözi Gisors történelmi báját, és induljon el egy reggeli sétára a központi térről.",
             "ro": "Admirați arhitectura superbă a primăriei locale, care surprinde perfect farmecul istoric al orașului Gisors, și începeți plimbarea matinală din piața sa centrală.",
-            "en": "Admire the beautiful architecture of the local town hall, which perfectly captures the historic charm of Gisors, and start your morning walk from its central square."
+            "en": "Admire the beautiful architecture of the local town hall, which perfectly captures the historic charm of Gisors, and start your morning walk from its central square.",
+            "fr": "Admirez la belle architecture de l’hôtel de ville local, qui capture parfaitement le charme historique de Gisors, et commencez votre promenade matinale depuis sa place centrale."
           }
         },
         {
@@ -44,7 +46,8 @@
             "de": "Collégiale Saint-Gervais-Saint-Protais",
             "hu": "Saint-Gervais-Saint-Protais Társaskáptalan",
             "ro": "Biserica Colegială Saint-Gervais-Saint-Protais",
-            "en": "Collegiate Church of Saint-Gervais-Saint-Protais"
+            "en": "Collegiate Church of Saint-Gervais-Saint-Protais",
+            "fr": "Collégiale Saint-Gervais-Saint-Protais"
           },
           "coords": [
             1.775726,
@@ -59,7 +62,8 @@
             "de": "Bestaunen Sie die gotischen und Renaissance-Stile dieser Stiftskirche, aber kommen Sie frühzeitig, um die Menschenmassen zu meiden und die Glasfenster zu genießen.",
             "hu": "Csodálja meg a gótikus és reneszánsz stílusok keveredését ebben a lenyűgöző templomban, de érkezzen korán, hogy elkerülje a tömeget és élvezze az üvegablakokat.",
             "ro": "Minunați-vă de amestecul de stiluri gotic și renascentist în această biserică impresionantă, dar asigurați-vă că ajungeți devreme pentru a admira vitraliile în liniște.",
-            "en": "Marvel at the blend of Gothic and Renaissance styles in this stunning collegiate church, but make sure to arrive early to avoid the crowds and fully enjoy the stained glass."
+            "en": "Marvel at the blend of Gothic and Renaissance styles in this stunning collegiate church, but make sure to arrive early to avoid the crowds and fully enjoy the stained glass.",
+            "fr": "Émerveillez-vous du mélange de styles gothique et Renaissance de cette superbe collégiale, mais arrivez tôt pour éviter la foule et profiter pleinement des vitraux."
           }
         },
         {
@@ -67,7 +71,8 @@
             "de": "Monument Général de Blanmont",
             "hu": "General de Blanmont Emlékmű",
             "ro": "Monumentul Generalului de Blanmont",
-            "en": "General de Blanmont Monument"
+            "en": "General de Blanmont Monument",
+            "fr": "Monument du général de Blanmont"
           },
           "coords": [
             1.772596,
@@ -82,7 +87,8 @@
             "de": "Entdecken Sie die faszinierende Geschichte dieses historischen Denkmals und nehmen Sie sich Zeit für die Gedenktafeln, die seine militärischen Beiträge detailliert beschreiben.",
             "hu": "Fedezze fel e figyelemre méltó történelmi emlékműhöz fűződő lenyűgöző történetet, és szánjon egy percet az ő katonai érdemeit részletező környező emléktáblák elolvasására.",
             "ro": "Descoperiți istoria fascinantă legată de acest monument istoric notabil și faceți-vă timp să citiți plăcile din jur care detaliază contribuțiile sale militare semnificative.",
-            "en": "Discover the fascinating history tied to this notable historical monument, and take a moment to read the surrounding plaques that detail his significant military contributions."
+            "en": "Discover the fascinating history tied to this notable historical monument, and take a moment to read the surrounding plaques that detail his significant military contributions.",
+            "fr": "Découvrez l’histoire fascinante liée à ce monument historique notable, et prenez un moment pour lire les plaques qui détaillent ses importantes contributions militaires."
           }
         },
         {
@@ -90,7 +96,8 @@
             "de": "Château de Gisors",
             "hu": "Château de Gisors",
             "ro": "Château de Gisors",
-            "en": "Château de Gisors"
+            "en": "Château de Gisors",
+            "fr": "Château de Gisors"
           },
           "coords": [
             1.7745,
@@ -105,7 +112,8 @@
             "de": "Erkunden Sie die Ruinen dieser legendären Templerfestung und erklimmen Sie die alte Motte, um einen spektakulären Panoramablick auf die gesamte umliegende Landschaft zu genießen.",
             "hu": "Fedezze fel a templomos lovagokhoz kötődő legendás erőd romjait, és másszon fel az ősi dombra, ahonnan látványos panoráma nyílik az egész környező festői vidékre.",
             "ro": "Explorați ruinele acestei fortărețe legendare legate de Cavalerii Templieri și urcați pe movila antică pentru o vedere panoramică spectaculoasă a întregului peisaj înconjurător.",
-            "en": "Explore the ruins of this legendary fortress linked to the Knights Templar, and climb the ancient motte for a spectacular panoramic view of the entire surrounding countryside."
+            "en": "Explore the ruins of this legendary fortress linked to the Knights Templar, and climb the ancient motte for a spectacular panoramic view of the entire surrounding countryside.",
+            "fr": "Explorez les ruines de cette forteresse légendaire liée aux Templiers, et montez sur la motte ancienne pour une vue panoramique spectaculaire de la campagne environnante."
           }
         },
         {
@@ -113,7 +121,8 @@
             "de": "Leprosorium Saint-Lazare",
             "hu": "Saint-Lazare Lepratelep",
             "ro": "Leprozeria Saint-Lazare",
-            "en": "Saint-Lazare Leprosarium"
+            "en": "Saint-Lazare Leprosarium",
+            "fr": "Léproserie Saint-Lazare"
           },
           "coords": [
             1.7636,
@@ -128,7 +137,8 @@
             "de": "Besuchen Sie eines der seltenen erhaltenen mittelalterlichen Leprosorien, um die damalige Gesundheitsversorgung zu verstehen, und prüfen Sie vorab die Öffnungszeiten.",
             "hu": "Látogasson el a ritka fennmaradt középkori lepratelepek egyikébe, hogy megértse a korabeli egészségügyet, és ellenőrizze a látogatóközpont nyitvatartását a belső térhez.",
             "ro": "Vizitați una dintre rarele leprozerii medievale care au supraviețuit pentru a înțelege asistența medicală de atunci și verificați programul pentru accesul la interioare.",
-            "en": "Visit one of the rare surviving medieval leprosariums to understand medieval healthcare, and check the local visitor center schedule for access to its preserved interiors."
+            "en": "Visit one of the rare surviving medieval leprosariums to understand medieval healthcare, and check the local visitor center schedule for access to its preserved interiors.",
+            "fr": "Visitez l’une des rares léproseries médiévales survivantes pour comprendre les soins médiévaux, et consultez le programme du centre d’accueil pour accéder à ses intérieurs préservés."
           }
         }
       ],
@@ -136,7 +146,8 @@
         "de": "Der Morgen beginnt an der majestätischen Mairie, bevor Sie die beeindruckende Architektur der Collégiale bewundern. Die Mittagszeit lädt zu einem Spaziergang zum Denkmal des Generals de Blanmont ein. Der Nachmittag ist dem legendären Château de Gisors mit seinem Panoramablick von der alten Motte gewidmet. Der Abend bricht am geschichtsträchtigen Leprosorium Saint-Lazare entspannt an.",
         "hu": "A reggel a fenséges Mairie-nél kezdődik, mielőtt megcsodálná a Collégiale lenyűgöző építészetét. A délidő egy sétára csábít de Blanmont tábornok emlékműve felé. A délutánt a legendás Château de Gisors-nak szentelik, ahonnan panorámás kilátás nyílik az ősi dombról. Az este a mélyen történelmi Saint-Lazare lepratelepnél köszönt ránk, lezárva a napot.",
         "ro": "Dimineața începe la maiestuoasa Mairie, înainte de a admira arhitectura uimitoare a Collégiale. Amiaza vă invită la o plimbare spre monumentul generalului de Blanmont. După-amiaza este dedicată legendarului Château de Gisors, cu vedere panoramică de pe movila sa antică. Seara coboară la leprozeria istorică Saint-Lazare, încheind o zi de neuitat.",
-        "en": "Morning starts at the majestic Mairie, setting a historic tone before admiring the stunning architecture of the Collégiale. Midday invites a stroll towards the monument of General de Blanmont, connecting you to local military history. Afternoon is dedicated to the legendary Château de Gisors, with panoramic views from its ancient motte. Evening falls at the deeply historic Saint-Lazare Leprosarium."
+        "en": "Morning starts at the majestic Mairie, setting a historic tone before admiring the stunning architecture of the Collégiale. Midday invites a stroll towards the monument of General de Blanmont, connecting you to local military history. Afternoon is dedicated to the legendary Château de Gisors, with panoramic views from its ancient motte. Evening falls at the deeply historic Saint-Lazare Leprosarium.",
+        "fr": "La matinée commence à la majestueuse mairie, donnant un ton historique avant d’admirer la magnifique collégiale. Midi invite à une promenade vers le monument du général de Blanmont, vous reliant à l’histoire militaire locale. L’après-midi est consacrée au légendaire château de Gisors, avec des vues panoramiques depuis sa motte ancienne. La soirée tombe à la profondément historique léproserie Saint-Lazare."
       },
       "variants": {
         "rainy": {
@@ -144,7 +155,8 @@
             "de": "Morgens suchen wir Schutz unter den Arkaden des Rathauses, während der Regen die historischen Fassaden in sanftes Licht taucht. Mittags bietet die Stiftskirche einen trockenen Ort für stille Bewunderung. Nachmittags wirken die nebligen Burgruinen besonders mystisch, auch wenn die Wege rutschig sind. Abends spiegeln sich die Lichter der Stadt in den Pfützen und schaffen eine romantische Atmosphäre.",
             "hu": "Reggel a városháza bejárata alatt keresünk menedéket, miközben az eső lemossa a történelmi homlokzatokat. Délben a monumentális templom belső tere nyújt száraz helyszínt a nézelődéshez. Délután a ködös várromok különösen misztikus látványt nyújtanak, még ha az utak csúszósak is. Este a város fényei megcsillannak a tócsákban, ami igazán különleges, romantikus hangulatot áraszt.",
             "ro": "Dimineața căutăm adăpost sub arcadele primăriei, în timp ce ploaia spală fațadele istorice. La prânz, interiorul bisericii oferă un loc uscat pentru admirație silențioasă. După-amiaza, ruinele castelului în ceață par deosebit de mistice, deși potecile sunt alunecoase. Seara, luminile orașului se reflectă în bălți, creând o atmosferă romantică și plină de farmec local.",
-            "en": "In the morning, we seek shelter under the town hall's entrance as the rain refreshes the historic facades. At noon, the collegiate church provides a grand, dry sanctuary for exploration. Afternoon brings a mystical atmosphere to the misty castle ruins, despite the slippery paths. By evening, the city lights shimmer in the puddles, creating a unique and romantic urban landscape."
+            "en": "In the morning, we seek shelter under the town hall's entrance as the rain refreshes the historic facades. At noon, the collegiate church provides a grand, dry sanctuary for exploration. Afternoon brings a mystical atmosphere to the misty castle ruins, despite the slippery paths. By evening, the city lights shimmer in the puddles, creating a unique and romantic urban landscape.",
+            "fr": "Le matin, nous cherchons refuge sous le porche de la mairie tandis que la pluie rafraîchit les façades historiques. À midi, la collégiale offre un grand sanctuaire sec pour explorer. L’après-midi apporte une atmosphère mystique aux ruines du château dans la brume, malgré les sentiers glissants. Le soir, les lumières de la ville scintillent dans les flaques, créant un paysage urbain unique et romantique."
           },
           "stops": [
             {
@@ -152,13 +164,15 @@
                 "de": "Mairie de Gisors (Rathaus)",
                 "hu": "Mairie de Gisors (Városháza)",
                 "ro": "Mairie de Gisors (Primăria)",
-                "en": "Mairie de Gisors (Town Hall)"
+                "en": "Mairie de Gisors (Town Hall)",
+                "fr": "Mairie de Gisors"
               },
               "tip_5lang": {
                 "de": "Bewundern Sie die Fassade vom Schutz des Eingangs aus; die nassen Pflastersteine bieten tolle Fotomotive, aber tragen Sie unbedingt wasserfeste Schuhe.",
                 "hu": "Csodálja meg a homlokzatot a bejárat védelméből; a vizes macskakövek remek fotótémát adnak, de mindenképpen viseljen vízálló cipőt a séta során.",
                 "ro": "Admirați fațada din protecția intrării; pavajul umed oferă oportunități foto excelente, dar asigurați-vă că purtați încălțăminte impermeabilă.",
-                "en": "Admire the facade from the shelter of the entrance; the wet cobblestones offer great photo opportunities, but be sure to wear waterproof shoes."
+                "en": "Admire the facade from the shelter of the entrance; the wet cobblestones offer great photo opportunities, but be sure to wear waterproof shoes.",
+                "fr": "Admirez la façade depuis l’abri du porche ; les pavés mouillés offrent de belles opportunités photographiques, mais portez des chaussures imperméables."
               }
             },
             {
@@ -166,13 +180,15 @@
                 "de": "Collégiale Saint-Gervais-Saint-Protais",
                 "hu": "Saint-Gervais-Saint-Protais Társaskáptalan",
                 "ro": "Biserica Colegială Saint-Gervais-Saint-Protais",
-                "en": "Collegiate Church of Saint-Gervais-Saint-Protais"
+                "en": "Collegiate Church of Saint-Gervais-Saint-Protais",
+                "fr": "Collégiale Saint-Gervais-Saint-Protais"
               },
               "tip_5lang": {
                 "de": "Dies ist der perfekte Ort, um den Regenschauer auszusitzen; genießen Sie die prächtige Innenausstattung und achten Sie auf die Akustik des Regens.",
                 "hu": "Ez a tökéletes hely az eső elöli menedékre; élvezze a pazar belső teret és figyelje meg a kinti eső kopogásának különleges akusztikáját.",
                 "ro": "Acesta este locul perfect pentru a aștepta trecerea ploii; bucurați-vă de interiorul somptuos și observați acustica specială a picăturilor de afară.",
-                "en": "This is the perfect place to wait out a downpour; enjoy the lavish interior and notice the unique acoustics of the rain hitting the roof."
+                "en": "This is the perfect place to wait out a downpour; enjoy the lavish interior and notice the unique acoustics of the rain hitting the roof.",
+                "fr": "C’est l’endroit idéal pour attendre la fin d’une averse ; profitez de l’intérieur somptueux et remarquez l’acoustique particulière de la pluie frappant le toit."
               }
             },
             {
@@ -180,13 +196,15 @@
                 "de": "Monument Général de Blanmont",
                 "hu": "General de Blanmont Emlékmű",
                 "ro": "Monumentul Generalului de Blanmont",
-                "en": "General de Blanmont Monument"
+                "en": "General de Blanmont Monument",
+                "fr": "Monument du général de Blanmont"
               },
               "tip_5lang": {
                 "de": "Ein kurzer Stopp unter dem Regenschirm reicht hier völlig aus; die Statue wirkt im grauen Licht besonders dramatisch und geschichtsträchtig.",
                 "hu": "Egy rövid megálló az esernyő alatt itt bőven elegendő; a szobor a szürke fényben különösen drámai és történelmi hangulatot áraszt a látogatóknak.",
                 "ro": "O scurtă oprire sub umbrelă este suficientă aici; statuia pare deosebit de dramatică în lumina gri, emanând o atmosferă plină de istorie.",
-                "en": "A brief stop under your umbrella is plenty here; the statue looks particularly dramatic in the grey light, evoking a strong sense of history."
+                "en": "A brief stop under your umbrella is plenty here; the statue looks particularly dramatic in the grey light, evoking a strong sense of history.",
+                "fr": "Une brève halte sous votre parapluie suffit ici ; la statue paraît particulièrement dramatique sous la lumière grise, évoquant un fort sentiment d’histoire."
               }
             },
             {
@@ -194,13 +212,15 @@
                 "de": "Château de Gisors",
                 "hu": "Château de Gisors",
                 "ro": "Château de Gisors",
-                "en": "Château de Gisors"
+                "en": "Château de Gisors",
+                "fr": "Château de Gisors"
               },
               "tip_5lang": {
                 "de": "Die Burgmauern bieten begrenzten Schutz, also bleiben Sie auf den befestigten Wegen, um Schlamm zu vermeiden; die Aussicht ist herrlich neblig.",
                 "hu": "A várfalak korlátozott védelmet nyújtanak, így maradjon a kövezett utakon a sár elkerülése végett; a kilátás ilyenkor csodásan ködös.",
                 "ro": "Zidurile castelului oferă protecție limitată, așa că rămâneți pe potecile pavate pentru a evita noroiul; priveliștea este superb de cețoasă.",
-                "en": "The castle walls offer limited shelter, so stay on the paved paths to avoid mud; the view is wonderfully misty and atmospheric today."
+                "en": "The castle walls offer limited shelter, so stay on the paved paths to avoid mud; the view is wonderfully misty and atmospheric today.",
+                "fr": "Les remparts offrent un abri limité, restez donc sur les chemins pavés pour éviter la boue ; la vue est merveilleusement brumeuse et atmosphérique aujourd'hui."
               }
             },
             {
@@ -208,13 +228,15 @@
                 "de": "Leprosorium Saint-Lazare",
                 "hu": "Saint-Lazare Lepratelep",
                 "ro": "Leprozeria Saint-Lazare",
-                "en": "Saint-Lazare Leprosarium"
+                "en": "Saint-Lazare Leprosarium",
+                "fr": "Léproserie Saint-Lazare"
               },
               "tip_5lang": {
                 "de": "Die historischen Gebäude wirken im Regen einsam und authentisch; nutzen Sie die überdachten Bereiche der Kapelle, um trocken zu bleiben.",
                 "hu": "A történelmi épületek az esőben magányosnak és hitelesnek tűnnek; használja a kápolna fedett részeit, hogy száraz maradjon a látogatás alatt.",
                 "ro": "Clădirile istorice par solitare și autentice în ploaie; folosiți zonele acoperite ale capelei pentru a rămâne uscat în timpul vizitei.",
-                "en": "The historic buildings look solitary and authentic in the rain; use the covered areas of the chapel to stay dry while you explore the site."
+                "en": "The historic buildings look solitary and authentic in the rain; use the covered areas of the chapel to stay dry while you explore the site.",
+                "fr": "Les bâtiments historiques paraissent solitaires et authentiques sous la pluie ; utilisez les parties couvertes de la chapelle pour rester au sec pendant votre visite."
               }
             }
           ]
@@ -224,7 +246,8 @@
             "de": "Ein frostiger Morgen beginnt am Rathaus, wo wir uns warm einpacken müssen. Mittags bietet die Stiftskirche eine kühle, aber windgeschützte Pause voller Kunstschätze. Nachmittags besuchen wir die Burg, bevor das Tageslicht gegen 17:00 Uhr schwindet. Der frühe Sonnenuntergang färbt den Winterhimmel über den Türmen in sanfte Pastelltöne, während wir den Tag gemütlich ausklingen lassen.",
             "hu": "Fagyos reggel indul a városházánál, ahol érdemes melegen felöltözni. Délben a monumentális templom hűvös, de szélvédett pihenőt kínál a műalkotások között. Délután meglátogatjuk a várat, mielőtt a napfény 17:00 körül végleg eltűnik. A korai naplemente pasztellszínekbe öltözteti a téli eget a tornyok felett, mialatt a napot kellemesen zárjuk.",
             "ro": "O dimineață geroasă începe la primărie, unde trebuie să ne îmbrăcăm bine. La prânz, biserica oferă o pauză răcoroasă, dar ferită de vânt, printre comorile de artă. După-amiaza vizităm castelul înainte ca lumina zilei să dispară în jur de ora 17:00. Apusul timpuriu colorează cerul de iarnă deasupra turnurilor în tonuri pastelate, în timp ce încheiem ziua.",
-            "en": "A frosty morning begins at the town hall, where warm layers are essential. At noon, the church offers a cool but wind-sheltered break among artistic treasures. In the afternoon, we visit the castle before daylight fades around 5 PM. The early sunset paints the winter sky over the towers in soft pastel tones as we bring our exploration to a cozy close."
+            "en": "A frosty morning begins at the town hall, where warm layers are essential. At noon, the church offers a cool but wind-sheltered break among artistic treasures. In the afternoon, we visit the castle before daylight fades around 5 PM. The early sunset paints the winter sky over the towers in soft pastel tones as we bring our exploration to a cozy close.",
+            "fr": "Une matinée glaciale commence à la mairie, où des couches chaudes sont indispensables. À midi, l'église offre une pause fraîche mais abritée du vent parmi des trésors artistiques. L'après‑midi, nous visitons le château avant que la lumière ne baisse vers 17 h. Le coucher de soleil précoce peint le ciel hivernal sur les tours de tons pastel doux alors que nous terminons notre exploration dans une ambiance chaleureuse."
           },
           "stops": [
             {
@@ -232,13 +255,15 @@
                 "de": "Mairie de Gisors (Rathaus)",
                 "hu": "Mairie de Gisors (Városháza)",
                 "ro": "Mairie de Gisors (Primăria)",
-                "en": "Mairie de Gisors (Town Hall)"
+                "en": "Mairie de Gisors (Town Hall)",
+                "fr": "Mairie de Gisors (Town Hall)"
               },
               "tip_5lang": {
                 "de": "Der Platz kann im Winter recht zugig sein; starten Sie Ihren Rundgang mit einem warmen Getränk und achten Sie auf vereiste Stufen am Eingang.",
                 "hu": "A tér télen elég huzatos lehet; kezdje a körutat egy meleg itallal, és ügyeljen a bejáratnál az esetlegesen jeges lépcsőfokokra.",
                 "ro": "Piața poate fi destul de vântoasă iarna; începeți turul cu o băutură caldă și aveți grijă la treptele înghețate de la intrare.",
-                "en": "The square can be quite drafty in winter; start your tour with a hot drink and watch out for icy steps at the entrance."
+                "en": "The square can be quite drafty in winter; start your tour with a hot drink and watch out for icy steps at the entrance.",
+                "fr": "La place peut être assez venteuse en hiver ; commencez votre visite par une boisson chaude et attention aux marches verglacées à l'entrée."
               }
             },
             {
@@ -246,13 +271,15 @@
                 "de": "Collégiale Saint-Gervais-Saint-Protais",
                 "hu": "Saint-Gervais-Saint-Protais Társaskáptalan",
                 "ro": "Biserica Colegială Saint-Gervais-Saint-Protais",
-                "en": "Collegiate Church of Saint-Gervais-Saint-Protais"
+                "en": "Collegiate Church of Saint-Gervais-Saint-Protais",
+                "fr": "Collégiale Saint‑Gervais‑Saint‑Protais"
               },
               "tip_5lang": {
                 "de": "In der Kirche ist es oft kälter als draußen, also behalten Sie den Mantel an; die bunten Glasfenster wirken im Winterlicht besonders klar.",
                 "hu": "A templomban gyakran hidegebb van, mint kint, ezért hagyja magán a kabátot; a színes üvegablakok a téli fényben különösen tisztának tűnnek.",
                 "ro": "În biserică este adesea mai frig decât afară, așa că păstrați haina pe dvs.; vitraliile colorate par deosebit de clare în lumina iernii.",
-                "en": "It's often colder inside the church than outside, so keep your coat on; the stained glass windows look remarkably clear in the winter light."
+                "en": "It's often colder inside the church than outside, so keep your coat on; the stained glass windows look remarkably clear in the winter light.",
+                "fr": "Il fait souvent plus froid à l'intérieur de l'église qu'à l'extérieur, gardez votre manteau ; les vitraux paraissent remarquablement nets dans la lumière hivernale."
               }
             },
             {
@@ -260,13 +287,15 @@
                 "de": "Monument Général de Blanmont",
                 "hu": "General de Blanmont Emlékmű",
                 "ro": "Monumentul Generalului de Blanmont",
-                "en": "General de Blanmont Monument"
+                "en": "General de Blanmont Monument",
+                "fr": "Monument du général de Blanmont"
               },
               "tip_5lang": {
                 "de": "Ein schneller Stopp ist ratsam, da der Wind hier ungeschützt wehen kann; die umliegenden kahlen Bäume geben den Blick auf die Stadt frei.",
                 "hu": "Egy gyors megálló tanácsos, mivel a szél itt akadálytalanul fújhat; a környező kopasz fák viszont szabadabb kilátást engednek a városra.",
                 "ro": "O oprire rapidă este recomandată, deoarece vântul poate bate puternic aici; copacii golași din jur oferă însă o vedere mai clară spre oraș.",
-                "en": "A quick stop is advisable as the wind can blow unchecked here; however, the bare trees allow for a clearer view of the surrounding town."
+                "en": "A quick stop is advisable as the wind can blow unchecked here; however, the bare trees allow for a clearer view of the surrounding town.",
+                "fr": "Un arrêt rapide est conseillé car le vent peut souffler sans frein ici ; cependant, les arbres dépouillés laissent une vue plus dégagée sur la ville alentour."
               }
             },
             {
@@ -274,13 +303,15 @@
                 "de": "Château de Gisors",
                 "hu": "Château de Gisors",
                 "ro": "Château de Gisors",
-                "en": "Château de Gisors"
+                "en": "Château de Gisors",
+                "fr": "Château de Gisors"
               },
               "tip_5lang": {
                 "de": "Besuchen Sie die Burg vor 16:30 Uhr, um das letzte Tageslicht zu nutzen; die Steinmauern strahlen eine beeindruckende winterliche Stille aus.",
                 "hu": "Látogasson el a várba 16:30 előtt, hogy kihasználja az utolsó fényeket; a kőfalak lenyűgöző téli csendet és nyugalmat árasztanak magukból.",
                 "ro": "Vizitați castelul înainte de ora 16:30 pentru a profita de ultima lumină; zidurile de piatră emană o liniște hibernală impresionantă.",
-                "en": "Visit the castle before 4:30 PM to catch the last rays of light; the stone walls radiate an impressive and peaceful winter silence."
+                "en": "Visit the castle before 4:30 PM to catch the last rays of light; the stone walls radiate an impressive and peaceful winter silence.",
+                "fr": "Visitez le château avant 16 h 30 pour profiter des dernières lueurs ; les murs de pierre dégagent un silence hivernal impressionnant et paisible."
               }
             },
             {
@@ -288,13 +319,15 @@
                 "de": "Leprosorium Saint-Lazare",
                 "hu": "Saint-Lazare Lepratelep",
                 "ro": "Leprozeria Saint-Lazare",
-                "en": "Saint-Lazare Leprosarium"
+                "en": "Saint-Lazare Leprosarium",
+                "fr": "Léproserie Saint-Lazare"
               },
               "tip_5lang": {
                 "de": "Die Anlage wirkt in der Wintersonne sehr friedlich; achten Sie auf die frühen Öffnungszeiten und ziehen Sie sich für den Außenbereich warm an.",
                 "hu": "A komplexum nagyon békésnek tűnik a téli napsütésben; ügyeljen a korai zárásra, és öltözzön fel melegen a kültéri részek bejárásához.",
                 "ro": "Complexul pare foarte pașnic în soarele de iarnă; atenție la orele de închidere timpurii și îmbrăcați-vă gros pentru explorarea exteriorului.",
-                "en": "The complex looks very peaceful in the winter sun; be mindful of early closing times and dress warmly for exploring the outdoor areas."
+                "en": "The complex looks very peaceful in the winter sun; be mindful of early closing times and dress warmly for exploring the outdoor areas.",
+                "fr": "L'ensemble paraît très paisible au soleil d'hiver ; tenez compte des horaires de fermeture anticipée et habillez‑vous chaudement pour explorer les espaces extérieurs."
               }
             }
           ]
@@ -314,7 +347,8 @@
             "de": "Mairie de Gisors (Rathaus)",
             "hu": "Mairie de Gisors (Városháza)",
             "ro": "Mairie de Gisors (Primăria)",
-            "en": "Mairie de Gisors (Town Hall)"
+            "en": "Mairie de Gisors (Town Hall)",
+            "fr": "Mairie de Gisors (Town Hall)"
           },
           "coords": [
             1.777806,
@@ -329,7 +363,8 @@
             "de": "Bewundern Sie die Architektur des Rathauses, die den historischen Charme von Gisors einfängt, und beginnen Sie Ihren Spaziergang von diesem zentralen Platz aus.",
             "hu": "Csodálja meg a helyi városháza lenyűgöző építészetét, amely tökéletesen tükrözi Gisors történelmi báját, és induljon el egy reggeli sétára a központi térről.",
             "ro": "Admirați arhitectura superbă a primăriei locale, care surprinde perfect farmecul istoric al orașului Gisors, și începeți plimbarea matinală din piața sa centrală.",
-            "en": "Admire the beautiful architecture of the local town hall, which perfectly captures the historic charm of Gisors, and start your morning walk from its central square."
+            "en": "Admire the beautiful architecture of the local town hall, which perfectly captures the historic charm of Gisors, and start your morning walk from its central square.",
+            "fr": "Admirez la belle architecture de la mairie locale, qui capture parfaitement le charme historique de Gisors, et commencez votre promenade matinale depuis sa place centrale."
           }
         },
         {
@@ -337,7 +372,8 @@
             "de": "Collégiale Saint-Gervais-Saint-Protais",
             "hu": "Saint-Gervais-Saint-Protais Társaskáptalan",
             "ro": "Biserica Colegială Saint-Gervais-Saint-Protais",
-            "en": "Collegiate Church of Saint-Gervais-Saint-Protais"
+            "en": "Collegiate Church of Saint-Gervais-Saint-Protais",
+            "fr": "Collégiale Saint‑Gervais‑Saint‑Protais"
           },
           "coords": [
             1.775726,
@@ -352,7 +388,8 @@
             "de": "Bestaunen Sie die gotischen und Renaissance-Stile dieser Stiftskirche, aber kommen Sie frühzeitig, um die Menschenmassen zu meiden und die Glasfenster zu genießen.",
             "hu": "Csodálja meg a gótikus és reneszánsz stílusok keveredését ebben a lenyűgöző templomban, de érkezzen korán, hogy elkerülje a tömeget és élvezze az üvegablakokat.",
             "ro": "Minunați-vă de amestecul de stiluri gotic și renascentist în această biserică impresionantă, dar asigurați-vă că ajungeți devreme pentru a admira vitraliile în liniște.",
-            "en": "Marvel at the blend of Gothic and Renaissance styles in this stunning collegiate church, but make sure to arrive early to avoid the crowds and fully enjoy the stained glass."
+            "en": "Marvel at the blend of Gothic and Renaissance styles in this stunning collegiate church, but make sure to arrive early to avoid the crowds and fully enjoy the stained glass.",
+            "fr": "Émerveillez‑vous du mélange de styles gothique et Renaissance dans cette superbe collégiale, mais veillez à arriver tôt pour éviter la foule et profiter pleinement des vitraux."
           }
         },
         {
@@ -360,7 +397,8 @@
             "de": "Château de Gisors",
             "hu": "Château de Gisors",
             "ro": "Château de Gisors",
-            "en": "Château de Gisors"
+            "en": "Château de Gisors",
+            "fr": "Château de Gisors"
           },
           "coords": [
             1.7745,
@@ -375,7 +413,8 @@
             "de": "Erkunden Sie die Ruinen dieser legendären Templerfestung und erklimmen Sie die alte Motte, um einen spektakulären Panoramablick auf die gesamte umliegende Landschaft zu genießen.",
             "hu": "Fedezze fel a templomos lovagokhoz kötődő legendás erőd romjait, és másszon fel az ősi dombra, ahonnan látványos panoráma nyílik az egész környező festői vidékre.",
             "ro": "Explorați ruinele acestei fortărețe legendare legate de Cavalerii Templieri și urcați pe movila antică pentru o vedere panoramică spectaculoasă a întregului peisaj înconjurător.",
-            "en": "Explore the ruins of this legendary fortress linked to the Knights Templar, and climb the ancient motte for a spectacular panoramic view of the entire surrounding countryside."
+            "en": "Explore the ruins of this legendary fortress linked to the Knights Templar, and climb the ancient motte for a spectacular panoramic view of the entire surrounding countryside.",
+            "fr": "Explorez les ruines de cette forteresse légendaire liée aux Templiers, et grimpez sur la motte ancienne pour une vue panoramique spectaculaire sur toute la campagne environnante."
           }
         },
         {
@@ -383,7 +422,8 @@
             "de": "Leprosorium Saint-Lazare",
             "hu": "Saint-Lazare Lepratelep",
             "ro": "Leprozeria Saint-Lazare",
-            "en": "Saint-Lazare Leprosarium"
+            "en": "Saint-Lazare Leprosarium",
+            "fr": "Léproserie Saint-Lazare"
           },
           "coords": [
             1.7636,
@@ -398,7 +438,8 @@
             "de": "Besuchen Sie eines der seltenen erhaltenen mittelalterlichen Leprosorien, um die damalige Gesundheitsversorgung zu verstehen, und prüfen Sie vorab die Öffnungszeiten.",
             "hu": "Látogasson el a ritka fennmaradt középkori lepratelepek egyikébe, hogy megértse a korabeli egészségügyet, és ellenőrizze a látogatóközpont nyitvatartását a belső térhez.",
             "ro": "Vizitați una dintre rarele leprozerii medievale care au supraviețuit pentru a înțelege asistența medicală de atunci și verificați programul pentru accesul la interioare.",
-            "en": "Visit one of the rare surviving medieval leprosariums to understand medieval healthcare, and check the local visitor center schedule for access to its preserved interiors."
+            "en": "Visit one of the rare surviving medieval leprosariums to understand medieval healthcare, and check the local visitor center schedule for access to its preserved interiors.",
+            "fr": "Visitez l'une des rares léproseries médiévales survivantes pour comprendre les soins médiévaux, et consultez le programme du centre d'accueil local pour l'accès aux intérieurs préservés."
           }
         },
         {
@@ -406,7 +447,8 @@
             "de": "Ferme de Vaux",
             "hu": "Ferme de Vaux",
             "ro": "Ferme de Vaux",
-            "en": "Ferme de Vaux"
+            "en": "Ferme de Vaux",
+            "fr": "Ferme de Vaux"
           },
           "coords": [
             1.761167,
@@ -421,7 +463,8 @@
             "de": "Machen Sie eine Zeitreise auf diesem historischen Bauernhof mit erhaltener ländlicher Architektur, und vergessen Sie nicht, festes Schuhwerk für das rustikale Gelände zu tragen.",
             "hu": "Lépjen vissza az időben ezen a történelmi birtokon, ahol megőrizték a hagyományos vidéki építészetet, és ne felejtsen el kényelmes cipőt húzni a rusztikus terület felfedezéséhez.",
             "ro": "Întoarceți-vă în timp la această fermă istorică unde se păstrează arhitectura rurală tradițională și nu uitați să purtați încălțăminte comodă pentru a explora terenul rustic.",
-            "en": "Step back in time at this historic farm estate where traditional rural architecture is preserved, and don't forget to wear sturdy walking shoes to explore the rustic grounds."
+            "en": "Step back in time at this historic farm estate where traditional rural architecture is preserved, and don't forget to wear sturdy walking shoes to explore the rustic grounds.",
+            "fr": "Replongez dans le passé dans ce domaine agricole historique où l'architecture rurale traditionnelle est préservée, et n'oubliez pas des chaussures de marche robustes pour explorer les terrains rustiques."
           }
         },
         {
@@ -429,7 +472,8 @@
             "de": "Chapelle du Château",
             "hu": "Chapelle du Château",
             "ro": "Chapelle du Château",
-            "en": "Chapelle du Château"
+            "en": "Chapelle du Château",
+            "fr": "Chapelle du Château"
           },
           "coords": [
             1.780016,
@@ -444,7 +488,8 @@
             "de": "Suchen Sie einen Moment der Ruhe in dieser kleinen, aber sehr historischen Kapelle in der Nähe des Schlosses, und achten Sie auf die aufwendigen Steinmetzarbeiten am Eingang.",
             "hu": "Keressen egy pillanatnyi nyugalmat e kicsi, de történelmi kápolnában a kastély területének közelében, és figyelje meg a főbejárat körüli bonyolult kőfaragásokat.",
             "ro": "Căutați un moment de liniște în această capelă mică, dar cu o istorie profundă, lângă castel, și acordați atenție sculpturilor complicate în piatră din jurul intrării principale.",
-            "en": "Seek a moment of tranquility inside this small but deeply historical chapel near the castle grounds, and pay attention to the intricate stone carvings around the main entrance."
+            "en": "Seek a moment of tranquility inside this small but deeply historical chapel near the castle grounds, and pay attention to the intricate stone carvings around the main entrance.",
+            "fr": "Cherchez un moment de tranquillité à l'intérieur de cette petite chapelle profondément historique près du domaine du château, et faites attention aux sculptures de pierre détaillées autour de la porte principale."
           }
         }
       ],
@@ -452,7 +497,8 @@
         "de": "Eine morgendliche Fahrt führt Sie an der Mairie vorbei zur atemberaubenden Collégiale. Mittags erkunden Sie das beeindruckende Château de Gisors, ein mittelalterliches Juwel. Das Radeln am Nachmittag führt zum historischen Leprosorium Saint-Lazare und zur rustikalen Ferme de Vaux. Der Abend endet mit einem ruhigen Besuch der Chapelle du Château, während die Sonne untergeht.",
         "hu": "Egy frissítő reggeli tekerés elvisz a Mairie mellett a lélegzetelállító Collégiale-ig. A délidő a félelmetes Château de Gisors, egy középkori gyöngyszem felfedezésével telik. A délutáni pedálozás a történelmi Saint-Lazare lepratelephez, majd a Ferme de Vaux-hoz vezet. Az este a Chapelle du Château nyugodt meglátogatásával zárul, ahogy a nap lenyugszik a táj felett.",
         "ro": "O plimbare matinală vă duce pe lângă Mairie spre superba Collégiale, bucurându-vă de aerul curat. Amiaza implică explorarea formidabilului Château de Gisors. După-amiaza cu bicicleta vă conduce la leprozeria istorică Saint-Lazare și la rustica Ferme de Vaux. Seara se încheie cu o vizită liniștită la Chapelle du Château, în timp ce soarele apune peste trasee.",
-        "en": "A brisk morning ride takes you past the Mairie to the breathtaking Collégiale, enjoying the crisp air. Midday involves exploring the formidable Château de Gisors, a medieval gem. Afternoon pedaling leads you to the historic Saint-Lazare Leprosarium and then onto the rustic Ferme de Vaux. Evening concludes with a tranquil visit to the Chapelle du Château, as the sun sets over the scenic trails."
+        "en": "A brisk morning ride takes you past the Mairie to the breathtaking Collégiale, enjoying the crisp air. Midday involves exploring the formidable Château de Gisors, a medieval gem. Afternoon pedaling leads you to the historic Saint-Lazare Leprosarium and then onto the rustic Ferme de Vaux. Evening concludes with a tranquil visit to the Chapelle du Château, as the sun sets over the scenic trails.",
+        "fr": "Une balade matinale tonique vous mène devant la mairie jusqu'à la magnifique collégiale, en profitant de l'air vif. À midi, visite du formidable Château de Gisors, un joyau médiéval. L'après‑midi, on pédale jusqu'à la léproserie historique Saint‑Lazare puis à la rustique Ferme de Vaux. La soirée se termine par une visite tranquille de la Chapelle du Château, tandis que le soleil se couche sur les sentiers pittoresques."
       },
       "variants": {
         "rainy": {
@@ -460,7 +506,8 @@
             "de": "Wir starten unsere Radtour am Rathaus und nutzen die Pausen zwischen den Schauern für schnelle Sprints. Mittags bietet die Kirche eine trockene Rast für Mensch und Technik. Die Fahrt zur Burg erfordert Vorsicht auf den nassen Wegen. Am Nachmittag radeln wir weiter zur Ferme de Vaux und beenden die Tour an der Kapelle, wobei wir die frische, regenfeuchte Luft genießen.",
             "hu": "A városházánál kezdjük a kerékpártúrát, a záporok közötti szüneteket gyors szakaszokra használjuk. Délben a templom nyújt száraz pihenőt az embernek és a technikának. A vár felé vezető út óvatosságot igényel a vizes aszfalton. Délután továbbtekerünk a Ferme de Vaux-hoz, és a kápolnánál zárjuk a túrát, élvezve a friss, esőáztatta levegőt.",
             "ro": "Începem turul cu bicicleta la primărie, folosind pauzele dintre averse pentru sprinturi rapide. La prânz, biserica oferă un popas uscat pentru om și echipament. Drumul spre castel necesită prudență pe asfaltul umed. După-amiaza pedalăm spre Ferme de Vaux și încheiem turul la capelă, bucurându-ne de aerul proaspăt de după ploaie.",
-            "en": "We start our bike tour at the town hall, using gaps between showers for quick sprints. At noon, the church provides a dry break for both rider and gear. The ride to the castle requires extra caution on wet surfaces. In the afternoon, we pedal to Ferme de Vaux and finish at the chapel, enjoying the crisp, rain-freshened air of the countryside."
+            "en": "We start our bike tour at the town hall, using gaps between showers for quick sprints. At noon, the church provides a dry break for both rider and gear. The ride to the castle requires extra caution on wet surfaces. In the afternoon, we pedal to Ferme de Vaux and finish at the chapel, enjoying the crisp, rain-freshened air of the countryside.",
+            "fr": "Nous commençons notre tour à vélo à la mairie, en profitant des accalmies entre les averses pour quelques sprints. À midi, l'église offre une pause sèche pour le cycliste et l'équipement. La route vers le château demande plus de prudence sur surfaces mouillées. L'après‑midi, nous pédalons jusqu'à la Ferme de Vaux et terminons à la chapelle, appréciant l'air vif et fraîchement lavé par la pluie de la campagne."
           },
           "stops": [
             {
@@ -468,13 +515,15 @@
                 "de": "Mairie de Gisors (Rathaus)",
                 "hu": "Mairie de Gisors (Városháza)",
                 "ro": "Mairie de Gisors (Primăria)",
-                "en": "Mairie de Gisors (Town Hall)"
+                "en": "Mairie de Gisors (Town Hall)",
+                "fr": "Mairie de Gisors (Town Hall)"
               },
               "tip_5lang": {
                 "de": "Prüfen Sie Ihre Bremsen vor der Abfahrt; das Kopfsteinpflaster rund um das Rathaus wird bei Regen extrem rutschig für Fahrradreifen.",
                 "hu": "Indulás előtt ellenőrizze a fékeket; a városháza körüli macskakő esőben rendkívül csúszóssá válik a kerékpárgumik számára.",
                 "ro": "Verificați frânele înainte de plecare; pavajul din jurul primăriei devine extrem de alunecos pentru anvelopele de bicicletă pe ploaie.",
-                "en": "Check your brakes before setting off; the cobblestones around the town hall become extremely slippery for bike tires when wet."
+                "en": "Check your brakes before setting off; the cobblestones around the town hall become extremely slippery for bike tires when wet.",
+                "fr": "Vérifiez vos freins avant de partir ; les pavés autour de la mairie deviennent extrêmement glissants pour les pneus de vélo lorsqu'ils sont mouillés."
               }
             },
             {
@@ -482,13 +531,15 @@
                 "de": "Collégiale Saint-Gervais-Saint-Protais",
                 "hu": "Saint-Gervais-Saint-Protais Társaskáptalan",
                 "ro": "Biserica Colegială Saint-Gervais-Saint-Protais",
-                "en": "Collegiate Church of Saint-Gervais-Saint-Protais"
+                "en": "Collegiate Church of Saint-Gervais-Saint-Protais",
+                "fr": "Collégiale Saint‑Gervais‑Saint‑Protais"
               },
               "tip_5lang": {
                 "de": "Parken Sie Ihr Rad an einem geschützten Ort und nutzen Sie den Stopp, um Ihre Kleidung zu trocknen und die Architektur zu bewundern.",
                 "hu": "Parkolja le kerékpárját egy védett helyen, és használja ki a megállót a ruházata megszárítására és az építészet megcsodálására.",
                 "ro": "Parcați bicicleta într-un loc ferit și folosiți oprirea pentru a vă usca hainele și pentru a admira arhitectura bisericii.",
-                "en": "Park your bike in a sheltered spot and use this stop to dry your gear and admire the magnificent Gothic and Renaissance architecture."
+                "en": "Park your bike in a sheltered spot and use this stop to dry your gear and admire the magnificent Gothic and Renaissance architecture.",
+                "fr": "Garez votre vélo à l'abri et profitez de cet arrêt pour sécher votre équipement et admirer la magnifique architecture gothique et Renaissance."
               }
             },
             {
@@ -496,13 +547,15 @@
                 "de": "Château de Gisors",
                 "hu": "Château de Gisors",
                 "ro": "Château de Gisors",
-                "en": "Château de Gisors"
+                "en": "Château de Gisors",
+                "fr": "Château de Gisors"
               },
               "tip_5lang": {
                 "de": "Fahren Sie vorsichtig auf den Parkwegen; der nasse Kies kann tückisch sein. Die Aussicht auf die Burg im Regen ist herrlich dramatisch.",
                 "hu": "Óvatosan haladjon a parki utakon; a vizes kavics csalóka lehet. A vár látványa az esőben lenyűgözően drámai és fotogén.",
                 "ro": "Pedalați cu atenție pe aleile parcului; pietrișul umed poate fi înșelător. Vederea castelului în ploaie este impresionant de dramatică.",
-                "en": "Ride carefully on the park paths; wet gravel can be treacherous. The view of the castle in the rain is wonderfully dramatic and photogenic."
+                "en": "Ride carefully on the park paths; wet gravel can be treacherous. The view of the castle in the rain is wonderfully dramatic and photogenic.",
+                "fr": "Roulez prudemment sur les allées du parc ; le gravier mouillé peut être traître. La vue du château sous la pluie est merveilleusement dramatique et photogénique."
               }
             },
             {
@@ -510,13 +563,15 @@
                 "de": "Leprosorium Saint-Lazare",
                 "hu": "Saint-Lazare Lepratelep",
                 "ro": "Leprozeria Saint-Lazare",
-                "en": "Saint-Lazare Leprosarium"
+                "en": "Saint-Lazare Leprosarium",
+                "fr": "Léproserie Saint-Lazare"
               },
               "tip_5lang": {
                 "de": "Ein ruhiger Ort für eine Regenpause; die historischen Mauern bieten guten Windschutz, während Sie die Kapelle besichtigen.",
                 "hu": "Csendes hely egy esőszünetre; a történelmi falak jó szélvédelmet nyújtanak, miközben megtekinti a kápolnát és a kertet.",
                 "ro": "Un loc liniștit pentru o pauză de ploaie; zidurile istorice oferă o protecție bună împotriva vântului în timp ce vizitați capela.",
-                "en": "A quiet spot for a rain break; the historic walls provide good wind protection while you visit the chapel and the surrounding grounds."
+                "en": "A quiet spot for a rain break; the historic walls provide good wind protection while you visit the chapel and the surrounding grounds.",
+                "fr": "Un endroit calme pour une pause pluie ; les murs historiques offrent une bonne protection contre le vent pendant que vous visitez la chapelle et les abords."
               }
             },
             {
@@ -524,13 +579,15 @@
                 "de": "Ferme de Vaux",
                 "hu": "Ferme de Vaux",
                 "ro": "Ferme de Vaux",
-                "en": "Ferme de Vaux"
+                "en": "Ferme de Vaux",
+                "fr": "Ferme de Vaux"
               },
               "tip_5lang": {
                 "de": "Die ländliche Strecke kann bei Regen schlammig sein; tragen Sie Schutzbleche an Ihrem Rad, um Spritzer auf Ihrer Kleidung zu vermeiden.",
                 "hu": "A vidéki szakasz esőben saras lehet; érdemes sárvédőt használni a kerékpáron, hogy elkerülje a felverődő vizet a ruházatán.",
                 "ro": "Traseul rural poate fi noroios pe ploaie; folosiți apărători la bicicletă pentru a evita stropirea hainelor în timpul drumului.",
-                "en": "The rural section can be muddy in the rain; make sure your bike has mudguards to avoid splashing your clothes during the ride."
+                "en": "The rural section can be muddy in the rain; make sure your bike has mudguards to avoid splashing your clothes during the ride.",
+                "fr": "La section rurale peut être boueuse sous la pluie ; assurez‑vous que votre vélo a des garde‑boue pour éviter d'éclabousser vos vêtements pendant la balade."
               }
             },
             {
@@ -538,13 +595,15 @@
                 "de": "Chapelle du Château",
                 "hu": "Chapelle du Château",
                 "ro": "Chapelle du Château",
-                "en": "Chapelle du Château"
+                "en": "Chapelle du Château",
+                "fr": "Chapelle du Château"
               },
               "tip_5lang": {
                 "de": "Schließen Sie die Tour hier ab und suchen Sie Schutz im Inneren; die neblige Landschaft rund um die Kapelle wirkt sehr friedvoll.",
                 "hu": "Zárja itt a túrát és keressen menedéket a kápolna belsejében; a ködös táj az épület körül rendkívül békés és megnyugtató.",
                 "ro": "Încheiați turul aici și căutați adăpost în interior; peisajul cețos din jurul capelei este extrem de pașnic și relaxant.",
-                "en": "Conclude your tour here and seek shelter inside; the misty landscape surrounding the chapel is incredibly peaceful and calming."
+                "en": "Conclude your tour here and seek shelter inside; the misty landscape surrounding the chapel is incredibly peaceful and calming.",
+                "fr": "Concluez votre visite ici et cherchez refuge à l'intérieur ; le paysage brumeux autour de la chapelle est incroyablement paisible et apaisant."
               }
             }
           ]
@@ -554,7 +613,8 @@
             "de": "Ein kalter Start am Rathaus erfordert gute Handschuhe für die Fahrt. Mittags wärmen wir uns bei einem Stopp an der Stiftskirche auf, bevor wir zur Burg weiterradeln. Die kahle Winterlandschaft bietet weite Ausblicke auf dem Weg zur Ferme de Vaux. Gegen 16:30 Uhr erreichen wir die Kapelle, um den Sonnenuntergang einzufangen, bevor es um 17:00 Uhr dunkel wird und wir die Tour beenden.",
             "hu": "A városházánál induló hideg túrához jó kesztyűre lesz szükség. Délben a templomnál melegszünk fel egy kicsit, mielőtt továbbtekernénk a vár felé. A kopár téli táj messzi kilátást enged a Ferme de Vaux felé vezető úton. 16:30 körül érünk a kápolnához, hogy elkapjuk a naplementét, mielőtt 17:00-kor besötétedik és zárjuk a túrát.",
             "ro": "Un început rece la primărie necesită mănuși bune pentru drum. La prânz ne încălzim puțin la biserică înainte de a pedala mai departe spre castel. Peisajul golaș de iarnă oferă vederi largi în drum spre Ferme de Vaux. În jur de 16:30 ajungem la capelă pentru a surprinde apusul, înainte de a se întuneca la ora 17:00.",
-            "en": "A cold start at the town hall requires good gloves for the ride. At noon, we warm up briefly at the church before cycling on to the castle. The bare winter landscape offers wide views on the way to Ferme de Vaux. We reach the chapel around 4:30 PM to catch the sunset before it gets dark at 5 PM, concluding our winter ride."
+            "en": "A cold start at the town hall requires good gloves for the ride. At noon, we warm up briefly at the church before cycling on to the castle. The bare winter landscape offers wide views on the way to Ferme de Vaux. We reach the chapel around 4:30 PM to catch the sunset before it gets dark at 5 PM, concluding our winter ride.",
+            "fr": "Un départ froid à la mairie exige de bons gants pour la balade. À midi, nous nous réchauffons brièvement à l'église avant de reprendre en direction du château. Le paysage hivernal dépouillé offre de larges vues en chemin vers la Ferme de Vaux. Nous atteignons la chapelle vers 16 h 30 pour saisir le coucher du soleil avant l'obscurité à 17 h, concluant notre sortie hivernale."
           },
           "stops": [
             {
@@ -562,13 +622,15 @@
                 "de": "Mairie de Gisors (Rathaus)",
                 "hu": "Mairie de Gisors (Városháza)",
                 "ro": "Mairie de Gisors (Primăria)",
-                "en": "Mairie de Gisors (Town Hall)"
+                "en": "Mairie de Gisors (Town Hall)",
+                "fr": "Mairie de Gisors (Town Hall)"
               },
               "tip_5lang": {
                 "de": "Halten Sie Ihre Hände warm, da der Fahrtwind bei Frost beißend sein kann; prüfen Sie den Reifendruck für besseren Halt auf kalten Wegen.",
                 "hu": "Tartsa melegen a kezeit, mivel a menetszél fagyban metsző lehet; ellenőrizze a guminyomást a jobb tapadás érdekében a hideg utakon.",
                 "ro": "Păstrați-vă mâinile calde, deoarece curentul de aer poate fi tăios la ger; verificați presiunea anvelopelor pentru aderență pe drumuri reci.",
-                "en": "Keep your hands warm as the wind chill can be biting in freezing weather; check your tire pressure for better grip on cold surfaces."
+                "en": "Keep your hands warm as the wind chill can be biting in freezing weather; check your tire pressure for better grip on cold surfaces.",
+                "fr": "Gardez les mains au chaud car le ressenti peut être mordant par grand froid ; vérifiez la pression des pneus pour une meilleure adhérence sur surfaces froides."
               }
             },
             {
@@ -576,13 +638,15 @@
                 "de": "Collégiale Saint-Gervais-Saint-Protais",
                 "hu": "Saint-Gervais-Saint-Protais Társaskáptalan",
                 "ro": "Biserica Colegială Saint-Gervais-Saint-Protais",
-                "en": "Collegiate Church of Saint-Gervais-Saint-Protais"
+                "en": "Collegiate Church of Saint-Gervais-Saint-Protais",
+                "fr": "Collégiale Saint‑Gervais‑Saint‑Protais"
               },
               "tip_5lang": {
                 "de": "Ein idealer Ort für eine kurze Aufwärmpause; genießen Sie die Ruhe im Inneren und bereiten Sie sich auf die Weiterfahrt zur Burg vor.",
                 "hu": "Ideális hely egy rövid felmelegedésre; élvezze a belső csendet, és készüljön fel a vár felé vezető hűvösebb szakaszra.",
                 "ro": "Un loc ideal pentru o scurtă pauză de încălzire; bucurați-vă de liniștea interioară și pregătiți-vă pentru drumul spre castel.",
-                "en": "An ideal spot for a short warm-up break; enjoy the interior peace and prepare yourself for the cooler ride towards the castle."
+                "en": "An ideal spot for a short warm-up break; enjoy the interior peace and prepare yourself for the cooler ride towards the castle.",
+                "fr": "Un lieu idéal pour une courte pause de réchauffement ; profitez du calme intérieur et préparez‑vous pour la route plus fraîche vers le château."
               }
             },
             {
@@ -590,13 +654,15 @@
                 "de": "Château de Gisors",
                 "hu": "Château de Gisors",
                 "ro": "Château de Gisors",
-                "en": "Château de Gisors"
+                "en": "Château de Gisors",
+                "fr": "Château de Gisors"
               },
               "tip_5lang": {
                 "de": "Achten Sie auf vereiste Stellen auf den Parkwegen; die tiefstehende Wintersonne wirft lange, dramatische Schatten auf die alten Mauern.",
                 "hu": "Ügyeljen a jeges foltokra a parki utakon; az alacsonyan járó téli nap hosszú, drámai árnyékokat vet a vár ősi falaira.",
                 "ro": "Atenție la porțiunile înghețate de pe aleile parcului; soarele de iarnă proiectează umbre lungi și dramatice pe zidurile vechi.",
-                "en": "Watch out for icy patches on the park paths; the low winter sun casts long, dramatic shadows across the ancient castle walls."
+                "en": "Watch out for icy patches on the park paths; the low winter sun casts long, dramatic shadows across the ancient castle walls.",
+                "fr": "Attention aux plaques de verglas sur les chemins du parc ; le soleil bas d'hiver projette de longues ombres dramatiques sur les vieux murs du château."
               }
             },
             {
@@ -604,13 +670,15 @@
                 "de": "Leprosorium Saint-Lazare",
                 "hu": "Saint-Lazare Lepratelep",
                 "ro": "Leprozeria Saint-Lazare",
-                "en": "Saint-Lazare Leprosarium"
+                "en": "Saint-Lazare Leprosarium",
+                "fr": "Léproserie Saint-Lazare"
               },
               "tip_5lang": {
                 "de": "Der Garten wirkt im Winter sehr karg und ruhig; nutzen Sie das Tageslicht für Fotos der Kapelle, bevor es am späten Nachmittag dämmert.",
                 "hu": "A kert télen nagyon kopár és csendes; használja ki a nappali fényt a kápolna fotózásához, mielőtt a késő délutáni szürkület beállna.",
                 "ro": "Grădina pare foarte golașă și liniștită iarna; profitați de lumina zilei pentru fotografii înainte de amurgul de după-amiază.",
-                "en": "The garden looks very stark and quiet in winter; make the most of the daylight for photos before the late afternoon twilight sets in."
+                "en": "The garden looks very stark and quiet in winter; make the most of the daylight for photos before the late afternoon twilight sets in.",
+                "fr": "Le jardin paraît très dépouillé et silencieux en hiver ; profitez de la lumière du jour pour les photos avant que le crépuscule de la fin d'après‑midi ne s'installe."
               }
             },
             {
@@ -618,13 +686,15 @@
                 "de": "Ferme de Vaux",
                 "hu": "Ferme de Vaux",
                 "ro": "Ferme de Vaux",
-                "en": "Ferme de Vaux"
+                "en": "Ferme de Vaux",
+                "fr": "Ferme de Vaux"
               },
               "tip_5lang": {
                 "de": "Die Fahrt über das offene Feld kann sehr windig und kalt sein; achten Sie auf Ihre Sichtbarkeit, falls der Nebel am Nachmittag aufzieht.",
                 "hu": "A nyílt mezőn való tekerés nagyon szeles és hideg lehet; ügyeljen a láthatóságra, ha a délutáni köd hirtelen leszállna a tájra.",
                 "ro": "Pedalatul pe câmp deschis poate fi foarte vântos și rece; asigurați-vă că sunteți vizibil dacă ceața coboară după-amiaza.",
-                "en": "Cycling across open fields can be very windy and cold; ensure you are visible if the afternoon mist starts to roll in over the landscape."
+                "en": "Cycling across open fields can be very windy and cold; ensure you are visible if the afternoon mist starts to roll in over the landscape.",
+                "fr": "Rouler à travers les champs ouverts peut être très venteux et froid ; assurez‑vous d'être bien visible si la brume de l'après‑midi commence à envahir le paysage."
               }
             },
             {
@@ -632,13 +702,15 @@
                 "de": "Chapelle du Château",
                 "hu": "Chapelle du Château",
                 "ro": "Chapelle du Château",
-                "en": "Chapelle du Château"
+                "en": "Chapelle du Château",
+                "fr": "Chapelle du Château"
               },
               "tip_5lang": {
                 "de": "Beenden Sie die Tour pünktlich zum Sonnenuntergang; stellen Sie sicher, dass Ihre Fahrradbeleuchtung für den Rückweg im Dunkeln funktioniert.",
                 "hu": "Fejezze be a túrát pont a naplementére; győződjön meg róla, hogy a kerékpáros lámpái működnek a sötétben való hazatéréshez.",
                 "ro": "Încheiați turul exact la apus; asigurați-vă că luminile bicicletei funcționează pentru drumul de întoarcere pe întuneric.",
-                "en": "End your tour right at sunset; make sure your bike lights are functioning properly for the ride back in the gathering darkness."
+                "en": "End your tour right at sunset; make sure your bike lights are functioning properly for the ride back in the gathering darkness.",
+                "fr": "Terminez votre visite juste au coucher du soleil ; vérifiez que vos éclairages de vélo fonctionnent correctement pour le retour dans la pénombre grandissante."
               }
             }
           ]
@@ -658,7 +730,8 @@
             "de": "Château de Gisors",
             "hu": "Château de Gisors",
             "ro": "Château de Gisors",
-            "en": "Château de Gisors"
+            "en": "Château de Gisors",
+            "fr": "Château de Gisors"
           },
           "coords": [
             1.7745,
@@ -673,7 +746,8 @@
             "de": "Erkunden Sie die Ruinen dieser legendären Templerfestung und erklimmen Sie die alte Motte, um einen spektakulären Panoramablick auf die gesamte umliegende Landschaft zu genießen.",
             "hu": "Fedezze fel a templomos lovagokhoz kötődő legendás erőd romjait, és másszon fel az ősi dombra, ahonnan látványos panoráma nyílik az egész környező festői vidékre.",
             "ro": "Explorați ruinele acestei fortărețe legendare legate de Cavalerii Templieri și urcați pe movila antică pentru o vedere panoramică spectaculoasă a întregului peisaj înconjurător.",
-            "en": "Explore the ruins of this legendary fortress linked to the Knights Templar, and climb the ancient motte for a spectacular panoramic view of the entire surrounding countryside."
+            "en": "Explore the ruins of this legendary fortress linked to the Knights Templar, and climb the ancient motte for a spectacular panoramic view of the entire surrounding countryside.",
+            "fr": "Explorez les ruines de cette forteresse légendaire liée aux Templiers, et grimpez sur la motte ancienne pour une vue panoramique spectaculaire sur toute la campagne environnante."
           }
         },
         {
@@ -681,7 +755,8 @@
             "de": "Leprosorium Saint-Lazare",
             "hu": "Saint-Lazare Lepratelep",
             "ro": "Leprozeria Saint-Lazare",
-            "en": "Saint-Lazare Leprosarium"
+            "en": "Saint-Lazare Leprosarium",
+            "fr": "Léproserie Saint-Lazare"
           },
           "coords": [
             1.7636,
@@ -696,7 +771,8 @@
             "de": "Besuchen Sie eines der seltenen erhaltenen mittelalterlichen Leprosorien, um die damalige Gesundheitsversorgung zu verstehen, und prüfen Sie vorab die Öffnungszeiten.",
             "hu": "Látogasson el a ritka fennmaradt középkori lepratelepek egyikébe, hogy megértse a korabeli egészségügyet, és ellenőrizze a látogatóközpont nyitvatartását a belső térhez.",
             "ro": "Vizitați una dintre rarele leprozerii medievale care au supraviețuit pentru a înțelege asistența medicală de atunci și verificați programul pentru accesul la interioare.",
-            "en": "Visit one of the rare surviving medieval leprosariums to understand medieval healthcare, and check the local visitor center schedule for access to its preserved interiors."
+            "en": "Visit one of the rare surviving medieval leprosariums to understand medieval healthcare, and check the local visitor center schedule for access to its preserved interiors.",
+            "fr": "Visitez l'une des rares léproseries médiévales survivantes pour comprendre les soins médiévaux, et consultez le programme du centre d'accueil local pour l'accès aux intérieurs préservés."
           }
         },
         {
@@ -704,7 +780,8 @@
             "de": "Ferme de Vaux",
             "hu": "Ferme de Vaux",
             "ro": "Ferme de Vaux",
-            "en": "Ferme de Vaux"
+            "en": "Ferme de Vaux",
+            "fr": "Ferme de Vaux"
           },
           "coords": [
             1.761167,
@@ -719,7 +796,8 @@
             "de": "Machen Sie eine Zeitreise auf diesem historischen Bauernhof mit erhaltener ländlicher Architektur, und vergessen Sie nicht, festes Schuhwerk für das rustikale Gelände zu tragen.",
             "hu": "Lépjen vissza az időben ezen a történelmi birtokon, ahol megőrizték a hagyományos vidéki építészetet, és ne felejtsen el kényelmes cipőt húzni a rusztikus terület felfedezéséhez.",
             "ro": "Întoarceți-vă în timp la această fermă istorică unde se păstrează arhitectura rurală tradițională și nu uitați să purtați încălțăminte comodă pentru a explora terenul rustic.",
-            "en": "Step back in time at this historic farm estate where traditional rural architecture is preserved, and don't forget to wear sturdy walking shoes to explore the rustic grounds."
+            "en": "Step back in time at this historic farm estate where traditional rural architecture is preserved, and don't forget to wear sturdy walking shoes to explore the rustic grounds.",
+            "fr": "Replongez dans le passé dans ce domaine agricole historique où l'architecture rurale traditionnelle est préservée, et n'oubliez pas des chaussures de marche robustes pour explorer les terrains rustiques."
           }
         },
         {
@@ -727,7 +805,8 @@
             "de": "Chapelle du Château",
             "hu": "Chapelle du Château",
             "ro": "Chapelle du Château",
-            "en": "Chapelle du Château"
+            "en": "Chapelle du Château",
+            "fr": "Chapelle du Château"
           },
           "coords": [
             1.780016,
@@ -742,7 +821,8 @@
             "de": "Suchen Sie einen Moment der Ruhe in dieser kleinen, aber sehr historischen Kapelle in der Nähe des Schlosses, und achten Sie auf die aufwendigen Steinmetzarbeiten am Eingang.",
             "hu": "Keressen egy pillanatnyi nyugalmat e kicsi, de történelmi kápolnában a kastély területének közelében, és figyelje meg a főbejárat körüli bonyolult kőfaragásokat.",
             "ro": "Căutați un moment de liniște în această capelă mică, dar cu o istorie profundă, lângă castel, și acordați atenție sculpturilor complicate în piatră din jurul intrării principale.",
-            "en": "Seek a moment of tranquility inside this small but deeply historical chapel near the castle grounds, and pay attention to the intricate stone carvings around the main entrance."
+            "en": "Seek a moment of tranquility inside this small but deeply historical chapel near the castle grounds, and pay attention to the intricate stone carvings around the main entrance.",
+            "fr": "Cherchez un moment de tranquillité à l'intérieur de cette petite chapelle profondément historique près du domaine du château, et faites attention aux sculptures de pierre détaillées autour de la porte principale."
           }
         },
         {
@@ -750,7 +830,8 @@
             "de": "Parc Hérouval",
             "hu": "Parc Hérouval",
             "ro": "Parc Hérouval",
-            "en": "Parc Hérouval"
+            "en": "Parc Hérouval",
+            "fr": "Parc Hérouval"
           },
           "coords": [
             1.787265,
@@ -765,7 +846,8 @@
             "de": "Genießen Sie einen erholsamen Nachmittag inmitten der Natur in diesem familienfreundlichen Park, und bringen Sie einen Picknickkorb mit, um die weiten Grünflächen zu erleben.",
             "hu": "Töltsön el egy pihentető délutánt a természet lágy ölén ebben a családbarát parkban, és hozzon magával piknikkosarat és takarót, hogy teljesen kiélvezze a zöldterületeket.",
             "ro": "Bucurați-vă de o după-amiază relaxantă în mijlocul naturii în acest parc prietenos cu familiile, aducând cu voi un coș de picnic și o pătură pentru spațiile verzi întinse.",
-            "en": "Enjoy a relaxing afternoon surrounded by nature in this family-friendly park, bringing along a picnic basket and a blanket to fully experience the expansive green spaces."
+            "en": "Enjoy a relaxing afternoon surrounded by nature in this family-friendly park, bringing along a picnic basket and a blanket to fully experience the expansive green spaces.",
+            "fr": "Profitez d'un après‑midi détente entouré par la nature dans ce parc familial, apportez un panier‑repas et une couverture pour profiter pleinement des vastes espaces verts."
           }
         },
         {
@@ -773,7 +855,8 @@
             "de": "Kirche Saint-Gervais-et-Saint-Protais",
             "hu": "Saint-Gervais-et-Saint-Protais Templom",
             "ro": "Biserica Saint-Gervais-et-Saint-Protais",
-            "en": "Saint-Gervais-et-Saint-Protais Church"
+            "en": "Saint-Gervais-et-Saint-Protais Church",
+            "fr": "Église Saint‑Gervais‑et‑Saint‑Protais"
           },
           "coords": [
             1.755958,
@@ -788,7 +871,8 @@
             "de": "Beenden Sie Ihren malerischen Ausflug mit dem Besuch dieser ländlichen Kirche, die für ihren ruhigen Charme bekannt ist, und bewundern Sie die jahrhundertealte Handwerkskunst.",
             "hu": "Zárja festői vidéki kirándulását ennek a nyugodt falusi templomnak a meglátogatásával, és szánjon egy percet az évszázados vallási kézművesség megcsodálására a csendben.",
             "ro": "Încheiați-vă excursia pitorească vizitând această biserică rurală senină, cunoscută pentru farmecul ei liniștit, luându-vă un moment pentru a aprecia măiestria religioasă antică.",
-            "en": "Conclude your scenic countryside trip by visiting this serene rural church known for its quiet charm, taking a moment to appreciate the centuries-old religious craftsmanship."
+            "en": "Conclude your scenic countryside trip by visiting this serene rural church known for its quiet charm, taking a moment to appreciate the centuries-old religious craftsmanship.",
+            "fr": "Concluez votre excursion champêtre en visitant cette église rurale sereine connue pour son charme tranquille, et prenez un instant pour apprécier l'orfèvrerie religieuse séculaire."
           }
         }
       ],
@@ -796,7 +880,8 @@
         "de": "Der Morgen beginnt mit einer Fahrt zum imposanten Château de Gisors, gefolgt vom seltenen Leprosorium Saint-Lazare. Mittags erkunden Sie das ländliche Erbe der Ferme de Vaux und die nahegelegene historische Chapelle du Château. Der Nachmittag bietet Entspannung bei einer Fahrt zum Parc Hérouval. Der Abend endet friedlich an der abgelegenen Kirche Saint-Gervais-et-Saint-Protais.",
         "hu": "A reggel a tornyosuló Château de Gisors-hoz vezető úttal kezdődik, melyet a ritka Saint-Lazare lepratelep követ. A délidőt a Ferme de Vaux vidéki örökségének és a közeli történelmi kápolna felfedezésével töltjük. A délután a tiszta pihenésé a Parc Hérouval festői utazásával. Az este békés befejezést nyújt a félreeső Saint-Gervais-et-Saint-Protais templomnál.",
         "ro": "Dimineața începe cu un drum direct spre impunătorul Château de Gisors, urmat de rara leprozerie Saint-Lazare. Amiaza este petrecută explorând moștenirea rurală de la Ferme de Vaux și capela istorică din apropiere. După-amiaza se transformă în relaxare pură la Parc Hérouval. Seara oferă un final pașnic la biserica retrasă Saint-Gervais-et-Saint-Protais.",
-        "en": "Morning begins with a direct drive to the towering Château de Gisors, followed by the rare Saint-Lazare Leprosarium. Midday is spent exploring the preserved rural heritage at Ferme de Vaux and the nearby historic Chapelle du Château. Afternoon shifts to pure relaxation with a scenic drive to Parc Hérouval. Evening provides a peaceful finale at the secluded Saint-Gervais-et-Saint-Protais Church."
+        "en": "Morning begins with a direct drive to the towering Château de Gisors, followed by the rare Saint-Lazare Leprosarium. Midday is spent exploring the preserved rural heritage at Ferme de Vaux and the nearby historic Chapelle du Château. Afternoon shifts to pure relaxation with a scenic drive to Parc Hérouval. Evening provides a peaceful finale at the secluded Saint-Gervais-et-Saint-Protais Church.",
+        "fr": "La matinée commence par un trajet direct vers le imposant Château de Gisors, suivi de la rare Léproserie Saint‑Lazare. Le midi est consacré à l'exploration du patrimoine rural préservé à la Ferme de Vaux et à la Chapelle du Château à proximité. L'après‑midi se transforme en pure détente avec une promenade panoramique jusqu'au Parc Hérouval. La soirée offre une finale paisible à l'église isolée Saint‑Gervais‑et‑Saint‑Protais."
       },
       "variants": {
         "rainy": {
@@ -804,7 +889,8 @@
             "de": "Wir beginnen den Tag bequem im Auto an der Burg, während der Regen gegen die Scheiben trommelt. Mittags fahren wir zum Leprosorium und genießen die Aussicht auf die nassen Gärten vom trockenen Innenraum aus. Der Nachmittag führt uns zur Ferme de Vaux und zur Kapelle, wobei wir die Fahrt durch die neblige Landschaft genießen. Abends beenden wir die Tour sicher und trocken an der Kirche im Stadtzentrum.",
             "hu": "Kényelmesen, az autóban kezdjük a napot a várnál, miközben az eső kopog a szélvédőn. Délben a Lepratelep felé vesszük az irányt, élvezve a vizes kertek látványát a száraz utastérből. A délután a Ferme de Vaux-hoz és a kápolnához vezet, élvezve a ködös tájon átívelő autózást. Este biztonságban és szárazon zárjuk a túrát a belvárosi templomnál.",
             "ro": "Începem ziua confortabil în mașină la castel, în timp ce ploaia bate în parbriz. La prânz ne îndreptăm spre leprozerie, admirând grădinile umede din interiorul uscat. După-amiaza ne conduce la Ferme de Vaux și la capelă, bucurându-ne de drumul prin peisajul cețos. Seara încheiem turul în siguranță și la uscat, la biserica din centrul orașului.",
-            "en": "We begin the day comfortably in the car at the castle as rain drums on the windshield. At noon, we head to the Leprosarium, enjoying views of the wet gardens from the dry cabin. The afternoon leads us to Ferme de Vaux and the chapel, enjoying the drive through the misty countryside. We conclude our tour safely and dry at the church in the town center by evening."
+            "en": "We begin the day comfortably in the car at the castle as rain drums on the windshield. At noon, we head to the Leprosarium, enjoying views of the wet gardens from the dry cabin. The afternoon leads us to Ferme de Vaux and the chapel, enjoying the drive through the misty countryside. We conclude our tour safely and dry at the church in the town center by evening.",
+            "fr": "Nous commençons la journée confortablement en voiture au château pendant que la pluie tambourine sur le pare‑brise. À midi, nous nous dirigeons vers la léproserie, profitant des vues sur les jardins trempés depuis l'abri sec. L'après‑midi nous mène à la Ferme de Vaux et à la chapelle, en appréciant la route à travers la campagne brumeuse. Nous concluons la visite au sec et en sécurité à l'église du centre‑ville en soirée."
           },
           "stops": [
             {
@@ -812,13 +898,15 @@
                 "de": "Château de Gisors",
                 "hu": "Château de Gisors",
                 "ro": "Château de Gisors",
-                "en": "Château de Gisors"
+                "en": "Château de Gisors",
+                "fr": "Château de Gisors"
               },
               "tip_5lang": {
                 "de": "Nutzen Sie den nahegelegenen Parkplatz und warten Sie einen kurzen Schauer im Auto ab; die Burg wirkt im Regen besonders mächtig und mystisch.",
                 "hu": "Használja a közeli parkolót, és várja meg a nagyobb záport az autóban; a vár az esőben különösen monumentális és misztikus látványt nyújt.",
                 "ro": "Folosiți parcarea din apropiere și așteptați trecerea ploii în mașină; castelul pare deosebit de monumental și mistic în ploaie.",
-                "en": "Use the nearby parking and wait out any heavy showers in the car; the castle looks particularly monumental and mystical in the rain."
+                "en": "Use the nearby parking and wait out any heavy showers in the car; the castle looks particularly monumental and mystical in the rain.",
+                "fr": "Utilisez le parking à proximité et attendez la fin des fortes averses dans la voiture ; le château paraît particulièrement monumental et mystique sous la pluie."
               }
             },
             {
@@ -826,13 +914,15 @@
                 "de": "Leprosorium Saint-Lazare",
                 "hu": "Saint-Lazare Lepratelep",
                 "ro": "Leprozeria Saint-Lazare",
-                "en": "Saint-Lazare Leprosarium"
+                "en": "Saint-Lazare Leprosarium",
+                "fr": "Léproserie Saint-Lazare"
               },
               "tip_5lang": {
                 "de": "Der Weg vom Parkplatz zu den Gebäuden ist kurz; genießen Sie die friedliche Atmosphäre der nassen Gärten und besuchen Sie die Kapelle.",
                 "hu": "A parkolótól az épületekig tartó út rövid; élvezze a vizes kertek békés hangulatát, és mindenképpen tekintse meg a kápolna belsejét.",
                 "ro": "Drumul de la parcare la clădiri este scurt; bucurați-vă de atmosfera pașnică a grădinilor umede și vizitați interiorul capelei.",
-                "en": "The walk from the parking area to the buildings is short; enjoy the peaceful vibe of the wet gardens and be sure to visit the chapel interior."
+                "en": "The walk from the parking area to the buildings is short; enjoy the peaceful vibe of the wet gardens and be sure to visit the chapel interior.",
+                "fr": "La marche depuis le parking jusqu'aux bâtiments est courte ; profitez de l'ambiance paisible des jardins mouillés et n'oubliez pas de visiter l'intérieur de la chapelle."
               }
             },
             {
@@ -840,13 +930,15 @@
                 "de": "Ferme de Vaux",
                 "hu": "Ferme de Vaux",
                 "ro": "Ferme de Vaux",
-                "en": "Ferme de Vaux"
+                "en": "Ferme de Vaux",
+                "fr": "Ferme de Vaux"
               },
               "tip_5lang": {
                 "de": "Fahren Sie vorsichtig auf den Landwegen, da Wasserlachen die Fahrbahn rutschig machen können; die ländliche Idylle wirkt im Regen sehr beruhigend.",
                 "hu": "Vezessen óvatosan az országutakon, mivel a tócsák csúszóssá tehetik az aszfaltot; a vidéki idill esőben is rendkívül megnyugtató látvány.",
                 "ro": "Conduceți cu atenție pe drumurile rurale, deoarece bălțile pot face asfaltul alunecos; idila rurală este extrem de relaxantă chiar și pe ploaie.",
-                "en": "Drive carefully on rural roads as puddles can make the surface slippery; the countryside idyll is remarkably soothing even in the rain."
+                "en": "Drive carefully on rural roads as puddles can make the surface slippery; the countryside idyll is remarkably soothing even in the rain.",
+                "fr": "Conduisez prudemment sur les routes rurales car les flaques peuvent rendre la chaussée glissante ; l'idylle campagnarde reste remarquablement apaisante même sous la pluie."
               }
             },
             {
@@ -854,13 +946,15 @@
                 "de": "Chapelle du Château",
                 "hu": "Chapelle du Château",
                 "ro": "Chapelle du Château",
-                "en": "Chapelle du Château"
+                "en": "Chapelle du Château",
+                "fr": "Chapelle du Château"
               },
               "tip_5lang": {
                 "de": "Ein idealer Stopp für Fotos direkt aus dem Autofenster, falls es zu stark regnet; die Architektur ist auch aus der Ferne beeindruckend.",
                 "hu": "Ideális helyszín fotózáshoz akár az autó ablakából is, ha túl erősen esne; az építészet távolabbról is lenyűgöző látványt nyújt.",
                 "ro": "Un loc ideal pentru fotografii chiar și de pe geamul mașinii dacă plouă prea tare; arhitectura este impresionantă chiar și de la distanță.",
-                "en": "An ideal spot for photos even from the car window if it's raining too hard; the architecture remains impressive even from a distance."
+                "en": "An ideal spot for photos even from the car window if it's raining too hard; the architecture remains impressive even from a distance.",
+                "fr": "Un lieu idéal pour des photos même depuis la vitre de la voiture si la pluie est trop forte ; l'architecture reste impressionnante vue de loin."
               }
             },
             {
@@ -868,13 +962,15 @@
                 "de": "Parc Hérouval",
                 "hu": "Parc Hérouval",
                 "ro": "Parc Hérouval",
-                "en": "Parc Hérouval"
+                "en": "Parc Hérouval",
+                "fr": "Parc Hérouval"
               },
               "tip_5lang": {
                 "de": "Bei Regen sind viele Außenbereiche geschlossen; prüfen Sie die Wettervorhersage und genießen Sie die grüne Landschaft während der Vorbeifahrt.",
                 "hu": "Esőben sok kültéri rész zárva tarthat; ellenőrizze az előrejelzést, és élvezze a zöld táj látványát, miközben elhalad a park mellett.",
                 "ro": "Pe ploaie, multe zone exterioare pot fi închise; verificați prognoza și bucurați-vă de peisajul verde în timp ce treceți pe lângă parc.",
-                "en": "Many outdoor areas may be closed in the rain; check the forecast and enjoy the lush green landscape as you drive past the park area."
+                "en": "Many outdoor areas may be closed in the rain; check the forecast and enjoy the lush green landscape as you drive past the park area.",
+                "fr": "De nombreux espaces extérieurs peuvent être fermés sous la pluie ; consultez les prévisions et appréciez le paysage vert luxuriant en traversant la zone du parc."
               }
             },
             {
@@ -882,13 +978,15 @@
                 "de": "Kirche Saint-Gervais-et-Saint-Protais",
                 "hu": "Saint-Gervais-et-Saint-Protais Templom",
                 "ro": "Biserica Saint-Gervais-et-Saint-Protais",
-                "en": "Saint-Gervais-et-Saint-Protais Church"
+                "en": "Saint-Gervais-et-Saint-Protais Church",
+                "fr": "Église Saint‑Gervais‑et‑Saint‑Protais"
               },
               "tip_5lang": {
                 "de": "Parken Sie im Stadtzentrum und nutzen Sie die Kirche als krönenden, trockenen Abschluss Ihrer Tour; die Innenbeleuchtung ist abends sehr stimmungsvoll.",
                 "hu": "Parkoljon a városközpontban, és használja a templomot a túra méltó, száraz zárásaként; a belső világítás este rendkívül hangulatos.",
                 "ro": "Parcați în centrul orașului și folosiți biserica ca un final uscat și grandios al turului; iluminarea interioară este foarte sugestivă seara.",
-                "en": "Park in the town center and use the church as a grand, dry finale to your tour; the interior lighting is very atmospheric in the evening."
+                "en": "Park in the town center and use the church as a grand, dry finale to your tour; the interior lighting is very atmospheric in the evening.",
+                "fr": "Garez‑vous au centre‑ville et utilisez l'église comme une grande finale sèche à votre visite ; l'éclairage intérieur est très atmosphérique en soirée."
               }
             }
           ]
@@ -898,7 +996,8 @@
             "de": "Wir starten die Tour in der wohligen Wärme des Autos an der Burg. Mittags besuchen wir das Leprosorium und die Ferme de Vaux, wobei wir die winterliche Stille der Landschaft durch die Fenster genießen. Am Nachmittag erreichen wir die Kapelle und den Parc Hérouval, bevor das Licht gegen 16:30 Uhr zu schwinden beginnt. Die Tour endet bei Einbruch der Dunkelheit um 17:00 Uhr an der festlich beleuchteten Kirche.",
             "hu": "A túrát az autó kellemes melegében kezdjük a várnál. Délben meglátogatjuk a Lepratelepet és a Ferme de Vaux-t, élvezve a téli táj csendjét az ablakokon keresztül. Délután elérjük a kápolnát és a Parc Hérouval-t, mielőtt a fények 16:30 körül halványulni kezdenének. A túra a sötétség beálltakor, 17:00-kor ér véget a díszesen kivilágított templomnál.",
             "ro": "Începem turul în căldura plăcută a mașinii la castel. La prânz vizităm leprozeria și Ferme de Vaux, admirând liniștea iernii prin ferestrele mașinii. După-amiaza ajungem la capelă și la Parc Hérouval, înainte ca lumina să scadă în jur de ora 16:30. Turul se încheie la lăsarea întunericului, ora 17:00, la biserica luminată festiv.",
-            "en": "We start the tour in the cozy warmth of the car at the castle. At noon, we visit the Leprosarium and Ferme de Vaux, enjoying the winter silence through the windows. In the afternoon, we reach the chapel and Parc Hérouval before the light fades around 4:30 PM. The tour concludes at nightfall, 5 PM, at the beautifully illuminated town church."
+            "en": "We start the tour in the cozy warmth of the car at the castle. At noon, we visit the Leprosarium and Ferme de Vaux, enjoying the winter silence through the windows. In the afternoon, we reach the chapel and Parc Hérouval before the light fades around 4:30 PM. The tour concludes at nightfall, 5 PM, at the beautifully illuminated town church.",
+            "fr": "Nous commençons la visite dans la chaleur douillette de la voiture au château. À midi, nous visitons la léproserie et la Ferme de Vaux, profitant du silence hivernal à travers les vitres. L'après‑midi, nous atteignons la chapelle et le Parc Hérouval avant que la lumière ne baisse vers 16 h 30. La visite se conclut à la tombée de la nuit, 17 h, à la belle église illuminée de la ville."
           },
           "stops": [
             {
@@ -906,13 +1005,15 @@
                 "de": "Château de Gisors",
                 "hu": "Château de Gisors",
                 "ro": "Château de Gisors",
-                "en": "Château de Gisors"
+                "en": "Château de Gisors",
+                "fr": "Château de Gisors"
               },
               "tip_5lang": {
                 "de": "Genießen Sie den Blick auf die frostigen Burgmauern aus der warmen Fahrgastzelle; ein kurzer Spaziergang auf den Hauptwegen lohnt sich trotzdem.",
                 "hu": "Élvezze a kilátást a fagyos várfalakra a meleg utastérből; egy rövid séta a főbb utakon azért így is megéri a friss levegő miatt.",
                 "ro": "Bucurați-vă de vederea zidurilor înghețate din interiorul cald al mașinii; o scurtă plimbare pe aleile principale merită totuși efortul.",
-                "en": "Enjoy the view of the frosty castle walls from the warm car cabin; a short walk on the main paths is still worth it for the crisp air."
+                "en": "Enjoy the view of the frosty castle walls from the warm car cabin; a short walk on the main paths is still worth it for the crisp air.",
+                "fr": "Profitez de la vue sur les murs givrées du château depuis l'habitacle chaud de la voiture ; une courte promenade sur les sentiers principaux vaut néanmoins le coup pour l'air vif."
               }
             },
             {
@@ -920,13 +1021,15 @@
                 "de": "Leprosorium Saint-Lazare",
                 "hu": "Saint-Lazare Lepratelep",
                 "ro": "Leprozeria Saint-Lazare",
-                "en": "Saint-Lazare Leprosarium"
+                "en": "Saint-Lazare Leprosarium",
+                "fr": "Léproserie Saint-Lazare"
               },
               "tip_5lang": {
                 "de": "Achten Sie auf die Winteröffnungszeiten der Anlage; die kahlen Gärten bieten eine ganz eigene, besinnliche Ruhe für Besucher.",
                 "hu": "Ügyeljen a komplexum téli nyitvatartási idejére; a kopár kertek sajátos, elmélyült nyugalmat árasztanak az idelátogatók számára.",
                 "ro": "Atenție la programul de iarnă al complexului; grădinile golașe oferă o liniște aparte, meditativă, pentru toți vizitatorii.",
-                "en": "Be mindful of the complex's winter opening hours; the bare gardens offer a unique, contemplative peace for visitors during this season."
+                "en": "Be mindful of the complex's winter opening hours; the bare gardens offer a unique, contemplative peace for visitors during this season.",
+                "fr": "Tenez compte des horaires d'ouverture hivernaux du site ; les jardins dépouillés offrent une paix contemplative unique aux visiteurs en cette saison."
               }
             },
             {
@@ -934,13 +1037,15 @@
                 "de": "Ferme de Vaux",
                 "hu": "Ferme de Vaux",
                 "ro": "Ferme de Vaux",
-                "en": "Ferme de Vaux"
+                "en": "Ferme de Vaux",
+                "fr": "Ferme de Vaux"
               },
               "tip_5lang": {
                 "de": "Die ländliche Fahrt ist im Winter besonders malerisch, wenn Reif auf den Feldern liegt; halten Sie die Kamera für Landschaftsaufnahmen bereit.",
                 "hu": "A vidéki autózás télen különösen festői, amikor zúzmara fedi a mezőket; tartsa készenlétben a fényképezőgépét a tájképekhez.",
                 "ro": "Drumul rural este deosebit de pitoresc iarna, când chiciura acoperă câmpurile; țineți camera pregătită pentru fotografii de peisaj.",
-                "en": "The rural drive is especially picturesque in winter when frost covers the fields; keep your camera ready for some beautiful landscape shots."
+                "en": "The rural drive is especially picturesque in winter when frost covers the fields; keep your camera ready for some beautiful landscape shots.",
+                "fr": "La route rurale est particulièrement pittoresque en hiver lorsque le givre couvre les champs ; gardez votre appareil photo prêt pour de beaux clichés de paysage."
               }
             },
             {
@@ -948,13 +1053,15 @@
                 "de": "Chapelle du Château",
                 "hu": "Chapelle du Château",
                 "ro": "Chapelle du Château",
-                "en": "Chapelle du Château"
+                "en": "Chapelle du Château",
+                "fr": "Chapelle du Château"
               },
               "tip_5lang": {
                 "de": "Die Kapelle wirkt in der tiefstehenden Wintersonne sehr erhaben; nutzen Sie den Parkplatz direkt vor Ort für einen schnellen Besuch.",
                 "hu": "A kápolna az alacsonyan járó téli napsütésben rendkívül magasztos; használja a közvetlen parkolót egy gyors, de tartalmas látogatáshoz.",
                 "ro": "Capela pare foarte maiestuoasă în soarele de iarnă; folosiți parcarea de la fața locului pentru o vizită rapidă, dar plină de însemnătate.",
-                "en": "The chapel looks very majestic in the low winter sun; take advantage of the on-site parking for a quick but meaningful visit."
+                "en": "The chapel looks very majestic in the low winter sun; take advantage of the on-site parking for a quick but meaningful visit.",
+                "fr": "La chapelle paraît très majestueuse sous le faible soleil d'hiver ; profitez du parking sur place pour une visite rapide mais pleine de sens."
               }
             },
             {
@@ -962,13 +1069,15 @@
                 "de": "Parc Hérouval",
                 "hu": "Parc Hérouval",
                 "ro": "Parc Hérouval",
-                "en": "Parc Hérouval"
+                "en": "Parc Hérouval",
+                "fr": "Parc Hérouval"
               },
               "tip_5lang": {
                 "de": "In der Nebensaison ist es hier sehr ruhig; genießen Sie die weite Sicht durch die blattlosen Bäume während der Vorbeifahrt im Warmen.",
                 "hu": "A főszezonon kívül itt nagy a csend; élvezze a távoli kilátást a lombtalan fák között a meleg autóból, miközben elhalad a park mellett.",
                 "ro": "În afara sezonului este foarte liniște aici; bucurați-vă de vederea panoramică printre copacii desfrunziți din confortul mașinii calde.",
-                "en": "It's very quiet here in the off-season; enjoy the long views through the leafless trees from the warmth of your car as you drive by."
+                "en": "It's very quiet here in the off-season; enjoy the long views through the leafless trees from the warmth of your car as you drive by.",
+                "fr": "Il fait très calme ici hors saison ; profitez des longues perspectives à travers les arbres sans feuilles depuis la chaleur de votre voiture en passant."
               }
             },
             {
@@ -976,13 +1085,15 @@
                 "de": "Kirche Saint-Gervais-et-Saint-Protais",
                 "hu": "Saint-Gervais-et-Saint-Protais Templom",
                 "ro": "Biserica Saint-Gervais-et-Saint-Protais",
-                "en": "Saint-Gervais-et-Saint-Protais Church"
+                "en": "Saint-Gervais-et-Saint-Protais Church",
+                "fr": "Église Saint-Gervais-et-Saint-Protais"
               },
               "tip_5lang": {
                 "de": "Beenden Sie den Tag hier, wenn die Lichter der Stadt angehen; das Innere der Kirche bietet einen prachtvollen und besinnlichen Abschluss.",
                 "hu": "Zárja itt a napot, amikor felgyúlnak a város fényei; a templom belső tere pompás és meghitt befejezést kínál a téli körutazáshoz.",
                 "ro": "Încheiați ziua aici, când se aprind luminile orașului; interiorul bisericii oferă un final somptuos și intim pentru turul de iarnă.",
-                "en": "End your day here as the city lights come on; the church interior offers a grand and intimate conclusion to your winter journey."
+                "en": "End your day here as the city lights come on; the church interior offers a grand and intimate conclusion to your winter journey.",
+                "fr": "Terminez votre journée ici au moment où les lumières de la ville s'allument ; l'intérieur de l'église offre une conclusion à la fois grandiose et intime à votre voyage hivernal."
               }
             }
           ]

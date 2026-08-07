@@ -21,7 +21,8 @@
             "de": "Gros-Horloge",
             "hu": "Gros-Horloge csillagászati óra",
             "ro": "Gros-Horloge",
-            "en": "Gros-Horloge Astronomical Clock"
+            "en": "Gros-Horloge Astronomical Clock",
+            "fr": "Gros-Horloge (horloge astronomique)"
           },
           "coords": [
             1.0912,
@@ -36,7 +37,8 @@
             "de": "Besuchen Sie das Innere, um den Mechanismus aus dem 14. Jahrhundert zu sehen.",
             "hu": "Menjünk be az épületbe, hogy lássuk a 14. századi szerkezetet.",
             "ro": "Vizitați interiorul pentru a vedea mecanismul din secolul al XIV-lea.",
-            "en": "Visit the interior to see the 14th-century mechanism and the view."
+            "en": "Visit the interior to see the 14th-century mechanism and the view.",
+            "fr": "Visitez l'intérieur pour voir le mécanisme du XIVe siècle et la vue."
           }
         },
         {
@@ -44,7 +46,8 @@
             "de": "Kathedrale Notre-Dame",
             "hu": "Roueni katedrális",
             "ro": "Catedrala Notre-Dame din Rouen",
-            "en": "Rouen Cathedral"
+            "en": "Rouen Cathedral",
+            "fr": "Cathédrale de Rouen"
           },
           "coords": [
             1.0948,
@@ -59,7 +62,8 @@
             "de": "Bewundern Sie die Fassade, die Monet so oft gemalt hat.",
             "hu": "Csodáljuk meg a homlokzatot, amelyet Monet oly sokszor megfestett.",
             "ro": "Admirați fațada pe care Monet a pictat-o de atâtea ori.",
-            "en": "Admire the facade that Monet painted so many times in different lights."
+            "en": "Admire the facade that Monet painted so many times in different lights.",
+            "fr": "Admirez la façade que Monet a peinte tant de fois sous différentes lumières."
           }
         },
         {
@@ -67,7 +71,8 @@
             "de": "Kirche Saint-Maclou und Aître",
             "hu": "Saint-Maclou templom és csontház",
             "ro": "Biserica Saint-Maclou și Aître",
-            "en": "Saint-Maclou Church and Aître"
+            "en": "Saint-Maclou Church and Aître",
+            "fr": "Église Saint-Maclou et Aître"
           },
           "coords": [
             1.0985,
@@ -82,7 +87,8 @@
             "de": "Das Aître ist ein seltener mittelalterlicher Pestfriedhof mit Holzschnitzereien.",
             "hu": "Az Aître egy ritka középkori pestistemető faragott díszítésekkel.",
             "ro": "Aître este un rar cimitir medieval de ciumă, cu sculpturi în lemn.",
-            "en": "The Aître is a rare medieval plague cemetery with macabre wood carvings."
+            "en": "The Aître is a rare medieval plague cemetery with macabre wood carvings.",
+            "fr": "L'Aître est un rare cimetière médiéval de la peste avec des sculptures en bois macabres."
           }
         },
         {
@@ -90,7 +96,8 @@
             "de": "Place du Vieux-Marché",
             "hu": "Vieux-Marché (Régi piactér)",
             "ro": "Piața Veche (Vieux-Marché)",
-            "en": "Old Market Square (Vieux-Marché)"
+            "en": "Old Market Square (Vieux-Marché)",
+            "fr": "Place du Vieux-Marché (Vieux-Marché)"
           },
           "coords": [
             1.0885,
@@ -105,7 +112,8 @@
             "de": "Hier wurde Jeanne d'Arc hingerichtet; besuchen Sie die moderne Kirche.",
             "hu": "Itt végezték ki Jeanne d'Arcot; nézzük meg a modern emléktemplomot.",
             "ro": "Aici a fost executată Ioana d'Arc; vizitați biserica modernă.",
-            "en": "Where Joan of Arc was executed; visit the modern church dedicated to her."
+            "en": "Where Joan of Arc was executed; visit the modern church dedicated to her.",
+            "fr": "Là où Jeanne d'Arc a été exécutée ; visitez l'église moderne qui lui est dédiée."
           }
         },
         {
@@ -113,7 +121,8 @@
             "de": "Museum der Schönen Künste",
             "hu": "Szépművészeti Múzeum",
             "ro": "Muzeul de Arte Frumoase",
-            "en": "Museum of Fine Arts"
+            "en": "Museum of Fine Arts",
+            "fr": "Musée des Beaux-Arts"
           },
           "coords": [
             1.0938,
@@ -128,7 +137,8 @@
             "de": "Hervorragende Impressionisten-Sammlung und freier Eintritt in die Dauerausstellung.",
             "hu": "Kiváló impresszionista gyűjtemény, az állandó kiállítás ingyenes.",
             "ro": "Colecție impresionistă excelentă și intrare gratuită la expoziția permanentă.",
-            "en": "Excellent Impressionist collection and free entry to permanent exhibits."
+            "en": "Excellent Impressionist collection and free entry to permanent exhibits.",
+            "fr": "Excellente collection impressionniste et entrée gratuite aux expositions permanentes."
           }
         },
         {
@@ -136,7 +146,8 @@
             "de": "Panorama Sainte-Catherine",
             "hu": "Sainte-Catherine panoráma",
             "ro": "Panorama Sainte-Catherine",
-            "en": "Sainte-Catherine Viewpoint"
+            "en": "Sainte-Catherine Viewpoint",
+            "fr": "Belvédère Sainte-Catherine"
           },
           "coords": [
             1.1115,
@@ -151,7 +162,8 @@
             "de": "Der beste Blick auf Rouen und die Seine-Schleifen bei Sonnenuntergang.",
             "hu": "A legjobb kilátás Rouenre és a Szajnára naplementekor.",
             "ro": "Cea mai bună vedere asupra Rouenului și a Senei la apus.",
-            "en": "The best view of Rouen and the Seine curves, especially at sunset."
+            "en": "The best view of Rouen and the Seine curves, especially at sunset.",
+            "fr": "La meilleure vue sur Rouen et les courbes de la Seine, surtout au coucher du soleil."
           }
         }
       ],
@@ -159,7 +171,8 @@
         "de": "Beginnen Sie Ihren Tag im Herzen des mittelalterlichen Rouen, bewundern Sie die prächtige astronomische Uhr und die imposante Kathedrale, deren Fassade Monet inspirierte. Mittags spazieren Sie durch das Viertel Saint-Maclou mit seinen Fachwerkhäusern. Nachmittags erkunden Sie die Geschichte der Jeanne d'Arc am Alten Markt und tauchen in die Kunstwelt des Musée des Beaux-Arts ein. Zum Abschluss genießen Sie den spektakulären Sonnenuntergang vom Hügel Sainte-Catherine.",
         "hu": "Kezdje a napot Rouen középkori szívében, csodálja meg a hatalmas csillagászati órát és az impozáns katedrálist, amely Monet-t is megihlette. Délben sétáljon végig Saint-Maclou negyedén a gerendavázas házak között. Délután ismerje meg Jeanne d'Arc történetét a Régi piactéren, majd merüljön el a művészetben a Szépművészeti Múzeumban. A napot a Sainte-Catherine dombról nyíló látványos panorámával zárja.",
         "ro": "Începeți ziua în inima medievală a Rouenului, admirând ceasul astronomic magnific și catedrala impunătoare care l-a inspirat pe Monet. La prânz, plimbați-vă prin cartierul Saint-Maclou cu casele sale cu bârne. După-amiaza, explorați istoria Ioanei d'Arc în Piața Veche și descoperiți arta la Muzeul de Arte Frumoase. Încheiați ziua cu panorama spectaculoasă de pe dealul Sainte-Catherine la apus.",
-        "en": "Start your day in the medieval heart of Rouen, admiring the magnificent astronomical clock and the imposing cathedral that inspired Monet. At midday, stroll through the Saint-Maclou district with its half-timbered houses. In the afternoon, explore Joan of Arc's history at the Old Market Square and dive into art at the Museum of Fine Arts. Finally, enjoy the spectacular sunset views from Sainte-Catherine hill overlooking the Seine valley."
+        "en": "Start your day in the medieval heart of Rouen, admiring the magnificent astronomical clock and the imposing cathedral that inspired Monet. At midday, stroll through the Saint-Maclou district with its half-timbered houses. In the afternoon, explore Joan of Arc's history at the Old Market Square and dive into art at the Museum of Fine Arts. Finally, enjoy the spectacular sunset views from Sainte-Catherine hill overlooking the Seine valley.",
+        "fr": "Commencez votre journée au cœur médiéval de Rouen, en admirant le magnifique Gros-Horloge et la cathédrale imposante qui inspira Monet. À midi, flânez dans le quartier Saint-Maclou aux maisons à colombages. L'après-midi, explorez l'histoire de Jeanne d'Arc sur la place du Vieux-Marché et plongez dans l'art au Musée des Beaux-Arts. Enfin, profitez du spectaculaire coucher de soleil depuis la colline Sainte-Catherine surplombant la vallée de la Seine."
       },
       "gastro_picks": {
         "de": [
@@ -319,6 +332,12 @@
           "Pay attention to the small carved details on the half-timbered houses.",
           "The cathedral often hosts a light show during summer evenings.",
           "Wear comfortable shoes for the cobblestone streets in the old town."
+        ],
+        "fr": [
+          "Rouen se visite mieux à pied puisque la majeure partie du centre est piétonne.",
+          "Faites attention aux petits détails sculptés des maisons à colombages.",
+          "La cathédrale accueille souvent un spectacle de lumières en soirée pendant l'été.",
+          "Portez des chaussures confortables pour les rues pavées de la vieille ville."
         ]
       },
       "variants": {
@@ -327,7 +346,8 @@
             "de": "Beginnen Sie Ihren Tag im Herzen des mittelalterlichen Rouen, bewundern Sie die prächtige astronomische Uhr und die imposante Kathedrale, deren Fassade Monet inspirierte. Mittags spazieren Sie durch das Viertel Saint-Maclou mit seinen Fachwerkhäusern. Nachmittags erkunden Sie die Geschichte der Jeanne d'Arc am Alten Markt und tauchen in die Kunstwelt des Musée des Beaux-Arts ein. Zum Abschluss genießen Sie den spektakulären Sonnenuntergang vom Hügel Sainte-Catherine.",
             "hu": "Kezdje a napot Rouen középkori szívében, csodálja meg a hatalmas csillagászati órát és az impozáns katedrálist, amely Monet-t is megihlette. Délben sétáljon végig Saint-Maclou negyedén a gerendavázas házak között. Délután ismerje meg Jeanne d'Arc történetét a Régi piactéren, majd merüljön el a művészetben a Szépművészeti Múzeumban. A napot a Sainte-Catherine dombról nyíló látványos panorámával zárja.",
             "ro": "Începeți ziua în inima medievală a Rouenului, admirând ceasul astronomic magnific și catedrala impunătoare care l-a inspirat pe Monet. La prânz, plimbați-vă prin cartierul Saint-Maclou cu casele sale cu bârne. După-amiaza, explorați istoria Ioanei d'Arc în Piața Veche și descoperiți arta la Muzeul de Arte Frumoase. Încheiați ziua cu panorama spectaculoasă de pe dealul Sainte-Catherine la apus.",
-            "en": "Start your day in the medieval heart of Rouen, admiring the magnificent astronomical clock and the imposing cathedral that inspired Monet. At midday, stroll through the Saint-Maclou district with its half-timbered houses. In the afternoon, explore Joan of Arc's history at the Old Market Square and dive into art at the Museum of Fine Arts. Finally, enjoy the spectacular sunset views from Sainte-Catherine hill overlooking the Seine valley."
+            "en": "Start your day in the medieval heart of Rouen, admiring the magnificent astronomical clock and the imposing cathedral that inspired Monet. At midday, stroll through the Saint-Maclou district with its half-timbered houses. In the afternoon, explore Joan of Arc's history at the Old Market Square and dive into art at the Museum of Fine Arts. Finally, enjoy the spectacular sunset views from Sainte-Catherine hill overlooking the Seine valley.",
+            "fr": "Commencez votre journée au cœur médiéval de Rouen, en admirant le magnifique Gros-Horloge et la cathédrale imposante qui inspira Monet. À midi, flânez dans le quartier Saint-Maclou aux maisons à colombages. L'après-midi, explorez l'histoire de Jeanne d'Arc sur la place du Vieux-Marché et plongez dans l'art au Musée des Beaux-Arts. Enfin, profitez du spectaculaire coucher de soleil depuis la colline Sainte-Catherine surplombant la vallée de la Seine."
           },
           "stops": [
             {
@@ -335,13 +355,15 @@
                 "de": "Gros-Horloge",
                 "hu": "Gros-Horloge csillagászati óra",
                 "ro": "Gros-Horloge",
-                "en": "Gros-Horloge Astronomical Clock"
+                "en": "Gros-Horloge Astronomical Clock",
+                "fr": "Gros-Horloge (horloge astronomique)"
               },
               "tip_5lang": {
                 "de": "Besuchen Sie das Innere, um den Mechanismus aus dem 14. Jahrhundert zu sehen.",
                 "hu": "Menjünk be az épületbe, hogy lássuk a 14. századi szerkezetet.",
                 "ro": "Vizitați interiorul pentru a vedea mecanismul din secolul al XIV-lea.",
-                "en": "Visit the interior to see the 14th-century mechanism and the view."
+                "en": "Visit the interior to see the 14th-century mechanism and the view.",
+                "fr": "Visitez l'intérieur pour voir le mécanisme du XIVe siècle et la vue."
               }
             },
             {
@@ -349,13 +371,15 @@
                 "de": "Kathedrale Notre-Dame",
                 "hu": "Roueni katedrális",
                 "ro": "Catedrala Notre-Dame din Rouen",
-                "en": "Rouen Cathedral"
+                "en": "Rouen Cathedral",
+                "fr": "Cathédrale de Rouen"
               },
               "tip_5lang": {
                 "de": "Bewundern Sie die Fassade, die Monet so oft gemalt hat.",
                 "hu": "Csodáljuk meg a homlokzatot, amelyet Monet oly sokszor megfestett.",
                 "ro": "Admirați fațada pe care Monet a pictat-o de atâtea ori.",
-                "en": "Admire the facade that Monet painted so many times in different lights."
+                "en": "Admire the facade that Monet painted so many times in different lights.",
+                "fr": "Admirez la façade que Monet a peinte tant de fois sous différentes lumières."
               }
             },
             {
@@ -363,13 +387,15 @@
                 "de": "Kirche Saint-Maclou und Aître",
                 "hu": "Saint-Maclou templom és csontház",
                 "ro": "Biserica Saint-Maclou și Aître",
-                "en": "Saint-Maclou Church and Aître"
+                "en": "Saint-Maclou Church and Aître",
+                "fr": "Église Saint-Maclou et Aître"
               },
               "tip_5lang": {
                 "de": "Das Aître ist ein seltener mittelalterlicher Pestfriedhof mit Holzschnitzereien.",
                 "hu": "Az Aître egy ritka középkori pestistemető faragott díszítésekkel.",
                 "ro": "Aître este un rar cimitir medieval de ciumă, cu sculpturi în lemn.",
-                "en": "The Aître is a rare medieval plague cemetery with macabre wood carvings."
+                "en": "The Aître is a rare medieval plague cemetery with macabre wood carvings.",
+                "fr": "L'Aître est un rare cimetière médiéval de la peste avec des sculptures en bois macabres."
               }
             },
             {
@@ -377,13 +403,15 @@
                 "de": "Place du Vieux-Marché",
                 "hu": "Vieux-Marché (Régi piactér)",
                 "ro": "Piața Veche (Vieux-Marché)",
-                "en": "Old Market Square (Vieux-Marché)"
+                "en": "Old Market Square (Vieux-Marché)",
+                "fr": "Place du Vieux-Marché (Vieux-Marché)"
               },
               "tip_5lang": {
                 "de": "Hier wurde Jeanne d'Arc hingerichtet; besuchen Sie die moderne Kirche.",
                 "hu": "Itt végezték ki Jeanne d'Arcot; nézzük meg a modern emléktemplomot.",
                 "ro": "Aici a fost executată Ioana d'Arc; vizitați biserica modernă.",
-                "en": "Where Joan of Arc was executed; visit the modern church dedicated to her."
+                "en": "Where Joan of Arc was executed; visit the modern church dedicated to her.",
+                "fr": "Là où Jeanne d'Arc a été exécutée ; visitez l'église moderne qui lui est dédiée."
               }
             },
             {
@@ -391,13 +419,15 @@
                 "de": "Museum der Schönen Künste",
                 "hu": "Szépművészeti Múzeum",
                 "ro": "Muzeul de Arte Frumoase",
-                "en": "Museum of Fine Arts"
+                "en": "Museum of Fine Arts",
+                "fr": "Musée des Beaux-Arts"
               },
               "tip_5lang": {
                 "de": "Hervorragende Impressionisten-Sammlung und freier Eintritt in die Dauerausstellung.",
                 "hu": "Kiváló impresszionista gyűjtemény, az állandó kiállítás ingyenes.",
                 "ro": "Colecție impresionistă excelentă și intrare gratuită la expoziția permanentă.",
-                "en": "Excellent Impressionist collection and free entry to permanent exhibits."
+                "en": "Excellent Impressionist collection and free entry to permanent exhibits.",
+                "fr": "Excellente collection impressionniste et entrée gratuite aux expositions permanentes."
               }
             },
             {
@@ -405,13 +435,15 @@
                 "de": "Panorama Sainte-Catherine",
                 "hu": "Sainte-Catherine panoráma",
                 "ro": "Panorama Sainte-Catherine",
-                "en": "Sainte-Catherine Viewpoint"
+                "en": "Sainte-Catherine Viewpoint",
+                "fr": "Belvédère Sainte-Catherine"
               },
               "tip_5lang": {
                 "de": "Der beste Blick auf Rouen und die Seine-Schleifen bei Sonnenuntergang.",
                 "hu": "A legjobb kilátás Rouenre és a Szajnára naplementekor.",
                 "ro": "Cea mai bună vedere asupra Rouenului și a Senei la apus.",
-                "en": "The best view of Rouen and the Seine curves, especially at sunset."
+                "en": "The best view of Rouen and the Seine curves, especially at sunset.",
+                "fr": "La meilleure vue sur Rouen et les courbes de la Seine, surtout au coucher du soleil."
               }
             }
           ],
@@ -573,6 +605,12 @@
               "Pay attention to the small carved details on the half-timbered houses.",
               "The cathedral often hosts a light show during summer evenings.",
               "Wear comfortable shoes for the cobblestone streets in the old town."
+            ],
+            "fr": [
+              "Rouen se visite mieux à pied puisque la majeure partie du centre est piétonne.",
+              "Faites attention aux petits détails sculptés des maisons à colombages.",
+              "La cathédrale accueille souvent un spectacle de lumières en soirée pendant l'été.",
+              "Portez des chaussures confortables pour les rues pavées de la vieille ville."
             ]
           }
         },
@@ -581,7 +619,8 @@
             "de": "Morgens schützt der Bogen der Gros-Horloge vor dem normannischen Regen. Mittags bietet die Kathedrale eine majestätische, trockene Zuflucht. Nachmittags laden die Säle des Kunstmuseums zum Verweilen im Trockenen ein. Abends blickt man durch den Nebel von Sainte-Catherine auf die glitzernde Stadt.",
             "hu": "Reggel a Gros-Horloge boltíve nyújt menedéket a normann eső elől. Délben a katedrális fenséges, száraz belső tere vár. Délután a Szépművészeti Múzeum termeiben észrevétlenül repül az idő. Este a ködös Sainte-Catherine dombról figyelhetjük a város fényeit.",
             "ro": "Dimineața, arcada Gros-Horloge oferă adăpost împotriva ploii normande. La prânz, catedrala oferă un refugiu maiestuos și uscat. După-amiaza, sălile Muzeului de Arte Frumoase invită la o vizită prelungită. Seara, panorama de la Sainte-Catherine dezvăluie orașul sclipind prin ceață.",
-            "en": "In the morning, the arch of the Gros-Horloge provides shelter from the Norman rain. At noon, the cathedral offers a majestic, dry refuge. In the afternoon, the halls of the Fine Arts Museum make time fly indoors. In the evening, the city lights glitter through the mist from Sainte-Catherine."
+            "en": "In the morning, the arch of the Gros-Horloge provides shelter from the Norman rain. At noon, the cathedral offers a majestic, dry refuge. In the afternoon, the halls of the Fine Arts Museum make time fly indoors. In the evening, the city lights glitter through the mist from Sainte-Catherine.",
+            "fr": "Le matin, l'arche du Gros-Horloge protège de la pluie normande. À midi, la cathédrale offre un refuge majestueux et sec. L'après-midi, les salles du Musée des Beaux-Arts font passer le temps à l'abri. Le soir, les lumières de la ville scintillent dans la brume depuis Sainte-Catherine."
           },
           "stops": [
             {
@@ -590,7 +629,8 @@
                 "de": "Der Renaissance-Bogen bietet einen perfekten Unterstand bei Schauern.",
                 "hu": "A reneszánsz boltív tökéletes búvóhely a hirtelen záporok elől.",
                 "ro": "Arcada renascentistă oferă un adăpost perfect în timpul averselor.",
-                "en": "The Renaissance arch provides a perfect shelter during showers."
+                "en": "The Renaissance arch provides a perfect shelter during showers.",
+                "fr": "L'arche de la Renaissance constitue un abri parfait lors des averses."
               }
             },
             {
@@ -599,7 +639,8 @@
                 "de": "Nutzen Sie die Zeit für eine ausführliche Innenbesichtigung der Krypta.",
                 "hu": "Használja ki az időt a kripta részletes, fedett bejárására.",
                 "ro": "Profitați de timp pentru o vizită detaliată a criptei interioare.",
-                "en": "Take the opportunity for a detailed indoor visit of the crypt."
+                "en": "Take the opportunity for a detailed indoor visit of the crypt.",
+                "fr": "Profitez-en pour visiter en détail la crypte intérieure."
               }
             },
             {
@@ -608,7 +649,8 @@
                 "de": "Das Aître bietet mit seinen Galerien einen stimmungsvollen Schutz.",
                 "hu": "Az Aître galériái hangulatos védelmet nyújtanak az eső ellen.",
                 "ro": "Galeriile de la Aître oferă o protecție atmosferică împotriva ploii.",
-                "en": "The galleries of the Aître provide atmospheric protection from rain."
+                "en": "The galleries of the Aître provide atmospheric protection from rain.",
+                "fr": "Les galeries de l'Aître offrent une protection atmosphérique contre la pluie."
               }
             },
             {
@@ -617,7 +659,8 @@
                 "de": "Die moderne Jeanne d'Arc Kirche hat ein weitläufiges Schutzdach.",
                 "hu": "A modern Szent Johanna templom hatalmas védőtetővel rendelkezik.",
                 "ro": "Biserica modernă Ioana d'Arc are un acoperiș protector vast.",
-                "en": "The modern Joan of Arc church has an extensive protective roof."
+                "en": "The modern Joan of Arc church has an extensive protective roof.",
+                "fr": "L'église moderne de Jeanne d'Arc possède un large toit protecteur."
               }
             },
             {
@@ -626,7 +669,8 @@
                 "de": "Ideal, um die stärksten Regenfunde bei Kunst zu überbrücken.",
                 "hu": "Ideális helyszín a nagyobb esőzés átvészelésére a művészetek közt.",
                 "ro": "Ideal pentru a aștepta trecerea ploii printre opere de artă.",
-                "en": "Ideal place to wait out the heaviest rain among fine arts."
+                "en": "Ideal place to wait out the heaviest rain among fine arts.",
+                "fr": "Endroit idéal pour attendre la plus forte pluie parmi les beaux-arts."
               }
             },
             {
@@ -635,7 +679,8 @@
                 "de": "Vorsicht auf den rutschigen Steinstufen beim Aufstieg.",
                 "hu": "Vigyázat, a lépcsőfokok csúszósak lehetnek felfelé menet.",
                 "ro": "Atenție la treptele de piatră care pot fi alunecoase la urcare.",
-                "en": "Be careful on the stone steps as they can be slippery when wet."
+                "en": "Be careful on the stone steps as they can be slippery when wet.",
+                "fr": "Faites attention aux marches en pierre qui peuvent être glissantes lorsqu'elles sont mouillées."
               }
             }
           ],
@@ -663,6 +708,12 @@
               "A sturdy umbrella is essential due to typical western winds.",
               "Take advantage of the many cozy tea rooms on Rue Saint-Romain.",
               "The TEOR bus system drops you almost directly in the pedestrian zone."
+            ],
+            "fr": [
+              "Les avancées des maisons à colombages fournissent un abri naturel contre la pluie.",
+              "Un parapluie solide est indispensable à cause des vents typiques de l'ouest.",
+              "Profitez des nombreux salons de thé accueillants de la rue Saint-Romain.",
+              "Le système de bus TEOR vous dépose presque directement dans la zone piétonne."
             ]
           }
         },
@@ -671,7 +722,8 @@
             "de": "Morgens glitzert der Frost auf den Dächern der Rue du Gros-Horloge. Mittags wärmt die spirituelle Stille der Kathedrale Körper und Geist. Nachmittags bietet das Museum Schutz vor der Winterkälte. Abends taucht die frühe Dämmerung die Stadt in ein Meer aus Lichtern, sichtbar vom Sainte-Catherine Hügel.",
             "hu": "Reggel dér csillog a Rue du Gros-Horloge háztetőin. Délben a katedrális spirituális csendje melengeti a testet és lelket. Délután a múzeum nyújt menedéket a téli hideg elől. Este a korai sötétedés fényárba öltözteti a várost, amit a Sainte-Catherine dombról csodálhatunk meg.",
             "ro": "Dimineața, promoroaca strălucește pe acoperișurile de pe Rue du Gros-Horloge. La prânz, liniștea catedralei încălzește trupul și spiritul. După-amiaza, muzeul oferă adăpost împotriva frigului iernii. Seara, amurgul timpuriu scaldă orașul în lumini, vizibile de pe dealul Sainte-Catherine.",
-            "en": "In the morning, frost sparkles on the roofs of Rue du Gros-Horloge. At noon, the cathedral's spiritual silence warms body and soul. In the afternoon, the museum provides shelter from the winter cold. In the evening, the early dusk bathes the city in lights, best viewed from Sainte-Catherine hill."
+            "en": "In the morning, frost sparkles on the roofs of Rue du Gros-Horloge. At noon, the cathedral's spiritual silence warms body and soul. In the afternoon, the museum provides shelter from the winter cold. In the evening, the early dusk bathes the city in lights, best viewed from Sainte-Catherine hill.",
+            "fr": "Le matin, le givre scintille sur les toits de la rue du Gros-Horloge. À midi, le silence spirituel de la cathédrale réchauffe corps et âme. L'après-midi, le musée offre un refuge contre le froid hivernal. Le soir, le crépuscule précoce baigne la ville de lumières, mieux vues depuis la colline Sainte-Catherine."
           },
           "stops": [
             {
@@ -680,7 +732,8 @@
                 "de": "Die Beleuchtung der astronomischen Uhr ist im Winter besonders prächtig.",
                 "hu": "Az asztrológiai óra világítása télen különösen látványos.",
                 "ro": "Iluminatul ceasului astronomic este deosebit de spectaculos iarna.",
-                "en": "The lighting of the astronomical clock is especially grand in winter."
+                "en": "The lighting of the astronomical clock is especially grand in winter.",
+                "fr": "L'éclairage du Gros-Horloge est particulièrement grandiose en hiver."
               }
             },
             {
@@ -689,7 +742,8 @@
                 "de": "Im Inneren herrscht oft eine angenehmere Temperatur als draußen.",
                 "hu": "A belső térben gyakran kellemesebb a hőmérséklet, mint kint.",
                 "ro": "În interior este adesea o temperatură mai plăcută decât afară.",
-                "en": "The interior often maintains a more pleasant temperature than outside."
+                "en": "The interior often maintains a more pleasant temperature than outside.",
+                "fr": "L'intérieur garde souvent une température plus agréable que l'extérieur."
               }
             },
             {
@@ -698,7 +752,8 @@
                 "de": "Besuchen Sie das Aître für die mystische Winteratmosphäre.",
                 "hu": "Látogasson el az Aître-be a misztikus téli hangulatért.",
                 "ro": "Vizitați Aître pentru atmosfera mistică de iarnă.",
-                "en": "Visit the Aître for the mystical winter atmosphere."
+                "en": "Visit the Aître for the mystical winter atmosphere.",
+                "fr": "Visitez l'Aître pour son atmosphère mystique en hiver."
               }
             },
             {
@@ -707,7 +762,8 @@
                 "de": "Genießen Sie einen heißen Cidre in den umliegenden Cafés.",
                 "hu": "Kóstoljon meg egy forró cidre-t a környékbeli kávézókban.",
                 "ro": "Savurați un cidru fierbinte în cafenelele din jur.",
-                "en": "Enjoy a hot cider in the surrounding cafes."
+                "en": "Enjoy a hot cider in the surrounding cafes.",
+                "fr": "Savourez un cidre chaud dans les cafés alentour."
               }
             },
             {
@@ -716,7 +772,8 @@
                 "de": "Perfekt für eine zweistündige Aufwärmpause bei erstklassiger Kunst.",
                 "hu": "Tökéletes kétórás melegedő világszínvonalú műtárgyak között.",
                 "ro": "Perfect pentru o pauză de încălzire de două ore printre capodopere.",
-                "en": "Perfect for a two-hour warm-up break among world-class art."
+                "en": "Perfect for a two-hour warm-up break among world-class art.",
+                "fr": "Parfait pour une pause réchauffante de deux heures parmi des œuvres de classe mondiale."
               }
             },
             {
@@ -725,7 +782,8 @@
                 "de": "Warme Kleidung für den windigen Aussichtspunkt ist Pflicht.",
                 "hu": "A szeles kilátóponton kötelező a meleg, réteges öltözet.",
                 "ro": "Îmbrăcămintea groasă este obligatorie pentru punctul de observație vântos.",
-                "en": "Warm clothing is mandatory for the windy viewpoint."
+                "en": "Warm clothing is mandatory for the windy viewpoint.",
+                "fr": "Des vêtements chauds sont indispensables pour le belvédère venteux."
               }
             }
           ],
@@ -753,6 +811,12 @@
               "Cobblestones can be extremely slippery when frozen.",
               "Christmas lights in the old town start in late November.",
               "Wear sturdy shoes with good grip for the viewpoint climb."
+            ],
+            "fr": [
+              "Le soleil se couche dès 17h00 en décembre.",
+              "Les pavés peuvent être extrêmement glissants lorsqu'ils sont gelés.",
+              "Les illuminations de Noël dans la vieille ville commencent fin novembre.",
+              "Portez des chaussures solides à bonne adhérence pour la montée au belvédère."
             ]
           }
         }
@@ -771,7 +835,8 @@
             "de": "Place du Vieux-Marché",
             "hu": "Vieux-Marché",
             "ro": "Piața Veche",
-            "en": "Old Market Square"
+            "en": "Old Market Square",
+            "fr": "Place du Vieux-Marché"
           },
           "coords": [
             1.0885,
@@ -786,7 +851,8 @@
             "de": "Starten Sie hier und besorgen Sie sich Proviant am Markt.",
             "hu": "Kezdje itt, és szerezzen be útravalót a piacon.",
             "ro": "Începeți aici și cumpărați provizii de la piață.",
-            "en": "Start here and pick up some snacks from the market."
+            "en": "Start here and pick up some snacks from the market.",
+            "fr": "Commencez ici et prenez quelques en-cas au marché."
           }
         },
         {
@@ -794,7 +860,8 @@
             "de": "Quais de Seine (Rive Droite)",
             "hu": "Szajna rakpart (Jobb part)",
             "ro": "Cheile Senei (Malul Drept)",
-            "en": "Seine Quays (Right Bank)"
+            "en": "Seine Quays (Right Bank)",
+            "fr": "Quais de la Seine (rive droite)"
           },
           "coords": [
             1.0842,
@@ -809,7 +876,8 @@
             "de": "Breite Radwege entlang des Flusses mit Blick auf die Schiffe.",
             "hu": "Széles kerékpárutak a folyó mentén, kilátással a hajókra.",
             "ro": "Piste largi de biciclete de-a lungul râului, cu vedere la nave.",
-            "en": "Wide bike paths along the river with views of the ships."
+            "en": "Wide bike paths along the river with views of the ships.",
+            "fr": "Large pistes cyclables le long du fleuve avec vue sur les bateaux."
           }
         },
         {
@@ -817,7 +885,8 @@
             "de": "Pont Gustave-Flaubert",
             "hu": "Gustave-Flaubert híd",
             "ro": "Podul Gustave-Flaubert",
-            "en": "Gustave Flaubert Bridge"
+            "en": "Gustave Flaubert Bridge",
+            "fr": "Pont Gustave-Flaubert"
           },
           "coords": [
             1.0635,
@@ -832,7 +901,8 @@
             "de": "Eine der höchsten Hubbrücken der Welt, ein technisches Wunderwerk.",
             "hu": "A világ egyik legmagasabb emelőhídja, mérnöki csoda.",
             "ro": "Unul dintre cele mai înalte poduri mobile din lume, o minune tehnică.",
-            "en": "One of the world's tallest lift bridges, an engineering marvel."
+            "en": "One of the world's tallest lift bridges, an engineering marvel.",
+            "fr": "Un des plus hauts ponts-lifts du monde, une merveille d'ingénierie."
           }
         },
         {
@@ -840,7 +910,8 @@
             "de": "Jardin des Plantes",
             "hu": "Fűvészkert (Jardin des Plantes)",
             "ro": "Grădina Botanică",
-            "en": "Botanical Garden (Jardin des Plantes)"
+            "en": "Botanical Garden (Jardin des Plantes)",
+            "fr": "Jardin des Plantes (Jardin des Plantes)"
           },
           "coords": [
             1.0772,
@@ -855,7 +926,8 @@
             "de": "Wunderschöner botanischer Garten auf der Südseite der Stadt.",
             "hu": "Gyönyörű botanikus kert a város déli oldalán.",
             "ro": "Grădină botanică superbă pe latura de sud a orașului.",
-            "en": "Beautiful botanical garden on the south side of the city."
+            "en": "Beautiful botanical garden on the south side of the city.",
+            "fr": "Beau jardin botanique sur la rive sud de la ville."
           }
         },
         {
@@ -863,7 +935,8 @@
             "de": "Quais de Seine (Rive Gauche)",
             "hu": "Szajna rakpart (Bal part)",
             "ro": "Cheile Senei (Malul Stâng)",
-            "en": "Seine Quays (Left Bank)"
+            "en": "Seine Quays (Left Bank)",
+            "fr": "Quais de la Seine (rive gauche)"
           },
           "coords": [
             1.0855,
@@ -878,7 +951,8 @@
             "de": "Entspannter Weg zurück durch grüne Parkanlagen am Wasser.",
             "hu": "Pihentető út visszafelé a vízparti zöld parkokon keresztül.",
             "ro": "Drum relaxant înapoi prin parcurile verzi de pe malul apei.",
-            "en": "Relaxing path back through green waterfront parks."
+            "en": "Relaxing path back through green waterfront parks.",
+            "fr": "Piste relaxante de retour à travers les parcs verts en bord de l'eau."
           }
         },
         {
@@ -886,7 +960,8 @@
             "de": "Kathedrale Notre-Dame",
             "hu": "Roueni katedrális",
             "ro": "Catedrala Notre-Dame",
-            "en": "Rouen Cathedral"
+            "en": "Rouen Cathedral",
+            "fr": "Cathédrale de Rouen"
           },
           "coords": [
             1.0948,
@@ -901,7 +976,8 @@
             "de": "Stellen Sie Ihr Fahrrad sicher ab und besuchen Sie die Kirche.",
             "hu": "Zárjuk le biztonságosan a biciklit, és látogassuk meg a templomot.",
             "ro": "Parcați bicicleta în siguranță și vizitați biserica.",
-            "en": "Lock your bike securely and visit the church interior."
+            "en": "Lock your bike securely and visit the church interior.",
+            "fr": "Verrouillez bien votre vélo et visitez l'intérieur de l'église."
           }
         }
       ],
@@ -909,7 +985,8 @@
         "de": "Erkunden Sie Rouen auf zwei Rädern, beginnend am historischen Marktplatz. Folgen Sie den modernen Radwegen entlang der Seine-Ufer, bewundern Sie die beeindruckende Flaubert-Brücke und überqueren Sie den Fluss zum ruhigen Botanischen Garten auf der Südseite. Die Rückfahrt führt Sie durch die grünen Parks des linken Ufers zurück zur Kathedrale im Stadtzentrum.",
         "hu": "Fedezze fel Rouent két keréken, a történelmi piactérről indulva. Tekerjen a Szajna-part modern kerékpárútjain, csodálja meg a lenyűgöző Flaubert-hidat, majd keljen át a folyón a déli oldalon található nyugodt Fűvészkerthez. A visszaút a bal part zöld parkjain keresztül vezet a belvárosi katedrálishoz.",
         "ro": "Explorați Rouenul pe două roți, începând din piața istorică. Urmați pistele de biciclete moderne de-a lungul malurilor Senei, admirați podul Flaubert impresionant și traversați râul spre Grădina Botanică liniștită din partea de sud. Drumul de întoarcere vă poartă prin parcurile verzi de pe malul stâng înapoi la catedrală.",
-        "en": "Explore Rouen on two wheels, starting from the historic market square. Ride along the modern bike paths of the Seine quays, admire the impressive Flaubert Bridge, and cross the river to the peaceful Botanical Garden on the south side. The return journey takes you through the green parks of the left bank back to the cathedral in the city center."
+        "en": "Explore Rouen on two wheels, starting from the historic market square. Ride along the modern bike paths of the Seine quays, admire the impressive Flaubert Bridge, and cross the river to the peaceful Botanical Garden on the south side. The return journey takes you through the green parks of the left bank back to the cathedral in the city center.",
+        "fr": "Explorez Rouen à deux roues, en partant de la place historique du marché. Empruntez les pistes cyclables modernes des quais de la Seine, admirez l'impressionnant pont Flaubert, traversez la rivière jusqu'au paisible Jardin des Plantes au sud. Le trajet de retour vous ramène par les parcs verdoyants de la rive gauche jusqu'à la cathédrale au centre-ville."
       },
       "gastro_picks": {
         "de": [
@@ -1017,6 +1094,12 @@
           "The quays are flat and very bike-friendly.",
           "Avoid the cobblestones in the center if possible.",
           "Watch out for pedestrians in the old town area."
+        ],
+        "fr": [
+          "Rouen dispose du système de vélos en libre-service Le Vélo.",
+          "Les quais sont plats et très adaptés au vélo.",
+          "Évitez les pavés du centre si possible.",
+          "Faites attention aux piétons dans le secteur de la vieille ville."
         ]
       },
       "variants": {
@@ -1025,7 +1108,8 @@
             "de": "Erkunden Sie Rouen auf zwei Rädern, beginnend am historischen Marktplatz. Folgen Sie den modernen Radwegen entlang der Seine-Ufer, bewundern Sie die beeindruckende Flaubert-Brücke und überqueren Sie den Fluss zum ruhigen Botanischen Garten auf der Südseite. Die Rückfahrt führt Sie durch die grünen Parks des linken Ufers zurück zur Kathedrale im Stadtzentrum.",
             "hu": "Fedezze fel Rouent két keréken, a történelmi piactérről indulva. Tekerjen a Szajna-part modern kerékpárútjain, csodálja meg a lenyűgöző Flaubert-hidat, majd keljen át a folyón a déli oldalon található nyugodt Fűvészkerthez. A visszaút a bal part zöld parkjain keresztül vezet a belvárosi katedrálishoz.",
             "ro": "Explorați Rouenul pe două roți, începând din piața istorică. Urmați pistele de biciclete moderne de-a lungul malurilor Senei, admirați podul Flaubert impresionant și traversați râul spre Grădina Botanică liniștită din partea de sud. Drumul de întoarcere vă poartă prin parcurile verzi de pe malul stâng înapoi la catedrală.",
-            "en": "Explore Rouen on two wheels, starting from the historic market square. Ride along the modern bike paths of the Seine quays, admire the impressive Flaubert Bridge, and cross the river to the peaceful Botanical Garden on the south side. The return journey takes you through the green parks of the left bank back to the cathedral in the city center."
+            "en": "Explore Rouen on two wheels, starting from the historic market square. Ride along the modern bike paths of the Seine quays, admire the impressive Flaubert Bridge, and cross the river to the peaceful Botanical Garden on the south side. The return journey takes you through the green parks of the left bank back to the cathedral in the city center.",
+            "fr": "Explorez Rouen à deux roues, en partant de la place historique du marché. Empruntez les pistes cyclables modernes des quais de la Seine, admirez l'impressionnant pont Flaubert, traversez la rivière jusqu'au paisible Jardin des Plantes au sud. Le trajet de retour vous ramène par les parcs verdoyants de la rive gauche jusqu'à la cathédrale au centre-ville."
           },
           "stops": [
             {
@@ -1033,13 +1117,15 @@
                 "de": "Place du Vieux-Marché",
                 "hu": "Vieux-Marché",
                 "ro": "Piața Veche",
-                "en": "Old Market Square"
+                "en": "Old Market Square",
+                "fr": "Place du Vieux-Marché"
               },
               "tip_5lang": {
                 "de": "Starten Sie hier und besorgen Sie sich Proviant am Markt.",
                 "hu": "Kezdje itt, és szerezzen be útravalót a piacon.",
                 "ro": "Începeți aici și cumpărați provizii de la piață.",
-                "en": "Start here and pick up some snacks from the market."
+                "en": "Start here and pick up some snacks from the market.",
+                "fr": "Commencez ici et prenez quelques en-cas au marché."
               }
             },
             {
@@ -1047,13 +1133,15 @@
                 "de": "Quais de Seine (Rive Droite)",
                 "hu": "Szajna rakpart (Jobb part)",
                 "ro": "Cheile Senei (Malul Drept)",
-                "en": "Seine Quays (Right Bank)"
+                "en": "Seine Quays (Right Bank)",
+                "fr": "Quais de la Seine (rive droite)"
               },
               "tip_5lang": {
                 "de": "Breite Radwege entlang des Flusses mit Blick auf die Schiffe.",
                 "hu": "Széles kerékpárutak a folyó mentén, kilátással a hajókra.",
                 "ro": "Piste largi de biciclete de-a lungul râului, cu vedere la nave.",
-                "en": "Wide bike paths along the river with views of the ships."
+                "en": "Wide bike paths along the river with views of the ships.",
+                "fr": "Large pistes cyclables le long du fleuve avec vue sur les bateaux."
               }
             },
             {
@@ -1061,13 +1149,15 @@
                 "de": "Pont Gustave-Flaubert",
                 "hu": "Gustave-Flaubert híd",
                 "ro": "Podul Gustave-Flaubert",
-                "en": "Gustave Flaubert Bridge"
+                "en": "Gustave Flaubert Bridge",
+                "fr": "Pont Gustave-Flaubert"
               },
               "tip_5lang": {
                 "de": "Eine der höchsten Hubbrücken der Welt, ein technisches Wunderwerk.",
                 "hu": "A világ egyik legmagasabb emelőhídja, mérnöki csoda.",
                 "ro": "Unul dintre cele mai înalte poduri mobile din lume, o minune tehnică.",
-                "en": "One of the world's tallest lift bridges, an engineering marvel."
+                "en": "One of the world's tallest lift bridges, an engineering marvel.",
+                "fr": "Un des plus hauts ponts-lifts du monde, une merveille d'ingénierie."
               }
             },
             {
@@ -1075,13 +1165,15 @@
                 "de": "Jardin des Plantes",
                 "hu": "Fűvészkert (Jardin des Plantes)",
                 "ro": "Grădina Botanică",
-                "en": "Botanical Garden (Jardin des Plantes)"
+                "en": "Botanical Garden (Jardin des Plantes)",
+                "fr": "Jardin des Plantes (Jardin des Plantes)"
               },
               "tip_5lang": {
                 "de": "Wunderschöner botanischer Garten auf der Südseite der Stadt.",
                 "hu": "Gyönyörű botanikus kert a város déli oldalán.",
                 "ro": "Grădină botanică superbă pe latura de sud a orașului.",
-                "en": "Beautiful botanical garden on the south side of the city."
+                "en": "Beautiful botanical garden on the south side of the city.",
+                "fr": "Beau jardin botanique sur la rive sud de la ville."
               }
             },
             {
@@ -1089,13 +1181,15 @@
                 "de": "Quais de Seine (Rive Gauche)",
                 "hu": "Szajna rakpart (Bal part)",
                 "ro": "Cheile Senei (Malul Stâng)",
-                "en": "Seine Quays (Left Bank)"
+                "en": "Seine Quays (Left Bank)",
+                "fr": "Quais de la Seine (rive gauche)"
               },
               "tip_5lang": {
                 "de": "Entspannter Weg zurück durch grüne Parkanlagen am Wasser.",
                 "hu": "Pihentető út visszafelé a vízparti zöld parkokon keresztül.",
                 "ro": "Drum relaxant înapoi prin parcurile verzi de pe malul apei.",
-                "en": "Relaxing path back through green waterfront parks."
+                "en": "Relaxing path back through green waterfront parks.",
+                "fr": "Itinéraire relaxant de retour à travers les parcs verts en bord de Seine."
               }
             },
             {
@@ -1103,13 +1197,15 @@
                 "de": "Kathedrale Notre-Dame",
                 "hu": "Roueni katedrális",
                 "ro": "Catedrala Notre-Dame",
-                "en": "Rouen Cathedral"
+                "en": "Rouen Cathedral",
+                "fr": "Cathédrale de Rouen"
               },
               "tip_5lang": {
                 "de": "Stellen Sie Ihr Fahrrad sicher ab und besuchen Sie die Kirche.",
                 "hu": "Zárjuk le biztonságosan a biciklit, és látogassuk meg a templomot.",
                 "ro": "Parcați bicicleta în siguranță și vizitați biserica.",
-                "en": "Lock your bike securely and visit the church interior."
+                "en": "Lock your bike securely and visit the church interior.",
+                "fr": "Accrochez votre vélo solidement et visitez l'intérieur de l'église."
               }
             }
           ],
@@ -1219,6 +1315,12 @@
               "The quays are flat and very bike-friendly.",
               "Avoid the cobblestones in the center if possible.",
               "Watch out for pedestrians in the old town area."
+            ],
+            "fr": [
+              "Rouen dispose du service de vélos en libre-service Le Vélo.",
+              "Les quais sont plats et très adaptés au vélo.",
+              "Évitez les pavés du centre si possible.",
+              "Faites attention aux piétons dans le vieux centre."
             ]
           }
         },
@@ -1227,7 +1329,8 @@
             "de": "Morgens erfordert das nasse Kopfsteinpflaster am Vieux-Marché volle Konzentration. Mittags bietet die Fahrt entlang der Seine raue, maritime Eindrücke. Nachmittags glänzen die Gewächshäuser im Botanischen Garten im Regen. Abends leuchtet die Kathedrale durch die feuchte Luft besonders intensiv.",
             "hu": "Reggel a Vieux-Marché nedves macskakövei teljes koncentrációt igényelnek. Délben a Szajna menti tekerés nyers, tengerparti hangulatot áraszt. Délután a botanikus kert üvegházai csillognak az esőben. Este a katedrális fényei különösen élesen törnek át a párás levegőn.",
             "ro": "Dimineața, pavajul umed de la Vieux-Marché necesită concentrare maximă. La prânz, plimbarea pe malul Senei oferă impresii maritime brute. După-amiaza, serele din Grădina Botanică strălucesc în ploaie. Seara, catedrala luminează intens prin aerul umed.",
-            "en": "In the morning, wet cobblestones at Vieux-Marché require full concentration. At noon, cycling along the Seine offers raw, maritime vibes. In the afternoon, the greenhouses in the Botanical Garden glisten in the rain. In the evening, the cathedral lights shine intensely through the damp air."
+            "en": "In the morning, wet cobblestones at Vieux-Marché require full concentration. At noon, cycling along the Seine offers raw, maritime vibes. In the afternoon, the greenhouses in the Botanical Garden glisten in the rain. In the evening, the cathedral lights shine intensely through the damp air.",
+            "fr": "Le matin, les pavés mouillés du Vieux-Marché demandent une concentration totale. À midi, rouler le long de la Seine dégage des sensations maritimes brutes. L'après-midi, les serres du Jardin botanique scintillent sous la pluie. Le soir, les lumières de la cathédrale brillent intensément dans l'air humide."
           },
           "stops": [
             {
@@ -1236,7 +1339,8 @@
                 "de": "Vorsicht beim Anfahren auf nassem Pflaster; Rutschgefahr.",
                 "hu": "Vigyázat az indulásnál a nedves köveken; csúszásveszély.",
                 "ro": "Atenție la plecare pe pavajul umed; risc de alunecare.",
-                "en": "Be careful when starting on wet pavement; risk of slipping."
+                "en": "Be careful when starting on wet pavement; risk of slipping.",
+                "fr": "Faites attention au démarrage sur chaussée mouillée ; risque de glissade."
               }
             },
             {
@@ -1245,7 +1349,8 @@
                 "de": "Gute Schutzbleche sind hier wegen der Pfützen unerlässlich.",
                 "hu": "A tócsák miatt a jó sárvédő itt elengedhetetlen.",
                 "ro": "Aripile de protecție bune sunt esențiale din cauza bălților.",
-                "en": "Good mudguards are essential here because of the puddles."
+                "en": "Good mudguards are essential here because of the puddles.",
+                "fr": "De bons garde-boue sont indispensables ici à cause des flaques."
               }
             },
             {
@@ -1254,7 +1359,8 @@
                 "de": "Starker Seitenwind auf der Brücke bei Regen möglich.",
                 "hu": "Az eső mellé erős oldalszél társulhat a hídon.",
                 "ro": "Vânt lateral puternic posibil pe pod în timpul ploii.",
-                "en": "Strong crosswinds are possible on the bridge during rain."
+                "en": "Strong crosswinds are possible on the bridge during rain.",
+                "fr": "De fortes rafales latérales sont possibles sur le pont pendant la pluie."
               }
             },
             {
@@ -1263,7 +1369,8 @@
                 "de": "Die historischen Gewächshäuser bieten trockenen Unterschlupf.",
                 "hu": "A történelmi üvegházak száraz menedéket nyújtanak.",
                 "ro": "Serele istorice oferă un adăpost uscat.",
-                "en": "The historic greenhouses provide a dry shelter."
+                "en": "The historic greenhouses provide a dry shelter.",
+                "fr": "Les serres historiques offrent un abri sec."
               }
             },
             {
@@ -1272,7 +1379,8 @@
                 "de": "Der Asphalt ist griffiger als das Kopfsteinpflaster im Zentrum.",
                 "hu": "Az aszfalt itt jobban tapad, mint a belvárosi macskakő.",
                 "ro": "Asfaltul are o aderență mai bună decât pavajul din centru.",
-                "en": "The asphalt here has better grip than the downtown cobblestones."
+                "en": "The asphalt here has better grip than the downtown cobblestones.",
+                "fr": "L'asphalte ici a plus d'adhérence que les pavés du centre."
               }
             },
             {
@@ -1281,7 +1389,8 @@
                 "de": "Fahrradständer in der Nähe sind oft nicht überdacht.",
                 "hu": "A közeli kerékpártárolók gyakran nem fedettek.",
                 "ro": "Suporturile de biciclete din apropiere nu sunt adesea acoperite.",
-                "en": "Bike racks nearby are often not covered."
+                "en": "Bike racks nearby are often not covered.",
+                "fr": "Les arceaux à vélos à proximité sont souvent non couverts."
               }
             }
           ],
@@ -1309,6 +1418,12 @@
               "Avoid riding over road markings when they are wet.",
               "Rental bikes (Lovélo) are regularly maintained.",
               "River paths can be slippery in places during heavy rain."
+            ],
+            "fr": [
+              "Un équipement pluie complet, y compris des couvre-chaussures, est recommandé.",
+              "Évitez de rouler sur les marquages routiers quand ils sont mouillés.",
+              "Les vélos de location (Lovélo) sont régulièrement entretenus.",
+              "Les chemins le long du fleuve peuvent être glissants par endroits en cas de fortes pluies."
             ]
           }
         },
@@ -1317,7 +1432,8 @@
             "de": "Morgens belebt die kalte Luft bei der Fahrt über den Vieux-Marché. Mittags pfeift der Wind an den Kais der Seine, aber die Aussicht ist klar. Nachmittags ist das Aufwärmen in den Tropenhäusern des Botanischen Gartens ein Muss. Abends leuchtet die Stadt weihnachtlich, während man zurück zum Zentrum radelt.",
             "hu": "Reggel frissítő a hideg levegő a Vieux-Marché felé tekerve. Délben a Szajna-parti szél csípős, de a kilátás tiszta. Délután a botanikus kert trópusi házaiban való felmelegedés kötelező program. Este a karácsonyi fények kísérnek utunkon a központ felé.",
             "ro": "Dimineața, aerul rece este revigorant în timpul cursei prin Vieux-Marché. La prânz, vântul suflă tare pe cheiurile Senei, dar vizibilitatea este clară. După-amiaza, încălzirea în serele tropicale este obligatorie. Seara, orașul strălucește festiv în timp ce pedalați spre centru.",
-            "en": "In the morning, the cold air is invigorating while cycling through Vieux-Marché. At noon, the wind bites at the Seine quays, but the view is clear. In the afternoon, warming up in the tropical houses of the Botanical Garden is a must. In the evening, the city glows festively as you cycle back."
+            "en": "In the morning, the cold air is invigorating while cycling through Vieux-Marché. At noon, the wind bites at the Seine quays, but the view is clear. In the afternoon, warming up in the tropical houses of the Botanical Garden is a must. In the evening, the city glows festively as you cycle back.",
+            "fr": "Le matin, l'air froid revigore en traversant le Vieux-Marché à vélo. À midi, le vent mord sur les quais de la Seine, mais la vue est claire. L'après-midi, il faut se réchauffer dans les serres tropicales du Jardin botanique. Le soir, la ville s'illumine de façon festive pendant votre retour à vélo."
           },
           "stops": [
             {
@@ -1326,7 +1442,8 @@
                 "de": "Warme Handschuhe sind für die Fahrt über das offene Pflaster wichtig.",
                 "hu": "A nyílt téren való tekeréshez elengedhetetlen a meleg kesztyű.",
                 "ro": "Mănușile groase sunt importante pentru cursa prin piața deschisă.",
-                "en": "Warm gloves are important for riding across the open square."
+                "en": "Warm gloves are important for riding across the open square.",
+                "fr": "Des gants chauds sont importants pour traverser la place ouverte."
               }
             },
             {
@@ -1335,7 +1452,8 @@
                 "de": "Achten Sie auf gefrierende Nässe in Ufernähe.",
                 "hu": "Ügyeljen a folyóparti szakaszokon az esetleges lefagyásokra.",
                 "ro": "Atenție la umezeala care poate îngheța lângă mal.",
-                "en": "Watch out for freezing moisture near the river bank."
+                "en": "Watch out for freezing moisture near the river bank.",
+                "fr": "Surveillez l'humidité gelante près du bord de la rivière."
               }
             },
             {
@@ -1344,7 +1462,8 @@
                 "de": "Der Windchill-Effekt ist auf der Brücke besonders hoch.",
                 "hu": "A hőérzetet jelentősen csökkenti az erős szél a hídon.",
                 "ro": "Efectul de răcire a vântului este foarte ridicat pe pod.",
-                "en": "The wind chill effect is particularly high on the bridge."
+                "en": "The wind chill effect is particularly high on the bridge.",
+                "fr": "L'effet de refroidissement dû au vent est particulièrement fort sur le pont."
               }
             },
             {
@@ -1353,7 +1472,8 @@
                 "de": "Die Gewächshäuser bieten konstante 20 Grad zum Aufwärmen.",
                 "hu": "Az üvegházak állandó 20 fokot biztosítanak a melegedéshez.",
                 "ro": "Serele oferă o temperatură constantă de 20 de grade pentru încălzire.",
-                "en": "The greenhouses offer a constant 20 degrees for warming up."
+                "en": "The greenhouses offer a constant 20 degrees for warming up.",
+                "fr": "Les serres offrent une température constante de 20 degrés pour se réchauffer."
               }
             },
             {
@@ -1362,7 +1482,8 @@
                 "de": "Fahren Sie defensiv bei tiefstehender Wintersonne.",
                 "hu": "Vezessen óvatosan az alacsonyan járó téli nap miatt.",
                 "ro": "Conduceți defensiv din cauza soarelui de iarnă care stă jos.",
-                "en": "Ride defensively due to the low-lying winter sun."
+                "en": "Ride defensively due to the low-lying winter sun.",
+                "fr": "Roulez de manière défensive à cause du soleil bas d'hiver."
               }
             },
             {
@@ -1371,7 +1492,8 @@
                 "de": "Die Abstellplätze sind gut beleuchtet für die frühe Dunkelheit.",
                 "hu": "A tárolók jól kivilágítottak a korai sötétedés ellenére.",
                 "ro": "Locurile de parcare sunt bine iluminate pentru întunericul timpuriu.",
-                "en": "The parking spots are well lit for the early darkness."
+                "en": "The parking spots are well lit for the early darkness.",
+                "fr": "Les emplacements de stationnement sont bien éclairés pour la tombée précoce de la nuit."
               }
             }
           ],
@@ -1399,6 +1521,12 @@
               "Check tire pressure before starting for better grip.",
               "Lighting is required from late afternoon onwards in winter.",
               "Keep the chain well oiled against road salt."
+            ],
+            "fr": [
+              "Des vêtements superposés (principe de l'oignon) protègent du refroidissement.",
+              "Vérifiez la pression des pneus avant de partir pour une meilleure adhérence.",
+              "L'éclairage est obligatoire à partir de la fin d'après-midi en hiver.",
+              "Gardez la chaîne bien huilée contre le sel de voirie."
             ]
           }
         }
@@ -1417,7 +1545,8 @@
             "de": "Zentrum Rouen (Parkhaus)",
             "hu": "Rouen belváros (parkoló)",
             "ro": "Centru Rouen (parcare)",
-            "en": "Rouen Center (Parking)"
+            "en": "Rouen Center (Parking)",
+            "fr": "Centre de Rouen (Parking)"
           },
           "coords": [
             1.0925,
@@ -1432,7 +1561,8 @@
             "de": "Nutzen Sie ein Parkhaus im Zentrum (z.B. Espace du Palais).",
             "hu": "Használjunk belvárosi parkolóházat (pl. Espace du Palais).",
             "ro": "Folosiți o parcare subterană în centru (ex. Espace du Palais).",
-            "en": "Use a central parking garage like Espace du Palais."
+            "en": "Use a central parking garage like Espace du Palais.",
+            "fr": "Utilisez un parking central comme l'Espace du Palais."
           }
         },
         {
@@ -1440,7 +1570,8 @@
             "de": "Panorama Sainte-Catherine",
             "hu": "Sainte-Catherine panoráma",
             "ro": "Panorama Sainte-Catherine",
-            "en": "Sainte-Catherine Viewpoint"
+            "en": "Sainte-Catherine Viewpoint",
+            "fr": "Belvédère Sainte-Catherine"
           },
           "coords": [
             1.1115,
@@ -1455,7 +1586,8 @@
             "de": "Kurze Fahrt bergauf für einen Gesamtüberblick.",
             "hu": "Rövid út felfelé a teljes városi körképért.",
             "ro": "Scurtă urcare cu mașina pentru o privire de ansamblu.",
-            "en": "Short drive uphill for a complete overview of the city."
+            "en": "Short drive uphill for a complete overview of the city.",
+            "fr": "Courte montée en voiture pour une vue d'ensemble complète de la ville."
           }
         },
         {
@@ -1463,7 +1595,8 @@
             "de": "Château de Martainville",
             "hu": "Martainville-kastély",
             "ro": "Castelul Martainville",
-            "en": "Martainville Castle"
+            "en": "Martainville Castle",
+            "fr": "Château de Martainville"
           },
           "coords": [
             1.2945,
@@ -1478,7 +1611,8 @@
             "de": "Beherbergt das Museum für normannische Kunst und Traditionen.",
             "hu": "A normandiai művészeti és néprajzi múzeumnak ad otthont.",
             "ro": "Găzduiește Muzeul de Artă și Tradiții Normande.",
-            "en": "Houses the Museum of Norman Art and Traditions."
+            "en": "Houses the Museum of Norman Art and Traditions.",
+            "fr": "Abrite le Musée des arts et traditions normandes."
           }
         },
         {
@@ -1486,7 +1620,8 @@
             "de": "Abbaye de Jumièges",
             "hu": "Jumièges-i apátság",
             "ro": "Abația Jumièges",
-            "en": "Jumièges Abbey"
+            "en": "Jumièges Abbey",
+            "fr": "Abbaye de Jumièges"
           },
           "coords": [
             0.8195,
@@ -1501,7 +1636,8 @@
             "de": "Beeindruckende Ruinen einer Benediktinerabtei in einer Seine-Schleife.",
             "hu": "Bencés apátság lenyűgöző romjai a Szajna egyik kanyarulatában.",
             "ro": "Ruine impresionante ale unei abații benedictine într-o buclă a Senei.",
-            "en": "Impressive ruins of a Benedictine abbey in a loop of the Seine."
+            "en": "Impressive ruins of a Benedictine abbey in a loop of the Seine.",
+            "fr": "Ruines impressionnantes d'une abbaye bénédictine dans une boucle de la Seine."
           }
         },
         {
@@ -1509,7 +1645,8 @@
             "de": "La Bouille",
             "hu": "La Bouille falu",
             "ro": "Satul La Bouille",
-            "en": "La Bouille Village"
+            "en": "La Bouille Village",
+            "fr": "Village de La Bouille"
           },
           "coords": [
             0.9315,
@@ -1524,7 +1661,8 @@
             "de": "Ein malerisches Dorf an der Seine, beliebt bei Malern.",
             "hu": "Festői falu a Szajna partján, a festők kedvence.",
             "ro": "Un sat pitoresc pe malul Senei, preferat de pictori.",
-            "en": "A picturesque village on the Seine, a favorite of painters."
+            "en": "A picturesque village on the Seine, a favorite of painters.",
+            "fr": "Un village pittoresque sur la Seine, prisé des peintres."
           }
         }
       ],
@@ -1532,7 +1670,8 @@
         "de": "Mit dem Auto entdecken Sie nicht nur das Zentrum von Rouen, sondern auch die Schätze der Umgebung. Starten Sie in der Altstadt, genießen Sie den Ausblick vom Sainte-Catherine-Hügel und fahren Sie dann zum prächtigen Château de Martainville. Am Nachmittag besuchen Sie die romantischen Ruinen der Abtei Jumièges und beschließen den Tag im charmanten Künstlerdorf La Bouille an der Seine.",
         "hu": "Autóval nemcsak Rouen központját, hanem a környék kincseit is felfedezheti. Kezdje az óvárosban, élvezze a kilátást a Sainte-Catherine-dombról, majd hajtson a pazar Martainville-kastélyhoz. Délután látogasson el a Jumièges-i apátság romantikus romjaihoz, a napot pedig a Szajna-parti bájos művészfaluban, La Bouille-ban zárja.",
         "ro": "Cu mașina veți descoperi nu doar centrul Rouenului, ci și comorile din împrejurimi. Începeți în orașul vechi, bucurați-vă de vederea de pe dealul Sainte-Catherine, apoi conduceți spre magnificul Castel Martainville. După-amiaza, vizitați ruinele romantice ale abației Jumièges și încheiați ziua în fermecătorul sat de artiști La Bouille de pe malul Senei.",
-        "en": "By car, you can discover not only the center of Rouen but also the treasures of the surrounding area. Start in the old town, enjoy the view from Sainte-Catherine hill, then drive to the magnificent Château de Martainville. In the afternoon, visit the romantic ruins of Jumièges Abbey and end the day in the charming artist village of La Bouille on the Seine."
+        "en": "By car, you can discover not only the center of Rouen but also the treasures of the surrounding area. Start in the old town, enjoy the view from Sainte-Catherine hill, then drive to the magnificent Château de Martainville. In the afternoon, visit the romantic ruins of Jumièges Abbey and end the day in the charming artist village of La Bouille on the Seine.",
+        "fr": "En voiture, vous pouvez découvrir non seulement le centre de Rouen mais aussi les trésors des environs. Commencez par la vieille ville, profitez de la vue depuis la colline Sainte-Catherine, puis allez au magnifique Château de Martainville. L'après-midi, visitez les ruines romantiques de l'abbaye de Jumièges et terminez la journée dans le charmant village d'artistes de La Bouille sur la Seine."
       },
       "gastro_picks": {
         "de": [
@@ -1640,6 +1779,12 @@
           "The roads along the Seine loops are very scenic.",
           "Watch out for speed limits in small villages.",
           "Some small ferries (Bacs) cross the Seine for free."
+        ],
+        "fr": [
+          "Le stationnement au centre peut être difficile, utilisez si possible les lots P+R.",
+          "Les routes le long des boucles de la Seine sont très pittoresques.",
+          "Attention aux limitations de vitesse dans les petits villages.",
+          "Quelques petits bacs traversent la Seine gratuitement."
         ]
       },
       "variants": {
@@ -1648,7 +1793,8 @@
             "de": "Mit dem Auto entdecken Sie nicht nur das Zentrum von Rouen, sondern auch die Schätze der Umgebung. Starten Sie in der Altstadt, genießen Sie den Ausblick vom Sainte-Catherine-Hügel und fahren Sie dann zum prächtigen Château de Martainville. Am Nachmittag besuchen Sie die romantischen Ruinen der Abtei Jumièges und beschließen den Tag im charmanten Künstlerdorf La Bouille an der Seine.",
             "hu": "Autóval nemcsak Rouen központját, hanem a környék kincseit is felfedezheti. Kezdje az óvárosban, élvezze a kilátást a Sainte-Catherine-dombról, majd hajtson a pazar Martainville-kastélyhoz. Délután látogasson el a Jumièges-i apátság romantikus romjaihoz, a napot pedig a Szajna-parti bájos művészfaluban, La Bouille-ban zárja.",
             "ro": "Cu mașina veți descoperi nu doar centrul Rouenului, ci și comorile din împrejurimi. Începeți în orașul vechi, bucurați-vă de vederea de pe dealul Sainte-Catherine, apoi conduceți spre magnificul Castel Martainville. După-amiaza, vizitați ruinele romantice ale abației Jumièges și încheiați ziua în fermecătorul sat de artiști La Bouille de pe malul Senei.",
-            "en": "By car, you can discover not only the center of Rouen but also the treasures of the surrounding area. Start in the old town, enjoy the view from Sainte-Catherine hill, then drive to the magnificent Château de Martainville. In the afternoon, visit the romantic ruins of Jumièges Abbey and end the day in the charming artist village of La Bouille on the Seine."
+            "en": "By car, you can discover not only the center of Rouen but also the treasures of the surrounding area. Start in the old town, enjoy the view from Sainte-Catherine hill, then drive to the magnificent Château de Martainville. In the afternoon, visit the romantic ruins of Jumièges Abbey and end the day in the charming artist village of La Bouille on the Seine.",
+            "fr": "En voiture, vous pouvez découvrir non seulement le centre de Rouen mais aussi les trésors des environs. Commencez par la vieille ville, profitez de la vue depuis la colline Sainte-Catherine, puis allez au magnifique Château de Martainville. L'après-midi, visitez les ruines romantiques de l'abbaye de Jumièges et terminez la journée dans le charmant village d'artistes de La Bouille sur la Seine."
           },
           "stops": [
             {
@@ -1656,13 +1802,15 @@
                 "de": "Zentrum Rouen (Parkhaus)",
                 "hu": "Rouen belváros (parkoló)",
                 "ro": "Centru Rouen (parcare)",
-                "en": "Rouen Center (Parking)"
+                "en": "Rouen Center (Parking)",
+                "fr": "Centre de Rouen (Parking)"
               },
               "tip_5lang": {
                 "de": "Nutzen Sie ein Parkhaus im Zentrum (z.B. Espace du Palais).",
                 "hu": "Használjunk belvárosi parkolóházat (pl. Espace du Palais).",
                 "ro": "Folosiți o parcare subterană în centru (ex. Espace du Palais).",
-                "en": "Use a central parking garage like Espace du Palais."
+                "en": "Use a central parking garage like Espace du Palais.",
+                "fr": "Utilisez un parking central comme l'Espace du Palais."
               }
             },
             {
@@ -1670,13 +1818,15 @@
                 "de": "Panorama Sainte-Catherine",
                 "hu": "Sainte-Catherine panoráma",
                 "ro": "Panorama Sainte-Catherine",
-                "en": "Sainte-Catherine Viewpoint"
+                "en": "Sainte-Catherine Viewpoint",
+                "fr": "Belvédère Sainte-Catherine"
               },
               "tip_5lang": {
                 "de": "Kurze Fahrt bergauf für einen Gesamtüberblick.",
                 "hu": "Rövid út felfelé a teljes városi körképért.",
                 "ro": "Scurtă urcare cu mașina pentru o privire de ansamblu.",
-                "en": "Short drive uphill for a complete overview of the city."
+                "en": "Short drive uphill for a complete overview of the city.",
+                "fr": "Courte montée en voiture pour une vue d'ensemble complète de la ville."
               }
             },
             {
@@ -1684,13 +1834,15 @@
                 "de": "Château de Martainville",
                 "hu": "Martainville-kastély",
                 "ro": "Castelul Martainville",
-                "en": "Martainville Castle"
+                "en": "Martainville Castle",
+                "fr": "Château de Martainville"
               },
               "tip_5lang": {
                 "de": "Beherbergt das Museum für normannische Kunst und Traditionen.",
                 "hu": "A normandiai művészeti és néprajzi múzeumnak ad otthont.",
                 "ro": "Găzduiește Muzeul de Artă și Tradiții Normande.",
-                "en": "Houses the Museum of Norman Art and Traditions."
+                "en": "Houses the Museum of Norman Art and Traditions.",
+                "fr": "Abrite le Musée des arts et traditions normandes."
               }
             },
             {
@@ -1698,13 +1850,15 @@
                 "de": "Abbaye de Jumièges",
                 "hu": "Jumièges-i apátság",
                 "ro": "Abația Jumièges",
-                "en": "Jumièges Abbey"
+                "en": "Jumièges Abbey",
+                "fr": "Abbaye de Jumièges"
               },
               "tip_5lang": {
                 "de": "Beeindruckende Ruinen einer Benediktinerabtei in einer Seine-Schleife.",
                 "hu": "Bencés apátság lenyűgöző romjai a Szajna egyik kanyarulatában.",
                 "ro": "Ruine impresionante ale unei abații benedictine într-o buclă a Senei.",
-                "en": "Impressive ruins of a Benedictine abbey in a loop of the Seine."
+                "en": "Impressive ruins of a Benedictine abbey in a loop of the Seine.",
+                "fr": "Ruines impressionnantes d'une abbaye bénédictine dans une boucle de la Seine."
               }
             },
             {
@@ -1712,13 +1866,15 @@
                 "de": "La Bouille",
                 "hu": "La Bouille falu",
                 "ro": "Satul La Bouille",
-                "en": "La Bouille Village"
+                "en": "La Bouille Village",
+                "fr": "Village de La Bouille"
               },
               "tip_5lang": {
                 "de": "Ein malerisches Dorf an der Seine, beliebt bei Malern.",
                 "hu": "Festői falu a Szajna partján, a festők kedvence.",
                 "ro": "Un sat pitoresc pe malul Senei, preferat de pictori.",
-                "en": "A picturesque village on the Seine, a favorite of painters."
+                "en": "A picturesque village on the Seine, a favorite of painters.",
+                "fr": "Un village pittoresque sur la Seine, prisé des peintres."
               }
             }
           ],
@@ -1828,6 +1984,12 @@
               "The roads along the Seine loops are very scenic.",
               "Watch out for speed limits in small villages.",
               "Some small ferries (Bacs) cross the Seine for free."
+            ],
+            "fr": [
+              "Le stationnement au centre peut être difficile, utilisez si possible les lots P+R.",
+              "Les routes le long des boucles de la Seine sont très pittoresques.",
+              "Attention aux limitations de vitesse dans les petits villages.",
+              "Quelques petits bacs traversent la Seine gratuitement."
             ]
           }
         },
@@ -1836,7 +1998,8 @@
             "de": "Morgens ist die Fahrt ins Zentrum im Regen entspannt. Mittags bietet Sainte-Catherine trotz Wolken einen dramatischen Ausblick. Nachmittags wirkt das Schloss Martainville im Regen besonders geschichtsträchtig. Abends reflektieren die Pfützen in La Bouille die Lichter der Fachwerkhäuser.",
             "hu": "Reggel a központba hajtás esőben is kényelmes. Délben Sainte-Catherine a felhők ellenére is drámai panorámát nyújt. Délután a Martainville kastély különösen patinás az esőben. Este La Bouille tócsái tükrözik a favázas házak fényeit.",
             "ro": "Dimineața, drumul spre centru este relaxat în ploaie. La prânz, Sainte-Catherine oferă o vedere dramatică în ciuda norilor. După-amiaza, castelul Martainville pare deosebit de istoric în ploaie. Seara, bălțile din La Bouille reflectă luminile caselor vechi.",
-            "en": "In the morning, the drive to the center is relaxed in the rain. At noon, Sainte-Catherine offers a dramatic view despite the clouds. In the afternoon, Martainville Castle looks particularly historic in the rain. In the evening, the puddles in La Bouille reflect the lights of the timber-framed houses."
+            "en": "In the morning, the drive to the center is relaxed in the rain. At noon, Sainte-Catherine offers a dramatic view despite the clouds. In the afternoon, Martainville Castle looks particularly historic in the rain. In the evening, the puddles in La Bouille reflect the lights of the timber-framed houses.",
+            "fr": "Le matin, le trajet vers le centre est détendu sous la pluie. À midi, Sainte-Catherine offre une vue dramatique malgré les nuages. L'après-midi, le Château de Martainville paraît particulièrement historique sous la pluie. Le soir, les flaques à La Bouille reflètent les lumières des maisons à colombages."
           },
           "stops": [
             {
@@ -1845,7 +2008,8 @@
                 "de": "Nutzen Sie Parkhäuser, um trocken in die City zu gelangen.",
                 "hu": "Használja a parkolóházakat, hogy szárazon jusson a városba.",
                 "ro": "Folosiți parcările supraetajate pentru a ajunge uscat în oraș.",
-                "en": "Use parking garages to reach the city center dry."
+                "en": "Use parking garages to reach the city center dry.",
+                "fr": "Utilisez des parkings couverts pour atteindre le centre au sec."
               }
             },
             {
@@ -1854,7 +2018,8 @@
                 "de": "Vom Auto aus hat man bei Regen den besten Panorama-Blick.",
                 "hu": "Az autóból ülve esőben is élvezhető a panoráma.",
                 "ro": "Din mașină aveți cea mai bună vedere panoramică pe ploaie.",
-                "en": "You get the best panoramic view from the car during rain."
+                "en": "You get the best panoramic view from the car during rain.",
+                "fr": "Vous obtenez la meilleure vue panoramique depuis la voiture sous la pluie."
               }
             },
             {
@@ -1863,7 +2028,8 @@
                 "de": "Das Museum im Inneren ist ein perfektes Regenprogramm.",
                 "hu": "A belső múzeum tökéletes program eső idejére.",
                 "ro": "Muzeul din interior este un program perfect pentru ploaie.",
-                "en": "The museum inside is a perfect rainy day activity."
+                "en": "The museum inside is a perfect rainy day activity.",
+                "fr": "Le musée intérieur est une parfaite activité par temps de pluie."
               }
             },
             {
@@ -1872,7 +2038,8 @@
                 "de": "Regenschirm für den Gang durch die dachlose Abtei nötig.",
                 "hu": "Esernyő szükséges a tető nélküli apátság bejárásához.",
                 "ro": "Umbrelă necesară pentru vizitarea abației fără acoperiș.",
-                "en": "Umbrella needed for the walk through the roofless abbey."
+                "en": "Umbrella needed for the walk through the roofless abbey.",
+                "fr": "Parapluie nécessaire pour la promenade à travers l'abbaye sans toit."
               }
             },
             {
@@ -1881,7 +2048,8 @@
                 "de": "Kurze Wege zwischen Parkplatz und gemütlichen Gasthöfen.",
                 "hu": "Rövid séta a parkoló és a hangulatos fogadók között.",
                 "ro": "Distanțe scurte între parcare și hanurile primitoare.",
-                "en": "Short walks between the parking lot and cozy inns."
+                "en": "Short walks between the parking lot and cozy inns.",
+                "fr": "Courtes promenades entre le parking et les auberges accueillantes."
               }
             }
           ],
@@ -1909,6 +2077,12 @@
               "The Espace du Palais parking garage offers direct access to the center.",
               "The country roads towards Jumièges can be slippery.",
               "Use the defroster due to high humidity levels."
+            ],
+            "fr": [
+              "Prévoyez plus de temps pour la circulation en ville sous la pluie.",
+              "Le parking Espace du Palais offre un accès direct au centre.",
+              "Les routes de campagne vers Jumièges peuvent être glissantes.",
+              "Utilisez le dégivreur en raison du taux d'humidité élevé."
             ]
           }
         },
@@ -1917,7 +2091,8 @@
             "de": "Morgens startet die Tour frostig aber komfortabel im beheizten Auto. Mittags ist die Luft auf Sainte-Catherine kristallklar. Nachmittags strahlt das Schloss Martainville im winterlichen Licht. Abends wirkt die Rückfahrt entlang der Seine durch La Bouille besonders romantisch bei Festbeleuchtung.",
             "hu": "Reggel a túra fagyosan, de kényelmesen, fűtött autóban indul. Délben a levegő kristálytiszta Sainte-Catherine-nél. Délután a Martainville kastély téli fényekben tündököl. Este a Szajna menti visszatérés La Bouille-on át romantikus a díszkivilágításban.",
             "ro": "Dimineața, turul începe geros dar confortabil în mașina încălzită. La prânz, aerul este cristal la Sainte-Catherine. După-amiaza, castelul Martainville strălucește în lumina iernii. Seara, drumul de întoarcere prin La Bouille este romantic sub lumini festive.",
-            "en": "In the morning, the tour starts frosty but comfortable in a heated car. At noon, the air is crystal clear at Sainte-Catherine. In the afternoon, Martainville Castle shines in the winter light. In the evening, the return drive through La Bouille is romantic with festive lighting."
+            "en": "In the morning, the tour starts frosty but comfortable in a heated car. At noon, the air is crystal clear at Sainte-Catherine. In the afternoon, Martainville Castle shines in the winter light. In the evening, the return drive through La Bouille is romantic with festive lighting.",
+            "fr": "Le matin, la visite commence givrée mais confortable dans une voiture chauffée. À midi, l'air est cristallin à Sainte-Catherine. L'après-midi, le Château de Martainville brille dans la lumière hivernale. Le soir, le retour via La Bouille est romantique avec les illuminations festives."
           },
           "stops": [
             {
@@ -1926,7 +2101,8 @@
                 "de": "Tiefgaragen verhindern das Einfrieren der Scheiben während des Besuchs.",
                 "hu": "A mélygarázsok megvédik a szélvédőt a lefagyástól látogatás alatt.",
                 "ro": "Parcările subterane previn înghețarea geamurilor în timpul vizitei.",
-                "en": "Underground parking prevents windows from freezing during your visit."
+                "en": "Underground parking prevents windows from freezing during your visit.",
+                "fr": "Le parking souterrain empêche le gel des vitres pendant votre visite."
               }
             },
             {
@@ -1935,7 +2111,8 @@
                 "de": "Perfekt, um die Aussicht ohne Frieren zu genießen.",
                 "hu": "Tökéletes helyszín a kilátás élvezetére fagyoskodás nélkül.",
                 "ro": "Perfect pentru a savura vederea fără a îngheța.",
-                "en": "Perfect for enjoying the view without freezing."
+                "en": "Perfect for enjoying the view without freezing.",
+                "fr": "Parfait pour profiter de la vue sans grelotter."
               }
             },
             {
@@ -1944,7 +2121,8 @@
                 "de": "Die Innentemperatur im Schlossmuseum kann kühl sein.",
                 "hu": "A kastélymúzeum belső hőmérséklete hűvös lehet.",
                 "ro": "Temperatura interioară în muzeul castelului poate fi scăzută.",
-                "en": "The interior temperature in the castle museum can be cool."
+                "en": "The interior temperature in the castle museum can be cool.",
+                "fr": "La température intérieure du musée du château peut être fraîche."
               }
             },
             {
@@ -1953,7 +2131,8 @@
                 "de": "Die Ruinen wirken bei Frost besonders majestätisch.",
                 "hu": "A romok fagyos időben különösen fenségesek.",
                 "ro": "Ruinele par deosebit de maiestuoase pe ger.",
-                "en": "The ruins look particularly majestic in frosty weather."
+                "en": "The ruins look particularly majestic in frosty weather.",
+                "fr": "Les ruines paraissent particulièrement majestueuses par temps de gel."
               }
             },
             {
@@ -1962,7 +2141,8 @@
                 "de": "Kostenfreie Parkplätze am Ufer sind im Winter meist leer.",
                 "hu": "A folyóparti ingyenes parkolók télen többnyire üresek.",
                 "ro": "Parcările gratuite de pe mal sunt de obicei goale iarna.",
-                "en": "Free riverside parking is usually empty in winter."
+                "en": "Free riverside parking is usually empty in winter.",
+                "fr": "Le stationnement gratuit au bord de l'eau est généralement vide en hiver."
               }
             }
           ],
@@ -1990,6 +2170,12 @@
               "Check the antifreeze in your windshield washer system.",
               "The ferry in La Bouille operates regularly even in winter.",
               "Darkness sets in early; check your vehicle's lighting."
+            ],
+            "fr": [
+              "Des pneus hiver ou toutes saisons sont conseillés en Normandie.",
+              "Vérifiez l'antigel dans le lave-glace de votre pare-brise.",
+              "Le bac de La Bouille fonctionne régulièrement même en hiver.",
+              "La nuit tombe tôt ; vérifiez l'éclairage de votre véhicule."
             ]
           }
         }
@@ -2008,7 +2194,8 @@
             "de": "Vieux-Marché (TEOR Station)",
             "hu": "Vieux-Marché (TEOR állomás)",
             "ro": "Vieux-Marché (Stația TEOR)",
-            "en": "Vieux-Marché (TEOR Station)"
+            "en": "Vieux-Marché (TEOR Station)",
+            "fr": "Vieux-Marché (station TEOR)"
           },
           "coords": [
             1.0885,
@@ -2023,7 +2210,8 @@
             "de": "Zentraler Knotenpunkt für das TEOR-Bussystem.",
             "hu": "A TEOR buszhálózat központi csomópontja.",
             "ro": "Nod central pentru sistemul de autobuze TEOR.",
-            "en": "Central hub for the TEOR rapid bus system."
+            "en": "Central hub for the TEOR rapid bus system.",
+            "fr": "Nœud central du réseau de bus rapide TEOR."
           }
         },
         {
@@ -2031,7 +2219,8 @@
             "de": "Kathedrale (Théâtre des Arts)",
             "hu": "Katedrális (Théâtre des Arts)",
             "ro": "Catedrala (Théâtre des Arts)",
-            "en": "Cathedral (Théâtre des Arts)"
+            "en": "Cathedral (Théâtre des Arts)",
+            "fr": "Cathédrale (Théâtre des Arts)"
           },
           "coords": [
             1.0905,
@@ -2046,7 +2235,8 @@
             "de": "Wichtige Umsteigestation zwischen Bus und Metro.",
             "hu": "Fontos átszállóhely a busz és a metró között.",
             "ro": "Stație importantă de transfer între autobuz și metrou.",
-            "en": "Major transfer station between bus and metro lines."
+            "en": "Major transfer station between bus and metro lines.",
+            "fr": "Grande station de correspondance entre lignes de bus et métro."
           }
         },
         {
@@ -2054,7 +2244,8 @@
             "de": "Musée des Beaux-Arts",
             "hu": "Szépművészeti Múzeum",
             "ro": "Muzeul de Arte Frumoase",
-            "en": "Museum of Fine Arts"
+            "en": "Museum of Fine Arts",
+            "fr": "Musée des Beaux-Arts"
           },
           "coords": [
             1.0938,
@@ -2069,7 +2260,8 @@
             "de": "Gut erreichbar mit mehreren Buslinien.",
             "hu": "Számos buszjárattal jól megközelíthető.",
             "ro": "Ușor accesibil cu mai multe linii de autobuz.",
-            "en": "Easily accessible by several bus lines."
+            "en": "Easily accessible by several bus lines.",
+            "fr": "Facilement accessible par plusieurs lignes de bus."
           }
         },
         {
@@ -2077,7 +2269,8 @@
             "de": "Jardin des Plantes (Métro Europa)",
             "hu": "Fűvészkert (Europa metróállomás)",
             "ro": "Grădina Botanică (Metrou Europa)",
-            "en": "Botanical Garden (Europa Metro)"
+            "en": "Botanical Garden (Europa Metro)",
+            "fr": "Jardin botanique (métro Europa)"
           },
           "coords": [
             1.0772,
@@ -2092,7 +2285,8 @@
             "de": "Nehmen Sie die Metro Richtung Saint-Étienne-du-Rouvray.",
             "hu": "Szálljunk a Saint-Étienne-du-Rouvray felé tartó metróra.",
             "ro": "Luați metroul în direcția Saint-Étienne-du-Rouvray.",
-            "en": "Take the metro towards Saint-Étienne-du-Rouvray."
+            "en": "Take the metro towards Saint-Étienne-du-Rouvray.",
+            "fr": "Prenez le métro en direction de Saint-Étienne-du-Rouvray."
           }
         },
         {
@@ -2100,7 +2294,8 @@
             "de": "Panorama Sainte-Catherine (Bus 13)",
             "hu": "Sainte-Catherine panoráma (13-as busz)",
             "ro": "Panorama Sainte-Catherine (Autobuz 13)",
-            "en": "Sainte-Catherine Viewpoint (Bus 13)"
+            "en": "Sainte-Catherine Viewpoint (Bus 13)",
+            "fr": "Point de vue Sainte-Catherine (Bus 13)"
           },
           "coords": [
             1.1115,
@@ -2115,7 +2310,8 @@
             "de": "Die Buslinie 13 bringt Sie nah an den Aussichtspunkt.",
             "hu": "A 13-as busz közel visz a kilátóponthoz.",
             "ro": "Linia de autobuz 13 vă aduce aproape de punctul de belvedere.",
-            "en": "Bus line 13 takes you close to the viewpoint."
+            "en": "Bus line 13 takes you close to the viewpoint.",
+            "fr": "La ligne de bus 13 vous mène à proximité du point de vue."
           }
         }
       ],
@@ -2123,7 +2319,8 @@
         "de": "Nutzen Sie das effiziente TEOR- und Metrosystem von Rouen. Starten Sie am Marktplatz, besuchen Sie die Kathedrale und das Kunstmuseum im Zentrum. Am Nachmittag bringt Sie die Metro über die Seine zum friedlichen Botanischen Garten. Den Tag beschließen Sie mit einer Busfahrt zum Hügel Sainte-Catherine für den besten Blick über die ganze Stadt.",
         "hu": "Használja Rouen hatékony TEOR- és metróhálózatát. Kezdje a piactéren, látogassa meg a katedrálist és a művészeti múzeumot a belvárosban. Délután a metró átviszi a Szajnán a békés Fűvészkerthez. A napot egy buszos utazással zárja a Sainte-Catherine-dombra, ahonnan a legjobb kilátás nyílik az egész városra.",
         "ro": "Utilizați sistemul eficient TEOR și de metrou din Rouen. Începeți în piață, vizitați catedrala și muzeul de artă din centru. După-amiaza, metroul vă transportă peste Senă la Grădina Botanică liniștită. Încheiați ziua cu o călătorie cu autobuzul spre dealul Sainte-Catherine pentru cea mai bună vedere asupra întregului oraș.",
-        "en": "Use Rouen's efficient TEOR bus and metro system. Start at the market square, visit the cathedral and the art museum in the center. In the afternoon, the metro takes you across the Seine to the peaceful Botanical Garden. End the day with a bus ride to Sainte-Catherine hill for the best view over the entire city."
+        "en": "Use Rouen's efficient TEOR bus and metro system. Start at the market square, visit the cathedral and the art museum in the center. In the afternoon, the metro takes you across the Seine to the peaceful Botanical Garden. End the day with a bus ride to Sainte-Catherine hill for the best view over the entire city.",
+        "fr": "Utilisez le efficace réseau TEOR et métro de Rouen. Commencez à la place du marché, visitez la cathédrale et le musée des beaux-arts au centre. L’après-midi, le métro vous fait traverser la Seine jusqu’au paisible Jardin botanique. Terminez la journée par un trajet en bus jusqu’à la colline Sainte-Catherine pour la meilleure vue sur toute la ville."
       },
       "gastro_picks": {
         "de": [
@@ -2231,6 +2428,12 @@
           "TEOR buses have their own lanes and are very fast.",
           "The Rouen metro runs underground in the city center.",
           "Validate your ticket every time you board."
+        ],
+        "fr": [
+          "Achetez un titre journée (Titre Liberté) pour des trajets illimités.",
+          "Les bus TEOR ont leurs propres voies et sont très rapides.",
+          "Le métro de Rouen circule en souterrain dans le centre-ville.",
+          "Validez votre ticket à chaque montée à bord."
         ]
       },
       "variants": {
@@ -2239,7 +2442,8 @@
             "de": "Nutzen Sie das effiziente TEOR- und Metrosystem von Rouen. Starten Sie am Marktplatz, besuchen Sie die Kathedrale und das Kunstmuseum im Zentrum. Am Nachmittag bringt Sie die Metro über die Seine zum friedlichen Botanischen Garten. Den Tag beschließen Sie mit einer Busfahrt zum Hügel Sainte-Catherine für den besten Blick über die ganze Stadt.",
             "hu": "Használja Rouen hatékony TEOR- és metróhálózatát. Kezdje a piactéren, látogassa meg a katedrálist és a művészeti múzeumot a belvárosban. Délután a metró átviszi a Szajnán a békés Fűvészkerthez. A napot egy buszos utazással zárja a Sainte-Catherine-dombra, ahonnan a legjobb kilátás nyílik az egész városra.",
             "ro": "Utilizați sistemul eficient TEOR și de metrou din Rouen. Începeți în piață, vizitați catedrala și muzeul de artă din centru. După-amiaza, metroul vă transportă peste Senă la Grădina Botanică liniștită. Încheiați ziua cu o călătorie cu autobuzul spre dealul Sainte-Catherine pentru cea mai bună vedere asupra întregului oraș.",
-            "en": "Use Rouen's efficient TEOR bus and metro system. Start at the market square, visit the cathedral and the art museum in the center. In the afternoon, the metro takes you across the Seine to the peaceful Botanical Garden. End the day with a bus ride to Sainte-Catherine hill for the best view over the entire city."
+            "en": "Use Rouen's efficient TEOR bus and metro system. Start at the market square, visit the cathedral and the art museum in the center. In the afternoon, the metro takes you across the Seine to the peaceful Botanical Garden. End the day with a bus ride to Sainte-Catherine hill for the best view over the entire city.",
+            "fr": "Utilisez le efficace réseau TEOR et métro de Rouen. Commencez à la place du marché, visitez la cathédrale et le musée des beaux-arts au centre. L’après-midi, le métro vous fait traverser la Seine jusqu’au paisible Jardin botanique. Terminez la journée par un trajet en bus jusqu’à la colline Sainte-Catherine pour la meilleure vue sur toute la ville."
           },
           "stops": [
             {
@@ -2247,13 +2451,15 @@
                 "de": "Vieux-Marché (TEOR Station)",
                 "hu": "Vieux-Marché (TEOR állomás)",
                 "ro": "Vieux-Marché (Stația TEOR)",
-                "en": "Vieux-Marché (TEOR Station)"
+                "en": "Vieux-Marché (TEOR Station)",
+                "fr": "Vieux-Marché (Station TEOR)"
               },
               "tip_5lang": {
                 "de": "Zentraler Knotenpunkt für das TEOR-Bussystem.",
                 "hu": "A TEOR buszhálózat központi csomópontja.",
                 "ro": "Nod central pentru sistemul de autobuze TEOR.",
-                "en": "Central hub for the TEOR rapid bus system."
+                "en": "Central hub for the TEOR rapid bus system.",
+                "fr": "Nœud central du réseau de bus rapide TEOR."
               }
             },
             {
@@ -2261,13 +2467,15 @@
                 "de": "Kathedrale (Théâtre des Arts)",
                 "hu": "Katedrális (Théâtre des Arts)",
                 "ro": "Catedrala (Théâtre des Arts)",
-                "en": "Cathedral (Théâtre des Arts)"
+                "en": "Cathedral (Théâtre des Arts)",
+                "fr": "Cathédrale (Théâtre des Arts)"
               },
               "tip_5lang": {
                 "de": "Wichtige Umsteigestation zwischen Bus und Metro.",
                 "hu": "Fontos átszállóhely a busz és a metró között.",
                 "ro": "Stație importantă de transfer între autobuz și metrou.",
-                "en": "Major transfer station between bus and metro lines."
+                "en": "Major transfer station between bus and metro lines.",
+                "fr": "Grande station de correspondance entre lignes de bus et de métro."
               }
             },
             {
@@ -2275,13 +2483,15 @@
                 "de": "Musée des Beaux-Arts",
                 "hu": "Szépművészeti Múzeum",
                 "ro": "Muzeul de Arte Frumoase",
-                "en": "Museum of Fine Arts"
+                "en": "Museum of Fine Arts",
+                "fr": "Musée des Beaux-Arts"
               },
               "tip_5lang": {
                 "de": "Gut erreichbar mit mehreren Buslinien.",
                 "hu": "Számos buszjárattal jól megközelíthető.",
                 "ro": "Ușor accesibil cu mai multe linii de autobuz.",
-                "en": "Easily accessible by several bus lines."
+                "en": "Easily accessible by several bus lines.",
+                "fr": "Facilement accessible par plusieurs lignes de bus."
               }
             },
             {
@@ -2289,13 +2499,15 @@
                 "de": "Jardin des Plantes (Métro Europa)",
                 "hu": "Fűvészkert (Europa metróállomás)",
                 "ro": "Grădina Botanică (Metrou Europa)",
-                "en": "Botanical Garden (Europa Metro)"
+                "en": "Botanical Garden (Europa Metro)",
+                "fr": "Jardin botanique (Métro Europa)"
               },
               "tip_5lang": {
                 "de": "Nehmen Sie die Metro Richtung Saint-Étienne-du-Rouvray.",
                 "hu": "Szálljunk a Saint-Étienne-du-Rouvray felé tartó metróra.",
                 "ro": "Luați metroul în direcția Saint-Étienne-du-Rouvray.",
-                "en": "Take the metro towards Saint-Étienne-du-Rouvray."
+                "en": "Take the metro towards Saint-Étienne-du-Rouvray.",
+                "fr": "Prenez le métro en direction de Saint-Étienne-du-Rouvray."
               }
             },
             {
@@ -2303,13 +2515,15 @@
                 "de": "Panorama Sainte-Catherine (Bus 13)",
                 "hu": "Sainte-Catherine panoráma (13-as busz)",
                 "ro": "Panorama Sainte-Catherine (Autobuz 13)",
-                "en": "Sainte-Catherine Viewpoint (Bus 13)"
+                "en": "Sainte-Catherine Viewpoint (Bus 13)",
+                "fr": "Point de vue Sainte-Catherine (Bus 13)"
               },
               "tip_5lang": {
                 "de": "Die Buslinie 13 bringt Sie nah an den Aussichtspunkt.",
                 "hu": "A 13-as busz közel visz a kilátóponthoz.",
                 "ro": "Linia de autobuz 13 vă aduce aproape de punctul de belvedere.",
-                "en": "Bus line 13 takes you close to the viewpoint."
+                "en": "Bus line 13 takes you close to the viewpoint.",
+                "fr": "La ligne de bus 13 vous mène à proximité du point de vue."
               }
             }
           ],
@@ -2419,6 +2633,12 @@
               "TEOR buses have their own lanes and are very fast.",
               "The Rouen metro runs underground in the city center.",
               "Validate your ticket every time you board."
+            ],
+            "fr": [
+              "Achetez un titre journée (Titre Liberté) pour des trajets illimités.",
+              "Les bus TEOR ont leurs propres voies et sont très rapides.",
+              "Le métro de Rouen circule en souterrain dans le centre-ville.",
+              "Validez votre ticket à chaque montée à bord."
             ]
           }
         },
@@ -2427,7 +2647,8 @@
             "de": "Morgens bringen die modernen TEOR-Busse Sie trocken zum Vieux-Marché. Mittags ist der kurze Weg zur Kathedrale auch im Regen machbar. Nachmittags ist die Metrofahrt zum Botanischen Garten eine warme Alternative. Abends kehrt man bequem mit dem Bus 13 von Sainte-Catherine zurück.",
             "hu": "Reggel a modern TEOR buszok szárazon visznek a Vieux-Marché-hoz. Délben a katedrálishoz vezető rövid út esőben is vállalható. Délután a metrózás a botanikus kerthez meleg alternatíva. Este a 13-as busszal kényelmesen térhetünk vissza Sainte-Catherine-től.",
             "ro": "Dimineața, autobuzele moderne TEOR vă duc uscat la Vieux-Marché. La prânz, drumul scurt spre catedrală este fezabil și în ploaie. După-amiaza, călătoria cu metroul spre Grădina Botanică este o alternativă caldă. Seara, reveniți confortabil cu autobuzul 13 de la Sainte-Catherine.",
-            "en": "In the morning, modern TEOR buses take you dry to Vieux-Marché. At noon, the short walk to the cathedral is manageable even in rain. In the afternoon, the metro ride to the Botanical Garden is a warm alternative. In the evening, return comfortably by bus 13 from Sainte-Catherine."
+            "en": "In the morning, modern TEOR buses take you dry to Vieux-Marché. At noon, the short walk to the cathedral is manageable even in rain. In the afternoon, the metro ride to the Botanical Garden is a warm alternative. In the evening, return comfortably by bus 13 from Sainte-Catherine.",
+            "fr": "Le matin, les bus TEOR modernes vous emmènent au sec jusqu’au Vieux-Marché. À midi, la courte marche jusqu’à la cathédrale reste faisable même sous la pluie. L’après-midi, le trajet en métro jusqu’au Jardin botanique est une alternative chauffée. Le soir, revenez confortablement par le bus 13 depuis Sainte-Catherine."
           },
           "stops": [
             {
@@ -2436,7 +2657,8 @@
                 "de": "Die Stationen sind gut überdacht und windgeschützt.",
                 "hu": "Az állomások jól fedettek és szélvédettek.",
                 "ro": "Stațiile sunt bine acoperite și protejate de vânt.",
-                "en": "The stations are well covered and wind-protected."
+                "en": "The stations are well covered and wind-protected.",
+                "fr": "Les stations sont bien couvertes et protégées du vent."
               }
             },
             {
@@ -2445,7 +2667,8 @@
                 "de": "Wichtiger Knotenpunkt mit vielen Unterstellmöglichkeiten.",
                 "hu": "Fontos csomópont számos fedett várakozóhellyel.",
                 "ro": "Nod important cu multe posibilități de adăpostire.",
-                "en": "Important hub with many shelter possibilities."
+                "en": "Important hub with many shelter possibilities.",
+                "fr": "Important nœud avec de nombreuses possibilités d’abri."
               }
             },
             {
@@ -2454,7 +2677,8 @@
                 "de": "Nur wenige Schritte von der Bushaltestelle entfernt.",
                 "hu": "Csak néhány lépésnyire található a buszmegállótól.",
                 "ro": "La doar câțiva pași distanță de stația de autobuz.",
-                "en": "Only a few steps away from the bus stop."
+                "en": "Only a few steps away from the bus stop.",
+                "fr": "À seulement quelques pas de l’arrêt de bus."
               }
             },
             {
@@ -2463,7 +2687,8 @@
                 "de": "Die Metrostation liegt direkt am Eingang des Parks.",
                 "hu": "A metrómegálló közvetlenül a park bejáratánál van.",
                 "ro": "Stația de metrou este chiar la intrarea în parc.",
-                "en": "The metro station is right at the park entrance."
+                "en": "The metro station is right at the park entrance.",
+                "fr": "La station de métro est juste à l’entrée du parc."
               }
             },
             {
@@ -2472,7 +2697,8 @@
                 "de": "Der Bus 13 fährt seltener; Fahrplan vorab prüfen.",
                 "hu": "A 13-as busz ritkábban jár; ellenőrizze a menetrendet.",
                 "ro": "Autobuzul 13 circulă mai rar; verificați orarul înainte.",
-                "en": "Bus 13 runs less frequently; check the schedule in advance."
+                "en": "Bus 13 runs less frequently; check the schedule in advance.",
+                "fr": "Le bus 13 passe moins fréquemment ; consultez les horaires à l’avance."
               }
             }
           ],
@@ -2500,6 +2726,12 @@
               "A day ticket is particularly worth it for this route.",
               "TEOR buses have priority and are often more punctual in the rain.",
               "Keep your ticket handy for checks during rainy weather."
+            ],
+            "fr": [
+              "L’application « Réseau ASTUCE » affiche les départs en temps réel.",
+              "Un ticket journée est particulièrement rentable pour cet itinéraire.",
+              "Les bus TEOR ont la priorité et sont souvent plus ponctuels quand il pleut.",
+              "Gardez votre ticket à portée de main pour les contrôles par temps pluvieux."
             ]
           }
         },
@@ -2508,7 +2740,8 @@
             "de": "Morgens ist die Fahrt in den geheizten Bussen zum Vieux-Marché behaglich. Mittags belebt der kurze Gang zur Kathedrale. Nachmittags bietet die Metro eine warme Verbindung zum winterlichen Botanischen Garten. Abends genießt man die festlich beleuchtete Stadt aus dem Fenster des Bus 13.",
             "hu": "Reggel kényelmes a fűtött buszokon utazni a Vieux-Marché felé. Délben frissítő a rövid séta a katedrálisig. Délután a metró meleg összeköttetést biztosít a téli botanikus kerthez. Este a 13-as busz ablakából csodálhatjuk a díszkivilágításban úszó várost.",
             "ro": "Dimineața, călătoria în autobuzele încălzite spre Vieux-Marché este plăcută. La prânz, drumul scurt spre catedrală este revigorant. După-amiaza, metroul oferă o legătură caldă spre Grădina Botanică. Seara, admirați orașul iluminat festiv de la fereastra autobuzului 13.",
-            "en": "In the morning, the ride in heated buses to Vieux-Marché is cozy. At noon, the short walk to the cathedral is invigorating. In the afternoon, the metro provides a warm link to the winter Botanical Garden. In the evening, enjoy the festively lit city from the window of bus 13."
+            "en": "In the morning, the ride in heated buses to Vieux-Marché is cozy. At noon, the short walk to the cathedral is invigorating. In the afternoon, the metro provides a warm link to the winter Botanical Garden. In the evening, enjoy the festively lit city from the window of bus 13.",
+            "fr": "Le matin, le trajet dans des bus chauffés vers le Vieux-Marché est agréable. À midi, la courte marche jusqu’à la cathédrale revigore. L’après-midi, le métro offre une liaison chauffée vers le Jardin botanique d’hiver. Le soir, profitez de la ville illuminée et festonnée depuis la fenêtre du bus 13."
           },
           "stops": [
             {
@@ -2517,7 +2750,8 @@
                 "de": "Die Stationen sind im Winter gut beleuchtet.",
                 "hu": "Az állomások télen jól kivilágítottak.",
                 "ro": "Stațiile sunt bine iluminate iarna.",
-                "en": "The stations are well lit in winter."
+                "en": "The stations are well lit in winter.",
+                "fr": "Les stations sont bien éclairées en hiver."
               }
             },
             {
@@ -2526,7 +2760,8 @@
                 "de": "Warme Wartebereiche in der Nähe der U-Bahn-Ebene.",
                 "hu": "Meleg várakozóhelyek a metró szintjén.",
                 "ro": "Zone de așteptare calde lângă nivelul metroului.",
-                "en": "Warm waiting areas near the metro level."
+                "en": "Warm waiting areas near the metro level.",
+                "fr": "Espaces d’attente chauffés près du niveau du métro."
               }
             },
             {
@@ -2535,7 +2770,8 @@
                 "de": "Bushaltestellen befinden sich direkt vor dem Museum.",
                 "hu": "A buszmegállók közvetlenül a múzeum előtt találhatók.",
                 "ro": "Stațiile de autobuz se află chiar în fața muzeului.",
-                "en": "Bus stops are located directly in front of the museum."
+                "en": "Bus stops are located directly in front of the museum.",
+                "fr": "Les arrêts de bus se trouvent directement devant le musée."
               }
             },
             {
@@ -2544,7 +2780,8 @@
                 "de": "Kurzer Weg von der geheizten Station zum Parkeingang.",
                 "hu": "Rövid séta a fűtött megállótól a park bejáratáig.",
                 "ro": "Distanță scurtă de la stația încălzită până la intrarea în parc.",
-                "en": "Short walk from the heated station to the park entrance."
+                "en": "Short walk from the heated station to the park entrance.",
+                "fr": "Courte marche depuis la station chauffée jusqu’à l’entrée du parc."
               }
             },
             {
@@ -2553,7 +2790,8 @@
                 "de": "Achten Sie auf die letzte Rückfahrt vor der Kälte.",
                 "hu": "Ügyeljen az utolsó visszainduló járatra a hideg beállta előtt.",
                 "ro": "Fiți atenți la ultima cursă de întoarcere înainte de ger.",
-                "en": "Watch out for the last return trip before the cold sets in."
+                "en": "Watch out for the last return trip before the cold sets in.",
+                "fr": "Faites attention au dernier retour avant que le froid ne s’installe."
               }
             }
           ],
@@ -2581,6 +2819,12 @@
               "Deep metro stations are often warmer than the surface.",
               "Buses are often less crowded in winter than in summer.",
               "Plan your return trip from the viewpoint before 6:00 PM."
+            ],
+            "fr": [
+              "Les tickets peuvent être achetés sans contact dans le bus ou aux distributeurs.",
+              "Les stations de métro profondes sont souvent plus chaudes que la surface.",
+              "Les bus sont souvent moins bondés en hiver qu’en été.",
+              "Prévoyez votre retour depuis le point de vue avant 18h00."
             ]
           }
         }

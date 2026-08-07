@@ -21,7 +21,8 @@
             "de": "Statue von Hector Berlioz",
             "hu": "Hector Berlioz szobra",
             "ro": "Statuia lui Hector Berlioz",
-            "en": "Statue of Hector Berlioz"
+            "en": "Statue of Hector Berlioz",
+            "fr": "Statue d’Hector Berlioz"
           },
           "coords": [
             5.259924,
@@ -36,7 +37,8 @@
             "de": "Bewundern Sie die beeindruckende Statue des berühmten lokalen Komponisten im Zentrum und lesen Sie die Gedenktafel über sein musikalisches Erbe.",
             "hu": "Csodálja meg a híres helyi zeneszerző lenyűgöző szobrát a városközpontban, és mindenképpen olvassa el a zenei örökségét bemutató emléktáblát.",
             "ro": "Admirați statuia impresionantă a renumitului compozitor local din centrul orașului și nu uitați să citiți placa ce detaliază moștenirea sa muzicală.",
-            "en": "Admire the striking statue of the renowned local composer in the town center, and don't forget to check the plaque detailing his musical legacy."
+            "en": "Admire the striking statue of the renowned local composer in the town center, and don't forget to check the plaque detailing his musical legacy.",
+            "fr": "Admirez la statue saisissante du célèbre compositeur local au centre-ville et n’oubliez pas de lire la plaque qui détaille son héritage musical."
           }
         },
         {
@@ -44,7 +46,8 @@
             "de": "Hector Berlioz Museum",
             "hu": "Hector Berlioz Múzeum",
             "ro": "Muzeul Hector Berlioz",
-            "en": "Hector Berlioz Museum"
+            "en": "Hector Berlioz Museum",
+            "fr": "Musée Hector Berlioz"
           },
           "coords": [
             5.261221,
@@ -59,7 +62,8 @@
             "de": "Erkunden Sie das Geburtshaus von Hector Berlioz mit seinen originalen Manuskripten und Instrumenten, kommen Sie jedoch früh, um Gruppen zu meiden.",
             "hu": "Fedezze fel Hector Berlioz szülőházát, ahol eredeti kéziratokat és hangszereket láthat, de érkezzen korán, hogy elkerülje a nagyobb csoportokat.",
             "ro": "Explorați casa natală a lui Hector Berlioz pentru a descoperi manuscrise originale și instrumente, dar ajungeți devreme pentru a evita aglomerația.",
-            "en": "Explore the birthplace of Hector Berlioz to discover original manuscripts and instruments, but arrive early to avoid large tour groups."
+            "en": "Explore the birthplace of Hector Berlioz to discover original manuscripts and instruments, but arrive early to avoid large tour groups.",
+            "fr": "Explorez la maison natale d’Hector Berlioz pour découvrir manuscrits originaux et instruments, mais arrivez tôt pour éviter les grands groupes de visiteurs."
           }
         },
         {
@@ -67,7 +71,8 @@
             "de": "Kirche Saint-André",
             "hu": "Saint-André templom",
             "ro": "Biserica Saint-André",
-            "en": "Saint-André Church"
+            "en": "Saint-André Church",
+            "fr": "Église Saint-André"
           },
           "coords": [
             5.258045,
@@ -82,7 +87,8 @@
             "de": "Bestaunen Sie die romanische Architektur und die ruhige Atmosphäre dieser alten Kirche, aber denken Sie daran, während der Gebetszeiten leise zu sein.",
             "hu": "Csodálja meg ezen ősi templom gyönyörű román stílusú építészetét és békés hangulatát, figyelve arra, hogy csendben maradjon a helyi imaórák alatt.",
             "ro": "Admirați arhitectura romanică și atmosfera senină a acestei biserici vechi, amintindu-vă să păstrați liniștea în timpul orelor de rugăciune locale.",
-            "en": "Marvel at the beautiful Romanesque architecture and serene atmosphere of this ancient church, remembering to keep quiet during local prayer hours."
+            "en": "Marvel at the beautiful Romanesque architecture and serene atmosphere of this ancient church, remembering to keep quiet during local prayer hours.",
+            "fr": "Admirez la belle architecture romane et l’atmosphère sereine de cette église ancienne, en veillant à rester silencieux pendant les heures de prière locales."
           }
         },
         {
@@ -90,7 +96,8 @@
             "de": "Likörmuseum Cherry Rocher",
             "hu": "Cherry Rocher Likőrmúzeum",
             "ro": "Muzeul Lichiorului Cherry Rocher",
-            "en": "Cherry Rocher Liqueur Museum"
+            "en": "Cherry Rocher Liqueur Museum",
+            "fr": "Musée de la Liqueur Cherry Rocher"
           },
           "coords": [
             5.265429,
@@ -105,7 +112,8 @@
             "de": "Tauchen Sie in diesem einzigartigen Museum in die Geschichte der Likörherstellung ein und genießen Sie unbedingt die Verkostung am Ende der Tour.",
             "hu": "Merüljön el a hagyományos likőrkészítés lenyűgöző történetében ebben az egyedülálló múzeumban, és a végén mindenképp vegyen részt a kóstolón.",
             "ro": "Pătrundeți în istoria fascinantă a fabricării lichiorului tradițional la acest muzeu unic și asigurați-vă că vă bucurați de degustarea de la final.",
-            "en": "Delve into the fascinating history of traditional liqueur making at this unique museum, and be sure to enjoy the tasting session at the very end."
+            "en": "Delve into the fascinating history of traditional liqueur making at this unique museum, and be sure to enjoy the tasting session at the very end.",
+            "fr": "Plongez dans l’histoire fascinante de la fabrication traditionnelle de liqueur dans ce musée unique et assurez‑vous de participer à la dégustation à la toute fin."
           }
         },
         {
@@ -113,7 +121,8 @@
             "de": "Kirche Saint-Camille",
             "hu": "Saint-Camille templom",
             "ro": "Biserica Saint-Camille",
-            "en": "Saint-Camille Church"
+            "en": "Saint-Camille Church",
+            "fr": "Église Saint-Camille"
           },
           "coords": [
             5.267545,
@@ -128,7 +137,8 @@
             "de": "Genießen Sie einen ruhigen Moment in dieser charmanten, weniger bekannten Kirche und bewundern Sie die bescheidenen, aber schönen Buntglasfenster.",
             "hu": "Töltsön el egy békés pillanatot ebben a bájos, kevésbé ismert templomban, hogy megcsodálja szerény ólomüveg ablakait egy csendes délutáni pihenőn.",
             "ro": "Petreceți un moment de liniște în această biserică fermecătoare, mai puțin cunoscută, pentru a aprecia vitraliile sale modeste într-o după-amiază.",
-            "en": "Take a peaceful moment in this charming lesser-known church to appreciate its modest stained glass windows, ideal for a quiet afternoon retreat."
+            "en": "Take a peaceful moment in this charming lesser-known church to appreciate its modest stained glass windows, ideal for a quiet afternoon retreat.",
+            "fr": "Accordez-vous un moment de paix dans cette charmante église moins connue pour apprécier ses modestes vitraux, idéale pour une retraite tranquille l’après‑midi."
           }
         }
       ],
@@ -136,7 +146,8 @@
         "de": "Der Morgen beginnt mit einer Hommage an Hector Berlioz, gefolgt von einer Erkundung seines Geburtshauses. Mittags bietet die alte Kirche Saint-André eine friedliche Pause vor einem kulturellen Genuss. Der Nachmittag widmet sich der süßen Geschichte der Liköre bei Cherry Rocher. Der Tag endet mit einer ruhigen Besinnung in der nahegelegenen Église Saint-Camille.",
         "hu": "A reggel Hector Berlioz tiszteletével kezdődik, megcsodálva központi szobrát és szülőházát. A dél körül egy békés pihenő következik a történelmi Saint-André templomnál. A délután a helyi likőrök édes történetébe enged betekintést a Cherry Rocher múzeumban. A napot a közeli Église Saint-Camille békés, elmélyült hangulata zárja le.",
         "ro": "Dimineața începe cu un omagiu adus lui Hector Berlioz, explorând statuia sa și casa natală. La prânz, veți găsi un refugiu liniștit la istorica Biserică Saint-André. După-amiaza face tranziția către istoria dulce a lichiorurilor locale la Cherry Rocher. Ziua se încheie cu o reflecție senină la Église Saint-Camille, aflată în apropiere.",
-        "en": "Morning begins with a tribute to Hector Berlioz, admiring his central statue before exploring his birth home. Midday offers a peaceful interlude at the historic Saint-André Church, followed by an appetizing cultural dive. Afternoon transitions into the sweet history of local liqueurs at Cherry Rocher. The day concludes with serene reflection at the nearby Église Saint-Camille."
+        "en": "Morning begins with a tribute to Hector Berlioz, admiring his central statue before exploring his birth home. Midday offers a peaceful interlude at the historic Saint-André Church, followed by an appetizing cultural dive. Afternoon transitions into the sweet history of local liqueurs at Cherry Rocher. The day concludes with serene reflection at the nearby Église Saint-Camille.",
+        "fr": "La matinée commence par un hommage à Hector Berlioz, en admirant sa statue centrale avant d’explorer sa maison natale. Le midi offre une parenthèse paisible à l’historique Église Saint‑André, suivie d’une immersion culturelle appétissante. L’après‑midi se transforme en une douce découverte de l’histoire locale des liqueurs au Cherry Rocher. La journée se conclut par une réflexion sereine à l’Église Saint‑Camille."
       },
       "variants": {
         "rainy": {
@@ -144,7 +155,8 @@
             "de": "Ein feuchter Morgen beginnt an der Berlioz-Statue, bevor Sie ins trockene Museum flüchten. Mittags bieten die massiven Bögen der Kirche Saint-André perfekten Schutz. Den Nachmittag verbringen Sie trocken bei einer spannenden Verkostung im Likörmuseum Cherry Rocher. Der nasse Abend bricht ein, während Sie in der Kirche Saint-Camille eine gemütliche, wetterfeste Zuflucht finden.",
             "hu": "Az esős reggel Berlioz szobránál indul, majd a közeli múzeumba menekülünk. A delet a Saint-André templom menedéket nyújtó, száraz falai között töltjük. Délután a Cherry Rocher Likőrmúzeumban szárítkozunk egy melegítő kóstoló mellett. Az esős este közeledtével a Saint-Camille templom csendes békéje és zárt fedele vár ránk.",
             "ro": "Dimineața ploioasă începe la statuia lui Berlioz, apoi ne refugiem rapid în muzeu. La prânz, arcadele masive ale bisericii Saint-André ne oferă adăpost de ploaie. După-amiaza o petrecem la uscat, degustând licori la Muzeul Cherry Rocher. Seara ploioasă se apropie, găsind liniște și acoperiș în biserica Saint-Camille.",
-            "en": "A damp morning starts at Berlioz's statue before escaping into his museum. Midday brings you to the sheltering, dry arches of Saint-André Church. The afternoon is best spent tasting warming liqueurs at the Cherry Rocher Museum to stay completely dry. Evening approaches as you find quiet refuge from the rain in Saint-Camille Church."
+            "en": "A damp morning starts at Berlioz's statue before escaping into his museum. Midday brings you to the sheltering, dry arches of Saint-André Church. The afternoon is best spent tasting warming liqueurs at the Cherry Rocher Museum to stay completely dry. Evening approaches as you find quiet refuge from the rain in Saint-Camille Church.",
+            "fr": "Une matinée humide commence devant la statue de Berlioz avant de se réfugier dans son musée. À midi, les arches abritées et sèches de l’église Saint-André vous accueillent. L’après-midi est idéal pour déguster des liqueurs réchauffantes au Musée du Rocher à la Cerise afin de rester complètement au sec. Le soir, trouvez un refuge paisible contre la pluie dans l’église Saint-Camille."
           },
           "stops": [
             {
@@ -152,13 +164,15 @@
                 "de": "Statue von Hector Berlioz",
                 "hu": "Hector Berlioz szobra",
                 "ro": "Statuia lui Hector Berlioz",
-                "en": "Statue of Hector Berlioz"
+                "en": "Statue of Hector Berlioz",
+                "fr": "Statue d’Hector Berlioz"
               },
               "tip_5lang": {
                 "de": "Bewundern Sie die Bronze durch die Regentropfen, aber eilen Sie schnell ins nahegelegene Museum, um dem starken Schauer rechtzeitig zu entkommen.",
                 "hu": "Csodáld meg a bronz részleteket az esőcseppeken keresztül, majd siess a közeli múzeumba a heves zápor elől, hogy ne ázz el teljesen.",
                 "ro": "Admiră detaliile de bronz prin picăturile de ploaie, apoi grăbește-te la muzeul din apropiere pentru a scăpa la timp de aversele reci.",
-                "en": "Admire the bronze details of the composer through the raindrops, but quickly head to the nearby museum to escape the heavy showers."
+                "en": "Admire the bronze details of the composer through the raindrops, but quickly head to the nearby museum to escape the heavy showers.",
+                "fr": "Admirez les détails en bronze du compositeur à travers les gouttes, puis dirigez-vous rapidement vers le musée voisin pour échapper aux fortes averses."
               }
             },
             {
@@ -166,13 +180,15 @@
                 "de": "Hector Berlioz Museum",
                 "hu": "Hector Berlioz Múzeum",
                 "ro": "Muzeul Hector Berlioz",
-                "en": "Hector Berlioz Museum"
+                "en": "Hector Berlioz Museum",
+                "fr": "Musée Hector Berlioz"
               },
               "tip_5lang": {
                 "de": "Erkunden Sie die Ausstellungen im Haus des Komponisten; die beheizten Innenräume bieten einen perfekten, trockenen Rückzugsort vor dem Regen.",
                 "hu": "Fedezd fel a zeneszerző szülőházát; a fűtött belső terek tökéletes és száraz menedéket nyújtanak a kinti kitartó esőzéssel szemben.",
                 "ro": "Explorează casa natală a compozitorului; expozițiile interioare încălzite oferă un refugiu perfect și uscat din calea ploii persistente.",
-                "en": "Explore the composer's birthplace and exhibits; the heated indoor displays offer a perfect, dry retreat from the persistent rain outside."
+                "en": "Explore the composer's birthplace and exhibits; the heated indoor displays offer a perfect, dry retreat from the persistent rain outside.",
+                "fr": "Explorez la maison natale et les expositions du compositeur ; les salles chauffées offrent un parfait refuge sec contre la pluie persistante."
               }
             },
             {
@@ -180,13 +196,15 @@
                 "de": "Kirche Saint-André",
                 "hu": "Saint-André templom",
                 "ro": "Biserica Saint-André",
-                "en": "Saint-André Church"
+                "en": "Saint-André Church",
+                "fr": "Église Saint-André"
               },
               "tip_5lang": {
                 "de": "Suchen Sie Schutz in diesem gotischen Bauwerk und betrachten Sie die Fenster, während der Regen sanft gegen die dicken Steinwände prasselt.",
                 "hu": "Keress menedéket ebben a gótikus épületben, és csodáld meg az üvegablakokat, miközben az eső halkan kopog az évszázados kőfalakon.",
                 "ro": "Adăpostește-te în această structură gotică pentru a admira vitraliile, ascultând ploaia care bate ușor în pereții groși de piatră.",
-                "en": "Take shelter in this impressive Gothic structure to marvel at the stained glass, letting the rain patter softly against the stone walls."
+                "en": "Take shelter in this impressive Gothic structure to marvel at the stained glass, letting the rain patter softly against the stone walls.",
+                "fr": "Mettez-vous à l’abri dans cette impressionnante construction gothique pour admirer les vitraux, laissant la pluie crépiter doucement contre les murs de pierre."
               }
             },
             {
@@ -194,13 +212,15 @@
                 "de": "Likörmuseum Cherry Rocher",
                 "hu": "Cherry Rocher Likőrmúzeum",
                 "ro": "Muzeul Lichiorului Cherry Rocher",
-                "en": "Cherry Rocher Liqueur Museum"
+                "en": "Cherry Rocher Liqueur Museum",
+                "fr": "Musée de la liqueur du Rocher à la Cerise"
               },
               "tip_5lang": {
                 "de": "Lernen Sie alte Destillationstechniken kennen und genießen Sie eine Verkostung drinnen, während Sie vor dem trüben Wetter absolut trocken bleiben.",
                 "hu": "Ismerd meg a lepárlási technikákat, és élvezd a benti kóstolót, teljesen szárazon maradva az utcán tomboló borongós időjárás ellenére is.",
                 "ro": "Învață despre tehnicile de distilare și bucură-te de o degustare la interior, stând perfect la uscat în timp ce vremea rămâne mohorâtă.",
-                "en": "Learn about ancient distillation techniques and enjoy a tasting session inside, keeping you perfectly dry while the weather remains gloomy."
+                "en": "Learn about ancient distillation techniques and enjoy a tasting session inside, keeping you perfectly dry while the weather remains gloomy.",
+                "fr": "Découvrez les techniques anciennes de distillation et profitez d’une dégustation à l’intérieur, vous gardant parfaitement au sec tandis que le temps reste maussade."
               }
             },
             {
@@ -208,13 +228,15 @@
                 "de": "Kirche Saint-Camille",
                 "hu": "Saint-Camille templom",
                 "ro": "Biserica Saint-Camille",
-                "en": "Saint-Camille Church"
+                "en": "Saint-Camille Church",
+                "fr": "Église Saint-Camille"
               },
               "tip_5lang": {
                 "de": "Beenden Sie Ihren Spaziergang im ruhigen Kirchenschiff, schütteln Sie Ihren Regenschirm ab und erkunden Sie die feinen Altäre völlig trocken.",
                 "hu": "Zárd a nedves sétát e templom csendes hajójában megpihenve; rázd le jól az esernyődet, mielőtt felfedeznéd a bonyolult, szép oltárokat.",
                 "ro": "Încheie plimbarea odihnindu-te în naosul uscat al acestei biserici, scuturând umbrela udă înainte de a explora altarele sale complicate.",
-                "en": "Conclude your wet walk by resting in the quiet, dry nave of this charming church, shaking off your umbrella before exploring its altars."
+                "en": "Conclude your wet walk by resting in the quiet, dry nave of this charming church, shaking off your umbrella before exploring its altars.",
+                "fr": "Terminez votre promenade pluvieuse en vous reposant dans la nef calme et sèche de cette charmante église, secouez votre parapluie avant d’explorer ses autels."
               }
             }
           ]
@@ -224,7 +246,8 @@
             "de": "Ein frostiger Wintermorgen begrüßt Sie an der Berlioz-Statue, bevor Sie sich im Museum aufwärmen. Mittags erhellt die Sonne den Frost an der Kirche Saint-André. Den kalten Nachmittag verbringen Sie angenehm im Likörmuseum Cherry Rocher. Nach dem frühen Sonnenuntergang um 17:00 Uhr bietet Saint-Camille einen gemütlichen Rückzugsort.",
             "hu": "A csípős téli reggel Berlioz szobránál fogad, mielőtt a fűtött múzeumban melegednénk. Délben a nap megcsillan a Saint-André templom jeges kövein. A hideg délutánt a Cherry Rocher Likőrmúzeumban töltjük. A korai, 17:00 órás sötétedés után a Saint-Camille templom meghitt menedéket kínál a fagy elől.",
             "ro": "Dimineața rece de iarnă te întâmpină la statuia lui Berlioz, înainte de a te încălzi în muzeu. Soarele de prânz luminează bruma de pe biserica Saint-André. Petrece după-amiaza geroasă la căldură, în Muzeul Cherry Rocher. După apusul de la ora 17:00, biserica Saint-Camille oferă un refugiu liniștit.",
-            "en": "A brisk winter morning greets you at Berlioz's statue before warming up inside the museum. Midday sun briefly illuminates the frost at Saint-André Church. Spend the chilly afternoon indoors learning about Cherry Rocher liqueurs. As the sun sets early around 17:00, Saint-Camille offers a cozy, peaceful retreat."
+            "en": "A brisk winter morning greets you at Berlioz's statue before warming up inside the museum. Midday sun briefly illuminates the frost at Saint-André Church. Spend the chilly afternoon indoors learning about Cherry Rocher liqueurs. As the sun sets early around 17:00, Saint-Camille offers a cozy, peaceful retreat.",
+            "fr": "Une matinée hivernale vive vous accueille auprès de la statue de Berlioz avant de vous réchauffer à l’intérieur du musée. Le soleil de midi éclaire brièvement le givre à l’église Saint-André. Passez l’après-midi frais à l’intérieur pour en apprendre davantage sur les liqueurs du Rocher à la Cerise. Le soleil se couche tôt vers 17:00 ; Saint-Camille offre alors un refuge chaleureux et paisible."
           },
           "stops": [
             {
@@ -232,13 +255,15 @@
                 "de": "Statue von Hector Berlioz",
                 "hu": "Hector Berlioz szobra",
                 "ro": "Statuia lui Hector Berlioz",
-                "en": "Statue of Hector Berlioz"
+                "en": "Statue of Hector Berlioz",
+                "fr": "Statue d’Hector Berlioz"
               },
               "tip_5lang": {
                 "de": "Packen Sie sich warm ein, um das schneebedeckte Denkmal zu sehen, bevor Sie rasch zu den beheizten Ausstellungen gehen, um aufzutauen.",
                 "hu": "Öltözz melegen, hogy megnézd a havas emlékművet, majd lépj be a fűtött kiállítótérbe, hogy felmelegítsd az átfagyott ujjaidat.",
                 "ro": "Îmbracă-te gros pentru a vedea monumentul nins al compozitorului, apoi mergi rapid la expozițiile încălzite pentru a te dezgheța.",
-                "en": "Wrap up warmly to view the composer's snow-dusted monument before moving briskly to the heated indoor exhibits to thaw your fingers."
+                "en": "Wrap up warmly to view the composer's snow-dusted monument before moving briskly to the heated indoor exhibits to thaw your fingers.",
+                "fr": "Couvrez-vous chaudement pour admirer le monument du compositeur poudré de neige avant de rejoindre rapidement les salles chauffées pour réchauffer vos doigts."
               }
             },
             {
@@ -246,13 +271,15 @@
                 "de": "Hector Berlioz Museum",
                 "hu": "Hector Berlioz Múzeum",
                 "ro": "Muzeul Hector Berlioz",
-                "en": "Hector Berlioz Museum"
+                "en": "Hector Berlioz Museum",
+                "fr": "Musée Hector Berlioz"
               },
               "tip_5lang": {
                 "de": "Verbringen Sie Zeit in diesem beheizten Haus und lassen Sie Ihre schweren Wintermäntel an der Garderobe, um alles bequem zu genießen.",
                 "hu": "Tölts időt Berlioz életének megismerésével ebben a fűtött házban; hagyd a nehéz téli kabátot a ruhatárban a maximális kényelemért.",
                 "ro": "Petrece timp descoperind viața lui Berlioz în această casă încălzită, lăsând paltoanele grele de iarnă la garderobă pentru confort.",
-                "en": "Spend quality time discovering Berlioz's life in this cozy, heated house, leaving your heavy winter coats in the cloakroom."
+                "en": "Spend quality time discovering Berlioz's life in this cozy, heated house, leaving your heavy winter coats in the cloakroom.",
+                "fr": "Passez du temps à découvrir la vie de Berlioz dans cette maison cosy et chauffée, en laissant vos lourds manteaux d’hiver au vestiaire."
               }
             },
             {
@@ -260,13 +287,15 @@
                 "de": "Kirche Saint-André",
                 "hu": "Saint-André templom",
                 "ro": "Biserica Saint-André",
-                "en": "Saint-André Church"
+                "en": "Saint-André Church",
+                "fr": "Église Saint-André"
               },
               "tip_5lang": {
                 "de": "Betreten Sie das kühle, prächtige Kirchenschiff, um das Winterlicht zu sehen; tragen Sie dicke Thermokleidung, um sich wohlzufühlen.",
                 "hu": "Lépj be a hűvös, de csodálatos főhajóba, hogy lásd a beszűrődő téli fényeket; viselj termo rétegeket, hogy bent se fázz meg.",
                 "ro": "Intră în naosul rece, dar magnific, pentru a vedea lumina de iarnă; poartă straturi termice pentru a te simți confortabil în interior.",
-                "en": "Step inside the chilly but magnificent nave to see the winter light filtering through the windows; wear thermal layers to stay warm here."
+                "en": "Step inside the chilly but magnificent nave to see the winter light filtering through the windows; wear thermal layers to stay warm here.",
+                "fr": "Entrez dans la nef fraîche mais magnifique pour voir la lumière hivernale filtrer par les vitraux ; portez des couches thermiques pour rester au chaud."
               }
             },
             {
@@ -274,13 +303,15 @@
                 "de": "Likörmuseum Cherry Rocher",
                 "hu": "Cherry Rocher Likőrmúzeum",
                 "ro": "Muzeul Lichiorului Cherry Rocher",
-                "en": "Cherry Rocher Liqueur Museum"
+                "en": "Cherry Rocher Liqueur Museum",
+                "fr": "Musée de la liqueur du Rocher à la Cerise"
               },
               "tip_5lang": {
                 "de": "Eine fantastische Flucht an einem Winternachmittag, wo Sie Liköre probieren können, die Sie vor dem frühen Einbruch der Dunkelheit aufwärmen.",
                 "hu": "Fantasztikus téli délutáni benti menedék, ahol gazdag likőröket kóstolhatsz, amelyek belülről felmelegítenek a korai sötétedés előtt.",
                 "ro": "O evadare fantastică de iarnă unde poți degusta lichioruri bogate care te vor încălzi pe dinăuntru înainte de lăsarea întunericului.",
-                "en": "A fantastic winter afternoon escape where you can sample rich liqueurs that will warm you from the inside out before the early darkness falls."
+                "en": "A fantastic winter afternoon escape where you can sample rich liqueurs that will warm you from the inside out before the early darkness falls.",
+                "fr": "Une excellente échappée hivernale où vous pouvez déguster de riches liqueurs qui vous réchaufferont de l’intérieur avant que la nuit ne tombe tôt."
               }
             },
             {
@@ -288,13 +319,15 @@
                 "de": "Kirche Saint-Camille",
                 "hu": "Saint-Camille templom",
                 "ro": "Biserica Saint-Camille",
-                "en": "Saint-Camille Church"
+                "en": "Saint-Camille Church",
+                "fr": "Église Saint-Camille"
               },
               "tip_5lang": {
                 "de": "Besuchen Sie dieses ruhige Heiligtum am Winterabend; die dicken Wände isolieren hervorragend gegen den beißenden Frost draußen.",
                 "hu": "Látogasd meg ezt a szentélyt, ahogy a téli árnyékok megnyúlnak; a vastag falak kiváló szigetelést nyújtanak a kinti csípős fagy ellen.",
                 "ro": "Vizitează acest sanctuar pe măsură ce umbrele iernii se lungesc; pereții groși oferă o izolare excelentă împotriva gerului tăios.",
-                "en": "Visit this quiet sanctuary as the winter shadows lengthen; the thick historic walls provide excellent insulation against the biting evening frost."
+                "en": "Visit this quiet sanctuary as the winter shadows lengthen; the thick historic walls provide excellent insulation against the biting evening frost.",
+                "fr": "Visitez ce sanctuaire paisible à mesure que l’ombre hivernale s’allonge ; les épaisses murailles historiques offrent une excellente isolation contre le gel du soir."
               }
             }
           ]
@@ -314,7 +347,8 @@
             "de": "Kirche Saint-André",
             "hu": "Saint-André templom",
             "ro": "Biserica Saint-André",
-            "en": "Saint-André Church"
+            "en": "Saint-André Church",
+            "fr": "Église Saint-André"
           },
           "coords": [
             5.258045,
@@ -329,7 +363,8 @@
             "de": "Bestaunen Sie die romanische Architektur und die ruhige Atmosphäre dieser alten Kirche, aber denken Sie daran, während der Gebetszeiten leise zu sein.",
             "hu": "Csodálja meg ezen ősi templom gyönyörű román stílusú építészetét és békés hangulatát, figyelve arra, hogy csendben maradjon a helyi imaórák alatt.",
             "ro": "Admirați arhitectura romanică și atmosfera senină a acestei biserici vechi, amintindu-vă să păstrați liniștea în timpul orelor de rugăciune locale.",
-            "en": "Marvel at the beautiful Romanesque architecture and serene atmosphere of this ancient church, remembering to keep quiet during local prayer hours."
+            "en": "Marvel at the beautiful Romanesque architecture and serene atmosphere of this ancient church, remembering to keep quiet during local prayer hours.",
+            "fr": "Admirez la belle architecture romane et l’atmosphère sereine de cette ancienne église, en veillant à rester silencieux pendant les heures de prière locales."
           }
         },
         {
@@ -337,7 +372,8 @@
             "de": "Hector Berlioz Museum",
             "hu": "Hector Berlioz Múzeum",
             "ro": "Muzeul Hector Berlioz",
-            "en": "Hector Berlioz Museum"
+            "en": "Hector Berlioz Museum",
+            "fr": "Musée Hector Berlioz"
           },
           "coords": [
             5.261221,
@@ -352,7 +388,8 @@
             "de": "Erkunden Sie das Geburtshaus von Hector Berlioz mit seinen originalen Manuskripten und Instrumenten, kommen Sie jedoch früh, um Gruppen zu meiden.",
             "hu": "Fedezze fel Hector Berlioz szülőházát, ahol eredeti kéziratokat és hangszereket láthat, de érkezzen korán, hogy elkerülje a nagyobb csoportokat.",
             "ro": "Explorați casa natală a lui Hector Berlioz pentru a descoperi manuscrise originale și instrumente, dar ajungeți devreme pentru a evita aglomerația.",
-            "en": "Explore the birthplace of Hector Berlioz to discover original manuscripts and instruments, but arrive early to avoid large tour groups."
+            "en": "Explore the birthplace of Hector Berlioz to discover original manuscripts and instruments, but arrive early to avoid large tour groups.",
+            "fr": "Explorez la maison natale d’Hector Berlioz pour découvrir des manuscrits et instruments originaux, mais arrivez tôt pour éviter les grands groupes de visiteurs."
           }
         },
         {
@@ -360,7 +397,8 @@
             "de": "Likörmuseum Cherry Rocher",
             "hu": "Cherry Rocher Likőrmúzeum",
             "ro": "Muzeul Lichiorului Cherry Rocher",
-            "en": "Cherry Rocher Liqueur Museum"
+            "en": "Cherry Rocher Liqueur Museum",
+            "fr": "Musée de la liqueur du Rocher à la Cerise"
           },
           "coords": [
             5.265429,
@@ -375,7 +413,8 @@
             "de": "Tauchen Sie in diesem einzigartigen Museum in die Geschichte der Likörherstellung ein und genießen Sie unbedingt die Verkostung am Ende der Tour.",
             "hu": "Merüljön el a hagyományos likőrkészítés lenyűgöző történetében ebben az egyedülálló múzeumban, és a végén mindenképp vegyen részt a kóstolón.",
             "ro": "Pătrundeți în istoria fascinantă a fabricării lichiorului tradițional la acest muzeu unic și asigurați-vă că vă bucurați de degustarea de la final.",
-            "en": "Delve into the fascinating history of traditional liqueur making at this unique museum, and be sure to enjoy the tasting session at the very end."
+            "en": "Delve into the fascinating history of traditional liqueur making at this unique museum, and be sure to enjoy the tasting session at the very end.",
+            "fr": "Plongez dans l’histoire fascinante de la fabrication traditionnelle de liqueurs dans ce musée unique, et n’oubliez pas de savourer la dégustation à la toute fin."
           }
         },
         {
@@ -383,7 +422,8 @@
             "de": "Domaine des Croisettes",
             "hu": "Domaine des Croisettes",
             "ro": "Domaine des Croisettes",
-            "en": "Domaine des Croisettes"
+            "en": "Domaine des Croisettes",
+            "fr": "Domaine des Croisettes"
           },
           "coords": [
             5.270061,
@@ -398,7 +438,8 @@
             "de": "Spazieren Sie durch die eleganten Anlagen dieses wunderschönen Anwesens und bringen Sie Ihre Kamera für atemberaubende Architekturaufnahmen mit.",
             "hu": "Sétáljon végig ezen a gyönyörű birtokon, hogy megtapasztalja a helyi történelmet, és hozzon magával fényképezőgépet a lenyűgöző építészeti fotókhoz.",
             "ro": "Plimbați-vă pe domeniul elegant al acestei frumoase proprietăți pentru a simți istoria locală și aduceți-vă aparatul pentru fotografii uimitoare.",
-            "en": "Wander through the elegant grounds of this beautiful estate to experience local history, and bring your camera for stunning architectural photos."
+            "en": "Wander through the elegant grounds of this beautiful estate to experience local history, and bring your camera for stunning architectural photos.",
+            "fr": "Flânez dans les jardins élégants de ce beau domaine pour ressentir l’histoire locale, et apportez votre appareil photo pour de superbes clichés architecturaux."
           }
         },
         {
@@ -406,7 +447,8 @@
             "de": "Orientierungstafel",
             "hu": "Panoráma kilátó",
             "ro": "Punct de belvedere",
-            "en": "Panoramic Viewpoint"
+            "en": "Panoramic Viewpoint",
+            "fr": "Table d'orientation panoramique"
           },
           "coords": [
             5.253717,
@@ -421,7 +463,8 @@
             "de": "Radeln Sie zu diesem Aussichtspunkt für atemberaubende Ausblicke über das Tal und versuchen Sie, an klaren Tagen die fernen Alpengipfel zu erspähen.",
             "hu": "Kerékpározzon fel ehhez a panorámás kilátóhoz, ahonnan lélegzetelállító kilátás nyílik a völgyre, és tiszta időben próbálja megkeresni az Alpokat.",
             "ro": "Pedalați până la acest punct de belvedere pentru o panoramă uluitoare a văii și încercați să zăriți vârfurile alpine îndepărtate într-o zi senină.",
-            "en": "Cycle up to this panoramic viewpoint for breathtaking vistas over the entire valley, and try to spot the distant alpine peaks on a perfectly clear day."
+            "en": "Cycle up to this panoramic viewpoint for breathtaking vistas over the entire valley, and try to spot the distant alpine peaks on a perfectly clear day.",
+            "fr": "Montez à vélo jusqu’à ce point de vue panoramique pour des vues à couper le souffle sur toute la vallée, et essayez d’apercevoir les sommets alpins au loin par une journée parfaitement claire."
           }
         }
       ],
@@ -429,7 +472,8 @@
         "de": "Beginnen Sie Ihre Radtour an der Kirche Saint-André, bevor Sie zum nahegelegenen Berlioz-Museum fahren. Mittags locken süße Aromen im Likörmuseum Cherry Rocher. Am Nachmittag fahren Sie am malerischen Domaine des Croisettes vorbei und bewundern die historische Eleganz. Der Abend belohnt Sie mit einem Panoramablick ins Tal am Table d'orientation.",
         "hu": "Kezdje kerékpáros túráját a Saint-André templomnál, mielőtt átgurulna a Berlioz Múzeumba. Délben édes illatok csábítják a Cherry Rocher likőrmúzeumba. Délután tekerjen el a festői Domaine des Croisettes mellett, megörökítve annak eleganciáját. Az este a völgyre nyíló lenyűgöző panorámával jutalmazza meg a Table d'orientation kilátójánál.",
         "ro": "Începeți călătoria cu bicicleta la Biserica Saint-André, înainte de a pedala spre Muzeul Berlioz. La prânz, aromele dulci vă vor atrage la muzeul de lichior Cherry Rocher. După-amiaza, pedalați pe lângă domeniul pitoresc Croisettes pentru eleganța sa istorică. Seara vă recompensează cu un apus panoramic peste vale la Table d'orientation.",
-        "en": "Start your cycling journey at the architectural gem of Saint-André Church before riding to the nearby Berlioz Museum. By midday, sweet aromas will tempt you at the Cherry Rocher liqueur museum. In the afternoon, ride past the scenic Domaine des Croisettes, capturing its historical elegance. Your evening rewards you with a panoramic valley sunset at the Table d'orientation."
+        "en": "Start your cycling journey at the architectural gem of Saint-André Church before riding to the nearby Berlioz Museum. By midday, sweet aromas will tempt you at the Cherry Rocher liqueur museum. In the afternoon, ride past the scenic Domaine des Croisettes, capturing its historical elegance. Your evening rewards you with a panoramic valley sunset at the Table d'orientation.",
+        "fr": "Commencez votre parcours à vélo à l’édifice architectural qu’est l’église Saint-André avant de rejoindre le musée Berlioz à proximité. À midi, de douces effluves vous tenteront au musée de la liqueur du Rocher à la Cerise. L’après-midi, longez le pittoresque Domaine des Croisettes en capturant son élégance historique. Votre soirée vous récompense par un coucher de soleil sur la vallée depuis la Table d'orientation."
       },
       "variants": {
         "rainy": {
@@ -437,7 +481,8 @@
             "de": "Beginnen Sie Ihre nasse Radtour vorsichtig an der Kirche Saint-André und trocknen Sie im Berlioz-Museum. Mittags lockt das geschützte Likörmuseum Cherry Rocher. Trotzen Sie nachmittags den rutschigen Straßen zur Domaine des Croisettes. Der abendliche Aussichtspunkt erfordert wasserfeste Kleidung im dichten Nebel.",
             "hu": "Az esős biciklitúra a Saint-André templomnál indul, majd a Berlioz Múzeumban szárítkozunk. Délben a Cherry Rocher védett falai között melegszünk. Délután óvatosan tekerünk a csúszós utakon a Domaine des Croisettes felé. Az esti panoráma a völgyre jó minőségű esőkabátot követel.",
             "ro": "Începeți cu grijă turul ploios cu bicicleta la Saint-André, apoi uscați-vă la Muzeul Berlioz. Prânzul aduce o degustare protejată la Cherry Rocher. Înfruntați drumurile alunecoase după-amiaza spre Domaine des Croisettes. Punctul de belvedere necesită pelerine pentru a vedea valea umedă.",
-            "en": "Start your wet cycling tour carefully at Saint-André Church before drying off in the Berlioz Museum. Midday calls for a sheltered liqueur tasting at Cherry Rocher. Brave the slippery afternoon roads to reach Domaine des Croisettes. The evening viewpoint requires waterproof gear as you overlook the misty valley."
+            "en": "Start your wet cycling tour carefully at Saint-André Church before drying off in the Berlioz Museum. Midday calls for a sheltered liqueur tasting at Cherry Rocher. Brave the slippery afternoon roads to reach Domaine des Croisettes. The evening viewpoint requires waterproof gear as you overlook the misty valley.",
+            "fr": "Commencez prudemment votre circuit cycliste sous la pluie à l’église Saint-André avant de vous sécher au musée Berlioz. À midi, une dégustation abritée vous attend au Rocher à la Cerise. Bravez les routes glissantes de l’après-midi pour atteindre le Domaine des Croisettes. Le point de vue du soir nécessite un équipement imperméable car vous dominerez une vallée embrumée."
           },
           "stops": [
             {
@@ -445,13 +490,15 @@
                 "de": "Kirche Saint-André",
                 "hu": "Saint-André templom",
                 "ro": "Biserica Saint-André",
-                "en": "Saint-André Church"
+                "en": "Saint-André Church",
+                "fr": "Église Saint-André"
               },
               "tip_5lang": {
                 "de": "Parken Sie Ihr Rad vorsichtig auf dem nassen Kopfsteinpflaster und flüchten Sie in diese große Kirche, um den Morgenschauer abzuschütteln.",
                 "hu": "Parkold le a bringát óvatosan a csúszós, nedves macskaköveken, és menekülj be ebbe a nagy templomba lerázni a reggeli esőt.",
                 "ro": "Parcați bicicleta cu grijă, deoarece piatra cubică udă este alunecoasă, și refugiați-vă în biserică pentru a scăpa de ploaia de dimineață.",
-                "en": "Park your bike carefully as the wet cobblestones are slippery, and take refuge inside this grand church to shake off the morning raindrops."
+                "en": "Park your bike carefully as the wet cobblestones are slippery, and take refuge inside this grand church to shake off the morning raindrops.",
+                "fr": "Garez votre vélo avec précaution car les pavés mouillés sont glissants, et recherchez refuge à l’intérieur de cette grande église pour vous débarrasser des gouttes du matin."
               }
             },
             {
@@ -459,13 +506,15 @@
                 "de": "Hector Berlioz Museum",
                 "hu": "Hector Berlioz Múzeum",
                 "ro": "Muzeul Hector Berlioz",
-                "en": "Hector Berlioz Museum"
+                "en": "Hector Berlioz Museum",
+                "fr": "Musée Hector Berlioz"
               },
               "tip_5lang": {
                 "de": "Ein perfekter trockener Halt: Schließen Sie Ihr Fahrrad draußen an und tauchen Sie in die Musikgeschichte ein, fernab der ständigen Schauer.",
                 "hu": "Tökéletes száraz megálló: zárd le kint a biciklit, és merülj el a zenetörténetben, távol maradva a kitartó esőzésektől pár órára.",
                 "ro": "O oprire perfectă la uscat: legați bicicleta afară și scufundați-vă în istoria muzicală, ferindu-vă de ploile persistente câteva ore.",
-                "en": "A perfect dry stop to lock your bike outside and immerse yourself in musical history, keeping out of the persistent showers for a while."
+                "en": "A perfect dry stop to lock your bike outside and immerse yourself in musical history, keeping out of the persistent showers for a while.",
+                "fr": "Une halte sèche idéale pour verrouiller votre vélo à l’extérieur et vous plonger dans l’histoire musicale, à l’abri des averses persistantes."
               }
             },
             {
@@ -473,13 +522,15 @@
                 "de": "Likörmuseum Cherry Rocher",
                 "hu": "Cherry Rocher Likőrmúzeum",
                 "ro": "Muzeul Lichiorului Cherry Rocher",
-                "en": "Cherry Rocher Liqueur Museum"
+                "en": "Cherry Rocher Liqueur Museum",
+                "fr": "Musée de la liqueur du Rocher à la Cerise"
               },
               "tip_5lang": {
                 "de": "Lassen Sie Ihre nasse Ausrüstung am Eingang und genießen Sie drinnen alte Likörtraditionen – eine tolle Flucht, bevor Sie weiter radeln.",
                 "hu": "Tárold a vizes felszerelést a bejáratnál, és élvezd a benti utazást a likőrkészítés világában; remek esős menedék tekerés előtt.",
                 "ro": "Lăsați echipamentul ud la intrare și bucurați-vă de o călătorie interioară prin tradiția licorilor, o evadare excelentă înainte de a pedala.",
-                "en": "Store your wet gear at the entrance and enjoy an indoor journey through vintage liqueur making, a great rainy escape before pedaling further."
+                "en": "Store your wet gear at the entrance and enjoy an indoor journey through vintage liqueur making, a great rainy escape before pedaling further.",
+                "fr": "Rangez votre équipement humide à l’entrée et appréciez un voyage intérieur à travers la fabrication de liqueurs d’antan, une excellente escapade pluvieuse avant de reprendre votre route."
               }
             },
             {
@@ -487,13 +538,15 @@
                 "de": "Domaine des Croisettes",
                 "hu": "Domaine des Croisettes",
                 "ro": "Domaine des Croisettes",
-                "en": "Domaine des Croisettes"
+                "en": "Domaine des Croisettes",
+                "fr": "Domaine des Croisettes"
               },
               "tip_5lang": {
                 "de": "Achten Sie auf tiefe Pfützen bei der Anfahrt; suchen Sie Schutz unter den robusten Vordächern, um die Architektur im Regen zu betrachten.",
                 "hu": "Figyelj a mély tócsákra a birtok felé vezető úton; állj be a masszív eresz alá, hogy a felhőszakadás közben csodáld az építészetet.",
                 "ro": "Atenție la bălțile adânci la apropierea de domeniu; adăpostiți-vă sub streșinile robuste pentru a-i aprecia arhitectura în timpul ploii.",
-                "en": "Watch out for deep puddles on the approach to this estate; take cover under its robust eaves to appreciate its architecture during the downpour."
+                "en": "Watch out for deep puddles on the approach to this estate; take cover under its robust eaves to appreciate its architecture during the downpour.",
+                "fr": "Prudence face aux grandes flaques à l’approche de ce domaine ; abritez-vous sous ses larges avant-toits pour apprécier son architecture durant l’averse."
               }
             },
             {
@@ -501,13 +554,15 @@
                 "de": "Orientierungstafel",
                 "hu": "Panoráma kilátó",
                 "ro": "Punct de belvedere",
-                "en": "Panoramic Viewpoint"
+                "en": "Panoramic Viewpoint",
+                "fr": "Table d'orientation panoramique"
               },
               "tip_5lang": {
                 "de": "Tragen Sie wasserfeste Leuchtkleidung im Nebel und bremsen Sie frühzeitig auf der rutschigen Abfahrt von diesem exponierten Aussichtspunkt.",
                 "hu": "A kilátást köd takarhatja; viselj feltűnő esőkabátot, és fékezz időben a csúszós lejtőkön erről a kitett panorámapontról lefelé menet.",
                 "ro": "Vizibilitatea poate fi redusă de ceață; purtați pelerine reflectorizante și frânați din timp la coborârea umedă din acest punct expus.",
-                "en": "The panoramic view may be obscured by mist; wear high-visibility waterproofs and brake early on the wet descent from this exposed vantage point."
+                "en": "The panoramic view may be obscured by mist; wear high-visibility waterproofs and brake early on the wet descent from this exposed vantage point.",
+                "fr": "La vue panoramique peut être masquée par la brume ; portez des vêtements imperméables haute visibilité et freinez tôt dans la descente humide depuis ce point exposé."
               }
             }
           ]
@@ -517,7 +572,8 @@
             "de": "Eine eiskalte Morgenfahrt beginnt an der Kirche Saint-André und führt ins warme Berlioz-Museum. Mittags tauen Sie im Likörmuseum komplett auf. Die Nachmittagsfahrt zur Domaine des Croisettes erfordert dicke Handschuhe wegen gefährlicher Eisplatten. Genießen Sie den frühen Sonnenuntergang um 17:00 Uhr am Aussichtspunkt.",
             "hu": "A fagyos reggeli tekerés a Saint-André templomnál kezdődik, majd a fűtött Berlioz Múzeumba tart. Délben a Cherry Rocher Múzeumban olvadunk ki teljesen. A délutáni út a Croisettes felé vastag kesztyűt és óvatosságot igényel a jeges foltokon. A korai naplementét 17:00 körül a kilátónál csípjük el.",
             "ro": "Dimineața geroasă pe bicicletă începe la Saint-André, continuând la caldul Muzeu Berlioz. La prânz, dezghețați-vă total la Muzeul Cherry Rocher. Drumul de după-amiază spre Domaine des Croisettes cere mănuși groase din cauza gheții. Prindeți apusul timpuriu de la 17:00 la punctul de belvedere.",
-            "en": "A freezing morning pedal begins at Saint-André Church, swiftly moving to the warm Berlioz Museum. By midday, thaw out at the Cherry Rocher Museum. The afternoon ride to Domaine des Croisettes demands thick gloves and caution on icy patches. Catch the early 17:00 sunset at the viewpoint before dark."
+            "en": "A freezing morning pedal begins at Saint-André Church, swiftly moving to the warm Berlioz Museum. By midday, thaw out at the Cherry Rocher Museum. The afternoon ride to Domaine des Croisettes demands thick gloves and caution on icy patches. Catch the early 17:00 sunset at the viewpoint before dark.",
+            "fr": "Une matinée glaciale à vélo débute à l’église Saint-André, puis vous vous dépêchez vers le chaud musée Berlioz. À midi, réchauffez-vous au Musée du Rocher à la Cerise. L’après-midi, la route vers le Domaine des Croisettes exige des gants épais et de la prudence sur les plaques de verglas. Attrapez le coucher de soleil précoce vers 17:00 au point de vue avant la nuit."
           },
           "stops": [
             {
@@ -525,13 +581,15 @@
                 "de": "Kirche Saint-André",
                 "hu": "Saint-André templom",
                 "ro": "Biserica Saint-André",
-                "en": "Saint-André Church"
+                "en": "Saint-André Church",
+                "fr": "Église Saint-André"
               },
               "tip_5lang": {
                 "de": "Behalten Sie Ihre Thermo-Radhandschuhe an, bis Sie diese eiskalte, aber wunderschöne Steinkirche betreten, um die Architektur zu bewundern.",
                 "hu": "Tartsd magadon a termo biciklis kesztyűt, amíg be nem lépsz ebbe a jéghideg, de gyönyörű kőtemplomba, hogy megcsodáld a részleteit.",
                 "ro": "Păstrați mănușile termice de ciclism până intrați în această biserică de piatră superbă, dar rece ca gheața, pentru a-i admira arhitectura.",
-                "en": "Keep your thermal cycling gloves on until you step inside this freezing but beautiful stone church to admire its historic architecture."
+                "en": "Keep your thermal cycling gloves on until you step inside this freezing but beautiful stone church to admire its historic architecture.",
+                "fr": "Gardez vos gants thermiques de cyclisme jusqu’à votre entrée dans cette église de pierre glacée mais magnifique pour admirer son architecture historique."
               }
             },
             {
@@ -539,13 +597,15 @@
                 "de": "Hector Berlioz Museum",
                 "hu": "Hector Berlioz Múzeum",
                 "ro": "Muzeul Hector Berlioz",
-                "en": "Hector Berlioz Museum"
+                "en": "Hector Berlioz Museum",
+                "fr": "Musée Hector Berlioz"
               },
               "tip_5lang": {
                 "de": "Parken Sie das Rad und eilen Sie in dieses herrlich beheizte Museum; der ideale Ort, um sich beim Entdecken der Musikgeschichte aufzuwärmen.",
                 "hu": "Parkolj le, és siess be ebbe a csodásan fűtött múzeumba; ideális hely felmelegedni, miközben a helyi zenei örökséget fedezed fel.",
                 "ro": "Parcați bicicleta și grăbiți-vă în acest muzeu minunat încălzit; locul ideal pentru a vă încălzi în timp ce descoperiți istoria muzicii.",
-                "en": "Park the bike and rush inside this wonderfully heated museum; it is the ideal spot to warm your core while discovering local musical heritage."
+                "en": "Park the bike and rush inside this wonderfully heated museum; it is the ideal spot to warm your core while discovering local musical heritage.",
+                "fr": "Garez le vélo et courez à l’intérieur de ce musée merveilleusement chauffé ; c’est l’endroit idéal pour réchauffer votre tronc tout en découvrant le patrimoine musical local."
               }
             },
             {
@@ -553,13 +613,15 @@
                 "de": "Likörmuseum Cherry Rocher",
                 "hu": "Cherry Rocher Likőrmúzeum",
                 "ro": "Muzeul Lichiorului Cherry Rocher",
-                "en": "Cherry Rocher Liqueur Museum"
+                "en": "Cherry Rocher Liqueur Museum",
+                "fr": "Musée de la liqueur du Rocher à la Cerise"
               },
               "tip_5lang": {
                 "de": "Nutzen Sie diesen längeren Innenhalt, um völlig aufzutauen; die Likörgeschichte und der warme Verkostungsraum machen das Winterradeln lohnenswert.",
                 "hu": "Használd ki ezt a hosszú benti megállót a teljes felengedésre; a likőrtörténelem és a meleg kóstolóterem megéri a fagyos tekerést.",
                 "ro": "Folosiți această oprire interioară pentru a vă dezgheța complet; istoria licorilor și sala caldă de degustare fac ciclismul de iarnă să merite.",
-                "en": "Use this prolonged indoor stop to completely thaw out; the rich liqueur history and warm tasting room make winter cycling totally worth it."
+                "en": "Use this prolonged indoor stop to completely thaw out; the rich liqueur history and warm tasting room make winter cycling totally worth it.",
+                "fr": "Profitez de cet arrêt prolongé en intérieur pour vous réchauffer complètement ; l’histoire riche des liqueurs et la salle de dégustation chauffée rendent le cyclisme hivernal tout à fait supportable."
               }
             },
             {
@@ -567,13 +629,15 @@
                 "de": "Domaine des Croisettes",
                 "hu": "Domaine des Croisettes",
                 "ro": "Domaine des Croisettes",
-                "en": "Domaine des Croisettes"
+                "en": "Domaine des Croisettes",
+                "fr": "Domaine des Croisettes"
               },
               "tip_5lang": {
                 "de": "Achten Sie auf Glatteis auf den ländlichen Wegen; bewundern Sie die frostige Pracht kurz, bevor Sie das Gefühl in den Zehen verlieren.",
                 "hu": "Óvakodj a jégbordáktól a birtokhoz vezető vidéki utakon; csodáld meg röviden a fagyos pompát, mielőtt teljesen elzsibbadnának a lábujjaid.",
                 "ro": "Atenție la polei pe drumurile rurale spre domeniu; admirați scurt măreția înghețată înainte de a vă pierde sensibilitatea la degetele de la picioare.",
-                "en": "Beware of black ice on the rural paths approaching the estate; admire its frosty grandeur briefly before you lose the feeling in your toes."
+                "en": "Beware of black ice on the rural paths approaching the estate; admire its frosty grandeur briefly before you lose the feeling in your toes.",
+                "fr": "Attention au verglas sur les chemins ruraux menant au domaine ; admirez brièvement sa grandeur givrée avant de perdre la sensation dans vos orteils."
               }
             },
             {
@@ -581,13 +645,15 @@
                 "de": "Orientierungstafel",
                 "hu": "Panoráma kilátó",
                 "ro": "Punct de belvedere",
-                "en": "Panoramic Viewpoint"
+                "en": "Panoramic Viewpoint",
+                "fr": "Table d'orientation panoramique"
               },
               "tip_5lang": {
                 "de": "Radeln Sie zügig, um den frühen Wintersonnenuntergang um 17:00 Uhr zu sehen, und prüfen Sie Ihre Fahrradlichter für die dunkle Rückfahrt.",
                 "hu": "Tekerj ide gyorsan, hogy elcsípd a drámai, kora téli naplementét 17:00 körül, és ellenőrizd, hogy a biciklilámpák fel vannak-e töltve.",
                 "ro": "Pedalați rapid pentru a prinde apusul dramatic de iarnă pe la 17:00, asigurându-vă că luminile bicicletei sunt încărcate pentru întoarcere.",
-                "en": "Cycle here quickly to catch the dramatic early winter sunset over the valley around 17:00, ensuring your bike lights are charged for the return."
+                "en": "Cycle here quickly to catch the dramatic early winter sunset over the valley around 17:00, ensuring your bike lights are charged for the return.",
+                "fr": "Roulez vite jusqu’ici pour saisir le spectaculaire coucher de soleil hivernal précoce sur la vallée vers 17:00, en veillant à ce que vos feux soient chargés pour le retour."
               }
             }
           ]
@@ -607,7 +673,8 @@
             "de": "Kapelle Saint-Michel",
             "hu": "Saint-Michel kápolna",
             "ro": "Capela Saint-Michel",
-            "en": "Saint-Michel Chapel"
+            "en": "Saint-Michel Chapel",
+            "fr": "Chapelle Saint-Michel"
           },
           "coords": [
             5.232735,
@@ -622,7 +689,8 @@
             "de": "Besuchen Sie diese malerische, etwas außerhalb gelegene Kapelle wegen ihres historischen Charmes und parken Sie in der Nähe, um die Ruhe zu wahren.",
             "hu": "Látogasson el ebbe a városon kívül található festői kápolnába, és parkoljon le egy rövid sétára, hogy tiszteletben tartsa a nyugodt környezetet.",
             "ro": "Vizitați această capelă pitorească situată puțin în afara orașului pentru farmecul ei istoric, parcând la o scurtă plimbare pentru a păstra liniștea.",
-            "en": "Visit this quaint chapel situated slightly out of town to enjoy its historic charm, parking just a short walk away to respect the tranquil setting."
+            "en": "Visit this quaint chapel situated slightly out of town to enjoy its historic charm, parking just a short walk away to respect the tranquil setting.",
+            "fr": "Visitez cette chapelle pittoresque située un peu à l’écart pour jouir de son charme historique ; garez-vous à quelques pas pour respecter le cadre tranquille."
           }
         },
         {
@@ -630,7 +698,8 @@
             "de": "Statue von Hector Berlioz",
             "hu": "Hector Berlioz szobra",
             "ro": "Statuia lui Hector Berlioz",
-            "en": "Statue of Hector Berlioz"
+            "en": "Statue of Hector Berlioz",
+            "fr": "Statue d’Hector Berlioz"
           },
           "coords": [
             5.259924,
@@ -645,7 +714,8 @@
             "de": "Bewundern Sie die beeindruckende Statue des berühmten lokalen Komponisten im Zentrum und lesen Sie die Gedenktafel über sein musikalisches Erbe.",
             "hu": "Csodálja meg a híres helyi zeneszerző lenyűgöző szobrát a városközpontban, és mindenképpen olvassa el a zenei örökségét bemutató emléktáblát.",
             "ro": "Admirați statuia impresionantă a renumitului compozitor local din centrul orașului și nu uitați să citiți placa ce detaliază moștenirea sa muzicală.",
-            "en": "Admire the striking statue of the renowned local composer in the town center, and don't forget to check the plaque detailing his musical legacy."
+            "en": "Admire the striking statue of the renowned local composer in the town center, and don't forget to check the plaque detailing his musical legacy.",
+            "fr": "Admirez la statue saisissante du célèbre compositeur local au centre-ville, et n’oubliez pas de lire la plaque qui détaille son héritage musical."
           }
         },
         {
@@ -653,7 +723,8 @@
             "de": "Hector Berlioz Museum",
             "hu": "Hector Berlioz Múzeum",
             "ro": "Muzeul Hector Berlioz",
-            "en": "Hector Berlioz Museum"
+            "en": "Hector Berlioz Museum",
+            "fr": "Musée Hector Berlioz"
           },
           "coords": [
             5.261221,
@@ -668,7 +739,8 @@
             "de": "Erkunden Sie das Geburtshaus von Hector Berlioz mit seinen originalen Manuskripten und Instrumenten, kommen Sie jedoch früh, um Gruppen zu meiden.",
             "hu": "Fedezze fel Hector Berlioz szülőházát, ahol eredeti kéziratokat és hangszereket láthat, de érkezzen korán, hogy elkerülje a nagyobb csoportokat.",
             "ro": "Explorați casa natală a lui Hector Berlioz pentru a descoperi manuscrise originale și instrumente, dar ajungeți devreme pentru a evita aglomerația.",
-            "en": "Explore the birthplace of Hector Berlioz to discover original manuscripts and instruments, but arrive early to avoid large tour groups."
+            "en": "Explore the birthplace of Hector Berlioz to discover original manuscripts and instruments, but arrive early to avoid large tour groups.",
+            "fr": "Explorez la maison natale d’Hector Berlioz pour découvrir des manuscrits et instruments originaux, mais arrivez tôt pour éviter les grands groupes de visiteurs."
           }
         },
         {
@@ -676,7 +748,8 @@
             "de": "Domaine des Croisettes",
             "hu": "Domaine des Croisettes",
             "ro": "Domaine des Croisettes",
-            "en": "Domaine des Croisettes"
+            "en": "Domaine des Croisettes",
+            "fr": "Domaine des Croisettes"
           },
           "coords": [
             5.270061,
@@ -691,7 +764,8 @@
             "de": "Spazieren Sie durch die eleganten Anlagen dieses wunderschönen Anwesens und bringen Sie Ihre Kamera für atemberaubende Architekturaufnahmen mit.",
             "hu": "Sétáljon végig ezen a gyönyörű birtokon, hogy megtapasztalja a helyi történelmet, és hozzon magával fényképezőgépet a lenyűgöző építészeti fotókhoz.",
             "ro": "Plimbați-vă pe domeniul elegant al acestei frumoase proprietăți pentru a simți istoria locală și aduceți-vă aparatul pentru fotografii uimitoare.",
-            "en": "Wander through the elegant grounds of this beautiful estate to experience local history, and bring your camera for stunning architectural photos."
+            "en": "Wander through the elegant grounds of this beautiful estate to experience local history, and bring your camera for stunning architectural photos.",
+            "fr": "Flânez dans les jardins élégants de ce beau domaine pour ressentir l’histoire locale, et apportez votre appareil photo pour de superbes clichés architecturaux."
           }
         },
         {
@@ -699,7 +773,8 @@
             "de": "Kirche Saint-Maurice",
             "hu": "Saint-Maurice templom",
             "ro": "Biserica Saint-Maurice",
-            "en": "Saint-Maurice Church"
+            "en": "Saint-Maurice Church",
+            "fr": "Église Saint-Maurice"
           },
           "coords": [
             5.288996,
@@ -714,7 +789,8 @@
             "de": "Fahren Sie zu dieser historischen Landkirche, um das klassische Mauerwerk der Region zu bewundern, da der Innenraum oft nur am Wochenende geöffnet ist.",
             "hu": "Vezessen el ehhez a történelmi vidéki templomhoz, hogy megcsodálja klasszikus falazatát, de vegye figyelembe, hogy belül gyakran csak hétvégén nyitott.",
             "ro": "Conduceți până la această biserică rurală istorică pentru a-i admira zidăria clasică, amintindu-vă că interiorul este adesea deschis doar în weekend.",
-            "en": "Drive to this historic rural church to admire its classic regional masonry, keeping in mind that the interior is often only open during weekend mass."
+            "en": "Drive to this historic rural church to admire its classic regional masonry, keeping in mind that the interior is often only open during weekend mass.",
+            "fr": "Conduisez jusqu’à cette église rurale historique pour admirer sa maçonnerie régionale classique, en gardant à l’esprit que l’intérieur n’est souvent ouvert que pendant la messe du week-end."
           }
         },
         {
@@ -722,7 +798,8 @@
             "de": "Orientierungstafel",
             "hu": "Panoráma kilátó",
             "ro": "Punct de belvedere",
-            "en": "Panoramic Viewpoint"
+            "en": "Panoramic Viewpoint",
+            "fr": "Table d'orientation panoramique"
           },
           "coords": [
             5.253717,
@@ -737,7 +814,8 @@
             "de": "Radeln Sie zu diesem Aussichtspunkt für atemberaubende Ausblicke über das Tal und versuchen Sie, an klaren Tagen die fernen Alpengipfel zu erspähen.",
             "hu": "Kerékpározzon fel ehhez a panorámás kilátóhoz, ahonnan lélegzetelállító kilátás nyílik a völgyre, és tiszta időben próbálja megkeresni az Alpokat.",
             "ro": "Pedalați până la acest punct de belvedere pentru o panoramă uluitoare a văii și încercați să zăriți vârfurile alpine îndepărtate într-o zi senină.",
-            "en": "Cycle up to this panoramic viewpoint for breathtaking vistas over the entire valley, and try to spot the distant alpine peaks on a perfectly clear day."
+            "en": "Cycle up to this panoramic viewpoint for breathtaking vistas over the entire valley, and try to spot the distant alpine peaks on a perfectly clear day.",
+            "fr": "Montez à vélo jusqu’à ce point de vue panoramique pour des vues à couper le souffle sur toute la vallée, et essayez d’apercevoir les sommets alpins au loin par une journée parfaitement claire."
           }
         }
       ],
@@ -745,7 +823,8 @@
         "de": "Ihre Fahrt beginnt an der abgelegenen Kapelle Saint-Michel und führt Sie dann ins Zentrum, um Hector Berlioz zu ehren. Mittags besuchen Sie sein Geburtshaus und das atemberaubende Domaine des Croisettes. Den Nachmittag verbringen Sie mit ländlichem Erbe an der Église Saint-Maurice. Beenden Sie Ihren Roadtrip mit einem weiten Blick vom Table d'orientation.",
         "hu": "Az autózás az eldugott Chapelle Saint-Michel-nél indul, majd a belvárosba vezet, ahol tiszteleghet Hector Berlioz előtt. Délben a szülőház és a lenyűgöző Domaine des Croisettes nyújt egy kis pompát. A délutánt a vidéki örökség felfedezésével töltheti a Saint-Maurice templomnál. Zárja az autós utat a Table d'orientation panorámájával.",
         "ro": "Călătoria auto începe la retrasă Chapelle Saint-Michel, stabilind un ton liniștit înainte de a intra în oraș pentru a-l onora pe Berlioz. La prânz, vizitați casa copilăriei sale și uimitorul Domeniu Croisettes. După-amiaza este dedicată descoperirii moștenirii rurale la Église Saint-Maurice. Încheiați călătoria cu o panoramă vastă de la Table d'orientation.",
-        "en": "Your drive begins at the secluded Chapelle Saint-Michel, setting a tranquil tone before heading into town to honor Hector Berlioz. Midday brings you to his childhood home and the stunning Domaine des Croisettes for a dose of grandeur. The afternoon is spent discovering rural heritage at Église Saint-Maurice. Conclude your road trip with sweeping views from the Table d'orientation."
+        "en": "Your drive begins at the secluded Chapelle Saint-Michel, setting a tranquil tone before heading into town to honor Hector Berlioz. Midday brings you to his childhood home and the stunning Domaine des Croisettes for a dose of grandeur. The afternoon is spent discovering rural heritage at Église Saint-Maurice. Conclude your road trip with sweeping views from the Table d'orientation.",
+        "fr": "Votre trajet en voiture commence à la paisible Chapelle Saint-Michel, posant une ambiance tranquille avant de gagner la ville pour honorer Hector Berlioz. À midi, visitez sa maison d’enfance et le superbe Domaine des Croisettes pour une dose de grandeur. L’après-midi est consacrée au patrimoine rural à l’église Saint-Maurice. Concluez votre road‑trip par une vue panoramique depuis la Table d'orientation."
       },
       "variants": {
         "rainy": {
@@ -753,7 +832,8 @@
             "de": "Fahren Sie durch den morgendlichen Regen zur Kapelle Saint-Michel und huschen Sie unter dem Schirm zur Berlioz-Statue. Mittags bietet das Berlioz-Museum eine trockene Oase zum Parken und Entdecken. Der verregnete Nachmittag führt sicher zur Domaine des Croisettes und Saint-Maurice. Beenden Sie den Tag mit einem nassen Ausblick aus dem warmen Auto.",
             "hu": "A reggeli esőben a Saint-Michel kápolnához hajtunk, majd esernyővel futunk Berlioz szobrához. Délben a Berlioz Múzeum nyújt száraz, parkolóval ellátott menedéket. Az esős délutáni autózás a Domaine des Croisettes és a Saint-Maurice felé visz. A napot a kocsiból élvezhető ködös, eső áztatta panoráma zárja.",
             "ro": "Conduceți prin ploaia de dimineață la Capela Saint-Michel, apoi fugiți cu umbrela la statuia lui Berlioz. Prânzul aduce un refugiu uscat în Muzeul Berlioz. După-amiaza ploioasă vă duce cu mașina la Domaine des Croisettes și biserica Saint-Maurice. Încheiați cu o panoramă umedă din confortul mașinii.",
-            "en": "Drive through the morning downpour to Saint-Michel Chapel, then make a quick umbrella dash to Berlioz's statue. Midday provides a dry haven with easy parking at the Berlioz Museum. Spend a rainy afternoon driving to Domaine des Croisettes and Saint-Maurice. End with a moody, rain-swept view straight from the car."
+            "en": "Drive through the morning downpour to Saint-Michel Chapel, then make a quick umbrella dash to Berlioz's statue. Midday provides a dry haven with easy parking at the Berlioz Museum. Spend a rainy afternoon driving to Domaine des Croisettes and Saint-Maurice. End with a moody, rain-swept view straight from the car.",
+            "fr": "Traversez la pluie matinale en voiture jusqu’à la chapelle Saint-Michel, puis courez rapidement sous votre parapluie jusqu’à la statue de Berlioz. À midi, profitez d’un abri sec et d’un parking facile au musée Berlioz. Passez un après-midi pluvieux en conduisant jusqu’au Domaine des Croisettes et à Saint-Maurice. Terminez par une vue morose et balayée par la pluie, directement depuis la voiture."
           },
           "stops": [
             {
@@ -761,13 +841,15 @@
                 "de": "Kapelle Saint-Michel",
                 "hu": "Saint-Michel kápolna",
                 "ro": "Capela Saint-Michel",
-                "en": "Saint-Michel Chapel"
+                "en": "Saint-Michel Chapel",
+                "fr": "Chapelle Saint-Michel"
               },
               "tip_5lang": {
                 "de": "Parken Sie nah am Eingang und nutzen Sie einen Schirm; das feuchte Steininnere ist stimmungsvoll, aber Sie wollen nicht lange im Nassen bleiben.",
                 "hu": "Parkolj közel a bejárathoz esernyővel; a nedves kőbelső hangulatos, de biztosan nem akarsz sokáig a hideg, esős falak között időzni.",
                 "ro": "Parcați aproape de intrare cu o umbrelă; interiorul umed de piatră este plin de atmosferă, dar nu veți dori să zăboviți mult la umezeală.",
-                "en": "Park close to the entrance and use an umbrella; the damp stone interior is beautifully atmospheric but you won't want to linger long in the wet."
+                "en": "Park close to the entrance and use an umbrella; the damp stone interior is beautifully atmospheric but you won't want to linger long in the wet.",
+                "fr": "Garez-vous près de l’entrée et utilisez un parapluie ; l’intérieur humide en pierre est magnifiquement atmosphérique mais vous ne voudrez pas trop vous attarder sous la pluie."
               }
             },
             {
@@ -775,13 +857,15 @@
                 "de": "Statue von Hector Berlioz",
                 "hu": "Hector Berlioz szobra",
                 "ro": "Statuia lui Hector Berlioz",
-                "en": "Statue of Hector Berlioz"
+                "en": "Statue of Hector Berlioz",
+                "fr": "Statue d’Hector Berlioz"
               },
               "tip_5lang": {
                 "de": "Kurbeln Sie das Fenster für ein Foto herunter oder huschen Sie im Regenmantel hinaus, um die glänzende Bronzestatue im starken Regen zu sehen.",
                 "hu": "Húzd le a kocsiablakot egy gyors fotóhoz, vagy siess ki esőkabátban megnézni a heves esőben is csillogó, impozáns bronzszobrot.",
                 "ro": "Deschideți geamul mașinii pentru o fotografie rapidă sau ieșiți în fugă cu pelerina pentru a vedea statuia de bronz strălucind în ploaie.",
-                "en": "Roll down the car window for a quick photo or dash out with your raincoat on to see the slick bronze statue shining in the heavy rain."
+                "en": "Roll down the car window for a quick photo or dash out with your raincoat on to see the slick bronze statue shining in the heavy rain.",
+                "fr": "Ouvrez la fenêtre de la voiture pour une photo rapide ou sautez dehors avec votre imperméable pour voir la statue en bronze brillant sous la forte pluie."
               }
             },
             {
@@ -789,13 +873,15 @@
                 "de": "Hector Berlioz Museum",
                 "hu": "Hector Berlioz Múzeum",
                 "ro": "Muzeul Hector Berlioz",
-                "en": "Hector Berlioz Museum"
+                "en": "Hector Berlioz Museum",
+                "fr": "Musée Hector Berlioz"
               },
               "tip_5lang": {
                 "de": "Nutzen Sie den nahegelegenen Parkplatz; dieses warme, trockene Museum ist das perfekte Mittagsheiligtum vor dem unerbittlichen Trommeln des Regens.",
                 "hu": "Élvezd a közeli parkolás előnyét; ez a meleg, száraz múzeum tökéletes déli menedék a kinti, szűnni nem akaró esődobolás elől.",
                 "ro": "Bucurați-vă de parcarea din apropiere; acest muzeu cald și uscat este sanctuarul perfect la prânz pentru a scăpa de zgomotul neîncetat al ploii.",
-                "en": "Enjoy the convenience of nearby parking; this warm, dry museum is the perfect midday sanctuary to escape the relentless drumming of the rain."
+                "en": "Enjoy the convenience of nearby parking; this warm, dry museum is the perfect midday sanctuary to escape the relentless drumming of the rain.",
+                "fr": "Appréciez la commodité d’un parking à proximité ; ce musée chaud et sec est le sanctuaire idéal de midi pour échapper au tambourinement incessant de la pluie."
               }
             },
             {
@@ -803,13 +889,15 @@
                 "de": "Domaine des Croisettes",
                 "hu": "Domaine des Croisettes",
                 "ro": "Domaine des Croisettes",
-                "en": "Domaine des Croisettes"
+                "en": "Domaine des Croisettes",
+                "fr": "Domaine des Croisettes"
               },
               "tip_5lang": {
                 "de": "Das Anwesen wirkt dramatisch vor den stürmischen Himmeln; genießen Sie die malerische Fahrt, aber steigen Sie vorsichtig aus, um Schlamm zu meiden.",
                 "hu": "A birtok hihetetlenül drámai a szürke, viharos égbolt előtt; élvezd a festői kocsikázást, de óvatosan szállj ki, elkerülve a sarat.",
                 "ro": "Domeniul arată dramatic pe fundalul cerului furtunos; bucurați-vă de drumul pitoresc, dar coborâți cu grijă pentru a evita noroiul.",
-                "en": "The estate looks incredibly dramatic against the gray, stormy skies; enjoy the scenic drive there but step out carefully avoiding the mud."
+                "en": "The estate looks incredibly dramatic against the gray, stormy skies; enjoy the scenic drive there but step out carefully avoiding the mud.",
+                "fr": "Le domaine est incroyablement dramatique sous un ciel orageux et gris ; profitez de la route panoramique mais sortez prudemment en évitant la boue."
               }
             },
             {
@@ -817,13 +905,15 @@
                 "de": "Kirche Saint-Maurice",
                 "hu": "Saint-Maurice templom",
                 "ro": "Biserica Saint-Maurice",
-                "en": "Saint-Maurice Church"
+                "en": "Saint-Maurice Church",
+                "fr": "Église Saint-Maurice"
               },
               "tip_5lang": {
                 "de": "Parken Sie nahe den Türen, um möglichst wenig nass zu werden; das ruhige Innere bietet eine friedliche, trockene Zuflucht vor den Schauern.",
                 "hu": "Parkolj az ajtók közelében, hogy a legkevésbé ázz meg; a csendes belső tér békés, száraz menedéket kínál a kitartó délutáni záporok elől.",
                 "ro": "Parcați aproape de uși pentru a minimiza expunerea; interiorul liniștit oferă un refugiu pașnic și uscat de ploile persistente de după-amiază.",
-                "en": "Park near the doors to minimize your exposure; the quiet interior offers a peaceful, dry refuge from the persistent afternoon showers."
+                "en": "Park near the doors to minimize your exposure; the quiet interior offers a peaceful, dry refuge from the persistent afternoon showers.",
+                "fr": "Garez-vous près des portes pour minimiser votre exposition ; l’intérieur calme offre un refuge paisible et sec contre les averses de l’après-midi."
               }
             },
             {
@@ -831,13 +921,15 @@
                 "de": "Orientierungstafel",
                 "hu": "Panoráma kilátó",
                 "ro": "Punct de belvedere",
-                "en": "Panoramic Viewpoint"
+                "en": "Panoramic Viewpoint",
+                "fr": "Table d'orientation panoramique"
               },
               "tip_5lang": {
                 "de": "Sie können die stimmungsvolle, nebelbedeckte Landschaft direkt vom beheizten Autositz aus bewundern, ohne in schlammige Pfützen treten zu müssen.",
                 "hu": "Közvetlenül a fűtött autóülésből csodálhatod meg a hangulatos, ködbe burkolózott tájat, anélkül, hogy ki kellene szállnod a sáros tócsákba.",
                 "ro": "Puteți admira peisajul plin de atmosferă, acoperit de ceață, direct din scaunul încălzit al mașinii, fără a păși în bălțile noroioase.",
-                "en": "You can admire the atmospheric, mist-covered landscape directly from your heated car seat without needing to step out into the muddy puddles."
+                "en": "You can admire the atmospheric, mist-covered landscape directly from your heated car seat without needing to step out into the muddy puddles.",
+                "fr": "Vous pouvez admirer le paysage atmosphérique et couvert de brume directement depuis votre siège de voiture chauffé sans avoir à sortir dans les flaques boueuses."
               }
             }
           ]
@@ -847,7 +939,8 @@
             "de": "Die Autoheizung ist ein Segen beim morgendlichen Besuch der Kapelle Saint-Michel und der verschneiten Berlioz-Statue. Den Mittag verbringen Sie extrem komfortabel im beheizten Berlioz-Museum. Nachmittagsfahrten führen sicher über teilweise eisige Straßen zur Domaine des Croisettes und nach Saint-Maurice. Genießen Sie den Wintersonnenuntergang um 17:00 Uhr aus dem warmen Auto.",
             "hu": "Az autófűtés áldás a Saint-Michel kápolna és a havas Berlioz szobor reggeli meglátogatásakor. A delet kényelmesen, a fűtött Berlioz Múzeumban töltjük. Délután biztonságosan autózunk a jeges utakon a Croisettes és a Saint-Maurice templom felé. A 17:00 órás téli naplementét a fűtött kocsiból csodáljuk meg a kilátónál.",
             "ro": "Căldura mașinii e o binecuvântare dimineața la Capela Saint-Michel și la statuia înzăpezită a lui Berlioz. Prânzul e petrecut confortabil în Muzeul Berlioz. Drumurile de după-amiază trec în siguranță peste porțiuni înghețate spre Domaine des Croisettes și Saint-Maurice. Bucurați-vă de apusul de la 17:00 din siguranța mașinii.",
-            "en": "The car heater is a blessing as you visit Saint-Michel Chapel and stop briefly at Berlioz's snow-covered statue. Midday is spent comfortably inside the heated Berlioz Museum. Afternoon drives take you safely past icy patches to Domaine des Croisettes and Saint-Maurice. Enjoy the 17:00 winter sunset securely from the warm viewpoint."
+            "en": "The car heater is a blessing as you visit Saint-Michel Chapel and stop briefly at Berlioz's snow-covered statue. Midday is spent comfortably inside the heated Berlioz Museum. Afternoon drives take you safely past icy patches to Domaine des Croisettes and Saint-Maurice. Enjoy the 17:00 winter sunset securely from the warm viewpoint.",
+            "fr": "Le chauffage de la voiture est une bénédiction lors de la visite de la Chapelle Saint-Michel et de l’arrêt bref à la statue enneigée de Berlioz. Le midi se passe confortablement à l’intérieur du musée Berlioz chauffé. Les trajets de l’après-midi vous mènent prudemment à travers les plaques de verglas vers le Domaine des Croisettes et Saint-Maurice. Profitez du coucher de soleil hivernal à 17:00 depuis le point de vue bien au chaud."
           },
           "stops": [
             {
@@ -855,13 +948,15 @@
                 "de": "Kapelle Saint-Michel",
                 "hu": "Saint-Michel kápolna",
                 "ro": "Capela Saint-Michel",
-                "en": "Saint-Michel Chapel"
+                "en": "Saint-Michel Chapel",
+                "fr": "Chapelle Saint-Michel"
               },
               "tip_5lang": {
                 "de": "Steigen Sie kurz aus dem geheizten Auto, um die winterliche Kulisse zu bewundern, aber behalten Sie den Mantel an, da die alten Steine eiskalt sind.",
                 "hu": "Szállj ki a meleg autóból, hogy megcsodáld a ropogós téli díszletet, de hagyd magadon a nagykabátot, mert a régi kövek jéghidegek.",
                 "ro": "Ieșiți din mașina încălzită pentru a admira decorul de iarnă, dar păstrați paltonul, deoarece pietrele vechi mențin un frig glacial.",
-                "en": "Step out of your heated car to admire the crisp winter setting of the chapel, but keep your heavy coat on as the old stones retain the freezing cold."
+                "en": "Step out of your heated car to admire the crisp winter setting of the chapel, but keep your heavy coat on as the old stones retain the freezing cold.",
+                "fr": "Sortez de votre voiture chauffée pour admirer le cadre hivernal net de la chapelle, mais gardez votre manteau lourd car la pierre ancienne retient le froid glacial."
               }
             },
             {
@@ -869,13 +964,15 @@
                 "de": "Statue von Hector Berlioz",
                 "hu": "Hector Berlioz szobra",
                 "ro": "Statuia lui Hector Berlioz",
-                "en": "Statue of Hector Berlioz"
+                "en": "Statue of Hector Berlioz",
+                "fr": "Statue d’Hector Berlioz"
               },
               "tip_5lang": {
                 "de": "Halten Sie sicher an, um die gefrostete Statue aus der Wärme Ihres Autos zu betrachten, oder steigen Sie kurz für ein Winterfoto in die Kälte aus.",
                 "hu": "Húzódj félre biztonságosan, hogy a meleg autóból nézd meg a deres szobrot, vagy ugorj ki gyorsan egy téli fotó erejéig a hidegbe.",
                 "ro": "Trageți pe dreapta pentru a vedea statuia înghețată din căldura mașinii, sau coborâți scurt pentru o fotografie clară de iarnă.",
-                "en": "Pull over safely to view the frosted statue from the warmth of your car, or step out briefly for a crisp winter photo before jumping back in."
+                "en": "Pull over safely to view the frosted statue from the warmth of your car, or step out briefly for a crisp winter photo before jumping back in.",
+                "fr": "Arrêtez-vous en sécurité pour admirer la statue givrée depuis la chaleur de votre voiture, ou sortez brièvement pour une photo hivernale fraîche avant de remonter à bord."
               }
             },
             {
@@ -883,13 +980,15 @@
                 "de": "Hector Berlioz Museum",
                 "hu": "Hector Berlioz Múzeum",
                 "ro": "Muzeul Hector Berlioz",
-                "en": "Hector Berlioz Museum"
+                "en": "Hector Berlioz Museum",
+                "fr": "Musée Hector Berlioz"
               },
               "tip_5lang": {
                 "de": "Ein fantastischer Winterhafen; parken Sie nahe und stürmen Sie in die Zentralheizung, um die Geschichte ohne sperrige Winterkleidung zu erkunden.",
                 "hu": "Fantasztikus téli menedék; parkolj közel, és rohanj be a központi fűtésbe, hogy a vastag téli felszerelés nélkül, kényelmesen nézelődhess.",
                 "ro": "Un refugiu fantastic de iarnă; parcați aproape și intrați la căldură pentru a explora confortabil istoria, fără echipamentul voluminos de iarnă.",
-                "en": "A fantastic winter haven; park nearby and rush into the central heating to comfortably explore the rich history without your bulky winter gear."
+                "en": "A fantastic winter haven; park nearby and rush into the central heating to comfortably explore the rich history without your bulky winter gear.",
+                "fr": "Un refuge hivernal fantastique ; garez-vous à proximité et précipitez-vous dans le chauffage central pour explorer confortablement la riche histoire sans vos gros vêtements d’hiver."
               }
             },
             {
@@ -897,13 +996,15 @@
                 "de": "Domaine des Croisettes",
                 "hu": "Domaine des Croisettes",
                 "ro": "Domaine des Croisettes",
-                "en": "Domaine des Croisettes"
+                "en": "Domaine des Croisettes",
+                "fr": "Domaine des Croisettes"
               },
               "tip_5lang": {
                 "de": "Fahren Sie vorsichtig auf den ländlichen Winterstraßen; die kahlen Bäume und der Frost lassen das Anwesen wie ein Winterwunderland aussehen.",
                 "hu": "Vezess óvatosan a vidéki téli utakon; a csupasz fák és a vastag dér miatt a birtok úgy néz ki, mint egy lenyűgöző téli csodaország.",
                 "ro": "Conduceți cu grijă pe drumurile rurale de iarnă; copacii goi și bruma fac ca domeniul să arate ca un tărâm de basm hibernal.",
-                "en": "Drive carefully on the rural winter roads approaching the estate; the bare trees and frost make it look like a striking winter wonderland."
+                "en": "Drive carefully on the rural winter roads approaching the estate; the bare trees and frost make it look like a striking winter wonderland.",
+                "fr": "Conduisez prudemment sur les routes rurales hivernales qui mènent au domaine ; les arbres nus et le givre lui donnent un air saisissant de pays des merveilles."
               }
             },
             {
@@ -911,13 +1012,15 @@
                 "de": "Kirche Saint-Maurice",
                 "hu": "Saint-Maurice templom",
                 "ro": "Biserica Saint-Maurice",
-                "en": "Saint-Maurice Church"
+                "en": "Saint-Maurice Church",
+                "fr": "Église Saint-Maurice"
               },
               "tip_5lang": {
                 "de": "Seien Sie beim Gehen vom Parkplatz vorsichtig, es könnte eisig sein; drinnen beleuchtet das harte Winterlicht das Kircheninnere wunderschön.",
                 "hu": "Sétálj óvatosan a parkolótól, mert az utak jegesek lehetnek; bent a kontrasztos téli fény gyönyörűen megvilágítja a templom belső terét.",
                 "ro": "Atenție la mersul din parcare, potecile pot fi înghețate; în interior, lumina aspră de iarnă iluminează frumos interiorul bisericii.",
-                "en": "Take care walking from the parking area as paths might be icy; inside, the stark winter light beautifully illuminates the church's interior."
+                "en": "Take care walking from the parking area as paths might be icy; inside, the stark winter light beautifully illuminates the church's interior.",
+                "fr": "Faites attention en marchant depuis le parking car les chemins peuvent être verglacés ; à l’intérieur, la lumière hivernale claire illumine magnifiquement l’intérieur de l’église."
               }
             },
             {
@@ -925,13 +1028,15 @@
                 "de": "Orientierungstafel",
                 "hu": "Panoráma kilátó",
                 "ro": "Punct de belvedere",
-                "en": "Panoramic Viewpoint"
+                "en": "Panoramic Viewpoint",
+                "fr": "Point de vue panoramique"
               },
               "tip_5lang": {
                 "de": "Kommen Sie vor 17:00 Uhr an, um die spektakuläre Winterdämmerung zu erleben, die Sie bequem bei laufender Autoheizung genießen können.",
                 "hu": "Érkezz 17:00 óra előtt, hogy elcsípd a látványos téli alkonyt a völgy felett, amit kényelmesen élvezhetsz, miközben a kocsifűtés melegen tart.",
                 "ro": "Ajungeți înainte de 17:00 pentru a prinde amurgul spectaculos de iarnă, pe care îl puteți savura confortabil ținând motorul și căldura pornite.",
-                "en": "Arrive before 17:00 to catch the spectacular winter twilight over the valley, which you can comfortably enjoy while keeping the car's heater running."
+                "en": "Arrive before 17:00 to catch the spectacular winter twilight over the valley, which you can comfortably enjoy while keeping the car's heater running.",
+                "fr": "Arrivez avant 17:00 pour admirer le spectaculaire crépuscule hivernal sur la vallée, que vous pouvez apprécier confortablement en gardant le chauffage de la voiture allumé."
               }
             }
           ]

@@ -21,7 +21,8 @@
             "de": "Rathaus Desvres",
             "hu": "Desvres Városháza",
             "ro": "Primăria Desvres",
-            "en": "Desvres Town Hall"
+            "en": "Desvres Town Hall",
+            "fr": "Hôtel de ville de Desvres"
           },
           "coords": [
             1.834132,
@@ -36,7 +37,8 @@
             "de": "Bewundern Sie die Architektur des Rathauses von Desvres, dem administrativen Herzen der Stadt, und holen Sie sich eine lokale Karte, bevor Sie losziehen.",
             "hu": "Csodálja meg a Városháza polgári építészetét, amely a város adminisztratív központja, és szerezzen be egy helyi térképet a közeli pultnál, mielőtt útnak indul.",
             "ro": "Admirați arhitectura civică a Primăriei, inima administrativă a orașului, și luați o hartă locală de la biroul turistic din apropiere înainte de a porni.",
-            "en": "Admire the civic architecture of Desvres Town Hall, the administrative heart of the town, and grab a local map from the nearby tourist desk before you set off."
+            "en": "Admire the civic architecture of Desvres Town Hall, the administrative heart of the town, and grab a local map from the nearby tourist desk before you set off.",
+            "fr": "Admirez l'architecture civique de l'hôtel de ville de Desvres, cœur administratif de la commune, et procurez-vous une carte locale au bureau d'information touristique à proximité avant de partir."
           }
         },
         {
@@ -44,7 +46,8 @@
             "de": "Kapelle Saint-Antoine-de-Padoue",
             "hu": "Saint-Antoine-de-Padoue Kápolna",
             "ro": "Capela Saint-Antoine-de-Padoue",
-            "en": "Chapelle Saint-Antoine-de-Padoue"
+            "en": "Chapelle Saint-Antoine-de-Padoue",
+            "fr": "Chapelle Saint-Antoine-de-Padoue"
           },
           "coords": [
             1.839286,
@@ -59,7 +62,8 @@
             "de": "Besuchen Sie diese ruhige katholische Kapelle, um die intime Atmosphäre zu genießen, und denken Sie daran, die für das Gebet vorgesehenen Ruhezeiten zu respektieren.",
             "hu": "Látogasson el ebbe a békés katolikus kápolnába, hogy megcsodálja meghitt hangulatát, ügyelve arra, hogy tiszteletben tartsa a helyi imádság csendes óráit.",
             "ro": "Vizitați această capelă catolică senină pentru a-i aprecia atmosfera intimă, amintindu-vă să respectați orele de liniște destinate rugăciunilor locale.",
-            "en": "Visit this serene Catholic chapel to appreciate its intimate atmosphere and historic stonework, remembering to respect the quiet hours meant for local prayer."
+            "en": "Visit this serene Catholic chapel to appreciate its intimate atmosphere and historic stonework, remembering to respect the quiet hours meant for local prayer.",
+            "fr": "Visitez cette chapelle catholique sereine pour apprécier son atmosphère intime et sa maçonnerie historique, en pensant à respecter les heures de silence réservées à la prière locale."
           }
         },
         {
@@ -67,7 +71,8 @@
             "de": "Kirche Saint-Omer",
             "hu": "Saint-Omer Templom",
             "ro": "Biserica Saint-Omer",
-            "en": "Église Saint-Omer"
+            "en": "Église Saint-Omer",
+            "fr": "Église Saint-Omer"
           },
           "coords": [
             1.858941,
@@ -82,7 +87,8 @@
             "de": "Treten Sie in die Église Saint-Omer ein, um die Buntglasfenster zu bewundern, und achten Sie auf die wunderschön geschnitzten Holzbänke in der Nähe des Altars.",
             "hu": "Lépjen be az Église Saint-Omer templomba, hogy megcsodálja a hagyományos dizájnt és az ólomüveg ablakokat, különös tekintettel a faragott fapadokra az oltárnál.",
             "ro": "Pășiți în Biserica Saint-Omer pentru a admira vitraliile și designul tradițional, fiind atenți la băncile din lemn frumos sculptate de lângă altar.",
-            "en": "Step inside Église Saint-Omer to marvel at its stained-glass windows and traditional design, keeping an eye out for the beautifully carved wooden pews near the altar."
+            "en": "Step inside Église Saint-Omer to marvel at its stained-glass windows and traditional design, keeping an eye out for the beautifully carved wooden pews near the altar.",
+            "fr": "Pénétrez dans l'Église Saint-Omer pour admirer ses vitraux et son architecture traditionnelle, en gardant un œil sur les bancs en bois finement sculptés près de l'autel."
           }
         },
         {
@@ -90,7 +96,8 @@
             "de": "Keramikmuseum",
             "hu": "Kerámia Múzeum",
             "ro": "Muzeul Ceramicii",
-            "en": "Ceramics Museum"
+            "en": "Ceramics Museum",
+            "fr": "Musée de la Céramique"
           },
           "coords": [
             1.842068,
@@ -105,7 +112,8 @@
             "de": "Entdecken Sie die farbenfrohe Geschichte der berühmten Fayence-Keramik in diesem großen Museum und kaufen Sie am Ausgang eine wunderschön gearbeitete Souvenirfliese.",
             "hu": "Fedezze fel Desvres híres fajansz kerámiáinak színes történetét ebben a hatalmas múzeumban, és mindenképpen vásároljon egy gyönyörű szuvenír csempét a kijáratnál.",
             "ro": "Descoperiți istoria colorată a celebrei ceramici faïence în acest muzeu vast și asigurați-vă că achiziționați o faianță suvenir frumos lucrată la ieșire.",
-            "en": "Discover the colorful history of Desvres' famous faïence pottery inside this expansive museum, and make sure to buy a beautifully crafted souvenir tile at the exit."
+            "en": "Discover the colorful history of Desvres' famous faïence pottery inside this expansive museum, and make sure to buy a beautifully crafted souvenir tile at the exit.",
+            "fr": "Découvrez l'histoire colorée de la célèbre faïence de Desvres dans ce musée spacieux, et n'oubliez pas d'acheter une tuile souvenir joliment travaillée à la sortie."
           }
         },
         {
@@ -113,7 +121,8 @@
             "de": "Mont Pelé",
             "hu": "Mont Pelé",
             "ro": "Mont Pelé",
-            "en": "Mont Pelé"
+            "en": "Mont Pelé",
+            "fr": "Mont Pelé"
           },
           "coords": [
             1.847532,
@@ -128,7 +137,8 @@
             "de": "Wandern Sie die sanften Hänge des Mont Pelé hinauf, um atemberaubende Panoramablicke zu genießen, und tragen Sie unbedingt festes Schuhwerk für die unbefestigten Wege.",
             "hu": "Túrázzon fel a Mont Pelé lankás lejtőin a lélegzetelállító panorámáért, de a burkolatlan ösvények miatt mindenképpen viseljen masszív túracipőt.",
             "ro": "Urcați pe pantele blânde ale Mont Pelé pentru a vă bucura de vederi panoramice uluitoare, asigurându-vă că purtați încălțăminte rezistentă pentru poteci.",
-            "en": "Hike up the gentle slopes of Mont Pelé to enjoy breathtaking panoramic views of the surrounding countryside, making sure to wear sturdy shoes for the unpaved paths."
+            "en": "Hike up the gentle slopes of Mont Pelé to enjoy breathtaking panoramic views of the surrounding countryside, making sure to wear sturdy shoes for the unpaved paths.",
+            "fr": "Montez les pentes douces du Mont Pelé pour profiter de vues panoramiques à couper le souffle sur la campagne environnante, en veillant à porter des chaussures solides pour les sentiers non revêtus."
           }
         }
       ],
@@ -136,7 +146,8 @@
         "de": "Beginnen Sie Ihren Morgen am historischen Rathaus, bevor Sie zur wunderschönen Chapelle Saint-Antoine-de-Padoue spazieren. Mittags schlendern Sie zur Église Saint-Omer, um die Architektur zu bewundern, gefolgt von einem Besuch im Keramikmuseum. Der Nachmittag endet mit einer malerischen Wanderung auf den Mont Pelé, die großartige Aussichten für einen entspannten Abendausklang bietet.",
         "hu": "Kezdje a reggelt a történelmi Városházánál, majd tegyen egy rövid sétát a gyönyörű Chapelle Saint-Antoine-de-Padoue kápolnához. Délben sétáljon el az Église Saint-Omer templomhoz, majd merüljön el a helyi örökségben a Kerámia Múzeumban. A délután a Mont Pelé festői hegyoldalán ér véget, ahonnan lenyűgöző kilátás nyílik, majd egy kellemes esti séta vezet vissza a központba.",
         "ro": "Începeți dimineața la Primăria istorică înainte de o scurtă plimbare spre frumoasa Capelă Saint-Antoine-de-Padoue. La prânz, mergeți la Biserica Saint-Omer pentru a admira arhitectura sa, urmată de o scufundare în patrimoniul local la Muzeul Ceramicii. După-amiaza se încheie cu o drumeție pitorească pe Mont Pelé, oferind priveliști uimitoare înainte de plimbarea de seară.",
-        "en": "Start your morning at the historic Town Hall before taking a short walk to the beautiful Chapelle Saint-Antoine-de-Padoue. By midday, wander towards Église Saint-Omer to admire its architecture, followed by a deep dive into local heritage at the Ceramics Museum. Your afternoon concludes with a scenic hike up Mont Pelé, offering stunning viewpoints before an evening stroll back to the center."
+        "en": "Start your morning at the historic Town Hall before taking a short walk to the beautiful Chapelle Saint-Antoine-de-Padoue. By midday, wander towards Église Saint-Omer to admire its architecture, followed by a deep dive into local heritage at the Ceramics Museum. Your afternoon concludes with a scenic hike up Mont Pelé, offering stunning viewpoints before an evening stroll back to the center.",
+        "fr": "Commencez votre matinée à l'hôtel de ville historique avant d'effectuer une courte promenade jusqu'à la belle Chapelle Saint-Antoine-de-Padoue. À midi, dirigez-vous vers l'Église Saint-Omer pour admirer son architecture, puis plongez dans le patrimoine local au Musée de la Céramique. Votre après-midi se termine par une randonnée panoramique au Mont Pelé, offrant de superbes points de vue avant une promenade du soir vers le centre."
       },
       "variants": {
         "rainy": {
@@ -144,7 +155,8 @@
             "de": "Beginnen Sie den Tag am Rathaus, wo die Arkaden Schutz bieten. Mittags suchen Sie Zuflucht in den historischen Kapellen und Kirchen. Der Nachmittag gehört dem Keramikmuseum, dem perfekten Ort, um dem Regen zu entkommen. Am Abend glänzen die nassen Gassen von Desvres im Schein der Straßenlaternen und bieten eine melancholisch-schöne Atmosphäre.",
             "hu": "Kezdje a napot a városházánál, ahol az épület környéke védelmet nyújt. Délben a kápolnák és templomok kínálnak száraz menedéket a szemerkélő esőben. A délutánt töltse a kerámiamúzeumban, amely a legjobb hely az eső elöli menekülésre. Este a vizes aszfalton megcsillanó fények különleges, romantikus hangulatot árasztanak a városközpontban.",
             "ro": "Începeți ziua la primărie, unde arcadele oferă protecție împotriva ploii. La prânz, căutați refugiu în capelele și bisericile istorice. După-amiaza aparține muzeului ceramicii, locul perfect pentru a scăpa de vremea umedă. Seara, străzile umede din Desvres strălucesc sub luminile stradale, oferind o atmosferă melancolică și frumoasă.",
-            "en": "Start your day at the town hall, where the building's overhangs provide some shelter. At noon, seek refuge in the historic chapels and churches. Spend the afternoon at the ceramics museum, the perfect indoor escape from the rain. In the evening, the wet streets of Desvres glisten under the lamps, creating a unique and moody atmosphere."
+            "en": "Start your day at the town hall, where the building's overhangs provide some shelter. At noon, seek refuge in the historic chapels and churches. Spend the afternoon at the ceramics museum, the perfect indoor escape from the rain. In the evening, the wet streets of Desvres glisten under the lamps, creating a unique and moody atmosphere.",
+            "fr": "Commencez la journée à l'hôtel de ville, où les avancées du bâtiment offrent un peu d'abri. À midi, trouvez refuge dans les chapelles et églises historiques. Passez l'après-midi au musée de la céramique, l'évasion intérieure idéale de la pluie. Le soir, les rues mouillées de Desvres scintillent sous les lampes, créant une ambiance unique et mélancolique."
           },
           "stops": [
             {
@@ -152,13 +164,15 @@
                 "de": "Rathaus Desvres",
                 "hu": "Desvres Városháza",
                 "ro": "Primăria Desvres",
-                "en": "Desvres Town Hall"
+                "en": "Desvres Town Hall",
+                "fr": "Hôtel de ville de Desvres"
               },
               "tip_5lang": {
                 "de": "Bewundern Sie die flämisch inspirierte Architektur vom Schutz der gegenüberliegenden Gebäude aus und achten Sie auf die rutschigen Stufen.",
                 "hu": "Csodálja meg a flamand stílusú építészetet a szemközti épületek védelméből, és vigyázzon a csúszós lépcsőkre a bejáratnál.",
                 "ro": "Admirați arhitectura de inspirație flamandă de sub protecția clădirilor de vizavi și aveți grijă la treptele alunecoase.",
-                "en": "Admire the Flemish-inspired architecture from the shelter of nearby buildings and watch out for slippery steps at the entrance."
+                "en": "Admire the Flemish-inspired architecture from the shelter of nearby buildings and watch out for slippery steps at the entrance.",
+                "fr": "Admirez l'architecture d'inspiration flamande depuis l'abri des bâtiments voisins et faites attention aux marches glissantes à l'entrée."
               }
             },
             {
@@ -166,13 +180,15 @@
                 "de": "Kapelle Saint-Antoine-de-Padoue",
                 "hu": "Saint-Antoine-de-Padoue Kápolna",
                 "ro": "Capela Saint-Antoine-de-Padoue",
-                "en": "Chapelle Saint-Antoine-de-Padoue"
+                "en": "Chapelle Saint-Antoine-de-Padoue",
+                "fr": "Chapelle Saint-Antoine-de-Padoue"
               },
               "tip_5lang": {
                 "de": "Diese kleine Kapelle bietet einen intimen, trockenen Raum zur Besinnung; nutzen Sie den Besuch, um Ihre Regenkleidung kurz zu ordnen.",
                 "hu": "Ez a kis kápolna meghitt, száraz helyet kínál az elmélyüléshez; használja ki a látogatást az esőfelszerelés igazítására.",
                 "ro": "Această mică chapelă oferă un spațiu intim și uscat pentru reflecție; profitați de vizită pentru a vă ajusta pelerina de ploaie.",
-                "en": "This small chapel offers an intimate, dry space for reflection; use the visit to briefly reorganize your rain gear."
+                "en": "This small chapel offers an intimate, dry space for reflection; use the visit to briefly reorganize your rain gear.",
+                "fr": "Cette petite chapelle offre un espace intime et sec pour la réflexion ; profitez de la visite pour réorganiser brièvement vos affaires de pluie."
               }
             },
             {
@@ -180,13 +196,15 @@
                 "de": "Kirche Saint-Omer",
                 "hu": "Saint-Omer Templom",
                 "ro": "Biserica Saint-Omer",
-                "en": "Église Saint-Omer"
+                "en": "Église Saint-Omer",
+                "fr": "Église Saint-Omer"
               },
               "tip_5lang": {
                 "de": "Das massive Kirchenschiff ist ein exzellenter Zufluchtsort; genießen Sie die Stille, während draußen der Regen gegen die alten Fenster prasselt.",
                 "hu": "A masszív templomhajó kiváló menedékhely; élvezze a csendet, miközben odakint az eső dobol a régi üvegablakokon.",
                 "ro": "Naosul masiv este un refugiu excelent; bucurați-vă de liniște în timp ce afară ploaia bate în ferestrele vechi.",
-                "en": "The massive nave is an excellent sanctuary; enjoy the silence while the rain drums against the old windows outside."
+                "en": "The massive nave is an excellent sanctuary; enjoy the silence while the rain drums against the old windows outside.",
+                "fr": "La nef imposante est un excellent sanctuaire ; savourez le silence pendant que la pluie tambourine contre les vieilles vitres extérieures."
               }
             },
             {
@@ -194,13 +212,15 @@
                 "de": "Keramikmuseum",
                 "hu": "Kerámia Múzeum",
                 "ro": "Muzeul Ceramicii",
-                "en": "Ceramics Museum"
+                "en": "Ceramics Museum",
+                "fr": "Musée de la Céramique"
               },
               "tip_5lang": {
                 "de": "Planen Sie hier mehr Zeit ein, da die Ausstellungen komplett überdacht sind; ideal, um die berühmte Keramik von Desvres im Trockenen zu sehen.",
                 "hu": "Tervezzen ide több időt, mivel a kiállítások teljesen fedettek; ideális a híres desvres-i kerámiák megtekintésére szárazon.",
                 "ro": "Planificați mai mult timp aici, deoarece expozițiile sunt complet acoperite; ideal pentru a vedea celebra ceramică de Desvres la adăpost.",
-                "en": "Plan for extra time here as the exhibits are fully indoors; it's the perfect way to see Desvres' famous ceramics while staying dry."
+                "en": "Plan for extra time here as the exhibits are fully indoors; it's the perfect way to see Desvres' famous ceramics while staying dry.",
+                "fr": "Prévoyez du temps supplémentaire ici, car les expositions sont entièrement en intérieur ; c'est la façon parfaite de découvrir la céramique de Desvres tout en restant au sec."
               }
             },
             {
@@ -208,13 +228,15 @@
                 "de": "Mont Pelé",
                 "hu": "Mont Pelé",
                 "ro": "Mont Pelé",
-                "en": "Mont Pelé"
+                "en": "Mont Pelé",
+                "fr": "Mont Pelé"
               },
               "tip_5lang": {
                 "de": "Der Aufstieg kann bei Regen schlammig sein; tragen Sie festes Schuhwerk für die neblige, aber stimmungsvolle Aussicht über das Tal.",
                 "hu": "Az emelkedő esőben sáros lehet; viseljen túrabakancsot a ködös, de hangulatos völgyre nyíló kilátáshoz.",
                 "ro": "Urcarea poate fi noroioasă pe ploaie; purtați încălțăminte adecvată pentru vederea cețoasă, dar atmosferică asupra văii.",
-                "en": "The climb can be muddy in the rain; wear sturdy waterproof boots for the misty but atmospheric views over the valley."
+                "en": "The climb can be muddy in the rain; wear sturdy waterproof boots for the misty but atmospheric views over the valley.",
+                "fr": "La montée peut être boueuse sous la pluie ; portez des bottes imperméables et solides pour des vues brumeuses mais atmosphériques sur la vallée."
               }
             }
           ]
@@ -224,7 +246,8 @@
             "de": "Ein frostiger Morgen beginnt am Rathausplatz. Mittags wärmen Sie sich im Museum auf, dem kulturellen Herz der Stadt. Da die Sonne bereits gegen 17:00 Uhr untergeht, nutzen Sie das Tageslicht für einen Spaziergang zum Mont Pelé. Der Tag endet in der gemütlichen Atmosphäre des Stadtzentrums, wenn die Winterbeleuchtung die Straßen erhellt.",
             "hu": "A zúzmarás reggel a városháza téren indul. Napközben a múzeum fűtött termeiben melegedhet fel, amely a város kulturális szíve. Mivel a nap korán, 17:00 körül nyugszik, használja ki a fényt egy sétára a Mont Pelé dombján. A nap az adventi fényekkel díszített belváros meghitt hangulatában ér véget.",
             "ro": "O dimineață geroasă începe în piața primăriei. La prânz, încălziți-vă în muzeu, inima culturală a orașului. Deoarece soarele apune devreme, în jur de ora 17:00, profitați de lumină pentru o plimbare spre Mont Pelé. Ziua se încheie în atmosfera primitoare a centrului, când luminile de iarnă se aprind.",
-            "en": "A frosty morning begins at the town hall square. At noon, warm up inside the museum, the cultural heart of the town. Since the sun sets early around 17:00, use the remaining daylight for a walk to Mont Pelé. The day ends in the cozy atmosphere of the town center as winter lights begin to glow."
+            "en": "A frosty morning begins at the town hall square. At noon, warm up inside the museum, the cultural heart of the town. Since the sun sets early around 17:00, use the remaining daylight for a walk to Mont Pelé. The day ends in the cozy atmosphere of the town center as winter lights begin to glow.",
+            "fr": "Une matinée froide commence sur la place de l'hôtel de ville. À midi, réchauffez-vous à l'intérieur du musée, le cœur culturel de la ville. Comme le soleil se couche tôt vers 17:00, profitez du reste de la journée pour une promenade jusqu'au Mont Pelé. La journée se termine dans l'atmosphère cosy du centre-ville alors que les illuminations hivernales commencent à scintiller."
           },
           "stops": [
             {
@@ -232,13 +255,15 @@
                 "de": "Rathaus Desvres",
                 "hu": "Desvres Városháza",
                 "ro": "Primăria Desvres",
-                "en": "Desvres Town Hall"
+                "en": "Desvres Town Hall",
+                "fr": "Hôtel de ville de Desvres"
               },
               "tip_5lang": {
                 "de": "Das rote Backsteingebäude wirkt im Winterlicht besonders markant; ziehen Sie sich warm an für die Erkundung des offenen Platzes.",
                 "hu": "A vörös téglás épület különösen látványos a téli fényben; öltözzön rétegesen a nyitott tér felfedezéséhez.",
                 "ro": "Clădirea din cărămidă roșie arată spectaculos în lumina iernii; îmbrăcați-vă bine pentru explorarea pieței deschise.",
-                "en": "The red brick building looks particularly striking in the winter light; dress in warm layers for exploring the open square."
+                "en": "The red brick building looks particularly striking in the winter light; dress in warm layers for exploring the open square.",
+                "fr": "Le bâtiment en briques rouges est particulièrement saisissant sous la lumière hivernale ; habillez-vous en couches chaudes pour explorer la place ouverte."
               }
             },
             {
@@ -246,13 +271,15 @@
                 "de": "Kapelle Saint-Antoine-de-Padoue",
                 "hu": "Saint-Antoine-de-Padoue Kápolna",
                 "ro": "Capela Saint-Antoine-de-Padoue",
-                "en": "Chapelle Saint-Antoine-de-Padoue"
+                "en": "Chapelle Saint-Antoine-de-Padoue",
+                "fr": "Chapelle Saint-Antoine-de-Padoue"
               },
               "tip_5lang": {
                 "de": "Ein kurzer, ruhiger Stopp; die dicken Mauern halten den eisigen Wind ab, auch wenn es im Inneren kühl bleiben kann.",
                 "hu": "Rövid, csendes pihenő; a vastag falak felfogják a jeges szelet, bár bent is hűvös lehet, így ne vegye le a kabátját.",
                 "ro": "O scurtă oprire liniștită; zidurile groase opresc vântul înghețat, chiar dacă în interior poate rămâne destul de răcoare.",
-                "en": "A short, quiet stop; the thick walls block the icy wind, though it may remain cool inside, so keep your coat on."
+                "en": "A short, quiet stop; the thick walls block the icy wind, though it may remain cool inside, so keep your coat on.",
+                "fr": "Un arrêt court et calme ; les murs épais bloquent le vent glacial, bien qu'il puisse rester frais à l'intérieur, gardez donc votre manteau."
               }
             },
             {
@@ -260,13 +287,15 @@
                 "de": "Kirche Saint-Omer",
                 "hu": "Saint-Omer Templom",
                 "ro": "Biserica Saint-Omer",
-                "en": "Église Saint-Omer"
+                "en": "Église Saint-Omer",
+                "fr": "Église Saint-Omer"
               },
               "tip_5lang": {
                 "de": "Besuchen Sie die Kirche am Vormittag, um das kühle Licht durch die Fenster zu sehen, bevor es am frühen Nachmittag dämmert.",
                 "hu": "Látogassa meg a templomot délelőtt, hogy lássa a hideg fényt az ablakokon keresztül, mielőtt kora délután sötétedni kezdene.",
                 "ro": "Vizitați biserica dimineața pentru a vedea lumina rece prin ferestre, înainte ca amurgul să se lase devreme după-amiază.",
-                "en": "Visit the church in the morning to see the crisp light through the windows before the early winter dusk sets in."
+                "en": "Visit the church in the morning to see the crisp light through the windows before the early winter dusk sets in.",
+                "fr": "Visitez l'église le matin pour voir la lumière claire traverser les vitraux avant que le crépuscule hivernal précoce n'arrive."
               }
             },
             {
@@ -274,13 +303,15 @@
                 "de": "Keramikmuseum",
                 "hu": "Kerámia Múzeum",
                 "ro": "Muzeul Ceramicii",
-                "en": "Ceramics Museum"
+                "en": "Ceramics Museum",
+                "fr": "Musée de la Céramique"
               },
               "tip_5lang": {
                 "de": "Dies ist der ideale Ort zum Aufwärmen; genießen Sie die geheizten Räume und die farbenfrohen Keramiken als Kontrast zum Grau draußen.",
                 "hu": "Ez az ideális hely a felmelegedésre; élvezze a fűtött termeket és a színes kerámiákat a kinti szürkeség ellenpontjaként.",
                 "ro": "Acesta este locul ideal pentru încălzire; bucurați-vă de camerele încălzite și de ceramica colorată ca contrast cu griul de afară.",
-                "en": "This is the ideal spot to warm up; enjoy the heated rooms and colorful ceramics as a contrast to the winter grey outside."
+                "en": "This is the ideal spot to warm up; enjoy the heated rooms and colorful ceramics as a contrast to the winter grey outside.",
+                "fr": "C'est l'endroit idéal pour se réchauffer ; profitez des salles chauffées et des céramiques colorées en contraste avec le gris hivernal extérieur."
               }
             },
             {
@@ -288,13 +319,15 @@
                 "de": "Mont Pelé",
                 "hu": "Mont Pelé",
                 "ro": "Mont Pelé",
-                "en": "Mont Pelé"
+                "en": "Mont Pelé",
+                "fr": "Mont Pelé"
               },
               "tip_5lang": {
                 "de": "Erreichen Sie den Gipfel vor 16:30 Uhr, um den Wintersonnenuntergang zu erleben; die kahlen Bäume geben den Blick weit ins Land frei.",
                 "hu": "Érjen fel a csúcsra 16:30 előtt, hogy elcsípje a téli naplementét; a kopasz fák között messzebbre ellátni a tájon.",
                 "ro": "Ajungeți în vârf înainte de ora 16:30 pentru a vedea apusul de iarnă; copacii desfrunziți permit o vedere panoramică vastă.",
-                "en": "Reach the summit before 16:30 to catch the winter sunset; the bare trees allow for much clearer long-distance views."
+                "en": "Reach the summit before 16:30 to catch the winter sunset; the bare trees allow for much clearer long-distance views.",
+                "fr": "Atteignez le sommet avant 16:30 pour assister au coucher du soleil d'hiver ; les arbres dépouillés permettent des vues lointaines beaucoup plus dégagées."
               }
             }
           ]
@@ -314,7 +347,8 @@
             "de": "Rathaus Desvres",
             "hu": "Desvres Városháza",
             "ro": "Primăria Desvres",
-            "en": "Desvres Town Hall"
+            "en": "Desvres Town Hall",
+            "fr": "Hôtel de ville de Desvres"
           },
           "coords": [
             1.834132,
@@ -329,7 +363,8 @@
             "de": "Bewundern Sie die Architektur des Rathauses von Desvres, dem administrativen Herzen der Stadt, und holen Sie sich eine lokale Karte, bevor Sie losziehen.",
             "hu": "Csodálja meg a Városháza polgári építészetét, amely a város adminisztratív központja, és szerezzen be egy helyi térképet a közeli pultnál, mielőtt útnak indul.",
             "ro": "Admirați arhitectura civică a Primăriei, inima administrativă a orașului, și luați o hartă locală de la biroul turistic din apropiere înainte de a porni.",
-            "en": "Admire the civic architecture of Desvres Town Hall, the administrative heart of the town, and grab a local map from the nearby tourist desk before you set off."
+            "en": "Admire the civic architecture of Desvres Town Hall, the administrative heart of the town, and grab a local map from the nearby tourist desk before you set off.",
+            "fr": "Admirez l'architecture civique de l'hôtel de ville de Desvres, le cœur administratif de la ville, et procurez-vous une carte locale au bureau d'information touristique à proximité avant de partir."
           }
         },
         {
@@ -337,7 +372,8 @@
             "de": "Keramikmuseum",
             "hu": "Kerámia Múzeum",
             "ro": "Muzeul Ceramicii",
-            "en": "Ceramics Museum"
+            "en": "Ceramics Museum",
+            "fr": "Musée de la Céramique"
           },
           "coords": [
             1.842068,
@@ -352,7 +388,8 @@
             "de": "Entdecken Sie die farbenfrohe Geschichte der berühmten Fayence-Keramik in diesem großen Museum und kaufen Sie am Ausgang eine wunderschön gearbeitete Souvenirfliese.",
             "hu": "Fedezze fel Desvres híres fajansz kerámiáinak színes történetét ebben a hatalmas múzeumban, és mindenképpen vásároljon egy gyönyörű szuvenír csempét a kijáratnál.",
             "ro": "Descoperiți istoria colorată a celebrei ceramici faïence în acest muzeu vast și asigurați-vă că achiziționați o faianță suvenir frumos lucrată la ieșire.",
-            "en": "Discover the colorful history of Desvres' famous faïence pottery inside this expansive museum, and make sure to buy a beautifully crafted souvenir tile at the exit."
+            "en": "Discover the colorful history of Desvres' famous faïence pottery inside this expansive museum, and make sure to buy a beautifully crafted souvenir tile at the exit.",
+            "fr": "Découvrez l'histoire colorée de la célèbre faïence de Desvres dans ce musée spacieux, et n'oubliez pas d'acheter une tuile souvenir joliment travaillée à la sortie."
           }
         },
         {
@@ -360,7 +397,8 @@
             "de": "Mont Pelé",
             "hu": "Mont Pelé",
             "ro": "Mont Pelé",
-            "en": "Mont Pelé"
+            "en": "Mont Pelé",
+            "fr": "Mont Pelé"
           },
           "coords": [
             1.847532,
@@ -375,7 +413,8 @@
             "de": "Wandern Sie die sanften Hänge des Mont Pelé hinauf, um atemberaubende Panoramablicke zu genießen, und tragen Sie unbedingt festes Schuhwerk für die unbefestigten Wege.",
             "hu": "Túrázzon fel a Mont Pelé lankás lejtőin a lélegzetelállító panorámáért, de a burkolatlan ösvények miatt mindenképpen viseljen masszív túracipőt.",
             "ro": "Urcați pe pantele blânde ale Mont Pelé pentru a vă bucura de vederi panoramice uluitoare, asigurându-vă că purtați încălțăminte rezistentă pentru poteci.",
-            "en": "Hike up the gentle slopes of Mont Pelé to enjoy breathtaking panoramic views of the surrounding countryside, making sure to wear sturdy shoes for the unpaved paths."
+            "en": "Hike up the gentle slopes of Mont Pelé to enjoy breathtaking panoramic views of the surrounding countryside, making sure to wear sturdy shoes for the unpaved paths.",
+            "fr": "Montez les pentes douces du Mont Pelé pour profiter de vues panoramiques à couper le souffle sur la campagne environnante, en veillant à porter des chaussures solides pour les sentiers non revêtus."
           }
         },
         {
@@ -383,7 +422,8 @@
             "de": "Kirche Saint-Maurice",
             "hu": "Saint-Maurice Templom",
             "ro": "Biserica Saint-Maurice",
-            "en": "Église Saint-Maurice"
+            "en": "Église Saint-Maurice",
+            "fr": "Église Saint-Maurice"
           },
           "coords": [
             1.842768,
@@ -398,7 +438,8 @@
             "de": "Erkunden Sie die historischen Mauern der Église Saint-Maurice und versuchen Sie, bei Morgenlicht zu besuchen, um die besten Fotowinkel des alten Gebäudes zu erhalten.",
             "hu": "Fedezze fel az Église Saint-Maurice történelmi falait, ahol a vallási örökség nyugalommal párosul, és próbálja meg a reggeli fényben látogatni a legjobb fotókért.",
             "ro": "Explorați zidurile istorice ale Bisericii Saint-Maurice, unde moștenirea religioasă întâlnește liniștea, și vizitați în lumina dimineții pentru cele mai bune poze.",
-            "en": "Explore the historic walls of Église Saint-Maurice where quiet contemplation meets religious heritage, and try to visit during morning light for the best photo angles."
+            "en": "Explore the historic walls of Église Saint-Maurice where quiet contemplation meets religious heritage, and try to visit during morning light for the best photo angles.",
+            "fr": "Explorez les murs historiques de l'Église Saint-Maurice où la contemplation tranquille rencontre le patrimoine religieux, et essayez de visiter à la lumière du matin pour les meilleurs angles photo."
           }
         },
         {
@@ -406,7 +447,8 @@
             "de": "Kirche Saint-Pierre",
             "hu": "Saint-Pierre Templom",
             "ro": "Biserica Saint-Pierre",
-            "en": "Église Saint-Pierre"
+            "en": "Église Saint-Pierre",
+            "fr": "Église Saint-Pierre"
           },
           "coords": [
             1.811338,
@@ -421,7 +463,8 @@
             "de": "Betrachten Sie das klassische Mauerwerk der Église Saint-Pierre, einem festen Bestandteil der Gemeinde, und beachten Sie die Informationsschilder am Haupteingang.",
             "hu": "Figyelje meg az Église Saint-Pierre feltűnő klasszikus falazatát, amely a helyi közösség alapköve, és olvassa el a főbejárat melletti kis információs táblákat.",
             "ro": "Observați zidăria clasică de la Biserica Saint-Pierre, o piatră de temelie a comunității locale, notând micile plăci informative de lângă ușa principală de la intrare.",
-            "en": "Observe the striking classic masonry at Église Saint-Pierre, a staple of the local community, taking note of the small information plaques near the main entrance door."
+            "en": "Observe the striking classic masonry at Église Saint-Pierre, a staple of the local community, taking note of the small information plaques near the main entrance door.",
+            "fr": "Observez la maçonnerie classique frappante de l'Église Saint-Pierre, un pilier de la communauté locale, en prenant note des petites plaques d'information près de la porte d'entrée principale."
           }
         },
         {
@@ -429,7 +472,8 @@
             "de": "Kapelle Saint-Antoine-de-Padoue",
             "hu": "Saint-Antoine-de-Padoue Kápolna",
             "ro": "Capela Saint-Antoine-de-Padoue",
-            "en": "Chapelle Saint-Antoine-de-Padoue"
+            "en": "Chapelle Saint-Antoine-de-Padoue",
+            "fr": "Chapelle Saint-Antoine-de-Padoue"
           },
           "coords": [
             1.839286,
@@ -444,7 +488,8 @@
             "de": "Besuchen Sie diese ruhige katholische Kapelle, um die intime Atmosphäre zu genießen, und denken Sie daran, die für das Gebet vorgesehenen Ruhezeiten zu respektieren.",
             "hu": "Látogasson el ebbe a békés katolikus kápolnába, hogy megcsodálja meghitt hangulatát, ügyelve arra, hogy tiszteletben tartsa a helyi imádság csendes óráit.",
             "ro": "Vizitați această capelă catolică senină pentru a-i aprecia atmosfera intimă, amintindu-vă să respectați orele de liniște destinate rugăciunilor locale.",
-            "en": "Visit this serene Catholic chapel to appreciate its intimate atmosphere and historic stonework, remembering to respect the quiet hours meant for local prayer."
+            "en": "Visit this serene Catholic chapel to appreciate its intimate atmosphere and historic stonework, remembering to respect the quiet hours meant for local prayer.",
+            "fr": "Visitez cette chapelle catholique sereine pour apprécier son atmosphère intime et sa maçonnerie historique, en pensant à respecter les heures de silence réservées à la prière locale."
           }
         },
         {
@@ -452,7 +497,8 @@
             "de": "Wald von Desvres",
             "hu": "Desvres Erdő",
             "ro": "Pădurea Desvres",
-            "en": "Desvres Forest"
+            "en": "Desvres Forest",
+            "fr": "Forêt de Desvres"
           },
           "coords": [
             1.828696,
@@ -467,7 +513,8 @@
             "de": "Entfliehen Sie ins üppige Grün des Waldes von Desvres, um die einheimische Flora kennenzulernen, und packen Sie Snacks sowie Wasser für eine tiefe Erkundung ein.",
             "hu": "Meneküljön a Desvres erdő buja zöldjébe, hogy kapcsolatba kerüljön a helyi flórával és faunával, és csomagoljon sok vizet, illetve harapnivalót a túrázáshoz.",
             "ro": "Evadați în verdeața luxuriantă a Pădurii Desvres pentru a vă conecta cu flora nativă, împachetând gustări și multă apă pentru o explorare profundă a pădurii.",
-            "en": "Escape into the lush greenery of Desvres Forest to connect with native flora and fauna, packing some snacks and plenty of water for a deep woodland exploration."
+            "en": "Escape into the lush greenery of Desvres Forest to connect with native flora and fauna, packing some snacks and plenty of water for a deep woodland exploration.",
+            "fr": "Évadez-vous dans la verdure luxuriante de la Forêt de Desvres pour vous connecter à la flore et à la faune locales, en emportant quelques en-cas et beaucoup d'eau pour une longue exploration boisée."
           }
         }
       ],
@@ -475,7 +522,8 @@
         "de": "Radeln Sie vom Rathaus direkt zum renommierten Keramikmuseum, um den Tag mit lebendiger Kunst zu beginnen. Fahren Sie hinauf zum Mont Pelé für einen Panoramablick, bevor Sie nach Süden zur friedlichen Église Saint-Maurice cruisen. Genießen Sie eine Nachmittagsfahrt zur Église Saint-Pierre und zur charmanten Kapelle, und beenden Sie den Abend im erholsamen Wald von Desvres.",
         "hu": "Tekerjen a Városházától egyenesen a híres Kerámia Múzeumba, hogy élénk művészettel kezdje a napot. Bringázzon fel a Mont Pelé hegyre a panorámáért, majd guruljon délre a békés Église Saint-Maurice templomhoz. Élvezze a délutáni kerékpározást az Église Saint-Pierre és a hangulatos Chapelle kápolna érintésével, végül pedig fejezze be az estét egy pihentető erdei tekeréssel Desvres-ben.",
         "ro": "Porniți cu bicicleta de la Primărie direct către renumitul Muzeu al Ceramicii pentru a începe ziua cu artă. Urcați pe Mont Pelé pentru vederi panoramice înainte de a pedala spre sud către liniștita Biserică Saint-Maurice. Bucurați-vă de o după-amiază cu bicicleta la Biserica Saint-Pierre și la fermecătoarea Capelă, terminând seara cu o plimbare relaxantă prin Pădurea Desvres.",
-        "en": "Pedal away from the Town Hall directly to the renowned Ceramics Museum to start your day with vibrant art. Ride up to Mont Pelé for sweeping panoramic views before cruising southward to the peaceful Église Saint-Maurice. Enjoy an afternoon cycle to Église Saint-Pierre and the charming Chapelle Saint-Antoine-de-Padoue, finishing your evening with a relaxing ride into the Desvres Forest."
+        "en": "Pedal away from the Town Hall directly to the renowned Ceramics Museum to start your day with vibrant art. Ride up to Mont Pelé for sweeping panoramic views before cruising southward to the peaceful Église Saint-Maurice. Enjoy an afternoon cycle to Église Saint-Pierre and the charming Chapelle Saint-Antoine-de-Padoue, finishing your evening with a relaxing ride into the Desvres Forest.",
+        "fr": "Partez à vélo de l'hôtel de ville directement vers le renommé Musée de la Céramique pour commencer la journée par de l'art coloré. Montez au Mont Pelé pour des vues panoramiques avant de longer vers le sud jusqu'à la paisible Église Saint-Maurice. Profitez d'une après-midi à vélo vers l'Église Saint-Pierre et la charmante Chapelle Saint-Antoine-de-Padoue, et terminez votre soirée par une détente à vélo dans la Forêt de Desvres."
       },
       "variants": {
         "rainy": {
@@ -483,7 +531,8 @@
             "de": "Rüsten Sie Ihr Rad mit Schutzblechen aus, bevor Sie am Rathaus starten. Ein längerer Stopp im Keramikmuseum hilft, die Kleidung zu trocknen. Die Fahrt zum Mont Pelé und durch den Wald erfordert erhöhte Vorsicht auf rutschigen Waldwegen. Der Tag endet zügig, da die Nässe auf dem Rad die Kälte verstärkt.",
             "hu": "Szerelje fel kerékpárját sárvédővel, mielőtt elindul a városházától. Egy hosszabb pihenő a kerámiamúzeumban segít megszárítani a ruházatot. A Mont Pelé és az erdő felé vezető út fokozott óvatosságot igényel a csúszós erdei ösvényeken. A napot érdemes korábban zárni, mert a nedvesség fokozza a hidegérzetet.",
             "ro": "Echipati-vă bicicleta cu aripi înainte de a pleca de la primărie. O oprire prelungită la muzeul ceramicii ajută la uscarea hainelor. Drumul spre Mont Pelé și prin pădure necesită prudență sporită pe potecile alunecoase. Ziua se încheie rapid, deoarece umezeala accentuează senzația de frig pe bicicletă.",
-            "en": "Equip your bike with mudguards before starting at the town hall. A longer stop at the ceramics museum will help dry your gear. The ride to Mont Pelé and through the forest requires extra caution on slippery trails. End your ride early, as getting wet while cycling makes the air feel much colder."
+            "en": "Equip your bike with mudguards before starting at the town hall. A longer stop at the ceramics museum will help dry your gear. The ride to Mont Pelé and through the forest requires extra caution on slippery trails. End your ride early, as getting wet while cycling makes the air feel much colder.",
+            "fr": "Équipez votre vélo de garde-boues avant de partir de l'hôtel de ville. Un long arrêt au musée de la céramique permettra de sécher votre équipement. La montée vers le Mont Pelé et le passage par la forêt exigent une prudence accrue sur les sentiers glissants. Raccourcissez votre sortie, car être mouillé à vélo donne une sensation de froid plus marquée."
           },
           "stops": [
             {
@@ -491,13 +540,15 @@
                 "de": "Rathaus Desvres",
                 "hu": "Desvres Városháza",
                 "ro": "Primăria Desvres",
-                "en": "Desvres Town Hall"
+                "en": "Desvres Town Hall",
+                "fr": "Hôtel de ville de Desvres"
               },
               "tip_5lang": {
                 "de": "Parken Sie Ihr Rad an einem geschützten Ort und checken Sie kurz die Bremsen für die nassen Straßen des Tages.",
                 "hu": "Parkoljon fedett helyen, és ellenőrizze a fékeket a vizes utakra való tekintettel, mielőtt továbbindulna.",
                 "ro": "Parcați bicicleta într-un loc protejat și verificați frânele pentru drumurile umede de pe parcursul zilei.",
-                "en": "Park your bike in a sheltered spot and give your brakes a quick check for the day's wet conditions."
+                "en": "Park your bike in a sheltered spot and give your brakes a quick check for the day's wet conditions.",
+                "fr": "Garez votre vélo à l'abri et vérifiez rapidement vos freins en prévision des conditions humides de la journée."
               }
             },
             {
@@ -505,13 +556,15 @@
                 "de": "Keramikmuseum",
                 "hu": "Kerámia Múzeum",
                 "ro": "Muzeul Ceramicii",
-                "en": "Ceramics Museum"
+                "en": "Ceramics Museum",
+                "fr": "Musée de la Céramique"
               },
               "tip_5lang": {
                 "de": "Nutzen Sie die Garderobe, um nasse Jacken abzugeben; das Museum ist die perfekte lange Pause, um dem Regen zu entgehen.",
                 "hu": "Használja a ruhatárat a vizes kabátoknak; a múzeum tökéletes helyszín egy hosszú, esőmentes pihenőre.",
                 "ro": "Folosiți garderoba pentru hainele umede; muzeul este locul perfect pentru o pauză lungă ferită de ploaie.",
-                "en": "Use the cloakroom for your wet jackets; the museum is the perfect long break to let the heaviest rain pass."
+                "en": "Use the cloakroom for your wet jackets; the museum is the perfect long break to let the heaviest rain pass.",
+                "fr": "Utilisez le vestiaire pour vos vestes mouillées ; le musée est la pause idéale pour laisser passer la pluie la plus forte."
               }
             },
             {
@@ -519,13 +572,15 @@
                 "de": "Mont Pelé",
                 "hu": "Mont Pelé",
                 "ro": "Mont Pelé",
-                "en": "Mont Pelé"
+                "en": "Mont Pelé",
+                "fr": "Mont Pelé"
               },
               "tip_5lang": {
                 "de": "Vorsicht bei der Abfahrt auf den kalkhaltigen Wegen; diese werden bei Nässe extrem rutschig für Fahrradreifen.",
                 "hu": "Vigyázzon a lejtőkön a mészköves utakon; ezek esőben rendkívül csúszóssá válnak a kerékpárgumik számára.",
                 "ro": "Atenție la coborârea pe potecile calcaroase; acestea devin extrem de alunecoase pentru anvelopele de bicicletă pe ploaie.",
-                "en": "Be very careful descending on the chalky paths; they become extremely slippery for bike tires when wet."
+                "en": "Be very careful descending on the chalky paths; they become extremely slippery for bike tires when wet.",
+                "fr": "Soyez très prudent en descente sur les sentiers crayeux ; ils deviennent extrêmement glissants pour les pneus de vélo lorsque humide."
               }
             },
             {
@@ -533,13 +588,15 @@
                 "de": "Kirche Saint-Maurice",
                 "hu": "Saint-Maurice Templom",
                 "ro": "Biserica Saint-Maurice",
-                "en": "Église Saint-Maurice"
+                "en": "Église Saint-Maurice",
+                "fr": "Église Saint-Maurice"
               },
               "tip_5lang": {
                 "de": "Ein guter Unterstand für eine kurze Trinkpause; bewundern Sie die Architektur vom Eingangsbereich aus im Trockenen.",
                 "hu": "Jó menedék egy rövid frissítőhöz; csodálja meg az építészetet a bejárat felől, szárazon maradva.",
                 "ro": "Un adăpost bun pentru o scurtă pauză de hidratare; admirați arhitectura de la intrare, rămânând la uscat.",
-                "en": "A good shelter for a quick hydration break; admire the architecture from the entrance area while staying dry."
+                "en": "A good shelter for a quick hydration break; admire the architecture from the entrance area while staying dry.",
+                "fr": "Un bon abri pour une courte pause hydratation ; admirez l'architecture depuis l'entrée tout en restant au sec."
               }
             },
             {
@@ -547,13 +604,15 @@
                 "de": "Kirche Saint-Pierre",
                 "hu": "Saint-Pierre Templom",
                 "ro": "Biserica Saint-Pierre",
-                "en": "Église Saint-Pierre"
+                "en": "Église Saint-Pierre",
+                "fr": "Église Saint-Pierre"
               },
               "tip_5lang": {
                 "de": "Nutzen Sie diesen Stopp für eine kurze Aufwärmphase im Inneren, bevor Sie die letzte Etappe durch den Wald antreten.",
                 "hu": "Használja ezt a megállót egy rövid benti melegedésre, mielőtt nekivágna az utolsó, erdei szakasznak.",
                 "ro": "Folosiți această oprire pentru o scurtă încălzire în interior înainte de a începe ultima etapă prin pădure.",
-                "en": "Use this stop for a quick warm-up inside before tackling the final forest leg of your journey."
+                "en": "Use this stop for a quick warm-up inside before tackling the final forest leg of your journey.",
+                "fr": "Utilisez cet arrêt pour un rapide réchauffement à l'intérieur avant d'affronter la dernière étape vers la forêt."
               }
             },
             {
@@ -561,13 +620,15 @@
                 "de": "Kapelle Saint-Antoine-de-Padoue",
                 "hu": "Saint-Antoine-de-Padoue Kápolna",
                 "ro": "Capela Saint-Antoine-de-Padoue",
-                "en": "Chapelle Saint-Antoine-de-Padoue"
+                "en": "Chapelle Saint-Antoine-de-Padoue",
+                "fr": "Chapelle Saint-Antoine-de-Padoue"
               },
               "tip_5lang": {
                 "de": "Ein kleiner, aber feiner Zufluchtsort; perfekt, um den Helm kurz abzunehmen und die Haare zu trocknen.",
                 "hu": "Kicsi, de kiváló menedékhely; tökéletes, hogy levegye a sisakot és egy kicsit megszárítsa a haját.",
                 "ro": "Un refugiu mic, dar excelent; perfect pentru a vă scoate casca și a vă usca puțin părul.",
-                "en": "A small but excellent refuge; perfect for taking off your helmet and drying your hair for a moment."
+                "en": "A small but excellent refuge; perfect for taking off your helmet and drying your hair for a moment.",
+                "fr": "Un petit mais excellent refuge ; parfait pour enlever votre casque et sécher vos cheveux un instant."
               }
             },
             {
@@ -575,13 +636,15 @@
                 "de": "Wald von Desvres",
                 "hu": "Desvres Erdő",
                 "ro": "Pădurea Desvres",
-                "en": "Desvres Forest"
+                "en": "Desvres Forest",
+                "fr": "Forêt de Desvres"
               },
               "tip_5lang": {
                 "de": "Das Blätterdach bietet etwas Schutz, aber die Wege sind weich; fahren Sie langsam und genießen Sie den frischen Erdgeruch.",
                 "hu": "A lombok nyújtanak némi védelmet, de az utak feláznak; tekerjen lassan, és élvezze az eső utáni friss erdőillatot.",
                 "ro": "Coronamentul oferă puțină protecție, dar drumurile sunt moi; pedalați încet și bucurați-vă de mirosul proaspăt de pădure.",
-                "en": "The canopy provides some protection, but the paths are soft; ride slowly and enjoy the fresh forest scent after the rain."
+                "en": "The canopy provides some protection, but the paths are soft; ride slowly and enjoy the fresh forest scent after the rain.",
+                "fr": "La canopée offre une certaine protection, mais les sentiers sont mous ; roulez lentement et profitez de la fraîcheur forestière après la pluie."
               }
             }
           ]
@@ -591,7 +654,8 @@
             "de": "Warme Handschuhe sind Pflicht für den Start am Rathaus. Das Keramikmuseum bietet die nötige Mittagshitze, um die Glieder aufzuwärmen. Planen Sie die Fahrt zum Mont Pelé und durch den Wald so, dass Sie vor dem frühen Sonnenuntergang um 17:00 Uhr zurück sind. Eisige Stellen auf den Nebenstraßen erfordern volle Konzentration.",
             "hu": "A meleg kesztyű kötelező a városházánál való induláshoz. A kerámiamúzeum biztosítja a szükséges déli pihenőt a végtagok átmelegítéséhez. Úgy tervezze a Mont Pelé és az erdő meglátogatását, hogy a korai, 17:00-s naplemente előtt visszaérjen. A mellékutakon lévő jeges foltok teljes koncentrációt igényelnek.",
             "ro": "Mănușile calde sunt obligatorii pentru plecarea de la primărie. Muzeul ceramicii oferă căldura necesară la prânz pentru a vă dezmorți. Planificați vizita la Mont Pelé și pădure astfel încât să vă întoarceți înainte de apusul de la ora 17:00. Porțiunile înghețate de pe drumurile secundare necesită concentrare maximă.",
-            "en": "Warm gloves are mandatory for starting at the town hall. The ceramics museum provides the necessary noon break to warm up your limbs. Plan your ride to Mont Pelé and the forest to return before the early 17:00 sunset. Icy patches on side roads require full concentration."
+            "en": "Warm gloves are mandatory for starting at the town hall. The ceramics museum provides the necessary noon break to warm up your limbs. Plan your ride to Mont Pelé and the forest to return before the early 17:00 sunset. Icy patches on side roads require full concentration.",
+            "fr": "Des gants chauds sont indispensables pour partir de l'hôtel de ville. Le musée de la céramique fournit la pause de midi nécessaire pour réchauffer vos membres. Planifiez votre montée au Mont Pelé et la traversée de la forêt pour revenir avant le coucher du soleil précoce à 17:00. Les plaques de verglas sur les routes secondaires demandent une concentration maximale."
           },
           "stops": [
             {
@@ -599,13 +663,15 @@
                 "de": "Rathaus Desvres",
                 "hu": "Desvres Városháza",
                 "ro": "Primăria Desvres",
-                "en": "Desvres Town Hall"
+                "en": "Desvres Town Hall",
+                "fr": "Hôtel de ville de Desvres"
               },
               "tip_5lang": {
                 "de": "Ein kurzer Stopp für ein Foto; halten Sie die Pausen kurz, um auf dem Rad nicht auszukühlen.",
                 "hu": "Rövid megálló egy fotóra; tartsa röviden a szüneteket, hogy ne hűljön ki túlságosan a kerékpáron.",
                 "ro": "O scurtă oprire pentru o fotografie; păstrați pauzele scurte pentru a nu vă răci prea tare pe bicicletă.",
-                "en": "A quick stop for a photo; keep breaks short here so you don't cool down too much while cycling."
+                "en": "A quick stop for a photo; keep breaks short here so you don't cool down too much while cycling.",
+                "fr": "Un arrêt rapide pour une photo ; gardez les pauses courtes ici pour ne pas vous refroidir trop en roulant."
               }
             },
             {
@@ -613,13 +679,15 @@
                 "de": "Keramikmuseum",
                 "hu": "Kerámia Múzeum",
                 "ro": "Muzeul Ceramicii",
-                "en": "Ceramics Museum"
+                "en": "Ceramics Museum",
+                "fr": "Musée de la Céramique"
               },
               "tip_5lang": {
                 "de": "Genießen Sie die Wärme der Ausstellungsräume; dies ist der wichtigste Aufwärmpunkt Ihrer winterlichen Tour.",
                 "hu": "Élvezze a kiállítótermek melegét; ez a téli túra legfontosabb melegedőpontja, töltődjön fel itt.",
                 "ro": "Bucurați-vă de căldura sălilor de expoziție; acesta este cel mai important punct de încălzire al turului de iarnă.",
-                "en": "Enjoy the warmth of the exhibition halls; this is the most important heating point of your winter bike tour."
+                "en": "Enjoy the warmth of the exhibition halls; this is the most important heating point of your winter bike tour.",
+                "fr": "Profitez de la chaleur des salles d'exposition ; c'est le principal point chauffé de votre tour à vélo hivernal."
               }
             },
             {
@@ -627,13 +695,15 @@
                 "de": "Mont Pelé",
                 "hu": "Mont Pelé",
                 "ro": "Mont Pelé",
-                "en": "Mont Pelé"
+                "en": "Mont Pelé",
+                "fr": "Mont Pelé"
               },
               "tip_5lang": {
                 "de": "Die klare Winterluft bietet oft eine phänomenale Sicht; tragen Sie eine Windjacke für den exponierten Hügel.",
                 "hu": "A tiszta téli levegő gyakran fenomenális kilátást biztosít; viseljen szélkabátot a kitett dombtetőn.",
                 "ro": "Aerul curat de iarnă oferă adesea o vedere fenomenală; purtați o jachetă de vânt pentru dealul expus.",
-                "en": "The crisp winter air often provides phenomenal visibility; wear a windbreaker for the exposed hilltop."
+                "en": "The crisp winter air often provides phenomenal visibility; wear a windbreaker for the exposed hilltop.",
+                "fr": "L'air vif de l'hiver offre souvent une visibilité phénoménale ; portez une coupe-vent pour le sommet exposé."
               }
             },
             {
@@ -641,13 +711,15 @@
                 "de": "Kirche Saint-Maurice",
                 "hu": "Saint-Maurice Templom",
                 "ro": "Biserica Saint-Maurice",
-                "en": "Église Saint-Maurice"
+                "en": "Église Saint-Maurice",
+                "fr": "Église Saint-Maurice"
               },
               "tip_5lang": {
                 "de": "Die Stille im Winter passt zur Architektur; achten Sie auf glatte Stellen auf dem Vorplatz beim Abstellen des Rades.",
                 "hu": "A téli csend jól illik az építészethez; figyeljen a jeges foltokra a templom előtti téren a bringa leállításakor.",
                 "ro": "Liniștea iernii se potrivește cu arhitectura; atenție la zonele alunecoase din fața bisericii când parcați.",
-                "en": "The winter silence suits the architecture; watch out for icy patches in the square when parking your bike."
+                "en": "The winter silence suits the architecture; watch out for icy patches in the square when parking your bike.",
+                "fr": "Le silence hivernal convient à l'architecture ; faites attention aux plaques de verglas sur la place en garantd votre vélo."
               }
             },
             {
@@ -655,13 +727,15 @@
                 "de": "Kirche Saint-Pierre",
                 "hu": "Saint-Pierre Templom",
                 "ro": "Biserica Saint-Pierre",
-                "en": "Église Saint-Pierre"
+                "en": "Église Saint-Pierre",
+                "fr": "Église Saint-Pierre"
               },
               "tip_5lang": {
                 "de": "Ein friedlicher Ort für eine kurze Rast, bevor die Sonne tiefer sinkt und es merklich kälter wird.",
                 "hu": "Békés hely egy rövid pihenőre, mielőtt a nap még lejjebb süllyedne és érezhetően hűvösebbé válna az idő.",
                 "ro": "Un loc pașnic pentru o scurtă odihnă înainte ca soarele să coboare și să se facă vizibil mai frig.",
-                "en": "A peaceful spot for a short rest before the sun drops lower and the temperature starts to fall rapidly."
+                "en": "A peaceful spot for a short rest before the sun drops lower and the temperature starts to fall rapidly.",
+                "fr": "Un endroit paisible pour une courte pause avant que le soleil ne descende davantage et que la température chute rapidement."
               }
             },
             {
@@ -669,13 +743,15 @@
                 "de": "Kapelle Saint-Antoine-de-Padoue",
                 "hu": "Saint-Antoine-de-Padoue Kápolna",
                 "ro": "Capela Saint-Antoine-de-Padoue",
-                "en": "Chapelle Saint-Antoine-de-Padoue"
+                "en": "Chapelle Saint-Antoine-de-Padoue",
+                "fr": "Chapelle Saint-Antoine-de-Padoue"
               },
               "tip_5lang": {
                 "de": "Ein kleiner Stopp zum Innehalten; die Lage bietet Schutz vor dem meist aus Westen wehenden Winterwind.",
                 "hu": "Rövid megálló az elcsendesedéshez; az elhelyezkedése védelmet nyújt a többnyire nyugat felől fújó téli szél ellen.",
                 "ro": "O mică oprire pentru reculegere; locația oferă protecție împotriva vântului de iarnă care suflă dinspre vest.",
-                "en": "A small stop for reflection; its location offers protection from the winter wind, which mostly blows from the west."
+                "en": "A small stop for reflection; its location offers protection from the winter wind, which mostly blows from the west.",
+                "fr": "Un petit arrêt pour la réflexion ; son emplacement offre une protection contre le vent hivernal, qui souffle principalement de l'ouest."
               }
             },
             {
@@ -683,13 +759,15 @@
                 "de": "Wald von Desvres",
                 "hu": "Desvres Erdő",
                 "ro": "Pădurea Desvres",
-                "en": "Desvres Forest"
+                "en": "Desvres Forest",
+                "fr": "Forêt de Desvres"
               },
               "tip_5lang": {
                 "de": "Fahren Sie rechtzeitig zurück, da es im Wald unter den Bäumen noch früher dunkel wird als im offenen Gelände.",
                 "hu": "Induljon vissza időben, mivel az erdőben a fák alatt még korábban sötétedik, mint a nyílt terepen.",
                 "ro": "Întoarceți-vă din timp, deoarece în pădure se întunecă chiar mai devreme sub copaci decât în câmp deschis.",
-                "en": "Head back early, as it gets dark even sooner under the forest canopy than in open areas."
+                "en": "Head back early, as it gets dark even sooner under the forest canopy than in open areas.",
+                "fr": "Revenez tôt, car il fait encore plus sombre sous la canopée forestière que dans les espaces ouverts."
               }
             }
           ]
@@ -709,7 +787,8 @@
             "de": "Rathaus Desvres",
             "hu": "Desvres Városháza",
             "ro": "Primăria Desvres",
-            "en": "Desvres Town Hall"
+            "en": "Desvres Town Hall",
+            "fr": "Hôtel de ville de Desvres"
           },
           "coords": [
             1.834132,
@@ -724,7 +803,8 @@
             "de": "Bewundern Sie die Architektur des Rathauses von Desvres, dem administrativen Herzen der Stadt, und holen Sie sich eine lokale Karte, bevor Sie losziehen.",
             "hu": "Csodálja meg a Városháza polgári építészetét, amely a város adminisztratív központja, és szerezzen be egy helyi térképet a közeli pultnál, mielőtt útnak indul.",
             "ro": "Admirați arhitectura civică a Primăriei, inima administrativă a orașului, și luați o hartă locală de la biroul turistic din apropiere înainte de a porni.",
-            "en": "Admire the civic architecture of Desvres Town Hall, the administrative heart of the town, and grab a local map from the nearby tourist desk before you set off."
+            "en": "Admire the civic architecture of Desvres Town Hall, the administrative heart of the town, and grab a local map from the nearby tourist desk before you set off.",
+            "fr": "Admirez l'architecture civique de l'hôtel de ville de Desvres, le cœur administratif de la ville, et procurez-vous une carte locale au bureau d'information touristique à proximité avant de partir."
           }
         },
         {
@@ -732,7 +812,8 @@
             "de": "Keramikmuseum",
             "hu": "Kerámia Múzeum",
             "ro": "Muzeul Ceramicii",
-            "en": "Ceramics Museum"
+            "en": "Ceramics Museum",
+            "fr": "Musée de la Céramique"
           },
           "coords": [
             1.842068,
@@ -747,7 +828,8 @@
             "de": "Entdecken Sie die farbenfrohe Geschichte der berühmten Fayence-Keramik in diesem großen Museum und kaufen Sie am Ausgang eine wunderschön gearbeitete Souvenirfliese.",
             "hu": "Fedezze fel Desvres híres fajansz kerámiáinak színes történetét ebben a hatalmas múzeumban, és mindenképpen vásároljon egy gyönyörű szuvenír csempét a kijáratnál.",
             "ro": "Descoperiți istoria colorată a celebrei ceramici faïence în acest muzeu vast și asigurați-vă că achiziționați o faianță suvenir frumos lucrată la ieșire.",
-            "en": "Discover the colorful history of Desvres' famous faïence pottery inside this expansive museum, and make sure to buy a beautifully crafted souvenir tile at the exit."
+            "en": "Discover the colorful history of Desvres' famous faïence pottery inside this expansive museum, and make sure to buy a beautifully crafted souvenir tile at the exit.",
+            "fr": "Découvrez l'histoire colorée de la célèbre faïence de Desvres dans ce musée spacieux, et n'oubliez pas d'acheter une tuile souvenir joliment travaillée à la sortie."
           }
         },
         {
@@ -755,7 +837,8 @@
             "de": "Kirche Saint-Omer",
             "hu": "Saint-Omer Templom",
             "ro": "Biserica Saint-Omer",
-            "en": "Église Saint-Omer"
+            "en": "Église Saint-Omer",
+            "fr": "Église Saint-Omer"
           },
           "coords": [
             1.858941,
@@ -770,7 +853,8 @@
             "de": "Treten Sie in die Église Saint-Omer ein, um die Buntglasfenster zu bewundern, und achten Sie auf die wunderschön geschnitzten Holzbänke in der Nähe des Altars.",
             "hu": "Lépjen be az Église Saint-Omer templomba, hogy megcsodálja a hagyományos dizájnt és az ólomüveg ablakokat, különös tekintettel a faragott fapadokra az oltárnál.",
             "ro": "Pășiți în Biserica Saint-Omer pentru a admira vitraliile și designul tradițional, fiind atenți la băncile din lemn frumos sculptate de lângă altar.",
-            "en": "Step inside Église Saint-Omer to marvel at its stained-glass windows and traditional design, keeping an eye out for the beautifully carved wooden pews near the altar."
+            "en": "Step inside Église Saint-Omer to marvel at its stained-glass windows and traditional design, keeping an eye out for the beautifully carved wooden pews near the altar.",
+            "fr": "Pénétrez dans l'Église Saint-Omer pour admirer ses vitraux et son architecture traditionnelle, en gardant un œil sur les bancs en bois finement sculptés près de l'autel."
           }
         },
         {
@@ -778,7 +862,8 @@
             "de": "Wald von Desvres",
             "hu": "Desvres Erdő",
             "ro": "Pădurea Desvres",
-            "en": "Desvres Forest"
+            "en": "Desvres Forest",
+            "fr": "Forêt de Desvres"
           },
           "coords": [
             1.828696,
@@ -793,7 +878,8 @@
             "de": "Entfliehen Sie ins üppige Grün des Waldes von Desvres, um die einheimische Flora kennenzulernen, und packen Sie Snacks sowie Wasser für eine tiefe Erkundung ein.",
             "hu": "Meneküljön a Desvres erdő buja zöldjébe, hogy kapcsolatba kerüljön a helyi flórával és faunával, és csomagoljon sok vizet, illetve harapnivalót a túrázáshoz.",
             "ro": "Evadați în verdeața luxuriantă a Pădurii Desvres pentru a vă conecta cu flora nativă, împachetând gustări și multă apă pentru o explorare profundă a pădurii.",
-            "en": "Escape into the lush greenery of Desvres Forest to connect with native flora and fauna, packing some snacks and plenty of water for a deep woodland exploration."
+            "en": "Escape into the lush greenery of Desvres Forest to connect with native flora and fauna, packing some snacks and plenty of water for a deep woodland exploration.",
+            "fr": "Évadez-vous dans la verdure luxuriante de la Forêt de Desvres pour vous connecter à la flore et à la faune locales, en emportant quelques en-cas et beaucoup d'eau pour une longue exploration boisée."
           }
         },
         {
@@ -801,7 +887,8 @@
             "de": "Biologisches Schutzgebiet Basse Forêt 1",
             "hu": "Basse Forêt 1 Biológiai Rezervátum",
             "ro": "Rezervația biologică Basse Forêt 1",
-            "en": "Basse Forêt 1 Biological Reserve"
+            "en": "Basse Forêt 1 Biological Reserve",
+            "fr": "Réserve biologique Basse Forêt 1"
           },
           "coords": [
             1.804223,
@@ -816,7 +903,8 @@
             "de": "Wandern Sie durch dieses streng geschützte biologische Reservat, um die Artenvielfalt zu erleben, und bleiben Sie unbedingt auf den Wegen, um Tiere nicht zu stören.",
             "hu": "Sétáljon végig ezen a szigorúan védett biológiai rezervátumon, hogy tanúja legyen a tiszta biológiai sokféleségnek, és maradjon a kijelölt utakon a vadon védelméért.",
             "ro": "Plimbați-vă prin această rezervație biologică protejată pentru a asista la biodiversitatea imaculată, asigurându-vă că rămâneți pe poteci pentru a proteja animalele.",
-            "en": "Wander through this strictly protected biological reserve to witness pristine regional biodiversity, ensuring you stay completely on the marked paths to avoid disturbing wildlife."
+            "en": "Wander through this strictly protected biological reserve to witness pristine regional biodiversity, ensuring you stay completely on the marked paths to avoid disturbing wildlife.",
+            "fr": "Parcourez cette réserve biologique strictement protégée pour observer la biodiversité préservée de la région ; veillez à rester uniquement sur les sentiers balisés pour ne pas déranger la faune."
           }
         },
         {
@@ -824,7 +912,8 @@
             "de": "Biologisches Schutzgebiet Basse Forêt 2",
             "hu": "Basse Forêt 2 Biológiai Rezervátum",
             "ro": "Rezervația biologică Basse Forêt 2",
-            "en": "Basse Forêt 2 Biological Reserve"
+            "en": "Basse Forêt 2 Biological Reserve",
+            "fr": "Réserve biologique Basse Forêt 2"
           },
           "coords": [
             1.797067,
@@ -839,7 +928,8 @@
             "de": "Beenden Sie Ihren Naturtauchgang im zweiten Teil dieses reichen Reservats und bringen Sie ein Fernglas für hervorragende Vogelbeobachtungen zwischen den Bäumen mit.",
             "hu": "Zárja a természetjárást a gazdag biológiai rezervátum második szakaszában, és hozzon magával távcsövet a kiváló madármegfigyeléshez az öreg fák között.",
             "ro": "Încheiați-vă scufundarea în natură în a doua secțiune a acestei rezervații biologice, aducând un binoclu pentru o excelentă observare a păsărilor printre copacii vechi.",
-            "en": "Conclude your deep nature dive in the second section of this rich biological reserve, bringing a pair of binoculars for excellent birdwatching among the old-growth trees."
+            "en": "Conclude your deep nature dive in the second section of this rich biological reserve, bringing a pair of binoculars for excellent birdwatching among the old-growth trees.",
+            "fr": "Concluez votre immersion dans la nature dans la seconde section de cette riche réserve biologique ; emportez des jumelles pour un excellent observatoire ornithologique parmi les arbres anciens."
           }
         }
       ],
@@ -847,7 +937,8 @@
         "de": "Fahren Sie vom Rathaus zum Keramikmuseum für einen Morgen voller lokaler Geschichte und Kunst. Mittags besuchen Sie die Église Saint-Omer für eine ruhige Pause, bevor Sie in den riesigen Wald von Desvres fahren. Verbringen Sie den Nachmittag damit, die grünen Pfade der beiden biologischen Reservate zu erkunden, und lassen Sie den Abend in der natürlichen Schönheit der Region ausklingen.",
         "hu": "Vezessen a Városházától a kihagyhatatlan Kerámia Múzeumhoz egy helyi történelemmel teli délelőttért. Délben látogasson el az Église Saint-Omer templomba egy nyugodt szünetre, majd induljon a hatalmas Desvres erdőbe. Töltse a délutánt a két biológiai rezervátum buja ösvényeinek bejárásával, és koronázza meg az estét a régió természeti szépségében való elmélyüléssel.",
         "ro": "Conduceți de la Primărie spre Muzeul Ceramicii pentru o dimineață de istorie și artă locală. La prânz vizitați Biserica Saint-Omer pentru o pauză liniștită, înainte de a intra în vasta Pădure Desvres. Petreceți după-amiaza traversând potecile luxuriante ale celor două rezervații biologice, încheind seara complet cufundat în frumusețea naturală spectaculoasă a regiunii franceze.",
-        "en": "Drive off from the Town Hall to quickly reach the unmissable Ceramics Museum for a morning of local history and artistry. Midday brings you to Église Saint-Omer for a peaceful architectural pause before heading into the vast Desvres Forest. Spend your afternoon traversing the lush paths of the two biological reserves, capping off the evening deeply immersed in the region's natural beauty."
+        "en": "Drive off from the Town Hall to quickly reach the unmissable Ceramics Museum for a morning of local history and artistry. Midday brings you to Église Saint-Omer for a peaceful architectural pause before heading into the vast Desvres Forest. Spend your afternoon traversing the lush paths of the two biological reserves, capping off the evening deeply immersed in the region's natural beauty.",
+        "fr": "Partez de la mairie pour rejoindre rapidement l'incontournable Musée de la Céramique pour une matinée d'histoire locale et d'artisanat. À midi, rendez-vous à l'Église Saint-Omer pour une pause architecturale paisible avant d'aller dans la vaste Forêt de Desvres. Passez l'après-midi à parcourir les sentiers verdoyants des deux réserves biologiques et terminez la soirée profondément immergé dans la beauté naturelle de la région."
       },
       "variants": {
         "rainy": {
@@ -855,7 +946,8 @@
             "de": "Genießen Sie den Komfort Ihres Wagens zwischen den Stopps. Der Vormittag am Rathaus und der Mittag im Keramikmuseum sind ideal bei Regen. Die Fahrt durch den Wald von Desvres bietet auch bei schlechtem Wetter schöne Ausblicke durch die Scheiben. Am Abend ist die Rückkehr in die Stadt unkompliziert und trocken möglich.",
             "hu": "Élvezze autója kényelmét a megállók között. A délelőtt a városházánál, a délután pedig a múzeumban ideális választás esőben. A desvres-i erdőn keresztül vezető út rossz időben is szép látványt nyújt az autó ablakából. Este a visszatérés a városba egyszerű és garantáltan száraz marad.",
             "ro": "Bucurați-vă de confortul mașinii între opriri. Dimineața la primărie și prânzul la muzeul ceramicii sunt ideale pe ploaie. Drumul prin pădurea Desvres oferă vederi frumoase prin parbriz chiar și pe vreme rea. Seara, întoarcerea în oraș este simplă și vă garantează că rămâneți uscați.",
-            "en": "Enjoy the comfort of your car between stops. The morning at the town hall and noon at the ceramics museum are ideal rainy-day choices. The drive through Desvres Forest offers beautiful views from your window even in poor weather. In the evening, returning to town is easy and keeps you perfectly dry."
+            "en": "Enjoy the comfort of your car between stops. The morning at the town hall and noon at the ceramics museum are ideal rainy-day choices. The drive through Desvres Forest offers beautiful views from your window even in poor weather. In the evening, returning to town is easy and keeps you perfectly dry.",
+            "fr": "Profitez du confort de votre voiture entre les étapes. La matinée à la mairie et le midi au musée de la céramique sont des choix idéaux par temps de pluie. La route à travers la Forêt de Desvres offre de beaux panoramas depuis votre fenêtre même par mauvais temps. Le soir, retourner en ville est facile et vous garde parfaitement au sec."
           },
           "stops": [
             {
@@ -863,13 +955,15 @@
                 "de": "Rathaus Desvres",
                 "hu": "Desvres Városháza",
                 "ro": "Primăria Desvres",
-                "en": "Desvres Town Hall"
+                "en": "Desvres Town Hall",
+                "fr": "Mairie de Desvres"
               },
               "tip_5lang": {
                 "de": "Nutzen Sie die Parkplätze in direkter Nähe, um den Weg im Regen so kurz wie möglich zu halten.",
                 "hu": "Használja a közvetlen közelben lévő parkolókat, hogy az esőben megtett séta a lehető legrövidebb legyen.",
                 "ro": "Folosiți locurile de parcare din imediata apropiere pentru a menține scurta plimbarea prin ploaie.",
-                "en": "Use the parking spaces in the immediate vicinity to keep your walk in the rain as short as possible."
+                "en": "Use the parking spaces in the immediate vicinity to keep your walk in the rain as short as possible.",
+                "fr": "Utilisez les places de parking à proximité immédiate pour réduire au maximum votre marche sous la pluie."
               }
             },
             {
@@ -877,13 +971,15 @@
                 "de": "Keramikmuseum",
                 "hu": "Kerámia Múzeum",
                 "ro": "Muzeul Ceramicii",
-                "en": "Ceramics Museum"
+                "en": "Ceramics Museum",
+                "fr": "Musée de la Céramique"
               },
               "tip_5lang": {
                 "de": "Das Museum ist das Highlight an Regentagen; parken Sie bequem auf dem museumseigenen Parkplatz.",
                 "hu": "A múzeum a fénypont esős napokon; parkoljon kényelmesen a múzeum saját parkolójában.",
                 "ro": "Muzeul este punctul culminant în zilele ploioase; parcați convenabil în parcarea privată a muzeului.",
-                "en": "The museum is the highlight for rainy days; park conveniently in the museum's own parking lot."
+                "en": "The museum is the highlight for rainy days; park conveniently in the museum's own parking lot.",
+                "fr": "Le musée est le temps fort des jours de pluie ; garez-vous commodément dans le parking du musée."
               }
             },
             {
@@ -891,13 +987,15 @@
                 "de": "Kirche Saint-Omer",
                 "hu": "Saint-Omer Templom",
                 "ro": "Biserica Saint-Omer",
-                "en": "Église Saint-Omer"
+                "en": "Église Saint-Omer",
+                "fr": "Église Saint-Omer"
               },
               "tip_5lang": {
                 "de": "Ein schneller Stopp; bewundern Sie die Architektur und nutzen Sie das Kircheninnere als trockene Oase.",
                 "hu": "Gyors megálló; csodálja meg az építészetet, és használja a templombelsőt száraz oázisként.",
                 "ro": "O oprire rapidă; admirați arhitectura și folosiți interiorul bisericii ca pe o oază uscată.",
-                "en": "A quick stop; admire the architecture and use the church interior as a dry oasis from the weather."
+                "en": "A quick stop; admire the architecture and use the church interior as a dry oasis from the weather.",
+                "fr": "Un arrêt rapide ; admirez l'architecture et utilisez l'intérieur de l'église comme oasis sèche contre les intempéries."
               }
             },
             {
@@ -905,13 +1003,15 @@
                 "de": "Wald von Desvres",
                 "hu": "Desvres Erdő",
                 "ro": "Pădurea Desvres",
-                "en": "Desvres Forest"
+                "en": "Desvres Forest",
+                "fr": "Forêt de Desvres"
               },
               "tip_5lang": {
                 "de": "Die Waldstraßen sind gut befahrbar; genießen Sie die mystische Stimmung der nebligen Bäume vom Auto aus.",
                 "hu": "Az erdei utak jól járhatóak; élvezze a ködös fák misztikus hangulatát az autó biztonságából.",
                 "ro": "Drumurile forestiere sunt ușor practicabile; bucurați-vă de atmosfera mistică a copacilor în ceață din mașină.",
-                "en": "The forest roads are easily navigable; enjoy the mystical atmosphere of the misty trees from your car."
+                "en": "The forest roads are easily navigable; enjoy the mystical atmosphere of the misty trees from your car.",
+                "fr": "Les routes forestières sont facilement praticables ; profitez de l'atmosphère mystique des arbres embrumés depuis votre voiture."
               }
             },
             {
@@ -919,13 +1019,15 @@
                 "de": "Biologisches Schutzgebiet Basse Forêt 1",
                 "hu": "Basse Forêt 1 Biológiai Rezervátum",
                 "ro": "Rezervația biologică Basse Forêt 1",
-                "en": "Basse Forêt 1 Biological Reserve"
+                "en": "Basse Forêt 1 Biological Reserve",
+                "fr": "Réserve biologique Basse Forêt 1"
               },
               "tip_5lang": {
                 "de": "Ein kurzer Spaziergang mit Schirm lohnt sich, um die frische, feuchte Waldluft kurz einzuatmen.",
                 "hu": "Egy rövid esernyős séta megéri, hogy belélegezze a friss, párás erdei levegőt a rezervátum szélén.",
                 "ro": "O scurtă plimbare cu umbrela merită pentru a respira aerul proaspăt și umed al pădurii la marginea rezervației.",
-                "en": "A short walk with an umbrella is worth it to breathe in the fresh, damp forest air at the reserve's edge."
+                "en": "A short walk with an umbrella is worth it to breathe in the fresh, damp forest air at the reserve's edge.",
+                "fr": "Une courte promenade avec un parapluie vaut la peine pour respirer l'air frais et humide de la lisière de la réserve."
               }
             },
             {
@@ -933,13 +1035,15 @@
                 "de": "Biologisches Schutzgebiet Basse Forêt 2",
                 "hu": "Basse Forêt 2 Biológiai Rezervátum",
                 "ro": "Rezervația biologică Basse Forêt 2",
-                "en": "Basse Forêt 2 Biological Reserve"
+                "en": "Basse Forêt 2 Biological Reserve",
+                "fr": "Réserve biologique Basse Forêt 2"
               },
               "tip_5lang": {
                 "de": "Beobachten Sie das Regenwetter über dem Naturschutzgebiet von einem Aussichtspunkt an der Straße aus.",
                 "hu": "Figyelje meg az esős tájat a természetvédelmi terület felett az út menti kilátópontokról.",
                 "ro": "Observați peisajul ploios de deasupra rezervației naturale de la un punct de belvedere de pe marginea drumului.",
-                "en": "Observe the rainy landscape over the nature reserve from a roadside viewpoint while staying warm."
+                "en": "Observe the rainy landscape over the nature reserve from a roadside viewpoint while staying warm.",
+                "fr": "Observez le paysage pluvieux au-dessus de la réserve naturelle depuis un point de vue en bord de route tout en restant au chaud."
               }
             }
           ]
@@ -949,7 +1053,8 @@
             "de": "Starten Sie gemütlich mit eingeschalteter Heizung am Rathausplatz. Der Mittag im Keramikmuseum ist der perfekte warme Rückzugsort. Nutzen Sie das Tageslicht für die Fahrt durch die winterlichen Naturschutzgebiete, bevor es gegen 17:00 Uhr dunkel wird. Die verschneiten oder frostigen Wälder bieten vom Auto aus eine zauberhafte Kulisse.",
             "hu": "Kezdje a napot kényelmesen, bekapcsolt fűtéssel a városháza téren. A kerámiamúzeumban töltött idő a tökéletes meleg menedék délidőben. Használja ki a nappali fényt a téli rezervátumokon való átutazáshoz, mielőtt 17:00 körül besötétedik. A zúzmarás erdők varázslatos látványt nyújtanak az autó ablakából.",
             "ro": "Începeți ziua confortabil, cu căldura pornită, în piața primăriei. Prânzul la muzeul ceramicii este refugiul cald perfect. Profitați de lumina zilei pentru a conduce prin rezervațiile de iarnă înainte de a se întuneca în jur de ora 17:00. Pădurile înghețate oferă un decor magic văzut de la fereastra mașinii.",
-            "en": "Start your day comfortably with the heater on at the town hall square. Spending noon at the ceramics museum provides the perfect warm retreat. Use the daylight for driving through the winter reserves before it gets dark around 17:00. The frost-covered forests offer a magical backdrop from your car window."
+            "en": "Start your day comfortably with the heater on at the town hall square. Spending noon at the ceramics museum provides the perfect warm retreat. Use the daylight for driving through the winter reserves before it gets dark around 17:00. The frost-covered forests offer a magical backdrop from your car window.",
+            "fr": "Commencez la journée confortablement avec le chauffage allumé sur la place de la mairie. Passer le midi au musée de la céramique offre le refuge chaud idéal. Profitez de la lumière du jour pour conduire à travers les réserves hivernales avant la tombée de la nuit vers 17:00. Les forêts givrés offrent un décor magique depuis la vitre de votre voiture."
           },
           "stops": [
             {
@@ -957,13 +1062,15 @@
                 "de": "Rathaus Desvres",
                 "hu": "Desvres Városháza",
                 "ro": "Primăria Desvres",
-                "en": "Desvres Town Hall"
+                "en": "Desvres Town Hall",
+                "fr": "Mairie de Desvres"
               },
               "tip_5lang": {
                 "de": "Parken Sie kurz für ein Foto der winterlichen Fassade, bevor Sie die Fahrt im warmen Wagen fortsetzen.",
                 "hu": "Parkoljon le egy rövid fotóra a téli homlokzatról, mielőtt folytatná az utat a meleg autóban.",
                 "ro": "Parcați scurt pentru o fotografie a fațadei de iarnă înainte de a continua drumul în mașina încălzită.",
-                "en": "Park briefly for a photo of the winter facade before continuing your journey in the warmth of your car."
+                "en": "Park briefly for a photo of the winter facade before continuing your journey in the warmth of your car.",
+                "fr": "Garez-vous brièvement pour une photo de la façade hivernale avant de poursuivre votre trajet au chaud dans votre voiture."
               }
             },
             {
@@ -971,13 +1078,15 @@
                 "de": "Keramikmuseum",
                 "hu": "Kerámia Múzeum",
                 "ro": "Muzeul Ceramicii",
-                "en": "Ceramics Museum"
+                "en": "Ceramics Museum",
+                "fr": "Musée de la Céramique"
               },
               "tip_5lang": {
                 "de": "Ideal, um die Kälte draußen zu vergessen; die Parkplätze sind im Winter meist nah am Eingang geräumt.",
                 "hu": "Ideális hely a kinti hideg elfelejtésére; a parkolók télen is jól megközelíthetőek a bejárat közelében.",
                 "ro": "Ideal pentru a uita de frigul de afară; parcările sunt de obicei curățate aproape de intrare în timpul iernii.",
-                "en": "Ideal for forgetting the cold outside; the parking spaces are usually cleared close to the entrance in winter."
+                "en": "Ideal for forgetting the cold outside; the parking spaces are usually cleared close to the entrance in winter.",
+                "fr": "Idéal pour oublier le froid extérieur ; les emplacements de parking sont généralement déneigés près de l'entrée en hiver."
               }
             },
             {
@@ -985,13 +1094,15 @@
                 "de": "Kirche Saint-Omer",
                 "hu": "Saint-Omer Templom",
                 "ro": "Biserica Saint-Omer",
-                "en": "Église Saint-Omer"
+                "en": "Église Saint-Omer",
+                "fr": "Église Saint-Omer"
               },
               "tip_5lang": {
                 "de": "Die Architektur wirkt im harten Winterlicht besonders plastisch; ein kurzer Besuch im Inneren lohnt sich immer.",
                 "hu": "Az építészet különösen plasztikus a kemény téli fényben; egy rövid benti látogatás mindig megéri.",
                 "ro": "Arhitectura pare deosebit de plastică în lumina aspră a iernii; o scurtă vizită în interior merită întotdeauna.",
-                "en": "The architecture looks particularly striking in the harsh winter light; a brief visit inside is always worthwhile."
+                "en": "The architecture looks particularly striking in the harsh winter light; a brief visit inside is always worthwhile.",
+                "fr": "L'architecture est particulièrement saisissante sous la lumière hivernale intense ; une brève visite à l'intérieur vaut toujours le coup."
               }
             },
             {
@@ -999,13 +1110,15 @@
                 "de": "Wald von Desvres",
                 "hu": "Desvres Erdő",
                 "ro": "Pădurea Desvres",
-                "en": "Desvres Forest"
+                "en": "Desvres Forest",
+                "fr": "Forêt de Desvres"
               },
               "tip_5lang": {
                 "de": "Achten Sie auf Reifglätte auf den schattigen Waldwegen; die schneebedeckten Bäume sind ein tolles Fotomotiv.",
                 "hu": "Figyeljen a zúzmarás, csúszós szakaszokra az árnyékos erdei utakon; a havas fák nagyszerű fotótémát adnak.",
                 "ro": "Atenție la porțiunile înghețate de pe drumurile forestiere umbrite; copacii înzăpeziți sunt un subiect foto excelent.",
-                "en": "Watch out for icy patches on shaded forest roads; the frost-covered trees provide a great photo opportunity."
+                "en": "Watch out for icy patches on shaded forest roads; the frost-covered trees provide a great photo opportunity.",
+                "fr": "Attention aux plaques de verglas sur les routes ombragées de la forêt ; les arbres givrés offrent une belle occasion de photo."
               }
             },
             {
@@ -1013,13 +1126,15 @@
                 "de": "Biologisches Schutzgebiet Basse Forêt 1",
                 "hu": "Basse Forêt 1 Biológiai Rezervátum",
                 "ro": "Rezervația biologică Basse Forêt 1",
-                "en": "Basse Forêt 1 Biological Reserve"
+                "en": "Basse Forêt 1 Biological Reserve",
+                "fr": "Réserve biologique Basse Forêt 1"
               },
               "tip_5lang": {
                 "de": "Die Ruhe des Winters ist hier am intensivsten; genießen Sie die Stille bei einem winzigen Spaziergang.",
                 "hu": "A tél csendje itt a legintenzívebb; élvezze a nyugalmat egy egészen rövid, frissítő séta során.",
                 "ro": "Liniștea iernii este cea mai intensă aici; bucurați-vă de calm în timpul unei scurte plimbări revigorante.",
-                "en": "The winter silence is most intense here; enjoy the tranquility during a very short, refreshing walk."
+                "en": "The winter silence is most intense here; enjoy the tranquility during a very short, refreshing walk.",
+                "fr": "Le silence hivernal y est le plus profond ; profitez de la tranquillité lors d'une très courte promenade revigorante."
               }
             },
             {
@@ -1027,13 +1142,15 @@
                 "de": "Biologisches Schutzgebiet Basse Forêt 2",
                 "hu": "Basse Forêt 2 Biológiai Rezervátum",
                 "ro": "Rezervația biologică Basse Forêt 2",
-                "en": "Basse Forêt 2 Biological Reserve"
+                "en": "Basse Forêt 2 Biological Reserve",
+                "fr": "Réserve biologique Basse Forêt 2"
               },
               "tip_5lang": {
                 "de": "Beenden Sie Ihre Tour hier pünktlich zum Sonnenuntergang, bevor die Dunkelheit die Waldstraßen einhüllt.",
                 "hu": "Zárja itt a túrát pontosan naplementekor, mielőtt a sötétség teljesen beborítaná az erdei utakat.",
                 "ro": "Încheiați turul aici exact la apus, înainte ca întunericul să cuprindă complet drumurile forestiere.",
-                "en": "Finish your tour here just in time for sunset, before darkness completely envelops the forest roads."
+                "en": "Finish your tour here just in time for sunset, before darkness completely envelops the forest roads.",
+                "fr": "Terminez votre circuit ici juste à temps pour le coucher du soleil, avant que l'obscurité n'enveloppe complètement les routes forestières."
               }
             }
           ]

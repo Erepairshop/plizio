@@ -31,7 +31,8 @@
             "de": "Achten Sie auf die flämischen Barockfassaden mit ihren Giebeln.",
             "hu": "Figyeld meg a flamand barokk házsorok díszes oromzatait.",
             "ro": "Admirați fațadele baroce flamande cu frontoane decorate.",
-            "en": "Look up at the Flemish Baroque facades and their unique gables."
+            "en": "Look up at the Flemish Baroque facades and their unique gables.",
+            "fr": "Levez les yeux vers les façades baroques flamandes et leurs pignons uniques."
           }
         },
         {
@@ -49,7 +50,8 @@
             "de": "Der Aufstieg auf den UNESCO-Beffroi bietet den besten Stadtblick.",
             "hu": "Az UNESCO világörökség harangtoronyból nyílik a legjobb kilátás.",
             "ro": "Urcarea în turnul UNESCO oferă cea mai bună panoramă a orașului.",
-            "en": "Climbing the UNESCO belfry offers the best panoramic city view."
+            "en": "Climbing the UNESCO belfry offers the best panoramic city view.",
+            "fr": "La montée au beffroi classé par l’UNESCO offre la meilleure vue panoramique sur la ville."
           }
         },
         {
@@ -67,7 +69,8 @@
             "de": "Unterirdischer Rundgang durch die mittelalterlichen Kreidekeller.",
             "hu": "Föld alatti túra a középkori mészkőpincékben a főtér alatt.",
             "ro": "Tur subteran prin pivnițele de cretă medievale de sub piețe.",
-            "en": "Underground tour through medieval chalk cellars beneath the squares."
+            "en": "Underground tour through medieval chalk cellars beneath the squares.",
+            "fr": "Visite souterraine à travers les caves médiévales de craie sous les places."
           }
         },
         {
@@ -85,7 +88,8 @@
             "de": "Eine klassizistische Kathedrale mit beeindruckend hellem Innenraum.",
             "hu": "Klasszicista stílusú székesegyház hatalmas, világos belső térrel.",
             "ro": "Catedrală clasicistă cu un interior impresionant de luminos.",
-            "en": "A classicist cathedral featuring an impressively bright interior."
+            "en": "A classicist cathedral featuring an impressively bright interior.",
+            "fr": "Une cathédrale néoclassique présentant un intérieur remarquablement lumineux."
           }
         },
         {
@@ -103,7 +107,8 @@
             "de": "Beherbergt das Musée des Beaux-Arts in einem prächtigen Abteibau.",
             "hu": "A Szépművészeti Múzeumnak otthont adó monumentális apátság.",
             "ro": "Găzduiește Muzeul de Arte Frumoase într-o fostă abație grandioasă.",
-            "en": "Houses the Fine Arts Museum within a magnificent abbey building."
+            "en": "Houses the Fine Arts Museum within a magnificent abbey building.",
+            "fr": "Abrite le Musée des Beaux‑Arts dans un magnifique bâtiment d’abbaye."
           }
         },
         {
@@ -121,7 +126,8 @@
             "de": "Die von Vauban entworfene Festung ist heute ein ruhiger Park.",
             "hu": "Vauban erődítménye, amely ma békés parkként és emlékhelyként üzemel.",
             "ro": "Fortăreața proiectată de Vauban este astăzi un parc liniștit.",
-            "en": "The fortress designed by Vauban is now a peaceful public park."
+            "en": "The fortress designed by Vauban is now a peaceful public park.",
+            "fr": "La forteresse conçue par Vauban est aujourd’hui un parc public paisible."
           }
         },
         {
@@ -139,7 +145,8 @@
             "de": "Ein berührendes Museum in den Tunneln des Ersten Weltkriegs.",
             "hu": "Megható múzeum az első világháborús alagútrendszer mélyén.",
             "ro": "Un muzeu emoționant în tunelurile din Primul Război Mondial.",
-            "en": "A moving museum located in the tunnels of the First World War."
+            "en": "A moving museum located in the tunnels of the First World War.",
+            "fr": "Un musée émouvant situé dans les galeries de la Première Guerre mondiale."
           }
         }
       ],
@@ -147,7 +154,8 @@
         "de": "Der Tag beginnt auf der Grand'Place, umgeben von 155 Barockhäusern. Nach dem Aufstieg auf den Beffroi erkunden wir das unterirdische Arras in den Boves. Der Nachmittag gehört der klassischen Eleganz der Abtei Saint-Vaast und der Kathedrale. Wir beenden die Tour an der Citadelle und dem Carrière Wellington, Zeugen der bewegten Militärgeschichte der Stadt.",
         "hu": "A napot a Grand'Place-on kezdjük, ahol 155 egyedi barokk homlokzat vesz körül. A harangtorony megmászása után a föld alá ereszkedünk a Boves járataiba. Délután a Saint-Vaast apátság és a katedrális művészeti kincseit fedezzük fel, majd a Citadella és a Wellington-emlékhely katonai történelmével zárjuk a sétát.",
         "ro": "Ziua începe în Grand'Place, înconjurată de 155 de case baroce. După urcarea în Beffroi, explorăm Arrasul subteran în Les Boves. După-amiaza este dedicată eleganței clasice a Abației Saint-Vaast și a catedralei. Încheiem turul la Citadelă și Carrière Wellington, martori ai istoriei militare zbuciumate a orașului.",
-        "en": "Start the day at the Grand'Place, surrounded by 155 unique Baroque facades. After climbing the UNESCO belfry, explore the underground world of Les Boves. Spend the afternoon admiring the art at Saint-Vaast Abbey and the cathedral, finishing with a visit to the Vauban Citadel and the moving Wellington Quarry museum."
+        "en": "Start the day at the Grand'Place, surrounded by 155 unique Baroque facades. After climbing the UNESCO belfry, explore the underground world of Les Boves. Spend the afternoon admiring the art at Saint-Vaast Abbey and the cathedral, finishing with a visit to the Vauban Citadel and the moving Wellington Quarry museum.",
+        "fr": "Commencez la journée à la Grand'Place, entourée de 155 façades baroques uniques. Après avoir gravi le beffroi inscrit à l’UNESCO, explorez le monde souterrain des Boves. Passez l’après‑midi à admirer les œuvres à l’abbaye Saint‑Vaast et la cathédrale, et terminez par une visite de la citadelle de Vauban et du musée émouvant de la Carrière Wellington."
       },
       "gastro_picks": {
         "de": [
@@ -307,6 +315,12 @@
           "Book your tickets for the Belfry climb in advance, especially on market days.",
           "The Wellington Quarry is about a 15-20 minute walk from the city center.",
           "Arras is very pedestrian-friendly; most key sights are clustered near the squares."
+        ],
+        "fr": [
+          "Les deux places principales sont presque entièrement voûtées en dessous ; une visite des Boves est incontournable.",
+          "Réservez vos billets pour la montée du beffroi à l’avance, surtout les jours de marché.",
+          "La Carrière Wellington se situe à environ 15–20 minutes à pied du centre‑ville.",
+          "Arras est très favorable aux piétons ; la plupart des principaux sites sont regroupés près des places."
         ]
       }
     },
@@ -333,7 +347,8 @@
             "de": "Starten Sie Ihre Radtour auf dem imposanten Marktplatz.",
             "hu": "Kezdd a bringatúrát a lenyűgöző flamand piacon.",
             "ro": "Începeți turul cu bicicleta în piața centrală grandioasă.",
-            "en": "Start your cycling tour in the grand Flemish marketplace."
+            "en": "Start your cycling tour in the grand Flemish marketplace.",
+            "fr": "Commencez votre circuit à vélo sur la grande place flamande."
           }
         },
         {
@@ -351,7 +366,8 @@
             "de": "Parken Sie kurz für ein Foto vom Rathaus.",
             "hu": "Állj meg egy fotóra a városháza előtt.",
             "ro": "Opriți pentru o fotografie în fața primăriei.",
-            "en": "Park briefly for a photo in front of the town hall."
+            "en": "Park briefly for a photo in front of the town hall.",
+            "fr": "Faites une brève halte pour une photo devant l’hôtel de ville."
           }
         },
         {
@@ -369,7 +385,8 @@
             "de": "UNESCO-Weltkulturerbe mit weitem Rundblick.",
             "hu": "Világörökségi helyszín pazar körpanorámával.",
             "ro": "Sit UNESCO cu o vedere panoramică vastă.",
-            "en": "UNESCO world heritage site with a vast circular view."
+            "en": "UNESCO world heritage site with a vast circular view.",
+            "fr": "Site du patrimoine mondial de l’UNESCO offrant une vaste vue circulaire."
           }
         },
         {
@@ -387,7 +404,8 @@
             "de": "Großer Innenhof, ideal zum Abstellen der Räder.",
             "hu": "Hatalmas belső udvar, ideális a biciklik lezárásához.",
             "ro": "Curte interioară mare, ideală pentru parcat bicicletele.",
-            "en": "Large inner courtyard, perfect for parking your bikes."
+            "en": "Large inner courtyard, perfect for parking your bikes.",
+            "fr": "Grandes cours intérieures, parfaites pour stationner vos vélos."
           }
         },
         {
@@ -405,7 +423,8 @@
             "de": "Besuchen Sie das helle Kirchenschiff.",
             "hu": "Nézd meg a katedrális monumentális, világos hajóját.",
             "ro": "Vizitați nava luminoasă a catedralei.",
-            "en": "Visit the monumental and bright cathedral nave."
+            "en": "Visit the monumental and bright cathedral nave.",
+            "fr": "Visitez la nef monumentale et lumineuse de la cathédrale."
           }
         },
         {
@@ -423,7 +442,8 @@
             "de": "Radfahren auf den Wallanlagen von Vauban.",
             "hu": "Biciklizés a Vauban-féle várfalak mentén.",
             "ro": "Ciclism de-a lungul zidurilor cetății Vauban.",
-            "en": "Cycling along the impressive Vauban fortress walls."
+            "en": "Cycling along the impressive Vauban fortress walls.",
+            "fr": "Roulez le long des impressionnants remparts de la forteresse Vauban."
           }
         },
         {
@@ -441,7 +461,8 @@
             "de": "Das Museum bietet Fahrradständer direkt am Eingang.",
             "hu": "A múzeum bejáratánál kiépített biciklitárolók vannak.",
             "ro": "Muzeul oferă rasteluri de biciclete chiar la intrare.",
-            "en": "The museum provides bike racks right by the entrance."
+            "en": "The museum provides bike racks right by the entrance.",
+            "fr": "Le musée offre des arceaux à vélos juste à l’entrée."
           }
         }
       ],
@@ -449,7 +470,8 @@
         "de": "Mit dem Fahrrad lässt sich Arras effizient erkunden. Von den historischen Plätzen im Zentrum radeln wir zur monumentalen Abtei. Der Weg zur Vauban-Zitadelle führt durch grüne Alleen. Zum Abschluss besuchen wir die Carrière Wellington am Stadtrand, die mit dem Rad in wenigen Minuten erreichbar ist.",
         "hu": "Kerékpárral Arras kényelmesen és gyorsan bejárható. A történelmi főterekről áttekerünk a monumentális apátsághoz, majd a zöld sugárutakon a Vauban-citadellához látogatunk. A napot a város szélén található Wellington-emlékhelynél zárjuk, ami biciklivel pár perc alatt elérhető.",
         "ro": "Cu bicicleta, Arras poate fi explorat eficient. De la piețele istorice din centru, pedalăm spre abația monumentală. Drumul către citadela Vauban trece prin alei verzi. La final, vizităm Carrière Wellington de la marginea orașului, accesibilă în câteva minute cu bicicleta.",
-        "en": "Explore Arras efficiently on two wheels. Cycle from the historic central squares to the monumental abbey, then take the leafy avenues to the Vauban Citadel. End your tour at the Wellington Quarry on the outskirts, easily reachable by bike within minutes."
+        "en": "Explore Arras efficiently on two wheels. Cycle from the historic central squares to the monumental abbey, then take the leafy avenues to the Vauban Citadel. End your tour at the Wellington Quarry on the outskirts, easily reachable by bike within minutes.",
+        "fr": "Explorez Arras efficacement sur deux roues. Partez des places centrales historiques jusqu’à l’abbaye monumentale, puis empruntez les avenues ombragées jusqu’à la citadelle Vauban. Terminez votre circuit à la Carrière Wellington en périphérie, facilement accessible à vélo en quelques minutes."
       },
       "gastro_picks": {
         "de": [
@@ -553,6 +575,11 @@
           "Use the free bicycle parking available at the train station.",
           "Be careful with the cobblestones in the historic old town.",
           "The Citadel area is almost entirely accessible by bicycle."
+        ],
+        "fr": [
+          "Utilisez le stationnement vélo gratuit disponible à la gare.",
+          "Faites attention aux pavés dans la vieille ville historique.",
+          "Le secteur de la citadelle est presque entièrement praticable à vélo."
         ]
       }
     },
@@ -579,7 +606,8 @@
             "de": "Tiefgarage unter der Grand'Place nutzen.",
             "hu": "Használd a Grand'Place alatti mélygarázst.",
             "ro": "Folosiți parcarea subterană de sub Grand'Place.",
-            "en": "Use the underground parking beneath Grand'Place."
+            "en": "Use the underground parking beneath Grand'Place.",
+            "fr": "Utilisez le parking souterrain sous la Grand'Place."
           }
         },
         {
@@ -597,7 +625,8 @@
             "de": "Zu Fuß erreichbar vom Parkhaus Grand'Place.",
             "hu": "Gyalogos távolságra a Grand'Place parkolótól.",
             "ro": "Accesibil pe jos din parcarea Grand'Place.",
-            "en": "Within walking distance from the Grand'Place parking."
+            "en": "Within walking distance from the Grand'Place parking.",
+            "fr": "À distance de marche depuis le parking de la Grand'Place."
           }
         },
         {
@@ -615,7 +644,8 @@
             "de": "Der Eingang befindet sich im Rathaus.",
             "hu": "A bejárat a Városháza épületében van.",
             "ro": "Intrarea se află în clădirea primăriei.",
-            "en": "The entrance is located inside the Town Hall."
+            "en": "The entrance is located inside the Town Hall.",
+            "fr": "L’entrée se trouve à l’intérieur de l’hôtel de ville."
           }
         },
         {
@@ -633,7 +663,8 @@
             "de": "Kurze Fahrt zum Cluster Abtei/Kathedrale.",
             "hu": "Rövid gurulás az Apátság/Katedrális negyedbe.",
             "ro": "Scurtă deplasare către zona Abație/Catedrală.",
-            "en": "Short drive to the Abbey/Cathedral cluster."
+            "en": "Short drive to the Abbey/Cathedral cluster.",
+            "fr": "Courte route jusqu’au groupe Abbaye/Cathédrale."
           }
         },
         {
@@ -651,7 +682,8 @@
             "de": "Parkplätze in der Nähe der Abtei vorhanden.",
             "hu": "Az apátság közelében találhatók parkolóhelyek.",
             "ro": "Parcări disponibile în apropierea abației.",
-            "en": "Parking spaces available near the abbey."
+            "en": "Parking spaces available near the abbey.",
+            "fr": "Places de parking disponibles près de l’abbaye."
           }
         },
         {
@@ -669,7 +701,8 @@
             "de": "Großer kostenloser Parkplatz direkt am Museum.",
             "hu": "Hatalmas ingyenes parkoló a múzeum mellett.",
             "ro": "Parcare gratuită mare direct la muzeu.",
-            "en": "Large free parking lot directly at the museum."
+            "en": "Large free parking lot directly at the museum.",
+            "fr": "Grand parking gratuit directement au musée."
           }
         },
         {
@@ -687,7 +720,8 @@
             "de": "Parken am Eingang der Zitadelle.",
             "hu": "Parkolás közvetlenül a Citadella bejáratánál.",
             "ro": "Parcare la intrarea în citadelă.",
-            "en": "Parking available at the citadel entrance."
+            "en": "Parking available at the citadel entrance.",
+            "fr": "Parking disponible à l’entrée de la citadelle."
           }
         }
       ],
@@ -695,7 +729,8 @@
         "de": "Diese Autotour verbindet das historische Zentrum mit den Außenbezirken. Wir nutzen die Tiefgarage an der Grand'Place für den Kernbereich, fahren dann bequem zur Abtei und schließen den Tag an der Carrière Wellington und der Zitadelle ab, wo Parken problemlos möglich ist.",
         "hu": "Ez az autós túra összeköti a történelmi központot a külvárosi részekkel. A belváros felfedezéséhez a Grand'Place mélygarázsát használjuk, majd kényelmesen átgurulunk az apátsághoz, végül a Wellington-emlékhelynél és a Citadellánál zárjuk a napot.",
         "ro": "Acest tur cu mașina conectează centrul istoric cu zonele periferice. Folosim parcarea subterană din Grand'Place pentru zona centrală, apoi mergem confortabil la abație și încheiem ziua la Carrière Wellington și Citadelă, unde parcarea este facilă.",
-        "en": "This car tour links the historic center with the outer districts. Use the underground parking at Grand'Place for the core area, then drive conveniently to the abbey, finishing the day at the Wellington Quarry and the Citadel, where parking is easy to find."
+        "en": "This car tour links the historic center with the outer districts. Use the underground parking at Grand'Place for the core area, then drive conveniently to the abbey, finishing the day at the Wellington Quarry and the Citadel, where parking is easy to find.",
+        "fr": "Cette boucle en voiture relie le centre historique aux quartiers extérieurs. Utilisez le parking souterrain de la Grand'Place pour la zone centrale, puis conduisez facilement jusqu’à l’abbaye, en terminant la journée à la Carrière Wellington et à la citadelle, où le stationnement est facile à trouver."
       },
       "gastro_picks": {
         "de": [
@@ -799,6 +834,11 @@
           "Grand'Place parking is often cheaper on Sundays.",
           "Center streets are narrow; it's better to use designated parking garages.",
           "The Wellington Quarry has its own dedicated parking for visitors."
+        ],
+        "fr": [
+          "Le parking de la Grand'Place est souvent moins cher le dimanche.",
+          "Les rues du centre sont étroites ; il vaut mieux utiliser les parkings couverts désignés.",
+          "La Carrière Wellington dispose d’un parking dédié pour les visiteurs."
         ]
       }
     },
@@ -825,7 +865,8 @@
             "de": "Vom Bahnhof Arras in 10 Min. zu Fuß erreichbar.",
             "hu": "Az állomástól 10 perc sétára található.",
             "ro": "Accesibil în 10 minute de mers pe jos de la gară.",
-            "en": "Reachable in 10 minutes on foot from Arras station."
+            "en": "Reachable in 10 minutes on foot from Arras station.",
+            "fr": "Accessible en 10 minutes à pied depuis la gare d’Arras."
           }
         },
         {
@@ -843,7 +884,8 @@
             "de": "Das Herz der Stadt, direkt neben den Plätzen.",
             "hu": "A város szíve, közvetlenül a főterek mellett.",
             "ro": "Inima orașului, chiar lângă piețele centrale.",
-            "en": "The heart of the city, right next to the squares."
+            "en": "The heart of the city, right next to the squares.",
+            "fr": "Le cœur de la ville, juste à côté des places."
           }
         },
         {
@@ -861,7 +903,8 @@
             "de": "Tickets im Tourismusbüro im Rathaus.",
             "hu": "Jegyek a városházán lévő turisztikai irodában.",
             "ro": "Bilete la biroul de turism din primărie.",
-            "en": "Tickets at the tourism office inside the Town Hall."
+            "en": "Tickets at the tourism office inside the Town Hall.",
+            "fr": "Billets à l’office de tourisme situé dans l’hôtel de ville."
           }
         },
         {
@@ -879,7 +922,8 @@
             "de": "Nutzen Sie den Shuttle 'Ma Citadine' (Elektrobus).",
             "hu": "Használd a 'Ma Citadine' elektromos buszjáratot.",
             "ro": "Folosiți naveta 'Ma Citadine' (autobuz electric).",
-            "en": "Use the 'Ma Citadine' electric shuttle bus."
+            "en": "Use the 'Ma Citadine' electric shuttle bus.",
+            "fr": "Utilisez la navette électrique 'Ma Citadine'."
           }
         },
         {
@@ -897,7 +941,8 @@
             "de": "Direkt neben der Abtei gelegen.",
             "hu": "Közvetlenül az apátság mellett található.",
             "ro": "Situată chiar lângă abație.",
-            "en": "Located right next to the abbey complex."
+            "en": "Located right next to the abbey complex.",
+            "fr": "Situé juste à côté du complexe de l’abbaye."
           }
         },
         {
@@ -915,7 +960,8 @@
             "de": "Buslinie 1 oder 4 ab dem Stadtzentrum.",
             "hu": "1-es vagy 4-es busz a belvárosból.",
             "ro": "Linia de autobuz 1 sau 4 din centrul orașului.",
-            "en": "Bus line 1 or 4 from the city center."
+            "en": "Bus line 1 or 4 from the city center.",
+            "fr": "Ligne de bus 1 ou 4 depuis le centre‑ville."
           }
         },
         {
@@ -933,7 +979,8 @@
             "de": "Bushaltestelle 'Citadelle' direkt am Tor.",
             "hu": "'Citadelle' buszmegálló közvetlenül a kapunál.",
             "ro": "Stația de autobuz 'Citadelle' chiar la poartă.",
-            "en": "Bus stop 'Citadelle' located right at the gate."
+            "en": "Bus stop 'Citadelle' located right at the gate.",
+            "fr": "Arrêt de bus 'Citadelle' situé juste à la porte."
           }
         }
       ],
@@ -941,7 +988,8 @@
         "de": "Dank des kostenlosen Elektro-Shuttles 'Ma Citadine' ist das Zentrum von Arras ideal mit dem ÖPNV zu erkunden. Wir starten an den Plätzen, besuchen die kulturellen Highlights wie die Abtei und nutzen die Stadtbusse, um die etwas entfernteren Orte wie die Carrière Wellington und die Zitadelle bequem zu erreichen.",
         "hu": "A 'Ma Citadine' nevű ingyenes elektromos busznak köszönhetően Arras központja tömegközlekedéssel is remekül bejárható. A főterektől indulunk, megnézzük az apátságot, majd a helyi buszokat használva látogatunk el a távolabbi Wellington-emlékhelyhez és a Citadellához.",
         "ro": "Datorită navetei electrice gratuite 'Ma Citadine', centrul orașului Arras este ideal de explorat cu transportul public. Începem de la piețe, vizităm reperele culturale precum abația și folosim autobuzele urbane pentru a ajunge la obiectivele mai îndepărtate.",
-        "en": "Arras is easy to explore via transit thanks to the free 'Ma Citadine' electric shuttle. Start at the squares, visit cultural highlights like the abbey, and use the local bus network to comfortably reach sites like the Wellington Quarry and the Vauban Citadel."
+        "en": "Arras is easy to explore via transit thanks to the free 'Ma Citadine' electric shuttle. Start at the squares, visit cultural highlights like the abbey, and use the local bus network to comfortably reach sites like the Wellington Quarry and the Vauban Citadel.",
+        "fr": "Arras se parcourt facilement en transport grâce à la navette électrique gratuite 'Ma Citadine'. Commencez aux places, visitez des sites culturels comme l’abbaye, et utilisez le réseau de bus local pour rejoindre confortablement des lieux comme la Carrière Wellington et la citadelle Vauban."
       },
       "gastro_picks": {
         "de": [
@@ -1045,6 +1093,11 @@
           "The 'Ma Citadine' shuttle is free for everyone to use.",
           "Bus frequencies are slightly lower on Saturdays.",
           "The Grand'Place is just a few minutes' walk from the train station."
+        ],
+        "fr": [
+          "La navette 'Ma Citadine' est gratuite pour tous les usagers.",
+          "Les fréquences de bus sont légèrement réduites le samedi.",
+          "La Grand'Place est à quelques minutes à pied de la gare."
         ]
       }
     }

@@ -21,7 +21,8 @@
             "en": "Church of the Assumption",
             "de": "Kirche Mariä Himmelfahrt",
             "hu": "Nagyboldogasszony-templom",
-            "ro": "Biserica Adormirea Maicii Domnului"
+            "ro": "Biserica Adormirea Maicii Domnului",
+            "fr": "Église de l'Assomption"
           },
           "coords": [
             4.450689,
@@ -36,7 +37,8 @@
             "en": "Admire the historic architecture of this central church, an enduring community pillar, and look closely at the stunning stained glass in the morning light.",
             "de": "Bewundern Sie die historische Architektur dieser zentralen Kirche, ein beständiger Pfeiler der Gemeinde, und betrachten Sie die Buntglasfenster im Morgenlicht.",
             "hu": "Csodálja meg a központi templom történelmi építészetét, a közösség tartópillérét, és figyelje meg közelebbről a lenyűgöző ólomüveg ablakokat a reggeli fényben.",
-            "ro": "Admirați arhitectura istorică a acestei biserici centrale, un pilon al comunității, și priviți îndeaproape vitraliile uimitoare în lumina proaspătă a dimineții."
+            "ro": "Admirați arhitectura istorică a acestei biserici centrale, un pilon al comunității, și priviți îndeaproape vitraliile uimitoare în lumina proaspătă a dimineții.",
+            "fr": "Admirez l'architecture historique de cette église centrale, pilier durable de la communauté, et observez de près les magnifiques vitraux à la lumière du matin."
           }
         },
         {
@@ -44,7 +46,8 @@
             "en": "Sorbiers Town Hall",
             "de": "Rathaus Sorbiers",
             "hu": "Sorbiers Városháza",
-            "ro": "Primăria Sorbiers"
+            "ro": "Primăria Sorbiers",
+            "fr": "Mairie de Sorbiers"
           },
           "coords": [
             4.449573,
@@ -59,7 +62,8 @@
             "en": "Appreciate the classic civic design of the Town Hall, the administrative heart of Sorbiers, and check the notice boards outside for upcoming local events.",
             "de": "Schätzen Sie das klassische bürgerliche Design des Rathauses, dem administrativen Herzen von Sorbiers, und prüfen Sie die Aushänge für lokale Veranstaltungen.",
             "hu": "Értékelje a Városháza klasszikus polgári kialakítását, Sorbiers adminisztratív szívét, és ellenőrizze a külső hirdetőtáblákat a közelgő helyi eseményekért.",
-            "ro": "Apreciați designul civic clasic al Primăriei, inima administrativă din Sorbiers, și verificați panourile informative exterioare pentru evenimentele locale."
+            "ro": "Apreciați designul civic clasic al Primăriei, inima administrativă din Sorbiers, și verificați panourile informative exterioare pentru evenimentele locale.",
+            "fr": "Appréciez le design civique classique de la mairie, cœur administratif de Sorbiers, et consultez les panneaux d'affichage extérieurs pour les événements locaux à venir."
           }
         },
         {
@@ -67,7 +71,8 @@
             "en": "l'Éloize Cultural Space",
             "de": "Kulturzentrum l'Éloize",
             "hu": "l'Éloize Kulturális Tér",
-            "ro": "Spațiul Cultural l'Éloize"
+            "ro": "Spațiul Cultural l'Éloize",
+            "fr": "Espace culturel l'Éloize"
           },
           "coords": [
             4.446874,
@@ -82,7 +87,8 @@
             "en": "Explore this modern cultural hub which hosts vibrant exhibitions and performances, but make sure to confirm the gallery opening hours before your visit.",
             "de": "Erkunden Sie dieses moderne Kulturzentrum, das lebhafte Ausstellungen beherbergt, aber bestätigen Sie unbedingt die Öffnungszeiten der Galerie vor Ihrem Besuch.",
             "hu": "Fedezze fel ezt a modern kulturális központot, amely élénk kiállításoknak ad otthont, de látogatás előtt mindenképpen ellenőrizze a galéria nyitvatartási idejét.",
-            "ro": "Explorați acest centru cultural modern care găzduiește expoziții vibrante, dar asigurați-vă că verificați programul de funcționare al galeriei înainte de vizită."
+            "ro": "Explorați acest centru cultural modern care găzduiește expoziții vibrante, dar asigurați-vă că verificați programul de funcționare al galeriei înainte de vizită.",
+            "fr": "Explorez ce pôle culturel moderne qui accueille des expositions et spectacles dynamiques, mais veillez à confirmer les heures d'ouverture de la galerie avant votre visite."
           }
         },
         {
@@ -90,7 +96,8 @@
             "en": "Croix Blanche",
             "de": "Croix Blanche (Weißes Kreuz)",
             "hu": "Croix Blanche (Fehér Kereszt)",
-            "ro": "Crucea Albă"
+            "ro": "Crucea Albă",
+            "fr": "Croix Blanche"
           },
           "coords": [
             4.446102,
@@ -105,7 +112,8 @@
             "en": "Pause at this historical white stone cross marking an ancient crossroads, and use this quiet spot to capture some charming photos of the nearby streets.",
             "de": "Halten Sie an diesem historischen weißen Steinkreuz an einer alten Kreuzung und nutzen Sie diesen ruhigen Ort, um reizvolle Fotos der nahegelegenen Straßen zu machen.",
             "hu": "Tartson szünetet ennél az ősi kereszteződést jelző történelmi fehér kőkeresztnél, és használja ezt a csendes helyet a közeli utcák hangulatos fotózására.",
-            "ro": "Faceți o pauză la această cruce istorică din piatră albă ce marchează o răscruce veche și folosiți acest loc liniștit pentru a face fotografii fermecătoare."
+            "ro": "Faceți o pauză la această cruce istorică din piatră albă ce marchează o răscruce veche și folosiți acest loc liniștit pentru a face fotografii fermecătoare.",
+            "fr": "Faites une pause à cette croix de pierre blanche historique marquant un ancien carrefour, et utilisez ce coin tranquille pour prendre de charmantes photos des rues voisines."
           }
         },
         {
@@ -113,7 +121,8 @@
             "en": "Croix Rouge",
             "de": "Croix Rouge (Rotes Kreuz)",
             "hu": "Croix Rouge (Piros Kereszt)",
-            "ro": "Crucea Roșie"
+            "ro": "Crucea Roșie",
+            "fr": "Croix Rouge"
           },
           "coords": [
             4.445571,
@@ -128,7 +137,8 @@
             "en": "Discover this distinct red cross monument that reflects local religious heritage, and take a moment to rest on a nearby bench while enjoying the view.",
             "de": "Entdecken Sie dieses markante rote Kreuz, das das lokale religiöse Erbe widerspiegelt, und ruhen Sie sich auf einer nahegelegenen Bank aus, um die Aussicht zu genießen.",
             "hu": "Fedezze fel ezt a jellegzetes piros kereszt emlékművet, amely a helyi vallási örökséget tükrözi, és pihenjen meg egy közeli padon, miközben élvezi a kilátást.",
-            "ro": "Descoperiți acest monument distinctiv al crucii roșii care reflectă moștenirea religioasă locală și odihniți-vă pe o bancă din apropiere bucurându-vă de peisaj."
+            "ro": "Descoperiți acest monument distinctiv al crucii roșii care reflectă moștenirea religioasă locală și odihniți-vă pe o bancă din apropiere bucurându-vă de peisaj.",
+            "fr": "Découvrez cette croix rouge distincte qui reflète le patrimoine religieux local, et prenez un instant pour vous reposer sur un banc proche en profitant de la vue."
           }
         }
       ],
@@ -136,7 +146,8 @@
         "en": "Morning: Start your day in the historic center, admiring the Church of the Assumption before visiting the bustling Town Hall square.\n\nMidday: Discover the vibrant heart of the town by exploring the artistic exhibitions and cultural offerings at the modern l'Éloize Cultural Space.\n\nAfternoon: Enjoy a leisurely walk past the historical Croix Blanche and Croix Rouge, marking ancient intersections.\n\nEvening: Conclude your tour by soaking in the twilight ambiance of the central streets, savoring the peaceful atmosphere.",
         "de": "Morgen: Beginnen Sie Ihren Tag im historischen Zentrum und bewundern Sie die Kirche Mariä Himmelfahrt vor dem Rathausplatz.\n\nMittag: Entdecken Sie das lebhafte Herz der Stadt, indem Sie die Ausstellungen im modernen Kulturzentrum l'Éloize erkunden.\n\nNachmittag: Genießen Sie einen Spaziergang vorbei an den historischen Kreuzen Croix Blanche und Croix Rouge.\n\nAbend: Beenden Sie Ihre Tour, indem Sie die abendliche Atmosphäre der zentralen Straßen und die friedliche Stimmung der Stadt auf sich wirken lassen.",
         "hu": "Reggel: Kezdje a napot a történelmi központban, és csodálja meg a Nagyboldogasszony-templomot, mielőtt a Városháza terére látogatna.\n\nDélben: Fedezze fel a város szívét a modern l'Éloize Kulturális Tér művészeti kiállításainak megtekintésével.\n\nDélután: Élvezze a kényelmes sétát a történelmi Croix Blanche és Croix Rouge mellett, amelyek ősi kereszteződéseket jeleznek.\n\nEste: Fejezze be a túrát a központi utcák alkonyati hangulatának elnyelésével, élvezve a békés és csendes lakóövezeti atmoszférát.",
-        "ro": "Dimineața: Începeți ziua în centrul istoric, admirând Biserica Adormirea Maicii Domnului înainte de a vizita piața Primăriei.\n\nLa prânz: Descoperiți inima vibrantă a orașului explorând expozițiile artistice la spațiul cultural modern l'Éloize.\n\nDupă-amiaza: Bucurați-vă de o plimbare relaxantă pe lângă istoricele Croix Blanche și Croix Rouge.\n\nSeara: Încheiați turul bucurându-vă de ambianța de amurg a străzilor centrale, savurând atmosfera pașnică și farmecul rezidențial liniștit al zonei."
+        "ro": "Dimineața: Începeți ziua în centrul istoric, admirând Biserica Adormirea Maicii Domnului înainte de a vizita piața Primăriei.\n\nLa prânz: Descoperiți inima vibrantă a orașului explorând expozițiile artistice la spațiul cultural modern l'Éloize.\n\nDupă-amiaza: Bucurați-vă de o plimbare relaxantă pe lângă istoricele Croix Blanche și Croix Rouge.\n\nSeara: Încheiați turul bucurându-vă de ambianța de amurg a străzilor centrale, savurând atmosfera pașnică și farmecul rezidențial liniștit al zonei.",
+        "fr": "Matin : Commencez votre journée dans le centre historique, en admirant l'Église de l'Assomption avant de visiter la place animée de la mairie.\n\nMidi : Découvrez le cœur vibrant de la ville en explorant les expositions artistiques et l'offre culturelle moderne de l'Espace culturel l'Éloize.\n\nAprès-midi : Profitez d'une promenade tranquille devant la Croix Blanche et la Croix Rouge, marquant d'anciens carrefours.\n\nSoir : Concluez votre visite en savourant l'ambiance au crépuscule des rues centrales, en appréciant l'atmosphère paisible."
       },
       "variants": {
         "rainy": {
@@ -144,7 +155,8 @@
             "de": "Beginnen Sie den regnerischen Morgen mit Schutz in der Kirche. Mittags bieten das Rathaus und das Kulturzentrum trockene Zuflucht. Trotzen Sie am Nachmittag dem Nieselregen für die lokalen Kreuze. Beenden Sie den Spaziergang sicher auf nassen Wegen.",
             "hu": "Kezdje az esős reggelt a történelmi templom menedékében. Délben a városháza és a kulturális központ nyújt szárazföldi menedéket. Délután dacoljon a szitáló esővel a helyi keresztekért. Fejezze be a sétát óvatosan a csúszós járdákon.",
             "ro": "Începeți dimineața ploioasă căutând adăpost în biserică. La amiază, primăria și centrul cultural oferă un refugiu uscat. După-amiaza, înfruntați burnița pentru a vedea crucile locale. Încheiați plimbarea cu grijă pe trotuarele umede.",
-            "en": "Start your rainy morning seeking shelter in the historic church. Midday brings a visit to the town hall and cultural center to stay dry. In the afternoon, brave the drizzle for a quick look at the local crosses. End your walk safely, watching your step on wet pavements."
+            "en": "Start your rainy morning seeking shelter in the historic church. Midday brings a visit to the town hall and cultural center to stay dry. In the afternoon, brave the drizzle for a quick look at the local crosses. End your walk safely, watching your step on wet pavements.",
+            "fr": "Commencez votre matinée pluvieuse en cherchant abri dans l'église historique. À midi, rendez-vous à la mairie et au centre culturel pour rester au sec. L'après-midi, bravez la bruine pour un rapide coup d'œil aux croix locales. Terminez votre balade en toute sécurité en faisant attention aux trottoirs mouillés."
           },
           "stops": [
             {
@@ -152,13 +164,15 @@
                 "en": "Church of the Assumption",
                 "de": "Kirche Mariä Himmelfahrt",
                 "hu": "Nagyboldogasszony-templom",
-                "ro": "Biserica Adormirea Maicii Domnului"
+                "ro": "Biserica Adormirea Maicii Domnului",
+                "fr": "Église de l'Assomption"
               },
               "tip_5lang": {
                 "de": "Bewundern Sie die schöne Innenarchitektur ganz im Trockenen; bringen Sie einen Regenschirm für den kurzen Weg zum Eingang mit.",
                 "hu": "Csodálja meg a gyönyörű belső építészetet teljesen szárazon; hozzon magával esernyőt a bejárathoz vezető rövid sétához.",
                 "ro": "Admirați frumoasa arhitectură interioară stând perfect uscat; aduceți o umbrelă pentru scurta plimbare până la intrare.",
-                "en": "Admire the beautiful interior architecture while staying perfectly dry; bring a sturdy umbrella for the short walk to the entrance."
+                "en": "Admire the beautiful interior architecture while staying perfectly dry; bring a sturdy umbrella for the short walk to the entrance.",
+                "fr": "Admirez la belle architecture intérieure tout en restant parfaitement au sec ; apportez un parapluie solide pour la courte marche jusqu’à l’entrée."
               }
             },
             {
@@ -166,13 +180,15 @@
                 "en": "Sorbiers Town Hall",
                 "de": "Rathaus Sorbiers",
                 "hu": "Sorbiers Városháza",
-                "ro": "Primăria Sorbiers"
+                "ro": "Primăria Sorbiers",
+                "fr": "Hôtel de ville de Sorbiers"
               },
               "tip_5lang": {
                 "de": "Erkunden Sie die Ausstellungen im Rathaus, um dem Regen zu entkommen; gehen Sie vorsichtig auf den nassen, rutschigen Böden.",
                 "hu": "Fedezze fel a városháza kiállításait, hogy menedéket találjon az eső elől; óvatosan lépkedjen a nedves és csúszós padlón.",
                 "ro": "Explorați expozițiile din interior pentru a scăpa de ploaie; pășiți cu grijă, deoarece podelele umede pot fi foarte alunecoase.",
-                "en": "Explore the civic displays inside the hall to escape the rain; walk carefully as the wet marble floors might be very slippery."
+                "en": "Explore the civic displays inside the hall to escape the rain; walk carefully as the wet marble floors might be very slippery.",
+                "fr": "Explorez les expositions civiques à l’intérieur de l’hôtel de ville pour échapper à la pluie ; marchez prudemment car les sols en marbre mouillés peuvent être très glissants."
               }
             },
             {
@@ -180,13 +196,15 @@
                 "en": "l'Éloize Cultural Space",
                 "de": "Kulturzentrum l'Éloize",
                 "hu": "l'Éloize Kulturális Tér",
-                "ro": "Spațiul Cultural l'Éloize"
+                "ro": "Spațiul Cultural l'Éloize",
+                "fr": "Espace culturel l'Éloize"
               },
               "tip_5lang": {
                 "de": "Genießen Sie die Ausstellungen in diesem modernen Zentrum; ein idealer langer Halt, um starke Regenschauer bequem abzuwarten.",
                 "hu": "Élvezze a beltéri kiállításokat ebben a modern központban; ideális hosszú megálló, hogy kényelmesen kivárja a heves esőzéseket.",
                 "ro": "Bucurați-vă de expozițiile interioare în acest centru modern; o oprire ideală pentru a aștepta trecerea ploilor abundente.",
-                "en": "Enjoy the indoor exhibitions in this modern center; it is an ideal long stop to stay dry and let heavy rain showers pass comfortably."
+                "en": "Enjoy the indoor exhibitions in this modern center; it is an ideal long stop to stay dry and let heavy rain showers pass comfortably.",
+                "fr": "Profitez des expositions intérieures dans ce centre moderne ; c’est un arrêt idéal pour rester au sec et laisser passer confortablement de fortes averses."
               }
             },
             {
@@ -194,13 +212,15 @@
                 "en": "Croix Blanche",
                 "de": "Croix Blanche (Weißes Kreuz)",
                 "hu": "Croix Blanche (Fehér Kereszt)",
-                "ro": "Crucea Albă"
+                "ro": "Crucea Albă",
+                "fr": "Croix Blanche"
               },
               "tip_5lang": {
                 "de": "Betrachten Sie dieses historische weiße Kreuz schnell; tragen Sie wasserdichte Schuhe, da der Weg im Regen matschig wird.",
                 "hu": "Gyorsan tekintse meg ezt a történelmi fehér keresztet; viseljen vízálló cipőt, mivel a környező út saras lehet az esőben.",
                 "ro": "Vedeți rapid această cruce albă istorică; purtați încălțăminte impermeabilă, deoarece poteca din jur poate deveni noroioasă.",
-                "en": "Quickly view this historic white cross; wear waterproof shoes as the surrounding path can get quite muddy during the rain."
+                "en": "Quickly view this historic white cross; wear waterproof shoes as the surrounding path can get quite muddy during the rain.",
+                "fr": "Admirez rapidement cette croix blanche historique ; portez des chaussures imperméables car le chemin environnant peut devenir assez boueux sous la pluie."
               }
             },
             {
@@ -208,13 +228,15 @@
                 "en": "Croix Rouge",
                 "de": "Croix Rouge (Rotes Kreuz)",
                 "hu": "Croix Rouge (Piros Kereszt)",
-                "ro": "Crucea Roșie"
+                "ro": "Crucea Roșie",
+                "fr": "Croix Rouge"
               },
               "tip_5lang": {
                 "de": "Beobachten Sie das rote Kreuz sicher unter Ihrem Regenschirm; achten Sie auf die nassen und rutschigen Steine vor dem Rückweg.",
                 "hu": "Figyelje meg a piros kereszt emlékművet az esernyője alól; ügyeljen a nedves és csúszós kövekre, mielőtt visszaindulna.",
                 "ro": "Observați monumentul crucii roșii sub umbrela dumneavoastră; atenție la pietrele umede și alunecoase înainte de a vă întoarce.",
-                "en": "Observe the red cross monument safely under your umbrella; watch your step on the wet and slippery stones before heading back."
+                "en": "Observe the red cross monument safely under your umbrella; watch your step on the wet and slippery stones before heading back.",
+                "fr": "Observez le monument de la croix rouge en toute sécurité sous votre parapluie ; faites attention où vous mettez les pieds sur les pierres mouillées et glissantes avant de repartir."
               }
             }
           ]
@@ -224,7 +246,8 @@
             "de": "Ein klarer Wintermorgen beginnt in der warmen Kirche. Mittags laden das beheizte Rathaus und das Kulturzentrum ein. Das kurze Nachmittagslicht ist perfekt für die historischen Kreuze. Beenden Sie die Tour vor 17:00 Uhr.",
             "hu": "A csípős téli reggel a meleg helyi templomban kezdődik. Délben a fűtött városháza és kulturális tér hívogat. A rövid délutáni fény tökéletes a keresztek megtekintésére. Fejezze be 17:00 előtt, amikor a nap lemegy.",
             "ro": "Dimineața de iarnă începe la biserica locală călduroasă. Amiaza vă invită în primăria și centrul cultural încălzite. Lumina scurtă de după-amiază este perfectă pentru a vedea crucile. Terminați înainte de 17:00.",
-            "en": "A crisp winter morning begins at the warm local church. Midday invites you into the heated town hall and cultural space. The short afternoon daylight is perfect for viewing the historic crosses. Finish before 17:00 when the sun sets and temperatures drop sharply."
+            "en": "A crisp winter morning begins at the warm local church. Midday invites you into the heated town hall and cultural space. The short afternoon daylight is perfect for viewing the historic crosses. Finish before 17:00 when the sun sets and temperatures drop sharply.",
+            "fr": "Une matinée d’hiver franche commence à l’église locale chauffée. À midi, entrez dans l’hôtel de ville et l’espace culturel chauffés. La courte lumière de l’après‑midi est parfaite pour voir les croix historiques. Terminez avant 17:00 quand le soleil se couche et que les températures chutent fortement."
           },
           "stops": [
             {
@@ -232,13 +255,15 @@
                 "en": "Church of the Assumption",
                 "de": "Kirche Mariä Himmelfahrt",
                 "hu": "Nagyboldogasszony-templom",
-                "ro": "Biserica Adormirea Maicii Domnului"
+                "ro": "Biserica Adormirea Maicii Domnului",
+                "fr": "Église de l’Assomption"
               },
               "tip_5lang": {
                 "de": "Genießen Sie die ruhige Winteratmosphäre im beheizten Kirchenschiff; behalten Sie Ihren Mantel an, da alte Steingebäude kühl bleiben.",
                 "hu": "Élvezze a békés téli hangulatot a fűtött hajóban; tartsa magán a kabátját, mivel a régi kőépületek kissé hűvösek maradhatnak.",
                 "ro": "Bucurați-vă de atmosfera senină de iarnă în naosul încălzit; păstrați haina pe dumneavoastră, deoarece clădirile din piatră rămân reci.",
-                "en": "Enjoy the serene winter atmosphere inside the heated nave; keep your coat on as old stone buildings can stay somewhat chilly."
+                "en": "Enjoy the serene winter atmosphere inside the heated nave; keep your coat on as old stone buildings can stay somewhat chilly.",
+                "fr": "Profitez de l’atmosphère sereine de l’hiver à l’intérieur de la nef chauffée ; gardez votre manteau car les vieux bâtiments en pierre peuvent rester un peu frais."
               }
             },
             {
@@ -246,13 +271,15 @@
                 "en": "Sorbiers Town Hall",
                 "de": "Rathaus Sorbiers",
                 "hu": "Sorbiers Városháza",
-                "ro": "Primăria Sorbiers"
+                "ro": "Primăria Sorbiers",
+                "fr": "Hôtel de ville de Sorbiers"
               },
               "tip_5lang": {
                 "de": "Wärmen Sie sich in diesem Gebäude auf; bewundern Sie den zarten Frost an den Fenstern mit Blick auf den ruhigen Stadtplatz.",
                 "hu": "Melegedjen fel ebben az adminisztratív épületben; csodálja meg a finom deret az ablakokon, amelyek a csendes térre néznek.",
                 "ro": "Încălziți-vă în interiorul acestei clădiri; admirați gerul delicat de pe ferestrele care au vedere spre piața liniștită a orașului.",
-                "en": "Warm up inside this administrative building; admire the delicate frost on the windows looking out over the quiet town square."
+                "en": "Warm up inside this administrative building; admire the delicate frost on the windows looking out over the quiet town square.",
+                "fr": "Réchauffez‑vous à l’intérieur de cet édifice administratif ; admirez le délicat givre sur les fenêtres donnant sur la paisible place du village."
               }
             },
             {
@@ -260,13 +287,15 @@
                 "en": "l'Éloize Cultural Space",
                 "de": "Kulturzentrum l'Éloize",
                 "hu": "l'Éloize Kulturális Tér",
-                "ro": "Spațiul Cultural l'Éloize"
+                "ro": "Spațiul Cultural l'Éloize",
+                "fr": "Espace culturel l'Éloize"
               },
               "tip_5lang": {
                 "de": "Verbringen Sie eine gemütliche Stunde mit den kulturellen Ausstellungen; holen Sie sich vorher ein Heißgetränk zum Aufwärmen.",
                 "hu": "Töltsön el egy hangulatos órát a kulturális kiállításokon; belépés előtt vegyen egy forró italt egy közeli helyen, hogy felmelegedjen.",
                 "ro": "Petreceți o oră confortabilă bucurându-vă de expozițiile culturale; luați o băutură caldă dintr-un loc din apropiere înainte de a intra.",
-                "en": "Spend a cozy hour enjoying the cultural displays indoors; grab a hot drink from a nearby spot before entering to stay warm."
+                "en": "Spend a cozy hour enjoying the cultural displays indoors; grab a hot drink from a nearby spot before entering to stay warm.",
+                "fr": "Passez une heure cosy à profiter des expositions culturelles à l’intérieur ; prenez une boisson chaude dans un commerce à proximité avant d’entrer pour rester au chaud."
               }
             },
             {
@@ -274,13 +303,15 @@
                 "en": "Croix Blanche",
                 "de": "Croix Blanche (Weißes Kreuz)",
                 "hu": "Croix Blanche (Fehér Kereszt)",
-                "ro": "Crucea Albă"
+                "ro": "Crucea Albă",
+                "fr": "Croix Blanche"
               },
               "tip_5lang": {
                 "de": "Das weiße Kreuz hebt sich wunderbar vom winterlichen Himmel ab; packen Sie sich warm ein, da der Wind hier zunehmen kann.",
                 "hu": "A fehér kereszt gyönyörűen kiemelkedik a sápadt téli égboltból; öltözzön fel melegen, mivel a szél felerősödhet ezen a nyílt területen.",
                 "ro": "Crucea albă iese frumos în evidență pe cerul de iarnă; înfofoliți-vă cu un fular gros, deoarece vântul se întețește în această zonă.",
-                "en": "The white cross stands out beautifully against pale winter skies; bundle up with a thick scarf as the wind picks up in this open area."
+                "en": "The white cross stands out beautifully against pale winter skies; bundle up with a thick scarf as the wind picks up in this open area.",
+                "fr": "La croix blanche ressort magnifiquement sur les ciels hivernaux pâles ; emmitouflez‑vous avec une grosse écharpe car le vent se renforce dans cet espace ouvert."
               }
             },
             {
@@ -288,13 +319,15 @@
                 "en": "Croix Rouge",
                 "de": "Croix Rouge (Rotes Kreuz)",
                 "hu": "Croix Rouge (Piros Kereszt)",
-                "ro": "Crucea Roșie"
+                "ro": "Crucea Roșie",
+                "fr": "Croix Rouge"
               },
               "tip_5lang": {
                 "de": "Fangen Sie das frühe Nachmittagslicht an diesem roten Kreuz ein; kehren Sie schnell zurück, um den eisigen Temperaturen zu entgehen.",
                 "hu": "Csípje el a kora délutáni téli fényeket ezen a piros kereszten; térjen vissza gyorsan, hogy elkerülje a fagyos alkonyati hőmérsékletet.",
                 "ro": "Prindeți lumina timpurie de iarnă pe această cruce roșie; întoarceți-vă rapid pentru a evita temperaturile de îngheț de la lăsarea serii.",
-                "en": "Catch the early afternoon winter light on this red cross; return quickly to your accommodation to avoid the freezing dusk temperatures."
+                "en": "Catch the early afternoon winter light on this red cross; return quickly to your accommodation to avoid the freezing dusk temperatures.",
+                "fr": "Profitez de la lumière hivernale du début d’après‑midi sur cette croix rouge ; retournez rapidement à votre hébergement pour éviter les températures glaciales du crépuscule."
               }
             }
           ]
@@ -314,7 +347,8 @@
             "en": "Church of the Assumption",
             "de": "Kirche Mariä Himmelfahrt",
             "hu": "Nagyboldogasszony-templom",
-            "ro": "Biserica Adormirea Maicii Domnului"
+            "ro": "Biserica Adormirea Maicii Domnului",
+            "fr": "Église de l’Assomption"
           },
           "coords": [
             4.450689,
@@ -329,7 +363,8 @@
             "en": "Admire the historic architecture of this central church, an enduring community pillar, and look closely at the stunning stained glass in the morning light.",
             "de": "Bewundern Sie die historische Architektur dieser zentralen Kirche, ein beständiger Pfeiler der Gemeinde, und betrachten Sie die Buntglasfenster im Morgenlicht.",
             "hu": "Csodálja meg a központi templom történelmi építészetét, a közösség tartópillérét, és figyelje meg közelebbről a lenyűgöző ólomüveg ablakokat a reggeli fényben.",
-            "ro": "Admirați arhitectura istorică a acestei biserici centrale, un pilon al comunității, și priviți îndeaproape vitraliile uimitoare în lumina proaspătă a dimineții."
+            "ro": "Admirați arhitectura istorică a acestei biserici centrale, un pilon al comunității, și priviți îndeaproape vitraliile uimitoare în lumina proaspătă a dimineții.",
+            "fr": "Admirez l’architecture historique de cette église centrale, pilier durable de la communauté, et regardez de près les magnifiques vitraux au matin."
           }
         },
         {
@@ -337,7 +372,8 @@
             "en": "Sorbiers Town Hall",
             "de": "Rathaus Sorbiers",
             "hu": "Sorbiers Városháza",
-            "ro": "Primăria Sorbiers"
+            "ro": "Primăria Sorbiers",
+            "fr": "Hôtel de ville de Sorbiers"
           },
           "coords": [
             4.449573,
@@ -352,7 +388,8 @@
             "en": "Appreciate the classic civic design of the Town Hall, the administrative heart of Sorbiers, and check the notice boards outside for upcoming local events.",
             "de": "Schätzen Sie das klassische bürgerliche Design des Rathauses, dem administrativen Herzen von Sorbiers, und prüfen Sie die Aushänge für lokale Veranstaltungen.",
             "hu": "Értékelje a Városháza klasszikus polgári kialakítását, Sorbiers adminisztratív szívét, és ellenőrizze a külső hirdetőtáblákat a közelgő helyi eseményekért.",
-            "ro": "Apreciați designul civic clasic al Primăriei, inima administrativă din Sorbiers, și verificați panourile informative exterioare pentru evenimentele locale."
+            "ro": "Apreciați designul civic clasic al Primăriei, inima administrativă din Sorbiers, și verificați panourile informative exterioare pentru evenimentele locale.",
+            "fr": "Appréciez le design civique classique de l’Hôtel de ville, cœur administratif de Sorbiers, et consultez les panneaux d’affichage extérieurs pour les événements locaux à venir."
           }
         },
         {
@@ -360,7 +397,8 @@
             "en": "l'Éloize Cultural Space",
             "de": "Kulturzentrum l'Éloize",
             "hu": "l'Éloize Kulturális Tér",
-            "ro": "Spațiul Cultural l'Éloize"
+            "ro": "Spațiul Cultural l'Éloize",
+            "fr": "Espace culturel l'Éloize"
           },
           "coords": [
             4.446874,
@@ -375,7 +413,8 @@
             "en": "Explore this modern cultural hub which hosts vibrant exhibitions and performances, but make sure to confirm the gallery opening hours before your visit.",
             "de": "Erkunden Sie dieses moderne Kulturzentrum, das lebhafte Ausstellungen beherbergt, aber bestätigen Sie unbedingt die Öffnungszeiten der Galerie vor Ihrem Besuch.",
             "hu": "Fedezze fel ezt a modern kulturális központot, amely élénk kiállításoknak ad otthont, de látogatás előtt mindenképpen ellenőrizze a galéria nyitvatartási idejét.",
-            "ro": "Explorați acest centru cultural modern care găzduiește expoziții vibrante, dar asigurați-vă că verificați programul de funcționare al galeriei înainte de vizită."
+            "ro": "Explorați acest centru cultural modern care găzduiește expoziții vibrante, dar asigurați-vă că verificați programul de funcționare al galeriei înainte de vizită.",
+            "fr": "Explorez ce pôle culturel moderne qui accueille des expositions et des spectacles vivants, mais assurez‑vous de confirmer les horaires d’ouverture de la galerie avant votre visite."
           }
         },
         {
@@ -383,7 +422,8 @@
             "en": "Croix Blanche",
             "de": "Croix Blanche (Weißes Kreuz)",
             "hu": "Croix Blanche (Fehér Kereszt)",
-            "ro": "Crucea Albă"
+            "ro": "Crucea Albă",
+            "fr": "Croix Blanche"
           },
           "coords": [
             4.446102,
@@ -398,7 +438,8 @@
             "en": "Pause at this historical white stone cross marking an ancient crossroads, and use this quiet spot to capture some charming photos of the nearby streets.",
             "de": "Halten Sie an diesem historischen weißen Steinkreuz an einer alten Kreuzung und nutzen Sie diesen ruhigen Ort, um reizvolle Fotos der nahegelegenen Straßen zu machen.",
             "hu": "Tartson szünetet ennél az ősi kereszteződést jelző történelmi fehér kőkeresztnél, és használja ezt a csendes helyet a közeli utcák hangulatos fotózására.",
-            "ro": "Faceți o pauză la această cruce istorică din piatră albă ce marchează o răscruce veche și folosiți acest loc liniștit pentru a face fotografii fermecătoare."
+            "ro": "Faceți o pauză la această cruce istorică din piatră albă ce marchează o răscruce veche și folosiți acest loc liniștit pentru a face fotografii fermecătoare.",
+            "fr": "Faites une pause à cette croix historique en pierre blanche marquant un ancien carrefour, et utilisez cet endroit tranquille pour prendre de charmantes photos des rues avoisinantes."
           }
         },
         {
@@ -406,7 +447,8 @@
             "en": "Croix Rouge",
             "de": "Croix Rouge (Rotes Kreuz)",
             "hu": "Croix Rouge (Piros Kereszt)",
-            "ro": "Crucea Roșie"
+            "ro": "Crucea Roșie",
+            "fr": "Croix Rouge"
           },
           "coords": [
             4.445571,
@@ -421,7 +463,8 @@
             "en": "Discover this distinct red cross monument that reflects local religious heritage, and take a moment to rest on a nearby bench while enjoying the view.",
             "de": "Entdecken Sie dieses markante rote Kreuz, das das lokale religiöse Erbe widerspiegelt, und ruhen Sie sich auf einer nahegelegenen Bank aus, um die Aussicht zu genießen.",
             "hu": "Fedezze fel ezt a jellegzetes piros kereszt emlékművet, amely a helyi vallási örökséget tükrözi, és pihenjen meg egy közeli padon, miközben élvezi a kilátást.",
-            "ro": "Descoperiți acest monument distinctiv al crucii roșii care reflectă moștenirea religioasă locală și odihniți-vă pe o bancă din apropiere bucurându-vă de peisaj."
+            "ro": "Descoperiți acest monument distinctiv al crucii roșii care reflectă moștenirea religioasă locală și odihniți-vă pe o bancă din apropiere bucurându-vă de peisaj.",
+            "fr": "Découvrez ce monument distinctif de la croix rouge qui reflète le patrimoine religieux local, et prenez un moment pour vous reposer sur un banc à proximité en profitant de la vue."
           }
         },
         {
@@ -429,7 +472,8 @@
             "en": "Église Saint-Isidore",
             "de": "Kirche Saint-Isidore",
             "hu": "Saint-Isidore Templom",
-            "ro": "Biserica Saint-Isidore"
+            "ro": "Biserica Saint-Isidore",
+            "fr": "Église Saint‑Isidore"
           },
           "coords": [
             4.433592,
@@ -444,7 +488,8 @@
             "en": "Visit this serene church dedicated to the patron saint of farmers, a nod to the area's rural roots, and maintain a quiet demeanor during your brief tour.",
             "de": "Besuchen Sie diese friedliche Kirche, die dem Schutzpatron der Bauern gewidmet ist, und bewahren Sie während Ihres kurzen Rundgangs ein ruhiges Auftreten.",
             "hu": "Látogasson el a gazdák védőszentjének szentelt békés templomba, amely a terület vidéki gyökereire utal, és őrizzen meg csendes viselkedést a rövid túra során.",
-            "ro": "Vizitați această biserică senină dedicată sfântului patron al fermierilor, un semn al rădăcinilor rurale, și păstrați o atitudine liniștită în timpul turului."
+            "ro": "Vizitați această biserică senină dedicată sfântului patron al fermierilor, un semn al rădăcinilor rurale, și păstrați o atitudine liniștită în timpul turului.",
+            "fr": "Visitez cette église sereine dédiée au saint patron des paysans, clin d’œil aux racines rurales de la région, et gardez une attitude silencieuse pendant votre courte visite."
           }
         }
       ],
@@ -452,7 +497,8 @@
         "en": "Morning: Cycle easily through the town center, taking in the civic pride of the Town Hall and the classic beauty of the central church.\n\nMidday: Pedal over to the l'Éloize Cultural Space for an infusion of local art, then navigate towards the historical crosses.\n\nAfternoon: Continue your biking journey slightly northward to reach the serene Église Saint-Isidore, reflecting an agricultural past.\n\nEvening: Finish your ride as the sun sets, returning to your starting point through calm and welcoming suburban streets.",
         "de": "Morgen: Radeln Sie bequem durch das Stadtzentrum und genießen Sie den bürgerlichen Stolz des Rathauses und die zentrale Kirche.\n\nMittag: Fahren Sie zum Kulturzentrum l'Éloize für lokale Kunst und navigieren Sie dann zu den historischen Kreuzen.\n\nNachmittag: Setzen Sie Ihre Radtour leicht nach Norden fort, um die friedliche Église Saint-Isidore zu erreichen, die an die ländliche Vergangenheit erinnert.\n\nAbend: Beenden Sie Ihre Fahrt bei Sonnenuntergang und kehren Sie durch ruhige Vorstadtstraßen zurück.",
         "hu": "Reggel: Kényelmesen kerékpározzon át a városközponton, megcsodálva a Városházát és a központi templom klasszikus szépségét.\n\nDélben: Tekerjen a l'Éloize Kulturális Térhez egy kis helyi művészetért, majd navigáljon a történelmi keresztek felé.\n\nDélután: Folytassa útját kissé észak felé, hogy elérje a békés Église Saint-Isidore-t, amely a mezőgazdasági múltat tükrözi.\n\nEste: Fejezze be az utazást naplementekor, és térjen vissza kiindulópontjához a nyugodt és barátságos külvárosi utcákon keresztül.",
-        "ro": "Dimineața: Cilați cu ușurință prin centrul orașului, admirând mândria civică a Primăriei și frumusețea bisericii centrale.\n\nLa prânz: Pedați către Spațiul Cultural l'Éloize pentru o infuzie de artă locală, apoi îndreptați-vă spre crucile istorice.\n\nDupă-amiaza: Continuați călătoria ușor spre nord pentru a ajunge la senina Église Saint-Isidore, reflectând trecutul agricol.\n\nSeara: Terminați plimbarea la apus, întorcându-vă la punctul de plecare prin străzile suburbane calme și primitoare."
+        "ro": "Dimineața: Cilați cu ușurință prin centrul orașului, admirând mândria civică a Primăriei și frumusețea bisericii centrale.\n\nLa prânz: Pedați către Spațiul Cultural l'Éloize pentru o infuzie de artă locală, apoi îndreptați-vă spre crucile istorice.\n\nDupă-amiaza: Continuați călătoria ușor spre nord pentru a ajunge la senina Église Saint-Isidore, reflectând trecutul agricol.\n\nSeara: Terminați plimbarea la apus, întorcându-vă la punctul de plecare prin străzile suburbane calme și primitoare.",
+        "fr": "Matin : Parcourez facilement le centre‑ville à vélo, en profitant de la fierté civique de l’Hôtel de ville et de la beauté classique de l’église centrale.\n\nMidi : Pédalez jusqu’à l’Espace culturel l’Éloize pour une infusion d’art local, puis dirigez‑vous vers les croix historiques.\n\nAprès‑midi : Poursuivez votre parcours à vélo légèrement vers le nord pour atteindre la sereine Église Saint‑Isidore, reflet d’un passé agricole.\n\nSoir : Terminez votre promenade alors que le soleil se couche, en revenant à votre point de départ par des rues suburbaines calmes et accueillantes."
       },
       "variants": {
         "rainy": {
@@ -460,7 +506,8 @@
             "de": "Beginnen Sie Ihre nasse Fahrt mit einem Halt in der Kirche. Mittags können Sie sich im Rathaus und Kulturzentrum aufwärmen. Die Nachmittagsfahrt erfordert Vorsicht auf glatten Straßen. Beenden Sie die Tour an der letzten Kirche sicher.",
             "hu": "Kezdje a nedves utat egy száraz megállóval a templomban. Délben a városháza és a kulturális központ segít megszáradni. A délutáni tekerés a műemlékek felé extra óvatosságot igényel a csúszós utakon. Érjen célba biztonságosan a végső templomnál.",
             "ro": "Începeți traseul umed cu o oprire uscată la biserică. La amiază, vizitați primăria și centrul cultural pentru a vă usca. Mersul pe bicicletă după-amiaza necesită prudență suplimentară pe drumurile alunecoase. Terminați în siguranță la ultima biserică.",
-            "en": "Start your wet ride with a dry stop at the church. Midday includes visits to the town hall and cultural center to dry off. Afternoon riding past the monuments requires extra caution on slick roads. Finish safely at the final church before the rain intensifies."
+            "en": "Start your wet ride with a dry stop at the church. Midday includes visits to the town hall and cultural center to dry off. Afternoon riding past the monuments requires extra caution on slick roads. Finish safely at the final church before the rain intensifies.",
+            "fr": "Commencez votre balade sous la pluie par un arrêt au sec à l’église. Midi inclut des visites à l’hôtel de ville et au centre culturel pour vous sécher. L’après‑midi, rouler près des monuments demande une prudence accrue sur les routes glissantes. Finissez en sécurité à la dernière église avant que la pluie ne s’intensifie."
           },
           "stops": [
             {
@@ -468,13 +515,15 @@
                 "en": "Church of the Assumption",
                 "de": "Kirche Mariä Himmelfahrt",
                 "hu": "Nagyboldogasszony-templom",
-                "ro": "Biserica Adormirea Maicii Domnului"
+                "ro": "Biserica Adormirea Maicii Domnului",
+                "fr": "Église de l’Assomption"
               },
               "tip_5lang": {
                 "de": "Suchen Sie drinnen Schutz; stellen Sie sicher, dass Ihr Fahrradsattel draußen bei starkem Regen gut abgedeckt ist.",
                 "hu": "Keressen menedéket bent; gondoskodjon arról, hogy a kerékpárülése teljesen le legyen takarva kint a heves esőzésben.",
                 "ro": "Căutați adăpost înăuntru; asigurați-vă că șaua bicicletei este complet acoperită afară în timp ce plouă abundent.",
-                "en": "Seek shelter inside and admire the altar; ensure your bike seat is completely covered outside while it rains heavily."
+                "en": "Seek shelter inside and admire the altar; ensure your bike seat is completely covered outside while it rains heavily.",
+                "fr": "Cherchez abri à l’intérieur et admirez l’autel ; assurez‑vous que votre selle de vélo est complètement couverte dehors pendant la forte pluie."
               }
             },
             {
@@ -482,13 +531,15 @@
                 "en": "Sorbiers Town Hall",
                 "de": "Rathaus Sorbiers",
                 "hu": "Sorbiers Városháza",
-                "ro": "Primăria Sorbiers"
+                "ro": "Primăria Sorbiers",
+                "fr": "Hôtel de ville de Sorbiers"
               },
               "tip_5lang": {
                 "de": "Ein trockenes Refugium für eine Pause; seien Sie beim Gehen auf den Fliesen mit nassen Fahrradschuhen sehr vorsichtig.",
                 "hu": "Száraz menedék a kerékpározás szüneteltetésére; nagyon óvatosan sétáljon a benti csempéken a nedves kerékpáros cipővel.",
                 "ro": "Un sanctuar uscat pentru o pauză de la pedalat; fiți foarte atenți când mergeți pe gresie cu pantofii de ciclism uzi.",
-                "en": "A dry sanctuary to take a break from cycling; be very careful walking on the indoor tiles with wet cycling shoes."
+                "en": "A dry sanctuary to take a break from cycling; be very careful walking on the indoor tiles with wet cycling shoes.",
+                "fr": "Un sanctuaire sec pour faire une pause du cyclisme ; soyez très prudent en marchant sur les carreaux intérieurs avec des chaussures de vélo mouillées."
               }
             },
             {
@@ -496,13 +547,15 @@
                 "en": "l'Éloize Cultural Space",
                 "de": "Kulturzentrum l'Éloize",
                 "hu": "l'Éloize Kulturális Tér",
-                "ro": "Spațiul Cultural l'Éloize"
+                "ro": "Spațiul Cultural l'Éloize",
+                "fr": "Espace culturel l'Éloize"
               },
               "tip_5lang": {
                 "de": "Verbringen Sie über eine Stunde in diesem trockenen Kulturzentrum; ein toller Ort, um vorbeiziehende Schauer abzuwarten.",
                 "hu": "Töltsön el több mint egy órát ebben a száraz kulturális központban; kiváló hely a heves záporok kivárására az újabb indulás előtt.",
                 "ro": "Petreceți peste o oră în acest centru cultural uscat; un loc excelent pentru a aștepta trecerea averselor puternice.",
-                "en": "Spend over an hour inside this dry cultural hub; a great place to wait out passing heavy showers before riding again."
+                "en": "Spend over an hour inside this dry cultural hub; a great place to wait out passing heavy showers before riding again.",
+                "fr": "Passez plus d’une heure à l’intérieur de ce pôle culturel sec ; un excellent endroit pour attendre que de fortes averses passent avant de reprendre la route."
               }
             },
             {
@@ -510,13 +563,15 @@
                 "en": "Croix Blanche",
                 "de": "Croix Blanche (Weißes Kreuz)",
                 "hu": "Croix Blanche (Fehér Kereszt)",
-                "ro": "Crucea Albă"
+                "ro": "Crucea Albă",
+                "fr": "Croix Blanche"
               },
               "tip_5lang": {
                 "de": "Ein kurzer Fotostopp im Regen; nutzen Sie Ihre Bremsen sanft und frühzeitig auf der rutschigen, nassen Zufahrt zum Denkmal.",
                 "hu": "Egy gyors fotómegálló az esőben; használja a fékeket finoman és korán a műemlék felé vezető csúszós, nedves úton.",
                 "ro": "O oprire rapidă pentru fotografii în ploaie; folosiți frânele ușor și din timp pe drumul alunecos și umed către monument.",
-                "en": "A quick photo stop in the rain; use your brakes gently and early on the slick, wet approach to the monument."
+                "en": "A quick photo stop in the rain; use your brakes gently and early on the slick, wet approach to the monument.",
+                "fr": "Un arrêt photo rapide sous la pluie ; freinez doucement et tôt sur l’approche glissante et mouillée du monument."
               }
             },
             {
@@ -524,13 +579,15 @@
                 "en": "Croix Rouge",
                 "de": "Croix Rouge (Rotes Kreuz)",
                 "hu": "Croix Rouge (Piros Kereszt)",
-                "ro": "Crucea Roșie"
+                "ro": "Crucea Roșie",
+                "fr": "Croix Rouge"
               },
               "tip_5lang": {
                 "de": "Betrachten Sie dieses historische Wahrzeichen trotz Nieselregen; achten Sie auf tiefe Pfützen am Fuß des Kreuzes.",
                 "hu": "Tekintse meg ezt a történelmi műemléket a szitáló eső ellenére; ügyeljen a kereszt tövében kialakuló mély tócsákra.",
                 "ro": "Vedeți acest punct de reper istoric în ciuda burniței; atenție la bălțile adânci care se formează la baza crucii.",
-                "en": "View this historic landmark despite the drizzle; watch out for deep puddles forming near the base of the cross."
+                "en": "View this historic landmark despite the drizzle; watch out for deep puddles forming near the base of the cross.",
+                "fr": "Contemplez ce repère historique malgré la bruine ; faites attention aux grandes flaques qui se forment près de la base de la croix."
               }
             },
             {
@@ -538,13 +595,15 @@
                 "en": "Église Saint-Isidore",
                 "de": "Kirche Saint-Isidore",
                 "hu": "Saint-Isidore Templom",
-                "ro": "Biserica Saint-Isidore"
+                "ro": "Biserica Saint-Isidore",
+                "fr": "Église Saint‑Isidore"
               },
               "tip_5lang": {
                 "de": "Beenden Sie Ihre Fahrt im ruhigen Schutz dieser Kirche; trocknen Sie Ihre Ausrüstung sorgfältig, bevor Sie heimfahren.",
                 "hu": "Fejezze be a nedves utat ennek a templomnak a csendes menedékében; szárítsa meg felszerelését, mielőtt hazaindulna.",
                 "ro": "Încheiați plimbarea umedă în adăpostul liniștit al acestei biserici; uscați-vă cu grijă echipamentul înainte de a vă întoarce acasă.",
-                "en": "End your wet ride in the quiet shelter of this church; carefully dry your gear and lights before heading back home."
+                "en": "End your wet ride in the quiet shelter of this church; carefully dry your gear and lights before heading back home.",
+                "fr": "Terminez votre sortie humide dans l’abri tranquille de cette église ; séchez soigneusement votre équipement et vos lumières avant de rentrer chez vous."
               }
             }
           ]
@@ -554,7 +613,8 @@
             "de": "Packen Sie sich für eine winterliche Fahrt ein. Mittags bieten das Rathaus und das Kulturzentrum eine Chance zum Aufwärmen. Fahren Sie flott an den Kreuzen vorbei. Erreichen Sie die letzte Kirche vor 17:00 Uhr.",
             "hu": "Öltözzön fel melegen a csípős téli tekeréshez. Délben a városháza és a kulturális központ segít felolvadni. Tekerjen tempósan a keresztek mellett a délutáni hidegben. Érjen az utolsó templomhoz a 17:00 órai sötétedés előtt.",
             "ro": "Îmbrăcați-vă gros pentru o plimbare de iarnă. Opririle de la amiază la primărie și centrul cultural oferă o șansă de a vă încălzi. Mergeți alert pe lângă cruci. Ajungeți la ultima biserică înainte de 17:00, când se lasă frigul.",
-            "en": "Bundle up for a crisp winter ride starting at the local church. Midday stops at the town hall and cultural center offer a chance to thaw out. Ride briskly past the crosses in the afternoon chill. Reach the final church before 17:00 when the freezing twilight sets in."
+            "en": "Bundle up for a crisp winter ride starting at the local church. Midday stops at the town hall and cultural center offer a chance to thaw out. Ride briskly past the crosses in the afternoon chill. Reach the final church before 17:00 when the freezing twilight sets in.",
+            "fr": "Couchez‑vous chaudement pour une balade hivernale franche commençant à l’église locale. Les arrêts de midi à l’hôtel de ville et au centre culturel offrent l’occasion de se réchauffer. Roulez d’un bon pas devant les croix dans le froid de l’après‑midi. Atteignez la dernière église avant 17:00 quand le crépuscule glacé s’installe."
           },
           "stops": [
             {
@@ -562,13 +622,15 @@
                 "en": "Church of the Assumption",
                 "de": "Kirche Mariä Himmelfahrt",
                 "hu": "Nagyboldogasszony-templom",
-                "ro": "Biserica Adormirea Maicii Domnului"
+                "ro": "Biserica Adormirea Maicii Domnului",
+                "fr": "Église de l’Assomption"
               },
               "tip_5lang": {
                 "de": "Wärmen Sie Ihre kalten Hände im historischen Heiligtum; tragen Sie dicke Thermohandschuhe für die kühle Morgenfahrt.",
                 "hu": "Melegítse fel hideg kezeit ebben a történelmi szentélyben; viseljen vastag termokesztyűt a csípős reggeli tekeréshez.",
                 "ro": "Încălziți-vă mâinile reci în acest sanctuar istoric; purtați mănuși termice groase pentru plimbarea răcoroasă de dimineață.",
-                "en": "Warm your cold hands inside this historic sanctuary; wear thick thermal gloves and layers for the chilly morning ride."
+                "en": "Warm your cold hands inside this historic sanctuary; wear thick thermal gloves and layers for the chilly morning ride.",
+                "fr": "Réchauffez vos mains froides à l’intérieur de ce sanctuaire historique ; portez des gants thermiques épais et plusieurs couches pour la balade matinale fraîche."
               }
             },
             {
@@ -576,13 +638,15 @@
                 "en": "Sorbiers Town Hall",
                 "de": "Rathaus Sorbiers",
                 "hu": "Sorbiers Városháza",
-                "ro": "Primăria Sorbiers"
+                "ro": "Primăria Sorbiers",
+                "fr": "Hôtel de ville de Sorbiers"
               },
               "tip_5lang": {
                 "de": "Treten Sie ein, um dem eisigen Winterwind beim Radfahren zu entgehen; bewundern Sie die schöne saisonale Dekoration.",
                 "hu": "Lépjen be, hogy elmeneküljön a metsző téli szél elől kerékpározás közben; csodálja meg a gyönyörű szezonális dekorációkat.",
                 "ro": "Intrați pentru a scăpa de vântul tăios de iarnă în timp ce pedalați; admirați frumoasele decorațiuni de sezon din jurul centrului.",
-                "en": "Step inside to escape the biting winter wind while cycling; admire the beautiful seasonal decorations around the center."
+                "en": "Step inside to escape the biting winter wind while cycling; admire the beautiful seasonal decorations around the center.",
+                "fr": "Entrez pour échapper au vent hivernal mordant en faisant du vélo ; admirez les belles décorations saisonnières autour du centre."
               }
             },
             {
@@ -590,13 +654,15 @@
                 "en": "l'Éloize Cultural Space",
                 "de": "Kulturzentrum l'Éloize",
                 "hu": "l'Éloize Kulturális Tér",
-                "ro": "Spațiul Cultural l'Éloize"
+                "ro": "Spațiul Cultural l'Éloize",
+                "fr": "Espace culturel l'Éloize"
               },
               "tip_5lang": {
                 "de": "Ein gemütlich beheizter Halt für die lokale Kultur; perfekt, um sich gründlich aufzuwärmen, bevor Sie weiterfahren.",
                 "hu": "Kényelmesen fűtött megálló a helyi kultúra élvezetére; tökéletes a test felmelegítésére, mielőtt újra nyeregbe szállna.",
                 "ro": "O oprire confortabilă și încălzită pentru a vă bucura de cultură; perfectă pentru a vă încălzi bine înainte de a pedala din nou.",
-                "en": "A comfortably heated stop to enjoy local culture; it is perfect for thoroughly warming your core before riding again."
+                "en": "A comfortably heated stop to enjoy local culture; it is perfect for thoroughly warming your core before riding again.",
+                "fr": "Un arrêt agréablement chauffé pour profiter de la culture locale ; parfait pour réchauffer complètement votre torse avant de repartir à vélo."
               }
             },
             {
@@ -604,13 +670,15 @@
                 "en": "Croix Blanche",
                 "de": "Croix Blanche (Weißes Kreuz)",
                 "hu": "Croix Blanche (Fehér Kereszt)",
-                "ro": "Crucea Albă"
+                "ro": "Crucea Albă",
+                "fr": "Croix Blanche"
               },
               "tip_5lang": {
                 "de": "Die kahlen Winterbäume heben dieses weiße Kreuz hervor; achten Sie auf versteckte Eisflächen auf schattigen Radwegen.",
                 "hu": "A kopár téli fák kiemelik ezt a fehér keresztet; figyeljen oda az árnyékos kerékpárutakon megbúvó jeges foltokra.",
                 "ro": "Copacii goi de iarnă scot în evidență această cruce albă; atenție la peticele ascunse de gheață de pe pistele umbrite.",
-                "en": "The barren winter trees highlight this white cross; watch carefully for hidden icy patches on the shaded bike paths."
+                "en": "The barren winter trees highlight this white cross; watch carefully for hidden icy patches on the shaded bike paths.",
+                "fr": "Les arbres hivernaux dépouillés mettent en valeur cette croix blanche ; surveillez attentivement les plaques de glace cachées sur les pistes cyclables ombragées."
               }
             },
             {
@@ -618,13 +686,15 @@
                 "en": "Croix Rouge",
                 "de": "Croix Rouge (Rotes Kreuz)",
                 "hu": "Croix Rouge (Piros Kereszt)",
-                "ro": "Crucea Roșie"
+                "ro": "Crucea Roșie",
+                "fr": "Croix Rouge"
               },
               "tip_5lang": {
                 "de": "Schöne frühe Nachmittagsschatten fallen auf dieses Wahrzeichen; bleiben Sie flott in Bewegung, um Ihre Körperwärme zu erhalten.",
                 "hu": "Gyönyörű kora délutáni árnyékok vetülnek erre a műemlékre; haladjon tempósan, hogy megőrizze testhőmérsékletét a hidegben.",
                 "ro": "Umbre frumoase de după-amiază cad pe acest monument; mișcați-vă rapid pentru a vă menține căldura corpului în frig.",
-                "en": "Beautiful early afternoon shadows fall on this landmark; keep moving briskly to maintain your body heat in the cold."
+                "en": "Beautiful early afternoon shadows fall on this landmark; keep moving briskly to maintain your body heat in the cold.",
+                "fr": "De belles ombres de début d’après‑midi tombent sur ce repère ; gardez un rythme soutenu pour maintenir votre chaleur corporelle dans le froid."
               }
             },
             {
@@ -632,13 +702,15 @@
                 "en": "Église Saint-Isidore",
                 "de": "Kirche Saint-Isidore",
                 "hu": "Saint-Isidore Templom",
-                "ro": "Biserica Saint-Isidore"
+                "ro": "Biserica Saint-Isidore",
+                "fr": "Église Saint‑Isidore"
               },
               "tip_5lang": {
                 "de": "Finden Sie Wärme in dieser Kirche am Ende Ihrer Route; stellen Sie sicher, dass Ihre hellen Fahrradlichter für den Rückweg leuchten.",
                 "hu": "Találjon meleget ebben a békés templomban az út végén; gondoskodjon róla, hogy az erős kerékpáros lámpák be legyenek kapcsolva.",
                 "ro": "Găsiți căldură în această biserică liniștită la finalul traseului; asigurați-vă că luminile bicicletei sunt aprinse pentru întoarcerea pe întuneric.",
-                "en": "Find warmth in this peaceful church at the end of your route; ensure your bright bike lights are on for the dark ride back."
+                "en": "Find warmth in this peaceful church at the end of your route; ensure your bright bike lights are on for the dark ride back.",
+                "fr": "Trouvez de la chaleur dans cette église paisible à la fin de votre itinéraire ; assurez‑vous d’avoir vos puissantes lumières de vélo allumées pour le retour dans l’obscurité."
               }
             }
           ]
@@ -658,7 +730,8 @@
             "en": "Église Saint-Joseph",
             "de": "Kirche Saint-Joseph",
             "hu": "Saint-Joseph Templom",
-            "ro": "Biserica Saint-Joseph"
+            "ro": "Biserica Saint-Joseph",
+            "fr": "Église Saint‑Joseph"
           },
           "coords": [
             4.485999,
@@ -673,7 +746,8 @@
             "en": "Observe the simpler yet profound architecture of this eastern parish church, and visit early in the day when the surrounding neighborhood is most peaceful.",
             "de": "Betrachten Sie die einfachere, aber tiefgründige Architektur dieser östlichen Pfarrkirche und besuchen Sie sie früh am Tag, wenn die Nachbarschaft am friedlichsten ist.",
             "hu": "Figyelje meg a keleti plébániatemplom egyszerűbb, de mélyreható építészetét, és látogasson el a nap elején, amikor a környező környék a legbékésebb.",
-            "ro": "Observați arhitectura mai simplă, dar profundă, a acestei biserici parohiale din est și vizitați-o dimineața devreme, când cartierul înconjurător este cel mai liniștit."
+            "ro": "Observați arhitectura mai simplă, dar profundă, a acestei biserici parohiale din est și vizitați-o dimineața devreme, când cartierul înconjurător este cel mai liniștit.",
+            "fr": "Observez l’architecture plus simple mais profonde de cette paroisse orientale, et visitez‑la tôt dans la journée lorsque le quartier environnant est le plus paisible."
           }
         },
         {
@@ -681,7 +755,8 @@
             "en": "Church of the Assumption",
             "de": "Kirche Mariä Himmelfahrt",
             "hu": "Nagyboldogasszony-templom",
-            "ro": "Biserica Adormirea Maicii Domnului"
+            "ro": "Biserica Adormirea Maicii Domnului",
+            "fr": "Église de l’Assomption"
           },
           "coords": [
             4.450689,
@@ -696,7 +771,8 @@
             "en": "Admire the historic architecture of this central church, an enduring community pillar, and look closely at the stunning stained glass in the morning light.",
             "de": "Bewundern Sie die historische Architektur dieser zentralen Kirche, ein beständiger Pfeiler der Gemeinde, und betrachten Sie die Buntglasfenster im Morgenlicht.",
             "hu": "Csodálja meg a központi templom történelmi építészetét, a közösség tartópillérét, és figyelje meg közelebbről a lenyűgöző ólomüveg ablakokat a reggeli fényben.",
-            "ro": "Admirați arhitectura istorică a acestei biserici centrale, un pilon al comunității, și priviți îndeaproape vitraliile uimitoare în lumina proaspătă a dimineții."
+            "ro": "Admirați arhitectura istorică a acestei biserici centrale, un pilon al comunității, și priviți îndeaproape vitraliile uimitoare în lumina proaspătă a dimineții.",
+            "fr": "Admirez l’architecture historique de cette église centrale, pilier durable de la communauté, et regardez de près les magnifiques vitraux au matin."
           }
         },
         {
@@ -704,7 +780,8 @@
             "en": "l'Éloize Cultural Space",
             "de": "Kulturzentrum l'Éloize",
             "hu": "l'Éloize Kulturális Tér",
-            "ro": "Spațiul Cultural l'Éloize"
+            "ro": "Spațiul Cultural l'Éloize",
+            "fr": "Espace culturel l'Éloize"
           },
           "coords": [
             4.446874,
@@ -719,7 +796,8 @@
             "en": "Explore this modern cultural hub which hosts vibrant exhibitions and performances, but make sure to confirm the gallery opening hours before your visit.",
             "de": "Erkunden Sie dieses moderne Kulturzentrum, das lebhafte Ausstellungen beherbergt, aber bestätigen Sie unbedingt die Öffnungszeiten der Galerie vor Ihrem Besuch.",
             "hu": "Fedezze fel ezt a modern kulturális központot, amely élénk kiállításoknak ad otthont, de látogatás előtt mindenképpen ellenőrizze a galéria nyitvatartási idejét.",
-            "ro": "Explorați acest centru cultural modern care găzduiește expoziții vibrante, dar asigurați-vă că verificați programul de funcționare al galeriei înainte de vizită."
+            "ro": "Explorați acest centru cultural modern care găzduiește expoziții vibrante, dar asigurați-vă că verificați programul de funcționare al galeriei înainte de vizită.",
+            "fr": "Explorez ce pôle culturel moderne qui accueille des expositions et des spectacles vivants, mais assurez‑vous de confirmer les horaires d’ouverture de la galerie avant votre visite."
           }
         },
         {
@@ -727,7 +805,8 @@
             "en": "Sorbiers Town Hall",
             "de": "Rathaus Sorbiers",
             "hu": "Sorbiers Városháza",
-            "ro": "Primăria Sorbiers"
+            "ro": "Primăria Sorbiers",
+            "fr": "Hôtel de ville de Sorbiers"
           },
           "coords": [
             4.449573,
@@ -742,7 +821,8 @@
             "en": "Appreciate the classic civic design of the Town Hall, the administrative heart of Sorbiers, and check the notice boards outside for upcoming local events.",
             "de": "Schätzen Sie das klassische bürgerliche Design des Rathauses, dem administrativen Herzen von Sorbiers, und prüfen Sie die Aushänge für lokale Veranstaltungen.",
             "hu": "Értékelje a Városháza klasszikus polgári kialakítását, Sorbiers adminisztratív szívét, és ellenőrizze a külső hirdetőtáblákat a közelgő helyi eseményekért.",
-            "ro": "Apreciați designul civic clasic al Primăriei, inima administrativă din Sorbiers, și verificați panourile informative exterioare pentru evenimentele locale."
+            "ro": "Apreciați designul civic clasic al Primăriei, inima administrativă din Sorbiers, și verificați panourile informative exterioare pentru evenimentele locale.",
+            "fr": "Appréciez le design civique classique de l’Hôtel de ville, cœur administratif de Sorbiers, et consultez les panneaux d’affichage extérieurs pour les événements locaux à venir."
           }
         },
         {
@@ -750,7 +830,8 @@
             "en": "Église Saint-Isidore",
             "de": "Kirche Saint-Isidore",
             "hu": "Saint-Isidore Templom",
-            "ro": "Biserica Saint-Isidore"
+            "ro": "Biserica Saint-Isidore",
+            "fr": "Église Saint‑Isidore"
           },
           "coords": [
             4.433592,
@@ -765,7 +846,8 @@
             "en": "Visit this serene church dedicated to the patron saint of farmers, a nod to the area's rural roots, and maintain a quiet demeanor during your brief tour.",
             "de": "Besuchen Sie diese friedliche Kirche, die dem Schutzpatron der Bauern gewidmet ist, und bewahren Sie während Ihres kurzen Rundgangs ein ruhiges Auftreten.",
             "hu": "Látogasson el a gazdák védőszentjének szentelt békés templomba, amely a terület vidéki gyökereire utal, és őrizzen meg csendes viselkedést a rövid túra során.",
-            "ro": "Vizitați această biserică senină dedicată sfântului patron al fermierilor, un semn al rădăcinilor rurale, și păstrați o atitudine liniștită în timpul turului."
+            "ro": "Vizitați această biserică senină dedicată sfântului patron al fermierilor, un semn al rădăcinilor rurale, și păstrați o atitudine liniștită în timpul turului.",
+            "fr": "Visitez cette église sereine dédiée au saint patron des paysans, clin d’œil aux racines rurales de la région, et gardez une attitude silencieuse pendant votre courte visite."
           }
         },
         {
@@ -773,7 +855,8 @@
             "en": "Crêt de la Chèvre Path",
             "de": "Crêt de la Chèvre Pfad",
             "hu": "Crêt de la Chèvre Ösvény",
-            "ro": "Poteca Crêt de la Chèvre"
+            "ro": "Poteca Crêt de la Chèvre",
+            "fr": "Sentier du Crêt de la Chèvre"
           },
           "coords": [
             4.406139,
@@ -788,7 +871,8 @@
             "en": "Hike along this natural path offering scenic panoramas of the rolling French countryside, and be sure to wear sturdy shoes for the uneven terrain segments.",
             "de": "Wandern Sie auf diesem Naturpfad mit malerischen Panoramen der sanften französischen Landschaft und tragen Sie unbedingt festes Schuhwerk für unebene Abschnitte.",
             "hu": "Túrázzon ezen a természetes ösvényen, amely festői panorámát nyújt a dombos francia vidékre, és mindenképpen viseljen erős cipőt az egyenetlen terepszakaszokon.",
-            "ro": "Drumeți pe această potecă naturală ce oferă panorame pitorești ale peisajului rural francez și purtați încălțăminte robustă pentru segmentele de teren accidentat."
+            "ro": "Drumeți pe această potecă naturală ce oferă panorame pitorești ale peisajului rural francez și purtați încălțăminte robustă pentru segmentele de teren accidentat.",
+            "fr": "Randonnez le long de ce chemin naturel offrant des panoramas pittoresques de la campagne française ondulante, et pensez à porter des chaussures robustes pour les segments de terrain inégal."
           }
         }
       ],
@@ -796,7 +880,8 @@
         "en": "Morning: Drive out to the eastern edge to see Église Saint-Joseph before returning to the town center for the main civic and religious landmarks.\n\nMidday: Park near the center to appreciate the l'Éloize Cultural Space, then take a short drive north to visit Église Saint-Isidore.\n\nAfternoon: Head west out of town to the Crêt de la Chèvre Path, embarking on a hike through picturesque scenery.\n\nEvening: Enjoy the scenic drive back into Sorbiers as dusk falls, reflecting on the blend of small-town heritage and nature.",
         "de": "Morgen: Fahren Sie an den östlichen Rand, um die Église Saint-Joseph zu sehen, bevor Sie für die wichtigsten Sehenswürdigkeiten ins Zentrum zurückkehren.\n\nMittag: Parken Sie in der Nähe des Zentrums, um das Kulturzentrum l'Éloize zu besuchen, und fahren Sie dann nach Norden zur Église Saint-Isidore.\n\nNachmittag: Fahren Sie nach Westen zum Crêt de la Chèvre Pfad und unternehmen Sie eine Wanderung durch malerische Landschaften.\n\nAbend: Genießen Sie die Fahrt zurück nach Sorbiers in der Abenddämmerung und die Natur.",
         "hu": "Reggel: Vezessen a keleti peremre az Église Saint-Joseph megtekintéséhez, mielőtt visszatérne a városközpont főbb látnivalóihoz.\n\nDélben: Parkoljon a központ közelében a l'Éloize Kulturális Tér miatt, majd tegyen egy rövid utat északra az Église Saint-Isidore-hoz.\n\nDélután: Irány nyugat a Crêt de la Chèvre ösvényhez, egy túrára a festői tájon keresztül.\n\nEste: Élvezze a festői visszautat Sorbiers-be alkonyatkor, elmélkedve a kisvárosi örökség és a gyönyörű helyi természet harmonikus keverékén.",
-        "ro": "Dimineața: Conduceți spre marginea de est pentru a vedea Église Saint-Joseph înainte de a reveni în centrul orașului pentru principalele atracții.\n\nLa prânz: Parcați în centru pentru a aprecia Spațiul Cultural l'Éloize, apoi conduceți scurt spre nord până la Église Saint-Isidore.\n\nDupă-amiaza: Îndreptați-vă spre vest către Poteca Crêt de la Chèvre, pornind într-o drumeție prin peisaje pitorești.\n\nSeara: Bucurați-vă de drumul pitoresc înapoi în Sorbiers la lăsarea serii, reflectând asupra naturii."
+        "ro": "Dimineața: Conduceți spre marginea de est pentru a vedea Église Saint-Joseph înainte de a reveni în centrul orașului pentru principalele atracții.\n\nLa prânz: Parcați în centru pentru a aprecia Spațiul Cultural l'Éloize, apoi conduceți scurt spre nord până la Église Saint-Isidore.\n\nDupă-amiaza: Îndreptați-vă spre vest către Poteca Crêt de la Chèvre, pornind într-o drumeție prin peisaje pitorești.\n\nSeara: Bucurați-vă de drumul pitoresc înapoi în Sorbiers la lăsarea serii, reflectând asupra naturii.",
+        "fr": "Matin : Partez en voiture vers la bordure est pour voir l’Église Saint‑Joseph avant de revenir au centre-ville pour les principaux monuments civiques et religieux.\n\nMidi : Garez‑vous près du centre pour apprécier l’Espace culturel l’Éloize, puis effectuez une courte conduite vers le nord pour visiter l’Église Saint‑Isidore.\n\nAprès‑midi : Dirigez‑vous vers l’ouest hors de la ville jusqu’au Sentier du Crêt de la Chèvre, pour entreprendre une randonnée à travers des paysages pittoresques.\n\nSoir : Profitez du trajet panoramique de retour à Sorbiers au crépuscule, en réfléchissant au mélange du patrimoine du village et de la nature."
       },
       "variants": {
         "rainy": {
@@ -804,7 +889,8 @@
             "de": "Fahren Sie sicher durch den Regen, beginnend an der Kirche Saint-Joseph. Das Parken am Mittag am Kulturzentrum hält Sie trocken. Beenden Sie die Tour am Naturpfad mit wasserdichten Stiefeln für die matschigen Wege.",
             "hu": "Vezessen biztonságosan az esőben, a Saint-Joseph templomtól indulva. A déli parkolás a kulturális központnál szárazon tartja. A délutáni látogatások egyszerűek autóval. Fejezze be a természetjáró ösvénynél, hozzon vízálló csizmát a saras utakra.",
             "ro": "Conduceți în siguranță prin ploaie, începând de la biserica Saint-Joseph. Parcarea de la amiază lângă centrul cultural vă menține uscat. Terminați la poteca din natură, aducând cizme impermeabile pentru traseele noroioase.",
-            "en": "Drive safely through the rain, starting at Saint-Joseph church. Midday parking near the Assumption church and cultural center keeps you dry. Afternoon civic visits are easy with a car. Finish at the nature path, bringing sturdy waterproof boots for the muddy trails."
+            "en": "Drive safely through the rain, starting at Saint-Joseph church. Midday parking near the Assumption church and cultural center keeps you dry. Afternoon civic visits are easy with a car. Finish at the nature path, bringing sturdy waterproof boots for the muddy trails.",
+            "fr": "Conduisez prudemment sous la pluie, en commençant par l’église Saint‑Joseph. À midi, garez‑vous près de l’église de l’Assomption et du centre culturel pour rester au sec. Les visites civiques de l’après‑midi sont faciles en voiture. Terminez au sentier naturel, en apportant des bottes imperméables robustes pour les sentiers boueux."
           },
           "stops": [
             {
@@ -812,13 +898,15 @@
                 "en": "Église Saint-Joseph",
                 "de": "Kirche Saint-Joseph",
                 "hu": "Saint-Joseph Templom",
-                "ro": "Biserica Saint-Joseph"
+                "ro": "Biserica Saint-Joseph",
+                "fr": "Église Saint‑Joseph"
               },
               "tip_5lang": {
                 "de": "Ein friedlicher, trockener Start in den Tag; halten Sie einen Regenschirm im Auto für den kurzen Weg vom Parkplatz bereit.",
                 "hu": "Békés, száraz kezdése a napnak; tartson esernyőt az autóban a parkolóból a bejáratig tartó rövid sétához.",
                 "ro": "Un început de zi liniștit și uscat; păstrați o umbrelă la îndemână în mașină pentru scurta plimbare de la parcare.",
-                "en": "A peaceful dry start to your day; keep an umbrella handy in the car for the short walk from the parking area."
+                "en": "A peaceful dry start to your day; keep an umbrella handy in the car for the short walk from the parking area.",
+                "fr": "Un départ paisible et au sec pour votre journée ; gardez un parapluie dans la voiture pour la courte marche depuis le parking."
               }
             },
             {
@@ -826,13 +914,15 @@
                 "en": "Church of the Assumption",
                 "de": "Kirche Mariä Himmelfahrt",
                 "hu": "Nagyboldogasszony-templom",
-                "ro": "Biserica Adormirea Maicii Domnului"
+                "ro": "Biserica Adormirea Maicii Domnului",
+                "fr": "Église de l’Assomption"
               },
               "tip_5lang": {
                 "de": "Treten Sie ein, um die Buntglasfenster vor Regen sicher zu bewundern; achten Sie auf rutschige, nasse Steinstufen am Haupteingang.",
                 "hu": "Lépjen be, hogy az esőtől védve megcsodálja az ólomüveg ablakokat; ügyeljen a főbejárat csúszós, nedves kőlépcsőire.",
                 "ro": "Intrați pentru a admira vitraliile la adăpost de ploaie; atenție la treptele de piatră alunecoase și umede de la intrarea principală.",
-                "en": "Step inside to admire the stained glass safely out of the rain; watch for slick, wet stone steps at the main entrance."
+                "en": "Step inside to admire the stained glass safely out of the rain; watch for slick, wet stone steps at the main entrance.",
+                "fr": "Entrez pour admirer les vitraux à l’abri de la pluie ; surveillez les marches en pierre mouillées et glissantes à l’entrée principale."
               }
             },
             {
@@ -840,13 +930,15 @@
                 "en": "l'Éloize Cultural Space",
                 "de": "Kulturzentrum l'Éloize",
                 "hu": "l'Éloize Kulturális Tér",
-                "ro": "Spațiul Cultural l'Éloize"
+                "ro": "Spațiul Cultural l'Éloize",
+                "fr": "Espace culturel l'Éloize"
               },
               "tip_5lang": {
                 "de": "Genießen Sie die Ausstellungen, während es draußen regnet; das Parken in der Nähe macht dies zu einem trockenen Transfer.",
                 "hu": "Élvezze a hosszú beltéri kiállításokat, miközben kint szakad az eső; a közeli parkolás teljesen száraz és könnyű átjutást biztosít.",
                 "ro": "Bucurați-vă de expozițiile lungi în timp ce plouă afară; parcarea din apropiere face ca acest transfer să fie perfect uscat.",
-                "en": "Enjoy long indoor exhibits while the rain falls heavily outside; parking nearby makes this a perfectly dry and easy transfer."
+                "en": "Enjoy long indoor exhibits while the rain falls heavily outside; parking nearby makes this a perfectly dry and easy transfer.",
+                "fr": "Profitez longuement des expositions intérieures pendant que la pluie tombe dehors ; le stationnement à proximité rend ce transfert parfaitement sec et facile."
               }
             },
             {
@@ -854,13 +946,15 @@
                 "en": "Sorbiers Town Hall",
                 "de": "Rathaus Sorbiers",
                 "hu": "Sorbiers Városháza",
-                "ro": "Primăria Sorbiers"
+                "ro": "Primăria Sorbiers",
+                "fr": "Hôtel de ville de Sorbiers"
               },
               "tip_5lang": {
                 "de": "Betrachten Sie die lokale Architektur von innen; schütteln Sie Ihren nassen Regenschirm ab, bevor Sie die warmen Hallen betreten.",
                 "hu": "Tekintse meg a helyi építészetet belülről; rázza le a nedves esernyőjét, mielőtt belépne a meleg adminisztratív csarnokokba.",
                 "ro": "Vedeți arhitectura locală din interior; scuturați umbrela udă înainte de a intra în sălile administrative călduroase.",
-                "en": "View the local architecture from the inside; shake off your wet umbrella before entering the warm administrative halls."
+                "en": "View the local architecture from the inside; shake off your wet umbrella before entering the warm administrative halls.",
+                "fr": "Découvrez l’architecture locale de l’intérieur ; secouez votre parapluie humide avant d’entrer dans les halls administratifs chauffés."
               }
             },
             {
@@ -868,13 +962,15 @@
                 "en": "Église Saint-Isidore",
                 "de": "Kirche Saint-Isidore",
                 "hu": "Saint-Isidore Templom",
-                "ro": "Biserica Saint-Isidore"
+                "ro": "Biserica Saint-Isidore",
+                "fr": "Église Saint‑Isidore"
               },
               "tip_5lang": {
                 "de": "Ein weiteres trockenes historisches Heiligtum; fahren Sie vorsichtig, da die umliegenden ländlichen Straßen überflutet sein können.",
                 "hu": "Egy újabb gyönyörűen száraz történelmi szentély felfedezésre; vezessen óvatosan, mivel a környező vidéki utak eláraszthatók.",
                 "ro": "Un alt sanctuar istoric uscat frumos de explorat; conduceți cu grijă, deoarece drumurile rurale din jur pot fi inundate.",
-                "en": "Another beautifully dry historical sanctuary to explore; drive carefully as the surrounding rural roads can be flooded."
+                "en": "Another beautifully dry historical sanctuary to explore; drive carefully as the surrounding rural roads can be flooded.",
+                "fr": "Un autre sanctuaire historique agréablement sec à explorer ; conduisez prudemment car les routes rurales environnantes peuvent être inondées."
               }
             },
             {
@@ -882,13 +978,15 @@
                 "en": "Crêt de la Chèvre Path",
                 "de": "Crêt de la Chèvre Pfad",
                 "hu": "Crêt de la Chèvre Ösvény",
-                "ro": "Poteca Crêt de la Chèvre"
+                "ro": "Poteca Crêt de la Chèvre",
+                "fr": "Sentier du Crêt de la Chèvre"
               },
               "tip_5lang": {
                 "de": "Erleben Sie den mystischen Naturpfad; hohe, wasserdichte Wanderstiefel sind für den tiefen Schlamm absolut unerlässlich.",
                 "hu": "Tapasztalja meg a hangulatos, ködös természetjáró ösvényt; a magas, vízálló túrabakancs elengedhetetlen a mély sár miatt.",
                 "ro": "Experimentați poteca din natură cu ceață; bocancii de drumeție înalți și impermeabili sunt absolut esențiali pentru noroiul adânc.",
-                "en": "Experience the moody, misty nature path from the trailhead; tall, waterproof hiking boots are absolutely essential for the deep mud."
+                "en": "Experience the moody, misty nature path from the trailhead; tall, waterproof hiking boots are absolutely essential for the deep mud.",
+                "fr": "Vivez le sentier naturel brumeux et d’ambiance depuis le point de départ ; de hautes bottes de randonnée imperméables sont absolument essentielles pour la boue profonde."
               }
             }
           ]
@@ -898,7 +996,8 @@
             "de": "Eine komfortable Winterfahrt beginnt an der warmen Kirche. Mittagsstopps am Kulturzentrum schützen vor der Kälte. Nachmittagsbesuche sind in Ihrem beheizten Auto gemütlich. Spazieren Sie vor Sonnenuntergang um 17:00 Uhr auf dem Naturpfad.",
             "hu": "Kényelmes téli autózás kezdődik a meleg Saint-Joseph templomnál. A déli megállók a kulturális térnél védenek a hidegtől. A délutáni látogatások hangulatosak a fűtött autóban. Sétáljon tempósan a természetben a 17:00 körüli naplemente előtt.",
             "ro": "O plimbare confortabilă de iarnă începe la biserica călduroasă. Opririle de la amiază vă protejează de frig. Vizitele de după-amiază sunt confortabile în mașina încălzită. Plimbați-vă rapid pe poteca din natură înainte de apusul de la ora 17:00.",
-            "en": "A comfortable winter drive begins at the warm Saint-Joseph church. Midday stops at the Assumption church and cultural space keep you shielded from the cold. Afternoon visits are cozy in your heated car. Walk the nature path briskly before the early sunset around 17:00."
+            "en": "A comfortable winter drive begins at the warm Saint-Joseph church. Midday stops at the Assumption church and cultural space keep you shielded from the cold. Afternoon visits are cozy in your heated car. Walk the nature path briskly before the early sunset around 17:00.",
+            "fr": "Une agréable balade hivernale en voiture commence à la chaleureuse église Saint-Joseph. Des arrêts à midi à l’église de l’Assomption et à l’espace culturel vous protègent du froid. Les visites de l’après-midi sont confortables dans votre voiture chauffée. Parcourez rapidement le sentier naturel avant le coucher du soleil vers 17:00."
           },
           "stops": [
             {
@@ -906,13 +1005,15 @@
                 "en": "Église Saint-Joseph",
                 "de": "Kirche Saint-Joseph",
                 "hu": "Saint-Joseph Templom",
-                "ro": "Biserica Saint-Joseph"
+                "ro": "Biserica Saint-Joseph",
+                "fr": "Église Saint-Joseph"
               },
               "tip_5lang": {
                 "de": "Genießen Sie den ruhigen Wintermorgen in dieser schönen Kirche; lassen Sie die Autoheizung etwas laufen, bevor Sie weiterfahren.",
                 "hu": "Élvezze a csendes téli reggelt ebben a gyönyörű templomban; járassa egy kicsit az autó fűtését, mielőtt továbbindulna a következő megállóhoz.",
                 "ro": "Bucurați-vă de dimineața liniștită de iarnă în această biserică frumoasă; lăsați căldura mașinii pornită puțin înainte de a merge mai departe.",
-                "en": "Enjoy the quiet winter morning inside this beautiful church; let your car heater run a bit before moving on to the next stop."
+                "en": "Enjoy the quiet winter morning inside this beautiful church; let your car heater run a bit before moving on to the next stop.",
+                "fr": "Profitez du calme du matin d’hiver à l’intérieur de cette belle église ; laissez un peu tourner le chauffage de la voiture avant de repartir."
               }
             },
             {
@@ -920,13 +1021,15 @@
                 "en": "Church of the Assumption",
                 "de": "Kirche Mariä Himmelfahrt",
                 "hu": "Nagyboldogasszony-templom",
-                "ro": "Biserica Adormirea Maicii Domnului"
+                "ro": "Biserica Adormirea Maicii Domnului",
+                "fr": "Église de l’Assomption"
               },
               "tip_5lang": {
                 "de": "Das historische Interieur bietet ein kühles, aber atemberaubendes Winterambiente; tragen Sie einen guten Wintermantel.",
                 "hu": "A történelmi belső tér hűvös, de lenyűgöző téli hangulatot kínál; viseljen jó télikabátot az autótól való rövid sétához.",
                 "ro": "Interiorul istoric oferă o ambianță de iarnă rece, dar uimitoare; purtați o haină bună de iarnă pentru scurta plimbare de la mașină.",
-                "en": "The historic interior offers a chilly but stunning winter ambiance; wear a good winter coat for the short walk from the car."
+                "en": "The historic interior offers a chilly but stunning winter ambiance; wear a good winter coat for the short walk from the car.",
+                "fr": "L’intérieur historique offre une ambiance hivernale fraîche mais magnifique ; portez un bon manteau d’hiver pour la courte marche depuis la voiture."
               }
             },
             {
@@ -934,13 +1037,15 @@
                 "en": "l'Éloize Cultural Space",
                 "de": "Kulturzentrum l'Éloize",
                 "hu": "l'Éloize Kulturális Tér",
-                "ro": "Spațiul Cultural l'Éloize"
+                "ro": "Spațiul Cultural l'Éloize",
+                "fr": "Espace culturel l'Éloize"
               },
               "tip_5lang": {
                 "de": "Wärmen Sie sich in diesem gut beheizten Kulturzentrum auf; ein toller Ort, um den kältesten Teil des Tages zu verbringen.",
                 "hu": "Melegedjen fel alaposan ebben a jól fűtött kulturális központban; kiváló hely a nap leghidegebb részének eltöltésére anélkül, hogy megfázna.",
                 "ro": "Încălziți-vă bine în acest centru cultural bine încălzit; un loc excelent pentru a petrece cea mai rece parte a zilei.",
-                "en": "Warm up thoroughly in this well-heated cultural center; a great spot to spend the coldest part of the day without getting chilled."
+                "en": "Warm up thoroughly in this well-heated cultural center; a great spot to spend the coldest part of the day without getting chilled.",
+                "fr": "Réchauffez-vous bien dans ce centre culturel bien chauffé ; un excellent endroit pour passer la partie la plus froide de la journée sans prendre froid."
               }
             },
             {
@@ -948,13 +1053,15 @@
                 "en": "Sorbiers Town Hall",
                 "de": "Rathaus Sorbiers",
                 "hu": "Sorbiers Városháza",
-                "ro": "Primăria Sorbiers"
+                "ro": "Primăria Sorbiers",
+                "fr": "Mairie de Sorbiers"
               },
               "tip_5lang": {
                 "de": "Bewundern Sie den schönen winterlichen Stadtplatz aus der Wärme der Halle; prüfen Sie vorab frühe Winterschließzeiten.",
                 "hu": "Csodálja meg a gyönyörű téli városteret a csarnok melegéből; érdeklődjön előre a korai téli zárvatartási időkről.",
                 "ro": "Admirați frumoasa piață de iarnă din căldura sălii; verificați în avans eventualele ore de închidere timpurie pe timp de iarnă.",
-                "en": "Admire the beautiful wintery town square from the warmth of the hall; check ahead for any early winter closing times."
+                "en": "Admire the beautiful wintery town square from the warmth of the hall; check ahead for any early winter closing times.",
+                "fr": "Admirez la belle place d’hiver depuis la chaleur de la mairie ; renseignez-vous à l’avance sur d’éventuelles fermetures anticipées en hiver."
               }
             },
             {
@@ -962,13 +1069,15 @@
                 "en": "Église Saint-Isidore",
                 "de": "Kirche Saint-Isidore",
                 "hu": "Saint-Isidore Templom",
-                "ro": "Biserica Saint-Isidore"
+                "ro": "Biserica Saint-Isidore",
+                "fr": "Église Saint-Isidore"
               },
               "tip_5lang": {
                 "de": "Ein friedlicher Halt mit tiefem Winterlicht; packen Sie sich gut für den Spaziergang draußen ein.",
                 "hu": "Békés megálló, ahol az alacsony téli fény szűrődik át az ólomüveg ablakokon; öltözzön fel melegen a kinti sétához.",
                 "ro": "O oprire liniștită, cu lumină de iarnă care se filtrează prin ferestre; înfofoliți-vă bine pentru plimbarea afară.",
-                "en": "A peaceful stop with low winter light filtering through the stained glass windows; bundle up securely for the walk outside."
+                "en": "A peaceful stop with low winter light filtering through the stained glass windows; bundle up securely for the walk outside.",
+                "fr": "Un arrêt paisible avec une faible lumière hivernale filtrant à travers les vitraux ; emmitouflez-vous soigneusement pour la marche à l’extérieur."
               }
             },
             {
@@ -976,13 +1085,15 @@
                 "en": "Crêt de la Chèvre Path",
                 "de": "Crêt de la Chèvre Pfad",
                 "hu": "Crêt de la Chèvre Ösvény",
-                "ro": "Poteca Crêt de la Chèvre"
+                "ro": "Poteca Crêt de la Chèvre",
+                "fr": "Sentier du Crêt de la Chèvre"
               },
               "tip_5lang": {
                 "de": "Ein flotter Winterspaziergang mit klaren Aussichten durch blattlose Bäume; kehren Sie vor dem Sonnenuntergang um 17:00 Uhr zum Auto zurück.",
                 "hu": "Tempós téli séta tiszta festői kilátással a lombtalan fákon keresztül; ügyeljen arra, hogy jóval a 17:00 órai naplemente előtt visszaérjen autójához.",
                 "ro": "O plimbare rapidă de iarnă cu vederi clare printre copacii fără frunze; asigurați-vă că vă întoarceți la mașină cu mult înainte de apusul de la ora 17:00.",
-                "en": "A brisk winter walk with clear scenic views through leafless trees; ensure you return to your car well before the 17:00 sunset."
+                "en": "A brisk winter walk with clear scenic views through leafless trees; ensure you return to your car well before the 17:00 sunset.",
+                "fr": "Une marche hivernale tonique avec de belles vues dégagées à travers les arbres sans feuilles ; veillez à revenir à votre voiture bien avant le coucher du soleil à 17:00."
               }
             }
           ]

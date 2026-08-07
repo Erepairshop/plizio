@@ -21,7 +21,8 @@
             "de": "Hôtel de Ville (ehemaliges Ursulinenkloster)",
             "hu": "Hôtel de Ville (egykori Orsolya-rendi kolostor)",
             "ro": "Hôtel de Ville (fosta mănăstire a ursulinelor)",
-            "en": "Hôtel de Ville (ancien Couvent des Ursulines)"
+            "en": "Hôtel de Ville (ancien Couvent des Ursulines)",
+            "fr": "Hôtel de Ville (ancien Couvent des Ursulines)"
           },
           "coords": [
             4.705757,
@@ -36,7 +37,8 @@
             "de": "Bewundern Sie das ehemalige Ursulinenkloster, das heute als Rathaus dient und ein Symbol der lokalen Geschichte ist, und achten Sie auf die elegante Architektur des Innenhofs.",
             "hu": "Csodálja meg a városházaként működő egykori Orsolya-rendi kolostort, a helyi történelem szimbólumát, és figyelje meg az elegáns belső udvar építészetét.",
             "ro": "Admirați fosta mănăstire a ursulinelor, care acum servește drept primărie, un simbol al istoriei locale, și observați arhitectura elegantă a curții interioare.",
-            "en": "Admire the former Ursuline convent that now serves as the town hall, a symbol of local history, and look out for the elegant courtyard architecture."
+            "en": "Admire the former Ursuline convent that now serves as the town hall, a symbol of local history, and look out for the elegant courtyard architecture.",
+            "fr": "Admirez l’ancien couvent des Ursulines qui sert maintenant d’hôtel de ville, symbole de l’histoire locale, et profitez de l’élégante architecture de la cour."
           }
         },
         {
@@ -44,7 +46,8 @@
             "de": "Priorat",
             "hu": "Perjelség",
             "ro": "Prioratul",
-            "en": "Prieuré"
+            "en": "Prieuré",
+            "fr": "Prieuré"
           },
           "coords": [
             4.7085,
@@ -59,7 +62,8 @@
             "de": "Erkunden Sie dieses historische Priorat, um das religiöse Erbe von Bar-sur-Aube zu verstehen, und halten Sie Ausschau nach den wunderschön erhaltenen Steinbögen.",
             "hu": "Fedezze fel ezt a történelmi perjelséget, hogy megértse Bar-sur-Aube vallási örökségét, és vessen egy pillantást a gyönyörűen megőrzött kőívekre.",
             "ro": "Explorați acest priorat istoric pentru a înțelege moștenirea religioasă a orașului, fiind atenți la arcadele de piatră care sunt frumos conservate.",
-            "en": "Explore this historic priory to understand the religious heritage of Bar-sur-Aube, keeping an eye open for the beautifully preserved stone archways."
+            "en": "Explore this historic priory to understand the religious heritage of Bar-sur-Aube, keeping an eye open for the beautifully preserved stone archways.",
+            "fr": "Explorez ce prieuré historique pour comprendre le patrimoine religieux de Bar-sur-Aube, en gardant un œil sur les magnifiques voûtes en pierre bien conservées."
           }
         },
         {
@@ -67,7 +71,8 @@
             "de": "Kirche Saint-Maclou",
             "hu": "Saint-Maclou templom",
             "ro": "Biserica Saint-Maclou",
-            "en": "Église Saint-Maclou"
+            "en": "Église Saint-Maclou",
+            "fr": "Église Saint-Maclou"
           },
           "coords": [
             4.706915,
@@ -82,7 +87,8 @@
             "de": "Besuchen Sie diese bemerkenswerte Kirche, die für ihren markanten Glockenturm und gotischen Elemente bekannt ist, und betrachten Sie die Buntglasfenster im Morgenlicht.",
             "hu": "Látogassa meg a gótikus elemekről és lenyűgöző harangtornyáról híres templomot, és próbálja meg egy napsütéses reggelen megcsodálni az ólomüveg ablakokat.",
             "ro": "Vizitați această biserică remarcabilă, renumită pentru turnul său și elementele gotice, și încercați să admirați vitraliile complicate într-o dimineață însorită.",
-            "en": "Visit this remarkable church renowned for its striking bell tower and Gothic elements, and try to view the intricate stained glass windows on a sunny morning."
+            "en": "Visit this remarkable church renowned for its striking bell tower and Gothic elements, and try to view the intricate stained glass windows on a sunny morning.",
+            "fr": "Visitez cette église remarquable réputée pour son clocher saisissant et ses éléments gothiques, et essayez d’admirer les vitraux élaborés lors d’une matinée ensoleillée."
           }
         },
         {
@@ -90,7 +96,8 @@
             "de": "Kirche Mariä Himmelfahrt",
             "hu": "Nagyboldogasszony-templom",
             "ro": "Biserica Adormirii Maicii Domnului",
-            "en": "Église de l'Assomption de la Vierge"
+            "en": "Église de l'Assomption de la Vierge",
+            "fr": "Église de l'Assomption de la Vierge"
           },
           "coords": [
             4.6954,
@@ -105,7 +112,8 @@
             "de": "Betreten Sie diese ruhige Kirche, um ihre friedliche Atmosphäre und ihren architektonischen Charme zu erleben, und gehen Sie leise, um die Umgebung zu respektieren.",
             "hu": "Lépjen be ebbe a csendes templomba, hogy megtapasztalja annak békés hangulatát és építészeti varázsát, ügyelve arra, hogy halkan lépkedjen.",
             "ro": "Pășiți în această biserică senină pentru a experimenta atmosfera sa pașnică și farmecul arhitectural, asigurându-vă că păstrați liniștea în interior.",
-            "en": "Step into this serene church to experience its peaceful atmosphere and architectural charm, making sure to walk quietly to respect the tranquil environment."
+            "en": "Step into this serene church to experience its peaceful atmosphere and architectural charm, making sure to walk quietly to respect the tranquil environment.",
+            "fr": "Pénétrez dans cette église sereine pour ressentir son atmosphère paisible et son charme architectural, en veillant à marcher tranquillement pour respecter l’environnement calme."
           }
         },
         {
@@ -113,7 +121,8 @@
             "de": "Kapelle Sainte-Germaine",
             "hu": "Sainte-Germaine kápolna",
             "ro": "Capela Sainte-Germaine",
-            "en": "Chapelle Sainte-Germaine"
+            "en": "Chapelle Sainte-Germaine",
+            "fr": "Chapelle Sainte-Germaine"
           },
           "coords": [
             4.698091,
@@ -128,7 +137,8 @@
             "de": "Wandern Sie zu dieser charmanten Kapelle auf dem Hügel, um einen Panoramablick auf das Aube-Tal zu genießen, weshalb bequeme Wanderschuhe dringend empfohlen werden.",
             "hu": "Sétáljon fel ehhez a bájos hegyoldali kápolnához, hogy élvezze az Aube-völgyre nyíló panorámát, így mindenképpen kényelmes cipőt viseljen.",
             "ro": "Urcați la această capelă fermecătoare de pe deal pentru a vă bucura de vederi panoramice asupra văii Aube, purtând neapărat încălțăminte confortabilă pentru plimbare.",
-            "en": "Hike up to this charming hillside chapel to enjoy panoramic views of the surrounding Aube valley, so wearing comfortable walking shoes is highly recommended."
+            "en": "Hike up to this charming hillside chapel to enjoy panoramic views of the surrounding Aube valley, so wearing comfortable walking shoes is highly recommended.",
+            "fr": "Montez jusqu’à cette charmante chapelle perchée pour profiter de vues panoramiques sur la vallée de l’Aube environnante ; portez des chaussures de marche confortables."
           }
         }
       ],
@@ -136,7 +146,8 @@
         "de": "Beginnen Sie den Morgen im historischen Zentrum am Rathaus. Der Mittag lädt zu einem ruhigen Besuch von Saint-Maclou und dem Priorat ein. Verbringen Sie den Nachmittag mit einem Spaziergang zur Kirche Mariä Himmelfahrt. Beenden Sie den Tag an der Sainte-Germaine.",
         "hu": "Kezdje a reggelt a történelmi belvárosban a Városházánál. A dél a Saint-Maclou és a Perjelség nyugodt felfedezésére hív. Délután sétáljon el a Nagyboldogasszony-templomhoz. Zárja a napot a Sainte-Germaine kápolna lélegzetelállító panorámájával.",
         "ro": "Începeți dimineața explorând inima istorică a orașului la Primărie. Prânzul vă invită la o vizită liniștită la Saint-Maclou. Petreceți după-amiaza rătăcind spre vest la Biserica Adormirii Maicii Domnului. Încheiați ziua cu o priveliște panoramică la Sainte-Germaine.",
-        "en": "Start your morning exploring the historic heart of Bar-sur-Aube at the Town Hall. Midday invites a peaceful visit to Saint-Maclou and the Priory. Spend your afternoon wandering west to the Assumption Church. End your day with a breathtaking hilltop view at Sainte-Germaine."
+        "en": "Start your morning exploring the historic heart of Bar-sur-Aube at the Town Hall. Midday invites a peaceful visit to Saint-Maclou and the Priory. Spend your afternoon wandering west to the Assumption Church. End your day with a breathtaking hilltop view at Sainte-Germaine.",
+        "fr": "Commencez la matinée à explorer le cœur historique de Bar-sur-Aube à l’Hôtel de Ville. À midi, profitez d’une visite paisible de Saint-Maclou et du Prieuré. Passez votre après-midi à vous promener vers l’ouest jusqu’à l’église de l’Assomption. Terminez la journée par une vue à couper le souffle au sommet de Sainte-Germaine."
       },
       "variants": {
         "rainy": {
@@ -144,7 +155,8 @@
             "de": "Beginnen Sie den regnerischen Morgen im ehemaligen Ursulinenkloster und suchen Sie Schutz in den historischen Fluren. Mittags erkunden Sie die Kirchen, deren Buntglasfenster auch bei grauem Himmel leuchten. Nachmittags bietet ein vorsichtiger Spaziergang zur Sainte-Germaine einen nebligen Ausblick. Beenden Sie den Tag bei einem Heißgetränk im Trockenen.",
             "hu": "Kezdje az esős reggelt az egykori Orsolya-rendi kolostornál, menedéket találva a történelmi folyosókon. Délben fedezze fel a gyönyörű templomokat, ahol az üvegablakok szürke ég alatt is ragyognak. Délután óvatos séta vezet a Sainte-Germaine-hez, amely titokzatos, ködös látványt nyújt. Zárja a napot egy meleg kávézóban, esernyőjét kéznél tartva.",
             "ro": "Începeți dimineața ploioasă la fosta mănăstire a ursulinelor, adăpostindu-vă pe coridoarele istorice. La prânz, explorați bisericile frumos conservate, unde vitraliile strălucesc chiar și sub cerul gri. După-amiaza, o plimbare atentă spre Sainte-Germaine oferă o priveliște mistică în ceață. Încheiați ziua la căldură cu o băutură caldă, având umbrela la îndemână.",
-            "en": "Start your rainy morning at the former Ursuline convent, taking shelter in its historic corridors. By noon, explore the beautifully preserved churches, where stunning stained glass windows glow even under grey skies. In the afternoon, a careful walk to Sainte-Germaine offers a misty, atmospheric view. End the day with a warm drink indoors, keeping your umbrella handy."
+            "en": "Start your rainy morning at the former Ursuline convent, taking shelter in its historic corridors. By noon, explore the beautifully preserved churches, where stunning stained glass windows glow even under grey skies. In the afternoon, a careful walk to Sainte-Germaine offers a misty, atmospheric view. End the day with a warm drink indoors, keeping your umbrella handy.",
+            "fr": "Commencez votre matinée pluvieuse au ancien couvent des Ursulines, en vous abritant dans ses couloirs historiques. Vers midi, explorez les églises magnifiquement préservées, où les vitraux brillent même sous un ciel gris. L’après-midi, une promenade prudente jusqu’à Sainte-Germaine offre une vue brumeuse et atmosphérique. Terminez la journée par une boisson chaude à l’intérieur, en gardant votre parapluie à portée de main."
           },
           "stops": [
             {
@@ -152,13 +164,15 @@
                 "de": "Hôtel de Ville (ehemaliges Ursulinenkloster)",
                 "hu": "Hôtel de Ville (egykori Orsolya-rendi kolostor)",
                 "ro": "Hôtel de Ville (fosta mănăstire a ursulinelor)",
-                "en": "Hôtel de Ville (ancien Couvent des Ursulines)"
+                "en": "Hôtel de Ville (ancien Couvent des Ursulines)",
+                "fr": "Hôtel de Ville (ancien Couvent des Ursulines)"
               },
               "tip_5lang": {
                 "de": "Bewundern Sie die klassische Architektur unter den schützenden Arkaden; halten Sie Ihren Regenschirm bereit, wenn Sie zwischen den Gebäuden wechseln.",
                 "hu": "Csodálja meg a klasszikus építészetet a védelmet nyújtó árkádok alól; tartsa készenlétben esernyőjét, miközben a történelmi épületek között sétál.",
                 "ro": "Admirați arhitectura clasică de sub arcadele protectoare; păstrați umbrela la îndemână pentru a rămâne uscați în timp ce vă deplasați între clădiri.",
-                "en": "Admire the classic architecture from under the protective cloisters; keep your umbrella ready to stay dry as you transition between the historic buildings."
+                "en": "Admire the classic architecture from under the protective cloisters; keep your umbrella ready to stay dry as you transition between the historic buildings.",
+                "fr": "Admirez l’architecture classique depuis les cloîtres protecteurs ; gardez votre parapluie prêt pour rester au sec lors des transitions entre les bâtiments historiques."
               }
             },
             {
@@ -166,13 +180,15 @@
                 "de": "Priorat",
                 "hu": "Perjelség",
                 "ro": "Prioratul",
-                "en": "Prieuré"
+                "en": "Prieuré",
+                "fr": "Prieuré"
               },
               "tip_5lang": {
                 "de": "Treten Sie ein, um dem Nieselregen zu entfliehen, und bestaunen Sie die kunstvollen religiösen Artefakte, die in dieser trockenen Umgebung ruhen.",
                 "hu": "Lépjen be, hogy elmeneküljön a szitáló eső elől, és csodálja meg az ebben a békés, száraz környezetben megőrzött bonyolult vallási műtárgyakat.",
                 "ro": "Pășiți înăuntru pentru a scăpa de ploaia măruntă și minunați-vă de artefactele religioase complexe, păstrate perfect în acest mediu pașnic și uscat.",
-                "en": "Step inside to escape the drizzle and marvel at the intricate religious artifacts beautifully preserved within this peaceful, dry, and historic environment."
+                "en": "Step inside to escape the drizzle and marvel at the intricate religious artifacts beautifully preserved within this peaceful, dry, and historic environment.",
+                "fr": "Entrez pour échapper à la bruine et admirez les objets religieux finement conservés dans cet environnement paisible, sec et chargé d’histoire."
               }
             },
             {
@@ -180,13 +196,15 @@
                 "de": "Kirche Saint-Maclou",
                 "hu": "Saint-Maclou templom",
                 "ro": "Biserica Saint-Maclou",
-                "en": "Église Saint-Maclou"
+                "en": "Église Saint-Maclou",
+                "fr": "Église Saint-Maclou"
               },
               "tip_5lang": {
                 "de": "Der Regen verstärkt die ruhige Atmosphäre; nehmen Sie sich Zeit für die beeindruckenden Details, während Sie im ruhigen Kirchenschiff trocknen.",
                 "hu": "Az eső fokozza a nyugodt légkört; szánjon időt a lenyűgöző belső részletek tanulmányozására, miközben megszárad a csendes, fenséges főhajóban.",
                 "ro": "Ploaia sporește atmosfera senină; acordați-vă timp pentru a studia detaliile interioare uimitoare în timp ce vă uscați în naosul liniștit al bisericii.",
-                "en": "The rain enhances the serene atmosphere; take time to study the stunning interior details while safely drying off in the remarkably quiet and grand nave."
+                "en": "The rain enhances the serene atmosphere; take time to study the stunning interior details while safely drying off in the remarkably quiet and grand nave.",
+                "fr": "La pluie renforce l’atmosphère sereine ; prenez le temps d’étudier les détails intérieurs tout en vous séchant dans la nef remarquablement calme et imposante."
               }
             },
             {
@@ -194,13 +212,15 @@
                 "de": "Kirche Mariä Himmelfahrt",
                 "hu": "Nagyboldogasszony-templom",
                 "ro": "Biserica Adormirii Maicii Domnului",
-                "en": "Église de l'Assomption de la Vierge"
+                "en": "Église de l'Assomption de la Vierge",
+                "fr": "Église de l'Assomption de la Vierge"
               },
               "tip_5lang": {
                 "de": "Bewundern Sie den Altar und meiden Sie das nasse Kopfsteinpflaster, indem Sie ein paar zusätzliche Minuten die großartige Akustik drinnen genießen.",
                 "hu": "Csodálja meg a hatalmas oltárt, és kerülje el a kinti nedves macskaköveket úgy, hogy néhány extra percet tölt a lenyűgöző benti akusztika élvezetével.",
                 "ro": "Admirați altarul măreț și evitați pietrele umede de afară petrecând câteva minute în plus pentru a vă bucura de acustica deosebită din interior.",
-                "en": "Admire the grand altar and avoid the wet cobblestones outside by spending a few extra minutes fully enjoying the spectacular indoor acoustics and art."
+                "en": "Admire the grand altar and avoid the wet cobblestones outside by spending a few extra minutes fully enjoying the spectacular indoor acoustics and art.",
+                "fr": "Admirez le grand autel et évitez les pavés glissants dehors en passant quelques minutes supplémentaires à profiter pleinement de l’acoustique et des œuvres d’art intérieures."
               }
             },
             {
@@ -208,13 +228,15 @@
                 "de": "Kapelle Sainte-Germaine",
                 "hu": "Sainte-Germaine kápolna",
                 "ro": "Capela Sainte-Germaine",
-                "en": "Chapelle Sainte-Germaine"
+                "en": "Chapelle Sainte-Germaine",
+                "fr": "Chapelle Sainte-Germaine"
               },
               "tip_5lang": {
                 "de": "Der Weg hinauf kann bei Nässe rutschig sein; tragen Sie festes Schuhwerk, um den dramatischen, regenverhangenen Blick auf das Tal sicher zu genießen.",
                 "hu": "A felfelé vezető út nedvesen csúszós lehet, ezért viseljen strapabíró, vízálló cipőt, hogy biztonságosan élvezhesse a völgyre nyíló drámai kilátást.",
                 "ro": "Cărarea poate fi alunecoasă pe ploaie, așa că purtați încălțăminte robustă pentru a vă bucura în siguranță de priveliștile dramatice ale văii.",
-                "en": "The path up can be quite slippery when wet, so wear sturdy waterproof boots to safely enjoy the dramatic, rain-swept views of the valley from the top."
+                "en": "The path up can be quite slippery when wet, so wear sturdy waterproof boots to safely enjoy the dramatic, rain-swept views of the valley from the top.",
+                "fr": "Le chemin d’accès peut être assez glissant quand il est mouillé, donc portez des bottes imperméables et robustes pour profiter en sécurité des vues dramatiques balayées par la pluie depuis le sommet."
               }
             }
           ]
@@ -224,7 +246,8 @@
             "de": "Beginnen Sie Ihren Winterspaziergang am Rathaus und genießen Sie die frostige Morgenluft. Gegen Mittag bieten die alten Kirchen einen warmen Zufluchtsort. Nachmittags belohnt der stramme Aufstieg zur Kapelle mit schneebedeckten Panoramen. Kehren Sie vor 17:00 Uhr zurück, da es früh dunkel wird, und wärmen Sie sich auf.",
             "hu": "Indítsa a fagyos téli sétát a történelmi Városházánál, élvezve a friss levegőt. Délkörül a régi templomok meleg menedéket és békés pillanatokat kínálnak. Délután a kápolnához vezető túra hófödte panorámával jutalmaz. Induljon vissza 17:00 óra előtt, mivel korán sötétedik, és zárja a napot egy kiadós, melegítő vacsorával.",
             "ro": "Începeți plimbarea de iarnă la primărie, bucurându-vă de aerul proaspăt al dimineții. La prânz, bisericile vechi oferă un refugiu cald. După-amiaza, drumeția spre capelă vă răsplătește cu priveliști acoperite de zăpadă. Întoarceți-vă înainte de ora 17:00, deoarece se întunecă devreme, și încălziți-vă la interior.",
-            "en": "Kick off your crisp winter walk at the Town Hall, enjoying the frosty morning air. Around noon, ancient churches offer a warm refuge and peaceful moments. By the afternoon, the brisk hike to the chapel rewards you with sweeping, snow-dusted views. Head back before 17:00 as twilight falls early, ending with a hearty dinner."
+            "en": "Kick off your crisp winter walk at the Town Hall, enjoying the frosty morning air. Around noon, ancient churches offer a warm refuge and peaceful moments. By the afternoon, the brisk hike to the chapel rewards you with sweeping, snow-dusted views. Head back before 17:00 as twilight falls early, ending with a hearty dinner.",
+            "fr": "Commencez votre marche fraîche d’hiver à l’Hôtel de Ville, en profitant de l’air matinal givré. Vers midi, les églises anciennes offrent un refuge chaleureux et des moments de quiétude. L’après-midi, la montée tonique jusqu’à la chapelle vous récompense par des vues étendues poudrées de neige. Retournez avant 17:00 car le crépuscule arrive tôt, et terminez par un dîner copieux."
           },
           "stops": [
             {
@@ -232,13 +255,15 @@
                 "de": "Hôtel de Ville (ehemaliges Ursulinenkloster)",
                 "hu": "Hôtel de Ville (egykori Orsolya-rendi kolostor)",
                 "ro": "Hôtel de Ville (fosta mănăstire a ursulinelor)",
-                "en": "Hôtel de Ville (ancien Couvent des Ursulines)"
+                "en": "Hôtel de Ville (ancien Couvent des Ursulines)",
+                "fr": "Hôtel de Ville (ancien Couvent des Ursulines)"
               },
               "tip_5lang": {
                 "de": "Der Frost betont das feine Mauerwerk; tragen Sie Thermokleidung, da der historische Innenhof am Wintermorgen sehr kalt sein kann.",
                 "hu": "A dér gyönyörűen kiemeli a kőművesmunkát; viseljen meleg rétegeket, mivel a történelmi udvar a téli reggeleken kifejezetten csípős lehet.",
                 "ro": "Gerul evidențiază detaliile din piatră; purtați straturi termice, deoarece curtea istorică poate fi destul de rece în diminețile de iarnă.",
-                "en": "The frost highlights the stonework perfectly; ensure you wear thermal layers as the historic courtyard can be quite biting in the winter morning."
+                "en": "The frost highlights the stonework perfectly; ensure you wear thermal layers as the historic courtyard can be quite biting in the winter morning.",
+                "fr": "Le gel met parfaitement en valeur la pierre ; assurez-vous de porter des couches thermiques car la cour historique peut être très mordante lors des matins d'hiver."
               }
             },
             {
@@ -246,13 +271,15 @@
                 "de": "Priorat",
                 "hu": "Perjelség",
                 "ro": "Prioratul",
-                "en": "Prieuré"
+                "en": "Prieuré",
+                "fr": "Prieuré"
               },
               "tip_5lang": {
                 "de": "Suchen Sie Wärme in diesem ruhigen Heiligtum, wo die dicken Steinmauern die eisigen Winterwinde abhalten, während Sie erkunden.",
                 "hu": "Keressen meleget ebben a csendes szentélyben, ahol a vastag kőfalak kint tartják a zord téli szeleket a nyugodt benti felfedezés során.",
                 "ro": "Căutați căldura în acest sanctuar liniștit, unde zidurile groase de piatră țin la distanță vânturile aspre de iarnă în timpul explorării.",
-                "en": "Seek much-needed warmth inside this quiet sanctuary, where the incredibly thick stone walls keep the harsh winter winds at bay while you explore."
+                "en": "Seek much-needed warmth inside this quiet sanctuary, where the incredibly thick stone walls keep the harsh winter winds at bay while you explore.",
+                "fr": "Cherchez chaleur et réconfort à l'intérieur de ce sanctuaire paisible, où les murs de pierre incroyablement épais protègent des vents d'hiver pendant votre exploration."
               }
             },
             {
@@ -260,13 +287,15 @@
                 "de": "Kirche Saint-Maclou",
                 "hu": "Saint-Maclou templom",
                 "ro": "Biserica Saint-Maclou",
-                "en": "Église Saint-Maclou"
+                "en": "Église Saint-Maclou",
+                "fr": "Église Saint-Maclou"
               },
               "tip_5lang": {
                 "de": "Das weiche Winterlicht, das durch die Fenster fällt, ist magisch; wärmen Sie sich drinnen auf, während Sie die alten Skulpturen bewundern.",
                 "hu": "A hideg téli fény varázslatosan szűrődik át az ablakokon; melegítse fel a kezeit odabent, miközben az ősi szobrokat és díszítéseket csodálja.",
                 "ro": "Lumina blândă a iernii care pătrunde prin ferestre este magică; încălziți-vă în interior în timp ce admirați sculpturile străvechi.",
-                "en": "The soft winter light filtering through the stained glass is magical; warm your hands indoors while admiring the spectacularly carved ancient sculptures."
+                "en": "The soft winter light filtering through the stained glass is magical; warm your hands indoors while admiring the spectacularly carved ancient sculptures.",
+                "fr": "La douce lumière hivernale filtrant à travers les vitraux est magique ; réchauffez-vous à l'intérieur en admirant les sculptures anciennes superbement sculptées."
               }
             },
             {
@@ -274,13 +303,15 @@
                 "de": "Kirche Mariä Himmelfahrt",
                 "hu": "Nagyboldogasszony-templom",
                 "ro": "Biserica Adormirii Maicii Domnului",
-                "en": "Église de l'Assomption de la Vierge"
+                "en": "Église de l'Assomption de la Vierge",
+                "fr": "Église de l'Assomption de la Vierge"
               },
               "tip_5lang": {
                 "de": "Suchen Sie Zuflucht vor der Kälte in diesem weiten Raum; die aufwendigen Holzschnitzereien lassen die frostigen Temperaturen schnell vergessen.",
                 "hu": "Menedéket találhat a fagy elől ebben a hatalmas térben; a bonyolult fafaragványok tökéletesen elterelik a figyelmet a kinti dermesztő hidegről.",
                 "ro": "Refugiați-vă de frig în acest spațiu vast; sculpturile complicate în lemn reprezintă o distragere perfectă de la temperaturile de îngheț.",
-                "en": "Take refuge from the bitter cold in this grand space; the intricate wood carvings are a perfect distraction from the freezing winter temperatures outside."
+                "en": "Take refuge from the bitter cold in this grand space; the intricate wood carvings are a perfect distraction from the freezing winter temperatures outside.",
+                "fr": "Refugiez-vous du froid glacial dans ce vaste espace ; les sculptures en bois finement travaillées sont une excellente distraction des températures hivernales extérieures."
               }
             },
             {
@@ -288,13 +319,15 @@
                 "de": "Kapelle Sainte-Germaine",
                 "hu": "Sainte-Germaine kápolna",
                 "ro": "Capela Sainte-Germaine",
-                "en": "Chapelle Sainte-Germaine"
+                "en": "Chapelle Sainte-Germaine",
+                "fr": "Chapelle Sainte-Germaine"
               },
               "tip_5lang": {
                 "de": "Kleiden Sie sich warm für den Hügel; der frühe Sonnenuntergang taucht die ruhige Winterlandschaft in ein atemberaubendes, goldenes Licht.",
                 "hu": "Öltözzön nagyon melegen a nyitott dombtetőre; a korai, 17:00 órás naplemente lélegzetelállító aranyfénybe öltözteti a csendes vidéket.",
                 "ro": "Îmbrăcați-vă călduros pentru dealul expus; apusul timpuriu de iarnă aruncă o strălucire aurie uluitoare peste peisajul rural liniștit.",
-                "en": "Dress exceptionally warmly for the exposed hill; the early winter sunset casts a breathtaking golden glow over the quiet snow-dusted countryside below."
+                "en": "Dress exceptionally warmly for the exposed hill; the early winter sunset casts a breathtaking golden glow over the quiet snow-dusted countryside below.",
+                "fr": "Habillez-vous très chaudement pour la colline exposée ; le coucher de soleil d'hiver précoce projette une lumière dorée à couper le souffle sur la campagne enneigée en contrebas."
               }
             }
           ]
@@ -314,7 +347,8 @@
             "de": "Hôtel de Ville (ehemaliges Ursulinenkloster)",
             "hu": "Hôtel de Ville (egykori Orsolya-rendi kolostor)",
             "ro": "Hôtel de Ville (fosta mănăstire a ursulinelor)",
-            "en": "Hôtel de Ville (ancien Couvent des Ursulines)"
+            "en": "Hôtel de Ville (ancien Couvent des Ursulines)",
+            "fr": "Hôtel de Ville (ancien Couvent des Ursulines)"
           },
           "coords": [
             4.705757,
@@ -329,7 +363,8 @@
             "de": "Bewundern Sie das ehemalige Ursulinenkloster, das heute als Rathaus dient und ein Symbol der lokalen Geschichte ist, und achten Sie auf die elegante Architektur des Innenhofs.",
             "hu": "Csodálja meg a városházaként működő egykori Orsolya-rendi kolostort, a helyi történelem szimbólumát, és figyelje meg az elegáns belső udvar építészetét.",
             "ro": "Admirați fosta mănăstire a ursulinelor, care acum servește drept primărie, un simbol al istoriei locale, și observați arhitectura elegantă a curții interioare.",
-            "en": "Admire the former Ursuline convent that now serves as the town hall, a symbol of local history, and look out for the elegant courtyard architecture."
+            "en": "Admire the former Ursuline convent that now serves as the town hall, a symbol of local history, and look out for the elegant courtyard architecture.",
+            "fr": "Admirez l'ancien couvent des Ursulines qui sert désormais d'hôtel de ville, symbole de l'histoire locale, et repérez l'élégante architecture de la cour."
           }
         },
         {
@@ -337,7 +372,8 @@
             "de": "Priorat",
             "hu": "Perjelség",
             "ro": "Prioratul",
-            "en": "Prieuré"
+            "en": "Prieuré",
+            "fr": "Prieuré"
           },
           "coords": [
             4.7085,
@@ -352,7 +388,8 @@
             "de": "Erkunden Sie dieses historische Priorat, um das religiöse Erbe von Bar-sur-Aube zu verstehen, und halten Sie Ausschau nach den wunderschön erhaltenen Steinbögen.",
             "hu": "Fedezze fel ezt a történelmi perjelséget, hogy megértse Bar-sur-Aube vallási örökségét, és vessen egy pillantást a gyönyörűen megőrzött kőívekre.",
             "ro": "Explorați acest priorat istoric pentru a înțelege moștenirea religioasă a orașului, fiind atenți la arcadele de piatră care sunt frumos conservate.",
-            "en": "Explore this historic priory to understand the religious heritage of Bar-sur-Aube, keeping an eye open for the beautifully preserved stone archways."
+            "en": "Explore this historic priory to understand the religious heritage of Bar-sur-Aube, keeping an eye open for the beautifully preserved stone archways.",
+            "fr": "Explorez ce prieuré historique pour comprendre le patrimoine religieux de Bar-sur-Aube, en gardant les yeux ouverts sur les arcades de pierre magnifiquement préservées."
           }
         },
         {
@@ -360,7 +397,8 @@
             "de": "Kirche Saint-Maclou",
             "hu": "Saint-Maclou templom",
             "ro": "Biserica Saint-Maclou",
-            "en": "Église Saint-Maclou"
+            "en": "Église Saint-Maclou",
+            "fr": "Église Saint-Maclou"
           },
           "coords": [
             4.706915,
@@ -375,7 +413,8 @@
             "de": "Besuchen Sie diese bemerkenswerte Kirche, die für ihren markanten Glockenturm und gotischen Elemente bekannt ist, und betrachten Sie die Buntglasfenster im Morgenlicht.",
             "hu": "Látogassa meg a gótikus elemekről és lenyűgöző harangtornyáról híres templomot, és próbálja meg egy napsütéses reggelen megcsodálni az ólomüveg ablakokat.",
             "ro": "Vizitați această biserică remarcabilă, renumită pentru turnul său și elementele gotice, și încercați să admirați vitraliile complicate într-o dimineață însorită.",
-            "en": "Visit this remarkable church renowned for its striking bell tower and Gothic elements, and try to view the intricate stained glass windows on a sunny morning."
+            "en": "Visit this remarkable church renowned for its striking bell tower and Gothic elements, and try to view the intricate stained glass windows on a sunny morning.",
+            "fr": "Visitez cette église remarquable connue pour son clocher saisissant et ses éléments gothiques, et tentez d'admirer les vitraux détaillés lors d'une matinée ensoleillée."
           }
         },
         {
@@ -383,7 +422,8 @@
             "de": "Kirche Mariä Himmelfahrt",
             "hu": "Nagyboldogasszony-templom",
             "ro": "Biserica Adormirii Maicii Domnului",
-            "en": "Église de l'Assomption de la Vierge"
+            "en": "Église de l'Assomption de la Vierge",
+            "fr": "Église de l'Assomption de la Vierge"
           },
           "coords": [
             4.6954,
@@ -398,7 +438,8 @@
             "de": "Betreten Sie diese ruhige Kirche, um ihre friedliche Atmosphäre und ihren architektonischen Charme zu erleben, und gehen Sie leise, um die Umgebung zu respektieren.",
             "hu": "Lépjen be ebbe a csendes templomba, hogy megtapasztalja annak békés hangulatát és építészeti varázsát, ügyelve arra, hogy halkan lépkedjen.",
             "ro": "Pășiți în această biserică senină pentru a experimenta atmosfera sa pașnică și farmecul arhitectural, asigurându-vă că păstrați liniștea în interior.",
-            "en": "Step into this serene church to experience its peaceful atmosphere and architectural charm, making sure to walk quietly to respect the tranquil environment."
+            "en": "Step into this serene church to experience its peaceful atmosphere and architectural charm, making sure to walk quietly to respect the tranquil environment.",
+            "fr": "Entrez dans cette église sereine pour en ressentir l'atmosphère paisible et le charme architectural, en veillant à marcher calmement pour respecter le calme des lieux."
           }
         },
         {
@@ -406,7 +447,8 @@
             "de": "Kapelle Sainte-Germaine",
             "hu": "Sainte-Germaine kápolna",
             "ro": "Capela Sainte-Germaine",
-            "en": "Chapelle Sainte-Germaine"
+            "en": "Chapelle Sainte-Germaine",
+            "fr": "Chapelle Sainte-Germaine"
           },
           "coords": [
             4.698091,
@@ -421,7 +463,8 @@
             "de": "Wandern Sie zu dieser charmanten Kapelle auf dem Hügel, um einen Panoramablick auf das Aube-Tal zu genießen, weshalb bequeme Wanderschuhe dringend empfohlen werden.",
             "hu": "Sétáljon fel ehhez a bájos hegyoldali kápolnához, hogy élvezze az Aube-völgyre nyíló panorámát, így mindenképpen kényelmes cipőt viseljen.",
             "ro": "Urcați la această capelă fermecătoare de pe deal pentru a vă bucura de vederi panoramice asupra văii Aube, purtând neapărat încălțăminte confortabilă pentru plimbare.",
-            "en": "Hike up to this charming hillside chapel to enjoy panoramic views of the surrounding Aube valley, so wearing comfortable walking shoes is highly recommended."
+            "en": "Hike up to this charming hillside chapel to enjoy panoramic views of the surrounding Aube valley, so wearing comfortable walking shoes is highly recommended.",
+            "fr": "Montez jusqu'à cette charmante chapelle sur la colline pour profiter d'une vue panoramique sur la vallée de l'Aube environnante ; des chaussures de marche confortables sont vivement recommandées."
           }
         },
         {
@@ -429,7 +472,8 @@
             "de": "Schloss von Ailleville",
             "hu": "Ailleville kastélya",
             "ro": "Castelul din Ailleville",
-            "en": "Château d'Ailleville"
+            "en": "Château d'Ailleville",
+            "fr": "Château d'Ailleville"
           },
           "coords": [
             4.681718,
@@ -444,7 +488,8 @@
             "de": "Entdecken Sie dieses elegante Schloss, das Geschichten des lokalen Adels flüstert, und spazieren Sie durch das angrenzende Gelände, um die klassische Fassade zu bewundern.",
             "hu": "Fedezze fel ezt az elegáns kastélyt, amely a helyi nemesség meséit suttogja, és mindenképpen sétáljon egyet a szomszédos parkban, hogy értékelje a klasszikus homlokzatot.",
             "ro": "Descoperiți acest castel elegant care ascunde povești ale nobilimii locale și asigurați-vă că vă plimbați prin parcul adiacent pentru a aprecia fațada sa clasică.",
-            "en": "Discover this elegant castle that whispers tales of local nobility, and be sure to stroll through the adjacent grounds to fully appreciate its classic facade."
+            "en": "Discover this elegant castle that whispers tales of local nobility, and be sure to stroll through the adjacent grounds to fully appreciate its classic facade.",
+            "fr": "Découvrez ce château élégant qui murmure des récits de la noblesse locale, et promenez-vous dans les jardins adjacents pour apprécier pleinement sa façade classique."
           }
         }
       ],
@@ -452,7 +497,8 @@
         "de": "Radeln Sie durch die morgendlichen Straßen, beginnend am alten Kloster. Mittags fahren Sie vorbei an großen Kirchen. Der Nachmittag bietet eine malerische Fahrt nach Ailleville. Der Abend bringt eine entspannte Rückkehr unter dem Dämmerungshimmel.",
         "hu": "Kerékpározzon a reggeli utcákon, az egykori kolostortól indulva. Délben tekerjen el a nagy templomok mellett a külváros felé. A délutánt egy festői utazás tölti ki Ailleville-be. Az este kellemes, nyugodt visszautat ígér a lenyugvó nap fényében.",
         "ro": "Pedalați pe străzile matinale, începând de la vechea mănăstire. La prânz, treceți pe lângă biserici mărețe înainte de a vă îndrepta spre periferie. După-amiaza vă aduce o plimbare pitorească spre Ailleville. Seara se încheie cu o întoarcere relaxantă spre centrul orașului.",
-        "en": "Cycle through Bar-sur-Aube's morning streets, beginning at the old convent. By midday, pedal past grand churches before heading to the outskirts. Your afternoon is filled with a scenic ride to Ailleville. Evening brings a relaxed journey back under the twilight sky."
+        "en": "Cycle through Bar-sur-Aube's morning streets, beginning at the old convent. By midday, pedal past grand churches before heading to the outskirts. Your afternoon is filled with a scenic ride to Ailleville. Evening brings a relaxed journey back under the twilight sky.",
+        "fr": "Parcourez à vélo les rues matinales de Bar-sur-Aube en commençant par l'ancien couvent. À midi, pédalez devant de grandes églises avant de vous diriger vers la périphérie. Votre après-midi est consacrée à une balade pittoresque jusqu'à Ailleville. Le soir, retour détendu sous le ciel crépusculaire."
       },
       "variants": {
         "rainy": {
@@ -460,7 +506,8 @@
             "de": "Beginnen Sie Ihre regnerische Radtour am Rathaus und nutzen Sie die Arkaden. Mittags bieten die Kirchen trockene Pausen. Nachmittags radeln Sie vorsichtig auf nassen Wegen zum Schloss Ailleville. Beenden Sie die Fahrt sicher in der Dämmerung und schalten Sie Ihre Fahrradlichter auf den rutschigen Straßen rechtzeitig ein.",
             "hu": "Kezdje az esős biciklizést a Városházánál, az árkádok alatt menedéket keresve. Délben haladjon a templomok között, melyek száraz pihenőket kínálnak. Délután óvatosan tekerjen a vizes utakon a lenyűgöző Ailleville kastély felé. Fejezze be az utat biztonságosan, bekapcsolva a lámpákat a csúszós aszfalton.",
             "ro": "Începeți traseul ploios cu bicicleta la Primărie, folosind arcadele pentru adăpost. La prânz, pedalați între bisericile istorice pentru pauze uscate. După-amiaza, mergeți cu grijă spre Castelul Ailleville. Încheiați cursa în siguranță, cu luminile bicicletei aprinse pentru vizibilitate pe drumul alunecos.",
-            "en": "Start your wet biking day at the Town Hall, using its arches for quick cover. Midday involves hopping between historic churches, providing dry respites. In the afternoon, pedal carefully on the wet paths towards the grand Ailleville Castle. End the ride safely as dusk approaches, ensuring your bike lights are on."
+            "en": "Start your wet biking day at the Town Hall, using its arches for quick cover. Midday involves hopping between historic churches, providing dry respites. In the afternoon, pedal carefully on the wet paths towards the grand Ailleville Castle. End the ride safely as dusk approaches, ensuring your bike lights are on.",
+            "fr": "Commencez votre journée de vélo sous la pluie à l'Hôtel de Ville, en utilisant ses arches pour vous abriter rapidement. À midi, faites des haltes dans des églises historiques pour rester au sec. L'après-midi, pédalez prudemment sur les chemins détrempés vers le grand Château d'Ailleville. Terminez la sortie en toute sécurité à la tombée du jour, en veillant à allumer vos phares."
           },
           "stops": [
             {
@@ -468,13 +515,15 @@
                 "de": "Hôtel de Ville (ehemaliges Ursulinenkloster)",
                 "hu": "Hôtel de Ville (egykori Orsolya-rendi kolostor)",
                 "ro": "Hôtel de Ville (fosta mănăstire a ursulinelor)",
-                "en": "Hôtel de Ville (ancien Couvent des Ursulines)"
+                "en": "Hôtel de Ville (ancien Couvent des Ursulines)",
+                "fr": "Hôtel de Ville (ancien Couvent des Ursulines)"
               },
               "tip_5lang": {
                 "de": "Parken Sie unter dem Dachvorsprung; eine wasserdichte Jacke ist unerlässlich, um diese regnerische Radtour einigermaßen komfortabel zu beginnen.",
                 "hu": "Parkoljon le a tetőeresz alatt, amíg megcsodálja a homlokzatot; egy jó vízálló kabát elengedhetetlen a csapadékos kerékpártúra megkezdéséhez.",
                 "ro": "Parcați sub streșini în timp ce admirați fațada; o jachetă impermeabilă este esențială pentru a începe confortabil acest traseu ploios.",
-                "en": "Park safely under the eaves while you admire the facade; a high-quality waterproof jacket is absolutely essential to start this rainy cycling route."
+                "en": "Park safely under the eaves while you admire the facade; a high-quality waterproof jacket is absolutely essential to start this rainy cycling route.",
+                "fr": "Garez-vous à l'abri des avant-toits pendant que vous admirez la façade ; une veste imperméable de qualité est absolument indispensable pour commencer cet itinéraire cycliste pluvieux."
               }
             },
             {
@@ -482,13 +531,15 @@
                 "de": "Priorat",
                 "hu": "Perjelség",
                 "ro": "Prioratul",
-                "en": "Prieuré"
+                "en": "Prieuré",
+                "fr": "Prieuré"
               },
               "tip_5lang": {
                 "de": "Trocknen Sie sich drinnen ab, während Sie die Geschichte erkunden; halten Sie ein Handtuch bereit, um den Sattel später abzuwischen.",
                 "hu": "Száradjon meg egy kicsit odabent, miközben felfedezi a történelmét; tartson kéznél egy kis törölközőt, hogy letörölje a nedves nyerget indulás előtt.",
                 "ro": "Uscați-vă în interior în timp ce îi explorați istoria; păstrați un prosop mic la îndemână pentru a șterge șaua bicicletei înainte de a continua.",
-                "en": "Dry off thoroughly inside while exploring its history; keep a small dry towel handy in your pack to wipe your bike seat before continuing the journey."
+                "en": "Dry off thoroughly inside while exploring its history; keep a small dry towel handy in your pack to wipe your bike seat before continuing the journey.",
+                "fr": "Séchez-vous soigneusement à l'intérieur en explorant son histoire ; gardez une petite serviette sèche dans votre sac pour essuyer la selle de votre vélo avant de reprendre la route."
               }
             },
             {
@@ -496,13 +547,15 @@
                 "de": "Kirche Saint-Maclou",
                 "hu": "Saint-Maclou templom",
                 "ro": "Biserica Saint-Maclou",
-                "en": "Église Saint-Maclou"
+                "en": "Église Saint-Maclou",
+                "fr": "Église Saint-Maclou"
               },
               "tip_5lang": {
                 "de": "Treten Sie ein, um dem Schauer zu entgehen; das trübe Licht schafft eine dramatische Atmosphäre rund um die alten Steinpfeiler.",
                 "hu": "Lépjen be a záporok elől; a tompa esős fény rendkívül drámai és hangulatos atmoszférát teremt a monumentális ősi kőoszlopok körül.",
                 "ro": "Pășiți înăuntru pentru a scăpa de ploaie; lumina slabă creează o atmosferă dramatică și plină de dispoziție în jurul stâlpilor antici din piatră.",
-                "en": "Step inside to escape the relentless showers; the dim rainy light creates a wonderfully moody and dramatic atmosphere around the ancient stone pillars."
+                "en": "Step inside to escape the relentless showers; the dim rainy light creates a wonderfully moody and dramatic atmosphere around the ancient stone pillars.",
+                "fr": "Entrez pour échapper aux averses incessantes ; la lumière pluvieuse tamisée crée une atmosphère merveilleusement mélancolique et dramatique autour des anciens piliers en pierre."
               }
             },
             {
@@ -510,13 +563,15 @@
                 "de": "Kirche Mariä Himmelfahrt",
                 "hu": "Nagyboldogasszony-templom",
                 "ro": "Biserica Adormirii Maicii Domnului",
-                "en": "Église de l'Assomption de la Vierge"
+                "en": "Église de l'Assomption de la Vierge",
+                "fr": "Église de l'Assomption de la Vierge"
               },
               "tip_5lang": {
                 "de": "Nutzen Sie diesen weiten Innenraum, um sich vor dem Regen die Beine zu vertreten; prüfen Sie Ihre Bremsen, bevor Sie weiterfahren.",
                 "hu": "Használja ki ezt a hatalmas belső teret, hogy kinyújtóztassa a lábait távol az esőtől; indulás előtt feltétlenül ellenőrizze a fékeket a vizes úton.",
                 "ro": "Folosiți acest spațiu interior vast pentru a vă dezmorți picioarele departe de ploaie; verificați frânele bicicletei înainte de a pleca.",
-                "en": "Use this vast indoor space to comfortably stretch your legs away from the rain; double-check your bike brakes are responsive before leaving the dry area."
+                "en": "Use this vast indoor space to comfortably stretch your legs away from the rain; double-check your bike brakes are responsive before leaving the dry area.",
+                "fr": "Utilisez ce vaste espace intérieur pour étirer confortablement vos jambes à l'abri de la pluie ; vérifiez bien que les freins de votre vélo répondent avant de quitter la zone sèche."
               }
             },
             {
@@ -524,13 +579,15 @@
                 "de": "Kapelle Sainte-Germaine",
                 "hu": "Sainte-Germaine kápolna",
                 "ro": "Capela Sainte-Germaine",
-                "en": "Chapelle Sainte-Germaine"
+                "en": "Chapelle Sainte-Germaine",
+                "fr": "Chapelle Sainte-Germaine"
               },
               "tip_5lang": {
                 "de": "Der Anstieg kann extrem rutschig sein; fahren Sie vorsichtig und genießen Sie oben die nebelverhangene Aussicht auf das Tal.",
                 "hu": "A kaptató csúszós lehet a sár miatt; tekerjen nagyon óvatosan, és ha felért, élvezze a titokzatos, eső áztatta völgy panorámáját.",
                 "ro": "Urcușul poate fi alunecos; mergeți cu atenție și bucurați-vă de priveliștea melancolică a văii învăluite în ploaie odată ce ajungeți în vârf.",
-                "en": "The steep ascent can be slick with wet mud; ride carefully in low gear and enjoy the beautifully moody, rain-shrouded valley view from the top."
+                "en": "The steep ascent can be slick with wet mud; ride carefully in low gear and enjoy the beautifully moody, rain-shrouded valley view from the top.",
+                "fr": "La montée raide peut être glissante avec la boue humide ; roulez prudemment en petite vitesse et profitez de la vue de la vallée brumeuse et enveloppée de pluie depuis le sommet."
               }
             },
             {
@@ -538,13 +595,15 @@
                 "de": "Schloss von Ailleville",
                 "hu": "Ailleville kastélya",
                 "ro": "Castelul din Ailleville",
-                "en": "Château d'Ailleville"
+                "en": "Château d'Ailleville",
+                "fr": "Château d'Ailleville"
               },
               "tip_5lang": {
                 "de": "Erkunden Sie die majestätischen Innenräume im Trockenen; radeln Sie behutsam, um auf nassen Blättern nicht auszurutschen.",
                 "hu": "Fedezze fel a fenséges belső tereket, hogy szárazon maradjon; a kastélyhoz vezető úton óvatosan kerékpározzon, nehogy megcsússzon a nedves leveleken.",
                 "ro": "Explorați interioarele maiestuoase pentru a rămâne uscați; pedalați cu prudență pe aleea umedă a castelului pentru a evita derapajele pe frunze.",
-                "en": "Explore the majestic interiors to comfortably stay dry; cycle cautiously on the wet castle approach to avoid a dangerous skid on slick fallen leaves."
+                "en": "Explore the majestic interiors to comfortably stay dry; cycle cautiously on the wet castle approach to avoid a dangerous skid on slick fallen leaves.",
+                "fr": "Explorez les intérieurs majestueux pour rester au sec ; circulez prudemment sur l'approche du château mouillée pour éviter tout dérapage dangereux sur les feuilles tombées et glissantes."
               }
             }
           ]
@@ -554,7 +613,8 @@
             "de": "Starten Sie Ihre Winterradtour am Rathaus, warm eingepackt. Mittags wärmen Sie sich in den schönen Kirchen der Stadt auf. Die Nachmittagsfahrt zum Schloss Ailleville ist frisch, bleiben Sie in Bewegung. Da die Sonne gegen 17:00 Uhr untergeht, beenden Sie die Tour frühzeitig mit hellem Licht auf den frostigen Straßen.",
             "hu": "Indítsa a téli kerékpártúrát a Városházánál, jól felöltözve. Délben melegedjen fel a városban elszórt templomokban. A délutáni tekerés az Ailleville kastélyhoz csípős lehet, így maradjon mozgásban. Mivel a nap 17:00-kor nyugszik, fejezze be korán az utat, és használjon erős lámpákat a sötét utakon.",
             "ro": "Începeți turul ciclist de iarnă la Primărie, bine îmbrăcați împotriva gerului. La prânz, încălziți-vă în interiorul frumoaselor biserici. Călătoria de după-amiază spre Castelul Ailleville este rece. Soarele apunând la 17:00, terminați traseul devreme și folosiți lumini puternice pentru drumurile înghețate.",
-            "en": "Kick off your winter cycling tour at the Town Hall, bundled up. By midday, warm up inside the beautiful churches. The afternoon ride to Ailleville Castle gets chilly, so keep moving. With the sun setting by 17:00, ensure you finish your route early and have bright bike lights ready for the dark, frosty roads."
+            "en": "Kick off your winter cycling tour at the Town Hall, bundled up. By midday, warm up inside the beautiful churches. The afternoon ride to Ailleville Castle gets chilly, so keep moving. With the sun setting by 17:00, ensure you finish your route early and have bright bike lights ready for the dark, frosty roads.",
+            "fr": "Lancez votre circuit cycliste hivernal à l'Hôtel de Ville, bien emmitouflé. À midi, réchauffez-vous à l'intérieur des belles églises. L'après-midi, la route jusqu'au Château d'Ailleville devient fraîche, alors gardez le rythme. Le soleil se couchant à 17:00, terminez tôt et équipez-vous de phares puissants pour les routes sombres et glacées."
           },
           "stops": [
             {
@@ -562,13 +622,15 @@
                 "de": "Hôtel de Ville (ehemaliges Ursulinenkloster)",
                 "hu": "Hôtel de Ville (egykori Orsolya-rendi kolostor)",
                 "ro": "Hôtel de Ville (fosta mănăstire a ursulinelor)",
-                "en": "Hôtel de Ville (ancien Couvent des Ursulines)"
+                "en": "Hôtel de Ville (ancien Couvent des Ursulines)",
+                "fr": "Hôtel de Ville (ancien Couvent des Ursulines)"
               },
               "tip_5lang": {
                 "de": "Die Morgenluft ist eiskalt; tragen Sie dicke Thermohandschuhe für den Lenker, während Sie die Fassade dieses Klosters bewundern.",
                 "hu": "A reggeli levegő fagyos; viseljen vastag termokesztyűt a jéghideg kormány biztonságos fogásához, miközben a kolostor homlokzatát csodálja.",
                 "ro": "Aerul dimineții este înghețat; purtați mănuși termice pentru a prinde ghidonul în siguranță în timp ce admirați această fostă mănăstire.",
-                "en": "The morning air is freezing; wear thick thermal gloves for safely gripping the icy handlebars while you admire the intricate facade of this former convent."
+                "en": "The morning air is freezing; wear thick thermal gloves for safely gripping the icy handlebars while you admire the intricate facade of this former convent.",
+                "fr": "L'air du matin est glacé ; portez des gants thermiques épais pour bien tenir les poignées gelées tout en admirant la façade sculptée de cet ancien couvent."
               }
             },
             {
@@ -576,13 +638,15 @@
                 "de": "Priorat",
                 "hu": "Perjelség",
                 "ro": "Prioratul",
-                "en": "Prieuré"
+                "en": "Prieuré",
+                "fr": "Prieuré"
               },
               "tip_5lang": {
                 "de": "Machen Sie drinnen eine Pause, um Ihre Körperwärme wiederherzustellen, während Sie das faszinierende religiöse Erbe entdecken.",
                 "hu": "Tartson egy rövid pihenőt odabent, hogy helyreállítsa a testhőmérsékletét, miközben felfedezi a helyi, lenyűgöző vallási örökséget.",
                 "ro": "Luați o scurtă pauză în interior pentru a vă recăpăta căldura corporală, descoperind în același timp fascinanta moștenire religioasă locală.",
-                "en": "Take a brief and vital break inside to restore your body heat completely while discovering the fascinating local religious heritage on display."
+                "en": "Take a brief and vital break inside to restore your body heat completely while discovering the fascinating local religious heritage on display.",
+                "fr": "Faites une pause brève et essentielle à l'intérieur pour rétablir complètement votre chaleur corporelle tout en découvrant le fascinant patrimoine religieux exposé."
               }
             },
             {
@@ -590,13 +654,15 @@
                 "de": "Kirche Saint-Maclou",
                 "hu": "Saint-Maclou templom",
                 "ro": "Biserica Saint-Maclou",
-                "en": "Église Saint-Maclou"
+                "en": "Église Saint-Maclou",
+                "fr": "Église Saint-Maclou"
               },
               "tip_5lang": {
                 "de": "Das frostige Äußere kontrastiert wunderbar mit der geschützten Atmosphäre drinnen; ein perfekter Stopp zum Auftauen.",
                 "hu": "A fagyos külvilág gyönyörű kontrasztot alkot a védett belső terekkel; ez a tökéletes megálló a lefagyott ujjak felolvasztására.",
                 "ro": "Exteriorul înghețat contrastează frumos cu ambianța caldă din interior; o oprire perfectă pentru a vă dezgheța degetele.",
-                "en": "The frosty exterior contrasts beautifully with the warm indoor ambiance; a perfectly timed historical stop to completely thaw your frozen fingers."
+                "en": "The frosty exterior contrasts beautifully with the warm indoor ambiance; a perfectly timed historical stop to completely thaw your frozen fingers.",
+                "fr": "L'extérieur givré contraste magnifiquement avec l'ambiance intérieure chaleureuse ; un arrêt historique bien choisi pour complètement réchauffer vos doigts gelés."
               }
             },
             {
@@ -604,13 +670,15 @@
                 "de": "Kirche Mariä Himmelfahrt",
                 "hu": "Nagyboldogasszony-templom",
                 "ro": "Biserica Adormirii Maicii Domnului",
-                "en": "Église de l'Assomption de la Vierge"
+                "en": "Église de l'Assomption de la Vierge",
+                "fr": "Église de l'Assomption de la Vierge"
               },
               "tip_5lang": {
                 "de": "Gehen Sie im Kirchenschiff umher, um warm zu bleiben; die architektonischen Details lassen sich ohne kalten Wind besser würdigen.",
                 "hu": "Sétáljon körbe a tágas főhajóban, hogy melegen tartsa magát; a finom részleteket sokkal könnyebb értékelni, ha nem fúj a jeges szél.",
                 "ro": "Plimbați-vă prin naosul spațios pentru a vă menține cald; detaliile complicate sunt mai ușor de apreciat atunci când sunteți feriți de vânt.",
-                "en": "Walk briskly around the expansive nave to stay warm; the intricate details are significantly easier to appreciate when you're completely out of the wind."
+                "en": "Walk briskly around the expansive nave to stay warm; the intricate details are significantly easier to appreciate when you're completely out of the wind.",
+                "fr": "Parcourez rapidement la vaste nef pour rester au chaud ; les détails architecturaux sont beaucoup plus faciles à apprécier quand vous êtes à l'abri du vent."
               }
             },
             {
@@ -618,13 +686,15 @@
                 "de": "Kapelle Sainte-Germaine",
                 "hu": "Sainte-Germaine kápolna",
                 "ro": "Capela Sainte-Germaine",
-                "en": "Chapelle Sainte-Germaine"
+                "en": "Chapelle Sainte-Germaine",
+                "fr": "Chapelle Sainte-Germaine"
               },
               "tip_5lang": {
                 "de": "Der kalte Wind am Hügel ist beißend, aber der schneebedeckte Panoramablick belohnt die Mühe; tragen Sie winddichte Kleidung.",
                 "hu": "A dombon fújó hideg szél csípős, de a hóval hintett panoráma hihetetlenül kifizetődő; szigorúan csak szélálló rétegekben tekerjen ide.",
                 "ro": "Vântul rece de pe deal este tăios, dar priveliștea panoramică ninsă este incredibil de plină de satisfacții; purtați haine rezistente la vânt.",
-                "en": "The cold wind on the exposed hill is biting, but the snow-dusted panoramic view is incredibly rewarding; ensure you wear heavy windproof cycling layers."
+                "en": "The cold wind on the exposed hill is biting, but the snow-dusted panoramic view is incredibly rewarding; ensure you wear heavy windproof cycling layers.",
+                "fr": "Le vent froid sur la colline exposée est mordant, mais la vue panoramique saupoudrée de neige est incroyablement gratifiante ; portez des couches cyclistes coupe-vent et épaisses."
               }
             },
             {
@@ -632,13 +702,15 @@
                 "de": "Schloss von Ailleville",
                 "hu": "Ailleville kastélya",
                 "ro": "Castelul din Ailleville",
-                "en": "Château d'Ailleville"
+                "en": "Château d'Ailleville",
+                "fr": "Château d'Ailleville"
               },
               "tip_5lang": {
                 "de": "Die kahlen Winterbäume bieten freie Sicht auf die Fassade; fahren Sie zügig zurück, um die eisige Dunkelheit zu vermeiden.",
                 "hu": "A csupasz téli fák akadálytalan kilátást nyújtanak a homlokzatra; induljon vissza azonnal, hogy elkerülje a fagyos sötétben való veszélyes tekerést.",
                 "ro": "Copacii goi oferă vederi neobstrucționate ale fațadei; întoarceți-vă imediat după pentru a evita pedalatul în întunericul de îngheț.",
-                "en": "The bare winter trees offer beautiful unobstructed views of the facade; head back immediately after to avoid riding in the freezing, dangerous dark."
+                "en": "The bare winter trees offer beautiful unobstructed views of the facade; head back immediately after to avoid riding in the freezing, dangerous dark.",
+                "fr": "Les arbres dépouillés offrent de belles vues dégagées sur la façade ; revenez immédiatement pour éviter de rouler dans l'obscurité glaciale et dangereuse."
               }
             }
           ]
@@ -658,7 +730,8 @@
             "de": "Hôtel de Ville (ehemaliges Ursulinenkloster)",
             "hu": "Hôtel de Ville (egykori Orsolya-rendi kolostor)",
             "ro": "Hôtel de Ville (fosta mănăstire a ursulinelor)",
-            "en": "Hôtel de Ville (ancien Couvent des Ursulines)"
+            "en": "Hôtel de Ville (ancien Couvent des Ursulines)",
+            "fr": "Hôtel de Ville (ancien Couvent des Ursulines)"
           },
           "coords": [
             4.705757,
@@ -673,7 +746,8 @@
             "de": "Bewundern Sie das ehemalige Ursulinenkloster, das heute als Rathaus dient und ein Symbol der lokalen Geschichte ist, und achten Sie auf die elegante Architektur des Innenhofs.",
             "hu": "Csodálja meg a városházaként működő egykori Orsolya-rendi kolostort, a helyi történelem szimbólumát, és figyelje meg az elegáns belső udvar építészetét.",
             "ro": "Admirați fosta mănăstire a ursulinelor, care acum servește drept primărie, un simbol al istoriei locale, și observați arhitectura elegantă a curții interioare.",
-            "en": "Admire the former Ursuline convent that now serves as the town hall, a symbol of local history, and look out for the elegant courtyard architecture."
+            "en": "Admire the former Ursuline convent that now serves as the town hall, a symbol of local history, and look out for the elegant courtyard architecture.",
+            "fr": "Admirez l'ancien couvent des Ursulines qui sert désormais d'hôtel de ville, symbole de l'histoire locale, et repérez l'élégante architecture de la cour."
           }
         },
         {
@@ -681,7 +755,8 @@
             "de": "Kirche Saint-Maclou",
             "hu": "Saint-Maclou templom",
             "ro": "Biserica Saint-Maclou",
-            "en": "Église Saint-Maclou"
+            "en": "Église Saint-Maclou",
+            "fr": "Église Saint-Maclou"
           },
           "coords": [
             4.706915,
@@ -696,7 +771,8 @@
             "de": "Besuchen Sie diese bemerkenswerte Kirche, die für ihren markanten Glockenturm und gotischen Elemente bekannt ist, und betrachten Sie die Buntglasfenster im Morgenlicht.",
             "hu": "Látogassa meg a gótikus elemekről és lenyűgöző harangtornyáról híres templomot, és próbálja meg egy napsütéses reggelen megcsodálni az ólomüveg ablakokat.",
             "ro": "Vizitați această biserică remarcabilă, renumită pentru turnul său și elementele gotice, și încercați să admirați vitraliile complicate într-o dimineață însorită.",
-            "en": "Visit this remarkable church renowned for its striking bell tower and Gothic elements, and try to view the intricate stained glass windows on a sunny morning."
+            "en": "Visit this remarkable church renowned for its striking bell tower and Gothic elements, and try to view the intricate stained glass windows on a sunny morning.",
+            "fr": "Visitez cette église remarquable connue pour son clocher saisissant et ses éléments gothiques, et tentez d'admirer les vitraux détaillés lors d'une matinée ensoleillée."
           }
         },
         {
@@ -704,7 +780,8 @@
             "de": "Kapelle Sainte-Germaine",
             "hu": "Sainte-Germaine kápolna",
             "ro": "Capela Sainte-Germaine",
-            "en": "Chapelle Sainte-Germaine"
+            "en": "Chapelle Sainte-Germaine",
+            "fr": "Chapelle Sainte-Germaine"
           },
           "coords": [
             4.698091,
@@ -719,7 +796,8 @@
             "de": "Wandern Sie zu dieser charmanten Kapelle auf dem Hügel, um einen Panoramablick auf das Aube-Tal zu genießen, weshalb bequeme Wanderschuhe dringend empfohlen werden.",
             "hu": "Sétáljon fel ehhez a bájos hegyoldali kápolnához, hogy élvezze az Aube-völgyre nyíló panorámát, így mindenképpen kényelmes cipőt viseljen.",
             "ro": "Urcați la această capelă fermecătoare de pe deal pentru a vă bucura de vederi panoramice asupra văii Aube, purtând neapărat încălțăminte confortabilă pentru plimbare.",
-            "en": "Hike up to this charming hillside chapel to enjoy panoramic views of the surrounding Aube valley, so wearing comfortable walking shoes is highly recommended."
+            "en": "Hike up to this charming hillside chapel to enjoy panoramic views of the surrounding Aube valley, so wearing comfortable walking shoes is highly recommended.",
+            "fr": "Montez jusqu'à cette charmante chapelle sur la colline pour profiter d'une vue panoramique sur la vallée de l'Aube environnante ; des chaussures de marche confortables sont vivement recommandées."
           }
         },
         {
@@ -727,7 +805,8 @@
             "de": "Kirche Mariä Geburt",
             "hu": "Mária születése templom",
             "ro": "Biserica Nașterea Maicii Domnului",
-            "en": "Église de la Nativité-de-Notre-Dame"
+            "en": "Église de la Nativité-de-Notre-Dame",
+            "fr": "Église de la Nativité-de-Notre-Dame"
           },
           "coords": [
             4.716922,
@@ -742,7 +821,8 @@
             "de": "Bestaunen Sie die feinen Steinmetzarbeiten dieser wunderschön restaurierten religiösen Stätte und nehmen Sie sich Zeit für die Informationstafeln zu ihrer Entstehung.",
             "hu": "Csodálja meg a szépen felújított vallási emlékhely finom kőművesmunkáit, és szánjon egy percet az eredetét részletező információs táblák elolvasására.",
             "ro": "Minunați-vă de detaliile din piatră ale acestui lăcaș de cult frumos restaurat și acordați-vă un moment pentru a citi plăcile informative despre originile sale.",
-            "en": "Marvel at the delicate stonework of this beautifully restored religious site, and take a moment to read the informational plaques detailing its rich origins."
+            "en": "Marvel at the delicate stonework of this beautifully restored religious site, and take a moment to read the informational plaques detailing its rich origins.",
+            "fr": "Admirez la délicatesse de la pierre de ce site religieux magnifiquement restauré, et prenez un moment pour lire les panneaux d'information qui détaillent ses riches origines."
           }
         },
         {
@@ -750,7 +830,8 @@
             "de": "Schloss von Ailleville",
             "hu": "Ailleville kastélya",
             "ro": "Castelul din Ailleville",
-            "en": "Château d'Ailleville"
+            "en": "Château d'Ailleville",
+            "fr": "Château d'Ailleville"
           },
           "coords": [
             4.681718,
@@ -765,7 +846,8 @@
             "de": "Entdecken Sie dieses elegante Schloss, das Geschichten des lokalen Adels flüstert, und spazieren Sie durch das angrenzende Gelände, um die klassische Fassade zu bewundern.",
             "hu": "Fedezze fel ezt az elegáns kastélyt, amely a helyi nemesség meséit suttogja, és mindenképpen sétáljon egyet a szomszédos parkban, hogy értékelje a klasszikus homlokzatot.",
             "ro": "Descoperiți acest castel elegant care ascunde povești ale nobilimii locale și asigurați-vă că vă plimbați prin parcul adiacent pentru a aprecia fațada sa clasică.",
-            "en": "Discover this elegant castle that whispers tales of local nobility, and be sure to stroll through the adjacent grounds to fully appreciate its classic facade."
+            "en": "Discover this elegant castle that whispers tales of local nobility, and be sure to stroll through the adjacent grounds to fully appreciate its classic facade.",
+            "fr": "Découvrez ce château élégant qui murmure des récits de la noblesse locale, et promenez-vous dans les jardins adjacents pour apprécier pleinement sa façade classique."
           }
         },
         {
@@ -773,7 +855,8 @@
             "de": "Africa Cruise",
             "hu": "Africa Cruise",
             "ro": "Africa Cruise",
-            "en": "Africa Cruise"
+            "en": "Africa Cruise",
+            "fr": "Africa Cruise"
           },
           "coords": [
             4.614814,
@@ -788,7 +871,8 @@
             "de": "Beenden Sie Ihre Reise mit einem unterhaltsamen Ausflug in diesen Naturpark und vergessen Sie Ihr Fernglas nicht, um exotische Tiere aus der Ferne zu beobachten.",
             "hu": "Fejezze be utazását egy vidám kirándulással ebben a vadasparkban, és ne felejtse el magával hozni a távcsövét, hogy távolról is megfigyelhesse az egzotikus állatokat.",
             "ro": "Încheiați-vă călătoria cu o excursie distractivă la acest parc natural plin de viață sălbatică și nu uitați binoclul pentru a observa animalele exotice de la distanță.",
-            "en": "End your journey with a fun-filled excursion at this wildlife nature park, and don't forget to bring your binoculars to spot exotic animals from a distance."
+            "en": "End your journey with a fun-filled excursion at this wildlife nature park, and don't forget to bring your binoculars to spot exotic animals from a distance.",
+            "fr": "Terminez votre journée par une excursion ludique dans ce parc animalier, et n'oubliez pas vos jumelles pour repérer les animaux exotiques à distance."
           }
         }
       ],
@@ -796,7 +880,8 @@
         "de": "Fahren Sie morgens bequem zwischen den Kulturerbestätten im Zentrum. Mittags besuchen Sie historische Kapellen auf den nahegelegenen Hügeln. Am Nachmittag geht es zum prächtigen Schloss Ailleville. Beenden Sie die Tour mit einem Ausflug in den Naturpark.",
         "hu": "Autózzon kényelmesen a központi örökségi helyszínek között a reggeli órákban. Délben látogasson el a közeli dombokon álló kápolnákhoz. Délután csodálja meg a fenséges Ailleville kastélyt. Zárja a napot egy izgalmas vadasparki szafarival a város határán kívül.",
         "ro": "Conduceți ușor între siturile de patrimoniu din centru în timpul dimineții. La prânz, vizitați capelele istorice de pe dealurile din apropiere. După-amiaza vă poartă la splendidul castel Ailleville. Încheiați ziua cu un safari captivant în natura sălbatică de la marginea orașului.",
-        "en": "Drive smoothly between local heritage sites starting at the city center. At noon, visit historic chapels perched on nearby hills. Your afternoon takes you to the splendid Ailleville castle. Wrap up your epic journey with an exciting wildlife cruise outside the city limits."
+        "en": "Drive smoothly between local heritage sites starting at the city center. At noon, visit historic chapels perched on nearby hills. Your afternoon takes you to the splendid Ailleville castle. Wrap up your epic journey with an exciting wildlife cruise outside the city limits.",
+        "fr": "Conduisez en douceur entre les sites patrimoniaux en commençant au centre-ville. À midi, visitez des chapelles historiques nichées sur les collines. Votre après-midi vous mène au splendide château d'Ailleville. Clôturez votre trajet épique par une passionnante croisière animalière hors des limites de la ville."
       },
       "variants": {
         "rainy": {
@@ -804,7 +889,8 @@
             "de": "Fahren Sie sicher zum historischen Rathaus und huschen Sie zwischen den Regentropfen hindurch. Mittags parken Sie bequem an den zentralen Kirchen und bleiben im Trockenen. Nachmittags erfordert die nasse Fahrt zum Schloss und zur Africa Cruise Vorsicht auf rutschigen Straßen. Beenden Sie den Tag gemütlich im warmen Auto.",
             "hu": "Vezessen óvatosan a történelmi Városházához, az esőcseppek között szaladva. Délben könnyen parkolhat a központi templomok közelében. Délután a vizes út a kastélyhoz és az Africa Cruise szafarihoz óvatos manőverezést igényel. Zárja a napot a fűtött autóban ülve, miközben az esti záporok alábbhagynak.",
             "ro": "Conduceți în siguranță spre Primărie, ferindu-vă de picăturile de ploaie. La prânz, parcarea ușoară lângă biserici vă ajută să rămâneți uscați. După-amiaza, drumul umed spre Castel și Africa Cruise necesită manevre atente. Încheiați ziua confortabil în mașina încălzită, în timp ce ploile de seară se instalează.",
-            "en": "Drive safely to the historic Town Hall, dashing between raindrops. Midday involves easy parking near the central churches, keeping dry while marveling at interiors. In the afternoon, a wet drive to the Castle and Africa Cruise demands careful maneuvering on slick roads. Wrap up the day staying cozy in your car."
+            "en": "Drive safely to the historic Town Hall, dashing between raindrops. Midday involves easy parking near the central churches, keeping dry while marveling at interiors. In the afternoon, a wet drive to the Castle and Africa Cruise demands careful maneuvering on slick roads. Wrap up the day staying cozy in your car.",
+            "fr": "Conduisez prudemment jusqu'à l'hôtel de ville, en esquivant les gouttes. À midi, garez-vous facilement près des églises centrales et restez au sec en admirant les intérieurs. L'après-midi, une route humide vers le château et Africa Cruise exige des manœuvres prudentes sur chaussées glissantes. Terminez la journée au chaud dans votre voiture."
           },
           "stops": [
             {
@@ -812,13 +898,15 @@
                 "de": "Hôtel de Ville (ehemaliges Ursulinenkloster)",
                 "hu": "Hôtel de Ville (egykori Orsolya-rendi kolostor)",
                 "ro": "Hôtel de Ville (fosta mănăstire a ursulinelor)",
-                "en": "Hôtel de Ville (ancien Couvent des Ursulines)"
+                "en": "Hôtel de Ville (ancien Couvent des Ursulines)",
+                "fr": "Hôtel de Ville (ancien Couvent des Ursulines)"
               },
               "tip_5lang": {
                 "de": "Parken Sie in der Nähe und greifen Sie zum Schirm; die große Fassade wirkt durch die regnerische Windschutzscheibe sehr eindrucksvoll.",
                 "hu": "Parkoljon a közelben, és vegye elő az esernyőt; a grandiózus homlokzat még az eső áztatta szélvédőn keresztül is lenyűgözően mutat.",
                 "ro": "Parcați în apropiere și luați umbrela; exteriorul grandios este impresionant chiar și printr-un parbriz plin de ploaie.",
-                "en": "Park conveniently nearby and grab your umbrella; the grand historical exterior is moody and impressive even viewing it through a rainy windshield."
+                "en": "Park conveniently nearby and grab your umbrella; the grand historical exterior is moody and impressive even viewing it through a rainy windshield.",
+                "fr": "Garez-vous à proximité et prenez votre parapluie ; la grande façade historique est d'un effet saisissant même vue à travers un pare-brise mouillé."
               }
             },
             {
@@ -826,13 +914,15 @@
                 "de": "Kirche Saint-Maclou",
                 "hu": "Saint-Maclou templom",
                 "ro": "Biserica Saint-Maclou",
-                "en": "Église Saint-Maclou"
+                "en": "Église Saint-Maclou",
+                "fr": "Église Saint-Maclou"
               },
               "tip_5lang": {
                 "de": "Ein kurzer Sprint vom Auto bringt Sie in einen trockenen, friedlichen Hafen voller historischer Kunstwerke.",
                 "hu": "Egy gyors sprint az autótól, és máris egy száraz, békés menedékben találja magát, amely tele van látványos történelmi művészettel.",
                 "ro": "O fugă rapidă din mașină vă aduce într-un refugiu uscat și liniștit, plin de artă istorică spectaculoasă.",
-                "en": "A quick dash from the car brings you into a perfectly dry, peaceful haven filled with spectacular and deeply historical religious artistry."
+                "en": "A quick dash from the car brings you into a perfectly dry, peaceful haven filled with spectacular and deeply historical religious artistry.",
+                "fr": "Une brève course depuis la voiture vous conduit dans un havre parfaitement sec et paisible, rempli d'une imagerie religieuse spectaculaire et profondément historique."
               }
             },
             {
@@ -840,13 +930,15 @@
                 "de": "Kapelle Sainte-Germaine",
                 "hu": "Sainte-Germaine kápolna",
                 "ro": "Capela Sainte-Germaine",
-                "en": "Chapelle Sainte-Germaine"
+                "en": "Chapelle Sainte-Germaine",
+                "fr": "Chapelle Sainte-Germaine"
               },
               "tip_5lang": {
                 "de": "Fahren Sie die nasse Steigung vorsichtig hinauf; die nebelige Landschaft unten bietet exzellente Fotomotive.",
                 "hu": "Vezessen nagyon óvatosan a vizes emelkedőn; az alattunk elterülő ködös, eső áztatta táj kiváló, hangulatos fotózási lehetőségeket kínál.",
                 "ro": "Conduceți cu atenție pe panta umedă; peisajul încețoșat de dedesubt oferă oportunități excelente de fotografie plină de dispoziție.",
-                "en": "Drive very carefully up the wet incline; the misty, rain-soaked landscape far below offers excellent and incredibly moody photography opportunities."
+                "en": "Drive very carefully up the wet incline; the misty, rain-soaked landscape far below offers excellent and incredibly moody photography opportunities.",
+                "fr": "Montez très prudemment la pente mouillée ; le paysage embrumé et trempé de pluie en contrebas offre d'excellentes opportunités photographiques d'une grande atmosphère."
               }
             },
             {
@@ -854,13 +946,15 @@
                 "de": "Kirche Mariä Geburt",
                 "hu": "Mária születése templom",
                 "ro": "Biserica Nașterea Maicii Domnului",
-                "en": "Église de la Nativité-de-Notre-Dame"
+                "en": "Église de la Nativité-de-Notre-Dame",
+                "fr": "Église de la Nativité-de-Notre-Dame"
               },
               "tip_5lang": {
                 "de": "Genießen Sie den kunstvollen Innenraum als Schutz vor den Schauern; bewahren Sie ein Handtuch im Auto auf, um die Schuhe zu trocknen.",
                 "hu": "Élvezze a díszes belső teret menedékként a múló záporok elől; tartson egy törölközőt az autóban, hogy megtörölje vizes cipőjét a pedálok miatt.",
                 "ro": "Bucurați-vă de interiorul ornamentat ca adăpost de ploile trecătoare; păstrați un prosop în mașină pentru a vă usca pantofii.",
-                "en": "Enjoy the ornate interior as a sturdy shelter from the passing showers; keep a towel in the car to thoroughly dry off your shoes for safe pedaling."
+                "en": "Enjoy the ornate interior as a sturdy shelter from the passing showers; keep a towel in the car to thoroughly dry off your shoes for safe pedaling.",
+                "fr": "Profitez de l'intérieur orné comme d'un abri solide contre les averses passagères ; gardez une serviette dans la voiture pour bien sécher vos chaussures avant de pédaler en sécurité."
               }
             },
             {
@@ -868,13 +962,15 @@
                 "de": "Schloss von Ailleville",
                 "hu": "Ailleville kastélya",
                 "ro": "Castelul din Ailleville",
-                "en": "Château d'Ailleville"
+                "en": "Château d'Ailleville",
+                "fr": "Château d'Ailleville"
               },
               "tip_5lang": {
                 "de": "Das nasse Mauerwerk wirkt lebendig; nutzen Sie die Innenbereiche, um trocken zu bleiben, bevor Sie zum beheizten Fahrzeug zurücklaufen.",
                 "hu": "A vizes kőfalak hihetetlenül élénknek tűnnek; használja a belső tereket, hogy száraz maradjon, mielőtt visszaszaladna a fűtött járműhöz.",
                 "ro": "Zidăria umedă pare incredibil de vibrantă; folosiți secțiunile interioare pentru a rămâne uscați înainte de a fugi înapoi la vehiculul încălzit.",
-                "en": "The wet historical stonework looks incredibly vibrant; use the indoor sections to stay completely dry before running back to your heated vehicle."
+                "en": "The wet historical stonework looks incredibly vibrant; use the indoor sections to stay completely dry before running back to your heated vehicle.",
+                "fr": "Le parement historique humide paraît incroyablement vivant ; utilisez les sections intérieures pour rester parfaitement au sec avant de retourner à votre véhicule chauffé."
               }
             },
             {
@@ -882,13 +978,15 @@
                 "de": "Africa Cruise",
                 "hu": "Africa Cruise",
                 "ro": "Africa Cruise",
-                "en": "Africa Cruise"
+                "en": "Africa Cruise",
+                "fr": "Africa Cruise"
               },
               "tip_5lang": {
                 "de": "Die Tiere suchen oft ebenfalls Schutz, haben Sie Geduld; die matschigen Wege erfordern unbedingt wasserdichtes Schuhwerk.",
                 "hu": "Az állatok sokszor szintén menedéket keresnek, legyen türelmes; a kissé saras ösvények miatt masszív vízálló csizma viselése erősen ajánlott.",
                 "ro": "Animalele caută deseori adăpost, așa că fiți răbdători; drumurile ușor noroioase înseamnă că cizmele rezistente la apă sunt esențiale.",
-                "en": "The park animals often seek shelter too, so be patient; the slightly muddy pathways mean sturdy waterproof boots are essential for stepping out."
+                "en": "The park animals often seek shelter too, so be patient; the slightly muddy pathways mean sturdy waterproof boots are essential for stepping out.",
+                "fr": "Les animaux du parc cherchent souvent aussi un abri, donc soyez patients ; les sentiers un peu boueux exigent des bottes imperméables solides pour sortir."
               }
             }
           ]
@@ -898,7 +996,8 @@
             "de": "Beginnen Sie Ihre Winterfahrt am Rathaus und genießen Sie die Wärme des Autos. Mittags bieten die von Frost umrahmten Kirchen friedliche Besuche. Nachmittags könnten die Straßen zum Schloss und zur Africa Cruise eisig sein, fahren Sie vorsichtig. Beenden Sie die Tour vor der Dunkelheit um 17:00 Uhr und kehren Sie ein.",
             "hu": "Kezdje a téli autózást a Városházánál, élvezve a jármű melegét a megállók között. Délben a templomok békés, fagyos környezetben gyönyörködtetnek. Délután a kastélyhoz és a vadasparkhoz vezető utak jegesek lehetnek. Tervezze úgy, hogy 17:00-ig befejezi a túrát, és sötétedés után térjen be egy hangulatos étterembe.",
             "ro": "Începeți călătoria de iarnă la Primărie, bucurându-vă de căldura mașinii între opriri. La prânz, vizitele la biserici sunt frumos încadrate de ger. După-amiaza, drumurile spre Castel și Africa Cruise pot fi înghețate. Terminați până la 17:00 înainte de întuneric, retrăgându-vă la un restaurant primitor.",
-            "en": "Start your winter drive at the Town Hall, enjoying the warmth of your car between stops. Midday offers visits to historic churches framed by frost. In the afternoon, the roads to the Castle and Africa Cruise might be icy, so drive with caution. Aim to finish by 17:00 before it gets dark, retreating to a cozy spot."
+            "en": "Start your winter drive at the Town Hall, enjoying the warmth of your car between stops. Midday offers visits to historic churches framed by frost. In the afternoon, the roads to the Castle and Africa Cruise might be icy, so drive with caution. Aim to finish by 17:00 before it gets dark, retreating to a cozy spot.",
+            "fr": "Commencez votre trajet hivernal à l'Hôtel de Ville, profitant de la chaleur de la voiture entre les arrêts. À midi, visitez des églises historiques encadrées de givre. L'après-midi, les routes vers le château et Africa Cruise peuvent être verglacées ; conduisez prudemment. Visez une arrivée à 17:00 avant la tombée de la nuit et retrouvez un endroit douillet."
           },
           "stops": [
             {
@@ -906,13 +1005,15 @@
                 "de": "Hôtel de Ville (ehemaliges Ursulinenkloster)",
                 "hu": "Hôtel de Ville (egykori Orsolya-rendi kolostor)",
                 "ro": "Hôtel de Ville (fosta mănăstire a ursulinelor)",
-                "en": "Hôtel de Ville (ancien Couvent des Ursulines)"
+                "en": "Hôtel de Ville (ancien Couvent des Ursulines)",
+                "fr": "Hôtel de Ville (ancien Couvent des Ursulines)"
               },
               "tip_5lang": {
                 "de": "Der Frost verleiht der Architektur einen magischen Touch; schalten Sie die Autoheizung hoch, bevor Sie in die Morgenluft treten.",
                 "hu": "A zúzmara varázslatos hangulatot kölcsönöz az építészetnek; fűtse fel jól a járművet, mielőtt kilépne a harapós reggeli levegőre.",
                 "ro": "Gerul adaugă o notă magică arhitecturii; porniți căldura mașinii la maximum înainte de a ieși în aerul proaspăt al dimineții.",
-                "en": "The early frost adds a distinctly magical touch to the architecture; blast the car heater completely before stepping out into the crisp morning air."
+                "en": "The early frost adds a distinctly magical touch to the architecture; blast the car heater completely before stepping out into the crisp morning air.",
+                "fr": "Le gel matinal ajoute une touche franchement magique à l'architecture ; mettez le chauffage de la voiture à fond avant de sortir dans l'air vif du matin."
               }
             },
             {
@@ -920,13 +1021,15 @@
                 "de": "Kirche Saint-Maclou",
                 "hu": "Saint-Maclou templom",
                 "ro": "Biserica Saint-Maclou",
-                "en": "Église Saint-Maclou"
+                "en": "Église Saint-Maclou",
+                "fr": "Église Saint-Maclou"
               },
               "tip_5lang": {
                 "de": "Suchen Sie Wärme hinter den schweren Steinmauern; die winterliche Stille macht das Bewundern der Details noch tiefgründiger.",
                 "hu": "Keressen meleget a vastag kőfalak között; a téli mélységes csend még lenyűgözőbbé teszi a történelmi részletek nyugodt megcsodálását.",
                 "ro": "Căutați căldura în interiorul pereților grei de piatră; tăcerea iernii face admirarea detaliilor istorice și mai profundă.",
-                "en": "Seek significant warmth inside the heavy stone walls; the pure winter silence makes admiring the historic architectural details even more profound."
+                "en": "Seek significant warmth inside the heavy stone walls; the pure winter silence makes admiring the historic architectural details even more profound.",
+                "fr": "Cherchez une chaleur significative à l'intérieur des murs de pierre épais ; le silence hivernal rend l'admiration des détails architecturaux encore plus profonde."
               }
             },
             {
@@ -934,13 +1037,15 @@
                 "de": "Kapelle Sainte-Germaine",
                 "hu": "Sainte-Germaine kápolna",
                 "ro": "Capela Sainte-Germaine",
-                "en": "Chapelle Sainte-Germaine"
+                "en": "Chapelle Sainte-Germaine",
+                "fr": "Chapelle Sainte-Germaine"
               },
               "tip_5lang": {
                 "de": "Achten Sie auf vereiste Stellen auf der Zufahrtsstraße; der Lohn ist ein schneebedecktes Panorama des gefrorenen Tals unten.",
                 "hu": "A bekötőúton fokozottan ügyeljen a jeges, csúszós foltokra; a jutalom egy fantasztikus, hólepte panoráma az alattunk lévő fagyos völgyre.",
                 "ro": "Verificați prezența porțiunilor de gheață pe drumul de acces; recompensa este o panoramă acoperită de zăpadă a văii înghețate de dedesubt.",
-                "en": "Check carefully for dangerous icy patches on the access road; the reward is a sweeping, snow-dusted panorama of the beautiful frozen valley below."
+                "en": "Check carefully for dangerous icy patches on the access road; the reward is a sweeping, snow-dusted panorama of the beautiful frozen valley below.",
+                "fr": "Vérifiez soigneusement la présence de plaques de verglas dangereuses sur la route d'accès ; la récompense est un panorama balayé de neige sur la belle vallée gelée en contrebas."
               }
             },
             {
@@ -948,13 +1053,15 @@
                 "de": "Kirche Mariä Geburt",
                 "hu": "Mária születése templom",
                 "ro": "Biserica Nașterea Maicii Domnului",
-                "en": "Église de la Nativité-de-Notre-Dame"
+                "en": "Église de la Nativité-de-Notre-Dame",
+                "fr": "Église de la Nativité-de-Notre-Dame"
               },
               "tip_5lang": {
                 "de": "Treten Sie ein, um aufzutauen, während Sie die Kunstwerke betrachten; dicke Wollsocken sind ein Muss für die kalten Steinböden.",
                 "hu": "Lépjen be felolvadni egy kicsit, miközben a gyönyörű vallási művészetet nézi; vastag gyapjú zokni viselése kötelező a fagyos kőpadló miatt.",
                 "ro": "Pășiți înăuntru pentru a vă dezgheța în timp ce priviți arta religioasă; șosetele groase de lână sunt o necesitate pentru podelele reci din piatră.",
-                "en": "Step comfortably inside to thaw out while viewing the beautiful religious art; thick woolen socks are a definitive must for the incredibly cold stone floors."
+                "en": "Step comfortably inside to thaw out while viewing the beautiful religious art; thick woolen socks are a definitive must for the incredibly cold stone floors.",
+                "fr": "Entrez confortablement pour vous réchauffer tout en contemplant la belle art religieux ; de grosses chaussettes en laine sont indispensables sur les sols de pierre extrêmement froids."
               }
             },
             {
@@ -962,13 +1069,15 @@
                 "de": "Schloss von Ailleville",
                 "hu": "Ailleville kastélya",
                 "ro": "Castelul din Ailleville",
-                "en": "Château d'Ailleville"
+                "en": "Château d'Ailleville",
+                "fr": "Château d'Ailleville"
               },
               "tip_5lang": {
                 "de": "Die kahlen Bäume offenbaren mehr von der Struktur des Schlosses; genießen Sie den Spaziergang in der frischen Luft, bevor es dunkel wird.",
                 "hu": "A csupasz fák sokkal többet mutatnak a kastély impozáns szerkezetéből; élvezze a frissítő sétát a birtokon a fagyos levegőn a naplemente előtt.",
                 "ro": "Copacii goi dezvăluie mai mult din structura măreață a castelului; bucurați-vă de o plimbare revigorantă pe domeniu în aerul de îngheț.",
-                "en": "The bare trees reveal much more of the castle's grand structure; thoroughly enjoy the brisk walk around the sweeping estate in the freezing air."
+                "en": "The bare trees reveal much more of the castle's grand structure; thoroughly enjoy the brisk walk around the sweeping estate in the freezing air.",
+                "fr": "Les arbres dénudés révèlent davantage la grande structure du château ; profitez pleinement de la marche vivifiante autour du vaste domaine dans l'air glacé."
               }
             },
             {
@@ -976,13 +1085,15 @@
                 "de": "Africa Cruise",
                 "hu": "Africa Cruise",
                 "ro": "Africa Cruise",
-                "en": "Africa Cruise"
+                "en": "Africa Cruise",
+                "fr": "Croisière en Afrique"
               },
               "tip_5lang": {
                 "de": "Tiere sind in der klaren Kälte aktiv; stellen Sie sicher, dass Ihre Reifen winterfest sind, da die Sonne auf den Landstraßen früh untergeht.",
                 "hu": "Az állatok aktívak a friss hidegben; ügyeljen arra, hogy gumiabroncsai téliesítve legyenek a vidéki utakon, mivel a nap igen korán nyugszik.",
                 "ro": "Animalele sunt active în frigul proaspăt; asigurați-vă că anvelopele sunt pregătite de iarnă pentru drumurile rurale, deoarece soarele apune devreme.",
-                "en": "The animals are surprisingly active in the crisp cold; ensure your car tires are completely winter-ready for the rural roads as the sun sets very early."
+                "en": "The animals are surprisingly active in the crisp cold; ensure your car tires are completely winter-ready for the rural roads as the sun sets very early.",
+                "fr": "Les animaux sont étonnamment actifs dans le froid vif ; assurez-vous que les pneus de votre voiture sont entièrement adaptés à l'hiver pour les routes rurales car le soleil se couche très tôt."
               }
             }
           ]

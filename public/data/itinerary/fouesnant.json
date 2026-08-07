@@ -21,7 +21,8 @@
             "de": "Saint-Pierre Church",
             "hu": "Saint-Pierre Church",
             "ro": "Saint-Pierre Church",
-            "en": "Saint-Pierre Church"
+            "en": "Saint-Pierre Church",
+            "fr": "Église Saint-Pierre"
           },
           "coords": [
             -4.009558,
@@ -36,7 +37,8 @@
             "de": "Bewundern Sie die beeindruckende romanische Architektur der Kirche und kommen Sie am besten früh morgens, um das sanfte Licht durch die Fensterrunden ungestört zu genießen.",
             "hu": "Csodálja meg a lenyűgöző román stílusú építészetet, és érkezzen kora reggel, hogy zavartalanul élvezhesse az ablakokon beáramló lágy fény játékát a csendes térben.",
             "ro": "Admirați impresionanta arhitectură romanică a bisericii și veniți devreme dimineața pentru a vă bucura în liniște de lumina blândă care se filtrează prin ferestre.",
-            "en": "Admire the impressive Romanesque architecture of the church and arrive early in the morning to quietly enjoy the soft light filtering through the beautiful historic windows."
+            "en": "Admire the impressive Romanesque architecture of the church and arrive early in the morning to quietly enjoy the soft light filtering through the beautiful historic windows.",
+            "fr": "Admirez la remarquable architecture romane de l'église et arrivez tôt le matin pour profiter tranquillement de la douce lumière filtrant à travers les belles fenêtres historiques."
           }
         },
         {
@@ -44,7 +46,8 @@
             "de": "Sainte-Anne Chapel",
             "hu": "Sainte-Anne Chapel",
             "ro": "Sainte-Anne Chapel",
-            "en": "Sainte-Anne Chapel"
+            "en": "Sainte-Anne Chapel",
+            "fr": "Chapelle Sainte-Anne"
           },
           "coords": [
             -4.020093,
@@ -59,7 +62,8 @@
             "de": "Entdecken Sie diese charmante kleine Kapelle und nehmen Sie sich Zeit für einen Moment der Ruhe, bevor Sie den Fußweg in Richtung der malerischen Küste fortsetzen.",
             "hu": "Fedezze fel ezt a bájos kis kápolnát, és szánjon időt egy pillanatnyi megnyugvásra, mielőtt folytatná útját a festői szépségű tengerpart irányába.",
             "ro": "Descoperiți această capelă fermecătoare și luați-vă un moment de liniște înainte de a continua plimbarea spre pitoreasca zonă de coastă a Bretaniei.",
-            "en": "Discover this charming small chapel and take your time for a moment of peace before continuing your walk towards the picturesque Breton coastline."
+            "en": "Discover this charming small chapel and take your time for a moment of peace before continuing your walk towards the picturesque Breton coastline.",
+            "fr": "Découvrez cette charmante petite chapelle et prenez le temps d'un moment de paix avant de poursuivre votre promenade vers le pittoresque littoral breton."
           }
         },
         {
@@ -67,7 +71,8 @@
             "de": "Cap Coz Beach",
             "hu": "Cap Coz Beach",
             "ro": "Cap Coz Beach",
-            "en": "Cap Coz Beach"
+            "en": "Cap Coz Beach",
+            "fr": "Plage du Cap Coz"
           },
           "coords": [
             -3.984549,
@@ -82,7 +87,8 @@
             "de": "Spazieren Sie entlang dieses herrlichen feinen Sandstrandes und vergessen Sie nicht Ihre Sonnencreme, da der Strand den ganzen Tag über hervorragend sonnig gelegen ist.",
             "hu": "Sétáljon végig ezen a csodálatos, finom homokos tengerparton, és ne felejtse el a naptejet, mivel a part egész nap tökéletesen napos fekvésű.",
             "ro": "Plimbați-vă de-a lungul acestei minunate plaje cu nisip fin și nu uitați crema de soare, deoarece plaja este perfect expusă la soare pe tot parcursul zilei.",
-            "en": "Stroll along this magnificent fine sand beach and do not forget your sunscreen, as the coastline remains perfectly sunny throughout the entire day."
+            "en": "Stroll along this magnificent fine sand beach and do not forget your sunscreen, as the coastline remains perfectly sunny throughout the entire day.",
+            "fr": "Promenez-vous sur cette magnifique plage de sable fin et n'oubliez pas votre crème solaire, car le littoral reste parfaitement ensoleillé tout au long de la journée."
           }
         },
         {
@@ -90,7 +96,8 @@
             "de": "Plage de Bot Conan",
             "hu": "Plage de Bot Conan",
             "ro": "Plage de Bot Conan",
-            "en": "Plage de Bot Conan"
+            "en": "Plage de Bot Conan",
+            "fr": "Plage de Bot Conan"
           },
           "coords": [
             -3.985018,
@@ -105,7 +112,8 @@
             "de": "Entspannen Sie in dieser idyllischen, von Bäumen gesäumten Bucht und bringen Sie ein Picknick mit, um das türkisblaue Wasser in einer wunderbar geschützten Umgebung zu genießen.",
             "hu": "Pihenjen ebben az idilli, fákkal övezett öbölben, és hozzon magával pikniket, hogy csodás, szélvédett környezetben élvezhesse a türkizkék tengervizet.",
             "ro": "Relaxați-vă în acest golf idilic, mărginit de copaci, și aduceți un picnic pentru a vă bucura de apa turcoaz într-un cadru minunat și perfect protejat de vânt.",
-            "en": "Relax in this idyllic tree-lined cove and bring a picnic lunch to fully enjoy the crystal-clear turquoise waters in a wonderfully sheltered, peaceful environment."
+            "en": "Relax in this idyllic tree-lined cove and bring a picnic lunch to fully enjoy the crystal-clear turquoise waters in a wonderfully sheltered, peaceful environment.",
+            "fr": "Détendez-vous dans cette crique idyllique bordée d'arbres et apportez un pique-nique pour profiter pleinement des eaux turquoise cristallines dans un cadre abrité et paisible."
           }
         },
         {
@@ -113,7 +121,8 @@
             "de": "Plage de Kerveltrec",
             "hu": "Plage de Kerveltrec",
             "ro": "Plage de Kerveltrec",
-            "en": "Plage de Kerveltrec"
+            "en": "Plage de Kerveltrec",
+            "fr": "Plage de Kerveltrec"
           },
           "coords": [
             -3.985596,
@@ -128,7 +137,8 @@
             "de": "Genießen Sie die friedliche Atmosphäre an diesem weniger überlaufenen Küstenabschnitt und achten Sie auf die Gezeiten, um den besten Platz für Ihren Nachmittagsausklang zu finden.",
             "hu": "Élvezze a békés hangulatot ezen a kevésbé zsúfolt partszakaszon, és figyeljen az árapályra, hogy megtalálja a legjobb helyet a délután kellemes lezárásához.",
             "ro": "Bucurați-vă de atmosfera pașnică pe această porțiune de coastă mai puțin aglomerată și verificați mareele pentru a găsi cel mai bun loc pentru încheierea după-amiezii.",
-            "en": "Enjoy the peaceful atmosphere at this less crowded stretch of coastline and check the tide schedule to find the perfect spot to gently wind down your afternoon."
+            "en": "Enjoy the peaceful atmosphere at this less crowded stretch of coastline and check the tide schedule to find the perfect spot to gently wind down your afternoon.",
+            "fr": "Profitez de l'atmosphère paisible de ce coin de côte moins fréquenté et consultez les horaires des marées pour trouver l'endroit parfait où passer un après-midi détendu."
           }
         }
       ],
@@ -136,7 +146,8 @@
         "de": "Der Tag beginnt im Herzen von Fouesnant, wo alte Kirchen und Kapellen die reiche bretonische Geschichte erzählen. Nach einem ruhigen Start führt der Weg in Richtung Küste. Mittags lockt der lange Sandstrand von Cap Coz mit sanften Wellen und perfektem Meeresklima für eine erholsame Pause. Der Nachmittag steht im Zeichen versteckter Buchten, beginnend mit dem idyllischen Plage de Bot Conan. Die dichten Bäume und das klare Wasser bieten eine unvergleichliche Atmosphäre. Gegen Abend lassen wir den Tag am Plage de Kerveltrec entspannt ausklingen, während die Sonne langsam über dem weiten Atlantik untergeht.",
         "hu": "A nap Fouesnant szívében indul, ahol az ősi templomok és kápolnák a breton történelemről mesélnek. Egy csendes séta után az út a gyönyörű partok felé vezet. Délben a Cap Coz hosszú homokos strandja hívogat, ahol a lágy hullámok és a tengeri levegő tökéletes pihenést nyújt. A délután a rejtett öblök felfedezésével telik, kezdve a fás, idilli Plage de Bot Conan partjával. A kristálytiszta víz felejthetetlen élményt kínál. Kora este a békés Plage de Kerveltrec homokján zárjuk a napot, megcsodálva a hatalmas Atlanti-óceán felett lassan lemenő napot.",
         "ro": "Ziua începe în inima orașului Fouesnant, unde bisericile și capelele străvechi spun povestea bogatei istorii bretone. După un start liniștit, drumul duce spre coastă. La prânz, plaja întinsă cu nisip de la Cap Coz vă atrage cu valuri blânde și o briză marină perfectă pentru o pauză. După-amiaza este dedicată golfurilor ascunse, începând cu idilica Plage de Bot Conan, înconjurată de copaci. Spre seară, ne încheiem ziua într-o notă relaxantă pe plaja liniștită de la Kerveltrec, în timp ce soarele apune încet peste oceanul Atlantic.",
-        "en": "The day begins in the heart of Fouesnant, where ancient churches and chapels tell the rich history of Brittany. After a quiet start, the walking path leads towards the beautiful coast. At midday, the long sandy stretch of Cap Coz beach invites you with gentle waves and a perfect maritime climate for a relaxing break. The afternoon is dedicated to discovering hidden coves, starting with the idyllic, tree-lined Plage de Bot Conan. In the evening, we conclude the day unwinding on the peaceful sands of Plage de Kerveltrec, watching the sun slowly set over the Atlantic Ocean."
+        "en": "The day begins in the heart of Fouesnant, where ancient churches and chapels tell the rich history of Brittany. After a quiet start, the walking path leads towards the beautiful coast. At midday, the long sandy stretch of Cap Coz beach invites you with gentle waves and a perfect maritime climate for a relaxing break. The afternoon is dedicated to discovering hidden coves, starting with the idyllic, tree-lined Plage de Bot Conan. In the evening, we conclude the day unwinding on the peaceful sands of Plage de Kerveltrec, watching the sun slowly set over the Atlantic Ocean.",
+        "fr": "La journée commence au cœur de Fouesnant, où églises et chapelles anciennes racontent la riche histoire de la Bretagne. Après un démarrage tranquille, le sentier pédestre mène vers le magnifique littoral. À midi, la longue étendue sableuse de la plage du Cap Coz vous accueille avec des vagues douces et un climat marin idéal pour une pause relaxante. L'après-midi est consacré à la découverte de criques cachées, en commençant par l'idyllique Plage de Bot Conan, bordée d'arbres. Le soir, la journée se conclut en se détendant sur les sables paisibles de la Plage de Kerveltrec, en regardant le soleil se coucher doucement sur l'océan Atlantique."
       },
       "variants": {
         "rainy": {
@@ -144,7 +155,8 @@
             "de": "Der Morgen beginnt geschützt in den historischen Mauern der Kirchen von Fouesnant. Mittags führt der Weg zur Küste, wo das graue Meer eine melancholische Schönheit ausstrahlt. Am Nachmittag fordern die aufgeweichten Küstenpfade feste Tritte, während der Duft von nassen Kiefern die Luft erfüllt. Abends kehren Sie rechtzeitig ins Stadtzentrum zurück, um dem stärker werdenden Regen zu entgehen.",
             "hu": "A reggel Fouesnant történelmi templomainak védelmében indul. Délben az út a part felé vezet, ahol a szürke tenger melankolikus szépsége ragadja el a látogatót. Délután a felázott parti ösvények figyelmet igényelnek, miközben a nedves fenyvesek illata tölti be a levegőt. Estére érdemes korán visszatérni a városközpontba a felerősödő eső elől.",
             "ro": "Dimineața începe la adăpost, între zidurile istorice ale bisericilor din Fouesnant. La prânz, drumul duce spre coastă, unde marea cenușie emană o frumusețe melancolică. După-amiaza, potecile de coastă înmuiate necesită pași siguri, în timp ce parfumul pinilor umezi umple aerul. Seara, retrageți-vă la timp în centrul orașului pentru a evita ploaia tot mai densă.",
-            "en": "The morning begins sheltered within the historic walls of Fouesnant's churches. At noon, the path leads to the coast, where the gray sea radiates a melancholy beauty. In the afternoon, the softened coastal paths require steady footing, while the scent of wet pines fills the air. By evening, return to the town center early to escape the intensifying rain."
+            "en": "The morning begins sheltered within the historic walls of Fouesnant's churches. At noon, the path leads to the coast, where the gray sea radiates a melancholy beauty. In the afternoon, the softened coastal paths require steady footing, while the scent of wet pines fills the air. By evening, return to the town center early to escape the intensifying rain.",
+            "fr": "La matinée commence à l'abri dans les murs historiques des églises de Fouesnant. À midi, le sentier mène à la côte, où la mer grise dégage une beauté mélancolique. L'après-midi, les sentiers côtiers adoucis demandent de la prudence, tandis que l'air embaume le pin humide. En soirée, revenez tôt au centre-ville pour échapper à l'intensification de la pluie."
           },
           "stops": [
             {
@@ -152,13 +164,15 @@
                 "de": "Saint-Pierre Church",
                 "hu": "Saint-Pierre Church",
                 "ro": "Saint-Pierre Church",
-                "en": "Saint-Pierre Church"
+                "en": "Saint-Pierre Church",
+                "fr": "Église Saint-Pierre"
               },
               "tip_5lang": {
                 "de": "Bewundern Sie die romanischen Kapitelle im trockenen Kirchenschiff, während draußen der Regen prasselt; nutzen Sie den Innenraum für eine besinnliche Pause ohne nass zu werden.",
                 "hu": "Csodálja meg a román stílusú oszlopfőket a száraz templomhajóban, miközben odakint kopog az eső; használja a belső teret egy elmélyült pihenőre, ahol garantáltan nem ázik meg.",
                 "ro": "Admirați capitelurile romanice în nava uscată a bisericii, în timp ce ploaia bate în geamuri; folosiți interiorul pentru o pauză liniștită fără a vă uda.",
-                "en": "Admire the Romanesque capitals in the dry nave while the rain patters outside; use the interior for a contemplative break where you are guaranteed to stay dry."
+                "en": "Admire the Romanesque capitals in the dry nave while the rain patters outside; use the interior for a contemplative break where you are guaranteed to stay dry.",
+                "fr": "Admirez les chapiteaux romans dans la nef sèche pendant que la pluie crépite dehors ; utilisez l'intérieur pour une pause contemplative où vous êtes assuré de rester au sec."
               }
             },
             {
@@ -166,13 +180,15 @@
                 "de": "Sainte-Anne Chapel",
                 "hu": "Sainte-Anne Chapel",
                 "ro": "Sainte-Anne Chapel",
-                "en": "Sainte-Anne Chapel"
+                "en": "Sainte-Anne Chapel",
+                "fr": "Chapelle Sainte-Anne"
               },
               "tip_5lang": {
                 "de": "Diese kleine Kapelle bietet perfekten Schutz vor plötzlichen Schauern auf Ihrem Weg; achten Sie auf den rutschigen Boden im Eingangsbereich und tragen Sie Schuhe mit gutem Profil.",
                 "hu": "Ez a kis kápolna tökéletes menedéket nyújt a hirtelen záporok elől az útja során; ügyeljen a csúszós padlóra a bejáratnál, és viseljen jó tapadású talpú cipőt.",
                 "ro": "Această mică chapelă oferă adăpostul perfect împotriva averselor bruște de pe traseu; atenție la podeaua alunecoasă de la intrare și purtați încălțăminte cu aderență bună.",
-                "en": "This small chapel offers perfect shelter from sudden showers during your walk; watch out for the slippery floor at the entrance and wear shoes with good grip."
+                "en": "This small chapel offers perfect shelter from sudden showers during your walk; watch out for the slippery floor at the entrance and wear shoes with good grip.",
+                "fr": "Cette petite chapelle offre un abri parfait contre les averses soudaines lors de votre balade ; faites attention au sol glissant à l'entrée et portez des chaussures à bonne adhérence."
               }
             },
             {
@@ -180,13 +196,15 @@
                 "de": "Cap Coz Beach",
                 "hu": "Cap Coz Beach",
                 "ro": "Cap Coz Beach",
-                "en": "Cap Coz Beach"
+                "en": "Cap Coz Beach",
+                "fr": "Plage du Cap Coz"
               },
               "tip_5lang": {
                 "de": "Beobachten Sie die dramatischen Wellenbewegungen in der Bucht unter einem regnerischen Himmel; ein hochwertiger Regenponcho ist hier unerlässlich, da der Wind den Regen peitscht.",
                 "hu": "Figyelje meg a drámai hullámzást az öbölben az eső áztatta égbolt alatt; egy jó minőségű esőponcsó itt elengedhetetlen, mivel a szél vízszintesen hordja a csapadékot.",
                 "ro": "Observați mișcarea dramatică a valurilor în golf sub cerul ploios; o pelerină de ploaie de calitate este esențială aici, deoarece vântul spulberă picăturile.",
-                "en": "Observe the dramatic wave action in the bay under a rainy sky; a high-quality rain poncho is essential here as the wind lashes the rain across the shoreline."
+                "en": "Observe the dramatic wave action in the bay under a rainy sky; a high-quality rain poncho is essential here as the wind lashes the rain across the shoreline.",
+                "fr": "Observez l'action dramatique des vagues dans la baie sous un ciel pluvieux ; un poncho de pluie de bonne qualité est indispensable ici, car le vent pousse la pluie sur le rivage."
               }
             },
             {
@@ -194,13 +212,15 @@
                 "de": "Plage de Bot Conan",
                 "hu": "Plage de Bot Conan",
                 "ro": "Plage de Bot Conan",
-                "en": "Plage de Bot Conan"
+                "en": "Plage de Bot Conan",
+                "fr": "Plage de Bot Conan"
               },
               "tip_5lang": {
                 "de": "Die von Bäumen gesäumte Bucht bietet etwas natürlichen Schutz vor leichtem Nieselregen; bleiben Sie auf den markierten Pfaden, da die Klippenwege bei Nässe extrem rutschig sind.",
                 "hu": "A fákkal szegélyezett öböl természetes védelmet nyújt az enyhe szitálás ellen; maradjon a kijelölt ösvényeken, mert a szikla menti utak nedvesen rendkívül csúszósak.",
                 "ro": "Golful mărginit de copaci oferă o protecție naturală împotriva burniței ușoare; rămâneți pe potecile marcate, deoarece drumurile de pe faleză sunt extrem de alunecoase pe ud.",
-                "en": "The tree-lined cove offers some natural shelter from light drizzle; stay on the marked paths, as the cliffside trails become extremely slippery when wet."
+                "en": "The tree-lined cove offers some natural shelter from light drizzle; stay on the marked paths, as the cliffside trails become extremely slippery when wet.",
+                "fr": "La crique bordée d'arbres offre un certain abri naturel contre la bruine légère ; restez sur les sentiers balisés, car les chemins en falaise deviennent extrêmement glissants lorsqu'ils sont mouillés."
               }
             },
             {
@@ -208,13 +228,15 @@
                 "de": "Plage de Kerveltrec",
                 "hu": "Plage de Kerveltrec",
                 "ro": "Plage de Kerveltrec",
-                "en": "Plage de Kerveltrec"
+                "en": "Plage de Kerveltrec",
+                "fr": "Plage de Kerveltrec"
               },
               "tip_5lang": {
                 "de": "Genießen Sie die Einsamkeit des Strandes im Regen und sammeln Sie angeschwemmte Schätze; verstauen Sie Ihre Kamera in einer wasserdichten Tasche, um sie vor der feuchten Meeresbrise zu schützen.",
                 "hu": "Élvezze a strand magányát az esőben, és gyűjtse össze a partra vetett kincseket; tartsa kameráját vízhatlan táskában, hogy megóvja a párás tengeri szellőtől.",
                 "ro": "Bucurați-vă de singurătatea plajei în ploaie și adunați comorile aduse de valuri; păstrați aparatul foto într-o geantă impermeabilă pentru a-l proteja de briza umedă.",
-                "en": "Enjoy the solitude of the beach in the rain and collect treasures washed ashore; keep your camera in a waterproof bag to protect it from the damp sea breeze."
+                "en": "Enjoy the solitude of the beach in the rain and collect treasures washed ashore; keep your camera in a waterproof bag to protect it from the damp sea breeze.",
+                "fr": "Appréciez la solitude de la plage sous la pluie et ramassez les trésors rejetés par la mer ; gardez votre appareil photo dans une housse étanche pour le protéger de l'air marin humide."
               }
             }
           ]
@@ -224,7 +246,8 @@
             "de": "Ein frostiger Morgen beginnt mit dem Besuch der stillen Kapellen, die Schutz vor der klirrenden Kälte bieten. Mittags sorgt ein zügiger Spaziergang am Cap Coz für belebende Frische unter der tiefstehenden Wintersonne. Am Nachmittag taucht das goldene Licht die Küste in magische Farben, bevor die Dämmerung früh einsetzt. Gegen 17:00 Uhr endet der Tag in der Wärme einer lokalen Teestube.",
             "hu": "A fagyos reggel a csendes kápolnák meglátogatásával indul, amelyek menedéket nyújtanak a metsző hideg elől. Délben egy frissítő séta a Cap Coz parton élénkítő erejű az alacsonyan járó téli nap alatt. Délután az aranyló fények varázslatos színekbe öltöztetik a partot, mielőtt korán leszáll az alkonyat. 17:00 körül a nap egy helyi teázó melegében ér véget.",
             "ro": "O dimineață geroasă începe cu vizitarea capelelor tăcute, care oferă adăpost împotriva frigului tăios. La prânz, o plimbare rapidă pe Cap Coz aduce prospețime sub soarele palid de iarnă. După-amiaza, lumina aurie îmbracă coasta în culori magice înainte de lăsarea timpurie a serii. În jurul orei 17:00, ziua se încheie la căldura unei ceainării locale.",
-            "en": "A frosty morning begins with a visit to the silent chapels, providing shelter from the biting cold. At noon, a brisk walk at Cap Coz offers invigorating freshness under the low winter sun. In the afternoon, golden light bathes the coast in magical colors before dusk sets in early. Around 17:00, the day concludes in the warmth of a local tea room."
+            "en": "A frosty morning begins with a visit to the silent chapels, providing shelter from the biting cold. At noon, a brisk walk at Cap Coz offers invigorating freshness under the low winter sun. In the afternoon, golden light bathes the coast in magical colors before dusk sets in early. Around 17:00, the day concludes in the warmth of a local tea room.",
+            "fr": "Une matinée gelée commence par la visite des chapelles silencieuses, offrant un abri contre le froid mordant. À midi, une marche vivifiante au Cap Coz procure une fraîcheur tonique sous le faible soleil d'hiver. L'après-midi, la lumière dorée baigne la côte de couleurs magiques avant que le crépuscule n'arrive tôt. Vers 17:00, la journée se termine à la chaleur d'un salon de thé local."
           },
           "stops": [
             {
@@ -232,13 +255,15 @@
                 "de": "Saint-Pierre Church",
                 "hu": "Saint-Pierre Church",
                 "ro": "Saint-Pierre Church",
-                "en": "Saint-Pierre Church"
+                "en": "Saint-Pierre Church",
+                "fr": "Église Saint-Pierre"
               },
               "tip_5lang": {
                 "de": "Erleben Sie die besondere Akustik in der kühlen Winterluft der Kirche; ziehen Sie sich nach dem Zwiebelprinzip an, da die dicken Steinmauern die Kälte lange speichern.",
                 "hu": "Tapasztalja meg a különleges akusztikát a templom hűvös téli levegőjében; öltözzön rétegesen, mivel a vastag kőfalak hosszan megőrzik a benti hideget.",
                 "ro": "Experimentați acustica deosebită în aerul rece de iarnă al bisericii; îmbrăcați-vă în straturi, deoarece zidurile groase de piatră mențin frigul mult timp.",
-                "en": "Experience the unique acoustics in the crisp winter air of the church; dress in layers, as the thick stone walls retain the cold for a long time."
+                "en": "Experience the unique acoustics in the crisp winter air of the church; dress in layers, as the thick stone walls retain the cold for a long time.",
+                "fr": "Vivez l'acoustique unique dans l'air vif de l'hiver au sein de l'église ; habillez-vous en couches, car les épais murs de pierre conservent le froid longtemps."
               }
             },
             {
@@ -246,13 +271,15 @@
                 "de": "Sainte-Anne Chapel",
                 "hu": "Sainte-Anne Chapel",
                 "ro": "Sainte-Anne Chapel",
-                "en": "Sainte-Anne Chapel"
+                "en": "Sainte-Anne Chapel",
+                "fr": "Chapelle Sainte-Anne"
               },
               "tip_5lang": {
                 "de": "Die Kapelle ist ein ruhiger Rückzugsort, um sich kurzzeitig vom eisigen Wind zu erholen; bringen Sie eine Thermoskanne mit heißem Tee für eine wärmende Pause im Freien mit.",
                 "hu": "A kápolna nyugodt menedék, ahol rövid időre megpihenhet a jeges szél elől; vigyen magával termoszban forró teát egy melengető szabadtéri szünethez.",
                 "ro": "Capela este un refugiu liniștit pentru a vă odihni scurt de vântul înghețat; aduceți un termos cu ceai fierbinte pentru o pauză reconfortantă în aer liber.",
-                "en": "The chapel is a tranquil retreat to briefly recover from the icy wind; bring a thermos with hot tea for a warming break in the surrounding outdoor area."
+                "en": "The chapel is a tranquil retreat to briefly recover from the icy wind; bring a thermos with hot tea for a warming break in the surrounding outdoor area.",
+                "fr": "La chapelle est un refuge tranquille pour se remettre brièvement du vent glacial ; apportez une thermos de thé chaud pour une pause réchauffante dans l'espace extérieur environnant."
               }
             },
             {
@@ -260,13 +287,15 @@
                 "de": "Cap Coz Beach",
                 "hu": "Cap Coz Beach",
                 "ro": "Cap Coz Beach",
-                "en": "Cap Coz Beach"
+                "en": "Cap Coz Beach",
+                "fr": "Plage du Cap Coz"
               },
               "tip_5lang": {
                 "de": "Genießen Sie den weiten Blick auf den Ozean, der im Winter besonders klar wirkt; tragen Sie eine winddichte Mütze, da die Brise am Ufer im Dezember sehr schneidend sein kann.",
                 "hu": "Élvezze a tágas kilátást az óceánra, amely télen különösen tisztának tűnik; viseljen szélálló sapkát, mert a parti szellő decemberben metszően hideg lehet.",
                 "ro": "Bucurați-vă de vederea largă spre ocean, care pare extrem de clară iarna; purtați o căciulă rezistentă la vânt, deoarece briza de pe mal poate fi tăioasă în decembrie.",
-                "en": "Enjoy the expansive view of the ocean, which appears exceptionally clear in winter; wear a windproof hat as the shore breeze can be very biting in December."
+                "en": "Enjoy the expansive view of the ocean, which appears exceptionally clear in winter; wear a windproof hat as the shore breeze can be very biting in December.",
+                "fr": "Appréciez la vue étendue sur l'océan, qui paraît exceptionnellement clair en hiver ; portez un bonnet coupe-vent car la brise du littoral peut être très mordante en décembre."
               }
             },
             {
@@ -274,13 +303,15 @@
                 "de": "Plage de Bot Conan",
                 "hu": "Plage de Bot Conan",
                 "ro": "Plage de Bot Conan",
-                "en": "Plage de Bot Conan"
+                "en": "Plage de Bot Conan",
+                "fr": "Plage de Bot Conan"
               },
               "tip_5lang": {
                 "de": "Der kleine Strand ist im Winter fast menschenleer und ideal für Naturliebhaber; achten Sie auf die Gezeiten, da der Sandabschnitt bei Flut und Frost sehr hart und rutschig wird.",
                 "hu": "A kis strand télen szinte teljesen néptelen, ideális a természet kedvelőinek; ügyeljen az árapályra, mert a homokos rész dagálykor és fagyban keménnyé és csúszóssá válik.",
                 "ro": "Mica plajă este aproape pustie iarna, ideală pentru iubitorii de natură; atenție la maree, deoarece porțiunea de nisip devine dură și alunecoasă la îngheț.",
-                "en": "The small beach is almost deserted in winter, ideal for nature lovers; watch the tides, as the sandy stretch becomes very hard and slippery during frost."
+                "en": "The small beach is almost deserted in winter, ideal for nature lovers; watch the tides, as the sandy stretch becomes very hard and slippery during frost.",
+                "fr": "La petite plage est presque déserte en hiver, idéale pour les amoureux de la nature ; surveillez les marées, car l'étendue de sable devient très dure et glissante sous le gel."
               }
             },
             {
@@ -288,13 +319,15 @@
                 "de": "Plage de Kerveltrec",
                 "hu": "Plage de Kerveltrec",
                 "ro": "Plage de Kerveltrec",
-                "en": "Plage de Kerveltrec"
+                "en": "Plage de Kerveltrec",
+                "fr": "Plage de Kerveltrec"
               },
               "tip_5lang": {
                 "de": "Beobachten Sie den frühen Sonnenuntergang gegen 17:00 Uhr direkt vom Strand aus; Taschenwärmer in den Jackentaschen machen das Warten auf das Abendrot deutlich angenehmer.",
                 "hu": "Nézze meg a korai naplementét 17:00 körül közvetlenül a strandról; a kabátzsebbe rejtett kézmelegítők sokkal kellemesebbé teszik az alkonyat megvárását.",
                 "ro": "Urmăriți apusul timpuriu în jurul orei 17:00 direct de pe plajă; încălzitoarele de mâini în buzunare fac așteptarea amurgului mult mai plăcută.",
-                "en": "Watch the early sunset around 17:00 directly from the beach; hand warmers in your pockets will make waiting for the twilight much more comfortable."
+                "en": "Watch the early sunset around 17:00 directly from the beach; hand warmers in your pockets will make waiting for the twilight much more comfortable.",
+                "fr": "Observez le coucher du soleil précoce vers 17:00 directement depuis la plage ; des chauffe-mains dans vos poches rendront l'attente du crépuscule beaucoup plus confortable."
               }
             }
           ]
@@ -314,7 +347,8 @@
             "de": "Saint-Pierre Church",
             "hu": "Saint-Pierre Church",
             "ro": "Saint-Pierre Church",
-            "en": "Saint-Pierre Church"
+            "en": "Saint-Pierre Church",
+            "fr": "Église Saint-Pierre"
           },
           "coords": [
             -4.009558,
@@ -329,7 +363,8 @@
             "de": "Beginnen Sie Ihre Radtour, indem Sie die massiven romanischen Steinmauern dieser zentralen Kirche bewundern, und prüfen Sie den Reifendruck, bevor es zur Küste geht.",
             "hu": "Kezdje a kerékpáros napot ennek a központi templomnak a masszív román kőfalainak megcsodálásával, majd ellenőrizze a guminyomást a parti ösvények meghódítása előtt.",
             "ro": "Începeți ziua de ciclism admirând pereții masivi din piatră romanică ai acestei biserici centrale, asigurându-vă că anvelopele sunt umflate înainte de a pleca.",
-            "en": "Start your biking day by admiring the solid Romanesque stone walls of this central church, ensuring your tires are fully pumped before heading towards the coastal trails."
+            "en": "Start your biking day by admiring the solid Romanesque stone walls of this central church, ensuring your tires are fully pumped before heading towards the coastal trails.",
+            "fr": "Commencez votre journée à vélo en admirant les solides murs romans en pierre de cette église centrale, en vous assurant que vos pneus sont bien gonflés avant de prendre les sentiers côtiers."
           }
         },
         {
@@ -337,7 +372,8 @@
             "de": "Cap Coz Beach",
             "hu": "Cap Coz Beach",
             "ro": "Cap Coz Beach",
-            "en": "Cap Coz Beach"
+            "en": "Cap Coz Beach",
+            "fr": "Plage du Cap Coz"
           },
           "coords": [
             -3.984549,
@@ -352,7 +388,8 @@
             "de": "Genießen Sie die frische Brise, während Sie an diesem Strand entlangradeln, und nutzen Sie die Fahrradständer am Eingang, um Ihr Rad während eines Bades sicher abzuschließen.",
             "hu": "Élvezze a frissítő szellőt, miközben végigteker a látványos homokos parton, és használja a bejárat melletti tárolókat, hogy biztonságban tudja kerékpárját egy fürdőzés alatt.",
             "ro": "Bucurați-vă de o briză răcoroasă în timp ce pedalați de-a lungul acestei plaje, și folosiți parcările pentru biciclete de la intrare pentru a o bloca în siguranță.",
-            "en": "Enjoy a refreshing breeze as you pedal along this spectacular sandy beach, and use the provided bike racks near the entrance to safely lock your bicycle during a swim."
+            "en": "Enjoy a refreshing breeze as you pedal along this spectacular sandy beach, and use the provided bike racks near the entrance to safely lock your bicycle during a swim.",
+            "fr": "Profitez d'une brise revigorante en pédalant le long de cette spectaculaire plage de sable, et utilisez les arceaux à vélos près de l'entrée pour verrouiller votre bicyclette en toute sécurité pendant une baignade."
           }
         },
         {
@@ -360,7 +397,8 @@
             "de": "Port-la-Forêt Marina",
             "hu": "Port-la-Forêt Marina",
             "ro": "Port-la-Forêt Marina",
-            "en": "Port-la-Forêt Marina"
+            "en": "Port-la-Forêt Marina",
+            "fr": "Port-la-Forêt"
           },
           "coords": [
             -3.97294,
@@ -375,7 +413,8 @@
             "de": "Bestaunen Sie die beeindruckenden Rennyachten im Yachthafen und schieben Sie Ihr Fahrrad einen Moment auf den belebten Promenaden, um Rücksicht auf Fußgänger zu nehmen.",
             "hu": "Csodálja meg a híres kikötőben horgonyzó lenyűgöző versenyjachtokat, és tolja egy kicsit a kerékpárját a forgalmas sétányokon, figyelemmel a gyalogosokra.",
             "ro": "Admirați iahturile de curse impresionante andocate în acest faimos port de agrement, și mergeți pe lângă bicicletă pe promenadele aglomerate pentru a respecta pietonii.",
-            "en": "Marvel at the impressive racing yachts docked in this famous marina, and take a moment to walk your bike along the busy promenades to respect the passing pedestrians."
+            "en": "Marvel at the impressive racing yachts docked in this famous marina, and take a moment to walk your bike along the busy promenades to respect the passing pedestrians.",
+            "fr": "Admirez les impressionnants yachts de course amarrés dans cette marina renommée, et prenez un moment pour pousser votre vélo sur les promenades fréquentées afin de respecter les piétons."
           }
         },
         {
@@ -383,7 +422,8 @@
             "de": "Plage de Kerleven",
             "hu": "Plage de Kerleven",
             "ro": "Plage de Kerleven",
-            "en": "Plage de Kerleven"
+            "en": "Plage de Kerleven",
+            "fr": "Plage de Kerleven"
           },
           "coords": [
             -3.965024,
@@ -398,7 +438,8 @@
             "de": "Machen Sie eine wohlverdiente Mittagspause an diesem weitläufigen Strand mit ruhigem Wasser und halten Sie Ausschau nach kleinen Cafés hinter den Dünen für einen Snack.",
             "hu": "Tartson egy jól megérdemelt ebédszünetet ezen a nyugodt vizű, tágas strandon, és keressen egy kis helyi kávézót a dűnék mögött egy gyors energiapótlásra.",
             "ro": "Luați o binemeritată pauză de prânz la această plajă vastă care oferă ape calme, și căutați micile cafenele locale din spatele dunelor pentru o gustare rapidă.",
-            "en": "Take a well-deserved midday break at this expansive beach offering calm waters, and keep an eye out for small local cafes just behind the dunes for a quick energy boost."
+            "en": "Take a well-deserved midday break at this expansive beach offering calm waters, and keep an eye out for small local cafes just behind the dunes for a quick energy boost.",
+            "fr": "Faites une pause bien méritée à midi sur cette vaste plage aux eaux calmes, et repérez les petits cafés locaux juste derrière les dunes pour un regain d'énergie rapide."
           }
         },
         {
@@ -406,7 +447,8 @@
             "de": "Plage de Kerambigorn",
             "hu": "Plage de Kerambigorn",
             "ro": "Plage de Kerambigorn",
-            "en": "Plage de Kerambigorn"
+            "en": "Plage de Kerambigorn",
+            "fr": "Plage de Kerambigorn"
           },
           "coords": [
             -3.995234,
@@ -421,7 +463,8 @@
             "de": "Radeln Sie an den wunderschönen natürlichen Dünen vorbei und denken Sie daran, strikt auf den ausgewiesenen Radwegen zu bleiben, um das Ökosystem zu schützen.",
             "hu": "Tekerjen el a tágas strandot övező gyönyörű természetes dűnék mellett, és ügyeljen arra, hogy szigorúan a kijelölt kerékpárutakon maradjon a törékeny ökoszisztéma védelmében.",
             "ro": "Pedalați pe lângă frumoasele dune naturale, și nu uitați să rămâneți strict pe pistele de ciclism desemnate pentru a proteja ecosistemul local fragil.",
-            "en": "Cycle past the beautiful natural dunes framing this vast beach, and remember to stay strictly on the designated cycling paths to protect the fragile local ecosystem."
+            "en": "Cycle past the beautiful natural dunes framing this vast beach, and remember to stay strictly on the designated cycling paths to protect the fragile local ecosystem.",
+            "fr": "Parcourez à vélo les belles dunes naturelles qui encadrent cette vaste plage, et souvenez-vous de rester strictement sur les pistes cyclables désignées pour protéger le fragile écosystème local."
           }
         },
         {
@@ -429,7 +472,8 @@
             "de": "Mousterlin Point",
             "hu": "Mousterlin Point",
             "ro": "Mousterlin Point",
-            "en": "Mousterlin Point"
+            "en": "Mousterlin Point",
+            "fr": "Pointe de Mousterlin"
           },
           "coords": [
             -4.039006,
@@ -444,7 +488,8 @@
             "de": "Beenden Sie Ihre Radtour mit dem atemberaubenden Panoramablick vom Felsen und packen Sie eine Windjacke ein, da die Brise hier am Nachmittag recht kräftig sein kann.",
             "hu": "Zárja kerékpáros útját a sziklás pontról nyíló lélegzetelállító óceáni panorámával, és pakoljon be egy vékony széldzsekit, mivel a parti szél itt elég erős lehet.",
             "ro": "Încheiați-vă călătoria cu bicicleta bucurându-vă de priveliștile panoramice de la acest punct stâncos, și aduceți o jachetă subțire, deoarece briza coastelor poate fi puternică.",
-            "en": "End your cycling journey taking in the breathtaking panoramic ocean views from the rocky point, and pack a light windbreaker as the coastal breezes here can be quite strong."
+            "en": "End your cycling journey taking in the breathtaking panoramic ocean views from the rocky point, and pack a light windbreaker as the coastal breezes here can be quite strong.",
+            "fr": "Terminez votre parcours à vélo en profitant des vues panoramiques à couper le souffle sur l'océan depuis la pointe rocheuse, et emportez une légère coupe-vent car les brises côtières peuvent être assez fortes."
           }
         }
       ],
@@ -452,7 +497,8 @@
         "de": "Mit dem Fahrrad lässt sich die reizvolle Vielfalt von Fouesnant ideal erkunden. Am Vormittag starten wir an der historischen Kirche und gleiten gemütlich zur Küste, wo uns der Cap Coz Strand mit feinem Sand begrüßt. Die Mittagsstunden verbringen wir fasziniert im weltbekannten Jachthafen Port-la-Forêt, bevor uns der Strand von Kerleven zur Abkühlung einlädt. Der Nachmittag bietet eine malerische Fahrt entlang naturbelassener Dünen und Strände in Richtung Süden. Zum Sonnenuntergang erreichen wir stolz die wilde Spitze von Mousterlin, wo sich das weite Meer eindrucksvoll vor uns ausbreitet.",
         "hu": "Fouesnant varázslatos sokszínűségét kerékpárral a legjobb felfedezni. Délelőtt a történelmi templom mellől indulunk, és kényelmesen kigördülünk a partra, ahol a finom homokos Cap Coz fogad. A déli órákban a Port-la-Forêt kikötő hatalmas jachtjai nyűgöznek le minket, mielőtt a Kerleven strandon hűsölnénk. A délután festői utazást kínál az érintetlen dűnék és déli strandok mentén. Napnyugtakor büszkén érjük el a vad Mousterlin pontot, ahol a végtelen tenger lenyűgöző panorámája terül elénk.",
         "ro": "Ciclismul este modalitatea ideală de a explora diversitatea orașului Fouesnant. Dimineața pornim de la biserica istorică și ne îndreptăm ușor spre coastă, unde ne întâmpină plaja Cap Coz. La prânz, suntem fascinați de portul de agrement Port-la-Forêt, renumit la nivel mondial, înainte ca plaja Kerleven să ne invite la răcorire. După-amiaza oferă o plimbare pitorească de-a lungul dunelor naturale și a plajelor sudice. La apus ajungem mândri la punctul stâncos Mousterlin, unde oceanul vast se întinde impresionant în fața noastră.",
-        "en": "Cycling is the ideal way to explore the delightful diversity of Fouesnant. In the morning, we set off from the historic town church and glide effortlessly towards the coast, greeted by the fine sands of Cap Coz. Midday brings us to the fascinating Port-la-Forêt marina to admire ocean-racing yachts, followed by a refreshing dip at Kerleven beach. The afternoon offers a highly picturesque ride along pristine natural dunes heading south. At sunset, we proudly arrive at the wild Mousterlin Point, rewarding ourselves with an expansive and breathtaking view of the Atlantic Ocean."
+        "en": "Cycling is the ideal way to explore the delightful diversity of Fouesnant. In the morning, we set off from the historic town church and glide effortlessly towards the coast, greeted by the fine sands of Cap Coz. Midday brings us to the fascinating Port-la-Forêt marina to admire ocean-racing yachts, followed by a refreshing dip at Kerleven beach. The afternoon offers a highly picturesque ride along pristine natural dunes heading south. At sunset, we proudly arrive at the wild Mousterlin Point, rewarding ourselves with an expansive and breathtaking view of the Atlantic Ocean.",
+        "fr": "Le vélo est le moyen idéal pour explorer la délicieuse diversité de Fouesnant. Le matin, on part de l'église historique de la ville et on glisse vers la côte, accueilli par les sables fins du Cap Coz. À midi, on rejoint la fascinante marina de Port-la-Forêt pour admirer les yachts de course, suivie d'une baignade revigorante à la plage de Kerleven. L'après-midi offre une balade pittoresque le long de dunes naturelles préservées en direction du sud. Au coucher du soleil, on arrive à la sauvage Pointe de Mousterlin, récompensés par une vue expansive et spectaculaire sur l'océan Atlantique."
       },
       "variants": {
         "rainy": {
@@ -460,7 +506,8 @@
             "de": "Die Radtour durch Fouesnant erfordert heute Vorsicht auf den nassen Straßen. Vormittags bieten die Kirchen trockene Zwischenstopps, bevor es zur windigen Küste geht. Mittags ist der Hafen von Port-la-Forêt ein lebendiger Ort, um den Booten im Regen zuzusehen. Nachmittags führen die Wege durch schlammiges Gelände zurück, was volle Konzentration erfordert. Der Tag endet mit der Reinigung der Ausrüstung im Schutze der Unterkunft.",
             "hu": "A fouesnanti kerékpártúra ma fokozott óvatosságot igényel a nedves utakon. Délelőtt a templomok nyújtanak száraz pihenőket a szeles part felé menet. Délben Port-la-Forêt kikötője mozgalmas hely a hajók megfigyelésére az esőben. Délután sárga és vizes utakon vezet a visszaút, ami teljes koncentrációt igényel. A nap a felszerelés megtisztításával ér véget a szállás védelmében.",
             "ro": "Turul cu bicicleta prin Fouesnant necesită astăzi prudență pe drumurile ude. Dimineața, bisericile oferă opriri uscate înainte de a merge spre coasta vântoasă. La prânz, portul Port-la-Forêt este un loc animat pentru a privi bărcile în ploaie. După-amiaza, drumurile duc înapoi prin teren noroios, necesitând concentrare maximă. Ziua se încheie cu curățarea echipamentului la adăpost.",
-            "en": "Today's bike tour through Fouesnant requires extra caution on the wet roads. In the morning, churches provide dry stops before heading to the windy coast. At noon, Port-la-Forêt marina is a lively spot to watch the boats in the rain. In the afternoon, the routes lead back through muddy terrain, demanding full concentration. The day ends with cleaning your gear in the shelter of your accommodation."
+            "en": "Today's bike tour through Fouesnant requires extra caution on the wet roads. In the morning, churches provide dry stops before heading to the windy coast. At noon, Port-la-Forêt marina is a lively spot to watch the boats in the rain. In the afternoon, the routes lead back through muddy terrain, demanding full concentration. The day ends with cleaning your gear in the shelter of your accommodation.",
+            "fr": "La balade à vélo d'aujourd'hui à travers Fouesnant nécessite une vigilance accrue sur les routes mouillées. Le matin, les églises offrent des haltes sèches avant de gagner la côte venteuse. À midi, la marina de Port-la-Forêt est un lieu animé pour observer les bateaux sous la pluie. L'après-midi, les itinéraires reviennent par des terrains boueux, demandant une concentration maximale. La journée se termine par le nettoyage de votre équipement à l'abri de votre hébergement."
           },
           "stops": [
             {
@@ -468,13 +515,15 @@
                 "de": "Saint-Pierre Church",
                 "hu": "Saint-Pierre Church",
                 "ro": "Saint-Pierre Church",
-                "en": "Saint-Pierre Church"
+                "en": "Saint-Pierre Church",
+                "fr": "Église Saint-Pierre"
               },
               "tip_5lang": {
                 "de": "Parken Sie Ihr Rad unter den Vordächern nahe dem Eingang, um den Sattel trocken zu halten; nutzen Sie die Besichtigung, um Ihre Regenkleidung kurz auszuschütteln.",
                 "hu": "Parkolja le kerékpárját az előtetők alatt a bejárat közelében, hogy a nyereg száraz maradjon; használja a látogatást az esőruházat rövid lerázására.",
                 "ro": "Parcați bicicleta sub streșini lângă intrare pentru a păstra șaua uscată; folosiți vizita pentru a vă scutura scurt echipamentul de ploaie.",
-                "en": "Park your bike under the eaves near the entrance to keep the saddle dry; use the visit to briefly shake off your rain gear before heading back out."
+                "en": "Park your bike under the eaves near the entrance to keep the saddle dry; use the visit to briefly shake off your rain gear before heading back out.",
+                "fr": "Garez votre vélo sous les avant-toits près de l'entrée pour garder la selle au sec ; profitez de la visite pour secouer brièvement votre équipement de pluie avant de repartir."
               }
             },
             {
@@ -482,13 +531,15 @@
                 "de": "Cap Coz Beach",
                 "hu": "Cap Coz Beach",
                 "ro": "Cap Coz Beach",
-                "en": "Cap Coz Beach"
+                "en": "Cap Coz Beach",
+                "fr": "Plage du Cap Coz"
               },
               "tip_5lang": {
                 "de": "Der Radweg entlang der Bucht kann bei Regen sandig und rutschig sein; bremsen Sie frühzeitig vor Kurven, da der Bremsweg auf nassem Untergrund deutlich länger ist.",
                 "hu": "Az öböl menti kerékpárút esőben homokos és csúszós lehet; fékezzen időben a kanyarok előtt, mivel a féktávolság nedves talajon jóval hosszabb.",
                 "ro": "Pista de biciclete de-a lungul golfului poate fi nisipoasă și alunecoasă pe ploaie; frânați din timp înainte de curbe, deoarece distanța de frânare este mai mare.",
-                "en": "The bike path along the bay can become sandy and slippery in the rain; brake early before curves, as braking distance is significantly longer on wet surfaces."
+                "en": "The bike path along the bay can become sandy and slippery in the rain; brake early before curves, as braking distance is significantly longer on wet surfaces.",
+                "fr": "La piste cyclable le long de la baie peut devenir sablonneuse et glissante sous la pluie ; freinez tôt avant les courbes, car la distance de freinage est nettement plus longue sur surfaces mouillées."
               }
             },
             {
@@ -496,13 +547,15 @@
                 "de": "Port-la-Forêt Marina",
                 "hu": "Port-la-Forêt Marina",
                 "ro": "Port-la-Forêt Marina",
-                "en": "Port-la-Forêt Marina"
+                "en": "Port-la-Forêt Marina",
+                "fr": "Port-la-Forêt"
               },
               "tip_5lang": {
                 "de": "Suchen Sie Schutz in den überdachten Bereichen des Hafens und beobachten Sie die Segelboote; tragen Sie Neopren-Überschuhe, um Ihre Füße vor dem Spritzwasser der Reifen zu schützen.",
                 "hu": "Keressen menedéket a kikötő fedett részein, és figyelje a vitorlásokat; viseljen neoprén kamáslit, hogy megvédje lábát a kerekek által felvert víztől.",
                 "ro": "Căutați adăpost în zonele acoperite ale portului și observați iahturile; purtați protecții de neopren pentru pantofi pentru a vă proteja picioarele de stropi.",
-                "en": "Seek shelter in the covered areas of the marina and watch the sailing boats; wear neoprene shoe covers to protect your feet from the spray kicked up by the tires."
+                "en": "Seek shelter in the covered areas of the marina and watch the sailing boats; wear neoprene shoe covers to protect your feet from the spray kicked up by the tires.",
+                "fr": "Cherchez un abri dans les zones couvertes de la marina et observez les voiliers ; portez des couvre-chaussures en néoprène pour protéger vos pieds des embruns soulevés par les pneus."
               }
             },
             {
@@ -510,13 +563,15 @@
                 "de": "Plage de Kerleven",
                 "hu": "Plage de Kerleven",
                 "ro": "Plage de Kerleven",
-                "en": "Plage de Kerleven"
+                "en": "Plage de Kerleven",
+                "fr": "Plage de Kerleven"
               },
               "tip_5lang": {
                 "de": "Die weite Strandpromenade bietet Platz zum Wenden, falls der Regen zu stark wird; achten Sie auf Pfützen, die tiefe Schlaglöcher auf dem Zufahrtsweg verbergen könnten.",
                 "hu": "A tágas tengerparti sétány helyet kínál a megforduláshoz, ha túl erős lenne az eső; ügyeljen a tócsákra, amelyek mély kátyúkat rejthetnek a bekötőúton.",
                 "ro": "Promenada largă oferă spațiu pentru întoarcere dacă ploaia devine prea puternică; atenție la bălțile care pot ascunde gropi adânci pe drumul de acces.",
-                "en": "The wide beachfront promenade offers space to turn around if the rain gets too heavy; watch out for puddles that might hide deep potholes on the access path."
+                "en": "The wide beachfront promenade offers space to turn around if the rain gets too heavy; watch out for puddles that might hide deep potholes on the access path.",
+                "fr": "La large promenade en bord de mer offre de l'espace pour faire demi-tour si la pluie devient trop forte ; méfiez-vous des flaques qui peuvent cacher des nids-de-poule profonds sur le chemin d'accès."
               }
             },
             {
@@ -524,13 +579,15 @@
                 "de": "Plage de Kerambigorn",
                 "hu": "Plage de Kerambigorn",
                 "ro": "Plage de Kerambigorn",
-                "en": "Plage de Kerambigorn"
+                "en": "Plage de Kerambigorn",
+                "fr": "Plage de Kerambigorn"
               },
               "tip_5lang": {
                 "de": "Der Weg durch die Dünen ist bei Nässe technisch anspruchsvoll; reduzieren Sie den Reifendruck minimal für bessere Traktion auf den feuchten, sandigen Abschnitten.",
                 "hu": "A dűnéken átvezető út nedvesen technikailag nagyobb kihívást jelent; csökkentse minimálisan a guminyomást a jobb tapadás érdekében a nyirkos, homokos szakaszokon.",
                 "ro": "Drumul prin dune este solicitant din punct de vedere tehnic pe timp de ploaie; reduceți minim presiunea în anvelope pentru o tracțiune mai bună pe porțiunile nisipoase.",
-                "en": "The path through the dunes is technically challenging when wet; slightly reduce your tire pressure for better traction on the damp, sandy sections."
+                "en": "The path through the dunes is technically challenging when wet; slightly reduce your tire pressure for better traction on the damp, sandy sections.",
+                "fr": "Le sentier à travers les dunes est techniquement exigeant lorsqu'il est humide ; réduisez légèrement la pression de vos pneus pour une meilleure traction sur les sections sablonneuses et humides."
               }
             },
             {
@@ -538,13 +595,15 @@
                 "de": "Mousterlin Point",
                 "hu": "Mousterlin Point",
                 "ro": "Mousterlin Point",
-                "en": "Mousterlin Point"
+                "en": "Mousterlin Point",
+                "fr": "Pointe de Mousterlin"
               },
               "tip_5lang": {
                 "de": "Die exponierte Landspitze ist dem Wind schutzlos ausgeliefert; halten Sie den Lenker fest umschlossen, da plötzliche Böen Ihr Rad gefährlich versetzen können.",
                 "hu": "A kitett félsziget védtelenül áll a széllel szemben; markolja erősen a kormányt, mert a hirtelen széllökések veszélyesen megdobhatják a kerékpárt.",
                 "ro": "Capătul expus al peninsulei este lipsit de protecție împotriva vântului; țineți bine ghidonul, deoarece rafalele bruște pot devia periculos bicicleta.",
-                "en": "The exposed headland is completely unprotected from the wind; keep a firm grip on the handlebars as sudden gusts can dangerously displace your bike."
+                "en": "The exposed headland is completely unprotected from the wind; keep a firm grip on the handlebars as sudden gusts can dangerously displace your bike.",
+                "fr": "Le cap exposé est totalement à découvert face au vent ; maintenez fermement le guidon car des rafales soudaines peuvent déplacer dangereusement votre vélo."
               }
             }
           ]
@@ -554,7 +613,8 @@
             "de": "Die winterliche Radtour führt durch die kristallklare Luft der Bretagne. Vormittags wärmen kurze Besichtigungen in den Kirchen auf, bevor die Fahrt zur Marina fortgesetzt wird. Mittags glitzert der Frost auf den Decks der Boote im Hafen. Nachmittags nutzen Sie das letzte Tageslicht an der Landspitze von Mousterlin. Beenden Sie die Tour vor Einbruch der Dunkelheit um 17:00 Uhr und tragen Sie reflektierende Kleidung.",
             "hu": "A téli kerékpártúra a Bretagne-i kristálytiszta levegőben vezet. Délelőtt a templomok rövid látogatása melegít fel, mielőtt folytatná útját a kikötő felé. Délben a zúzmara csillog a hajók fedélzetén. Délután használja ki az utolsó fényeket a Mousterlin-félszigeten. Fejezze be a túrát a sötétedés beállta előtt 17:00-ig, és viseljen fényvisszaverő ruházatot.",
             "ro": "Turul de iarnă cu bicicleta trece prin aerul cristalini al Bretaniei. Dimineața, scurte vizite în biserici vă vor încălzi înainte de a continua drumul spre marină. La prânz, chiciura strălucește pe punțile bărcilor din port. După-amiaza, profitați de ultima lumină la Mousterlin Point. Încheiați turul înainte de lăsarea întunericului, la ora 17:00, și purtați haine reflectorizante.",
-            "en": "The winter bike tour takes you through the crystal-clear Breton air. In the morning, short visits to churches help you warm up before continuing to the marina. At noon, frost glitters on the decks of the boats in the harbor. In the afternoon, make the most of the last daylight at Mousterlin Point. Finish your tour before darkness falls at 17:00 and wear reflective clothing."
+            "en": "The winter bike tour takes you through the crystal-clear Breton air. In the morning, short visits to churches help you warm up before continuing to the marina. At noon, frost glitters on the decks of the boats in the harbor. In the afternoon, make the most of the last daylight at Mousterlin Point. Finish your tour before darkness falls at 17:00 and wear reflective clothing.",
+            "fr": "La randonnée à vélo hivernale vous fait traverser l'air cristallin breton. Le matin, de courtes visites d'églises réchauffent avant de reprendre la route vers la marina. À midi, le givre scintille sur les ponts des bateaux dans le port. L'après-midi, profitez des dernières heures de jour à la Pointe de Mousterlin. Terminez votre circuit avant la tombée de la nuit à 17:00 et portez des vêtements réfléchissants."
           },
           "stops": [
             {
@@ -562,13 +622,15 @@
                 "de": "Saint-Pierre Church",
                 "hu": "Saint-Pierre Church",
                 "ro": "Saint-Pierre Church",
-                "en": "Saint-Pierre Church"
+                "en": "Saint-Pierre Church",
+                "fr": "Église Saint-Pierre"
               },
               "tip_5lang": {
                 "de": "Wärmen Sie Ihre Hände in der Kirche auf, bevor Sie die kalten Bremsgriffe wieder anfassen; ein Paar winddichte Fahrradhandschuhe ist für die Weiterfahrt absolut notwendig.",
                 "hu": "Melegítse fel a kezeit a templomban, mielőtt újra megfogná a hideg fékkarokat; egy pár szélálló kerékpáros kesztyű elengedhetetlen a továbbinduláshoz.",
                 "ro": "Încălziți-vă mâinile în biserică înainte de a atinge din nou manetele reci de frână; o pereche de mănuși de ciclism rezistente la vânt este absolut necesară.",
-                "en": "Warm your hands inside the church before touching the cold brake levers again; a pair of windproof cycling gloves is absolutely necessary for the rest of the ride."
+                "en": "Warm your hands inside the church before touching the cold brake levers again; a pair of windproof cycling gloves is absolutely necessary for the rest of the ride.",
+                "fr": "Réchauffez vos mains à l'intérieur de l'église avant de toucher de nouveau les leviers de frein froids ; une paire de gants de cyclisme coupe-vent est absolument nécessaire pour la suite de la sortie."
               }
             },
             {
@@ -576,13 +638,15 @@
                 "de": "Cap Coz Beach",
                 "hu": "Cap Coz Beach",
                 "ro": "Cap Coz Beach",
-                "en": "Cap Coz Beach"
+                "en": "Cap Coz Beach",
+                "fr": "Plage du Cap Coz"
               },
               "tip_5lang": {
                 "de": "Die Wintersonne steht tief und blendet beim Fahren entlang der Bucht; tragen Sie eine Sportsonnenbrille, um Ihre Augen vor der UV-Strahlung und dem kalten Fahrtwind zu schützen.",
                 "hu": "A téli nap alacsonyan jár és elvakíthat az öböl menti tekerés közben; viseljen sportszemüveget, hogy megvédje szemét az UV-sugárzástól és a hideg menetszéltől.",
                 "ro": "Soarele de iarnă este jos și vă poate orbi în timp ce pedalați de-a lungul golfului; purtați ochelari de soare sport pentru a vă proteja ochii de UV și de vântul rece.",
-                "en": "The winter sun is low and can be blinding while riding along the bay; wear sports sunglasses to protect your eyes from UV radiation and the cold headwind."
+                "en": "The winter sun is low and can be blinding while riding along the bay; wear sports sunglasses to protect your eyes from UV radiation and the cold headwind.",
+                "fr": "Le soleil d'hiver est bas et peut éblouir en longeant la baie ; portez des lunettes de sport pour protéger vos yeux des UV et du vent froid."
               }
             },
             {
@@ -590,13 +654,15 @@
                 "de": "Port-la-Forêt Marina",
                 "hu": "Port-la-Forêt Marina",
                 "ro": "Port-la-Forêt Marina",
-                "en": "Port-la-Forêt Marina"
+                "en": "Port-la-Forêt Marina",
+                "fr": "Marina de Port-la-Forêt"
               },
               "tip_5lang": {
                 "de": "Bewundern Sie die stillgelegten Hochsee-Yachten in ihrer Winterpause; vermeiden Sie die Holzstege am Hafen, da diese bei Frost extrem glatt und für Fahrräder gefährlich sind.",
                 "hu": "Csodálja meg a téli pihenőjüket töltő nyílt tengeri jachtokat; kerülje a kikötői fapallókat, mert azok fagyban rendkívül csúszósak és veszélyesek kerékpárral.",
                 "ro": "Admirați iahturile de cursă lungă aflate în pauza de iarnă; evitați pontoanele de lemn din port, deoarece acestea sunt extrem de alunecoase și periculoase pentru biciclete.",
-                "en": "Admire the offshore yachts during their winter break; avoid the wooden docks at the harbor, as they are extremely slippery and dangerous for bikes when frozen."
+                "en": "Admire the offshore yachts during their winter break; avoid the wooden docks at the harbor, as they are extremely slippery and dangerous for bikes when frozen.",
+                "fr": "Admirez les yachts au large pendant leur pause hivernale ; évitez les pontons en bois du port, ils sont extrêmement glissants et dangereux pour les vélos lorsqu'ils sont gelés."
               }
             },
             {
@@ -604,13 +670,15 @@
                 "de": "Plage de Kerleven",
                 "hu": "Plage de Kerleven",
                 "ro": "Plage de Kerleven",
-                "en": "Plage de Kerleven"
+                "en": "Plage de Kerleven",
+                "fr": "Plage de Kerleven"
               },
               "tip_5lang": {
                 "de": "Die ruhige Winteratmosphäre ist perfekt für eine kurze Trinkpause aus der Thermosflasche; achten Sie darauf, dass Ihr Trinkwasser nicht zu kalt ist, um den Körper nicht auszukühlen.",
                 "hu": "A nyugodt téli hangulat tökéletes egy rövid teázásra a termoszából; ügyeljen rá, hogy az ivóvize ne legyen túl hideg, nehogy lehűtse a szervezetét.",
                 "ro": "Atmosfera liniștită de iarnă este perfectă pentru o scurtă pauză de hidratare din termos; aveți grijă ca apa să nu fie prea rece, pentru a nu răci organismul.",
-                "en": "The quiet winter atmosphere is perfect for a short drink break from your thermos; make sure your drinking water isn't too cold to avoid chilling your body."
+                "en": "The quiet winter atmosphere is perfect for a short drink break from your thermos; make sure your drinking water isn't too cold to avoid chilling your body.",
+                "fr": "L'atmosphère hivernale et paisible est parfaite pour une courte pause boisson de votre thermos ; veillez à ce que votre eau ne soit pas trop froide pour éviter d'abaisser la température corporelle."
               }
             },
             {
@@ -618,13 +686,15 @@
                 "de": "Plage de Kerambigorn",
                 "hu": "Plage de Kerambigorn",
                 "ro": "Plage de Kerambigorn",
-                "en": "Plage de Kerambigorn"
+                "en": "Plage de Kerambigorn",
+                "fr": "Plage de Kerambigorn"
               },
               "tip_5lang": {
                 "de": "Der Sand ist bei Frost fest und lässt sich stellenweise gut befahren; prüfen Sie die Funktion Ihrer Schaltung regelmäßig, da Kälte die Mechanik schwergängig machen kann.",
                 "hu": "A homok fagyban kemény és helyenként jól tekerhető; ellenőrizze rendszeresen a váltó működését, mert a hidegben a mechanika nehezebben mozoghat.",
                 "ro": "Nisipul este tare la îngheț și poate fi parcurs bine pe alocuri; verificați funcționarea schimbătorului, deoarece frigul poate face mecanica mai rigidă.",
-                "en": "The sand is firm during frost and can be ridden on in places; check your gear shifting regularly, as the cold can make the mechanics stiff and sluggish."
+                "en": "The sand is firm during frost and can be ridden on in places; check your gear shifting regularly, as the cold can make the mechanics stiff and sluggish.",
+                "fr": "Le sable est compact quand il gèle et peut être praticable par endroits ; vérifiez régulièrement votre changement de vitesse, le froid pouvant raidir et ralentir la mécanique."
               }
             },
             {
@@ -632,13 +702,15 @@
                 "de": "Mousterlin Point",
                 "hu": "Mousterlin Point",
                 "ro": "Mousterlin Point",
-                "en": "Mousterlin Point"
+                "en": "Mousterlin Point",
+                "fr": "Pointe de Mousterlin"
               },
               "tip_5lang": {
                 "de": "Die klare Fernsicht reicht im Winter oft bis zu den Glenan-Inseln; schalten Sie bereits vor 17:00 Uhr Ihre Fahrradbeleuchtung ein, um für andere Verkehrsteilnehmer sichtbar zu sein.",
                 "hu": "A tiszta téli látási viszonyok mellett gyakran ellátni egészen a Glenan-szigetekig; kapcsolja be a kerékpárvilágítást már 17:00 előtt, hogy jól látható maradjon.",
                 "ro": "Vizibilitatea clară de iarnă permite adesea vederea până la Insulele Glenan; aprindeți luminile bicicletei înainte de ora 17:00 pentru a fi vizibil pentru ceilalți.",
-                "en": "The clear winter visibility often allows views as far as the Glénan Islands; turn on your bike lights well before 17:00 to remain visible to other road users."
+                "en": "The clear winter visibility often allows views as far as the Glénan Islands; turn on your bike lights well before 17:00 to remain visible to other road users.",
+                "fr": "La visibilité hivernale claire permet souvent de voir jusqu'aux îles Glénan ; allumez vos feux de vélo bien avant 17:00 pour rester visible des autres usagers de la route."
               }
             }
           ]
@@ -658,7 +730,8 @@
             "de": "Sainte-Anne Chapel",
             "hu": "Sainte-Anne Chapel",
             "ro": "Sainte-Anne Chapel",
-            "en": "Sainte-Anne Chapel"
+            "en": "Sainte-Anne Chapel",
+            "fr": "Chapelle Sainte-Anne"
           },
           "coords": [
             -4.020093,
@@ -673,7 +746,8 @@
             "de": "Beginnen Sie Ihre Autotour mit einem Besuch dieser gut erhaltenen Kapelle und nutzen Sie den kleinen Schotterparkplatz in der Nähe, um Ihr Fahrzeug sicher abzustellen.",
             "hu": "Kezdje az autós túrát ennek a jó állapotban fennmaradt helyi kápolnának a meglátogatásával, és használja a közeli kis kavicsos parkolót a jármű biztonságos leállításához.",
             "ro": "Începeți turul cu mașina vizitând această capelă locală bine conservată, folosind mica parcare cu pietriș din apropiere pentru a lăsa vehiculul în siguranță o clipă.",
-            "en": "Begin your driving tour by visiting this well-preserved local chapel, using the small gravel parking area nearby to securely leave your vehicle for a quick morning visit."
+            "en": "Begin your driving tour by visiting this well-preserved local chapel, using the small gravel parking area nearby to securely leave your vehicle for a quick morning visit.",
+            "fr": "Commencez votre circuit en voiture par la visite de cette chapelle bien conservée, en utilisant la petite aire de stationnement en gravier à proximité pour laisser votre véhicule en sécurité le temps d'une visite matinale."
           }
         },
         {
@@ -681,7 +755,8 @@
             "de": "Saint-Pierre Church",
             "hu": "Saint-Pierre Church",
             "ro": "Saint-Pierre Church",
-            "en": "Saint-Pierre Church"
+            "en": "Saint-Pierre Church",
+            "fr": "Église Saint-Pierre"
           },
           "coords": [
             -4.009558,
@@ -696,7 +771,8 @@
             "de": "Bestaunen Sie das alte Mauerwerk der zentralen Kirche, aber beachten Sie, dass das Parken auf dem Marktplatz im Sommer oft eine blaue Parkscheibe erfordert.",
             "hu": "Csodálja meg a központi templom ősi kőfalait, de tartsa szem előtt, hogy a főtéren a forgalmas nyári hónapokban kék parkolótárcsa használata kötelező.",
             "ro": "Admirați zidăria veche a bisericii centrale, dar fiți conștienți că parcarea în piața orașului necesită un disc albastru de parcare în timpul lunilor aglomerate de vară.",
-            "en": "Marvel at the ancient stonework of the central church, but be aware that parking in the town square requires a blue parking disc during the busy summer tourist months."
+            "en": "Marvel at the ancient stonework of the central church, but be aware that parking in the town square requires a blue parking disc during the busy summer tourist months.",
+            "fr": "Émerveillez-vous du vieux dallage de l'église centrale, mais sachez que le stationnement sur la place du village exige un disque de stationnement bleu pendant les mois d'affluence estivale."
           }
         },
         {
@@ -704,7 +780,8 @@
             "de": "Port-la-Forêt Marina",
             "hu": "Port-la-Forêt Marina",
             "ro": "Port-la-Forêt Marina",
-            "en": "Port-la-Forêt Marina"
+            "en": "Port-la-Forêt Marina",
+            "fr": "Marina de Port-la-Forêt"
           },
           "coords": [
             -3.97294,
@@ -719,7 +796,8 @@
             "de": "Fahren Sie zum weitläufigen Yachthafen hinab und nutzen Sie die großen, kostenlosen Parkplätze, die speziell für Besucher direkt am Hafen angelegt wurden.",
             "hu": "Hajtson le a hatalmas jachtkikötőhöz, hogy megnézze az óceánjáró hajókat, és vegye igénybe a kikötő közelében található, látogatók számára kijelölt nagy ingyenes parkolókat.",
             "ro": "Conduceți până la marele port de agrement pentru a vedea bărcile gigantice și utilizați parcările mari gratuite desemnate special pentru vizitatorii din apropiere.",
-            "en": "Drive down to the expansive marina to see the giant ocean-going boats, and utilize the large free parking lots specifically designated for visitors located near the harbor."
+            "en": "Drive down to the expansive marina to see the giant ocean-going boats, and utilize the large free parking lots specifically designated for visitors located near the harbor.",
+            "fr": "Descendez jusqu'à la vaste marina pour voir les grands bateaux océaniques et utilisez les grands parkings gratuits spécialement destinés aux visiteurs situés près du port."
           }
         },
         {
@@ -727,7 +805,8 @@
             "de": "Cap Coz Beach",
             "hu": "Cap Coz Beach",
             "ro": "Cap Coz Beach",
-            "en": "Cap Coz Beach"
+            "en": "Cap Coz Beach",
+            "fr": "Plage du Cap Coz"
           },
           "coords": [
             -3.984549,
@@ -742,7 +821,8 @@
             "de": "Halten Sie an diesem wunderschönen Halbinselstrand und versuchen Sie, vor Mittag anzukommen, um einen Platz auf dem oft gut besuchten Parkplatz am Meer zu ergattern.",
             "hu": "Álljon meg ezen a gyönyörű, keskeny félszigeten lévő strandon, és próbáljon dél előtt érkezni, hogy könnyen találjon helyet a gyakran zsúfolt tengerparti parkolóban.",
             "ro": "Opriți la această plajă frumoasă de pe peninsulă și încercați să ajungeți înainte de prânz pentru a prinde cu ușurință un loc în parcarea adesea aglomerată de la malul mării.",
-            "en": "Stop by this narrow, beautiful peninsula beach for a lovely stroll, aiming to arrive before noon to easily secure a spot in the often crowded beachfront parking area."
+            "en": "Stop by this narrow, beautiful peninsula beach for a lovely stroll, aiming to arrive before noon to easily secure a spot in the often crowded beachfront parking area.",
+            "fr": "Faites une halte sur cette plage étroite et superbe en forme de péninsule pour une agréable promenade, en visant une arrivée avant midi pour trouver plus facilement une place dans le parking de front de mer souvent encombré."
           }
         },
         {
@@ -750,7 +830,8 @@
             "de": "Mousterlin Point",
             "hu": "Mousterlin Point",
             "ro": "Mousterlin Point",
-            "en": "Mousterlin Point"
+            "en": "Mousterlin Point",
+            "fr": "Pointe de Mousterlin"
           },
           "coords": [
             -4.039006,
@@ -765,7 +846,8 @@
             "de": "Parken Sie bequem auf dem großen Platz nahe der Landspitze und vertreten Sie sich bei einem kurzen Spaziergang die Beine, um die beeindruckende Meeresweite zu genießen.",
             "hu": "Parkoljon le kényelmesen a pont melletti nagy parkolóban, és nyújtsa ki a lábát egy rövid sétával, hogy teljes mértékben értékelni tudja a környező óceán lenyűgöző látványát.",
             "ro": "Parcați cu ușurință la parcarea mare din apropierea punctului și faceți o scurtă plimbare pitorească pentru a aprecia pe deplin priveliștile impresionante asupra oceanului.",
-            "en": "Park easily at the large lot near the point and stretch your legs with a short scenic walk to fully appreciate the impressive, sweeping views of the surrounding ocean."
+            "en": "Park easily at the large lot near the point and stretch your legs with a short scenic walk to fully appreciate the impressive, sweeping views of the surrounding ocean.",
+            "fr": "Garez-vous facilement au grand parking près de la pointe et étirez-vous lors d'une courte promenade panoramique pour apprécier pleinement les vues impressionnantes et vastes sur l'océan environnant."
           }
         },
         {
@@ -773,7 +855,8 @@
             "de": "Plage de Mousterlin",
             "hu": "Plage de Mousterlin",
             "ro": "Plage de Mousterlin",
-            "en": "Plage de Mousterlin"
+            "en": "Plage de Mousterlin",
+            "fr": "Plage de Mousterlin"
           },
           "coords": [
             -4.043023,
@@ -788,7 +871,8 @@
             "de": "Gehen Sie direkt vom Auto auf den weichen Sand dieses unberührten Strandes und prüfen Sie die lokalen Flaggen, um sicheres Schwimmen am Nachmittag zu gewährleisten.",
             "hu": "Sétáljon egyenesen az autóból ennek az érintetlen strandnak a puha homokjára, és ellenőrizze a helyi zászlókat a biztonságos délutáni fürdőzés érdekében.",
             "ro": "Mergeți direct de la mașină la nisipurile moi ale acestei plaje imaculate, verificând steagurile locale pentru a vă asigura condiții sigure de înot în timpul după-amiezii.",
-            "en": "Walk straight from your car to the soft sands of this pristine beach, checking the local flags to ensure safe swimming conditions during the shifting afternoon tides."
+            "en": "Walk straight from your car to the soft sands of this pristine beach, checking the local flags to ensure safe swimming conditions during the shifting afternoon tides.",
+            "fr": "Marchez directement depuis votre voiture jusqu'aux sables doux de cette plage préservée, en vérifiant les drapeaux locaux pour assurer des conditions de baignade sûres lors des marées changeantes de l'après-midi."
           }
         },
         {
@@ -796,7 +880,8 @@
             "de": "Plage de Kerler",
             "hu": "Plage de Kerler",
             "ro": "Plage de Kerler",
-            "en": "Plage de Kerler"
+            "en": "Plage de Kerler",
+            "fr": "Plage de Kerler"
           },
           "coords": [
             -4.072112,
@@ -811,7 +896,8 @@
             "de": "Beenden Sie Ihren Roadtrip an diesem abgelegenen westlichen Strand und bringen Sie eine gemütliche Decke mit, um den spektakulären Sonnenuntergang am Horizont zu beobachten.",
             "hu": "Fejezze be autós túráját ezen a gyönyörű, távoli nyugati strandon, és hozzon magával egy kényelmes takarót, hogy arról nézhesse végig a látványos atlanti naplementét.",
             "ro": "Încheiați excursia rutieră la această frumoasă plajă vestică izolată, aducând o pătură confortabilă pentru a sta și a privi un apus spectaculos peste orizontul Atlanticului.",
-            "en": "Conclude your road trip at this beautiful remote western beach, bringing a cozy blanket to sit comfortably as you watch a spectacular sunset over the Atlantic horizon."
+            "en": "Conclude your road trip at this beautiful remote western beach, bringing a cozy blanket to sit comfortably as you watch a spectacular sunset over the Atlantic horizon.",
+            "fr": "Concluez votre road-trip sur cette belle plage occidentale isolée, apportez une couverture confortable pour vous asseoir en regardant un coucher de soleil spectaculaire sur l'horizon Atlantique."
           }
         }
       ],
@@ -819,7 +905,8 @@
         "de": "Mit dem Auto erleben Sie die Highlights von Fouesnant wunderbar flexibel. Der Morgen beginnt mit Kultur an der historischen Kapelle Sainte-Anne und der großen Kirche im Zentrum. Zum Mittagessen steuern wir den beeindruckenden Jachthafen Port-la-Forêt und den malerischen Cap Coz an. Am Nachmittag bringt uns eine kurze Fahrt tief in den Süden zur rauen Schönheit von Mousterlin, wo Natur pur auf uns wartet. Der Tag endet perfekt an den abgelegenen, weiten Stränden im Westen, wo das Meeresrauschen und der sanfte Sonnenuntergang für einen unvergesslichen Ausklang sorgen.",
         "hu": "Autóval rugalmasan felfedezhetjük Fouesnant összes látványosságát. A reggel a Sainte-Anne kápolna és a központi templom kulturális szépségeivel indul. Ebédidőben a lenyűgöző Port-la-Forêt jachtkikötőt és a festői Cap Coz partszakaszát látogatjuk meg. A délután egy rövid vezetéssel a déli Mousterlin zord és érintetlen természeti szépségeibe vezet minket, friss tengeri sós levegővel. A nap végül a nyugati eldugott, tágas homokos strandokon ér véget, ahol a hullámok zúgása és a naplemente varázslatos befejezést nyújt.",
         "ro": "Cu mașina, experimentați atracțiile din Fouesnant într-un mod minunat de flexibil. Dimineața începe cu explorări culturale la Capela Sainte-Anne și biserica principală din centru. La prânz ne îndreptăm spre portul impresionant Port-la-Forêt și pitoreasca plajă Cap Coz. După-amiaza, o scurtă plimbare cu mașina ne poartă adânc în sud spre frumusețea sălbatică de la Mousterlin, unde ne așteaptă natura pură. Ziua se încheie perfect pe plajele izolate și întinse din vest, unde sunetul mării și un apus blând creează o seară de neuitat.",
-        "en": "Driving allows for a highly flexible and comprehensive exploration of Fouesnant. The morning kicks off with local heritage at the Sainte-Anne Chapel and the majestic town church. By midday, we navigate towards the massive boats at Port-la-Forêt marina and the scenic sandy curves of Cap Coz. The afternoon drive takes us straight south to experience the wild, unspoiled coastal beauty surrounding Mousterlin Point. We smoothly finish our road trip relaxing on the beautifully remote western beaches, letting the ocean waves and a quiet sunset wrap up the perfect day."
+        "en": "Driving allows for a highly flexible and comprehensive exploration of Fouesnant. The morning kicks off with local heritage at the Sainte-Anne Chapel and the majestic town church. By midday, we navigate towards the massive boats at Port-la-Forêt marina and the scenic sandy curves of Cap Coz. The afternoon drive takes us straight south to experience the wild, unspoiled coastal beauty surrounding Mousterlin Point. We smoothly finish our road trip relaxing on the beautifully remote western beaches, letting the ocean waves and a quiet sunset wrap up the perfect day.",
+        "fr": "La voiture permet une exploration très flexible et complète de Fouesnant. La matinée commence par le patrimoine local à la chapelle Sainte-Anne et la majestueuse église du bourg. À midi, nous nous dirigeons vers les immenses bateaux de la marina de Port-la-Forêt et les courbes sablonneuses pittoresques du Cap Coz. L'après-midi, la route nous mène plein sud pour découvrir la beauté côtière sauvage et préservée autour de la Pointe de Mousterlin. Nous terminons en douceur notre excursion en nous relaxant sur les plages occidentales reculées, laissant les vagues et un coucher de soleil paisible clore cette journée parfaite."
       },
       "variants": {
         "rainy": {
@@ -827,7 +914,8 @@
             "de": "Mit dem Auto erkunden Sie Fouesnant heute bequem und trocken trotz des Regens. Vormittags bieten die Kirchen prächtige Innenräume, während die Scheibenwischer die Sicht auf die grüne Landschaft freihalten. Mittags ist der Hafen ein idealer Ort, um das Treiben der Fischer gemütlich aus dem Wagen zu beobachten. Nachmittags führen kurze Wege zu den Stränden, wo man die Gischt aus sicherer Entfernung bewundern kann. Der Tag endet entspannt.",
             "hu": "Autóval ma kényelmesen és szárazon fedezheti fel Fouesnant-t az eső ellenére is. Délelőtt a templomok pompás belső terei várják, miközben az ablaktörlők tiszta kilátást biztosítanak a zöld tájra. Délben a kikötő ideális hely a halászok megfigyelésére a kocsi melegéből. Délután rövid utak vezetnek a strandokhoz, ahol a tajtékot biztonságos távolságból csodálhatja. A nap pihentetően zárul.",
             "ro": "Cu mașina, explorați astăzi Fouesnant confortabil și uscat, în ciuda ploii. Dimineața, bisericile oferă interioare superbe, în timp ce ștergătoarele mențin vizibilitatea asupra peisajului verde. La prânz, portul este locul ideal pentru a observa activitatea pescarilor din mașină. După-amiaza, drumurile scurte duc spre plaje, unde puteți admira valurile de la distanță. Ziua se încheie relaxat.",
-            "en": "By car, you can explore Fouesnant comfortably and dry today despite the rain. In the morning, the churches offer splendid interiors while windshield wipers keep the green landscape in view. At noon, the harbor is an ideal spot to watch the fishermen's hustle and bustle from the car. In the afternoon, short drives lead to the beaches where you can admire the sea spray from a safe distance."
+            "en": "By car, you can explore Fouesnant comfortably and dry today despite the rain. In the morning, the churches offer splendid interiors while windshield wipers keep the green landscape in view. At noon, the harbor is an ideal spot to watch the fishermen's hustle and bustle from the car. In the afternoon, short drives lead to the beaches where you can admire the sea spray from a safe distance.",
+            "fr": "En voiture, vous pouvez explorer Fouesnant confortablement et au sec aujourd'hui malgré la pluie. Le matin, les églises offrent de splendides intérieurs pendant que les essuie-glaces gardent le paysage vert visible. À midi, le port est un endroit idéal pour observer l'activité des pêcheurs depuis la voiture. L'après-midi, de courtes routes mènent aux plages où l'on peut admirer les embruns en restant à distance sécurisée."
           },
           "stops": [
             {
@@ -835,13 +923,15 @@
                 "de": "Sainte-Anne Chapel",
                 "hu": "Sainte-Anne Chapel",
                 "ro": "Sainte-Anne Chapel",
-                "en": "Sainte-Anne Chapel"
+                "en": "Sainte-Anne Chapel",
+                "fr": "Chapelle Sainte-Anne"
               },
               "tip_5lang": {
                 "de": "Nutzen Sie den nahen Parkplatz, um trockenen Fußes in die Kapelle zu gelangen; ein Schirm im Auto ist für die wenigen Meter zum Eingang trotzdem empfehlenswert.",
                 "hu": "Használja a közeli parkolót, hogy száraz lábbal jusson be a kápolnába; egy esernyő az autóban azért ajánlott a bejáratig tartó pár méterhez.",
                 "ro": "Folosiți parcarea din apropiere pentru a ajunge la capelă cu picioarele uscate; o umbrelă în mașină este totuși recomandată pentru cei câțiva metri până la intrare.",
-                "en": "Use the nearby parking lot to reach the chapel with dry feet; an umbrella in the car is still recommended for the few meters to the entrance."
+                "en": "Use the nearby parking lot to reach the chapel with dry feet; an umbrella in the car is still recommended for the few meters to the entrance.",
+                "fr": "Utilisez le parking à proximité pour atteindre la chapelle sans vous mouiller les pieds ; un parapluie dans la voiture reste recommandé pour les quelques mètres jusqu'à l'entrée."
               }
             },
             {
@@ -849,13 +939,15 @@
                 "de": "Saint-Pierre Church",
                 "hu": "Saint-Pierre Church",
                 "ro": "Saint-Pierre Church",
-                "en": "Saint-Pierre Church"
+                "en": "Saint-Pierre Church",
+                "fr": "Église Saint-Pierre"
               },
               "tip_5lang": {
                 "de": "Im Stadtzentrum gibt es ausreichend Parkmöglichkeiten in Kirchennähe; achten Sie beim Aussteigen auf tiefe Pfützen am Straßenrand, die durch den Regen entstanden sind.",
                 "hu": "A városközpontban bőséges parkolási lehetőség van a templom közelében; kiszálláskor ügyeljen az út menti mély tócsákra, amelyeket az eső duzzasztott fel.",
                 "ro": "În centrul orașului există suficiente locuri de parcare lângă biserică; la coborâre, atenție la bălțile adânci de la marginea drumului formate de ploaie.",
-                "en": "There is plenty of parking near the church in the town center; when exiting the car, watch out for deep puddles at the roadside created by the rain."
+                "en": "There is plenty of parking near the church in the town center; when exiting the car, watch out for deep puddles at the roadside created by the rain.",
+                "fr": "Il y a beaucoup de places près de l'église en centre-ville ; en sortant de la voiture, faites attention aux grandes flaques au bord de la route créées par la pluie."
               }
             },
             {
@@ -863,13 +955,15 @@
                 "de": "Port-la-Forêt Marina",
                 "hu": "Port-la-Forêt Marina",
                 "ro": "Port-la-Forêt Marina",
-                "en": "Port-la-Forêt Marina"
+                "en": "Port-la-Forêt Marina",
+                "fr": "Marina de Port-la-Forêt"
               },
               "tip_5lang": {
                 "de": "Der Hafen bietet Parkplätze mit direktem Blick auf die Stege; genießen Sie das maritime Panorama aus dem warmen Autoinnenraum, während der Regen gegen die Scheiben trommelt.",
                 "hu": "A kikötőben közvetlenül a mólókra néző parkolók találhatók; élvezze a tengeri panorámát az autó melegéből, miközben az eső a szélvédőn kopog.",
                 "ro": "Portul oferă locuri de parcare cu vedere directă la pontoane; bucurați-vă de panorama maritimă din mașină, în timp ce ploaia bate în geamuri.",
-                "en": "The marina offers parking spaces with direct views of the docks; enjoy the maritime panorama from the warm car interior while the rain drums against the windows."
+                "en": "The marina offers parking spaces with direct views of the docks; enjoy the maritime panorama from the warm car interior while the rain drums against the windows.",
+                "fr": "La marina propose des emplacements de stationnement avec vue directe sur les pontons ; profitez du panorama marin à l'intérieur du véhicule pendant que la pluie tambourine sur les vitres."
               }
             },
             {
@@ -877,13 +971,15 @@
                 "de": "Cap Coz Beach",
                 "hu": "Cap Coz Beach",
                 "ro": "Cap Coz Beach",
-                "en": "Cap Coz Beach"
+                "en": "Cap Coz Beach",
+                "fr": "Plage du Cap Coz"
               },
               "tip_5lang": {
                 "de": "Die Zufahrtsstraße ist gut ausgebaut und bietet Haltebucht zum Fotografieren der Bucht; schalten Sie das Abblendlicht ein, da die Sichtverhältnisse bei Starkregen stark eingeschränkt sind.",
                 "hu": "A bekötőút jól kiépített és megállóhelyeket kínál az öböl fotózásához; kapcsolja be a tompított fényszórót, mert a látási viszonyok heves esőben korlátozottak.",
                 "ro": "Drumul de acces este bine amenajat și oferă alveole pentru fotografierea golfului; aprindeți faza scurtă, deoarece vizibilitatea este redusă în caz de ploaie torențială.",
-                "en": "The access road is well-maintained and offers pull-offs for photographing the bay; turn on your low beams as visibility is significantly reduced during heavy rain."
+                "en": "The access road is well-maintained and offers pull-offs for photographing the bay; turn on your low beams as visibility is significantly reduced during heavy rain.",
+                "fr": "La route d'accès est bien entretenue et offre des emplacements pour s'arrêter et photographier la baie ; allumez vos feux de croisement car la visibilité est fortement réduite sous la pluie intense."
               }
             },
             {
@@ -891,13 +987,15 @@
                 "de": "Mousterlin Point",
                 "hu": "Mousterlin Point",
                 "ro": "Mousterlin Point",
-                "en": "Mousterlin Point"
+                "en": "Mousterlin Point",
+                "fr": "Pointe de Mousterlin"
               },
               "tip_5lang": {
                 "de": "Parken Sie am Ende der Straße und unternehmen Sie nur kurze Gänge zum Wasser; halten Sie beim Öffnen der Autotür die Tür gut fest, da der Wind sie Ihnen aus der Hand reißen kann.",
                 "hu": "Parkoljon az út végén, és tegyen rövid sétákat a vízpartig; az ajtó nyitásakor fogja erősen a fogantyút, mert a szél könnyen kitépheti a kezéből.",
                 "ro": "Parcați la capătul drumului și faceți doar scurte plimbări până la apă; țineți bine portiera când o deschideți, deoarece vântul o poate smulge din mână.",
-                "en": "Park at the end of the road and take only short walks to the water; hold the car door firmly when opening it, as the wind can easily rip it from your hand."
+                "en": "Park at the end of the road and take only short walks to the water; hold the car door firmly when opening it, as the wind can easily rip it from your hand.",
+                "fr": "Garez-vous au bout de la route et ne faites que de courtes promenades jusqu'à l'eau ; tenez fermement la portière en l'ouvrant, le vent pouvant facilement l'arracher de votre main."
               }
             },
             {
@@ -905,13 +1003,15 @@
                 "de": "Plage de Mousterlin",
                 "hu": "Plage de Mousterlin",
                 "ro": "Plage de Mousterlin",
-                "en": "Plage de Mousterlin"
+                "en": "Plage de Mousterlin",
+                "fr": "Plage de Mousterlin"
               },
               "tip_5lang": {
                 "de": "Der große Parkplatz ist im Regen oft leer und bietet gute Wendemöglichkeiten; prüfen Sie Ihre Scheibenwischerblätter vor der Fahrt, um Schlierenbildung bei Nässe zu vermeiden.",
                 "hu": "A nagy parkoló esőben gyakran üres és jó megfordulási lehetőséget kínál; ellenőrizze az ablaktörlő lapátokat indulás előtt, hogy elkerülje a maszatolást a szélvédőn.",
                 "ro": "Parcarea mare este adesea goală pe ploaie și oferă posibilități bune de întoarcere; verificați lamelele ștergătoarelor înainte de drum pentru a evita dârele pe parbriz.",
-                "en": "The large parking lot is often empty in the rain and offers good turning space; check your wiper blades before the drive to ensure clear visibility without streaking."
+                "en": "The large parking lot is often empty in the rain and offers good turning space; check your wiper blades before the drive to ensure clear visibility without streaking.",
+                "fr": "Le grand parking est souvent vide sous la pluie et offre un bon espace de manœuvre ; vérifiez vos balais d'essuie-glace avant de partir pour assurer une visibilité nette sans traces."
               }
             },
             {
@@ -919,13 +1019,15 @@
                 "de": "Plage de Kerler",
                 "hu": "Plage de Kerler",
                 "ro": "Plage de Kerler",
-                "en": "Plage de Kerler"
+                "en": "Plage de Kerler",
+                "fr": "Plage de Kerler"
               },
               "tip_5lang": {
                 "de": "Die Dünenlandschaft wirkt im Regen besonders wild und unberührt; lassen Sie die Heizung im Auto laufen, um das Beschlagen der Scheiben durch nasse Kleidung zu verhindern.",
                 "hu": "A dűnék világa esőben különösen vadnak és érintetlennek tűnik; járassa az autó fűtését, hogy megakadályozza a szélvédő bepárásodását a vizes ruhák miatt.",
                 "ro": "Peisajul dunelor pare deosebit de sălbatic și neatins în ploaie; lăsați încălzirea pornită în mașină pentru a preveni aburirea geamurilor din cauza hainelor ude.",
-                "en": "The dune landscape looks particularly wild and untouched in the rain; keep the car heater running to prevent the windows from fogging up due to damp clothing."
+                "en": "The dune landscape looks particularly wild and untouched in the rain; keep the car heater running to prevent the windows from fogging up due to damp clothing.",
+                "fr": "Le paysage de dunes paraît particulièrement sauvage et intact sous la pluie ; gardez le chauffage de la voiture allumé pour éviter que les vitres ne s'embuent à cause des vêtements humides."
               }
             }
           ]
@@ -935,7 +1037,8 @@
             "de": "Die winterliche Autofahrt durch das Pays Fouesnant bietet weite Ausblicke über die frostigen Felder. Vormittags besuchen Sie die historischen Kapellen, die in der klaren Winterluft majestätisch wirken. Mittags glänzt die Marina von Port-la-Forêt im kühlen Sonnenlicht. Nachmittags erreichen Sie bequem die verschiedenen Strände, um den frühen Sonnenuntergang gegen 17:00 Uhr zu erleben. Die Sitzheizung macht die Fahrt zwischen den Stationen besonders angenehm.",
             "hu": "A téli autózás Fouesnant környékén tágas kilátást nyújt a zúzmarás mezőkre. Délelőtt a történelmi kápolnákat keresi fel, amelyek fenségesen mutatnak a tiszta téli levegőben. Délben Port-la-Forêt kikötője csillog a hűvös napsütésben. Délután kényelmesen eléri a különböző strandokat, hogy megnézze a korai naplementét 17:00 körül. Az ülésfűtés különösen kellemessé teszi az utat.",
             "ro": "Călătoria de iarnă cu mașina prin regiunea Fouesnant oferă vederi largi peste câmpurile înghețate. Dimineața, vizitați capelele istorice care par maiestuoase în aerul clar. La prânz, marina Port-la-Forêt strălucește în lumina rece a soarelui. După-amiaza, ajungeți ușor la diversele plaje pentru a vedea apusul timpuriu de la ora 17:00. Încălzirea în scaune face drumul foarte plăcut.",
-            "en": "The winter drive through the Fouesnant area offers expansive views over the frosty fields. In the morning, visit historic chapels that appear majestic in the clear winter air. At noon, Port-la-Forêt marina glints in the cool sunlight. In the afternoon, you can easily reach various beaches to catch the early sunset at 17:00. Heated seats make the drive between stops especially cozy."
+            "en": "The winter drive through the Fouesnant area offers expansive views over the frosty fields. In the morning, visit historic chapels that appear majestic in the clear winter air. At noon, Port-la-Forêt marina glints in the cool sunlight. In the afternoon, you can easily reach various beaches to catch the early sunset at 17:00. Heated seats make the drive between stops especially cozy.",
+            "fr": "La balade hivernale en voiture dans la région de Fouesnant offre de vastes panoramas sur des champs givrés. Le matin, visitez des chapelles historiques qui paraissent majestueuses dans l'air clair d'hiver. À midi, la marina de Port-la-Forêt scintille sous le soleil frais. L'après-midi, vous pouvez facilement atteindre plusieurs plages pour attraper le coucher du soleil précoce à 17:00. Les sièges chauffants rendent la route entre les étapes particulièrement confortable."
           },
           "stops": [
             {
@@ -943,13 +1046,15 @@
                 "de": "Sainte-Anne Chapel",
                 "hu": "Sainte-Anne Chapel",
                 "ro": "Sainte-Anne Chapel",
-                "en": "Sainte-Anne Chapel"
+                "en": "Sainte-Anne Chapel",
+                "fr": "Chapelle Sainte-Anne"
               },
               "tip_5lang": {
                 "de": "Die Kapelle ist im Winter ein Ort absoluter Stille und Besinnlichkeit; achten Sie auf mögliche Glätte auf den Nebenstraßen, die zur Kapelle führen.",
                 "hu": "A kápolna télen az abszolút csend és elmélyülés helyszíne; ügyeljen az esetleges jegesedésre a kápolnához vezető mellékutakon.",
                 "ro": "Capela este un loc de liniște absolută și meditație iarna; atenție la posibila polei pe drumurile secundare care duc spre capelă.",
-                "en": "The chapel is a place of absolute silence and reflection in winter; watch out for potential icy patches on the side roads leading to the chapel."
+                "en": "The chapel is a place of absolute silence and reflection in winter; watch out for potential icy patches on the side roads leading to the chapel.",
+                "fr": "La chapelle est un lieu de silence et de recueillement absolu en hiver ; méfiez-vous des plaques de verglas possibles sur les routes secondaires menant à la chapelle."
               }
             },
             {
@@ -957,13 +1062,15 @@
                 "de": "Saint-Pierre Church",
                 "hu": "Saint-Pierre Church",
                 "ro": "Saint-Pierre Church",
-                "en": "Saint-Pierre Church"
+                "en": "Saint-Pierre Church",
+                "fr": "Église Saint-Pierre"
               },
               "tip_5lang": {
                 "de": "Besuchen Sie die Kirche am Vormittag, wenn das tiefstehende Sonnenlicht durch die Fenster fällt; Parken ist im Winter im Zentrum meist unproblematisch und direkt möglich.",
                 "hu": "Látogassa meg a templomot délelőtt, amikor az alacsonyan járó napfény átszűrődik az ablakokon; a parkolás télen a központban általában problémamentes és közvetlen.",
                 "ro": "Vizitați biserica dimineața, când lumina joasă a soarelui pătrunde prin ferestre; parcarea în centru este de obicei facilă și directă în timpul iernii.",
-                "en": "Visit the church in the morning when the low winter sunlight filters through the windows; parking in the center is usually easy and direct during the winter months."
+                "en": "Visit the church in the morning when the low winter sunlight filters through the windows; parking in the center is usually easy and direct during the winter months.",
+                "fr": "Visitez l'église le matin lorsque le faible soleil d'hiver filtre à travers les vitraux ; le stationnement au centre est généralement facile et direct en hiver."
               }
             },
             {
@@ -971,13 +1078,15 @@
                 "de": "Port-la-Forêt Marina",
                 "hu": "Port-la-Forêt Marina",
                 "ro": "Port-la-Forêt Marina",
-                "en": "Port-la-Forêt Marina"
+                "en": "Port-la-Forêt Marina",
+                "fr": "Marina de Port-la-Forêt"
               },
               "tip_5lang": {
                 "de": "Beobachten Sie die Wartungsarbeiten an den Segelyachten vom trockenen Ufer aus; ein Fernglas im Auto hilft Ihnen, die Details der Rennyachten im Hafen zu erkennen.",
                 "hu": "Figyelje meg a vitorlások karbantartási munkáit a száraz partról; egy távcső az autóban segít felfedezni a kikötőben álló versenyjachtok részleteit.",
                 "ro": "Observați lucrările de întreținere la iahturi de pe malul uscat; un binoclu în mașină vă va ajuta să vedeți detaliile ambarcațiunilor de cursă din port.",
-                "en": "Watch the maintenance work on the sailing yachts from the dry shore; having binoculars in the car helps you spot the details of the racing yachts in the harbor."
+                "en": "Watch the maintenance work on the sailing yachts from the dry shore; having binoculars in the car helps you spot the details of the racing yachts in the harbor.",
+                "fr": "Observez les travaux d'entretien sur les voiliers depuis le rivage sec ; des jumelles dans la voiture vous aideront à repérer les détails des yachts de course dans le port."
               }
             },
             {
@@ -985,13 +1094,15 @@
                 "de": "Cap Coz Beach",
                 "hu": "Cap Coz Beach",
                 "ro": "Cap Coz Beach",
-                "en": "Cap Coz Beach"
+                "en": "Cap Coz Beach",
+                "fr": "Plage du Cap Coz"
               },
               "tip_5lang": {
                 "de": "Die Parkplätze am Strand bieten einen tollen Blick, ohne dass man den Wagen verlassen muss; Frostschutzmittel im Wischwasser ist bei den nächtlichen Temperaturen hier Pflicht.",
                 "hu": "A strand menti parkolók remek kilátást nyújtanak anélkül, hogy ki kellene szállnia; a fagyálló szélvédőmosó az éjszakai fagyok miatt itt kötelező tartozék.",
                 "ro": "Parcările de lângă plajă oferă o vedere excelentă fără a părăsi mașina; antigelul în lichidul de parbriz este obligatoriu din cauza temperaturilor nocturne.",
-                "en": "The parking lots by the beach offer great views without needing to leave the car; antifreeze in your wiper fluid is a must given the freezing overnight temperatures."
+                "en": "The parking lots by the beach offer great views without needing to leave the car; antifreeze in your wiper fluid is a must given the freezing overnight temperatures.",
+                "fr": "Les parkings près de la plage offrent de belles vues sans quitter la voiture ; de l'antigel dans votre liquide lave-glace est indispensable compte tenu des températures nocturnes glaciales."
               }
             },
             {
@@ -999,13 +1110,15 @@
                 "de": "Mousterlin Point",
                 "hu": "Mousterlin Point",
                 "ro": "Mousterlin Point",
-                "en": "Mousterlin Point"
+                "en": "Mousterlin Point",
+                "fr": "Pointe de Mousterlin"
               },
               "tip_5lang": {
                 "de": "Erleben Sie die raue Schönheit der Landspitze bei klarem Winterhimmel; kontrollieren Sie Ihren Reifendruck, da dieser bei sinkenden Temperaturen im Winter oft abfällt.",
                 "hu": "Élje át a félsziget nyers szépségét tiszta téli égbolt mellett; ellenőrizze a guminyomást, mert a süllyedő hőmérséklet miatt télen az gyakran lecsökken.",
                 "ro": "Experimentați frumusețea brută a peninsulei sub cerul senin de iarnă; verificați presiunea în anvelope, deoarece aceasta scade adesea odată cu temperatura.",
-                "en": "Experience the raw beauty of the headland under a clear winter sky; check your tire pressure, as it often drops with the falling winter temperatures."
+                "en": "Experience the raw beauty of the headland under a clear winter sky; check your tire pressure, as it often drops with the falling winter temperatures.",
+                "fr": "Vivez la beauté brute du cap sous un ciel d'hiver clair ; vérifiez la pression des pneus, car elle baisse souvent avec la chute des températures hivernales."
               }
             },
             {
@@ -1013,13 +1126,15 @@
                 "de": "Plage de Mousterlin",
                 "hu": "Plage de Mousterlin",
                 "ro": "Plage de Mousterlin",
-                "en": "Plage de Mousterlin"
+                "en": "Plage de Mousterlin",
+                "fr": "Plage de Mousterlin"
               },
               "tip_5lang": {
                 "de": "Genießen Sie den weiten Horizont und das ferne Meeresrauschen in absoluter Ruhe; eine Wolldecke im Auto sorgt für Gemütlichkeit bei den kurzen Stopps am Aussichtspunkt.",
                 "hu": "Élvezze a tágas horizontot és a távoli tengerzúgást a teljes nyugalomban; egy gyapjútakaró az autóban fokozza a kényelmet a kilátópontnál tett rövid megállók során.",
                 "ro": "Bucurați-vă de orizontul larg și de vuietul mării în liniște deplină; o pătură de lână în mașină aduce un plus de confort în timpul scurtelor opriri la belvedere.",
-                "en": "Enjoy the vast horizon and the distant roar of the sea in absolute peace; a wool blanket in the car adds coziness during short stops at the lookout points."
+                "en": "Enjoy the vast horizon and the distant roar of the sea in absolute peace; a wool blanket in the car adds coziness during short stops at the lookout points.",
+                "fr": "Profitez de l'horizon vaste et du grondement lointain de la mer en toute tranquillité ; une couverture en laine dans la voiture ajoute du confort lors des courts arrêts aux points de vue."
               }
             },
             {
@@ -1027,13 +1142,15 @@
                 "de": "Plage de Kerler",
                 "hu": "Plage de Kerler",
                 "ro": "Plage de Kerler",
-                "en": "Plage de Kerler"
+                "en": "Plage de Kerler",
+                "fr": "Plage de Kerler"
               },
               "tip_5lang": {
                 "de": "Die tiefstehende Sonne bietet fantastisches Licht für Landschaftsfotografie direkt vom Parkplatz aus; starten Sie die Rückfahrt vor 17:00 Uhr, um im Hellen nach Hause zu kommen.",
                 "hu": "Az alacsonyan járó nap fantasztikus fényeket kínál a tájfotózáshoz közvetlenül a parkolóból; induljon vissza 17:00 előtt, hogy még világosban hazaérjen.",
                 "ro": "Soarele jos oferă o lumină fantastică pentru fotografia de peisaj direct din parcare; începeți drumul de întoarcere înainte de ora 17:00 pentru a ajunge pe lumină.",
-                "en": "The low sun provides fantastic light for landscape photography directly from the parking lot; start your return journey before 17:00 to get home while it's still light."
+                "en": "The low sun provides fantastic light for landscape photography directly from the parking lot; start your return journey before 17:00 to get home while it's still light.",
+                "fr": "Le soleil bas offre une lumière fantastique pour la photographie de paysage directement depuis le parking ; commencez votre retour avant 17:00 pour rentrer pendant qu'il fait encore jour."
               }
             }
           ]

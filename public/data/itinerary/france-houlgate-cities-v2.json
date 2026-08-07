@@ -21,7 +21,8 @@
             "de": "Temple",
             "hu": "Temple",
             "ro": "Temple",
-            "en": "Temple"
+            "en": "Temple",
+            "fr": "Temple"
           },
           "coords": [
             -0.081264,
@@ -36,7 +37,8 @@
             "de": "Bewundern Sie die schlichte Architektur dieses protestantischen Tempels, der eine Oase der Ruhe bietet, und achten Sie auf die historischen Details an der Fassade.",
             "hu": "Csodálja meg e protestáns templom egyszerű és elegáns építészetét, amely a béke szigete, és érdemes a homlokzat történelmi részleteit alaposan megfigyelni.",
             "ro": "Admirați arhitectura simplă a acestui templu protestant, care oferă o oază de liniște, și asigurați-vă că observați detaliile istorice de pe fațada clădirii.",
-            "en": "Admire the simple architecture of this Protestant temple which offers a peaceful oasis, and make sure to observe the historical details on its elegant facade."
+            "en": "Admire the simple architecture of this Protestant temple which offers a peaceful oasis, and make sure to observe the historical details on its elegant facade.",
+            "fr": "Admirez l’architecture simple de ce temple protestant qui offre une oasis de tranquillité, et veillez à observer les détails historiques de sa façade élégante."
           }
         },
         {
@@ -44,7 +46,8 @@
             "de": "Plage de Houlgate",
             "hu": "Plage de Houlgate",
             "ro": "Plage de Houlgate",
-            "en": "Plage de Houlgate"
+            "en": "Plage de Houlgate",
+            "fr": "Plage de Houlgate"
           },
           "coords": [
             -0.080297,
@@ -59,7 +62,8 @@
             "de": "Genießen Sie den weiten Sandstrand, der perfekt für entspannte Spaziergänge am Meer ist, und bringen Sie bequeme Schuhe für die Erkundung der Küste mit.",
             "hu": "Élvezze a tágas homokos strandot, amely tökéletes egy pihentető tengerparti sétához, és hozzon kényelmes cipőt a lenyűgöző partvidék felfedezéséhez.",
             "ro": "Bucurați-vă de plaja largă de nisip, perfectă pentru plimbări relaxante pe malul mării, și aduceți încălțăminte confortabilă pentru a explora zona de coastă.",
-            "en": "Enjoy the expansive sandy beach that is absolutely perfect for relaxing seaside walks, and remember to bring comfortable shoes to fully explore the coastline."
+            "en": "Enjoy the expansive sandy beach that is absolutely perfect for relaxing seaside walks, and remember to bring comfortable shoes to fully explore the coastline.",
+            "fr": "Profitez de cette vaste plage de sable, parfaite pour de relaxantes promenades en bord de mer, et n’oubliez pas d’emporter des chaussures confortables pour bien explorer le littoral."
           }
         },
         {
@@ -67,7 +71,8 @@
             "de": "Manège Chaignon",
             "hu": "Manège Chaignon",
             "ro": "Manège Chaignon",
-            "en": "Manège Chaignon"
+            "en": "Manège Chaignon",
+            "fr": "Manège Chaignon"
           },
           "coords": [
             -0.082966,
@@ -82,7 +87,8 @@
             "de": "Erleben Sie den nostalgischen Charme dieses klassischen Karussells, das besonders bei Kindern beliebt ist, und halten Sie Ihre Kamera für tolle Fotos bereit.",
             "hu": "Tapasztalja meg ennek a klasszikus körhintának a nosztalgikus varázsát, amely különösen a gyerekek körében népszerű, és készítsen csodálatos fotókat.",
             "ro": "Experimentați farmecul nostalgic al acestui carusel clasic, deosebit de popular printre copii, și asigurați-vă că aveți aparatul foto pregătit pentru poze.",
-            "en": "Experience the deeply nostalgic charm of this classic carousel that is especially popular with children, and keep your camera ready for some wonderful photos."
+            "en": "Experience the deeply nostalgic charm of this classic carousel that is especially popular with children, and keep your camera ready for some wonderful photos.",
+            "fr": "Vivez le charme profondément nostalgique de ce carrousel classique, particulièrement apprécié des enfants, et gardez votre appareil photo prêt pour de belles photos."
           }
         },
         {
@@ -90,7 +96,8 @@
             "de": "Lavoir",
             "hu": "Lavoir",
             "ro": "Lavoir",
-            "en": "Lavoir"
+            "en": "Lavoir",
+            "fr": "Lavoir"
           },
           "coords": [
             -0.077347,
@@ -105,7 +112,8 @@
             "de": "Entdecken Sie das gut erhaltene historische Waschhaus als Zeugnis des vergangenen Alltags, und nehmen Sie sich Zeit, die traditionelle Bauweise zu studieren.",
             "hu": "Fedezze fel ezt a jól megőrzött történelmi mosóházat a múlt mindennapjainak tanújaként, és szánjon időt a hagyományos építkezési stílus tanulmányozására.",
             "ro": "Descoperiți această spălătorie istorică bine conservată, o mărturie a vieții de zi cu zi din trecut, și acordați-vă timp pentru a studia metodele tradiționale.",
-            "en": "Discover the well-preserved historic washhouse serving as a testament to everyday life in the past, and take your time to study its traditional construction."
+            "en": "Discover the well-preserved historic washhouse serving as a testament to everyday life in the past, and take your time to study its traditional construction.",
+            "fr": "Découvrez le lavoir bien conservé, témoignage de la vie quotidienne d’autrefois, et prenez le temps d’étudier sa construction traditionnelle."
           }
         },
         {
@@ -113,7 +121,8 @@
             "de": "Houlgate",
             "hu": "Houlgate",
             "ro": "Houlgate",
-            "en": "Houlgate"
+            "en": "Houlgate",
+            "fr": "Houlgate"
           },
           "coords": [
             -0.086949,
@@ -128,7 +137,8 @@
             "de": "Beenden Sie Ihren Rundgang am Wahrzeichen der Stadt mit seinen schönen Belle-Époque-Villen, wo Sie in einem nahegelegenen Café das Flair genießen können.",
             "hu": "Zárja a sétát a város ikonikus, gyönyörű Belle-Époque villái között, ahol egy közeli kávézóban kipihenheti magát és átadhatja magát a helyi hangulatnak.",
             "ro": "Încheiați-vă turul la reperul orașului, cu frumoasele sale vile Belle-Époque, unde vă puteți bucura de atmosfera unică la o cafenea confortabilă din apropiere.",
-            "en": "Finish your walking tour at the town's central landmark area filled with beautiful Belle-Époque villas, where you can soak up the local flair in a nearby cafe."
+            "en": "Finish your walking tour at the town's central landmark area filled with beautiful Belle-Époque villas, where you can soak up the local flair in a nearby cafe.",
+            "fr": "Terminez votre promenade au cœur de la ville, autour des belles villas de la Belle Époque, où vous pourrez savourer l’ambiance locale dans un café à proximité."
           }
         }
       ],
@@ -136,7 +146,8 @@
         "de": "Beginnen Sie Ihren Morgen entspannt am ruhigen protestantischen Tempel und spazieren Sie dann zur weiten Plage de Houlgate, wo die frische Meeresbrise Sie weckt. Gegen Mittag lassen Sie sich vom nostalgischen Charme des Manège Chaignon verzaubern, bevor Sie eine kurze Pause einlegen. Am Nachmittag erkunden Sie das historische Lavoir, das Einblicke in den Alltag der Vergangenheit bietet. Den Abend lassen Sie gemütlich an den zentralen Wahrzeichen der Belle-Époque-Architektur von Houlgate ausklingen.",
         "hu": "Kezdje a reggelt pihentetően a békés protestáns templomnál, majd sétáljon el a tágas Houlgate strandra, ahol a friss tengeri szellő biztosan felébreszti. Dél körül hagyja, hogy a Manège Chaignon körhinta nosztalgikus varázsa elvarázsolja egy kellemes séta közben. Délután fedezze fel a történelmi Lavoir mosóházat, amely bepillantást enged a múlt mindennapjaiba. Az estét kényelmesen, Houlgate gyönyörű Belle-Époque építészeti nevezetességei között, egy kávézóban fejezheti be.",
         "ro": "Începeți dimineața relaxant la templul protestant liniștit, apoi plimbați-vă până la plaja largă din Houlgate, unde briza proaspătă a mării vă va trezi. În jurul prânzului, lăsați-vă fermecați de farmecul nostalgic al caruselului Manège Chaignon. După-amiaza, explorați spălătoria istorică Lavoir, care oferă o privire fascinantă în viața de zi cu zi a secolelor trecute. Încheiați seara confortabil, printre reperele arhitecturii Belle-Époque din centrul Houlgate.",
-        "en": "Start your morning entirely relaxed at the peaceful Protestant temple, then stroll down to the wide Plage de Houlgate where the fresh sea breeze wakes you. Around midday, let the deeply nostalgic charm of the Manège Chaignon enchant you during your gentle coastal walk. In the afternoon, thoroughly explore the historic Lavoir which offers a fascinating glimpse into the everyday life of the past. End your evening comfortably taking in Houlgate's grand Belle-Époque architectural landmarks."
+        "en": "Start your morning entirely relaxed at the peaceful Protestant temple, then stroll down to the wide Plage de Houlgate where the fresh sea breeze wakes you. Around midday, let the deeply nostalgic charm of the Manège Chaignon enchant you during your gentle coastal walk. In the afternoon, thoroughly explore the historic Lavoir which offers a fascinating glimpse into the everyday life of the past. End your evening comfortably taking in Houlgate's grand Belle-Époque architectural landmarks.",
+        "fr": "Commencez votre matinée détendue au paisible temple protestant, puis descendez jusqu’à la large Plage de Houlgate où la brise marine fraîche vous réveille. Vers midi, laissez le charme nostalgique du Manège Chaignon vous enchanter lors de votre douce promenade côtière. L’après-midi, explorez soigneusement le lavoir historique qui offre un aperçu fascinant de la vie quotidienne passée. Terminez la soirée en admirant confortablement les monuments de style Belle Époque d’Houlgate."
       },
       "variants": {
         "rainy": {
@@ -144,7 +155,8 @@
             "de": "Ein regnerischer Tag in Houlgate beginnt am Temple, wo das Vordach ersten Schutz bietet. Mittags führt der Weg an der Promenade entlang, während der Regen auf den Sand peitscht. Am Nachmittag suchen wir historische Winkel wie das Lavoir auf. Der Abend klingt gemütlich in den Gassen des Zentrums aus, wobei die nassen Bürgersteige die Lichter der Stadt wunderschön reflektieren.",
             "hu": "Az esős reggel a Temple hűvös falaivall indul, ahol a bejárat nyújt menedéket a szitáló köd elől. Délben a tengerparti sétányon az esernyők alatt figyeljük a hullámokat. Délután a Lavoir fedett épülete tökéletes pihenő, mielőtt az esti városnézés során a kivilágított Houlgate vizes aszfaltján megcsillanó fényekben gyönyörködnénk. A vízálló cipő ma elengedhetetlen.",
             "ro": "O dimineață ploioasă la Temple ne oferă un adăpost arhitectural deosebit. La prânz, faleza din Houlgate devine dramatică sub cerul gri. După-amiaza, Lavoir-ul acoperit este locul ideal pentru o pauză uscată. Seara se încheie în centrul orașului, unde luminile se reflectă în bălțile de pe străzi, creând o atmosferă melancolică, dar fermecătoare. Nu uitați pelerina de ploaie.",
-            "en": "A rainy morning starts at the Temple, providing a quick architectural refuge. By noon, the promenade offers a moody view of the churning sea. Afternoon is best spent exploring the covered Lavoir, a natural shelter from the downpour. The evening concludes in the town center, where the wet streets sparkle under the streetlights. Waterproof footwear is highly recommended today."
+            "en": "A rainy morning starts at the Temple, providing a quick architectural refuge. By noon, the promenade offers a moody view of the churning sea. Afternoon is best spent exploring the covered Lavoir, a natural shelter from the downpour. The evening concludes in the town center, where the wet streets sparkle under the streetlights. Waterproof footwear is highly recommended today.",
+            "fr": "Une matinée pluvieuse commence au Temple, offrant un bref refuge architectural. À midi, la promenade propose une vue morose sur la mer démontée. L’après-midi est propice à l’exploration du lavoir couvert, abri naturel contre l’averse. La soirée se conclut au centre-ville, où les rues mouillées scintillent sous les réverbères. Des chaussures imperméables sont fortement recommandées aujourd’hui."
           },
           "stops": [
             {
@@ -152,13 +164,15 @@
                 "de": "Temple",
                 "hu": "Temple",
                 "ro": "Temple",
-                "en": "Temple"
+                "en": "Temple",
+                "fr": "Temple"
               },
               "tip_5lang": {
                 "de": "Bewundern Sie die Architektur vom schützenden Portal aus; die Steinfassade wirkt im Regen besonders dunkel und markant.",
                 "hu": "Csodáld meg az építészetet a védelmet nyújtó kapu alól; a kőhomlokzat az esőben különösen sötét és karakteres tónust kap.",
                 "ro": "Admirați arhitectura de sub portalul protector; fațada de piatră capătă un ton întunecat și distinctiv sub ploaie.",
-                "en": "Admire the architecture from the protective portal; the stone facade takes on a particularly dark and striking tone in the rain."
+                "en": "Admire the architecture from the protective portal; the stone facade takes on a particularly dark and striking tone in the rain.",
+                "fr": "Admirez l’architecture depuis le portail protecteur ; la façade de pierre prend une teinte particulièrement sombre et saisissante sous la pluie."
               }
             },
             {
@@ -166,13 +180,15 @@
                 "de": "Plage de Houlgate",
                 "hu": "Plage de Houlgate",
                 "ro": "Plage de Houlgate",
-                "en": "Plage de Houlgate"
+                "en": "Plage de Houlgate",
+                "fr": "Plage de Houlgate"
               },
               "tip_5lang": {
                 "de": "Ein kurzer Spaziergang auf der befestigten Promenade verhindert nasse Füße im Sand; genießen Sie das Schauspiel der Wellen.",
                 "hu": "Egy rövid séta a kiépített sétányon megvédi a lábadat a vizes homoktól; élvezd a hullámok látványos játékát az esernyő alól.",
                 "ro": "O scurtă plimbare pe faleza pavată previne picioarele ude în nisip; bucurați-vă de spectacolul valurilor sub umbrelă.",
-                "en": "A short walk on the paved promenade prevents wet feet in the sand; enjoy the spectacle of the waves from under your umbrella."
+                "en": "A short walk on the paved promenade prevents wet feet in the sand; enjoy the spectacle of the waves from under your umbrella.",
+                "fr": "Une courte promenade sur la promenade pavée évite les pieds mouillés dans le sable ; profitez du spectacle des vagues sous votre parapluie."
               }
             },
             {
@@ -180,13 +196,15 @@
                 "de": "Manège Chaignon",
                 "hu": "Manège Chaignon",
                 "ro": "Manège Chaignon",
-                "en": "Manège Chaignon"
+                "en": "Manège Chaignon",
+                "fr": "Manège Chaignon"
               },
               "tip_5lang": {
                 "de": "Die bunten Farben des Karussells sind ein toller Kontrast zum grauen Himmel; ein schneller Fotostopp unter dem Dachrand lohnt sich.",
                 "hu": "A körhinta élénk színei remek kontrasztot alkotnak a szürke éggel; érdemes egy gyors fotót készíteni az eresze alatt várakozva.",
                 "ro": "Culorile vii ale caruselului oferă un contrast excelent cu cerul gri; merită o oprire rapidă pentru poze sub marginea acoperișului.",
-                "en": "The bright colors of the carousel offer a great contrast to the gray sky; a quick photo stop under the roof edge is well worth it."
+                "en": "The bright colors of the carousel offer a great contrast to the gray sky; a quick photo stop under the roof edge is well worth it.",
+                "fr": "Les couleurs vives du carrousel contrastent joliment avec le ciel gris ; un arrêt photo rapide sous l’avant-toit en vaut la peine."
               }
             },
             {
@@ -194,13 +212,15 @@
                 "de": "Lavoir",
                 "hu": "Lavoir",
                 "ro": "Lavoir",
-                "en": "Lavoir"
+                "en": "Lavoir",
+                "fr": "Lavoir"
               },
               "tip_5lang": {
                 "de": "Dieses historische Waschhaus ist komplett überdacht und bietet den perfekten trockenen Ort für eine kurze Verschnaufpause.",
                 "hu": "Ez a történelmi mosóház teljesen fedett, így tökéletes száraz helyszínt biztosít egy rövid pihenőhöz a zuhogó esőben.",
                 "ro": "Această spălătorie istorică este complet acoperită, oferind locul uscat perfect pentru o scurtă pauză în timpul ploii.",
-                "en": "This historic washhouse is completely covered, providing the perfect dry spot for a short break during the downpour."
+                "en": "This historic washhouse is completely covered, providing the perfect dry spot for a short break during the downpour.",
+                "fr": "Ce lavoir historique est entièrement couvert, offrant l’endroit sec idéal pour une courte pause pendant l’averse."
               }
             },
             {
@@ -208,13 +228,15 @@
                 "de": "Houlgate",
                 "hu": "Houlgate",
                 "ro": "Houlgate",
-                "en": "Houlgate"
+                "en": "Houlgate",
+                "fr": "Houlgate"
               },
               "tip_5lang": {
                 "de": "Beenden Sie die Tour in Bahnhofsnähe, wo viele Cafés warme Getränke und Schutz vor dem stärker werdenden Abendregen bieten.",
                 "hu": "Fejezd be a túrát az állomás közelében, ahol számos kávézó kínál meleg italt és menedéket az erősödő esti eső elől.",
                 "ro": "Încheiați turul lângă gară, unde multe cafenele oferă băuturi calde și adăpost împotriva ploii de seară care se intensifică.",
-                "en": "End the tour near the station, where many cafes offer warm drinks and shelter from the intensifying evening rain."
+                "en": "End the tour near the station, where many cafes offer warm drinks and shelter from the intensifying evening rain.",
+                "fr": "Terminez la visite près de la gare, où de nombreux cafés proposent boissons chaudes et abri contre la pluie du soir qui s’intensifie."
               }
             }
           ]
@@ -224,7 +246,8 @@
             "de": "Der Wintermorgen in Houlgate ist frisch und klar. Mittags peitscht der kalte Wind vom Ärmelkanal über die leere Promenade. Am Nachmittag besichtigen wir die Architektur, bevor die Dämmerung gegen 17:00 Uhr die Stadt in ein sanftes Blau taucht. Abends ziehen wir uns in die beheizten Viertel zurück, um die winterliche Stille der Normandie zu genießen. Warme Kleidung ist Pflicht.",
             "hu": "A téli reggel friss és tiszta Houlgate-ben. Délben a Csatorna felől fújó jeges szél az üres sétányon emlékeztet a természet erejére. Délután a város építészeti kincseit csodáljuk, mielőtt 17 óra körül leszállna az éj. Az este csendes és békés, a kivilágított villák között sétálva érezzük a normandiai tél varázsát. Réteges, meleg öltözet szükséges.",
             "ro": "Dimineața de iarnă este rece și senină. La prânz, vântul înghețat dinspre Canalul Mânecii suflă peste faleza pustie. După-amiaza explorăm arhitectura locală înainte ca întunericul să se lase în jurul orei 17:00. Seara este dedicată relaxării în zonele locuite, savurând liniștea hibernală a Normandiei. Hainele groase sunt indispensabile astăzi.",
-            "en": "The winter morning is crisp and clear in Houlgate. At noon, the icy wind from the Channel sweeps across the empty promenade. Afternoon is for admiring the villas before darkness falls early at 5 PM. The evening is peaceful, wandering through quiet streets lit by warm window glows. Layered warm clothing is essential for this coastal winter walk."
+            "en": "The winter morning is crisp and clear in Houlgate. At noon, the icy wind from the Channel sweeps across the empty promenade. Afternoon is for admiring the villas before darkness falls early at 5 PM. The evening is peaceful, wandering through quiet streets lit by warm window glows. Layered warm clothing is essential for this coastal winter walk.",
+            "fr": "Le matin d’hiver est vif et clair à Houlgate. À midi, le vent glacial de la Manche balaie la promenade vide. L’après‑midi est consacré à l’admiration des villas avant que l’obscurité tombe tôt à 17h. La soirée est paisible, à flâner dans des rues calmes éclairées par la chaleur des fenêtres. Des vêtements chauds superposés sont essentiels pour cette promenade côtière hivernale."
           },
           "stops": [
             {
@@ -232,13 +255,15 @@
                 "de": "Temple",
                 "hu": "Temple",
                 "ro": "Temple",
-                "en": "Temple"
+                "en": "Temple",
+                "fr": "Temple"
               },
               "tip_5lang": {
                 "de": "Die klare Winterluft lässt die Details der Fassade besonders scharf erscheinen; achten Sie auf die frostigen Verzierungen am Tor.",
                 "hu": "A tiszta téli levegőben az épület minden részlete élesen kirajzolódik; figyeld meg a kapu deres díszeit a reggeli órákban.",
                 "ro": "Aerul curat de iarnă face ca detaliile fațadei să pară foarte clare; observați decorațiunile înghețate de pe poartă dimineața.",
-                "en": "The clear winter air makes the facade details appear very sharp; look for the frosty decorations on the gate in the morning."
+                "en": "The clear winter air makes the facade details appear very sharp; look for the frosty decorations on the gate in the morning.",
+                "fr": "L’air clair d’hiver rend les détails de la façade très nets ; cherchez les décorations givrées sur le portail le matin."
               }
             },
             {
@@ -246,13 +271,15 @@
                 "de": "Plage de Houlgate",
                 "hu": "Plage de Houlgate",
                 "ro": "Plage de Houlgate",
-                "en": "Plage de Houlgate"
+                "en": "Plage de Houlgate",
+                "fr": "Plage de Houlgate"
               },
               "tip_5lang": {
                 "de": "Genießen Sie die weite, leere Strandlandschaft; der kalte Wind erfordert eine winddichte Jacke und eine warme Mütze.",
                 "hu": "Élvezd a hatalmas, üres tengerparti tájat; a metsző szél miatt szélálló kabát és meleg sapka viselése erősen ajánlott.",
                 "ro": "Bucurați-vă de peisajul vast și pustiu al plajei; vântul rece necesită o jachetă rezistentă la vânt și o căciulă groasă.",
-                "en": "Enjoy the vast, empty beach landscape; the biting wind requires a windproof jacket and a warm hat for comfort."
+                "en": "Enjoy the vast, empty beach landscape; the biting wind requires a windproof jacket and a warm hat for comfort.",
+                "fr": "Appréciez le vaste paysage de plage vide ; le vent piquant nécessite une veste coupe‑vent et un bonnet chaud pour être à l’aise."
               }
             },
             {
@@ -260,13 +287,15 @@
                 "de": "Manège Chaignon",
                 "hu": "Manège Chaignon",
                 "ro": "Manège Chaignon",
-                "en": "Manège Chaignon"
+                "en": "Manège Chaignon",
+                "fr": "Manège Chaignon"
               },
               "tip_5lang": {
                 "de": "Das Karussell wirkt im Winter wie aus einer anderen Zeit; ideal für ein stimmungsvolles Foto im sanften Nachmittagslicht.",
                 "hu": "A körhinta télen olyan, mintha egy másik korból maradt volna itt; ideális helyszín egy hangulatos fotóhoz a délutáni fényekben.",
                 "ro": "Caruselul pare desprins dintr-o altă epocă pe timp de iarnă; ideal pentru o fotografie plină de atmosferă în lumina după-amiezii.",
-                "en": "The carousel looks like it belongs to another era in winter; an ideal spot for an atmospheric photo in the soft afternoon light."
+                "en": "The carousel looks like it belongs to another era in winter; an ideal spot for an atmospheric photo in the soft afternoon light.",
+                "fr": "Le carrousel semble appartenir à une autre époque en hiver ; un lieu idéal pour une photo d’ambiance dans la douce lumière de l’après‑midi."
               }
             },
             {
@@ -274,13 +303,15 @@
                 "de": "Lavoir",
                 "hu": "Lavoir",
                 "ro": "Lavoir",
-                "en": "Lavoir"
+                "en": "Lavoir",
+                "fr": "Lavoir"
               },
               "tip_5lang": {
                 "de": "Der geschützte Innenraum des Waschhauses bietet eine kurze Pause vom eisigen Wind, der durch die Straßen zieht.",
                 "hu": "A mosóház védett belső tere rövid pihenőt kínál az utcákon végigsöprő jeges szél elől, mielőtt tovább indulnál.",
                 "ro": "Interiorul protejat al spălătoriei oferă o scurtă pauză de la vântul înghețat care mătură străzile orașului.",
-                "en": "The protected interior of the washhouse offers a brief respite from the icy wind sweeping through the town streets."
+                "en": "The protected interior of the washhouse offers a brief respite from the icy wind sweeping through the town streets.",
+                "fr": "L’intérieur protégé du lavoir offre un bref répit contre le vent glacé qui balaie les rues de la ville."
               }
             },
             {
@@ -288,13 +319,15 @@
                 "de": "Houlgate",
                 "hu": "Houlgate",
                 "ro": "Houlgate",
-                "en": "Houlgate"
+                "en": "Houlgate",
+                "fr": "Houlgate"
               },
               "tip_5lang": {
                 "de": "Nutzen Sie das letzte Tageslicht um 16:30 Uhr für Panoramafotos, bevor Sie ein gemütliches Restaurant für den Abend wählen.",
                 "hu": "Használd ki az utolsó fényeket 16:30 körül a panorámafotókhoz, mielőtt választanál egy barátságos éttermet vacsorára.",
                 "ro": "Profitați de ultima lumină a zilei în jurul orei 16:30 pentru fotografii panoramice înainte de a alege un restaurant primitor.",
-                "en": "Make the most of the last light around 4:30 PM for panoramic photos before choosing a cozy restaurant for the evening."
+                "en": "Make the most of the last light around 4:30 PM for panoramic photos before choosing a cozy restaurant for the evening.",
+                "fr": "Profitez au maximum de la dernière lumière vers 16h30 pour des photos panoramiques avant de choisir un restaurant chaleureux pour la soirée."
               }
             }
           ]
@@ -314,7 +347,8 @@
             "de": "Plage de Houlgate",
             "hu": "Plage de Houlgate",
             "ro": "Plage de Houlgate",
-            "en": "Plage de Houlgate"
+            "en": "Plage de Houlgate",
+            "fr": "Plage de Houlgate"
           },
           "coords": [
             -0.080297,
@@ -329,7 +363,8 @@
             "de": "Genießen Sie den weiten Sandstrand, der perfekt für entspannte Spaziergänge am Meer ist, und bringen Sie bequeme Schuhe für die Erkundung der Küste mit.",
             "hu": "Élvezze a tágas homokos strandot, amely tökéletes egy pihentető tengerparti sétához, és hozzon kényelmes cipőt a lenyűgöző partvidék felfedezéséhez.",
             "ro": "Bucurați-vă de plaja largă de nisip, perfectă pentru plimbări relaxante pe malul mării, și aduceți încălțăminte confortabilă pentru a explora zona de coastă.",
-            "en": "Enjoy the expansive sandy beach that is absolutely perfect for relaxing seaside walks, and remember to bring comfortable shoes to fully explore the coastline."
+            "en": "Enjoy the expansive sandy beach that is absolutely perfect for relaxing seaside walks, and remember to bring comfortable shoes to fully explore the coastline.",
+            "fr": "Appréciez l’étendue de sable parfaite pour des promenades relaxantes au bord de mer, et n’oubliez pas d’apporter des chaussures confortables pour explorer pleinement la côte."
           }
         },
         {
@@ -337,7 +372,8 @@
             "de": "Château Foucher de Careil",
             "hu": "Château Foucher de Careil",
             "ro": "Château Foucher de Careil",
-            "en": "Château Foucher de Careil"
+            "en": "Château Foucher de Careil",
+            "fr": "Château Foucher de Careil"
           },
           "coords": [
             -0.086995,
@@ -352,7 +388,8 @@
             "de": "Erkunden Sie die majestätischen Ruinen dieses alten Schlosses, das eine reiche Geschichte birgt, und achten Sie auf die steinernen Wappen über dem Eingang.",
             "hu": "Fedezze fel ennek az ősi kastélynak a fenséges romjait, amely gazdag történelmet őriz, és figyelje meg a bejárat felett található kőbe vésett címereket.",
             "ro": "Explorați ruinele maiestuoase ale acestui vechi castel care ascunde o istorie bogată și asigurați-vă că observați stemele de piatră de deasupra intrării.",
-            "en": "Explore the majestic ruins of this ancient castle which holds a very rich history, and make sure to observe the detailed stone coats of arms above the entrance."
+            "en": "Explore the majestic ruins of this ancient castle which holds a very rich history, and make sure to observe the detailed stone coats of arms above the entrance.",
+            "fr": "Explorez les ruines majestueuses de ce château ancien riche d’histoire, et veillez à observer les blasons sculptés au‑dessus de l’entrée."
           }
         },
         {
@@ -360,7 +397,8 @@
             "de": "Maison Bleue de Da Costa",
             "hu": "Maison Bleue de Da Costa",
             "ro": "Maison Bleue de Da Costa",
-            "en": "Maison Bleue de Da Costa"
+            "en": "Maison Bleue de Da Costa",
+            "fr": "Maison Bleue de Da Costa"
           },
           "coords": [
             -0.098663,
@@ -375,7 +413,8 @@
             "de": "Bewundern Sie dieses einzigartige Mosaikhaus, ein echtes Kunstwerk eines Außenseiters, und gehen Sie nah heran, um die unzähligen feinen Details zu sehen.",
             "hu": "Csodálja meg ezt az egyedülálló mozaikházat, amely a kívülálló művészet igazi remekműve, és menjen közelebb, hogy megnézze a számtalan finom részletet.",
             "ro": "Admirați această casă unică din mozaic, o adevărată capodoperă a artei brute, și apropiați-vă pentru a vedea nenumăratele detalii fine și culorile vibrante.",
-            "en": "Admire this totally unique mosaic house functioning as a true masterpiece of outsider art, and step close to fully appreciate the countless intricate details."
+            "en": "Admire this totally unique mosaic house functioning as a true masterpiece of outsider art, and step close to fully appreciate the countless intricate details.",
+            "fr": "Admirez cette maison‑mosaique totalement unique, véritable chef‑d’œuvre d’art brut, et approchez‑vous pour apprécier les innombrables détails compliqués."
           }
         },
         {
@@ -383,7 +422,8 @@
             "de": "Le Sablier - Centre National de la Marionnette",
             "hu": "Le Sablier - Centre National de la Marionnette",
             "ro": "Le Sablier - Centre National de la Marionnette",
-            "en": "Le Sablier - Centre National de la Marionnette"
+            "en": "Le Sablier - Centre National de la Marionnette",
+            "fr": "Le Sablier - Centre National de la Marionnette"
           },
           "coords": [
             -0.100776,
@@ -398,7 +438,8 @@
             "de": "Besuchen Sie dieses faszinierende Marionettenzentrum für einen Hauch von lokaler Kultur, und prüfen Sie vorab den Spielplan für besondere Aufführungen.",
             "hu": "Látogasson el ebbe a lenyűgöző bábszínházi központba egy kis helyi kultúráért, és előzetesen ellenőrizze a műsorfüzetet a különleges előadások miatt.",
             "ro": "Vizitați acest centru fascinant de marionete pentru o notă de cultură locală unică și verificați programul în avans pentru a prinde spectacolele speciale.",
-            "en": "Visit this fascinating national puppetry center for a wonderful touch of local culture, and make sure to check the schedule in advance for special performances."
+            "en": "Visit this fascinating national puppetry center for a wonderful touch of local culture, and make sure to check the schedule in advance for special performances.",
+            "fr": "Visitez ce fascinant centre national de la marionnette pour une belle immersion dans la culture locale, et n’oubliez pas de consulter le programme à l’avance pour les représentations spéciales."
           }
         },
         {
@@ -406,7 +447,8 @@
             "de": "Halles de Dives",
             "hu": "Halles de Dives",
             "ro": "Halles de Dives",
-            "en": "Halles de Dives"
+            "en": "Halles de Dives",
+            "fr": "Halles de Dives"
           },
           "coords": [
             -0.096578,
@@ -421,7 +463,8 @@
             "de": "Schlendern Sie durch diese beeindruckende mittelalterliche Markthalle aus Holz, um regionale Spezialitäten zu probieren, die direkt von Bauern stammen.",
             "hu": "Sétáljon végig ezen a lenyűgöző középkori fapiacon, és kóstolja meg a helyi termelőktől származó finom regionális specialitásokat és friss pékárukat.",
             "ro": "Plimbați-vă prin această piață medievală impresionantă din lemn pentru a gusta specialități regionale delicioase, provenite direct de la fermierii locali.",
-            "en": "Stroll through this highly impressive medieval wooden market hall to sample delicious regional specialties sourced directly from the friendly local farmers."
+            "en": "Stroll through this highly impressive medieval wooden market hall to sample delicious regional specialties sourced directly from the friendly local farmers.",
+            "fr": "Flânez sous cette impressionnante halle marchande médiévale en bois pour déguster de délicieuses spécialités régionales directement proposées par les agriculteurs locaux sympathiques."
           }
         },
         {
@@ -429,7 +472,8 @@
             "de": "Église Notre-Dame",
             "hu": "Église Notre-Dame",
             "ro": "Église Notre-Dame",
-            "en": "Église Notre-Dame"
+            "en": "Église Notre-Dame",
+            "fr": "Église Notre-Dame"
           },
           "coords": [
             -0.096859,
@@ -444,7 +488,8 @@
             "de": "Entdecken Sie diese wunderschöne historische Kirche mit ihren atemberaubenden Buntglasfenstern, die besonders in den späten Nachmittagsstunden leuchten.",
             "hu": "Fedezze fel ezt a gyönyörű történelmi templomot lélegzetelállító ólomüveg ablakaival, amelyek különösen a késő délutáni órákban ragyognak csodálatosan.",
             "ro": "Descoperiți această frumoasă biserică istorică cu vitraliile sale uluitoare, care strălucesc deosebit de puternic și frumos în orele târzii ale după-amiezii.",
-            "en": "Discover this beautiful historic church boasting truly breathtaking stained glass windows that shine especially brightly during the late afternoon hours."
+            "en": "Discover this beautiful historic church boasting truly breathtaking stained glass windows that shine especially brightly during the late afternoon hours.",
+            "fr": "Découvrez cette belle église historique aux vitraux réellement époustouflants qui brillent particulièrement en fin d’après‑midi."
           }
         }
       ],
@@ -452,7 +497,8 @@
         "de": "Starten Sie Ihre Radtour erfrischt an der Plage de Houlgate und radeln Sie dann zügig zum historischen Château Foucher de Careil. Am Mittag bewundern Sie die bunte Maison Bleue de Da Costa und lassen sich im faszinierenden Marionettenzentrum Le Sablier kulturell inspirieren. Nachmittags rollen Sie gemütlich zu den mittelalterlichen Halles de Dives, wo lokale Händler ihre köstlichen regionalen Waren anbieten. Der Tag endet friedlich mit der Besichtigung der wunderschönen Église Notre-Dame im Abendlicht.",
         "hu": "Kezdje kerékpártúráját felfrissülve a Houlgate strandon, majd tekerjen el a történelmi Château Foucher de Careil kastélyhoz. Délben csodálja meg a színes Maison Bleue de Da Costa házat, és merítsen kulturális ihletet a Le Sablier bábszínházi központban. Délután kényelmesen guruljon el a középkori Halles de Dives piacra, ahol a helyi árusok kínálják finom portékáikat. A nap békésen zárul a gyönyörű Église Notre-Dame templom lenyűgöző esti fényeinek megtekintésével.",
         "ro": "Începeți turul cu bicicleta la plaja Houlgate, apoi pedalați rapid către istoricul Château Foucher de Careil. La prânz, admirați casa colorată Maison Bleue de Da Costa și lăsați-vă inspirați cultural în centrul de marionete Le Sablier. După-amiaza, mergeți pe îndelete la piața medievală Halles de Dives, unde comercianții locali oferă produse regionale delicioase. Ziua se încheie liniștit cu o vizită la frumoasa biserică Église Notre-Dame, scăldată în lumină.",
-        "en": "Start your dynamic bike tour completely refreshed at Plage de Houlgate, then pedal swiftly over to the historic ruins of Château Foucher de Careil. At midday, actively admire the colorful Maison Bleue de Da Costa before soaking up local culture at the Le Sablier puppetry center. In the afternoon, roll leisurely towards the medieval Halles de Dives where vendors sell delicious regional goods. The busy day ends peacefully viewing the beautiful Église Notre-Dame bathed in evening light."
+        "en": "Start your dynamic bike tour completely refreshed at Plage de Houlgate, then pedal swiftly over to the historic ruins of Château Foucher de Careil. At midday, actively admire the colorful Maison Bleue de Da Costa before soaking up local culture at the Le Sablier puppetry center. In the afternoon, roll leisurely towards the medieval Halles de Dives where vendors sell delicious regional goods. The busy day ends peacefully viewing the beautiful Église Notre-Dame bathed in evening light.",
+        "fr": "Commencez votre dynamique circuit à vélo complètement reposé à la Plage de Houlgate, puis pédalez rapidement jusqu’aux ruines historiques du Château Foucher de Careil. À midi, admirez activement la colorée Maison Bleue de Da Costa avant de vous immerger dans la culture locale au Centre de la Marionnette Le Sablier. L’après‑midi, roulez tranquillement vers les Halles de Dives où les commerçants vendent de savoureux produits régionaux. La journée bien remplie se termine paisiblement en contemplant la belle Église Notre‑Dame baignée de lumière du soir."
       },
       "variants": {
         "rainy": {
@@ -460,7 +506,8 @@
             "de": "Eine Radtour im Regen erfordert Vorsicht auf den rutschigen Straßen von Houlgate. Morgens radeln wir zur Plage, wo der Asphalt glänzt. Mittags bieten die Schlösser und Museen in Dives-sur-Mer willkommene trockene Stopps. Am Nachmittag erkunden wir die Hallen, bevor wir den Tag bei der Kirche ausklingen lassen. Schutzbleche und gute Bremsen sind heute lebenswichtig.",
             "hu": "Az esős biciklitúra óvatosságot igényel Houlgate csúszós útjain. Reggel a tengerpart felé tekerünk a csillogó aszfalton. Délben a kastélyok és a Dives-sur-Mer-i múzeumok nyújtanak száraz pihenőt. Délután a fedett csarnokokat fedezzük fel, majd a templomnál zárjuk a napot. A sárvédő és a jól fogó fék ma elengedhetetlen a biztonsághoz.",
             "ro": "O tură cu bicicleta pe ploaie necesită prudență pe străzile alunecoase. Dimineața pedalăm spre plajă pe asfaltul lucios. La prânz, castelele și muzeele din Dives-sur-Mer oferă opriri uscate binevenite. După-amiaza explorăm piețele acoperite, terminând ziua la biserică. Apărătorile de noroi și frânele bune sunt vitale astăzi.",
-            "en": "Cycling in the rain demands caution on Houlgate's slippery streets. Morning starts towards the beach with glistening tarmac. By noon, the castles and museums in Dives-sur-Mer provide welcome dry intervals. Afternoon is spent exploring the covered market halls before finishing at the church. Mudguards and reliable brakes are essential for safety today."
+            "en": "Cycling in the rain demands caution on Houlgate's slippery streets. Morning starts towards the beach with glistening tarmac. By noon, the castles and museums in Dives-sur-Mer provide welcome dry intervals. Afternoon is spent exploring the covered market halls before finishing at the church. Mudguards and reliable brakes are essential for safety today.",
+            "fr": "Faire du vélo sous la pluie exige prudence sur les rues glissantes de Houlgate. La matinée commence vers la plage avec le bitume luisant. À midi, les châteaux et musées de Dives‑sur‑Mer offrent de bienvenues pauses au sec. L’après‑midi se passe à explorer les halles couvertes du marché avant de finir à l’église. Garde‑boues et freins fiables sont essentiels pour la sécurité aujourd’hui."
           },
           "stops": [
             {
@@ -468,13 +515,15 @@
                 "de": "Plage de Houlgate",
                 "hu": "Plage de Houlgate",
                 "ro": "Plage de Houlgate",
-                "en": "Plage de Houlgate"
+                "en": "Plage de Houlgate",
+                "fr": "Plage de Houlgate"
               },
               "tip_5lang": {
                 "de": "Fahren Sie langsam auf der Uferstraße; der nasse Asphalt kann besonders in Kurven sehr rutschig sein.",
                 "hu": "Tekerj lassan a parti úton; a vizes aszfalt, különösen a kanyarokban, rendkívül csúszós lehet ma.",
                 "ro": "Pedalați încet pe drumul de coastă; asfaltul ud poate fi extrem de alunecos, mai ales în curbe.",
-                "en": "Cycle slowly along the coastal road; the wet tarmac can be extremely slippery, especially in the bends."
+                "en": "Cycle slowly along the coastal road; the wet tarmac can be extremely slippery, especially in the bends.",
+                "fr": "Roulez lentement le long de la route côtière ; le bitume mouillé peut être extrêmement glissant, surtout dans les virages."
               }
             },
             {
@@ -482,13 +531,15 @@
                 "de": "Château Foucher de Careil",
                 "hu": "Château Foucher de Careil",
                 "ro": "Château Foucher de Careil",
-                "en": "Château Foucher de Careil"
+                "en": "Château Foucher de Careil",
+                "fr": "Château Foucher de Careil"
               },
               "tip_5lang": {
                 "de": "Suchen Sie Schutz unter den Bäumen in der Nähe des Schlosses, um die Aussicht auf die Architektur trocken zu genießen.",
                 "hu": "Keress menedéket a kastély közeli fák alatt, hogy szárazon csodálhasd meg az épület lenyűgöző architektúráját.",
                 "ro": "Căutați adăpost sub copacii de lângă castel pentru a admira arhitectura impresionantă fără a vă uda prea tare.",
-                "en": "Seek shelter under the trees near the castle to admire the impressive architecture while staying relatively dry."
+                "en": "Seek shelter under the trees near the castle to admire the impressive architecture while staying relatively dry.",
+                "fr": "Cherchez un abri sous les arbres près du château pour admirer l’architecture impressionnante tout en restant relativement au sec."
               }
             },
             {
@@ -496,13 +547,15 @@
                 "de": "Maison Bleue de Da Costa",
                 "hu": "Maison Bleue de Da Costa",
                 "ro": "Maison Bleue de Da Costa",
-                "en": "Maison Bleue de Da Costa"
+                "en": "Maison Bleue de Da Costa",
+                "fr": "Maison Bleue de Da Costa"
               },
               "tip_5lang": {
                 "de": "Die blauen Mosaike leuchten auch bei Regen; stellen Sie Ihr Rad kurz unter, um die Details aus der Nähe zu betrachten.",
                 "hu": "A kék mozaikok esőben is ragyognak; támaszd le a biciklit egy fedett részen, és nézd meg közelebbről a részleteket.",
                 "ro": "Mozaicurile albastre strălucesc chiar și pe ploaie; parcați bicicleta într-un loc ferit și priviți detaliile de aproape.",
-                "en": "The blue mosaics shine even in the rain; park your bike under cover and take a closer look at the intricate details."
+                "en": "The blue mosaics shine even in the rain; park your bike under cover and take a closer look at the intricate details.",
+                "fr": "Les mosaïques bleues brillent même sous la pluie ; garez votre vélo à l’abri et observez de plus près les détails complexes."
               }
             },
             {
@@ -510,13 +563,15 @@
                 "de": "Le Sablier - Centre National de la Marionnette",
                 "hu": "Le Sablier - Centre National de la Marionnette",
                 "ro": "Le Sablier - Centre National de la Marionnette",
-                "en": "Le Sablier - Centre National de la Marionnette"
+                "en": "Le Sablier - Centre National de la Marionnette",
+                "fr": "Le Sablier - Centre National de la Marionnette"
               },
               "tip_5lang": {
                 "de": "Dies ist der ideale Ort, um dem Regen zu entfliehen; nutzen Sie die Zeit für einen ausführlichen Innenbesuch des Zentrums.",
                 "hu": "Ez az ideális hely az eső elöli menekülésre; használd ki az időt a központ kiállításainak alapos megtekintésére.",
                 "ro": "Acesta este locul ideal pentru a scăpa de ploaie; profitați de timp pentru o vizită interioară detaliată a centrului.",
-                "en": "This is the ideal place to escape the rain; take advantage of the weather for a detailed indoor visit of the center."
+                "en": "This is the ideal place to escape the rain; take advantage of the weather for a detailed indoor visit of the center.",
+                "fr": "C’est l’endroit idéal pour échapper à la pluie ; profitez du mauvais temps pour une visite intérieure approfondie du centre."
               }
             },
             {
@@ -524,13 +579,15 @@
                 "de": "Halles de Dives",
                 "hu": "Halles de Dives",
                 "ro": "Halles de Dives",
-                "en": "Halles de Dives"
+                "en": "Halles de Dives",
+                "fr": "Halles de Dives"
               },
               "tip_5lang": {
                 "de": "Die mittelalterliche Markthalle bietet ein großes Dach, unter dem man das Fahrrad sicher und trocken abstellen kann.",
                 "hu": "A középkori vásárcsarnok hatalmas tetőszerkezete alatt biztonságban és szárazon tudhatod a kerékpárodat a nézelődés alatt.",
                 "ro": "Hala medievală oferă un acoperiș imens sub care vă puteți lăsa bicicleta în siguranță și la uscat.",
-                "en": "The medieval market hall provides a massive roof where you can keep your bike safe and dry while exploring."
+                "en": "The medieval market hall provides a massive roof where you can keep your bike safe and dry while exploring.",
+                "fr": "La halle médiévale fournit un vaste toit où vous pouvez garder votre vélo au sec et en sécurité pendant votre exploration."
               }
             },
             {
@@ -538,13 +595,15 @@
                 "de": "Église Notre-Dame",
                 "hu": "Église Notre-Dame",
                 "ro": "Église Notre-Dame",
-                "en": "Église Notre-Dame"
+                "en": "Église Notre-Dame",
+                "fr": "Église Notre-Dame"
               },
               "tip_5lang": {
                 "de": "Schließen Sie die Tour mit einem Moment der Ruhe im Kirchenschiff ab, während draußen der Regen gegen die Fenster trommelt.",
                 "hu": "Zárd a túrát egy csendes pillanattal a templomhajóban, miközben kint az eső kopog a színes üvegablakokon.",
                 "ro": "Încheiați turul cu un moment de liniște în naosul bisericii, în timp ce ploaia bate în ferestrele colorate.",
-                "en": "End your tour with a quiet moment in the nave, listening to the rain drumming against the stained-glass windows."
+                "en": "End your tour with a quiet moment in the nave, listening to the rain drumming against the stained-glass windows.",
+                "fr": "Terminez votre circuit par un moment de calme dans la nef, en écoutant la pluie tambouriner contre les vitraux."
               }
             }
           ]
@@ -554,7 +613,8 @@
             "de": "Eine winterliche Radtour durch Houlgate und Dives-sur-Mer bietet klare Aussichten und leere Wege. Morgens radeln wir am frostigen Strand entlang. Mittags erkunden wir die historischen Stätten, wobei die Bewegung warm hält. Da die Sonne bereits um 17:00 Uhr untergeht, planen wir die Rückkehr im hellen Nachmittagslicht. Handschuhe und eine Thermo-Trinkflasche sind heute sehr zu empfehlen.",
             "hu": "A téli biciklitúra Houlgate-ben tiszta kilátást és üres utakat ígér. Reggel a deres tengerpart mentén tekerünk. Napközben a történelmi helyszíneket járjuk be, a mozgás segít melegen tartani a testet. Mivel a nap 17 órakor lebukik, a túrát a világos délutáni órákra időzítjük. A meleg kesztyű és egy termosz forró tea ma kötelező kellék.",
             "ro": "O tură cu bicicleta iarna prin Houlgate oferă vederi clare și drumuri libere. Dimineața pedalăm pe lângă plaja înghețată. În timpul zilei explorăm siturile istorice, mișcarea ajutându-ne să ne menținem calzi. Deoarece soarele apune la ora 17:00, planificăm întoarcerea pe lumină. Mănușile groase și un termos sunt foarte recomandate.",
-            "en": "A winter bike tour through Houlgate offers clear views and empty paths. Morning starts along the frosty coastline. During the day, we explore historical sites; the physical activity helps keep us warm. As the sun sets by 5 PM, we plan to finish in the bright afternoon light. Warm gloves and a thermal flask are highly recommended today."
+            "en": "A winter bike tour through Houlgate offers clear views and empty paths. Morning starts along the frosty coastline. During the day, we explore historical sites; the physical activity helps keep us warm. As the sun sets by 5 PM, we plan to finish in the bright afternoon light. Warm gloves and a thermal flask are highly recommended today.",
+            "fr": "Une sortie à vélo hivernale à travers Houlgate offre des vues claires et des chemins déserts. La matinée commence le long du littoral givré. Dans la journée, nous explorons des sites historiques ; l’effort physique aide à nous tenir chaud. Alors que le soleil se couche vers 17h, nous prévoyons de finir dans la lumineuse fin d’après‑midi. Gants chauds et thermos sont fortement recommandés aujourd’hui."
           },
           "stops": [
             {
@@ -562,13 +622,15 @@
                 "de": "Plage de Houlgate",
                 "hu": "Plage de Houlgate",
                 "ro": "Plage de Houlgate",
-                "en": "Plage de Houlgate"
+                "en": "Plage de Houlgate",
+                "fr": "Plage de Houlgate"
               },
               "tip_5lang": {
                 "de": "Achten Sie auf gefrorene Pfützen auf dem Radweg; der direkte Blick auf das winterliche Meer ist atemberaubend.",
                 "hu": "Vigyázz a fagyott tócsákra a kerékpárúton; a téli tenger látványa ilyenkor lélegzetelállítóan tiszta és kék.",
                 "ro": "Atenție la bălțile înghețate de pe pista de biciclete; vederea mării pe timp de iarnă este absolut uluitoare.",
-                "en": "Watch out for frozen puddles on the cycle path; the direct view of the winter sea is breathtakingly clear today."
+                "en": "Watch out for frozen puddles on the cycle path; the direct view of the winter sea is breathtakingly clear today.",
+                "fr": "Attention aux flaques gelées sur la piste cyclable ; la vue directe sur la mer d’hiver est aujourd’hui d’une clarté à couper le souffle."
               }
             },
             {
@@ -576,13 +638,15 @@
                 "de": "Château Foucher de Careil",
                 "hu": "Château Foucher de Careil",
                 "ro": "Château Foucher de Careil",
-                "en": "Château Foucher de Careil"
+                "en": "Château Foucher de Careil",
+                "fr": "Château Foucher de Careil"
               },
               "tip_5lang": {
                 "de": "Das Schloss wirkt im kahlen Winterwald besonders imposant; halten Sie kurz an, um die kalte Pracht zu bewundern.",
                 "hu": "A kastély a kopár téli erdőben különösen impozáns látványt nyújt; állj meg egy pillanatra megcsodálni a jeges pompát.",
                 "ro": "Castelul pare deosebit de impunător în pădurea golașă de iarnă; opriți-vă scurt pentru a admira splendoarea rece.",
-                "en": "The castle looks particularly imposing in the bare winter woods; stop briefly to admire its cold architectural grandeur."
+                "en": "The castle looks particularly imposing in the bare winter woods; stop briefly to admire its cold architectural grandeur.",
+                "fr": "Le château apparaît particulièrement imposant dans les bois d’hiver dénudés ; arrêtez‑vous brièvement pour admirer sa froide grandeur architecturale."
               }
             },
             {
@@ -590,13 +654,15 @@
                 "de": "Maison Bleue de Da Costa",
                 "hu": "Maison Bleue de Da Costa",
                 "ro": "Maison Bleue de Da Costa",
-                "en": "Maison Bleue de Da Costa"
+                "en": "Maison Bleue de Da Costa",
+                "fr": "Maison Bleue de Da Costa"
               },
               "tip_5lang": {
                 "de": "Die intensiven Blautöne sind ein toller Farbtupfer in der sonst eher grauen Winterlandschaft der Normandie.",
                 "hu": "Az intenzív kék tónusok remek színfoltot jelentenek Normandia egyébként ilyenkor szürkébb téli tájában.",
                 "ro": "Tonurile intense de albastru reprezintă o pată de culoare excelentă în peisajul hibernal, altfel gri, al Normandiei.",
-                "en": "The intense blue tones provide a wonderful splash of color in the otherwise gray winter landscape of Normandy."
+                "en": "The intense blue tones provide a wonderful splash of color in the otherwise gray winter landscape of Normandy.",
+                "fr": "Les tons bleus intenses offrent une merveilleuse touche de couleur dans le paysage hivernal par ailleurs gris de Normandie."
               }
             },
             {
@@ -604,13 +670,15 @@
                 "de": "Le Sablier - Centre National de la Marionnette",
                 "hu": "Le Sablier - Centre National de la Marionnette",
                 "ro": "Le Sablier - Centre National de la Marionnette",
-                "en": "Le Sablier - Centre National de la Marionnette"
+                "en": "Le Sablier - Centre National de la Marionnette",
+                "fr": "Le Sablier - Centre National de la Marionnette"
               },
               "tip_5lang": {
                 "de": "Nutzen Sie den Stopp für eine Aufwärmpause im Inneren, bevor Sie die letzte Etappe der Tour antreten.",
                 "hu": "Használd ki ezt a megállót egy alapos bemelegedésre az épületben, mielőtt belevágnál a túra utolsó szakaszába.",
                 "ro": "Profitați de această oprire pentru a vă încălzi în interior înainte de a începe ultima etapă a traseului.",
-                "en": "Use this stop for a warming break inside the building before tackling the final leg of your winter cycle tour."
+                "en": "Use this stop for a warming break inside the building before tackling the final leg of your winter cycle tour.",
+                "fr": "Profitez de cet arrêt pour une pause réchauffante à l’intérieur avant d’attaquer la dernière étape de votre circuit à vélo hivernal."
               }
             },
             {
@@ -618,13 +686,15 @@
                 "de": "Halles de Dives",
                 "hu": "Halles de Dives",
                 "ro": "Halles de Dives",
-                "en": "Halles de Dives"
+                "en": "Halles de Dives",
+                "fr": "Halles de Dives"
               },
               "tip_5lang": {
                 "de": "Die Markthalle schützt vor dem kalten Zugwind; genießen Sie die historische Atmosphäre im Schutz der alten Balken.",
                 "hu": "A vásárcsarnok védelmet nyújt a hideg huzat ellen; élvezd a történelmi hangulatot a régi fagerendák oltalma alatt.",
                 "ro": "Hala de piață vă protejează de curentul rece; bucurați-vă de atmosfera istorică sub adăpostul grinzilor vechi.",
-                "en": "The market hall protects against the cold drafty wind; enjoy the historic atmosphere sheltered by the ancient beams."
+                "en": "The market hall protects against the cold drafty wind; enjoy the historic atmosphere sheltered by the ancient beams.",
+                "fr": "La halle protège du vent froid et cinglant ; profitez de l’atmosphère historique abritée par les anciennes poutres."
               }
             },
             {
@@ -632,13 +702,15 @@
                 "de": "Église Notre-Dame",
                 "hu": "Église Notre-Dame",
                 "ro": "Église Notre-Dame",
-                "en": "Église Notre-Dame"
+                "en": "Église Notre-Dame",
+                "fr": "Église Notre-Dame"
               },
               "tip_5lang": {
                 "de": "Suchen Sie das Licht im Kircheninneren; die Stille passt perfekt zur frühen winterlichen Abenddämmerung um 17:00 Uhr.",
                 "hu": "Keresd a fényt a templom belsejében; a csend tökéletesen illik a korai, 17 órai téli alkonyathoz.",
                 "ro": "Căutați lumina în interiorul bisericii; liniștea se potrivește perfect cu amurgul hibernal timpuriu de la ora 17:00.",
-                "en": "Seek the light inside the church; the silence perfectly matches the early winter dusk arriving at 5 PM."
+                "en": "Seek the light inside the church; the silence perfectly matches the early winter dusk arriving at 5 PM.",
+                "fr": "Cherchez la lumière à l’intérieur de l’église ; le silence s’accorde parfaitement au crépuscule hivernal précoce arrivant à 17h."
               }
             }
           ]
@@ -658,7 +730,8 @@
             "de": "Manège Chaignon",
             "hu": "Manège Chaignon",
             "ro": "Manège Chaignon",
-            "en": "Manège Chaignon"
+            "en": "Manège Chaignon",
+            "fr": "Manège Chaignon"
           },
           "coords": [
             -0.082966,
@@ -673,7 +746,8 @@
             "de": "Erleben Sie den nostalgischen Charme dieses klassischen Karussells, das besonders bei Kindern beliebt ist, und halten Sie Ihre Kamera für tolle Fotos bereit.",
             "hu": "Tapasztalja meg ennek a klasszikus körhintának a nosztalgikus varázsát, amely különösen a gyerekek körében népszerű, és készítsen csodálatos fotókat.",
             "ro": "Experimentați farmecul nostalgic al acestui carusel clasic, deosebit de popular printre copii, și asigurați-vă că aveți aparatul foto pregătit pentru poze.",
-            "en": "Experience the deeply nostalgic charm of this classic carousel that is especially popular with children, and keep your camera ready for some wonderful photos."
+            "en": "Experience the deeply nostalgic charm of this classic carousel that is especially popular with children, and keep your camera ready for some wonderful photos.",
+            "fr": "Vivez le charme profondément nostalgique de ce carrousel classique, particulièrement apprécié des enfants, et gardez votre appareil prêt pour de belles photos."
           }
         },
         {
@@ -681,7 +755,8 @@
             "de": "Galerie Port Guillaume",
             "hu": "Galerie Port Guillaume",
             "ro": "Galerie Port Guillaume",
-            "en": "Galerie Port Guillaume"
+            "en": "Galerie Port Guillaume",
+            "fr": "Galerie Port Guillaume"
           },
           "coords": [
             -0.099538,
@@ -696,7 +771,8 @@
             "de": "Tauchen Sie in die maritime Kunst dieser modernen Galerie ein, die faszinierende maritime Werke zeigt, und nehmen Sie sich Zeit für die Wechselausstellungen.",
             "hu": "Merüljön el a modern galéria tengeri művészetében, amely lenyűgöző tengerészeti alkotásokat mutat be, és szánjon időt az izgalmas időszaki kiállításokra.",
             "ro": "Cufundați-vă în arta maritimă a acestei galerii moderne, care expune lucrări navale fascinante, și acordați-vă suficient timp pentru expozițiile temporare.",
-            "en": "Immerse yourself in the maritime art of this modern gallery showcasing fascinating nautical works, and leave plenty of time to enjoy the temporary exhibitions."
+            "en": "Immerse yourself in the maritime art of this modern gallery showcasing fascinating nautical works, and leave plenty of time to enjoy the temporary exhibitions.",
+            "fr": "Imprégnez‑vous de l’art maritime de cette galerie moderne présentant des œuvres nautiques fascinantes, et prévoyez suffisamment de temps pour apprécier les expositions temporaires."
           }
         },
         {
@@ -704,7 +780,8 @@
             "de": "Rétro-musée des Sapeurs-Pompiers",
             "hu": "Rétro-musée des Sapeurs-Pompiers",
             "ro": "Rétro-musée des Sapeurs-Pompiers",
-            "en": "Rétro-musée des Sapeurs-Pompiers"
+            "en": "Rétro-musée des Sapeurs-Pompiers",
+            "fr": "Rétro‑musée des Sapeurs‑Pompiers"
           },
           "coords": [
             -0.100323,
@@ -719,7 +796,8 @@
             "de": "Erleben Sie die Geschichte der Feuerwehr in diesem charmanten kleinen Museum hautnah, ideal für Technikfans, und fragen Sie nach der Führung auf Englisch.",
             "hu": "Tapasztalja meg testközelből a tűzoltás történetét ebben a bájos kis múzeumban, amely ideális a technika rajongóinak, és kérjen izgalmas vezetett túrát.",
             "ro": "Experimentați istoria stingerii incendiilor în acest mic muzeu fermecător, ideal pentru fanii tehnologiei, și asigurați-vă că cereți turul ghidat informativ.",
-            "en": "Experience the rich history of firefighting firsthand in this charming little museum ideal for technology fans, and be sure to ask for the guided tour."
+            "en": "Experience the rich history of firefighting firsthand in this charming little museum ideal for technology fans, and be sure to ask for the guided tour.",
+            "fr": "Découvrez la riche histoire du pompier au sein de ce charmant petit musée idéal pour les passionnés de technique, et pensez à demander la visite guidée."
           }
         },
         {
@@ -727,7 +805,8 @@
             "de": "Manoir Saint-Cloud",
             "hu": "Manoir Saint-Cloud",
             "ro": "Manoir Saint-Cloud",
-            "en": "Manoir Saint-Cloud"
+            "en": "Manoir Saint-Cloud",
+            "fr": "Manoir Saint‑Cloud"
           },
           "coords": [
             -0.09165,
@@ -742,7 +821,8 @@
             "de": "Bestaunen Sie die elegante Architektur dieses alten Herrenhauses inmitten grüner Gärten, und wandeln Sie auf den ruhigen Wegen rund um das beeindruckende Anwesen.",
             "hu": "Csodálja meg e régi udvarház elegáns építészetét a zöldellő kertek közepette, és sétáljon a lenyűgöző birtokot körülvevő békés, csendes ösvényeken.",
             "ro": "Minunați-vă de arhitectura elegantă a acestui vechi conac înconjurat de grădini verzi luxuriante și plimbați-vă pe cărările liniștite din jurul moșiei.",
-            "en": "Marvel at the highly elegant architecture of this old manor house set amidst lush green gardens, and wander along the peaceful paths surrounding the estate."
+            "en": "Marvel at the highly elegant architecture of this old manor house set amidst lush green gardens, and wander along the peaceful paths surrounding the estate.",
+            "fr": "Émerveillez‑vous devant l’architecture très élégante de ce vieux manoir entouré de jardins verdoyants, et promenez‑vous le long des chemins paisibles du domaine."
           }
         },
         {
@@ -750,7 +830,8 @@
             "de": "Château de Sarlabot",
             "hu": "Château de Sarlabot",
             "ro": "Château de Sarlabot",
-            "en": "Château de Sarlabot"
+            "en": "Château de Sarlabot",
+            "fr": "Château de Sarlabot"
           },
           "coords": [
             -0.076941,
@@ -765,7 +846,8 @@
             "de": "Beenden Sie den Tag an diesem majestätischen Schloss aus dem 19. Jahrhundert, das die Landschaft überblickt, und genießen Sie die friedliche Abenddämmerung.",
             "hu": "Zárja a napot ennél a fenséges 19. századi kastélynál, amely a festői vidékre néz, és élvezze a békés szürkületet a hatalmas történelmi fák árnyékában.",
             "ro": "Încheiați ziua la acest maiestuos castel din secolul al XIX-lea, care are vedere la peisajul pitoresc, și bucurați-vă de amurgul pașnic la umbra copacilor.",
-            "en": "End your day at this majestic 19th-century castle overlooking the picturesque countryside, and deeply enjoy the peaceful twilight in the shadow of the old trees."
+            "en": "End your day at this majestic 19th-century castle overlooking the picturesque countryside, and deeply enjoy the peaceful twilight in the shadow of the old trees.",
+            "fr": "Terminez votre journée à ce majestueux château du XIXe siècle surplombant la campagne pittoresque, et profitez profondément du crépuscule paisible à l’ombre des vieux arbres."
           }
         }
       ],
@@ -773,7 +855,8 @@
         "de": "Ihr komfortabler Roadtrip beginnt am traditionellen Manège Chaignon, bevor Sie zur modernen maritimen Galerie Port Guillaume weiterfahren. Zur Mittagszeit tauchen Sie im liebevoll gestalteten Rétro-musée des Sapeurs-Pompiers tief in die spannende regionale Feuerwehrgeschichte ein. Der Nachmittag ist ganz der Eleganz gewidmet, wenn Sie das prächtige Manoir Saint-Cloud mit seinen wunderschönen Gärten besuchen. Zum Abschluss des Tages genießen Sie die majestätische Atmosphäre des Château de Sarlabot in der Dämmerung.",
         "hu": "Kényelmes autós túrája a hagyományos Manège Chaignon körhintánál kezdődik, mielőtt a modern Galerie Port Guillaume tengerészeti galériához hajtana. Délben merüljön el a régió izgalmas tűzoltási történelmében a gondosan kialakított Rétro-musée múzeumban. A délután az eleganciának van szentelve, amikor meglátogatja a csodálatos Manoir Saint-Cloud kastélyt és annak zöldellő kertjeit. A nap lezárásaként élvezze a Château de Sarlabot fenséges hangulatát a varázslatos esti szürkületben.",
         "ro": "Călătoria dumneavoastră confortabilă începe la tradiționalul Manège Chaignon, înainte de a conduce la galeria modernă maritimă Port Guillaume. La prânz, aprofundați istoria interesantă a pompierilor în fascinantul Rétro-musée des Sapeurs-Pompiers. După-amiaza este dedicată în întregime eleganței, când vizitați magnificul Manoir Saint-Cloud, cu grădinile sale spectaculoase. Pentru a încheia ziua, bucurați-vă de atmosfera maiestuoasă a Château de Sarlabot sub luminile blânde ale amurgului.",
-        "en": "Your comfortable coastal road trip begins at the traditional Manège Chaignon before driving straight to the modern maritime Galerie Port Guillaume. Around midday, dive deeply into exciting regional firefighting history at the lovingly curated Rétro-musée des Sapeurs-Pompiers. The afternoon is dedicated entirely to elegance as you visit the magnificent Manoir Saint-Cloud and its lush green gardens. Conclude your fantastic day soaking in the majestic atmosphere of Château de Sarlabot at twilight."
+        "en": "Your comfortable coastal road trip begins at the traditional Manège Chaignon before driving straight to the modern maritime Galerie Port Guillaume. Around midday, dive deeply into exciting regional firefighting history at the lovingly curated Rétro-musée des Sapeurs-Pompiers. The afternoon is dedicated entirely to elegance as you visit the magnificent Manoir Saint-Cloud and its lush green gardens. Conclude your fantastic day soaking in the majestic atmosphere of Château de Sarlabot at twilight.",
+        "fr": "Votre confortable road‑trip côtier commence au traditionnel Manège Chaignon avant de filer jusqu’à la moderne Galerie Port Guillaume. Vers midi, plongez dans l’excitante histoire locale des pompiers au Rétro‑musée des Sapeurs‑Pompiers, soigneusement présenté. L’après‑midi est entièrement dédié à l’élégance avec la visite du magnifique Manoir Saint‑Cloud et de ses jardins luxuriants. Concluez votre superbe journée en vous imprégnant de l’atmosphère majestueuse du Château de Sarlabot au crépuscule."
       },
       "variants": {
         "rainy": {
@@ -781,7 +864,8 @@
             "de": "Ein Regentag ist im Auto komfortabel, da wir trocken zwischen den Highlights pendeln können. Morgens besuchen wir das Karussell, mittags stehen Museumsbesuche in Dives-sur-Mer auf dem Plan, die perfekten Schutz bieten. Am Nachmittag fahren wir zu den Schlössern im Hinterland, während der Regen die Landschaft mystisch wirken lässt. Achten Sie auf Aquaplaning auf den Nebenstraßen.",
             "hu": "Az esős nap az autóban a legkényelmesebb, hiszen szárazon közlekedhetünk a látnivalók között. Reggel a körhintát nézzük meg, délben pedig a Dives-sur-Mer-i múzeumok nyújtanak tökéletes menedéket. Délután a hátország kastélyaihoz autózunk, miközben az eső misztikus ködbe burkolja a tájat. Figyelj az aquaplaning jelenségre a mellékutakon.",
             "ro": "O zi ploioasă este confortabilă în mașină, permițându-ne să circulăm uscați între obiective. Dimineața vizităm caruselul, iar la prânz muzeele din Dives-sur-Mer oferă adăpostul perfect. După-amiaza conducem spre castelele din interiorul regiunii, în timp ce ploaia face peisajul să pară mistic. Atenție la acvaplanare pe drumurile secundare.",
-            "en": "A rainy day is comfortable by car, as we can commute dryly between highlights. Morning starts at the carousel, and by noon, the museums in Dives-sur-Mer provide perfect shelter. Afternoon involves driving to inland castles while the rain wraps the landscape in a mystic fog. Be cautious of aquaplaning on the smaller backroads."
+            "en": "A rainy day is comfortable by car, as we can commute dryly between highlights. Morning starts at the carousel, and by noon, the museums in Dives-sur-Mer provide perfect shelter. Afternoon involves driving to inland castles while the rain wraps the landscape in a mystic fog. Be cautious of aquaplaning on the smaller backroads.",
+            "fr": "Un jour pluvieux est confortable en voiture, car on peut se déplacer au sec entre les points d’intérêt. La matinée commence au carrousel, et à midi les musées de Dives‑sur‑Mer offrent un abri parfait. L’après‑midi consiste à conduire vers des châteaux intérieurs tandis que la pluie enveloppe le paysage d’un brouillard mystique. Soyez prudent face au risque d’aquaplaning sur les petites routes secondaires."
           },
           "stops": [
             {
@@ -789,13 +873,15 @@
                 "de": "Manège Chaignon",
                 "hu": "Manège Chaignon",
                 "ro": "Manège Chaignon",
-                "en": "Manège Chaignon"
+                "en": "Manège Chaignon",
+                "fr": "Manège Chaignon"
               },
               "tip_5lang": {
                 "de": "Parken Sie so nah wie möglich am Eingang, um den kurzen Weg zum bunten Karussell im Regen schnell zu überbrücken.",
                 "hu": "Parkolj a lehető legközelebb a bejárathoz, hogy az esőben gyorsan megtedd a rövid utat a színes körhintáig.",
                 "ro": "Parcați cât mai aproape de intrare pentru a parcurge rapid drumul scurt până la caruselul colorat prin ploaie.",
-                "en": "Park as close as possible to the entrance to quickly cross the short path to the colorful carousel in the rain."
+                "en": "Park as close as possible to the entrance to quickly cross the short path to the colorful carousel in the rain.",
+                "fr": "Garez‑vous le plus près possible de l’entrée pour traverser rapidement le court chemin menant au carrousel coloré sous la pluie."
               }
             },
             {
@@ -803,13 +889,15 @@
                 "de": "Galerie Port Guillaume",
                 "hu": "Galerie Port Guillaume",
                 "ro": "Galerie Port Guillaume",
-                "en": "Galerie Port Guillaume"
+                "en": "Galerie Port Guillaume",
+                "fr": "Galerie Port Guillaume"
               },
               "tip_5lang": {
                 "de": "Nutzen Sie den Regen für einen ausgiebigen Besuch der Galerie; drinnen bleiben Sie garantiert trocken und inspiriert.",
                 "hu": "Használd ki az esős időt a galéria alapos bejárására; bent garantáltan szárazon maradsz és inspirálódhatsz.",
                 "ro": "Profitați de ploaie pentru o vizită prelungită la galerie; în interior veți rămâne cu siguranță uscat și inspirat.",
-                "en": "Take advantage of the rain for an extensive gallery visit; indoors you are guaranteed to stay dry and inspired."
+                "en": "Take advantage of the rain for an extensive gallery visit; indoors you are guaranteed to stay dry and inspired.",
+                "fr": "Profitez de la pluie pour une visite approfondie de la galerie ; à l’intérieur vous resterez au sec et inspiré."
               }
             },
             {
@@ -817,13 +905,15 @@
                 "de": "Rétro-musée des Sapeurs-Pompiers",
                 "hu": "Rétro-musée des Sapeurs-Pompiers",
                 "ro": "Rétro-musée des Sapeurs-Pompiers",
-                "en": "Rétro-musée des Sapeurs-Pompiers"
+                "en": "Rétro-musée des Sapeurs-Pompiers",
+                "fr": "Rétro‑musée des Sapeurs‑Pompiers"
               },
               "tip_5lang": {
                 "de": "Dieses Museum ist ein hervorragender Schlechtwetter-Stopp; planen Sie hier viel Zeit ein, um dem Regen draußen zu entgehen.",
                 "hu": "Ez a múzeum kiváló megálló rossz idő esetén; tervezz ide több időt, hogy elkerüld a kinti szakadó esőt.",
                 "ro": "Acest muzeu este o oprire excelentă pentru vreme rea; planificați-vă mult timp aici pentru a evita ploaia de afară.",
-                "en": "This museum is an excellent bad-weather stop; plan for plenty of time here to escape the heavy rain outside."
+                "en": "This museum is an excellent bad-weather stop; plan for plenty of time here to escape the heavy rain outside.",
+                "fr": "Ce musée est un excellent arrêt par mauvais temps ; prévoyez suffisamment de temps pour échapper à la forte pluie extérieure."
               }
             },
             {
@@ -831,13 +921,15 @@
                 "de": "Manoir Saint-Cloud",
                 "hu": "Manoir Saint-Cloud",
                 "ro": "Manoir Saint-Cloud",
-                "en": "Manoir Saint-Cloud"
+                "en": "Manoir Saint-Cloud",
+                "fr": "Manoir Saint‑Cloud"
               },
               "tip_5lang": {
                 "de": "Genießen Sie den Anblick des Herrenhauses aus dem warmen Auto heraus, bevor Sie einen kurzen Sprint zum Eingang wagen.",
                 "hu": "Élvezd az udvarház látványát a meleg autóból, mielőtt bevállalnál egy gyors sprintet a fedett bejáratig.",
                 "ro": "Bucurați-vă de vederea conacului din mașina caldă înainte de a face un scurt sprint spre intrarea protejată.",
-                "en": "Enjoy the view of the manor from the warm car before making a quick dash to the sheltered entrance."
+                "en": "Enjoy the view of the manor from the warm car before making a quick dash to the sheltered entrance.",
+                "fr": "Appréciez la vue du manoir depuis la voiture chaude avant de faire une courte course jusqu’à l’entrée abritée."
               }
             },
             {
@@ -845,13 +937,15 @@
                 "de": "Château de Sarlabot",
                 "hu": "Château de Sarlabot",
                 "ro": "Château de Sarlabot",
-                "en": "Château de Sarlabot"
+                "en": "Château de Sarlabot",
+                "fr": "Château de Sarlabot"
               },
               "tip_5lang": {
                 "de": "Die Auffahrt zum Schloss ist bei Regen besonders atmosphärisch; prüfen Sie die Wischerblätter für beste Sicht auf die Türme.",
                 "hu": "A kastélyhoz vezető út esőben kifejezetten hangulatos; ellenőrizd az ablaktörlőket a tornyokra nyíló legjobb kilátásért.",
                 "ro": "Drumul spre castel este foarte atmosferic pe ploaie; verificați ștergătoarele pentru cea mai bună vedere asupra turnurilor.",
-                "en": "The drive to the castle is very atmospheric in the rain; check your wipers for the best view of the towers."
+                "en": "The drive to the castle is very atmospheric in the rain; check your wipers for the best view of the towers.",
+                "fr": "La route vers le château est très atmosphérique sous la pluie ; vérifiez vos essuie‑glaces pour une meilleure vue des tours."
               }
             }
           ]
@@ -861,7 +955,8 @@
             "de": "Eine winterliche Spritztour mit dem Auto lässt uns die Schönheit der Normandie gemütlich erleben. Morgens gleiten wir durch die frostigen Gassen von Houlgate. Mittags besuchen wir die Museen, während die Heizung für Komfort sorgt. Am Nachmittag erkunden wir die abgelegenen Schlösser, bevor die Dunkelheit um 17:00 Uhr die Straßen einhüllt. Prüfen Sie den Frostschutz und die Reifen vor der Abfahrt.",
             "hu": "A téli autós kirándulás kényelmes módja Normandia felfedezésének. Reggel a deres houlgate-i utcákon gurulunk végig. Délben a múzeumok látogatása közben az autó fűtése biztosítja a komfortot. Délután a távolabbi kastélyokat keressük fel, mielőtt 17 órakor sötétség borulna az utakra. Indulás előtt ellenőrizd a fagyállót és a gumiabroncsokat.",
             "ro": "O excursie cu mașina iarna ne permite să experimentăm frumusețea Normandiei în confort. Dimineața parcurgem străzile înghețate din Houlgate. La prânz vizităm muzeele, căldura din mașină asigurând confortul necesar. După-amiaza explorăm castelele izolate înainte ca întunericul să se lase la ora 17:00. Verificați antigelul și pneurile înainte de plecare.",
-            "en": "A winter car tour lets us experience Normandy's beauty in comfort. Morning starts gliding through frosty Houlgate streets. By noon, museum visits are interspersed with warm drives. Afternoon is for exploring remote castles before darkness envelops the roads at 5 PM. Check your antifreeze and tire pressure before setting off today."
+            "en": "A winter car tour lets us experience Normandy's beauty in comfort. Morning starts gliding through frosty Houlgate streets. By noon, museum visits are interspersed with warm drives. Afternoon is for exploring remote castles before darkness envelops the roads at 5 PM. Check your antifreeze and tire pressure before setting off today.",
+            "fr": "Une excursion en voiture hivernale permet de découvrir la beauté de la Normandie confortablement. La matinée commence à glisser dans les rues givrées d’Houlgate. À midi, les visites de musées alternent avec des trajets chauffés. L’après‑midi sert à explorer des châteaux isolés avant que l’obscurité n’enveloppe les routes vers 17h. Vérifiez votre antigel et la pression des pneus avant de partir aujourd’hui."
           },
           "stops": [
             {
@@ -869,13 +964,15 @@
                 "de": "Manège Chaignon",
                 "hu": "Manège Chaignon",
                 "ro": "Manège Chaignon",
-                "en": "Manège Chaignon"
+                "en": "Manège Chaignon",
+                "fr": "Manège Chaignon"
               },
               "tip_5lang": {
                 "de": "Das Karussell wirkt in der kalten Wintermorgenluft fast magisch; ideal für einen schnellen Fotostopp direkt vom Parkplatz aus.",
                 "hu": "A körhinta a hideg téli reggeli levegőben szinte varázslatos; ideális egy gyors fotómegállóhoz közvetlenül a parkolóból.",
                 "ro": "Caruselul pare aproape magic în aerul rece al dimineții de iarnă; ideal pentru o oprire foto rapidă direct din parcare.",
-                "en": "The carousel looks almost magical in the cold winter morning air; ideal for a quick photo stop directly from the parking lot."
+                "en": "The carousel looks almost magical in the cold winter morning air; ideal for a quick photo stop directly from the parking lot.",
+                "fr": "Le carrousel paraît presque magique dans l’air froid du matin d’hiver ; idéal pour une photo rapide depuis le parking."
               }
             },
             {
@@ -883,13 +980,15 @@
                 "de": "Galerie Port Guillaume",
                 "hu": "Galerie Port Guillaume",
                 "ro": "Galerie Port Guillaume",
-                "en": "Galerie Port Guillaume"
+                "en": "Galerie Port Guillaume",
+                "fr": "Galerie Port Guillaume"
               },
               "tip_5lang": {
                 "de": "Nutzen Sie die Galerie als warmen Rückzugsort zur Mittagszeit, während draußen der kalte Seewind weht.",
                 "hu": "Használd a galériát meleg menedékként a déli órákban, miközben kint a tenger felől fúj a jeges téli szél.",
                 "ro": "Folosiți galeria ca un refugiu cald la prânz, în timp ce afară suflă vântul înghețat de pe mare.",
-                "en": "Use the gallery as a warm retreat at midday while the cold sea wind blows outside along the port."
+                "en": "Use the gallery as a warm retreat at midday while the cold sea wind blows outside along the port.",
+                "fr": "Utilisez la galerie comme refuge chaud à midi pendant que le vent froid de mer souffle dehors le long du port."
               }
             },
             {
@@ -897,13 +996,15 @@
                 "de": "Rétro-musée des Sapeurs-Pompiers",
                 "hu": "Rétro-musée des Sapeurs-Pompiers",
                 "ro": "Rétro-musée des Sapeurs-Pompiers",
-                "en": "Rétro-musée des Sapeurs-Pompiers"
+                "en": "Rétro-musée des Sapeurs-Pompiers",
+                "fr": "Rétro-musée des Sapeurs-Pompiers"
               },
               "tip_5lang": {
                 "de": "Ein perfekt beheizter Ort, um in die Geschichte einzutauchen und die Kälte für eine Weile komplett zu vergessen.",
                 "hu": "Egy tökéletesen fűtött helyszín a történelemben való elmélyüléshez, ahol egy időre teljesen elfelejtheted a kinti hideget.",
                 "ro": "Un loc perfect încălzit pentru a explora istoria și pentru a uita complet de frigul de afară pentru o vreme.",
-                "en": "A perfectly heated location to dive into history and completely forget about the outside cold for a while."
+                "en": "A perfectly heated location to dive into history and completely forget about the outside cold for a while.",
+                "fr": "Un endroit parfaitement chauffé pour plonger dans l'histoire et oublier complètement le froid extérieur pendant un moment."
               }
             },
             {
@@ -911,13 +1012,15 @@
                 "de": "Manoir Saint-Cloud",
                 "hu": "Manoir Saint-Cloud",
                 "ro": "Manoir Saint-Cloud",
-                "en": "Manoir Saint-Cloud"
+                "en": "Manoir Saint-Cloud",
+                "fr": "Manoir Saint-Cloud"
               },
               "tip_5lang": {
                 "de": "Das Herrenhaus in der tiefstehenden Wintersonne zu sehen, ist ein Highlight; parken Sie so, dass Sie die Aussicht im Warmen genießen.",
                 "hu": "Az udvarház látványa az alacsonyan járó téli napfényben igazi fénypont; parkolj úgy, hogy a melegből élvezhesd a kilátást.",
                 "ro": "Conacul văzut în lumina joasă a soarelui de iarnă este superb; parcați astfel încât să vă bucurați de vedere de la căldură.",
-                "en": "Seeing the manor in the low winter sun is a highlight; park so you can enjoy the view from the warmth of your car."
+                "en": "Seeing the manor in the low winter sun is a highlight; park so you can enjoy the view from the warmth of your car.",
+                "fr": "Voir le manoir sous le faible soleil d'hiver est un moment fort ; garez-vous pour profiter de la vue depuis la chaleur de votre voiture."
               }
             },
             {
@@ -925,13 +1028,15 @@
                 "de": "Château de Sarlabot",
                 "hu": "Château de Sarlabot",
                 "ro": "Château de Sarlabot",
-                "en": "Château de Sarlabot"
+                "en": "Château de Sarlabot",
+                "fr": "Château de Sarlabot"
               },
               "tip_5lang": {
                 "de": "Besuchen Sie das Schloss vor 16:30 Uhr, um das letzte Tageslicht zu nutzen, bevor die winterliche Dunkelheit die Fahrt erschwert.",
                 "hu": "Látogasd meg a kastélyt 16:30 előtt, hogy kihasználd az utolsó fényeket, mielőtt a téli sötétség megnehezítené a vezetést.",
                 "ro": "Vizitați castelul înainte de 16:30 pentru a profita de ultima lumină, înainte ca întunericul să îngreuneze condusul.",
-                "en": "Visit the castle before 4:30 PM to catch the last daylight before winter darkness makes the return drive more challenging."
+                "en": "Visit the castle before 4:30 PM to catch the last daylight before winter darkness makes the return drive more challenging.",
+                "fr": "Visitez le château avant 16:30 pour profiter des dernières lueurs du jour avant que l'obscurité hivernale ne rende le retour plus difficile."
               }
             }
           ]

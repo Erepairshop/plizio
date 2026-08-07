@@ -21,7 +21,8 @@
             "de": "Belfried von Dreux",
             "hu": "Dreux-i harangtorony",
             "ro": "Clopotnița din Dreux",
-            "en": "Belfry of Dreux"
+            "en": "Belfry of Dreux",
+            "fr": "Beffroi de Dreux"
           },
           "coords": [
             1.36729,
@@ -36,7 +37,8 @@
             "de": "Bewundern Sie die Architektur dieses historischen Belfrieds am Platz und versuchen Sie zur vollen Stunde hier zu sein, um die Glocken zu hören.",
             "hu": "Csodálja meg a teret uraló történelmi harangtorony bonyolult építészetét, és próbáljon meg egész órára érkezni, hogy hallja a harangjátékot.",
             "ro": "Admirați arhitectura acestui turn istoric ce domină piața și încercați să ajungeți la oră fixă pentru a asculta sunetul melodios al clopotelor.",
-            "en": "Admire the intricate architecture of this historic belfry dominating the square, and try to arrive at the top of the hour to hear the bells chiming."
+            "en": "Admire the intricate architecture of this historic belfry dominating the square, and try to arrive at the top of the hour to hear the bells chiming.",
+            "fr": "Admirez l’architecture détaillée de ce beffroi historique dominant la place, et essayez d’arriver à l’heure sonnante pour entendre les cloches."
           }
         },
         {
@@ -44,7 +46,8 @@
             "de": "Kirche Saint-Pierre",
             "hu": "Saint-Pierre templom",
             "ro": "Biserica Saint-Pierre",
-            "en": "Saint-Pierre Church"
+            "en": "Saint-Pierre Church",
+            "fr": "Église Saint‑Pierre"
           },
           "coords": [
             1.36842,
@@ -59,7 +62,8 @@
             "de": "Bestaunen Sie die Glasfenster dieser majestätischen Kirche und treten Sie am frühen Morgen ein, um die lebhaftesten Lichtspiele zu erleben.",
             "hu": "Csodálja meg e fenséges templom látványos ólomüveg ablakait, és lépjen be kora reggel, hogy a legélénkebb fényviszonyok között láthassa őket.",
             "ro": "Minunați-vă de vitraliile spectaculoase ale acestei biserici și intrați dimineața devreme pentru a vă bucura de cele mai vibrante jocuri de lumini.",
-            "en": "Marvel at the spectacular stained glass windows of this majestic church, and step inside during the early morning for the most vibrant light displays."
+            "en": "Marvel at the spectacular stained glass windows of this majestic church, and step inside during the early morning for the most vibrant light displays.",
+            "fr": "Émerveillez‑vous devant les vitraux spectaculaires de cette église majestueuse, et entrez tôt le matin pour profiter des jeux de lumière les plus vibrants."
           }
         },
         {
@@ -67,7 +71,8 @@
             "de": "Museum für Kunst und Geschichte",
             "hu": "Művészeti és Történeti Múzeum",
             "ro": "Muzeul de Artă și Istorie",
-            "en": "Museum of Art and History"
+            "en": "Museum of Art and History",
+            "fr": "Musée d’Art et d’Histoire"
           },
           "coords": [
             1.368041,
@@ -82,7 +87,8 @@
             "de": "Erkunden Sie die in einer ehemaligen Kapelle untergebrachte Kunstsammlung und nehmen Sie sich die Zeit, am Eingang einen Audioguide auszuleihen.",
             "hu": "Fedezze fel a helyi művészeti gyűjteményt egy egykori kápolnában, és szánjon időt arra, hogy felvegyen egy ingyenes audioguide-ot a bejáratnál.",
             "ro": "Explorați o colecție bogată de artă locală într-o fostă capelă, luându-vă timp pentru a solicita un ghid audio gratuit de la intrarea muzeului.",
-            "en": "Explore a rich collection of local art and archaeological finds housed in a former chapel, taking time to pick up a free audio guide at the entrance."
+            "en": "Explore a rich collection of local art and archaeological finds housed in a former chapel, taking time to pick up a free audio guide at the entrance.",
+            "fr": "Explorez une riche collection d’art local et de trouvailles archéologiques dans une ancienne chapelle, en prenant le temps de récupérer un audioguide gratuit à l’entrée."
           }
         },
         {
@@ -90,7 +96,8 @@
             "de": "Königliche Domäne von Dreux",
             "hu": "Dreux-i Királyi Birtok",
             "ro": "Domeniul Regal din Dreux",
-            "en": "Royal Domain of Dreux"
+            "en": "Royal Domain of Dreux",
+            "fr": "Domaine Royal de Dreux"
           },
           "coords": [
             1.363479,
@@ -105,7 +112,8 @@
             "de": "Spazieren Sie durch die weitläufigen Anlagen dieses historischen königlichen Anwesens und tragen Sie bequeme Schuhe für die vielen Wanderwege.",
             "hu": "Sétáljon végig ennek a történelmi jelentőségű királyi birtoknak a tágas területein, és viseljen kényelmes cipőt a változatos ösvények bejárásához.",
             "ro": "Plimbați-vă pe domeniile vaste ale acestei proprietăți regale istorice, purtând încălțăminte confortabilă pentru a parcurge diversele alei.",
-            "en": "Wander through the sprawling grounds of this historically significant royal estate, wearing comfortable shoes to navigate the varied walking paths."
+            "en": "Wander through the sprawling grounds of this historically significant royal estate, wearing comfortable shoes to navigate the varied walking paths.",
+            "fr": "Parcourez les vastes jardins de ce domaine royal historiquement significatif, en portant des chaussures confortables pour emprunter les différents sentiers."
           }
         },
         {
@@ -113,7 +121,8 @@
             "de": "Königliche Kapelle von Dreux",
             "hu": "Dreux-i Királyi Kápolna",
             "ro": "Capela Regală din Dreux",
-            "en": "Royal Chapel of Dreux"
+            "en": "Royal Chapel of Dreux",
+            "fr": "Chapelle Royale de Dreux"
           },
           "coords": [
             1.363292,
@@ -128,7 +137,8 @@
             "de": "Entdecken Sie die atemberaubende neugotische Grabstätte der Familie Orleans und überprüfen Sie die begrenzten Besuchszeiten vor Ihrer Anreise.",
             "hu": "Fedezze fel az Orleans család lélegzetelállító neogótikus temetkezési helyét, és az utazás tervezése előtt mindenképpen ellenőrizze a nyitvatartást.",
             "ro": "Descoperiți locul de veci neogotic al familiei Orleans, asigurându-vă că verificați programul de vizitare restrâns înainte de a planifica vizita.",
-            "en": "Discover the breathtaking neo-Gothic burial place of the Orleans family, ensuring you check the restricted visiting hours before planning your trip."
+            "en": "Discover the breathtaking neo-Gothic burial place of the Orleans family, ensuring you check the restricted visiting hours before planning your trip.",
+            "fr": "Découvrez le lieu de sépulture néo‑gothique à couper le souffle de la famille d’Orléans, en vérifiant les horaires de visite restreints avant de planifier votre visite."
           }
         }
       ],
@@ -136,7 +146,8 @@
         "de": "Beginnen Sie den Morgen am Wahrzeichen, dem Belfried von Dreux, bevor Sie die Kirche Saint-Pierre bestaunen. Mittags lädt das Museum für Kunst und Geschichte zu einem tiefen Einblick in das Erbe ein. Am Nachmittag steigen Sie zur königlichen Domäne hinauf, um die Anlage zu erkunden. Beenden Sie den Abend an der prächtigen königlichen Kapelle und genießen Sie die großartige Architektur.",
         "hu": "Kezdje a reggelt az ikonikus dreux-i harangtoronnyal, majd csodálja meg a fenséges Saint-Pierre templomot. A dél a Helytörténeti Múzeumban kínál elmélyülést a helyi örökségben. Délután sétáljon fel a Királyi Birtokra, és fedezze fel a fenséges parkot. Zárja az estét a csodálatos Királyi Kápolnánál, átadva magát a lenyűgöző építészeti pompának a lemenő nap fényében.",
         "ro": "Începeți dimineața cu clopotnița emblematică din Dreux, înainte de a admira Biserica Saint-Pierre. La amiază, Muzeul de Artă și Istorie vă invită să explorați patrimoniul local. După-amiaza, urcați la Domeniul Regal din Dreux pentru a explora terenurile sale impunătoare. Încheiați seara la magnifica Capelă Regală, bucurându-vă de grandoarea arhitecturală unică.",
-        "en": "Begin your morning with the iconic Belfry of Dreux, setting a historical tone before marveling at the Saint-Pierre Church. Midday invites a deep dive into local heritage at the Museum of Art and History. In the afternoon, ascend to the Royal Domain of Dreux to explore its regal grounds. Conclude your evening at the magnificent Royal Chapel, soaking in the architectural grandeur."
+        "en": "Begin your morning with the iconic Belfry of Dreux, setting a historical tone before marveling at the Saint-Pierre Church. Midday invites a deep dive into local heritage at the Museum of Art and History. In the afternoon, ascend to the Royal Domain of Dreux to explore its regal grounds. Conclude your evening at the magnificent Royal Chapel, soaking in the architectural grandeur.",
+        "fr": "Commencez votre matinée par l’emblématique Beffroi de Dreux, pour un premier ton historique avant d’admirer l’église Saint‑Pierre. À midi, plongez dans le patrimoine local au Musée d’Art et d’Histoire. L’après‑midi, montez au Domaine Royal de Dreux pour explorer ses jardins. Concluez votre soirée à la magnifique Chapelle Royale, en vous imprégnant de la grandeur architecturale."
       },
       "variants": {
         "rainy": {
@@ -144,7 +155,8 @@
             "de": "Der Spaziergang beginnt im historischen Kern, wo die Arkaden und engen Gassen bei Regen einen gewissen Schutz bieten. Mittags ziehen wir uns in die prächtige Kirche und das Museum zurück, um trocken zu bleiben. Am Nachmittag erkunden wir das Schlossgelände mit festem Schuhwerk. Der Abend klingt in der Nähe der beleuchteten Denkmäler aus, während der Regen die Pflastersteine glänzen lässt.",
             "hu": "A séta a történelmi központban indul, ahol a szűk utcák némi védelmet nyújtanak. Délben a templom és a múzeum belső tereibe húzódunk a zápor elől. Délután a királyi birtok kertjeit járjuk be, amihez vízálló cipő javasolt a felázott utak miatt. Az este a kivilágított műemlékek közelében ér véget, miközben az eső csillogóvá teszi a macskaköveket, különleges hangulatot árasztva a városban.",
             "ro": "Plimbarea începe în centrul istoric, unde străzile înguste oferă oarecare protecție împotriva ploii. La prânz ne retragem în biserică și muzeu pentru a rămâne uscați. După-amiaza explorăm domeniul regal cu încălțăminte adecvată pentru potecile umede. Seara se încheie lângă monumentele iluminate, în timp ce ploaia face pavajul să strălucească, creând o atmosferă melancolică și elegantă.",
-            "en": "The walk begins in the historic core, where narrow streets offer some shelter from the drizzle. At noon, we retreat into the church and museum to stay dry while exploring. In the afternoon, we visit the royal domain gardens, requiring waterproof footwear for the soft paths. The evening concludes near the illuminated monuments, with the rain making the cobblestones glisten beautifully."
+            "en": "The walk begins in the historic core, where narrow streets offer some shelter from the drizzle. At noon, we retreat into the church and museum to stay dry while exploring. In the afternoon, we visit the royal domain gardens, requiring waterproof footwear for the soft paths. The evening concludes near the illuminated monuments, with the rain making the cobblestones glisten beautifully.",
+            "fr": "La promenade commence dans le cœur historique, où les ruelles étroites offrent un certain abri de la bruine. À midi, nous nous réfugions dans l’église et le musée pour rester au sec tout en explorant. L’après‑midi, nous visitons les jardins du domaine royal, nécessitant des chaussures imperméables pour les sentiers boueux. La soirée se termine près des monuments illuminés, la pluie faisant scintiller joliment les pavés."
           },
           "stops": [
             {
@@ -152,13 +164,15 @@
                 "de": "Belfried von Dreux",
                 "hu": "Dreux-i harangtorony",
                 "ro": "Clopotnița din Dreux",
-                "en": "Belfry of Dreux"
+                "en": "Belfry of Dreux",
+                "fr": "Beffroi de Dreux"
               },
               "tip_5lang": {
                 "de": "Bewundern Sie die gotische Architektur von unter den umliegenden Vordächern aus und achten Sie auf das glatte, nasse Kopfsteinpflaster auf dem Marktplatz.",
                 "hu": "Csodálja meg a gótikus tornyot a közeli árkádok alól, és ügyeljen a főtéren a vizes macskakövekre, amelyek esőben rendkívül csúszóssá válhatnak.",
                 "ro": "Admirați arhitectura gotică de sub arcadele din apropiere și aveți grijă la pavajul umed din piață, care poate deveni foarte alunecos pe ploaie.",
-                "en": "Admire the Gothic architecture from under the nearby shop awnings and watch your step on the wet cobblestones which become quite slippery in the rain."
+                "en": "Admire the Gothic architecture from under the nearby shop awnings and watch your step on the wet cobblestones which become quite slippery in the rain.",
+                "fr": "Admirez l’architecture gothique depuis les auvents des boutiques voisines et faites attention aux pavés mouillés qui deviennent très glissants sous la pluie."
               }
             },
             {
@@ -166,13 +180,15 @@
                 "de": "Kirche Saint-Pierre",
                 "hu": "Saint-Pierre templom",
                 "ro": "Biserica Saint-Pierre",
-                "en": "Saint-Pierre Church"
+                "en": "Saint-Pierre Church",
+                "fr": "Église Saint‑Pierre"
               },
               "tip_5lang": {
                 "de": "Diese Kirche ist der perfekte Ort, um einem Schauer zu entgehen; nutzen Sie die Zeit, um die beeindruckenden Glasmalereien in aller Ruhe im Trockenen zu betrachten.",
                 "hu": "A templom tökéletes menedék egy hirtelen zápor elől; használja ki az időt a lenyűgöző üvegablakok megtekintésére a száraz és csendes belső térben.",
                 "ro": "Biserica este refugiul perfect împotriva unei averse; profitați de timp pentru a studia vitraliile impresionante în liniștea și confortul interiorului uscat.",
-                "en": "The church is a perfect sanctuary from a sudden downpour; use this time to study the impressive stained glass windows in the dry and quiet interior."
+                "en": "The church is a perfect sanctuary from a sudden downpour; use this time to study the impressive stained glass windows in the dry and quiet interior.",
+                "fr": "L’église est un refuge parfait contre une averse soudaine ; profitez‑en pour étudier les vitraux impressionnants à l’intérieur, au sec et au calme."
               }
             },
             {
@@ -180,13 +196,15 @@
                 "de": "Museum für Kunst und Geschichte",
                 "hu": "Művészeti és Történeti Múzeum",
                 "ro": "Muzeul de Artă și Istorie",
-                "en": "Museum of Art and History"
+                "en": "Museum of Art and History",
+                "fr": "Musée d’Art et d’Histoire"
               },
               "tip_5lang": {
                 "de": "Ein idealer Stopp bei Regen, da die Ausstellungen komplett überdacht sind; deponieren Sie Ihren nassen Schirm am Eingang im Schirmständer.",
                 "hu": "Ideális megálló esős időben, mivel a kiállítások teljesen fedettek; a vizes esernyőket a bejáratnál található tartókban tudja biztonságosan hagyni.",
                 "ro": "O oprire ideală pe timp de ploaie, deoarece expozițiile sunt complet acoperite; lăsați umbrelele ude în suporturile speciale de la intrare.",
-                "en": "An ideal stop for rainy weather as the exhibits are fully indoors; you can leave your wet umbrellas in the stands provided at the entrance."
+                "en": "An ideal stop for rainy weather as the exhibits are fully indoors; you can leave your wet umbrellas in the stands provided at the entrance.",
+                "fr": "Une halte idéale par temps de pluie car les expositions sont entièrement en intérieur ; vous pouvez laisser vos parapluies mouillés dans les porte‑parapluies prévus à l’entrée."
               }
             },
             {
@@ -194,13 +212,15 @@
                 "de": "Königliche Domäne von Dreux",
                 "hu": "Dreux-i Királyi Birtok",
                 "ro": "Domeniul Regal din Dreux",
-                "en": "Royal Domain of Dreux"
+                "en": "Royal Domain of Dreux",
+                "fr": "Domaine Royal de Dreux"
               },
               "tip_5lang": {
                 "de": "Die Parkwege können bei Regen schlammig sein, bleiben Sie auf den befestigten Pfaden und genießen Sie den dramatischen Blick auf das Schloss im Nebel.",
                 "hu": "A park ösvényei esőben sárosak lehetnek, ezért maradjon a kövezett utakon, és élvezze a ködben úszó kastély misztikus és drámai látványát.",
                 "ro": "Aleile parcului pot fi noroioase, deci rămâneți pe potecile pavate și bucurați-vă de vederea dramatică a castelului învăluit în ceață și ploaie.",
-                "en": "The park paths can get muddy, so stick to the paved routes and enjoy the dramatic view of the castle shrouded in mist and rain."
+                "en": "The park paths can get muddy, so stick to the paved routes and enjoy the dramatic view of the castle shrouded in mist and rain.",
+                "fr": "Les allées du parc peuvent devenir boueuses, restez donc sur les chemins pavés et profitez de la vue dramatique du château enveloppé de brume et de pluie."
               }
             },
             {
@@ -208,13 +228,15 @@
                 "de": "Königliche Kapelle von Dreux",
                 "hu": "Dreux-i Királyi Kápolna",
                 "ro": "Capela Regală din Dreux",
-                "en": "Royal Chapel of Dreux"
+                "en": "Royal Chapel of Dreux",
+                "fr": "Chapelle Royale de Dreux"
               },
               "tip_5lang": {
                 "de": "Im Inneren sind Sie vor dem Wetter geschützt; die gedämpfte Lichtstimmung bei Regen lässt die prächtigen Grabmäler besonders feierlich wirken.",
                 "hu": "A belső térben védve lesz az időjárástól; az esős időben beszűrődő szórt fény különlegesen ünnepélyes hangulatot kölcsönöz a síremlékeknek.",
                 "ro": "Interiorul vă protejează de intemperii; lumina difuză de afară oferă monumentelor funerare o atmosferă solemnă și profundă în timpul ploii.",
-                "en": "Inside you are fully protected from the elements; the muted natural light during rain gives the royal tombs a particularly solemn atmosphere."
+                "en": "Inside you are fully protected from the elements; the muted natural light during rain gives the royal tombs a particularly solemn atmosphere.",
+                "fr": "À l’intérieur, vous êtes complètement abrité des éléments ; la lumière naturelle tamisée par la pluie confère aux tombeaux royaux une atmosphère particulièrement solennelle."
               }
             }
           ]
@@ -224,7 +246,8 @@
             "de": "Der Wintermorgen in Dreux ist frisch; wir starten am Belfried und wärmen uns schnell in der nahen Kirche auf. Mittags bietet das Museum eine angenehm temperierte Pause. Da die Sonne bereits gegen 17:00 Uhr untergeht, besuchen wir das Schlossgelände am frühen Nachmittag. Der Tag endet mit einem Spaziergang durch die festlich beleuchtete Altstadt, bevor die Kälte zu intensiv wird.",
             "hu": "A téri reggel friss és csípős; a harangtoronynál kezdünk, majd gyorsan felmelegszünk a közeli templomban. Délben a múzeum fűtött terei nyújtanak pihenőt. Mivel a nap korán, 17:00 körül nyugszik, a királyi birtokot kora délután látogatjuk meg. A napot a díszesen kivilágított óvárosi séta zárja, mielőtt a téli hideg igazán felerősödne az esti órákban.",
             "ro": "Dimineața de iarnă este rece; începem la clopotniță și ne încălzim rapid în biserica din apropiere. La prânz, muzeul oferă un refugiu călduros. Deoarece soarele apune devreme, în jur de ora 17:00, vizităm domeniul regal la prima oră a după-amiezii. Ziua se încheie cu o plimbare prin centrul vechi iluminat festiv, înainte ca frigul serii să se intensifice.",
-            "en": "The winter morning is crisp; we start at the belfry and quickly warm up in the nearby church. At noon, the museum provides a heated break. Since the sun sets early around 5 PM, we visit the royal domain in the early afternoon. The day ends with a stroll through the festively lit old town before the winter chill becomes too biting in the evening."
+            "en": "The winter morning is crisp; we start at the belfry and quickly warm up in the nearby church. At noon, the museum provides a heated break. Since the sun sets early around 5 PM, we visit the royal domain in the early afternoon. The day ends with a stroll through the festively lit old town before the winter chill becomes too biting in the evening.",
+            "fr": "La matinée hivernale est fraîche ; nous commençons au beffroi et nous réchauffons rapidement dans l’église voisine. À midi, le musée offre une pause chauffée. Comme le soleil se couche tôt vers 17h, nous visitons le domaine royal en début d’après‑midi. La journée se termine par une promenade dans la vieille ville illuminée avant que le froid hivernal ne devienne trop mordant le soir."
           },
           "stops": [
             {
@@ -232,13 +255,15 @@
                 "de": "Belfried von Dreux",
                 "hu": "Dreux-i harangtorony",
                 "ro": "Clopotnița din Dreux",
-                "en": "Belfry of Dreux"
+                "en": "Belfry of Dreux",
+                "fr": "Beffroi de Dreux"
               },
               "tip_5lang": {
                 "de": "Der zugige Platz kann im Winter sehr kalt sein; tragen Sie eine winddichte Jacke, während Sie die Details der Fassade kurz im Freien bewundern.",
                 "hu": "A huzatos főtér télen nagyon hideg lehet; viseljen szélálló kabátot, miközben rövid ideig a szabadban csodálja a homlokzat részleteit.",
                 "ro": "Piața poate fi foarte rece iarna din cauza vântului; purtați o jachetă rezistentă în timp ce admirați detaliile fațadei în aer liber.",
-                "en": "The open square can be very cold in winter; wear a windproof jacket while spending time outdoors to admire the facade's details."
+                "en": "The open square can be very cold in winter; wear a windproof jacket while spending time outdoors to admire the facade's details.",
+                "fr": "La place ouverte peut être très froide en hiver ; portez une veste coupe‑vent lors des temps passés à l’extérieur pour admirer les détails de la façade."
               }
             },
             {
@@ -246,13 +271,15 @@
                 "de": "Kirche Saint-Pierre",
                 "hu": "Saint-Pierre templom",
                 "ro": "Biserica Saint-Pierre",
-                "en": "Saint-Pierre Church"
+                "en": "Saint-Pierre Church",
+                "fr": "Église Saint‑Pierre"
               },
               "tip_5lang": {
                 "de": "Die dicken Steinmauern halten die Kälte, aber es ist windstill; ein ruhiger Ort für Besinnung, sofern Sie warme Kleidung für das Stehen tragen.",
                 "hu": "A vastag kőfalak tartják a hideget, de a szél nem fúj be; nyugodt hely az elmélyülésre, ha rétegesen öltözött a hosszasabb ácsorgáshoz.",
                 "ro": "Zidurile groase de piatră mențin frigul, dar interiorul este ferit de vânt; un loc liniștit, cu condiția să aveți haine groase pentru vizită.",
-                "en": "The thick stone walls hold the cold, but it remains windless inside; a peaceful place if you are wearing warm layers for standing still."
+                "en": "The thick stone walls hold the cold, but it remains windless inside; a peaceful place if you are wearing warm layers for standing still.",
+                "fr": "Les épaisses murailles de pierre gardent le froid, mais l’intérieur est sans vent ; un lieu paisible si vous portez des couches chaudes pour rester immobile."
               }
             },
             {
@@ -260,13 +287,15 @@
                 "de": "Museum für Kunst und Geschichte",
                 "hu": "Művészeti és Történeti Múzeum",
                 "ro": "Muzeul de Artă și Istorie",
-                "en": "Museum of Art and History"
+                "en": "Museum of Art and History",
+                "fr": "Musée d’Art et d’Histoire"
               },
               "tip_5lang": {
                 "de": "Nutzen Sie diesen beheizten Ort, um Ihre Batterien aufzuwärmen; die Wintersonne fällt oft in einem schönen, flachen Winkel durch die Fenster.",
                 "hu": "Használja ki ezt a fűtött helyszínt a felmelegedésre; a téli nap alacsony szögből beeső fénye gyakran gyönyörűen világítja meg a benti tárlatokat.",
                 "ro": "Profitați de acest spațiu încălzit pentru a vă dezmorți; soarele de iarnă creează adesea un joc de lumină superb prin ferestrele muzeului.",
-                "en": "Take advantage of this heated indoor space to warm up; the winter sun often hits the exhibits at a beautiful low angle through the windows."
+                "en": "Take advantage of this heated indoor space to warm up; the winter sun often hits the exhibits at a beautiful low angle through the windows.",
+                "fr": "Profitez de cet espace chauffé pour vous réchauffer ; le soleil hivernal frappe souvent les expositions sous un bel angle bas à travers les fenêtres."
               }
             },
             {
@@ -274,13 +303,15 @@
                 "de": "Königliche Domäne von Dreux",
                 "hu": "Dreux-i Királyi Birtok",
                 "ro": "Domeniul Regal din Dreux",
-                "en": "Royal Domain of Dreux"
+                "en": "Royal Domain of Dreux",
+                "fr": "Domaine Royal de Dreux"
               },
               "tip_5lang": {
                 "de": "Kommen Sie vor 15:30 Uhr an, um das Tageslicht zu nutzen; die kahlen Bäume geben den Blick auf die Architektur des Schlosses besser frei.",
                 "hu": "Érkezzen 15:30 előtt, hogy kihasználja a maradék nappali fényt; a lomb nélküli fák között télen sokkal jobban látható a kastély építészete.",
                 "ro": "Sosiți înainte de ora 15:30 pentru a profita de lumina zilei; arborii desfrunziți permit o vizibilitate mai bună asupra arhitecturii castelului.",
-                "en": "Arrive before 3:30 PM to make the most of the daylight; the bare trees offer much clearer views of the castle's grand architecture."
+                "en": "Arrive before 3:30 PM to make the most of the daylight; the bare trees offer much clearer views of the castle's grand architecture.",
+                "fr": "Arrivez avant 15h30 pour profiter au maximum de la lumière du jour ; les arbres dépouillés offrent des vues beaucoup plus nettes sur l’architecture grandiose du château."
               }
             },
             {
@@ -288,13 +319,15 @@
                 "de": "Königliche Kapelle von Dreux",
                 "hu": "Dreux-i Királyi Kápolna",
                 "ro": "Capela Regală din Dreux",
-                "en": "Royal Chapel of Dreux"
+                "en": "Royal Chapel of Dreux",
+                "fr": "Chapelle Royale de Dreux"
               },
               "tip_5lang": {
                 "de": "Prüfen Sie die kürzeren Winteröffnungszeiten vorab; die Stille der Grabkapelle wirkt in der kalten Jahreszeit besonders ehrfürchtig.",
                 "hu": "Indulás előtt ellenőrizze a rövidített téli nyitvatartást; a sírkápolna csendje a hideg évszakban még tiszteletparancsolóbbnak hat.",
                 "ro": "Verificați programul redus de iarnă înainte de vizită; liniștea capelei funerare pare și mai solemnă în atmosfera rece a anotimpului.",
-                "en": "Check the shorter winter opening hours in advance; the silence of the funerary chapel feels even more awe-inspiring in the cold season."
+                "en": "Check the shorter winter opening hours in advance; the silence of the funerary chapel feels even more awe-inspiring in the cold season.",
+                "fr": "Vérifiez à l’avance les horaires d’ouverture réduits en hiver ; le silence de la chapelle funéraire est encore plus impressionnant en saison froide."
               }
             }
           ]
@@ -314,7 +347,8 @@
             "de": "Belfried von Dreux",
             "hu": "Dreux-i harangtorony",
             "ro": "Clopotnița din Dreux",
-            "en": "Belfry of Dreux"
+            "en": "Belfry of Dreux",
+            "fr": "Beffroi de Dreux"
           },
           "coords": [
             1.36729,
@@ -329,7 +363,8 @@
             "de": "Bewundern Sie die Architektur dieses historischen Belfrieds am Platz und versuchen Sie zur vollen Stunde hier zu sein, um die Glocken zu hören.",
             "hu": "Csodálja meg a teret uraló történelmi harangtorony bonyolult építészetét, és próbáljon meg egész órára érkezni, hogy hallja a harangjátékot.",
             "ro": "Admirați arhitectura acestui turn istoric ce domină piața și încercați să ajungeți la oră fixă pentru a asculta sunetul melodios al clopotelor.",
-            "en": "Admire the intricate architecture of this historic belfry dominating the square, and try to arrive at the top of the hour to hear the bells chiming."
+            "en": "Admire the intricate architecture of this historic belfry dominating the square, and try to arrive at the top of the hour to hear the bells chiming.",
+            "fr": "Admirez l’architecture détaillée de ce beffroi historique dominant la place, et essayez d’arriver à l’heure sonnante pour entendre les cloches."
           }
         },
         {
@@ -337,7 +372,8 @@
             "de": "Kirche Saint-Pierre",
             "hu": "Saint-Pierre templom",
             "ro": "Biserica Saint-Pierre",
-            "en": "Saint-Pierre Church"
+            "en": "Saint-Pierre Church",
+            "fr": "Église Saint‑Pierre"
           },
           "coords": [
             1.36842,
@@ -352,7 +388,8 @@
             "de": "Bestaunen Sie die Glasfenster dieser majestätischen Kirche und treten Sie am frühen Morgen ein, um die lebhaftesten Lichtspiele zu erleben.",
             "hu": "Csodálja meg e fenséges templom látványos ólomüveg ablakait, és lépjen be kora reggel, hogy a legélénkebb fényviszonyok között láthassa őket.",
             "ro": "Minunați-vă de vitraliile spectaculoase ale acestei biserici și intrați dimineața devreme pentru a vă bucura de cele mai vibrante jocuri de lumini.",
-            "en": "Marvel at the spectacular stained glass windows of this majestic church, and step inside during the early morning for the most vibrant light displays."
+            "en": "Marvel at the spectacular stained glass windows of this majestic church, and step inside during the early morning for the most vibrant light displays.",
+            "fr": "Émerveillez‑vous devant les vitraux spectaculaires de cette église majestueuse, et entrez tôt le matin pour profiter des jeux de lumière les plus vibrants."
           }
         },
         {
@@ -360,7 +397,8 @@
             "de": "Museum für Kunst und Geschichte",
             "hu": "Művészeti és Történeti Múzeum",
             "ro": "Muzeul de Artă și Istorie",
-            "en": "Museum of Art and History"
+            "en": "Museum of Art and History",
+            "fr": "Musée d’Art et d’Histoire"
           },
           "coords": [
             1.368041,
@@ -375,7 +413,8 @@
             "de": "Erkunden Sie die in einer ehemaligen Kapelle untergebrachte Kunstsammlung und nehmen Sie sich die Zeit, am Eingang einen Audioguide auszuleihen.",
             "hu": "Fedezze fel a helyi művészeti gyűjteményt egy egykori kápolnában, és szánjon időt arra, hogy felvegyen egy ingyenes audioguide-ot a bejáratnál.",
             "ro": "Explorați o colecție bogată de artă locală într-o fostă capelă, luându-vă timp pentru a solicita un ghid audio gratuit de la intrarea muzeului.",
-            "en": "Explore a rich collection of local art and archaeological finds housed in a former chapel, taking time to pick up a free audio guide at the entrance."
+            "en": "Explore a rich collection of local art and archaeological finds housed in a former chapel, taking time to pick up a free audio guide at the entrance.",
+            "fr": "Explorez une riche collection d’art local et de trouvailles archéologiques dans une ancienne chapelle, en prenant le temps de récupérer un audioguide gratuit à l’entrée."
           }
         },
         {
@@ -383,7 +422,8 @@
             "de": "Königliche Domäne von Dreux",
             "hu": "Dreux-i Királyi Birtok",
             "ro": "Domeniul Regal din Dreux",
-            "en": "Royal Domain of Dreux"
+            "en": "Royal Domain of Dreux",
+            "fr": "Domaine Royal de Dreux"
           },
           "coords": [
             1.363479,
@@ -398,7 +438,8 @@
             "de": "Spazieren Sie durch die weitläufigen Anlagen dieses historischen königlichen Anwesens und tragen Sie bequeme Schuhe für die vielen Wanderwege.",
             "hu": "Sétáljon végig ennek a történelmi jelentőségű királyi birtoknak a tágas területein, és viseljen kényelmes cipőt a változatos ösvények bejárásához.",
             "ro": "Plimbați-vă pe domeniile vaste ale acestei proprietăți regale istorice, purtând încălțăminte confortabilă pentru a parcurge diversele alei.",
-            "en": "Wander through the sprawling grounds of this historically significant royal estate, wearing comfortable shoes to navigate the varied walking paths."
+            "en": "Wander through the sprawling grounds of this historically significant royal estate, wearing comfortable shoes to navigate the varied walking paths.",
+            "fr": "Parcourez les vastes jardins de ce domaine royal historiquement significatif, en portant des chaussures confortables pour emprunter les différents sentiers."
           }
         },
         {
@@ -406,7 +447,8 @@
             "de": "Königliche Kapelle von Dreux",
             "hu": "Dreux-i Királyi Kápolna",
             "ro": "Capela Regală din Dreux",
-            "en": "Royal Chapel of Dreux"
+            "en": "Royal Chapel of Dreux",
+            "fr": "Chapelle Royale de Dreux"
           },
           "coords": [
             1.363292,
@@ -421,7 +463,8 @@
             "de": "Entdecken Sie die atemberaubende neugotische Grabstätte der Familie Orleans und überprüfen Sie die begrenzten Besuchszeiten vor Ihrer Anreise.",
             "hu": "Fedezze fel az Orleans család lélegzetelállító neogótikus temetkezési helyét, és az utazás tervezése előtt mindenképpen ellenőrizze a nyitvatartást.",
             "ro": "Descoperiți locul de veci neogotic al familiei Orleans, asigurându-vă că verificați programul de vizitare restrâns înainte de a planifica vizita.",
-            "en": "Discover the breathtaking neo-Gothic burial place of the Orleans family, ensuring you check the restricted visiting hours before planning your trip."
+            "en": "Discover the breathtaking neo-Gothic burial place of the Orleans family, ensuring you check the restricted visiting hours before planning your trip.",
+            "fr": "Découvrez le lieu de sépulture néo‑gothique à couper le souffle de la famille d’Orléans, en vérifiant les horaires de visite restreints avant de planifier votre visite."
           }
         },
         {
@@ -429,7 +472,8 @@
             "de": "Le Moulin de la Latte",
             "hu": "Le Moulin de la Latte",
             "ro": "Le Moulin de la Latte",
-            "en": "Le Moulin de la Latte"
+            "en": "Le Moulin de la Latte",
+            "fr": "Le Moulin de la Latte"
           },
           "coords": [
             1.396377,
@@ -444,7 +488,8 @@
             "de": "Genießen Sie einen friedlichen Rückzugsort an diesem malerischen Naturort am Wasser, der sich perfekt für ein kleines Picknick in der Natur eignet.",
             "hu": "Élvezze a békés elvonulást ezen a festői, vízparti természeti helyen, amely tökéletes egy kis piknikkosár hozatalához és a csendes kikapcsolódáshoz.",
             "ro": "Bucurați-vă de o retragere pașnică în acest loc natural pitoresc de lângă apă, ideal pentru un picnic relaxant, departe de zgomotul vieții urbane.",
-            "en": "Enjoy a peaceful retreat at this scenic natural spot by the water, perfect for bringing a small picnic basket and relaxing away from the urban noise."
+            "en": "Enjoy a peaceful retreat at this scenic natural spot by the water, perfect for bringing a small picnic basket and relaxing away from the urban noise.",
+            "fr": "Profitez d’une retraite paisible à ce lieu naturel pittoresque au bord de l’eau, parfait pour apporter un petit panier‑repas et se détendre loin du bruit urbain."
           }
         }
       ],
@@ -452,7 +497,8 @@
         "de": "Beginnen Sie Ihre Radtour im Zentrum mit dem historischen Belfried und der Kirche Saint-Pierre. Ihr Mittag wird durch einen Besuch im Kunstmuseum kulturell bereichert. Nach dem Mittagessen radeln Sie zur königlichen Domäne und zur königlichen Kapelle. Beenden Sie Ihren aktiven Tag mit einer Fahrt zum Le Moulin de la Latte, wo Sie einen ruhigen Abend direkt am Wasser verbringen können.",
         "hu": "Kezdje kerékpártúráját a központban a harangtoronnyal és a Saint-Pierre templommal. A déli pihenőt a Helytörténeti Múzeum kulturális élményei teszik teljessé. Ebéd után tekerjen fel a Királyi Birtokhoz és a lenyűgöző Királyi Kápolnához. Fejezze be az aktív napot a Le Moulin de la Latte felé vezető úton, élvezve a békés és csendes kora estét a festői vízpart közelében.",
         "ro": "Începeți turul cu bicicleta în centru, vizitând clopotnița și Biserica Saint-Pierre. Pauza de prânz va fi îmbogățită cultural la Muzeul de Artă și Istorie. După masă, pedalați spre Domeniul Regal și Capela Regală din Dreux. Încheiați-vă ziua activă mergând spre Le Moulin de la Latte, unde vă puteți bucura de o seară liniștită în mijlocul naturii, lângă apele limpezi.",
-        "en": "Kick off your cycling tour in the city center with the historic Belfry and the intricate Saint-Pierre Church. Your midday break will be culturally enriched by a visit to the Museum of Art and History. Post-lunch, pedal uphill to the Royal Domain and the stunning Royal Chapel of Dreux. Finish your active day by riding out to Le Moulin de la Latte, enjoying a serene evening by the water."
+        "en": "Kick off your cycling tour in the city center with the historic Belfry and the intricate Saint-Pierre Church. Your midday break will be culturally enriched by a visit to the Museum of Art and History. Post-lunch, pedal uphill to the Royal Domain and the stunning Royal Chapel of Dreux. Finish your active day by riding out to Le Moulin de la Latte, enjoying a serene evening by the water.",
+        "fr": "Lancez votre circuit à vélo au centre‑ville avec l’historique Beffroi et la détaillée Église Saint‑Pierre. La pause de midi sera enrichie culturellement par une visite au Musée d’Art et d’Histoire. Après le déjeuner, grimpez en direction du Domaine Royal et de la superbe Chapelle Royale de Dreux. Terminez votre journée active en rejoignant Le Moulin de la Latte pour une soirée sereine au bord de l’eau."
       },
       "variants": {
         "rainy": {
@@ -460,7 +506,8 @@
             "de": "Die Radtour führt durch das nasse Dreux, wobei wir auf den rutschigen Straßen Vorsicht walten lassen. Vormittags nutzen wir die Museen als trockene Etappenziele. Mittags radeln wir durch den Regen zum Moulin de la Latte, was gute Regenbekleidung erfordert. Die Route bietet trotz der Nässe schöne Ausblicke auf die Flusslandschaft, die im Regen eine mystische Aura bekommt.",
             "hu": "A kerékpártúra a vizes Dreux utcáin halad, fokozott figyelemmel a csúszós útfelületekre. Délelőtt a múzeumokat használjuk száraz pihenőpontként. Délben az esőben tekerünk ki a Moulin de la Latte-hoz, amihez elengedhetetlen a teljes esőfelszerelés. Az útvonal a nedvesség ellenére szép kilátást nyújt a folyópartra, amely ilyenkor misztikus és párás arcát mutatja.",
             "ro": "Turul cu bicicleta traversează orașul ud, necesitând prudență maximă pe carosabilul alunecos. Dimineața folosim muzeele ca puncte de oprire uscate. La prânz pedalăm prin ploaie spre Moulin de la Latte, deci echipamentul impermeabil este esențial. Traseul oferă vederi frumoase spre râu, care capătă o aură mistică sub cerul înnorat și ploaie.",
-            "en": "The bike tour crosses wet Dreux, requiring extra caution on the slippery road surfaces. In the morning, we use museums as dry waypoints between rides. At noon, we cycle through the rain to Moulin de la Latte, making full waterproof gear essential. Despite the wetness, the route offers lovely views of the river landscape, which takes on a mystical aura."
+            "en": "The bike tour crosses wet Dreux, requiring extra caution on the slippery road surfaces. In the morning, we use museums as dry waypoints between rides. At noon, we cycle through the rain to Moulin de la Latte, making full waterproof gear essential. Despite the wetness, the route offers lovely views of the river landscape, which takes on a mystical aura.",
+            "fr": "La sortie à vélo traverse un Dreux humide, nécessitant une prudence accrue sur les chaussées glissantes. Le matin, nous utilisons les musées comme points d’étape secs entre les trajets. À midi, nous roulons sous la pluie jusqu’au Moulin de la Latte, rendant l’équipement imperméable indispensable. Malgré l’humidité, l’itinéraire offre de jolies vues du paysage fluvial, qui prend une aura mystique."
           },
           "stops": [
             {
@@ -468,13 +515,15 @@
                 "de": "Belfried von Dreux",
                 "hu": "Dreux-i harangtorony",
                 "ro": "Clopotnița din Dreux",
-                "en": "Belfry of Dreux"
+                "en": "Belfry of Dreux",
+                "fr": "Beffroi de Dreux"
               },
               "tip_5lang": {
                 "de": "Achten Sie beim Abstellen des Rades auf den nassen Untergrund; die glatten Steine am Turmfuß sind für Fahrradschuhe besonders tückisch.",
                 "hu": "A kerékpár leparkolásakor figyeljen a vizes talajra; a torony lábánál lévő sima kövek kerékpáros cipőben rendkívül csalókák és csúszósak.",
                 "ro": "Atenție la parcarea bicicletei pe solul ud; pietrele lucioase de la baza turnului pot fi foarte înșelătoare pentru încălțămintea de ciclism.",
-                "en": "Watch your footing when parking your bike; the smooth stones at the base of the tower are particularly treacherous for cycling shoes when wet."
+                "en": "Watch your footing when parking your bike; the smooth stones at the base of the tower are particularly treacherous for cycling shoes when wet.",
+                "fr": "Faites attention où vous posez le pied en garan﻿geant votre vélo ; les pierres lisses à la base de la tour sont particulièrement traîtresses pour les chaussures de cyclisme quand elles sont mouillées."
               }
             },
             {
@@ -482,13 +531,15 @@
                 "de": "Kirche Saint-Pierre",
                 "hu": "Saint-Pierre templom",
                 "ro": "Biserica Saint-Pierre",
-                "en": "Saint-Pierre Church"
+                "en": "Saint-Pierre Church",
+                "fr": "Église Saint‑Pierre"
               },
               "tip_5lang": {
                 "de": "Nutzen Sie den Stopp für eine kurze Trockenpause; im Inneren können Sie sich aufwärmen, während draußen der Regen gegen die alten Mauern peitscht.",
                 "hu": "Használja ki a megállót egy rövid száradásra; odabent felmelegedhet, miközben kint az eső veri a régi falakat és a városi utcákat.",
                 "ro": "Folosiți această oprire pentru a vă usca puțin; vă puteți încălzi în interior în timp ce ploaia bate în zidurile vechi ale bisericii.",
-                "en": "Use this stop for a brief drying break; you can warm up inside while the rain beats against the ancient walls and city streets outside."
+                "en": "Use this stop for a brief drying break; you can warm up inside while the rain beats against the ancient walls and city streets outside.",
+                "fr": "Utilisez cet arrêt pour une courte pause de séchage ; vous pouvez vous réchauffer à l’intérieur pendant que la pluie frappe les murs anciens et les rues de la ville."
               }
             },
             {
@@ -496,13 +547,15 @@
                 "de": "Museum für Kunst und Geschichte",
                 "hu": "Művészeti és Történeti Múzeum",
                 "ro": "Muzeul de Artă și Istorie",
-                "en": "Museum of Art and History"
+                "en": "Museum of Art and History",
+                "fr": "Musée d’Art et d’Histoire"
               },
               "tip_5lang": {
                 "de": "Ein perfekter Ort, um das Rad kurz sicher im Regen stehen zu lassen und die überdachte Kultur zu genießen; achten Sie auf nasse Fliesen im Eingang.",
                 "hu": "Tökéletes hely, hogy a bringát rövid időre az esőben hagyva élvezze a fedett kultúrát; ügyeljen a bejáratnál a vizes, csúszós járólapokra.",
                 "ro": "Un loc perfect pentru a lăsa bicicleta și a vă bucura de cultură la adăpost; atenție la gresia umedă și alunecoasă de la intrarea în muzeu.",
-                "en": "A perfect place to leave your bike briefly and enjoy some indoor culture; be careful of the wet and slippery floor tiles at the entrance."
+                "en": "A perfect place to leave your bike briefly and enjoy some indoor culture; be careful of the wet and slippery floor tiles at the entrance.",
+                "fr": "Un endroit parfait pour laisser brièvement votre vélo et profiter de la culture en intérieur ; faites attention au carrelage mouillé et glissant à l’entrée."
               }
             },
             {
@@ -510,13 +563,15 @@
                 "de": "Königliche Domäne von Dreux",
                 "hu": "Dreux-i Királyi Birtok",
                 "ro": "Domeniul Regal din Dreux",
-                "en": "Royal Domain of Dreux"
+                "en": "Royal Domain of Dreux",
+                "fr": "Domaine Royal de Dreux"
               },
               "tip_5lang": {
                 "de": "Fahren Sie vorsichtig auf den Parkwegen, da Kies und Laub bei Nässe rutschig werden; Schutzbleche am Rad sind hier definitiv ein großer Vorteil.",
                 "hu": "Óvatosan tekerjen a park ösvényein, mert a kavics és a levelek vizesen csúsznak; a sárvédő használata ezen a szakaszon hatalmas előnyt jelent.",
                 "ro": "Pedalați cu grijă pe aleile parcului, deoarece pietrișul și frunzele ude alunecă; aripile la bicicletă sunt un mare avantaj în această zonă.",
-                "en": "Ride carefully on the park paths as wet gravel and leaves can be slippery; having mudguards on your bike is a major advantage on this section."
+                "en": "Ride carefully on the park paths as wet gravel and leaves can be slippery; having mudguards on your bike is a major advantage on this section.",
+                "fr": "Roulez prudemment sur les allées du parc car le gravier mouillé et les feuilles peuvent être glissants ; avoir des garde‑boue sur votre vélo est un grand avantage sur cette section."
               }
             },
             {
@@ -524,13 +579,15 @@
                 "de": "Königliche Kapelle von Dreux",
                 "hu": "Dreux-i Királyi Kápolna",
                 "ro": "Capela Regală din Dreux",
-                "en": "Royal Chapel of Dreux"
+                "en": "Royal Chapel of Dreux",
+                "fr": "Chapelle Royale de Dreux"
               },
               "tip_5lang": {
                 "de": "Der Aufstieg zum Hügel ist bei Regen anstrengender, aber die Aussicht oben entschädigt; parken Sie das Rad an einem geschützten Platz.",
                 "hu": "A dombra való feljutás esőben fárasztóbb, de a fenti kilátás kárpótolja; próbálja a kerékpárt egy védettebb ponton leparkolni a látogatás idejére.",
                 "ro": "Urcarea dealului este mai obositoare pe ploaie, dar vederea de sus merită efortul; parcați bicicleta într-un loc cât mai protejat.",
-                "en": "Cycling up the hill is more tiring in the rain, but the view from the top is rewarding; try to park your bike in a sheltered spot during the visit."
+                "en": "Cycling up the hill is more tiring in the rain, but the view from the top is rewarding; try to park your bike in a sheltered spot during the visit.",
+                "fr": "La montée est plus épuisante sous la pluie, mais la vue du sommet en vaut la peine ; essayez de garer votre vélo dans un endroit abrité pendant la visite."
               }
             },
             {
@@ -538,13 +595,15 @@
                 "de": "Le Moulin de la Latte",
                 "hu": "Le Moulin de la Latte",
                 "ro": "Le Moulin de la Latte",
-                "en": "Le Moulin de la Latte"
+                "en": "Le Moulin de la Latte",
+                "fr": "Le Moulin de la Latte"
               },
               "tip_5lang": {
                 "de": "Die Uferwege können überschwemmt oder sehr schlammig sein; prüfen Sie die Bodenbeschaffenheit, bevor Sie zu nah ans Wasser heranfahren.",
                 "hu": "A vízparti utak esőzés után sárosak vagy akár víz alá kerültek is lehetnek; ellenőrizze a talajt, mielőtt túl közel merészkedne a vízhez.",
                 "ro": "Potecile de pe malul apei pot fi noroioase sau inundate după ploaie; verificați solul înainte de a vă apropia prea mult de mal cu bicicleta.",
-                "en": "The riverside paths may be muddy or even flooded after heavy rain; check the ground conditions before cycling too close to the water's edge."
+                "en": "The riverside paths may be muddy or even flooded after heavy rain; check the ground conditions before cycling too close to the water's edge.",
+                "fr": "Les sentiers au bord de la rivière peuvent être boueux voire inondés après de fortes pluies ; vérifiez l’état du sol avant de pédaler trop près du bord de l’eau."
               }
             }
           ]
@@ -554,7 +613,8 @@
             "de": "Die winterliche Radtour erfordert warme Handschuhe gegen den Fahrtwind. Wir erkunden die Altstadt am Vormittag und nutzen die Museen zum Aufwärmen der Finger. Mittags führt die Route zum Moulin de la Latte, wo die kahle Natur eine klare Weitsicht ermöglicht. Wichtig ist, die Tour vor Einbruch der Dunkelheit gegen 17:00 Uhr zu beenden, da die Sicht auf den Radwegen abnimmt.",
             "hu": "A téli kerékpározáshoz elengedhetetlen a meleg kesztyű a menetszél ellen. Délelőtt az óvárost járjuk be, a múzeumi megállókat a kezünk felmelegítésére használjuk. Délben a Moulin de la Latte felé tekerünk, ahol a kopár természet tiszta kilátást enged. Fontos, hogy a túrát a 17:00 órai sötétedés előtt fejezzük be a biztonságos láthatóság érdekében.",
             "ro": "Ciclismul de iarnă necesită mănuși groase împotriva vântului rece. Dimineața explorăm centrul vechi, folosind muzeele pentru a ne încălzi mâinile. La prânz, traseul duce spre Moulin de la Latte, unde natura golașă oferă o vizibilitate clară. Este important să încheiați turul înainte de lăsarea întunericului, în jurul orei 17:00.",
-            "en": "Winter cycling requires warm gloves against the biting wind. We explore the old town in the morning, using museum stops to warm our hands. At noon, the route leads to Moulin de la Latte, where the bare landscape offers clear views. It is crucial to finish the tour before the 5 PM sunset for safe visibility on the cycle paths."
+            "en": "Winter cycling requires warm gloves against the biting wind. We explore the old town in the morning, using museum stops to warm our hands. At noon, the route leads to Moulin de la Latte, where the bare landscape offers clear views. It is crucial to finish the tour before the 5 PM sunset for safe visibility on the cycle paths.",
+            "fr": "Le vélo hivernal nécessite des gants chauds contre le vent mordant. Nous explorons la vieille ville le matin, en utilisant les musées pour réchauffer nos mains. À midi, l’itinéraire conduit au Moulin de la Latte, où le paysage dépouillé offre des vues dégagées. Il est crucial de terminer la sortie avant le coucher du soleil à 17h pour une bonne visibilité sur les pistes cyclables."
           },
           "stops": [
             {
@@ -562,13 +622,15 @@
                 "de": "Belfried von Dreux",
                 "hu": "Dreux-i harangtorony",
                 "ro": "Clopotnița din Dreux",
-                "en": "Belfry of Dreux"
+                "en": "Belfry of Dreux",
+                "fr": "Beffroi de Dreux"
               },
               "tip_5lang": {
                 "de": "Der Fahrtwind auf dem offenen Platz ist schneidend kalt; halten Sie nur kurz für ein Foto an und bewegen Sie sich dann zügig weiter.",
                 "hu": "A nyitott téren a menetszél metszően hideg lehet; csak egy gyors fotó erejéig álljon meg, majd induljon tovább, hogy mozgásban maradjon.",
                 "ro": "Vântul în piața deschisă poate fi tăios; opriți-vă doar scurt pentru o fotografie și continuați drumul pentru a vă menține căldura corporală.",
-                "en": "The wind across the open square can be piercingly cold; stop only briefly for a photo and keep moving to maintain your body heat."
+                "en": "The wind across the open square can be piercingly cold; stop only briefly for a photo and keep moving to maintain your body heat.",
+                "fr": "Le vent sur la place ouverte peut être perçantment froid ; arrêtez‑vous brièvement pour une photo et continuez à bouger pour conserver votre chaleur corporelle."
               }
             },
             {
@@ -576,13 +638,15 @@
                 "de": "Kirche Saint-Pierre",
                 "hu": "Saint-Pierre templom",
                 "ro": "Biserica Saint-Pierre",
-                "en": "Saint-Pierre Church"
+                "en": "Saint-Pierre Church",
+                "fr": "Église Saint‑Pierre"
               },
               "tip_5lang": {
                 "de": "Ein guter Ort, um den eisigen Wind auszusperren; die trockene Kälte im Inneren ist angenehmer als die feuchte Kälte draußen auf dem Rad.",
                 "hu": "Kiváló hely a jeges szél elöli menekülésre; a benti száraz hideg sokkal elviselhetőbb, mint a kinti nyirkos levegő a kerékpáron ülve.",
                 "ro": "Un loc excelent pentru a scăpa de vântul înghețat; frigul uscat din interior este mult mai suportabil decât umezeala de afară de pe bicicletă.",
-                "en": "A great place to escape the icy wind; the dry cold inside is much more bearable than the damp chill felt while cycling outdoors."
+                "en": "A great place to escape the icy wind; the dry cold inside is much more bearable than the damp chill felt while cycling outdoors.",
+                "fr": "Un excellent endroit pour échapper au vent glacé ; la froideur sèche à l’intérieur est bien plus supportable que l’humidité glaciale du cyclisme en extérieur."
               }
             },
             {
@@ -590,13 +654,15 @@
                 "de": "Museum für Kunst und Geschichte",
                 "hu": "Művészeti és Történeti Múzeum",
                 "ro": "Muzeul de Artă și Istorie",
-                "en": "Museum of Art and History"
+                "en": "Museum of Art and History",
+                "fr": "Musée d’Art et d’Histoire"
               },
               "tip_5lang": {
                 "de": "Die Wärme im Museum ist ein Segen für Radfahrer; nutzen Sie die Garderobe, um Ihre schwere Winterausrüstung während des Rundgangs abzulegen.",
                 "hu": "A múzeumi meleg áldás a kerékpárosoknak; használja a ruhatárat, hogy levegye a nehéz téli felszerelést a benti séta idejére.",
                 "ro": "Căldura din muzeu este o binecuvântare pentru bicicliști; folosiți garderoba pentru a lăsa echipamentul greu de iarnă în timpul vizitei.",
-                "en": "The museum's warmth is a blessing for cyclists; use the cloakroom to drop off your heavy winter gear while you tour the exhibits."
+                "en": "The museum's warmth is a blessing for cyclists; use the cloakroom to drop off your heavy winter gear while you tour the exhibits.",
+                "fr": "La chaleur du musée est une bénédiction pour les cyclistes ; utilisez le vestiaire pour laisser votre équipement hivernal encombrant pendant la visite des expositions."
               }
             },
             {
@@ -604,13 +670,15 @@
                 "de": "Königliche Domäne von Dreux",
                 "hu": "Dreux-i Királyi Birtok",
                 "ro": "Domeniul Regal din Dreux",
-                "en": "Royal Domain of Dreux"
+                "en": "Royal Domain of Dreux",
+                "fr": "Domaine Royal de Dreux"
               },
               "tip_5lang": {
                 "de": "Achten Sie auf Raureif oder überfrierende Nässe auf den schattigen Wegen des Parks; fahren Sie besonders langsam in den Kurven.",
                 "hu": "Ügyeljen a dérre vagy a felfagyásokra a park árnyékos ösvényein; a kanyarokban tekerjen lassabban a megcsúszás elkerülése végett.",
                 "ro": "Atenție la chiciură sau gheață pe aleile umbrite ale parcului; pedalați cu viteză redusă în curbe pentru a evita derapajele.",
-                "en": "Watch out for frost or black ice on the shaded park paths; ride particularly slowly through corners to avoid slipping on the frozen ground."
+                "en": "Watch out for frost or black ice on the shaded park paths; ride particularly slowly through corners to avoid slipping on the frozen ground.",
+                "fr": "Attention au gel ou au verglas sur les allées ombragées du parc ; roulez particulièrement lentement dans les virages pour éviter de glisser sur le sol gelé."
               }
             },
             {
@@ -618,13 +686,15 @@
                 "de": "Königliche Kapelle von Dreux",
                 "hu": "Dreux-i Királyi Kápolna",
                 "ro": "Capela Regală din Dreux",
-                "en": "Royal Chapel of Dreux"
+                "en": "Royal Chapel of Dreux",
+                "fr": "Chapelle Royale de Dreux"
               },
               "tip_5lang": {
                 "de": "Der Anstieg bringt den Kreislauf in Schwung, aber oben kühlt man schnell aus; ziehen Sie die Jacke sofort wieder zu, wenn Sie ankommen.",
                 "hu": "A felfelé tekerés felpezsdíti a keringést, de fent gyorsan lehűlhet; amint felért, azonnal húzza fel a cipzárt a kabátján.",
                 "ro": "Urcarea vă va încălzi, dar sus vă puteți răci rapid; închideți fermoarul jachetei imediat ce ați ajuns la destinație.",
-                "en": "The climb will get your blood flowing, but you'll cool down fast at the top; zip up your jacket immediately upon arrival to stay warm."
+                "en": "The climb will get your blood flowing, but you'll cool down fast at the top; zip up your jacket immediately upon arrival to stay warm.",
+                "fr": "La montée vous fera vous réchauffer, mais vous refroidirez vite au sommet ; remontez immédiatement votre fermeture éclair en arrivant pour rester au chaud."
               }
             },
             {
@@ -632,13 +702,15 @@
                 "de": "Le Moulin de la Latte",
                 "hu": "Le Moulin de la Latte",
                 "ro": "Le Moulin de la Latte",
-                "en": "Le Moulin de la Latte"
+                "en": "Le Moulin de la Latte",
+                "fr": "Le Moulin de la Latte"
               },
               "tip_5lang": {
                 "de": "Das Licht am Nachmittag ist im Winter oft klar und schön für Fotos der Mühle; beenden Sie den Aufenthalt, bevor es um 16:30 Uhr dämmert.",
                 "hu": "A délutáni fények télen gyakran nagyon tiszták és szépek a malom fotózásához; fejezze be a látogatást, mielőtt 16:30-kor szürkülni kezd.",
                 "ro": "Lumina de după-amiază este adesea foarte clară iarna, perfectă pentru fotografii; plecați înainte ca amurgul să se lase la ora 16:30.",
-                "en": "The afternoon light is often very crisp in winter, perfect for photos of the mill; wrap up your visit before dusk starts at 4:30 PM."
+                "en": "The afternoon light is often very crisp in winter, perfect for photos of the mill; wrap up your visit before dusk starts at 4:30 PM.",
+                "fr": "La lumière de l’après-midi est souvent très nette en hiver, parfaite pour des photos du moulin ; terminez votre visite avant que le crépuscule ne commence à 16h30."
               }
             }
           ]
@@ -658,7 +730,8 @@
             "de": "Museum für Kunst und Geschichte",
             "hu": "Művészeti és Történeti Múzeum",
             "ro": "Muzeul de Artă și Istorie",
-            "en": "Museum of Art and History"
+            "en": "Museum of Art and History",
+            "fr": "Musée d'Art et d'Histoire"
           },
           "coords": [
             1.368041,
@@ -673,7 +746,8 @@
             "de": "Erkunden Sie die in einer ehemaligen Kapelle untergebrachte Kunstsammlung und nehmen Sie sich die Zeit, am Eingang einen Audioguide auszuleihen.",
             "hu": "Fedezze fel a helyi művészeti gyűjteményt egy egykori kápolnában, és szánjon időt arra, hogy felvegyen egy ingyenes audioguide-ot a bejáratnál.",
             "ro": "Explorați o colecție bogată de artă locală într-o fostă capelă, luându-vă timp pentru a solicita un ghid audio gratuit de la intrarea muzeului.",
-            "en": "Explore a rich collection of local art and archaeological finds housed in a former chapel, taking time to pick up a free audio guide at the entrance."
+            "en": "Explore a rich collection of local art and archaeological finds housed in a former chapel, taking time to pick up a free audio guide at the entrance.",
+            "fr": "Explorez une riche collection d'art local et de trouvailles archéologiques hébergée dans une ancienne chapelle ; prenez le temps de récupérer un audioguide gratuit à l'entrée."
           }
         },
         {
@@ -681,7 +755,8 @@
             "de": "Belfried von Dreux",
             "hu": "Dreux-i harangtorony",
             "ro": "Clopotnița din Dreux",
-            "en": "Belfry of Dreux"
+            "en": "Belfry of Dreux",
+            "fr": "Beffroi de Dreux"
           },
           "coords": [
             1.36729,
@@ -696,7 +771,8 @@
             "de": "Bewundern Sie die Architektur dieses historischen Belfrieds am Platz und versuchen Sie zur vollen Stunde hier zu sein, um die Glocken zu hören.",
             "hu": "Csodálja meg a teret uraló történelmi harangtorony bonyolult építészetét, és próbáljon meg egész órára érkezni, hogy hallja a harangjátékot.",
             "ro": "Admirați arhitectura acestui turn istoric ce domină piața și încercați să ajungeți la oră fixă pentru a asculta sunetul melodios al clopotelor.",
-            "en": "Admire the intricate architecture of this historic belfry dominating the square, and try to arrive at the top of the hour to hear the bells chiming."
+            "en": "Admire the intricate architecture of this historic belfry dominating the square, and try to arrive at the top of the hour to hear the bells chiming.",
+            "fr": "Admirez l'architecture complexe de ce beffroi historique dominant la place, et essayez d'arriver à l'heure pleine pour entendre les cloches sonner."
           }
         },
         {
@@ -704,7 +780,8 @@
             "de": "Kirche Saint-Pierre",
             "hu": "Saint-Pierre templom",
             "ro": "Biserica Saint-Pierre",
-            "en": "Saint-Pierre Church"
+            "en": "Saint-Pierre Church",
+            "fr": "Église Saint-Pierre"
           },
           "coords": [
             1.36842,
@@ -719,7 +796,8 @@
             "de": "Bestaunen Sie die Glasfenster dieser majestätischen Kirche und treten Sie am frühen Morgen ein, um die lebhaftesten Lichtspiele zu erleben.",
             "hu": "Csodálja meg e fenséges templom látványos ólomüveg ablakait, és lépjen be kora reggel, hogy a legélénkebb fényviszonyok között láthassa őket.",
             "ro": "Minunați-vă de vitraliile spectaculoase ale acestei biserici și intrați dimineața devreme pentru a vă bucura de cele mai vibrante jocuri de lumini.",
-            "en": "Marvel at the spectacular stained glass windows of this majestic church, and step inside during the early morning for the most vibrant light displays."
+            "en": "Marvel at the spectacular stained glass windows of this majestic church, and step inside during the early morning for the most vibrant light displays.",
+            "fr": "Émerveillez-vous devant les spectaculaires vitraux de cette église majestueuse, et entrez dès le matin pour profiter des jeux de lumière les plus vibrants."
           }
         },
         {
@@ -727,7 +805,8 @@
             "de": "Königliche Domäne von Dreux",
             "hu": "Dreux-i Királyi Birtok",
             "ro": "Domeniul Regal din Dreux",
-            "en": "Royal Domain of Dreux"
+            "en": "Royal Domain of Dreux",
+            "fr": "Domaine Royal de Dreux"
           },
           "coords": [
             1.363479,
@@ -742,7 +821,8 @@
             "de": "Spazieren Sie durch die weitläufigen Anlagen dieses historischen königlichen Anwesens und tragen Sie bequeme Schuhe für die vielen Wanderwege.",
             "hu": "Sétáljon végig ennek a történelmi jelentőségű királyi birtoknak a tágas területein, és viseljen kényelmes cipőt a változatos ösvények bejárásához.",
             "ro": "Plimbați-vă pe domeniile vaste ale acestei proprietăți regale istorice, purtând încălțăminte confortabilă pentru a parcurge diversele alei.",
-            "en": "Wander through the sprawling grounds of this historically significant royal estate, wearing comfortable shoes to navigate the varied walking paths."
+            "en": "Wander through the sprawling grounds of this historically significant royal estate, wearing comfortable shoes to navigate the varied walking paths.",
+            "fr": "Promenez-vous dans les vastes jardins de ce domaine royal historiquement significatif ; portez des chaussures confortables pour emprunter les sentiers variés."
           }
         },
         {
@@ -750,7 +830,8 @@
             "de": "Königliche Kapelle von Dreux",
             "hu": "Dreux-i Királyi Kápolna",
             "ro": "Capela Regală din Dreux",
-            "en": "Royal Chapel of Dreux"
+            "en": "Royal Chapel of Dreux",
+            "fr": "Chapelle Royale de Dreux"
           },
           "coords": [
             1.363292,
@@ -765,7 +846,8 @@
             "de": "Entdecken Sie die atemberaubende neugotische Grabstätte der Familie Orleans und überprüfen Sie die begrenzten Besuchszeiten vor Ihrer Anreise.",
             "hu": "Fedezze fel az Orleans család lélegzetelállító neogótikus temetkezési helyét, és az utazás tervezése előtt mindenképpen ellenőrizze a nyitvatartást.",
             "ro": "Descoperiți locul de veci neogotic al familiei Orleans, asigurându-vă că verificați programul de vizitare restrâns înainte de a planifica vizita.",
-            "en": "Discover the breathtaking neo-Gothic burial place of the Orleans family, ensuring you check the restricted visiting hours before planning your trip."
+            "en": "Discover the breathtaking neo-Gothic burial place of the Orleans family, ensuring you check the restricted visiting hours before planning your trip.",
+            "fr": "Découvrez le lieu de sépulture néo-gothique à couper le souffle de la famille d'Orléans ; vérifiez les horaires d'accès restreints avant de planifier votre visite."
           }
         },
         {
@@ -773,7 +855,8 @@
             "de": "Le Moulin de la Latte",
             "hu": "Le Moulin de la Latte",
             "ro": "Le Moulin de la Latte",
-            "en": "Le Moulin de la Latte"
+            "en": "Le Moulin de la Latte",
+            "fr": "Le Moulin de la Latte"
           },
           "coords": [
             1.396377,
@@ -788,7 +871,8 @@
             "de": "Genießen Sie einen friedlichen Rückzugsort an diesem malerischen Naturort am Wasser, der sich perfekt für ein kleines Picknick in der Natur eignet.",
             "hu": "Élvezze a békés elvonulást ezen a festői, vízparti természeti helyen, amely tökéletes egy kis piknikkosár hozatalához és a csendes kikapcsolódáshoz.",
             "ro": "Bucurați-vă de o retragere pașnică în acest loc natural pitoresc de lângă apă, ideal pentru un picnic relaxant, departe de zgomotul vieții urbane.",
-            "en": "Enjoy a peaceful retreat at this scenic natural spot by the water, perfect for bringing a small picnic basket and relaxing away from the urban noise."
+            "en": "Enjoy a peaceful retreat at this scenic natural spot by the water, perfect for bringing a small picnic basket and relaxing away from the urban noise.",
+            "fr": "Profitez d'une retraite paisible à ce site naturel pittoresque au bord de l'eau, idéal pour un petit panier de pique-nique et un moment de détente loin du bruit urbain."
           }
         },
         {
@@ -796,7 +880,8 @@
             "de": "Wald von Dreux",
             "hu": "Dreux-i erdő",
             "ro": "Pădurea Dreux",
-            "en": "Dreux Forest"
+            "en": "Dreux Forest",
+            "fr": "Forêt de Dreux"
           },
           "coords": [
             1.41243,
@@ -811,7 +896,8 @@
             "de": "Tauchen Sie ein in die Ruhe dieses weitläufigen Waldgebiets und halten Sie eine Offline-Karte bereit, da der Handyempfang hier lückenhaft sein kann.",
             "hu": "Merüljön el ennek a hatalmas erdőrezervátumnak a nyugalmában, és tartson kéznél egy offline térképet, mivel a mobilszolgáltatás néhol akadozhat.",
             "ro": "Cufundați-vă în liniștea acestei rezervații forestiere extinse, păstrând la îndemână o hartă offline, deoarece semnalul mobil poate fi neregulat.",
-            "en": "Immerse yourself in the tranquility of this expansive forest reserve, keeping an offline map handy as mobile service can be patchy in certain areas."
+            "en": "Immerse yourself in the tranquility of this expansive forest reserve, keeping an offline map handy as mobile service can be patchy in certain areas.",
+            "fr": "Imprégnez-vous de la tranquillité de cette vaste réserve forestière ; gardez une carte hors ligne à portée de main car le réseau mobile peut être irrégulier par endroits."
           }
         }
       ],
@@ -819,7 +905,8 @@
         "de": "Ihre Autotour beginnt bequem am Kunstmuseum, bevor ein kurzer Spaziergang Sie zum Belfried und zur Kirche Saint-Pierre führt. Der Nachmittag bringt Sie zu den Höhen der königlichen Domäne und der Kapelle. Später fahren Sie zum ruhigen Le Moulin de la Latte für eine malerische Pause. Lassen Sie den Tag mit einem friedlichen Sonnenuntergang im weitläufigen Wald von Dreux ausklingen.",
         "hu": "Autós útvonala kényelmesen, a Múzeumnál kezdődik, mielőtt egy rövid sétával elérné a harangtornyot és a templomot. A délután a Királyi Birtok fenséges magaslataira és a Királyi Kápolnához vezet. Később autózzon el a nyugodt Le Moulin de la Latte-hoz egy kis pihenésre. Zárja a napot a természet lágy ölén, élvezve a csendes és békés naplementét a hatalmas dreux-i erdőben.",
         "ro": "Itinerariul auto începe confortabil la Muzeul de Artă, înainte ca o scurtă plimbare să vă ducă la clopotniță și Biserica Saint-Pierre. După-amiaza vă poartă spre înălțimile Domeniului Regal și ale Capelei Regale. Mai târziu, conduceți spre liniștitul Le Moulin de la Latte pentru o pauză pitorească. Încheiați ziua în mijlocul naturii, cu un apus senin în Pădurea Dreux.",
-        "en": "Your driving itinerary begins comfortably at the Museum of Art and History, before a short stroll connects you to the Belfry and Saint-Pierre Church. The afternoon takes you to the regal heights of the Royal Domain and the majestic Royal Chapel. Later, drive out to the tranquil Le Moulin de la Latte for a scenic rest. Wrap up the day deeply immersed in nature with a serene sunset at Dreux Forest."
+        "en": "Your driving itinerary begins comfortably at the Museum of Art and History, before a short stroll connects you to the Belfry and Saint-Pierre Church. The afternoon takes you to the regal heights of the Royal Domain and the majestic Royal Chapel. Later, drive out to the tranquil Le Moulin de la Latte for a scenic rest. Wrap up the day deeply immersed in nature with a serene sunset at Dreux Forest.",
+        "fr": "Votre itinéraire en voiture commence confortablement au Musée d'Art et d'Histoire, puis une courte promenade vous mène au Beffroi et à l'Église Saint-Pierre. L'après-midi vous emmène jusqu'aux hauteurs royales du Domaine et de la majestueuse Chapelle Royale. Plus tard, conduisez jusqu'au paisible Le Moulin de la Latte pour une pause bucolique. Terminez la journée plongé dans la nature avec un coucher de soleil serein dans la Forêt de Dreux."
       },
       "variants": {
         "rainy": {
@@ -827,7 +914,8 @@
             "de": "Mit dem Auto erkunden wir Dreux bequem und trocken zwischen den Stationen. Vormittags besuchen wir das Museum und den Belfried, während draußen der Regen fällt. Mittags geht es zur Mühle und nachmittags zum Wald von Dreux, wo das dichte Blätterdach zumindest teilweisen Schutz bietet. Der Tag endet gemütlich, während die Scheibenwischer den Rhythmus der Stadt vorgeben.",
             "hu": "Autóval kényelmesen és szárazon közlekedünk Dreux állomásai között. Délelőtt a múzeumot és a harangtornyot keressük fel, miközben kint szakad az eső. Délben a malomhoz, délután pedig a dreux-i erdőbe hajtunk, ahol a sűrű lombok némi védelmet nyújtanak. A nap kényelmesen ér véget, miközben az ablaktörlők ütemére figyeljük a város esős és megnyugtató arcát.",
             "ro": "Cu mașina explorăm Dreux confortabil și fără a ne uda între obiective. Dimineața vizităm muzeul și clopotnița în timp ce afară plouă torențial. La prânz mergem la moară, iar după-amiaza în pădurea Dreux, unde coronamentul des oferă protecție parțială. Ziua se încheie relaxat, privind orașul prin parbrizul stropit de ploaia care nu mai contenește.",
-            "en": "By car, we explore Dreux comfortably and dryly between each stop. In the morning, we visit the museum and belfry while the rain pours outside. At noon, we drive to the mill and in the afternoon to the Dreux Forest, where the thick canopy provides some natural shelter. The day ends cozily, watching the rainy face of the city through the rhythm of the wipers."
+            "en": "By car, we explore Dreux comfortably and dryly between each stop. In the morning, we visit the museum and belfry while the rain pours outside. At noon, we drive to the mill and in the afternoon to the Dreux Forest, where the thick canopy provides some natural shelter. The day ends cozily, watching the rainy face of the city through the rhythm of the wipers.",
+            "fr": "En voiture, nous explorons Dreux confortablement et au sec entre chaque étape. Le matin, nous visitons le musée et le beffroi pendant que la pluie tombe dehors. À midi, nous conduisons jusqu'au moulin et l'après-midi jusqu'à la Forêt de Dreux, où le feuillage épais offre un abri naturel. La journée se termine au chaud, en regardant la ville pluvieuse au rythme des essuie-glaces."
           },
           "stops": [
             {
@@ -835,13 +923,15 @@
                 "de": "Museum für Kunst und Geschichte",
                 "hu": "Művészeti és Történeti Múzeum",
                 "ro": "Muzeul de Artă și Istorie",
-                "en": "Museum of Art and History"
+                "en": "Museum of Art and History",
+                "fr": "Musée d'Art et d'Histoire"
               },
               "tip_5lang": {
                 "de": "Suchen Sie einen Parkplatz nah am Eingang, um den Weg im Regen kurzzuhalten; das Museum bietet ein perfektes Kontrastprogramm zum nassen Grau.",
                 "hu": "Keressen parkolóhelyet közel a bejárathoz, hogy minimalizálja az esőben töltött időt; a múzeum tökéletes kontrasztot nyújt a kinti szürkeséggel szemben.",
                 "ro": "Căutați un loc de parcare cât mai aproape de intrare pentru a scurta drumul prin ploaie; muzeul oferă un contrast perfect cu griul de afară.",
-                "en": "Find a parking spot close to the entrance to minimize your walk in the rain; the museum offers a perfect contrast to the wet gray sky outside."
+                "en": "Find a parking spot close to the entrance to minimize your walk in the rain; the museum offers a perfect contrast to the wet gray sky outside.",
+                "fr": "Trouvez une place de parking près de l'entrée pour minimiser la marche sous la pluie ; le musée offre un parfait contraste avec le ciel gris et humide dehors."
               }
             },
             {
@@ -849,13 +939,15 @@
                 "de": "Belfried von Dreux",
                 "hu": "Dreux-i harangtorony",
                 "ro": "Clopotnița din Dreux",
-                "en": "Belfry of Dreux"
+                "en": "Belfry of Dreux",
+                "fr": "Beffroi de Dreux"
               },
               "tip_5lang": {
                 "de": "Nutzen Sie das Parkhaus in der Nähe, um trockenen Fußes ins Zentrum zu gelangen; der Turm wirkt bei Regen besonders massiv und imposant.",
                 "hu": "Használja a közeli parkolóházat, hogy száraz lábbal jusson a központba; a torony esős időben különösen tömörnek és impozánsnak hat.",
                 "ro": "Folosiți parcarea acoperită din apropiere pentru a ajunge în centru fără să vă udați; turnul pare deosebit de masiv și impunător pe ploaie.",
-                "en": "Use the nearby parking garage to reach the center with dry feet; the tower looks particularly solid and imposing in the rainy weather."
+                "en": "Use the nearby parking garage to reach the center with dry feet; the tower looks particularly solid and imposing in the rainy weather.",
+                "fr": "Utilisez le parking couvert voisin pour atteindre le centre au sec ; la tour paraît particulièrement solide et imposante par temps de pluie."
               }
             },
             {
@@ -863,13 +955,15 @@
                 "de": "Kirche Saint-Pierre",
                 "hu": "Saint-Pierre templom",
                 "ro": "Biserica Saint-Pierre",
-                "en": "Saint-Pierre Church"
+                "en": "Saint-Pierre Church",
+                "fr": "Église Saint-Pierre"
               },
               "tip_5lang": {
                 "de": "Parken Sie auf den markierten Flächen am Platz; der kurze Sprint zur Kirche lohnt sich, um die dramatische Lichtstimmung im Inneren zu erleben.",
                 "hu": "Parkoljon a tér kijelölt helyein; a rövid sprint a templomig megéri, hogy átélje a benti drámai és szakrális fényviszonyokat az esőben.",
                 "ro": "Parcați în locurile marcate din piață; scurta alergare până la biserică merită pentru a experimenta lumina dramatică din interior pe ploaie.",
-                "en": "Park in the designated spots on the square; the short sprint to the church is worth it to experience the dramatic interior lighting during a storm."
+                "en": "Park in the designated spots on the square; the short sprint to the church is worth it to experience the dramatic interior lighting during a storm.",
+                "fr": "Garez-vous dans les emplacements prévus sur la place ; le court sprint jusqu'à l'église en vaut la peine pour vivre l'éclairage intérieur dramatique pendant l'averse."
               }
             },
             {
@@ -877,13 +971,15 @@
                 "de": "Königliche Domäne von Dreux",
                 "hu": "Dreux-i Királyi Birtok",
                 "ro": "Domeniul Regal din Dreux",
-                "en": "Royal Domain of Dreux"
+                "en": "Royal Domain of Dreux",
+                "fr": "Domaine Royal de Dreux"
               },
               "tip_5lang": {
                 "de": "Nutzen Sie den Besucherparkplatz direkt am Eingang; bei Regen ist weniger los, sodass Sie die Anlage fast für sich allein genießen können.",
                 "hu": "Használja a közvetlenül a bejáratnál lévő látogatói parkolót; esőben kevesebben vannak, így szinte egyedül élvezheti a birtok látványát.",
                 "ro": "Folosiți parcarea pentru vizitatori de la intrare; pe ploaie este mai puțină lume, așa că vă puteți bucura de domeniu aproape singur.",
-                "en": "Use the visitor parking right at the entrance; there are fewer people in the rain, so you can enjoy the estate almost entirely to yourself."
+                "en": "Use the visitor parking right at the entrance; there are fewer people in the rain, so you can enjoy the estate almost entirely to yourself.",
+                "fr": "Utilisez le parking visiteurs juste à l'entrée ; il y a moins de monde sous la pluie, vous pouvez donc profiter du domaine presque pour vous seul."
               }
             },
             {
@@ -891,13 +987,15 @@
                 "de": "Königliche Kapelle von Dreux",
                 "hu": "Dreux-i Királyi Kápolna",
                 "ro": "Capela Regală din Dreux",
-                "en": "Royal Chapel of Dreux"
+                "en": "Royal Chapel of Dreux",
+                "fr": "Chapelle Royale de Dreux"
               },
               "tip_5lang": {
                 "de": "Der Weg vom Parkplatz ist kurz, aber ungeschützt; ein großer Schirm ist hier ratsam, um die prachtvolle Außenansicht kurz zu würdigen.",
                 "hu": "A parkolótól vezető út rövid, de nyitott; egy nagy esernyő javasolt, hogy kívülről is méltó módon megcsodálhassa a pompás épületet.",
                 "ro": "Drumul de la parcare este scurt, dar expus; o umbrelă mare este recomandată pentru a admira exteriorul superb fără a vă uda prea tare.",
-                "en": "The path from the parking lot is short but unsheltered; a large umbrella is recommended to properly admire the grand exterior before entering."
+                "en": "The path from the parking lot is short but unsheltered; a large umbrella is recommended to properly admire the grand exterior before entering.",
+                "fr": "Le chemin depuis le parking est court mais exposé ; un grand parapluie est recommandé pour bien admirer le grand extérieur avant d'entrer."
               }
             },
             {
@@ -905,13 +1003,15 @@
                 "de": "Le Moulin de la Latte",
                 "hu": "Le Moulin de la Latte",
                 "ro": "Le Moulin de la Latte",
-                "en": "Le Moulin de la Latte"
+                "en": "Le Moulin de la Latte",
+                "fr": "Le Moulin de la Latte"
               },
               "tip_5lang": {
                 "de": "Fahren Sie vorsichtig auf den schmalen Zufahrtswegen, da diese bei Regen rutschig sein können; genießen Sie den Blick auf den Fluss aus dem Auto.",
                 "hu": "Vezessen óvatosan a szűk bekötőutakon, mert esőben csúszósak lehetnek; a folyóparti látványt akár az autó ablakából is élvezheti.",
                 "ro": "Conduceți cu prudență pe drumurile înguste de acces, pot fi alunecoase; puteți admira vederea spre râu chiar și din confortul mașinii.",
-                "en": "Drive carefully on the narrow access roads as they can be slippery in the rain; you can even enjoy the river view from inside your car."
+                "en": "Drive carefully on the narrow access roads as they can be slippery in the rain; you can even enjoy the river view from inside your car.",
+                "fr": "Roulez prudemment sur les routes d'accès étroites car elles peuvent être glissantes sous la pluie ; vous pouvez même profiter de la vue sur la rivière depuis votre voiture."
               }
             },
             {
@@ -919,13 +1019,15 @@
                 "de": "Wald von Dreux",
                 "hu": "Dreux-i erdő",
                 "ro": "Pădurea Dreux",
-                "en": "Dreux Forest"
+                "en": "Dreux Forest",
+                "fr": "Forêt de Dreux"
               },
               "tip_5lang": {
                 "de": "Ein schöner Stopp, um die Natur im Regen zu erleben, ohne weit laufen zu müssen; bleiben Sie auf den befestigten Forstwegen für die Fahrt.",
                 "hu": "Szép megálló a természet esőben való megtapasztalásához anélkül, hogy sokat kellene gyalogolnia; maradjon a kiépített erdészeti utakon.",
                 "ro": "O oprire frumoasă pentru a experimenta natura pe ploaie fără a merge mult pe jos; rămâneți pe drumurile forestiere amenajate cu mașina.",
-                "en": "A nice stop to experience nature in the rain without having to walk far; stay on the paved forest roads while driving through the area."
+                "en": "A nice stop to experience nature in the rain without having to walk far; stay on the paved forest roads while driving through the area.",
+                "fr": "Une belle étape pour ressentir la nature sous la pluie sans trop marcher ; restez sur les routes forestières pavées en traversant la zone en voiture."
               }
             }
           ]
@@ -935,7 +1037,8 @@
             "de": "Im Winter bietet das Auto eine warme Basis für unsere Tour durch Dreux. Vormittags besuchen wir die kulturellen Highlights im Zentrum, während die Heizung zwischen den Stopps für Komfort sorgt. Mittags führt die Fahrt zur Mühle und nachmittags in den Wald, wo wir die frostige Landschaft bewundern. Wichtig ist, die Naturstopps vor 16:30 Uhr zu planen, da es im Wald früh dunkel wird.",
             "hu": "Télen az autó meleg bázist nyújt a dreux-i túránkhoz. Délelőtt a központ kulturális nevezetességeit keressük fel, miközben a fűtés komfortossá teszi az utat. Délben a malomhoz, délután pedig az erdőbe hajtunk a zúzmarás tájat csodálni. Fontos, hogy a természeti megállókat 16:30 előttre tervezzük, mert az erdőben ilyenkor már korán sötétedik.",
             "ro": "Iarna, mașina oferă o bază călduroasă pentru turul nostru în Dreux. Dimineața vizităm atracțiile culturale din centru, în timp ce căldura din mașină asigură confortul. La prânz mergem la moară, iar după-amiaza în pădure pentru a admira peisajul înghețat. Este vital să planificați vizita în pădure înainte de 16:30, deoarece se întunecă devreme.",
-            "en": "In winter, the car provides a warm base for our tour of Dreux. In the morning, we visit the cultural highlights in the center while the heater keeps us comfortable between stops. At noon, we drive to the mill and in the afternoon to the forest to admire the frosty landscape. It is vital to plan the nature stops before 4:30 PM as it gets dark early in the woods."
+            "en": "In winter, the car provides a warm base for our tour of Dreux. In the morning, we visit the cultural highlights in the center while the heater keeps us comfortable between stops. At noon, we drive to the mill and in the afternoon to the forest to admire the frosty landscape. It is vital to plan the nature stops before 4:30 PM as it gets dark early in the woods.",
+            "fr": "En hiver, la voiture constitue une base chauffée pour notre tour de Dreux. Le matin, nous visitons les sites culturels du centre tandis que le chauffage nous maintient à l'aise entre les arrêts. À midi, nous conduisons jusqu'au moulin et l'après-midi jusqu'à la forêt pour admirer le paysage givré. Il est essentiel de planifier les arrêts nature avant 16h30 car il fait nuit tôt dans les bois."
           },
           "stops": [
             {
@@ -943,13 +1046,15 @@
                 "de": "Museum für Kunst und Geschichte",
                 "hu": "Művészeti és Történeti Múzeum",
                 "ro": "Muzeul de Artă și Istorie",
-                "en": "Museum of Art and History"
+                "en": "Museum of Art and History",
+                "fr": "Musée d'Art et d'Histoire"
               },
               "tip_5lang": {
                 "de": "Ein idealer Ort, um der Winterkälte für ein paar Stunden komplett zu entfliehen; das Museum ist gut beheizt und bietet eine warme Atmosphäre.",
                 "hu": "Ideális hely, hogy pár órára teljesen elmeneküljön a téli hideg elől; a múzeum jól fűtött, és kellemes, meleg atmoszférát kínál a látogatóknak.",
                 "ro": "Un loc ideal pentru a scăpa complet de frigul iernii pentru câteva ore; muzeul este bine încălzit și oferă o atmosferă primitoare.",
-                "en": "An ideal place to completely escape the winter cold for a few hours; the museum is well-heated and offers a warm, welcoming atmosphere."
+                "en": "An ideal place to completely escape the winter cold for a few hours; the museum is well-heated and offers a warm, welcoming atmosphere.",
+                "fr": "Un lieu idéal pour échapper complètement au froid hivernal pendant quelques heures ; le musée est bien chauffé et offre une atmosphère chaleureuse et accueillante."
               }
             },
             {
@@ -957,13 +1062,15 @@
                 "de": "Belfried von Dreux",
                 "hu": "Dreux-i harangtorony",
                 "ro": "Clopotnița din Dreux",
-                "en": "Belfry of Dreux"
+                "en": "Belfry of Dreux",
+                "fr": "Beffroi de Dreux"
               },
               "tip_5lang": {
                 "de": "Parken Sie zentral und genießen Sie den Blick auf den Turm in der klaren Winterluft; die Beleuchtung setzt bereits am späten Nachmittag ein.",
                 "hu": "Parkoljon a központban, és élvezze a torony látványát a tiszta téli levegőben; a díszkivilágítás már késő délután elindul a sötétedés miatt.",
                 "ro": "Parcați central și admirați turnul în aerul curat de iarnă; iluminatul arhitectural pornește deja de la sfârșitul după-amiezii.",
-                "en": "Park centrally and enjoy the view of the tower in the crisp winter air; the festive lighting starts in the late afternoon due to the early sunset."
+                "en": "Park centrally and enjoy the view of the tower in the crisp winter air; the festive lighting starts in the late afternoon due to the early sunset.",
+                "fr": "Garez-vous au centre et profitez de la vue sur la tour dans l'air vif de l'hiver ; l'éclairage festif commence en fin d'après-midi à cause du coucher du soleil précoce."
               }
             },
             {
@@ -971,13 +1078,15 @@
                 "de": "Kirche Saint-Pierre",
                 "hu": "Saint-Pierre templom",
                 "ro": "Biserica Saint-Pierre",
-                "en": "Saint-Pierre Church"
+                "en": "Saint-Pierre Church",
+                "fr": "Église Saint-Pierre"
               },
               "tip_5lang": {
                 "de": "Im Winter ist es in der Kirche oft sehr kühl; behalten Sie Ihren Mantel an und bewundern Sie, wie das tiefe Sonnenlicht durch die Fenster fällt.",
                 "hu": "Télen a templomban gyakran hűvös van; hagyja magán a kabátját, és csodálja meg, ahogy az alacsonyan járó téli nap besüt a színes ablakokon.",
                 "ro": "Iarna este adesea foarte răcoare în biserică; păstrați haina pe dvs. și admirați cum lumina joasă a soarelui pătrunde prin vitralii.",
-                "en": "In winter, the church can be quite chilly; keep your coat on and admire how the low winter sunlight filters beautifully through the windows."
+                "en": "In winter, the church can be quite chilly; keep your coat on and admire how the low winter sunlight filters beautifully through the windows.",
+                "fr": "En hiver, l'église peut être assez fraîche ; gardez votre manteau et admirez comment la faible lumière hivernale filtre magnifiquement à travers les vitraux."
               }
             },
             {
@@ -985,13 +1094,15 @@
                 "de": "Königliche Domäne von Dreux",
                 "hu": "Dreux-i Királyi Birtok",
                 "ro": "Domeniul Regal din Dreux",
-                "en": "Royal Domain of Dreux"
+                "en": "Royal Domain of Dreux",
+                "fr": "Domaine Royal de Dreux"
               },
               "tip_5lang": {
                 "de": "Prüfen Sie, ob die Wege bei Frost gestreut sind; das Schloss wirkt in der kargen Winterlandschaft besonders majestätisch und ruhig.",
                 "hu": "Ellenőrizze, hogy a fagyos utak le vannak-e szórva; a kastély a kopár téli tájban különösen fenségesnek és nyugodtnak tűnik.",
                 "ro": "Verificați dacă aleile înghețate sunt tratate cu nisip; castelul pare deosebit de maiestuos și liniștit în peisajul auster de iarnă.",
-                "en": "Check if the frozen paths have been gritted; the castle looks particularly majestic and tranquil in the stark winter landscape."
+                "en": "Check if the frozen paths have been gritted; the castle looks particularly majestic and tranquil in the stark winter landscape.",
+                "fr": "Vérifiez si les chemins verglacés ont été sablés ; le château paraît particulièrement majestueux et paisible dans le paysage hivernal dépouillé."
               }
             },
             {
@@ -999,13 +1110,15 @@
                 "de": "Königliche Kapelle von Dreux",
                 "hu": "Dreux-i Királyi Kápolna",
                 "ro": "Capela Regală din Dreux",
-                "en": "Royal Chapel of Dreux"
+                "en": "Royal Chapel of Dreux",
+                "fr": "Chapelle Royale de Dreux"
               },
               "tip_5lang": {
                 "de": "Nutzen Sie den kurzen Fußweg vom Auto, um die frostige Architektur zu bewundern; die Innenbesichtigung bietet Schutz vor dem kalten Wind.",
                 "hu": "Használja ki az autótól vezető rövid sétát a zúzmarás épület megcsodálására; a benti látogatás védelmet nyújt a jeges szél elől.",
                 "ro": "Profitați de scurta plimbare de la mașină pentru a admira arhitectura înghețată; vizita în interior oferă protecție împotriva vântului tăios.",
-                "en": "Enjoy the short walk from your car to admire the frost-covered architecture; the indoor visit provides shelter from the biting cold wind."
+                "en": "Enjoy the short walk from your car to admire the frost-covered architecture; the indoor visit provides shelter from the biting cold wind.",
+                "fr": "Profitez de la courte promenade depuis votre voiture pour admirer l'architecture couverte de givre ; la visite intérieure offre un abri contre le vent glacial."
               }
             },
             {
@@ -1013,13 +1126,15 @@
                 "de": "Le Moulin de la Latte",
                 "hu": "Le Moulin de la Latte",
                 "ro": "Le Moulin de la Latte",
-                "en": "Le Moulin de la Latte"
+                "en": "Le Moulin de la Latte",
+                "fr": "Le Moulin de la Latte"
               },
               "tip_5lang": {
                 "de": "Der Blick auf den eventuell leicht gefrorenen Fluss ist im Winter herrlich; bleiben Sie für Fotos in der Nähe Ihres beheizten Fahrzeugs.",
                 "hu": "A téli folyóparti látvány, ahol a víz széle néhol befagyhat, gyönyörű; a fotózás idejére maradjon a fűtött autója közelében.",
                 "ro": "Vederea râului care poate fi parțial înghețat este superbă iarna; rămâneți aproape de mașina încălzită pentru a face fotografii rapide.",
-                "en": "The winter view of the riverside, where the water might be partially frozen, is beautiful; stay near your heated car for quick photos."
+                "en": "The winter view of the riverside, where the water might be partially frozen, is beautiful; stay near your heated car for quick photos.",
+                "fr": "La vue hivernale au bord de la rivière, où l'eau peut être partiellement gelée, est magnifique ; restez près de votre voiture chauffée pour des photos rapides."
               }
             },
             {
@@ -1027,13 +1142,15 @@
                 "de": "Wald von Dreux",
                 "hu": "Dreux-i erdő",
                 "ro": "Pădurea Dreux",
-                "en": "Dreux Forest"
+                "en": "Dreux Forest",
+                "fr": "Forêt de Dreux"
               },
               "tip_5lang": {
                 "de": "Achten Sie bei der Fahrt durch den Wald auf Wildwechsel und glatte Stellen; die frostigen Bäume bieten eine zauberhafte Kulisse für die Fahrt.",
                 "hu": "Az erdőn keresztül autózva figyeljen a vadakra és a jeges szakaszokra; a zúzmarás fák varázslatos hátteret nyújtanak az utazáshoz.",
                 "ro": "Atenție la animalele sălbatice și la porțiunile înghețate când conduceți prin pădure; arborii înzăpeziți oferă un decor de poveste drumului.",
-                "en": "Watch out for wildlife and icy patches while driving through the woods; the frost-covered trees provide a magical backdrop for your journey."
+                "en": "Watch out for wildlife and icy patches while driving through the woods; the frost-covered trees provide a magical backdrop for your journey.",
+                "fr": "Attention à la faune et aux plaques de verglas en traversant les bois ; les arbres couverts de givre offrent un décor magique pour votre trajet."
               }
             }
           ]

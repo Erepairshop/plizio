@@ -32,7 +32,7 @@
             "hu": "Reggel látogassa meg a piacot a helyi hangulatért.",
             "ro": "Vizitați piața dimineața pentru o atmosferă locală.",
             "en": "Visit the market in the morning for local atmosphere.",
-            "fr": "Visitez le marché le matin pour l'ambiance locale."
+            "fr": "Visitez le marché le matin pour l’ambiance locale."
           }
         },
         {
@@ -51,7 +51,7 @@
             "hu": "Franciaország egyik legrégebbi nyilvános múzeuma.",
             "ro": "Unul dintre cele mai vechi muzee publice din Franța.",
             "en": "One of France's oldest public museums.",
-            "fr": "L'un des plus anciens musées publics de France."
+            "fr": "L’un des plus anciens musées publics de France."
           }
         },
         {
@@ -70,7 +70,7 @@
             "hu": "A híres író szülőháza, interaktív kiállítással.",
             "ro": "Casa natală a celebrului scriitor.",
             "en": "The birthplace of the famous writer.",
-            "fr": "La maison natale du célèbre écrivain."
+            "fr": "Le lieu de naissance du célèbre écrivain."
           }
         },
         {
@@ -89,7 +89,7 @@
             "hu": "Csodálja meg a lenyűgöző csillagászati órát.",
             "ro": "Admirați ceasul astronomic impresionant.",
             "en": "Admire the impressive astronomical clock.",
-            "fr": "Admirez l'impressionnante horloge astronomique."
+            "fr": "Admirez l’impressionnante horloge astronomique."
           }
         },
         {
@@ -108,7 +108,7 @@
             "hu": "UNESCO világörökség fantasztikus kilátással.",
             "ro": "Patrimoniu UNESCO cu o vedere fantastică.",
             "en": "UNESCO World Heritage site with fantastic views.",
-            "fr": "Site classé à l'UNESCO avec des vues fantastiques."
+            "fr": "Site inscrit au patrimoine mondial de l’UNESCO avec des vues fantastiques."
           }
         },
         {
@@ -127,7 +127,7 @@
             "hu": "Békés hely a Doubs folyó partján.",
             "ro": "Un loc liniștit pe malul râului Doubs.",
             "en": "A peaceful spot by the Doubs river banks.",
-            "fr": "Un endroit paisible sur les rives du Doubs."
+            "fr": "Un endroit paisible sur les berges du Doubs."
           }
         }
       ],
@@ -136,7 +136,7 @@
         "hu": "Kezdje a napot a nyüzsgő Place de la Révolution téren, majd fedezze fel a Szépművészeti Múzeum kincseit. Sétáljon Victor Hugo szülőházához az óvároson át. Egy finom, helyi ebéd után látogassa meg a Szent János-székesegyházat és annak különleges óráját. Délután hódítsa meg a Vauban-citadellát a lenyűgöző panorámáért, végül lazítson a Doubs folyó partján, a Gare d'Eau parkban.",
         "ro": "Începeți ziua în vibranta Place de la Révolution înainte de a explora bogatul Muzeu de Arte Frumoase. Plimbați-vă prin centrul istoric până la casa natală a lui Victor Hugo. După un prânz local, vizitați Catedrala Saint-Jean și ceasul său astronomic. Petreceți după-amiaza la impunătoarea Citadelă Vauban pentru vederi panoramice. Încheiați ziua liniștit pe malul râului Doubs, în parcul Gare d'Eau.",
         "en": "Start your day at the lively Place de la Révolution before exploring the rich Fine Arts Museum. Walk through the historic center to Victor Hugo's birthplace. After a local lunch, visit the Saint-Jean Cathedral and its unique astronomical clock. Spend the afternoon at the mighty Vauban Citadel for panoramic views. End your day peacefully by the Doubs river at the Gare d'Eau park.",
-        "fr": "Commencez votre journée sur la dynamique Place de la Révolution avant d'explorer le riche Musée des Beaux-Arts. Promenez-vous dans le centre historique jusqu'à la maison natale de Victor Hugo. Après un déjeuner local, visitez la Cathédrale Saint-Jean et son horloge astronomique unique. Passez l'après-midi à l'imposante Citadelle de Vauban pour des vues panoramiques. Terminez votre journée paisiblement au bord du Doubs, au parc de la Gare d'Eau."
+        "fr": "Commencez votre journée sur la vivante Place de la Révolution avant d’explorer le riche musée des Beaux‑Arts. Traversez le centre historique jusqu’à la maison natale de Victor Hugo. Après un déjeuner local, visitez la cathédrale Saint‑Jean et sa singulière horloge astronomique. Passez l’après‑midi à la puissante citadelle Vauban pour des vues panoramiques. Terminez la journée paisiblement au parc Gare d’Eau sur les bords du Doubs."
       },
       "gastro_picks": {
         "de": [
@@ -330,10 +330,10 @@
           "The Doubs river loop offers wonderful photo spots."
         ],
         "fr": [
-          "La vieille ville est compacte et se parcourt très bien à pied.",
+          "La vieille ville est compacte et très propice à la marche.",
           "La montée vers la Citadelle est raide, portez des chaussures confortables.",
-          "Vérifiez les horaires des démonstrations de l'horloge astronomique.",
-          "La boucle du Doubs offre de magnifiques spots photo."
+          "Vérifiez les horaires de la démonstration de l’horloge astronomique.",
+          "La boucle du Doubs offre de superbes points photo."
         ]
       },
       "variants": {
@@ -342,7 +342,8 @@
             "de": "Beginnen Sie Ihren Tag an der lebhaften Place de la Révolution, bevor Sie das reiche Kunstmuseum erkunden. Spazieren Sie durch das historische Zentrum zum Geburtshaus von Victor Hugo. Nach einem lokalen Mittagessen besuchen Sie die Kathedrale Saint-Jean mit ihrer astronomischen Uhr. Verbringen Sie den Nachmittag in der mächtigen Zitadelle von Vauban. Beenden Sie den Tag friedlich am Flussufer im Gare d'Eau Park.",
             "hu": "Kezdje a napot a nyüzsgő Place de la Révolution téren, majd fedezze fel a Szépművészeti Múzeum kincseit. Sétáljon Victor Hugo szülőházához az óvároson át. Egy finom, helyi ebéd után látogassa meg a Szent János-székesegyházat és annak különleges óráját. Délután hódítsa meg a Vauban-citadellát a lenyűgöző panorámáért, végül lazítson a Doubs folyó partján, a Gare d'Eau parkban.",
             "ro": "Începeți ziua în vibranta Place de la Révolution înainte de a explora bogatul Muzeu de Arte Frumoase. Plimbați-vă prin centrul istoric până la casa natală a lui Victor Hugo. După un prânz local, vizitați Catedrala Saint-Jean și ceasul său astronomic. Petreceți după-amiaza la impunătoarea Citadelă Vauban pentru vederi panoramice. Încheiați ziua liniștit pe malul râului Doubs, în parcul Gare d'Eau.",
-            "en": "Start your day at the lively Place de la Révolution before exploring the rich Fine Arts Museum. Walk through the historic center to Victor Hugo's birthplace. After a local lunch, visit the Saint-Jean Cathedral and its unique astronomical clock. Spend the afternoon at the mighty Vauban Citadel for panoramic views. End your day peacefully by the Doubs river at the Gare d'Eau park."
+            "en": "Start your day at the lively Place de la Révolution before exploring the rich Fine Arts Museum. Walk through the historic center to Victor Hugo's birthplace. After a local lunch, visit the Saint-Jean Cathedral and its unique astronomical clock. Spend the afternoon at the mighty Vauban Citadel for panoramic views. End your day peacefully by the Doubs river at the Gare d'Eau park.",
+            "fr": "Commencez votre journée sur la vivante Place de la Révolution avant d’explorer le riche musée des Beaux‑Arts. Traversez le centre historique jusqu’à la maison natale de Victor Hugo. Après un déjeuner local, visitez la cathédrale Saint‑Jean et sa singulière horloge astronomique. Passez l’après‑midi à la puissante citadelle Vauban pour des vues panoramiques. Terminez la journée paisiblement au parc Gare d’Eau sur les bords du Doubs."
           },
           "stops": [
             {
@@ -351,7 +352,8 @@
                 "de": "Besuchen Sie den Markt am Morgen für lokale Atmosphäre.",
                 "hu": "Reggel látogassa meg a piacot a helyi hangulatért.",
                 "ro": "Vizitați piața dimineața pentru o atmosferă locală.",
-                "en": "Visit the market in the morning for local atmosphere."
+                "en": "Visit the market in the morning for local atmosphere.",
+                "fr": "Visitez le marché le matin pour l’ambiance locale."
               }
             },
             {
@@ -360,7 +362,8 @@
                 "de": "Eines der ältesten öffentlichen Museen Frankreichs.",
                 "hu": "Franciaország egyik legrégebbi nyilvános múzeuma.",
                 "ro": "Unul dintre cele mai vechi muzee publice din Franța.",
-                "en": "One of France's oldest public museums."
+                "en": "One of France's oldest public museums.",
+                "fr": "L’un des plus anciens musées publics de France."
               }
             },
             {
@@ -369,7 +372,8 @@
                 "de": "Das Geburtshaus des berühmten Schriftstellers.",
                 "hu": "A híres író szülőháza, interaktív kiállítással.",
                 "ro": "Casa natală a celebrului scriitor.",
-                "en": "The birthplace of the famous writer."
+                "en": "The birthplace of the famous writer.",
+                "fr": "Le lieu de naissance du célèbre écrivain."
               }
             },
             {
@@ -378,7 +382,8 @@
                 "de": "Bewundern Sie die beeindruckende astronomische Uhr.",
                 "hu": "Csodálja meg a lenyűgöző csillagászati órát.",
                 "ro": "Admirați ceasul astronomic impresionant.",
-                "en": "Admire the impressive astronomical clock."
+                "en": "Admire the impressive astronomical clock.",
+                "fr": "Admirez l’impressionnante horloge astronomique."
               }
             },
             {
@@ -387,7 +392,8 @@
                 "de": "UNESCO-Weltkulturerbe mit fantastischer Aussicht.",
                 "hu": "UNESCO világörökség fantasztikus kilátással.",
                 "ro": "Patrimoniu UNESCO cu o vedere fantastică.",
-                "en": "UNESCO World Heritage site with fantastic views."
+                "en": "UNESCO World Heritage site with fantastic views.",
+                "fr": "Site inscrit au patrimoine mondial de l’UNESCO avec des vues fantastiques."
               }
             },
             {
@@ -396,7 +402,8 @@
                 "de": "Ein friedlicher Ort am Ufer des Doubs.",
                 "hu": "Békés hely a Doubs folyó partján.",
                 "ro": "Un loc liniștit pe malul râului Doubs.",
-                "en": "A peaceful spot by the Doubs river banks."
+                "en": "A peaceful spot by the Doubs river banks.",
+                "fr": "Un endroit paisible sur les berges du Doubs."
               }
             }
           ],
@@ -558,6 +565,12 @@
               "The climb to the Citadel is steep, wear comfortable shoes.",
               "Check the timings for the astronomical clock demonstration.",
               "The Doubs river loop offers wonderful photo spots."
+            ],
+            "fr": [
+              "La vieille ville est compacte et très propice à la marche.",
+              "La montée vers la Citadelle est raide, portez des chaussures confortables.",
+              "Vérifiez les horaires de la démonstration de l’horloge astronomique.",
+              "La boucle de la rivière Doubs offre de merveilleux spots photo."
             ]
           }
         },
@@ -567,7 +580,7 @@
             "hu": "Egy esős délelőtt a Place de la Révolution kávézóinak árkádjai alatt kezdődik. Délben a Szépművészeti Múzeum kínál száraz menedéket és gazdag művészeti gyűjteményt. A délutánt Victor Hugo szülőházában és a katedrálisban töltjük, ahol a vastag falak védenek az időjárástól. A napot a szemerkélő eső ellenére egy rövid sétával zárjuk a Gare d'Eau parkjában.",
             "ro": "O dimineață ploioasă în Place de la Révolution vă invită să vă bucurați de cafenelele de sub arcade. La prânz, Muzeul de Arte Frumoase oferă un refugiu uscat, plin de comori artistice. După-amiaza este petrecută la Maison Victor Hugo și la catedrală, unde zidurile groase vă protejează de vreme. Încheiem ziua cu o scurtă plimbare prin ploaie în parcul Gare d'Eau.",
             "en": "A rainy morning at Place de la Révolution invites you to enjoy the cafes under the arcades. At midday, the Museum of Fine Arts offers a dry sanctuary full of artistic treasures. The afternoon is spent at Maison Victor Hugo and the cathedral, where thick walls protect you from the weather. We end the day with a short walk through the drizzle in the Gare d'Eau park.",
-            "fr": "Une matinée pluvieuse à la Place de la Révolution vous invite à profiter des cafés sous les arcades. À midi, le Musée des Beaux-Arts offre un sanctuaire au sec regorgeant de trésors artistiques. L'après-midi se passe à la Maison Victor Hugo et à la cathédrale, où les murs épais vous protègent des intempéries. Nous terminons la journée par une courte promenade sous la bruine au parc de la Gare d'Eau."
+            "fr": "Un matin pluvieux sur la Place de la Révolution vous invite à profiter des cafés sous les arcades. À midi, le Musée des Beaux-Arts offre un refuge sec rempli de trésors artistiques. L’après-midi se passe à la Maison de Victor Hugo et à la cathédrale, où des murs épais vous abritent des intempéries. Nous terminons la journée par une courte balade sous la bruine dans le parc de la Gare d'Eau."
           },
           "stops": [
             {
@@ -587,7 +600,7 @@
                 "hu": "Ideális hely egy órányi eső kivárására.",
                 "ro": "Loc ideal pentru a aștepta trecerea ploii.",
                 "en": "Ideal place to wait out an hour of rain.",
-                "fr": "Endroit idéal pour laisser passer une heure de pluie."
+                "fr": "Endroit idéal pour attendre une heure de pluie."
               }
             },
             {
@@ -597,7 +610,7 @@
                 "hu": "Hangulatos belső terek irodalmi hangulattal.",
                 "ro": "Interioare primitoare cu fler literar.",
                 "en": "Cozy interiors with literary flair.",
-                "fr": "Intérieurs chaleureux à l'ambiance littéraire."
+                "fr": "Intérieurs chaleureux avec une ambiance littéraire."
               }
             },
             {
@@ -607,7 +620,7 @@
                 "hu": "Száraz búvóhely csillagászati órával.",
                 "ro": "Refugiu uscat cu ceas astronomic.",
                 "en": "Dry retreat featuring the astronomical clock.",
-                "fr": "Refuge au sec abritant l'horloge astronomique."
+                "fr": "Refuge sec présentant l'horloge astronomique."
               }
             },
             {
@@ -617,7 +630,7 @@
                 "hu": "A várban található múzeumok fedettek.",
                 "ro": "Muzeele din cetate sunt acoperite.",
                 "en": "The museums within the fortress are indoors.",
-                "fr": "Les musées au sein de la forteresse sont à l'intérieur."
+                "fr": "Les musées à l'intérieur de la forteresse sont en intérieur."
               }
             },
             {
@@ -626,7 +639,8 @@
                 "de": "Kurzer Weg unter Bäumen zum Abschluss.",
                 "hu": "Rövid séta a fák alatt befejezésként.",
                 "ro": "Scurtă plimbare sub copaci la final.",
-                "en": "Short walk under trees to finish the day."
+                "en": "Short walk under trees to finish the day.",
+                "fr": "Courte promenade sous les arbres pour finir la journée."
               }
             }
           ],
@@ -656,10 +670,10 @@
               "Umbrellas can be tricky in the wind by the river."
             ],
             "fr": [
-              "Besançon possède de nombreux passages couverts dans la vieille ville.",
-              "Portez des chaussures imperméables pour les rues pavées.",
-              "La Citadelle propose d'excellents musées intérieurs en cas de pluie.",
-              "Les parapluies peuvent être difficiles à manier avec le vent près de la rivière."
+              "Besançon compte de nombreux passages couverts dans la vieille ville.",
+              "Portez des chaussures imperméables pour les pavés.",
+              "La Citadelle offre d'excellents musées intérieurs pendant la pluie.",
+              "Les parapluies peuvent être délicats par vent en bord de rivière."
             ]
           }
         },
@@ -669,7 +683,7 @@
             "hu": "Egy fagyos reggel forró itallal indul a Place de la Révolution-nál. Délben a művészeti múzeumban melegszünk fel, mielőtt ellátogatnánk Victor Hugo házába. A délután a katedrálisnál és a Citadellánál friss téli levegőt és fantasztikus kilátást kínál a városra. Mivel a nap korán nyugszik, a Gare d'Eau park hangulatos világítását már késő délután élvezhetjük.",
             "ro": "O dimineață geroasă începe cu o băutură caldă în Place de la Révolution. La prânz ne încălzim în muzeul de artă înainte de a vizita casa lui Victor Hugo. După-amiaza la catedrală și cetate oferă aer curat de iarnă și vederi fantastice asupra orașului. Deoarece soarele apune devreme, ne bucurăm de iluminatul atmosferic al parcului Gare d'Eau încă de după-amiaza târziu.",
             "en": "A frosty morning begins with a hot drink at Place de la Révolution. At midday we warm up in the art museum before visiting Victor Hugo's house. The afternoon at the cathedral and the citadel offers crisp winter air and fantastic views of the city. Since the sun sets early, we enjoy the atmospheric lighting of the Gare d'Eau park in the late afternoon.",
-            "fr": "Une matinée givrée commence par une boisson chaude Place de la Révolution. À midi, on se réchauffe au musée d'art avant de visiter la maison de Victor Hugo. L'après-midi à la cathédrale et à la citadelle offre un air hivernal pur et des vues fantastiques sur la ville. Comme le soleil se couche tôt, nous profitons de l'éclairage d'ambiance du parc de la Gare d'Eau en fin d'après-midi."
+            "fr": "Un matin glacial commence par une boisson chaude sur la Place de la Révolution. À midi, nous nous réchauffons au musée d'art avant de visiter la maison de Victor Hugo. L’après-midi à la cathédrale et à la citadelle offre un air d’hiver vif et des vues fantastiques sur la ville. Comme le soleil se couche tôt, nous profitons de l’éclairage atmosphérique du parc de la Gare d'Eau en fin d’après-midi."
           },
           "stops": [
             {
@@ -689,7 +703,7 @@
                 "hu": "Jól fűtött galériák a déli órákra.",
                 "ro": "Galerii bine încălzite pentru ora prânzului.",
                 "en": "Well-heated galleries for midday warmth.",
-                "fr": "Galeries bien chauffées pour la mi-journée."
+                "fr": "Galeries bien chauffées pour se réchauffer à midi."
               }
             },
             {
@@ -709,7 +723,7 @@
                 "hu": "A csillagászati óra egész évben látható.",
                 "ro": "Ceasul astronomic poate fi văzut tot anul.",
                 "en": "The astronomical clock is viewable year-round.",
-                "fr": "L'horloge astronomique est visible toute l'année."
+                "fr": "L'horloge astronomique se visite toute l'année."
               }
             },
             {
@@ -719,7 +733,7 @@
                 "hu": "Ügyeljen a korai téli zárórára.",
                 "ro": "Atenție la ora de închidere timpurie iarna.",
                 "en": "Note the early closing times in winter.",
-                "fr": "Notez les horaires de fermeture anticipés en hiver."
+                "fr": "Notez les heures de fermeture anticipées en hiver."
               }
             },
             {
@@ -729,7 +743,7 @@
                 "hu": "Gyönyörűen kivilágítva 17 óra után.",
                 "ro": "Frumos iluminat după ora 17:00.",
                 "en": "Beautifully lit after 5 PM.",
-                "fr": "Magnifiquement éclairé après 17h."
+                "fr": "Magnifiquement éclairé après 17 h."
               }
             }
           ],
@@ -759,10 +773,10 @@
               "Small tea rooms in the old town are ideal break spots."
             ],
             "fr": [
-              "Le soleil se couche vers 17h00 en décembre.",
-              "Les sentiers de la Citadelle peuvent être glissants par temps de gel.",
-              "Prévoyez gants et bonnet pour la visite de la forteresse.",
-              "Les petits salons de thé de la vieille ville sont des haltes idéales."
+              "Le coucher du soleil est vers 17h en décembre.",
+              "Les sentiers de la Citadelle peuvent être glissants par gelée.",
+              "Prévoyez des gants et un bonnet pour la visite de la forteresse.",
+              "Petits salons de thé dans la vieille ville idéaux pour une pause."
             ]
           }
         }
@@ -792,7 +806,7 @@
             "hu": "Szép indulópont a folyó mentén.",
             "ro": "Punct de pornire frumos de-a lungul râului.",
             "en": "Beautiful starting point along the river.",
-            "fr": "Magnifique point de départ le long de la rivière."
+            "fr": "Beau point de départ le long de la rivière."
           }
         },
         {
@@ -830,7 +844,7 @@
             "hu": "Kihívást jelentő emelkedő, de megéri.",
             "ro": "Urcare provocatoare, dar merită.",
             "en": "Challenging climb, but worth it.",
-            "fr": "Montée exigeante, mais elle en vaut la peine."
+            "fr": "Montée difficile, mais qui en vaut la peine."
           }
         },
         {
@@ -849,7 +863,7 @@
             "hu": "A legjobb panoráma a városra.",
             "ro": "Cea mai bună vedere panoramică asupra orașului.",
             "en": "Best panoramic view of the city.",
-            "fr": "La meilleure vue panoramique de la ville."
+            "fr": "Meilleur point de vue panoramique sur la ville."
           }
         },
         {
@@ -868,7 +882,7 @@
             "hu": "Pihentető tekerés a víz mentén.",
             "ro": "Plimbare relaxantă de-a lungul apei.",
             "en": "Relaxing ride along the water.",
-            "fr": "Balade relaxante au fil de l'eau."
+            "fr": "Promenade relaxante le long de l'eau."
           }
         }
       ],
@@ -877,7 +891,7 @@
         "hu": "Használja ki Besançon kiváló kerékpárútjait. Kezdjen a Promenade Micaud parkban, majd tekerjen az Idő Múzeumához a Palais Granvelle-be. Vállalja be a meredek utat a Citadellához a kilátásért. Ebéd után irány a Chaudanne-erőd a folyókanyar túlsó oldalán. A napot egy pihentető tekeréssel zárja az EuroVelo 6 útvonalon a Doubs folyó partján.",
         "ro": "Profită de pistele de biciclete excelente din Besançon. Începe la Promenade Micaud și pedalează până la Muzeul Timpului din Palais Granvelle. Îndrăznește urcarea la Citadelă pentru o vedere inegalabilă. După prânz, mergi la Fort de Chaudanne de pe partea opusă a buclei. Încheie ziua cu o tură relaxantă pe EuroVelo 6 de-a lungul râului Doubs.",
         "en": "Take advantage of Besançon's excellent cycling paths. Start at Promenade Micaud and cycle to the Museum of Time in Palais Granvelle. Brave the climb to the Citadel for an unparalleled view. After lunch, cycle to Fort de Chaudanne on the opposite side of the loop. End your day with a relaxing ride on the EuroVelo 6 path along the Doubs river.",
-        "fr": "Profitez des excellentes pistes cyclables de Besançon. Commencez à la Promenade Micaud et pédalez jusqu'au Musée du Temps au Palais Granvelle. Bravez la montée vers la Citadelle pour une vue imprenable. Après le déjeuner, roulez vers le Fort de Chaudanne sur le versant opposé de la boucle. Terminez votre journée par une balade relaxante sur l'EuroVelo 6 le long du Doubs."
+        "fr": "Profitez des excellentes pistes cyclables de Besançon. Commencez à la Promenade Micaud et pédalez jusqu'au Musée du Temps dans le Palais Granvelle. Affrontez la montée vers la Citadelle pour une vue inégalée. Après le déjeuner, roulez jusqu'au Fort de Chaudanne de l'autre côté de la boucle. Terminez la journée par une balade relaxante sur la voie EuroVelo 6 le long du Doubs."
       },
       "gastro_picks": {
         "de": [
@@ -1072,9 +1086,9 @@
         ],
         "fr": [
           "Louez un vélo via le système Ginko Vélo.",
-          "Le tunnel sous la Citadelle est une expérience insolite pour les cyclistes.",
-          "Apportez assez d'eau pour la montée au Fort de Chaudanne.",
-          "Les chemins de halage sont plats et très agréables."
+          "Le tunnel sous la Citadelle est une expérience sympa pour les cyclistes.",
+          "Apportez assez d'eau pour la montée vers Fort Chaudanne.",
+          "Les voies le long du fleuve sont plates et très agréables."
         ]
       },
       "variants": {
@@ -1083,7 +1097,8 @@
             "de": "Nutzen Sie die hervorragenden Radwege von Besançon. Starten Sie an der Promenade Micaud und radeln Sie zum Museum der Zeit im Palais Granvelle. Wagen Sie den Anstieg zur Zitadelle für einen unvergleichlichen Ausblick. Nach dem Mittagessen radeln Sie zum Fort de Chaudanne auf der gegenüberliegenden Seite der Schlinge. Beenden Sie den Tag mit einer entspannten Runde auf der EuroVelo 6 entlang des Doubs.",
             "hu": "Használja ki Besançon kiváló kerékpárútjait. Kezdjen a Promenade Micaud parkban, majd tekerjen az Idő Múzeumához a Palais Granvelle-be. Vállalja be a meredek utat a Citadellához a kilátásért. Ebéd után irány a Chaudanne-erőd a folyókanyar túlsó oldalán. A napot egy pihentető tekeréssel zárja az EuroVelo 6 útvonalon a Doubs folyó partján.",
             "ro": "Profită de pistele de biciclete excelente din Besançon. Începe la Promenade Micaud și pedalează până la Muzeul Timpului din Palais Granvelle. Îndrăznește urcarea la Citadelă pentru o vedere inegalabilă. După prânz, mergi la Fort de Chaudanne de pe partea opusă a buclei. Încheie ziua cu o tură relaxantă pe EuroVelo 6 de-a lungul râului Doubs.",
-            "en": "Take advantage of Besançon's excellent cycling paths. Start at Promenade Micaud and cycle to the Museum of Time in Palais Granvelle. Brave the climb to the Citadel for an unparalleled view. After lunch, cycle to Fort de Chaudanne on the opposite side of the loop. End your day with a relaxing ride on the EuroVelo 6 path along the Doubs river."
+            "en": "Take advantage of Besançon's excellent cycling paths. Start at Promenade Micaud and cycle to the Museum of Time in Palais Granvelle. Brave the climb to the Citadel for an unparalleled view. After lunch, cycle to Fort de Chaudanne on the opposite side of the loop. End your day with a relaxing ride on the EuroVelo 6 path along the Doubs river.",
+            "fr": "Profitez des excellentes pistes cyclables de Besançon. Commencez à la Promenade Micaud et pédalez jusqu'au Musée du Temps dans le Palais Granvelle. Affrontez la montée vers la Citadelle pour une vue inégalée. Après le déjeuner, roulez jusqu'au Fort de Chaudanne de l'autre côté de la boucle. Terminez la journée par une balade relaxante sur la voie EuroVelo 6 le long du Doubs."
           },
           "stops": [
             {
@@ -1092,7 +1107,8 @@
                 "de": "Schöner Startpunkt am Fluss.",
                 "hu": "Szép indulópont a folyó mentén.",
                 "ro": "Punct de pornire frumos de-a lungul râului.",
-                "en": "Beautiful starting point along the river."
+                "en": "Beautiful starting point along the river.",
+                "fr": "Beau point de départ le long de la rivière."
               }
             },
             {
@@ -1101,7 +1117,8 @@
                 "de": "Erfahren Sie mehr über die Uhrmacherkunst.",
                 "hu": "Ismerje meg az órakészítés művészetét.",
                 "ro": "Aflați despre arta ceasornicăriei.",
-                "en": "Learn about the art of watchmaking."
+                "en": "Learn about the art of watchmaking.",
+                "fr": "Découvrez l'art de l'horlogerie."
               }
             },
             {
@@ -1110,7 +1127,8 @@
                 "de": "Herausfordernder Anstieg, aber lohnenswert.",
                 "hu": "Kihívást jelentő emelkedő, de megéri.",
                 "ro": "Urcare provocatoare, dar merită.",
-                "en": "Challenging climb, but worth it."
+                "en": "Challenging climb, but worth it.",
+                "fr": "Montée difficile, mais qui en vaut la peine."
               }
             },
             {
@@ -1119,7 +1137,8 @@
                 "de": "Bester Panoramablick auf die Stadt.",
                 "hu": "A legjobb panoráma a városra.",
                 "ro": "Cea mai bună vedere panoramică asupra orașului.",
-                "en": "Best panoramic view of the city."
+                "en": "Best panoramic view of the city.",
+                "fr": "Meilleur point de vue panoramique sur la ville."
               }
             },
             {
@@ -1128,7 +1147,8 @@
                 "de": "Entspannte Fahrt entlang des Wassers.",
                 "hu": "Pihentető tekerés a víz mentén.",
                 "ro": "Plimbare relaxantă de-a lungul apei.",
-                "en": "Relaxing ride along the water."
+                "en": "Relaxing ride along the water.",
+                "fr": "Promenade relaxante le long de l'eau."
               }
             }
           ],
@@ -1290,6 +1310,12 @@
               "The tunnel under the Citadel is a cool experience for cyclists.",
               "Bring enough water for the climb to Fort Chaudanne.",
               "The riverside paths are flat and very pleasant."
+            ],
+            "fr": [
+              "Louez un vélo via le système Ginko Vélo.",
+              "Le tunnel sous la Citadelle est une expérience sympa pour les cyclistes.",
+              "Apportez assez d'eau pour la montée vers Fort Chaudanne.",
+              "Les voies le long du fleuve sont plates et très agréables."
             ]
           }
         },
@@ -1299,7 +1325,7 @@
             "hu": "Frissítő tekerés a Promenade Micaud mentén az eső ellenére. Délben az Időmúzeum kínál lenyűgöző pihenőt szárazon. A Citadella meredek emelkedője próbára teszi az állóképességet, cserébe drámai kilátást nyújt. Délután felfedezzük a Fort de Chaudanne-t, majd a Doubs menti kerékpárúton fejezzük be a kört lágy esőben.",
             "ro": "O plimbare revigorantă de-a lungul Promenade Micaud în ciuda ploii. La prânz, Muzeul Timpului oferă o pauză fascinantă la adăpost. Urcarea abruptă spre cetate testează condiția fizică și este răsplătită cu vederi dramatice. După-amiaza explorăm Fort de Chaudanne înainte de a încheia tura pe pista de biciclete de pe malul râului Doubs.",
             "en": "A refreshing ride along Promenade Micaud despite the rain. At midday, the Time Museum offers a fascinating break in the dry. The steep climb to the Citadel challenges your fitness and rewards you with dramatic views. In the afternoon we explore Fort de Chaudanne before finishing the loop on the Doubs bike path in gentle rain.",
-            "fr": "Une balade rafraîchissante le long de la Promenade Micaud malgré la pluie. À midi, le Musée du Temps offre une pause fascinante au sec. La montée raide vers la Citadelle met au défi votre condition physique et vous récompense par des vues spectaculaires. L'après-midi, nous explorons le Fort de Chaudanne avant de terminer la boucle sur la piste cyclable du Doubs sous une pluie fine."
+            "fr": "Une balade revigorante le long de la Promenade Micaud malgré la pluie. À midi, le Musée du Temps offre une pause fascinante au sec. La montée raide vers la Citadelle teste votre forme et vous récompense par des vues spectaculaires. L’après-midi nous explorons le Fort de Chaudanne avant de terminer la boucle sur la piste cyclable du Doubs sous une pluie légère."
           },
           "stops": [
             {
@@ -1319,7 +1345,7 @@
                 "hu": "Biztonságos kerékpártároló közvetlenül a bejáratnál.",
                 "ro": "Suport sigur pentru biciclete chiar la intrare.",
                 "en": "Secure bike rack right at the entrance.",
-                "fr": "Abri vélo sécurisé juste à l'entrée."
+                "fr": "Arceau de sécurité pour vélos juste à l'entrée."
               }
             },
             {
@@ -1329,7 +1355,7 @@
                 "hu": "Az aszfalt nedvesen is jól tapad, de meredek.",
                 "ro": "Asfaltul are aderență bună pe ploaie, dar e abrupt.",
                 "en": "Asphalt has good grip when wet, but it is steep.",
-                "fr": "L'asphalte accroche bien même humide, mais c'est raide."
+                "fr": "L'asphalte accroche bien quand il est mouillé, mais c'est raide."
               }
             },
             {
@@ -1339,7 +1365,7 @@
                 "hu": "Pazar kilátás az esőfelhőkbe burkolózó városra.",
                 "ro": "Vedere superbă asupra orașului învăluit de ploaie.",
                 "en": "Great views of the rain-shrouded city.",
-                "fr": "Superbes vues sur la ville enveloppée de pluie."
+                "fr": "Superbes vues de la ville voilée de pluie."
               }
             },
             {
@@ -1349,7 +1375,7 @@
                 "hu": "Sárvédő használata ebben az időben kötelező.",
                 "ro": "Apărătorile de noroi sunt obligatorii pe această vreme.",
                 "en": "Mudguards are a must in this weather.",
-                "fr": "Les garde-boue sont indispensables par ce temps."
+                "fr": "Les garde-boues sont indispensables par ce temps."
               }
             }
           ],
@@ -1380,9 +1406,9 @@
             ],
             "fr": [
               "Utilisez les itinéraires EuroVelo 6 pour un meilleur revêtement.",
-              "Évitez les pavés de la vieille ville sous la pluie.",
+              "Évitez les pavés de la vieille ville par temps de pluie.",
               "Les éclairages avant et arrière sont cruciaux sous un ciel gris.",
-              "Le parking vélo à la gare est sec et sécurisé."
+              "Le parking vélos à la gare est sec et sécurisé."
             ]
           }
         },
@@ -1392,7 +1418,7 @@
             "hu": "Egy tiszta téli reggel a Micaud parkon keresztüli tekeréssel indul. Délben az Időmúzeum meleget és érdekes betekintést kínál az óragyártásba. A Citadellához vezető emelkedő melegen tartja a testet, míg a Chaudanne kilátása tiszta téli égbolt mellett lélegzetelállító. A túra a Doubs-nál ér véget, ahol a természet téli csendje különösen érezhető.",
             "ro": "O dimineață senină de iarnă începe cu o plimbare prin parcul Micaud. La prânz, Muzeul Timpului oferă căldură și informații interesante despre orologerie. Urcarea spre cetate menține corpul cald, în timp ce vederea de la Chaudanne sub cerul senin de iarnă este uluitoare. Călătoria se încheie la râul Doubs, unde liniștea hibernală a naturii este palpabilă.",
             "en": "A clear winter morning begins with a ride through Micaud Park. At midday, the Time Museum offers warmth and interesting insights into watchmaking. The climb to the Citadel keeps you warm, while the view from Chaudanne under clear winter skies is breathtaking. The ride ends at the Doubs, where the winter silence of nature is particularly felt.",
-            "fr": "Une matinée d'hiver claire commence par une traversée du parc Micaud. À midi, le Musée du Temps offre chaleur et perspectives intéressantes sur l'horlogerie. La montée à la Citadelle vous garde au chaud, tandis que la vue depuis Chaudanne sous un ciel d'hiver limpide est à couper le souffle. La balade se termine au Doubs, où le silence hivernal de la nature se fait particulièrement sentir."
+            "fr": "Un matin d'hiver clair commence par une balade dans le parc Micaud. À midi, le Musée du Temps offre chaleur et découvertes sur l'horlogerie. La montée vers la Citadelle vous garde au chaud, tandis que la vue depuis Chaudanne sous un ciel hivernal dégagé est à couper le souffle. La balade se termine au Doubs, où le silence hivernal de la nature se ressent particulièrement."
           },
           "stops": [
             {
@@ -1402,7 +1428,7 @@
                 "hu": "Vigyázzon a hidakon a lefagyásokkal.",
                 "ro": "Atenție la porțiunile înghețate de pe poduri.",
                 "en": "Be careful of freezing moisture on the bridges.",
-                "fr": "Prudence face au givre sur les ponts."
+                "fr": "Faites attention à l'humidité givrée sur les ponts."
               }
             },
             {
@@ -1422,7 +1448,7 @@
                 "hu": "Az aktív tekerés távol tartja a hideget.",
                 "ro": "Activitatea fizică vă ajută să nu simțiți frigul.",
                 "en": "Active riding keeps the cold at bay.",
-                "fr": "Pédaler activement permet de chasser le froid."
+                "fr": "Une pratique active permet de garder le froid à distance."
               }
             },
             {
@@ -1432,7 +1458,7 @@
                 "hu": "A tiszta levegő messzi kilátást biztosít.",
                 "ro": "Aerul curat oferă o vizibilitate excelentă.",
                 "en": "Crisp air ensures great long-distance views.",
-                "fr": "L'air vif assure une excellente visibilité au loin."
+                "fr": "L'air vif garantit de belles vues lointaines."
               }
             },
             {
@@ -1442,7 +1468,7 @@
                 "hu": "Meleg öltözet a folyóparti sík szakaszhoz.",
                 "ro": "Haine groase pentru porțiunea plană de lângă râu.",
                 "en": "Warm clothing is essential for the flat river path.",
-                "fr": "Vêtements chauds essentiels pour le chemin plat en bord de rivière."
+                "fr": "Des vêtements chauds sont essentiels pour la piste plate le long du fleuve."
               }
             }
           ],
@@ -1473,9 +1499,9 @@
             ],
             "fr": [
               "Portez plusieurs couches et des vêtements coupe-vent.",
-              "Évitez les sorties tardives sans un éclairage adéquat.",
-              "Les freins peuvent réagir un peu plus lentement avec le froid.",
-              "Un thé chaud en thermos est idéal pour les pauses."
+              "Évitez les sorties tardives sans éclairage adéquat.",
+              "Les freins peuvent réagir légèrement plus lentement par grand froid.",
+              "Un thé chaud dans une thermos est idéal pour les pauses."
             ]
           }
         }
@@ -1505,7 +1531,7 @@
             "hu": "Vauban másik erődítménye a városban.",
             "ro": "A doua fortificație Vauban din oraș.",
             "en": "Second Vauban fortification in the city.",
-            "fr": "Seconde fortification de Vauban dans la ville."
+            "fr": "Deuxième fortification de Vauban dans la ville."
           }
         },
         {
@@ -1543,7 +1569,7 @@
             "hu": "Festői falu, a 'Franche-Comté Velencéje'.",
             "ro": "Sat pitoresc, 'Veneția din Franche-Comté'.",
             "en": "Picturesque village, the 'Venice of Franche-Comté'.",
-            "fr": "Village pittoresque, la 'Petite Venise de Franche-Comté'."
+            "fr": "Village pittoresque, la « Venise de Franche-Comté »."
           }
         },
         {
@@ -1581,7 +1607,7 @@
             "hu": "Tökéletes befejezés a lazításhoz.",
             "ro": "Final perfect pentru relaxare.",
             "en": "Perfect ending for relaxing.",
-            "fr": "Fin de journée parfaite pour se détendre."
+            "fr": "Parfait pour une fin relaxante."
           }
         }
       ],
@@ -1590,7 +1616,7 @@
         "hu": "Autóval Besançon és környéke is könnyen felfedezhető. Kezdjen a Fort Griffon erődnél, majd irány a méltóságteljes Citadella. Tegyen egy kirándulást a festői Ornans-ba, Courbet festő szülőhelyére, és ebédeljen a folyóparton. Visszafelé álljon meg a Chapelle des Buis kilátópontnál a vidékre nyíló panorámáért. A napot zárja egy kellemes pihenéssel a besançoni Gare d'Eau parkban.",
         "ro": "Cu mașina puteți explora Besançon și împrejurimile sale. Începeți la Fort Griffon, apoi vizitați maiestuoasa Citadelă. Faceți o excursie în pitorescul Ornans, locul de naștere al pictorului Courbet, pentru un prânz pe malul râului. Reveniți prin punctul de belvedere Chapelle des Buis pentru o vedere largă asupra regiunii. Încheiați ziua relaxat la Gare d'Eau în Besançon.",
         "en": "By car, you can explore Besançon and its surroundings. Start at Fort Griffon, then visit the majestic Citadel. Take a trip to picturesque Ornans, birthplace of the painter Courbet, for a lunch by the river. Return via the Chapelle des Buis viewpoint for a wide view over the region. End your day relaxing at the Gare d'Eau in Besançon.",
-        "fr": "En voiture, vous pouvez explorer Besançon et ses environs. Commencez au Fort Griffon, puis visitez la majestueuse Citadelle. Partez pour la pittoresque commune d'Ornans, ville natale du peintre Courbet, pour un déjeuner au bord de l'eau. Revenez par le point de vue de la Chapelle des Buis pour un large panorama sur la région. Terminez votre journée en vous relaxant à la Gare d'Eau à Besançon."
+        "fr": "En voiture, vous pouvez explorer Besançon et ses environs. Commencez au Fort Griffon, puis visitez la majestueuse Citadelle. Faites une excursion à Ornans, village pittoresque et lieu de naissance du peintre Courbet, pour un déjeuner au bord de la rivière. Retournez via le point de vue de la Chapelle des Buis pour une large vue sur la région. Terminez la journée en vous relaxant à la Gare d'Eau à Besançon."
       },
       "gastro_picks": {
         "de": [
@@ -1784,10 +1810,10 @@
           "The drive to Ornans is scenically very rewarding."
         ],
         "fr": [
-          "Utilisez les parkings relais (P+R) en périphérie de la ville.",
+          "Utilisez les parkings P+R en périphérie de la ville.",
           "Les rues de la vieille ville sont parfois très étroites.",
           "Le stationnement à la Citadelle est limité en haute saison.",
-          "La route vers Ornans est très gratifiante sur le plan paysager."
+          "La route vers Ornans est d'un grand intérêt paysager."
         ]
       },
       "variants": {
@@ -1796,7 +1822,8 @@
             "de": "Mit dem Auto können Sie Besançon und seine Umgebung erkunden. Starten Sie beim Fort Griffon und besuchen Sie dann die majestätische Zitadelle. Machen Sie einen Ausflug in das malerische Ornans, dem Geburtsort des Malers Courbet, für ein Mittagessen am Fluss. Kehren Sie zurück über den Aussichtspunkt Chapelle des Buis für einen weiten Blick über die Region. Beenden Sie den Tag entspannt am Gare d'Eau in Besançon.",
             "hu": "Autóval Besançon és környéke is könnyen felfedezhető. Kezdjen a Fort Griffon erődnél, majd irány a méltóságteljes Citadella. Tegyen egy kirándulást a festői Ornans-ba, Courbet festő szülőhelyére, és ebédeljen a folyóparton. Visszafelé álljon meg a Chapelle des Buis kilátópontnál a vidékre nyíló panorámáért. A napot zárja egy kellemes pihenéssel a besançoni Gare d'Eau parkban.",
             "ro": "Cu mașina puteți explora Besançon și împrejurimile sale. Începeți la Fort Griffon, apoi vizitați maiestuoasa Citadelă. Faceți o excursie în pitorescul Ornans, locul de naștere al pictorului Courbet, pentru un prânz pe malul râului. Reveniți prin punctul de belvedere Chapelle des Buis pentru o vedere largă asupra regiunii. Încheiați ziua relaxat la Gare d'Eau în Besançon.",
-            "en": "By car, you can explore Besançon and its surroundings. Start at Fort Griffon, then visit the majestic Citadel. Take a trip to picturesque Ornans, birthplace of the painter Courbet, for a lunch by the river. Return via the Chapelle des Buis viewpoint for a wide view over the region. End your day relaxing at the Gare d'Eau in Besançon."
+            "en": "By car, you can explore Besançon and its surroundings. Start at Fort Griffon, then visit the majestic Citadel. Take a trip to picturesque Ornans, birthplace of the painter Courbet, for a lunch by the river. Return via the Chapelle des Buis viewpoint for a wide view over the region. End your day relaxing at the Gare d'Eau in Besançon.",
+            "fr": "En voiture, vous pouvez explorer Besançon et ses environs. Commencez au Fort Griffon, puis visitez la majestueuse Citadelle. Faites une excursion à Ornans, village pittoresque et lieu de naissance du peintre Courbet, pour un déjeuner au bord de la rivière. Retournez via le point de vue de la Chapelle des Buis pour une large vue sur la région. Terminez la journée en vous relaxant à la Gare d'Eau à Besançon."
           },
           "stops": [
             {
@@ -1805,7 +1832,8 @@
                 "de": "Zweite Festungsanlage von Vauban in der Stadt.",
                 "hu": "Vauban másik erődítménye a városban.",
                 "ro": "A doua fortificație Vauban din oraș.",
-                "en": "Second Vauban fortification in the city."
+                "en": "Second Vauban fortification in the city.",
+                "fr": "Deuxième fortification de Vauban dans la ville."
               }
             },
             {
@@ -1814,7 +1842,8 @@
                 "de": "Großer Parkplatz in der Nähe vorhanden.",
                 "hu": "Nagy parkoló található a közelben.",
                 "ro": "Parcare mare disponibilă în apropiere.",
-                "en": "Large parking available nearby."
+                "en": "Large parking available nearby.",
+                "fr": "Grand parking disponible à proximité."
               }
             },
             {
@@ -1823,7 +1852,8 @@
                 "de": "Malerisches Dorf, das 'Venedig der Franche-Comté'.",
                 "hu": "Festői falu, a 'Franche-Comté Velencéje'.",
                 "ro": "Sat pitoresc, 'Veneția din Franche-Comté'.",
-                "en": "Picturesque village, the 'Venice of Franche-Comté'."
+                "en": "Picturesque village, the 'Venice of Franche-Comté'.",
+                "fr": "Village pittoresque, la « Venise de Franche-Comté »."
               }
             },
             {
@@ -1832,7 +1862,8 @@
                 "de": "Panoramablick auf die Stadt und die Alpen.",
                 "hu": "Panoráma a városra és az Alpokra.",
                 "ro": "Vedere panoramică asupra orașului și Alpilor.",
-                "en": "Panoramic view of the city and the Alps."
+                "en": "Panoramic view of the city and the Alps.",
+                "fr": "Vue panoramique sur la ville et les Alpes."
               }
             },
             {
@@ -1841,7 +1872,8 @@
                 "de": "Perfekter Abschluss zum Entspannen.",
                 "hu": "Tökéletes befejezés a lazításhoz.",
                 "ro": "Final perfect pentru relaxare.",
-                "en": "Perfect ending for relaxing."
+                "en": "Perfect ending for relaxing.",
+                "fr": "Parfait pour une fin relaxante."
               }
             }
           ],
@@ -2003,6 +2035,12 @@
               "Old town streets are sometimes very narrow.",
               "Parking at the Citadel is limited during peak season.",
               "The drive to Ornans is scenically very rewarding."
+            ],
+            "fr": [
+              "Utilisez les parkings P+R en périphérie de la ville.",
+              "Les rues de la vieille ville sont parfois très étroites.",
+              "Le stationnement à la Citadelle est limité en haute saison.",
+              "La route vers Ornans est d'un grand intérêt paysager."
             ]
           }
         },
@@ -2012,7 +2050,7 @@
             "hu": "Egy esős nap a Fort Griffon-nál indul, kilátással a városra. Délben kényelmesen, autóval megyünk a Citadellához, ahol közel a bejárathoz lehet parkolni. Az út Ornans-ba esőben különösen hangulatos, ahogy a köd a Loue folyó felett lebeg. Délután a Chapelle des Buis kilátópontot keressük fel, majd a napot a Gare d'Eau parknál zárjuk.",
             "ro": "O zi ploioasă începe la Fort Griffon cu vedere spre oraș. La prânz mergem confortabil cu mașina la cetate, unde se poate parca aproape de intrare. Drumul spre Ornans este deosebit de atmosferic pe ploaie, cu ceața plutind peste râul Loue. După-amiaza vizităm punctul de belvedere Chapelle des Buis înainte de a încheia ziua în parcul Gare d'Eau.",
             "en": "A rainy day starts at Fort Griffon with views over the city. At midday, we drive comfortably to the Citadel, where you can park close to the entrance. The drive to Ornans is particularly atmospheric in the rain, with mist hanging over the Loue. In the afternoon we visit the Chapelle des Buis viewpoint before ending the day at Gare d'Eau Park.",
-            "fr": "Une journée pluvieuse commence au Fort Griffon avec vue sur la ville. À midi, nous roulons confortablement vers la Citadelle, où vous pouvez vous garer près de l'entrée. La route vers Ornans est particulièrement atmosphérique sous la pluie, avec la brume suspendue sur la Loue. L'après-midi, nous visitons le belvédère de la Chapelle des Buis avant de finir au parc de la Gare d'Eau."
+            "fr": "Une journée pluvieuse commence au Fort Griffon avec des vues sur la ville. À midi, nous roulons confortablement jusqu'à la Citadelle, où vous pouvez vous garer près de l'entrée. La route vers Ornans est particulièrement atmosphérique sous la pluie, avec de la brume au-dessus de la Loue. L’après-midi, nous visitons le point de vue de la Chapelle des Buis avant de terminer la journée au parc de la Gare d'Eau."
           },
           "stops": [
             {
@@ -2022,7 +2060,7 @@
                 "hu": "Jó kilátás közvetlenül az autóból is.",
                 "ro": "Vedere bună posibilă chiar din mașină.",
                 "en": "Good views possible directly from the car.",
-                "fr": "Belles vues possibles directement depuis la voiture."
+                "fr": "De bonnes vues possibles directement depuis la voiture."
               }
             },
             {
@@ -2042,7 +2080,7 @@
                 "hu": "25 perces festői autózás a völgyön át.",
                 "ro": "25 de minute de condus pitoresc prin vale.",
                 "en": "25 minutes scenic drive through the valley.",
-                "fr": "25 minutes de route panoramique dans la vallée."
+                "fr": "25 minutes de route panoramique à travers la vallée."
               }
             },
             {
@@ -2062,7 +2100,7 @@
                 "hu": "A Chamars parkolóház száraz bejutást biztosít.",
                 "ro": "Parcarea Chamars oferă acces la adăpost.",
                 "en": "Chamars parking garage offers dry access.",
-                "fr": "Le parking Chamars offre un accès au sec."
+                "fr": "Le parking Chamars offre un accès sec."
               }
             }
           ],
@@ -2092,10 +2130,10 @@
               "Visit the Courbet Museum in Ornans as an indoor option."
             ],
             "fr": [
-              "Le parking souterrain 'Mairie' est idéal pour le centre-ville.",
-              "Évitez les ruelles étroites du centre historique sous la pluie.",
-              "La route d'Ornans peut être glissante lorsqu'elle est mouillée.",
-              "Visitez le Musée Courbet à Ornans comme option en intérieur."
+              "Le parking « Mairie » est idéal pour le centre-ville.",
+              "Évitez les rues étroites de la vieille ville pendant la pluie.",
+              "La route vers Ornans peut être glissante par temps humide.",
+              "Visitez le Musée Courbet à Ornans comme option intérieure."
             ]
           }
         },
@@ -2105,7 +2143,7 @@
             "hu": "Egy tiszta téli reggel a Fort Griffon-hoz vezet. Délben ellátogatunk a Citadellához, ahol a téli nap megvilágítja a várfalakat. Az út a téli Ornans-ba gyönyörű tájakat kínál a Loue mentén. Délután a Chapelle des Buis kilátását élvezzük, majd a napot a kivilágított Gare d'Eau parkban zárjuk.",
             "ro": "O dimineață senină de iarnă ne conduce la Fort Griffon. La prânz vizităm cetatea, unde soarele de iarnă luminează zidurile fortăreței. Călătoria spre Ornans iarna oferă peisaje frumoase de-a lungul râului Loue. După-amiaza ne bucurăm de vederea de la Chapelle des Buis înainte de a încheia ziua în parcul iluminat Gare d'Eau.",
             "en": "A clear winter morning takes us to Fort Griffon. At midday we visit the Citadel, where the winter sun illuminates the fortress walls. The drive to wintery Ornans offers beautiful landscapes along the Loue. In the afternoon we enjoy the view from Chapelle des Buis before ending the day in the lit Gare d'Eau Park.",
-            "fr": "Une matinée d'hiver claire nous emmène au Fort Griffon. À midi, nous visitons la Citadelle, où le soleil d'hiver illumine les murs de la forteresse. La route vers Ornans sous la neige offre des paysages magnifiques le long de la Loue. L'après-midi, nous profitons de la vue depuis la Chapelle des Buis avant de clore la journée au parc illuminé de la Gare d'Eau."
+            "fr": "Un matin d'hiver clair nous emmène au Fort Griffon. À midi nous visitons la Citadelle, où le soleil d'hiver illumine les murs de la forteresse. La route vers l'Ornans hivernal offre de beaux paysages le long de la Loue. L'après-midi nous profitons de la vue depuis la Chapelle des Buis avant de terminer la journée au Parc de la Gare d'Eau illuminé."
           },
           "stops": [
             {
@@ -2115,7 +2153,7 @@
                 "hu": "Használja a fűtést a kilátás élvezete közben.",
                 "ro": "Folosiți încălzirea în timpul pauzei pentru belvedere.",
                 "en": "Use the heater during the viewing break.",
-                "fr": "Utilisez le chauffage pendant la pause panoramique."
+                "fr": "Utilisez le chauffage pendant la pause observation."
               }
             },
             {
@@ -2125,7 +2163,7 @@
                 "hu": "A parkoló télen többnyire szabad.",
                 "ro": "Parcarea este de obicei liberă iarna.",
                 "en": "The parking lot is usually free in winter.",
-                "fr": "Le parking est généralement libre en hiver."
+                "fr": "Le parking est généralement gratuit en hiver."
               }
             },
             {
@@ -2145,7 +2183,7 @@
                 "hu": "Vigyázzon a jégre a parkolóban.",
                 "ro": "Atenție la gheața din parcare.",
                 "en": "Watch out for ice in the parking lot.",
-                "fr": "Attention au verglas sur le parking."
+                "fr": "Faites attention au verglas dans le parking."
               }
             },
             {
@@ -2155,7 +2193,7 @@
                 "hu": "Este biztonságosan és jól megvilágított helyen parkoljon.",
                 "ro": "Parcați în siguranță într-un loc bine iluminat seara.",
                 "en": "Park safely in a well-lit area in the evening.",
-                "fr": "Garez-vous en toute sécurité dans une zone bien éclairée le soir."
+                "fr": "Garez-vous en sécurité dans un endroit bien éclairé le soir."
               }
             }
           ],
@@ -2185,10 +2223,10 @@
               "Enjoy the drive through the snowy Jura foothills."
             ],
             "fr": [
-              "Les pneus hiver sont conseillés dans le Doubs dès novembre.",
-              "Vérifiez l'antigel de votre système de lave-glace.",
+              "Les pneus neige sont conseillés dans le département du Doubs à partir de novembre.",
+              "Vérifiez l'antigel du système de lave-glace.",
               "La Citadelle peut être difficile d'accès en cas de fortes chutes de neige.",
-              "Profitez de la traversée des contreforts enneigés du Jura."
+              "Profitez de la route à travers les contreforts enneigés du Jura."
             ]
           }
         }
@@ -2218,7 +2256,7 @@
             "hu": "A Ginko hálózat központi csomópontja.",
             "ro": "Nod central al rețelei Ginko.",
             "en": "Central hub of the Ginko network.",
-            "fr": "Plaque tournante centrale du réseau Ginko."
+            "fr": "Nœud central du réseau Ginko."
           }
         },
         {
@@ -2237,7 +2275,7 @@
             "hu": "Pár lépésre a villamosmegállótól.",
             "ro": "La doar câțiva pași de stația de tramvai.",
             "en": "Just a few steps from the tram stop.",
-            "fr": "À quelques pas seulement de l'arrêt de tram."
+            "fr": "À seulement quelques pas de l'arrêt de tram."
           }
         },
         {
@@ -2275,7 +2313,7 @@
             "hu": "Közvetlen járat az erődhöz.",
             "ro": "Navetă directă către cetate.",
             "en": "Direct shuttle to the fortress.",
-            "fr": "Navette directe pour la forteresse."
+            "fr": "Navette directe vers la forteresse."
           }
         },
         {
@@ -2303,7 +2341,7 @@
         "hu": "Használja a Ginko villamos- és buszhálózatát a látogatáshoz. Kezdjen a Place de la Révolution téren, és nézze meg a Szépművészeti Múzeumot. Menjen busszal Victor Hugo szülőházához, majd a 27-es járattal közvetlenül a Citadellához. Töltse a délutánt az erődben, végül utazzon villamossal a Parc Micaud-hoz, hogy a folyóparton fejezze be a napot.",
         "ro": "Utilizați rețeaua de tramvaie și autobuze Ginko pentru vizita dvs. Începeți la Place de la Révolution și vizitați Muzeul de Arte Frumoase. Mergeți cu autobuzul la Casa Victor Hugo și apoi cu naveta 27 direct la Citadelă. Bucurați-vă de după-amiază în cetate, apoi luați tramvaiul spre Parc Micaud pentru a încheia ziua pe malul râului.",
         "en": "Use the Ginko tram and bus network for your visit. Start at Place de la Révolution and visit the Fine Arts Museum. Take a bus to Victor Hugo's house and then shuttle 27 directly to the Citadel. Enjoy the afternoon at the fortress, then take the tram to Parc Micaud to finish your day by the riverbanks.",
-        "fr": "Utilisez le réseau de trams et de bus Ginko pour votre visite. Commencez Place de la Révolution et visitez le Musée des Beaux-Arts. Prenez un bus vers la maison de Victor Hugo, puis la navette 27 directement vers la Citadelle. Profitez de l'après-midi à la forteresse, puis prenez le tram vers le parc Micaud pour finir votre journée sur les berges."
+        "fr": "Utilisez le réseau de tram et de bus Ginko pour votre visite. Commencez à la Place de la Révolution et visitez le Musée des Beaux-Arts. Prenez un bus jusqu'à la maison de Victor Hugo puis la navette 27 directement jusqu'à la Citadelle. Profitez de l'après-midi à la forteresse, puis prenez le tram jusqu'au Parc Micaud pour terminer votre journée au bord du fleuve."
       },
       "gastro_picks": {
         "de": [
@@ -2498,9 +2536,9 @@
         ],
         "fr": [
           "Achetez un pass journée pour le réseau Ginko.",
-          "La navette 27 circule de manière saisonnière vers la Citadelle.",
-          "Les lignes de tram T1 et T2 desservent le centre très fréquemment.",
-          "Utilisez l'application 'Ginko Mobilités' pour les horaires en temps réel."
+          "La navette 27 circule en saison vers la Citadelle.",
+          "Les lignes de tram T1 et T2 desservent très fréquemment le centre.",
+          "Utilisez l'application « Ginko Mobilités » pour des informations en temps réel."
         ]
       },
       "variants": {
@@ -2509,7 +2547,8 @@
             "de": "Nutzen Sie das Ginko-Tram- und Busnetz für Ihren Besuch. Starten Sie an der Place de la Révolution und besuchen Sie das Kunstmuseum. Fahren Sie mit dem Bus zur Maison Victor Hugo und weiter mit dem Shuttle 27 direkt zur Zitadelle. Genießen Sie den Nachmittag in der Festung und fahren Sie dann mit der Tram zum Parc Micaud, um den Tag am Flussufer ausklingen zu lassen.",
             "hu": "Használja a Ginko villamos- és buszhálózatát a látogatáshoz. Kezdjen a Place de la Révolution téren, és nézze meg a Szépművészeti Múzeumot. Menjen busszal Victor Hugo szülőházához, majd a 27-es járattal közvetlenül a Citadellához. Töltse a délutánt az erődben, végül utazzon villamossal a Parc Micaud-hoz, hogy a folyóparton fejezze be a napot.",
             "ro": "Utilizați rețeaua de tramvaie și autobuze Ginko pentru vizita dvs. Începeți la Place de la Révolution și vizitați Muzeul de Arte Frumoase. Mergeți cu autobuzul la Casa Victor Hugo și apoi cu naveta 27 direct la Citadelă. Bucurați-vă de după-amiază în cetate, apoi luați tramvaiul spre Parc Micaud pentru a încheia ziua pe malul râului.",
-            "en": "Use the Ginko tram and bus network for your visit. Start at Place de la Révolution and visit the Fine Arts Museum. Take a bus to Victor Hugo's house and then shuttle 27 directly to the Citadel. Enjoy the afternoon at the fortress, then take the tram to Parc Micaud to finish your day by the riverbanks."
+            "en": "Use the Ginko tram and bus network for your visit. Start at Place de la Révolution and visit the Fine Arts Museum. Take a bus to Victor Hugo's house and then shuttle 27 directly to the Citadel. Enjoy the afternoon at the fortress, then take the tram to Parc Micaud to finish your day by the riverbanks.",
+            "fr": "Utilisez le réseau de tram et de bus Ginko pour votre visite. Commencez à la Place de la Révolution et visitez le Musée des Beaux-Arts. Prenez un bus jusqu'à la maison de Victor Hugo puis la navette 27 directement jusqu'à la Citadelle. Profitez de l'après-midi à la forteresse, puis prenez le tram jusqu'au Parc Micaud pour terminer votre journée au bord du fleuve."
           },
           "stops": [
             {
@@ -2518,7 +2557,8 @@
                 "de": "Zentraler Knotenpunkt des Ginko-Netzes.",
                 "hu": "A Ginko hálózat központi csomópontja.",
                 "ro": "Nod central al rețelei Ginko.",
-                "en": "Central hub of the Ginko network."
+                "en": "Central hub of the Ginko network.",
+                "fr": "Nœud central du réseau Ginko."
               }
             },
             {
@@ -2527,7 +2567,8 @@
                 "de": "Nur wenige Schritte von der Tramhaltestelle entfernt.",
                 "hu": "Pár lépésre a villamosmegállótól.",
                 "ro": "La doar câțiva pași de stația de tramvai.",
-                "en": "Just a few steps from the tram stop."
+                "en": "Just a few steps from the tram stop.",
+                "fr": "À seulement quelques pas de l'arrêt de tram."
               }
             },
             {
@@ -2536,7 +2577,8 @@
                 "de": "Gut mit dem Bus erreichbar.",
                 "hu": "Busszal jól megközelíthető.",
                 "ro": "Ușor de ajuns cu autobuzul.",
-                "en": "Easily reachable by bus."
+                "en": "Easily reachable by bus.",
+                "fr": "Facilement accessible en bus."
               }
             },
             {
@@ -2545,7 +2587,8 @@
                 "de": "Direkter Shuttle zur Festung.",
                 "hu": "Közvetlen járat az erődhöz.",
                 "ro": "Navetă directă către cetate.",
-                "en": "Direct shuttle to the fortress."
+                "en": "Direct shuttle to the fortress.",
+                "fr": "Navette directe vers la forteresse."
               }
             },
             {
@@ -2554,7 +2597,8 @@
                 "de": "Perfekt für ein Picknick am Abend.",
                 "hu": "Tökéletes esti piknikhez.",
                 "ro": "Perfect pentru un picnic de seară.",
-                "en": "Perfect for an evening picnic."
+                "en": "Perfect for an evening picnic.",
+                "fr": "Parfait pour un pique-nique en soirée."
               }
             }
           ],
@@ -2716,6 +2760,12 @@
               "Shuttle 27 runs seasonally to the Citadel.",
               "Tram lines T1 and T2 serve the center very frequently.",
               "Use the 'Ginko Mobilités' app for real-time information."
+            ],
+            "fr": [
+              "Achetez un pass journée pour le réseau Ginko.",
+              "La navette 27 circule en saison vers la Citadelle.",
+              "Les lignes de tram T1 et T2 desservent très fréquemment le centre.",
+              "Utilisez l'application « Ginko Mobilités » pour des informations en temps réel."
             ]
           }
         },
@@ -2725,7 +2775,7 @@
             "hu": "Egy esős reggel villamossal indul a Place de la Révolution felé. Délben szárazon érjük el a művészeti múzeumot, majd Victor Hugo házát. A Ginko 27-es busz kényelmesen felvisz a Citadellához, így nem kell esőben hegynek felfelé gyalogolni. A napot egy rövid villamosúttal zárjuk a Micaud parkhoz, ahol élvezzük a folyóparti hangulatot.",
             "ro": "O dimineață ploioasă începe cu tramvaiul spre Place de la Révolution. La prânz ajungem la adăpost la muzeul de artă și apoi la casa lui Victor Hugo. Linia de autobuz Ginko 27 ne duce confortabil la cetate, fără a fi nevoie să urcăm dealul prin ploaie. Încheiem ziua cu o scurtă călătorie cu tramvaiul spre parcul Micaud.",
             "en": "A rainy morning starts with the tram to Place de la Révolution. At midday we reach the art museum and later Victor Hugo's house while staying dry. Ginko bus line 27 takes us comfortably to the Citadel, so we don't have to walk uphill in the rain. We finish the day with a short tram ride to Micaud Park.",
-            "fr": "Une matinée pluvieuse commence par le tram vers la Place de la Révolution. À midi, nous atteignons le musée d'art puis la maison de Victor Hugo tout en restant au sec. La ligne de bus Ginko 27 nous emmène confortablement à la Citadelle, nous évitant de monter à pied sous la pluie. Nous terminons la journée par un court trajet en tram jusqu'au parc Micaud."
+            "fr": "Un matin pluvieux commence par le tram jusqu'à la Place de la Révolution. À midi nous atteignons le musée d'art et plus tard la maison de Victor Hugo tout en restant à l'abri. La ligne de bus Ginko 27 nous emmène confortablement à la Citadelle, ainsi nous n'avons pas à monter la colline à pied sous la pluie. Nous terminons la journée par un court trajet en tram jusqu'au Parc Micaud."
           },
           "stops": [
             {
@@ -2755,7 +2805,7 @@
                 "hu": "Használja az L4-es vagy L6-os vonalat a közelben.",
                 "ro": "Folosiți linia L4 sau L6 din apropiere.",
                 "en": "Use nearby line L4 or L6.",
-                "fr": "Utilisez les lignes L4 ou L6 à proximité."
+                "fr": "Utilisez la ligne proche L4 ou L6."
               }
             },
             {
@@ -2765,7 +2815,7 @@
                 "hu": "A busz közvetlenül a várkapunál áll meg.",
                 "ro": "Autobuzul oprește chiar la poarta de intrare.",
                 "en": "The bus stops right at the entrance gate.",
-                "fr": "Le bus s'arrête juste devant la porte d'entrée."
+                "fr": "Le bus s'arrête juste à la porte d'entrée."
               }
             },
             {
@@ -2805,10 +2855,10 @@
               "City center stops usually offer weather protection."
             ],
             "fr": [
-              "Achetez un ticket journée sur l'application Ginko.",
-              "Les trams circulent très régulièrement malgré la pluie.",
-              "Le bus 27 vers la Citadelle passe toutes les heures ; vérifiez l'horaire.",
-              "Les arrêts du centre-ville sont généralement abrités."
+              "Achetez un billet journée dans l'application Ginko.",
+              "Les trams sont très fiables sous la pluie.",
+              "Le bus 27 pour la Citadelle circule toutes les heures ; vérifiez les horaires.",
+              "Les arrêts du centre-ville offrent généralement une protection contre les intempéries."
             ]
           }
         },
@@ -2818,7 +2868,7 @@
             "hu": "Egy hideg téli nap fűtött villamosúttal indul a Place de la Révolution felé. Délben meglátogatjuk a múzeumot és Victor Hugo házát, mielőtt a busz kényelmesen felvisz a Citadellához. Ott élvezzük a tiszta levegőt és a kilátást. Késő délután villamossal megyünk a Micaud parkhoz, hogy megcsodáljuk a város téli kivilágítását.",
             "ro": "O zi rece de iarnă începe cu o călătorie în tramvaiul încălzit spre Place de la Révolution. La prânz vizităm muzeul și casa lui Victor Hugo înainte ca autobuzul să ne ducă confortabil la cetate. Acolo ne bucurăm de aerul curat și de priveliște. După-amiaza târziu luăm tramvaiul spre parcul Micaud pentru a admira iluminatul de iarnă al orașului.",
             "en": "A cold winter day starts with a ride in the heated tram to Place de la Révolution. At midday we visit the museum and Victor Hugo's house before the bus takes us comfortably to the Citadel. There we enjoy the crisp air and the view. In the late afternoon we take the tram to Micaud Park to admire the city's winter lighting.",
-            "fr": "Une froide journée d'hiver commence par un trajet dans le tram chauffé vers la Place de la Révolution. À midi, nous visitons le musée et la maison de Victor Hugo avant que le bus ne nous conduise confortablement à la Citadelle. Là, nous profitons de l'air vif et de la vue. En fin d'après-midi, nous prenons le tram pour le parc Micaud afin d'admirer les illuminations hivernales de la ville."
+            "fr": "Une froide journée d'hiver commence par un trajet en tram chauffé jusqu'à la Place de la Révolution. À midi nous visitons le musée et la maison de Victor Hugo avant que le bus ne nous emmène confortablement à la Citadelle. Là, nous profitons de l'air vif et de la vue. En fin d'après-midi nous prenons le tram jusqu'au Parc Micaud pour admirer l'éclairage hivernal de la ville."
           },
           "stops": [
             {
@@ -2828,7 +2878,7 @@
                 "hu": "Rövid várakozási idő a hidegben.",
                 "ro": "Timp scurt de așteptare în frig.",
                 "en": "Short waiting times in the cold.",
-                "fr": "Temps d'attente courts par temps froid."
+                "fr": "Courtes attentes dans le froid."
               }
             },
             {
@@ -2838,7 +2888,7 @@
                 "hu": "Bemelegedés a pompás termekben.",
                 "ro": "Încălziți-vă în sălile splendide.",
                 "en": "Warm up in the magnificent halls.",
-                "fr": "Réchauffez-vous dans les salles magnifiques."
+                "fr": "Réchauffez-vous dans les magnifiques salles."
               }
             },
             {
@@ -2848,7 +2898,7 @@
                 "hu": "Gyorsan elérhető tömegközlekedéssel.",
                 "ro": "Accesibil rapid cu transportul public.",
                 "en": "Quickly accessible by public transport.",
-                "fr": "Rapidement accessible en transports publics."
+                "fr": "Facilement accessible par transports en commun."
               }
             },
             {
@@ -2858,7 +2908,7 @@
                 "hu": "A meleg busz megkíméli a fárasztó hegymászástól.",
                 "ro": "Autobuzul încălzit vă scutește de urcarea obositoare.",
                 "en": "Warm bus saves the strenuous uphill walk.",
-                "fr": "Le bus chauffé évite la montée fatigante à pied."
+                "fr": "Le bus chauffé évite la montée pénible à pied."
               }
             },
             {
@@ -2868,7 +2918,7 @@
                 "hu": "Élvezze a fényárban úszó városi utazást.",
                 "ro": "Bucurați-vă de călătoria prin orașul iluminat.",
                 "en": "Enjoy the ride through the illuminated city.",
-                "fr": "Profitez du trajet à travers la ville illuminée."
+                "fr": "Profitez de la balade à travers la ville illuminée."
               }
             }
           ],
@@ -2899,9 +2949,9 @@
             ],
             "fr": [
               "Les trams sont bien chauffés en hiver.",
-              "Utilisez les correspondances à l'arrêt 'République'.",
-              "Prévoyez vos visites avant 17h, avant qu'il ne fasse nuit.",
-              "L'appli Ginko signale les retards en cas de chute de neige."
+              "Utilisez les correspondances à l'arrêt « République ».",
+              "Planifiez les visites avant 17h00 avant la tombée de la nuit.",
+              "L'application Ginko indique les retards en cas de chute de neige."
             ]
           }
         }

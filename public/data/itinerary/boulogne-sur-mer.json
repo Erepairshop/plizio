@@ -31,7 +31,8 @@
             "de": "Spazieren Sie über die mittelalterlichen Stadtmauern für beste Aussichten.",
             "hu": "Sétáljon körbe a középkori városfalakon a legjobb kilátásért.",
             "ro": "Plimbați-vă pe zidurile medievale pentru cele mai bune vederi.",
-            "en": "Walk along the medieval ramparts for the best city views."
+            "en": "Walk along the medieval ramparts for the best city views.",
+            "fr": "Walk along the medieval ramparts for the best city views."
           }
         },
         {
@@ -49,7 +50,8 @@
             "de": "Der älteste Glockenturm der Stadt gehört zum UNESCO-Welterbe.",
             "hu": "A város legrégebbi harangtornya az UNESCO Világörökség része.",
             "ro": "Cea mai veche clopotniță din oraș este inclusă în patrimoniul UNESCO.",
-            "en": "The city's oldest belfry is a UNESCO World Heritage site."
+            "en": "The city's oldest belfry is a UNESCO World Heritage site.",
+            "fr": "The city's oldest belfry is a UNESCO World Heritage site."
           }
         },
         {
@@ -67,7 +69,8 @@
             "de": "Besuchen Sie die Krypta, eine der größten in Frankreich.",
             "hu": "Látogassa meg a kriptát, amely Franciaország egyik legnagyobbja.",
             "ro": "Vizitați cripta, una dintre cele mai mari din Franța.",
-            "en": "Visit the crypt, which is one of the largest in France."
+            "en": "Visit the crypt, which is one of the largest in France.",
+            "fr": "Visit the crypt, which is one of the largest in France."
           }
         },
         {
@@ -85,7 +88,8 @@
             "de": "Bewundern Sie die völkerkundlichen Sammlungen in der alten Burg.",
             "hu": "Csodálja meg a néprajzi gyűjteményeket a régi várban.",
             "ro": "Admirați colecțiile etnografice din vechiul castel.",
-            "en": "Admire the ethnographic collections housed in the old castle."
+            "en": "Admire the ethnographic collections housed in the old castle.",
+            "fr": "Admire the ethnographic collections housed in the old castle."
           }
         },
         {
@@ -103,7 +107,8 @@
             "de": "Frankreichs wichtigster Fischereihafen – ideal für frische Meeresfrüchte.",
             "hu": "Franciaország legfontosabb halászkikötője – ideális friss tengeri ételekhez.",
             "ro": "Cel mai important port de pescuit al Franței – ideal pentru fructe de mare proaspete.",
-            "en": "France's leading fishing port – perfect for fresh seafood lunch."
+            "en": "France's leading fishing port – perfect for fresh seafood lunch.",
+            "fr": "France's leading fishing port – perfect for fresh seafood lunch."
           }
         },
         {
@@ -121,7 +126,8 @@
             "de": "Das größte Aquarium Europas – planen Sie genug Zeit für die Haie ein.",
             "hu": "Európa legnagyobb akváriuma – szánjon elég időt a cápákra.",
             "ro": "Cel mai mare acvariu din Europa – acordați timp suficient pentru rechini.",
-            "en": "Europe's largest aquarium – allow plenty of time for the sharks."
+            "en": "Europe's largest aquarium – allow plenty of time for the sharks.",
+            "fr": "Le plus grand aquarium d'Europe – prévoyez suffisamment de temps pour les requins."
           }
         },
         {
@@ -139,7 +145,8 @@
             "de": "Ein schöner Abschluss mit Blick auf den Ärmelkanal.",
             "hu": "Szép befejezés kilátással a La Manche-csatornára.",
             "ro": "Un final frumos cu vedere la Canalul Mânecii.",
-            "en": "A lovely finish with views over the English Channel."
+            "en": "A lovely finish with views over the English Channel.",
+            "fr": "Une belle fin avec vue sur la Manche."
           }
         }
       ],
@@ -147,7 +154,8 @@
         "de": "Vormittags erkunden Sie die befestigte Oberstadt mit ihrer beeindruckenden Basilika und dem Schlossmuseum. Nach einem Abstieg zum geschäftigen Fischereihafen genießen Sie fangfrischen Fisch. Der Nachmittag gehört dem faszinierenden Meereszentrum Nausicaá, bevor der Tag entspannt am breiten Sandstrand ausklingt.",
         "hu": "A délelőttöt az erődített felsővárosban töltjük, felfedezve a bazilikát és a várkastély múzeumát. A kikötőbe leereszkedve megkóstoljuk a friss fogást, majd délután elmerülünk a Nausicaá tengeri világában. A napot egy kellemes tengerparti sétával zárjuk a homokos fövenyen.",
         "ro": "Dimineața este dedicată orașului de sus, fortificat, cu bazilica sa impunătoare și muzeul-castel. După o coborâre în portul de pescuit pentru un prânz proaspăt, după-amiaza este rezervată spectaculosului Nausicaá, terminând ziua cu o plimbare relaxantă pe plajă.",
-        "en": "Spend your morning in the fortified Upper Town exploring the basilica and the castle museum. Head down to the bustling fishing port for a fresh seafood lunch, then immerse yourself in the marine wonders of Nausicaá. End your day with a sunset stroll along the sandy beach."
+        "en": "Spend your morning in the fortified Upper Town exploring the basilica and the castle museum. Head down to the bustling fishing port for a fresh seafood lunch, then immerse yourself in the marine wonders of Nausicaá. End your day with a sunset stroll along the sandy beach.",
+        "fr": "Passez la matinée dans la Haute Ville fortifiée à explorer la basilique et le musée du château. Redescendez jusqu'au port de pêche animé pour un déjeuner de fruits de mer frais, puis plongez dans les merveilles marines de Nausicaá. Terminez la journée par une promenade au coucher du soleil le long de la plage de sable."
       },
       "gastro_picks": {
         "de": [
@@ -307,6 +315,12 @@
           "Nausicaá is busy on weekends, book your tickets in advance.",
           "Fresh fish is sold directly on the quayside in the mornings.",
           "Make sure to include the crypt when visiting the basilica."
+        ],
+        "fr": [
+          "La Haute Ville est pentue, portez des chaussures de marche confortables.",
+          "Nausicaá est fréquenté le week-end, réservez vos billets à l'avance.",
+          "Le poisson frais se vend directement au quai le matin.",
+          "Veillez à inclure la crypte lors de la visite de la basilique."
         ]
       }
     },
@@ -333,7 +347,8 @@
             "de": "Fahren Sie vorsichtig auf dem Kopfsteinpflaster der Altstadt.",
             "hu": "Óvatosan tekerjen az óváros macskaköves utcáin.",
             "ro": "Pedalați cu atenție pe piatra cubică din centrul vechi.",
-            "en": "Cycle carefully on the cobblestones of the old town."
+            "en": "Cycle carefully on the cobblestones of the old town.",
+            "fr": "Pédalez prudemment sur les pavés de la vieille ville."
           }
         },
         {
@@ -351,7 +366,8 @@
             "de": "Schließen Sie Ihr Rad am Eingang sicher an.",
             "hu": "Zárja le biztonságosan a kerékpárját a bejáratnál.",
             "ro": "Asigurați-vă bicicleta la intrare.",
-            "en": "Secure your bike properly near the entrance."
+            "en": "Secure your bike properly near the entrance.",
+            "fr": "Attachez correctement votre vélo près de l'entrée."
           }
         },
         {
@@ -369,7 +385,8 @@
             "de": "Ein schöner Anstieg zur Statue von Napoleon.",
             "hu": "Kellemes emelkedő Napóleon szobráig.",
             "ro": "O urcare frumoasă până la statuia lui Napoleon.",
-            "en": "A scenic uphill ride to Napoleon's statue."
+            "en": "A scenic uphill ride to Napoleon's statue.",
+            "fr": "Une montée pittoresque jusqu'à la statue de Napoléon."
           }
         },
         {
@@ -387,7 +404,8 @@
             "de": "Genießen Sie die Fahrt entlang der Kais.",
             "hu": "Élvezze a tekerést a rakpartok mentén.",
             "ro": "Bucurați-vă de plimbarea de-a lungul cheiurilor.",
-            "en": "Enjoy the breezy ride along the quaysides."
+            "en": "Enjoy the breezy ride along the quaysides.",
+            "fr": "Profitez de la balade venteuse le long des quais."
           }
         },
         {
@@ -405,7 +423,8 @@
             "de": "Es gibt spezielle Fahrradparkplätze vor dem Zentrum.",
             "hu": "Külön kerékpárparkolók vannak a központ előtt.",
             "ro": "Există parcări speciale pentru biciclete în fața centrului.",
-            "en": "There are dedicated bike parking spots in front of the center."
+            "en": "There are dedicated bike parking spots in front of the center.",
+            "fr": "Il y a des emplacements de parking vélo dédiés devant le centre."
           }
         },
         {
@@ -423,7 +442,8 @@
             "de": "Fahren Sie auf dem Radweg direkt an der Küste.",
             "hu": "Tekerjen a közvetlenül a parton futó kerékpárúton.",
             "ro": "Pedalați pe pista de biciclete de pe coastă.",
-            "en": "Ride on the cycle path right along the coast."
+            "en": "Ride on the cycle path right along the coast.",
+            "fr": "Roulez sur la piste cyclable le long de la côte."
           }
         },
         {
@@ -441,7 +461,8 @@
             "de": "Ein letzter Anstieg zurück in die Altstadt.",
             "hu": "Egy utolsó emelkedő vissza az óvárosba.",
             "ro": "O ultimă urcare înapoi în orașul vechi.",
-            "en": "One final climb back to the old town center."
+            "en": "One final climb back to the old town center.",
+            "fr": "Une dernière montée de retour au centre de la vieille ville."
           }
         }
       ],
@@ -449,7 +470,8 @@
         "de": "Diese Tour verbindet die historische Oberstadt mit der Küste. Nach der Besichtigung der Basilika radeln Sie zur Napoleon-Säule für ein Panorama. Dann geht es hinunter zum Hafen und nach Nausicaá. Die Rückfahrt führt entlang der Strandpromenade zurück zu den Mauern der Altstadt.",
         "hu": "Ez a túra összeköti a történelmi felsővárost a tengerparttal. A bazilika után a Napóleon-oszlophoz tekerünk a panorámáért, majd le a kikötőbe és a Nausicaá-hoz. A visszaút a tengerparti sétányon vezet, egészen az óváros falaiig.",
         "ro": "Acest tur face legătura între orașul istoric de sus și coastă. După bazilică, pedalați spre Coloana lui Napoleon pentru panoramă, apoi coborâți în port și la Nausicaá. Drumul de întoarcere urmează faleza până la zidurile cetății.",
-        "en": "This bike tour links the historic Upper Town with the coast. After visiting the basilica, ride out to Napoleon's Column for a panorama, then head down to the port and Nausicaá. The return leg follows the coastal promenade back to the old town ramparts."
+        "en": "This bike tour links the historic Upper Town with the coast. After visiting the basilica, ride out to Napoleon's Column for a panorama, then head down to the port and Nausicaá. The return leg follows the coastal promenade back to the old town ramparts.",
+        "fr": "Cette boucle à vélo relie la historique Haute Ville à la côte. Après la visite de la basilique, roulez jusqu'à la Colonne de Napoléon pour le panorama, puis descendez au port et à Nausicaá. Le retour suit la promenade côtière jusqu'aux remparts de la vieille ville."
       },
       "gastro_picks": {
         "de": [
@@ -553,6 +575,11 @@
           "There are some steep sections between the harbor and the Upper Town.",
           "Use the cycle paths along the Liane river.",
           "Check the wind conditions on the breakwater."
+        ],
+        "fr": [
+          "Il y a des sections raides entre le port et la Haute Ville.",
+          "Utilisez les pistes cyclables le long de la rivière Liane.",
+          "Vérifiez l'état du vent sur la digue."
         ]
       }
     },
@@ -579,7 +606,8 @@
             "de": "Parken Sie auf dem 'Enclos de l'Évêché'.",
             "hu": "Parkoljon az 'Enclos de l'Évêché' parkolóban.",
             "ro": "Parcați la 'Enclos de l'Évêché'.",
-            "en": "Park at the 'Enclos de l'Évêché' parking lot."
+            "en": "Park at the 'Enclos de l'Évêché' parking lot.",
+            "fr": "Garez-vous au parking « Enclos de l'Évêché »."
           }
         },
         {
@@ -597,7 +625,8 @@
             "de": "Zu Fuß erreichbar vom Parkplatz.",
             "hu": "Gyalogosan elérhető a parkolótól.",
             "ro": "Accesibil pe jos de la parcare.",
-            "en": "Walking distance from your parked car."
+            "en": "Walking distance from your parked car.",
+            "fr": "Accessible à pied depuis votre voiture garée."
           }
         },
         {
@@ -615,7 +644,8 @@
             "de": "Ein schöner Spaziergang entlang der Mauern dorthin.",
             "hu": "Szép séta a falak mentén odáig.",
             "ro": "O plimbare frumoasă pe ziduri până acolo.",
-            "en": "A scenic walk along the ramparts to get here."
+            "en": "A scenic walk along the ramparts to get here.",
+            "fr": "Une promenade pittoresque le long des remparts pour y parvenir."
           }
         },
         {
@@ -633,7 +663,8 @@
             "de": "Großer kostenloser Parkplatz vor Ort.",
             "hu": "Nagy ingyenes parkoló a helyszínen.",
             "ro": "Parcare mare gratuită la fața locului.",
-            "en": "Large free parking lot available on site."
+            "en": "Large free parking lot available on site.",
+            "fr": "Grand parking gratuit disponible sur place."
           }
         },
         {
@@ -651,7 +682,8 @@
             "de": "Parken Sie am Quai Gambetta für das Mittagessen.",
             "hu": "Parkoljon a Quai Gambetta mentén az ebédhez.",
             "ro": "Parcați pe Quai Gambetta pentru prânz.",
-            "en": "Park along Quai Gambetta for your seafood lunch."
+            "en": "Park along Quai Gambetta for your seafood lunch.",
+            "fr": "Garez-vous le long du Quai Gambetta pour votre déjeuner de fruits de mer."
           }
         },
         {
@@ -669,7 +701,8 @@
             "de": "Großes Parkhaus direkt unter dem Zentrum.",
             "hu": "Nagy parkolóház közvetlenül a központ alatt.",
             "ro": "Parcare subterană mare chiar sub centru.",
-            "en": "Large parking garage located directly under the center."
+            "en": "Large parking garage located directly under the center.",
+            "fr": "Grand parking couvert situé directement sous le centre."
           }
         },
         {
@@ -687,7 +720,8 @@
             "de": "Kurzer Spaziergang von Nausicaá zum Strand.",
             "hu": "Rövid séta a Nausicaá-tól a strandig.",
             "ro": "Scurtă plimbare de la Nausicaá la plajă.",
-            "en": "Short walk from Nausicaá to the beach."
+            "en": "Short walk from Nausicaá to the beach.",
+            "fr": "Courte marche de Nausicaá à la plage."
           }
         },
         {
@@ -705,7 +739,8 @@
             "de": "Besuchen Sie diesen charmanten Badeort in der Nachbarschaft.",
             "hu": "Látogassa meg ezt a bájos szomszédos fürdővárost.",
             "ro": "Vizitați această stațiune fermecătoare din vecinătate.",
-            "en": "Visit this charming nearby seaside resort town."
+            "en": "Visit this charming nearby seaside resort town.",
+            "fr": "Visitez cette charmante station balnéaire voisine."
           }
         }
       ],
@@ -713,7 +748,8 @@
         "de": "Mit dem Auto erreichen Sie bequem die verschiedenen Stadtteile. Beginnen Sie in der historischen Oberstadt, fahren Sie dann zur Napoleon-Säule für den Ausblick. Das Mittagessen genießen Sie am Hafen, bevor Sie den Nachmittag in Nausicaá verbringen. Ein kurzer Trip ins benachbarte Wimereux krönt den Tag.",
         "hu": "Autóval kényelmesen elérhetők a különböző városrészek. Kezdjen a történelmi felsővárosban, majd hajtson a Napóleon-oszlophoz a kilátásért. Az ebédet a kikötőben élvezheti, a délutánt pedig a Nausicaá-ban töltheti. A napot a szomszédos Wimereux-be tett rövid kirándulás koronázza meg.",
         "ro": "Cu mașina puteți ajunge ușor în diferitele părți ale orașului. Începeți în orașul istoric de sus, apoi mergeți la Coloana lui Napoleon pentru priveliște. Savurați prânzul în port, înainte de a petrece după-amiaza la Nausicaá. O scurtă excursie în stațiunea vecină Wimereux încheie ziua.",
-        "en": "By car, you can easily access the city's distinct areas. Start in the historic Upper Town, then drive to Napoleon's Column for the view. Enjoy lunch at the port before spending the afternoon at Nausicaá. A short bonus trip to nearby Wimereux rounds off the day perfectly."
+        "en": "By car, you can easily access the city's distinct areas. Start in the historic Upper Town, then drive to Napoleon's Column for the view. Enjoy lunch at the port before spending the afternoon at Nausicaá. A short bonus trip to nearby Wimereux rounds off the day perfectly.",
+        "fr": "En voiture, vous pouvez facilement accéder aux différents quartiers de la ville. Commencez dans la Haute Ville historique, puis conduisez jusqu'à la Colonne de Napoléon pour la vue. Déjeunez au port avant de passer l'après-midi à Nausicaá. Une petite escapade bonus à Wimereux complète parfaitement la journée."
       },
       "gastro_picks": {
         "de": [
@@ -817,6 +853,11 @@
           "Parking in the lower town can be scarce during summer.",
           "The coastal road to Wimereux offers great scenic views.",
           "Parking in the Upper Town is usually metered."
+        ],
+        "fr": [
+          "Le stationnement en basse ville peut être rare pendant l'été.",
+          "La route côtière vers Wimereux offre de superbes vues panoramiques.",
+          "Le stationnement dans la Haute Ville est généralement payant."
         ]
       }
     },
@@ -843,7 +884,8 @@
             "de": "Nehmen Sie die Linie A oder F vom Bahnhof.",
             "hu": "Használja az A vagy F buszvonalat a vasútállomástól.",
             "ro": "Luați linia A sau F de la gară.",
-            "en": "Take bus line A or F from the train station."
+            "en": "Take bus line A or F from the train station.",
+            "fr": "Prenez les lignes de bus A ou F depuis la gare."
           }
         },
         {
@@ -861,7 +903,8 @@
             "de": "Zu Fuß innerhalb der Stadtmauern.",
             "hu": "Gyalogosan a városfalakon belül.",
             "ro": "Pe jos în interiorul zidurilor cetății.",
-            "en": "Short walk within the city walls."
+            "en": "Short walk within the city walls.",
+            "fr": "Courte promenade à l'intérieur des remparts."
           }
         },
         {
@@ -879,7 +922,8 @@
             "de": "Buslinie F verbindet Ober- und Unterstadt.",
             "hu": "Az F buszvonal köti össze a felső- és alsóvárost.",
             "ro": "Linia de autobuz F leagă orașul de sus de cel de jos.",
-            "en": "Bus line F connects the Upper and Lower town."
+            "en": "Bus line F connects the Upper and Lower town.",
+            "fr": "La ligne de bus F relie la Haute et la Basse ville."
           }
         },
         {
@@ -897,7 +941,8 @@
             "de": "Haltestelle 'Nausicaá' direkt vor dem Eingang.",
             "hu": "'Nausicaá' megálló közvetlenül a bejárat előtt.",
             "ro": "Stația 'Nausicaá' chiar în fața intrării.",
-            "en": "Stop 'Nausicaá' is right in front of the entrance."
+            "en": "Stop 'Nausicaá' is right in front of the entrance.",
+            "fr": "L'arrêt « Nausicaá » se trouve juste devant l'entrée."
           }
         },
         {
@@ -915,7 +960,8 @@
             "de": "Zu Fuß von Nausicaá erreichbar.",
             "hu": "Gyalogosan elérhető a Nausicaá-tól.",
             "ro": "Accesibil pe jos de la Nausicaá.",
-            "en": "Easy walk from Nausicaá museum."
+            "en": "Easy walk from Nausicaá museum.",
+            "fr": "Facilement accessible à pied depuis le musée Nausicaá."
           }
         },
         {
@@ -933,7 +979,8 @@
             "de": "Nehmen Sie den Bus zurück ins Zentrum.",
             "hu": "Menjen vissza busszal a központba.",
             "ro": "Luați autobuzul înapoi spre centru.",
-            "en": "Take the bus back to the city center."
+            "en": "Take the bus back to the city center.",
+            "fr": "Reprenez le bus pour retourner au centre-ville."
           }
         }
       ],
@@ -941,7 +988,8 @@
         "de": "Nutzen Sie das städtische Bussystem, um mühelos zwischen der historischen Oberstadt und dem Hafenviertel zu pendeln. Vormittags Geschichte in der Altstadt, mittags Fisch am Hafen und nachmittags die Weltmeere in Nausicaá erleben, bevor es mit dem Bus zurückgeht.",
         "hu": "Használja a városi buszhálózatot a történelmi felsőváros és a kikötő közötti ingázáshoz. Délelőtt történelem az óvárosban, délben hal a kikötőben, délután pedig a Nausicaá tengeri világa várja, mielőtt busszal visszatérne.",
         "ro": "Utilizați sistemul local de autobuze pentru a pendula ușor între orașul istoric de sus și zona portului. Dimineața istorie în centrul vechi, la prânz pește în port, iar după-amiaza vizită la Nausicaá, înainte de a reveni cu autobuzul.",
-        "en": "Use the local bus network to effortlessly travel between the historic Upper Town and the harbor area. Spend your morning with history in the old town, enjoy fresh seafood at noon, and explore marine life at Nausicaá in the afternoon before heading back."
+        "en": "Use the local bus network to effortlessly travel between the historic Upper Town and the harbor area. Spend your morning with history in the old town, enjoy fresh seafood at noon, and explore marine life at Nausicaá in the afternoon before heading back.",
+        "fr": "Utilisez le réseau de bus local pour circuler facilement entre la Haute Ville historique et le quartier du port. Passez la matinée à découvrir l'histoire de la vieille ville, dégustez des fruits de mer à midi et explorez la vie marine à Nausicaá l'après-midi avant de revenir."
       },
       "gastro_picks": {
         "de": [
@@ -1045,6 +1093,11 @@
           "Buy a day pass directly from the bus driver.",
           "Buses run frequently between the port and the Upper Town.",
           "Be mindful of the reduced weekend schedules."
+        ],
+        "fr": [
+          "Achetez un pass journée directement auprès du conducteur de bus.",
+          "Les bus circulent fréquemment entre le port et la Haute Ville.",
+          "Tenez compte des horaires réduits le week-end."
         ]
       }
     }

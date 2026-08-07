@@ -21,7 +21,8 @@
             "de": "Chapelle Saint-Michel",
             "hu": "Chapelle Saint-Michel",
             "ro": "Chapelle Saint-Michel",
-            "en": "Chapelle Saint-Michel"
+            "en": "Chapelle Saint-Michel",
+            "fr": "Chapelle Saint-Michel"
           },
           "coords": [
             8.864159,
@@ -36,7 +37,8 @@
             "de": "Besuchen Sie diese kleine Kapelle früh am Morgen für bestes Licht und tragen Sie bequeme Schuhe für die kopfsteingepflasterten Gassen.",
             "hu": "Látogasson el ehhez a kis kápolnához kora reggel a legjobb fényekért, és viseljen kényelmes cipőt a macskaköves utcákon.",
             "ro": "Vizitați această mică capelă dimineața devreme pentru cea mai bună lumină și purtați încălțăminte comodă pe străduțele pietruite.",
-            "en": "Visit this small chapel early in the morning for the best light, and wear comfortable shoes for the surrounding cobblestone streets."
+            "en": "Visit this small chapel early in the morning for the best light, and wear comfortable shoes for the surrounding cobblestone streets.",
+            "fr": "Visitez cette petite chapelle tôt le matin pour la meilleure lumière, et portez des chaussures confortables pour les rues pavées alentour."
           }
         },
         {
@@ -44,7 +46,8 @@
             "de": "Château-fort",
             "hu": "Château-fort",
             "ro": "Château-fort",
-            "en": "Château-fort"
+            "en": "Château-fort",
+            "fr": "Château-fort"
           },
           "coords": [
             8.862271,
@@ -59,7 +62,8 @@
             "de": "Die historische Burg bietet nicht nur spannende Architektur, sondern auch fantastische Ausblicke, also vergessen Sie Ihre Kamera nicht.",
             "hu": "A történelmi vár nemcsak izgalmas építészetet, hanem lenyűgöző kilátást is kínál, ezért ne felejtse otthon a fényképezőgépét.",
             "ro": "Castelul istoric oferă nu doar o arhitectură fascinantă, ci și priveliști uimitoare, așa că nu uitați aparatul foto.",
-            "en": "The historic castle offers not only fascinating architecture but also stunning views, so be sure not to forget your camera."
+            "en": "The historic castle offers not only fascinating architecture but also stunning views, so be sure not to forget your camera.",
+            "fr": "Le château historique offre non seulement une architecture fascinante mais aussi des vues splendides ; n'oubliez pas votre appareil photo."
           }
         },
         {
@@ -67,7 +71,8 @@
             "de": "Aregno Plage - Algajola",
             "hu": "Aregno Plage - Algajola",
             "ro": "Aregno Plage - Algajola",
-            "en": "Aregno Plage - Algajola"
+            "en": "Aregno Plage - Algajola",
+            "fr": "Aregno Plage - Algajola"
           },
           "coords": [
             8.871817,
@@ -82,7 +87,8 @@
             "de": "Genießen Sie den feinen Sand dieses weitläufigen Strandes und mieten Sie sich einen Sonnenschirm für eine entspannte Mittagspause am Meer.",
             "hu": "Élvezze e hatalmas strand finom homokját, és béreljen napernyőt egy pihentető tengerparti ebédszünethez a napsütésben.",
             "ro": "Bucurați-vă de nisipul fin al acestei plaje întinse și închiriați o umbrelă pentru o pauză relaxantă de prânz la malul mării.",
-            "en": "Enjoy the fine sand of this expansive beach and rent an umbrella for a relaxing seaside lunch break in the sun."
+            "en": "Enjoy the fine sand of this expansive beach and rent an umbrella for a relaxing seaside lunch break in the sun.",
+            "fr": "Profitez du sable fin de cette vaste plage et louez un parasol pour un déjeuner détente au bord de la mer."
           }
         },
         {
@@ -90,7 +96,8 @@
             "de": "Aregno Plage",
             "hu": "Aregno Plage",
             "ro": "Aregno Plage",
-            "en": "Aregno Plage"
+            "en": "Aregno Plage",
+            "fr": "Aregno Plage"
           },
           "coords": [
             8.875978,
@@ -105,7 +112,8 @@
             "de": "Gehen Sie weiter entlang der Küste, um ruhigere Abschnitte zu finden, und packen Sie ausreichend Trinkwasser für den Strandspaziergang ein.",
             "hu": "Sétáljon tovább a parton a csendesebb részek felfedezéséhez, és vigyen magával elegendő ivóvizet a homokos túrához.",
             "ro": "Continuați plimbarea de-a lungul coastei pentru a găsi zone mai liniștite și luați suficientă apă pentru drumeția pe plajă.",
-            "en": "Continue walking along the coast to find quieter sections, and make sure to pack plenty of drinking water for the beach stroll."
+            "en": "Continue walking along the coast to find quieter sections, and make sure to pack plenty of drinking water for the beach stroll.",
+            "fr": "Continuez à marcher le long de la côte pour trouver des sections plus tranquilles, et pensez à emporter suffisamment d'eau potable pour la balade sur la plage."
           }
         },
         {
@@ -113,7 +121,8 @@
             "de": "Rocky outcrop",
             "hu": "Rocky outcrop",
             "ro": "Rocky outcrop",
-            "en": "Rocky outcrop"
+            "en": "Rocky outcrop",
+            "fr": "Éperon rocheux"
           },
           "coords": [
             8.874916,
@@ -128,7 +137,8 @@
             "de": "Klettern Sie vorsichtig auf diese natürlichen Felsformationen, um einen atemberaubenden Panoramablick auf die Küste zu fotografieren.",
             "hu": "Óvatosan másszon fel ezekre a természetes sziklaalakzatokra, hogy lélegzetelállító panorámaképeket készíthessen a partvonalról.",
             "ro": "Urcați cu grijă pe aceste formațiuni stâncoase naturale pentru a fotografia o priveliște panoramică uluitoare a coastei.",
-            "en": "Carefully climb these natural rock formations to photograph a breathtaking panoramic view of the entire beautiful coastline."
+            "en": "Carefully climb these natural rock formations to photograph a breathtaking panoramic view of the entire beautiful coastline.",
+            "fr": "Grimpez prudemment ces formations rocheuses naturelles pour photographier une vue panoramique à couper le souffle de toute la côte."
           }
         }
       ],
@@ -136,7 +146,8 @@
         "de": "Morgens: Wir erkunden das Herz von Algajola, beginnen an der historischen Chapelle Saint-Michel und tauchen dann in den Charme des Château-fort ein.\nMittags: Der Spaziergang führt uns zum glitzernden Meer, wo wir am Aregno Plage - Algajola den warmen Sand und die Wellen genießen.\nNachmittags: Wir setzen unsere Küstenreise fort und spazieren am Aregno Plage entlang, um ruhigere Orte und herrliche Meeresblicke zu finden.\nAbends: Wir beenden den Tag am felsigen Vorsprung und bewundern den Panoramablick auf den Sonnenuntergang über dem Mittelmeer.",
         "hu": "Délelőtt: Felfedezzük Algajola szívét, a történelmi Chapelle Saint-Michel kápolnánál kezdve, majd elmerülünk a Château-fort középkori varázsában.\nDélben: Sétánk a csillogó tenger felé vezet, az Aregno Plage - Algajola strandon élvezhetjük a meleg homokot és a szelíd hullámokat.\nDélután: Folytatjuk tengerparti utunkat az Aregno Plage mentén, hogy még nyugodtabb helyeket és gyönyörű kilátást találjunk.\nEste: A napot a sziklás kiugrónál zárjuk, megcsodálva a Földközi-tenger felett lemenő nap panorámáját, ahogy az este leszáll.",
         "ro": "Dimineața: Explorăm inima orașului Algajola, începând de la istorica Chapelle Saint-Michel, înainte de a ne scufunda în farmecul medieval al Château-fort.\nAmiază: Plimbarea ne poartă spre marea strălucitoare, ajungând la Aregno Plage - Algajola, unde ne putem bucura de nisipul cald și valurile blânde.\nDupă-amiaza: Continuând călătoria pe coastă, ne plimbăm de-a lungul Aregno Plage pentru a găsi locuri mai liniștite și priveliști maritime superbe.\nSeara: Încheiem ziua la aflorimentul stâncos, admirând priveliștile panoramice ale apusului peste Marea Mediterană.",
-        "en": "Morning: We explore the heart of Algajola, starting at the historic Chapelle Saint-Michel before diving into the medieval charm of the Château-fort.\nMidday: The stroll takes us towards the shimmering sea, arriving at Aregno Plage - Algajola where we can enjoy the warm sand and gentle waves.\nAfternoon: Continuing our coastal journey, we traverse further along Aregno Plage to find more serene spots and beautiful maritime views.\nEvening: We conclude the day at the Rocky Outcrop, admiring the panoramic sunset views over the Mediterranean Sea as the day gently fades."
+        "en": "Morning: We explore the heart of Algajola, starting at the historic Chapelle Saint-Michel before diving into the medieval charm of the Château-fort.\nMidday: The stroll takes us towards the shimmering sea, arriving at Aregno Plage - Algajola where we can enjoy the warm sand and gentle waves.\nAfternoon: Continuing our coastal journey, we traverse further along Aregno Plage to find more serene spots and beautiful maritime views.\nEvening: We conclude the day at the Rocky Outcrop, admiring the panoramic sunset views over the Mediterranean Sea as the day gently fades.",
+        "fr": "Matin : Nous explorons le cœur d'Algajola, en commençant par la historique Chapelle Saint-Michel avant de plonger dans le charme médiéval du Château-fort.\nMidi : La promenade nous mène vers la mer scintillante, arrivant à Aregno Plage - Algajola où nous pouvons profiter du sable chaud et des vagues douces.\nAprès-midi : Poursuivant notre trajet côtier, nous longeons Aregno Plage pour trouver des coins plus sereins et de belles vues maritimes.\nSoir : Nous concluons la journée à l'Éperon rocheux, admirant le coucher de soleil panoramique sur la mer Méditerranée alors que le jour s'estompe doucement."
       },
       "variants": {
         "rainy": {
@@ -144,7 +155,8 @@
             "de": "Beginnen Sie Ihren regnerischen Morgen in der historischen Kapelle. Erkunden Sie mittags die Festung mit einem Regenschirm. Der Nachmittagsspaziergang an den Stränden erfordert wasserdichte Kleidung. Beenden Sie die Tour am felsigen Vorsprung, aber achten Sie auf die rutschigen, nassen Steine.",
             "hu": "Kezdje az esős reggelt a történelmi kápolna menedékében. Délben fedezze fel az erődöt egy megbízható esernyővel. A délutáni tengerparti sétához vízálló felszerelés kell a tengeri szél miatt. Fejezze be a sziklás kiugrónál, de óvatosan lépkedjen a csúszós, nedves köveken.",
             "ro": "Începeți dimineața ploioasă căutând adăpost în capela istorică. La prânz, explorați fortăreața cu o umbrelă solidă. Plimbarea de după-amiază pe plaje necesită echipament impermeabil. Încheiați la stânci, pășind cu grijă pe pietrele umede și alunecoase din cauza valurilor.",
-            "en": "Start your rainy morning seeking shelter in the historic chapel. By midday, explore the sturdy fortress with a reliable umbrella. The afternoon coastal walk along the beaches requires waterproof gear against the sea breeze. Finish at the rocky outcrop, treading carefully on wet stones."
+            "en": "Start your rainy morning seeking shelter in the historic chapel. By midday, explore the sturdy fortress with a reliable umbrella. The afternoon coastal walk along the beaches requires waterproof gear against the sea breeze. Finish at the rocky outcrop, treading carefully on wet stones.",
+            "fr": "Commencez votre matinée pluvieuse en cherchant refuge dans la chapelle historique. À midi, explorez la robuste forteresse avec un parapluie fiable. La promenade côtière de l'après-midi le long des plages exige un équipement imperméable contre la brise marine. Terminez à l'éperon rocheux en marchant prudemment sur les pierres mouillées."
           },
           "stops": [
             {
@@ -152,13 +164,15 @@
                 "de": "Chapelle Saint-Michel",
                 "hu": "Chapelle Saint-Michel",
                 "ro": "Chapelle Saint-Michel",
-                "en": "Chapelle Saint-Michel"
+                "en": "Chapelle Saint-Michel",
+                "fr": "Chapelle Saint-Michel"
               },
               "tip_5lang": {
                 "de": "Bewundern Sie die robuste Steinarchitektur dieser Kapelle; der kleine Innenraum bietet einen kurzen, aber willkommenen trockenen Zufluchtsort vor dem Regen.",
                 "hu": "Csodálja meg a történelmi kápolna kőépítészetét; apró belső tere rövid, de kellemes száraz menedéket nyújt a hirtelen jövő esőzések elől, amíg eláll a vihar.",
                 "ro": "Admirați arhitectura din piatră a acestei capele; interiorul său mic oferă un refugiu uscat scurt, dar binevenit, de ploile neașteptate de pe coastă.",
-                "en": "Admire the resilient stone architecture of this historic chapel; its small interior offers a brief but welcome dry refuge from unexpected rain showers."
+                "en": "Admire the resilient stone architecture of this historic chapel; its small interior offers a brief but welcome dry refuge from unexpected rain showers.",
+                "fr": "Admirez l'architecture en pierre résistante de cette chapelle historique ; son petit intérieur offre un bref mais bienvenu abri sec contre les averses inattendues."
               }
             },
             {
@@ -166,13 +180,15 @@
                 "de": "Château-fort",
                 "hu": "Château-fort",
                 "ro": "Château-fort",
-                "en": "Château-fort"
+                "en": "Château-fort",
+                "fr": "Château-fort"
               },
               "tip_5lang": {
                 "de": "Erkunden Sie die Außenmauern dieser imposanten Küstenfestung; bringen Sie einen winddichten Regenschirm mit, da hier starke Meeresböen wehen.",
                 "hu": "Fedezze fel ennek az impozáns tengerparti erődnek a külső falait; hozzon egy erős, szélálló esernyőt, mivel a magaslati ponton erős tengeri széllökések vannak.",
                 "ro": "Explorați zidurile exterioare ale acestei fortărețe impunătoare de coastă; aduceți o umbrelă rezistentă la vânt, deoarece poziția ridicată atrage rafale puternice.",
-                "en": "Explore the exterior walls of this imposing coastal fortress; bring a sturdy windproof umbrella as the elevated position catches strong sea squalls."
+                "en": "Explore the exterior walls of this imposing coastal fortress; bring a sturdy windproof umbrella as the elevated position catches strong sea squalls.",
+                "fr": "Explorez les murs extérieurs de cette imposante forteresse côtière ; apportez un parapluie coupe-vent solide car la position élevée capte de fortes rafales marines."
               }
             },
             {
@@ -180,13 +196,15 @@
                 "de": "Aregno Plage - Algajola",
                 "hu": "Aregno Plage - Algajola",
                 "ro": "Aregno Plage - Algajola",
-                "en": "Aregno Plage - Algajola"
+                "en": "Aregno Plage - Algajola",
+                "fr": "Aregno Plage - Algajola"
               },
               "tip_5lang": {
                 "de": "Spazieren Sie an der stürmischen Küste entlang, wo brechende Wellen eine düstere Atmosphäre schaffen; wasserdichte Stiefel sind für den nassen Sand unerlässlich.",
                 "hu": "Sétáljon végig a drámai, viharos parton, ahol a becsapódó hullámok komor hangulatot teremtenek; a nedves homokon való átkeléshez elengedhetetlen a vízálló csizma.",
                 "ro": "Plimbați-vă de-a lungul țărmului furtunos unde valurile creează o atmosferă dramatică; cizmele impermeabile sunt esențiale pentru a traversa nisipul ud.",
-                "en": "Walk along the dramatic, stormy shoreline where crashing waves create a moody atmosphere; waterproof boots are essential for traversing the wet sand."
+                "en": "Walk along the dramatic, stormy shoreline where crashing waves create a moody atmosphere; waterproof boots are essential for traversing the wet sand.",
+                "fr": "Marchez le long du littoral dramatique et orageux où les vagues déferlent en créant une atmosphère sombre ; des bottes imperméables sont essentielles pour traverser le sable mouillé."
               }
             },
             {
@@ -194,13 +212,15 @@
                 "de": "Aregno Plage",
                 "hu": "Aregno Plage",
                 "ro": "Aregno Plage",
-                "en": "Aregno Plage"
+                "en": "Aregno Plage",
+                "fr": "Aregno Plage"
               },
               "tip_5lang": {
                 "de": "Erleben Sie die raue Kraft des Mittelmeers während eines Regensturms von der oberen Promenade aus; tragen Sie einen guten Regenmantel.",
                 "hu": "Tapasztalja meg a Földközi-tenger nyers erejét esőzés közben a felső sétány biztonságából; viseljen egy jó esőkabátot, hogy kényelmesen maradjon.",
                 "ro": "Experimentați puterea brută a Mediteranei în timpul unei furtuni din siguranța promenadei superioare; purtați o pelerină de ploaie bună pentru confort.",
-                "en": "Experience the raw power of the Mediterranean during a rainstorm from the safety of the upper promenade; wear a good raincoat to stay comfortable."
+                "en": "Experience the raw power of the Mediterranean during a rainstorm from the safety of the upper promenade; wear a good raincoat to stay comfortable.",
+                "fr": "Vivez la puissance brute de la Méditerranée pendant un orage depuis la promenade haute ; portez un bon imperméable pour rester à l'aise."
               }
             },
             {
@@ -208,13 +228,15 @@
                 "de": "Rocky outcrop",
                 "hu": "Rocky outcrop",
                 "ro": "Rocky outcrop",
-                "en": "Rocky outcrop"
+                "en": "Rocky outcrop",
+                "fr": "Éperon rocheux"
               },
               "tip_5lang": {
                 "de": "Beobachten Sie die Wellen, die gegen diese Felsformation krachen, aber halten Sie sich vom Rand fern, da die nassen Steine extrem rutschig sind.",
                 "hu": "Figyelje meg a sziklaalakzatnak csapódó hullámokat, de maradjon távol a peremtől, mivel a nedves kövek rendkívül csúszóssá és veszélyessé válnak.",
                 "ro": "Observați valurile care se sparg de această formațiune stâncoasă, dar stați departe de margine, deoarece pietrele umede devin extrem de alunecoase.",
-                "en": "Observe the waves smashing against this natural rocky formation, but stay well back from the edge as the wet stones become extremely slippery."
+                "en": "Observe the waves smashing against this natural rocky formation, but stay well back from the edge as the wet stones become extremely slippery.",
+                "fr": "Observez les vagues s'écraser contre cette formation rocheuse naturelle, mais restez bien à distance du bord car les pierres mouillées deviennent extrêmement glissantes."
               }
             }
           ]
@@ -224,7 +246,8 @@
             "de": "Genießen Sie einen frischen Wintermorgen an der Kapelle. Der Mittag bietet klare Ausblicke von der Festung. Verbringen Sie den Nachmittag an den ruhigen, leeren Stränden von Aregno. Beenden Sie den Tag am Felsvorsprung und packen Sie sich warm ein, um den frühen Sonnenuntergang gegen 17:00 Uhr zu sehen.",
             "hu": "Élvezze a friss téli reggelt a történelmi kápolnánál. A dél tiszta kilátást kínál az ősi erődből. Töltse a délutánt az Aregno strand üres homokján sétálva. Zárja a napot a sziklás kiugrónál, meleg rétegekbe burkolózva, hogy megnézze a korai naplementét 17:00 körül.",
             "ro": "Bucurați-vă de o dimineață proaspătă de iarnă la capelă. Prânzul oferă priveliști clare de la fortăreață. Petreceți după-amiaza plimbându-vă pe nisipurile liniștite ale plajelor Aregno. Încheiați ziua la stânci, îmbrăcați gros pentru a privi apusul devreme, în jur de ora 17:00.",
-            "en": "Enjoy a crisp winter morning at the historic chapel. Midday offers clear views from the ancient fortress. Spend the afternoon wandering the peaceful, empty sands of Aregno beach. Conclude your day at the rocky outcrop, wrapping up in warm layers to watch the early sunset around 17:00."
+            "en": "Enjoy a crisp winter morning at the historic chapel. Midday offers clear views from the ancient fortress. Spend the afternoon wandering the peaceful, empty sands of Aregno beach. Conclude your day at the rocky outcrop, wrapping up in warm layers to watch the early sunset around 17:00.",
+            "fr": "Profitez d'une fraîche matinée d'hiver à la chapelle historique. Midi offre des vues dégagées depuis l'ancienne forteresse. Passez l'après-midi à errer sur les sables paisibles et déserts d'Aregno. Concluez la journée à l'éperon rocheux, emmitouflé dans des couches chaudes pour regarder le coucher du soleil tôt vers 17:00."
           },
           "stops": [
             {
@@ -232,13 +255,15 @@
                 "de": "Chapelle Saint-Michel",
                 "hu": "Chapelle Saint-Michel",
                 "ro": "Chapelle Saint-Michel",
-                "en": "Chapelle Saint-Michel"
+                "en": "Chapelle Saint-Michel",
+                "fr": "Chapelle Saint-Michel"
               },
               "tip_5lang": {
                 "de": "Genießen Sie die friedliche Wintereinsamkeit an dieser charmanten Kapelle; das klare Morgenlicht betont die alten Steine. Tragen Sie eine warme Thermojacke.",
                 "hu": "Élvezze a békés téli magányt ennél a bájos kápolnánál, ahol a friss reggeli fény kiemeli az ősi köveket; viseljen meleg termokabátot a hideg ellen.",
                 "ro": "Bucurați-vă de solitudinea liniștită a iernii la această capelă fermecătoare; lumina proaspătă a dimineții evidențiază pietrele antice, purtați o geacă călduroasă.",
-                "en": "Enjoy the peaceful winter solitude at this charming chapel, where the crisp morning light highlights its ancient stones; wear a warm thermal jacket."
+                "en": "Enjoy the peaceful winter solitude at this charming chapel, where the crisp morning light highlights its ancient stones; wear a warm thermal jacket.",
+                "fr": "Appréciez la solitude hivernale paisible de cette charmante chapelle, où la lumière matinale met en valeur ses pierres anciennes ; portez une veste thermique chaude."
               }
             },
             {
@@ -246,13 +271,15 @@
                 "de": "Château-fort",
                 "hu": "Château-fort",
                 "ro": "Château-fort",
-                "en": "Château-fort"
+                "en": "Château-fort",
+                "fr": "Château-fort"
               },
               "tip_5lang": {
                 "de": "Genießen Sie von der Festung aus den unverbauten Winterblick auf das Mittelmeer; eine warme Mütze wird gegen den frischen Küstenwind empfohlen.",
                 "hu": "Élvezze az erődből nyíló lenyűgöző, akadálytalan téli kilátást a Földközi-tengerre; a friss tengerparti szelek ellen egy meleg sapka erősen ajánlott.",
                 "ro": "Admirați priveliștile uimitoare și neobstrucționate de iarnă ale Mediteranei de la fortăreață; se recomandă o căciulă caldă împotriva vânturilor aspre.",
-                "en": "Take in the stunning, unobstructed winter views of the Mediterranean from the fortress; a warm hat is recommended against the brisk coastal winds."
+                "en": "Take in the stunning, unobstructed winter views of the Mediterranean from the fortress; a warm hat is recommended against the brisk coastal winds.",
+                "fr": "Profitez des vues hivernales dégagées et impressionnantes sur la Méditerranée depuis la forteresse ; un bonnet chaud est recommandé contre les vents côtiers vifs."
               }
             },
             {
@@ -260,13 +287,15 @@
                 "de": "Aregno Plage - Algajola",
                 "hu": "Aregno Plage - Algajola",
                 "ro": "Aregno Plage - Algajola",
-                "en": "Aregno Plage - Algajola"
+                "en": "Aregno Plage - Algajola",
+                "fr": "Aregno Plage - Algajola"
               },
               "tip_5lang": {
                 "de": "Schlendern Sie am völlig verlassenen Strand entlang und genießen Sie die Winterlandschaft; der Sand kann kalt sein, daher sind feste Wanderschuhe ideal.",
                 "hu": "Sétáljon végig a teljesen elhagyatott strandon, és élvezze a nyugodt téli tájat; a homok hideg és kemény lehet, így a túracipő az ideális választás.",
                 "ro": "Plimbați-vă pe plaja complet pustie și bucurați-vă de peisajul senin de iarnă; nisipul poate fi rece și ferm, cizmele de mers fiind ideale.",
-                "en": "Stroll along the completely deserted beach and enjoy the serene winter landscape; the sand can be cold and firm, making walking boots ideal."
+                "en": "Stroll along the completely deserted beach and enjoy the serene winter landscape; the sand can be cold and firm, making walking boots ideal.",
+                "fr": "Promenez-vous le long de la plage complètement déserte et profitez du paysage hivernal serein ; le sable peut être froid et ferme, des chaussures de marche sont idéales."
               }
             },
             {
@@ -274,13 +303,15 @@
                 "de": "Aregno Plage",
                 "hu": "Aregno Plage",
                 "ro": "Aregno Plage",
-                "en": "Aregno Plage"
+                "en": "Aregno Plage",
+                "fr": "Aregno Plage"
               },
               "tip_5lang": {
                 "de": "Lauschen Sie den sanften Winterwellen, die an das ruhige Ufer rollen; wickeln Sie sich einen dicken Schal um den Hals, um die Kälte abzuhalten.",
                 "hu": "Hallgassa a csendes partra gördülő szelíd téli hullámokat, amelyek tökéletes meditatív kikapcsolódást nyújtanak; tekerjen egy vastag sálat a nyakába.",
                 "ro": "Ascultați valurile blânde de iarnă care se rostogolesc pe țărmul liniștit, oferind o evadare meditativă perfectă; înfășurați-vă un fular gros la gât.",
-                "en": "Listen to the gentle winter waves rolling onto the quiet shore, offering a perfect meditative escape; wrap a thick scarf around your neck."
+                "en": "Listen to the gentle winter waves rolling onto the quiet shore, offering a perfect meditative escape; wrap a thick scarf around your neck.",
+                "fr": "Écoutez les vagues hivernales douces venant mourir sur la rive tranquille, offrant une parfaite échappée méditative ; enroulez une grosse écharpe autour du cou."
               }
             },
             {
@@ -288,13 +319,15 @@
                 "de": "Rocky outcrop",
                 "hu": "Rocky outcrop",
                 "ro": "Rocky outcrop",
-                "en": "Rocky outcrop"
+                "en": "Rocky outcrop",
+                "fr": "Éperon rocheux"
               },
               "tip_5lang": {
                 "de": "Besteigen Sie diesen Vorsprung für einen spektakulären Aussichtspunkt auf den frühen Wintersonnenuntergang gegen 17:00 Uhr; bringen Sie heißen Tee mit.",
                 "hu": "Másszon fel erre a kiugróra, hogy látványos nézőpontból csodálhassa meg a korai, 17:00 órai téli naplementét; hozzon egy termosz forró teát, hogy felmelegedjen.",
                 "ro": "Urcați pe această stâncă pentru un punct de belvedere spectaculos al apusului de iarnă în jur de 17:00; aduceți un termos cu ceai fierbinte.",
-                "en": "Climb this outcrop for a spectacular vantage point of the early winter sunset around 17:00; bring a thermos of hot tea to keep yourself warm."
+                "en": "Climb this outcrop for a spectacular vantage point of the early winter sunset around 17:00; bring a thermos of hot tea to keep yourself warm.",
+                "fr": "Gravissez cet éperon pour un point de vue spectaculaire sur le coucher de soleil d'hiver autour de 17:00 ; apportez une thermos de thé chaud pour vous réchauffer."
               }
             }
           ]
@@ -314,7 +347,8 @@
             "de": "Chapelle de l'Annunziata",
             "hu": "Chapelle de l'Annunziata",
             "ro": "Chapelle de l'Annunziata",
-            "en": "Chapelle de l'Annunziata"
+            "en": "Chapelle de l'Annunziata",
+            "fr": "Chapelle de l'Annunziata"
           },
           "coords": [
             8.874896,
@@ -329,7 +363,8 @@
             "de": "Nehmen Sie sich einen Moment Zeit für die ruhige Atmosphäre dieser Kapelle und packen Sie ausreichend Wasser für Ihre Radtour ein.",
             "hu": "Szánjon egy percet ennek az eldugott kápolnának a nyugodt hangulatára, és ne felejtsen el vizet csomagolni a kerékpáros kalandhoz.",
             "ro": "Acordați-vă un moment pentru a vă bucura de atmosfera liniștită a acestei capele retrase și nu uitați să luați apă pentru aventura pe bicicletă.",
-            "en": "Take a moment to enjoy the tranquil atmosphere of this secluded chapel, and don't forget to pack some water for your cycling adventure."
+            "en": "Take a moment to enjoy the tranquil atmosphere of this secluded chapel, and don't forget to pack some water for your cycling adventure.",
+            "fr": "Prenez un moment pour savourer l'atmosphère tranquille de cette chapelle isolée, et n'oubliez pas d'emporter de l'eau pour votre aventure à vélo."
           }
         },
         {
@@ -337,7 +372,8 @@
             "de": "Chapelle Saint-Michel",
             "hu": "Chapelle Saint-Michel",
             "ro": "Chapelle Saint-Michel",
-            "en": "Chapelle Saint-Michel"
+            "en": "Chapelle Saint-Michel",
+            "fr": "Chapelle Saint-Michel"
           },
           "coords": [
             8.864159,
@@ -352,7 +388,8 @@
             "de": "Nach einer kurzen Fahrt erreichen Sie diese pittoreske Kapelle, bei der Sie Ihr Fahrrad am besten direkt am Eingang sicher abschließen.",
             "hu": "Rövid tekerés után eléri ezt a festői kápolnát, ahol a legjobb, ha kerékpárját közvetlenül a bejáratnál biztonságosan lezárja.",
             "ro": "După o scurtă plimbare ajungeți la această capelă pitorească, unde este recomandat să vă asigurați bicicleta direct la intrare.",
-            "en": "After a short ride you reach this picturesque chapel, where it is best to securely lock your bicycle right at the main entrance."
+            "en": "After a short ride you reach this picturesque chapel, where it is best to securely lock your bicycle right at the main entrance.",
+            "fr": "Après une courte balade vous atteignez cette chapelle pittoresque, où il est préférable de verrouiller votre vélo en toute sécurité juste à l'entrée principale."
           }
         },
         {
@@ -360,7 +397,8 @@
             "de": "Château-fort",
             "hu": "Château-fort",
             "ro": "Château-fort",
-            "en": "Château-fort"
+            "en": "Château-fort",
+            "fr": "Château-fort"
           },
           "coords": [
             8.862271,
@@ -375,7 +413,8 @@
             "de": "Entdecken Sie die robusten Festungsmauern und genießen Sie den atemberaubenden Blick, den dieses historische Bauwerk auf das Meer bietet.",
             "hu": "Fedezze fel a masszív várfalakat, és élvezze azt a lélegzetelállító kilátást, amelyet ez a történelmi építmény nyújt a tengerre.",
             "ro": "Descoperiți zidurile robuste ale fortăreței și bucurați-vă de priveliștea uluitoare pe care această structură istorică o oferă spre mare.",
-            "en": "Discover the sturdy fortress walls and enjoy the breathtaking view that this impressive historic structure offers out over the open sea."
+            "en": "Discover the sturdy fortress walls and enjoy the breathtaking view that this impressive historic structure offers out over the open sea.",
+            "fr": "Découvrez les murs solides de la forteresse et profitez de la vue à couper le souffle que cette impressionnante structure historique offre sur la mer ouverte."
           }
         },
         {
@@ -383,7 +422,8 @@
             "de": "Aregno Plage - Algajola",
             "hu": "Aregno Plage - Algajola",
             "ro": "Aregno Plage - Algajola",
-            "en": "Aregno Plage - Algajola"
+            "en": "Aregno Plage - Algajola",
+            "fr": "Aregno Plage - Algajola"
           },
           "coords": [
             8.871817,
@@ -398,7 +438,8 @@
             "de": "Stellen Sie Ihr Fahrrad ab und entspannen Sie sich auf dem warmen Sand dieses lebhaften Strandes für eine wohlverdiente Badepause.",
             "hu": "Tegye le kerékpárját, és pihenjen meg e nyüzsgő strand meleg homokján egy jól megérdemelt, frissítő fürdőzési szünetre.",
             "ro": "Lăsați bicicleta și relaxați-vă pe nisipul cald al acestei plaje pline de viață pentru o binemeritată pauză de înot.",
-            "en": "Park your bike and relax on the warm sand of this lively beach to enjoy a well-deserved, refreshing swimming break."
+            "en": "Park your bike and relax on the warm sand of this lively beach to enjoy a well-deserved, refreshing swimming break.",
+            "fr": "Garez votre vélo et détendez-vous sur le sable chaud de cette plage animée pour une pause baignade bien méritée et rafraîchissante."
           }
         },
         {
@@ -406,7 +447,8 @@
             "de": "Monolithe de Corbara",
             "hu": "Monolithe de Corbara",
             "ro": "Monolithe de Corbara",
-            "en": "Monolithe de Corbara"
+            "en": "Monolithe de Corbara",
+            "fr": "Monolithe de Corbara"
           },
           "coords": [
             8.881291,
@@ -421,7 +463,8 @@
             "de": "Beenden Sie Ihre Radtour an diesem beeindruckenden Monolithen, der ein perfektes Fotomotiv mit der malerischen Landschaft abgibt.",
             "hu": "Fejezze be kerékpártúráját ennél a lenyűgöző monolitnál, amely tökéletes fotótémát nyújt a festői tájjal a háttérben.",
             "ro": "Încheiați turul cu bicicleta la acest monolit impresionant, care oferă un motiv foto perfect alături de peisajul pitoresc.",
-            "en": "End your cycling tour at this impressive monolith, which provides a perfect photo opportunity alongside the picturesque landscape."
+            "en": "End your cycling tour at this impressive monolith, which provides a perfect photo opportunity alongside the picturesque landscape.",
+            "fr": "Terminez votre circuit à vélo à ce monolithe impressionnant, qui offre une parfaite opportunité photo au cœur d'un paysage pittoresque."
           }
         }
       ],
@@ -429,7 +472,8 @@
         "de": "Morgens: Wir beginnen am ruhigen südlichen Rand bei der Chapelle de l'Annunziata und radeln hinauf in das lebhafte Zentrum zur Chapelle Saint-Michel.\nMittags: Wir erkunden das mächtige Château-fort und fahren dann hinunter zum langen Sandstrand von Aregno Plage für eine erfrischende Pause.\nNachmittags: Eine sanfte Fahrt führt uns weiter an der Küste entlang, um die frische Meeresbrise und die dramatische Landschaft zu spüren.\nAbends: Unsere Radtour endet am beeindruckenden Monolithen von Corbara, einem einzigartigen Wahrzeichen, das unser korsisches Abenteuer abrundet.",
         "hu": "Délelőtt: A nyugodt déli peremen, a Chapelle de l'Annunziata kápolnánál indulunk, és feltekerünk a nyüzsgő központba a Chapelle Saint-Michel-hez.\nDélben: Felfedezzük a hatalmas Château-fort várat, majd lelovagolunk az Aregno Plage hosszú homokos partjára egy frissítő tengerparti szünetre.\nDélután: Egy kellemes kerékpározás során tovább haladunk a part mentén, érezve a friss tengeri szellőt és megcsodálva a drámai tengerparti tájat.\nEste: Biciklitúránk a lenyűgöző Corbara monolitnál ér véget, amely egyedi tájékozódási pontként szolgál napfényes korzikai kalandunk lezárásához.",
         "ro": "Dimineața: Începând de la marginea sudică liniștită, la Chapelle de l'Annunziata, pedalăm spre centrul plin de viață pentru a vedea Chapelle Saint-Michel.\nAmiază: Explorăm puternicul Château-fort și apoi coborâm spre plaja lungă cu nisip Aregno Plage pentru o pauză revigorantă pe malul mării.\nDupă-amiaza: O plimbare ușoară ne duce mai departe de-a lungul coastei, simțind briza proaspătă a mării și admirând peisajul de coastă dramatic.\nSeara: Turul nostru cu bicicleta se încheie la impresionantul Monolit din Corbara, un reper unic pentru a reflecta asupra aventurii noastre corsicane.",
-        "en": "Morning: Starting in the serene southern outskirts at Chapelle de l'Annunziata, we pedal up to the bustling center to see Chapelle Saint-Michel.\nMidday: We explore the mighty Château-fort and then ride down to the long sandy stretch of Aregno Plage for a refreshing seaside break.\nAfternoon: A gentle ride takes us further along the coast, feeling the fresh sea breeze and admiring the dramatic coastal landscape.\nEvening: Our bike tour concludes at the impressive Monolithe de Corbara, offering a unique landmark to reflect on our sunny Corsican adventure."
+        "en": "Morning: Starting in the serene southern outskirts at Chapelle de l'Annunziata, we pedal up to the bustling center to see Chapelle Saint-Michel.\nMidday: We explore the mighty Château-fort and then ride down to the long sandy stretch of Aregno Plage for a refreshing seaside break.\nAfternoon: A gentle ride takes us further along the coast, feeling the fresh sea breeze and admiring the dramatic coastal landscape.\nEvening: Our bike tour concludes at the impressive Monolithe de Corbara, offering a unique landmark to reflect on our sunny Corsican adventure.",
+        "fr": "Matin : Départ depuis la paisible périphérie sud à la Chapelle de l'Annunziata, nous pédalons vers le centre animé pour voir la Chapelle Saint-Michel.\nMidi : Nous explorons le puissant Château-fort puis descendons jusqu'à la longue étendue sableuse d'Aregno Plage pour une pause rafraîchissante au bord de la mer.\nAprès-midi : Une balade tranquille nous mène plus loin le long de la côte, sentant la brise marine et admirant le paysage côtier dramatique.\nSoir : Notre circuit à vélo se termine au remarquable Monolithe de Corbara, offrant un point de repère unique pour revenir sur notre ensoleillée aventure corse."
       },
       "variants": {
         "rainy": {
@@ -437,7 +481,8 @@
             "de": "Die morgendliche Radtour zu den Kapellen erfordert gute Regenkleidung. Mittags bietet die Festung Schutz. Die Nachmittagsfahrt am Strand und zum Monolithen erfordert Vorsicht auf rutschigen Küstenstraßen.",
             "hu": "A reggeli biciklizés a kápolnákhoz jó esőruhát igényel. Délben az erődítmény nyújt menedéket. A délutáni tekerés a parton és a monolit felé óvatosságot követel a csúszós parti utakon.",
             "ro": "Ciclismul de dimineață către capele necesită echipament bun de ploaie. La prânz, fortăreața oferă adăpost. Cursa de după-amiază spre plajă și monolit necesită atenție pe drumurile alunecoase.",
-            "en": "Morning cycle to chapels requires good rain gear. Midday at the fortress offers shelter. Afternoon ride along the beach and to the monolith demands caution on slippery coastal roads."
+            "en": "Morning cycle to chapels requires good rain gear. Midday at the fortress offers shelter. Afternoon ride along the beach and to the monolith demands caution on slippery coastal roads.",
+            "fr": "Le départ matinal à vélo vers les chapelles exige un bon équipement pluie. Midi au château offre un abri. L'après-midi le long de la plage et jusqu'au monolithe demande de la prudence sur les routes côtières glissantes."
           },
           "stops": [
             {
@@ -445,13 +490,15 @@
                 "de": "Chapelle de l'Annunziata",
                 "hu": "Chapelle de l'Annunziata",
                 "ro": "Chapelle de l'Annunziata",
-                "en": "Chapelle de l'Annunziata"
+                "en": "Chapelle de l'Annunziata",
+                "fr": "Chapelle de l'Annunziata"
               },
               "tip_5lang": {
                 "de": "Radeln Sie zu dieser abgelegenen Kapelle, aber stellen Sie sicher, dass Ihr Fahrrad Schutzbleche hat, da der Weg im Regen sehr schlammig und rutschig wird.",
                 "hu": "Tekerjen el ehhez a távoli kápolnához egy esős élményért, de győződjön meg róla, hogy a kerékpárján van sárvédő, mivel az út nagyon saras és csúszós lesz.",
                 "ro": "Bicicliți către această capelă izolată, dar asigurați-vă că bicicleta are apărători de noroi, deoarece calea de acces devine foarte noroioasă pe ploaie.",
-                "en": "Cycle to this remote chapel for a serene rainy experience, but ensure your bike has mudguards as the approach path gets quite muddy and slick."
+                "en": "Cycle to this remote chapel for a serene rainy experience, but ensure your bike has mudguards as the approach path gets quite muddy and slick.",
+                "fr": "Pédalez jusqu'à cette chapelle reculée pour une expérience pluvieuse sereine, mais assurez-vous que votre vélo est équipé de garde-boue car le chemin d'accès devient boueux et glissant."
               }
             },
             {
@@ -459,13 +506,15 @@
                 "de": "Chapelle Saint-Michel",
                 "hu": "Chapelle Saint-Michel",
                 "ro": "Chapelle Saint-Michel",
-                "en": "Chapelle Saint-Michel"
+                "en": "Chapelle Saint-Michel",
+                "fr": "Chapelle Saint-Michel"
               },
               "tip_5lang": {
                 "de": "Machen Sie eine kurze Pause, um etwas zu trocknen; der Kopfsteinpflasterweg erfordert bei nassen Bedingungen vorsichtiges Bremsen.",
                 "hu": "Tartson egy rövid szünetet ennél a történelmi kápolnánál, hogy kicsit megszáradjon; a macskaköves felvezető úton óvatosan kell fékezni nedves időben.",
                 "ro": "Faceți o scurtă pauză la această capelă istorică pentru a vă usca; drumul pietruit care duce spre ea necesită o frânare atentă în condiții de umezeală.",
-                "en": "Take a short break at this historic chapel to dry off a bit; the cobblestone path leading up to it requires careful braking in wet conditions."
+                "en": "Take a short break at this historic chapel to dry off a bit; the cobblestone path leading up to it requires careful braking in wet conditions.",
+                "fr": "Faites une courte pause à cette chapelle historique pour vous sécher un peu ; le chemin pavé menant jusqu'à elle nécessite un freinage prudent par temps humide."
               }
             },
             {
@@ -473,13 +522,15 @@
                 "de": "Château-fort",
                 "hu": "Château-fort",
                 "ro": "Château-fort",
-                "en": "Château-fort"
+                "en": "Château-fort",
+                "fr": "Château-fort"
               },
               "tip_5lang": {
                 "de": "Bewundern Sie die Festung durch den Nebel; schließen Sie Ihr Fahrrad sicher ab und suchen Sie in der Nähe Schutz, falls eine schwere Böe aufzieht.",
                 "hu": "Csodálja meg a ködön és esőn át magasodó erődöt; zárja le biztonságosan a kerékpárját, és keressen menedéket a közelben, ha heves tengeri széllökés érkezik.",
                 "ro": "Admirați fortăreața care se zărește prin ceață și ploaie; legați bicicleta în siguranță și adăpostiți-vă în apropiere dacă vine o rafală puternică.",
-                "en": "Admire the fortress looming through the mist and rain; lock your bike securely and take shelter nearby if a heavy squall rolls in off the sea."
+                "en": "Admire the fortress looming through the mist and rain; lock your bike securely and take shelter nearby if a heavy squall rolls in off the sea.",
+                "fr": "Admirer la forteresse émergeant à travers la brume et la pluie ; verrouillez votre vélo solidement et abritez-vous à proximité si une forte averse arrive de la mer."
               }
             },
             {
@@ -487,13 +538,15 @@
                 "de": "Aregno Plage - Algajola",
                 "hu": "Aregno Plage - Algajola",
                 "ro": "Aregno Plage - Algajola",
-                "en": "Aregno Plage - Algajola"
+                "en": "Aregno Plage - Algajola",
+                "fr": "Aregno Plage - Algajola"
               },
               "tip_5lang": {
                 "de": "Fahren Sie die Küstenstraße neben dem stürmischen Strand entlang; tragen Sie gut sichtbare, wasserdichte Kleidung für die Sicherheit bei der Dunkelheit.",
                 "hu": "Tekerjen a viharos part melletti tengerparti úton, élvezve a drámai tengeri kilátást; viseljen jól láthatósági, vízálló felszerelést a biztonság érdekében.",
                 "ro": "Mergeți pe drumul de coastă de lângă plaja furtunoasă; purtați echipament impermeabil cu vizibilitate ridicată pentru siguranță în penumbră.",
-                "en": "Ride along the coastal road next to the stormy beach, enjoying the dramatic sea views; wear high-visibility waterproof gear for safety in the gloom."
+                "en": "Ride along the coastal road next to the stormy beach, enjoying the dramatic sea views; wear high-visibility waterproof gear for safety in the gloom.",
+                "fr": "Roulez le long de la route côtière à côté de la plage agitée, en profitant des vues marines dramatiques ; portez un équipement imperméable haute visibilité pour la sécurité par faible luminosité."
               }
             },
             {
@@ -501,13 +554,15 @@
                 "de": "Monolithe de Corbara",
                 "hu": "Monolithe de Corbara",
                 "ro": "Monolithe de Corbara",
-                "en": "Monolithe de Corbara"
+                "en": "Monolithe de Corbara",
+                "fr": "Monolithe de Corbara"
               },
               "tip_5lang": {
                 "de": "Besuchen Sie dieses faszinierende Steinmonument, das im Regen mysteriös wirkt, aber fahren Sie langsam, da nasses Laub auf den Straßen sehr rutschig ist.",
                 "hu": "Látogassa meg ezt az érdekes kőemlékművet, amely esőben titokzatos aurát ölt, de tekerjen lassan, mivel a környező falevelek és utak csúszósak.",
                 "ro": "Vizitați acest monument de piatră intrigant care capătă o aură misterioasă în ploaie, dar pedalați încet, deoarece frunzele ude fac drumul alunecos.",
-                "en": "Visit this intriguing stone monument, which takes on a mysterious aura in the rain, but ride slowly as the surrounding wet leaves and roads are slippery."
+                "en": "Visit this intriguing stone monument, which takes on a mysterious aura in the rain, but ride slowly as the surrounding wet leaves and roads are slippery.",
+                "fr": "Visitez ce monument de pierre intrigant, qui prend une aura mystérieuse sous la pluie, mais roulez lentement car les feuilles et les routes mouillées sont glissantes."
               }
             }
           ]
@@ -517,7 +572,8 @@
             "de": "Frische morgendliche Fahrt zu den ruhigen Kapellen. Mittags an der Festung unter klarem Winterhimmel. Die Nachmittagsfahrt ist friedlich, aber Schichten sind gegen den Wind unerlässlich.",
             "hu": "Friss reggeli tekerés a csendes kápolnákhoz. Délben az erődnél tiszta téli égbolt alatt. A délutáni út békés, de a szél elleni réteges öltözködés elengedhetetlen a sötétedésig.",
             "ro": "Călătorie proaspătă de dimineață către capelele liniștite. Prânzul la fortăreață sub cerul senin. Cursa de după-amiază este pașnică, dar straturile groase sunt esențiale împotriva vântului.",
-            "en": "Brisk morning ride to the quiet chapels. Midday at the fortress under clear winter skies. The afternoon ride to the beach and monolith is peaceful, but layers are essential against the wind."
+            "en": "Brisk morning ride to the quiet chapels. Midday at the fortress under clear winter skies. The afternoon ride to the beach and monolith is peaceful, but layers are essential against the wind.",
+            "fr": "Promenade matinale vive vers les chapelles calmes. Midi au château-fort sous un ciel d'hiver clair. L'après-midi, la route vers la plage et le monolithe est paisible, mais prévoir des couches pour se protéger du vent."
           },
           "stops": [
             {
@@ -525,13 +581,15 @@
                 "de": "Chapelle de l'Annunziata",
                 "hu": "Chapelle de l'Annunziata",
                 "ro": "Chapelle de l'Annunziata",
-                "en": "Chapelle de l'Annunziata"
+                "en": "Chapelle de l'Annunziata",
+                "fr": "Chapelle de l'Annunziata"
               },
               "tip_5lang": {
                 "de": "Genießen Sie eine frische Winterfahrt zu dieser friedlichen Kapelle; tragen Sie thermische Radhandschuhe, um Ihre Hände vor der Kälte zu schützen.",
                 "hu": "Élvezze a frissítő téli kerékpározást ehhez a békés, alvó növényzettel körülvett kápolnához; viseljen termál kerékpáros kesztyűt a hideg ellen.",
                 "ro": "Bucurați-vă de o cursă de iarnă revigorantă către această capelă pașnică; purtați mănuși termice de ciclism pentru a vă proteja mâinile de frig.",
-                "en": "Enjoy a brisk winter ride to this peaceful chapel, surrounded by dormant vegetation; wear thermal cycling gloves to protect your hands from the chill."
+                "en": "Enjoy a brisk winter ride to this peaceful chapel, surrounded by dormant vegetation; wear thermal cycling gloves to protect your hands from the chill.",
+                "fr": "Profitez d'une balade à vélo vivifiante en hiver jusqu'à cette chapelle paisible, entourée d'une végétation en dormance ; portez des gants de cyclisme thermiques pour protéger vos mains du froid."
               }
             },
             {
@@ -539,13 +597,15 @@
                 "de": "Chapelle Saint-Michel",
                 "hu": "Chapelle Saint-Michel",
                 "ro": "Chapelle Saint-Michel",
-                "en": "Chapelle Saint-Michel"
+                "en": "Chapelle Saint-Michel",
+                "fr": "Chapelle Saint-Michel"
               },
               "tip_5lang": {
                 "de": "Halten Sie an dieser kleinen Kapelle an, um die Winterarchitektur zu schätzen; die ruhigen Straßen in der Nebensaison machen das Radfahren sehr entspannend.",
                 "hu": "Álljon meg ennél a kis kápolnánál, hogy megcsodálja a tiszta téli építészetet; a csendes, szezonon kívüli utak nagyon pihentető kerékpáros élményt nyújtanak.",
                 "ro": "Opriți-vă la această mică capelă; drumurile liniștite din extrasezon oferă o experiență de ciclism foarte relaxantă și revigorantă în frigul dimineții.",
-                "en": "Stop by this small chapel to appreciate the crisp winter architecture; the quiet off-season roads make for a very relaxing cycling experience."
+                "en": "Stop by this small chapel to appreciate the crisp winter architecture; the quiet off-season roads make for a very relaxing cycling experience.",
+                "fr": "Faites une halte à cette petite chapelle pour apprécier l'architecture hivernale nette ; les routes calmes hors saison offrent une expérience cycliste très relaxante."
               }
             },
             {
@@ -553,13 +613,15 @@
                 "de": "Château-fort",
                 "hu": "Château-fort",
                 "ro": "Château-fort",
-                "en": "Château-fort"
+                "en": "Château-fort",
+                "fr": "Château-fort"
               },
               "tip_5lang": {
                 "de": "Bestaunen Sie die Festung, beleuchtet von der tief stehenden Wintersonne; das Fehlen von Sommermassen ermöglicht es Ihnen, ganz entspannt vorzufahren.",
                 "hu": "Csodálja meg az alacsony téli napfény által megvilágított erődöt; a nyári tömeg hiánya lehetővé teszi, hogy könnyedén feltekerjen egészen a történelmi falakig.",
                 "ro": "Minunați-vă de fortăreața iluminată de soarele blând de iarnă; lipsa aglomerației vă permite să pedalați cu ușurință până la perimetrul istoric.",
-                "en": "Marvel at the fortress illuminated by the low winter sun; the lack of summer crowds allows you to cycle right up to the historic perimeter easily."
+                "en": "Marvel at the fortress illuminated by the low winter sun; the lack of summer crowds allows you to cycle right up to the historic perimeter easily.",
+                "fr": "Admirez la forteresse illuminée par le bas soleil d'hiver ; l'absence de foule estivale vous permet de circuler facilement jusqu'au périmètre historique."
               }
             },
             {
@@ -567,13 +629,15 @@
                 "de": "Aregno Plage - Algajola",
                 "hu": "Aregno Plage - Algajola",
                 "ro": "Aregno Plage - Algajola",
-                "en": "Aregno Plage - Algajola"
+                "en": "Aregno Plage - Algajola",
+                "fr": "Aregno Plage - Algajola"
               },
               "tip_5lang": {
                 "de": "Radeln Sie am verlassenen Winterstrand entlang mit unverbautem Blick; das Tragen mehrerer Kleidungsschichten ist wichtig für die Temperaturregelung.",
                 "hu": "Tekerjen végig az elhagyatott téli strand mellett, akadálytalan kilátással a Földközi-tengerre; a réteges öltözködés kulcsfontosságú a testhőmérséklet kezelésében.",
                 "ro": "Pedalați pe lângă plaja pustie de iarnă cu priveliști neobstrucționate asupra Mediteranei; îmbrăcămintea în straturi este esențială aici.",
-                "en": "Cycle beside the deserted winter beach with unobstructed views of the Mediterranean; layering your clothing is key to managing your body temperature."
+                "en": "Cycle beside the deserted winter beach with unobstructed views of the Mediterranean; layering your clothing is key to managing your body temperature.",
+                "fr": "Pédalez le long de la plage déserte d'hiver avec une vue dégagée sur la Méditerranée ; superposer les vêtements est essentiel pour gérer votre température corporelle."
               }
             },
             {
@@ -581,13 +645,15 @@
                 "de": "Monolithe de Corbara",
                 "hu": "Monolithe de Corbara",
                 "ro": "Monolithe de Corbara",
-                "en": "Monolithe de Corbara"
+                "en": "Monolithe de Corbara",
+                "fr": "Monolithe de Corbara"
               },
               "tip_5lang": {
                 "de": "Erreichen Sie den Monolithen kurz vor dem Sonnenuntergang um 17:00 Uhr; stellen Sie sicher, dass Ihre Fahrradlichter für die Rückfahrt voll aufgeladen sind.",
                 "hu": "Érje el a monolitot közvetlenül a korai, 17:00 órai naplemente előtt a gyönyörű, hosszú árnyékokért; gondoskodjon róla, hogy a kerékpárlámpái fel legyenek töltve.",
                 "ro": "Ajungeți la monolit chiar înainte de apusul de la ora 17:00 pentru umbre lungi și frumoase; asigurați-vă că luminile bicicletei sunt complet încărcate.",
-                "en": "Reach the monolith just before the early 17:00 sunset for beautiful long shadows; ensure your bike lights are fully charged for the ride back."
+                "en": "Reach the monolith just before the early 17:00 sunset for beautiful long shadows; ensure your bike lights are fully charged for the ride back.",
+                "fr": "Rejoignez le monolithe juste avant le coucher de soleil anticipé à 17:00 pour de belles ombres longues ; assurez-vous que les lumières de votre vélo sont complètement chargées pour le retour."
               }
             }
           ]
@@ -607,7 +673,8 @@
             "de": "Château-fort",
             "hu": "Château-fort",
             "ro": "Château-fort",
-            "en": "Château-fort"
+            "en": "Château-fort",
+            "fr": "Château-fort"
           },
           "coords": [
             8.862271,
@@ -622,7 +689,8 @@
             "de": "Parken Sie Ihr Auto etwas außerhalb des Zentrums, um die historischen Mauern und die spektakuläre Aussicht der Burg entspannt zu erkunden.",
             "hu": "Parkolja le autóját kissé a központon kívül, hogy nyugodtan felfedezhesse a történelmi falakat és a vár látványos panorámáját.",
             "ro": "Parcați mașina puțin în afara centrului pentru a explora în liniște zidurile istorice și priveliștea spectaculoasă a castelului.",
-            "en": "Park your car slightly outside the main center so you can relax and thoroughly explore the historic walls and spectacular castle views."
+            "en": "Park your car slightly outside the main center so you can relax and thoroughly explore the historic walls and spectacular castle views.",
+            "fr": "Garez votre voiture un peu en dehors du centre principal afin de vous détendre et d'explorer en profondeur les murailles historiques et les vues spectaculaires du château."
           }
         },
         {
@@ -630,7 +698,8 @@
             "de": "Chapelle Saint-Michel",
             "hu": "Chapelle Saint-Michel",
             "ro": "Chapelle Saint-Michel",
-            "en": "Chapelle Saint-Michel"
+            "en": "Chapelle Saint-Michel",
+            "fr": "Chapelle Saint-Michel"
           },
           "coords": [
             8.864159,
@@ -645,7 +714,8 @@
             "de": "Nehmen Sie sich die Zeit für diese spirituelle Stätte und beachten Sie die architektonischen Details aus der Vergangenheit der Region.",
             "hu": "Szánjon időt erre a spirituális helyre, és figyelje meg a régió múltjából származó különleges építészeti részleteket.",
             "ro": "Acordați-vă timp pentru acest loc spiritual și observați detaliile arhitecturale speciale din trecutul fascinant al regiunii.",
-            "en": "Take time to visit this spiritual site and closely observe the special architectural details that reflect the region's fascinating past."
+            "en": "Take time to visit this spiritual site and closely observe the special architectural details that reflect the region's fascinating past.",
+            "fr": "Prenez le temps de visiter ce site spirituel et d'observer de près les détails architecturaux particuliers qui reflètent le passé fascinant de la région."
           }
         },
         {
@@ -653,7 +723,8 @@
             "de": "Chapelle de l'Annunziata",
             "hu": "Chapelle de l'Annunziata",
             "ro": "Chapelle de l'Annunziata",
-            "en": "Chapelle de l'Annunziata"
+            "en": "Chapelle de l'Annunziata",
+            "fr": "Chapelle de l'Annunziata"
           },
           "coords": [
             8.874896,
@@ -668,7 +739,8 @@
             "de": "Fahren Sie vorsichtig auf den schmalen Straßen in Richtung Süden, um die friedvolle Umgebung dieser abgelegenen Kapelle zu genießen.",
             "hu": "Vezessen óvatosan a szűk utakon dél felé, hogy kiélvezhesse ennek a félreeső kápolnának a békés és csendes környezetét.",
             "ro": "Conduceți cu grijă pe drumurile înguste spre sud pentru a vă bucura de împrejurimile pașnice și liniștite ale acestei capele izolate.",
-            "en": "Drive carefully on the narrow roads heading south so you can fully enjoy the peaceful and quiet surroundings of this secluded chapel."
+            "en": "Drive carefully on the narrow roads heading south so you can fully enjoy the peaceful and quiet surroundings of this secluded chapel.",
+            "fr": "Conduisez prudemment sur les routes étroites en direction du sud pour profiter pleinement du calme et de la tranquillité entourant cette chapelle isolée."
           }
         },
         {
@@ -676,7 +748,8 @@
             "de": "Monolithe de Corbara",
             "hu": "Monolithe de Corbara",
             "ro": "Monolithe de Corbara",
-            "en": "Monolithe de Corbara"
+            "en": "Monolithe de Corbara",
+            "fr": "Monolithe de Corbara"
           },
           "coords": [
             8.881291,
@@ -691,7 +764,8 @@
             "de": "Bestaunen Sie diesen beeindruckenden natürlichen Monolithen, aber achten Sie beim Parken an der Straße auf den vorbeifahrenden Verkehr.",
             "hu": "Csodálja meg ezt a lenyűgöző természetes monolitot, de legyen nagyon óvatos az elhaladó forgalommal, amikor az út szélén parkol.",
             "ro": "Minunați-vă de acest monolit natural impresionant, dar fiți prudenți la traficul din zonă atunci când parcați pe marginea drumului.",
-            "en": "Marvel at this impressive natural monolith, which provides a fascinating photo opportunity, but be mindful of passing traffic when parking."
+            "en": "Marvel at this impressive natural monolith, which provides a fascinating photo opportunity, but be mindful of passing traffic when parking.",
+            "fr": "Admirez cet impressionnant monolithe naturel, qui offre une fascinante opportunité photo, mais faites attention à la circulation en stationnant."
           }
         },
         {
@@ -699,7 +773,8 @@
             "de": "Rocky outcrop",
             "hu": "Rocky outcrop",
             "ro": "Rocky outcrop",
-            "en": "Rocky outcrop"
+            "en": "Rocky outcrop",
+            "fr": "Rocky outcrop"
           },
           "coords": [
             8.874916,
@@ -714,7 +789,8 @@
             "de": "Nutzen Sie diesen kurzen Halt für fantastische Landschaftsaufnahmen, bevor Sie Ihre Fahrt entlang der malerischen Küste fortsetzen.",
             "hu": "Használja ki ezt a rövid megállót fantasztikus tájképek készítésére, mielőtt folytatná útját a festői tengerpart mentén.",
             "ro": "Profitați de această scurtă oprire pentru fotografii fantastice de peisaj înainte de a vă continua drumul de-a lungul coastei pitorești.",
-            "en": "Take advantage of this short stop to capture fantastic landscape photographs before continuing your scenic drive along the beautiful coast."
+            "en": "Take advantage of this short stop to capture fantastic landscape photographs before continuing your scenic drive along the beautiful coast.",
+            "fr": "Profitez de cet arrêt court pour capturer de superbes photos de paysage avant de poursuivre votre route panoramique le long de la belle côte."
           }
         },
         {
@@ -722,7 +798,8 @@
             "de": "Plage de Davia",
             "hu": "Plage de Davia",
             "ro": "Plage de Davia",
-            "en": "Plage de Davia"
+            "en": "Plage de Davia",
+            "fr": "Plage de Davia"
           },
           "coords": [
             8.881199,
@@ -737,7 +814,8 @@
             "de": "Beenden Sie Ihren Roadtrip entspannt an diesem wunderschönen Sandstrand und bringen Sie Schnorchelausrüstung für das klare Wasser mit.",
             "hu": "Fejezze be autós túráját lazítva ezen a gyönyörű homokos strandon, és fontolja meg búvárfelszerelés hozatalát a tiszta víz felfedezéséhez.",
             "ro": "Încheiați călătoria relaxându-vă pe această frumoasă plajă cu nisip și luați în considerare aducerea echipamentului de snorkeling.",
-            "en": "End your road trip by relaxing on this beautiful stretch of sand, and consider bringing your own snorkeling gear to explore the clear waters."
+            "en": "End your road trip by relaxing on this beautiful stretch of sand, and consider bringing your own snorkeling gear to explore the clear waters.",
+            "fr": "Terminez votre road trip en vous relaxant sur cette belle étendue de sable ; pensez à apporter votre propre équipement de snorkeling pour explorer les eaux claires."
           }
         }
       ],
@@ -745,7 +823,8 @@
         "de": "Morgens: Wir beginnen unsere Fahrt mit einem Besuch des mächtigen Château-fort, gefolgt von einem kurzen Stopp an der charmanten Chapelle Saint-Michel.\nMittags: Wir fahren nach Süden zur friedlichen Chapelle de l'Annunziata, bevor wir nach Norden fahren, um den Monolithen von Corbara zu bewundern.\nNachmittags: Wir parken in der Nähe der dramatischen Felsformationen, um weite Küstenblicke zu genießen und die salzige Meeresluft einzuatmen.\nAbends: Der Roadtrip endet am weitläufigen Plage de Davia, wo wir uns am Strand entspannen und einen herrlichen Sonnenuntergang über dem kristallklaren Wasser beobachten können.",
         "hu": "Délelőtt: Autózásunkat a lenyűgöző Château-fort megtekintésével kezdjük, majd rövid megállót tartunk a bájos Chapelle Saint-Michel kápolnánál.\nDélben: Dél felé haladva felfedezzük a békés Chapelle de l'Annunziata kápolnát, majd északnak vesszük az irányt, hogy megcsodáljuk a Corbara monolitot.\nDélután: Leparkolunk a drámai sziklás kiugró közelében, hogy élvezzük a tágas tengerparti kilátást és beszívjuk a friss, sós levegőt.\nEste: Az utazás a hatalmas Plage de Davia strandon ér véget, ahol megpihenhetünk a homokon, és végignézhetjük a ragyogó naplementét a kristálytiszta víz felett.",
         "ro": "Dimineața: Ne începem plimbarea cu o vizită la impunătorul Château-fort, urmată de o scurtă oprire la fermecătoarea Chapelle Saint-Michel.\nAmiază: Conducând spre sud, descoperim liniștita Chapelle de l'Annunziata înainte de a ne îndrepta spre nord pentru a admira Monolitul din Corbara.\nDupă-amiaza: Parcăm lângă aflorimentul stâncos pentru a ne bucura de priveliștile ample ale coastei și pentru a respira aerul mediteranean sărat.\nSeara: Călătoria se încheie la plaja întinsă Plage de Davia, unde ne putem relaxa pe nisip și privi un apus de soare glorios peste apa cristalină.",
-        "en": "Morning: We begin our drive with a visit to the commanding Château-fort, followed by a quick stop at the charming Chapelle Saint-Michel.\nMidday: Driving south, we discover the peaceful Chapelle de l'Annunziata before heading north to marvel at the impressive Monolithe de Corbara.\nAfternoon: We park near the dramatic Rocky outcrop to enjoy sweeping coastal views and breathe in the fresh, salty Mediterranean air.\nEvening: The road trip ends at the expansive Plage de Davia, where we can relax on the sand and watch a glorious sunset over the crystal-clear water."
+        "en": "Morning: We begin our drive with a visit to the commanding Château-fort, followed by a quick stop at the charming Chapelle Saint-Michel.\nMidday: Driving south, we discover the peaceful Chapelle de l'Annunziata before heading north to marvel at the impressive Monolithe de Corbara.\nAfternoon: We park near the dramatic Rocky outcrop to enjoy sweeping coastal views and breathe in the fresh, salty Mediterranean air.\nEvening: The road trip ends at the expansive Plage de Davia, where we can relax on the sand and watch a glorious sunset over the crystal-clear water.",
+        "fr": "Matin : Nous commençons notre trajet par la visite du majestueux Château-fort, suivie d'un arrêt rapide à la charmante Chapelle Saint-Michel.\nMidi : En roulant vers le sud, nous découvrons la paisible Chapelle de l'Annunziata avant de remonter vers le nord pour admirer l'imposant Monolithe de Corbara.\nAprès-midi : Nous nous garons près du spectaculaire Rocky outcrop pour profiter des vastes vues côtières et respirer l'air frais et salé de la Méditerranée.\nSoir : Le road trip se termine à la vaste Plage de Davia, où nous pouvons nous détendre sur le sable et admirer un coucher de soleil splendide sur une eau cristalline."
       },
       "variants": {
         "rainy": {
@@ -753,7 +832,8 @@
             "de": "Morgen in der geschützten Festung und bei den Kapellen. Fahren Sie vorsichtig zum Monolithen. Kurze Stopps am Felsvorsprung und am Davia-Strand zwischen den Schauern. Halten Sie einen Regenschirm bereit.",
             "hu": "Reggel a védett erődnél és a kápolnáknál. Vezessen óvatosan a monolit felé. Rövid megállók a sziklás kiugrónál és a Davia strandon az esőzések között. Tartson egy erős esernyőt a csomagtartóban.",
             "ro": "Dimineața la fortăreața adăpostită și capele. Conduceți cu grijă spre monolit. Opriri scurte la stânci și plaja Davia între ploi. Păstrați o umbrelă robustă în portbagaj mereu.",
-            "en": "Morning at the sheltered fortress and chapels. Drive carefully to the monolith. Quick stops at the rocky outcrop and Davia beach between showers. Keep a sturdy umbrella in the trunk."
+            "en": "Morning at the sheltered fortress and chapels. Drive carefully to the monolith. Quick stops at the rocky outcrop and Davia beach between showers. Keep a sturdy umbrella in the trunk.",
+            "fr": "Matinée au château-fort et aux chapelles abritées. Conduisez prudemment jusqu'au monolithe. Haltes rapides au rocky outcrop et à la plage de Davia entre les averses. Gardez un parapluie solide dans le coffre."
           },
           "stops": [
             {
@@ -761,13 +841,15 @@
                 "de": "Château-fort",
                 "hu": "Château-fort",
                 "ro": "Château-fort",
-                "en": "Château-fort"
+                "en": "Château-fort",
+                "fr": "Château-fort"
               },
               "tip_5lang": {
                 "de": "Fahren Sie zur historischen Festung hinauf und parken Sie vorsichtig auf den nassen, engen Kopfsteinpflasterstraßen; bewundern Sie die verregneten Mauern.",
                 "hu": "Hajtson fel a történelmi erődhöz, és élvezze az eső áztatta, komor falak látványát; parkoljon óvatosan a nedves, szűk macskaköves utcákon.",
                 "ro": "Conduceți până la fortăreața istorică și bucurați-vă de priveliștea melancolică a zidurilor sale mărginite de ploaie; parcați cu grijă pe străzile înguste.",
-                "en": "Drive up to the historic fortress and enjoy the moody, rain-swept views of its sturdy walls; park carefully on the wet, narrow cobbled streets."
+                "en": "Drive up to the historic fortress and enjoy the moody, rain-swept views of its sturdy walls; park carefully on the wet, narrow cobbled streets.",
+                "fr": "Montez jusqu'à la forteresse historique et profitez des vues mélancoliques lavées par la pluie sur ses murs solides ; garez-vous prudemment dans les rues étroites pavées et mouillées."
               }
             },
             {
@@ -775,13 +857,15 @@
                 "de": "Chapelle Saint-Michel",
                 "hu": "Chapelle Saint-Michel",
                 "ro": "Chapelle Saint-Michel",
-                "en": "Chapelle Saint-Michel"
+                "en": "Chapelle Saint-Michel",
+                "fr": "Chapelle Saint-Michel"
               },
               "tip_5lang": {
                 "de": "Halten Sie an, um diese malerische Kapelle zu sehen, die einen schönen Kontrast zum grauen Himmel bildet; halten Sie einen Regenschirm im Auto bereit.",
                 "hu": "Húzódjon le, hogy megnézze ezt a festői kápolnát, amely gyönyörű látványt nyújt a szürke égbolt ellenében; tartson esernyőt az autóban a rövid sétához.",
                 "ro": "Trageți pe dreapta pentru a vedea această capelă pitorească; păstrați o umbrelă în mașină pentru plimbarea scurtă până la intrare.",
-                "en": "Pull over to see this quaint chapel, which offers a picturesque sight against the grey skies; keep an umbrella in the car for the short walk."
+                "en": "Pull over to see this quaint chapel, which offers a picturesque sight against the grey skies; keep an umbrella in the car for the short walk.",
+                "fr": "Arrêtez-vous pour voir cette chapelle pittoresque, qui offre un joli tableau sous le ciel gris ; gardez un parapluie dans la voiture pour la courte marche."
               }
             },
             {
@@ -789,13 +873,15 @@
                 "de": "Chapelle de l'Annunziata",
                 "hu": "Chapelle de l'Annunziata",
                 "ro": "Chapelle de l'Annunziata",
-                "en": "Chapelle de l'Annunziata"
+                "en": "Chapelle de l'Annunziata",
+                "fr": "Chapelle de l'Annunziata"
               },
               "tip_5lang": {
                 "de": "Navigieren Sie langsam auf den kurvigen Straßen zu dieser Kapelle, da Regen die Sicht einschränkt; der Innenraum bietet einen trockenen Moment der Besinnung.",
                 "hu": "Lassan navigáljon a kanyargós utakon ehhez az elszigetelt kápolnához, mivel az eső ronthatja a látási viszonyokat; a belső tér száraz pillanatot nyújt.",
                 "ro": "Navigați încet pe drumurile șerpuite, deoarece ploaia poate reduce vizibilitatea; interiorul capelei oferă un moment uscat de reflecție.",
-                "en": "Navigate the winding roads to this isolated chapel slowly, as rain can reduce visibility; the interior provides a dry moment of reflection."
+                "en": "Navigate the winding roads to this isolated chapel slowly, as rain can reduce visibility; the interior provides a dry moment of reflection.",
+                "fr": "Parcourez lentement les routes sinueuses menant à cette chapelle isolée, car la pluie peut réduire la visibilité ; l'intérieur offre un moment sec de recueillement."
               }
             },
             {
@@ -803,13 +889,15 @@
                 "de": "Monolithe de Corbara",
                 "hu": "Monolithe de Corbara",
                 "ro": "Monolithe de Corbara",
-                "en": "Monolithe de Corbara"
+                "en": "Monolithe de Corbara",
+                "fr": "Monolithe de Corbara"
               },
               "tip_5lang": {
                 "de": "Betrachten Sie diesen faszinierenden Monolithen bequem aus dem Auto, wenn der Regen stark ist; der nasse Stein kontrastiert schön mit der Umgebung.",
                 "hu": "Tekintse meg ezt a lenyűgöző monolitot az autó kényelméből, ha heves az eső; a nedves kő gyönyörű kontrasztot alkot a buja növényzettel.",
                 "ro": "Priviți acest monolit fascinant din confortul mașinii dacă ploaia este puternică; piatra udă contrastează frumos cu împrejurimile luxuriante.",
-                "en": "View this fascinating monolith from the comfort of your car if the rain is heavy; the wet stone contrasts beautifully with the lush surroundings."
+                "en": "View this fascinating monolith from the comfort of your car if the rain is heavy; the wet stone contrasts beautifully with the lush surroundings.",
+                "fr": "Admirez ce monolithe fascinant depuis le confort de votre voiture si la pluie est forte ; la pierre mouillée contraste magnifiquement avec le paysage luxuriant."
               }
             },
             {
@@ -817,13 +905,15 @@
                 "de": "Rocky outcrop",
                 "hu": "Rocky outcrop",
                 "ro": "Rocky outcrop",
-                "en": "Rocky outcrop"
+                "en": "Rocky outcrop",
+                "fr": "Rocky outcrop"
               },
               "tip_5lang": {
                 "de": "Beobachten Sie die dramatischen, stürmischen Wellen aus sicherer Entfernung; vermeiden Sie es, wegen Rutschgefahr auf den nassen Felsvorsprung zu treten.",
                 "hu": "Biztonságos távolságból figyelje meg a szikláknak csapódó drámai, viharos hullámokat; kerülje a nedves kiugróra való rálépést a csúszásveszély miatt.",
                 "ro": "Urmăriți valurile dramatice care se sparg de stânci de la o distanță sigură; evitați să ieșiți pe stânca umedă din cauza pericolului de alunecare.",
-                "en": "Watch the dramatic stormy waves crashing against the rocks from a safe distance; avoid stepping out onto the wet outcrop due to slip hazards."
+                "en": "Watch the dramatic stormy waves crashing against the rocks from a safe distance; avoid stepping out onto the wet outcrop due to slip hazards.",
+                "fr": "Observez les vagues orageuses et dramatiques se briser contre les rochers à bonne distance ; évitez de marcher sur la dalle humide en raison du risque de glissade."
               }
             },
             {
@@ -831,13 +921,15 @@
                 "de": "Plage de Davia",
                 "hu": "Plage de Davia",
                 "ro": "Plage de Davia",
-                "en": "Plage de Davia"
+                "en": "Plage de Davia",
+                "fr": "Plage de Davia"
               },
               "tip_5lang": {
                 "de": "Lauschen Sie dem Regen auf dem Autodach, während Sie in Strandnähe geparkt sind; bringen Sie ein heißes Getränk mit, um die Atmosphäre zu genießen.",
                 "hu": "Hallgassa a tetőn doboló esőt, miközben a gyönyörű strand közelében parkol; hozzon egy forró italt termoszban, hogy élvezze a viharos tengerparti hangulatot.",
                 "ro": "Ascultați ploaia lovind acoperișul în timp ce sunteți parcat lângă această plajă frumoasă; aduceți o băutură caldă pentru a vă bucura de atmosferă.",
-                "en": "Listen to the rain hitting the roof while parked near this beautiful beach; bring a hot drink in a thermos to enjoy the stormy coastal atmosphere."
+                "en": "Listen to the rain hitting the roof while parked near this beautiful beach; bring a hot drink in a thermos to enjoy the stormy coastal atmosphere.",
+                "fr": "Écoutez la pluie taper sur le toit en stationnant près de cette belle plage ; apportez une boisson chaude dans un thermos pour profiter de l'atmosphère côtière orageuse."
               }
             }
           ]
@@ -847,7 +939,8 @@
             "de": "Genießen Sie eine gemütliche morgendliche Fahrt zur Festung und den historischen Kapellen. Ruhige Winterstraßen führen zum Monolithen. Beenden Sie den Tag mit einem Spaziergang bei frühem Sonnenuntergang am Strand von Davia.",
             "hu": "Élvezze a hangulatos reggeli autózást az erődhöz és a történelmi kápolnákhoz. Csendes téli utak vezetnek a monolit felé. Zárja a napot egy korai naplementés sétával a Davia strandon, meleg kabátban.",
             "ro": "Bucurați-vă de o plimbare confortabilă matinală la fortăreață și capele istorice. Drumuri liniștite de iarnă duc la monolit. Încheiați cu o plimbare la apus devreme la plaja Davia; luați o geacă caldă.",
-            "en": "Enjoy a cozy morning drive to the fortress and historic chapels. Quiet winter roads lead to the monolith. End with an early sunset stroll at Davia beach; bring a thermos and warm jacket."
+            "en": "Enjoy a cozy morning drive to the fortress and historic chapels. Quiet winter roads lead to the monolith. End with an early sunset stroll at Davia beach; bring a thermos and warm jacket.",
+            "fr": "Profitez d'une matinée cocooning en voiture vers le château et les chapelles historiques. Les routes hivernales tranquilles mènent au monolithe. Terminez par une promenade au coucher du soleil tôt à la plage de Davia ; apportez un thermos et une veste chaude."
           },
           "stops": [
             {
@@ -855,13 +948,15 @@
                 "de": "Château-fort",
                 "hu": "Château-fort",
                 "ro": "Château-fort",
-                "en": "Château-fort"
+                "en": "Château-fort",
+                "fr": "Château-fort"
               },
               "tip_5lang": {
                 "de": "Beginnen Sie Ihre Winterfahrt an dieser Festung, die von der klaren Morgensonne wunderschön beleuchtet wird; die Autoheizung wird nach dem Aussteigen willkommen sein.",
                 "hu": "Kezdje a téli autózást ennél a fenséges erődnél, amelyet a tiszta reggeli nap csodásan megvilágít; a fűtés az autóban nagyon jól fog esni a séta után.",
                 "ro": "Începeți drumul de iarnă la această fortăreață maiestuoasă, frumos luminată de soarele proaspăt; încălzirea din mașină va fi binevenită la întoarcere.",
-                "en": "Start your winter drive at this majestic fortress, beautifully lit by the crisp morning sun; the car heater will be welcome after stepping out."
+                "en": "Start your winter drive at this majestic fortress, beautifully lit by the crisp morning sun; the car heater will be welcome after stepping out.",
+                "fr": "Commencez votre trajet hivernal à cette forteresse majestueuse, magnifiquement éclairée par le soleil matinal vif ; le chauffage de la voiture sera le bienvenu après être sorti."
               }
             },
             {
@@ -869,13 +964,15 @@
                 "de": "Chapelle Saint-Michel",
                 "hu": "Chapelle Saint-Michel",
                 "ro": "Chapelle Saint-Michel",
-                "en": "Chapelle Saint-Michel"
+                "en": "Chapelle Saint-Michel",
+                "fr": "Chapelle Saint-Michel"
               },
               "tip_5lang": {
                 "de": "Halten Sie kurz an dieser historischen Kapelle und genießen Sie die verkehrsfreien Winterstraßen; ein warmer Mantel ist unerlässlich für die Erkundung.",
                 "hu": "Álljon meg röviden ennél a történelmi kápolnánál, élvezve a teljesen forgalommentes téli utakat; egy meleg kabát elengedhetetlen a környezet felfedezéséhez.",
                 "ro": "Opriți-vă scurt la această capelă istorică, bucurându-vă de drumurile de iarnă complet libere de trafic; un palton cald este esențial pentru explorare.",
-                "en": "Stop briefly at this historic chapel, enjoying the completely traffic-free winter roads; a warm coat is essential for exploring the perimeter."
+                "en": "Stop briefly at this historic chapel, enjoying the completely traffic-free winter roads; a warm coat is essential for exploring the perimeter.",
+                "fr": "Faites une courte halte à cette chapelle historique, en profitant des routes hivernales totalement dépourvues de circulation ; un manteau chaud est essentiel pour explorer le périmètre."
               }
             },
             {
@@ -883,13 +980,15 @@
                 "de": "Chapelle de l'Annunziata",
                 "hu": "Chapelle de l'Annunziata",
                 "ro": "Chapelle de l'Annunziata",
-                "en": "Chapelle de l'Annunziata"
+                "en": "Chapelle de l'Annunziata",
+                "fr": "Chapelle de l'Annunziata"
               },
               "tip_5lang": {
                 "de": "Fahren Sie durch die ruhige Winterlandschaft zu dieser Kapelle; die klare Winterluft bietet einen atemberaubenden Blick über die umliegenden Täler.",
                 "hu": "Vezessen át a csendes téli tájon, hogy elérje ezt a nyugodt kápolnát; a tiszta téli levegő lenyűgöző kilátást nyújt a környező völgyekre.",
                 "ro": "Conduceți prin peisajul liniștit de iarnă pentru a ajunge la această capelă; aerul clar de iarnă oferă priveliști uimitoare asupra văilor înconjurătoare.",
-                "en": "Drive through the quiet winter landscape to reach this serene chapel; the clear winter air provides stunning views over the surrounding valleys."
+                "en": "Drive through the quiet winter landscape to reach this serene chapel; the clear winter air provides stunning views over the surrounding valleys.",
+                "fr": "Traversez le paysage hivernal paisible pour atteindre cette chapelle sereine ; l'air clair d'hiver offre de superbes vues sur les vallées environnantes."
               }
             },
             {
@@ -897,13 +996,15 @@
                 "de": "Monolithe de Corbara",
                 "hu": "Monolithe de Corbara",
                 "ro": "Monolithe de Corbara",
-                "en": "Monolithe de Corbara"
+                "en": "Monolithe de Corbara",
+                "fr": "Monolithe de Corbara"
               },
               "tip_5lang": {
                 "de": "Untersuchen Sie diesen alten Monolithen ohne die üblichen Touristenmassen; die tief stehende Wintersonne bietet am Nachmittag hervorragende Fotomotive.",
                 "hu": "Vizsgálja meg ezt az ősi monolitot a szokásos turistatömegek nélkül; az alacsony téli nap kiváló fotózási lehetőségeket teremt a délután folyamán.",
                 "ro": "Examinați acest monolit antic fără aglomerația obișnuită de turiști; soarele de iarnă scăzut creează oportunități excelente de fotografie după-amiaza.",
-                "en": "Examine this ancient monolith without the usual tourist crowds; the low winter sun creates excellent photography opportunities in the afternoon."
+                "en": "Examine this ancient monolith without the usual tourist crowds; the low winter sun creates excellent photography opportunities in the afternoon.",
+                "fr": "Examinez cet ancien monolithe sans la foule touristique habituelle ; le bas soleil d'hiver crée d'excellentes opportunités photographiques l'après-midi."
               }
             },
             {
@@ -911,13 +1012,15 @@
                 "de": "Rocky outcrop",
                 "hu": "Rocky outcrop",
                 "ro": "Rocky outcrop",
-                "en": "Rocky outcrop"
+                "en": "Rocky outcrop",
+                "fr": "Rocky outcrop"
               },
               "tip_5lang": {
                 "de": "Steigen Sie kurz aus, um die frische Winterbrise an diesem natürlichen Aussichtspunkt zu spüren; ziehen Sie sich warm an, bevor Sie das heiße Auto verlassen.",
                 "hu": "Szálljon ki röviden, hogy érezze a friss téli tengeri szellőt ezen a természetes kilátóponton; győződjön meg róla, hogy melegen felöltözött a meleg autóból kilépve.",
                 "ro": "Coborâți scurt pentru a simți briza mării proaspătă de iarnă la acest punct de belvedere natural; asigurați-vă că sunteți îmbrăcat gros.",
-                "en": "Step out briefly to feel the brisk winter sea breeze at this natural viewpoint; make sure you are bundled up before leaving the warm car."
+                "en": "Step out briefly to feel the brisk winter sea breeze at this natural viewpoint; make sure you are bundled up before leaving the warm car.",
+                "fr": "Sortez brièvement pour sentir la vive brise marine hivernale à ce point de vue naturel ; assurez-vous d'être bien emmitouflé avant de quitter la voiture chaude."
               }
             },
             {
@@ -925,13 +1028,15 @@
                 "de": "Plage de Davia",
                 "hu": "Plage de Davia",
                 "ro": "Plage de Davia",
-                "en": "Plage de Davia"
+                "en": "Plage de Davia",
+                "fr": "Plage de Davia"
               },
               "tip_5lang": {
                 "de": "Parken Sie in Strandnähe, um den spektakulären Sonnenuntergang gegen 17:00 Uhr zu erleben; die verlassene Winterküste bietet einen sehr friedlichen Tagesabschluss.",
                 "hu": "Parkoljon a strand közelében, hogy elcsípje a látványos, 17:00 óra körüli korai naplementét; az elhagyatott téli partvidék mélyen békés napzárást kínál.",
                 "ro": "Parcați lângă plajă pentru a prinde apusul spectaculos devreme, în jur de ora 17:00; linia de coastă pustie de iarnă oferă un sfârșit profund pașnic.",
-                "en": "Park near the beach to catch the spectacular early sunset around 17:00; the deserted winter coastline offers a profoundly peaceful end to the day."
+                "en": "Park near the beach to catch the spectacular early sunset around 17:00; the deserted winter coastline offers a profoundly peaceful end to the day.",
+                "fr": "Garez-vous près de la plage pour assister au spectaculaire coucher de soleil tôt vers 17:00 ; la côte hivernale déserte offre une fin de journée profondément paisible."
               }
             }
           ]

@@ -31,7 +31,8 @@
             "de": "Bewundern Sie die mechanische Show der Riesenpuppe zu jeder vollen Stunde.",
             "hu": "Nézze meg az óriásbáb mechanikus előadását minden egész órakor.",
             "ro": "Admirați spectacolul mecanic al marionetei uriașe la fiecare oră fixă.",
-            "en": "Watch the giant puppet's mechanical show every hour on the hour."
+            "en": "Watch the giant puppet's mechanical show every hour on the hour.",
+            "fr": "Assistez au spectacle mécanique du gigantesque pantin toutes les heures pile."
           }
         },
         {
@@ -49,7 +50,8 @@
             "de": "Zwillingsschwester der Place des Vosges in Paris, ein Barockjuwel.",
             "hu": "A párizsi Place des Vosges ikertestvére, igazi barokk ékszerdoboz.",
             "ro": "Sora geamănă a Pieței Vosges din Paris, o bijuterie barocă.",
-            "en": "Twin sister of the Place des Vosges in Paris, a Baroque gem."
+            "en": "Twin sister of the Place des Vosges in Paris, a Baroque gem.",
+            "fr": "Soeur jumelle de la Place des Vosges à Paris, un joyau baroque."
           }
         },
         {
@@ -67,7 +69,8 @@
             "de": "Entdecken Sie die Geschichte der Region in einem prächtigen Herrenhaus.",
             "hu": "Fedezze fel a régió történelmét egy pompás városi palotában.",
             "ro": "Descoperiți istoria regiunii într-un conac splendid.",
-            "en": "Discover the history of the region in a magnificent townhouse."
+            "en": "Discover the history of the region in a magnificent townhouse.",
+            "fr": "Découvrez l'histoire de la région dans un magnifique hôtel particulier."
           }
         },
         {
@@ -85,7 +88,8 @@
             "de": "Tauchen Sie im ehemaligen Wohnhaus in die Welt des Dichters Arthur Rimbaud ein.",
             "hu": "Merüljön el Arthur Rimbaud költő világában egykori lakóházában.",
             "ro": "Explorați lumea poetului Arthur Rimbaud în fosta sa reședință.",
-            "en": "Immerse yourself in the world of poet Arthur Rimbaud in his former home."
+            "en": "Immerse yourself in the world of poet Arthur Rimbaud in his former home.",
+            "fr": "Plongez dans l'univers du poète Arthur Rimbaud dans sa maison d'antan."
           }
         },
         {
@@ -103,7 +107,8 @@
             "de": "Das Museum befindet sich in einer alten Mühle direkt an der Maas.",
             "hu": "A múzeum egy régi malomban található, közvetlenül a Maas folyó partján.",
             "ro": "Muzeul este situat într-o moară veche, chiar pe malul râului Meuse.",
-            "en": "The museum is housed in an old mill right on the banks of the Meuse."
+            "en": "The museum is housed in an old mill right on the banks of the Meuse.",
+            "fr": "Le musée est installé dans un vieux moulin, juste sur les rives de la Meuse."
           }
         },
         {
@@ -121,7 +126,8 @@
             "de": "Ein idealer Ort für einen entspannten Abendspaziergang mit Blick auf den Fluss.",
             "hu": "Ideális hely egy esti sétához, csodás kilátással a folyóra.",
             "ro": "Un loc ideal pentru o plimbare de seară cu vedere la râu.",
-            "en": "An ideal spot for an evening stroll with views of the river."
+            "en": "An ideal spot for an evening stroll with views of the river.",
+            "fr": "Un lieu idéal pour une promenade du soir avec vue sur le fleuve."
           }
         }
       ],
@@ -129,7 +135,8 @@
         "de": "Beginnen Sie Ihren Tag an der Place Ducale, dem architektonischen Stolz der Stadt. Vormittags tauchen Sie im Musée de l'Ardenne in die lokale Geschichte ein. Der Nachmittag steht ganz im Zeichen von Arthur Rimbaud: Besuchen Sie sein Geburtshaus und das Museum in der alten Mühle. Beenden Sie den Tag entspannt im Parc du Mont Olympe, wo Natur und Geschichte am Ufer der Maas aufeinandertreffen.",
         "hu": "Kezdje a napot a Place Ducale-on, a város építészeti büszkeségénél. Délelőtt merüljön el a helyi történelemben a Musée de l'Ardenne falai között. A délután Arthur Rimbaud jegyében telik: látogassa meg egykori lakóházát és a régi malomban berendezett múzeumot. Zárja a napot pihentető sétával a Mont Olympe parkban, ahol a természet és a történelem találkozik a Maas partján.",
         "ro": "Începeți ziua în Piața Ducale, mândria arhitecturală a orașului. Dimineața, explorați istoria locală la Musée de l'Ardenne. După-amiaza este dedicată lui Arthur Rimbaud: vizitați fosta sa casă și muzeul situat în vechea moară. Încheiați ziua cu o plimbare relaxantă în Parcul Mont Olympe, unde natura și istoria se întâlnesc pe malul râului Meuse.",
-        "en": "Start your day at Place Ducale, the city's architectural pride. In the morning, immerse yourself in local history at the Musée de l'Ardenne. The afternoon is dedicated to Arthur Rimbaud: visit his former home and the museum set in the old mill. End the day with a relaxing stroll in the Parc du Mont Olympe, where nature and history meet on the banks of the Meuse."
+        "en": "Start your day at Place Ducale, the city's architectural pride. In the morning, immerse yourself in local history at the Musée de l'Ardenne. The afternoon is dedicated to Arthur Rimbaud: visit his former home and the museum set in the old mill. End the day with a relaxing stroll in the Parc du Mont Olympe, where nature and history meet on the banks of the Meuse.",
+        "fr": "Commencez votre journée à la Place Ducale, la fierté architecturale de la ville. Le matin, imprégnez-vous de l'histoire locale au Musée de l'Ardenne. L'après-midi est consacré à Arthur Rimbaud : visitez sa maison natale et le musée installé dans le vieux moulin. Terminez la journée par une promenade relaxante dans le Parc du Mont Olympe, où nature et histoire se rencontrent sur les rives de la Meuse."
       },
       "gastro_picks": {
         "de": [
@@ -273,6 +280,12 @@
           "Keep an eye on the puppet performance times near Place Ducale.",
           "Buy a combined ticket for the Rimbaud museums.",
           "Most sights are concentrated around the center of Charleville."
+        ],
+        "fr": [
+          "La ville est plate et parfaite pour l'explorer à pied.",
+          "Surveillez les horaires des spectacles de marionnettes près de la Place Ducale.",
+          "Achetez un billet combiné pour les musées Rimbaud.",
+          "La plupart des sites sont concentrés autour du centre de Charleville."
         ]
       }
     },
@@ -299,7 +312,8 @@
             "de": "Starten Sie Ihre Tour am Herzen der Stadt.",
             "hu": "Kezdje a túrát a város szívében.",
             "ro": "Începeți turul din inima orașului.",
-            "en": "Start your tour in the heart of the city."
+            "en": "Start your tour in the heart of the city.",
+            "fr": "Commencez votre visite au cœur de la ville."
           }
         },
         {
@@ -317,7 +331,8 @@
             "de": "Bewundern Sie die modernen Glasfenster von René Dürrbach.",
             "hu": "Csodálja meg René Dürrbach modern üvegablakait.",
             "ro": "Admirați vitraliile moderne de René Dürrbach.",
-            "en": "Admire the modern stained glass windows by René Dürrbach."
+            "en": "Admire the modern stained glass windows by René Dürrbach.",
+            "fr": "Admirez les vitraux modernes de René Dürrbach."
           }
         },
         {
@@ -335,7 +350,8 @@
             "de": "Erkunden Sie die alten Befestigungsanlagen der Stadt.",
             "hu": "Fedezze fel a város régi erődítményeit.",
             "ro": "Explorați vechile fortificații ale orașului.",
-            "en": "Explore the old fortifications of the city."
+            "en": "Explore the old fortifications of the city.",
+            "fr": "Explorez les anciennes fortifications de la ville."
           }
         },
         {
@@ -353,7 +369,8 @@
             "de": "Ein markantes Gebäude direkt am Radweg entlang der Maas.",
             "hu": "Jellegzetes épület közvetlenül a Maas menti kerékpárút mellett.",
             "ro": "O clădire emblematică situată chiar lângă pista de biciclete de pe Meuse.",
-            "en": "A landmark building right next to the bike path along the Meuse."
+            "en": "A landmark building right next to the bike path along the Meuse.",
+            "fr": "Un bâtiment emblématique juste à côté de la piste cyclable le long de la Meuse."
           }
         },
         {
@@ -371,7 +388,8 @@
             "de": "Perfekt für eine Pause im Grünen während der Tour.",
             "hu": "Tökéletes hely egy zöld pihenőhöz a túra alatt.",
             "ro": "Perfect pentru o pauză în natură în timpul turului.",
-            "en": "Perfect for a green break during the tour."
+            "en": "Perfect for a green break during the tour.",
+            "fr": "Parfait pour une pause verte pendant la visite."
           }
         },
         {
@@ -389,7 +407,8 @@
             "de": "Besuchen Sie das Haus, in dem Rimbaud seine Jugend verbrachte.",
             "hu": "Látogassa meg a házat, ahol Rimbaud az ifjúságát töltötte.",
             "ro": "Vizitați casa unde Rimbaud și-a petrecut tinerețea.",
-            "en": "Visit the house where Rimbaud spent his youth."
+            "en": "Visit the house where Rimbaud spent his youth.",
+            "fr": "Visitez la maison où Rimbaud a passé sa jeunesse."
           }
         },
         {
@@ -407,7 +426,8 @@
             "de": "Beenden Sie die Tour mit dem Blick auf die Riesenpuppe.",
             "hu": "Zárja a túrát az óriásbáb látványával.",
             "ro": "Încheiați turul cu vederea marionetei uriașe.",
-            "en": "End the tour with a view of the giant puppet."
+            "en": "End the tour with a view of the giant puppet.",
+            "fr": "Terminez la visite avec la vue sur le gigantesque pantin."
           }
         }
       ],
@@ -415,7 +435,8 @@
         "de": "Die Radtour verbindet die beiden historischen Stadtteile Charleville und Mézières. Folgen Sie dem Radweg entlang der Maas, um die Basilika und die alten Stadtmauern von Mézières zu besichtigen. Am Nachmittag kehren Sie nach Charleville zurück, um das Erbe Rimbauds und den weitläufigen Mont Olympe Park zu erkunden. Die flache Topographie macht das Radfahren hier besonders angenehm.",
         "hu": "A kerékpáros túra összeköti a két történelmi városrészt, Charleville-t és Mézières-t. Kövesse a Maas menti kerékpárutat a bazilika és a régi városfalak megtekintéséhez. Délután térjen vissza Charleville-be, hogy felfedezze Rimbaud örökségét és a tágas Mont Olympe parkot. A sík terep különösen élvezetessé teszi a biciklizést.",
         "ro": "Turul cu bicicleta conectează cele două cartiere istorice, Charleville și Mézières. Urmați pista de biciclete de-a lungul Meuse pentru a vizita bazilica și vechile ziduri ale orașului Mézières. După-amiaza, reveniți în Charleville pentru a explora moștenirea lui Rimbaud și parcul vast Mont Olympe. Topografia plată face mersul pe bicicletă extrem de plăcut.",
-        "en": "The bike tour connects the two historic districts, Charleville and Mézières. Follow the bike path along the Meuse to visit the basilica and the old city walls of Mézières. In the afternoon, return to Charleville to explore Rimbaud's legacy and the spacious Mont Olympe park. The flat topography makes cycling here particularly enjoyable."
+        "en": "The bike tour connects the two historic districts, Charleville and Mézières. Follow the bike path along the Meuse to visit the basilica and the old city walls of Mézières. In the afternoon, return to Charleville to explore Rimbaud's legacy and the spacious Mont Olympe park. The flat topography makes cycling here particularly enjoyable.",
+        "fr": "Le circuit à vélo relie les deux quartiers historiques, Charleville et Mézières. Suivez la piste cyclable le long de la Meuse pour visiter la basilique et les anciennes murailles de Mézières. L'après-midi, retournez à Charleville pour explorer l'héritage de Rimbaud et le spacieux parc du Mont Olympe. La topographie plate rend le cyclisme ici particulièrement agréable."
       },
       "gastro_picks": {
         "de": [
@@ -523,6 +544,12 @@
           "In Mézières, there are good bike parking spots near the basilica.",
           "Watch out for pedestrians around Place Ducale.",
           "Combine the tour with a trip to nearby Sedan."
+        ],
+        "fr": [
+          "Utilisez la piste cyclable 'Voie Verte' pour une balade en sécurité.",
+          "À Mézières, de bons emplacements de stationnement vélo se trouvent près de la basilique.",
+          "Faites attention aux piétons autour de la Place Ducale.",
+          "Combinez la visite avec un détour à la proche Sedan."
         ]
       }
     },
@@ -549,7 +576,8 @@
             "de": "Parken Sie im Zentrum, um den Cluster zu Fuß zu erkunden.",
             "hu": "Parkoljon a központban, és fedezze fel a környéket gyalog.",
             "ro": "Parcați în centru pentru a explora zona la pas.",
-            "en": "Park in the center to explore the cluster on foot."
+            "en": "Park in the center to explore the cluster on foot.",
+            "fr": "Garez-vous au centre pour explorer le groupe à pied."
           }
         },
         {
@@ -567,7 +595,8 @@
             "de": "Zu Fuß erreichbar vom Place Ducale.",
             "hu": "Gyalogosan elérhető a Place Ducale-tól.",
             "ro": "Accesibil pe jos din Place Ducale.",
-            "en": "Walkable from Place Ducale."
+            "en": "Walkable from Place Ducale.",
+            "fr": "Accessible à pied depuis la Place Ducale."
           }
         },
         {
@@ -585,7 +614,8 @@
             "de": "Cluster Mézières: Parkmöglichkeit in der Nähe der Kirche.",
             "hu": "Mézières klaszter: parkolási lehetőség a templom közelében.",
             "ro": "Cluster Mézières: posibilitate de parcare lângă biserică.",
-            "en": "Mézières cluster: parking available near the church."
+            "en": "Mézières cluster: parking available near the church.",
+            "fr": "Ensemble Mézières : stationnement disponible près de l'église."
           }
         },
         {
@@ -603,7 +633,8 @@
             "de": "Cluster Rimbaud: Parkplatz am Quai Rimbaud nutzen.",
             "hu": "Rimbaud klaszter: használja a Quai Rimbaud parkolót.",
             "ro": "Cluster Rimbaud: folosiți parcarea de pe Quai Rimbaud.",
-            "en": "Rimbaud cluster: use the Quai Rimbaud parking lot."
+            "en": "Rimbaud cluster: use the Quai Rimbaud parking lot.",
+            "fr": "Ensemble Rimbaud : utilisez le parking du Quai Rimbaud."
           }
         },
         {
@@ -621,7 +652,8 @@
             "de": "Zu Fuß vom Vieux Moulin erreichbar.",
             "hu": "Gyalogosan elérhető a Vieux Moulin-tól.",
             "ro": "Accesibil pe jos de la Vieux Moulin.",
-            "en": "Walkable from Vieux Moulin."
+            "en": "Walkable from Vieux Moulin.",
+            "fr": "Accessible à pied depuis le Vieux Moulin."
           }
         },
         {
@@ -639,7 +671,8 @@
             "de": "Zu Fuß über die Brücke vom Rimbaud-Museum.",
             "hu": "Gyalogosan a hídon át a Rimbaud-múzeumtól.",
             "ro": "Pe jos peste pod de la muzeul Rimbaud.",
-            "en": "Walk over the bridge from the Rimbaud museum."
+            "en": "Walk over the bridge from the Rimbaud museum.",
+            "fr": "Traversez le pont depuis le musée Rimbaud."
           }
         }
       ],
@@ -647,7 +680,8 @@
         "de": "Das Auto dient als Verbindung zwischen den drei Hauptclustern der Stadt: dem barocken Charleville, dem befestigten Mézières und dem Rimbaud-Bezirk am Fluss. Parken Sie in jedem Bereich einmal und erkunden Sie die Sehenswürdigkeiten zu Fuß. So sparen Sie Zeit und erleben die Stadt dennoch intensiv. Ein kurzer Abstecher zum Mont Olympe rundet den Tag ab.",
         "hu": "Az autó összeköti a város három fő klaszterét: a barokk Charleville-t, az erődített Mézières-t és a folyó menti Rimbaud-negyedet. Minden területen egyszer parkoljon le, és gyalogosan fedezze fel a látnivalókat. Így időt takarít meg, mégis alaposan megismeri a várost. A napot egy rövid látogatás zárja a Mont Olympe-nál.",
         "ro": "Mașina servește drept conexiune între cele trei clustere principale ale orașului: Charleville baroc, Mézières fortificat și districtul Rimbaud de lângă râu. Parcați o singură dată în fiecare zonă și explorați obiectivele la pas. Astfel economisiți timp și experimentați orașul intens. O scurtă vizită la Mont Olympe completează ziua.",
-        "en": "The car serves as a link between the city's three main clusters: Baroque Charleville, fortified Mézières, and the Rimbaud district by the river. Park once in each area and explore the sights on foot. This saves time while still allowing for an intensive experience. A short visit to Mont Olympe rounds off the day."
+        "en": "The car serves as a link between the city's three main clusters: Baroque Charleville, fortified Mézières, and the Rimbaud district by the river. Park once in each area and explore the sights on foot. This saves time while still allowing for an intensive experience. A short visit to Mont Olympe rounds off the day.",
+        "fr": "La voiture sert de lien entre les trois principaux pôles de la ville : le Charleville baroque, la Mézières fortifiée et le quartier Rimbaud au bord de la rivière. Garez-vous une fois dans chaque secteur et explorez les sites à pied. Cela fait gagner du temps tout en permettant une expérience intensive. Une visite rapide au Mont Olympe complète la journée."
       },
       "gastro_picks": {
         "de": [
@@ -755,6 +789,12 @@
           "Traffic is often heavy between Charleville and Mézières.",
           "Parking at Quai Rimbaud is often easier than in the center.",
           "Visit the nearby Castle of Sedan (15 min drive)."
+        ],
+        "fr": [
+          "Utilisez les parkings couverts autour de la Place Ducale.",
+          "La circulation est souvent dense entre Charleville et Mézières.",
+          "Le stationnement au Quai Rimbaud est souvent plus facile qu'au centre.",
+          "Visitez le proche Château de Sedan (15 min en voiture)."
         ]
       }
     },
@@ -781,7 +821,8 @@
             "de": "Zentraler Knotenpunkt des Stadtbusnetzes.",
             "hu": "A városi buszhálózat központi csomópontja.",
             "ro": "Nodul central al rețelei de autobuze urbane.",
-            "en": "Central hub of the city bus network."
+            "en": "Central hub of the city bus network.",
+            "fr": "Nœud central du réseau de bus urbain."
           }
         },
         {
@@ -799,7 +840,8 @@
             "de": "Vom Place Ducale bequem zu Fuß erreichbar.",
             "hu": "A Place Ducale-tól könnyen elérhető gyalog.",
             "ro": "Accesibil ușor pe jos din Place Ducale.",
-            "en": "Easily reachable on foot from Place Ducale."
+            "en": "Easily reachable on foot from Place Ducale.",
+            "fr": "Facilement accessible à pied depuis la Place Ducale."
           }
         },
         {
@@ -817,7 +859,8 @@
             "de": "Nehmen Sie den Bus (Linie 1 oder 3) Richtung Mézières.",
             "hu": "Szálljon buszra (1-es vagy 3-as vonal) Mézières felé.",
             "ro": "Luați autobuzul (linia 1 sau 3) spre Mézières.",
-            "en": "Take the bus (line 1 or 3) towards Mézières."
+            "en": "Take the bus (line 1 or 3) towards Mézières.",
+            "fr": "Prenez le bus (ligne 1 ou 3) en direction de Mézières."
           }
         },
         {
@@ -835,7 +878,8 @@
             "de": "Rückfahrt mit dem Bus ins Viertel Charleville.",
             "hu": "Visszautazás busszal Charleville negyedbe.",
             "ro": "Revenire cu autobuzul în cartierul Charleville.",
-            "en": "Return by bus to the Charleville district."
+            "en": "Return by bus to the Charleville district.",
+            "fr": "Retournez en bus vers le quartier de Charleville."
           }
         },
         {
@@ -853,7 +897,8 @@
             "de": "Kurzer Fußweg vom Vieux Moulin.",
             "hu": "Rövid séta a Vieux Moulin-tól.",
             "ro": "Scurtă plimbare de la Vieux Moulin.",
-            "en": "Short walk from Vieux Moulin."
+            "en": "Short walk from Vieux Moulin.",
+            "fr": "Courte promenade depuis le Vieux Moulin."
           }
         },
         {
@@ -871,7 +916,8 @@
             "de": "Entspannung im Park vor der Rückfahrt zum Hotel.",
             "hu": "Pihenés a parkban a szállodába való visszatérés előtt.",
             "ro": "Relaxare în parc înainte de întoarcerea la hotel.",
-            "en": "Relax in the park before returning to the hotel."
+            "en": "Relax in the park before returning to the hotel.",
+            "fr": "Détendez-vous dans le parc avant de retourner à l'hôtel."
           }
         }
       ],
@@ -879,7 +925,8 @@
         "de": "Nutzen Sie das effiziente Busnetz (TAC), um zwischen den Stadtteilen Charleville und Mézières zu pendeln. Die Linien 1 und 3 sind die Hauptachsen und verbinden die wichtigsten Sehenswürdigkeiten. Innerhalb der Stadtteile erkunden Sie alles bequem zu Fuß. So erleben Sie die Stadt wie ein Einheimischer und müssen sich keine Sorgen um das Parken machen.",
         "hu": "Használja a hatékony buszhálózatot (TAC) a Charleville és Mézières városrészek közötti közlekedéshez. Az 1-es és 3-as vonalak a fő tengelyek, amelyek összekötik a legfontosabb látnivalókat. A városrészeken belül gyalogosan fedezzen fel mindent. Így úgy élheti át a várost, mint egy helyi, és a parkolás miatt sem kell aggódnia.",
         "ro": "Utilizați rețeaua eficientă de autobuze (TAC) pentru a naviga între cartierele Charleville și Mézières. Liniile 1 și 3 sunt axele principale și conectează cele mai importante obiective. În cadrul cartierelor, explorați totul la pas. Astfel veți experimenta orașul ca un localnic și nu va trebui să vă faceți griji pentru parcare.",
-        "en": "Use the efficient bus network (TAC) to commute between the Charleville and Mézières districts. Lines 1 and 3 are the main axes connecting the most important sights. Within the districts, explore everything on foot. This way, you'll experience the city like a local and won't have to worry about parking."
+        "en": "Use the efficient bus network (TAC) to commute between the Charleville and Mézières districts. Lines 1 and 3 are the main axes connecting the most important sights. Within the districts, explore everything on foot. This way, you'll experience the city like a local and won't have to worry about parking.",
+        "fr": "Utilisez le réseau de bus efficace (TAC) pour vos déplacements entre les quartiers de Charleville et Mézières. Les lignes 1 et 3 sont les axes principaux reliant les sites les plus importants. À l'intérieur des quartiers, explorez tout à pied. Ainsi, vous vivrez la ville comme un local et n'aurez pas à vous soucier du stationnement."
       },
       "gastro_picks": {
         "de": [
@@ -987,6 +1034,12 @@
           "Buses run very regularly during the day.",
           "The 'Nevers' stop is ideal for Place Ducale.",
           "Check for reduced schedules on Sundays."
+        ],
+        "fr": [
+          "Achetez un billet journalier directement auprès du conducteur ou via l'application.",
+          "Les bus circulent très régulièrement pendant la journée.",
+          "L'arrêt 'Nevers' est idéal pour la Place Ducale.",
+          "Vérifiez les horaires réduits le dimanche."
         ]
       }
     }

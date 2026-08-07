@@ -21,7 +21,8 @@
             "de": "Halle de Caylus",
             "hu": "Caylus vásárcsarnoka",
             "ro": "Hala din Caylus",
-            "en": "Halle de Caylus"
+            "en": "Halle de Caylus",
+            "fr": "Halle de Caylus"
           },
           "coords": [
             44.234,
@@ -36,7 +37,8 @@
             "de": "Bewundern Sie das mittelalterliche Gebälk.",
             "hu": "Nézze meg a középkori tetőszerkezetet.",
             "ro": "Admirați structura medievală din lemn.",
-            "en": "Admire the medieval timber roof structure."
+            "en": "Admire the medieval timber roof structure.",
+            "fr": "Admirez la structure médiévale à poteaux et poutres."
           }
         },
         {
@@ -44,7 +46,8 @@
             "de": "Rue Droite",
             "hu": "Rue Droite (Főutca)",
             "ro": "Rue Droite",
-            "en": "Rue Droite"
+            "en": "Rue Droite",
+            "fr": "Rue Droite"
           },
           "coords": [
             44.235,
@@ -59,7 +62,8 @@
             "de": "Die steilste und schönste Gasse.",
             "hu": "A falu legszebb és legmeredekebb utcája.",
             "ro": "Cea mai frumoasă și abruptă stradă.",
-            "en": "The steepest and most beautiful lane."
+            "en": "The steepest and most beautiful lane.",
+            "fr": "La rue la plus raide et la plus belle."
           }
         },
         {
@@ -67,7 +71,8 @@
             "de": "Maison du Loup",
             "hu": "Farkas-ház",
             "ro": "Casa Lupului",
-            "en": "Wolf House"
+            "en": "Wolf House",
+            "fr": "Maison du Loup"
           },
           "coords": [
             44.236,
@@ -82,7 +87,8 @@
             "de": "Achten Sie auf die Wolfsskulpturen.",
             "hu": "Keresse a farkasokat ábrázoló szobrokat.",
             "ro": "Căutați sculpturile cu lupi de pe fațadă.",
-            "en": "Look for the wolf sculptures on the facade."
+            "en": "Look for the wolf sculptures on the facade.",
+            "fr": "Cherchez les sculptures de loups sur la façade."
           }
         },
         {
@@ -90,7 +96,8 @@
             "de": "Kirche Saint-Jean-Baptiste",
             "hu": "Keresztelő Szent János-templom",
             "ro": "Biserica Sfântul Ioan Botezătorul",
-            "en": "Church of Saint-Jean-Baptiste"
+            "en": "Church of Saint-Jean-Baptiste",
+            "fr": "Église Saint-Jean-Baptiste"
           },
           "coords": [
             44.235,
@@ -105,7 +112,8 @@
             "de": "Das hölzerne Kruzifix ist weltberühmt.",
             "hu": "A fából készült feszület világhírű műalkotás.",
             "ro": "Crucifixul din lemn este o operă celebră.",
-            "en": "The wooden crucifix is a world-famous artwork."
+            "en": "The wooden crucifix is a world-famous artwork.",
+            "fr": "Le crucifix en bois est une œuvre mondialement célèbre."
           }
         },
         {
@@ -113,7 +121,8 @@
             "de": "Porte de Ville",
             "hu": "Városkapu",
             "ro": "Poarta Orașului",
-            "en": "City Gate"
+            "en": "City Gate",
+            "fr": "Porte de la ville"
           },
           "coords": [
             44.233,
@@ -128,7 +137,8 @@
             "de": "Ein Überrest der alten Stadtmauer.",
             "hu": "A régi városfal megmaradt emléke.",
             "ro": "O relicvă a vechiului zid de apărare.",
-            "en": "A remnant of the old defensive walls."
+            "en": "A remnant of the old defensive walls.",
+            "fr": "Un vestige des anciennes murailles défensives."
           }
         },
         {
@@ -136,7 +146,8 @@
             "de": "Pavillon Gaillard",
             "hu": "Gaillard Pavilon",
             "ro": "Pavilionul Gaillard",
-            "en": "Pavillon Gaillard"
+            "en": "Pavillon Gaillard",
+            "fr": "Pavillon Gaillard"
           },
           "coords": [
             44.234,
@@ -151,7 +162,8 @@
             "de": "Prächtiges Renaissance-Gebäude.",
             "hu": "Pompás reneszánsz épület a központban.",
             "ro": "Clădire renascentistă splendidă în centru.",
-            "en": "Splendid Renaissance building in the center."
+            "en": "Splendid Renaissance building in the center.",
+            "fr": "Splendide bâtiment Renaissance au centre."
           }
         },
         {
@@ -159,7 +171,8 @@
             "de": "Burgruine Caylus",
             "hu": "Caylus várrom",
             "ro": "Ruinele Castelului Caylus",
-            "en": "Caylus Castle Ruins"
+            "en": "Caylus Castle Ruins",
+            "fr": "Ruines du château de Caylus"
           },
           "coords": [
             44.238,
@@ -174,7 +187,8 @@
             "de": "Bester Panoramablick auf das Tal.",
             "hu": "A legjobb panoráma a völgyre.",
             "ro": "Cea mai bună panoramă asupra văii.",
-            "en": "Best panoramic view of the valley."
+            "en": "Best panoramic view of the valley.",
+            "fr": "Meilleur point panoramique sur la vallée."
           }
         },
         {
@@ -182,7 +196,8 @@
             "de": "Cascades de Pétrifiantes",
             "hu": "Mésztufa vízesés",
             "ro": "Cascadele Petrefiante",
-            "en": "Petrifying Waterfalls"
+            "en": "Petrifying Waterfalls",
+            "fr": "Chutes pétrifiantes"
           },
           "coords": [
             44.225,
@@ -197,7 +212,8 @@
             "de": "Wunderschöner Naturpfad am Wasser.",
             "hu": "Gyönyörű tanösvény a víz mentén.",
             "ro": "Traseu natural superb lângă apă.",
-            "en": "Beautiful nature trail along the water."
+            "en": "Beautiful nature trail along the water.",
+            "fr": "Beau sentier naturel le long de l’eau."
           }
         }
       ],
@@ -205,7 +221,8 @@
         "de": "Ihr Tag beginnt im Herzen von Caylus unter der majestätischen Markthalle aus dem 15. Jahrhundert. Wir schlendern durch die Rue Droite, vorbei am geheimnisvollen Wolfshaus bis zur gotischen Kirche. Nach einer Entdeckungstour durch die Renaissance-Architektur steigen wir zur alten Burgruine auf, bevor wir den Tag an den faszinierenden kalkverkrusteten Wasserfällen in der Natur ausklingen lassen.",
         "hu": "A napot Caylus szívében, a 15. századi vásárcsarnok alatt kezdjük. Végigsétálunk a Rue Droite meredek utcáján, megcsodáljuk a Farkas-házat és a gótikus templomot. A reneszánsz paloták felfedezése után felkapaszkodunk a várromokhoz, ahonnan belátni az egész környéket. Végül a közeli különleges mésztufa-vízeséseknél pihenünk meg a természet lágy ölén.",
         "ro": "Ziua începe în inima localității Caylus, sub hala maiestuoasă din secolul XV. Ne plimbăm pe strada Rue Droite, trecând pe lângă misterioasa Casă a Lupului până la biserica gotică. După explorarea arhitecturii renascentiste, urcăm la ruinele vechiului castel, înainte de a încheia ziua la fascinantele cascade petrefiante, un spectacol natural unic în regiune.",
-        "en": "Your day starts in the heart of Caylus under the majestic 15th-century market hall. We stroll through Rue Droite, passing the mysterious Wolf House to the Gothic church. After exploring Renaissance architecture, we climb to the old castle ruins for panoramic views. We conclude the day at the fascinating petrifying waterfalls, a unique natural site just outside the village."
+        "en": "Your day starts in the heart of Caylus under the majestic 15th-century market hall. We stroll through Rue Droite, passing the mysterious Wolf House to the Gothic church. After exploring Renaissance architecture, we climb to the old castle ruins for panoramic views. We conclude the day at the fascinating petrifying waterfalls, a unique natural site just outside the village.",
+        "fr": "Votre journée commence au cœur de Caylus sous la majestueuse halle du XVe siècle. On se promène dans la Rue Droite, en passant devant la mystérieuse Maison du Loup jusqu’à l’église gothique. Après avoir exploré l’architecture Renaissance, on monte aux anciennes ruines du château pour les vues panoramiques. La journée se conclut aux fascinantes chutes pétrifiantes, un site naturel unique juste à l’extérieur du village."
       },
       "gastro_picks": {
         "de": [
@@ -349,6 +366,12 @@
           "Visit on a Tuesday to experience the full local market atmosphere.",
           "The waterfalls are most spectacular after rainfall.",
           "Park at the edge of the village to explore the core on foot."
+        ],
+        "fr": [
+          "Portez des chaussures confortables car la Rue Droite est très raide.",
+          "Visitez un mardi pour profiter pleinement de l’ambiance du marché local.",
+          "Les chutes sont les plus spectaculaires après la pluie.",
+          "Garez-vous en lisière du village pour explorer le centre à pied."
         ]
       }
     },
@@ -365,7 +388,8 @@
             "de": "Halle de Caylus",
             "hu": "Caylus vásárcsarnoka",
             "ro": "Hala din Caylus",
-            "en": "Halle de Caylus"
+            "en": "Halle de Caylus",
+            "fr": "Halle de Caylus"
           },
           "coords": [
             44.234,
@@ -380,7 +404,8 @@
             "de": "Fahrräder müssen in der Halle geschoben werden.",
             "hu": "A csarnok területén tolni kell a kerékpárt.",
             "ro": "Bicicletele trebuie împinse în zona halei.",
-            "en": "Bikes must be pushed within the hall area."
+            "en": "Bikes must be pushed within the hall area.",
+            "fr": "Les vélos doivent être poussés dans l’enceinte de la halle."
           }
         },
         {
@@ -388,7 +413,8 @@
             "de": "Maison du Loup",
             "hu": "Farkas-ház",
             "ro": "Casa Lupului",
-            "en": "Wolf House"
+            "en": "Wolf House",
+            "fr": "Maison du Loup"
           },
           "coords": [
             44.236,
@@ -403,7 +429,8 @@
             "de": "Ein Juwel der gotischen Zivilarchitektur.",
             "hu": "A gótikus polgári építészet egyik gyöngyszeme.",
             "ro": "O bijuterie a arhitecturii civile gotice.",
-            "en": "A jewel of Gothic civil architecture."
+            "en": "A jewel of Gothic civil architecture.",
+            "fr": "Un joyau de l’architecture civile gothique."
           }
         },
         {
@@ -411,7 +438,8 @@
             "de": "Kirche Saint-Jean-Baptiste",
             "hu": "Keresztelő Szent János-templom",
             "ro": "Biserica Sfântul Ioan Botezătorul",
-            "en": "Church of Saint-Jean-Baptiste"
+            "en": "Church of Saint-Jean-Baptiste",
+            "fr": "Église Saint-Jean-Baptiste"
           },
           "coords": [
             44.235,
@@ -426,7 +454,8 @@
             "de": "Besuchen Sie den beeindruckenden Innenraum.",
             "hu": "Látogasson el a lenyűgöző belső térbe.",
             "ro": "Vizitați interiorul impresionant.",
-            "en": "Visit the impressive interior."
+            "en": "Visit the impressive interior.",
+            "fr": "Visitez l’intérieur impressionnant."
           }
         },
         {
@@ -434,7 +463,8 @@
             "de": "Burgruine Caylus",
             "hu": "Caylus várrom",
             "ro": "Ruinele Castelului Caylus",
-            "en": "Caylus Castle Ruins"
+            "en": "Caylus Castle Ruins",
+            "fr": "Ruines du château de Caylus"
           },
           "coords": [
             44.238,
@@ -449,7 +479,8 @@
             "de": "Steiler Anstieg, aber die Aussicht lohnt sich.",
             "hu": "Meredek emelkedő, de a kilátás megéri.",
             "ro": "Urcare abruptă, dar vederea merită efortul.",
-            "en": "Steep climb, but the view is worth it."
+            "en": "Steep climb, but the view is worth it.",
+            "fr": "Montée raide, mais la vue en vaut la peine."
           }
         },
         {
@@ -457,7 +488,8 @@
             "de": "Lunch / Gastro stop",
             "hu": "Ebéd / Gasztro megálló",
             "ro": "Prânz / Oprire gastro",
-            "en": "Lunch / Gastro stop"
+            "en": "Lunch / Gastro stop",
+            "fr": "Déjeuner / Pause gastronomique"
           },
           "coords": [
             44.234,
@@ -472,7 +504,8 @@
             "de": "Spezialitäten aus dem Quercy probieren.",
             "hu": "Kóstolja meg a Quercy vidék specialitásait.",
             "ro": "Gustați specialitățile din regiunea Quercy.",
-            "en": "Taste specialties from the Quercy region."
+            "en": "Taste specialties from the Quercy region.",
+            "fr": "Goûtez les spécialités du Quercy."
           }
         },
         {
@@ -480,7 +513,8 @@
             "de": "Cascades de Pétrifiantes",
             "hu": "Mésztufa vízesés",
             "ro": "Cascadele Petrefiante",
-            "en": "Petrifying Waterfalls"
+            "en": "Petrifying Waterfalls",
+            "fr": "Chutes pétrifiantes"
           },
           "coords": [
             44.225,
@@ -495,7 +529,8 @@
             "de": "Eine erfrischende Pause in der Natur.",
             "hu": "Frissítő pihenő a természetben.",
             "ro": "O pauză revigorantă în natură.",
-            "en": "A refreshing break in nature."
+            "en": "A refreshing break in nature.",
+            "fr": "Une pause rafraîchissante en pleine nature."
           }
         },
         {
@@ -503,7 +538,8 @@
             "de": "Lac de Labarthe",
             "hu": "Labarthe-tó",
             "ro": "Lacul Labarthe",
-            "en": "Lake Labarthe"
+            "en": "Lake Labarthe",
+            "fr": "Lac de Labarthe"
           },
           "coords": [
             44.22,
@@ -518,7 +554,8 @@
             "de": "Ideal zum Entspannen am Wasser.",
             "hu": "Ideális hely a vízparti pihenéshez.",
             "ro": "Ideal pentru relaxare pe malul apei.",
-            "en": "Ideal for relaxing by the water."
+            "en": "Ideal for relaxing by the water.",
+            "fr": "Idéal pour se détendre au bord de l’eau."
           }
         }
       ],
@@ -526,7 +563,8 @@
         "de": "Entdecken Sie Caylus und seine Umgebung mit dem Fahrrad. Wir beginnen im mittelalterlichen Zentrum, erklimmen den Burgberg für eine fantastische Aussicht und radeln dann durch das grüne Bonnette-Tal zu den einzigartigen Wasserfällen. Zum Abschluss führt uns der Weg zum idyllischen Labarthe-See, bevor wir zurück ins Dorf kehren.",
         "hu": "Fedezze fel Caylust és környékét kerékpárral. A középkori központból indulunk, feltekerünk a várhegyre a panorámáért, majd a zöldellő Bonnette-völgyön át a különleges vízesésekhez gurulunk. A túra végén az idilli Labarthe-tó partján fújhatjuk ki magunkat, mielőtt visszatérnénk a faluba.",
         "ro": "Descoperiți localitatea Caylus și împrejurimile sale pe bicicletă. Începem în centrul medieval, urcăm dealul castelului pentru o priveliște fantastică, apoi pedalăm prin valea verde a râului Bonnette către cascadele unice. La final, traseul ne duce la idilicul lac Labarthe, înainte de a ne întoarce în sat.",
-        "en": "Explore Caylus and its surroundings by bike. We start in the medieval center, climb the castle hill for fantastic views, and then cycle through the green Bonnette valley to the unique waterfalls. To wrap up, the path leads us to the idyllic Lake Labarthe before returning to the village."
+        "en": "Explore Caylus and its surroundings by bike. We start in the medieval center, climb the castle hill for fantastic views, and then cycle through the green Bonnette valley to the unique waterfalls. To wrap up, the path leads us to the idyllic Lake Labarthe before returning to the village.",
+        "fr": "Explorez Caylus et ses alentours à vélo. Nous commençons dans le centre médiéval, montons sur la colline du château pour des vues fantastiques, puis pédalons à travers la verte vallée de la Bonnette jusqu’aux chutes uniques. Pour finir, le chemin nous mène à l’idyllique lac de Labarthe avant de revenir au village."
       },
       "gastro_picks": {
         "de": [
@@ -630,6 +668,11 @@
           "The village streets are narrow, cycle carefully.",
           "A mountain bike or e-bike is recommended for the hills.",
           "Take enough water for the ride to the lake."
+        ],
+        "fr": [
+          "Les rues du village sont étroites, circulez prudemment à vélo.",
+          "Un VTT ou un vélo à assistance électrique est recommandé pour les côtes.",
+          "Emportez suffisamment d’eau pour la balade jusqu’au lac."
         ]
       }
     },
@@ -646,7 +689,8 @@
             "de": "Halle de Caylus (Cluster Altstadt)",
             "hu": "Caylus vásárcsarnoka (Óváros klaszter)",
             "ro": "Hala din Caylus (Cluster Centru Vechi)",
-            "en": "Halle de Caylus (Old Town Cluster)"
+            "en": "Halle de Caylus (Old Town Cluster)",
+            "fr": "Halle de Caylus (Ensemble centre ancien)"
           },
           "coords": [
             44.234,
@@ -661,7 +705,8 @@
             "de": "Parken Sie am Place de la Halle.",
             "hu": "Parkoljon a Place de la Halle téren.",
             "ro": "Parcați în Place de la Halle.",
-            "en": "Park at Place de la Halle."
+            "en": "Park at Place de la Halle.",
+            "fr": "Garez-vous place de la Halle."
           }
         },
         {
@@ -669,7 +714,8 @@
             "de": "Maison du Loup",
             "hu": "Farkas-ház",
             "ro": "Casa Lupului",
-            "en": "Wolf House"
+            "en": "Wolf House",
+            "fr": "Maison du Loup"
           },
           "coords": [
             44.236,
@@ -685,7 +731,8 @@
             "de": "Ein kurzer Spaziergang vom Parkplatz.",
             "hu": "Rövid séta a parkolótól.",
             "ro": "O scurtă plimbare de la parcare.",
-            "en": "A short walk from the parking area."
+            "en": "A short walk from the parking area.",
+            "fr": "À quelques minutes à pied du parking."
           }
         },
         {
@@ -693,7 +740,8 @@
             "de": "Kirche Saint-Jean-Baptiste",
             "hu": "Keresztelő Szent János-templom",
             "ro": "Biserica Sfântul Ioan Botezătorul",
-            "en": "Church of Saint-Jean-Baptiste"
+            "en": "Church of Saint-Jean-Baptiste",
+            "fr": "Église Saint-Jean-Baptiste"
           },
           "coords": [
             44.235,
@@ -709,7 +757,8 @@
             "de": "Bewundern Sie die Glasmalereien.",
             "hu": "Csodálja meg az üvegablakokat.",
             "ro": "Admirați vitraliile.",
-            "en": "Admire the stained glass windows."
+            "en": "Admire the stained glass windows.",
+            "fr": "Admirez les vitraux."
           }
         },
         {
@@ -717,7 +766,8 @@
             "de": "Mittagessen in Caylus",
             "hu": "Ebéd Caylusban",
             "ro": "Prânz în Caylus",
-            "en": "Lunch in Caylus"
+            "en": "Lunch in Caylus",
+            "fr": "Déjeuner à Caylus"
           },
           "coords": [
             44.234,
@@ -733,7 +783,8 @@
             "de": "Genießen Sie lokale Entengerichte.",
             "hu": "Kóstolja meg a helyi kacsafogásokat.",
             "ro": "Savurați preparate locale din rață.",
-            "en": "Enjoy local duck dishes."
+            "en": "Enjoy local duck dishes.",
+            "fr": "Dégustez des plats locaux au canard."
           }
         },
         {
@@ -741,7 +792,8 @@
             "de": "Burgruine Caylus (Cluster Panorama)",
             "hu": "Caylus várrom (Panoráma klaszter)",
             "ro": "Ruinele Castelului Caylus (Cluster Panoramă)",
-            "en": "Caylus Castle Ruins (Panorama Cluster)"
+            "en": "Caylus Castle Ruins (Panorama Cluster)",
+            "fr": "Ruines du château de Caylus (Ensemble panorama)"
           },
           "coords": [
             44.238,
@@ -757,7 +809,8 @@
             "de": "Fahren Sie bis zum oberen Aussichtspunkt.",
             "hu": "Hajtson fel egészen a felső kilátópontig.",
             "ro": "Conduceți până la punctul de belvedere superior.",
-            "en": "Drive up to the upper viewpoint."
+            "en": "Drive up to the upper viewpoint.",
+            "fr": "Montez en voiture jusqu’au point de vue supérieur."
           }
         },
         {
@@ -765,7 +818,8 @@
             "de": "Cascades de Pétrifiantes (Cluster Natur)",
             "hu": "Mésztufa vízesés (Természet klaszter)",
             "ro": "Cascadele Petrefiante (Cluster Natură)",
-            "en": "Petrifying Waterfalls (Nature Cluster)"
+            "en": "Petrifying Waterfalls (Nature Cluster)",
+            "fr": "Chutes pétrifiantes (Ensemble nature)"
           },
           "coords": [
             44.225,
@@ -781,7 +835,8 @@
             "de": "Großer Parkplatz in der Nähe des Pfades.",
             "hu": "Tágas parkoló a tanösvény közelében.",
             "ro": "Parcare spațioasă lângă traseu.",
-            "en": "Ample parking near the trail."
+            "en": "Ample parking near the trail.",
+            "fr": "Grand parking près du sentier."
           }
         },
         {
@@ -789,7 +844,8 @@
             "de": "Saint-Antonin-Noble-Val (Ausflug)",
             "hu": "Saint-Antonin-Noble-Val (Kirándulás)",
             "ro": "Saint-Antonin-Noble-Val (Excursie)",
-            "en": "Saint-Antonin-Noble-Val (Excursion)"
+            "en": "Saint-Antonin-Noble-Val (Excursion)",
+            "fr": "Saint-Antonin-Noble-Val (Excursion)"
           },
           "coords": [
             44.152,
@@ -805,7 +861,8 @@
             "de": "Eines der schönsten Dörfer Frankreichs.",
             "hu": "Franciaország egyik legszebb faluja.",
             "ro": "Unul dintre cele mai frumoase sate din Franța.",
-            "en": "One of the most beautiful villages in France."
+            "en": "One of the most beautiful villages in France.",
+            "fr": "Un des plus beaux villages de France."
           }
         }
       ],
@@ -813,7 +870,8 @@
         "de": "Diese Autotour kombiniert das mittelalterliche Caylus mit den Naturwundern der Umgebung. Wir erkunden erst den historischen Kern zu Fuß, fahren dann hinauf zur Burgruine für das perfekte Panorama und besuchen die spektakulären Wasserfälle. Den Abschluss bildet ein kurzer Abstecher in das nahegelegene, berühmte Dorf Saint-Antonin-Noble-Val.",
         "hu": "Ez az autós túra Caylus középkori hangulatát ötvözi a környék természeti csodáival. Először az óvárost fedezzük fel gyalogosan, majd felautózunk a várromhoz a tökéletes panorámáért, és meglátogatjuk a különleges vízeséseket. A napot a közeli, híres Saint-Antonin-Noble-Val falujában tett rövid látogatással zárjuk.",
         "ro": "Acest tur auto combină atmosfera medievală din Caylus cu minunile naturale din zonă. Explorăm mai întâi centrul istoric la pas, apoi conducem până la ruinele castelului pentru o panoramă perfectă și vizităm cascadele spectaculoase. Încheiem cu o scurtă incursiune în celebrul sat vecin Saint-Antonin-Noble-Val.",
-        "en": "This car tour combines medieval Caylus with the natural wonders of the surrounding area. We first explore the historic core on foot, then drive up to the castle ruins for a perfect panorama and visit the spectacular waterfalls. We conclude with a short trip to the nearby famous village of Saint-Antonin-Noble-Val."
+        "en": "This car tour combines medieval Caylus with the natural wonders of the surrounding area. We first explore the historic core on foot, then drive up to the castle ruins for a perfect panorama and visit the spectacular waterfalls. We conclude with a short trip to the nearby famous village of Saint-Antonin-Noble-Val.",
+        "fr": "Cette boucle en voiture combine le Caylus médiéval avec les merveilles naturelles des environs. Nous explorons d’abord le cœur historique à pied, puis montons en voiture jusqu’aux ruines du château pour un panorama parfait et visitons les spectaculaires chutes. On conclut par un court trajet vers le célèbre village voisin de Saint-Antonin-Noble-Val."
       },
       "gastro_picks": {
         "de": [
@@ -917,6 +975,11 @@
           "Use the parking lots at the village entrance.",
           "The road to the castle is narrow, drive slowly.",
           "Plan extra time for Saint-Antonin-Noble-Val."
+        ],
+        "fr": [
+          "Utilisez les parkings à l’entrée du village.",
+          "La route vers le château est étroite, conduisez lentement.",
+          "Prévoyez du temps supplémentaire pour Saint-Antonin-Noble-Val."
         ]
       }
     },
@@ -933,7 +996,8 @@
             "de": "Bushaltestelle Caylus (Cluster Zentrum)",
             "hu": "Caylus buszmegálló (Központ klaszter)",
             "ro": "Stația de autobuz Caylus (Cluster Centru)",
-            "en": "Caylus Bus Stop (Center Cluster)"
+            "en": "Caylus Bus Stop (Center Cluster)",
+            "fr": "Arrêt de bus de Caylus (Ensemble centre)"
           },
           "coords": [
             44.233,
@@ -948,7 +1012,8 @@
             "de": "Zentraler Ankunftspunkt für Busse aus Caussade.",
             "hu": "A Caussade-ból érkező buszok központi megállója.",
             "ro": "Punctul central de sosire pentru autobuzele din Caussade.",
-            "en": "Central arrival point for buses from Caussade."
+            "en": "Central arrival point for buses from Caussade.",
+            "fr": "Point d’arrivée central pour les bus depuis Caussade."
           }
         },
         {
@@ -956,7 +1021,8 @@
             "de": "Halle de Caylus",
             "hu": "Caylus vásárcsarnoka",
             "ro": "Hala din Caylus",
-            "en": "Halle de Caylus"
+            "en": "Halle de Caylus",
+            "fr": "Halle de Caylus"
           },
           "coords": [
             44.234,
@@ -972,7 +1038,8 @@
             "de": "Das Herzstück des Dorfes.",
             "hu": "A falu lüktető szíve.",
             "ro": "Inima satului.",
-            "en": "The heart of the village."
+            "en": "The heart of the village.",
+            "fr": "Le cœur du village."
           }
         },
         {
@@ -980,7 +1047,8 @@
             "de": "Maison du Loup",
             "hu": "Farkas-ház",
             "ro": "Casa Lupului",
-            "en": "Wolf House"
+            "en": "Wolf House",
+            "fr": "Maison du Loup"
           },
           "coords": [
             44.236,
@@ -996,7 +1064,8 @@
             "de": "Ein Muss für Geschichtsliebhaber.",
             "hu": "Történelemkedvelőknek kötelező látnivaló.",
             "ro": "O vizită obligatorie pentru iubitorii de istorie.",
-            "en": "A must-see for history lovers."
+            "en": "A must-see for history lovers.",
+            "fr": "Incontournable pour les amateurs d’histoire."
           }
         },
         {
@@ -1004,7 +1073,8 @@
             "de": "Kirche Saint-Jean-Baptiste",
             "hu": "Keresztelő Szent János-templom",
             "ro": "Biserica Sfântul Ioan Botezătorul",
-            "en": "Church of Saint-Jean-Baptiste"
+            "en": "Church of Saint-Jean-Baptiste",
+            "fr": "Église Saint-Jean-Baptiste"
           },
           "coords": [
             44.235,
@@ -1020,7 +1090,8 @@
             "de": "Ein Ort der Stille und Kunst.",
             "hu": "A csend és a művészet temploma.",
             "ro": "Un loc al liniștii și artei.",
-            "en": "A place of silence and art."
+            "en": "A place of silence and art.",
+            "fr": "Un lieu de silence et d’art."
           }
         },
         {
@@ -1028,7 +1099,8 @@
             "de": "Mittagessen / Restaurant",
             "hu": "Ebéd / Étterem",
             "ro": "Prânz / Restaurant",
-            "en": "Lunch / Restaurant"
+            "en": "Lunch / Restaurant",
+            "fr": "Déjeuner / Restaurant"
           },
           "coords": [
             44.234,
@@ -1044,7 +1116,8 @@
             "de": "Lokale Weine probieren.",
             "hu": "Kóstolja meg a helyi borokat.",
             "ro": "Gustați vinurile locale.",
-            "en": "Taste local wines."
+            "en": "Taste local wines.",
+            "fr": "Goûtez les vins locaux."
           }
         },
         {
@@ -1052,7 +1125,8 @@
             "de": "Burgruine Caylus",
             "hu": "Caylus várrom",
             "ro": "Ruinele Castelului Caylus",
-            "en": "Caylus Castle Ruins"
+            "en": "Caylus Castle Ruins",
+            "fr": "Ruines du château de Caylus"
           },
           "coords": [
             44.238,
@@ -1068,7 +1142,8 @@
             "de": "Blick über das Tal vor der Rückreise.",
             "hu": "Tekintsen le a völgybe a visszautazás előtt.",
             "ro": "Admirați valea înainte de plecare.",
-            "en": "View over the valley before your return trip."
+            "en": "View over the valley before your return trip.",
+            "fr": "Vue sur la vallée avant votre retour."
           }
         }
       ],
@@ -1076,7 +1151,8 @@
         "de": "Mit öffentlichen Verkehrsmitteln erreichen Sie Caylus entspannt. Wir konzentrieren uns auf den kompakten historischen Kern, besuchen die Markthalle, die gotische Kirche und das berühmte Wolfshaus. Ein traditionelles Mittagessen und der Aufstieg zur Burgruine runden den Besuch ab, bevor Sie den Bus für die Rückreise nehmen.",
         "hu": "Tömegközlekedéssel is könnyen felfedezhető Caylus. A túra a jól bejárható történelmi központra fókuszál: érinti a vásárcsarnokot, a gótikus templomot és a Farkas-házat. Egy hagyományos ebéd és a várromokhoz tett séta teszi teljessé a látogatást, mielőtt felszállnánk a visszatérő buszra.",
         "ro": "Cu transportul public ajungeți relaxat în Caylus. Ne concentrăm pe centrul istoric compact, vizităm hala, biserica gotică și celebra Casă a Lupului. Un prânz tradițional și urcarea la ruinele castelului completează vizita, înainte de a lua autobuzul pentru întoarcere.",
-        "en": "Reach Caylus easily by public transport. We focus on the compact historic core, visiting the market hall, the Gothic church, and the famous Wolf House. A traditional lunch and a walk up to the castle ruins round out the visit before catching your bus back."
+        "en": "Reach Caylus easily by public transport. We focus on the compact historic core, visiting the market hall, the Gothic church, and the famous Wolf House. A traditional lunch and a walk up to the castle ruins round out the visit before catching your bus back.",
+        "fr": "Rejoindre Caylus facilement en transports en commun. Nous privilégions le noyau historique compact, en visitant la halle du marché, l'église gothique et la célèbre Maison du Loup. Un déjeuner traditionnel et une promenade jusqu'aux ruines du château complètent la visite avant de reprendre le bus."
       },
       "gastro_picks": {
         "de": [
@@ -1180,6 +1256,11 @@
           "Check bus schedules in advance (line 801/807).",
           "The village is small and very walkable on foot.",
           "The bus stop is located right at the entrance to the historic core."
+        ],
+        "fr": [
+          "Vérifiez les horaires de bus à l'avance (ligne 801/807).",
+          "Le village est petit et très praticable à pied.",
+          "L'arrêt de bus se trouve juste à l'entrée du noyau historique."
         ]
       }
     }

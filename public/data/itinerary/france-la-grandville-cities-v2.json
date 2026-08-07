@@ -21,7 +21,8 @@
             "de": "Château de Bonabry",
             "hu": "Château de Bonabry",
             "ro": "Château de Bonabry",
-            "en": "Château de Bonabry"
+            "en": "Château de Bonabry",
+            "fr": "Château de Bonabry"
           },
           "coords": [
             -2.651552,
@@ -36,7 +37,8 @@
             "de": "Bewundern Sie die elegante Architektur dieses historischen Schlosses und machen Sie einen friedlichen Morgenspaziergang über das gepflegte Gelände.",
             "hu": "Csodálja meg ennek a történelmi kastélynak az elegáns építészetét, és tegyen egy békés reggeli sétát a szépen karbantartott birtokon.",
             "ro": "Admirați arhitectura elegantă a acestui castel istoric și faceți o plimbare matinală liniștită pe domeniul său bine conservat.",
-            "en": "Admire the elegant architecture of this historic castle and take a peaceful morning stroll around its well-preserved grounds."
+            "en": "Admire the elegant architecture of this historic castle and take a peaceful morning stroll around its well-preserved grounds.",
+            "fr": "Admirez l'architecture élégante de ce château historique et profitez d'une paisible promenade matinale autour de ses terrains bien conservés."
           }
         },
         {
@@ -44,7 +46,8 @@
             "de": "Plage de la Granville",
             "hu": "Plage de la Granville",
             "ro": "Plage de la Granville",
-            "en": "Plage de la Granville"
+            "en": "Plage de la Granville",
+            "fr": "Plage de la Granville"
           },
           "coords": [
             -2.641401,
@@ -59,7 +62,8 @@
             "de": "Genießen Sie die beruhigende Meeresbrise an diesem schönen örtlichen Strand und bringen Sie unbedingt bequeme Schuhe für einen entspannten Spaziergang mit.",
             "hu": "Élvezze a megnyugtató óceáni szellőt ezen a kedves helyi strandon, és feltétlenül hozzon kényelmes cipőt egy pihentető tengerparti sétához.",
             "ro": "Bucurați-vă de briza liniștitoare a oceanului pe această plajă locală minunată, asigurându-vă că aveți încălțăminte comodă pentru o plimbare relaxantă.",
-            "en": "Enjoy the soothing ocean breeze on this lovely local beach, making sure to bring comfortable shoes for a relaxing seaside walk."
+            "en": "Enjoy the soothing ocean breeze on this lovely local beach, making sure to bring comfortable shoes for a relaxing seaside walk.",
+            "fr": "Appréciez la brise marine apaisante sur cette jolie plage locale, en veillant à porter des chaussures confortables pour une promenade relaxante au bord de l'eau."
           }
         },
         {
@@ -67,7 +71,8 @@
             "de": "Anse de Morieux",
             "hu": "Anse de Morieux",
             "ro": "Anse de Morieux",
-            "en": "Anse de Morieux"
+            "en": "Anse de Morieux",
+            "fr": "Anse de Morieux"
           },
           "coords": [
             -2.644773,
@@ -82,7 +87,8 @@
             "de": "Genießen Sie den Panoramablick auf die Bucht von diesem natürlichen Wahrzeichen aus und bringen Sie eine Kamera mit, um das tolle Licht einzufangen.",
             "hu": "Gyönyörködjön a tengeröböl panorámájában ebből a természeti látványosságból, és hozzon magával fényképezőgépet a lenyűgöző fények megörökítéséhez.",
             "ro": "Admirați vederea panoramică a golfului de la acest punct de reper natural, aducând un aparat foto pentru a surprinde lumina spectaculoasă a coastei.",
-            "en": "Take in the panoramic bay views from this natural landmark, bringing a camera to capture the stunning coastal light at midday."
+            "en": "Take in the panoramic bay views from this natural landmark, bringing a camera to capture the stunning coastal light at midday.",
+            "fr": "Profitez des vues panoramiques sur la baie depuis ce site naturel, en emportant un appareil photo pour capturer la lumière côtière spectaculaire à midi."
           }
         },
         {
@@ -90,7 +96,8 @@
             "de": "Plage de Bon Abri",
             "hu": "Plage de Bon Abri",
             "ro": "Plage de Bon Abri",
-            "en": "Plage de Bon Abri"
+            "en": "Plage de Bon Abri",
+            "fr": "Plage de Bon Abri"
           },
           "coords": [
             -2.652107,
@@ -105,7 +112,8 @@
             "de": "Entspannen Sie sich auf dem friedlichen Sand dieses geschützten Strandes, der ein perfekter Ort ist, um fernab der Massen ein Picknick zu genießen.",
             "hu": "Pihenjen meg ennek a védett strandnak a békés homokján, amely tökéletes hely arra, hogy megálljon és megegye a csomagolt ebédjét a tömegtől távol.",
             "ro": "Relaxați-vă pe nisipul liniștit al acestei plaje adăpostite, care este un loc perfect pentru a face o pauză și a lua un prânz la pachet, departe de aglomerație.",
-            "en": "Relax on the peaceful sands of this sheltered beach, which is a perfect spot to pause and eat a packed lunch away from the crowds."
+            "en": "Relax on the peaceful sands of this sheltered beach, which is a perfect spot to pause and eat a packed lunch away from the crowds.",
+            "fr": "Détendez-vous sur les sables paisibles de cette plage abritée, parfaite pour une pause et un déjeuner tiré du sac à l'écart de la foule."
           }
         },
         {
@@ -113,7 +121,8 @@
             "de": "Plage de Lermot",
             "hu": "Plage de Lermot",
             "ro": "Plage de Lermot",
-            "en": "Plage de Lermot"
+            "en": "Plage de Lermot",
+            "fr": "Plage de Lermot"
           },
           "coords": [
             -2.661932,
@@ -128,7 +137,8 @@
             "de": "Entdecken Sie an diesem malerischen Ort die wildere Seite der bretonischen Küste und achten Sie auf die wechselnden Gezeiten, bevor Sie am Wasser spazieren.",
             "hu": "Fedezze fel a breton tengerpart vadabb oldalát ezen a festői helyen, és figyeljen a változó árapályra, mielőtt a víz közelében sétálna.",
             "ro": "Descoperiți latura mai sălbatică a coastei bretone în acest loc pitoresc, fiind atenți la schimbările mareelor înainte de a vă plimba pe mal.",
-            "en": "Discover the wilder side of the Breton coastline at this scenic spot, paying attention to the changing tides before walking near the water."
+            "en": "Discover the wilder side of the Breton coastline at this scenic spot, paying attention to the changing tides before walking near the water.",
+            "fr": "Découvrez le côté plus sauvage du littoral breton à cet endroit panoramique, en faisant attention aux marées changeantes avant de marcher près de l'eau."
           }
         },
         {
@@ -136,7 +146,8 @@
             "de": "Église Saint-Jean-Baptiste",
             "hu": "Église Saint-Jean-Baptiste",
             "ro": "Église Saint-Jean-Baptiste",
-            "en": "Église Saint-Jean-Baptiste"
+            "en": "Église Saint-Jean-Baptiste",
+            "fr": "Église Saint-Jean-Baptiste"
           },
           "coords": [
             -2.668588,
@@ -151,7 +162,8 @@
             "de": "Erkunden Sie das historische Innere dieser klassischen Pfarrkirche, achten Sie auf die aufwendig geschnitzten Details und verhalten Sie sich ruhig.",
             "hu": "Fedezze fel ennek a klasszikus plébániatemplomnak a történelmi belsejét, figyelje meg a bonyolult faragott részleteket, és érkezzen csendben.",
             "ro": "Explorați interiorul istoric al acestei biserici parohiale clasice, observând detaliile sculptate complicat și pășind în liniște în timpul vizitei.",
-            "en": "Explore the historic interior of this classic parish church, noting the intricately carved details and arriving quietly during late afternoon."
+            "en": "Explore the historic interior of this classic parish church, noting the intricately carved details and arriving quietly during late afternoon.",
+            "fr": "Explorez l'intérieur historique de cette église paroissiale classique, en notant les détails finement sculptés et en arrivant doucement en fin d'après‑midi."
           }
         }
       ],
@@ -159,7 +171,8 @@
         "de": "Der Morgen beginnt am beeindruckenden Château de Bonabry, gefolgt von der frischen Meeresbrise am Plage de la Granville. Mittags spazieren Sie an der malerischen Anse de Morieux vorbei zum Plage de Bon Abri. Den Nachmittag verbringen Sie entspannt am Plage de Lermot. Der Tag endet friedlich in der Église Saint-Jean-Baptiste.",
         "hu": "A reggel a fenséges Château de Bonabry felfedezésével kezdődik, majd a Plage de la Granville friss levegőjével folytatódik. Délben elsétál az Anse de Morieux mellett a békés Plage de Bon Abri strandhoz. A délutánt a Plage de Lermot partján tölti. A nap az Église Saint-Jean-Baptiste templomában zárul.",
         "ro": "Dimineața începe cu grandiosul Château de Bonabry, urmată de aer curat la Plage de la Granville. La prânz, treceți pe lângă pitoreasca Anse de Morieux spre Plage de Bon Abri. După-amiaza este petrecută pe nisipul plajei Lermot. Ziua se încheie liniștit în biserica Saint-Jean-Baptiste.",
-        "en": "Morning begins with a walk around the grand Château de Bonabry, followed by fresh air at Plage de la Granville. Midday takes you past the scenic Anse de Morieux to a quiet picnic at Plage de Bon Abri. Afternoon is spent beachcombing at Plage de Lermot. The day concludes with peaceful reflections inside the Église Saint-Jean-Baptiste."
+        "en": "Morning begins with a walk around the grand Château de Bonabry, followed by fresh air at Plage de la Granville. Midday takes you past the scenic Anse de Morieux to a quiet picnic at Plage de Bon Abri. Afternoon is spent beachcombing at Plage de Lermot. The day concludes with peaceful reflections inside the Église Saint-Jean-Baptiste.",
+        "fr": "La matinée commence par une promenade autour du grand Château de Bonabry, suivie d'un bol d'air à la Plage de la Granville. À midi, vous passez par la pittoresque Anse de Morieux pour un pique‑nique tranquille à la Plage de Bon Abri. L'après‑midi est consacré à la recherche de coquillages à la Plage de Lermot. La journée se termine par des moments de recueillement à l'intérieur de l'Église Saint-Jean-Baptiste."
       },
       "variants": {
         "rainy": {
@@ -167,7 +180,8 @@
             "de": "Der Morgen beginnt am Schloss im sanften Regen, der die alten Steine glänzen lässt. Mittags wandern wir entlang der Küste, wo der Nebel über dem Meer eine mystische Atmosphäre schafft. Am Nachmittag suchen wir Schutz in den kleinen Buchten, während der Wind zunimmt. Den Abend lassen wir trocken in der Kirche ausklingen, die uns nach der Wanderung mit Stille und Geborgenheit empfängt.",
             "hu": "A reggel az eső áztatta kastélynál indul, ahol a vizes kövek különleges fényt kapnak. Délben a tengerparti ösvényeken haladunk, a ködös táj misztikus hangulatot áraszt a víz felett. Délután a védettebb öblök felé vesszük az irányt, figyelve a csúszós szakaszokra. Az estét a templom csendjében zárjuk, amely tökéletes menedéket nyújt a kopogó eső elől a túra végén.",
             "ro": "Dimineața începe la castel sub o ploaie ușoară ce face pietrele să strălucească. La prânz ne plimbăm pe coastă prin ceață, iar după-amiaza căutăm adăpost în golfuri pe măsură ce vântul se întețește. Încheiem seara la biserică, care ne întâmpină cu liniște și o ambianță caldă, oferind refugiul perfect după o zi umedă de explorare în natură.",
-            "en": "The morning starts at the castle in gentle rain, making the ancient stones glisten beautifully. At noon, we walk along the coast where mist over the sea creates a mystical atmosphere. In the afternoon, we seek shelter in small bays as the wind picks up. We finish the evening dry inside the church, which welcomes us with silence and comfort after a long rainy walk."
+            "en": "The morning starts at the castle in gentle rain, making the ancient stones glisten beautifully. At noon, we walk along the coast where mist over the sea creates a mystical atmosphere. In the afternoon, we seek shelter in small bays as the wind picks up. We finish the evening dry inside the church, which welcomes us with silence and comfort after a long rainy walk.",
+            "fr": "La matinée commence au château sous une pluie fine, faisant scintiller magnifiquement les vieilles pierres. À midi, nous marchons le long de la côte où la brume sur la mer crée une atmosphère mystérieuse. L'après‑midi, nous cherchons refuge dans de petites baies à mesure que le vent se lève. Nous terminons la soirée au sec dans l'église, qui nous accueille par le silence et la chaleur après une longue marche sous la pluie."
           },
           "stops": [
             {
@@ -175,13 +189,15 @@
                 "de": "Château de Bonabry",
                 "hu": "Château de Bonabry",
                 "ro": "Château de Bonabry",
-                "en": "Château de Bonabry"
+                "en": "Château de Bonabry",
+                "fr": "Château de Bonabry"
               },
               "tip_5lang": {
                 "de": "Bewundern Sie die dramatische Fassade im Regen, da die nassen Schiefertafeln ein tolles Fotomotiv bieten, und tragen Sie unbedingt wasserfeste Schuhe für die Schlosshöfe.",
                 "hu": "Csodáld meg a kastély homlokzatát az esőben a vizes pala tetők különleges látványa miatt, és viselj vízálló cipőt a kastély udvarán való kényelmes sétához.",
                 "ro": "Admirați fațada dramatică în ploaie, deoarece plăcile de ardezie ude oferă un fundal fotografic superb, și purtați încălțăminte impermeabilă pentru curțile castelului.",
-                "en": "Admire the dramatic facade in the rain as the wet slate tiles offer a unique photo opportunity, but remember to wear waterproof shoes for the damp castle courtyards."
+                "en": "Admire the dramatic facade in the rain as the wet slate tiles offer a unique photo opportunity, but remember to wear waterproof shoes for the damp castle courtyards.",
+                "fr": "Admirez la façade dramatique sous la pluie tandis que les ardoises mouillées offrent une opportunité photo unique, mais pensez à porter des chaussures imperméables pour les coursives du château humides."
               }
             },
             {
@@ -189,13 +205,15 @@
                 "de": "Plage de la Granville",
                 "hu": "Plage de la Granville",
                 "ro": "Plage de la Granville",
-                "en": "Plage de la Granville"
+                "en": "Plage de la Granville",
+                "fr": "Plage de la Granville"
               },
               "tip_5lang": {
                 "de": "Die raue See wirkt bei Regen besonders gewaltig, wenn Sie die Gischt vom oberen Pfad aus beobachten, wobei ein windfester Regenschirm hier an der Küste unerlässlich ist.",
                 "hu": "A haragos tenger látványa esőben lenyűgöző a felső ösvényről figyelve a hullámverést, de egy szélálló esernyő elengedhetetlen kellék ezen a nyitott partvidéken.",
                 "ro": "Marea agitată arată impresionant pe ploaie dacă observați valurile de pe poteca superioară, însă o umbrelă rezistentă la vânt este esențială aici pe coasta deschisă.",
-                "en": "The rough sea looks particularly powerful in the rain while watching the spray from the upper path, so ensure you have a windproof umbrella on this open coast."
+                "en": "The rough sea looks particularly powerful in the rain while watching the spray from the upper path, so ensure you have a windproof umbrella on this open coast.",
+                "fr": "La mer agitée paraît particulièrement puissante sous la pluie en regardant les embruns depuis le sentier supérieur, alors assurez‑vous d'avoir un parapluie coupe‑vent sur cette côte exposée."
               }
             },
             {
@@ -203,13 +221,15 @@
                 "de": "Anse de Morieux",
                 "hu": "Anse de Morieux",
                 "ro": "Anse de Morieux",
-                "en": "Anse de Morieux"
+                "en": "Anse de Morieux",
+                "fr": "Anse de Morieux"
               },
               "tip_5lang": {
                 "de": "Die Bucht bietet bei grauem Himmel eine melancholische Schönheit für Naturbeobachtungen, aber Vorsicht, da die Uferpfade bei Regen oft sehr schlammig und rutschig sind.",
                 "hu": "Az öböl melankolikus szépséget áraszt szürke égbolt alatt a madármegfigyeléshez, de vigyázz, mert a parti ösvények esőben nagyon sárosak és csúszósak lehetnek.",
                 "ro": "Golful oferă o frumusețe melancolică sub cerul gri pentru observarea naturii, dar atenție, deoarece potecile de pe mal pot fi foarte noroioase pe timp de ploaie.",
-                "en": "The bay offers a melancholic beauty under gray skies perfect for nature spotting, though you must be careful as the shore paths become very muddy in the rain."
+                "en": "The bay offers a melancholic beauty under gray skies perfect for nature spotting, though you must be careful as the shore paths become very muddy in the rain.",
+                "fr": "La baie offre une beauté mélancolique sous un ciel gris, parfaite pour l'observation de la nature, mais soyez prudent car les chemins côtiers deviennent très boueux sous la pluie."
               }
             },
             {
@@ -217,13 +237,15 @@
                 "de": "Plage de Bon Abri",
                 "hu": "Plage de Bon Abri",
                 "ro": "Plage de Bon Abri",
-                "en": "Plage de Bon Abri"
+                "en": "Plage de Bon Abri",
+                "fr": "Plage de Bon Abri"
               },
               "tip_5lang": {
                 "de": "Suchen Sie unter den Bäumen am Rand Schutz und genießen Sie das Rauschen des Regens auf dem Wasser, wobei eine Regenjacke mit Kapuze hier besser schützt als ein Schirm.",
                 "hu": "Keress menedéket a parti fák alatt és élvezd a vízre hulló eső kopogó hangját, egy kapucnis esőkabát pedig itt sokkal praktikusabb védelmet nyújt, mint az ernyő.",
                 "ro": "Căutați adăpost sub copacii de la margine și bucurați-vă de sunetul ploii pe apă, purtând o jachetă de ploaie cu glugă care oferă o protecție mai bună decât umbrela.",
-                "en": "Seek shelter under the trees at the edge to enjoy the sound of rain on the water, and use a hooded raincoat as it provides better protection than an umbrella here."
+                "en": "Seek shelter under the trees at the edge to enjoy the sound of rain on the water, and use a hooded raincoat as it provides better protection than an umbrella here.",
+                "fr": "Cherchez un abri sous les arbres en bordure pour profiter du son de la pluie sur l'eau, et utilisez un ciré à capuche qui protège mieux qu'un parapluie ici."
               }
             },
             {
@@ -231,13 +253,15 @@
                 "de": "Plage de Lermot",
                 "hu": "Plage de Lermot",
                 "ro": "Plage de Lermot",
-                "en": "Plage de Lermot"
+                "en": "Plage de Lermot",
+                "fr": "Plage de Lermot"
               },
               "tip_5lang": {
                 "de": "Der Strand ist bei Regen fast menschenleer und strahlt eine tiefe Ruhe aus, nutzen Sie jedoch die festen Stege, um nasse Füße im tiefen, weichen Sand zu vermeiden.",
                 "hu": "A strand esőben szinte teljesen néptelen és mély nyugalmat áraszt, de érdemes a szilárdabb pallókon járni, hogy elkerüld a vizes homokot és a beázott cipőket.",
                 "ro": "Plaja este aproape pustie pe ploaie și emană o liniște profundă, dar folosiți platformele mai solide pentru a evita nisipul ud și pătrunderea apei în încălțăminte.",
-                "en": "The beach is almost deserted in the rain and radiates a deep sense of calm, but you should use the firmer walkways to avoid walking through deep, wet sand."
+                "en": "The beach is almost deserted in the rain and radiates a deep sense of calm, but you should use the firmer walkways to avoid walking through deep, wet sand.",
+                "fr": "La plage est presque déserte sous la pluie et dégage un profond sentiment de calme, mais empruntez les passerelles plus fermes pour éviter de traverser du sable humide et profond."
               }
             },
             {
@@ -245,13 +269,15 @@
                 "de": "Église Saint-Jean-Baptiste",
                 "hu": "Église Saint-Jean-Baptiste",
                 "ro": "Église Saint-Jean-Baptiste",
-                "en": "Église Saint-Jean-Baptiste"
+                "en": "Église Saint-Jean-Baptiste",
+                "fr": "Église Saint-Jean-Baptiste"
               },
               "tip_5lang": {
                 "de": "Das Interieur bietet einen warmen, trockenen Ort für besinnliche Momente, wobei Sie nasse Kleidung am besten im Vorraum ablegen, um die Kirchenbänke zu schonen.",
                 "hu": "A belső tér meleg és száraz menedéket nyújt a túra végén a gondolatok rendezéséhez, a vizes kabátokat pedig hagyd az előtérben, hogy óvd a benti berendezést.",
                 "ro": "Interiorul oferă un loc cald și uscat pentru momente de reflecție, fiind recomandat să lăsați hainele ude în pridvor pentru a proteja băncile din interior.",
-                "en": "The interior provides a warm, dry sanctuary to reflect on your hike, so please leave your wet outer layers in the vestibule to keep the church pews dry."
+                "en": "The interior provides a warm, dry sanctuary to reflect on your hike, so please leave your wet outer layers in the vestibule to keep the church pews dry.",
+                "fr": "L'intérieur offre un sanctuaire chaud et sec pour réfléchir à votre randonnée ; laissez vos vêtements mouillés dans le vestibule afin de garder les bancs de l'église au sec."
               }
             }
           ]
@@ -261,7 +287,8 @@
             "de": "Ein frostiger Morgen am Schloss weckt die Lebensgeister, während der Raureif die Gärten verzaubert. Mittags genießen wir die klare Winterluft an den einsamen Stränden der Küste. Am Nachmittag nutzen wir das goldene Licht der tiefstehenden Sonne für Fotos, bevor es kühl wird. Gegen 17:00 Uhr endet unser Weg in der Kirche, pünktlich zum frühen Sonnenuntergang.",
             "hu": "A kastélynál töltött fagyos reggel felpezsdíti az érzékeket, miközben a zúzmara varázslatossá teszi a kertet. Délben a friss téli levegőt élvezzük a part magányában. Délután a lemenő nap aranyló fényei kísérnek minket, tökéletes alkalmat adva a fotózáshoz. 17:00 óra körül érünk a templomhoz, éppen a korai téli naplemente idején.",
             "ro": "O dimineață geroasă la castel trezește simțurile, în timp ce chiciura transformă grădinile într-un loc magic. La prânz ne bucurăm de aerul curat pe plajele pustii. După-amiaza profităm de lumina aurie a soarelui pentru fotografii, înainte de a se lăsa frigul. În jurul orei 17:00 drumeția se încheie la biserică, fix la apusul timpuriu.",
-            "en": "A frosty morning at the castle awakens the senses as hoarfrost turns the gardens into a magical scene. At noon, we enjoy the crisp winter air on the lonely beaches. In the afternoon, we use the golden light of the low sun for photos before the chill sets in. Around 17:00, our journey ends at the church, just in time for the early sunset."
+            "en": "A frosty morning at the castle awakens the senses as hoarfrost turns the gardens into a magical scene. At noon, we enjoy the crisp winter air on the lonely beaches. In the afternoon, we use the golden light of the low sun for photos before the chill sets in. Around 17:00, our journey ends at the church, just in time for the early sunset.",
+            "fr": "Une matinée glaciale au château réveille les sens alors que le givre transforme les jardins en scène magique. À midi, nous profitons de l'air vif hivernal sur les plages solitaires. L'après‑midi, nous utilisons la lumière dorée du soleil bas pour des photos avant que le froid ne s'amplifie. Vers 17:00, notre parcours s'achève à l'église, juste à temps pour le coucher du soleil précoce."
           },
           "stops": [
             {
@@ -269,13 +296,15 @@
                 "de": "Château de Bonabry",
                 "hu": "Château de Bonabry",
                 "ro": "Château de Bonabry",
-                "en": "Château de Bonabry"
+                "en": "Château de Bonabry",
+                "fr": "Château de Bonabry"
               },
               "tip_5lang": {
                 "de": "Die gefrorenen Schlossgärten sind im frühen Licht ein wahres Wintermärchen für Fotografen, kleiden Sie sich jedoch in Schichten, da der Wind in den Höfen schneiden kann.",
                 "hu": "A fagyott kastélykert a kora reggeli fényben igazi téli tündérmese a fotósok számára, de öltözz rétegesen, mert a várudvarokon metsző lehet a téli szél.",
                 "ro": "Grădinile înghețate ale castelului în lumina dimineții sunt un basm de iarnă pentru fotografi, dar îmbrăcați-vă în straturi, deoarece vântul poate fi tăios în curți.",
-                "en": "The frozen castle gardens in the early light are a true winter fairytale for photographers, just be sure to dress in layers as the wind can be biting in the courtyards."
+                "en": "The frozen castle gardens in the early light are a true winter fairytale for photographers, just be sure to dress in layers as the wind can be biting in the courtyards.",
+                "fr": "Les jardins gelés du château à la première lumière sont un véritable conte d'hiver pour les photographes ; habillez‑vous en couches car le vent peut être mordant dans les cours."
               }
             },
             {
@@ -283,13 +312,15 @@
                 "de": "Plage de la Granville",
                 "hu": "Plage de la Granville",
                 "ro": "Plage de la Granville",
-                "en": "Plage de la Granville"
+                "en": "Plage de la Granville",
+                "fr": "Plage de la Granville"
               },
               "tip_5lang": {
                 "de": "Genießen Sie die weite Sicht der klaren Winterluft und beobachten Sie die Wintervögel, während eine Thermoskanne mit heißem Tee Sie bei der Rast wunderbar aufwärmt.",
                 "hu": "Élvezd a tiszta téli levegő adta távoli kilátást és figyeld meg a telelő madarakat, egy termosz meleg tea pedig jól jön majd a pihenő alatt a hideg szélben.",
                 "ro": "Bucurați-vă de vizibilitatea mare oferită de aerul curat de iarnă și observați păsările migratoare, având la îndemână un termos cu ceai cald pentru pauza de pe plajă.",
-                "en": "Enjoy the long-distance views provided by the crisp winter air while spotting wintering birds, and bring a thermos of hot tea to stay warm during your beach rest."
+                "en": "Enjoy the long-distance views provided by the crisp winter air while spotting wintering birds, and bring a thermos of hot tea to stay warm during your beach rest.",
+                "fr": "Profitez des vues lointaines offertes par l'air vif d'hiver tout en observant les oiseaux hivernants, et emportez une thermos de thé chaud pour rester au chaud pendant votre pause plage."
               }
             },
             {
@@ -297,13 +328,15 @@
                 "de": "Anse de Morieux",
                 "hu": "Anse de Morieux",
                 "ro": "Anse de Morieux",
-                "en": "Anse de Morieux"
+                "en": "Anse de Morieux",
+                "fr": "Anse de Morieux"
               },
               "tip_5lang": {
                 "de": "Das Watt glänzt im Winterlicht silbrig und bietet einen herrlichen Anblick, achten Sie jedoch auf festen Untergrund, da gefrorener Schlamm oft unerwartet rutschig ist.",
                 "hu": "Az árapály-zóna különleges ezüstös fényben ragyog a téli napon, de vigyázz a lépteidre, mert a fagyott sár néhol váratlanul csúszós és egyenetlen lehet.",
                 "ro": "Zona de maree strălucește argintiu în lumina iernii oferind o priveliște superbă, dar atenție la sol, deoarece noroiul înghețat poate fi surprinzător de alunecos.",
-                "en": "The tidal flats shine with a unique silvery glow in the winter sun, but you must watch your step as frozen mud can be surprisingly slippery for walkers."
+                "en": "The tidal flats shine with a unique silvery glow in the winter sun, but you must watch your step as frozen mud can be surprisingly slippery for walkers.",
+                "fr": "Les vasières brillent d'un éclat argenté unique sous le soleil d'hiver, mais faites attention à vos pas car la boue gelée peut être étonnamment glissante pour les marcheurs."
               }
             },
             {
@@ -311,13 +344,15 @@
                 "de": "Plage de Bon Abri",
                 "hu": "Plage de Bon Abri",
                 "ro": "Plage de Bon Abri",
-                "en": "Plage de Bon Abri"
+                "en": "Plage de Bon Abri",
+                "fr": "Plage de Bon Abri"
               },
               "tip_5lang": {
                 "de": "Machen Sie einen zügigen Strandspaziergang, um die Körperwärme zu halten, wobei winddichte Kleidung wegen der kalten Brise vom Meer her hier absolut notwendig ist.",
                 "hu": "Tegyél egy tempós sétát a parton a testhőd megőrzése érdekében, a tenger felől érkező hideg szél miatt pedig a szélálló ruházat kiemelten fontos ezen a szakaszon.",
                 "ro": "Faceți o plimbare rapidă pe plajă pentru a vă menține căldura corporală, purtând haine rezistente la vânt care sunt esențiale din cauza brizei reci a mării.",
-                "en": "Take a brisk walk along the shore to maintain your body heat, and make sure to wear windproof clothing due to the sharp cold breeze coming off the winter sea."
+                "en": "Take a brisk walk along the shore to maintain your body heat, and make sure to wear windproof clothing due to the sharp cold breeze coming off the winter sea.",
+                "fr": "Faites une marche tonique le long du rivage pour conserver votre chaleur corporelle, et portez des vêtements coupe‑vent en raison de la brise froide et vive venant de la mer d'hiver."
               }
             },
             {
@@ -325,13 +360,15 @@
                 "de": "Plage de Lermot",
                 "hu": "Plage de Lermot",
                 "ro": "Plage de Lermot",
-                "en": "Plage de Lermot"
+                "en": "Plage de Lermot",
+                "fr": "Plage de Lermot"
               },
               "tip_5lang": {
                 "de": "Die tiefstehende Nachmittagssonne taucht den Strand in warmes Orange, bevor die Kälte anzieht, daher sollten Sie den Aufenthalt kurz halten, um nicht auszukühlen.",
                 "hu": "Az alacsonyan járó délutáni nap narancssárgába öltözteti a partot az esti fagy előtt, ezért tervezz rövid tartózkodást, hogy ne hűlj ki a vízparton állva.",
                 "ro": "Soarele de după-amiază colorează plaja în nuanțe de portocaliu înainte de înghețul serii, deci planificați o vizită scurtă pentru a nu vă răci stând pe mal.",
-                "en": "The low afternoon sun bathes the beach in orange hues before the evening frost sets in, so plan a shorter stay here to avoid getting too chilled by the water."
+                "en": "The low afternoon sun bathes the beach in orange hues before the evening frost sets in, so plan a shorter stay here to avoid getting too chilled by the water.",
+                "fr": "Le soleil bas de l'après‑midi baigne la plage de teintes orangées avant que le gel du soir n'arrive, prévoyez donc un séjour court ici pour éviter d'être trop frigorifié au bord de l'eau."
               }
             },
             {
@@ -339,13 +376,15 @@
                 "de": "Église Saint-Jean-Baptiste",
                 "hu": "Église Saint-Jean-Baptiste",
                 "ro": "Église Saint-Jean-Baptiste",
-                "en": "Église Saint-Jean-Baptiste"
+                "en": "Église Saint-Jean-Baptiste",
+                "fr": "Église Saint-Jean-Baptiste"
               },
               "tip_5lang": {
                 "de": "Besuchen Sie die Kirche zum Aufwärmen und bewundern Sie die besinnliche Atmosphäre, da die dicken Steinmauern die Kälte meist sehr effektiv draußen halten.",
                 "hu": "Látogass el a templomba melegedni és csodáld meg a szürkületi fények meghitt hangulatát, a vastag kőfalak ugyanis jól kirekesztik a kinti metsző hideget.",
                 "ro": "Vizitați biserica pentru a vă încălzi și admirați atmosfera intimă la lăsarea serii, zidurile groase de piatră fiind eficiente în a ține frigul tăios afară.",
-                "en": "Visit the church to warm up and admire the cozy atmosphere as twilight descends, as the thick stone walls are effective at keeping the biting winter cold outside."
+                "en": "Visit the church to warm up and admire the cozy atmosphere as twilight descends, as the thick stone walls are effective at keeping the biting winter cold outside.",
+                "fr": "Visitez l'église pour vous réchauffer et admirer l'atmosphère douillette au crépuscule, les murs épais en pierre étant efficaces pour garder le froid hivernal dehors."
               }
             }
           ]
@@ -365,7 +404,8 @@
             "de": "Église Saint-Jean-Baptiste",
             "hu": "Église Saint-Jean-Baptiste",
             "ro": "Église Saint-Jean-Baptiste",
-            "en": "Église Saint-Jean-Baptiste"
+            "en": "Église Saint-Jean-Baptiste",
+            "fr": "Église Saint-Jean-Baptiste"
           },
           "coords": [
             -2.668588,
@@ -380,7 +420,8 @@
             "de": "Erkunden Sie das historische Innere dieser klassischen Pfarrkirche, achten Sie auf die aufwendig geschnitzten Details und verhalten Sie sich ruhig.",
             "hu": "Fedezze fel ennek a klasszikus plébániatemplomnak a történelmi belsejét, figyelje meg a bonyolult faragott részleteket, és érkezzen csendben.",
             "ro": "Explorați interiorul istoric al acestei biserici parohiale clasice, observând detaliile sculptate complicat și pășind în liniște în timpul vizitei.",
-            "en": "Explore the historic interior of this classic parish church, noting the intricately carved details and arriving quietly during late afternoon."
+            "en": "Explore the historic interior of this classic parish church, noting the intricately carved details and arriving quietly during late afternoon.",
+            "fr": "Explorez l'intérieur historique de cette église paroissiale classique, en notant les détails finement sculptés et en arrivant doucement en fin d'après‑midi."
           }
         },
         {
@@ -388,7 +429,8 @@
             "de": "Château de Bonabry",
             "hu": "Château de Bonabry",
             "ro": "Château de Bonabry",
-            "en": "Château de Bonabry"
+            "en": "Château de Bonabry",
+            "fr": "Château de Bonabry"
           },
           "coords": [
             -2.651552,
@@ -403,7 +445,8 @@
             "de": "Bewundern Sie die elegante Architektur dieses historischen Schlosses und machen Sie einen friedlichen Morgenspaziergang über das gepflegte Gelände.",
             "hu": "Csodálja meg ennek a történelmi kastélynak az elegáns építészetét, és tegyen egy békés reggeli sétát a szépen karbantartott birtokon.",
             "ro": "Admirați arhitectura elegantă a acestui castel istoric și faceți o plimbare matinală liniștită pe domeniul său bine conservat.",
-            "en": "Admire the elegant architecture of this historic castle and take a peaceful morning stroll around its well-preserved grounds."
+            "en": "Admire the elegant architecture of this historic castle and take a peaceful morning stroll around its well-preserved grounds.",
+            "fr": "Admirez l'architecture élégante de ce château historique et faites une paisible promenade matinale autour de ses abords bien conservés."
           }
         },
         {
@@ -411,7 +454,8 @@
             "de": "Plage de la Granville",
             "hu": "Plage de la Granville",
             "ro": "Plage de la Granville",
-            "en": "Plage de la Granville"
+            "en": "Plage de la Granville",
+            "fr": "Plage de la Granville"
           },
           "coords": [
             -2.641401,
@@ -426,7 +470,8 @@
             "de": "Genießen Sie die beruhigende Meeresbrise an diesem schönen örtlichen Strand und bringen Sie unbedingt bequeme Schuhe für einen entspannten Spaziergang mit.",
             "hu": "Élvezze a megnyugtató óceáni szellőt ezen a kedves helyi strandon, és feltétlenül hozzon kényelmes cipőt egy pihentető tengerparti sétához.",
             "ro": "Bucurați-vă de briza liniștitoare a oceanului pe această plajă locală minunată, asigurându-vă că aveți încălțăminte comodă pentru o plimbare relaxantă.",
-            "en": "Enjoy the soothing ocean breeze on this lovely local beach, making sure to bring comfortable shoes for a relaxing seaside walk."
+            "en": "Enjoy the soothing ocean breeze on this lovely local beach, making sure to bring comfortable shoes for a relaxing seaside walk.",
+            "fr": "Profitez de la brise marine apaisante sur cette jolie plage locale, en veillant à porter des chaussures confortables pour une promenade relaxante au bord de l'eau."
           }
         },
         {
@@ -434,7 +479,8 @@
             "de": "Chapelle Saint-Maurice",
             "hu": "Chapelle Saint-Maurice",
             "ro": "Chapelle Saint-Maurice",
-            "en": "Chapelle Saint-Maurice"
+            "en": "Chapelle Saint-Maurice",
+            "fr": "Chapelle Saint-Maurice"
           },
           "coords": [
             -2.633353,
@@ -449,7 +495,8 @@
             "de": "Besuchen Sie diese charmante Küstenkapelle, die das tiefe lokale maritime Erbe widerspiegelt, und treten Sie leise ein, um die Atmosphäre zu genießen.",
             "hu": "Látogasson el ebbe a bájos tengerparti kápolnába, amely a helyi tengerészeti örökséget tükrözi, és lépjen be csendben az intim hangulatért.",
             "ro": "Vizitați această capelă de coastă fermecătoare care reflectă moștenirea maritimă locală, pășind ușor înăuntru pentru a-i aprecia atmosfera intimă.",
-            "en": "Visit this charming coastal chapel that reflects profound local maritime heritage, stepping inside gently to appreciate its intimate atmosphere."
+            "en": "Visit this charming coastal chapel that reflects profound local maritime heritage, stepping inside gently to appreciate its intimate atmosphere.",
+            "fr": "Visitez cette charmante chapelle côtière qui reflète le profond patrimoine maritime local, et entrez doucement pour apprécier son atmosphère intime."
           }
         },
         {
@@ -457,7 +504,8 @@
             "de": "Église Saint-Gobrien",
             "hu": "Église Saint-Gobrien",
             "ro": "Église Saint-Gobrien",
-            "en": "Église Saint-Gobrien"
+            "en": "Église Saint-Gobrien",
+            "fr": "Église Saint-Gobrien"
           },
           "coords": [
             -2.60955,
@@ -472,7 +520,8 @@
             "de": "Treten Sie in dieses ländliche Heiligtum ein, um die traditionelle bretonische religiöse Architektur zu erleben und auf die Steinarmaturen zu achten.",
             "hu": "Lépjen be ebbe a vidéki szentélybe, hogy megtapasztalja a hagyományos breton vallási építészetet, és figyeljen a történelmi kőberendezésekre.",
             "ro": "Intrați în acest sanctuar rural pentru a experimenta arhitectura religioasă tradițională bretonă, căutând cu atenție elementele istorice din piatră.",
-            "en": "Step into this rural sanctuary to experience traditional Breton religious architecture, keeping an eye out for the historic stone fixtures."
+            "en": "Step into this rural sanctuary to experience traditional Breton religious architecture, keeping an eye out for the historic stone fixtures.",
+            "fr": "Pénétrez dans ce sanctuaire rural pour découvrir l'architecture religieuse bretonne traditionnelle, en gardant un œil sur les éléments de pierre historiques."
           }
         },
         {
@@ -480,7 +529,8 @@
             "de": "Menhir de Carquitté",
             "hu": "Menhir de Carquitté",
             "ro": "Menhir de Carquitté",
-            "en": "Menhir de Carquitté"
+            "en": "Menhir de Carquitté",
+            "fr": "Menhir de Carquitté"
           },
           "coords": [
             -2.630079,
@@ -495,7 +545,8 @@
             "de": "Stehen Sie neben diesem alten megalithischen Stein, um sich mit der prähistorischen Bretagne zu verbinden, und tragen Sie feste Schuhe für den unebenen Boden.",
             "hu": "Álljon e mellé az ősi megalitikus kő mellé, hogy kapcsolódjon a történelem előtti Bretagne-hoz, és viseljen masszív cipőt az egyenetlen talaj miatt.",
             "ro": "Stați lângă această piatră megalitică antică pentru a vă conecta cu Bretania preistorică, purtând încălțăminte robustă, deoarece terenul poate fi neregulat.",
-            "en": "Stand beside this ancient megalithic stone to connect with prehistoric Brittany, wearing sturdy shoes as the surrounding ground can be uneven."
+            "en": "Stand beside this ancient megalithic stone to connect with prehistoric Brittany, wearing sturdy shoes as the surrounding ground can be uneven.",
+            "fr": "Tenez‑vous à côté de ce mégalithe ancien pour vous connecter à la Bretagne préhistorique ; portez des chaussures solides car le terrain environnant peut être inégal."
           }
         }
       ],
@@ -503,7 +554,8 @@
         "de": "Beginnen Sie den Tag an der Église Saint-Jean-Baptiste und radeln Sie dann zum Château de Bonabry. Die Mittagsetappe führt Sie zur Plage de la Granville und zur Chapelle Saint-Maurice. Nachmittags geht es landeinwärts zur Église Saint-Gobrien. Die Tour endet am uralten Menhir de Carquitté in der späten Nachmittagssonne.",
         "hu": "Kezdje kerékpáros napját az Église Saint-Jean-Baptiste templomnál, majd tekerjen el a pompás Château de Bonabry-hoz. A déli utazás a tengerparton át a Plage de la Granville-hez és a Chapelle Saint-Maurice-hoz vezet. Délután induljon a szárazföld felé az Église Saint-Gobrien-hez. Az út a Menhir de Carquitté mellett ér véget.",
         "ro": "Începeți ziua de ciclism la biserica Saint-Jean-Baptiste, apoi pedalați spre magnificul Château de Bonabry. La prânz mergeți pe coastă spre Plage de la Granville și Chapelle Saint-Maurice. După-amiaza, îndreptați-vă spre interior, la biserica Saint-Gobrien. Călătoria se termină la anticul Menhir de Carquitté.",
-        "en": "Start your cycling day exploring the historic Église Saint-Jean-Baptiste, then pedal to the magnificent Château de Bonabry. Midday rides take you along the coast to Plage de la Granville and the charming Chapelle Saint-Maurice. In the afternoon, head inland to Église Saint-Gobrien. The journey finishes beside the ancient Menhir de Carquitté."
+        "en": "Start your cycling day exploring the historic Église Saint-Jean-Baptiste, then pedal to the magnificent Château de Bonabry. Midday rides take you along the coast to Plage de la Granville and the charming Chapelle Saint-Maurice. In the afternoon, head inland to Église Saint-Gobrien. The journey finishes beside the ancient Menhir de Carquitté.",
+        "fr": "Commencez votre journée à vélo en explorant l'historique Église Saint-Jean-Baptiste, puis pédalez jusqu'au magnifique Château de Bonabry. À midi, les balades vous mènent le long de la côte jusqu'à la Plage de la Granville et la charmante Chapelle Saint-Maurice. L'après‑midi, dirigez‑vous vers l'intérieur des terres jusqu'à l'Église Saint-Gobrien. Le parcours se termine au bord du ancien Menhir de Carquitté."
       },
       "variants": {
         "rainy": {
@@ -511,7 +563,8 @@
             "de": "Die Radtour startet an der Kirche, während der Regen die Straßen säubert. Mittags radeln wir vorsichtig zum Schloss und weiter zur Küste, um das graue Meer zu bewundern. Am Nachmittag führen uns die Wege zu den abgelegenen Kapellen, wobei wir stets auf Pfützen achten. Der Tag endet am Menhir, wo die nassen Steine im fahlen Licht der Dämmerung fast schwarz glänzen.",
             "hu": "A kerékpártúra a templomnál indul, miközben az eső lemossa az utakat. Délben óvatosan tekerünk a kastélyhoz és a partra, élvezve a szürke tenger látványát. Délután az utunk félreeső kápolnákhoz vezet, ügyelve a vizes aszfaltra és a tócsákra. A nap a menhirnél zárul, ahol a vizes kövek szinte feketén csillognak a szürkület bágyadt fényeiben.",
             "ro": "Turul cu bicicleta începe la biserică în timp ce ploaia curăță drumurile. La prânz pedalăm cu atenție spre castel și spre coastă, admirând marea gri. După-amiaza traseul ne duce spre capele izolate, fiind atenți la bălți și asfaltul ud. Ziua se încheie la menhir, unde pietrele ude strălucesc intens în lumina slabă a amurgului ploios.",
-            "en": "The cycling tour starts at the church while the rain cleans the streets. At noon, we pedal carefully to the castle and the coast, enjoying the view of the gray sea. In the afternoon, the route leads us to secluded chapels, staying mindful of puddles. The day ends at the menhir, where the wet stones shine almost black in the dim twilight."
+            "en": "The cycling tour starts at the church while the rain cleans the streets. At noon, we pedal carefully to the castle and the coast, enjoying the view of the gray sea. In the afternoon, the route leads us to secluded chapels, staying mindful of puddles. The day ends at the menhir, where the wet stones shine almost black in the dim twilight.",
+            "fr": "La cyclo‑découverte commence à l'église tandis que la pluie nettoie les rues. À midi, nous pédalons prudemment jusqu'au château et à la côte, en profitant de la vue sur la mer grise. L'après‑midi, l'itinéraire nous conduit vers des chapelles isolées, en restant attentifs aux flaques. La journée se termine au menhir, où les pierres mouillées brillent presque noires dans le crépuscule atténué."
           },
           "stops": [
             {
@@ -519,13 +572,15 @@
                 "de": "Église Saint-Jean-Baptiste",
                 "hu": "Église Saint-Jean-Baptiste",
                 "ro": "Église Saint-Jean-Baptiste",
-                "en": "Église Saint-Jean-Baptiste"
+                "en": "Église Saint-Jean-Baptiste",
+                "fr": "Église Saint-Jean-Baptiste"
               },
               "tip_5lang": {
                 "de": "Prüfen Sie Ihre Bremsen im Schutz des Kircheneingangs vor der Abfahrt auf nassen Straßen und nutzen Sie das Gebäude als trockenen Startpunkt für die heutige Tour.",
                 "hu": "Ellenőrizd a fékeidet a templombejárat védelmében, mielőtt elindulnál a vizes utakra, és használd az épületet száraz kiindulópontként a mai kerékpáros túrához.",
                 "ro": "Verificați frânele la adăpostul intrării în biserică înainte de a porni pe drumurile ude și folosiți clădirea ca punct de plecare uscat pentru turul de astăzi.",
-                "en": "Check your brakes under the shelter of the church entrance before heading out on wet roads, and use the building as a dry starting point for your bike tour."
+                "en": "Check your brakes under the shelter of the church entrance before heading out on wet roads, and use the building as a dry starting point for your bike tour.",
+                "fr": "Vérifiez vos freins à l'abri de l'entrée de l'église avant de partir sur des routes humides, et utilisez le bâtiment comme point de départ sec pour votre circuit à vélo."
               }
             },
             {
@@ -533,13 +588,15 @@
                 "de": "Château de Bonabry",
                 "hu": "Château de Bonabry",
                 "ro": "Château de Bonabry",
-                "en": "Château de Bonabry"
+                "en": "Château de Bonabry",
+                "fr": "Château de Bonabry"
               },
               "tip_5lang": {
                 "de": "Das Schloss wirkt im Regen besonders imposant, parken Sie Ihr Rad unter den Bäumen und tragen Sie eine regenfeste Hose gegen das Spritzwasser beim Fahren.",
                 "hu": "A kastély esőben különösen impozáns látványt nyújt, ezért parkolj a fák alá, és viselj vízhatlan nadrágot, mert menet közben felverődhet a víz az útról.",
                 "ro": "Castelul arată deosebit de impunător pe ploaie, deci parcați bicicleta sub copaci și purtați pantaloni impermeabili împotriva apei împroșcate de pe drum.",
-                "en": "The castle looks particularly imposing in the rain, so park your bike under the trees and wear waterproof trousers to protect against road spray while riding."
+                "en": "The castle looks particularly imposing in the rain, so park your bike under the trees and wear waterproof trousers to protect against road spray while riding.",
+                "fr": "Le château paraît particulièrement imposant sous la pluie ; garez votre vélo sous les arbres et portez un pantalon imperméable pour vous protéger des projections d'eau en roulant."
               }
             },
             {
@@ -547,13 +604,15 @@
                 "de": "Plage de la Granville",
                 "hu": "Plage de la Granville",
                 "ro": "Plage de la Granville",
-                "en": "Plage de la Granville"
+                "en": "Plage de la Granville",
+                "fr": "Plage de la Granville"
               },
               "tip_5lang": {
                 "de": "Der Radweg entlang der Küste kann bei Regen windig sein, halten Sie den Lenker fest und nutzen Sie einen Helmüberzug, um Ihren Kopf trocken und warm zu halten.",
                 "hu": "A parti kerékpárút esőben szeles lehet, tartsd erősen a kormányt, egy sisakhuzat pedig segít szárazon és melegen tartani a fejedet a tengerparti menet közben.",
                 "ro": "Pista de biciclete de pe coastă poate fi vântoasă pe ploaie, deci țineți bine ghidonul și folosiți o husă pentru cască pentru a vă menține capul uscat.",
-                "en": "The coastal bike path can be very windy in the rain, so keep a firm grip on the handlebars and use a helmet cover to keep your head dry and warm while riding."
+                "en": "The coastal bike path can be very windy in the rain, so keep a firm grip on the handlebars and use a helmet cover to keep your head dry and warm while riding.",
+                "fr": "La piste cyclable côtière peut être très ventée sous la pluie, gardez une bonne prise sur le guidon et utilisez une housse de casque pour garder la tête au sec et au chaud pendant la sortie."
               }
             },
             {
@@ -561,13 +620,15 @@
                 "de": "Chapelle Saint-Maurice",
                 "hu": "Chapelle Saint-Maurice",
                 "ro": "Chapelle Saint-Maurice",
-                "en": "Chapelle Saint-Maurice"
+                "en": "Chapelle Saint-Maurice",
+                "fr": "Chapelle Saint-Maurice"
               },
               "tip_5lang": {
                 "de": "Die Kapelle bietet einen idealen Unterstand für eine kurze Trinkpause im Trockenen, achten Sie jedoch auf nasse Blätter am Boden, die beim Radfahren rutschig sind.",
                 "hu": "A kis kápolna ideális menedéket nyújt egy rövid frissítőhöz, de ügyelj a földön lévő vizes levelekre, amelyek kerékpárral kanyarodáskor nagyon csúszósak lehetnek.",
                 "ro": "Mica capelă oferă un adăpost ideal pentru o scurtă pauză de hidratare, dar atenție la frunzele ude de pe jos, care pot fi foarte alunecoase cu bicicleta.",
-                "en": "The small chapel offers ideal shelter for a quick refreshment break, but watch out for wet leaves on the ground which can be very slippery for cyclists."
+                "en": "The small chapel offers ideal shelter for a quick refreshment break, but watch out for wet leaves on the ground which can be very slippery for cyclists.",
+                "fr": "La petite chapelle offre un abri idéal pour une courte pause rafraîchissante, mais méfiez‑vous des feuilles mouillées au sol qui peuvent être très glissantes pour les cyclistes."
               }
             },
             {
@@ -575,13 +636,15 @@
                 "de": "Église Saint-Gobrien",
                 "hu": "Église Saint-Gobrien",
                 "ro": "Église Saint-Gobrien",
-                "en": "Église Saint-Gobrien"
+                "en": "Église Saint-Gobrien",
+                "fr": "Église Saint-Gobrien"
               },
               "tip_5lang": {
                 "de": "Nutzen Sie den Halt zum Richten Ihrer Regenbekleidung und wischen Sie den nassen Sattel mit einem Mikrofasertuch ab, bevor Sie die Fahrt durch den Regen fortsetzen.",
                 "hu": "Használd ki a megállót az esőruházatod megigazítására, és egy mikroszálas kendővel töröld szárazra a nyerget a továbbindulás és a kényelmesebb tekerés érdekében.",
                 "ro": "Profită de oprire pentru a-ți ajusta hainele de ploaie și folosește o lavetă pentru a usca șaua înainte de a continua drumul prin ploaia persistentă.",
-                "en": "Use this stop to adjust your rain gear and wipe your wet saddle dry with a microfiber cloth before you continue riding through the rainy landscape."
+                "en": "Use this stop to adjust your rain gear and wipe your wet saddle dry with a microfiber cloth before you continue riding through the rainy landscape.",
+                "fr": "Profitez de cet arrêt pour ajuster vos vêtements de pluie et essuyer votre selle humide avec un chiffon microfibre avant de reprendre la route à travers le paysage pluvieux."
               }
             },
             {
@@ -589,13 +652,15 @@
                 "de": "Menhir de Carquitté",
                 "hu": "Menhir de Carquitté",
                 "ro": "Menhir de Carquitté",
-                "en": "Menhir de Carquitté"
+                "en": "Menhir de Carquitté",
+                "fr": "Menhir de Carquitté"
               },
               "tip_5lang": {
                 "de": "Die prähistorischen Steine wirken im Regen geheimnisvoll, parken Sie sicher am Wegrand und wischen Sie nach der Tour die Bremsflanken ab, um Verschleiß zu mindern.",
                 "hu": "A történelem előtti kövek titokzatosak az esőben, ezért parkolj biztonságosan, a túra után pedig töröld le a felniket a sártól a fékek védelme érdekében.",
                 "ro": "Pietrele preistorice par misterioase pe ploaie, deci parcați în siguranță și ștergeți jantele de noroi după tur pentru a proteja sistemul de frânare.",
-                "en": "The prehistoric stones look mysterious in the rain, so park safely and remember to wipe the mud off your wheel rims after the ride to protect your brakes."
+                "en": "The prehistoric stones look mysterious in the rain, so park safely and remember to wipe the mud off your wheel rims after the ride to protect your brakes.",
+                "fr": "Les pierres préhistoriques paraissent mystérieuses sous la pluie ; garez‑vous en sécurité et pensez à essuyer la boue des jantes après la sortie pour protéger vos freins."
               }
             }
           ]
@@ -605,7 +670,8 @@
             "de": "Früh am Morgen starten wir bei frostigen Temperaturen an der Kirche; die Luft ist herrlich klar. Mittags radeln wir zum Schloss und zum Meer, wobei uns die Wintersonne leicht wärmt. Am Nachmittag erkunden wir die Kapellen im sanften Licht der tiefstehenden Sonne. Die Tour endet am Menhir, bevor es um 17:00 Uhr dunkel wird und die Kälte merklich zunimmt.",
             "hu": "Kora reggel, fagyos hőmérsékletben indulunk a templomtól; a levegő csodálatosan tiszta és friss. Délben a kastélyhoz és a tengerhez tekerünk, ahol a téli nap sugarai nyújtanak némi meleget. Délután a kápolnákat fedezzük fel az alacsonyan járó nap fényében. A túra a menhirnél zárul, mielőtt 17:00 körül besötétedne és hirtelen lehűlne a levegő.",
             "ro": "Pornim de la biserică dimineața devreme pe temperaturi de îngheț; aerul este minunat de curat și proaspăt. La prânz pedalăm spre castel și mare, unde soarele de iarnă ne încălzește. După-amiaza explorăm capelele în lumina slabă a soarelui. Turul se încheie la menhir înainte de lăsarea întunericului în jurul orei 17:00.",
-            "en": "Early in the morning, we start from the church in freezing temperatures; the air is wonderfully crisp. At noon, we cycle to the castle and the sea, warmed slightly by the winter sun. In the afternoon, we explore the chapels in the soft, low sunlight. The tour ends at the menhir before it gets dark around 17:00 and the chill deepens."
+            "en": "Early in the morning, we start from the church in freezing temperatures; the air is wonderfully crisp. At noon, we cycle to the castle and the sea, warmed slightly by the winter sun. In the afternoon, we explore the chapels in the soft, low sunlight. The tour ends at the menhir before it gets dark around 17:00 and the chill deepens.",
+            "fr": "Tôt le matin, nous partons de l'église par des températures glaciales ; l'air est merveilleusement vif. À midi, nous pédalons vers le château et la mer, réchauffés légèrement par le soleil d'hiver. L'après‑midi, nous explorons les chapelles sous une lumière douce et basse. La sortie se termine au menhir avant la tombée de la nuit vers 17:00, lorsque le froid se fait plus vif."
           },
           "stops": [
             {
@@ -613,13 +679,15 @@
                 "de": "Église Saint-Jean-Baptiste",
                 "hu": "Église Saint-Jean-Baptiste",
                 "ro": "Église Saint-Jean-Baptiste",
-                "en": "Église Saint-Jean-Baptiste"
+                "en": "Église Saint-Jean-Baptiste",
+                "fr": "Église Saint-Jean-Baptiste"
               },
               "tip_5lang": {
                 "de": "Wärmen Sie sich kurz im Inneren auf und tragen Sie gefütterte Handschuhe, um Ihre Finger am Lenker auch bei frostigem Fahrtwind beweglich und warm zu halten.",
                 "hu": "Melegedj fel kicsit odabent az indulás előtt, és viselj bélelt kesztyűt, hogy az ujjaid ne gémberedjenek el a kormányon a metsző menetszélben.",
                 "ro": "Încălziți-vă puțin în interior înainte de pornire și purtați mănuși căptușite pentru a vă menține degetele mobile pe ghidon în ciuda vântului înghețat.",
-                "en": "Warm up briefly inside before starting and wear thermal gloves to keep your fingers flexible on the handlebars against the freezing winter wind chill."
+                "en": "Warm up briefly inside before starting and wear thermal gloves to keep your fingers flexible on the handlebars against the freezing winter wind chill.",
+                "fr": "Réchauffez‑vous brièvement à l'intérieur avant de partir et portez des gants thermiques pour garder vos doigts flexibles sur le guidon face au froid mordant du vent hivernal."
               }
             },
             {
@@ -627,13 +695,15 @@
                 "de": "Château de Bonabry",
                 "hu": "Château de Bonabry",
                 "ro": "Château de Bonabry",
-                "en": "Château de Bonabry"
+                "en": "Château de Bonabry",
+                "fr": "Château de Bonabry"
               },
               "tip_5lang": {
                 "de": "Das Schlossgelände wirkt im Winterlicht erstarrt und ist ein tolles Fotomotiv, halten Sie die Pause jedoch kurz, um Ihre Körperwärme beim Radfahren nicht zu verlieren.",
                 "hu": "A kastélykert téli fényben olyan, mintha megállt volna az idő, ami remek fotótéma, de tartsd röviden a megállót, hogy ne hűlj ki teljesen a tekerés közben.",
                 "ro": "Domeniul castelului pare încremenit în lumina iernii oferind un subiect grozav pentru poze, dar mențineți oprirea scurtă pentru a nu vă pierde temperatura corporală.",
-                "en": "The castle grounds look frozen in time in the winter light, making for a great photo, but keep your stop short to maintain your body temperature while cycling."
+                "en": "The castle grounds look frozen in time in the winter light, making for a great photo, but keep your stop short to maintain your body temperature while cycling.",
+                "fr": "Les abords du château semblent figés dans le temps sous la lumière hivernale, offrant un beau sujet photo ; gardez cependant votre arrêt court pour préserver votre température corporelle pendant le vélo."
               }
             },
             {
@@ -641,13 +711,15 @@
                 "de": "Plage de la Granville",
                 "hu": "Plage de la Granville",
                 "ro": "Plage de la Granville",
-                "en": "Plage de la Granville"
+                "en": "Plage de la Granville",
+                "fr": "Plage de la Granville"
               },
               "tip_5lang": {
                 "de": "Die kalte Meeresbrise ist erfrischend, wobei ein Halstuch Sie schützt; achten Sie zudem auf vereiste Stellen auf dem Radweg, die direkt an der Küste vorkommen können.",
                 "hu": "A hideg tengeri szellő frissítő tekerés közben, egy csősál sokat segít, de ügyelj az esetleges jeges foltokra a közvetlenül a parton futó kerékpárúton.",
                 "ro": "Briza rece a mării este revigorantă, un fular fiind de mare ajutor, însă atenție la porțiunile înghețate de pe pista ce șerpuiește chiar pe malul mării.",
-                "en": "The cold sea breeze is refreshing while cycling, so use a neck gaiter for protection and watch out for icy patches on the path directly along the shore."
+                "en": "The cold sea breeze is refreshing while cycling, so use a neck gaiter for protection and watch out for icy patches on the path directly along the shore.",
+                "fr": "La brise froide de la mer est revigorante en pédalant, utilisez un tour de cou pour vous protéger et méfiez‑vous des plaques de verglas sur la piste le long du rivage."
               }
             },
             {
@@ -655,13 +727,15 @@
                 "de": "Chapelle Saint-Maurice",
                 "hu": "Chapelle Saint-Maurice",
                 "ro": "Chapelle Saint-Maurice",
-                "en": "Chapelle Saint-Maurice"
+                "en": "Chapelle Saint-Maurice",
+                "fr": "Chapelle Saint-Maurice"
               },
               "tip_5lang": {
                 "de": "Die Kapelle ist ein ruhiger Rückzugsort vor dem Winterwind, trinken Sie jedoch auch bei Kälte genug Wasser, um Ihre Ausdauer auf dem Rad für den Rest der Tour zu halten.",
                 "hu": "A kápolna csendes menedék a téli szél elől, de hidegben is igyál elegendő vizet, hogy megőrizd állóképességedet a kerékpáron a túra hátralévő részében is.",
                 "ro": "Capela este un refugiu liniștit împotriva vântului, dar beți suficientă apă chiar și pe frig pentru a vă menține rezistența pe bicicletă până la final.",
-                "en": "The chapel is a quiet retreat from the winter wind, but remember to drink enough water even in the cold to maintain your cycling stamina for the whole trip."
+                "en": "The chapel is a quiet retreat from the winter wind, but remember to drink enough water even in the cold to maintain your cycling stamina for the whole trip.",
+                "fr": "La chapelle est un refuge paisible contre le vent d'hiver, mais pensez à boire suffisamment même par temps froid pour maintenir votre endurance cycliste durant toute la sortie."
               }
             },
             {
@@ -669,13 +743,15 @@
                 "de": "Église Saint-Gobrien",
                 "hu": "Église Saint-Gobrien",
                 "ro": "Église Saint-Gobrien",
-                "en": "Église Saint-Gobrien"
+                "en": "Église Saint-Gobrien",
+                "fr": "Église Saint-Gobrien"
               },
               "tip_5lang": {
                 "de": "Nutzen Sie den Ort für eine Aufwärmphase und prüfen Sie unbedingt Ihre Beleuchtung, bevor Sie die letzte Etappe der Tour am späten Nachmittag antreten.",
                 "hu": "Használd a helyszínt egy rövid bemelegedésre, és mindenképpen ellenőrizd a lámpáidat a délutáni túra utolsó szakaszának megkezdése előtt a korai sötétedés miatt.",
                 "ro": "Folosiți locația pentru o scurtă încălzire și verificați-vă luminile înainte de a începe ultima etapă a turului de după-amiază, având în vedere amurgul timpuriu.",
-                "en": "Use this location for a quick warm-up and check your bike lights before starting the final leg of the afternoon tour as the sun begins to set early."
+                "en": "Use this location for a quick warm-up and check your bike lights before starting the final leg of the afternoon tour as the sun begins to set early.",
+                "fr": "Profitez de cet emplacement pour une courte remise en température et vérifiez vos lumières de vélo avant d'entamer la dernière étape de l'après‑midi, le soleil se couchant tôt."
               }
             },
             {
@@ -683,13 +759,15 @@
                 "de": "Menhir de Carquitté",
                 "hu": "Menhir de Carquitté",
                 "ro": "Menhir de Carquitté",
-                "en": "Menhir de Carquitté"
+                "en": "Menhir de Carquitté",
+                "fr": "Menhir de Carquitté"
               },
               "tip_5lang": {
                 "de": "Die prähistorische Stätte wirkt in der Winterdämmerung mystisch, ziehen Sie aber eine warme Jacke für die Rückfahrt an, da die Temperaturen nun drastisch sinken.",
                 "hu": "A történelem előtti helyszín misztikus a téli szürkületben, de vegyél fel egy meleg kabátot a hazaút előtt, mert a naplemente után hirtelen lehűl a levegő.",
                 "ro": "Situl preistoric pare mistic în amurgul de iarnă, dar puneți-vă o jachetă groasă înainte de a porni spre casă, deoarece temperaturile scad drastic după apus.",
-                "en": "The prehistoric site looks especially mystical in the winter twilight, but put on a warm jacket before heading home as the temperature will drop sharply now."
+                "en": "The prehistoric site looks especially mystical in the winter twilight, but put on a warm jacket before heading home as the temperature will drop sharply now.",
+                "fr": "Le site préhistorique semble particulièrement mystique au crépuscule hivernal ; enfilez une veste chaude avant de rentrer car la température va chuter nettement maintenant."
               }
             }
           ]
@@ -709,7 +787,8 @@
             "de": "Menhir de Carquitté",
             "hu": "Menhir de Carquitté",
             "ro": "Menhir de Carquitté",
-            "en": "Menhir de Carquitté"
+            "en": "Menhir de Carquitté",
+            "fr": "Menhir de Carquitté"
           },
           "coords": [
             -2.630079,
@@ -724,7 +803,8 @@
             "de": "Stehen Sie neben diesem alten megalithischen Stein, um sich mit der prähistorischen Bretagne zu verbinden, und tragen Sie feste Schuhe für den unebenen Boden.",
             "hu": "Álljon e mellé az ősi megalitikus kő mellé, hogy kapcsolódjon a történelem előtti Bretagne-hoz, és viseljen masszív cipőt az egyenetlen talaj miatt.",
             "ro": "Stați lângă această piatră megalitică antică pentru a vă conecta cu Bretania preistorică, purtând încălțăminte robustă, deoarece terenul poate fi neregulat.",
-            "en": "Stand beside this ancient megalithic stone to connect with prehistoric Brittany, wearing sturdy shoes as the surrounding ground can be uneven."
+            "en": "Stand beside this ancient megalithic stone to connect with prehistoric Brittany, wearing sturdy shoes as the surrounding ground can be uneven.",
+            "fr": "Tenez‑vous à côté de ce mégalithe ancien pour vous connecter à la Bretagne préhistorique ; portez des chaussures solides car le terrain environnant peut être inégal."
           }
         },
         {
@@ -732,7 +812,8 @@
             "de": "Chapelle Saint-Laurent",
             "hu": "Chapelle Saint-Laurent",
             "ro": "Chapelle Saint-Laurent",
-            "en": "Chapelle Saint-Laurent"
+            "en": "Chapelle Saint-Laurent",
+            "fr": "Chapelle Saint-Laurent"
           },
           "coords": [
             -2.61718,
@@ -747,7 +828,8 @@
             "de": "Genießen Sie die friedliche ländliche Umgebung dieser historischen Kapelle und kommen Sie früh, um den Morgennebel um die Steinmauern zu erleben.",
             "hu": "Élvezze a történelmi kápolna békés vidéki környezetét, és érkezzen korán, hogy megtapasztalja a kőfalakat gyakran körülvevő reggeli ködöt.",
             "ro": "Bucurați-vă de cadrul rural liniștit al acestei capele istorice, ajungând devreme pentru a experimenta ceața matinală din jurul zidurilor de piatră.",
-            "en": "Enjoy the peaceful countryside setting of this historic chapel, arriving early to experience the morning mist that often surrounds the stone walls."
+            "en": "Enjoy the peaceful countryside setting of this historic chapel, arriving early to experience the morning mist that often surrounds the stone walls.",
+            "fr": "Appréciez le cadre campagnard paisible de cette chapelle historique, en arrivant tôt pour vivre la brume matinale qui entoure souvent les murs de pierre."
           }
         },
         {
@@ -755,7 +837,8 @@
             "de": "Église Saint-Gobrien",
             "hu": "Église Saint-Gobrien",
             "ro": "Église Saint-Gobrien",
-            "en": "Église Saint-Gobrien"
+            "en": "Église Saint-Gobrien",
+            "fr": "Église Saint-Gobrien"
           },
           "coords": [
             -2.60955,
@@ -770,7 +853,8 @@
             "de": "Treten Sie in dieses ländliche Heiligtum ein, um die traditionelle bretonische religiöse Architektur zu erleben und auf die Steinarmaturen zu achten.",
             "hu": "Lépjen be ebbe a vidéki szentélybe, hogy megtapasztalja a hagyományos breton vallási építészetet, és figyeljen a történelmi kőberendezésekre.",
             "ro": "Intrați în acest sanctuar rural pentru a experimenta arhitectura religioasă tradițională bretonă, căutând cu atenție elementele istorice din piatră.",
-            "en": "Step into this rural sanctuary to experience traditional Breton religious architecture, keeping an eye out for the historic stone fixtures."
+            "en": "Step into this rural sanctuary to experience traditional Breton religious architecture, keeping an eye out for the historic stone fixtures.",
+            "fr": "Pénétrez dans ce sanctuaire rural pour découvrir l'architecture religieuse bretonne traditionnelle, en gardant un œil sur les éléments de pierre historiques."
           }
         },
         {
@@ -778,7 +862,8 @@
             "de": "Chapelle Saint-Maurice",
             "hu": "Chapelle Saint-Maurice",
             "ro": "Chapelle Saint-Maurice",
-            "en": "Chapelle Saint-Maurice"
+            "en": "Chapelle Saint-Maurice",
+            "fr": "Chapelle Saint-Maurice"
           },
           "coords": [
             -2.633353,
@@ -793,7 +878,8 @@
             "de": "Besuchen Sie diese charmante Küstenkapelle, die das tiefe lokale maritime Erbe widerspiegelt, und treten Sie leise ein, um die Atmosphäre zu genießen.",
             "hu": "Látogasson el ebbe a bájos tengerparti kápolnába, amely a helyi tengerészeti örökséget tükrözi, és lépjen be csendben az intim hangulatért.",
             "ro": "Vizitați această capelă de coastă fermecătoare care reflectă moștenirea maritimă locală, pășind ușor înăuntru pentru a-i aprecia atmosfera intimă.",
-            "en": "Visit this charming coastal chapel that reflects profound local maritime heritage, stepping inside gently to appreciate its intimate atmosphere."
+            "en": "Visit this charming coastal chapel that reflects profound local maritime heritage, stepping inside gently to appreciate its intimate atmosphere.",
+            "fr": "Visitez cette charmante chapelle côtière qui reflète le profond patrimoine maritime local, et entrez doucement pour apprécier son atmosphère intime."
           }
         },
         {
@@ -801,7 +887,8 @@
             "de": "Anse de Morieux",
             "hu": "Anse de Morieux",
             "ro": "Anse de Morieux",
-            "en": "Anse de Morieux"
+            "en": "Anse de Morieux",
+            "fr": "Anse de Morieux"
           },
           "coords": [
             -2.644773,
@@ -816,7 +903,8 @@
             "de": "Genießen Sie den Panoramablick auf die Bucht von diesem natürlichen Wahrzeichen aus und bringen Sie eine Kamera mit, um das tolle Licht einzufangen.",
             "hu": "Gyönyörködjön a tengeröböl panorámájában ebből a természeti látványosságból, és hozzon magával fényképezőgépet a lenyűgöző fények megörökítéséhez.",
             "ro": "Admirați vederea panoramică a golfului de la acest punct de reper natural, aducând un aparat foto pentru a surprinde lumina spectaculoasă a coastei.",
-            "en": "Take in the panoramic bay views from this natural landmark, bringing a camera to capture the stunning coastal light at midday."
+            "en": "Take in the panoramic bay views from this natural landmark, bringing a camera to capture the stunning coastal light at midday.",
+            "fr": "Admirez la vue panoramique sur la baie depuis ce site naturel, emportez un appareil photo pour capturer la lumière côtière spectaculaire à midi."
           }
         },
         {
@@ -824,7 +912,8 @@
             "de": "Plage de Lermot",
             "hu": "Plage de Lermot",
             "ro": "Plage de Lermot",
-            "en": "Plage de Lermot"
+            "en": "Plage de Lermot",
+            "fr": "Plage de Lermot"
           },
           "coords": [
             -2.661932,
@@ -839,7 +928,8 @@
             "de": "Entdecken Sie an diesem malerischen Ort die wildere Seite der bretonischen Küste und achten Sie auf die wechselnden Gezeiten, bevor Sie am Wasser spazieren.",
             "hu": "Fedezze fel a breton tengerpart vadabb oldalát ezen a festői helyen, és figyeljen a változó árapályra, mielőtt a víz közelében sétálna.",
             "ro": "Descoperiți latura mai sălbatică a coastei bretone în acest loc pitoresc, fiind atenți la schimbările mareelor înainte de a vă plimba pe mal.",
-            "en": "Discover the wilder side of the Breton coastline at this scenic spot, paying attention to the changing tides before walking near the water."
+            "en": "Discover the wilder side of the Breton coastline at this scenic spot, paying attention to the changing tides before walking near the water.",
+            "fr": "Découvrez le côté plus sauvage du littoral breton à cet endroit panoramique, en faisant attention aux marées changeantes avant de marcher près de l'eau."
           }
         },
         {
@@ -847,7 +937,8 @@
             "de": "Église Saint-Jean-Baptiste",
             "hu": "Église Saint-Jean-Baptiste",
             "ro": "Église Saint-Jean-Baptiste",
-            "en": "Église Saint-Jean-Baptiste"
+            "en": "Église Saint-Jean-Baptiste",
+            "fr": "Église Saint-Jean-Baptiste"
           },
           "coords": [
             -2.668588,
@@ -862,7 +953,8 @@
             "de": "Erkunden Sie das historische Innere dieser klassischen Pfarrkirche, achten Sie auf die aufwendig geschnitzten Details und verhalten Sie sich ruhig.",
             "hu": "Fedezze fel ennek a klasszikus plébániatemplomnak a történelmi belsejét, figyelje meg a bonyolult faragott részleteket, és érkezzen csendben.",
             "ro": "Explorați interiorul istoric al acestei biserici parohiale clasice, observând detaliile sculptate complicat și pășind în liniște în timpul vizitei.",
-            "en": "Explore the historic interior of this classic parish church, noting the intricately carved details and arriving quietly during late afternoon."
+            "en": "Explore the historic interior of this classic parish church, noting the intricately carved details and arriving quietly during late afternoon.",
+            "fr": "Explorez l'intérieur historique de cette église paroissiale classique, en notant les détails finement sculptés et en arrivant doucement en fin d'après‑midi."
           }
         },
         {
@@ -870,7 +962,8 @@
             "de": "Château de Bonabry",
             "hu": "Château de Bonabry",
             "ro": "Château de Bonabry",
-            "en": "Château de Bonabry"
+            "en": "Château de Bonabry",
+            "fr": "Château de Bonabry"
           },
           "coords": [
             -2.651552,
@@ -885,7 +978,8 @@
             "de": "Bewundern Sie die elegante Architektur dieses historischen Schlosses und machen Sie einen friedlichen Morgenspaziergang über das gepflegte Gelände.",
             "hu": "Csodálja meg ennek a történelmi kastélynak az elegáns építészetét, és tegyen egy békés reggeli sétát a szépen karbantartott birtokon.",
             "ro": "Admirați arhitectura elegantă a acestui castel istoric și faceți o plimbare matinală liniștită pe domeniul său bine conservat.",
-            "en": "Admire the elegant architecture of this historic castle and take a peaceful morning stroll around its well-preserved grounds."
+            "en": "Admire the elegant architecture of this historic castle and take a peaceful morning stroll around its well-preserved grounds.",
+            "fr": "Admirez l'architecture élégante de ce château historique et faites une paisible promenade matinale autour de ses abords bien conservés."
           }
         }
       ],
@@ -893,7 +987,8 @@
         "de": "Fahren Sie früh zum prähistorischen Menhir de Carquitté und weiter zur ländlichen Chapelle Saint-Laurent. Mittags erkunden Sie die Église Saint-Gobrien und die Chapelle Saint-Maurice. Nachmittags genießen Sie die Aussicht an der Anse de Morieux und entspannen am Plage de Lermot. Beenden Sie den Tag am Château de Bonabry.",
         "hu": "Autózzon kora reggel a történelem előtti Menhir de Carquitté-hez, majd a Chapelle Saint-Laurent-hez. A déli felfedezés az Église Saint-Gobrien-t és a tengerparti Chapelle Saint-Maurice-t érinti. A délután csúcspontjai az Anse de Morieux és a Plage de Lermot. A napot a fenséges Château de Bonabry-nál zárja.",
         "ro": "Conduceți devreme spre preistoricul Menhir de Carquitté, continuând spre Chapelle Saint-Laurent. La prânz explorați biserica Saint-Gobrien și Chapelle Saint-Maurice. Punctele forte ale după-amiezii includ Anse de Morieux și relaxarea la Plage de Lermot. Încheiați ziua la grandiosul Château de Bonabry.",
-        "en": "Drive early to the prehistoric Menhir de Carquitté, continuing to the rural Chapelle Saint-Laurent. Midday exploration covers Église Saint-Gobrien and the coastal Chapelle Saint-Maurice. Afternoon highlights include breathtaking views at Anse de Morieux and relaxing at Plage de Lermot. End the day at Église Saint-Jean-Baptiste and the grand Château de Bonabry."
+        "en": "Drive early to the prehistoric Menhir de Carquitté, continuing to the rural Chapelle Saint-Laurent. Midday exploration covers Église Saint-Gobrien and the coastal Chapelle Saint-Maurice. Afternoon highlights include breathtaking views at Anse de Morieux and relaxing at Plage de Lermot. End the day at Église Saint-Jean-Baptiste and the grand Château de Bonabry.",
+        "fr": "Conduisez tôt jusqu'au préhistorique Menhir de Carquitté, en poursuivant vers la rurale Chapelle Saint-Laurent. L'exploration de midi couvre l'Église Saint-Gobrien et la côtière Chapelle Saint-Maurice. L'après-midi met en valeur des vues à couper le souffle à l'Anse de Morieux et la détente à la Plage de Lermot. Terminez la journée à l'Église Saint-Jean-Baptiste et au grand Château de Bonabry."
       },
       "variants": {
         "rainy": {
@@ -901,7 +996,8 @@
             "de": "Wir starten unsere Fahrt am Menhir, während der Regen gegen die Scheiben trommelt. Mittags besuchen wir die Kapellen im Hinterland, die bequemen Schutz vor dem Wetter bieten. Am Nachmittag fahren wir an die Küste und beobachten das wilde Meer aus dem trockenen Auto. Der Tag endet am Schloss, wo die beleuchteten Fenster im Regen besonders einladend und warm wirken.",
             "hu": "A túrát a menhirnél kezdjük, miközben az eső a szélvédőn kopog. Délben a szárazföld belseje felé vesszük az irányt, meglátogatva a kápolnákat, amelyek védelmet nyújtanak. Délután a tengerparthoz autózunk, hogy a kocsi melegéből csodáljuk a haragos hullámokat. A nap a kastélynál zárul, ahol az esti fények az esőben különösen hívogatóak.",
             "ro": "Începem călătoria la menhir în timp ce ploaia bate în parbriz. La prânz vizităm capelele din interior care oferă un adăpost confortabil împotriva vremii. După-amiaza conducem spre coastă pentru a admira marea agitată din mașina uscată. Ziua se încheie la castel, unde ferestrele luminate par deosebit de primitoare pe timp de ploaie.",
-            "en": "We start our drive at the menhir while the rain drums against the windows. At noon, we visit the inland chapels and churches, which offer a comfortable shelter from the weather. In the afternoon, we drive to the coast to watch the wild sea from the dry car. The day ends at the castle, where the illuminated windows look especially inviting in the rain."
+            "en": "We start our drive at the menhir while the rain drums against the windows. At noon, we visit the inland chapels and churches, which offer a comfortable shelter from the weather. In the afternoon, we drive to the coast to watch the wild sea from the dry car. The day ends at the castle, where the illuminated windows look especially inviting in the rain.",
+            "fr": "Nous commençons notre trajet au menhir tandis que la pluie tambourine contre les vitres. À midi, nous visitons les chapelles et églises de l'intérieur des terres, qui offrent un abri confortable par mauvais temps. L'après-midi, nous nous rendons sur la côte pour observer la mer déchaînée depuis la voiture au sec. La journée se termine au château, dont les fenêtres illuminées sont particulièrement accueillantes sous la pluie."
           },
           "stops": [
             {
@@ -909,13 +1005,15 @@
                 "de": "Menhir de Carquitté",
                 "hu": "Menhir de Carquitté",
                 "ro": "Menhir de Carquitté",
-                "en": "Menhir de Carquitté"
+                "en": "Menhir de Carquitté",
+                "fr": "Menhir de Carquitté"
               },
               "tip_5lang": {
                 "de": "Betrachten Sie den gewaltigen Stein direkt vom Parkplatz aus und nutzen Sie ein Fernglas, um die Details des Menhirs trocken und geschützt aus dem Auto zu sehen.",
                 "hu": "Csodáld meg a hatalmas követ közvetlenül a parkolóból, egy távcsővel pedig szárazon, az autóból is alaposan megfigyelheted a menhir minden apró részletét.",
                 "ro": "Admirați piatra uriașă direct din parcare și folosiți un binoclu pentru a vedea detaliile menhirului stând la uscat și protejat în interiorul mașinii.",
-                "en": "Admire the massive stone directly from the parking area, using binoculars to see the details of the menhir while staying dry and protected inside your car."
+                "en": "Admire the massive stone directly from the parking area, using binoculars to see the details of the menhir while staying dry and protected inside your car.",
+                "fr": "Admirez la pierre massive directement depuis l'aire de stationnement, utilisez des jumelles pour voir les détails du menhir tout en restant au sec et protégé à l'intérieur de votre voiture."
               }
             },
             {
@@ -923,13 +1021,15 @@
                 "de": "Chapelle Saint-Laurent",
                 "hu": "Chapelle Saint-Laurent",
                 "ro": "Chapelle Saint-Laurent",
-                "en": "Chapelle Saint-Laurent"
+                "en": "Chapelle Saint-Laurent",
+                "fr": "Chapelle Saint-Laurent"
               },
               "tip_5lang": {
                 "de": "Die Kapelle bietet einen wunderbaren, trockenen Rückzugsort im Regen, parken Sie jedoch nah am Eingang, um den Weg durch den Guss so kurz wie möglich zu halten.",
                 "hu": "A kápolna csodás, száraz menedéket nyújt az elmélyüléshez az esős időben, de parkolj minél közelebb a bejárathoz, hogy lerövidítsd az esőben megtett utat.",
                 "ro": "Capela oferă un refugiu minunat și uscat pe timp de ploaie, deci parcați aproape de intrare pentru a scurta pe cât posibil drumul prin ploaia de afară.",
-                "en": "The chapel offers a wonderful, dry retreat in the rain, so park as close to the entrance as possible to keep your walk through the downpour very short."
+                "en": "The chapel offers a wonderful, dry retreat in the rain, so park as close to the entrance as possible to keep your walk through the downpour very short.",
+                "fr": "La chapelle offre un merveilleux refuge sec sous la pluie ; garez-vous le plus près possible de l'entrée pour que votre marche sous l'averse soit très courte."
               }
             },
             {
@@ -937,13 +1037,15 @@
                 "de": "Église Saint-Gobrien",
                 "hu": "Église Saint-Gobrien",
                 "ro": "Église Saint-Gobrien",
-                "en": "Église Saint-Gobrien"
+                "en": "Église Saint-Gobrien",
+                "fr": "Église Saint-Gobrien"
               },
               "tip_5lang": {
                 "de": "Nutzen Sie den Halt für eine Pause im Trockenen und achten Sie beim Aussteigen unbedingt auf tiefe Pfützen, die sich auf dem unbefestigten Boden bilden können.",
                 "hu": "Használd ki a megállót egy száraz pihenőre a templomban, de kiszálláskor ügyelj a mély tócsákra, amelyek a burkolatlan talajon bárhol keletkezhetnek.",
                 "ro": "Profită de oprire pentru o pauză la uscat în biserică, iar la coborâre fii atent la bălțile adânci care se pot forma rapid pe terenul neasfaltat din jur.",
-                "en": "Use this stop for a dry break inside and be sure to watch out for deep puddles that can easily form on the unpaved ground when getting out of the car."
+                "en": "Use this stop for a dry break inside and be sure to watch out for deep puddles that can easily form on the unpaved ground when getting out of the car.",
+                "fr": "Profitez de cet arrêt pour une pause à l'abri à l'intérieur et faites attention aux grosses flaques qui peuvent facilement se former sur le sol non revêtu en sortant de la voiture."
               }
             },
             {
@@ -951,13 +1053,15 @@
                 "de": "Chapelle Saint-Maurice",
                 "hu": "Chapelle Saint-Maurice",
                 "ro": "Chapelle Saint-Maurice",
-                "en": "Chapelle Saint-Maurice"
+                "en": "Chapelle Saint-Maurice",
+                "fr": "Chapelle Saint-Maurice"
               },
               "tip_5lang": {
                 "de": "Genießen Sie die friedliche Stille in der Kapelle und schütteln Sie Ihren Schirm vor dem Einsteigen ins Auto gut ab, um die Sitze heute trocken zu halten.",
                 "hu": "Élvezd a kápolna békés csendjét az eső elől menekülve, de alaposan rázd le az esernyődet, mielőtt visszaszállnál a kocsiba, hogy száraz maradjon az utastér.",
                 "ro": "Bucurați-vă de liniștea din capelă la adăpost de ploaie și scuturați bine umbrela înainte de a urca înapoi pentru a menține interiorul mașinii uscat.",
-                "en": "Enjoy the peaceful silence inside the chapel away from the rain, and shake your umbrella thoroughly before getting back in to keep the car seats dry."
+                "en": "Enjoy the peaceful silence inside the chapel away from the rain, and shake your umbrella thoroughly before getting back in to keep the car seats dry.",
+                "fr": "Appréciez le silence paisible à l'intérieur de la chapelle à l'abri de la pluie, et secouez bien votre parapluie avant de remonter pour garder les sièges de la voiture secs."
               }
             },
             {
@@ -965,13 +1069,15 @@
                 "de": "Anse de Morieux",
                 "hu": "Anse de Morieux",
                 "ro": "Anse de Morieux",
-                "en": "Anse de Morieux"
+                "en": "Anse de Morieux",
+                "fr": "Anse de Morieux"
               },
               "tip_5lang": {
                 "de": "Beobachten Sie die Wellen und den Nebel bequem von der Küstenstraße aus und nutzen Sie die Scheibenwischer auf höchster Stufe für eine optimale Sicht auf die Bucht.",
                 "hu": "Figyeld a hullámok játékát és a ködöt kényelmesen a parti útról, és használd az ablaktörlőt a legmagasabb fokozaton az öbölre nyíló tökéletes kilátáshoz.",
                 "ro": "Observați jocul valurilor și ceața confortabil de pe drumul de coastă, folosind ștergătoarele la maximum pentru o vizibilitate optimă asupra întregului golf.",
-                "en": "Watch the waves and the mist comfortably from the coastal road, and use your windshield wipers on high for the best possible view of the bay from the car."
+                "en": "Watch the waves and the mist comfortably from the coastal road, and use your windshield wipers on high for the best possible view of the bay from the car.",
+                "fr": "Regardez les vagues et la brume confortablement depuis la route côtière, et utilisez vos essuie-glaces en position maximale pour la meilleure vue possible de la baie depuis la voiture."
               }
             },
             {
@@ -979,13 +1085,15 @@
                 "de": "Plage de Lermot",
                 "hu": "Plage de Lermot",
                 "ro": "Plage de Lermot",
-                "en": "Plage de Lermot"
+                "en": "Plage de Lermot",
+                "fr": "Plage de Lermot"
               },
               "tip_5lang": {
                 "de": "Der Strand wirkt bei Regen mystisch, legen Sie jedoch eine Gummimatte in den Fußraum Ihres Autos, um hartnäckigen Schlamm im Innenraum zu vermeiden.",
                 "hu": "A strand misztikus látványt nyújt esőben, de érdemes gumiszőnyeget tenni a lábtérbe, hogy elkerüld a sár behordását az autó kárpitjára a rövid séta után.",
                 "ro": "Plaja pare mistică pe ploaie, dar puneți un covoraș de cauciuc în mașină pentru a evita murdărirea interiorului cu noroi după scurta plimbare pe mal.",
-                "en": "The beach looks mystical in the rain, but you should place a rubber mat in the footwell to avoid bringing mud into the car's interior after your walk."
+                "en": "The beach looks mystical in the rain, but you should place a rubber mat in the footwell to avoid bringing mud into the car's interior after your walk.",
+                "fr": "La plage a un aspect mystique sous la pluie, mais placez un tapis en caoutchouc dans l'avanier pour éviter d'apporter de la boue dans l'habitacle après votre promenade."
               }
             },
             {
@@ -993,13 +1101,15 @@
                 "de": "Église Saint-Jean-Baptiste",
                 "hu": "Église Saint-Jean-Baptiste",
                 "ro": "Église Saint-Jean-Baptiste",
-                "en": "Église Saint-Jean-Baptiste"
+                "en": "Église Saint-Jean-Baptiste",
+                "fr": "Église Saint-Jean-Baptiste"
               },
               "tip_5lang": {
                 "de": "Bewundern Sie die Details im Inneren und parken Sie auf befestigten Flächen, um bei dem starken Regen nicht auf dem aufgeweichten Boden steckenzubleiben.",
                 "hu": "Csodáld meg a belső részleteket a száraz templomban, de parkolj szilárd burkolatú felületen, hogy ne akadj el a felázott talajon a nagy esőzés idején.",
                 "ro": "Admirați detaliile interioare la uscat și parcați pe suprafețe pavate pentru a nu rămâne blocat pe terenul moale din cauza ploii abundente de astăzi.",
-                "en": "Admire the interior details in the dry, and be sure to park on paved surfaces to avoid getting stuck on soft ground during this heavy winter rain."
+                "en": "Admire the interior details in the dry, and be sure to park on paved surfaces to avoid getting stuck on soft ground during this heavy winter rain.",
+                "fr": "Admirez les détails intérieurs au sec, et veillez à vous garer sur des surfaces pavées pour éviter de vous enliser sur un sol mou pendant cette forte pluie hivernale."
               }
             },
             {
@@ -1007,13 +1117,15 @@
                 "de": "Château de Bonabry",
                 "hu": "Château de Bonabry",
                 "ro": "Château de Bonabry",
-                "en": "Château de Bonabry"
+                "en": "Château de Bonabry",
+                "fr": "Château de Bonabry"
               },
               "tip_5lang": {
                 "de": "Das beleuchtete Schloss im Regen ist ein prachtvoller Abschluss Ihrer Fahrt und bietet die ideale Gelegenheit, dem Wetter für längere Zeit zu entkommen.",
                 "hu": "A kivilágított kastély az esőben pompás lezárása az utazásodnak, és remek lehetőséget kínál, hogy hosszabb időre menedéket találj az esős időjárás elől.",
                 "ro": "Castelul iluminat pe ploaie este un final grandios pentru călătorie, oferind ocazia ideală de a scăpa de vremea urâtă pentru o perioadă mai lungă de timp.",
-                "en": "The illuminated castle in the rain is a grand finale to your drive and offers the perfect opportunity to escape the weather for a longer period at the end."
+                "en": "The illuminated castle in the rain is a grand finale to your drive and offers the perfect opportunity to escape the weather for a longer period at the end.",
+                "fr": "Le château illuminé sous la pluie est un grand final à votre trajet et offre l'occasion parfaite de s'abriter du mauvais temps plus longtemps en fin de journée."
               }
             }
           ]
@@ -1023,7 +1135,8 @@
             "de": "Wir starten unsere Wintertour am Menhir, während die Heizung im Auto für Gemütlichkeit sorgt. Mittags erkunden wir die Kapellen im Hinterland, die in der klaren Winterluft besonders friedlich wirken. Am Nachmittag genießen wir die Aussicht auf die frostige Küste durch das Autofenster. Der Tag endet am Schloss bei Einbruch der Dunkelheit um 17:00 Uhr im goldenen Licht der Scheinwerfer.",
             "hu": "A téli autós túrát a menhirnél kezdjük, miközben a fűtés kellemes meleget varázsol az autóba. Délben a szárazföldi kápolnákat fedezzük fel, amelyek a tiszta téli levegőben békések. Délután a fagyos tengerparti kilátást élvezzük az autó ablakán keresztül. A nap a kastélynál ér véget 17:00 körül, a fényszórók aranyló fényében a sötétedéskor.",
             "ro": "Începem turul de iarnă la menhir în timp ce încălzirea din mașină creează o atmosferă plăcută. La prânz explorăm capelele din interior care par liniștite în aerul curat. După-amiaza savurăm priveliștea coastei înghețate prin fereastra mașinii. Ziua se încheie la castel în jurul orei 17:00 în lumina aurie a farurilor la lăsarea serii.",
-            "en": "We start our winter tour at the menhir while the car's heater creates a cozy atmosphere. At noon, we explore the inland chapels, which look peaceful in the crisp winter air. In the afternoon, we enjoy the view of the frosty coast through the car window. The day ends at the castle around 17:00 in the golden glow of the headlights as darkness falls."
+            "en": "We start our winter tour at the menhir while the car's heater creates a cozy atmosphere. At noon, we explore the inland chapels, which look peaceful in the crisp winter air. In the afternoon, we enjoy the view of the frosty coast through the car window. The day ends at the castle around 17:00 in the golden glow of the headlights as darkness falls.",
+            "fr": "Nous commençons notre visite hivernale au menhir tandis que le chauffage de la voiture crée une atmosphère chaleureuse. À midi, nous explorons les chapelles intérieures, qui paraissent paisibles dans l'air vif de l'hiver. L'après-midi, nous profitons de la vue de la côte givrée à travers la vitre de la voiture. La journée se termine au château vers 17:00 dans l'éclat doré des phares alors que l'obscurité tombe."
           },
           "stops": [
             {
@@ -1031,13 +1144,15 @@
                 "de": "Menhir de Carquitté",
                 "hu": "Menhir de Carquitté",
                 "ro": "Menhir de Carquitté",
-                "en": "Menhir de Carquitté"
+                "en": "Menhir de Carquitté",
+                "fr": "Menhir de Carquitté"
               },
               "tip_5lang": {
                 "de": "Betrachten Sie den Stein im klaren Winterlicht direkt vom warmen Fahrersitz aus, ein schneller Schnappschuss durch das Fenster schont Ihre Finger vor dem Frost.",
                 "hu": "Csodáld meg a követ a tiszta téli fényben közvetlenül a meleg vezetőülésből, egy gyors fotó az ablakon keresztül pedig megkíméli az ujjaidat a kinti fagyos széltől.",
                 "ro": "Admirați piatra în lumina clară a iernii direct din scaunul cald al șoferului, o fotografie rapidă prin fereastră protejându-vă degetele de gerul de afară.",
-                "en": "Admire the stone in the clear winter light directly from your warm driver's seat; a quick photo through the window will save your fingers from the biting frost."
+                "en": "Admire the stone in the clear winter light directly from your warm driver's seat; a quick photo through the window will save your fingers from the biting frost.",
+                "fr": "Admirez la pierre à la lumière claire de l'hiver directement depuis votre siège conducteur chauffé ; une photo rapide à travers la vitre préservera vos doigts du gel mordant."
               }
             },
             {
@@ -1045,13 +1160,15 @@
                 "de": "Chapelle Saint-Laurent",
                 "hu": "Chapelle Saint-Laurent",
                 "ro": "Chapelle Saint-Laurent",
-                "en": "Chapelle Saint-Laurent"
+                "en": "Chapelle Saint-Laurent",
+                "fr": "Chapelle Saint-Laurent"
               },
               "tip_5lang": {
                 "de": "Die Kapelle bietet eine besinnliche Atmosphäre vor dem Winterwind, tragen Sie jedoch feste Winterschuhe für den oft eisigen Weg vom Parkplatz zum Eingang.",
                 "hu": "A kápolna meghitt hangulata védelmet nyújt a hideg téli szél elől, de viselj stabil téli cipőt a parkolótól a bejáratig vezető, gyakran jeges útszakaszon.",
                 "ro": "Atmosfera capelei oferă protecție împotriva vântului rece de iarnă, dar purtați ghete de iarnă pentru drumul adesea înghețat din parcare până la intrare.",
-                "en": "The chapel's intimate atmosphere offers protection from the winter wind, but wear sturdy winter shoes for the often icy path from the parking lot to the door."
+                "en": "The chapel's intimate atmosphere offers protection from the winter wind, but wear sturdy winter shoes for the often icy path from the parking lot to the door.",
+                "fr": "L'atmosphère intime de la chapelle protège du vent hivernal, mais portez des chaussures d'hiver solides pour le chemin souvent verglacé entre le parking et la porte."
               }
             },
             {
@@ -1059,13 +1176,15 @@
                 "de": "Église Saint-Gobrien",
                 "hu": "Église Saint-Gobrien",
                 "ro": "Église Saint-Gobrien",
-                "en": "Église Saint-Gobrien"
+                "en": "Église Saint-Gobrien",
+                "fr": "Église Saint-Gobrien"
               },
               "tip_5lang": {
                 "de": "Besuchen Sie die Kirche für Momente der Ruhe und achten Sie auf die Straßenverhältnisse im Hinterland, die besonders morgens stellenweise glatt sein können.",
                 "hu": "Látogasd meg a templomot a téli nyugalomért, de ügyelj az útviszonyokra a szárazföld belsejében, ahol a hajnali fagy miatt reggelente csúszós lehet az aszfalt.",
                 "ro": "Vizitați biserica pentru momente de liniște și fiți atenți la condițiile de drum din interior, deoarece asfaltul poate fi alunecos în special dimineața.",
-                "en": "Visit the church for moments of peace and watch the road conditions inland, as the asphalt can be quite slippery in certain spots during the cold mornings."
+                "en": "Visit the church for moments of peace and watch the road conditions inland, as the asphalt can be quite slippery in certain spots during the cold mornings.",
+                "fr": "Visitez l'église pour des instants de paix et surveillez l'état des routes à l'intérieur des terres, car l'asphalte peut être assez glissant à certains endroits lors des matins froids."
               }
             },
             {
@@ -1073,13 +1192,15 @@
                 "de": "Chapelle Saint-Maurice",
                 "hu": "Chapelle Saint-Maurice",
                 "ro": "Chapelle Saint-Maurice",
-                "en": "Chapelle Saint-Maurice"
+                "en": "Chapelle Saint-Maurice",
+                "fr": "Chapelle Saint-Maurice"
               },
               "tip_5lang": {
                 "de": "Ein kurzer Stopp an dieser Kapelle belebt in der kalten Luft, nutzen Sie die Standheizung, damit das Auto während Ihres kurzen Besuchs angenehm warm bleibt.",
                 "hu": "Egy rövid megálló ennél a kápolnánál felfrissít a hideg téli levegőben, érdemes az autó fűtését úgy beállítani, hogy az utastér meleg maradjon a látogatás alatt.",
                 "ro": "O scurtă oprire la această capelă vă va revigora în aerul rece, fiind util să folosiți încălzirea pentru ca mașina să rămână caldă în timpul vizitei.",
-                "en": "A short stop at this chapel is refreshing in the cold air; use your car's heater settings so the interior stays pleasantly warm during your brief visit."
+                "en": "A short stop at this chapel is refreshing in the cold air; use your car's heater settings so the interior stays pleasantly warm during your brief visit.",
+                "fr": "Un court arrêt à cette chapelle est vivifiant dans l'air froid ; réglez le chauffage de votre voiture pour que l'habitacle reste agréablement chaud pendant votre brève visite."
               }
             },
             {
@@ -1087,13 +1208,15 @@
                 "de": "Anse de Morieux",
                 "hu": "Anse de Morieux",
                 "ro": "Anse de Morieux",
-                "en": "Anse de Morieux"
+                "en": "Anse de Morieux",
+                "fr": "Anse de Morieux"
               },
               "tip_5lang": {
                 "de": "Die frostige Bucht wirkt im Winterlicht unwirklich schön, parken Sie mit Blick auf das Meer, um die Aussicht geschützt aus dem warmen Auto genießen zu können.",
                 "hu": "A fagyos öböl valószerűtlenül szép a téli fényben, ezért parkolj a tenger felé nézve, hogy védett helyről élvezhesd a pazar kilátást a meleg utastérből.",
                 "ro": "Golful înghețat pare ireal de frumos în lumina iernii, deci parcați cu fața spre mare pentru a savura priveliștea dintr-un loc cald și protejat.",
-                "en": "The frosty bay looks unrealistically beautiful in the winter light, so park facing the sea to enjoy the view from the warmth of your sheltered car."
+                "en": "The frosty bay looks unrealistically beautiful in the winter light, so park facing the sea to enjoy the view from the warmth of your sheltered car.",
+                "fr": "La baie givrée est d'une beauté presque irréelle en lumière d'hiver ; garez-vous face à la mer pour profiter de la vue depuis la chaleur de votre voiture abritée."
               }
             },
             {
@@ -1101,13 +1224,15 @@
                 "de": "Plage de Lermot",
                 "hu": "Plage de Lermot",
                 "ro": "Plage de Lermot",
-                "en": "Plage de Lermot"
+                "en": "Plage de Lermot",
+                "fr": "Plage de Lermot"
               },
               "tip_5lang": {
                 "de": "Ein zügiger Spaziergang am einsamen Strand macht den Kopf frei, befreien Sie Ihre Schuhe gründlich von Sand und Salz, bevor Sie wieder in den Wagen steigen.",
                 "hu": "Egy tempós séta a néptelen téli parton felfrissít, de alaposan tisztítsd meg a cipődet a homoktól és a sótól, mielőtt visszaszállnál a meleg autóba.",
                 "ro": "O plimbare rapidă pe plaja pustie vă va limpezi mintea, însă curățați bine încălțămintea de nisip și sare înainte de a urca înapoi în mașina caldă.",
-                "en": "A brisk walk along the deserted beach clears the mind, but remember to clean sand and salt from your shoes before getting back into your warm vehicle."
+                "en": "A brisk walk along the deserted beach clears the mind, but remember to clean sand and salt from your shoes before getting back into your warm vehicle.",
+                "fr": "Une promenade tonique le long de la plage déserte clarifie l'esprit, mais pensez à nettoyer le sable et le sel de vos chaussures avant de remonter dans votre véhicule chauffé."
               }
             },
             {
@@ -1115,13 +1240,15 @@
                 "de": "Église Saint-Jean-Baptiste",
                 "hu": "Église Saint-Jean-Baptiste",
                 "ro": "Église Saint-Jean-Baptiste",
-                "en": "Église Saint-Jean-Baptiste"
+                "en": "Église Saint-Jean-Baptiste",
+                "fr": "Église Saint-Jean-Baptiste"
               },
               "tip_5lang": {
                 "de": "Die Kirche strahlt in der Winterdämmerung Ruhe aus, prüfen Sie Frostschutz und Wischwasser für die Rückfahrt bei den nun sinkenden Temperaturen am Abend.",
                 "hu": "A templom különleges nyugalmat áraszt a téli szürkületben, de ellenőrizd a fagyállót és a szélvédőmosót a hidegben történő esti hazaút megkezdése előtt.",
                 "ro": "Biserica emană o liniște aparte în amurgul de iarnă, fiind momentul să verificați antigelul și lichidul de parbriz pentru drumul spre casă pe temperaturi scăzute.",
-                "en": "The church radiates peace in the winter twilight; check your antifreeze and windshield washer fluid before heading home as the temperatures drop this evening."
+                "en": "The church radiates peace in the winter twilight; check your antifreeze and windshield washer fluid before heading home as the temperatures drop this evening.",
+                "fr": "L'église rayonne de paix dans le crépuscule hivernal ; vérifiez votre antigel et le liquide lave-glace avant de rentrer car les températures chutent ce soir."
               }
             },
             {
@@ -1129,13 +1256,15 @@
                 "de": "Château de Bonabry",
                 "hu": "Château de Bonabry",
                 "ro": "Château de Bonabry",
-                "en": "Château de Bonabry"
+                "en": "Château de Bonabry",
+                "fr": "Château de Bonabry"
               },
               "tip_5lang": {
                 "de": "Das Schloss im Abendlicht ist ein magischer Abschluss, achten Sie jedoch auf festfrierende Türgummis beim Parken im Freien bei dem nun einsetzenden Nachtfrost.",
                 "hu": "A kastély az esti fényekben varázslatos lezárása a túrának, de ügyelj a lefagyó ajtógumikra, ha este a szabadban parkolsz a látogatás alatt a fagy miatt.",
                 "ro": "Castelul în lumina serii este un final magic, dar atenție la chederele ușilor care pot îngheța dacă parcați afară în condițiile înghețului nocturn ce se instalează.",
-                "en": "The castle in the evening light is a magical end to your tour, but watch out for freezing door seals if you park outside as the night frost sets in."
+                "en": "The castle in the evening light is a magical end to your tour, but watch out for freezing door seals if you park outside as the night frost sets in.",
+                "fr": "Le château à la lumière du soir est une fin magique à votre circuit, mais méfiez-vous des joints de portes gelés si vous vous garez dehors tandis que le gel nocturne s'installe."
               }
             }
           ]

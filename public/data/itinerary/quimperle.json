@@ -21,7 +21,8 @@
             "de": "Abtei Sainte-Croix",
             "hu": "Sainte-Croix apátság",
             "ro": "Abația Sainte-Croix",
-            "en": "Sainte-Croix Abbey"
+            "en": "Sainte-Croix Abbey",
+            "fr": "Abbaye Sainte-Croix"
           },
           "coords": [
             -3.546473,
@@ -36,7 +37,8 @@
             "de": "Bewundern Sie den einzigartigen runden romanischen Grundriss dieser historischen Abtei und prüfen Sie vorab die Öffnungszeiten der Krypta für die antiken Gräber.",
             "hu": "Csodálja meg a történelmi apátság egyedülálló, kerek román kori alaprajzát, és látogatás előtt mindenképpen ellenőrizze a kripta nyitvatartási idejét.",
             "ro": "Admirați planul romanic circular unic al acestei abații istorice și asigurați-vă că verificați orarul criptei înainte de vizită pentru a vedea mormintele antice.",
-            "en": "Admire the unique circular Romanesque plan of this historic abbey, and be sure to check the crypt opening times before your visit to see the ancient tombs."
+            "en": "Admire the unique circular Romanesque plan of this historic abbey, and be sure to check the crypt opening times before your visit to see the ancient tombs.",
+            "fr": "Admirez le plan circulaire roman unique de cette abbaye historique, et pensez à vérifier les horaires d'ouverture de la crypte avant votre visite pour voir les tombes anciennes."
           }
         },
         {
@@ -44,7 +46,8 @@
             "de": "Haus der Bogenschützen",
             "hu": "Íjászok háza (Maison des Archers)",
             "ro": "Casa Arcașilor",
-            "en": "Maison des Archers"
+            "en": "Maison des Archers",
+            "fr": "Maison des Archers"
           },
           "coords": [
             -3.545762,
@@ -59,7 +62,8 @@
             "de": "Entdecken Sie das Erbe von Quimperlé in diesem gut erhaltenen Haus aus dem 16. Jahrhundert, aber tragen Sie bequeme Schuhe für die steilen Holztreppen.",
             "hu": "Fedezze fel Quimperlé örökségét ebben a jól megőrzött 16. századi házban, de viseljen kényelmes cipőt, mivel a történelmi falépcsők meglehetősen meredekek.",
             "ro": "Descoperiți moștenirea Quimperlé în această casă bine conservată din secolul al XVI-lea, dar purtați încălțăminte comodă, deoarece scările vechi sunt abrupte.",
-            "en": "Discover Quimperlé's heritage in this well-preserved 16th-century house, but wear comfortable shoes as the historic wooden staircases can be quite steep."
+            "en": "Discover Quimperlé's heritage in this well-preserved 16th-century house, but wear comfortable shoes as the historic wooden staircases can be quite steep.",
+            "fr": "Découvrez le patrimoine de Quimperlé dans cette maison du XVIe bien préservée, mais portez des chaussures confortables car les escaliers en bois historiques peuvent être assez raides."
           }
         },
         {
@@ -67,7 +71,8 @@
             "de": "Markthallen von Quimperlé",
             "hu": "Quimperlé Vásárcsarnok",
             "ro": "Halele din Quimperlé",
-            "en": "Quimperlé Market Halls"
+            "en": "Quimperlé Market Halls",
+            "fr": "Halles de marché de Quimperlé"
           },
           "coords": [
             -3.545336,
@@ -82,7 +87,8 @@
             "de": "Stöbern Sie in diesen historischen Markthallen nach bretonischen Delikatessen und bringen Sie Bargeld mit, da einige kleine Händler keine Kreditkarten akzeptieren.",
             "hu": "Böngésszen a helyi breton finomságok között ezekben a történelmi vásárcsarnokokban, és hozzon készpénzt, mivel néhány kisebb árus nem fogad el bankkártyát.",
             "ro": "Căutați delicatese bretone locale în aceste hale istorice și aduceți numerar, deoarece unii vânzători artizanali mici s-ar putea să nu accepte carduri.",
-            "en": "Browse local Breton delicacies in these historic market halls, bringing cash as some smaller artisanal vendors may not accept credit cards for minor purchases."
+            "en": "Browse local Breton delicacies in these historic market halls, bringing cash as some smaller artisanal vendors may not accept credit cards for minor purchases.",
+            "fr": "Parcourez les spécialités bretonnes dans ces halles historiques ; apportez de l'argent liquide car certains petits artisans peuvent ne pas accepter la carte pour de petits achats."
           }
         },
         {
@@ -90,7 +96,8 @@
             "de": "Blumenbrücke (Pont Fleuri)",
             "hu": "Pont Fleuri (Virágos híd)",
             "ro": "Pont Fleuri (Podul cu Flori)",
-            "en": "Pont Fleuri"
+            "en": "Pont Fleuri",
+            "fr": "Pont Fleuri"
           },
           "coords": [
             -3.54356,
@@ -105,7 +112,8 @@
             "de": "Genießen Sie die malerische Aussicht von dieser blumengeschmückten Steinbrücke, die den perfekten Aussichtspunkt bietet, um das Zusammentreffen der Flüsse zu fotografieren.",
             "hu": "Élvezze a festői kilátást erről a virágokkal díszített kőhídról, amely tökéletes kilátópontot kínál a folyók találkozásának lenyűgöző lefotózásához.",
             "ro": "Bucurați-vă de priveliștile pitorești de pe acest pod de piatră împodobit cu flori, care oferă punctul de observație perfect pentru a fotografia confluența râurilor.",
-            "en": "Take in the picturesque views from this flower-decked stone bridge, which offers the perfect vantage point for photographing the meeting of the rivers."
+            "en": "Take in the picturesque views from this flower-decked stone bridge, which offers the perfect vantage point for photographing the meeting of the rivers.",
+            "fr": "Admirez la vue pittoresque depuis ce pont de pierre décoré de fleurs, qui offre le point de vue parfait pour photographier la confluence des rivières."
           }
         },
         {
@@ -113,7 +121,8 @@
             "de": "Kirche Notre-Dame de l'Assomption",
             "hu": "Notre-Dame de l'Assomption templom",
             "ro": "Biserica Notre-Dame de l'Assomption",
-            "en": "Notre-Dame de l'Assomption Church"
+            "en": "Notre-Dame de l'Assomption Church",
+            "fr": "Église Notre-Dame de l'Assomption"
           },
           "coords": [
             -3.548082,
@@ -128,7 +137,8 @@
             "de": "Erleben Sie die gotische Schönheit dieser Kirche in der Oberstadt und kommen Sie früh, um die atemberaubenden, von der Morgensonne beleuchteten Fenster zu genießen.",
             "hu": "Tapasztalja meg a felsővárosi templom gótikus szépségét és békéjét, érkezzen korán, hogy élvezze a reggeli napfényben pompázó lenyűgöző ólomüveg ablakokat.",
             "ro": "Experimentați frumusețea gotică a acestei biserici din orașul de sus, ajungând devreme pentru a vă bucura de vitraliile uimitoare luminate de soarele dimineții.",
-            "en": "Experience the Gothic beauty and peaceful ambiance of this upper town church, arriving early to enjoy the stunning stained glass illuminated by the morning sun."
+            "en": "Experience the Gothic beauty and peaceful ambiance of this upper town church, arriving early to enjoy the stunning stained glass illuminated by the morning sun.",
+            "fr": "Découvrez la beauté gothique et l'ambiance paisible de cette église de la haute ville, arrivez tôt pour profiter des magnifiques vitraux illuminés par le soleil du matin."
           }
         }
       ],
@@ -136,7 +146,8 @@
         "de": "Beginnen Sie Ihren Spaziergang an der Abtei Sainte-Croix, deren seltener runder Bau Sie ins Mittelalter zurückversetzt. Schlendern Sie dann zum Haus der Bogenschützen, um noch tiefer in die Stadtgeschichte einzutauchen.\n\nZur Mittagszeit locken die Markthallen von Quimperlé mit bretonischen Spezialitäten und lebhaftem Treiben. Hier spüren Sie den wahren Puls der Stadt.\n\nAm Nachmittag spazieren Sie zur charmanten Blumenbrücke Pont Fleuri. Dieser idyllische Ort am Wasser bietet wunderschöne Fotomotive.\n\nBeenden Sie Ihren Rundgang in der Oberstadt an der Kirche Notre-Dame de l'Assomption. Genießen Sie die friedliche Atmosphäre der majestätischen Gotik.",
         "hu": "Kezdje a sétát a Sainte-Croix apátságnál, melynek ritka kerek alaprajza a középkorba repíti. Ezután sétáljon át az Íjászok házához, és merüljön el a város gazdag történelmében.\n\nDélben a Quimperlé Vásárcsarnok csábítja a látogatókat breton specialitásokkal és pezsgő hangulattal. Itt igazán átérezheti a város lüktetését.\n\nDélután sétáljon le a bájos Pont Fleuri virágos hídhoz. Ez az idilli, vízparti hely csodálatos fotótémákat kínál.\n\nZárja a túrát a felsővárosban a Notre-Dame de l'Assomption templomnál. Élvezze a fenséges gótika békés, nyugodt atmoszféráját.",
         "ro": "Începeți plimbarea la Abația Sainte-Croix, al cărei design circular rar vă va transporta în Evul Mediu. Apoi, vizitați Casa Arcașilor pentru a aprofunda istoria bogată a orașului.\n\nLa amiază, Halele din Quimperlé vă atrag cu specialități bretone și o atmosferă plină de viață. Aici veți simți cu adevărat pulsul orașului.\n\nDupă-amiaza, plimbați-vă până la fermecătorul pod cu flori, Pont Fleuri. Acest loc idilic pe malul apei oferă oportunități fotografice minunate.\n\nÎncheiați turul în orașul de sus la Biserica Notre-Dame de l'Assomption. Bucurați-vă de atmosfera liniștită a arhitecturii gotice maiestuoase.",
-        "en": "Begin your walking tour at Sainte-Croix Abbey, where the rare circular design transports you to the Middle Ages. Stroll next to the Maison des Archers to dive deeper into the rich local history.\n\nMidday draws you to the Quimperlé Market Halls, bustling with Breton specialties and lively energy. It is the perfect place to feel the true pulse of the city.\n\nIn the afternoon, wander down to the charming Pont Fleuri. This idyllic, flower-draped bridge over the water provides wonderful photo opportunities.\n\nConclude your journey in the upper town at the Notre-Dame de l'Assomption Church. Soak in the peaceful atmosphere and majestic Gothic architecture."
+        "en": "Begin your walking tour at Sainte-Croix Abbey, where the rare circular design transports you to the Middle Ages. Stroll next to the Maison des Archers to dive deeper into the rich local history.\n\nMidday draws you to the Quimperlé Market Halls, bustling with Breton specialties and lively energy. It is the perfect place to feel the true pulse of the city.\n\nIn the afternoon, wander down to the charming Pont Fleuri. This idyllic, flower-draped bridge over the water provides wonderful photo opportunities.\n\nConclude your journey in the upper town at the Notre-Dame de l'Assomption Church. Soak in the peaceful atmosphere and majestic Gothic architecture.",
+        "fr": "Commencez votre promenade à l'Abbaye Sainte-Croix, où le rare plan circulaire vous transporte au Moyen Âge. Flânez ensuite devant la Maison des Archers pour approfondir l'histoire locale.\n\nÀ midi, dirigez-vous vers les Halles de Quimperlé, animées par les spécialités bretonnes et une énergie vivante. C'est l'endroit idéal pour sentir le véritable pouls de la ville.\n\nL'après-midi, descendez vers le charmant Pont Fleuri. Ce pont idyllique, drapé de fleurs, offre de belles opportunités de photo.\n\nConcluez votre itinéraire dans la haute ville à l'église Notre-Dame de l'Assomption. Imprégnez-vous de l'atmosphère paisible et de la majestueuse architecture gothique."
       },
       "variants": {
         "rainy": {
@@ -144,7 +155,8 @@
             "de": "Der Morgen beginnt im historischen Zentrum, wo Regenschirme in den engen Gassen zum Schutz vor dem bretonischen Nieselregen Pflicht sind. Mittags bieten die Markthallen einen trockenen und belebten Zufluchtsort. Am Nachmittag konzentrieren wir uns auf die beeindruckenden Innenräume der Abtei und der Kirche. Der Abend endet mit einem kurzen Spaziergang, wenn das Licht auf dem nassen Granit reflektiert.",
             "hu": "A reggel a történelmi központban indul, ahol az esernyő elengedhetetlen a szűk utcákban a breton szemerkélés ellen. Délben a vásárcsarnok nyújt száraz és életteli menedéket. Délután az apátság és a templom lenyűgöző belső tereire fókuszálunk, elkerülve a nagyobb záporokat. Az este egy rövid sétával zárul, amikor a város fényei megcsillannak a vizes gránitköveken.",
             "ro": "Dimineața începe în centrul istoric, unde umbrelele sunt obligatorii pe străzile înguste împotriva burniței bretone. La prânz, halele pieței oferă un refugiu uscat și plin de viață. După-amiaza ne concentrăm pe interioarele impresionante ale abației și ale bisericii. Seara se încheie cu o scurtă plimbare, când luminile orașului reflectă pe granitul umed al pavajului.",
-            "en": "The morning starts in the historic center, where umbrellas are essential in the narrow streets against the Breton drizzle. At noon, the market halls provide a dry and lively sanctuary. In the afternoon, we focus on the impressive interiors of the abbey and the church to stay dry. The evening ends with a short walk as the city lights reflect beautifully on the wet granite stones."
+            "en": "The morning starts in the historic center, where umbrellas are essential in the narrow streets against the Breton drizzle. At noon, the market halls provide a dry and lively sanctuary. In the afternoon, we focus on the impressive interiors of the abbey and the church to stay dry. The evening ends with a short walk as the city lights reflect beautifully on the wet granite stones.",
+            "fr": "La matinée commence dans le centre historique, où les parapluies sont indispensables dans les rues étroites contre la bruine bretonne. À midi, les halles du marché offrent un refuge sec et animé. L'après-midi, concentrez-vous sur les intérieurs impressionnants de l'abbaye et de l'église pour rester au sec. La soirée se termine par une courte promenade tandis que les lumières de la ville se réfléchissent magnifiquement sur les pierres de granit mouillées."
           },
           "stops": [
             {
@@ -152,13 +164,15 @@
                 "de": "Abtei Sainte-Croix",
                 "hu": "Sainte-Croix apátság",
                 "ro": "Abația Sainte-Croix",
-                "en": "Sainte-Croix Abbey"
+                "en": "Sainte-Croix Abbey",
+                "fr": "Abbaye Sainte-Croix"
               },
               "tip_5lang": {
                 "de": "Bewundern Sie die seltene kreisförmige Architektur der Krypta, die einen hervorragenden Schutz vor Regen bietet; betreten Sie die Abtei vorsichtig, da die Steinstufen bei Nässe glatt sind.",
                 "hu": "Csodálja meg a kripta ritka köralakú építészetét, amely kiváló menedéket nyújt az eső elől; óvatosan lépjen be, mert a kőlépcsők nedves időben rendkívül csúszósak lehetnek.",
                 "ro": "Admirați arhitectura circulară rară a criptei, care oferă un adăpost excelent împotriva ploii; intrați cu atenție în abație, deoarece treptele de piatră sunt alunecoase când sunt ude.",
-                "en": "Admire the rare circular architecture of the crypt, which offers excellent shelter from the rain; enter carefully as the stone steps can be quite slippery in wet weather."
+                "en": "Admire the rare circular architecture of the crypt, which offers excellent shelter from the rain; enter carefully as the stone steps can be quite slippery in wet weather.",
+                "fr": "Admirez l'architecture circulaire rare de la crypte, qui offre un excellent abri contre la pluie ; entrez prudemment car les marches en pierre peuvent devenir très glissantes par temps humide."
               }
             },
             {
@@ -166,13 +180,15 @@
                 "de": "Haus der Bogenschützen",
                 "hu": "Íjászok háza (Maison des Archers)",
                 "ro": "Casa Arcașilor",
-                "en": "Maison des Archers"
+                "en": "Maison des Archers",
+                "fr": "Maison des Archers"
               },
               "tip_5lang": {
                 "de": "Dieses wunderschöne Fachwerkhaus beherbergt Ausstellungen im Inneren, die ideal sind, um einen Schauer abzuwarten; nutzen Sie die Zeit, um die Details der Schnitzereien im Trockenen zu studieren.",
                 "hu": "Ez a gyönyörű fagerendás ház belső kiállításoknak ad otthont, így ideális hely egy zápor kivárására; használja ki az időt a faragványok részleteinek tanulmányozására a szárazban.",
                 "ro": "Această frumoasă casă cu colț de lemn găzduiește expoziții interioare, fiind ideală pentru a aștepta trecerea unei averse; profitați de timp pentru a studia detaliile sculpturilor la adăpost.",
-                "en": "This beautiful half-timbered house hosts indoor exhibitions, making it an ideal place to wait out a rain shower; take your time to study the carved details while staying dry."
+                "en": "This beautiful half-timbered house hosts indoor exhibitions, making it an ideal place to wait out a rain shower; take your time to study the carved details while staying dry.",
+                "fr": "Cette belle maison à colombages accueille des expositions intérieures, ce qui en fait un lieu idéal pour attendre une averse ; prenez le temps d'étudier les sculptures en restant au sec."
               }
             },
             {
@@ -180,13 +196,15 @@
                 "de": "Markthallen von Quimperlé",
                 "hu": "Quimperlé Vásárcsarnok",
                 "ro": "Halele din Quimperlé",
-                "en": "Quimperlé Market Halls"
+                "en": "Quimperlé Market Halls",
+                "fr": "Halles de marché de Quimperlé"
               },
               "tip_5lang": {
                 "de": "Die Markthalle ist der perfekte Ort für eine wetterfeste Pause unter dem Glasdach; genießen Sie die lokalen Spezialitäten und die lebhafte Atmosphäre, während es draußen regnet.",
                 "hu": "A vásárcsarnok tökéletes hely egy időjárásálló pihenőhöz az üvegtető alatt; élvezze a helyi különlegességeket és a nyüzsgő hangulatot, miközben kint dobol az eső.",
                 "ro": "Halele pieței sunt locul perfect pentru o pauză ferită de vreme sub acoperișul de sticlă; bucurați-vă de specialitățile locale și de atmosfera vibrantă în timp ce afară plouă.",
-                "en": "The market hall is the perfect spot for a weather-proof break under its glass roof; enjoy local specialties and the lively atmosphere while the rain drums outside."
+                "en": "The market hall is the perfect spot for a weather-proof break under its glass roof; enjoy local specialties and the lively atmosphere while the rain drums outside.",
+                "fr": "La halle du marché est l'endroit parfait pour une pause à l'abri sous sa verrière ; dégustez des spécialités locales et profitez de l'ambiance animée pendant que la pluie tambourine dehors."
               }
             },
             {
@@ -194,13 +212,15 @@
                 "de": "Blumenbrücke (Pont Fleuri)",
                 "hu": "Pont Fleuri (Virágos híd)",
                 "ro": "Pont Fleuri (Podul cu Flori)",
-                "en": "Pont Fleuri"
+                "en": "Pont Fleuri",
+                "fr": "Pont Fleuri"
               },
               "tip_5lang": {
                 "de": "Machen Sie ein schnelles Foto der Ellé-Ufer unter Ihrem Schirm; achten Sie besonders auf die Metallteile der Brücke, die bei Regen sehr rutschig werden können.",
                 "hu": "Készítsen egy gyors fotót az Ellé partjáról az esernyője alól; fordítson különös figyelmet a híd fém elemeire, amelyek esőben nagyon csúszóssá válhatnak.",
                 "ro": "Faceți o fotografie rapidă a malurilor râului Ellé de sub umbrelă; acordați o atenție deosebită părților metalice ale podului, care pot deveni foarte alunecoase pe ploaie.",
-                "en": "Take a quick photo of the Ellé riverbanks from under your umbrella; pay extra attention to the metal parts of the bridge, which can become very slippery in the rain."
+                "en": "Take a quick photo of the Ellé riverbanks from under your umbrella; pay extra attention to the metal parts of the bridge, which can become very slippery in the rain.",
+                "fr": "Prenez une photo rapide des rives de l'Ellé sous votre parapluie ; faites particulièrement attention aux parties métalliques du pont, qui peuvent devenir très glissantes sous la pluie."
               }
             },
             {
@@ -208,13 +228,15 @@
                 "de": "Kirche Notre-Dame de l'Assomption",
                 "hu": "Notre-Dame de l'Assomption templom",
                 "ro": "Biserica Notre-Dame de l'Assomption",
-                "en": "Notre-Dame de l'Assomption Church"
+                "en": "Notre-Dame de l'Assomption Church",
+                "fr": "Église Notre-Dame de l'Assomption"
               },
               "tip_5lang": {
                 "de": "Diese Kirche auf dem Hügel bietet eine stille und trockene Zuflucht mit schöner Aussicht auf die Stadt; nutzen Sie den Innenraum für eine besinnliche Pause vor dem Abstieg.",
                 "hu": "Ez a dombtetőn álló templom csendes és száraz menedéket nyújt szép kilátással a városra; használja ki a belső teret egy elmélyült pihenőre a leereszkedés előtt.",
                 "ro": "Această biserică de pe deal oferă un refugiu liniștit și uscat, cu o vedere frumoasă asupra orașului; folosiți spațiul interior pentru o pauză de reflecție înainte de coborâre.",
-                "en": "This hilltop church offers a quiet and dry refuge with a lovely view of the town; utilize the interior space for a contemplative break before making your way back down."
+                "en": "This hilltop church offers a quiet and dry refuge with a lovely view of the town; utilize the interior space for a contemplative break before making your way back down.",
+                "fr": "Cette église perchée offre un refuge calme et sec avec une jolie vue sur la ville ; utilisez l'espace intérieur pour une pause contemplative avant de redescendre."
               }
             }
           ]
@@ -224,7 +246,8 @@
             "de": "Ein frostiger Morgen erwartet Sie in der Unterstadt, kleiden Sie sich in warme Schichten. Mittags wärmen wir uns in der Nähe der Markthallen auf. Da die Sonne bereits gegen 17:00 Uhr untergeht, nutzen wir das goldene Nachmittagslicht für die historischen Fassaden. Der Abend wird in einer gemütlichen Stube im Zentrum bei einem heißen Getränk verbracht.",
             "hu": "Deres reggel várja az alsóvárosban, öltözzön rétegesen és melegen. Délben a vásárcsarnok környékén melegszünk fel. Mivel a nap már 17:00 körül nyugszik, a délutáni arany órákat a történelmi homlokzatok megtekintésére fordítjuk. Az estét a központ egy barátságos vendéglőjében töltjük egy forró ital társaságában.",
             "ro": "O dimineață geroasă vă așteaptă în orașul de jos, așa că îmbrăcați-vă în straturi groase. La prânz ne încălzim în apropierea halelor pieței. Deoarece soarele apune deja în jur de ora 17:00, profităm de lumina aurie a după-amiezii pentru fațadele istorice. Seara va fi petrecută într-un local primitor din centru, cu o băutură caldă.",
-            "en": "A frosty morning awaits you in the lower town, so dress in warm layers. At noon, we warm up near the market halls. Since the sun sets around 5:00 PM, we use the golden afternoon light to admire the historical facades. The evening is spent in a cozy spot in the center with a hot drink to escape the winter chill."
+            "en": "A frosty morning awaits you in the lower town, so dress in warm layers. At noon, we warm up near the market halls. Since the sun sets around 5:00 PM, we use the golden afternoon light to admire the historical facades. The evening is spent in a cozy spot in the center with a hot drink to escape the winter chill.",
+            "fr": "Un matin glacial vous attend en basse ville, habillez-vous en couches chaudes. À midi, nous nous réchauffons près des halles du marché. Comme le soleil se couche vers 17h00, nous utilisons la lumière dorée de l'après-midi pour admirer les façades historiques. La soirée se passe dans un endroit cosy du centre avec une boisson chaude pour échapper au froid hivernal."
           },
           "stops": [
             {
@@ -232,13 +255,15 @@
                 "de": "Abtei Sainte-Croix",
                 "hu": "Sainte-Croix apátság",
                 "ro": "Abația Sainte-Croix",
-                "en": "Sainte-Croix Abbey"
+                "en": "Sainte-Croix Abbey",
+                "fr": "Abbaye Sainte-Croix"
               },
               "tip_5lang": {
                 "de": "Die dicken Steinmauern der Abtei halten die Kälte draußen; planen Sie Ihren Besuch am Vormittag ein, wenn das schwache Winterlicht die Krypta besonders mystisch beleuchtet.",
                 "hu": "Az apátság vastag kőfalai kint tartják a fagyos szelet; tervezze a látogatást délelőttre, amikor a gyenge téli fény különlegesen misztikussá teszi a kripta hangulatát.",
                 "ro": "Zidurile groase de piatră ale abației țin frigul afară; planificați vizita dimineața, când lumina slabă de iarnă luminează cripta într-un mod deosebit de mistic.",
-                "en": "The thick stone walls of the abbey keep the cold wind out; plan your visit for the morning, when the soft winter light illuminates the crypt in a particularly mystical way."
+                "en": "The thick stone walls of the abbey keep the cold wind out; plan your visit for the morning, when the soft winter light illuminates the crypt in a particularly mystical way.",
+                "fr": "Les murs épais en pierre de l'abbaye tiennent le vent froid à l'extérieur ; planifiez votre visite le matin, lorsque la douce lumière hivernale illumine la crypte d'une manière particulièrement mystique."
               }
             },
             {
@@ -246,13 +271,15 @@
                 "de": "Haus der Bogenschützen",
                 "hu": "Íjászok háza (Maison des Archers)",
                 "ro": "Casa Arcașilor",
-                "en": "Maison des Archers"
+                "en": "Maison des Archers",
+                "fr": "Maison des Archers"
               },
               "tip_5lang": {
                 "de": "Besuchen Sie die Ausstellungen im Inneren dieses historischen Hauses, um sich zwischen den Spaziergängen aufzuwärmen; achten Sie auf die kurzen Öffnungszeiten im Winter.",
                 "hu": "Látogasson el a történelmi ház belső kiállításaira, hogy felmelegedjen a séták között; ügyeljen a téli időszakban jellemző rövidebb nyitvatartási időre.",
                 "ro": "Vizitați expozițiile din interiorul acestei case istorice pentru a vă încălzi între plimbări; aveți grijă la programul de vizitare mai scurt în timpul iernii.",
-                "en": "Visit the exhibitions inside this historic house to warm up between walks; be mindful of the shorter opening hours typical during the winter season."
+                "en": "Visit the exhibitions inside this historic house to warm up between walks; be mindful of the shorter opening hours typical during the winter season.",
+                "fr": "Visitez les expositions à l'intérieur de cette maison historique pour vous réchauffer entre les balades ; tenez compte des horaires d'ouverture plus courts en hiver."
               }
             },
             {
@@ -260,13 +287,15 @@
                 "de": "Markthallen von Quimperlé",
                 "hu": "Quimperlé Vásárcsarnok",
                 "ro": "Halele din Quimperlé",
-                "en": "Quimperlé Market Halls"
+                "en": "Quimperlé Market Halls",
+                "fr": "Halles de marché de Quimperlé"
               },
               "tip_5lang": {
                 "de": "Suchen Sie hier Schutz vor dem kalten Wind und genießen Sie einen warmen Imbiss; die geschäftige Atmosphäre ist im Winter besonders einladend und herzerwärmend.",
                 "hu": "Keressen itt menedéket a hideg szél elől, és élvezzen egy meleg falatot; a nyüzsgő hangulat télen különösen hívogató és szívmelengető élményt nyújt.",
                 "ro": "Căutați aici adăpost împotriva vântului rece și savurați o gustare caldă; atmosfera plină de viață este deosebit de primitoare și reconfortantă în timpul iernii.",
-                "en": "Seek shelter here from the cold wind and enjoy a warm snack; the bustling atmosphere is particularly inviting and heartwarming during the winter months."
+                "en": "Seek shelter here from the cold wind and enjoy a warm snack; the bustling atmosphere is particularly inviting and heartwarming during the winter months.",
+                "fr": "Cherchez refuge ici contre le vent froid et dégustez une collation chaude ; l'atmosphère animée est particulièrement accueillante et réconfortante pendant les mois d'hiver."
               }
             },
             {
@@ -274,13 +303,15 @@
                 "de": "Blumenbrücke (Pont Fleuri)",
                 "hu": "Pont Fleuri (Virágos híd)",
                 "ro": "Pont Fleuri (Podul cu Flori)",
-                "en": "Pont Fleuri"
+                "en": "Pont Fleuri",
+                "fr": "Pont Fleuri"
               },
               "tip_5lang": {
                 "de": "Obwohl die Blumen im Winter fehlen, bietet die Brücke einen klaren Blick auf die winterliche Ellé; ziehen Sie Handschuhe an, da das Metallgeländer eisgekühlt sein kann.",
                 "hu": "Bár a virágok télen hiányoznak, a híd tiszta kilátást nyújt a téli Ellé folyóra; viseljen kesztyűt, mert a fém korlátok jéghidegek lehetnek a fagyban.",
                 "ro": "Deși florile lipsesc iarna, podul oferă o vedere clară asupra râului Ellé înghețat; purtați mănuși, deoarece balustrada metalică poate fi extrem de rece la atingere.",
-                "en": "Although the flowers are missing in winter, the bridge offers a clear view of the wintry Ellé river; wear gloves as the metal railings can be ice-cold to the touch."
+                "en": "Although the flowers are missing in winter, the bridge offers a clear view of the wintry Ellé river; wear gloves as the metal railings can be ice-cold to the touch.",
+                "fr": "Bien que les fleurs manquent en hiver, le pont offre une vue dégagée sur l'Ellé hivernal ; portez des gants car les rampes métalliques peuvent être glaciales au toucher."
               }
             },
             {
@@ -288,13 +319,15 @@
                 "de": "Kirche Notre-Dame de l'Assomption",
                 "hu": "Notre-Dame de l'Assomption templom",
                 "ro": "Biserica Notre-Dame de l'Assomption",
-                "en": "Notre-Dame de l'Assomption Church"
+                "en": "Notre-Dame de l'Assomption Church",
+                "fr": "Église Notre-Dame de l'Assomption"
               },
               "tip_5lang": {
                 "de": "Erreichen Sie die Kirche vor 17:00 Uhr, um den Sonnenuntergang über der Stadt zu sehen; der Innenraum bietet eine ruhige Atmosphäre, um sich vor dem Abendessen zu sammeln.",
                 "hu": "Érjen fel a templomhoz 17:00 előtt, hogy lássa a naplementét a város felett; a belső tér nyugodt környezetet biztosít az esti készülődés előtti elcsendesedéshez.",
                 "ro": "Ajungeți la biserică înainte de ora 17:00 pentru a vedea apusul peste oraș; spațiul interior oferă o atmosferă liniștită pentru a vă reculege înainte de cină.",
-                "en": "Reach the church before 5:00 PM to catch the sunset over the town; the interior provides a peaceful atmosphere to gather your thoughts before the evening set in."
+                "en": "Reach the church before 5:00 PM to catch the sunset over the town; the interior provides a peaceful atmosphere to gather your thoughts before the evening set in.",
+                "fr": "Rejoignez l'église avant 17h00 pour assister au coucher du soleil sur la ville ; l'intérieur offre une atmosphère paisible pour rassembler vos pensées avant la tombée de la nuit."
               }
             }
           ]
@@ -314,7 +347,8 @@
             "de": "Kirche Notre-Dame de l'Assomption",
             "hu": "Notre-Dame de l'Assomption templom",
             "ro": "Biserica Notre-Dame de l'Assomption",
-            "en": "Notre-Dame de l'Assomption Church"
+            "en": "Notre-Dame de l'Assomption Church",
+            "fr": "Église Notre-Dame de l'Assomption"
           },
           "coords": [
             -3.548082,
@@ -329,7 +363,8 @@
             "de": "Erleben Sie die gotische Schönheit dieser Kirche in der Oberstadt und kommen Sie früh, um die atemberaubenden, von der Morgensonne beleuchteten Fenster zu genießen.",
             "hu": "Tapasztalja meg a felsővárosi templom gótikus szépségét és békéjét, érkezzen korán, hogy élvezze a reggeli napfényben pompázó lenyűgöző ólomüveg ablakokat.",
             "ro": "Experimentați frumusețea gotică a acestei biserici din orașul de sus, ajungând devreme pentru a vă bucura de vitraliile uimitoare luminate de soarele dimineții.",
-            "en": "Experience the Gothic beauty and peaceful ambiance of this upper town church, arriving early to enjoy the stunning stained glass illuminated by the morning sun."
+            "en": "Experience the Gothic beauty and peaceful ambiance of this upper town church, arriving early to enjoy the stunning stained glass illuminated by the morning sun.",
+            "fr": "Découvrez la beauté gothique et l'ambiance paisible de cette église de la haute ville, arrivez tôt pour profiter des magnifiques vitraux illuminés par le soleil du matin."
           }
         },
         {
@@ -337,7 +372,8 @@
             "de": "Markthallen von Quimperlé",
             "hu": "Quimperlé Vásárcsarnok",
             "ro": "Halele din Quimperlé",
-            "en": "Quimperlé Market Halls"
+            "en": "Quimperlé Market Halls",
+            "fr": "Halles de marché de Quimperlé"
           },
           "coords": [
             -3.545336,
@@ -352,7 +388,8 @@
             "de": "Stöbern Sie in diesen historischen Markthallen nach bretonischen Delikatessen und bringen Sie Bargeld mit, da einige kleine Händler keine Kreditkarten akzeptieren.",
             "hu": "Böngésszen a helyi breton finomságok között ezekben a történelmi vásárcsarnokokban, és hozzon készpénzt, mivel néhány kisebb árus nem fogad el bankkártyát.",
             "ro": "Căutați delicatese bretone locale în aceste hale istorice și aduceți numerar, deoarece unii vânzători artizanali mici s-ar putea să nu accepte carduri.",
-            "en": "Browse local Breton delicacies in these historic market halls, bringing cash as some smaller artisanal vendors may not accept credit cards for minor purchases."
+            "en": "Browse local Breton delicacies in these historic market halls, bringing cash as some smaller artisanal vendors may not accept credit cards for minor purchases.",
+            "fr": "Parcourez les spécialités bretonnes dans ces halles historiques ; apportez de l'argent liquide car certains petits artisans peuvent ne pas accepter la carte pour de petits achats."
           }
         },
         {
@@ -360,7 +397,8 @@
             "de": "Haus der Bogenschützen",
             "hu": "Íjászok háza (Maison des Archers)",
             "ro": "Casa Arcașilor",
-            "en": "Maison des Archers"
+            "en": "Maison des Archers",
+            "fr": "Maison des Archers"
           },
           "coords": [
             -3.545762,
@@ -375,7 +413,8 @@
             "de": "Entdecken Sie das Erbe von Quimperlé in diesem gut erhaltenen Haus aus dem 16. Jahrhundert, aber tragen Sie bequeme Schuhe für die steilen Holztreppen.",
             "hu": "Fedezze fel Quimperlé örökségét ebben a jól megőrzött 16. századi házban, de viseljen kényelmes cipőt, mivel a történelmi falépcsők meglehetősen meredekek.",
             "ro": "Descoperiți moștenirea Quimperlé în această casă bine conservată din secolul al XVI-lea, dar purtați încălțăminte comodă, deoarece scările vechi sunt abrupte.",
-            "en": "Discover Quimperlé's heritage in this well-preserved 16th-century house, but wear comfortable shoes as the historic wooden staircases can be quite steep."
+            "en": "Discover Quimperlé's heritage in this well-preserved 16th-century house, but wear comfortable shoes as the historic wooden staircases can be quite steep.",
+            "fr": "Découvrez le patrimoine de Quimperlé dans cette maison du XVIe bien préservée, mais portez des chaussures confortables car les escaliers en bois historiques peuvent être assez raides."
           }
         },
         {
@@ -383,7 +422,8 @@
             "de": "Abtei Sainte-Croix",
             "hu": "Sainte-Croix apátság",
             "ro": "Abația Sainte-Croix",
-            "en": "Sainte-Croix Abbey"
+            "en": "Sainte-Croix Abbey",
+            "fr": "Abbaye Sainte-Croix"
           },
           "coords": [
             -3.546473,
@@ -398,7 +438,8 @@
             "de": "Bewundern Sie den einzigartigen runden romanischen Grundriss dieser historischen Abtei und prüfen Sie vorab die Öffnungszeiten der Krypta für die antiken Gräber.",
             "hu": "Csodálja meg a történelmi apátság egyedülálló, kerek román kori alaprajzát, és látogatás előtt mindenképpen ellenőrizze a kripta nyitvatartási idejét.",
             "ro": "Admirați planul romanic circular unic al acestei abații istorice și asigurați-vă că verificați orarul criptei înainte de vizită pentru a vedea mormintele antice.",
-            "en": "Admire the unique circular Romanesque plan of this historic abbey, and be sure to check the crypt opening times before your visit to see the ancient tombs."
+            "en": "Admire the unique circular Romanesque plan of this historic abbey, and be sure to check the crypt opening times before your visit to see the ancient tombs.",
+            "fr": "Admirez le plan roman circulaire unique de cette abbaye historique, et pensez à vérifier les horaires d'ouverture de la crypte avant votre visite pour voir les tombes anciennes."
           }
         },
         {
@@ -406,7 +447,8 @@
             "de": "Blumenbrücke (Pont Fleuri)",
             "hu": "Pont Fleuri (Virágos híd)",
             "ro": "Pont Fleuri (Podul cu Flori)",
-            "en": "Pont Fleuri"
+            "en": "Pont Fleuri",
+            "fr": "Pont Fleuri"
           },
           "coords": [
             -3.54356,
@@ -421,7 +463,8 @@
             "de": "Genießen Sie die malerische Aussicht von dieser blumengeschmückten Steinbrücke, die den perfekten Aussichtspunkt bietet, um das Zusammentreffen der Flüsse zu fotografieren.",
             "hu": "Élvezze a festői kilátást erről a virágokkal díszített kőhídról, amely tökéletes kilátópontot kínál a folyók találkozásának lenyűgöző lefotózásához.",
             "ro": "Bucurați-vă de priveliștile pitorești de pe acest pod de piatră împodobit cu flori, care oferă punctul de observație perfect pentru a fotografia confluența râurilor.",
-            "en": "Take in the picturesque views from this flower-decked stone bridge, which offers the perfect vantage point for photographing the meeting of the rivers."
+            "en": "Take in the picturesque views from this flower-decked stone bridge, which offers the perfect vantage point for photographing the meeting of the rivers.",
+            "fr": "Profitez des vues pittoresques depuis ce pont de pierre orné de fleurs, qui offre le point de vue idéal pour photographier la rencontre des rivières."
           }
         },
         {
@@ -429,7 +472,8 @@
             "de": "Kinderspielplatz",
             "hu": "Gyermekjátszótér",
             "ro": "Loc de joacă",
-            "en": "Children's Playground"
+            "en": "Children's Playground",
+            "fr": "Aire de jeux pour enfants"
           },
           "coords": [
             -3.519685,
@@ -444,7 +488,8 @@
             "de": "Lassen Sie die Kinder auf diesem weitläufigen Spielplatz Energie abbauen, der günstig an Wanderwegen liegt, wo Sie eine friedliche Pause am späten Nachmittag genießen können.",
             "hu": "Hagyja, hogy a gyerekek levezessék energiájukat ezen a tágas játszótéren, amely kényelmesen a sétautak közelében található a késő délutáni békés pihenéshez.",
             "ro": "Lăsați copiii să-și consume energia în această zonă spațioasă de joacă, situată convenabil lângă alei unde vă puteți bucura de o pauză liniștită după-amiaza.",
-            "en": "Let the kids burn off energy at this spacious playground area, conveniently located near walking paths where you can sit and enjoy a peaceful late afternoon break."
+            "en": "Let the kids burn off energy at this spacious playground area, conveniently located near walking paths where you can sit and enjoy a peaceful late afternoon break.",
+            "fr": "Laissez les enfants se défouler dans cette aire de jeux spacieuse, idéalement située près des chemins pédestres où vous pouvez vous asseoir et profiter d'une paisible pause en fin d'après-midi."
           }
         }
       ],
@@ -452,7 +497,8 @@
         "de": "Starten Sie Ihre Radtour hoch oben an der prächtigen Kirche Notre-Dame de l'Assomption, bevor Sie hinunter ins Stadtzentrum rollen. Dort erwarten Sie die lebhaften Markthallen mit frischen, lokalen Köstlichkeiten.\n\nFahren Sie zur Mittagszeit weiter zum Haus der Bogenschützen, um die Fachwerkarchitektur zu bestaunen. Gleich um die Ecke beeindruckt die Abtei Sainte-Croix mit ihrer besonderen Bauweise.\n\nDer Nachmittag führt Sie über die blumengeschmückte Brücke Pont Fleuri. Ein wunderbarer Moment, um die Aussicht auf die sanft fließenden Flüsse zu genießen.\n\nLassen Sie den Tag bei einer entspannten Fahrt zu den grünen Parkanlagen ausklingen. Der Kinderspielplatz bietet den perfekten Abschluss für eine familiäre und aktive Erkundungstour.",
         "hu": "Indítsa kerékpártúráját magasan, a pompás Notre-Dame de l'Assomption templomnál, mielőtt legurulna a központba. Ott a pezsgő Vásárcsarnok friss, helyi finomságokkal várja.\n\nDélben folytassa útját az Íjászok házához, hogy megcsodálja a favázas építészetet. Közvetlenül a sarok után a Sainte-Croix apátság nyűgöz le különleges formájával.\n\nA délután a virágokkal díszített Pont Fleuri hídon át vezet. Csodálatos pillanat, hogy élvezze a lágyan csörgedező folyók festői látványát.\n\nZárja a napot egy laza tekeréssel a zöld parkok felé. A játszótér környéke tökéletes befejezést kínál egy családias, aktív felfedezőútnak.",
         "ro": "Începeți turul cu bicicleta sus, la Biserica Notre-Dame de l'Assomption, înainte de a coborî în centrul orașului. Acolo, Halele pline de viață vă așteaptă cu delicatese locale proaspete.\n\nLa amiază, continuați spre Casa Arcașilor pentru a admira arhitectura tradițională. Chiar după colț, Abația Sainte-Croix impresionează prin designul său deosebit.\n\nDupă-amiaza vă poartă peste podul împodobit cu flori, Pont Fleuri. Un moment minunat pentru a vă bucura de priveliștea râurilor curgând lin.\n\nÎncheiați ziua cu o plimbare relaxantă spre zonele verzi. Locul de joacă oferă un final perfect pentru o explorare activă și potrivită pentru familii.",
-        "en": "Start your bike ride high up at the splendid Notre-Dame de l'Assomption Church before coasting down into the center. There, the lively Market Halls await with fresh, local delicacies.\n\nMidday takes you further to the Maison des Archers to marvel at the half-timbered architecture. Just around the corner, Sainte-Croix Abbey impresses with its distinct shape.\n\nYour afternoon route crosses the flower-decked Pont Fleuri bridge. It is a wonderful moment to pause and enjoy the view of the gently flowing rivers.\n\nEnd the day with a relaxed ride towards the green park areas. The playground vicinity offers the perfect, family-friendly conclusion to an active exploration."
+        "en": "Start your bike ride high up at the splendid Notre-Dame de l'Assomption Church before coasting down into the center. There, the lively Market Halls await with fresh, local delicacies.\n\nMidday takes you further to the Maison des Archers to marvel at the half-timbered architecture. Just around the corner, Sainte-Croix Abbey impresses with its distinct shape.\n\nYour afternoon route crosses the flower-decked Pont Fleuri bridge. It is a wonderful moment to pause and enjoy the view of the gently flowing rivers.\n\nEnd the day with a relaxed ride towards the green park areas. The playground vicinity offers the perfect, family-friendly conclusion to an active exploration.",
+        "fr": "Commencez votre balade à vélo en haut, à la splendide église Notre-Dame de l'Assomption, puis laissez-vous descendre vers le centre. Là, les Halles animées vous attendent avec des spécialités locales et fraîches.\n\nÀ midi, poursuivez vers la Maison des Archers pour admirer l'architecture à colombages. Juste au coin, l'Abbaye Sainte-Croix impressionne par sa forme distincte.\n\nVotre itinéraire de l'après-midi traverse le Pont Fleuri décoré de fleurs. C'est un moment merveilleux pour faire une pause et profiter de la vue sur les rivières paisibles.\n\nTerminez la journée par une balade détendue vers les espaces verts. Les abords de l'aire de jeux offrent la conclusion parfaite, adaptée aux familles, d'une exploration active."
       },
       "variants": {
         "rainy": {
@@ -460,7 +506,8 @@
             "de": "Radfahren im Regen erfordert Vorsicht auf dem glatten Kopfsteinpflaster von Quimperlé. Wir starten morgens an der Kirche und suchen mittags Schutz in den Markthallen. Der Nachmittag führt uns zur Abtei, einem soliden Ziel für Regenpausen. Die Fahrt zum Spielplatz ist kurz, aber planen Sie wasserfeste Kleidung für die exponierten Abschnitte ein.",
             "hu": "Az esőben való biciklizés óvatosságot igényel Quimperlé csúszós macskakövein. Reggel a templomnál kezdünk, délben pedig a vásárcsarnokban keresünk menedéket. A délután az apátsághoz vezet, amely kiváló hely az eső elől. A játszótérhez vezető út rövid, de készüljön vízálló ruházattal a nyitott szakaszokra.",
             "ro": "Mersul pe bicicletă în ploaie necesită prudență pe pavajul alunecos din Quimperlé. Începem dimineața la biserică și căutăm adăpost la prânz în halele pieței. După-amiaza ne conduce la abație, o destinație solidă pentru pauzele de ploaie. Drumul spre locul de joacă este scurt, dar purtați haine impermeabile.",
-            "en": "Cycling in the rain requires caution on Quimperlé's slippery cobblestones. We start at the church in the morning and seek shelter at the market halls at noon. The afternoon leads us to the abbey, a solid destination for rain breaks. The ride to the playground is short, but ensure you have waterproof gear for the open sections."
+            "en": "Cycling in the rain requires caution on Quimperlé's slippery cobblestones. We start at the church in the morning and seek shelter at the market halls at noon. The afternoon leads us to the abbey, a solid destination for rain breaks. The ride to the playground is short, but ensure you have waterproof gear for the open sections.",
+            "fr": "Faire du vélo sous la pluie exige de la prudence sur les pavés glissants de Quimperlé. Nous commençons à l'église le matin et cherchons un abri aux halles à midi. L'après-midi nous mène à l'abbaye, une destination solide pour se mettre à l'abri. La liaison vers l'aire de jeux est courte, mais assurez-vous d'avoir des vêtements imperméables pour les sections découvertes."
           },
           "stops": [
             {
@@ -468,13 +515,15 @@
                 "de": "Kirche Notre-Dame de l'Assomption",
                 "hu": "Notre-Dame de l'Assomption templom",
                 "ro": "Biserica Notre-Dame de l'Assomption",
-                "en": "Notre-Dame de l'Assomption Church"
+                "en": "Notre-Dame de l'Assomption Church",
+                "fr": "Église Notre-Dame de l'Assomption"
               },
               "tip_5lang": {
                 "de": "Stellen Sie Ihr Fahrrad an einem geschützten Ort ab und genießen Sie die trockene Stille im Inneren; achten Sie beim Aufstieg auf den Hügel auf rutschige Straßenbeläge.",
                 "hu": "Helyezze a biciklijét fedett helyre, és élvezze a benti száraz csendet; a dombra való feltekeréskor ügyeljen a néhol csúszós útfelületre és az autókra.",
                 "ro": "Parcați bicicleta într-un loc protejat și bucurați-vă de liniștea uscată din interior; aveți grijă la suprafețele alunecoase ale drumului în timp ce urcați dealul.",
-                "en": "Park your bike in a sheltered spot and enjoy the dry silence inside; be careful of slippery road surfaces while pedaling up the hill in the wet."
+                "en": "Park your bike in a sheltered spot and enjoy the dry silence inside; be careful of slippery road surfaces while pedaling up the hill in the wet.",
+                "fr": "Garez votre vélo dans un endroit abrité et profitez du silence sec à l'intérieur ; faites attention aux chaussées glissantes en montant la côte par temps humide."
               }
             },
             {
@@ -482,13 +531,15 @@
                 "de": "Markthallen von Quimperlé",
                 "hu": "Quimperlé Vásárcsarnok",
                 "ro": "Halele din Quimperlé",
-                "en": "Quimperlé Market Halls"
+                "en": "Quimperlé Market Halls",
+                "fr": "Halles de marché de Quimperlé"
               },
               "tip_5lang": {
                 "de": "Ein idealer Ort, um die Fahrräder kurz stehen zu lassen und sich im Trockenen zu stärken; nutzen Sie die Fahrradständer in der Nähe des Eingangs unter dem Vordach.",
                 "hu": "Ideális hely a biciklik rövid pihentetésére és egy szárazban elfogyasztott tízóraira; használja a bejárat közeli, tető alatt lévő kerékpártárolókat.",
                 "ro": "Un loc ideal pentru a lăsa bicicletele scurt timp și pentru a vă realimenta la uscat; folosiți suporturile de biciclete de lângă intrare, aflate sub streașină.",
-                "en": "An ideal place to leave the bikes for a bit and refuel in the dry; use the bike racks near the entrance that are somewhat protected by the overhang."
+                "en": "An ideal place to leave the bikes for a bit and refuel in the dry; use the bike racks near the entrance that are somewhat protected by the overhang.",
+                "fr": "Un endroit idéal pour laisser un moment les vélos et se ravitailler à l'abri ; utilisez les arceaux près de l'entrée, partiellement protégés par le surplomb."
               }
             },
             {
@@ -496,13 +547,15 @@
                 "de": "Haus der Bogenschützen",
                 "hu": "Íjászok háza (Maison des Archers)",
                 "ro": "Casa Arcașilor",
-                "en": "Maison des Archers"
+                "en": "Maison des Archers",
+                "fr": "Maison des Archers"
               },
               "tip_5lang": {
                 "de": "Nutzen Sie den Besuch für eine ausgiebige Regenpause im Inneren des Museums; parken Sie Ihr Rad so, dass der Sattel unter dem Dachüberstand trocken bleibt.",
                 "hu": "Használja ki a látogatást egy kiadós esőszünetre a múzeum belsejében; úgy parkolja le a gépét, hogy a nyereg a tető kinyúlása alatt száraz maradjon.",
                 "ro": "Profitați de vizită pentru o pauză prelungită de ploaie în interiorul muzeului; parcați bicicleta astfel încât șaua să rămână uscată sub streașina clădirii.",
-                "en": "Use this visit for a substantial rain break inside the museum; park your bike so that the saddle stays dry under the building's architectural overhang."
+                "en": "Use this visit for a substantial rain break inside the museum; park your bike so that the saddle stays dry under the building's architectural overhang.",
+                "fr": "Profitez de cette visite pour une longue pause à l'abri dans le musée ; garez votre vélo de façon à ce que la selle reste sèche sous le surplomb architectural du bâtiment."
               }
             },
             {
@@ -510,13 +563,15 @@
                 "de": "Abtei Sainte-Croix",
                 "hu": "Sainte-Croix apátság",
                 "ro": "Abația Sainte-Croix",
-                "en": "Sainte-Croix Abbey"
+                "en": "Sainte-Croix Abbey",
+                "fr": "Abbaye Sainte-Croix"
               },
               "tip_5lang": {
                 "de": "Die Abtei bietet viel Platz im Trockenen, während Ihr Fahrrad draußen im Regen steht; prüfen Sie vor der Weiterfahrt den Grip Ihrer Bremsen auf den nassen Felgen.",
                 "hu": "Az apátság tágas belső teret kínál a szárazban, miközben a bicikli kint áll az esőben; indulás előtt ellenőrizze a fékek tapadását a vizes felniken.",
                 "ro": "Abația oferă mult spațiu la uscat în timp ce bicicleta stă afară în ploaie; verificați aderența frânelor pe jantele ude înainte de a pleca mai departe.",
-                "en": "The abbey offers plenty of dry space while your bike sits outside in the rain; check your brake grip on the wet rims before continuing your ride."
+                "en": "The abbey offers plenty of dry space while your bike sits outside in the rain; check your brake grip on the wet rims before continuing your ride.",
+                "fr": "L'abbaye offre beaucoup d'espace sec pendant que votre vélo reste dehors sous la pluie ; vérifiez l'adhérence des freins sur les jantes mouillées avant de reprendre la route."
               }
             },
             {
@@ -524,13 +579,15 @@
                 "de": "Blumenbrücke (Pont Fleuri)",
                 "hu": "Pont Fleuri (Virágos híd)",
                 "ro": "Pont Fleuri (Podul cu Flori)",
-                "en": "Pont Fleuri"
+                "en": "Pont Fleuri",
+                "fr": "Pont Fleuri"
               },
               "tip_5lang": {
                 "de": "Überqueren Sie die Brücke bei Regen am besten schiebend, um auf den nassen Planken nicht auszurutschen; ein kurzer Stopp für ein Foto lohnt sich dennoch.",
                 "hu": "Esőben a legjobb, ha áttolja a biciklit a hídon, hogy elkerülje a megcsúszást a vizes deszkákon; egy rövid fotómegálló erejéig azért érdemes megállni.",
                 "ro": "Cel mai bine este să traversați podul pe lângă bicicletă când plouă, pentru a nu aluneca pe scândurile ude; merită totuși o scurtă oprire pentru o fotografie.",
-                "en": "It's best to walk your bike across the bridge in the rain to avoid slipping on the wet planks; a quick photo stop is still worth it, though."
+                "en": "It's best to walk your bike across the bridge in the rain to avoid slipping on the wet planks; a quick photo stop is still worth it, though.",
+                "fr": "Il est préférable de traverser le pont à pied avec votre vélo sous la pluie pour éviter de glisser sur les planches mouillées ; une courte halte photo en vaut cependant la peine."
               }
             },
             {
@@ -538,13 +595,15 @@
                 "de": "Kinderspielplatz",
                 "hu": "Gyermekjátszótér",
                 "ro": "Loc de joacă",
-                "en": "Children's Playground"
+                "en": "Children's Playground",
+                "fr": "Aire de jeux pour enfants"
               },
               "tip_5lang": {
                 "de": "Bei Regen kann der Boden hier matschig sein, bleiben Sie auf den befestigten Wegen; nutzen Sie die Unterstände in der Nähe, um trocken zu bleiben.",
                 "hu": "Esőben a talaj itt sáros lehet, maradjon a kiépített utakon; használja a közeli fedett részeket, hogy száraz maradjon a pihenő alatt.",
                 "ro": "Pe ploaie, solul de aici poate fi noroios, așa că rămâneți pe potecile pavate; folosiți adăposturile din apropiere pentru a rămâne uscați.",
-                "en": "In the rain, the ground here can be muddy, so stay on the paved paths; use the nearby shelters to stay dry during your break."
+                "en": "In the rain, the ground here can be muddy, so stay on the paved paths; use the nearby shelters to stay dry during your break.",
+                "fr": "Par temps de pluie, le sol peut être boueux ici, restez sur les chemins pavés ; utilisez les abris à proximité pour rester au sec pendant votre pause."
               }
             }
           ]
@@ -554,7 +613,8 @@
             "de": "Kalte Winde wehen entlang der Ellé, ziehen Sie winddichte Kleidung zum Radfahren an. Der Morgen startet an der Kirche mit weitem Blick. Mittags suchen wir die Wärme der Stadt. Da das Tageslicht im Winter begrenzt ist, beenden wir unsere Tour am Spielplatz rechtzeitig vor Einbruch der Dunkelheit um 17:00 Uhr.",
             "hu": "Hideg szél fúj az Ellé mentén, viseljen szélálló ruházatot a biciklizéshez. A reggel a templomnál indul tiszta kilátással. Délben a város melegét keressük. Mivel a nappali fény télen korlátozott, a játszótéri túránkat még a 17:00 órai sötétedés előtt befejezzük.",
             "ro": "Vânturi reci bat de-a lungul râului Ellé, așa că purtați haine rezistente la vânt. Dimineața începe la biserică cu o vedere panoramică. La prânz căutăm căldura orașului. Deoarece lumina zilei este limitată iarna, încheiem turul la locul de joacă înainte de lăsarea întunericului, la ora 17:00.",
-            "en": "Cold winds blow along the Ellé, so wear windproof clothing for cycling. The morning starts at the church with a clear view. At noon, we seek the warmth of the town. Since daylight is limited in winter, we finish our playground tour well before darkness sets in at 5:00 PM."
+            "en": "Cold winds blow along the Ellé, so wear windproof clothing for cycling. The morning starts at the church with a clear view. At noon, we seek the warmth of the town. Since daylight is limited in winter, we finish our playground tour well before darkness sets in at 5:00 PM.",
+            "fr": "Des vents froids soufflent le long de l'Ellé, portez des vêtements coupe-vent pour le vélo. La matinée commence à l'église avec une vue dégagée. À midi, nous cherchons la chaleur de la ville. Comme les jours sont courts en hiver, nous terminons la visite de l'aire de jeux bien avant la tombée de la nuit à 17h00."
           },
           "stops": [
             {
@@ -562,13 +622,15 @@
                 "de": "Kirche Notre-Dame de l'Assomption",
                 "hu": "Notre-Dame de l'Assomption templom",
                 "ro": "Biserica Notre-Dame de l'Assomption",
-                "en": "Notre-Dame de l'Assomption Church"
+                "en": "Notre-Dame de l'Assomption Church",
+                "fr": "Église Notre-Dame de l'Assomption"
               },
               "tip_5lang": {
                 "de": "Der Aufstieg wärmt den Körper auf, aber oben angekommen sollten Sie schnell in den schützenden Innenraum der Kirche schlüpfen, um nicht auszukühlen.",
                 "hu": "A felfelé tekerés jól bemelegíti a testet, de felérve gyorsan bújjon be a templom védett belső terébe, hogy elkerülje a hirtelen lehűlést.",
                 "ro": "Urcarea vă va încălzi corpul, dar odată ajunși sus, intrați rapid în interiorul protector al bisericii pentru a nu răci de la vântul tăios.",
-                "en": "The climb up will warm your body, but once at the top, slip quickly into the church's protective interior to avoid catching a chill from the wind."
+                "en": "The climb up will warm your body, but once at the top, slip quickly into the church's protective interior to avoid catching a chill from the wind.",
+                "fr": "La montée vous réchauffera, mais une fois en haut, glissez-vous rapidement dans l'intérieur protecteur de l'église pour éviter de prendre froid à cause du vent."
               }
             },
             {
@@ -576,13 +638,15 @@
                 "de": "Markthallen von Quimperlé",
                 "hu": "Quimperlé Vásárcsarnok",
                 "ro": "Halele din Quimperlé",
-                "en": "Quimperlé Market Halls"
+                "en": "Quimperlé Market Halls",
+                "fr": "Halles de marché de Quimperlé"
               },
               "tip_5lang": {
                 "de": "Ein hervorragender Zwischenstopp, um die gefrorenen Finger bei einem heißen Getränk aufzutauen, bevor es auf dem Rad weiter durch die winterliche Stadt geht.",
                 "hu": "Kiváló köztes megálló, hogy egy forró ital mellett felengedjenek az átfagyott ujjai, mielőtt tovább kerekezne a téli városon keresztül.",
                 "ro": "O oprire intermediară excelentă pentru a vă dezgheța degetele cu o băutură caldă înainte de a continua drumul cu bicicleta prin orașul de iarnă.",
-                "en": "An excellent intermediate stop to thaw out frozen fingers with a hot drink before continuing your bike ride through the wintry town."
+                "en": "An excellent intermediate stop to thaw out frozen fingers with a hot drink before continuing your bike ride through the wintry town.",
+                "fr": "Un excellent arrêt intermédiaire pour réchauffer des doigts engourdis avec une boisson chaude avant de poursuivre votre balade à vélo dans la ville hivernale."
               }
             },
             {
@@ -590,13 +654,15 @@
                 "de": "Haus der Bogenschützen",
                 "hu": "Íjászok háza (Maison des Archers)",
                 "ro": "Casa Arcașilor",
-                "en": "Maison des Archers"
+                "en": "Maison des Archers",
+                "fr": "Maison des Archers"
               },
               "tip_5lang": {
                 "de": "Das historische Haus bietet einen interessanten Einblick und angenehme Temperaturen; parken Sie Ihr Fahrrad sicher und genießen Sie die Pause im Warmen.",
                 "hu": "A történelmi ház érdekes látnivalókat és kellemes hőmérsékletet kínál; parkolja le biztonságosan a biciklijét, és élvezze a pihenőt a melegben.",
                 "ro": "Casa istorică oferă perspective interesante și temperaturi plăcute; parcați bicicleta în siguranță și bucurați-vă de pauză la căldură.",
-                "en": "The historic house offers interesting insights and pleasant temperatures; park your bike securely and enjoy the break in the warmth."
+                "en": "The historic house offers interesting insights and pleasant temperatures; park your bike securely and enjoy the break in the warmth.",
+                "fr": "La maison historique offre des perspectives intéressantes et une température agréable ; garez votre vélo en sécurité et profitez de la pause au chaud."
               }
             },
             {
@@ -604,13 +670,15 @@
                 "de": "Abtei Sainte-Croix",
                 "hu": "Sainte-Croix apátság",
                 "ro": "Abația Sainte-Croix",
-                "en": "Sainte-Croix Abbey"
+                "en": "Sainte-Croix Abbey",
+                "fr": "Abbaye Sainte-Croix"
               },
               "tip_5lang": {
                 "de": "Nutzen Sie den windgeschützten Vorplatz zum Abstellen der Räder; die dicken Mauern im Inneren strahlen eine angenehme, beständige Ruhe aus.",
                 "hu": "Használja a széltől védett előteret a biciklik leállításához; a vastag belső falak kellemes, állandó nyugalmat árasztanak a téli napon is.",
                 "ro": "Folosiți curtea protejată de vânt pentru a lăsa bicicletele; zidurile groase din interior emană o liniște plăcută și constantă chiar și iarna.",
-                "en": "Use the wind-sheltered forecourt to park your bikes; the thick interior walls exude a pleasant, steady calm even on a cold winter day."
+                "en": "Use the wind-sheltered forecourt to park your bikes; the thick interior walls exude a pleasant, steady calm even on a cold winter day.",
+                "fr": "Garez vos vélos dans le parvis abrité du vent ; les épaisses murs intérieurs diffusent un calme agréable et constant même par une froide journée d'hiver."
               }
             },
             {
@@ -618,13 +686,15 @@
                 "de": "Blumenbrücke (Pont Fleuri)",
                 "hu": "Pont Fleuri (Virágos híd)",
                 "ro": "Pont Fleuri (Podul cu Flori)",
-                "en": "Pont Fleuri"
+                "en": "Pont Fleuri",
+                "fr": "Pont Fleuri"
               },
               "tip_5lang": {
                 "de": "Genießen Sie den weiten Blick über das kahle Flusstal; fahren Sie vorsichtig, da die Brückenoberfläche bei Reifbildung sehr glatt sein kann.",
                 "hu": "Élvezze a tágas kilátást a kopár folyóvölgyre; tekerjen óvatosan, mert a híd felülete zúzmarás időben nagyon csúszós lehet.",
                 "ro": "Bucurați-vă de vederea panoramică asupra văii râului; pedalați cu atenție, deoarece suprafața podului poate fi foarte alunecoasă în caz de brumă.",
-                "en": "Enjoy the expansive view over the bare river valley; ride carefully as the bridge surface can be very slick if there is frost or ice."
+                "en": "Enjoy the expansive view over the bare river valley; ride carefully as the bridge surface can be very slick if there is frost or ice.",
+                "fr": "Profitez de la vaste vue sur la vallée de la rivière dénudée ; roulez prudemment car le tablier du pont peut être très glissant en cas de gel ou de verglas."
               }
             },
             {
@@ -632,13 +702,15 @@
                 "de": "Kinderspielplatz",
                 "hu": "Gyermekjátszótér",
                 "ro": "Loc de joacă",
-                "en": "Children's Playground"
+                "en": "Children's Playground",
+                "fr": "Aire de jeux pour enfants"
               },
               "tip_5lang": {
                 "de": "Beenden Sie Ihren Besuch hier frühzeitig, bevor die Kälte nach Sonnenuntergang um 17:00 Uhr deutlich zunimmt und die Sicht auf dem Radweg schlechter wird.",
                 "hu": "Fejezze be itt a látogatást korán, mielőtt a hideg a 17:00-ás naplemente után jelentősen fokozódna, és a látási viszonyok romlanának a kerékpárúton.",
                 "ro": "Încheiați vizita aici devreme, înainte ca frigul să se intensifice semnificativ după apusul de la ora 17:00 și vizibilitatea pe pistă să scadă.",
-                "en": "Finish your visit here early, before the cold intensifies significantly after the 5:00 PM sunset and visibility on the bike path decreases."
+                "en": "Finish your visit here early, before the cold intensifies significantly after the 5:00 PM sunset and visibility on the bike path decreases.",
+                "fr": "Terminez votre visite ici tôt, avant que le froid ne s'intensifie significativement après le coucher du soleil à 17h00 et que la visibilité sur la piste cyclable ne diminue."
               }
             }
           ]
@@ -658,7 +730,8 @@
             "de": "Kirche Notre-Dame de l'Assomption",
             "hu": "Notre-Dame de l'Assomption templom",
             "ro": "Biserica Notre-Dame de l'Assomption",
-            "en": "Notre-Dame de l'Assomption Church"
+            "en": "Notre-Dame de l'Assomption Church",
+            "fr": "Église Notre-Dame de l'Assomption"
           },
           "coords": [
             -3.548082,
@@ -673,7 +746,8 @@
             "de": "Erleben Sie die gotische Schönheit dieser Kirche in der Oberstadt und kommen Sie früh, um die atemberaubenden, von der Morgensonne beleuchteten Fenster zu genießen.",
             "hu": "Tapasztalja meg a felsővárosi templom gótikus szépségét és békéjét, érkezzen korán, hogy élvezze a reggeli napfényben pompázó lenyűgöző ólomüveg ablakokat.",
             "ro": "Experimentați frumusețea gotică a acestei biserici din orașul de sus, ajungând devreme pentru a vă bucura de vitraliile uimitoare luminate de soarele dimineții.",
-            "en": "Experience the Gothic beauty and peaceful ambiance of this upper town church, arriving early to enjoy the stunning stained glass illuminated by the morning sun."
+            "en": "Experience the Gothic beauty and peaceful ambiance of this upper town church, arriving early to enjoy the stunning stained glass illuminated by the morning sun.",
+            "fr": "Vivez la beauté gothique et l'ambiance paisible de cette église de la haute-ville, arrivez tôt pour profiter des magnifiques vitraux illuminés par le soleil du matin."
           }
         },
         {
@@ -681,7 +755,8 @@
             "de": "Abtei Sainte-Croix",
             "hu": "Sainte-Croix apátság",
             "ro": "Abația Sainte-Croix",
-            "en": "Sainte-Croix Abbey"
+            "en": "Sainte-Croix Abbey",
+            "fr": "Abbaye Sainte-Croix"
           },
           "coords": [
             -3.546473,
@@ -696,7 +771,8 @@
             "de": "Bewundern Sie den einzigartigen runden romanischen Grundriss dieser historischen Abtei und prüfen Sie vorab die Öffnungszeiten der Krypta für die antiken Gräber.",
             "hu": "Csodálja meg a történelmi apátság egyedülálló, kerek román kori alaprajzát, és látogatás előtt mindenképpen ellenőrizze a kripta nyitvatartási idejét.",
             "ro": "Admirați planul romanic circular unic al acestei abații istorice și asigurați-vă că verificați orarul criptei înainte de vizită pentru a vedea mormintele antice.",
-            "en": "Admire the unique circular Romanesque plan of this historic abbey, and be sure to check the crypt opening times before your visit to see the ancient tombs."
+            "en": "Admire the unique circular Romanesque plan of this historic abbey, and be sure to check the crypt opening times before your visit to see the ancient tombs.",
+            "fr": "Admirez le plan circulaire roman unique de cette abbaye historique, et vérifiez les horaires d'ouverture de la crypte avant votre visite pour voir les tombes anciennes."
           }
         },
         {
@@ -704,7 +780,8 @@
             "de": "Haus der Bogenschützen",
             "hu": "Íjászok háza (Maison des Archers)",
             "ro": "Casa Arcașilor",
-            "en": "Maison des Archers"
+            "en": "Maison des Archers",
+            "fr": "Maison des Archers"
           },
           "coords": [
             -3.545762,
@@ -719,7 +796,8 @@
             "de": "Entdecken Sie das Erbe von Quimperlé in diesem gut erhaltenen Haus aus dem 16. Jahrhundert, aber tragen Sie bequeme Schuhe für die steilen Holztreppen.",
             "hu": "Fedezze fel Quimperlé örökségét ebben a jól megőrzött 16. századi házban, de viseljen kényelmes cipőt, mivel a történelmi falépcsők meglehetősen meredekek.",
             "ro": "Descoperiți moștenirea Quimperlé în această casă bine conservată din secolul al XVI-lea, dar purtați încălțăminte comodă, deoarece scările vechi sunt abrupte.",
-            "en": "Discover Quimperlé's heritage in this well-preserved 16th-century house, but wear comfortable shoes as the historic wooden staircases can be quite steep."
+            "en": "Discover Quimperlé's heritage in this well-preserved 16th-century house, but wear comfortable shoes as the historic wooden staircases can be quite steep.",
+            "fr": "Découvrez le patrimoine de Quimperlé dans cette maison du XVIe siècle bien conservée, mais portez des chaussures confortables car les escaliers en bois historiques peuvent être assez raides."
           }
         },
         {
@@ -727,7 +805,8 @@
             "de": "Blumenbrücke (Pont Fleuri)",
             "hu": "Pont Fleuri (Virágos híd)",
             "ro": "Pont Fleuri (Podul cu Flori)",
-            "en": "Pont Fleuri"
+            "en": "Pont Fleuri",
+            "fr": "Pont Fleuri"
           },
           "coords": [
             -3.54356,
@@ -742,7 +821,8 @@
             "de": "Genießen Sie die malerische Aussicht von dieser blumengeschmückten Steinbrücke, die den perfekten Aussichtspunkt bietet, um das Zusammentreffen der Flüsse zu fotografieren.",
             "hu": "Élvezze a festői kilátást erről a virágokkal díszített kőhídról, amely tökéletes kilátópontot kínál a folyók találkozásának lenyűgöző lefotózásához.",
             "ro": "Bucurați-vă de priveliștile pitorești de pe acest pod de piatră împodobit cu flori, care oferă punctul de observație perfect pentru a fotografia confluența râurilor.",
-            "en": "Take in the picturesque views from this flower-decked stone bridge, which offers the perfect vantage point for photographing the meeting of the rivers."
+            "en": "Take in the picturesque views from this flower-decked stone bridge, which offers the perfect vantage point for photographing the meeting of the rivers.",
+            "fr": "Appréciez les vues pittoresques depuis ce pont en pierre fleuri, qui offre le point de vue parfait pour photographier la réunion des rivières."
           }
         },
         {
@@ -750,7 +830,8 @@
             "de": "Wasserreservoir",
             "hu": "Víztározó",
             "ro": "Rezervor de apă",
-            "en": "Water Reservoir"
+            "en": "Water Reservoir",
+            "fr": "Réservoir d'eau"
           },
           "coords": [
             -3.52865,
@@ -765,7 +846,8 @@
             "de": "Entspannen Sie sich an diesem überraschend malerischen Wasserreservoir mitten in der Natur, das ein hervorragender ruhiger Ort für ein Picknick ist.",
             "hu": "Pihenjen meg ennél a meglepően festői, természet által körülvett víztározónál, amely kiváló csendes hely egy déli piknikhez, távol a város zajától.",
             "ro": "Relaxați-vă la acest rezervor pitoresc înconjurat de natură, care este un loc liniștit excelent pentru un picnic de prânz departe de agitația orașului.",
-            "en": "Relax by this surprisingly scenic water reservoir surrounded by nature, making it an excellent quiet spot for a midday picnic away from the city crowds."
+            "en": "Relax by this surprisingly scenic water reservoir surrounded by nature, making it an excellent quiet spot for a midday picnic away from the city crowds.",
+            "fr": "Détendez-vous près de ce réservoir d'eau étonnamment pittoresque entouré par la nature, un excellent endroit calme pour un pique-nique de midi à l'écart de la foule."
           }
         },
         {
@@ -773,7 +855,8 @@
             "de": "Waschhaus von Kerluhec",
             "hu": "Kerluhec mosóház",
             "ro": "Spălătoria din Kerluhec",
-            "en": "Kerluhec Washhouse"
+            "en": "Kerluhec Washhouse",
+            "fr": "Lavoir de Kerluhec"
           },
           "coords": [
             -3.512652,
@@ -788,7 +871,8 @@
             "de": "Machen Sie eine Zeitreise an diesem traditionellen Steinwaschhaus im Grünen, einem ruhigen Abschluss Ihrer Reise, wo im Sommer Insektenschutz empfohlen wird.",
             "hu": "Lépjen vissza az időben ezen a zöldben megbúvó hagyományos kőmosóháznál, amely nyugodt lezárása az utazásnak, de nyáron rovarriasztó használata ajánlott.",
             "ro": "Întoarceți-vă în timp la această spălătorie tradițională de piatră ascunsă în verdeață, un final senin unde se recomandă repelent de insecte vara.",
-            "en": "Step back in time at this traditional stone washhouse nestled in greenery, a serene end to your journey where insect repellent is recommended in summer months."
+            "en": "Step back in time at this traditional stone washhouse nestled in greenery, a serene end to your journey where insect repellent is recommended in summer months.",
+            "fr": "Faites un saut dans le temps à ce lavoir en pierre traditionnel niché dans la verdure, une fin de parcours sereine où il est recommandé d'appliquer un anti-insectes en été."
           }
         }
       ],
@@ -796,7 +880,8 @@
         "de": "Beginnen Sie Ihre Autotour im oberen Teil der Stadt an der gotischen Kirche Notre-Dame de l'Assomption. Parken Sie danach nah am Zentrum, um die runde Abtei Sainte-Croix bequem zu besuchen.\n\nErkunden Sie um die Mittagszeit das benachbarte Haus der Bogenschützen und bestaunen Sie die Geschichte. Ein kurzer Spaziergang bringt Sie anschließend zur Blumenbrücke Pont Fleuri.\n\nAm Nachmittag verlassen Sie das Stadtzentrum und fahren in die Natur zum ruhigen Wasserreservoir. Dieser Ort lädt zu einer gemütlichen und erholsamen Pause fernab des Trubels ein.\n\nZum Abschluss steuern Sie das historische Waschhaus von Kerluhec an. Versteckt im Grünen, bietet es ein friedliches Finale für Ihre abwechslungsreiche Tagestour.",
         "hu": "Kezdje autós túráját a felsővárosban a gótikus Notre-Dame de l'Assomption templomnál. Ezután parkoljon le a központhoz közel, hogy kényelmesen felkereshesse a kerek Sainte-Croix apátságot.\n\nDélben fedezze fel a szomszédos Íjászok házát, és csodálja meg a történelmet. Egy rövid séta elviszi a Pont Fleuri virágos hídhoz is a vízparton.\n\nDélután hagyja el a városközpontot, és hajtson ki a természetbe a csendes víztározóhoz. Ez a hely egy kényelmes és pihentető pihenésre csábít távol a zajtól.\n\nBefejezésül vezessen el a történelmi Kerluhec mosóházhoz. A zöldben megbúvó épület békés lezárást nyújt a változatos egynapos utazásnak.",
         "ro": "Începeți turul auto în partea de sus a orașului la biserica gotică Notre-Dame de l'Assomption. Parcați apoi aproape de centru pentru a vizita comod Abația circulară Sainte-Croix.\n\nLa amiază, explorați Casa Arcașilor din apropiere și admirați istoria sa. O scurtă plimbare vă va duce la podul împodobit cu flori, Pont Fleuri.\n\nDupă-amiaza părăsiți centrul și conduceți în natură, spre rezervorul liniștit de apă. Acest loc vă invită la o pauză confortabilă și relaxantă, departe de agitație.\n\nLa final, îndreptați-vă spre spălătoria istorică din Kerluhec. Ascunsă în verdeață, oferă un sfârșit pașnic pentru o călătorie diversă de o zi.",
-        "en": "Start your driving tour in the upper town at the Gothic Notre-Dame de l'Assomption Church. Then, park near the center to easily visit the unique circular Sainte-Croix Abbey.\n\nAround midday, explore the neighboring Maison des Archers and take in its medieval charm. A brief walk from your parking spot brings you to the beautiful Pont Fleuri.\n\nIn the afternoon, leave the city center behind and drive out to the tranquil water reservoir. This nature spot invites you to a comfortable, relaxing break away from the crowds.\n\nFinally, navigate to the historic Kerluhec washhouse. Hidden in the lush greenery, it provides a peaceful and reflective finale to your varied day trip."
+        "en": "Start your driving tour in the upper town at the Gothic Notre-Dame de l'Assomption Church. Then, park near the center to easily visit the unique circular Sainte-Croix Abbey.\n\nAround midday, explore the neighboring Maison des Archers and take in its medieval charm. A brief walk from your parking spot brings you to the beautiful Pont Fleuri.\n\nIn the afternoon, leave the city center behind and drive out to the tranquil water reservoir. This nature spot invites you to a comfortable, relaxing break away from the crowds.\n\nFinally, navigate to the historic Kerluhec washhouse. Hidden in the lush greenery, it provides a peaceful and reflective finale to your varied day trip.",
+        "fr": "Commencez votre circuit en voiture dans la haute-ville à l'église gothique Notre-Dame de l'Assomption. Ensuite, garez-vous près du centre pour visiter facilement l'abbaye circulaire unique Sainte-Croix.\n\nVers midi, explorez la voisine Maison des Archers et imprégnez-vous de son charme médiéval. Une courte marche depuis votre parking vous mène au magnifique Pont Fleuri.\n\nL'après-midi, quittez le centre-ville et conduisez jusqu'au tranquille réservoir d'eau. Ce site naturel invite à une pause confortable et relaxante loin des foules.\n\nEnfin, dirigez-vous vers le lavoir historique de Kerluhec. Caché dans la végétation luxuriante, il offre une conclusion paisible et propice à la réflexion pour votre journée variée."
       },
       "variants": {
         "rainy": {
@@ -804,7 +889,8 @@
             "de": "Mit dem Auto erkunden wir Quimperlé heute ganz entspannt und bleiben zwischen den Stopps trocken. Morgens besuchen wir die zentrale Kirche und Abtei. Mittags ist das Parken in der Nähe der Markthallen ideal. Am Nachmittag fahren wir zu den abgelegeneren Orten wie dem Waschhaus, das trotz Regen seinen rustikalen Charme behält.",
             "hu": "Autóval ma kényelmesen fedezzük fel Quimperlét, szárazon maradva a megállók között. Reggel a központi templomot és apátságot látogatjuk meg. Délben a vásárcsarnok környékén parkolunk le. Délután a távolabbi helyszínekre, például a mosóházhoz hajtunk, amely esőben is megőrzi rusztikus báját.",
             "ro": "Cu mașina explorăm Quimperlé astăzi foarte relaxat, rămânând uscați între opriri. Dimineața vizităm biserica centrală și abația. La prânz, parcarea în apropierea halelor pieței este ideală. După-amiaza conducem spre locurile mai retrase, cum ar fi spălătoria, care își păstrează farmecul rustic chiar și pe ploaie.",
-            "en": "By car, we explore Quimperlé today in total comfort, staying dry between stops. In the morning, we visit the central church and abbey. At noon, parking near the market halls is ideal. In the afternoon, we drive to the more remote sites like the washhouse, which retains its rustic charm even in the rain."
+            "en": "By car, we explore Quimperlé today in total comfort, staying dry between stops. In the morning, we visit the central church and abbey. At noon, parking near the market halls is ideal. In the afternoon, we drive to the more remote sites like the washhouse, which retains its rustic charm even in the rain.",
+            "fr": "En voiture, nous explorons Quimperlé aujourd'hui en tout confort, en restant au sec entre les étapes. Le matin, nous visitons l'église centrale et l'abbaye. À midi, se garer près des halles est idéal. L'après-midi, nous prenons la route vers des sites plus éloignés comme le lavoir, qui conserve son charme rustique même sous la pluie."
           },
           "stops": [
             {
@@ -812,13 +898,15 @@
                 "de": "Kirche Notre-Dame de l'Assomption",
                 "hu": "Notre-Dame de l'Assomption templom",
                 "ro": "Biserica Notre-Dame de l'Assomption",
-                "en": "Notre-Dame de l'Assomption Church"
+                "en": "Notre-Dame de l'Assomption Church",
+                "fr": "Église Notre-Dame de l'Assomption"
               },
               "tip_5lang": {
                 "de": "Nutzen Sie den Parkplatz in der Nähe, um den kurzen Fußweg im Regen zu minimieren; die Kirche bietet einen majestätischen und trockenen Rückzugsort.",
                 "hu": "Használja a közeli parkolót, hogy minimalizálja az esőben való gyaloglást; a templom fenséges és száraz menedéket nyújt a látogatóknak.",
                 "ro": "Folosiți parcarea din apropiere pentru a minimiza mersul pe jos prin ploaie; biserica oferă un refugiu maiestuos și uscat pentru vizitatori.",
-                "en": "Use the nearby parking lot to minimize walking in the rain; the church offers a majestic and dry sanctuary for all visitors."
+                "en": "Use the nearby parking lot to minimize walking in the rain; the church offers a majestic and dry sanctuary for all visitors.",
+                "fr": "Utilisez le parking à proximité pour minimiser la marche sous la pluie ; l'église offre un sanctuaire majestueux et sec pour tous les visiteurs."
               }
             },
             {
@@ -826,13 +914,15 @@
                 "de": "Abtei Sainte-Croix",
                 "hu": "Sainte-Croix apátság",
                 "ro": "Abația Sainte-Croix",
-                "en": "Sainte-Croix Abbey"
+                "en": "Sainte-Croix Abbey",
+                "fr": "Abbaye Sainte-Croix"
               },
               "tip_5lang": {
                 "de": "Parken Sie am Ufer der Ellé und schlüpfen Sie schnell in die Abtei; die beeindruckende Krypta ist der perfekte Ort, um einen starken Regenguss abzuwarten.",
                 "hu": "Parkoljon le az Ellé partján, és fusson be az apátságba; a lenyűgöző kripta tökéletes hely egy kiadós felhőszakadás kivárására a szárazban.",
                 "ro": "Parcați pe malul râului Ellé și intrați rapid în abație; cripta impresionantă este locul perfect pentru a aștepta trecerea unei averse puternice.",
-                "en": "Park along the banks of the Ellé and nip quickly into the abbey; the impressive crypt is the perfect place to wait out a heavy downpour in the dry."
+                "en": "Park along the banks of the Ellé and nip quickly into the abbey; the impressive crypt is the perfect place to wait out a heavy downpour in the dry.",
+                "fr": "Garez-vous le long des rives de l'Ellé et entrez rapidement dans l'abbaye ; la crypte impressionnante est l'endroit parfait pour attendre une forte averse à l'abri."
               }
             },
             {
@@ -840,13 +930,15 @@
                 "de": "Haus der Bogenschützen",
                 "hu": "Íjászok háza (Maison des Archers)",
                 "ro": "Casa Arcașilor",
-                "en": "Maison des Archers"
+                "en": "Maison des Archers",
+                "fr": "Maison des Archers"
               },
               "tip_5lang": {
                 "de": "Ein Besuch im Inneren lohnt sich besonders bei schlechtem Wetter; die historischen Ausstellungen lassen Sie den Regen draußen völlig vergessen.",
                 "hu": "A belső látogatás különösen rossz időben éri meg; a történelmi kiállítások segítségével teljesen elfelejtheti a kint doboló esőt.",
                 "ro": "O vizită în interior merită din plin, mai ales pe vreme rea; expozițiile istorice vă vor face să uitați complet de ploaia de afară.",
-                "en": "A visit inside is especially worthwhile in bad weather; the historical exhibitions will make you completely forget about the rain outside."
+                "en": "A visit inside is especially worthwhile in bad weather; the historical exhibitions will make you completely forget about the rain outside.",
+                "fr": "Une visite intérieure vaut particulièrement la peine par mauvais temps ; les expositions historiques vous feront complètement oublier la pluie extérieure."
               }
             },
             {
@@ -854,13 +946,15 @@
                 "de": "Blumenbrücke (Pont Fleuri)",
                 "hu": "Pont Fleuri (Virágos híd)",
                 "ro": "Pont Fleuri (Podul cu Flori)",
-                "en": "Pont Fleuri"
+                "en": "Pont Fleuri",
+                "fr": "Pont Fleuri"
               },
               "tip_5lang": {
                 "de": "Halten Sie kurz an für einen Blick aus dem Fenster oder ein schnelles Foto unter dem Schirm; die Ellé wirkt bei Regen besonders wasserreich und kraftvoll.",
                 "hu": "Álljon meg egy pillanatra, hogy az ablakból vagy az esernyő alól vessen egy pillantást a folyóra; az Ellé esőben különösen bővizűnek és erőteljesnek tűnik.",
                 "ro": "Opriți-vă pentru o clipă să priviți pe fereastră sau faceți o poză rapidă sub umbrelă; râul Ellé pare deosebit de umflat și puternic pe timp de ploaie.",
-                "en": "Stop for a moment to glance from the window or take a quick photo under your umbrella; the Ellé looks particularly full and powerful in the rain."
+                "en": "Stop for a moment to glance from the window or take a quick photo under your umbrella; the Ellé looks particularly full and powerful in the rain.",
+                "fr": "Arrêtez-vous un instant pour regarder par la fenêtre ou prendre une photo rapide sous votre parapluie ; l'Ellé paraît particulièrement pleine et puissante sous la pluie."
               }
             },
             {
@@ -868,13 +962,15 @@
                 "de": "Wasserreservoir",
                 "hu": "Víztározó",
                 "ro": "Rezervor de apă",
-                "en": "Water Reservoir"
+                "en": "Water Reservoir",
+                "fr": "Réservoir d'eau"
               },
               "tip_5lang": {
                 "de": "Betrachten Sie die Wasserlandschaft bequem vom Auto aus, falls der Regen zu stark ist; die grauen Wolken verleihen dem Ort eine dramatische Atmosphäre.",
                 "hu": "Tekintse meg a vízi tájat kényelmesen az autóból, ha túl erősen esne; a szürke felhők drámai hangulatot kölcsönöznek a helyszínnek.",
                 "ro": "Priviți peisajul acvatic confortabil din mașină dacă plouă prea tare; norii gri conferă locului o atmosferă dramatică.",
-                "en": "View the water landscape comfortably from the car if the rain is too heavy; the gray clouds give the site a dramatic and moody atmosphere."
+                "en": "View the water landscape comfortably from the car if the rain is too heavy; the gray clouds give the site a dramatic and moody atmosphere.",
+                "fr": "Observez le paysage aquatique confortablement depuis la voiture si la pluie est trop forte ; les nuages gris confèrent au site une atmosphère dramatique et mélancolique."
               }
             },
             {
@@ -882,13 +978,15 @@
                 "de": "Waschhaus von Kerluhec",
                 "hu": "Kerluhec mosóház",
                 "ro": "Spălătoria din Kerluhec",
-                "en": "Kerluhec Washhouse"
+                "en": "Kerluhec Washhouse",
+                "fr": "Lavoir de Kerluhec"
               },
               "tip_5lang": {
                 "de": "Das Waschhaus ist überdacht, sodass Sie die historische Architektur auch bei Regen trocken erkunden können; achten Sie auf glatte Steine am Wasser.",
                 "hu": "A mosóház fedett, így a történelmi építészetet esőben is szárazon fedezheti fel; ügyeljen a vízparti kövekre, amelyek ilyenkor csúszósak lehetnek.",
                 "ro": "Spălătoria este acoperită, așa că puteți explora arhitectura istorică la uscat chiar și pe ploaie; atenție la pietrele de lângă apă, care pot fi alunecoase.",
-                "en": "The washhouse is covered, allowing you to explore the historic architecture while staying dry; watch out for slippery stones near the water's edge."
+                "en": "The washhouse is covered, allowing you to explore the historic architecture while staying dry; watch out for slippery stones near the water's edge.",
+                "fr": "Le lavoir est couvert, ce qui permet d'explorer l'architecture historique tout en restant au sec ; attention aux pierres glissantes près du bord de l'eau."
               }
             }
           ]
@@ -898,7 +996,8 @@
             "de": "Genießen Sie die winterliche Fahrt im beheizten Auto durch das malerische Quimperlé. Wir beginnen morgens an der Kirche und bewundern die klare Sicht. Mittags ist ein Stopp in der Stadt zum Aufwärmen eingeplant. Da es bereits gegen 17:00 Uhr dunkel wird, fahren wir rechtzeitig zum Reservoir und Waschhaus, um das letzte Tageslicht zu nutzen.",
             "hu": "Élvezze a téli autózást a fűtött kocsiban a festői Quimperlén keresztül. Reggel a templomnál kezdünk, megcsodálva a tiszta kilátást. Délben a városban tervezünk egy megállót a felmelegedéshez. Mivel már 17:00 körül sötétedik, időben elindulunk a távolabbi helyszínekre, hogy kihasználjuk az utolsó fényeket.",
             "ro": "Bucurați-vă de drumul de iarnă în mașina încălzită prin pitorescul Quimperlé. Începem dimineața la biserică, admirând vizibilitatea clară. La prânz planificăm o oprire în oraș pentru încălzire. Deoarece se întunecă deja în jur de ora 17:00, plecăm la timp spre locurile mai îndepărtate.",
-            "en": "Enjoy the winter drive in a heated car through picturesque Quimperlé. We start at the church in the morning, admiring the clear views. At noon, a stop in town to warm up is planned. Since it gets dark around 5:00 PM, we head to the outlying sites in time to catch the last bits of daylight."
+            "en": "Enjoy the winter drive in a heated car through picturesque Quimperlé. We start at the church in the morning, admiring the clear views. At noon, a stop in town to warm up is planned. Since it gets dark around 5:00 PM, we head to the outlying sites in time to catch the last bits of daylight.",
+            "fr": "Profitez de la route hivernale dans une voiture chauffée à travers le pittoresque Quimperlé. Nous commençons à l'église le matin, en admirant les vues nettes. À midi, une halte en ville pour se réchauffer est prévue. Comme il fait nuit vers 17h00, nous prenons la direction des sites périphériques à temps pour profiter des derniers instants de lumière du jour."
           },
           "stops": [
             {
@@ -906,13 +1005,15 @@
                 "de": "Kirche Notre-Dame de l'Assomption",
                 "hu": "Notre-Dame de l'Assomption templom",
                 "ro": "Biserica Notre-Dame de l'Assomption",
-                "en": "Notre-Dame de l'Assomption Church"
+                "en": "Notre-Dame de l'Assomption Church",
+                "fr": "Église Notre-Dame de l'Assomption"
               },
               "tip_5lang": {
                 "de": "Parken Sie direkt am Hügel; der kurze Weg zur Kirche lohnt sich für die stille, winterliche Atmosphäre und den weiten Blick über das frostige Tal.",
                 "hu": "Parkoljon le közvetlenül a dombnál; a rövid séta a templomhoz megéri a csendes, téli hangulatért és a fagyos völgyre nyíló tágas kilátásért.",
                 "ro": "Parcați direct lângă deal; scurta plimbare până la biserică merită pentru atmosfera liniștită de iarnă și vederea panoramică asupra văii înghețate.",
-                "en": "Park right by the hill; the short walk to the church is worth it for the quiet, winter atmosphere and the expansive view over the frosty valley."
+                "en": "Park right by the hill; the short walk to the church is worth it for the quiet, winter atmosphere and the expansive view over the frosty valley.",
+                "fr": "Garez-vous au pied de la colline ; la courte marche jusqu'à l'église vaut le coup pour l'atmosphère hivernale paisible et la vue étendue sur la vallée givrée."
               }
             },
             {
@@ -920,13 +1021,15 @@
                 "de": "Abtei Sainte-Croix",
                 "hu": "Sainte-Croix apátság",
                 "ro": "Abația Sainte-Croix",
-                "en": "Sainte-Croix Abbey"
+                "en": "Sainte-Croix Abbey",
+                "fr": "Abbaye Sainte-Croix"
               },
               "tip_5lang": {
                 "de": "Besuchen Sie die Abtei am Vormittag, wenn das Licht flach einfällt; die dicken Mauern bieten Schutz vor dem schneidenden Winterwind vom Fluss.",
                 "hu": "Látogassa meg az apátságot délelőtt, amikor a fény alacsony szögből érkezik; a vastag falak védelmet nyújtanak a folyó felől fújó metsző téli szél ellen.",
                 "ro": "Vizitați abația dimineața, când lumina cade oblic; zidurile groase oferă protecție împotriva vântului tăios de iarnă care bate dinspre râu.",
-                "en": "Visit the abbey in the morning when the light is low; the thick walls provide excellent protection from the biting winter wind coming off the river."
+                "en": "Visit the abbey in the morning when the light is low; the thick walls provide excellent protection from the biting winter wind coming off the river.",
+                "fr": "Visitez l'abbaye le matin lorsque la lumière est basse ; les murs épais offrent une excellente protection contre le vent hivernal cinglant venant de la rivière."
               }
             },
             {
@@ -934,13 +1037,15 @@
                 "de": "Haus der Bogenschützen",
                 "hu": "Íjászok háza (Maison des Archers)",
                 "ro": "Casa Arcașilor",
-                "en": "Maison des Archers"
+                "en": "Maison des Archers",
+                "fr": "Maison des Archers"
               },
               "tip_5lang": {
                 "de": "Nutzen Sie die beheizten Ausstellungsräume für eine kulturelle Pause; prüfen Sie vorab die Winteröffnungszeiten, um nicht vor verschlossenen Türen zu stehen.",
                 "hu": "Használja ki a fűtött kiállítótereket egy kulturális pihenőre; előre ellenőrizze a téli nyitvatartást, hogy elkerülje a zárt ajtókat.",
                 "ro": "Folosiți spațiile de expoziție încălzite pentru o pauză culturală; verificați programul de iarnă în avans pentru a evita ușile închise.",
-                "en": "Make use of the heated exhibition spaces for a cultural break; check the winter opening hours in advance to avoid arriving at closed doors."
+                "en": "Make use of the heated exhibition spaces for a cultural break; check the winter opening hours in advance to avoid arriving at closed doors.",
+                "fr": "Profitez des salles d'exposition chauffées pour une pause culturelle ; vérifiez les horaires d'ouverture hivernaux à l'avance pour éviter d'arriver devant des portes closes."
               }
             },
             {
@@ -948,13 +1053,15 @@
                 "de": "Blumenbrücke (Pont Fleuri)",
                 "hu": "Pont Fleuri (Virágos híd)",
                 "ro": "Pont Fleuri (Podul cu Flori)",
-                "en": "Pont Fleuri"
+                "en": "Pont Fleuri",
+                "fr": "Pont Fleuri"
               },
               "tip_5lang": {
                 "de": "Ein schneller Fotostopp direkt vom Parkplatz aus; die winterliche Ellé hat eine ganz eigene, ruhige Ästhetik ohne das übliche Sommergrün.",
                 "hu": "Egy gyors fotómegálló közvetlenül a parkolóból; a téli Ellé folyónak sajátos, nyugodt esztétikája van a szokásos nyári zöldellés nélkül.",
                 "ro": "O scurtă oprire pentru poze direct din parcare; râul Ellé iarna are o estetică proprie, liniștită, fără verdeața obișnuită de vară.",
-                "en": "A quick photo stop directly from the parking area; the wintry Ellé has its own quiet aesthetic without the usual lush summer greenery."
+                "en": "A quick photo stop directly from the parking area; the wintry Ellé has its own quiet aesthetic without the usual lush summer greenery.",
+                "fr": "Un arrêt photo rapide directement depuis le parking ; l'Ellé hivernal possède sa propre esthétique tranquille sans la verdure luxuriante habituelle de l'été."
               }
             },
             {
@@ -962,13 +1069,15 @@
                 "de": "Wasserreservoir",
                 "hu": "Víztározó",
                 "ro": "Rezervor de apă",
-                "en": "Water Reservoir"
+                "en": "Water Reservoir",
+                "fr": "Réservoir d'eau"
               },
               "tip_5lang": {
                 "de": "Die Fahrt hierher führt durch die winterliche bretonische Landschaft; genießen Sie die karge Schönheit der Natur bequem vom warmen Auto aus.",
                 "hu": "Az idevezető út a téli breton tájon keresztül visz; élvezze a természet kopár szépségét kényelmesen a meleg autóból szemlélődve.",
                 "ro": "Drumul până aici trece prin peisajul breton de iarnă; bucurați-vă de frumusețea austeră a naturii confortabil, din mașina caldă.",
-                "en": "The drive here takes you through the winter Breton countryside; enjoy the stark beauty of nature comfortably from your warm car."
+                "en": "The drive here takes you through the winter Breton countryside; enjoy the stark beauty of nature comfortably from your warm car.",
+                "fr": "La route jusqu'ici vous fait traverser la campagne bretonne hivernale ; appréciez la beauté dépouillée de la nature confortablement depuis votre voiture chaude."
               }
             },
             {
@@ -976,13 +1085,15 @@
                 "de": "Waschhaus von Kerluhec",
                 "hu": "Kerluhec mosóház",
                 "ro": "Spălătoria din Kerluhec",
-                "en": "Kerluhec Washhouse"
+                "en": "Kerluhec Washhouse",
+                "fr": "Lavoir de Kerluhec"
               },
               "tip_5lang": {
                 "de": "Besuchen Sie diesen Ort vor 17:00 Uhr, um die Details im Tageslicht zu sehen; die friedliche Stille am Wasser ist im Winter besonders spürbar.",
                 "hu": "Látogasson el ide 17:00 előtt, hogy még nappali fénynél láthassa a részleteket; a vízparti békés csend télen különösen mélynek és átélhetőnek hat.",
                 "ro": "Vizitați acest loc înainte de ora 17:00 pentru a vedea detaliile în lumina zilei; liniștea deplină de lângă apă este deosebit de resimțită iarna.",
-                "en": "Visit this site before 5:00 PM to see the details in daylight; the peaceful silence by the water is particularly palpable during the winter months."
+                "en": "Visit this site before 5:00 PM to see the details in daylight; the peaceful silence by the water is particularly palpable during the winter months.",
+                "fr": "Visitez ce site avant 17h00 pour voir les détails à la lumière du jour ; le silence paisible près de l'eau est particulièrement palpable en hiver."
               }
             }
           ]

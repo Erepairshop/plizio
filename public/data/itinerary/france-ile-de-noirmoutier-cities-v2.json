@@ -21,7 +21,8 @@
             "de": "Château-Musée de Noirmoutier",
             "hu": "Noirmoutier kastélymúzeum",
             "ro": "Castelul-Muzeu din Noirmoutier",
-            "en": "Noirmoutier Castle Museum"
+            "en": "Noirmoutier Castle Museum",
+            "fr": "Noirmoutier Castle Museum"
           },
           "coords": [
             -2.242127,
@@ -36,7 +37,8 @@
             "de": "Erkunden Sie diese bemerkenswert erhaltene Burg aus dem 12. Jahrhundert, um die mittelalterliche Geschichte der Insel kennenzulernen, und besteigen Sie den Bergfried für ein tolles Panorama.",
             "hu": "Fedezze fel ezt a figyelemre méltóan megőrzött 12. századi kastélyt a sziget középkori történelméért, és feltétlenül másszon fel az öregtoronyba a lenyűgöző panorámáért.",
             "ro": "Explorați acest castel din secolul al XII-lea uimitor de bine conservat pentru a descoperi istoria medievală, asigurându-vă că urcați în donjon pentru o panoramă excepțională.",
-            "en": "Explore this remarkably preserved 12th-century castle to uncover the island's medieval history, and be sure to climb the keep for panoramic views of the entire region."
+            "en": "Explore this remarkably preserved 12th-century castle to uncover the island's medieval history, and be sure to climb the keep for panoramic views of the entire region.",
+            "fr": "Explorez ce château remarquablement préservé du XIIe siècle pour découvrir l'histoire médiévale de l'île, et pensez à monter dans le donjon pour des vues panoramiques de toute la région."
           }
         },
         {
@@ -44,7 +46,8 @@
             "de": "Centre des patrimoines maritimes",
             "hu": "Tengerészeti Örökség Központ",
             "ro": "Centrul Patrimoniului Maritim",
-            "en": "Maritime Heritage Center"
+            "en": "Maritime Heritage Center",
+            "fr": "Maritime Heritage Center"
           },
           "coords": [
             -2.243459,
@@ -59,7 +62,8 @@
             "de": "Tauchen Sie durch faszinierende Ausstellungen über den traditionellen Schiffbau in das maritime Erbe ein und nutzen Sie die informativen Führungen, die oft am späten Vormittag stattfinden.",
             "hu": "Merüljön el a sziget gazdag tengerészeti örökségében a hagyományos hajóépítést bemutató izgalmas kiállításokon, és csatlakozzon egy délelőtti vezetett túrához az extra élményért.",
             "ro": "Pătrundeți în bogata moștenire maritimă a insulei prin expoziții fascinante despre construcția tradițională de nave, ținând cont că tururile ghidate au loc adesea dimineața.",
-            "en": "Dive into the rich maritime heritage of the island through fascinating exhibits on traditional shipbuilding, while noting that guided tours often run during the late morning."
+            "en": "Dive into the rich maritime heritage of the island through fascinating exhibits on traditional shipbuilding, while noting that guided tours often run during the late morning.",
+            "fr": "Plongez dans le riche patrimoine maritime de l'île à travers des expositions fascinantes sur la construction navale traditionnelle, en notant que les visites guidées ont souvent lieu en fin de matinée."
           }
         },
         {
@@ -67,7 +71,8 @@
             "de": "Centre Culturel Les Salorges",
             "hu": "Les Salorges Kulturális Központ",
             "ro": "Centrul Cultural Les Salorges",
-            "en": "Les Salorges Cultural Center"
+            "en": "Les Salorges Cultural Center",
+            "fr": "Les Salorges Cultural Center"
           },
           "coords": [
             -2.245005,
@@ -82,7 +87,8 @@
             "de": "Bewundern Sie zeitgenössische Kunst und lokale Ausstellungen in diesen historischen, wunderschön umgebauten Salzlagern, die Sie am besten kurz vor der Mittagspause besuchen.",
             "hu": "Csodálja meg a kortárs művészeti és helyi kulturális kiállításokat ezekben a történelmi, gyönyörűen átalakított sóraktárakban, amelyeket érdemes közvetlenül ebédidő előtt meglátogatni.",
             "ro": "Admirați arta contemporană și expozițiile locale în aceste foste depozite istorice de sare frumos transformate, cel mai bine vizitate chiar înainte de prânz pentru a evita aglomerația.",
-            "en": "Admire contemporary art and local cultural exhibitions within these historic, beautifully converted salt warehouses, best visited just before lunchtime to avoid the crowds."
+            "en": "Admire contemporary art and local cultural exhibitions within these historic, beautifully converted salt warehouses, best visited just before lunchtime to avoid the crowds.",
+            "fr": "Admirez l'art contemporain et les expositions culturelles locales dans ces anciennes salorges magnifiquement réaménagées ; visitez de préférence juste avant le déjeuner pour éviter la foule."
           }
         },
         {
@@ -90,7 +96,8 @@
             "de": "La Fabrik",
             "hu": "La Fabrik Művészeti Tér",
             "ro": "La Fabrik",
-            "en": "La Fabrik"
+            "en": "La Fabrik",
+            "fr": "La Fabrik"
           },
           "coords": [
             -2.24668,
@@ -105,7 +112,8 @@
             "de": "Entdecken Sie skurrile, einfallsreiche lokale Kunsthandwerke in diesem einzigartigen kreativen Raum und erwägen Sie, ein handgemachtes Souvenir direkt von den Künstlern zu kaufen.",
             "hu": "Fedezze fel a mókás, ötletes helyi kézműves termékeket és művészeti installációkat ebben az egyedi kreatív térben, és vásároljon egyedi, kézzel készített ajándékot a művészektől.",
             "ro": "Descoperiți meșteșuguri locale și instalații de artă pline de inventivitate în acest spațiu creativ unic și nu ezitați să cumpărați un suvenir realizat manual direct de la artizani.",
-            "en": "Discover quirky, inventive local crafts and art installations in this unique creative space, and consider purchasing a handmade souvenir directly from the resident artisans."
+            "en": "Discover quirky, inventive local crafts and art installations in this unique creative space, and consider purchasing a handmade souvenir directly from the resident artisans.",
+            "fr": "Découvrez des objets locaux inventifs et des installations artistiques dans cet espace créatif unique, et pensez à acheter un souvenir fait main directement auprès des artisans résidents."
           }
         },
         {
@@ -113,7 +121,8 @@
             "de": "Parc Aquatique Océan'Ile",
             "hu": "Océan'Ile Vízipark",
             "ro": "Parcul Acvatic Océan'Ile",
-            "en": "Océan'Ile Water Park"
+            "en": "Océan'Ile Water Park",
+            "fr": "Océan'Ile Water Park"
           },
           "coords": [
             -2.248591,
@@ -128,7 +137,8 @@
             "de": "Beenden Sie Ihre Tour mit familiärem Spaß in diesem lebhaften Wasserpark und bringen Sie Ihre eigenen Handtücher mit, während Sie die Wellenbäder und aufregenden Rutschen genießen.",
             "hu": "Zárja a gyalogos túrát családi szórakozással ebben a nyüzsgő vízi parkban, és hozzon magával saját törölközőt, miközben élvezi a hullámmedencéket és az izgalmas csúszdákat.",
             "ro": "Încheiați-vă plimbarea cu o distracție în familie la acest parc acvatic plin de viață, aducându-vă propriile prosoape pentru a economisi în timp ce vă bucurați de piscine și tobogane.",
-            "en": "End your walking tour with family-friendly fun at this lively water park, packing your own towels to save money while enjoying the wave pools and thrilling water slides."
+            "en": "End your walking tour with family-friendly fun at this lively water park, packing your own towels to save money while enjoying the wave pools and thrilling water slides.",
+            "fr": "Terminez votre balade à pied par des activités familiales à ce parc aquatique animé ; emportez vos propres serviettes pour économiser tout en profitant des bassins à vagues et des toboggans exaltants."
           }
         }
       ],
@@ -136,7 +146,8 @@
         "de": "Beginnen Sie Ihren Morgen im Herzen der Insel und erkunden Sie das majestätische Schloss von Noirmoutier. Die mittelalterlichen Mauern erzählen spannende Geschichten. Danach tauchen wir im maritimen Zentrum in die Seefahrtstradition ein.\nZur Mittagszeit erwarten Sie im Centre Culturel Les Salorges faszinierende Kunstwerke. Diese historischen Salzspeicher bieten eine einmalige Atmosphäre.\nAm Nachmittag spazieren wir zur La Fabrik, wo lokale Künstler ihre kreativen Werke präsentieren. Die inspirierende Umgebung lädt zum Verweilen ein.\nDer Tag endet entspannt im Parc Aquatique Océan'Ile. Hier können Sie die gewonnenen Eindrücke Revue passieren lassen und das kühle Nass in vollen Zügen genießen.",
         "hu": "Kezdje a reggelt a sziget szívében, felfedezve a fenséges Noirmoutier kastélyt, amelynek középkori falai izgalmas történeteket rejtenek. Ezután merüljön el a tengerészeti központ kiállításaiban.\nDélben a Centre Culturel Les Salorges kortárs művészeti alkotásai várják. Ezek a történelmi sóraktárak egyedülálló kulturális élményt nyújtanak.\nDélután sétáljon át a La Fabrik kreatív terébe, ahol a helyi művészek egyedi kézműves munkáit csodálhatja meg, és ihletet meríthet a különleges hangulatból.\nA nap egy frissítő élménnyel zárul a Parc Aquatique Océan'Ile vízi parkjában, ahol a család minden tagja kikapcsolódhat a mozgalmas gyalogos túra után.",
         "ro": "Începeți dimineața în inima insulei explorând maiestuosul Castel Noirmoutier, ale cărui ziduri medievale ascund povești captivante. Apoi, descoperiți tradițiile locale la centrul maritim.\nLa prânz, expozițiile de artă contemporană de la Centre Culturel Les Salorges vă așteaptă. Aceste foste depozite de sare oferă acum o atmosferă culturală unică.\nDupă-amiaza, plimbați-vă până la La Fabrik, un spațiu creativ unde artizanii locali își expun capodoperele. Mediul inspirat vă invită la contemplare.\nZiua se încheie cu o notă relaxantă la Parc Aquatique Océan'Ile. Aici, vă puteți bucura de distracție în apă, lăsând în urmă agitația plimbării urbane.",
-        "en": "Start your morning in the island's heart, exploring the majestic Noirmoutier Castle where medieval walls reveal fascinating tales. Afterward, dive into maritime traditions nearby.\nAt midday, contemporary art awaits at the Centre Culturel Les Salorges. These beautifully restored historic salt warehouses offer a truly unique cultural atmosphere.\nIn the afternoon, stroll over to La Fabrik, a creative hub where local artisans showcase their inventive crafts. The inspiring environment is perfect for discovering unique treasures.\nThe day concludes with family fun at the Parc Aquatique Océan'Ile. Enjoy the refreshing water activities as you unwind from a full day of walking through the island's history."
+        "en": "Start your morning in the island's heart, exploring the majestic Noirmoutier Castle where medieval walls reveal fascinating tales. Afterward, dive into maritime traditions nearby.\nAt midday, contemporary art awaits at the Centre Culturel Les Salorges. These beautifully restored historic salt warehouses offer a truly unique cultural atmosphere.\nIn the afternoon, stroll over to La Fabrik, a creative hub where local artisans showcase their inventive crafts. The inspiring environment is perfect for discovering unique treasures.\nThe day concludes with family fun at the Parc Aquatique Océan'Ile. Enjoy the refreshing water activities as you unwind from a full day of walking through the island's history.",
+        "fr": "Commencez la matinée au cœur de l'île en explorant le majestueux château de Noirmoutier où les murs médiévaux racontent des histoires fascinantes. Ensuite, plongez dans les traditions maritimes à proximité.\nÀ midi, l'art contemporain vous attend au Centre Culturel Les Salorges. Ces anciennes salorges joliment restaurées offrent une ambiance culturelle vraiment unique.\nL'après-midi, promenez-vous jusqu'à La Fabrik, un pôle créatif où les artisans locaux présentent leurs objets inventifs. L'ambiance inspirante est parfaite pour dénicher des trésors uniques.\nLa journée se conclut par des moments en famille au Parc Aquatique Océan'Ile. Profitez des activités aquatiques rafraîchissantes pour vous détendre après une journée complète à parcourir l'histoire de l'île."
       },
       "variants": {
         "rainy": {
@@ -144,7 +155,8 @@
             "de": "Regnerischer Morgen im Schlossmuseum, wo die dicken Mauern perfekten Schutz bieten. Mittags erkunden Sie das maritime Erbe unter Dach im Zentrum. Der Nachmittag gehört der Kunst in den Galerien von Les Salorges und La Fabrik. Der Abend klingt im Wasserpark aus, wo das Wetter keine Rolle spielt, solange Sie drinnen sind. Achten Sie auf rutschige Pflastersteine in der Altstadt.",
             "hu": "Esős reggel a várkastélyban, ahol a vastag falak óvnak a széltől. Délben fedett helyen ismerkedhet meg a tengerészmúlt titkaival az örökség központban. Délután a Les Salorges és a La Fabrik galériái nyújtanak művészi menedéket a záporok elől. Az estét a víziparkban zárhatja, ahol a víz amúgy is alapélmény. Viseljen csúszásmentes lábbelit az óvárosi köveken.",
             "ro": "Dimineață ploioasă la castel, unde zidurile groase oferă adăpost ideal. La prânz, explorați patrimoniul maritim în interiorul centrului specializat. După-amiaza este dedicată artei în galeriile Les Salorges și La Fabrik, ferite de stropii de ploaie. Seara se încheie la parcul acvatic, unde vremea de afară nu contează. Atenție la pavajul alunecos din centrul vechi.",
-            "en": "A rainy morning at the castle museum, where thick walls provide perfect shelter. At noon, explore maritime history indoors at the heritage center. The afternoon is dedicated to art in the galleries of Les Salorges and La Fabrik, safe from the showers. The evening ends at the water park, where the wet weather is part of the fun anyway. Watch out for slippery cobblestones."
+            "en": "A rainy morning at the castle museum, where thick walls provide perfect shelter. At noon, explore maritime history indoors at the heritage center. The afternoon is dedicated to art in the galleries of Les Salorges and La Fabrik, safe from the showers. The evening ends at the water park, where the wet weather is part of the fun anyway. Watch out for slippery cobblestones.",
+            "fr": "Une matinée pluvieuse au musée du château, où des murs épais offrent un abri parfait. À midi, explorez l'histoire maritime en intérieur au centre du patrimoine. L'après-midi est dédiée à l'art dans les galeries des Salorges et de La Fabrik, à l'abri des averses. La soirée se termine au parc aquatique, où le temps mouillé fait partie du divertissement. Attention aux pavés glissants."
           },
           "stops": [
             {
@@ -152,13 +164,15 @@
                 "de": "Château-Musée de Noirmoutier",
                 "hu": "Noirmoutier kastélymúzeum",
                 "ro": "Castelul-Muzeu din Noirmoutier",
-                "en": "Noirmoutier Castle Museum"
+                "en": "Noirmoutier Castle Museum",
+                "fr": "Noirmoutier Castle Museum"
               },
               "tip_5lang": {
                 "de": "Entdecken Sie die Geschichte der Insel in den trockenen Sälen des Donjons; ein idealer Zufluchtsort bei starkem Regen mit tollen Exponaten.",
                 "hu": "Fedezze fel a sziget történelmét a lakótorony száraz termeiben; ideális menedék heves esőzés idején, gazdag kiállítási anyaggal.",
                 "ro": "Descoperiți istoria insulei în sălile uscate ale donjonului; un refugiu ideal în timpul ploilor torențiale, cu exponate fascinante.",
-                "en": "Explore the island's history in the dry halls of the keep; an ideal refuge during heavy rain with excellent museum exhibits."
+                "en": "Explore the island's history in the dry halls of the keep; an ideal refuge during heavy rain with excellent museum exhibits.",
+                "fr": "Explorez l'histoire de l'île dans les salles sèches du donjon ; un refuge idéal en cas de fortes pluies avec d'excellentes expositions muséales."
               }
             },
             {
@@ -166,13 +180,15 @@
                 "de": "Centre des patrimoines maritimes",
                 "hu": "Tengerészeti Örökség Központ",
                 "ro": "Centrul Patrimoniului Maritim",
-                "en": "Maritime Heritage Center"
+                "en": "Maritime Heritage Center",
+                "fr": "Maritime Heritage Center"
               },
               "tip_5lang": {
                 "de": "Tauchen Sie ein in die Welt des Schiffbaus in dieser wettergeschützten Halle; perfekt, um die maritime Handwerkskunst ohne Regenschirm zu bestaunen.",
                 "hu": "Merüljön el a hajóépítés világában ebben az időjárástól védett csarnokban; tökéletes a tengeri mesterségek megismeréséhez esernyő nélkül.",
                 "ro": "Cufundați-vă în lumea construcțiilor navale în această hală protejată de intemperii; ideal pentru a vedea meșteșugurile maritime la adăpost.",
-                "en": "Dive into the world of shipbuilding in this weather-protected hall; perfect for admiring maritime craftsmanship without an umbrella."
+                "en": "Dive into the world of shipbuilding in this weather-protected hall; perfect for admiring maritime craftsmanship without an umbrella.",
+                "fr": "Plongez dans l'univers de la construction navale dans cette salle protégée des intempéries ; parfait pour admirer le savoir-faire maritime sans parapluie."
               }
             },
             {
@@ -180,13 +196,15 @@
                 "de": "Centre Culturel Les Salorges",
                 "hu": "Les Salorges Kulturális Központ",
                 "ro": "Centrul Cultural Les Salorges",
-                "en": "Les Salorges Cultural Center"
+                "en": "Les Salorges Cultural Center",
+                "fr": "Les Salorges Cultural Center"
               },
               "tip_5lang": {
                 "de": "Genießen Sie wechselnde Ausstellungen in einem modernen, trockenen Ambiente; nutzen Sie die Zeit für Kultur, während draußen der Regen prasselt.",
                 "hu": "Élvezze az időszaki kiállításokat modern, száraz környezetben; használja ki a kulturális feltöltődést, amíg odakint kopog az eső.",
                 "ro": "Bucurați-vă de expoziții temporare într-un ambient modern și uscat; profitați de cultură în timp ce afară plouă torențial.",
-                "en": "Enjoy temporary exhibitions in a modern, dry setting; use this time for culture while the rain drums on the roof outside."
+                "en": "Enjoy temporary exhibitions in a modern, dry setting; use this time for culture while the rain drums on the roof outside.",
+                "fr": "Profitez des expositions temporaires dans un cadre moderne et sec ; profitez de ce temps pour la culture pendant que la pluie tambourine sur le toit."
               }
             },
             {
@@ -194,13 +212,15 @@
                 "de": "La Fabrik",
                 "hu": "La Fabrik Művészeti Tér",
                 "ro": "La Fabrik",
-                "en": "La Fabrik"
+                "en": "La Fabrik",
+                "fr": "La Fabrik"
               },
               "tip_5lang": {
                 "de": "Ein kreativer Indoor-Hotspot für Kunstliebhaber; bewundern Sie lokale Werke und bleiben Sie dabei garantiert trocken und inspiriert.",
                 "hu": "Kreatív beltéri találkozóhely a művészet kedvelőinek; csodálja meg a helyi alkotásokat, miközben garantáltan száraz és ihletett marad.",
                 "ro": "Un punct de atracție artistic în interior pentru iubitorii de frumos; admirați lucrările locale și rămâneți cu siguranță uscat.",
-                "en": "A creative indoor hotspot for art lovers; admire local works and stay guaranteed dry and inspired despite the gray skies."
+                "en": "A creative indoor hotspot for art lovers; admire local works and stay guaranteed dry and inspired despite the gray skies.",
+                "fr": "Un lieu créatif intérieur pour les amateurs d'art ; admirez les œuvres locales et restez au sec et inspiré malgré le ciel gris."
               }
             },
             {
@@ -208,13 +228,15 @@
                 "de": "Parc Aquatique Océan'Ile",
                 "hu": "Océan'Ile Vízipark",
                 "ro": "Parcul Acvatic Océan'Ile",
-                "en": "Océan'Ile Water Park"
+                "en": "Océan'Ile Water Park",
+                "fr": "Océan'Ile Water Park"
               },
               "tip_5lang": {
                 "de": "Nutzen Sie die beheizten Innenbecken für Badespaß bei jedem Wetter; bringen Sie rutschfeste Badeschuhe für die nassen Fliesenbereiche mit.",
                 "hu": "Használja a fűtött beltéri medencéket a fürdőzéshez bármilyen időben; vigyen magával csúszásmentes papucsot a vizes felületekre.",
                 "ro": "Folosiți piscinele interioare încălzite pentru distracție indiferent de vreme; aduceți papuci antiderapanți pentru zonele cu gresie umedă.",
-                "en": "Make use of the heated indoor pools for swimming fun in any weather; bring non-slip flip-flops for the wet tiled areas."
+                "en": "Make use of the heated indoor pools for swimming fun in any weather; bring non-slip flip-flops for the wet tiled areas.",
+                "fr": "Profitez des bassins intérieurs chauffés pour nager par tous les temps ; apportez des tongs antidérapantes pour les zones carrelées humides."
               }
             }
           ]
@@ -224,7 +246,8 @@
             "de": "Frischer Wintermorgen am Schloss, die klare Luft schärft den Blick. Mittags wärmen Sie sich in den maritimen Ausstellungen auf. Am Nachmittag bieten die Kulturzentren eine behagliche Atmosphäre vor dem frühen Sonnenuntergang um 17:00 Uhr. Abends entspannen Sie in den warmen Thermalbecken des Wasserparks. Kleiden Sie sich nach dem Zwiebelprinzip gegen den Seewind.",
             "hu": "Friss téli reggel a várnál, a tiszta levegőben messzire ellátni. Délben melegedjen fel a tengerészeti kiállítások termei között. Délután a kulturális központok nyújtanak meghitt hangulatot a korai, 17:00-s naplemente előtt. Az estét a vízipark fűtött medencéiben zárhatja le kényelmesen. Öltözzön rétegesen a metsző tengeri szél ellen.",
             "ro": "Dimineață rece de iarnă la castel, unde aerul curat ascute simțurile. La prânz, încălziți-vă vizitând expozițiile maritime. După-amiaza, centrele culturale oferă o atmosferă primitoare înainte de apusul devreme de la ora 17:00. Seara se încheie relaxant în piscinele calde ale parcului acvatic. Purtați haine groase împotriva vântului marin.",
-            "en": "A crisp winter morning at the castle, where the clear air sharpens the view. At noon, warm up inside the maritime exhibitions. In the afternoon, cultural centers offer a cozy atmosphere before the early 5:00 PM sunset. Spend the evening relaxing in the heated pools of the water park. Dress in layers against the biting sea wind."
+            "en": "A crisp winter morning at the castle, where the clear air sharpens the view. At noon, warm up inside the maritime exhibitions. In the afternoon, cultural centers offer a cozy atmosphere before the early 5:00 PM sunset. Spend the evening relaxing in the heated pools of the water park. Dress in layers against the biting sea wind.",
+            "fr": "Un matin d'hiver vif au château, où l'air clair aiguise la vue. À midi, réchauffez-vous à l'intérieur des expositions maritimes. L'après-midi, les centres culturels offrent une ambiance cosy avant le coucher du soleil précoce à 17 h. Passez la soirée à vous détendre dans les piscines chauffées du parc aquatique. Habillez-vous en couches contre le vent marin piquant."
           },
           "stops": [
             {
@@ -232,13 +255,15 @@
                 "de": "Château-Musée de Noirmoutier",
                 "hu": "Noirmoutier kastélymúzeum",
                 "ro": "Castelul-Muzeu din Noirmoutier",
-                "en": "Noirmoutier Castle Museum"
+                "en": "Noirmoutier Castle Museum",
+                "fr": "Noirmoutier Castle Museum"
               },
               "tip_5lang": {
                 "de": "Genießen Sie die Ruhe der Nebensaison in den historischen Räumen; die dicken Steinmauern halten die frostige Winterbrise effektiv draußen.",
                 "hu": "Élvezze a holtszezon nyugalmát a történelmi falak között; a vastag kőfalak hatékonyan kint tartják a fagyos téli fuvallatokat.",
                 "ro": "Bucurați-vă de liniștea extrasezonului în sălile istorice; zidurile groase de piatră țin la distanță briza înghețată de iarnă.",
-                "en": "Enjoy the off-season tranquility within these historical walls; the thick stone structure effectively keeps the frosty winter breeze out."
+                "en": "Enjoy the off-season tranquility within these historical walls; the thick stone structure effectively keeps the frosty winter breeze out.",
+                "fr": "Appréciez la tranquillité hors saison au sein de ces murs historiques ; la structure épaisse en pierre protège efficacement de la bise glaciale d'hiver."
               }
             },
             {
@@ -246,13 +271,15 @@
                 "de": "Centre des patrimoines maritimes",
                 "hu": "Tengerészeti Örökség Központ",
                 "ro": "Centrul Patrimoniului Maritim",
-                "en": "Maritime Heritage Center"
+                "en": "Maritime Heritage Center",
+                "fr": "Maritime Heritage Center"
               },
               "tip_5lang": {
                 "de": "Ein wunderbarer Ort, um etwas über lokale Traditionen zu lernen, während man sich drinnen aufwärmt; ideal für einen längeren Aufenthalt bei Kälte.",
                 "hu": "Csodás hely a helyi hagyományok megismerésére, miközben bent melegszik; ideális hosszabb időtöltésre a nagy hidegben.",
                 "ro": "Un loc minunat pentru a învăța despre tradițiile locale în timp ce vă încălziți; ideal pentru o vizită prelungită pe timp de frig.",
-                "en": "A wonderful place to learn about local traditions while warming up indoors; ideal for a longer stay when it is cold outside."
+                "en": "A wonderful place to learn about local traditions while warming up indoors; ideal for a longer stay when it is cold outside.",
+                "fr": "Un endroit idéal pour découvrir les traditions locales tout en se réchauffant à l'intérieur ; parfait pour un séjour plus long quand il fait froid dehors."
               }
             },
             {
@@ -260,13 +287,15 @@
                 "de": "Centre Culturel Les Salorges",
                 "hu": "Les Salorges Kulturális Központ",
                 "ro": "Centrul Cultural Les Salorges",
-                "en": "Les Salorges Cultural Center"
+                "en": "Les Salorges Cultural Center",
+                "fr": "Les Salorges Cultural Center"
               },
               "tip_5lang": {
                 "de": "Nutzen Sie das behagliche Innere für eine kulturelle Pause; die Ausstellungen sind im Winter oft weniger überlaufen und sehr entspannend.",
                 "hu": "Használja ki a barátságos belső tereket egy kulturális szünetre; a kiállítások télen kevésbé zsúfoltak és nagyon pihentetőek.",
                 "ro": "Folosiți interiorul primitor pentru o pauză culturală; expozițiile sunt adesea mai puțin aglomerate iarna și foarte relaxante.",
-                "en": "Utilize the cozy interior for a cultural break; the exhibitions are often less crowded in winter, offering a peaceful experience."
+                "en": "Utilize the cozy interior for a cultural break; the exhibitions are often less crowded in winter, offering a peaceful experience.",
+                "fr": "Profitez de l'intérieur douillet pour une pause culturelle ; les expositions sont souvent moins fréquentées en hiver, offrant une expérience paisible."
               }
             },
             {
@@ -274,13 +303,15 @@
                 "de": "La Fabrik",
                 "hu": "La Fabrik Művészeti Tér",
                 "ro": "La Fabrik",
-                "en": "La Fabrik"
+                "en": "La Fabrik",
+                "fr": "La Fabrik"
               },
               "tip_5lang": {
                 "de": "Wärmen Sie sich zwischen moderner Kunst auf; die kreative Energie lässt die grauen Wintertage draußen schnell vergessen.",
                 "hu": "Melegedjen fel a modern alkotások között; a kreatív energia hamar feledteti a kinti szürke téli napokat.",
                 "ro": "Încălziți-vă printre lucrările de artă modernă; energia creativă vă va face să uitați rapid de zilele gri de iarnă de afară.",
-                "en": "Warm up among modern artworks; the creative energy will make you quickly forget the gray winter days outside."
+                "en": "Warm up among modern artworks; the creative energy will make you quickly forget the gray winter days outside.",
+                "fr": "Réchauffez-vous parmi les œuvres modernes ; l'énergie créative vous fera rapidement oublier les jours gris d'hiver dehors."
               }
             },
             {
@@ -288,13 +319,15 @@
                 "de": "Parc Aquatique Océan'Ile",
                 "hu": "Océan'Ile Vízipark",
                 "ro": "Parcul Acvatic Océan'Ile",
-                "en": "Océan'Ile Water Park"
+                "en": "Océan'Ile Water Park",
+                "fr": "Océan'Ile Water Park"
               },
               "tip_5lang": {
                 "de": "Die Hallenbecken sind im Winter ein echtes Highlight für die ganze Familie; nehmen Sie einen warmen Bademantel für die Umkleiden mit.",
                 "hu": "A fedett medencék télen igazi fénypontot jelentenek az egész családnak; vigyen meleg fürdőköpenyt az öltözőkhöz.",
                 "ro": "Piscinele acoperite sunt un punct forte pentru întreaga familie în timpul iernii; luați un halat călduros pentru vestiare.",
-                "en": "The indoor pools are a real winter highlight for the whole family; bring a warm bathrobe for the locker room areas."
+                "en": "The indoor pools are a real winter highlight for the whole family; bring a warm bathrobe for the locker room areas.",
+                "fr": "Les bassins intérieurs sont un vrai point fort hivernal pour toute la famille ; apportez un peignoir chaud pour les vestiaires."
               }
             }
           ]
@@ -314,7 +347,8 @@
             "de": "L'île aux papillons",
             "hu": "Pillangók szigete",
             "ro": "Insula fluturilor",
-            "en": "Butterfly Island"
+            "en": "Butterfly Island",
+            "fr": "Butterfly Island"
           },
           "coords": [
             -2.244173,
@@ -329,7 +363,8 @@
             "de": "Schlendern Sie durch das größte Schmetterlingshaus Frankreichs, um Tausende bunte Arten frei fliegen zu sehen, und tragen Sie leichte Kleidung, da das tropische Klima recht feucht ist.",
             "hu": "Sétáljon végig Franciaország legnagyobb pillangóházán, ahol több ezer színes faj repdes szabadon, és viseljen könnyű ruházatot, mivel a trópusi klíma meglehetősen párás.",
             "ro": "Plimbați-vă prin cea mai mare seră de fluturi din Franța pentru a vedea mii de specii colorate, purtând haine lejere, deoarece climatul tropical este destul de umed și cald.",
-            "en": "Wander through the largest butterfly greenhouse in France to see thousands of colorful species flying freely, ensuring you wear light clothing as the tropical climate is quite humid."
+            "en": "Wander through the largest butterfly greenhouse in France to see thousands of colorful species flying freely, ensuring you wear light clothing as the tropical climate is quite humid.",
+            "fr": "Parcourez la plus grande serre aux papillons de France pour voir des milliers d'espèces colorées voler librement, en veillant à porter des vêtements légers car le climat tropical y est assez humide."
           }
         },
         {
@@ -337,7 +372,8 @@
             "de": "Village miniature",
             "hu": "Miniatűr falu",
             "ro": "Satul miniatură",
-            "en": "Miniature Village"
+            "en": "Miniature Village",
+            "fr": "Miniature Village"
           },
           "coords": [
             -2.25904,
@@ -352,7 +388,8 @@
             "de": "Bewundern Sie die detailgetreuen Miniaturnachbildungen traditioneller Dörfer der Vendée, ein reizvoller Halt, bei dem das Mitbringen einer Kamera mit Makroobjektiv sehr zu empfehlen ist.",
             "hu": "Csodálja meg a hagyományos vendée-i falvak aprólékosan kidolgozott miniatűr másolatait, egy elragadó megállóhely, ahová erősen ajánlott makróobjektíves fényképezőgépet hozni.",
             "ro": "Admirați miniaturile meticulos realizate ale satelor tradiționale din Vendée, o oprire încântătoare unde vă recomandăm să aduceți un aparat foto cu un obiectiv macro bun.",
-            "en": "Marvel at the meticulously crafted miniature recreations of traditional Vendée villages, a delightful stop where bringing a camera with a good macro lens is highly recommended."
+            "en": "Marvel at the meticulously crafted miniature recreations of traditional Vendée villages, a delightful stop where bringing a camera with a good macro lens is highly recommended.",
+            "fr": "Émerveillez-vous devant les reconstitutions miniatures méticuleusement travaillées des villages traditionnels de Vendée ; c'est un arrêt charmant où il est fortement recommandé d'apporter un appareil photo avec un bon objectif macro."
           }
         },
         {
@@ -360,7 +397,8 @@
             "de": "Église Saint-Jean-Baptiste",
             "hu": "Keresztelő Szent János-templom",
             "ro": "Biserica Saint-Jean-Baptiste",
-            "en": "Saint-Jean-Baptiste Church"
+            "en": "Saint-Jean-Baptiste Church",
+            "fr": "Saint-Jean-Baptiste Church"
           },
           "coords": [
             -2.268796,
@@ -375,7 +413,8 @@
             "de": "Treten Sie in diese wunderschöne historische Kirche ein, um die friedliche Atmosphäre und die Buntglasfenster zu bewundern, und denken Sie daran, sich drinnen leise zu verhalten.",
             "hu": "Lépjen be ebbe a gyönyörű történelmi templomba, hogy megcsodálja a békés légkört és a lenyűgöző ólomüveg ablakokat, ügyelve a csendre a csendes imádságok idején.",
             "ro": "Pășiți în această frumoasă biserică istorică pentru a-i admira atmosfera pașnică și vitraliile uimitoare, amintindu-vă să păstrați liniștea în momentele de rugăciune privată.",
-            "en": "Step inside this beautiful historic church to admire its peaceful atmosphere and stunning stained glass windows, remembering to keep your voice down during moments of private prayer."
+            "en": "Step inside this beautiful historic church to admire its peaceful atmosphere and stunning stained glass windows, remembering to keep your voice down during moments of private prayer.",
+            "fr": "Entrez dans cette belle église historique pour admirer son atmosphère paisible et ses vitraux splendides, en veillant à garder la voix basse lors de moments de prière privée."
           }
         },
         {
@@ -383,7 +422,8 @@
             "de": "Le sel de Ronan",
             "hu": "Ronan sólepárlója",
             "ro": "Sarea lui Ronan",
-            "en": "Ronan's Salt"
+            "en": "Ronan's Salt",
+            "fr": "Ronan's Salt"
           },
           "coords": [
             -2.265902,
@@ -398,7 +438,8 @@
             "de": "Erfahren Sie direkt vom leidenschaftlichen lokalen Erzeuger mehr über die traditionelle Meersalzgewinnung und kaufen Sie unbedingt eine Tüte des berühmten 'Fleur de Sel'.",
             "hu": "Ismerje meg a sziget hagyományos tengeri só betakarítását közvetlenül a szenvedélyes helyi termelőtől, és feltétlenül vegyen egy zacskó híres 'fleur de sel'-t hazavitelre.",
             "ro": "Aflați despre recoltarea tradițională a sării de mare direct de la producătorul local pasionat și asigurați-vă că achiziționați o pungă de 'fleur de sel' ca suvenir autentic.",
-            "en": "Learn about the island's traditional sea salt harvesting directly from the passionate local producer, and make sure to buy a bag of the famous 'fleur de sel' to take home."
+            "en": "Learn about the island's traditional sea salt harvesting directly from the passionate local producer, and make sure to buy a bag of the famous 'fleur de sel' to take home.",
+            "fr": "Découvrez la récolte traditionnelle du sel marin de l'île directement auprès du producteur passionné, et pensez à acheter un sachet de la célèbre « fleur de sel » à rapporter."
           }
         },
         {
@@ -406,7 +447,8 @@
             "de": "Moulin de la Bosse",
             "hu": "La Bosse szélmalom",
             "ro": "Moara din Bosse",
-            "en": "Bosse Windmill"
+            "en": "Bosse Windmill",
+            "fr": "Bosse Windmill"
           },
           "coords": [
             -2.282477,
@@ -421,7 +463,8 @@
             "de": "Fotografieren Sie diese gut erhaltene Windmühle, die von der landwirtschaftlichen Vergangenheit der Insel zeugt und über die malerischen Küstenradwege leicht zu erreichen ist.",
             "hu": "Fényképezze le ezt az ikonikus, jól megőrzött szélmalmot, amely a sziget mezőgazdasági múltjának bizonyítéka, és amely könnyen megközelíthető a festői tengerparti kerékpárutakon.",
             "ro": "Fotografiați această moară de vânt emblematică și bine conservată, o mărturie a trecutului agricol al insulei, ușor accesibilă prin traseele pitorești de ciclism de coastă.",
-            "en": "Photograph this iconic, well-preserved windmill that stands as a testament to the island's agricultural past, easily accessible via the scenic coastal cycling trails."
+            "en": "Photograph this iconic, well-preserved windmill that stands as a testament to the island's agricultural past, easily accessible via the scenic coastal cycling trails.",
+            "fr": "Photographiez ce moulin emblématique bien conservé, témoignage du passé agricole de l'île, facilement accessible via les pistes cyclables côtières pittoresques."
           }
         },
         {
@@ -429,7 +472,8 @@
             "de": "Plage de la Bosse",
             "hu": "La Bosse strand",
             "ro": "Plaja Bosse",
-            "en": "Bosse Beach"
+            "en": "Bosse Beach",
+            "fr": "Bosse Beach"
           },
           "coords": [
             -2.281239,
@@ -444,7 +488,8 @@
             "de": "Entspannen Sie an diesem unberührten Sandstrand, der bei den Einheimischen beliebt ist, und bringen Sie eigene Snacks mit, da die Restaurants in der Nebensaison begrenzt sind.",
             "hu": "Pihenjen ezen a helyiek által kedvelt, érintetlen homokos strandon, ahová érdemes saját harapnivalót hozni, mivel az étkezési lehetőségek a főszezonon kívül korlátozottak lehetnek.",
             "ro": "Relaxați-vă pe această plajă de nisip virgină, preferată de localnici, fiind ideal să vă aduceți propriile gustări deoarece opțiunile de luat masa sunt limitate în extrasezon.",
-            "en": "Relax on this pristine stretch of sandy beach favored by locals, where bringing your own snacks is ideal since nearby dining options can be limited during the off-season."
+            "en": "Relax on this pristine stretch of sandy beach favored by locals, where bringing your own snacks is ideal since nearby dining options can be limited during the off-season.",
+            "fr": "Détendez-vous sur cette plage de sable immaculée prisée des habitants ; emportez vos propres collations car les options de restauration à proximité peuvent être limitées hors saison."
           }
         }
       ],
@@ -452,7 +497,8 @@
         "de": "Der Tag beginnt farbenfroh im L'île aux papillons, wo Sie inmitten exotischer Pflanzen unzählige Schmetterlinge beobachten können. Ein wahrhaft magischer Start in den Morgen.\nGegen Mittag radeln wir zum Village miniature, um die liebevollen Nachbildungen der Region zu bestaunen. Gleich danach lädt die friedliche Kirche Saint-Jean-Baptiste zur Besinnung ein.\nAm Nachmittag führt uns die Route zu den traditionellen Salzgärten bei Le sel de Ronan. Die authentische Meersalzgewinnung ist tief in der Geschichte der Insel verwurzelt.\nZum Abschluss erreichen wir die historische Mühle und entspannen am Plage de la Bosse. Die sanfte Meeresbrise und der feine Sand runden die Fahrradtour perfekt ab.",
         "hu": "A nap színesen indul a L'île aux papillons trópusi lepkeházában, ahol egzotikus növények között repkedő ezernyi pillangó varázsolja el a látogatókat egy csodás reggelen.\nDélben a Village miniature felé kerekezünk, hogy megcsodáljuk a régió aprólékos makettjeit, majd a Saint-Jean-Baptiste templom békés falai között tartunk egy rövid pihenőt.\nDélután a festői sólepárlókhoz vezet utunk. A Le sel de Ronan bemutatja a sziget híres sótermelési hagyományait, ahol közvetlenül a termelőtől tanulhatunk.\nA túra a történelmi szélmalom megtekintésével és a Plage de la Bosse homokos partján ér véget. A tengeri szellő és a hullámok hangja tökéletes lezárást nyújt.",
         "ro": "Ziua începe plină de culoare la L'île aux papillons, unde mii de fluturi zboară printre plante exotice. Este un start cu adevărat magic și liniștitor pentru o dimineață senină.\nSpre prânz, pedalăm către Village miniature pentru a admira machetele detaliate ale satelor din regiune, urmat de un scurt moment de reculegere la biserica Saint-Jean-Baptiste.\nDupă-amiaza, traseul ne duce la bazinele tradiționale de sare de la Le sel de Ronan. Veți învăța despre recoltarea manuală a sării, o tradiție esențială a insulei.\nLa final, admirăm moara istorică și ne relaxăm pe nisipul fin de la Plage de la Bosse. Briza oceanului și sunetul valurilor completează perfect această aventură pe două roți.",
-        "en": "Your day begins vibrantly at L'île aux papillons, wandering through a tropical greenhouse filled with thousands of colorful butterflies. It's a magical way to start the morning.\nAround midday, cycle towards the Village miniature to marvel at detailed regional replicas. Shortly after, the peaceful Saint-Jean-Baptiste Church offers a quiet moment of reflection.\nIn the afternoon, follow the scenic path to the traditional salt pans at Le sel de Ronan. Learn directly from the producer about the island's famous sea salt harvesting.\nYour ride finishes by passing the historic windmill before relaxing at Plage de la Bosse. The gentle sea breeze and sandy shores provide a perfect end to the cycling tour."
+        "en": "Your day begins vibrantly at L'île aux papillons, wandering through a tropical greenhouse filled with thousands of colorful butterflies. It's a magical way to start the morning.\nAround midday, cycle towards the Village miniature to marvel at detailed regional replicas. Shortly after, the peaceful Saint-Jean-Baptiste Church offers a quiet moment of reflection.\nIn the afternoon, follow the scenic path to the traditional salt pans at Le sel de Ronan. Learn directly from the producer about the island's famous sea salt harvesting.\nYour ride finishes by passing the historic windmill before relaxing at Plage de la Bosse. The gentle sea breeze and sandy shores provide a perfect end to the cycling tour.",
+        "fr": "Votre journée commence de façon vibrante à L'île aux papillons, en vous promenant dans une serre tropicale remplie de milliers de papillons colorés. C'est une manière magique de débuter la matinée.\nVers midi, enfourchez votre vélo en direction du Village miniature pour admirer des répliques régionales détaillées. Peu après, la paisible église Saint-Jean-Baptiste offre un moment de recueillement.\nL'après-midi, suivez le chemin pittoresque jusqu'aux marais salants traditionnels du Sel de Ronan. Apprenez directement du producteur sur la récolte du sel marin célèbre de l'île.\nVotre balade se termine en passant devant le moulin historique avant de vous détendre à la Plage de la Bosse. La douce brise marine et le sable offrent une fin parfaite à la randonnée à vélo."
       },
       "variants": {
         "rainy": {
@@ -460,7 +506,8 @@
             "de": "Starten Sie vorsichtig zur Schmetterlingsinsel, wo es drinnen tropisch warm ist. Mittags führt die Fahrt durch das Miniaturdorf, bei Regen kurz halten. Die Kirche bietet eine trockene Atempause. An den Salzwiesen ist der Wind bei Regen oft tärker. Beenden Sie die Tour am Strand mit Blick auf die stürmische See. Bremsen Sie frühzeitig auf nassen Wegen.",
             "hu": "Induljon óvatosan a Pillangók szigetére, ahol bent trópusi meleg várja. Délben a miniatűr falu mellett tekerjen el, esőben csak rövid megállót javaslunk. A templom száraz pihenőt kínál. A sólepárlóknál a szél esőben felerősödhet. A túrát a tengerparton zárja a viharos tenger látványával. Fékezzen időben a csúszós kerékpárutakon.",
             "ro": "Porniți cu atenție spre Insula Fluturilor, unde interiorul este tropical și cald. La prânz, treceți prin satul miniatural, recomandăm o oprire scurtă dacă plouă. Biserica oferă un moment de respiro uscat. La saline, vântul este adesea mai puternic pe ploaie. Încheiați turul la plajă cu priveliștea mării agitate. Frânați din timp pe pistele ude.",
-            "en": "Ride carefully to Butterfly Island, where it's tropically warm inside. At noon, pass through the miniature village; keep stops brief if it rains. The church provides a dry respite. Near the salt marshes, winds can be stronger during rain. End the tour at the beach with views of the stormy sea. Brake early on wet cycling paths."
+            "en": "Ride carefully to Butterfly Island, where it's tropically warm inside. At noon, pass through the miniature village; keep stops brief if it rains. The church provides a dry respite. Near the salt marshes, winds can be stronger during rain. End the tour at the beach with views of the stormy sea. Brake early on wet cycling paths.",
+            "fr": "Roulez prudemment jusqu'à L'île aux papillons, où il fait chaud et humide à l'intérieur. À midi, traversez le village miniature ; gardez les arrêts courts s'il pleut. L'église offre un répit sec. Près des marais salants, les vents peuvent être plus forts sous la pluie. Terminez la balade à la plage avec des vues sur la mer d'orage. Freinez tôt sur les pistes cyclables mouillées."
           },
           "stops": [
             {
@@ -468,13 +515,15 @@
                 "de": "L'île aux papillons",
                 "hu": "Pillangók szigete",
                 "ro": "Insula fluturilor",
-                "en": "Butterfly Island"
+                "en": "Butterfly Island",
+                "fr": "Butterfly Island"
               },
               "tip_5lang": {
                 "de": "Das tropische Treibhaus ist der perfekte Ort, um dem Regen zu entfliehen; parken Sie Ihr Fahrrad an einem geschützten Platz am Eingang.",
                 "hu": "A trópusi üvegház tökéletes hely az eső elöli menekülésre; parkolja le kerékpárját egy védettebb helyen a bejáratnál.",
                 "ro": "Sera tropicală este locul perfect pentru a scăpa de ploaie; parcați bicicleta într-un loc protejat la intrare.",
-                "en": "The tropical greenhouse is the perfect place to escape the rain; park your bike in a sheltered spot near the entrance."
+                "en": "The tropical greenhouse is the perfect place to escape the rain; park your bike in a sheltered spot near the entrance.",
+                "fr": "La serre tropicale est l'endroit parfait pour échapper à la pluie ; garez votre vélo dans un abri près de l'entrée."
               }
             },
             {
@@ -482,13 +531,15 @@
                 "de": "Village miniature",
                 "hu": "Miniatűr falu",
                 "ro": "Satul miniatură",
-                "en": "Miniature Village"
+                "en": "Miniature Village",
+                "fr": "Miniature Village"
               },
               "tip_5lang": {
                 "de": "Besichtigen Sie die Miniaturhäuser zügig, da sie im Freien stehen; tragen Sie eine gute Regenjacke für den Rundgang im Außenbereich.",
                 "hu": "Tekintse meg gyorsan a miniatűr házakat, mivel szabadtéren vannak; viseljen jó esőkabátot a kinti körsétához.",
                 "ro": "Vizitați rapid casele miniaturale, fiind situate în aer liber; purtați o pelerină de ploaie bună pentru turul exterior.",
-                "en": "View the miniature houses quickly as they are outdoors; wear a high-quality raincoat for the outdoor walking circuit."
+                "en": "View the miniature houses quickly as they are outdoors; wear a high-quality raincoat for the outdoor walking circuit.",
+                "fr": "Admirez rapidement les maisons miniatures car elles sont en plein air ; portez un imperméable de haute qualité pour le circuit pédestre extérieur."
               }
             },
             {
@@ -496,13 +547,15 @@
                 "de": "Église Saint-Jean-Baptiste",
                 "hu": "Keresztelő Szent János-templom",
                 "ro": "Biserica Saint-Jean-Baptiste",
-                "en": "Saint-Jean-Baptiste Church"
+                "en": "Saint-Jean-Baptiste Church",
+                "fr": "Saint-Jean-Baptiste Church"
               },
               "tip_5lang": {
                 "de": "Nutzen Sie die Stille des Kirchenraums für eine trockene Pause; ein idealer Moment, um die nasse Kleidung kurz auszuschütteln.",
                 "hu": "Használja ki a templom csendjét egy száraz pihenőre; ideális pillanat, hogy kicsit lerázza magáról a vizet a továbbindulás előtt.",
                 "ro": "Folosiți liniștea bisericii pentru o pauză uscată; un moment ideal pentru a vă scutura hainele ude înainte de a pleca.",
-                "en": "Use the silence of the church interior for a dry break; an ideal moment to shake off the rain before continuing your ride."
+                "en": "Use the silence of the church interior for a dry break; an ideal moment to shake off the rain before continuing your ride.",
+                "fr": "Profitez du silence de l'intérieur de l'église pour une pause au sec ; un moment idéal pour se débarrasser de la pluie avant de reprendre votre trajet."
               }
             },
             {
@@ -510,13 +563,15 @@
                 "de": "Le sel de Ronan",
                 "hu": "Ronan sólepárlója",
                 "ro": "Sarea lui Ronan",
-                "en": "Ronan's Salt"
+                "en": "Ronan's Salt",
+                "fr": "Ronan's Salt"
               },
               "tip_5lang": {
                 "de": "Die Salzwiesen sind bei Regen sehr atmosphärisch, aber windig; achten Sie auf den Untergrund, der bei Nässe schlammig sein kann.",
                 "hu": "A sólepárlók esőben is hangulatosak, de szelesek; ügyeljen a talajra, amely nedvesen sáros és csúszós lehet.",
                 "ro": "Salinele sunt foarte atmosferice pe ploaie, dar vântoase; atenție la sol, care poate fi noroios și alunecos când e ud.",
-                "en": "The salt marshes are very atmospheric in the rain but windy; watch the ground as it can be muddy and slippery when wet."
+                "en": "The salt marshes are very atmospheric in the rain but windy; watch the ground as it can be muddy and slippery when wet.",
+                "fr": "Les marais salants sont très atmosphériques sous la pluie mais venteux ; surveillez le sol car il peut être boueux et glissant quand il est mouillé."
               }
             },
             {
@@ -524,13 +579,15 @@
                 "de": "Moulin de la Bosse",
                 "hu": "La Bosse szélmalom",
                 "ro": "Moara din Bosse",
-                "en": "Bosse Windmill"
+                "en": "Bosse Windmill",
+                "fr": "Bosse Windmill"
               },
               "tip_5lang": {
                 "de": "Ein kurzer Fotostopp reicht hier aus; der Wind am Hügel der Mühle kann bei Regen unangenehm peitschen, halten Sie die Kamera trocken.",
                 "hu": "Egy rövid fotómegálló bőven elég itt; a malomdombnál a szél esőben kellemetlenül csapkodhat, vigyázzon a fényképezőgépre.",
                 "ro": "O scurtă oprire pentru fotografii este suficientă; vântul de la moară poate fi tăios pe ploaie, protejați-vă aparatul foto.",
-                "en": "A short photo stop is enough here; the wind at the mill hill can whip unpleasantly during rain, keep your camera dry."
+                "en": "A short photo stop is enough here; the wind at the mill hill can whip unpleasantly during rain, keep your camera dry.",
+                "fr": "Un court arrêt photo suffit ici ; le vent sur la colline du moulin peut fouetter désagréablement sous la pluie, gardez votre appareil au sec."
               }
             },
             {
@@ -538,13 +595,15 @@
                 "de": "Plage de la Bosse",
                 "hu": "La Bosse strand",
                 "ro": "Plaja Bosse",
-                "en": "Bosse Beach"
+                "en": "Bosse Beach",
+                "fr": "Bosse Beach"
               },
               "tip_5lang": {
                 "de": "Bewundern Sie die Kraft des Meeres vom Fahrradweg aus; die Brandung ist bei Schlechtwetter besonders beeindruckend und fotogen.",
                 "hu": "Csodálja meg a tenger erejét a kerékpárútról; a hullámtörés rossz időben különösen lenyűgöző és fotogén látvány.",
                 "ro": "Admirați forța mării de pe pista de biciclete; valurile sunt deosebit de impresionante și fotogenice pe vreme rea.",
-                "en": "Admire the power of the sea from the bike path; the surf is particularly impressive and photogenic during bad weather."
+                "en": "Admire the power of the sea from the bike path; the surf is particularly impressive and photogenic during bad weather.",
+                "fr": "Admirez la puissance de la mer depuis la piste cyclable ; la houle est particulièrement impressionnante et photogénique par mauvais temps."
               }
             }
           ]
@@ -554,7 +613,8 @@
             "de": "Ein zügiger Winterstart bei den Schmetterlingen, wo die Wärme gut tut. Mittags radeln Sie durch das ruhige Dorf, ideal für Fotos ohne Menschenmassen. Die Kirche bietet Schutz vor dem kalten Ostwind. An den Salzwiesen ist die Wintersonne besonders intensiv. Vor 17:00 Uhr sollten Sie am Strand ankommen, um den frühen Sonnenuntergang zu sehen. Tragen Sie winddichte Handschuhe.",
             "hu": "Gyors téli kezdés a pillangóknál, ahol jól esik a benti meleg. Délben tekerjen át a csendes falun, ideális tömegmentes fotózáshoz. A templom védelmet nyújt a hideg keleti szél elől. A sólepárlóknál a téli napsütés különösen ragyogó. 17:00 előtt érjen a partra a korai naplemente megcsodálásához. Viseljen szélálló kesztyűt a kormányon.",
             "ro": "Un start rapid de iarnă la fluturi, unde căldura din interior prinde bine. La prânz, pedalați prin satul liniștit, ideal pentru poze fără mulțimi. Biserica oferă protecție împotriva vântului rece de est. La saline, soarele de iarnă este deosebit de strălucitor. Ajungeți la plajă înainte de ora 17:00 pentru apus. Purtați mănuși rezistente la vânt.",
-            "en": "A brisk winter start at the butterflies, where the indoor warmth is welcome. At noon, cycle through the quiet village, ideal for crowd-free photos. The church offers protection from the cold east wind. At the salt marshes, the winter sun is particularly bright. Reach the beach before 5:00 PM for the early sunset. Wear windproof gloves for riding."
+            "en": "A brisk winter start at the butterflies, where the indoor warmth is welcome. At noon, cycle through the quiet village, ideal for crowd-free photos. The church offers protection from the cold east wind. At the salt marshes, the winter sun is particularly bright. Reach the beach before 5:00 PM for the early sunset. Wear windproof gloves for riding.",
+            "fr": "Un départ vif d'hiver aux papillons, où la chaleur intérieure est bienvenue. À midi, parcourez le village tranquille, idéal pour des photos sans foule. L'église protège du vent froid d'est. Aux marais salants, le soleil d'hiver est particulièrement lumineux. Rejoignez la plage avant 17 h pour le coucher du soleil précoce. Portez des gants coupe-vent pour la conduite."
           },
           "stops": [
             {
@@ -562,13 +622,15 @@
                 "de": "L'île aux papillons",
                 "hu": "Pillangók szigete",
                 "ro": "Insula fluturilor",
-                "en": "Butterfly Island"
+                "en": "Butterfly Island",
+                "fr": "Butterfly Island"
               },
               "tip_5lang": {
                 "de": "Die tropische Hitze im Inneren ist ein wunderbarer Kontrast zur Winterkälte draußen; nehmen Sie sich Zeit zum Aufwärmen Ihrer Finger.",
                 "hu": "A benti trópusi hőség csodás kontraszt a kinti téli hideggel; szánjon időt rá, hogy az ujjai teljesen átmelegedjenek.",
                 "ro": "Căldura tropicală din interior este un contrast minunat față de frigul de afară; acordați-vă timp pentru a vă încălzi mâinile.",
-                "en": "The tropical heat inside is a wonderful contrast to the winter cold outside; take your time to let your fingers warm up completely."
+                "en": "The tropical heat inside is a wonderful contrast to the winter cold outside; take your time to let your fingers warm up completely.",
+                "fr": "La chaleur tropicale intérieure contraste merveilleusement avec le froid hivernal extérieur ; prenez votre temps pour réchauffer complètement vos doigts."
               }
             },
             {
@@ -576,13 +638,15 @@
                 "de": "Village miniature",
                 "hu": "Miniatűr falu",
                 "ro": "Satul miniatură",
-                "en": "Miniature Village"
+                "en": "Miniature Village",
+                "fr": "Miniature Village"
               },
               "tip_5lang": {
                 "de": "Das Dorf ist im Winter oft menschenleer und bietet tolle Lichtverhältnisse für Fotos; bleiben Sie in Bewegung, um nicht auszukühlen.",
                 "hu": "A falu télen gyakran néptelen, ami remek fényeket kínál a fotózáshoz; maradjon mozgásban, hogy ne hűljön ki túlságosan.",
                 "ro": "Satul este adesea pustiu iarna, oferind condiții de lumină excelente pentru poze; rămâneți în mișcare pentru a nu vă răci.",
-                "en": "The village is often deserted in winter, offering great lighting conditions for photos; stay in motion to keep your body temperature up."
+                "en": "The village is often deserted in winter, offering great lighting conditions for photos; stay in motion to keep your body temperature up.",
+                "fr": "Le village est souvent désert en hiver, offrant d'excellentes conditions d'éclairage pour les photos ; restez en mouvement pour maintenir votre température corporelle."
               }
             },
             {
@@ -590,13 +654,15 @@
                 "de": "Église Saint-Jean-Baptiste",
                 "hu": "Keresztelő Szent János-templom",
                 "ro": "Biserica Saint-Jean-Baptiste",
-                "en": "Saint-Jean-Baptiste Church"
+                "en": "Saint-Jean-Baptiste Church",
+                "fr": "Église Saint-Jean-Baptiste"
               },
               "tip_5lang": {
                 "de": "Die dicken Mauern bieten eine windgeschützte Pause; genießen Sie die sakrale Stille, bevor es zurück in den kalten Seewind geht.",
                 "hu": "A vastag falak szélvédett pihenőt kínálnak; élvezze a szakrális csendet, mielőtt visszatérne a hideg tengeri szélbe.",
                 "ro": "Zidurile groase oferă o pauză ferită de vânt; bucurați-vă de liniștea sacră înainte de a reveni în vântul rece de coastă.",
-                "en": "The thick walls provide a wind-sheltered break; enjoy the sacred silence before heading back into the cold sea wind."
+                "en": "The thick walls provide a wind-sheltered break; enjoy the sacred silence before heading back into the cold sea wind.",
+                "fr": "Les murs épais offrent un abri contre le vent ; profitez du silence sacré avant de retourner au vent froid de mer."
               }
             },
             {
@@ -604,13 +670,15 @@
                 "de": "Le sel de Ronan",
                 "hu": "Ronan sólepárlója",
                 "ro": "Sarea lui Ronan",
-                "en": "Ronan's Salt"
+                "en": "Ronan's Salt",
+                "fr": "Le Sel de Ronan"
               },
               "tip_5lang": {
                 "de": "Im Winter ist das Licht über den Salzwiesen messerscharf und klar; halten Sie Ausschau nach überwinternden Vögeln in den Becken.",
                 "hu": "Télen a fények a sólepárlók felett élesek és tiszták; figyelje meg a medencékben telelő madarakat a távolból.",
                 "ro": "Iarna, lumina peste saline este extrem de clară; căutați păsările care iernează în bazinele de sare.",
-                "en": "In winter, the light over the salt marshes is sharp and clear; look out for overwintering birds in the salt basins."
+                "en": "In winter, the light over the salt marshes is sharp and clear; look out for overwintering birds in the salt basins.",
+                "fr": "En hiver, la lumière sur les marais salants est nette et claire ; guettez les oiseaux hivernants dans les bassins salants."
               }
             },
             {
@@ -618,13 +686,15 @@
                 "de": "Moulin de la Bosse",
                 "hu": "La Bosse szélmalom",
                 "ro": "Moara din Bosse",
-                "en": "Bosse Windmill"
+                "en": "Bosse Windmill",
+                "fr": "Moulin de Bosse"
               },
               "tip_5lang": {
                 "de": "Die Mühle wirkt in der kargen Winterlandschaft besonders majestätisch; ein schneller Halt für ein Panoramafoto lohnt sich immer.",
                 "hu": "A malom a kopár téli tájban különösen fenséges látványt nyújt; egy gyors megálló egy panorámaképért mindig megéri.",
                 "ro": "Moara pare deosebit de maiestuoasă în peisajul auster de iarnă; o oprire rapidă pentru o fotografie panoramică merită.",
-                "en": "The mill looks particularly majestic in the sparse winter landscape; a quick stop for a panoramic photo is always worth it."
+                "en": "The mill looks particularly majestic in the sparse winter landscape; a quick stop for a panoramic photo is always worth it.",
+                "fr": "Le moulin paraît particulièrement majestueux dans le paysage hivernal épuré ; un arrêt rapide pour une photo panoramique vaut toujours le coup."
               }
             },
             {
@@ -632,13 +702,15 @@
                 "de": "Plage de la Bosse",
                 "hu": "La Bosse strand",
                 "ro": "Plaja Bosse",
-                "en": "Bosse Beach"
+                "en": "Bosse Beach",
+                "fr": "Plage de Bosse"
               },
               "tip_5lang": {
                 "de": "Der Strandbesuch ist im Winter kurz, aber belebend; die Brandung ist laut und kraftvoll, perfekt für einen tiefen Atemzug Meeresluft.",
                 "hu": "A strandlátogatás télen rövid, de élénkítő; a hullámzás hangos és erőteljes, tökéletes egy mély lélegzetvételnyi tengeri levegőhöz.",
                 "ro": "Vizita la plajă iarna este scurtă, dar revigorantă; valurile sunt puternice, perfect pentru o gură de aer marin proaspăt.",
-                "en": "The beach visit in winter is brief but invigorating; the surf is loud and powerful, perfect for a deep breath of fresh sea air."
+                "en": "The beach visit in winter is brief but invigorating; the surf is loud and powerful, perfect for a deep breath of fresh sea air.",
+                "fr": "La visite de la plage en hiver est brève mais vivifiante ; le ressac est fort et sonore, parfait pour respirer profondément l'air marin."
               }
             }
           ]
@@ -658,7 +730,8 @@
             "de": "Batterie Gneisenau",
             "hu": "Gneisenau üteg",
             "ro": "Bateria Gneisenau",
-            "en": "Gneisenau Battery"
+            "en": "Gneisenau Battery",
+            "fr": "Batterie Gneisenau"
           },
           "coords": [
             -2.272346,
@@ -673,7 +746,8 @@
             "de": "Erkunden Sie diese in die Landschaft eingebetteten Weltkriegsbunker, eine nachdenklich stimmende historische Stätte, für die festes Schuhwerk wegen des unebenen Bodens empfohlen wird.",
             "hu": "Fedezze fel ezeket a kísérteties, második világháborús bunkereket a tájban, egy elgondolkodtató történelmi helyszínt, ahol stabil lábbeli ajánlott az egyenetlen terep miatt.",
             "ro": "Explorați aceste buncăre ascunse din al Doilea Război Mondial, un sit istoric impresionant unde este recomandată o încălțăminte robustă pentru a naviga în siguranță pe terenul accidentat.",
-            "en": "Explore these haunting World War II bunkers tucked away in the landscape, a sobering historical site where sturdy footwear is recommended for safely navigating the uneven ground."
+            "en": "Explore these haunting World War II bunkers tucked away in the landscape, a sobering historical site where sturdy footwear is recommended for safely navigating the uneven ground.",
+            "fr": "Explorez ces bunkers de la Seconde Guerre mondiale, empreints de mystère, nichés dans le paysage ; site historique sobre où des chaussures solides sont recommandées pour circuler en sécurité sur le terrain inégal."
           }
         },
         {
@@ -681,7 +755,8 @@
             "de": "Château-Musée de Noirmoutier",
             "hu": "Noirmoutier kastélymúzeum",
             "ro": "Castelul-Muzeu din Noirmoutier",
-            "en": "Noirmoutier Castle Museum"
+            "en": "Noirmoutier Castle Museum",
+            "fr": "Musée du Château de Noirmoutier"
           },
           "coords": [
             -2.242127,
@@ -696,7 +771,8 @@
             "de": "Erkunden Sie diese bemerkenswert erhaltene Burg aus dem 12. Jahrhundert, um die mittelalterliche Geschichte der Insel kennenzulernen, und besteigen Sie den Bergfried für ein tolles Panorama.",
             "hu": "Fedezze fel ezt a figyelemre méltóan megőrzött 12. századi kastélyt a sziget középkori történelméért, és feltétlenül másszon fel az öregtoronyba a lenyűgöző panorámáért.",
             "ro": "Explorați acest castel din secolul al XII-lea uimitor de bine conservat pentru a descoperi istoria medievală, asigurându-vă că urcați în donjon pentru o panoramă excepțională.",
-            "en": "Explore this remarkably preserved 12th-century castle to uncover the island's medieval history, and be sure to climb the keep for panoramic views of the entire region."
+            "en": "Explore this remarkably preserved 12th-century castle to uncover the island's medieval history, and be sure to climb the keep for panoramic views of the entire region.",
+            "fr": "Explorez ce château du XIIe siècle remarquablement préservé pour découvrir l'histoire médiévale de l'île, et n'oubliez pas de monter dans le donjon pour une vue panoramique sur toute la région."
           }
         },
         {
@@ -704,7 +780,8 @@
             "de": "Le sel de Ronan",
             "hu": "Ronan sólepárlója",
             "ro": "Sarea lui Ronan",
-            "en": "Ronan's Salt"
+            "en": "Ronan's Salt",
+            "fr": "Le Sel de Ronan"
           },
           "coords": [
             -2.265902,
@@ -719,7 +796,8 @@
             "de": "Erfahren Sie direkt vom leidenschaftlichen lokalen Erzeuger mehr über die traditionelle Meersalzgewinnung und kaufen Sie unbedingt eine Tüte des berühmten 'Fleur de Sel'.",
             "hu": "Ismerje meg a sziget hagyományos tengeri só betakarítását közvetlenül a szenvedélyes helyi termelőtől, és feltétlenül vegyen egy zacskó híres 'fleur de sel'-t hazavitelre.",
             "ro": "Aflați despre recoltarea tradițională a sării de mare direct de la producătorul local pasionat și asigurați-vă că achiziționați o pungă de 'fleur de sel' ca suvenir autentic.",
-            "en": "Learn about the island's traditional sea salt harvesting directly from the passionate local producer, and make sure to buy a bag of the famous 'fleur de sel' to take home."
+            "en": "Learn about the island's traditional sea salt harvesting directly from the passionate local producer, and make sure to buy a bag of the famous 'fleur de sel' to take home.",
+            "fr": "Découvrez la récolte traditionnelle du sel marin directement auprès du producteur local passionné, et pensez à acheter un sachet de la célèbre « fleur de sel » à rapporter chez vous."
           }
         },
         {
@@ -727,7 +805,8 @@
             "de": "Église Saint-Jean-Baptiste",
             "hu": "Keresztelő Szent János-templom",
             "ro": "Biserica Saint-Jean-Baptiste",
-            "en": "Saint-Jean-Baptiste Church"
+            "en": "Saint-Jean-Baptiste Church",
+            "fr": "Église Saint-Jean-Baptiste"
           },
           "coords": [
             -2.268796,
@@ -742,7 +821,8 @@
             "de": "Treten Sie in diese wunderschöne historische Kirche ein, um die friedliche Atmosphäre und die Buntglasfenster zu bewundern, und denken Sie daran, sich drinnen leise zu verhalten.",
             "hu": "Lépjen be ebbe a gyönyörű történelmi templomba, hogy megcsodálja a békés légkört és a lenyűgöző ólomüveg ablakokat, ügyelve a csendre a csendes imádságok idején.",
             "ro": "Pășiți în această frumoasă biserică istorică pentru a-i admira atmosfera pașnică și vitraliile uimitoare, amintindu-vă să păstrați liniștea în momentele de rugăciune privată.",
-            "en": "Step inside this beautiful historic church to admire its peaceful atmosphere and stunning stained glass windows, remembering to keep your voice down during moments of private prayer."
+            "en": "Step inside this beautiful historic church to admire its peaceful atmosphere and stunning stained glass windows, remembering to keep your voice down during moments of private prayer.",
+            "fr": "Pénétrez dans cette belle église historique pour admirer son atmosphère paisible et ses magnifiques vitraux, en veillant à parler à voix basse lors des moments de prière privée."
           }
         },
         {
@@ -750,7 +830,8 @@
             "de": "Plage de la Martinière",
             "hu": "Martinière strand",
             "ro": "Plaja Martinière",
-            "en": "Martinière Beach"
+            "en": "Martinière Beach",
+            "fr": "Plage de la Martinière"
           },
           "coords": [
             -2.277629,
@@ -765,7 +846,8 @@
             "de": "Genießen Sie einen friedlichen Spaziergang entlang dieses ruhigen Strandes mit Blick auf den Ozean, der perfekte Ort, um einen spektakulären Sonnenuntergang zu erleben.",
             "hu": "Élvezze a békés sétát ezen a csendes, kagylókkal borított, nyílt óceánra néző strandon, amely a tökéletes hely egy látványos naplemente megtekintéséhez, mielőtt visszatérne a központba.",
             "ro": "Bucurați-vă de o plimbare liniștită de-a lungul acestei plaje presărate cu scoici, locul perfect pentru a surprinde un apus de soare spectaculos înainte de a vă întoarce în oraș.",
-            "en": "Enjoy a peaceful stroll along this quiet, shell-strewn beach facing the open ocean, the perfect spot to catch a spectacular sunset before heading back to the town center."
+            "en": "Enjoy a peaceful stroll along this quiet, shell-strewn beach facing the open ocean, the perfect spot to catch a spectacular sunset before heading back to the town center.",
+            "fr": "Profitez d'une promenade paisible le long de cette plage tranquille parsemée de coquillages face à l'océan ouvert, l'endroit idéal pour admirer un coucher de soleil spectaculaire avant de retourner au centre-ville."
           }
         },
         {
@@ -773,7 +855,8 @@
             "de": "L'île aux papillons",
             "hu": "Pillangók szigete",
             "ro": "Insula fluturilor",
-            "en": "Butterfly Island"
+            "en": "Butterfly Island",
+            "fr": "L'Île aux Papillons"
           },
           "coords": [
             -2.244173,
@@ -788,7 +871,8 @@
             "de": "Schlendern Sie durch das größte Schmetterlingshaus Frankreichs, um Tausende bunte Arten frei fliegen zu sehen, und tragen Sie leichte Kleidung, da das tropische Klima recht feucht ist.",
             "hu": "Sétáljon végig Franciaország legnagyobb pillangóházán, ahol több ezer színes faj repdes szabadon, és viseljen könnyű ruházatot, mivel a trópusi klíma meglehetősen párás.",
             "ro": "Plimbați-vă prin cea mai mare seră de fluturi din Franța pentru a vedea mii de specii colorate, purtând haine lejere, deoarece climatul tropical este destul de umed și cald.",
-            "en": "Wander through the largest butterfly greenhouse in France to see thousands of colorful species flying freely, ensuring you wear light clothing as the tropical climate is quite humid."
+            "en": "Wander through the largest butterfly greenhouse in France to see thousands of colorful species flying freely, ensuring you wear light clothing as the tropical climate is quite humid.",
+            "fr": "Parcourez la plus grande serre à papillons de France pour voir des milliers d'espèces colorées voler librement ; portez des vêtements légers car le climat tropical y est assez humide."
           }
         }
       ],
@@ -796,7 +880,8 @@
         "de": "Wir starten hoch im Norden bei der Batterie Gneisenau. Diese stummen Zeugen des Zweiten Weltkriegs bieten einen tiefen, nachdenklichen Einblick in die Inselgeschichte.\nAm Mittag fahren wir zum prächtigen Schloss von Noirmoutier, um ins Mittelalter einzutauchen. Danach geht es zu den Salzgärten, wo traditionelles Handwerk lebendig wird.\nDer Nachmittag bringt uns zur Kirche Saint-Jean-Baptiste und anschließend zum Plage de la Martinière. Hier können wir die Seele an der frischen Ozeanluft baumeln lassen.\nAm Abend erreichen wir das faszinierende Schmetterlingshaus L'île aux papillons. Ein bunter und friedlicher Ausklang eines ereignisreichen Roadtrips über die gesamte Insel.",
         "hu": "Autós túránkat északon, a Batterie Gneisenau második világháborús bunkereinél kezdjük. Ezek a csendes történelmi emlékek elgondolkodtató bevezetést nyújtanak a sziget múltjába.\nDélben a fenséges Noirmoutier kastélyhoz hajtunk, majd a híres sólepárlókat látogatjuk meg. A történelmi építészet és a hagyományos kézművesség lenyűgöző kontrasztot alkot.\nDélután a Saint-Jean-Baptiste templom nyújt lelki feltöltődést, mielőtt a Plage de la Martinière csendes partjainál gyönyörködnénk a végtelen óceáni kilátásban.\nEste a L'île aux papillons színpompás lepkeházában zárjuk a napot. A trópusi növényzet és a repkedő pillangók tökéletes megnyugvást hoznak az izgalmas utazás végén.",
         "ro": "Începem în nord la Batterie Gneisenau. Aceste buncăre din al Doilea Război Mondial stau ca niște martori tăcuți ai istoriei, oferind o privire profundă asupra trecutului insulei.\nLa prânz, conducem către maiestuosul Castel Noirmoutier pentru o incursiune medievală, urmată de o vizită la bazinele de sare, unde meșteșugul tradițional este încă viu.\nDupă-amiaza ne aduce la biserica Saint-Jean-Baptiste și apoi la Plage de la Martinière. Aici, ne putem relaxa ascultând valurile și respirând aerul proaspăt al oceanului.\nSpre seară, ajungem la fascinanta seră de fluturi L'île aux papillons. Un final colorat și pașnic pentru o călătorie captivantă cu mașina de-a lungul întregii insule.",
-        "en": "We kick off in the far north at the Batterie Gneisenau. These silent World War II bunkers provide a profound and sobering glimpse into the island's strategic military past.\nAt midday, drive to the magnificent Noirmoutier Castle to delve into medieval history, followed by a visit to the salt pans where traditional harvesting methods remain alive.\nThe afternoon brings us to the historic Saint-Jean-Baptiste Church, and then to Plage de la Martinière. Enjoy the fresh ocean breeze and expansive views along the quiet shoreline.\nIn the evening, we reach the magical L'île aux papillons greenhouse. The vibrant tropical environment and freely flying butterflies offer a tranquil close to your road trip."
+        "en": "We kick off in the far north at the Batterie Gneisenau. These silent World War II bunkers provide a profound and sobering glimpse into the island's strategic military past.\nAt midday, drive to the magnificent Noirmoutier Castle to delve into medieval history, followed by a visit to the salt pans where traditional harvesting methods remain alive.\nThe afternoon brings us to the historic Saint-Jean-Baptiste Church, and then to Plage de la Martinière. Enjoy the fresh ocean breeze and expansive views along the quiet shoreline.\nIn the evening, we reach the magical L'île aux papillons greenhouse. The vibrant tropical environment and freely flying butterflies offer a tranquil close to your road trip.",
+        "fr": "Nous commençons tout au nord à la Batterie Gneisenau. Ces bunkers silencieux de la Seconde Guerre mondiale offrent un aperçu profond et sobre du passé militaire stratégique de l'île.\nÀ midi, dirigez-vous vers le magnifique château de Noirmoutier pour plonger dans l'histoire médiévale, puis visitez les marais salants où les méthodes traditionnelles de récolte sont toujours en vigueur.\nL'après-midi nous mène à la historique Église Saint-Jean-Baptiste, puis à la Plage de la Martinière. Profitez de la brise marine et des vues étendues le long du littoral calme.\nLe soir, nous atteignons la serre magique de L'île aux papillons. L'environnement tropical vibrant et les papillons en vol libre offrent une conclusion tranquille à votre excursion routière."
       },
       "variants": {
         "rainy": {
@@ -804,7 +889,8 @@
             "de": "Starten Sie bei der Batterie Gneisenau, wo Sie vom Auto aus die Aussicht genießen können. Das Schlossmuseum bietet danach eine lange, trockene Besichtigungszeit. Mittags geht es zu den Salzwiesen, bei Regen ideal für kurze Fotostopps am Wegrand. Nachmittags besuchen Sie die Kirche und den Strand, bevor Sie den Tag im warmen Tropenhaus der Schmetterlinge beenden. Nutzen Sie die Scheibenheizung gegen Beschlag.",
             "hu": "Kezdjen a Gneisenau ütegnél, ahol az autóból is élvezheti a kilátást. A várkastély ezután hosszú, száraz látogatási időt kínál. Délben irány a sólepárlók vidéke, esőben ideális a rövid út menti fotómegállókhoz. Délután látogassa meg a templomot és a strandot, majd zárja a napot a pillangók meleg trópusi házában. Használja a szélvédőfűtést a pára ellen.",
             "ro": "Începeți la Bateria Gneisenau, unde puteți admira vederea din mașină. Castelul oferă apoi un timp lung de vizitare la uscat. La prânz, mergeți spre saline, ideal pentru opriri scurte foto pe marginea drumului pe ploaie. După-amiaza vizitați biserica și plaja, apoi încheiați ziua în sera caldă a fluturilor. Folosiți dezaburirea parbrizului constant.",
-            "en": "Start at Gneisenau Battery, where you can enjoy the view from the car. The castle museum then offers a long, dry visiting time. At noon, head to the salt marshes, ideal for quick roadside photo stops during rain. In the afternoon, visit the church and beach before ending the day in the warm butterfly house. Use the windshield defroster against fogging."
+            "en": "Start at Gneisenau Battery, where you can enjoy the view from the car. The castle museum then offers a long, dry visiting time. At noon, head to the salt marshes, ideal for quick roadside photo stops during rain. In the afternoon, visit the church and beach before ending the day in the warm butterfly house. Use the windshield defroster against fogging.",
+            "fr": "Commencez à la Batterie Gneisenau, où vous pouvez profiter de la vue depuis la voiture. Le musée du château offre ensuite une visite longue et à l'abri. À midi, rendez-vous aux marais salants, idéaux pour des arrêts photo rapides au bord de la route sous la pluie. L'après-midi, visitez l'église et la plage avant de terminer la journée dans la serre chaude aux papillons. Utilisez le dégivreur du pare-brise contre la buée."
           },
           "stops": [
             {
@@ -812,13 +898,15 @@
                 "de": "Batterie Gneisenau",
                 "hu": "Gneisenau üteg",
                 "ro": "Bateria Gneisenau",
-                "en": "Gneisenau Battery"
+                "en": "Gneisenau Battery",
+                "fr": "Batterie Gneisenau"
               },
               "tip_5lang": {
                 "de": "Betrachten Sie die Bunkerruinen bei Regen am besten vom nahegelegenen Parkplatz aus; die graue Atmosphäre passt perfekt zur Geschichte.",
                 "hu": "Az üteg romjait esőben a legjobb a közeli parkolóból szemlélni; a szürke hangulat tökéletesen illik a helyszín történelméhez.",
                 "ro": "Admirați ruinele bateriei din parcarea apropiată pe timp de ploaie; atmosfera gri se potrivește perfect cu istoria locului.",
-                "en": "View the bunker ruins from the nearby parking area during rain; the gray atmosphere perfectly matches the historical weight of the site."
+                "en": "View the bunker ruins from the nearby parking area during rain; the gray atmosphere perfectly matches the historical weight of the site.",
+                "fr": "Admirez les ruines du bunker depuis le parking proche pendant la pluie ; l'atmosphère grise correspond parfaitement au poids historique du site."
               }
             },
             {
@@ -826,13 +914,15 @@
                 "de": "Château-Musée de Noirmoutier",
                 "hu": "Noirmoutier kastélymúzeum",
                 "ro": "Castelul-Muzeu din Noirmoutier",
-                "en": "Noirmoutier Castle Museum"
+                "en": "Noirmoutier Castle Museum",
+                "fr": "Musée du Château de Noirmoutier"
               },
               "tip_5lang": {
                 "de": "Parken Sie zügig im Zentrum und verbringen Sie viel Zeit in den trockenen Ausstellungsräumen; ein idealer Ort für regnerische Vormittage.",
                 "hu": "Parkoljon le gyorsan a központban, és töltsön sok időt a száraz kiállítótermekben; ideális helyszín esős délelőttökre.",
                 "ro": "Parcați rapid în centru și petreceți mult timp în sălile de expoziție uscate; un loc ideal pentru diminețile ploioase.",
-                "en": "Park quickly in the center and spend plenty of time in the dry exhibition rooms; an ideal location for rainy mornings."
+                "en": "Park quickly in the center and spend plenty of time in the dry exhibition rooms; an ideal location for rainy mornings.",
+                "fr": "Garez-vous rapidement au centre et passez beaucoup de temps dans les salles d'exposition à l'abri ; un lieu idéal pour les matinées pluvieuses."
               }
             },
             {
@@ -840,13 +930,15 @@
                 "de": "Le sel de Ronan",
                 "hu": "Ronan sólepárlója",
                 "ro": "Sarea lui Ronan",
-                "en": "Ronan's Salt"
+                "en": "Ronan's Salt",
+                "fr": "Le Sel de Ronan"
               },
               "tip_5lang": {
                 "de": "Halten Sie direkt an der Straße für ein schnelles Foto der Salzwiesen; bei Regen glänzen die Becken besonders dramatisch im trüben Licht.",
                 "hu": "Álljon meg közvetlenül az út mellett egy gyors fotóra a sólepárlókról; esőben a medencék drámaian csillognak a borús fényben.",
                 "ro": "Opriți direct pe marginea drumului pentru o fotografie rapidă; pe ploaie, bazinele strălucesc dramatic în lumina difuză.",
-                "en": "Stop directly by the road for a quick photo of the salt marshes; during rain, the basins glisten dramatically in the dull light."
+                "en": "Stop directly by the road for a quick photo of the salt marshes; during rain, the basins glisten dramatically in the dull light.",
+                "fr": "Arrêtez-vous directement au bord de la route pour une photo rapide des marais salants ; sous la pluie, les bassins scintillent de façon dramatique dans la lumière terne."
               }
             },
             {
@@ -854,13 +946,15 @@
                 "de": "Église Saint-Jean-Baptiste",
                 "hu": "Keresztelő Szent János-templom",
                 "ro": "Biserica Saint-Jean-Baptiste",
-                "en": "Saint-Jean-Baptiste Church"
+                "en": "Saint-Jean-Baptiste Church",
+                "fr": "Église Saint-Jean-Baptiste"
               },
               "tip_5lang": {
                 "de": "Ein kurzer Sprint vom Auto zur Kirche hält Sie trocken; nutzen Sie das Innere für eine besinnliche Pause vom trüben Wetter draußen.",
                 "hu": "Egy rövid sprint az autótól a templomig szárazon tartja; használja a belső teret egy megnyugtató szünetre a kinti barátságtalan időben.",
                 "ro": "Un sprint scurt de la mașină la biserică vă va ține uscat; folosiți interiorul pentru o pauză liniștită departe de vremea rea.",
-                "en": "A short sprint from the car to the church keeps you dry; use the interior for a peaceful break from the dreary weather outside."
+                "en": "A short sprint from the car to the church keeps you dry; use the interior for a peaceful break from the dreary weather outside.",
+                "fr": "Un court sprint depuis la voiture jusqu'à l'église vous garde au sec ; utilisez l'intérieur comme pause paisible loin du mauvais temps extérieur."
               }
             },
             {
@@ -868,13 +962,15 @@
                 "de": "Plage de la Martinière",
                 "hu": "Martinière strand",
                 "ro": "Plaja Martinière",
-                "en": "Martinière Beach"
+                "en": "Martinière Beach",
+                "fr": "Plage de la Martinière"
               },
               "tip_5lang": {
                 "de": "Genießen Sie den Blick auf die tosende See bequem von Ihrem geheizten Auto aus; die raue Atlantikküste ist bei Regen sehr eindrucksvoll.",
                 "hu": "Élvezze a háborgó tenger látványát kényelmesen a fűtött autóból; a vad atlanti partvidék esőben is lenyűgöző látvány.",
                 "ro": "Bucurați-vă de vederea mării agitate din confortul mașinii încălzite; coasta atlantică este impresionantă pe timp de ploaie.",
-                "en": "Enjoy the view of the churning sea from the comfort of your heated car; the wild Atlantic coast is very impressive during rain."
+                "en": "Enjoy the view of the churning sea from the comfort of your heated car; the wild Atlantic coast is very impressive during rain.",
+                "fr": "Admirez la mer en furie depuis le confort de votre voiture chauffée ; la côte atlantique sauvage est très impressionnante sous la pluie."
               }
             },
             {
@@ -882,13 +978,15 @@
                 "de": "L'île aux papillons",
                 "hu": "Pillangók szigete",
                 "ro": "Insula fluturilor",
-                "en": "Butterfly Island"
+                "en": "Butterfly Island",
+                "fr": "L'Île aux Papillons"
               },
               "tip_5lang": {
                 "de": "Der perfekte Abschluss, um den Tag im Warmen ausklingen zu lassen; parken Sie direkt vor der Tür, um nicht nass zu werden.",
                 "hu": "Tökéletes befejezés, hogy melegben zárja a napot; parkoljon közvetlenül az ajtó előtt, hogy ne ázzon el a bejutásig.",
                 "ro": "Finalul perfect pentru a încheia ziua la căldură; parcați chiar în fața intrării pentru a nu vă uda la intrare.",
-                "en": "The perfect end to finish the day in the warm; park directly in front of the entrance to avoid getting wet on your way in."
+                "en": "The perfect end to finish the day in the warm; park directly in front of the entrance to avoid getting wet on your way in.",
+                "fr": "La fin parfaite pour terminer la journée au chaud ; garez-vous directement devant l'entrée pour éviter de vous mouiller en entrant."
               }
             }
           ]
@@ -898,7 +996,8 @@
             "de": "Ein winterlicher Roadtrip beginnt bei der Batterie, wo der klare Horizont lockt. Das Schlossmuseum bietet danach wohlige Wärme und Geschichte. Mittags fahren Sie durch die glitzernden Salzwiesen. Nachmittags besuchen Sie die Kirche und den Strand, um den Sonnenuntergang um 17:00 Uhr vom warmen Auto aus zu beobachten. Der Tag endet tropisch bei den Schmetterlingen. Achten Sie auf mögliche Glätte auf Nebenstraßen.",
             "hu": "Téli autós túra indul az ütegnél, ahol a tiszta látóhatár vonzza a tekintetet. A várkastély ezután kellemes meleget és történelmet kínál. Délben autózzon át a csillogó sólepárlók között. Délután látogassa meg a templomot és a strandot, majd nézze a 17:00-s naplementét a fűtött autóból. A nap trópusi hangulatban ér véget a pillangóknál. Ügyeljen a csúszós utakra.",
             "ro": "O excursie auto de iarnă începe la baterie, unde orizontul senin atrage privirea. Castelul oferă apoi căldură și istorie. La prânz, conduceți printre salinele strălucitoare. După-amiaza vizitați biserica și plaja, urmărind apusul de la ora 17:00 din mașina caldă. Ziua se încheie tropical la fluturi. Atenție la posibila polei pe drumurile secundare.",
-            "en": "A winter road trip starts at the battery, where the clear horizon beckons. The castle museum then offers cozy warmth and history. At noon, drive through the glistening salt marshes. In the afternoon, visit the church and beach, watching the 5:00 PM sunset from your heated car. The day ends tropically at the butterflies. Watch out for icy patches on side roads."
+            "en": "A winter road trip starts at the battery, where the clear horizon beckons. The castle museum then offers cozy warmth and history. At noon, drive through the glistening salt marshes. In the afternoon, visit the church and beach, watching the 5:00 PM sunset from your heated car. The day ends tropically at the butterflies. Watch out for icy patches on side roads.",
+            "fr": "Une excursion hivernale commence à la batterie, où l'horizon dégagé attire le regard. Le musée du château offre ensuite chaleur et histoire. À midi, traversez les marais salants qui scintillent. L'après-midi, visitez l'église et la plage, en regardant le coucher du soleil à 17:00 depuis votre voiture chauffée. La journée se termine sous des airs tropicaux chez les papillons. Méfiez-vous des plaques de verglas sur les routes secondaires."
           },
           "stops": [
             {
@@ -906,13 +1005,15 @@
                 "de": "Batterie Gneisenau",
                 "hu": "Gneisenau üteg",
                 "ro": "Bateria Gneisenau",
-                "en": "Gneisenau Battery"
+                "en": "Gneisenau Battery",
+                "fr": "Batterie Gneisenau"
               },
               "tip_5lang": {
                 "de": "Die klare Winterluft ermöglicht weite Blicke über den Ozean; machen Sie ein schnelles Foto und kehren Sie dann ins warme Auto zurück.",
                 "hu": "A tiszta téli levegő távoli kilátást biztosít az óceánra; készítsen egy gyors fotót, majd térjen vissza a fűtött autóba.",
                 "ro": "Aerul curat de iarnă permite vederi panoramice peste ocean; faceți o poză rapidă și reveniți în mașina încălzită.",
-                "en": "The clear winter air allows for expansive views over the ocean; take a quick photo and then return to your warm car."
+                "en": "The clear winter air allows for expansive views over the ocean; take a quick photo and then return to your warm car.",
+                "fr": "L'air clair d'hiver permet des vues étendues sur l'océan ; prenez une photo rapide puis retournez à votre voiture chaude."
               }
             },
             {
@@ -920,13 +1021,15 @@
                 "de": "Château-Musée de Noirmoutier",
                 "hu": "Noirmoutier kastélymúzeum",
                 "ro": "Castelul-Muzeu din Noirmoutier",
-                "en": "Noirmoutier Castle Museum"
+                "en": "Noirmoutier Castle Museum",
+                "fr": "Musée du Château de Noirmoutier"
               },
               "tip_5lang": {
                 "de": "Genießen Sie die geschichtsträchtigen Säle ohne den Sommertrubel; die Temperatur im Inneren ist im Winter sehr angenehm für einen Rundgang.",
                 "hu": "Élvezze a történelmi termeket a nyári tömeg nélkül; a benti hőmérséklet télen is nagyon kellemes egy alapos körsétához.",
                 "ro": "Bucurați-vă de sălile pline de istorie fără agitația de vară; temperatura interioară este foarte plăcută iarna pentru un tur.",
-                "en": "Enjoy the historical halls without the summer crowds; the indoor temperature in winter is very comfortable for a thorough tour."
+                "en": "Enjoy the historical halls without the summer crowds; the indoor temperature in winter is very comfortable for a thorough tour.",
+                "fr": "Profitez des salles historiques sans la foule estivale ; la température intérieure en hiver est très agréable pour une visite approfondie."
               }
             },
             {
@@ -934,13 +1037,15 @@
                 "de": "Le sel de Ronan",
                 "hu": "Ronan sólepárlója",
                 "ro": "Sarea lui Ronan",
-                "en": "Ronan's Salt"
+                "en": "Ronan's Salt",
+                "fr": "Le Sel de Ronan"
               },
               "tip_5lang": {
                 "de": "Die Salzwiesen wirken im Winterlicht wie aus Kristall; nutzen Sie die Parkmöglichkeiten für einen kurzen Blick auf die kargen Landschaften.",
                 "hu": "A sólepárlók a téli fényben olyanok, mintha kristályból lennének; használja a parkolóhelyeket a kopár táj megcsodálásához.",
                 "ro": "Salinele par făcute din cristal în lumina iernii; folosiți locurile de parcare pentru o privire scurtă asupra peisajului auster.",
-                "en": "The salt marshes look like they are made of crystal in the winter light; use the parking spots for a quick view of the sparse landscapes."
+                "en": "The salt marshes look like they are made of crystal in the winter light; use the parking spots for a quick view of the sparse landscapes.",
+                "fr": "Les marais salants ressemblent à du cristal sous la lumière hivernale ; utilisez les emplacements de parking pour une vue rapide des paysages épurés."
               }
             },
             {
@@ -948,13 +1053,15 @@
                 "de": "Église Saint-Jean-Baptiste",
                 "hu": "Keresztelő Szent János-templom",
                 "ro": "Biserica Saint-Jean-Baptiste",
-                "en": "Saint-Jean-Baptiste Church"
+                "en": "Saint-Jean-Baptiste Church",
+                "fr": "Église Saint-Jean-Baptiste"
               },
               "tip_5lang": {
                 "de": "Ein besinnlicher Ort, um dem Winterwind kurz zu entkommen; die Kirche ist im Winter oft wunderschön beleuchtet und sehr einladend.",
                 "hu": "Meghitt hely, hogy rövid időre elmeneküljön a téli szél elől; a templom télen gyakran gyönyörűen kivilágított és hívogató.",
                 "ro": "Un loc liniștit pentru a scăpa scurt de vântul de iarnă; biserica este adesea frumos luminată și primitoare în timpul iernii.",
-                "en": "A peaceful place to briefly escape the winter wind; the church is often beautifully lit and very welcoming during the winter months."
+                "en": "A peaceful place to briefly escape the winter wind; the church is often beautifully lit and very welcoming during the winter months.",
+                "fr": "Un lieu paisible pour échapper brièvement au vent hivernal ; l'église est souvent magnifiquement éclairée et très accueillante pendant les mois d'hiver."
               }
             },
             {
@@ -962,13 +1069,15 @@
                 "de": "Plage de la Martinière",
                 "hu": "Martinière strand",
                 "ro": "Plaja Martinière",
-                "en": "Martinière Beach"
+                "en": "Martinière Beach",
+                "fr": "Plage de la Martinière"
               },
               "tip_5lang": {
                 "de": "Parken Sie mit Blick auf den Ozean für den Sonnenuntergang; das Winterlicht färbt den Himmel oft in spektakulären Orange- und Rosatönen.",
                 "hu": "Parkoljon le az óceánra nézve a naplementéhez; a téli fény gyakran látványos narancs és rózsaszín árnyalatokra festi az eget.",
                 "ro": "Parcați cu vedere la ocean pentru apus; lumina de iarnă colorează adesea cerul în nuanțe spectaculoase de portocaliu și roz.",
-                "en": "Park facing the ocean for the sunset; the winter light often colors the sky in spectacular orange and pink hues."
+                "en": "Park facing the ocean for the sunset; the winter light often colors the sky in spectacular orange and pink hues.",
+                "fr": "Garez-vous face à l'océan pour le coucher du soleil ; la lumière hivernale colore souvent le ciel en orange et rose spectaculaires."
               }
             },
             {
@@ -976,13 +1085,15 @@
                 "de": "L'île aux papillons",
                 "hu": "Pillangók szigete",
                 "ro": "Insula fluturilor",
-                "en": "Butterfly Island"
+                "en": "Butterfly Island",
+                "fr": "L'Île aux Papillons"
               },
               "tip_5lang": {
                 "de": "Der wärmste Ort der Insel im Winter; genießen Sie das tropische Klima, bevor Sie die Heimreise im beheizten Auto antreten.",
                 "hu": "A sziget legmelegebb helye télen; élvezze a trópusi klímát, mielőtt elindulna haza a fűtött autóban.",
                 "ro": "Cel mai cald loc de pe insulă iarna; bucurați-vă de climatul tropical înainte de a porni spre casă în mașina încălzită.",
-                "en": "The warmest spot on the island in winter; enjoy the tropical climate before starting your journey home in the heated car."
+                "en": "The warmest spot on the island in winter; enjoy the tropical climate before starting your journey home in the heated car.",
+                "fr": "L'endroit le plus chaud de l'île en hiver ; profitez du climat tropical avant de reprendre la route vers chez vous dans la voiture chauffée."
               }
             }
           ]

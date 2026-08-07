@@ -21,7 +21,8 @@
             "de": "Enclos du Port",
             "hu": "Enclos du Port",
             "ro": "Enclos du Port",
-            "en": "Enclos du Port"
+            "en": "Enclos du Port",
+            "fr": "Enclos du Port"
           },
           "coords": [
             -3.36,
@@ -36,7 +37,8 @@
             "de": "Spüren Sie den Geist des alten Arsenals am Meer.",
             "hu": "Érezze a régi tengerészeti arzenál hangulatát.",
             "ro": "Simțiți spiritul vechiului arsenal de la malul mării.",
-            "en": "Feel the spirit of the old maritime arsenal."
+            "en": "Feel the spirit of the old maritime arsenal.",
+            "fr": "Ressentez l'esprit de l'ancien arsenal maritime."
           }
         },
         {
@@ -44,7 +46,8 @@
             "de": "Tour de la Découverte",
             "hu": "Tour de la Découverte",
             "ro": "Tour de la Découverte",
-            "en": "Tour de la Découverte"
+            "en": "Tour de la Découverte",
+            "fr": "Tour de la Découverte"
           },
           "coords": [
             -3.359,
@@ -59,7 +62,8 @@
             "de": "Ehemaliger Wachturm für die Schiffe der Ostindien-Kompanie.",
             "hu": "Az Indiai Társaság hajóinak egykori őrtornya.",
             "ro": "Fost turn de veghe pentru navele Companiei Indiilor.",
-            "en": "Former watchtower for the East India Company ships."
+            "en": "Former watchtower for the East India Company ships.",
+            "fr": "Ancienne tour de guet pour les navires de la Compagnie des Indes."
           }
         },
         {
@@ -67,7 +71,8 @@
             "de": "Hôtel de Ville de Lorient",
             "hu": "Lorient városháza",
             "ro": "Primăria Lorient",
-            "en": "Lorient City Hall"
+            "en": "Lorient City Hall",
+            "fr": "Hôtel de Ville de Lorient"
           },
           "coords": [
             -3.364,
@@ -82,7 +87,8 @@
             "de": "Ein Symbol des Wiederaufbaus nach dem Krieg.",
             "hu": "A háború utáni újjáépítés szimbóluma.",
             "ro": "Un simbol al reconstrucției postbelice.",
-            "en": "A symbol of post-war reconstruction."
+            "en": "A symbol of post-war reconstruction.",
+            "fr": "Symbole de la reconstruction d'après‑guerre."
           }
         },
         {
@@ -90,7 +96,8 @@
             "de": "Kirche Notre-Dame-de-Victoire",
             "hu": "Notre-Dame-de-Victoire templom",
             "ro": "Biserica Notre-Dame-de-Victoire",
-            "en": "Church of Notre-Dame-de-Victoire"
+            "en": "Church of Notre-Dame-de-Victoire",
+            "fr": "Église Notre-Dame‑de‑Victoire"
           },
           "coords": [
             -3.364,
@@ -105,7 +112,8 @@
             "de": "Bewundern Sie die moderne Betonarchitektur im Inneren.",
             "hu": "Csodálja meg a modern betonarchitektúrát belül.",
             "ro": "Admirați arhitectura modernă din beton în interior.",
-            "en": "Admire the modern concrete architecture inside."
+            "en": "Admire the modern concrete architecture inside.",
+            "fr": "Admirez l'architecture moderne en béton à l'intérieur."
           }
         },
         {
@@ -113,7 +121,8 @@
             "de": "Markthalle Merville",
             "hu": "Merville vásárcsarnok",
             "ro": "Piața Merville",
-            "en": "Merville Market Hall"
+            "en": "Merville Market Hall",
+            "fr": "Halle du marché de Merville"
           },
           "coords": [
             -3.368,
@@ -128,7 +137,8 @@
             "de": "Probieren Sie frische Meeresfrüchte und bretonische Butterkuchen.",
             "hu": "Kóstoljon friss tengeri herentyűket és breton vajas sütit.",
             "ro": "Gustați fructe de mare proaspete și prăjituri bretone.",
-            "en": "Taste fresh seafood and Breton butter cakes."
+            "en": "Taste fresh seafood and Breton butter cakes.",
+            "fr": "Goûtez aux fruits de mer frais et aux kouign‑amann bretons."
           }
         },
         {
@@ -136,7 +146,8 @@
             "de": "Mittagessen im Stadtzentrum",
             "hu": "Ebéd a belvárosban",
             "ro": "Prânz în centrul orașului",
-            "en": "Lunch in the City Center"
+            "en": "Lunch in the City Center",
+            "fr": "Déjeuner au centre‑ville"
           },
           "coords": [
             -3.365,
@@ -151,7 +162,8 @@
             "de": "Bestellen Sie eine herzhafte Galette mit bretonischem Cidre.",
             "hu": "Rendeljen egy sós galette-et breton almaborral.",
             "ro": "Comandați o galette cu cidru breton.",
-            "en": "Order a savory galette with Breton cider."
+            "en": "Order a savory galette with Breton cider.",
+            "fr": "Commandez une galette salée accompagnée d'un cidre breton."
           }
         },
         {
@@ -159,7 +171,8 @@
             "de": "Yachthafen Lorient",
             "hu": "Lorient jachtkikötő",
             "ro": "Portul de agrement Lorient",
-            "en": "Lorient Marina"
+            "en": "Lorient Marina",
+            "fr": "Marina de Lorient"
           },
           "coords": [
             -3.358,
@@ -174,7 +187,8 @@
             "de": "Genießen Sie den Blick auf die Segelboote am Kai.",
             "hu": "Élvezze a vitorlások látványát a rakparton.",
             "ro": "Bucurați-vă de vederea barcă cu pânze la chei.",
-            "en": "Enjoy the view of the sailboats at the quay."
+            "en": "Enjoy the view of the sailboats at the quay.",
+            "fr": "Profitez de la vue sur les voiliers au quai."
           }
         }
       ],
@@ -182,7 +196,8 @@
         "de": "Lorient empfängt Sie mit seiner maritimen Geschichte und dem Charme einer nach dem Krieg neu erbauten Stadt. Am Vormittag erkunden wir das Herz des Hafens und den historischen Wachturm. Nach einem Besuch in der modernen Kirche Notre-Dame-de-Victoire tauchen wir in die Düfte der Markthalle Merville ein. Der Nachmittag gehört der Entspannung am Hafen und den kulinarischen Spezialitäten der Bretagne.",
         "hu": "Lorient a tengerészeti történelem és a háború után újjáépült város modern bájával fogadja. Délelőtt a kikötő szívét és a történelmi őrtornyot fedezzük fel. A Notre-Dame-de-Victoire templom modern beton ívei után a Merville vásárcsarnok illataiba merülünk el. A délután a kikötői sétáé és a breton kulináris különlegességeké, ahol a friss osztriga és a galette a főszereplő.",
         "ro": "Lorient vă întâmpină cu istoria sa maritimă și farmecul unui oraș reconstruit după război. Dimineața explorăm inima portului și turnul istoric de veghe. După o vizită la biserica modernă Notre-Dame-de-Victoire, ne cufundăm în aromele pieței Merville. După-amiaza este dedicată relaxării în port și specialităților culinare din Bretania, unde stridiile proaspete și galette sunt la loc de cinste.",
-        "en": "Lorient welcomes you with its maritime history and the charm of a city rebuilt after the war. In the morning, we explore the heart of the port and the historical watchtower. After a visit to the modern church of Notre-Dame-de-Victoire, we immerse ourselves in the scents of the Merville market. The afternoon is dedicated to relaxation by the harbor and the culinary specialties of Brittany."
+        "en": "Lorient welcomes you with its maritime history and the charm of a city rebuilt after the war. In the morning, we explore the heart of the port and the historical watchtower. After a visit to the modern church of Notre-Dame-de-Victoire, we immerse ourselves in the scents of the Merville market. The afternoon is dedicated to relaxation by the harbor and the culinary specialties of Brittany.",
+        "fr": "Lorient vous accueille par son histoire maritime et le charme d'une ville reconstruite après la guerre. Le matin, nous explorons le cœur du port et la tour de guet historique. Après une visite de l'église moderne Notre‑Dame‑de‑Victoire, nous nous imprégnons des senteurs de la halle de Merville. L'après‑midi est dédié à la détente au bord du port et aux spécialités culinaires de Bretagne."
       },
       "gastro_picks": {
         "de": [
@@ -342,6 +357,12 @@
           "The market hall is best visited before 1 PM.",
           "The ferries (Batobus) are a cheap way to cross the bay.",
           "Notice the modern architecture from the reconstruction period."
+        ],
+        "fr": [
+          "Lorient est très plate et idéale pour être explorée à pied.",
+          "La halle du marché est mieux visitée avant 13h.",
+          "Les navettes (Batobus) sont un moyen peu coûteux de traverser la rade.",
+          "Remarquez l'architecture moderne de la période de reconstruction."
         ]
       }
     },
@@ -358,7 +379,8 @@
             "de": "Enclos du Port",
             "hu": "Enclos du Port",
             "ro": "Enclos du Port",
-            "en": "Enclos du Port"
+            "en": "Enclos du Port",
+            "fr": "Enclos du Port"
           },
           "coords": [
             -3.36,
@@ -373,7 +395,8 @@
             "de": "Startpunkt an den alten Docks.",
             "hu": "Kezdőpont a régi dokkoknál.",
             "ro": "Punct de plecare la vechile docuri.",
-            "en": "Starting point at the old docks."
+            "en": "Starting point at the old docks.",
+            "fr": "Point de départ aux anciens docks."
           }
         },
         {
@@ -381,7 +404,8 @@
             "de": "U-Boot-Basis Keroman",
             "hu": "Keroman tengeralattjáró-bázis",
             "ro": "Baza de submarine Keroman",
-            "en": "Keroman Submarine Base"
+            "en": "Keroman Submarine Base",
+            "fr": "Base sous-marine de Keroman"
           },
           "coords": [
             -3.371,
@@ -396,7 +420,8 @@
             "de": "Massive Betonbunker aus dem Zweiten Weltkrieg.",
             "hu": "Masszív betonbunkerek a II. világháborúból.",
             "ro": "Bunkăre masive de beton din al Doilea Război Mondial.",
-            "en": "Massive concrete bunkers from WWII."
+            "en": "Massive concrete bunkers from WWII.",
+            "fr": "Imposants bunkers en béton de la Seconde Guerre mondiale."
           }
         },
         {
@@ -404,7 +429,8 @@
             "de": "U-Boot Flore-S645",
             "hu": "Flore-S645 tengeralattjáró",
             "ro": "Submarinul Flore-S645",
-            "en": "Submarine Flore-S645"
+            "en": "Submarine Flore-S645",
+            "fr": "Sous-marin Flore-S645"
           },
           "coords": [
             -3.372,
@@ -419,7 +445,8 @@
             "de": "Besichtigen Sie das Innere eines echten U-Boots.",
             "hu": "Látogasson el egy valódi tengeralattjáró belsejébe.",
             "ro": "Vizitați interiorul unui submarin adevărat.",
-            "en": "Visit the interior of a real submarine."
+            "en": "Visit the interior of a real submarine.",
+            "fr": "Visitez l'intérieur d'un vrai sous-marin."
           }
         },
         {
@@ -427,7 +454,8 @@
             "de": "Cité de la Voile Éric Tabarly",
             "hu": "Cité de la Voile vitorlásmúzeum",
             "ro": "Orașul Velei Éric Tabarly",
-            "en": "Cité de la Voile Éric Tabarly"
+            "en": "Cité de la Voile Éric Tabarly",
+            "fr": "Cité de la Voile Éric Tabarly"
           },
           "coords": [
             -3.373,
@@ -442,7 +470,8 @@
             "de": "Interaktives Museum über den Segelsport.",
             "hu": "Interaktív múzeum a vitorlázásról.",
             "ro": "Muzeu interactiv despre sportul cu vele.",
-            "en": "Interactive museum about sailing sports."
+            "en": "Interactive museum about sailing sports.",
+            "fr": "Musée interactif sur la voile sportive."
           }
         },
         {
@@ -450,7 +479,8 @@
             "de": "Mittagessen am Kai",
             "hu": "Ebéd a rakparton",
             "ro": "Prânz pe chei",
-            "en": "Lunch at the Quay"
+            "en": "Lunch at the Quay",
+            "fr": "Déjeuner au Quai"
           },
           "coords": [
             -3.37,
@@ -465,7 +495,8 @@
             "de": "Frischer Fisch direkt im Hafenviertel.",
             "hu": "Friss hal közvetlenül a kikötőnegyedben.",
             "ro": "Pește proaspăt chiar în cartierul portului.",
-            "en": "Fresh fish right in the harbor district."
+            "en": "Fresh fish right in the harbor district.",
+            "fr": "Poisson frais dans le quartier du port."
           }
         },
         {
@@ -473,7 +504,8 @@
             "de": "Larmor-Plage",
             "hu": "Larmor-Plage strand",
             "ro": "Plaja Larmor",
-            "en": "Larmor-Plage"
+            "en": "Larmor-Plage",
+            "fr": "Larmor-Plage"
           },
           "coords": [
             -3.385,
@@ -488,7 +520,8 @@
             "de": "Schöner Sandstrand und Cafés an der Promenade.",
             "hu": "Szép homokos strand és kávézók a korzón.",
             "ro": "Plajă frumoasă cu nisip și cafenele pe faleză.",
-            "en": "Beautiful sandy beach and seaside cafés."
+            "en": "Beautiful sandy beach and seaside cafés.",
+            "fr": "Belle plage de sable et cafés en bord de mer."
           }
         }
       ],
@@ -496,7 +529,8 @@
         "de": "Diese Radtour verbindet die industrielle Geschichte Lorient mit der weiten Küste. Wir starten am alten Arsenal und radeln zum beeindruckenden U-Boot-Stützpunkt Keroman. Hier tauchen wir tief in die Technik der Meere ein, bevor wir entlang des Ufers nach Larmor-Plage fahren. Die frische Meeresbrise begleitet uns auf dem gesamten Weg durch diese maritime Metropole.",
         "hu": "Ez a kerékpártúra összeköti Lorient ipari múltját a végtelen partvidékkel. A régi arzenáltól indulva a lenyűgöző Keroman tengeralattjáró-bázishoz tekerünk. Itt elmélyedünk a tengerek technológiájában, mielőtt a part mentén Larmor-Plage felé vennénk az irányt. A friss tengeri szellő végigkísér minket ezen a tengerészeti metropoliszon keresztül.",
         "ro": "Acest tur cu bicicleta combină istoria industrială a orașului Lorient cu coasta întinsă. Pornim de la vechiul arsenal și pedalăm către impresionanta bază de submarine Keroman. Aici ne scufundăm în tehnologia mărilor înainte de a ne îndrepta de-a lungul țărmului spre Larmor-Plage. Briza proaspătă a mării ne însoțește pe tot parcursul acestui traseu prin metropola maritimă.",
-        "en": "This bike tour connects Lorient's industrial history with the vast coastline. We start at the old arsenal and cycle to the impressive Keroman submarine base. Here we dive deep into the technology of the seas before heading along the shore towards Larmor-Plage. The fresh sea breeze accompanies us throughout this journey through the maritime metropolis."
+        "en": "This bike tour connects Lorient's industrial history with the vast coastline. We start at the old arsenal and cycle to the impressive Keroman submarine base. Here we dive deep into the technology of the seas before heading along the shore towards Larmor-Plage. The fresh sea breeze accompanies us throughout this journey through the maritime metropolis.",
+        "fr": "Cette excursion à vélo relie l'histoire industrielle de Lorient à la vaste côte. Nous commençons à l'ancien arsenal et roulons jusqu'à l'impressionnante base sous-marine de Keroman. Là, nous plongeons dans la technologie maritime avant de longer le littoral vers Larmor-Plage. La fraîche brise marine nous accompagne tout au long de ce parcours à travers la métropole maritime."
       },
       "gastro_picks": {
         "de": [
@@ -600,6 +634,11 @@
           "Use the bike paths along the Rade.",
           "There are many bike racks in Larmor-Plage.",
           "Don't forget your sunscreen."
+        ],
+        "fr": [
+          "Utilisez les pistes cyclables le long de la Rade.",
+          "Il y a de nombreux arceaux à vélos à Larmor-Plage.",
+          "N'oubliez pas votre crème solaire."
         ]
       }
     },
@@ -616,7 +655,8 @@
             "de": "Enclos du Port",
             "hu": "Enclos du Port",
             "ro": "Enclos du Port",
-            "en": "Enclos du Port"
+            "en": "Enclos du Port",
+            "fr": "Enclos du Port"
           },
           "coords": [
             -3.36,
@@ -631,7 +671,8 @@
             "de": "Parken Sie am Place d'Armes.",
             "hu": "Parkoljon a Place d'Armes-nál.",
             "ro": "Parcați la Place d'Armes.",
-            "en": "Park at Place d'Armes."
+            "en": "Park at Place d'Armes.",
+            "fr": "Garez-vous à la Place d'Armes."
           }
         },
         {
@@ -639,7 +680,8 @@
             "de": "Tour de la Découverte",
             "hu": "Tour de la Découverte",
             "ro": "Tour de la Découverte",
-            "en": "Tour de la Découverte"
+            "en": "Tour de la Découverte",
+            "fr": "Tour de la Découverte"
           },
           "coords": [
             -3.359,
@@ -654,7 +696,8 @@
             "de": "Ein kurzer Fußweg vom Parkplatz.",
             "hu": "Rövid séta a parkolótól.",
             "ro": "O scurtă plimbare de la parcare.",
-            "en": "A short walk from the parking lot."
+            "en": "A short walk from the parking lot.",
+            "fr": "À une courte distance à pied du parking."
           }
         },
         {
@@ -662,7 +705,8 @@
             "de": "U-Boot-Basis Keroman",
             "hu": "Keroman tengeralattjáró-bázis",
             "ro": "Baza de submarine Keroman",
-            "en": "Keroman Submarine Base"
+            "en": "Keroman Submarine Base",
+            "fr": "Base sous-marine de Keroman"
           },
           "coords": [
             -3.371,
@@ -677,7 +721,8 @@
             "de": "Großer kostenloser Parkplatz vorhanden.",
             "hu": "Nagy ingyenes parkoló áll rendelkezésre.",
             "ro": "Parcare mare gratuită disponibilă.",
-            "en": "Large free parking available."
+            "en": "Large free parking available.",
+            "fr": "Grand parking gratuit disponible."
           }
         },
         {
@@ -685,7 +730,8 @@
             "de": "U-Boot Flore-S645",
             "hu": "Flore-S645 tengeralattjáró",
             "ro": "Submarinul Flore-S645",
-            "en": "Submarine Flore-S645"
+            "en": "Submarine Flore-S645",
+            "fr": "Sous-marin Flore-S645"
           },
           "coords": [
             -3.372,
@@ -700,7 +746,8 @@
             "de": "Direkt neben der Basis zu Fuß erreichbar.",
             "hu": "Közvetlenül a bázis mellett, gyalog elérhető.",
             "ro": "Chiar lângă bază, accesibil pe jos.",
-            "en": "Right next to the base, accessible on foot."
+            "en": "Right next to the base, accessible on foot.",
+            "fr": "Juste à côté de la base, accessible à pied."
           }
         },
         {
@@ -708,7 +755,8 @@
             "de": "Cité de la Voile Éric Tabarly",
             "hu": "Cité de la Voile vitorlásmúzeum",
             "ro": "Orașul Velei Éric Tabarly",
-            "en": "Cité de la Voile Éric Tabarly"
+            "en": "Cité de la Voile Éric Tabarly",
+            "fr": "Cité de la Voile Éric Tabarly"
           },
           "coords": [
             -3.373,
@@ -723,7 +771,8 @@
             "de": "Spaziergang innerhalb des Keroman-Clusters.",
             "hu": "Séta a Keroman-negyeden belül.",
             "ro": "Plimbare în cadrul complexului Keroman.",
-            "en": "Walk within the Keroman cluster."
+            "en": "Walk within the Keroman cluster.",
+            "fr": "À visiter dans le cluster de Keroman."
           }
         },
         {
@@ -731,7 +780,8 @@
             "de": "Mittagessen bei La Base",
             "hu": "Ebéd a La Base étteremben",
             "ro": "Prânz la La Base",
-            "en": "Lunch at La Base"
+            "en": "Lunch at La Base",
+            "fr": "Déjeuner à La Base"
           },
           "coords": [
             -3.37,
@@ -746,7 +796,8 @@
             "de": "Hafenerlebnis mit Industrie-Flair.",
             "hu": "Kikötői élmény ipari hangulattal.",
             "ro": "Experiență portuară cu fler industrial.",
-            "en": "Harbor experience with industrial flair."
+            "en": "Harbor experience with industrial flair.",
+            "fr": "Expérience portuaire à l'atmosphère industrielle."
           }
         },
         {
@@ -754,7 +805,8 @@
             "de": "Larmor-Plage Promenade",
             "hu": "Larmor-Plage korzó",
             "ro": "Promenada Larmor",
-            "en": "Larmor-Plage Promenade"
+            "en": "Larmor-Plage Promenade",
+            "fr": "Promenade de Larmor-Plage"
           },
           "coords": [
             -3.385,
@@ -769,7 +821,8 @@
             "de": "Parken Sie entlang der Küstenstraße.",
             "hu": "Parkoljon a tengerparti út mentén.",
             "ro": "Parcați de-a lungul drumului de coastă.",
-            "en": "Park along the coastal road."
+            "en": "Park along the coastal road.",
+            "fr": "Garez-vous le long de la route côtière."
           }
         }
       ],
@@ -777,7 +830,8 @@
         "de": "Mit dem Auto erreichen Sie mühelos die verschiedenen Facetten von Lorient. Wir beginnen im Stadtzentrum beim alten Arsenal, bevor wir zum industriellen Kraftzentrum, der U-Boot-Basis Keroman, fahren. Dort verbringen wir den Großteil des Tages mit Technik und Geschichte, die alle bequem zu Fuß erreichbar sind. Zum Abschluss fahren wir zur Küste nach Larmor-Plage, um den Tag am Meer ausklingen zu lassen.",
         "hu": "Autóval könnyedén elérheti Lorient különféle arcait. A belvárosban, a régi arzenálnál kezdünk, majd az ipari központ, a Keroman tengeralattjáró-bázis felé vesszük az irányt. Itt töltjük a nap nagy részét a technológia és történelem jegyében, melyek mind kényelmesen, gyalog bejárhatók. Befejezésül a Larmor-Plage partvidékére autózunk, hogy a tengerparton zárjuk a napot.",
         "ro": "Cu mașina, puteți ajunge fără efort la diferitele fațete ale orașului Lorient. Începem în centrul orașului, la vechiul arsenal, înainte de a conduce spre centrul industrial, baza de submarine Keroman. Acolo petrecem cea mai mare parte a zilei cu tehnologie și istorie, toate ușor accesibile pe jos. În încheiere, conducem spre coastă, la Larmor-Plage, pentru a încheia ziua pe malul mării.",
-        "en": "By car, you can effortlessly reach the various facets of Lorient. We start in the city center at the old arsenal before driving to the industrial powerhouse, the Keroman submarine base. There we spend most of the day with technology and history, all easily accessible on foot. To conclude, we drive to the coast at Larmor-Plage to end the day by the sea."
+        "en": "By car, you can effortlessly reach the various facets of Lorient. We start in the city center at the old arsenal before driving to the industrial powerhouse, the Keroman submarine base. There we spend most of the day with technology and history, all easily accessible on foot. To conclude, we drive to the coast at Larmor-Plage to end the day by the sea.",
+        "fr": "En voiture, vous pouvez atteindre sans effort les différentes facettes de Lorient. Nous commençons au centre-ville, à l'ancien arsenal, avant de conduire jusqu'à la puissance industrielle, la base sous-marine de Keroman. Là, nous passons la majeure partie de la journée entre technologie et histoire, le tout facilement accessible à pied. Pour conclure, nous rejoignons la côte à Larmor-Plage pour terminer la journée au bord de la mer."
       },
       "gastro_picks": {
         "de": [
@@ -881,6 +935,11 @@
           "Avoid peak traffic hours in the center.",
           "Parking in Keroman is very easy.",
           "Drive the coastal road for better views."
+        ],
+        "fr": [
+          "Évitez les heures de pointe dans le centre.",
+          "Le stationnement à Keroman est très facile.",
+          "Empruntez la route côtière pour de meilleures vues."
         ]
       }
     },
@@ -897,7 +956,8 @@
             "de": "Markthalle Merville",
             "hu": "Merville vásárcsarnok",
             "ro": "Piața Merville",
-            "en": "Merville Market Hall"
+            "en": "Merville Market Hall",
+            "fr": "Halle du marché de Merville"
           },
           "coords": [
             -3.368,
@@ -912,7 +972,8 @@
             "de": "Zentraler Busknotenpunkt in der Nähe.",
             "hu": "Központi buszcsomópont a közelben.",
             "ro": "Nod central de autobuz în apropiere.",
-            "en": "Central bus hub nearby."
+            "en": "Central bus hub nearby.",
+            "fr": "Nœud central de bus à proximité."
           }
         },
         {
@@ -920,7 +981,8 @@
             "de": "Kirche Notre-Dame-de-Victoire",
             "hu": "Notre-Dame-de-Victoire templom",
             "ro": "Biserica Notre-Dame-de-Victoire",
-            "en": "Church of Notre-Dame-de-Victoire"
+            "en": "Church of Notre-Dame-de-Victoire",
+            "fr": "Église Notre-Dame-de-Victoire"
           },
           "coords": [
             -3.364,
@@ -935,7 +997,8 @@
             "de": "Zu Fuß erreichbar vom Markt.",
             "hu": "Gyalog elérhető a piactól.",
             "ro": "Accesibil pe jos de la piață.",
-            "en": "Walkable from the market."
+            "en": "Walkable from the market.",
+            "fr": "Accessible à pied depuis le marché."
           }
         },
         {
@@ -943,7 +1006,8 @@
             "de": "Batobus-Anleger Quai des Indes",
             "hu": "Batobus állomás Quai des Indes",
             "ro": "Stație Batobus Quai des Indes",
-            "en": "Batobus Pier Quai des Indes"
+            "en": "Batobus Pier Quai des Indes",
+            "fr": "Quai Batobus Quai des Indes"
           },
           "coords": [
             -3.359,
@@ -958,7 +1022,8 @@
             "de": "Nehmen Sie das Boot nach Port-Louis.",
             "hu": "Szálljon hajóra Port-Louis felé.",
             "ro": "Luați barca spre Port-Louis.",
-            "en": "Take the boat to Port-Louis."
+            "en": "Take the boat to Port-Louis.",
+            "fr": "Prenez le bateau pour Port-Louis."
           }
         },
         {
@@ -966,7 +1031,8 @@
             "de": "Musée de la Compagnie des Indes",
             "hu": "Indiai Társaság Múzeuma",
             "ro": "Muzeul Companiei Indiilor",
-            "en": "Musée de la Compagnie des Indes"
+            "en": "Musée de la Compagnie des Indes",
+            "fr": "Musée de la Compagnie des Indes"
           },
           "coords": [
             -3.353,
@@ -981,7 +1047,8 @@
             "de": "In der Zitadelle von Port-Louis gelegen.",
             "hu": "A Port-Louis-i citadellában található.",
             "ro": "Situat în citadela din Port-Louis.",
-            "en": "Located in the Citadel of Port-Louis."
+            "en": "Located in the Citadel of Port-Louis.",
+            "fr": "Situé dans la citadelle de Port-Louis."
           }
         },
         {
@@ -989,7 +1056,8 @@
             "de": "Mittagessen in Port-Louis",
             "hu": "Ebéd Port-Louis-ban",
             "ro": "Prânz în Port-Louis",
-            "en": "Lunch in Port-Louis"
+            "en": "Lunch in Port-Louis",
+            "fr": "Déjeuner à Port-Louis"
           },
           "coords": [
             -3.355,
@@ -1004,7 +1072,8 @@
             "de": "Gemütliche Restaurants im alten Hafen.",
             "hu": "Hangulatos éttermek a régi kikötőben.",
             "ro": "Restaurante cochete în portul vechi.",
-            "en": "Cozy restaurants in the old port."
+            "en": "Cozy restaurants in the old port.",
+            "fr": "Restaurants conviviaux dans le vieux port."
           }
         },
         {
@@ -1012,7 +1081,8 @@
             "de": "U-Boot-Basis Keroman (Bus)",
             "hu": "Keroman tengeralattjáró-bázis (busszal)",
             "ro": "Baza de submarine Keroman (autobuz)",
-            "en": "Keroman Submarine Base (by bus)"
+            "en": "Keroman Submarine Base (by bus)",
+            "fr": "Base sous-marine de Keroman (en bus)"
           },
           "coords": [
             -3.371,
@@ -1027,7 +1097,8 @@
             "de": "Linie T2 oder T3 direkt zur Basis.",
             "hu": "T2 vagy T3 vonal közvetlenül a bázishoz.",
             "ro": "Linia T2 sau T3 direct la bază.",
-            "en": "Line T2 or T3 directly to the base."
+            "en": "Line T2 or T3 directly to the base.",
+            "fr": "Ligne T2 ou T3 directement jusqu'à la base."
           }
         }
       ],
@@ -1035,7 +1106,8 @@
         "de": "Lorient lässt sich hervorragend mit dem öffentlichen Nahverkehr und den berühmten 'Batobussen' (Wasserbussen) erkunden. Wir starten am lebhaften Markt und nutzen das Schiff, um die Bucht nach Port-Louis zu überqueren, wo wir die Zitadelle besuchen. Nach einem Mittagessen am Wasser bringt uns der Bus zur U-Boot-Basis Keroman. Diese Tour bietet die besten Aussichten vom Wasser aus.",
         "hu": "Lorient kiválóan felfedezhető tömegközlekedéssel és a híres 'Batobus' vízibuszokkal. A nyüzsgő piacon kezdünk, majd hajóval szeljük át az öblöt Port-Louis felé, ahol a citadellát látogatjuk meg. A vízparti ebéd után busz visz minket a Keroman tengeralattjáró-bázishoz. Ez a túra kínálja a legjobb kilátást a víz felől.",
         "ro": "Lorient poate fi explorat excelent cu transportul public și faimoasele 'Batobus' (autobuze acvatice). Începem la piața plină de viață și folosim barca pentru a traversa golful spre Port-Louis, unde vizităm citadela. După un prânz pe malul apei, autobuzul ne duce la baza de submarine Keroman. Acest tur oferă cele mai bune vederi de pe apă.",
-        "en": "Lorient is excellently explorable with public transport and the famous 'Batobuses' (water buses). We start at the lively market and use the boat to cross the bay to Port-Louis, where we visit the Citadel. After a lunch by the water, the bus takes us to the Keroman submarine base. This tour offers the best views from the water."
+        "en": "Lorient is excellently explorable with public transport and the famous 'Batobuses' (water buses). We start at the lively market and use the boat to cross the bay to Port-Louis, where we visit the Citadel. After a lunch by the water, the bus takes us to the Keroman submarine base. This tour offers the best views from the water.",
+        "fr": "Lorient se visite parfaitement en transports en commun et grâce aux célèbres « Batobus » (bateaux-bus). Nous commençons au marché animé et prenons le bateau pour traverser la baie jusqu'à Port-Louis, où nous visitons la citadelle. Après un déjeuner au bord de l'eau, le bus nous emmène à la base sous-marine de Keroman. Cette visite offre les meilleures vues depuis l'eau."
       },
       "gastro_picks": {
         "de": [
@@ -1140,6 +1212,11 @@
           "Buy a day pass for bus and boat.",
           "Pay attention to the Batobus departure times.",
           "The crossing to Port-Louis takes only 10 minutes."
+        ],
+        "fr": [
+          "Achetez un pass journée pour bus et bateau.",
+          "Faites attention aux horaires de départ du Batobus.",
+          "La traversée vers Port-Louis ne prend que 10 minutes."
         ]
       }
     }

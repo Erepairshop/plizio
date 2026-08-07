@@ -21,7 +21,8 @@
             "de": "Heißer Brunnen (Fontaine Chaude)",
             "hu": "Forró kút (Fontaine Chaude)",
             "ro": "Fântâna Caldă (Fontaine Chaude)",
-            "en": "Hot Fountain (Fontaine Chaude)"
+            "en": "Hot Fountain (Fontaine Chaude)",
+            "fr": "Fontaine Chaude"
           },
           "coords": [
             43.7106,
@@ -36,7 +37,8 @@
             "de": "Das 64 Grad heiße Wasser dampft besonders schön am frühen Morgen.",
             "hu": "A 64 fokos víz kora reggel gőzölög a leglátványosabban.",
             "ro": "Apa de 64 de grade scoate aburi spectaculoși dimineața devreme.",
-            "en": "The 64-degree water steams beautifully in the early morning."
+            "en": "The 64-degree water steams beautifully in the early morning.",
+            "fr": "L'eau à 64 degrés fume magnifiquement au petit matin."
           }
         },
         {
@@ -44,7 +46,8 @@
             "de": "Kathedrale Sainte-Marie",
             "hu": "Sainte-Marie katedrális",
             "ro": "Catedrala Sainte-Marie",
-            "en": "Sainte-Marie Cathedral"
+            "en": "Sainte-Marie Cathedral",
+            "fr": "Cathédrale Sainte-Marie"
           },
           "coords": [
             43.7092,
@@ -59,7 +62,8 @@
             "de": "Bewundern Sie das prachtvolle Portal der Apostel im Inneren.",
             "hu": "Csodálja meg az apostolok gazdagon díszített kapuját odabent.",
             "ro": "Admirați magnificul Portal al Apostolilor din interior.",
-            "en": "Admire the magnificent Apostles Portal inside."
+            "en": "Admire the magnificent Apostles Portal inside.",
+            "fr": "Admirez le magnifique portail des Apôtres à l’intérieur."
           }
         },
         {
@@ -67,7 +71,8 @@
             "de": "Musée de Borda",
             "hu": "Borda Múzeum",
             "ro": "Muzeul de Borda",
-            "en": "Musée de Borda"
+            "en": "Musée de Borda",
+            "fr": "Musée de Borda"
           },
           "coords": [
             43.7112,
@@ -82,7 +87,8 @@
             "de": "Entdecken Sie die römischen Fundamente unter der Kapelle der Karmeliter.",
             "hu": "Fedezze fel a római alapokat a karmelita kápolna alatt.",
             "ro": "Descoperiți fundațiile romane de sub capela Carmeliților.",
-            "en": "Discover the Roman foundations beneath the Carmelite chapel."
+            "en": "Discover the Roman foundations beneath the Carmelite chapel.",
+            "fr": "Découvrez les fondations romaines sous la chapelle des Carmélites."
           }
         },
         {
@@ -90,7 +96,8 @@
             "de": "Gallo-römische Stadtmauern",
             "hu": "Gallo-római városfalak",
             "ro": "Zidurile galo-romane",
-            "en": "Gallo-Roman City Walls"
+            "en": "Gallo-Roman City Walls",
+            "fr": "Remparts gallo-romains"
           },
           "coords": [
             43.7108,
@@ -105,7 +112,8 @@
             "de": "Spazieren Sie entlang der am besten erhaltenen römischen Mauern Frankreichs.",
             "hu": "Sétáljon végig Franciaország egyik legjobb állapotú római városfala mentén.",
             "ro": "Plimbați-vă de-a lungul celor mai bine conservate ziduri romane din Franța.",
-            "en": "Walk along some of the best-preserved Roman walls in France."
+            "en": "Walk along some of the best-preserved Roman walls in France.",
+            "fr": "Promenez-vous le long de certains des murs romains les mieux conservés de France."
           }
         },
         {
@@ -113,7 +121,8 @@
             "de": "Atrium Casino & Splendid Hotel",
             "hu": "Atrium Casino és Splendid Hotel",
             "ro": "Cazinoul Atrium și Hotelul Splendid",
-            "en": "Atrium Casino & Splendid Hotel"
+            "en": "Atrium Casino & Splendid Hotel",
+            "fr": "Atrium Casino & Splendid Hotel"
           },
           "coords": [
             43.7125,
@@ -128,7 +137,8 @@
             "de": "Ein Meisterwerk des Art Déco; werfen Sie einen Blick in die Lobby des Hotels.",
             "hu": "Az art déco mesterműve; vessen egy pillantást a hotel halljára.",
             "ro": "O capodoperă Art Deco; aruncați o privire în holul hotelului.",
-            "en": "An Art Deco masterpiece; take a look inside the hotel lobby."
+            "en": "An Art Deco masterpiece; take a look inside the hotel lobby.",
+            "fr": "Un chef-d'œuvre Art déco ; jetez un œil au hall de l’hôtel."
           }
         },
         {
@@ -136,7 +146,8 @@
             "de": "Arena von Dax",
             "hu": "Dax-i Aréna",
             "ro": "Arena din Dax",
-            "en": "Dax Arena"
+            "en": "Dax Arena",
+            "fr": "Arène de Dax"
           },
           "coords": [
             43.7152,
@@ -151,7 +162,8 @@
             "de": "Der Tempel des Stierkampfes in der Gascogne mit andalusischem Flair.",
             "hu": "A gaszkonyi bikaviadalok temploma andalúz hangulattal.",
             "ro": "Templul luptelor cu tauri din Gasconia, cu o atmosferă andaluză.",
-            "en": "The temple of Gascon bullfighting with an Andalusian flair."
+            "en": "The temple of Gascon bullfighting with an Andalusian flair.",
+            "fr": "Le temple de la corrida gasconne avec une touche andalouse."
           }
         },
         {
@@ -159,7 +171,8 @@
             "de": "Abendessen am Ufer der Adour",
             "hu": "Vacsora az Adour partján",
             "ro": "Cină pe malul râului Adour",
-            "en": "Dinner by the Adour River"
+            "en": "Dinner by the Adour River",
+            "fr": "Dîner au bord de l'Adour"
           },
           "coords": [
             43.7135,
@@ -174,7 +187,8 @@
             "de": "Probieren Sie lokale Spezialitäten wie Foie gras oder Ente.",
             "hu": "Kóstolja meg a helyi különlegességeket, mint a libamáj vagy a kacsa.",
             "ro": "Încercați specialitățile locale precum foie gras sau rața.",
-            "en": "Try local specialties like foie gras or duck."
+            "en": "Try local specialties like foie gras or duck.",
+            "fr": "Goûtez aux spécialités locales comme le foie gras ou le canard."
           }
         }
       ],
@@ -182,7 +196,8 @@
         "de": "Dax, das Herz der Gascogne, empfängt Sie mit dampfenden Thermalquellen und römischer Geschichte. Ihr Rundgang beginnt am Fontaine Chaude, wo das Wasser seit der Antike fließt. Mittags erkunden Sie die prächtige Kathedrale und das Art Déco-Viertel am Fluss Adour. Der Nachmittag gehört der Arena, einem Symbol der lokalen Traditionen, bevor Sie den Tag bei einem Glas Wein aus der Region ausklingen lassen.",
         "hu": "Dax, Gaszkony szíve, gőzölgő termálforrásokkal és római kori emlékekkel várja Önt. Sétája a Fontaine Chaude-nál indul, ahol az ókor óta tör fel a víz. Napközben felfedezheti a fenséges katedrálist és az Adour folyó partján fekvő art déco negyedet. A délutánt a helyi hagyományok jelképének számító arénának szentelheti, mielőtt egy pohár helyi borral zárná a napot.",
         "ro": "Dax, inima Gasconiei, vă întâmpină cu izvoare termale aburinde și istorie romană. Turul începe la Fontaine Chaude, unde apa curge încă din antichitate. La prânz, explorați catedrala maiestuoasă și cartierul Art Deco de pe malul râului Adour. După-amiaza aparține arenei, un simbol al tradițiilor locale, înainte de a încheia ziua cu un pahar de vin regional.",
-        "en": "Dax, the heart of Gascony, welcomes you with steaming thermal springs and Roman history. Your walk begins at the Fontaine Chaude, where the water has flowed since antiquity. At midday, explore the grand cathedral and the Art Deco district along the Adour river. The afternoon belongs to the Arena, a symbol of local traditions, before finishing the day with a glass of regional wine."
+        "en": "Dax, the heart of Gascony, welcomes you with steaming thermal springs and Roman history. Your walk begins at the Fontaine Chaude, where the water has flowed since antiquity. At midday, explore the grand cathedral and the Art Deco district along the Adour river. The afternoon belongs to the Arena, a symbol of local traditions, before finishing the day with a glass of regional wine.",
+        "fr": "Dax, cœur de la Gascogne, vous accueille avec ses sources thermales fumantes et son histoire romaine. Votre promenade commence à la Fontaine Chaude, dont l’eau coule depuis l’Antiquité. À midi, explorez la grande cathédrale et le quartier Art déco le long de l’Adour. L’après-midi appartient à l’Arène, symbole des traditions locales, avant de terminer la journée par un verre de vin régional."
       },
       "gastro_picks": {
         "de": [
@@ -306,6 +321,12 @@
           "Visit the Fontaine Chaude early to avoid the tourist crowds.",
           "Don't miss the 'Ferias' in August if you enjoy folk festivals.",
           "Do not drink the thermal water; it is for viewing (and spa treatments) only."
+        ],
+        "fr": [
+          "Dax se visite mieux à pied car la plupart des sites sont proches les uns des autres.",
+          "Visitez la Fontaine Chaude tôt pour éviter la foule touristique.",
+          "Ne manquez pas les 'Ferias' en août si vous aimez les fêtes populaires.",
+          "Ne buvez pas l’eau thermale ; elle est destinée à la vue (et aux soins thermaux) uniquement."
         ]
       }
     },
@@ -322,7 +343,8 @@
             "de": "Heißer Brunnen",
             "hu": "Forró kút",
             "ro": "Fântâna Caldă",
-            "en": "Hot Fountain"
+            "en": "Hot Fountain",
+            "fr": "Fontaine Chaude"
           },
           "coords": [
             43.7106,
@@ -337,7 +359,8 @@
             "de": "Startpunkt im Herzen der Stadt.",
             "hu": "Kiindulópont a város szívében.",
             "ro": "Punct de plecare în inima orașului.",
-            "en": "Starting point in the heart of the city."
+            "en": "Starting point in the heart of the city.",
+            "fr": "Point de départ au cœur de la ville."
           }
         },
         {
@@ -345,7 +368,8 @@
             "de": "Kathedrale Sainte-Marie",
             "hu": "Sainte-Marie katedrális",
             "ro": "Catedrala Sainte-Marie",
-            "en": "Sainte-Marie Cathedral"
+            "en": "Sainte-Marie Cathedral",
+            "fr": "Cathédrale Sainte-Marie"
           },
           "coords": [
             43.7092,
@@ -360,7 +384,8 @@
             "de": "Kurzer Stopp für Architektur-Liebhaber.",
             "hu": "Rövid megálló az építészet kedvelőinek.",
             "ro": "O scurtă oprire pentru iubitorii de arhitectură.",
-            "en": "Quick stop for architecture lovers."
+            "en": "Quick stop for architecture lovers.",
+            "fr": "Arrêt rapide pour les amateurs d’architecture."
           }
         },
         {
@@ -368,7 +393,8 @@
             "de": "Parc du Sarrat",
             "hu": "Sarrat park",
             "ro": "Parcul Sarrat",
-            "en": "Sarrat Park"
+            "en": "Sarrat Park",
+            "fr": "Parc Sarrat"
           },
           "coords": [
             43.7042,
@@ -383,7 +409,8 @@
             "de": "Ein botanischer Garten mit seltenen Baumarten.",
             "hu": "Botanikus kert ritka fafajokkal.",
             "ro": "O grădină botanică cu specii rare de copaci.",
-            "en": "A botanical garden with rare tree species."
+            "en": "A botanical garden with rare tree species.",
+            "fr": "Un jardin botanique avec des espèces d’arbres rares."
           }
         },
         {
@@ -391,7 +418,8 @@
             "de": "Arena von Dax",
             "hu": "Dax-i Aréna",
             "ro": "Arena din Dax",
-            "en": "Dax Arena"
+            "en": "Dax Arena",
+            "fr": "Arène de Dax"
           },
           "coords": [
             43.7152,
@@ -406,7 +434,8 @@
             "de": "Parken Sie Ihr Fahrrad vor dem Haupteingang.",
             "hu": "Parkolja le a kerékpárját a főbejárat előtt.",
             "ro": "Parcați bicicleta în fața intrării principale.",
-            "en": "Park your bike in front of the main entrance."
+            "en": "Park your bike in front of the main entrance.",
+            "fr": "Garez votre vélo devant l’entrée principale."
           }
         },
         {
@@ -414,7 +443,8 @@
             "de": "Lunch am Fluss Adour",
             "hu": "Ebéd az Adour folyónál",
             "ro": "Prânz pe râul Adour",
-            "en": "Lunch by the Adour River"
+            "en": "Lunch by the Adour River",
+            "fr": "Déjeuner au bord de l'Adour"
           },
           "coords": [
             43.7135,
@@ -429,7 +459,8 @@
             "de": "Genießen Sie den Blick auf das Wasser.",
             "hu": "Élvezze a kilátást a vízre.",
             "ro": "Bucurați-vă de priveliștea spre apă.",
-            "en": "Enjoy the view of the water."
+            "en": "Enjoy the view of the water.",
+            "fr": "Profitez de la vue sur l’eau."
           }
         },
         {
@@ -437,7 +468,8 @@
             "de": "ALAT-Museum (Luftfahrt)",
             "hu": "ALAT Repülési Múzeum",
             "ro": "Muzeul ALAT (Aviație)",
-            "en": "ALAT Museum (Aviation)"
+            "en": "ALAT Museum (Aviation)",
+            "fr": "Musée ALAT (Aviation)"
           },
           "coords": [
             43.6885,
@@ -452,7 +484,8 @@
             "de": "Eine beeindruckende Sammlung von Hubschraubern.",
             "hu": "Lenyűgöző helikoptergyűjtemény.",
             "ro": "O colecție impresionantă de elicoptere.",
-            "en": "An impressive collection of helicopters."
+            "en": "An impressive collection of helicopters.",
+            "fr": "Une impressionnante collection d'hélicoptères."
           }
         },
         {
@@ -460,7 +493,8 @@
             "de": "Splendid Hotel (Art Déco)",
             "hu": "Splendid Hotel (Art Déco)",
             "ro": "Hotelul Splendid (Art Deco)",
-            "en": "Splendid Hotel (Art Deco)"
+            "en": "Splendid Hotel (Art Deco)",
+            "fr": "Hôtel Splendid (Art déco)"
           },
           "coords": [
             43.7125,
@@ -475,7 +509,8 @@
             "de": "Kühler Drink in eleganter Atmosphäre nach der Tour.",
             "hu": "Hűvös ital elegáns környezetben a túra után.",
             "ro": "O băutură rece într-o atmosferă elegantă după tur.",
-            "en": "Cool drink in an elegant atmosphere after the tour."
+            "en": "Cool drink in an elegant atmosphere after the tour.",
+            "fr": "Boisson fraîche dans une atmosphère élégante après la visite."
           }
         }
       ],
@@ -483,7 +518,8 @@
         "de": "Erkunden Sie Dax und seine Umgebung flexibel mit dem Fahrrad. Von den warmen Quellen im Zentrum radeln Sie durch den botanischen Sarrat-Park bis zum Hubschraubermuseum am Stadtrand. Die flachen Wege entlang der Adour bieten entspannte Fahrbedingungen und führen Sie zu den wichtigsten architektonischen Schätzen der Stadt.",
         "hu": "Fedezze fel Daxot és környékét rugalmasan, kerékpárral. A központi meleg forrásoktól a botanikus Sarrat parkon át egészen a város szélén található helikopter-múzeumig tekerhet. Az Adour menti sík utak kényelmes biciklizést biztosítanak, és elvezetik a város legfontosabb építészeti kincseihez.",
         "ro": "Explorați Dax și împrejurimile sale în mod flexibil cu bicicleta. De la izvoarele calde din centru, pedalați prin parcul botanic Sarrat până la muzeul de elicoptere de la marginea orașului. Traseele plate de-a lungul râului Adour oferă condiții de relaxare și vă conduc către cele mai importante comori arhitecturale ale orașului.",
-        "en": "Explore Dax and its surroundings flexibly by bike. From the warm springs in the center, cycle through the botanical Sarrat Park all the way to the helicopter museum on the outskirts. The flat paths along the Adour provide relaxed riding conditions and lead you to the city's key architectural treasures."
+        "en": "Explore Dax and its surroundings flexibly by bike. From the warm springs in the center, cycle through the botanical Sarrat Park all the way to the helicopter museum on the outskirts. The flat paths along the Adour provide relaxed riding conditions and lead you to the city's key architectural treasures.",
+        "fr": "Explorez Dax et ses environs avec souplesse à vélo. Depuis les sources chaudes du centre, longez le parc botanique Sarrat jusqu’au musée de l’hélicoptère en périphérie. Les pistes plates le long de l’Adour offrent des conditions de vélo détendues et mènent aux principaux trésors architecturaux de la ville."
       },
       "gastro_picks": {
         "de": [
@@ -591,6 +627,12 @@
           "Use the bike paths along the Adour for a traffic-free ride.",
           "Watch out for pedestrians in the narrow old town streets.",
           "Always lock your bike securely when visiting attractions."
+        ],
+        "fr": [
+          "La ville est très plate, rendant le cyclisme extrêmement agréable.",
+          "Utilisez les pistes cyclables le long de l’Adour pour une balade à l’écart de la circulation.",
+          "Faites attention aux piétons dans les ruelles étroites du vieux centre.",
+          "Verrouillez toujours votre vélo solidement lors de la visite des sites."
         ]
       }
     },
@@ -607,7 +649,8 @@
             "de": "Cluster Zentrum: Fontaine Chaude",
             "hu": "Központi klaszter: Fontaine Chaude",
             "ro": "Cluster Centru: Fontaine Chaude",
-            "en": "Center Cluster: Fontaine Chaude"
+            "en": "Center Cluster: Fontaine Chaude",
+            "fr": "Pôle central : Fontaine Chaude"
           },
           "coords": [
             43.7106,
@@ -622,7 +665,8 @@
             "de": "Parken Sie im Parkhaus 'Place de la Fontaine Chaude'.",
             "hu": "Parkoljon a 'Place de la Fontaine Chaude' parkolóházban.",
             "ro": "Parcați în parcarea 'Place de la Fontaine Chaude'.",
-            "en": "Park at the 'Place de la Fontaine Chaude' parking garage."
+            "en": "Park at the 'Place de la Fontaine Chaude' parking garage.",
+            "fr": "Garez-vous au parking 'Place de la Fontaine Chaude'."
           }
         },
         {
@@ -630,7 +674,8 @@
             "de": "Kathedrale Sainte-Marie",
             "hu": "Sainte-Marie katedrális",
             "ro": "Catedrala Sainte-Marie",
-            "en": "Sainte-Marie Cathedral"
+            "en": "Sainte-Marie Cathedral",
+            "fr": "Cathédrale Sainte-Marie"
           },
           "coords": [
             43.7092,
@@ -645,7 +690,8 @@
             "de": "Zu Fuß vom Brunnen erreichbar.",
             "hu": "Gyalogosan elérhető a kúttól.",
             "ro": "Accesibil pe jos de la fântână.",
-            "en": "Accessible on foot from the fountain."
+            "en": "Accessible on foot from the fountain.",
+            "fr": "Accessible à pied depuis la fontaine."
           }
         },
         {
@@ -653,7 +699,8 @@
             "de": "Gallo-römische Stadtmauern",
             "hu": "Gallo-római városfalak",
             "ro": "Zidurile galo-romane",
-            "en": "Gallo-Roman City Walls"
+            "en": "Gallo-Roman City Walls",
+            "fr": "Remparts gallo-romains"
           },
           "coords": [
             43.7108,
@@ -668,7 +715,8 @@
             "de": "Letzter Stopp im Zentrum-Cluster.",
             "hu": "Utolsó megálló a központi klaszterben.",
             "ro": "Ultima oprire în clusterul central.",
-            "en": "Last stop in the center cluster."
+            "en": "Last stop in the center cluster.",
+            "fr": "Dernier arrêt du groupe central."
           }
         },
         {
@@ -676,7 +724,8 @@
             "de": "Cluster Süd: ALAT-Museum",
             "hu": "Déli klaszter: ALAT Múzeum",
             "ro": "Cluster Sud: Muzeul ALAT",
-            "en": "South Cluster: ALAT Museum"
+            "en": "South Cluster: ALAT Museum",
+            "fr": "Quartier sud : Musée ALAT"
           },
           "coords": [
             43.6885,
@@ -691,7 +740,8 @@
             "de": "Großer kostenloser Parkplatz vor dem Museum.",
             "hu": "Nagy, ingyenes parkoló a múzeum előtt.",
             "ro": "Parcare mare gratuită în fața muzeului.",
-            "en": "Large free parking lot in front of the museum."
+            "en": "Large free parking lot in front of the museum.",
+            "fr": "Grand parking gratuit devant le musée."
           }
         },
         {
@@ -699,7 +749,8 @@
             "de": "Mittagessen (Gastro)",
             "hu": "Ebéd (Gasztro)",
             "ro": "Prânz (Gastro)",
-            "en": "Lunch (Gastro)"
+            "en": "Lunch (Gastro)",
+            "fr": "Déjeuner (Gastro)"
           },
           "coords": [
             43.712,
@@ -714,7 +765,8 @@
             "de": "Zurück am Fluss, Parkplatz am Adour-Ufer.",
             "hu": "Vissza a folyóhoz, parkolás az Adour-parton.",
             "ro": "Înapoi la râu, parcare pe malul Adourului.",
-            "en": "Back by the river, parking on the Adour banks."
+            "en": "Back by the river, parking on the Adour banks.",
+            "fr": "De retour près de la rivière, parking sur les berges de l'Adour."
           }
         },
         {
@@ -722,7 +774,8 @@
             "de": "Splendid Hotel",
             "hu": "Splendid Hotel",
             "ro": "Hotelul Splendid",
-            "en": "Splendid Hotel"
+            "en": "Splendid Hotel",
+            "fr": "Hôtel Splendid"
           },
           "coords": [
             43.7125,
@@ -737,7 +790,8 @@
             "de": "Zu Fuß vom Restaurant erreichbar.",
             "hu": "Gyalogosan elérhető az étteremtől.",
             "ro": "Accesibil pe jos de la restaurant.",
-            "en": "Accessible on foot from the restaurant."
+            "en": "Accessible on foot from the restaurant.",
+            "fr": "Accessible à pied depuis le restaurant."
           }
         },
         {
@@ -745,7 +799,8 @@
             "de": "Arena von Dax",
             "hu": "Dax-i Aréna",
             "ro": "Arena din Dax",
-            "en": "Dax Arena"
+            "en": "Dax Arena",
+            "fr": "Arènes de Dax"
           },
           "coords": [
             43.7152,
@@ -760,7 +815,8 @@
             "de": "Kurze Fahrt zum nördlichen Cluster.",
             "hu": "Rövid út az északi klaszterhez.",
             "ro": "O scurtă călătorie spre clusterul de nord.",
-            "en": "Short drive to the northern cluster."
+            "en": "Short drive to the northern cluster.",
+            "fr": "Court trajet en voiture vers le groupe nord."
           }
         }
       ],
@@ -768,7 +824,8 @@
         "de": "Mit dem Auto erschließen Sie Dax in bequemen Etappen. Beginnen Sie im historischen Zentrum, besuchen Sie dann das etwas außerhalb gelegene, faszinierende Hubschraubermuseum (ALAT) und kehren Sie für ein Mittagessen am Fluss zurück. Diese Tour kombiniert städtische Highlights mit technischen Kuriositäten am Stadtrand.",
         "hu": "Autóval kényelmes szakaszokban fedezheti fel Daxot. Kezdjen a történelmi központban, majd látogasson el a városon kívül található, lenyűgöző helikopter-múzeumba (ALAT), végül térjen vissza a folyóhoz egy ebédre. Ez a túra ötvözi a városi nevezetességeket a külvárosi technikai különlegességekkel.",
         "ro": "Cu mașina, descoperiți Dax în etape confortabile. Începeți în centrul istoric, apoi vizitați fascinantul muzeu de elicoptere (ALAT) situat puțin în afara orașului și reveniți la râu pentru prânz. Acest tur combină atracțiile urbane cu curiozitățile tehnice de la marginea orașului.",
-        "en": "By car, discover Dax in comfortable stages. Start in the historical center, then visit the fascinating helicopter museum (ALAT) located just outside the city, and return to the river for lunch. This tour combines urban highlights with technical curiosities on the outskirts."
+        "en": "By car, discover Dax in comfortable stages. Start in the historical center, then visit the fascinating helicopter museum (ALAT) located just outside the city, and return to the river for lunch. This tour combines urban highlights with technical curiosities on the outskirts.",
+        "fr": "En voiture, découvrez Dax en étapes confortables. Commencez par le centre historique, puis visitez le fascinant musée de l’hélicoptère (ALAT) situé juste à l’extérieur de la ville, et revenez au bord de la rivière pour le déjeuner. Cette visite combine points forts urbains et curiosités techniques en périphérie."
       },
       "gastro_picks": {
         "de": [
@@ -876,6 +933,12 @@
           "The streets in the old town are partially very narrow.",
           "A detour to Lac de Christus in neighboring Saint-Paul-lès-Dax is worthwhile.",
           "Pay attention to the one-way street regulations in the center."
+        ],
+        "fr": [
+          "Les places de parking au centre peuvent être rares ; utilisez les parkings P+R.",
+          "Les rues de la vieille ville sont parfois très étroites.",
+          "Un détour par le Lac de Christus à la commune voisine de Saint-Paul-lès-Dax vaut le coup.",
+          "Faites attention aux sens uniques dans le centre."
         ]
       }
     },
@@ -892,7 +955,8 @@
             "de": "Fontaine Chaude",
             "hu": "Fontaine Chaude",
             "ro": "Fontaine Chaude",
-            "en": "Fontaine Chaude"
+            "en": "Fontaine Chaude",
+            "fr": "Fontaine Chaude"
           },
           "coords": [
             43.7106,
@@ -907,7 +971,8 @@
             "de": "Zentraler Knotenpunkt der Stadtbusse.",
             "hu": "A városi buszok központi csomópontja.",
             "ro": "Nodul central al autobuzelor urbane.",
-            "en": "Central hub for city buses."
+            "en": "Central hub for city buses.",
+            "fr": "Nœud central des lignes de bus urbains."
           }
         },
         {
@@ -915,7 +980,8 @@
             "de": "Kathedrale Sainte-Marie",
             "hu": "Sainte-Marie katedrális",
             "ro": "Catedrala Sainte-Marie",
-            "en": "Sainte-Marie Cathedral"
+            "en": "Sainte-Marie Cathedral",
+            "fr": "Cathédrale Sainte-Marie"
           },
           "coords": [
             43.7092,
@@ -930,7 +996,8 @@
             "de": "Zu Fuß vom Busstopp 'Fontaine Chaude'.",
             "hu": "Gyalogosan a 'Fontaine Chaude' buszmegállótól.",
             "ro": "Pe jos de la stația de autobuz 'Fontaine Chaude'.",
-            "en": "On foot from the 'Fontaine Chaude' bus stop."
+            "en": "On foot from the 'Fontaine Chaude' bus stop.",
+            "fr": "À pied depuis l'arrêt de bus « Fontaine Chaude »."
           }
         },
         {
@@ -938,7 +1005,8 @@
             "de": "ALAT-Museum (Bus Linie 4)",
             "hu": "ALAT Múzeum (4-es busz)",
             "ro": "Muzeul ALAT (Autobuzul 4)",
-            "en": "ALAT Museum (Bus Line 4)"
+            "en": "ALAT Museum (Bus Line 4)",
+            "fr": "Musée ALAT (Ligne de bus 4)"
           },
           "coords": [
             43.6885,
@@ -953,7 +1021,8 @@
             "de": "Nutzen Sie das 'Couralin' Bussystem.",
             "hu": "Használja a 'Couralin' buszhálózatot.",
             "ro": "Folosiți sistemul de autobuze 'Couralin'.",
-            "en": "Use the 'Couralin' bus system."
+            "en": "Use the 'Couralin' bus system.",
+            "fr": "Utilisez le réseau de bus Couralin."
           }
         },
         {
@@ -961,7 +1030,8 @@
             "de": "Splendid Hotel / Adour Ufer",
             "hu": "Splendid Hotel / Adour part",
             "ro": "Hotel Splendid / Malul Adour",
-            "en": "Splendid Hotel / Adour Bank"
+            "en": "Splendid Hotel / Adour Bank",
+            "fr": "Hôtel Splendid / Berges de l'Adour"
           },
           "coords": [
             43.7125,
@@ -976,7 +1046,8 @@
             "de": "Bus zurück ins Zentrum nehmen.",
             "hu": "Busszal vissza a központba.",
             "ro": "Luați autobuzul înapoi spre centru.",
-            "en": "Take the bus back to the center."
+            "en": "Take the bus back to the center.",
+            "fr": "Reprenez le bus pour retourner au centre."
           }
         },
         {
@@ -984,7 +1055,8 @@
             "de": "Musée de Borda",
             "hu": "Borda Múzeum",
             "ro": "Muzeul de Borda",
-            "en": "Musée de Borda"
+            "en": "Musée de Borda",
+            "fr": "Musée de Borda"
           },
           "coords": [
             43.7112,
@@ -999,7 +1071,8 @@
             "de": "Ein kurzer Spaziergang vom Splendid.",
             "hu": "Rövid séta a Splendidtől.",
             "ro": "O scurtă plimbare de la Splendid.",
-            "en": "A short walk from the Splendid."
+            "en": "A short walk from the Splendid.",
+            "fr": "À une courte distance à pied du Splendid."
           }
         },
         {
@@ -1007,7 +1080,8 @@
             "de": "Arena von Dax",
             "hu": "Dax-i Aréna",
             "ro": "Arena din Dax",
-            "en": "Dax Arena"
+            "en": "Dax Arena",
+            "fr": "Arènes de Dax"
           },
           "coords": [
             43.7152,
@@ -1022,7 +1096,8 @@
             "de": "Ganz in der Nähe der Haltestelle 'Arènes'.",
             "hu": "Nagyon közel az 'Arènes' megállóhoz.",
             "ro": "Foarte aproape de stația 'Arènes'.",
-            "en": "Very close to the 'Arènes' stop."
+            "en": "Very close to the 'Arènes' stop.",
+            "fr": "Très proche de l'arrêt « Arènes »."
           }
         }
       ],
@@ -1030,7 +1105,8 @@
         "de": "Das Couralin-Bussystem macht Dax auch ohne Auto leicht zugänglich. Entdecken Sie die römische Altstadt zu Fuß und nutzen Sie den Bus für die Fahrt zum faszinierenden Hubschraubermuseum. Der Nachmittag führt Sie zurück zu den architektonischen Perlen am Fluss und zur berühmten Arena.",
         "hu": "A Couralin buszhálózatnak köszönhetően Dax autó nélkül is könnyen bejárható. Fedezze fel gyalogosan a római óvárost, majd busszal utazzon el a lenyűgöző helikopter-múzeumba. A délután folyamán térjen vissza a folyóparti építészeti gyöngyszemekhez és a híres arénához.",
         "ro": "Sistemul de autobuze Couralin face ca Dax să fie ușor accesibil chiar și fără mașină. Descoperiți centrul vechi roman pe jos și folosiți autobuzul pentru călătoria către fascinantul muzeu de elicoptere. După-amiaza vă conduce înapoi la perlele arhitecturale de pe râu și la faimoasa arenă.",
-        "en": "The Couralin bus system makes Dax easily accessible even without a car. Discover the Roman old town on foot and use the bus for the trip to the fascinating helicopter museum. The afternoon leads you back to the architectural gems by the river and the famous arena."
+        "en": "The Couralin bus system makes Dax easily accessible even without a car. Discover the Roman old town on foot and use the bus for the trip to the fascinating helicopter museum. The afternoon leads you back to the architectural gems by the river and the famous arena.",
+        "fr": "Le réseau de bus Couralin rend Dax facilement accessible sans voiture. Découvrez la vieille ville romaine à pied et utilisez le bus pour le trajet vers le fascinant musée de l’hélicoptère. L’après-midi vous ramène aux joyaux architecturaux en bord de rivière et à la célèbre arène."
       },
       "gastro_picks": {
         "de": [
@@ -1138,6 +1214,12 @@
           "Buses run regularly during the week, less frequently on Sundays.",
           "Use the 'Couralin' app for live departure times.",
           "From the train station (Gare de Dax), there are direct connections to the center."
+        ],
+        "fr": [
+          "Achetez vos tickets directement auprès du chauffeur ou via l’application.",
+          "Les bus circulent régulièrement en semaine, moins souvent le dimanche.",
+          "Utilisez l’application Couralin pour les horaires de départ en direct.",
+          "Depuis la gare (Gare de Dax), des correspondances directes desservent le centre."
         ]
       }
     }

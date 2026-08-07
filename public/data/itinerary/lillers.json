@@ -21,7 +21,8 @@
             "de": "Kapelle der Barmherzigkeit",
             "hu": "Irgalmasság Kápolnája",
             "ro": "Capela Milostivirii",
-            "en": "Chapel of Mercy"
+            "en": "Chapel of Mercy",
+            "fr": "Chapelle de la Miséricorde"
           },
           "coords": [
             2.480645,
@@ -36,7 +37,8 @@
             "de": "Bewundern Sie früh am Morgen die intimen Buntglasfenster dieser kleinen Kapelle, bevor Sie das nahe Stadtzentrum erkunden.",
             "hu": "Csodálja meg a kis kápolna meghitt ólomüveg részleteit még kora reggel, mielőtt felfedezné a közeli városközpontot.",
             "ro": "Admirați detaliile intime ale vitraliilor acestei mici capele dis-de-dimineață, înainte de a explora centrul orașului.",
-            "en": "Admire the intimate stained glass details of this small chapel early in the morning before exploring the town center."
+            "en": "Admire the intimate stained glass details of this small chapel early in the morning before exploring the town center.",
+            "fr": "Admirez les détails intimes des vitraux de cette petite chapelle tôt le matin avant d'explorer le centre-ville."
           }
         },
         {
@@ -44,7 +46,8 @@
             "de": "St. Omer Kirche",
             "hu": "Saint-Omer templom",
             "ro": "Biserica Saint-Omer",
-            "en": "Saint-Omer Church"
+            "en": "Saint-Omer Church",
+            "fr": "Église Saint‑Omer"
           },
           "coords": [
             2.482465,
@@ -59,7 +62,8 @@
             "de": "Beachten Sie die beeindruckende romanische Architektur dieser Stiftskirche und nehmen Sie sich Zeit für die prächtige Orgel.",
             "hu": "Figyelje meg e történelmi társaskápolna lenyűgöző román stílusú építészetét, és szakítson időt a pompás orgona megtekintésére.",
             "ro": "Observați arhitectura romanică impresionantă a acestei biserici colegiale istorice, alocând timp pentru a vedea orga magnifică.",
-            "en": "Notice the impressive Romanesque architecture of this historic collegiate church, taking time to view the magnificent organ."
+            "en": "Notice the impressive Romanesque architecture of this historic collegiate church, taking time to view the magnificent organ.",
+            "fr": "Remarquez l'impressionnante architecture romane de cette ancienne collégiale, en prenant le temps d'admirer le magnifique orgue."
           }
         },
         {
@@ -67,7 +71,8 @@
             "de": "Schuhmuseum",
             "hu": "Cipőmúzeum",
             "ro": "Muzeul Pantofului",
-            "en": "Shoe Museum"
+            "en": "Shoe Museum",
+            "fr": "Musée de la Chaussure"
           },
           "coords": [
             2.478606,
@@ -82,7 +87,8 @@
             "de": "Entdecken Sie Lillers industrielles Erbe anhand faszinierender Ausstellungen zur Schuhherstellung und fragen Sie nach lokalen Schuhmachern.",
             "hu": "Fedezze fel Lillers ipari örökségét a cipőgyártás lenyűgöző kiállításain keresztül, és kérdezze a vezetőket a helyi cipészekről.",
             "ro": "Descoperiți moștenirea industrială din Lillers prin expoziții fascinante despre producția de încălțăminte și istoria cizmarilor.",
-            "en": "Discover Lillers' industrial heritage through fascinating exhibits of footwear manufacturing, and ask guides about local shoemakers."
+            "en": "Discover Lillers' industrial heritage through fascinating exhibits of footwear manufacturing, and ask guides about local shoemakers.",
+            "fr": "Découvrez le patrimoine industriel de Lillers à travers des expositions fascinantes sur la fabrication de chaussures, et demandez aux guides des informations sur les cordonniers locaux."
           }
         },
         {
@@ -90,7 +96,8 @@
             "de": "Le Palace",
             "hu": "Le Palace",
             "ro": "Le Palace",
-            "en": "Le Palace"
+            "en": "Le Palace",
+            "fr": "Le Palace"
           },
           "coords": [
             2.475852,
@@ -105,7 +112,8 @@
             "de": "Fotografieren Sie die klassische Fassade dieses Kulturortes und prüfen Sie vorab den Spielplan auf mittägliche Gemeindeveranstaltungen.",
             "hu": "Készítsen fotókat e kulturális helyszín klasszikus homlokzatáról, és előzetesen ellenőrizze a programot a déli közösségi eseményekhez.",
             "ro": "Fotografiați fațada clasică a acestui lăcaș cultural, verificând în prealabil programul pentru evenimente comunitare la prânz.",
-            "en": "Snap photos of the classic facade of this cultural venue, checking the schedule in advance for any midday community events."
+            "en": "Snap photos of the classic facade of this cultural venue, checking the schedule in advance for any midday community events.",
+            "fr": "Photographiez la façade classique de ce lieu culturel, en vérifiant à l'avance la programmation pour d'éventuels événements communautaires à midi."
           }
         },
         {
@@ -113,7 +121,8 @@
             "de": "Parc du Brûle",
             "hu": "Parc du Brûle",
             "ro": "Parc du Brûle",
-            "en": "Parc du Brûle"
+            "en": "Parc du Brûle",
+            "fr": "Parc du Brûle"
           },
           "coords": [
             2.489739,
@@ -128,7 +137,8 @@
             "de": "Entspannen Sie sich auf den friedlichen Wanderwegen dieser grünen Oase, die der perfekte Ort für ein ruhiges Nachmittagspicknick ist.",
             "hu": "Pihenjen meg e zöld menedék békés sétaútjain, amely tökéletes helyszínt biztosít egy nyugodt, kora délutáni piknikhez a szabadban.",
             "ro": "Relaxați-vă de-a lungul potecilor pașnice din acest refugiu verde, locul perfect pentru un picnic liniștit în timpul după-amiezii.",
-            "en": "Relax along the peaceful walking trails of this green haven, making it the perfect spot for a tranquil afternoon picnic break."
+            "en": "Relax along the peaceful walking trails of this green haven, making it the perfect spot for a tranquil afternoon picnic break.",
+            "fr": "Détendez‑vous le long des sentiers paisibles de ce havre de verdure, en faisant de cet endroit le lieu parfait pour un pique‑nique tranquille l'après‑midi."
           }
         }
       ],
@@ -136,7 +146,8 @@
         "de": "Morning: Wir beginnen unsere Erkundung im Herzen von Lillers, einer an Geschichte und handwerklichem Erbe reichen Stadt. Zum Tagesauftakt besuchen wir ruhige Heiligtümer und bürgerliche Wahrzeichen und genießen das sanfte Erwachen der lokalen Straßen.\nMidday: Gegen Mittag rückt Lillers berühmte industrielle Vergangenheit in den Mittelpunkt. Höhepunkt ist das faszinierende Schuhmuseum, in dem wir etwas über das Vermächtnis der Schuhmacher erfahren, bevor wir weitere kulturelle Zentren der Stadt passieren.\nAfternoon: Der Nachmittag ist der Natur und der Entspannung gewidmet. Wir begeben uns in den ruhigen Parc du Brûle und genießen einen friedlichen Rückzugsort im Grünen. Dieser ruhige Abschnitt ermöglicht es uns, in der lokalen Landschaft völlig zu entspannen.\nEvening: Wir beenden unseren Tagesausflug im Grünen. Die späten Sonnenstrahlen tauchen die Bäume in ein warmes Licht und bieten einen friedlichen Abschluss unseres Abenteuers in Lillers.",
         "hu": "Reggel: Felfedező utunkat Lillers szívében kezdjük, egy történelmi és kézműves hagyományokban gazdag városban. A nap kezdetén csendes szentélyeket és polgári nevezetességeket látogatunk meg, és élvezzük a helyi utcák lassú ébredését.\nDél: Dél körül Lillers híres ipari múltja kerül a középpontba. A csúcspont a lenyűgöző cipőmúzeum, ahol megismerjük a cipészek örökségét, mielőtt továbbhaladnánk a város további kulturális központjai felé.\nDélután: A délután a természetnek és a kikapcsolódásnak szentelt. Elindulunk a csendes Parc du Brûle parkba, és élvezzük a zöldellő környezet nyugodt menedékét. Ez a nyugodt szakasz lehetővé teszi számunkra, hogy teljesen ellazuljunk a helyi tájban.\nEste: A napot a zöldövezetben fejezzük be. A késő délutáni napsugarak meleg fénybe burkolják a fákat, és békés zárást nyújtanak Lillers-i kalandunkhoz.",
         "ro": "Dimineața: Ne începem explorarea în inima orașului Lillers, un oraș bogat în istorie și tradiții meșteșugărești. Pentru a începe ziua, vizităm lăcașuri de cult liniștite și repere arhitecturale burgheze și ne bucurăm de trezirea treptată a străzilor locale.\nMiezul zilei: Spre prânz, faimosul trecut industrial al orașului Lillers trece în prim-plan. Punctul culminant este fascinantul muzeu al încălțămintei, unde aflăm mai multe despre moștenirea cizmariilor, înainte de a trece pe lângă alte centre culturale ale orașului.\nDupă-amiaza: După-amiaza este dedicată naturii și relaxării. Ne îndreptăm spre liniștitul Parc du Brûle și ne bucurăm de un refugiu pașnic în mijlocul naturii. Această etapă liniștită ne permite să ne relaxăm complet în peisajul local.\nSeara: Ne încheiem excursia de o zi în natură. Razele târzii ale soarelui scufundă copacii într-o lumină caldă și oferă un final liniștit aventurii noastre în Lillers.",
-        "en": "Morning: We begin our exploration in the heart of Lillers, a town rich in history and artisanal heritage. To start the day, we visit tranquil sanctuaries and civic landmarks and enjoy watching the local streets gently come to life.\nMidday: Around noon, Lillers’ famous industrial past takes center stage. The highlight is the fascinating Shoe Museum, where we learn about the legacy of the shoemakers before passing by other cultural landmarks in the town.\nAfternoon: The afternoon is dedicated to nature and relaxation. We head to the tranquil Parc du Brûle and enjoy a peaceful retreat surrounded by greenery. This serene stretch allows us to fully unwind amidst the local landscape.\nEvening: We conclude our day trip amidst nature. The late afternoon sun bathes the trees in a warm glow, offering a peaceful end to our adventure in Lillers."
+        "en": "Morning: We begin our exploration in the heart of Lillers, a town rich in history and artisanal heritage. To start the day, we visit tranquil sanctuaries and civic landmarks and enjoy watching the local streets gently come to life.\nMidday: Around noon, Lillers’ famous industrial past takes center stage. The highlight is the fascinating Shoe Museum, where we learn about the legacy of the shoemakers before passing by other cultural landmarks in the town.\nAfternoon: The afternoon is dedicated to nature and relaxation. We head to the tranquil Parc du Brûle and enjoy a peaceful retreat surrounded by greenery. This serene stretch allows us to fully unwind amidst the local landscape.\nEvening: We conclude our day trip amidst nature. The late afternoon sun bathes the trees in a warm glow, offering a peaceful end to our adventure in Lillers.",
+        "fr": "Matin : Nous commençons notre exploration au cœur de Lillers, une ville riche en histoire et en savoir‑faire artisanal. Pour démarrer la journée, nous visitons des sanctuaires tranquilles et des monuments civiques et apprécions le réveil progressif des rues locales.\nMidi : Vers midi, le célèbre passé industriel de Lillers prend le devant de la scène. Le point d'orgue est le fascinant Musée de la Chaussure, où nous découvrons l'héritage des cordonniers avant de passer par d'autres repères culturels de la ville.\nAprès‑midi : L'après‑midi est dédié à la nature et à la détente. Nous nous dirigeons vers le paisible Parc du Brûle et profitons d'une retraite sereine entourée de verdure. Ce moment calme nous permet de nous détendre pleinement au cœur du paysage local.\nSoir : Nous concluons notre excursion d'une journée au milieu de la nature. Le soleil de fin d'après‑midi baigne les arbres d'une chaude lueur, offrant une fin paisible à notre aventure à Lillers."
       },
       "hu": "Morning: Felfedezésünket Lillers szívében kezdjük, amely gazdag történelmi és kézműves örökséggel rendelkezik. A nap kezdetén csendes vallási szentélyeket és polgári műemlékeket látogatunk meg, magunkba szívva a helyi utcák ébredését és szépségét.\nMidday: Ahogy közeledik a dél, Lillers híres ipari múltjára helyezzük a hangsúlyt. A fénypont a lenyűgöző cipőmúzeum, ahol megismerkedünk a város cipész hagyományaival. Kulturális központok mellett is elhaladunk, melyek a közösségi szellemet tükrözik.\nAfternoon: A délutánt a természetnek és a pihenésnek szenteljük. Átsétálunk a nyugodt Parc du Brûle-be, ahol élvezhetjük a békés, zöld menedéket. Ez a lassú tempójú szakasz csendes elmélkedést és a helyi táj gondtalan élvezetét teszi lehetővé.\nEvening: Egynapos kirándulásunkat a park fáinak árnyékában zárjuk. A lemenő nap meleg fényt vet a zöldellő lombozatra, békés befejezést kínálva e festői kisvárosi kalandunknak.",
       "ro": "Morning: Începem explorarea noastră în inima orașului Lillers, bogat în istorie și moștenire artizanală. Vizităm sanctuare religioase liniștite și repere civice, bucurându-ne de trezirea blândă a străzilor locale și de frumusețea arhitecturală a dimineții.\nMidday: Odată cu apropierea prânzului, ne concentrăm pe trecutul industrial din Lillers. Punctul culminant este muzeul pantofilor, unde descoperim moștenirea cizmarilor. Trecem, de asemenea, pe lângă centre culturale pline de o efervescență comunitară.\nAfternoon: După-amiaza este dedicată naturii și relaxării. Ne mutăm în liniștitul Parc du Brûle, bucurându-ne de un refugiu pașnic în mijlocul verdeții. Acest segment într-un ritm lent ne permite să ne relaxăm complet și să admirăm peisajul local.\nEvening: Încheiem excursia bucurându-ne de ultimele raze de soare în parc. Liniștea serii se așterne peste vegetația bogată, oferind o concluzie cu adevărat senină și memorabilă aventurii noastre în Lillers.",
@@ -147,7 +158,8 @@
             "de": "Ein nasser Morgen in Lillers beginnt in den historischen Kapellen, die friedlichen Schutz bieten. Der Mittag eignet sich perfekt zur Erkundung der trockenen Säle des Schuhmuseums. Genießen Sie am Nachmittag die Innenkultur im Le Palace. Selbst im Regen hat ein später Spaziergang durch den Parc du Brûle seinen Charme, obwohl wasserdichtes Schuhwerk für die Wege unerlässlich ist.",
             "hu": "Az esős reggel Lillers-ben a történelmi kápolnák menedékében indul, ahol megcsodálhatod a belső tereket. A délidő tökéletes a Cipőmúzeum száraz, lenyűgöző termeinek felfedezésére. Délután élvezd a benti kulturális programokat a Le Palace-ban. A nap végén a Parc du Brûle vizes ösvényei is varázslatosak, de a sár miatt mindenképpen vízálló lábbeli és jó esernyő szükséges.",
             "ro": "O dimineață ploioasă în Lillers începe sub bolțile capelelor istorice, oferind un refugiu liniștit. Prânzul este perfect pentru a explora sălile uscate ale Muzeului Pantofului. După-amiaza, bucurați-vă de atracțiile culturale interioare la Le Palace. Chiar și pe ploaie, o plimbare târzie prin Parc du Brûle are farmecul ei, deși încălțămintea impermeabilă este esențială pentru noroi.",
-            "en": "A wet morning in Lillers begins under the vaulted ceilings of historic chapels, offering a peaceful refuge. Midday is perfect for exploring the dry, fascinating halls of the Shoe Museum. By afternoon, enjoy indoor cultural sights at Le Palace. Even in the rain, a late stroll through Parc du Brûle has its charm, though waterproof footwear is essential for the muddy trails."
+            "en": "A wet morning in Lillers begins under the vaulted ceilings of historic chapels, offering a peaceful refuge. Midday is perfect for exploring the dry, fascinating halls of the Shoe Museum. By afternoon, enjoy indoor cultural sights at Le Palace. Even in the rain, a late stroll through Parc du Brûle has its charm, though waterproof footwear is essential for the muddy trails.",
+            "fr": "Une matinée pluvieuse à Lillers commence sous les voûtes des chapelles historiques, offrant un refuge paisible. Midi est parfait pour explorer les salles sèches et fascinantes du Musée de la Chaussure. L'après‑midi, profitez des attractions culturelles intérieures de Le Palace. Même sous la pluie, une promenade tardive dans le Parc du Brûle a son charme, bien que des chaussures imperméables soient essentielles pour les sentiers boueux."
           },
           "stops": [
             {
@@ -155,13 +167,15 @@
                 "de": "Kapelle der Barmherzigkeit",
                 "hu": "Irgalmasság Kápolnája",
                 "ro": "Capela Milostivirii",
-                "en": "Chapel of Mercy"
+                "en": "Chapel of Mercy",
+                "fr": "Chapelle de la Miséricorde"
               },
               "tip_5lang": {
                 "de": "Bewundern Sie das ruhige Innere dieser kleinen Kapelle; ihre dicken Wände bieten hervorragenden Schutz vor dem Morgenregen.",
                 "hu": "Csodáld meg a kis kápolna csendes belső terét; vastag falai kiváló menedéket nyújtanak a reggeli eső elől, miközben a történelmi részleteket figyeled.",
                 "ro": "Admirați interiorul liniștit al acestei mici capele; pereții săi groși oferă un adăpost excelent împotriva ploii de dimineață.",
-                "en": "Admire the tranquil interior of this small chapel; its thick walls provide excellent shelter from the morning rain while you appreciate the historic details."
+                "en": "Admire the tranquil interior of this small chapel; its thick walls provide excellent shelter from the morning rain while you appreciate the historic details.",
+                "fr": "Admirez l'intérieur tranquille de cette petite chapelle ; ses murs épais offrent un excellent abri contre la pluie matinale pendant que vous appréciez les détails historiques."
               }
             },
             {
@@ -169,13 +183,15 @@
                 "de": "St. Omer Kirche",
                 "hu": "Saint-Omer templom",
                 "ro": "Biserica Saint-Omer",
-                "en": "Saint-Omer Church"
+                "en": "Saint-Omer Church",
+                "fr": "Église Saint‑Omer"
               },
               "tip_5lang": {
                 "de": "Treten Sie aus dem Platzregen, um die beeindruckende romanische Architektur zu erkunden; das riesige Kirchenschiff ist perfekt, um trocken zu bleiben.",
                 "hu": "Lépj be a zápor elől, és fedezd fel a lenyűgöző román stílusú építészetet; a hatalmas főhajó tökéletes a szárazon maradáshoz és fotózáshoz.",
                 "ro": "Feriți-vă de ploaie pentru a explora arhitectura romanică impresionantă; naosul masiv este perfect pentru a rămâne uscat și a face poze.",
-                "en": "Step out of the downpour to explore the impressive Romanesque architecture; the massive nave is perfect for staying dry and taking atmospheric photos."
+                "en": "Step out of the downpour to explore the impressive Romanesque architecture; the massive nave is perfect for staying dry and taking atmospheric photos.",
+                "fr": "Abritez‑vous de l'averse pour explorer l'impressionnante architecture romane ; la grande nef est parfaite pour rester au sec et faire des photos d'ambiance."
               }
             },
             {
@@ -183,13 +199,15 @@
                 "de": "Schuhmuseum",
                 "hu": "Cipőmúzeum",
                 "ro": "Muzeul Pantofului",
-                "en": "Shoe Museum"
+                "en": "Shoe Museum",
+                "fr": "Musée de la Chaussure"
               },
               "tip_5lang": {
                 "de": "Verbringen Sie mehr Zeit in den warmen, trockenen Ausstellungen zur lokalen Schuhmachergeschichte; ein faszinierender Rückzugsort bei starken Schauern.",
                 "hu": "Tölts több időt a helyi cipőgyártást bemutató meleg, száraz kiállításokon; ez egy lenyűgöző és kényelmes benti menedék a heves záporok idején.",
                 "ro": "Petreceți mai mult timp în expozițiile calde și uscate despre istoria locală a încălțămintei; este o evadare interioară confortabilă în timpul averselor.",
-                "en": "Spend extra time in the warm, dry exhibitions detailing local shoemaking history; it is a fascinating and comfortable indoor escape during heavy showers."
+                "en": "Spend extra time in the warm, dry exhibitions detailing local shoemaking history; it is a fascinating and comfortable indoor escape during heavy showers.",
+                "fr": "Passez plus de temps dans les expositions chaudes et sèches qui racontent l'histoire locale de la cordonnerie ; c'est une échappée intérieure fascinante et confortable lors de fortes averses."
               }
             },
             {
@@ -197,13 +215,15 @@
                 "de": "Le Palace",
                 "hu": "Le Palace",
                 "ro": "Le Palace",
-                "en": "Le Palace"
+                "en": "Le Palace",
+                "fr": "Le Palace"
               },
               "tip_5lang": {
                 "de": "Nutzen Sie diesen kulturellen Ort, um drinnen zu bleiben und lokale Kunst zu genießen; halten Sie Ihren Regenschirm bereit, wenn Sie sich bewegen.",
                 "hu": "Használd ki ezt a kulturális helyszínt, maradj bent és élvezd a helyi művészetet; tartsd kéznél az esernyőt, amíg a központi épületek között mozogsz.",
                 "ro": "Profitați de acest loc cultural pentru a sta înăuntru și a aprecia artele locale; țineți umbrela la îndemână în timp ce vă deplasați prin centru.",
-                "en": "Take advantage of this cultural venue to stay indoors and appreciate local arts; keep your umbrella handy as you move between the central town buildings."
+                "en": "Take advantage of this cultural venue to stay indoors and appreciate local arts; keep your umbrella handy as you move between the central town buildings.",
+                "fr": "Profitez de ce lieu culturel pour rester à l'intérieur et apprécier les arts locaux ; gardez votre parapluie à portée de main pour les déplacements entre les bâtiments du centre‑ville."
               }
             },
             {
@@ -211,13 +231,15 @@
                 "de": "Parc du Brûle",
                 "hu": "Parc du Brûle",
                 "ro": "Parc du Brûle",
-                "en": "Parc du Brûle"
+                "en": "Parc du Brûle",
+                "fr": "Parc du Brûle"
               },
               "tip_5lang": {
                 "de": "Der Regen verstärkt das üppige Grün des Parks, aber die Wege können sehr schlammig werden; bleiben Sie auf gepflasterten Wegen und tragen Sie feste Stiefel.",
                 "hu": "Az eső kiemeli a park buja zöldjét, de az ösvények nagyon sarasak lehetnek; maradj a kövezett sétányokon, és viselj masszív, vízálló cipőt.",
                 "ro": "Ploaia pune în valoare verdeața parcului, dar potecile pot deveni foarte noroioase; rămâneți pe aleile pavate și purtați cizme impermeabile rezistente.",
-                "en": "The rain enhances the lush greenery of the park, but the paths can get very muddy; stick to the paved walkways and wear sturdy, waterproof boots."
+                "en": "The rain enhances the lush greenery of the park, but the paths can get very muddy; stick to the paved walkways and wear sturdy, waterproof boots.",
+                "fr": "La pluie intensifie la verdure du parc, mais les chemins peuvent devenir très boueux ; restez sur les allées pavées et portez des bottes solides et imperméables."
               }
             }
           ]
@@ -227,7 +249,8 @@
             "de": "Ein klarer Wintermorgen in Lillers bedeutet zügige Spaziergänge zwischen den ruhigen Kapellen. Mittags wärmen Sie sich im gut beheizten Schuhmuseum auf. Kulturelle Stopps am Nachmittag halten Sie gemütlich drinnen, wenn die Temperaturen sinken. Beenden Sie den Tag mit einem frostigen Spaziergang im Parc du Brûle vor dem frühen Sonnenuntergang gegen 17:00 Uhr; dicke Schichten sind wichtig.",
             "hu": "A csípős téli reggel Lillers-ben frissítő sétát kínál a csendes történelmi kápolnák között. Délben a jól fűtött Cipőmúzeumban melegedhetsz fel, miközben megismered a helyi ipart. A délutáni kulturális megállók melegen tartanak, ahogy a hőmérséklet csökken. Zárd a napot egy fagyos sétával a Parc du Brûle-ben a 17:00 órai korai sötétedés előtt; réteges öltözködés javasolt.",
             "ro": "O dimineață de iarnă în Lillers înseamnă plimbări vioaie între capelele istorice. Prânzul vă aduce în Muzeul Pantofului bine încălzit, perfect pentru a vă dezgheța. Opririle culturale de după-amiază vă țin la căldură pe măsură ce temperaturile scad. Încheiați cu o plimbare înghețată în Parc du Brûle înainte de apusul timpuriu din jurul orei 17:00; îmbrăcați-vă gros.",
-            "en": "A crisp winter morning in Lillers means brisk walks between the quiet, historic chapels. Midday brings you into the well-heated Shoe Museum, perfect for thawing out while learning local history. Afternoon cultural stops keep you cozy as temperatures drop. Conclude with a refreshing, frosty walk in Parc du Brûle before the early sunset around 17:00; make sure to wear thick layers."
+            "en": "A crisp winter morning in Lillers means brisk walks between the quiet, historic chapels. Midday brings you into the well-heated Shoe Museum, perfect for thawing out while learning local history. Afternoon cultural stops keep you cozy as temperatures drop. Conclude with a refreshing, frosty walk in Parc du Brûle before the early sunset around 17:00; make sure to wear thick layers.",
+            "fr": "Un matin d'hiver vif à Lillers signifie des promenades toniques entre les chapelles historiques et tranquilles. Midi vous amène au bien chauffé Musée de la Chaussure, idéal pour vous réchauffer tout en apprenant l'histoire locale. Les étapes culturelles de l'après‑midi vous gardent au chaud à mesure que la température baisse. Concluez par une marche revigorante et givrée au Parc du Brûle avant le coucher du soleil tôt vers 17:00 ; pensez à porter de grosses couches."
           },
           "stops": [
             {
@@ -235,13 +258,15 @@
                 "de": "Kapelle der Barmherzigkeit",
                 "hu": "Irgalmasság Kápolnája",
                 "ro": "Capela Milostivirii",
-                "en": "Chapel of Mercy"
+                "en": "Chapel of Mercy",
+                "fr": "Chapelle de la Miséricorde"
               },
               "tip_5lang": {
                 "de": "Das unbeheizte Innere kann im Winter recht kühl sein, aber die friedliche Atmosphäre ist es wert; packen Sie sich warm ein und bewundern Sie die Details.",
                 "hu": "A fűtetlen belső tér télen meglehetősen hűvös lehet, de a békés hangulat megéri; öltözz melegen, és csodáld meg a történelmi részleteket.",
                 "ro": "Interiorul neîncălzit poate fi destul de răcoros iarna, dar atmosfera liniștită merită; îmbrăcați-vă bine și admirați detaliile istorice.",
-                "en": "The unheated interior can be quite chilly in winter, but the peaceful atmosphere is worth it; bundle up and admire the historic details before moving on."
+                "en": "The unheated interior can be quite chilly in winter, but the peaceful atmosphere is worth it; bundle up and admire the historic details before moving on.",
+                "fr": "L'intérieur non chauffé peut être assez froid en hiver, mais l'atmosphère paisible en vaut la peine ; emmitouflez‑vous et admirez les détails historiques avant de repartir."
               }
             },
             {
@@ -249,13 +274,15 @@
                 "de": "St. Omer Kirche",
                 "hu": "Saint-Omer templom",
                 "ro": "Biserica Saint-Omer",
-                "en": "Saint-Omer Church"
+                "en": "Saint-Omer Church",
+                "fr": "Église Saint‑Omer"
               },
               "tip_5lang": {
                 "de": "Der kalte Stein dieser romanischen Kirche verstärkt die Winterkälte; bestaunen Sie das große Kirchenschiff, aber behalten Sie Ihren Wintermantel an.",
                 "hu": "Ennek a csodálatos román templomnak a hideg kövei felerősítik a téli hideget; csodáld meg a főhajót, de tartsd magadon a télikabátot és a kesztyűt.",
                 "ro": "Piatra rece a acestei biserici romanice amplifică frigul iernii; minunați-vă de naosul măreț, dar păstrați haina de iarnă și mănușile pe dumneavoastră.",
-                "en": "The cold stone of this magnificent Romanesque church amplifies the winter chill; marvel at the grand nave, but keep your winter coat and gloves on inside."
+                "en": "The cold stone of this magnificent Romanesque church amplifies the winter chill; marvel at the grand nave, but keep your winter coat and gloves on inside.",
+                "fr": "La pierre froide de cette magnifique église romane amplifie la fraîcheur hivernale ; admirez la grande nef, mais gardez votre manteau et vos gants à portée de main même à l'intérieur."
               }
             },
             {
@@ -263,13 +290,15 @@
                 "de": "Schuhmuseum",
                 "hu": "Cipőmúzeum",
                 "ro": "Muzeul Pantofului",
-                "en": "Shoe Museum"
+                "en": "Shoe Museum",
+                "fr": "Musée de la Chaussure"
               },
               "tip_5lang": {
                 "de": "Genießen Sie einen faszinierenden Einblick in die Schuhtradition der Region in diesem gut beheizten Museum; der perfekte Ort, um die Hände zu wärmen.",
                 "hu": "Élvezd a régió lábbeli-örökségének lenyűgöző bemutatását ebben a jól fűtött múzeumban; ez a tökéletes hely a kezeid felmelegítésére és egy kis pihenésre.",
                 "ro": "Bucurați-vă de o privire fascinantă asupra moștenirii încălțămintei în acest muzeu bine încălzit; este locul perfect pentru a vă încălzi mâinile.",
-                "en": "Enjoy a fascinating look into the region's footwear heritage inside this well-heated museum; it is the perfect spot to warm your hands and take a break."
+                "en": "Enjoy a fascinating look into the region's footwear heritage inside this well-heated museum; it is the perfect spot to warm your hands and take a break.",
+                "fr": "Profitez d'un regard fascinant sur le patrimoine de la chaussure de la région à l'intérieur de ce musée bien chauffé ; c'est l'endroit idéal pour réchauffer vos mains et faire une pause."
               }
             },
             {
@@ -277,13 +306,15 @@
                 "de": "Le Palace",
                 "hu": "Le Palace",
                 "ro": "Le Palace",
-                "en": "Le Palace"
+                "en": "Le Palace",
+                "fr": "Le Palace"
               },
               "tip_5lang": {
                 "de": "Dieses Kulturzentrum bietet einen gemütlichen Rückzugsort vor dem beißenden Winterwind; genießen Sie die lokalen Ausstellungen im Warmen.",
                 "hu": "Ez a kulturális központ hangulatos benti menedéket kínál a csípős téli szél elől; élvezd a helyi kiállításokat, mielőtt visszatérnél a hideg délutánba.",
                 "ro": "Acest centru cultural oferă un refugiu confortabil din calea vântului tăios de iarnă; bucurați-vă de expozițiile locale înainte de a ieși din nou în frig.",
-                "en": "This cultural center offers a cozy indoor retreat from the biting winter wind; enjoy the local displays before heading back out into the cold afternoon."
+                "en": "This cultural center offers a cozy indoor retreat from the biting winter wind; enjoy the local displays before heading back out into the cold afternoon.",
+                "fr": "Ce centre culturel offre un refuge intérieur douillet contre le vent hivernal mordant ; appréciez les expositions locales avant de retourner dans le froid de l'après‑midi."
               }
             },
             {
@@ -291,18 +322,21 @@
                 "de": "Parc du Brûle",
                 "hu": "Parc du Brûle",
                 "ro": "Parc du Brûle",
-                "en": "Parc du Brûle"
+                "en": "Parc du Brûle",
+                "fr": "Parc du Brûle"
               },
               "tip_5lang": {
                 "de": "Die frostbedeckten Bäume bieten eine schöne Kulisse, aber beenden Sie Ihren Spaziergang bis 16:30 Uhr, bevor die frühe Dämmerung hereinbricht.",
                 "hu": "A dérlepte fák gyönyörű látványt nyújtanak, de próbáld meg befejezni a sétát 16:30-ig, mielőtt a korai szürkület beáll, és a park túl sötét és fagyos lesz.",
                 "ro": "Copacii acoperiți de chiciură oferă peisaje frumoase, dar încercați să terminați plimbarea până la 16:30, înainte să se întunece și să devină prea frig.",
-                "en": "The frost-covered trees offer beautiful scenery, but aim to finish your walk by 16:30 before the early dusk sets in and the park becomes too dark and freezing."
+                "en": "The frost-covered trees offer beautiful scenery, but aim to finish your walk by 16:30 before the early dusk sets in and the park becomes too dark and freezing.",
+                "fr": "Les arbres couverts de givre offrent de beaux paysages, mais essayez de terminer votre promenade avant 16:30, avant que la pénombre et le froid ne s'installent."
               }
             }
           ]
         }
-      }
+      },
+      "fr": "Matin : Nous commençons notre exploration au cœur de Lillers, une ville riche en histoire et en savoir-faire artisanal. Au début de la journée, nous visitons des sanctuaires religieux tranquilles et des monuments civiques, savourant le réveil paisible des rues locales et la beauté architecturale.\nMidi : Vers midi, notre attention se porte sur le célèbre passé industriel de Lillers. Le point fort est le captivant musée de la chaussure, où nous découvrons l'héritage de la fabri­cation de chaussures. Nous passons aussi par des centres culturels, reflétant l'esprit communautaire dynamique.\nAprès‑midi : L'après‑midi est dédié à la nature et à la détente. Nous nous rendons au tranquille Parc du Brûle, profitant d'une retraite paisible au milieu de la verdure. Ce moment de calme permet une réflexion tranquille et d'apprécier le paysage local.\nSoir : Nous terminons notre excursion d'une journée en nous relaxant dans l'enceinte du parc. Le coucher du soleil projette une chaude lueur sur les arbres, offrant une conclusion sereine et belle à notre randonnée pédestre à Lillers."
     }
   },
   "bike": {
@@ -318,7 +352,8 @@
           "de": "Rathaus",
           "hu": "Városháza",
           "ro": "Primăria",
-          "en": "Town Hall"
+          "en": "Town Hall",
+          "fr": "Mairie"
         },
         "coords": [
           2.439782,
@@ -333,7 +368,8 @@
           "de": "Beginnen Sie Ihre Reise mit der Betrachtung der soliden bürgerlichen Architektur des Rathauses, einem tollen Treffpunkt zur Orientierung.",
           "hu": "Kezdje útját a városháza masszív, polgári építészetének megcsodálásával, amely kiváló találkozási pont a tájékozódáshoz.",
           "ro": "Începeți călătoria apreciind arhitectura civică solidă a primăriei, un punct de întâlnire excelent pentru a vă orienta inițial.",
-          "en": "Start your journey by appreciating the solid civic architecture of the town hall, a great meeting point to gather your bearings."
+          "en": "Start your journey by appreciating the solid civic architecture of the town hall, a great meeting point to gather your bearings.",
+          "fr": "Commencez votre parcours en appréciant l'architecture civique solide de la mairie, un excellent point de rendez‑vous pour prendre vos repères."
         }
       },
       {
@@ -341,7 +377,8 @@
           "de": "Schuhmuseum",
           "hu": "Cipőmúzeum",
           "ro": "Muzeul Pantofului",
-          "en": "Shoe Museum"
+          "en": "Shoe Museum",
+          "fr": "Musée de la Chaussure"
         },
         "coords": [
           2.478606,
@@ -356,7 +393,8 @@
           "de": "Entdecken Sie Lillers industrielles Erbe anhand faszinierender Ausstellungen zur Schuhherstellung und fragen Sie nach lokalen Schuhmachern.",
           "hu": "Fedezze fel Lillers ipari örökségét a cipőgyártás lenyűgöző kiállításain keresztül, és kérdezze a vezetőket a helyi cipészekről.",
           "ro": "Descoperiți moștenirea industrială din Lillers prin expoziții fascinante despre producția de încălțăminte și istoria cizmarilor.",
-          "en": "Discover Lillers' industrial heritage through fascinating exhibits of footwear manufacturing, and ask guides about local shoemakers."
+          "en": "Discover Lillers' industrial heritage through fascinating exhibits of footwear manufacturing, and ask guides about local shoemakers.",
+          "fr": "Découvrez le patrimoine industriel de Lillers à travers des expositions fascinantes sur la fabrication de chaussures, et demandez aux guides des informations sur les cordonniers locaux."
         }
       },
       {
@@ -364,7 +402,8 @@
           "de": "St. Omer Kirche",
           "hu": "Saint-Omer templom",
           "ro": "Biserica Saint-Omer",
-          "en": "Saint-Omer Church"
+          "en": "Saint-Omer Church",
+          "fr": "Église Saint‑Omer"
         },
         "coords": [
           2.482465,
@@ -379,7 +418,8 @@
           "de": "Beachten Sie die beeindruckende romanische Architektur dieser Stiftskirche und nehmen Sie sich Zeit für die prächtige Orgel.",
           "hu": "Figyelje meg e történelmi társaskápolna lenyűgöző román stílusú építészetét, és szakítson időt a pompás orgona megtekintésére.",
           "ro": "Observați arhitectura romanică impresionantă a acestei biserici colegiale istorice, alocând timp pentru a vedea orga magnifică.",
-          "en": "Notice the impressive Romanesque architecture of this historic collegiate church, taking time to view the magnificent organ."
+          "en": "Notice the impressive Romanesque architecture of this historic collegiate church, taking time to view the magnificent organ.",
+          "fr": "Remarquez l'impressionnante architecture romane de cette ancienne collégiale, en prenant le temps d'admirer le magnifique orgue."
         }
       },
       {
@@ -387,7 +427,8 @@
           "de": "Parc du Brûle",
           "hu": "Parc du Brûle",
           "ro": "Parc du Brûle",
-          "en": "Parc du Brûle"
+          "en": "Parc du Brûle",
+          "fr": "Parc du Brûle"
         },
         "coords": [
           2.489739,
@@ -402,7 +443,8 @@
           "de": "Entspannen Sie sich auf den friedlichen Wanderwegen dieser grünen Oase, die der perfekte Ort für ein ruhiges Nachmittagspicknick ist.",
           "hu": "Pihenjen meg e zöld menedék békés sétaútjain, amely tökéletes helyszínt biztosít egy nyugodt, kora délutáni piknikhez a szabadban.",
           "ro": "Relaxați-vă de-a lungul potecilor pașnice din acest refugiu verde, locul perfect pentru un picnic liniștit în timpul după-amiezii.",
-          "en": "Relax along the peaceful walking trails of this green haven, making it the perfect spot for a tranquil afternoon picnic break."
+          "en": "Relax along the peaceful walking trails of this green haven, making it the perfect spot for a tranquil afternoon picnic break.",
+          "fr": "Détendez‑vous le long des sentiers paisibles de ce havre de verdure, en faisant de cet endroit le lieu parfait pour un pique‑nique tranquille l'après‑midi."
         }
       },
       {
@@ -410,7 +452,8 @@
           "de": "Kirche Unserer Lieben Frau des Friedens",
           "hu": "Béke Miasszonyunk templom",
           "ro": "Biserica Maicii Domnului a Păcii",
-          "en": "Church of Our Lady of Peace"
+          "en": "Church of Our Lady of Peace",
+          "fr": "Église Notre‑Dame de la Paix"
         },
         "coords": [
           2.500061,
@@ -425,7 +468,8 @@
           "de": "Nehmen Sie sich einen ruhigen Moment in dieser beschaulichen Kirche am Rand, deren schlichtes Design im Kontrast zur Hauptbasilika steht.",
           "hu": "Töltsön el egy csendes pillanatot e békés peremkerületi templomban, megfigyelve, hogyan tér el szerény kialakítása a fő bazilikától.",
           "ro": "Luați-vă un moment de liniște în această biserică periferică, remarcând modul în care designul său modest contrastează cu bazilica.",
-          "en": "Take a quiet moment inside this serene peripheral church, noting how its modest design contrasts with the main central basilica."
+          "en": "Take a quiet moment inside this serene peripheral church, noting how its modest design contrasts with the main central basilica.",
+          "fr": "Prenez un moment de calme à l'intérieur de cette église périphérique sereine, en notant comment son design modeste contraste avec la basilique centrale."
         }
       }
     ],
@@ -434,6 +478,7 @@
     },
     "hu": "Morning: Kerékpáros túránkat a városházánál kezdjük, majd Lillers központjába tekerünk, ahol az egyedülálló cipőmúzeumban megismerjük a város lenyűgöző ipari múltját.\nMidday: Tovább haladva a belvárosban megtekintjük az impozáns Saint-Omer templomot. Az ipartörténet és a román stílusú építészet együttesen nagyszerű képet ad Lillers arculatáról.\nAfternoon: A kerékpároknak köszönhetően hamar elérjük a zöldellő Parc du Brûle-t. Bőséges időnk marad arra, hogy megpihenjünk és élvezzük a gondozott parkot távol a főutak zajától.\nEvening: A napot egy könnyed tekeréssel zárjuk a Béke Miasszonyunk templomához. E peremkerületi szentély békés atmoszférája tökéletes és elmélyült befejezése a tartalmas kirándulásnak.",
     "ro": "Morning: Începem turul nostru pe bicicletă la Primărie, înainte de a pedala spre centrul orașului Lillers pentru a vizita incredibilul muzeu al pantofilor și a-i descoperi istoria industrială.\nMidday: Continuăm plimbarea prin centrul orașului și vizităm impunătoarea Biserică Saint-Omer. Această combinație de istorie industrială și arhitectură romanică definește spiritul orașului.\nAfternoon: Cu bicicleta ajungem rapid în verdele Parc du Brûle. Aici avem suficient timp să luăm o pauză relaxantă și să ne bucurăm de spațiul amenajat, departe de străzile aglomerate.\nEvening: Încheiem traseul pedalând către Biserica Maicii Domnului a Păcii. Atmosfera pașnică a acestui lăcaș de cult periferic este finalul perfect pentru o zi plină de explorări pitorești.",
-    "en": "Morning: We kick off our bike tour at the civic Town Hall before pedaling into the center of Lillers to explore the incredible Shoe Museum, deeply tied to the local industrial heritage.\nMidday: Continuing our ride through the heart of the city, we visit the imposing Saint-Omer Church. The mix of industrial history and magnificent Romanesque architecture paints a full picture of the town.\nAfternoon: Thanks to our bikes, we quickly reach the lush Parc du Brûle. We take ample time here to rest, enjoy a picnic, and wander the well-kept grounds away from the busier main streets.\nEvening: We finish our active day by cycling to the Church of Our Lady of Peace. The peaceful atmosphere of this peripheral sanctuary provides a thoughtful and calm end to our journey."
+    "en": "Morning: We kick off our bike tour at the civic Town Hall before pedaling into the center of Lillers to explore the incredible Shoe Museum, deeply tied to the local industrial heritage.\nMidday: Continuing our ride through the heart of the city, we visit the imposing Saint-Omer Church. The mix of industrial history and magnificent Romanesque architecture paints a full picture of the town.\nAfternoon: Thanks to our bikes, we quickly reach the lush Parc du Brûle. We take ample time here to rest, enjoy a picnic, and wander the well-kept grounds away from the busier main streets.\nEvening: We finish our active day by cycling to the Church of Our Lady of Peace. The peaceful atmosphere of this peripheral sanctuary provides a thoughtful and calm end to our journey.",
+    "fr": "Matin : Nous commençons notre circuit à vélo à la mairie avant de pédaler vers le centre de Lillers pour visiter l'incroyable Musée de la Chaussure, intimement lié au patrimoine industriel local.\nMidi : En poursuivant notre trajet au cœur de la ville, nous visitons la imposante Église Saint‑Omer. Le mélange d'histoire industrielle et d'architecture romane majestueuse donne un tableau complet de la ville.\nAprès‑midi : Grâce à nos vélos, nous atteignons rapidement le verdoyant Parc du Brûle. Nous prenons le temps d'y nous reposer, de pique‑niquer et de nous promener sur les allées bien entretenues, à l'écart des rues plus fréquentées.\nSoir : Nous terminons notre journée active en pédalant jusqu'à l'Église Notre‑Dame de la Paix. L'atmosphère paisible de ce sanctuaire périphérique offre une fin réfléchie et calme à notre parcours."
   }
 }

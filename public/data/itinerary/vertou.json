@@ -21,7 +21,8 @@
             "de": "Saint-Martin Kirche",
             "hu": "Saint-Martin templom",
             "ro": "Biserica Saint-Martin",
-            "en": "Saint-Martin Church"
+            "en": "Saint-Martin Church",
+            "fr": "Église Saint‑Martin"
           },
           "coords": [
             -1.47278,
@@ -36,7 +37,8 @@
             "de": "Bewundern Sie die wunderschöne neugotische Architektur dieser historischen Kirche und werfen Sie einen Blick auf ihren hohen Turm, bevor Sie den Stadtkern erkunden.",
             "hu": "Csodálja meg ennek a történelmi templomnak a gyönyörű neogótikus építészetét, és figyelje meg a magas tornyát, mielőtt elkezdené felfedezni a városközpontot.",
             "ro": "Admirați arhitectura neogotică superbă a acestei biserici istorice și observați turla sa impunătoare înainte de a explora centrul liniștit al orașului.",
-            "en": "Admire the beautiful neo-Gothic architecture of this historic church and take a moment to notice its towering spire before exploring the town center."
+            "en": "Admire the beautiful neo-Gothic architecture of this historic church and take a moment to notice its towering spire before exploring the town center.",
+            "fr": "Admirez la belle architecture néo‑gothique de cette église historique et prenez un moment pour remarquer sa haute flèche avant d’explorer le centre‑ville."
           }
         },
         {
@@ -44,7 +46,8 @@
             "de": "Chaussée des Moines",
             "hu": "Chaussée des Moines",
             "ro": "Chaussée des Moines",
-            "en": "Chaussée des Moines"
+            "en": "Chaussée des Moines",
+            "fr": "Chaussée des Moines"
           },
           "coords": [
             -1.481122,
@@ -59,7 +62,8 @@
             "de": "Spazieren Sie über diesen alten Mönchsdamm, um seine historische Ingenieurskunst zu würdigen, und machen Sie tolle Fotos vom ruhigen Fluss Sèvre Nantaise.",
             "hu": "Sétáljon végig ezen az ősi szerzetesi gáton, hogy megcsodálja történelmi mérnöki munkáját, és készítsen lenyűgöző fotókat a békés Sèvre Nantaise folyóról.",
             "ro": "Plimbați-vă de-a lungul acestui vechi dig al călugărilor pentru a-i aprecia ingineria istorică și a face fotografii uimitoare cu râul liniștit Sèvre Nantaise.",
-            "en": "Stroll along this ancient monks' causeway to appreciate its historical engineering and capture stunning photos of the tranquil Sèvre Nantaise river."
+            "en": "Stroll along this ancient monks' causeway to appreciate its historical engineering and capture stunning photos of the tranquil Sèvre Nantaise river.",
+            "fr": "Promenez‑vous le long de cette ancienne chaussée de moines pour apprécier son ingénierie historique et capturer de superbes photos de la tranquille rivière Sèvre Nantaise."
           }
         },
         {
@@ -67,7 +71,8 @@
             "de": "Moulin de Gautron",
             "hu": "Moulin de Gautron",
             "ro": "Moulin de Gautron",
-            "en": "Moulin de Gautron"
+            "en": "Moulin de Gautron",
+            "fr": "Moulin de Gautron"
           },
           "coords": [
             -1.482051,
@@ -82,7 +87,8 @@
             "de": "Erkunden Sie diese ehemalige Mühle, die heute ein Kulturraum ist, um lokale Kunstausstellungen zu entdecken, und prüfen Sie den Veranstaltungsplan vorab.",
             "hu": "Fedezze fel ezt a kulturális térré alakított egykori malmot a helyi művészeti kiállításokért, és előzetesen ellenőrizze az eseménynaptárat a programokhoz.",
             "ro": "Explorați această fostă moară transformată în spațiu cultural pentru a descoperi expoziții de artă locale și verificați programul evenimentelor în prealabil.",
-            "en": "Explore this former mill turned cultural space to uncover local art exhibitions, and be sure to check the event schedule beforehand to catch a unique workshop."
+            "en": "Explore this former mill turned cultural space to uncover local art exhibitions, and be sure to check the event schedule beforehand to catch a unique workshop.",
+            "fr": "Explorez cet ancien moulin transformé en lieu culturel pour découvrir des expositions d’art local, et pensez à vérifier le programme des événements pour assister à un atelier unique."
           }
         },
         {
@@ -90,7 +96,8 @@
             "de": "Spielplatz Genette",
             "hu": "Genette játszótér",
             "ro": "Loc de joacă Genette",
-            "en": "Genette Playground"
+            "en": "Genette Playground",
+            "fr": "Aire de jeux de la Genette"
           },
           "coords": [
             -1.48023,
@@ -105,7 +112,8 @@
             "de": "Lassen Sie die Kinder auf diesem gut ausgestatteten Spielplatz Energie abbauen, der ausreichend schattige Sitzplätze bietet, damit sich Eltern entspannen können.",
             "hu": "Hagyja, hogy a gyerekek levezessék energiájukat ezen a jól felszerelt játszótéren, amely bőséges árnyékos ülőhelyet kínál a szülők kényelmes pihenéséhez.",
             "ro": "Lăsați copiii să-și consume energia la acest loc de joacă bine dotat, care oferă locuri umbrite unde părinții se pot relaxa în voie în timp ce îi supraveghează.",
-            "en": "Let the kids burn off some energy at this well-equipped playground, which offers ample shaded seating where parents can relax while keeping a watchful eye."
+            "en": "Let the kids burn off some energy at this well-equipped playground, which offers ample shaded seating where parents can relax while keeping a watchful eye.",
+            "fr": "Laissez les enfants dépenser leur énergie dans cette aire de jeux bien équipée, qui offre de nombreux bancs ombragés où les parents peuvent se détendre tout en gardant un œil vigilant."
           }
         },
         {
@@ -113,7 +121,8 @@
             "de": "Loiry-Park",
             "hu": "Loiry Park",
             "ro": "Parcul Loiry",
-            "en": "Loiry Park"
+            "en": "Loiry Park",
+            "fr": "Parc de Loiry"
           },
           "coords": [
             -1.477441,
@@ -128,7 +137,8 @@
             "de": "Genießen Sie einen erholsamen Spaziergang durch die weitläufigen Grünflächen dieses Uferparks und bringen Sie ein kleines Picknick für die ruhige Natur mit.",
             "hu": "Élvezze a pihentető sétát ennek a folyóparti parknak a hatalmas zöldterületein, és hozzon magával egy könnyű pikniket, hogy teljesen kiélvezze a természetet.",
             "ro": "Bucurați-vă de o plimbare relaxantă prin spațiile verzi întinse ale acestui parc de pe malul râului și luați un mic picnic pentru a savura natura liniștită.",
-            "en": "Enjoy a relaxing walk through the expansive green spaces of this riverside park, packing a light picnic to fully savor the peaceful natural surroundings."
+            "en": "Enjoy a relaxing walk through the expansive green spaces of this riverside park, packing a light picnic to fully savor the peaceful natural surroundings.",
+            "fr": "Profitez d’une promenade relaxante à travers les vastes espaces verts de ce parc riverain ; emportez un léger pique‑nique pour savourer pleinement le cadre paisible."
           }
         }
       ],
@@ -136,7 +146,8 @@
         "de": "Beginnen Sie Ihren Morgen mit der Bewunderung der eleganten Kirche Saint-Martin, bevor Sie zur historischen Chaussée des Moines spazieren.\n\nGegen Mittag können Sie in die lokale Kulturszene in der Moulin de Gautron eintauchen und die nahen Erholungsgebiete am Fluss genießen.\n\nAm Nachmittag können Sie sich bei familienfreundlichen Spielen austoben oder im weitläufigen, ruhigen Loiry-Park wunderbar entspannen.\n\nBeenden Sie Ihren perfekten Tag mit einem beruhigenden Spaziergang am Wasser und genießen Sie die ruhige Abendatmosphäre bei Sonnenuntergang.",
         "hu": "Kezdje a reggelt az elegáns Saint-Martin templom megcsodálásával, mielőtt lesétálna a történelmi Chaussée des Moines gáthoz.\n\nDél körül merüljön el a helyi kulturális életben a Moulin de Gautronnál, és élvezze a folyó menti közeli kikapcsolódási lehetőségeket.\n\nDélután engedje el magát egy kis családbarát játékkal, vagy lazítson a Loiry Park hatalmas és békés zöldterületein.\n\nZárja ezt a tökéletes napot egy megnyugtató vízparti sétával, és élvezze a békés esti hangulatot, ahogy a nap leereszkedik Vertou felett.",
         "ro": "Începeți dimineața admirând eleganta biserică Saint-Martin înainte de a coborî spre istorica Chaussée des Moines.\n\nÎn jurul prânzului, pătrundeți în scena culturală locală la Moulin de Gautron și bucurați-vă de zonele de recreere din apropierea râului.\n\nDupă-amiaza, eliberați-vă energia cu jocuri potrivite pentru familie sau relaxați-vă în verdeața vastă și liniștită a Parcului Loiry.\n\nÎncheiați ziua perfectă cu o plimbare relaxantă pe malul apei, bucurându-vă de atmosfera senină de seară în timp ce soarele apune peste Vertou.",
-        "en": "Begin your morning by admiring the elegant Saint-Martin Church before walking down to the historic Chaussée des Moines.\n\nAround midday, dive into the local cultural scene at the Moulin de Gautron and enjoy the nearby recreational areas along the river.\n\nIn the afternoon, let loose with some family-friendly gaming or relax in the expansive, peaceful greenery of Loiry Park.\n\nConclude your perfect day with a calming stroll by the water, soaking in the serene evening atmosphere as the sun sets over Vertou."
+        "en": "Begin your morning by admiring the elegant Saint-Martin Church before walking down to the historic Chaussée des Moines.\n\nAround midday, dive into the local cultural scene at the Moulin de Gautron and enjoy the nearby recreational areas along the river.\n\nIn the afternoon, let loose with some family-friendly gaming or relax in the expansive, peaceful greenery of Loiry Park.\n\nConclude your perfect day with a calming stroll by the water, soaking in the serene evening atmosphere as the sun sets over Vertou.",
+        "fr": "Commencez votre matinée en admirant la élégante église Saint‑Martin avant de descendre jusqu’à la historique Chaussée des Moines.\n\nVers midi, plongez dans la scène culturelle locale au Moulin de Gautron et profitez des espaces de loisirs proches de la rivière.\n\nL’après‑midi, laissez-vous aller avec des activités familiales ou détendez‑vous dans les vastes et paisibles espaces verts du parc de Loiry.\n\nConcluez votre journée idéale par une promenade apaisante au bord de l’eau, en profitant de l’atmosphère sereine au coucher du soleil sur Vertou."
       },
       "variants": {
         "rainy": {
@@ -144,7 +155,8 @@
             "de": "Beginnen Sie den regnerischen Morgen in der Kirche. Trotzen Sie mittags dem Nieselregen am historischen Flussufer. Verbringen Sie den nassen Nachmittag in überdachten Ausstellungen. Beenden Sie den Tag früh, wenn der Regen zunimmt.",
             "hu": "Kezdje az esős reggelt a templom menedékében. Délben dacoljon a szitáló esővel a történelmi folyóparton. A nedves délutánt töltse fedett kulturális kiállításokon. Fejezze be a napot korán, mielőtt az eső rázendít.",
             "ro": "Începeți dimineața ploioasă adăpostindu-vă în biserică. La prânz, înfruntați burnița de-a lungul râului istoric. Petreceți după-amiaza umedă explorând expoziții acoperite. Încheiați ziua devreme când ploaia se întețește.",
-            "en": "Start your rainy morning at the sheltering church. By noon, brave the drizzle along the historic riverfront. Spend the wet afternoon exploring indoor cultural exhibits. Conclude your day early as the rain intensifies."
+            "en": "Start your rainy morning at the sheltering church. By noon, brave the drizzle along the historic riverfront. Spend the wet afternoon exploring indoor cultural exhibits. Conclude your day early as the rain intensifies.",
+            "fr": "Commencez votre matinée pluvieuse à l’abri dans l’église. À midi, affrontez la bruine le long du quai historique. Passez l’après‑midi humide à visiter des expositions culturelles en intérieur. Raccourcissez la journée si la pluie s’intensifie."
           },
           "stops": [
             {
@@ -152,13 +164,15 @@
                 "de": "Saint-Martin Kirche",
                 "hu": "Saint-Martin templom",
                 "ro": "Biserica Saint-Martin",
-                "en": "Saint-Martin Church"
+                "en": "Saint-Martin Church",
+                "fr": "Église Saint‑Martin"
               },
               "tip_5lang": {
                 "de": "Bewundern Sie die bunten Fenster, während Sie Schutz vor dem Schauer suchen. Tipp: Halten Sie einen Schirm griffbereit.",
                 "hu": "Csodálja meg a gyönyörű ólomüveg ablakokat az eső elől menedéket keresve. Tipp: Tartson kéznél egy kompakt esernyőt.",
                 "ro": "Admirați vitraliile frumoase în timp ce vă adăpostiți de ploile matinale. Sfat: Păstrați o umbrelă la îndemână.",
-                "en": "Admire the beautiful stained glass while sheltering from the morning showers. Tip: Keep a compact umbrella handy."
+                "en": "Admire the beautiful stained glass while sheltering from the morning showers. Tip: Keep a compact umbrella handy.",
+                "fr": "Admirez les magnifiques vitraux tout en vous abritant des averses matinales. Astuce : gardez un petit parapluie compact à portée de main."
               }
             },
             {
@@ -166,13 +180,15 @@
                 "de": "Chaussée des Moines",
                 "hu": "Chaussée des Moines",
                 "ro": "Chaussée des Moines",
-                "en": "Chaussée des Moines"
+                "en": "Chaussée des Moines",
+                "fr": "Chaussée des Moines"
               },
               "tip_5lang": {
                 "de": "Sehen Sie sich die historischen Schleusen an. Tipp: Die Steinwege sind bei Nässe sehr rutschig, tragen Sie festes, wasserdichtes Schuhwerk.",
                 "hu": "Nézze meg a történelmi zsilipeket a megáradt folyónál. Tipp: A kőutak csúszósak lehetnek, viseljen stabil, vízálló cipőt.",
                 "ro": "Vedeți ecluzele istorice de-a lungul râului umflat. Sfat: Căile de piatră pot fi alunecoase, purtați încălțăminte impermeabilă.",
-                "en": "See the historic locks along the swollen river. Tip: The stone paths can be quite slippery when wet, so wear sturdy, waterproof shoes."
+                "en": "See the historic locks along the swollen river. Tip: The stone paths can be quite slippery when wet, so wear sturdy, waterproof shoes.",
+                "fr": "Observez les écluses historiques le long de la rivière gonflée. Astuce : les chemins de pierre peuvent être très glissants quand ils sont mouillés, portez des chaussures solides et imperméables."
               }
             },
             {
@@ -180,13 +196,15 @@
                 "de": "Moulin de Gautron",
                 "hu": "Moulin de Gautron",
                 "ro": "Moulin de Gautron",
-                "en": "Moulin de Gautron"
+                "en": "Moulin de Gautron",
+                "fr": "Moulin de Gautron"
               },
               "tip_5lang": {
                 "de": "Erkunden Sie die Ausstellungen in dieser Mühle als trockenen Zufluchtsort. Tipp: Ein guter Ort, um den Regenmantel zu trocknen.",
                 "hu": "Fedezze fel a kiállításokat a régi malomban, mely tökéletes száraz menedék. Tipp: Kiváló hely az esőkabát szárítására.",
                 "ro": "Explorați expozițiile din această veche moară, o evadare uscată perfectă. Sfat: Un loc excelent pentru a vă usca haina de ploaie.",
-                "en": "Explore the cultural exhibits inside this old mill, offering a perfect dry escape. Tip: A great spot to warm up and dry your raincoat."
+                "en": "Explore the cultural exhibits inside this old mill, offering a perfect dry escape. Tip: A great spot to warm up and dry your raincoat.",
+                "fr": "Explorez les expositions culturelles à l’intérieur de cet ancien moulin, un parfait refuge sec. Astuce : un excellent endroit pour se réchauffer et sécher votre manteau."
               }
             },
             {
@@ -194,13 +212,15 @@
                 "de": "Spielplatz Genette",
                 "hu": "Genette játszótér",
                 "ro": "Loc de joacă Genette",
-                "en": "Genette Playground"
+                "en": "Genette Playground",
+                "fr": "Aire de jeux de la Genette"
               },
               "tip_5lang": {
                 "de": "Sehen Sie sich den nassen Park an. Tipp: Konzentrieren Sie sich auf gepflasterte Wege und bringen Sie wasserfeste Kleidung mit.",
                 "hu": "Sétáljon egyet a parkban a pocsolyák ellenére. Tipp: Maradjon a burkolt sétányokon, és hozzon vízálló felszerelést a gyerekeknek.",
                 "ro": "Verificați zona parcului, deși este umedă. Sfat: Rămâneți pe aleile pavate și aduceți echipament impermeabil pentru o joacă scurtă.",
-                "en": "Check out the park area, though mostly wet. Tip: Focus on the paved walkways and bring waterproof gear if the kids want to play briefly."
+                "en": "Check out the park area, though mostly wet. Tip: Focus on the paved walkways and bring waterproof gear if the kids want to play briefly.",
+                "fr": "Vérifiez l’état de l’aire, qui sera souvent détrempée. Astuce : concentrez‑vous sur les allées pavées et prévoyez des vêtements imperméables si les enfants veulent jouer brièvement."
               }
             },
             {
@@ -208,13 +228,15 @@
                 "de": "Loiry-Park",
                 "hu": "Loiry Park",
                 "ro": "Parcul Loiry",
-                "en": "Loiry Park"
+                "en": "Loiry Park",
+                "fr": "Parc de Loiry"
               },
               "tip_5lang": {
                 "de": "Genießen Sie einen stimmungsvollen Spaziergang im nassen Grün. Tipp: Bleiben Sie auf den asphaltierten Hauptwegen, um Schlamm zu vermeiden.",
                 "hu": "Élvezze a hangulatos sétát a nedves zöld növényzet között. Tipp: Maradjon a fő aszfaltozott utakon, hogy elkerülje a mély sarat.",
                 "ro": "Bucurați-vă de o plimbare plină de atmosferă printre verdeața umedă. Sfat: Rămâneți pe cărările principale pentru a evita noroiul.",
-                "en": "Enjoy a moody, atmospheric stroll among the wet greenery. Tip: Stay on the main asphalt paths to avoid the deep mud and puddles."
+                "en": "Enjoy a moody, atmospheric stroll among the wet greenery. Tip: Stay on the main asphalt paths to avoid the deep mud and puddles.",
+                "fr": "Profitez d’une promenade d’ambiance parmi la végétation humide. Astuce : restez sur les principaux chemins asphaltés pour éviter la boue profonde et les flaques."
               }
             }
           ]
@@ -224,7 +246,8 @@
             "de": "Ein klarer Wintermorgen beginnt an der Kirche. Der Mittag bietet einen kühlen Spaziergang am Fluss. Das Nachmittagslicht schwindet schnell zwischen frostigen Bäumen. Beenden Sie die Tour gegen 17:00 Uhr zum Sonnenuntergang.",
             "hu": "A csípős téli reggel a templomban indul. A délidő frissítő, hideg sétát kínál a folyó mentén. A délutáni fény gyorsan elhalványul a fagyos fák között. Zárja a napot 17:00-kor, amikor a korai naplemente fagyot hoz.",
             "ro": "O dimineață de iarnă geroasă începe la biserică. Prânzul oferă o plimbare răcoroasă pe lângă râu. Lumina după-amiezii dispare rapid printre copacii înghețați. Încheiați la 17:00, când apusul timpuriu aduce un frig intens.",
-            "en": "A crisp winter morning begins at the historic church. Midday offers a brisk, chilly walk along the river. The afternoon light fades quickly among the frosted park trees. Wrap up by 17:00 as the early winter sunset brings deep cold."
+            "en": "A crisp winter morning begins at the historic church. Midday offers a brisk, chilly walk along the river. The afternoon light fades quickly among the frosted park trees. Wrap up by 17:00 as the early winter sunset brings deep cold.",
+            "fr": "Un matin hivernal vif commence à l’église historique. À midi, une promenade fraîche le long de la rivière. L’après‑midi la lumière décline vite parmi les arbres givrés du parc. Terminez avant 17:00, car le coucher de soleil hivernal précoce apporte un froid saisissant."
           },
           "stops": [
             {
@@ -232,13 +255,15 @@
                 "de": "Saint-Martin Kirche",
                 "hu": "Saint-Martin templom",
                 "ro": "Biserica Saint-Martin",
-                "en": "Saint-Martin Church"
+                "en": "Saint-Martin Church",
+                "fr": "Église Saint‑Martin"
               },
               "tip_5lang": {
                 "de": "Genießen Sie den ruhigen, frostigen Morgen im Kirchenschiff. Tipp: Die Kirche bietet einen windstillen Schutz vor der Kälte.",
                 "hu": "Élvezze a csendes, fagyos reggelt a gyönyörű hajóban. Tipp: A templom szélcsendes, nyugodt menedéket nyújt a hideg elől.",
                 "ro": "Bucurați-vă de dimineața geroasă și liniștită în interior. Sfat: Biserica oferă un adăpost binevenit, ferit de vântul rece.",
-                "en": "Enjoy the quiet, frosty morning inside the beautiful nave. Tip: The church provides a welcome, wind-free shelter from the cold."
+                "en": "Enjoy the quiet, frosty morning inside the beautiful nave. Tip: The church provides a welcome, wind-free shelter from the cold.",
+                "fr": "Appréciez le calme matinal et la nef givrée. Astuce : l’église offre un abri sans vent bienvenue contre le froid."
               }
             },
             {
@@ -246,13 +271,15 @@
                 "de": "Chaussée des Moines",
                 "hu": "Chaussée des Moines",
                 "ro": "Chaussée des Moines",
-                "en": "Chaussée des Moines"
+                "en": "Chaussée des Moines",
+                "fr": "Chaussée des Moines"
               },
               "tip_5lang": {
                 "de": "Genießen Sie die klare Aussicht auf den winterlichen Fluss. Tipp: Der Wind vom Wasser ist beißend; tragen Sie einen dicken Schal.",
                 "hu": "Gyönyörködjön a téli folyó friss látványában. Tipp: A víz felől érkező szél csípős, viseljen vastag sálat és kesztyűt.",
                 "ro": "Admirați priveliștea clară a râului de iarnă. Sfat: Briza de pe apă este tăioasă; asigurați-vă că purtați fular și mănuși.",
-                "en": "Take in the crisp views of the winter river. Tip: The breeze off the water is biting; ensure you are wearing a thick scarf and gloves."
+                "en": "Take in the crisp views of the winter river. Tip: The breeze off the water is biting; ensure you are wearing a thick scarf and gloves.",
+                "fr": "Contemplez les vues nettes de la rivière hivernale. Astuce : la brise venant de l’eau est mordante ; portez une grosse écharpe et des gants."
               }
             },
             {
@@ -260,13 +287,15 @@
                 "de": "Moulin de Gautron",
                 "hu": "Moulin de Gautron",
                 "ro": "Moulin de Gautron",
-                "en": "Moulin de Gautron"
+                "en": "Moulin de Gautron",
+                "fr": "Moulin de Gautron"
               },
               "tip_5lang": {
                 "de": "Erkunden Sie die Ausstellungen in dieser historischen Mühle. Tipp: Nutzen Sie die Heizung, um Hände und Füße aufzuwärmen.",
                 "hu": "Fedezze fel a helyi kiállításokat ebben a történelmi malomban. Tipp: Használja ki a benti fűtést kezei és lábai felmelegítésére.",
                 "ro": "Explorați expozițiile din această moară istorică. Sfat: Profitați de încălzirea interioară pentru a vă încălzi mâinile și picioarele.",
-                "en": "Explore the local exhibits inside this historic mill. Tip: Take advantage of the indoor heating to properly warm your hands and feet."
+                "en": "Explore the local exhibits inside this historic mill. Tip: Take advantage of the indoor heating to properly warm your hands and feet.",
+                "fr": "Découvrez les expositions locales à l’intérieur de ce moulin historique. Astuce : profitez du chauffage intérieur pour réchauffer mains et pieds."
               }
             },
             {
@@ -274,13 +303,15 @@
                 "de": "Spielplatz Genette",
                 "hu": "Genette játszótér",
                 "ro": "Loc de joacă Genette",
-                "en": "Genette Playground"
+                "en": "Genette Playground",
+                "fr": "Aire de jeux de la Genette"
               },
               "tip_5lang": {
                 "de": "Lassen Sie die Kinder in der frischen Luft Energie abbauen. Tipp: Bleiben Sie in Bewegung und achten Sie auf eisige Stellen.",
                 "hu": "Hagyja a gyerekeket levezetni az energiájukat a friss levegőn. Tipp: Mozogjon folyamatosan, és ügyeljen a jeges foltokra a játékoknál.",
                 "ro": "Lăsați copiii să-și consume energia în aerul rece. Sfat: Rămâneți în mișcare pentru a vă menține cald și atenție la gheață.",
-                "en": "Let the kids burn off energy in the crisp air. Tip: Keep moving to stay warm, and watch out for icy patches around the play equipment."
+                "en": "Let the kids burn off energy in the crisp air. Tip: Keep moving to stay warm, and watch out for icy patches around the play equipment.",
+                "fr": "Laissez les enfants se défouler dans l’air vif. Astuce : bougez pour rester au chaud et faites attention aux plaques de verglas autour des équipements."
               }
             },
             {
@@ -288,13 +319,15 @@
                 "de": "Loiry-Park",
                 "hu": "Loiry Park",
                 "ro": "Parcul Loiry",
-                "en": "Loiry Park"
+                "en": "Loiry Park",
+                "fr": "Parc de Loiry"
               },
               "tip_5lang": {
                 "de": "Spazieren Sie unter schönen, kahlen Winterbäumen. Tipp: Beenden Sie den Spaziergang vor 16:30 Uhr, bevor es ganz dunkel und kalt wird.",
                 "hu": "Sétáljon a gyönyörű, kopasz téli fák alatt. Tipp: Törekedjen a séta befejezésére 16:30 előtt, mielőtt a sötétedés fagyot hoz.",
                 "ro": "Plimbați-vă pe sub copacii frumoși de iarnă. Sfat: Încercați să terminați plimbarea până la 16:30, înainte ca apusul să aducă frigul.",
-                "en": "Stroll under the beautiful, bare winter trees. Tip: Aim to finish your walk by 16:30 before the early sunset plunges the park into cold."
+                "en": "Stroll under the beautiful, bare winter trees. Tip: Aim to finish your walk by 16:30 before the early sunset plunges the park into cold.",
+                "fr": "Promenez‑vous sous les beaux arbres hivernaux dépouillés. Astuce : visez à terminer votre balade avant 16:30 avant que le soleil précoce ne plonge le parc dans le froid."
               }
             }
           ]
@@ -314,7 +347,8 @@
             "de": "Saint-Martin Kirche",
             "hu": "Saint-Martin templom",
             "ro": "Biserica Saint-Martin",
-            "en": "Saint-Martin Church"
+            "en": "Saint-Martin Church",
+            "fr": "Église Saint‑Martin"
           },
           "coords": [
             -1.47278,
@@ -329,7 +363,8 @@
             "de": "Bewundern Sie die wunderschöne neugotische Architektur dieser historischen Kirche und werfen Sie einen Blick auf ihren hohen Turm, bevor Sie den Stadtkern erkunden.",
             "hu": "Csodálja meg ennek a történelmi templomnak a gyönyörű neogótikus építészetét, és figyelje meg a magas tornyát, mielőtt elkezdené felfedezni a városközpontot.",
             "ro": "Admirați arhitectura neogotică superbă a acestei biserici istorice și observați turla sa impunătoare înainte de a explora centrul liniștit al orașului.",
-            "en": "Admire the beautiful neo-Gothic architecture of this historic church and take a moment to notice its towering spire before exploring the town center."
+            "en": "Admire the beautiful neo-Gothic architecture of this historic church and take a moment to notice its towering spire before exploring the town center.",
+            "fr": "Admirez la belle architecture néo‑gothique de cette église historique et prenez un moment pour remarquer sa haute flèche avant d’explorer le centre‑ville."
           }
         },
         {
@@ -337,7 +372,8 @@
             "de": "Chaussée des Moines",
             "hu": "Chaussée des Moines",
             "ro": "Chaussée des Moines",
-            "en": "Chaussée des Moines"
+            "en": "Chaussée des Moines",
+            "fr": "Chaussée des Moines"
           },
           "coords": [
             -1.481122,
@@ -352,7 +388,8 @@
             "de": "Spazieren Sie über diesen alten Mönchsdamm, um seine historische Ingenieurskunst zu würdigen, und machen Sie tolle Fotos vom ruhigen Fluss Sèvre Nantaise.",
             "hu": "Sétáljon végig ezen az ősi szerzetesi gáton, hogy megcsodálja történelmi mérnöki munkáját, és készítsen lenyűgöző fotókat a békés Sèvre Nantaise folyóról.",
             "ro": "Plimbați-vă de-a lungul acestui vechi dig al călugărilor pentru a-i aprecia ingineria istorică și a face fotografii uimitoare cu râul liniștit Sèvre Nantaise.",
-            "en": "Stroll along this ancient monks' causeway to appreciate its historical engineering and capture stunning photos of the tranquil Sèvre Nantaise river."
+            "en": "Stroll along this ancient monks' causeway to appreciate its historical engineering and capture stunning photos of the tranquil Sèvre Nantaise river.",
+            "fr": "Promenez‑vous le long de cette ancienne chaussée de moines pour apprécier son ingénierie historique et capturer de superbes photos de la tranquille rivière Sèvre Nantaise."
           }
         },
         {
@@ -360,7 +397,8 @@
             "de": "Moulin de Gautron",
             "hu": "Moulin de Gautron",
             "ro": "Moulin de Gautron",
-            "en": "Moulin de Gautron"
+            "en": "Moulin de Gautron",
+            "fr": "Moulin de Gautron"
           },
           "coords": [
             -1.482051,
@@ -375,7 +413,8 @@
             "de": "Erkunden Sie diese ehemalige Mühle, die heute ein Kulturraum ist, um lokale Kunstausstellungen zu entdecken, und prüfen Sie den Veranstaltungsplan vorab.",
             "hu": "Fedezze fel ezt a kulturális térré alakított egykori malmot a helyi művészeti kiállításokért, és előzetesen ellenőrizze az eseménynaptárat a programokhoz.",
             "ro": "Explorați această fostă moară transformată în spațiu cultural pentru a descoperi expoziții de artă locale și verificați programul evenimentelor în prealabil.",
-            "en": "Explore this former mill turned cultural space to uncover local art exhibitions, and be sure to check the event schedule beforehand to catch a unique workshop."
+            "en": "Explore this former mill turned cultural space to uncover local art exhibitions, and be sure to check the event schedule beforehand to catch a unique workshop.",
+            "fr": "Explorez cet ancien moulin transformé en lieu culturel pour découvrir des expositions d’art local, et pensez à vérifier le programme des événements pour assister à un atelier unique."
           }
         },
         {
@@ -383,7 +422,8 @@
             "de": "Loiry-Park",
             "hu": "Loiry Park",
             "ro": "Parcul Loiry",
-            "en": "Loiry Park"
+            "en": "Loiry Park",
+            "fr": "Parc de Loiry"
           },
           "coords": [
             -1.477441,
@@ -398,7 +438,8 @@
             "de": "Genießen Sie einen erholsamen Spaziergang durch die weitläufigen Grünflächen dieses Uferparks und bringen Sie ein kleines Picknick für die ruhige Natur mit.",
             "hu": "Élvezze a pihentető sétát ennek a folyóparti parknak a hatalmas zöldterületein, és hozzon magával egy könnyű pikniket, hogy teljesen kiélvezze a természetet.",
             "ro": "Bucurați-vă de o plimbare relaxantă prin spațiile verzi întinse ale acestui parc de pe malul râului și luați un mic picnic pentru a savura natura liniștită.",
-            "en": "Enjoy a relaxing walk through the expansive green spaces of this riverside park, packing a light picnic to fully savor the peaceful natural surroundings."
+            "en": "Enjoy a relaxing walk through the expansive green spaces of this riverside park, packing a light picnic to fully savor the peaceful natural surroundings.",
+            "fr": "Profitez d’une promenade relaxante à travers les vastes espaces verts de ce parc riverain ; emportez un léger pique‑nique pour savourer pleinement le cadre paisible."
           }
         },
         {
@@ -406,7 +447,8 @@
             "de": "Quiz-Spiel",
             "hu": "Kvízjáték",
             "ro": "Joc de quiz",
-            "en": "Quiz game"
+            "en": "Quiz game",
+            "fr": "Jeu-questionnaire"
           },
           "coords": [
             -1.482832,
@@ -421,7 +463,8 @@
             "de": "Fordern Sie Ihre Freunde und Familie zu einem interaktiven Quiz-Erlebnis heraus und buchen Sie Ihre Sitzung im Voraus, um sich an Wochenenden einen Platz zu sichern.",
             "hu": "Hívja ki barátait és családját egy interaktív kvíz élményre, de mindenképpen foglaljon időpontot előre, hogy biztosítsa helyét a forgalmas hétvégi délutánokon.",
             "ro": "Provocați-vă prietenii și familia la o experiență interactivă de quiz, având grijă să rezervați sesiunea în avans pentru a vă asigura un loc la sfârșit de săptămână.",
-            "en": "Challenge your friends and family to an interactive quiz experience, making sure to book your session in advance to secure a spot during busy weekend afternoons."
+            "en": "Challenge your friends and family to an interactive quiz experience, making sure to book your session in advance to secure a spot during busy weekend afternoons.",
+            "fr": "Défiez vos amis et votre famille avec une expérience de quiz interactive ; pensez à réserver votre session à l’avance pour garantir une place lors des après-midis de week-end très fréquentés."
           }
         },
         {
@@ -429,7 +472,8 @@
             "de": "EVA - Virtuelle Esports-Arenen",
             "hu": "EVA - Esports Virtuális Arénák",
             "ro": "EVA - Arene Virtuale de Esports",
-            "en": "EVA - Esports Virtual Arenas"
+            "en": "EVA - Esports Virtual Arenas",
+            "fr": "EVA - Esports Virtual Arenas"
           },
           "coords": [
             -1.484295,
@@ -444,7 +488,8 @@
             "de": "Tauchen Sie in ein immersives Virtual-Reality-Abenteuer ein, das Teamarbeit erfordert, und tragen Sie bequeme Kleidung, um sich in der Arena frei zu bewegen.",
             "hu": "Merüljön el egy magával ragadó virtuális valóság kalandban, amely csapatmunkát igényel, és viseljen kényelmes ruhát, hogy szabadon mozoghasson a játéktérben.",
             "ro": "Pătrundeți într-o aventură captivantă de realitate virtuală care necesită muncă în echipă și purtați haine confortabile pentru a vă mișca liber în arena imensă.",
-            "en": "Dive into an immersive virtual reality adventure that requires teamwork and quick reflexes, wearing comfortable clothes to move freely across the large gaming arena."
+            "en": "Dive into an immersive virtual reality adventure that requires teamwork and quick reflexes, wearing comfortable clothes to move freely across the large gaming arena.",
+            "fr": "Plongez dans une aventure de réalité virtuelle immersive requérant travail d’équipe et réflexes rapides ; portez des vêtements confortables pour pouvoir vous déplacer librement dans la vaste arène de jeu."
           }
         }
       ],
@@ -452,7 +497,8 @@
         "de": "Beginnen Sie Ihren Morgen mit der Bewunderung der eleganten Kirche Saint-Martin, bevor Sie zur historischen Chaussée des Moines spazieren.\n\nGegen Mittag können Sie in die lokale Kulturszene in der Moulin de Gautron eintauchen und die nahen Erholungsgebiete am Fluss genießen.\n\nAm Nachmittag können Sie sich bei familienfreundlichen Spielen austoben oder im weitläufigen, ruhigen Loiry-Park wunderbar entspannen.\n\nBeenden Sie Ihren perfekten Tag mit einem beruhigenden Spaziergang am Wasser und genießen Sie die ruhige Abendatmosphäre bei Sonnenuntergang.",
         "hu": "Kezdje a reggelt az elegáns Saint-Martin templom megcsodálásával, mielőtt lesétálna a történelmi Chaussée des Moines gáthoz.\n\nDél körül merüljön el a helyi kulturális életben a Moulin de Gautronnál, és élvezze a folyó menti közeli kikapcsolódási lehetőségeket.\n\nDélután engedje el magát egy kis családbarát játékkal, vagy lazítson a Loiry Park hatalmas és békés zöldterületein.\n\nZárja ezt a tökéletes napot egy megnyugtató vízparti sétával, és élvezze a békés esti hangulatot, ahogy a nap leereszkedik Vertou felett.",
         "ro": "Începeți dimineața admirând eleganta biserică Saint-Martin înainte de a coborî spre istorica Chaussée des Moines.\n\nÎn jurul prânzului, pătrundeți în scena culturală locală la Moulin de Gautron și bucurați-vă de zonele de recreere din apropierea râului.\n\nDupă-amiaza, eliberați-vă energia cu jocuri potrivite pentru familie sau relaxați-vă în verdeața vastă și liniștită a Parcului Loiry.\n\nÎncheiați ziua perfectă cu o plimbare relaxantă pe malul apei, bucurându-vă de atmosfera senină de seară în timp ce soarele apune peste Vertou.",
-        "en": "Begin your morning by admiring the elegant Saint-Martin Church before walking down to the historic Chaussée des Moines.\n\nAround midday, dive into the local cultural scene at the Moulin de Gautron and enjoy the nearby recreational areas along the river.\n\nIn the afternoon, let loose with some family-friendly gaming or relax in the expansive, peaceful greenery of Loiry Park.\n\nConclude your perfect day with a calming stroll by the water, soaking in the serene evening atmosphere as the sun sets over Vertou."
+        "en": "Begin your morning by admiring the elegant Saint-Martin Church before walking down to the historic Chaussée des Moines.\n\nAround midday, dive into the local cultural scene at the Moulin de Gautron and enjoy the nearby recreational areas along the river.\n\nIn the afternoon, let loose with some family-friendly gaming or relax in the expansive, peaceful greenery of Loiry Park.\n\nConclude your perfect day with a calming stroll by the water, soaking in the serene evening atmosphere as the sun sets over Vertou.",
+        "fr": "Commencez votre matinée en admirant la élégante Église Saint-Martin avant de descendre vers la historique Chaussée des Moines.\n\nVers midi, imprégnez-vous de la scène culturelle locale au Moulin de Gautron et profitez des espaces de loisirs le long de la rivière.\n\nL’après-midi, amusez-vous avec des jeux en famille ou détendez-vous dans la vaste et paisible verdure du parc de Loiry.\n\nConcluez votre journée parfaite par une promenade apaisante au bord de l’eau, en savourant l’atmosphère sereine du soir tandis que le soleil se couche sur Vertou."
       },
       "variants": {
         "rainy": {
@@ -460,7 +506,8 @@
             "de": "Beginnen Sie Ihre nasse Fahrt geschützt in der Kirche. Mittags ist auf den rutschigen Uferwegen Vorsicht geboten. Entfliehen Sie den Nachmittagsschauern mit Indoor-Spielen. Beenden Sie die Route sicher im Trockenen.",
             "hu": "Kezdje a nedves túrát a templom fedezékében. A déli tekerés óvatosságot igényel a csúszós folyóparti utakon. Meneküljön a délutáni felhőszakadások elől beltéri játékokba. Fejezze be az utat biztonságban.",
             "ro": "Începeți plimbarea umedă adăpostindu-vă la biserică. Rularea la prânz necesită prudență pe aleile alunecoase. Scăpați de ploile de după-amiază cu jocuri de interior. Terminați traseul în siguranță la interior.",
-            "en": "Kick off your wet ride taking cover at the church. Midday riding requires caution on the slippery river paths. Escape the afternoon downpours with indoor games. Finish your route safely indoors before dusk."
+            "en": "Kick off your wet ride taking cover at the church. Midday riding requires caution on the slippery river paths. Escape the afternoon downpours with indoor games. Finish your route safely indoors before dusk.",
+            "fr": "Commencez votre sortie mouillée en vous abritant à l’église. À midi, soyez prudent sur les chemins riverains glissants. Échappez aux averses de l’après-midi avec des jeux en intérieur. Terminez votre parcours en toute sécurité à l’intérieur avant la tombée du jour."
           },
           "stops": [
             {
@@ -468,13 +515,15 @@
                 "de": "Saint-Martin Kirche",
                 "hu": "Saint-Martin templom",
                 "ro": "Biserica Saint-Martin",
-                "en": "Saint-Martin Church"
+                "en": "Saint-Martin Church",
+                "fr": "Église Saint-Martin"
               },
               "tip_5lang": {
                 "de": "Bewundern Sie den Innenraum, während Sie den Regen abwarten. Tipp: Prüfen Sie hier im Trockenen Ihre Fahrradlichter.",
                 "hu": "Csodálja meg a belső teret, amíg eláll az eső. Tipp: Használja ezt a száraz megállót a kerékpáros lámpák ellenőrzésére.",
                 "ro": "Admirați interiorul istoric în timp ce așteptați să treacă ploaia. Sfat: Verificați luminile bicicletei în acest loc uscat.",
-                "en": "Admire the historic interior while waiting out the rain. Tip: Use this dry stop to check your bike lights and adjust your rain pants."
+                "en": "Admire the historic interior while waiting out the rain. Tip: Use this dry stop to check your bike lights and adjust your rain pants.",
+                "fr": "Admirez l’intérieur historique tout en attendant que la pluie cesse. Astuce : profitez de cet arrêt au sec pour vérifier vos lumières de vélo et ajuster votre pantalon de pluie."
               }
             },
             {
@@ -482,13 +531,15 @@
                 "de": "Chaussée des Moines",
                 "hu": "Chaussée des Moines",
                 "ro": "Chaussée des Moines",
-                "en": "Chaussée des Moines"
+                "en": "Chaussée des Moines",
+                "fr": "Chaussée des Moines"
               },
               "tip_5lang": {
                 "de": "Fahren Sie vorsichtig an den Flussschleusen vorbei. Tipp: Steigen Sie ab, wenn das alte Kopfsteinpflaster durch den Regen zu glatt ist.",
                 "hu": "Tekerjen óvatosan a lenyűgöző folyami zsilipek mellett. Tipp: Szálljon le, ha a régi macskakő túl csúszós a folyamatos esőtől.",
                 "ro": "Ciclism cu atenție pe lângă ecluze. Sfat: Descălecați dacă pietrele cubice vechi par prea alunecoase de la ploaia continuă.",
-                "en": "Cycle carefully past the impressive river locks. Tip: Dismount if the ancient cobblestones look too slick from the continuous rain."
+                "en": "Cycle carefully past the impressive river locks. Tip: Dismount if the ancient cobblestones look too slick from the continuous rain.",
+                "fr": "Roulezz prudemment le long des impressionnantes écluses. Astuce : descendez de vélo si les pavés anciens semblent trop glissants à cause de la pluie continue."
               }
             },
             {
@@ -496,13 +547,15 @@
                 "de": "Moulin de Gautron",
                 "hu": "Moulin de Gautron",
                 "ro": "Moulin de Gautron",
-                "en": "Moulin de Gautron"
+                "en": "Moulin de Gautron",
+                "fr": "Moulin de Gautron"
               },
               "tip_5lang": {
                 "de": "Trocknen Sie sich in diesem faszinierenden Gebäude ab. Tipp: Parken Sie Ihr Rad unter einem Vordach, um den Sattel trocken zu halten.",
                 "hu": "Száradjon meg ebben a lenyűgöző műemléképületben. Tipp: Parkolja le a biciklit az eresz alá, hogy a nyereg száraz maradjon.",
                 "ro": "Uscați-vă în această clădire de patrimoniu. Sfat: Parcați bicicleta sub o streașină pentru a menține șaua uscată în timpul vizitei.",
-                "en": "Dry off inside this fascinating heritage building. Tip: Park your bike under the nearby eaves to keep your saddle dry during the visit."
+                "en": "Dry off inside this fascinating heritage building. Tip: Park your bike under the nearby eaves to keep your saddle dry during the visit.",
+                "fr": "Séchez-vous à l’intérieur de ce bâtiment patrimonial fascinant. Astuce : garez votre vélo sous les avant-toits voisins pour garder votre selle sèche pendant la visite."
               }
             },
             {
@@ -510,13 +563,15 @@
                 "de": "Loiry-Park",
                 "hu": "Loiry Park",
                 "ro": "Parcul Loiry",
-                "en": "Loiry Park"
+                "en": "Loiry Park",
+                "fr": "Parc de Loiry"
               },
               "tip_5lang": {
                 "de": "Genießen Sie die regennasse Parklandschaft. Tipp: Fahren Sie langsam, um ein Wegrutschen der Reifen auf nassen Blättern zu vermeiden.",
                 "hu": "Gyönyörködjön az eső áztatta parkban. Tipp: Tekerjen lassan, hogy a nedves faleveleken megcsúszó kerekek ne okozzanak balesetet.",
                 "ro": "Admirați peisajul parcului îmbibat de ploaie. Sfat: Mergeți încet pentru a preveni derapajul anvelopelor pe frunzele ude.",
-                "en": "Take in the lush, rain-soaked park scenery. Tip: Ride slowly through the park to prevent your tires from skidding on wet fallen leaves."
+                "en": "Take in the lush, rain-soaked park scenery. Tip: Ride slowly through the park to prevent your tires from skidding on wet fallen leaves.",
+                "fr": "Appréciez le paysage luxuriant imbibé de pluie du parc. Astuce : roulez lentement dans le parc pour éviter que vos pneus ne dérapent sur les feuilles mouillées tombées au sol."
               }
             },
             {
@@ -524,13 +579,15 @@
                 "de": "Quiz-Spiel",
                 "hu": "Kvízjáték",
                 "ro": "Joc de quiz",
-                "en": "Quiz game"
+                "en": "Quiz game",
+                "fr": "Jeu-questionnaire"
               },
               "tip_5lang": {
                 "de": "Schalten Sie mit dieser Indoor-Herausforderung einen Gang runter. Tipp: Perfekt, um sich zu unterhalten, während der Regen prasselt.",
                 "hu": "Váltson sebességet ezzel a teljesen beltéri kihívással. Tipp: Fantasztikus módja a szórakozásnak, míg kint szakad az eső.",
                 "ro": "Schimbați ritmul cu această provocare de interior. Sfat: Un mod fantastic de a vă distra în timp ce ploaia torențială trece peste oraș.",
-                "en": "Switch gears with this fully indoor trivia challenge. Tip: A fantastic way to stay entertained while a heavy rain cell passes over the city."
+                "en": "Switch gears with this fully indoor trivia challenge. Tip: A fantastic way to stay entertained while a heavy rain cell passes over the city.",
+                "fr": "Changez d’ambiance avec ce défi de trivia entièrement en intérieur. Astuce : une excellente façon de rester diverti pendant le passage d’un gros épisode pluvieux sur la ville."
               }
             },
             {
@@ -538,13 +595,15 @@
                 "de": "EVA - Virtuelle Esports-Arenen",
                 "hu": "EVA - Esports Virtuális Arénák",
                 "ro": "EVA - Arene Virtuale de Esports",
-                "en": "EVA - Esports Virtual Arenas"
+                "en": "EVA - Esports Virtual Arenas",
+                "fr": "EVA - Esports Virtual Arenas"
               },
               "tip_5lang": {
                 "de": "Beenden Sie Ihre nasse Fahrt in dieser VR-Arena. Tipp: Ziehen Sie im Umkleideraum Ihre nassen Radsachen aus, bevor das Spiel beginnt.",
                 "hu": "Zárja esős túráját ebben a magával ragadó VR arénában. Tipp: A játék megkezdése előtt vegye le a nedves biciklis ruhákat az öltözőben.",
                 "ro": "Încheiați cursa umedă în această arenă VR. Sfat: Schimbați-vă straturile umede de ciclism la vestiar înainte de a începe jocul.",
-                "en": "End your rainy ride in this immersive VR arena. Tip: Change out of your wet cycling layers in the locker room before starting the game."
+                "en": "End your rainy ride in this immersive VR arena. Tip: Change out of your wet cycling layers in the locker room before starting the game.",
+                "fr": "Terminez votre sortie pluvieuse dans cette arène VR immersive. Astuce : changez vos couches de cyclisme mouillées dans le vestiaire avant de commencer la partie."
               }
             }
           ]
@@ -554,7 +613,8 @@
             "de": "Beginnen Sie die eisige Fahrt zum Aufwärmen in der Kirche. Treten Sie mittags kräftig in die Pedale. Verbringen Sie den späten Nachmittag drinnen vor der Kälte. Um 17:00 Uhr geht die Sonne unter.",
             "hu": "Kezdje a fagyos kerékpározást a templom melegében. Tekerjen intenzíven délben, hogy meleg maradjon. A késő délutánt töltse bent, menekülve a hideg elől. 17:00-ra lemegy a nap, zárva a túrát.",
             "ro": "Începeți cursa rece cu o încălzire în biserică. Pedați viguros la prânz pentru a vă menține cald pe râu. Petreceți după-amiaza târzie înăuntru, feriți de frig. La 17:00 soarele apune.",
-            "en": "Start your freezing ride with a warm-up in the church. Pedal vigorously at noon to stay warm along the scenic river. Spend the late afternoon indoors escaping the biting cold. By 17:00, the sun sets, ending your icy adventure."
+            "en": "Start your freezing ride with a warm-up in the church. Pedal vigorously at noon to stay warm along the scenic river. Spend the late afternoon indoors escaping the biting cold. By 17:00, the sun sets, ending your icy adventure.",
+            "fr": "Commencez votre sortie glaciale par un échauffement à l’église. Pédalez vigoureusement à midi pour rester au chaud le long de la rivière pittoresque. Passez la fin d’après-midi à l’intérieur pour échapper au froid mordant. À 17:00, le soleil se couche, mettant fin à votre aventure glacée."
           },
           "stops": [
             {
@@ -562,13 +622,15 @@
                 "de": "Saint-Martin Kirche",
                 "hu": "Saint-Martin templom",
                 "ro": "Biserica Saint-Martin",
-                "en": "Saint-Martin Church"
+                "en": "Saint-Martin Church",
+                "fr": "Église Saint-Martin"
               },
               "tip_5lang": {
                 "de": "Starten Sie Ihre kalte Fahrt mit der historischen Architektur. Tipp: Dehnen Sie sich kurz im Vorbau, bevor Sie sich auf den Sattel schwingen.",
                 "hu": "Kezdje csípős túráját a történelmi építészet megcsodálásával. Tipp: Végezzen gyors bemelegítést a tornácon, mielőtt nyeregbe pattan.",
                 "ro": "Începeți cursa rece admirând arhitectura. Sfat: Faceți o scurtă încălzire în interior înainte de a urca pe șaua rece a bicicletei.",
-                "en": "Start your chilly ride by admiring the historic architecture. Tip: Do a quick warm-up stretch inside the porch before hitting the cold saddle."
+                "en": "Start your chilly ride by admiring the historic architecture. Tip: Do a quick warm-up stretch inside the porch before hitting the cold saddle.",
+                "fr": "Commencez votre sortie fraîche en admirant l’architecture historique. Astuce : faites un bref étirement d’échauffement sur le porche avant de monter en selle par le froid."
               }
             },
             {
@@ -576,13 +638,15 @@
                 "de": "Chaussée des Moines",
                 "hu": "Chaussée des Moines",
                 "ro": "Chaussée des Moines",
-                "en": "Chaussée des Moines"
+                "en": "Chaussée des Moines",
+                "fr": "Chaussée des Moines"
               },
               "tip_5lang": {
                 "de": "Fahren Sie am Fluss entlang, während Morgenfrost an den Ufern haftet. Tipp: Vorsicht vor Glatteis; tragen Sie isolierte Radhandschuhe.",
                 "hu": "Tekerjen a folyó mentén a reggeli fagyban. Tipp: Óvakodjon az alattomos jégfoltoktól a kövezett részeken; viseljen bélelt kesztyűt.",
                 "ro": "Mergeți de-a lungul râului, cu bruma dimineții pe maluri. Sfat: Atenție la gheața neagră de pe porțiunile pavate; purtați mănuși izolate.",
-                "en": "Ride along the river as morning frost clings to the banks. Tip: Beware of black ice on the paved sections; wear insulated cycling gloves."
+                "en": "Ride along the river as morning frost clings to the banks. Tip: Beware of black ice on the paved sections; wear insulated cycling gloves.",
+                "fr": "Roulezz le long de la rivière tandis que le givre matinal s’accroche aux berges. Astuce : méfiez-vous du verglas noir sur les sections pavées ; portez des gants cyclistes isolants."
               }
             },
             {
@@ -590,13 +654,15 @@
                 "de": "Moulin de Gautron",
                 "hu": "Moulin de Gautron",
                 "ro": "Moulin de Gautron",
-                "en": "Moulin de Gautron"
+                "en": "Moulin de Gautron",
+                "fr": "Moulin de Gautron"
               },
               "tip_5lang": {
                 "de": "Machen Sie eine wohlverdiente Pause im Kulturzentrum. Tipp: Holen Sie sich ein warmes Getränk, um Ihre Körpertemperatur zu erhöhen.",
                 "hu": "Tartson egy jól megérdemelt pihenőt a kulturális központban. Tipp: Ha teheti, igyon egy forró italt a maghőmérséklet növelésére.",
                 "ro": "Faceți o pauză bine meritată în centrul cultural. Sfat: Luați o băutură caldă din apropiere pentru a vă crește temperatura corpului.",
-                "en": "Take a well-deserved break inside the cultural center. Tip: Grab a warm drink nearby if possible to raise your core body temperature."
+                "en": "Take a well-deserved break inside the cultural center. Tip: Grab a warm drink nearby if possible to raise your core body temperature.",
+                "fr": "Accordez-vous une pause bien méritée à l’intérieur du centre culturel. Astuce : prenez une boisson chaude à proximité si possible pour élever votre température corporelle."
               }
             },
             {
@@ -604,13 +670,15 @@
                 "de": "Loiry-Park",
                 "hu": "Loiry Park",
                 "ro": "Parcul Loiry",
-                "en": "Loiry Park"
+                "en": "Loiry Park",
+                "fr": "Parc de Loiry"
               },
               "tip_5lang": {
                 "de": "Radeln Sie durch die wunderschöne Winterlandschaft. Tipp: Behalten Sie eine stetige Trittfrequenz bei, um im Wind Wärme zu erzeugen.",
                 "hu": "Tekerjen át a kietlen, mégis gyönyörű téli tájon. Tipp: Tartson egyenletes pedálozási tempót, hogy a teste hőt termeljen a szélben.",
                 "ro": "Ciclați prin peisajul de iarnă rece și frumos. Sfat: Mențineți o cadență constantă la pedalare pentru a vă menține corpul cald în vânt.",
-                "en": "Cycle through the stark, beautiful winter landscape. Tip: Maintain a steady pedaling cadence to keep your body generating heat in the wind."
+                "en": "Cycle through the stark, beautiful winter landscape. Tip: Maintain a steady pedaling cadence to keep your body generating heat in the wind.",
+                "fr": "Parcourez le paysage hivernal sobre et magnifique. Astuce : maintenez une cadence de pédalage régulière pour continuer à générer de la chaleur face au vent."
               }
             },
             {
@@ -618,13 +686,15 @@
                 "de": "Quiz-Spiel",
                 "hu": "Kvízjáték",
                 "ro": "Joc de quiz",
-                "en": "Quiz game"
+                "en": "Quiz game",
+                "fr": "Jeu-questionnaire"
               },
               "tip_5lang": {
                 "de": "Gönnen Sie Ihren Beinen eine Pause bei einem Indoor-Trivia-Spiel. Tipp: Eine perfekte Nachmittagsaktivität bei sinkenden Temperaturen.",
                 "hu": "Pihentesse fagyos lábait egy beltéri kvízjátékkal. Tipp: Tökéletes délutáni program, ahogy a kinti hőmérséklet drasztikusan esni kezd.",
                 "ro": "Oferiți picioarelor înghețate o pauză cu un joc de interior. Sfat: O activitate perfectă de după-amiază când temperatura exterioară scade.",
-                "en": "Give your frozen legs a rest with an indoor trivia game. Tip: A perfect afternoon activity as the outdoor temperature drops significantly."
+                "en": "Give your frozen legs a rest with an indoor trivia game. Tip: A perfect afternoon activity as the outdoor temperature drops significantly.",
+                "fr": "Offrez un repos à vos jambes gelées avec un jeu de trivia en intérieur. Astuce : une activité d’après-midi parfaite lorsque la température extérieure chute considérablement."
               }
             },
             {
@@ -632,13 +702,15 @@
                 "de": "EVA - Virtuelle Esports-Arenen",
                 "hu": "EVA - Esports Virtuális Arénák",
                 "ro": "EVA - Arene Virtuale de Esports",
-                "en": "EVA - Esports Virtual Arenas"
+                "en": "EVA - Esports Virtual Arenas",
+                "fr": "EVA - Esports Virtual Arenas"
               },
               "tip_5lang": {
                 "de": "Beenden Sie den Tag mit VR-Action, um in Schwung zu kommen. Tipp: Die frühe Dämmerung bedeutet, dass die Heimfahrt im Dunkeln stattfindet.",
                 "hu": "Zárja a napot intenzív VR akcióval, ami felpezsdíti a vérét. Tipp: A kora téli sötétedés miatt a hazautat már sötétben kell megtennie.",
                 "ro": "Terminați cu o acțiune VR intensă pentru a vă pune sângele în mișcare. Sfat: Amurgul timpuriu înseamnă că plimbarea spre casă va fi pe întuneric.",
-                "en": "Finish with intense indoor VR action to get your blood pumping. Tip: The early winter dusk means your ride home will be in full darkness."
+                "en": "Finish with intense indoor VR action to get your blood pumping. Tip: The early winter dusk means your ride home will be in full darkness.",
+                "fr": "Terminez par une action VR intense en intérieur pour faire circuler votre sang. Astuce : la tombée de la nuit hivernale précoce signifie que votre retour se fera en pleine obscurité."
               }
             }
           ]
@@ -658,7 +730,8 @@
             "de": "Saint-Martin Kirche",
             "hu": "Saint-Martin templom",
             "ro": "Biserica Saint-Martin",
-            "en": "Saint-Martin Church"
+            "en": "Saint-Martin Church",
+            "fr": "Église Saint-Martin"
           },
           "coords": [
             -1.47278,
@@ -673,7 +746,8 @@
             "de": "Bewundern Sie die wunderschöne neugotische Architektur dieser historischen Kirche und werfen Sie einen Blick auf ihren hohen Turm, bevor Sie den Stadtkern erkunden.",
             "hu": "Csodálja meg ennek a történelmi templomnak a gyönyörű neogótikus építészetét, és figyelje meg a magas tornyát, mielőtt elkezdené felfedezni a városközpontot.",
             "ro": "Admirați arhitectura neogotică superbă a acestei biserici istorice și observați turla sa impunătoare înainte de a explora centrul liniștit al orașului.",
-            "en": "Admire the beautiful neo-Gothic architecture of this historic church and take a moment to notice its towering spire before exploring the town center."
+            "en": "Admire the beautiful neo-Gothic architecture of this historic church and take a moment to notice its towering spire before exploring the town center.",
+            "fr": "Admirez la belle architecture néo-gothique de cette église historique et prenez un instant pour remarquer sa flèche imposante avant d’explorer le centre-ville."
           }
         },
         {
@@ -681,7 +755,8 @@
             "de": "Chaussée des Moines",
             "hu": "Chaussée des Moines",
             "ro": "Chaussée des Moines",
-            "en": "Chaussée des Moines"
+            "en": "Chaussée des Moines",
+            "fr": "Chaussée des Moines"
           },
           "coords": [
             -1.481122,
@@ -696,7 +771,8 @@
             "de": "Spazieren Sie über diesen alten Mönchsdamm, um seine historische Ingenieurskunst zu würdigen, und machen Sie tolle Fotos vom ruhigen Fluss Sèvre Nantaise.",
             "hu": "Sétáljon végig ezen az ősi szerzetesi gáton, hogy megcsodálja történelmi mérnöki munkáját, és készítsen lenyűgöző fotókat a békés Sèvre Nantaise folyóról.",
             "ro": "Plimbați-vă de-a lungul acestui vechi dig al călugărilor pentru a-i aprecia ingineria istorică și a face fotografii uimitoare cu râul liniștit Sèvre Nantaise.",
-            "en": "Stroll along this ancient monks' causeway to appreciate its historical engineering and capture stunning photos of the tranquil Sèvre Nantaise river."
+            "en": "Stroll along this ancient monks' causeway to appreciate its historical engineering and capture stunning photos of the tranquil Sèvre Nantaise river.",
+            "fr": "Promenez-vous le long de cette ancienne chaussée de moines pour apprécier son ingénierie historique et capturer de superbes photos de la tranquille rivière Sèvre Nantaise."
           }
         },
         {
@@ -704,7 +780,8 @@
             "de": "Moulin de Gautron",
             "hu": "Moulin de Gautron",
             "ro": "Moulin de Gautron",
-            "en": "Moulin de Gautron"
+            "en": "Moulin de Gautron",
+            "fr": "Moulin de Gautron"
           },
           "coords": [
             -1.482051,
@@ -719,7 +796,8 @@
             "de": "Erkunden Sie diese ehemalige Mühle, die heute ein Kulturraum ist, um lokale Kunstausstellungen zu entdecken, und prüfen Sie den Veranstaltungsplan vorab.",
             "hu": "Fedezze fel ezt a kulturális térré alakított egykori malmot a helyi művészeti kiállításokért, és előzetesen ellenőrizze az eseménynaptárat a programokhoz.",
             "ro": "Explorați această fostă moară transformată în spațiu cultural pentru a descoperi expoziții de artă locale și verificați programul evenimentelor în prealabil.",
-            "en": "Explore this former mill turned cultural space to uncover local art exhibitions, and be sure to check the event schedule beforehand to catch a unique workshop."
+            "en": "Explore this former mill turned cultural space to uncover local art exhibitions, and be sure to check the event schedule beforehand to catch a unique workshop.",
+            "fr": "Explorez cet ancien moulin transformé en espace culturel pour découvrir des expositions d’art locales, et n’oubliez pas de consulter le programme des événements à l’avance pour assister à un atelier unique."
           }
         },
         {
@@ -727,7 +805,8 @@
             "de": "Loiry-Park",
             "hu": "Loiry Park",
             "ro": "Parcul Loiry",
-            "en": "Loiry Park"
+            "en": "Loiry Park",
+            "fr": "Parc de Loiry"
           },
           "coords": [
             -1.477441,
@@ -742,7 +821,8 @@
             "de": "Genießen Sie einen erholsamen Spaziergang durch die weitläufigen Grünflächen dieses Uferparks und bringen Sie ein kleines Picknick für die ruhige Natur mit.",
             "hu": "Élvezze a pihentető sétát ennek a folyóparti parknak a hatalmas zöldterületein, és hozzon magával egy könnyű pikniket, hogy teljesen kiélvezze a természetet.",
             "ro": "Bucurați-vă de o plimbare relaxantă prin spațiile verzi întinse ale acestui parc de pe malul râului și luați un mic picnic pentru a savura natura liniștită.",
-            "en": "Enjoy a relaxing walk through the expansive green spaces of this riverside park, packing a light picnic to fully savor the peaceful natural surroundings."
+            "en": "Enjoy a relaxing walk through the expansive green spaces of this riverside park, packing a light picnic to fully savor the peaceful natural surroundings.",
+            "fr": "Profitez d’une promenade relaxante à travers les vastes espaces verts de ce parc riverain ; emportez un léger pique-nique pour savourer pleinement ce havre de paix naturel."
           }
         },
         {
@@ -750,7 +830,8 @@
             "de": "Quiz-Spiel",
             "hu": "Kvízjáték",
             "ro": "Joc de quiz",
-            "en": "Quiz game"
+            "en": "Quiz game",
+            "fr": "Jeu-questionnaire"
           },
           "coords": [
             -1.482832,
@@ -765,7 +846,8 @@
             "de": "Fordern Sie Ihre Freunde und Familie zu einem interaktiven Quiz-Erlebnis heraus und buchen Sie Ihre Sitzung im Voraus, um sich an Wochenenden einen Platz zu sichern.",
             "hu": "Hívja ki barátait és családját egy interaktív kvíz élményre, de mindenképpen foglaljon időpontot előre, hogy biztosítsa helyét a forgalmas hétvégi délutánokon.",
             "ro": "Provocați-vă prietenii și familia la o experiență interactivă de quiz, având grijă să rezervați sesiunea în avans pentru a vă asigura un loc la sfârșit de săptămână.",
-            "en": "Challenge your friends and family to an interactive quiz experience, making sure to book your session in advance to secure a spot during busy weekend afternoons."
+            "en": "Challenge your friends and family to an interactive quiz experience, making sure to book your session in advance to secure a spot during busy weekend afternoons.",
+            "fr": "Défiez vos amis et votre famille avec une expérience de quiz interactive ; pensez à réserver votre session à l’avance pour garantir une place lors des après-midis de week-end très fréquentés."
           }
         },
         {
@@ -773,7 +855,8 @@
             "de": "EVA - Virtuelle Esports-Arenen",
             "hu": "EVA - Esports Virtuális Arénák",
             "ro": "EVA - Arene Virtuale de Esports",
-            "en": "EVA - Esports Virtual Arenas"
+            "en": "EVA - Esports Virtual Arenas",
+            "fr": "EVA - Esports Virtual Arenas"
           },
           "coords": [
             -1.484295,
@@ -788,7 +871,8 @@
             "de": "Tauchen Sie in ein immersives Virtual-Reality-Abenteuer ein, das Teamarbeit erfordert, und tragen Sie bequeme Kleidung, um sich in der Arena frei zu bewegen.",
             "hu": "Merüljön el egy magával ragadó virtuális valóság kalandban, amely csapatmunkát igényel, és viseljen kényelmes ruhát, hogy szabadon mozoghasson a játéktérben.",
             "ro": "Pătrundeți într-o aventură captivantă de realitate virtuală care necesită muncă în echipă și purtați haine confortabile pentru a vă mișca liber în arena imensă.",
-            "en": "Dive into an immersive virtual reality adventure that requires teamwork and quick reflexes, wearing comfortable clothes to move freely across the large gaming arena."
+            "en": "Dive into an immersive virtual reality adventure that requires teamwork and quick reflexes, wearing comfortable clothes to move freely across the large gaming arena.",
+            "fr": "Plongez dans une aventure de réalité virtuelle immersive requérant travail d’équipe et réflexes rapides ; portez des vêtements confortables pour pouvoir vous déplacer librement dans la vaste arène de jeu."
           }
         },
         {
@@ -796,7 +880,8 @@
             "de": "Hafen der Chaussée",
             "hu": "Chaussée kikötő",
             "ro": "Portul Chaussée",
-            "en": "Port of the Chaussée"
+            "en": "Port of the Chaussée",
+            "fr": "Port de la Chaussée"
           },
           "coords": [
             -1.550157,
@@ -811,7 +896,8 @@
             "de": "Lassen Sie den Tag ausklingen, indem Sie die Boote an diesem malerischen Yachthafen beobachten, und nutzen Sie die Uferwege für einen Spaziergang bei Sonnenuntergang.",
             "hu": "Zárja a napot a festői kikötőben elhaladó hajók megfigyelésével, és használja ki a gyönyörű vízparti sétányokat egy békés naplemente körüli sétára vacsora előtt.",
             "ro": "Încheiați-vă ziua privind bărcile trecând pe la acest port pitoresc, profitând de potecile minunate de pe malul apei pentru o plimbare senină la apusul soarelui.",
-            "en": "End your day watching boats glide by at this picturesque marina, taking advantage of the lovely waterfront paths for a serene sunset stroll before dinner."
+            "en": "End your day watching boats glide by at this picturesque marina, taking advantage of the lovely waterfront paths for a serene sunset stroll before dinner.",
+            "fr": "Terminez votre journée en regardant les bateaux glisser à ce port pittoresque, et profitez des agréables chemins du front de mer pour une promenade au coucher du soleil avant le dîner."
           }
         }
       ],
@@ -819,7 +905,8 @@
         "de": "Beginnen Sie Ihren Morgen mit der Bewunderung der eleganten Kirche Saint-Martin, bevor Sie zur historischen Chaussée des Moines spazieren.\n\nGegen Mittag können Sie in die lokale Kulturszene in der Moulin de Gautron eintauchen und die nahen Erholungsgebiete am Fluss genießen.\n\nAm Nachmittag können Sie sich bei familienfreundlichen Spielen austoben oder im weitläufigen, ruhigen Loiry-Park wunderbar entspannen.\n\nBeenden Sie Ihren perfekten Tag mit einem beruhigenden Spaziergang am Wasser und genießen Sie die ruhige Abendatmosphäre bei Sonnenuntergang.",
         "hu": "Kezdje a reggelt az elegáns Saint-Martin templom megcsodálásával, mielőtt lesétálna a történelmi Chaussée des Moines gáthoz.\n\nDél körül merüljön el a helyi kulturális életben a Moulin de Gautronnál, és élvezze a folyó menti közeli kikapcsolódási lehetőségeket.\n\nDélután engedje el magát egy kis családbarát játékkal, vagy lazítson a Loiry Park hatalmas és békés zöldterületein.\n\nZárja ezt a tökéletes napot egy megnyugtató vízparti sétával, és élvezze a békés esti hangulatot, ahogy a nap leereszkedik Vertou felett.",
         "ro": "Începeți dimineața admirând eleganta biserică Saint-Martin înainte de a coborî spre istorica Chaussée des Moines.\n\nÎn jurul prânzului, pătrundeți în scena culturală locală la Moulin de Gautron și bucurați-vă de zonele de recreere din apropierea râului.\n\nDupă-amiaza, eliberați-vă energia cu jocuri potrivite pentru familie sau relaxați-vă în verdeața vastă și liniștită a Parcului Loiry.\n\nÎncheiați ziua perfectă cu o plimbare relaxantă pe malul apei, bucurându-vă de atmosfera senină de seară în timp ce soarele apune peste Vertou.",
-        "en": "Begin your morning by admiring the elegant Saint-Martin Church before walking down to the historic Chaussée des Moines.\n\nAround midday, dive into the local cultural scene at the Moulin de Gautron and enjoy the nearby recreational areas along the river.\n\nIn the afternoon, let loose with some family-friendly gaming or relax in the expansive, peaceful greenery of Loiry Park.\n\nConclude your perfect day with a calming stroll by the water, soaking in the serene evening atmosphere as the sun sets over Vertou."
+        "en": "Begin your morning by admiring the elegant Saint-Martin Church before walking down to the historic Chaussée des Moines.\n\nAround midday, dive into the local cultural scene at the Moulin de Gautron and enjoy the nearby recreational areas along the river.\n\nIn the afternoon, let loose with some family-friendly gaming or relax in the expansive, peaceful greenery of Loiry Park.\n\nConclude your perfect day with a calming stroll by the water, soaking in the serene evening atmosphere as the sun sets over Vertou.",
+        "fr": "Commencez votre matinée en admirant la élégante Église Saint-Martin avant de descendre vers la historique Chaussée des Moines.\n\nVers midi, imprégnez-vous de la scène culturelle locale au Moulin de Gautron et profitez des espaces de loisirs le long de la rivière.\n\nL’après-midi, amusez-vous avec des jeux en famille ou détendez-vous dans la vaste et paisible verdure du parc de Loiry.\n\nConcluez votre journée parfaite par une promenade apaisante au bord de l’eau, en savourant l’atmosphère sereine du soir tandis que le soleil se couche sur Vertou."
       },
       "variants": {
         "rainy": {
@@ -827,7 +914,8 @@
             "de": "Fahren Sie durch den regnerischen Morgen. Navigieren Sie mittags über nasse Straßen zu überdachten Mühlen. Verbringen Sie den Nachmittag trocken an Unterhaltungsorten. Genießen Sie abends die Lichter in den Pfützen.",
             "hu": "Vezessen az esős reggelen, csak a templomnál kiszállva. Navigáljon a nedves déli utakon a fedett malmokhoz. Töltse a délutánt teljesen szárazon, beltéri szórakozóhelyeken. Élvezze az esti fényeket a pocsolyákban.",
             "ro": "Conduceți în dimineața ploioasă, coborând doar la biserică. Navigați la prânz pe drumuri umede spre mori acoperite. Petreceți după-amiaza uscat în locuri de divertisment. Bucurați-vă seara de luminile reflectate în bălți.",
-            "en": "Drive through the rainy morning, stepping out only for the church. Navigate wet midday roads to reach covered historic mills. Spend your afternoon thoroughly dry at indoor entertainment spots. Enjoy the evening city lights reflecting on rain puddles."
+            "en": "Drive through the rainy morning, stepping out only for the church. Navigate wet midday roads to reach covered historic mills. Spend your afternoon thoroughly dry at indoor entertainment spots. Enjoy the evening city lights reflecting on rain puddles.",
+            "fr": "Parcourez la matinée pluvieuse en voiture, ne sortant que pour l’église. Naviguez sur des routes humides à midi pour atteindre des moulins historiques couverts. Passez votre après-midi bien au sec dans des lieux de divertissement intérieurs. Appréciez les lumières de la ville se reflétant dans les flaques de pluie en soirée."
           },
           "stops": [
             {
@@ -835,13 +923,15 @@
                 "de": "Saint-Martin Kirche",
                 "hu": "Saint-Martin templom",
                 "ro": "Biserica Saint-Martin",
-                "en": "Saint-Martin Church"
+                "en": "Saint-Martin Church",
+                "fr": "Église Saint-Martin"
               },
               "tip_5lang": {
                 "de": "Steigen Sie kurz aus, um das atemberaubende Schiff zu sehen. Tipp: Parken Sie nah und eilen Sie hinein, um dem Regen zu entgehen.",
                 "hu": "Szálljon ki rövid időre, hogy megnézze a lenyűgöző hajót. Tipp: Parkoljon a lehető legközelebb, és siessen be a reggeli eső elől.",
                 "ro": "Coborâți scurt pentru a vedea naosul uimitor. Sfat: Parcați cât mai aproape și grăbiți-vă înăuntru pentru a nu vă uda de ploaia matinală.",
-                "en": "Step out briefly to see the stunning nave. Tip: Park as close as possible and dash inside to avoid getting soaked by the morning rain."
+                "en": "Step out briefly to see the stunning nave. Tip: Park as close as possible and dash inside to avoid getting soaked by the morning rain.",
+                "fr": "Sortez brièvement pour voir la superbe nef. Astuce : garez-vous au plus près et courez à l’intérieur pour éviter d’être trempé par la pluie du matin."
               }
             },
             {
@@ -849,13 +939,15 @@
                 "de": "Chaussée des Moines",
                 "hu": "Chaussée des Moines",
                 "ro": "Chaussée des Moines",
-                "en": "Chaussée des Moines"
+                "en": "Chaussée des Moines",
+                "fr": "Chaussée des Moines"
               },
               "tip_5lang": {
                 "de": "Sehen Sie die Flussschleusen und das steigende Wasser. Tipp: Bringen Sie einen großen Schirm für den kurzen Weg vom Parkplatz mit.",
                 "hu": "Tekintse meg a folyami zsilipeket és az emelkedő vízszintet. Tipp: Hozzon magával egy nagy esernyőt a parkolóból induló rövid sétához.",
                 "ro": "Vedeți ecluzele și nivelul apei în creștere. Sfat: Aduceți o umbrelă mare în portbagaj pentru scurta plimbare de la parcare.",
-                "en": "View the river locks and rising water levels. Tip: Bring a large golf umbrella in the trunk for the short walk from the parking lot."
+                "en": "View the river locks and rising water levels. Tip: Bring a large golf umbrella in the trunk for the short walk from the parking lot.",
+                "fr": "Observez les écluses et la montée des eaux. Astuce : apportez un grand parapluie de golf dans le coffre pour la courte marche depuis le parking."
               }
             },
             {
@@ -863,13 +955,15 @@
                 "de": "Moulin de Gautron",
                 "hu": "Moulin de Gautron",
                 "ro": "Moulin de Gautron",
-                "en": "Moulin de Gautron"
+                "en": "Moulin de Gautron",
+                "fr": "Moulin de Gautron"
               },
               "tip_5lang": {
                 "de": "Entdecken Sie die lokale Geschichte in der Mühle. Tipp: Genießen Sie die trockenen Ausstellungen; halten Sie Ihre Autoschlüssel griffbereit.",
                 "hu": "Fedezze fel a helyi történelmet a helyreállított malomban. Tipp: Élvezze a száraz kiállításokat; tartsa kéznél az indítókulcsot.",
                 "ro": "Descoperiți istoria locală în interiorul morii restaurate. Sfat: Păstrați cheile mașinii la îndemână pentru a reveni rapid la vehicul.",
-                "en": "Discover local history inside the restored mill. Tip: Enjoy the dry exhibits; keep your car keys handy to quickly return to your vehicle."
+                "en": "Discover local history inside the restored mill. Tip: Enjoy the dry exhibits; keep your car keys handy to quickly return to your vehicle.",
+                "fr": "Découvrez l’histoire locale à l’intérieur du moulin restauré. Astuce : profitez des expositions au sec ; gardez vos clés de voiture à portée de main pour retourner rapidement au véhicule."
               }
             },
             {
@@ -877,13 +971,15 @@
                 "de": "Loiry-Park",
                 "hu": "Loiry Park",
                 "ro": "Parcul Loiry",
-                "en": "Loiry Park"
+                "en": "Loiry Park",
+                "fr": "Parc de Loiry"
               },
               "tip_5lang": {
                 "de": "Bewundern Sie die neblige Parklandschaft. Tipp: Lassen Sie die Heizung auf niedriger Stufe laufen, um beschlagene Scheiben zu vermeiden.",
                 "hu": "Csodálja meg a ködös park táját az ablakokból. Tipp: Hagyja az autófűtést alacsony fokozaton, hogy az ablakok ne párásodjanak be.",
                 "ro": "Admirați peisajul parcului cețos din ferestre. Sfat: Mențineți încălzirea mașinii la minim pentru a dezaburi geamurile în timp ce priviți.",
-                "en": "Admire the misty park landscape from the windows. Tip: Keep the car heating on low to defog the windows while you enjoy the views."
+                "en": "Admire the misty park landscape from the windows. Tip: Keep the car heating on low to defog the windows while you enjoy the views.",
+                "fr": "Admirez le paysage brumeux du parc depuis les vitres. Astuce : maintenez le chauffage de la voiture à faible puissance pour désembuer les vitres pendant que vous profitez de la vue."
               }
             },
             {
@@ -891,13 +987,15 @@
                 "de": "Quiz-Spiel",
                 "hu": "Kvízjáték",
                 "ro": "Joc de quiz",
-                "en": "Quiz game"
+                "en": "Quiz game",
+                "fr": "Jeu-questionnaire"
               },
               "tip_5lang": {
                 "de": "Tauchen Sie in eine spannende Indoor-Trivia-Session ein. Tipp: Parken Sie direkt vor dem Ort, um trocken vom Auto ins Spiel zu wechseln.",
                 "hu": "Merüljön el egy izgalmas beltéri kvízben. Tipp: Parkoljon közvetlenül az épület előtt a száraz autóból a játékba való zökkenőmentes átmenetért.",
                 "ro": "Bucurați-vă de o sesiune interesantă de trivia la interior. Sfat: Parcați direct afară pentru a face trecerea fluidă de la mașina uscată la joc.",
-                "en": "Dive into an exciting indoor trivia session. Tip: Park directly outside the venue to seamlessly transition from your dry car to the game."
+                "en": "Dive into an exciting indoor trivia session. Tip: Park directly outside the venue to seamlessly transition from your dry car to the game.",
+                "fr": "Plongez dans une session de trivia en intérieur passionnante. Astuce : garez-vous juste devant le lieu pour passer sans effort de votre voiture au jeu au sec."
               }
             },
             {
@@ -905,13 +1003,15 @@
                 "de": "EVA - Virtuelle Esports-Arenen",
                 "hu": "EVA - Esports Virtuális Arénák",
                 "ro": "EVA - Arene Virtuale de Esports",
-                "en": "EVA - Esports Virtual Arenas"
+                "en": "EVA - Esports Virtual Arenas",
+                "fr": "EVA - Esports Virtual Arenas"
               },
               "tip_5lang": {
                 "de": "Erleben Sie High-Tech-VR-Gaming im Trockenen. Tipp: Lassen Sie Ihre sperrige Regenkleidung im Kofferraum, um sich frei zu bewegen.",
                 "hu": "Tapasztalja meg a csúcstechnológiás VR játékot teljesen bent. Tipp: Hagyja a terjedelmes esőruhát a csomagtartóban a szabad mozgásért.",
                 "ro": "Experimentați jocurile VR high-tech în întregime în interior. Sfat: Lăsați hainele de ploaie voluminoase în portbagaj pentru a vă mișca liber.",
-                "en": "Experience high-tech VR gaming entirely indoors. Tip: Leave your bulky rain gear in the car trunk so you can move freely in the arena."
+                "en": "Experience high-tech VR gaming entirely indoors. Tip: Leave your bulky rain gear in the car trunk so you can move freely in the arena.",
+                "fr": "Vivez une expérience de jeu VR high-tech entièrement en intérieur. Astuce : laissez vos vêtements de pluie encombrants dans le coffre pour pouvoir bouger librement dans l’arène."
               }
             },
             {
@@ -919,13 +1019,15 @@
                 "de": "Hafen der Chaussée",
                 "hu": "Chaussée kikötő",
                 "ro": "Portul Chaussée",
-                "en": "Port of the Chaussée"
+                "en": "Port of the Chaussée",
+                "fr": "Port de la Chaussée"
               },
               "tip_5lang": {
                 "de": "Beobachten Sie tanzende Regentropfen auf dem Fluss. Tipp: Bleiben Sie im Auto und genießen Sie die romantische Atmosphäre am Wasser.",
                 "hu": "Figyelje, ahogy az esőcseppek táncolnak a folyó felszínén. Tipp: Maradjon kényelmesen az autóban, és élvezze a romantikus esős hangulatot.",
                 "ro": "Urmăriți picăturile de ploaie dansând pe suprafața râului. Sfat: Rămâneți confortabil în mașină și bucurați-vă de atmosfera romantică.",
-                "en": "Watch the raindrops dance on the river surface. Tip: Stay cozy inside the car and enjoy the romantic, rainy waterfront atmosphere."
+                "en": "Watch the raindrops dance on the river surface. Tip: Stay cozy inside the car and enjoy the romantic, rainy waterfront atmosphere.",
+                "fr": "Regardez les gouttes de pluie danser à la surface de la rivière. Astuce : restez au chaud dans la voiture et profitez de l’atmosphère romantique du front de mer sous la pluie."
               }
             }
           ]
@@ -935,7 +1037,8 @@
             "de": "Genießen Sie das beheizte Auto an einem frostigen Morgen. Machen Sie mittags Spaziergänge am eisigen Fluss. Besuchen Sie nachmittags gemütliche Indoor-Orte. Beobachten Sie den Sonnenuntergang um 17:00 Uhr aus dem Auto.",
             "hu": "Élvezze a fűtött autót a fagyos reggelen a templomnál. Tegyen frissítő déli sétákat a jeges folyó mentén. Irány a hangulatos beltéri játék a délutáni hideg beálltával. Nézze a 17:00-es naplementét a meleg autóból.",
             "ro": "Bucurați-vă de mașina încălzită într-o dimineață geroasă. Faceți plimbări la prânz de-a lungul râului înghețat. Mergeți spre jocuri de interior când se lasă frigul. Priviți apusul de la 17:00 din mașina caldă.",
-            "en": "Enjoy the heated car on a frosty morning near the church. Take brisk midday walks along the icy river before retreating to the warmth. Head to cozy indoor gaming spots as the afternoon chill sets in. Watch the 17:00 sunset paint the sky from your warm car."
+            "en": "Enjoy the heated car on a frosty morning near the church. Take brisk midday walks along the icy river before retreating to the warmth. Head to cozy indoor gaming spots as the afternoon chill sets in. Watch the 17:00 sunset paint the sky from your warm car.",
+            "fr": "Profitez de la voiture chauffée un matin glacial près de l’église. Faites des promenades vives le midi le long de la rivière glacée avant de retourner au chaud. Rejoignez des lieux de jeux intérieurs confortables lorsque la fraîcheur de l’après-midi s’installe. Regardez le coucher de soleil de 17:00 peindre le ciel depuis votre voiture chauffée."
           },
           "stops": [
             {
@@ -943,13 +1046,15 @@
                 "de": "Saint-Martin Kirche",
                 "hu": "Saint-Martin templom",
                 "ro": "Biserica Saint-Martin",
-                "en": "Saint-Martin Church"
+                "en": "Saint-Martin Church",
+                "fr": "Église Saint-Martin"
               },
               "tip_5lang": {
                 "de": "Verlassen Sie das warme Auto für das ruhige Kircheninnere. Tipp: Der Motor ist bei Ihrer Rückkehr nach dem kurzen Besuch noch warm.",
                 "hu": "Lépjen ki a meleg autóból a békés templombelsőbe. Tipp: A motor még mindig meleg lesz, amikor visszatér a rövid látogatásról.",
                 "ro": "Ieșiți din mașina caldă pentru a vedea interiorul senin al bisericii. Sfat: Motorul va fi încă cald la întoarcerea din scurta vizită.",
-                "en": "Step out of your warm car to see the serene church interior. Tip: The engine will still be warm when you return from your short visit."
+                "en": "Step out of your warm car to see the serene church interior. Tip: The engine will still be warm when you return from your short visit.",
+                "fr": "Sortez de votre voiture chaude pour voir l’intérieur serein de l’église. Astuce : le moteur sera encore chaud à votre retour de la courte visite."
               }
             },
             {
@@ -957,13 +1062,15 @@
                 "de": "Chaussée des Moines",
                 "hu": "Chaussée des Moines",
                 "ro": "Chaussée des Moines",
-                "en": "Chaussée des Moines"
+                "en": "Chaussée des Moines",
+                "fr": "Chaussée des Moines"
               },
               "tip_5lang": {
                 "de": "Bewundern Sie die eisige Flusslandschaft ohne langen Marsch. Tipp: Lassen Sie den dicken Wintermantel im Auto offen für schnelle Stopps.",
                 "hu": "Csodálja meg a jeges folyami tájat hosszú túra nélkül. Tipp: Tartsa kigombolva vastag télikabátját az autóban, készen a gyors megállókra.",
                 "ro": "Admirați peisajul înghețat al râului fără o drumeție lungă. Sfat: Păstrați haina groasă de iarnă descheiată în mașină pentru opriri rapide.",
-                "en": "Admire the icy river scenery without enduring a long trek. Tip: Keep your thick winter coat unzipped in the car, ready for quick stops."
+                "en": "Admire the icy river scenery without enduring a long trek. Tip: Keep your thick winter coat unzipped in the car, ready for quick stops.",
+                "fr": "Admirez le paysage riverain glacé sans faire une longue marche. Astuce : gardez votre épais manteau d’hiver entrouvert dans la voiture, prêt pour des arrêts rapides."
               }
             },
             {
@@ -971,13 +1078,15 @@
                 "de": "Moulin de Gautron",
                 "hu": "Moulin de Gautron",
                 "ro": "Moulin de Gautron",
-                "en": "Moulin de Gautron"
+                "en": "Moulin de Gautron",
+                "fr": "Moulin de Gautron"
               },
               "tip_5lang": {
                 "de": "Besuchen Sie die lokalen Ausstellungen ganz bequem. Tipp: Parken Sie direkt am Gebäude, um die Kältezeit zu minimieren.",
                 "hu": "Látogassa meg kényelmesen a helyi örökséget bemutató kiállításokat. Tipp: Parkoljon közvetlenül az épület mellett a hideg elkerüléséért.",
                 "ro": "Vizitați expozițiile de patrimoniu local în confort. Sfat: Parcați direct adiacent clădirii pentru a minimiza expunerea la frigul iernii.",
-                "en": "Visit the local heritage exhibits in comfort. Tip: Park directly adjacent to the building to minimize your time exposed to the winter chill."
+                "en": "Visit the local heritage exhibits in comfort. Tip: Park directly adjacent to the building to minimize your time exposed to the winter chill.",
+                "fr": "Visitez les expositions patrimoniales locales confortablement. Astuce : garez-vous juste à côté du bâtiment pour minimiser votre exposition au froid hivernal."
               }
             },
             {
@@ -985,13 +1094,15 @@
                 "de": "Loiry-Park",
                 "hu": "Loiry Park",
                 "ro": "Parcul Loiry",
-                "en": "Loiry Park"
+                "en": "Loiry Park",
+                "fr": "Parc de Loiry"
               },
               "tip_5lang": {
                 "de": "Genießen Sie bei einem kurzen Spaziergang die frostigen Parkanlagen. Tipp: Kehren Sie schnell ins Auto zurück, wenn der Wind auffrischt.",
                 "hu": "Élvezze a fagyos parkot egy rövid séta során. Tipp: Térjen vissza gyorsan az előmelegített autóba, ha a téli szél feltámadna.",
                 "ro": "Bucurați-vă de parcul acoperit de brumă într-o scurtă plimbare. Sfat: Întoarceți-vă rapid la mașina preîncălzită dacă vântul de iarnă se intensifică.",
-                "en": "Enjoy the frost-covered park grounds during a brief stroll. Tip: Return to the pre-heated car quickly if the winter wind picks up."
+                "en": "Enjoy the frost-covered park grounds during a brief stroll. Tip: Return to the pre-heated car quickly if the winter wind picks up.",
+                "fr": "Profitez des sols du parc couverts de givre lors d’une brève promenade. Astuce : retournez rapidement à la voiture préchauffée si le vent d’hiver se lève."
               }
             },
             {
@@ -999,13 +1110,15 @@
                 "de": "Quiz-Spiel",
                 "hu": "Kvízjáték",
                 "ro": "Joc de quiz",
-                "en": "Quiz game"
+                "en": "Quiz game",
+                "fr": "Jeu-questionnaire"
               },
               "tip_5lang": {
                 "de": "Fordern Sie Ihren Geist mit familienfreundlichem Trivia heraus. Tipp: Ein hervorragender gemütlicher Rückzugsort vor dem frühen Sonnenuntergang.",
                 "hu": "Tegye próbára elméjét egy családbarát beltéri kvízzel. Tipp: Kiváló, hangulatos menedék, ahogy a téli nap elkezdi korai ereszkedését.",
                 "ro": "Provocați-vă mintea cu un joc trivia de familie în interior. Sfat: Un refugiu excelent și confortabil înainte ca soarele de iarnă să apună.",
-                "en": "Challenge your mind with family-friendly indoor trivia. Tip: An excellent cozy retreat as the winter sun begins its early descent."
+                "en": "Challenge your mind with family-friendly indoor trivia. Tip: An excellent cozy retreat as the winter sun begins its early descent.",
+                "fr": "Mettez votre esprit au défi avec un trivia familial en intérieur. Astuce : un excellent refuge chaleureux alors que le soleil hivernal commence sa descente précoce."
               }
             },
             {
@@ -1013,13 +1126,15 @@
                 "de": "EVA - Virtuelle Esports-Arenen",
                 "hu": "EVA - Esports Virtuális Arénák",
                 "ro": "EVA - Arene Virtuale de Esports",
-                "en": "EVA - Esports Virtual Arenas"
+                "en": "EVA - Esports Virtual Arenas",
+                "fr": "EVA - Esports Virtual Arenas"
               },
               "tip_5lang": {
                 "de": "Springen Sie in aktives VR-Gaming, um die Kälte zu vergessen. Tipp: Perfekt für die dunklen Stunden nach 17:00 Uhr.",
                 "hu": "Ugorjon fejest az aktív VR játékba, hogy teljesen elfelejtse a hideget. Tipp: Tökéletes program a 17:00 utáni sötét órákra.",
                 "ro": "Săriți în jocurile VR active pentru a uita complet de frig. Sfat: Perfect pentru orele întunecate de după 17:00, când turismul exterior nu mai e o opțiune.",
-                "en": "Jump into active VR gaming to completely forget the cold. Tip: Perfect for the dark hours after 17:00 when outdoor touring is no longer viable."
+                "en": "Jump into active VR gaming to completely forget the cold. Tip: Perfect for the dark hours after 17:00 when outdoor touring is no longer viable.",
+                "fr": "Plongez dans des jeux VR actifs pour oublier complètement le froid. Astuce : parfait pour les heures sombres après 17:00 lorsque les visites extérieures ne sont plus envisageables."
               }
             },
             {
@@ -1027,13 +1142,15 @@
                 "de": "Hafen der Chaussée",
                 "hu": "Chaussée kikötő",
                 "ro": "Portul Chaussée",
-                "en": "Port of the Chaussée"
+                "en": "Port of the Chaussée",
+                "fr": "Port de la Chaussée"
               },
               "tip_5lang": {
                 "de": "Sehen Sie die Lichter der Stadt auf dem dunklen, eisigen Fluss. Tipp: Bleiben Sie im beheizten Auto und hören Sie Musik.",
                 "hu": "Nézze a városi fények tükröződését a sötét, jeges folyón. Tipp: Maradjon a fűtött autóban zenét hallgatva, és élvezze az esti vízpartot.",
                 "ro": "Vedeți luminile orașului reflectându-se pe râul întunecat și înghețat. Sfat: Rămâneți în mașina încălzită, ascultând muzică pe malul apei.",
-                "en": "View the city lights reflecting on the dark, icy river. Tip: Stay in the heated car, listening to music while enjoying the evening waterfront."
+                "en": "View the city lights reflecting on the dark, icy river. Tip: Stay in the heated car, listening to music while enjoying the evening waterfront.",
+                "fr": "Admirez les lumières de la ville se refléter sur la rivière sombre et glacée. Astuce : restez dans la voiture chauffée en écoutant de la musique tout en profitant du front de mer en soirée."
               }
             }
           ]

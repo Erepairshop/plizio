@@ -21,7 +21,8 @@
             "de": "Thermen von Divonne",
             "hu": "Divonne-i Termálfürdő",
             "ro": "Băile Termale din Divonne",
-            "en": "Thermes de Divonne"
+            "en": "Thermes de Divonne",
+            "fr": "Thermes de Divonne"
           },
           "coords": [
             6.137798,
@@ -36,7 +37,8 @@
             "de": "Entspannen Sie im historischen Thermalwasser, das die Stadt berühmt gemacht hat, und buchen Sie Ihre Wellnessbehandlung in der Hochsaison frühzeitig.",
             "hu": "Pihenjen a történelmi termálvizekben, amelyek a várost híressé tették, és főszezonban jó előre foglalja le a kívánt wellness-kezeléseket.",
             "ro": "Relaxați-vă în apele termale istorice care au făcut orașul faimos și asigurați-vă că rezervați tratamentul spa cu mult timp înainte în sezonul de vârf.",
-            "en": "Relax in the historic thermal waters that made the town famous, and be sure to book your spa treatment well in advance during peak season."
+            "en": "Relax in the historic thermal waters that made the town famous, and be sure to book your spa treatment well in advance during peak season.",
+            "fr": "Détendez-vous dans les eaux thermales historiques qui ont rendu la ville célèbre, et pensez à réserver votre soin au spa bien à l'avance en haute saison."
           }
         },
         {
@@ -44,7 +46,8 @@
             "de": "Kasino von Divonne",
             "hu": "Divonne-i Kaszinó",
             "ro": "Cazinoul din Divonne",
-            "en": "Casino de Divonne"
+            "en": "Casino de Divonne",
+            "fr": "Casino de Divonne"
           },
           "coords": [
             6.137696,
@@ -59,7 +62,8 @@
             "de": "Versuchen Sie Ihr Glück im renommierten Casino mit eleganten Spielsälen, aber bringen Sie einen gültigen Ausweis mit und kleiden Sie sich elegant.",
             "hu": "Tegye próbára szerencséjét a tekintélyes kaszinó elegáns játéktermeiben, de ne felejtsen el érvényes igazolványt és elegáns ruhát hozni a belépéshez.",
             "ro": "Încercați-vă norocul la prestigiosul cazinou cu săli de jocuri elegante, dar amintiți-vă să aduceți un act de identitate valabil și să vă îmbrăcați elegant.",
-            "en": "Try your luck at the prestigious casino featuring elegant gaming rooms, but remember to bring a valid ID and dress smartly to ensure entry."
+            "en": "Try your luck at the prestigious casino featuring elegant gaming rooms, but remember to bring a valid ID and dress smartly to ensure entry.",
+            "fr": "Tentez votre chance au prestigieux casino aux élégantes salles de jeu, mais n'oubliez pas d'apporter une pièce d'identité valide et de vous habiller correctement pour être admis."
           }
         },
         {
@@ -67,7 +71,8 @@
             "de": "Zentralpark",
             "hu": "Központi Park",
             "ro": "Parcul Central",
-            "en": "Central Park"
+            "en": "Central Park",
+            "fr": "Central Park"
           },
           "coords": [
             6.136633,
@@ -82,7 +87,8 @@
             "de": "Schlendern Sie durch diese charmante Grünanlage im Herzen der Stadt und bringen Sie etwas Brot mit, um die Enten am malerischen Teich zu füttern.",
             "hu": "Sétáljon át ezen a bájos zöld területen a város szívében, és hozzon magával egy kis kenyeret, hogy megetesse a kacsákat a festői tónál.",
             "ro": "Plimbați-vă prin acest spațiu verde fermecător din inima orașului, aducând niște pâine pentru a hrăni rațele de la micul iaz pitoresc.",
-            "en": "Stroll through this charming green space in the heart of town, bringing some bread to feed the ducks at the small picturesque pond."
+            "en": "Stroll through this charming green space in the heart of town, bringing some bread to feed the ducks at the small picturesque pond.",
+            "fr": "Promenez-vous dans ce charmant espace vert au cœur de la ville, en apportant du pain pour nourrir les canards du petit étang pittoresque."
           }
         },
         {
@@ -90,7 +96,8 @@
             "de": "Schloss Divonne",
             "hu": "Divonne Kastély",
             "ro": "Castelul Divonne",
-            "en": "Château de Divonne"
+            "en": "Château de Divonne",
+            "fr": "Château de Divonne"
           },
           "coords": [
             6.13389,
@@ -105,7 +112,8 @@
             "de": "Bewundern Sie die klassische Architektur und die atemberaubende Landschaft dieses historischen Anwesens, das die perfekte Kulisse für Panoramafotos bietet.",
             "hu": "Csodálja meg a klasszikus építészetet és a lenyűgöző tájat erről a történelmi birtokról, amely tökéletes hátteret nyújt az emlékezetes panorámaképekhez.",
             "ro": "Admirați arhitectura clasică și peisajul uimitor de la acest domeniu istoric, care oferă fundalul perfect pentru fotografii panoramice memorabile.",
-            "en": "Admire the classic architecture and stunning landscape from this historic estate, which offers the perfect backdrop for memorable panoramic photos."
+            "en": "Admire the classic architecture and stunning landscape from this historic estate, which offers the perfect backdrop for memorable panoramic photos.",
+            "fr": "Admirez l'architecture classique et le paysage superbe de ce domaine historique, qui offre le cadre parfait pour des photos panoramiques mémorables."
           }
         },
         {
@@ -113,7 +121,8 @@
             "de": "See von Divonne",
             "hu": "Divonne-tó",
             "ro": "Lacul Divonne",
-            "en": "Lac de Divonne"
+            "en": "Lac de Divonne",
+            "fr": "Lac de Divonne"
           },
           "coords": [
             6.152778,
@@ -128,7 +137,8 @@
             "de": "Genießen Sie einen ruhigen Spaziergang um den von Natur umgebenen künstlichen See und mieten Sie ein Tretboot für eine entspannte Zeit auf dem Wasser.",
             "hu": "Élvezze a csendes sétát a természettel körülvett mesterséges tó körül, és béreljen egy kis vízibiciklit egy pihentető időtöltéshez a vízen.",
             "ro": "Bucurați-vă de o plimbare liniștită în jurul lacului artificial înconjurat de natură și închiriați o mică hidrobicicletă pentru un timp relaxant pe apă.",
-            "en": "Enjoy a peaceful walk around the artificial lake surrounded by nature, and consider renting a small pedal boat for a relaxing time on the water."
+            "en": "Enjoy a peaceful walk around the artificial lake surrounded by nature, and consider renting a small pedal boat for a relaxing time on the water.",
+            "fr": "Profitez d'une promenade paisible autour du lac artificiel entouré par la nature, et envisagez de louer une petite pédalo pour un moment de détente sur l'eau."
           }
         }
       ],
@@ -136,7 +146,8 @@
         "de": "Beginnen Sie den Morgen in der heilenden Atmosphäre der berühmten Thermen. Mittags können Sie das elegante Flair im historischen Casino genießen und im zentralen Park entspannen. Der Nachmittag führt Sie hinauf zur majestätischen Burg mit herrlichem Panoramablick. Beenden Sie den Tag mit einem Spaziergang bei Sonnenuntergang um den See.",
         "hu": "Kezdje a reggelt a híres termálfürdők gyógyító hangulatával. Délben élvezze a város elegáns hangulatát a történelmi kaszinóban, és pihenjen a központi parkban. A délután a fenséges kastélyhoz vezet a lélegzetelállító panorámáért. Fejezze be a napot egy békés naplementés sétával a gyönyörű tó körül.",
         "ro": "Începeți dimineața absorbind ambianța vindecătoare a celebrelor băi termale. La amiază, bucurați-vă de vibrația elegantă la cazinoul istoric și relaxați-vă în parcul central. După-amiaza vă conduce la castelul maiestuos pentru vederi panoramice. Încheiați ziua cu o plimbare senină la apus în jurul frumosului lac.",
-        "en": "Start your morning absorbing the healing ambiance of the famous thermal baths. By midday, embrace the town's elegant vibe at the historic casino and relax in the central park. The afternoon leads you uphill to the majestic castle for panoramic views. Finish the day with a serene sunset stroll around the beautiful lake."
+        "en": "Start your morning absorbing the healing ambiance of the famous thermal baths. By midday, embrace the town's elegant vibe at the historic casino and relax in the central park. The afternoon leads you uphill to the majestic castle for panoramic views. Finish the day with a serene sunset stroll around the beautiful lake.",
+        "fr": "Commencez votre matinée en absorbant l'ambiance bienfaisante des célèbres thermes. À midi, adoptez l'élégance de la ville au casino historique et détendez-vous dans le parc central. L'après-midi vous mène en hauteur jusqu'au majestueux château pour des vues panoramiques. Terminez la journée par une paisible promenade au coucher du soleil autour du beau lac."
       },
       "variants": {
         "rainy": {
@@ -144,7 +155,8 @@
             "de": "Beginnen Sie den nassen Morgen entspannt in den historischen Thermalbädern. Suchen Sie mittags Schutz in der lebhaften Atmosphäre des Casinos. Machen Sie nachmittags mit dem Regenschirm einen kurzen Spaziergang durch den nebligen Zentralpark und zum eleganten Schloss. Beenden Sie den Tag am regnerischen See.",
             "hu": "Kezdje a nedves reggelt a történelmi termálfürdő melegében. Délben keressen menedéket a kaszinó nyüzsgő falai között. Délután tegyen egy rövid sétát a ködös központi parkban és az elegáns kastély udvarán, esernyővel a kézben. Zárásként élvezze az eső áztatta tó melankolikus, de gyönyörű hangulatát.",
             "ro": "Începeți dimineața ploioasă relaxându-vă în băile termale istorice. La prânz, adăpostiți-vă în atmosfera vibrantă a cazinoului. După-amiaza, faceți o scurtă plimbare cu umbrela prin parcul central cețos și pe domeniul elegant al castelului. Încheiați cu o plimbare plină de atmosferă pe malul lacului spălat de ploi.",
-            "en": "Start the damp morning relaxing inside the historic thermal baths. By midday, take shelter and enjoy the vibrant atmosphere of the casino. In the afternoon, brave the drizzle for a quick stroll through the misty central park and the elegant castle grounds. Conclude with a moody, atmospheric walk along the rain-swept lake."
+            "en": "Start the damp morning relaxing inside the historic thermal baths. By midday, take shelter and enjoy the vibrant atmosphere of the casino. In the afternoon, brave the drizzle for a quick stroll through the misty central park and the elegant castle grounds. Conclude with a moody, atmospheric walk along the rain-swept lake.",
+            "fr": "Commencez la matinée humide en vous détendant à l'intérieur des thermes historiques. À midi, abritez-vous et profitez de l'atmosphère animée du casino. L'après-midi, affrontez la bruine pour une courte balade dans le parc central brumeux et les élégants jardins du château. Concluez par une promenade atmosphérique le long du lac battu par la pluie."
           },
           "stops": [
             {
@@ -152,13 +164,15 @@
                 "de": "Thermen von Divonne",
                 "hu": "Divonne-i Termálfürdő",
                 "ro": "Băile Termale din Divonne",
-                "en": "Thermes de Divonne"
+                "en": "Thermes de Divonne",
+                "fr": "Thermes de Divonne"
               },
               "tip_5lang": {
                 "de": "Genießen Sie die warmen Innenbecken, um dem Morgenregen zu entfliehen und die Architektur im Trockenen zu bewundern.",
                 "hu": "Merüljön el a meleg benti medencékben a reggeli eső elől menekülve, miközben szárazon csodálhatja meg a belsőépítészetet.",
                 "ro": "Scufundați-vă în piscinele interioare calde pentru a scăpa de ploaia matinală, admirând arhitectura într-un mediu complet uscat.",
-                "en": "Soak in the warm indoor pools to completely escape the morning rain while admiring the elegant, historic interior architecture."
+                "en": "Soak in the warm indoor pools to completely escape the morning rain while admiring the elegant, historic interior architecture.",
+                "fr": "Plongez dans les bassins intérieurs chauds pour échapper complètement à la pluie matinale tout en admirant l'élégante architecture intérieure historique."
               }
             },
             {
@@ -166,13 +180,15 @@
                 "de": "Kasino von Divonne",
                 "hu": "Divonne-i Kaszinó",
                 "ro": "Cazinoul din Divonne",
-                "en": "Casino de Divonne"
+                "en": "Casino de Divonne",
+                "fr": "Casino de Divonne"
               },
               "tip_5lang": {
                 "de": "Das prachtvolle Innere bietet perfekten Schutz; trinken Sie etwas Warmes und beobachten Sie das Treiben an den Spieltischen.",
                 "hu": "A lenyűgöző belső tér tökéletes menedéket nyújt; igyon egy meleg italt, és figyelje a nyüzsgő játékasztalokat az eső elől elbújva.",
                 "ro": "Interiorul grandios oferă adăpost perfect; savurați o băutură caldă în timp ce urmăriți mesele animate, ferit de vremea urâtă.",
-                "en": "The grand interior offers perfect shelter and entertainment; grab a warm drink while watching the lively tables far from the drizzle."
+                "en": "The grand interior offers perfect shelter and entertainment; grab a warm drink while watching the lively tables far from the drizzle.",
+                "fr": "Le vaste intérieur offre un abri et des divertissements parfaits ; prenez une boisson chaude en regardant les tables animées loin de la bruine."
               }
             },
             {
@@ -180,13 +196,15 @@
                 "de": "Zentralpark",
                 "hu": "Központi Park",
                 "ro": "Parcul Central",
-                "en": "Central Park"
+                "en": "Central Park",
+                "fr": "Central Park"
               },
               "tip_5lang": {
                 "de": "Die Bäume bieten leichten Schutz, aber tragen Sie wasserfeste Schuhe für die nassen Wege und genießen Sie den frischen Erdgeruch.",
                 "hu": "A fák némi fedezéket nyújtanak, de viseljen vízálló cipőt a nedves ösvényeken a friss, eső áztatta földes illat élvezetéhez.",
                 "ro": "Copacii oferă o parțială acoperire, dar purtați încălțăminte impermeabilă pe aleile umede pentru a simți aerul proaspăt și pământesc.",
-                "en": "The trees provide partial cover, but wear waterproof shoes to navigate the wet paths and enjoy the fresh, earthy scent of the rain."
+                "en": "The trees provide partial cover, but wear waterproof shoes to navigate the wet paths and enjoy the fresh, earthy scent of the rain.",
+                "fr": "Les arbres offrent une protection partielle, mais portez des chaussures imperméables pour circuler sur les sentiers mouillés et profiter du parfum frais et terreux de la pluie."
               }
             },
             {
@@ -194,13 +212,15 @@
                 "de": "Schloss Divonne",
                 "hu": "Divonne Kastély",
                 "ro": "Castelul Divonne",
-                "en": "Château de Divonne"
+                "en": "Château de Divonne",
+                "fr": "Château de Divonne"
               },
               "tip_5lang": {
                 "de": "Bewundern Sie die Fassade unter dem Regenschirm; der nasse Stein verleiht dem historischen Anwesen ein dramatisches Flair.",
                 "hu": "Csodálja meg az impozáns homlokzatot esernyője alól; a csillogó, nedves kő drámai, romantikus hangulatot kölcsönöz a birtoknak.",
                 "ro": "Admirați fațada impunătoare de sub umbrelă; piatra umedă adaugă un fler dramatic și romantic acestui domeniu istoric grandios.",
-                "en": "Admire the imposing facade from beneath your umbrella; the wet stone adds a dramatic, romantic flair to the historic estate."
+                "en": "Admire the imposing facade from beneath your umbrella; the wet stone adds a dramatic, romantic flair to the historic estate.",
+                "fr": "Admirez la façade imposante sous votre parapluie ; la pierre mouillée ajoute une touche dramatique et romantique au domaine historique."
               }
             },
             {
@@ -208,13 +228,15 @@
                 "de": "See von Divonne",
                 "hu": "Divonne-tó",
                 "ro": "Lacul Divonne",
-                "en": "Lac de Divonne"
+                "en": "Lac de Divonne",
+                "fr": "Lac de Divonne"
               },
               "tip_5lang": {
                 "de": "Der See wirkt im Regen mystisch; bleiben Sie auf den gepflasterten Wegen, um Schlamm zu vermeiden, und tragen Sie eine Windjacke.",
                 "hu": "A tó misztikusnak tűnik az esőben; maradjon a kövezett részeken a sár elkerülése végett, és mindenképp viseljen esőkabátot.",
                 "ro": "Lacul arată mistic în ploaie; rămâneți pe secțiunile pavate pentru a evita noroiul și purtați o jachetă impermeabilă și caldă.",
-                "en": "The lake looks mystical in the rain; stick to the paved sections to avoid mud and make sure you bring a good waterproof windbreaker."
+                "en": "The lake looks mystical in the rain; stick to the paved sections to avoid mud and make sure you bring a good waterproof windbreaker.",
+                "fr": "Le lac a un air mystique sous la pluie ; tenez-vous sur les sections pavées pour éviter la boue et assurez-vous d'avoir un coupe-vent imperméable de qualité."
               }
             }
           ]
@@ -224,7 +246,8 @@
             "de": "Beginnen Sie den klaren Wintermorgen in den dampfenden Thermalbädern. Entfliehen Sie mittags der Kälte im warmen, glamourösen Casino. Machen Sie nachmittags einen flotten Spaziergang durch den frostigen Zentralpark und zum schneebedeckten Schloss. Beenden Sie die Tour am See, bevor der frühe Sonnenuntergang um 17 Uhr Schatten wirft.",
             "hu": "Kezdje a csípős téli reggelt a gőzölgő termálfürdőben. Dél körül lépjen be a meleg, elbűvölő kaszinóba, hogy elmeneküljön a hideg elől. Élvezze a frissítő délutáni sétát a dérrel borított központi parkban és a fenséges, hólepte kastély udvarán. Fejezze be a tónál a korai, 17 órás naplemente előtt.",
             "ro": "Începeți dimineața geroasă de iarnă în băile termale aburinde. În jurul prânzului, intrați în cazinoul cald și plin de farmec pentru a scăpa de frig. Bucurați-vă de o plimbare revigorantă de după-amiază prin parcul central înghețat și pe domeniul castelului nins. Terminați la lac înainte de apusul timpuriu de la ora 17:00.",
-            "en": "Start your crisp winter morning soaking in the steaming thermal baths. Around noon, step into the warm, glamorous casino to escape the chill. Enjoy a brisk afternoon walk through the frost-kissed central park and the majestic, snow-dusted castle grounds. Finish at the lake before the early 17:00 sunset casts long shadows."
+            "en": "Start your crisp winter morning soaking in the steaming thermal baths. Around noon, step into the warm, glamorous casino to escape the chill. Enjoy a brisk afternoon walk through the frost-kissed central park and the majestic, snow-dusted castle grounds. Finish at the lake before the early 17:00 sunset casts long shadows.",
+            "fr": "Commencez votre matinée hivernale en vous prélassant dans les thermes fumants. Vers midi, entrez dans le casino chaud et glamour pour échapper au froid. Profitez d'une marche tonique l'après-midi à travers le parc central givré et les jardins majestueux du château saupoudrés de neige. Terminez au lac avant que le coucher du soleil anticipé à 17:00 n'étire les ombres."
           },
           "stops": [
             {
@@ -232,13 +255,15 @@
                 "de": "Thermen von Divonne",
                 "hu": "Divonne-i Termálfürdő",
                 "ro": "Băile Termale din Divonne",
-                "en": "Thermes de Divonne"
+                "en": "Thermes de Divonne",
+                "fr": "Thermes de Divonne"
               },
               "tip_5lang": {
                 "de": "Der Kontrast zwischen der klirrenden Kälte draußen und dem dampfenden Thermalwasser ist pure Glückseligkeit zum Aufwärmen.",
                 "hu": "A kinti fagy és a gőzölgő ásványvíz kontrasztja tiszta boldogság; tökéletes hely a hideg test és a végtagok felmelegítésére.",
                 "ro": "Contrastul dintre frigul tăios de afară și apa minerală aburindă este o binecuvântare pură, perfectă pentru a vă încălzi profund.",
-                "en": "The contrast between the freezing cold outside and the steaming mineral water is pure bliss; it is the perfect spot to warm your core."
+                "en": "The contrast between the freezing cold outside and the steaming mineral water is pure bliss; it is the perfect spot to warm your core.",
+                "fr": "Le contraste entre le froid glacial extérieur et l'eau minérale fumante est un pur bonheur ; c'est l'endroit idéal pour réchauffer votre corps."
               }
             },
             {
@@ -246,13 +271,15 @@
                 "de": "Kasino von Divonne",
                 "hu": "Divonne-i Kaszinó",
                 "ro": "Cazinoul din Divonne",
-                "en": "Casino de Divonne"
+                "en": "Casino de Divonne",
+                "fr": "Casino de Divonne"
               },
               "tip_5lang": {
                 "de": "Eine stark beheizte Oase mit anspruchsvoller Architektur und lebhaften Spielen, um die eisigen Wintertemperaturen rasch zu vergessen.",
                 "hu": "Erősen fűtött beltéri menedék, amely kifinomult építészetet és élénk játékokat kínál, hogy teljesen elfeledtesse a kinti fagyot.",
                 "ro": "Un refugiu interior bine încălzit, oferind arhitectură sofisticată și jocuri animate pentru a uita complet de temperaturile scăzute.",
-                "en": "A highly heated indoor haven offering sophisticated architecture and lively games to help you completely forget the freezing temperatures."
+                "en": "A highly heated indoor haven offering sophisticated architecture and lively games to help you completely forget the freezing temperatures.",
+                "fr": "Un havre intérieur fortement chauffé offrant une architecture sophistiquée et des jeux animés pour faire complètement oublier les températures glaciales."
               }
             },
             {
@@ -260,13 +287,15 @@
                 "de": "Zentralpark",
                 "hu": "Központi Park",
                 "ro": "Parcul Central",
-                "en": "Central Park"
+                "en": "Central Park",
+                "fr": "Central Park"
               },
               "tip_5lang": {
                 "de": "Packen Sie sich warm ein; die kahlen, frostbedeckten Bäume bieten eine schöne Landschaft, aber der beißende Wind kühlt schnell aus.",
                 "hu": "Öltözzön fel vastag rétegekbe; a csupasz, dérrel borított fák gyönyörű tájat nyújtanak, de a fagyos szél csípős lehet séta közben.",
                 "ro": "Îmbrăcați-vă în straturi groase; copacii goi acoperiți de brumă oferă un peisaj frumos, dar vântul tăios de iarnă vă poate răci rapid.",
-                "en": "Bundle up in thick layers; the bare, frost-covered trees offer a beautiful stark landscape, but the winter wind can be quite biting."
+                "en": "Bundle up in thick layers; the bare, frost-covered trees offer a beautiful stark landscape, but the winter wind can be quite biting.",
+                "fr": "Couvrez-vous bien avec plusieurs couches ; les arbres nus couverts de givre offrent un beau paysage épuré, mais le vent hivernal peut être très mordant."
               }
             },
             {
@@ -274,13 +303,15 @@
                 "de": "Schloss Divonne",
                 "hu": "Divonne Kastély",
                 "ro": "Castelul Divonne",
-                "en": "Château de Divonne"
+                "en": "Château de Divonne",
+                "fr": "Château de Divonne"
               },
               "tip_5lang": {
                 "de": "Das weiche Winterlicht lässt das Schloss magisch wirken; achten Sie auf eisige Stellen auf den Wegen, wenn die Temperaturen sinken.",
                 "hu": "A lágy téli fény varázslatossá teszi a kastélyt; séta közben fokozottan vigyázzon a jeges foltokra a megközelítő ösvényeken.",
                 "ro": "Lumina blândă de iarnă face castelul să pară magic; aveți mare atenție la peticele de gheață de pe aleile de acces, foarte alunecoase.",
-                "en": "The low winter light makes the castle look magical; just be very careful of hidden icy patches on the approaching pathways as it cools."
+                "en": "The low winter light makes the castle look magical; just be very careful of hidden icy patches on the approaching pathways as it cools.",
+                "fr": "La lumière hivernale basse rend le château magique ; soyez simplement très prudent avec les plaques de verglas cachées sur les chemins d'accès qui se refroidissent."
               }
             },
             {
@@ -288,13 +319,15 @@
                 "de": "See von Divonne",
                 "hu": "Divonne-tó",
                 "ro": "Lacul Divonne",
-                "en": "Lac de Divonne"
+                "en": "Lac de Divonne",
+                "fr": "Lac de Divonne"
               },
               "tip_5lang": {
                 "de": "Gehen Sie zügig am teilweise zugefrorenen Ufer entlang und beenden Sie den Weg unbedingt vor dem dunklen Sonnenuntergang um 17 Uhr.",
                 "hu": "Sétáljon tempósan a részben befagyott part mentén, és mindenképp fejezze be a sétát a korai, sötétséget hozó 17 órás naplemente előtt.",
                 "ro": "Plimbați-vă alert pe marginea parțial înghețată, asigurându-vă că terminați înainte ca apusul brusc de la 17:00 să întunece zona complet.",
-                "en": "Walk briskly around the partially frozen edge, making sure to finish your loop before the early 17:00 sunset turns the area pitch black."
+                "en": "Walk briskly around the partially frozen edge, making sure to finish your loop before the early 17:00 sunset turns the area pitch black.",
+                "fr": "Marchez d'un bon pas autour du bord partiellement gelé en veillant à terminer votre boucle avant que le coucher du soleil anticipé à 17:00 ne plonge la zone dans l'obscurité."
               }
             }
           ]
@@ -314,7 +347,8 @@
             "de": "Golfplatz Divonne",
             "hu": "Divonne Golfpálya",
             "ro": "Terenul de Golf Divonne",
-            "en": "Golf de Divonne"
+            "en": "Golf de Divonne",
+            "fr": "Golf de Divonne"
           },
           "coords": [
             6.124346,
@@ -329,7 +363,8 @@
             "de": "Erleben Sie eine außergewöhnliche Golfrunde auf diesem makellosen Meisterschaftsplatz und reservieren Sie Ihre Startzeit an sonnigen Wochenenden früh.",
             "hu": "Tapasztaljon meg egy kivételes golfkört ezen a kifogástalan bajnoki pályán, és a napsütéses hétvégéken időben foglalja le a kezdési időpontot.",
             "ro": "Experimentați o rundă excepțională de golf pe acest teren de campionat impecabil, asigurându-vă că rezervați din timp ora de start în weekendurile însorite.",
-            "en": "Experience an exceptional round of golf at this pristine championship course, making sure to reserve your tee time early on sunny weekends."
+            "en": "Experience an exceptional round of golf at this pristine championship course, making sure to reserve your tee time early on sunny weekends.",
+            "fr": "Vivez une partie exceptionnelle sur ce parcours de championnat immaculé ; pensez à réserver votre départ tôt les week-ends ensoleillés."
           }
         },
         {
@@ -337,7 +372,8 @@
             "de": "Thermen von Divonne",
             "hu": "Divonne-i Termálfürdő",
             "ro": "Băile Termale din Divonne",
-            "en": "Thermes de Divonne"
+            "en": "Thermes de Divonne",
+            "fr": "Thermes de Divonne"
           },
           "coords": [
             6.137798,
@@ -352,7 +388,8 @@
             "de": "Entspannen Sie im historischen Thermalwasser, das die Stadt berühmt gemacht hat, und buchen Sie Ihre Wellnessbehandlung in der Hochsaison frühzeitig.",
             "hu": "Pihenjen a történelmi termálvizekben, amelyek a várost híressé tették, és főszezonban jó előre foglalja le a kívánt wellness-kezeléseket.",
             "ro": "Relaxați-vă în apele termale istorice care au făcut orașul faimos și asigurați-vă că rezervați tratamentul spa cu mult timp înainte în sezonul de vârf.",
-            "en": "Relax in the historic thermal waters that made the town famous, and be sure to book your spa treatment well in advance during peak season."
+            "en": "Relax in the historic thermal waters that made the town famous, and be sure to book your spa treatment well in advance during peak season.",
+            "fr": "Détendez-vous dans les eaux thermales historiques qui ont rendu la ville célèbre, et pensez à réserver votre soin au spa bien à l'avance en haute saison."
           }
         },
         {
@@ -360,7 +397,8 @@
             "de": "Zentralpark",
             "hu": "Központi Park",
             "ro": "Parcul Central",
-            "en": "Central Park"
+            "en": "Central Park",
+            "fr": "Central Park"
           },
           "coords": [
             6.136633,
@@ -375,7 +413,8 @@
             "de": "Schlendern Sie durch diese charmante Grünanlage im Herzen der Stadt und bringen Sie etwas Brot mit, um die Enten am malerischen Teich zu füttern.",
             "hu": "Sétáljon át ezen a bájos zöld területen a város szívében, és hozzon magával egy kis kenyeret, hogy megetesse a kacsákat a festői tónál.",
             "ro": "Plimbați-vă prin acest spațiu verde fermecător din inima orașului, aducând niște pâine pentru a hrăni rațele de la micul iaz pitoresc.",
-            "en": "Stroll through this charming green space in the heart of town, bringing some bread to feed the ducks at the small picturesque pond."
+            "en": "Stroll through this charming green space in the heart of town, bringing some bread to feed the ducks at the small picturesque pond.",
+            "fr": "Promenez-vous dans ce charmant espace vert au cœur de la ville, en apportant du pain pour nourrir les canards du petit étang pittoresque."
           }
         },
         {
@@ -383,7 +422,8 @@
             "de": "See von Divonne",
             "hu": "Divonne-tó",
             "ro": "Lacul Divonne",
-            "en": "Lac de Divonne"
+            "en": "Lac de Divonne",
+            "fr": "Lac de Divonne"
           },
           "coords": [
             6.152778,
@@ -398,7 +438,8 @@
             "de": "Genießen Sie einen ruhigen Spaziergang um den von Natur umgebenen künstlichen See und mieten Sie ein Tretboot für eine entspannte Zeit auf dem Wasser.",
             "hu": "Élvezze a csendes sétát a természettel körülvett mesterséges tó körül, és béreljen egy kis vízibiciklit egy pihentető időtöltéshez a vízen.",
             "ro": "Bucurați-vă de o plimbare liniștită în jurul lacului artificial înconjurat de natură și închiriați o mică hidrobicicletă pentru un timp relaxant pe apă.",
-            "en": "Enjoy a peaceful walk around the artificial lake surrounded by nature, and consider renting a small pedal boat for a relaxing time on the water."
+            "en": "Enjoy a peaceful walk around the artificial lake surrounded by nature, and consider renting a small pedal boat for a relaxing time on the water.",
+            "fr": "Profitez d'une promenade paisible autour du lac artificiel entouré par la nature, et envisagez de louer une petite pédalo pour un moment de détente sur l'eau."
           }
         },
         {
@@ -406,7 +447,8 @@
             "de": "Forestland",
             "hu": "Forestland Kalandpark",
             "ro": "Forestland",
-            "en": "Forestland"
+            "en": "Forestland",
+            "fr": "Forestland"
           },
           "coords": [
             6.15037,
@@ -421,7 +463,8 @@
             "de": "Fordern Sie sich in diesem abenteuerlichen Hochseilgarten heraus, tragen Sie bequeme Sportschuhe und bringen Sie Wasser für die anspruchsvollen Routen mit.",
             "hu": "Tegye próbára magát ebben a szórakoztató kalandparkban a lombok között, viseljen kényelmes sportcipőt és hozzon vizet a fizikailag megterhelő útvonalakhoz.",
             "ro": "Provocați-vă la acest parc de aventură distractiv în copaci, purtând încălțăminte sport confortabilă și aducând apă pentru traseele solicitante fizic.",
-            "en": "Challenge yourself at this fun-filled treetop adventure park, wearing comfortable sports shoes and bringing water for the physically demanding routes."
+            "en": "Challenge yourself at this fun-filled treetop adventure park, wearing comfortable sports shoes and bringing water for the physically demanding routes.",
+            "fr": "Relevez le défi dans ce parc aventure en hauteur plein de fun ; portez des chaussures de sport confortables et apportez de l'eau pour les parcours physiquement exigeants."
           }
         }
       ],
@@ -429,7 +472,8 @@
         "de": "Radeln Sie in den Tag auf dem prestigeträchtigen Golfplatz, umgeben von unberührter Natur. Die Mittagszeit bietet eine wohlverdiente Pause in den Thermen und im ruhigen zentralen Park. Genießen Sie am Nachmittag eine malerische Fahrt entlang des Seeufers. Den Abschluss bilden spannende Herausforderungen im Waldseilgarten.",
         "hu": "Kezdje a napot egy kerékpározással a tekintélyes golfpályán, az érintetlen természet ölelésében. A délidő jól megérdemelt pihenőt kínál a termálfürdőben és a békés parkban. Délután élvezze a festői utazást a tó partján, beszívva a friss levegőt. A napot a kalandpark izgalmas kihívásaival zárja.",
         "ro": "Pedalați în noul tău rând de zi la terenul de golf prestigios, înconjurat de natură. Amiaza oferă o pauză binemeritată la băile termale și în parcul central liniștit. După-amiaza, bucurați-vă de o plimbare pitorească de-a lungul lacului. Încheiați cu provocări interesante la parcul de aventură din copaci.",
-        "en": "Pedal into your day at the prestigious golf course, surrounded by pristine nature. Midday offers a well-deserved break at the thermal baths and the peaceful central park. In the afternoon, enjoy a scenic ride along the lake's shores, taking in the fresh air. Conclude with exciting challenges at the treetop adventure park."
+        "en": "Pedal into your day at the prestigious golf course, surrounded by pristine nature. Midday offers a well-deserved break at the thermal baths and the peaceful central park. In the afternoon, enjoy a scenic ride along the lake's shores, taking in the fresh air. Conclude with exciting challenges at the treetop adventure park.",
+        "fr": "Pédalez votre journée au prestigieux parcours de golf, entouré d'une nature immaculée. À midi, faites une pause bien méritée aux thermes et au parc central paisible. L'après-midi, profitez d'une balade panoramique le long des rives du lac et respirez l'air frais. Concluez par des défis excitants au parc aventure Forestland."
       },
       "variants": {
         "rainy": {
@@ -437,7 +481,8 @@
             "de": "Eine abenteuerliche Regenfahrt beginnt am nassen Golfplatz. Wärmen Sie sich in den Thermalbädern auf, bevor Sie vorsichtig zum Zentralpark radeln. Fahren Sie langsam auf den rutschigen Wegen zum nebelverhangenen See. Beenden Sie die Tour im Forestland und bewundern Sie die tropfenden Bäume von sicheren Wegen aus.",
             "hu": "Kalandos esős kerékpározás veszi kezdetét a nedves golfpályánál. Melegedjen fel a termálfürdőben, majd óvatosan tekerjen a központi parkba. Haladjon lassan a csúszós utakon a ködös tó felé. Zárja a nedves utazást a Forestlandnél, csodálva a sötét, csepegő fák hangulatát a biztonságos ösvényekről.",
             "ro": "O plimbare aventuroasă pe ploaie începe la terenul de golf umed. Încălziți-vă rapid în băile termale înainte de a naviga cu atenție spre parcul central. Bicicliți încet pe aleile alunecoase spre lacul acoperit de ceață. Încheiați călătoria la Forestland, admirând copacii întunecați și picurând de pe trasee sigure.",
-            "en": "An adventurous rainy ride starts at the lush, wet golf course. Warm up quickly inside the thermal baths before navigating carefully to the central park. Cycle slowly on the slippery paths to the mist-covered lake. Conclude the wet journey at Forestland, admiring the dark, atmospheric dripping trees from safe trails."
+            "en": "An adventurous rainy ride starts at the lush, wet golf course. Warm up quickly inside the thermal baths before navigating carefully to the central park. Cycle slowly on the slippery paths to the mist-covered lake. Conclude the wet journey at Forestland, admiring the dark, atmospheric dripping trees from safe trails.",
+            "fr": "Une aventure pluvieuse commence au parcours de golf luxuriant et mouillé. Réchauffez-vous rapidement à l'intérieur des thermes avant de vous rendre prudemment au parc central. Roulez lentement sur les chemins glissants jusqu'au lac couvert de brume. Concluez le parcours humide à Forestland en admirant les arbres dégoulinants et atmosphériques depuis des sentiers sûrs."
           },
           "stops": [
             {
@@ -445,13 +490,15 @@
                 "de": "Golfplatz Divonne",
                 "hu": "Divonne Golfpálya",
                 "ro": "Terenul de Golf Divonne",
-                "en": "Golf de Divonne"
+                "en": "Golf de Divonne",
+                "fr": "Golf de Divonne"
               },
               "tip_5lang": {
                 "de": "Die Fairways sind im Regen intensiv grün; tragen Sie eine wasserdichte Jacke und achten Sie auf tückisch rutschige Graskanten.",
                 "hu": "A pályák élénkzöldek az esőben; viseljen strapabíró vízálló dzsekit, és kerékpározás közben ügyeljen a csúszós füves szélekre.",
                 "ro": "Terenurile sunt intens verzi în ploaie; purtați o jachetă impermeabilă solidă și atenție la marginile ierboase extrem de alunecoase.",
-                "en": "The fairways are intensely green in the rain; wear a solid waterproof jacket and watch out for slick, slippery grassy edges on the path."
+                "en": "The fairways are intensely green in the rain; wear a solid waterproof jacket and watch out for slick, slippery grassy edges on the path.",
+                "fr": "Les fairways sont d’un vert intense sous la pluie ; portez une veste imperméable solide et méfiez-vous des bords herbeux glissants le long du chemin."
               }
             },
             {
@@ -459,13 +506,15 @@
                 "de": "Thermen von Divonne",
                 "hu": "Divonne-i Termálfürdő",
                 "ro": "Băile Termale din Divonne",
-                "en": "Thermes de Divonne"
+                "en": "Thermes de Divonne",
+                "fr": "Thermes de Divonne"
               },
               "tip_5lang": {
                 "de": "Ein perfekter Zwischenstopp im Trockenen, um Ihre Muskeln im heißen Thermalwasser aufzuwärmen, bevor Sie wieder in den Regen radeln.",
                 "hu": "Tökéletes beltéri pihenő, hogy megszáradjon és felmelegítse izmait a termálvízben, mielőtt kerékpárjával újra nekivágna az esőnek.",
                 "ro": "O oprire perfectă la interior pentru a vă usca și a vă încălzi mușchii în apele termale fierbinți înainte de a înfrunta din nou ploaia.",
-                "en": "A perfect indoor pit-stop to completely dry off and reheat your muscles in the thermal waters before braving the rain again on your bike."
+                "en": "A perfect indoor pit-stop to completely dry off and reheat your muscles in the thermal waters before braving the rain again on your bike.",
+                "fr": "Un arrêt intérieur parfait pour se sécher complètement et réchauffer vos muscles dans les eaux thermales avant d’affronter de nouveau la pluie à vélo."
               }
             },
             {
@@ -473,13 +522,15 @@
                 "de": "Zentralpark",
                 "hu": "Központi Park",
                 "ro": "Parcul Central",
-                "en": "Central Park"
+                "en": "Central Park",
+                "fr": "Central Park"
               },
               "tip_5lang": {
                 "de": "Nasses Laub auf den Radwegen kann extrem rutschig sein; bremsen Sie sehr sanft und genießen Sie die regengewaschene Ruhe der Bäume.",
                 "hu": "A nedves falevelek a kerékpárutakon rendkívül csúszósak; fékezzen nagyon óvatosan, és élvezze a fák eső áztatta, békés nyugalmát.",
                 "ro": "Frunzele umede de pe pistele de biciclete pot fi periculoase; frânați foarte ușor și bucurați-vă de liniștea copacilor spălați de ploaie.",
-                "en": "The wet leaves on the cycle paths can be extremely treacherous; always brake gently and enjoy the quiet, rain-washed tranquility of the trees."
+                "en": "The wet leaves on the cycle paths can be extremely treacherous; always brake gently and enjoy the quiet, rain-washed tranquility of the trees.",
+                "fr": "Les feuilles mouillées sur les pistes cyclables peuvent être extrêmement traîtresses ; freinez toujours doucement et profitez de la tranquillité lavée par la pluie des arbres."
               }
             },
             {
@@ -487,13 +538,15 @@
                 "de": "See von Divonne",
                 "hu": "Divonne-tó",
                 "ro": "Lacul Divonne",
-                "en": "Lac de Divonne"
+                "en": "Lac de Divonne",
+                "fr": "Lac de Divonne"
               },
               "tip_5lang": {
                 "de": "Der dichte Nebel über dem Wasser ist fotogen, aber schalten Sie unbedingt Ihr helles Fahrradlicht ein, um gut gesehen zu werden.",
                 "hu": "A vízről felszálló sűrű köd hihetetlenül fotogén, de a láthatóság érdekében feltétlenül kapcsolja be a kerékpár lámpáit a borús időben.",
                 "ro": "Ceața de pe apă este incredibil de fotogenică, dar asigurați-vă obligatoriu că luminile bicicletei sunt aprinse în această vreme mohorâtă.",
-                "en": "The heavy mist rolling off the water is highly photogenic, but ensure your bike lights are fully on for visibility in the gloomy weather."
+                "en": "The heavy mist rolling off the water is highly photogenic, but ensure your bike lights are fully on for visibility in the gloomy weather.",
+                "fr": "La brume épaisse qui se dégage de l’eau est très photogénique, mais assurez-vous que vos feux de vélo sont bien allumés pour la visibilité par temps sombre."
               }
             },
             {
@@ -501,13 +554,15 @@
                 "de": "Forestland",
                 "hu": "Forestland Kalandpark",
                 "ro": "Forestland",
-                "en": "Forestland"
+                "en": "Forestland",
+                "fr": "Forestland"
               },
               "tip_5lang": {
                 "de": "Das dichte Blätterdach bietet Regenschutz; bleiben Sie auf den festen Schotterwegen, da Erdwege bei Nässe extrem schlammig werden.",
                 "hu": "A sűrű lombkorona némi védelmet nyújt; maradjon a szilárd kavicsos utakon, mivel az erdei földutak az esőtől rendkívül sárosak lesznek.",
                 "ro": "Coronamentul dens oferă protecție împotriva ploii; rămâneți strict pe drumurile cu pietriș, cele de pământ devenind foarte noroioase.",
-                "en": "The dense canopy offers some rain protection; stick exclusively to the solid gravel tracks as the dirt trails will be completely muddy."
+                "en": "The dense canopy offers some rain protection; stick exclusively to the solid gravel tracks as the dirt trails will be completely muddy.",
+                "fr": "Le dense couvert végétal offre une certaine protection contre la pluie ; tenez-vous exclusivement aux pistes en gravier compact car les sentiers en terre seront complètement boueux."
               }
             }
           ]
@@ -517,7 +572,8 @@
             "de": "Eine eisige Winterfahrt beginnt am frostigen Golfplatz. Suchen Sie schnell Zuflucht in den dampfenden Thermalbädern. Trotzen Sie nachmittags der Kälte durch den schönen Zentralpark und an den eisigen Ufern des Sees. Beenden Sie Ihre Fahrt im Forestland frühzeitig, bevor um 17:00 Uhr die Dunkelheit hereinbricht.",
             "hu": "Fagyos, de gyönyörű téli kerékpározás indul a deres golfpályáról. Gyorsan keressen menedéket a gőzölgő termálfürdőben. Délután dacoljon a csípős hideggel a zord, mégis szép központi parkon át a tó jeges partjáig. Fejezze be a tekerést a Forestlandnél korán, mielőtt a 17 órás sötétség leszállna.",
             "ro": "O plimbare înghețată, dar frumoasă de iarnă începe la terenul de golf cu brumă. Căutați rapid refugiu în băile termale. După-amiaza, înfruntați frigul pătrunzător prin parcul central și de-a lungul marginilor înghețate ale lacului. Terminați plimbarea la Forestland înainte de întunericul timpuriu de la 17:00.",
-            "en": "A freezing but beautiful winter ride starts at the frosty golf course. Quickly seek refuge in the steaming thermal baths. In the afternoon, brave the biting cold through the starkly beautiful central park and along the icy edges of the lake. End your ride early at Forestland before the 17:00 darkness hits."
+            "en": "A freezing but beautiful winter ride starts at the frosty golf course. Quickly seek refuge in the steaming thermal baths. In the afternoon, brave the biting cold through the starkly beautiful central park and along the icy edges of the lake. End your ride early at Forestland before the 17:00 darkness hits.",
+            "fr": "Une balade hivernale glaciale mais magnifique commence au terrain de golf givré. Cherchez rapidement refuge dans les bains thermaux fumants. L’après‑midi, affrontez le froid mordant à travers le parc central aux allures dépouillées et le long des rives glacées du lac. Terminez votre sortie tôt à Forestland avant que l’obscurité n’arrive à 17:00."
           },
           "stops": [
             {
@@ -525,13 +581,15 @@
                 "de": "Golfplatz Divonne",
                 "hu": "Divonne Golfpálya",
                 "ro": "Terenul de Golf Divonne",
-                "en": "Golf de Divonne"
+                "en": "Golf de Divonne",
+                "fr": "Golf de Divonne"
               },
               "tip_5lang": {
                 "de": "Die verschneiten Grüns sind atemberaubend schön, aber tragen Sie dicke Handschuhe – der kalte Wind auf dem Fahrrad ist hier extrem.",
                 "hu": "A kiterjedt havas vagy deres zöldfelületek lélegzetelállítóak, de viseljen vastag kesztyűt, mert a menetszél itt csontig hatolóan hideg.",
                 "ro": "Terenurile înzăpezite sunt uluitoare, dar purtați obligatoriu mănuși groase—vântul rece resimțit pe bicicletă aici este necruțător.",
-                "en": "The expansive snowy or frosted greens are breathtaking, but wear thick gloves—the windchill while on the bike here is significant."
+                "en": "The expansive snowy or frosted greens are breathtaking, but wear thick gloves—the windchill while on the bike here is significant.",
+                "fr": "Les vastes greens enneigés ou givrés sont à couper le souffle, mais portez des gants épais — la sensation de froid due au vent à vélo y est importante."
               }
             },
             {
@@ -539,13 +597,15 @@
                 "de": "Thermen von Divonne",
                 "hu": "Divonne-i Termálfürdő",
                 "ro": "Băile Termale din Divonne",
-                "en": "Thermes de Divonne"
+                "en": "Thermes de Divonne",
+                "fr": "Thermes de Divonne"
               },
               "tip_5lang": {
                 "de": "Schließen Sie das Rad an und tauchen Sie ins heiße Wasser, um Ihre steif gefrorenen Finger und Zehen vor der Weiterfahrt aufzutauen.",
                 "hu": "Zárja le biztonságosan kerékpárját, és merüljön a forró vízbe, hogy teljesen felolvassza fagyott ujjait a dermesztő túra folytatása előtt.",
                 "ro": "Legați bicicleta în siguranță și scufundați-vă în apele fierbinți pentru a vă dezgheța complet degetele înghețate înainte de a continua.",
-                "en": "Lock your bike up safely and plunge into the hot waters to completely unthaw your frozen fingers and toes before braving the cold again."
+                "en": "Lock your bike up safely and plunge into the hot waters to completely unthaw your frozen fingers and toes before braving the cold again.",
+                "fr": "Attachez bien votre vélo et plongez dans les eaux chaudes pour dégeler complètement vos doigts et orteils gelés avant de reprendre le froid."
               }
             },
             {
@@ -553,13 +613,15 @@
                 "de": "Zentralpark",
                 "hu": "Központi Park",
                 "ro": "Parcul Central",
-                "en": "Central Park"
+                "en": "Central Park",
+                "fr": "Central Park"
               },
               "tip_5lang": {
                 "de": "Achten Sie auf gefährliches Glatteis auf den schattigen Wegen; die blätterlosen Bäume lassen die Wintersonne lange Schatten werfen.",
                 "hu": "Kormányozzon óvatosan a fekete jég miatt az árnyékos utakon; a lombtalan fák között a téli nap gyönyörű, hosszú árnyékokat vet a fagyra.",
                 "ro": "Atenție la gheața neagră invizibilă pe aleile umbrite; copacii fără frunze permit soarelui de iarnă să creeze umbre lungi, superbe.",
-                "en": "Watch out carefully for black ice on the paved paths in the shadows; the leafless trees let the winter sun create beautiful long shadows."
+                "en": "Watch out carefully for black ice on the paved paths in the shadows; the leafless trees let the winter sun create beautiful long shadows.",
+                "fr": "Méfiez‑vous du verglas noir sur les chemins pavés, surtout dans les zones d’ombre ; les arbres dépourvus de feuilles laissent le soleil d’hiver créer de longues ombres magnifiques."
               }
             },
             {
@@ -567,13 +629,15 @@
                 "de": "See von Divonne",
                 "hu": "Divonne-tó",
                 "ro": "Lacul Divonne",
-                "en": "Lac de Divonne"
+                "en": "Lac de Divonne",
+                "fr": "Lac de Divonne"
               },
               "tip_5lang": {
                 "de": "Die eisigen Ränder des Sees sind spektakulär; fahren Sie sehr langsam und stellen Sie sicher, dass Ihre Reifen auf dem Frost gut greifen.",
                 "hu": "A tó jeges peremei lenyűgözőek; haladjon lassan, és indulás előtt gondoskodjon arról, hogy abroncsai jól tapadjanak a fagyos parti utakon.",
                 "ro": "Marginile înghețate ale lacului sunt spectaculoase; reduceți masiv viteza și asigurați-vă că anvelopele au aderență perfectă pe gheață.",
-                "en": "The icy fringes of the lake are spectacular; keep your speed strictly down and ensure your tires have good grip for the frosty lakeside paths."
+                "en": "The icy fringes of the lake are spectacular; keep your speed strictly down and ensure your tires have good grip for the frosty lakeside paths.",
+                "fr": "Les franges glacées du lac sont spectaculaires ; réduisez strictement votre vitesse et assurez‑vous que vos pneus ont une bonne adhérence pour les chemins gelés au bord du lac."
               }
             },
             {
@@ -581,13 +645,15 @@
                 "de": "Forestland",
                 "hu": "Forestland Kalandpark",
                 "ro": "Forestland",
-                "en": "Forestland"
+                "en": "Forestland",
+                "fr": "Forestland"
               },
               "tip_5lang": {
                 "de": "Beenden Sie Ihre Runde hier unbedingt vor 17 Uhr; der dichte Wald wird früh pechschwarz und die Kälte nimmt in der Dämmerung extrem zu.",
                 "hu": "Fejezze be a kört itt 17 óra előtt; a sűrű erdő korán koromsötét lesz, és a fagyasztó téli hideg szürkületkor nagyon gyorsan fokozódik.",
                 "ro": "Finalizați traseul aici absolut înainte de 17:00; pădurea densă se întunecă devreme, iar frigul crunt se intensifică extrem de rapid.",
-                "en": "Complete your loop here strictly before 17:00; the dense forest gets pitch black early, and the winter chill intensifies rapidly at dusk."
+                "en": "Complete your loop here strictly before 17:00; the dense forest gets pitch black early, and the winter chill intensifies rapidly at dusk.",
+                "fr": "Bouclez votre circuit ici impérativement avant 17:00 ; la forêt dense devient complètement noire tôt et la morsure du froid s’intensifie rapidement au crépuscule."
               }
             }
           ]
@@ -607,7 +673,8 @@
             "de": "Pferderennbahn Divonne",
             "hu": "Divonne Lóversenypálya",
             "ro": "Hipodromul Divonne",
-            "en": "Hippodrome de Divonne"
+            "en": "Hippodrome de Divonne",
+            "fr": "Hippodrome de Divonne"
           },
           "coords": [
             6.15138,
@@ -622,7 +689,8 @@
             "de": "Erleben Sie den Nervenkitzel von Live-Pferderennen an diesem historischen Ort; kommen Sie früh, um einen guten Platz zu ergattern und das Wettsystem zu verstehen.",
             "hu": "Élje át az élő lóversenyek izgalmát ezen a történelmi helyszínen, és érkezzen korán, hogy jó helyet kapjon, és megértse a helyi fogadási rendszert.",
             "ro": "Experimentați fiorul curselor de cai în direct în această locație istorică, ajungând devreme pentru a obține un loc bun și a înțelege sistemul local de pariuri.",
-            "en": "Experience the thrill of live horse racing at this historic venue, arriving early to get a good seat and understand the local betting system."
+            "en": "Experience the thrill of live horse racing at this historic venue, arriving early to get a good seat and understand the local betting system.",
+            "fr": "Vivez l’excitation des courses hippiques en direct dans ce lieu historique ; arrivez tôt pour obtenir une bonne place et comprendre le système local de paris."
           }
         },
         {
@@ -630,7 +698,8 @@
             "de": "See von Divonne",
             "hu": "Divonne-tó",
             "ro": "Lacul Divonne",
-            "en": "Lac de Divonne"
+            "en": "Lac de Divonne",
+            "fr": "Lac de Divonne"
           },
           "coords": [
             6.152778,
@@ -645,7 +714,8 @@
             "de": "Genießen Sie einen ruhigen Spaziergang um den von Natur umgebenen künstlichen See und mieten Sie ein Tretboot für eine entspannte Zeit auf dem Wasser.",
             "hu": "Élvezze a csendes sétát a természettel körülvett mesterséges tó körül, és béreljen egy kis vízibiciklit egy pihentető időtöltéshez a vízen.",
             "ro": "Bucurați-vă de o plimbare liniștită în jurul lacului artificial înconjurat de natură și închiriați o mică hidrobicicletă pentru un timp relaxant pe apă.",
-            "en": "Enjoy a peaceful walk around the artificial lake surrounded by nature, and consider renting a small pedal boat for a relaxing time on the water."
+            "en": "Enjoy a peaceful walk around the artificial lake surrounded by nature, and consider renting a small pedal boat for a relaxing time on the water.",
+            "fr": "Profitez d’une promenade paisible autour du lac artificiel entouré de nature, et envisagez de louer une petite barque à pédales pour un moment de détente sur l’eau."
           }
         },
         {
@@ -653,7 +723,8 @@
             "de": "Kasino von Divonne",
             "hu": "Divonne-i Kaszinó",
             "ro": "Cazinoul din Divonne",
-            "en": "Casino de Divonne"
+            "en": "Casino de Divonne",
+            "fr": "Casino de Divonne"
           },
           "coords": [
             6.137696,
@@ -668,7 +739,8 @@
             "de": "Versuchen Sie Ihr Glück im renommierten Casino mit eleganten Spielsälen, aber bringen Sie einen gültigen Ausweis mit und kleiden Sie sich elegant.",
             "hu": "Tegye próbára szerencséjét a tekintélyes kaszinó elegáns játéktermeiben, de ne felejtsen el érvényes igazolványt és elegáns ruhát hozni a belépéshez.",
             "ro": "Încercați-vă norocul la prestigiosul cazinou cu săli de jocuri elegante, dar amintiți-vă să aduceți un act de identitate valabil și să vă îmbrăcați elegant.",
-            "en": "Try your luck at the prestigious casino featuring elegant gaming rooms, but remember to bring a valid ID and dress smartly to ensure entry."
+            "en": "Try your luck at the prestigious casino featuring elegant gaming rooms, but remember to bring a valid ID and dress smartly to ensure entry.",
+            "fr": "Tentez votre chance au prestigieux casino aux salles de jeu élégantes, mais n’oubliez pas d’apporter une pièce d’identité valide et de vous habiller correctement pour entrer."
           }
         },
         {
@@ -676,7 +748,8 @@
             "de": "Schloss Divonne",
             "hu": "Divonne Kastély",
             "ro": "Castelul Divonne",
-            "en": "Château de Divonne"
+            "en": "Château de Divonne",
+            "fr": "Château de Divonne"
           },
           "coords": [
             6.13389,
@@ -691,7 +764,8 @@
             "de": "Bewundern Sie die klassische Architektur und die atemberaubende Landschaft dieses historischen Anwesens, das die perfekte Kulisse für Panoramafotos bietet.",
             "hu": "Csodálja meg a klasszikus építészetet és a lenyűgöző tájat erről a történelmi birtokról, amely tökéletes hátteret nyújt az emlékezetes panorámaképekhez.",
             "ro": "Admirați arhitectura clasică și peisajul uimitor de la acest domeniu istoric, care oferă fundalul perfect pentru fotografii panoramice memorabile.",
-            "en": "Admire the classic architecture and stunning landscape from this historic estate, which offers the perfect backdrop for memorable panoramic photos."
+            "en": "Admire the classic architecture and stunning landscape from this historic estate, which offers the perfect backdrop for memorable panoramic photos.",
+            "fr": "Admirez l’architecture classique et le paysage splendide de ce domaine historique, qui offre un décor parfait pour des photos panoramiques mémorables."
           }
         },
         {
@@ -699,7 +773,8 @@
             "de": "Golfplatz Divonne",
             "hu": "Divonne Golfpálya",
             "ro": "Terenul de Golf Divonne",
-            "en": "Golf de Divonne"
+            "en": "Golf de Divonne",
+            "fr": "Golf de Divonne"
           },
           "coords": [
             6.124346,
@@ -714,7 +789,8 @@
             "de": "Erleben Sie eine außergewöhnliche Golfrunde auf diesem makellosen Meisterschaftsplatz und reservieren Sie Ihre Startzeit an sonnigen Wochenenden früh.",
             "hu": "Tapasztaljon meg egy kivételes golfkört ezen a kifogástalan bajnoki pályán, és a napsütéses hétvégéken időben foglalja le a kezdési időpontot.",
             "ro": "Experimentați o rundă excepțională de golf pe acest teren de campionat impecabil, asigurându-vă că rezervați din timp ora de start în weekendurile însorite.",
-            "en": "Experience an exceptional round of golf at this pristine championship course, making sure to reserve your tee time early on sunny weekends."
+            "en": "Experience an exceptional round of golf at this pristine championship course, making sure to reserve your tee time early on sunny weekends.",
+            "fr": "Jouez une partie exceptionnelle sur ce parcours de championnat immaculé ; pensez à réserver votre départ tôt les week‑ends ensoleillés."
           }
         }
       ],
@@ -722,7 +798,8 @@
         "de": "Fahren Sie zuerst zum lebhaften Hippodrom, um einen Vormittag voller Reitsport-Spannung zu erleben. Parken Sie mittags am ruhigen See für einen Spaziergang und besuchen Sie das glamouröse Casino. Der Nachmittag bringt Sie zur Burg für spektakuläre Landschaftsfotos. Beenden Sie Ihre elegante Tour im grünen Golfclub.",
         "hu": "Vezessen először a nyüzsgő lóversenypályára egy egyedülálló lovas élményért. Délben parkoljon le a csendes tó közelében egy kellemes sétához, majd látogasson el a lenyűgöző kaszinóba. A délután a kastélyhoz viszi látványos tájfotózásra. Fejezze be elegáns túráját a zöldellő golfklubban.",
         "ro": "Conduceți mai întâi la hipodromul plin de viață pentru o dimineață de emoție ecvestră. La prânz, parcați lângă lacul senin pentru o plimbare plăcută, apoi vizitați cazinoul plin de farmec. După-amiaza vă poartă la castel pentru fotografii de peisaj spectaculoase. Încheiați turul elegant la clubul de golf înverzit.",
-        "en": "Drive first to the lively hippodrome for a morning of unique equestrian excitement. By midday, park near the serene lake for a pleasant stroll, then visit the glamorous casino. The afternoon takes you to the castle's heights for spectacular landscape photography. Wrap up your elegant tour at the verdant golf club."
+        "en": "Drive first to the lively hippodrome for a morning of unique equestrian excitement. By midday, park near the serene lake for a pleasant stroll, then visit the glamorous casino. The afternoon takes you to the castle's heights for spectacular landscape photography. Wrap up your elegant tour at the verdant golf club.",
+        "fr": "Conduisez d’abord vers le vivant hippodrome pour une matinée d’émotions équestres. À midi, garez‑vous près du lac serein pour une agréable balade, puis visitez le casino glamour. L’après‑midi vous mène aux hauteurs du château pour des photos de paysage spectaculaires. Terminez votre visite élégante au verdoyant club de golf."
       },
       "variants": {
         "rainy": {
@@ -730,7 +807,8 @@
             "de": "Eine bequeme Regenfahrt beginnt mit dem weiten Blick auf die Pferderennbahn. Fahren Sie langsam zum See und genießen Sie die düstere Atmosphäre aus dem trockenen Auto. Verbringen Sie den Mittag im eleganten Casino. Betrachten Sie nachmittags das Schloss vom Auto aus und beenden Sie den Tag am Golfplatz.",
             "hu": "Kényelmes autózás veszi kezdetét az esőben a lóversenypálya széles kilátásaival. Vezessen lassan a tóhoz, élvezve a borús hangulatot a száraz utastérből. A delet töltse a fedett, elegáns kaszinóban. Délután vessen egy pillantást a kastélyra az autóból, majd zárja a napot a zöldellő golfpályánál.",
             "ro": "O plimbare confortabilă cu mașina pe ploaie începe cu priveliștile vaste de la hipodrom. Conduceți încet spre lac, bucurându-vă de atmosfera melancolică din cabina uscată. Petreceți prânzul la adăpost în cazinoul elegant. După-amiaza, priviți castelul din mașină înainte de a termina ziua la terenul de golf.",
-            "en": "A comfortable rainy drive begins with the vast views at the hippodrome. Drive slowly to the lake, enjoying the moody atmosphere from the dry cabin. Spend midday sheltered inside the elegant casino. In the afternoon, briefly view the grand castle from your car before ending the wet day at the lush golf course."
+            "en": "A comfortable rainy drive begins with the vast views at the hippodrome. Drive slowly to the lake, enjoying the moody atmosphere from the dry cabin. Spend midday sheltered inside the elegant casino. In the afternoon, briefly view the grand castle from your car before ending the wet day at the lush golf course.",
+            "fr": "Une confortable balade pluvieuse en voiture commence par les vastes vues de l’hippodrome. Roulez lentement jusqu’au lac en profitant de l’atmosphère morose depuis l’habitacle sec. Passez le midi à l’abri dans l’élégant casino. L’après‑midi, apercevez brièvement le grand château depuis votre voiture avant de finir la journée humide au luxuriant terrain de golf."
           },
           "stops": [
             {
@@ -738,13 +816,15 @@
                 "de": "Pferderennbahn Divonne",
                 "hu": "Divonne Lóversenypálya",
                 "ro": "Hipodromul Divonne",
-                "en": "Hippodrome de Divonne"
+                "en": "Hippodrome de Divonne",
+                "fr": "Hippodrome de Divonne"
               },
               "tip_5lang": {
                 "de": "Die riesige Bahn sieht unter schweren Regenwolken dramatisch aus; genießen Sie die weite Aussicht bequem und trocken aus dem warmen Auto.",
                 "hu": "A hatalmas pálya hihetetlenül drámainak tűnik a nehéz esőfelhők alatt; élvezze a tágas kilátást a száraz, meleg autó biztonságos kényelméből.",
                 "ro": "Pista masivă arată incredibil de dramatic sub norii grei de ploaie; bucurați-vă de vederea vastă din confortul și uscăciunea mașinii calde.",
-                "en": "The massive track looks incredibly dramatic under heavy rain clouds; enjoy the vast open view right from the dry comfort of your warm car."
+                "en": "The massive track looks incredibly dramatic under heavy rain clouds; enjoy the vast open view right from the dry comfort of your warm car.",
+                "fr": "La piste immense paraît incroyablement dramatique sous de lourds nuages de pluie ; appréciez la vaste vue depuis le confort sec de votre voiture chaude."
               }
             },
             {
@@ -752,13 +832,15 @@
                 "de": "See von Divonne",
                 "hu": "Divonne-tó",
                 "ro": "Lacul Divonne",
-                "en": "Lac de Divonne"
+                "en": "Lac de Divonne",
+                "fr": "Lac de Divonne"
               },
               "tip_5lang": {
                 "de": "Parken Sie direkt am Ufer, um die Regentropfen auf dem grauen Wasser tanzen zu sehen, ohne jemals in den Platzregen hinaustreten zu müssen.",
                 "hu": "Parkoljon a part közelében, hogy nézze az esőcseppek táncát a szürke vízen, anélkül, hogy egyetlen percre is ki kellene lépnie a felhőszakadásba.",
                 "ro": "Parcați aproape de margine pentru a privi picăturile de ploaie dansând pe apa gri, fără a fi nevoie să ieșiți deloc în ploaia torențială.",
-                "en": "Park near the very edge to watch the raindrops dancing on the grey water surface without ever needing to step outside into the heavy downpour."
+                "en": "Park near the very edge to watch the raindrops dancing on the grey water surface without ever needing to step outside into the heavy downpour.",
+                "fr": "Garez‑vous au bord pour regarder les gouttes danser à la surface grise de l’eau sans jamais avoir à mettre le pied dehors sous la forte pluie."
               }
             },
             {
@@ -766,13 +848,15 @@
                 "de": "Kasino von Divonne",
                 "hu": "Divonne-i Kaszinó",
                 "ro": "Cazinoul din Divonne",
-                "en": "Casino de Divonne"
+                "en": "Casino de Divonne",
+                "fr": "Casino de Divonne"
               },
               "tip_5lang": {
                 "de": "Nutzen Sie den überdachten Ausstieg, um nach drinnen zu eilen, ohne nass zu werden; der lebhafte Spielsaal ist die perfekte Zuflucht.",
                 "hu": "Használja a kényelmes, fedett kiszállópontot, hogy teljesen szárazon jusson be; a nyüzsgő játéktér tökéletes, időjárásálló menedék.",
                 "ro": "Folosiți punctul acoperit de coborâre pentru a intra rapid fără a vă uda deloc; sala de jocuri vibrantă este o evadare perfectă pe vreme rea.",
-                "en": "Use the convenient covered drop-off point to dash inside without getting soaked; the vibrant gaming floor is a perfect rainy day escape."
+                "en": "Use the convenient covered drop-off point to dash inside without getting soaked; the vibrant gaming floor is a perfect rainy day escape.",
+                "fr": "Utilisez l’aire couverte pour débarquer rapidement sans vous tremper ; la salle de jeux animée est une parfaite échappée pour un jour de pluie."
               }
             },
             {
@@ -780,13 +864,15 @@
                 "de": "Schloss Divonne",
                 "hu": "Divonne Kastély",
                 "ro": "Castelul Divonne",
-                "en": "Château de Divonne"
+                "en": "Château de Divonne",
+                "fr": "Château de Divonne"
               },
               "tip_5lang": {
                 "de": "Öffnen Sie das Autofenster nur leicht für ein Foto der im Regen glänzenden Architektur; die Fahrt über das Gelände ist sehr stimmungsvoll.",
                 "hu": "Csak annyira húzza le az ablakot, hogy lefotózza az esőben csillogó építészetet; a birtokon autózva a víz hihetetlenül hangulatossá teszi a tájat.",
                 "ro": "Coborâți geamul mașinii doar pentru a fotografia arhitectura uimitoare strălucind în ploaie; conducerea pe domeniu este extrem de atmosferică.",
-                "en": "Roll down the window just enough to snap a quick photo of the stunning architecture gleaming in the rain; driving the grounds is highly atmospheric."
+                "en": "Roll down the window just enough to snap a quick photo of the stunning architecture gleaming in the rain; driving the grounds is highly atmospheric.",
+                "fr": "Baissez légèrement la vitre pour prendre une photo rapide de la superbe architecture brillant sous la pluie ; parcourir le domaine en voiture est très atmosphérique."
               }
             },
             {
@@ -794,13 +880,15 @@
                 "de": "Golfplatz Divonne",
                 "hu": "Divonne Golfpálya",
                 "ro": "Terenul de Golf Divonne",
-                "en": "Golf de Divonne"
+                "en": "Golf de Divonne",
+                "fr": "Golf de Divonne"
               },
               "tip_5lang": {
                 "de": "Die gepflasterte Auffahrt verhindert, dass Ihr Auto im Schlamm stecken bleibt; parken Sie nah und genießen Sie ein Heißgetränk im Clubhaus.",
                 "hu": "A klub kikövezett felhajtója garantálja, hogy autója nem ragad a sárba; parkoljon le, és igyon egy forró italt a klubházban a szakadó esőben.",
                 "ro": "Aleea pavată asigură că mașina nu se va bloca în noroi; parcați aproape și savurați o băutură caldă la club în timp ce afară plouă torențial.",
-                "en": "The club's perfectly paved driveway ensures your car won't get stuck in the mud, allowing you to enjoy a hot drink safely while it pours outside."
+                "en": "The club's perfectly paved driveway ensures your car won't get stuck in the mud, allowing you to enjoy a hot drink safely while it pours outside.",
+                "fr": "L’allée parfaitement pavée du club garantit que votre voiture ne s’ensablera pas, vous permettant de savourer une boisson chaude en toute sécurité pendant l’averse."
               }
             }
           ]
@@ -810,7 +898,8 @@
             "de": "Beginnen Sie Ihre gemütliche Winterfahrt mit dem frostigen Weitblick der Pferderennbahn. Fahren Sie sicher über vereiste Straßen zum halb zugefrorenen See. Entfliehen Sie mittags der Kälte im luxuriösen, gut beheizten Casino. Fahren Sie am späten Nachmittag am verschneiten Schloss vorbei zum Golfplatz, bevor es um 17 Uhr dunkel wird.",
             "hu": "Kezdje a hangulatos téli autózást a lóversenypálya deres síkságának megfigyelésével. Navigáljon biztonságosan a jeges utakon a félig befagyott tó felé. Meneküljön a fagyos déli hőmérsékletek elől a luxus, jól fűtött kaszinóba. Késő délután vezessen el a fenséges, hólepte kastély mellett, és érjen a golfpályához 17 óra előtt.",
             "ro": "Începeți plimbarea confortabilă de iarnă cu mașina observând întinderea înghețată a hipodromului. Navigați în siguranță pe drumurile înghețate spre lac. Scăpați de temperaturile scăzute de la prânz în interiorul luxosului și bine încălzitului cazino. După-amiaza, conduceți pe lângă castelul nins, ajungând la terenul de golf înainte de 17:00.",
-            "en": "Start your cozy winter drive observing the frosty expanse of the hippodrome. Navigate icy roads safely toward the half-frozen lake. Escape the freezing noon temperatures inside the luxurious, well-heated casino. In the late afternoon, drive past the majestic, snow-covered castle, finishing at the golf course before the 17:00 dusk."
+            "en": "Start your cozy winter drive observing the frosty expanse of the hippodrome. Navigate icy roads safely toward the half-frozen lake. Escape the freezing noon temperatures inside the luxurious, well-heated casino. In the late afternoon, drive past the majestic, snow-covered castle, finishing at the golf course before the 17:00 dusk.",
+            "fr": "Commencez votre promenade hivernale douillette en observant l’étendue gelée de l’hippodrome. Roulez prudemment sur des routes verglacées vers le lac à demi gelé. Échappez au froid de midi dans le casino luxueux et bien chauffé. En fin d’après‑midi, passez devant le château majestueux couvert de neige, et terminez au golf avant le crépuscule à 17:00."
           },
           "stops": [
             {
@@ -818,13 +907,15 @@
                 "de": "Pferderennbahn Divonne",
                 "hu": "Divonne Lóversenypálya",
                 "ro": "Hipodromul Divonne",
-                "en": "Hippodrome de Divonne"
+                "en": "Hippodrome de Divonne",
+                "fr": "Hippodrome de Divonne"
               },
               "tip_5lang": {
                 "de": "Ein toller Ort, um mit laufender Heizung den Winternebel über der Grasbahn zu beobachten, ohne einen Fuß in den eisigen Wind zu setzen.",
                 "hu": "Fantasztikus hely, ahol fűtés mellett nézheti a téli köd felszállását a fagyos pályáról, teljesen elkerülve a kinti csontig hatoló hideg szelet.",
                 "ro": "Un loc fantastic pentru a porni căldura și a privi ceața de iarnă ridicându-se de pe pistă, absolut fără a ieși în vântul înghețat de afară.",
-                "en": "A fantastic spot to run the heater and watch the low winter mist rise off the enormous grassy track without ever stepping into the freezing wind."
+                "en": "A fantastic spot to run the heater and watch the low winter mist rise off the enormous grassy track without ever stepping into the freezing wind.",
+                "fr": "Un endroit fantastique pour faire tourner le chauffage et regarder la faible brume d’hiver se lever de l’immense piste herbeuse sans jamais affronter le vent glacial."
               }
             },
             {
@@ -832,13 +923,15 @@
                 "de": "See von Divonne",
                 "hu": "Divonne-tó",
                 "ro": "Lacul Divonne",
-                "en": "Lac de Divonne"
+                "en": "Lac de Divonne",
+                "fr": "Lac de Divonne"
               },
               "tip_5lang": {
                 "de": "Die umliegenden Straßen können durch Glatteis extrem rutschig sein; fahren Sie langsam und genießen Sie den winterlichen Uferblick aus dem Auto.",
                 "hu": "A környező utak a fekete jégtől alattomosan csúszósak lehetnek; vezessen óvatosan, és élvezze a fagyott partvonal lenyűgöző látványát a fűtött ülésből.",
                 "ro": "Drumurile din jur pot fi extrem de alunecoase din cauza gheții negre; conduceți foarte încet și admirați țărmul complet alb din mașina caldă.",
-                "en": "The surrounding roads can be very slippery with hidden black ice; take it slow and enjoy the stunning view of the winter-white shoreline from your seat."
+                "en": "The surrounding roads can be very slippery with hidden black ice; take it slow and enjoy the stunning view of the winter-white shoreline from your seat.",
+                "fr": "Les routes avoisinantes peuvent être très glissantes à cause du verglas caché ; allez lentement et profitez de la vue superbe de la rive hivernale depuis votre siège."
               }
             },
             {
@@ -846,13 +939,15 @@
                 "de": "Kasino von Divonne",
                 "hu": "Divonne-i Kaszinó",
                 "ro": "Cazinoul din Divonne",
-                "en": "Casino de Divonne"
+                "en": "Casino de Divonne",
+                "fr": "Casino de Divonne"
               },
               "tip_5lang": {
                 "de": "Perfekt für eine lange Mittagspause; lassen Sie den dicken Wintermantel im Auto und treten Sie direkt in die prunkvolle, stark beheizte Lobby.",
                 "hu": "Tökéletes a hosszú déli felmelegedéshez; nyugodtan hagyja a nehéz téli kabátot az autóban, és lépjen egyenesen a ragyogó, forró előcsarnokba.",
                 "ro": "Perfect pentru o pauză lungă la prânz; lăsați liniștit haina groasă de iarnă în mașină și intrați direct în holul plin de farmec și super-încălzit.",
-                "en": "Perfect for a long, warm midday break; purposefully leave your heavy winter coat in the car and step directly into the glamorous, highly heated lobby."
+                "en": "Perfect for a long, warm midday break; purposefully leave your heavy winter coat in the car and step directly into the glamorous, highly heated lobby.",
+                "fr": "Parfait pour une longue pause tiède de midi ; laissez volontairement votre manteau d’hiver lourd dans la voiture et entrez directement dans le hall glamour et très chauffé."
               }
             },
             {
@@ -860,13 +955,15 @@
                 "de": "Schloss Divonne",
                 "hu": "Divonne Kastély",
                 "ro": "Castelul Divonne",
-                "en": "Château de Divonne"
+                "en": "Château de Divonne",
+                "fr": "Château de Divonne"
               },
               "tip_5lang": {
                 "de": "Der Schnee auf der klassischen Architektur ist wunderschön; seien Sie nur sehr vorsichtig bei den abschüssigen Auffahrten, die rasch zufrieren können.",
                 "hu": "A hóval borított klasszikus építészet gyönyörű látvány; vezetőként fokozottan vigyázzon a lejtős felhajtókra, amelyek a fagypont alatt jégpályává válnak.",
                 "ro": "Zăpada pe arhitectura clasică este superbă; fiți extrem de precauți ca șofer cu aleile înclinate care îngheață instantaneu spre după-amiază.",
-                "en": "The snow highlighting the classic architecture is a beautiful sight; just be exceptionally cautious of the sloping driveways which aggressively freeze over."
+                "en": "The snow highlighting the classic architecture is a beautiful sight; just be exceptionally cautious of the sloping driveways which aggressively freeze over.",
+                "fr": "La neige mettant en valeur l’architecture classique est un spectacle magnifique ; soyez simplement extrêmement prudent avec les allées en pente qui gèlent rapidement."
               }
             },
             {
@@ -874,13 +971,15 @@
                 "de": "Golfplatz Divonne",
                 "hu": "Divonne Golfpálya",
                 "ro": "Terenul de Golf Divonne",
-                "en": "Golf de Divonne"
+                "en": "Golf de Divonne",
+                "fr": "Golf de Divonne"
               },
               "tip_5lang": {
                 "de": "Beenden Sie Ihre Fahrt vor 17 Uhr; die einsamen Straßen zurück in die Stadt werden gefährlich rutschig, wenn die Temperatur im Dunkeln rasant fällt.",
                 "hu": "Mindenképp fejezze be az utat a 17 órás naplemente előtt; az elhagyatott utak rendkívül veszélyessé válnak, amikor a fagy sötétedéskor rohamosan erősödik.",
                 "ro": "Încheiați neapărat vizita înainte de 17:00; drumurile izolate înapoi pot deveni un patinoar periculos odată ce temperatura se prăbușește brusc la întuneric.",
-                "en": "Wrap up your drive strictly before 17:00; the isolated roads back to town can be treacherous once the temperature drops sharply after dusk."
+                "en": "Wrap up your drive strictly before 17:00; the isolated roads back to town can be treacherous once the temperature drops sharply after dusk.",
+                "fr": "Terminez votre trajet impérativement avant 17:00 ; les routes isolées de retour en ville peuvent devenir traîtresses lorsque la température chute après le crépuscule."
               }
             }
           ]

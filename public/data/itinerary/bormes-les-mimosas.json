@@ -21,7 +21,8 @@
             "de": "Kirche Saint-Trophyme",
             "hu": "Saint-Trophyme templom",
             "ro": "Biserica Saint-Trophyme",
-            "en": "Saint-Trophyme Church"
+            "en": "Saint-Trophyme Church",
+            "fr": "Église Saint‑Trophyme"
           },
           "coords": [
             6.342383,
@@ -36,7 +37,8 @@
             "de": "Bewundern Sie die romanische Architektur dieser historischen Kirche im Dorfzentrum und nutzen Sie den schattigen Platz nebenan für eine Pause.",
             "hu": "Csodálja meg a falu központjában álló történelmi templom román stílusú építészetét, és pihenjen egyet a közeli árnyékos téren.",
             "ro": "Admirați arhitectura romanică a acestei biserici istorice care ancorează satul și căutați piațeta umbrită din apropiere pentru o pauză liniștită.",
-            "en": "Admire the Romanesque architecture of this historic church that anchors the village, and check the shaded square nearby for a quiet rest."
+            "en": "Admire the Romanesque architecture of this historic church that anchors the village, and check the shaded square nearby for a quiet rest.",
+            "fr": "Admirez l'architecture romane de cette église historique qui ancre le village, et vérifiez la place ombragée à proximité pour un repos tranquille."
           }
         },
         {
@@ -44,7 +46,8 @@
             "de": "Kapelle Saint-François-de-Paule",
             "hu": "Saint-François-de-Paule kápolna",
             "ro": "Capela Saint-François-de-Paule",
-            "en": "Saint-François-de-Paule Chapel"
+            "en": "Saint-François-de-Paule Chapel",
+            "fr": "Chapelle Saint‑François‑de‑Paule"
           },
           "coords": [
             6.344496,
@@ -59,7 +62,8 @@
             "de": "Entdecken Sie die ruhige Atmosphäre dieser dem Schutzpatron geweihten Kapelle und bringen Sie Ihre Kamera für die malerischen Gassen mit.",
             "hu": "Fedezze fel a falu védőszentjének szentelt festői kápolna békés hangulatát, és hozzon fényképezőgépet a bájos környező sikátorokhoz.",
             "ro": "Descoperiți ambianța senină a acestei capele pitorești închinate sfântului patron al satului și aduceți un aparat foto pentru aleile fermecătoare.",
-            "en": "Discover the serene ambiance of this quaint chapel honoring the village's patron saint, and bring a camera for the charming surrounding alleys."
+            "en": "Discover the serene ambiance of this quaint chapel honoring the village's patron saint, and bring a camera for the charming surrounding alleys.",
+            "fr": "Découvrez l'ambiance sereine de cette chapelle pittoresque dédiée au saint patron du village, et apportez un appareil photo pour les charmantes ruelles alentour."
           }
         },
         {
@@ -67,7 +71,8 @@
             "de": "Gonzalez-Park",
             "hu": "Gonzalez Park",
             "ro": "Parcul Gonzalez",
-            "en": "Gonzalez Park"
+            "en": "Gonzalez Park",
+            "fr": "Parc Gonzalez"
           },
           "coords": [
             6.345174,
@@ -82,7 +87,8 @@
             "de": "Erkunden Sie diesen außergewöhnlichen botanischen Garten mit seltenen australischen Pflanzen, aber tragen Sie feste Schuhe für die steilen Wege.",
             "hu": "Fedezze fel ezt a ritka ausztrál növényekkel teli, kivételes botanikus kertet, de viseljen kényelmes cipőt, mivel a teraszos ösvények meredekek.",
             "ro": "Explorați această grădină botanică excepțională plină de plante australiene rare, dar purtați încălțăminte stabilă deoarece aleile pot fi abrupte.",
-            "en": "Explore this exceptional botanical garden filled with rare Australian plants, but wear sturdy shoes as the terraced paths can be quite steep."
+            "en": "Explore this exceptional botanical garden filled with rare Australian plants, but wear sturdy shoes as the terraced paths can be quite steep.",
+            "fr": "Explorez ce jardin botanique exceptionnel rempli de plantes australiennes rares, mais portez des chaussures solides car les allées en terrasses peuvent être assez raides."
           }
         },
         {
@@ -90,7 +96,8 @@
             "de": "Strand von Cabasson",
             "hu": "Cabasson strand",
             "ro": "Plaja Cabasson",
-            "en": "Cabasson Beach"
+            "en": "Cabasson Beach",
+            "fr": "Plage de Cabasson"
           },
           "coords": [
             6.324926,
@@ -105,7 +112,8 @@
             "de": "Entspannen Sie am feinen Sandstrand mit herrlichem Blick auf das Fort und kommen Sie früh, um sich einen guten Platz am Wasser zu sichern.",
             "hu": "Pihenjen ennek a festői strandnak a finom homokján, ahonnan remek kilátás nyílik az erődre, és érkezzen korán a legjobb helyekért.",
             "ro": "Relaxați-vă pe nisipul fin al acestei plaje pitorești cu vedere la fort și ajungeți devreme pentru a prinde un loc bun aproape de apă.",
-            "en": "Relax on the fine sands of this picturesque beach offering great views of the fort, and arrive early to secure a good spot near the water."
+            "en": "Relax on the fine sands of this picturesque beach offering great views of the fort, and arrive early to secure a good spot near the water.",
+            "fr": "Détendez‑vous sur les sables fins de cette plage pittoresque offrant de belles vues sur le fort, et arrivez tôt pour assurer une bonne place près de l'eau."
           }
         },
         {
@@ -113,7 +121,8 @@
             "de": "Fort de Brégançon",
             "hu": "Fort de Brégançon",
             "ro": "Fort de Brégançon",
-            "en": "Fort de Brégançon"
+            "en": "Fort de Brégançon",
+            "fr": "Fort de Brégançon"
           },
           "coords": [
             6.3221,
@@ -128,7 +137,8 @@
             "de": "Besichtigen Sie den offiziellen Rückzugsort des französischen Präsidenten auf einer Felseninsel, und buchen Sie Ihre Führung weit im Voraus online.",
             "hu": "Járja be a francia elnök sziklás szigeten magasodó hivatalos nyaralóját, és ne felejtse el jó előre lefoglalni a vezetett túrát az interneten.",
             "ro": "Vizitați reședința oficială a președintelui francez situată pe o insulă stâncoasă și nu uitați să rezervați turul ghidat din timp online.",
-            "en": "Tour the official retreat of the French President perched on a rocky islet, and remember to book your guided visit well in advance online."
+            "en": "Tour the official retreat of the French President perched on a rocky islet, and remember to book your guided visit well in advance online.",
+            "fr": "Visitez la résidence officielle du Président français perchée sur un îlot rocheux, et pensez à réserver votre visite guidée bien à l'avance en ligne."
           }
         }
       ],
@@ -136,7 +146,8 @@
         "de": "Beginnen Sie den Morgen mit der Erkundung des historischen Herzens von Bormes-les-Mimosas und seiner Architektur. Am Mittag schlendern Sie durch den Gonzalez-Park und hinunter zur Küste. Verbringen Sie den Nachmittag entspannt am Cabasson-Strand. Beenden Sie Ihren Tag mit einer unvergesslichen Tour durch das majestätische Fort de Brégançon.",
         "hu": "Kezdje a reggelt Bormes-les-Mimosas történelmi központjának és bájos vallási építészetének felfedezésével. Délben a Gonzalez Parkon keresztül haladjon a tengerpart felé. A délutánt töltse pihenéssel a Cabasson strand finom homokján. Zárja a napot a fenséges Fort de Brégançon felejthetetlen bejárásával a lemenő nap fényében.",
         "ro": "Începeți dimineața explorând inima istorică a Bormes-les-Mimosas, admirând arhitectura sa religioasă fermecătoare. La prânz, coborâți prin spectaculosul Parc Gonzalez spre coastă. Petreceți după-amiaza relaxându-vă pe nisipurile plajei Cabasson. Încheiați-vă ziua cu un tur memorabil al maiestuosului Fort de Brégançon.",
-        "en": "Start your morning exploring the historic heart of Bormes-les-Mimosas, taking in its charming religious architecture. Midday leads you through the spectacular Gonzalez Park and down towards the coast. Spend the afternoon relaxing on the sands of Cabasson Beach. Conclude your day with a memorable tour of the majestic Fort de Brégançon."
+        "en": "Start your morning exploring the historic heart of Bormes-les-Mimosas, taking in its charming religious architecture. Midday leads you through the spectacular Gonzalez Park and down towards the coast. Spend the afternoon relaxing on the sands of Cabasson Beach. Conclude your day with a memorable tour of the majestic Fort de Brégançon.",
+        "fr": "Commencez la matinée en explorant le cœur historique de Bormes‑les‑Mimosas, en admirant son architecture religieuse charmante. À midi, dirigez‑vous vers le spectaculaire parc Gonzalez puis vers la côte. Passez l'après‑midi à vous détendre sur les sables de la plage de Cabasson. Concluez la journée par une visite mémorable du majestueux Fort de Brégançon."
       },
       "variants": {
         "rainy": {
@@ -144,7 +155,8 @@
             "de": "Der Morgen beginnt unter den schützenden Arkaden des alten Dorfes, während der Regen die Steine glänzen lässt. Mittags suchen wir Zuflucht in den historischen Kapellen, wo die Stille den Klang der Tropfen draußen übertönt. Am Nachmittag wandern wir mit festem Schuhwerk zur Küste, um das dramatische graue Meer zu beobachten. Den Abend lassen wir gemütlich im Schutz der schmalen Gassen ausklingen.",
             "hu": "A reggel az ófalu árkádjai alatt indul, miközben az eső fényesre mossa az ősi köveket. Délben a történelmi kápolnákban keresünk menedéket, ahol a csendet csak a kinti eső kopogása töri meg. Délután vízálló bakancsban indulunk a part felé, hogy megcsodáljuk a drámai szürke tengert. Az estét a szűk utcácskák védelmében, a párás levegő illatát élvezve zárjuk.",
             "ro": "Dimineața începe sub arcadele protectoare ale satului vechi, în timp ce ploaia face pietrele să strălucească. La prânz căutăm adăpost în capelele istorice, unde liniștea este întreruptă doar de ropotul ploii. După-amiaza pornim spre coastă cu încălțăminte impermeabilă pentru a admira marea dramatică. Seara se încheie confortabil la adăpostul străduțelor înguste și pline de farmec.",
-            "en": "The morning begins under the protective arches of the old village as rain makes the ancient stones glisten. At noon, we seek refuge in historic chapels, where the silence is framed by the rhythmic sound of rain outside. In the afternoon, we walk to the coast in waterproof boots to witness the dramatic gray sea. The evening concludes cozily sheltered within the narrow, misty streets."
+            "en": "The morning begins under the protective arches of the old village as rain makes the ancient stones glisten. At noon, we seek refuge in historic chapels, where the silence is framed by the rhythmic sound of rain outside. In the afternoon, we walk to the coast in waterproof boots to witness the dramatic gray sea. The evening concludes cozily sheltered within the narrow, misty streets.",
+            "fr": "La matinée commence sous les arches protectrices du vieux village tandis que la pluie fait luire les pierres anciennes. À midi, nous cherchons refuge dans les chapelles historiques, où le silence est rythmé par le son de la pluie à l'extérieur. L'après‑midi, nous marchons vers la côte en bottes imperméables pour observer la mer grise et dramatique. La soirée se termine confortablement abritée dans les rues étroites et brumeuses."
           },
           "stops": [
             {
@@ -152,13 +164,15 @@
                 "de": "Kirche Saint-Trophyme",
                 "hu": "Saint-Trophyme templom",
                 "ro": "Biserica Saint-Trophyme",
-                "en": "Saint-Trophyme Church"
+                "en": "Saint-Trophyme Church",
+                "fr": "Église Saint‑Trophyme"
               },
               "tip_5lang": {
                 "de": "Bewundern Sie die romanische Architektur im trockenen Innenraum; die dicken Mauern bieten perfekten Schutz vor dem Regen und eine andächtige Stille.",
                 "hu": "Csodáld meg a román stílusú építészetet a száraz belső térben; a vastag falak tökéletes menedéket nyújtanak az eső elől és áhítatos csendet árasztanak.",
                 "ro": "Admirați arhitectura romanică în interiorul uscat; pereții groși oferă adăpost perfect împotriva ploii și o liniște plină de evlavie.",
-                "en": "Admire the Romanesque architecture in the dry interior; the thick walls provide perfect shelter from the rain and a serene, prayerful atmosphere."
+                "en": "Admire the Romanesque architecture in the dry interior; the thick walls provide perfect shelter from the rain and a serene, prayerful atmosphere.",
+                "fr": "Admirez l'architecture romane à l'intérieur sec ; les murs épais offrent un parfait abri contre la pluie et une atmosphère sereine de recueillement."
               }
             },
             {
@@ -166,13 +180,15 @@
                 "de": "Kapelle Saint-François-de-Paule",
                 "hu": "Saint-François-de-Paule kápolna",
                 "ro": "Capela Saint-François-de-Paule",
-                "en": "Saint-François-de-Paule Chapel"
+                "en": "Saint-François-de-Paule Chapel",
+                "fr": "Chapelle Saint‑François‑de‑Paule"
               },
               "tip_5lang": {
                 "de": "Diese kleine Kapelle ist ein idealer Ort für eine kurze Regenpause; betrachten Sie die Details der Fassade unter dem Schutz Ihres Regenschirms.",
                 "hu": "Ez a kis kápolna ideális hely egy rövid esőszünetre; figyeld meg a homlokzat részleteit az esernyőd védelme alól a friss, esős levegőben.",
                 "ro": "Această mică chapelă este locul ideal pentru o scurtă pauză de ploaie; observați detaliile fațadei sub protecția umbrelei în aerul proaspăt.",
-                "en": "This small chapel is an ideal spot for a short rain break; observe the facade's details from under your umbrella in the fresh, damp air."
+                "en": "This small chapel is an ideal spot for a short rain break; observe the facade's details from under your umbrella in the fresh, damp air.",
+                "fr": "Cette petite chapelle est un endroit idéal pour une courte pause sous la pluie ; observez les détails de la façade depuis votre parapluie dans l'air frais et humide."
               }
             },
             {
@@ -180,13 +196,15 @@
                 "de": "Gonzalez-Park",
                 "hu": "Gonzalez Park",
                 "ro": "Parcul Gonzalez",
-                "en": "Gonzalez Park"
+                "en": "Gonzalez Park",
+                "fr": "Parc Gonzalez"
               },
               "tip_5lang": {
                 "de": "Die exotischen Pflanzen wirken im Regen besonders satt; achten Sie auf den rutschigen Boden und nutzen Sie die festen Wege zwischen den Palmen.",
                 "hu": "Az egzotikus növények színei különösen mélyek az esőben; vigyázz a csúszós talajra és maradj a pálmák közötti kövezett utakon a biztonságért.",
                 "ro": "Culorile plantelor exotice sunt deosebit de intense în ploaie; atenție la solul alunecos și folosiți potecile pavate printre palmieri.",
-                "en": "The colors of the exotic plants are particularly deep in the rain; watch out for slippery ground and stick to the paved paths among the palms."
+                "en": "The colors of the exotic plants are particularly deep in the rain; watch out for slippery ground and stick to the paved paths among the palms.",
+                "fr": "Les couleurs des plantes exotiques sont particulièrement profondes sous la pluie ; attention au sol glissant et restez sur les chemins goudronnés parmi les palmiers."
               }
             },
             {
@@ -194,13 +212,15 @@
                 "de": "Strand von Cabasson",
                 "hu": "Cabasson strand",
                 "ro": "Plaja Cabasson",
-                "en": "Cabasson Beach"
+                "en": "Cabasson Beach",
+                "fr": "Plage de Cabasson"
               },
               "tip_5lang": {
                 "de": "Genießen Sie den Anblick der aufgewühlten Brandung von einem geschützten Platz am Dünenrand; die salzige Gischt ist bei Regen besonders intensiv.",
                 "hu": "Élvezd a felkavart hullámverés látványát a dűnék szélén egy védett helyről; a sós tengeri pára esőben különösen intenzív és frissítő élmény.",
                 "ro": "Bucurați-vă de spectacolul valurilor agitate de la un loc adăpostit la marginea dunelor; vaporii sărați sunt deosebit de intenși pe ploaie.",
-                "en": "Enjoy the sight of the churning surf from a sheltered spot at the edge of the dunes; the salty sea spray is especially intense in the rain."
+                "en": "Enjoy the sight of the churning surf from a sheltered spot at the edge of the dunes; the salty sea spray is especially intense in the rain.",
+                "fr": "Appréciez le spectacle de la mer déchaînée depuis un endroit abrité au bord des dunes ; les embruns salés sont particulièrement intenses sous la pluie."
               }
             },
             {
@@ -208,13 +228,15 @@
                 "de": "Fort de Brégançon",
                 "hu": "Fort de Brégançon",
                 "ro": "Fort de Brégançon",
-                "en": "Fort de Brégançon"
+                "en": "Fort de Brégançon",
+                "fr": "Fort de Brégançon"
               },
               "tip_5lang": {
                 "de": "Die Festung wirkt im Nebel mystisch; ein kurzer Spaziergang zum Aussichtspunkt lohnt sich auch bei Regen für die dramatische Küsten-Silhouette.",
                 "hu": "Az erőd ködben misztikus látványt nyújt; egy rövid séta a kilátóponthoz esőben is megéri a drámai partmenti sziluett és a vad tenger miatt.",
                 "ro": "Fortăreața oferă o priveliște mistică în ceață; o scurtă plimbare până la punctul de observație merită chiar și pe ploaie pentru silueta coastei.",
-                "en": "The fortress offers a mystical view in the mist; a short walk to the viewpoint is worth it even in rain for the dramatic coastal silhouette."
+                "en": "The fortress offers a mystical view in the mist; a short walk to the viewpoint is worth it even in rain for the dramatic coastal silhouette.",
+                "fr": "La forteresse offre une vue mystique dans la brume ; une courte balade jusqu'au point de vue vaut le coup même sous la pluie pour le profil côtier dramatique."
               }
             }
           ]
@@ -224,7 +246,8 @@
             "de": "Die klare Winterluft am Morgen bringt den Duft der ersten Mimosenblüten mit sich. Mittags wärmt die tiefstehende Sonne die bunten Fassaden des Dorfes angenehm auf. Am Nachmittag nutzen wir das goldene Licht für einen Küstenspaziergang, bevor die Sonne gegen 17:00 Uhr spektakulär im Meer versinkt. Den Abend verbringen wir bei einem heißen Getränk in der wohligen Wärme des Zentrums.",
             "hu": "A tiszta téli reggeli levegő az első mimózák illatát hozza magával. Délben az alacsonyan járó nap kellemesen melegíti az ófalu színes homlokzatait. Délután a sárgás fényeket kihasználva sétálunk a parton, mielőtt a nap 17:00 körül látványosan a tengerbe bukik. Az estét egy forró ital mellett, a központ barátságos melegében töltjük, elkerülve a hirtelen lehűlést.",
             "ro": "Aerul curat de iarnă al dimineții aduce parfumul primelor flori de mimoză. La prânz, soarele blând încălzește plăcut fațadele colorate ale satului. După-amiaza profităm de lumina aurie pentru o plimbare pe coastă înainte ca soarele să apună spectaculos la ora 17:00. Seara se petrece cu o băutură caldă în atmosfera primitoare a centrului.",
-            "en": "The crisp winter morning air carries the scent of the first mimosa blooms. At noon, the low sun pleasantly warms the colorful facades of the village. In the afternoon, we take advantage of the golden light for a coastal stroll before the sun sets spectacularly at 5:00 PM. The evening is spent with a hot drink in the cozy warmth of the center as the temperature drops."
+            "en": "The crisp winter morning air carries the scent of the first mimosa blooms. At noon, the low sun pleasantly warms the colorful facades of the village. In the afternoon, we take advantage of the golden light for a coastal stroll before the sun sets spectacularly at 5:00 PM. The evening is spent with a hot drink in the cozy warmth of the center as the temperature drops.",
+            "fr": "L'air vif du matin d'hiver porte le parfum des premières floraisons de mimosa. À midi, le soleil bas réchauffe agréablement les façades colorées du village. L'après‑midi, nous profitons de la lumière dorée pour une promenade côtière avant le spectaculaire coucher du soleil à 17h00. La soirée se passe autour d'une boisson chaude au cœur du village alors que la température baisse."
           },
           "stops": [
             {
@@ -232,13 +255,15 @@
                 "de": "Kirche Saint-Trophyme",
                 "hu": "Saint-Trophyme templom",
                 "ro": "Biserica Saint-Trophyme",
-                "en": "Saint-Trophyme Church"
+                "en": "Saint-Trophyme Church",
+                "fr": "Église Saint‑Trophyme"
               },
               "tip_5lang": {
                 "de": "Besuchen Sie die Kirche am Vormittag, wenn die Wintersonne durch die Fenster bricht; die dicken Steinmauern halten die Kälte draußen.",
                 "hu": "Látogasd meg a templomot délelőtt, amikor a téli nap áttör az ablakokon; a vastag kőfalak kint tartják a hideget, bent pedig béke honol.",
                 "ro": "Vizitați biserica dimineața, când soarele de iarnă pătrunde prin ferestre; zidurile groase de piatră mențin frigul afară și liniștea înăuntru.",
-                "en": "Visit the church in the morning when the winter sun breaks through the windows; the thick stone walls keep the chill out and the peace in."
+                "en": "Visit the church in the morning when the winter sun breaks through the windows; the thick stone walls keep the chill out and the peace in.",
+                "fr": "Visitez l'église le matin lorsque le soleil d'hiver perce les vitraux ; les murs de pierre épais gardent la fraîcheur à l'extérieur et la paix à l'intérieur."
               }
             },
             {
@@ -246,13 +271,15 @@
                 "de": "Kapelle Saint-François-de-Paule",
                 "hu": "Saint-François-de-Paule kápolna",
                 "ro": "Capela Saint-François-de-Paule",
-                "en": "Saint-François-de-Paule Chapel"
+                "en": "Saint-François-de-Paule Chapel",
+                "fr": "Chapelle Saint‑François‑de‑Paule"
               },
               "tip_5lang": {
                 "de": "Die kleine Kapelle liegt oft im direkten Sonnenlicht; ein wunderbarer Ort, um kurz die Winterjacke zu öffnen und Wärme zu tanken.",
                 "hu": "A kis kápolna gyakran közvetlen napfényben fürdik; csodálatos hely, hogy rövid időre kigombold a kabátod és magadba szívd a nap melegét.",
                 "ro": "Mica chapelă este adesea scăldată în lumina directă a soarelui; un loc minunat pentru a deschide geaca și a absorbi puțină căldură naturală.",
-                "en": "The small chapel is often bathed in direct sunlight; a wonderful spot to briefly unbutton your coat and soak up some natural warmth."
+                "en": "The small chapel is often bathed in direct sunlight; a wonderful spot to briefly unbutton your coat and soak up some natural warmth.",
+                "fr": "La petite chapelle est souvent baignée de soleil direct ; un endroit merveilleux pour déboutonner brièvement votre manteau et profiter d'un peu de chaleur naturelle."
               }
             },
             {
@@ -260,13 +287,15 @@
                 "de": "Gonzalez-Park",
                 "hu": "Gonzalez Park",
                 "ro": "Parcul Gonzalez",
-                "en": "Gonzalez Park"
+                "en": "Gonzalez Park",
+                "fr": "Parc Gonzalez"
               },
               "tip_5lang": {
                 "de": "Suchen Sie nach den blühenden Mimosen, die im Winter Farbtupfer setzen; tragen Sie feste Schuhe für die kühlen, schattigen Gartenwege.",
                 "hu": "Keresd a virágzó mimózákat, amelyek télen élénk színeket visznek a tájba; viselj meleg cipőt a hűvösebb, árnyékos kerti ösvényeken.",
                 "ro": "Căutați mimozele înflorite care aduc pete de culoare în peisajul de iarnă; purtați încălțăminte călduroasă pentru potecile umbrite din grădină.",
-                "en": "Look for the blooming mimosas that bring splashes of color to the winter landscape; wear warm shoes for the cooler, shaded garden paths."
+                "en": "Look for the blooming mimosas that bring splashes of color to the winter landscape; wear warm shoes for the cooler, shaded garden paths.",
+                "fr": "Cherchez les mimosas en fleur qui apportent des touches de couleur au paysage hivernal ; portez des chaussures chaudes pour les allées ombragées et plus fraîches du jardin."
               }
             },
             {
@@ -274,13 +303,15 @@
                 "de": "Strand von Cabasson",
                 "hu": "Cabasson strand",
                 "ro": "Plaja Cabasson",
-                "en": "Cabasson Beach"
+                "en": "Cabasson Beach",
+                "fr": "Plage de Cabasson"
               },
               "tip_5lang": {
                 "de": "Der leere Strand lädt zu einem langen Spaziergang ein; ziehen Sie eine winddichte Schicht an, da die Brise im Winter schneidend sein kann.",
                 "hu": "Az üres strand hosszú sétára hívogat; vegyél fel szélálló réteget, mivel a tengeri fuvallat télen metszően hideg lehet a parton.",
                 "ro": "Plaja pustie invită la o plimbare lungă; purtați un strat rezistent la vânt, deoarece briza mării poate fi tăioasă în timpul iernii.",
-                "en": "The empty beach invites a long stroll; wear a windproof layer, as the sea breeze can be piercingly cold during the winter months."
+                "en": "The empty beach invites a long stroll; wear a windproof layer, as the sea breeze can be piercingly cold during the winter months.",
+                "fr": "La plage déserte invite à une longue promenade ; portez une couche coupe‑vent car la brise marine peut être perçante en hiver."
               }
             },
             {
@@ -288,13 +319,15 @@
                 "de": "Fort de Brégançon",
                 "hu": "Fort de Brégançon",
                 "ro": "Fort de Brégançon",
-                "en": "Fort de Brégançon"
+                "en": "Fort de Brégançon",
+                "fr": "Fort de Brégançon"
               },
               "tip_5lang": {
                 "de": "Genießen Sie die klare Fernsicht bis zum Horizont; planen Sie den Rückweg vor 17:00 Uhr ein, bevor die Dämmerung und die Kälte einsetzen.",
                 "hu": "Élvezd a tiszta kilátást egészen a horizontig; tervezd meg a visszautat 17:00 előtt, mielőtt beáll a szürkület és a hirtelen lehűlés.",
                 "ro": "Bucurați-vă de vizibilitatea clară până la orizont; planificați drumul de întoarcere înainte de ora 17:00, când se lasă amurgul și frigul.",
-                "en": "Enjoy the clear views all the way to the horizon; plan your return journey before 5:00 PM before twilight and the sharp chill set in."
+                "en": "Enjoy the clear views all the way to the horizon; plan your return journey before 5:00 PM before twilight and the sharp chill set in.",
+                "fr": "Profitez des vues dégagées jusqu'à l'horizon ; prévoyez votre retour avant 17h00 pour éviter le crépuscule et la baisse de température."
               }
             }
           ]
@@ -314,7 +347,8 @@
             "de": "Kirche Saint-Trophyme",
             "hu": "Saint-Trophyme templom",
             "ro": "Biserica Saint-Trophyme",
-            "en": "Saint-Trophyme Church"
+            "en": "Saint-Trophyme Church",
+            "fr": "Église Saint‑Trophyme"
           },
           "coords": [
             6.342383,
@@ -329,7 +363,8 @@
             "de": "Bewundern Sie die romanische Architektur dieser historischen Kirche im Dorfzentrum und nutzen Sie den schattigen Platz nebenan für eine Pause.",
             "hu": "Csodálja meg a falu központjában álló történelmi templom román stílusú építészetét, és pihenjen egyet a közeli árnyékos téren.",
             "ro": "Admirați arhitectura romanică a acestei biserici istorice care ancorează satul și căutați piațeta umbrită din apropiere pentru o pauză liniștită.",
-            "en": "Admire the Romanesque architecture of this historic church that anchors the village, and check the shaded square nearby for a quiet rest."
+            "en": "Admire the Romanesque architecture of this historic church that anchors the village, and check the shaded square nearby for a quiet rest.",
+            "fr": "Admirez l'architecture romane de cette église historique qui ancre le village, et vérifiez la place ombragée à proximité pour un repos tranquille."
           }
         },
         {
@@ -337,7 +372,8 @@
             "de": "Gonzalez-Park",
             "hu": "Gonzalez Park",
             "ro": "Parcul Gonzalez",
-            "en": "Gonzalez Park"
+            "en": "Gonzalez Park",
+            "fr": "Parc Gonzalez"
           },
           "coords": [
             6.345174,
@@ -352,7 +388,8 @@
             "de": "Erkunden Sie diesen außergewöhnlichen botanischen Garten mit seltenen australischen Pflanzen, aber tragen Sie feste Schuhe für die steilen Wege.",
             "hu": "Fedezze fel ezt a ritka ausztrál növényekkel teli, kivételes botanikus kertet, de viseljen kényelmes cipőt, mivel a teraszos ösvények meredekek.",
             "ro": "Explorați această grădină botanică excepțională plină de plante australiene rare, dar purtați încălțăminte stabilă deoarece aleile pot fi abrupte.",
-            "en": "Explore this exceptional botanical garden filled with rare Australian plants, but wear sturdy shoes as the terraced paths can be quite steep."
+            "en": "Explore this exceptional botanical garden filled with rare Australian plants, but wear sturdy shoes as the terraced paths can be quite steep.",
+            "fr": "Explorez cet exceptionnel jardin botanique rempli de plantes australiennes rares, mais portez des chaussures robustes car les sentiers en terrasses peuvent être assez raides."
           }
         },
         {
@@ -360,7 +397,8 @@
             "de": "Fort de Brégançon",
             "hu": "Fort de Brégançon",
             "ro": "Fort de Brégançon",
-            "en": "Fort de Brégançon"
+            "en": "Fort de Brégançon",
+            "fr": "Fort de Brégançon"
           },
           "coords": [
             6.3221,
@@ -375,7 +413,8 @@
             "de": "Besichtigen Sie den offiziellen Rückzugsort des französischen Präsidenten auf einer Felseninsel, und buchen Sie Ihre Führung weit im Voraus online.",
             "hu": "Járja be a francia elnök sziklás szigeten magasodó hivatalos nyaralóját, és ne felejtse el jó előre lefoglalni a vezetett túrát az interneten.",
             "ro": "Vizitați reședința oficială a președintelui francez situată pe o insulă stâncoasă și nu uitați să rezervați turul ghidat din timp online.",
-            "en": "Tour the official retreat of the French President perched on a rocky islet, and remember to book your guided visit well in advance online."
+            "en": "Tour the official retreat of the French President perched on a rocky islet, and remember to book your guided visit well in advance online.",
+            "fr": "Visitez la résidence officielle du Président français perchée sur un îlot rocheux, et n’oubliez pas de réserver votre visite guidée en ligne bien à l’avance."
           }
         },
         {
@@ -383,7 +422,8 @@
             "de": "Strand von Cabasson",
             "hu": "Cabasson strand",
             "ro": "Plaja Cabasson",
-            "en": "Cabasson Beach"
+            "en": "Cabasson Beach",
+            "fr": "Plage du Cabasson"
           },
           "coords": [
             6.324926,
@@ -398,7 +438,8 @@
             "de": "Entspannen Sie am feinen Sandstrand mit herrlichem Blick auf das Fort und kommen Sie früh, um sich einen guten Platz am Wasser zu sichern.",
             "hu": "Pihenjen ennek a festői strandnak a finom homokján, ahonnan remek kilátás nyílik az erődre, és érkezzen korán a legjobb helyekért.",
             "ro": "Relaxați-vă pe nisipul fin al acestei plaje pitorești cu vedere la fort și ajungeți devreme pentru a prinde un loc bun aproape de apă.",
-            "en": "Relax on the fine sands of this picturesque beach offering great views of the fort, and arrive early to secure a good spot near the water."
+            "en": "Relax on the fine sands of this picturesque beach offering great views of the fort, and arrive early to secure a good spot near the water.",
+            "fr": "Détendez-vous sur le sable fin de cette plage pittoresque offrant une belle vue sur le fort, et arrivez tôt pour trouver une bonne place près de l’eau."
           }
         },
         {
@@ -406,7 +447,8 @@
             "de": "Strand Grand Jardin",
             "hu": "Grand Jardin strand",
             "ro": "Plaja Grand Jardin",
-            "en": "Plage du Grand Jardin"
+            "en": "Plage du Grand Jardin",
+            "fr": "Plage du Grand Jardin"
           },
           "coords": [
             6.309354,
@@ -421,7 +463,8 @@
             "de": "Erholen Sie sich in der ruhigen, naturbelassenen Umgebung dieses verborgenen Küstenjuwels und bringen Sie eigene Snacks mit, da es kaum Kioske gibt.",
             "hu": "Kapcsolódjon ki e rejtett tengerparti gyöngyszem nyugodt és érintetlen természeti környezetében, de hozzon magával vizet és nasit az útra.",
             "ro": "Relaxați-vă în cadrul natural liniștit al acestei bijuterii de coastă ascunse, aducându-vă propriile gustări și apă, deoarece facilitățile sunt rare.",
-            "en": "Unwind in the tranquil and preserved natural setting of this hidden coastal gem, bringing your own snacks and water as facilities are sparse."
+            "en": "Unwind in the tranquil and preserved natural setting of this hidden coastal gem, bringing your own snacks and water as facilities are sparse.",
+            "fr": "Reposez-vous dans le cadre naturel préservé et tranquille de ce trésor côtier caché ; apportez vos propres collations et de l’eau car les installations sont rares."
           }
         },
         {
@@ -429,7 +472,8 @@
             "de": "Strand l'Estagnol",
             "hu": "l'Estagnol strand",
             "ro": "Plaja l'Estagnol",
-            "en": "Plage de l'Estagnol"
+            "en": "Plage de l'Estagnol",
+            "fr": "Plage de l'Estagnol"
           },
           "coords": [
             6.297762,
@@ -444,7 +488,8 @@
             "de": "Waten Sie in das flache, lagunenartige türkisfarbene Wasser unter Pinien und nehmen Sie Bargeld für die nahegelegenen Parkplätze mit.",
             "hu": "Gázoljon a fenyőfákkal övezett, sekély, lagúnaszerű türkizkék vízbe, és tartson magánál készpénzt a közeli parkoló és mosdók használatához.",
             "ro": "Pășiți în apele turcoaz puțin adânci, mărginite de pini, și asigurați-vă că aveți numerar pentru parcarea umbrită și facilitățile din apropiere.",
-            "en": "Wade into the shallow, lagoon-like turquoise waters framed by pine trees, and carry some cash for the nearby shaded parking and facilities."
+            "en": "Wade into the shallow, lagoon-like turquoise waters framed by pine trees, and carry some cash for the nearby shaded parking and facilities.",
+            "fr": "Flottez dans les eaux peu profondes et turquoise, en forme de lagune, bordées de pins, et prévoyez un peu d’argent liquide pour le parking ombragé et les installations à proximité."
           }
         }
       ],
@@ -452,7 +497,8 @@
         "de": "Starten Sie Ihre Tour im malerischen Dorfzentrum, besuchen Sie die historische Kirche und den Gonzalez-Park. Fahren Sie hinunter zur Küste, um gegen Mittag das große Fort de Brégançon zu erkunden. Der Nachmittag ist dem Strand-Hopping gewidmet, entspannen Sie nacheinander an den Stränden Cabasson, Grand Jardin und l'Estagnol.",
         "hu": "Kezdje a tekerést a bájos falu központjában, meglátogatva a történelmi templomot és a Gonzalez Parkot. Kerékpározzon le a partra, és fedezze fel a hatalmas Fort de Brégançont. A délutánt a gyönyörű partvonalon való ugrándozásnak szenteljük, pihenjen sorban a Cabasson, a Grand Jardin és az l'Estagnol strandokon.",
         "ro": "Începeți cursa în centrul fermecător al satului, vizitând biserica și admirând botanica din Parcul Gonzalez. Pedalați spre coastă pentru a explora Fortul de Brégançon la prânz. După-amiaza este dedicată plimbărilor de-a lungul coastei frumoase, relaxându-vă secvențial la plajele Cabasson, Grand Jardin și l'Estagnol.",
-        "en": "Kick off your ride in the charming village center, visiting the historic church before taking in the terraced botany of Gonzalez Park. Cycle down to the coast to explore the grand Fort de Brégançon around midday. The afternoon is dedicated to hopping along the beautiful coastline, unwinding sequentially at Cabasson, Grand Jardin, and l'Estagnol beaches."
+        "en": "Kick off your ride in the charming village center, visiting the historic church before taking in the terraced botany of Gonzalez Park. Cycle down to the coast to explore the grand Fort de Brégançon around midday. The afternoon is dedicated to hopping along the beautiful coastline, unwinding sequentially at Cabasson, Grand Jardin, and l'Estagnol beaches.",
+        "fr": "Commencez votre balade au charmant centre du village, visitez l’église historique puis découvrez la botanique en terrasses du parc Gonzalez. Descendez vers la côte pour explorer le grand Fort de Brégançon vers midi. L’après‑midi est consacré à la découverte de la magnifique côte, en vous détendant successivement aux plages du Cabasson, du Grand Jardin et de l’Estagnol."
       },
       "variants": {
         "rainy": {
@@ -460,7 +506,8 @@
             "de": "Vorsicht am Morgen auf den nassen Pflastersteinen des Dorfes. Mittags radeln wir durch die duftenden Pinienwälder, die einen Teil des Regens abfangen. Am Nachmittag erreichen wir die Küstenstraße, wo wir die Brandung unter grauem Himmel beobachten. Mit Regenbekleidung ist die Tour erfrischend, doch achten wir stets auf den Bremsweg. Den Abend verbringen wir trocken im Dorf.",
             "hu": "Reggel legyünk óvatosak a falu vizes macskakövein. Délben az illatos fenyőerdőkön át kerekezünk, melyek felfogják az eső egy részét. Délután érjük el a parti utat, ahol a szürke ég alatt figyeljük a hullámokat. Esőruházatban a túra frissítő, de mindig figyelünk a hosszabb féktávra. Az estét már száraz helyen, a falu védelmében töltjük.",
             "ro": "Atenție dimineața pe pietrele cubice umede din sat. La prânz pedalăm prin pădurile de pini parfumate, care opresc o parte din ploaie. După-amiaza ajungem la drumul de coastă, admirând valurile sub cerul gri. Cu echipament impermeabil turul este revigorant, dar atenție la distanța de frânare. Seara ne găsește la adăpost, în siguranța satului.",
-            "en": "Be careful in the morning on the wet cobblestones of the village. At noon, we cycle through fragrant pine forests that intercept some of the rain. In the afternoon, we reach the coastal road, watching the waves under a gray sky. With waterproof gear, the ride is refreshing, but always mind the longer braking distance. The evening ends dry back in the village."
+            "en": "Be careful in the morning on the wet cobblestones of the village. At noon, we cycle through fragrant pine forests that intercept some of the rain. In the afternoon, we reach the coastal road, watching the waves under a gray sky. With waterproof gear, the ride is refreshing, but always mind the longer braking distance. The evening ends dry back in the village.",
+            "fr": "Soyez prudent le matin sur les pavés mouillés du village. À midi, nous traversons des forêts de pins parfumées qui interceptent une partie de la pluie. L’après‑midi, nous atteignons la route côtière, regardant les vagues sous un ciel gris. Avec des vêtements imperméables, la sortie est rafraîchissante, mais gardez toujours à l’esprit la distance de freinage plus longue. La soirée se termine au sec de retour au village."
           },
           "stops": [
             {
@@ -468,13 +515,15 @@
                 "de": "Kirche Saint-Trophyme",
                 "hu": "Saint-Trophyme templom",
                 "ro": "Biserica Saint-Trophyme",
-                "en": "Saint-Trophyme Church"
+                "en": "Saint-Trophyme Church",
+                "fr": "Église Saint-Trophyme"
               },
               "tip_5lang": {
                 "de": "Nutzen Sie den Kirchenbesuch, um Ihre Regenbekleidung kurz zu lüften; der Innenraum ist trocken und bietet eine ruhige Atmosphäre für Radfahrer.",
                 "hu": "Használd ki a templomlátogatást az esőruházat rövid szellőztetésére; a belső tér száraz, és nyugodt légkört kínál a megázott bringásoknak.",
                 "ro": "Folosiți vizita la biserică pentru a vă aerisi echipamentul de ploaie; interiorul este uscat și oferă o atmosferă liniștită pentru bicicliști.",
-                "en": "Use the church visit to briefly air out your rain gear; the interior is dry and offers a peaceful atmosphere for damp cyclists."
+                "en": "Use the church visit to briefly air out your rain gear; the interior is dry and offers a peaceful atmosphere for damp cyclists.",
+                "fr": "Profitez de la visite de l’église pour aérer brièvement vos vêtements de pluie ; l’intérieur est sec et offre une atmosphère paisible pour les cyclistes trempés."
               }
             },
             {
@@ -482,13 +531,15 @@
                 "de": "Gonzalez-Park",
                 "hu": "Gonzalez Park",
                 "ro": "Parcul Gonzalez",
-                "en": "Gonzalez Park"
+                "en": "Gonzalez Park",
+                "fr": "Parc Gonzalez"
               },
               "tip_5lang": {
                 "de": "Parken Sie Ihr Rad an einem festen Platz; die dichten Palmenblätter bieten einen natürlichen Regenschirm für eine kurze Wanderpause im Grünen.",
                 "hu": "Parkold le a bringát egy szilárd ponton; a sűrű pálmalevelek természetes esernyőként szolgálnak egy rövid, zöldellő pihenőhöz az esőben.",
                 "ro": "Parcați bicicleta într-un loc stabil; frunzele dese de palmier oferă o umbrelă naturală pentru o scurtă pauză de odihnă în aer liber.",
-                "en": "Park your bike on a solid spot; the dense palm leaves act as a natural umbrella for a short, lush rest break during the rain."
+                "en": "Park your bike on a solid spot; the dense palm leaves act as a natural umbrella for a short, lush rest break during the rain.",
+                "fr": "Garez votre vélo sur un emplacement solide ; les feuilles denses des palmiers font office de parapluie naturel pour une courte pause verdoyante pendant la pluie."
               }
             },
             {
@@ -496,13 +547,15 @@
                 "de": "Fort de Brégançon",
                 "hu": "Fort de Brégançon",
                 "ro": "Fort de Brégançon",
-                "en": "Fort de Brégançon"
+                "en": "Fort de Brégançon",
+                "fr": "Fort de Brégançon"
               },
               "tip_5lang": {
                 "de": "Der Weg zum Fort kann bei Regen rutschig sein; reduzieren Sie Ihr Tempo auf den Kurven und genießen Sie die kühle, salzige Meeresluft.",
                 "hu": "Az erődhöz vezető út esőben csúszós lehet; csökkentsd a sebességet a kanyarokban és élvezd a hűvös, sós tengeri levegő frissességét.",
                 "ro": "Drumul spre fort poate fi alunecos pe ploaie; reduceți viteza în curbe și bucurați-vă de prospețimea aerului sărat al mării.",
-                "en": "The road to the fort can be slippery in the rain; reduce your speed on bends and enjoy the freshness of the cool, salty sea air."
+                "en": "The road to the fort can be slippery in the rain; reduce your speed on bends and enjoy the freshness of the cool, salty sea air.",
+                "fr": "La route menant au fort peut être glissante sous la pluie ; réduisez votre vitesse dans les virages et profitez de la fraîcheur de l’air marin salé."
               }
             },
             {
@@ -510,13 +563,15 @@
                 "de": "Strand von Cabasson",
                 "hu": "Cabasson strand",
                 "ro": "Plaja Cabasson",
-                "en": "Cabasson Beach"
+                "en": "Cabasson Beach",
+                "fr": "Plage du Cabasson"
               },
               "tip_5lang": {
                 "de": "Ein kurzer Stopp reicht aus, um die Kraft der Wellen zu sehen; halten Sie Abstand zum Sand, der bei Regen schwer befahrbar wird.",
                 "hu": "Egy rövid megálló elég, hogy lásd a hullámok erejét; tarts távolságot a homoktól, amely esőben nehezen járhatóvá válik a biciklivel.",
                 "ro": "O scurtă oprire este suficientă pentru a vedea forța valurilor; păstrați distanța față de nisip, care devine greu de parcurs cu bicicleta.",
-                "en": "A short stop is enough to see the power of the waves; keep your distance from the sand, which becomes difficult to cycle through in rain."
+                "en": "A short stop is enough to see the power of the waves; keep your distance from the sand, which becomes difficult to cycle through in rain.",
+                "fr": "Un court arrêt suffit pour constater la puissance des vagues ; tenez-vous à distance du sable, qui devient difficile à traverser à vélo sous la pluie."
               }
             },
             {
@@ -524,13 +579,15 @@
                 "de": "Strand Grand Jardin",
                 "hu": "Grand Jardin strand",
                 "ro": "Plaja Grand Jardin",
-                "en": "Plage du Grand Jardin"
+                "en": "Plage du Grand Jardin",
+                "fr": "Plage du Grand Jardin"
               },
               "tip_5lang": {
                 "de": "Die feuchte Erde duftet hier besonders intensiv; nutzen Sie die asphaltierten Abschnitte für einen sicheren Halt und einen Blick auf das Meer.",
                 "hu": "A nedves föld illata itt különösen intenzív; használd az aszfaltozott részeket a biztonságos megálláshoz és a tengeri kilátáshoz.",
                 "ro": "Pământul umed miroase deosebit de intens aici; folosiți secțiunile asfaltate pentru o oprire sigură și o privire spre mare.",
-                "en": "The damp earth smells particularly intense here; use the paved sections for a safe stop and a view of the stormy sea."
+                "en": "The damp earth smells particularly intense here; use the paved sections for a safe stop and a view of the stormy sea.",
+                "fr": "La terre humide exhale ici un parfum particulièrement intense ; utilisez les sections pavées pour un arrêt sûr et une vue sur la mer agitée."
               }
             },
             {
@@ -538,13 +595,15 @@
                 "de": "Strand l'Estagnol",
                 "hu": "l'Estagnol strand",
                 "ro": "Plaja l'Estagnol",
-                "en": "Plage de l'Estagnol"
+                "en": "Plage de l'Estagnol",
+                "fr": "Plage de l'Estagnol"
               },
               "tip_5lang": {
                 "de": "Die Pinien bieten auch hier etwas Schutz; prüfen Sie Ihre Bremsen vor der Rückfahrt ins Dorf, da die Straßen nun komplett nass sind.",
                 "hu": "A fenyők itt is nyújtanak némi védelmet; ellenőrizd a fékeket a faluba való visszatérés előtt, mivel az utak már teljesen vizesek.",
                 "ro": "Pinii oferă și aici puțin adăpost; verificați frânele înainte de întoarcerea în sat, deoarece drumurile sunt acum complet ude.",
-                "en": "The pines offer some shelter here too; check your brakes before heading back to the village, as the roads are now completely wet."
+                "en": "The pines offer some shelter here too; check your brakes before heading back to the village, as the roads are now completely wet.",
+                "fr": "Les pins offrent aussi un abri ici ; vérifiez vos freins avant de retourner au village, car les routes sont désormais complètement mouillées."
               }
             }
           ]
@@ -554,7 +613,8 @@
             "de": "Ein frischer Start am Vormittag mit Handschuhen und Mütze. Mittags genießen wir die wärmende Sonne auf den flacheren Etappen entlang der Weinberge. Am Nachmittag radeln wir an der Küste entlang, wo das tiefblaue Wasser im Winterlicht glitzert. Wir planen unsere Tour so, dass wir vor Sonnenuntergang um 17:00 Uhr zurück sind, wenn die Temperaturen rasch sinken.",
             "hu": "Friss délelőtti kezdés kesztyűben és sapkában. Délben a szőlőültetvények menti lankásabb szakaszokon élvezzük a melengető napsütést. Délután a parton kerekezünk, ahol a mélykék víz szikrázik a téli fényben. Úgy tervezzük a túrát, hogy a 17:00-s naplemente előtt visszaérjünk, mielőtt a hőmérséklet hirtelen visszaesne.",
             "ro": "Un început proaspăt de dimineață cu mănuși și căciulă. La prânz ne bucurăm de soarele cald pe secțiunile mai plate de-a lungul podgoriilor. După-amiaza pedalăm pe coastă, unde apa albastru închis sclipeste în lumina iernii. Planificăm turul pentru a ne întoarce înainte de apusul de la ora 17:00, când frigul revine.",
-            "en": "A crisp morning start with gloves and a hat. At noon, we enjoy the warming sun on the flatter stages along the vineyards. In the afternoon, we cycle by the coast where the deep blue water glitters in the winter light. We plan to be back before the 5:00 PM sunset, as temperatures drop rapidly afterward."
+            "en": "A crisp morning start with gloves and a hat. At noon, we enjoy the warming sun on the flatter stages along the vineyards. In the afternoon, we cycle by the coast where the deep blue water glitters in the winter light. We plan to be back before the 5:00 PM sunset, as temperatures drop rapidly afterward.",
+            "fr": "Un départ matinal vif avec gants et bonnet. À midi, nous profitons du soleil réchauffant sur les étapes plus plates le long des vignobles. L’après‑midi, nous roulons le long de la côte où l’eau bleu profond scintille dans la lumière hivernale. Nous prévoyons d’être de retour avant le coucher du soleil à 17h00, car les températures chutent rapidement ensuite."
           },
           "stops": [
             {
@@ -562,13 +622,15 @@
                 "de": "Kirche Saint-Trophyme",
                 "hu": "Saint-Trophyme templom",
                 "ro": "Biserica Saint-Trophyme",
-                "en": "Saint-Trophyme Church"
+                "en": "Saint-Trophyme Church",
+                "fr": "Église Saint-Trophyme"
               },
               "tip_5lang": {
                 "de": "Die Morgensonne wärmt die Kirchenmauer; ein idealer Ort für den ersten Check der Ausrüstung vor der Fahrt in die kühlere Natur.",
                 "hu": "A reggeli nap szépen melegíti a templomfalat; ideális hely a felszerelés utolsó ellenőrzésére, mielőtt kihajtanál a hűvösebb természetbe.",
                 "ro": "Soarele dimineții încălzește peretele bisericii; un loc ideal pentru o ultimă verificare a echipamentului înainte de a pleca în natură.",
-                "en": "The morning sun warms the church walls; an ideal spot for a final gear check before heading out into the cooler natural surroundings."
+                "en": "The morning sun warms the church walls; an ideal spot for a final gear check before heading out into the cooler natural surroundings.",
+                "fr": "Le soleil du matin réchauffe les murs de l’église ; un lieu idéal pour une dernière vérification de l’équipement avant d’affronter les environs naturels plus frais."
               }
             },
             {
@@ -576,13 +638,15 @@
                 "de": "Gonzalez-Park",
                 "hu": "Gonzalez Park",
                 "ro": "Parcul Gonzalez",
-                "en": "Gonzalez Park"
+                "en": "Gonzalez Park",
+                "fr": "Parc Gonzalez"
               },
               "tip_5lang": {
                 "de": "Genießen Sie die Ruhe ohne Touristenmassen; die winterharten Pflanzen bieten auch jetzt ein grünes Erlebnis während einer kurzen Trinkpause.",
                 "hu": "Élvezd a nyugalmat turistaáradat nélkül; a télálló növények most is zöld élményt nyújtanak egy rövid, frissítő italszünet idején.",
                 "ro": "Bucurați-vă de liniște fără masele de turiști; plantele rezistente la iarnă oferă o experiență verde chiar și acum, în timpul unei pauze.",
-                "en": "Enjoy the peace without the tourist crowds; the winter-hardy plants still offer a green experience during a short hydration break."
+                "en": "Enjoy the peace without the tourist crowds; the winter-hardy plants still offer a green experience during a short hydration break.",
+                "fr": "Profitez du calme sans la foule touristique ; les plantes résistantes à l’hiver offrent encore une expérience verdoyante pendant une courte pause hydratation."
               }
             },
             {
@@ -590,13 +654,15 @@
                 "de": "Fort de Brégançon",
                 "hu": "Fort de Brégançon",
                 "ro": "Fort de Brégançon",
-                "en": "Fort de Brégançon"
+                "en": "Fort de Brégançon",
+                "fr": "Fort de Brégançon"
               },
               "tip_5lang": {
                 "de": "Die Sicht ist im Winter oft klarer; nutzen Sie die Auffahrt, um den Kreislauf in Schwung zu bringen und das Panorama zu genießen.",
                 "hu": "A kilátás télen gyakran sokkal tisztább; használd az emelkedőt a keringésed felpörgetésére, majd élvezd a zavartalan tengeri panorámát.",
                 "ro": "Vizibilitatea este adesea mult mai clară iarna; folosiți urcarea pentru a vă pune sângele în mișcare și bucurați-vă de panorama marină.",
-                "en": "Visibility is often much clearer in winter; use the climb to get your circulation going, then enjoy the uninterrupted sea panorama."
+                "en": "Visibility is often much clearer in winter; use the climb to get your circulation going, then enjoy the uninterrupted sea panorama.",
+                "fr": "La visibilité est souvent bien plus claire en hiver ; utilisez la montée pour relancer la circulation, puis profitez du panorama marin sans entrave."
               }
             },
             {
@@ -604,13 +670,15 @@
                 "de": "Strand von Cabasson",
                 "hu": "Cabasson strand",
                 "ro": "Plaja Cabasson",
-                "en": "Cabasson Beach"
+                "en": "Cabasson Beach",
+                "fr": "Plage du Cabasson"
               },
               "tip_5lang": {
                 "de": "Perfekt für ein kurzes Picknick in der Mittagssonne; der Windschatten der Dünen schützt vor der kühlen Brise während der Rast.",
                 "hu": "Tökéletes hely egy rövid piknikhez a déli napsütésben; a dűnék szélárnyéka megvéd a hűvös fuvallattól a pihenő ideje alatt.",
                 "ro": "Perfect pentru un scurt picnic în soarele de prânz; adăpostul dunelor vă protejează de briza rece în timpul odihnei.",
-                "en": "Perfect for a short picnic in the midday sun; the wind shadow of the dunes protects you from the cool breeze during your rest."
+                "en": "Perfect for a short picnic in the midday sun; the wind shadow of the dunes protects you from the cool breeze during your rest.",
+                "fr": "Parfaite pour un court pique‑nique au soleil de midi ; l’abri du vent formé par les dunes vous protège de la brise fraîche pendant la pause."
               }
             },
             {
@@ -618,13 +686,15 @@
                 "de": "Strand Grand Jardin",
                 "hu": "Grand Jardin strand",
                 "ro": "Plaja Grand Jardin",
-                "en": "Plage du Grand Jardin"
+                "en": "Plage du Grand Jardin",
+                "fr": "Plage du Grand Jardin"
               },
               "tip_5lang": {
                 "de": "Die tiefstehende Sonne zaubert lange Schatten auf den Weg; achten Sie auf sinkende Temperaturen am Nachmittag und bleiben Sie in Bewegung.",
                 "hu": "Az alacsonyan járó nap hosszú árnyékokat vet az útra; figyelj a délutáni lehűlésre és maradj mozgásban a testhő fenntartásához.",
                 "ro": "Soarele jos aruncă umbre lungi pe drum; atenție la scăderea temperaturii după-amiaza și rămâneți în mișcare pentru a vă încălzi.",
-                "en": "The low sun casts long shadows on the path; watch for falling temperatures in the afternoon and keep moving to maintain body heat."
+                "en": "The low sun casts long shadows on the path; watch for falling temperatures in the afternoon and keep moving to maintain body heat.",
+                "fr": "Le soleil bas projette de longues ombres sur le chemin ; surveillez la baisse de température l’après‑midi et gardez le mouvement pour maintenir la chaleur corporelle."
               }
             },
             {
@@ -632,13 +702,15 @@
                 "de": "Strand l'Estagnol",
                 "hu": "l'Estagnol strand",
                 "ro": "Plaja l'Estagnol",
-                "en": "Plage de l'Estagnol"
+                "en": "Plage de l'Estagnol",
+                "fr": "Plage de l'Estagnol"
               },
               "tip_5lang": {
                 "de": "Ein letzter Blick auf das glitzernde Meer, bevor Sie den Rückweg antreten; ziehen Sie eine extra Schicht für die Abfahrt im Schatten an.",
                 "hu": "Egy utolsó pillantás a csillogó tengerre a visszaindulás előtt; vegyél fel egy extra réteget az árnyékos szakaszokon való leguruláshoz.",
                 "ro": "O ultimă privire spre marea sclipitoare înainte de întoarcere; puneți un strat suplimentar pentru coborârea prin zonele umbrite.",
-                "en": "One last look at the sparkling sea before heading back; put on an extra layer for the descent through the increasingly shaded sections."
+                "en": "One last look at the sparkling sea before heading back; put on an extra layer for the descent through the increasingly shaded sections.",
+                "fr": "Un dernier regard sur la mer scintillante avant le retour ; enfilez une couche supplémentaire pour la descente à travers les sections de plus en plus ombragées."
               }
             }
           ]
@@ -658,7 +730,8 @@
             "de": "Kirche Saint-Trophyme",
             "hu": "Saint-Trophyme templom",
             "ro": "Biserica Saint-Trophyme",
-            "en": "Saint-Trophyme Church"
+            "en": "Saint-Trophyme Church",
+            "fr": "Église Saint-Trophyme"
           },
           "coords": [
             6.342383,
@@ -673,7 +746,8 @@
             "de": "Bewundern Sie die romanische Architektur dieser historischen Kirche im Dorfzentrum und nutzen Sie den schattigen Platz nebenan für eine Pause.",
             "hu": "Csodálja meg a falu központjában álló történelmi templom román stílusú építészetét, és pihenjen egyet a közeli árnyékos téren.",
             "ro": "Admirați arhitectura romanică a acestei biserici istorice care ancorează satul și căutați piațeta umbrită din apropiere pentru o pauză liniștită.",
-            "en": "Admire the Romanesque architecture of this historic church that anchors the village, and check the shaded square nearby for a quiet rest."
+            "en": "Admire the Romanesque architecture of this historic church that anchors the village, and check the shaded square nearby for a quiet rest.",
+            "fr": "Admirez l’architecture romane de cette église historique qui ancre le village, et consultez la place ombragée à proximité pour une pause tranquille."
           }
         },
         {
@@ -681,7 +755,8 @@
             "de": "Kapelle Saint-François-de-Paule",
             "hu": "Saint-François-de-Paule kápolna",
             "ro": "Capela Saint-François-de-Paule",
-            "en": "Saint-François-de-Paule Chapel"
+            "en": "Saint-François-de-Paule Chapel",
+            "fr": "Chapelle Saint-François-de-Paule"
           },
           "coords": [
             6.344496,
@@ -696,7 +771,8 @@
             "de": "Entdecken Sie die ruhige Atmosphäre dieser dem Schutzpatron geweihten Kapelle und bringen Sie Ihre Kamera für die malerischen Gassen mit.",
             "hu": "Fedezze fel a falu védőszentjének szentelt festői kápolna békés hangulatát, és hozzon fényképezőgépet a bájos környező sikátorokhoz.",
             "ro": "Descoperiți ambianța senină a acestei capele pitorești închinate sfântului patron al satului și aduceți un aparat foto pentru aleile fermecătoare.",
-            "en": "Discover the serene ambiance of this quaint chapel honoring the village's patron saint, and bring a camera for the charming surrounding alleys."
+            "en": "Discover the serene ambiance of this quaint chapel honoring the village's patron saint, and bring a camera for the charming surrounding alleys.",
+            "fr": "Découvrez l’ambiance sereine de cette chapelle pittoresque dédiée au saint patron du village, et apportez un appareil photo pour les ruelles charmantes qui l’entourent."
           }
         },
         {
@@ -704,7 +780,8 @@
             "de": "Fort de Brégançon",
             "hu": "Fort de Brégançon",
             "ro": "Fort de Brégançon",
-            "en": "Fort de Brégançon"
+            "en": "Fort de Brégançon",
+            "fr": "Fort de Brégançon"
           },
           "coords": [
             6.3221,
@@ -719,7 +796,8 @@
             "de": "Besichtigen Sie den offiziellen Rückzugsort des französischen Präsidenten auf einer Felseninsel, und buchen Sie Ihre Führung weit im Voraus online.",
             "hu": "Járja be a francia elnök sziklás szigeten magasodó hivatalos nyaralóját, és ne felejtse el jó előre lefoglalni a vezetett túrát az interneten.",
             "ro": "Vizitați reședința oficială a președintelui francez situată pe o insulă stâncoasă și nu uitați să rezervați turul ghidat din timp online.",
-            "en": "Tour the official retreat of the French President perched on a rocky islet, and remember to book your guided visit well in advance online."
+            "en": "Tour the official retreat of the French President perched on a rocky islet, and remember to book your guided visit well in advance online.",
+            "fr": "Visitez la résidence officielle du Président français perchée sur un îlot rocheux, et n’oubliez pas de réserver votre visite guidée en ligne bien à l’avance."
           }
         },
         {
@@ -727,7 +805,8 @@
             "de": "Strand von Cabasson",
             "hu": "Cabasson strand",
             "ro": "Plaja Cabasson",
-            "en": "Cabasson Beach"
+            "en": "Cabasson Beach",
+            "fr": "Plage du Cabasson"
           },
           "coords": [
             6.324926,
@@ -742,7 +821,8 @@
             "de": "Entspannen Sie am feinen Sandstrand mit herrlichem Blick auf das Fort und kommen Sie früh, um sich einen guten Platz am Wasser zu sichern.",
             "hu": "Pihenjen ennek a festői strandnak a finom homokján, ahonnan remek kilátás nyílik az erődre, és érkezzen korán a legjobb helyekért.",
             "ro": "Relaxați-vă pe nisipul fin al acestei plaje pitorești cu vedere la fort și ajungeți devreme pentru a prinde un loc bun aproape de apă.",
-            "en": "Relax on the fine sands of this picturesque beach offering great views of the fort, and arrive early to secure a good spot near the water."
+            "en": "Relax on the fine sands of this picturesque beach offering great views of the fort, and arrive early to secure a good spot near the water.",
+            "fr": "Détendez-vous sur le sable fin de cette plage pittoresque offrant une belle vue sur le fort, et arrivez tôt pour trouver une bonne place près de l’eau."
           }
         },
         {
@@ -750,7 +830,8 @@
             "de": "Strand l'Estagnol",
             "hu": "l'Estagnol strand",
             "ro": "Plaja l'Estagnol",
-            "en": "Plage de l'Estagnol"
+            "en": "Plage de l'Estagnol",
+            "fr": "Plage de l'Estagnol"
           },
           "coords": [
             6.297762,
@@ -765,7 +846,8 @@
             "de": "Waten Sie in das flache, lagunenartige türkisfarbene Wasser unter Pinien und nehmen Sie Bargeld für die nahegelegenen Parkplätze mit.",
             "hu": "Gázoljon a fenyőfákkal övezett, sekély, lagúnaszerű türkizkék vízbe, és tartson magánál készpénzt a közeli parkoló és mosdók használatához.",
             "ro": "Pășiți în apele turcoaz puțin adânci, mărginite de pini, și asigurați-vă că aveți numerar pentru parcarea umbrită și facilitățile din apropiere.",
-            "en": "Wade into the shallow, lagoon-like turquoise waters framed by pine trees, and carry some cash for the nearby shaded parking and facilities."
+            "en": "Wade into the shallow, lagoon-like turquoise waters framed by pine trees, and carry some cash for the nearby shaded parking and facilities.",
+            "fr": "Flottez dans les eaux peu profondes et turquoise, en forme de lagune, bordées de pins, et prévoyez un peu d’argent liquide pour le parking ombragé et les installations à proximité."
           }
         },
         {
@@ -773,7 +855,8 @@
             "de": "Strand Léoube",
             "hu": "Léoube strand",
             "ro": "Plaja Léoube",
-            "en": "Plage de Léoube"
+            "en": "Plage de Léoube",
+            "fr": "Plage de Léoube"
           },
           "coords": [
             6.286783,
@@ -788,7 +871,8 @@
             "de": "Genießen Sie einen friedlichen Nachmittag an diesem wunderschönen weißen Sandstrand neben Weinbergen und tragen Sie reichlich Sonnencreme auf.",
             "hu": "Töltsön el egy békés délutánt ezen a gyönyörű, szőlőültetvényekkel határolt fehér homokos strandon, és használjon bőségesen naptejet.",
             "ro": "Bucurați-vă de o după-amiază pașnică pe această fâșie frumoasă de nisip alb, mărginită de podgorii, și aplicați multă cremă de protecție solară.",
-            "en": "Enjoy a peaceful afternoon on this beautiful stretch of white sand bordered by vineyards, and apply plenty of sunscreen against the vivid sun."
+            "en": "Enjoy a peaceful afternoon on this beautiful stretch of white sand bordered by vineyards, and apply plenty of sunscreen against the vivid sun.",
+            "fr": "Profitez d’un après‑midi paisible sur cette belle étendue de sable blanc bordée de vignobles, et appliquez généreusement de la crème solaire contre le soleil vif."
           }
         },
         {
@@ -796,7 +880,8 @@
             "de": "Strand Pellegrin - Bormes-les-Mimosas",
             "hu": "Pellegrin strand - Bormes-les-Mimosas",
             "ro": "Plaja Pellegrin - Bormes-les-Mimosas",
-            "en": "Plage du Pellegrin - Bormes-les-Mimosas"
+            "en": "Plage du Pellegrin - Bormes-les-Mimosas",
+            "fr": "Plage du Pellegrin - Bormes-les-Mimosas"
           },
           "coords": [
             6.274784,
@@ -811,7 +896,8 @@
             "de": "Machen Sie einen langen, erholsamen Spaziergang entlang dieser weitläufigen und wilden Küste, aber achten Sie beim Schwimmen auf die felsigen Abschnitte.",
             "hu": "Tegyen egy hosszú, frissítő sétát ezen a kiterjedt és vad partvonalon, de legyen óvatos a sziklás kiemelkedésekkel, amikor a széleken úszik.",
             "ro": "Faceți o plimbare lungă și revitalizantă de-a lungul acestei coaste sălbatice, dar fiți atenți la aflorimentele stâncoase când înotați la margini.",
-            "en": "Take a long, revitalizing walk along this extensive and wild coastline, but be cautious of the rocky outcrops when swimming near the edges."
+            "en": "Take a long, revitalizing walk along this extensive and wild coastline, but be cautious of the rocky outcrops when swimming near the edges.",
+            "fr": "Faites une longue promenade revigorante le long de cette côte vaste et sauvage, mais soyez prudents des écueils rocheux en nageant près des bords."
           }
         }
       ],
@@ -819,7 +905,8 @@
         "de": "Beginnen Sie Ihre Fahrt mit der malerischen Dorfatmosphäre und besuchen Sie die historischen Kapellen. Mittags erreichen Sie das beeindruckende Fort de Brégançon an der Mittelmeerküste. Verbringen Sie den Nachmittag damit, von einem unberührten Strand zum nächsten zu fahren, und beenden Sie Ihren Ausflug am Strand von Pellegrin.",
         "hu": "Kezdje az utat a falu békés atmoszférájának magába szívásával, történelmi kápolnáinak meglátogatásával. A dél a Földközi-tenger partján drámaian magasodó Fort de Brégançonhoz vezet. A délutánt csodás strandok között autózva töltse el, és zárja ezt a napfényes túrát a vad Pellegrin partszakaszánál.",
         "ro": "Începeți călătoria absorbind atmosfera pitorească a satului, vizitând capelele și biserica principală. Prânzul vă aduce la impunătorul Fort de Brégançon de pe coasta mediteraneană. Petreceți-vă după-amiaza conducând de la o plajă imaculată la alta, culminând evadarea însorită la nisipurile sălbatice din Pellegrin.",
-        "en": "Begin your drive absorbing the quaint village atmosphere by visiting its historical chapels and main church. Midday brings you to the imposing Fort de Brégançon, perched dramatically on the Mediterranean coast. Spend your afternoon cruising from one pristine beach to another, culminating your sunny coastal escape at the wild sands of Pellegrin."
+        "en": "Begin your drive absorbing the quaint village atmosphere by visiting its historical chapels and main church. Midday brings you to the imposing Fort de Brégançon, perched dramatically on the Mediterranean coast. Spend your afternoon cruising from one pristine beach to another, culminating your sunny coastal escape at the wild sands of Pellegrin.",
+        "fr": "Commencez votre trajet en profitant de l’atmosphère pittoresque du village en visitant ses chapelles historiques et l’église principale. À midi, découvrez l’imposant Fort de Brégançon, perché de façon spectaculaire sur la côte méditerranéenne. Passez l’après‑midi à longer les plages immaculées d’une à l’autre, en concluant votre escapade côtière au soleil sur les sables sauvages du Pellegrin."
       },
       "variants": {
         "rainy": {
@@ -827,7 +914,8 @@
             "de": "Ein entspannter Start im trockenen Auto. Mittags fahren wir gemütlich die Küste entlang, während der Regen gegen die Scheiben trommelt und die Landschaft in sanftes Grau taucht. Am Nachmittag besuchen wir verschiedene Strände und genießen die Aussicht von den Parkplätzen aus. Der Abend endet im beleuchteten Dorf, wo wir trockenen Fußes von Ort zu Ort gelangen.",
             "hu": "Kényelmes kezdés a száraz autóban. Délben komótosan gurulunk végig a parton, miközben az eső a szélvédőn kopog, és a tájat lágy szürkeségbe vonja. Délután több strandot is útba ejtünk, élvezve a kilátást közvetlenül a parkolókból. Az este a kivilágított faluban ér minket, ahol száraz lábbal jutunk el egyik helyszínről a másikra.",
             "ro": "Un început relaxat în mașina uscată. La prânz conducem agale de-a lungul coastei, în timp ce ploaia bate în parbriz și peisajul capătă nuanțe de gri. După-amiaza vizităm diverse plaje, bucurându-ne de priveliște direct din parcări. Seara se încheie în satul luminat, unde ajungem uscați de la un punct de interes la altul.",
-            "en": "A relaxed start in the dry car. At noon, we drive leisurely along the coast while rain drums on the windshield, cloaking the landscape in soft gray. In the afternoon, we visit several beaches, enjoying the views directly from the parking areas. The evening ends in the illuminated village, moving between spots without getting wet."
+            "en": "A relaxed start in the dry car. At noon, we drive leisurely along the coast while rain drums on the windshield, cloaking the landscape in soft gray. In the afternoon, we visit several beaches, enjoying the views directly from the parking areas. The evening ends in the illuminated village, moving between spots without getting wet.",
+            "fr": "Un départ détendu dans la voiture au sec. À midi, nous roulons lentement le long de la côte tandis que la pluie tambourine sur le pare‑brise, voilant le paysage de gris doux. L’après‑midi, nous visitons plusieurs plages en profitant des vues depuis les aires de stationnement. La soirée se termine dans le village illuminé, passant d’un point à l’autre sans se mouiller."
           },
           "stops": [
             {
@@ -835,13 +923,15 @@
                 "de": "Kirche Saint-Trophyme",
                 "hu": "Saint-Trophyme templom",
                 "ro": "Biserica Saint-Trophyme",
-                "en": "Saint-Trophyme Church"
+                "en": "Saint-Trophyme Church",
+                "fr": "Église Saint-Trophyme"
               },
               "tip_5lang": {
                 "de": "Parken Sie in der Nähe des Zentrums und nutzen Sie die Kirche als kulturellen Rückzugsort im Trockenen; perfekt für Fotos ohne Regenschleier.",
                 "hu": "Parkolj a központ közelében és használd a templomot kulturális menedékként; tökéletes hely fotózáshoz az esőfüggönyön kívül.",
                 "ro": "Parcați aproape de centru și folosiți biserica ca refugiu cultural uscat; este locul perfect pentru fotografii fără perdeaua de ploaie.",
-                "en": "Park near the center and use the church as a dry cultural retreat; it's the perfect spot for photos away from the rain veil."
+                "en": "Park near the center and use the church as a dry cultural retreat; it's the perfect spot for photos away from the rain veil.",
+                "fr": "Garez‑vous près du centre et utilisez l’église comme retraite culturelle à l’abri ; c’est l’endroit idéal pour des photos loin du voile de pluie."
               }
             },
             {
@@ -849,13 +939,15 @@
                 "de": "Kapelle Saint-François-de-Paule",
                 "hu": "Saint-François-de-Paule kápolna",
                 "ro": "Capela Saint-François-de-Paule",
-                "en": "Saint-François-de-Paule Chapel"
+                "en": "Saint-François-de-Paule Chapel",
+                "fr": "Chapelle Saint-François-de-Paule"
               },
               "tip_5lang": {
                 "de": "Ein kurzer Sprint vom Auto reicht aus, um die historische Kapelle zu besichtigen; der Regen unterstreicht die Melancholie dieses alten Ortes.",
                 "hu": "Egy rövid sprint az autótól elég a történelmi kápolna megtekintéséhez; az eső csak még inkább kiemeli ennek az ősi helynek a melankóliáját.",
                 "ro": "Un scurt sprint de la mașină este suficient pentru a vizita capela istorică; ploaia subliniază melancolia acestui loc străvechi.",
-                "en": "A quick sprint from the car is enough to visit the historic chapel; the rain only emphasizes the quiet melancholy of this ancient site."
+                "en": "A quick sprint from the car is enough to visit the historic chapel; the rain only emphasizes the quiet melancholy of this ancient site.",
+                "fr": "Un court sprint depuis la voiture suffit pour visiter la chapelle historique ; la pluie souligne seulement la mélancolie tranquille de ce lieu ancien."
               }
             },
             {
@@ -863,13 +955,15 @@
                 "de": "Fort de Brégançon",
                 "hu": "Fort de Brégançon",
                 "ro": "Fort de Brégançon",
-                "en": "Fort de Brégançon"
+                "en": "Fort de Brégançon",
+                "fr": "Fort de Brégançon"
               },
               "tip_5lang": {
                 "de": "Genießen Sie den Blick auf die Festung bequem vom Fahrersitz aus oder nutzen Sie eine Regenpause für ein schnelles Foto am Aussichtspunkt.",
                 "hu": "Élvezd az erőd látványát kényelmesen a vezetőülésből, vagy használj ki egy esőszünetet egy gyors fotóhoz a kilátópontnál.",
                 "ro": "Bucurați-vă de vederea spre fortăreață confortabil din scaunul șoferului sau profitați de o pauză de ploaie pentru o fotografie rapidă.",
-                "en": "Enjoy the view of the fortress comfortably from the driver's seat or take advantage of a rain break for a quick photo at the viewpoint."
+                "en": "Enjoy the view of the fortress comfortably from the driver's seat or take advantage of a rain break for a quick photo at the viewpoint.",
+                "fr": "Appréciez la vue sur la forteresse confortablement depuis le siège du conducteur ou profitez d’une accalmie pour une photo rapide au point de vue."
               }
             },
             {
@@ -877,13 +971,15 @@
                 "de": "Strand von Cabasson",
                 "hu": "Cabasson strand",
                 "ro": "Plaja Cabasson",
-                "en": "Cabasson Beach"
+                "en": "Cabasson Beach",
+                "fr": "Plage du Cabasson"
               },
               "tip_5lang": {
                 "de": "Beobachten Sie das stürmische Meer durch das Fenster; der Parkplatz bietet oft eine gute Sicht, ohne dass Sie nass werden müssen.",
                 "hu": "Figyeld a viharos tengert az ablakon keresztül; a parkoló gyakran jó kilátást nyújt anélkül, hogy bőrig kellene áznod.",
                 "ro": "Urmăriți marea înfuriată prin fereastra mașinii; parcarea oferă adesea o vedere bună fără a fi nevoie să vă udați.",
-                "en": "Watch the stormy sea through the car window; the parking lot often provides a good view without requiring you to get soaked."
+                "en": "Watch the stormy sea through the car window; the parking lot often provides a good view without requiring you to get soaked.",
+                "fr": "Contemplez la mer agitée à travers la vitre de la voiture ; le parking offre souvent une bonne vue sans que vous ayez à vous faire tremper."
               }
             },
             {
@@ -891,13 +987,15 @@
                 "de": "Strand l'Estagnol",
                 "hu": "l'Estagnol strand",
                 "ro": "Plaja l'Estagnol",
-                "en": "Plage de l'Estagnol"
+                "en": "Plage de l'Estagnol",
+                "fr": "Plage de l'Estagnol"
               },
               "tip_5lang": {
                 "de": "Die Zufahrt durch die Pinien ist auch bei Regen wunderschön; halten Sie kurz an, um den frischen Duft des feuchten Waldes einzuatmen.",
                 "hu": "A fenyőkön átvezető út esőben is gyönyörű; állj meg egy pillanatra, és lélegezd be a nedves erdő friss, gyantás illatát.",
                 "ro": "Drumul prin pini este superb chiar și pe ploaie; opriți un moment pentru a respira parfumul proaspăt al pădurii umede.",
-                "en": "The drive through the pines is beautiful even in rain; stop for a moment to breathe in the fresh, resinous scent of the damp woods."
+                "en": "The drive through the pines is beautiful even in rain; stop for a moment to breathe in the fresh, resinous scent of the damp woods.",
+                "fr": "La route à travers les pins est belle même sous la pluie ; arrêtez‑vous un instant pour respirer le parfum frais et résineux des bois humides."
               }
             },
             {
@@ -905,13 +1003,15 @@
                 "de": "Strand Léoube",
                 "hu": "Léoube strand",
                 "ro": "Plaja Léoube",
-                "en": "Plage de Léoube"
+                "en": "Plage de Léoube",
+                "fr": "Plage de Léoube"
               },
               "tip_5lang": {
                 "de": "Nutzen Sie das Auto als Basis für kleine Erkundungen; die Strände sind leer und bieten bei Regen eine ganz eigene, friedliche Ästhetik.",
                 "hu": "Használd az autót bázisként a rövid felfedezésekhez; a strandok üresek, és az esőben sajátos, békés esztétikát árasztanak.",
                 "ro": "Folosiți mașina ca bază pentru scurte explorări; plajele sunt pustii și oferă o estetică pașnică aparte sub ploaie.",
-                "en": "Use the car as a base for short explorations; the beaches are empty and offer a unique, peaceful aesthetic in the rain."
+                "en": "Use the car as a base for short explorations; the beaches are empty and offer a unique, peaceful aesthetic in the rain.",
+                "fr": "Utilisez la voiture comme base pour de courtes explorations ; les plages sont vides et offrent une esthétique unique et paisible sous la pluie."
               }
             },
             {
@@ -919,13 +1019,15 @@
                 "de": "Strand Pellegrin - Bormes-les-Mimosas",
                 "hu": "Pellegrin strand - Bormes-les-Mimosas",
                 "ro": "Plaja Pellegrin - Bormes-les-Mimosas",
-                "en": "Plage du Pellegrin - Bormes-les-Mimosas"
+                "en": "Plage du Pellegrin - Bormes-les-Mimosas",
+                "fr": "Plage du Pellegrin - Bormes-les-Mimosas"
               },
               "tip_5lang": {
                 "de": "Ein letzter Strandbesuch im Schutz des Wagens; genießen Sie die Melodie des Regens auf dem Autodach bei Blick auf die graue See.",
                 "hu": "Egy utolsó strandlátogatás az autó védelmében; élvezd az eső kopogását a tetőn, miközben a szürke tengert figyeled a melegből.",
                 "ro": "O ultimă vizită la plajă sub protecția mașinii; bucurați-vă de melodia ploii pe plafon în timp ce priviți marea cenușie.",
-                "en": "A final beach visit sheltered by the car; enjoy the melody of rain on the roof while watching the gray sea from the warmth."
+                "en": "A final beach visit sheltered by the car; enjoy the melody of rain on the roof while watching the gray sea from the warmth.",
+                "fr": "Une dernière visite de plage abritée par la voiture ; profitez de la mélodie de la pluie sur le toit tout en regardant la mer grise depuis la chaleur."
               }
             }
           ]
@@ -935,7 +1037,8 @@
             "de": "Am Morgen glitzert der Frost auf den Weinbergen, während wir im warmen Auto starten. Mittags führt uns die Fahrt zu sonnigen Küstenabschnitten mit glasklarer Fernsicht. Am Nachmittag erleben wir das goldene Licht an den leeren Stränden, ideal für kurze Spaziergänge. Wir beenden die Tour pünktlich zum Sonnenuntergang um 17:00 Uhr und genießen den Abend im gemütlichen Dorfzentrum.",
             "hu": "Reggel a dér csillog a szőlőültetvényeken, miközben a fűtött autóban útnak indulunk. Délben utunk a napsütötte parti szakaszokhoz vezet, ahol kristálytiszta a kilátás. Délután az arany fényeket élvezzük az üres strandokon, ami ideális rövid sétákhoz. A túrát pontosan a 17:00-s naplementére fejezzük be, majd az estét a falu barátságos központjában töltjük.",
             "ro": "Dimineața, bruma sclipeste pe podgorii în timp ce pornim la drum în mașina încălzită. La prânz, drumul ne poartă spre porțiuni însorite de coastă cu vizibilitate clară. După-amiaza experimentăm lumina aurie pe plajele pustii, ideale pentru plimbări scurte. Încheiem turul fix la apusul de la ora 17:00 și savurăm seara în centrul primitor al satului.",
-            "en": "In the morning, frost glitters on the vineyards as we start our journey in the heated car. At noon, the drive takes us to sunny coastal stretches with crystal-clear views. In the afternoon, we experience the golden light on empty beaches, ideal for short walks. We finish the tour right at the 5:00 PM sunset and enjoy the evening in the cozy village center."
+            "en": "In the morning, frost glitters on the vineyards as we start our journey in the heated car. At noon, the drive takes us to sunny coastal stretches with crystal-clear views. In the afternoon, we experience the golden light on empty beaches, ideal for short walks. We finish the tour right at the 5:00 PM sunset and enjoy the evening in the cozy village center.",
+            "fr": "Le matin, le givre scintille sur les vignobles tandis que nous commençons notre trajet dans la voiture chauffée. À midi, la route nous mène vers des plages ensoleillées aux vues limpides. L’après‑midi, nous profitons de la lumière dorée sur des plages désertes, idéales pour de courtes promenades. Nous terminons la visite juste au coucher du soleil à 17h00 et profitons de la soirée au cœur chaleureux du village."
           },
           "stops": [
             {
@@ -943,13 +1046,15 @@
                 "de": "Kirche Saint-Trophyme",
                 "hu": "Saint-Trophyme templom",
                 "ro": "Biserica Saint-Trophyme",
-                "en": "Saint-Trophyme Church"
+                "en": "Saint-Trophyme Church",
+                "fr": "Église Saint-Trophyme"
               },
               "tip_5lang": {
                 "de": "Die Wintersonne lässt das Dorf am Morgen erstrahlen; nutzen Sie die Parkplätze im Schatten für eine kurze Besichtigung zu Fuß.",
                 "hu": "A téli nap ragyogóvá teszi a falut reggel; használj egy közeli parkolót, és tegyél egy rövid sétát a templom körüli csendes utcákban.",
                 "ro": "Soarele de iarnă face satul să strălucească dimineața; folosiți o parcare apropiată pentru o scurtă vizită pe jos la biserică.",
-                "en": "The winter sun makes the village glow in the morning; use a nearby parking spot for a short walk through the quiet streets around the church."
+                "en": "The winter sun makes the village glow in the morning; use a nearby parking spot for a short walk through the quiet streets around the church.",
+                "fr": "Le soleil d’hiver fait briller le village le matin ; utilisez un parking à proximité pour une courte promenade dans les rues paisibles autour de l’église."
               }
             },
             {
@@ -957,13 +1062,15 @@
                 "de": "Kapelle Saint-François-de-Paule",
                 "hu": "Saint-François-de-Paule kápolna",
                 "ro": "Capela Saint-François-de-Paule",
-                "en": "Saint-François-de-Paule Chapel"
+                "en": "Saint-François-de-Paule Chapel",
+                "fr": "Chapelle Saint-François-de-Paule"
               },
               "tip_5lang": {
                 "de": "Die Kapelle ist im Winter ein Ort der Stille; genießen Sie die klare Luft und die sanfte Wärme der Sonne an der geschützten Südwand.",
                 "hu": "A kápolna télen a béke szigete; élvezd a tiszta levegőt és a nap lágy melegét a védett déli falnál egy rövid pihenő erejéig.",
                 "ro": "Capela este un loc al liniștii iarna; bucurați-vă de aerul curat și de căldura blândă a soarelui lângă peretele sudic adăpostit.",
-                "en": "The chapel is a sanctuary of peace in winter; enjoy the crisp air and the gentle warmth of the sun by the sheltered southern wall."
+                "en": "The chapel is a sanctuary of peace in winter; enjoy the crisp air and the gentle warmth of the sun by the sheltered southern wall.",
+                "fr": "La chapelle est un sanctuaire de paix en hiver ; profitez de l’air vif et de la douce chaleur du soleil près du mur méridional abrité."
               }
             },
             {
@@ -971,13 +1078,15 @@
                 "de": "Fort de Brégançon",
                 "hu": "Fort de Brégançon",
                 "ro": "Fort de Brégançon",
-                "en": "Fort de Brégançon"
+                "en": "Fort de Brégançon",
+                "fr": "Fort de Brégançon"
               },
               "tip_5lang": {
                 "de": "Die Parkplatzsuche ist im Winter völlig stressfrei; steigen Sie kurz aus, um das intensive Blau des Meeres bei klarem Wetter zu bewundern.",
                 "hu": "A parkolás télen teljesen stresszmentes; szállj ki egy pillanatra, hogy megcsodáld a tenger intenzív kékjét a tiszta téli időben.",
                 "ro": "Găsirea unui loc de parcare este lipsită de stres iarna; coborâți scurt pentru a admira albastrul intens al mării pe vreme senină.",
-                "en": "Parking is completely stress-free in winter; step out briefly to admire the intense blue of the sea in the clear winter weather."
+                "en": "Parking is completely stress-free in winter; step out briefly to admire the intense blue of the sea in the clear winter weather.",
+                "fr": "Le stationnement est complètement sans stress en hiver ; sortez un instant pour admirer l’intensité du bleu de la mer par beau temps hivernal."
               }
             },
             {
@@ -985,13 +1094,15 @@
                 "de": "Strand von Cabasson",
                 "hu": "Cabasson strand",
                 "ro": "Plaja Cabasson",
-                "en": "Cabasson Beach"
+                "en": "Cabasson Beach",
+                "fr": "Plage du Cabasson"
               },
               "tip_5lang": {
                 "de": "Der Strand gehört Ihnen fast allein; ein kurzer Spaziergang im hellen Mittagslicht ist belebend, bevor es zurück ins warme Auto geht.",
                 "hu": "A strand szinte csak a tiéd; egy rövid séta a fényes déli napsütésben frissítő élmény, mielőtt visszatérnél a meleg autóba.",
                 "ro": "Plaja este aproape doar a voastră; o scurtă plimbare în lumina puternică de la prânz este revigorantă înainte de a reveni în mașină.",
-                "en": "The beach is almost entirely yours; a short walk in the bright midday sun is refreshing before returning to the warm car."
+                "en": "The beach is almost entirely yours; a short walk in the bright midday sun is refreshing before returning to the warm car.",
+                "fr": "La plage est presque entièrement à vous ; une courte balade sous le soleil de midi est revigorante avant de revenir à la voiture chaude."
               }
             },
             {
@@ -999,13 +1110,15 @@
                 "de": "Strand l'Estagnol",
                 "hu": "l'Estagnol strand",
                 "ro": "Plaja l'Estagnol",
-                "en": "Plage de l'Estagnol"
+                "en": "Plage de l'Estagnol",
+                "fr": "Plage de l'Estagnol"
               },
               "tip_5lang": {
                 "de": "Die flachstehende Sonne glitzert spektakulär im seichten Wasser; nutzen Sie die Zeit für Fotos, bevor die Schatten der Pinien länger werden.",
                 "hu": "Az alacsonyan járó nap látványosan csillog a sekély vízben; használd ki az időt fotózásra, mielőtt a fenyők árnyéka túl hosszúra nyúlna.",
                 "ro": "Soarele jos sclipeste spectaculos în apa puțin adâncă; profitați de timp pentru fotografii înainte ca umbrele pinilor să se lungească.",
-                "en": "The low sun sparkles spectacularly in the shallow water; use this time for photos before the shadows of the pines grow too long."
+                "en": "The low sun sparkles spectacularly in the shallow water; use this time for photos before the shadows of the pines grow too long.",
+                "fr": "Le soleil bas scintille spectaculairement dans l’eau peu profonde ; profitez de ce moment pour des photos avant que les ombres des pins ne s’allongent trop."
               }
             },
             {
@@ -1013,13 +1126,15 @@
                 "de": "Strand Léoube",
                 "hu": "Léoube strand",
                 "ro": "Plaja Léoube",
-                "en": "Plage de Léoube"
+                "en": "Plage de Léoube",
+                "fr": "Plage de Léoube"
               },
               "tip_5lang": {
                 "de": "Ein ruhiger Stopp in der winterlichen Natur; die kühle Brise wird durch die Heizung im Auto schnell vergessen, sobald Sie weiterfahren.",
                 "hu": "Csendes megálló a téli természetben; a hűvös fuvallatot gyorsan elfelejted az autó fűtésének köszönhetően, amint továbbindulsz.",
                 "ro": "O oprire liniștită în natura de iarnă; briza rece va fi uitată rapid datorită căldurii din mașină imediat ce porniți mai departe.",
-                "en": "A peaceful stop in the winter nature; the cool breeze is quickly forgotten thanks to the car's heater as soon as you drive on."
+                "en": "A peaceful stop in the winter nature; the cool breeze is quickly forgotten thanks to the car's heater as soon as you drive on.",
+                "fr": "Une halte paisible dans la nature hivernale ; la brise fraîche est vite oubliée grâce au chauffage de la voiture dès que vous repartez."
               }
             },
             {
@@ -1027,13 +1142,15 @@
                 "de": "Strand Pellegrin - Bormes-les-Mimosas",
                 "hu": "Pellegrin strand - Bormes-les-Mimosas",
                 "ro": "Plaja Pellegrin - Bormes-les-Mimosas",
-                "en": "Plage du Pellegrin - Bormes-les-Mimosas"
+                "en": "Plage du Pellegrin - Bormes-les-Mimosas",
+                "fr": "Plage du Pellegrin - Bormes-les-Mimosas"
               },
               "tip_5lang": {
                 "de": "Der perfekte Ort für den Sonnenuntergang um 17:00 Uhr; genießen Sie das Farbspiel am Himmel bequem und warm von Ihrem Auto aus.",
                 "hu": "Tökéletes hely a 17:00-s naplemente megtekintéséhez; élvezd az égbolt színeit kényelmesen és melegben közvetlenül az autódból.",
                 "ro": "Locul perfect pentru a vedea apusul de la ora 17:00; bucurați-vă de spectacolul culorilor de pe cer confortabil și la căldură din mașină.",
-                "en": "The perfect spot for the 5:00 PM sunset; enjoy the play of colors in the sky comfortably and warmly directly from your car."
+                "en": "The perfect spot for the 5:00 PM sunset; enjoy the play of colors in the sky comfortably and warmly directly from your car.",
+                "fr": "L’endroit idéal pour le coucher du soleil à 17h00 ; profitez confortablement et chaleureusement du jeu de couleurs dans le ciel directement depuis votre voiture."
               }
             }
           ]

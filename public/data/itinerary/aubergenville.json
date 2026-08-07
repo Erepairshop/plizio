@@ -21,7 +21,8 @@
             "de": "Gartenstadt Élisabethville",
             "hu": "Élisabethville kertváros",
             "ro": "Orașul grădină Élisabethville",
-            "en": "Élisabethville Garden City"
+            "en": "Élisabethville Garden City",
+            "fr": "Élisabethville Garden City"
           },
           "coords": [
             1.846633,
@@ -36,7 +37,8 @@
             "de": "Erkunden Sie dieses historische Viertel mit seinem einzigartigen städtebaulichen Konzept und achten Sie bei einem gemütlichen Spaziergang auf die charmanten Hausfassaden.",
             "hu": "Fedezze fel ezt az egyedülálló várostervezési koncepciót tükröző történelmi negyedet, és egy kellemes séta során figyelje meg a bájos, régi házhomlokzatokat.",
             "ro": "Explorați acest cartier istoric renumit pentru conceptul său urbanistic unic și plimbați-vă pe îndelete pentru a observa detaliile fermecătoare ale fațadelor vechi.",
-            "en": "Explore this historic district known for its unique urban planning concept, and take a leisurely stroll to fully appreciate the charming details of the old facades."
+            "en": "Explore this historic district known for its unique urban planning concept, and take a leisurely stroll to fully appreciate the charming details of the old facades.",
+            "fr": "Explorez ce quartier historique connu pour son concept unique d'urbanisme, et promenez-vous tranquillement pour apprécier pleinement les charmants détails des anciennes façades."
           }
         },
         {
@@ -44,7 +46,8 @@
             "de": "St.-Theresia-Kirche",
             "hu": "Szent Teréz templom",
             "ro": "Biserica Sfânta Tereza",
-            "en": "Saint Theresa Church"
+            "en": "Saint Theresa Church",
+            "fr": "Saint Theresa Church"
           },
           "coords": [
             1.845956,
@@ -59,7 +62,8 @@
             "de": "Bewundern Sie die moderne Architektur dieser beeindruckenden Kirche, die ein Symbol der Erneuerung ist, und besuchen Sie sie am besten im hellen Morgenlicht.",
             "hu": "Csodálja meg a megújulás szimbólumaként ismert, modern építészeti stílusban épült templomot, és a legszebb fényekért érkezzen a kora reggeli órákban.",
             "ro": "Admirați arhitectura modernă a acestei biserici impresionante, simbol al reînnoirii, și vizitați-o dimineața devreme pentru a vă bucura de cea mai bună lumină.",
-            "en": "Admire the modern architecture of this impressive church, a true symbol of renewal, and aim to visit in the early morning to catch the most beautiful natural light."
+            "en": "Admire the modern architecture of this impressive church, a true symbol of renewal, and aim to visit in the early morning to catch the most beautiful natural light.",
+            "fr": "Admirez l'architecture moderne de cette église impressionnante, véritable symbole de renouveau, et visez une visite tôt le matin pour profiter de la plus belle lumière naturelle."
           }
         },
         {
@@ -67,7 +71,8 @@
             "de": "Les Bains de Seine Mauldre",
             "hu": "Les Bains de Seine Mauldre",
             "ro": "Les Bains de Seine Mauldre",
-            "en": "Les Bains de Seine Mauldre"
+            "en": "Les Bains de Seine Mauldre",
+            "fr": "Les Bains de Seine Mauldre"
           },
           "coords": [
             1.854417,
@@ -82,7 +87,8 @@
             "de": "Genießen Sie eine erholsame Auszeit in dieser familienfreundlichen Anlage am Wasser und packen Sie unbedingt Badesachen für ein erfrischendes Erlebnis ein.",
             "hu": "Töltsön el egy pihentető időszakot ebben a vízparti, családbarát komplexumban, és mindenképpen hozzon magával fürdőruhát a frissítő élmény érdekében.",
             "ro": "Bucurați-vă de o pauză relaxantă în acest complex de agrement potrivit pentru familii și nu uitați să vă aduceți costumul de baie pentru o experiență răcoritoare.",
-            "en": "Enjoy a relaxing break at this family-friendly waterfront leisure complex, and be sure to pack your swimsuit for a refreshing and fun-filled aquatic experience."
+            "en": "Enjoy a relaxing break at this family-friendly waterfront leisure complex, and be sure to pack your swimsuit for a refreshing and fun-filled aquatic experience.",
+            "fr": "Profitez d'une pause détente dans ce complexe de loisirs au bord de l'eau adapté aux familles, et n'oubliez pas votre maillot de bain pour une expérience aquatique rafraîchissante et ludique."
           }
         },
         {
@@ -90,7 +96,8 @@
             "de": "Kirche Saint-Ouen",
             "hu": "Saint-Ouen templom",
             "ro": "Biserica Saint-Ouen",
-            "en": "Église Saint-Ouen"
+            "en": "Église Saint-Ouen",
+            "fr": "Église Saint-Ouen"
           },
           "coords": [
             1.854608,
@@ -105,7 +112,8 @@
             "de": "Entdecken Sie die spirituelle Ruhe dieser historischen Kirche und achten Sie besonders auf die detaillierten Holzschnitzereien, die den Altarraum kunstvoll schmücken.",
             "hu": "Fedezze fel e történelmi templom spirituális nyugalmát, és fordítson különös figyelmet a szentélyt művészien díszítő, aprólékosan kidolgozott fafaragásokra.",
             "ro": "Descoperiți liniștea spirituală a acestei biserici istorice și acordați o atenție deosebită sculpturilor detaliate în lemn care decorează cu măiestrie sanctuarul.",
-            "en": "Discover the spiritual tranquility of this historic church, and pay special attention to the detailed wood carvings that artfully decorate the elegant sanctuary area."
+            "en": "Discover the spiritual tranquility of this historic church, and pay special attention to the detailed wood carvings that artfully decorate the elegant sanctuary area.",
+            "fr": "Découvrez la tranquillité spirituelle de cette église historique, et prêtez une attention particulière aux sculptures sur bois détaillées qui décorent avec art le chœur élégant."
           }
         },
         {
@@ -113,7 +121,8 @@
             "de": "Theater de la Nacelle",
             "hu": "Théâtre de la Nacelle",
             "ro": "Teatrul de la Nacelle",
-            "en": "Théâtre de la Nacelle"
+            "en": "Théâtre de la Nacelle",
+            "fr": "Théâtre de la Nacelle"
           },
           "coords": [
             1.850382,
@@ -128,7 +137,8 @@
             "de": "Tauchen Sie in das kulturelle Leben ein und bewundern Sie dieses moderne Theatergebäude; informieren Sie sich vorab über das aktuelle Programm für Abendveranstaltungen.",
             "hu": "Merüljön el a kulturális életben ennek a modern színházépületnek a megcsodálásával, és mindenképpen tájékozódjon előre az esti előadások aktuális programjáról.",
             "ro": "Cufundați-vă în viața culturală admirând această clădire modernă de teatru și verificați programul actual în avans pentru a prinde un spectacol minunat de seară.",
-            "en": "Immerse yourself in the local cultural life by admiring this modern theater building, and check the current schedule in advance to catch an engaging evening performance."
+            "en": "Immerse yourself in the local cultural life by admiring this modern theater building, and check the current schedule in advance to catch an engaging evening performance.",
+            "fr": "Plongez dans la vie culturelle locale en admirant ce bâtiment de théâtre moderne, et consultez le programme à l'avance pour assister à une représentation du soir captivante."
           }
         }
       ],
@@ -136,7 +146,8 @@
         "de": "Beginnen Sie Ihren Tag mit einer Erkundung der ruhigen Viertel und historischen Gebäude, die den einzigartigen Charakter von Aubergenville prägen.\nAm Mittag bietet sich eine entspannte Pause in der Nähe der Freizeitbäder an, wo Sie neue Energie für die kommenden Entdeckungen tanken können.\nDer Nachmittag führt Sie zu weiteren kulturellen und religiösen Sehenswürdigkeiten, die spannende Einblicke in die lokale Geschichte gewähren.\nLassen Sie den Tag bei einem gemütlichen Spaziergang in der Nähe des Theaters oder Schlosses ausklingen und genießen Sie die abendliche Atmosphäre.",
         "hu": "Kezdje a napot Aubergenville békés negyedeinek és történelmi épületeinek felfedezésével, amelyek megadják a város egyedi és varázslatos karakterét.\nDélben érdemes egy pihentető szünetet tartani a szabadidőközpont közelében, ahol felfrissülhet és energiát gyűjthet a délutáni programokhoz.\nA délután folyamán további kulturális és vallási látnivalók várják, amelyek mélyebb bepillantást engednek a helyi történelem gazdag múltjába.\nZárja a napot egy kellemes esti sétával a színház vagy a kastély környékén, és élvezze a város csendes, lelassult esti hangulatát.",
         "ro": "Începeți ziua explorând cartierele liniștite și clădirile istorice care conferă orașului Aubergenville caracterul său unic și plin de farmec.\nLa prânz, o pauză relaxantă în apropierea complexului de agrement este perfectă pentru a vă reîncărca bateriile pentru următoarele descoperiri.\nDupă-amiaza vă poartă către alte atracții culturale și religioase, oferind o perspectivă captivantă asupra istoriei locale și a comunității.\nÎncheiați ziua cu o plimbare plăcută pe lângă teatru sau castel, bucurându-vă de atmosfera senină și relaxantă a serii în acest oraș pitoresc.",
-        "en": "Begin your day by exploring the peaceful neighborhoods and historic buildings that give Aubergenville its unique and truly charming character.\nAt midday, take a relaxing break near the local leisure complex, providing the perfect opportunity to recharge your energy for more discoveries.\nThe afternoon leads you to further cultural and religious sights, offering fascinating insights into the rich local history and community life.\nEnd your day with a leisurely evening stroll near the modern theater or the majestic castle, soaking in the serene and relaxing evening atmosphere."
+        "en": "Begin your day by exploring the peaceful neighborhoods and historic buildings that give Aubergenville its unique and truly charming character.\nAt midday, take a relaxing break near the local leisure complex, providing the perfect opportunity to recharge your energy for more discoveries.\nThe afternoon leads you to further cultural and religious sights, offering fascinating insights into the rich local history and community life.\nEnd your day with a leisurely evening stroll near the modern theater or the majestic castle, soaking in the serene and relaxing evening atmosphere.",
+        "fr": "Commencez votre journée en explorant les quartiers paisibles et les bâtiments historiques qui donnent à Aubergenville son caractère unique et véritablement charmant. À midi, faites une pause relaxante près du complexe de loisirs local, offrant l'occasion idéale de reprendre des forces pour d'autres découvertes. L'après-midi vous mène vers d'autres sites culturels et religieux, offrant un aperçu fascinant de la riche histoire locale et de la vie communautaire. Terminez votre journée par une promenade du soir près du théâtre moderne ou du château majestueux, en profitant de l'atmosphère sereine et reposante du soir."
       },
       "variants": {
         "rainy": {
@@ -144,7 +155,8 @@
             "de": "Beginnen Sie Ihren regnerischen Morgen mit einem Regenschirm in der Gartenstadt. Suchen Sie mittags Zuflucht in den warmen Innenräumen von Les Bains. Nachmittags bieten die Kirchen trockene Zufluchtsorte. Beenden Sie den feuchten Spaziergang im Theater.",
             "hu": "Esős reggelen esernyővel induljon a történelmi kertváros felfedezésére. Délben keressen menedéket a Les Bains meleg belső tereiben. Délután a templomok csendes, száraz menedéket nyújtanak. Fejezze be a nedves sétát a hangulatos színház falai között.",
             "ro": "Începeți dimineața ploioasă explorând orașul grădină sub umbrelă. La prânz, refugiați-vă în spațiile calde de la Les Bains. După-amiaza, bisericile oferă un sanctuar uscat și liniștit. Încheiați plimbarea umedă la teatrul confortabil și primitor.",
-            "en": "Start your rainy morning exploring the historic garden city under an umbrella. By midday, take refuge in the warm indoor spaces of Les Bains. In the afternoon, the local churches offer dry, peaceful sanctuaries. Conclude your damp walk at the cozy theatre."
+            "en": "Start your rainy morning exploring the historic garden city under an umbrella. By midday, take refuge in the warm indoor spaces of Les Bains. In the afternoon, the local churches offer dry, peaceful sanctuaries. Conclude your damp walk at the cozy theatre.",
+            "fr": "Commencez votre matinée pluvieuse en explorant la cité-jardin historique sous un parapluie. À midi, réfugiez-vous dans les espaces intérieurs chauffés des Bains. L'après-midi, les églises locales offrent des sanctuaires secs et paisibles. Concluez votre promenade humide au théâtre chaleureux."
           },
           "stops": [
             {
@@ -152,13 +164,15 @@
                 "de": "Gartenstadt Élisabethville",
                 "hu": "Élisabethville kertváros",
                 "ro": "Orașul grădină Élisabethville",
-                "en": "Élisabethville Garden City"
+                "en": "Élisabethville Garden City",
+                "fr": "Élisabethville Garden City"
               },
               "tip_5lang": {
                 "de": "Bewundern Sie die Architektur der historischen Gartenstadt unter dem Regenschirm; wasserdichte Schuhe sind Pflicht, da die Wege schlammig werden können.",
                 "hu": "Csodálja meg a történelmi kertváros egyedi építészetét esernyő alól; viseljen vízálló cipőt, mivel az ösvények sárosak és csúszósak lehetnek az esőben.",
                 "ro": "Admirați arhitectura unică a orașului grădină de sub o umbrelă; asigurați-vă că purtați încălțăminte impermeabilă deoarece aleile pot deveni noroioase.",
-                "en": "Admire the historic garden city's unique architecture from under an umbrella; make sure to wear waterproof shoes as the unpaved paths can get quite muddy."
+                "en": "Admire the historic garden city's unique architecture from under an umbrella; make sure to wear waterproof shoes as the unpaved paths can get quite muddy.",
+                "fr": "Admirez l'architecture unique de la cité-jardin historique sous un parapluie ; pensez à porter des chaussures imperméables car les chemins non pavés peuvent devenir très boueux."
               }
             },
             {
@@ -166,13 +180,15 @@
                 "de": "St.-Theresia-Kirche",
                 "hu": "Szent Teréz templom",
                 "ro": "Biserica Sfânta Tereza",
-                "en": "Saint Theresa Church"
+                "en": "Saint Theresa Church",
+                "fr": "Saint Theresa Church"
               },
               "tip_5lang": {
                 "de": "Treten Sie ein, um dem starken Regen zu entgehen, und bewundern Sie die Buntglasfenster; das Innere bietet einen perfekten, trockenen Zufluchtsort.",
                 "hu": "Lépjen be a heves eső elől, és csodálja meg a lenyűgöző ólomüveg ablakokat; a templom belseje tökéletes, száraz és békés menedéket nyújt az időjárás elől.",
                 "ro": "Intrați pentru a scăpa de ploaia torențială și admirați vitraliile uimitoare; interiorul bisericii oferă un refugiu perfect uscat și liniștit.",
-                "en": "Step inside to escape the heavy rain and marvel at the stunning stained glass; the church interior offers a perfect dry, peaceful retreat from the weather."
+                "en": "Step inside to escape the heavy rain and marvel at the stunning stained glass; the church interior offers a perfect dry, peaceful retreat from the weather.",
+                "fr": "Entrez pour échapper à la forte pluie et émerveillez-vous devant les magnifiques vitraux ; l'intérieur de l'église offre un parfait refuge sec et paisible contre le temps."
               }
             },
             {
@@ -180,13 +196,15 @@
                 "de": "Les Bains de Seine Mauldre",
                 "hu": "Les Bains de Seine Mauldre",
                 "ro": "Les Bains de Seine Mauldre",
-                "en": "Les Bains de Seine Mauldre"
+                "en": "Les Bains de Seine Mauldre",
+                "fr": "Les Bains de Seine Mauldre"
               },
               "tip_5lang": {
                 "de": "Entspannen Sie in den wohlig warmen Innenpools, während es draußen in Strömen regnet; dies ist der ideale Ort, um sich aufzuwärmen und völlig trocken zu bleiben.",
                 "hu": "Pihenjen a meleg fedett medencékben, miközben kint szakad az eső; ez az ideális helyszín arra, hogy teljesen felmelegedjen és szárazon maradjon a nap közepén.",
                 "ro": "Relaxați-vă în piscinele interioare încălzite în timp ce afară plouă cu găleata; acesta este locul ideal pentru a vă încălzi și a rămâne complet uscat.",
-                "en": "Relax in the indoor pools while the rain pours heavily outside; this is a highly recommended spot to warm up and stay completely dry during the midday."
+                "en": "Relax in the indoor pools while the rain pours heavily outside; this is a highly recommended spot to warm up and stay completely dry during the midday.",
+                "fr": "Détendez-vous dans les piscines intérieures pendant que la pluie tombe abondamment dehors ; c'est un endroit fortement recommandé pour se réchauffer et rester complètement au sec à midi."
               }
             },
             {
@@ -194,13 +212,15 @@
                 "de": "Kirche Saint-Ouen",
                 "hu": "Saint-Ouen templom",
                 "ro": "Biserica Saint-Ouen",
-                "en": "Église Saint-Ouen"
+                "en": "Église Saint-Ouen",
+                "fr": "Église Saint-Ouen"
               },
               "tip_5lang": {
                 "de": "Genießen Sie das historische Ambiente dieser Kirche als Unterschlupf vor dem Platzregen; passen Sie auf den nassen, rutschigen Stufen am Eingang gut auf.",
                 "hu": "Élvezze a templom történelmi hangulatát, miközben biztonságos menedéket talál a zápor elől; nagyon vigyázzon a csúszós és nedves lépcsőkön a bejáratnál.",
                 "ro": "Bucurați-vă de ambianța istorică a bisericii adăpostindu-vă de aversa de ploaie; aveți mare grijă la treptele umede și alunecoase de la intrare.",
-                "en": "Enjoy the historic ambiance of this church while sheltering securely from the sudden downpour; just be sure to watch your step on the wet, slippery porch."
+                "en": "Enjoy the historic ambiance of this church while sheltering securely from the sudden downpour; just be sure to watch your step on the wet, slippery porch.",
+                "fr": "Profitez de l'ambiance historique de cette église tout en vous abritant en toute sécurité de l'averse soudaine ; veillez simplement à faire attention à la marche glissante du porche mouillé."
               }
             },
             {
@@ -208,13 +228,15 @@
                 "de": "Theater de la Nacelle",
                 "hu": "Théâtre de la Nacelle",
                 "ro": "Teatrul de la Nacelle",
-                "en": "Théâtre de la Nacelle"
+                "en": "Théâtre de la Nacelle",
+                "fr": "Théâtre de la Nacelle"
               },
               "tip_5lang": {
                 "de": "Beenden Sie Ihren nassen Regentag gemütlich mit einer Indoor-Aufführung; nutzen Sie unbedingt die Garderobe für Ihre tropfnassen Mäntel und Regenschirme.",
                 "hu": "Zárja a nedves esős napot egy magával ragadó benti előadással; feltétlenül használja a ruhatárat a vizes kabátok és a csöpögő esernyők kényelmes tárolására.",
                 "ro": "Încheiați ziua umedă cu un spectacol captivant la interior; folosiți neapărat garderoba pentru a lăsa jachetele ude și umbrelele înainte de a intra în sală.",
-                "en": "Catch an engaging indoor performance to completely end your rainy day; remember to check the cloakroom to safely store your wet coats and dripping umbrellas."
+                "en": "Catch an engaging indoor performance to completely end your rainy day; remember to check the cloakroom to safely store your wet coats and dripping umbrellas.",
+                "fr": "Assistez à une représentation intérieure captivante pour clore complètement votre journée pluvieuse ; pensez à vérifier le vestiaire pour y ranger en toute sécurité vos manteaux mouillés et vos parapluies dégoulinants."
               }
             }
           ]
@@ -224,7 +246,8 @@
             "de": "Packen Sie sich für einen frischen Wintermorgen in der Altstadt warm ein. Mittags können Sie sich in den örtlichen Bädern aufwärmen. Wenn der frühe Nachmittag gegen 17:00 Uhr in die Dämmerung übergeht, leiten beleuchtete Kirchen den Weg zum Theater.",
             "hu": "Öltözzön fel melegen a csípős téli reggeli sétához a történelmi negyedben. Délben melegedjen fel a helyi fürdő fedett részein. Ahogy a délután 17:00 körül szürkületbe hajlik, a kivilágított templomok mutatják az utat. Zárja a fagyos napot a színházban.",
             "ro": "Îmbrăcați-vă gros pentru o plimbare de iarnă prin cartierul istoric. La prânz, încălziți-vă în interiorul băilor locale. Pe măsură ce după-amiaza se întunecă devreme, pe la 17:00, bisericile iluminate vă ghidează pașii. Încheiați ziua înghețată la teatru.",
-            "en": "Bundle up tightly for a crisp winter morning walk through the historic district. Midday calls for warming up indoors at the local baths. As the early afternoon fades into twilight around 17:00, illuminated churches guide your way to the cozy theatre."
+            "en": "Bundle up tightly for a crisp winter morning walk through the historic district. Midday calls for warming up indoors at the local baths. As the early afternoon fades into twilight around 17:00, illuminated churches guide your way to the cozy theatre.",
+            "fr": "Emmitouflez-vous pour une promenade matinale hivernale fraîche à travers le quartier historique. À midi, réchauffez-vous à l'intérieur aux bains locaux. En début de soirée, vers 17:00, des églises illuminées vous guident vers le théâtre confortable."
           },
           "stops": [
             {
@@ -232,13 +255,15 @@
                 "de": "Gartenstadt Élisabethville",
                 "hu": "Élisabethville kertváros",
                 "ro": "Orașul grădină Élisabethville",
-                "en": "Élisabethville Garden City"
+                "en": "Élisabethville Garden City",
+                "fr": "Élisabethville Garden City"
               },
               "tip_5lang": {
                 "de": "Betrachten Sie die frostbedeckten Gärten, die die besondere Architektur betonen; Thermokleidung ist für diese längere Strecke im Freien äußerst ratsam.",
                 "hu": "Nézze meg a dérrel borított kerteket, amik gyönyörűen kiemelik az építészetet; feltétlenül viseljen extra meleg rétegeket ezen a hűvös szabadtéri szakaszon.",
                 "ro": "Vedeți grădinile acoperite de brumă care scot în evidență arhitectura deosebită; purtați straturi termice groase pentru această porțiune lungă în aer liber.",
-                "en": "See the frost-covered gardens highlighting the unique architecture beautifully; make sure to wear thick thermal layers for this chilly outdoor walking stretch."
+                "en": "See the frost-covered gardens highlighting the unique architecture beautifully; make sure to wear thick thermal layers for this chilly outdoor walking stretch.",
+                "fr": "Contemplez les jardins couverts de givre mettant en valeur l'architecture unique ; pensez à porter des couches thermiques épaisses pour cette marche extérieure froide."
               }
             },
             {
@@ -246,13 +271,15 @@
                 "de": "St.-Theresia-Kirche",
                 "hu": "Szent Teréz templom",
                 "ro": "Biserica Sfânta Tereza",
-                "en": "Saint Theresa Church"
+                "en": "Saint Theresa Church",
+                "fr": "Saint Theresa Church"
               },
               "tip_5lang": {
                 "de": "Das schwache Winterlicht fällt wunderschön durch das Buntglas; treten Sie schnell ein, um dem eisigen und beißenden Wind auf den Straßen zu entfliehen.",
                 "hu": "A lágy téli fény gyönyörűen szűrődik át az ólomüvegeken; lépjen be gyorsan a vastag falak közé, hogy elmeneküljön az utcákon fújó metsző hideg szél elől.",
                 "ro": "Lumina blândă de iarnă se filtrează frumos prin vitralii; intrați rapid pentru a scăpa de vântul înghețat și tăios care suflă pe străzile orașului.",
-                "en": "The soft winter light filters beautifully through the stained glass windows; step inside quickly to easily escape the biting cold wind sweeping the streets."
+                "en": "The soft winter light filters beautifully through the stained glass windows; step inside quickly to easily escape the biting cold wind sweeping the streets.",
+                "fr": "La douce lumière hivernale filtre magnifiquement à travers les vitraux ; entrez rapidement pour échapper facilement au vent glacial qui balaie les rues."
               }
             },
             {
@@ -260,13 +287,15 @@
                 "de": "Les Bains de Seine Mauldre",
                 "hu": "Les Bains de Seine Mauldre",
                 "ro": "Les Bains de Seine Mauldre",
-                "en": "Les Bains de Seine Mauldre"
+                "en": "Les Bains de Seine Mauldre",
+                "fr": "Les Bains de Seine Mauldre"
               },
               "tip_5lang": {
                 "de": "Wärmen Sie Ihre eiskalten Hände in den beheizten Innenpools auf; dies ist die absolut perfekte Flucht vor den eisigen Wintertemperaturen zur Mittagszeit.",
                 "hu": "Melegítse fel fázós ujjait és végtagjait a fűtött benti medencékben; ez a tökéletes déli menedék és feltöltődés a zord téli mínuszok elől menekülve.",
                 "ro": "Încălziți-vă degetele înghețate de la mâini și picioare în piscinele interioare încălzite; evadarea perfectă din frigul extrem al iernii la mijlocul zilei.",
-                "en": "Warm up your frozen fingers and toes in the heavily heated indoor pools; it is the absolute perfect midday escape from the freezing winter temperatures."
+                "en": "Warm up your frozen fingers and toes in the heavily heated indoor pools; it is the absolute perfect midday escape from the freezing winter temperatures.",
+                "fr": "Réchauffez vos doigts et orteils engourdis dans les piscines intérieures bien chauffées ; c'est l'escapade idéale de midi contre le froid hivernal glacial."
               }
             },
             {
@@ -274,13 +303,15 @@
                 "de": "Kirche Saint-Ouen",
                 "hu": "Saint-Ouen templom",
                 "ro": "Biserica Saint-Ouen",
-                "en": "Église Saint-Ouen"
+                "en": "Église Saint-Ouen",
+                "fr": "Église Saint-Ouen"
               },
               "tip_5lang": {
                 "de": "Bewundern Sie die leuchtende Steinfassade im frühen Wintersonnenuntergang gegen 17:00 Uhr; die dicken historischen Mauern halten die kalte Zugluft draußen.",
                 "hu": "Csodálja meg a kőhomlokzatot a korai, 17:00 órás téli naplementében; a vastag történelmi falak megbízhatóan kint tartják a hideg délutáni huzatot.",
                 "ro": "Admirați fațada de piatră strălucind în apusul timpuriu de iarnă pe la 17:00; zidurile groase istorice țin curenții de aer rece afară cu mult succes.",
-                "en": "Admire the gorgeous stone facade glowing in the early winter sunset around 17:00; the thick historical walls do a fantastic job of keeping the draft out."
+                "en": "Admire the gorgeous stone facade glowing in the early winter sunset around 17:00; the thick historical walls do a fantastic job of keeping the draft out.",
+                "fr": "Admirez la superbe façade en pierre illuminée par le coucher de soleil hivernal vers 17:00 ; les épaisses murailles historiques font un excellent travail pour bloquer les courants d'air."
               }
             },
             {
@@ -288,13 +319,15 @@
                 "de": "Theater de la Nacelle",
                 "hu": "Théâtre de la Nacelle",
                 "ro": "Teatrul de la Nacelle",
-                "en": "Théâtre de la Nacelle"
+                "en": "Théâtre de la Nacelle",
+                "fr": "Théâtre de la Nacelle"
               },
               "tip_5lang": {
                 "de": "Eine unglaublich gemütliche Abendaktivität, wenn die eiskalte Nacht hereinbricht; genießen Sie die warme und einladende Atmosphäre des Kulturzentrums.",
                 "hu": "Egy hihetetlenül hangulatos esti program, ahogy leszáll a fagyos téli éjszaka; élvezze a kulturális központ meleg, barátságos és hívogató atmoszféráját.",
                 "ro": "O activitate de seară incredibil de confortabilă odată cu lăsarea nopții înghețate; bucurați-vă de atmosfera caldă și primitoare a centrului cultural.",
-                "en": "An incredibly cozy evening activity as the freezing winter night quickly sets in; simply enjoy the profoundly warm atmosphere of the local cultural center."
+                "en": "An incredibly cozy evening activity as the freezing winter night quickly sets in; simply enjoy the profoundly warm atmosphere of the local cultural center.",
+                "fr": "Une activité du soir incroyablement chaleureuse alors que la nuit hivernale glaciale s'installe rapidement ; profitez simplement de l'atmosphère profondément conviviale du centre culturel local."
               }
             }
           ]
@@ -314,7 +347,8 @@
             "de": "Schloss Montgardé",
             "hu": "Montgardé kastély",
             "ro": "Castelul Montgardé",
-            "en": "Château de Montgardé"
+            "en": "Château de Montgardé",
+            "fr": "Château de Montgardé"
           },
           "coords": [
             1.841866,
@@ -329,7 +363,8 @@
             "de": "Bewundern Sie die imposante Architektur dieses historischen Schlosses und spazieren Sie durch die umliegenden Gärten, um die besten Fotomotive des Anwesens zu finden.",
             "hu": "Csodálja meg e történelmi kastély lenyűgöző építészetét, és tegyen egy kellemes sétát a környező kertekben, hogy megtalálja a birtok legjobb fotós helyszíneit.",
             "ro": "Admirați arhitectura impunătoare a acestui castel istoric și plimbați-vă prin grădinile înconjurătoare pentru a descoperi cele mai bune unghiuri pentru fotografii.",
-            "en": "Admire the imposing architecture of this historic castle, and take a relaxing stroll through the surrounding gardens to find the best photographic spots on the estate."
+            "en": "Admire the imposing architecture of this historic castle, and take a relaxing stroll through the surrounding gardens to find the best photographic spots on the estate.",
+            "fr": "Admirez l'architecture imposante de ce château historique, et promenez-vous dans les jardins environnants pour trouver les meilleurs spots photographiques du domaine."
           }
         },
         {
@@ -337,7 +372,8 @@
             "de": "Theater de la Nacelle",
             "hu": "Théâtre de la Nacelle",
             "ro": "Teatrul de la Nacelle",
-            "en": "Théâtre de la Nacelle"
+            "en": "Théâtre de la Nacelle",
+            "fr": "Théâtre de la Nacelle"
           },
           "coords": [
             1.850382,
@@ -352,7 +388,8 @@
             "de": "Tauchen Sie in das kulturelle Leben ein und bewundern Sie dieses moderne Theatergebäude; informieren Sie sich vorab über das aktuelle Programm für Abendveranstaltungen.",
             "hu": "Merüljön el a kulturális életben ennek a modern színházépületnek a megcsodálásával, és mindenképpen tájékozódjon előre az esti előadások aktuális programjáról.",
             "ro": "Cufundați-vă în viața culturală admirând această clădire modernă de teatru și verificați programul actual în avans pentru a prinde un spectacol minunat de seară.",
-            "en": "Immerse yourself in the local cultural life by admiring this modern theater building, and check the current schedule in advance to catch an engaging evening performance."
+            "en": "Immerse yourself in the local cultural life by admiring this modern theater building, and check the current schedule in advance to catch an engaging evening performance.",
+            "fr": "Plongez dans la vie culturelle locale en admirant ce bâtiment de théâtre moderne, et consultez le programme à l'avance pour assister à une représentation du soir captivante."
           }
         },
         {
@@ -360,7 +397,8 @@
             "de": "Kirche Saint-Ouen",
             "hu": "Saint-Ouen templom",
             "ro": "Biserica Saint-Ouen",
-            "en": "Église Saint-Ouen"
+            "en": "Église Saint-Ouen",
+            "fr": "Église Saint-Ouen"
           },
           "coords": [
             1.854608,
@@ -375,7 +413,8 @@
             "de": "Entdecken Sie die spirituelle Ruhe dieser historischen Kirche und achten Sie besonders auf die detaillierten Holzschnitzereien, die den Altarraum kunstvoll schmücken.",
             "hu": "Fedezze fel e történelmi templom spirituális nyugalmát, és fordítson különös figyelmet a szentélyt művészien díszítő, aprólékosan kidolgozott fafaragásokra.",
             "ro": "Descoperiți liniștea spirituală a acestei biserici istorice și acordați o atenție deosebită sculpturilor detaliate în lemn care decorează cu măiestrie sanctuarul.",
-            "en": "Discover the spiritual tranquility of this historic church, and pay special attention to the detailed wood carvings that artfully decorate the elegant sanctuary area."
+            "en": "Discover the spiritual tranquility of this historic church, and pay special attention to the detailed wood carvings that artfully decorate the elegant sanctuary area.",
+            "fr": "Découvrez la tranquillité spirituelle de cette église historique, et prêtez une attention particulière aux sculptures sur bois détaillées qui décorent avec art le chœur élégant."
           }
         },
         {
@@ -383,7 +422,8 @@
             "de": "Les Bains de Seine Mauldre",
             "hu": "Les Bains de Seine Mauldre",
             "ro": "Les Bains de Seine Mauldre",
-            "en": "Les Bains de Seine Mauldre"
+            "en": "Les Bains de Seine Mauldre",
+            "fr": "Les Bains de Seine Mauldre"
           },
           "coords": [
             1.854417,
@@ -398,7 +438,8 @@
             "de": "Genießen Sie eine erholsame Auszeit in dieser familienfreundlichen Anlage am Wasser und packen Sie unbedingt Badesachen für ein erfrischendes Erlebnis ein.",
             "hu": "Töltsön el egy pihentető időszakot ebben a vízparti, családbarát komplexumban, és mindenképpen hozzon magával fürdőruhát a frissítő élmény érdekében.",
             "ro": "Bucurați-vă de o pauză relaxantă în acest complex de agrement potrivit pentru familii și nu uitați să vă aduceți costumul de baie pentru o experiență răcoritoare.",
-            "en": "Enjoy a relaxing break at this family-friendly waterfront leisure complex, and be sure to pack your swimsuit for a refreshing and fun-filled aquatic experience."
+            "en": "Enjoy a relaxing break at this family-friendly waterfront leisure complex, and be sure to pack your swimsuit for a refreshing and fun-filled aquatic experience.",
+            "fr": "Profitez d'une pause détente dans ce complexe de loisirs au bord de l'eau adapté aux familles, et n'oubliez pas votre maillot de bain pour une expérience aquatique rafraîchissante et ludique."
           }
         },
         {
@@ -406,7 +447,8 @@
             "de": "Gartenstadt Élisabethville",
             "hu": "Élisabethville kertváros",
             "ro": "Orașul grădină Élisabethville",
-            "en": "Élisabethville Garden City"
+            "en": "Élisabethville Garden City",
+            "fr": "Élisabethville Garden City"
           },
           "coords": [
             1.846633,
@@ -421,7 +463,8 @@
             "de": "Erkunden Sie dieses historische Viertel mit seinem einzigartigen städtebaulichen Konzept und achten Sie bei einem gemütlichen Spaziergang auf die charmanten Hausfassaden.",
             "hu": "Fedezze fel ezt az egyedülálló várostervezési koncepciót tükröző történelmi negyedet, és egy kellemes séta során figyelje meg a bájos, régi házhomlokzatokat.",
             "ro": "Explorați acest cartier istoric renumit pentru conceptul său urbanistic unic și plimbați-vă pe îndelete pentru a observa detaliile fermecătoare ale fațadelor vechi.",
-            "en": "Explore this historic district known for its unique urban planning concept, and take a leisurely stroll to fully appreciate the charming details of the old facades."
+            "en": "Explore this historic district known for its unique urban planning concept, and take a leisurely stroll to fully appreciate the charming details of the old facades.",
+            "fr": "Explorez ce quartier historique connu pour son concept unique d'urbanisme, et promenez-vous tranquillement pour apprécier pleinement les charmants détails des anciennes façades."
           }
         },
         {
@@ -429,7 +472,8 @@
             "de": "St.-Theresia-Kirche",
             "hu": "Szent Teréz templom",
             "ro": "Biserica Sfânta Tereza",
-            "en": "Saint Theresa Church"
+            "en": "Saint Theresa Church",
+            "fr": "Saint Theresa Church"
           },
           "coords": [
             1.845956,
@@ -444,7 +488,8 @@
             "de": "Bewundern Sie die moderne Architektur dieser beeindruckenden Kirche, die ein Symbol der Erneuerung ist, und besuchen Sie sie am besten im hellen Morgenlicht.",
             "hu": "Csodálja meg a megújulás szimbólumaként ismert, modern építészeti stílusban épült templomot, és a legszebb fényekért érkezzen a kora reggeli órákban.",
             "ro": "Admirați arhitectura modernă a acestei biserici impresionante, simbol al reînnoirii, și vizitați-o dimineața devreme pentru a vă bucura de cea mai bună lumină.",
-            "en": "Admire the modern architecture of this impressive church, a true symbol of renewal, and aim to visit in the early morning to catch the most beautiful natural light."
+            "en": "Admire the modern architecture of this impressive church, a true symbol of renewal, and aim to visit in the early morning to catch the most beautiful natural light.",
+            "fr": "Admirez l'architecture moderne de cette église impressionnante, véritable symbole de renouveau, et visez une visite tôt le matin pour profiter de la plus belle lumière naturelle."
           }
         }
       ],
@@ -452,7 +497,8 @@
         "de": "Beginnen Sie Ihren Tag mit einer Erkundung der ruhigen Viertel und historischen Gebäude, die den einzigartigen Charakter von Aubergenville prägen.\nAm Mittag bietet sich eine entspannte Pause in der Nähe der Freizeitbäder an, wo Sie neue Energie für die kommenden Entdeckungen tanken können.\nDer Nachmittag führt Sie zu weiteren kulturellen und religiösen Sehenswürdigkeiten, die spannende Einblicke in die lokale Geschichte gewähren.\nLassen Sie den Tag bei einem gemütlichen Spaziergang in der Nähe des Theaters oder Schlosses ausklingen und genießen Sie die abendliche Atmosphäre.",
         "hu": "Kezdje a napot Aubergenville békés negyedeinek és történelmi épületeinek felfedezésével, amelyek megadják a város egyedi és varázslatos karakterét.\nDélben érdemes egy pihentető szünetet tartani a szabadidőközpont közelében, ahol felfrissülhet és energiát gyűjthet a délutáni programokhoz.\nA délután folyamán további kulturális és vallási látnivalók várják, amelyek mélyebb bepillantást engednek a helyi történelem gazdag múltjába.\nZárja a napot egy kellemes esti sétával a színház vagy a kastély környékén, és élvezze a város csendes, lelassult esti hangulatát.",
         "ro": "Începeți ziua explorând cartierele liniștite și clădirile istorice care conferă orașului Aubergenville caracterul său unic și plin de farmec.\nLa prânz, o pauză relaxantă în apropierea complexului de agrement este perfectă pentru a vă reîncărca bateriile pentru următoarele descoperiri.\nDupă-amiaza vă poartă către alte atracții culturale și religioase, oferind o perspectivă captivantă asupra istoriei locale și a comunității.\nÎncheiați ziua cu o plimbare plăcută pe lângă teatru sau castel, bucurându-vă de atmosfera senină și relaxantă a serii în acest oraș pitoresc.",
-        "en": "Begin your day by exploring the peaceful neighborhoods and historic buildings that give Aubergenville its unique and truly charming character.\nAt midday, take a relaxing break near the local leisure complex, providing the perfect opportunity to recharge your energy for more discoveries.\nThe afternoon leads you to further cultural and religious sights, offering fascinating insights into the rich local history and community life.\nEnd your day with a leisurely evening stroll near the modern theater or the majestic castle, soaking in the serene and relaxing evening atmosphere."
+        "en": "Begin your day by exploring the peaceful neighborhoods and historic buildings that give Aubergenville its unique and truly charming character.\nAt midday, take a relaxing break near the local leisure complex, providing the perfect opportunity to recharge your energy for more discoveries.\nThe afternoon leads you to further cultural and religious sights, offering fascinating insights into the rich local history and community life.\nEnd your day with a leisurely evening stroll near the modern theater or the majestic castle, soaking in the serene and relaxing evening atmosphere.",
+        "fr": "Commencez votre journée en explorant les quartiers paisibles et les bâtiments historiques qui donnent à Aubergenville son caractère unique et véritablement charmant. À midi, faites une pause relaxante près du complexe de loisirs local, offrant l'occasion idéale de reprendre des forces pour d'autres découvertes. L'après-midi vous mène vers d'autres sites culturels et religieux, offrant un aperçu fascinant de la riche histoire locale et de la vie communautaire. Terminez votre journée par une promenade du soir près du théâtre moderne ou du château majestueux, en profitant de l'atmosphère sereine et reposante du soir."
       },
       "variants": {
         "rainy": {
@@ -460,7 +506,8 @@
             "de": "Begeben Sie sich auf eine nasse, aber abenteuerliche Fahrt. Machen Sie mittags Pausen an kulturellen Stätten, um richtig zu trocknen. Nachmittags ist auf den rutschigen Straßen zwischen Bad und Gartenstadt große Vorsicht geboten. Beenden Sie die Fahrt sicher.",
             "hu": "Vágjon neki egy nedves, de kalandos tekerésnek ma reggel. Délben tartson pihenőt a kulturális benti helyszíneken megszáradni. A délutáni bringázás nagy óvatosságot igényel a csúszós utakon a fürdő és a kertváros között. Fejezze be az utat biztonságosan.",
             "ro": "Porniți într-o cursă umedă, dar plină de aventură pe bicicletă. La prânz, faceți pauze în locuri culturale pentru a vă usca bine. Mersul după-amiaza necesită prudență maximă pe drumurile alunecoase dintre băi și orașul grădină. Terminați în siguranță.",
-            "en": "Embark on a wet but adventurous ride this morning. By midday, take solid breaks at cultural indoor sites to dry off. Afternoon riding requires extreme caution on the exceptionally slick roads between the baths and garden city. Finish the route safely."
+            "en": "Embark on a wet but adventurous ride this morning. By midday, take solid breaks at cultural indoor sites to dry off. Afternoon riding requires extreme caution on the exceptionally slick roads between the baths and garden city. Finish the route safely.",
+            "fr": "Embarquez pour une balade humide mais aventureuse ce matin. À midi, faites des pauses solides dans des sites culturels intérieurs pour vous sécher. L'après-midi, la conduite exige une extrême prudence sur les routes exceptionnellement glissantes entre les bains et la cité-jardin. Terminez l'itinéraire en toute sécurité."
           },
           "stops": [
             {
@@ -468,13 +515,15 @@
                 "de": "Schloss Montgardé",
                 "hu": "Montgardé kastély",
                 "ro": "Castelul Montgardé",
-                "en": "Château de Montgardé"
+                "en": "Château de Montgardé",
+                "fr": "Château de Montgardé"
               },
               "tip_5lang": {
                 "de": "Betrachten Sie das majestätische Schloss durch den nebligen Nieselregen; prüfen Sie unbedingt Ihre Bremsen auf der nassen und laubbedeckten Anfahrt.",
                 "hu": "Nézze meg a fenséges kastélyt a ködös, szitáló esőben; indulás előtt feltétlenül ellenőrizze a fékeket a nedves és falevelekkel borított megközelítési úton.",
                 "ro": "Vedeți castelul maiestuos prin ceața și ploaia măruntă; verificați neapărat dacă frânele bicicletei răspund bine pe drumul ud și acoperit de frunze.",
-                "en": "View the majestic grand castle through the misty, persistent rain; crucially ensure your bike brakes are highly responsive on the wet, slippery approach."
+                "en": "View the majestic grand castle through the misty, persistent rain; crucially ensure your bike brakes are highly responsive on the wet, slippery approach.",
+                "fr": "Contemplez le majestueux grand château à travers la pluie persistante et brumeuse ; assurez-vous crucialement que vos freins de vélo répondent parfaitement sur l'approche mouillée et glissante."
               }
             },
             {
@@ -482,13 +531,15 @@
                 "de": "Theater de la Nacelle",
                 "hu": "Théâtre de la Nacelle",
                 "ro": "Teatrul de la Nacelle",
-                "en": "Théâtre de la Nacelle"
+                "en": "Théâtre de la Nacelle",
+                "fr": "Théâtre de la Nacelle"
               },
               "tip_5lang": {
                 "de": "Ein sehr praktischer kurzer Stopp im Trockenen; dies ist ein großartiger Ort, um den nassen Fahrradsattel abzuwischen und Ihre Regenjacke zu trocknen.",
                 "hu": "Egy nagyon praktikus gyors benti megálló; ez egy nagyszerű hely arra, hogy szárazra törölje a vizes nyerget, és egy kicsit megszárítsa az esőkabátot.",
                 "ro": "O oprire scurtă și foarte practică la interior; un loc grozav pentru a șterge complet șaua udă a bicicletei și a vă lăsa jacheta de ploaie la uscat.",
-                "en": "A highly practical quick indoor stop to check local events; it is a wonderfully dry spot to wipe down your wet bike seat and let your rain jacket drip."
+                "en": "A highly practical quick indoor stop to check local events; it is a wonderfully dry spot to wipe down your wet bike seat and let your rain jacket drip.",
+                "fr": "Un arrêt intérieur très pratique pour consulter les événements locaux ; c'est un endroit merveilleusement sec pour essuyer la selle de vélo mouillée et laisser goutter votre veste de pluie."
               }
             },
             {
@@ -496,13 +547,15 @@
                 "de": "Kirche Saint-Ouen",
                 "hu": "Saint-Ouen templom",
                 "ro": "Biserica Saint-Ouen",
-                "en": "Église Saint-Ouen"
+                "en": "Église Saint-Ouen",
+                "fr": "Église Saint-Ouen"
               },
               "tip_5lang": {
                 "de": "Suchen Sie Schutz im ruhigen Kirchenschiff, während es stark regnet; parken Sie Ihr Fahrrad draußen sicher unter den stark tropfenden großen Bäumen.",
                 "hu": "Húzódjon be a csendes hajóba, amíg kint hevesen esik az eső; a biciklit biztonságosan, de ésszerűen parkolja le a vastag, csöpögő fák alatt a téren.",
                 "ro": "Adăpostiți-vă în naosul liniștit în timp ce afară plouă torențial; parcați bicicleta în deplină siguranță sub copacii mari și picurători de afară.",
-                "en": "Take dry shelter in the quiet nave as the heavy rain continues to fall; make sure to park your bike securely under the dripping canopy of trees outside."
+                "en": "Take dry shelter in the quiet nave as the heavy rain continues to fall; make sure to park your bike securely under the dripping canopy of trees outside.",
+                "fr": "Mettez-vous à l'abri dans la nef calme pendant que la forte pluie continue de tomber ; veillez à garer votre vélo en sécurité sous le auvent d'arbres qui goutte à l'extérieur."
               }
             },
             {
@@ -510,13 +563,15 @@
                 "de": "Les Bains de Seine Mauldre",
                 "hu": "Les Bains de Seine Mauldre",
                 "ro": "Les Bains de Seine Mauldre",
-                "en": "Les Bains de Seine Mauldre"
+                "en": "Les Bains de Seine Mauldre",
+                "fr": "Les Bains de Seine Mauldre"
               },
               "tip_5lang": {
                 "de": "Schließen Sie das nasse Rad an und genießen Sie ein warmes Bad; die absolut perfekte Belohnung an einem Regentag für jeden völlig durchnässten Radfahrer.",
                 "hu": "Zárja le a vizes bringát és élvezze a benti úszást; ez az abszolút tökéletes esős napi jutalom és felmelegedés egy teljesen átázott, fáradt kerékpárosnak.",
                 "ro": "Legați bicicleta udă și bucurați-vă de o baie caldă la interior; este recompensa absolut perfectă pe timp de ploaie pentru un biciclist complet ud.",
-                "en": "Lock up your thoroughly wet bike and enjoy a warm indoor swim; it serves as the absolute perfect rainy day reward for a tired and completely soaked cyclist."
+                "en": "Lock up your thoroughly wet bike and enjoy a warm indoor swim; it serves as the absolute perfect rainy day reward for a tired and completely soaked cyclist.",
+                "fr": "Cadenassez votre vélo complètement trempé et profitez d'une baignade chaude en intérieur ; c'est la récompense parfaite par temps de pluie pour un cycliste fatigué et complètement trempé."
               }
             },
             {
@@ -524,13 +579,15 @@
                 "de": "Gartenstadt Élisabethville",
                 "hu": "Élisabethville kertváros",
                 "ro": "Orașul grădină Élisabethville",
-                "en": "Élisabethville Garden City"
+                "en": "Élisabethville Garden City",
+                "fr": "Élisabethville Garden City"
               },
               "tip_5lang": {
                 "de": "Die regnerischen Straßen sind deutlich ruhiger; tragen Sie hier gut sichtbare, reflektierende und absolut wasserdichte Fahrradkleidung für die Sicherheit.",
                 "hu": "Az esős utcák sokkal csendesebbek, békés tekerést nyújtva; viseljen kiválóan látható, fényvisszaverő és teljesen vízálló felszerelést a biztonságért.",
                 "ro": "Străzile ploioase sunt mult mai liniștite; purtați neapărat echipament impermeabil și cu vizibilitate foarte ridicată pentru siguranța dumneavoastră.",
-                "en": "The rainy streets are much quieter, offering truly peaceful cycling; absolutely wear high-visibility, fully waterproof gear here for your own safety."
+                "en": "The rainy streets are much quieter, offering truly peaceful cycling; absolutely wear high-visibility, fully waterproof gear here for your own safety.",
+                "fr": "Les rues pluvieuses sont bien plus calmes, offrant un cyclisme vraiment paisible ; portez absolument un équipement entièrement imperméable et haute visibilité pour votre sécurité."
               }
             },
             {
@@ -538,13 +595,15 @@
                 "de": "St.-Theresia-Kirche",
                 "hu": "Szent Teréz templom",
                 "ro": "Biserica Sfânta Tereza",
-                "en": "Saint Theresa Church"
+                "en": "Saint Theresa Church",
+                "fr": "Saint Theresa Church"
               },
               "tip_5lang": {
                 "de": "Beenden Sie die nasse Fahrt an dieser Kirche; steigen Sie äußerst vorsichtig auf dem sehr rutschigen, nassen Kopfsteinpflaster nahe dem Eingang ab.",
                 "hu": "Zárja a nedves utat ennél a lenyűgöző templomnál; rendkívül óvatosan szálljon le a bringáról a nagyon csúszós, nedves macskaköveken a bejárat közelében.",
                 "ro": "Încheiați cursa umedă la această biserică impresionantă; descălecați cu extrem de mare atenție pe piatra cubică foarte alunecoasă de lângă intrare.",
-                "en": "End your remarkably wet ride at this inspiring church; crucially remember to carefully dismount on the dangerously slippery cobblestones near the entrance."
+                "en": "End your remarkably wet ride at this inspiring church; crucially remember to carefully dismount on the dangerously slippery cobblestones near the entrance.",
+                "fr": "Terminez votre sortie remarquablement mouillée dans cette église inspirante ; souvenez-vous surtout de descendre soigneusement de votre vélo sur les pavés dangereusement glissants près de l'entrée."
               }
             }
           ]
@@ -554,7 +613,8 @@
             "de": "Packen Sie sich für eine frostige Morgenfahrt gut ein. Die Mittagssonne wärmt kaum, daher sind bunte Pausen drinnen wichtig. Wenn der Nachmittag den extrem frühen Sonnenuntergang um 17:00 Uhr bringt, schalten Sie unbedingt das Licht ein. Fahren Sie vorsichtig.",
             "hu": "Öltözzön fel vastagon a fagyos reggeli tekeréshez. A déli nap alig ad meleget, így a benti pihenők elengedhetetlenek. Ahogy a délután gyorsan elhozza a 17:00 órás naplementét, kapcsolja be az összes lámpát. Zárja biztonságosan a fagyos, hideg utat.",
             "ro": "Îmbrăcați-vă bine pentru o cursă de dimineață geroasă. Soarele de prânz abia încălzește, deci pauzele dese la interior sunt vitale. Deoarece apusul vine foarte devreme pe la 17:00, aprindeți farurile bicicletei. Finalizați traseul rece cu mare grijă.",
-            "en": "Bundle up tightly for a frosty morning bike ride. The midday sun offers very little warmth, so indoor breaks are essential. As the afternoon quickly brings the early 17:00 sunset, ensure all your bike lights are fully on. Finish the cold route safely."
+            "en": "Bundle up tightly for a frosty morning bike ride. The midday sun offers very little warmth, so indoor breaks are essential. As the afternoon quickly brings the early 17:00 sunset, ensure all your bike lights are fully on. Finish the cold route safely.",
+            "fr": "Couvrez-vous chaudement pour une balade à vélo matinale glaciale. Le soleil de midi apporte très peu de chaleur, donc des pauses en intérieur sont essentielles. L'après-midi arrive rapidement et le coucher du soleil est tôt, à 17:00, assurez-vous que tous vos feux de vélo sont allumés. Terminez l'itinéraire froid en toute sécurité."
           },
           "stops": [
             {
@@ -562,13 +622,15 @@
                 "de": "Schloss Montgardé",
                 "hu": "Montgardé kastély",
                 "ro": "Castelul Montgardé",
-                "en": "Château de Montgardé"
+                "en": "Château de Montgardé",
+                "fr": "Château de Montgardé"
               },
               "tip_5lang": {
                 "de": "Die Winterlandschaft lässt das Schloss majestätisch wirken; dicke Handschuhe sind unerlässlich, da der Fahrradlenker am frühen Morgen eiskalt wird.",
                 "hu": "A zord téli táj kiemeli a kastély fenséges szépségét; a vastag kesztyű elengedhetetlen, mert a kerékpár kormánya a kora reggeli órákban jéghideg lesz.",
                 "ro": "Peisajul de iarnă face castelul să pară deosebit de impunător; purtați mănuși foarte groase deoarece ghidonul bicicletei este înghețat tun dimineața.",
-                "en": "The stark winter landscape makes the grand castle look beautifully severe; thick gloves are vital as the morning bike handlebar gets dangerously freezing."
+                "en": "The stark winter landscape makes the grand castle look beautifully severe; thick gloves are vital as the morning bike handlebar gets dangerously freezing.",
+                "fr": "Le paysage hivernal austère rend le grand château magnifiquement sévère ; des gants épais sont indispensables car le guidon du vélo devient dangereusement gelé le matin."
               }
             },
             {
@@ -576,13 +638,15 @@
                 "de": "Theater de la Nacelle",
                 "hu": "Théâtre de la Nacelle",
                 "ro": "Teatrul de la Nacelle",
-                "en": "Théâtre de la Nacelle"
+                "en": "Théâtre de la Nacelle",
+                "fr": "Théâtre de la Nacelle"
               },
               "tip_5lang": {
                 "de": "Wärmen Sie sich drinnen über das Programm informierend gut auf; ein hervorragender Ort, um die kalten Zehen vor der eisigen Weiterfahrt wieder aufzutauen.",
                 "hu": "Melegedjen fel bent a téli előadásokról olvasva; kiváló, fűtött hely arra, hogy teljesen kiolvassza a fagyott lábujjait a hideg továbbindulás előtt.",
                 "ro": "Încălziți-vă înăuntru aflând despre spectacolele de iarnă; un loc excelent și încălzit pentru a vă dezgheța degetele de la picioare înainte de a pedala.",
-                "en": "Warm up deep inside while checking out winter performances; an absolutely great, heated spot to completely thaw your frozen toes before cycling onwards."
+                "en": "Warm up deep inside while checking out winter performances; an absolutely great, heated spot to completely thaw your frozen toes before cycling onwards.",
+                "fr": "Réchauffez-vous bien à l'intérieur en assistant à des spectacles d'hiver ; un endroit chauffé idéal pour faire décongeler complètement vos orteils gelés avant de reprendre le vélo."
               }
             },
             {
@@ -590,13 +654,15 @@
                 "de": "Kirche Saint-Ouen",
                 "hu": "Saint-Ouen templom",
                 "ro": "Biserica Saint-Ouen",
-                "en": "Église Saint-Ouen"
+                "en": "Église Saint-Ouen",
+                "fr": "Église Saint-Ouen"
               },
               "tip_5lang": {
                 "de": "Das scharfe Winterlicht betont die architektonischen Details; gehen Sie schnell hinein, um dem bitterkalten, beißenden Fahrtwind vollständig zu entkommen.",
                 "hu": "Az éles téli fény gyönyörűen kiemeli az építészeti részleteket; bújjon be gyorsan a vastag falak közé a fagyos, metsző kerékpáros ellenszél elől.",
                 "ro": "Lumina clară de iarnă evidențiază minunat detaliile arhitecturale; intrați rapid pentru a scăpa cu totul de vântul rece și tăios care vă bate din față.",
-                "en": "The crisp winter light sharply emphasizes the architectural details; duck inside quickly to fully escape the shockingly cold cycling headwinds you face."
+                "en": "The crisp winter light sharply emphasizes the architectural details; duck inside quickly to fully escape the shockingly cold cycling headwinds you face.",
+                "fr": "La lumière hivernale claire met en relief les détails architecturaux ; entrez rapidement pour échapper complètement aux vents froids et choquants du cyclisme."
               }
             },
             {
@@ -604,13 +670,15 @@
                 "de": "Les Bains de Seine Mauldre",
                 "hu": "Les Bains de Seine Mauldre",
                 "ro": "Les Bains de Seine Mauldre",
-                "en": "Les Bains de Seine Mauldre"
+                "en": "Les Bains de Seine Mauldre",
+                "fr": "Les Bains de Seine Mauldre"
               },
               "tip_5lang": {
                 "de": "Ein stark beheizter Pool ist im tiefen Winter ein wahrer Traum; schließen Sie das Rad an und tanken Sie ausgiebig wertvolle Wärme für den restlichen Tag.",
                 "hu": "A fűtött medence minden fázós kerékpáros álma télen; zárja le a bringát és töltsön egy hosszú, pihentető órát az izmait átmelegítő forró vízben.",
                 "ro": "O piscină bine încălzită e visul oricărui ciclist iarna; legați-vă bicicleta și petreceți mult timp relaxant bucurându-vă de căldura care vă pătrunde.",
-                "en": "A heavily heated pool is every cold cyclist's absolute dream in winter; safely lock your bike and spend a remarkably long time soaking in the deep warmth."
+                "en": "A heavily heated pool is every cold cyclist's absolute dream in winter; safely lock your bike and spend a remarkably long time soaking in the deep warmth.",
+                "fr": "Une piscine fortement chauffée est le rêve absolu de tout cycliste froid en hiver ; verrouillez votre vélo en sécurité et passez un long moment à vous prélasser dans la chaleur profonde."
               }
             },
             {
@@ -618,13 +686,15 @@
                 "de": "Gartenstadt Élisabethville",
                 "hu": "Élisabethville kertváros",
                 "ro": "Orașul grădină Élisabethville",
-                "en": "Élisabethville Garden City"
+                "en": "Élisabethville Garden City",
+                "fr": "Élisabethville Garden City"
               },
               "tip_5lang": {
                 "de": "Radeln Sie ruhig an kahlen Winterbäumen vorbei; achten Sie sehr genau auf gefährliche, frühe Eisflächen auf den schattigen Straßen des ruhigen Viertels.",
                 "hu": "Tekerjen lassan a kopasz téli fák és csendes házak mellett; nagyon figyeljen a veszélyes, korai jégfoltokra a környék árnyékosabb, fagyzugos utcáin.",
                 "ro": "Pedalați liniștit pe lângă copacii goi de iarnă; atenție mare la peticele periculoase de gheață timpurie apărute pe străzile umbrite ale cartierului.",
-                "en": "Cycle peacefully past completely bare winter trees and quiet houses; watch out intently for dangerous early ice patches forming on shaded neighborhood roads."
+                "en": "Cycle peacefully past completely bare winter trees and quiet houses; watch out intently for dangerous early ice patches forming on shaded neighborhood roads.",
+                "fr": "Parcourez paisiblement des arbres d'hiver totalement dépouillés et des maisons calmes ; surveillez attentivement les plaques de verglas dangereuses qui se forment tôt sur les routes ombragées du quartier."
               }
             },
             {
@@ -632,13 +702,15 @@
                 "de": "St.-Theresia-Kirche",
                 "hu": "Szent Teréz templom",
                 "ro": "Biserica Sfânta Tereza",
-                "en": "Saint Theresa Church"
+                "en": "Saint Theresa Church",
+                "fr": "Saint Theresa Church"
               },
               "tip_5lang": {
                 "de": "Kommen Sie an, wenn die pechschwarze Winternacht schnell hereinbricht; halten Sie die Reflektoren für eine sichere, dunkle Rückfahrt vollkommen sauber.",
                 "hu": "Érkezzen meg, ahogy a korai, koromsötét téli éjszaka leszáll; feltétlenül ellenőrizze és tisztítsa meg a prizmákat a biztonságos, sötét visszaúthoz.",
                 "ro": "Ajungeți exact odată cu lăsarea nopții întunecate de iarnă; asigurați-vă absolut că reflectoarele sunt perfect curate pentru o întoarcere sigură pe întuneric.",
-                "en": "Arrive just as the pitch-black early winter night completely sets in; vitally make sure all your bike reflectors are perfectly clean for the dark ride back."
+                "en": "Arrive just as the pitch-black early winter night completely sets in; vitally make sure all your bike reflectors are perfectly clean for the dark ride back.",
+                "fr": "Arrivez juste au moment où la nuit hivernale noire tombe complètement ; assurez-vous impérativement que tous vos réflecteurs de vélo sont parfaitement propres pour le trajet de retour dans l'obscurité."
               }
             }
           ]
@@ -658,7 +730,8 @@
             "de": "St.-Theresia-Kirche",
             "hu": "Szent Teréz templom",
             "ro": "Biserica Sfânta Tereza",
-            "en": "Saint Theresa Church"
+            "en": "Saint Theresa Church",
+            "fr": "Saint Theresa Church"
           },
           "coords": [
             1.845956,
@@ -673,7 +746,8 @@
             "de": "Bewundern Sie die moderne Architektur dieser beeindruckenden Kirche, die ein Symbol der Erneuerung ist, und besuchen Sie sie am besten im hellen Morgenlicht.",
             "hu": "Csodálja meg a megújulás szimbólumaként ismert, modern építészeti stílusban épült templomot, és a legszebb fényekért érkezzen a kora reggeli órákban.",
             "ro": "Admirați arhitectura modernă a acestei biserici impresionante, simbol al reînnoirii, și vizitați-o dimineața devreme pentru a vă bucura de cea mai bună lumină.",
-            "en": "Admire the modern architecture of this impressive church, a true symbol of renewal, and aim to visit in the early morning to catch the most beautiful natural light."
+            "en": "Admire the modern architecture of this impressive church, a true symbol of renewal, and aim to visit in the early morning to catch the most beautiful natural light.",
+            "fr": "Admirez l'architecture moderne de cette église impressionnante, véritable symbole de renouveau, et essayez de la visiter tôt le matin pour profiter de la plus belle lumière naturelle."
           }
         },
         {
@@ -681,7 +755,8 @@
             "de": "Gartenstadt Élisabethville",
             "hu": "Élisabethville kertváros",
             "ro": "Orașul grădină Élisabethville",
-            "en": "Élisabethville Garden City"
+            "en": "Élisabethville Garden City",
+            "fr": "Élisabethville Garden City"
           },
           "coords": [
             1.846633,
@@ -696,7 +771,8 @@
             "de": "Erkunden Sie dieses historische Viertel mit seinem einzigartigen städtebaulichen Konzept und achten Sie bei einem gemütlichen Spaziergang auf die charmanten Hausfassaden.",
             "hu": "Fedezze fel ezt az egyedülálló várostervezési koncepciót tükröző történelmi negyedet, és egy kellemes séta során figyelje meg a bájos, régi házhomlokzatokat.",
             "ro": "Explorați acest cartier istoric renumit pentru conceptul său urbanistic unic și plimbați-vă pe îndelete pentru a observa detaliile fermecătoare ale fațadelor vechi.",
-            "en": "Explore this historic district known for its unique urban planning concept, and take a leisurely stroll to fully appreciate the charming details of the old facades."
+            "en": "Explore this historic district known for its unique urban planning concept, and take a leisurely stroll to fully appreciate the charming details of the old facades.",
+            "fr": "Explorez ce quartier historique connu pour son concept d'urbanisme unique, et promenez-vous tranquillement pour apprécier pleinement les détails charmants des anciennes façades."
           }
         },
         {
@@ -704,7 +780,8 @@
             "de": "Les Bains de Seine Mauldre",
             "hu": "Les Bains de Seine Mauldre",
             "ro": "Les Bains de Seine Mauldre",
-            "en": "Les Bains de Seine Mauldre"
+            "en": "Les Bains de Seine Mauldre",
+            "fr": "Les Bains de Seine Mauldre"
           },
           "coords": [
             1.854417,
@@ -719,7 +796,8 @@
             "de": "Genießen Sie eine erholsame Auszeit in dieser familienfreundlichen Anlage am Wasser und packen Sie unbedingt Badesachen für ein erfrischendes Erlebnis ein.",
             "hu": "Töltsön el egy pihentető időszakot ebben a vízparti, családbarát komplexumban, és mindenképpen hozzon magával fürdőruhát a frissítő élmény érdekében.",
             "ro": "Bucurați-vă de o pauză relaxantă în acest complex de agrement potrivit pentru familii și nu uitați să vă aduceți costumul de baie pentru o experiență răcoritoare.",
-            "en": "Enjoy a relaxing break at this family-friendly waterfront leisure complex, and be sure to pack your swimsuit for a refreshing and fun-filled aquatic experience."
+            "en": "Enjoy a relaxing break at this family-friendly waterfront leisure complex, and be sure to pack your swimsuit for a refreshing and fun-filled aquatic experience.",
+            "fr": "Profitez d'une pause relaxante dans ce complexe de loisirs familial en bord d'eau, et n'oubliez pas d'emporter votre maillot de bain pour une expérience aquatique rafraîchissante et amusante."
           }
         },
         {
@@ -727,7 +805,8 @@
             "de": "Kirche Saint-Cloud",
             "hu": "Saint-Cloud templom",
             "ro": "Biserica Saint-Cloud",
-            "en": "Église Saint-Cloud"
+            "en": "Église Saint-Cloud",
+            "fr": "Église Saint-Cloud"
           },
           "coords": [
             1.870931,
@@ -742,7 +821,8 @@
             "de": "Besichtigen Sie diese charmante Kirche mit ihrer friedlichen Atmosphäre und nehmen Sie sich einen Moment Zeit, um die wunderschönen Buntglasfenster im Inneren zu studieren.",
             "hu": "Látogassa meg ezt a békés hangulatot árasztó, bájos templomot, és szánjon egy kis időt a belső tér csodálatos ólomüveg ablakainak alapos megfigyelésére.",
             "ro": "Vizitați această biserică fermecătoare cu o atmosferă liniștită și acordați-vă un moment pentru a admira frumoasele vitralii colorate din interiorul său primitor.",
-            "en": "Visit this charming church known for its peaceful atmosphere, and take a moment to carefully study the beautiful stained glass windows that adorn its welcoming interior."
+            "en": "Visit this charming church known for its peaceful atmosphere, and take a moment to carefully study the beautiful stained glass windows that adorn its welcoming interior.",
+            "fr": "Visitez cette charmante église réputée pour son atmosphère paisible, et prenez un moment pour étudier attentivement les beaux vitraux qui ornent son intérieur accueillant."
           }
         },
         {
@@ -750,7 +830,8 @@
             "de": "Laser Games Action",
             "hu": "Laser Games Action",
             "ro": "Laser Games Action",
-            "en": "Laser Games Action"
+            "en": "Laser Games Action",
+            "fr": "Laser Games Action"
           },
           "coords": [
             1.870254,
@@ -765,7 +846,8 @@
             "de": "Erleben Sie ein spannendes Abenteuer in dieser modernen Lasertag-Arena, die Spaß für die ganze Familie bietet, und buchen Sie Ihr Ticket am besten im Voraus.",
             "hu": "Éljen át egy izgalmas kalandot ebben az egész család számára szórakozást nyújtó, modern lézerharc-arénában, és a biztos bejutásért foglaljon jegyet előre.",
             "ro": "Trăiți o aventură palpitantă în această arenă modernă de laser tag, perfectă pentru întreaga familie, și rezervați-vă biletele în avans pentru a evita cozile.",
-            "en": "Experience a thrilling adventure in this modern laser tag arena that offers fun for the whole family, and consider booking your tickets in advance to secure a spot."
+            "en": "Experience a thrilling adventure in this modern laser tag arena that offers fun for the whole family, and consider booking your tickets in advance to secure a spot.",
+            "fr": "Vivez une aventure palpitante dans cette arène moderne de laser tag qui offre du plaisir pour toute la famille, et pensez à réserver vos billets à l'avance pour garantir votre place."
           }
         },
         {
@@ -773,7 +855,8 @@
             "de": "Kirche Saint-Ouen",
             "hu": "Saint-Ouen templom",
             "ro": "Biserica Saint-Ouen",
-            "en": "Église Saint-Ouen"
+            "en": "Église Saint-Ouen",
+            "fr": "Église Saint-Ouen"
           },
           "coords": [
             1.854608,
@@ -788,7 +871,8 @@
             "de": "Entdecken Sie die spirituelle Ruhe dieser historischen Kirche und achten Sie besonders auf die detaillierten Holzschnitzereien, die den Altarraum kunstvoll schmücken.",
             "hu": "Fedezze fel e történelmi templom spirituális nyugalmát, és fordítson különös figyelmet a szentélyt művészien díszítő, aprólékosan kidolgozott fafaragásokra.",
             "ro": "Descoperiți liniștea spirituală a acestei biserici istorice și acordați o atenție deosebită sculpturilor detaliate în lemn care decorează cu măiestrie sanctuarul.",
-            "en": "Discover the spiritual tranquility of this historic church, and pay special attention to the detailed wood carvings that artfully decorate the elegant sanctuary area."
+            "en": "Discover the spiritual tranquility of this historic church, and pay special attention to the detailed wood carvings that artfully decorate the elegant sanctuary area.",
+            "fr": "Découvrez la tranquillité spirituelle de cette église historique, et portez une attention particulière aux sculptures sur bois détaillées qui décorent avec art le sanctuaire élégant."
           }
         },
         {
@@ -796,7 +880,8 @@
             "de": "Theater de la Nacelle",
             "hu": "Théâtre de la Nacelle",
             "ro": "Teatrul de la Nacelle",
-            "en": "Théâtre de la Nacelle"
+            "en": "Théâtre de la Nacelle",
+            "fr": "Théâtre de la Nacelle"
           },
           "coords": [
             1.850382,
@@ -811,7 +896,8 @@
             "de": "Tauchen Sie in das kulturelle Leben ein und bewundern Sie dieses moderne Theatergebäude; informieren Sie sich vorab über das aktuelle Programm für Abendveranstaltungen.",
             "hu": "Merüljön el a kulturális életben ennek a modern színházépületnek a megcsodálásával, és mindenképpen tájékozódjon előre az esti előadások aktuális programjáról.",
             "ro": "Cufundați-vă în viața culturală admirând această clădire modernă de teatru și verificați programul actual în avans pentru a prinde un spectacol minunat de seară.",
-            "en": "Immerse yourself in the local cultural life by admiring this modern theater building, and check the current schedule in advance to catch an engaging evening performance."
+            "en": "Immerse yourself in the local cultural life by admiring this modern theater building, and check the current schedule in advance to catch an engaging evening performance.",
+            "fr": "Imprégnez-vous de la vie culturelle locale en admirant ce bâtiment de théâtre moderne, et consultez le programme en avance pour assister à une représentation captivante en soirée."
           }
         },
         {
@@ -819,7 +905,8 @@
             "de": "Schloss Montgardé",
             "hu": "Montgardé kastély",
             "ro": "Castelul Montgardé",
-            "en": "Château de Montgardé"
+            "en": "Château de Montgardé",
+            "fr": "Château de Montgardé"
           },
           "coords": [
             1.841866,
@@ -834,7 +921,8 @@
             "de": "Bewundern Sie die imposante Architektur dieses historischen Schlosses und spazieren Sie durch die umliegenden Gärten, um die besten Fotomotive des Anwesens zu finden.",
             "hu": "Csodálja meg e történelmi kastély lenyűgöző építészetét, és tegyen egy kellemes sétát a környező kertekben, hogy megtalálja a birtok legjobb fotós helyszíneit.",
             "ro": "Admirați arhitectura impunătoare a acestui castel istoric și plimbați-vă prin grădinile înconjurătoare pentru a descoperi cele mai bune unghiuri pentru fotografii.",
-            "en": "Admire the imposing architecture of this historic castle, and take a relaxing stroll through the surrounding gardens to find the best photographic spots on the estate."
+            "en": "Admire the imposing architecture of this historic castle, and take a relaxing stroll through the surrounding gardens to find the best photographic spots on the estate.",
+            "fr": "Admirez l'architecture imposante de ce château historique, et promenez-vous dans les jardins environnants pour trouver les meilleurs points de vue photographiques du domaine."
           }
         }
       ],
@@ -842,7 +930,8 @@
         "de": "Beginnen Sie Ihren Tag mit einer Erkundung der ruhigen Viertel und historischen Gebäude, die den einzigartigen Charakter von Aubergenville prägen.\nAm Mittag bietet sich eine entspannte Pause in der Nähe der Freizeitbäder an, wo Sie neue Energie für die kommenden Entdeckungen tanken können.\nDer Nachmittag führt Sie zu weiteren kulturellen und religiösen Sehenswürdigkeiten, die spannende Einblicke in die lokale Geschichte gewähren.\nLassen Sie den Tag bei einem gemütlichen Spaziergang in der Nähe des Theaters oder Schlosses ausklingen und genießen Sie die abendliche Atmosphäre.",
         "hu": "Kezdje a napot Aubergenville békés negyedeinek és történelmi épületeinek felfedezésével, amelyek megadják a város egyedi és varázslatos karakterét.\nDélben érdemes egy pihentető szünetet tartani a szabadidőközpont közelében, ahol felfrissülhet és energiát gyűjthet a délutáni programokhoz.\nA délután folyamán további kulturális és vallási látnivalók várják, amelyek mélyebb bepillantást engednek a helyi történelem gazdag múltjába.\nZárja a napot egy kellemes esti sétával a színház vagy a kastély környékén, és élvezze a város csendes, lelassult esti hangulatát.",
         "ro": "Începeți ziua explorând cartierele liniștite și clădirile istorice care conferă orașului Aubergenville caracterul său unic și plin de farmec.\nLa prânz, o pauză relaxantă în apropierea complexului de agrement este perfectă pentru a vă reîncărca bateriile pentru următoarele descoperiri.\nDupă-amiaza vă poartă către alte atracții culturale și religioase, oferind o perspectivă captivantă asupra istoriei locale și a comunității.\nÎncheiați ziua cu o plimbare plăcută pe lângă teatru sau castel, bucurându-vă de atmosfera senină și relaxantă a serii în acest oraș pitoresc.",
-        "en": "Begin your day by exploring the peaceful neighborhoods and historic buildings that give Aubergenville its unique and truly charming character.\nAt midday, take a relaxing break near the local leisure complex, providing the perfect opportunity to recharge your energy for more discoveries.\nThe afternoon leads you to further cultural and religious sights, offering fascinating insights into the rich local history and community life.\nEnd your day with a leisurely evening stroll near the modern theater or the majestic castle, soaking in the serene and relaxing evening atmosphere."
+        "en": "Begin your day by exploring the peaceful neighborhoods and historic buildings that give Aubergenville its unique and truly charming character.\nAt midday, take a relaxing break near the local leisure complex, providing the perfect opportunity to recharge your energy for more discoveries.\nThe afternoon leads you to further cultural and religious sights, offering fascinating insights into the rich local history and community life.\nEnd your day with a leisurely evening stroll near the modern theater or the majestic castle, soaking in the serene and relaxing evening atmosphere.",
+        "fr": "Commencez votre journée en explorant les quartiers paisibles et les bâtiments historiques qui donnent à Aubergenville son caractère unique et charmant.\nÀ midi, faites une pause relaxante près du complexe de loisirs local, offrant l'occasion parfaite de recharger vos batteries pour d'autres découvertes.\nL'après-midi vous conduit vers d'autres sites culturels et religieux, offrant des aperçus fascinants de l'histoire locale riche et de la vie communautaire.\nTerminez votre journée par une promenade du soir près du théâtre moderne ou du majestueux château, en profitant de l'atmosphère sereine et reposante du soir."
       },
       "variants": {
         "rainy": {
@@ -850,7 +939,8 @@
             "de": "Fahren Sie an diesem regnerischen Morgen sicher zwischen den Stätten, die trockene Zuflucht bieten. Mittags gibt es Spaß in den Bädern und beim Laser-Tag abseits des Regens. Nachmittags ist beim Parken auf nassen Straßen große Vorsicht geboten. Beenden Sie die Tour am Schloss.",
             "hu": "Vezessen óvatosan az esős reggelen a száraz benti menedékek között. Délben családi szórakozást nyújt a fürdő és a lézerharc, biztonságosan elmenekülve a zápor elől. A délutáni vezetésnél nagyon óvatosan parkoljon a nedves utcákon. Zárja a napot a kastélynál az autóban.",
             "ro": "Conduceți în siguranță în dimineața ploioasă, sărind între sanctuarele interioare și uscate. Prânzul oferă distracție la băi și laser tag, departe de ploaie. Parcarea de după-amiază necesită prudență maximă pe străzile ude. Încheiați ziua ploioasă cu o vedere la castel.",
-            "en": "Drive safely through the exceptionally rainy morning, hopping between dry indoor sanctuaries. Midday safely offers fun family escapes at the baths and laser tag, completely avoiding the downpour. Afternoon driving requires careful parking on wet streets. End at the castle."
+            "en": "Drive safely through the exceptionally rainy morning, hopping between dry indoor sanctuaries. Midday safely offers fun family escapes at the baths and laser tag, completely avoiding the downpour. Afternoon driving requires careful parking on wet streets. End at the castle.",
+            "fr": "Conduisez prudemment pendant la matinée exceptionnellement pluvieuse, en sautant d'un abri intérieur sec à l'autre. À midi, profitez en toute sécurité des activités familiales aux bains et au laser tag pour éviter complètement l'averse. La conduite de l'après-midi nécessite un stationnement soigneux sur des rues mouillées. Terminez au château."
           },
           "stops": [
             {
@@ -858,13 +948,15 @@
                 "de": "St.-Theresia-Kirche",
                 "hu": "Szent Teréz templom",
                 "ro": "Biserica Sfânta Tereza",
-                "en": "Saint Theresa Church"
+                "en": "Saint Theresa Church",
+                "fr": "Saint Theresa Church"
               },
               "tip_5lang": {
                 "de": "Parken Sie so nah wie möglich am Eingang, um die Zeit im strömenden Regen zu minimieren; der atemberaubende Innenraum bietet sofortigen trockenen Komfort.",
                 "hu": "Parkoljon a lehető legközelebb a bejárathoz, hogy elkerülje a szakadó esőt; a lenyűgöző belső tér azonnali, meleg és teljesen száraz kényelmet nyújt.",
                 "ro": "Parcați cât mai aproape de intrare pentru a minimiza complet timpul petrecut în ploaie; interiorul uimitor vă oferă un confort uscat și liniștit imediat.",
-                "en": "Park as close to the entrance as humanly possible to minimize your time in the heavy rain; the stunningly peaceful interior offers immediate dry comfort."
+                "en": "Park as close to the entrance as humanly possible to minimize your time in the heavy rain; the stunningly peaceful interior offers immediate dry comfort.",
+                "fr": "Garez-vous aussi près que possible de l'entrée pour minimiser votre temps sous la forte pluie ; l'intérieur d'une tranquillité saisissante offre un confort sec immédiat."
               }
             },
             {
@@ -872,13 +964,15 @@
                 "de": "Gartenstadt Élisabethville",
                 "hu": "Élisabethville kertváros",
                 "ro": "Orașul grădină Élisabethville",
-                "en": "Élisabethville Garden City"
+                "en": "Élisabethville Garden City",
+                "fr": "Élisabethville Garden City"
               },
               "tip_5lang": {
                 "de": "Genießen Sie eine sehr langsame Fahrt durch die historischen Straßen; der anhaltende Regen sorgt für eine fast filmreife, stimmungsvolle Atmosphäre.",
                 "hu": "Élvezze a nagyon lassú, nézelődős autózást a történelmi utcákon; a folyamatos eső hangulatos, titokzatos és szinte filmszerű atmoszférát kölcsönöz.",
                 "ro": "Bucurați-vă de o plimbare extrem de lentă cu mașina pe străzile istorice; ploaia continuă oferă întregului cartier o atmosferă cinematică și melancolică.",
-                "en": "Enjoy a remarkably slow drive right through the historic streets; the persistent rain gives the entire neighborhood a beautifully moody, cinematic atmosphere."
+                "en": "Enjoy a remarkably slow drive right through the historic streets; the persistent rain gives the entire neighborhood a beautifully moody, cinematic atmosphere.",
+                "fr": "Appréciez une conduite remarquablement lente à travers les rues historiques ; la pluie persistante donne à tout le quartier une atmosphère magnifiquement mélancolique et cinématographique."
               }
             },
             {
@@ -886,13 +980,15 @@
                 "de": "Les Bains de Seine Mauldre",
                 "hu": "Les Bains de Seine Mauldre",
                 "ro": "Les Bains de Seine Mauldre",
-                "en": "Les Bains de Seine Mauldre"
+                "en": "Les Bains de Seine Mauldre",
+                "fr": "Les Bains de Seine Mauldre"
               },
               "tip_5lang": {
                 "de": "Dies ist eine absolut ideale Aktivität an einem Regentag; laufen Sie einfach schnell vom nassen Parkplatz zum wunderbar warmen und einladenden Empfang.",
                 "hu": "Ez egy abszolút ideális, egész napos esős napi program mindenki számára; fusson egy gyorsat a vizes parkolóból a csodálatosan meleg, barátságos recepcióig.",
                 "ro": "O activitate absolut ideală pe timp de ploaie pentru toată familia; alergați foarte rapid din parcarea udă către zona de recepție minunat de caldă.",
-                "en": "An absolutely ideal, highly recommended rainy day activity for everyone; simply run quickly from the wet car park to the wonderfully warm reception area."
+                "en": "An absolutely ideal, highly recommended rainy day activity for everyone; simply run quickly from the wet car park to the wonderfully warm reception area.",
+                "fr": "Une activité idéale et fortement recommandée pour une journée de pluie pour tous ; courez simplement du parking mouillé vers l'accueil merveilleusement chaud."
               }
             },
             {
@@ -900,13 +996,15 @@
                 "de": "Kirche Saint-Cloud",
                 "hu": "Saint-Cloud templom",
                 "ro": "Biserica Saint-Cloud",
-                "en": "Église Saint-Cloud"
+                "en": "Église Saint-Cloud",
+                "fr": "Église Saint-Cloud"
               },
               "tip_5lang": {
                 "de": "Verweilen Sie ruhig in dieser alten, leisen Kirche, um den heftigen Mittags-Schauern zu entkommen; nehmen Sie unbedingt einen großen Regenschirm mit.",
                 "hu": "Töltsön el egy kis nyugodt időt ebben a csendes templomban a heves déli záporok elől menekülve; vigyen magával egy nagy esernyőt a rövid, de vizes sétához.",
                 "ro": "Petreceți un moment de liniște în această biserică veche pentru a scăpa de aversele grele de prânz; luați neapărat o umbrelă mare pentru scurta plimbare.",
-                "en": "Take a quiet moment in this historic church to safely escape the incredibly heavy midday showers; vitally bring a large umbrella for the short, wet walk."
+                "en": "Take a quiet moment in this historic church to safely escape the incredibly heavy midday showers; vitally bring a large umbrella for the short, wet walk.",
+                "fr": "Prenez un moment de calme dans cette église historique pour échapper en sécurité aux averses de midi incroyablement fortes ; apportez impérativement un grand parapluie pour la courte marche mouillée."
               }
             },
             {
@@ -914,13 +1012,15 @@
                 "de": "Laser Games Action",
                 "hu": "Laser Games Action",
                 "ro": "Laser Games Action",
-                "en": "Laser Games Action"
+                "en": "Laser Games Action",
+                "fr": "Laser Games Action"
               },
               "tip_5lang": {
                 "de": "Ein perfekter Indoor-Adrenalinkick, wenn das Wetter draußen wirklich unerträglich ist; Vorsicht, auf dem Parkplatz können sich sehr tiefe Pfützen bilden.",
                 "hu": "Tökéletes benti adrenalinbomba, ha kint már teljesen borzalmas és esős az idő; nagyon vigyázzon, mert a parkoló aszfaltján gyakran hatalmas tócsák állnak.",
                 "ro": "O explozie perfectă de adrenalină la interior când vremea e cu adevărat groaznică afară; mare atenție, în parcare se pot forma bălți neașteptat de adânci.",
-                "en": "A perfect, high-energy indoor adrenaline rush when the weather is absolutely terrible outside; firmly note that the parking lot can get intensely puddled."
+                "en": "A perfect, high-energy indoor adrenaline rush when the weather is absolutely terrible outside; firmly note that the parking lot can get intensely puddled.",
+                "fr": "Un rush d'adrénaline intérieur parfait quand le temps est absolument terrible dehors ; notez bien que le parking peut être intensément plein de flaques."
               }
             },
             {
@@ -928,13 +1028,15 @@
                 "de": "Kirche Saint-Ouen",
                 "hu": "Saint-Ouen templom",
                 "ro": "Biserica Saint-Ouen",
-                "en": "Église Saint-Ouen"
+                "en": "Église Saint-Ouen",
+                "fr": "Église Saint-Ouen"
               },
               "tip_5lang": {
                 "de": "Suchen Sie hier drinnen sofort Schutz und bewundern Sie die Handwerkskunst; entfrosten und entfeuchten Sie die nassen Scheiben vor der nächsten Abfahrt.",
                 "hu": "Keressen menedéket a száraz belső térben és csodálja meg a történelmi kézművességet; indulás előtt alaposan páramentesítse a vizes autó szélvédőjét.",
                 "ro": "Adăpostiți-vă imediat la interior și admirați măiestria meșterilor istorici; asigurați-vă cu atenție că geamurile mașinii sunt complet dezaburite la plecare.",
-                "en": "Take immediate dry shelter inside and admire the historical craftsmanship; critically ensure your car windows are completely defogged before carefully leaving."
+                "en": "Take immediate dry shelter inside and admire the historical craftsmanship; critically ensure your car windows are completely defogged before carefully leaving.",
+                "fr": "Mettez-vous immédiatement à l'abri à l'intérieur et admirez le savoir-faire historique ; assurez-vous impérativement que les vitres de votre voiture sont complètement dégivrées avant de partir prudemment."
               }
             },
             {
@@ -942,13 +1044,15 @@
                 "de": "Theater de la Nacelle",
                 "hu": "Théâtre de la Nacelle",
                 "ro": "Teatrul de la Nacelle",
-                "en": "Théâtre de la Nacelle"
+                "en": "Théâtre de la Nacelle",
+                "fr": "Théâtre de la Nacelle"
               },
               "tip_5lang": {
                 "de": "Sehen Sie sich gemütlich eine Show an, während es draußen ununterbrochen weiter regnet; bewahren Sie eine trockene Jacke für den späten Abend im Auto auf.",
                 "hu": "Nézzen meg egy kényelmes benti előadást, miközben kint megállás nélkül esik; bölcs dolog tartani egy tartalék, száraz kabátot az autóban az esti váltáshoz.",
                 "ro": "Vizionați relaxat un spectacol la interior în timp ce continuă să plouă torențial afară; păstrați mereu o jachetă uscată în mașină pentru trecerea la seară.",
-                "en": "Comfortably watch an indoor show as the heavy rain continues to relentlessly pour outside; wisely keep a completely dry jacket in the car for the evening."
+                "en": "Comfortably watch an indoor show as the heavy rain continues to relentlessly pour outside; wisely keep a completely dry jacket in the car for the evening.",
+                "fr": "Regardez confortablement un spectacle intérieur pendant que la forte pluie continue de tomber sans relâche dehors ; gardez sagement une veste complètement sèche dans la voiture pour la soirée."
               }
             },
             {
@@ -956,13 +1060,15 @@
                 "de": "Schloss Montgardé",
                 "hu": "Montgardé kastély",
                 "ro": "Castelul Montgardé",
-                "en": "Château de Montgardé"
+                "en": "Château de Montgardé",
+                "fr": "Château de Montgardé"
               },
               "tip_5lang": {
                 "de": "Betrachten Sie das hell beleuchtete Schloss wunderbar aus dem warmen Auto heraus; der völlig nasse und matschige Boden erschwert jeden Spaziergang drastisch.",
                 "hu": "Nézze meg a lenyűgözően kivilágított kastélyt a kényelmes, meleg autóból; a teljesen átázott, saras talaj szinte lehetetlenné teszi a kinti esti sétát.",
                 "ro": "Priviți castelul strălucitor iluminat direct din confortul excepțional al mașinii calde; pământul extrem de ud și noroios face imposibilă o plimbare afară.",
-                "en": "View the beautifully floodlit grand castle from the immense comfort of your warm car; the heavily wet, muddy grounds make an evening stroll far too difficult."
+                "en": "View the beautifully floodlit grand castle from the immense comfort of your warm car; the heavily wet, muddy grounds make an evening stroll far too difficult.",
+                "fr": "Admirez le grand château magnifiquement éclairé depuis le confort immense de votre voiture chaude ; les terrains fortement humides et boueux rendent une promenade nocturne beaucoup trop difficile."
               }
             }
           ]
@@ -972,7 +1078,8 @@
             "de": "Beginnen Sie den kalten Wintermorgen mit aufgedrehter Heizung im Auto. Mittagsfahrten verbinden Sie schnell und bequem mit der Wärme in den Innenräumen. Der extrem frühe Sonnenuntergang um 17:00 Uhr verwandelt die Route in eine magische Nachtfahrt auf frostigen Straßen.",
             "hu": "Kezdje a jéghideg téli reggelt az autó fűtésének maximumra állításával. A déli autózás gyorsan és kényelmesen összeköti a benti meleget a programokkal. A korai, 17:00 órás naplemente varázslatos éjszakai utazássá változtatja a napot. Vezessen nagyon óvatosan a fagyos utakon.",
             "ro": "Începeți dimineața extrem de rece de iarnă cu încălzirea mașinii dată la maximum. Călătoriile de prânz vă conectează rapid și comod la căldura interioară. Apusul foarte devreme de la ora 17:00 transformă traseul într-o plimbare magică. Navigați cu grijă pe străzile înghețate.",
-            "en": "Start your freezing winter morning with the car heater on full blast. Midday drives connect you very quickly to immense indoor warmth and entertainment. The notably early 17:00 sunset completely transforms the route into a magical nighttime drive. Navigate frosty streets with care."
+            "en": "Start your freezing winter morning with the car heater on full blast. Midday drives connect you very quickly to immense indoor warmth and entertainment. The notably early 17:00 sunset completely transforms the route into a magical nighttime drive. Navigate frosty streets with care.",
+            "fr": "Commencez votre matinée hivernale glacée avec le chauffage de la voiture à fond. Les trajets de midi vous relient rapidement à un immense confort intérieur et à des divertissements. Le coucher du soleil, notablement tôt à 17:00, transforme complètement l'itinéraire en une conduite nocturne magique. Naviguez prudemment sur les rues glacées."
           },
           "stops": [
             {
@@ -980,13 +1087,15 @@
                 "de": "St.-Theresia-Kirche",
                 "hu": "Szent Teréz templom",
                 "ro": "Biserica Sfânta Tereza",
-                "en": "Saint Theresa Church"
+                "en": "Saint Theresa Church",
+                "fr": "Saint Theresa Church"
               },
               "tip_5lang": {
                 "de": "Treten Sie direkt aus der Eiseskälte des Autos in diesen herrlich friedlichen Raum; das scharfe winterliche Morgenlicht sorgt für atemberaubende Glasreflexionen.",
                 "hu": "Lépjen be egyenesen a metsző fagyos hidegből ebbe a csodálatosan békés térbe; az alacsony szögű téli reggeli fény lenyűgöző üvegtükröződéseket hoz létre.",
                 "ro": "Pășiți direct din frigul absolut înghețat în acest spațiu interior deosebit de liniștit; lumina tăioasă a dimineții de iarnă creează reflexii uimitoare pe sticlă.",
-                "en": "Step briskly from the completely freezing cold into this wonderfully peaceful space; the sharp winter morning light surprisingly creates stunning glass reflections."
+                "en": "Step briskly from the completely freezing cold into this wonderfully peaceful space; the sharp winter morning light surprisingly creates stunning glass reflections.",
+                "fr": "Passez rapidement du froid glacial à cet espace merveilleusement paisible ; la lumière vive du matin d'hiver crée étonnamment de magnifiques reflets sur le verre."
               }
             },
             {
@@ -994,13 +1103,15 @@
                 "de": "Gartenstadt Élisabethville",
                 "hu": "Élisabethville kertváros",
                 "ro": "Orașul grădină Élisabethville",
-                "en": "Élisabethville Garden City"
+                "en": "Élisabethville Garden City",
+                "fr": "Élisabethville Garden City"
               },
               "tip_5lang": {
                 "de": "Fahren Sie extra langsam, um die weiß überfrorenen Bäume und Häuser zu schätzen; so bleiben Sie beim Sightseeing im warmen Auto absolut gemütlich und sicher.",
                 "hu": "Vezessen extrém lassan, hogy a fűtött autóból értékelje a hófehér deres fákat és történelmi házakat; ez a legnagyszerűbb módja a fagyos városnézésnek.",
                 "ro": "Conduceți foarte încet pentru a aprecia pe deplin copacii înghețați și casele istorice; este un mod absolut excelent de a vizita totul stând comod la căldură.",
-                "en": "Drive exceedingly slowly to deeply appreciate the starkly frost-tipped trees and historic homes; it's a wonderfully great way to stay totally cozy while sightseeing."
+                "en": "Drive exceedingly slowly to deeply appreciate the starkly frost-tipped trees and historic homes; it's a wonderfully great way to stay totally cozy while sightseeing.",
+                "fr": "Conduisez extrêmement lentement pour apprécier profondément les arbres et les maisons historiques couverts de givre ; c'est une excellente façon de rester bien au chaud tout en visitant."
               }
             },
             {
@@ -1008,13 +1119,15 @@
                 "de": "Les Bains de Seine Mauldre",
                 "hu": "Les Bains de Seine Mauldre",
                 "ro": "Les Bains de Seine Mauldre",
-                "en": "Les Bains de Seine Mauldre"
+                "en": "Les Bains de Seine Mauldre",
+                "fr": "Les Bains de Seine Mauldre"
               },
               "tip_5lang": {
                 "de": "Entfliehen Sie den extrem sinkenden Temperaturen im wohlig beheizten Pool; parken Sie so nah wie irgend möglich, um dem eisigen und beißenden Wind zu entgehen.",
                 "hu": "Meneküljön a drasztikusan csökkenő hőmérséklet elől a forró, fűtött medencébe; parkoljon a lehető legközelebb a bejárathoz a jeges, metsző déli szél miatt.",
                 "ro": "Scăpați de temperaturile aflate în continuă scădere scufundându-vă în piscina încălzită; parcați cât mai aproape posibil pentru a evita vântul înghețat de prânz.",
-                "en": "Effectively escape the rapidly dropping temperatures in the remarkably heated pool; vividly park as close as physically possible to avoid the icy, biting midday wind."
+                "en": "Effectively escape the rapidly dropping temperatures in the remarkably heated pool; vividly park as close as physically possible to avoid the icy, biting midday wind.",
+                "fr": "Échappez efficacement à la chute rapide des températures dans la piscine remarquablement chauffée ; garez-vous aussi près que possible pour éviter le vent midi glacé et mordant."
               }
             },
             {
@@ -1022,13 +1135,15 @@
                 "de": "Kirche Saint-Cloud",
                 "hu": "Saint-Cloud templom",
                 "ro": "Biserica Saint-Cloud",
-                "en": "Église Saint-Cloud"
+                "en": "Église Saint-Cloud",
+                "fr": "Église Saint-Cloud"
               },
               "tip_5lang": {
                 "de": "Ein sehr schneller, aber warmer Sprint vom Auto in die dicken Kirchenmauern ermöglicht es Ihnen, die historische Architektur zu genießen, ohne draußen zu erfrieren.",
                 "hu": "Egy nagyon gyors sprint a meleg autóból a templomba lehetővé teszi, hogy a kinti csontig hatoló fagyoskodás nélkül, kényelmesen élvezze az építészetet.",
                 "ro": "O fugă foarte scurtă, direct din mașina caldă în biserică, vă permite să vă bucurați de arhitectura istorică fără să înghețați absolut deloc afară în frig.",
-                "en": "A shockingly quick dash from the warm car directly into the church highly allows you to comfortably enjoy the architecture without freezing instantly outside."
+                "en": "A shockingly quick dash from the warm car directly into the church highly allows you to comfortably enjoy the architecture without freezing instantly outside.",
+                "fr": "Une ruée étonnamment rapide du chaud de la voiture directement dans l'église vous permet de profiter confortablement de l'architecture sans geler instantanément dehors."
               }
             },
             {
@@ -1036,13 +1151,15 @@
                 "de": "Laser Games Action",
                 "hu": "Laser Games Action",
                 "ro": "Laser Games Action",
-                "en": "Laser Games Action"
+                "en": "Laser Games Action",
+                "fr": "Laser Games Action"
               },
               "tip_5lang": {
                 "de": "Ein extrem actionreicher Spaß, um im eisigen Winter wirklich alle aufzuwärmen; lassen Sie die dicken Wintermäntel im Kofferraum, da die Arena sehr warm ist.",
                 "hu": "Hatalmas energiájú, pörgős szórakozás a teljes felmelegedéshez a hideg télen; bátran hagyja a vastag télikabátokat a csomagtartóban, mert az aréna nagyon meleg.",
                 "ro": "O distracție plină de mare energie pentru a încălzi cu adevărat pe toată lumea pe timp de iarnă; lăsați gecile foarte groase în portbagaj, deoarece arena e caldă.",
-                "en": "Very high-energy, active fun to powerfully warm up absolutely everyone in winter; smartly keep your thick winter coats in the trunk since the arena is surprisingly warm."
+                "en": "Very high-energy, active fun to powerfully warm up absolutely everyone in winter; smartly keep your thick winter coats in the trunk since the arena is surprisingly warm.",
+                "fr": "Un divertissement très énergique pour réchauffer puissamment tout le monde en hiver ; gardez intelligemment vos manteaux d'hiver épais dans le coffre puisque l'arène est étonnamment chaude."
               }
             },
             {
@@ -1050,13 +1167,15 @@
                 "de": "Kirche Saint-Ouen",
                 "hu": "Saint-Ouen templom",
                 "ro": "Biserica Saint-Ouen",
-                "en": "Église Saint-Ouen"
+                "en": "Église Saint-Ouen",
+                "fr": "Église Saint-Ouen"
               },
               "tip_5lang": {
                 "de": "Bei Ankunft hebt die sehr frühe Dämmerung die Merkmale der Kirche wunderschön hervor; passen Sie auf dem dunklen Parkplatz unbedingt auf gefährliches Glatteis auf.",
                 "hu": "Mire megérkezik, a nagyon korai téli szürkület csodálatosan kiemeli a templom vonásait; a sötét parkolóban rendkívül vigyázzon a láthatatlan fekete jégre.",
                 "ro": "Până ajungeți, amurgul foarte timpuriu de iarnă evidențiază splendid trăsăturile bisericii; aveți extrem de mare grijă la gheața neagră ascunsă din zona de parcare.",
-                "en": "By the time you finally arrive, the exceptionally early dusk highlights the church's features; urgently watch out for extremely dangerous black ice in the dark parking area."
+                "en": "By the time you finally arrive, the exceptionally early dusk highlights the church's features; urgently watch out for extremely dangerous black ice in the dark parking area.",
+                "fr": "À votre arrivée, le crépuscule exceptionnellement précoce met en valeur les caractéristiques de l'église ; faites très attention au verglas extrêmement dangereux dans le parking sombre."
               }
             },
             {
@@ -1064,13 +1183,15 @@
                 "de": "Theater de la Nacelle",
                 "hu": "Théâtre de la Nacelle",
                 "ro": "Teatrul de la Nacelle",
-                "en": "Théâtre de la Nacelle"
+                "en": "Théâtre de la Nacelle",
+                "fr": "Théâtre de la Nacelle"
               },
               "tip_5lang": {
                 "de": "Genießen Sie einen schönen kulturellen Abend warm abseits der extremen Kälte; wärmen Sie das Auto unbedingt per Fernstart vor der späten, eisigen Heimfahrt auf.",
                 "hu": "Élvezze a lenyűgöző kulturális estét a kinti dermesztő hideg elől teljesen elzárva; mindenképpen melegítse elő az autót az előadás utáni fagyos hazaindulás előtt.",
                 "ro": "Bucurați-vă de o seară culturală superbă complet feriți de frigul extrem de afară; preîncălziți neapărat mașina înainte de a pleca pe drumul înghețat spre casă.",
-                "en": "Deeply enjoy a wonderful cultural evening completely out of the bitter cold; heavily pre-warm your car engine before decisively heading home after the performance ends."
+                "en": "Deeply enjoy a wonderful cultural evening completely out of the bitter cold; heavily pre-warm your car engine before decisively heading home after the performance ends.",
+                "fr": "Profitez pleinement d'une belle soirée culturelle à l'abri du froid mordant ; préchauffez fortement le moteur de votre voiture avant de repartir après la représentation."
               }
             },
             {
@@ -1078,13 +1199,15 @@
                 "de": "Schloss Montgardé",
                 "hu": "Montgardé kastély",
                 "ro": "Castelul Montgardé",
-                "en": "Château de Montgardé"
+                "en": "Château de Montgardé",
+                "fr": "Château de Montgardé"
               },
               "tip_5lang": {
                 "de": "Das wunderbar leuchtende Schloss in der pechschwarzen Winternacht ist hochromantisch; lassen Sie den Motor für einen komplett warmen und gemütlichen Blick laufen.",
                 "hu": "A koromsötét téli éjszakában ragyogó kastély hihetetlenül romantikus látványt nyújt; hagyja nyugodtan járni a motort a teljesen meleg és kényelmes esti nézelődéshez.",
                 "ro": "Castelul care strălucește în noaptea întunecată de iarnă este de-a dreptul incredibil de romantic; țineți cu siguranță motorul pornit pentru a-l privi la mare căldură.",
-                "en": "The brightly glowing grand castle set against the pitch-dark winter night is incredibly romantic; securely keep the car engine running for a completely warm, cozy view."
+                "en": "The brightly glowing grand castle set against the pitch-dark winter night is incredibly romantic; securely keep the car engine running for a completely warm, cozy view.",
+                "fr": "Le grand château brillamment éclairé contre la nuit hivernale noire est incroyablement romantique ; laissez le moteur de la voiture tourner en sécurité pour une vue chaude et confortable."
               }
             }
           ]

@@ -31,7 +31,8 @@
             "de": "Der zentrale Treffpunkt mit Cafés.",
             "hu": "A város központi tere hangulatos kávézókkal.",
             "ro": "Piața centrală a orașului, plină de cafenele.",
-            "en": "The central square and heart of the city."
+            "en": "The central square and heart of the city.",
+            "fr": "La place centrale et le cœur de la ville."
           }
         },
         {
@@ -49,7 +50,8 @@
             "de": "Bewundern Sie die neugotische Architektur.",
             "hu": "Csodálja meg a neogótikus építészetet.",
             "ro": "Admirați arhitectura neogotică a bisericii.",
-            "en": "Admire the impressive neo-gothic architecture."
+            "en": "Admire the impressive neo-gothic architecture.",
+            "fr": "Admirez l'impressionnante architecture néo-gothique."
           }
         },
         {
@@ -67,7 +69,8 @@
             "de": "Fokus auf die Kriege der Vendée.",
             "hu": "Ismerje meg a vendée-i háborúk történetét.",
             "ro": "Descoperiți istoria războaielor din Vendée.",
-            "en": "Learn about the history of the Vendée wars."
+            "en": "Learn about the history of the Vendée wars.",
+            "fr": "Informez-vous sur l'histoire des guerres de Vendée."
           }
         },
         {
@@ -85,7 +88,8 @@
             "de": "Ein modernes kulturelles Zentrum.",
             "hu": "A város modern kulturális központja.",
             "ro": "Centrul cultural modern al orașului.",
-            "en": "The modern cultural hub of the city."
+            "en": "The modern cultural hub of the city.",
+            "fr": "Le pôle culturel moderne de la ville."
           }
         },
         {
@@ -103,7 +107,8 @@
             "de": "Perfekt für ein Picknick am Fluss.",
             "hu": "Ideális hely egy folyóparti sétához.",
             "ro": "Perfect pentru o plimbare relaxantă pe malul râului.",
-            "en": "Ideal for a relaxing stroll by the river."
+            "en": "Ideal for a relaxing stroll by the river.",
+            "fr": "Idéal pour une balade relaxante au bord de la rivière."
           }
         },
         {
@@ -121,7 +126,8 @@
             "de": "Die Geschichte des berühmten roten Taschentuchs.",
             "hu": "A híres cholet-i piros zsebkendő története.",
             "ro": "Istoria faimoasei batiste roșii de Cholet.",
-            "en": "Home of the famous red Cholet handkerchief."
+            "en": "Home of the famous red Cholet handkerchief.",
+            "fr": "Berceau du célèbre mouchoir rouge de Cholet."
           }
         },
         {
@@ -139,7 +145,8 @@
             "de": "Eine beeindruckende rote Backsteinkirche.",
             "hu": "Lenyűgöző vörös téglás templom.",
             "ro": "O biserică impresionantă din cărămidă roșie.",
-            "en": "A striking red brick church structure."
+            "en": "A striking red brick church structure.",
+            "fr": "Une remarquable construction en brique rouge."
           }
         }
       ],
@@ -147,7 +154,8 @@
         "de": "Morgens erkunden Sie das Herz von Cholet an der Place Travot und besuchen die neugotische Notre-Dame. Nach einem lehrreichen Vormittag im Kunst- und Geschichtsmuseum spazieren Sie mittags durch den Parc de Moine. Der Nachmittag ist der Textiltradition gewidmet, gefolgt von der beeindruckenden Sacré-Cœur-Kirche zum Ausklang des Tages.",
         "hu": "A reggelt Cholet szívében, a Place Travot-n indítjuk, majd megnézzük a neogótikus Notre-Dame templomot. A Művészeti és Történeti Múzeum után délután a Parc de Moine zöldjében pihenünk. A nap végén a textilipart bemutató múzeumot és a különleges vörös téglás Sacré-Cœur templomot látogatjuk meg.",
         "ro": "Dimineața începe în inima orașului la Place Travot, urmată de o vizită la biserica neogotică Notre-Dame. După ce explorați istoria locală la muzeul de artă, amiaza vă găsește în Parc de Moine. După-amiaza este dedicată tradiției textile și impresionantei biserici Sacré-Cœur.",
-        "en": "Start your morning at Place Travot, then visit the neo-gothic Notre-Dame. After diving into history at the Art and History Museum, enjoy a midday break in Parc de Moine. Spend the afternoon discovering the city's textile heritage before ending your day at the majestic Sacré-Cœur church."
+        "en": "Start your morning at Place Travot, then visit the neo-gothic Notre-Dame. After diving into history at the Art and History Museum, enjoy a midday break in Parc de Moine. Spend the afternoon discovering the city's textile heritage before ending your day at the majestic Sacré-Cœur church.",
+        "fr": "Commencez votre matinée à la Place Travot, puis visitez la Notre-Dame néo-gothique. Après une plongée dans l'histoire au Musée d'Art et d'Histoire, profitez d'une pause déjeuner au Parc de Moine. Passez l'après-midi à découvrir le patrimoine textile de la ville avant de terminer votre journée à la majestueuse église du Sacré-Cœur."
       },
       "gastro_picks": {
         "de": [
@@ -255,6 +263,12 @@
           "Don't miss out on trying the local Brioche Vendéenne.",
           "The Textile Museum is often closed on Mondays.",
           "Parking is easiest to find around Place Travot."
+        ],
+        "fr": [
+          "Cholet est très plat et facile à explorer à pied.",
+          "Ne manquez pas de goûter la brioche vendéenne locale.",
+          "Le Musée du Textile est souvent fermé le lundi.",
+          "Le stationnement est plus facile à trouver autour de la Place Travot."
         ]
       }
     },
@@ -281,7 +295,8 @@
             "de": "Startpunkt im Zentrum.",
             "hu": "Indulás a városközpontból.",
             "ro": "Punct de plecare din centru.",
-            "en": "Starting point in the city center."
+            "en": "Starting point in the city center.",
+            "fr": "Point de départ au centre-ville."
           }
         },
         {
@@ -299,7 +314,8 @@
             "de": "Besuchen Sie die alte Bleicherei.",
             "hu": "Látogasson el a régi fehérítőüzembe.",
             "ro": "Vizitați vechea înălbitorie.",
-            "en": "Visit the old bleaching factory."
+            "en": "Visit the old bleaching factory.",
+            "fr": "Visitez l'ancienne usine de blanchiment."
           }
         },
         {
@@ -317,7 +333,8 @@
             "de": "Genießen Sie die Fahrt zum See.",
             "hu": "Élvezze a tóparti kerékpározást.",
             "ro": "Bucurați-vă de plimbarea spre lac.",
-            "en": "Enjoy the scenic ride to the lake."
+            "en": "Enjoy the scenic ride to the lake.",
+            "fr": "Profitez de la balade pittoresque jusqu'au lac."
           }
         },
         {
@@ -335,7 +352,8 @@
             "de": "Schattige Wege für Radfahrer.",
             "hu": "Árnyas utak kerékpárosoknak.",
             "ro": "Alei umbrite pentru bicicliști.",
-            "en": "Shaded paths for cyclists."
+            "en": "Shaded paths for cyclists.",
+            "fr": "Des chemins ombragés pour les cyclistes."
           }
         },
         {
@@ -353,7 +371,8 @@
             "de": "Architektur-Stopp im Osten.",
             "hu": "Építészeti megálló a keleti oldalon.",
             "ro": "Oprire arhitecturală în est.",
-            "en": "Architectural stop on the east side."
+            "en": "Architectural stop on the east side.",
+            "fr": "Arrêt architectural sur le côté est."
           }
         },
         {
@@ -371,7 +390,8 @@
             "de": "Ein letzter kultureller Einblick.",
             "hu": "Utolsó kulturális betekintés.",
             "ro": "O ultimă perspectivă culturală.",
-            "en": "A final cultural insight."
+            "en": "A final cultural insight.",
+            "fr": "Une dernière immersion culturelle."
           }
         }
       ],
@@ -379,7 +399,8 @@
         "de": "Mit dem Rad erkunden Sie Cholet und seine Umgebung effizient. Nach dem Textilmuseum führt die Tour zum Lac de Ribou, wo Natur pur wartet. Zurück in der Stadt entspannen Sie im Parc de Moine und besuchen die Sacré-Cœur-Kirche sowie das Kunstmuseum.",
         "hu": "Kerékpárral Cholet városa és környéke is könnyen bejárható. A Textilmúzeum után a Ribou-tó felé vesszük az irányt, ahol igazi természetközeli élmény vár. Visszatérve a városba a Parc de Moine-ban pihenünk, majd a Sacré-Cœur templom és a Művészeti Múzeum következik.",
         "ro": "Pe bicicletă, explorați Cholet și împrejurimile sale într-un mod eficient. După Muzeul Textilului, traseul duce la Lacul Ribou pentru o doză de natură. Revenind în oraș, vă relaxați în Parc de Moine și vizitați biserica Sacré-Cœur și muzeul de artă.",
-        "en": "Cycling allows you to see both the city and its natural outskirts. After the Textile Museum, ride out to Lac de Ribou for some fresh air. Back in town, relax in Parc de Moine before visiting the Sacré-Cœur church and the Art and History Museum."
+        "en": "Cycling allows you to see both the city and its natural outskirts. After the Textile Museum, ride out to Lac de Ribou for some fresh air. Back in town, relax in Parc de Moine before visiting the Sacré-Cœur church and the Art and History Museum.",
+        "fr": "Le vélo vous permet de voir la ville et ses alentours naturels. Après le Musée du Textile, rejoignez le Lac de Ribou pour prendre l'air. De retour en ville, détendez-vous au Parc de Moine avant de visiter l'église du Sacré-Cœur et le Musée d'Art et d'Histoire."
       },
       "gastro_picks": {
         "de": [
@@ -487,6 +508,12 @@
           "Use the cycling paths along the Moine river.",
           "A bike lock is essential in the city center.",
           "The ride to the lake is about 5 km from the center."
+        ],
+        "fr": [
+          "Le chemin jusqu'au Lac de Ribou est bien balisé.",
+          "Empruntez les pistes cyclables le long de la rivière Moine.",
+          "Un antivol est indispensable dans le centre-ville.",
+          "La balade jusqu'au lac fait environ 5 km depuis le centre."
         ]
       }
     },
@@ -513,7 +540,8 @@
             "de": "Parken Sie im zentralen Parkhaus.",
             "hu": "Parkoljon a központi parkolóházban.",
             "ro": "Parcați în parcarea centrală.",
-            "en": "Park in the central underground parking."
+            "en": "Park in the central underground parking.",
+            "fr": "Garez-vous dans le parking souterrain central."
           }
         },
         {
@@ -531,7 +559,8 @@
             "de": "Ein kurzer Spaziergang vom Platz.",
             "hu": "Rövid séta a térről.",
             "ro": "O scurtă plimbare din piață.",
-            "en": "A short walk from the main square."
+            "en": "A short walk from the main square.",
+            "fr": "À une courte marche de la place principale."
           }
         },
         {
@@ -549,7 +578,8 @@
             "de": "Wichtige Kunstsammlungen der Region.",
             "hu": "A régió fontos művészeti gyűjteményei.",
             "ro": "Colecții de artă importante din regiune.",
-            "en": "Key art collections of the region."
+            "en": "Key art collections of the region.",
+            "fr": "Collections d'art majeures de la région."
           }
         },
         {
@@ -567,7 +597,8 @@
             "de": "Ein Muss für Industrie-Liebhaber.",
             "hu": "Ipari örökség iránt érdeklődőknek kötelező.",
             "ro": "Obligatoriu pentru iubitorii de patrimoniu industrial.",
-            "en": "A must for industrial heritage fans."
+            "en": "A must for industrial heritage fans.",
+            "fr": "Indispensable pour les amateurs du patrimoine industriel."
           }
         },
         {
@@ -585,7 +616,8 @@
             "de": "Zu Fuß vom Textilmuseum erreichbar.",
             "hu": "Gyalog is elérhető a Textilmúzeumtól.",
             "ro": "Accesibil pe jos de la Muzeul Textilului.",
-            "en": "Walkable from the Textile Museum."
+            "en": "Walkable from the Textile Museum.",
+            "fr": "Accessible à pied depuis le Musée du Textile."
           }
         },
         {
@@ -603,7 +635,8 @@
             "de": "Zentraler Parkstopp.",
             "hu": "Központi parki pihenő.",
             "ro": "Oprire în parcul central.",
-            "en": "Central park relaxation stop."
+            "en": "Central park relaxation stop.",
+            "fr": "Pause détente au parc central."
           }
         },
         {
@@ -621,7 +654,8 @@
             "de": "Abschluss am ruhigen See.",
             "hu": "A nap lezárása a csendes tónál.",
             "ro": "Final de zi la lacul liniștit.",
-            "en": "End the day at the peaceful lake."
+            "en": "End the day at the peaceful lake.",
+            "fr": "Terminez la journée au lac paisible."
           }
         }
       ],
@@ -629,7 +663,8 @@
         "de": "Die Autotour verbindet das historische Zentrum mit den Außenbezirken. Nach den kulturellen Highlights in der Innenstadt (Cluster 1) fahren Sie zum Textilmuseum und der Sacré-Cœur (Cluster 2). Den Nachmittag verbringen Sie entspannt am Lac de Ribou, bevor Sie nach Cholet zurückkehren.",
         "hu": "Az autós túra összeköti a történelmi központot a külvárossal. A belvárosi kulturális látnivalók (1. klaszter) után a Textilmúzeumhoz és a Sacré-Cœur-höz hajtunk (2. klaszter). A délutánt a Ribou-tónál töltjük, majd visszatérünk Cholet-ba.",
         "ro": "Turul cu mașina îmbină centrul istoric cu zonele periferice. După punctele culturale din centru (Cluster 1), conduceți spre Muzeul Textilului și Sacré-Cœur (Cluster 2). După-amiaza este dedicată relaxării la Lacul Ribou, înainte de revenirea în oraș.",
-        "en": "This driving route connects the historic center with the outskirts. After visiting the city's main cultural sites (Cluster 1), drive to the Textile Museum and Sacré-Cœur (Cluster 2). Spend the late afternoon enjoying the nature at Lac de Ribou before returning."
+        "en": "This driving route connects the historic center with the outskirts. After visiting the city's main cultural sites (Cluster 1), drive to the Textile Museum and Sacré-Cœur (Cluster 2). Spend the late afternoon enjoying the nature at Lac de Ribou before returning.",
+        "fr": "Cet itinéraire en voiture relie le centre historique aux faubourgs. Après avoir visité les principaux sites culturels de la ville (Groupe 1), conduisez jusqu'au Musée du Textile et au Sacré-Cœur (Groupe 2). Passez la fin d'après-midi à profiter de la nature au Lac de Ribou avant de revenir."
       },
       "gastro_picks": {
         "de": [
@@ -737,6 +772,12 @@
           "Driving time between clusters is short (under 15 mins).",
           "Visit the Textile Museum in the afternoon if possible.",
           "Lac de Ribou has plenty of free parking spaces."
+        ],
+        "fr": [
+          "Parkings centraux : Place Travot ou Arcades.",
+          "Le temps de trajet entre les groupes est court (moins de 15 min).",
+          "Visitez le Musée du Textile l'après-midi si possible.",
+          "Le Lac de Ribou dispose de nombreux emplacements de stationnement gratuits."
         ]
       }
     },
@@ -763,7 +804,8 @@
             "de": "Zentraler Busknotenpunkt 'Cholet Bus'.",
             "hu": "Központi buszcsomópont: 'Cholet Bus'.",
             "ro": "Nod central de autobuze 'Cholet Bus'.",
-            "en": "Central bus hub 'Cholet Bus'."
+            "en": "Central bus hub 'Cholet Bus'.",
+            "fr": "Nœud principal de bus « Cholet Bus »."
           }
         },
         {
@@ -781,7 +823,8 @@
             "de": "Zu Fuß vom Busstopp Travot.",
             "hu": "Gyalog a Travot megállótól.",
             "ro": "La câțiva pași de stația Travot.",
-            "en": "Short walk from the Travot bus stop."
+            "en": "Short walk from the Travot bus stop.",
+            "fr": "Courte marche depuis l'arrêt Travot."
           }
         },
         {
@@ -799,7 +842,8 @@
             "de": "Vom Zentrum aus leicht erreichbar.",
             "hu": "Könnyen elérhető a központból.",
             "ro": "Ușor accesibil din centru.",
-            "en": "Easily accessible from the center."
+            "en": "Easily accessible from the center.",
+            "fr": "Facilement accessible depuis le centre."
           }
         },
         {
@@ -817,7 +861,8 @@
             "de": "In der Nähe der Buslinien 1 & 2.",
             "hu": "Az 1-es és 2-es buszvonalak közelében.",
             "ro": "Aproape de liniile de autobuz 1 și 2.",
-            "en": "Near bus lines 1 and 2."
+            "en": "Near bus lines 1 and 2.",
+            "fr": "Près des lignes de bus 1 et 2."
           }
         },
         {
@@ -835,7 +880,8 @@
             "de": "Linie 1 hält direkt am Park.",
             "hu": "Az 1-es busz megáll a parknál.",
             "ro": "Linia 1 oprește chiar lângă parc.",
-            "en": "Line 1 stops right by the park."
+            "en": "Line 1 stops right by the park.",
+            "fr": "La ligne 1 s'arrête juste à côté du parc."
           }
         },
         {
@@ -853,7 +899,8 @@
             "de": "Kurze Busfahrt vom Zentrum.",
             "hu": "Rövid buszozás a központtól.",
             "ro": "Scurtă călătorie cu autobuzul din centru.",
-            "en": "Short bus ride from the center."
+            "en": "Short bus ride from the center.",
+            "fr": "Court trajet en bus depuis le centre."
           }
         },
         {
@@ -871,7 +918,8 @@
             "de": "Spaziergang zur nächsten Haltestelle.",
             "hu": "Séta a legközelebbi megállóig.",
             "ro": "Plimbare până la cea mai apropiată stație.",
-            "en": "Walk to the nearest bus stop."
+            "en": "Walk to the nearest bus stop.",
+            "fr": "Marchez jusqu'à l'arrêt de bus le plus proche."
           }
         }
       ],
@@ -879,7 +927,8 @@
         "de": "Mit dem effizienten Bussystem 'Cholet Bus' erreichen Sie alle Sehenswürdigkeiten. Vormittags erkunden Sie das Zentrum zu Fuß. Am Nachmittag bringt Sie der Bus zum Parc de Moine und zum Textilmuseum, bevor Sie den Tag an der Sacré-Cœur ausklingen lassen.",
         "hu": "A hatékony 'Cholet Bus' hálózattal minden látnivaló elérhető. Délelőtt a központot gyalogosan fedezzük fel. Délután busszal megyünk a Parc de Moine-hoz és a Textilmúzeumhoz, majd a napot a Sacré-Cœur templomnál zárjuk.",
         "ro": "Cu sistemul eficient 'Cholet Bus', toate atracțiile sunt accesibile. Dimineața explorați centrul pe jos. După-amiaza, autobuzul vă duce la Parc de Moine și Muzeul Textilului, încheind ziua la biserica Sacré-Cœur.",
-        "en": "Using the efficient 'Cholet Bus' network, all major sites are within reach. Spend your morning exploring the center on foot. In the afternoon, take a bus to Parc de Moine and the Textile Museum before finishing at the Sacré-Cœur church."
+        "en": "Using the efficient 'Cholet Bus' network, all major sites are within reach. Spend your morning exploring the center on foot. In the afternoon, take a bus to Parc de Moine and the Textile Museum before finishing at the Sacré-Cœur church.",
+        "fr": "Grâce au réseau efficace « Cholet Bus », tous les sites majeurs sont à portée. Passez la matinée à explorer le centre à pied. L'après-midi, prenez un bus pour le Parc de Moine et le Musée du Textile avant de terminer à l'église du Sacré-Cœur."
       },
       "gastro_picks": {
         "de": [
@@ -987,6 +1036,12 @@
           "Main lines 1, 2, and 3 intersect at Place Travot.",
           "Buses run less frequently on Saturdays and rarely on Sundays.",
           "Use the 'Cholet Bus' app for real-time information."
+        ],
+        "fr": [
+          "Achetez un ticket journée directement auprès du conducteur.",
+          "Les lignes principales 1, 2 et 3 se croisent à la Place Travot.",
+          "Les bus circulent moins fréquemment le samedi et rarement le dimanche.",
+          "Utilisez l'appli « Cholet Bus » pour les informations en temps réel."
         ]
       }
     }

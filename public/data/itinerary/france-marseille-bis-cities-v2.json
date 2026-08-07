@@ -21,7 +21,8 @@
             "de": "Hafen von L'Estaque",
             "hu": "L'Estaque kikötő",
             "ro": "Portul L'Estaque",
-            "en": "L'Estaque Harbor"
+            "en": "L'Estaque Harbor",
+            "fr": "Port de L’Estaque"
           },
           "coords": [
             5.315,
@@ -36,7 +37,8 @@
             "de": "Probieren Sie die berühmten Chichis Frégis am Morgen.",
             "hu": "Kóstolja meg a híres helyi fánkot, a Chichi Frégit.",
             "ro": "Încercați faimoasele gogoși Chichis Frégis dimineața.",
-            "en": "Try the famous local Chichis Frégis doughnuts."
+            "en": "Try the famous local Chichis Frégis doughnuts.",
+            "fr": "Essayez les fameux beignets locaux Chichis Frégis."
           }
         },
         {
@@ -44,7 +46,8 @@
             "de": "Eglise de la Madrague",
             "hu": "Madrague templom",
             "ro": "Biserica La Madrague",
-            "en": "La Madrague Church"
+            "en": "La Madrague Church",
+            "fr": "Église La Madrague"
           },
           "coords": [
             5.308,
@@ -59,7 +62,8 @@
             "de": "Eine charmante kleine Kirche im Herzen des Fischerviertels.",
             "hu": "Bájos kis templom a halásznegyed szívében.",
             "ro": "O mică biserică fermecătoare în inima cartierului de pescari.",
-            "en": "A charming small church in the heart of the fishing district."
+            "en": "A charming small church in the heart of the fishing district.",
+            "fr": "Une charmante petite église au cœur du quartier de pêcheurs."
           }
         },
         {
@@ -67,7 +71,8 @@
             "de": "Fondation Monticelli",
             "hu": "Monticelli Alapítvány",
             "ro": "Fundația Monticelli",
-            "en": "Fondation Monticelli"
+            "en": "Fondation Monticelli",
+            "fr": "Fondation Monticelli"
           },
           "coords": [
             5.301,
@@ -82,7 +87,8 @@
             "de": "Bewundern Sie die Werke des Malers Adolphe Monticelli im Fort.",
             "hu": "Csodálja meg Adolphe Monticelli festményeit az erődben.",
             "ro": "Admirați lucrările pictorului Adolphe Monticelli în fortăreață.",
-            "en": "Admire the works of painter Adolphe Monticelli inside the fort."
+            "en": "Admire the works of painter Adolphe Monticelli inside the fort.",
+            "fr": "Admirez les œuvres du peintre Adolphe Monticelli à l’intérieur du fort."
           }
         },
         {
@@ -90,7 +96,8 @@
             "de": "Strand von Corbières",
             "hu": "Corbières strand",
             "ro": "Plaja Corbières",
-            "en": "Corbières Beach"
+            "en": "Corbières Beach",
+            "fr": "Plage des Corbières"
           },
           "coords": [
             5.291,
@@ -105,7 +112,8 @@
             "de": "Drei feine Sandstrände mit Blick auf die Bucht von Marseille.",
             "hu": "Három homokos strand panorámás kilátással az öbölre.",
             "ro": "Trei plaje cu nisip fin și vedere spre golful Marsiliei.",
-            "en": "Three sandy beaches with a view over the bay of Marseille."
+            "en": "Three sandy beaches with a view over the bay of Marseille.",
+            "fr": "Trois plages de sable avec vue sur la baie de Marseille."
           }
         },
         {
@@ -113,7 +121,8 @@
             "de": "Aussichtspunkt L'Estaque",
             "hu": "L'Estaque kilátópont",
             "ro": "Punct de belvedere L'Estaque",
-            "en": "L'Estaque Viewpoint"
+            "en": "L'Estaque Viewpoint",
+            "fr": "Belvédère de L’Estaque"
           },
           "coords": [
             5.305,
@@ -128,7 +137,8 @@
             "de": "Der perfekte Ort, um den Sonnenuntergang über dem Meer zu genießen.",
             "hu": "Tökéletes hely a tenger feletti naplemente élvezetéhez.",
             "ro": "Locul perfect pentru a savura apusul deasupra mării.",
-            "en": "The perfect spot to enjoy the sunset over the sea."
+            "en": "The perfect spot to enjoy the sunset over the sea.",
+            "fr": "L’endroit idéal pour profiter du coucher de soleil sur la mer."
           }
         }
       ],
@@ -136,7 +146,8 @@
         "de": "Entdecken Sie den malerischen Norden von Marseille zu Fuß. Wir beginnen im authentischen Viertel L'Estaque, das einst große Maler wie Cézanne inspirierte. Nach einem Besuch der alten Kirche und der Kunstgalerie im Fort geht es zu den goldenen Stränden von Corbières, wo Sie den Nachmittag am Wasser verbringen können.",
         "hu": "Fedezze fel Marseille északi részét gyalogosan. L'Estaque autentikus negyedében kezdünk, amely egykor olyan festőket ihletett meg, mint Cézanne. A halásznegyed temploma és a várban található művészeti alapítvány után a Corbières strandok homokos partján pihenhetjük ki a nap fáradalmait.",
         "ro": "Descoperiți nordul pitoresc al Marsiliei la pas. Începem în cartierul autentic L'Estaque, care a inspirat pictori celebri precum Cézanne. După o vizită la biserica veche și fundația de artă din fort, ne îndreptăm spre plajele Corbières pentru o după-amiază relaxantă la malul mării.",
-        "en": "Explore the picturesque north of Marseille on foot. Start in the authentic L'Estaque district, a former muse for painters like Cézanne. After visiting the local church and the art foundation in the fort, head to the Corbières beaches for a relaxing afternoon by the Mediterranean sea."
+        "en": "Explore the picturesque north of Marseille on foot. Start in the authentic L'Estaque district, a former muse for painters like Cézanne. After visiting the local church and the art foundation in the fort, head to the Corbières beaches for a relaxing afternoon by the Mediterranean sea.",
+        "fr": "Explorez le pittoresque nord de Marseille à pied. Commencez dans l’authentique quartier de L’Estaque, ancien lieu d’inspiration pour des peintres comme Cézanne. Après la visite de l’église locale et de la fondation d’art dans le fort, dirigez-vous vers les plages des Corbières pour un après-midi détente au bord de la Méditerranée."
       },
       "gastro_picks": {
         "de": [
@@ -252,6 +263,10 @@
         "en": [
           "Comfortable shoes are essential for the hills of L'Estaque.",
           "Bring swimwear if you plan to visit the Corbières beaches."
+        ],
+        "fr": [
+          "Des chaussures confortables sont essentielles pour les collines de L’Estaque.",
+          "Prévoyez un maillot si vous comptez aller aux plages des Corbières."
         ]
       }
     },
@@ -268,7 +283,8 @@
             "de": "Savonnerie Le Sérail",
             "hu": "Le Sérail szappanfőzde",
             "ro": "Săpunăria Le Sérail",
-            "en": "Savonnerie Le Sérail"
+            "en": "Savonnerie Le Sérail",
+            "fr": "Savonnerie Le Sérail"
           },
           "coords": [
             5.378,
@@ -283,7 +299,8 @@
             "de": "Einer der letzten traditionellen Seifenhersteller.",
             "hu": "Az utolsó hagyományos szappanfőzdék egyike.",
             "ro": "Una dintre ultimele fabrici tradiționale de săpun.",
-            "en": "One of the last traditional Marseille soap makers."
+            "en": "One of the last traditional Marseille soap makers.",
+            "fr": "L’un des derniers fabricants traditionnels de savon de Marseille."
           }
         },
         {
@@ -291,7 +308,8 @@
             "de": "Parc du Grand Séminaire",
             "hu": "Grand Séminaire park",
             "ro": "Parcul Grand Séminaire",
-            "en": "Parc du Grand Séminaire"
+            "en": "Parc du Grand Séminaire",
+            "fr": "Parc du Grand Séminaire"
           },
           "coords": [
             5.385,
@@ -306,7 +324,8 @@
             "de": "Ein grüner Rückzugsort im industriellen Norden.",
             "hu": "Zöld oázis az ipari északi városrészben.",
             "ro": "O oază de verdeață în nordul industrial.",
-            "en": "A green retreat in the industrial northern district."
+            "en": "A green retreat in the industrial northern district.",
+            "fr": "Un havre de verdure dans le quartier industriel du nord."
           }
         },
         {
@@ -314,7 +333,8 @@
             "de": "Oppidum de Verduron",
             "hu": "Verduron oppidum",
             "ro": "Oppidum de Verduron",
-            "en": "Oppidum de Verduron"
+            "en": "Oppidum de Verduron",
+            "fr": "Oppidum de Verduron"
           },
           "coords": [
             5.342,
@@ -329,7 +349,8 @@
             "de": "Antike keltisch-ligurische Siedlung mit Traumblick.",
             "hu": "Ókori kelta-ligur település páratlan kilátással.",
             "ro": "Așezare antică celto-ligură cu o vedere superbă.",
-            "en": "Ancient Celtic-Ligurian settlement with amazing views."
+            "en": "Ancient Celtic-Ligurian settlement with amazing views.",
+            "fr": "Ancien site celto-ligure offrant des vues remarquables."
           }
         },
         {
@@ -337,7 +358,8 @@
             "de": "Bastide de la Guillermy",
             "hu": "Bastide de la Guillermy",
             "ro": "Bastide de la Guillermy",
-            "en": "Bastide de la Guillermy"
+            "en": "Bastide de la Guillermy",
+            "fr": "Bastide de la Guillermy"
           },
           "coords": [
             5.361,
@@ -352,7 +374,8 @@
             "de": "Historisches Herrenhaus aus dem 17. Jahrhundert.",
             "hu": "Történelmi kúria a 17. századból.",
             "ro": "Conac istoric din secolul al XVII-lea.",
-            "en": "Historical manor house dating back to the 17th century."
+            "en": "Historical manor house dating back to the 17th century.",
+            "fr": "Demeure historique datant du XVIIe siècle."
           }
         },
         {
@@ -360,7 +383,8 @@
             "de": "Fondation Monticelli",
             "hu": "Monticelli Alapítvány",
             "ro": "Fundația Monticelli",
-            "en": "Fondation Monticelli"
+            "en": "Fondation Monticelli",
+            "fr": "Fondation Monticelli"
           },
           "coords": [
             5.301,
@@ -375,7 +399,8 @@
             "de": "Kunstgalerie in einem historischen Fort am Meer.",
             "hu": "Művészeti galéria egy tengerparti erődben.",
             "ro": "Galerie de artă într-un fort istoric de la malul mării.",
-            "en": "Art gallery housed in a historic seaside fort."
+            "en": "Art gallery housed in a historic seaside fort.",
+            "fr": "Galerie d’art installée dans un fort historique en bord de mer."
           }
         },
         {
@@ -383,7 +408,8 @@
             "de": "L'Estaque Panorama",
             "hu": "L'Estaque panoráma",
             "ro": "Panorama L'Estaque",
-            "en": "L'Estaque Panorama"
+            "en": "L'Estaque Panorama",
+            "fr": "Panorama de L’Estaque"
           },
           "coords": [
             5.311,
@@ -398,7 +424,8 @@
             "de": "Abschluss des Tages mit Blick auf das Mittelmeer.",
             "hu": "A nap zárása a Földközi-tenger látványával.",
             "ro": "Încheierea zilei cu vederea spre Marea Mediterană.",
-            "en": "End your day with a sweeping Mediterranean view."
+            "en": "End your day with a sweeping Mediterranean view.",
+            "fr": "Terminez la journée par une vue panoramique sur la Méditerranée."
           }
         }
       ],
@@ -406,7 +433,8 @@
         "de": "Diese Autotour verbindet das industrielle Erbe des Nordens mit spektakulären Aussichten. Wir starten bei einer traditionellen Seifenmanufaktur, erkunden antike Ruinen auf dem Hügel von Verduron und enden an der malerischen Küste von L'Estaque. Die Route bietet einen tiefen Einblick in die Vielfalt der nördlichen Stadtviertel.",
         "hu": "Ez az autós túra összeköti az északi rész ipari örökségét a látványos panorámákkal. Egy hagyományos szappanfőzdénél kezdünk, majd felfedezzük a Verduron-domb ókori romjait, végül pedig L'Estaque festői partjainál fejezzük be a napot. Kiváló betekintés Marseille kevésbé ismert északi negyedeibe.",
         "ro": "Acest tur cu mașina îmbină moștenirea industrială a nordului cu panorame spectaculoase. Începem la o fabrică tradițională de săpun, explorăm ruinele antice de pe dealul Verduron și terminăm pe coasta pitorească din L'Estaque. Traseul oferă o perspectivă asupra diversității cartierelor nordice.",
-        "en": "This driving tour connects the industrial heritage of the north with spectacular viewpoints. Start at a traditional soap factory, explore ancient ruins on Verduron hill, and finish at the scenic coast of L'Estaque. The route provides a deep dive into the diverse character of Marseille's northern districts."
+        "en": "This driving tour connects the industrial heritage of the north with spectacular viewpoints. Start at a traditional soap factory, explore ancient ruins on Verduron hill, and finish at the scenic coast of L'Estaque. The route provides a deep dive into the diverse character of Marseille's northern districts.",
+        "fr": "Cette visite en voiture relie le patrimoine industriel du nord à des points de vue spectaculaires. Commencez par une savonnerie traditionnelle, explorez les ruines anciennes sur la colline de Verduron et terminez sur la côte pittoresque de L’Estaque. L’itinéraire offre une immersion dans le caractère diversifié des quartiers nord de Marseille."
       },
       "gastro_picks": {
         "de": [
@@ -506,6 +534,10 @@
         "en": [
           "Parking in L'Estaque can be challenging on weekends.",
           "The soap factory often offers guided tours; call ahead to check."
+        ],
+        "fr": [
+          "Le stationnement à L’Estaque peut être difficile le week-end.",
+          "La savonnerie propose souvent des visites guidées ; appelez à l’avance pour vérifier."
         ]
       }
     },
@@ -522,7 +554,8 @@
             "de": "Hafen von L'Estaque",
             "hu": "L'Estaque kikötő",
             "ro": "Portul L'Estaque",
-            "en": "L'Estaque Harbor"
+            "en": "L'Estaque Harbor",
+            "fr": "Port de L’Estaque"
           },
           "coords": [
             5.315,
@@ -537,7 +570,8 @@
             "de": "Starten Sie Ihre Radtour am quirligen Hafenbecken.",
             "hu": "Kezdje a biciklis túrát a nyüzsgő kikötőnél.",
             "ro": "Începeți turul cu bicicleta la bazinul portuar animat.",
-            "en": "Start your bike tour at the bustling harbor basin."
+            "en": "Start your bike tour at the bustling harbor basin.",
+            "fr": "Commencez votre tour à vélo au bassin animé du port."
           }
         },
         {
@@ -545,7 +579,8 @@
             "de": "Fondation Monticelli",
             "hu": "Monticelli Alapítvány",
             "ro": "Fundația Monticelli",
-            "en": "Fondation Monticelli"
+            "en": "Fondation Monticelli",
+            "fr": "Fondation Monticelli"
           },
           "coords": [
             5.301,
@@ -560,7 +595,8 @@
             "de": "Ein leichter Anstieg führt zum Fort und zur Kunst.",
             "hu": "Enyhe emelkedő vezet fel az erődhöz és a művészethez.",
             "ro": "O urcare ușoară duce spre fort și spre artă.",
-            "en": "A gentle climb leads up to the fort and the art gallery."
+            "en": "A gentle climb leads up to the fort and the art gallery.",
+            "fr": "Une montée douce mène au fort et à la galerie d’art."
           }
         },
         {
@@ -568,7 +604,8 @@
             "de": "Strand von Corbières",
             "hu": "Corbières strand",
             "ro": "Plaja Corbières",
-            "en": "Strand von Corbières"
+            "en": "Strand von Corbières",
+            "fr": "Plage des Corbières"
           },
           "coords": [
             5.291,
@@ -583,7 +620,8 @@
             "de": "Erfrischen Sie sich im Meer nach der ersten Etappe.",
             "hu": "Frissüljön fel a tengerben az első szakasz után.",
             "ro": "Răcoriți-vă în mare după prima etapă.",
-            "en": "Refresh yourself in the sea after the first stage of the ride."
+            "en": "Refresh yourself in the sea after the first stage of the ride.",
+            "fr": "Rafraîchissez-vous dans la mer après la première étape de la balade."
           }
         },
         {
@@ -591,7 +629,8 @@
             "de": "Oppidum de Verduron",
             "hu": "Verduron oppidum",
             "ro": "Oppidum de Verduron",
-            "en": "Oppidum de Verduron"
+            "en": "Oppidum de Verduron",
+            "fr": "Oppidum de Verduron"
           },
           "coords": [
             5.342,
@@ -606,7 +645,8 @@
             "de": "Anspruchsvoller Anstieg, belohnt mit 360-Grad-Sicht.",
             "hu": "Kihívást jelentő emelkedő, 360 fokos panorámával jutalmaz.",
             "ro": "Urcare solicitantă, răsplătită cu o vedere de 360 de grade.",
-            "en": "Challenging climb rewarded with a 360-degree panorama."
+            "en": "Challenging climb rewarded with a 360-degree panorama.",
+            "fr": "Montée difficile récompensée par un panorama à 360 degrés."
           }
         },
         {
@@ -614,7 +654,8 @@
             "de": "L'Estaque Abfahrt",
             "hu": "L'Estaque gurulás",
             "ro": "Coborâre L'Estaque",
-            "en": "L'Estaque Downhill"
+            "en": "L'Estaque Downhill",
+            "fr": "Descente de L’Estaque"
           },
           "coords": [
             5.312,
@@ -629,7 +670,8 @@
             "de": "Genießen Sie die Abfahrt zurück zum Meer.",
             "hu": "Élvezze a gurulást vissza a tenger felé.",
             "ro": "Bucurați-vă de coborârea înapoi spre mare.",
-            "en": "Enjoy the downhill ride back towards the sea."
+            "en": "Enjoy the downhill ride back towards the sea.",
+            "fr": "Profitez de la descente vers la mer."
           }
         }
       ],
@@ -637,7 +679,8 @@
         "de": "Diese Radtour ist ideal für aktive Entdecker. Entlang der Küste von L'Estaque genießen wir die Meeresbrise, bevor wir den anspruchsvollen Anstieg zum Oppidum de Verduron wagen. Die Anstrengung wird durch den besten Blick über den Hafen von Marseille belohnt. Eine Mischung aus Strand, Kunst und Archäologie.",
         "hu": "Ez a kerékpáros túra ideális az aktív felfedezőknek. L'Estaque partja mentén élvezzük a tengeri szellőt, mielőtt nekivágnánk a Verduron oppidumhoz vezető emelkedőnek. Az erőfeszítést Marseille kikötőjének legjobb kilátása hálálja meg. Strand, művészet és régészet tökéletes keveréke.",
         "ro": "Acest tur cu bicicleta este ideal pentru exploratorii activi. De-a lungul coastei L'Estaque ne bucurăm de briza mării înainte de a urca spre Oppidum de Verduron. Efortul este răsplătit de cea mai bună vedere asupra portului Marsiliei. Un amestec de plajă, artă și arheologie.",
-        "en": "This bike tour is perfect for active explorers. Ride along the L'Estaque coast enjoying the sea breeze before tackling the steep climb to the Verduron Oppidum. Your effort will be rewarded with the finest view over Marseille's harbor. A mix of beach, art, and ancient archaeology."
+        "en": "This bike tour is perfect for active explorers. Ride along the L'Estaque coast enjoying the sea breeze before tackling the steep climb to the Verduron Oppidum. Your effort will be rewarded with the finest view over Marseille's harbor. A mix of beach, art, and ancient archaeology.",
+        "fr": "Cette balade à vélo est parfaite pour les explorateurs actifs. Roulez le long de la côte de L’Estaque en profitant de la brise marine avant d’affronter la montée raide vers l’oppidum de Verduron. Vos efforts seront récompensés par la plus belle vue sur le port de Marseille. Un mélange de plage, d’art et d’archéologie ancienne."
       },
       "gastro_picks": {
         "de": [
@@ -737,6 +780,10 @@
         "en": [
           "Check your brakes before the steep downhill sections.",
           "An e-bike is highly recommended for the northern hills."
+        ],
+        "fr": [
+          "Contrôlez vos freins avant les sections descendantes raides.",
+          "Un vélo électrique est fortement recommandé pour les collines du nord."
         ]
       }
     },
@@ -753,7 +800,8 @@
             "de": "Savonnerie Le Sérail",
             "hu": "Le Sérail szappanfőzde",
             "ro": "Săpunăria Le Sérail",
-            "en": "Savonnerie Le Sérail"
+            "en": "Savonnerie Le Sérail",
+            "fr": "Savonnerie Le Sérail"
           },
           "coords": [
             5.378,
@@ -768,7 +816,8 @@
             "de": "Mit dem Bus 31 ab Stadtzentrum erreichbar.",
             "hu": "A 31-es busszal érhető el a városközpontból.",
             "ro": "Accesibil cu autobuzul 31 din centrul orașului.",
-            "en": "Accessible via bus 31 from the city center."
+            "en": "Accessible via bus 31 from the city center.",
+            "fr": "Accessible via le bus 31 depuis le centre-ville."
           }
         },
         {
@@ -776,7 +825,8 @@
             "de": "Parc du Grand Séminaire",
             "hu": "Grand Séminaire park",
             "ro": "Parcul Grand Séminaire",
-            "en": "Parc du Grand Séminaire"
+            "en": "Parc du Grand Séminaire",
+            "fr": "Parc du Grand Séminaire"
           },
           "coords": [
             5.385,
@@ -791,7 +841,8 @@
             "de": "Ein kurzer Spaziergang von der Seifenfabrik.",
             "hu": "Rövid séta a szappanfőzdétől.",
             "ro": "O scurtă plimbare de la săpunărie.",
-            "en": "A short walk from the soap factory."
+            "en": "A short walk from the soap factory.",
+            "fr": "À courte distance à pied de la savonnerie."
           }
         },
         {
@@ -799,7 +850,8 @@
             "de": "Hafen von L'Estaque",
             "hu": "L'Estaque kikötő",
             "ro": "Portul L'Estaque",
-            "en": "L'Estaque Harbor"
+            "en": "L'Estaque Harbor",
+            "fr": "Port de L’Estaque"
           },
           "coords": [
             5.315,
@@ -814,7 +866,8 @@
             "de": "Nutzen Sie den Bus 35 oder das Navette Maritime (Sommer).",
             "hu": "Használja a 35-ös buszt vagy a hajójáratot (nyáron).",
             "ro": "Folosiți autobuzul 35 sau naveta maritimă (vara).",
-            "en": "Use bus 35 or the water taxi (Navette Maritime) in summer."
+            "en": "Use bus 35 or the water taxi (Navette Maritime) in summer.",
+            "fr": "Prenez le bus 35 ou la navette maritime en été."
           }
         },
         {
@@ -822,7 +875,8 @@
             "de": "Eglise de la Madrague",
             "hu": "Madrague templom",
             "ro": "Biserica La Madrague",
-            "en": "La Madrague Church"
+            "en": "La Madrague Church",
+            "fr": "Église La Madrague"
           },
           "coords": [
             5.308,
@@ -837,7 +891,8 @@
             "de": "Zu Fuß vom Hafenbecken aus erreichbar.",
             "hu": "Gyalogosan elérhető a kikötő mellől.",
             "ro": "Accesibilă pe jos din zona portului.",
-            "en": "Accessible on foot from the harbor area."
+            "en": "Accessible on foot from the harbor area.",
+            "fr": "Accessible à pied depuis le secteur du port."
           }
         },
         {
@@ -845,7 +900,8 @@
             "de": "Strand von Corbières",
             "hu": "Corbières strand",
             "ro": "Plaja Corbières",
-            "en": "Strand von Corbières"
+            "en": "Strand von Corbières",
+            "fr": "Plage des Corbières"
           },
           "coords": [
             5.291,
@@ -860,7 +916,8 @@
             "de": "Bus 35 bringt Sie fast direkt zum Strandeingang.",
             "hu": "A 35-ös busz szinte a strand bejáratáig visz.",
             "ro": "Autobuzul 35 vă duce aproape de intrarea pe plajă.",
-            "en": "Bus 35 drops you off very close to the beach entrance."
+            "en": "Bus 35 drops you off very close to the beach entrance.",
+            "fr": "Le bus 35 vous dépose très près de l’entrée de la plage."
           }
         }
       ],
@@ -868,7 +925,8 @@
         "de": "Erkunden Sie Marseille-Nord stressfrei mit Bus und Boot. Diese Route führt Sie von den industriellen Wurzeln der Seifenherstellung direkt an den berühmten Hafen von L'Estaque. Im Sommer ist die Anreise mit dem Boot (Navette Maritime) vom alten Hafen aus ein echtes Highlight. Genießen Sie den Tag zwischen Tradition und Meer.",
         "hu": "Fedezze fel Marseille északi részét stresszmentesen, busszal és hajóval. Ez az útvonal a szappankészítés ipari gyökereitől egyenesen L'Estaque híres kikötőjéig vezet. Nyáron a Navette Maritime hajójárat a régi kikötőből igazi élmény. Egy nap a hagyományok és a tenger jegyében.",
         "ro": "Explorați nordul Marsiliei fără stres, folosind autobuzul și barca. Acest traseu vă poartă de la rădăcinile industriale ale fabricării săpunului direct în celebrul port L'Estaque. Vara, călătoria cu barca (Navette Maritime) din Portul Vechi este o experiență deosebită. Bucurați-vă de o zi între tradiție și mare.",
-        "en": "Explore Marseille-Nord stress-free using bus and boat. This route takes you from the industrial roots of soap-making straight to the famous L'Estaque harbor. In summer, arriving by water taxi (Navette Maritime) from the Old Port is a true highlight. Enjoy a day balanced between local tradition and the sea."
+        "en": "Explore Marseille-Nord stress-free using bus and boat. This route takes you from the industrial roots of soap-making straight to the famous L'Estaque harbor. In summer, arriving by water taxi (Navette Maritime) from the Old Port is a true highlight. Enjoy a day balanced between local tradition and the sea.",
+        "fr": "Explorez Marseille-Nord sans stress en utilisant bus et bateau. Cet itinéraire vous emmène des racines industrielles de la savonnerie jusqu’au célèbre port de L’Estaque. En été, arriver en navette maritime depuis le Vieux-Port est un vrai plaisir. Profitez d’une journée entre tradition locale et mer."
       },
       "gastro_picks": {
         "de": [
@@ -968,6 +1026,10 @@
         "en": [
           "Download the RTM app for real-time transit schedules.",
           "The water taxi is very popular in summer; arrive early to get a spot."
+        ],
+        "fr": [
+          "Téléchargez l’application RTM pour les horaires de transport en temps réel.",
+          "La navette maritime est très prisée en été ; arrivez tôt pour avoir une place."
         ]
       }
     }

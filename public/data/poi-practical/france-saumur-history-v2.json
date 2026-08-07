@@ -3,55 +3,64 @@
     "de": "Château de Saumur, 49400 Saumur",
     "hu": "Château de Saumur, 49400 Saumur",
     "ro": "Château de Saumur, 49400 Saumur",
-    "en": "Château de Saumur, 49400 Saumur"
+    "en": "Château de Saumur, 49400 Saumur",
+    "fr": "Château de Saumur, 49400 Saumur"
   },
   "openingHours": {
     "de": "Di-So 10:00-18:00 (Nebensaison), Mo-So 10:00-19:00 (Juli/August)",
     "hu": "Ke-Va 10:00-18:00 (utószezon), Hé-Va 10:00-19:00 (július/augusztus)",
     "ro": "Mar-Dum 10:00-18:00 (extrasezon), Lun-Dum 10:00-19:00 (iulie/august)",
-    "en": "Tue-Sun 10:00-18:00 (off-season), Mon-Sun 10:00-19:00 (July/August)"
+    "en": "Tue-Sun 10:00-18:00 (off-season), Mon-Sun 10:00-19:00 (July/August)",
+    "fr": "Mar-Dim 10:00-18:00 (hors saison), Lun-Dim 10:00-19:00 (juillet/août)"
   },
   "entranceFee": {
     "de": "€8.50 Erwachsene, €6.50 ermäßigt",
     "hu": "8,50 € felnőtteknek, 6,50 € kedvezményes",
     "ro": "8,50 € adulți, 6,50 € redus",
-    "en": "€8.50 adults, €6.50 reduced"
+    "en": "€8.50 adults, €6.50 reduced",
+    "fr": "€8,50 adultes, €6,50 réduit"
   },
   "website": "https://www.chateau-saumur.fr",
   "publicTransport": {
     "de": "Bahnhof Saumur (SNCF), dann ca. 20 Min. Fußweg oder City-Bus",
     "hu": "Saumur vasútállomás (SNCF), majd kb. 20 perc séta vagy helyi busz",
     "ro": "Gara Saumur (SNCF), apoi aproximativ 20 min. de mers pe jos sau autobuz local",
-    "en": "Saumur train station (SNCF), then approx. 20 min walk or city bus"
+    "en": "Saumur train station (SNCF), then approx. 20 min walk or city bus",
+    "fr": "Gare de Saumur (SNCF), puis env. 20 min à pied ou en bus urbain"
   },
   "parking": {
     "de": "Kostenloser Parkplatz direkt am Schlosseingang vorhanden",
     "hu": "Ingyenes parkoló közvetlenül a kastély bejáratánál",
     "ro": "Parcare gratuită disponibilă chiar la intrarea în castel",
-    "en": "Free parking available directly at the castle entrance"
+    "en": "Free parking available directly at the castle entrance",
+    "fr": "Parking gratuit disponible directement à l'entrée du château"
   },
   "accessibility": {
     "de": "Eingeschränkt barrierefrei, steile Wege im Außenbereich und viele Treppen im Turm",
     "hu": "Korlátozottan akadálymentes, meredek kültéri utak és sok lépcső a toronyban",
     "ro": "Accesibilitate limitată, drumuri abrupte în exterior și multe trepte în turn",
-    "en": "Limited accessibility, steep outdoor paths and many stairs in the tower"
+    "en": "Limited accessibility, steep outdoor paths and many stairs in the tower",
+    "fr": "Accessibilité limitée, sentiers extérieurs raides et de nombreux escaliers dans la tour"
   },
   "photoRules": {
     "de": "Erlaubt, außer in den Ausstellungsbereichen des Museums für dekorative Künste",
     "hu": "Engedélyezett, kivéve az Iparművészeti Múzeum kiállítótereiben",
     "ro": "Permis, cu excepția zonelor de expoziție ale Muzeului de Arte Decorative",
-    "en": "Permitted, except in the exhibition areas of the Museum of Decorative Arts"
+    "en": "Permitted, except in the exhibition areas of the Museum of Decorative Arts",
+    "fr": "Autorisé, sauf dans les espaces d'exposition du Musée des Arts Décoratifs"
   },
   "bestTimeToVisit": {
     "de": "Später Nachmittag für den besten Blick auf die Loire bei Sonnenuntergang",
     "hu": "Késő délután a Loire-ra nyíló legszebb naplementés kilátásért",
     "ro": "După-amiaza târziu pentru cea mai bună vedere asupra Loarei la apus",
-    "en": "Late afternoon for the best view of the Loire at sunset"
+    "en": "Late afternoon for the best view of the Loire at sunset",
+    "fr": "Fin d'après-midi pour la meilleure vue sur la Loire au coucher du soleil"
   },
   "audioGuide": {
     "de": "Ja, per App oder Leihgerät verfügbar",
     "hu": "Igen, applikáción keresztül vagy kölcsönözhető eszközzel elérhető",
     "ro": "Da, disponibil prin aplicație sau dispozitiv închiriat",
-    "en": "Yes, available via app or rental device"
+    "en": "Yes, available via app or rental device",
+    "fr": "Oui, disponible via application ou appareil de location"
   }
 }

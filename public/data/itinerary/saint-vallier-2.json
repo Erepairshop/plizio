@@ -21,7 +21,8 @@
             "de": "Saint-Valery Church",
             "hu": "Saint-Valery Church",
             "ro": "Saint-Valery Church",
-            "en": "Saint-Valery Church"
+            "en": "Saint-Valery Church",
+            "fr": "Église Saint-Valery"
           },
           "coords": [
             4.815333,
@@ -36,7 +37,8 @@
             "de": "Bewundern Sie die Architektur dieser historischen Kirche im Zentrum und besuchen Sie sie früh, um das friedliche Morgenlicht durch die Buntglasfenster zu genießen.",
             "hu": "Csodálja meg a történelmi templom építészetét a belvárosban, és érkezzen korán, hogy élvezhesse az ólomüveg ablakokon átszűrődő békés reggeli fényeket.",
             "ro": "Admiră arhitectura acestei biserici istorice din centrul orașului și vino devreme pentru a te bucura de lumina dimineții care pătrunde prin vitralii.",
-            "en": "Admire the beautiful architecture of this historic church in the city center, and make sure to visit early to enjoy the peaceful morning light through its stained glass."
+            "en": "Admire the beautiful architecture of this historic church in the city center, and make sure to visit early to enjoy the peaceful morning light through its stained glass.",
+            "fr": "Admirez la belle architecture de cette église historique au centre-ville et veillez à la visiter tôt pour profiter de la lumière matinale paisible à travers ses vitraux."
           }
         },
         {
@@ -44,7 +46,8 @@
             "de": "Château de Saint-Vallier",
             "hu": "Château de Saint-Vallier",
             "ro": "Château de Saint-Vallier",
-            "en": "Château de Saint-Vallier"
+            "en": "Château de Saint-Vallier",
+            "fr": "Château de Saint-Vallier"
           },
           "coords": [
             4.817078,
@@ -59,7 +62,8 @@
             "de": "Erkunden Sie die faszinierende Geschichte und die Gärten dieses Schlosses, und tragen Sie bequeme Schuhe für die unebenen historischen Wege.",
             "hu": "Fedezze fel a lenyűgöző történelmet és a fenséges kastély elegáns kertjeit, de ne felejtsen el kényelmes cipőt húzni az egyenetlen történelmi ösvényekhez.",
             "ro": "Descoperă istoria fascinantă și grădinile elegante ale acestui castel maiestuos, purtând încălțăminte confortabilă pentru aleile istorice denivelate.",
-            "en": "Explore the fascinating history and elegant gardens of this majestic castle, and remember to wear comfortable shoes for walking along the uneven historic pathways."
+            "en": "Explore the fascinating history and elegant gardens of this majestic castle, and remember to wear comfortable shoes for walking along the uneven historic pathways.",
+            "fr": "Explorez l’histoire fascinante et les jardins élégants de ce château majestueux, et n’oubliez pas de porter des chaussures confortables pour marcher sur les chemins historiques inégaux."
           }
         },
         {
@@ -67,7 +71,8 @@
             "de": "Chapelle Notre-Dame",
             "hu": "Chapelle Notre-Dame",
             "ro": "Chapelle Notre-Dame",
-            "en": "Chapelle Notre-Dame"
+            "en": "Chapelle Notre-Dame",
+            "fr": "Chapelle Notre-Dame"
           },
           "coords": [
             4.843019,
@@ -82,7 +87,8 @@
             "de": "Genießen Sie einen Moment der Ruhe in dieser charmanten Kapelle, die den tiefen regionalen Glauben widerspiegelt, und bringen Sie eine kleine Spende für eine Kerze mit.",
             "hu": "Élvezze a nyugalmat ebben a bájos helyi kápolnában, amely a mély regionális hitet tükrözi, és hozzon magával aprót, ha gyertyát szeretne gyújtani.",
             "ro": "Bucură-te de un moment de liniște la această capelă fermecătoare care reflectă credința locală, aducând o mică donație dacă dorești să aprinzi o lumânare.",
-            "en": "Enjoy a moment of serenity at this charming local chapel that reflects deep regional faith, and bring a small donation if you wish to light a candle."
+            "en": "Enjoy a moment of serenity at this charming local chapel that reflects deep regional faith, and bring a small donation if you wish to light a candle.",
+            "fr": "Profitez d’un moment de sérénité dans cette charmante chapelle locale qui reflète une foi régionale profonde, et apportez une petite offrande si vous souhaitez allumer une bougie."
           }
         },
         {
@@ -90,7 +96,8 @@
             "de": "Chapelle Saint-Joseph de Vals",
             "hu": "Chapelle Saint-Joseph de Vals",
             "ro": "Chapelle Saint-Joseph de Vals",
-            "en": "Chapelle Saint-Joseph de Vals"
+            "en": "Chapelle Saint-Joseph de Vals",
+            "fr": "Chapelle Saint-Joseph de Vals"
           },
           "coords": [
             4.843607,
@@ -105,7 +112,8 @@
             "de": "Entdecken Sie den ländlichen Charme dieser kleinen, im Grünen gelegenen Kapelle und bringen Sie eine Kamera mit, um die malerische Umgebung festzuhalten.",
             "hu": "Fedezze fel ennek a zöldövezetben megbúvó kápolnának a vidéki báját, és hozzon magával fényképezőgépet a festői természeti környezet megörökítéséhez.",
             "ro": "Descoperă farmecul rural al acestei capele situate în mijlocul verdeții și nu uita aparatul foto pentru a surprinde împrejurimile naturale pitorești.",
-            "en": "Discover the exquisite rural charm of this dedicated chapel set amidst greenery, and bring a camera to capture the picturesque natural surroundings."
+            "en": "Discover the exquisite rural charm of this dedicated chapel set amidst greenery, and bring a camera to capture the picturesque natural surroundings.",
+            "fr": "Découvrez le charme rural exquis de cette chapelle dédiée située au milieu de la verdure, et prenez un appareil photo pour capturer les environs pittoresques."
           }
         },
         {
@@ -113,7 +121,8 @@
             "de": "Chapelle Sainte-Euphémie",
             "hu": "Chapelle Sainte-Euphémie",
             "ro": "Chapelle Sainte-Euphémie",
-            "en": "Chapelle Sainte-Euphémie"
+            "en": "Chapelle Sainte-Euphémie",
+            "fr": "Chapelle Sainte-Euphémie"
           },
           "coords": [
             4.847261,
@@ -128,7 +137,8 @@
             "de": "Genießen Sie den Panoramablick und die ruhige Atmosphäre dieser Hügelkapelle, die aufgrund der windigen Höhe am besten mit einer leichten Jacke besucht wird.",
             "hu": "Gyönyörködjön a domboldali kápolnát körülvevő panorámában és csendes légkörben, de hozzon magával egy könnyű kabátot a szeles magasság miatt.",
             "ro": "Admiră priveliștea panoramică și liniștea din jurul acestei capele pe deal, fiind recomandat să ai o jachetă subțire din cauza brizei de la altitudine.",
-            "en": "Take in the panoramic views and quiet atmosphere surrounding this hillside chapel, which is best visited with a light jacket due to the breezy elevation."
+            "en": "Take in the panoramic views and quiet atmosphere surrounding this hillside chapel, which is best visited with a light jacket due to the breezy elevation.",
+            "fr": "Appréciez la vue panoramique et l’atmosphère tranquille entourant cette chapelle collineuse, qu’il vaut mieux visiter avec une veste légère en raison de l’élévation venteuse."
           }
         }
       ],
@@ -136,7 +146,8 @@
         "de": "Beginnen Sie Ihren Morgen in der historischen Kirche Saint-Valery direkt im Herzen der Stadt. Tauchen Sie dann bei einer Erkundung des Château de Saint-Vallier in die mittelalterliche Vergangenheit ein. Nach dem Mittagessen machen Sie einen angenehmen Spaziergang nach Osten zur charmanten Chapelle Notre-Dame. Setzen Sie den Nachmittag mit einem Besuch der Chapelle Saint-Joseph de Vals fort. Beenden Sie den Tag an der Chapelle Sainte-Euphémie.",
         "hu": "Kezdje a reggelt a történelmi Saint-Valery templomál a város szívében. Ezután merüljön el a középkori múltban a Château de Saint-Vallier alapos felfedezésével. Ebéd után tegyen egy kellemes sétát kelet felé a bájos Chapelle Notre-Dame-hoz. Folytassa délutánját a közeli Chapelle Saint-Joseph de Vals meglátogatásával. Zárja a napot a Chapelle Sainte-Euphémie magaslati szellőinek élvezetével.",
         "ro": "Începeți dimineața la biserica istorică Saint-Valery, chiar în inima orașului. Apoi, aprofundați trecutul medieval cu o explorare a Château de Saint-Vallier. După prânz, faceți o plimbare plăcută spre est pentru a găsi fermecătoarea Chapelle Notre-Dame. Continuați după-amiaza vizitând Chapelle Saint-Joseph de Vals. Încheiați ziua bucurându-vă de atmosfera liniștită de la Chapelle Sainte-Euphémie.",
-        "en": "Start your morning at the historic Saint-Valery Church right in the heart of town. Then, delve into the medieval past with a thorough exploration of the Château de Saint-Vallier. After lunch, take a pleasant stroll eastwards to find the charming Chapelle Notre-Dame. Continue your afternoon by visiting the nearby Chapelle Saint-Joseph de Vals. Conclude your day enjoying the elevated breezes at Chapelle Sainte-Euphémie."
+        "en": "Start your morning at the historic Saint-Valery Church right in the heart of town. Then, delve into the medieval past with a thorough exploration of the Château de Saint-Vallier. After lunch, take a pleasant stroll eastwards to find the charming Chapelle Notre-Dame. Continue your afternoon by visiting the nearby Chapelle Saint-Joseph de Vals. Conclude your day enjoying the elevated breezes at Chapelle Sainte-Euphémie.",
+        "fr": "Commencez votre matinée à la historique Église Saint-Valery en plein cœur de la ville. Ensuite, plongez dans le passé médiéval avec une exploration approfondie du Château de Saint-Vallier. Après le déjeuner, faites une agréable promenade vers l’est pour trouver la charmante Chapelle Notre-Dame. Poursuivez l’après-midi en visitant la proche Chapelle Saint-Joseph de Vals. Concluez la journée en profitant des brises en altitude à la Chapelle Sainte-Euphémie."
       },
       "variants": {
         "rainy": {
@@ -144,7 +155,8 @@
             "de": "Der Morgen beginnt geschützt in der historischen Kirche, während der Regen gegen die Fenster trommelt. Mittags bietet das Schloss eine ideale trockene Zuflucht mit faszinierenden Einblicken. Am Nachmittag führen kurze Wege zwischen den Kapellen durch die erfrischende Luft, wobei die Vordächer Schutz bieten. Der Abend klingt gemütlich in den beleuchteten Gassen des Zentrums aus.",
             "hu": "A reggel a történelmi templom oltalmában indul, miközben az eső dobol az ablakokon. Délben a kastély kínál tökéletes száraz menedéket és izgalmas kiállításokat. Délután a kápolnák közötti rövid séták során az ereszek alatt pihenhetünk meg a friss levegőn. Az este barátságos hangulatban, a központ kivilágított, esőtől csillogó utcáin ér véget.",
             "ro": "Dimineața începe la adăpost în biserica istorică, în timp ce ploaia bate în ferestre. La prânz, castelul oferă un refugiu uscat ideal și expoziții fascinante. După-amiaza, plimbările scurte între capele permit momente de respiro sub streșini, în aerul curat. Seara se încheie într-o atmosferă primitoare pe străzile iluminate ale centrului, care strălucesc sub ploaie.",
-            "en": "The morning starts sheltered in the historic church while rain drums against the windows. At noon, the castle provides a perfect dry refuge with fascinating historical insights. In the afternoon, short walks between the chapels allow for fresh air, utilizing porches for cover. The evening ends cozily in the illuminated streets of the center, sparkling under the raindrops."
+            "en": "The morning starts sheltered in the historic church while rain drums against the windows. At noon, the castle provides a perfect dry refuge with fascinating historical insights. In the afternoon, short walks between the chapels allow for fresh air, utilizing porches for cover. The evening ends cozily in the illuminated streets of the center, sparkling under the raindrops.",
+            "fr": "La matinée commence à l’abri dans l’église historique tandis que la pluie tambourine contre les fenêtres. À midi, le château offre un refuge sec parfait avec des aperçus historiques fascinants. L’après-midi, de courtes marches entre les chapelles permettent de prendre l’air, utilisant les porches pour se couvrir. La soirée se termine au chaud dans les rues illuminées du centre, scintillant sous les gouttes de pluie."
           },
           "stops": [
             {
@@ -152,13 +164,15 @@
                 "de": "Saint-Valery Church",
                 "hu": "Saint-Valery Church",
                 "ro": "Saint-Valery Church",
-                "en": "Saint-Valery Church"
+                "en": "Saint-Valery Church",
+                "fr": "Église Saint-Valery"
               },
               "tip_5lang": {
                 "de": "Bewundern Sie die Architektur im trockenen Innenraum; achten Sie beim Verlassen auf die Steinstufen, die bei Nässe sehr rutschig sein können.",
                 "hu": "Csodálja meg az építészetet a száraz belső térben; távozáskor ügyeljen a kőlépcsőkre, amelyek nedvesen nagyon csúszósak lehetnek.",
                 "ro": "Admirați arhitectura în interiorul uscat; la plecare, aveți grijă la treptele de piatră care pot fi foarte alunecoase când sunt ude.",
-                "en": "Admire the architecture in the dry interior; when leaving, be careful on the stone steps which can be very slippery when wet."
+                "en": "Admire the architecture in the dry interior; when leaving, be careful on the stone steps which can be very slippery when wet.",
+                "fr": "Admirez l’architecture à l’intérieur, à l’abri ; en partant, soyez prudent sur les marches en pierre qui peuvent être très glissantes quand elles sont mouillées."
               }
             },
             {
@@ -166,13 +180,15 @@
                 "de": "Château de Saint-Vallier",
                 "hu": "Château de Saint-Vallier",
                 "ro": "Château de Saint-Vallier",
-                "en": "Château de Saint-Vallier"
+                "en": "Château de Saint-Vallier",
+                "fr": "Château de Saint-Vallier"
               },
               "tip_5lang": {
                 "de": "Nutzen Sie den ausgiebigen Rundgang durch die Säle, um dem Regen zu entkommen; die Innenhöfe bieten oft gute überdachte Fotospots.",
                 "hu": "Használja ki a termekben tett hosszú sétát az eső elől; a belső udvarok gyakran jó fedett helyszíneket kínálnak a fotózáshoz.",
                 "ro": "Profită de turul lung al sălilor pentru a scăpa de ploaie; curțile interioare oferă adesea locuri bune acoperite pentru fotografii.",
-                "en": "Take advantage of the long tour through the halls to escape the rain; the inner courtyards often offer good covered photo spots."
+                "en": "Take advantage of the long tour through the halls to escape the rain; the inner courtyards often offer good covered photo spots.",
+                "fr": "Profitez de la longue visite des salles pour échapper à la pluie ; les cours intérieures offrent souvent de bons points photo abrités."
               }
             },
             {
@@ -180,13 +196,15 @@
                 "de": "Chapelle Notre-Dame",
                 "hu": "Chapelle Notre-Dame",
                 "ro": "Chapelle Notre-Dame",
-                "en": "Chapelle Notre-Dame"
+                "en": "Chapelle Notre-Dame",
+                "fr": "Chapelle Notre-Dame"
               },
               "tip_5lang": {
                 "de": "Ein kurzer, aber lohnenswerter Stopp im Trockenen; bringen Sie einen stabilen Schirm mit, da der Wind am Hang oft kräftiger weht.",
                 "hu": "Rövid, de megéri megállni a szárazban; vigyen magával erős esernyőt, mert a domboldalon a szél gyakran erősebben fúj.",
                 "ro": "O oprire scurtă, dar merită, la adăpost; aduceți o umbrelă rezistentă, deoarece vântul pe deal este adesea mai puternic.",
-                "en": "A short but worthwhile stop in the dry; bring a sturdy umbrella as the wind on the hillside is often stronger."
+                "en": "A short but worthwhile stop in the dry; bring a sturdy umbrella as the wind on the hillside is often stronger.",
+                "fr": "Un arrêt court mais intéressant au sec ; apportez un parapluie solide car le vent sur la colline est souvent plus fort."
               }
             },
             {
@@ -194,13 +212,15 @@
                 "de": "Chapelle Saint-Joseph de Vals",
                 "hu": "Chapelle Saint-Joseph de Vals",
                 "ro": "Chapelle Saint-Joseph de Vals",
-                "en": "Chapelle Saint-Joseph de Vals"
+                "en": "Chapelle Saint-Joseph de Vals",
+                "fr": "Chapelle Saint-Joseph de Vals"
               },
               "tip_5lang": {
                 "de": "Genießen Sie die spirituelle Stille unter dem schützenden Dach; tragen Sie wasserfeste Schuhe für den leicht schlammigen Zugangsweg.",
                 "hu": "Élvezze a spirituális csendet a védelmet nyújtó tető alatt; viseljen vízálló cipőt a néhol sárosabb bekötőút miatt.",
                 "ro": "Bucurați-vă de liniștea spirituală sub acoperișul protector; purtați încălțăminte impermeabilă pentru drumul de acces ușor noroios.",
-                "en": "Enjoy the spiritual silence under the protective roof; wear waterproof shoes for the sometimes muddy access path."
+                "en": "Enjoy the spiritual silence under the protective roof; wear waterproof shoes for the sometimes muddy access path.",
+                "fr": "Savourez le silence spirituel sous le toit protecteur ; portez des chaussures imperméables pour le chemin d’accès parfois boueux."
               }
             },
             {
@@ -208,13 +228,15 @@
                 "de": "Chapelle Sainte-Euphémie",
                 "hu": "Chapelle Sainte-Euphémie",
                 "ro": "Chapelle Sainte-Euphémie",
-                "en": "Chapelle Sainte-Euphémie"
+                "en": "Chapelle Sainte-Euphémie",
+                "fr": "Chapelle Sainte-Euphémie"
               },
               "tip_5lang": {
                 "de": "Diese Kapelle ist ein friedlicher Abschluss der Tour im Trockenen; achten Sie auf den Pfützen auf dem Rückweg zum Stadtzentrum.",
                 "hu": "Ez a kápolna a túra békés befejezése száraz helyen; ügyeljen a tócsákra a városközpontba vezető visszaúton.",
                 "ro": "Această chapelă este un final liniștit al turului la uscat; aveți grijă la bălți pe drumul de întoarcere spre centrul orașului.",
-                "en": "This chapel is a peaceful end to the tour in the dry; watch out for puddles on the way back to the town center."
+                "en": "This chapel is a peaceful end to the tour in the dry; watch out for puddles on the way back to the town center.",
+                "fr": "Cette chapelle est une fin paisible à la visite à l’abri ; faites attention aux flaques en revenant au centre-ville."
               }
             }
           ]
@@ -224,7 +246,8 @@
             "de": "Der Wintermorgen beginnt frisch an der Kirche, wo die klare Luft die Stille betont. Mittags wärmen Sie sich in den prachtvollen Hallen des Schlosses auf. Am Nachmittag bieten die Kapellen am Hang wunderbare Ausblicke auf das Rhonetal im Winterlicht. Da die Sonne gegen 17:00 Uhr untergeht, kehren Sie frühzeitig für einen warmen Abendtee ins Zentrum zurück.",
             "hu": "A téli reggel frissen indul a templomnál, ahol a tiszta levegő kiemeli a csendet. Délben a kastély díszes termeiben melegedhetünk fel. Délután a domboldali kápolnák csodás kilátást nyújtanak a téli fényben úszó Rhône-völgyre. Mivel a nap 17:00 körül nyugszik, érdemes korán visszatérni a központba egy meleg esti teára.",
             "ro": "Dimineața de iarnă începe proaspăt la biserică, unde aerul curat accentuează liniștea. La prânz, vă puteți încălzi în sălile somptuoase ale castelului. După-amiaza, capelele de pe deal oferă priveliști superbe asupra văii Rhône în lumina iernii. Deoarece soarele apune în jurul orei 17:00, reveniți devreme în centru pentru un ceai cald.",
-            "en": "The winter morning starts fresh at the church, where the clear air emphasizes the silence. At noon, warm up in the magnificent halls of the castle. In the afternoon, the hillside chapels offer wonderful views of the Rhone valley in the winter light. Since the sun sets around 17:00, return early to the center for a warm evening tea."
+            "en": "The winter morning starts fresh at the church, where the clear air emphasizes the silence. At noon, warm up in the magnificent halls of the castle. In the afternoon, the hillside chapels offer wonderful views of the Rhone valley in the winter light. Since the sun sets around 17:00, return early to the center for a warm evening tea.",
+            "fr": "La matinée hivernale commence fraîche à l’église, où l’air pur accentue le silence. À midi, réchauffez-vous dans les magnifiques salles du château. L’après-midi, les chapelles de la colline offrent de superbes vues sur la vallée du Rhône sous la lumière hivernale. Comme le soleil se couche vers 17:00, retournez tôt au centre pour une tasse de thé chaude en soirée."
           },
           "stops": [
             {
@@ -232,13 +255,15 @@
                 "de": "Saint-Valery Church",
                 "hu": "Saint-Valery Church",
                 "ro": "Saint-Valery Church",
-                "en": "Saint-Valery Church"
+                "en": "Saint-Valery Church",
+                "fr": "Église Saint-Valery"
               },
               "tip_5lang": {
                 "de": "Die dicken Mauern halten die Kälte gut ab; tragen Sie dennoch mehrere Schichten Kleidung für den frostigen Weg zur Kirche.",
                 "hu": "A vastag falak jól kint tartják a hideget; mégis viseljen réteges öltözetet a templomhoz vezető fagyos úton.",
                 "ro": "Zidurile groase țin bine frigul afară; totuși, purtați haine în straturi pentru drumul înghețat până la biserică.",
-                "en": "The thick walls keep the cold out well; still, wear layered clothing for the frosty walk to the church."
+                "en": "The thick walls keep the cold out well; still, wear layered clothing for the frosty walk to the church.",
+                "fr": "Les murs épais repoussent bien le froid ; portez toutefois des vêtements en couches pour la marche glaciale jusqu’à l’église."
               }
             },
             {
@@ -246,13 +271,15 @@
                 "de": "Château de Saint-Vallier",
                 "hu": "Château de Saint-Vallier",
                 "ro": "Château de Saint-Vallier",
-                "en": "Château de Saint-Vallier"
+                "en": "Château de Saint-Vallier",
+                "fr": "Château de Saint-Vallier"
               },
               "tip_5lang": {
                 "de": "Ein perfekter Ort, um der Kälte für längere Zeit zu entfliehen; genießen Sie die historische Atmosphäre in den geschützten Innenräumen.",
                 "hu": "Tökéletes hely, hogy hosszabb időre elmeneküljünk a hideg elől; élvezze a történelmi atmoszférát a védett belső terekben.",
                 "ro": "Un loc perfect pentru a scăpa de frig pentru o perioadă mai lungă; bucurați-vă de atmosfera istorică în spațiile interioare protejate.",
-                "en": "A perfect place to escape the cold for a longer period; enjoy the historical atmosphere in the protected interior spaces."
+                "en": "A perfect place to escape the cold for a longer period; enjoy the historical atmosphere in the protected interior spaces.",
+                "fr": "Un endroit idéal pour échapper au froid plus longtemps ; profitez de l’atmosphère historique dans les espaces intérieurs protégés."
               }
             },
             {
@@ -260,13 +287,15 @@
                 "de": "Chapelle Notre-Dame",
                 "hu": "Chapelle Notre-Dame",
                 "ro": "Chapelle Notre-Dame",
-                "en": "Chapelle Notre-Dame"
+                "en": "Chapelle Notre-Dame",
+                "fr": "Chapelle Notre-Dame"
               },
               "tip_5lang": {
                 "de": "Vom Hang aus hat man eine klare Fernsicht über die verschneite Landschaft; achten Sie auf eisige Stellen auf dem steilen Pfad.",
                 "hu": "A domboldalról tiszta kilátás nyílik a havas tájra; ügyeljen a jeges foltokra a meredekebb ösvényen.",
                 "ro": "De pe deal aveți o vedere clară asupra peisajului înzăpezit; aveți grijă la porțiunile înghețate de pe poteca abruptă.",
-                "en": "From the hillside, there is a clear view over the snowy landscape; watch out for icy patches on the steep path."
+                "en": "From the hillside, there is a clear view over the snowy landscape; watch out for icy patches on the steep path.",
+                "fr": "Depuis la colline, la vue sur le paysage enneigé est dégagée ; surveillez les plaques de verglas sur le chemin raide."
               }
             },
             {
@@ -274,13 +303,15 @@
                 "de": "Chapelle Saint-Joseph de Vals",
                 "hu": "Chapelle Saint-Joseph de Vals",
                 "ro": "Chapelle Saint-Joseph de Vals",
-                "en": "Chapelle Saint-Joseph de Vals"
+                "en": "Chapelle Saint-Joseph de Vals",
+                "fr": "Chapelle Saint-Joseph de Vals"
               },
               "tip_5lang": {
                 "de": "Die winterliche Ruhe hier oben ist einzigartig; planen Sie den Besuch vor 16:30 Uhr, um das restliche Tageslicht optimal zu nutzen.",
                 "hu": "Az itteni téli nyugalom egyedülálló; tervezze a látogatást 16:30 előttre, hogy a maradék nappali fényt maximálisan kihasználja.",
                 "ro": "Liniștea de iarnă de aici este unică; planificați vizita înainte de ora 16:30 pentru a profita la maximum de lumina zilei.",
-                "en": "The winter tranquility here is unique; plan your visit before 16:30 to make the most of the remaining daylight."
+                "en": "The winter tranquility here is unique; plan your visit before 16:30 to make the most of the remaining daylight.",
+                "fr": "La tranquillité hivernale ici est unique ; planifiez votre visite avant 16:30 pour profiter au maximum de la lumière du jour restante."
               }
             },
             {
@@ -288,13 +319,15 @@
                 "de": "Chapelle Sainte-Euphémie",
                 "hu": "Chapelle Sainte-Euphémie",
                 "ro": "Chapelle Sainte-Euphémie",
-                "en": "Chapelle Sainte-Euphémie"
+                "en": "Chapelle Sainte-Euphémie",
+                "fr": "Chapelle Sainte-Euphémie"
               },
               "tip_5lang": {
                 "de": "Beenden Sie Ihren Spaziergang, bevor die Dämmerung einsetzt; Handschuhe und eine warme Mütze sind für den Rückweg unerlässlich.",
                 "hu": "Fejezze be a sétát, mielőtt beáll a szürkület; a kesztyű és a meleg sapka elengedhetetlen a visszaúton.",
                 "ro": "Încheiați plimbarea înainte de lăsarea serii; mănușile și o căciulă călduroasă sunt esențiale pentru drumul de întoarcere.",
-                "en": "Finish your walk before dusk sets in; gloves and a warm hat are essential for the walk back."
+                "en": "Finish your walk before dusk sets in; gloves and a warm hat are essential for the walk back.",
+                "fr": "Terminez votre promenade avant la tombée du crépuscule ; gants et bonnet chaud sont essentiels pour le retour."
               }
             }
           ]
@@ -314,7 +347,8 @@
             "de": "Saint-Valery Church",
             "hu": "Saint-Valery Church",
             "ro": "Saint-Valery Church",
-            "en": "Saint-Valery Church"
+            "en": "Saint-Valery Church",
+            "fr": "Église Saint-Valery"
           },
           "coords": [
             4.815333,
@@ -329,7 +363,8 @@
             "de": "Bewundern Sie die Architektur dieser historischen Kirche im Zentrum und besuchen Sie sie früh, um das friedliche Morgenlicht durch die Buntglasfenster zu genießen.",
             "hu": "Csodálja meg a történelmi templom építészetét a belvárosban, és érkezzen korán, hogy élvezhesse az ólomüveg ablakokon átszűrődő békés reggeli fényeket.",
             "ro": "Admiră arhitectura acestei biserici istorice din centrul orașului și vino devreme pentru a te bucura de lumina dimineții care pătrunde prin vitralii.",
-            "en": "Admire the beautiful architecture of this historic church in the city center, and make sure to visit early to enjoy the peaceful morning light through its stained glass."
+            "en": "Admire the beautiful architecture of this historic church in the city center, and make sure to visit early to enjoy the peaceful morning light through its stained glass.",
+            "fr": "Admirez la belle architecture de cette église historique au centre-ville et veillez à la visiter tôt pour profiter de la lumière matinale paisible à travers ses vitraux."
           }
         },
         {
@@ -337,7 +372,8 @@
             "de": "Château de Saint-Vallier",
             "hu": "Château de Saint-Vallier",
             "ro": "Château de Saint-Vallier",
-            "en": "Château de Saint-Vallier"
+            "en": "Château de Saint-Vallier",
+            "fr": "Château de Saint-Vallier"
           },
           "coords": [
             4.817078,
@@ -352,7 +388,8 @@
             "de": "Erkunden Sie die faszinierende Geschichte und die Gärten dieses Schlosses, und tragen Sie bequeme Schuhe für die unebenen historischen Wege.",
             "hu": "Fedezze fel a lenyűgöző történelmet és a fenséges kastély elegáns kertjeit, de ne felejtsen el kényelmes cipőt húzni az egyenetlen történelmi ösvényekhez.",
             "ro": "Descoperă istoria fascinantă și grădinile elegante ale acestui castel maiestuos, purtând încălțăminte confortabilă pentru aleile istorice denivelate.",
-            "en": "Explore the fascinating history and elegant gardens of this majestic castle, and remember to wear comfortable shoes for walking along the uneven historic pathways."
+            "en": "Explore the fascinating history and elegant gardens of this majestic castle, and remember to wear comfortable shoes for walking along the uneven historic pathways.",
+            "fr": "Explorez l’histoire fascinante et les jardins élégants de ce château majestueux, et n’oubliez pas de porter des chaussures confortables pour marcher sur les chemins historiques inégaux."
           }
         },
         {
@@ -360,7 +397,8 @@
             "de": "Église de la Nativité-de-la-Vierge",
             "hu": "Église de la Nativité-de-la-Vierge",
             "ro": "Église de la Nativité-de-la-Vierge",
-            "en": "Église de la Nativité-de-la-Vierge"
+            "en": "Église de la Nativité-de-la-Vierge",
+            "fr": "Église de la Nativité-de-la-Vierge"
           },
           "coords": [
             4.798313,
@@ -375,7 +413,8 @@
             "de": "Besuchen Sie diese historische Pfarrkirche, um ihr wunderschönes Altarbild zu sehen, und planen Sie den Stopp vor dem Mittag, da das Innere später dunkel wird.",
             "hu": "Látogasson el ebbe a történelmi plébániatemplomba a gyönyörű oltárképért, és tervezze kora délutánra az érkezést, mivel a belső tér később elég sötét lehet.",
             "ro": "Vizitează această biserică parohială istorică pentru frumosul său altar și planifică oprirea înainte de prânz, deoarece interiorul devine întunecat după-amiaza.",
-            "en": "Visit this historic parish church to see its beautiful altarpiece, and plan your stop before noon as the interior can get quite dark in the late afternoon."
+            "en": "Visit this historic parish church to see its beautiful altarpiece, and plan your stop before noon as the interior can get quite dark in the late afternoon.",
+            "fr": "Visitez cette église paroissiale historique pour voir son beau retable, et prévoyez votre arrêt avant midi car l’intérieur peut devenir assez sombre en fin d’après-midi."
           }
         },
         {
@@ -383,7 +422,8 @@
             "de": "Lac de Vert",
             "hu": "Lac de Vert",
             "ro": "Lac de Vert",
-            "en": "Lac de Vert"
+            "en": "Lac de Vert",
+            "fr": "Lac de Vert"
           },
           "coords": [
             4.743793,
@@ -398,7 +438,8 @@
             "de": "Spazieren Sie am ruhigen Wasser dieses natürlichen Sees entlang, der eine vielfältige Vogelwelt beherbergt, und packen Sie ein leichtes Picknick für die Ufer ein.",
             "hu": "Sétáljon egyet a változatos madárvilágnak otthont adó, gyönyörű természetes tó nyugodt vizénél, és csomagoljon egy könnyű pikniket a gondozott partokra.",
             "ro": "Plimbă-te pe malurile liniștite ale acestui lac natural frumos, gazdă a numeroase păsări, și adu un mic picnic pentru a te relaxa în natură.",
-            "en": "Stroll around the tranquil waters of this beautiful natural lake that hosts diverse birdlife, and pack a light picnic to enjoy on its well-maintained shores."
+            "en": "Stroll around the tranquil waters of this beautiful natural lake that hosts diverse birdlife, and pack a light picnic to enjoy on its well-maintained shores.",
+            "fr": "Promenez-vous autour des eaux paisibles de ce beau lac naturel qui accueille une avifaune variée, et emportez un pique-nique léger pour en profiter sur ses rives bien entretenues."
           }
         },
         {
@@ -406,7 +447,8 @@
             "de": "Chapelle Saint-Jean-Saint-Paul",
             "hu": "Chapelle Saint-Jean-Saint-Paul",
             "ro": "Chapelle Saint-Jean-Saint-Paul",
-            "en": "Chapelle Saint-Jean-Saint-Paul"
+            "en": "Chapelle Saint-Jean-Saint-Paul",
+            "fr": "Chapelle Saint-Jean-Saint-Paul"
           },
           "coords": [
             4.802732,
@@ -421,7 +463,8 @@
             "de": "Entdecken Sie die rustikale Geschichte dieses in die Landschaft eingebetteten Heiligtums und achten Sie auf lokale Aushänge für kleine Gemeindeveranstaltungen.",
             "hu": "Tárja fel a tájba simuló, kettős szentély rusztikus történelmét, és figyelje a helyi hirdetményeket, mivel időnként meghitt közösségi eseményeknek ad otthont.",
             "ro": "Descoperă istoria rustică a acestui sanctuar dublu cuibărit în peisaj și verifică avizele locale, deoarece găzduiește uneori evenimente comunitare intime.",
-            "en": "Uncover the rustic history of this twin-dedicated sanctuary nestled in the landscape, and check local notices as it occasionally hosts intimate community events."
+            "en": "Uncover the rustic history of this twin-dedicated sanctuary nestled in the landscape, and check local notices as it occasionally hosts intimate community events.",
+            "fr": "Découvrez l’histoire rustique de ce sanctuaire dédié aux deux saints niché dans le paysage, et consultez les avis locaux car il accueille parfois des événements communautaires intimes."
           }
         }
       ],
@@ -429,7 +472,8 @@
         "de": "Beginnen Sie Ihren Radtag an der zentralen Kirche Saint-Valery, bevor Sie das große Château de Saint-Vallier erkunden. Radeln Sie nach Nordwesten zur Église der Nativité-de-la-Vierge. Genießen Sie eine schöne, längere Fahrt zum ruhigen Lac de Vert für eine naturnahe Mittagspause. Beenden Sie Ihre malerische Runde, indem Sie nach Süden zur rustikalen Chapelle Saint-Jean-Saint-Paul fahren.",
         "hu": "Kezdje kerékpáros napját a központi Saint-Valery templomnál, mielőtt felfedezné a nagyszerű Château de Saint-Valliert. Kerekezzen északnyugat felé, hogy megcsodálja a Nativité-de-la-Vierge templomot. Élvezze a hosszabb, gyönyörű utat a nyugodt Lac de Vert-hez egy természetközeli ebédszünethez. Zárja festői túráját dél felé tartva a rusztikus Chapelle Saint-Jean-Saint-Paul felé.",
         "ro": "Începeți ziua de ciclism la biserica centrală Saint-Valery înainte de a explora mărețul Château de Saint-Vallier. Pedați spre nord-vest pentru a admira Église de la Nativité-de-la-Vierge. Bucurați-vă de o plimbare mai lungă până la liniștitul Lac de Vert pentru o pauză de prânz în natură. Încheiați circuitul pitoresc îndreptându-vă spre sud, spre rustica Chapelle Saint-Jean-Saint-Paul.",
-        "en": "Kick off your cycling day at the central Saint-Valery Church before exploring the grand Château de Saint-Vallier. Pedal northwest to admire the Église de la Nativité-de-la-Vierge and its rich heritage. Enjoy a beautiful, longer ride out to the tranquil Lac de Vert for a nature-filled midday break. Finish your scenic circuit by heading south to the rustic Chapelle Saint-Jean-Saint-Paul as the afternoon light wanes."
+        "en": "Kick off your cycling day at the central Saint-Valery Church before exploring the grand Château de Saint-Vallier. Pedal northwest to admire the Église de la Nativité-de-la-Vierge and its rich heritage. Enjoy a beautiful, longer ride out to the tranquil Lac de Vert for a nature-filled midday break. Finish your scenic circuit by heading south to the rustic Chapelle Saint-Jean-Saint-Paul as the afternoon light wanes.",
+        "fr": "Commencez votre journée cycliste à la centrale Église Saint-Valery avant d’explorer le grand Château de Saint-Vallier. Pédalez vers le nord-ouest pour admirer l’Église de la Nativité-de-la-Vierge et son riche patrimoine. Profitez d’une belle et plus longue sortie jusqu’au tranquille Lac de Vert pour une pause nature à midi. Terminez votre circuit pittoresque en vous dirigeant vers le sud jusqu’à la rustique Chapelle Saint-Jean-Saint-Paul alors que la lumière de l’après-midi faiblit."
       },
       "variants": {
         "rainy": {
@@ -437,7 +481,8 @@
             "de": "Ein regnerischer Radtag erfordert gute Ausrüstung, bietet aber leere Wege. Starten Sie morgens geschützt an der Kirche. Mittags bietet das Schloss eine lange Pause zum Trocknen. Die Fahrt zum See am Nachmittag führt durch mystische Nebelschwaden. Beenden Sie die Tour vorsichtig bei dämmrigem Licht und nassen Straßen.",
             "hu": "Az esős kerékpáros nap jó felszerelést igényel, de cserébe üres utakat kínál. Kezdjen reggel a templom védelmében. Délben a kastély hosszú szünetet biztosít a megszáradáshoz. A délutáni tekerés a tóhoz ködös, misztikus tájakon át vezet. Fejezze be a túrát óvatosan a szürkületben és a nedves utakon.",
             "ro": "O zi ploioasă cu bicicleta necesită echipament bun, dar oferă drumuri libere. Începeți dimineața la adăpostul bisericii. La prânz, castelul oferă o pauză lungă pentru uscare. Traseul spre lac de după-amiază trece prin peisaje cețoase și mistice. Încheiați turul cu atenție în lumină slabă și pe drumuri ude.",
-            "en": "A rainy cycling day requires good gear but offers empty paths. Start sheltered at the church in the morning. At noon, the castle provides a long break to dry off. The afternoon ride to the lake leads through mystical misty landscapes. Finish the tour carefully in the dim light and on wet roads."
+            "en": "A rainy cycling day requires good gear but offers empty paths. Start sheltered at the church in the morning. At noon, the castle provides a long break to dry off. The afternoon ride to the lake leads through mystical misty landscapes. Finish the tour carefully in the dim light and on wet roads.",
+            "fr": "Une journée de vélo pluvieuse nécessite du bon équipement mais offre des chemins déserts. Débutez à l’abri à l’église le matin. À midi, le château offre une longue pause pour se sécher. La balade de l’après-midi vers le lac traverse des paysages brumeux et mystiques. Terminez prudemment la visite dans la lumière faible et sur des routes mouillées."
           },
           "stops": [
             {
@@ -445,13 +490,15 @@
                 "de": "Saint-Valery Church",
                 "hu": "Saint-Valery Church",
                 "ro": "Saint-Valery Church",
-                "en": "Saint-Valery Church"
+                "en": "Saint-Valery Church",
+                "fr": "Église Saint-Valery"
               },
               "tip_5lang": {
                 "de": "Parken Sie Ihr Rad unter dem Dachvorsprung; nutzen Sie die Zeit drinnen, um Ihre Regenbekleidung für die Weiterfahrt zu richten.",
                 "hu": "Parkolja a kerékpárt az eresz alá; használja ki a bent töltött időt, hogy megigazítsa esőruházatát a továbbhaladáshoz.",
                 "ro": "Parcați bicicleta sub streșină; profitați de timpul petrecut în interior pentru a vă ajusta hainele de ploaie pentru drum.",
-                "en": "Park your bike under the eaves; use the time inside to adjust your rain gear for the onward journey."
+                "en": "Park your bike under the eaves; use the time inside to adjust your rain gear for the onward journey.",
+                "fr": "Garez votre vélo sous les auvents ; utilisez le temps à l’intérieur pour ajuster votre équipement de pluie pour la suite du parcours."
               }
             },
             {
@@ -459,13 +506,15 @@
                 "de": "Château de Saint-Vallier",
                 "hu": "Château de Saint-Vallier",
                 "ro": "Château de Saint-Vallier",
-                "en": "Château de Saint-Vallier"
+                "en": "Château de Saint-Vallier",
+                "fr": "Château de Saint-Vallier"
               },
               "tip_5lang": {
                 "de": "Ein idealer Ort für eine längere Pause; prüfen Sie vor der Weiterfahrt den Reifendruck, da nasser Asphalt weniger Grip bietet.",
                 "hu": "Ideális hely egy hosszabb szünethez; továbbindulás előtt ellenőrizze a keréknyomást, mert a vizes aszfalt kevésbé tapad.",
                 "ro": "Un loc ideal pentru o pauză lungă; înainte de a pleca, verificați presiunea în pneuri, deoarece asfaltul ud are mai puțină aderență.",
-                "en": "An ideal place for a longer break; check your tire pressure before leaving, as wet asphalt offers less grip."
+                "en": "An ideal place for a longer break; check your tire pressure before leaving, as wet asphalt offers less grip.",
+                "fr": "Un lieu idéal pour une pause plus longue ; vérifiez la pression de vos pneus avant de repartir, car l’asphalte mouillé offre moins d’adhérence."
               }
             },
             {
@@ -473,13 +522,15 @@
                 "de": "Église de la Nativité-de-la-Vierge",
                 "hu": "Église de la Nativité-de-la-Vierge",
                 "ro": "Église de la Nativité-de-la-Vierge",
-                "en": "Église de la Nativité-de-la-Vierge"
+                "en": "Église de la Nativité-de-la-Vierge",
+                "fr": "Église de la Nativité-de-la-Vierge"
               },
               "tip_5lang": {
                 "de": "Diese Kirche bietet eine ruhige, trockene Raststation; achten Sie beim Radfahren auf dem Kirchplatz auf rutschiges Kopfsteinpflaster.",
                 "hu": "Ez a templom csendes, száraz pihenőhelyet kínál; a templomtéren kerékpározva ügyeljen a csúszós macskakövekre.",
                 "ro": "Această biserică oferă un loc de odihnă liniștit și uscat; aveți grijă la pavajul alunecos când pedalați în piața bisericii.",
-                "en": "This church offers a quiet, dry rest stop; watch out for slippery cobblestones while cycling in the church square."
+                "en": "This church offers a quiet, dry rest stop; watch out for slippery cobblestones while cycling in the church square.",
+                "fr": "Cette église offre un arrêt calme et sec ; attention aux pavés glissants en arrivant à vélo sur la place."
               }
             },
             {
@@ -487,13 +538,15 @@
                 "de": "Lac de Vert",
                 "hu": "Lac de Vert",
                 "ro": "Lac de Vert",
-                "en": "Lac de Vert"
+                "en": "Lac de Vert",
+                "fr": "Lac de Vert"
               },
               "tip_5lang": {
                 "de": "Der See wirkt im Regen besonders atmosphärisch; meiden Sie unbefestigte Uferwege, die bei Nässe tiefgründig und matschig werden.",
                 "hu": "A tó esőben különösen hangulatos; kerülje a nem aszfaltozott parti utakat, amelyek nedvesen mélyek és sárosak lesznek.",
                 "ro": "Lacul este deosebit de atmosferic în ploaie; evitați potecile de pe mal neasfaltate, care devin noroioase când sunt ude.",
-                "en": "The lake is particularly atmospheric in the rain; avoid unpaved shore paths that become deep and muddy when wet."
+                "en": "The lake is particularly atmospheric in the rain; avoid unpaved shore paths that become deep and muddy when wet.",
+                "fr": "Le lac est particulièrement atmosphérique sous la pluie ; évitez les chemins de rive non revêtus qui deviennent profonds et boueux quand ils sont mouillés."
               }
             },
             {
@@ -501,13 +554,15 @@
                 "de": "Chapelle Saint-Jean-Saint-Paul",
                 "hu": "Chapelle Saint-Jean-Saint-Paul",
                 "ro": "Chapelle Saint-Jean-Saint-Paul",
-                "en": "Chapelle Saint-Jean-Saint-Paul"
+                "en": "Chapelle Saint-Jean-Saint-Paul",
+                "fr": "Chapelle Saint-Jean-Saint-Paul"
               },
               "tip_5lang": {
                 "de": "Ein letzter Schutz vor der Rückfahrt; kontrollieren Sie Ihre Bremsen, da der Bremsweg auf nasser Fahrbahn deutlich länger ist.",
                 "hu": "Utolsó menedék a visszaút előtt; ellenőrizze a fékeket, mert a fékút vizes úton jelentősen meghosszabbodik.",
                 "ro": "Ultimul refugiu înainte de întoarcere; verificați frânele, deoarece distanța de frânare este mult mai mare pe drum ud.",
-                "en": "One last shelter before heading back; check your brakes, as the braking distance is significantly longer on wet roads."
+                "en": "One last shelter before heading back; check your brakes, as the braking distance is significantly longer on wet roads.",
+                "fr": "Un dernier abri avant le retour ; vérifiez vos freins, car la distance de freinage est nettement plus longue sur routes mouillées."
               }
             }
           ]
@@ -517,7 +572,8 @@
             "de": "Radfahren im Winter in Saint-Vallier erfordert warme Handschuhe und Motivation. Der Morgen an der Kirche ist frostig und klar. Mittags bietet das Schloss die nötige Wärme zum Auftauen. Die Nachmittagsfahrt zum See belohnt mit glitzernden Frostlandschaften. Da es um 17:00 Uhr dunkel wird, planen Sie die Rückfahrt bei Tageslicht ein.",
             "hu": "A téli kerékpározáshoz Saint-Vallier-ben meleg kesztyű és motiváció kell. A reggel a templomnál fagyos és tiszta. Délben a kastély biztosítja a felmelegedéshez szükséges hőt. A délutáni tekerés a tóhoz csillogó, zúzmarás tájjal jutalmaz. Mivel 17:00-kor sötétedik, a visszaútra még nappali fényben induljon el.",
             "ro": "Ciclismul de iarnă în Saint-Vallier necesită mănuși calde și motivație. Dimineața la biserică este geroasă și senină. La prânz, castelul oferă căldura necesară pentru dezghețare. Traseul de după-amiază spre lac vă răsplătește cu peisaje înghețate strălucitoare. Deoarece se întunecă la 17:00, planificați întoarcerea pe lumină.",
-            "en": "Winter cycling in Saint-Vallier requires warm gloves and motivation. The morning at the church is frosty and clear. At noon, the castle provides the necessary warmth to thaw out. The afternoon ride to the lake rewards you with glittering frost landscapes. Since it gets dark at 17:00, plan your return trip during daylight."
+            "en": "Winter cycling in Saint-Vallier requires warm gloves and motivation. The morning at the church is frosty and clear. At noon, the castle provides the necessary warmth to thaw out. The afternoon ride to the lake rewards you with glittering frost landscapes. Since it gets dark at 17:00, plan your return trip during daylight.",
+            "fr": "Le cyclisme hivernal à Saint-Vallier requiert des gants chauds et de la motivation. La matinée à l’église est glaciale et claire. À midi, le château offre la chaleur nécessaire pour se réchauffer. La balade de l’après-midi vers le lac récompense par des paysages givrés scintillants. Puisqu’il fait nuit à 17:00, planifiez votre retour pendant les heures de jour."
           },
           "stops": [
             {
@@ -525,13 +581,15 @@
                 "de": "Saint-Valery Church",
                 "hu": "Saint-Valery Church",
                 "ro": "Saint-Valery Church",
-                "en": "Saint-Valery Church"
+                "en": "Saint-Valery Church",
+                "fr": "Église Saint-Valery"
               },
               "tip_5lang": {
                 "de": "Suchen Sie kurz das warme Innere auf; tragen Sie unbedingt eine winddichte Schicht über Ihrer Kleidung für die Abfahrten.",
                 "hu": "Keressen rövid menedéket a meleg belső térben; feltétlenül viseljen szélálló réteget a ruházata felett a lejtőkhöz.",
                 "ro": "Căutați scurt interiorul călduros; purtați neapărat un strat rezistent la vânt peste haine pentru coborâri.",
-                "en": "Seek short refuge in the warm interior; be sure to wear a windproof layer over your clothing for the descents."
+                "en": "Seek short refuge in the warm interior; be sure to wear a windproof layer over your clothing for the descents.",
+                "fr": "Cherchez un court refuge dans l’intérieur chaud ; assurez-vous de porter une couche coupe-vent sur vos vêtements pour les descentes."
               }
             },
             {
@@ -539,13 +597,15 @@
                 "de": "Château de Saint-Vallier",
                 "hu": "Château de Saint-Vallier",
                 "ro": "Château de Saint-Vallier",
-                "en": "Château de Saint-Vallier"
+                "en": "Château de Saint-Vallier",
+                "fr": "Château de Saint-Vallier"
               },
               "tip_5lang": {
                 "de": "Die beste Gelegenheit für eine ausgiebige Aufwärmpause; nehmen Sie ein heißes Getränk mit für den kühlen Weg zum See.",
                 "hu": "A legjobb alkalom egy alapos bemelegedésre; vigyen magával forró italt a tóhoz vezető hűvös útra.",
                 "ro": "Cea mai bună ocazie pentru o pauză lungă de încălzire; luați o băutură caldă pentru drumul răcoros spre lac.",
-                "en": "The best opportunity for an extensive warm-up break; take a hot drink with you for the chilly ride to the lake."
+                "en": "The best opportunity for an extensive warm-up break; take a hot drink with you for the chilly ride to the lake.",
+                "fr": "La meilleure occasion pour une longue pause de réchauffement ; emportez une boisson chaude pour la sortie fraîche vers le lac."
               }
             },
             {
@@ -553,13 +613,15 @@
                 "de": "Église de la Nativité-de-la-Vierge",
                 "hu": "Église de la Nativité-de-la-Vierge",
                 "ro": "Église de la Nativité-de-la-Vierge",
-                "en": "Église de la Nativité-de-la-Vierge"
+                "en": "Église de la Nativité-de-la-Vierge",
+                "fr": "Église de la Nativité-de-la-Vierge"
               },
               "tip_5lang": {
                 "de": "Ein friedlicher Ort zum Innehalten; achten Sie auf den Straßen auf Streusalzreste, die die Fahrradkette angreifen können.",
                 "hu": "Békés hely a megálláshoz; az utakon ügyeljen az útszórósó-maradványokra, amelyek károsíthatják a kerékpárláncot.",
                 "ro": "Un loc liniștit pentru popas; aveți grijă la resturile de sare de pe drum, care pot afecta lanțul bicicletei.",
-                "en": "A peaceful place to pause; watch out for road salt residue on the streets, which can affect the bike chain."
+                "en": "A peaceful place to pause; watch out for road salt residue on the streets, which can affect the bike chain.",
+                "fr": "Un lieu paisible pour faire une pause ; attention aux résidus de sel de voirie sur les rues, qui peuvent affecter la chaîne du vélo."
               }
             },
             {
@@ -567,13 +629,15 @@
                 "de": "Lac de Vert",
                 "hu": "Lac de Vert",
                 "ro": "Lac de Vert",
-                "en": "Lac de Vert"
+                "en": "Lac de Vert",
+                "fr": "Lac de Vert"
               },
               "tip_5lang": {
                 "de": "Die frostige Uferlandschaft ist ein tolles Fotomotiv; halten Sie sich in Bewegung, um bei den kühlen Seewinden nicht auszukühlen.",
                 "hu": "A fagyos tóparti táj remek fotótéma; maradjon mozgásban, hogy a hűvös tavi szélben ne hűljön ki túlságosan.",
                 "ro": "Peisajul înghețat de pe mal este un motiv foto excelent; rămâneți în mișcare pentru a nu îngheța din cauza vântului rece.",
-                "en": "The frosty lakeshore landscape is a great photo subject; keep moving to avoid getting too cold in the chilly lake winds."
+                "en": "The frosty lakeshore landscape is a great photo subject; keep moving to avoid getting too cold in the chilly lake winds.",
+                "fr": "Le paysage côtier gelé du lac est un excellent sujet photo ; continuez à bouger pour éviter d’avoir trop froid face au vent piquant du lac."
               }
             },
             {
@@ -581,13 +645,15 @@
                 "de": "Chapelle Saint-Jean-Saint-Paul",
                 "hu": "Chapelle Saint-Jean-Saint-Paul",
                 "ro": "Chapelle Saint-Jean-Saint-Paul",
-                "en": "Chapelle Saint-Jean-Saint-Paul"
+                "en": "Chapelle Saint-Jean-Saint-Paul",
+                "fr": "Chapelle Saint-Jean-Saint-Paul"
               },
               "tip_5lang": {
                 "de": "Letzter Stopp vor der schnellen Rückfahrt; schalten Sie frühzeitig Ihre Fahrradbeleuchtung ein, da die Sicht im Winter schnell abnimmt.",
                 "hu": "Utolsó megálló a gyors visszaút előtt; kapcsolja be időben a kerékpárvilágítást, mert télen a látótávolság gyorsan csökken.",
                 "ro": "Ultima oprire înainte de întoarcerea rapidă; aprindeți din timp luminile bicicletei, deoarece vizibilitatea scade rapid iarna.",
-                "en": "Last stop before the quick return; turn on your bike lights early, as visibility decreases rapidly in winter."
+                "en": "Last stop before the quick return; turn on your bike lights early, as visibility decreases rapidly in winter.",
+                "fr": "Dernier arrêt avant le retour rapide ; allumez vos éclairages de vélo tôt, car la visibilité diminue rapidement en hiver."
               }
             }
           ]
@@ -607,7 +673,8 @@
             "de": "Saint-Valery Church",
             "hu": "Saint-Valery Church",
             "ro": "Saint-Valery Church",
-            "en": "Saint-Valery Church"
+            "en": "Saint-Valery Church",
+            "fr": "Église Saint-Valery"
           },
           "coords": [
             4.815333,
@@ -622,7 +689,8 @@
             "de": "Bewundern Sie die Architektur dieser historischen Kirche im Zentrum und besuchen Sie sie früh, um das friedliche Morgenlicht durch die Buntglasfenster zu genießen.",
             "hu": "Csodálja meg a történelmi templom építészetét a belvárosban, és érkezzen korán, hogy élvezhesse az ólomüveg ablakokon átszűrődő békés reggeli fényeket.",
             "ro": "Admiră arhitectura acestei biserici istorice din centrul orașului și vino devreme pentru a te bucura de lumina dimineții care pătrunde prin vitralii.",
-            "en": "Admire the beautiful architecture of this historic church in the city center, and make sure to visit early to enjoy the peaceful morning light through its stained glass."
+            "en": "Admire the beautiful architecture of this historic church in the city center, and make sure to visit early to enjoy the peaceful morning light through its stained glass.",
+            "fr": "Admirez la belle architecture de cette église historique au centre-ville et veillez à la visiter tôt pour profiter de la lumière matinale paisible traversant ses vitraux."
           }
         },
         {
@@ -630,7 +698,8 @@
             "de": "Château de Saint-Vallier",
             "hu": "Château de Saint-Vallier",
             "ro": "Château de Saint-Vallier",
-            "en": "Château de Saint-Vallier"
+            "en": "Château de Saint-Vallier",
+            "fr": "Château de Saint-Vallier"
           },
           "coords": [
             4.817078,
@@ -645,7 +714,8 @@
             "de": "Erkunden Sie die faszinierende Geschichte und die Gärten dieses Schlosses, und tragen Sie bequeme Schuhe für die unebenen historischen Wege.",
             "hu": "Fedezze fel a lenyűgöző történelmet és a fenséges kastély elegáns kertjeit, de ne felejtsen el kényelmes cipőt húzni az egyenetlen történelmi ösvényekhez.",
             "ro": "Descoperă istoria fascinantă și grădinile elegante ale acestui castel maiestuos, purtând încălțăminte confortabilă pentru aleile istorice denivelate.",
-            "en": "Explore the fascinating history and elegant gardens of this majestic castle, and remember to wear comfortable shoes for walking along the uneven historic pathways."
+            "en": "Explore the fascinating history and elegant gardens of this majestic castle, and remember to wear comfortable shoes for walking along the uneven historic pathways.",
+            "fr": "Explorez l'histoire fascinante et les jardins élégants de ce château majestueux, et pensez à porter des chaussures confortables pour marcher sur les chemins historiques inégaux."
           }
         },
         {
@@ -653,7 +723,8 @@
             "de": "Lac de Vert",
             "hu": "Lac de Vert",
             "ro": "Lac de Vert",
-            "en": "Lac de Vert"
+            "en": "Lac de Vert",
+            "fr": "Lac de Vert"
           },
           "coords": [
             4.743793,
@@ -668,7 +739,8 @@
             "de": "Spazieren Sie am ruhigen Wasser dieses natürlichen Sees entlang, der eine vielfältige Vogelwelt beherbergt, und packen Sie ein leichtes Picknick für die Ufer ein.",
             "hu": "Sétáljon egyet a változatos madárvilágnak otthont adó, gyönyörű természetes tó nyugodt vizénél, és csomagoljon egy könnyű pikniket a gondozott partokra.",
             "ro": "Plimbă-te pe malurile liniștite ale acestui lac natural frumos, gazdă a numeroase păsări, și adu un mic picnic pentru a te relaxa în natură.",
-            "en": "Stroll around the tranquil waters of this beautiful natural lake that hosts diverse birdlife, and pack a light picnic to enjoy on its well-maintained shores."
+            "en": "Stroll around the tranquil waters of this beautiful natural lake that hosts diverse birdlife, and pack a light picnic to enjoy on its well-maintained shores.",
+            "fr": "Promenez-vous autour des eaux tranquilles de ce magnifique lac naturel qui abrite une faune aviaire diverse, et prenez un léger pique-nique à savourer sur ses rives bien entretenues."
           }
         },
         {
@@ -676,7 +748,8 @@
             "de": "Lac des Meinettes",
             "hu": "Lac des Meinettes",
             "ro": "Lac des Meinettes",
-            "en": "Lac des Meinettes"
+            "en": "Lac des Meinettes",
+            "fr": "Lac des Meinettes"
           },
           "coords": [
             4.726673,
@@ -691,7 +764,8 @@
             "de": "Entspannen Sie an diesem malerischen Gewässer, ideal für Naturfotografie und leichte Wanderungen, und bringen Sie ein Fernglas mit, um die heimische Tierwelt zu beobachten.",
             "hu": "Pihenjen e festői víztömeg mellett, amely tökéletes természetfotózáshoz és könnyű túrázáshoz, és hozzon távcsövet a helyi vadvilág megfigyeléséhez.",
             "ro": "Relaxează-te lângă această întindere de apă perfectă pentru fotografii și drumeții ușoare, aducând un binoclu pentru a observa fauna sălbatică.",
-            "en": "Relax by this scenic body of water perfect for nature photography and gentle hiking, bringing binoculars if you want to spot some of the native wildlife."
+            "en": "Relax by this scenic body of water perfect for nature photography and gentle hiking, bringing binoculars if you want to spot some of the native wildlife.",
+            "fr": "Détendez-vous au bord de ce plan d'eau pittoresque, idéal pour la photographie nature et les randonnées douces ; apportez des jumelles si vous souhaitez observer la faune locale."
           }
         },
         {
@@ -699,7 +773,8 @@
             "de": "Rhone River Banks",
             "hu": "Rhone River Banks",
             "ro": "Rhone River Banks",
-            "en": "Rhone River Banks"
+            "en": "Rhone River Banks",
+            "fr": "Rhone River Banks"
           },
           "coords": [
             4.846433,
@@ -714,7 +789,8 @@
             "de": "Spazieren Sie an den weitläufigen Flussufern entlang, die fantastische Ausblicke bieten, und kommen Sie bei Sonnenuntergang für spektakuläre Spiegelungen auf dem Wasser.",
             "hu": "Sétáljon végig a fantasztikus kilátást és friss levegőt kínáló hatalmas folyóparton, és időzítse látogatását naplementére az igazán látványos tükröződésekért.",
             "ro": "Plimbă-te pe malurile extinse ale râului pentru priveliști fantastice și aer curat, programând vizita la apus pentru reflexii cu adevărat spectaculoase pe apă.",
-            "en": "Walk along the expansive and iconic river banks offering fantastic views and fresh air, and time your visit for sunset to capture truly spectacular reflections."
+            "en": "Walk along the expansive and iconic river banks offering fantastic views and fresh air, and time your visit for sunset to capture truly spectacular reflections.",
+            "fr": "Marchez le long des vastes et emblématiques berges offrant des vues fantastiques et de l'air frais, et planifiez votre visite au coucher du soleil pour capturer des reflets vraiment spectaculaires."
           }
         },
         {
@@ -722,7 +798,8 @@
             "de": "Chapelle Saint-Joseph de Vals",
             "hu": "Chapelle Saint-Joseph de Vals",
             "ro": "Chapelle Saint-Joseph de Vals",
-            "en": "Chapelle Saint-Joseph de Vals"
+            "en": "Chapelle Saint-Joseph de Vals",
+            "fr": "Chapelle Saint-Joseph de Vals"
           },
           "coords": [
             4.843607,
@@ -737,7 +814,8 @@
             "de": "Entdecken Sie den ländlichen Charme dieser kleinen, im Grünen gelegenen Kapelle und bringen Sie eine Kamera mit, um die malerische Umgebung festzuhalten.",
             "hu": "Fedezze fel ennek a zöldövezetben megbúvó kápolnának a vidéki báját, és hozzon magával fényképezőgépet a festői természeti környezet megörökítéséhez.",
             "ro": "Descoperă farmecul rural al acestei capele situate în mijlocul verdeții și nu uita aparatul foto pentru a surprinde împrejurimile naturale pitorești.",
-            "en": "Discover the exquisite rural charm of this dedicated chapel set amidst greenery, and bring a camera to capture the picturesque natural surroundings."
+            "en": "Discover the exquisite rural charm of this dedicated chapel set amidst greenery, and bring a camera to capture the picturesque natural surroundings.",
+            "fr": "Découvrez le charme rural exquis de cette chapelle dédiée au milieu de la verdure, et apportez un appareil photo pour saisir les paysages naturels pittoresques."
           }
         }
       ],
@@ -745,7 +823,8 @@
         "de": "Ihre Fahrt beginnt mit den architektonischen Wundern der Kirche Saint-Valery und dem angrenzenden Schloss im Stadtzentrum. Fahren Sie zum malerischen Lac de Vert für einen erfrischenden Spaziergang am späten Vormittag. Nach dem Mittagessen setzen Sie Ihren Roadtrip zum malerischen Lac des Meinettes fort. Fahren Sie zu den Rhone-Ufern für einen Nachmittagsspaziergang und enden Sie an der Chapelle Saint-Joseph de Vals.",
         "hu": "Az autós túra a Saint-Valery templom és a szomszédos kastély építészeti csodáival kezdődik a városközpontban. Vezessen el a festői Lac de Vert-hez egy frissítő késő délelőtti sétára. Ebéd után folytassa útját a fotózáshoz is tökéletes Lac des Meinettes felé. Irány az ikonikus Rhône folyópart egy késő délutáni sétára, majd zárja a napot a békés Chapelle Saint-Joseph de Valsnál.",
         "ro": "Călătoria dvs. începe cu minunile arhitecturale ale Bisericii Saint-Valery și castelului adiacent din centrul orașului. Conduceți până la pitorescul Lac de Vert pentru o plimbare înviorătoare. După prânz, continuați-vă călătoria spre pitorescul Lac des Meinettes. Îndreptați-vă spre malurile râului Ron pentru o plimbare târzie după-amiaza, terminând la liniștita Chapelle Saint-Joseph de Vals.",
-        "en": "Your drive begins with the architectural wonders of Saint-Valery Church and the adjacent Château in the town center. Drive out to the picturesque Lac de Vert for a refreshing late-morning walk. After lunch, continue your road trip to the scenic Lac des Meinettes, a perfect spot for photography. Head towards the iconic Rhone River Banks for a late afternoon stroll, ending at the peaceful Chapelle Saint-Joseph de Vals."
+        "en": "Your drive begins with the architectural wonders of Saint-Valery Church and the adjacent Château in the town center. Drive out to the picturesque Lac de Vert for a refreshing late-morning walk. After lunch, continue your road trip to the scenic Lac des Meinettes, a perfect spot for photography. Head towards the iconic Rhone River Banks for a late afternoon stroll, ending at the peaceful Chapelle Saint-Joseph de Vals.",
+        "fr": "Votre trajet commence par les merveilles architecturales de l'église Saint-Valery et du château adjacent au centre-ville. Prenez la route vers le pittoresque Lac de Vert pour une marche revigorante en fin de matinée. Après le déjeuner, poursuivez votre voyage en voiture jusqu'au scénique Lac des Meinettes, un endroit parfait pour la photographie. Dirigez-vous ensuite vers les emblématiques berges du Rhône pour une promenade en fin d'après-midi, en terminant à la paisible Chapelle Saint-Joseph de Vals."
       },
       "variants": {
         "rainy": {
@@ -753,7 +832,8 @@
             "de": "Mit dem Auto erkunden Sie Saint-Vallier auch bei Regen komfortabel. Der Vormittag gehört dem Kulturerbe im Stadtzentrum. Mittags bietet die Fahrt zu den Seen eine entspannte Panorama-Tour durch die nasse Natur. Den Nachmittag verbringen Sie geschützt am Rhoneufer und in den Kapellen. Der Abend endet trocken und gemütlich zurück im Ort.",
             "hu": "Autóval esőben is kényelmesen felfedezheti Saint-Vallier-t. A délelőtt a városközpont kulturális örökségéé. Délben a tavakhoz vezető út pihentető panorámatúrát kínál a nedves természetben. A délutánt a Rhône-parton és a kápolnákban töltheti védetten. Az este szárazon és hangulatosan ér véget a városban.",
             "ro": "Cu mașina puteți explora Saint-Vallier confortabil chiar și pe ploaie. Dimineața aparține patrimoniului cultural din centru. La prânz, drumul spre lacuri oferă un tur panoramic relaxant prin natura umedă. După-amiaza o petreceți protejați pe malul Rhône-ului și în capele. Seara se încheie uscat și plăcut înapoi în oraș.",
-            "en": "By car, you can explore Saint-Vallier comfortably even in the rain. The morning belongs to the cultural heritage in the town center. At noon, the drive to the lakes offers a relaxed panoramic tour through wet nature. Spend the afternoon sheltered by the Rhone banks and in the chapels. The evening ends dry and cozy back in town."
+            "en": "By car, you can explore Saint-Vallier comfortably even in the rain. The morning belongs to the cultural heritage in the town center. At noon, the drive to the lakes offers a relaxed panoramic tour through wet nature. Spend the afternoon sheltered by the Rhone banks and in the chapels. The evening ends dry and cozy back in town.",
+            "fr": "En voiture, vous pouvez explorer Saint-Vallier confortablement même sous la pluie. La matinée est consacrée au patrimoine culturel du centre-ville. À midi, la route vers les lacs offre un tour panoramique détendu à travers une nature humide. Passez l'après-midi à l'abri le long des berges du Rhône et dans les chapelles. La soirée se termine au sec et au chaud en ville."
           },
           "stops": [
             {
@@ -761,13 +841,15 @@
                 "de": "Saint-Valery Church",
                 "hu": "Saint-Valery Church",
                 "ro": "Saint-Valery Church",
-                "en": "Saint-Valery Church"
+                "en": "Saint-Valery Church",
+                "fr": "Saint-Valery Church"
               },
               "tip_5lang": {
                 "de": "Parken Sie so nah wie möglich am Eingang; nutzen Sie die Zeit drinnen, um den Regenradar für die Weiterfahrt zu prüfen.",
                 "hu": "Parkoljon minél közelebb a bejárathoz; használja ki a bent töltött időt az esőradar ellenőrzésére a továbbhaladás előtt.",
                 "ro": "Parcați cât mai aproape de intrare; profitați de timpul petrecut în interior pentru a verifica radarul de ploaie pentru drum.",
-                "en": "Park as close to the entrance as possible; use the time inside to check the rain radar for the onward journey."
+                "en": "Park as close to the entrance as possible; use the time inside to check the rain radar for the onward journey.",
+                "fr": "Garez-vous le plus près possible de l'entrée ; profitez du temps à l'intérieur pour consulter le radar pluie pour la suite du trajet."
               }
             },
             {
@@ -775,13 +857,15 @@
                 "de": "Château de Saint-Vallier",
                 "hu": "Château de Saint-Vallier",
                 "ro": "Château de Saint-Vallier",
-                "en": "Château de Saint-Vallier"
+                "en": "Château de Saint-Vallier",
+                "fr": "Château de Saint-Vallier"
               },
               "tip_5lang": {
                 "de": "Das Schloss bietet genug Programm für eine lange Regenpause; lassen Sie nasse Schirme im Auto, um die Räume trocken zu halten.",
                 "hu": "A kastély elég programot kínál egy hosszú esőszünethez; hagyja a vizes ernyőket az autóban, hogy a termek szárazak maradjanak.",
                 "ro": "Castelul oferă destul program pentru o pauză lungă de ploaie; lăsați umbrelele ude în mașină pentru a păstra sălile uscate.",
-                "en": "The castle offers enough to do for a long rain break; leave wet umbrellas in the car to keep the rooms dry."
+                "en": "The castle offers enough to do for a long rain break; leave wet umbrellas in the car to keep the rooms dry.",
+                "fr": "Le château offre de quoi occuper un long arrêt pluie ; laissez les parapluies humides dans la voiture pour garder les salles au sec."
               }
             },
             {
@@ -789,13 +873,15 @@
                 "de": "Lac de Vert",
                 "hu": "Lac de Vert",
                 "ro": "Lac de Vert",
-                "en": "Lac de Vert"
+                "en": "Lac de Vert",
+                "fr": "Lac de Vert"
               },
               "tip_5lang": {
                 "de": "Genießen Sie den Blick auf den See direkt aus dem Auto; machen Sie nur einen kurzen Spaziergang auf den asphaltierten Wegen.",
                 "hu": "Élvezze a tóra nyíló kilátást közvetlenül az autóból; tegyen csak egy rövid sétát az aszfaltozott utakon.",
                 "ro": "Bucurați-vă de vederea spre lac direct din mașină; faceți doar o scurtă plimbare pe potecile asfaltate.",
-                "en": "Enjoy the view of the lake directly from the car; take only a short walk on the paved paths."
+                "en": "Enjoy the view of the lake directly from the car; take only a short walk on the paved paths.",
+                "fr": "Profitez de la vue sur le lac directement depuis la voiture ; ne faites qu'une courte promenade sur les sentiers pavés."
               }
             },
             {
@@ -803,13 +889,15 @@
                 "de": "Lac des Meinettes",
                 "hu": "Lac des Meinettes",
                 "ro": "Lac des Meinettes",
-                "en": "Lac des Meinettes"
+                "en": "Lac des Meinettes",
+                "fr": "Lac des Meinettes"
               },
               "tip_5lang": {
                 "de": "Ein schöner Ort für einen kurzen Fotostopp mit Regenschirm; achten Sie auf spritzendes Wasser von anderen Fahrzeugen auf dem Parkplatz.",
                 "hu": "Szép hely egy rövid fotómegállóhoz esernyővel; ügyeljen a többi jármű által felvert vízre a parkolóban.",
                 "ro": "Un loc frumos pentru o scurtă oprire foto cu umbrela; aveți grijă la apa împroșcată de alte vehicule în parcare.",
-                "en": "A nice place for a short photo stop with an umbrella; watch out for splashing water from other vehicles in the parking lot."
+                "en": "A nice place for a short photo stop with an umbrella; watch out for splashing water from other vehicles in the parking lot.",
+                "fr": "Un bel endroit pour un court arrêt photo avec un parapluie ; attention aux éclaboussures d'autres véhicules sur le parking."
               }
             },
             {
@@ -817,13 +905,15 @@
                 "de": "Rhone River Banks",
                 "hu": "Rhone River Banks",
                 "ro": "Rhone River Banks",
-                "en": "Rhone River Banks"
+                "en": "Rhone River Banks",
+                "fr": "Rhone River Banks"
               },
               "tip_5lang": {
                 "de": "Das neblige Rhoneufer wirkt im Regen sehr mystisch; nutzen Sie die Aussichtspunkte, die man direkt mit dem Auto ansteuern kann.",
                 "hu": "A ködös Rhône-part esőben nagyon misztikus; használja azokat a kilátópontokat, amelyek autóval közvetlenül megközelíthetők.",
                 "ro": "Malul cețos al Rhône-ului este foarte mistic în ploaie; folosiți punctele de belvedere la care se poate ajunge direct cu mașina.",
-                "en": "The misty Rhone bank looks very mystical in the rain; use the viewpoints that can be reached directly by car."
+                "en": "The misty Rhone bank looks very mystical in the rain; use the viewpoints that can be reached directly by car.",
+                "fr": "La berge brumeuse du Rhône paraît très mystique sous la pluie ; utilisez les points de vue accessibles directement en voiture."
               }
             },
             {
@@ -831,13 +921,15 @@
                 "de": "Chapelle Saint-Joseph de Vals",
                 "hu": "Chapelle Saint-Joseph de Vals",
                 "ro": "Chapelle Saint-Joseph de Vals",
-                "en": "Chapelle Saint-Joseph de Vals"
+                "en": "Chapelle Saint-Joseph de Vals",
+                "fr": "Chapelle Saint-Joseph de Vals"
               },
               "tip_5lang": {
                 "de": "Ein ruhiger Abschluss im Trockenen; prüfen Sie Ihre Scheibenwischer, da die Sicht auf den schmalen Zufahrtswegen wichtig ist.",
                 "hu": "Nyugodt befejezés száraz helyen; ellenőrizze az ablaktörlőket, mert a szűk bekötőutakon fontos a jó kilátás.",
                 "ro": "Un final liniștit la uscat; verificați ștergătoarele, deoarece vizibilitatea este importantă pe drumurile de acces înguste.",
-                "en": "A quiet end in the dry; check your wipers, as visibility is important on the narrow access roads."
+                "en": "A quiet end in the dry; check your wipers, as visibility is important on the narrow access roads.",
+                "fr": "Une fin paisible au sec ; vérifiez vos essuie-glaces, car la visibilité est importante sur les routes d'accès étroites."
               }
             }
           ]
@@ -847,7 +939,8 @@
             "de": "Erleben Sie die winterliche Region Saint-Vallier komfortabel im beheizten Auto. Der Vormittag bietet Kultur pur in der Stadt. Mittags führt die Fahrt durch glitzernde Reiflandschaften zu den frostigen Seen. Genießen Sie den Sonnenuntergang gegen 17:00 Uhr über der Rhone, bevor Sie den Abend bei einem warmen Essen im Ort ausklingen lassen.",
             "hu": "Fedezze fel Saint-Vallier környékét kényelmesen, fűtött autóban. A délelőtt tiszta kultúrát kínál a városban. Délben az út csillogó, zúzmarás tájakon át vezet a fagyos tavakhoz. Élvezze a 17:00 körüli naplementét a Rhône felett, mielőtt a napot egy meleg vacsorával zárná a városban.",
             "ro": "Experimentați regiunea Saint-Vallier confortabil într-o mașină încălzită. Dimineața oferă cultură pură în oraș. La prânz, drumul trece prin peisaje înghețate strălucitoare spre lacurile gerose. Bucurați-vă de apusul de la ora 17:00 peste Rhône, înainte de a încheia seara cu o masă caldă în oraș.",
-            "en": "Experience the wintery Saint-Vallier region comfortably in a heated car. The morning offers pure culture in the city. At noon, the drive leads through glittering frost landscapes to the frozen lakes. Enjoy the sunset around 17:00 over the Rhone before ending the evening with a warm meal in town."
+            "en": "Experience the wintery Saint-Vallier region comfortably in a heated car. The morning offers pure culture in the city. At noon, the drive leads through glittering frost landscapes to the frozen lakes. Enjoy the sunset around 17:00 over the Rhone before ending the evening with a warm meal in town.",
+            "fr": "Vivez la région hivernale de Saint-Vallier confortablement dans une voiture chauffée. La matinée offre de la culture pure en ville. À midi, la route mène à travers des paysages givrés scintillants jusqu'aux lacs gelés. Profitez du coucher de soleil vers 17:00 sur le Rhône avant de terminer la soirée par un repas chaud en ville."
           },
           "stops": [
             {
@@ -855,13 +948,15 @@
                 "de": "Saint-Valery Church",
                 "hu": "Saint-Valery Church",
                 "ro": "Saint-Valery Church",
-                "en": "Saint-Valery Church"
+                "en": "Saint-Valery Church",
+                "fr": "Saint-Valery Church"
               },
               "tip_5lang": {
                 "de": "Genießen Sie die Ruhe im Inneren; achten Sie beim Parken auf gefrorene Pfützen auf den Schattenplätzen rund um die Kirche.",
                 "hu": "Élvezze a belső nyugalmat; parkoláskor ügyeljen a megfagyott tócsákra a templom körüli árnyékos helyeken.",
                 "ro": "Bucurați-vă de liniștea din interior; la parcare, aveți grijă la bălțile înghețate din locurile umbrite din jurul bisericii.",
-                "en": "Enjoy the tranquility inside; when parking, watch out for frozen puddles in shaded spots around the church."
+                "en": "Enjoy the tranquility inside; when parking, watch out for frozen puddles in shaded spots around the church.",
+                "fr": "Appréciez la tranquillité à l'intérieur ; en vous garant, faites attention aux flaques gelées dans les endroits ombragés autour de l'église."
               }
             },
             {
@@ -869,13 +964,15 @@
                 "de": "Château de Saint-Vallier",
                 "hu": "Château de Saint-Vallier",
                 "ro": "Château de Saint-Vallier",
-                "en": "Château de Saint-Vallier"
+                "en": "Château de Saint-Vallier",
+                "fr": "Château de Saint-Vallier"
               },
               "tip_5lang": {
                 "de": "Ein wunderbar temperierter Ort für Geschichtsliebhaber; nutzen Sie den Besuch, um die Akkus Ihrer Kamera im Warmen zu schonen.",
                 "hu": "Csodálatosan temperált hely a történelem kedvelőinek; használja ki a látogatást, hogy a melegben kímélje a kamera akkumulátorait.",
                 "ro": "Un loc cu temperatură plăcută pentru iubitorii de istorie; profită de vizită pentru a menaja bateriile camerei la căldură.",
-                "en": "A wonderfully tempered place for history lovers; use the visit to save your camera batteries in the warmth."
+                "en": "A wonderfully tempered place for history lovers; use the visit to save your camera batteries in the warmth.",
+                "fr": "Un lieu merveilleusement tempéré pour les amateurs d'histoire ; profitez de la visite pour recharger vos batteries d'appareil photo à l'abri de la chaleur."
               }
             },
             {
@@ -883,13 +980,15 @@
                 "de": "Lac de Vert",
                 "hu": "Lac de Vert",
                 "ro": "Lac de Vert",
-                "en": "Lac de Vert"
+                "en": "Lac de Vert",
+                "fr": "Lac de Vert"
               },
               "tip_5lang": {
                 "de": "Die gefrorene Seeoberfläche ist beeindruckend; prüfen Sie vor der Abfahrt den Frostschutz Ihres Autos bei den sinkenden Temperaturen.",
                 "hu": "A befagyott tófelület lenyűgöző; indulás előtt ellenőrizze az autó fagyállóját a süllyedő hőmérséklet miatt.",
                 "ro": "Suprafața înghețată a lacului este impresionantă; înainte de plecare, verificați antigelul mașinii din cauza temperaturilor scăzute.",
-                "en": "The frozen lake surface is impressive; check your car's antifreeze before leaving due to the dropping temperatures."
+                "en": "The frozen lake surface is impressive; check your car's antifreeze before leaving due to the dropping temperatures.",
+                "fr": "La surface gelée du lac est impressionnante ; vérifiez l'antigel de votre voiture avant de partir en raison de la baisse des températures."
               }
             },
             {
@@ -897,13 +996,15 @@
                 "de": "Lac des Meinettes",
                 "hu": "Lac des Meinettes",
                 "ro": "Lac des Meinettes",
-                "en": "Lac des Meinettes"
+                "en": "Lac des Meinettes",
+                "fr": "Lac des Meinettes"
               },
               "tip_5lang": {
                 "de": "Ein stiller Ort für winterliche Naturbeobachtungen; lassen Sie den Motor nicht unnötig laufen, während Sie die Aussicht genießen.",
                 "hu": "Csendes hely a téli természet megfigyeléséhez; ne járassa feleslegesen a motort, miközben a kilátásban gyönyörködik.",
                 "ro": "Un loc liniștit pentru observarea naturii iarna; nu lăsați motorul pornit inutil în timp ce admirați priveliștea.",
-                "en": "A quiet place for winter nature observations; don't leave the engine running unnecessarily while enjoying the view."
+                "en": "A quiet place for winter nature observations; don't leave the engine running unnecessarily while enjoying the view.",
+                "fr": "Un endroit calme pour observer la nature hivernale ; ne laissez pas le moteur tourner inutilement pendant que vous admirez le paysage."
               }
             },
             {
@@ -911,13 +1012,15 @@
                 "de": "Rhone River Banks",
                 "hu": "Rhone River Banks",
                 "ro": "Rhone River Banks",
-                "en": "Rhone River Banks"
+                "en": "Rhone River Banks",
+                "fr": "Rhone River Banks"
               },
               "tip_5lang": {
                 "de": "Das Licht der tiefstehenden Wintersonne über dem Fluss ist spektakulär; ein kurzer Spaziergang am Ufer belebt vor dem Abendessen.",
                 "hu": "A folyó feletti alacsony téli napfény látványos; egy rövid sétát a parton érdemes tenni a vacsora előtt a felfrissülésért.",
                 "ro": "Lumina soarelui de iarnă jos deasupra râului este spectaculoasă; o scurtă plimbare pe mal este revigorantă înainte de cină.",
-                "en": "The light of the low winter sun over the river is spectacular; a short walk on the bank is refreshing before dinner."
+                "en": "The light of the low winter sun over the river is spectacular; a short walk on the bank is refreshing before dinner.",
+                "fr": "La lumière du soleil bas d'hiver sur le fleuve est spectaculaire ; une courte promenade sur la rive est revigorante avant le dîner."
               }
             },
             {
@@ -925,13 +1028,15 @@
                 "de": "Chapelle Saint-Joseph de Vals",
                 "hu": "Chapelle Saint-Joseph de Vals",
                 "ro": "Chapelle Saint-Joseph de Vals",
-                "en": "Chapelle Saint-Joseph de Vals"
+                "en": "Chapelle Saint-Joseph de Vals",
+                "fr": "Chapelle Saint-Joseph de Vals"
               },
               "tip_5lang": {
                 "de": "Beenden Sie die Tour, bevor es um 17:00 Uhr dunkel wird; achten Sie auf die oft glatten Straßenoberflächen bei Sonnenuntergang.",
                 "hu": "Fejezze be a túrát, mielőtt 17:00-kor besötétedik; ügyeljen az ilyenkor gyakran lefagyó útburkolatra a naplemente után.",
                 "ro": "Încheiați turul înainte de a se întuneca la ora 17:00; aveți grijă la suprafața drumului care îngheață des după apus.",
-                "en": "Finish the tour before it gets dark at 17:00; watch out for road surfaces that often freeze over after sunset."
+                "en": "Finish the tour before it gets dark at 17:00; watch out for road surfaces that often freeze over after sunset.",
+                "fr": "Terminez la visite avant la tombée de la nuit à 17:00 ; attention aux chaussées qui gèlent souvent après le coucher du soleil."
               }
             }
           ]

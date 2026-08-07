@@ -21,7 +21,8 @@
             "de": "Tour des Rondes",
             "hu": "Tour des Rondes",
             "ro": "Tour des Rondes",
-            "en": "Tour des Rondes"
+            "en": "Tour des Rondes",
+            "fr": "Tour des Rondes"
           },
           "coords": [
             1.81765,
@@ -36,7 +37,8 @@
             "de": "Bewundern Sie die Überreste der alten Befestigungsanlagen, um die wehrhafte Vergangenheit der Stadt zu verstehen, aber tragen Sie unbedingt bequemes Schuhwerk.",
             "hu": "Csodálja meg a régi erődítmények maradványait, hogy megértse a város védelmi múltját, de mindenképpen kényelmes cipőt viseljen az egyenetlen macskaköveken.",
             "ro": "Admirați rămășițele vechilor fortificații pentru a înțelege trecutul defensiv al orașului, dar asigurați-vă că purtați încălțăminte confortabilă pe piatra cubică.",
-            "en": "Admire the remnants of the old fortifications to understand the town's defensive past, but be sure to wear comfortable shoes for the uneven cobblestones."
+            "en": "Admire the remnants of the old fortifications to understand the town's defensive past, but be sure to wear comfortable shoes for the uneven cobblestones.",
+            "fr": "Admirez les vestiges des anciennes fortifications pour comprendre le passé défensif de la ville, mais portez des chaussures confortables pour les pavés irréguliers."
           }
         },
         {
@@ -44,7 +46,8 @@
             "de": "Saint-François Church",
             "hu": "Saint-François templom",
             "ro": "Biserica Saint-François",
-            "en": "Saint-François Church"
+            "en": "Saint-François Church",
+            "fr": "Église Saint-François"
           },
           "coords": [
             1.817101,
@@ -59,7 +62,8 @@
             "de": "Betreten Sie diese ruhige religiöse Stätte, um ihre markanten architektonischen Details zu betrachten, und kommen Sie am besten morgens für das schönste Licht.",
             "hu": "Lépjen be ebbe a nyugodt vallási épületbe, hogy megfigyelhesse lenyűgöző építészeti részleteit, és próbáljon meg a délelőtti órákban érkezni a legjobb fényekért.",
             "ro": "Pășiți în acest lăcaș de cult liniștit pentru a observa detaliile arhitecturale remarcabile și încercați să vizitați dimineața pentru cea mai bună lumină naturală.",
-            "en": "Step inside this tranquil religious site to observe its striking architectural details, and try to visit during the morning hours for the best natural lighting."
+            "en": "Step inside this tranquil religious site to observe its striking architectural details, and try to visit during the morning hours for the best natural lighting.",
+            "fr": "Entrez dans ce lieu de recueillement pour observer ses détails architecturaux frappants ; essayez de venir le matin pour profiter du meilleur éclairage naturel."
           }
         },
         {
@@ -67,7 +71,8 @@
             "de": "Saint-Alain Cathedral",
             "hu": "Saint-Alain katedrális",
             "ro": "Catedrala Saint-Alain",
-            "en": "Saint-Alain Cathedral"
+            "en": "Saint-Alain Cathedral",
+            "fr": "Cathédrale Saint-Alain"
           },
           "coords": [
             1.821829,
@@ -82,7 +87,8 @@
             "de": "Erkunden Sie diese gewaltige Backsteinkathedrale, die die Skyline dominiert, und achten Sie besonders auf die kunstvolle Jacquemart-Uhr im imposanten Westturm.",
             "hu": "Fedezze fel ezt a városképet uraló, masszív tégla katedrálist, és fordítson különös figyelmet az impozáns nyugati toronyban rejlő díszes jacquemart órára.",
             "ro": "Explorați această catedrală masivă din cărămidă care domină orizontul, acordând o atenție deosebită ceasului jacquemart ornamentat, ascuns în turnul său vestic.",
-            "en": "Explore this massive brick cathedral that dominates the skyline, paying special attention to the ornate jacquemart clock hidden within its imposing western tower."
+            "en": "Explore this massive brick cathedral that dominates the skyline, paying special attention to the ornate jacquemart clock hidden within its imposing western tower.",
+            "fr": "Explorez cette imposante cathédrale en briques qui domine l’horizon, en prêtant une attention particulière à l’horloge jacquemart ornée cachée dans sa tour ouest."
           }
         },
         {
@@ -90,7 +96,8 @@
             "de": "Bishop's Garden",
             "hu": "Püspöki kert",
             "ro": "Grădina Episcopului",
-            "en": "Bishop's Garden"
+            "en": "Bishop's Garden",
+            "fr": "Jardin de l'Évêché"
           },
           "coords": [
             1.822084,
@@ -105,7 +112,8 @@
             "de": "Entspannen Sie in diesen elegant angelegten Gärten mit Panoramablick auf den Fluss Agout, die den perfekten ruhigen Ort für ein kleines Mittagspicknick bieten.",
             "hu": "Pihenjen ezekben az elegánsan parkosított kertekben, amelyek panorámás kilátást nyújtanak az Agout folyóra, így tökéletes és békés helyszínt biztosítanak egy piknikhez.",
             "ro": "Relaxați-vă în aceste grădini amenajate elegant, care oferă vederi panoramice asupra râului Agout, fiind locul liniștit perfect pentru a savura un mic picnic la amiază.",
-            "en": "Relax in these elegantly landscaped gardens offering panoramic views of the Agout river, making it the perfect peaceful spot to enjoy a small midday picnic."
+            "en": "Relax in these elegantly landscaped gardens offering panoramic views of the Agout river, making it the perfect peaceful spot to enjoy a small midday picnic.",
+            "fr": "Détendez-vous dans ces jardins élégamment aménagés offrant des vues panoramiques sur la rivière Agout, parfaits pour un petit pique-nique de midi."
           }
         },
         {
@@ -113,7 +121,8 @@
             "de": "Tour des Rondes",
             "hu": "Tour des Rondes",
             "ro": "Tour des Rondes",
-            "en": "Tour des Rondes"
+            "en": "Tour des Rondes",
+            "fr": "Tour des Rondes"
           },
           "coords": [
             1.81765,
@@ -128,7 +137,8 @@
             "de": "Kehren Sie zu diesem Aussichtspunkt zurück, um die Architektur im weichen Nachmittagslicht zu betrachten, und machen Sie vor Ihrer Abreise noch ein paar Erinnerungsfotos.",
             "hu": "Térjen vissza ehhez a kilátóponthoz, hogy a délutáni lágy fényben szemlélhesse az építészetet, és készítsen még néhány emlékezetes fotót az indulás előtt.",
             "ro": "Întoarceți-vă la acest punct de observație pentru a vedea arhitectura în lumina blândă a după-amiezii și faceți câteva fotografii de despărțire înainte de plecare.",
-            "en": "Return to this vantage point to appreciate the architecture in the softer afternoon light, and take a few final souvenir photographs before departing."
+            "en": "Return to this vantage point to appreciate the architecture in the softer afternoon light, and take a few final souvenir photographs before departing.",
+            "fr": "Revenez à ce point de vue pour apprécier l’architecture à la lumière douce de l’après‑midi et prenez quelques photos-souvenirs avant le départ."
           }
         }
       ],
@@ -136,7 +146,8 @@
         "de": "Der Morgen beginnt in den alten Festungsanlagen der Tour des Rondes, gefolgt von der Ruhe in Saint-François. Mittags stehen Sie vor der riesigen Kathedrale Saint-Alain, einem echten Backstein-Meisterwerk. Am Nachmittag bietet der elegante Bischofsgarten einen weiten Blick auf den Fluss Agout. Sie beenden Ihre Tour mit einem letzten, friedlichen Blick auf die alten Türme der Stadt.",
         "hu": "A reggel a Tour des Rondes ősi erődítményei között kezdődik, mielőtt felfedezné a Saint-François csendjét. Délben a Saint-Alain katedrális, egy igazi tégla mestermű magasodik Ön fölé. Délután az elegáns Püspöki kert széles kilátást nyújt az Agout folyóra. Gyalogtúráját egy utolsó, békés pillantással zárja a régi tornyokra és a történelmi városközpontra.",
         "ro": "Dimineața începe printre vechile fortificații de la Tour des Rondes, înainte de a descoperi liniștea de la Saint-François. La amiază ajungeți la impunătoarea Catedrală Saint-Alain, o adevărată capodoperă din cărămidă. După-amiaza, Grădina Episcopului oferă vederi ample asupra râului Agout. Turul de mers pe jos se încheie cu o ultimă privire liniștită asupra vechilor turnuri.",
-        "en": "Your morning starts among the ancient fortifications of Tour des Rondes before discovering the spiritual quiet of Saint-François. Midday brings you face-to-face with the towering Saint-Alain Cathedral, a true brick masterpiece. In the afternoon, the elegant Bishop's Garden offers sweeping views of the Agout river. You conclude your walking tour with a final, peaceful look at the old towers."
+        "en": "Your morning starts among the ancient fortifications of Tour des Rondes before discovering the spiritual quiet of Saint-François. Midday brings you face-to-face with the towering Saint-Alain Cathedral, a true brick masterpiece. In the afternoon, the elegant Bishop's Garden offers sweeping views of the Agout river. You conclude your walking tour with a final, peaceful look at the old towers.",
+        "fr": "Votre matinée commence parmi les anciennes fortifications de la Tour des Rondes avant de découvrir le calme spirituel de Saint-François. À midi, vous ferez face à la majestueuse cathédrale Saint-Alain, véritable chef-d’œuvre en briques. L’après‑midi, le raffiné Jardin de l’Évêché offre de larges vues sur l’Agout. Vous concluez votre promenade à la Tour des Rondes pour un dernier moment paisible."
       },
       "variants": {
         "rainy": {
@@ -144,7 +155,8 @@
             "de": "Wir beginnen den Morgen rund um die Tour des Rondes und die Kirchen mit einem Regenschirm in den engen Gassen. Mittags schützt uns die monumentale Kathedrale vor den Schauern. Am Nachmittag machen wir einen schnellen Spaziergang im nassen Bischofsgarten und kehren dann zur Festung zurück. Trotz des Regens bleibt die Altstadt von Lavaur mystisch und fesselnd.",
             "hu": "Reggel a Tour des Rondes és a templomok környékén kezdünk, esernyővel a szűk utcákon. Délben a monumentális katedrális óv meg minket a záporoktól. Délután a Püspöki kertben csak egy gyors sétát teszünk a nedves fátyol alatt, majd visszatérünk az erődítményhez. Az esős nap ellenére Lavaur óvárosa misztikus és magával ragadó marad az esernyők alól is.",
             "ro": "Începem dimineața în jurul Tour des Rondes și a bisericilor cu o umbrelă pe străzile înguste. La prânz, catedrala monumentală ne protejează de averse. După-amiaza, facem o scurtă plimbare în Grădina Episcopului sub un voal umed, apoi ne întoarcem la fortăreață. În ciuda ploii, orașul vechi din Lavaur rămâne mistic și captivant pe tot parcursul zilei.",
-            "en": "We start the morning around the Tour des Rondes and the churches with an umbrella in the narrow streets. At noon, the monumental cathedral protects us from the showers. In the afternoon, we take a quick walk in the Bishop's Garden under the wet canopy, then return to the fortress. Despite the rain, the old town of Lavaur remains mystical and captivating."
+            "en": "We start the morning around the Tour des Rondes and the churches with an umbrella in the narrow streets. At noon, the monumental cathedral protects us from the showers. In the afternoon, we take a quick walk in the Bishop's Garden under the wet canopy, then return to the fortress. Despite the rain, the old town of Lavaur remains mystical and captivating.",
+            "fr": "Nous commençons la matinée autour de la Tour des Rondes et des églises avec un parapluie dans les rues étroites. À midi, la cathédrale monumentale nous abrite des averses. L’après‑midi, nous nous promenons rapidement dans le Jardin de l’Évêché sous le couvert humide, puis retournons à la forteresse. Malgré la pluie, la vieille ville de Lavaur reste mystique et captivante."
           },
           "stops": [
             {
@@ -152,13 +164,15 @@
                 "de": "Tour des Rondes",
                 "hu": "Tour des Rondes",
                 "ro": "Tour des Rondes",
-                "en": "Tour des Rondes"
+                "en": "Tour des Rondes",
+                "fr": "Tour des Rondes"
               },
               "tip_5lang": {
                 "de": "Bewundern Sie die dicken Festungsmauern, aber beachten Sie, dass die Steine bei Regen sehr rutschig sein können. Tragen Sie feste, geschlossene Schuhe.",
                 "hu": "Csodálja meg a vaskos erődítmény falait, de esőben nagyon csúszósak lehetnek a kövek, ezért viseljen stabil, zárt cipőt a biztonságos sétához.",
                 "ro": "Admirați zidurile groase ale fortăreței, dar fiți conștienți că pietrele pot fi foarte alunecoase în ploaie, purtați pantofi stabili și închiși.",
-                "en": "Admire the thick fortress walls, but be aware that the stones can be very slippery in the rain, so wear sturdy, closed shoes for a safe walk."
+                "en": "Admire the thick fortress walls, but be aware that the stones can be very slippery in the rain, so wear sturdy, closed shoes for a safe walk.",
+                "fr": "Admirez les murs épais de la forteresse, mais sachez que les pierres peuvent être très glissantes sous la pluie ; portez des chaussures fermées et solides pour une promenade sûre."
               }
             },
             {
@@ -166,13 +180,15 @@
                 "de": "Saint-François Church",
                 "hu": "Saint-François templom",
                 "ro": "Biserica Saint-François",
-                "en": "Saint-François Church"
+                "en": "Saint-François Church",
+                "fr": "Église Saint-François"
               },
               "tip_5lang": {
                 "de": "Das puritanische Innere ist ein perfekter Zufluchtsort vor dem Schauer. Betrachten Sie die Holzschnitzereien und warten Sie im Trockenen auf besseres Wetter.",
                 "hu": "A puritán belső tér tökéletes menedék a zápor elől, figyelje meg a fafaragásokat és élvezze a csendet, amíg kint eláll a kíméletlen eső.",
                 "ro": "Interiorul puritan este un refugiu perfect din calea averselor, observați sculpturile în lemn și bucurați-vă de liniște până când ploaia se oprește.",
-                "en": "The puritan interior is a perfect refuge from the shower, observe the wood carvings and enjoy the silence until the relentless rain stops outside."
+                "en": "The puritan interior is a perfect refuge from the shower, observe the wood carvings and enjoy the silence until the relentless rain stops outside.",
+                "fr": "L’intérieur puritain est un refuge parfait contre l’averse ; observez les sculptures sur bois et profitez du silence jusqu’à ce que la pluie cesse dehors."
               }
             },
             {
@@ -180,13 +196,15 @@
                 "de": "Saint-Alain Cathedral",
                 "hu": "Saint-Alain katedrális",
                 "ro": "Catedrala Saint-Alain",
-                "en": "Saint-Alain Cathedral"
+                "en": "Saint-Alain Cathedral",
+                "fr": "Cathédrale Saint-Alain"
               },
               "tip_5lang": {
                 "de": "Diese beeindruckende Backsteinkirche bietet einen trockenen und ruhigen Raum; es lohnt sich, die inneren Fresken während eines starken Regengusses zu studieren.",
                 "hu": "Ez a lenyűgöző téglatemplom száraz és csendes teret kínál, érdemes hosszan tanulmányozni a belső freskókat egy kiadós esőzés alatt.",
                 "ro": "Această biserică impresionantă din cărămidă oferă un spațiu uscat; merită să studiați pe îndelete frescele interioare în timpul unei ploi torențiale.",
-                "en": "This stunning brick church offers a dry and quiet space; it's worth studying the internal frescoes extensively during a heavy downpour."
+                "en": "This stunning brick church offers a dry and quiet space; it's worth studying the internal frescoes extensively during a heavy downpour.",
+                "fr": "Cette remarquable église en briques offre un espace sec et calme ; il vaut la peine d’étudier longuement les fresques intérieures pendant une forte averse."
               }
             },
             {
@@ -194,13 +212,15 @@
                 "de": "Bishop's Garden",
                 "hu": "Püspöki kert",
                 "ro": "Grădina Episcopului",
-                "en": "Bishop's Garden"
+                "en": "Bishop's Garden",
+                "fr": "Jardin de l'Évêché"
               },
               "tip_5lang": {
                 "de": "Die Gehwege unter den Bäumen sind auch bei Regen romantisch, aber wegen des durchnässten Bodens sollten Sie auf den gepflasterten Wegen bleiben.",
                 "hu": "A fák alatti sétányok esőben is romantikusak, de a felázott talaj és a pocsolyák miatt maradjon a burkolt vagy kavicsos utakon.",
                 "ro": "Aleile de sub copaci sunt romantice și în ploaie, dar din cauza solului îmbibat și a bălților, rămâneți pe potecile pavate sau cu pietriș.",
-                "en": "The walkways under the trees are romantic even in the rain, but due to the soggy ground and puddles, stay on the paved or gravel paths."
+                "en": "The walkways under the trees are romantic even in the rain, but due to the soggy ground and puddles, stay on the paved or gravel paths.",
+                "fr": "Les allées sous les arbres restent romantiques même sous la pluie, mais à cause du sol détrempé et des flaques, restez sur les chemins pavés ou en gravier."
               }
             },
             {
@@ -208,13 +228,15 @@
                 "de": "Tour des Rondes",
                 "hu": "Tour des Rondes",
                 "ro": "Tour des Rondes",
-                "en": "Tour des Rondes"
+                "en": "Tour des Rondes",
+                "fr": "Tour des Rondes"
               },
               "tip_5lang": {
                 "de": "Am Ende der Tour bieten die Lichter auf nassen Steinen ein tolles Fotomotiv, aber schützen Sie Ihre Kamera oder Ihr Handy unbedingt vor dem Regen.",
                 "hu": "A túra végén a vizes köveken megcsillanó fények szép fotótémát adnak, de tartsa biztonságban fényképezőgépét vagy telefonját az esőtől.",
                 "ro": "La sfârșitul turului, luminile reflectate pe pietrele umede oferă o fotografie grozavă, dar păstrați camera sau telefonul în siguranță de ploaie.",
-                "en": "At the end of the tour, the lights reflecting on wet stones make a great photo, but keep your camera or phone safe from the pouring rain."
+                "en": "At the end of the tour, the lights reflecting on wet stones make a great photo, but keep your camera or phone safe from the pouring rain.",
+                "fr": "À la fin de la visite, les lumières se reflétant sur les pierres mouillées font de belles photos, mais protégez votre appareil photo ou téléphone de la pluie battante."
               }
             }
           ]
@@ -224,7 +246,8 @@
             "de": "An einem kalten Wintermorgen erkunden wir die Festung und die Kirchen. Suchen Sie mittags in der dickwandigen Kathedrale Schutz vor dem beißenden Wind. Genießen Sie nachmittags die Ruhe des frostigen Bischofsgartens in den kürzer werdenden Tagen. Die Tour endet am Tour des Rondes kurz vor dem frühen Sonnenuntergang und den abendlichen Lichtern.",
             "hu": "Hideg téli reggelen indulunk a középkori erődítmény és a templomok felfedezésére. Délben a vastag falú katedrálisban keressünk menedéket a csípős szél elől. Délután a fagyos Püspöki kert csendes nyugalmát élvezhetjük a rövidülő nappalokon. A túra a Tour des Rondes-nál ér véget, közvetlenül a korai naplemente és az esti fények felgyulladása előtt.",
             "ro": "Într-o dimineață rece de iarnă, pornim să explorăm fortăreața și bisericile. La prânz, căutați adăpost de vântul tăios în catedrala cu ziduri groase. După-amiaza, bucurați-vă de liniștea Grădinii Episcopului în zilele scurte. Turul se termină la Tour des Rondes, chiar înainte de apusul timpuriu și de aprinderea luminilor de seară ale orașului.",
-            "en": "On a cold winter morning, we set out to explore the fortress and churches. At noon, seek shelter from the biting wind in the thick-walled cathedral. In the afternoon, enjoy the quiet of the frosty Bishop's Garden during the shortening days. The tour ends at the Tour des Rondes, just before the early sunset and the turning on of the evening lights."
+            "en": "On a cold winter morning, we set out to explore the fortress and churches. At noon, seek shelter from the biting wind in the thick-walled cathedral. In the afternoon, enjoy the quiet of the frosty Bishop's Garden during the shortening days. The tour ends at the Tour des Rondes, just before the early sunset and the turning on of the evening lights.",
+            "fr": "Par un froid matin d’hiver, nous partons explorer la forteresse et les églises. À midi, cherchez refuge contre le vent mordant dans la cathédrale aux murs épais. L’après‑midi, profitez du calme du Jardin de l’Évêché givré pendant les journées qui raccourcissent. La visite se termine à la Tour des Rondes, juste avant le coucher du soleil et l’allumage des lumières du soir."
           },
           "stops": [
             {
@@ -232,13 +255,15 @@
                 "de": "Tour des Rondes",
                 "hu": "Tour des Rondes",
                 "ro": "Tour des Rondes",
-                "en": "Tour des Rondes"
+                "en": "Tour des Rondes",
+                "fr": "Tour des Rondes"
               },
               "tip_5lang": {
                 "de": "Der Wind ist zwischen den kalten Steinmauern besonders beißend, ziehen Sie sich also warm an und tragen Sie eine Mütze für diesen Spaziergang.",
                 "hu": "A hideg kőfalak között különösen csípős a szél, így öltözzön melegen és viseljen vastag sapkát a középkori hangulatú reggeli sétához.",
                 "ro": "Vântul este deosebit de tăios între zidurile reci de piatră, așa că îmbrăcați-vă călduros și purtați o căciulă groasă pentru plimbare.",
-                "en": "The wind is especially biting between the cold stone walls, so dress warmly and wear a thick hat for this medieval morning walk."
+                "en": "The wind is especially biting between the cold stone walls, so dress warmly and wear a thick hat for this medieval morning walk.",
+                "fr": "Le vent est particulièrement mordant entre les murs froids de pierre, habillez-vous chaudement et portez un bonnet épais pour cette promenade médiévale matinale."
               }
             },
             {
@@ -246,13 +271,15 @@
                 "de": "Saint-François Church",
                 "hu": "Saint-François templom",
                 "ro": "Biserica Saint-François",
-                "en": "Saint-François Church"
+                "en": "Saint-François Church",
+                "fr": "Église Saint-François"
               },
               "tip_5lang": {
                 "de": "Es lohnt sich, die Details in der ruhigen, unbeheizten Kirche zu bewundern, aber behalten Sie Ihren warmen Mantel während des Besuchs an.",
                 "hu": "A csendes, fűtetlen templomban érdemes megcsodálni a részleteket, de tartsa magán a meleg kabátot a hűvös épületben tett látogatás alatt.",
                 "ro": "Merită să admirați detaliile din biserica liniștită, neîncălzită, dar păstrați paltonul călduros pe dumneavoastră pe parcursul vizitei.",
-                "en": "It is worth admiring the details in the quiet, unheated church, but keep your warm coat on during the visit in this cool historic building."
+                "en": "It is worth admiring the details in the quiet, unheated church, but keep your warm coat on during the visit in this cool historic building.",
+                "fr": "Il vaut la peine d’admirer les détails dans l’église silencieuse et non chauffée, mais conservez votre manteau chaud pendant la visite de ce bâtiment historique frais."
               }
             },
             {
@@ -260,13 +287,15 @@
                 "de": "Saint-Alain Cathedral",
                 "hu": "Saint-Alain katedrális",
                 "ro": "Catedrala Saint-Alain",
-                "en": "Saint-Alain Cathedral"
+                "en": "Saint-Alain Cathedral",
+                "fr": "Cathédrale Saint-Alain"
               },
               "tip_5lang": {
                 "de": "Der gewaltige Innenraum ist atemberaubend, obwohl er im Winter sehr kühl sein kann. Zwiebellook ist beim Erkunden der gotischen Details nützlich.",
                 "hu": "A hatalmas belső tér lenyűgöző, bár télen nagyon hűvös lehet, így a gótikus részletek felfedezése közben is jól jön a több réteges öltözet.",
                 "ro": "Interiorul masiv este uimitor, deși poate fi foarte răcoros iarna, astfel încât hainele în straturi sunt utile în timp ce explorați detaliile gotice.",
-                "en": "The massive interior is stunning, though it can be very cool in winter, so layered clothing comes in handy while exploring the Gothic details."
+                "en": "The massive interior is stunning, though it can be very cool in winter, so layered clothing comes in handy while exploring the Gothic details.",
+                "fr": "L’immense intérieur est impressionnant, bien qu’il puisse être très frais en hiver ; superposer les vêtements est utile pour explorer les détails gothiques."
               }
             },
             {
@@ -274,13 +303,15 @@
                 "de": "Bishop's Garden",
                 "hu": "Püspöki kert",
                 "ro": "Grădina Episcopului",
-                "en": "Bishop's Garden"
+                "en": "Bishop's Garden",
+                "fr": "Jardin de l'Évêché"
               },
               "tip_5lang": {
                 "de": "Das Wintersonnenlicht, das durch die kahlen Bäume filtert, ist magisch. Machen Sie einen flotten Spaziergang, aber meiden Sie die frostigen Bänke.",
                 "hu": "A kopaszodó fák között átszűrődő téli napfény varázslatos, tegyen egy frissítő sétát, de ne időzzön sokat a fagyos padokon ülve.",
                 "ro": "Lumina soarelui de iarnă filtrată prin copacii goi este magică; faceți o plimbare revigorantă, dar evitați să zăboviți pe băncile înghețate.",
-                "en": "The winter sunlight filtering through the bare trees is magical; take a refreshing walk, but avoid lingering too long on the frosty benches."
+                "en": "The winter sunlight filtering through the bare trees is magical; take a refreshing walk, but avoid lingering too long on the frosty benches.",
+                "fr": "La lumière d’hiver filtrant à travers les arbres dépouillés est magique ; faites une promenade revigorante, mais évitez de rester trop longtemps assis sur les bancs givrés."
               }
             },
             {
@@ -288,13 +319,15 @@
                 "de": "Tour des Rondes",
                 "hu": "Tour des Rondes",
                 "ro": "Tour des Rondes",
-                "en": "Tour des Rondes"
+                "en": "Tour des Rondes",
+                "fr": "Tour des Rondes"
               },
               "tip_5lang": {
                 "de": "Kommen Sie in der frühen Dämmerung hierher, um die Lichter auf den historischen Mauern zu bewundern; holen Sie sich vorher einen heißen Tee.",
                 "hu": "Érkezzen ide a korai sötétedés idején, hogy megcsodálja a téli alkonyat fényeit a történelmi falakon, érdemes előtte beülni egy forró teára.",
                 "ro": "Ajungeți aici în amurgul timpuriu pentru a admira luminile iernii pe zidurile istorice; ar fi bine să beți un ceai fierbinte înainte.",
-                "en": "Arrive here during the early dusk to admire the lights of the winter twilight on the historic walls; grab a hot tea before getting here."
+                "en": "Arrive here during the early dusk to admire the lights of the winter twilight on the historic walls; grab a hot tea before getting here.",
+                "fr": "Arrivez ici au crépuscule pour admirer les lumières du couchant hivernal sur les murailles historiques ; prenez un thé chaud avant d'arriver."
               }
             }
           ]
@@ -314,7 +347,8 @@
             "de": "Saint-François Church",
             "hu": "Saint-François templom",
             "ro": "Biserica Saint-François",
-            "en": "Saint-François Church"
+            "en": "Saint-François Church",
+            "fr": "Église Saint-François"
           },
           "coords": [
             1.817101,
@@ -329,7 +363,8 @@
             "de": "Betreten Sie diese ruhige religiöse Stätte, um ihre markanten architektonischen Details zu betrachten, und kommen Sie am besten morgens für das schönste Licht.",
             "hu": "Lépjen be ebbe a nyugodt vallási épületbe, hogy megfigyelhesse lenyűgöző építészeti részleteit, és próbáljon meg a délelőtti órákban érkezni a legjobb fényekért.",
             "ro": "Pășiți în acest lăcaș de cult liniștit pentru a observa detaliile arhitecturale remarcabile și încercați să vizitați dimineața pentru cea mai bună lumină naturală.",
-            "en": "Step inside this tranquil religious site to observe its striking architectural details, and try to visit during the morning hours for the best natural lighting."
+            "en": "Step inside this tranquil religious site to observe its striking architectural details, and try to visit during the morning hours for the best natural lighting.",
+            "fr": "Pénétrez dans ce lieu de culte paisible pour observer ses détails architecturaux remarquables, et essayez de visiter le matin pour la meilleure lumière naturelle."
           }
         },
         {
@@ -337,7 +372,8 @@
             "de": "Tour des Rondes",
             "hu": "Tour des Rondes",
             "ro": "Tour des Rondes",
-            "en": "Tour des Rondes"
+            "en": "Tour des Rondes",
+            "fr": "Tour des Rondes"
           },
           "coords": [
             1.81765,
@@ -352,7 +388,8 @@
             "de": "Bewundern Sie die Überreste der alten Befestigungsanlagen, um die wehrhafte Vergangenheit der Stadt zu verstehen, aber tragen Sie unbedingt bequemes Schuhwerk.",
             "hu": "Csodálja meg a régi erődítmények maradványait, hogy megértse a város védelmi múltját, de mindenképpen kényelmes cipőt viseljen az egyenetlen macskaköveken.",
             "ro": "Admirați rămășițele vechilor fortificații pentru a înțelege trecutul defensiv al orașului, dar asigurați-vă că purtați încălțăminte confortabilă pe piatra cubică.",
-            "en": "Admire the remnants of the old fortifications to understand the town's defensive past, but be sure to wear comfortable shoes for the uneven cobblestones."
+            "en": "Admire the remnants of the old fortifications to understand the town's defensive past, but be sure to wear comfortable shoes for the uneven cobblestones.",
+            "fr": "Admirez les vestiges des anciennes fortifications pour comprendre le passé défensif de la ville, mais veillez à porter des chaussures confortables pour les pavés inégaux."
           }
         },
         {
@@ -360,7 +397,8 @@
             "de": "Saint-Alain Cathedral",
             "hu": "Saint-Alain katedrális",
             "ro": "Catedrala Saint-Alain",
-            "en": "Saint-Alain Cathedral"
+            "en": "Saint-Alain Cathedral",
+            "fr": "Cathédrale Saint-Alain"
           },
           "coords": [
             1.821829,
@@ -375,7 +413,8 @@
             "de": "Erkunden Sie diese gewaltige Backsteinkathedrale, die die Skyline dominiert, und achten Sie besonders auf die kunstvolle Jacquemart-Uhr im imposanten Westturm.",
             "hu": "Fedezze fel ezt a városképet uraló, masszív tégla katedrálist, és fordítson különös figyelmet az impozáns nyugati toronyban rejlő díszes jacquemart órára.",
             "ro": "Explorați această catedrală masivă din cărămidă care domină orizontul, acordând o atenție deosebită ceasului jacquemart ornamentat, ascuns în turnul său vestic.",
-            "en": "Explore this massive brick cathedral that dominates the skyline, paying special attention to the ornate jacquemart clock hidden within its imposing western tower."
+            "en": "Explore this massive brick cathedral that dominates the skyline, paying special attention to the ornate jacquemart clock hidden within its imposing western tower.",
+            "fr": "Explorez cette vaste cathédrale en brique qui domine la silhouette de la ville, en portant une attention particulière à l'ornement du jacquemart caché dans sa imposante tour occidentale."
           }
         },
         {
@@ -383,7 +422,8 @@
             "de": "Bishop's Garden",
             "hu": "Püspöki kert",
             "ro": "Grădina Episcopului",
-            "en": "Bishop's Garden"
+            "en": "Bishop's Garden",
+            "fr": "Jardin de l'Évêque"
           },
           "coords": [
             1.822084,
@@ -398,7 +438,8 @@
             "de": "Entspannen Sie in diesen elegant angelegten Gärten mit Panoramablick auf den Fluss Agout, die den perfekten ruhigen Ort für ein kleines Mittagspicknick bieten.",
             "hu": "Pihenjen ezekben az elegánsan parkosított kertekben, amelyek panorámás kilátást nyújtanak az Agout folyóra, így tökéletes és békés helyszínt biztosítanak egy piknikhez.",
             "ro": "Relaxați-vă în aceste grădini amenajate elegant, care oferă vederi panoramice asupra râului Agout, fiind locul liniștit perfect pentru a savura un mic picnic la amiază.",
-            "en": "Relax in these elegantly landscaped gardens offering panoramic views of the Agout river, making it the perfect peaceful spot to enjoy a small midday picnic."
+            "en": "Relax in these elegantly landscaped gardens offering panoramic views of the Agout river, making it the perfect peaceful spot to enjoy a small midday picnic.",
+            "fr": "Détendez-vous dans ces jardins élégamment aménagés offrant une vue panoramique sur la rivière Agout, l'endroit idéal pour un petit pique-nique de midi paisible."
           }
         },
         {
@@ -406,7 +447,8 @@
             "de": "Ancienne piscine de refroidissement",
             "hu": "Ancienne piscine de refroidissement",
             "ro": "Ancienne piscine de refroidissement",
-            "en": "Ancienne piscine de refroidissement"
+            "en": "Ancienne piscine de refroidissement",
+            "fr": "Ancienne piscine de refroidissement"
           },
           "coords": [
             1.727441,
@@ -421,7 +463,8 @@
             "de": "Entdecken Sie dieses faszinierende Industriedenkmal, das von üppiger Natur zurückerobert wurde, aber bleiben Sie zu Ihrer absoluten Sicherheit auf den Wegen.",
             "hu": "Fedezze fel ezt a buja természet által teljesen visszahódított, lenyűgöző ipari emléket, de a teljes biztonság érdekében maradjon a jól látható, kijelölt utakon.",
             "ro": "Descoperiți această relicvă industrială fascinantă recuperată complet de natura luxuriantă, dar rămâneți pe cărările exterioare clar marcate pentru siguranța dvs.",
-            "en": "Discover this fascinating industrial relic completely reclaimed by lush nature, but stay on the clearly marked outer paths to ensure your absolute safety."
+            "en": "Discover this fascinating industrial relic completely reclaimed by lush nature, but stay on the clearly marked outer paths to ensure your absolute safety.",
+            "fr": "Découvrez cette fascinante relique industrielle entièrement reprise par une nature luxuriante, mais restez sur les sentiers extérieurs clairement balisés pour garantir votre sécurité absolue."
           }
         }
       ],
@@ -429,7 +472,8 @@
         "de": "Radeln Sie morgens zuerst zur Kirche Saint-François, bevor Sie die historische Tour des Rondes erkunden. Der Mittag wird von der majestätischen Kathedrale Saint-Alain und den grünen Wegen des Bischofsgartens dominiert. Nachmittags fahren Sie aus dem Zentrum zur Ancienne piscine de refroidissement, wo Sie die frische Luft und die von der Natur zurückeroberten Industrieruinen genießen.",
         "hu": "Először a Saint-François templomhoz kerekezzen a békés reggelért, majd fedezze fel a történelmi Tour des Rondes-t. A delet a Saint-Alain katedrális fenséges építészete és a Püspöki kert zöldje uralja. Délután tekerjen ki a városközpontból az Ancienne piscine de refroidissement felé, élvezve a friss levegőt és a természet által visszahódított ipari romokat.",
         "ro": "Pedalați mai întâi la Biserica Saint-François pentru o dimineață liniștită, apoi explorați istorica Tour des Rondes. Amiaza este dominată de arhitectura maiestuoasă a Catedralei Saint-Alain și de cărările verzi ale Grădinii Episcopului. După-amiaza, ieșiți din centrul urban către Ancienne piscine de refroidissement, bucurându-vă de aerul proaspăt și de ruinele industriale.",
-        "en": "Pedal first to Saint-François Church for a peaceful morning start, then explore the historic Tour des Rondes. Midday is dominated by the majestic architecture of Saint-Alain Cathedral and the relaxing green paths of the Bishop's Garden. In the afternoon, cycle out of the urban center to the Ancienne piscine de refroidissement, enjoying the fresh air and industrial ruins reclaimed by nature."
+        "en": "Pedal first to Saint-François Church for a peaceful morning start, then explore the historic Tour des Rondes. Midday is dominated by the majestic architecture of Saint-Alain Cathedral and the relaxing green paths of the Bishop's Garden. In the afternoon, cycle out of the urban center to the Ancienne piscine de refroidissement, enjoying the fresh air and industrial ruins reclaimed by nature.",
+        "fr": "Pédalez d'abord jusqu'à l'Église Saint-François pour un début de matinée paisible, puis explorez la Tour des Rondes historique. À midi, laissez-vous impressionner par l'architecture majestueuse de la Cathédrale Saint-Alain et les allées verdoyantes du Jardin de l'Évêque. L'après-midi, sortez du centre-ville à vélo vers l'Ancienne piscine de refroidissement, en profitant de l'air frais et des ruines industrielles reprises par la nature."
       },
       "variants": {
         "rainy": {
@@ -437,7 +481,8 @@
             "de": "An einem regnerischen Morgen fahren wir in wasserdichter Kleidung zur Kirche und zur Festung. Mittags machen wir in der Kathedrale eine lange Pause zum Trocknen. Nachmittags radeln wir auf regennassen Straßen zum Bischofsgarten. Fahren Sie auf nassen Kopfsteinpflastern und Asphalt wegen Rutschgefahr mit äußerster Vorsicht und langsamer.",
             "hu": "Esős reggelen vízálló felszerelésben indulunk a templom és az erődítmény felé. Délben a katedrálisban tartunk egy hosszabb szünetet, hogy megszáradjunk. Délután a Püspöki kert és a régi hűtőmedence felé tekerünk az esőáztatta utakon. A nedves macskaköveken és aszfalton fokozott óvatossággal és lassabban haladjunk az esetleges csúszásveszély miatt.",
             "ro": "Într-o dimineață ploioasă, ne îndreptăm spre biserică și fortăreață în echipament impermeabil. La prânz, facem o pauză lungă în catedrală pentru a ne usca. După-amiaza, pedalăm spre Grădina Episcopului și vechiul bazin pe drumuri îmbibate de ploaie. Mergeți cu extremă prudență și viteză redusă pe pietrișul și asfaltul umed pentru a nu aluneca.",
-            "en": "On a rainy morning, we head to the church and the fortress in waterproof gear. At noon, we take a long break in the cathedral to dry off. In the afternoon, we cycle towards the Bishop's Garden and the old cooling pool on rain-soaked roads. Ride with extreme caution and slower speed on wet cobblestones and asphalt due to the risk of slipping."
+            "en": "On a rainy morning, we head to the church and the fortress in waterproof gear. At noon, we take a long break in the cathedral to dry off. In the afternoon, we cycle towards the Bishop's Garden and the old cooling pool on rain-soaked roads. Ride with extreme caution and slower speed on wet cobblestones and asphalt due to the risk of slipping.",
+            "fr": "Par une matinée pluvieuse, nous nous rendons à l'église et à la forteresse en tenue imperméable. À midi, nous faisons une longue pause dans la cathédrale pour nous sécher. L'après-midi, nous pédalons vers le Jardin de l'Évêque et l'ancienne piscine de refroidissement sur des routes détrempées. Roulez avec une extrême prudence et à vitesse réduite sur les pavés et l'asphalte mouillés en raison du risque de glissade."
           },
           "stops": [
             {
@@ -445,13 +490,15 @@
                 "de": "Saint-François Church",
                 "hu": "Saint-François templom",
                 "ro": "Biserica Saint-François",
-                "en": "Saint-François Church"
+                "en": "Saint-François Church",
+                "fr": "Église Saint-François"
               },
               "tip_5lang": {
                 "de": "Schließen Sie vor der Abfahrt die Reißverschlüsse Ihrer wasserdichten Kleidung und ruhen Sie sich im ruhigen Innenraum vor dem Dauerregen aus.",
                 "hu": "Indulás előtt húzza meg a vízálló ruházat cipzárjait, majd a csendes belső térben pihenjen meg, ahol menedéket talál a folyamatos eső elől.",
                 "ro": "Înainte de a pleca, strângeți fermoarele hainelor impermeabile, apoi odihniți-vă în interiorul liniștit, găsind un adăpost de ploaia continuă.",
-                "en": "Before setting off, tighten the zippers of your waterproof clothing, then rest in the quiet interior, finding shelter from the continuous rain."
+                "en": "Before setting off, tighten the zippers of your waterproof clothing, then rest in the quiet interior, finding shelter from the continuous rain.",
+                "fr": "Avant de partir, serrez les fermetures éclair de vos vêtements imperméables, puis reposez-vous dans le calme intérieur pour vous abriter de la pluie continue."
               }
             },
             {
@@ -459,13 +506,15 @@
                 "de": "Tour des Rondes",
                 "hu": "Tour des Rondes",
                 "ro": "Tour des Rondes",
-                "en": "Tour des Rondes"
+                "en": "Tour des Rondes",
+                "fr": "Tour des Rondes"
               },
               "tip_5lang": {
                 "de": "Die Backsteinmauern wirken im Regen dramatisch, aber schieben Sie Ihr Fahrrad in diesem Bereich über die sehr rutschigen Pflastersteine.",
                 "hu": "Az esőben sötétebbnek tűnő téglafalak drámai látványt nyújtanak, de a környékén tolja a kerékpárt a balesetveszélyes, nagyon csúszós köveken.",
                 "ro": "Zidurile de cărămidă arată dramatic în ploaie, dar împingeți-vă bicicleta în această zonă pe pietrele de pavaj foarte alunecoase și periculoase.",
-                "en": "The brick walls look dramatic in the rain, but push your bike around this area on the hazardous and very slippery wet cobblestones."
+                "en": "The brick walls look dramatic in the rain, but push your bike around this area on the hazardous and very slippery wet cobblestones.",
+                "fr": "Les murs de brique ont un aspect dramatique sous la pluie, mais poussez votre vélo autour de cette zone en raison des pavés mouillés très glissants et dangereux."
               }
             },
             {
@@ -473,13 +522,15 @@
                 "de": "Saint-Alain Cathedral",
                 "hu": "Saint-Alain katedrális",
                 "ro": "Catedrala Saint-Alain",
-                "en": "Saint-Alain Cathedral"
+                "en": "Saint-Alain Cathedral",
+                "fr": "Cathédrale Saint-Alain"
               },
               "tip_5lang": {
                 "de": "Das riesige Gebäude ist bei starken Schauern ein perfekter Unterschlupf. Bewundern Sie die Gotik, während sich das Wetter draußen leicht bessert.",
                 "hu": "A hatalmas épület tökéletes menedék a záporok idején, csodálja meg a gótikus belső teret, amíg az időjárás odakint kicsit javulni kezd.",
                 "ro": "Clădirea imensă este un adăpost perfect în timpul averselor abundente; admirați interiorul gotic în timp ce vremea se îmbunătățește afară.",
-                "en": "The huge building is a perfect shelter during heavy showers; admire the Gothic interior while the weather starts to improve slightly outside."
+                "en": "The huge building is a perfect shelter during heavy showers; admire the Gothic interior while the weather starts to improve slightly outside.",
+                "fr": "Le vaste bâtiment constitue un abri parfait pendant les fortes averses ; admirez l'intérieur gothique pendant que le temps commence légèrement à s'améliorer dehors."
               }
             },
             {
@@ -487,13 +538,15 @@
                 "de": "Bishop's Garden",
                 "hu": "Püspöki kert",
                 "ro": "Grădina Episcopului",
-                "en": "Bishop's Garden"
+                "en": "Bishop's Garden",
+                "fr": "Jardin de l'Évêque"
               },
               "tip_5lang": {
                 "de": "Ein frischer, grüner Duft erfüllt den Garten im Regen; lassen Sie Ihr Fahrrad am Eingang stehen und machen Sie einen kurzen Spaziergang.",
                 "hu": "Az esőben friss, zöld illat tölti meg a kertet; a kerékpárt hagyja biztonságban a bejáratnál, és tegyen egy rövid sétát egy jó esernyővel.",
                 "ro": "Un parfum proaspăt umple grădina în ploaie; lăsați-vă bicicleta în siguranță la intrare și faceți o scurtă plimbare cu o umbrelă bună.",
-                "en": "A fresh, green scent fills the garden in the rain; leave your bike safely at the entrance and take a short walk with a good sturdy umbrella."
+                "en": "A fresh, green scent fills the garden in the rain; leave your bike safely at the entrance and take a short walk with a good sturdy umbrella.",
+                "fr": "Un parfum frais et végétal emplit le jardin sous la pluie ; laissez votre vélo à l'entrée et effectuez une courte promenade avec un bon parapluie solide."
               }
             },
             {
@@ -501,13 +554,15 @@
                 "de": "Ancienne piscine de refroidissement",
                 "hu": "Ancienne piscine de refroidissement",
                 "ro": "Ancienne piscine de refroidissement",
-                "en": "Ancienne piscine de refroidissement"
+                "en": "Ancienne piscine de refroidissement",
+                "fr": "Ancienne piscine de refroidissement"
               },
               "tip_5lang": {
                 "de": "Die Ruine des Außenpools ist auch im Regen ein interessantes Fotomotiv, aber der nasse Industriebeton an den Rändern kann extrem rutschig sein.",
                 "hu": "A szabadtéri medencemaradvány az esőben is kifejezetten érdekes fotótéma, de a peremek mentén a vizes ipari beton nagyon csúszós lehet.",
                 "ro": "Ruinele piscinei sunt un loc foto interesant chiar și în ploaie, dar betonul industrial umed de-a lungul marginilor poate fi foarte alunecos.",
-                "en": "The outdoor pool ruins are a very interesting photo spot even in the rain, but the wet industrial concrete along the edges can be very slippery."
+                "en": "The outdoor pool ruins are a very interesting photo spot even in the rain, but the wet industrial concrete along the edges can be very slippery.",
+                "fr": "Les ruines de la piscine extérieure sont un très bel endroit pour des photos même sous la pluie, mais le béton industriel mouillé le long des bords peut être très glissant."
               }
             }
           ]
@@ -517,7 +572,8 @@
             "de": "An einem eisigen Wintermorgen radeln wir gut gekleidet zu den historischen Denkmälern. Bewundern Sie mittags das Wintersonnenlicht in der Kathedrale. Am Nachmittag fahren Sie vom Bischofsgarten zum alten Kühlbecken am Stadtrand. Rechnen Sie wegen der kurzen Tage damit, die letzte Etappe in der Dämmerung zurückzulegen; gute Lichter sind unerlässlich.",
             "hu": "Fagyos téli reggelen jól felöltözve tekerünk Lavaur történelmi emlékeihez. Délben a katedrális óriási terében csodálhatjuk meg a téli napfény játékát. Délután a Püspöki kertből a város szélére, a régi hűtőmedencéhez hajtunk. A rövid nappalok miatt számoljon azzal, hogy az utolsó szakaszt már hideg szürkületben teszi meg, így elengedhetetlen a jó lámpa és a fényvisszaverő ruha.",
             "ro": "Într-o dimineață geroasă, bine îmbrăcați, pedalăm spre monumentele istorice din Lavaur. La prânz, admirați lumina soarelui de iarnă în catedrală. După-amiaza, mergeți de la Grădina Episcopului la vechiul bazin de la periferie. Din cauza zilelor scurte, ultima etapă va fi în crepusculul rece, luminile bune și hainele reflectorizante fiind esențiale.",
-            "en": "On a frosty winter morning, well dressed, we cycle to Lavaur's historic monuments. At noon, admire the play of winter sunlight in the cathedral. In the afternoon, ride from the Bishop's Garden to the old cooling pool on the outskirts. Due to short days, expect to do the last leg in cold twilight, making good lights and reflective clothing essential."
+            "en": "On a frosty winter morning, well dressed, we cycle to Lavaur's historic monuments. At noon, admire the play of winter sunlight in the cathedral. In the afternoon, ride from the Bishop's Garden to the old cooling pool on the outskirts. Due to short days, expect to do the last leg in cold twilight, making good lights and reflective clothing essential.",
+            "fr": "Par une froide matinée d'hiver, bien habillés, nous pédalons vers les monuments historiques de Lavaur. À midi, admirez le jeu de la lumière hivernale dans la cathédrale. L'après-midi, roulez du Jardin de l'Évêque jusqu'à l'ancienne piscine de refroidissement en périphérie. En raison des journées courtes, prévoyez d'effectuer le dernier tronçon dans le crépuscule froid ; de bons éclairages et des vêtements réfléchissants sont essentiels."
           },
           "stops": [
             {
@@ -525,13 +581,15 @@
                 "de": "Saint-François Church",
                 "hu": "Saint-François templom",
                 "ro": "Biserica Saint-François",
-                "en": "Saint-François Church"
+                "en": "Saint-François Church",
+                "fr": "Église Saint-François"
               },
               "tip_5lang": {
                 "de": "Nach dem beißenden Fahrtwind tut die Ruhe der Kirche gut; bewundern Sie das puritanische Innere, aber behalten Sie Ihre Fahrradjacke an.",
                 "hu": "A csípős menetszél után nagyon jól esik a templom nyugalma, csodálja meg a puritán belső teret, de ne vegye le a téli kerékpáros dzsekit.",
                 "ro": "După vântul aspru, liniștea bisericii este foarte binevenită; admirați interiorul puritan, dar nu vă scoateți jacheta groasă de ciclism.",
-                "en": "After the biting headwind, the tranquility of the church is highly welcome; admire the puritan interior but don't take off your cycling jacket."
+                "en": "After the biting headwind, the tranquility of the church is highly welcome; admire the puritan interior but don't take off your cycling jacket.",
+                "fr": "Après le vent glacial de face, la tranquillité de l'église est la bienvenue ; admirez l'intérieur puritain mais ne retirez pas votre veste de cycliste."
               }
             },
             {
@@ -539,13 +597,15 @@
                 "de": "Tour des Rondes",
                 "hu": "Tour des Rondes",
                 "ro": "Tour des Rondes",
-                "en": "Tour des Rondes"
+                "en": "Tour des Rondes",
+                "fr": "Tour des Rondes"
               },
               "tip_5lang": {
                 "de": "In der eisigen Luft zeichnen sich die Festungsmauern scharf ab; tragen Sie gefütterte Handschuhe auf den holprigen Kopfsteinpflasterstraßen.",
                 "hu": "A fagyos levegőben élesen kirajzolódnak az erőd falai; viseljen bélelt, meleg kesztyűt, miközben a rázós, macskaköves utakon halad idefelé.",
                 "ro": "Zidurile fortăreței se profilează clar în aerul înghețat; purtați mănuși călduroase căptușite în timp ce pedalați pe drumurile pavate.",
-                "en": "The fortress walls stand out sharply in the freezing air; wear lined, warm gloves while cycling towards here on the bumpy cobblestone roads."
+                "en": "The fortress walls stand out sharply in the freezing air; wear lined, warm gloves while cycling towards here on the bumpy cobblestone roads.",
+                "fr": "Les murs de la forteresse se détachent nettement dans l'air glacial ; portez des gants doublés et chauds en vous rendant ici sur les routes pavées bosselées."
               }
             },
             {
@@ -553,13 +613,15 @@
                 "de": "Saint-Alain Cathedral",
                 "hu": "Saint-Alain katedrális",
                 "ro": "Catedrala Saint-Alain",
-                "en": "Saint-Alain Cathedral"
+                "en": "Saint-Alain Cathedral",
+                "fr": "Cathédrale Saint-Alain"
               },
               "tip_5lang": {
                 "de": "Die Wintersonne beleuchtet die Buntglasfenster aus einem flachen Winkel; der Innenraum ist kühl, behalten Sie Ihre warmen Schichten an.",
                 "hu": "A téli nap alacsony szögből világítja meg az ólomüveg ablakokat; a hatalmas belső tér hűvös, tartsa magán a meleg rétegeket a pihenő alatt is.",
                 "ro": "Soarele de iarnă luminează vitraliile dintr-un unghi jos; interiorul uriaș este destul de răcoros, așa că păstrați-vă straturile calde pe dvs.",
-                "en": "The winter sun illuminates the stained glass from a low angle; the huge interior is quite chilly, so keep your warm layers on during the break."
+                "en": "The winter sun illuminates the stained glass from a low angle; the huge interior is quite chilly, so keep your warm layers on during the break.",
+                "fr": "Le soleil d'hiver illumine les vitraux sous un angle bas ; l'immense intérieur est assez froid, gardez donc vos couches chaudes pendant la pause."
               }
             },
             {
@@ -567,13 +629,15 @@
                 "de": "Bishop's Garden",
                 "hu": "Püspöki kert",
                 "ro": "Grădina Episcopului",
-                "en": "Bishop's Garden"
+                "en": "Bishop's Garden",
+                "fr": "Jardin de l'Évêque"
               },
               "tip_5lang": {
                 "de": "Durch die kahlen Bäume hat man einen tollen Blick auf den kalten Fluss Agout. Machen Sie einen kurzen Spaziergang, um sich aufzuwärmen.",
                 "hu": "A csupasz fák engedik érvényesülni a kilátást a hideg Agout folyóra; tegyen egy gyors gyalogos sétát, hogy felmelegedjen a tekerés után.",
                 "ro": "Copacii goi permit ca vederea către râul rece Agout să iasă în evidență; faceți o plimbare rapidă pentru a vă încălzi complet după pedalat.",
-                "en": "The bare trees allow the view of the cold Agout river to stand out; take a quick walking stroll to warm up completely after the cycling ride."
+                "en": "The bare trees allow the view of the cold Agout river to stand out; take a quick walking stroll to warm up completely after the cycling ride.",
+                "fr": "Les arbres dénudés permettent de mieux voir la rivière Agout froide ; faites une courte promenade à pied pour vous réchauffer complètement après la balade à vélo."
               }
             },
             {
@@ -581,13 +645,15 @@
                 "de": "Ancienne piscine de refroidissement",
                 "hu": "Ancienne piscine de refroidissement",
                 "ro": "Ancienne piscine de refroidissement",
-                "en": "Ancienne piscine de refroidissement"
+                "en": "Ancienne piscine de refroidissement",
+                "fr": "Ancienne piscine de refroidissement"
               },
               "tip_5lang": {
                 "de": "Die starre Betonkonstruktion wirkt in der Winterlandschaft noch industrieller; fahren Sie vor der frühen, eisigen Dunkelheit zurück in die Stadt.",
                 "hu": "A rideg betonkonstrukció a téli tájban még iparibb hatást kelt; induljon vissza a városba még a kora esti, fagyos sötétedés beállta előtt.",
                 "ro": "Structura rigidă de beton creează un efect industrial în peisajul de iarnă; întoarceți-vă în oraș înainte de lăsarea întunericului rece.",
-                "en": "The rigid concrete structure creates an even more industrial effect in the winter landscape; head back before the early evening, freezing dark."
+                "en": "The rigid concrete structure creates an even more industrial effect in the winter landscape; head back before the early evening, freezing dark.",
+                "fr": "La structure rigide en béton accentue l'effet industriel dans le paysage hivernal ; rentrez avant la tombée rapide de la nuit froide."
               }
             }
           ]
@@ -607,7 +673,8 @@
             "de": "Tour des Rondes",
             "hu": "Tour des Rondes",
             "ro": "Tour des Rondes",
-            "en": "Tour des Rondes"
+            "en": "Tour des Rondes",
+            "fr": "Tour des Rondes"
           },
           "coords": [
             1.81765,
@@ -622,7 +689,8 @@
             "de": "Bewundern Sie die Überreste der alten Befestigungsanlagen, um die wehrhafte Vergangenheit der Stadt zu verstehen, aber tragen Sie unbedingt bequemes Schuhwerk.",
             "hu": "Csodálja meg a régi erődítmények maradványait, hogy megértse a város védelmi múltját, de mindenképpen kényelmes cipőt viseljen az egyenetlen macskaköveken.",
             "ro": "Admirați rămășițele vechilor fortificații pentru a înțelege trecutul defensiv al orașului, dar asigurați-vă că purtați încălțăminte confortabilă pe piatra cubică.",
-            "en": "Admire the remnants of the old fortifications to understand the town's defensive past, but be sure to wear comfortable shoes for the uneven cobblestones."
+            "en": "Admire the remnants of the old fortifications to understand the town's defensive past, but be sure to wear comfortable shoes for the uneven cobblestones.",
+            "fr": "Admirez les vestiges des anciennes fortifications pour comprendre le passé défensif de la ville, mais veillez à porter des chaussures confortables pour les pavés inégaux."
           }
         },
         {
@@ -630,7 +698,8 @@
             "de": "Saint-Alain Cathedral",
             "hu": "Saint-Alain katedrális",
             "ro": "Catedrala Saint-Alain",
-            "en": "Saint-Alain Cathedral"
+            "en": "Saint-Alain Cathedral",
+            "fr": "Cathédrale Saint-Alain"
           },
           "coords": [
             1.821829,
@@ -645,7 +714,8 @@
             "de": "Erkunden Sie diese gewaltige Backsteinkathedrale, die die Skyline dominiert, und achten Sie besonders auf die kunstvolle Jacquemart-Uhr im imposanten Westturm.",
             "hu": "Fedezze fel ezt a városképet uraló, masszív tégla katedrálist, és fordítson különös figyelmet az impozáns nyugati toronyban rejlő díszes jacquemart órára.",
             "ro": "Explorați această catedrală masivă din cărămidă care domină orizontul, acordând o atenție deosebită ceasului jacquemart ornamentat, ascuns în turnul său vestic.",
-            "en": "Explore this massive brick cathedral that dominates the skyline, paying special attention to the ornate jacquemart clock hidden within its imposing western tower."
+            "en": "Explore this massive brick cathedral that dominates the skyline, paying special attention to the ornate jacquemart clock hidden within its imposing western tower.",
+            "fr": "Explorez cette vaste cathédrale en brique qui domine la silhouette de la ville, en portant une attention particulière à l'ornement du jacquemart caché dans sa imposante tour occidentale."
           }
         },
         {
@@ -653,7 +723,8 @@
             "de": "Bishop's Garden",
             "hu": "Püspöki kert",
             "ro": "Grădina Episcopului",
-            "en": "Bishop's Garden"
+            "en": "Bishop's Garden",
+            "fr": "Jardin de l'Évêque"
           },
           "coords": [
             1.822084,
@@ -668,7 +739,8 @@
             "de": "Entspannen Sie in diesen elegant angelegten Gärten mit Panoramablick auf den Fluss Agout, die den perfekten ruhigen Ort für ein kleines Mittagspicknick bieten.",
             "hu": "Pihenjen ezekben az elegánsan parkosított kertekben, amelyek panorámás kilátást nyújtanak az Agout folyóra, így tökéletes és békés helyszínt biztosítanak egy piknikhez.",
             "ro": "Relaxați-vă în aceste grădini amenajate elegant, care oferă vederi panoramice asupra râului Agout, fiind locul liniștit perfect pentru a savura un mic picnic la amiază.",
-            "en": "Relax in these elegantly landscaped gardens offering panoramic views of the Agout river, making it the perfect peaceful spot to enjoy a small midday picnic."
+            "en": "Relax in these elegantly landscaped gardens offering panoramic views of the Agout river, making it the perfect peaceful spot to enjoy a small midday picnic.",
+            "fr": "Détendez-vous dans ces jardins élégamment aménagés offrant une vue panoramique sur la rivière Agout, l'endroit idéal pour un petit pique-nique de midi paisible."
           }
         },
         {
@@ -676,7 +748,8 @@
             "de": "Ancienne piscine de refroidissement",
             "hu": "Ancienne piscine de refroidissement",
             "ro": "Ancienne piscine de refroidissement",
-            "en": "Ancienne piscine de refroidissement"
+            "en": "Ancienne piscine de refroidissement",
+            "fr": "Ancienne piscine de refroidissement"
           },
           "coords": [
             1.727441,
@@ -691,7 +764,8 @@
             "de": "Entdecken Sie dieses faszinierende Industriedenkmal, das von üppiger Natur zurückerobert wurde, aber bleiben Sie zu Ihrer absoluten Sicherheit auf den Wegen.",
             "hu": "Fedezze fel ezt a buja természet által teljesen visszahódított, lenyűgöző ipari emléket, de a teljes biztonság érdekében maradjon a jól látható, kijelölt utakon.",
             "ro": "Descoperiți această relicvă industrială fascinantă recuperată complet de natura luxuriantă, dar rămâneți pe cărările exterioare clar marcate pentru siguranța dvs.",
-            "en": "Discover this fascinating industrial relic completely reclaimed by lush nature, but stay on the clearly marked outer paths to ensure your absolute safety."
+            "en": "Discover this fascinating industrial relic completely reclaimed by lush nature, but stay on the clearly marked outer paths to ensure your absolute safety.",
+            "fr": "Découvrez cette fascinante relique industrielle entièrement reprise par une nature luxuriante, mais restez sur les sentiers extérieurs clairement balisés pour garantir votre sécurité absolue."
           }
         },
         {
@@ -699,7 +773,8 @@
             "de": "Retenue de Briax",
             "hu": "Retenue de Briax",
             "ro": "Retenue de Briax",
-            "en": "Retenue de Briax"
+            "en": "Retenue de Briax",
+            "fr": "Retenue de Briax"
           },
           "coords": [
             1.775161,
@@ -714,7 +789,8 @@
             "de": "Machen Sie einen gemütlichen Spaziergang um diesen weitläufigen Stausee, der die lokale Vogelwelt anzieht, und bringen Sie Ihr Fernglas für Vogelbeobachtungen mit.",
             "hu": "Tegyen egy kényelmes sétát e kiterjedt természetes víztározó körül, amely vonzza a helyi madárvilágot, és hozzon magával távcsövet a kiváló reggeli madárleshez.",
             "ro": "Faceți o plimbare relaxantă în jurul acestui rezervor natural extins care atrage păsările locale și aduceți-vă binoclul pentru o sesiune excelentă de ornitologie.",
-            "en": "Take a leisurely stroll around this expansive natural reservoir that attracts local birdlife, and bring your binoculars for some excellent morning birdwatching."
+            "en": "Take a leisurely stroll around this expansive natural reservoir that attracts local birdlife, and bring your binoculars for some excellent morning birdwatching.",
+            "fr": "Faites une promenade tranquille autour de ce vaste réservoir naturel qui attire la faune aviaire locale, et apportez vos jumelles pour un excellent observatoire matinal des oiseaux."
           }
         },
         {
@@ -722,7 +798,8 @@
             "de": "Lac du Messal",
             "hu": "Lac du Messal",
             "ro": "Lac du Messal",
-            "en": "Lac du Messal"
+            "en": "Lac du Messal",
+            "fr": "Lac du Messal"
           },
           "coords": [
             1.81149,
@@ -737,7 +814,8 @@
             "de": "Genießen Sie das ruhige Wasser dieses stillen, ländlichen Sees, der sich ideal für eine kurze erholsame Pause eignet, bevor es zurück in die geschäftige Stadt geht.",
             "hu": "Élvezze ennek a csendes, vidéki tónak a nyugodt vizét, amely ideális egy rövid, frissítő pihenőhöz, mielőtt visszaindulna a nyüzsgő városközpont felé.",
             "ro": "Bucurați-vă de apele senine ale acestui lac local liniștit, cuibărit în mediul rural, ideal pentru o scurtă pauză revigorantă înainte de a vă întoarce în oraș.",
-            "en": "Enjoy the serene waters of this quiet local lake nestled in the countryside, ideal for a short restorative break before heading back towards the bustling town."
+            "en": "Enjoy the serene waters of this quiet local lake nestled in the countryside, ideal for a short restorative break before heading back towards the bustling town.",
+            "fr": "Profitez des eaux sereines de ce lac local tranquille niché dans la campagne, idéal pour une courte pause ressourçante avant de retourner vers la ville animée."
           }
         },
         {
@@ -745,7 +823,8 @@
             "de": "Lac de pêche du Gîte de Ségur",
             "hu": "Lac de pêche du Gîte de Ségur",
             "ro": "Lac de pêche du Gîte de Ségur",
-            "en": "Lac de pêche du Gîte de Ségur"
+            "en": "Lac de pêche du Gîte de Ségur",
+            "fr": "Lac de pêche du Gîte de Ségur"
           },
           "coords": [
             1.869911,
@@ -760,7 +839,8 @@
             "de": "Beenden Sie Ihre ländliche Autofahrt an diesem malerischen, von ruhigen Wäldern umgebenen Angelsee, der sich perfekt für wunderschöne Fotos im späten Nachmittagslicht eignet.",
             "hu": "Fejezze be vidéki autós körtúráját ennél a csendes erdőkkel körülvett, festői horgásztónál, amely tökéletes gyönyörű fényképek készítéséhez a késő délutáni fényben.",
             "ro": "Încheiați-vă traseul rural la acest lac de pescuit pitoresc înconjurat de păduri liniștite, perfect pentru a face fotografii superbe în lumina de la sfârșitul după-amiezii.",
-            "en": "End your rural driving loop at this picturesque fishing lake surrounded by calm woodlands, perfect for taking beautiful photographs in the late afternoon light."
+            "en": "End your rural driving loop at this picturesque fishing lake surrounded by calm woodlands, perfect for taking beautiful photographs in the late afternoon light.",
+            "fr": "Terminez votre boucle rurale en voiture à ce pittoresque lac de pêche entouré de bois calmes, parfait pour de belles photographies en fin d'après‑midi."
           }
         }
       ],
@@ -768,7 +848,8 @@
         "de": "Fahren Sie ins Herz von Lavaur, um die Tour des Rondes, die Kathedrale und den Bischofsgarten zu bewundern. Mittags geht es abseits der Pfade zur faszinierenden Ancienne piscine de refroidissement und zur weiten Retenue de Briax. Der Nachmittag entfaltet sich in der ruhigen Landschaft am Lac du Messal. Der Abend senkt sich malerisch über die ruhigen Gewässer des Angelsee Gîte de Ségur.",
         "hu": "Autózzon Lavaur szívébe, hogy megcsodálja a Tour des Rondes-t, a katedrálist és a Püspöki kertet. Délben letér a kitaposott útról a lenyűgöző Ancienne piscine de refroidissement és a tágas Retenue de Briax felé. A délután a nyugodt vidéki tájakon bontakozik ki, megállva a Lac du Messal-nál. Az este gyönyörűen ereszkedik le a Lac de pêche du Gîte de Ségur csendes vizeire.",
         "ro": "Conduceți în inima orașului Lavaur pentru a admira Tour des Rondes, Catedrala și Grădina Episcopului. Amiaza vă poartă spre fascinanta Ancienne piscine de refroidissement și vasta Retenue de Briax. După-amiaza se desfășoară prin peisajele rurale senine, cu o pauză la Lac du Messal. Seara se lasă frumos peste apele liniștite de la Lac de pêche du Gîte de Ségur.",
-        "en": "Drive into the heart of Lavaur to marvel at the Tour des Rondes, the Cathedral, and the Bishop's Garden. Midday takes you off the beaten path to the fascinating Ancienne piscine de refroidissement and the vast Retenue de Briax. The afternoon unfolds across the serene rural landscapes, pausing at Lac du Messal. Evening falls beautifully over the calm waters of Lac de pêche du Gîte de Ségur."
+        "en": "Drive into the heart of Lavaur to marvel at the Tour des Rondes, the Cathedral, and the Bishop's Garden. Midday takes you off the beaten path to the fascinating Ancienne piscine de refroidissement and the vast Retenue de Briax. The afternoon unfolds across the serene rural landscapes, pausing at Lac du Messal. Evening falls beautifully over the calm waters of Lac de pêche du Gîte de Ségur.",
+        "fr": "Entrez au cœur de Lavaur pour admirer la Tour des Rondes, la Cathédrale et le Jardin de l'Évêque. À midi, partez hors des sentiers battus vers l'Ancienne piscine de refroidissement et la vaste Retenue de Briax. L'après-midi se déroule à travers les paysages ruraux sereins, avec une halte au Lac du Messal. La soirée tombe magnifiquement sur les eaux calmes du Lac de pêche du Gîte de Ségur."
       },
       "variants": {
         "rainy": {
@@ -776,7 +857,8 @@
             "de": "Wir beginnen den regnerischen Tag mit dem Besuch der Stadtmauern und der Kathedrale. Mittags fahren wir nach dem Bischofsgarten zum alten Kühlbecken. Am Nachmittag bewundern wir die umliegenden Seen (Briax, Messal, Ségur) aus dem Schutz des Autos zwischen den Schauern. Fahren Sie vorsichtig auf den aufgeweichten, von nassem Laub bedeckten Landstraßen.",
             "hu": "Az esős napot a városfalak és a lenyűgöző katedrális meglátogatásával kezdjük. Délben a Püspöki kert után a régi hűtőmedence felé vesszük az irányt kocsival. Délután a környékbeli tavakat (Briax, Messal, Ségur) az autó menedékéből csodáljuk meg a záporok között. Vezessen óvatosan a felázott, sárral és őszi-téli falevelekkel borított vidéki utakon a város peremén.",
             "ro": "Începem ziua ploioasă vizitând zidurile orașului și uimitoarea catedrală. La prânz, după Grădina Episcopului, conducem spre vechiul bazin de răcire. După-amiaza, admirăm lacurile din jur (Briax, Messal, Ségur) din adăpostul mașinii, între averse. Conduceți cu prudență pe drumurile rurale îmbibate cu noroi și frunze umede de la periferia orașului.",
-            "en": "We start the rainy day visiting the city walls and the stunning cathedral. At noon, after the Bishop's Garden, we drive towards the old cooling pool. In the afternoon, we admire the surrounding lakes (Briax, Messal, Ségur) from the shelter of the car between showers. Drive carefully on the soggy rural roads covered with mud and wet leaves on the city's outskirts."
+            "en": "We start the rainy day visiting the city walls and the stunning cathedral. At noon, after the Bishop's Garden, we drive towards the old cooling pool. In the afternoon, we admire the surrounding lakes (Briax, Messal, Ségur) from the shelter of the car between showers. Drive carefully on the soggy rural roads covered with mud and wet leaves on the city's outskirts.",
+            "fr": "Nous commençons la journée pluvieuse en visitant les remparts et la cathédrale spectaculaire. À midi, après le Jardin de l'Évêque, nous prenons la route vers l'ancienne piscine de refroidissement. L'après-midi, nous admirons les lacs environnants (Briax, Messal, Ségur) depuis l'abri de la voiture entre les averses. Conduisez prudemment sur les routes rurales détrempées couvertes de boue et de feuilles mouillées à la périphérie de la ville."
           },
           "stops": [
             {
@@ -784,13 +866,15 @@
                 "de": "Tour des Rondes",
                 "hu": "Tour des Rondes",
                 "ro": "Tour des Rondes",
-                "en": "Tour des Rondes"
+                "en": "Tour des Rondes",
+                "fr": "Tour des Rondes"
               },
               "tip_5lang": {
                 "de": "Unter den Bögen der massiven Mauern können Sie schnell dem Regen entfliehen, aber achten Sie auf die nassen und rutschigen Steine vom Parkplatz.",
                 "hu": "Az eső elől gyorsan bemenekülhet a masszív falak boltívei alá, de a parkolótól odáig vigyázzon a vizes köveken, mert nagyon csúszósak.",
                 "ro": "Vă puteți refugia rapid de ploaie sub arcadele zidurilor masive, dar aveți grijă la pietrele umede dinspre parcare, acestea sunt alunecoase.",
-                "en": "You can quickly escape the rain under the arches of the massive walls, but watch out on the wet stones from the parking lot, they are slippery."
+                "en": "You can quickly escape the rain under the arches of the massive walls, but watch out on the wet stones from the parking lot, they are slippery.",
+                "fr": "Vous pouvez rapidement vous abriter de la pluie sous les arches des murs massifs, mais méfiez-vous des pierres mouillées depuis le parking : elles sont glissantes."
               }
             },
             {
@@ -798,13 +882,15 @@
                 "de": "Saint-Alain Cathedral",
                 "hu": "Saint-Alain katedrális",
                 "ro": "Catedrala Saint-Alain",
-                "en": "Saint-Alain Cathedral"
+                "en": "Saint-Alain Cathedral",
+                "fr": "Cathédrale Saint-Alain"
               },
               "tip_5lang": {
                 "de": "Der geräumige, trockene Innenraum ist ein idealer Schutz bei starkem Regen; nutzen Sie die Zeit, um die faszinierende Backsteingotik zu studieren.",
                 "hu": "A tágas, száraz belső tér ideális menedék egy nagyobb esőzés idején; használja ki az időt a lenyűgöző téglagótika alapos tanulmányozására.",
                 "ro": "Interiorul spațios și uscat este un adăpost ideal în timpul unei furtuni; folosiți timpul pentru a studia detaliile fascinante ale goticului.",
-                "en": "The spacious, dry interior is an ideal shelter during a major rainstorm; use the time to thoroughly study the fascinating brick Gothic details."
+                "en": "The spacious, dry interior is an ideal shelter during a major rainstorm; use the time to thoroughly study the fascinating brick Gothic details.",
+                "fr": "L'intérieur spacieux et sec est un refuge idéal pendant une forte averse ; profitez-en pour étudier en détail les fascinants éléments de brique gothique."
               }
             },
             {
@@ -812,13 +898,15 @@
                 "de": "Bishop's Garden",
                 "hu": "Püspöki kert",
                 "ro": "Grădina Episcopului",
-                "en": "Bishop's Garden"
+                "en": "Bishop's Garden",
+                "fr": "Jardin de l'Évêque"
               },
               "tip_5lang": {
                 "de": "Bei Regen erstrahlt der Park in frischen grünen Farben; parken Sie das Auto in der Nähe und machen Sie einen Spaziergang auf den befestigten Wegen.",
                 "hu": "Esőben a park üde zöld színben pompázik; az autót hagyja a közelben és tegyen egy felfrissítő sétát esernyővel a szélesebb, kövezett utakon.",
                 "ro": "În ploaie, parcul capătă culori verzi proaspete; lăsați mașina în apropiere și faceți o plimbare răcoritoare cu o umbrelă pe aleile pavate.",
-                "en": "In the rain, the park bursts in fresh green colors; leave the car nearby and take a refreshing walk with an umbrella on the wider paved paths."
+                "en": "In the rain, the park bursts in fresh green colors; leave the car nearby and take a refreshing walk with an umbrella on the wider paved paths.",
+                "fr": "Sous la pluie, le parc explose en verts frais ; garez la voiture à proximité et faites une promenade revigorante avec un parapluie sur les larges allées pavées."
               }
             },
             {
@@ -826,13 +914,15 @@
                 "de": "Ancienne piscine de refroidissement",
                 "hu": "Ancienne piscine de refroidissement",
                 "ro": "Ancienne piscine de refroidissement",
-                "en": "Ancienne piscine de refroidissement"
+                "en": "Ancienne piscine de refroidissement",
+                "fr": "Ancienne piscine de refroidissement"
               },
               "tip_5lang": {
                 "de": "Wenn Sie aus dem warmen Auto steigen, werfen Sie einen kurzen Blick auf das nasse Industriemonster, das bei diesem Regenwetter besonders düster wirkt.",
                 "hu": "Az autó melegéből kilépve csak röviden tekintse meg a vizes ipari monstrumot, amely ilyen esős, komor időben különösen zord képet mutat.",
                 "ro": "Ieșind din mașina caldă, aruncați o scurtă privire la monstrul industrial umed, care pare deosebit de sumbru pe o vreme atât de ploioasă.",
-                "en": "Stepping out of the warm car, take a brief look at the wet industrial monster, which looks especially grim in such rainy, gloomy weather."
+                "en": "Stepping out of the warm car, take a brief look at the wet industrial monster, which looks especially grim in such rainy, gloomy weather.",
+                "fr": "En sortant de la voiture chauffée, jetez un bref coup d'œil à ce monstre industriel mouillé, qui a un aspect particulièrement sinistre par un temps gris et pluvieux."
               }
             },
             {
@@ -840,13 +930,15 @@
                 "de": "Retenue de Briax",
                 "hu": "Retenue de Briax",
                 "ro": "Retenue de Briax",
-                "en": "Retenue de Briax"
+                "en": "Retenue de Briax",
+                "fr": "Retenue de Briax"
               },
               "tip_5lang": {
                 "de": "Anstatt im Regen um den schlammigen See zu laufen, betrachten Sie das Wasser aus dem Auto oder wagen Sie sich nur in wasserdichten Schuhen hinaus.",
                 "hu": "A sáros tó körüli séta helyett esőben érdemes magából az autóból szemlélni a víztükröt, vagy csak a kiépített pontokig merészkedni vízálló cipőben.",
                 "ro": "În loc să mergeți în jurul lacului noroios în ploaie, priviți apa din mașină sau aventurați-vă doar spre punctele amenajate în pantofi impermeabili.",
-                "en": "Instead of walking around the muddy lake in the rain, view the water from the car, or only venture to built-up points in waterproof shoes."
+                "en": "Instead of walking around the muddy lake in the rain, view the water from the car, or only venture to built-up points in waterproof shoes.",
+                "fr": "Plutôt que de faire le tour du lac boueux sous la pluie, admirez l'eau depuis la voiture, ou n'aventurez-vous qu'aux points aménagés en chaussures imperméables."
               }
             },
             {
@@ -854,13 +946,15 @@
                 "de": "Lac du Messal",
                 "hu": "Lac du Messal",
                 "ro": "Lac du Messal",
-                "en": "Lac du Messal"
+                "en": "Lac du Messal",
+                "fr": "Lac du Messal"
               },
               "tip_5lang": {
                 "de": "Das Rauschen der Natur ist auch im Regen fesselnd; nehmen Sie einen guten Regenmantel mit, wenn Sie für ein schnelles Foto aus dem Auto steigen.",
                 "hu": "A természet zúgása esőben is megkapó; vigyen magával egy jó esőkabátot, ha mégis kiszállna a kocsiból egy rövid fotózásra a nedves tóparton.",
                 "ro": "Murmurul naturii este captivant și în ploaie; luați o pelerină bună de ploaie dacă ieșiți din mașină pentru o fotografie pe malul umed al lacului.",
-                "en": "The roar of nature is captivating even in the rain; take a good raincoat with you if you step out of the car for a quick photo on the wet shore."
+                "en": "The roar of nature is captivating even in the rain; take a good raincoat with you if you step out of the car for a quick photo on the wet shore.",
+                "fr": "Le tumulte de la nature est captivant même sous la pluie ; prenez un bon imperméable si vous sortez de la voiture pour une photo rapide sur la rive humide."
               }
             },
             {
@@ -868,13 +962,15 @@
                 "de": "Lac de pêche du Gîte de Ségur",
                 "hu": "Lac de pêche du Gîte de Ségur",
                 "ro": "Lac de pêche du Gîte de Ségur",
-                "en": "Lac de pêche du Gîte de Ségur"
+                "en": "Lac de pêche du Gîte de Ségur",
+                "fr": "Lac de pêche du Gîte de Ségur"
               },
               "tip_5lang": {
                 "de": "Die Regentropfen auf dem See sind wunderschön, aber das Gras um den Angelsee kann extrem schlammig sein. Genießen Sie die Aussicht am besten vom Park.",
                 "hu": "Az esőcseppek játéka a tó vizén gyönyörű, a horgásztó körüli fű viszont rendkívül sáros lehet, így a parkolóból nézve a legbiztonságosabb a látvány.",
                 "ro": "Ploaia dansând pe lac este frumoasă, dar iarba din jurul lacului de pescuit poate fi foarte noroioasă, vizualizarea din parcare fiind cea mai sigură.",
-                "en": "The rain dancing on the lake is beautiful, but the grass around the fishing lake can be extremely muddy, making it safest to view from the parking area."
+                "en": "The rain dancing on the lake is beautiful, but the grass around the fishing lake can be extremely muddy, making it safest to view from the parking area.",
+                "fr": "La pluie qui danse sur le lac est belle, mais l'herbe autour du plan d'eau peut être extrêmement boueuse ; il est donc plus sûr d'observer depuis l'aire de stationnement."
               }
             }
           ]
@@ -884,7 +980,8 @@
             "de": "An einem klaren, frostigen Wintertag erkunden wir Lavaurs historisches Zentrum bequem aus dem beheizten Auto. Nach der Kathedrale fahren wir zum Kühlbecken und dann zu den ländlichen Seen. Die drei Seen-Stopps sind im frühen Nachmittagslicht am schönsten. Da es früh dunkel wird, können wir den Sonnenuntergang genießen, wenn wir den Ségur-See erreichen.",
             "hu": "Tiszta, fagyos téli napon egy fűtött autóból kényelmesen fedezzük fel Lavaur történelmi központját. A katedrális és a püspöki kert után az ipari hűtőmedencéhez hajtunk, majd a vidéki tavakat járjuk be. A három tóvidéki megálló a kora délutáni, éles fényekben a legszebb. Mivel télen korán sötétedik, a Ségur tónál már a naplementét vagy az esti szürkületet élvezhetjük.",
             "ro": "Într-o zi senină și geroasă, explorăm confortabil centrul istoric din Lavaur dintr-o mașină încălzită. După catedrală, mergem la bazinul de răcire, apoi la lacurile rurale. Cele trei opriri la lacuri sunt cele mai bune în lumina aspră a după-amiezii. Deoarece se întunecă devreme iarna, ne putem bucura de apusul soarelui până când ajungem la Lacul Ségur.",
-            "en": "On a clear, frosty winter day, we comfortably explore Lavaur's historic center from a heated car. After the cathedral and Bishop's Garden, we drive to the cooling pool, then the rural lakes. The three lake stops are best in the sharp early afternoon light. Since it gets dark early in winter, we can enjoy the sunset or evening twilight by the time we reach Lake Ségur."
+            "en": "On a clear, frosty winter day, we comfortably explore Lavaur's historic center from a heated car. After the cathedral and Bishop's Garden, we drive to the cooling pool, then the rural lakes. The three lake stops are best in the sharp early afternoon light. Since it gets dark early in winter, we can enjoy the sunset or evening twilight by the time we reach Lake Ségur.",
+            "fr": "Par une claire journée hivernale et froide, nous explorons confortablement le centre historique de Lavaur depuis une voiture chauffée. Après la cathédrale et le Jardin de l'Évêque, nous nous rendons à la piscine de refroidissement, puis aux lacs ruraux. Les trois arrêts aux lacs sont meilleurs en début d'après‑midi lorsque la lumière est vive. Comme il fait nuit tôt en hiver, nous pouvons profiter du coucher de soleil ou du crépuscule en arrivant au Lac de Ségur."
           },
           "stops": [
             {
@@ -892,13 +989,15 @@
                 "de": "Tour des Rondes",
                 "hu": "Tour des Rondes",
                 "ro": "Tour des Rondes",
-                "en": "Tour des Rondes"
+                "en": "Tour des Rondes",
+                "fr": "Tour des Rondes"
               },
               "tip_5lang": {
                 "de": "Im eisigen Wind versprüht die massive Festung ein düsteres mittelalterliches Flair; ein warmer Schal und eine Mütze sind beim Aussteigen unerlässlich.",
                 "hu": "A fagyos szélben a masszív erődítmény igazi rideg középkori hangulatot áraszt; egy meleg sál és sapka elengedhetetlen, ha kiszáll a fűtött autóból.",
                 "ro": "În vântul înghețat, fortăreața masivă emană o atmosferă medievală autentică; un fular și o căciulă caldă sunt esențiale când coborâți din mașină.",
-                "en": "In the freezing wind, the massive fortress exudes a truly bleak medieval vibe; a warm scarf and hat are essential when you step out of the heated car."
+                "en": "In the freezing wind, the massive fortress exudes a truly bleak medieval vibe; a warm scarf and hat are essential when you step out of the heated car.",
+                "fr": "Dans le vent glacial, la massive forteresse dégage une atmosphère médiévale vraiment austère ; une écharpe chaude et un bonnet sont indispensables lorsque vous sortez de la voiture chauffée."
               }
             },
             {
@@ -906,13 +1005,15 @@
                 "de": "Saint-Alain Cathedral",
                 "hu": "Saint-Alain katedrális",
                 "ro": "Catedrala Saint-Alain",
-                "en": "Saint-Alain Cathedral"
+                "en": "Saint-Alain Cathedral",
+                "fr": "Cathédrale Saint-Alain"
               },
               "tip_5lang": {
                 "de": "Obwohl die Fahrt wärmt, ist das Innere der beeindruckenden Backsteinkirche im Winter kühl und zugig. Behalten Sie Ihren warmen Mantel bei der Besichtigung an.",
                 "hu": "Bár az autózás felmelegíti, a lenyűgöző téglatemplom belső tere télen huzatos és hűvös, így tartsa magán a meleg kabátot az épületlátogatás alatt.",
                 "ro": "Deși condusul vă încălzește, interiorul uimitoarei biserici din cărămidă este rece și cu curenți de aer iarna, așa că păstrați-vă haina pe dvs.",
-                "en": "Although the drive warms you up, the interior of the stunning brick church is drafty and cool in winter, so keep your warm coat on during the visit."
+                "en": "Although the drive warms you up, the interior of the stunning brick church is drafty and cool in winter, so keep your warm coat on during the visit.",
+                "fr": "Bien que la voiture réchauffe, l'intérieur de la superbe église en brique est frais et courant d'air en hiver, gardez donc votre manteau chaud pendant la visite."
               }
             },
             {
@@ -920,13 +1021,15 @@
                 "de": "Bishop's Garden",
                 "hu": "Püspöki kert",
                 "ro": "Grădina Episcopului",
-                "en": "Bishop's Garden"
+                "en": "Bishop's Garden",
+                "fr": "Jardin de l'Évêque"
               },
               "tip_5lang": {
                 "de": "Im Wintersonnenlicht können Sie den Fluss unter den kahlen Bäumen perfekt sehen. Ein kurzer Spaziergang tut während der langen Fahrt sehr gut.",
                 "hu": "A téli napfényben a kopasz fák alól remekül rá lehet látni a folyóra, egy élénkítő, de rövid séta nagyon jól fog esni a hosszú vezetés közben.",
                 "ro": "În lumina soarelui de iarnă, puteți vedea perfect râul de sub copacii goi; o plimbare scurtă și revigorantă se va simți grozav în timpul condusului.",
-                "en": "In the winter sunlight, you can see the river perfectly under the bare trees; an invigorating but short walk will feel great during the long drive."
+                "en": "In the winter sunlight, you can see the river perfectly under the bare trees; an invigorating but short walk will feel great during the long drive.",
+                "fr": "À la lumière d'hiver, on voit parfaitement la rivière sous les arbres dépouillés ; une courte promenade vivifiante fera du bien pendant le long trajet."
               }
             },
             {
@@ -934,13 +1037,15 @@
                 "de": "Ancienne piscine de refroidissement",
                 "hu": "Ancienne piscine de refroidissement",
                 "ro": "Ancienne piscine de refroidissement",
-                "en": "Ancienne piscine de refroidissement"
+                "en": "Ancienne piscine de refroidissement",
+                "fr": "Ancienne piscine de refroidissement"
               },
               "tip_5lang": {
                 "de": "Der Anblick kalter Betonmauern bildet in der Winterlandschaft einen starken industriellen Kontrast. Bewundern Sie die Struktur und kehren Sie ins warme Auto zurück.",
                 "hu": "A hideg betonfalak látványa a téli tájban markáns ipari kontrasztot alkot; csodálja meg a szerkezetet, majd gyorsan térjen vissza a fűtött kocsiba.",
                 "ro": "Zidurile reci de beton creează un contrast industrial puternic în peisajul de iarnă; admirați structura, apoi întoarceți-vă rapid la mașina încălzită.",
-                "en": "The sight of cold concrete walls creates a stark industrial contrast in the winter landscape; admire the structure, then return quickly to the heated car."
+                "en": "The sight of cold concrete walls creates a stark industrial contrast in the winter landscape; admire the structure, then return quickly to the heated car.",
+                "fr": "La vue des murs froids en béton crée un contraste industriel saisissant dans le paysage hivernal ; admirez la structure puis retournez rapidement à la voiture chauffée."
               }
             },
             {
@@ -948,13 +1053,15 @@
                 "de": "Retenue de Briax",
                 "hu": "Retenue de Briax",
                 "ro": "Retenue de Briax",
-                "en": "Retenue de Briax"
+                "en": "Retenue de Briax",
+                "fr": "Retenue de Briax"
               },
               "tip_5lang": {
                 "de": "Ein hervorragender Ort zur Beobachtung von Winterwasservögeln. Wegen des kalten Windes am Wasser sind dicke warme Schuhe und eine winddichte Schicht wichtig.",
                 "hu": "A téli vízimadarak csendes megfigyelésére kiváló hely; a vízparti hideg szél miatt a vastag, meleg cipő és a szélálló réteg nagyon fontos itt.",
                 "ro": "Un loc excelent pentru observarea păsărilor de apă de iarnă; din cauza vântului rece de lângă apă, încălțămintea caldă și hainele anti-vânt sunt esențiale.",
-                "en": "An excellent spot for quiet observation of winter waterfowl; due to the cold wind by the water, thick warm shoes and a windproof layer are crucial here."
+                "en": "An excellent spot for quiet observation of winter waterfowl; due to the cold wind by the water, thick warm shoes and a windproof layer are crucial here.",
+                "fr": "Un excellent endroit pour l'observation tranquille des oiseaux d'eau hivernaux ; en raison du vent froid au bord de l'eau, des chaussures épaisses et chaudes et une couche coupe-vent sont indispensables."
               }
             },
             {
@@ -962,13 +1069,15 @@
                 "de": "Lac du Messal",
                 "hu": "Lac du Messal",
                 "ro": "Lac du Messal",
-                "en": "Lac du Messal"
+                "en": "Lac du Messal",
+                "fr": "Lac du Messal"
               },
               "tip_5lang": {
                 "de": "Das ruhige Wasser spiegelt unter dem Winterhimmel kalte Farben wider; machen Sie einen kurzen Spaziergang entlang des Damms, bevor die Sonne zu tief steht.",
                 "hu": "A nyugodt víztükör hideg színeket tükröz a téli égbolt alatt; tegyen egy rövid sétát a gát mentén, mielőtt a nap túlságosan alacsonyra ereszkedik.",
                 "ro": "Apa calmă reflectă culori reci sub cerul de iarnă; faceți o scurtă plimbare de-a lungul barajului înainte ca soarele să coboare prea mult.",
-                "en": "The calm water reflects cold colors under the winter sky; take a short walk along the dam before the sun descends too low in the afternoon."
+                "en": "The calm water reflects cold colors under the winter sky; take a short walk along the dam before the sun descends too low in the afternoon.",
+                "fr": "L'eau calme reflète des couleurs froides sous le ciel d'hiver ; faites une courte promenade le long du barrage avant que le soleil ne descende trop bas l'après‑midi."
               }
             },
             {
@@ -976,13 +1085,15 @@
                 "de": "Lac de pêche du Gîte de Ségur",
                 "hu": "Lac de pêche du Gîte de Ségur",
                 "ro": "Lac de pêche du Gîte de Ségur",
-                "en": "Lac de pêche du Gîte de Ségur"
+                "en": "Lac de pêche du Gîte de Ségur",
+                "fr": "Lac de pêche du Gîte de Ségur"
               },
               "tip_5lang": {
                 "de": "Kommen Sie vor Einbruch der Dunkelheit mit Ihrem Auto hierher, um das eiskalte Wasser in den letzten Sonnenstrahlen oder der magischen Dämmerung zu sehen.",
                 "hu": "Érjen ide még a kora esti sötétedés előtt kocsijával, hogy lássa a jéghideg vizet a lenyugvó nap vagy a varázslatos szürkület utolsó sugaraiban.",
                 "ro": "Ajungeți aici cu mașina înainte de lăsarea întunericului pentru a vedea apa rece ca gheața în ultimele raze ale soarelui sau în amurgul magic.",
-                "en": "Arrive here with your car before early evening darkness to see the ice-cold water in the last rays of the setting sun or the magical twilight."
+                "en": "Arrive here with your car before early evening darkness to see the ice-cold water in the last rays of the setting sun or the magical twilight.",
+                "fr": "Arrivez ici en voiture avant la tombée précoce de la nuit pour voir l'eau glacée aux derniers rayons du soleil couchant ou au crépuscule magique."
               }
             }
           ]

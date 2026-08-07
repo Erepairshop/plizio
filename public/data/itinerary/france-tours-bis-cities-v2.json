@@ -21,7 +21,8 @@
             "de": "Place Plumereau",
             "hu": "Place Plumereau",
             "ro": "Place Plumereau",
-            "en": "Place Plumereau"
+            "en": "Place Plumereau",
+            "fr": "Place Plumereau"
           },
           "coords": [
             47.3941,
@@ -36,7 +37,8 @@
             "de": "Bewundern Sie die Fachwerkhäuser bei einem Kaffee.",
             "hu": "Csodálja meg a favázas házakat egy kávé mellett.",
             "ro": "Admirați casele cu bârne la o cafea.",
-            "en": "Admire the timber-framed houses over a coffee."
+            "en": "Admire the timber-framed houses over a coffee.",
+            "fr": "Admirez les maisons à colombages autour d'un café."
           }
         },
         {
@@ -44,7 +46,8 @@
             "de": "Basilika Saint-Martin",
             "hu": "Szent Márton-bazilika",
             "ro": "Basilica Saint-Martin",
-            "en": "Basilica of Saint Martin"
+            "en": "Basilica of Saint Martin",
+            "fr": "Basilique Saint‑Martin"
           },
           "coords": [
             47.3931,
@@ -59,7 +62,8 @@
             "de": "Besuchen Sie das Grab des Heiligen Martin in der Krypta.",
             "hu": "Látogassa meg Szent Márton sírját a kriptában.",
             "ro": "Vizitați mormântul Sfântului Martin în criptă.",
-            "en": "Visit the tomb of Saint Martin in the crypt."
+            "en": "Visit the tomb of Saint Martin in the crypt.",
+            "fr": "Visitez le tombeau de Saint Martin dans la crypte."
           }
         },
         {
@@ -67,7 +71,8 @@
             "de": "Musée des Beaux-Arts",
             "hu": "Szépművészeti Múzeum",
             "ro": "Muzeul de Arte Frumoase",
-            "en": "Museum of Fine Arts"
+            "en": "Museum of Fine Arts",
+            "fr": "Musée des Beaux‑Arts"
           },
           "coords": [
             47.3944,
@@ -82,7 +87,8 @@
             "de": "Verpassen Sie nicht die riesige Zeder im Innenhof.",
             "hu": "Ne hagyja ki az udvaron álló hatalmas cédrust.",
             "ro": "Nu ratați cedrul uriaș din curtea interioară.",
-            "en": "Don't miss the giant cedar tree in the courtyard."
+            "en": "Don't miss the giant cedar tree in the courtyard.",
+            "fr": "Ne manquez pas le cèdre géant dans la cour."
           }
         },
         {
@@ -90,7 +96,8 @@
             "de": "Kathedrale Saint-Gatien",
             "hu": "Szent Gatien-székesegyház",
             "ro": "Catedrala Saint-Gatien",
-            "en": "Saint Gatien Cathedral"
+            "en": "Saint Gatien Cathedral",
+            "fr": "Cathédrale Saint‑Gatien"
           },
           "coords": [
             47.3948,
@@ -105,7 +112,8 @@
             "de": "Die Glasmalereien aus dem 13. Jahrhundert sind spektakulär.",
             "hu": "A 13. századi üvegablakok látványosak.",
             "ro": "Vitraliile din secolul al XIII-lea sunt spectaculoase.",
-            "en": "The 13th-century stained glass windows are spectacular."
+            "en": "The 13th-century stained glass windows are spectacular.",
+            "fr": "Les vitraux du XIIIe siècle sont spectaculaires."
           }
         },
         {
@@ -113,7 +121,8 @@
             "de": "Lokales Mittagessen",
             "hu": "Helyi ebéd",
             "ro": "Prânz local",
-            "en": "Local Lunch"
+            "en": "Local Lunch",
+            "fr": "Déjeuner local"
           },
           "coords": [
             47.3955,
@@ -128,7 +137,8 @@
             "de": "Probieren Sie Rillettes de Tours auf frischem Baguette.",
             "hu": "Kóstolja meg a Rillettes de Tours-t friss bagetten.",
             "ro": "Gustați Rillettes de Tours pe baghetă proaspătă.",
-            "en": "Try Rillettes de Tours on fresh baguette."
+            "en": "Try Rillettes de Tours on fresh baguette.",
+            "fr": "Goûtez les rillettes de Tours sur une baguette fraîche."
           }
         },
         {
@@ -136,7 +146,8 @@
             "de": "Schloss Tours",
             "hu": "Tours-i kastély",
             "ro": "Castelul din Tours",
-            "en": "Tours Castle"
+            "en": "Tours Castle",
+            "fr": "Château de Tours"
           },
           "coords": [
             47.3965,
@@ -151,7 +162,8 @@
             "de": "Besuchen Sie die wechselnden Fotoausstellungen.",
             "hu": "Látogassa meg az időszaki fotókiállításokat.",
             "ro": "Vizitați expozițiile temporare de fotografie.",
-            "en": "Visit the temporary photography exhibitions."
+            "en": "Visit the temporary photography exhibitions.",
+            "fr": "Visitez les expositions temporaires de photographie."
           }
         },
         {
@@ -159,7 +171,8 @@
             "de": "Wilson-Brücke",
             "hu": "Wilson-híd",
             "ro": "Podul Wilson",
-            "en": "Wilson Bridge"
+            "en": "Wilson Bridge",
+            "fr": "Pont Wilson"
           },
           "coords": [
             47.398,
@@ -174,7 +187,8 @@
             "de": "Genießen Sie den Blick auf die Loire bei Sonnenuntergang.",
             "hu": "Élvezze a Loire-ra nyíló kilátást naplementekor.",
             "ro": "Bucurați-vă de priveliștea asupra Loarei la apus.",
-            "en": "Enjoy the view of the Loire at sunset."
+            "en": "Enjoy the view of the Loire at sunset.",
+            "fr": "Profitez de la vue sur la Loire au coucher du soleil."
           }
         }
       ],
@@ -182,7 +196,8 @@
         "de": "Ein Vormittag im mittelalterlichen Herzen von Tours beginnt am berühmten Place Plumereau, gefolgt von einer spirituellen Pause in der Basilika Saint-Martin. Mittags tauchen Sie in die Kunstgeschichte im Musée des Beaux-Arts ein, bevor Sie die gotische Pracht der Kathedrale bewundern. Der Nachmittag endet mit Geschichte am Schloss und einem Panorama-Spaziergang über die Loire-Brücke.",
         "hu": "A délelőtt Tours középkori szívében, a híres Place Plumereau-n kezdődik, majd spirituális pihenőt tartunk a Szent Márton-bazilikában. Délben a Szépművészeti Múzeumban merülünk el a művészettörténetben, mielőtt megcsodálnánk a székesegyház gótikus pompáját. A délután a kastélynál és a Loire-hídon tett panorámás sétával zárul.",
         "ro": "O dimineață în inima medievală a orașului Tours începe în celebra Place Plumereau, urmată de o pauză spirituală la Basilica Saint-Martin. La prânz, vă scufundați în istoria artei la Muzeul de Arte Frumoase, înainte de a admira splendoarea gotică a catedralei. După-amiaza se încheie cu istorie la castel și o plimbare panoramică peste podul de peste Loara.",
-        "en": "A morning in the medieval heart of Tours begins at the famous Place Plumereau, followed by a spiritual break at the Basilica of Saint Martin. At midday, immerse yourself in art history at the Museum of Fine Arts before admiring the Gothic splendor of the cathedral. The afternoon concludes with history at the castle and a panoramic stroll across the Loire bridge."
+        "en": "A morning in the medieval heart of Tours begins at the famous Place Plumereau, followed by a spiritual break at the Basilica of Saint Martin. At midday, immerse yourself in art history at the Museum of Fine Arts before admiring the Gothic splendor of the cathedral. The afternoon concludes with history at the castle and a panoramic stroll across the Loire bridge.",
+        "fr": "Une matinée au cœur médiéval de Tours commence à la célèbre Place Plumereau, suivie d'une pause spirituelle à la Basilique Saint‑Martin. À midi, plongez dans l'histoire de l'art au Musée des Beaux‑Arts avant d'admirer la splendeur gothique de la cathédrale. L'après‑midi se conclut par l'histoire au château et une promenade panoramique sur le pont de la Loire."
       },
       "gastro_picks": {
         "de": [
@@ -342,6 +357,12 @@
           "Most sights are in the city center south of the Loire.",
           "Look for the blue 'Tours Cité Gastronomique' signs.",
           "The cathedral is often closed for a short break at midday."
+        ],
+        "fr": [
+          "Tours est très plate et parfaite pour explorer à pied.",
+          "La plupart des sites se trouvent dans le centre‑ville au sud de la Loire.",
+          "Cherchez les panneaux bleus « Tours Cité Gastronomique ».",
+          "La cathédrale est souvent fermée pour une courte pause à midi."
         ]
       }
     },
@@ -358,7 +379,8 @@
             "de": "Abbaye de Marmoutier",
             "hu": "Marmoutier-apátság",
             "ro": "Abația Marmoutier",
-            "en": "Marmoutier Abbey"
+            "en": "Marmoutier Abbey",
+            "fr": "Abbaye de Marmoutier"
           },
           "coords": [
             47.4042,
@@ -373,7 +395,8 @@
             "de": "Erkunden Sie die in den Fels gehauenen Höhlen.",
             "hu": "Fedezze fel a sziklába vájt barlangokat.",
             "ro": "Explorați peșterile săpate în stâncă.",
-            "en": "Explore the caves carved into the rock."
+            "en": "Explore the caves carved into the rock.",
+            "fr": "Explorez les grottes creusées dans la roche."
           }
         },
         {
@@ -381,7 +404,8 @@
             "de": "Wilson-Brücke",
             "hu": "Wilson-híd",
             "ro": "Podul Wilson",
-            "en": "Wilson Bridge"
+            "en": "Wilson Bridge",
+            "fr": "Pont Wilson"
           },
           "coords": [
             47.398,
@@ -396,7 +420,8 @@
             "de": "Ein schöner Radweg führt über die Brücke.",
             "hu": "Szép kerékpárút vezet át a hídon.",
             "ro": "O pistă de biciclete frumoasă traversează podul.",
-            "en": "A nice bike path leads across the bridge."
+            "en": "A nice bike path leads across the bridge.",
+            "fr": "Une belle piste cyclable traverse le pont."
           }
         },
         {
@@ -404,7 +429,8 @@
             "de": "Schloss Tours",
             "hu": "Tours-i kastély",
             "ro": "Castelul din Tours",
-            "en": "Tours Castle"
+            "en": "Tours Castle",
+            "fr": "Château de Tours"
           },
           "coords": [
             47.3965,
@@ -419,7 +445,8 @@
             "de": "Parken Sie Ihr Rad sicher am Eingang.",
             "hu": "Parkolja le kerékpárját biztonságosan a bejáratnál.",
             "ro": "Parcați bicicleta în siguranță la intrare.",
-            "en": "Park your bike safely at the entrance."
+            "en": "Park your bike safely at the entrance.",
+            "fr": "Garez votre vélo en toute sécurité à l'entrée."
           }
         },
         {
@@ -427,7 +454,8 @@
             "de": "Kathedrale Saint-Gatien",
             "hu": "Szent Gatien-székesegyház",
             "ro": "Catedrala Saint-Gatien",
-            "en": "Saint Gatien Cathedral"
+            "en": "Saint Gatien Cathedral",
+            "fr": "Cathédrale Saint‑Gatien"
           },
           "coords": [
             47.3948,
@@ -442,7 +470,8 @@
             "de": "Besuchen Sie die Gärten hinter der Kathedrale.",
             "hu": "Látogassa meg a székesegyház mögötti kerteket.",
             "ro": "Vizitați grădinile din spatele catedralei.",
-            "en": "Visit the gardens behind the cathedral."
+            "en": "Visit the gardens behind the cathedral.",
+            "fr": "Visitez les jardins derrière la cathédrale."
           }
         },
         {
@@ -450,7 +479,8 @@
             "de": "Place Plumereau (Mittag)",
             "hu": "Place Plumereau (ebéd)",
             "ro": "Place Plumereau (prânz)",
-            "en": "Place Plumereau (lunch)"
+            "en": "Place Plumereau (lunch)",
+            "fr": "Place Plumereau (déjeuner)"
           },
           "coords": [
             47.3941,
@@ -465,7 +495,8 @@
             "de": "Viele Restaurants haben schattige Terrassen.",
             "hu": "Sok étteremnek van árnyékos terasza.",
             "ro": "Multe restaurante au terase umbrite.",
-            "en": "Many restaurants have shaded terraces."
+            "en": "Many restaurants have shaded terraces.",
+            "fr": "De nombreux restaurants ont des terrasses ombragées."
           }
         },
         {
@@ -473,7 +504,8 @@
             "de": "Basilika Saint-Martin",
             "hu": "Szent Márton-bazilika",
             "ro": "Basilica Saint-Martin",
-            "en": "Basilica of Saint Martin"
+            "en": "Basilica of Saint Martin",
+            "fr": "Basilique Saint‑Martin"
           },
           "coords": [
             47.3931,
@@ -488,7 +520,8 @@
             "de": "Kurzer Stopp am Reliquienschrein.",
             "hu": "Rövid megálló az ereklyetartónál.",
             "ro": "Oprire scurtă la raclă.",
-            "en": "Short stop at the reliquary."
+            "en": "Short stop at the reliquary.",
+            "fr": "Courte halte au reliquaire."
           }
         },
         {
@@ -496,7 +529,8 @@
             "de": "Botanischer Garten",
             "hu": "Fűvészkert",
             "ro": "Grădina Botanică",
-            "en": "Botanical Garden"
+            "en": "Botanical Garden",
+            "fr": "Jardin botanique"
           },
           "coords": [
             47.3915,
@@ -511,7 +545,8 @@
             "de": "Besuchen Sie den kleinen Streichelzoo im Park.",
             "hu": "Látogassa meg a kis állatsimogatót a parkban.",
             "ro": "Vizitați mica grădină zoologică din parc.",
-            "en": "Visit the small petting zoo in the park."
+            "en": "Visit the small petting zoo in the park.",
+            "fr": "Visitez le petit zoo pédagogique du parc."
           }
         },
         {
@@ -519,7 +554,8 @@
             "de": "Loire-Ufer Tour",
             "hu": "Loire-parti túra",
             "ro": "Turul malului Loarei",
-            "en": "Loire Bank Tour"
+            "en": "Loire Bank Tour",
+            "fr": "Tour des quais de la Loire"
           },
           "coords": [
             47.3975,
@@ -534,7 +570,8 @@
             "de": "Teil des 'Loire à Vélo' Radwegs.",
             "hu": "A 'Loire à Vélo' kerékpárút része.",
             "ro": "Parte a traseului de biciclete 'Loire à Vélo'.",
-            "en": "Part of the 'Loire à Vélo' bike route."
+            "en": "Part of the 'Loire à Vélo' bike route.",
+            "fr": "Fait partie de l'itinéraire vélo « Loire à Vélo »."
           }
         }
       ],
@@ -542,7 +579,8 @@
         "de": "Mit dem Fahrrad erweitern wir den Radius zur Abbaye de Marmoutier am Nordufer. Danach geht es über den Wilson-Brücke zurück in die Altstadt zum Mittagessen am Place Plumereau. Den Nachmittag verbringen wir entspannt im Botanischen Garten und auf den Radwegen entlang der Loire, die perfekt für Radfahrer ausgebaut sind.",
         "hu": "Kerékpárral kibővítjük a sugarat az északi parton található Marmoutier-apátságig. Ezután a Wilson-hídon keresztül térünk vissza az óvárosba ebédelni a Place Plumereau-ra. A délutánt pihentetően a Fűvészkertben és a Loire menti kerékpárutakon töltjük, amelyek tökéletesen ki vannak építve a biciklisek számára.",
         "ro": "Cu bicicleta, extindem raza de acțiune până la Abația Marmoutier, pe malul nordic. Apoi revenim prin Podul Wilson în orașul vechi pentru prânz în Place Plumereau. După-amiaza o petrecem relaxați în Grădina Botanică și pe pistele de biciclete de-a lungul Loarei, care sunt perfect amenajate pentru bicicliști.",
-        "en": "By bike, we expand the radius to the Marmoutier Abbey on the north bank. Then return via Wilson Bridge to the old town for lunch at Place Plumereau. Spend the afternoon relaxing in the Botanical Garden and on the bike paths along the Loire, which are perfectly designed for cyclists."
+        "en": "By bike, we expand the radius to the Marmoutier Abbey on the north bank. Then return via Wilson Bridge to the old town for lunch at Place Plumereau. Spend the afternoon relaxing in the Botanical Garden and on the bike paths along the Loire, which are perfectly designed for cyclists.",
+        "fr": "À vélo, nous élargissons le rayon jusqu'à l'Abbaye de Marmoutier sur la rive nord. Puis retour via le Pont Wilson vers la vieille ville pour déjeuner Place Plumereau. Passez l'après‑midi à vous détendre au Jardin Botanique et sur les pistes cyclables le long de la Loire, parfaitement conçues pour les cyclistes."
       },
       "gastro_picks": {
         "de": [
@@ -650,6 +688,12 @@
           "The terrain is almost completely flat.",
           "There are many bike racks near Place Plumereau.",
           "Be careful on Rue Nationale because of the tram."
+        ],
+        "fr": [
+          "Suivez les panneaux « Loire à Vélo ».",
+          "Le terrain est presque complètement plat.",
+          "Il y a de nombreux arceaux à vélos près de la Place Plumereau.",
+          "Soyez vigilant sur la Rue Nationale à cause du tramway."
         ]
       }
     },
@@ -666,7 +710,8 @@
             "de": "Abbaye de Marmoutier",
             "hu": "Marmoutier-apátság",
             "ro": "Abația Marmoutier",
-            "en": "Marmoutier Abbey"
+            "en": "Marmoutier Abbey",
+            "fr": "Abbaye de Marmoutier"
           },
           "coords": [
             47.4042,
@@ -681,7 +726,8 @@
             "de": "Großer kostenloser Parkplatz vor Ort.",
             "hu": "Nagy ingyenes parkoló a helyszínen.",
             "ro": "Parcare mare gratuită la fața locului.",
-            "en": "Large free parking on site."
+            "en": "Large free parking on site.",
+            "fr": "Grand parking gratuit sur place."
           }
         },
         {
@@ -689,7 +735,8 @@
             "de": "Parkhaus Cathedral (Cluster Start)",
             "hu": "Cathedral parkolóház (klaszter kezdete)",
             "ro": "Parcare Cathedral (început cluster)",
-            "en": "Cathedral Parking (cluster start)"
+            "en": "Cathedral Parking (cluster start)",
+            "fr": "Parking Cathédrale (point de départ du cluster)"
           },
           "coords": [
             47.3945,
@@ -704,7 +751,8 @@
             "de": "Parken Sie hier für den zentralen Cluster.",
             "hu": "Parkoljon itt a központi klaszterhez.",
             "ro": "Parcați aici pentru clusterul central.",
-            "en": "Park here for the central cluster."
+            "en": "Park here for the central cluster.",
+            "fr": "Garez‑vous ici pour le cluster central."
           }
         },
         {
@@ -712,7 +760,8 @@
             "de": "Kathedrale Saint-Gatien",
             "hu": "Szent Gatien-székesegyház",
             "ro": "Catedrala Saint-Gatien",
-            "en": "Saint Gatien Cathedral"
+            "en": "Saint Gatien Cathedral",
+            "fr": "Cathédrale Saint‑Gatien"
           },
           "coords": [
             47.3948,
@@ -727,7 +776,8 @@
             "de": "Zu Fuß vom Parkhaus erreichbar.",
             "hu": "Gyalogosan elérhető a parkolóháztól.",
             "ro": "Accesibil pe jos din parcare.",
-            "en": "Accessible on foot from the parking garage."
+            "en": "Accessible on foot from the parking garage.",
+            "fr": "Accessible à pied depuis le parking souterrain."
           }
         },
         {
@@ -735,7 +785,8 @@
             "de": "Musée des Beaux-Arts",
             "hu": "Szépművészeti Múzeum",
             "ro": "Muzeul de Arte Frumoase",
-            "en": "Museum of Fine Arts"
+            "en": "Museum of Fine Arts",
+            "fr": "Musée des Beaux-Arts"
           },
           "coords": [
             47.3944,
@@ -750,7 +801,8 @@
             "de": "Gleich neben der Kathedrale.",
             "hu": "Közvetlenül a székesegyház mellett.",
             "ro": "Chiar lângă catedrală.",
-            "en": "Right next to the cathedral."
+            "en": "Right next to the cathedral.",
+            "fr": "Juste à côté de la cathédrale."
           }
         },
         {
@@ -758,7 +810,8 @@
             "de": "Place Plumereau (Mittagessen)",
             "hu": "Place Plumereau (ebéd)",
             "ro": "Place Plumereau (prânz)",
-            "en": "Place Plumereau (lunch)"
+            "en": "Place Plumereau (lunch)",
+            "fr": "Place Plumereau (déjeuner)"
           },
           "coords": [
             47.3941,
@@ -773,7 +826,8 @@
             "de": "Ein schöner Spaziergang durch die Fußgängerzone.",
             "hu": "Kellemes séta a sétálóutcán keresztül.",
             "ro": "O plimbare frumoasă prin zona pietonală.",
-            "en": "A nice walk through the pedestrian zone."
+            "en": "A nice walk through the pedestrian zone.",
+            "fr": "Une agréable promenade dans la zone piétonne."
           }
         },
         {
@@ -781,7 +835,8 @@
             "de": "Botanischer Garten",
             "hu": "Fűvészkert",
             "ro": "Grădina Botanică",
-            "en": "Botanical Garden"
+            "en": "Botanical Garden",
+            "fr": "Jardin botanique"
           },
           "coords": [
             47.3915,
@@ -796,7 +851,8 @@
             "de": "Parkplätze an der Rue Saint-François.",
             "hu": "Parkolóhelyek a Rue Saint-François-n.",
             "ro": "Locuri de parcare pe Rue Saint-François.",
-            "en": "Parking spots on Rue Saint-François."
+            "en": "Parking spots on Rue Saint-François.",
+            "fr": "Places de parking sur la Rue Saint-François."
           }
         },
         {
@@ -804,7 +860,8 @@
             "de": "Sainte-Radegonde (Blick)",
             "hu": "Sainte-Radegonde (kilátás)",
             "ro": "Sainte-Radegonde (priveliște)",
-            "en": "Sainte-Radegonde (view)"
+            "en": "Sainte-Radegonde (view)",
+            "fr": "Sainte-Radegonde (panorama)"
           },
           "coords": [
             47.406,
@@ -819,7 +876,8 @@
             "de": "Abschluss mit Blick auf die Stadt und die Loire.",
             "hu": "Zárás a városra és a Loire-ra nyíló kilátással.",
             "ro": "Finalizare cu priveliște asupra orașului și Loarei.",
-            "en": "Finish with a view of the city and the Loire."
+            "en": "Finish with a view of the city and the Loire.",
+            "fr": "Terminez par une vue sur la ville et la Loire."
           }
         }
       ],
@@ -827,7 +885,8 @@
         "de": "Mit dem Auto starten wir an der Abbaye de Marmoutier, bevor wir ins Zentrum fahren. Wir nutzen das Parkhaus an der Kathedrale als Basis für einen ausgedehnten Stadtrundgang (Kathedrale, Museum, Altstadt). Den Nachmittag verbringen wir im Botanischen Garten und genießen zum Abschluss einen Panorama-Stopp auf den Hügeln von Tours-Nord.",
         "hu": "Autóval a Marmoutier-apátságnál kezdünk, mielőtt a központba hajtanánk. A székesegyháznál található parkolóházat használjuk bázisként egy hosszabb városi sétához (székesegyház, múzeum, óváros). A délutánt a Fűvészkertben töltjük, majd zárásként egy panorámás megállót tartunk Tours-Nord dombjain.",
         "ro": "Cu mașina începem la Abația Marmoutier, înainte de a merge în centru. Folosim parcarea de la catedrală ca bază pentru un tur extins al orașului (catedrală, muzeu, orașul vechi). După-amiaza o petrecem în Grădina Botanică și încheiem cu o oprire panoramică pe dealurile din Tours-Nord.",
-        "en": "By car, we start at the Marmoutier Abbey before heading into the center. We use the parking garage at the cathedral as a base for an extensive city walk (cathedral, museum, old town). Spend the afternoon in the Botanical Garden and finish with a panoramic stop on the hills of Tours-Nord."
+        "en": "By car, we start at the Marmoutier Abbey before heading into the center. We use the parking garage at the cathedral as a base for an extensive city walk (cathedral, museum, old town). Spend the afternoon in the Botanical Garden and finish with a panoramic stop on the hills of Tours-Nord.",
+        "fr": "En voiture, nous commençons à l'abbaye de Marmoutier avant de rejoindre le centre. Nous utilisons le parking souterrain de la cathédrale comme base pour une grande balade en ville (cathédrale, musée, vieille ville). Passez l'après-midi au Jardin botanique et terminez par une halte panoramique sur les coteaux de Tours-Nord."
       },
       "gastro_picks": {
         "de": [
@@ -935,6 +994,12 @@
           "The city center around Place Plumereau is traffic-calmed.",
           "Parking at the cathedral is most convenient for the cluster.",
           "Avoid rush hour on the Quai de la Loire."
+        ],
+        "fr": [
+          "Utilisez les parkings 'Indigo' pour la sécurité.",
+          "Le centre autour de la Place Plumereau est apaisé pour la circulation.",
+          "Se garer à la cathédrale est le plus pratique pour ce secteur.",
+          "Évitez l'heure de pointe sur le Quai de la Loire."
         ]
       }
     },
@@ -951,7 +1016,8 @@
             "de": "Place Plumereau",
             "hu": "Place Plumereau",
             "ro": "Place Plumereau",
-            "en": "Place Plumereau"
+            "en": "Place Plumereau",
+            "fr": "Place Plumereau"
           },
           "coords": [
             47.3941,
@@ -966,7 +1032,8 @@
             "de": "Starten Sie im Herzen der Altstadt.",
             "hu": "Kezdjen az óváros szívében.",
             "ro": "Începeți în inima orașului vechi.",
-            "en": "Start in the heart of the old town."
+            "en": "Start in the heart of the old town.",
+            "fr": "Commencez au cœur de la vieille ville."
           }
         },
         {
@@ -974,7 +1041,8 @@
             "de": "Basilika Saint-Martin",
             "hu": "Szent Márton-bazilika",
             "ro": "Basilica Saint-Martin",
-            "en": "Basilica of Saint Martin"
+            "en": "Basilica of Saint Martin",
+            "fr": "Basilique Saint-Martin"
           },
           "coords": [
             47.3931,
@@ -989,7 +1057,8 @@
             "de": "Zu Fuß von Plumereau erreichbar.",
             "hu": "Gyalogosan elérhető Plumereau-tól.",
             "ro": "Accesibil pe jos din Plumereau.",
-            "en": "Accessible on foot from Plumereau."
+            "en": "Accessible on foot from Plumereau.",
+            "fr": "Accessible à pied depuis Plumereau."
           }
         },
         {
@@ -997,7 +1066,8 @@
             "de": "Kathedrale Saint-Gatien",
             "hu": "Szent Gatien-székesegyház",
             "ro": "Catedrala Saint-Gatien",
-            "en": "Saint Gatien Cathedral"
+            "en": "Saint Gatien Cathedral",
+            "fr": "Cathédrale Saint-Gatien"
           },
           "coords": [
             47.3948,
@@ -1012,7 +1082,8 @@
             "de": "Nutzen Sie die Straßenbahn Linie A bis 'Cathédrale'.",
             "hu": "Használja az A villamosvonalat a 'Cathédrale' megállóig.",
             "ro": "Folosiți linia de tramvai A până la 'Cathédrale'.",
-            "en": "Use tram line A to 'Cathédrale' stop."
+            "en": "Use tram line A to 'Cathédrale' stop.",
+            "fr": "Prenez la ligne de tram A jusqu'à l'arrêt 'Cathédrale'."
           }
         },
         {
@@ -1020,7 +1091,8 @@
             "de": "Mittagessen (Nähe Cathédrale)",
             "hu": "Ebéd (Székesegyház közelében)",
             "ro": "Prânz (lângă Catedrală)",
-            "en": "Lunch (near Cathedral)"
+            "en": "Lunch (near Cathedral)",
+            "fr": "Déjeuner (près de la cathédrale)"
           },
           "coords": [
             47.394,
@@ -1035,7 +1107,8 @@
             "de": "Viele Cafés in den Seitenstraßen.",
             "hu": "Sok kávézó a mellékutcákban.",
             "ro": "Multe cafenele pe străzile laterale.",
-            "en": "Many cafes in the side streets."
+            "en": "Many cafes in the side streets.",
+            "fr": "Beaucoup de cafés dans les rues adjacentes."
           }
         },
         {
@@ -1043,7 +1116,8 @@
             "de": "Botanischer Garten",
             "hu": "Fűvészkert",
             "ro": "Grădina Botanică",
-            "en": "Botanical Garden"
+            "en": "Botanical Garden",
+            "fr": "Jardin botanique"
           },
           "coords": [
             47.3915,
@@ -1058,7 +1132,8 @@
             "de": "Direkt mit dem Bus Linie 4 erreichbar.",
             "hu": "Közvetlenül elérhető a 4-es busszal.",
             "ro": "Accesibil direct cu autobuzul linia 4.",
-            "en": "Directly accessible by bus line 4."
+            "en": "Directly accessible by bus line 4.",
+            "fr": "Accessible directement par la ligne de bus 4."
           }
         },
         {
@@ -1066,7 +1141,8 @@
             "de": "Abbaye de Marmoutier",
             "hu": "Marmoutier-apátság",
             "ro": "Abația Marmoutier",
-            "en": "Marmoutier Abbey"
+            "en": "Marmoutier Abbey",
+            "fr": "Abbaye de Marmoutier"
           },
           "coords": [
             47.4042,
@@ -1081,7 +1157,8 @@
             "de": "Buslinie 50 bringt Sie direkt vor das Tor.",
             "hu": "Az 50-es busz közvetlenül a kapuhoz viszi.",
             "ro": "Linia de autobuz 50 vă duce direct la poartă.",
-            "en": "Bus line 50 takes you right to the gate."
+            "en": "Bus line 50 takes you right to the gate.",
+            "fr": "La ligne de bus 50 vous mène directement à la porte."
           }
         }
       ],
@@ -1089,7 +1166,8 @@
         "de": "Dank des effizienten Straßenbahn- und Bussystems Fil Bleu erkunden wir Tours stressfrei. Wir beginnen in der Altstadt, nutzen die moderne Tram zur Kathedrale und den Bus zum Botanischen Garten. Den Tag krönen wir mit einem Besuch der Abbaye de Marmoutier am nördlichen Loire-Ufer, die gut an das Busnetz angebunden ist.",
         "hu": "A hatékony Fil Bleu villamos- és buszrendszernek köszönhetően stresszmentesen fedezzük fel Tours-t. Az óvárosban kezdünk, a modern villamost használjuk a székesegyházhoz, a buszt pedig a Fűvészkerthez. A napot a Loire északi partján található Marmoutier-apátság meglátogatásával koronázzuk meg, amely jól kapcsolódik a buszhálózathoz.",
         "ro": "Datorită sistemului eficient de tramvai și autobuz Fil Bleu, explorăm Tours fără stres. Începem în orașul vechi, folosim tramvaiul modern către catedrală și autobuzul către Grădina Botanică. Încununăm ziua cu o vizită la Abația Marmoutier de pe malul nordic al Loarei, care este bine conectată la rețeaua de autobuze.",
-        "en": "Thanks to the efficient Fil Bleu tram and bus system, we explore Tours stress-free. We start in the old town, use the modern tram to the cathedral, and the bus to the Botanical Garden. Crown the day with a visit to the Marmoutier Abbey on the northern Loire bank, which is well connected to the bus network."
+        "en": "Thanks to the efficient Fil Bleu tram and bus system, we explore Tours stress-free. We start in the old town, use the modern tram to the cathedral, and the bus to the Botanical Garden. Crown the day with a visit to the Marmoutier Abbey on the northern Loire bank, which is well connected to the bus network.",
+        "fr": "Grâce au système efficace de tram et bus Fil Bleu, nous explorons Tours sans stress. Nous commençons dans la vieille ville, prenons le tram moderne jusqu'à la cathédrale, puis le bus jusqu'au Jardin botanique. Couronnez la journée par une visite de l'abbaye de Marmoutier sur la rive nord de la Loire, bien desservie par le réseau de bus."
       },
       "gastro_picks": {
         "de": [
@@ -1197,6 +1275,12 @@
           "The tram is very clean and runs every 6-8 minutes.",
           "Download the Fil Bleu app for real-time departures.",
           "Fewer buses run to Marmoutier in the evening, plan ahead."
+        ],
+        "fr": [
+          "Achetez un billet journée (Ticket 24h) pour des trajets illimités.",
+          "Le tram est très propre et passe toutes les 6–8 minutes.",
+          "Téléchargez l'application Fil Bleu pour les départs en temps réel.",
+          "Moins de bus desservent Marmoutier le soir, prévoyez à l'avance."
         ]
       }
     }

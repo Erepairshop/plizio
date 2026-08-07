@@ -21,7 +21,8 @@
             "de": "Les Halles (Markthalle)",
             "hu": "Les Halles vásárcsarnok",
             "ro": "Les Halles (Piața centrală)",
-            "en": "Les Halles Market"
+            "en": "Les Halles Market",
+            "fr": "Les Halles Market"
           },
           "coords": [
             -1.661,
@@ -37,7 +38,7 @@
             "hu": "Kóstolja meg a helyi juhsajtot (Ossau-Iraty) közvetlenül az árusoknál.",
             "ro": "Gustați brânza locală de oaie (Ossau-Iraty) direct de la standuri.",
             "en": "Try the local sheep cheese (Ossau-Iraty) directly at the stalls.",
-            "fr": "Goûtez au fromage de brebis local (Ossau-Iraty) directement sur les étals."
+            "fr": "Goûtez le fromage de brebis local (Ossau-Iraty) directement aux étals."
           }
         },
         {
@@ -45,7 +46,8 @@
             "de": "Place Louis XIV",
             "hu": "XIV. Lajos tér",
             "ro": "Piața Ludovic al XIV-lea",
-            "en": "Place Louis XIV"
+            "en": "Place Louis XIV",
+            "fr": "Place Louis XIV"
           },
           "coords": [
             -1.6625,
@@ -61,7 +63,7 @@
             "hu": "Élvezzen egy kávét a platánfák árnyékában.",
             "ro": "Savurați o cafea la umbra platanilor din piață.",
             "en": "Enjoy a coffee under the shade of the plane trees.",
-            "fr": "Profitez d'un café à l'ombre des platanes."
+            "fr": "Savourez un café à l’ombre des platanes."
           }
         },
         {
@@ -69,7 +71,8 @@
             "de": "Maison Louis XIV",
             "hu": "XIV. Lajos háza",
             "ro": "Casa Ludovic al XIV-lea",
-            "en": "Maison Louis XIV"
+            "en": "Maison Louis XIV",
+            "fr": "Maison Louis XIV"
           },
           "coords": [
             -1.6628,
@@ -85,7 +88,7 @@
             "hu": "Itt lakott a Napkirály az 1660-as esküvője előtt.",
             "ro": "Aici a locuit Regele Soare înainte de nunta sa din 1660.",
             "en": "The Sun King stayed here before his royal wedding in 1660.",
-            "fr": "Le Roi-Soleil a séjourné ici avant son mariage royal en 1660."
+            "fr": "Le Roi Soleil y séjourna avant son mariage royal en 1660."
           }
         },
         {
@@ -93,7 +96,8 @@
             "de": "Kirche Saint-Jean-Baptiste",
             "hu": "Keresztelő Szent János-templom",
             "ro": "Biserica Sfântul Ioan Botezătorul",
-            "en": "Saint-Jean-Baptiste Church"
+            "en": "Saint-Jean-Baptiste Church",
+            "fr": "Église Saint-Jean-Baptiste"
           },
           "coords": [
             -1.6618,
@@ -109,7 +113,7 @@
             "hu": "Csodálja meg a monumentális aranyozott fa oltárképet.",
             "ro": "Admirați magnificul altar din lemn aurit din interior.",
             "en": "Admire the magnificent gilded wooden altarpiece inside.",
-            "fr": "Admirez le magnifique retable en bois doré à l'intérieur."
+            "fr": "Admirez le magnifique retable en bois doré à l’intérieur."
           }
         },
         {
@@ -117,7 +121,8 @@
             "de": "Promenade Jacques Thibaud & Strand",
             "hu": "Promenade Jacques Thibaud és strand",
             "ro": "Promenada Jacques Thibaud și plaja",
-            "en": "Promenade Jacques Thibaud & Beach"
+            "en": "Promenade Jacques Thibaud & Beach",
+            "fr": "Promenade Jacques Thibaud & Plage"
           },
           "coords": [
             -1.665,
@@ -133,7 +138,7 @@
             "hu": "Tökéletes hely egy sétához a baszk tengerparti kilátással.",
             "ro": "Ideal pentru o plimbare cu vedere spre coasta bască.",
             "en": "Perfect for a stroll with views over the Basque coast.",
-            "fr": "Parfait pour une promenade avec vue sur la côte basque."
+            "fr": "Parfaite pour une balade avec vue sur la côte basque."
           }
         },
         {
@@ -141,7 +146,8 @@
             "de": "Maison de l'Infante",
             "hu": "Infánsnő háza",
             "ro": "Casa Infantei",
-            "en": "Maison de l'Infante"
+            "en": "Maison de l'Infante",
+            "fr": "Maison de l'Infante"
           },
           "coords": [
             -1.6635,
@@ -157,7 +163,7 @@
             "hu": "Spanyolországi Mária Terézia rezidenciája közvetlenül a kikötőben.",
             "ro": "Casa Mariei Tereza a Spaniei, situată chiar lângă port.",
             "en": "The residence of Maria Theresa of Spain right by the harbor.",
-            "fr": "La résidence de Marie-Thérèse d'Espagne juste à côté du port."
+            "fr": "La résidence de Marie-Thérèse d'Espagne, juste au bord du port."
           }
         },
         {
@@ -165,7 +171,8 @@
             "de": "Pointe de Sainte-Barbe",
             "hu": "Sainte-Barbe kilátó",
             "ro": "Punctul de observație Sainte-Barbe",
-            "en": "Pointe de Sainte-Barbe"
+            "en": "Pointe de Sainte-Barbe",
+            "fr": "Pointe de Sainte-Barbe"
           },
           "coords": [
             -1.661,
@@ -190,7 +197,7 @@
         "en": "Start your morning at Les Halles market, soaking in the scents of local cheeses and hams. Follow in the footsteps of Louis XIV at the main square and his royal residence, then visit the church where he wed. Afternoon is for relaxing along the seaside promenade and enjoying the Atlantic breeze. End the day at Sainte-Barbe hill for a stunning panorama over the entire bay.",
         "de": "Beginnen Sie den Morgen auf dem Markt Les Halles und genießen Sie den Duft lokaler Käse- und Schinkenspezialitäten. Folgen Sie den Spuren Ludwigs XIV. auf dem Hauptplatz und in seiner Residenz, und besuchen Sie die Kirche seiner Hochzeit. Den Nachmittag verbringen Sie an der Strandpromenade. Den Tag beschließen Sie auf dem Hügel Sainte-Barbe mit einem herrlichen Blick über die Bucht.",
         "ro": "Începeți dimineața la piața Les Halles, savurând aromele brânzeturilor și șuncilor locale. Mergeți pe urmele lui Ludovic al XIV-lea în piața centrală și rezidența sa regală, apoi vizitați biserica unde s-a căsătorit. După-amiaza este dedicată relaxării pe faleză și brizei Atlanticului. Încheiați ziua pe colina Sainte-Barbe pentru o panoramă superbă asupra întregului golf.",
-        "fr": "Commencez votre matinée au marché des Halles, en vous imprégnant des parfums de fromages et de jambons locaux. Marchez sur les traces de Louis XIV sur la place principale et dans sa résidence royale, puis visitez l'église où il s'est marié. L'après-midi est consacré à la détente le long de la promenade du front de mer pour profiter de la brise atlantique. Terminez la journée à la colline Sainte-Barbe pour un panorama époustouflant sur toute la baie."
+        "fr": "Commencez votre matinée aux Halles, enivré par les parfums des fromages et des jambons locaux. Suivez les pas de Louis XIV sur la place principale et devant sa résidence royale, puis visitez l’église où il s’est marié. L’après-midi est consacré à la détente le long de la promenade en bord de mer pour profiter de la brise atlantique. Terminez la journée sur la colline de Sainte-Barbe pour un panorama époustouflant sur toute la baie."
       },
       "gastro_picks": {
         "hu": [
@@ -429,10 +436,10 @@
           "Grande Plage este ideală pentru plimbări în timpul fluxului scăzut."
         ],
         "fr": [
-          "Le centre-ville est entièrement piétonnier et compact.",
-          "Visitez l'église le matin avant l'arrivée des groupes.",
+          "Le centre-ville est entièrement piéton et compact.",
+          "Visitez l’église le matin avant l’arrivée des groupes.",
           "Achetez des espadrilles confortables pour votre visite à pied.",
-          "La Grande Plage est idéale pour la marche à marée basse."
+          "La Grande Plage est meilleure pour la marche à marée basse."
         ]
       },
       "variants": {
@@ -441,7 +448,8 @@
             "hu": "A reggelt a Les Halles piacán kezdjük, ahol a helyi sajtok és sonkák illata fogad. Délelőtt XIV. Lajos nyomába eredünk a főtéren és a királyi házban, majd megtekintjük a templomot, ahol az esküvőjét tartotta. Délután a tengerparti sétányon élvezzük a napsütést és az óceán morajlását. Az estét a Sainte-Barbe dombon zárjuk, ahonnan lélegzetelállító kilátás nyílik az egész öbölre.",
             "en": "Start your morning at Les Halles market, soaking in the scents of local cheeses and hams. Follow in the footsteps of Louis XIV at the main square and his royal residence, then visit the church where he wed. Afternoon is for relaxing along the seaside promenade and enjoying the Atlantic breeze. End the day at Sainte-Barbe hill for a stunning panorama over the entire bay.",
             "de": "Beginnen Sie den Morgen auf dem Markt Les Halles und genießen Sie den Duft lokaler Käse- und Schinkenspezialitäten. Folgen Sie den Spuren Ludwigs XIV. auf dem Hauptplatz und in seiner Residenz, und besuchen Sie die Kirche seiner Hochzeit. Den Nachmittag verbringen Sie an der Strandpromenade. Den Tag beschließen Sie auf dem Hügel Sainte-Barbe mit einem herrlichen Blick über die Bucht.",
-            "ro": "Începeți dimineața la piața Les Halles, savurând aromele brânzeturilor și șuncilor locale. Mergeți pe urmele lui Ludovic al XIV-lea în piața centrală și rezidența sa regală, apoi vizitați biserica unde s-a căsătorit. După-amiaza este dedicată relaxării pe faleză și brizei Atlanticului. Încheiați ziua pe colina Sainte-Barbe pentru o panoramă superbă asupra întregului golf."
+            "ro": "Începeți dimineața la piața Les Halles, savurând aromele brânzeturilor și șuncilor locale. Mergeți pe urmele lui Ludovic al XIV-lea în piața centrală și rezidența sa regală, apoi vizitați biserica unde s-a căsătorit. După-amiaza este dedicată relaxării pe faleză și brizei Atlanticului. Încheiați ziua pe colina Sainte-Barbe pentru o panoramă superbă asupra întregului golf.",
+            "fr": "Commencez votre matinée aux Halles, enivré par les parfums des fromages et des jambons locaux. Suivez les pas de Louis XIV sur la place principale et devant sa résidence royale, puis visitez l’église où il s’est marié. L’après-midi est consacré à la détente le long de la promenade en bord de mer pour profiter de la brise atlantique. Terminez la journée sur la colline de Sainte-Barbe pour un panorama époustouflant sur toute la baie."
           },
           "stops": [
             {
@@ -449,13 +457,15 @@
                 "de": "Les Halles (Markthalle)",
                 "hu": "Les Halles vásárcsarnok",
                 "ro": "Les Halles (Piața centrală)",
-                "en": "Les Halles Market"
+                "en": "Les Halles Market",
+                "fr": "Les Halles"
               },
               "tip_5lang": {
                 "de": "Probieren Sie den lokalen Schafskäse (Ossau-Iraty) direkt am Stand.",
                 "hu": "Kóstolja meg a helyi juhsajtot (Ossau-Iraty) közvetlenül az árusoknál.",
                 "ro": "Gustați brânza locală de oaie (Ossau-Iraty) direct de la standuri.",
-                "en": "Try the local sheep cheese (Ossau-Iraty) directly at the stalls."
+                "en": "Try the local sheep cheese (Ossau-Iraty) directly at the stalls.",
+                "fr": "Goûtez le fromage de brebis local (Ossau-Iraty) directement aux étals."
               }
             },
             {
@@ -463,13 +473,15 @@
                 "de": "Place Louis XIV",
                 "hu": "XIV. Lajos tér",
                 "ro": "Piața Ludovic al XIV-lea",
-                "en": "Place Louis XIV"
+                "en": "Place Louis XIV",
+                "fr": "Place Louis XIV"
               },
               "tip_5lang": {
                 "de": "Genießen Sie einen Kaffee unter den Platanen im Schatten.",
                 "hu": "Élvezzen egy kávét a platánfák árnyékában.",
                 "ro": "Savurați o cafea la umbra platanilor din piață.",
-                "en": "Enjoy a coffee under the shade of the plane trees."
+                "en": "Enjoy a coffee under the shade of the plane trees.",
+                "fr": "Dégustez un café à l’ombre des platanes."
               }
             },
             {
@@ -477,13 +489,15 @@
                 "de": "Maison Louis XIV",
                 "hu": "XIV. Lajos háza",
                 "ro": "Casa Ludovic al XIV-lea",
-                "en": "Maison Louis XIV"
+                "en": "Maison Louis XIV",
+                "fr": "Maison Louis XIV"
               },
               "tip_5lang": {
                 "de": "Hier residierte der Sonnenkönig vor seiner Hochzeit 1660.",
                 "hu": "Itt lakott a Napkirály az 1660-as esküvője előtt.",
                 "ro": "Aici a locuit Regele Soare înainte de nunta sa din 1660.",
-                "en": "The Sun King stayed here before his royal wedding in 1660."
+                "en": "The Sun King stayed here before his royal wedding in 1660.",
+                "fr": "Le Roi-Soleil y séjourna avant son mariage royal en 1660."
               }
             },
             {
@@ -491,13 +505,15 @@
                 "de": "Kirche Saint-Jean-Baptiste",
                 "hu": "Keresztelő Szent János-templom",
                 "ro": "Biserica Sfântul Ioan Botezătorul",
-                "en": "Saint-Jean-Baptiste Church"
+                "en": "Saint-Jean-Baptiste Church",
+                "fr": "Église Saint-Jean-Baptiste"
               },
               "tip_5lang": {
                 "de": "Bestaunen Sie das prächtige goldene Altarretabel aus Holz.",
                 "hu": "Csodálja meg a monumentális aranyozott fa oltárképet.",
                 "ro": "Admirați magnificul altar din lemn aurit din interior.",
-                "en": "Admire the magnificent gilded wooden altarpiece inside."
+                "en": "Admire the magnificent gilded wooden altarpiece inside.",
+                "fr": "Admirez le magnifique retable en bois doré à l’intérieur."
               }
             },
             {
@@ -505,13 +521,15 @@
                 "de": "Promenade Jacques Thibaud & Strand",
                 "hu": "Promenade Jacques Thibaud és strand",
                 "ro": "Promenada Jacques Thibaud și plaja",
-                "en": "Promenade Jacques Thibaud & Beach"
+                "en": "Promenade Jacques Thibaud & Beach",
+                "fr": "Promenade Jacques Thibaud & Plage"
               },
               "tip_5lang": {
                 "de": "Ideal für einen Spaziergang mit Blick auf die baskische Küste.",
                 "hu": "Tökéletes hely egy sétához a baszk tengerparti kilátással.",
                 "ro": "Ideal pentru o plimbare cu vedere spre coasta bască.",
-                "en": "Perfect for a stroll with views over the Basque coast."
+                "en": "Perfect for a stroll with views over the Basque coast.",
+                "fr": "Parfaite pour une balade avec vue sur la côte basque."
               }
             },
             {
@@ -519,13 +537,15 @@
                 "de": "Maison de l'Infante",
                 "hu": "Infánsnő háza",
                 "ro": "Casa Infantei",
-                "en": "Maison de l'Infante"
+                "en": "Maison de l'Infante",
+                "fr": "Maison de l'Infante"
               },
               "tip_5lang": {
                 "de": "Das Haus von Maria Teresa von Spanien direkt am Hafen.",
                 "hu": "Spanyolországi Mária Terézia rezidenciája közvetlenül a kikötőben.",
                 "ro": "Casa Mariei Tereza a Spaniei, situată chiar lângă port.",
-                "en": "The residence of Maria Theresa of Spain right by the harbor."
+                "en": "The residence of Maria Theresa of Spain right by the harbor.",
+                "fr": "La résidence de Marie-Thérèse d'Espagne, juste au bord du port."
               }
             },
             {
@@ -533,13 +553,15 @@
                 "de": "Pointe de Sainte-Barbe",
                 "hu": "Sainte-Barbe kilátó",
                 "ro": "Punctul de observație Sainte-Barbe",
-                "en": "Pointe de Sainte-Barbe"
+                "en": "Pointe de Sainte-Barbe",
+                "fr": "Pointe de Sainte-Barbe"
               },
               "tip_5lang": {
                 "de": "Der beste Ort für Fotos der Bucht zum Sonnenuntergang.",
                 "hu": "A legjobb hely naplementés fotókhoz az öbölről.",
                 "ro": "Cel mai bun loc pentru fotografii cu golful la apus.",
-                "en": "The best spot for sunset photos of the bay."
+                "en": "The best spot for sunset photos of the bay.",
+                "fr": "Le meilleur endroit pour des photos du coucher de soleil sur la baie."
               }
             }
           ],
@@ -737,6 +759,12 @@
               "Vizitați biserica dimineața înainte de sosirea grupurilor.",
               "Cumpărați espadrile confortabile pentru plimbarea prin oraș.",
               "Grande Plage este ideală pentru plimbări în timpul fluxului scăzut."
+            ],
+            "fr": [
+              "Le centre-ville est entièrement piéton et compact.",
+              "Visitez l’église le matin avant l’arrivée des groupes.",
+              "Achetez des espadrilles confortables pour votre visite à pied.",
+              "La Grande Plage est meilleure pour la marche à marée basse."
             ]
           }
         },
@@ -746,7 +774,7 @@
             "hu": "Esős reggel a Les Halles fedett piacán, ahol helyi finomságokat kóstolhatunk szárazon. Délben XIV. Lajos házának történelmi falai között bújunk el a zápor elől. Délután a Jacques Thibaud sétányon a vad tengeri hullámokat csodáljuk esernyő alatt. A napot a Maison de l'Infante látogatásával zárjuk a borongós, szeles kikötő felett.",
             "ro": "O dimineață ploioasă în piața acoperită Les Halles oferă arome locale fără a ne uda. La prânz, vizităm Maison Louis XIV, o incursiune istorică ferită de ploaie. După-amiaza, faleza Jacques Thibaud ne arată spectacolul valurilor sub umbrelă. Ziua se încheie la Maison de l'Infante, admirând portul sub cerul dramatic și înnorat.",
             "en": "A rainy morning at the covered Les Halles market offers local flavors while staying dry. Midday is spent inside the grand Maison Louis XIV, steeped in royal history. In the afternoon, the Jacques Thibaud promenade reveals the dramatic Atlantic, best enjoyed with a sturdy umbrella. The day ends at the Maison de l'Infante, overlooking the moody harbor.",
-            "fr": "Une matinée pluvieuse au marché couvert des Halles offre des saveurs locales tout en restant au sec. Le midi se passe à l'intérieur de la majestueuse Maison Louis XIV, imprégnée d'histoire royale. L'après-midi, la promenade Jacques Thibaud révèle l'Atlantique spectaculaire, à apprécier de préférence avec un parapluie robuste. La journée se termine à la Maison de l'Infante, surplombant le port embrumé."
+            "fr": "Une matinée pluvieuse aux Halles couvertes offre des saveurs locales à l’abri. À midi, passez du temps dans la grande Maison Louis XIV, empreinte d’histoire royale. L’après-midi, la promenade Jacques Thibaud dévoile l’Atlantique dramatique, à apprécier avec un parapluie solide. La journée se termine à la Maison de l'Infante, face au port d’humeur changeante."
           },
           "stops": [
             {
@@ -766,7 +794,7 @@
                 "hu": "A környező árkádok védelmet nyújtanak a tér figyelése közben.",
                 "ro": "Arcadele din jur oferă adăpost în timp ce admirați piața.",
                 "en": "The surrounding arcades offer shelter while watching the square.",
-                "fr": "Les arcades environnantes offrent un abri tout en observant la place."
+                "fr": "Les arcades environnantes offrent un abri pour observer la place."
               }
             },
             {
@@ -776,7 +804,7 @@
                 "hu": "A belső vezetés ideális program, amikor kint szakad az eső.",
                 "ro": "Un tur interior este ideal atunci când afară plouă torențial.",
                 "en": "An indoor tour is ideal when it is pouring outside.",
-                "fr": "Une visite intérieure est idéale lorsqu'il pleut des cordes dehors."
+                "fr": "Une visite intérieure est idéale quand il pleut des cordes."
               }
             },
             {
@@ -786,7 +814,7 @@
                 "hu": "Csodálja meg a híres fagalériákat a száraz belső térben.",
                 "ro": "Admirați faimoasele galerii de lemn în interiorul uscat.",
                 "en": "Admire the famous wooden galleries in the dry interior.",
-                "fr": "Admirez les célèbres galeries en bois dans l'intérieur sec."
+                "fr": "Admirez les célèbres galeries en bois dans l’intérieur au sec."
               }
             },
             {
@@ -796,7 +824,7 @@
                 "hu": "Erős szél várható; fogja szorosan az esernyőjét vagy esőkabátját.",
                 "ro": "Vânturi puternice posibile; țineți bine pelerina de ploaie.",
                 "en": "Strong winds possible; hold onto your rain gear tightly.",
-                "fr": "Vents forts possibles ; tenez fermement votre équipement de pluie."
+                "fr": "Des vents forts sont possibles ; retenez bien vos vêtements de pluie."
               }
             },
             {
@@ -806,7 +834,7 @@
                 "hu": "Élvezze a történelmi atmoszférát távol az esőtől.",
                 "ro": "Bucurați-vă de atmosfera istorică departe de ploaie.",
                 "en": "Enjoy the historical atmosphere away from the rain.",
-                "fr": "Profitez de l'atmosphère historique à l'abri de la pluie."
+                "fr": "Profitez de l’atmosphère historique à l’abri de la pluie."
               }
             },
             {
@@ -816,7 +844,7 @@
                 "hu": "Az ösvény csúszós lehet; viseljen jó tapadású cipőt.",
                 "ro": "Poteca poate fi alunecoasă; purtați pantofi cu aderență bună.",
                 "en": "The path can be slippery; wear shoes with good grip.",
-                "fr": "Le sentier peut être glissant ; portez des chaussures avec une bonne adhérence."
+                "fr": "Le sentier peut être glissant ; portez des chaussures à bonne adhérence."
               }
             }
           ],
@@ -850,11 +878,11 @@
               "Waterproof walking shoes are advised for the cliff paths."
             ],
             "fr": [
-              "Utilisez les passages couverts autour de la place Louis XIV pour rester au sec.",
-              "Un parapluie résistant au vent est essentiel sur le littoral exposé.",
-              "La halle du marché est le meilleur endroit pour une pause café au sec.",
-              "Prévoyez les visites de musées pour les heures de midi, quand la pluie est la plus forte.",
-              "Des chaussures de marche imperméables sont conseillées pour les sentiers de falaise."
+              "Utilisez les passages couverts autour de la Place Louis XIV pour rester au sec.",
+              "Un parapluie coupe-vent est essentiel sur la côte exposée.",
+              "La halle du marché est le meilleur endroit pour une pause-café à l’abri.",
+              "Planifiez les visites de musées aux heures de forte pluie de midi.",
+              "Des chaussures de marche imperméables sont recommandées pour les sentiers côtiers."
             ]
           }
         },
@@ -864,7 +892,7 @@
             "hu": "Friss téli reggel a piacon, ahol a forró italoké a főszerep. Délben a templom csendjében pihenünk, elkerülve a hideg fuvallatokat. A délutáni bágyadt napsütésben a tengerparti sétány különleges arcát mutatja. Korán, már öt óra körül élvezzük a naplementét a Sainte-Barbe foknál, mielőtt lehűl az idő.",
             "ro": "O dimineață crocantă de iarnă începe la piață. La prânz, vizităm biserica Saint-Jean-Baptiste, care oferă un refugiu cald. După-amiaza aparține falezei solitare și plajei vaste sub soarele blând de iarnă. La apus, mergem spre Pointe de Sainte-Barbe, înainte ca aerul rece de seară să coboare peste oraș.",
             "en": "A crisp winter morning starts at the market with a hot drink. Midday, we visit the grand Saint-Jean-Baptiste Church for a quiet, warm break. The afternoon is for the lonely promenade and wide beach under the clear winter sun. Enjoy the early sunset at Pointe de Sainte-Barbe before the evening chill sets in.",
-            "fr": "Une matinée d'hiver fraîche commence au marché avec une boisson chaude. Le midi, nous visitons la grande église Saint-Jean-Baptiste pour une pause calme et chaleureuse. L'après-midi est dédié à la promenade solitaire et à la plage immense sous le soleil clair de l'hiver. Profitez du coucher de soleil précoce à la pointe de Sainte-Barbe avant que la fraîcheur du soir ne s'installe."
+            "fr": "Une matinée d’hiver fraîche commence au marché avec une boisson chaude. À midi, visitez la grande Église Saint-Jean-Baptiste pour une pause calme et chaude. L’après-midi est consacrée à la promenade solitaire et à la vaste plage sous le clair soleil d’hiver. Appréciez le coucher de soleil tôt à la Pointe de Sainte-Barbe avant que la fraîcheur du soir n’arrive."
           },
           "stops": [
             {
@@ -874,7 +902,7 @@
                 "hu": "Kóstolja meg a téli helyi különlegességeket, mint a Gâteau Basque.",
                 "ro": "Gustați specialitățile locale de iarnă, cum ar fi Gâteau Basque.",
                 "en": "Try local winter specialties like Gâteau Basque.",
-                "fr": "Goûtez aux spécialités hivernales locales comme le gâteau basque."
+                "fr": "Goûtez les spécialités hivernales locales comme le Gâteau Basque."
               }
             },
             {
@@ -884,7 +912,7 @@
                 "hu": "Élvezzen egy forró italt a fűtött teraszos kávézók egyikében.",
                 "ro": "Savurați o băutură caldă la una dintre cafenelele încălzite.",
                 "en": "Enjoy a hot drink at one of the heated terrace cafes.",
-                "fr": "Profitez d'une boisson chaude à l'une des terrasses chauffées."
+                "fr": "Dégustez une boisson chaude sur l’une des terrasses chauffées."
               }
             },
             {
@@ -894,7 +922,7 @@
                 "hu": "Télen kevesebb a látogató, így meghittebb a látogatás.",
                 "ro": "Mai puțini vizitatori iarna permit o atmosferă mai privată.",
                 "en": "Fewer visitors in winter allow for a more private atmosphere.",
-                "fr": "Moins de visiteurs en hiver permettent une atmosphère plus intime."
+                "fr": "Moins de visiteurs en hiver offrent une atmosphère plus intime."
               }
             },
             {
@@ -904,7 +932,7 @@
                 "hu": "Békés hely, ahol egy kicsit felmelegedhet.",
                 "ro": "Un loc liniștit unde vă puteți încălzi puțin.",
                 "en": "A peaceful place to warm up for a few minutes.",
-                "fr": "Un endroit paisible pour se réchauffer quelques minutes."
+                "fr": "Un lieu paisible pour se réchauffer quelques minutes."
               }
             },
             {
@@ -914,7 +942,7 @@
                 "hu": "A téli napsütés tökéletes egy hosszú tengerparti sétához.",
                 "ro": "Soarele de iarnă este perfect pentru o plimbare lungă.",
                 "en": "The winter sun is perfect for a long seaside walk.",
-                "fr": "Le soleil d'hiver est parfait pour une longue promenade en bord de mer."
+                "fr": "Le soleil d’hiver est parfait pour une longue promenade en bord de mer."
               }
             },
             {
@@ -934,7 +962,7 @@
                 "hu": "A naplemente már 17:30 körül bekövetkezik.",
                 "ro": "Apusul are loc deja în jurul orei 17:30.",
                 "en": "Sunset occurs as early as 17:30 in winter.",
-                "fr": "Le coucher de soleil a lieu dès 17h30 en hiver."
+                "fr": "Le coucher du soleil peut avoir lieu dès 17:30 en hiver."
               }
             }
           ],
@@ -968,11 +996,11 @@
               "Winter air is very clear, making it perfect for landscape photos."
             ],
             "fr": [
-              "Portez plusieurs couches de vêtements contre la brise marine froide.",
-              "Le soleil se couche tôt ; prévoyez votre balade sur les falaises vers 16h00.",
-              "De nombreux cafés proposent des couvertures douillettes en terrasse.",
+              "Portez plusieurs couches contre la brise froide de mer.",
+              "Le coucher du soleil est tôt ; prévoyez votre promenade sur les falaises vers 16:00.",
+              "De nombreux cafés fournissent des plaids confortables pour les terrasses.",
               "Visitez la Chocolaterie Adam pour leur célèbre chocolat chaud.",
-              "L'air hivernal est très clair, ce qui est parfait pour les photos de paysages."
+              "L’air d’hiver est très clair, idéal pour les photos de paysage."
             ]
           }
         }
@@ -991,7 +1019,8 @@
             "de": "Les Halles",
             "hu": "Les Halles piac",
             "ro": "Piața Les Halles",
-            "en": "Les Halles Market"
+            "en": "Les Halles Market",
+            "fr": "Les Halles"
           },
           "coords": [
             -1.661,
@@ -1007,7 +1036,7 @@
             "en": "Get some snacks for your bike ride.",
             "de": "Holen Sie sich Snacks für die Fahrt.",
             "ro": "Luați câteva gustări pentru drum.",
-            "fr": "Prenez des collations pour votre balade à vélo."
+            "fr": "Prenez quelques encas pour votre sortie à vélo."
           }
         },
         {
@@ -1015,7 +1044,8 @@
             "de": "Pointe de Sainte-Barbe",
             "hu": "Sainte-Barbe kilátó",
             "ro": "Sainte-Barbe",
-            "en": "Pointe de Sainte-Barbe"
+            "en": "Pointe de Sainte-Barbe",
+            "fr": "Pointe de Sainte-Barbe"
           },
           "coords": [
             -1.661,
@@ -1039,7 +1069,8 @@
             "de": "Ciboure - Quai Maurice Ravel",
             "hu": "Ciboure - Maurice Ravel rakpart",
             "ro": "Ciboure - Quai Maurice Ravel",
-            "en": "Ciboure - Maurice Ravel Quay"
+            "en": "Ciboure - Maurice Ravel Quay",
+            "fr": "Ciboure - Quais Maurice Ravel"
           },
           "coords": [
             -1.668,
@@ -1055,7 +1086,7 @@
             "en": "Birthplace of the composer Maurice Ravel.",
             "de": "Geburtsort des Konponisten Maurice Ravel.",
             "ro": "Locul de naștere al compozitorului Maurice Ravel.",
-            "fr": "Maison natale du compositeur Maurice Ravel."
+            "fr": "Lieu de naissance du compositeur Maurice Ravel."
           }
         },
         {
@@ -1063,7 +1094,8 @@
             "de": "Fort de Socoa",
             "hu": "Socoa erőd",
             "ro": "Fortul Socoa",
-            "en": "Fort de Socoa"
+            "en": "Fort de Socoa",
+            "fr": "Fort de Socoa"
           },
           "coords": [
             -1.684,
@@ -1079,7 +1111,7 @@
             "en": "Fantastic views of the ocean and the fort walls.",
             "de": "Fantastischer Blick auf den Ozean und das Fort.",
             "ro": "Vedere fantastică asupra oceanului și zidurilor fortului.",
-            "fr": "Vues fantastiques sur l'océan et les murs du fort."
+            "fr": "Vue fantastique sur l’océan et les murailles du fort."
           }
         },
         {
@@ -1087,7 +1119,8 @@
             "de": "Strand von Socoa",
             "hu": "Socoa strandja",
             "ro": "Plaja Socoa",
-            "en": "Socoa Beach"
+            "en": "Socoa Beach",
+            "fr": "Plage de Socoa"
           },
           "coords": [
             -1.682,
@@ -1103,7 +1136,7 @@
             "en": "Quieter beach, perfect for a break.",
             "de": "Ruhigerer Strand, ideal für eine Pause.",
             "ro": "Plajă mai liniștită, perfectă pentru o pauză.",
-            "fr": "Plage plus calme, parfaite pour une pause."
+            "fr": "Plage plus tranquille, parfaite pour une pause."
           }
         },
         {
@@ -1111,7 +1144,8 @@
             "de": "Hafen von Saint-Jean-de-Luz",
             "hu": "Saint-Jean-de-Luz kikötője",
             "ro": "Portul Saint-Jean-de-Luz",
-            "en": "Saint-Jean-de-Luz Harbor"
+            "en": "Saint-Jean-de-Luz Harbor",
+            "fr": "Port de Saint-Jean-de-Luz"
           },
           "coords": [
             -1.664,
@@ -1127,7 +1161,7 @@
             "en": "Watch the colorful fishing boats arrive.",
             "de": "Beobachten Sie die bunten Fischerboote.",
             "ro": "Priviți bărcile colorate de pescuit în port.",
-            "fr": "Regardez arriver les bateaux de pêche colorés."
+            "fr": "Regardez les bateaux de pêche colorés arriver."
           }
         }
       ],
@@ -1136,7 +1170,7 @@
         "en": "Hop on a bike and explore the bay area! After the market, cycle up to the Sainte-Barbe viewpoint, then follow the coast to Ciboure. Visit the famous Socoa Fort, relax on the sandy beach, and end your trip at the bustling harbor watching the fishing boats.",
         "de": "Steigen Sie aufs Rad und erkunden Sie die Bucht! Nach dem Markt radeln Sie zum Aussichtspunkt Sainte-Barbe und folgen dann der Küste nach Ciboure. Besuchen Sie das Fort Socoa, entspannen Sie am Sandstrand und beenden Sie die Tour am belebten Hafen.",
         "ro": "Urcați pe bicicletă și explorați zona golfului! După piață, pedalați până la punctul Sainte-Barbe, apoi urmați coasta spre Ciboure. Vizitați celebrul Fort Socoa, relaxați-vă pe plajă și încheiați ziua în portul plin de viață, admirând bărcile de pescuit.",
-        "fr": "Enfourchez un vélo et explorez la baie ! Après le marché, pédalez jusqu'au point de vue de Sainte-Barbe, puis longez la côte vers Ciboure. Visitez le célèbre Fort de Socoa, détendez-vous sur la plage de sable et terminez votre périple sur le port animé en regardant les bateaux de pêche."
+        "fr": "Montez sur un vélo et explorez la baie ! Après le marché, grimpez au belvédère de Sainte-Barbe, puis suivez la côte jusqu’à Ciboure. Visitez le célèbre Fort de Socoa, détendez-vous sur la plage de sable et terminez votre excursion au port animé en regardant les bateaux de pêche."
       },
       "gastro_picks": {
         "hu": [
@@ -1330,10 +1364,10 @@
           "Drumul spre Socoa este aproape în întregime de-a lungul coastei."
         ],
         "fr": [
-          "Utilisez la piste cyclable balisée de la Vélodyssée.",
-          "Attention à la circulation au niveau du pont sur la Nivelle.",
-          "Louez un vélo électrique si vous prévoyez d'explorer les collines.",
-          "Le trajet vers Socoa se fait principalement le long du littoral."
+          "Utilisez la piste cyclable Vélodyssée dédiée.",
+          "Soyez prudent avec la circulation au pont sur la Nivelle.",
+          "Louez un vélo électrique si vous comptez explorer les collines.",
+          "La route jusqu’à Socoa longe principalement le littoral."
         ]
       },
       "variants": {
@@ -1342,7 +1376,8 @@
             "hu": "Pattanjon nyeregbe és fedezze fel az öböl környékét! A piac után tekerjen fel a Sainte-Barbe kilátóhoz, majd a parton haladva érje el Ciboure-t. Látogasson el a híres Socoa erődöz, pihenjen a homokos parton, majd zárja a napot a nyüzsgő kikötőben a halászhajók látványával.",
             "en": "Hop on a bike and explore the bay area! After the market, cycle up to the Sainte-Barbe viewpoint, then follow the coast to Ciboure. Visit the famous Socoa Fort, relax on the sandy beach, and end your trip at the bustling harbor watching the fishing boats.",
             "de": "Steigen Sie aufs Rad und erkunden Sie die Bucht! Nach dem Markt radeln Sie zum Aussichtspunkt Sainte-Barbe und folgen dann der Küste nach Ciboure. Besuchen Sie das Fort Socoa, entspannen Sie am Sandstrand und beenden Sie die Tour am belebten Hafen.",
-            "ro": "Urcați pe bicicletă și explorați zona golfului! După piață, pedalați până la punctul Sainte-Barbe, apoi urmați coasta spre Ciboure. Vizitați celebrul Fort Socoa, relaxați-vă pe plajă și încheiați ziua în portul plin de viață, admirând bărcile de pescuit."
+            "ro": "Urcați pe bicicletă și explorați zona golfului! După piață, pedalați până la punctul Sainte-Barbe, apoi urmați coasta spre Ciboure. Vizitați celebrul Fort Socoa, relaxați-vă pe plajă și încheiați ziua în portul plin de viață, admirând bărcile de pescuit.",
+            "fr": "Montez sur un vélo et explorez la baie ! Après le marché, grimpez au belvédère de Sainte-Barbe, puis suivez la côte jusqu’à Ciboure. Visitez le célèbre Fort de Socoa, détendez-vous sur la plage de sable et terminez votre excursion au port animé en regardant les bateaux de pêche."
           },
           "stops": [
             {
@@ -1350,13 +1385,15 @@
                 "de": "Les Halles",
                 "hu": "Les Halles piac",
                 "ro": "Piața Les Halles",
-                "en": "Les Halles Market"
+                "en": "Les Halles Market",
+                "fr": "Les Halles"
               },
               "tip_5lang": {
                 "hu": "Vegyünk útravalót a kerékpározáshoz.",
                 "en": "Get some snacks for your bike ride.",
                 "de": "Holen Sie sich Snacks für die Fahrt.",
-                "ro": "Luați câteva gustări pentru drum."
+                "ro": "Luați câteva gustări pentru drum.",
+                "fr": "Prenez quelques encas pour votre sortie à vélo."
               }
             },
             {
@@ -1364,13 +1401,15 @@
                 "de": "Pointe de Sainte-Barbe",
                 "hu": "Sainte-Barbe kilátó",
                 "ro": "Sainte-Barbe",
-                "en": "Pointe de Sainte-Barbe"
+                "en": "Pointe de Sainte-Barbe",
+                "fr": "Pointe de Sainte-Barbe"
               },
               "tip_5lang": {
                 "hu": "Könnyű emelkedő, megéri a kilátásért.",
                 "en": "Easy climb, well worth the view.",
                 "de": "Leichter Anstieg, der Blick lohnt sich.",
-                "ro": "Urcare ușoară, merită pentru priveliște."
+                "ro": "Urcare ușoară, merită pentru priveliște.",
+                "fr": "Montée facile, la vue en vaut la peine."
               }
             },
             {
@@ -1378,13 +1417,15 @@
                 "de": "Ciboure - Quai Maurice Ravel",
                 "hu": "Ciboure - Maurice Ravel rakpart",
                 "ro": "Ciboure - Quai Maurice Ravel",
-                "en": "Ciboure - Maurice Ravel Quay"
+                "en": "Ciboure - Maurice Ravel Quay",
+                "fr": "Ciboure - Quais Maurice Ravel"
               },
               "tip_5lang": {
                 "hu": "Itt született a zeneszerző, Maurice Ravel.",
                 "en": "Birthplace of the composer Maurice Ravel.",
                 "de": "Geburtsort des Konponisten Maurice Ravel.",
-                "ro": "Locul de naștere al compozitorului Maurice Ravel."
+                "ro": "Locul de naștere al compozitorului Maurice Ravel.",
+                "fr": "Lieu de naissance du compositeur Maurice Ravel."
               }
             },
             {
@@ -1392,13 +1433,15 @@
                 "de": "Fort de Socoa",
                 "hu": "Socoa erőd",
                 "ro": "Fortul Socoa",
-                "en": "Fort de Socoa"
+                "en": "Fort de Socoa",
+                "fr": "Fort de Socoa"
               },
               "tip_5lang": {
                 "hu": "Fantasztikus kilátás az óceánra és az erőd falaira.",
                 "en": "Fantastic views of the ocean and the fort walls.",
                 "de": "Fantastischer Blick auf den Ozean und das Fort.",
-                "ro": "Vedere fantastică asupra oceanului și zidurilor fortului."
+                "ro": "Vedere fantastică asupra oceanului și zidurilor fortului.",
+                "fr": "Vue fantastique sur l’océan et les murailles du fort."
               }
             },
             {
@@ -1406,13 +1449,15 @@
                 "de": "Strand von Socoa",
                 "hu": "Socoa strandja",
                 "ro": "Plaja Socoa",
-                "en": "Socoa Beach"
+                "en": "Socoa Beach",
+                "fr": "Plage de Socoa"
               },
               "tip_5lang": {
                 "hu": "Csendesebb strand, tökéletes pihenésre.",
                 "en": "Quieter beach, perfect for a break.",
                 "de": "Ruhigerer Strand, ideal für eine Pause.",
-                "ro": "Plajă mai liniștită, perfectă pentru o pauză."
+                "ro": "Plajă mai liniștită, perfectă pentru o pauză.",
+                "fr": "Plage plus calme, parfaite pour une pause."
               }
             },
             {
@@ -1420,13 +1465,15 @@
                 "de": "Hafen von Saint-Jean-de-Luz",
                 "hu": "Saint-Jean-de-Luz kikötője",
                 "ro": "Portul Saint-Jean-de-Luz",
-                "en": "Saint-Jean-de-Luz Harbor"
+                "en": "Saint-Jean-de-Luz Harbor",
+                "fr": "Port de Saint-Jean-de-Luz"
               },
               "tip_5lang": {
                 "hu": "Nézze meg a színes halászhajók érkezését.",
                 "en": "Watch the colorful fishing boats arrive.",
                 "de": "Beobachten Sie die bunten Fischerboote.",
-                "ro": "Priviți bărcile colorate de pescuit în port."
+                "ro": "Priviți bărcile colorate de pescuit în port.",
+                "fr": "Regardez les bateaux de pêche colorés arriver."
               }
             }
           ],
@@ -1588,6 +1635,12 @@
               "Atenție la trafic pe podul peste râul Nivelle.",
               "Închiriați o bicicletă electrică pentru a urca pe dealuri.",
               "Drumul spre Socoa este aproape în întregime de-a lungul coastei."
+            ],
+            "fr": [
+              "Empruntez la piste cyclable Vélodyssée dédiée.",
+              "Faites attention à la circulation sur le pont au-dessus de la Nivelle.",
+              "Louez un vélo électrique si vous comptez explorer les collines.",
+              "La route jusqu'à Socoa longe principalement le littoral."
             ]
           }
         },
@@ -1597,7 +1650,7 @@
             "hu": "Az eső ellenére a piacnál nyeregbe pattanunk. Óvatosan tekerünk a Sainte-Barbe fokig, ahol a tajték a szikláknak csapódik. Délben elérjük a Socoa erődöt, amely méltóságteljes a szürkületben. A visszaút a kikötő mentén vezet, ahol a halászhajók táncolnak az esőben.",
             "ro": "În ciuda ploii, pornim turul cu bicicleta de la piață. Pedalăm cu atenție spre Sainte-Barbe, unde spuma mării lovește stâncile. La prânz ajungem la Fort de Socoa, o destinație marcantă în lumina gri. Drumul de întoarcere trece pe lângă port, unde bărcile dansează în ploaie.",
             "en": "Despite the rain, we start the bike tour at the market. Cycling carefully to Sainte-Barbe, we watch the spray hit the cliffs. By midday, we reach Fort de Socoa, a striking sight in the grey light. The return path follows the harbor, where fishing boats sway in the rain.",
-            "fr": "Malgré la pluie, nous commençons le tour à vélo au marché. En pédalant prudemment vers Sainte-Barbe, nous regardons les embruns frapper les falaises. À la mi-journée, nous atteignons le Fort de Socoa, un spectacle saisissant sous la lumière grise. Le chemin du retour longe le port, où les bateaux de pêche se balancent sous la pluie."
+            "fr": "Malgré la pluie, nous commençons la randonnée à vélo au marché. En pédalant prudemment vers Sainte-Barbe, nous observons les embruns frapper les falaises. À midi, nous atteignons le Fort de Socoa, une vision saisissante dans la lumière grise. Le chemin du retour longe le port, où les bateaux de pêche se balancent sous la pluie."
           },
           "stops": [
             {
@@ -1617,7 +1670,7 @@
                 "hu": "Vigyázzon a csúszós kövekre a kilátópontnál.",
                 "ro": "Atenție la pietrele alunecoase de la punctul de belvedere.",
                 "en": "Watch out for slippery stones at the viewpoint.",
-                "fr": "Attention aux pierres glissantes au point de vue."
+                "fr": "Méfiez-vous des pierres glissantes au point de vue."
               }
             },
             {
@@ -1627,7 +1680,7 @@
                 "hu": "Rövid pihenő a rakparti előtetők alatt.",
                 "ro": "Scurtă pauză sub streșinile de pe chei.",
                 "en": "Short break under the overhangs along the quay.",
-                "fr": "Courte pause sous les avancées de toit le long du quai."
+                "fr": "Courte pause sous les auvents le long du quai."
               }
             },
             {
@@ -1647,7 +1700,7 @@
                 "hu": "A homok tömör, de a sétányon tekerni biztonságosabb.",
                 "ro": "Nisipul este ferm, dar faleza este mai sigură.",
                 "en": "The sand is firm, but the promenade is safer for cycling.",
-                "fr": "Le sable est ferme, mais la promenade est plus sûre pour circuler."
+                "fr": "Le sable est ferme, mais la promenade est plus sûre pour le vélo."
               }
             },
             {
@@ -1691,11 +1744,11 @@
               "Keep your lights on to remain visible in the gloom."
             ],
             "fr": [
-              "Portez un équipement de pluie complet, y compris des surchaussures imperméables.",
-              "Évitez les virages serrés sur les routes mouillées et glissantes.",
-              "Cherchez des parcs à vélos couverts lors de vos arrêts.",
-              "Les garde-boue sont essentiels par ce temps côtier.",
-              "Gardez vos feux allumés pour rester visible dans la grisaille."
+              "Portez une tenue de pluie complète, y compris des couvre-chaussures imperméables.",
+              "Évitez les virages serrés sur routes mouillées et glissantes.",
+              "Cherchez des arceaux couverts pour vélos lors de vos arrêts.",
+              "Les garde-boue sont indispensables par ce temps côtier.",
+              "Gardez vos feux allumés pour rester visible dans la pénombre."
             ]
           }
         },
@@ -1705,7 +1758,7 @@
             "hu": "A tiszta téli levegő frissítővé teszi a reggeli tekerést. Feltekerünk a Sainte-Barbe fokhoz a teljes öböl látványáért. Délben Ciboure és a Socoa erőd következik, ahol a téli nap megcsillan a köveken. Gyorsan visszatekerünk a kikötőbe, hogy elkapjuk az aranyórát a korai naplemente előtt.",
             "ro": "Aerul curat de iarnă face pedalarea de dimineață revigorantă. Urcăm la Sainte-Barbe pentru o vedere panoramică asupra golfului. La prânz, turul duce la Ciboure și Fort de Socoa, unde soarele de iarnă sclipește pe pietre. Pedalăm rapid înapoi spre port pentru a prinde ora de aur.",
             "en": "The clear winter air makes the morning cycle refreshing. We climb to Sainte-Barbe for a wide view over the bay. Midday takes us to Ciboure and Fort de Socoa, where the winter sun glints off the stones. We cycle briskly back to the harbor to catch the golden hour before sunset.",
-            "fr": "L'air clair de l'hiver rend la balade matinale rafraîchissante. Nous montons à Sainte-Barbe pour une vue dégagée sur la baie. Le midi nous emmène à Ciboure et au Fort de Socoa, où le soleil d'hiver scintille sur les pierres. Nous rentrons rapidement au port pour profiter de l'heure dorée avant le coucher du soleil."
+            "fr": "L'air clair de l'hiver rend la sortie matinale vivifiante. Nous montons à Sainte-Barbe pour une large vue sur la baie. À midi, nous passons par Ciboure et le Fort de Socoa, où le soleil d'hiver scintille sur les pierres. Nous rentrons d'un bon rythme vers le port pour profiter de l'heure dorée avant le coucher du soleil."
           },
           "stops": [
             {
@@ -1715,7 +1768,7 @@
                 "hu": "Csak akkor induljon, ha a reggeli fagy már felengedett.",
                 "ro": "Porniți doar după ce înghețul de pe drumuri s-a topit.",
                 "en": "Start only once any morning frost on the roads has melted.",
-                "fr": "Ne partez qu'une fois que le givre matinal sur les routes a fondu."
+                "fr": "Ne partez qu'une fois le gel matinal sur les routes fondu."
               }
             },
             {
@@ -1725,7 +1778,7 @@
                 "hu": "A fenti szél télen nagyon jeges lehet.",
                 "ro": "Vântul de sus poate fi foarte tăios iarna.",
                 "en": "The wind at the top can be very icy in winter.",
-                "fr": "Le vent au sommet peut être glacial en hiver."
+                "fr": "Le vent au sommet peut être très glacial en hiver."
               }
             },
             {
@@ -1745,7 +1798,7 @@
                 "hu": "Télen magányos hely, tökéletes a tömeg nélküli fotókhoz.",
                 "ro": "Un loc solitar iarna, perfect pentru poze fără mulțime.",
                 "en": "A lonely spot in winter, perfect for photos without crowds.",
-                "fr": "Un endroit solitaire en hiver, parfait pour des photos sans la foule."
+                "fr": "Endroit désert en hiver, parfait pour des photos sans foule."
               }
             },
             {
@@ -1755,7 +1808,7 @@
                 "hu": "Élvezze az üres tengerpart csendjét.",
                 "ro": "Bucurați-vă de liniștea plajei pustii.",
                 "en": "Enjoy the silence of the empty beach.",
-                "fr": "Profitez du silence de la plage déserte."
+                "fr": "Profitez du silence de la plage vide."
               }
             },
             {
@@ -1765,7 +1818,7 @@
                 "hu": "Igyekezzen, a hőmérséklet 16 óra után gyorsan süllyed.",
                 "ro": "Grăbiți-vă, temperaturile scad rapid după ora 16.",
                 "en": "Hurry back, as temperatures drop quickly after 16:00.",
-                "fr": "Rentrez vite, car les températures chutent rapidement après 16h00."
+                "fr": "Rappelez-vous de revenir vite, les températures chutent rapidement après 16:00."
               }
             }
           ],
@@ -1800,10 +1853,10 @@
             ],
             "fr": [
               "Portez des gants coupe-vent et un bonnet fin sous votre casque.",
-              "Attention au verglas dans les virages et coins ombragés.",
-              "Prévoyez un itinéraire plus court car le jour tombe beaucoup plus tôt.",
-              "Arrêtez-vous dans les boulangeries locales pour des pauses boissons chaudes.",
-              "Baissez légèrement la pression de vos pneus pour une meilleure adhérence sur sol froid."
+              "Surveillez le verglas dans les coins ombragés et les virages.",
+              "Prévoyez un itinéraire plus court car la lumière du jour se termine beaucoup plus tôt.",
+              "Arrêtez-vous dans les boulangeries locales pour des boissons chaudes.",
+              "Baissez légèrement la pression des pneus pour une meilleure adhérence sur les routes froides."
             ]
           }
         }
@@ -1822,7 +1875,8 @@
             "de": "Les Halles Parkplatz",
             "hu": "Piac melletti parkoló",
             "ro": "Parcare Piața Les Halles",
-            "en": "Les Halles Parking"
+            "en": "Les Halles Parking",
+            "fr": "Parking des Halles"
           },
           "coords": [
             -1.6605,
@@ -1838,7 +1892,7 @@
             "en": "Arrive early to find a parking spot.",
             "de": "Früh ankommen, um einen Platz zu finden.",
             "ro": "Sosiți devreme pentru a găsi loc de parcare.",
-            "fr": "Arrivez tôt pour trouver une place de parking."
+            "fr": "Arrivez tôt pour trouver une place de stationnement."
           }
         },
         {
@@ -1846,7 +1900,8 @@
             "de": "Maison Louis XIV",
             "hu": "XIV. Lajos háza",
             "ro": "Casa Ludovic al XIV-lea",
-            "en": "Maison Louis XIV"
+            "en": "Maison Louis XIV",
+            "fr": "Maison Louis XIV"
           },
           "coords": [
             -1.6628,
@@ -1870,7 +1925,8 @@
             "de": "Kirche Saint-Jean-Baptiste",
             "hu": "Keresztelő Szent János-templom",
             "ro": "Biserica Sfântul Ioan Botezătorul",
-            "en": "Saint-Jean-Baptiste Church"
+            "en": "Saint-Jean-Baptiste Church",
+            "fr": "Église Saint-Jean-Baptiste"
           },
           "coords": [
             -1.6618,
@@ -1886,7 +1942,7 @@
             "en": "One of the largest Baroque altarpieces in France.",
             "de": "Eines der größten Barockretabel Frankreichs.",
             "ro": "Unul dintre cele mai mari altare baroce din Franța.",
-            "fr": "L'un des plus grands retables baroques de France."
+            "fr": "Un des plus grands retables baroques de France."
           }
         },
         {
@@ -1894,7 +1950,8 @@
             "de": "Fort de Socoa",
             "hu": "Socoa erőd",
             "ro": "Fortul Socoa",
-            "en": "Fort de Socoa"
+            "en": "Fort de Socoa",
+            "fr": "Fort de Socoa"
           },
           "coords": [
             -1.684,
@@ -1918,7 +1975,8 @@
             "de": "Corniche Basque (Küstenstraße)",
             "hu": "Baszk Corniche út",
             "ro": "Corniche Basque (Drum de coastă)",
-            "en": "Corniche Basque (Coastal Road)"
+            "en": "Corniche Basque (Coastal Road)",
+            "fr": "Corniche Basque (Route côtière)"
           },
           "coords": [
             -1.71,
@@ -1934,7 +1992,7 @@
             "en": "Stop at the viewpoints above the cliffs.",
             "de": "Halten Sie an den Aussichtspunkten über den Klippen.",
             "ro": "Opriți la punctele de belvedere deasupra falezelor.",
-            "fr": "Arrêtez-vous aux belvédères au-dessus des falaises."
+            "fr": "Arrêtez-vous aux points de vue au-dessus des falaises."
           }
         },
         {
@@ -1942,7 +2000,8 @@
             "de": "Château d'Abbadia",
             "hu": "Abbadia kastély",
             "ro": "Castelul Abbadia",
-            "en": "Château d'Abbadia"
+            "en": "Château d'Abbadia",
+            "fr": "Château d'Abbadia"
           },
           "coords": [
             -1.748,
@@ -1958,7 +2017,7 @@
             "en": "Neo-Gothic castle with an observatory.",
             "de": "Neugotisches Schloss mit Observatorium.",
             "ro": "Castel neogotic cu un observator astronomic.",
-            "fr": "Château néogothique avec un observatoire."
+            "fr": "Château néo-gothique avec un observatoire."
           }
         }
       ],
@@ -1967,7 +2026,7 @@
         "en": "Expand your horizons by car! Start the morning in the historical center of Saint-Jean-de-Luz, then head west. Discover the Socoa Fort and drive along the stunning Corniche coastal road. The highlight of the day will be the unique Abbadia Castle near Hendaye.",
         "de": "Erweitern Sie Ihren Horizont mit dem Auto! Beginnen Sie im historischen Zentrum von Saint-Jean-de-Luz und fahren Sie dann nach Westen. Entdecken Sie das Fort Socoa und genießen Sie die Panoramafahrt entlang der Corniche. Höhepunkt ist das einzigartige Schloss Abbadia bei Hendaye.",
         "ro": "Extindeți orizontul cu mașina! Începeți dimineața în centrul istoric al orașului Saint-Jean-de-Luz, apoi îndreptați-vă spre vest. Descoperiți Fortul Socoa și conduceți pe spectaculosul drum de coastă Corniche. Punctul culminant al zilei va fi castelul Abbadia de lângă Hendaye.",
-        "fr": "Élargissez vos horizons en voiture ! Commencez la matinée dans le centre historique de Saint-Jean-de-Luz, puis dirigez-vous vers l'ouest. Découvrez le Fort de Socoa et roulez le long de la superbe route de la Corniche. Le point fort de la journée sera l'unique Château d'Abbadia près d'Hendaye."
+        "fr": "Élargissez vos horizons en voiture ! Commencez la matinée dans le centre historique de Saint-Jean-de-Luz, puis dirigez-vous vers l'ouest. Découvrez le Fort de Socoa et empruntez la magnifique route côtière de la Corniche. Le point fort de la journée sera l'unique Château d'Abbadia près d'Hendaye."
       },
       "gastro_picks": {
         "hu": [
@@ -2161,9 +2220,9 @@
           "Se recomandă rezervarea biletelor pentru Castelul Abbadia în avans."
         ],
         "fr": [
-          "Le parking Foch est le plus pratique du centre-ville.",
+          "Le parking Foch est le plus pratique en centre-ville.",
           "En été, utilisez les parkings relais aux limites de la ville.",
-          "La route de la Corniche est prisée ; conduisez prudemment dans les virages.",
+          "La Corniche est fréquentée ; conduisez prudemment dans les virages.",
           "Il est recommandé de réserver les billets pour le Château d'Abbadia à l'avance."
         ]
       },
@@ -2173,7 +2232,8 @@
             "hu": "Autóval tágíthatja a láthatárt! Kezdje a délelőttöt Saint-Jean-de-Luz történelmi központjában, majd induljon el nyugat felé. Fedezze fel Socoa erődjét, majd autózzon végig a lenyűgöző sziklák mentén futó Corniche úton. A nap fénypontja a különleges Abbadia kastély lesz Hendaye határában.",
             "en": "Expand your horizons by car! Start the morning in the historical center of Saint-Jean-de-Luz, then head west. Discover the Socoa Fort and drive along the stunning Corniche coastal road. The highlight of the day will be the unique Abbadia Castle near Hendaye.",
             "de": "Erweitern Sie Ihren Horizont mit dem Auto! Beginnen Sie im historischen Zentrum von Saint-Jean-de-Luz und fahren Sie dann nach Westen. Entdecken Sie das Fort Socoa und genießen Sie die Panoramafahrt entlang der Corniche. Höhepunkt ist das einzigartige Schloss Abbadia bei Hendaye.",
-            "ro": "Extindeți orizontul cu mașina! Începeți dimineața în centrul istoric al orașului Saint-Jean-de-Luz, apoi îndreptați-vă spre vest. Descoperiți Fortul Socoa și conduceți pe spectaculosul drum de coastă Corniche. Punctul culminant al zilei va fi castelul Abbadia de lângă Hendaye."
+            "ro": "Extindeți orizontul cu mașina! Începeți dimineața în centrul istoric al orașului Saint-Jean-de-Luz, apoi îndreptați-vă spre vest. Descoperiți Fortul Socoa și conduceți pe spectaculosul drum de coastă Corniche. Punctul culminant al zilei va fi castelul Abbadia de lângă Hendaye.",
+            "fr": "Élargissez vos horizons en voiture ! Commencez la matinée dans le centre historique de Saint-Jean-de-Luz, puis dirigez-vous vers l'ouest. Découvrez le Fort de Socoa et empruntez la magnifique route côtière de la Corniche. Le point fort de la journée sera l'unique Château d'Abbadia près d'Hendaye."
           },
           "stops": [
             {
@@ -2181,13 +2241,15 @@
                 "de": "Les Halles Parkplatz",
                 "hu": "Piac melletti parkoló",
                 "ro": "Parcare Piața Les Halles",
-                "en": "Les Halles Parking"
+                "en": "Les Halles Parking",
+                "fr": "Parking des Halles"
               },
               "tip_5lang": {
                 "hu": "Érkezzen korán, hogy találjon helyet.",
                 "en": "Arrive early to find a parking spot.",
                 "de": "Früh ankommen, um einen Platz zu finden.",
-                "ro": "Sosiți devreme pentru a găsi loc de parcare."
+                "ro": "Sosiți devreme pentru a găsi loc de parcare.",
+                "fr": "Arrivez tôt pour trouver une place de stationnement."
               }
             },
             {
@@ -2195,13 +2257,15 @@
                 "de": "Maison Louis XIV",
                 "hu": "XIV. Lajos háza",
                 "ro": "Casa Ludovic al XIV-lea",
-                "en": "Maison Louis XIV"
+                "en": "Maison Louis XIV",
+                "fr": "Maison Louis XIV"
               },
               "tip_5lang": {
                 "hu": "A királyi lakosztályok látogathatók.",
                 "en": "The royal apartments can be visited.",
                 "de": "Die königlichen Gemächer können besichtigt werden.",
-                "ro": "Apartamentele regale pot fi vizitate."
+                "ro": "Apartamentele regale pot fi vizitate.",
+                "fr": "Les appartements royaux peuvent être visités."
               }
             },
             {
@@ -2209,13 +2273,15 @@
                 "de": "Kirche Saint-Jean-Baptiste",
                 "hu": "Keresztelő Szent János-templom",
                 "ro": "Biserica Sfântul Ioan Botezătorul",
-                "en": "Saint-Jean-Baptiste Church"
+                "en": "Saint-Jean-Baptiste Church",
+                "fr": "Église Saint-Jean-Baptiste"
               },
               "tip_5lang": {
                 "hu": "Franciaország egyik legnagyobb barokk oltára.",
                 "en": "One of the largest Baroque altarpieces in France.",
                 "de": "Eines der größten Barockretabel Frankreichs.",
-                "ro": "Unul dintre cele mai mari altare baroce din Franța."
+                "ro": "Unul dintre cele mai mari altare baroce din Franța.",
+                "fr": "Un des plus grands retables baroques de France."
               }
             },
             {
@@ -2223,13 +2289,15 @@
                 "de": "Fort de Socoa",
                 "hu": "Socoa erőd",
                 "ro": "Fortul Socoa",
-                "en": "Fort de Socoa"
+                "en": "Fort de Socoa",
+                "fr": "Fort de Socoa"
               },
               "tip_5lang": {
                 "hu": "Vauban mérnök munkája a tengerpart védelmére.",
                 "en": "Engineered by Vauban to protect the coast.",
                 "de": "Von Vauban entworfen, um die Küste zu schützen.",
-                "ro": "Proiectat de Vauban pentru a proteja coasta."
+                "ro": "Proiectat de Vauban pentru a proteja coasta.",
+                "fr": "Conçu par Vauban pour protéger la côte."
               }
             },
             {
@@ -2237,13 +2305,15 @@
                 "de": "Corniche Basque (Küstenstraße)",
                 "hu": "Baszk Corniche út",
                 "ro": "Corniche Basque (Drum de coastă)",
-                "en": "Corniche Basque (Coastal Road)"
+                "en": "Corniche Basque (Coastal Road)",
+                "fr": "Corniche Basque (Route côtière)"
               },
               "tip_5lang": {
                 "hu": "Álljon meg a kilátópontoknál a sziklák felett.",
                 "en": "Stop at the viewpoints above the cliffs.",
                 "de": "Halten Sie an den Aussichtspunkten über den Klippen.",
-                "ro": "Opriți la punctele de belvedere deasupra falezelor."
+                "ro": "Opriți la punctele de belvedere deasupra falezelor.",
+                "fr": "Arrêtez-vous aux points de vue au-dessus des falaises."
               }
             },
             {
@@ -2251,13 +2321,15 @@
                 "de": "Château d'Abbadia",
                 "hu": "Abbadia kastély",
                 "ro": "Castelul Abbadia",
-                "en": "Château d'Abbadia"
+                "en": "Château d'Abbadia",
+                "fr": "Château d'Abbadia"
               },
               "tip_5lang": {
                 "hu": "Neogótikus kastély obszervatóriummal.",
                 "en": "Neo-Gothic castle with an observatory.",
                 "de": "Neugotisches Schloss mit Observatorium.",
-                "ro": "Castel neogotic cu un observator astronomic."
+                "ro": "Castel neogotic cu un observator astronomic.",
+                "fr": "Château néo-gothique avec un observatoire."
               }
             }
           ],
@@ -2419,6 +2491,12 @@
               "Vara, folosiți parcările P+R de la marginea orașului.",
               "Drumul Corniche este popular; conduceți cu atenție în curbe.",
               "Se recomandă rezervarea biletelor pentru Castelul Abbadia în avans."
+            ],
+            "fr": [
+              "Le parking Foch est le plus pratique en centre-ville.",
+              "En été, utilisez les parkings relais aux limites de la ville.",
+              "La Corniche est fréquentée ; conduisez prudemment dans les virages.",
+              "Il est recommandé de réserver les billets pour le Château d'Abbadia à l'avance."
             ]
           }
         },
@@ -2428,7 +2506,7 @@
             "hu": "Kényelmesen, autóval vágunk neki az esős partvidéknek. Az óváros megtekintése után a Socoa erődhöz hajtunk, miközben az ablaktörlők ütemesen járnak. A csúcspont a Corniche Basque, ahol az autónk biztonságából csodáljuk a sziklákat. A napot szárazon zárjuk a Château d'Abbadia látogatásával.",
             "ro": "Confortabil în mașină, înfruntăm ploaia pe drumul de coastă. După vizitarea centrului vechi, mergem la Fort de Socoa sub ritmul ștergătoarelor. Punctul culminant este Corniche Basque, unde admirăm falezele din siguranța mașinii. Ziua se încheie la Château d'Abbadia, feriți de intemperii.",
             "en": "Comfortably in the car, we brave the rain along the coast. After visiting the old town, we drive to Fort de Socoa with wipers going steadily. The highlight is the Corniche Basque, where we admire the crashing waves from the safety of the car. The day ends dryly at Château d'Abbadia.",
-            "fr": "Confortablement en voiture, nous bravons la pluie le long de la côte. Après avoir visité la vieille ville, nous roulons vers le Fort de Socoa avec les essuie-glaces en marche. Le point fort est la Corniche basque, où nous admirons les vagues déferlantes depuis la sécurité de la voiture. La journée se termine au sec au Château d'Abbadia."
+            "fr": "Confortablement en voiture, nous bravons la pluie le long de la côte. Après avoir visité la vieille ville, nous roulons jusqu'au Fort de Socoa avec les essuie-glaces qui fonctionnent sans arrêt. Le clou du parcours est la Corniche Basque, d'où nous admirons les vagues se briser en sécurité depuis la voiture. La journée se termine au sec au Château d'Abbadia."
           },
           "stops": [
             {
@@ -2438,7 +2516,7 @@
                 "hu": "A fedett parkoló megkíméli az esőben való gyaloglástól.",
                 "ro": "Parcarea acoperită vă scutește de mersul prin ploaie.",
                 "en": "Covered parking saves you from walking through the rain.",
-                "fr": "Le parking couvert vous évite de marcher sous la pluie."
+                "fr": "Un parking couvert vous évite de traverser la pluie à pied."
               }
             },
             {
@@ -2448,7 +2526,7 @@
                 "hu": "Használja a közeli parkolót, hogy száraz maradjon.",
                 "ro": "Folosiți parcarea din apropiere pentru a rămâne uscat.",
                 "en": "Use the nearby parking to stay dry for the visit.",
-                "fr": "Utilisez le parking à proximité pour rester au sec lors de la visite."
+                "fr": "Utilisez le parking à proximité pour rester au sec pendant la visite."
               }
             },
             {
@@ -2458,7 +2536,7 @@
                 "hu": "Ideális megálló, amikor az eső intenzívebbé válik.",
                 "ro": "Ideal pentru o pauză când ploaia devine intensă.",
                 "en": "Ideal for a break when the rain intensifies.",
-                "fr": "Idéal pour une pause quand la pluie s'intensifie."
+                "fr": "Idéal pour faire une pause lorsque la pluie s'intensifie."
               }
             },
             {
@@ -2468,7 +2546,7 @@
                 "hu": "Jó kilátás az erődre közvetlenül a parkolóból.",
                 "ro": "Vedere bună spre fort direct din parcare.",
                 "en": "Good view of the fort directly from the parking lot.",
-                "fr": "Bonne vue sur le fort directement depuis le parking."
+                "fr": "Belle vue sur le fort directement depuis le parking."
               }
             },
             {
@@ -2478,7 +2556,7 @@
                 "hu": "A legjobb mód a partvidék megtekintésére heves esőben.",
                 "ro": "Cel mai bun mod de a vedea coasta pe ploaie torențială.",
                 "en": "The best way to see the coastline during heavy rain.",
-                "fr": "Le meilleur moyen de voir le littoral pendant les fortes pluies."
+                "fr": "La meilleure façon de voir le littoral par forte pluie."
               }
             },
             {
@@ -2488,7 +2566,7 @@
                 "hu": "Tervezzen sok időt a kastély belső tereire.",
                 "ro": "Planificați mult timp pentru interiorul castelului.",
                 "en": "Plan plenty of time for the castle's interior.",
-                "fr": "Prévoyez suffisamment de temps pour l'intérieur du château."
+                "fr": "Prévoyez largement de temps pour l'intérieur du château."
               }
             }
           ],
@@ -2522,11 +2600,11 @@
               "Keep an umbrella handy in the car for short walks to entrances."
             ],
             "fr": [
-              "Assurez-vous que vos essuie-glaces sont en parfait état.",
-              "Évitez les grandes flaques d'eau sur la route panoramique de la Corniche.",
-              "Privilégiez les parkings couverts plutôt que les parkings en plein air.",
-              "La visibilité peut être limitée sur les falaises lors d'averses intenses.",
-              "Gardez un parapluie à portée de main dans la voiture pour les courts trajets vers les entrées."
+              "Assurez-vous que vos essuie-glaces sont en bon état.",
+              "Évitez les grandes flaques sur la route panoramique de la Corniche.",
+              "Privilégiez les parkings en hauteur plutôt que les emplacements en plein air.",
+              "La visibilité peut être limitée sur les falaises lors d'averses fortes.",
+              "Gardez un parapluie dans la voiture pour les courts trajets jusqu'aux entrées."
             ]
           }
         },
@@ -2536,7 +2614,7 @@
             "hu": "Kellemes autózás a téli baszk tengerparton a piacnál kezdve. Délben az óvárost járjuk be, majd a Socoa erődhöz hajtunk a friss, hideg levegőn. A Corniche Basque útvonal látványos panorámát nyújt az alacsonyan járó téli napfényben. A napot a mesebeli Château d'Abbadia kastélynál zárjuk.",
             "ro": "O plimbare plăcută prin coasta bască de iarnă începe la piață. La prânz vizităm centrul istoric, apoi continuăm spre Fort de Socoa, unde aerul este curat și rece. Drumul pe Corniche Basque oferă vederi spectaculoase sub soarele jos de iarnă. Finalul este la castelul de poveste Abbadia.",
             "en": "A cozy drive through the winter Basque coast starts at the market. Midday, we explore the historic old town before heading to Fort de Socoa in the crisp air. The drive over Corniche Basque offers spectacular views in the low winter sun. The day concludes at the fairytale Château d'Abbadia.",
-            "fr": "Une balade douillette en voiture à travers la côte basque hivernale commence au marché. Le midi, nous explorons la vieille ville historique avant de nous diriger vers le Fort de Socoa dans l'air frais. Le trajet sur la Corniche basque offre des vues spectaculaires sous le bas soleil d'hiver. La journée se termine au féerique Château d'Abbadia."
+            "fr": "Une balade confortable le long de la côte basque hivernale commence au marché. À midi, nous explorons la vieille ville avant de nous rendre au Fort de Socoa dans l'air vif. Le trajet sur la Corniche Basque offre des vues spectaculaires sous le bas soleil d'hiver. La journée se conclut au féerique Château d'Abbadia."
           },
           "stops": [
             {
@@ -2546,7 +2624,7 @@
                 "hu": "Az autó a garázsban fagymentes marad.",
                 "ro": "Mașina rămâne ferită de îngheț în garaj.",
                 "en": "The car stays frost-free in the parking garage.",
-                "fr": "La voiture reste hors gel dans le parking couvert."
+                "fr": "La voiture reste sans gelée dans le parking couvert."
               }
             },
             {
@@ -2556,7 +2634,7 @@
                 "hu": "A fűtött belső tér kellemes kikapcsolódás a hideg után.",
                 "ro": "Interiorul încălzit este o schimbare binevenită.",
                 "en": "The heated interior is a welcome break from the cold.",
-                "fr": "L'intérieur chauffé est une pause bienvenue contre le froid."
+                "fr": "L'habitacle chauffé est un répit bienvenu contre le froid."
               }
             },
             {
@@ -2596,7 +2674,7 @@
                 "hu": "Érkezés előtt ellenőrizze a téli nyitvatartást.",
                 "ro": "Verificați programul de iarnă înainte de sosire.",
                 "en": "Check the winter opening hours before your arrival.",
-                "fr": "Vérifiez les horaires d'ouverture d'hiver avant votre arrivée."
+                "fr": "Vérifiez les horaires d'ouverture hivernaux avant votre arrivée."
               }
             }
           ],
@@ -2630,11 +2708,11 @@
               "Keep blankets in the car if you plan to watch the sunset outside."
             ],
             "fr": [
-              "Utilisez les sièges chauffants pour un trajet confortable entre les arrêts.",
-              "Trouver une place de parking est nettement plus facile pendant les mois d'hiver.",
-              "Attention à l'éblouissement dû au soleil bas lors de la conduite sur la Corniche.",
+              "Utilisez les sièges chauffants pour un trajet confortable entre les étapes.",
+              "Il est beaucoup plus facile de trouver une place de parking pendant les mois d'hiver.",
+              "Faites attention à l'éblouissement du soleil bas en conduisant sur la Corniche.",
               "Notez que certaines attractions peuvent fermer plus tôt en hiver.",
-              "Gardez des couvertures dans la voiture si vous prévoyez de regarder le coucher du soleil à l'extérieur."
+              "Gardez des couvertures dans la voiture si vous prévoyez de regarder le coucher du soleil dehors."
             ]
           }
         }
@@ -2653,7 +2731,8 @@
             "de": "Bahnhof Saint-Jean-de-Luz",
             "hu": "Saint-Jean-de-Luz vasútállomás",
             "ro": "Gara Saint-Jean-de-Luz",
-            "en": "Saint-Jean-de-Luz Station"
+            "en": "Saint-Jean-de-Luz Station",
+            "fr": "Gare de Saint-Jean-de-Luz"
           },
           "coords": [
             -1.658,
@@ -2669,7 +2748,7 @@
             "en": "Centrally located, a few minutes walk from the market.",
             "de": "Zentral gelegen, wenige Gehminuten vom Markt.",
             "ro": "Situată central, la câteva minute de mers pe jos de piață.",
-            "fr": "Situé au centre, à quelques minutes à pied du marché."
+            "fr": "Centrale, à quelques minutes à pied du marché."
           }
         },
         {
@@ -2677,7 +2756,8 @@
             "de": "Les Halles",
             "hu": "Piac",
             "ro": "Piața",
-            "en": "Les Halles"
+            "en": "Les Halles",
+            "fr": "Les Halles"
           },
           "coords": [
             -1.661,
@@ -2693,7 +2773,7 @@
             "en": "The best place for morning snacks.",
             "de": "Der beste Ort für morgendliche Snacks.",
             "ro": "Cel mai bun loc pentru gustări de dimineață.",
-            "fr": "Le meilleur endroit pour les en-cas du matin."
+            "fr": "Le meilleur endroit pour des encas matinaux."
           }
         },
         {
@@ -2701,7 +2781,8 @@
             "de": "Place Louis XIV",
             "hu": "XIV. Lajos tér",
             "ro": "Piața Ludovic al XIV-lea",
-            "en": "Place Louis XIV"
+            "en": "Place Louis XIV",
+            "fr": "Place Louis XIV"
           },
           "coords": [
             -1.6625,
@@ -2717,7 +2798,7 @@
             "en": "Don't miss the town hall building.",
             "de": "Verpassen Sie nicht das Rathausgebäude.",
             "ro": "Nu ratați clădirea primăriei.",
-            "fr": "Ne manquez pas le bâtiment de la mairie."
+            "fr": "Ne manquez pas l'hôtel de ville."
           }
         },
         {
@@ -2725,7 +2806,8 @@
             "de": "Kirche Saint-Jean-Baptiste",
             "hu": "Templom",
             "ro": "Biserica",
-            "en": "Church"
+            "en": "Church",
+            "fr": "Église"
           },
           "coords": [
             -1.6618,
@@ -2749,7 +2831,8 @@
             "de": "Grande Plage",
             "hu": "Nagy strand",
             "ro": "Plaja Mare",
-            "en": "Grande Plage"
+            "en": "Grande Plage",
+            "fr": "Grande Plage"
           },
           "coords": [
             -1.665,
@@ -2765,7 +2848,7 @@
             "en": "The water is very calm here due to the dikes.",
             "de": "Wegen der Dämme ist das Wasser hier sehr ruhig.",
             "ro": "Apa este foarte liniștită aici datorită digurilor.",
-            "fr": "L'eau est très calme ici grâce aux digues."
+            "fr": "L'eau est très calme ici à cause des digues."
           }
         },
         {
@@ -2773,7 +2856,8 @@
             "de": "Fort de Socoa (Bus 3)",
             "hu": "Socoa erőd (3-as busz)",
             "ro": "Fortul Socoa (Bus 3)",
-            "en": "Fort de Socoa (Bus 3)"
+            "en": "Fort de Socoa (Bus 3)",
+            "fr": "Fort de Socoa (Bus 3)"
           },
           "coords": [
             -1.684,
@@ -2789,7 +2873,7 @@
             "en": "Take the Hegobus line 3 from the center.",
             "de": "Nehmen Sie die Hegobus-Linie 3 vom Zentrum.",
             "ro": "Luați linia Hegobus 3 din centru.",
-            "fr": "Prenez la ligne 3 d'Hegobus depuis le centre."
+            "fr": "Prenez la ligne 3 du Hegobus depuis le centre."
           }
         }
       ],
@@ -2798,7 +2882,7 @@
         "en": "Discover the city using public transit! Arrive by train at the center, visit the market and historical sights on foot, and enjoy the beach. In the afternoon, hop on a bus to visit the nearby Socoa harbor and fort before heading back to the station.",
         "de": "Entdecken Sie die Stadt mit öffentlichen Verkehrsmitteln! Kommen Sie mit dem Zug an, besuchen Sie den Markt und die Sehenswürdigkeiten zu Fuß und genießen Sie den Strand. Nachmittags fahren Sie mit dem Bus zum Fort Socoa, bevor es zurück zum Bahnhof geht.",
         "ro": "Descoperiți orașul folosind transportul public! Sosiți cu trenul în centru, vizitați piața și obiectivele istorice pe jos și bucurați-vă de plajă. După-amiaza, luați autobuzul pentru a vizita portul și fortul Socoa, înainte de a reveni la gară.",
-        "fr": "Découvrez la ville en utilisant les transports en commun ! Arrivez en train au centre, visitez le marché et les sites historiques à pied, et profitez de la plage. L'après-midi, prenez un bus pour visiter le port et le fort de Socoa tout proches avant de retourner à la gare."
+        "fr": "Découvrez la ville en transports en commun ! Arrivez en train au centre, visitez le marché et les sites historiques à pied, et profitez de la plage. L'après‑midi, prenez un bus pour visiter le port et le fort de Socoa avant de retourner à la gare."
       },
       "gastro_picks": {
         "hu": [
@@ -2992,9 +3076,9 @@
           "Descărcați aplicația 'Modalis' pentru orare în timp real."
         ],
         "fr": [
-          "Le réseau Hegobus dessert bien la ville et les environs.",
-          "Achetez un pass journée si vous comptez utiliser le bus plusieurs fois.",
-          "La gare ferroviaire et la gare routière sont côte à côte.",
+          "Le réseau Hegobus couvre bien la ville et ses environs.",
+          "Achetez un pass journée si vous comptez prendre le bus plusieurs fois.",
+          "La gare et le terminus de bus sont côte à côte.",
           "Téléchargez l'application « Modalis » pour les horaires en temps réel."
         ]
       },
@@ -3004,7 +3088,8 @@
             "hu": "Fedezze fel a várost tömegközlekedéssel! Érkezzen vonattal a központba, látogassa meg a piacot és a történelmi látnivalókat gyalogosan, majd élvezze a tengerpartot. Délután pattanjon buszra, és látogasson el a közeli Socoa kikötőjébe és erődjéhez, mielőtt visszatérne az állomásra.",
             "en": "Discover the city using public transit! Arrive by train at the center, visit the market and historical sights on foot, and enjoy the beach. In the afternoon, hop on a bus to visit the nearby Socoa harbor and fort before heading back to the station.",
             "de": "Entdecken Sie die Stadt mit öffentlichen Verkehrsmitteln! Kommen Sie mit dem Zug an, besuchen Sie den Markt und die Sehenswürdigkeiten zu Fuß und genießen Sie den Strand. Nachmittags fahren Sie mit dem Bus zum Fort Socoa, bevor es zurück zum Bahnhof geht.",
-            "ro": "Descoperiți orașul folosind transportul public! Sosiți cu trenul în centru, vizitați piața și obiectivele istorice pe jos și bucurați-vă de plajă. După-amiaza, luați autobuzul pentru a vizita portul și fortul Socoa, înainte de a reveni la gară."
+            "ro": "Descoperiți orașul folosind transportul public! Sosiți cu trenul în centru, vizitați piața și obiectivele istorice pe jos și bucurați-vă de plajă. După-amiaza, luați autobuzul pentru a vizita portul și fortul Socoa, înainte de a reveni la gară.",
+            "fr": "Découvrez la ville en transports en commun ! Arrivez en train au centre, visitez le marché et les sites historiques à pied, et profitez de la plage. L'après‑midi, prenez un bus pour visiter le port et le fort de Socoa avant de retourner à la gare."
           },
           "stops": [
             {
@@ -3012,13 +3097,15 @@
                 "de": "Bahnhof Saint-Jean-de-Luz",
                 "hu": "Saint-Jean-de-Luz vasútállomás",
                 "ro": "Gara Saint-Jean-de-Luz",
-                "en": "Saint-Jean-de-Luz Station"
+                "en": "Saint-Jean-de-Luz Station",
+                "fr": "Gare de Saint-Jean-de-Luz"
               },
               "tip_5lang": {
                 "hu": "Központi helyen, pár perc sétára a piactól.",
                 "en": "Centrally located, a few minutes walk from the market.",
                 "de": "Zentral gelegen, wenige Gehminuten vom Markt.",
-                "ro": "Situată central, la câteva minute de mers pe jos de piață."
+                "ro": "Situată central, la câteva minute de mers pe jos de piață.",
+                "fr": "Centrale, à quelques minutes à pied du marché."
               }
             },
             {
@@ -3026,13 +3113,15 @@
                 "de": "Les Halles",
                 "hu": "Piac",
                 "ro": "Piața",
-                "en": "Les Halles"
+                "en": "Les Halles",
+                "fr": "Les Halles"
               },
               "tip_5lang": {
                 "hu": "Itt találja a legjobb reggeli falatokat.",
                 "en": "The best place for morning snacks.",
                 "de": "Der beste Ort für morgendliche Snacks.",
-                "ro": "Cel mai bun loc pentru gustări de dimineață."
+                "ro": "Cel mai bun loc pentru gustări de dimineață.",
+                "fr": "Le meilleur endroit pour des encas matinaux."
               }
             },
             {
@@ -3040,13 +3129,15 @@
                 "de": "Place Louis XIV",
                 "hu": "XIV. Lajos tér",
                 "ro": "Piața Ludovic al XIV-lea",
-                "en": "Place Louis XIV"
+                "en": "Place Louis XIV",
+                "fr": "Place Louis XIV"
               },
               "tip_5lang": {
                 "hu": "Nézze meg a városháza épületét is.",
                 "en": "Don't miss the town hall building.",
                 "de": "Verpassen Sie nicht das Rathausgebäude.",
-                "ro": "Nu ratați clădirea primăriei."
+                "ro": "Nu ratați clădirea primăriei.",
+                "fr": "Ne manquez pas l'hôtel de ville."
               }
             },
             {
@@ -3054,13 +3145,15 @@
                 "de": "Kirche Saint-Jean-Baptiste",
                 "hu": "Templom",
                 "ro": "Biserica",
-                "en": "Church"
+                "en": "Church",
+                "fr": "Église"
               },
               "tip_5lang": {
                 "hu": "A déli kaput befalazták az esküvő után.",
                 "en": "The south door was bricked up after the wedding.",
                 "de": "Das Südportal wurde nach der Hochzeit zugemauert.",
-                "ro": "Poarta de sud a fost zidită după nuntă."
+                "ro": "Poarta de sud a fost zidită după nuntă.",
+                "fr": "La porte sud a été murée après le mariage."
               }
             },
             {
@@ -3068,13 +3161,15 @@
                 "de": "Grande Plage",
                 "hu": "Nagy strand",
                 "ro": "Plaja Mare",
-                "en": "Grande Plage"
+                "en": "Grande Plage",
+                "fr": "Grande Plage"
               },
               "tip_5lang": {
                 "hu": "A védőgátak miatt a víz itt nagyon nyugodt.",
                 "en": "The water is very calm here due to the dikes.",
                 "de": "Wegen der Dämme ist das Wasser hier sehr ruhig.",
-                "ro": "Apa este foarte liniștită aici datorită digurilor."
+                "ro": "Apa este foarte liniștită aici datorită digurilor.",
+                "fr": "L'eau est très calme ici à cause des digues."
               }
             },
             {
@@ -3082,13 +3177,15 @@
                 "de": "Fort de Socoa (Bus 3)",
                 "hu": "Socoa erőd (3-as busz)",
                 "ro": "Fortul Socoa (Bus 3)",
-                "en": "Fort de Socoa (Bus 3)"
+                "en": "Fort de Socoa (Bus 3)",
+                "fr": "Fort de Socoa (Bus 3)"
               },
               "tip_5lang": {
                 "hu": "Használja a Hegobus 3-as vonalát a központból.",
                 "en": "Take the Hegobus line 3 from the center.",
                 "de": "Nehmen Sie die Hegobus-Linie 3 vom Zentrum.",
-                "ro": "Luați linia Hegobus 3 din centru."
+                "ro": "Luați linia Hegobus 3 din centru.",
+                "fr": "Prenez la ligne 3 du Hegobus depuis le centre."
               }
             }
           ],
@@ -3250,6 +3347,12 @@
               "Cumpărați un permis de o zi dacă plănuiți mai multe călătorii.",
               "Gara și autogara sunt situate una lângă cealaltă.",
               "Descărcați aplicația 'Modalis' pentru orare în timp real."
+            ],
+            "fr": [
+              "Le réseau Hegobus couvre bien la ville et ses environs.",
+              "Achetez un pass journée si vous comptez prendre le bus plusieurs fois.",
+              "La gare et le terminus de bus sont côte à côte.",
+              "Téléchargez l'application « Modalis » pour les horaires en temps réel."
             ]
           }
         },
@@ -3259,7 +3362,7 @@
             "hu": "Busszal kényelmesen elérjük a vásárcsarnokot az esőben. Délben a Place Louis XIV-et és a templomot fedezzük fel, kihasználva a buszmegállók közelségét. A 3-as busz szárazon visz el a Socoa erődhöz, miközben az öböl látványában gyönyörködünk. A napot a vasútállomáson zárjuk.",
             "ro": "Cu autobuzul ajungem confortabil la hală prin ploaie. La prânz explorăm Place Louis XIV și biserica, folosind distanțele scurte dintre stații. Autobuzul 3 ne duce uscați la Fort de Socoa, admirând golful de pe geam. Ziua se încheie în siguranță la gară pentru plecare.",
             "en": "By bus, we easily reach the market hall in the rain. Midday, we explore Place Louis XIV and the church, using the short distances between bus stops. Bus 3 takes us dryly to Fort de Socoa while we enjoy the bay views. The day ends safely at the station for the return journey.",
-            "fr": "En bus, nous atteignons facilement la halle du marché sous la pluie. Le midi, nous explorons la place Louis XIV et l'église, en profitant des courtes distances entre les arrêts de bus. Le bus 3 nous emmène au sec au Fort de Socoa pendant que nous admirons la vue sur la baie. La journée se termine en toute sécurité à la gare pour le voyage de retour."
+            "fr": "En bus, nous rejoignons facilement les halles du marché sous la pluie. À midi, nous explorons la Place Louis XIV et l'église, profitant des courtes distances entre les arrêts. Le bus 3 nous conduit au sec jusqu'au Fort de Socoa tandis que nous admirons la baie. La journée se termine en sécurité à la gare pour le retour."
           },
           "stops": [
             {
@@ -3269,7 +3372,7 @@
                 "hu": "A fedett várakozóhelyek védenek átszálláskor.",
                 "ro": "Zonele de așteptare acoperite vă protejează la transfer.",
                 "en": "Covered waiting areas protect you during transfers.",
-                "fr": "Les zones d'attente couvertes vous protègent pendant les correspondances."
+                "fr": "Des abris de quai vous protègent pendant les correspondances."
               }
             },
             {
@@ -3279,7 +3382,7 @@
                 "hu": "A buszmegálló csak néhány lépésre van a bejárattól.",
                 "ro": "Stația de autobuz este la doar câțiva pași de intrare.",
                 "en": "The bus stop is just a few steps away from the entrance.",
-                "fr": "L'arrêt de bus se trouve à quelques pas de l'entrée."
+                "fr": "L'arrêt de bus est à quelques pas de l'entrée."
               }
             },
             {
@@ -3299,7 +3402,7 @@
                 "hu": "Rövid sprint a busztól a száraz templomhajóig.",
                 "ro": "Sprint scurt de la autobuz până în nava uscată a bisericii.",
                 "en": "Short sprint from the bus into the dry nave of the church.",
-                "fr": "Court sprint du bus jusque dans la nef sèche de l'église."
+                "fr": "Une courte course depuis le bus jusqu'à la nef sèche de l'église."
               }
             },
             {
@@ -3309,7 +3412,7 @@
                 "hu": "Figyelje a hullámokat a parti kávézók ablakaiból.",
                 "ro": "Observați valurile prin ferestrele cafenelelor de pe plajă.",
                 "en": "Watch the waves through the windows of the beach cafes.",
-                "fr": "Observez les vagues à travers les vitres des cafés de la plage."
+                "fr": "Regardez les vagues à travers les fenêtres des cafés de la plage."
               }
             },
             {
@@ -3354,9 +3457,9 @@
             ],
             "fr": [
               "Utilisez l'application Hegobus pour les mises à jour des départs en direct.",
-              "Les tickets peuvent être achetés auprès du chauffeur ou via l'application.",
-              "Prévoyez du temps supplémentaire car le trafic peut être plus lent sous la pluie.",
-              "La plupart des arrêts de bus centraux sont abrités des éléments.",
+              "Les tickets peuvent être achetés auprès du conducteur ou via l'application.",
+              "Prévoyez du temps supplémentaire car la circulation peut être ralentie par la pluie.",
+              "La plupart des arrêts centraux sont abrités des intempéries.",
               "La gare offre le meilleur abri pour les attentes plus longues."
             ]
           }
@@ -3367,7 +3470,7 @@
             "hu": "Tiszta téli nap kezdődik a vasútállomáson. Tömegközlekedéssel gyorsan a nyüzsgő piachoz érünk. Délben az óvárost járjuk be, a buszokon felmelegedve a megállók között. A Socoa erődhöz vezető út csodás kilátást nyújt a téli öbölre, mielőtt a naplementével zárnánk a napot.",
             "ro": "O zi senină de iarnă începe cu sosirea la gară. Cu transportul public ajungem rapid la piață. La prânz explorăm centrul vechi, încălzindu-ne în autobuze între destinații. Drumul spre Fort de Socoa oferă vederi minunate asupra golfului de iarnă înainte de apus.",
             "en": "A clear winter day starts with an arrival at the station. By transit, we quickly reach the lively market. Midday, we explore the old town, warming up on the buses between sights. The ride to Fort de Socoa offers wonderful views of the winter bay before ending at sunset.",
-            "fr": "Une journée d'hiver claire commence par une arrivée à la gare. En transport, nous atteignons rapidement le marché animé. Le midi, nous explorons la vieille ville, en nous réchauffant dans les bus entre les sites. Le trajet vers le Fort de Socoa offre des vues magnifiques sur la baie hivernale avant de se terminer au coucher du soleil."
+            "fr": "Une journée d'hiver claire commence par une arrivée à la gare. En transit, nous atteignons rapidement le marché animé. À midi, nous explorons la vieille ville, en nous réchauffant dans les bus entre les sites. Le trajet vers le Fort de Socoa offre de superbes vues sur la baie hivernale avant de se terminer au coucher du soleil."
           },
           "stops": [
             {
@@ -3377,7 +3480,7 @@
                 "hu": "A vasútállomás csarnoka télen kellemesen fűtött.",
                 "ro": "Holul gării este încălzit plăcut iarna.",
                 "en": "The station hall is pleasantly heated in winter.",
-                "fr": "Le hall de la gare est agréablement chauffé en hiver."
+                "fr": "La salle d'attente de la gare est agréablement chauffée en hiver."
               }
             },
             {
@@ -3387,7 +3490,7 @@
                 "hu": "Kezdje itt a napot egy meleg péksüteménnyel.",
                 "ro": "Începeți ziua aici cu un produs de patiserie cald.",
                 "en": "Start your day here with a warm pastry.",
-                "fr": "Commencez votre journée ici avec une pâtisserie chaude."
+                "fr": "Commencez la journée ici avec une pâtisserie chaude."
               }
             },
             {
@@ -3397,7 +3500,7 @@
                 "hu": "A nap délelőtt éri el a legjobban ezt a teret.",
                 "ro": "Soarele ajunge cel mai bine în această piață dimineața.",
                 "en": "The sun hits this square best during the morning.",
-                "fr": "Le soleil frappe mieux cette place pendant la matinée."
+                "fr": "Le soleil éclaire mieux cette place le matin."
               }
             },
             {
@@ -3417,7 +3520,7 @@
                 "hu": "Figyelje a téli menetrendet, a buszok ritkábban járnak a partra.",
                 "ro": "Atenție la programul de iarnă, autobuzele sunt mai rare spre plajă.",
                 "en": "Check winter schedules; buses to the beach may be less frequent.",
-                "fr": "Vérifiez les horaires d'hiver ; les bus vers la plage peuvent être moins fréquents."
+                "fr": "Vérifiez les horaires d'hiver ; les bus pour la plage peuvent être moins fréquents."
               }
             },
             {
@@ -3461,9 +3564,9 @@
               "The train station is a good place to wait for the next connection."
             ],
             "fr": [
-              "Vérifiez les horaires d'hiver car certaines lignes circulent moins fréquemment.",
-              "Les bus sont bien chauffés, offrant du confort pendant le froid.",
-              "Il fait nuit après 17h00 ; prévoyez votre trajet de retour en conséquence.",
+              "Consultez l'horaire d'hiver car certaines lignes circulent moins souvent.",
+              "Les bus sont bien chauffés, offrant du confort par temps froid.",
+              "Il fait nuit après 17:00 ; planifiez votre retour en conséquence.",
               "Achetez un pass journée pour une flexibilité maximale entre les sites.",
               "La gare est un bon endroit pour attendre la prochaine correspondance."
             ]

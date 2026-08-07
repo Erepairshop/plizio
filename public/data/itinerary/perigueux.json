@@ -21,7 +21,8 @@
             "de": "Kathedrale Saint-Front",
             "hu": "Saint-Front székesegyház",
             "ro": "Catedrala Saint-Front",
-            "en": "Saint-Front Cathedral"
+            "en": "Saint-Front Cathedral",
+            "fr": "Cathédrale Saint‑Front"
           },
           "coords": [
             0.7218,
@@ -36,7 +37,8 @@
             "de": "Achten Sie auf die byzantinischen Kuppeln, die dem Sacré-Cœur in Paris ähneln.",
             "hu": "Figyeld meg a bizánci kupolákat, amelyek a párizsi Sacré-Cœur mintájául szolgáltak.",
             "ro": "Observați cupolele bizantine care seamănă cu Sacré-Cœur din Paris.",
-            "en": "Notice the Byzantine domes that inspired the Sacré-Cœur in Paris."
+            "en": "Notice the Byzantine domes that inspired the Sacré-Cœur in Paris.",
+            "fr": "Remarquez les dômes byzantins qui ont inspiré le Sacré‑Cœur à Paris."
           }
         },
         {
@@ -44,7 +46,8 @@
             "de": "Place de la Clautre",
             "hu": "Place de la Clautre",
             "ro": "Place de la Clautre",
-            "en": "Place de la Clautre"
+            "en": "Place de la Clautre",
+            "fr": "Place de la Clautre"
           },
           "coords": [
             0.7208,
@@ -59,7 +62,8 @@
             "de": "Besuchen Sie den Markt am Mittwoch oder Samstag für lokale Trüffel.",
             "hu": "Látogassa meg a szerdai vagy szombati piacot a helyi szarvasgombáért.",
             "ro": "Vizitați piața miercuri sau sâmbătă pentru trufe locale.",
-            "en": "Visit the market on Wednesday or Saturday for local truffles."
+            "en": "Visit the market on Wednesday or Saturday for local truffles.",
+            "fr": "Visitez le marché le mercredi ou le samedi pour des truffes locales."
           }
         },
         {
@@ -67,7 +71,8 @@
             "de": "MAAP - Kunst- und Archäologiemuseum",
             "hu": "MAAP - Művészeti és Régészeti Múzeum",
             "ro": "MAAP - Muzeul de Artă și Arheologie",
-            "en": "MAAP - Art and Archaeology Museum"
+            "en": "MAAP - Art and Archaeology Museum",
+            "fr": "MAAP - Musée d’Art et d’Archéologie"
           },
           "coords": [
             0.7185,
@@ -82,7 +87,8 @@
             "de": "Bewundern Sie die prähistorische Sammlung und die gallo-römischen Mosaike.",
             "hu": "Csodálja meg az őskori gyűjteményt és a gall-római mozaikokat.",
             "ro": "Admirați colecția preistorică și mozaicurile galo-romane.",
-            "en": "Admire the prehistoric collection and the Gallo-Roman mosaics."
+            "en": "Admire the prehistoric collection and the Gallo-Roman mosaics.",
+            "fr": "Admirez la collection préhistorique et les mosaïques gallo‑romaines."
           }
         },
         {
@@ -90,7 +96,8 @@
             "de": "Vesunna Gallo-Römisches Museum",
             "hu": "Vesunna Gallo-Római Múzeum",
             "ro": "Muzeul Galo-Roman Vesunna",
-            "en": "Vesunna Gallo-Roman Museum"
+            "en": "Vesunna Gallo-Roman Museum",
+            "fr": "Musée gallo‑romain de Vesunna"
           },
           "coords": [
             0.7125,
@@ -105,7 +112,8 @@
             "de": "Das von Jean Nouvel entworfene Gebäude schützt eine echte römische Villa.",
             "hu": "A Jean Nouvel által tervezett épület egy valódi római villát védelmez.",
             "ro": "Clădirea proiectată de Jean Nouvel protejează o vilă romană reală.",
-            "en": "The building designed by Jean Nouvel protects a real Roman villa."
+            "en": "The building designed by Jean Nouvel protects a real Roman villa.",
+            "fr": "Le bâtiment conçu par Jean Nouvel protège une véritable villa romaine."
           }
         },
         {
@@ -113,7 +121,8 @@
             "de": "Tour de Vésonne",
             "hu": "Tour de Vésonne",
             "ro": "Turnul Vésonne",
-            "en": "Tour de Vésonne"
+            "en": "Tour de Vésonne",
+            "fr": "Tour de Vésonne"
           },
           "coords": [
             0.712,
@@ -128,7 +137,8 @@
             "de": "Ein 24 Meter hoher Rest eines antiken römischen Tempels.",
             "hu": "Egy ókori római templom 24 méter magas maradványa.",
             "ro": "O rămășiță de 24 de metri înălțime a unui templu roman antic.",
-            "en": "A 24-meter high remnant of an ancient Roman temple."
+            "en": "A 24-meter high remnant of an ancient Roman temple.",
+            "fr": "Un vestige de 24 mètres d’un ancien temple romain."
           }
         },
         {
@@ -136,7 +146,8 @@
             "de": "Jardin des Arènes",
             "hu": "Jardin des Arènes",
             "ro": "Grădina Arenelor",
-            "en": "Jardin des Arènes"
+            "en": "Jardin des Arènes",
+            "fr": "Jardin des Arènes"
           },
           "coords": [
             0.716,
@@ -151,7 +162,8 @@
             "de": "Entspannen Sie in den Ruinen des römischen Amphitheaters.",
             "hu": "Pihenjen a római amfiteátrum romjai között kialakított parkban.",
             "ro": "Relaxați-vă în grădina amenajată în ruinele amfiteatrului roman.",
-            "en": "Relax in the park set within the ruins of the Roman amphitheater."
+            "en": "Relax in the park set within the ruins of the Roman amphitheater.",
+            "fr": "Détendez‑vous dans le parc aménagé au sein des ruines de l’amphithéâtre romain."
           }
         }
       ],
@@ -160,7 +172,7 @@
         "hu": "Kezdje a napot az impozáns Saint-Front székesegyháznál, amely az UNESCO Világörökség része. Sétáljon végig a középkori utcákon a nyüzsgő Place de la Clautre térig. A MAAP múzeumban töltött kulturális délelőtt után merüljön el a város római múltjában a Vesunna múzeumban. Zárja a napot pihenéssel a Jardin des Arènes parkban, ahol a természet és az antik történelem tökéletesen találkozik.",
         "ro": "Începeți ziua la impresionanta Catedrală Saint-Front, un reper al patrimoniului mondial UNESCO. Plimbați-vă pe străzile medievale până la animata Place de la Clautre. După o dimineață culturală la MAAP, scufundați-vă în trecutul roman al orașului la muzeul Vesunna. Încheiați ziua relaxându-vă în Jardin des Arènes, unde natura și istoria antică se îmbină perfect.",
         "en": "Start your day at the impressive Saint-Front Cathedral, a UNESCO World Heritage landmark. Stroll through the medieval streets to the lively Place de la Clautre. After a cultural morning at MAAP, dive deep into the city's Roman past at the Vesunna museum. End the day relaxing in the Jardin des Arènes park, where nature and ancient history blend perfectly.",
-        "fr": "Commencez votre journée à l'impressionnante cathédrale Saint-Front, monument classé au patrimoine mondial de l'UNESCO. Flânez dans les rues médiévales jusqu'à la place de la Clautre très animée. Après une matinée culturelle au MAAP, plongez dans le passé romain de la ville au musée Vesunna. Terminez la journée en vous relaxant au jardin des Arènes, où nature et histoire ancienne se mêlent parfaitement."
+        "fr": "Commencez la journée à l’imposante cathédrale Saint‑Front, site classé au patrimoine mondial de l’UNESCO. Flânez dans les rues médiévales jusqu’à la vivante Place de la Clautre. Après une matinée culturelle au MAAP, plongez dans le passé romain de la ville au musée Vesunna. Terminez la journée en vous relaxant dans le Jardin des Arènes, où nature et antiquité se mêlent parfaitement."
       },
       "gastro_picks": {
         "de": [
@@ -354,10 +366,10 @@
           "Be sure to try the 'Noix du Périgord' (walnuts) at the market."
         ],
         "fr": [
-          "Périgueux est très accessible aux piétons, portez des chaussures confortables pour les pavés.",
-          "La cathédrale ferme souvent pour une courte pause à l'heure du déjeuner.",
-          "Garez votre voiture en périphérie et utilisez vos jambes pour découvrir les cours cachées.",
-          "Ne manquez pas de goûter à la noix du Périgord au marché."
+          "Périgueux est très agréable à parcourir à pied ; portez des chaussures confortables pour les pavés.",
+          "La cathédrale ferme souvent pour une courte pause pendant la pause déjeuner.",
+          "Garez votre voiture en périphérie et partez à pied pour découvrir les cours cachées.",
+          "N'oubliez pas de goûter les « Noix du Périgord » au marché."
         ]
       },
       "variants": {
@@ -366,7 +378,8 @@
             "de": "Beginnen Sie Ihren Tag an der beeindruckenden Kathedrale Saint-Front, einem Wahrzeichen des UNESCO-Welterbes. Schlendern Sie durch die mittelalterlichen Gassen zum lebhaften Place de la Clautre. Nach einem kulturellen Vormittag im MAAP tauchen Sie im Vesunna-Museum tief in die römische Vergangenheit der Stadt ein. Beenden Sie den Tag entspannt im Jardin des Arènes, wo sich Natur und antike Geschichte perfekt verbinden.",
             "hu": "Kezdje a napot az impozáns Saint-Front székesegyháznál, amely az UNESCO Világörökség része. Sétáljon végig a középkori utcákon a nyüzsgő Place de la Clautre térig. A MAAP múzeumban töltött kulturális délelőtt után merüljön el a város római múltjában a Vesunna múzeumban. Zárja a napot pihenéssel a Jardin des Arènes parkban, ahol a természet és az antik történelem tökéletesen találkozik.",
             "ro": "Începeți ziua la impresionanta Catedrală Saint-Front, un reper al patrimoniului mondial UNESCO. Plimbați-vă pe străzile medievale până la animata Place de la Clautre. După o dimineață culturală la MAAP, scufundați-vă în trecutul roman al orașului la muzeul Vesunna. Încheiați ziua relaxându-vă în Jardin des Arènes, unde natura și istoria antică se îmbină perfect.",
-            "en": "Start your day at the impressive Saint-Front Cathedral, a UNESCO World Heritage landmark. Stroll through the medieval streets to the lively Place de la Clautre. After a cultural morning at MAAP, dive deep into the city's Roman past at the Vesunna museum. End the day relaxing in the Jardin des Arènes park, where nature and ancient history blend perfectly."
+            "en": "Start your day at the impressive Saint-Front Cathedral, a UNESCO World Heritage landmark. Stroll through the medieval streets to the lively Place de la Clautre. After a cultural morning at MAAP, dive deep into the city's Roman past at the Vesunna museum. End the day relaxing in the Jardin des Arènes park, where nature and ancient history blend perfectly.",
+            "fr": "Commencez la journée à l'imposante cathédrale Saint‑Front, site classé au patrimoine mondial de l'UNESCO. Promenez‑vous dans les rues médiévales jusqu'à la vivante Place de la Clautre. Après une matinée culturelle au MAAP, plongez dans le passé romain de la ville au musée Vesunna. Terminez la journée en vous relaxant dans le Jardin des Arènes, où nature et antiquité se marient parfaitement."
           },
           "stops": [
             {
@@ -374,7 +387,8 @@
                 "de": "Kathedrale Saint-Front",
                 "hu": "Saint-Front székesegyház",
                 "ro": "Catedrala Saint-Front",
-                "en": "Saint-Front Cathedral"
+                "en": "Saint-Front Cathedral",
+                "fr": "Cathédrale Saint‑Front"
               },
               "tip_5lang": null
             },
@@ -383,7 +397,8 @@
                 "de": "Place de la Clautre",
                 "hu": "Place de la Clautre",
                 "ro": "Place de la Clautre",
-                "en": "Place de la Clautre"
+                "en": "Place de la Clautre",
+                "fr": "Place de la Clautre"
               },
               "tip_5lang": null
             },
@@ -392,7 +407,8 @@
                 "de": "MAAP - Kunst- und Archäologiemuseum",
                 "hu": "MAAP - Művészeti és Régészeti Múzeum",
                 "ro": "MAAP - Muzeul de Artă și Arheologie",
-                "en": "MAAP - Art and Archaeology Museum"
+                "en": "MAAP - Art and Archaeology Museum",
+                "fr": "MAAP - Musée d'art et d'archéologie"
               },
               "tip_5lang": null
             },
@@ -401,7 +417,8 @@
                 "de": "Vesunna Gallo-Römisches Museum",
                 "hu": "Vesunna Gallo-Római Múzeum",
                 "ro": "Muzeul Galo-Roman Vesunna",
-                "en": "Vesunna Gallo-Roman Museum"
+                "en": "Vesunna Gallo-Roman Museum",
+                "fr": "Musée Gallo‑Romain Vesunna"
               },
               "tip_5lang": null
             },
@@ -410,7 +427,8 @@
                 "de": "Tour de Vésonne",
                 "hu": "Tour de Vésonne",
                 "ro": "Turnul Vésonne",
-                "en": "Tour de Vésonne"
+                "en": "Tour de Vésonne",
+                "fr": "Tour de Vésonne"
               },
               "tip_5lang": null
             },
@@ -419,7 +437,8 @@
                 "de": "Jardin des Arènes",
                 "hu": "Jardin des Arènes",
                 "ro": "Grădina Arenelor",
-                "en": "Jardin des Arènes"
+                "en": "Jardin des Arènes",
+                "fr": "Jardin des Arènes"
               },
               "tip_5lang": null
             }
@@ -582,6 +601,12 @@
               "The cathedral often closes for a short break during lunchtime.",
               "Park your car on the outskirts and use your legs to discover the hidden courtyards.",
               "Be sure to try the 'Noix du Périgord' (walnuts) at the market."
+            ],
+            "fr": [
+              "Périgueux est très praticable à pied, portez des chaussures confortables pour les pavés.",
+              "La cathédrale ferme souvent brièvement pendant la pause déjeuner.",
+              "Garez votre voiture en périphérie et partez à pied pour découvrir les cours cachées.",
+              "N'oubliez pas de goûter les « Noix du Périgord » au marché."
             ]
           }
         },
@@ -591,7 +616,7 @@
             "hu": "A reggel a Szent Front-székesegyház monumentális kupolái alatt indul, amely tökéletes menedék az eső elől. Ebédidőben a középkori negyed árkádjai alatt keresünk utat a piac felé. A délutánt a MAAP és a Vesunna múzeumok fedett kiállítótereiben töltjük, védve a csapadéktól. Az este a Jardin des Arènes kertjében zárul, ahol az eső illata különleges hangulatot áraszt.",
             "ro": "Dimineața începe sub cupolele maiestuoase ale Catedralei Saint-Front, un refugiu ideal împotriva ploii. La prânz, arcadele medievale oferă adăpost în drum spre piață. După-amiaza este dedicată muzeelor MAAP și Vesunna, unde puteți explora istoria la adăpost. Ziua se încheie cu o scurtă plimbare prin Jardin des Arènes, unde reflexiile ploii creează un decor mistic.",
             "en": "The morning begins under the massive domes of Saint-Front Cathedral, a perfect dry haven. At lunch, seek cover under medieval arches while exploring the market area. Spend your afternoon in the climate-controlled MAAP and Vesunna museums, escaping the drizzle entirely. The day ends with a brisk walk through the Jardin des Arènes, which takes on a lush, wet glow.",
-            "fr": "La matinée commence sous les coupoles massives de la cathédrale Saint-Front, un parfait refuge au sec. À midi, cherchez un abri sous les arches médiévales en explorant le quartier du marché. Passez votre après-midi dans les musées MAAP et Vesunna, climatisés, pour échapper totalement à la bruine. La journée se termine par une marche tonique dans le jardin des Arènes, qui prend un éclat luxuriant sous la pluie."
+            "fr": "La matinée commence sous les massives coupoles de la cathédrale Saint‑Front, un parfait abri sec. À midi, cherchez la couvertures sous les arches médiévales en explorant le marché. Passez l'après‑midi dans les musées climatisés du MAAP et de Vesunna pour échapper complètement à la bruine. La journée se termine par une marche tonique dans le Jardin des Arènes, qui prend un éclat humide et luxuriant."
           },
           "stops": [
             {
@@ -601,7 +626,7 @@
                 "hu": "Érdemes belülről megcsodálni a kupolákat, amíg kint esik.",
                 "ro": "Admirați cupolele din interior în timp ce afară plouă.",
                 "en": "Admire the massive domes from inside while it rains outside.",
-                "fr": "Admirez les coupoles massives de l'intérieur pendant qu'il pleut dehors."
+                "fr": "Admirez les massives coupoles depuis l'intérieur pendant qu'il pleut dehors."
               }
             },
             {
@@ -611,7 +636,7 @@
                 "hu": "Használja a környező árkádokat esővédőként a piacon.",
                 "ro": "Folosiți arcadele din jur pentru a vă feri de ploaie.",
                 "en": "Use the surrounding arcades as cover while browsing the market.",
-                "fr": "Utilisez les arcades environnantes comme abri tout en parcourant le marché."
+                "fr": "Utilisez les arcades environnantes comme abri en parcourant le marché."
               }
             },
             {
@@ -621,7 +646,7 @@
                 "hu": "Ideális helyszín hosszabb idő eltöltésére a szárazon.",
                 "ro": "Locul ideal pentru a petrece mai mult timp la adăpost.",
                 "en": "Ideal spot to spend a significant amount of time staying dry.",
-                "fr": "Endroit idéal pour passer un long moment à l'abri de l'humidité."
+                "fr": "Endroit idéal pour passer un bon moment à l'abri."
               }
             },
             {
@@ -631,7 +656,7 @@
                 "hu": "A modern üvegépületből remek kilátás nyílik az esőre.",
                 "ro": "Clădirea modernă de sticlă oferă vederi spectaculoase spre ploaie.",
                 "en": "The modern glass structure offers great views of the rain.",
-                "fr": "La structure moderne en verre offre de superbes vues sur la pluie."
+                "fr": "La structure moderne en verre offre de belles vues sur la pluie."
               }
             },
             {
@@ -651,7 +676,7 @@
                 "hu": "Vigyázzon a park vizes, csúszós ösvényein.",
                 "ro": "Atenție la aleile umede și alunecoase din parc.",
                 "en": "Be careful on the wet and slippery paths throughout the park.",
-                "fr": "Soyez prudent sur les sentiers mouillés et glissants dans tout le parc."
+                "fr": "Faites attention aux chemins mouillés et glissants dans le parc."
               }
             }
           ],
@@ -681,9 +706,9 @@
               "Small cafes in the old town are perfect for rainy breaks."
             ],
             "fr": [
-              "Portez des chaussures imperméables car les rues pavées sont glissantes.",
+              "Portez des chaussures imperméables pour les rues pavées glissantes.",
               "Les musées de Périgueux sont souvent fermés le lundi.",
-              "Utilisez le passage Sainte-Cécile comme raccourci couvert entre les rues.",
+              "Utilisez le Passage Sainte‑Cécile comme raccourci couvert entre les rues.",
               "Les petits cafés de la vieille ville sont parfaits pour des pauses pluvieuses."
             ]
           }
@@ -694,7 +719,7 @@
             "hu": "A téli reggeli levegő friss a Szent Front-székesegyháznál. Egy forró kávé a Place de la Clautre-on felmelegíti, mielőtt meglátogatná a MAAP fűtött termeit. Délután a Vesunna múzeum kínál lenyűgöző utazást a római korba a nyári hőség nélkül. A nap korán zárul, amikor a város fényei meleg ragyogásba vonják a Jardin des Arènes kertjét.",
             "ro": "Aerul rece de iarnă este revigorant lângă Catedrala Saint-Front. O cafea fierbinte în Place de la Clautre vă va încălzi înainte de a vizita sălile încălzite de la MAAP. După-amiaza, muzeul Vesunna oferă o călătorie fascinantă în epoca romană fără căldura verii. Ziua se încheie devreme, când luminile orașului scaldă Jardin des Arènes într-o strălucire caldă.",
             "en": "The winter morning air is crisp at Saint-Front Cathedral. A hot coffee at Place de la Clautre warms you up before visiting the heated halls of MAAP. In the afternoon, Vesunna Museum offers a fascinating journey into Roman times without the summer crowds. The day ends early at sunset, as city lights bathe the Jardin des Arènes in a warm, festive glow.",
-            "fr": "L'air du matin hivernal est vif à la cathédrale Saint-Front. Un café chaud sur la place de la Clautre vous réchauffe avant de visiter les salles chauffées du MAAP. L'après-midi, le musée Vesunna propose un voyage fascinant à l'époque romaine sans la foule estivale. La journée se termine tôt au coucher du soleil, alors que les lumières de la ville baignent le jardin des Arènes dans une lueur festive et chaleureuse."
+            "fr": "L'air du matin d'hiver est vif à la cathédrale Saint‑Front. Un café chaud sur la Place de la Clautre vous réchauffe avant de visiter les salles chauffées du MAAP. L'après‑midi, le musée Vesunna offre un fascinant voyage dans la période romaine sans la foule estivale. La journée se termine tôt au coucher du soleil, tandis que les lumières de la ville baignent le Jardin des Arènes d'une atmosphère chaleureuse et festive."
           },
           "stops": [
             {
@@ -704,7 +729,7 @@
                 "hu": "A kriptában gyakran melegebb van, mint a felszínen.",
                 "ro": "În criptă este adesea mai cald decât afară.",
                 "en": "The crypt is often warmer than the main cathedral floor.",
-                "fr": "La crypte est souvent plus chaude que le sol principal de la cathédrale."
+                "fr": "La crypte est souvent plus chaude que le sol de la cathédrale."
               }
             },
             {
@@ -714,7 +739,7 @@
                 "hu": "Kóstolja meg a helyi téli specialitásokat, például a szarvasgombát.",
                 "ro": "Gustați specialitățile locale de iarnă, cum ar fi trufele.",
                 "en": "Try local winter specialties like truffles at the market.",
-                "fr": "Goûtez aux spécialités locales d'hiver comme les truffes au marché."
+                "fr": "Goûtez les spécialités hivernales locales comme la truffe au marché."
               }
             },
             {
@@ -724,7 +749,7 @@
                 "hu": "Tökéletes hely a felmelegedésre a déli órákban.",
                 "ro": "Perfect pentru a vă încălzi în timpul orelor amiezii.",
                 "en": "Perfect place to warm up during the midday hours.",
-                "fr": "Lieu idéal pour se réchauffer pendant les heures de la mi-journée."
+                "fr": "Endroit parfait pour se réchauffer durant les heures de midi."
               }
             },
             {
@@ -744,7 +769,7 @@
                 "hu": "Gyors megálló, mert télen itt erősen fújhat a szél.",
                 "ro": "Oprire rapidă, deoarece vântul poate fi tăios aici iarna.",
                 "en": "A quick stop, as the wind can be biting here in winter.",
-                "fr": "Un arrêt rapide, car le vent peut être mordant ici en hiver."
+                "fr": "Arrêt rapide, le vent peut être cinglant ici en hiver."
               }
             },
             {
@@ -754,7 +779,7 @@
                 "hu": "A látogatást a 17:00 körüli naplemente előttre tervezze.",
                 "ro": "Planificați vizita înainte de apusul de la ora 17:00.",
                 "en": "Plan your visit before the early sunset around 17:00.",
-                "fr": "Planifiez votre visite avant le coucher du soleil précoce vers 17h00."
+                "fr": "Planifiez votre visite avant le coucher du soleil vers 17:00."
               }
             }
           ],
@@ -784,10 +809,10 @@
               "Christmas markets are usually held at nearby Place Bugeaud."
             ],
             "fr": [
-              "Habillez-vous avec plusieurs couches pour la transition entre l'intérieur et l'extérieur.",
-              "Le coucher du soleil a lieu vers 17h15 en décembre.",
-              "Savourez un chocolat chaud gourmand rue Limogeanne.",
-              "Les marchés de Noël se tiennent généralement sur la place Bugeaud toute proche."
+              "Habillez‑vous en couches pour la transition entre intérieur et extérieur.",
+              "Le coucher du soleil a lieu vers 17:15 en décembre.",
+              "Savourez un chocolat chaud gourmet rue Limogeanne.",
+              "Les marchés de Noël se tiennent généralement sur la proche Place Bugeaud."
             ]
           }
         }
@@ -806,7 +831,8 @@
             "de": "Voie Verte des Berges de l'Isle",
             "hu": "Voie Verte - Isle parti kerékpárút",
             "ro": "Voie Verte des Berges de l'Isle",
-            "en": "Isle Riverside Greenway"
+            "en": "Isle Riverside Greenway",
+            "fr": "Voie verte des berges de l'Isle"
           },
           "coords": [
             0.725,
@@ -821,7 +847,8 @@
             "de": "Genießen Sie die flache, grüne Route entlang des Flusses.",
             "hu": "Élvezze a sík, zöld útvonalat a folyó mentén.",
             "ro": "Bucurați-vă de traseul plat și verde de-a lungul râului.",
-            "en": "Enjoy the flat, green route along the river."
+            "en": "Enjoy the flat, green route along the river.",
+            "fr": "Profitez de l'itinéraire plat et verdoyant le long de la rivière."
           }
         },
         {
@@ -829,7 +856,8 @@
             "de": "Vesunna Museum",
             "hu": "Vesunna Múzeum",
             "ro": "Muzeul Vesunna",
-            "en": "Vesunna Museum"
+            "en": "Vesunna Museum",
+            "fr": "Musée Vesunna"
           },
           "coords": [
             0.7125,
@@ -844,7 +872,8 @@
             "de": "Es gibt gute Fahrradständer direkt vor dem Eingang.",
             "hu": "Közvetlenül a bejárat előtt jó kerékpártárolók találhatók.",
             "ro": "Există rastele bune de biciclete chiar în fața intrării.",
-            "en": "There are good bike racks right in front of the entrance."
+            "en": "There are good bike racks right in front of the entrance.",
+            "fr": "Il y a de bons arceaux pour vélos juste devant l'entrée."
           }
         },
         {
@@ -852,7 +881,8 @@
             "de": "Tour de Vésonne",
             "hu": "Tour de Vésonne",
             "ro": "Turnul Vésonne",
-            "en": "Tour de Vésonne"
+            "en": "Tour de Vésonne",
+            "fr": "Tour de Vésonne"
           },
           "coords": [
             0.712,
@@ -867,7 +897,8 @@
             "de": "Ein kurzer Stopp im antiken Viertel.",
             "hu": "Rövid megálló az antik negyedben.",
             "ro": "O scurtă oprire în cartierul antic.",
-            "en": "A quick stop in the ancient district."
+            "en": "A quick stop in the ancient district.",
+            "fr": "Un arrêt rapide dans le quartier antique."
           }
         },
         {
@@ -875,7 +906,8 @@
             "de": "Altstadt / Puy-Saint-Front",
             "hu": "Óváros / Puy-Saint-Front",
             "ro": "Centrul vechi / Puy-Saint-Front",
-            "en": "Old Town / Puy-Saint-Front"
+            "en": "Old Town / Puy-Saint-Front",
+            "fr": "Vieille Ville / Puy‑Saint‑Front"
           },
           "coords": [
             0.72,
@@ -890,7 +922,8 @@
             "de": "Schieben Sie das Rad in den engen Gassen.",
             "hu": "A szűk utcákban tolja a kerékpárt.",
             "ro": "Împingeți bicicleta pe străzile înguste.",
-            "en": "Push your bike in the narrow alleys."
+            "en": "Push your bike in the narrow alleys.",
+            "fr": "Poussez votre vélo dans les ruelles étroites."
           }
         },
         {
@@ -898,7 +931,8 @@
             "de": "Saint-Front Kathedrale",
             "hu": "Saint-Front székesegyház",
             "ro": "Catedrala Saint-Front",
-            "en": "Saint-Front Cathedral"
+            "en": "Saint-Front Cathedral",
+            "fr": "Cathédrale Saint‑Front"
           },
           "coords": [
             0.7218,
@@ -913,7 +947,8 @@
             "de": "Der Blick von der Brücke ist perfekt für Fotos.",
             "hu": "A hídról nyíló kilátás tökéletes fotózáshoz.",
             "ro": "Vederea de pe pod este perfectă pentru fotografii.",
-            "en": "The view from the bridge is perfect for photos."
+            "en": "The view from the bridge is perfect for photos.",
+            "fr": "La vue depuis le pont est parfaite pour les photos."
           }
         },
         {
@@ -921,7 +956,8 @@
             "de": "Maison des Consuls",
             "hu": "Maison des Consuls",
             "ro": "Maison des Consuls",
-            "en": "Maison des Consuls"
+            "en": "Maison des Consuls",
+            "fr": "Maison des Consuls"
           },
           "coords": [
             0.7235,
@@ -936,7 +972,8 @@
             "de": "Wunderschöne Renaissance-Architektur am Fluss.",
             "hu": "Gyönyörű reneszánsz építészet a folyóparton.",
             "ro": "Arhitectură renascentistă superbă pe malul râului.",
-            "en": "Beautiful Renaissance architecture on the riverbank."
+            "en": "Beautiful Renaissance architecture on the riverbank.",
+            "fr": "Belle architecture Renaissance sur les quais."
           }
         }
       ],
@@ -945,7 +982,7 @@
         "hu": "Fedezze fel Périgueux-t és környékét két keréken. Kezdjen egy pihentető tekeréssel az Isle menti Voie Verte útvonalon. Látogassa meg a modern Vesunna múzeumot és a római romokat, mielőtt a történelmi központ felé venné az irányt. Az útvonal ötvözi a folyópart nyugalmát a Saint-Front székesegyház és a reneszánsz házak lenyűgöző látványával.",
         "ro": "Explorați Périgueux și împrejurimile sale pe două roți. Începeți relaxat pe Voie Verte de-a lungul râului Isle. Vizitați muzeul modern Vesunna și ruinele romane înainte de a pedala spre centrul istoric. Traseul combină liniștea râului cu arhitectura impresionantă a Catedralei Saint-Front și a caselor renascentiste.",
         "en": "Explore Périgueux and its surroundings on two wheels. Start with a relaxing ride on the Voie Verte along the Isle. Visit the modern Vesunna museum and Roman ruins before heading towards the historical center. The route combines the tranquility of the river with the impressive architecture of Saint-Front Cathedral and Renaissance houses.",
-        "fr": "Explorez Périgueux et ses environs à deux roues. Commencez par une balade relaxante sur la Voie Verte le long de l'Isle. Visitez le musée moderne Vesunna et les ruines romaines avant de vous diriger vers le centre historique. L'itinéraire combine la tranquillité de la rivière avec l'architecture impressionnante de la cathédrale Saint-Front et des maisons de la Renaissance."
+        "fr": "Explorez Périgueux et ses alentours à deux roues. Commencez par une balade relaxante sur la Voie Verte le long de l'Isle. Visitez le moderne musée Vesunna et les ruines romaines avant de vous diriger vers le centre historique. L'itinéraire combine la tranquillité de la rivière avec l'architecture impressionnante de la cathédrale Saint‑Front et des maisons de la Renaissance."
       },
       "gastro_picks": {
         "de": [
@@ -1074,10 +1111,10 @@
           "Take enough water for the ride along the river."
         ],
         "fr": [
-          "La Voie Verte est presque totalement plate et très sécurisée.",
-          "Dans la vieille ville, la circulation à vélo est limitée à cause des zones piétonnes.",
+          "La Voie Verte est presque entièrement plate et très sûre.",
+          "Dans la vieille ville, le cyclisme est restreint en raison des zones piétonnes.",
           "Louez des vélos électriques si vous souhaitez explorer les collines environnantes.",
-          "Prenez assez d'eau pour la balade le long de la rivière."
+          "Prenez suffisamment d'eau pour la balade le long de la rivière."
         ]
       },
       "variants": {
@@ -1086,7 +1123,8 @@
             "de": "Erkunden Sie Périgueux und seine Umgebung auf zwei Rädern. Beginnen Sie entspannt auf der Voie Verte entlang der Isle. Besuchen Sie das moderne Vesunna-Museum und die römischen Ruinen, bevor Sie ins historische Zentrum radeln. Die Route kombiniert die Ruhe des Flusses mit der beeindruckenden Architektur der Kathedrale Saint-Front und der Renaissance-Häuser.",
             "hu": "Fedezze fel Périgueux-t és környékét két keréken. Kezdjen egy pihentető tekeréssel az Isle menti Voie Verte útvonalon. Látogassa meg a modern Vesunna múzeumot és a római romokat, mielőtt a történelmi központ felé venné az irányt. Az útvonal ötvözi a folyópart nyugalmát a Saint-Front székesegyház és a reneszánsz házak lenyűgöző látványával.",
             "ro": "Explorați Périgueux și împrejurimile sale pe două roți. Începeți relaxat pe Voie Verte de-a lungul râului Isle. Vizitați muzeul modern Vesunna și ruinele romane înainte de a pedala spre centrul istoric. Traseul combină liniștea râului cu arhitectura impresionantă a Catedralei Saint-Front și a caselor renascentiste.",
-            "en": "Explore Périgueux and its surroundings on two wheels. Start with a relaxing ride on the Voie Verte along the Isle. Visit the modern Vesunna museum and Roman ruins before heading towards the historical center. The route combines the tranquility of the river with the impressive architecture of Saint-Front Cathedral and Renaissance houses."
+            "en": "Explore Périgueux and its surroundings on two wheels. Start with a relaxing ride on the Voie Verte along the Isle. Visit the modern Vesunna museum and Roman ruins before heading towards the historical center. The route combines the tranquility of the river with the impressive architecture of Saint-Front Cathedral and Renaissance houses.",
+            "fr": "Explorez Périgueux et ses alentours à deux roues. Commencez par une balade relaxante sur la Voie Verte le long de l'Isle. Visitez le moderne musée Vesunna et les ruines romaines avant de vous diriger vers le centre historique. L'itinéraire combine la tranquillité de la rivière avec l'architecture impressionnante de la cathédrale Saint‑Front et des maisons de la Renaissance."
           },
           "stops": [
             {
@@ -1094,7 +1132,8 @@
                 "de": "Voie Verte des Berges de l'Isle",
                 "hu": "Voie Verte - Isle parti kerékpárút",
                 "ro": "Voie Verte des Berges de l'Isle",
-                "en": "Isle Riverside Greenway"
+                "en": "Isle Riverside Greenway",
+                "fr": "Voie verte des berges de l'Isle"
               },
               "tip_5lang": null
             },
@@ -1103,7 +1142,8 @@
                 "de": "Vesunna Museum",
                 "hu": "Vesunna Múzeum",
                 "ro": "Muzeul Vesunna",
-                "en": "Vesunna Museum"
+                "en": "Vesunna Museum",
+                "fr": "Musée Vesunna"
               },
               "tip_5lang": null
             },
@@ -1112,7 +1152,8 @@
                 "de": "Tour de Vésonne",
                 "hu": "Tour de Vésonne",
                 "ro": "Turnul Vésonne",
-                "en": "Tour de Vésonne"
+                "en": "Tour de Vésonne",
+                "fr": "Tour de Vésonne"
               },
               "tip_5lang": null
             },
@@ -1121,7 +1162,8 @@
                 "de": "Altstadt / Puy-Saint-Front",
                 "hu": "Óváros / Puy-Saint-Front",
                 "ro": "Centrul vechi / Puy-Saint-Front",
-                "en": "Old Town / Puy-Saint-Front"
+                "en": "Old Town / Puy-Saint-Front",
+                "fr": "Vieille Ville / Puy‑Saint‑Front"
               },
               "tip_5lang": null
             },
@@ -1130,7 +1172,8 @@
                 "de": "Saint-Front Kathedrale",
                 "hu": "Saint-Front székesegyház",
                 "ro": "Catedrala Saint-Front",
-                "en": "Saint-Front Cathedral"
+                "en": "Saint-Front Cathedral",
+                "fr": "Cathédrale Saint‑Front"
               },
               "tip_5lang": null
             },
@@ -1139,7 +1182,8 @@
                 "de": "Maison des Consuls",
                 "hu": "Maison des Consuls",
                 "ro": "Maison des Consuls",
-                "en": "Maison des Consuls"
+                "en": "Maison des Consuls",
+                "fr": "Maison des Consuls"
               },
               "tip_5lang": null
             }
@@ -1250,6 +1294,12 @@
               "In the old town, cycling is restricted due to pedestrian zones.",
               "Rent e-bikes if you want to explore the surrounding hills.",
               "Take enough water for the ride along the river."
+            ],
+            "fr": [
+              "La Voie Verte est presque entièrement plate et très sûre.",
+              "Dans la vieille ville, le cyclisme est restreint en raison des zones piétonnes.",
+              "Louez des vélos électriques si vous souhaitez explorer les collines environnantes.",
+              "Prenez suffisamment d'eau pour la balade le long de la rivière."
             ]
           }
         },
@@ -1259,7 +1309,7 @@
             "hu": "Egy vizes tekerés az Isle folyó partján friss, párás levegővel indítja a napot. A Vesunna múzeum bőséges pihenőt kínál a szárazon. A Tour de Vésonne után az óvároson át biciklizünk, ahol a csillogó kövek különleges hangulatot árasztanak. A Szent Front-székesegyház monumentális esővédőként vár délután, mielőtt elérnénk a Maison des Consuls-t.",
             "ro": "O plimbare umedă pe malul râului Isle deschide ziua cu aer proaspăt și umed. Muzeul Vesunna oferă o pauză lungă la adăpost. După Tour de Vésonne, pedalați prin centrul vechi, unde pietrele lucioase creează o atmosferă aparte. Catedrala Saint-Front vă primește după-amiaza ca un scut monumental, înainte de a ajunge la Maison des Consuls.",
             "en": "A wet ride along the Isle riverside opens the day with fresh, misty air. Vesunna Museum provides an extensive dry break from the elements. After Tour de Vésonne, cycle through the Old Town where glistening stones create a unique atmosphere. Saint-Front Cathedral welcomes you in the afternoon as a monumental shelter before finishing at Maison des Consuls.",
-            "fr": "Une balade humide sur les berges de l'Isle ouvre la journée avec un air frais et brumeux. Le musée Vesunna offre une pause prolongée au sec. Après la tour de Vésone, pédalez dans la vieille ville où les pierres étincelantes créent une atmosphère unique. La cathédrale Saint-Front vous accueille l'après-midi comme un abri monumental avant de terminer à la maison des Consuls."
+            "fr": "Une sortie humide le long des berges de l'Isle ouvre la journée avec un air frais et brumeux. Le musée Vesunna offre une longue pause au sec. Après la Tour de Vésonne, traversez la Vieille Ville où les pierres luisantes créent une atmosphère unique. La cathédrale Saint‑Front vous accueille l'après‑midi comme un abri monumental avant de finir à la Maison des Consuls."
           },
           "stops": [
             {
@@ -1269,7 +1319,7 @@
                 "hu": "Vigyázat, a folyóparti utak esőben sarasak lehetnek.",
                 "ro": "Atenție, potecile de pe malul râului pot fi noroioase.",
                 "en": "Be careful, riverside paths can be muddy or slippery when wet.",
-                "fr": "Attention, les chemins de bord de rivière peuvent être boueux ou glissants."
+                "fr": "Attention, les chemins des berges peuvent être boueux ou glissants quand ils sont mouillés."
               }
             },
             {
@@ -1279,7 +1329,7 @@
                 "hu": "Használja a bejáratnál található fedett biciklitárolót.",
                 "ro": "Folosiți suportul de biciclete acoperit de la intrare.",
                 "en": "Use the covered bike racks located near the entrance.",
-                "fr": "Utilisez les porte-vélos couverts situés près de l'entrée."
+                "fr": "Utilisez les arceaux vélos couverts situés près de l'entrée."
               }
             },
             {
@@ -1289,7 +1339,7 @@
                 "hu": "Gyors fotómegálló, hogy a felszerelés száraz maradjon.",
                 "ro": "Oprire rapidă pentru poze, pentru a păstra echipamentul uscat.",
                 "en": "Quick photo stop to keep your gear as dry as possible.",
-                "fr": "Arrêt photo rapide pour garder votre équipement aussi sec que possible."
+                "fr": "Arrêt photo rapide pour garder votre matériel aussi sec que possible."
               }
             },
             {
@@ -1309,7 +1359,7 @@
                 "hu": "Parkolja le biztonságosan a biciklit és melegedjen fel.",
                 "ro": "Parcați bicicleta în siguranță și încălziți-vă puțin.",
                 "en": "Park your bike securely and take time to warm up inside.",
-                "fr": "Garez votre vélo en toute sécurité et prenez le temps de vous réchauffer à l'intérieur."
+                "fr": "Garez votre vélo en sécurité et prenez le temps de vous réchauffer à l'intérieur."
               }
             },
             {
@@ -1319,7 +1369,7 @@
                 "hu": "A folyópart esőben különösen hangulatos.",
                 "ro": "Malul râului este extrem de atmosferic pe ploaie.",
                 "en": "The riverside view is especially atmospheric in the rain.",
-                "fr": "La vue sur la rivière est particulièrement atmosphérique sous la pluie."
+                "fr": "La vue sur les berges est particulièrement atmosphérique sous la pluie."
               }
             }
           ],
@@ -1349,10 +1399,10 @@
               "The greenway is paved, but puddles can form quickly."
             ],
             "fr": [
-              "Vérifiez souvent vos freins car l'asphalte mouillé est glissant.",
-              "Évitez de rouler sur les grilles métalliques ou les plaques d'égout mouillées.",
-              "Un poncho de pluie est plus pratique qu'un parapluie à vélo.",
-              "La voie verte est goudronnée, mais des flaques peuvent se former rapidement."
+              "Vérifiez fréquemment vos freins car l'asphalte mouillé est glissant.",
+              "Évitez de rouler sur des grilles métalliques ou regards d'égout mouillés.",
+              "Une cape de pluie est plus pratique qu'un parapluie pour le vélo.",
+              "La piste verte est goudronnée, mais des flaques peuvent vite se former."
             ]
           }
         },
@@ -1362,7 +1412,7 @@
             "hu": "Egy hűvös reggel az Isle partján élénkíti az érzékeket. A Vesunna múzeum üdvözlendő melegedőt kínál régészeti környezetben. A Tour de Vésonne meglátogatása után a téli óvároson át tekerünk, ahol helyi finomságok csábítanak. A Szent Front-székesegyház délután csendet és szélvédelmet nyújt, mielőtt megtekintenénk a történelmi Maison des Consuls-t.",
             "ro": "O dimineață răcoroasă pe malul râului Isle revigorează simțurile. Muzeul Vesunna oferă o pauză de încălzire binevenită într-un cadru arheologic. După vizitarea Tour de Vésonne, pedalați prin centrul vechi hibernal, unde deliciile locale vă atrag. Catedrala Saint-Front oferă liniște și protecție împotriva vântului după-amiaza.",
             "en": "A chilly morning by the Isle river invigorates the senses. Vesunna Museum offers a welcome warming break in an archaeological setting. After visiting Tour de Vésonne, cycle through the wintery Old Town where local delicacies entice you. Saint-Front Cathedral provides silence and shelter from the wind in the afternoon before visiting the historic Maison des Consuls.",
-            "fr": "Une matinée fraîche au bord de l'Isle revigore les sens. Le musée Vesunna offre une pause chaleureuse bienvenue dans un cadre archéologique. Après avoir visité la tour de Vésone, pédalez dans la vieille ville hivernale où les gourmandises locales vous attirent. La cathédrale Saint-Front offre silence et abri contre le vent l'après-midi avant de visiter l'historique maison des Consuls."
+            "fr": "Un matin frais au bord de l'Isle revigore les sens. Le musée Vesunna offre une pause réchauffante bienvenue dans un cadre archéologique. Après la visite de la Tour de Vésonne, parcourez la Vieille Ville hivernale où les spécialités locales vous tentent. La cathédrale Saint‑Front procure silence et abri contre le vent l'après‑midi avant la visite de la Maison des Consuls."
           },
           "stops": [
             {
@@ -1372,7 +1422,7 @@
                 "hu": "A folyóparti hidegben a kesztyű elengedhetetlen.",
                 "ro": "Mănușile sunt esențiale din cauza frigului de lângă râu.",
                 "en": "Gloves are essential due to the biting cold near the river.",
-                "fr": "Les gants sont essentiels à cause du froid mordant près de la rivière."
+                "fr": "Des gants sont essentiels à cause du froid mordant près de la rivière."
               }
             },
             {
@@ -1392,7 +1442,7 @@
                 "hu": "A téli fények kiválóak a fotózáshoz.",
                 "ro": "Lumina de iarnă este excelentă pentru fotografii.",
                 "en": "The winter light here is excellent for dramatic photos.",
-                "fr": "La lumière hivernale est ici excellente pour des photos spectaculaires."
+                "fr": "La lumière hivernale est excellente pour des photos dramatiques."
               }
             },
             {
@@ -1402,7 +1452,7 @@
                 "hu": "Tartson szünetet egy forró levesre.",
                 "ro": "Faceți o pauză pentru o supă fierbinte.",
                 "en": "Take a break for a hot soup in one of the bistros.",
-                "fr": "Faites une pause pour une soupe chaude dans l'un des bistros."
+                "fr": "Faites une pause pour une soupe chaude dans un des bistrots."
               }
             },
             {
@@ -1422,7 +1472,7 @@
                 "hu": "Az Isle folyóra nyíló kilátás télen nagyon tiszta.",
                 "ro": "Vederea spre râul Isle este foarte clară iarna.",
                 "en": "The view over the river Isle is very crisp in winter.",
-                "fr": "La vue sur l'Isle est très nette en hiver."
+                "fr": "La vue sur la rivière Isle est très nette en hiver."
               }
             }
           ],
@@ -1452,9 +1502,9 @@
               "Carry warm drinks in a thermos to stay hydrated and warm."
             ],
             "fr": [
-              "Portez des vêtements thermiques car le refroidissement éolien est important.",
-              "Faites attention au givre sur les chemins tôt le matin.",
-              "Les journées sont courtes ; essayez de finir votre balade vers 17h30.",
+              "Portez des vêtements thermiques car la sensation de froid due au vent est significative.",
+              "Attention au verglas sur les chemins tôt le matin.",
+              "Les journées sont courtes ; essayez de terminer votre parcours avant 17:30.",
               "Emportez des boissons chaudes dans un thermos pour rester hydraté et au chaud."
             ]
           }
@@ -1474,7 +1524,8 @@
             "de": "Kathedrale Saint-Front",
             "hu": "Saint-Front székesegyház",
             "ro": "Catedrala Saint-Front",
-            "en": "Saint-Front Cathedral"
+            "en": "Saint-Front Cathedral",
+            "fr": "Cathédrale Saint-Front"
           },
           "coords": [
             0.7218,
@@ -1489,7 +1540,8 @@
             "de": "Parken Sie auf dem großen Parkplatz 'Place Tourny'.",
             "hu": "Parkoljon a nagy 'Place Tourny' parkolóban.",
             "ro": "Parcați în parcarea mare 'Place Tourny'.",
-            "en": "Park at the large 'Place Tourny' parking lot."
+            "en": "Park at the large 'Place Tourny' parking lot.",
+            "fr": "Garez-vous au grand parking 'Place Tourny'."
           }
         },
         {
@@ -1497,7 +1549,8 @@
             "de": "Vesunna Museum",
             "hu": "Vesunna Múzeum",
             "ro": "Muzeul Vesunna",
-            "en": "Vesunna Museum"
+            "en": "Vesunna Museum",
+            "fr": "Musée Vesunna"
           },
           "coords": [
             0.7125,
@@ -1512,7 +1565,8 @@
             "de": "Kostenlose Parkplätze stehen oft in der Nähe zur Verfügung.",
             "hu": "Ingyenes parkolóhelyek gyakran állnak rendelkezésre a közelben.",
             "ro": "Locuri de parcare gratuite sunt adesea disponibile în apropiere.",
-            "en": "Free parking spaces are often available nearby."
+            "en": "Free parking spaces are often available nearby.",
+            "fr": "Des places de stationnement gratuites sont souvent disponibles à proximité."
           }
         },
         {
@@ -1520,7 +1574,8 @@
             "de": "Château de Hautefort (Exkursion)",
             "hu": "Hautefort kastély (kirándulás)",
             "ro": "Castelul Hautefort (excursie)",
-            "en": "Hautefort Castle (excursion)"
+            "en": "Hautefort Castle (excursion)",
+            "fr": "Château de Hautefort (excursion)"
           },
           "coords": [
             1.1444,
@@ -1535,7 +1590,8 @@
             "de": "Eines der prächtigsten Schlösser des Périgord.",
             "hu": "Périgord egyik legpompásabb kastélya.",
             "ro": "Unul dintre cele mai splendide castele din Périgord.",
-            "en": "One of the most splendid castles in Périgord."
+            "en": "One of the most splendid castles in Périgord.",
+            "fr": "L’un des châteaux les plus splendides du Périgord."
           }
         },
         {
@@ -1543,7 +1599,8 @@
             "de": "Grotte de Tourtoirac",
             "hu": "Tourtoirac-i barlang",
             "ro": "Peștera Tourtoirac",
-            "en": "Tourtoirac Cave"
+            "en": "Tourtoirac Cave",
+            "fr": "Grotte de Tourtoirac"
           },
           "coords": [
             1.0667,
@@ -1558,7 +1615,8 @@
             "de": "Eine beeindruckende Tropfsteinhöhle ganz in der Nähe.",
             "hu": "Lenyűgöző cseppkőbarlang a közelben.",
             "ro": "O peșteră de stalactite impresionantă în apropiere.",
-            "en": "An impressive stalactite cave nearby."
+            "en": "An impressive stalactite cave nearby.",
+            "fr": "Une impressionnante grotte de stalactites à proximité."
           }
         }
       ],
@@ -1567,7 +1625,7 @@
         "hu": "Használja az autót Périgueux szívének és a környék kincseinek felfedezéséhez. A katedrális és a Vesunna múzeum megtekintése után induljon a fenséges Hautefort kastélyhoz. Ez az útvonal tökéletes keveréke a várostörténetnek és a Dordogne vidéki pompájának.",
         "ro": "Folosiți mașina pentru a descoperi atât inima orașului Périgueux, cât și comorile din jur. După vizitarea catedralei și a muzeului Vesunna, conduceți spre maiestuosul Castel Hautefort. Acest traseu oferă un amestec perfect între istoria orașului și splendoarea rurală a Dordognei.",
         "en": "Use the car to discover both the heart of Périgueux and the treasures of the surroundings. After visiting the cathedral and the Vesunna museum, drive to the majestic Hautefort Castle. This route offers a perfect blend of city history and the rural splendor of the Dordogne.",
-        "fr": "Utilisez la voiture pour découvrir à la fois le cœur de Périgueux et les trésors des environs. Après avoir visité la cathédrale et le musée Vesunna, roulez jusqu'au majestueux château de Hautefort. Cet itinéraire offre un mélange parfait entre l'histoire de la ville et la splendeur rurale de la Dordogne."
+        "fr": "Utilisez la voiture pour découvrir à la fois le cœur de Périgueux et les trésors des alentours. Après la visite de la cathédrale et du musée Vesunna, dirigez-vous vers le majestueux château de Hautefort. Cet itinéraire offre un parfait mélange d’histoire urbaine et de splendeur rurale de la Dordogne."
       },
       "gastro_picks": {
         "de": [
@@ -1696,10 +1754,10 @@
           "Watch out for speed limits in the villages."
         ],
         "fr": [
-          "Se garer dans le centre de Périgueux peut être difficile ; utilisez les parkings P+R.",
+          "Le stationnement en centre-ville de Périgueux peut être difficile ; utilisez les parkings P+R.",
           "Les routes du Périgord sont souvent étroites et sinueuses.",
-          "Réservez vos billets pour le château de Hautefort à l'avance.",
-          "Surveillez les limitations de vitesse dans les villages."
+          "Réservez vos billets pour le château de Hautefort à l’avance.",
+          "Faites attention aux limitations de vitesse dans les villages."
         ]
       },
       "variants": {
@@ -1708,7 +1766,8 @@
             "de": "Nutzen Sie das Auto, um sowohl das Herz von Périgueux als auch die Schätze der Umgebung zu entdecken. Nach der Besichtigung der Kathedrale und des Vesunna-Museums fahren Sie zum majestätischen Château de Hautefort. Diese Route bietet eine perfekte Mischung aus Stadtgeschichte und der ländlichen Pracht der Dordogne.",
             "hu": "Használja az autót Périgueux szívének és a környék kincseinek felfedezéséhez. A katedrális és a Vesunna múzeum megtekintése után induljon a fenséges Hautefort kastélyhoz. Ez az útvonal tökéletes keveréke a várostörténetnek és a Dordogne vidéki pompájának.",
             "ro": "Folosiți mașina pentru a descoperi atât inima orașului Périgueux, cât și comorile din jur. După vizitarea catedralei și a muzeului Vesunna, conduceți spre maiestuosul Castel Hautefort. Acest traseu oferă un amestec perfect între istoria orașului și splendoarea rurală a Dordognei.",
-            "en": "Use the car to discover both the heart of Périgueux and the treasures of the surroundings. After visiting the cathedral and the Vesunna museum, drive to the majestic Hautefort Castle. This route offers a perfect blend of city history and the rural splendor of the Dordogne."
+            "en": "Use the car to discover both the heart of Périgueux and the treasures of the surroundings. After visiting the cathedral and the Vesunna museum, drive to the majestic Hautefort Castle. This route offers a perfect blend of city history and the rural splendor of the Dordogne.",
+            "fr": "Utilisez la voiture pour découvrir à la fois le cœur de Périgueux et les trésors des alentours. Après la visite de la cathédrale et du musée Vesunna, dirigez-vous vers le majestueux château de Hautefort. Cet itinéraire offre un parfait mélange d’histoire urbaine et de splendeur rurale de la Dordogne."
           },
           "stops": [
             {
@@ -1716,7 +1775,8 @@
                 "de": "Kathedrale Saint-Front",
                 "hu": "Saint-Front székesegyház",
                 "ro": "Catedrala Saint-Front",
-                "en": "Saint-Front Cathedral"
+                "en": "Saint-Front Cathedral",
+                "fr": "Cathédrale Saint-Front"
               },
               "tip_5lang": null
             },
@@ -1725,7 +1785,8 @@
                 "de": "Vesunna Museum",
                 "hu": "Vesunna Múzeum",
                 "ro": "Muzeul Vesunna",
-                "en": "Vesunna Museum"
+                "en": "Vesunna Museum",
+                "fr": "Musée Vesunna"
               },
               "tip_5lang": null
             },
@@ -1734,7 +1795,8 @@
                 "de": "Château de Hautefort (Exkursion)",
                 "hu": "Hautefort kastély (kirándulás)",
                 "ro": "Castelul Hautefort (excursie)",
-                "en": "Hautefort Castle (excursion)"
+                "en": "Hautefort Castle (excursion)",
+                "fr": "Château de Hautefort (excursion)"
               },
               "tip_5lang": null
             },
@@ -1743,7 +1805,8 @@
                 "de": "Grotte de Tourtoirac",
                 "hu": "Tourtoirac-i barlang",
                 "ro": "Peștera Tourtoirac",
-                "en": "Tourtoirac Cave"
+                "en": "Tourtoirac Cave",
+                "fr": "Grotte de Tourtoirac"
               },
               "tip_5lang": null
             }
@@ -1854,6 +1917,12 @@
               "Roads in Périgord are often narrow and winding.",
               "Book tickets for Hautefort Castle in advance.",
               "Watch out for speed limits in the villages."
+            ],
+            "fr": [
+              "Le stationnement en centre-ville de Périgueux peut être difficile ; utilisez les parkings P+R.",
+              "Les routes du Périgord sont souvent étroites et sinueuses.",
+              "Réservez vos billets pour le château de Hautefort à l’avance.",
+              "Faites attention aux limitations de vitesse dans les villages."
             ]
           }
         },
@@ -1863,7 +1932,7 @@
             "hu": "Autóval kényelmesen elérheti a Szent Front-székesegyházat anélkül, hogy megázna. A Vesunna múzeumnál a közelben talál száraz parkolót. A Hautefort-kastélyhoz vezető út a Dordogne esőáztatta tájain át vezet, ami misztikus hangulatot áraszt. A napot a Tourtoirac-barlang látogatása zárja, ahol a föld alatt az időjárás nem számít.",
             "ro": "Cu mașina puteți ajunge confortabil la Catedrala Saint-Front fără a vă uda. Muzeul Vesunna oferă parcări în apropiere. Drumul spre Castelul Hautefort trece prin peisajele umede ale Dordognei, care par mistice. Ziua se încheie cu vizita la peștera Tourtoirac, unde vremea de afară nu contează.",
             "en": "By car, you can comfortably reach Saint-Front Cathedral without getting wet. Vesunna Museum offers convenient parking nearby. The drive to Hautefort Castle takes you through the rainy landscapes of the Dordogne, which appear mystical. The day concludes with a visit to the Tourtoirac Cave, where the weather is irrelevant underground.",
-            "fr": "En voiture, vous pouvez facilement rejoindre la cathédrale Saint-Front sans vous mouiller. Le musée Vesunna propose un parking pratique à proximité. Le trajet vers le château de Hautefort vous emmène à travers les paysages pluvieux de la Dordogne, qui paraissent mystiques. La journée se conclut par une visite de la grotte de Tourtoirac, où la météo n'importe peu sous terre."
+            "fr": "En voiture, vous pouvez atteindre confortablement la cathédrale Saint-Front sans vous mouiller. Le musée Vesunna dispose d’un stationnement pratique à proximité. La route vers le château de Hautefort vous fait traverser les paysages pluvieux de la Dordogne, qui prennent un aspect mystique. La journée se termine par une visite de la grotte de Tourtoirac, où le temps n’a pas d’importance sous terre."
           },
           "stops": [
             {
@@ -1873,7 +1942,7 @@
                 "hu": "Használja a közeli 'Montaigne' parkolóházat.",
                 "ro": "Folosiți parcarea supraetajată 'Montaigne' din apropiere.",
                 "en": "Use the 'Montaigne' parking garage located nearby.",
-                "fr": "Utilisez le parking Montaigne situé à proximité."
+                "fr": "Utilisez le parking souterrain 'Montaigne' situé à proximité."
               }
             },
             {
@@ -1893,7 +1962,7 @@
                 "hu": "A kastély belső terei pompásak és szárazak.",
                 "ro": "Interioarele castelului sunt magnifice și uscate.",
                 "en": "The interior of the castle is magnificent and dry.",
-                "fr": "L'intérieur du château est magnifique et reste au sec."
+                "fr": "L’intérieur du château est magnifique et sec."
               }
             },
             {
@@ -1903,7 +1972,7 @@
                 "hu": "Tökéletes célpont esőben, mivel a föld alatt van.",
                 "ro": "Destinația perfectă pe ploaie, fiind în subteran.",
                 "en": "Perfect rainy day destination as it is underground.",
-                "fr": "Destination idéale par temps de pluie car elle se trouve sous terre."
+                "fr": "Destination idéale par temps pluvieux car située sous terre."
               }
             }
           ],
@@ -1933,10 +2002,10 @@
               "Hautefort has a paved parking lot for easier access."
             ],
             "fr": [
-              "Soyez prudent sur les routes de campagne sinueuses par temps humide.",
-              "Vérifiez votre visibilité et vos essuie-glaces lors de fortes pluies.",
-              "Gardez un parapluie dans la voiture pour la marche jusqu'aux entrées.",
-              "Hautefort dispose d'un parking goudronné pour un accès plus facile."
+              "Soyez prudent sur les routes de campagne sinueuses lorsqu’elles sont mouillées.",
+              "Vérifiez votre visibilité et vos essuie-glaces en cas de fortes pluies.",
+              "Gardez un parapluie dans la voiture pour la marche jusqu’aux entrées.",
+              "Hautefort dispose d’un parking goudronné pour un accès facilité."
             ]
           }
         },
@@ -1946,7 +2015,7 @@
             "hu": "Egy fagyos reggel kezdődik a Szent Front-székesegyháznál. Az autó fűtése kényelmet biztosít a Vesunna múzeum felé vezető úton. A téli völgyön át Hautefort felé tartó út tiszta kilátást nyújt az alvó természetre. A kastély a téli fényben különösen fenségesnek tűnik. A nap a Tourtoirac-barlang állandó melegében zárul, ami ideális befejezés egy hideg napon.",
             "ro": "O dimineață geroasă începe la Catedrala Saint-Front. Încălzirea din mașină asigură confort în drum spre muzeul Vesunna. Traseul prin valea hibernală spre Hautefort oferă vederi clare asupra naturii amorțite. Castelul pare deosebit de nobil în lumina iernii. Ziua se încheie în căldura constantă a peșterii Tourtoirac.",
             "en": "A frosty morning begins at Saint-Front Cathedral. The car's heater ensures comfort on the way to Vesunna Museum. The drive through the wintery valley to Hautefort offers clear views of the dormant nature. The castle looks especially majestic in the winter light. The day ends in the constant warmth of Tourtoirac Cave, an ideal finish for a cold day.",
-            "fr": "Une matinée givrée commence à la cathédrale Saint-Front. Le chauffage de la voiture assure votre confort sur la route du musée Vesunna. Le trajet à travers la vallée hivernale vers Hautefort offre des vues dégagées sur la nature endormie. Le château semble particulièrement majestueux sous la lumière d'hiver. La journée se termine dans la chaleur constante de la grotte de Tourtoirac, un final idéal pour une journée froide."
+            "fr": "Une matinée froide commence à la cathédrale Saint-Front. Le chauffage de la voiture assure le confort en route vers le musée Vesunna. La traversée de la vallée hivernale jusqu’à Hautefort offre des vues dégagées sur la nature en repos. Le château paraît particulièrement majestueux à la lumière hivernale. La journée se termine dans la chaleur constante de la grotte de Tourtoirac, une conclusion idéale pour une journée froide."
           },
           "stops": [
             {
@@ -1966,7 +2035,7 @@
                 "hu": "Élvezze a benti meleg atmoszférát.",
                 "ro": "Bucurați-vă de atmosfera caldă din interior.",
                 "en": "Enjoy the warm atmosphere inside the museum.",
-                "fr": "Profitez de l'ambiance chaleureuse à l'intérieur du musée."
+                "fr": "Profitez de l’atmosphère chaleureuse à l’intérieur du musée."
               }
             },
             {
@@ -1976,7 +2045,7 @@
                 "hu": "Előzetesen ellenőrizze a téli nyitvatartást.",
                 "ro": "Verificați programul de iarnă în prealabil.",
                 "en": "Check winter opening hours in advance of your trip.",
-                "fr": "Vérifiez les horaires d'ouverture d'hiver avant votre voyage."
+                "fr": "Vérifiez les horaires d’hiver avant votre visite."
               }
             },
             {
@@ -1986,7 +2055,7 @@
                 "hu": "A benti állandó 14 fok télen kellemes.",
                 "ro": "Temperatura constantă de 14 grade este plăcută iarna.",
                 "en": "Constant 14 degrees Celsius inside is pleasant in winter.",
-                "fr": "Les 14 degrés constants à l'intérieur sont agréables en hiver."
+                "fr": "Une température constante de 14 degrés Celsius à l’intérieur est agréable en hiver."
               }
             }
           ],
@@ -2016,10 +2085,10 @@
               "Check your tire pressure during low temperatures."
             ],
             "fr": [
-              "Faites attention au verglas dans les sections forestières ombragées.",
-              "Les routes peuvent être givrées aux premières heures du matin.",
+              "Faites attention au verglas noir dans les sections forestières ombragées.",
+              "Les routes peuvent être glacées aux premières heures du matin.",
               "Visitez Hautefort avant 16h30 pour profiter de la lumière du jour.",
-              "Vérifiez la pression de vos pneus lors des basses températures."
+              "Vérifiez la pression de vos pneus par basses températures."
             ]
           }
         }
@@ -2038,7 +2107,8 @@
             "de": "Kathedrale Saint-Front",
             "hu": "Saint-Front székesegyház",
             "ro": "Catedrala Saint-Front",
-            "en": "Saint-Front Cathedral"
+            "en": "Saint-Front Cathedral",
+            "fr": "Cathédrale Saint-Front"
           },
           "coords": [
             0.7218,
@@ -2053,7 +2123,8 @@
             "de": "Zentraler Punkt, von dem aus viele Buslinien starten.",
             "hu": "Központi pont, ahonnan számos buszjárat indul.",
             "ro": "Punct central de unde pleacă multe linii de autobuz.",
-            "en": "Central point from which many bus lines start."
+            "en": "Central point from which many bus lines start.",
+            "fr": "Point central d’où partent de nombreuses lignes de bus."
           }
         },
         {
@@ -2061,7 +2132,8 @@
             "de": "Place Francheville",
             "hu": "Place Francheville",
             "ro": "Place Francheville",
-            "en": "Place Francheville"
+            "en": "Place Francheville",
+            "fr": "Place Francheville"
           },
           "coords": [
             0.7175,
@@ -2076,7 +2148,8 @@
             "de": "Wichtiger Verkehrsknotenpunkt mit vielen Anschlüssen.",
             "hu": "Fontos közlekedési csomópont számos csatlakozással.",
             "ro": "Nod important de transport cu multe conexiuni.",
-            "en": "Important transport hub with many connections."
+            "en": "Important transport hub with many connections.",
+            "fr": "Important noeud de transports avec de nombreuses correspondances."
           }
         },
         {
@@ -2084,7 +2157,8 @@
             "de": "Vesunna Museum",
             "hu": "Vesunna Múzeum",
             "ro": "Muzeul Vesunna",
-            "en": "Vesunna Museum"
+            "en": "Vesunna Museum",
+            "fr": "Musée Vesunna"
           },
           "coords": [
             0.7125,
@@ -2099,7 +2173,8 @@
             "de": "Die Linie B hält direkt vor dem Museum.",
             "hu": "A B jelzésű busz közvetlenül a múzeum előtt áll meg.",
             "ro": "Linia B oprește chiar în fața muzeului.",
-            "en": "Bus line B stops right in front of the museum."
+            "en": "Bus line B stops right in front of the museum.",
+            "fr": "La ligne B de bus s’arrête juste devant le musée."
           }
         },
         {
@@ -2107,7 +2182,8 @@
             "de": "MAAP Museum",
             "hu": "MAAP Múzeum",
             "ro": "Muzeul MAAP",
-            "en": "MAAP Museum"
+            "en": "MAAP Museum",
+            "fr": "Musée MAAP"
           },
           "coords": [
             0.7185,
@@ -2122,7 +2198,8 @@
             "de": "Nutzen Sie den Stadtbus, um den Hügel leicht zu erklimmen.",
             "hu": "Használja a helyi buszt, hogy könnyen feljusson a dombra.",
             "ro": "Folosiți autobuzul local pentru a urca ușor dealul.",
-            "en": "Use the city bus to easily climb the hill."
+            "en": "Use the city bus to easily climb the hill.",
+            "fr": "Utilisez le bus urbain pour monter facilement la colline."
           }
         },
         {
@@ -2130,7 +2207,8 @@
             "de": "Maison de la Culture",
             "hu": "Maison de la Culture",
             "ro": "Maison de la Culture",
-            "en": "Maison de la Culture"
+            "en": "Maison de la Culture",
+            "fr": "Maison de la Culture"
           },
           "coords": [
             0.715,
@@ -2145,7 +2223,8 @@
             "de": "Ein moderner Treffpunkt für Kunst und Events.",
             "hu": "Modern művészeti és rendezvényhelyszín.",
             "ro": "Un loc modern pentru artă și evenimente.",
-            "en": "A modern venue for art and events."
+            "en": "A modern venue for art and events.",
+            "fr": "Un lieu moderne pour l’art et les événements."
           }
         }
       ],
@@ -2154,7 +2233,7 @@
         "hu": "Használja a Péribus hálózatot, hogy kényelmesen váltson Périgueux fő látnivalói között. Ez az útvonal összeköti a történelmi óvárost a legjelentősebb múzeumokkal, mint a Vesunna és a MAAP. Ez egy stresszmentes módja a város kulturális sokszínűségének felfedezésének, anélkül, hogy a parkolás miatt aggódna.",
         "ro": "Folosiți rețeaua Péribus pentru a schimba confortabil între principalele atracții din Périgueux. Acest traseu conectează centrul istoric cu cele mai importante muzee, precum Vesunna și MAAP. Este o modalitate fără stres de a experimenta diversitatea culturală a orașului fără a vă face griji pentru parcare.",
         "en": "Use the Péribus network to comfortably switch between the main sights of Périgueux. This route connects the historical old town with the most significant museums like Vesunna and MAAP. It's a stress-free way to experience the city's cultural diversity without worrying about parking.",
-        "fr": "Utilisez le réseau Péribus pour passer confortablement d'un site à l'autre à Périgueux. Cet itinéraire relie la vieille ville historique aux musées les plus importants comme Vesunna et le MAAP. C'est un moyen sans stress de découvrir la diversité culturelle de la ville sans se soucier du stationnement."
+        "fr": "Utilisez le réseau Péribus pour passer confortablement entre les principaux sites de Périgueux. Cet itinéraire relie la vieille ville historique aux musées les plus importants comme Vesunna et le MAAP. C’est un moyen sans stress de découvrir la diversité culturelle de la ville sans se soucier du stationnement."
       },
       "gastro_picks": {
         "de": [
@@ -2283,10 +2362,10 @@
           "Validate your ticket when boarding."
         ],
         "fr": [
-          "Achetez vos tickets à l'avance aux kiosques ou via l'application.",
+          "Achetez vos billets à l’avance aux bornes ou via l’application.",
           "Les bus circulent moins fréquemment le week-end.",
-          "Vérifiez les horaires de la ligne NS pour le quartier historique.",
-          "Validez votre titre de transport lors de la montée."
+          "Vérifiez les horaires de la ligne NS pour le secteur historique.",
+          "Validez votre titre de transport lors de la montée à bord."
         ]
       },
       "variants": {
@@ -2295,7 +2374,8 @@
             "de": "Nutzen Sie das Péribus-Netzwerk, um bequem zwischen den wichtigsten Sehenswürdigkeiten von Périgueux zu wechseln. Diese Route verbindet die historische Altstadt mit den bedeutendsten Museen wie Vesunna und MAAP. Es ist eine stressfreie Möglichkeit, die kulturelle Vielfalt der Stadt zu erleben, ohne sich um Parkplätze kümmern zu müssen.",
             "hu": "Használja a Péribus hálózatot, hogy kényelmesen váltson Périgueux fő látnivalói között. Ez az útvonal összeköti a történelmi óvárost a legjelentősebb múzeumokkal, mint a Vesunna és a MAAP. Ez egy stresszmentes módja a város kulturális sokszínűségének felfedezésének, anélkül, hogy a parkolás miatt aggódna.",
             "ro": "Folosiți rețeaua Péribus pentru a schimba confortabil între principalele atracții din Périgueux. Acest traseu conectează centrul istoric cu cele mai importante muzee, precum Vesunna și MAAP. Este o modalitate fără stres de a experimenta diversitatea culturală a orașului fără a vă face griji pentru parcare.",
-            "en": "Use the Péribus network to comfortably switch between the main sights of Périgueux. This route connects the historical old town with the most significant museums like Vesunna and MAAP. It's a stress-free way to experience the city's cultural diversity without worrying about parking."
+            "en": "Use the Péribus network to comfortably switch between the main sights of Périgueux. This route connects the historical old town with the most significant museums like Vesunna and MAAP. It's a stress-free way to experience the city's cultural diversity without worrying about parking.",
+            "fr": "Utilisez le réseau Péribus pour passer confortablement entre les principaux sites de Périgueux. Cet itinéraire relie la vieille ville historique aux musées les plus importants comme Vesunna et le MAAP. C’est un moyen sans stress de découvrir la diversité culturelle de la ville sans se soucier du stationnement."
           },
           "stops": [
             {
@@ -2303,7 +2383,8 @@
                 "de": "Kathedrale Saint-Front",
                 "hu": "Saint-Front székesegyház",
                 "ro": "Catedrala Saint-Front",
-                "en": "Saint-Front Cathedral"
+                "en": "Saint-Front Cathedral",
+                "fr": "Cathédrale Saint-Front"
               },
               "tip_5lang": null
             },
@@ -2312,7 +2393,8 @@
                 "de": "Place Francheville",
                 "hu": "Place Francheville",
                 "ro": "Place Francheville",
-                "en": "Place Francheville"
+                "en": "Place Francheville",
+                "fr": "Place Francheville"
               },
               "tip_5lang": null
             },
@@ -2321,7 +2403,8 @@
                 "de": "Vesunna Museum",
                 "hu": "Vesunna Múzeum",
                 "ro": "Muzeul Vesunna",
-                "en": "Vesunna Museum"
+                "en": "Vesunna Museum",
+                "fr": "Musée Vesunna"
               },
               "tip_5lang": null
             },
@@ -2330,7 +2413,8 @@
                 "de": "MAAP Museum",
                 "hu": "MAAP Múzeum",
                 "ro": "Muzeul MAAP",
-                "en": "MAAP Museum"
+                "en": "MAAP Museum",
+                "fr": "Musée MAAP"
               },
               "tip_5lang": null
             },
@@ -2339,7 +2423,8 @@
                 "de": "Maison de la Culture",
                 "hu": "Maison de la Culture",
                 "ro": "Maison de la Culture",
-                "en": "Maison de la Culture"
+                "en": "Maison de la Culture",
+                "fr": "Maison de la Culture"
               },
               "tip_5lang": null
             }
@@ -2450,6 +2535,12 @@
               "Buses run less frequently on weekends.",
               "Check the timetable for the NS line for the historical district.",
               "Validate your ticket when boarding."
+            ],
+            "fr": [
+              "Achetez vos billets à l’avance aux bornes ou via l’application.",
+              "Les bus circulent moins fréquemment le week-end.",
+              "Vérifiez les horaires de la ligne NS pour le secteur historique.",
+              "Validez votre titre de transport lors de la montée à bord."
             ]
           }
         },
@@ -2459,7 +2550,7 @@
             "hu": "Busszal szárazon juthat el a Szent Front-székesegyházhoz. A Place Francheville-en a várótermek alatt kereshet menedéket. A Vesunna múzeum és a MAAP jól megközelíthető, és órákig tartó szórakozást nyújt a szárazon. A napot a Maison de la Culture látogatása zárja, amely tökéletes helyszín esős délutánokra.",
             "ro": "Cu autobuzul ajungeți uscat la Catedrala Saint-Front. În Place Francheville vă puteți adăposti în stațiile de autobuz. Muzeul Vesunna și MAAP sunt bine conectate și oferă divertisment la adăpost. Ziua se încheie cu vizita la Maison de la Culture, un loc perfect pentru amiezi ploioase.",
             "en": "By bus, you can reach Saint-Front Cathedral while staying dry. At Place Francheville, you can seek shelter under the bus stops. Vesunna Museum and MAAP are well-connected and offer hours of entertainment out of the rain. The day concludes with a visit to the Maison de la Culture, a perfect spot for rainy afternoons.",
-            "fr": "En bus, vous pouvez rejoindre la cathédrale Saint-Front tout en restant au sec. À la place Francheville, vous pouvez vous abriter sous les arrêts de bus. Le musée Vesunna et le MAAP sont bien desservis et offrent des heures de divertissement à l'abri de la pluie. La journée se termine par une visite de la Maison de la Culture, un endroit parfait pour les après-midi pluvieux."
+            "fr": "En bus, vous pouvez rejoindre la cathédrale Saint-Front tout en restant au sec. À la Place Francheville, vous pouvez vous abriter sous les abribus. Les musées Vesunna et MAAP sont bien desservis et offrent des heures de visite à l’abri de la pluie. La journée se termine par une visite de la Maison de la Culture, un endroit parfait pour les après-midis pluvieux."
           },
           "stops": [
             {
@@ -2469,7 +2560,7 @@
                 "hu": "A buszmegálló szinte közvetlenül az ajtó előtt van.",
                 "ro": "Stația de autobuz este aproape direct în fața ușii.",
                 "en": "The bus stop is located almost directly in front of the door.",
-                "fr": "L'arrêt de bus est situé presque directement devant la porte."
+                "fr": "L’arrêt de bus se situe presque directement devant la porte."
               }
             },
             {
@@ -2479,7 +2570,7 @@
                 "hu": "Központi csomópont számos fedett várakozóhellyel.",
                 "ro": "Nod central cu multe locuri de adăpost.",
                 "en": "Central hub with many sheltered spots to wait for buses.",
-                "fr": "Plaque tournante centrale avec de nombreux endroits abrités pour attendre le bus."
+                "fr": "Nœud central avec de nombreux abris pour attendre les bus."
               }
             },
             {
@@ -2489,7 +2580,7 @@
                 "hu": "Használja a K vonalat a gyors összeköttetésért.",
                 "ro": "Folosiți linia K pentru o conexiune rapidă.",
                 "en": "Use line K for a quick connection to this area.",
-                "fr": "Utilisez la ligne K pour une connexion rapide à cette zone."
+                "fr": "Utilisez la ligne K pour une correspondance rapide vers ce secteur."
               }
             },
             {
@@ -2499,7 +2590,7 @@
                 "hu": "Rövid séta az esőben a buszmegállótól.",
                 "ro": "O scurtă plimbare de la stația de autobuz prin ploaie.",
                 "en": "A short walk from the bus stop through the rain.",
-                "fr": "Une courte marche depuis l'arrêt de bus sous la pluie."
+                "fr": "Une courte marche depuis l’arrêt de bus sous la pluie."
               }
             },
             {
@@ -2509,7 +2600,7 @@
                 "hu": "Gyakran rendeznek itt bent kiállításokat.",
                 "ro": "Aici se organizează frecvent expoziții în interior.",
                 "en": "Indoor exhibitions are often held here during rain.",
-                "fr": "Des expositions en intérieur sont souvent organisées ici en cas de pluie."
+                "fr": "Des expositions intérieures y sont souvent organisées en cas de pluie."
               }
             }
           ],
@@ -2539,10 +2630,10 @@
               "Most downtown bus stops are sheltered from the elements."
             ],
             "fr": [
-              "Téléchargez l'application Péribus pour les infos de départ en temps réel.",
-              "Achetez vos tickets à l'avance aux distributeurs ou sur l'application.",
-              "Les bus peuvent subir de légers retards lors de fortes pluies.",
-              "La plupart des arrêts du centre-ville sont abrités contre les éléments."
+              "Téléchargez l’application Péribus pour les départs en temps réel.",
+              "Achetez vos billets à l’avance aux distributeurs ou via l’application.",
+              "Les bus peuvent subir de légers retards par fortes pluies.",
+              "La plupart des arrêts du centre-ville sont protégés des intempéries."
             ]
           }
         },
@@ -2552,7 +2643,7 @@
             "hu": "Egy téli reggel kezdődik a Szent Front-székesegyháznál, amelyet kényelmesen, fűtött busszal érhet el. A Place Francheville rövid látogatásra hív, mielőtt felmelegedne a Vesunna és MAAP múzeumokban. A kulturális utazás délután a Maison de la Culture-ben ér véget, miközben kint leszáll a téli szürkület.",
             "ro": "O dimineață de iarnă începe la Catedrala Saint-Front, unde puteți ajunge confortabil cu autobuzul încălzit. Place Francheville invită la o scurtă vizită înainte de a vă încălzi în muzeele Vesunna și MAAP. Călătoria culturală se încheie după-amiaza la Maison de la Culture.",
             "en": "A winter morning begins at Saint-Front Cathedral, easily reached by a heated bus. Place Francheville invites a short visit before warming up in the Vesunna and MAAP museums. The cultural journey ends in the afternoon at the Maison de la Culture, as the winter twilight sets in outside.",
-            "fr": "Une matinée d'hiver commence à la cathédrale Saint-Front, facilement accessible par un bus chauffé. La place Francheville invite à une courte visite avant de se réchauffer dans les musées Vesunna et MAAP. Le voyage culturel se termine l'après-midi à la Maison de la Culture, alors que le crépuscule hivernal s'installe dehors."
+            "fr": "Une matinée d’hiver commence à la cathédrale Saint-Front, facilement accessible en bus chauffé. La Place Francheville invite à une courte visite avant de se réchauffer dans les musées Vesunna et MAAP. Le parcours culturel se termine l’après-midi à la Maison de la Culture, tandis que le crépuscule hivernal s’installe dehors."
           },
           "stops": [
             {
@@ -2562,7 +2653,7 @@
                 "hu": "A buszozás védelmet nyújt a hideg szél ellen.",
                 "ro": "Călătoria cu autobuzul oferă protecție împotriva vântului rece.",
                 "en": "The bus ride offers protection from the biting winter wind.",
-                "fr": "Le trajet en bus offre une protection contre le vent d'hiver mordant."
+                "fr": "Le trajet en bus protège du vent hivernal mordant."
               }
             },
             {
@@ -2572,7 +2663,7 @@
                 "hu": "Igyon egy kávét a közelben lévő egyik kioszknál.",
                 "ro": "Luați o cafea de la un chioșc din apropiere.",
                 "en": "Grab a hot coffee at a nearby kiosk while waiting.",
-                "fr": "Prenez un café chaud dans un kiosque à proximité en attendant."
+                "fr": "Prenez un café chaud au kiosque à proximité en attendant."
               }
             },
             {
@@ -2582,7 +2673,7 @@
                 "hu": "Tökéletesen temperált kiállítóterek.",
                 "ro": "Săli de expoziție cu temperatură perfectă.",
                 "en": "The exhibition halls are perfectly climate-controlled.",
-                "fr": "Les salles d'exposition sont parfaitement climatisées."
+                "fr": "Les salles d’exposition sont parfaitement climatisées."
               }
             },
             {
@@ -2592,7 +2683,7 @@
                 "hu": "Melegedjen fel a műalkotások között.",
                 "ro": "Încălziți-vă printre operele de artă.",
                 "en": "Warm up while exploring the extensive art collections.",
-                "fr": "Réchauffez-vous en explorant les vastes collections d'art."
+                "fr": "Réchauffez-vous en explorant les vastes collections d’art."
               }
             },
             {
@@ -2602,7 +2693,7 @@
                 "hu": "Meleg helyszín a késő délutáni órákra.",
                 "ro": "Un loc cald pentru orele târzii ale după-amiezii.",
                 "en": "A warm location for the late afternoon hours.",
-                "fr": "Un lieu chaleureux pour les heures de fin d'après-midi."
+                "fr": "Un lieu chaleureux pour les heures de fin d’après-midi."
               }
             }
           ],
@@ -2632,10 +2723,10 @@
               "Sunset is early, often dark by 17:00 in mid-winter."
             ],
             "fr": [
-              "Attention aux horaires réduits pendant les jours fériés.",
+              "Tenez compte des horaires réduits pendant les jours fériés.",
               "Les bus sont bien chauffés et confortables en hiver.",
-              "Utilisez les arrêts abrités comme protection contre le vent.",
-              "Le soleil se couche tôt, il fait souvent nuit dès 17h00 au milieu de l'hiver."
+              "Utilisez les abris d’arrêt pour vous protéger du vent.",
+              "Le coucher du soleil est précoce, il fait souvent nuit dès 17h00 en plein hiver."
             ]
           }
         }

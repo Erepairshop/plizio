@@ -21,7 +21,8 @@
             "de": "Männerabtei (Abbaye aux Hommes)",
             "hu": "Férfi-apátság (Abbaye aux Hommes)",
             "ro": "Abația Bărbaților (Abbaye aux Hommes)",
-            "en": "Men's Abbey (Abbaye aux Hommes)"
+            "en": "Men's Abbey (Abbaye aux Hommes)",
+            "fr": "Abbaye aux Hommes (Men's Abbey)"
           },
           "coords": [
             -0.3732,
@@ -37,7 +38,7 @@
             "hu": "Tekintse meg Hódító Vilmos sírját a templomban.",
             "ro": "Vizitați mormântul lui Wilhelm Cuceritorul în interiorul bisericii.",
             "en": "Visit the tomb of William the Conqueror inside the church.",
-            "fr": "Visitez le tombeau de Guillaume le Conquérant à l'intérieur de l'église."
+            "fr": "Visitez le tombeau de Guillaume le Conquérant à l’intérieur de l’église."
           }
         },
         {
@@ -45,7 +46,8 @@
             "de": "Kirche Saint-Pierre",
             "hu": "Szent Péter-templom",
             "ro": "Biserica Sfântul Petru",
-            "en": "Saint-Pierre Church"
+            "en": "Saint-Pierre Church",
+            "fr": "Église Saint-Pierre"
           },
           "coords": [
             -0.3615,
@@ -61,7 +63,7 @@
             "hu": "Csodálja meg a gyönyörű reneszánsz szentélykápolnát.",
             "ro": "Admirați capela corului în stil renascentist superb.",
             "en": "Admire the magnificent Renaissance choir chapel.",
-            "fr": "Admirez la magnifique chapelle du chœur de style Renaissance."
+            "fr": "Admirez la magnifique chapelle du chœur de la Renaissance."
           }
         },
         {
@@ -69,7 +71,8 @@
             "de": "Burg von Caen",
             "hu": "Caeni vár",
             "ro": "Castelul din Caen",
-            "en": "Caen Castle"
+            "en": "Caen Castle",
+            "fr": "Château de Caen"
           },
           "coords": [
             -0.3621,
@@ -85,7 +88,7 @@
             "hu": "Sétáljon végig a várfalakon a panorámás kilátásért.",
             "ro": "Plimbați-vă pe zidurile cetății pentru o vedere panoramică.",
             "en": "Walk along the ramparts for a panoramic view of the city.",
-            "fr": "Promenez-vous sur les remparts pour une vue panoramique de la ville."
+            "fr": "Promenez-vous le long des remparts pour une vue panoramique sur la ville."
           }
         },
         {
@@ -93,7 +96,8 @@
             "de": "Viertel Vaugueux",
             "hu": "Vaugueux negyed",
             "ro": "Cartierul Vaugueux",
-            "en": "Vaugueux District"
+            "en": "Vaugueux District",
+            "fr": "Quartier du Vaugueux"
           },
           "coords": [
             -0.3582,
@@ -109,7 +113,7 @@
             "hu": "Tökéletes hely a normandiai specialitások megkóstolásához.",
             "ro": "Locul perfect pentru a gusta specialități normande.",
             "en": "The perfect spot to taste Norman specialties in a medieval setting.",
-            "fr": "L'endroit idéal pour goûter aux spécialités normandes dans un cadre médiéval."
+            "fr": "L’endroit parfait pour déguster des spécialités normandes dans un cadre médiéval."
           }
         },
         {
@@ -117,7 +121,8 @@
             "de": "Frauenabtei (Abbaye aux Dames)",
             "hu": "Női-apátság (Abbaye aux Dames)",
             "ro": "Abația Femeilor (Abbaye aux Dames)",
-            "en": "Women's Abbey (Abbaye aux Dames)"
+            "en": "Women's Abbey (Abbaye aux Dames)",
+            "fr": "Abbaye aux Dames (Women's Abbey)"
           },
           "coords": [
             -0.3535,
@@ -141,7 +146,8 @@
             "de": "Botanischer Garten",
             "hu": "Füvészkert",
             "ro": "Grădina Botanică",
-            "en": "Botanical Garden"
+            "en": "Botanical Garden",
+            "fr": "Jardin Botanique"
           },
           "coords": [
             -0.3715,
@@ -166,7 +172,7 @@
         "hu": "Kezdje a reggelt a lenyűgöző Férfi-apátságban, a normann román stílus remekművében, ahol Hódító Vilmos nyugszik. Egy rövid séta után elérheti a Szent Péter-templomot, amely közvetlenül a város szívében áll.\n\nDélben fedezze fel Caen hatalmas várát, majd merüljön el a Vaugueux negyed festői utcáiban. Itt hagyományos normandiai ebédet fogyaszthat el a számos történelmi favázas ház egyikében, élvezve a középkori hangulatot.\n\nDélután látogasson el a Női-apátságba, amely Mathilde királyné nyughelye. A román stílusú templom csendes légköre kellemes kontrasztot alkot a nyüzsgő városközponttal, és kiválóan alkalmas az elmélyülésre.\n\nA napot zárja egy pihentető sétával a Füvészkertben. A változatos növényvilág és a gondozott sétányok tökéletes befejezést nyújtanak a gyalogos városnézéshez, mielőtt egy hangulatos vacsorával búcsúzna a várostól.",
         "ro": "Începeți dimineața la impunătoarea Abație a Bărbaților, o capodoperă a stilului romanic normand, unde este înmormântat Wilhelm Cuceritorul. O scurtă plimbare vă duce la superba biserică Saint-Pierre, chiar în centrul orașului.\n\nLa prânz, explorați uriașa fortăreață a castelului din Caen înainte de a pătrunde pe străduțele pitorești ale cartierului Vaugueux. Aici puteți savura un prânz tradițional normand într-una dintre numeroasele case istorice cu bârne de lemn.\n\nDupă-amiaza, vizitați Abația Femeilor, locul de odihnă al reginei Matilda. Atmosfera liniștită a acestei biserici romanice oferă un contrast plăcut cu centrul animat al orașului și este ideală pentru reflecție.\n\nÎncheiați ziua cu o plimbare relaxantă prin Grădina Botanică. Diversitatea florei și aleile bine întreținute oferă finalul perfect pentru explorarea orașului pe jos, înainte de a vă bucura de o seară liniștită.",
         "en": "Start your morning at the imposing Men's Abbey, a masterpiece of Norman Romanesque architecture where William the Conqueror is buried. A short walk takes you to the magnificent Saint-Pierre Church right in the city center.\n\nAt midday, explore the massive fortress of Caen Castle before diving into the picturesque alleys of the Vaugueux district. Here, enjoy a traditional Norman lunch in one of the many historic half-timbered houses.\n\nIn the afternoon, head to the Women's Abbey, the resting place of Queen Matilda. The quiet atmosphere of this Romanesque church provides a lovely contrast to the busy city center and invites reflection.\n\nEnd the day with a relaxing stroll through the Jardin des Plantes. The variety of flora and the well-kept paths offer the perfect conclusion to your walking tour of the city before a cozy evening wrap-up.",
-        "fr": "Commencez votre matinée à l'imposante Abbaye aux Hommes, un chef-d'œuvre de l'art roman normand où est enterré Guillaume le Conquérant. Une courte promenade vous mènera ensuite à la magnifique église Saint-Pierre, située en plein centre-ville.\n\nÀ midi, explorez l'immense forteresse du château de Caen avant de plonger dans les ruelles pittoresques du quartier du Vaugueux. Profitez-en pour déguster un déjeuner normand traditionnel dans l'une des nombreuses maisons historiques à colombages.\n\nL'après-midi, dirigez-vous vers l'Abbaye aux Dames, lieu de sépulture de la reine Mathilde. L'atmosphère paisible de cette église romane offre un contraste charmant avec l'effervescence du centre-ville et invite à la réflexion.\n\nTerminez la journée par une promenade relaxante au Jardin des Plantes. La variété de la flore et les sentiers bien entretenus offrent la conclusion parfaite à votre visite à pied de la ville avant une soirée douillette."
+        "fr": "Commencez votre matinée à l’imposante Abbaye aux Hommes, chef-d’œuvre de l’architecture romane normande où est enterré Guillaume le Conquérant. Une courte marche vous mène à la magnifique Église Saint-Pierre au cœur de la ville.\n\nÀ midi, explorez la massive forteresse du Château de Caen avant de plonger dans les ruelles pittoresques du quartier du Vaugueux. Là, appréciez un déjeuner normand traditionnel dans l’une des nombreuses maisons à colombages historiques.\n\nL’après-midi, dirigez-vous vers l’Abbaye aux Dames, lieu de repos de la reine Mathilde. L’atmosphère paisible de cette église romane offre un joli contraste avec le centre-ville animé et invite à la réflexion.\n\nTerminez la journée par une promenade relaxante à travers le Jardin des Plantes. La variété de la flore et les allées bien entretenues constituent la conclusion parfaite à votre parcours pédestre de la ville avant une soirée cocooning."
       },
       "gastro_picks": {
         "de": [
@@ -360,10 +366,10 @@
           "Book your lunch table in the Vaugueux district in advance."
         ],
         "fr": [
-          "Caen est très adaptée aux piétons, prévoyez donc des chaussures confortables.",
-          "La plupart des sites touristiques sont situés le long d'un seul axe central.",
-          "Un parapluie est toujours conseillé lors d'une visite en Normandie.",
-          "Réservez votre table pour le déjeuner dans le quartier du Vaugueux à l'avance."
+          "Caen est très agréable à pied, donc portez des chaussures confortables.",
+          "La plupart des sites sont situés le long d’un même axe central.",
+          "Un parapluie est toujours conseillé lors d’une visite en Normandie.",
+          "Réservez votre table pour le déjeuner dans le quartier du Vaugueux à l’avance."
         ]
       },
       "variants": {
@@ -372,7 +378,8 @@
             "de": "Beginnen Sie Ihren Morgen in der imposanten Abbaye aux Hommes, einem Meisterwerk normannischer Romanik, in dem Wilhelm der Eroberer begraben liegt. Ein kurzer Spaziergang führt Sie zur prächtigen Kirche Saint-Pierre direkt im Zentrum.\n\nMittags erkunden Sie die riesige Burgfestung von Caen, bevor Sie in die malerischen Gassen des Vaugueux-Viertels eintauchen. Hier genießen Sie ein traditionelles normannisches Mittagessen in einem der vielen historischen Fachwerkhäuser.\n\nAm Nachmittag pilgern Sie zur Abbaye aux Dames, der Ruhestätte von Königin Mathilde. Die ruhige Atmosphäre dieser romanischen Kirche bietet einen schönen Kontrast zum lebhaften Stadtzentrum und lädt zur Reflexion ein.\n\nBeenden Sie den Tag mit einem entspannten Spaziergang durch den Jardin des Plantes. Die Vielfalt der Flora und die gepflegten Alleen bieten den perfekten Abschluss für Ihre Stadterkundung zu Fuß, bevor Sie den Abend gemütlich ausklingen lassen.",
             "hu": "Kezdje a reggelt a lenyűgöző Férfi-apátságban, a normann román stílus remekművében, ahol Hódító Vilmos nyugszik. Egy rövid séta után elérheti a Szent Péter-templomot, amely közvetlenül a város szívében áll.\n\nDélben fedezze fel Caen hatalmas várát, majd merüljön el a Vaugueux negyed festői utcáiban. Itt hagyományos normandiai ebédet fogyaszthat el a számos történelmi favázas ház egyikében, élvezve a középkori hangulatot.\n\nDélután látogasson el a Női-apátságba, amely Mathilde királyné nyughelye. A román stílusú templom csendes légköre kellemes kontrasztot alkot a nyüzsgő városközponttal, és kiválóan alkalmas az elmélyülésre.\n\nA napot zárja egy pihentető sétával a Füvészkertben. A változatos növényvilág és a gondozott sétányok tökéletes befejezést nyújtanak a gyalogos városnézéshez, mielőtt egy hangulatos vacsorával búcsúzna a várostól.",
             "ro": "Începeți dimineața la impunătoarea Abație a Bărbaților, o capodoperă a stilului romanic normand, unde este înmormântat Wilhelm Cuceritorul. O scurtă plimbare vă duce la superba biserică Saint-Pierre, chiar în centrul orașului.\n\nLa prânz, explorați uriașa fortăreață a castelului din Caen înainte de a pătrunde pe străduțele pitorești ale cartierului Vaugueux. Aici puteți savura un prânz tradițional normand într-una dintre numeroasele case istorice cu bârne de lemn.\n\nDupă-amiaza, vizitați Abația Femeilor, locul de odihnă al reginei Matilda. Atmosfera liniștită a acestei biserici romanice oferă un contrast plăcut cu centrul animat al orașului și este ideală pentru reflecție.\n\nÎncheiați ziua cu o plimbare relaxantă prin Grădina Botanică. Diversitatea florei și aleile bine întreținute oferă finalul perfect pentru explorarea orașului pe jos, înainte de a vă bucura de o seară liniștită.",
-            "en": "Start your morning at the imposing Men's Abbey, a masterpiece of Norman Romanesque architecture where William the Conqueror is buried. A short walk takes you to the magnificent Saint-Pierre Church right in the city center.\n\nAt midday, explore the massive fortress of Caen Castle before diving into the picturesque alleys of the Vaugueux district. Here, enjoy a traditional Norman lunch in one of the many historic half-timbered houses.\n\nIn the afternoon, head to the Women's Abbey, the resting place of Queen Matilda. The quiet atmosphere of this Romanesque church provides a lovely contrast to the busy city center and invites reflection.\n\nEnd the day with a relaxing stroll through the Jardin des Plantes. The variety of flora and the well-kept paths offer the perfect conclusion to your walking tour of the city before a cozy evening wrap-up."
+            "en": "Start your morning at the imposing Men's Abbey, a masterpiece of Norman Romanesque architecture where William the Conqueror is buried. A short walk takes you to the magnificent Saint-Pierre Church right in the city center.\n\nAt midday, explore the massive fortress of Caen Castle before diving into the picturesque alleys of the Vaugueux district. Here, enjoy a traditional Norman lunch in one of the many historic half-timbered houses.\n\nIn the afternoon, head to the Women's Abbey, the resting place of Queen Matilda. The quiet atmosphere of this Romanesque church provides a lovely contrast to the busy city center and invites reflection.\n\nEnd the day with a relaxing stroll through the Jardin des Plantes. The variety of flora and the well-kept paths offer the perfect conclusion to your walking tour of the city before a cozy evening wrap-up.",
+            "fr": "Commencez votre matinée à l’imposante Abbaye aux Hommes, chef-d’œuvre de l’architecture romane normande où est enterré Guillaume le Conquérant. Une courte marche vous mène à la magnifique Église Saint-Pierre au cœur de la ville.\n\nÀ midi, explorez la massive forteresse du Château de Caen avant de plonger dans les ruelles pittoresques du quartier du Vaugueux. Là, appréciez un déjeuner normand traditionnel dans l’une des nombreuses maisons à colombages historiques.\n\nL’après-midi, dirigez-vous vers l’Abbaye aux Dames, lieu de repos de la reine Mathilde. L’atmosphère paisible de cette église romane offre un joli contraste avec le centre-ville animé et invite à la réflexion.\n\nTerminez la journée par une promenade relaxante à travers le Jardin des Plantes. La variété de la flore et les allées bien entretenues constituent la conclusion parfaite à votre parcours pédestre de la ville avant une soirée cocooning."
           },
           "stops": [
             {
@@ -380,13 +387,15 @@
                 "de": "Männerabtei (Abbaye aux Hommes)",
                 "hu": "Férfi-apátság (Abbaye aux Hommes)",
                 "ro": "Abația Bărbaților (Abbaye aux Hommes)",
-                "en": "Men's Abbey (Abbaye aux Hommes)"
+                "en": "Men's Abbey (Abbaye aux Hommes)",
+                "fr": "Abbaye aux Hommes (Men's Abbey)"
               },
               "tip_5lang": {
                 "de": "Besuchen Sie das Grab von Wilhelm dem Eroberer in der Kirche.",
                 "hu": "Tekintse meg Hódító Vilmos sírját a templomban.",
                 "ro": "Vizitați mormântul lui Wilhelm Cuceritorul în interiorul bisericii.",
-                "en": "Visit the tomb of William the Conqueror inside the church."
+                "en": "Visit the tomb of William the Conqueror inside the church.",
+                "fr": "Visitez le tombeau de Guillaume le Conquérant à l’intérieur de l’église."
               }
             },
             {
@@ -394,13 +403,15 @@
                 "de": "Kirche Saint-Pierre",
                 "hu": "Szent Péter-templom",
                 "ro": "Biserica Sfântul Petru",
-                "en": "Saint-Pierre Church"
+                "en": "Saint-Pierre Church",
+                "fr": "Église Saint-Pierre"
               },
               "tip_5lang": {
                 "de": "Bewundern Sie die prächtige Renaissance-Chorkapelle.",
                 "hu": "Csodálja meg a gyönyörű reneszánsz szentélykápolnát.",
                 "ro": "Admirați capela corului în stil renascentist superb.",
-                "en": "Admire the magnificent Renaissance choir chapel."
+                "en": "Admire the magnificent Renaissance choir chapel.",
+                "fr": "Admirez la magnifique chapelle du chœur de la Renaissance."
               }
             },
             {
@@ -408,13 +419,15 @@
                 "de": "Burg von Caen",
                 "hu": "Caeni vár",
                 "ro": "Castelul din Caen",
-                "en": "Caen Castle"
+                "en": "Caen Castle",
+                "fr": "Château de Caen"
               },
               "tip_5lang": {
                 "de": "Spazieren Sie auf den Festungsmauern für einen Panoramablick.",
                 "hu": "Sétáljon végig a várfalakon a panorámás kilátásért.",
                 "ro": "Plimbați-vă pe zidurile cetății pentru o vedere panoramică.",
-                "en": "Walk along the ramparts for a panoramic view of the city."
+                "en": "Walk along the ramparts for a panoramic view of the city.",
+                "fr": "Promenez-vous le long des remparts pour une vue panoramique sur la ville."
               }
             },
             {
@@ -422,13 +435,15 @@
                 "de": "Viertel Vaugueux",
                 "hu": "Vaugueux negyed",
                 "ro": "Cartierul Vaugueux",
-                "en": "Vaugueux District"
+                "en": "Vaugueux District",
+                "fr": "Quartier du Vaugueux"
               },
               "tip_5lang": {
                 "de": "Der perfekte Ort, um normannische Spezialitäten zu probieren.",
                 "hu": "Tökéletes hely a normandiai specialitások megkóstolásához.",
                 "ro": "Locul perfect pentru a gusta specialități normande.",
-                "en": "The perfect spot to taste Norman specialties in a medieval setting."
+                "en": "The perfect spot to taste Norman specialties in a medieval setting.",
+                "fr": "L’endroit parfait pour déguster des spécialités normandes dans un cadre médiéval."
               }
             },
             {
@@ -436,13 +451,15 @@
                 "de": "Frauenabtei (Abbaye aux Dames)",
                 "hu": "Női-apátság (Abbaye aux Dames)",
                 "ro": "Abația Femeilor (Abbaye aux Dames)",
-                "en": "Women's Abbey (Abbaye aux Dames)"
+                "en": "Women's Abbey (Abbaye aux Dames)",
+                "fr": "Abbaye aux Dames (Women's Abbey)"
               },
               "tip_5lang": {
                 "de": "Besuchen Sie die Krypta aus dem 11. Jahrhundert unter dem Chor.",
                 "hu": "Látogasson el a kórus alatti 11. századi kriptába.",
                 "ro": "Vizitați cripta din secolul al XI-lea de sub cor.",
-                "en": "Visit the 11th-century crypt located under the choir."
+                "en": "Visit the 11th-century crypt located under the choir.",
+                "fr": "Visitez la crypte du XIe siècle située sous le chœur."
               }
             },
             {
@@ -450,13 +467,15 @@
                 "de": "Botanischer Garten",
                 "hu": "Füvészkert",
                 "ro": "Grădina Botanică",
-                "en": "Botanical Garden"
+                "en": "Botanical Garden",
+                "fr": "Jardin Botanique"
               },
               "tip_5lang": {
                 "de": "Entspannen Sie bei den exotischen Pflanzen in den Gewächshäusern.",
                 "hu": "Pihenjen az üvegházak egzotikus növényei között.",
                 "ro": "Relaxați-vă printre plantele exotice din sere.",
-                "en": "Relax among the exotic plants in the greenhouses."
+                "en": "Relax among the exotic plants in the greenhouses.",
+                "fr": "Détendez-vous parmi les plantes exotiques dans les serres."
               }
             }
           ],
@@ -618,6 +637,12 @@
               "Most sights are located along a single central axis.",
               "An umbrella is always advisable when visiting Normandy.",
               "Book your lunch table in the Vaugueux district in advance."
+            ],
+            "fr": [
+              "Caen est très agréable à pied, donc portez des chaussures confortables.",
+              "La plupart des sites sont situés le long d’un même axe central.",
+              "Un parapluie est toujours conseillé lors d’une visite en Normandie.",
+              "Réservez votre table pour le déjeuner dans le quartier du Vaugueux à l’avance."
             ]
           }
         },
@@ -627,7 +652,7 @@
             "hu": "Kezdje a napot a Férfiak Apátságában, melynek vaskos falai tökéletes menedéket nyújtanak a normann eső elől. Egy rövid séta vezet a Saint-Pierre templomig.\n\nDélben a vár múzeumaiban kalandozhat, ahol szárazon maradhat, miközben felfedezi a város történelmét és művészetét.\n\nA délutánt a Vaugueux-negyedben töltse. A szűk utcák védettebbek, a hangulatos éttermek pedig ideálisak egy hosszabb ebédhez.\n\nZárja a napot a Nők Apátságában, majd tegyen egy gyors sétát a botanikus kertben, amely esőben is különleges illatokat áraszt.",
             "ro": "Începeți ziua la Abbaye aux Hommes, ale cărei ziduri masive oferă adăpost perfect împotriva ploii normande. O scurtă plimbare vă duce la Biserica Saint-Pierre.\n\nLa prânz, explorați muzeele din interiorul castelului, unde puteți rămâne uscat în timp ce descoperiți istoria locală.\n\nDupă-amiaza aparține cartierului Vaugueux. Străzile înguste oferă protecție, iar restaurantele vă invită la o pauză prelungită.\n\nÎncheiați ziua la Abbaye aux Dames, înainte de o scurtă plimbare prin Grădina Botanică, care are un farmec aparte sub ploaie.",
             "en": "Start your day at the Abbaye aux Hommes, whose massive walls offer perfect shelter from the Norman rain. A short walk leads to Saint-Pierre Church.\n\nAt noon, explore the museums within the castle walls, where you can stay dry while diving deep into history and art.\n\nThe afternoon is spent in the Vaugueux district. The narrow streets offer some protection, and the cozy restaurants are ideal for a long break.\n\nEnd the day at the Abbaye aux Dames, followed by a quick stroll through the botanical garden, which feels atmospheric even in the rain.",
-            "fr": "Commencez votre journée à l'Abbaye aux Hommes, dont les murs massifs offrent un abri parfait contre la pluie normande. Une courte marche vous mènera à l'église Saint-Pierre.\n\nÀ midi, explorez les musées à l'intérieur de l'enceinte du château, où vous pourrez rester au sec tout en plongeant dans l'histoire et l'art.\n\nL'après-midi se passe dans le quartier du Vaugueux. Les rues étroites offrent une certaine protection, et les restaurants chaleureux sont idéaux pour une longue pause.\n\nTerminez la journée à l'Abbaye aux Dames, suivie d'une courte promenade au Jardin des Plantes, qui reste très atmosphérique même sous la pluie."
+            "fr": "Commencez votre journée à l’Abbaye aux Hommes, dont les murs massifs offrent un abri parfait contre la pluie normande. Une courte marche mène à l’Église Saint-Pierre.\n\nÀ midi, explorez les musées à l’intérieur des murs du château, où vous pouvez rester au sec tout en vous plongeant dans l’histoire et l’art.\n\nL’après-midi se passe dans le quartier du Vaugueux. Les rues étroites offrent une certaine protection, et les restaurants chaleureux sont idéaux pour une longue pause.\n\nTerminez la journée à l’Abbaye aux Dames, suivie d’une courte promenade dans le jardin botanique, qui reste atmosphérique même sous la pluie."
           },
           "stops": [
             {
@@ -637,7 +662,7 @@
                 "hu": "Használja a kerengőt száraz átjáróként az épületek között.",
                 "ro": "Folosiți claustrul ca pasaj uscat între clădiri.",
                 "en": "Use the cloister as a dry passage between the buildings.",
-                "fr": "Utilisez le cloître comme passage abrité entre les bâtiments."
+                "fr": "Utilisez le cloître comme passage sec entre les bâtiments."
               }
             },
             {
@@ -647,7 +672,7 @@
                 "hu": "Ideális hely egy hevesebb zápor kivárására.",
                 "ro": "Un loc ideal pentru a aștepta trecerea unei averse puternice.",
                 "en": "An ideal place to wait out a heavy rain shower.",
-                "fr": "Un endroit idéal pour attendre la fin d'une grosse averse."
+                "fr": "Un endroit idéal pour attendre la fin d’une forte averse."
               }
             },
             {
@@ -657,7 +682,7 @@
                 "hu": "Látogasson el a belső Normandie Múzeumba, hogy szárazon maradjon.",
                 "ro": "Vizitați Musée de Normandie din interior pentru a rămâne uscat.",
                 "en": "Visit the Musée de Normandie inside to stay dry.",
-                "fr": "Visitez le Musée de Normandie à l'intérieur pour rester au sec."
+                "fr": "Visitez le Musée de Normandie à l’intérieur pour rester au sec."
               }
             },
             {
@@ -667,7 +692,7 @@
                 "hu": "Az itteni éttermek tökéletesek egy hosszú, kényelmes ebédhez.",
                 "ro": "Restaurantele de aici sunt perfecte pentru un prânz lung și confortabil.",
                 "en": "The restaurants here are perfect for a long, cozy lunch.",
-                "fr": "Les restaurants ici sont parfaits pour un déjeuner long et convivial."
+                "fr": "Les restaurants ici sont parfaits pour un long déjeuner chaleureux."
               }
             },
             {
@@ -721,10 +746,10 @@
               "Watch out for slippery cobblestones in the Vaugueux district."
             ],
             "fr": [
-              "Portez un imperméable coupe-vent, car les parapluies résistent mal aux vents de la Manche.",
-              "Les musées du château sont les meilleurs refuges en cas de pluie persistante.",
-              "Profitez des courtes distances entre les églises et les cafés.",
-              "Les façades en pierre de Caen brillent particulièrement bien lorsqu'elles sont mouillées.",
+              "Portez un coupe-vent imperméable, car les parapluies cèdent souvent face aux vents de la Manche.",
+              "Les musées du château sont les meilleurs refuges lors des pluies persistantes.",
+              "Profitez des courtes distances entre églises et cafés.",
+              "Les façades en calcaire brillent particulièrement lorsqu’elles sont mouillées.",
               "Attention aux pavés glissants dans le quartier du Vaugueux."
             ]
           }
@@ -735,7 +760,7 @@
             "hu": "A Férfiak Apátsága hűvös eleganciát áraszt a téli napsütésben. Élvezze a csendet a fagyos reggeli levegőn.\n\nDélben a vár falaiból messzire ellátni a téli Caen felett, mielőtt felmelegedne a vár belső múzeumaiban.\n\nA délután egy forró ciderre hív a Vaugueux-negyedben, miközben a város fényei lassan kigyúlnak.\n\nZárja a túrát a Nők Apátságánál és a botanikus kertben, amikor a szürkület már délután 5-kor beáll.",
             "ro": "Abbaye aux Hommes emană o eleganță rece în soarele de iarnă. Bucurați-vă de liniște în aerul înghețat al dimineții.\n\nLa prânz, zidurile castelului oferă priveliști largi peste Caen-ul hibernal, înainte de a vă încălzi în muzeele interioare.\n\nDupă-amiaza vă invită la un cidru fierbinte în cartierul Vaugueux, în timp ce luminile orașului încep să se aprindă.\n\nÎncheiați turul la Abbaye aux Dames și în Grădina Botanică, pe măsură ce amurgul se lasă deja la ora 17:00.",
             "en": "The Abbaye aux Hommes exudes a cool elegance in the winter sun. Enjoy the silence in the frosty morning air.\n\nAt noon, the castle walls offer wide views over wintry Caen before you warm up in the castle museums.\n\nThe afternoon invites you for a hot cider in the Vaugueux district as the city lights slowly flicker on.\n\nEnd the tour at the Abbaye aux Dames and the botanical garden as dusk sets in as early as 5:00 PM.",
-            "fr": "L'Abbaye aux Hommes dégage une élégance fraîche sous le soleil d'hiver. Appréciez le silence dans l'air givré du matin.\n\nÀ midi, les murs du château offrent de larges vues sur Caen hivernale avant de vous réchauffer dans les musées du château.\n\nL'après-midi vous invite à déguster un cidre chaud dans le quartier du Vaugueux alors que les lumières de la ville commencent à scintiller.\n\nTerminez la visite à l'Abbaye aux Dames et au Jardin des Plantes, alors que le crépuscule s'installe dès 17h00."
+            "fr": "L’Abbaye aux Hommes exhale une élégance fraîche au soleil d’hiver. Appréciez le silence dans l’air matinal givré.\n\nÀ midi, les murailles du château offrent de larges vues sur la Caen hivernale avant de vous réchauffer dans les musées du château.\n\nL’après-midi vous invite à un cidre chaud dans le quartier du Vaugueux tandis que les lumières de la ville s’allument lentement.\n\nTerminez la visite à l’Abbaye aux Dames et au jardin botanique alors que le crépuscule tombe dès 17:00."
           },
           "stops": [
             {
@@ -755,7 +780,7 @@
                 "hu": "Csodálja meg a gótikus részleteket a hűvös csendben.",
                 "ro": "Admirați detaliile gotice în liniștea răcoroasă.",
                 "en": "Admire the Gothic details in the cool silence.",
-                "fr": "Admirez les détails gothiques dans le silence du froid."
+                "fr": "Admirez les détails gothiques dans le silence frais."
               }
             },
             {
@@ -765,7 +790,7 @@
                 "hu": "Vigyázzon a várfalakon, fagy esetén csúszósak lehetnek.",
                 "ro": "Atenție pe metereze, acestea pot fi alunecoase în caz de îngheț.",
                 "en": "Careful on the ramparts, they can be slippery in case of frost.",
-                "fr": "Prudence sur les remparts, ils peuvent être glissants en cas de givre."
+                "fr": "Attention sur les remparts : ils peuvent être glissants en cas de gel."
               }
             },
             {
@@ -775,7 +800,7 @@
                 "hu": "Kóstoljon helyi Calvadost, hogy felmelegedjen a séta után.",
                 "ro": "Gustați Calvados local pentru a vă încălzi după plimbare.",
                 "en": "Try local Calvados to warm up after the walk.",
-                "fr": "Goûtez au Calvados local pour vous réchauffer après la promenade."
+                "fr": "Essayez le Calvados local pour vous réchauffer après la promenade."
               }
             },
             {
@@ -785,7 +810,7 @@
                 "hu": "Az alacsonyan járó téli nap fénye gyönyörűen esik be a hajóba.",
                 "ro": "Lumina soarelui de iarnă cade superb în nava bisericii.",
                 "en": "The low winter sun light falls beautifully into the nave.",
-                "fr": "La lumière basse du soleil d'hiver illumine magnifiquement la nef."
+                "fr": "La faible lumière hivernale du soleil entre magnifiquement dans la nef."
               }
             },
             {
@@ -795,7 +820,7 @@
                 "hu": "Az üvegházak téli virágzása rejtett fénypont.",
                 "ro": "Înflorirea de iarnă din sere este un punct de atracție ascuns.",
                 "en": "The winter bloom in the greenhouses is a hidden highlight.",
-                "fr": "La floraison hivernale dans les serres est un point fort méconnu."
+                "fr": "La floraison hivernale dans les serres est un trésor caché."
               }
             }
           ],
@@ -829,10 +854,10 @@
               "Indoor visits to the abbeys are ideal for warming up."
             ],
             "fr": [
-              "Le soleil se couche vers 17h00, prévoyez vos visites en extérieur tôt dans la journée.",
-              "Des vêtements chauds sont essentiels, car le vent de la côte peut être très froid.",
-              "De nombreux cafés du centre proposent des boissons d'hiver spéciales.",
-              "L'éclairage de la ville au château est particulièrement atmosphérique en hiver.",
+              "Le coucher du soleil est vers 17:00, planifiez les visites extérieures tôt dans la journée.",
+              "Des vêtements chauds sont indispensables car le vent venant de la côte peut être très froid.",
+              "De nombreux cafés du centre proposent des boissons hivernales spéciales.",
+              "L’éclairage de la ville au château est particulièrement atmosphérique en hiver.",
               "Les visites intérieures des abbayes sont idéales pour se réchauffer."
             ]
           }
@@ -852,7 +877,8 @@
             "de": "Yachthafen",
             "hu": "Yachthajókikötő",
             "ro": "Portul de agrement",
-            "en": "Marina (Port de Plaisance)"
+            "en": "Marina (Port de Plaisance)",
+            "fr": "Marina (Port de Plaisance)"
           },
           "coords": [
             -0.3552,
@@ -868,7 +894,7 @@
             "hu": "Kerekezzen a csatorna mentén a friss szellőért.",
             "ro": "Mergeți cu bicicleta de-a lungul canalului pentru o briză proaspătă.",
             "en": "Cycle along the canal for a fresh breeze and great views.",
-            "fr": "Pédalez le long du canal pour une brise fraîche et de superbes vues."
+            "fr": "Faites du vélo le long du canal pour une bouffée d’air frais et de belles vues."
           }
         },
         {
@@ -876,7 +902,8 @@
             "de": "Frauenabtei",
             "hu": "Női-apátság",
             "ro": "Abația Femeilor",
-            "en": "Women's Abbey"
+            "en": "Women's Abbey",
+            "fr": "Abbaye aux Dames (Women's Abbey)"
           },
           "coords": [
             -0.3535,
@@ -892,7 +919,7 @@
             "hu": "Jó kerékpárparkolók a bejárat előtt.",
             "ro": "Parcare bună pentru biciclete în fața intrării.",
             "en": "Good bicycle parking spots available in front of the entrance.",
-            "fr": "Bons emplacements de stationnement pour vélos disponibles devant l'entrée."
+            "fr": "De bons emplacements de stationnement pour vélos sont disponibles devant l’entrée."
           }
         },
         {
@@ -900,7 +927,8 @@
             "de": "Burg von Caen",
             "hu": "Caeni vár",
             "ro": "Castelul din Caen",
-            "en": "Caen Castle"
+            "en": "Caen Castle",
+            "fr": "Château de Caen"
           },
           "coords": [
             -0.3621,
@@ -916,7 +944,7 @@
             "hu": "A váron belül a kerékpárokat tolni kell.",
             "ro": "Bicicletele trebuie împinse în interiorul zidurilor castelului.",
             "en": "Bicycles must be pushed by hand inside the castle walls.",
-            "fr": "Les vélos doivent être poussés à la main à l'intérieur de l'enceinte du château."
+            "fr": "Les vélos doivent être poussés à la main à l’intérieur des murs du château."
           }
         },
         {
@@ -924,7 +952,8 @@
             "de": "Botanischer Garten",
             "hu": "Füvészkert",
             "ro": "Grădina Botanică",
-            "en": "Botanical Garden"
+            "en": "Botanical Garden",
+            "fr": "Jardin Botanique"
           },
           "coords": [
             -0.3715,
@@ -940,7 +969,7 @@
             "hu": "Árnyékos hely egy rövid pihenőhöz.",
             "ro": "Un loc umbros pentru o scurtă pauză.",
             "en": "A shaded spot for a short break during your ride.",
-            "fr": "Un coin ombragé pour une courte pause pendant votre trajet."
+            "fr": "Un endroit ombragé pour une courte pause pendant votre balade."
           }
         },
         {
@@ -948,7 +977,8 @@
             "de": "Vogelhügel (Colline aux Oiseaux)",
             "hu": "Madarak dombja (Colline aux Oiseaux)",
             "ro": "Colina Păsărilor (Colline aux Oiseaux)",
-            "en": "Bird Hill Park (Colline aux Oiseaux)"
+            "en": "Bird Hill Park (Colline aux Oiseaux)",
+            "fr": "Parc de la Colline aux Oiseaux (Bird Hill Park)"
           },
           "coords": [
             -0.3855,
@@ -964,7 +994,7 @@
             "hu": "Látogassa meg az óriási labirintust és a rózsakertet.",
             "ro": "Vizitați labirintul uriaș și grădina de trandafiri.",
             "en": "Visit the giant labyrinth and the beautiful rose garden.",
-            "fr": "Visitez le labyrinthe géant et la magnifique roseraie."
+            "fr": "Visitez le gigantesque labyrinthe et le magnifique jardin de roses."
           }
         },
         {
@@ -972,7 +1002,8 @@
             "de": "Mémorial de Caen",
             "hu": "Caeni Emlékmű",
             "ro": "Memorialul din Caen",
-            "en": "Caen Memorial Museum"
+            "en": "Caen Memorial Museum",
+            "fr": "Mémorial de Caen"
           },
           "coords": [
             -0.3842,
@@ -988,7 +1019,7 @@
             "hu": "A régió legfontosabb II. világháborús múzeuma.",
             "ro": "Cel mai important muzeu al celui de-al Doilea Război Mondial din regiune.",
             "en": "The most important WWII museum in the region.",
-            "fr": "Le plus important musée de la Seconde Guerre mondiale de la région."
+            "fr": "Le musée le plus important de la Seconde Guerre mondiale dans la région."
           }
         }
       ],
@@ -997,7 +1028,7 @@
         "hu": "Fedezze fel Caent két keréken, a nyüzsgő jachtkikötőtől indulva. Kerekezzen a vízpart mentén a Női-apátságig, mielőtt elérné a város történelmi szívét.\n\nDélben tekerjen fel a Caeni vár dombjára. Egy kulturális pihenő után folytassa útját a Füvészkert felé, hogy élvezze a város zöld tüdejét.\n\nA délután a tágas Colline aux Oiseaux parkba vezet, amely ideális a kerékpárosok számára. A terület széles utakat és gyönyörű tematikus kerteket kínál.\n\nBefejezésül látogasson el a Caeni Emlékműhöz. A modern komplexum jól megközelíthető kerékpárúton, és mély betekintést nyújt a 20. század történelmébe.",
         "ro": "Explorați Caen pe două roți, începând de la portul de agrement plin de viață. Mergeți cu bicicleta de-a lungul apei până la Abația Femeilor, înainte de a ajunge în inima istorică a orașului.\n\nLa prânz, urcați cu bicicleta până la castelul din Caen. După o pauză culturală, continuați spre Grădina Botanică pentru a vă bucura de plămânul verde al orașului.\n\nDupă-amiaza vă conduce către parcul spațios Colline aux Oiseaux, ideal pentru bicicliști. Terenul oferă alei largi și grădini tematice superbe.\n\nLa final, vizitați Memorialul din Caen. Complexul modern este bine deservit de piste de biciclete și oferă o incursiune profundă în istoria secolului XX.",
         "en": "Explore Caen on two wheels, starting from the lively marina. Cycle along the waterways to the Women's Abbey before reaching the historic heart of the city.\n\nAt midday, pedal up to Caen Castle. After a cultural break, continue towards the Botanical Garden to enjoy the city's green lung.\n\nIn the afternoon, head to the expansive Colline aux Oiseaux park, which is ideal for cyclists. The grounds offer wide paths and beautiful themed gardens.\n\nTo finish, visit the Caen Memorial Museum. The modern complex is easily accessible by bike paths and offers deep insights into 20th-century history.",
-        "fr": "Explorez Caen sur deux roues, en partant du port de plaisance animé. Pédalez le long des voies navigables jusqu'à l'Abbaye aux Dames avant de rejoindre le cœur historique de la ville.\n\nÀ midi, grimpez jusqu'au château de Caen. Après une pause culturelle, continuez vers le Jardin des Plantes pour profiter du poumon vert de la ville.\n\nL'après-midi, rendez-vous dans le vaste parc de la Colline aux Oiseaux, idéal pour les cyclistes. Le site propose de larges sentiers et de magnifiques jardins thématiques.\n\nPour finir, visitez le Mémorial de Caen. Ce complexe moderne est facilement accessible par les pistes cyclables et offre un aperçu profond de l'histoire du XXe siècle."
+        "fr": "Explorez Caen à deux roues, en partant de la marina animée. Pédalez le long des voies d'eau jusqu'à l'Abbaye aux Dames avant d'atteindre le cœur historique de la ville.\n\nÀ midi, montez jusqu'au château de Caen. Après une pause culturelle, continuez vers le Jardin botanique pour profiter du poumon vert de la ville.\n\nL'après-midi, dirigez-vous vers le vaste parc de la Colline aux Oiseaux, idéal pour les cyclistes. Le site offre de larges allées et de beaux jardins thématiques.\n\nPour finir, visitez le Mémorial de Caen. Le complexe moderne est facilement accessible par des pistes cyclables et offre un regard profond sur l'histoire du XXe siècle."
       },
       "gastro_picks": {
         "de": [
@@ -1171,10 +1202,10 @@
           "Watch out for one-way streets in the city center."
         ],
         "fr": [
-          "Utilisez le système de vélos en libre-service 'Vélolib' de la ville.",
-          "Le chemin vers la mer (Ouistreham) est plat et très populaire.",
-          "Évitez de circuler à vélo dans les ruelles étroites du quartier du Vaugueux.",
-          "Attention aux rues à sens unique dans le centre-ville."
+          "Utilisez le système de vélos en libre-service « Vélolib » de la ville.",
+          "La piste vers la mer (Ouistreham) est plate et très prisée.",
+          "Évitez de circuler à vélo dans les ruelles étroites du quartier Vaugueux.",
+          "Attention aux sens uniques en centre-ville."
         ]
       },
       "variants": {
@@ -1183,7 +1214,8 @@
             "de": "Erkunden Sie Caen auf zwei Rädern, beginnend am lebhaften Yachthafen. Radeln Sie entlang der Wasserwege zur Abbaye aux Dames, bevor Sie das historische Herz der Stadt erreichen.\n\nMittags erklimmen Sie mit dem Rad die Anhöhe zur Burg von Caen. Nach einer kulturellen Pause fahren Sie weiter zum Jardin des Plantes, um die grüne Lunge der Stadt zu genießen.\n\nDer Nachmittag führt Sie zum weitläufigen Park Colline aux Oiseaux, der ideal für Radfahrer ist. Das Gelände bietet weite Wege und wunderschöne Themengärten.\n\nZum Abschluss besuchen Sie das Mémorial de Caen. Die moderne Anlage ist gut mit Radwegen erschlossen und bietet einen tiefen Einblick in die Geschichte des 20. Jahrhunderts.",
             "hu": "Fedezze fel Caent két keréken, a nyüzsgő jachtkikötőtől indulva. Kerekezzen a vízpart mentén a Női-apátságig, mielőtt elérné a város történelmi szívét.\n\nDélben tekerjen fel a Caeni vár dombjára. Egy kulturális pihenő után folytassa útját a Füvészkert felé, hogy élvezze a város zöld tüdejét.\n\nA délután a tágas Colline aux Oiseaux parkba vezet, amely ideális a kerékpárosok számára. A terület széles utakat és gyönyörű tematikus kerteket kínál.\n\nBefejezésül látogasson el a Caeni Emlékműhöz. A modern komplexum jól megközelíthető kerékpárúton, és mély betekintést nyújt a 20. század történelmébe.",
             "ro": "Explorați Caen pe două roți, începând de la portul de agrement plin de viață. Mergeți cu bicicleta de-a lungul apei până la Abația Femeilor, înainte de a ajunge în inima istorică a orașului.\n\nLa prânz, urcați cu bicicleta până la castelul din Caen. După o pauză culturală, continuați spre Grădina Botanică pentru a vă bucura de plămânul verde al orașului.\n\nDupă-amiaza vă conduce către parcul spațios Colline aux Oiseaux, ideal pentru bicicliști. Terenul oferă alei largi și grădini tematice superbe.\n\nLa final, vizitați Memorialul din Caen. Complexul modern este bine deservit de piste de biciclete și oferă o incursiune profundă în istoria secolului XX.",
-            "en": "Explore Caen on two wheels, starting from the lively marina. Cycle along the waterways to the Women's Abbey before reaching the historic heart of the city.\n\nAt midday, pedal up to Caen Castle. After a cultural break, continue towards the Botanical Garden to enjoy the city's green lung.\n\nIn the afternoon, head to the expansive Colline aux Oiseaux park, which is ideal for cyclists. The grounds offer wide paths and beautiful themed gardens.\n\nTo finish, visit the Caen Memorial Museum. The modern complex is easily accessible by bike paths and offers deep insights into 20th-century history."
+            "en": "Explore Caen on two wheels, starting from the lively marina. Cycle along the waterways to the Women's Abbey before reaching the historic heart of the city.\n\nAt midday, pedal up to Caen Castle. After a cultural break, continue towards the Botanical Garden to enjoy the city's green lung.\n\nIn the afternoon, head to the expansive Colline aux Oiseaux park, which is ideal for cyclists. The grounds offer wide paths and beautiful themed gardens.\n\nTo finish, visit the Caen Memorial Museum. The modern complex is easily accessible by bike paths and offers deep insights into 20th-century history.",
+            "fr": "Explorez Caen à deux roues, en partant de la marina animée. Pédalez le long des voies d'eau jusqu'à l'Abbaye aux Dames avant d'atteindre le cœur historique de la ville.\n\nÀ midi, montez jusqu'au château de Caen. Après une pause culturelle, continuez vers le Jardin botanique pour profiter du poumon vert de la ville.\n\nL'après-midi, dirigez-vous vers le vaste parc de la Colline aux Oiseaux, idéal pour les cyclistes. Le site offre de larges allées et de beaux jardins thématiques.\n\nPour finir, visitez le Mémorial de Caen. Le complexe moderne est facilement accessible par des pistes cyclables et offre un regard profond sur l'histoire du XXe siècle."
           },
           "stops": [
             {
@@ -1191,13 +1223,15 @@
                 "de": "Yachthafen",
                 "hu": "Yachthajókikötő",
                 "ro": "Portul de agrement",
-                "en": "Marina (Port de Plaisance)"
+                "en": "Marina (Port de Plaisance)",
+                "fr": "Marina (Port de plaisance)"
               },
               "tip_5lang": {
                 "de": "Radeln Sie entlang des Kanals für eine frische Brise.",
                 "hu": "Kerekezzen a csatorna mentén a friss szellőért.",
                 "ro": "Mergeți cu bicicleta de-a lungul canalului pentru o briză proaspătă.",
-                "en": "Cycle along the canal for a fresh breeze and great views."
+                "en": "Cycle along the canal for a fresh breeze and great views.",
+                "fr": "Parcourez le canal pour une brise fraîche et de superbes vues."
               }
             },
             {
@@ -1205,13 +1239,15 @@
                 "de": "Frauenabtei",
                 "hu": "Női-apátság",
                 "ro": "Abația Femeilor",
-                "en": "Women's Abbey"
+                "en": "Women's Abbey",
+                "fr": "Abbaye aux Dames"
               },
               "tip_5lang": {
                 "de": "Gute Fahrradabstellplätze vor dem Eingang.",
                 "hu": "Jó kerékpárparkolók a bejárat előtt.",
                 "ro": "Parcare bună pentru biciclete în fața intrării.",
-                "en": "Good bicycle parking spots available in front of the entrance."
+                "en": "Good bicycle parking spots available in front of the entrance.",
+                "fr": "Des emplacements pour garer les vélos sont disponibles devant l'entrée."
               }
             },
             {
@@ -1219,13 +1255,15 @@
                 "de": "Burg von Caen",
                 "hu": "Caeni vár",
                 "ro": "Castelul din Caen",
-                "en": "Caen Castle"
+                "en": "Caen Castle",
+                "fr": "Château de Caen"
               },
               "tip_5lang": {
                 "de": "Fahrräder müssen innerhalb der Burgmauern geschoben werden.",
                 "hu": "A váron belül a kerékpárokat tolni kell.",
                 "ro": "Bicicletele trebuie împinse în interiorul zidurilor castelului.",
-                "en": "Bicycles must be pushed by hand inside the castle walls."
+                "en": "Bicycles must be pushed by hand inside the castle walls.",
+                "fr": "Les vélos doivent être poussés à la main à l'intérieur des remparts."
               }
             },
             {
@@ -1233,13 +1271,15 @@
                 "de": "Botanischer Garten",
                 "hu": "Füvészkert",
                 "ro": "Grădina Botanică",
-                "en": "Botanical Garden"
+                "en": "Botanical Garden",
+                "fr": "Jardin botanique"
               },
               "tip_5lang": {
                 "de": "Ein schattiger Ort für eine Pause.",
                 "hu": "Árnyékos hely egy rövid pihenőhöz.",
                 "ro": "Un loc umbros pentru o scurtă pauză.",
-                "en": "A shaded spot for a short break during your ride."
+                "en": "A shaded spot for a short break during your ride.",
+                "fr": "Un emplacement ombragé pour une courte pause pendant votre balade."
               }
             },
             {
@@ -1247,13 +1287,15 @@
                 "de": "Vogelhügel (Colline aux Oiseaux)",
                 "hu": "Madarak dombja (Colline aux Oiseaux)",
                 "ro": "Colina Păsărilor (Colline aux Oiseaux)",
-                "en": "Bird Hill Park (Colline aux Oiseaux)"
+                "en": "Bird Hill Park (Colline aux Oiseaux)",
+                "fr": "Parc de la Colline aux Oiseaux"
               },
               "tip_5lang": {
                 "de": "Besuchen Sie das riesige Labyrinth und den Rosengarten.",
                 "hu": "Látogassa meg az óriási labirintust és a rózsakertet.",
                 "ro": "Vizitați labirintul uriaș și grădina de trandafiri.",
-                "en": "Visit the giant labyrinth and the beautiful rose garden."
+                "en": "Visit the giant labyrinth and the beautiful rose garden.",
+                "fr": "Visitez le gigantesque labyrinthe et le magnifique jardin de roses."
               }
             },
             {
@@ -1261,13 +1303,15 @@
                 "de": "Mémorial de Caen",
                 "hu": "Caeni Emlékmű",
                 "ro": "Memorialul din Caen",
-                "en": "Caen Memorial Museum"
+                "en": "Caen Memorial Museum",
+                "fr": "Mémorial de Caen"
               },
               "tip_5lang": {
                 "de": "Das wichtigste Museum zum Zweiten Weltkrieg in der Region.",
                 "hu": "A régió legfontosabb II. világháborús múzeuma.",
                 "ro": "Cel mai important muzeu al celui de-al Doilea Război Mondial din regiune.",
-                "en": "The most important WWII museum in the region."
+                "en": "The most important WWII museum in the region.",
+                "fr": "Le musée le plus important de la Seconde Guerre mondiale dans la région."
               }
             }
           ],
@@ -1413,6 +1457,12 @@
               "The path to the sea (Ouistreham) is flat and very popular.",
               "Avoid cycling in the narrow alleys of the Vaugueux district.",
               "Watch out for one-way streets in the city center."
+            ],
+            "fr": [
+              "Utilisez le système de vélos en libre-service « Vélolib » de la ville.",
+              "La piste vers la mer (Ouistreham) est plate et très prisée.",
+              "Évitez de circuler à vélo dans les ruelles étroites du quartier Vaugueux.",
+              "Attention aux sens uniques en centre-ville."
             ]
           }
         },
@@ -1422,7 +1472,7 @@
             "hu": "Induljon a kikötőből, jól felkészülve az esőre. A Nők Apátságáig vezető út rövid és sok fedett helyet kínál.\n\nDélben érkezzen meg a várhoz. Parkolja le biztonságosan a biciklit, és töltse az időt a múzeumokban.\n\nDélután irány a botanikus kert és a Colline aux Oiseaux. Esőben az üvegházak és pavilonok nyújtanak menedéket.\n\nA napot a Memorial Múzeumban zárja, ahol leparkolhat, és órákig szárazon maradhat a kiállítások közt.",
             "ro": "Porniți din port, bine pregătit pentru ploaie. Drumul către Abbaye aux Dames este scurt și oferă multe locuri de adăpost.\n\nLa prânz ajungeți la castel. Parcați bicicleta în siguranță și folosiți timpul pentru muzee.\n\nDupă-amiaza mergeți la Grădina Botanică și Colline aux Oiseaux. În caz de ploaie, serele și pavilioanele vă sunt prieteni.\n\nÎncheiați ziua la Memorial Museum, unde puteți parca și rămâne la adăpost timp de câteva ore.",
             "en": "Start rain-ready at the marina. The route to Abbaye aux Dames is short and offers plenty of sheltered spots.\n\nAt noon, reach the castle. Park your bike securely and take advantage of the museum time.\n\nIn the afternoon, head to the Botanical Garden and Colline aux Oiseaux. The greenhouses and pavilions are your friends in the rain.\n\nEnd the day at the Memorial Museum, where you can park and stay dry for hours among the exhibits.",
-            "fr": "Prêt pour la pluie, partez du port de plaisance. Le trajet vers l'Abbaye aux Dames est court et offre de nombreux endroits abrités.\n\nÀ midi, rejoignez le château. Garez votre vélo en sécurité et profitez du temps passé dans les musées.\n\nL'après-midi, dirigez-vous vers le Jardin des Plantes et la Colline aux Oiseaux. Les serres et les pavillons sont vos alliés sous la pluie.\n\nTerminez la journée au Mémorial, où vous pourrez vous garer et rester au sec pendant des heures parmi les expositions."
+            "fr": "Commencez prêts pour la pluie à la marina. L'itinéraire vers l'Abbaye aux Dames est court et offre de nombreux endroits abrités.\n\nÀ midi, atteignez le château. Garez votre vélo en sécurité et profitez du temps au musée.\n\nL'après-midi, dirigez-vous vers le Jardin botanique et la Colline aux Oiseaux. Les serres et les pavillons vous abriteront de la pluie.\n\nTerminez la journée au Mémorial, où vous pouvez vous garer et rester au sec pendant des heures parmi les expositions."
           },
           "stops": [
             {
@@ -1432,7 +1482,7 @@
                 "hu": "Vigyázzon a fém pallókon, esőben nagyon csúszóssá válnak.",
                 "ro": "Atenție pe pasarelele metalice, acestea devin foarte alunecoase la ploaie.",
                 "en": "Watch out on the metal walkways, they become very slippery in the rain.",
-                "fr": "Attention sur les passerelles métalliques, elles deviennent très glissantes sous la pluie."
+                "fr": "Attention aux passerelles métalliques, elles deviennent très glissantes sous la pluie."
               }
             },
             {
@@ -1442,7 +1492,7 @@
                 "hu": "Kerékpártárolók találhatók a bejárat közelében.",
                 "ro": "Locuri de adăpost pentru biciclete se află lângă intrare.",
                 "en": "Bike shelters are located near the entrance.",
-                "fr": "Des abris pour vélos sont situés près de l'entrée."
+                "fr": "Des abris-vélos sont situés près de l'entrée."
               }
             },
             {
@@ -1462,7 +1512,7 @@
                 "hu": "Az üvegházak kötelező látnivalók rossz idő esetén.",
                 "ro": "Serele sunt o necesitate în caz de vreme rea.",
                 "en": "The greenhouses are a must-visit in bad weather.",
-                "fr": "Les serres sont une visite incontournable par mauvais temps."
+                "fr": "Les serres sont un incontournable par mauvais temps."
               }
             },
             {
@@ -1482,7 +1532,7 @@
                 "hu": "A ruhatár befogadja a vizes bukósisakokat és esőkabátokat is.",
                 "ro": "Garderoba acceptă și căștile de bicicletă ude sau jachetele de ploaie.",
                 "en": "The cloakroom accepts wet bike helmets and raincoats too.",
-                "fr": "Le vestiaire accepte également les casques de vélo et les imperméables mouillés."
+                "fr": "Le vestiaire accepte aussi les casques de vélo et les imperméables mouillés."
               }
             }
           ],
@@ -1517,10 +1567,10 @@
             ],
             "fr": [
               "Utilisez des garde-boue sur votre vélo pour éviter les éclaboussures.",
-              "Les pistes cyclables de Caen sont bien marquées mais glissantes par temps humide.",
-              "Évitez de tourner sur les marquages routiers mouillés.",
-              "Un poncho est souvent plus pratique qu'une veste ajustée pour le vélo.",
-              "Les musées offrent de bonnes installations pour ranger les équipements mouillés."
+              "Les pistes cyclables de Caen sont bien signalées mais glissantes quand elles sont mouillées.",
+              "Évitez de tourner sur les marquages routiers humides.",
+              "Une cape est souvent plus pratique pour le vélo qu'une veste ajustée.",
+              "Les musées offrent de bonnes installations pour stocker le matériel mouillé."
             ]
           }
         },
@@ -1530,7 +1580,7 @@
             "hu": "Egy frissítő tekerés a kikötőben indítja a napot. A tiszta téli levegő azonnal felébreszt.\n\nDélben érkezzen a várhoz. A kaptató után élvezze a kilátást a hómentes, de fagyos háztetőkre.\n\nDélután a botanikus kerten át tekerjen a Colline aux Oiseaux-hoz. A kopár fák különleges esztétikát nyújtanak.\n\nA nap a Memorial Múzeumban ér véget. Érkezzen meg időben, mielőtt a hideg naplemente (17:00) után fokozódna.",
             "ro": "O plimbare revigorantă în port începe ziua. Aerul curat de iarnă vă va trezi imediat.\n\nLa prânz ajungeți la castel. După urcare, bucurați-vă de priveliștea peste acoperișurile înghețate.\n\nDupă-amiaza pedalați prin Grădina Botanică spre Colline aux Oiseaux. Copacii desfrunziți oferă o estetică aparte.\n\nZiua se încheie la Memorial Museum. Ajungeți la timp, înainte ca frigul să se intensifice după apus (17:00).",
             "en": "A refreshing ride at the marina starts the day. The clear winter air is instantly revitalizing.\n\nAt noon, reach the castle. After the climb, enjoy the view over the frost-covered rooftops of Caen.\n\nIn the afternoon, cycle through the Botanical Garden to Colline aux Oiseaux. The bare trees offer a unique aesthetic.\n\nThe day ends at the Memorial Museum. Arrive in time before the cold intensifies after sunset (5:00 PM).",
-            "fr": "Une balade rafraîchissante au port de plaisance commence la journée. L'air pur de l'hiver est instantanément revitalisant.\n\nÀ midi, rejoignez le château. Après la montée, profitez de la vue sur les toits de Caen recouverts de givre.\n\nL'après-midi, pédalez à travers le Jardin des Plantes jusqu'à la Colline aux Oiseaux. Les arbres nus offrent une esthétique unique.\n\nLa journée se termine au Mémorial. Arrivez à temps avant que le froid ne s'intensifie après le coucher du soleil (17h00)."
+            "fr": "Une balade rafraîchissante à la marina lance la journée. L'air clair d'hiver revitalise instantanément.\n\nÀ midi, atteignez le château. Après la montée, profitez de la vue sur les toits givrés de Caen.\n\nL'après-midi, traversez le Jardin botanique jusqu'à la Colline aux Oiseaux. Les arbres dénudés offrent une esthétique unique.\n\nLa journée se termine au Mémorial. Arrivez à temps avant que le froid ne s'intensifie après le coucher du soleil (17:00)."
           },
           "stops": [
             {
@@ -1540,7 +1590,7 @@
                 "hu": "Viseljen kesztyűt, a vízparti szél télen metsző lehet.",
                 "ro": "Purtați mănuși, vântul de lângă apă este tăios iarna.",
                 "en": "Wear gloves; the wind by the water is biting in winter.",
-                "fr": "Portez des gants ; le vent au bord de l'eau est mordant en hiver."
+                "fr": "Portez des gants ; le vent près de l'eau est mordant en hiver."
               }
             },
             {
@@ -1550,7 +1600,7 @@
                 "hu": "Az épületek közötti rövid távolságok segítenek elkerülni a kihűlést.",
                 "ro": "Distanțele scurte între clădiri țin frigul la distanță.",
                 "en": "Short distances between buildings keep the cold at bay.",
-                "fr": "Les courtes distances entre les bâtiments permettent de tenir le froid à distance."
+                "fr": "Les courtes distances entre les bâtiments limitent la sensation de froid."
               }
             },
             {
@@ -1570,7 +1620,7 @@
                 "hu": "A téli nap alacsonyan jár, vigyázzon, mert vakíthat tekerés közben.",
                 "ro": "Soarele de iarnă este jos și poate fi orbitor la pedalat.",
                 "en": "The winter sun is low and can be blinding while cycling.",
-                "fr": "Le soleil d'hiver est bas et peut être éblouissant à vélo."
+                "fr": "Le soleil d'hiver est bas et peut éblouir en pédalant."
               }
             },
             {
@@ -1580,7 +1630,7 @@
                 "hu": "Tökéletes hely egy rövid megállóra, mielőtt besötétedik.",
                 "ro": "Loc perfect pentru o scurtă oprire înainte de lăsarea întunericului.",
                 "en": "Perfect spot for a short stop before it gets dark.",
-                "fr": "L'endroit idéal pour un court arrêt avant la tombée de la nuit."
+                "fr": "Endroit parfait pour une courte pause avant la tombée de la nuit."
               }
             },
             {
@@ -1624,11 +1674,11 @@
               "Watch the light: it starts getting dark from 4:30 PM."
             ],
             "fr": [
-              "Vérifiez la pression des pneus car elle peut chuter avec le froid.",
-              "Portez plusieurs couches pour éviter de vous refroidir pendant les arrêts.",
-              "Évitez les chemins ombragés où le givre persiste plus longtemps.",
-              "Les batteries des vélos électriques se déchargent plus vite dans le froid.",
-              "Surveillez la lumière : il commence à faire sombre dès 16h30."
+              "Vérifiez la pression des pneus car elle peut baisser avec le froid.",
+              "Portez plusieurs couches pour éviter de prendre froid pendant les arrêts.",
+              "Évitez les chemins ombragés où le gel persiste plus longtemps.",
+              "Les batteries des vélos électriques se déchargent plus vite par grand froid.",
+              "Surveillez la lumière : la nuit commence à tomber dès 16:30."
             ]
           }
         }
@@ -1647,7 +1697,8 @@
             "de": "Mémorial de Caen",
             "hu": "Caeni Emlékmű",
             "ro": "Memorialul din Caen",
-            "en": "Caen Memorial Museum"
+            "en": "Caen Memorial Museum",
+            "fr": "Mémorial de Caen"
           },
           "coords": [
             -0.3842,
@@ -1671,7 +1722,8 @@
             "de": "Pegasus-Brücke",
             "hu": "Pegasus-híd",
             "ro": "Podul Pegasus",
-            "en": "Pegasus Bridge"
+            "en": "Pegasus Bridge",
+            "fr": "Pont Pegasus"
           },
           "coords": [
             -0.2755,
@@ -1687,7 +1739,7 @@
             "hu": "A normandiai partraszállás híres hídja.",
             "ro": "Podul celebru al debarcării din Normandia.",
             "en": "Famous bridge from the D-Day landings in Normandy.",
-            "fr": "Pont célèbre du débarquement en Normandie."
+            "fr": "Pont célèbre des débarquements du Jour J en Normandie."
           }
         },
         {
@@ -1695,7 +1747,8 @@
             "de": "Ouistreham (Sword Beach)",
             "hu": "Ouistreham (Sword Beach)",
             "ro": "Ouistreham (Sword Beach)",
-            "en": "Ouistreham (Sword Beach)"
+            "en": "Ouistreham (Sword Beach)",
+            "fr": "Ouistreham (Sword Beach)"
           },
           "coords": [
             -0.2555,
@@ -1711,7 +1764,7 @@
             "hu": "Élvezze a tenger gyümölcseit a sétányon.",
             "ro": "Savurați fructe de mare pe faleză.",
             "en": "Enjoy fresh seafood on the promenade by the beach.",
-            "fr": "Savourez des fruits de mer frais sur la promenade au bord de la plage."
+            "fr": "Savourez des fruits de mer frais sur la promenade en bord de mer."
           }
         },
         {
@@ -1719,7 +1772,8 @@
             "de": "Burg von Caen",
             "hu": "Caeni vár",
             "ro": "Castelul din Caen",
-            "en": "Caen Castle"
+            "en": "Caen Castle",
+            "fr": "Château de Caen"
           },
           "coords": [
             -0.3621,
@@ -1743,7 +1797,8 @@
             "de": "Männerabtei",
             "hu": "Férfi-apátság",
             "ro": "Abația Bărbaților",
-            "en": "Men's Abbey"
+            "en": "Men's Abbey",
+            "fr": "Abbaye aux Hommes"
           },
           "coords": [
             -0.3732,
@@ -1759,7 +1814,7 @@
             "hu": "Este gyönyörűen ki van világítva.",
             "ro": "Iluminat superb seara.",
             "en": "The abbey is beautifully illuminated in the evening.",
-            "fr": "L'abbaye est magnifiquement illuminée le soir."
+            "fr": "L'abbaye est magnifiquement illuminée en soirée."
           }
         }
       ],
@@ -1768,7 +1823,7 @@
         "hu": "Autóval kényelmesen elérheti a város szélén található Caeni Emlékművet, hogy a délelőttöt a történelemnek szentelje. Ezután hajtson ki a Pegasus-hídhoz, a felszabadítás kulcsfontosságú helyszínéhez.\n\nDélben az út a tengerparthoz, Ouistrehamba vezet. Itt sétálhat a Sword Beachen, és a sétány egyik éttermében frissen fogott halat kóstolhat.\n\nDélután térjen vissza Caen belvárosába, hogy megtekintse a hatalmas várat. Az autó rugalmassága lehetővé teszi, hogy hatékonyan ossza meg a napot a város és a tengerpart között.\n\nZárja túráját a Férfi-apátságnál. A városon keresztüli autózás szép áttekintést nyújt Caen építészetéről, mielőtt az estét a központban töltené.",
         "ro": "Cu mașina puteți ajunge ușor la Memorialul din Caen, situat la marginea orașului, pentru a dedica dimineața istoriei. Apoi conduceți până la Podul Pegasus, un loc cheie al eliberării.\n\nLa prânz, drumul vă duce la coastă, în Ouistreham. Aici vă puteți plimba pe Sword Beach și puteți savura pește proaspăt într-unul dintre restaurantele de pe faleză.\n\nDupă-amiaza reveniți în centrul orașului Caen pentru a vizita castelul impunător. Flexibilitatea mașinii vă permite să împărțiți eficient ziua între oraș și coastă.\n\nÎncheiați turul la Abația Bărbaților. Drumul prin oraș vă oferă o privire de ansamblu frumoasă asupra arhitecturii din Caen înainte de a petrece seara în centru.",
         "en": "By car, you can easily reach the Caen Memorial on the outskirts to spend the morning exploring history. Then, drive out to Pegasus Bridge, a key site of the Allied liberation.\n\nAt midday, your journey takes you to the coast at Ouistreham. Here, you can walk on Sword Beach and enjoy freshly caught fish in one of the restaurants on the promenade.\n\nIn the afternoon, return to Caen city center to visit the mighty castle. The flexibility of the car allows you to efficiently divide your day between the city and the coast.\n\nEnd your tour at the Men's Abbey. Driving through the city provides a nice overview of Caen's architecture before spending the evening in the center.",
-        "fr": "En voiture, vous pouvez facilement rejoindre le Mémorial de Caen en périphérie pour passer la matinée à explorer l'histoire. Ensuite, rendez-vous au Pegasus Bridge, un site clé de la libération alliée.\n\nÀ midi, votre voyage vous emmène sur la côte à Ouistreham. Ici, vous pouvez marcher sur Sword Beach et déguster du poisson fraîchement pêché dans l'un des restaurants de la promenade.\n\nL'après-midi, retournez au centre-ville de Caen pour visiter le puissant château. La flexibilité de la voiture vous permet de diviser efficacement votre journée entre la ville et la côte.\n\nTerminez votre visite à l'Abbaye aux Hommes. Traverser la ville en voiture offre un bel aperçu de l'architecture de Caen avant de passer la soirée en centre-ville."
+        "fr": "En voiture, rejoignez facilement le Mémorial de Caen en périphérie pour passer la matinée à explorer l'histoire. Ensuite, prenez la route vers le Pont Pegasus, un site clé de la libération alliée.\n\nÀ midi, votre parcours vous conduit sur la côte à Ouistreham. Là, vous pouvez marcher sur Sword Beach et déguster du poisson fraîchement pêché dans l'un des restaurants de la promenade.\n\nL'après-midi, retournez au centre-ville de Caen pour visiter le puissant château. La souplesse de la voiture vous permet de répartir efficacement la journée entre la ville et la côte.\n\nTerminez votre tour à l'Abbaye aux Hommes. Conduire à travers la ville offre un bel aperçu de l'architecture de Caen avant de passer la soirée au centre."
       },
       "gastro_picks": {
         "de": [
@@ -1942,10 +1997,10 @@
           "Navigation systems are very helpful in Caen's old town."
         ],
         "fr": [
-          "Privilégiez les parkings couverts en centre-ville.",
-          "La route entre Caen et Ouistreham est souvent fréquentée.",
-          "Vérifiez les horaires des marées avant de vous promener sur la plage.",
-          "Les systèmes de navigation sont très utiles dans la vieille ville de Caen."
+          "Privilégiez les parcs de stationnement à plusieurs niveaux en centre-ville.",
+          "La route de Caen à Ouistreham est souvent fréquentée.",
+          "Vérifiez les heures de marée avant de marcher sur la plage.",
+          "Les systèmes de navigation sont très utiles dans le centre historique de Caen."
         ]
       },
       "variants": {
@@ -1954,7 +2009,8 @@
             "de": "Mit dem Auto erreichen Sie bequem das Mémorial de Caen am Stadtrand, um den Vormittag der Geschichte zu widmen. Danach fahren Sie hinaus zur Pegasus-Brücke, einem Schlüsselort der Befreiung.\n\nMittags führt Sie die Fahrt an die Küste nach Ouistreham. Hier können Sie am Sword Beach spazieren gehen und in einem der Restaurants an der Promenade fangfrischen Fisch genießen.\n\nAm Nachmittag kehren Sie ins Stadtzentrum von Caen zurück, um die mächtige Burg zu besichtigen. Die Flexibilität des Autos erlaubt es Ihnen, den Tag effizient zwischen Stadt und Küste aufzuteilen.\n\nBeenden Sie Ihre Tour an der Abbaye aux Hommes. Die Fahrt durch die Stadt bietet Ihnen zum Abschluss einen schönen Überblick über die Architektur von Caen, bevor Sie den Abend im Zentrum verbringen.",
             "hu": "Autóval kényelmesen elérheti a város szélén található Caeni Emlékművet, hogy a délelőttöt a történelemnek szentelje. Ezután hajtson ki a Pegasus-hídhoz, a felszabadítás kulcsfontosságú helyszínéhez.\n\nDélben az út a tengerparthoz, Ouistrehamba vezet. Itt sétálhat a Sword Beachen, és a sétány egyik éttermében frissen fogott halat kóstolhat.\n\nDélután térjen vissza Caen belvárosába, hogy megtekintse a hatalmas várat. Az autó rugalmassága lehetővé teszi, hogy hatékonyan ossza meg a napot a város és a tengerpart között.\n\nZárja túráját a Férfi-apátságnál. A városon keresztüli autózás szép áttekintést nyújt Caen építészetéről, mielőtt az estét a központban töltené.",
             "ro": "Cu mașina puteți ajunge ușor la Memorialul din Caen, situat la marginea orașului, pentru a dedica dimineața istoriei. Apoi conduceți până la Podul Pegasus, un loc cheie al eliberării.\n\nLa prânz, drumul vă duce la coastă, în Ouistreham. Aici vă puteți plimba pe Sword Beach și puteți savura pește proaspăt într-unul dintre restaurantele de pe faleză.\n\nDupă-amiaza reveniți în centrul orașului Caen pentru a vizita castelul impunător. Flexibilitatea mașinii vă permite să împărțiți eficient ziua între oraș și coastă.\n\nÎncheiați turul la Abația Bărbaților. Drumul prin oraș vă oferă o privire de ansamblu frumoasă asupra arhitecturii din Caen înainte de a petrece seara în centru.",
-            "en": "By car, you can easily reach the Caen Memorial on the outskirts to spend the morning exploring history. Then, drive out to Pegasus Bridge, a key site of the Allied liberation.\n\nAt midday, your journey takes you to the coast at Ouistreham. Here, you can walk on Sword Beach and enjoy freshly caught fish in one of the restaurants on the promenade.\n\nIn the afternoon, return to Caen city center to visit the mighty castle. The flexibility of the car allows you to efficiently divide your day between the city and the coast.\n\nEnd your tour at the Men's Abbey. Driving through the city provides a nice overview of Caen's architecture before spending the evening in the center."
+            "en": "By car, you can easily reach the Caen Memorial on the outskirts to spend the morning exploring history. Then, drive out to Pegasus Bridge, a key site of the Allied liberation.\n\nAt midday, your journey takes you to the coast at Ouistreham. Here, you can walk on Sword Beach and enjoy freshly caught fish in one of the restaurants on the promenade.\n\nIn the afternoon, return to Caen city center to visit the mighty castle. The flexibility of the car allows you to efficiently divide your day between the city and the coast.\n\nEnd your tour at the Men's Abbey. Driving through the city provides a nice overview of Caen's architecture before spending the evening in the center.",
+            "fr": "En voiture, rejoignez facilement le Mémorial de Caen en périphérie pour passer la matinée à explorer l'histoire. Ensuite, prenez la route vers le Pont Pegasus, un site clé de la libération alliée.\n\nÀ midi, votre parcours vous conduit sur la côte à Ouistreham. Là, vous pouvez marcher sur Sword Beach et déguster du poisson fraîchement pêché dans l'un des restaurants de la promenade.\n\nL'après-midi, retournez au centre-ville de Caen pour visiter le puissant château. La souplesse de la voiture vous permet de répartir efficacement la journée entre la ville et la côte.\n\nTerminez votre tour à l'Abbaye aux Hommes. Conduire à travers la ville offre un bel aperçu de l'architecture de Caen avant de passer la soirée au centre."
           },
           "stops": [
             {
@@ -1962,13 +2018,15 @@
                 "de": "Mémorial de Caen",
                 "hu": "Caeni Emlékmű",
                 "ro": "Memorialul din Caen",
-                "en": "Caen Memorial Museum"
+                "en": "Caen Memorial Museum",
+                "fr": "Mémorial de Caen"
               },
               "tip_5lang": {
                 "de": "Großer kostenloser Parkplatz direkt am Museum.",
                 "hu": "Hatalmas ingyenes parkoló közvetlenül a múzeumnál.",
                 "ro": "Parcare gratuită mare chiar lângă muzeu.",
-                "en": "Large free parking lot right next to the museum."
+                "en": "Large free parking lot right next to the museum.",
+                "fr": "Grand parking gratuit juste à côté du musée."
               }
             },
             {
@@ -1976,13 +2034,15 @@
                 "de": "Pegasus-Brücke",
                 "hu": "Pegasus-híd",
                 "ro": "Podul Pegasus",
-                "en": "Pegasus Bridge"
+                "en": "Pegasus Bridge",
+                "fr": "Pont Pegasus"
               },
               "tip_5lang": {
                 "de": "Berühmte Brücke der Landung in der Normandie.",
                 "hu": "A normandiai partraszállás híres hídja.",
                 "ro": "Podul celebru al debarcării din Normandia.",
-                "en": "Famous bridge from the D-Day landings in Normandy."
+                "en": "Famous bridge from the D-Day landings in Normandy.",
+                "fr": "Pont célèbre des débarquements du Jour J en Normandie."
               }
             },
             {
@@ -1990,13 +2050,15 @@
                 "de": "Ouistreham (Sword Beach)",
                 "hu": "Ouistreham (Sword Beach)",
                 "ro": "Ouistreham (Sword Beach)",
-                "en": "Ouistreham (Sword Beach)"
+                "en": "Ouistreham (Sword Beach)",
+                "fr": "Ouistreham (Sword Beach)"
               },
               "tip_5lang": {
                 "de": "Genießen Sie Meeresfrüchte an der Promenade.",
                 "hu": "Élvezze a tenger gyümölcseit a sétányon.",
                 "ro": "Savurați fructe de mare pe faleză.",
-                "en": "Enjoy fresh seafood on the promenade by the beach."
+                "en": "Enjoy fresh seafood on the promenade by the beach.",
+                "fr": "Savourez des fruits de mer frais sur la promenade en bord de mer."
               }
             },
             {
@@ -2004,13 +2066,15 @@
                 "de": "Burg von Caen",
                 "hu": "Caeni vár",
                 "ro": "Castelul din Caen",
-                "en": "Caen Castle"
+                "en": "Caen Castle",
+                "fr": "Château de Caen"
               },
               "tip_5lang": {
                 "de": "Parkhaus unter der Burg nutzen.",
                 "hu": "Használja a vár alatti mélygarázst.",
                 "ro": "Utilizați parcarea subterană de sub castel.",
-                "en": "Use the underground parking garage located under the castle."
+                "en": "Use the underground parking garage located under the castle.",
+                "fr": "Utilisez le parking souterrain situé sous le château."
               }
             },
             {
@@ -2018,13 +2082,15 @@
                 "de": "Männerabtei",
                 "hu": "Férfi-apátság",
                 "ro": "Abația Bărbaților",
-                "en": "Men's Abbey"
+                "en": "Men's Abbey",
+                "fr": "Abbaye aux Hommes"
               },
               "tip_5lang": {
                 "de": "Abends wunderschön beleuchtet.",
                 "hu": "Este gyönyörűen ki van világítva.",
                 "ro": "Iluminat superb seara.",
-                "en": "The abbey is beautifully illuminated in the evening."
+                "en": "The abbey is beautifully illuminated in the evening.",
+                "fr": "L'abbaye est magnifiquement illuminée en soirée."
               }
             }
           ],
@@ -2170,6 +2236,12 @@
               "The road from Caen to Ouistreham is often busy.",
               "Check the tide times before walking on the beach.",
               "Navigation systems are very helpful in Caen's old town."
+            ],
+            "fr": [
+              "Privilégiez les parcs de stationnement à plusieurs niveaux en centre-ville.",
+              "La route de Caen à Ouistreham est souvent fréquentée.",
+              "Vérifiez les heures de marée avant de marcher sur la plage.",
+              "Les systèmes de navigation sont très utiles dans le centre historique de Caen."
             ]
           }
         },
@@ -2179,7 +2251,7 @@
             "hu": "Kezdje a Memorial Múzeumnál, ahol kényelmesen leparkolhat. Ezután irány a Pegasus-híd.\n\nDélben Ouistreham a cél. Élvezze a viharos tenger látványát egy tengerparti kávézóból.\n\nDélután térjen vissza a caeni várhoz. Parkoljon közel, hogy az esőben megtett séta rövid maradjon.\n\nA nap a Férfiak Apátságánál zárul, amely esőben különösen misztikus és oltalmazó hangulatot áraszt.",
             "ro": "Începeți la Memorial Museum, unde puteți parca confortabil. Apoi, mergeți spre Podul Pegasus.\n\nLa prânz, destinația este Ouistreham. Bucurați-vă de spectacolul mării învolburate dintr-o cafenea de pe plajă.\n\nDupă-amiaza reveniți la castelul din Caen. Parcați aproape pentru a scurta drumul prin ploaie.\n\nZiua se încheie la Abbaye aux Hommes, care pare deosebit de mistică și ocrotitoare sub ploaie.",
             "en": "Start at the Memorial Museum, where parking is convenient. Then, head to Pegasus Bridge.\n\nAt noon, Ouistreham is the destination. Enjoy the view of the stormy sea from a beachfront cafe.\n\nIn the afternoon, return to Caen Castle. Park nearby to keep walking distances in the rain short.\n\nThe day ends at Abbaye aux Hommes, which feels particularly mystical and protective in the rain.",
-            "fr": "Commencez au Mémorial, où le stationnement est facile. Ensuite, dirigez-vous vers le Pegasus Bridge.\n\nÀ midi, direction Ouistreham. Appréciez la vue sur la mer déchaînée depuis un café en bord de mer.\n\nL'après-midi, revenez au château de Caen. Garez-vous à proximité pour limiter les distances à pied sous la pluie.\n\nLa journée se termine à l'Abbaye aux Hommes, qui semble particulièrement mystique et protectrice sous la pluie."
+            "fr": "Commencez au Mémorial, où le stationnement est pratique. Ensuite, dirigez-vous vers le Pont Pegasus.\n\nÀ midi, Ouistreham est la destination. Profitez de la vue sur la mer houleuse depuis un café en bord de mer.\n\nL'après-midi, retournez au Château de Caen. Garez-vous à proximité pour limiter les distances à pied sous la pluie.\n\nLa journée se termine à l'Abbaye aux Hommes, qui paraît particulièrement mystique et protectrice sous la pluie."
           },
           "stops": [
             {
@@ -2189,7 +2261,7 @@
                 "hu": "Fedett parkolóhelyek állnak rendelkezésre, használja ezeket erős esőben.",
                 "ro": "Sunt disponibile locuri de parcare acoperite, folosiți-le în caz de ploaie torențială.",
                 "en": "Covered parking spots are available; use them during heavy rain.",
-                "fr": "Des places de parking couvertes sont disponibles ; utilisez-les lors de fortes averses."
+                "fr": "Des places couvertes sont disponibles ; utilisez-les en cas de fortes pluies."
               }
             },
             {
@@ -2199,7 +2271,7 @@
                 "hu": "A mellette lévő múzeum menedéket és remek kiállításokat kínál.",
                 "ro": "Muzeul de lângă oferă adăpost și exponate grozave.",
                 "en": "The museum next door offers shelter and great exhibits.",
-                "fr": "Le musée juste à côté offre un abri et de superbes expositions."
+                "fr": "Le musée voisin offre abri et excellentes expositions."
               }
             },
             {
@@ -2209,7 +2281,7 @@
                 "hu": "Erős szélben kerülje a közvetlenül a gát melletti parkolást.",
                 "ro": "Evitați parcarea direct pe dig în caz de vânt puternic.",
                 "en": "Avoid parking directly on the dike during strong winds.",
-                "fr": "Évitez de vous garer directement sur la digue en cas de vent fort."
+                "fr": "Évitez de vous garer directement sur la digue par vents violents."
               }
             },
             {
@@ -2219,7 +2291,7 @@
                 "hu": "A vár szélén lévő parkolóházak szárazak és biztonságosak.",
                 "ro": "Parcările etajate de la marginea castelului sunt uscate și sigure.",
                 "en": "The parking garages at the edge of the castle are dry and safe.",
-                "fr": "Les parkings aux abords du château sont secs et sûrs."
+                "fr": "Les parkings au bord du château sont secs et sûrs."
               }
             },
             {
@@ -2229,7 +2301,7 @@
                 "hu": "A városháza előtti parkoló esőben gyakran kevésbé zsúfolt.",
                 "ro": "Parcarea din fața primăriei este adesea mai liberă pe ploaie.",
                 "en": "The parking lot in front of the city hall is often less crowded in the rain.",
-                "fr": "Le parking devant l'hôtel de ville est souvent moins encombré sous la pluie."
+                "fr": "Le parking devant l'hôtel de ville est souvent moins encombré quand il pleut."
               }
             }
           ],
@@ -2263,9 +2335,9 @@
               "Travel time may increase due to heavier traffic in the rain."
             ],
             "fr": [
-              "Attention à l'aquaplaning sur la route côtière vers Ouistreham.",
-              "Les parkings couverts centraux sont plus pratiques que le stationnement dans la rue.",
-              "Gardez vos phares propres ; la visibilité peut diminuer rapidement.",
+              "Attention au phénomène d'aquaplaning sur la route côtière vers Ouistreham.",
+              "Les parkings couverts du centre sont plus pratiques que le stationnement dans la rue.",
+              "Gardez les phares propres ; la visibilité peut diminuer rapidement.",
               "Un parapluie dans la voiture est indispensable pour les arrêts.",
               "Le temps de trajet peut augmenter en raison d'un trafic plus dense sous la pluie."
             ]
@@ -2277,7 +2349,7 @@
             "hu": "Kezdje a jól fűtött Memorial Múzeumban. A Pegasus-hídhoz vezető út a csendes téli tájon át vezet.\n\nDélben tapasztalja meg Ouistreham zord szépségét. A tengerpart szinte néptelen és nagyon pihentető.\n\nDélután térjen vissza Caenba a várhoz. Az alacsony napfény aranyba vonja a falakat.\n\nA nap a Férfiak Apátságánál zárul. Figyelje meg a kivilágítást, amely a korai sötétben (17:00) gyullad fel.",
             "ro": "Începeți la Memorial Museum, care este bine încălzit. Drumul spre Podul Pegasus trece prin peisajul liniștit de iarnă.\n\nLa prânz, experimentați frumusețea aspră a Ouistreham-ului. Plaja este aproape pustie și foarte relaxantă.\n\nDupă-amiaza reveniți la castelul din Caen. Lumina soarelui la apus poleiește zidurile.\n\nZiua se încheie la Abbaye aux Hommes. Observați iluminatul care se aprinde odată cu lăsarea timpurie a serii (17:00).",
             "en": "Start at the well-heated Memorial Museum. The drive to Pegasus Bridge leads through the quiet winter landscape.\n\nAt noon, experience the raw beauty of Ouistreham. The beach is almost deserted and very relaxing.\n\nIn the afternoon, return to Caen Castle. The low sun light turns the walls golden.\n\nThe day ends at Abbaye aux Hommes. Watch for the illuminations that light up in the early darkness (5:00 PM).",
-            "fr": "Commencez au Mémorial, qui est bien chauffé. Le trajet vers le Pegasus Bridge traverse des paysages d'hiver paisibles.\n\nÀ midi, découvrez la beauté sauvage de Ouistreham. La plage est presque déserte et très relaxante.\n\nL'après-midi, retournez au château de Caen. La lumière basse du soleil donne une teinte dorée aux remparts.\n\nLa journée se termine à l'Abbaye aux Hommes. Observez les illuminations qui s'allument dès la tombée de la nuit (17h00)."
+            "fr": "Commencez par le Musée-Mémorial bien chauffé. La route vers le Pont Pegasus traverse le paysage hivernal paisible.\n\nÀ midi, découvrez la beauté brute d'Ouistreham. La plage est presque déserte et très relaxante.\n\nL'après-midi, retournez au Château de Caen. La faible lumière du soleil teint les murs d'or.\n\nLa journée se termine à l'Abbaye aux Hommes. Surveillez les illuminations qui s'allument à la tombée de la nuit (17:00)."
           },
           "stops": [
             {
@@ -2297,7 +2369,7 @@
                 "hu": "Vigyázzon a hídfelületen kialakuló jegesedésre.",
                 "ro": "Atenție la poleiul care se poate forma pe suprafața podului.",
                 "en": "Watch out for black ice on the bridge surface.",
-                "fr": "Attention au verglas sur la surface du pont."
+                "fr": "Attention au verglas noir sur la surface du pont."
               }
             },
             {
@@ -2327,7 +2399,7 @@
                 "hu": "A parkolóhely-keresés télen általában egyszerűbb.",
                 "ro": "Căutarea unui loc de parcare este de obicei mai simplă iarna.",
                 "en": "Finding a parking spot is usually easier in winter.",
-                "fr": "Trouver une place de parking est généralement plus facile en hiver."
+                "fr": "Il est généralement plus facile de trouver une place de parking en hiver."
               }
             }
           ],
@@ -2361,11 +2433,11 @@
               "Plan your return trip before 5:00 PM to drive in daylight."
             ],
             "fr": [
-              "Assurez-vous que votre liquide lave-glace contient de l'antigel.",
-              "Conduisez avec prudence sur les routes secondaires en cas de risque de verglas.",
-              "Évitez de vous garer sous les arbres si une tempête est annoncée.",
-              "La batterie peut causer des problèmes de démarrage par temps froid.",
-              "Planifiez votre voyage de retour avant 17h00 pour conduire à la lumière du jour."
+              "Vérifiez que votre liquide lave-glace contient un antigel.",
+              "Conduisez avec une prudence accrue sur les routes secondaires s'il y a risque de verglas.",
+              "Évitez de vous garer sous les arbres si une tempête est prévue.",
+              "La batterie peut provoquer des problèmes de démarrage par grand froid.",
+              "Prévoyez votre retour avant 17:00 pour rouler en plein jour."
             ]
           }
         }
@@ -2384,7 +2456,8 @@
             "de": "Mémorial de Caen",
             "hu": "Caeni Emlékmű",
             "ro": "Memorialul din Caen",
-            "en": "Caen Memorial Museum"
+            "en": "Caen Memorial Museum",
+            "fr": "Musée-Mémorial de Caen"
           },
           "coords": [
             -0.3842,
@@ -2408,7 +2481,8 @@
             "de": "Botanischer Garten",
             "hu": "Füvészkert",
             "ro": "Grădina Botanică",
-            "en": "Botanical Garden"
+            "en": "Botanical Garden",
+            "fr": "Jardin botanique"
           },
           "coords": [
             -0.3715,
@@ -2424,7 +2498,7 @@
             "hu": "'Jardin des Plantes' megálló közvetlenül a bejáratnál.",
             "ro": "Stația 'Jardin des Plantes' chiar la intrare.",
             "en": "The 'Jardin des Plantes' stop is right at the entrance.",
-            "fr": "L'arrêt 'Jardin des Plantes' se trouve juste à l'entrée."
+            "fr": "L'arrêt « Jardin des Plantes » se trouve juste à l'entrée."
           }
         },
         {
@@ -2432,7 +2506,8 @@
             "de": "Männerabtei",
             "hu": "Férfi-apátság",
             "ro": "Abația Bărbaților",
-            "en": "Men's Abbey"
+            "en": "Men's Abbey",
+            "fr": "Abbaye aux Hommes"
           },
           "coords": [
             -0.3732,
@@ -2448,7 +2523,7 @@
             "hu": "Számos buszjárat csomópontja a városházánál.",
             "ro": "Nod important pentru multe linii de autobuz lângă primărie.",
             "en": "A major hub for many bus lines near the city hall.",
-            "fr": "Une plaque tournante majeure pour de nombreuses lignes de bus près de l'hôtel de ville."
+            "fr": "Un important nœud pour de nombreuses lignes de bus près de l'hôtel de ville."
           }
         },
         {
@@ -2456,7 +2531,8 @@
             "de": "Viertel Vaugueux",
             "hu": "Vaugueux negyed",
             "ro": "Cartierul Vaugueux",
-            "en": "Vaugueux District"
+            "en": "Vaugueux District",
+            "fr": "Quartier Vaugueux"
           },
           "coords": [
             -0.3582,
@@ -2472,7 +2548,7 @@
             "hu": "Használja a T1-es villamost a 'Résistance' megállóig.",
             "ro": "Utilizați linia de tramvai T1 până la 'Résistance'.",
             "en": "Take tram line T1 to the 'Résistance' stop.",
-            "fr": "Prenez la ligne de tram T1 jusqu'à l'arrêt 'Résistance'."
+            "fr": "Prenez la ligne de tram T1 jusqu'à l'arrêt « Résistance »."
           }
         },
         {
@@ -2480,7 +2556,8 @@
             "de": "Burg von Caen",
             "hu": "Caeni vár",
             "ro": "Castelul din Caen",
-            "en": "Caen Castle"
+            "en": "Caen Castle",
+            "fr": "Château de Caen"
           },
           "coords": [
             -0.3621,
@@ -2505,7 +2582,7 @@
         "hu": "Használja Caen hatékony Twisto hálózatát a nap kezdéséhez az Emlékműnél. A buszok gyorsan kiviszik a központból erre a történelemben gazdag, külvárosi helyszínre.\n\nDélben buszozzon vissza a központ felé, és szálljon le a Füvészkertnél. Onnan csak egy rövid út a lenyűgöző Férfi-apátság a városháza mellett.\n\nDélután a modern villamos elviszi a vár és a Vaugueux negyed közelébe. A villamos kényelmes módja a város átszelésének hosszú gyaloglás nélkül.\n\nZárja a túrát a Caeni várban. A központi 'Bernières' vagy 'Résistance' megállóktól kiváló csatlakozások állnak rendelkezésre a város minden irányába.",
         "ro": "Utilizați rețeaua eficientă Twisto din Caen pentru a începe ziua la Memorial. Autobuzele vă duc rapid din centru la acest loc plin de istorie de la marginea orașului.\n\nLa prânz, luați autobuzul înapoi spre centru și coborâți la Grădina Botanică. De acolo este doar o scurtă călătorie până la impresionanta Abație a Bărbaților de lângă primărie.\n\nDupă-amiaza, tramvaiul modern vă va duce aproape de castel și de cartierul Vaugueux. Tramvaiul oferă o modalitate confortabilă de a traversa orașul fără a merge mult pe jos.\n\nÎncheiați turul la castelul din Caen. De la stațiile centrale 'Bernières' sau 'Résistance' aveți conexiuni excelente către toate direcțiile orașului.",
         "en": "Utilize Caen's efficient Twisto transit network to start your day at the Memorial Museum. Buses will quickly take you from the center to this history-rich site on the outskirts.\n\nAt midday, take the bus back towards the center and hop off at the Botanical Garden. From there, it's just a short ride to the impressive Men's Abbey next to the city hall.\n\nIn the afternoon, the modern tram will take you near the castle and the Vaugueux district. The tram offers a comfortable way to cross the city without long walks.\n\nEnd your tour at Caen Castle. From the central 'Bernières' or 'Résistance' stops, you have excellent connections to all parts of the city.",
-        "fr": "Utilisez le réseau efficace Twisto pour commencer votre journée au Mémorial de Caen. Des bus vous emmèneront rapidement du centre vers ce site historique situé en périphérie.\n\nÀ midi, reprenez le bus vers le centre et descendez au Jardin des Plantes. De là, ce n'est qu'un court trajet jusqu'à l'impressionnante Abbaye aux Hommes, située à côté de l'hôtel de ville.\n\nL'après-midi, le tramway moderne vous déposera près du château et du quartier du Vaugueux. Le tram offre un moyen confortable de traverser la ville sans longues marches.\n\nTerminez votre visite au château de Caen. Depuis les arrêts centraux 'Bernières' ou 'Résistance', vous disposez d'excellentes liaisons vers tous les quartiers de la ville."
+        "fr": "Utilisez l'efficace réseau Twisto de Caen pour commencer votre journée au Musée-Mémorial. Les bus vous emmèneront rapidement du centre vers ce site riche en histoire en périphérie.\n\nÀ midi, reprenez le bus vers le centre et descendez au Jardin botanique. De là, il ne reste qu'un court trajet jusqu'à la remarquable Abbaye aux Hommes, à côté de l'hôtel de ville.\n\nL'après-midi, le tram moderne vous conduira à proximité du château et du quartier Vaugueux. Le tram offre un moyen confortable de traverser la ville sans longues marches.\n\nTerminez votre visite au Château de Caen. Depuis les arrêts centraux « Bernières » ou « Résistance », vous avez d'excellentes correspondances vers toutes les parties de la ville."
       },
       "gastro_picks": {
         "de": [
@@ -2656,7 +2733,7 @@
         "fr": [
           "Achetez un ticket 24 heures pour des trajets illimités.",
           "L'application Twisto fournit les horaires en temps réel.",
-          "Les tramways de Caen circulent sur pneus plutôt que sur des rails traditionnels.",
+          "Les trams de Caen roulent sur pneumatiques plutôt que sur des rails traditionnels.",
           "Les bus circulent moins fréquemment le dimanche."
         ]
       },
@@ -2666,7 +2743,8 @@
             "de": "Nutzen Sie das effiziente Twisto-Netzwerk von Caen, um den Tag am Mémorial zu beginnen. Die Busse bringen Sie schnell vom Zentrum zu diesem geschichtsträchtigen Ort am Stadtrand.\n\nMittags fahren Sie mit dem Bus zurück in Richtung Zentrum und steigen am Jardin des Plantes aus. Von dort ist es nur eine kurze Fahrt zur beeindruckenden Abbaye aux Hommes beim Rathaus.\n\nAm Nachmittag bringt Sie die moderne Straßenbahn in die Nähe des Schlosses und des Vaugueux-Viertels. Die Tram bietet eine bequeme Möglichkeit, die Stadt ohne langes Laufen zu durchqueren.\n\nBeenden Sie Ihre Tour in der Burg von Caen. Von der zentralen Haltestelle 'Bernières' oder 'Résistance' haben Sie exzellente Anschlüsse in alle Richtungen der Stadt.",
             "hu": "Használja Caen hatékony Twisto hálózatát a nap kezdéséhez az Emlékműnél. A buszok gyorsan kiviszik a központból erre a történelemben gazdag, külvárosi helyszínre.\n\nDélben buszozzon vissza a központ felé, és szálljon le a Füvészkertnél. Onnan csak egy rövid út a lenyűgöző Férfi-apátság a városháza mellett.\n\nDélután a modern villamos elviszi a vár és a Vaugueux negyed közelébe. A villamos kényelmes módja a város átszelésének hosszú gyaloglás nélkül.\n\nZárja a túrát a Caeni várban. A központi 'Bernières' vagy 'Résistance' megállóktól kiváló csatlakozások állnak rendelkezésre a város minden irányába.",
             "ro": "Utilizați rețeaua eficientă Twisto din Caen pentru a începe ziua la Memorial. Autobuzele vă duc rapid din centru la acest loc plin de istorie de la marginea orașului.\n\nLa prânz, luați autobuzul înapoi spre centru și coborâți la Grădina Botanică. De acolo este doar o scurtă călătorie până la impresionanta Abație a Bărbaților de lângă primărie.\n\nDupă-amiaza, tramvaiul modern vă va duce aproape de castel și de cartierul Vaugueux. Tramvaiul oferă o modalitate confortabilă de a traversa orașul fără a merge mult pe jos.\n\nÎncheiați turul la castelul din Caen. De la stațiile centrale 'Bernières' sau 'Résistance' aveți conexiuni excelente către toate direcțiile orașului.",
-            "en": "Utilize Caen's efficient Twisto transit network to start your day at the Memorial Museum. Buses will quickly take you from the center to this history-rich site on the outskirts.\n\nAt midday, take the bus back towards the center and hop off at the Botanical Garden. From there, it's just a short ride to the impressive Men's Abbey next to the city hall.\n\nIn the afternoon, the modern tram will take you near the castle and the Vaugueux district. The tram offers a comfortable way to cross the city without long walks.\n\nEnd your tour at Caen Castle. From the central 'Bernières' or 'Résistance' stops, you have excellent connections to all parts of the city."
+            "en": "Utilize Caen's efficient Twisto transit network to start your day at the Memorial Museum. Buses will quickly take you from the center to this history-rich site on the outskirts.\n\nAt midday, take the bus back towards the center and hop off at the Botanical Garden. From there, it's just a short ride to the impressive Men's Abbey next to the city hall.\n\nIn the afternoon, the modern tram will take you near the castle and the Vaugueux district. The tram offers a comfortable way to cross the city without long walks.\n\nEnd your tour at Caen Castle. From the central 'Bernières' or 'Résistance' stops, you have excellent connections to all parts of the city.",
+            "fr": "Utilisez l'efficace réseau Twisto de Caen pour commencer votre journée au Musée-Mémorial. Les bus vous emmèneront rapidement du centre vers ce site riche en histoire en périphérie.\n\nÀ midi, reprenez le bus vers le centre et descendez au Jardin botanique. De là, il ne reste qu'un court trajet jusqu'à la remarquable Abbaye aux Hommes, à côté de l'hôtel de ville.\n\nL'après-midi, le tram moderne vous conduira à proximité du château et du quartier Vaugueux. Le tram offre un moyen confortable de traverser la ville sans longues marches.\n\nTerminez votre visite au Château de Caen. Depuis les arrêts centraux « Bernières » ou « Résistance », vous avez d'excellentes correspondances vers toutes les parties de la ville."
           },
           "stops": [
             {
@@ -2674,13 +2752,15 @@
                 "de": "Mémorial de Caen",
                 "hu": "Caeni Emlékmű",
                 "ro": "Memorialul din Caen",
-                "en": "Caen Memorial Museum"
+                "en": "Caen Memorial Museum",
+                "fr": "Musée-Mémorial de Caen"
               },
               "tip_5lang": {
                 "de": "Buslinie 2 verbindet das Zentrum direkt mit dem Mémorial.",
                 "hu": "A 2-es buszjárat közvetlenül összeköti a központot az Emlékművel.",
                 "ro": "Linia de autobuz 2 face legătura directă între centru și Memorial.",
-                "en": "Bus line 2 connects the city center directly to the Memorial."
+                "en": "Bus line 2 connects the city center directly to the Memorial.",
+                "fr": "La ligne de bus 2 relie directement le centre-ville au Mémorial."
               }
             },
             {
@@ -2688,13 +2768,15 @@
                 "de": "Botanischer Garten",
                 "hu": "Füvészkert",
                 "ro": "Grădina Botanică",
-                "en": "Botanical Garden"
+                "en": "Botanical Garden",
+                "fr": "Jardin botanique"
               },
               "tip_5lang": {
                 "de": "Haltestelle 'Jardin des Plantes' direkt am Eingang.",
                 "hu": "'Jardin des Plantes' megálló közvetlenül a bejáratnál.",
                 "ro": "Stația 'Jardin des Plantes' chiar la intrare.",
-                "en": "The 'Jardin des Plantes' stop is right at the entrance."
+                "en": "The 'Jardin des Plantes' stop is right at the entrance.",
+                "fr": "L'arrêt « Jardin des Plantes » se trouve juste à l'entrée."
               }
             },
             {
@@ -2702,13 +2784,15 @@
                 "de": "Männerabtei",
                 "hu": "Férfi-apátság",
                 "ro": "Abația Bărbaților",
-                "en": "Men's Abbey"
+                "en": "Men's Abbey",
+                "fr": "Abbaye aux Hommes"
               },
               "tip_5lang": {
                 "de": "Knotenpunkt vieler Buslinien beim Rathaus.",
                 "hu": "Számos buszjárat csomópontja a városházánál.",
                 "ro": "Nod important pentru multe linii de autobuz lângă primărie.",
-                "en": "A major hub for many bus lines near the city hall."
+                "en": "A major hub for many bus lines near the city hall.",
+                "fr": "Un important nœud pour de nombreuses lignes de bus près de l'hôtel de ville."
               }
             },
             {
@@ -2716,13 +2800,15 @@
                 "de": "Viertel Vaugueux",
                 "hu": "Vaugueux negyed",
                 "ro": "Cartierul Vaugueux",
-                "en": "Vaugueux District"
+                "en": "Vaugueux District",
+                "fr": "Quartier Vaugueux"
               },
               "tip_5lang": {
                 "de": "Nutzen Sie die Straßenbahnlinie T1 bis 'Résistance'.",
                 "hu": "Használja a T1-es villamost a 'Résistance' megállóig.",
                 "ro": "Utilizați linia de tramvai T1 până la 'Résistance'.",
-                "en": "Take tram line T1 to the 'Résistance' stop."
+                "en": "Take tram line T1 to the 'Résistance' stop.",
+                "fr": "Prenez la ligne de tram T1 jusqu'à l'arrêt « Résistance »."
               }
             },
             {
@@ -2730,13 +2816,15 @@
                 "de": "Burg von Caen",
                 "hu": "Caeni vár",
                 "ro": "Castelul din Caen",
-                "en": "Caen Castle"
+                "en": "Caen Castle",
+                "fr": "Château de Caen"
               },
               "tip_5lang": {
                 "de": "Die Burg ist von fast allen Linien im Zentrum erreichbar.",
                 "hu": "A vár szinte az összes központi járattal elérhető.",
                 "ro": "Castelul este accesibil cu aproape toate liniile din centru.",
-                "en": "The castle is accessible via almost all central transit lines."
+                "en": "The castle is accessible via almost all central transit lines.",
+                "fr": "Le château est accessible via presque toutes les lignes de transport centrales."
               }
             }
           ],
@@ -2862,6 +2950,12 @@
               "The Twisto app provides real-time schedules.",
               "Caen's trams run on rubber tires rather than traditional tracks.",
               "Buses run less frequently on Sundays."
+            ],
+            "fr": [
+              "Achetez un ticket 24 heures pour des trajets illimités.",
+              "L'application Twisto fournit les horaires en temps réel.",
+              "Les trams de Caen roulent sur pneumatiques plutôt que sur des rails traditionnels.",
+              "Les bus circulent moins fréquemment le dimanche."
             ]
           }
         },
@@ -2871,7 +2965,7 @@
             "hu": "Használja a buszt a Memorial Múzeumhoz. A megállók menedéket nyújtanak az első eső elől.\n\nDélben a járat a botanikus kerthez viszi. Egy gyors futás az üvegházba, és már szárazon is van.\n\nDélután irány a Férfiak Apátsága és a Vaugueux-negyed. A buszok melegek és szárazak.\n\nA nap a várnál zárul. Használja ki a buszmegálló és a múzeum bejárata közötti rövid távot.",
             "ro": "Folosiți autobuzul spre Memorial Museum. Stațiile oferă adăpost împotriva primilor stropi.\n\nLa prânz, linia vă duce la Grădina Botanică. O fugă scurtă până în seră vă va menține uscat.\n\nDupă-amiaza mergeți la Abbaye aux Hommes și în cartierul Vaugueux. Autobuzele sunt calde și uscate.\n\nZiua se încheie la castel. Profitați de distanța mică dintre stație și intrarea în muzeu.",
             "en": "Use the bus to the Memorial Museum. The stops provide shelter from the first rain.\n\nAt noon, the line takes you to the Botanical Garden. A quick run to the greenhouse keeps you dry.\n\nThe afternoon leads to Abbaye aux Hommes and the Vaugueux district. The buses are warm and dry.\n\nThe day ends at the castle. Take advantage of the short distance between the bus stop and the museum entrance.",
-            "fr": "Prenez le bus jusqu'au Mémorial. Les arrêts offrent un abri dès les premières pluies.\n\nÀ midi, la ligne vous emmène au Jardin des Plantes. Une course rapide jusqu'à la serre vous gardera au sec.\n\nL'après-midi vous conduit à l'Abbaye aux Hommes et au quartier du Vaugueux. Les bus sont chauds et secs.\n\nLa journée se termine au château. Profitez de la courte distance entre l'arrêt de bus et l'entrée du musée."
+            "fr": "Prenez le bus pour le Musée-Mémorial. Les arrêts offrent un abri contre la première pluie.\n\nÀ midi, la ligne vous mène au Jardin botanique. Une courte course jusqu'à la serre vous garde au sec.\n\nL'après-midi mène à l'Abbaye aux Hommes et au quartier Vaugueux. Les bus sont chauds et secs.\n\nLa journée se termine au château. Profitez de la courte distance entre l'arrêt de bus et l'entrée du musée."
           },
           "stops": [
             {
@@ -2911,7 +3005,7 @@
                 "hu": "Ideális hely egy köztes megállóra, ha a buszok ritkábban járnak.",
                 "ro": "Un loc ideal pentru o escală dacă autobuzele circulă mai rar.",
                 "en": "An ideal place for a stopover if buses run less frequently.",
-                "fr": "Un endroit idéal pour une escale si les bus circulent moins fréquemment."
+                "fr": "Un lieu idéal pour faire une escale si les bus passent moins souvent."
               }
             },
             {
@@ -2956,10 +3050,10 @@
             ],
             "fr": [
               "Utilisez l'application Twisto pour minimiser le temps d'attente sous la pluie.",
-              "Un ticket à la journée vaut le coup si vous devez faire plusieurs correspondances.",
-              "Gardez votre ticket prêt pour éviter les retards.",
+              "Un ticket journée vaut la peine si vous devez souvent changer de ligne.",
+              "Gardez votre ticket à portée de main pour éviter les retards.",
               "Les bus sont souvent bondés sous la pluie ; prévoyez une marge de temps.",
-              "Utilisez les points de correspondance centraux avec des abris fixes."
+              "Utilisez les points de correspondance centraux avec abris fixes."
             ]
           }
         },
@@ -2969,7 +3063,7 @@
             "hu": "Utazzon busszal a Memorial Múzeumhoz. A jármű melege kora reggel nagyon kellemes.\n\nDélben érkezzen a botanikus kerthez. Élvezze a rövid sétát a friss téli levegőn.\n\nDélután irány a Férfiak Apátsága. A buszokból remek kilátás nyílik a téli városközpontra.\n\nA nap a várnál ér véget. Érkezzen meg időben, mielőtt az esti menetrend (17:00 után) ritkulna.",
             "ro": "Mergeți cu autobuzul la Memorial Museum. Căldura din vehicul este foarte plăcută dimineața devreme.\n\nLa prânz ajungeți la Grădina Botanică. Bucurați-vă de o scurtă plimbare în aerul curat de iarnă.\n\nDupă-amiaza continuați spre Abbaye aux Hommes. Autobuzele oferă o vedere excelentă asupra centrului hibernal.\n\nZiua se încheie la castel. Sosiți la timp, înainte ca orarul de seară (după 17:00) să se rărească.",
             "en": "Take the bus to the Memorial Museum. The warmth inside the vehicle is very pleasant early in the morning.\n\nAt noon, reach the Botanical Garden. Enjoy the short walk in the fresh winter air.\n\nIn the afternoon, continue to Abbaye aux Hommes. The buses offer a great view of the wintry center.\n\nThe day ends at the castle. Arrive in time before the evening schedule (after 5:00 PM) becomes less frequent.",
-            "fr": "Prenez le bus jusqu'au Mémorial. La chaleur à l'intérieur du véhicule est très agréable tôt le matin.\n\nÀ midi, rejoignez le Jardin des Plantes. Appréciez la courte marche dans l'air frais de l'hiver.\n\nL'après-midi, continuez vers l'Abbaye aux Hommes. Les bus offrent une vue imprenable sur le centre-ville hivernal.\n\nLa journée se termine au château. Arrivez à temps avant que les horaires de soirée (après 17h00) ne deviennent moins fréquents."
+            "fr": "Prenez le bus pour le Musée-Mémorial. La chaleur à l'intérieur du véhicule est très agréable tôt le matin.\n\nÀ midi, rejoignez le Jardin botanique. Profitez de la courte promenade dans l'air frais hivernal.\n\nL'après-midi, poursuivez vers l'Abbaye aux Hommes. Les bus offrent une belle vue sur le centre hivernal.\n\nLa journée se termine au château. Arrivez avant que le service du soir (après 17:00) ne devienne moins fréquent."
           },
           "stops": [
             {
@@ -2979,7 +3073,7 @@
                 "hu": "A busz rendszeresen jár, a menetrend hidegben is megbízható.",
                 "ro": "Autobuzul circulă regulat, orarul fiind de încredere și pe frig.",
                 "en": "The bus runs regularly; the schedule is reliable even in the cold.",
-                "fr": "Le bus circule régulièrement ; les horaires sont fiables même par grand froid."
+                "fr": "Le bus circule régulièrement ; l'horaire est fiable même par temps froid."
               }
             },
             {
@@ -2989,7 +3083,7 @@
                 "hu": "A kert útjait takarítják, de vigyázzon a csúszós szakaszokon.",
                 "ro": "Aleile din grădină sunt curățate, dar atenție la porțiunile alunecoase.",
                 "en": "The paths in the garden are cleared, but watch out for slippery spots.",
-                "fr": "Les sentiers du jardin sont déblayés, mais attention aux endroits glissants."
+                "fr": "Les allées du jardin sont dégagées, mais attention aux zones glissantes."
               }
             },
             {
@@ -2999,7 +3093,7 @@
                 "hu": "A buszmegálló csak pár lépésre van a bejárattól.",
                 "ro": "Stația de autobuz este la doar câțiva pași de intrare.",
                 "en": "The bus stop is just a few steps from the entrance.",
-                "fr": "L'arrêt de bus se trouve à quelques pas seulement de l'entrée."
+                "fr": "L'arrêt de bus se trouve à quelques pas de l'entrée."
               }
             },
             {
@@ -3019,7 +3113,7 @@
                 "hu": "A vártól számos járat indul vissza a központba.",
                 "ro": "De la castel puteți lua multe linii înapoi spre centru.",
                 "en": "From the castle, you can reach many lines heading back to the center.",
-                "fr": "Depuis le château, vous pouvez rejoindre de nombreuses lignes vers le centre."
+                "fr": "Depuis le château, vous pouvez rejoindre de nombreuses lignes qui retournent vers le centre."
               }
             }
           ],
@@ -3054,9 +3148,9 @@
             ],
             "fr": [
               "Portez un bonnet et une écharpe en attendant aux arrêts.",
-              "Les bus sont bien chauffés en hiver et offrent un bon confort.",
+              "Les bus sont bien chauffés en hiver et offrent du confort.",
               "Notez les changements d'horaires pendant les vacances d'hiver.",
-              "Surveillez l'affichage des prochains départs pour éviter de rester au froid.",
+              "Surveillez l'affichage des prochaines departures pour éviter de rester dans le froid.",
               "Profitez du temps passé dans le bus pour prendre des photos de la ville."
             ]
           }

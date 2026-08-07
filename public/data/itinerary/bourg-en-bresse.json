@@ -21,7 +21,8 @@
             "de": "Rathaus",
             "hu": "Városháza",
             "ro": "Primăria",
-            "en": "Town Hall"
+            "en": "Town Hall",
+            "fr": "Hôtel de Ville"
           },
           "coords": [
             5.22669,
@@ -36,7 +37,8 @@
             "de": "Bewundern Sie die klassische Architektur dieses zentralen Gebäudes und prüfen Sie die Aushänge, um lokale Veranstaltungen während Ihres Besuchs zu entdecken.",
             "hu": "Csodálja meg e központi épület klasszikus építészetét, és tekintse meg a hirdetőtáblákat a látogatása idején zajló helyi kulturális eseményekért.",
             "ro": "Admirați arhitectura clasică a acestei clădiri civice centrale și verificați avizierele pentru evenimentele locale care au loc în timpul vizitei dumneavoastră.",
-            "en": "Admire the classical architecture of this central civic building, and check the notice boards for local events taking place during your visit to the city."
+            "en": "Admire the classical architecture of this central civic building, and check the notice boards for local events taking place during your visit to the city.",
+            "fr": "Admirez l’architecture classique de ce bâtiment civique central et consultez les panneaux d’affichage pour les événements locaux pendant votre visite de la ville."
           }
         },
         {
@@ -44,7 +46,8 @@
             "de": "Kathedrale Notre-Dame de Bourg",
             "hu": "Bourg-i Notre-Dame katedrális",
             "ro": "Catedrala Notre-Dame din Bourg",
-            "en": "Notre-Dame Cathedral of Bourg"
+            "en": "Notre-Dame Cathedral of Bourg",
+            "fr": "Cathédrale Notre‑Dame de Bourg"
           },
           "coords": [
             5.227296,
@@ -59,7 +62,8 @@
             "de": "Bestaunen Sie die Renaissancefassade dieser Kathedrale und versuchen Sie, früh am Morgen zu kommen, wenn das Innere in ein weiches, sanftes Licht getaucht ist.",
             "hu": "Csodálja meg e fenséges katedrális reneszánsz homlokzatát, és próbáljon kora reggel érkezni, amikor a belső teret gyönyörű, lágy fény árasztja el.",
             "ro": "Minunați-vă de fațada renascentistă a acestei catedrale magnifice și încercați să o vizitați dimineața devreme, când interiorul este scăldat într-o lumină blândă.",
-            "en": "Marvel at the Renaissance facade of this magnificent cathedral, and try to visit early in the morning when the interior is bathed in a beautiful soft light."
+            "en": "Marvel at the Renaissance facade of this magnificent cathedral, and try to visit early in the morning when the interior is bathed in a beautiful soft light.",
+            "fr": "Admirez la façade Renaissance de cette cathédrale magnifique et essayez de la visiter tôt le matin lorsque l’intérieur est baigné d’une belle lumière douce."
           }
         },
         {
@@ -67,7 +71,8 @@
             "de": "Jakobinertor",
             "hu": "Jacobins-kapu",
             "ro": "Poarta Iacobinilor",
-            "en": "Jacobins Gate"
+            "en": "Jacobins Gate",
+            "fr": "Porte des Jacobins"
           },
           "coords": [
             5.226694,
@@ -82,7 +87,8 @@
             "de": "Entdecken Sie diesen gut erhaltenen Überrest der mittelalterlichen Stadtmauer und nehmen Sie sich Zeit für die Plakette, die seine strategische Bedeutung erklärt.",
             "hu": "Fedezze fel a középkori városfalak e jól megőrzött maradványát, és szánjon egy percet az emléktábla elolvasására, amely elmagyarázza annak stratégiai jelentőségét.",
             "ro": "Descoperiți această rămășiță bine conservată a zidurilor medievale ale orașului și faceți-vă timp să citiți placa ce explică importanța sa istorică strategică.",
-            "en": "Discover this well-preserved remnant of the medieval city walls, and take a moment to read the plaque explaining its strategic historical importance."
+            "en": "Discover this well-preserved remnant of the medieval city walls, and take a moment to read the plaque explaining its strategic historical importance.",
+            "fr": "Découvrez ce vestige bien conservé des murailles médiévales de la ville et prenez un moment pour lire la plaque expliquant son importance stratégique historique."
           }
         },
         {
@@ -90,7 +96,8 @@
             "de": "Apotheke des Hôtel-Dieu",
             "hu": "Hôtel-Dieu Patika",
             "ro": "Farmacia Hôtel-Dieu",
-            "en": "Hôtel-Dieu Apothecary"
+            "en": "Hôtel-Dieu Apothecary",
+            "fr": "Apothicairerie de l’Hôtel‑Dieu"
           },
           "coords": [
             5.2333,
@@ -105,7 +112,8 @@
             "de": "Machen Sie eine Zeitreise zwischen erhaltenen Holzschränken und Gefäßen, aber denken Sie daran, dass das Fotografieren ohne Blitz oft erforderlich ist.",
             "hu": "Lépjen vissza az időben a tökéletesen megőrzött faszekrények és üvegek között, de ne feledje, hogy a műtárgyak védelme érdekében vaku nélkül fényképezzen.",
             "ro": "Pășiți înapoi în timp printre dulapurile și borcanele de lemn perfect conservate, dar rețineți că fotografierea fără bliț este necesară pentru a proteja obiectele.",
-            "en": "Step back in time among perfectly preserved wooden cabinets and jars, but remember that photography without flash is usually required to protect the artifacts."
+            "en": "Step back in time among perfectly preserved wooden cabinets and jars, but remember that photography without flash is usually required to protect the artifacts.",
+            "fr": "Faites un bond dans le passé parmi des meubles en bois et des pots parfaitement conservés, mais souvenez‑vous que la photographie sans flash est généralement requise pour protéger les artefacts."
           }
         },
         {
@@ -113,7 +121,8 @@
             "de": "Königliches Kloster von Brou",
             "hu": "Brou Királyi Kolostor",
             "ro": "Mănăstirea Regală din Brou",
-            "en": "Royal Monastery of Brou"
+            "en": "Royal Monastery of Brou",
+            "fr": "Monastère Royal de Brou"
           },
           "coords": [
             5.236213,
@@ -128,7 +137,8 @@
             "de": "Erkunden Sie dieses Meisterwerk der Flamboyant-Gotik und buchen Sie Ihre Tickets unbedingt im Voraus online, um die langen Warteschlangen am Haupteingang zu umgehen.",
             "hu": "Fedezze fel a lángoló gótikus építészet e mesterművét, és mindenképpen foglaljon jegyet előre online, hogy elkerülje a hosszú sorokat a főbejáratnál.",
             "ro": "Explorați această capodoperă a arhitecturii gotice flamboaiante și asigurați-vă că rezervați bilete online din timp pentru a sări peste cozile lungi de la intrare.",
-            "en": "Explore this masterpiece of Flamboyant Gothic architecture, and make sure you reserve tickets online beforehand to skip the long queues at the main entrance."
+            "en": "Explore this masterpiece of Flamboyant Gothic architecture, and make sure you reserve tickets online beforehand to skip the long queues at the main entrance.",
+            "fr": "Explorez ce chef‑d’œuvre de l’architecture gothique flamboyante et assurez‑vous de réserver vos billets en ligne à l’avance pour éviter les longues files d’attente à l’entrée principale."
           }
         },
         {
@@ -136,7 +146,8 @@
             "de": "Museum von Brou",
             "hu": "Brou Múzeum",
             "ro": "Muzeul din Brou",
-            "en": "Brou Museum"
+            "en": "Brou Museum",
+            "fr": "Musée de Brou"
           },
           "coords": [
             5.2366,
@@ -151,7 +162,8 @@
             "de": "Schlendern Sie durch drei verschiedene Kreuzgänge mit umfangreichen Kunstsammlungen und lassen Sie schwere Rucksäcke an der Garderobe, um alles bequem zu betrachten.",
             "hu": "Barangoljon a három különálló kolostor kiterjedt művészeti gyűjteményeiben, és hagyja nehéz hátizsákját a ruhatárban, hogy kényelmesen megtekinthesse a kiállításokat.",
             "ro": "Plimbați-vă prin trei mănăstiri distincte care găzduiesc colecții de artă și lăsați rucsacurile grele la garderobă pentru a naviga confortabil printre exponate.",
-            "en": "Wander through three distinct cloisters housing extensive art collections, and leave your heavier backpacks in the cloakroom to comfortably navigate the exhibits."
+            "en": "Wander through three distinct cloisters housing extensive art collections, and leave your heavier backpacks in the cloakroom to comfortably navigate the exhibits.",
+            "fr": "Parcourez trois cloîtres distincts abritant des collections d’art étendues et laissez vos sacs à dos les plus lourds au vestiaire pour circuler confortablement dans les salles."
           }
         }
       ],
@@ -159,7 +171,8 @@
         "de": "Beginnen Sie Ihren Morgen im Herzen von Bourg-en-Bresse, bewundern Sie das Rathaus und betreten Sie die historische Kathedrale Notre-Dame. Schlendern Sie mittags am alten Jacobins-Tor vorbei und erkunden Sie die faszinierende Apotheke Hôtel-Dieu. Am Nachmittag können Sie das Königliche Kloster Brou bewundern, ein Meisterwerk der Flamboyant-Gotik. Beenden Sie Ihren Tag im Museum von Brou.",
         "hu": "Kezdje a reggelt Bourg-en-Bresse szívében a városháza megcsodálásával, majd lépjen be a történelmi Notre-Dame katedrálisba. Délben sétáljon el az ősi Jacobins-kapu mellett, és fedezze fel a Hôtel-Dieu Patika lenyűgöző faszekrényeit. Délután csodálja meg a Brou Királyi Kolostort, amely a lángoló gótikus építészet remekműve. Sétáját este a Brou Múzeum gyűjteményeinek felfedezésével zárja.",
         "ro": "Începeți dimineața în inima orașului Bourg-en-Bresse, admirând măreția Primăriei înainte de a păși în istorica Catedrală Notre-Dame. Până la prânz, treceți pe lângă vechea Poartă Jacobins și explorați fascinantele dulapuri ale Farmaciei Hôtel-Dieu. După-amiaza, minunați-vă de Mănăstirea Regală din Brou. Încheiați-vă plimbarea explorând colecțiile de artă din Muzeul Brou adiacent.",
-        "en": "Start your morning in the heart of Bourg-en-Bresse, admiring the civic grandeur of the Town Hall before stepping into the historic Notre-Dame Cathedral. By midday, wander past the ancient Jacobins Gate and explore the wooden cabinets of the Hôtel-Dieu Apothecary. In the afternoon, marvel at the Royal Monastery of Brou. Conclude your tour exploring the art collections within the Brou Museum."
+        "en": "Start your morning in the heart of Bourg-en-Bresse, admiring the civic grandeur of the Town Hall before stepping into the historic Notre-Dame Cathedral. By midday, wander past the ancient Jacobins Gate and explore the wooden cabinets of the Hôtel-Dieu Apothecary. In the afternoon, marvel at the Royal Monastery of Brou. Conclude your tour exploring the art collections within the Brou Museum.",
+        "fr": "Commencez votre matinée au cœur de Bourg‑en‑Bresse, en admirant la grandeur civique de l’Hôtel de Ville avant d’entrer dans la cathédrale historique Notre‑Dame. À midi, passez devant la Porte des Jacobins et explorez les meubles en bois de l’apothicairerie de l’Hôtel‑Dieu. L’après‑midi, émerveillez‑vous devant le Monastère Royal de Brou. Concluez votre visite en explorant les collections d’art du Musée de Brou."
       },
       "variants": {
         "rainy": {
@@ -167,7 +180,8 @@
             "de": "Ein regnerischer Morgen beginnt am Rathaus, wo die Arkaden Schutz bieten. Mittags suchen wir Zuflucht in der kühlen Stille der Kathedrale. Am Nachmittag erkunden wir das Hôtel-Dieu und das Kloster Brou, die beide ideale Indoor-Ziele sind. Der Abend endet trotz Pfützen stimmungsvoll im beleuchteten historischen Zentrum, während der Regen auf das Kopfsteinpflaster trommelt.",
             "hu": "Az esős reggel a Városházánál indul, ahol az árkádok adnak menedéket. Délben a katedrális csendjében lelünk száraz nyugalomra. Délután az egykori patika és a Brou-i kolostor belső terei tökéletesek a záporok elől. Az este a kivilágított óvárosban ér véget, ahol a vizes macskaköveken megcsillannak a fények; egy jó esernyő és vízálló cipő ma elengedhetetlen a városnézéshez.",
             "ro": "O dimineață ploioasă începe la Primărie, unde arcadele oferă adăpost. La prânz, căutăm refugiu în liniștea catedralei. După-amiaza explorăm Farmacia Hôtel-Dieu și Mănăstirea Brou, ambele fiind destinații ideale de interior. Seara se încheie atmosferic în centrul istoric iluminat, în timp ce ploaia bate în pavajul de piatră, creând reflexii superbe pe străzile vechi.",
-            "en": "A rainy morning starts at the Town Hall, where arcades provide shelter. At noon, we find dry refuge in the quiet of the Cathedral. Afternoon is spent exploring the Apothecary and the Brou Monastery, both perfect indoor retreats. The evening ends atmospherically in the lit old town; waterproof shoes and an umbrella are essential as the rain makes the cobblestones glisten beautifully."
+            "en": "A rainy morning starts at the Town Hall, where arcades provide shelter. At noon, we find dry refuge in the quiet of the Cathedral. Afternoon is spent exploring the Apothecary and the Brou Monastery, both perfect indoor retreats. The evening ends atmospherically in the lit old town; waterproof shoes and an umbrella are essential as the rain makes the cobblestones glisten beautifully.",
+            "fr": "Une matinée pluvieuse commence à l’Hôtel de Ville, où les arcades offrent un abri. À midi, nous trouvons refuge au sec dans le calme de la Cathédrale. L’après‑midi est consacré à l’exploration de l’Apothicairerie et du Monastère de Brou, tous deux parfaits comme retraites intérieures. La soirée se termine de façon atmosphérique dans la vieille ville éclairée ; des chaussures imperméables et un parapluie sont essentiels car la pluie fait briller joliment les pavés."
           },
           "stops": [
             {
@@ -175,13 +189,15 @@
                 "de": "Rathaus",
                 "hu": "Városháza",
                 "ro": "Primăria",
-                "en": "Town Hall"
+                "en": "Town Hall",
+                "fr": "Hôtel de Ville"
               },
               "tip_5lang": {
                 "de": "Bewundern Sie die Fassade von den gegenüberliegenden Arkaden aus, um trocken zu bleiben, und achten Sie auf die Wasserspeier bei starkem Regen.",
                 "hu": "Csodálja meg a homlokzatot a szemközti árkádok alól, hogy száraz maradjon, és figyelje meg, hogyan vezetik el a vizet a díszes vízköpők.",
                 "ro": "Admirați fațada de sub arcadele opuse pentru a rămâne uscat și observați cum garguii direcționează apa în timpul ploilor torențiale.",
-                "en": "Admire the facade from the opposite arcades to stay dry, and watch how the decorative gargoyles direct the rainwater away during downpours."
+                "en": "Admire the facade from the opposite arcades to stay dry, and watch how the decorative gargoyles direct the rainwater away during downpours.",
+                "fr": "Admirez la façade depuis les arcades opposées pour rester au sec et observez comment les gargouilles décoratives dirigent l’eau de pluie lors des fortes averses."
               }
             },
             {
@@ -189,13 +205,15 @@
                 "de": "Kathedrale Notre-Dame de Bourg",
                 "hu": "Bourg-i Notre-Dame katedrális",
                 "ro": "Catedrala Notre-Dame din Bourg",
-                "en": "Notre-Dame Cathedral of Bourg"
+                "en": "Notre-Dame Cathedral of Bourg",
+                "fr": "Cathédrale Notre‑Dame de Bourg"
               },
               "tip_5lang": {
                 "de": "Nutzen Sie den prasselnden Regen draußen, um die Akustik und die Details der Glasfenster im trockenen Innenraum in aller Ruhe zu genießen.",
                 "hu": "Használja ki a kinti esőzést, hogy a belső tér száraz nyugalmában alaposan megcsodálja az akusztikát és a színes üvegablakok részleteit.",
                 "ro": "Profită de ploaia de afară pentru a te bucura de acustica și detaliile vitraliilor în liniștea și confortul interiorului uscat al catedralei.",
-                "en": "Take advantage of the rain outside to enjoy the acoustics and the intricate stained glass details in the dry, peaceful interior of the cathedral."
+                "en": "Take advantage of the rain outside to enjoy the acoustics and the intricate stained glass details in the dry, peaceful interior of the cathedral.",
+                "fr": "Profitez de la pluie dehors pour apprécier l’acoustique et les détails des vitraux dans l’intérieur paisible et sec de la cathédrale."
               }
             },
             {
@@ -203,13 +221,15 @@
                 "de": "Jakobinertor",
                 "hu": "Jacobins-kapu",
                 "ro": "Poarta Iacobinilor",
-                "en": "Jacobins Gate"
+                "en": "Jacobins Gate",
+                "fr": "Porte des Jacobins"
               },
               "tip_5lang": {
                 "de": "Dieses historische Tor bietet einen kurzen Unterstand; beeilen Sie sich beim Fotografieren, da der Boden hier bei Nässe sehr rutschig sein kann.",
                 "hu": "Ez a történelmi kapu rövid menedéket nyújt a zápor elől; a fotózással igyekezzen, mert a talaj itt esőben különösen csúszóssá válhat.",
                 "ro": "Această poartă istorică oferă un scurt adăpost; grăbește-te cu fotografiile, deoarece pavajul poate deveni foarte alunecos când este ud.",
-                "en": "This historic gate offers brief shelter; be quick with your photos as the ground here can become quite slippery when wet during a rain shower."
+                "en": "This historic gate offers brief shelter; be quick with your photos as the ground here can become quite slippery when wet during a rain shower.",
+                "fr": "Cette porte historique offre un abri temporaire ; soyez rapide pour vos photos car le sol ici peut devenir assez glissant lorsqu’il est mouillé pendant une averse."
               }
             },
             {
@@ -217,13 +237,15 @@
                 "de": "Apotheke des Hôtel-Dieu",
                 "hu": "Hôtel-Dieu Patika",
                 "ro": "Farmacia Hôtel-Dieu",
-                "en": "Hôtel-Dieu Apothecary"
+                "en": "Hôtel-Dieu Apothecary",
+                "fr": "Apothicairerie de l’Hôtel‑Dieu"
               },
               "tip_5lang": {
                 "de": "Tauchen Sie ein in die Welt der alten Heilkunst in diesen geschützten Räumen, wo die Holztäfelung bei Regen eine besonders gemütliche Atmosphäre schafft.",
                 "hu": "Merüljön el a régi gyógyászat világában ezekben a védett termekben, ahol a faborítás esős időben különösen meghitt és barátságos hangulatot áraszt.",
                 "ro": "Explorați lumea vechii medicine în aceste săli protejate, unde lambriurile din lemn creează o atmosferă primitoare în timp ce afară plouă.",
-                "en": "Dive into the world of ancient medicine in these sheltered rooms, where the wooden paneling creates a cozy atmosphere while it rains outside."
+                "en": "Dive into the world of ancient medicine in these sheltered rooms, where the wooden paneling creates a cozy atmosphere while it rains outside.",
+                "fr": "Plongez dans le monde de la médecine ancienne dans ces salles abritées, où les boiseries créent une atmosphère chaleureuse pendant qu’il pleut dehors."
               }
             },
             {
@@ -231,13 +253,15 @@
                 "de": "Königliches Kloster von Brou",
                 "hu": "Brou Királyi Kolostor",
                 "ro": "Mănăstirea Regală din Brou",
-                "en": "Royal Monastery of Brou"
+                "en": "Royal Monastery of Brou",
+                "fr": "Monastère Royal de Brou"
               },
               "tip_5lang": {
                 "de": "Die überdachten Kreuzgänge sind der perfekte Ort, um das Kloster auch bei Regen zu erkunden und die Architektur ohne Schirm zu bewundern.",
                 "hu": "A fedett kerengők tökéletes helyszínt biztosítanak a kolostor bejárásához esőben is, így ernyő nélkül is megcsodálhatja a gótikus építészetet.",
                 "ro": "Cloosterele acoperite sunt locul perfect pentru a explora mănăstirea chiar și pe ploaie, permițându-vă să admirați arhitectura fără umbrelă.",
-                "en": "The covered cloisters are the perfect place to explore the monastery even in the rain, allowing you to admire the architecture without an umbrella."
+                "en": "The covered cloisters are the perfect place to explore the monastery even in the rain, allowing you to admire the architecture without an umbrella.",
+                "fr": "Les cloîtres couverts sont l’endroit idéal pour explorer le monastère même sous la pluie, vous permettant d’admirer l’architecture sans parapluie."
               }
             },
             {
@@ -245,13 +269,15 @@
                 "de": "Museum von Brou",
                 "hu": "Brou Múzeum",
                 "ro": "Muzeul din Brou",
-                "en": "Brou Museum"
+                "en": "Brou Museum",
+                "fr": "Musée de Brou"
               },
               "tip_5lang": {
                 "de": "Beenden Sie Ihren Tag in der warmen und trockenen Galerie; nutzen Sie die Garderobe für Ihre nassen Sachen, um die Kunst entspannt zu genießen.",
                 "hu": "Zárja a napot a meleg és száraz galériában; használja a ruhatárat vizes holmijaihoz, hogy kényelmesen merülhessen el a művészeti élményekben.",
                 "ro": "Încheiați ziua în galeria caldă și uscată; folosiți garderoba pentru hainele ude pentru a vă bucura de artă într-un mod relaxat.",
-                "en": "End your day in the warm and dry gallery; use the cloakroom for your wet gear to enjoy the art collection in complete comfort."
+                "en": "End your day in the warm and dry gallery; use the cloakroom for your wet gear to enjoy the art collection in complete comfort.",
+                "fr": "Terminez votre journée dans la galerie chaude et sèche ; utilisez le vestiaire pour votre équipement humide afin de profiter de la collection d’art en tout confort."
               }
             }
           ]
@@ -261,7 +287,8 @@
             "de": "Ein frostiger Morgen am Rathaus erfordert warme Kleidung. Mittags wärmen wir uns in der Kathedrale auf, bevor wir das historische Viertel erkunden. Am frühen Nachmittag besuchen wir die Museen, um der Kälte zu entfliehen. Da die Sonne gegen 17:00 Uhr untergeht, genießen wir die blaue Stunde am festlich beleuchteten Kloster Brou, bevor wir uns in ein gemütliches Café zurückziehen.",
             "hu": "A fagyos reggel a Városházánál réteges öltözéket kíván. Délben a katedrálisban melegedünk fel, mielőtt az óvárost felfedeznénk. Kora délután a patika és a múzeum belső terei nyújtanak menedéket a csípős hideg elől. Mivel 17:00 körül már sötétedik, a kék órát a díszesen kivilágított Brou-i kolostornál élvezhetjük, majd egy meleg kávézóban zárjuk a napot.",
             "ro": "O dimineață geroasă la Primărie necesită haine groase. La prânz ne încălzim în catedrală înainte de a explora cartierul istoric. După-amiaza devreme vizităm muzeele pentru a scăpa de frigul tăios. Deoarece soarele apune în jurul orei 17:00, ne bucurăm de ora albastră la Mănăstirea Brou iluminată festiv, înainte de a ne retrage într-o cafenea primitoare.",
-            "en": "A frosty morning at the Town Hall requires warm layers. At noon, we warm up inside the cathedral before exploring the historic quarter. Early afternoon is best spent in the museums to escape the bite of the winter air. As the sun sets around 17:00, we enjoy the blue hour at the festively lit Brou Monastery before heading to a cozy café to finish the day."
+            "en": "A frosty morning at the Town Hall requires warm layers. At noon, we warm up inside the cathedral before exploring the historic quarter. Early afternoon is best spent in the museums to escape the bite of the winter air. As the sun sets around 17:00, we enjoy the blue hour at the festively lit Brou Monastery before heading to a cozy café to finish the day.",
+            "fr": "Une matinée glaciale à l’Hôtel de Ville nécessite des couches chaudes. À midi, nous nous réchauffons à l’intérieur de la cathédrale avant d’explorer le quartier historique. Le début d’après‑midi est mieux consacré aux musées pour échapper à la morsure de l’air hivernal. Alors que le soleil se couche vers 17:00, nous profitons de l’heure bleue au Monastère de Brou illuminé pour ensuite nous rendre dans un café chaleureux pour terminer la journée."
           },
           "stops": [
             {
@@ -269,13 +296,15 @@
                 "de": "Rathaus",
                 "hu": "Városháza",
                 "ro": "Primăria",
-                "en": "Town Hall"
+                "en": "Town Hall",
+                "fr": "Hôtel de Ville"
               },
               "tip_5lang": {
                 "de": "Beginnen Sie früh, um das weiche Winterlicht auf der Fassade zu sehen, aber achten Sie auf gefrorene Stellen auf dem Rathausplatz.",
                 "hu": "Kezdjen korán, hogy elcsípje a homlokzaton megcsillanó téli fényt, de vigyázzon a városháza előtti téren az esetleges jeges foltokra.",
                 "ro": "Începeți devreme pentru a vedea lumina moale de iarnă pe fațadă, dar aveți grijă la porțiunile înghețate din piața primăriei.",
-                "en": "Start early to catch the soft winter light on the facade, but watch out for frozen patches in the town hall square during frosty mornings."
+                "en": "Start early to catch the soft winter light on the facade, but watch out for frozen patches in the town hall square during frosty mornings.",
+                "fr": "Commencez tôt pour saisir la douce lumière hivernale sur la façade, mais faites attention aux plaques de verglas sur la place de l’hôtel de ville lors des matinées givrées."
               }
             },
             {
@@ -283,13 +312,15 @@
                 "de": "Kathedrale Notre-Dame de Bourg",
                 "hu": "Bourg-i Notre-Dame katedrális",
                 "ro": "Catedrala Notre-Dame din Bourg",
-                "en": "Notre-Dame Cathedral of Bourg"
+                "en": "Notre-Dame Cathedral of Bourg",
+                "fr": "Cathédrale Notre‑Dame de Bourg"
               },
               "tip_5lang": {
                 "de": "Der Innenraum bietet Schutz vor dem kalten Wind; bewundern Sie die Holzschnitzereien, während Sie sich für den weiteren Weg aufwärmen.",
                 "hu": "A belső tér remek menedék a hideg szél elől; csodálja meg a fafaragásokat, miközben kicsit átmelegszik a folytatás előtt.",
                 "ro": "Interiorul oferă protecție împotriva vântului rece; admirați sculpturile în lemn în timp ce vă încălziți pentru restul plimbării.",
-                "en": "The interior provides excellent protection from the cold wind; admire the wood carvings while you warm up for the rest of your walk."
+                "en": "The interior provides excellent protection from the cold wind; admire the wood carvings while you warm up for the rest of your walk.",
+                "fr": "L’intérieur offre une excellente protection contre le vent froid ; admirez les sculptures sur bois tout en vous réchauffant pour la suite de votre promenade."
               }
             },
             {
@@ -297,13 +328,15 @@
                 "de": "Jakobinertor",
                 "hu": "Jacobins-kapu",
                 "ro": "Poarta Iacobinilor",
-                "en": "Jacobins Gate"
+                "en": "Jacobins Gate",
+                "fr": "Porte des Jacobins"
               },
               "tip_5lang": {
                 "de": "Ein schneller Fotostopp an diesem historischen Ort; die tiefstehende Wintermitte betont die Textur des alten Mauerwerks besonders schön.",
                 "hu": "Gyors fotómegálló ennél a történelmi helynél; az alacsonyan járó téli nap különösen szépen kiemeli a régi falak textúráját.",
                 "ro": "O oprire rapidă pentru poze la acest sit istoric; soarele jos de iarnă subliniază frumos textura zidăriei vechi.",
-                "en": "A quick photo stop at this historic site; the low winter sun emphasizes the texture of the old masonry beautifully in the crisp air."
+                "en": "A quick photo stop at this historic site; the low winter sun emphasizes the texture of the old masonry beautifully in the crisp air.",
+                "fr": "Un arrêt photo rapide à ce site historique ; le soleil bas d’hiver met en valeur la texture de la vieille maçonnerie dans l’air vif."
               }
             },
             {
@@ -311,13 +344,15 @@
                 "de": "Apotheke des Hôtel-Dieu",
                 "hu": "Hôtel-Dieu Patika",
                 "ro": "Farmacia Hôtel-Dieu",
-                "en": "Hôtel-Dieu Apothecary"
+                "en": "Hôtel-Dieu Apothecary",
+                "fr": "Apothicairerie de l’Hôtel‑Dieu"
               },
               "tip_5lang": {
                 "de": "Besuchen Sie diesen Ort am Mittag, um die beheizten Innenräume zu genießen und mehr über historische Winterheilmittel zu erfahren.",
                 "hu": "Látogasson el ide délidőben, hogy élvezze a fűtött belső tereket és ismerkedjen meg a történelmi téli gyógymódokkal és főzetekkel.",
                 "ro": "Vizitați acest loc la prânz pentru a vă bucura de interioarele încălzite și pentru a învăța despre remediile istorice de iarnă.",
-                "en": "Visit this spot at midday to enjoy the heated interiors and learn about historical winter remedies and herbal preparations."
+                "en": "Visit this spot at midday to enjoy the heated interiors and learn about historical winter remedies and herbal preparations.",
+                "fr": "Visitez cet endroit à midi pour profiter des intérieurs chauffés et découvrir les remèdes hivernaux historiques et les préparations à base de plantes."
               }
             },
             {
@@ -325,13 +360,15 @@
                 "de": "Königliches Kloster von Brou",
                 "hu": "Brou Királyi Kolostor",
                 "ro": "Mănăstirea Regală din Brou",
-                "en": "Royal Monastery of Brou"
+                "en": "Royal Monastery of Brou",
+                "fr": "Monastère Royal de Brou"
               },
               "tip_5lang": {
                 "de": "Das Kloster wirkt im Winterlicht fast magisch; planen Sie den Besuch vor 16 Uhr ein, um die Details vor der Dämmerung zu sehen.",
                 "hu": "A kolostor szinte varázslatos a téli fényekben; tervezze a látogatást 16 óra elé, hogy a szürkület előtt még jól lássa a részleteket.",
                 "ro": "Mănăstirea pare magică în lumina iernii; planificați vizita înainte de ora 16:00 pentru a vedea detaliile înainte de lăsarea serii.",
-                "en": "The monastery looks almost magical in the winter light; plan your visit before 16:00 to see the intricate details before dusk falls."
+                "en": "The monastery looks almost magical in the winter light; plan your visit before 16:00 to see the intricate details before dusk falls.",
+                "fr": "Le monastère paraît presque magique sous la lumière d’hiver ; prévoyez votre visite avant 16:00 pour voir les détails complexes avant la tombée du crépuscule."
               }
             },
             {
@@ -339,13 +376,15 @@
                 "de": "Museum von Brou",
                 "hu": "Brou Múzeum",
                 "ro": "Muzeul din Brou",
-                "en": "Brou Museum"
+                "en": "Brou Museum",
+                "fr": "Musée de Brou"
               },
               "tip_5lang": {
                 "de": "Der perfekte Ort für den späten Nachmittag; genießen Sie die Kunst in wohliger Wärme, während draußen die Sonne früh untergeht.",
                 "hu": "Tökéletes helyszín késő délutánra; élvezze a művészetet kellemes melegben, miközben odakint korán lemegy a téli nap.",
                 "ro": "Locul perfect pentru sfârșitul după-amiezii; bucurați-vă de artă la căldură în timp ce soarele apune devreme afară.",
-                "en": "The perfect spot for late afternoon; enjoy the art collection in cozy warmth while the winter sun sets early outside."
+                "en": "The perfect spot for late afternoon; enjoy the art collection in cozy warmth while the winter sun sets early outside.",
+                "fr": "L’endroit idéal pour la fin d’après‑midi ; profitez de la collection d’art au chaud et au confortable pendant que le soleil d’hiver se couche tôt dehors."
               }
             }
           ]
@@ -365,7 +404,8 @@
             "de": "Theater von Bourg-en-Bresse",
             "hu": "Bourg-en-Bresse-i Színház",
             "ro": "Teatrul din Bourg-en-Bresse",
-            "en": "Bourg-en-Bresse Theater"
+            "en": "Bourg-en-Bresse Theater",
+            "fr": "Théâtre de Bourg‑en‑Bresse"
           },
           "coords": [
             5.225506,
@@ -380,7 +420,8 @@
             "de": "Genießen Sie die kulturelle Atmosphäre dieses modernen Theaters und fragen Sie am Vormittag an der Kasse nach möglichen Last-Minute-Tickets für die Abendvorstellung.",
             "hu": "Élvezze e modern előadó-művészeti helyszín vibráló kulturális atmoszféráját, és reggel érdeklődjön a jegypénztárnál az esetleges utolsó pillanatos belépőkért.",
             "ro": "Bucurați-vă de atmosfera culturală vibrantă a acestui teatru modern și verificați casa de bilete dimineața pentru eventuale bilete de ultim moment la spectacole.",
-            "en": "Take in the vibrant cultural atmosphere of this modern performing arts venue, and check their box office in the morning for potential last-minute show tickets."
+            "en": "Take in the vibrant cultural atmosphere of this modern performing arts venue, and check their box office in the morning for potential last-minute show tickets.",
+            "fr": "Imprégnez‑vous de l’atmosphère culturelle dynamique de cette salle de spectacle moderne et vérifiez leur billetterie le matin pour d’éventuels billets de dernière minute."
           }
         },
         {
@@ -388,7 +429,8 @@
             "de": "Jakobinertor",
             "hu": "Jacobins-kapu",
             "ro": "Poarta Iacobinilor",
-            "en": "Jacobins Gate"
+            "en": "Jacobins Gate",
+            "fr": "Porte des Jacobins"
           },
           "coords": [
             5.226694,
@@ -403,7 +445,8 @@
             "de": "Entdecken Sie diesen gut erhaltenen Überrest der mittelalterlichen Stadtmauer und nehmen Sie sich Zeit für die Plakette, die seine strategische Bedeutung erklärt.",
             "hu": "Fedezze fel a középkori városfalak e jól megőrzött maradványát, és szánjon egy percet az emléktábla elolvasására, amely elmagyarázza annak stratégiai jelentőségét.",
             "ro": "Descoperiți această rămășiță bine conservată a zidurilor medievale ale orașului și faceți-vă timp să citiți placa ce explică importanța sa istorică strategică.",
-            "en": "Discover this well-preserved remnant of the medieval city walls, and take a moment to read the plaque explaining its strategic historical importance."
+            "en": "Discover this well-preserved remnant of the medieval city walls, and take a moment to read the plaque explaining its strategic historical importance.",
+            "fr": "Découvrez ce vestige bien conservé des murailles médiévales de la ville et prenez un moment pour lire la plaque expliquant son importance stratégique historique."
           }
         },
         {
@@ -411,7 +454,8 @@
             "de": "Museum für Mechanographie",
             "hu": "Mechanográfiai Múzeum",
             "ro": "Muzeul de Mecanografie",
-            "en": "Musee de la Mecanographie"
+            "en": "Musee de la Mecanographie",
+            "fr": "Musée de la Mécanographie"
           },
           "coords": [
             5.231325,
@@ -426,7 +470,8 @@
             "de": "Tauchen Sie in die faszinierende Geschichte früher Schreibmaschinen ein und bitten Sie die sachkundigen Freiwilligen um eine kurze Vorführung der ältesten Geräte.",
             "hu": "Merüljön el a korai számítástechnika és az írógépek lenyűgöző történetében, és kérjen az önkéntes személyzettől egy gyors bemutatót a legrégebbi gépekről.",
             "ro": "Pătrundeți în istoria fascinantă a primelor mașini de scris și calculatoare și rugați personalul voluntar să vă ofere o scurtă demonstrație a celor mai vechi mașini.",
-            "en": "Delve into the fascinating history of early computing and typewriters, and ask the knowledgeable volunteer staff for a quick demonstration of the oldest machines."
+            "en": "Delve into the fascinating history of early computing and typewriters, and ask the knowledgeable volunteer staff for a quick demonstration of the oldest machines.",
+            "fr": "Plongez dans l’histoire fascinante de l’informatique ancienne et des machines à écrire, et demandez aux bénévoles compétents une démonstration rapide des plus vieilles machines."
           }
         },
         {
@@ -434,7 +479,8 @@
             "de": "Königliches Kloster von Brou",
             "hu": "Brou Királyi Kolostor",
             "ro": "Mănăstirea Regală din Brou",
-            "en": "Royal Monastery of Brou"
+            "en": "Royal Monastery of Brou",
+            "fr": "Monastère Royal de Brou"
           },
           "coords": [
             5.236213,
@@ -449,7 +495,8 @@
             "de": "Erkunden Sie dieses Meisterwerk der Flamboyant-Gotik und buchen Sie Ihre Tickets unbedingt im Voraus online, um die langen Warteschlangen am Haupteingang zu umgehen.",
             "hu": "Fedezze fel a lángoló gótikus építészet e mesterművét, és mindenképpen foglaljon jegyet előre online, hogy elkerülje a hosszú sorokat a főbejáratnál.",
             "ro": "Explorați această capodoperă a arhitecturii gotice flamboaiante și asigurați-vă că rezervați bilete online din timp pentru a sări peste cozile lungi de la intrare.",
-            "en": "Explore this masterpiece of Flamboyant Gothic architecture, and make sure you reserve tickets online beforehand to skip the long queues at the main entrance."
+            "en": "Explore this masterpiece of Flamboyant Gothic architecture, and make sure you reserve tickets online beforehand to skip the long queues at the main entrance.",
+            "fr": "Explorez ce chef‑d’œuvre de l’architecture gothique flamboyante et assurez‑vous de réserver vos billets en ligne à l’avance pour éviter les longues files d’attente à l’entrée principale."
           }
         },
         {
@@ -457,7 +504,8 @@
             "de": "Schloss Pennesuyt",
             "hu": "Pennesuyt Kastély",
             "ro": "Castelul Pennesuyt",
-            "en": "Chateau de Pennesuyt"
+            "en": "Chateau de Pennesuyt",
+            "fr": "Château de Pennesuyt"
           },
           "coords": [
             5.254399,
@@ -472,7 +520,8 @@
             "de": "Bewundern Sie die imposante Architektur dieses historischen Anwesens von außen und tragen Sie festes Schuhwerk, um die umliegenden Waldwege bequem zu erkunden.",
             "hu": "Csodálja meg e történelmi birtok impozáns építészetét a pereméről, és viseljen masszív túracipőt, hogy kényelmesen felfedezhesse a környező erdei ösvényeket.",
             "ro": "Admirați arhitectura impunătoare a acestui domeniu istoric din perimetrul său și purtați pantofi rezistenți pentru a explora confortabil cărările împădurite din jur.",
-            "en": "Admire the imposing architecture of this historical estate from its perimeter, and wear sturdy walking shoes to comfortably explore the surrounding wooded paths."
+            "en": "Admire the imposing architecture of this historical estate from its perimeter, and wear sturdy walking shoes to comfortably explore the surrounding wooded paths.",
+            "fr": "Admirez l’architecture imposante de ce domaine historique depuis son pourtour et portez des chaussures de marche robustes pour explorer confortablement les sentiers boisés alentours."
           }
         },
         {
@@ -480,7 +529,8 @@
             "de": "Freizeitpark Bouvent",
             "hu": "Bouvent Szabadidőpark",
             "ro": "Parcul de Agrement Bouvent",
-            "en": "Bouvent Leisure Park"
+            "en": "Bouvent Leisure Park",
+            "fr": "Parc de loisirs de Bouvent"
           },
           "coords": [
             5.25953,
@@ -495,7 +545,8 @@
             "de": "Entspannen Sie sich am See oder genießen Sie einen Spaziergang auf den Naturpfaden, und bringen Sie ein leichtes Picknick mit, das Sie an den Holztischen genießen können.",
             "hu": "Pihenjen a tó partján, vagy tegyen egy kellemes sétát a gondozott tanösvényeken, és ne felejtsen el egy könnyű pikniket hozni, amit a kijelölt faasztaloknál elfogyaszthat.",
             "ro": "Relaxați-vă lângă lac sau bucurați-vă de o plimbare pe potecile naturale bine întreținute și nu uitați să aduceți un picnic ușor pentru a-l savura la mesele de lemn.",
-            "en": "Relax by the lake or enjoy a pleasant stroll along the well-kept nature trails, and remember to bring a light picnic lunch to savor at the designated wooden tables."
+            "en": "Relax by the lake or enjoy a pleasant stroll along the well-kept nature trails, and remember to bring a light picnic lunch to savor at the designated wooden tables.",
+            "fr": "Détendez‑vous au bord du lac ou profitez d’une agréable promenade le long des sentiers naturels bien entretenus ; pensez à apporter un pique‑nique léger à savourer aux tables en bois prévues."
           }
         }
       ],
@@ -503,7 +554,8 @@
         "de": "Beginnen Sie Ihren Radtag mit dem modernen Äußeren des Theaters von Bourg-en-Bresse, bevor Sie zum historischen Jacobins-Tor radeln. Schließen Sie mittags Ihr Fahrrad ab, um das faszinierende Musee de la Mecanographie zu erkunden. Am Nachmittag besuchen Sie das berühmte Königliche Kloster Brou und fahren dann etwas weiter zum imposanten Chateau de Pennesuyt. Beenden Sie Ihren aktiven Tag im Bouvent Leisure Park am ruhigen See.",
         "hu": "Indítsa kerékpáros napját a Bourg-en-Bresse-i Színház modern külsejének megcsodálásával, mielőtt a történelmi Jacobins-kapuhoz tekerne. Délben zárja le kerékpárját, hogy felfedezze az izgalmas Musee de la Mecanographie-t. A délután az ikonikus Brou Királyi Kolostorhoz vezet, majd kissé kifelé, hogy megtekintse az impozáns Chateau de Pennesuyt-t. Aktív napját a Bouvent Szabadidőpark friss levegőjén fejezze be.",
         "ro": "Începeți ziua de ciclism admirând exteriorul modern al Teatrului din Bourg-en-Bresse înainte de a pedala către istorica Poartă Jacobins. La prânz, asigurați-vă bicicleta pentru a explora Muzeul de Mecanografie. După-amiaza vă duce la emblematica Mănăstire Regală din Brou și apoi puțin mai departe pentru a vedea impunătorul Castel de Pennesuyt. Încheiați-vă ziua activă respirând aerul proaspăt din Parcul de Agrement Bouvent.",
-        "en": "Kick off your cycling day admiring the modern exterior of the Bourg-en-Bresse Theater before pedaling to the historic Jacobins Gate. By midday, lock your bike to explore the intriguing Musee de la Mecanographie and its vintage typewriters. Your afternoon takes you to the iconic Royal Monastery of Brou and then slightly outwards to view the imposing Chateau de Pennesuyt. End your active day breathing the fresh air at Bouvent Leisure Park."
+        "en": "Kick off your cycling day admiring the modern exterior of the Bourg-en-Bresse Theater before pedaling to the historic Jacobins Gate. By midday, lock your bike to explore the intriguing Musee de la Mecanographie and its vintage typewriters. Your afternoon takes you to the iconic Royal Monastery of Brou and then slightly outwards to view the imposing Chateau de Pennesuyt. End your active day breathing the fresh air at Bouvent Leisure Park.",
+        "fr": "Commencez votre journée à vélo en admirant l'extérieur moderne du Théâtre de Bourg-en-Bresse avant de pédaler jusqu'à la porte historique des Jacobins. En milieu de journée, accrochez votre vélo pour explorer l'intrigant Musée de la Mécanographie et ses machines à écrire anciennes. L'après-midi vous mène au monument emblématique du Monastère Royal de Brou puis un peu en dehors pour voir l'imposant Château de Pennesuyt. Terminez votre journée active en respirant l'air frais au Parc de Loisirs de Bouvent."
       },
       "variants": {
         "rainy": {
@@ -511,7 +563,8 @@
             "de": "Eine Radtour im Regen beginnt am Theater. Wir achten auf rutschige Straßen in der Innenstadt und nutzen Museen als trockene Stützpunkte. Die Fahrt zum Kloster Brou erfordert gute Regenbekleidung. Der Nachmittag am See in Bouvent ist grau, aber erfrischend, sofern man Schutzbleche am Rad hat. Der Tag endet mit einer vorsichtigen Fahrt zurück durch die nassen Gassen.",
             "hu": "Az esős bringázás a Színháznál indul. Figyelünk a belváros csúszós útjaira, a múzeumokat pedig száraz pihenőként használjuk. A Brou-i kolostorhoz vezető úton jó esőkabát kell. A délután a Bouvent-tónál szürke, de frissítő, ha van sárvédő a biciklin. A napot óvatos tekeréssel zárjuk a vizes utcákon, ügyelve a kanyarokra és a felfestésekre.",
             "ro": "O tură cu bicicleta prin ploaie începe la Teatru. Suntem atenți la străzile alunecoase din centru și folosim muzeele ca puncte de oprire uscate. Drumul către Mănăstirea Brou necesită echipament de ploaie bun. După-amiaza la lacul Bouvent este gri, dar revigorantă, cu condiția să aveți apărători la bicicletă. Ziua se încheie cu o deplasare precaută pe străzile ude.",
-            "en": "A rainy bike tour starts at the Theater. We watch out for slippery city streets and use museums as dry waypoints. Cycling to the Brou Monastery requires good rain gear. The afternoon at Bouvent Lake is grey but refreshing, provided your bike has mudguards. The day ends with a cautious ride back through the wet alleys, avoiding painted road markings."
+            "en": "A rainy bike tour starts at the Theater. We watch out for slippery city streets and use museums as dry waypoints. Cycling to the Brou Monastery requires good rain gear. The afternoon at Bouvent Lake is grey but refreshing, provided your bike has mudguards. The day ends with a cautious ride back through the wet alleys, avoiding painted road markings.",
+            "fr": "Une visite à vélo sous la pluie commence au Théâtre. Nous faisons attention aux rues glissantes et utilisons les musées comme points d'étape au sec. Se rendre au Monastère de Brou nécessite un bon équipement contre la pluie. L'après-midi au lac de Bouvent est gris mais revigorant, à condition que votre vélo ait des garde-boue. La journée se termine par une traversée prudente des ruelles mouillées, en évitant les marquages routiers peints."
           },
           "stops": [
             {
@@ -519,13 +572,15 @@
                 "de": "Theater von Bourg-en-Bresse",
                 "hu": "Bourg-en-Bresse-i Színház",
                 "ro": "Teatrul din Bourg-en-Bresse",
-                "en": "Bourg-en-Bresse Theater"
+                "en": "Bourg-en-Bresse Theater",
+                "fr": "Théâtre de Bourg-en-Bresse"
               },
               "tip_5lang": {
                 "de": "Parken Sie Ihr Rad unter dem Vordach, um den Helm trocken zu halten, während Sie kurz die Architektur bewundern.",
                 "hu": "Parkoljon az előtető alá, hogy szárazon tartsa a sisakját, miközben röviden megcsodálja a színház épületét.",
                 "ro": "Parcați bicicleta sub copertină pentru a păstra casca uscată în timp ce admirați scurt arhitectura teatrului.",
-                "en": "Park your bike under the canopy to keep your helmet and seat dry while you take a quick look at the theater's architecture."
+                "en": "Park your bike under the canopy to keep your helmet and seat dry while you take a quick look at the theater's architecture.",
+                "fr": "Garez votre vélo sous l'auvent pour garder votre casque et votre selle au sec pendant un rapide coup d'œil à l'architecture du théâtre."
               }
             },
             {
@@ -533,13 +588,15 @@
                 "de": "Jakobinertor",
                 "hu": "Jacobins-kapu",
                 "ro": "Poarta Iacobinilor",
-                "en": "Jacobins Gate"
+                "en": "Jacobins Gate",
+                "fr": "Porte des Jacobins"
               },
               "tip_5lang": {
                 "de": "Vorsicht beim Bremsen auf dem Kopfsteinpflaster unter dem Tor; es bietet aber einen guten Platz, um kurz die Karte zu checken.",
                 "hu": "Vigyázzon a fékezéssel a kapu alatti macskakövön; ugyanakkor jó hely arra, hogy esőben gyorsan ellenőrizze a térképet.",
                 "ro": "Atenție la frânarea pe pavajul de sub poartă; este totuși un loc bun pentru a verifica rapid harta la adăpost.",
-                "en": "Be careful when braking on the cobblestones under the gate; however, it provides a good dry spot to quickly check your map."
+                "en": "Be careful when braking on the cobblestones under the gate; however, it provides a good dry spot to quickly check your map.",
+                "fr": "Soyez prudent en freinant sur les pavés sous la porte ; toutefois, c'est un bon endroit sec pour vérifier rapidement votre carte."
               }
             },
             {
@@ -547,13 +604,15 @@
                 "de": "Museum für Mechanographie",
                 "hu": "Mechanográfiai Múzeum",
                 "ro": "Muzeul de Mecanografie",
-                "en": "Musee de la Mecanographie"
+                "en": "Musee de la Mecanographie",
+                "fr": "Musée de la Mécanographie"
               },
               "tip_5lang": {
                 "de": "Ein idealer Stopp, um sich aufzuwärmen; die filigranen Schreibmaschinen sind ein toller Kontrast zum trüben Wetter draußen.",
                 "hu": "Ideális megálló a bemelegedéshez; a filigrán írógépek látványa remek kontrasztot alkot a kinti borús, esős idővel.",
                 "ro": "O oprire ideală pentru a vă încălzi; mașinile de scris delicate oferă un contrast excelent cu vremea mohorâtă de afară.",
-                "en": "An ideal stop to warm up and dry off; the intricate typewriters offer a great contrast to the gloomy rainy weather outside."
+                "en": "An ideal stop to warm up and dry off; the intricate typewriters offer a great contrast to the gloomy rainy weather outside.",
+                "fr": "Un arrêt idéal pour se réchauffer et se sécher ; les machines à écrire complexes offrent un beau contraste avec le temps pluvieux et morose à l'extérieur."
               }
             },
             {
@@ -561,13 +620,15 @@
                 "de": "Königliches Kloster von Brou",
                 "hu": "Brou Királyi Kolostor",
                 "ro": "Mănăstirea Regală din Brou",
-                "en": "Royal Monastery of Brou"
+                "en": "Royal Monastery of Brou",
+                "fr": "Monastère Royal de Brou"
               },
               "tip_5lang": {
                 "de": "Nutzen Sie den Fahrradabstellplatz nah am Eingang und verbringen Sie viel Zeit im Inneren, um den Regen vorbeiziehen zu lassen.",
                 "hu": "Használja a bejárathoz közeli kerékpártárolót, és töltsön több időt bent, megvárva, amíg a komolyabb eső elvonul.",
                 "ro": "Folosiți parcarea de biciclete de lângă intrare și petreceți mai mult timp în interior pentru a lăsa ploaia să treacă.",
-                "en": "Use the bike parking near the entrance and spend extra time inside the sheltered areas to let the heaviest rain pass by."
+                "en": "Use the bike parking near the entrance and spend extra time inside the sheltered areas to let the heaviest rain pass by.",
+                "fr": "Utilisez le parking à vélos près de l'entrée et passez plus de temps dans les zones abritées pour laisser passer la pluie la plus forte."
               }
             },
             {
@@ -575,13 +636,15 @@
                 "de": "Schloss Pennesuyt",
                 "hu": "Pennesuyt Kastély",
                 "ro": "Castelul Pennesuyt",
-                "en": "Chateau de Pennesuyt"
+                "en": "Chateau de Pennesuyt",
+                "fr": "Château de Pennesuyt"
               },
               "tip_5lang": {
                 "de": "Die Auffahrt kann bei Regen matschig sein; genießen Sie den Blick auf das Schloss kurz und fahren Sie dann zügig weiter.",
                 "hu": "A feljáró esőben sáros lehet; élvezze rövid ideig a kastély látványát, majd tekerjen tovább a szilárdabb burkolatú utakon.",
                 "ro": "Aleea de acces poate fi noroioasă pe ploaie; bucurați-vă scurt de vederea castelului și continuați pe drumuri asfaltate.",
-                "en": "The driveway can be muddy in the rain; enjoy the view of the chateau briefly and then continue on paved paths to stay clean."
+                "en": "The driveway can be muddy in the rain; enjoy the view of the chateau briefly and then continue on paved paths to stay clean.",
+                "fr": "L'allée peut être boueuse par temps de pluie ; appréciez brièvement la vue du château puis poursuivez sur des chemins pavés pour rester propre."
               }
             },
             {
@@ -589,13 +652,15 @@
                 "de": "Freizeitpark Bouvent",
                 "hu": "Bouvent Szabadidőpark",
                 "ro": "Parcul de Agrement Bouvent",
-                "en": "Bouvent Leisure Park"
+                "en": "Bouvent Leisure Park",
+                "fr": "Parc de Loisirs de Bouvent"
               },
               "tip_5lang": {
                 "de": "Der See wirkt bei Regen mystisch; tragen Sie helle Kleidung, da die Sichtverhältnisse für Radfahrer im Park nun eingeschränkt sind.",
                 "hu": "A tó misztikus hangulatot áraszt esőben; viseljen élénk ruhát, mert a látási viszonyok a parkban most korlátozottabbak a bringásoknak.",
                 "ro": "Lacul are o atmosferă mistică pe ploaie; purtați haine reflectorizante, deoarece vizibilitatea în parc este redusă pentru bicicliști.",
-                "en": "The lake has a mystical vibe in the rain; wear high-visibility gear as visibility for cyclists in the park is reduced today."
+                "en": "The lake has a mystical vibe in the rain; wear high-visibility gear as visibility for cyclists in the park is reduced today.",
+                "fr": "Le lac a une ambiance mystique sous la pluie ; portez des vêtements haute visibilité car la visibilité des cyclistes dans le parc est réduite aujourd'hui."
               }
             }
           ]
@@ -605,7 +670,8 @@
             "de": "Ein kühler Wintertag auf dem Rad beginnt am Theater. Winddichte Kleidung ist für die Fahrt durch die Stadt entscheidend. Mittags bieten Museen eine willkommene Aufwärmpause. Die Strecke zum Schloss Pennesuyt ist bei klarem Himmel wunderschön. Vor dem Sonnenuntergang um 17:00 Uhr erreichen wir den Bouvent-Park, wo wir die winterliche Stille am See genießen, bevor wir im Dunkeln zurückradeln.",
             "hu": "A hűvös téli bringázás a Színháznál indul; a szélálló öltözet elengedhetetlen a városi tekeréshez. Délben a múzeumok kínálnak meleg pihenőt. A Pennesuyt-kastélyhoz vezető út tiszta égbolt mellett gyönyörű. Mivel 17:00-kor már sötétedik, a Bouvent-parkba még világosban érünk, hogy élvezzük a tó csendjét, majd lámpafénynél tekerünk vissza.",
             "ro": "O zi rece de iarnă pe bicicletă începe la Teatru; hainele rezistente la vânt sunt esențiale. La prânz, muzeele oferă o pauză caldă binevenită. Drumul către Castelul Pennesuyt este superb sub cerul senin. Înainte de apusul de la ora 17:00, ajungem în parcul Bouvent pentru a savura liniștea lacului, apoi ne întoarcem pe întuneric.",
-            "en": "A chilly winter day on the bike starts at the Theater; windproof clothing is key for the city ride. At noon, museums offer a welcome warm-up break. The route to Chateau de Pennesuyt is beautiful under a clear sky. Before the 17:00 sunset, we reach Bouvent Park to enjoy the winter silence by the lake, then cycle back using our bike lights."
+            "en": "A chilly winter day on the bike starts at the Theater; windproof clothing is key for the city ride. At noon, museums offer a welcome warm-up break. The route to Chateau de Pennesuyt is beautiful under a clear sky. Before the 17:00 sunset, we reach Bouvent Park to enjoy the winter silence by the lake, then cycle back using our bike lights.",
+            "fr": "Une journée hivernale froide à vélo commence au Théâtre ; des vêtements coupe-vent sont essentiels pour la traversée urbaine. À midi, les musées offrent une pause chaleureuse bienvenue. La route vers le Château de Pennesuyt est belle sous un ciel dégagé. Avant le coucher du soleil à 17:00, nous atteignons le Parc de Bouvent pour profiter du silence hivernal au bord du lac, puis rentrons en vélo en utilisant nos éclairages."
           },
           "stops": [
             {
@@ -613,13 +679,15 @@
                 "de": "Theater von Bourg-en-Bresse",
                 "hu": "Bourg-en-Bresse-i Színház",
                 "ro": "Teatrul din Bourg-en-Bresse",
-                "en": "Bourg-en-Bresse Theater"
+                "en": "Bourg-en-Bresse Theater",
+                "fr": "Théâtre de Bourg-en-Bresse"
               },
               "tip_5lang": {
                 "de": "Machen Sie Ihre Fotos schnell, bevor die Finger kalt werden; das Theater bildet eine prachtvolle Kulisse im klaren Winterlicht.",
                 "hu": "Készítsen gyorsan fotókat, mielőtt átfagynának az ujjai; a színház pompás hátteret nyújt a tiszta téli napsütésben.",
                 "ro": "Faceți pozele rapid înainte să vă înghețe degetele; teatrul oferă un fundal splendid în lumina clară de iarnă.",
-                "en": "Take your photos quickly before your fingers get cold; the theater provides a magnificent backdrop in the crisp winter light."
+                "en": "Take your photos quickly before your fingers get cold; the theater provides a magnificent backdrop in the crisp winter light.",
+                "fr": "Prenez vos photos rapidement avant que vos doigts ne gèlent ; le théâtre offre un magnifique décor sous la lumière hivernale vive."
               }
             },
             {
@@ -627,13 +695,15 @@
                 "de": "Jakobinertor",
                 "hu": "Jacobins-kapu",
                 "ro": "Poarta Iacobinilor",
-                "en": "Jacobins Gate"
+                "en": "Jacobins Gate",
+                "fr": "Porte des Jacobins"
               },
               "tip_5lang": {
                 "de": "Vorsicht bei Raureif auf den Steinen; treten Sie kräftig in die Pedale, um auf den offenen Straßenstücken warm zu bleiben.",
                 "hu": "Vigyázzon a köveken lévő zúzmarával; tekerjen egyenletesen, hogy testhőmérséklete kellemes maradjon a nyitottabb útszakaszokon is.",
                 "ro": "Atenție la chiciura de pe pavaj; pedalați constant pentru a vă menține căldura corporală pe porțiunile de drum deschise.",
-                "en": "Watch out for frost on the cobblestones; keep a steady pace to maintain your body heat on the more exposed sections of the route."
+                "en": "Watch out for frost on the cobblestones; keep a steady pace to maintain your body heat on the more exposed sections of the route.",
+                "fr": "Faites attention au givre sur les pavés ; adoptez un rythme constant pour garder votre chaleur corporelle sur les sections les plus exposées de l'itinéraire."
               }
             },
             {
@@ -641,13 +711,15 @@
                 "de": "Museum für Mechanographie",
                 "hu": "Mechanográfiai Múzeum",
                 "ro": "Muzeul de Mecanografie",
-                "en": "Musee de la Mecanographie"
+                "en": "Musee de la Mecanographie",
+                "fr": "Musée de la Mécanographie"
               },
               "tip_5lang": {
                 "de": "Nutzen Sie den Stopp, um die gefrorenen Glieder aufzutauen; die Innenräume sind gut beheizt und perfekt für eine ausgiebige Pause.",
                 "hu": "Használja ki a megállót az átfagyott végtagok felmelegítésére; a belső terek jól fűtöttek, tökéletesek egy hosszabb pihenőre.",
                 "ro": "Folosiți oprirea pentru a vă dezmorți membrele înghețate; interioarele sunt bine încălzite, fiind perfecte pentru o pauză lungă.",
-                "en": "Use this stop to thaw out your frozen limbs; the interiors are well-heated and perfect for a substantial mid-day break."
+                "en": "Use this stop to thaw out your frozen limbs; the interiors are well-heated and perfect for a substantial mid-day break.",
+                "fr": "Profitez de cet arrêt pour réchauffer vos membres engourdis ; les intérieurs sont bien chauffés et parfaits pour une pause conséquente en milieu de journée."
               }
             },
             {
@@ -655,13 +727,15 @@
                 "de": "Königliches Kloster von Brou",
                 "hu": "Brou Királyi Kolostor",
                 "ro": "Mănăstirea Regală din Brou",
-                "en": "Royal Monastery of Brou"
+                "en": "Royal Monastery of Brou",
+                "fr": "Monastère Royal de Brou"
               },
               "tip_5lang": {
                 "de": "Sichern Sie Ihr Rad und erkunden Sie die Anlage zu Fuß, um die Durchblutung zu fördern; die Kapelle ist ein windgeschützter Ruhepol.",
                 "hu": "Zárja le a biciklit és járja be gyalog a területet, hogy pezsdítse vérkeringését; a kápolna szélvédett és nyugodt pihenőhely.",
                 "ro": "Asigurați bicicleta și explorați situl pe jos pentru a vă activa circulația; capela este un loc liniștit și ferit de vânt.",
-                "en": "Secure your bike and explore the grounds on foot to boost your circulation; the chapel is a wind-protected haven of peace."
+                "en": "Secure your bike and explore the grounds on foot to boost your circulation; the chapel is a wind-protected haven of peace.",
+                "fr": "Accrochez votre vélo en sécurité et explorez les jardins à pied pour stimuler votre circulation ; la chapelle est un havre de paix protégé du vent."
               }
             },
             {
@@ -669,13 +743,15 @@
                 "de": "Schloss Pennesuyt",
                 "hu": "Pennesuyt Kastély",
                 "ro": "Castelul Pennesuyt",
-                "en": "Chateau de Pennesuyt"
+                "en": "Chateau de Pennesuyt",
+                "fr": "Château de Pennesuyt"
               },
               "tip_5lang": {
                 "de": "Das Schloss sieht im Winter mit den kahlen Bäumen dramatisch aus; achten Sie auf die Zeit, um vor der Dunkelheit am See zu sein.",
                 "hu": "A kastély drámaian fest a téli kopár fákkal; ügyeljen az időre, hogy még a sötétedés előtt elérje a közeli tavat.",
                 "ro": "Castelul arată dramatic cu copacii desfrunziți în fundal; fiți atenți la timp pentru a ajunge la lac înainte de întuneric.",
-                "en": "The chateau looks dramatic with the bare winter trees; keep an eye on the time to ensure you reach the lake before dusk."
+                "en": "The chateau looks dramatic with the bare winter trees; keep an eye on the time to ensure you reach the lake before dusk.",
+                "fr": "Le château a un aspect dramatique avec les arbres dépouillés de l'hiver ; surveillez l'heure pour être sûr d'atteindre le lac avant la tombée du jour."
               }
             },
             {
@@ -683,13 +759,15 @@
                 "de": "Freizeitpark Bouvent",
                 "hu": "Bouvent Szabadidőpark",
                 "ro": "Parcul de Agrement Bouvent",
-                "en": "Bouvent Leisure Park"
+                "en": "Bouvent Leisure Park",
+                "fr": "Parc de Loisirs de Bouvent"
               },
               "tip_5lang": {
                 "de": "Genießen Sie die klare Winterluft am Wasser, aber starten Sie den Rückweg rechtzeitig, bevor die Temperaturen nach 17 Uhr stark fallen.",
                 "hu": "Élvezze a friss téli levegőt a vízparton, de induljon vissza időben, mielőtt 17 óra után a hőmérséklet jelentősen visszaesne.",
                 "ro": "Bucurați-vă de aerul curat de iarnă lângă apă, dar porniți înapoi din timp, înainte ca temperaturile să scadă brusc după ora 17:00.",
-                "en": "Enjoy the crisp winter air by the water, but head back promptly as temperatures drop sharply after the 17:00 sunset."
+                "en": "Enjoy the crisp winter air by the water, but head back promptly as temperatures drop sharply after the 17:00 sunset.",
+                "fr": "Appréciez l'air vif de l'hiver au bord de l'eau, mais rentrez rapidement car les températures chutent fortement après le coucher du soleil à 17:00."
               }
             }
           ]
@@ -709,7 +787,8 @@
             "de": "Hôtel de Loras",
             "hu": "Hôtel de Loras",
             "ro": "Hôtel de Loras",
-            "en": "Hôtel de Loras"
+            "en": "Hôtel de Loras",
+            "fr": "Hôtel de Loras"
           },
           "coords": [
             5.222536,
@@ -724,7 +803,8 @@
             "de": "Betrachten Sie das elegante Mauerwerk dieses Herrenhauses und fotografieren Sie die Fassade im Morgenlicht, wenn die architektonischen Details besonders gut zur Geltung kommen.",
             "hu": "Figyelje meg e magánkúria elegáns kőművesmunkáját és klasszikus arányait, és fotózza le a homlokzatát a reggeli fényben, amikor az építészeti részletek kiemelkednek.",
             "ro": "Observați zidăria elegantă și proporțiile clasice ale acestui conac privat și fotografiați fațada sa în lumina dimineții, când detaliile arhitecturale ies în evidență.",
-            "en": "Observe the elegant stonework and classical proportions of this private mansion, and capture its facade in the morning light when the architectural details pop."
+            "en": "Observe the elegant stonework and classical proportions of this private mansion, and capture its facade in the morning light when the architectural details pop.",
+            "fr": "Observez la pierre élégante et les proportions classiques de cette demeure privée, et capturez sa façade à la lumière du matin quand les détails architecturaux ressortent."
           }
         },
         {
@@ -732,7 +812,8 @@
             "de": "Kathedrale Notre-Dame de Bourg",
             "hu": "Bourg-i Notre-Dame katedrális",
             "ro": "Catedrala Notre-Dame din Bourg",
-            "en": "Notre-Dame Cathedral of Bourg"
+            "en": "Notre-Dame Cathedral of Bourg",
+            "fr": "Cathédrale Notre-Dame de Bourg"
           },
           "coords": [
             5.227296,
@@ -747,7 +828,8 @@
             "de": "Bestaunen Sie die Renaissancefassade dieser Kathedrale und versuchen Sie, früh am Morgen zu kommen, wenn das Innere in ein weiches, sanftes Licht getaucht ist.",
             "hu": "Csodálja meg e fenséges katedrális reneszánsz homlokzatát, és próbáljon kora reggel érkezni, amikor a belső teret gyönyörű, lágy fény árasztja el.",
             "ro": "Minunați-vă de fațada renascentistă a acestei catedrale magnifice și încercați să o vizitați dimineața devreme, când interiorul este scăldat într-o lumină blândă.",
-            "en": "Marvel at the Renaissance facade of this magnificent cathedral, and try to visit early in the morning when the interior is bathed in a beautiful soft light."
+            "en": "Marvel at the Renaissance facade of this magnificent cathedral, and try to visit early in the morning when the interior is bathed in a beautiful soft light.",
+            "fr": "Émerveillez-vous devant la façade Renaissance de cette magnifique cathédrale et essayez de la visiter tôt le matin lorsque l'intérieur est baigné d'une douce lumière."
           }
         },
         {
@@ -755,7 +837,8 @@
             "de": "Apotheke des Hôtel-Dieu",
             "hu": "Hôtel-Dieu Patika",
             "ro": "Farmacia Hôtel-Dieu",
-            "en": "Hôtel-Dieu Apothecary"
+            "en": "Hôtel-Dieu Apothecary",
+            "fr": "Apothicairerie de l'Hôtel-Dieu"
           },
           "coords": [
             5.2333,
@@ -770,7 +853,8 @@
             "de": "Machen Sie eine Zeitreise zwischen erhaltenen Holzschränken und Gefäßen, aber denken Sie daran, dass das Fotografieren ohne Blitz oft erforderlich ist.",
             "hu": "Lépjen vissza az időben a tökéletesen megőrzött faszekrények és üvegek között, de ne feledje, hogy a műtárgyak védelme érdekében vaku nélkül fényképezzen.",
             "ro": "Pășiți înapoi în timp printre dulapurile și borcanele de lemn perfect conservate, dar rețineți că fotografierea fără bliț este necesară pentru a proteja obiectele.",
-            "en": "Step back in time among perfectly preserved wooden cabinets and jars, but remember that photography without flash is usually required to protect the artifacts."
+            "en": "Step back in time among perfectly preserved wooden cabinets and jars, but remember that photography without flash is usually required to protect the artifacts.",
+            "fr": "Faites un saut dans le passé parmi des meubles en bois et des pots parfaitement conservés, mais souvenez-vous que la photographie sans flash est généralement requise pour protéger les artefacts."
           }
         },
         {
@@ -778,7 +862,8 @@
             "de": "Königliches Kloster von Brou",
             "hu": "Brou Királyi Kolostor",
             "ro": "Mănăstirea Regală din Brou",
-            "en": "Royal Monastery of Brou"
+            "en": "Royal Monastery of Brou",
+            "fr": "Monastère Royal de Brou"
           },
           "coords": [
             5.236213,
@@ -793,7 +878,8 @@
             "de": "Erkunden Sie dieses Meisterwerk der Flamboyant-Gotik und buchen Sie Ihre Tickets unbedingt im Voraus online, um die langen Warteschlangen am Haupteingang zu umgehen.",
             "hu": "Fedezze fel a lángoló gótikus építészet e mesterművét, és mindenképpen foglaljon jegyet előre online, hogy elkerülje a hosszú sorokat a főbejáratnál.",
             "ro": "Explorați această capodoperă a arhitecturii gotice flamboaiante și asigurați-vă că rezervați bilete online din timp pentru a sări peste cozile lungi de la intrare.",
-            "en": "Explore this masterpiece of Flamboyant Gothic architecture, and make sure you reserve tickets online beforehand to skip the long queues at the main entrance."
+            "en": "Explore this masterpiece of Flamboyant Gothic architecture, and make sure you reserve tickets online beforehand to skip the long queues at the main entrance.",
+            "fr": "Explorez ce chef-d'œuvre de l'architecture gothique flamboyante et veillez à réserver vos billets en ligne à l'avance pour éviter les longues files d'attente à l'entrée principale."
           }
         },
         {
@@ -801,7 +887,8 @@
             "de": "Freizeitpark Bouvent",
             "hu": "Bouvent Szabadidőpark",
             "ro": "Parcul de Agrement Bouvent",
-            "en": "Bouvent Leisure Park"
+            "en": "Bouvent Leisure Park",
+            "fr": "Parc de Loisirs de Bouvent"
           },
           "coords": [
             5.25953,
@@ -816,7 +903,8 @@
             "de": "Entspannen Sie sich am See oder genießen Sie einen Spaziergang auf den Naturpfaden, und bringen Sie ein leichtes Picknick mit, das Sie an den Holztischen genießen können.",
             "hu": "Pihenjen a tó partján, vagy tegyen egy kellemes sétát a gondozott tanösvényeken, és ne felejtsen el egy könnyű pikniket hozni, amit a kijelölt faasztaloknál elfogyaszthat.",
             "ro": "Relaxați-vă lângă lac sau bucurați-vă de o plimbare pe potecile naturale bine întreținute și nu uitați să aduceți un picnic ușor pentru a-l savura la mesele de lemn.",
-            "en": "Relax by the lake or enjoy a pleasant stroll along the well-kept nature trails, and remember to bring a light picnic lunch to savor at the designated wooden tables."
+            "en": "Relax by the lake or enjoy a pleasant stroll along the well-kept nature trails, and remember to bring a light picnic lunch to savor at the designated wooden tables.",
+            "fr": "Détendez-vous au bord du lac ou profitez d'une agréable promenade le long des sentiers naturels bien entretenus, et n'oubliez pas d'apporter un léger pique-nique à savourer aux tables en bois prévues à cet effet."
           }
         },
         {
@@ -824,7 +912,8 @@
             "de": "Taschentheater",
             "hu": "Zsebszínház",
             "ro": "Teatrul de Buzunar",
-            "en": "Theatre de Poche"
+            "en": "Theatre de Poche",
+            "fr": "Théâtre de Poche"
           },
           "coords": [
             5.218616,
@@ -839,7 +928,8 @@
             "de": "Genießen Sie die intime Atmosphäre dieses charmanten kleinen Taschentheaters und besuchen Sie danach die angrenzenden Cafés, um bei einem Kaffee über Kultur zu plaudern.",
             "hu": "Szívja magába e bájos kis zsebszínház intim atmoszféráját, majd térjen be a szomszédos kávézókba, hogy egy kávé mellett megvitassa a helyi kulturális életet.",
             "ro": "Impregnați-vă de atmosfera intimă a acestui mic teatru de buzunar fermecător și treceți apoi pe la cafenelele adiacente pentru a discuta despre scena culturală locală.",
-            "en": "Soak in the intimate atmosphere of this charming little pocket theater, and drop by the adjacent cafes afterward to discuss the local cultural scene over coffee."
+            "en": "Soak in the intimate atmosphere of this charming little pocket theater, and drop by the adjacent cafes afterward to discuss the local cultural scene over coffee.",
+            "fr": "Plongez dans l'atmosphère intime de ce charmant petit théâtre et faites un tour dans les cafés adjacents ensuite pour discuter de la scène culturelle locale autour d'un café."
           }
         }
       ],
@@ -847,7 +937,8 @@
         "de": "Beginnen Sie Ihre Autotour am eleganten Hotel de Loras und bewundern Sie dessen klassische Fassade, bevor Sie einen kurzen Halt an der Kathedrale Notre-Dame einlegen. Mittags besuchen Sie die perfekt erhaltene Apotheke Hôtel-Dieu und fahren dann kurz zum unumgänglichen Königlichen Kloster Brou. Verbringen Sie den Nachmittag in der Natur des schönen Freizeitparks Bouvent. Beenden Sie Ihren Tagesausflug mit einer Fahrt zum Theatre de Poche.",
         "hu": "Kezdje autós túráját az elegáns Hotel de Loras-nál, majd tegyen egy rövid megállót a csodálatos Notre-Dame katedrálisnál. A dél a tökéletesen megőrzött Hôtel-Dieu Patikához vezet, amelyet egy rövid út követ a kihagyhatatlan Brou Királyi Kolostorhoz. Töltse a délutánt a természetben, a központon kívül fekvő gyönyörű Bouvent Szabadidőparkban. Zárja egynapos kirándulását azzal, hogy visszavezet a városba a bájos Theatre de Poche közelébe.",
         "ro": "Începeți turul cu mașina la elegantul Hotel de Loras, admirându-i fațada clasică înainte de o scurtă oprire la magnifica Catedrală Notre-Dame. Amiaza vă aduce la Farmacia Hôtel-Dieu perfect conservată, urmată de o scurtă plimbare până la Mănăstirea Regală din Brou. Petreceți-vă după-amiaza bucurându-vă de natură în frumosul Parc de Agrement Bouvent de la marginea orașului. Încheiați-vă excursia conducând înapoi pentru o seară lângă Theatre de Poche.",
-        "en": "Begin your driving tour at the elegant Hotel de Loras, soaking in its classical facade before a quick stop at the magnificent Notre-Dame Cathedral. Midday brings you to the perfectly preserved Hôtel-Dieu Apothecary, followed by a short drive to the unmissable Royal Monastery of Brou. Spend your afternoon enjoying nature and open spaces at the beautiful Bouvent Leisure Park just outside the center. Conclude your day trip near the charming Theatre de Poche."
+        "en": "Begin your driving tour at the elegant Hotel de Loras, soaking in its classical facade before a quick stop at the magnificent Notre-Dame Cathedral. Midday brings you to the perfectly preserved Hôtel-Dieu Apothecary, followed by a short drive to the unmissable Royal Monastery of Brou. Spend your afternoon enjoying nature and open spaces at the beautiful Bouvent Leisure Park just outside the center. Conclude your day trip near the charming Theatre de Poche.",
+        "fr": "Commencez votre circuit en voiture à l'élégant Hôtel de Loras, en admirant sa façade classique avant un arrêt rapide à la magnifique Cathédrale Notre-Dame. Le midi, rendez-vous à l'Apothicairerie parfaitement conservée de l'Hôtel-Dieu, puis faites une courte route jusqu'à l'incontournable Monastère Royal de Brou. Passez votre après-midi à profiter de la nature et des grands espaces au beau Parc de Loisirs de Bouvent juste en dehors du centre. Concluez votre excursion près du charmant Théâtre de Poche."
       },
       "variants": {
         "rainy": {
@@ -855,7 +946,8 @@
             "de": "Ein regnerischer Tag mit dem Auto ist komfortabel. Wir starten am Hôtel de Loras und nutzen die Nähe der Parkplätze zur Kathedrale. Mittags fahren wir trocken zum Hôtel-Dieu. Der Nachmittag führt uns zum Kloster Brou und zum Bouvent-See, wo wir den Regen vom Auto aus beobachten können. Der Tag endet gemütlich im kleinen Theater, geschützt vor dem nasskalten Wetter.",
             "hu": "Az esős nap kényelmes az autóval; a Loras-palotánál kezdünk, és kihasználjuk a katedrálishoz közeli parkolókat. Délben szárazon hajtunk az egykori patikához. A délután a Brou-i kolostorhoz és a Bouvent-tóhoz vezet, ahol az autó melegéből nézhetjük a vízen táncoló esőcseppeket. A napot a Zsebszínházban zárjuk, védve a kinti barátságtalan időtől.",
             "ro": "O zi ploioasă cu mașina este confortabilă. Începem la Hôtel de Loras și profităm de parcările din apropierea catedralei. La prânz conducem spre Farmacia Hôtel-Dieu feriți de ploaie. După-amiaza ne duce la Mănăstirea Brou și la lacul Bouvent, unde putem admira ploaia din mașină. Ziua se încheie plăcut la teatru, la adăpost de vremea umedă.",
-            "en": "A rainy day by car is comfortable; we start at Hôtel de Loras and use parking lots close to the cathedral. At noon, we drive dry to the Apothecary. The afternoon leads to the Brou Monastery and Bouvent Lake, where we can watch the rain from the warmth of the car. The day ends at the Theatre de Poche, perfectly sheltered from the wet weather."
+            "en": "A rainy day by car is comfortable; we start at Hôtel de Loras and use parking lots close to the cathedral. At noon, we drive dry to the Apothecary. The afternoon leads to the Brou Monastery and Bouvent Lake, where we can watch the rain from the warmth of the car. The day ends at the Theatre de Poche, perfectly sheltered from the wet weather.",
+            "fr": "Une journée pluvieuse en voiture est confortable ; nous commençons à l'Hôtel de Loras et utilisons les parkings proches de la cathédrale. À midi, nous roulons au sec jusqu'à l'Apothicairerie. L'après-midi mène au Monastère de Brou et au lac de Bouvent, où nous pouvons regarder la pluie depuis la chaleur de la voiture. La journée se termine au Théâtre de Poche, parfaitement abrité du mauvais temps."
           },
           "stops": [
             {
@@ -863,13 +955,15 @@
                 "de": "Hôtel de Loras",
                 "hu": "Hôtel de Loras",
                 "ro": "Hôtel de Loras",
-                "en": "Hôtel de Loras"
+                "en": "Hôtel de Loras",
+                "fr": "Hôtel de Loras"
               },
               "tip_5lang": {
                 "de": "Suchen Sie einen Parkplatz direkt in der Nähe, um den kurzen Weg zum Eingang ohne großen Schirm zu bewältigen.",
                 "hu": "Keressen parkolót közvetlenül a közelben, hogy a bejáratig tartó rövid utat akár ernyő nélkül is megtehesse az esőben.",
                 "ro": "Căutați un loc de parcare chiar în apropiere pentru a parcurge drumul scurt până la intrare fără a avea nevoie de o umbrelă mare.",
-                "en": "Find a parking spot directly nearby to keep the short walk to the entrance manageable even without a large umbrella."
+                "en": "Find a parking spot directly nearby to keep the short walk to the entrance manageable even without a large umbrella.",
+                "fr": "Trouvez une place de parking juste à proximité pour garder la courte marche jusqu'à l'entrée gérable même sans grand parapluie."
               }
             },
             {
@@ -877,13 +971,15 @@
                 "de": "Kathedrale Notre-Dame de Bourg",
                 "hu": "Bourg-i Notre-Dame katedrális",
                 "ro": "Catedrala Notre-Dame din Bourg",
-                "en": "Notre-Dame Cathedral of Bourg"
+                "en": "Notre-Dame Cathedral of Bourg",
+                "fr": "Cathédrale Notre-Dame de Bourg"
               },
               "tip_5lang": {
                 "de": "Lassen Sie die nassen Jacken im Auto und genießen Sie den Besuch im Trockenen; parken Sie am Place de l'Hôtel de Ville.",
                 "hu": "Hagyja a vizes kabátokat az autóban, és élvezze a látogatást szárazon; parkoljon a Place de l'Hôtel de Ville közeli helyein.",
                 "ro": "Lăsați jachetele ude în mașină și bucurați-vă de vizită la uscat; parcați în zona Place de l'Hôtel de Ville.",
-                "en": "Leave your wet jackets in the car and enjoy the visit in the dry interior; use the parking spots at Place de l'Hôtel de Ville."
+                "en": "Leave your wet jackets in the car and enjoy the visit in the dry interior; use the parking spots at Place de l'Hôtel de Ville.",
+                "fr": "Laissez vos vestes mouillées dans la voiture et profitez de la visite au sec ; utilisez les places de parking à la Place de l'Hôtel de Ville."
               }
             },
             {
@@ -891,13 +987,15 @@
                 "de": "Apotheke des Hôtel-Dieu",
                 "hu": "Hôtel-Dieu Patika",
                 "ro": "Farmacia Hôtel-Dieu",
-                "en": "Hôtel-Dieu Apothecary"
+                "en": "Hôtel-Dieu Apothecary",
+                "fr": "Apothicairerie de l'Hôtel-Dieu"
               },
               "tip_5lang": {
                 "de": "Das Auto bringt Sie direkt vor die Tür; ideal, wenn der Regen draußen stärker wird und Sie im Trockenen bleiben wollen.",
                 "hu": "Az autó szinte a bejáratig viszi; ideális megoldás, ha odakint felerősödik az eső, és Ön szeretne teljesen száraz maradni.",
                 "ro": "Mașina vă duce aproape de ușă; ideal dacă ploaia se intensifică afară și doriți să rămâneți complet uscat.",
-                "en": "The car gets you right to the doorstep; an ideal solution if the rain picks up and you want to stay perfectly dry between stops."
+                "en": "The car gets you right to the doorstep; an ideal solution if the rain picks up and you want to stay perfectly dry between stops.",
+                "fr": "La voiture vous dépose juste devant la porte ; une solution idéale si la pluie redouble et que vous souhaitez rester parfaitement au sec entre les étapes."
               }
             },
             {
@@ -905,13 +1003,15 @@
                 "de": "Königliches Kloster von Brou",
                 "hu": "Brou Királyi Kolostor",
                 "ro": "Mănăstirea Regală din Brou",
-                "en": "Royal Monastery of Brou"
+                "en": "Royal Monastery of Brou",
+                "fr": "Monastère Royal de Brou"
               },
               "tip_5lang": {
                 "de": "Nutzen Sie den großen Parkplatz direkt gegenüber; so sind Sie in Sekunden im überdachten Bereich des Klosters.",
                 "hu": "Használja a közvetlenül szemben lévő nagy parkolót; így pillanatok alatt elérheti a kolostor fedett részeit az eső elől.",
                 "ro": "Folosiți parcarea mare direct vizavi; astfel veți ajunge în câteva secunde în zona acoperită a mănăstirii.",
-                "en": "Utilize the large parking lot directly opposite; this allows you to reach the monastery's sheltered areas in just seconds."
+                "en": "Utilize the large parking lot directly opposite; this allows you to reach the monastery's sheltered areas in just seconds.",
+                "fr": "Profitez du grand parking situé juste en face ; cela vous permet d'atteindre les zones abritées du monastère en quelques secondes."
               }
             },
             {
@@ -919,13 +1019,15 @@
                 "de": "Freizeitpark Bouvent",
                 "hu": "Bouvent Szabadidőpark",
                 "ro": "Parcul de Agrement Bouvent",
-                "en": "Bouvent Leisure Park"
+                "en": "Bouvent Leisure Park",
+                "fr": "Parc de Loisirs de Bouvent"
               },
               "tip_5lang": {
                 "de": "Ein kurzer Drive-by oder Parken am Seeufer erlaubt tolle Ausblicke auf den See im Regen, ohne nass zu werden.",
                 "hu": "Egy rövid autózás a tóparton vagy parkolás a víz mellett remek kilátást nyújt az esős tóra anélkül, hogy bőrig ázna.",
                 "ro": "O scurtă plimbare cu mașina sau parcarea lângă mal oferă vederi excelente asupra lacului pe ploaie, fără a vă uda.",
-                "en": "A short drive-by or parking right by the shore offers great views of the rainy lake while you stay warm and dry inside."
+                "en": "A short drive-by or parking right by the shore offers great views of the rainy lake while you stay warm and dry inside.",
+                "fr": "Un court arrêt en voiture ou un stationnement au bord du rivage offre de belles vues sur le lac pluvieux tout en restant au chaud et au sec à l'intérieur."
               }
             },
             {
@@ -933,13 +1035,15 @@
                 "de": "Taschentheater",
                 "hu": "Zsebszínház",
                 "ro": "Teatrul de Buzunar",
-                "en": "Theatre de Poche"
+                "en": "Theatre de Poche",
+                "fr": "Théâtre de Poche"
               },
               "tip_5lang": {
                 "de": "Beenden Sie den Tag stressfrei; parken Sie in der Nähe und genießen Sie die Vorstellung, während draußen der Regen trommelt.",
                 "hu": "Zárja a napot stresszmentesen; parkoljon a közelben és élvezze az előadást, miközben odakint az eső dobol a tetőn.",
                 "ro": "Încheiați ziua fără stres; parcați în apropiere și bucurați-vă de spectacol în timp ce ploaia bate afară.",
-                "en": "End the day stress-free; find nearby parking and enjoy the performance while the rain drums on the roof outside."
+                "en": "End the day stress-free; find nearby parking and enjoy the performance while the rain drums on the roof outside.",
+                "fr": "Terminez la journée sans stress ; trouvez un parking à proximité et profitez du spectacle pendant que la pluie tambourine sur le toit."
               }
             }
           ]
@@ -949,7 +1053,8 @@
             "de": "Der Wintertag mit dem Auto beginnt warm am Hôtel de Loras. Kurze Wege zwischen den Sehenswürdigkeiten helfen, die Kälte zu meiden. Mittags wärmen wir uns in der Kathedrale und im Hôtel-Dieu auf. Die Fahrt zum winterlichen Bouvent-See bietet tolle Panoramen. Da es um 17:00 Uhr dunkel wird, erreichen wir das gemütliche Theater genau richtig zur abendlichen Vorstellung in wohligem Ambiente.",
             "hu": "A téli autós nap melegen indul a Loras-palotánál. A látnivalók közötti rövid távok segítenek elkerülni a tartós hideget. Délben a katedrálisban és a patikában melegedünk fel. Az autózás a téli Bouvent-tóhoz csodás panorámát kínál. Mivel 17:00-kor sötétedik, pont időben érünk a Zsebszínházba az esti előadásra, ahol kellemes, fűtött környezet vár ránk.",
             "ro": "Ziua de iarnă cu mașina începe la căldură la Hôtel de Loras. Distanțele scurte între obiective ajută la evitarea frigului. La prânz ne încălzim în catedrală și la farmacie. Drumul către lacul Bouvent oferă panorame de iarnă superbe. Deoarece se întunecă la ora 17:00, ajungem la teatru exact la timp pentru spectacolul de seară.",
-            "en": "The winter day by car starts warmly at Hôtel de Loras. Short drives between sights help minimize exposure to the cold. At noon, we warm up in the cathedral and the Apothecary. Driving to the wintery Bouvent Lake offers beautiful panoramas. As it gets dark by 17:00, we reach the cozy Theatre de Poche just in time for an evening performance in a warm setting."
+            "en": "The winter day by car starts warmly at Hôtel de Loras. Short drives between sights help minimize exposure to the cold. At noon, we warm up in the cathedral and the Apothecary. Driving to the wintery Bouvent Lake offers beautiful panoramas. As it gets dark by 17:00, we reach the cozy Theatre de Poche just in time for an evening performance in a warm setting.",
+            "fr": "La journée d'hiver en voiture commence chaleureusement à l'Hôtel de Loras. De courts trajets entre les sites aident à minimiser l'exposition au froid. À midi, nous nous réchauffons dans la cathédrale et à l'Apothicairerie. La route vers le lac hivernal de Bouvent offre de beaux panoramas. Comme il fait nuit à 17:00, nous atteignons le cosy Théâtre de Poche juste à temps pour une représentation en soirée au chaud."
           },
           "stops": [
             {
@@ -957,13 +1062,15 @@
                 "de": "Hôtel de Loras",
                 "hu": "Hôtel de Loras",
                 "ro": "Hôtel de Loras",
-                "en": "Hôtel de Loras"
+                "en": "Hôtel de Loras",
+                "fr": "Hôtel de Loras"
               },
               "tip_5lang": {
                 "de": "Heizen Sie das Auto vor; der prächtige Adelshof ist im Wintermorgenlicht besonders fotogen, bevor man schnell wieder ins Warme schlüpft.",
                 "hu": "Fűtse fel az autót; a pompás nemesi udvar a téli reggeli fényben különösen fotogén, mielőtt gyorsan visszahúzódna a melegbe.",
                 "ro": "Încălziți mașina în prealabil; curtea nobiliară este foarte fotogenică în lumina dimineții de iarnă înainte de a intra la căldură.",
-                "en": "Pre-heat your car; the magnificent noble courtyard is especially photogenic in the winter morning light before you hop back inside."
+                "en": "Pre-heat your car; the magnificent noble courtyard is especially photogenic in the winter morning light before you hop back inside.",
+                "fr": "Préchauffez votre voiture ; la magnifique cour noble est particulièrement photogénique à la lumière du matin hivernal avant de remonter à l'intérieur."
               }
             },
             {
@@ -971,13 +1078,15 @@
                 "de": "Kathedrale Notre-Dame de Bourg",
                 "hu": "Bourg-i Notre-Dame katedrális",
                 "ro": "Catedrala Notre-Dame din Bourg",
-                "en": "Notre-Dame Cathedral of Bourg"
+                "en": "Notre-Dame Cathedral of Bourg",
+                "fr": "Cathédrale Notre-Dame de Bourg"
               },
               "tip_5lang": {
                 "de": "Nutzen Sie die Parkplätze in der Nähe, um die Zeit an der kalten Luft zu minimieren und die Architektur entspannt zu bewundern.",
                 "hu": "Használja a közeli parkolóhelyeket, hogy minimálisra csökkentse a hideg levegőn töltött időt, és kényelmesen csodálhassa meg az épületet.",
                 "ro": "Folosiți locurile de parcare din apropiere pentru a minimiza timpul petrecut în aerul rece și pentru a admira arhitectura relaxat.",
-                "en": "Use the parking spaces nearby to minimize time spent in the freezing air and enjoy the cathedral's architecture at your own pace."
+                "en": "Use the parking spaces nearby to minimize time spent in the freezing air and enjoy the cathedral's architecture at your own pace.",
+                "fr": "Utilisez les places de parking à proximité pour limiter le temps passé dans l'air glacial et profitez de l'architecture de la cathédrale à votre rythme."
               }
             },
             {
@@ -985,13 +1094,15 @@
                 "de": "Apotheke des Hôtel-Dieu",
                 "hu": "Hôtel-Dieu Patika",
                 "ro": "Farmacia Hôtel-Dieu",
-                "en": "Hôtel-Dieu Apothecary"
+                "en": "Hôtel-Dieu Apothecary",
+                "fr": "Apothicairerie de l'Hôtel-Dieu"
               },
               "tip_5lang": {
                 "de": "Ein wunderbar beheizter Ort für den Mittag; lassen Sie sich Zeit bei der Führung, während draußen der Winterwind weht.",
                 "hu": "Csodálatosan fűtött helyszín délidőben; ne siessen a tárlatvezetéssel, amíg odakint fúj a fagyos téli szél.",
                 "ro": "Un loc minunat încălzit pentru prânz; nu vă grăbiți cu vizita în timp ce afară suflă vântul rece de iarnă.",
-                "en": "A wonderfully heated spot for midday; take your time with the tour while the winter wind blows outside."
+                "en": "A wonderfully heated spot for midday; take your time with the tour while the winter wind blows outside.",
+                "fr": "Un endroit merveilleusement chauffé pour le déjeuner ; prenez votre temps avec la visite pendant que le vent d'hiver souffle dehors."
               }
             },
             {
@@ -999,13 +1110,15 @@
                 "de": "Königliches Kloster von Brou",
                 "hu": "Brou Királyi Kolostor",
                 "ro": "Mănăstirea Regală din Brou",
-                "en": "Royal Monastery of Brou"
+                "en": "Royal Monastery of Brou",
+                "fr": "Monastère Royal de Brou"
               },
               "tip_5lang": {
                 "de": "Besuchen Sie das Kloster am frühen Nachmittag, um das flache Sonnenlicht zu nutzen, bevor die Temperaturen zum Abend hin fallen.",
                 "hu": "Látogasson el a kolostorba kora délután, hogy kihasználja a lapos napsugarakat, mielőtt este felé tovább hűlne a levegő.",
                 "ro": "Vizitați mănăstirea după-amiaza devreme pentru a profita de lumina soarelui înainte ca temperaturile să scadă spre seară.",
-                "en": "Visit the monastery in the early afternoon to enjoy the low winter sun before temperatures drop further towards the evening."
+                "en": "Visit the monastery in the early afternoon to enjoy the low winter sun before temperatures drop further towards the evening.",
+                "fr": "Visitez le monastère en début d'après-midi pour profiter du faible soleil d'hiver avant que les températures ne chutent davantage en soirée."
               }
             },
             {
@@ -1013,13 +1126,15 @@
                 "de": "Freizeitpark Bouvent",
                 "hu": "Bouvent Szabadidőpark",
                 "ro": "Parcul de Agrement Bouvent",
-                "en": "Bouvent Leisure Park"
+                "en": "Bouvent Leisure Park",
+                "fr": "Parc de Loisirs de Bouvent"
               },
               "tip_5lang": {
                 "de": "Genießen Sie den Blick auf den evtl. gefrorenen See aus dem warmen Auto; die Winterlandschaft ist hier besonders ruhig und weit.",
                 "hu": "Élvezze az esetleg befagyott tó látványát a meleg autóból; a téli táj itt különösen csendes és tágas ilyenkor.",
                 "ro": "Bucurați-vă de vederea lacului eventual înghețat din mașina caldă; peisajul de iarnă este foarte liniștit și vast aici.",
-                "en": "Enjoy the view of the potentially frozen lake from your warm car; the winter landscape here is exceptionally quiet and vast."
+                "en": "Enjoy the view of the potentially frozen lake from your warm car; the winter landscape here is exceptionally quiet and vast.",
+                "fr": "Appréciez la vue sur le lac potentiellement gelé depuis votre voiture chaude ; le paysage hivernal y est exceptionnellement calme et vaste."
               }
             },
             {
@@ -1027,13 +1142,15 @@
                 "de": "Taschentheater",
                 "hu": "Zsebszínház",
                 "ro": "Teatrul de Buzunar",
-                "en": "Theatre de Poche"
+                "en": "Theatre de Poche",
+                "fr": "Théâtre de Poche"
               },
               "tip_5lang": {
                 "de": "Der perfekte Abschluss im Warmen; da es um 17:00 Uhr dunkel ist, wirkt die beleuchtete Theaterfront besonders einladend.",
                 "hu": "A tökéletes befejezés a melegben; mivel 17:00-kor már sötét van, a kivilágított színház homlokzata hívogatóan fest.",
                 "ro": "Finalul perfect la căldură; deoarece se întunecă la ora 17:00, fațada iluminată a teatrului pare foarte primitoare.",
-                "en": "The perfect finale in the warmth; since it's dark by 17:00, the lit theater front looks particularly inviting and cozy."
+                "en": "The perfect finale in the warmth; since it's dark by 17:00, the lit theater front looks particularly inviting and cozy.",
+                "fr": "La finale parfaite au chaud ; comme il fait nuit à 17:00, la façade éclairée du théâtre paraît particulièrement accueillante et cosy."
               }
             }
           ]

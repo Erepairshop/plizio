@@ -21,7 +21,8 @@
             "de": "Turmhaus",
             "hu": "Toronyház",
             "ro": "Casa cu Turelă",
-            "en": "Turret House"
+            "en": "Turret House",
+            "fr": "Turret House"
           },
           "coords": [
             6.998645,
@@ -36,7 +37,8 @@
             "de": "Bewundern Sie das ikonische Turmhaus, ein Zeugnis des mittelalterlichen Erbes von Delle, und fotografieren Sie unbedingt den markanten Eckturm vom Platz aus.",
             "hu": "Csodálja meg az ikonikus Toronyházat, Delle középkori örökségének e lenyűgöző emlékét, és mindenképpen fotózza le a jellegzetes saroktornyot a térről.",
             "ro": "Admirați emblematica Casă cu Turelă, o mărturie a moștenirii medievale a orașului Delle, și asigurați-vă că fotografiați turnul de colț distinctiv din piață.",
-            "en": "Admire the iconic Turret House, a testament to Delle's medieval heritage, and be sure to photograph the distinctive corner tower from the square."
+            "en": "Admire the iconic Turret House, a testament to Delle's medieval heritage, and be sure to photograph the distinctive corner tower from the square.",
+            "fr": "Admirez l’emblématique Turret House, témoignage du patrimoine médiéval de Delle, et pensez à photographier la tour d’angle distinctive depuis la place."
           }
         },
         {
@@ -44,7 +46,8 @@
             "de": "Spielplatz de l'Egalité",
             "hu": "Egalité Játszótér",
             "ro": "Loc de joacă Egalité",
-            "en": "Egalité Playground"
+            "en": "Egalité Playground",
+            "fr": "Egalité Playground"
           },
           "coords": [
             7.001283,
@@ -59,7 +62,8 @@
             "de": "Machen Sie eine entspannende Pause in diesem familienfreundlichen Park, der Kindern einen tollen Spielplatz und Erwachsenen ein ruhiges Picknick bietet.",
             "hu": "Tartson egy pihentető szünetet ebben a családbarát parkban, amely remek játékteret kínál a gyerekeknek, a felnőttek pedig élvezhetik a békés piknikezést.",
             "ro": "Faceți o pauză relaxantă în acest parc pentru familii, care oferă un loc minunat de joacă pentru copii și un spațiu de picnic liniștit pentru adulți.",
-            "en": "Take a relaxing break at this family-friendly park, which offers a great spot for kids to play and adults to enjoy a peaceful picnic under the trees."
+            "en": "Take a relaxing break at this family-friendly park, which offers a great spot for kids to play and adults to enjoy a peaceful picnic under the trees.",
+            "fr": "Faites une pause relaxante dans ce parc familial, idéal pour que les enfants jouent pendant que les adultes profitent d’un pique-nique paisible à l’ombre des arbres."
           }
         },
         {
@@ -67,7 +71,8 @@
             "de": "Rathaus Delle",
             "hu": "Delle Városháza",
             "ro": "Primăria Delle",
-            "en": "Delle Town Hall"
+            "en": "Delle Town Hall",
+            "fr": "Delle Town Hall"
           },
           "coords": [
             7.004781,
@@ -82,7 +87,8 @@
             "de": "Erkunden Sie das bürgerliche Herz der Stadt im eleganten Rathaus und werfen Sie einen Blick auf die Informationstafeln, um anstehende Veranstaltungen zu entdecken.",
             "hu": "Fedezze fel a város polgári központját az elegáns Városházánál, és tekintse meg a hirdetőtáblákat a közelgő izgalmas közösségi eseményekért.",
             "ro": "Explorați inima civică a orașului la eleganta Primărie, un centru al administrației locale, și verificați avizierele pentru evenimentele comunitare viitoare.",
-            "en": "Explore the civic heart of the city at the elegant Town Hall, a hub of local administration, and check the notice boards for upcoming community events."
+            "en": "Explore the civic heart of the city at the elegant Town Hall, a hub of local administration, and check the notice boards for upcoming community events.",
+            "fr": "Découvrez le cœur civique de la ville à l’élégante mairie, centre de l’administration locale, et consultez les panneaux d’affichage pour les événements communautaires à venir."
           }
         },
         {
@@ -90,7 +96,8 @@
             "de": "Église Saint-André",
             "hu": "Église Saint-André",
             "ro": "Église Saint-André",
-            "en": "Église Saint-André"
+            "en": "Église Saint-André",
+            "fr": "Église Saint-André"
           },
           "coords": [
             7.00161,
@@ -105,7 +112,8 @@
             "de": "Besuchen Sie diese historische religiöse Stätte, um ihre wunderschöne Architektur zu bewundern, und treten Sie leise ein, um die friedliche Atmosphäre zu spüren.",
             "hu": "Látogasson el ehhez a történelmi vallási helyszínhez, csodálja meg gyönyörű építészetét, és lépjen be csendben, hogy megtapasztalja a békés atmoszférát.",
             "ro": "Vizitați acest sit religios istoric pentru a-i aprecia arhitectura frumoasă și pășiți înăuntru în liniște pentru a experimenta atmosfera senină și contemplativă.",
-            "en": "Visit this historic religious site to appreciate its beautiful architecture, and step inside quietly to experience the serene, contemplative atmosphere."
+            "en": "Visit this historic religious site to appreciate its beautiful architecture, and step inside quietly to experience the serene, contemplative atmosphere.",
+            "fr": "Visitez ce site religieux historique pour apprécier sa belle architecture et entrez discrètement pour ressentir l’atmosphère sereine et contemplative."
           }
         },
         {
@@ -113,7 +121,8 @@
             "de": "Chapelle Sainte-Véronique",
             "hu": "Chapelle Sainte-Véronique",
             "ro": "Chapelle Sainte-Véronique",
-            "en": "Chapelle Sainte-Véronique"
+            "en": "Chapelle Sainte-Véronique",
+            "fr": "Chapelle Sainte-Véronique"
           },
           "coords": [
             7.005983,
@@ -128,7 +137,8 @@
             "de": "Entdecken Sie diese bezaubernde, ruhige Kapelle im nördlichen Teil der Stadt, die der perfekte Ort ist, um eine Kerze anzuzünden und den Tag ausklingen zu lassen.",
             "hu": "Fedezze fel ezt a bájos és csendes kápolnát a város északi részén, amely tökéletes helyszín arra, hogy gyújtson egy gyertyát és elmélkedjen a napjáról.",
             "ro": "Descoperiți această capelă fermecătoare și liniștită din nordul orașului, locul perfect pentru a aprinde o lumânare și a reflecta asupra zilei dumneavoastră.",
-            "en": "Discover this charming and quiet chapel nestled in the northern part of town, making it the perfect final spot to light a candle and reflect on your day."
+            "en": "Discover this charming and quiet chapel nestled in the northern part of town, making it the perfect final spot to light a candle and reflect on your day.",
+            "fr": "Découvrez cette charmante et tranquille chapelle nichée dans la partie nord de la ville, parfait endroit pour allumer une bougie et réfléchir à la fin de la journée."
           }
         }
       ],
@@ -136,7 +146,8 @@
         "de": "Beginnen Sie Ihren Morgen mit der Erkundung des historischen Turmhauses und spüren Sie den mittelalterlichen Puls. Die Mittagszeit lädt zu einem entspannten Spaziergang durch den Familienpark ein. Am Nachmittag entdecken Sie das bürgerliche Zentrum, bevor Sie im Norden die Kirche Saint-André bewundern. Gegen Abend finden Sie Ruhe in der Chapelle Sainte-Véronique.",
         "hu": "Kezdje a reggelt a történelmi Toronyház felfedezésével, átérezve a város középkori lüktetését. A dél egy pihentető sétára csábít a helyi családi parkban, amely tökéletes egy rövid pihenőre. Délután fedezze fel a polgári központot, mielőtt északra indulna. Ahogy közeledik az este, találjon nyugalmat a Chapelle Sainte-Véronique-nál, lezárva a sétát.",
         "ro": "Începeți-vă dimineața explorând istorica Casă cu Turelă, simțind pulsul medieval al orașului. Amiaza vă invită la o plimbare relaxată prin parcul local, perfect pentru odihnă. După-amiaza, descoperiți centrul civic înainte de a vă îndrepta spre nord pentru a admira Église Saint-André. Pe măsură ce se apropie seara, găsiți liniștea la Chapelle Sainte-Véronique.",
-        "en": "Start your morning exploring the historic Turret House, feeling the town's medieval pulse. Midday invites a relaxed stroll through the local family park, perfect for a short rest. In the afternoon, discover the civic center before heading north to admire Église Saint-André. As evening approaches, find tranquility at Chapelle Sainte-Véronique, wrapping up a charming walk."
+        "en": "Start your morning exploring the historic Turret House, feeling the town's medieval pulse. Midday invites a relaxed stroll through the local family park, perfect for a short rest. In the afternoon, discover the civic center before heading north to admire Église Saint-André. As evening approaches, find tranquility at Chapelle Sainte-Véronique, wrapping up a charming walk.",
+        "fr": "Commencez votre matinée par la visite du Turret House historique, en ressentant le pouls médiéval de la ville. À midi, profitez d’une promenade détendue dans le parc familial local, idéal pour un court repos. L’après-midi, découvrez le centre civique avant de vous diriger vers le nord pour admirer l’Église Saint-André. En soirée, trouvez la tranquillité à la Chapelle Sainte-Véronique pour conclure agréablement votre promenade."
       },
       "variants": {
         "rainy": {
@@ -144,7 +155,8 @@
             "de": "Delle zeigt bei Regen einen ganz besonderen Charme, wenn die historischen Fassaden glänzen. Der Vormittag beginnt geschützt am Turmhaus, bevor wir den kurzen Weg zum Rathaus antreten. Mittags bieten die massiven Mauern der Kirchen idealen Schutz vor den Güssen. Der Nachmittag endet ruhig in der besinnlichen Atmosphäre der Kapelle, während man draußen dem Prasseln der Tropfen lauscht.",
             "hu": "Delle történelmi utcái esőben is különleges hangulatot árasztanak, a vizes aszfalton megcsillannak a régi épületek fényei. A reggelt a patinás Toronyháznál kezdjük, ahol az ereszek alatt húzódhatunk meg. Délben a városháza környékén sétálunk, majd a délutánt a Saint-André templom és a Véronique kápolna vastag falai között töltjük, ahol szárazon és békében élvezhetjük a szakrális csendet.",
             "ro": "Delle capătă un farmec aparte sub ploaie, când fațadele istorice strălucesc reflectate în pavaj. Dimineața începe la Casa cu Turelă, oferind un refugiu vizual rapid. La prânz, ne îndreptăm spre primărie, folosind umbrela între opriri. După-amiaza este dedicată bisericilor orașului, care oferă adăpost perfect și o atmosferă meditativă în timp ce stropii bat în vitralii, încheind ziua într-un decor liniștit.",
-            "en": "Delle reveals a unique atmosphere in the rain, with its historical stone facades glistening under the grey sky. The morning starts at the Turret House, where the nearby eaves offer brief shelter. At noon, we visit the Town Hall before seeking the dry comfort of the city's churches. The afternoon is spent inside the peaceful Saint-André and Sainte-Véronique, listening to the rain on the roof."
+            "en": "Delle reveals a unique atmosphere in the rain, with its historical stone facades glistening under the grey sky. The morning starts at the Turret House, where the nearby eaves offer brief shelter. At noon, we visit the Town Hall before seeking the dry comfort of the city's churches. The afternoon is spent inside the peaceful Saint-André and Sainte-Véronique, listening to the rain on the roof.",
+            "fr": "Delle révèle une atmosphère unique sous la pluie, ses façades de pierre historique brillant sous le ciel gris. La matinée commence au Turret House, où les avant-toits offrent un court abri. À midi, nous visitons la mairie avant de chercher le confort sec des églises de la ville. L’après-midi se passe dans les paisibles Saint-André et Sainte-Véronique, à l’écoute de la pluie sur le toit."
           },
           "stops": [
             {
@@ -152,13 +164,15 @@
                 "de": "Turmhaus",
                 "hu": "Toronyház",
                 "ro": "Casa cu Turelă",
-                "en": "Turret House"
+                "en": "Turret House",
+                "fr": "Turret House"
               },
               "tip_5lang": {
                 "de": "Betrachten Sie die kunstvollen Details der Fassade vom gegenüberliegenden Dachvorsprung aus, um trocken zu bleiben und die dunklen Steine zu bewundern.",
                 "hu": "Csodálja meg a homlokzat részleteit a szemközti épület eresze alól, így szárazon láthatja, ahogy az eső kiemeli az ősi kövek mély tónusait.",
                 "ro": "Admirați detaliile sculptate ale fațadei adăpostindu-vă sub streșinile caselor de vis-à-vis, unde piatra veche pare mai întunecată și mai impunătoare.",
-                "en": "Observe the intricate facade details from the eaves across the street to stay dry while seeing how the rain deepens the natural colors of the stone."
+                "en": "Observe the intricate facade details from the eaves across the street to stay dry while seeing how the rain deepens the natural colors of the stone.",
+                "fr": "Observez les détails complexes de la façade depuis les avant-toits de l’autre côté de la rue pour rester au sec tout en voyant comment la pluie intensifie les couleurs naturelles de la pierre."
               }
             },
             {
@@ -166,13 +180,15 @@
                 "de": "Spielplatz de l'Egalité",
                 "hu": "Egalité Játszótér",
                 "ro": "Loc de joacă Egalité",
-                "en": "Egalité Playground"
+                "en": "Egalité Playground",
+                "fr": "Egalité Playground"
               },
               "tip_5lang": {
                 "de": "Ein kurzer Aufenthalt unter den Bäumen ist ratsam; prüfen Sie die Spielgeräte auf Nässe, bevor die Kinder die rutschigen Oberflächen nutzen.",
                 "hu": "Csak egy rövid megállót javasolunk a fák alatt; mindenképpen ellenőrizze a játékok felületét, mert a csúszdák ilyenkor rendkívül gyorssá és veszélyessé válnak.",
                 "ro": "Se recomandă doar o oprire scurtă sub copaci; verificați dacă echipamentele sunt ude înainte de a lăsa copiii pe suprafețele care devin foarte alunecoase.",
-                "en": "A brief stop under the trees is best; ensure you wipe down any seating and check that slides aren't too slippery before letting children play."
+                "en": "A brief stop under the trees is best; ensure you wipe down any seating and check that slides aren't too slippery before letting children play.",
+                "fr": "Un bref arrêt sous les arbres est idéal ; essuyez bien les sièges et vérifiez que les toboggans ne sont pas trop glissants avant de laisser jouer les enfants."
               }
             },
             {
@@ -180,13 +196,15 @@
                 "de": "Rathaus Delle",
                 "hu": "Delle Városháza",
                 "ro": "Primăria Delle",
-                "en": "Delle Town Hall"
+                "en": "Delle Town Hall",
+                "fr": "Delle Town Hall"
               },
               "tip_5lang": {
                 "de": "Nutzen Sie das große Eingangsportal als Treffpunkt, um den nächsten Regenschauer abzuwarten und dabei die Architektur des Stadtzentrums zu beobachten.",
                 "hu": "Használja a városháza tágas bejárati csarnokát vagy az előtetőt menedékként, amíg eláll az intenzív zápor, és figyelje a városközpont lüktetését.",
                 "ro": "Folosiți portalul mare de la intrare ca punct de întâlnire pentru a aștepta trecerea unei averse, observând arhitectura civică din centrul orașului.",
-                "en": "Utilize the large entrance portal as a temporary shelter to wait out a heavy downpour while observing the bustling civic life of the town center."
+                "en": "Utilize the large entrance portal as a temporary shelter to wait out a heavy downpour while observing the bustling civic life of the town center.",
+                "fr": "Utilisez le large portail d’entrée comme abri temporaire pour attendre qu’une grosse averse se calme tout en observant la vie civique animée du centre-ville."
               }
             },
             {
@@ -194,13 +212,15 @@
                 "de": "Église Saint-André",
                 "hu": "Église Saint-André",
                 "ro": "Église Saint-André",
-                "en": "Église Saint-André"
+                "en": "Église Saint-André",
+                "fr": "Église Saint-André"
               },
               "tip_5lang": {
                 "de": "Genießen Sie die hervorragende Akustik des Innenraums, während das Trommeln des Regens auf dem Dach eine fast mystische Hintergrundmusik bildet.",
                 "hu": "Élvezze a belső tér kiváló akusztikáját, miközben a tetőn dobogó eső zaja különleges, szinte misztikus háttérzenét szolgáltat a látogatáshoz.",
                 "ro": "Bucurați-vă de acustica excelentă a interiorului în timp ce sunetul ploii pe acoperiș creează o coloană sonoră mistică pentru explorarea voastră.",
-                "en": "Enjoy the excellent interior acoustics while the rhythmic drumming of rain on the roof provides a mystical soundtrack to your exploration."
+                "en": "Enjoy the excellent interior acoustics while the rhythmic drumming of rain on the roof provides a mystical soundtrack to your exploration.",
+                "fr": "Profitez de l’excellente acoustique intérieure pendant que le bruit rythmique de la pluie sur le toit offre une bande-son mystique à votre exploration."
               }
             },
             {
@@ -208,13 +228,15 @@
                 "de": "Chapelle Sainte-Véronique",
                 "hu": "Chapelle Sainte-Véronique",
                 "ro": "Chapelle Sainte-Véronique",
-                "en": "Chapelle Sainte-Véronique"
+                "en": "Chapelle Sainte-Véronique",
+                "fr": "Chapelle Sainte-Véronique"
               },
               "tip_5lang": {
                 "de": "Der Zugangsweg kann bei Regen rutschig sein; tragen Sie festes Schuhwerk und nutzen Sie die Kapelle als besinnlichen, trockenen Abschluss.",
                 "hu": "A kápolnához vezető út esőben csúszóssá válhat, ezért válasszon tapadós talpú cipőt; a belső tér tökéletes menedék a túra végén.",
                 "ro": "Aleea de acces poate fi alunecoasă pe ploaie; purtați încălțăminte cu aderență bună și folosiți interiorul capelei pentru un final de zi uscat.",
-                "en": "The access path can become slippery in the rain; wear sturdy footwear and use the chapel’s interior as a serene, dry conclusion to your walk."
+                "en": "The access path can become slippery in the rain; wear sturdy footwear and use the chapel’s interior as a serene, dry conclusion to your walk.",
+                "fr": "Le chemin d’accès peut devenir glissant sous la pluie ; portez des chaussures solides et utilisez l’intérieur de la chapelle comme conclusion sereine et au sec de votre promenade."
               }
             }
           ]
@@ -224,7 +246,8 @@
             "de": "Der Wintermorgen in Delle beginnt frisch und klar am geschichtsträchtigen Turmhaus. Die Kälte beißt, doch die kurzen Wege zwischen den Sehenswürdigkeiten machen die Tour angenehm. Mittags wärmen wir uns kurz im Zentrum auf, bevor wir die Kirchen besuchen. Da die Sonne bereits gegen 17:00 Uhr untergeht, genießen wir das goldene Licht des späten Nachmittags an der Kapelle.",
             "hu": "A téli reggel friss és tiszta levegővel köszönt ránk a történelmi Toronyháznál. A hideg ellenére a látnivalók közötti rövid távolságok könnyen bejárhatók. Délben a városközpontban keresünk egy meleg pontot, majd a templomok belső nyugalmát élvezzük. Mivel 17:00 körül már sötétedik, a Véronique kápolna környékén már az alkonyi fényekben gyönyörködhetünk.",
             "ro": "Dimineața de iarnă în Delle este crocantă și rece, începând la istorica Casă cu Turelă. Distanțele scurte între obiective fac plimbarea suportabilă chiar și la temperaturi scăzute. La prânz explorăm centrul civic, iar după-amiaza ne refugiem în interiorul bisericilor încălzite. Apusul timpuriu, în jur de ora 17:00, aduce o lumină aurie superbă peste Capela Sainte-Véronique.",
-            "en": "A winter morning in Delle starts with crisp air at the historic Turret House. The bite of the cold is offset by the short walking distances between sites. At noon, we explore the town hall area before retreating to the peaceful interiors of the churches. With sunset arriving early around 17:00, the late afternoon light creates a magical glow near the chapel."
+            "en": "A winter morning in Delle starts with crisp air at the historic Turret House. The bite of the cold is offset by the short walking distances between sites. At noon, we explore the town hall area before retreating to the peaceful interiors of the churches. With sunset arriving early around 17:00, the late afternoon light creates a magical glow near the chapel.",
+            "fr": "Une matinée d’hiver à Delle commence par l’air vif au Turret House historique. Le froid est compensé par les courtes distances à pied entre les sites. À midi, nous explorons le secteur de la mairie avant de nous retirer dans les intérieurs paisibles des églises. Avec le coucher du soleil arrivant tôt vers 17:00, la lumière de fin d’après-midi crée une lueur magique près de la chapelle."
           },
           "stops": [
             {
@@ -232,13 +255,15 @@
                 "de": "Turmhaus",
                 "hu": "Toronyház",
                 "ro": "Casa cu Turelă",
-                "en": "Turret House"
+                "en": "Turret House",
+                "fr": "Turret House"
               },
               "tip_5lang": {
                 "de": "Kommen Sie früh am Morgen, wenn der Raureif die alten Steine überzieht und dem Gebäude ein märchenhaftes, winterliches Aussehen verleiht.",
                 "hu": "Érkezzen korán reggel, amikor a dér még belepi az ódon köveket, és mesebeli, zúzmarás külsőt kölcsönöz ennek a különleges történelmi épületnek.",
                 "ro": "Veniți dimineața devreme când chiciura acoperă pietrele vechi, oferind clădirii un aspect de poveste în lumina rece a soarelui de iarnă.",
-                "en": "Visit early in the morning when the frost still covers the old stones, giving the building a fairy-tale, wintery appearance in the low sun."
+                "en": "Visit early in the morning when the frost still covers the old stones, giving the building a fairy-tale, wintery appearance in the low sun.",
+                "fr": "Visitez tôt le matin lorsque le givre couvre encore les vieilles pierres, donnant au bâtiment une apparence féerique et hivernale sous le faible soleil."
               }
             },
             {
@@ -246,13 +271,15 @@
                 "de": "Spielplatz de l'Egalité",
                 "hu": "Egalité Játszótér",
                 "ro": "Loc de joacă Egalité",
-                "en": "Egalité Playground"
+                "en": "Egalité Playground",
+                "fr": "Egalité Playground"
               },
               "tip_5lang": {
                 "de": "Die Metallteile der Spielgeräte sind im Winter extrem kalt; bringen Sie warme Handschuhe für die Kinder mit, damit sie trotzdem spielen können.",
                 "hu": "A játszótéri eszközök fém részei télen nagyon lehűlnek; adjon a gyerekekre vastag kesztyűt, hogy a hideg ne vegye el a kedvüket a mászástól.",
                 "ro": "Elementele metalice ale jocurilor sunt extrem de reci iarna; asigurați-vă că cei mici poartă mănuși groase pentru a se putea juca confortabil.",
-                "en": "The metal parts of the playground equipment are freezing in winter; make sure children wear thick gloves to enjoy the activities comfortably."
+                "en": "The metal parts of the playground equipment are freezing in winter; make sure children wear thick gloves to enjoy the activities comfortably.",
+                "fr": "Les parties métalliques des jeux sont glacées en hiver ; assurez-vous que les enfants portent des gants épais pour profiter des activités confortablement."
               }
             },
             {
@@ -260,13 +287,15 @@
                 "de": "Rathaus Delle",
                 "hu": "Delle Városháza",
                 "ro": "Primăria Delle",
-                "en": "Delle Town Hall"
+                "en": "Delle Town Hall",
+                "fr": "Delle Town Hall"
               },
               "tip_5lang": {
                 "de": "Das Rathaus ist oft festlich beleuchtet; nutzen Sie die Wärme im Inneren für eine kurze Informationspause, bevor es zurück in den Frost geht.",
                 "hu": "A városháza környéke télen ünnepi fényekben úszik; ugorjon be egy pillanatra tájékozódni, hogy kicsit átmelegedjen a következő állomás előtt.",
                 "ro": "Primăria este adesea iluminată festiv; folosiți holul de la intrare pentru a vă încălzi câteva minute și pentru a consulta hărțile turistice locale.",
-                "en": "The town hall area is often festively lit; use the warmth of the entrance hall for a quick break to warm up before heading back into the frost."
+                "en": "The town hall area is often festively lit; use the warmth of the entrance hall for a quick break to warm up before heading back into the frost.",
+                "fr": "Le secteur de la mairie est souvent illuminé pour les fêtes ; utilisez la chaleur du hall d’entrée pour une courte pause et vous réchauffer avant de retourner dans le gel."
               }
             },
             {
@@ -274,13 +303,15 @@
                 "de": "Église Saint-André",
                 "hu": "Église Saint-André",
                 "ro": "Église Saint-André",
-                "en": "Église Saint-André"
+                "en": "Église Saint-André",
+                "fr": "Église Saint-André"
               },
               "tip_5lang": {
                 "de": "Die dicken Kirchenmauern halten die Kälte draußen; nutzen Sie den Ort für eine besinnliche Pause in relativer Wärme und Ruhe.",
                 "hu": "A templom vastag falai jól szigetelnek a külső fagy ellen; használja ki a helyet egy csendes elmélyülésre és a lábai pihentetésére a relatív melegben.",
                 "ro": "Zidurile groase ale bisericii oferă o barieră naturală împotriva gerului; profitați de liniștea interioară pentru a vă relaxa într-un mediu mai cald.",
-                "en": "The thick church walls provide a natural barrier against the freezing wind; enjoy a peaceful moment of reflection in relative warmth and quiet."
+                "en": "The thick church walls provide a natural barrier against the freezing wind; enjoy a peaceful moment of reflection in relative warmth and quiet.",
+                "fr": "Les murs épais de l’église constituent une barrière naturelle contre le vent glacial ; profitez d’un moment de réflexion paisible dans une relative chaleur et tranquillité."
               }
             },
             {
@@ -288,13 +319,15 @@
                 "de": "Chapelle Sainte-Véronique",
                 "hu": "Chapelle Sainte-Véronique",
                 "ro": "Chapelle Sainte-Véronique",
-                "en": "Chapelle Sainte-Véronique"
+                "en": "Chapelle Sainte-Véronique",
+                "fr": "Chapelle Sainte-Véronique"
               },
               "tip_5lang": {
                 "de": "Besuchen Sie die Kapelle kurz vor 17:00 Uhr, um den Sonnenuntergang über der winterlichen Landschaft zu erleben, bevor es dunkel wird.",
                 "hu": "Látogasson el ide nem sokkal 17:00 előtt, hogy lássa a téli táj feletti naplementét, mielőtt a sötétség teljesen átveszi az uralmat a domboldalon.",
                 "ro": "Vizitați capela cu puțin timp înainte de ora 17:00 pentru a surprinde apusul peste peisajul hibernal, oferind o priveliște memorabilă înainte de seară.",
-                "en": "Visit the chapel shortly before 17:00 to catch the winter sunset over the landscape, providing a memorable view before the early darkness sets in."
+                "en": "Visit the chapel shortly before 17:00 to catch the winter sunset over the landscape, providing a memorable view before the early darkness sets in.",
+                "fr": "Visitez la chapelle peu avant 17:00 pour admirer le coucher du soleil hivernal sur le paysage, offrant une vue mémorable avant l’arrivée précoce de l’obscurité."
               }
             }
           ]
@@ -314,7 +347,8 @@
             "de": "Turmhaus",
             "hu": "Toronyház",
             "ro": "Casa cu Turelă",
-            "en": "Turret House"
+            "en": "Turret House",
+            "fr": "Turret House"
           },
           "coords": [
             6.998645,
@@ -329,7 +363,8 @@
             "de": "Bewundern Sie das ikonische Turmhaus, ein Zeugnis des mittelalterlichen Erbes von Delle, und fotografieren Sie unbedingt den markanten Eckturm vom Platz aus.",
             "hu": "Csodálja meg az ikonikus Toronyházat, Delle középkori örökségének e lenyűgöző emlékét, és mindenképpen fotózza le a jellegzetes saroktornyot a térről.",
             "ro": "Admirați emblematica Casă cu Turelă, o mărturie a moștenirii medievale a orașului Delle, și asigurați-vă că fotografiați turnul de colț distinctiv din piață.",
-            "en": "Admire the iconic Turret House, a testament to Delle's medieval heritage, and be sure to photograph the distinctive corner tower from the square."
+            "en": "Admire the iconic Turret House, a testament to Delle's medieval heritage, and be sure to photograph the distinctive corner tower from the square.",
+            "fr": "Admirez l’emblématique Turret House, témoignage du patrimoine médiéval de Delle, et pensez à photographier la tour d’angle distinctive depuis la place."
           }
         },
         {
@@ -337,7 +372,8 @@
             "de": "Rathaus Delle",
             "hu": "Delle Városháza",
             "ro": "Primăria Delle",
-            "en": "Delle Town Hall"
+            "en": "Delle Town Hall",
+            "fr": "Delle Town Hall"
           },
           "coords": [
             7.004781,
@@ -352,7 +388,8 @@
             "de": "Erkunden Sie das bürgerliche Herz der Stadt im eleganten Rathaus und werfen Sie einen Blick auf die Informationstafeln, um anstehende Veranstaltungen zu entdecken.",
             "hu": "Fedezze fel a város polgári központját az elegáns Városházánál, és tekintse meg a hirdetőtáblákat a közelgő izgalmas közösségi eseményekért.",
             "ro": "Explorați inima civică a orașului la eleganta Primărie, un centru al administrației locale, și verificați avizierele pentru evenimentele comunitare viitoare.",
-            "en": "Explore the civic heart of the city at the elegant Town Hall, a hub of local administration, and check the notice boards for upcoming community events."
+            "en": "Explore the civic heart of the city at the elegant Town Hall, a hub of local administration, and check the notice boards for upcoming community events.",
+            "fr": "Découvrez le cœur civique de la ville à l’élégante mairie, centre de l’administration locale, et consultez les panneaux d’affichage pour les événements communautaires à venir."
           }
         },
         {
@@ -360,7 +397,8 @@
             "de": "Schwimmbad Les Hémionées",
             "hu": "Les Hémionées Uszoda",
             "ro": "Piscina Les Hémionées",
-            "en": "Les Hémionées Pool"
+            "en": "Les Hémionées Pool",
+            "fr": "Les Hémionées Pool"
           },
           "coords": [
             7.011474,
@@ -375,7 +413,8 @@
             "de": "Genießen Sie aktive Freizeit in diesem modernen öffentlichen Schwimmbad und denken Sie daran, Ihren Badeanzug für ein erfrischendes Bad einzupacken.",
             "hu": "Élvezze az aktív pihenést ebben a modern nyilvános medencében, ezért ne felejtse el magával hozni a fürdőruháját és törölközőjét egy frissítő csobbanáshoz.",
             "ro": "Bucurați-vă de o relaxare activă la această piscină publică modernă, așa că nu uitați să vă împachetați costumul de baie pentru o baie revigorantă.",
-            "en": "Enjoy some active leisure at this modern public pool, offering a refreshing swim, so remember to pack your swimsuit and a towel for a revitalizing dip."
+            "en": "Enjoy some active leisure at this modern public pool, offering a refreshing swim, so remember to pack your swimsuit and a towel for a revitalizing dip.",
+            "fr": "Profitez d’un loisir actif dans cette piscine municipale moderne, offrant une baignade rafraîchissante ; pensez à emporter votre maillot et une serviette pour un bain revigorant."
           }
         },
         {
@@ -383,7 +422,8 @@
             "de": "Tour de Milandre",
             "hu": "Tour de Milandre",
             "ro": "Tour de Milandre",
-            "en": "Tour de Milandre"
+            "en": "Tour de Milandre",
+            "fr": "Tour de Milandre"
           },
           "coords": [
             7.015286,
@@ -398,7 +438,8 @@
             "de": "Machen Sie eine Zeitreise bei diesem beeindruckenden Burgturm und tragen Sie festes Schuhwerk, um die raue, historische Umgebung sicher zu erkunden.",
             "hu": "Lépjen vissza az időben ennél a lenyűgöző kastélytoronynál, amely évszázadokon át őrizte a régiót, és viseljen masszív cipőt a környék felfedezéséhez.",
             "ro": "Întoarceți-vă în timp la acest turn formidabil de castel care a păzit regiunea timp de secole și purtați încălțăminte rezistentă pentru a-i explora împrejurimile.",
-            "en": "Step back in time at this formidable castle tower, which guarded the region for centuries, and wear sturdy shoes to safely explore its rugged surroundings."
+            "en": "Step back in time at this formidable castle tower, which guarded the region for centuries, and wear sturdy shoes to safely explore its rugged surroundings.",
+            "fr": "Remontez le temps à cette imposante tour de château qui a gardé la région pendant des siècles ; portez des chaussures solides pour explorer en toute sécurité ses abords escarpés."
           }
         },
         {
@@ -406,7 +447,8 @@
             "de": "Belvédère du Mont Renaud",
             "hu": "Belvédère du Mont Renaud",
             "ro": "Belvédère du Mont Renaud",
-            "en": "Belvédère du Mont Renaud"
+            "en": "Belvédère du Mont Renaud",
+            "fr": "Belvédère du Mont Renaud"
           },
           "coords": [
             7.034011,
@@ -421,7 +463,8 @@
             "de": "Beenden Sie Ihre Reise an diesem atemberaubenden natürlichen Aussichtspunkt, der einen Panoramablick bietet, den Sie am besten am späten Nachmittag genießen.",
             "hu": "Zárja utazását ezen a lenyűgöző természetes kilátón, amely panorámás kilátást nyújt a tájra, és amelyet a késő délutáni fényekben a legjobb élvezni.",
             "ro": "Încheiați-vă călătoria la acest punct de belvedere natural uimitor care oferă priveliști panoramice, cel mai bine savurate cu un aparat foto după-amiaza târziu.",
-            "en": "End your journey at this stunning natural viewpoint offering panoramic vistas of the surrounding landscapes, best enjoyed with a camera during the late afternoon."
+            "en": "End your journey at this stunning natural viewpoint offering panoramic vistas of the surrounding landscapes, best enjoyed with a camera during the late afternoon.",
+            "fr": "Terminez votre parcours à ce superbe point de vue naturel offrant des panoramas sur les paysages environnants, idéal avec un appareil photo en fin d’après-midi."
           }
         }
       ],
@@ -429,7 +472,8 @@
         "de": "Beginnen Sie Ihren Radtag am historischen Turmhaus und dem belebten Rathaus direkt im Zentrum. Mittags radeln Sie zur Piscine Les Hémionées für eine erfrischende Pause. Die Nachmittagsroute führt Sie weiter nach Süden, um die rauen Ruinen der Tour de Milandre zu erkunden. Beenden Sie Ihren Tag mit einer Fahrt zum Belvédère du Mont Renaud.",
         "hu": "Indítsa kerékpáros napját a történelmi Toronyháznál és a nyüzsgő Városházánál a központban. Délben tekerjen a Piscine Les Hémionées felé egy frissítő szünetre. A délutáni útvonal délebbre visz, hogy felfedezze a Tour de Milandre vadregényes romjait. Zárja a napot azzal, hogy felteker a Belvédère du Mont Renaud-hoz a lélegzetelállító esti kilátásért.",
         "ro": "Începeți-vă ziua de ciclism la istorica Casă cu Turelă și la Primăria plină de viață din centru. Până la prânz, pedalați spre Piscine Les Hémionées pentru o pauză. Traseul de după-amiază vă duce mai la sud pentru a explora ruinele aspre ale Tour de Milandre. Încheiați-vă ziua urcând la Belvédère du Mont Renaud pentru priveliști uluitoare de seară.",
-        "en": "Kick off your cycling day at the historic Turret House and the bustling Town Hall right in the center. By midday, pedal towards Piscine Les Hémionées for an invigorating break. The afternoon route takes you further south to explore the rugged ruins of Tour de Milandre. Conclude your day riding up to Belvédère du Mont Renaud for breathtaking evening views."
+        "en": "Kick off your cycling day at the historic Turret House and the bustling Town Hall right in the center. By midday, pedal towards Piscine Les Hémionées for an invigorating break. The afternoon route takes you further south to explore the rugged ruins of Tour de Milandre. Conclude your day riding up to Belvédère du Mont Renaud for breathtaking evening views.",
+        "fr": "Commencez votre journée à vélo au Turret House historique et à la mairie animée en plein centre. À midi, pédalez vers la Piscine Les Hémionées pour une pause tonique. L’après-midi, dirigez-vous vers le sud pour explorer les ruines escarpées de la Tour de Milandre. Concluez la journée en montant au Belvédère du Mont Renaud pour des vues saisissantes en soirée."
       },
       "variants": {
         "rainy": {
@@ -437,7 +481,8 @@
             "de": "Radfahren in Delle bei Regen erfordert Vorsicht, besonders auf den Kopfsteinpflasterabschnitten. Am Vormittag erkunden wir das Zentrum, wobei das Turmhaus einen schnellen Stopp bietet. Mittags suchen wir Schutz im Schwimmbad Les Hémionées – ein idealer Ort, um trocken aktiv zu bleiben. Der Nachmittag führt uns zur Burgruine, wobei wir auf den schlammigen Wegen besonders aufmerksam fahren.",
             "hu": "Az esős Delle-ben a kerékpározás óvatosságot igényel, főleg a csúszós macskaköveken. Reggel a belvárosban kezdünk, majd délben a Les Hémionées uszoda fedett medencéiben keresünk menedéket a záporok elől. Délután a Milandre torony felé vesszük az irányt, de ügyelünk a felázott talajra az erdei szakaszokon, mielőtt a kilátóhoz érnénk.",
             "ro": "Ciclismul în Delle pe timp de ploaie necesită atenție sporită, mai ales pe secțiunile cu pavaj. Dimineața vizităm centrul, apoi la prânz ne refugiem la piscina Les Hémionées pentru a rămâne activi la adăpost. După-amiaza pedalăm spre Tour de Milandre, fiind atenți la porțiunile de drum noroioase care pot deveni dificile pentru bicicletele de oraș.",
-            "en": "Cycling through Delle in the rain demands caution, especially on slippery cobblestones. We start in the center, then spend the midday hours at Les Hémionées Pool to stay active while dry. The afternoon takes us toward the Tour de Milandre, where extra care is needed on potentially muddy paths before reaching the viewpoint."
+            "en": "Cycling through Delle in the rain demands caution, especially on slippery cobblestones. We start in the center, then spend the midday hours at Les Hémionées Pool to stay active while dry. The afternoon takes us toward the Tour de Milandre, where extra care is needed on potentially muddy paths before reaching the viewpoint.",
+            "fr": "Faire du vélo à Delle sous la pluie nécessite de la prudence, surtout sur les pavés glissants. Commencez au centre, puis passez la mi-journée aux Hémionées pour rester actif à l’abri. L’après-midi, dirigez-vous vers la Tour de Milandre, où il faut redoubler de vigilance sur des sentiers boueux avant d’atteindre le belvédère."
           },
           "stops": [
             {
@@ -445,13 +490,15 @@
                 "de": "Turmhaus",
                 "hu": "Toronyház",
                 "ro": "Casa cu Turelă",
-                "en": "Turret House"
+                "en": "Turret House",
+                "fr": "Turret House"
               },
               "tip_5lang": {
                 "de": "Stellen Sie Ihr Fahrrad unter dem nächsten Vorsprung ab; die nassen Pflastersteine vor dem Haus sind bei Regen extrem rutschig für Reifen.",
                 "hu": "Parkoljon le a legközelebbi előtető alatt; a ház előtti vizes macskakövek rendkívül csúszósak lehetnek a kerékpárgumik számára.",
                 "ro": "Parcați bicicleta sub cea mai apropiată streașină; pavajul umed din fața casei devine foarte alunecos pentru anvelopele de bicicletă.",
-                "en": "Park your bike under a nearby overhang; the wet cobblestones in front of the house are extremely slippery for bicycle tires when it rains."
+                "en": "Park your bike under a nearby overhang; the wet cobblestones in front of the house are extremely slippery for bicycle tires when it rains.",
+                "fr": "Garez votre vélo sous un auvent proche ; les pavés mouillés devant la maison sont extrêmement glissants pour les pneus de vélo quand il pleut."
               }
             },
             {
@@ -459,13 +506,15 @@
                 "de": "Rathaus Delle",
                 "hu": "Delle Városháza",
                 "ro": "Primăria Delle",
-                "en": "Delle Town Hall"
+                "en": "Delle Town Hall",
+                "fr": "Delle Town Hall"
               },
               "tip_5lang": {
                 "de": "Das Rathaus bietet im überdachten Eingangsbereich einen guten Platz, um die Regenkleidung zu richten und die Karte für die Weiterfahrt zu prüfen.",
                 "hu": "A városháza fedett bejárata remek hely az esőruha megigazítására és az útvonal ellenőrzésére, mielőtt nekivágna a távolabbi pontoknak.",
                 "ro": "Intrarea acoperită a primăriei este un loc bun pentru a vă ajusta pelerina de ploaie și pentru a verifica traseul pe hartă înainte de a pleca.",
-                "en": "The sheltered entrance of the town hall is a great spot to adjust your rain gear and double-check your route before heading further out."
+                "en": "The sheltered entrance of the town hall is a great spot to adjust your rain gear and double-check your route before heading further out.",
+                "fr": "L’entrée abritée de la mairie est un excellent endroit pour ajuster votre équipement de pluie et vérifier votre itinéraire avant de poursuivre."
               }
             },
             {
@@ -473,13 +522,15 @@
                 "de": "Schwimmbad Les Hémionées",
                 "hu": "Les Hémionées Uszoda",
                 "ro": "Piscina Les Hémionées",
-                "en": "Les Hémionées Pool"
+                "en": "Les Hémionées Pool",
+                "fr": "Les Hémionées Pool"
               },
               "tip_5lang": {
                 "de": "Dies ist der perfekte Ort für einen Regentag; nutzen Sie die beheizten Innenbecken, um warm zu werden, während es draußen schüttet.",
                 "hu": "Ez a tökéletes megálló esős időben; használja a fedett, fűtött medencéket, hogy átmelegedjen és aktívan töltse az időt, amíg odakint esik.",
                 "ro": "Acesta este refugiul ideal pe timp de ploaie; profitați de bazinele interioare încălzite pentru a vă relaxa în timp ce afară plouă torențial.",
-                "en": "This is the perfect rainy-day stop; enjoy the indoor heated pools to stay warm and active while waiting for the weather to clear up outside."
+                "en": "This is the perfect rainy-day stop; enjoy the indoor heated pools to stay warm and active while waiting for the weather to clear up outside.",
+                "fr": "C’est l’arrêt idéal les jours de pluie ; profitez des bassins intérieurs chauffés pour rester au chaud et actif en attendant l’amélioration du temps."
               }
             },
             {
@@ -487,13 +538,15 @@
                 "de": "Tour de Milandre",
                 "hu": "Tour de Milandre",
                 "ro": "Tour de Milandre",
-                "en": "Tour de Milandre"
+                "en": "Tour de Milandre",
+                "fr": "Tour de Milandre"
               },
               "tip_5lang": {
                 "de": "Der Weg zum Turm führt durch Waldstücke; achten Sie auf nasses Laub und Schlamm, die den Bremsweg Ihres Rades erheblich verlängern können.",
                 "hu": "A toronyhoz vezető út erdős szakaszokon át vezet; ügyeljen a nedves levelekre és a sárra, mert ezek jelentősen megnövelik a féktávot.",
                 "ro": "Traseul spre turn trece prin zone împădurite; atenție la frunzele ude și noroi, care pot mări considerabil distanța de frânare a bicicletei.",
-                "en": "The path to the tower goes through wooded areas; watch out for wet leaves and mud, which can significantly increase your braking distance."
+                "en": "The path to the tower goes through wooded areas; watch out for wet leaves and mud, which can significantly increase your braking distance.",
+                "fr": "Le chemin vers la tour traverse des zones boisées ; attention aux feuilles mouillées et à la boue, qui peuvent augmenter sensiblement votre distance de freinage."
               }
             },
             {
@@ -501,13 +554,15 @@
                 "de": "Belvédère du Mont Renaud",
                 "hu": "Belvédère du Mont Renaud",
                 "ro": "Belvédère du Mont Renaud",
-                "en": "Belvédère du Mont Renaud"
+                "en": "Belvédère du Mont Renaud",
+                "fr": "Belvédère du Mont Renaud"
               },
               "tip_5lang": {
                 "de": "Der Aussichtspunkt ist ungeschützt; tragen Sie eine windfeste Regenjacke, um den Blick auf das neblige Tal trotz des Wetters zu genießen.",
                 "hu": "A kilátópont teljesen nyitott, így az eső mellett a szélre is készülni kell; egy szélálló esőkabátban a ködös völgy látványa is lenyűgöző.",
                 "ro": "Punctul de belvedere este complet expus; purtați o jachetă impermeabilă și rezistentă la vânt pentru a admira valea cețoasă în siguranță.",
-                "en": "The viewpoint is fully exposed; wear a windproof rain jacket to enjoy the dramatic view of the misty valley despite the wet conditions."
+                "en": "The viewpoint is fully exposed; wear a windproof rain jacket to enjoy the dramatic view of the misty valley despite the wet conditions.",
+                "fr": "Le belvédère est complètement exposé ; portez une veste imperméable et coupe-vent pour profiter de la vue spectaculaire sur la vallée brumeuse malgré l'humidité."
               }
             }
           ]
@@ -517,7 +572,8 @@
             "de": "Eine Winterradtour durch Delle erfordert warme Kleidung und Schichten gegen den Fahrtwind. Morgens erkunden wir die Altstadt, wo die Kälte in den Gassen steht. Mittags bietet das Schwimmbad Les Hémionées eine willkommene Aufwärmpause im warmen Wasser. Nachmittags geht es hinauf zum Mont Renaud, um das letzte Tageslicht vor dem frühen Sonnenuntergang um 17:00 Uhr einzufangen.",
             "hu": "A téli kerékpározás Delle-ben réteges öltözködést igényel a menetszél miatt. A reggelt az óvárosban kezdjük, ahol a hideg levegő megül a szűk utcákban. Délben a Les Hémionées uszoda meleg vize nyújt tökéletes felfrissülést. Délután tempósan tekerünk a Mont Renaud felé, hogy még az 17:00 órai naplemente előtt elérjük a panorámát.",
             "ro": "O tură cu bicicleta iarna prin Delle necesită echipament adecvat împotriva vântului rece. Dimineața explorăm centrul istoric, unde gerul persistă pe străduțe. La prânz, piscina Les Hémionées este locul perfect pentru o pauză de încălzire. După-amiaza urcăm spre Mont Renaud, grăbind pasul pentru a prinde lumina zilei înainte de apusul de la ora 17:00.",
-            "en": "Winter cycling in Delle requires thermal layers to combat the cold wind. We start the morning in the old town where the frost lingers in narrow alleys. At noon, Les Hémionées Pool offers a welcome chance to warm up in heated water. The afternoon climb to Mont Renaud must be timed well to catch the view before the 17:00 sunset."
+            "en": "Winter cycling in Delle requires thermal layers to combat the cold wind. We start the morning in the old town where the frost lingers in narrow alleys. At noon, Les Hémionées Pool offers a welcome chance to warm up in heated water. The afternoon climb to Mont Renaud must be timed well to catch the view before the 17:00 sunset.",
+            "fr": "Le cyclisme hivernal à Delle exige des couches thermiques pour lutter contre le vent froid. Nous commençons la matinée dans la vieille ville où le givre persiste dans les ruelles étroites. À midi, la piscine Les Hémionées offre une occasion bienvenue de se réchauffer dans une eau chauffée. La montée de l'après-midi au Mont Renaud doit être bien chronométrée pour attraper la vue avant le coucher du soleil à 17:00."
           },
           "stops": [
             {
@@ -525,13 +581,15 @@
                 "de": "Turmhaus",
                 "hu": "Toronyház",
                 "ro": "Casa cu Turelă",
-                "en": "Turret House"
+                "en": "Turret House",
+                "fr": "Turret House"
               },
               "tip_5lang": {
                 "de": "Tragen Sie warme Handschuhe, da der Lenker und die Bremshebel bei Minusgraden sehr kalt werden und die Finger schnell taub machen können.",
                 "hu": "Viseljen vastag, szélálló kesztyűt, mert a kormány és a fékkarok a fagypont alatt nagyon lehűlnek, és az ujjak hamar elgémberedhetnek.",
                 "ro": "Purtați mănuși termice, deoarece ghidonul și manetele de frână devin foarte reci la temperaturi negative, amorțind rapid degetele.",
-                "en": "Wear warm, windproof gloves as the handlebar and brake levers get extremely cold in sub-zero temperatures, quickly numbing your fingers."
+                "en": "Wear warm, windproof gloves as the handlebar and brake levers get extremely cold in sub-zero temperatures, quickly numbing your fingers.",
+                "fr": "Portez des gants chauds et coupe-vent car le guidon et les leviers de frein deviennent extrêmement froids en dessous de zéro, engourdissant rapidement les doigts."
               }
             },
             {
@@ -539,13 +597,15 @@
                 "de": "Rathaus Delle",
                 "hu": "Delle Városháza",
                 "ro": "Primăria Delle",
-                "en": "Delle Town Hall"
+                "en": "Delle Town Hall",
+                "fr": "Delle Town Hall"
               },
               "tip_5lang": {
                 "de": "Prüfen Sie hier den Luftdruck Ihrer Reifen; bei Kälte sinkt der Druck oft, was das Treten auf dem Weg zum Mont Renaud erschweren kann.",
                 "hu": "Ellenőrizze itt a guminyomást; a nagy hidegben a nyomás gyakran leesik, ami megnehezíti a tekerést a későbbi emelkedőkön.",
                 "ro": "Verificați presiunea în anvelope aici; la temperaturi scăzute, presiunea tinde să scadă, îngreunând pedalatul pe urcările ce urmează.",
-                "en": "Check your tire pressure here; in extreme cold, pressure often drops, making the upcoming climb to Mont Renaud much harder than usual."
+                "en": "Check your tire pressure here; in extreme cold, pressure often drops, making the upcoming climb to Mont Renaud much harder than usual.",
+                "fr": "Vérifiez la pression des pneus ici ; par grand froid, la pression baisse souvent, rendant la montée vers le Mont Renaud beaucoup plus difficile que d'habitude."
               }
             },
             {
@@ -553,13 +613,15 @@
                 "de": "Schwimmbad Les Hémionées",
                 "hu": "Les Hémionées Uszoda",
                 "ro": "Piscina Les Hémionées",
-                "en": "Les Hémionées Pool"
+                "en": "Les Hémionées Pool",
+                "fr": "Les Hémionées Pool"
               },
               "tip_5lang": {
                 "de": "Nutzen Sie die Sauna oder das warme Becken, um Ihre Muskulatur nach der Fahrt in der Kälte zu lockern und die Durchblutung anzuregen.",
                 "hu": "Használja a szaunát vagy a meleg vizes medencét, hogy ellazítsa izmait a hidegben való tekerés után, és serkentse a vérkeringését.",
                 "ro": "Folosiți sauna sau bazinul cald pentru a vă relaxa musculatura contractată de frig și pentru a stimula circulația înainte de drum.",
-                "en": "Take advantage of the sauna or heated pool to loosen your muscles after cycling in the cold and to stimulate your circulation for the next leg."
+                "en": "Take advantage of the sauna or heated pool to loosen your muscles after cycling in the cold and to stimulate your circulation for the next leg.",
+                "fr": "Profitez du sauna ou de la piscine chauffée pour détendre vos muscles après le vélo dans le froid et stimuler votre circulation pour l'étape suivante."
               }
             },
             {
@@ -567,13 +629,15 @@
                 "de": "Tour de Milandre",
                 "hu": "Tour de Milandre",
                 "ro": "Tour de Milandre",
-                "en": "Tour de Milandre"
+                "en": "Tour de Milandre",
+                "fr": "Tour de Milandre"
               },
               "tip_5lang": {
                 "de": "Der Anstieg hält Sie warm, aber oben am Turm zieht es stark; ziehen Sie eine zusätzliche Schicht an, bevor Sie den Ausblick genießen.",
                 "hu": "A felfelé tekerés melegen tartja, de a toronynál erős szélre kell számítani; vegyen fel egy plusz réteget, mielőtt megállna nézelődni.",
                 "ro": "Urcarea vă va menține cald, dar sus la turn vântul bate cu putere; puneți-vă un strat suplimentar de haine imediat ce vă opriți.",
-                "en": "The climb will keep you warm, but it's very windy at the tower; put on an extra layer immediately upon arrival to avoid catching a chill."
+                "en": "The climb will keep you warm, but it's very windy at the tower; put on an extra layer immediately upon arrival to avoid catching a chill.",
+                "fr": "La montée vous réchauffera, mais il y a beaucoup de vent à la tour ; enfilez immédiatement une couche supplémentaire à l'arrivée pour éviter de prendre froid."
               }
             },
             {
@@ -581,13 +645,15 @@
                 "de": "Belvédère du Mont Renaud",
                 "hu": "Belvédère du Mont Renaud",
                 "ro": "Belvédère du Mont Renaud",
-                "en": "Belvédère du Mont Renaud"
+                "en": "Belvédère du Mont Renaud",
+                "fr": "Belvédère du Mont Renaud"
               },
               "tip_5lang": {
                 "de": "Achten Sie auf die Uhr; nach dem Sonnenuntergang um 17:00 Uhr sinken die Temperaturen rapide. Sorgen Sie für eine funktionierende Beleuchtung.",
                 "hu": "Ügyeljen az időre; az 17:00 órai naplemente után a hőmérséklet hirtelen zuhan. Győződjön meg róla, hogy a lámpái megfelelően működnek.",
                 "ro": "Atenție la oră; după apusul de la 17:00, temperatura scade brusc. Asigurați-vă că luminile bicicletei funcționează corect pentru întoarcere.",
-                "en": "Mind the time; after the 17:00 sunset, temperatures drop rapidly. Ensure your bike lights are fully functional for the return trip in the dark."
+                "en": "Mind the time; after the 17:00 sunset, temperatures drop rapidly. Ensure your bike lights are fully functional for the return trip in the dark.",
+                "fr": "Surveillez l'heure ; après le coucher du soleil à 17:00, les températures chutent rapidement. Assurez-vous que vos lumières de vélo fonctionnent parfaitement pour le retour dans l'obscurité."
               }
             }
           ]
@@ -607,7 +673,8 @@
             "de": "Rathaus Delle",
             "hu": "Delle Városháza",
             "ro": "Primăria Delle",
-            "en": "Delle Town Hall"
+            "en": "Delle Town Hall",
+            "fr": "Delle Town Hall"
           },
           "coords": [
             7.004781,
@@ -622,7 +689,8 @@
             "de": "Erkunden Sie das bürgerliche Herz der Stadt im eleganten Rathaus und werfen Sie einen Blick auf die Informationstafeln, um anstehende Veranstaltungen zu entdecken.",
             "hu": "Fedezze fel a város polgári központját az elegáns Városházánál, és tekintse meg a hirdetőtáblákat a közelgő izgalmas közösségi eseményekért.",
             "ro": "Explorați inima civică a orașului la eleganta Primărie, un centru al administrației locale, și verificați avizierele pentru evenimentele comunitare viitoare.",
-            "en": "Explore the civic heart of the city at the elegant Town Hall, a hub of local administration, and check the notice boards for upcoming community events."
+            "en": "Explore the civic heart of the city at the elegant Town Hall, a hub of local administration, and check the notice boards for upcoming community events.",
+            "fr": "Explorez le cœur civique de la ville à l'élégante mairie, un centre de l'administration locale, et consultez les panneaux d'affichage pour les événements communautaires à venir."
           }
         },
         {
@@ -630,7 +698,8 @@
             "de": "Chapelle Sainte-Véronique",
             "hu": "Chapelle Sainte-Véronique",
             "ro": "Chapelle Sainte-Véronique",
-            "en": "Chapelle Sainte-Véronique"
+            "en": "Chapelle Sainte-Véronique",
+            "fr": "Chapelle Sainte-Véronique"
           },
           "coords": [
             7.005983,
@@ -645,7 +714,8 @@
             "de": "Entdecken Sie diese bezaubernde, ruhige Kapelle im nördlichen Teil der Stadt, die der perfekte Ort ist, um eine Kerze anzuzünden und den Tag ausklingen zu lassen.",
             "hu": "Fedezze fel ezt a bájos és csendes kápolnát a város északi részén, amely tökéletes helyszín arra, hogy gyújtson egy gyertyát és elmélkedjen a napjáról.",
             "ro": "Descoperiți această capelă fermecătoare și liniștită din nordul orașului, locul perfect pentru a aprinde o lumânare și a reflecta asupra zilei dumneavoastră.",
-            "en": "Discover this charming and quiet chapel nestled in the northern part of town, making it the perfect final spot to light a candle and reflect on your day."
+            "en": "Discover this charming and quiet chapel nestled in the northern part of town, making it the perfect final spot to light a candle and reflect on your day.",
+            "fr": "Découvrez cette charmante et paisible chapelle nichée dans la partie nord de la ville, idéale pour allumer une bougie et réfléchir sur votre journée."
           }
         },
         {
@@ -653,7 +723,8 @@
             "de": "Turmhaus",
             "hu": "Toronyház",
             "ro": "Casa cu Turelă",
-            "en": "Turret House"
+            "en": "Turret House",
+            "fr": "Turret House"
           },
           "coords": [
             6.998645,
@@ -668,7 +739,8 @@
             "de": "Bewundern Sie das ikonische Turmhaus, ein Zeugnis des mittelalterlichen Erbes von Delle, und fotografieren Sie unbedingt den markanten Eckturm vom Platz aus.",
             "hu": "Csodálja meg az ikonikus Toronyházat, Delle középkori örökségének e lenyűgöző emlékét, és mindenképpen fotózza le a jellegzetes saroktornyot a térről.",
             "ro": "Admirați emblematica Casă cu Turelă, o mărturie a moștenirii medievale a orașului Delle, și asigurați-vă că fotografiați turnul de colț distinctiv din piață.",
-            "en": "Admire the iconic Turret House, a testament to Delle's medieval heritage, and be sure to photograph the distinctive corner tower from the square."
+            "en": "Admire the iconic Turret House, a testament to Delle's medieval heritage, and be sure to photograph the distinctive corner tower from the square.",
+            "fr": "Admirez l'emblématique Turret House, témoin du patrimoine médiéval de Delle, et pensez à photographier la tour d'angle distinctive depuis la place."
           }
         },
         {
@@ -676,7 +748,8 @@
             "de": "Église Saint-Gérard",
             "hu": "Église Saint-Gérard",
             "ro": "Église Saint-Gérard",
-            "en": "Église Saint-Gérard"
+            "en": "Église Saint-Gérard",
+            "fr": "Église Saint-Gérard"
           },
           "coords": [
             6.977533,
@@ -691,7 +764,8 @@
             "de": "Bestaunen Sie die architektonischen Details dieser malerischen Pfarrkirche und nehmen Sie sich einen Moment Zeit, um die wunderschönen Buntglasfenster zu bewundern.",
             "hu": "Csodálja meg e festői plébániatemplom különleges építészeti részleteit, és szánjon egy pillanatot a napfényt gyönyörűen megszűrő ólomüveg ablakokra.",
             "ro": "Minunați-vă de detaliile arhitecturale distincte ale acestei biserici parohiale pitorești și acordați-vă un moment pentru a admira vitraliile sale frumoase.",
-            "en": "Marvel at the distinct architectural details of this quaint parish church, taking a moment to admire the stained glass windows that beautifully filter the sunlight."
+            "en": "Marvel at the distinct architectural details of this quaint parish church, taking a moment to admire the stained glass windows that beautifully filter the sunlight.",
+            "fr": "Émerveillez-vous des détails architecturaux distincts de cette charmante église paroissiale, en prenant un moment pour admirer les vitraux qui filtrent magnifiquement la lumière du soleil."
           }
         },
         {
@@ -699,7 +773,8 @@
             "de": "Tour de Milandre",
             "hu": "Tour de Milandre",
             "ro": "Tour de Milandre",
-            "en": "Tour de Milandre"
+            "en": "Tour de Milandre",
+            "fr": "Tour de Milandre"
           },
           "coords": [
             7.015286,
@@ -714,7 +789,8 @@
             "de": "Machen Sie eine Zeitreise bei diesem beeindruckenden Burgturm und tragen Sie festes Schuhwerk, um die raue, historische Umgebung sicher zu erkunden.",
             "hu": "Lépjen vissza az időben ennél a lenyűgöző kastélytoronynál, amely évszázadokon át őrizte a régiót, és viseljen masszív cipőt a környék felfedezéséhez.",
             "ro": "Întoarceți-vă în timp la acest turn formidabil de castel care a păzit regiunea timp de secole și purtați încălțăminte rezistentă pentru a-i explora împrejurimile.",
-            "en": "Step back in time at this formidable castle tower, which guarded the region for centuries, and wear sturdy shoes to safely explore its rugged surroundings."
+            "en": "Step back in time at this formidable castle tower, which guarded the region for centuries, and wear sturdy shoes to safely explore its rugged surroundings.",
+            "fr": "Faites un voyage dans le temps à cette imposante tour de château qui a gardé la région pendant des siècles, et portez des chaussures solides pour explorer en toute sécurité ses abords escarpés."
           }
         },
         {
@@ -722,7 +798,8 @@
             "de": "Belvédère du Mont Renaud",
             "hu": "Belvédère du Mont Renaud",
             "ro": "Belvédère du Mont Renaud",
-            "en": "Belvédère du Mont Renaud"
+            "en": "Belvédère du Mont Renaud",
+            "fr": "Belvédère du Mont Renaud"
           },
           "coords": [
             7.034011,
@@ -737,7 +814,8 @@
             "de": "Beenden Sie Ihre Reise an diesem atemberaubenden natürlichen Aussichtspunkt, der einen Panoramablick bietet, den Sie am besten am späten Nachmittag genießen.",
             "hu": "Zárja utazását ezen a lenyűgöző természetes kilátón, amely panorámás kilátást nyújt a tájra, és amelyet a késő délutáni fényekben a legjobb élvezni.",
             "ro": "Încheiați-vă călătoria la acest punct de belvedere natural uimitor care oferă priveliști panoramice, cel mai bine savurate cu un aparat foto după-amiaza târziu.",
-            "en": "End your journey at this stunning natural viewpoint offering panoramic vistas of the surrounding landscapes, best enjoyed with a camera during the late afternoon."
+            "en": "End your journey at this stunning natural viewpoint offering panoramic vistas of the surrounding landscapes, best enjoyed with a camera during the late afternoon.",
+            "fr": "Terminez votre parcours à ce magnifique point de vue naturel offrant des panoramas sur les paysages environnants, à apprécier avec un appareil photo en fin d'après-midi."
           }
         }
       ],
@@ -745,7 +823,8 @@
         "de": "Fahren Sie heute Morgen ins Herz von Delle und halten Sie am Rathaus und der historischen Chapelle Sainte-Véronique. Mittags besuchen Sie das Turmhaus, bevor Sie zur Kirche Saint-Gérard fahren. Verbringen Sie Ihren Nachmittag damit, an der beeindruckenden Tour de Milandre in die Vergangenheit zu reisen. Parken Sie schließlich am Belvédère du Mont Renaud.",
         "hu": "Autózzon ma reggel Delle szívébe, álljon meg az elegáns Városházánál és a történelmi Chapelle Sainte-Véronique-nál. A dél a középkori Toronyházhoz hozza, mielőtt az Église Saint-Gérard felé venné az irányt. Töltse a délutánt egy időutazással a lenyűgöző Tour de Milandre-nál. Végül parkoljon le a Belvédère du Mont Renaud közelében az esti égboltért.",
         "ro": "Conduceți în inima orașului Delle în această dimineață, oprindu-vă la eleganta Primărie și la istorica Chapelle Sainte-Véronique. Prânzul vă aduce la medievala Casă cu Turelă. Petreceți-vă după-amiaza întorcându-vă în timp la impresionantul Tour de Milandre. În cele din urmă, parcați lângă Belvédère du Mont Renaud pentru a privi cerul serii.",
-        "en": "Drive into the heart of Delle this morning, stopping at the elegant Town Hall and the historic Chapelle Sainte-Véronique. Midday brings you to the medieval Turret House before heading to Église Saint-Gérard. Spend your afternoon stepping back in time at the impressive Tour de Milandre. Finally, park near the Belvédère du Mont Renaud to watch the evening sky."
+        "en": "Drive into the heart of Delle this morning, stopping at the elegant Town Hall and the historic Chapelle Sainte-Véronique. Midday brings you to the medieval Turret House before heading to Église Saint-Gérard. Spend your afternoon stepping back in time at the impressive Tour de Milandre. Finally, park near the Belvédère du Mont Renaud to watch the evening sky.",
+        "fr": "Allez au cœur de Delle ce matin, en vous arrêtant à l'élégante mairie et à la historique Chapelle Sainte-Véronique. À midi, rendez-vous à la Turret House médiévale avant de vous diriger vers l'Église Saint-Gérard. Passez l'après-midi à remonter le temps à la impressionnante Tour de Milandre. Enfin, garez-vous près du Belvédère du Mont Renaud pour observer le ciel du soir."
       },
       "variants": {
         "rainy": {
@@ -753,7 +832,8 @@
             "de": "Delle mit dem Auto zu erkunden ist bei Regen die komfortabelste Wahl. Vormittags besuchen wir das Rathaus und die Kapelle, während wir die Schauer bequem im Fahrzeug abwarten. Mittags geht es zum Turmhaus im Zentrum. Der Nachmittag führt uns zu den entlegeneren Kirchen und Ruinen, wobei wir die kurzen Wege zwischen Parkplatz und Sehenswürdigkeit unter dem Regenschirm zurücklegen.",
             "hu": "Delle felfedezése autóval a legkényelmesebb választás esős időben. Délelőtt a városházát és a kápolnát keressük fel, a záporokat a kocsiban vészelve át. Délben a központban a Toronyháznál állunk meg. A délutáni program során a távolabbi templomokat és várakat látogatjuk meg, ahol csak a parkoló és a bejárat közötti rövid távon kell esernyőt használnunk.",
             "ro": "Explorarea orașului Delle cu mașina este cea mai confortabilă opțiune pe ploaie. Dimineața vizităm primăria și capela, stând la adăpost între opriri. La prânz ne oprim în centru la Casa cu Turelă. După-amiaza este dedicată obiectivelor mai îndepărtate, cum sunt ruinele și bisericile, folosind umbrela doar pentru distanțele scurte de la parcare.",
-            "en": "Exploring Delle by car is the most comfortable choice during a rainy day. In the morning, we visit the Town Hall and the Chapel, staying dry between stops. At noon, we head to the central Turret House. The afternoon is dedicated to more distant churches and ruins, using an umbrella only for the short walks from the parking areas."
+            "en": "Exploring Delle by car is the most comfortable choice during a rainy day. In the morning, we visit the Town Hall and the Chapel, staying dry between stops. At noon, we head to the central Turret House. The afternoon is dedicated to more distant churches and ruins, using an umbrella only for the short walks from the parking areas.",
+            "fr": "Explorer Delle en voiture est le choix le plus confortable pendant une journée pluvieuse. Le matin, nous visitons la mairie et la chapelle, restant au sec entre les arrêts. À midi, nous nous rendons à la Turret House centrale. L'après-midi est consacré aux églises et ruines plus éloignées, en n'utilisant le parapluie que pour les courtes marches depuis les parkings."
           },
           "stops": [
             {
@@ -761,13 +841,15 @@
                 "de": "Rathaus Delle",
                 "hu": "Delle Városháza",
                 "ro": "Primăria Delle",
-                "en": "Delle Town Hall"
+                "en": "Delle Town Hall",
+                "fr": "Delle Town Hall"
               },
               "tip_5lang": {
                 "de": "Nutzen Sie die nahen Parkplätze direkt am Place de la République, um den Weg im Regen so kurz wie möglich zu halten.",
                 "hu": "Használja a Place de la République közvetlen közelében lévő parkolókat, így minimálisra csökkentheti az esőben töltött időt a városházáig.",
                 "ro": "Utilizați parcările din imediata apropiere a Place de la République pentru a reduce la minimum timpul petrecut în ploaie până la primărie.",
-                "en": "Use the parking lots directly adjacent to Place de la République to keep your walk in the rain to the town hall as short as possible."
+                "en": "Use the parking lots directly adjacent to Place de la République to keep your walk in the rain to the town hall as short as possible.",
+                "fr": "Utilisez les parkings directement adjacents à la Place de la République pour réduire au minimum votre marche sous la pluie jusqu'à la mairie."
               }
             },
             {
@@ -775,13 +857,15 @@
                 "de": "Chapelle Sainte-Véronique",
                 "hu": "Chapelle Sainte-Véronique",
                 "ro": "Chapelle Sainte-Véronique",
-                "en": "Chapelle Sainte-Véronique"
+                "en": "Chapelle Sainte-Véronique",
+                "fr": "Chapelle Sainte-Véronique"
               },
               "tip_5lang": {
                 "de": "Fahren Sie vorsichtig die schmale Zufahrt hinauf; bei starkem Regen kann Wasser über die Straße laufen. Parken Sie auf befestigtem Grund.",
                 "hu": "Vezessen óvatosan a keskeny feljárón; heves esőzéskor vízátfolyások lehetnek az úton. Lehetőleg szilárd burkolatú helyen parkoljon.",
                 "ro": "Conduceți cu prudență pe drumul îngust de acces; la ploi torențiale pot apărea scurgeri de apă pe carosabil. Parcați pe teren stabil.",
-                "en": "Drive carefully up the narrow access road; heavy rain can cause water runoff across the pavement. Park only on firm, paved ground."
+                "en": "Drive carefully up the narrow access road; heavy rain can cause water runoff across the pavement. Park only on firm, paved ground.",
+                "fr": "Montez prudemment la voie d'accès étroite ; de fortes pluies peuvent provoquer un ruissellement d'eau sur la chaussée. Garez-vous uniquement sur un sol ferme et goudronné."
               }
             },
             {
@@ -789,13 +873,15 @@
                 "de": "Turmhaus",
                 "hu": "Toronyház",
                 "ro": "Casa cu Turelă",
-                "en": "Turret House"
+                "en": "Turret House",
+                "fr": "Turret House"
               },
               "tip_5lang": {
                 "de": "Lassen Sie Ihre Regenjacke im Auto, wenn Sie nur kurz für ein Foto aussteigen, aber nehmen Sie den Schirm für die nähere Betrachtung der Details mit.",
                 "hu": "Hagyja a nehéz kabátot az autóban, ha csak egy gyors fotóra ugrik ki, de vigye az esernyőt a homlokzat részletesebb megtekintéséhez.",
                 "ro": "Lăsați hainele groase în mașină dacă ieșiți doar pentru o fotografie rapidă, dar luați umbrela pentru a admira detaliile fațadei de aproape.",
-                "en": "Leave your heavy coat in the car if you're just popping out for a photo, but bring an umbrella to properly examine the building's details."
+                "en": "Leave your heavy coat in the car if you're just popping out for a photo, but bring an umbrella to properly examine the building's details.",
+                "fr": "Laissez votre manteau lourd dans la voiture si vous ne sortez que pour une photo, mais prenez un parapluie pour examiner correctement les détails du bâtiment."
               }
             },
             {
@@ -803,13 +889,15 @@
                 "de": "Église Saint-Gérard",
                 "hu": "Église Saint-Gérard",
                 "ro": "Église Saint-Gérard",
-                "en": "Église Saint-Gérard"
+                "en": "Église Saint-Gérard",
+                "fr": "Église Saint-Gérard"
               },
               "tip_5lang": {
                 "de": "Der Parkplatz ist oft unbefestigt; achten Sie auf tiefe Pfützen beim Aussteigen, um nicht direkt im Matsch zu landen.",
                 "hu": "A templom melletti parkoló néhol nem burkolt; ügyeljen a mély tócsákra kiszálláskor, hogy ne lépjen közvetlenül a sárba.",
                 "ro": "Parcarea de lângă biserică poate avea porțiuni neasfaltate; atenție la bălțile adânci la coborâre pentru a nu călca direct în noroi.",
-                "en": "The parking area near the church may be unpaved in parts; watch out for deep puddles when exiting the car to avoid stepping into mud."
+                "en": "The parking area near the church may be unpaved in parts; watch out for deep puddles when exiting the car to avoid stepping into mud.",
+                "fr": "Le parking près de l'église peut être en partie non goudronné ; méfiez-vous des flaques profondes en sortant de la voiture pour éviter de marcher dans la boue."
               }
             },
             {
@@ -817,13 +905,15 @@
                 "de": "Tour de Milandre",
                 "hu": "Tour de Milandre",
                 "ro": "Tour de Milandre",
-                "en": "Tour de Milandre"
+                "en": "Tour de Milandre",
+                "fr": "Tour de Milandre"
               },
               "tip_5lang": {
                 "de": "Bleiben Sie bei starkem Wind und Regen im Auto und genießen Sie den Anblick des Turms aus dem Fenster, bis das Wetter sich kurzzeitig bessert.",
                 "hu": "Heves szél és eső esetén maradjon az autóban, és csodálja a tornyot az ablakból, amíg nem adódik egy szárazabb perc a kiszálláshoz.",
                 "ro": "În caz de vânt puternic și ploaie, rămâneți în mașină și admirați turnul pe fereastră până când vremea se domolește pentru o clipă.",
-                "en": "During heavy wind and rain, stay in the car and enjoy the view of the tower from your window until there's a break in the weather."
+                "en": "During heavy wind and rain, stay in the car and enjoy the view of the tower from your window until there's a break in the weather.",
+                "fr": "Par temps de vent fort et de pluie, restez dans la voiture et admirez la tour depuis votre fenêtre jusqu'à une accalmie."
               }
             },
             {
@@ -831,13 +921,15 @@
                 "de": "Belvédère du Mont Renaud",
                 "hu": "Belvédère du Mont Renaud",
                 "ro": "Belvédère du Mont Renaud",
-                "en": "Belvédère du Mont Renaud"
+                "en": "Belvédère du Mont Renaud",
+                "fr": "Belvédère du Mont Renaud"
               },
               "tip_5lang": {
                 "de": "Nutzen Sie die Scheinwerfer Ihres Autos, um den Weg zum Geländer zu beleuchten, falls der Nebel und der Regen die Sicht stark einschränken.",
                 "hu": "Használja az autó fényszóróit az út megvilágítására a korlátig, ha a köd és az eső túlságosan rontaná a látási viszonyokat a kilátónál.",
                 "ro": "Folosiți farurile mașinii pentru a ilumina poteca spre balustradă dacă ceața și ploaia reduc vizibilitatea în zona de belvedere.",
-                "en": "Use your car's headlights to illuminate the path to the railing if the fog and rain significantly reduce visibility at the viewpoint."
+                "en": "Use your car's headlights to illuminate the path to the railing if the fog and rain significantly reduce visibility at the viewpoint.",
+                "fr": "Utilisez les phares de votre voiture pour éclairer le chemin jusqu'à la rambarde si le brouillard et la pluie réduisent fortement la visibilité au belvédère."
               }
             }
           ]
@@ -847,7 +939,8 @@
             "de": "Die winterliche Tour durch Delle mit dem Auto bietet angenehme Wärme zwischen den Stopps. Vormittags besuchen wir das Rathaus und die Kapelle, wobei wir die frostige Landschaft durch die Scheiben bewundern. Mittags parken wir im Zentrum für das Turmhaus. Der Nachmittag führt uns zu den Kirchen und Ruinen, wo wir das Licht der tiefstehenden Sonne vor dem Untergang um 17:00 Uhr genießen.",
             "hu": "A téli autós túra Delle-ben biztosítja a kellemes meleget az állomások között. Délelőtt a városházát és a kápolnát keressük fel, miközben az ablakon át csodáljuk a zúzmarás tájat. Délben a központban állunk meg a Toronyháznál. Délután a templomokhoz és várakhoz látogatunk, élvezve az alacsonyan járó nap fényét az 17:00 órai naplemente előtt.",
             "ro": "Turul de iarnă în Delle cu mașina oferă căldură confortabilă între vizite. Dimineața vedem primăria și capela, admirând peisajul înghețat din interiorul vehiculului. La prânz parcăm în centru pentru Casa cu Turelă. După-amiaza explorăm bisericile și ruinele, profitând de lumina caldă a soarelui înainte de apusul de la ora 17:00.",
-            "en": "A winter driving tour of Delle provides cozy warmth between each historical stop. In the morning, we visit the Town Hall and Chapel, admiring the frosty landscape from the car. At noon, we park centrally for the Turret House. The afternoon is spent at the churches and ruins, catching the low winter sun before it sets at 17:00."
+            "en": "A winter driving tour of Delle provides cozy warmth between each historical stop. In the morning, we visit the Town Hall and Chapel, admiring the frosty landscape from the car. At noon, we park centrally for the Turret House. The afternoon is spent at the churches and ruins, catching the low winter sun before it sets at 17:00.",
+            "fr": "Une visite hivernale en voiture de Delle offre une chaleur douillette entre chaque arrêt historique. Le matin, nous visitons la mairie et la chapelle, admirant le paysage givré depuis la voiture. À midi, nous nous garons au centre pour la Turret House. L'après-midi est consacré aux églises et ruines, profitant du soleil d'hiver bas avant son coucher à 17:00."
           },
           "stops": [
             {
@@ -855,13 +948,15 @@
                 "de": "Rathaus Delle",
                 "hu": "Delle Városháza",
                 "ro": "Primăria Delle",
-                "en": "Delle Town Hall"
+                "en": "Delle Town Hall",
+                "fr": "Delle Town Hall"
               },
               "tip_5lang": {
                 "de": "Stellen Sie sicher, dass Ihre Scheiben komplett eisfrei sind; die tiefstehende Wintersonne im Zentrum kann sonst extrem blenden.",
                 "hu": "Győződjön meg róla, hogy a szélvédő teljesen jégmentes; az alacsonyan járó téli nap a belvárosban különben erősen elvakíthatja vezetés közben.",
                 "ro": "Asigurați-vă că parbrizul este complet dezghețat; soarele de iarnă care bate de jos în centru vă poate orbi ușor în timpul condusului.",
-                "en": "Ensure your windshield is completely clear of ice; the low winter sun in the town center can cause intense glare while you are driving."
+                "en": "Ensure your windshield is completely clear of ice; the low winter sun in the town center can cause intense glare while you are driving.",
+                "fr": "Assurez-vous que votre pare-brise est complètement dégagé de glace ; le soleil d'hiver bas au centre-ville peut provoquer un éblouissement intense pendant la conduite."
               }
             },
             {
@@ -869,13 +964,15 @@
                 "de": "Chapelle Sainte-Véronique",
                 "hu": "Chapelle Sainte-Véronique",
                 "ro": "Chapelle Sainte-Véronique",
-                "en": "Chapelle Sainte-Véronique"
+                "en": "Chapelle Sainte-Véronique",
+                "fr": "Chapelle Sainte-Véronique"
               },
               "tip_5lang": {
                 "de": "Achten Sie auf Glatteis auf der steilen Zufahrt zur Kapelle; parken Sie unten, falls die Straße nicht geräumt oder gestreut ist.",
                 "hu": "Ügyeljen a jegesedésre a kápolnához vezető meredek úton; ha az út nincs letakarítva vagy felsózva, inkább parkoljon lent és sétáljon.",
                 "ro": "Atenție la porțiunile cu gheață pe drumul abrupt spre capelă; parcați la bază dacă drumul nu a fost curățat sau presărat cu material antiderapant.",
-                "en": "Watch out for black ice on the steep access road to the chapel; park at the bottom if the road hasn't been cleared or salted recently."
+                "en": "Watch out for black ice on the steep access road to the chapel; park at the bottom if the road hasn't been cleared or salted recently.",
+                "fr": "Attention au verglas sur la route d'accès raide à la chapelle ; garez-vous en bas si la route n'a pas été dégagée ou salée récemment."
               }
             },
             {
@@ -883,13 +980,15 @@
                 "de": "Turmhaus",
                 "hu": "Toronyház",
                 "ro": "Casa cu Turelă",
-                "en": "Turret House"
+                "en": "Turret House",
+                "fr": "Turret House"
               },
               "tip_5lang": {
                 "de": "Nutzen Sie die Sitzheizung für die kurzen Fahrten im Ort, um zwischen den Besichtigungen der kalten Gebäude nicht auszukühlen.",
                 "hu": "Használja az ülésfűtést a városon belüli rövid utak alatt is, hogy ne hűljön ki a hideg épületek megtekintése közötti szünetekben.",
                 "ro": "Folosiți încălzirea în scaune chiar și pentru drumurile scurte din oraș, pentru a vă menține temperatura corpului între vizitele la obiective.",
-                "en": "Keep the seat heating on even for short trips around town to stay warm between visits to the unheated historical stone buildings."
+                "en": "Keep the seat heating on even for short trips around town to stay warm between visits to the unheated historical stone buildings.",
+                "fr": "Gardez le chauffage de siège allumé même pour de courts trajets en ville pour rester au chaud entre les visites des bâtiments historiques en pierre non chauffés."
               }
             },
             {
@@ -897,13 +996,15 @@
                 "de": "Église Saint-Gérard",
                 "hu": "Église Saint-Gérard",
                 "ro": "Église Saint-Gérard",
-                "en": "Église Saint-Gérard"
+                "en": "Église Saint-Gérard",
+                "fr": "Église Saint-Gérard"
               },
               "tip_5lang": {
                 "de": "Der Parkplatz kann bei Frost sehr rutschig sein; steigen Sie vorsichtig aus, da sich unter dem Raureif oft glattes Eis verbirgt.",
                 "hu": "A parkoló fagyos időben nagyon csúszós lehet; óvatosan szálljon ki az autóból, mert a zúzmara alatt gyakran tükörjég bújik meg.",
                 "ro": "Parcarea poate fi foarte alunecoasă pe timp de îngheț; coborâți cu grijă din mașină, deoarece sub stratul de brumă se poate afla gheață.",
-                "en": "The parking area can be very slippery during frost; exit the car carefully as black ice often hides beneath a thin layer of hoarfrost."
+                "en": "The parking area can be very slippery during frost; exit the car carefully as black ice often hides beneath a thin layer of hoarfrost.",
+                "fr": "Le parking peut être très glissant pendant le gel ; sortez de la voiture avec précaution car le verglas noir se cache souvent sous une fine couche de givre."
               }
             },
             {
@@ -911,13 +1012,15 @@
                 "de": "Tour de Milandre",
                 "hu": "Tour de Milandre",
                 "ro": "Tour de Milandre",
-                "en": "Tour de Milandre"
+                "en": "Tour de Milandre",
+                "fr": "Tour de Milandre"
               },
               "tip_5lang": {
                 "de": "Lassen Sie den Motor nicht unnötig laufen, während Sie den Turm besichtigen, aber genießen Sie die Standheizung bei Ihrer Rückkehr.",
                 "hu": "Ne járassa feleslegesen a motort a torony látogatása alatt, de élvezze az autó melegét, amint visszaér a fagyos dombtetőről.",
                 "ro": "Nu lăsați motorul pornit inutil în timp ce vizitați turnul, dar bucurați-vă de căldura din interior imediat ce vă întoarceți din frig.",
-                "en": "Don't leave the engine idling while you visit the tower, but appreciate the warmth of the cabin as soon as you return from the cold peak."
+                "en": "Don't leave the engine idling while you visit the tower, but appreciate the warmth of the cabin as soon as you return from the cold peak.",
+                "fr": "Ne laissez pas le moteur tournant pendant votre visite de la tour, mais appréciez la chaleur de l'habitacle dès votre retour du sommet froid."
               }
             },
             {
@@ -925,13 +1028,15 @@
                 "de": "Belvédère du Mont Renaud",
                 "hu": "Belvédère du Mont Renaud",
                 "ro": "Belvédère du Mont Renaud",
-                "en": "Belvédère du Mont Renaud"
+                "en": "Belvédère du Mont Renaud",
+                "fr": "Belvédère du Mont Renaud"
               },
               "tip_5lang": {
                 "de": "Kommen Sie pünktlich zum Sonnenuntergang um 17:00 Uhr und genießen Sie das Panorama direkt aus dem warmen Auto heraus.",
                 "hu": "Érkezzen pontosan a 17:00 órai naplementére, és csodálja meg a téli panorámát közvetlenül a meleg autó szélvédőjén keresztül.",
                 "ro": "Veniți exact la ora 17:00 pentru apus și admirați panorama hibernală direct din confortul și căldura mașinii voastre.",
-                "en": "Arrive exactly for the 17:00 sunset and enjoy the sweeping winter panorama directly through the warmth of your car's windshield."
+                "en": "Arrive exactly for the 17:00 sunset and enjoy the sweeping winter panorama directly through the warmth of your car's windshield.",
+                "fr": "Arrivez exactement pour le coucher du soleil à 17:00 et profitez du panorama hivernal à travers la chaleur du pare-brise de votre voiture."
               }
             }
           ]

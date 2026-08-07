@@ -21,7 +21,8 @@
             "de": "Capdenac Railway Station",
             "hu": "Capdenac Railway Station",
             "ro": "Capdenac Railway Station",
-            "en": "Capdenac Railway Station"
+            "en": "Capdenac Railway Station",
+            "fr": "Gare de Capdenac"
           },
           "coords": [
             2.074002,
@@ -36,7 +37,8 @@
             "de": "Bewundern Sie die historische Architektur dieses wichtigen Eisenbahnknotenpunkts der Region, kommen Sie jedoch früh, um Pendlerströme zu meiden.",
             "hu": "Csodálja meg ennek a fontos regionális vasúti csomópontnak a történelmi építészetét, de érkezzen korán az ingázó tömegek elkerülése érdekében.",
             "ro": "Admirați arhitectura istorică a acestui nod feroviar vital din regiune, dar sosiți devreme pentru a evita aglomerația navetiștilor.",
-            "en": "Admire the historic architecture of this vital rail hub connecting the region, but arrive early to avoid the bustling commuter crowds."
+            "en": "Admire the historic architecture of this vital rail hub connecting the region, but arrive early to avoid the bustling commuter crowds.",
+            "fr": "Admirez l'architecture historique de ce nœud ferroviaire vital reliant la région, mais arrivez tôt pour éviter la foule des navetteurs."
           }
         },
         {
@@ -44,7 +46,8 @@
             "de": "Our Lady of Travelers Church",
             "hu": "Our Lady of Travelers Church",
             "ro": "Our Lady of Travelers Church",
-            "en": "Our Lady of Travelers Church"
+            "en": "Our Lady of Travelers Church",
+            "fr": "Notre‑Dame des Voyageurs"
           },
           "coords": [
             2.079316,
@@ -59,7 +62,8 @@
             "de": "Erkunden Sie dieses einzigartige, den Reisenden gewidmete Heiligtum und nehmen Sie sich einen Moment Zeit für die schönen Buntglasfenster.",
             "hu": "Fedezze fel ezt az utazóknak szentelt egyedülálló szentélyt, és szánjon egy percet az oltár melletti gyönyörű ólomüveg ablakok megcsodálására.",
             "ro": "Explorați acest sanctuar unic dedicat călătorilor și luați-vă un moment pentru a admira vitraliile frumoase de lângă altarul principal.",
-            "en": "Explore this uniquely dedicated sanctuary offering peace to wanderers, and take a moment to notice the beautiful stained glass near the altar."
+            "en": "Explore this uniquely dedicated sanctuary offering peace to wanderers, and take a moment to notice the beautiful stained glass near the altar.",
+            "fr": "Explorez ce sanctuaire dédié aux voyageurs offrant la paix aux errants, et prenez un moment pour remarquer les beaux vitraux près de l'autel."
           }
         },
         {
@@ -67,7 +71,8 @@
             "de": "Mini-golf la guinguette",
             "hu": "Mini-golf la guinguette",
             "ro": "Mini-golf la guinguette",
-            "en": "Mini-golf la guinguette"
+            "en": "Mini-golf la guinguette",
+            "fr": "Mini‑golf la guinguette"
           },
           "coords": [
             2.072813,
@@ -82,7 +87,8 @@
             "de": "Genießen Sie einen unbeschwerten Nachmittag auf diesem charmanten Minigolfplatz am Flussufer, für den Sie Wasser und Sonnencreme einpacken sollten.",
             "hu": "Töltsön el egy vidám délutánt ezen a hangulatos folyóparti minigolfpályán, ahová mindenképpen érdemes vizet és naptejet magával hoznia.",
             "ro": "Bucurați-vă de o după-amiază relaxantă la acest teren fermecător de mini-golf de pe malul râului, unde se recomandă să aduceți apă și cremă.",
-            "en": "Enjoy a lighthearted afternoon at this charming riverside mini-golf course, where bringing some water and sunscreen is highly recommended."
+            "en": "Enjoy a lighthearted afternoon at this charming riverside mini-golf course, where bringing some water and sunscreen is highly recommended.",
+            "fr": "Profitez d'un après‑midi léger à ce charmant mini‑golf au bord de la rivière ; pensez à emporter de l'eau et de la crème solaire."
           }
         },
         {
@@ -90,7 +96,8 @@
             "de": "Chapelle Saint-Étienne",
             "hu": "Chapelle Saint-Étienne",
             "ro": "Chapelle Saint-Étienne",
-            "en": "Chapelle Saint-Étienne"
+            "en": "Chapelle Saint-Étienne",
+            "fr": "Chapelle Saint‑Étienne"
           },
           "coords": [
             2.06662,
@@ -105,7 +112,8 @@
             "de": "Entdecken Sie die ruhige Atmosphäre dieser alten Steinkapelle in der Landschaft und tragen Sie feste Schuhe für den leicht unebenen Weg.",
             "hu": "Fedezze fel ennek a tájban megbúvó ősi kőkápolnának a békés hangulatát, és viseljen kényelmes cipőt a kissé egyenetlen megközelítési úthoz.",
             "ro": "Descoperiți atmosfera liniștită a acestei capele antice din piatră ascunsă în peisaj și purtați încălțăminte robustă pentru calea denivelată.",
-            "en": "Discover the tranquil atmosphere of this ancient stone chapel hidden in the landscape, and wear sturdy shoes for the slightly uneven path."
+            "en": "Discover the tranquil atmosphere of this ancient stone chapel hidden in the landscape, and wear sturdy shoes for the slightly uneven path.",
+            "fr": "Découvrez l'atmosphère paisible de cette ancienne chapelle de pierre cachée dans le paysage, et portez des chaussures solides pour le chemin légèrement irrégulier."
           }
         },
         {
@@ -113,7 +121,8 @@
             "de": "Église Saint-Jean-Baptiste",
             "hu": "Église Saint-Jean-Baptiste",
             "ro": "Église Saint-Jean-Baptiste",
-            "en": "Église Saint-Jean-Baptiste"
+            "en": "Église Saint-Jean-Baptiste",
+            "fr": "Église Saint‑Jean‑Baptiste"
           },
           "coords": [
             2.06884,
@@ -128,7 +137,8 @@
             "de": "Betreten Sie diese große Pfarrkirche, um die detaillierte sakrale Kunst zu betrachten, und achten Sie auf respektvolle Kleidung.",
             "hu": "Lépjen be ebbe a lenyűgöző plébániatemplomba, hogy megcsodálja részletgazdag egyházi művészetét, és ügyeljen a tiszteletteljes öltözködésre.",
             "ro": "Pășiți în această biserică parohială grandioasă pentru a observa arta religioasă detaliată, asigurându-vă că vă îmbrăcați cuviincios.",
-            "en": "Step into this grand parish church to observe its detailed religious artistry, ensuring you dress respectfully for your cultural visit."
+            "en": "Step into this grand parish church to observe its detailed religious artistry, ensuring you dress respectfully for your cultural visit.",
+            "fr": "Pénétrez dans cette grande église paroissiale pour observer son riche art religieux, en veillant à vous habiller respectueusement pour votre visite culturelle."
           }
         }
       ],
@@ -136,7 +146,8 @@
         "de": "Ihr Rundgang beginnt am belebten Bahnhof von Capdenac, der den historischen Ton angibt. Danach spazieren Sie zur Kirche Unserer Lieben Frau der Reisenden. Der Nachmittag wird auf dem Minigolfplatz am Flussufer verspielt. Beenden Sie den Tag mit der Entdeckung zweier historischer Kapellen am Rande der ruhigen Stadt.",
         "hu": "Sétája a nyüzsgő capdenaci vasútállomáson kezdődik, amely megadja a történelmi alaphangot. Ezután átsétál az Utazók Miasszonyunk templomához. A délután játékos fordulatot vesz a folyóparti minigolfpályán. Zárja a napot két történelmi kápolna felfedezésével a város csendes peremén.",
         "ro": "Turul dumneavoastră pietonal începe la gara aglomerată din Capdenac, stabilind tonul istoric. Vă veți plimba apoi către Biserica Fecioarei Călătorilor, un sanctuar frumos. După-amiaza ia o întorsătură jucăușă la terenul de mini-golf pe râu. Încheiați ziua descoperind două capele istorice la periferia orașului.",
-        "en": "Your walking tour begins at the bustling Capdenac Railway Station, setting the historical tone. You will then stroll to Our Lady of Travelers Church, a beautiful sanctuary dedicated to wanderers. The afternoon takes a playful turn at the riverside mini-golf course. Conclude the day discovering two historic chapels on the outskirts of the town."
+        "en": "Your walking tour begins at the bustling Capdenac Railway Station, setting the historical tone. You will then stroll to Our Lady of Travelers Church, a beautiful sanctuary dedicated to wanderers. The afternoon takes a playful turn at the riverside mini-golf course. Conclude the day discovering two historic chapels on the outskirts of the town.",
+        "fr": "Votre visite à pied commence à la animée gare de Capdenac, donnant le ton historique. Vous vous promènerez ensuite jusqu'à l'église Notre-Dame-des-Voyageurs, un beau sanctuaire dédié aux voyageurs. L'après-midi prend une tournure ludique au mini-golf au bord de la rivière. Concluez la journée en découvrant deux chapelles historiques en périphérie de la ville."
       },
       "variants": {
         "rainy": {
@@ -144,7 +155,8 @@
             "de": "Der Morgen beginnt geschützt am Bahnhof, während der Regen auf das Glasdach trommelt. Mittags bieten die massiven Mauern der Kirchen trockene Zuflucht und spirituelle Ruhe. Am Nachmittag verwandelt der Regen das Ufer des Lot in eine mystische, neblige Landschaft. Der Abend klingt bei sanftem Nieselregen aus, wenn sich die Straßenlaternen malerisch in den Pfützen auf dem Asphalt spiegeln.",
             "hu": "A reggel esővel indul az állomáson, de a peron tetője védelmet nyújt a készülődéshez. Délben a templomok vastag falai között keresünk menedéket a zápor elől. Délután a Lot-parti sétányon a ködös tájban gyönyörködünk egy jó esernyővel. Este a város fényei megcsillannak a vizes aszfalton, ami különleges, melankolikus hangulatot áraszt a csendes utcákon.",
             "ro": "Dimineața începe la adăpostul gării, în timp ce ploaia bate în geamuri. La prânz, zidurile groase ale bisericilor oferă refugiu uscat și liniște. După-amiaza, ploaia transformă malurile râului Lot într-un peisaj mistic și cetos. Seara se încheie cu o ploaie ușoară, când luminile orașului se oglindesc pitoresc în bălțile de pe asfaltul ud.",
-            "en": "The morning begins sheltered at the station as rain drums on the roof. At noon, the thick walls of the local churches provide a dry refuge and spiritual calm. In the afternoon, the rain transforms the banks of the Lot into a mystical, misty landscape. The evening ends with a gentle drizzle, as streetlights reflect picturesquely in the puddles on the wet pavement."
+            "en": "The morning begins sheltered at the station as rain drums on the roof. At noon, the thick walls of the local churches provide a dry refuge and spiritual calm. In the afternoon, the rain transforms the banks of the Lot into a mystical, misty landscape. The evening ends with a gentle drizzle, as streetlights reflect picturesquely in the puddles on the wet pavement.",
+            "fr": "La matinée commence à l'abri en gare tandis que la pluie tambourine sur le toit. À midi, les murs épais des églises locales offrent un refuge sec et une calme spiritualité. L'après-midi, la pluie transforme les rives du Lot en un paysage mystique et brumeux. La soirée se termine par une fine bruine, les réverbères se reflétant pittoresquement dans les flaques sur le trottoir mouillé."
           },
           "stops": [
             {
@@ -152,13 +164,15 @@
                 "de": "Capdenac Railway Station",
                 "hu": "Capdenac Railway Station",
                 "ro": "Capdenac Railway Station",
-                "en": "Capdenac Railway Station"
+                "en": "Capdenac Railway Station",
+                "fr": "Gare de Capdenac"
               },
               "tip_5lang": {
                 "de": "Nutzen Sie die Wartehalle, um Ihren Regenschutz zu richten; die Fliesen können bei Nässe extrem rutschig sein.",
                 "hu": "Használd a várótermet az esőkabát felvételéhez; a kövezet vizesen csúszós lehet, lépj óvatosan a kijáratnál.",
                 "ro": "Folosiți sala de așteptare pentru a vă pregăti pelerina; gresia poate fi extrem de alunecoasă când este udă.",
-                "en": "Use the waiting hall to adjust your rain gear; the tiled floors can be extremely slippery when wet."
+                "en": "Use the waiting hall to adjust your rain gear; the tiled floors can be extremely slippery when wet.",
+                "fr": "Utilisez la salle d'attente pour ajuster votre équipement de pluie ; les sols carrelés peuvent devenir extrêmement glissants lorsqu'ils sont mouillés."
               }
             },
             {
@@ -166,13 +180,15 @@
                 "de": "Our Lady of Travelers Church",
                 "hu": "Our Lady of Travelers Church",
                 "ro": "Our Lady of Travelers Church",
-                "en": "Our Lady of Travelers Church"
+                "en": "Our Lady of Travelers Church",
+                "fr": "Église Notre-Dame-des-Voyageurs"
               },
               "tip_5lang": {
                 "de": "Bewundern Sie die Glasfenster, die bei grauem Himmel besonders intensiv leuchten, und bleiben Sie im Trockenen.",
                 "hu": "Csodáld meg az üvegablakokat, amik szürke égbolt mellett is élénken fénylenek; maradj bent, amíg eláll a zápor.",
                 "ro": "Admirați vitraliile care strălucesc intens pe un cer gri, profitând de liniștea interiorului ferit de ploaie.",
-                "en": "Admire the stained glass windows that glow intensely even under gray skies while staying dry inside."
+                "en": "Admire the stained glass windows that glow intensely even under gray skies while staying dry inside.",
+                "fr": "Admirez les vitraux qui s'illuminent intensément même sous un ciel gris tout en restant au sec à l'intérieur."
               }
             },
             {
@@ -180,13 +196,15 @@
                 "de": "Mini-golf la guinguette",
                 "hu": "Mini-golf la guinguette",
                 "ro": "Mini-golf la guinguette",
-                "en": "Mini-golf la guinguette"
+                "en": "Mini-golf la guinguette",
+                "fr": "Mini-golf la guinguette"
               },
               "tip_5lang": {
                 "de": "Suchen Sie Schutz unter dem Vordach der Guinguette und beobachten Sie den steigenden Pegel des Lot-Flusses.",
                 "hu": "Keress menedéket a guinguette előteteje alatt, és figyeld a Lot folyó hömpölygését a sűrű esőfüggönyön át.",
                 "ro": "Căutați adăpost sub streașina de la guinguette și observați cum crește nivelul râului Lot prin ploaie.",
-                "en": "Seek shelter under the guinguette's awning and watch the Lot river flow through the heavy curtain of rain."
+                "en": "Seek shelter under the guinguette's awning and watch the Lot river flow through the heavy curtain of rain.",
+                "fr": "Cherchez un abri sous l'auvent de la guinguette et regardez le Lot couler à travers le rideau épais de pluie."
               }
             },
             {
@@ -194,13 +212,15 @@
                 "de": "Chapelle Saint-Étienne",
                 "hu": "Chapelle Saint-Étienne",
                 "ro": "Chapelle Saint-Étienne",
-                "en": "Chapelle Saint-Étienne"
+                "en": "Chapelle Saint-Étienne",
+                "fr": "Chapelle Saint-Étienne"
               },
               "tip_5lang": {
                 "de": "Die kleine Kapelle bietet einen intimen Rückzugsort; klopfen Sie Ihre Schuhe ab, um den Steinboden trocken zu halten.",
                 "hu": "A kis kápolna meghitt menedéket nyújt; rázd le az esernyőd kint, hogy vigyázz a régi kövezet épségére.",
                 "ro": "Mica capelă oferă un refugiu intim; scuturați umbrela afară pentru a păstra podeaua de piatră uscată.",
-                "en": "The small chapel offers an intimate retreat; shake off your umbrella outside to keep the stone floors dry."
+                "en": "The small chapel offers an intimate retreat; shake off your umbrella outside to keep the stone floors dry.",
+                "fr": "La petite chapelle offre un refuge intime ; secouez votre parapluie dehors pour garder les sols en pierre secs."
               }
             },
             {
@@ -208,13 +228,15 @@
                 "de": "Église Saint-Jean-Baptiste",
                 "hu": "Église Saint-Jean-Baptiste",
                 "ro": "Église Saint-Jean-Baptiste",
-                "en": "Église Saint-Jean-Baptiste"
+                "en": "Église Saint-Jean-Baptiste",
+                "fr": "Église Saint-Jean-Baptiste"
               },
               "tip_5lang": {
                 "de": "Genießen Sie die Akustik des Regens auf dem Kirchendach und nutzen Sie die Zeit für eine trockene Besichtigung.",
                 "hu": "Élvezd a tetőn koppanó eső hangját a belső térben; tökéletes helyszín a nap lezárására fedett helyen.",
                 "ro": "Bucurați-vă de acustica ploii pe acoperișul bisericii și profitați de timp pentru o vizită interioară lungă.",
-                "en": "Enjoy the acoustics of the rain on the church roof while taking your time for a thorough indoor visit."
+                "en": "Enjoy the acoustics of the rain on the church roof while taking your time for a thorough indoor visit.",
+                "fr": "Profitez de l'acoustique de la pluie sur le toit de l'église tout en prenant votre temps pour une visite complète à l'intérieur."
               }
             }
           ]
@@ -224,7 +246,8 @@
             "de": "Der frostige Morgen am Bahnhof erfordert warme Schichten gegen den Wind aus dem Flusstal. Mittags glitzert die Wintersonne auf den Kirchtürmen, doch die Luft bleibt beißend kalt. Am Nachmittag sinkt die Sonne bereits gegen 16:30 Uhr und taucht die Kapellen in tiefes Orange. Der Abend bricht früh herein, wenn die kühle Dunkelheit die beleuchteten historischen Gassen umhüllt.",
             "hu": "A fagyos reggelen az állomásról indulva réteges öltözet és forró ital javasolt a völgyi szélben. Délben a téli napsütés megcsillan a templomtornyokon, de a levegő csípős marad. Délután a korai sötétedés miatt már 16:30-kor szürkületbe borul a táj a kápolnánál. Este a kivilágított ódon utcák melegséget árasztanak a hideg decemberi szélben.",
             "ro": "Dimineața geroasă la gară necesită haine groase împotriva vântului rece din vale. La prânz, soarele de iarnă sclipește pe turnurile bisericilor, dar aerul rămâne tăios. După-amiaza, soarele apune deja în jurul orei 16:30, scufundând capelele într-o lumină portocalie. Seara se așterne devreme, când întunericul rece îmbracă străzile istorice iluminate.",
-            "en": "The frosty morning at the station requires warm layers against the valley wind. At noon, winter sun glints off the church spires, but the air remains biting cold. By afternoon, the sun sets as early as 16:30, bathing the chapels in deep orange light. Evening falls quickly, as the cool darkness envelopes the illuminated historic streets and alleys."
+            "en": "The frosty morning at the station requires warm layers against the valley wind. At noon, winter sun glints off the church spires, but the air remains biting cold. By afternoon, the sun sets as early as 16:30, bathing the chapels in deep orange light. Evening falls quickly, as the cool darkness envelopes the illuminated historic streets and alleys.",
+            "fr": "La matinée glaciale à la gare exige des couches chaudes contre le vent de la vallée. À midi, le soleil d'hiver scintille sur les flèches des églises, mais l'air reste mordant. En après-midi, le soleil se couche dès 16:30, baignan les chapelles d'une lumière orange profonde. Le soir tombe rapidement, alors que l'obscurité fraîche enveloppe les rues et ruelles historiques illuminées."
           },
           "stops": [
             {
@@ -232,13 +255,15 @@
                 "de": "Capdenac Railway Station",
                 "hu": "Capdenac Railway Station",
                 "ro": "Capdenac Railway Station",
-                "en": "Capdenac Railway Station"
+                "en": "Capdenac Railway Station",
+                "fr": "Gare de Capdenac"
               },
               "tip_5lang": {
                 "de": "Trinken Sie einen heißen Kaffee im Bahnhof, bevor Sie in die kalte Morgenluft des Lot-Tals hinausgehen.",
                 "hu": "Igyál meg egy forró kávét az állomáson, mielőtt kilépnél a Lot-völgy metsző, hideg reggeli levegőjére.",
                 "ro": "Beți o cafea fierbinte în gară înainte de a ieși în aerul tăios de dimineață din valea râului Lot.",
-                "en": "Grab a hot coffee at the station before heading out into the biting morning air of the Lot valley."
+                "en": "Grab a hot coffee at the station before heading out into the biting morning air of the Lot valley.",
+                "fr": "Prenez un café chaud à la gare avant de partir dans l'air matinal mordant de la vallée du Lot."
               }
             },
             {
@@ -246,13 +271,15 @@
                 "de": "Our Lady of Travelers Church",
                 "hu": "Our Lady of Travelers Church",
                 "ro": "Our Lady of Travelers Church",
-                "en": "Our Lady of Travelers Church"
+                "en": "Our Lady of Travelers Church",
+                "fr": "Église Notre-Dame-des-Voyageurs"
               },
               "tip_5lang": {
                 "de": "Die dicken Steinmauern schützen vor dem Wind; achten Sie auf die tiefstehende Sonne, die den Altar beleuchtet.",
                 "hu": "A vastag kőfalak védenek a szél ellen; figyeld meg, ahogy az alacsony téli nap megvilágítja az oltárt.",
                 "ro": "Zidurile groase de piatră vă protejează de vânt; observați cum soarele jos de iarnă luminează altarul.",
-                "en": "The thick stone walls provide shelter from the wind; watch how the low winter sun illuminates the altar."
+                "en": "The thick stone walls provide shelter from the wind; watch how the low winter sun illuminates the altar.",
+                "fr": "Les épais murs de pierre offrent un abri contre le vent ; observez comment le bas soleil d'hiver illumine l'autel."
               }
             },
             {
@@ -260,13 +287,15 @@
                 "de": "Mini-golf la guinguette",
                 "hu": "Mini-golf la guinguette",
                 "ro": "Mini-golf la guinguette",
-                "en": "Mini-golf la guinguette"
+                "en": "Mini-golf la guinguette",
+                "fr": "Mini-golf la guinguette"
               },
               "tip_5lang": {
                 "de": "Spaziergang am Flussufer ist herrlich, aber Vorsicht vor Raureif auf den Holzbänken und dem Rasen.",
                 "hu": "A folyóparti séta ilyenkor is gyönyörű, de vigyázz a zúzmarás padokkal és a csúszós fűvel a pálya mellett.",
                 "ro": "Plimbarea pe malul râului este superbă, dar atenție la chiciura de pe bănci și de pe iarba de lângă teren.",
-                "en": "The riverside walk is beautiful in winter, but watch out for hoarfrost on the benches and slippery grass."
+                "en": "The riverside walk is beautiful in winter, but watch out for hoarfrost on the benches and slippery grass.",
+                "fr": "La promenade au bord de la rivière est belle en hiver, mais méfiez-vous du givre sur les bancs et de l'herbe glissante."
               }
             },
             {
@@ -274,13 +303,15 @@
                 "de": "Chapelle Saint-Étienne",
                 "hu": "Chapelle Saint-Étienne",
                 "ro": "Chapelle Saint-Étienne",
-                "en": "Chapelle Saint-Étienne"
+                "en": "Chapelle Saint-Étienne",
+                "fr": "Chapelle Saint-Étienne"
               },
               "tip_5lang": {
                 "de": "Besuchen Sie die Kapelle vor 16:00 Uhr, um das letzte Tageslicht auf den romanischen Steinen zu sehen.",
                 "hu": "Látogasd meg a kápolnát délután 4 előtt, hogy lásd az utolsó fényeket a román stílusú kőfalakon.",
                 "ro": "Vizitați capela înainte de ora 16:00 pentru a vedea ultima lumină a zilei pe pietrele romanice.",
-                "en": "Visit the chapel before 4 PM to catch the last daylight hitting the ancient Romanesque stones."
+                "en": "Visit the chapel before 4 PM to catch the last daylight hitting the ancient Romanesque stones.",
+                "fr": "Visitez la chapelle avant 16:00 pour surprendre la dernière lumière du jour frappant les anciennes pierres romanes."
               }
             },
             {
@@ -288,13 +319,15 @@
                 "de": "Église Saint-Jean-Baptiste",
                 "hu": "Église Saint-Jean-Baptiste",
                 "ro": "Église Saint-Jean-Baptiste",
-                "en": "Église Saint-Jean-Baptiste"
+                "en": "Église Saint-Jean-Baptiste",
+                "fr": "Église Saint-Jean-Baptiste"
               },
               "tip_5lang": {
                 "de": "Ziehen Sie sich warm an, da die Kirche nicht geheizt wird; die abendliche Beleuchtung ist jedoch herzerwärmend.",
                 "hu": "Öltözz fel jól, mert a templom nincs fűtve; az esti fények azonban kárpótolnak a hidegért.",
                 "ro": "Îmbrăcați-vă bine deoarece biserica nu este încălzită; iluminarea de seară este însă reconfortantă.",
-                "en": "Dress warmly as the church is unheated; however, the evening illumination is truly heart-warming."
+                "en": "Dress warmly as the church is unheated; however, the evening illumination is truly heart-warming.",
+                "fr": "Habillez-vous chaudement car l'église n'est pas chauffée ; toutefois, l'illumination du soir est vraiment réconfortante."
               }
             }
           ]
@@ -314,7 +347,8 @@
             "de": "Capdenac Railway Station",
             "hu": "Capdenac Railway Station",
             "ro": "Capdenac Railway Station",
-            "en": "Capdenac Railway Station"
+            "en": "Capdenac Railway Station",
+            "fr": "Gare de Capdenac"
           },
           "coords": [
             2.074002,
@@ -329,7 +363,8 @@
             "de": "Bewundern Sie die historische Architektur dieses wichtigen Eisenbahnknotenpunkts der Region, kommen Sie jedoch früh, um Pendlerströme zu meiden.",
             "hu": "Csodálja meg ennek a fontos regionális vasúti csomópontnak a történelmi építészetét, de érkezzen korán az ingázó tömegek elkerülése érdekében.",
             "ro": "Admirați arhitectura istorică a acestui nod feroviar vital din regiune, dar sosiți devreme pentru a evita aglomerația navetiștilor.",
-            "en": "Admire the historic architecture of this vital rail hub connecting the region, but arrive early to avoid the bustling commuter crowds."
+            "en": "Admire the historic architecture of this vital rail hub connecting the region, but arrive early to avoid the bustling commuter crowds.",
+            "fr": "Admirez l'architecture historique de ce nœud ferroviaire vital reliant la région, mais arrivez tôt pour éviter l'affluence des navetteurs."
           }
         },
         {
@@ -337,7 +372,8 @@
             "de": "Our Lady of Travelers Church",
             "hu": "Our Lady of Travelers Church",
             "ro": "Our Lady of Travelers Church",
-            "en": "Our Lady of Travelers Church"
+            "en": "Our Lady of Travelers Church",
+            "fr": "Église Notre-Dame-des-Voyageurs"
           },
           "coords": [
             2.079316,
@@ -352,7 +388,8 @@
             "de": "Erkunden Sie dieses einzigartige, den Reisenden gewidmete Heiligtum und nehmen Sie sich einen Moment Zeit für die schönen Buntglasfenster.",
             "hu": "Fedezze fel ezt az utazóknak szentelt egyedülálló szentélyt, és szánjon egy percet az oltár melletti gyönyörű ólomüveg ablakok megcsodálására.",
             "ro": "Explorați acest sanctuar unic dedicat călătorilor și luați-vă un moment pentru a admira vitraliile frumoase de lângă altarul principal.",
-            "en": "Explore this uniquely dedicated sanctuary offering peace to wanderers, and take a moment to notice the beautiful stained glass near the altar."
+            "en": "Explore this uniquely dedicated sanctuary offering peace to wanderers, and take a moment to notice the beautiful stained glass near the altar.",
+            "fr": "Explorez ce sanctuaire dédié de façon unique offrant la paix aux voyageurs, et prenez un moment pour remarquer les beaux vitraux près de l'autel."
           }
         },
         {
@@ -360,7 +397,8 @@
             "de": "Chapelle Saint-Jean-Baptiste",
             "hu": "Chapelle Saint-Jean-Baptiste",
             "ro": "Chapelle Saint-Jean-Baptiste",
-            "en": "Chapelle Saint-Jean-Baptiste"
+            "en": "Chapelle Saint-Jean-Baptiste",
+            "fr": "Chapelle Saint-Jean-Baptiste"
           },
           "coords": [
             2.108293,
@@ -375,7 +413,8 @@
             "de": "Erleben Sie die intime Ruhe dieser kleineren Landkapelle, die sich ideal für stille Reflexion in den friedlichen Morgenstunden eignet.",
             "hu": "Tapasztalja meg ennek a kisebb vidéki kápolnának a meghitt békéjét, amely ideális a csendes elmélkedéshez a nyugodt reggeli órákban.",
             "ro": "Experimentați seninătatea intimă a acestei mici capele de țară, ideală pentru reflecție liniștită dacă o vizitați în orele dimineții.",
-            "en": "Experience the intimate serenity of this smaller countryside chapel, ideal for quiet reflection if you visit during the peaceful morning hours."
+            "en": "Experience the intimate serenity of this smaller countryside chapel, ideal for quiet reflection if you visit during the peaceful morning hours.",
+            "fr": "Vivez la sérénité intime de cette petite chapelle de campagne, idéale pour une réflexion tranquille si vous la visitez durant les heures matinales paisibles."
           }
         },
         {
@@ -383,7 +422,8 @@
             "de": "Église Notre-Dame-de-l'Assomption",
             "hu": "Église Notre-Dame-de-l'Assomption",
             "ro": "Église Notre-Dame-de-l'Assomption",
-            "en": "Église Notre-Dame-de-l'Assomption"
+            "en": "Église Notre-Dame-de-l'Assomption",
+            "fr": "Église Notre-Dame-de-l'Assomption"
           },
           "coords": [
             2.113979,
@@ -398,7 +438,8 @@
             "de": "Bestaunen Sie die beeindruckenden Gewölbedecken dieser markanten Kirche und schalten Sie den Kamerablitz aus, um das Innere zu schonen.",
             "hu": "Csodálja meg ennek a kiemelkedő templomnak a lenyűgöző boltíves mennyezetét, de a belső tér védelme érdekében kapcsolja ki a vakut.",
             "ro": "Minunați-vă de tavanele boltite impresionante ale acestei biserici proeminente, oprind blițul camerei pentru a proteja interiorul delicat.",
-            "en": "Marvel at the impressive vaulted ceilings of this prominent church, keeping your camera flash turned off to preserve the delicate interior."
+            "en": "Marvel at the impressive vaulted ceilings of this prominent church, keeping your camera flash turned off to preserve the delicate interior.",
+            "fr": "Émerveillez-vous devant les voûtes impressionnantes de cette église majeure, en gardant votre flash désactivé pour préserver l'intérieur délicat."
           }
         },
         {
@@ -406,7 +447,8 @@
             "de": "Château de Lacoste",
             "hu": "Château de Lacoste",
             "ro": "Château de Lacoste",
-            "en": "Château de Lacoste"
+            "en": "Château de Lacoste",
+            "fr": "Château de Lacoste"
           },
           "coords": [
             2.090171,
@@ -421,7 +463,8 @@
             "de": "Entdecken Sie die lokale Adelsgeschichte auf dem beeindruckenden Gelände dieser mittelalterlichen Burg, am besten mit bequemen Schuhen.",
             "hu": "Fedezze fel a helyi arisztokrácia történelmét ennek a középkori kastélynak a bejárásakor, és viseljen kényelmes cipőt az udvari sétához.",
             "ro": "Descoperiți istoria aristocratică locală vizitând terenurile acestui castel medieval, purtând încălțăminte confortabilă pentru curte.",
-            "en": "Uncover local aristocratic history as you tour the striking grounds of this medieval castle, wearing comfortable shoes for the courtyard."
+            "en": "Uncover local aristocratic history as you tour the striking grounds of this medieval castle, wearing comfortable shoes for the courtyard.",
+            "fr": "Découvrez l'histoire aristocratique locale en visitant les remarquables abords de ce château médiéval, en portant des chaussures confortables pour la cour."
           }
         },
         {
@@ -429,7 +472,8 @@
             "de": "Église Saint-Julien",
             "hu": "Église Saint-Julien",
             "ro": "Église Saint-Julien",
-            "en": "Église Saint-Julien"
+            "en": "Église Saint-Julien",
+            "fr": "Église Saint-Julien"
           },
           "coords": [
             2.07274,
@@ -444,7 +488,8 @@
             "de": "Bewundern Sie das gut erhaltene Mauerwerk dieses historischen Heiligtums und hinterlassen Sie eine kleine Spende für die Restaurierung.",
             "hu": "Csodálja meg ennek a történelmi szentélynek a jól megőrzött kőművesmunkáját, és hagyjon kis adományt a folyamatos restaurálás támogatására.",
             "ro": "Admirați zidăria bine conservată a acestui sanctuar istoric, lăsând o mică donație dacă apreciați eforturile continue de restaurare.",
-            "en": "Admire the well-preserved stonework of this historical sanctuary, leaving a small donation if you appreciate the ongoing restoration efforts."
+            "en": "Admire the well-preserved stonework of this historical sanctuary, leaving a small donation if you appreciate the ongoing restoration efforts.",
+            "fr": "Admirez la pierre bien conservée de ce sanctuaire historique, en laissant une petite donation si vous appréciez les efforts de restauration en cours."
           }
         }
       ],
@@ -452,7 +497,8 @@
         "de": "Radeln Sie durch das Herz von Capdenac, beginnend am Hauptbahnhof, bevor Sie zur Kirche der Reisenden fahren. Eine Morgenbrise führt Sie ostwärts zu zwei prächtigen Kapellen. Am Nachmittag erreichen Sie das imposante Château de Lacoste und erkunden dessen Gelände. Eine letzte Fahrt bringt Sie zur historischen Kirche Saint-Julien.",
         "hu": "Tekerjen át Capdenac szívén, kezdve a központi pályaudvarnál, mielőtt az utazóknak szentelt templom felé venné az irányt. A reggeli szellő kelet felé, két csodálatos kápolnához vezeti. Délután eléri a lenyűgöző Château de Lacoste kastélyt, ahol felfedezheti a birtokot. Egy utolsó tekerés elviszi a történelmi Saint-Julien templomhoz.",
         "ro": "Pedalați prin inima orașului Capdenac, pornind de la gara centrală înainte de a vă îndrepta spre biserica călătorilor. Briza dimineții vă ghidează spre est către două capele magnifice. După-amiaza, veți ajunge la impunătorul Château de Lacoste. O ultimă plimbare vă aduce la biserica istorică Saint-Julien.",
-        "en": "Pedal through the heart of Capdenac, starting at the central station before heading to the church dedicated to travelers. The morning breeze guides you eastward towards two magnificent chapels. In the afternoon, you will reach the commanding Château de Lacoste, exploring its grounds. A final pedal brings you to the historic Saint-Julien church."
+        "en": "Pedal through the heart of Capdenac, starting at the central station before heading to the church dedicated to travelers. The morning breeze guides you eastward towards two magnificent chapels. In the afternoon, you will reach the commanding Château de Lacoste, exploring its grounds. A final pedal brings you to the historic Saint-Julien church.",
+        "fr": "Parcourez à vélo le cœur de Capdenac, en commençant à la gare centrale avant de vous diriger vers l'église dédiée aux voyageurs. La brise du matin vous guide vers l'est en direction de deux magnifiques chapelles. L'après-midi, vous atteindrez le majestueux Château de Lacoste pour en explorer les abords. Un dernier coup de pédale vous mène à l'historique église Saint-Julien."
       },
       "variants": {
         "rainy": {
@@ -460,7 +506,8 @@
             "de": "Regenjacken sind am Morgen Pflicht, während Sie vom Bahnhof aus in die Pedale treten. Mittags verlangen die nassen Straßen in der Nähe der Kirchen volle Konzentration und sanftes Bremsen. Der Nachmittag führt am nebligen Schloss vorbei, wo der Asphalt besonders rutschig sein kann. Der Abend endet feucht, aber erfrischt, wenn Sie Ihr Rad nach der Tour durch Capdenac sicher abstellen.",
             "hu": "Az esőkabát kötelező reggel, ahogy az állomásról nekivágsz a távnak két keréken. Délben a templomok környékén a vizes út teljes koncentrációt és óvatos fékezést igényel. Délután a ködbe vesző kastély felé tekerünk, ahol az aszfalt különösen csúszós lehet. Az este nyirkosan, de frissítően zárul, miután biztonságba helyezted a biciklidet a túra végén.",
             "ro": "Pelerina de ploaie este obligatorie dimineața când plecați de la gară pe două roți. La prânz, străzile ude din apropierea bisericilor cer concentrare maximă și frânare ușoară. După-amiaza treceți pe lângă castelul învăluit în ceață, unde asfaltul poate fi foarte alunecos. Seara se încheie umed, dar revigorant, după ce parcați bicicleta în siguranță.",
-            "en": "Rain jackets are mandatory in the morning as you pedal away from the station. At noon, the wet roads near the churches demand full concentration and gentle braking. The afternoon leads past the misty castle, where the asphalt can be particularly slippery. The evening ends damp but refreshing after you safely park your bike after the tour."
+            "en": "Rain jackets are mandatory in the morning as you pedal away from the station. At noon, the wet roads near the churches demand full concentration and gentle braking. The afternoon leads past the misty castle, where the asphalt can be particularly slippery. The evening ends damp but refreshing after you safely park your bike after the tour.",
+            "fr": "Les vestes de pluie sont obligatoires le matin pendant que vous partez à vélo depuis la gare. À midi, les routes mouillées près des églises demandent une concentration totale et un freinage doux. L'après-midi vous fait passer près du château embrumé, où l'asphalte peut être particulièrement glissant. La soirée se termine humide mais revigorante après que vous ayez garé votre vélo en toute sécurité à la fin de la visite."
           },
           "stops": [
             {
@@ -468,13 +515,15 @@
                 "de": "Capdenac Railway Station",
                 "hu": "Capdenac Railway Station",
                 "ro": "Capdenac Railway Station",
-                "en": "Capdenac Railway Station"
+                "en": "Capdenac Railway Station",
+                "fr": "Gare de Capdenac"
               },
               "tip_5lang": {
                 "de": "Prüfen Sie Ihre Bremsen und den Reifendruck unter dem Bahnhofsdach, bevor Sie in den Regen starten.",
                 "hu": "Ellenőrizd a fékeket és a guminyomást az állomás fedett peronján, mielőtt elindulnál az esőbe.",
                 "ro": "Verificați frânele și presiunea pneurilor sub acoperișul gării înainte de a porni prin ploaie.",
-                "en": "Check your brakes and tire pressure under the station roof before heading out into the rain."
+                "en": "Check your brakes and tire pressure under the station roof before heading out into the rain.",
+                "fr": "Vérifiez vos freins et la pression des pneus sous le toit de la gare avant de partir sous la pluie."
               }
             },
             {
@@ -482,13 +531,15 @@
                 "de": "Our Lady of Travelers Church",
                 "hu": "Our Lady of Travelers Church",
                 "ro": "Our Lady of Travelers Church",
-                "en": "Our Lady of Travelers Church"
+                "en": "Our Lady of Travelers Church",
+                "fr": "Église Notre-Dame-des-Voyageurs"
               },
               "tip_5lang": {
                 "de": "Stellen Sie Ihr Fahrrad unter einen Baum oder Dachvorsprung und genießen Sie die trockene Kirchenstille.",
                 "hu": "Parkolj le egy fa vagy egy eresz alá, és élvezd a templom belső csendjét, amíg odakint szakad az eső.",
                 "ro": "Parcați bicicleta sub un copac sau o streașină și bucurați-vă de liniștea uscată din interiorul bisericii.",
-                "en": "Park your bike under a tree or overhang and enjoy the dry church interior while it pours outside."
+                "en": "Park your bike under a tree or overhang and enjoy the dry church interior while it pours outside.",
+                "fr": "Garez votre vélo sous un arbre ou un auvent et profitez de l'intérieur sec de l'église pendant qu'il pleut dehors."
               }
             },
             {
@@ -496,13 +547,15 @@
                 "de": "Chapelle Saint-Jean-Baptiste",
                 "hu": "Chapelle Saint-Jean-Baptiste",
                 "ro": "Chapelle Saint-Jean-Baptiste",
-                "en": "Chapelle Saint-Jean-Baptiste"
+                "en": "Chapelle Saint-Jean-Baptiste",
+                "fr": "Chapelle Saint-Jean-Baptiste"
               },
               "tip_5lang": {
                 "de": "Der Weg hierher kann schlammig sein; fahren Sie langsam in Kurven, um Wegrutschen zu vermeiden.",
                 "hu": "Az idevezető út sáros lehet; lassíts a kanyarokban, hogy elkerüld a megcsúszást a vizes aszfalton.",
                 "ro": "Drumul până aici poate fi noroios; conduceți încet în curbe pentru a evita deraparea pe asfaltul ud.",
-                "en": "The path here can be muddy; slow down in corners to avoid sliding on the wet asphalt surfaces."
+                "en": "The path here can be muddy; slow down in corners to avoid sliding on the wet asphalt surfaces.",
+                "fr": "Le chemin ici peut être boueux ; ralentissez dans les virages pour éviter de glisser sur les surfaces asphaltées mouillées."
               }
             },
             {
@@ -510,13 +563,15 @@
                 "de": "Église Notre-Dame-de-l'Assomption",
                 "hu": "Église Notre-Dame-de-l'Assomption",
                 "ro": "Église Notre-Dame-de-l'Assomption",
-                "en": "Église Notre-Dame-de-l'Assomption"
+                "en": "Église Notre-Dame-de-l'Assomption",
+                "fr": "Église Notre-Dame-de-l'Assomption"
               },
               "tip_5lang": {
                 "de": "Wischen Sie Ihren Sattel mit einem Tuch ab, bevor Sie die Fahrt fortsetzen; die Kirche bietet guten Windschutz.",
                 "hu": "Töröld le a nyerget egy ronggyal, mielőtt továbbindulsz; a templom fala jó szélvédelmet nyújt a pihenéshez.",
                 "ro": "Ștergeți șaua cu o cârpă înainte de a continua drumul; biserica oferă o bună protecție împotriva vântului.",
-                "en": "Wipe your saddle with a cloth before continuing; the church wall provides good wind protection for a break."
+                "en": "Wipe your saddle with a cloth before continuing; the church wall provides good wind protection for a break.",
+                "fr": "Essuyez votre selle avec un chiffon avant de continuer ; le mur de l'église offre un bon abri contre le vent pour une pause."
               }
             },
             {
@@ -524,13 +579,15 @@
                 "de": "Château de Lacoste",
                 "hu": "Château de Lacoste",
                 "ro": "Château de Lacoste",
-                "en": "Château de Lacoste"
+                "en": "Château de Lacoste",
+                "fr": "Château de Lacoste"
               },
               "tip_5lang": {
                 "de": "Die Auffahrt zum Schloss ist bei Regen rutschig; nutzen Sie niedrige Gänge und achten Sie auf Pfützen.",
                 "hu": "A kastélyhoz vezető emelkedő esőben csúszós; használj alacsony fokozatot és ügyelj a mélyebb tócsákra.",
                 "ro": "Urcarea spre castel este alunecoasă pe ploaie; folosiți viteze mici și aveți grijă la bălțile adânci.",
-                "en": "The climb to the castle is slippery in the rain; use low gears and watch out for deep puddles."
+                "en": "The climb to the castle is slippery in the rain; use low gears and watch out for deep puddles.",
+                "fr": "La montée vers le château est glissante sous la pluie ; utilisez des rapports bas et méfiez-vous des flaques profondes."
               }
             },
             {
@@ -538,13 +595,15 @@
                 "de": "Église Saint-Julien",
                 "hu": "Église Saint-Julien",
                 "ro": "Église Saint-Julien",
-                "en": "Église Saint-Julien"
+                "en": "Église Saint-Julien",
+                "fr": "Église Saint-Julien"
               },
               "tip_5lang": {
                 "de": "Beenden Sie die Tour vorsichtig; das Kopfsteinpflaster im alten Viertel ist bei Nässe eine Herausforderung.",
                 "hu": "Zárd óvatosan a túrát; az óvárosi macskakövek vizesen komoly kihívást jelenthetnek a bringásoknak.",
                 "ro": "Încheiați turul cu atenție; pavajul din cartierul vechi este o provocare pentru bicicliști pe ploaie.",
-                "en": "End your tour carefully; the cobblestones in the old quarter are a real challenge for cyclists when wet."
+                "en": "End your tour carefully; the cobblestones in the old quarter are a real challenge for cyclists when wet.",
+                "fr": "Terminez votre visite avec précaution ; les pavés du vieux quartier sont un vrai défi pour les cyclistes quand ils sont mouillés."
               }
             }
           ]
@@ -554,7 +613,8 @@
             "de": "Der eiskalte Fahrtwind am Morgen macht Handschuhe und Thermokleidung unerlässlich. Mittags wärmt die Sonne nur schwach, während Sie zwischen den historischen Kirchen pendeln. Am Nachmittag sinken die Temperaturen am Schloss spürbar, und das Licht wird golden. Der Abend bricht gegen 17:00 Uhr mit frostiger Dunkelheit an, was eine gute Fahrradbeleuchtung zwingend erforderlich macht.",
             "hu": "A jeges menetszél miatt a kesztyű és a termoruha elengedhetetlen a reggeli induláshoz. Délben a nap csak gyengén melegít, miközben a történelmi templomok között tekersz. Délután a kastélynál érezhetően zuhan a hőmérséklet, a fények pedig aranyszínűvé válnak. Az este 17:00 körül fagyos sötétséggel érkezik, így a jó világítás életmentő a túra végén.",
             "ro": "Vântul înghețat de dimineață face mănușile și hainele termice indispensabile pentru plecare. La prânz, soarele încălzește slab în timp ce pedalați între bisericile istorice. După-amiaza, temperaturile scad simțitor la castel, iar lumina devine aurie. Seara vine cu un ger întunecat în jurul orei 17:00, făcând iluminarea bicicletei obligatorie.",
-            "en": "The icy headwind in the morning makes gloves and thermal gear essential for your start. At noon, the sun offers little warmth as you pedal between historic churches. In the afternoon, temperatures drop noticeably at the castle, and the light turns golden. Evening arrives with frosty darkness around 5 PM, making good bike lights mandatory."
+            "en": "The icy headwind in the morning makes gloves and thermal gear essential for your start. At noon, the sun offers little warmth as you pedal between historic churches. In the afternoon, temperatures drop noticeably at the castle, and the light turns golden. Evening arrives with frosty darkness around 5 PM, making good bike lights mandatory.",
+            "fr": "Le vent glacial du matin rend gants et vêtements thermiques essentiels pour le départ. À midi, le soleil offre peu de chaleur pendant que vous pédalez entre les églises historiques. L'après-midi, les températures chutent nettement au château et la lumière devient dorée. Le soir arrive dans l'obscurité glaciale vers 17:00, rendant de bons éclairages pour vélo obligatoires."
           },
           "stops": [
             {
@@ -562,13 +622,15 @@
                 "de": "Capdenac Railway Station",
                 "hu": "Capdenac Railway Station",
                 "ro": "Capdenac Railway Station",
-                "en": "Capdenac Railway Station"
+                "en": "Capdenac Railway Station",
+                "fr": "Gare de Capdenac"
               },
               "tip_5lang": {
                 "de": "Wärmen Sie Ihre Muskeln auf, bevor Sie losfahren; achten Sie auf schwarzes Eis auf den Straßen.",
                 "hu": "Melegítsd be az izmaidat indulás előtt; ügyelj az utakon előforduló alattomos jégfoltokra.",
                 "ro": "Încălziți-vă mușchii înainte de plecare; atenție la porțiunile de gheață neagră de pe șosea.",
-                "en": "Warm up your muscles before starting; watch out for treacherous black ice patches on the roads."
+                "en": "Warm up your muscles before starting; watch out for treacherous black ice patches on the roads.",
+                "fr": "Réchauffez vos muscles avant de partir ; méfiez-vous des plaques de verglas traîtres sur les routes."
               }
             },
             {
@@ -576,13 +638,15 @@
                 "de": "Our Lady of Travelers Church",
                 "hu": "Our Lady of Travelers Church",
                 "ro": "Our Lady of Travelers Church",
-                "en": "Our Lady of Travelers Church"
+                "en": "Our Lady of Travelers Church",
+                "fr": "Église Notre-Dame-des-Voyageurs"
               },
               "tip_5lang": {
                 "de": "Ein kurzer Stopp in der Kirche hilft, die Hände aufzuwärmen und den eisigen Wind zu vergessen.",
                 "hu": "Egy rövid megálló a templomban segít felmelegíteni a kezedet és elfelejteni a metsző téli szelet.",
                 "ro": "O scurtă oprire în biserică vă ajută să vă încălziți mâinile și să uitați de vântul tăios de iarnă.",
-                "en": "A short stop inside the church helps warm up your hands and forget the biting winter wind for a while."
+                "en": "A short stop inside the church helps warm up your hands and forget the biting winter wind for a while.",
+                "fr": "Un court arrêt à l'intérieur de l'église aide à réchauffer vos mains et à oublier un instant le vent d'hiver mordant."
               }
             },
             {
@@ -590,13 +654,15 @@
                 "de": "Chapelle Saint-Jean-Baptiste",
                 "hu": "Chapelle Saint-Jean-Baptiste",
                 "ro": "Chapelle Saint-Jean-Baptiste",
-                "en": "Chapelle Saint-Jean-Baptiste"
+                "en": "Chapelle Saint-Jean-Baptiste",
+                "fr": "Chapelle Saint-Jean-Baptiste"
               },
               "tip_5lang": {
                 "de": "Die Luft hier oben ist klar und kalt; atmen Sie tief durch, aber halten Sie Ihren Hals bedeckt.",
                 "hu": "A levegő itt fent tiszta és fagyos; lélegezz mélyeket, de tartsd a nyakadat jól befedve sállal.",
                 "ro": "Aerul aici sus este curat și înghețat; respirați adânc, dar păstrați-vă gâtul bine acoperit.",
-                "en": "The air up here is crisp and frozen; take deep breaths but keep your neck well covered with a scarf."
+                "en": "The air up here is crisp and frozen; take deep breaths but keep your neck well covered with a scarf.",
+                "fr": "L'air ici est vif et gelé ; respirez profondément mais gardez bien le cou couvert d'une écharpe."
               }
             },
             {
@@ -604,13 +670,15 @@
                 "de": "Église Notre-Dame-de-l'Assomption",
                 "hu": "Église Notre-Dame-de-l'Assomption",
                 "ro": "Église Notre-Dame-de-l'Assomption",
-                "en": "Église Notre-Dame-de-l'Assomption"
+                "en": "Église Notre-Dame-de-l'Assomption",
+                "fr": "Église Notre-Dame-de-l'Assomption"
               },
               "tip_5lang": {
                 "de": "Nutzen Sie den Halt für einen warmen Tee aus Ihrer Thermoskanne im Windschatten des Gebäudes.",
                 "hu": "Használd ki a megállót egy forró teára a termosztodból az épület szélvédett oldalán.",
                 "ro": "Profitați de oprire pentru un ceai fierbinte din termos la adăpostul peretelui clădirii.",
-                "en": "Use this stop to have some hot tea from your thermos in the wind-sheltered lee of the building."
+                "en": "Use this stop to have some hot tea from your thermos in the wind-sheltered lee of the building.",
+                "fr": "Profitez de cet arrêt pour boire un peu de thé chaud de votre thermos à l'abri du vent derrière le bâtiment."
               }
             },
             {
@@ -618,13 +686,15 @@
                 "de": "Château de Lacoste",
                 "hu": "Château de Lacoste",
                 "ro": "Château de Lacoste",
-                "en": "Château de Lacoste"
+                "en": "Château de Lacoste",
+                "fr": "Château de Lacoste"
               },
               "tip_5lang": {
                 "de": "Das Schloss sieht im Winterlicht magisch aus; beeilen Sie sich, bevor die Sonne gegen 16:30 Uhr untergeht.",
                 "hu": "A kastély varázslatos a téli fényben; igyekezz, mert a nap már 16:30 körül nyugovóra tér.",
                 "ro": "Castelul arată magic în lumina iernii; grăbiți-vă înainte ca soarele să apună în jurul orei 16:30.",
-                "en": "The castle looks magical in the winter light; hurry up as the sun sets as early as 4:30 PM."
+                "en": "The castle looks magical in the winter light; hurry up as the sun sets as early as 4:30 PM.",
+                "fr": "Le château paraît magique sous la lumière hivernale ; dépêchez-vous car le soleil se couche dès 16:30."
               }
             },
             {
@@ -632,13 +702,15 @@
                 "de": "Église Saint-Julien",
                 "hu": "Église Saint-Julien",
                 "ro": "Église Saint-Julien",
-                "en": "Église Saint-Julien"
+                "en": "Église Saint-Julien",
+                "fr": "Église Saint-Julien"
               },
               "tip_5lang": {
                 "de": "Vorsicht vor gefrorenem Tau auf dem Kopfsteinpflaster beim letzten Abstieg des Tages.",
                 "hu": "Vigyázz a lefagyott pára miatti csúszós macskakövekre a nap utolsó lejtőjén a város felé.",
                 "ro": "Atenție la pavajul alunecos din cauza rouăi înghețate pe ultima coborâre a zilei spre oraș.",
-                "en": "Watch out for slippery cobblestones caused by frozen dew on the final descent of the day."
+                "en": "Watch out for slippery cobblestones caused by frozen dew on the final descent of the day.",
+                "fr": "Attention aux pavés glissants causés par la rosée gelée lors de la descente finale de la journée."
               }
             }
           ]
@@ -658,7 +730,8 @@
             "de": "Capdenac Railway Station",
             "hu": "Capdenac Railway Station",
             "ro": "Capdenac Railway Station",
-            "en": "Capdenac Railway Station"
+            "en": "Capdenac Railway Station",
+            "fr": "Gare de Capdenac"
           },
           "coords": [
             2.074002,
@@ -673,7 +746,8 @@
             "de": "Bewundern Sie die historische Architektur dieses wichtigen Eisenbahnknotenpunkts der Region, kommen Sie jedoch früh, um Pendlerströme zu meiden.",
             "hu": "Csodálja meg ennek a fontos regionális vasúti csomópontnak a történelmi építészetét, de érkezzen korán az ingázó tömegek elkerülése érdekében.",
             "ro": "Admirați arhitectura istorică a acestui nod feroviar vital din regiune, dar sosiți devreme pentru a evita aglomerația navetiștilor.",
-            "en": "Admire the historic architecture of this vital rail hub connecting the region, but arrive early to avoid the bustling commuter crowds."
+            "en": "Admire the historic architecture of this vital rail hub connecting the region, but arrive early to avoid the bustling commuter crowds.",
+            "fr": "Admirez l'architecture historique de ce nœud ferroviaire vital reliant la région, mais arrivez tôt pour éviter l'affluence des navetteurs."
           }
         },
         {
@@ -681,7 +755,8 @@
             "de": "Our Lady of Travelers Church",
             "hu": "Our Lady of Travelers Church",
             "ro": "Our Lady of Travelers Church",
-            "en": "Our Lady of Travelers Church"
+            "en": "Our Lady of Travelers Church",
+            "fr": "Église Notre-Dame-des-Voyageurs"
           },
           "coords": [
             2.079316,
@@ -696,7 +771,8 @@
             "de": "Erkunden Sie dieses einzigartige, den Reisenden gewidmete Heiligtum und nehmen Sie sich einen Moment Zeit für die schönen Buntglasfenster.",
             "hu": "Fedezze fel ezt az utazóknak szentelt egyedülálló szentélyt, és szánjon egy percet az oltár melletti gyönyörű ólomüveg ablakok megcsodálására.",
             "ro": "Explorați acest sanctuar unic dedicat călătorilor și luați-vă un moment pentru a admira vitraliile frumoase de lângă altarul principal.",
-            "en": "Explore this uniquely dedicated sanctuary offering peace to wanderers, and take a moment to notice the beautiful stained glass near the altar."
+            "en": "Explore this uniquely dedicated sanctuary offering peace to wanderers, and take a moment to notice the beautiful stained glass near the altar.",
+            "fr": "Explorez ce sanctuaire dédié de façon unique offrant la paix aux voyageurs, et prenez un moment pour remarquer les beaux vitraux près de l'autel."
           }
         },
         {
@@ -704,7 +780,8 @@
             "de": "Église Notre-Dame-de-l'Assomption",
             "hu": "Église Notre-Dame-de-l'Assomption",
             "ro": "Église Notre-Dame-de-l'Assomption",
-            "en": "Église Notre-Dame-de-l'Assomption"
+            "en": "Église Notre-Dame-de-l'Assomption",
+            "fr": "Église Notre-Dame-de-l'Assomption"
           },
           "coords": [
             2.113979,
@@ -719,7 +796,8 @@
             "de": "Bestaunen Sie die beeindruckenden Gewölbedecken dieser markanten Kirche und schalten Sie den Kamerablitz aus, um das Innere zu schonen.",
             "hu": "Csodálja meg ennek a kiemelkedő templomnak a lenyűgöző boltíves mennyezetét, de a belső tér védelme érdekében kapcsolja ki a vakut.",
             "ro": "Minunați-vă de tavanele boltite impresionante ale acestei biserici proeminente, oprind blițul camerei pentru a proteja interiorul delicat.",
-            "en": "Marvel at the impressive vaulted ceilings of this prominent church, keeping your camera flash turned off to preserve the delicate interior."
+            "en": "Marvel at the impressive vaulted ceilings of this prominent church, keeping your camera flash turned off to preserve the delicate interior.",
+            "fr": "Émerveillez-vous devant les voûtes impressionnantes de cette église majeure, en gardant votre flash désactivé pour préserver l'intérieur délicat."
           }
         },
         {
@@ -727,7 +805,8 @@
             "de": "Château de Lacoste",
             "hu": "Château de Lacoste",
             "ro": "Château de Lacoste",
-            "en": "Château de Lacoste"
+            "en": "Château de Lacoste",
+            "fr": "Château de Lacoste"
           },
           "coords": [
             2.090171,
@@ -742,7 +821,8 @@
             "de": "Entdecken Sie die lokale Adelsgeschichte auf dem beeindruckenden Gelände dieser mittelalterlichen Burg, am besten mit bequemen Schuhen.",
             "hu": "Fedezze fel a helyi arisztokrácia történelmét ennek a középkori kastélynak a bejárásakor, és viseljen kényelmes cipőt az udvari sétához.",
             "ro": "Descoperiți istoria aristocratică locală vizitând terenurile acestui castel medieval, purtând încălțăminte confortabilă pentru curte.",
-            "en": "Uncover local aristocratic history as you tour the striking grounds of this medieval castle, wearing comfortable shoes for the courtyard."
+            "en": "Uncover local aristocratic history as you tour the striking grounds of this medieval castle, wearing comfortable shoes for the courtyard.",
+            "fr": "Découvrez l'histoire aristocratique locale en visitant les remarquables abords de ce château médiéval, en portant des chaussures confortables pour la cour."
           }
         },
         {
@@ -750,7 +830,8 @@
             "de": "Église Saint-Julien",
             "hu": "Église Saint-Julien",
             "ro": "Église Saint-Julien",
-            "en": "Église Saint-Julien"
+            "en": "Église Saint-Julien",
+            "fr": "Église Saint-Julien"
           },
           "coords": [
             2.07274,
@@ -765,7 +846,8 @@
             "de": "Bewundern Sie das gut erhaltene Mauerwerk dieses historischen Heiligtums und hinterlassen Sie eine kleine Spende für die Restaurierung.",
             "hu": "Csodálja meg ennek a történelmi szentélynek a jól megőrzött kőművesmunkáját, és hagyjon kis adományt a folyamatos restaurálás támogatására.",
             "ro": "Admirați zidăria bine conservată a acestui sanctuar istoric, lăsând o mică donație dacă apreciați eforturile continue de restaurare.",
-            "en": "Admire the well-preserved stonework of this historical sanctuary, leaving a small donation if you appreciate the ongoing restoration efforts."
+            "en": "Admire the well-preserved stonework of this historical sanctuary, leaving a small donation if you appreciate the ongoing restoration efforts.",
+            "fr": "Admirez la pierre bien conservée de ce sanctuaire historique, en laissant une petite donation si vous appréciez les efforts de restauration en cours."
           }
         },
         {
@@ -773,7 +855,8 @@
             "de": "Chapelle Saint-Étienne",
             "hu": "Chapelle Saint-Étienne",
             "ro": "Chapelle Saint-Étienne",
-            "en": "Chapelle Saint-Étienne"
+            "en": "Chapelle Saint-Étienne",
+            "fr": "Chapelle Saint-Étienne"
           },
           "coords": [
             2.06662,
@@ -788,7 +871,8 @@
             "de": "Entdecken Sie die ruhige Atmosphäre dieser alten Steinkapelle in der Landschaft und tragen Sie feste Schuhe für den leicht unebenen Weg.",
             "hu": "Fedezze fel ennek a tájban megbúvó ősi kőkápolnának a békés hangulatát, és viseljen kényelmes cipőt a kissé egyenetlen megközelítési úthoz.",
             "ro": "Descoperiți atmosfera liniștită a acestei capele antice din piatră ascunsă în peisaj și purtați încălțăminte robustă pentru calea denivelată.",
-            "en": "Discover the tranquil atmosphere of this ancient stone chapel hidden in the landscape, and wear sturdy shoes for the slightly uneven path."
+            "en": "Discover the tranquil atmosphere of this ancient stone chapel hidden in the landscape, and wear sturdy shoes for the slightly uneven path.",
+            "fr": "Découvrez l'atmosphère tranquille de cette ancienne chapelle de pierre cachée dans le paysage, et portez des chaussures solides pour le chemin légèrement accidenté."
           }
         },
         {
@@ -796,7 +880,8 @@
             "de": "Lot River",
             "hu": "Lot River",
             "ro": "Lot River",
-            "en": "Lot River"
+            "en": "Lot River",
+            "fr": "Rivière Lot"
           },
           "coords": [
             2.036143,
@@ -811,7 +896,8 @@
             "de": "Entspannen Sie sich an den mäandernden Wassern des Lot, um die Talsicht zu genießen, aber achten Sie auf rutschige Steine am Ufer.",
             "hu": "Pihenjen meg a Lot folyó kanyargós vizeinél, hogy élvezze a lenyűgöző völgyi kilátást, de vigyázzon a part menti csúszós kövekkel.",
             "ro": "Relaxați-vă pe malurile apelor șerpuitoare ale râului Lot pentru o priveliște spectaculoasă a văii, dar atenție la pietrele alunecoase.",
-            "en": "Relax by the meandering waters of the Lot River to take in the spectacular valley views, but watch out for slippery stones near the bank."
+            "en": "Relax by the meandering waters of the Lot River to take in the spectacular valley views, but watch out for slippery stones near the bank.",
+            "fr": "Détendez-vous au bord des eaux sinueuses du Lot pour profiter des vues spectaculaires sur la vallée, mais méfiez-vous des pierres glissantes près de la berge."
           }
         }
       ],
@@ -819,7 +905,8 @@
         "de": "Mit dem Auto können Sie die volle Pracht von Capdenac und seiner malerischen Umgebung erfassen. Beginnen Sie zentral am Bahnhof, bevor Sie nach Osten fahren. Mittags steht ein ausführlicher Besuch des majestätischen Château de Lacoste an. Ihr Roadtrip endet mit einem herrlichen Panoramablick entlang des wunderschönen Flusses Lot.",
         "hu": "Az autózás lehetővé teszi Capdenac és festői környékének teljes felfedezését. Kezdjen a központban az állomáson, majd vezessen kelet felé a nagyobb egyházi helyszínekhez. Délben egy hosszabb látogatás következik a fenséges Château de Lacoste kastélyban. Autós kirándulása a Lot folyó menti panorámás kilátással zárul.",
         "ro": "Condusul vă permite să captați întreaga frumusețe a Capdenacului și a împrejurimilor sale. Începeți central la gară înainte de a conduce spre est. La prânz vă veți bucura de o vizită extinsă la maiestuosul Château de Lacoste. Excursia rutieră se încheie cu vederi panoramice de-a lungul frumosului râu Lot.",
-        "en": "Driving allows you to capture the full scope of Capdenac and its scenic surroundings. Start centrally at the station and the nearby traveler's church before driving east to grander ecclesiastical sites. Midday features an extended visit to the majestic Château de Lacoste. Your road trip finishes with panoramic views along the beautiful Lot River."
+        "en": "Driving allows you to capture the full scope of Capdenac and its scenic surroundings. Start centrally at the station and the nearby traveler's church before driving east to grander ecclesiastical sites. Midday features an extended visit to the majestic Château de Lacoste. Your road trip finishes with panoramic views along the beautiful Lot River.",
+        "fr": "La conduite vous permet de saisir l'ensemble de Capdenac et de ses environs pittoresques. Commencez au centre à la gare et à l'église des voyageurs avant de conduire vers l'est jusqu'aux sites ecclésiastiques plus imposants. Le milieu de journée comprend une visite prolongée du majestueux Château de Lacoste. Votre road-trip se termine avec des vues panoramiques le long de la belle rivière Lot."
       },
       "variants": {
         "rainy": {
@@ -827,7 +914,8 @@
             "de": "Der Morgen beginnt mit Scheibenwischern im Takt, während Sie vom Bahnhof zu den Kirchen fahren. Mittags bietet die Fahrt durch das Lot-Tal einen Panoramablick auf die regenverhangenen Hügel. Am Nachmittag erreichen Sie das Schloss, das im Dunst besonders majestätisch wirkt. Der Abend endet sicher im Wagen, während der Regen leise gegen das Metalldach prasselt.",
             "hu": "A reggel az ablaktörlők ütemes kattogásával indul, ahogy az állomástól a templomok felé hajtasz. Délben a Lot-völgy panorámája az esőfüggöny mögül is lenyűgöző látványt nyújt a kocsi ablakából. Délután a ködbe burkolózó kastélyhoz érünk, ami ilyenkor még méltóságteljesebb. Az este biztonságban zárul az autóban, miközben az eső kopog a tetőn.",
             "ro": "Dimineața începe cu ștergătoarele în funcțiune în timp ce conduceți de la gară spre biserici. La prânz, drumul prin valea râului Lot oferă o panoramă superbă asupra dealurilor învelite în ploaie. După-amiaza ajungeți la castel, care pare și mai maiestuos prin ceață. Seara se încheie în siguranță în mașină, în timp ce ploaia bate ușor în plafon.",
-            "en": "The morning starts with windshield wipers in rhythm as you drive from the station toward the churches. At noon, the drive through the Lot valley offers a panoramic view of the rain-shrouded hills. In the afternoon, you reach the castle, which looks even more majestic through the haze. The evening ends safely in the car, with rain drumming softly on the roof."
+            "en": "The morning starts with windshield wipers in rhythm as you drive from the station toward the churches. At noon, the drive through the Lot valley offers a panoramic view of the rain-shrouded hills. In the afternoon, you reach the castle, which looks even more majestic through the haze. The evening ends safely in the car, with rain drumming softly on the roof.",
+            "fr": "La matinée commence avec les essuie-glaces en rythme pendant que vous conduisez de la gare vers les églises. À midi, la route à travers la vallée du Lot offre une vue panoramique sur les collines enveloppées de pluie. L'après-midi, vous atteignez le château, qui paraît encore plus majestueux à travers la brume. La soirée se termine en sécurité dans la voiture, la pluie tambourinant doucement sur le toit."
           },
           "stops": [
             {
@@ -835,13 +923,15 @@
                 "de": "Capdenac Railway Station",
                 "hu": "Capdenac Railway Station",
                 "ro": "Capdenac Railway Station",
-                "en": "Capdenac Railway Station"
+                "en": "Capdenac Railway Station",
+                "fr": "Gare de Capdenac"
               },
               "tip_5lang": {
                 "de": "Nutzen Sie den Bahnhofsparkplatz, um die Route im Trockenen zu planen; achten Sie auf tiefe Pfützen.",
                 "hu": "Használd az állomás parkolóját az útvonal átnézésére; ügyelj a mélyebb tócsákra a kijáratnál.",
                 "ro": "Folosiți parcarea gării pentru a planifica ruta la uscat; atenție la bălțile adânci de la ieșire.",
-                "en": "Use the station parking to review your route while dry; watch out for deep puddles at the exit."
+                "en": "Use the station parking to review your route while dry; watch out for deep puddles at the exit.",
+                "fr": "Utilisez le parking de la gare pour revoir votre itinéraire à l'abri ; attention aux grandes flaques à la sortie."
               }
             },
             {
@@ -849,13 +939,15 @@
                 "de": "Our Lady of Travelers Church",
                 "hu": "Our Lady of Travelers Church",
                 "ro": "Our Lady of Travelers Church",
-                "en": "Our Lady of Travelers Church"
+                "en": "Our Lady of Travelers Church",
+                "fr": "Église Notre-Dame-des-Voyageurs"
               },
               "tip_5lang": {
                 "de": "Parken Sie so nah wie möglich am Eingang, um nicht nass zu werden; die Steine sind glatt.",
                 "hu": "Parkolj a lehető legközelebb a bejárathoz, hogy elkerüld az ázást; a kövezet ilyenkor nagyon csúszik.",
                 "ro": "Parcați cât mai aproape de intrare pentru a nu vă uda; pietrele sunt foarte alunecoase.",
-                "en": "Park as close to the entrance as possible to avoid getting wet; the stones are quite slick today."
+                "en": "Park as close to the entrance as possible to avoid getting wet; the stones are quite slick today.",
+                "fr": "Garez-vous le plus près possible de l'entrée pour éviter de vous mouiller ; les pierres sont assez glissantes aujourd'hui."
               }
             },
             {
@@ -863,13 +955,15 @@
                 "de": "Église Notre-Dame-de-l'Assomption",
                 "hu": "Église Notre-Dame-de-l'Assomption",
                 "ro": "Église Notre-Dame-de-l'Assomption",
-                "en": "Église Notre-Dame-de-l'Assomption"
+                "en": "Église Notre-Dame-de-l'Assomption",
+                "fr": "Église Notre-Dame-de-l'Assomption"
               },
               "tip_5lang": {
                 "de": "Lassen Sie die Klimaanlage laufen, um die Scheiben zu entfeuchten; die Kirche bietet ein trockenes Highlight.",
                 "hu": "Járasd a klímát a párátlanításhoz; a templom belseje tökéletes fedett látnivaló a felhőszakadás idején.",
                 "ro": "Lăsați aerul condiționat pornit pentru dezaburire; interiorul bisericii este un refugiu perfect pe ploaie.",
-                "en": "Keep the AC running to defog the windows; the church interior is a perfect dry highlight during downpours."
+                "en": "Keep the AC running to defog the windows; the church interior is a perfect dry highlight during downpours.",
+                "fr": "Maintenez la climatisation pour désembuer les vitres ; l'intérieur de l'église est un point sec parfait pendant les fortes pluies."
               }
             },
             {
@@ -877,13 +971,15 @@
                 "de": "Château de Lacoste",
                 "hu": "Château de Lacoste",
                 "ro": "Château de Lacoste",
-                "en": "Château de Lacoste"
+                "en": "Château de Lacoste",
+                "fr": "Château de Lacoste"
               },
               "tip_5lang": {
                 "de": "Fahren Sie vorsichtig die schmale Straße zum Schloss hinauf; die Sicht kann durch Nebel eingeschränkt sein.",
                 "hu": "Vezess óvatosan a kastélyhoz vezető keskeny úton; a látási viszonyok a köd miatt korlátozottak lehetnek.",
                 "ro": "Conduceți cu atenție pe drumul îngust spre castel; vizibilitatea poate fi redusă din cauza ceții.",
-                "en": "Drive carefully on the narrow road to the castle; visibility might be limited due to the thick mist."
+                "en": "Drive carefully on the narrow road to the castle; visibility might be limited due to the thick mist.",
+                "fr": "Conduisez prudemment sur la route étroite vers le château ; la visibilité peut être réduite à cause de la brume épaisse."
               }
             },
             {
@@ -891,13 +987,15 @@
                 "de": "Église Saint-Julien",
                 "hu": "Église Saint-Julien",
                 "ro": "Église Saint-Julien",
-                "en": "Église Saint-Julien"
+                "en": "Église Saint-Julien",
+                "fr": "Église Saint-Julien"
               },
               "tip_5lang": {
                 "de": "Nutzen Sie den Halt für eine kurze Pause im Trockenen; der Kirchplatz kann bei Regen etwas matschig sein.",
                 "hu": "Használd ki a megállót egy rövid pihenőre; a templom környéke esőben kissé sáros lehet.",
                 "ro": "Profitați de oprire pentru o scurtă pauză la uscat; zona bisericii poate fi puțin noroioasă pe ploaie.",
-                "en": "Take advantage of this stop for a short dry break; the church grounds can get a bit muddy in the rain."
+                "en": "Take advantage of this stop for a short dry break; the church grounds can get a bit muddy in the rain.",
+                "fr": "Profitez de cet arrêt pour une courte pause au sec ; le parvis de l’église peut devenir boueux sous la pluie."
               }
             },
             {
@@ -905,13 +1003,15 @@
                 "de": "Chapelle Saint-Étienne",
                 "hu": "Chapelle Saint-Étienne",
                 "ro": "Chapelle Saint-Étienne",
-                "en": "Chapelle Saint-Étienne"
+                "en": "Chapelle Saint-Étienne",
+                "fr": "Chapelle Saint-Étienne"
               },
               "tip_5lang": {
                 "de": "Die kleine Kapelle ist ein Juwel bei grauem Wetter; achten Sie beim Einparken auf weichen Untergrund.",
                 "hu": "A kis kápolna igazi ékszerdoboz szürke időben is; parkoláskor ügyelj a felázott padkákra.",
                 "ro": "Mica capelă este o bijuterie chiar și pe vreme gri; atenție la acostamentul moale când parcați.",
-                "en": "The small chapel is a gem even in gray weather; watch out for soft road shoulders when parking."
+                "en": "The small chapel is a gem even in gray weather; watch out for soft road shoulders when parking.",
+                "fr": "La petite chapelle est un joyau même par temps gris ; faites attention aux accotements mous en vous garant."
               }
             },
             {
@@ -919,13 +1019,15 @@
                 "de": "Lot River",
                 "hu": "Lot River",
                 "ro": "Lot River",
-                "en": "Lot River"
+                "en": "Lot River",
+                "fr": "Lot River"
               },
               "tip_5lang": {
                 "de": "Genießen Sie den Blick auf den Fluss direkt aus dem Auto, während der Regen die Wasseroberfläche tanzen lässt.",
                 "hu": "Élvezd a folyóra nyíló kilátást közvetlenül az autóból, miközben az eső táncol a vízfelszínen.",
                 "ro": "Bucurați-vă de vederea spre râu direct din mașină, în timp ce ploaia face valuri pe suprafața apei.",
-                "en": "Enjoy the river view directly from your car while the rain makes patterns on the water's surface."
+                "en": "Enjoy the river view directly from your car while the rain makes patterns on the water's surface.",
+                "fr": "Appréciez la vue sur la rivière depuis votre voiture pendant que la pluie dessine des motifs à la surface de l’eau."
               }
             }
           ]
@@ -935,7 +1037,8 @@
             "de": "Der frostige Morgen beginnt im vorgeheizten Wagen am Bahnhof. Mittags glänzt die Wintersonne auf den Karosserien, während Sie bequem von einer Kirche zur nächsten fahren. Am Nachmittag sinken die Temperaturen im Tal rapide, wenn die Sonne hinter den Hügeln verschwindet. Der Abend kommt früh gegen 17:00 Uhr mit eisiger Luft, doch im Auto bleibt es behaglich warm.",
             "hu": "A fagyos reggel az előmelegített autóban indul az állomás mellett. Délben a téli napsütés megcsillan a karosszérián, miközben kényelmesen utazol egyik templomtól a másikig. Délután a völgyben gyorsan zuhan a hőmérséklet, ahogy a nap eltűnik a dombok mögött. Az este korán, 17:00 körül érkezik jeges levegővel, de a kocsiban meleg fogad.",
             "ro": "Dimineața geroasă începe în mașina preîncălzită lângă gară. La prânz, soarele de iarnă strălucește pe caroserie în timp ce mergeți confortabil de la o biserică la alta. După-amiaza, temperaturile scad rapid în vale pe măsură ce soarele dispare după dealuri. Seara vine devreme, la ora 17:00, cu aer înghețat, dar în mașină rămâne cald.",
-            "en": "The frosty morning starts in a preheated car near the station. At noon, winter sun shines on the car's body as you travel comfortably from one church to another. In the afternoon, temperatures in the valley drop rapidly as the sun disappears behind the hills. Evening arrives early at 5 PM with icy air, but the car stays cozy and warm."
+            "en": "The frosty morning starts in a preheated car near the station. At noon, winter sun shines on the car's body as you travel comfortably from one church to another. In the afternoon, temperatures in the valley drop rapidly as the sun disappears behind the hills. Evening arrives early at 5 PM with icy air, but the car stays cozy and warm.",
+            "fr": "La matinée glacée commence dans une voiture préchauffée près de la gare. À midi, le soleil d’hiver brille sur la carrosserie tandis que vous voyagez confortablement de l’une à l’autre des églises. L’après‑midi, les températures dans la vallée chutent rapidement quand le soleil disparaît derrière les collines. Le soir arrive tôt à 17h avec un air glacial, mais la voiture reste douillette et chaude."
           },
           "stops": [
             {
@@ -943,13 +1046,15 @@
                 "de": "Capdenac Railway Station",
                 "hu": "Capdenac Railway Station",
                 "ro": "Capdenac Railway Station",
-                "en": "Capdenac Railway Station"
+                "en": "Capdenac Railway Station",
+                "fr": "Capdenac Railway Station"
               },
               "tip_5lang": {
                 "de": "Enteisen Sie Ihre Scheiben gründlich, bevor Sie losfahren; das Lot-Tal ist oft neblig und frostig.",
                 "hu": "Alaposan jégtelenítsd a szélvédőt indulás előtt; a Lot-völgy gyakran ködös és fagyos télen.",
                 "ro": "Degivrați bine parbrizul înainte de plecare; valea râului Lot este adesea cetoasă și geroasă iarna.",
-                "en": "Thoroughly de-ice your windshield before starting; the Lot valley is often misty and frosty in winter."
+                "en": "Thoroughly de-ice your windshield before starting; the Lot valley is often misty and frosty in winter.",
+                "fr": "Dégivrez soigneusement votre pare‑brise avant de partir ; la vallée du Lot est souvent brumeuse et givrée en hiver."
               }
             },
             {
@@ -957,13 +1062,15 @@
                 "de": "Our Lady of Travelers Church",
                 "hu": "Our Lady of Travelers Church",
                 "ro": "Our Lady of Travelers Church",
-                "en": "Our Lady of Travelers Church"
+                "en": "Our Lady of Travelers Church",
+                "fr": "Our Lady of Travelers Church"
               },
               "tip_5lang": {
                 "de": "Ein kurzer Stopp zum Aufwärmen im Inneren; achten Sie auf Glatteis auf dem Parkplatz.",
                 "hu": "Egy rövid megálló a benti felmelegedéshez; ügyelj a parkolóban előforduló jeges foltokra.",
                 "ro": "O scurtă oprire pentru a vă încălzi în interior; atenție la gheața din parcare.",
-                "en": "A short stop to warm up inside; watch out for icy patches in the parking area."
+                "en": "A short stop to warm up inside; watch out for icy patches in the parking area.",
+                "fr": "Un court arrêt pour se réchauffer à l’intérieur ; attention aux plaques de verglas sur le parking."
               }
             },
             {
@@ -971,13 +1078,15 @@
                 "de": "Église Notre-Dame-de-l'Assomption",
                 "hu": "Église Notre-Dame-de-l'Assomption",
                 "ro": "Église Notre-Dame-de-l'Assomption",
-                "en": "Église Notre-Dame-de-l'Assomption"
+                "en": "Église Notre-Dame-de-l'Assomption",
+                "fr": "Église Notre-Dame-de-l'Assomption"
               },
               "tip_5lang": {
                 "de": "Die Heizung im Auto ist Ihr bester Freund; genießen Sie die klare Sicht auf die winterliche Architektur.",
                 "hu": "A kocsi fűtése a legjobb barátod; élvezd a tiszta kilátást a téli építészet remekeire a melegből.",
                 "ro": "Căldura din mașină este cel mai bun prieten; bucurați-vă de vederea clară asupra arhitecturii de iarnă.",
-                "en": "The car's heater is your best friend; enjoy the clear view of the winter architecture from the warmth."
+                "en": "The car's heater is your best friend; enjoy the clear view of the winter architecture from the warmth.",
+                "fr": "Le chauffage de la voiture est votre meilleur allié ; profitez de la vue dégagée de l’architecture hivernale depuis la chaleur."
               }
             },
             {
@@ -985,13 +1094,15 @@
                 "de": "Château de Lacoste",
                 "hu": "Château de Lacoste",
                 "ro": "Château de Lacoste",
-                "en": "Château de Lacoste"
+                "en": "Château de Lacoste",
+                "fr": "Château de Lacoste"
               },
               "tip_5lang": {
                 "de": "Das Schlossplateau bietet einen fantastischen Weitblick über das frostige Tal; halten Sie Ihre Kamera bereit.",
                 "hu": "A kastély kertje fantasztikus kilátást nyújt a zúzmarás völgyre; tartsd készenlétben a fényképezőgépet.",
                 "ro": "Platoul castelului oferă o priveliște fantastică asupra văii înghețate; pregătiți camera foto.",
-                "en": "The castle plateau offers a fantastic view over the frosty valley; keep your camera ready for the scenery."
+                "en": "The castle plateau offers a fantastic view over the frosty valley; keep your camera ready for the scenery.",
+                "fr": "Le plateau du château offre une vue fantastique sur la vallée givrée ; gardez votre appareil prêt pour le paysage."
               }
             },
             {
@@ -999,13 +1110,15 @@
                 "de": "Église Saint-Julien",
                 "hu": "Église Saint-Julien",
                 "ro": "Église Saint-Julien",
-                "en": "Église Saint-Julien"
+                "en": "Église Saint-Julien",
+                "fr": "Église Saint-Julien"
               },
               "tip_5lang": {
                 "de": "Die tiefstehende Sonne kann beim Fahren blenden; nutzen Sie Ihre Sonnenblende für eine sichere Fahrt.",
                 "hu": "Az alacsonyan járó nap elvakíthat vezetés közben; használd a napellenzőt a biztonságos haladáshoz.",
                 "ro": "Soarele jos vă poate orbi în timp ce conduceți; folosiți parasolarul pentru o călătorie sigură.",
-                "en": "The low sun can be blinding while driving; use your sun visor for a safe journey between stops."
+                "en": "The low sun can be blinding while driving; use your sun visor for a safe journey between stops.",
+                "fr": "Le soleil bas peut éblouir en conduisant ; utilisez votre pare‑soleil pour un trajet sûr entre les arrêts."
               }
             },
             {
@@ -1013,13 +1126,15 @@
                 "de": "Chapelle Saint-Étienne",
                 "hu": "Chapelle Saint-Étienne",
                 "ro": "Chapelle Saint-Étienne",
-                "en": "Chapelle Saint-Étienne"
+                "en": "Chapelle Saint-Étienne",
+                "fr": "Chapelle Saint-Étienne"
               },
               "tip_5lang": {
                 "de": "Besuchen Sie diesen Ort, bevor die Schatten gegen 16:00 Uhr zu lang werden und es merklich kühler wird.",
                 "hu": "Látogasd meg a helyet délután 4 előtt, mielőtt az árnyékok túl hosszúra nyúlnak és lehűl a levegő.",
                 "ro": "Vizitați acest loc înainte ca umbrele să devină prea lungi la ora 16:00 și să se răcească simțitor.",
-                "en": "Visit this spot before the shadows grow too long at 4 PM and the temperature drops noticeably."
+                "en": "Visit this spot before the shadows grow too long at 4 PM and the temperature drops noticeably.",
+                "fr": "Visitez cet endroit avant que les ombres ne s’allongent trop à 16h et que la température ne baisse sensiblement."
               }
             },
             {
@@ -1027,13 +1142,15 @@
                 "de": "Lot River",
                 "hu": "Lot River",
                 "ro": "Lot River",
-                "en": "Lot River"
+                "en": "Lot River",
+                "fr": "Lot River"
               },
               "tip_5lang": {
                 "de": "Die Abenddämmerung am Fluss ist bei Frost wunderschön; genießen Sie das Panorama aus dem warmen Wagen.",
                 "hu": "A folyóparti alkonyat fagyos időben is gyönyörű; élvezd a panorámát a meleg autóból.",
                 "ro": "Amurgul pe malul râului este superb pe timp de ger; admirați panorama din mașina călduroasă.",
-                "en": "The twilight by the river is beautiful even in freezing weather; enjoy the panorama from the warm car."
+                "en": "The twilight by the river is beautiful even in freezing weather; enjoy the panorama from the warm car.",
+                "fr": "Le crépuscule au bord de la rivière est beau même par grand froid ; profitez du panorama depuis la voiture chaude."
               }
             }
           ]

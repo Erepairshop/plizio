@@ -21,7 +21,8 @@
             "de": "Notre-Dame Basilica",
             "hu": "Notre-Dame Basilica",
             "ro": "Notre-Dame Basilica",
-            "en": "Notre-Dame Basilica"
+            "en": "Notre-Dame Basilica",
+            "fr": "Basilique Notre‑Dame"
           },
           "coords": [
             0.088722,
@@ -36,7 +37,8 @@
             "de": "Bewundern Sie die prächtige gotische Vorhalle, die diese Basilika berühmt gemacht hat, und besuchen Sie sie am besten im Morgenlicht für tolle Fotos.",
             "hu": "Csodálja meg a bazilika hírnevét megalapozó, lángoló gótikus pompájú tornácot, és próbáljon a reggeli fényekben érkezni a legjobb üvegablakos fotókért.",
             "ro": "Admirați pridvorul gotic flamboaiant care a adus faima acestei bazilici și încercați să o vizitați în lumina dimineții pentru fotografii perfecte.",
-            "en": "Admire the exquisite flamboyant Gothic porch that earned this basilica its fame, and try to visit during morning light for the best stained glass photos."
+            "en": "Admire the exquisite flamboyant Gothic porch that earned this basilica its fame, and try to visit during morning light for the best stained glass photos.",
+            "fr": "Admirez le magnifique porche gothique flamboyant qui a fait la renommée de cette basilique, et essayez de visiter le matin pour les meilleures photos des vitraux."
           }
         },
         {
@@ -44,7 +46,8 @@
             "de": "Musée des Beaux-Arts et de la Dentelle",
             "hu": "Musée des Beaux-Arts et de la Dentelle",
             "ro": "Musée des Beaux-Arts et de la Dentelle",
-            "en": "Musée des Beaux-Arts et de la Dentelle"
+            "en": "Musée des Beaux-Arts et de la Dentelle",
+            "fr": "Musée des Beaux‑Arts et de la Dentelle"
           },
           "coords": [
             0.083428,
@@ -59,7 +62,8 @@
             "de": "Entdecken Sie die zarte Alençon-Spitze, ein immaterielles UNESCO-Kulturerbe, und buchen Sie Ihr Museumsticket vorab online, um Warteschlangen zu vermeiden.",
             "hu": "Fedezze fel az UNESCO szellemi örökségét képező finom alençoni csipkét, és foglaljon jegyet előre online, hogy elkerülje a múzeumi sorban állást.",
             "ro": "Descoperiți delicata dantelă de Alençon, patrimoniu imaterial UNESCO, și rezervați-vă biletul de muzeu online în avans pentru a sări peste eventualele cozi.",
-            "en": "Discover the delicate Alençon lace, a UNESCO intangible heritage, and book your museum ticket online in advance to skip the occasional queue."
+            "en": "Discover the delicate Alençon lace, a UNESCO intangible heritage, and book your museum ticket online in advance to skip the occasional queue.",
+            "fr": "Découvrez la délicate dentelle d’Alençon, patrimoine immatériel de l’UNESCO, et réservez votre billet en ligne à l’avance pour éviter la file occasionnelle."
           }
         },
         {
@@ -67,7 +71,8 @@
             "de": "Parc des Promenades",
             "hu": "Parc des Promenades",
             "ro": "Parc des Promenades",
-            "en": "Parc des Promenades"
+            "en": "Parc des Promenades",
+            "fr": "Parc des Promenades"
           },
           "coords": [
             0.07944,
@@ -82,7 +87,8 @@
             "de": "Schlendern Sie durch diesen historischen Park mit seinem schönen Musikpavillon aus dem 19. Jahrhundert, und bringen Sie eine leichte Jacke für den Schatten mit.",
             "hu": "Sétáljon végig ezen a történelmi parkon, hogy megcsodálja a 19. századi zenepavilont, és hozzon magával egy vékony kabátot az árnyékos ösvények miatt.",
             "ro": "Plimbați-vă prin acest parc istoric pentru a vedea frumosul chioșc muzical din secolul 19 și aduceți o jachetă, deoarece aleile umbrite rămân răcoroase.",
-            "en": "Stroll through this historic park to see the beautiful 19th-century bandstand, and bring a light jacket as the shaded paths stay cool year-round."
+            "en": "Stroll through this historic park to see the beautiful 19th-century bandstand, and bring a light jacket as the shaded paths stay cool year-round.",
+            "fr": "Promenez‑vous dans ce parc historique pour voir le joli kiosque du XIXe siècle, et prenez une légère veste car les allées ombragées restent fraîches toute l’année."
           }
         },
         {
@@ -90,7 +96,8 @@
             "de": "Arboretum Koutiala",
             "hu": "Arboretum Koutiala",
             "ro": "Arboretum Koutiala",
-            "en": "Arboretum Koutiala"
+            "en": "Arboretum Koutiala",
+            "fr": "Arboretum Koutiala"
           },
           "coords": [
             0.077475,
@@ -105,7 +112,8 @@
             "de": "Erkunden Sie die reiche Vielfalt an Baumarten in einer friedlichen Umgebung und tragen Sie bequeme Schuhe, um sich auf dem grasbewachsenen Gelände leicht zu bewegen.",
             "hu": "Fedezze fel a békés környezetben elültetett fafajok gazdag változatosságát, és viseljen kényelmes sétacipőt a füves terepen való könnyű közlekedéshez.",
             "ro": "Explorați o diversitate bogată de specii de arbori într-un cadru liniștit și purtați pantofi confortabili pentru a naviga ușor pe terenul înierbat.",
-            "en": "Explore a rich diversity of tree species planted in a peaceful setting, and wear comfortable walking shoes to easily navigate the grassy terrain."
+            "en": "Explore a rich diversity of tree species planted in a peaceful setting, and wear comfortable walking shoes to easily navigate the grassy terrain.",
+            "fr": "Explorez une riche diversité d’espèces d’arbres plantées dans un cadre paisible, et portez des chaussures de marche confortables pour circuler facilement sur le gazon."
           }
         },
         {
@@ -113,7 +121,8 @@
             "de": "Chapelle Notre-Dame-de-Lorette",
             "hu": "Chapelle Notre-Dame-de-Lorette",
             "ro": "Chapelle Notre-Dame-de-Lorette",
-            "en": "Chapelle Notre-Dame-de-Lorette"
+            "en": "Chapelle Notre-Dame-de-Lorette",
+            "fr": "Chapelle Notre‑Dame‑de‑Lorette"
           },
           "coords": [
             0.089493,
@@ -128,7 +137,8 @@
             "de": "Besuchen Sie diese charmante kleine Kapelle für einen ruhigen Moment der Besinnung und prüfen Sie vorher die Öffnungszeiten, da diese oft begrenzt sind.",
             "hu": "Látogasson el ebbe a bájos kis kápolnába, amely csendes elmélkedést kínál, és ellenőrizze a nyitvatartást, mivel az gyakran csak hétvégére korlátozódik.",
             "ro": "Vizitați această mică capelă fermecătoare care oferă un moment de liniște și verificați programul înainte, deoarece este adesea limitat la weekend-uri.",
-            "en": "Visit this charming small chapel that offers a quiet moment of reflection, and check the opening hours beforehand as they are often limited to weekends."
+            "en": "Visit this charming small chapel that offers a quiet moment of reflection, and check the opening hours beforehand as they are often limited to weekends.",
+            "fr": "Visitez cette petite chapelle charmante qui offre un moment de recueillement, et vérifiez les heures d’ouverture au préalable car elles sont souvent limitées aux week‑ends."
           }
         },
         {
@@ -136,7 +146,8 @@
             "de": "Monument aux Morts",
             "hu": "Monument aux Morts",
             "ro": "Monument aux Morts",
-            "en": "Monument aux Morts"
+            "en": "Monument aux Morts",
+            "fr": "Monument aux Morts"
           },
           "coords": [
             0.093734,
@@ -151,7 +162,8 @@
             "de": "Verweilen Sie an diesem ergreifenden Denkmal für die gefallenen Soldaten und nutzen Sie die nahe gelegenen Bänke, um die feierliche Atmosphäre auf sich wirken zu lassen.",
             "hu": "Álljon meg ennél a megható történelmi emlékműnél, amely az elesett katonák előtt tiszteleg, és használja a közeli padokat a pihenésre az ünnepélyes hangulatban.",
             "ro": "Opriți-vă la acest monument istoric emoționant închinat soldaților căzuți și folosiți băncile din apropiere pentru a vă odihni în atmosfera solemnă.",
-            "en": "Pause at this poignant historical monument commemorating fallen soldiers, and use the nearby benches to rest while taking in the solemn atmosphere."
+            "en": "Pause at this poignant historical monument commemorating fallen soldiers, and use the nearby benches to rest while taking in the solemn atmosphere.",
+            "fr": "Faites une pause devant ce monument historique poignant commémorant les soldats tombés, et utilisez les bancs à proximité pour vous reposer en contemplant l’atmosphère solennelle."
           }
         }
       ],
@@ -159,7 +171,8 @@
         "de": "Beginnen Sie den Morgen mit der Bewunderung der exquisiten gotischen Architektur der Notre-Dame-Basilika. Tauchen Sie dann im Museum für Schöne Künste und Spitze in das lokale Erbe ein. Nach einem entspannten mittäglichen Spaziergang durch den Parc des Promenades erkunden Sie das Arboretum Koutiala. Beenden Sie Ihre Tour an der Lorette-Kapelle und dem feierlichen Monument aux Morts.",
         "hu": "Kezdje a reggelt a Notre-Dame bazilika lenyűgöző gótikus építészetének megcsodálásával. Ezután merüljön el a helyi örökségben a Szépművészeti és Csipkemúzeumban. A Parc des Promenades árnyas fái alatti déli séta után dél felé indulva fedezze fel a Koutiala Arborétum növényvilágát. Zárja gyalogos túráját a Lorette kápolnánál és az ünnepélyes Monument aux Morts emlékműnél.",
         "ro": "Începeți dimineața admirând arhitectura gotică a Bazilicii Notre-Dame. Apoi, aprofundați patrimoniul local la Muzeul de Arte Frumoase și Dantelă. După o plimbare relaxantă la prânz prin Parc des Promenades, mergeți spre sud pentru a explora flora din Arboretum Koutiala. Încheiați turul la Capela Lorette și la solemnul Monument aux Morts, reflectând asupra istoriei.",
-        "en": "Begin your morning admiring the exquisite Gothic architecture of the Notre-Dame Basilica. Then, delve into local heritage at the Fine Arts and Lace Museum. After a relaxing midday stroll through the shaded Parc des Promenades, head south to explore the diverse plant life of Arboretum Koutiala. Conclude your walking tour with a peaceful stop at the Lorette Chapel and the solemn Monument aux Morts."
+        "en": "Begin your morning admiring the exquisite Gothic architecture of the Notre-Dame Basilica. Then, delve into local heritage at the Fine Arts and Lace Museum. After a relaxing midday stroll through the shaded Parc des Promenades, head south to explore the diverse plant life of Arboretum Koutiala. Conclude your walking tour with a peaceful stop at the Lorette Chapel and the solemn Monument aux Morts.",
+        "fr": "Commencez votre matinée en admirant la superbe architecture gothique de la Basilique Notre‑Dame. Puis, plongez dans le patrimoine local au Musée des Beaux‑Arts et de la Dentelle. Après une promenade détendue de midi dans le Parc des Promenades, dirigez‑vous au sud pour explorer la diversité végétale de l’Arboretum Koutiala. Concluez votre visite à pied par un arrêt paisible à la Chapelle de Lorette et au solennel Monument aux Morts."
       },
       "variants": {
         "rainy": {
@@ -167,7 +180,8 @@
             "de": "Morgens bietet die Basilika Schutz vor dem Nieselregen. Mittags erkunden Sie das trockene Spitzenmuseum. Nachmittags sind die Parks nass, nutzen Sie die befestigten Wege. Abends endet die Tour im Stadtzentrum, wo Sie schnell ein trockenes Café finden.",
             "hu": "Reggel a bazilika nyújt menedéket a szemerkélő eső elől. A delet töltse a száraz csipkemúzeumban. Délután a parkok nedvesek, használja a szilárd burkolatú utakat. Este a túra a belvárosban ér véget, ahol hamar találhat egy száraz kávézót.",
             "ro": "Dimineața, bazilica oferă adăpost împotriva burniței. La prânz, explorați muzeul dantelei pentru a rămâne uscat. După-amiaza, parcurile sunt umede, folosiți potecile pavate. Seara, turul se încheie în centru, unde puteți găsi rapid o cafenea uscată.",
-            "en": "In the morning, the basilica offers shelter from the drizzle. Spend midday in the dry lace museum. In the afternoon, the parks are wet, so stick to the paved paths. In the evening, the tour ends downtown, where you can quickly find a dry cafe."
+            "en": "In the morning, the basilica offers shelter from the drizzle. Spend midday in the dry lace museum. In the afternoon, the parks are wet, so stick to the paved paths. In the evening, the tour ends downtown, where you can quickly find a dry cafe.",
+            "fr": "Le matin, la basilique offre un abri contre la bruine. Passez la mi‑journée au sec dans le musée de la dentelle. L’après‑midi, les parcs sont humides, restez sur les chemins goudronnés. Le soir, la visite se termine en centre‑ville où vous trouverez rapidement un café à l’abri."
           },
           "stops": [
             {
@@ -175,13 +189,15 @@
                 "de": "Notre-Dame Basilica",
                 "hu": "Notre-Dame Basilica",
                 "ro": "Notre-Dame Basilica",
-                "en": "Notre-Dame Basilica"
+                "en": "Notre-Dame Basilica",
+                "fr": "Basilique Notre‑Dame"
               },
               "tip_5lang": {
                 "de": "Bewundern Sie die prächtige Fassade und suchen Sie dann Schutz im gotischen Innenraum; das diffuse Licht bei Regen betont die Farben der Fenster, Vorsicht auf glatten Stufen.",
                 "hu": "Csodálja meg a pompás homlokzatot, majd keressen menedéket a gótikus belsőben; az esős, szórt fény kiemeli az ablakok színeit, vigyázzon a csúszós lépcsőkre.",
                 "ro": "Admirați fațada splendidă și apoi căutați adăpost în interiorul gotic; lumina difuză de ploaie scoate în evidență culorile ferestrelor, atenție la treptele alunecoase.",
-                "en": "Admire the magnificent facade and then seek shelter in the Gothic interior; the diffused rainy light emphasizes the window colors, watch out for slippery steps."
+                "en": "Admire the magnificent facade and then seek shelter in the Gothic interior; the diffused rainy light emphasizes the window colors, watch out for slippery steps.",
+                "fr": "Admirez la façade magnifique puis cherchez refuge dans l’intérieur gothique ; la lumière diffuse de la pluie met en valeur les couleurs des vitraux, attention aux marches glissantes."
               }
             },
             {
@@ -189,13 +205,15 @@
                 "de": "Musée des Beaux-Arts et de la Dentelle",
                 "hu": "Musée des Beaux-Arts et de la Dentelle",
                 "ro": "Musée des Beaux-Arts et de la Dentelle",
-                "en": "Musée des Beaux-Arts et de la Dentelle"
+                "en": "Musée des Beaux-Arts et de la Dentelle",
+                "fr": "Musée des Beaux‑Arts et de la Dentelle"
               },
               "tip_5lang": {
                 "de": "Dieses Museum ist der ideale Zufluchtsort bei Regen, um die berühmte Alençon-Spitze zu sehen; nutzen Sie die Garderobe für nasse Mäntel und genießen Sie die warmen Galerien.",
                 "hu": "Ez a múzeum ideális búvóhely esőben a híres alençoni csipke felfedezéséhez; használja a ruhatárat a vizes kabátoknak, és élvezze a fűtött galériák nyugalmát.",
                 "ro": "Acest muzeu este refugiul ideal pe ploaie pentru a vedea celebra dantelă de Alençon; folosiți garderoba pentru hainele ude și bucurați-vă de galeriile calde.",
-                "en": "This museum is the ideal rainy refuge to see the famous Alençon lace; use the cloakroom for wet coats and enjoy the comfort of the warm galleries."
+                "en": "This museum is the ideal rainy refuge to see the famous Alençon lace; use the cloakroom for wet coats and enjoy the comfort of the warm galleries.",
+                "fr": "Ce musée est le refuge idéal par temps de pluie pour voir la célèbre dentelle d’Alençon ; utilisez le vestiaire pour les manteaux mouillés et profitez du confort des galeries chauffées."
               }
             },
             {
@@ -203,13 +221,15 @@
                 "de": "Parc des Promenades",
                 "hu": "Parc des Promenades",
                 "ro": "Parc des Promenades",
-                "en": "Parc des Promenades"
+                "en": "Parc des Promenades",
+                "fr": "Parc des Promenades"
               },
               "tip_5lang": {
                 "de": "Ein kurzer Spaziergang unter den Bäumen schützt ein wenig vor leichtem Regen; tragen Sie wasserfeste Schuhe, da die Kieswege bei Nässe etwas aufweichen können.",
                 "hu": "Egy rövid séta a fák alatt némi védelmet nyújt az enyhe eső ellen; viseljen vízálló cipőt, mivel a kavicsos utak nedves időben kissé felázhatnak.",
                 "ro": "O scurtă plimbare sub copaci oferă puțină protecție împotriva ploii ușoare; purtați pantofi impermeabili, deoarece aleile cu pietriș pot deveni moi la umezeală.",
-                "en": "A short walk under the trees provides some protection from light rain; wear waterproof shoes as the gravel paths can soften slightly in wet weather."
+                "en": "A short walk under the trees provides some protection from light rain; wear waterproof shoes as the gravel paths can soften slightly in wet weather.",
+                "fr": "Une courte marche sous les arbres offre une certaine protection contre la pluie fine ; portez des chaussures imperméables car les chemins de gravier peuvent s’assouplir en cas d’humidité."
               }
             },
             {
@@ -217,13 +237,15 @@
                 "de": "Arboretum Koutiala",
                 "hu": "Arboretum Koutiala",
                 "ro": "Arboretum Koutiala",
-                "en": "Arboretum Koutiala"
+                "en": "Arboretum Koutiala",
+                "fr": "Arboretum Koutiala"
               },
               "tip_5lang": {
                 "de": "Die Pflanzen wirken im Regen besonders frisch und grün; bleiben Sie auf den Hauptwegen, um Schlamm zu vermeiden, und halten Sie Ihren Regenschirm für offene Flächen bereit.",
                 "hu": "A növények esőben különösen frissnek és zöldnek tűnnek; maradjon a főutakon a sár elkerülése érdekében, és tartsa készenlétben esernyőjét a nyitott részeken.",
                 "ro": "Plantele par deosebit de proaspete și verzi în ploaie; rămâneți pe aleile principale pentru a evita noroiul și aveți umbrela pregătită pentru zonele deschise.",
-                "en": "The plants look especially fresh and green in the rain; stay on the main paths to avoid mud and keep your umbrella ready for the open sections."
+                "en": "The plants look especially fresh and green in the rain; stay on the main paths to avoid mud and keep your umbrella ready for the open sections.",
+                "fr": "Les plantations paraissent particulièrement fraîches et vertes sous la pluie ; restez sur les allées principales pour éviter la boue et gardez votre parapluie à portée de main pour les sections dégagées."
               }
             },
             {
@@ -231,13 +253,15 @@
                 "de": "Chapelle Notre-Dame-de-Lorette",
                 "hu": "Chapelle Notre-Dame-de-Lorette",
                 "ro": "Chapelle Notre-Dame-de-Lorette",
-                "en": "Chapelle Notre-Dame-de-Lorette"
+                "en": "Chapelle Notre-Dame-de-Lorette",
+                "fr": "Chapelle Notre‑Dame‑de‑Lorette"
               },
               "tip_5lang": {
                 "de": "Die kleine Kapelle bietet einen kurzen, trockenen Moment der Stille; schütteln Sie Ihren Schirm vor dem Eintreten gut aus, um den historischen Boden nicht zu befeuchten.",
                 "hu": "A kis kápolna rövid, száraz pillanatnyi csendet kínál; belépés előtt alaposan rázza le az esernyőjét, hogy ne vizezze össze a történelmi padlózatot.",
                 "ro": "Mica capelă oferă un scurt moment de liniște și uscăciune; scuturați bine umbrela înainte de a intra pentru a nu uda podeaua istorică.",
-                "en": "The small chapel offers a brief, dry moment of silence; shake your umbrella well before entering to avoid wetting the historic flooring."
+                "en": "The small chapel offers a brief, dry moment of silence; shake your umbrella well before entering to avoid wetting the historic flooring.",
+                "fr": "La petite chapelle offre un bref moment sec de recueillement ; secouez bien votre parapluie avant d’entrer afin de ne pas mouiller le sol historique."
               }
             },
             {
@@ -245,13 +269,15 @@
                 "de": "Monument aux Morts",
                 "hu": "Monument aux Morts",
                 "ro": "Monument aux Morts",
-                "en": "Monument aux Morts"
+                "en": "Monument aux Morts",
+                "fr": "Monument aux Morts"
               },
               "tip_5lang": {
                 "de": "Ein kurzer Stopp für ein Foto, bevor Sie wieder ins Trockene gehen; die nasse Steinoberfläche spiegelt die Umgebung wider, achten Sie auf Pfützen in der Nähe.",
                 "hu": "Egy rövid megálló egy fotóra, mielőtt visszatérne a szárazba; a nedves kőfelület tükrözi a környezetet, ügyeljen a közelben lévő tócsákra.",
                 "ro": "O scurtă oprire pentru o fotografie înainte de a reveni la adăpost; suprafața umedă de piatră reflectă împrejurimile, atenție la bălțile din apropiere.",
-                "en": "A quick stop for a photo before returning to the dry; the wet stone surface reflects the surroundings, watch out for puddles nearby."
+                "en": "A quick stop for a photo before returning to the dry; the wet stone surface reflects the surroundings, watch out for puddles nearby.",
+                "fr": "Un arrêt rapide pour une photo avant de retourner à l’abri ; la surface de pierre humide reflète les environs, attention aux flaques à proximité."
               }
             }
           ]
@@ -261,7 +287,8 @@
             "de": "Der Wintermorgen beginnt frisch an der Basilika. Mittags wärmen Sie sich im Museum auf. Nachmittags nutzen Sie das letzte Tageslicht im Park, bevor es um 17:00 Uhr dunkel wird. Ein warmer Tee beendet den Tag gemütlich.",
             "hu": "A téli reggel frissen indul a bazilikánál. Délben melegedjen fel a múzeumban. Délután használja ki az utolsó fényeket a parkban, mielőtt 17:00-kor besötétedik. Egy meleg tea hangulatosan zárja a napot.",
             "ro": "Dimineața de iarnă începe răcoros la bazilică. La prânz, încălziți-vă în muzeu. După-amiaza, profitați de ultima lumină în parc înainte de întunecarea de la ora 17:00. Un ceai cald încheie ziua plăcut.",
-            "en": "The winter morning starts fresh at the basilica. Warm up in the museum at noon. In the afternoon, catch the last daylight in the park before it gets dark at 17:00. A hot tea ends the day cozily."
+            "en": "The winter morning starts fresh at the basilica. Warm up in the museum at noon. In the afternoon, catch the last daylight in the park before it gets dark at 17:00. A hot tea ends the day cozily.",
+            "fr": "La matinée d’hiver commence fraîche à la basilique. Réchauffez‑vous au musée à midi. L’après‑midi, profitez des dernières lueurs du parc avant qu’il ne fasse nuit à 17h00. Un thé chaud termine la journée confortablement."
           },
           "stops": [
             {
@@ -269,13 +296,15 @@
                 "de": "Notre-Dame Basilica",
                 "hu": "Notre-Dame Basilica",
                 "ro": "Notre-Dame Basilica",
-                "en": "Notre-Dame Basilica"
+                "en": "Notre-Dame Basilica",
+                "fr": "Basilique Notre‑Dame"
               },
               "tip_5lang": {
                 "de": "Die Basilika ist im Winter oft kühler als erwartet, also bleiben Sie in Bewegung; bewundern Sie die architektonischen Details und genießen Sie die friedliche Stille.",
                 "hu": "A bazilika télen gyakran hűvösebb a vártnál, ezért maradjon mozgásban; csodálja meg az építészeti részleteket és élvezze a békés csendet a falak között.",
                 "ro": "Bazilica este adesea mai răcoroasă decât se preconizează iarna, deci rămâneți în mișcare; admirați detaliile arhitecturale și bucurați-vă de liniștea pașnică.",
-                "en": "The basilica is often cooler than expected in winter, so keep moving; admire the architectural details and enjoy the peaceful silence within the walls."
+                "en": "The basilica is often cooler than expected in winter, so keep moving; admire the architectural details and enjoy the peaceful silence within the walls.",
+                "fr": "La basilique est souvent plus fraîche que prévu en hiver, alors gardez le mouvement ; admirez les détails architecturaux et profitez du silence paisible à l’intérieur des murs."
               }
             },
             {
@@ -283,13 +312,15 @@
                 "de": "Musée des Beaux-Arts et de la Dentelle",
                 "hu": "Musée des Beaux-Arts et de la Dentelle",
                 "ro": "Musée des Beaux-Arts et de la Dentelle",
-                "en": "Musée des Beaux-Arts et de la Dentelle"
+                "en": "Musée des Beaux-Arts et de la Dentelle",
+                "fr": "Musée des Beaux‑Arts et de la Dentelle"
               },
               "tip_5lang": {
                 "de": "Der perfekte Ort, um der Kälte zu entfliehen und die filigrane Spitzenkunst zu bewundern; die beheizten Räume laden zum längeren Verweilen und genauen Hinsehen ein.",
                 "hu": "Tökéletes hely a hideg elöli menekülésre és a filigrán csipkeművészet megcsodálására; a fűtött termek hosszabb időtöltésre és alapos szemlélődésre hívnak.",
                 "ro": "Locul perfect pentru a scăpa de frig și a admira arta filigrană a dantelei; sălile încălzite vă invită la o ședere mai lungă și la o observare atentă.",
-                "en": "The perfect place to escape the cold and admire the filigree lace art; the heated rooms invite a longer stay and careful observation of the displays."
+                "en": "The perfect place to escape the cold and admire the filigree lace art; the heated rooms invite a longer stay and careful observation of the displays.",
+                "fr": "L’endroit parfait pour échapper au froid et admirer la dentelle ciselée ; les salles chauffées invitent à un séjour prolongé et à une observation attentive des collections."
               }
             },
             {
@@ -297,13 +328,15 @@
                 "de": "Parc des Promenades",
                 "hu": "Parc des Promenades",
                 "ro": "Parc des Promenades",
-                "en": "Parc des Promenades"
+                "en": "Parc des Promenades",
+                "fr": "Parc des Promenades"
               },
               "tip_5lang": {
                 "de": "Genießen Sie die klare Winterluft und die Struktur der laublosen Bäume; tragen Sie eine warme Mütze und Handschuhe, da der Wind in den offenen Alleen frisch wehen kann.",
                 "hu": "Élvezze a tiszta téli levegőt és a lombkorona nélküli fák szerkezetét; viseljen meleg sapkát és kesztyűt, mivel a szél friss lehet a nyitott sétányokon.",
                 "ro": "Bucurați-vă de aerul curat de iarnă și de structura copacilor fără frunze; purtați o căciulă caldă și mănuși, deoarece vântul poate fi tăios pe aleile deschise.",
-                "en": "Enjoy the crisp winter air and the structure of the leafless trees; wear a warm hat and gloves as the wind can be brisk in the open avenues."
+                "en": "Enjoy the crisp winter air and the structure of the leafless trees; wear a warm hat and gloves as the wind can be brisk in the open avenues.",
+                "fr": "Profitez de l’air vif de l’hiver et de la structure des arbres dénudés ; portez un bonnet chaud et des gants car le vent peut être vif dans les avenues ouvertes."
               }
             },
             {
@@ -311,13 +344,15 @@
                 "de": "Arboretum Koutiala",
                 "hu": "Arboretum Koutiala",
                 "ro": "Arboretum Koutiala",
-                "en": "Arboretum Koutiala"
+                "en": "Arboretum Koutiala",
+                "fr": "Arboretum Koutiala"
               },
               "tip_5lang": {
                 "de": "Die Winterlandschaft bietet eine ruhige, fast mystische Atmosphäre; achten Sie auf festes Schuhwerk gegen Bodenfrost und machen Sie Fotos von den Frostkristallen.",
                 "hu": "A téli táj csendes, szinte misztikus hangulatot áraszt; ügyeljen a szilárd lábbelire a talajmenti fagy ellen, és fotózza le a növényeken lévő zúzmarát.",
                 "ro": "Peisajul de iarnă oferă o atmosferă liniștită, aproape mistică; atenție la încălțămintea solidă împotriva înghețului de la sol și fotografiați promoroaca.",
-                "en": "The winter landscape offers a quiet, almost mystical atmosphere; ensure sturdy footwear against ground frost and take photos of the frost on the plants."
+                "en": "The winter landscape offers a quiet, almost mystical atmosphere; ensure sturdy footwear against ground frost and take photos of the frost on the plants.",
+                "fr": "Le paysage hivernal offre une atmosphère calme, presque mystique ; prévoyez des chaussures solides contre le gel au sol et photographiez le givre sur les plantes."
               }
             },
             {
@@ -325,13 +360,15 @@
                 "de": "Chapelle Notre-Dame-de-Lorette",
                 "hu": "Chapelle Notre-Dame-de-Lorette",
                 "ro": "Chapelle Notre-Dame-de-Lorette",
-                "en": "Chapelle Notre-Dame-de-Lorette"
+                "en": "Chapelle Notre-Dame-de-Lorette",
+                "fr": "Chapelle Notre‑Dame‑de‑Lorette"
               },
               "tip_5lang": {
                 "de": "Ein kurzer Moment der Einkehr in der Stille des Winters; die Kapelle bietet Schutz vor kühlem Wind, auch wenn es drinnen keine Heizung gibt.",
                 "hu": "Rövid elmélyülés a tél csendjében; a kápolna védelmet nyújt a hűvös szél ellen, még akkor is, ha bent nincs külön fűtés, a falak tartják a hűvöset.",
                 "ro": "Un scurt moment de reflecție în liniștea iernii; capela oferă protecție împotriva vântului răcoros, chiar dacă în interior nu există încălzire separată.",
-                "en": "A brief moment of reflection in the silence of winter; the chapel provides protection from the chilly wind, even if there is no heating inside."
+                "en": "A brief moment of reflection in the silence of winter; the chapel provides protection from the chilly wind, even if there is no heating inside.",
+                "fr": "Un bref moment de recueillement dans le silence de l’hiver ; la chapelle protège du vent glacial, même si elle n’est pas chauffée."
               }
             },
             {
@@ -339,13 +376,15 @@
                 "de": "Monument aux Morts",
                 "hu": "Monument aux Morts",
                 "ro": "Monument aux Morts",
-                "en": "Monument aux Morts"
+                "en": "Monument aux Morts",
+                "fr": "Monument aux Morts"
               },
               "tip_5lang": {
                 "de": "Beenden Sie Ihren Spaziergang zügig, bevor die Abendkälte einsetzt; das Denkmal wirkt im fahlen Winterlicht besonders würdevoll, halten Sie sich warm.",
                 "hu": "Zárja sétáját tempósan, mielőtt beállna az esti hideg; az emlékmű különösen méltóságteljes a sápadt téli fényben, ügyeljen a megfelelő réteges öltözködésre.",
                 "ro": "Încheiați plimbarea rapid înainte de lăsarea frigului de seară; monumentul pare deosebit de demn în lumina palidă de iarnă, aveți grijă să vă fie cald.",
-                "en": "Finish your walk briskly before the evening cold sets in; the monument looks particularly dignified in the pale winter light, keep yourself warm."
+                "en": "Finish your walk briskly before the evening cold sets in; the monument looks particularly dignified in the pale winter light, keep yourself warm.",
+                "fr": "Terminez votre promenade rapidement avant que le froid du soir ne s’installe ; le monument est particulièrement digne sous la pâle lumière hivernale, gardez‑vous au chaud."
               }
             }
           ]
@@ -365,7 +404,8 @@
             "de": "Monument aux Morts",
             "hu": "Monument aux Morts",
             "ro": "Monument aux Morts",
-            "en": "Monument aux Morts"
+            "en": "Monument aux Morts",
+            "fr": "Monument aux Morts"
           },
           "coords": [
             0.093734,
@@ -380,7 +420,8 @@
             "de": "Verweilen Sie an diesem ergreifenden Denkmal für die gefallenen Soldaten und nutzen Sie die nahe gelegenen Bänke, um die feierliche Atmosphäre auf sich wirken zu lassen.",
             "hu": "Álljon meg ennél a megható történelmi emlékműnél, amely az elesett katonák előtt tiszteleg, és használja a közeli padokat a pihenésre az ünnepélyes hangulatban.",
             "ro": "Opriți-vă la acest monument istoric emoționant închinat soldaților căzuți și folosiți băncile din apropiere pentru a vă odihni în atmosfera solemnă.",
-            "en": "Pause at this poignant historical monument commemorating fallen soldiers, and use the nearby benches to rest while taking in the solemn atmosphere."
+            "en": "Pause at this poignant historical monument commemorating fallen soldiers, and use the nearby benches to rest while taking in the solemn atmosphere.",
+            "fr": "Faites une pause devant ce monument historique poignant commémorant les soldats tombés, et utilisez les bancs à proximité pour vous reposer en contemplant l’atmosphère solennelle."
           }
         },
         {
@@ -388,7 +429,8 @@
             "de": "Notre-Dame Basilica",
             "hu": "Notre-Dame Basilica",
             "ro": "Notre-Dame Basilica",
-            "en": "Notre-Dame Basilica"
+            "en": "Notre-Dame Basilica",
+            "fr": "Basilique Notre‑Dame"
           },
           "coords": [
             0.088722,
@@ -403,7 +445,8 @@
             "de": "Bewundern Sie die prächtige gotische Vorhalle, die diese Basilika berühmt gemacht hat, und besuchen Sie sie am besten im Morgenlicht für tolle Fotos.",
             "hu": "Csodálja meg a bazilika hírnevét megalapozó, lángoló gótikus pompájú tornácot, és próbáljon a reggeli fényekben érkezni a legjobb üvegablakos fotókért.",
             "ro": "Admirați pridvorul gotic flamboaiant care a adus faima acestei bazilici și încercați să o vizitați în lumina dimineții pentru fotografii perfecte.",
-            "en": "Admire the exquisite flamboyant Gothic porch that earned this basilica its fame, and try to visit during morning light for the best stained glass photos."
+            "en": "Admire the exquisite flamboyant Gothic porch that earned this basilica its fame, and try to visit during morning light for the best stained glass photos.",
+            "fr": "Admirez le magnifique porche gothique flamboyant qui a fait la renommée de cette basilique, et essayez de visiter pendant la lumière du matin pour les meilleures photos des vitraux."
           }
         },
         {
@@ -411,7 +454,8 @@
             "de": "Musée des Beaux-Arts et de la Dentelle",
             "hu": "Musée des Beaux-Arts et de la Dentelle",
             "ro": "Musée des Beaux-Arts et de la Dentelle",
-            "en": "Musée des Beaux-Arts et de la Dentelle"
+            "en": "Musée des Beaux-Arts et de la Dentelle",
+            "fr": "Musée des Beaux‑Arts et de la Dentelle"
           },
           "coords": [
             0.083428,
@@ -426,7 +470,8 @@
             "de": "Entdecken Sie die zarte Alençon-Spitze, ein immaterielles UNESCO-Kulturerbe, und buchen Sie Ihr Museumsticket vorab online, um Warteschlangen zu vermeiden.",
             "hu": "Fedezze fel az UNESCO szellemi örökségét képező finom alençoni csipkét, és foglaljon jegyet előre online, hogy elkerülje a múzeumi sorban állást.",
             "ro": "Descoperiți delicata dantelă de Alençon, patrimoniu imaterial UNESCO, și rezervați-vă biletul de muzeu online în avans pentru a sări peste eventualele cozi.",
-            "en": "Discover the delicate Alençon lace, a UNESCO intangible heritage, and book your museum ticket online in advance to skip the occasional queue."
+            "en": "Discover the delicate Alençon lace, a UNESCO intangible heritage, and book your museum ticket online in advance to skip the occasional queue.",
+            "fr": "Découvrez la délicate dentelle d’Alençon, patrimoine immatériel de l’UNESCO, et réservez votre billet en ligne à l’avance pour éviter la file occasionnelle."
           }
         },
         {
@@ -434,7 +479,8 @@
             "de": "Parc des Promenades",
             "hu": "Parc des Promenades",
             "ro": "Parc des Promenades",
-            "en": "Parc des Promenades"
+            "en": "Parc des Promenades",
+            "fr": "Parc des Promenades"
           },
           "coords": [
             0.07944,
@@ -449,7 +495,8 @@
             "de": "Schlendern Sie durch diesen historischen Park mit seinem schönen Musikpavillon aus dem 19. Jahrhundert, und bringen Sie eine leichte Jacke für den Schatten mit.",
             "hu": "Sétáljon végig ezen a történelmi parkon, hogy megcsodálja a 19. századi zenepavilont, és hozzon magával egy vékony kabátot az árnyékos ösvények miatt.",
             "ro": "Plimbați-vă prin acest parc istoric pentru a vedea frumosul chioșc muzical din secolul 19 și aduceți o jachetă, deoarece aleile umbrite rămân răcoroase.",
-            "en": "Stroll through this historic park to see the beautiful 19th-century bandstand, and bring a light jacket as the shaded paths stay cool year-round."
+            "en": "Stroll through this historic park to see the beautiful 19th-century bandstand, and bring a light jacket as the shaded paths stay cool year-round.",
+            "fr": "Promenez‑vous dans ce parc historique pour voir le joli kiosque du XIXe siècle, et prenez une légère veste car les allées ombragées restent fraîches toute l’année."
           }
         },
         {
@@ -457,7 +504,8 @@
             "de": "Arboretum Koutiala",
             "hu": "Arboretum Koutiala",
             "ro": "Arboretum Koutiala",
-            "en": "Arboretum Koutiala"
+            "en": "Arboretum Koutiala",
+            "fr": "Arboretum Koutiala"
           },
           "coords": [
             0.077475,
@@ -472,7 +520,8 @@
             "de": "Erkunden Sie die reiche Vielfalt an Baumarten in einer friedlichen Umgebung und tragen Sie bequeme Schuhe, um sich auf dem grasbewachsenen Gelände leicht zu bewegen.",
             "hu": "Fedezze fel a békés környezetben elültetett fafajok gazdag változatosságát, és viseljen kényelmes sétacipőt a füves terepen való könnyű közlekedéshez.",
             "ro": "Explorați o diversitate bogată de specii de arbori într-un cadru liniștit și purtați pantofi confortabili pentru a naviga ușor pe terenul înierbat.",
-            "en": "Explore a rich diversity of tree species planted in a peaceful setting, and wear comfortable walking shoes to easily navigate the grassy terrain."
+            "en": "Explore a rich diversity of tree species planted in a peaceful setting, and wear comfortable walking shoes to easily navigate the grassy terrain.",
+            "fr": "Explorez une riche diversité d’espèces d’arbres plantées dans un cadre paisible, et portez des chaussures de marche confortables pour circuler facilement sur le gazon."
           }
         },
         {
@@ -480,7 +529,8 @@
             "de": "Église Saint-Germain",
             "hu": "Église Saint-Germain",
             "ro": "Église Saint-Germain",
-            "en": "Église Saint-Germain"
+            "en": "Église Saint-Germain",
+            "fr": "Église Saint‑Germain"
           },
           "coords": [
             0.061679,
@@ -495,7 +545,8 @@
             "de": "Betrachten Sie die beeindruckende regionale Architektur dieser historischen Kirche und nehmen Sie sich Zeit, die feinen Steinmetzarbeiten am Eingang zu bewundern.",
             "hu": "Tekintse meg ennek a történelmi templomnak a lenyűgöző regionális építészetét, és csodálja meg a főbejárat körüli bonyolult kőfaragásokat.",
             "ro": "Admirați arhitectura regională impresionantă a acestei biserici istorice și luați-vă un moment pentru a aprecia sculptura în piatră din jurul intrării.",
-            "en": "View the impressive regional architecture of this historical church, and take a moment to admire the intricate stonework around the main entrance."
+            "en": "View the impressive regional architecture of this historical church, and take a moment to admire the intricate stonework around the main entrance.",
+            "fr": "Admirez l’imposante architecture régionale de cette église historique, et prenez un moment pour contempler la pierre ouvragée autour de l’entrée principale."
           }
         },
         {
@@ -503,7 +554,8 @@
             "de": "Central 8",
             "hu": "Central 8",
             "ro": "Central 8",
-            "en": "Central 8"
+            "en": "Central 8",
+            "fr": "Central 8"
           },
           "coords": [
             0.063085,
@@ -518,7 +570,8 @@
             "de": "Genießen Sie eine unterhaltsame Pause in diesem familienfreundlichen Freizeitkomplex und kommen Sie am Wochenende früh, um dem Nachmittagsansturm zu entgehen.",
             "hu": "Élvezze a szórakoztató kikapcsolódást ebben a családbarát beltéri komplexumban, és hétvégén érkezzen korán, hogy elkerülje a délutáni tömeget.",
             "ro": "Bucurați-vă de o pauză recreativă în acest complex de interior pentru familii și ajungeți devreme în weekend pentru a evita aglomerația de după-amiază.",
-            "en": "Enjoy a fun recreational break at this family-friendly indoor complex, and arrive early on weekends to secure a spot before the afternoon crowds hit."
+            "en": "Enjoy a fun recreational break at this family-friendly indoor complex, and arrive early on weekends to secure a spot before the afternoon crowds hit.",
+            "fr": "Profitez d’une pause récréative amusante dans ce complexe familial couvert, et arrivez tôt le week‑end pour vous assurer une place avant l’affluence de l’après‑midi."
           }
         }
       ],
@@ -526,7 +579,8 @@
         "de": "Beginnen Sie Ihren Radtag mit der Ehrung der Geschichte am Monument aux Morts, bevor Sie zur Notre-Dame-Basilika fahren. Entdecken Sie am späten Vormittag die berühmte Handwerkskunst im Spitzenmuseum. Der Nachmittag bringt frische Luft im Parc des Promenades und im Arboretum Koutiala. Zum Abschluss besuchen Sie die Église Saint-Germain und das familienfreundliche Central 8.",
         "hu": "Kezdje a kerékpáros napot a történelem tiszteletével a Monument aux Morts-nál, majd tekerjen a Notre-Dame bazilikához. Késő délelőtt fedezze fel a régió híres kézműves hagyományait a Csipkemúzeumban. A délután friss levegőt hoz a Parc des Promenades és az Arborétum Koutiala területén. Végül látogasson el a Saint-Germain templomba és a Central 8 komplexumba.",
         "ro": "Începeți ziua de ciclism onorând istoria la Monument aux Morts înainte de a pedala spre Bazilica Notre-Dame. Petreceți dimineața târzie descoperind măiestria faimoasă la Muzeul Dantelei. După-amiaza aduce aer curat în Parc des Promenades și în Arboretum Koutiala. Încheiați cu vizite la Église Saint-Germain și complexul pentru familii Central 8.",
-        "en": "Start your cycling day honoring history at the Monument aux Morts before riding to the iconic Notre-Dame Basilica. Spend your late morning discovering the region's famous delicate craftsmanship at the Lace Museum. The afternoon brings fresh air at the Parc des Promenades and the leafy Arboretum Koutiala. Finish up with visits to Église Saint-Germain and the family-friendly Central 8."
+        "en": "Start your cycling day honoring history at the Monument aux Morts before riding to the iconic Notre-Dame Basilica. Spend your late morning discovering the region's famous delicate craftsmanship at the Lace Museum. The afternoon brings fresh air at the Parc des Promenades and the leafy Arboretum Koutiala. Finish up with visits to Église Saint-Germain and the family-friendly Central 8.",
+        "fr": "Commencez votre journée à vélo en rendant hommage à l’histoire au Monument aux Morts avant de rejoindre la célèbre Basilique Notre‑Dame. Passez la fin de matinée à découvrir le savoir‑faire délicat de la région au Musée de la Dentelle. L’après‑midi apporte de l’air frais au Parc des Promenades et à l’ombragé Arboretum Koutiala. Terminez par des visites à l’Église Saint‑Germain et au complexe familial Central 8."
       },
       "variants": {
         "rainy": {
@@ -534,7 +588,8 @@
             "de": "Regnerischer Start am Denkmal, Vorsicht auf nassen Straßen. Mittags bietet das Museum eine lange, trockene Pause. Nachmittags durchqueren Sie die Parks auf festem Grund. Beenden Sie den Tag bei Central 8, ideal zum Trocknen.",
             "hu": "Esős kezdés az emlékműnél, óvatosan a nedves utakon. Délben a múzeum hosszú, száraz pihenőt kínál. Délután szilárd talajon vágjon át a parkokon. A napot a Central 8-nál zárja, amely ideális a megszikkadáshoz.",
             "ro": "Început ploios la monument, atenție pe drumurile umede. La prânz, muzeul oferă o pauză lungă și uscată. După-amiaza, traversați parcurile pe teren solid. Încheiați ziua la Central 8, ideal pentru a vă usca.",
-            "en": "Rainy start at the monument, be careful on the wet roads. At noon, the museum offers a long, dry break. In the afternoon, cross the parks on solid ground. End the day at Central 8, ideal for drying off."
+            "en": "Rainy start at the monument, be careful on the wet roads. At noon, the museum offers a long, dry break. In the afternoon, cross the parks on solid ground. End the day at Central 8, ideal for drying off.",
+            "fr": "Départ pluvieux au monument, attention aux routes glissantes. À midi, le musée offre une longue pause au sec. L’après‑midi, traversez les parcs sur des sols solides. Finissez la journée à Central 8, idéal pour se sécher."
           },
           "stops": [
             {
@@ -542,13 +597,15 @@
                 "de": "Monument aux Morts",
                 "hu": "Monument aux Morts",
                 "ro": "Monument aux Morts",
-                "en": "Monument aux Morts"
+                "en": "Monument aux Morts",
+                "fr": "Monument aux Morts"
               },
               "tip_5lang": {
                 "de": "Kurzer Halt für den geschichtlichen Überblick; achten Sie beim Absteigen auf rutschiges Kopfsteinpflaster und sichern Sie Ihr Rad an einem festen Ständer.",
                 "hu": "Rövid megálló a történelmi áttekintéshez; leszálláskor ügyeljen a csúszós macskakőre, és rögzítse kerékpárját egy stabil tárolóhoz.",
                 "ro": "O scurtă oprire pentru o perspectivă istorică; atenție la pavajul alunecos la coborâre și asigurați bicicleta de un suport stabil.",
-                "en": "A short stop for a historical overview; watch out for slippery cobblestones when dismounting and secure your bike to a sturdy rack."
+                "en": "A short stop for a historical overview; watch out for slippery cobblestones when dismounting and secure your bike to a sturdy rack.",
+                "fr": "Un court arrêt pour un aperçu historique ; attention aux pavés glissants lors de la descente et attachez votre vélo à un arceau solide."
               }
             },
             {
@@ -556,13 +613,15 @@
                 "de": "Notre-Dame Basilica",
                 "hu": "Notre-Dame Basilica",
                 "ro": "Notre-Dame Basilica",
-                "en": "Notre-Dame Basilica"
+                "en": "Notre-Dame Basilica",
+                "fr": "Basilique Notre‑Dame"
               },
               "tip_5lang": {
                 "de": "Nutzen Sie den Kircheneingang als Regenschutz während Sie Ihr Rad parken; drinnen erwartet Sie ein trockener Ort voller Kunst, wischen Sie Ihren Sattel danach trocken.",
                 "hu": "Használja a templombejáratot esővédőként, amíg leparkolja a gépet; bent száraz, művészettel teli hely várja, utána pedig törölje szárazra a nyerget.",
                 "ro": "Folosiți intrarea bisericii ca protecție contra ploii în timp ce parcați; în interior vă așteaptă un loc uscat și plin de artă, apoi ștergeți șaua.",
-                "en": "Use the church entrance as rain cover while parking your bike; inside, a dry place full of art awaits, and remember to wipe your saddle afterwards."
+                "en": "Use the church entrance as rain cover while parking your bike; inside, a dry place full of art awaits, and remember to wipe your saddle afterwards.",
+                "fr": "Utilisez l’entrée de l’église comme abri contre la pluie en garantd votre vélo ; à l’intérieur, un lieu sec et riche en art vous attend, et pensez à essuyer votre selle ensuite."
               }
             },
             {
@@ -570,13 +629,15 @@
                 "de": "Musée des Beaux-Arts et de la Dentelle",
                 "hu": "Musée des Beaux-Arts et de la Dentelle",
                 "ro": "Musée des Beaux-Arts et de la Dentelle",
-                "en": "Musée des Beaux-Arts et de la Dentelle"
+                "en": "Musée des Beaux-Arts et de la Dentelle",
+                "fr": "Musée des Beaux‑Arts et de la Dentelle"
               },
               "tip_5lang": {
                 "de": "Parken Sie Ihr Rad sicher und genießen Sie die Wärme drinnen; dies ist der perfekte Ort, um einen kräftigen Schauer abzuwarten und dabei Weltkulturerbe zu sehen.",
                 "hu": "Parkoljon le biztonságosan, és élvezze a benti meleget; ez a tökéletes hely egy nagyobb zápor kivárására, miközben világörökségi kincseket lát.",
                 "ro": "Parcați bicicleta în siguranță și bucurați-vă de căldura din interior; este locul perfect pentru a aștepta trecerea unei averse văzând comori mondiale.",
-                "en": "Park your bike safely and enjoy the warmth inside; this is the perfect spot to wait out a heavy shower while seeing world heritage treasures."
+                "en": "Park your bike safely and enjoy the warmth inside; this is the perfect spot to wait out a heavy shower while seeing world heritage treasures.",
+                "fr": "Garez votre vélo en toute sécurité et profitez de la chaleur intérieure ; c’est l’endroit parfait pour attendre une forte averse tout en découvrant des trésors du patrimoine mondial."
               }
             },
             {
@@ -584,13 +645,15 @@
                 "de": "Parc des Promenades",
                 "hu": "Parc des Promenades",
                 "ro": "Parc des Promenades",
-                "en": "Parc des Promenades"
+                "en": "Parc des Promenades",
+                "fr": "Parc des Promenades"
               },
               "tip_5lang": {
                 "de": "Fahren Sie vorsichtig auf den Alleen, die bei Regen rutschig sein können; nutzen Sie die asphaltierten Bereiche und halten Sie Ausschau nach überdachten Sitzbänken.",
                 "hu": "Hajtson óvatosan a sétányokon, amelyek esőben csúszósak lehetnek; használja az aszfaltozott részeket, és keressen fedett padokat a rövid pihenőhöz.",
                 "ro": "Conduceți cu prudență pe alei, care pot fi alunecoase pe ploaie; folosiți zonele asfaltate și căutați bănci acoperite pentru o scurtă pauză.",
-                "en": "Ride carefully on the avenues, which can be slippery in the rain; use the paved areas and look for covered benches for a quick rest."
+                "en": "Ride carefully on the avenues, which can be slippery in the rain; use the paved areas and look for covered benches for a quick rest.",
+                "fr": "Roulez prudemment sur les avenues, qui peuvent être glissantes sous la pluie ; utilisez les zones pavées et cherchez des bancs couverts pour une courte pause."
               }
             },
             {
@@ -598,13 +661,15 @@
                 "de": "Arboretum Koutiala",
                 "hu": "Arboretum Koutiala",
                 "ro": "Arboretum Koutiala",
-                "en": "Arboretum Koutiala"
+                "en": "Arboretum Koutiala",
+                "fr": "Arboretum Koutiala"
               },
               "tip_5lang": {
                 "de": "Ein schöner Ort für Naturfotos im Regen, aber meiden Sie weiche Wiesenflächen; halten Sie Ihre Bremswege auf den feuchten Wegen etwas länger ein.",
                 "hu": "Szép hely természetfotókhoz esőben, de kerülje a felázott füves területeket; tartson nagyobb féktávolságot a nedves utakon a biztonság érdekében.",
                 "ro": "Un loc frumos pentru fotografii în ploaie, dar evitați zonele cu iarbă moale; păstrați o distanță de frânare mai mare pe potecile umede.",
-                "en": "A beautiful spot for nature photos in the rain, but avoid soft grassy areas; keep a longer braking distance on the damp paths for safety."
+                "en": "A beautiful spot for nature photos in the rain, but avoid soft grassy areas; keep a longer braking distance on the damp paths for safety.",
+                "fr": "Un bel endroit pour des photos de nature sous la pluie, mais évitez les zones herbeuses molles ; gardez une distance de freinage plus grande sur les chemins humides pour votre sécurité."
               }
             },
             {
@@ -612,13 +677,15 @@
                 "de": "Église Saint-Germain",
                 "hu": "Église Saint-Germain",
                 "ro": "Église Saint-Germain",
-                "en": "Église Saint-Germain"
+                "en": "Église Saint-Germain",
+                "fr": "Église Saint-Germain"
               },
               "tip_5lang": {
                 "de": "Die Kirche ist ein guter Stopp, um kurz abzutrocknen; bewundern Sie das schlichte Interieur und nutzen Sie den Moment, um Ihre Regenkleidung zu ordnen.",
                 "hu": "A templom jó megálló egy rövid száradáshoz; csodálja meg az egyszerű belső teret, és használja ki az időt az esőruházat igazítására.",
                 "ro": "Biserica este un punct bun pentru o scurtă uscare; admirați interiorul simplu și folosiți momentul pentru a vă ajusta echipamentul de ploaie.",
-                "en": "The church is a good stop for a brief dry-off; admire the simple interior and take a moment to adjust your rain gear before heading out again."
+                "en": "The church is a good stop for a brief dry-off; admire the simple interior and take a moment to adjust your rain gear before heading out again.",
+                "fr": "L'église est un bon arrêt pour se sécher brièvement ; admirez l'intérieur sobre et profitez-en pour ajuster votre équipement de pluie avant de repartir."
               }
             },
             {
@@ -626,13 +693,15 @@
                 "de": "Central 8",
                 "hu": "Central 8",
                 "ro": "Central 8",
-                "en": "Central 8"
+                "en": "Central 8",
+                "fr": "Central 8"
               },
               "tip_5lang": {
                 "de": "Ein toller Ort für Familien mit überdachten Optionen; beenden Sie die Tour hier, wärmen Sie sich auf und genießen Sie die lockere Atmosphäre nach der feuchten Fahrt.",
                 "hu": "Remek hely családoknak fedett lehetőségekkel; zárja itt a túrát, melegedjen fel és élvezze a kötetlen hangulatot a vizes tekerés után.",
                 "ro": "Un loc grozav pentru familii cu opțiuni acoperite; încheiați turul aici, încălziți-vă și bucurați-vă de atmosfera relaxată după cursa umedă.",
-                "en": "A great spot for families with indoor options; finish your tour here, warm up, and enjoy the casual atmosphere after the damp ride."
+                "en": "A great spot for families with indoor options; finish your tour here, warm up, and enjoy the casual atmosphere after the damp ride.",
+                "fr": "Un excellent lieu pour les familles avec des options en intérieur ; terminez votre visite ici, réchauffez-vous et profitez de l'ambiance détendue après la sortie humide."
               }
             }
           ]
@@ -642,7 +711,8 @@
             "de": "Frische Winterluft auf dem Rad am Morgen. Mittags ist das Museum der ideale Aufwärmstopp. Nachmittags durch die Parks, bevor die Sonne um 17:00 Uhr sinkt. Central 8 bietet am Ende Wärme und Licht.",
             "hu": "Friss téli levegő a kerékpáron reggel. Délben a múzeum az ideális felmelegedő állomás. Délután tekerjen át a parkokon, mielőtt a nap 17:00-kor lebukik. A Central 8 végül meleget és fényt kínál.",
             "ro": "Aer curat de iarnă pe bicicletă dimineața. La prânz, muzeul este punctul ideal de încălzire. După-amiaza, prin parcuri înainte ca soarele să apună la ora 17:00. Central 8 oferă la final căldură și lumină.",
-            "en": "Fresh winter air on the bike in the morning. At noon, the museum is the ideal warm-up stop. Cycle through the parks in the afternoon before the sun sets at 17:00. Central 8 offers warmth and light at the end."
+            "en": "Fresh winter air on the bike in the morning. At noon, the museum is the ideal warm-up stop. Cycle through the parks in the afternoon before the sun sets at 17:00. Central 8 offers warmth and light at the end.",
+            "fr": "Air d'hiver frais à vélo le matin. À midi, le musée est l'arrêt idéal pour se réchauffer. Parcourez les parcs l'après-midi avant le coucher du soleil à 17:00. Central 8 offre chaleur et lumière en fin de journée."
           },
           "stops": [
             {
@@ -650,13 +720,15 @@
                 "de": "Monument aux Morts",
                 "hu": "Monument aux Morts",
                 "ro": "Monument aux Morts",
-                "en": "Monument aux Morts"
+                "en": "Monument aux Morts",
+                "fr": "Monument aux Morts"
               },
               "tip_5lang": {
                 "de": "Ein zügiger Halt im kalten Wind; machen Sie Ihre Fotos schnell und tragen Sie winddichte Handschuhe, um Ihre Finger für die Weiterfahrt beweglich zu halten.",
                 "hu": "Gyors megálló a hideg szélben; készítse el hamar a fotókat, és viseljen szélálló kesztyűt, hogy ujjai mozgékonyak maradjanak a folytatáshoz.",
                 "ro": "O oprire rapidă în vântul rece; faceți fotografiile repede și purtați mănuși rezistente la vânt pentru a vă păstra degetele mobile pentru drum.",
-                "en": "A quick stop in the cold wind; take your photos quickly and wear windproof gloves to keep your fingers mobile for the rest of the ride."
+                "en": "A quick stop in the cold wind; take your photos quickly and wear windproof gloves to keep your fingers mobile for the rest of the ride.",
+                "fr": "Un arrêt rapide dans le vent froid ; faites vos photos vite et portez des gants coupe-vent pour garder les doigts mobiles pour la suite de la balade."
               }
             },
             {
@@ -664,13 +736,15 @@
                 "de": "Notre-Dame Basilica",
                 "hu": "Notre-Dame Basilica",
                 "ro": "Notre-Dame Basilica",
-                "en": "Notre-Dame Basilica"
+                "en": "Notre-Dame Basilica",
+                "fr": "Notre-Dame Basilica"
               },
               "tip_5lang": {
                 "de": "Die dicken Mauern schützen vor Wind, können aber kühl sein; bewundern Sie die Kunstwerke drinnen und treten Sie kräftig in die Pedale, um danach warm zu werden.",
                 "hu": "A vastag falak védenek a széltől, de hűvösek lehetnek; csodálja meg a benti alkotásokat, utána pedig tekerjen tempósabban, hogy hamar átmelegedjen.",
                 "ro": "Zidurile groase protejează de vânt, dar pot fi reci; admirați operele de artă din interior, iar apoi pedalați mai susținut pentru a vă încălzi.",
-                "en": "The thick walls protect from the wind but can be chilly; admire the artworks inside, then cycle at a brisk pace afterwards to warm up quickly."
+                "en": "The thick walls protect from the wind but can be chilly; admire the artworks inside, then cycle at a brisk pace afterwards to warm up quickly.",
+                "fr": "Les murs épais protègent du vent mais peuvent être frais ; admirez les œuvres à l'intérieur, puis pédalez d'un bon pas après pour vous réchauffer rapidement."
               }
             },
             {
@@ -678,13 +752,15 @@
                 "de": "Musée des Beaux-Arts et de la Dentelle",
                 "hu": "Musée des Beaux-Arts et de la Dentelle",
                 "ro": "Musée des Beaux-Arts et de la Dentelle",
-                "en": "Musée des Beaux-Arts et de la Dentelle"
+                "en": "Musée des Beaux-Arts et de la Dentelle",
+                "fr": "Musée des Beaux-Arts et de la Dentelle"
               },
               "tip_5lang": {
                 "de": "Dies ist die längste Pause im Warmen; tauchen Sie in die Geschichte der Spitze ein, während Ihre Ausrüstung trocknet und Ihre Glieder wieder warm werden.",
                 "hu": "Ez a leghosszabb pihenő a melegben; merüljön el a csipke történetében, miközben a felszerelése szárad és a végtagjai ismét felmelegednek.",
                 "ro": "Aceasta este cea mai lungă pauză la căldură; cufundați-vă în istoria dantelei în timp ce echipamentul se usucă și membrele vi se încălzesc.",
-                "en": "This is your longest break in the warm; immerse yourself in the history of lace while your gear dries and your limbs warm up again."
+                "en": "This is your longest break in the warm; immerse yourself in the history of lace while your gear dries and your limbs warm up again.",
+                "fr": "C'est votre plus longue pause au chaud ; plongez dans l'histoire de la dentelle pendant que votre équipement sèche et que vos membres se réchauffent."
               }
             },
             {
@@ -692,13 +768,15 @@
                 "de": "Parc des Promenades",
                 "hu": "Parc des Promenades",
                 "ro": "Parc des Promenades",
-                "en": "Parc des Promenades"
+                "en": "Parc des Promenades",
+                "fr": "Parc des Promenades"
               },
               "tip_5lang": {
                 "de": "Fahren Sie vorsichtig, falls Frost auf den Wegen liegt; die klare Luft bietet eine weite Sicht durch die kahlen Bäume, ideal für Landschaftsaufnahmen.",
                 "hu": "Hajtson óvatosan, ha dér borítja az utakat; a tiszta levegő messzi kilátást biztosít a kopasz fák között, ami ideális a tájképek készítéséhez.",
                 "ro": "Conduceți cu atenție dacă este brumă pe poteci; aerul curat oferă o vizibilitate mare printre copacii golași, ideal pentru fotografii de peisaj.",
-                "en": "Ride carefully if there is frost on the paths; the crisp air provides long views through the bare trees, ideal for landscape photography."
+                "en": "Ride carefully if there is frost on the paths; the crisp air provides long views through the bare trees, ideal for landscape photography.",
+                "fr": "Roulez prudemment s'il y a du gel sur les chemins ; l'air vif offre de longues vues à travers les arbres dépouillés, idéal pour la photographie de paysage."
               }
             },
             {
@@ -706,13 +784,15 @@
                 "de": "Arboretum Koutiala",
                 "hu": "Arboretum Koutiala",
                 "ro": "Arboretum Koutiala",
-                "en": "Arboretum Koutiala"
+                "en": "Arboretum Koutiala",
+                "fr": "Arboretum Koutiala"
               },
               "tip_5lang": {
                 "de": "Das Arboretum wirkt im Winter schlafend und friedlich; bleiben Sie auf dem Rad in Bewegung und achten Sie auf gefrorene Stellen in den schattigen Kurven.",
                 "hu": "Az arborétum télen alvó és békés arcát mutatja; maradjon mozgásban a kerékpáron, és ügyeljen a fagyott foltokra az árnyékos kanyarokban.",
                 "ro": "Arboretul pare adormit și liniștit iarna; rămâneți în mișcare pe bicicletă și atenție la porțiunile înghețate în curbele umbrite.",
-                "en": "The arboretum shows its dormant and peaceful side in winter; keep moving on your bike and watch out for frozen patches in shaded corners."
+                "en": "The arboretum shows its dormant and peaceful side in winter; keep moving on your bike and watch out for frozen patches in shaded corners.",
+                "fr": "L'arboretum montre son côté dormant et paisible en hiver ; gardez le rythme à vélo et méfiez-vous des plaques gelées dans les coins ombragés."
               }
             },
             {
@@ -720,13 +800,15 @@
                 "de": "Église Saint-Germain",
                 "hu": "Église Saint-Germain",
                 "ro": "Église Saint-Germain",
-                "en": "Église Saint-Germain"
+                "en": "Église Saint-Germain",
+                "fr": "Église Saint-Germain"
               },
               "tip_5lang": {
                 "de": "Ein ruhiger Stopp für die Seele; die Kirche ist schlicht und friedlich, nutzen Sie die Pause für einen Schluck aus Ihrer warmen Thermoskanne.",
                 "hu": "Csendes megálló a léleknek; a templom egyszerű és békés, használja ki a szünetet egy korty meleg italra a termoszból a következő szakasz előtt.",
                 "ro": "O oprire liniștită pentru suflet; biserica este simplă și pașnică, folosiți pauza pentru o gură de băutură caldă din termos înainte de etapa următoare.",
-                "en": "A quiet stop for the soul; the church is simple and peaceful, use the break for a sip of a hot drink from your thermos before the next leg."
+                "en": "A quiet stop for the soul; the church is simple and peaceful, use the break for a sip of a hot drink from your thermos before the next leg.",
+                "fr": "Un arrêt tranquille pour l'âme ; l'église est simple et paisible, profitez de la pause pour boire une gorgée d'une boisson chaude de votre thermos avant la prochaine étape."
               }
             },
             {
@@ -734,13 +816,15 @@
                 "de": "Central 8",
                 "hu": "Central 8",
                 "ro": "Central 8",
-                "en": "Central 8"
+                "en": "Central 8",
+                "fr": "Central 8"
               },
               "tip_5lang": {
                 "de": "Beenden Sie den Tag hier in geselliger Runde; da es draußen ab 17:00 Uhr dunkel wird, ist die helle Beleuchtung hier ein willkommener Abschluss Ihrer Radtour.",
                 "hu": "Zárja a napot itt közösségi hangulatban; mivel kint 17:00 után besötétedik, az itteni fényes kivilágítás kellemes befejezése a téli kerékpározásnak.",
                 "ro": "Încheiați ziua aici într-o notă socială; deoarece afară se întunecă după 17:00, iluminarea puternică de aici este un final plăcut pentru tura de iarnă.",
-                "en": "Finish the day here in a social atmosphere; since it gets dark outside after 17:00, the bright lighting here is a welcome end to your winter ride."
+                "en": "Finish the day here in a social atmosphere; since it gets dark outside after 17:00, the bright lighting here is a welcome end to your winter ride.",
+                "fr": "Terminez la journée ici dans une ambiance conviviale ; comme il fait nuit dehors après 17:00, l'éclairage vif est une conclusion bienvenue à votre sortie hivernale."
               }
             }
           ]
@@ -760,7 +844,8 @@
             "de": "Église Sainte-Thérèse de Perseigne",
             "hu": "Église Sainte-Thérèse de Perseigne",
             "ro": "Église Sainte-Thérèse de Perseigne",
-            "en": "Église Sainte-Thérèse de Perseigne"
+            "en": "Église Sainte-Thérèse de Perseigne",
+            "fr": "Église Sainte-Thérèse de Perseigne"
           },
           "coords": [
             0.098779,
@@ -775,7 +860,8 @@
             "de": "Bestaunen Sie die modernen Linien dieses religiösen Gebäudes aus der Mitte des Jahrhunderts und betrachten Sie die lebhaften Glasfenster von innen.",
             "hu": "Csodálja meg ennek a századközepi vallási épületnek az egyedi modern vonalait, és nézze meg közelebbről a belülről élénk színű, modern ólomüveg ablakokat.",
             "ro": "Minunați-vă de liniile moderne unice ale acestei clădiri religioase de la jumătatea secolului și priviți atent vitraliile moderne vibrante din interior.",
-            "en": "Marvel at the unique modern lines of this mid-century religious building, and look closely at the vibrant modern stained glass windows from the inside."
+            "en": "Marvel at the unique modern lines of this mid-century religious building, and look closely at the vibrant modern stained glass windows from the inside.",
+            "fr": "Admirez les lignes modernes uniques de cet édifice religieux du milieu du XXe siècle, et observez de près les vitraux modernes et colorés depuis l'intérieur."
           }
         },
         {
@@ -783,7 +869,8 @@
             "de": "Chapelle Notre-Dame-de-Lorette",
             "hu": "Chapelle Notre-Dame-de-Lorette",
             "ro": "Chapelle Notre-Dame-de-Lorette",
-            "en": "Chapelle Notre-Dame-de-Lorette"
+            "en": "Chapelle Notre-Dame-de-Lorette",
+            "fr": "Chapelle Notre-Dame-de-Lorette"
           },
           "coords": [
             0.089493,
@@ -798,7 +885,8 @@
             "de": "Besuchen Sie diese charmante kleine Kapelle für einen ruhigen Moment der Besinnung und prüfen Sie vorher die Öffnungszeiten, da diese oft begrenzt sind.",
             "hu": "Látogasson el ebbe a bájos kis kápolnába, amely csendes elmélkedést kínál, és ellenőrizze a nyitvatartást, mivel az gyakran csak hétvégére korlátozódik.",
             "ro": "Vizitați această mică capelă fermecătoare care oferă un moment de liniște și verificați programul înainte, deoarece este adesea limitat la weekend-uri.",
-            "en": "Visit this charming small chapel that offers a quiet moment of reflection, and check the opening hours beforehand as they are often limited to weekends."
+            "en": "Visit this charming small chapel that offers a quiet moment of reflection, and check the opening hours beforehand as they are often limited to weekends.",
+            "fr": "Visitez cette charmante petite chapelle qui offre un moment de recueillement, et vérifiez les horaires d'ouverture au préalable car ils sont souvent limités aux week-ends."
           }
         },
         {
@@ -806,7 +894,8 @@
             "de": "Arboretum Koutiala",
             "hu": "Arboretum Koutiala",
             "ro": "Arboretum Koutiala",
-            "en": "Arboretum Koutiala"
+            "en": "Arboretum Koutiala",
+            "fr": "Arboretum Koutiala"
           },
           "coords": [
             0.077475,
@@ -821,7 +910,8 @@
             "de": "Erkunden Sie die reiche Vielfalt an Baumarten in einer friedlichen Umgebung und tragen Sie bequeme Schuhe, um sich auf dem grasbewachsenen Gelände leicht zu bewegen.",
             "hu": "Fedezze fel a békés környezetben elültetett fafajok gazdag változatosságát, és viseljen kényelmes sétacipőt a füves terepen való könnyű közlekedéshez.",
             "ro": "Explorați o diversitate bogată de specii de arbori într-un cadru liniștit și purtați pantofi confortabili pentru a naviga ușor pe terenul înierbat.",
-            "en": "Explore a rich diversity of tree species planted in a peaceful setting, and wear comfortable walking shoes to easily navigate the grassy terrain."
+            "en": "Explore a rich diversity of tree species planted in a peaceful setting, and wear comfortable walking shoes to easily navigate the grassy terrain.",
+            "fr": "Explorez une riche diversité d'espèces d'arbres plantées dans un cadre paisible, et portez des chaussures de marche confortables pour naviguer facilement sur le terrain herbeux."
           }
         },
         {
@@ -829,7 +919,8 @@
             "de": "Église Saint-Germain",
             "hu": "Église Saint-Germain",
             "ro": "Église Saint-Germain",
-            "en": "Église Saint-Germain"
+            "en": "Église Saint-Germain",
+            "fr": "Église Saint-Germain"
           },
           "coords": [
             0.061679,
@@ -844,7 +935,8 @@
             "de": "Betrachten Sie die beeindruckende regionale Architektur dieser historischen Kirche und nehmen Sie sich Zeit, die feinen Steinmetzarbeiten am Eingang zu bewundern.",
             "hu": "Tekintse meg ennek a történelmi templomnak a lenyűgöző regionális építészetét, és csodálja meg a főbejárat körüli bonyolult kőfaragásokat.",
             "ro": "Admirați arhitectura regională impresionantă a acestei biserici istorice și luați-vă un moment pentru a aprecia sculptura în piatră din jurul intrării.",
-            "en": "View the impressive regional architecture of this historical church, and take a moment to admire the intricate stonework around the main entrance."
+            "en": "View the impressive regional architecture of this historical church, and take a moment to admire the intricate stonework around the main entrance.",
+            "fr": "Contemplez l'impressionnante architecture régionale de cette église historique, et prenez un instant pour admirer la pierre sculptée autour de l'entrée principale."
           }
         },
         {
@@ -852,7 +944,8 @@
             "de": "Central 8",
             "hu": "Central 8",
             "ro": "Central 8",
-            "en": "Central 8"
+            "en": "Central 8",
+            "fr": "Central 8"
           },
           "coords": [
             0.063085,
@@ -867,7 +960,8 @@
             "de": "Genießen Sie eine unterhaltsame Pause in diesem familienfreundlichen Freizeitkomplex und kommen Sie am Wochenende früh, um dem Nachmittagsansturm zu entgehen.",
             "hu": "Élvezze a szórakoztató kikapcsolódást ebben a családbarát beltéri komplexumban, és hétvégén érkezzen korán, hogy elkerülje a délutáni tömeget.",
             "ro": "Bucurați-vă de o pauză recreativă în acest complex de interior pentru familii și ajungeți devreme în weekend pentru a evita aglomerația de după-amiază.",
-            "en": "Enjoy a fun recreational break at this family-friendly indoor complex, and arrive early on weekends to secure a spot before the afternoon crowds hit."
+            "en": "Enjoy a fun recreational break at this family-friendly indoor complex, and arrive early on weekends to secure a spot before the afternoon crowds hit.",
+            "fr": "Profitez d'une pause récréative au sein de ce complexe familial en intérieur, et arrivez tôt le week-end pour sécuriser une place avant l'affluence de l'après-midi."
           }
         },
         {
@@ -875,7 +969,8 @@
             "de": "Musée des Beaux-Arts et de la Dentelle",
             "hu": "Musée des Beaux-Arts et de la Dentelle",
             "ro": "Musée des Beaux-Arts et de la Dentelle",
-            "en": "Musée des Beaux-Arts et de la Dentelle"
+            "en": "Musée des Beaux-Arts et de la Dentelle",
+            "fr": "Musée des Beaux-Arts et de la Dentelle"
           },
           "coords": [
             0.083428,
@@ -890,7 +985,8 @@
             "de": "Entdecken Sie die zarte Alençon-Spitze, ein immaterielles UNESCO-Kulturerbe, und buchen Sie Ihr Museumsticket vorab online, um Warteschlangen zu vermeiden.",
             "hu": "Fedezze fel az UNESCO szellemi örökségét képező finom alençoni csipkét, és foglaljon jegyet előre online, hogy elkerülje a múzeumi sorban állást.",
             "ro": "Descoperiți delicata dantelă de Alençon, patrimoniu imaterial UNESCO, și rezervați-vă biletul de muzeu online în avans pentru a sări peste eventualele cozi.",
-            "en": "Discover the delicate Alençon lace, a UNESCO intangible heritage, and book your museum ticket online in advance to skip the occasional queue."
+            "en": "Discover the delicate Alençon lace, a UNESCO intangible heritage, and book your museum ticket online in advance to skip the occasional queue.",
+            "fr": "Découvrez la délicate dentelle d'Alençon, patrimoine immatériel de l'UNESCO, et réservez votre billet en ligne à l'avance pour éviter la file occasionnelle."
           }
         },
         {
@@ -898,7 +994,8 @@
             "de": "Monument aux Morts",
             "hu": "Monument aux Morts",
             "ro": "Monument aux Morts",
-            "en": "Monument aux Morts"
+            "en": "Monument aux Morts",
+            "fr": "Monument aux Morts"
           },
           "coords": [
             0.093734,
@@ -913,7 +1010,8 @@
             "de": "Verweilen Sie an diesem ergreifenden Denkmal für die gefallenen Soldaten und nutzen Sie die nahe gelegenen Bänke, um die feierliche Atmosphäre auf sich wirken zu lassen.",
             "hu": "Álljon meg ennél a megható történelmi emlékműnél, amely az elesett katonák előtt tiszteleg, és használja a közeli padokat a pihenésre az ünnepélyes hangulatban.",
             "ro": "Opriți-vă la acest monument istoric emoționant închinat soldaților căzuți și folosiți băncile din apropiere pentru a vă odihni în atmosfera solemnă.",
-            "en": "Pause at this poignant historical monument commemorating fallen soldiers, and use the nearby benches to rest while taking in the solemn atmosphere."
+            "en": "Pause at this poignant historical monument commemorating fallen soldiers, and use the nearby benches to rest while taking in the solemn atmosphere.",
+            "fr": "Faites une pause à ce monument historique poignant commémorant les soldats tombés, et utilisez les bancs à proximité pour vous reposer en prenant la mesure de l'atmosphère solennelle."
           }
         },
         {
@@ -921,7 +1019,8 @@
             "de": "Notre-Dame Basilica",
             "hu": "Notre-Dame Basilica",
             "ro": "Notre-Dame Basilica",
-            "en": "Notre-Dame Basilica"
+            "en": "Notre-Dame Basilica",
+            "fr": "Notre-Dame Basilica"
           },
           "coords": [
             0.088722,
@@ -936,7 +1035,8 @@
             "de": "Bewundern Sie die prächtige gotische Vorhalle, die diese Basilika berühmt gemacht hat, und besuchen Sie sie am besten im Morgenlicht für tolle Fotos.",
             "hu": "Csodálja meg a bazilika hírnevét megalapozó, lángoló gótikus pompájú tornácot, és próbáljon a reggeli fényekben érkezni a legjobb üvegablakos fotókért.",
             "ro": "Admirați pridvorul gotic flamboaiant care a adus faima acestei bazilici și încercați să o vizitați în lumina dimineții pentru fotografii perfecte.",
-            "en": "Admire the exquisite flamboyant Gothic porch that earned this basilica its fame, and try to visit during morning light for the best stained glass photos."
+            "en": "Admire the exquisite flamboyant Gothic porch that earned this basilica its fame, and try to visit during morning light for the best stained glass photos.",
+            "fr": "Admirez le porche flamboyant gothique exquis qui a fait la renommée de cette basilique, et essayez de visiter à la lumière du matin pour les meilleures photos des vitraux."
           }
         }
       ],
@@ -944,7 +1044,8 @@
         "de": "Ihr Roadtrip beginnt an der einzigartig modernen Église Sainte-Thérèse de Perseigne. Fahren Sie in Richtung Stadtzentrum und halten Sie an der Lorette-Kapelle und dem üppigen Arboretum Koutiala. Nach der Église Saint-Germain verbringen Sie den Mittag im Central 8. Tauchen Sie nachmittags im Spitzenmuseum in Alençons Kunstseele ein und enden Sie an der großen Basilika.",
         "hu": "Autós kirándulása az egyedi modern Église Sainte-Thérèse de Perseigne-nél kezdődik. Vezessen a központ felé, megállva a Lorette kápolnánál és a buja Koutiala Arborétumnál. A Saint-Germain templom után töltsön egy energikus delet a Central 8-ban. Délután merüljön el a Csipkemúzeum művészetében, majd zárjon a Monument aux Morts és a lenyűgöző bazilika meglátogatásával.",
         "ro": "Călătoria auto începe la moderna Église Sainte-Thérèse de Perseigne. Conduceți spre centru, oprindu-vă la Capela Lorette și la luxuriantul Arboretum Koutiala. După Église Saint-Germain, petreceți un prânz plin de energie la Central 8. După-amiaza, pătrundeți în sufletul artistic la Muzeul Dantelei, terminând la Monument aux Morts și grandioasa Bazilică.",
-        "en": "Your road trip starts at the uniquely modern Église Sainte-Thérèse de Perseigne. Drive towards the city center, stopping by the quaint Lorette Chapel and the lush Arboretum Koutiala. After admiring Église Saint-Germain, spend an energetic midday at Central 8. In the afternoon, dive into Alençon's artistic soul at the Lace Museum, finishing with the Monument aux Morts and the grand Basilica."
+        "en": "Your road trip starts at the uniquely modern Église Sainte-Thérèse de Perseigne. Drive towards the city center, stopping by the quaint Lorette Chapel and the lush Arboretum Koutiala. After admiring Église Saint-Germain, spend an energetic midday at Central 8. In the afternoon, dive into Alençon's artistic soul at the Lace Museum, finishing with the Monument aux Morts and the grand Basilica.",
+        "fr": "Votre road‑trip commence à la moderne Église Sainte-Thérèse de Perseigne. Rejoignez le centre-ville en vous arrêtant à la charmante Chapelle de Lorette et au luxuriant Arboretum Koutiala. Après avoir admiré l'Église Saint‑Germain, passez un midi dynamique à Central 8. L'après‑midi, plongez dans l'âme artistique d'Alençon au Musée de la Dentelle, puis terminez par le Monument aux Morts et la grande Basilique."
       },
       "variants": {
         "rainy": {
@@ -952,7 +1053,8 @@
             "de": "Bequeme Fahrt trotz Regen am Morgen. Mittags besuchen Sie das Arboretum zwischen den Schauern. Nachmittags ist das Spitzenmuseum der perfekte trockene Stopp. Der Tag endet sicher an der Basilika, Parken ist nah möglich.",
             "hu": "Kényelmes autózás reggel az eső ellenére. Napközben látogassa meg az arborétumot két zápor között. Délután a csipkemúzeum a tökéletes száraz állomás. A nap biztonságban zárul a bazilikánál, a parkolás közel van.",
             "ro": "Călătorie confortabilă cu mașina dimineața, în ciuda ploii. La prânz, vizitați arboretul între averse. După-amiaza, muzeul dantelei este oprirea uscată perfectă. Ziua se încheie sigur la bazilică, parcarea fiind aproape.",
-            "en": "Comfortable drive in the morning despite the rain. Visit the arboretum between showers at midday. In the afternoon, the lace museum is the perfect dry stop. The day ends safely at the basilica, with parking nearby."
+            "en": "Comfortable drive in the morning despite the rain. Visit the arboretum between showers at midday. In the afternoon, the lace museum is the perfect dry stop. The day ends safely at the basilica, with parking nearby.",
+            "fr": "Conduite confortable le matin malgré la pluie. Visitez l'arboretum entre les averses à midi. L'après‑midi, le musée de la dentelle est l'arrêt sec parfait. La journée se termine en toute sécurité à la basilique, avec stationnement à proximité."
           },
           "stops": [
             {
@@ -960,13 +1062,15 @@
                 "de": "Église Sainte-Thérèse de Perseigne",
                 "hu": "Église Sainte-Thérèse de Perseigne",
                 "ro": "Église Sainte-Thérèse de Perseigne",
-                "en": "Église Sainte-Thérèse de Perseigne"
+                "en": "Église Sainte-Thérèse de Perseigne",
+                "fr": "Église Sainte-Thérèse de Perseigne"
               },
               "tip_5lang": {
                 "de": "Parken Sie so nah wie möglich am Eingang, um trocken zu bleiben; bewundern Sie die moderne Architektur im Inneren und genießen Sie den Schutz vor dem Wetter.",
                 "hu": "Parkoljon a lehető legközelebb a bejárathoz, hogy száraz maradjon; csodálja meg a modern belső építészetet, és élvezze az időjárás elleni védelmet.",
                 "ro": "Parcați cât mai aproape de intrare pentru a rămâne uscat; admirați arhitectura modernă din interior și bucurați-vă de protecția contra vremii.",
-                "en": "Park as close to the entrance as possible to stay dry; admire the modern architecture inside and enjoy the protection from the elements."
+                "en": "Park as close to the entrance as possible to stay dry; admire the modern architecture inside and enjoy the protection from the elements.",
+                "fr": "Garez-vous le plus près possible de l'entrée pour rester au sec ; admirez l'architecture moderne à l'intérieur et profitez de la protection contre les intempéries."
               }
             },
             {
@@ -974,13 +1078,15 @@
                 "de": "Chapelle Notre-Dame-de-Lorette",
                 "hu": "Chapelle Notre-Dame-de-Lorette",
                 "ro": "Chapelle Notre-Dame-de-Lorette",
-                "en": "Chapelle Notre-Dame-de-Lorette"
+                "en": "Chapelle Notre-Dame-de-Lorette",
+                "fr": "Chapelle Notre-Dame-de-Lorette"
               },
               "tip_5lang": {
                 "de": "Ein kurzer, trockener Stopp in dieser friedlichen Kapelle; nutzen Sie den Moment, um die Route zu prüfen, während der Regen gegen die alten Fenster prasselt.",
                 "hu": "Rövid, száraz megálló ebben a békés kápolnában; használja ki a pillanatot az útvonal ellenőrzésére, miközben az eső kopog a régi ablakokon.",
                 "ro": "O scurtă oprire uscată în această capelă pașnică; profitați de moment pentru a verifica traseul în timp ce ploaia bate în ferestrele vechi.",
-                "en": "A short, dry stop in this peaceful chapel; take a moment to check your route while the rain drums against the old windows."
+                "en": "A short, dry stop in this peaceful chapel; take a moment to check your route while the rain drums against the old windows.",
+                "fr": "Un court arrêt sec dans cette chapelle paisible ; profitez-en pour vérifier votre itinéraire pendant que la pluie tambourine contre les vieilles vitres."
               }
             },
             {
@@ -988,13 +1094,15 @@
                 "de": "Arboretum Koutiala",
                 "hu": "Arboretum Koutiala",
                 "ro": "Arboretum Koutiala",
-                "en": "Arboretum Koutiala"
+                "en": "Arboretum Koutiala",
+                "fr": "Arboretum Koutiala"
               },
               "tip_5lang": {
                 "de": "Genießen Sie das Grün vom Auto aus oder bei einer kurzen regenfreien Pause; halten Sie einen stabilen Regenschirm bereit, falls Sie die Pfade erkunden möchten.",
                 "hu": "Élvezze a zöldet az autóból, vagy egy rövid esőszünetben; tartson kéznél egy stabil esernyőt, ha szeretné közelebbről is felfedezni az ösvényeket.",
                 "ro": "Bucurați-vă de verdeață din mașină sau într-o scurtă pauză fără ploaie; aveți pregătită o umbrelă solidă dacă doriți să explorați potecile.",
-                "en": "Enjoy the greenery from the car or during a short break in the rain; have a sturdy umbrella ready if you wish to explore the paths closer."
+                "en": "Enjoy the greenery from the car or during a short break in the rain; have a sturdy umbrella ready if you wish to explore the paths closer.",
+                "fr": "Appréciez la verdure depuis la voiture ou lors d'une courte pause sous la pluie ; ayez un parapluie solide si vous souhaitez explorer les chemins de plus près."
               }
             },
             {
@@ -1002,13 +1110,15 @@
                 "de": "Église Saint-Germain",
                 "hu": "Église Saint-Germain",
                 "ro": "Église Saint-Germain",
-                "en": "Église Saint-Germain"
+                "en": "Église Saint-Germain",
+                "fr": "Église Saint-Germain"
               },
               "tip_5lang": {
                 "de": "Parken Sie bequem in der Nähe und flüchten Sie ins trockene Kirchenschiff; die ruhige Atmosphäre ist ideal, um sich kurz vom grauen Wetter draußen zu erholen.",
                 "hu": "Parkoljon kényelmesen a közelben, és meneküljön a száraz templomhajóba; a nyugodt légkör ideális, hogy rövid időre elszakadjon a kinti szürke időtől.",
                 "ro": "Parcați confortabil în apropiere și refugiați-vă în nava uscată a bisericii; atmosfera calmă este ideală pentru a uita scurt de vremea gri de afară.",
-                "en": "Park conveniently nearby and escape into the dry nave; the calm atmosphere is ideal for a brief disconnect from the grey weather outside."
+                "en": "Park conveniently nearby and escape into the dry nave; the calm atmosphere is ideal for a brief disconnect from the grey weather outside.",
+                "fr": "Garez-vous commodément à proximité et évadez‑vous dans la nef sèche ; l'atmosphère calme est idéale pour une brève déconnexion du temps gris extérieur."
               }
             },
             {
@@ -1016,13 +1126,15 @@
                 "de": "Central 8",
                 "hu": "Central 8",
                 "ro": "Central 8",
-                "en": "Central 8"
+                "en": "Central 8",
+                "fr": "Central 8"
               },
               "tip_5lang": {
                 "de": "Der perfekte Ort für Familien mit überdachten Aktivitäten; genießen Sie den Aufenthalt im Trockenen und nutzen Sie die nahegelegenen Parkmöglichkeiten für einen kurzen Weg.",
                 "hu": "Tökéletes hely családoknak fedett tevékenységekkel; élvezze a szárazon töltött időt, és használja a közeli parkolót a rövid gyalogút érdekében.",
                 "ro": "Locul perfect pentru familii cu activități acoperite; bucurați-vă de timpul petrecut la uscat și folosiți parcarea din apropiere pentru un drum scurt.",
-                "en": "Perfect spot for families with indoor activities; enjoy your time in the dry and use the nearby parking for a short walk to the entrance."
+                "en": "Perfect spot for families with indoor activities; enjoy your time in the dry and use the nearby parking for a short walk to the entrance.",
+                "fr": "Endroit parfait pour les familles avec des activités d'intérieur ; profitez du sec et utilisez le parking voisin pour une courte marche jusqu'à l'entrée."
               }
             },
             {
@@ -1030,13 +1142,15 @@
                 "de": "Musée des Beaux-Arts et de la Dentelle",
                 "hu": "Musée des Beaux-Arts et de la Dentelle",
                 "ro": "Musée des Beaux-Arts et de la Dentelle",
-                "en": "Musée des Beaux-Arts et de la Dentelle"
+                "en": "Musée des Beaux-Arts et de la Dentelle",
+                "fr": "Musée des Beaux-Arts et de la Dentelle"
               },
               "tip_5lang": {
                 "de": "Ein absolutes Muss bei Regen, sicher und warm im Herzen der Stadt; lassen Sie Ihre Regenjacke im Auto und genießen Sie die kunstvolle Spitzenwelt.",
                 "hu": "Esőben kötelező program, biztonságos és meleg hely a város szívében; hagyja az esőkabátot az autóban, és élvezze a művészi csipkék világát.",
                 "ro": "Program obligatoriu pe ploaie, loc sigur și cald în inima orașului; lăsați pelerina în mașină și bucurați-vă de lumea artistică a dantelei.",
-                "en": "A must-do in the rain, a safe and warm place in the heart of the city; leave your raincoat in the car and enjoy the artistic world of lace."
+                "en": "A must-do in the rain, a safe and warm place in the heart of the city; leave your raincoat in the car and enjoy the artistic world of lace.",
+                "fr": "À faire absolument sous la pluie, un lieu sûr et chaleureux au cœur de la ville ; laissez votre imperméable dans la voiture et plongez dans l'univers artistique de la dentelle."
               }
             },
             {
@@ -1044,13 +1158,15 @@
                 "de": "Monument aux Morts",
                 "hu": "Monument aux Morts",
                 "ro": "Monument aux Morts",
-                "en": "Monument aux Morts"
+                "en": "Monument aux Morts",
+                "fr": "Monument aux Morts"
               },
               "tip_5lang": {
                 "de": "Kurzer Stopp direkt am Denkmal, ideal für ein schnelles Foto aus dem Auto heraus; die nasse Oberfläche betont die Details der Skulptur.",
                 "hu": "Rövid megálló közvetlenül az emlékműnél, ideális egy gyors fotóhoz akár az autóból is; a nedves felület kiemeli a szobor részleteit.",
                 "ro": "O scurtă oprire chiar lângă monument, ideală pentru o poză rapidă chiar și din mașină; suprafața umedă scoate în evidență detaliile sculpturii.",
-                "en": "A quick stop right by the monument, ideal for a fast photo even from the car; the wet surface highlights the sculpture's details."
+                "en": "A quick stop right by the monument, ideal for a fast photo even from the car; the wet surface highlights the sculpture's details.",
+                "fr": "Un arrêt rapide juste à côté du monument, idéal pour une photo rapide même depuis la voiture ; la surface mouillée met en valeur les détails de la sculpture."
               }
             },
             {
@@ -1058,13 +1174,15 @@
                 "de": "Notre-Dame Basilica",
                 "hu": "Notre-Dame Basilica",
                 "ro": "Notre-Dame Basilica",
-                "en": "Notre-Dame Basilica"
+                "en": "Notre-Dame Basilica",
+                "fr": "Notre-Dame Basilica"
               },
               "tip_5lang": {
                 "de": "Beenden Sie die Tour im Schutz der mächtigen Basilika; parken Sie in der Nähe und genießen Sie die Ruhe, während draußen der Regen fällt.",
                 "hu": "Zárja a túrát a hatalmas bazilika oltalmában; parkoljon a közelben és élvezze a nyugalmat, miközben kint kopog az eső.",
                 "ro": "Încheiați turul sub protecția bazilicii impunătoare; parcați în apropiere și bucurați-vă de liniște în timp ce afară plouă.",
-                "en": "Finish the tour under the protection of the massive basilica; park nearby and enjoy the peace while the rain falls outside."
+                "en": "Finish the tour under the protection of the massive basilica; park nearby and enjoy the peace while the rain falls outside.",
+                "fr": "Terminez la visite à l'abri de la massive basilique ; garez‑vous à proximité et appréciez le calme pendant que la pluie tombe dehors."
               }
             }
           ]
@@ -1074,7 +1192,8 @@
             "de": "Warme Autofahrt am Wintermorgen zur ersten Kirche. Mittags wärmen Sie sich im Museum auf. Nachmittags ein kurzer Stopp im frostigen Arboretum. Abends beendet die beleuchtete Basilika den Tag, bevor die Kälte um 17:00 Uhr anzieht.",
             "hu": "Meleg autózás a téli reggelen az első templomig. Délben melegedjen fel a múzeumban. Délután rövid megálló a fagyos arborétumban. Este a kivilágított bazilika zárja a napot, mielőtt 17:00-kor beköszönt a fagy.",
             "ro": "Călătorie caldă cu mașina în dimineața de iarnă până la prima biserică. La prânz, încălziți-vă în muzeu. După-amiaza, o scurtă oprire în arboretul înghețat. Seara, bazilica iluminată încheie ziua înainte de înghețul de la 17:00.",
-            "en": "Warm drive on a winter morning to the first church. Warm up in the museum at noon. A quick stop at the frosty arboretum in the afternoon. In the evening, the illuminated basilica ends the day before the 17:00 freeze."
+            "en": "Warm drive on a winter morning to the first church. Warm up in the museum at noon. A quick stop at the frosty arboretum in the afternoon. In the evening, the illuminated basilica ends the day before the 17:00 freeze.",
+            "fr": "Trajet chaleureux un matin d'hiver jusqu'à la première église. Réchauffez-vous au musée à midi. Un arrêt rapide à l'arboretum givré l'après‑midi. Le soir, la basilique illuminée clôt la journée avant le gel de 17:00."
           },
           "stops": [
             {
@@ -1082,13 +1201,15 @@
                 "de": "Église Sainte-Thérèse de Perseigne",
                 "hu": "Église Sainte-Thérèse de Perseigne",
                 "ro": "Église Sainte-Thérèse de Perseigne",
-                "en": "Église Sainte-Thérèse de Perseigne"
+                "en": "Église Sainte-Thérèse de Perseigne",
+                "fr": "Église Sainte-Thérèse de Perseigne"
               },
               "tip_5lang": {
                 "de": "Genießen Sie den warmen Innenraum als Kontrast zur frostigen Außenluft; achten Sie beim Parken auf mögliche glatte Stellen auf dem Weg zum Eingang.",
                 "hu": "Élvezze a meleg belső teret a kinti fagyos levegő ellentéteként; parkoláskor ügyeljen az esetleges jeges foltokra a bejárat felé vezető úton.",
                 "ro": "Bucurați-vă de interiorul cald ca contrast față de aerul înghețat de afară; atenție la eventualele porțiuni cu gheață spre intrare la parcare.",
-                "en": "Enjoy the warm interior as a contrast to the frosty air outside; watch out for possible icy patches on the way to the entrance when parking."
+                "en": "Enjoy the warm interior as a contrast to the frosty air outside; watch out for possible icy patches on the way to the entrance when parking.",
+                "fr": "Profitez de l'intérieur chauffé comme contraste avec l'air froid dehors ; attention aux éventuelles plaques de verglas en chemin vers l'entrée lorsque vous vous garez."
               }
             },
             {
@@ -1096,13 +1217,15 @@
                 "de": "Chapelle Notre-Dame-de-Lorette",
                 "hu": "Chapelle Notre-Dame-de-Lorette",
                 "ro": "Chapelle Notre-Dame-de-Lorette",
-                "en": "Chapelle Notre-Dame-de-Lorette"
+                "en": "Chapelle Notre-Dame-de-Lorette",
+                "fr": "Chapelle Notre-Dame-de-Lorette"
               },
               "tip_5lang": {
                 "de": "Die kleine Kapelle wirkt im Winterlicht besonders andächtig; machen Sie einen kurzen Stopp und genießen Sie die Stille, bevor Sie die Heizung im Auto wieder aufdrehen.",
                 "hu": "A kis kápolna különösen áhítatos a téli fényben; tegyen egy rövid megállót és élvezze a csendet, mielőtt visszatérne az autó fűtött kényelmébe.",
                 "ro": "Mica capelă pare deosebit de pioasă în lumina de iarnă; faceți o scurtă oprire și bucurați-vă de liniște înainte de a reveni la căldura mașinii.",
-                "en": "The small chapel looks particularly devotional in the winter light; take a short stop and enjoy the silence before returning to the car's warmth."
+                "en": "The small chapel looks particularly devotional in the winter light; take a short stop and enjoy the silence before returning to the car's warmth.",
+                "fr": "La petite chapelle paraît particulièrement dévote à la lumière hivernale ; faites un court arrêt et savourez le silence avant de retourner à la chaleur de la voiture."
               }
             },
             {
@@ -1110,13 +1233,15 @@
                 "de": "Arboretum Koutiala",
                 "hu": "Arboretum Koutiala",
                 "ro": "Arboretum Koutiala",
-                "en": "Arboretum Koutiala"
+                "en": "Arboretum Koutiala",
+                "fr": "Arboretum Koutiala"
               },
               "tip_5lang": {
                 "de": "Ein kurzer Winterspaziergang zwischen den Frostkristallen der Bäume; tragen Sie feste Schuhe gegen die Bodenkälte und halten Sie Ihre Kamera für Frostfotos bereit.",
                 "hu": "Egy rövid téli séta a fák zúzmarás ágai között; viseljen szilárd cipőt a talajmenti hideg ellen, és tartsa készenlétben a kamerát a fagyos fotókhoz.",
                 "ro": "O scurtă plimbare de iarnă printre ramurile înghețate ale copacilor; purtați pantofi solizi contra frigului de la sol și pregătiți camera pentru poze.",
-                "en": "A short winter walk among the frosty branches of the trees; wear sturdy shoes against the ground cold and have your camera ready for icy shots."
+                "en": "A short winter walk among the frosty branches of the trees; wear sturdy shoes against the ground cold and have your camera ready for icy shots.",
+                "fr": "Une courte balade d'hiver parmi les branches givrées ; portez des chaussures robustes contre le froid du sol et ayez votre appareil photo prêt pour des clichés givrés."
               }
             },
             {
@@ -1124,13 +1249,15 @@
                 "de": "Église Saint-Germain",
                 "hu": "Église Saint-Germain",
                 "ro": "Église Saint-Germain",
-                "en": "Église Saint-Germain"
+                "en": "Église Saint-Germain",
+                "fr": "Église Saint-Germain"
               },
               "tip_5lang": {
                 "de": "Ein ruhiger Zufluchtsort vor dem winterlichen Wind; bewundern Sie das schlichte Interieur und nutzen Sie die Pause für einen Moment der inneren Einkehr.",
                 "hu": "Csendes menedék a téli szél elől; csodálja meg az egyszerű belső teret, és használja ki a szünetet egy pillanatnyi belső elmélyülésre a meleg falak között.",
                 "ro": "Un refugiu liniștit de vântul de iarnă; admirați interiorul simplu și folosiți pauza pentru un moment de reflecție interioară între zidurile calde.",
-                "en": "A quiet refuge from the winter wind; admire the simple interior and take a break for a moment of inner reflection within the calm walls."
+                "en": "A quiet refuge from the winter wind; admire the simple interior and take a break for a moment of inner reflection within the calm walls.",
+                "fr": "Un refuge calme contre le vent d'hiver ; admirez l'intérieur sobre et prenez une pause pour un moment de recueillement à l'abri des murs apaisants."
               }
             },
             {
@@ -1138,13 +1265,15 @@
                 "de": "Central 8",
                 "hu": "Central 8",
                 "ro": "Central 8",
-                "en": "Central 8"
+                "en": "Central 8",
+                "fr": "Central 8"
               },
               "tip_5lang": {
                 "de": "Ideal für Familien, um die Kälte draußen zu vergessen; genießen Sie die warmen Aufenthaltsbereiche und die einladende Atmosphäre an einem kurzen Wintertag.",
                 "hu": "Ideális családoknak, hogy elfelejtsék a kinti hideget; élvezze a meleg tartózkodókat és a hívogató hangulatot a rövid téli napon.",
                 "ro": "Ideal pentru familii pentru a uita de frigul de afară; bucurați-vă de spațiile încălzite și de atmosfera primitoare într-o zi scurtă de iarnă.",
-                "en": "Ideal for families to forget the cold outside; enjoy the warm lounge areas and the inviting atmosphere during the short winter day."
+                "en": "Ideal for families to forget the cold outside; enjoy the warm lounge areas and the inviting atmosphere during the short winter day.",
+                "fr": "Idéal pour les familles pour oublier le froid extérieur ; profitez des espaces lounge chauffés et de l'atmosphère accueillante pendant la courte journée d'hiver."
               }
             },
             {
@@ -1152,13 +1281,15 @@
                 "de": "Musée des Beaux-Arts et de la Dentelle",
                 "hu": "Musée des Beaux-Arts et de la Dentelle",
                 "ro": "Musée des Beaux-Arts et de la Dentelle",
-                "en": "Musée des Beaux-Arts et de la Dentelle"
+                "en": "Musée des Beaux-Arts et de la Dentelle",
+                "fr": "Musée des Beaux-Arts et de la Dentelle"
               },
               "tip_5lang": {
                 "de": "Der perfekte Ort, um sich kulturell aufzuwärmen; nehmen Sie sich Zeit für die feinen Details der Spitze, während es draußen früher dunkel wird.",
                 "hu": "A tökéletes hely a kulturális felmelegedésre; szánjon időt a csipke finom részleteire, miközben kint korábban kezd sötétedni.",
                 "ro": "Locul perfect pentru o încălzire culturală; acordați timp detaliilor fine ale dantelei, în timp ce afară începe să se întunece mai devreme.",
-                "en": "The perfect spot for a cultural warm-up; take your time with the fine details of the lace as it starts getting dark earlier outside."
+                "en": "The perfect spot for a cultural warm-up; take your time with the fine details of the lace as it starts getting dark earlier outside.",
+                "fr": "L'endroit parfait pour un réchauffement culturel ; prenez le temps d'observer les détails délicats de la dentelle alors qu'il commence à faire nuit plus tôt dehors."
               }
             },
             {
@@ -1166,13 +1297,15 @@
                 "de": "Monument aux Morts",
                 "hu": "Monument aux Morts",
                 "ro": "Monument aux Morts",
-                "en": "Monument aux Morts"
+                "en": "Monument aux Morts",
+                "fr": "Monument aux Morts"
               },
               "tip_5lang": {
                 "de": "Ein kurzer Fotostopp im fahlen Licht des späten Nachmittags; die Statue wirkt in der klaren Winterluft besonders eindrucksvoll, bleiben Sie warm angezogen.",
                 "hu": "Rövid fotómegálló a késő délutáni sápadt fényben; a szobor különösen hatásos a tiszta téli levegőben, ügyeljen a meleg réteges öltözködésre.",
                 "ro": "O scurtă oprire foto în lumina palidă a după-amiezii târzii; statuia este impresionantă în aerul curat de iarnă, purtați haine groase.",
-                "en": "A brief photo stop in the pale late afternoon light; the statue is especially striking in the crisp winter air, stay warmly dressed."
+                "en": "A brief photo stop in the pale late afternoon light; the statue is especially striking in the crisp winter air, stay warmly dressed.",
+                "fr": "Un bref arrêt photo dans la pâle lumière tardive de l'après‑midi ; la statue est particulièrement saisissante dans l'air vif de l'hiver, restez bien couvert."
               }
             },
             {
@@ -1180,13 +1313,15 @@
                 "de": "Notre-Dame Basilica",
                 "hu": "Notre-Dame Basilica",
                 "ro": "Notre-Dame Basilica",
-                "en": "Notre-Dame Basilica"
+                "en": "Notre-Dame Basilica",
+                "fr": "Notre-Dame Basilica"
               },
               "tip_5lang": {
                 "de": "Beenden Sie den Tag in der feierlich beleuchteten Basilika; genießen Sie die friedliche Abendstimmung drinnen, bevor Sie die Heimfahrt im Auto antreten.",
                 "hu": "Zárja a napot az ünnepélyesen kivilágított bazilikában; élvezze a békés esti hangulatot bent, mielőtt elindulna haza a fűtött autóval.",
                 "ro": "Încheiați ziua în bazilica iluminată festiv; bucurați-vă de atmosfera pașnică de seară din interior înainte de a pleca spre casă cu mașina.",
-                "en": "Finish the day in the solemnly lit basilica; enjoy the peaceful evening atmosphere inside before starting your drive home in the warm car."
+                "en": "Finish the day in the solemnly lit basilica; enjoy the peaceful evening atmosphere inside before starting your drive home in the warm car.",
+                "fr": "Terminez la journée dans la basilique solennellement éclairée ; profitez de l'atmosphère paisible à l'intérieur avant de reprendre la route vers la chaleur de la voiture."
               }
             }
           ]

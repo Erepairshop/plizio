@@ -32,7 +32,8 @@
             "de": "Bewundern Sie die prächtige spätgotische Fassade mit ihren 173 Skulpturen.",
             "hu": "Csodálja meg a késő gótikus homlokzatot és a 173 apró szobrot.",
             "ro": "Admirați fațada gotică flamboyantă decorată cu 173 de sculpturi.",
-            "en": "Admire the flamboyant Gothic facade decorated with 173 detailed sculptures."
+            "en": "Admire the flamboyant Gothic facade decorated with 173 detailed sculptures.",
+            "fr": "Admirez la façade flamboyante gothique décorée de 173 sculptures détaillées."
           }
         },
         {
@@ -51,7 +52,8 @@
             "de": "Dieses Denkmal erinnert an die Belagerung der Stadt durch die Spanier.",
             "hu": "Ez az emlékmű a spanyolok elleni 1557-es ostromnak állít emléket.",
             "ro": "Acest monument comemorează asediul orașului de către spanioli în 1557.",
-            "en": "This monument commemorates the 1557 siege of the city by Spanish forces."
+            "en": "This monument commemorates the 1557 siege of the city by Spanish forces.",
+            "fr": "Ce monument commémore le siège de la ville en 1557 par les forces espagnoles."
           }
         },
         {
@@ -70,7 +72,8 @@
             "de": "Entdecken Sie das seltene Labyrinth auf dem Boden des Kirchenschiffs.",
             "hu": "Fedezze fel a templomhajó padlóján található ritka labirintust.",
             "ro": "Descoperiți labirintul rar desenat pe podeaua navei centrale.",
-            "en": "Discover the rare labyrinth pattern on the floor of the main nave."
+            "en": "Discover the rare labyrinth pattern on the floor of the main nave.",
+            "fr": "Découvrez le rare motif de labyrinthe au sol de la nef principale."
           }
         },
         {
@@ -89,7 +92,8 @@
             "de": "Eine beeindruckende Sammlung von over 20.000 Insektenexemplaren.",
             "hu": "Lenyűgöző gyűjtemény több mint 20 000 rovarpéldánnyal.",
             "ro": "O colecție impresionantă de peste 20.000 de exemplare de insecte.",
-            "en": "An impressive collection featuring over 20,000 insect specimens."
+            "en": "An impressive collection featuring over 20,000 insect specimens.",
+            "fr": "Une impressionnante collection présentant plus de 20 000 spécimens d'insectes."
           }
         },
         {
@@ -108,7 +112,8 @@
             "de": "Ein schönes Beispiel für die Architektur der 1920er Jahre im Zentrum.",
             "hu": "Az 1920-as évek építészetének szép példája a belvárosban.",
             "ro": "Un exemplu frumos de arhitectură din anii 1920 în centrul orașului.",
-            "en": "A beautiful example of 1920s architecture in the city center."
+            "en": "A beautiful example of 1920s architecture in the city center.",
+            "fr": "Un bel exemple d'architecture des années 1920 au centre-ville."
           }
         },
         {
@@ -127,7 +132,8 @@
             "de": "Bewundern Sie die Pastellporträts des Malers Maurice Quentin de La Tour.",
             "hu": "Csodálja meg Maurice Quentin de La Tour pasztellportréit.",
             "ro": "Admirați portretele în pastel ale pictorului Maurice Quentin de La Tour.",
-            "en": "Admire the pastel portraits by the artist Maurice Quentin de La Tour."
+            "en": "Admire the pastel portraits by the artist Maurice Quentin de La Tour.",
+            "fr": "Admirez les portraits pastels de l'artiste Maurice Quentin de La Tour."
           }
         },
         {
@@ -146,7 +152,8 @@
             "de": "Pihenjen a vízparton és figyelje meg a helyi élővilágot.",
             "hu": "Pihenjen a vízparton és figyelje meg a helyi élővilágot.",
             "ro": "Relaxați-vă lângă apă și observați fauna locală în rezervație.",
-            "en": "Relax by the water and observe the local wildlife in the reserve."
+            "en": "Relax by the water and observe the local wildlife in the reserve.",
+            "fr": "Détendez-vous au bord de l'eau et observez la faune locale dans la réserve."
           }
         }
       ],
@@ -154,7 +161,8 @@
         "de": "Ihr Tag beginnt am prächtigen Marktplatz mit dem gotischen Rathaus. Nach der spirituellen Ruhe in der Basilika tauchen Sie ein in die faszinierende Welt des Schmetterlingsmuseums. Ein kultureller Stopp am Théâtre Jean-Vilar und im Museum Antoine Lécuyer führt Sie schließlich zum erholsamen Abschluss im Parc d'Isle, wo die Natur der Somme auf die Stadt trifft.",
         "hu": "Napját a főtéren kezdi a gótikus városházánál. A bazilika spirituális nyugalma után a Pillangómúzeum lenyűgöző világa várja. A kulturális élmények után a Théâtre Jean-Vilar és az Antoine Lécuyer Múzeum érintésével a napot a Parc d'Isle természetvédelmi területén zárhatja, ahol a Somme folyó mentén pihenhet meg.",
         "ro": "Ziua începe în piața centrală, la primăria gotică. După liniștea spirituală din bazilică, pătrundeți în lumea fascinantă a Muzeului Fluturilor. O oprire culturală la Teatrul Jean-Vilar și Muzeul Antoine Lécuyer vă conduce spre finalul relaxant în Parc d'Isle, unde natura întâlnește orașul pe malul râului Somme.",
-        "en": "Your day starts at the main square by the Gothic City Hall. After finding spiritual peace in the Basilica, dive into the fascinating world of the Butterfly Museum. A cultural stop at the Jean-Vilar Theatre and the Antoine Lécuyer Museum leads you to a relaxing finish in Parc d'Isle, where nature meets the city along the Somme river."
+        "en": "Your day starts at the main square by the Gothic City Hall. After finding spiritual peace in the Basilica, dive into the fascinating world of the Butterfly Museum. A cultural stop at the Jean-Vilar Theatre and the Antoine Lécuyer Museum leads you to a relaxing finish in Parc d'Isle, where nature meets the city along the Somme river.",
+        "fr": "Votre journée commence sur la place principale près de l'hôtel de ville gothique. Après avoir trouvé la paix spirituelle dans la basilique, plongez dans le monde fascinant du Musée des Papillons. Un arrêt culturel au théâtre Jean-Vilar et au musée Antoine Lécuyer vous mène à une conclusion relaxante au Parc d'Isle, où la nature rejoint la ville le long de la Somme."
       },
       "gastro_picks": {
         "de": [
@@ -350,6 +358,12 @@
           "Visit the Basilica in the morning for the best light through the windows.",
           "Book the Butterfly Museum in advance as it is quite popular.",
           "Parc d'Isle is a major family gathering spot on weekends."
+        ],
+        "fr": [
+          "La ville est plate et parfaite pour être explorée à pied.",
+          "Visitez la basilique le matin pour la meilleure lumière à travers les vitraux.",
+          "Réservez le Musée des Papillons à l'avance car il est assez populaire.",
+          "Le Parc d'Isle est un lieu de rassemblement familial majeur le week-end."
         ]
       }
     },
@@ -377,7 +391,8 @@
             "de": "Starten Sie am zentralen Platz.",
             "hu": "Kezdje a túrát a központi téren.",
             "ro": "Începeți turul în piața centrală.",
-            "en": "Start your tour in the central square."
+            "en": "Start your tour in the central square.",
+            "fr": "Commencez votre visite sur la place centrale."
           }
         },
         {
@@ -396,7 +411,8 @@
             "de": "Parken Sie Ihr Rad sicher vor dem Eingang.",
             "hu": "Parkolja le biciklijét biztonságosan a bejárat előtt.",
             "ro": "Parcați bicicleta în siguranță lângă intrare.",
-            "en": "Park your bike safely near the entrance."
+            "en": "Park your bike safely near the entrance.",
+            "fr": "Garez votre vélo en toute sécurité près de l'entrée."
           }
         },
         {
@@ -415,7 +431,8 @@
             "de": "Ein prächtiges Gebäude, das heute als Justizpalast dient.",
             "hu": "Impozáns épület, amely ma igazságügyi palotaként működik.",
             "ro": "O clădire grandioasă care servește astăzi drept Palat de Justiție.",
-            "en": "A grand building that now serves as the Palace of Justice."
+            "en": "A grand building that now serves as the Palace of Justice.",
+            "fr": "Un bâtiment grandiose qui sert aujourd'hui de palais de justice."
           }
         },
         {
@@ -434,7 +451,8 @@
             "de": "Kurzer Radweg durch das ruhige Künstlerviertel.",
             "hu": "Rövid tekerés a csendes művésznegyeden keresztül.",
             "ro": "Scurtă plimbare cu bicicleta prin cartierul liniștit al artiștilor.",
-            "en": "Short bike ride through the quiet artist district."
+            "en": "Short bike ride through the quiet artist district.",
+            "fr": "Courte balade à vélo à travers le quartier calme des artistes."
           }
         },
         {
@@ -453,7 +471,8 @@
             "de": "Ein schneller Stopp für Architekturfotos.",
             "hu": "Egy gyors megálló építészeti fotókhoz.",
             "ro": "O oprire scurtă pentru fotografii de arhitectură.",
-            "en": "A quick stop for architectural photography."
+            "en": "A quick stop for architectural photography.",
+            "fr": "Une halte rapide pour la photographie architecturale."
           }
         },
         {
@@ -472,7 +491,8 @@
             "de": "Das Museum liegt sehr zentral in der Nähe des Rathauses.",
             "hu": "A múzeum központi helyen, a városháza közelében található.",
             "ro": "Muzeul este situat central, aproape de primărie.",
-            "en": "The museum is centrally located near the City Hall."
+            "en": "The museum is centrally located near the City Hall.",
+            "fr": "Le musée est situé au centre, près de l'hôtel de ville."
           }
         },
         {
@@ -491,7 +511,8 @@
             "de": "Radeln Sie entlang der Alleen im Park.",
             "hu": "Tekerjen végig a park árnyas fasorai mentén.",
             "ro": "Pedalați pe aleile umbrite din parc.",
-            "en": "Cycle along the shaded avenues in the park."
+            "en": "Cycle along the shaded avenues in the park.",
+            "fr": "Circulez à vélo le long des avenues ombragées du parc."
           }
         },
         {
@@ -510,7 +531,8 @@
             "de": "Abschlussfahrt am ruhigen Kanalufer.",
             "hu": "Záró tekerés a csendes csatornaparton.",
             "ro": "Plimbare finală pe malul liniștit al canalului.",
-            "en": "Final ride along the quiet canal banks."
+            "en": "Final ride along the quiet canal banks.",
+            "fr": "Dernière balade le long des rives calmes du canal."
           }
         }
       ],
@@ -518,7 +540,8 @@
         "de": "Mit dem Fahrrad erkunden Sie Saint-Quentin noch effizienter. Vom monumentalen Zentrum über das Palais de Fervaques bis hin zum Antoine Lécuyer Museum genießen Sie die frische Luft. Die Tour führt Sie weiter durch das Herz der Stadt zum Schmetterlingsmuseum und schließlich in den weitläufigen Parc d'Isle, wo Sie entspannt am Kanal entlang radeln können.",
         "hu": "Biciklivel még hatékonyabban fedezheti fel Saint-Quentint. A monumentális belvárostól a Palais de Fervaques-on át az Antoine Lécuyer Múzeumig élvezheti a friss levegőt. A túra a város szívén keresztül a Pillangómúzeumhoz, majd a tágas Parc d'Isle parkba vezet, ahol a csatorna mentén kerekezve pihenhet meg.",
         "ro": "Cu bicicleta explorați Saint-Quentin mult mai eficient. Din centrul monumental, trecând pe lângă Palais de Fervaques până la Muzeul Antoine Lécuyer, vă bucurați de aer curat. Turul continuă prin inima orașului spre Muzeul Fluturilor și în final spre vastul Parc d'Isle, unde puteți pedala relaxat pe malul canalului.",
-        "en": "Explore Saint-Quentin even more efficiently by bike. From the monumental center past the Palais de Fervaques to the Antoine Lécuyer Museum, enjoy the fresh air. The tour continues through the heart of the city to the Butterfly Museum and finally into the spacious Parc d'Isle, where you can cycle relaxedly along the canal."
+        "en": "Explore Saint-Quentin even more efficiently by bike. From the monumental center past the Palais de Fervaques to the Antoine Lécuyer Museum, enjoy the fresh air. The tour continues through the heart of the city to the Butterfly Museum and finally into the spacious Parc d'Isle, where you can cycle relaxedly along the canal.",
+        "fr": "Explorez Saint-Quentin encore plus efficacement à vélo. Du centre monumental en passant par le Palais de Fervaques jusqu'au musée Antoine Lécuyer, profitez de l'air frais. La visite se poursuit dans le cœur de la ville vers le Musée des Papillons et se termine enfin dans le vaste Parc d'Isle, où vous pouvez pédaler tranquillement le long du canal."
       },
       "gastro_picks": {
         "de": [
@@ -642,6 +665,12 @@
           "Use the cycle paths along the Somme river.",
           "Always lock your bike securely.",
           "Parc d'Isle offers plenty of space for cycling."
+        ],
+        "fr": [
+          "Saint-Quentin est très favorable aux cyclistes.",
+          "Utilisez les pistes cyclables le long de la Somme.",
+          "Verrouillez toujours votre vélo solidement.",
+          "Le Parc d'Isle offre beaucoup d'espace pour faire du vélo."
         ]
       }
     },
@@ -669,7 +698,8 @@
             "de": "Parken Sie im Parkhaus am Marktplatz.",
             "hu": "Parkoljon a főtér alatti mélygarázsban.",
             "ro": "Parcați în parcarea subterană din piața centrală.",
-            "en": "Park in the underground parking at the main square."
+            "en": "Park in the underground parking at the main square.",
+            "fr": "Garez-vous dans le parking souterrain de la place principale."
           }
         },
         {
@@ -688,7 +718,8 @@
             "de": "Gehen Sie zu Fuß von der Parkgarage.",
             "hu": "Sétáljon át ide a parkolótól.",
             "ro": "Mergeți pe jos de la parcare.",
-            "en": "Walk here from the parking garage."
+            "en": "Walk here from the parking garage.",
+            "fr": "Marchez jusqu'ici depuis le parking souterrain."
           }
         },
         {
@@ -707,7 +738,8 @@
             "de": "Ebenfalls zu Fuß vom Zentrum erreichbar.",
             "hu": "Szintén gyalogosan elérhető a belvárosból.",
             "ro": "Accesibil tot pe jos din centrul orașului.",
-            "en": "Also accessible on foot from the city center."
+            "en": "Also accessible on foot from the city center.",
+            "fr": "Accessible aussi à pied depuis le centre-ville."
           }
         },
         {
@@ -726,7 +758,8 @@
             "de": "Kurze Fahrt zum nächsten Parkplatz.",
             "hu": "Rövid autóút a következő parkolóig.",
             "ro": "Scurtă călătorie cu mașina până la următoarea parcare.",
-            "en": "Short drive to the next parking area."
+            "en": "Short drive to the next parking area.",
+            "fr": "Courte route jusqu'au prochain espace de stationnement."
           }
         },
         {
@@ -745,7 +778,8 @@
             "de": "Spaziergang vom Antoine Lécuyer Museum.",
             "hu": "Séta az Antoine Lécuyer Múzeumtól.",
             "ro": "Plimbare de la Muzeul Antoine Lécuyer.",
-            "en": "Short walk from the Antoine Lécuyer Museum."
+            "en": "Short walk from the Antoine Lécuyer Museum.",
+            "fr": "Courte marche depuis le musée Antoine Lécuyer."
           }
         },
         {
@@ -764,7 +798,8 @@
             "de": "Großer kostenloser Parkplatz direkt am Eingang.",
             "hu": "Nagy, ingyenes parkoló közvetlenül a bejáratnál.",
             "ro": "Parcare mare gratuită chiar la intrare.",
-            "en": "Large free parking lot right at the entrance."
+            "en": "Large free parking lot right at the entrance.",
+            "fr": "Grand parking gratuit juste à l'entrée."
           }
         },
         {
@@ -783,7 +818,8 @@
             "de": "Kurzer Halt auf dem Rückweg ins Zentrum.",
             "hu": "Gyors megálló visszafelé a belvárosba.",
             "ro": "O scurtă oprire pe drumul de întoarcere spre centru.",
-            "en": "Quick stop on the way back to the center."
+            "en": "Quick stop on the way back to the center.",
+            "fr": "Arrêt rapide sur le chemin du retour vers le centre."
           }
         },
         {
@@ -802,7 +838,8 @@
             "de": "Abschlussfoto vor der schönen Fassade.",
             "hu": "Záró fotó a szép homlokzat előtt.",
             "ro": "Fotografie finală în fața fațadei frumoase.",
-            "en": "Final photo in front of the beautiful facade."
+            "en": "Final photo in front of the beautiful facade.",
+            "fr": "Dernière photo devant la belle façade."
           }
         }
       ],
@@ -810,7 +847,8 @@
         "de": "Mit dem Auto kombinieren Sie bequem das historische Stadtzentrum mit dem weitläufigen Parc d'Isle. Sie parken im Herzen der Stadt, um das Rathaus, die Basilika und das Schmetterlingsmuseum zu Fuß zu erkunden. Danach fahren Sie zum Kultur-Cluster beim Palais de Fervaques und beenden den Tag entspannt im Naturschutzgebiet am Stadtrand, wo ausreichend Parkplätze zur Verfügung stehen.",
         "hu": "Autóval kényelmesen kombinálhatja a történelmi belvárost a tágas Parc d'Isle parkkal. Parkoljon a város szívében, hogy gyalogosan fedezze fel a városházát, a bazilikát és a Pillangómúzeumot. Ezután hajtson át a kulturális negyedbe a Palais de Fervaques-hoz, majd zárja a napot a város szélén található természetvédelmi területen, ahol bőséges parkolóhely áll rendelkezésre.",
         "ro": "Cu mașina combinați confortabil centrul istoric cu vastul Parc d'Isle. Parcați în inima orașului pentru a explora pe jos primăria, bazilica și Muzeul Fluturilor. Ulterior, conduceți spre zona culturală de lângă Palais de Fervaques și încheiați ziua relaxat în rezervația naturală de la marginea orașului, unde există locuri de parcare suficiente.",
-        "en": "By car, you can conveniently combine the historic city center with the extensive Parc d'Isle. Park in the heart of the city to explore the City Hall, Basilica, and Butterfly Museum on foot. Then drive to the cultural cluster near the Palais de Fervaques and finish the day relaxed in the nature reserve on the outskirts, where ample parking is available."
+        "en": "By car, you can conveniently combine the historic city center with the extensive Parc d'Isle. Park in the heart of the city to explore the City Hall, Basilica, and Butterfly Museum on foot. Then drive to the cultural cluster near the Palais de Fervaques and finish the day relaxed in the nature reserve on the outskirts, where ample parking is available.",
+        "fr": "En voiture, vous pouvez combiner facilement le centre historique avec le vaste Parc d'Isle. Garez-vous au cœur de la ville pour explorer l'hôtel de ville, la basilique et le Musée des Papillons à pied. Ensuite, conduisez jusqu'au pôle culturel près du Palais de Fervaques et terminez la journée détendu dans la réserve naturelle en périphérie, où de nombreux emplacements de parking sont disponibles."
       },
       "gastro_picks": {
         "de": [
@@ -918,6 +956,12 @@
           "Watch out for one-way streets in the old town.",
           "The parking at Parc d'Isle is ideal for motorhomes.",
           "Avoid the rush hour around 5 PM."
+        ],
+        "fr": [
+          "Le stationnement au centre est le plus facile dans les parkings souterrains.",
+          "Faites attention aux sens uniques dans la vieille ville.",
+          "Le parking du Parc d'Isle est idéal pour les camping-cars.",
+          "Évitez l'heure de pointe autour de 17:00."
         ]
       }
     },
@@ -945,7 +989,8 @@
             "de": "Zentraler Knotenpunkt der Stadtbusse.",
             "hu": "A helyi buszjáratok központi csomópontja.",
             "ro": "Nod central pentru autobuzele locale.",
-            "en": "Central hub for local bus lines."
+            "en": "Central hub for local bus lines.",
+            "fr": "Nœud central pour les lignes de bus locales."
           }
         },
         {
@@ -964,7 +1009,8 @@
             "de": "Kurzer Spaziergang von der Bushaltestelle 'Place du 8 Octobre'.",
             "hu": "Rövid séta a 'Place du 8 Octobre' buszmegállótól.",
             "ro": "Scurtă plimbare de la stația de autobuz 'Place du 8 Octobre'.",
-            "en": "Short walk from the 'Place du 8 Octobre' bus stop."
+            "en": "Short walk from the 'Place du 8 Octobre' bus stop.",
+            "fr": "Courte marche depuis l'arrêt de bus « Place du 8 Octobre »."
           }
         },
         {
@@ -983,7 +1029,8 @@
             "de": "Direkt im Zentrum, gut zu Fuß erreichbar.",
             "hu": "Közvetlenül a belvárosban, gyalog könnyen elérhető.",
             "ro": "Chiar în centru, ușor de accesat pe jos.",
-            "en": "Right in the center, easily reachable on foot."
+            "en": "Right in the center, easily reachable on foot.",
+            "fr": "Juste au centre, facilement accessible à pied."
           }
         },
         {
@@ -1002,7 +1049,8 @@
             "de": "Nutzen Sie die Buslinie 1 oder 2 Richtung Norden.",
             "hu": "Használja az 1-es vagy 2-es buszvonalat északi irányba.",
             "ro": "Folosiți linia de autobuz 1 sau 2 spre nord.",
-            "en": "Take bus line 1 or 2 heading north."
+            "en": "Take bus line 1 or 2 heading north.",
+            "fr": "Prenez les lignes de bus 1 ou 2 en direction du nord."
           }
         },
         {
@@ -1021,7 +1069,8 @@
             "de": "Rückfahrt ins Stadtzentrum mit dem Bus.",
             "hu": "Visszautazás a belvárosba busszal.",
             "ro": "Întoarcere în centrul orașului cu autobuzul.",
-            "en": "Return to the city center by bus."
+            "en": "Return to the city center by bus.",
+            "fr": "Retournez au centre-ville en bus."
           }
         },
         {
@@ -1040,7 +1089,8 @@
             "de": "Buslinie 3 bringt Sie direkt in die Nähe des Parks.",
             "hu": "A 3-as buszvonal közvetlenül a park közelébe viszi.",
             "ro": "Linia de autobuz 3 vă duce direct lângă parc.",
-            "en": "Bus line 3 takes you directly near the park entrance."
+            "en": "Bus line 3 takes you directly near the park entrance.",
+            "fr": "La ligne de bus 3 vous dépose directement près de l'entrée du parc."
           }
         },
         {
@@ -1059,7 +1109,8 @@
             "de": "Zurück im Zentrum für den Abend.",
             "hu": "Vissza a belvárosba az estére.",
             "ro": "Înapoi în centru pentru seară.",
-            "en": "Back in the center for the evening."
+            "en": "Back in the center for the evening.",
+            "fr": "De retour au centre pour la soirée."
           }
         }
       ],
@@ -1067,7 +1118,8 @@
         "de": "Mit dem effizienten Bussystem 'Pastel' entdecken Sie Saint-Quentin ganz entspannt. Sie starten im historischen Zentrum, besuchen die wichtigsten Monumente zu Fuß und nutzen den Bus, um zum Antoine Lécuyer Museum im Norden und zum weitläufigen Parc d'Isle im Süden zu gelangen. So verbinden Sie Stadtkultur mit Natur, ohne sich um die Parkplatzsuche kümmern zu müssen.",
         "hu": "A hatékony 'Pastel' buszhálózattal kényelmesen fedezheti fel Saint-Quentint. A történelmi belvárosban kezd, ahol gyalogosan járja be a főbb műemlékeket, majd busszal jut el az északi Antoine Lécuyer Múzeumhoz és a déli Parc d'Isle parkhoz. Így a városi kultúrát és a természetet a parkolási gondok nélkül élvezheti.",
         "ro": "Cu rețeaua eficientă de autobuze 'Pastel' descoperiți Saint-Quentin relaxat. Începeți în centrul istoric, vizitând pe jos principalele monumente, apoi folosiți autobuzul pentru a ajunge la Muzeul Antoine Lécuyer la nord și la vastul Parc d'Isle la sud. Astfel combinați cultura urbană cu natura, fără grija parcării.",
-        "en": "Explore Saint-Quentin relaxedly with the efficient 'Pastel' bus network. Start in the historic center, visiting main monuments on foot, then take the bus to reach the Antoine Lécuyer Museum in the north and the extensive Parc d'Isle in the south. This way, you combine urban culture with nature without the worry of parking."
+        "en": "Explore Saint-Quentin relaxedly with the efficient 'Pastel' bus network. Start in the historic center, visiting main monuments on foot, then take the bus to reach the Antoine Lécuyer Museum in the north and the extensive Parc d'Isle in the south. This way, you combine urban culture with nature without the worry of parking.",
+        "fr": "Explorez Saint-Quentin tranquillement avec le réseau de bus efficace « Pastel ». Commencez dans le centre historique en visitant les monuments principaux à pied, puis prenez le bus pour rejoindre le musée Antoine Lécuyer au nord et le vaste Parc d'Isle au sud. Ainsi, vous combinez culture urbaine et nature sans vous soucier du stationnement."
       },
       "gastro_picks": {
         "de": [
@@ -1175,6 +1227,12 @@
           "Buses run very regularly in the city center.",
           "The 'Pastel' app helps with route planning.",
           "The train station is only a 10-minute walk from the center."
+        ],
+        "fr": [
+          "Achetez un pass journée pour le bus.",
+          "Les bus circulent très régulièrement dans le centre-ville.",
+          "L'application « Pastel » aide à planifier les itinéraires.",
+          "La gare n'est qu'à 10 minutes à pied du centre."
         ]
       }
     }

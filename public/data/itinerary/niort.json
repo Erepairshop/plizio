@@ -31,7 +31,8 @@
             "de": "Beginnen Sie im Herzen der Stadt auf diesem weitläufigen Platz mit seinen Gärten.",
             "hu": "Kezdje a napot a város szívében, a kertekkel övezett hatalmas téren.",
             "ro": "Începeți ziua în inima orașului, în această piață vastă cu grădini.",
-            "en": "Start your day in the heart of the city on this vast square with its gardens."
+            "en": "Start your day in the heart of the city on this vast square with its gardens.",
+            "fr": "Commencez votre journée au cœur de la ville sur cette vaste place bordée de jardins."
           }
         },
         {
@@ -49,7 +50,8 @@
             "de": "Besuchen Sie die Markthalle im Baltard-Stil für lokale Produkte.",
             "hu": "Látogasson el a Baltard-stílusú vásárcsarnokba helyi termékekért.",
             "ro": "Vizitați hala de piață în stil Baltard pentru produse locale.",
-            "en": "Visit the Baltard-style market hall for local regional products."
+            "en": "Visit the Baltard-style market hall for local regional products.",
+            "fr": "Visitez la halle de style Baltard pour des produits régionaux locaux."
           }
         },
         {
@@ -67,7 +69,8 @@
             "de": "Ein prächtiger Doppel-Wohnturm aus dem 12. Jahrhundert.",
             "hu": "Pompás 12. századi kettős lakótorony a Sèvre partján.",
             "ro": "Un magnific turn dublu de locuit din secolul al XII-lea.",
-            "en": "A magnificent 12th-century double keep on the banks of the Sèvre."
+            "en": "A magnificent 12th-century double keep on the banks of the Sèvre.",
+            "fr": "Magnifique donjon double du XIIe siècle sur les rives de la Sèvre."
           }
         },
         {
@@ -85,7 +88,8 @@
             "de": "Das ehemalige Rathaus im Renaissance-Stil ist ein architektonisches Juwel.",
             "hu": "A reneszánsz stílusú egykori városháza igazi építészeti ékszerdoboz.",
             "ro": "Fosta primărie în stil renascentist este o bijuterie arhitecturală.",
-            "en": "The Renaissance-style former town hall is an architectural gem."
+            "en": "The Renaissance-style former town hall is an architectural gem.",
+            "fr": "L'ancien hôtel de ville de style Renaissance est un bijou architectural."
           }
         },
         {
@@ -103,7 +107,8 @@
             "de": "Bewundern Sie die gotische Architektur und die hohen Glasfenster.",
             "hu": "Csodálja meg a gótikus építészetet és a magas ólomüveg ablakokat.",
             "ro": "Admirați arhitectura gotică și vitraliile înalte.",
-            "en": "Admire the Gothic architecture and the high stained-glass windows."
+            "en": "Admire the Gothic architecture and the high stained-glass windows.",
+            "fr": "Admirez l'architecture gothique et les hautes vitraux."
           }
         },
         {
@@ -121,7 +126,8 @@
             "de": "Die Zwillingsspitzen dieser Kirche prägen die Skyline von Niort.",
             "hu": "A templom kettős tornya meghatározza Niort látképét.",
             "ro": "Turlele gemene ale acestei biserici definesc orizontul orașului.",
-            "en": "The twin spires of this church define the Niort skyline."
+            "en": "The twin spires of this church define the Niort skyline.",
+            "fr": "Les flèches jumelles de cette église dessinent la silhouette de Niort."
           }
         },
         {
@@ -139,7 +145,8 @@
             "de": "Entspannen Sie in diesem wunderschönen botanischen Garten.",
             "hu": "Lazítson ebben a gyönyörű botanikus kertben.",
             "ro": "Relaxați-vă în această minunată grădină botanică.",
-            "en": "Relax in this beautiful botanical garden overlooking the river."
+            "en": "Relax in this beautiful botanical garden overlooking the river.",
+            "fr": "Détendez-vous dans ce beau jardin botanique surplombant la rivière."
           }
         },
         {
@@ -157,7 +164,8 @@
             "de": "Ein ehemaliges Industriegebiet, das in einen lebendigen Kulturraum umgewandelt wurde.",
             "hu": "Egykori ipari terület, amelyet életteli kulturális térré alakítottak át.",
             "ro": "Un fost sit industrial transformat într-un spațiu cultural vibrant.",
-            "en": "A former industrial site transformed into a vibrant cultural space."
+            "en": "A former industrial site transformed into a vibrant cultural space.",
+            "fr": "Ancien site industriel transformé en espace culturel animé."
           }
         }
       ],
@@ -165,7 +173,8 @@
         "de": "Ihr Tag beginnt am Place de la Brèche, dem modernen Zentrum von Niort, bevor Sie in das geschäftige Treiben der Markthallen eintauchen. Am Vormittag erkunden Sie den imposanten Donjon, ein Erbe der Plantagenets, und schlendern durch die mittelalterlichen Gassen zum Pilori. Nach einem Mittagessen in der Altstadt besuchen Sie die prächtigen Kirchen Notre-Dame und Saint-André. Den Nachmittag verbringen Sie entspannt im botanischen Garten, um schließlich den Tag im innovativen Port Boinot am Ufer der Sèvre ausklingen zu lassen.",
         "hu": "A nap a modern Place de la Brèche téren indul, majd a történelmi vásárcsarnok forgatagában folytatódik. Délelőtt a monumentális Donjont, a Plantagenet-dinasztia örökségét fedezzük fel, majd a középkori utcákon át a Pilori épületéhez sétálunk. Ebéd után Niort két jelentős templomát, a Notre-Dame-ot és a Saint-André-t érintjük. A délutáni pihenőt a botanikus kert zöldje kínálja, a napot pedig a Sèvre partján újjászületett, modern Port Boinot kulturális negyedben zárjuk.",
         "ro": "Ziua începe în Place de la Brèche, inima modernă a orașului, urmată de o vizită în piața istorică plină de viață. Dimineața explorăm impunătorul Donjon, moștenire a dinastiei Plantagenet, și ne plimbăm pe străzile medievale până la Pilori. După prânz, vizităm bisericile emblematice Notre-Dame și Saint-André. După-amiaza este dedicată relaxării în grădina botanică, încheind ziua la Port Boinot, un spațiu industrial reconvertit creativ pe malul râului Sèvre.",
-        "en": "Your journey starts at Place de la Brèche, Niort's modern hub, before diving into the lively atmosphere of the historic market hall. Spend your morning exploring the imposing Donjon, a legacy of the Plantagenet dynasty, and wander through medieval streets to the Renaissance Pilori. After lunch, visit the grand churches of Notre-Dame and Saint-André. Enjoy a peaceful afternoon in the botanical garden, finishing your day at Port Boinot, a beautifully reclaimed industrial space on the banks of the Sèvre Niortaise."
+        "en": "Your journey starts at Place de la Brèche, Niort's modern hub, before diving into the lively atmosphere of the historic market hall. Spend your morning exploring the imposing Donjon, a legacy of the Plantagenet dynasty, and wander through medieval streets to the Renaissance Pilori. After lunch, visit the grand churches of Notre-Dame and Saint-André. Enjoy a peaceful afternoon in the botanical garden, finishing your day at Port Boinot, a beautifully reclaimed industrial space on the banks of the Sèvre Niortaise.",
+        "fr": "Votre parcours commence à la Place de la Brèche, pôle moderne de Niort, avant de plonger dans l'atmosphère vivante de la halle historique. Passez la matinée à explorer l'imposant Donjon, héritage de la dynastie Plantagenêt, et flânez dans les rues médiévales jusqu'au Pilori Renaissance. Après le déjeuner, visitez les grandes églises Notre-Dame et Saint-André. Profitez d'un après-midi paisible dans le jardin botanique, en terminant votre journée au Port Boinot, ancienne friche industrielle magnifiquement réhabilitée sur les rives de la Sèvre Niortaise."
       },
       "gastro_picks": {
         "de": [
@@ -305,6 +314,11 @@
           "Niort is very pedestrian-friendly; the historical center is compact.",
           "Visit the market hall in the morning when it's most atmospheric.",
           "Niort serves as the perfect gateway to the Marais Poitevin park."
+        ],
+        "fr": [
+          "Niort est très agréable à pied ; le centre historique est compact.",
+          "Visitez la halle le matin quand l'ambiance est la plus authentique.",
+          "Niort est une excellente porte d'entrée vers le parc du Marais Poitevin."
         ]
       }
     },
@@ -426,7 +440,8 @@
         "de": "Mit dem Fahrrad erkunden Sie nicht nur das historische Zentrum, sondern folgen auch der Sèvre bis zum Tor des Marais Poitevin. Genießen Sie die flachen Wege entlang der Kanäle.",
         "hu": "Kerékpárral nemcsak a történelmi központot járhatja be, hanem követheti a Sèvre folyót egészen a Marais Poitevin lápi vidékének kapujáig. Élvezze a sík utakat a csatornák mentén.",
         "ro": "Cu bicicleta, veți explora nu doar centrul istoric, ci veți urma și râul Sèvre până la porțile Marais Poitevin. Bucurați-vă de traseele plate de-a lungul canalelor.",
-        "en": "By bike, you'll explore both the historic center and follow the Sèvre river towards the start of the Marais Poitevin. Enjoy the flat paths along the scenic canals."
+        "en": "By bike, you'll explore both the historic center and follow the Sèvre river towards the start of the Marais Poitevin. Enjoy the flat paths along the scenic canals.",
+        "fr": "À vélo, vous explorerez le centre historique et suivrez la Sèvre vers l'amorce du Marais Poitevin. Profitez des chemins plats le long des canaux pittoresques."
       },
       "gastro_picks": {
         "hu": [
@@ -526,6 +541,10 @@
         "en": [
           "There are well-maintained cycling paths along the Sèvre river.",
           "Niort offers free bicycle rentals at several city points."
+        ],
+        "fr": [
+          "Il existe des pistes cyclables bien entretenues le long de la Sèvre.",
+          "Niort propose des locations de vélos gratuites à plusieurs points de la ville."
         ]
       }
     },
@@ -662,7 +681,8 @@
         "de": "Diese Autotour kombiniert die urbanen Schätze von Niort mit der natürlichen Schönheit des Marais Poitevin. Nach dem Stadtzentrum fahren Sie ins nahegelegene Coulon, das Herz der 'Grünen Venedig'.",
         "hu": "Ez az autós túra ötvözi Niort városi kincseit a Marais Poitevin természetes szépségével. A belváros után a közeli Coulon-ba, a 'zöld Velence' szívébe látogatunk.",
         "ro": "Acest tur cu mașina combină comorile urbane din Niort cu frumusețea naturală a Marais Poitevin. După centrul orașului, conduceți spre Coulon, inima 'Veneției Verzi'.",
-        "en": "This car tour combines Niort's urban highlights with the natural beauty of the Marais Poitevin. After exploring the center, drive to nearby Coulon, the heart of 'Green Venice'."
+        "en": "This car tour combines Niort's urban highlights with the natural beauty of the Marais Poitevin. After exploring the center, drive to nearby Coulon, the heart of 'Green Venice'.",
+        "fr": "Cette boucle en voiture combine les points forts urbains de Niort avec la beauté naturelle du Marais Poitevin. Après avoir exploré le centre, conduisez jusqu'à Coulon, cœur de la 'Venise verte'."
       },
       "gastro_picks": {
         "hu": [
@@ -762,6 +782,10 @@
         "en": [
           "There's a large underground car park at Place de la Brèche.",
           "In Coulon, parking can be tricky during peak season; arrive early."
+        ],
+        "fr": [
+          "Il y a un grand parking souterrain à la Place de la Brèche.",
+          "À Coulon, le stationnement peut être délicat en pleine saison ; arrivez tôt."
         ]
       }
     },
@@ -883,7 +907,8 @@
         "de": "Nutzen Sie das kostenlose Busnetz von Niort (Tanlib), um zwischen den Stadtteilen zu pendeln. Die Route verbindet das Zentrum mit den Grünflächen am Fluss.",
         "hu": "Használja Niort ingyenes buszhálózatát (Tanlib), hogy közlekedjen a városnegyedek között. Az útvonal összeköti a központot a folyóparti zöldterületekkel.",
         "ro": "Folosiți rețeaua gratuită de autobuze din Niort (Tanlib) pentru a călători între cartiere. Ruta conectează centrul cu spațiile verzi de pe malul râului.",
-        "en": "Take advantage of Niort's free bus network (Tanlib) to travel between districts. This route links the historic center with the riverside parks and culture hubs."
+        "en": "Take advantage of Niort's free bus network (Tanlib) to travel between districts. This route links the historic center with the riverside parks and culture hubs.",
+        "fr": "Profitez du réseau de bus gratuit de Niort (Tanlib) pour vous déplacer entre les quartiers. Cet itinéraire relie le centre historique aux parcs riverains et aux pôles culturels."
       },
       "gastro_picks": {
         "hu": [
@@ -983,6 +1008,10 @@
         "en": [
           "The Tanlib bus network in Niort is completely free for everyone.",
           "Buses run less frequently on weekends; check schedules in advance."
+        ],
+        "fr": [
+          "Le réseau de bus Tanlib à Niort est entièrement gratuit pour tous.",
+          "Les bus passent moins fréquemment le week-end ; consultez les horaires à l'avance."
         ]
       }
     }

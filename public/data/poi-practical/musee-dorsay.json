@@ -3,55 +3,64 @@
     "de": "1 Rue de la Légion d'Honneur, 75007 Paris",
     "hu": "1 Rue de la Légion d'Honneur, 75007 Párizs",
     "ro": "1 Rue de la Légion d'Honneur, 75007 Paris",
-    "en": "1 Rue de la Légion d'Honneur, 75007 Paris"
+    "en": "1 Rue de la Légion d'Honneur, 75007 Paris",
+    "fr": "1 Rue de la Légion d'Honneur, 75007 Paris"
   },
   "openingHours": {
     "de": "Di-So 09:30-18:00, Do bis 21:45, Montag geschlossen",
     "hu": "K-V 09:30-18:00, Cs 21:45-ig, hétfőn zárva",
     "ro": "Mar-Dum 09:30-18:00, Jo până la 21:45, luni închis",
-    "en": "Tue-Sun 09:30-18:00, Thu until 9:45 PM, closed Monday"
+    "en": "Tue-Sun 09:30-18:00, Thu until 9:45 PM, closed Monday",
+    "fr": "Mar‑Dim 09:30‑18:00, jeu jusqu’à 21:45, fermé le lundi"
   },
   "entranceFee": {
     "de": "€16 Erwachsene, Donnerstagabend €12 (ab 18:00)",
     "hu": "16 € felnőtt, csütörtök este 12 € (18:00-tól)",
     "ro": "16 € adulți, joi seara 12 € (de la 18:00)",
-    "en": "€16 adult, Thursday evening €12 (from 6 PM)"
+    "en": "€16 adult, Thursday evening €12 (from 6 PM)",
+    "fr": "€16 adulte, jeudi soir €12 (à partir de 18:00)"
   },
   "website": "https://www.musee-orsay.fr",
   "publicTransport": {
     "de": "RER Linie C Station 'Musée d'Orsay' oder Metro Linie 12 'Solférino'",
     "hu": "RER C 'Musée d'Orsay' állomás vagy 12-es metró 'Solférino'",
     "ro": "RER linia C stația 'Musée d'Orsay' sau metrou linia 12 'Solférino'",
-    "en": "RER line C station 'Musée d'Orsay' or metro line 12 'Solférino'"
+    "en": "RER line C station 'Musée d'Orsay' or metro line 12 'Solférino'",
+    "fr": "Gare RER ligne C 'Musée d'Orsay' ou métro ligne 12 'Solférino'"
   },
   "parking": {
     "de": "Parkhaus 'Indigo' am Place de la Concorde (ca. 10 Min. Fußweg)",
     "hu": "Indigo parkoló a Place de la Concorde-nál (kb. 10 perc séta)",
     "ro": "Parcare 'Indigo' la Place de la Concorde (aprox. 10 min. de mers pe jos)",
-    "en": "'Indigo' parking garage at Place de la Concorde (approx. 10 min. walk)"
+    "en": "'Indigo' parking garage at Place de la Concorde (approx. 10 min. walk)",
+    "fr": "'Indigo' parking au Place de la Concorde (env. 10 min à pied)"
   },
   "accessibility": {
     "de": "Barrierefrei mit Aufzügen zu allen Ebenen",
     "hu": "Akadálymentesített, liftekkel minden szintre",
     "ro": "Accesibil, cu lifturi către toate nivelurile",
-    "en": "Accessible with elevators to all levels"
+    "en": "Accessible with elevators to all levels",
+    "fr": "Accessible par ascenseurs à tous les niveaux"
   },
   "photoRules": {
     "de": "Erlaubt ohne Blitz und Stativ",
     "hu": "Vaku és állvány nélkül engedélyezett",
     "ro": "Permis fără bliț și trepied",
-    "en": "Allowed without flash and tripod"
+    "en": "Allowed without flash and tripod",
+    "fr": "Autorisé sans flash ni trépied"
   },
   "bestTimeToVisit": {
     "de": "Dienstag oder Mittwoch direkt zur Öffnung",
     "hu": "Kedd vagy szerda közvetlenül nyitáskor",
     "ro": "Marți sau miercuri chiar la deschidere",
-    "en": "Tuesday or Wednesday right at opening time"
+    "en": "Tuesday or Wednesday right at opening time",
+    "fr": "Mardi ou mercredi dès l’ouverture"
   },
   "audioGuide": {
     "de": "Verfügbar in DE, EN, FR, ES, RU, ZH, JP",
     "hu": "Elérhető DE, EN, FR, ES, RU, ZH, JP nyelven",
     "ro": "Disponibil în DE, EN, FR, ES, RU, ZH, JP",
-    "en": "Available in DE, EN, FR, ES, RU, ZH, JP"
+    "en": "Available in DE, EN, FR, ES, RU, ZH, JP",
+    "fr": "Disponible en DE, EN, FR, ES, RU, ZH, JP"
   }
 }

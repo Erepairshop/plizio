@@ -21,7 +21,8 @@
             "de": "Place du Martroi",
             "hu": "Place du Martroi",
             "ro": "Place du Martroi",
-            "en": "Place du Martroi"
+            "en": "Place du Martroi",
+            "fr": "Place du Martroi"
           },
           "coords": [
             1.9093,
@@ -37,7 +38,7 @@
             "hu": "Csodálja meg Jeanne d'Arc lovas szobrát.",
             "ro": "Admirați statuia ecvestră a Ioanei d'Arc.",
             "en": "Admire the equestrian statue of Joan of Arc.",
-            "fr": "Admirez la statue équestre de Jeanne d'Arc."
+            "fr": "Admirez la statue équestre de Jeanne d’Arc."
           }
         },
         {
@@ -45,7 +46,8 @@
             "de": "Haus von Jeanne d'Arc",
             "hu": "Jeanne d'Arc háza",
             "ro": "Casa Ioanei d'Arc",
-            "en": "Maison de Jeanne d'Arc"
+            "en": "Maison de Jeanne d'Arc",
+            "fr": "Maison de Jeanne d’Arc"
           },
           "coords": [
             1.9064,
@@ -61,7 +63,7 @@
             "hu": "Rekonstruált ház, ahol az orléans-i szűz lakott 1429-ben.",
             "ro": "Casă reconstruită unde a locuit Fecioara din Orléans în 1429.",
             "en": "Reconstructed house where the Maid of Orleans stayed in 1429.",
-            "fr": "Maison reconstruite où la Pucelle d'Orléans séjourna en 1429."
+            "fr": "Maison reconstruite où la Pucelle d’Orléans séjourna en 1429."
           }
         },
         {
@@ -69,7 +71,8 @@
             "de": "Kathedrale Sainte-Croix",
             "hu": "Szent Kereszt Székesegyház",
             "ro": "Catedrala Sainte-Croix",
-            "en": "Cathédrale Sainte-Croix"
+            "en": "Cathédrale Sainte-Croix",
+            "fr": "Cathédrale Sainte-Croix"
           },
           "coords": [
             1.9142,
@@ -85,7 +88,7 @@
             "hu": "Az üvegablakok Jeanne d'Arc történetét mesélik el.",
             "ro": "Vitraliile spun povestea Ioanei d'Arc.",
             "en": "The stained glass windows tell the story of Joan of Arc.",
-            "fr": "Les vitraux racontent l'histoire de Jeanne d'Arc."
+            "fr": "Les vitraux racontent l’histoire de Jeanne d’Arc."
           }
         },
         {
@@ -93,7 +96,8 @@
             "de": "Hôtel Groslot",
             "hu": "Hôtel Groslot",
             "ro": "Hôtel Groslot",
-            "en": "Hôtel Groslot"
+            "en": "Hôtel Groslot",
+            "fr": "Hôtel Groslot"
           },
           "coords": [
             1.9126,
@@ -109,7 +113,7 @@
             "hu": "Pompás reneszánsz palota, ma városházaként működik.",
             "ro": "Un conac renascentist magnific, acum primărie.",
             "en": "A magnificent Renaissance mansion, now the city hall.",
-            "fr": "Un magnifique hôtel particulier de la Renaissance, aujourd'hui l'hôtel de ville."
+            "fr": "Magnifique demeure Renaissance, aujourd’hui l’hôtel de ville."
           }
         },
         {
@@ -117,7 +121,8 @@
             "de": "Mittagessen in der Altstadt",
             "hu": "Ebéd az óvárosban",
             "ro": "Prânz în orașul vechi",
-            "en": "Lunch in the Old Town"
+            "en": "Lunch in the Old Town",
+            "fr": "Déjeuner dans la vieille ville"
           },
           "coords": [
             1.9105,
@@ -133,7 +138,7 @@
             "hu": "Kóstoljon meg orléans-i ecettel készült ételeket.",
             "ro": "Gustați preparate cu oțet de Orléans.",
             "en": "Try dishes seasoned with Orléans vinegar.",
-            "fr": "Goûtez des plats assaisonnés au vinaigre d'Orléans."
+            "fr": "Goûtez des plats assaisonnés au vinaigre d’Orléans."
           }
         },
         {
@@ -141,7 +146,8 @@
             "de": "Musée des Beaux-Arts",
             "hu": "Szépművészeti Múzeum",
             "ro": "Muzeul de Arte Frumoase",
-            "en": "Musée des Beaux-Arts"
+            "en": "Musée des Beaux-Arts",
+            "fr": "Musée des Beaux-Arts"
           },
           "coords": [
             1.9123,
@@ -157,7 +163,7 @@
             "hu": "Franciaország egyik leggazdagabb művészeti gyűjteménye.",
             "ro": "Una dintre cele mai bogate colecții de artă din Franța.",
             "en": "One of France's richest art collections.",
-            "fr": "L'une des plus riches collections d'art de France."
+            "fr": "L’une des collections d’art les plus riches de France."
           }
         },
         {
@@ -165,7 +171,8 @@
             "de": "Loire-Ufer",
             "hu": "Loire-part",
             "ro": "Malurile Loarei",
-            "en": "Loire River Banks"
+            "en": "Loire River Banks",
+            "fr": "Rives de la Loire"
           },
           "coords": [
             1.9108,
@@ -181,7 +188,7 @@
             "hu": "Ideális naplemente sétához a Quai du Châtelet mentén.",
             "ro": "Ideal pentru o plimbare la apus pe Quai du Châtelet.",
             "en": "Ideal for a sunset stroll along the Quai du Châtelet.",
-            "fr": "Idéal pour une promenade au coucher du soleil le long du quai du Châtelet."
+            "fr": "Idéal pour une promenade au coucher du soleil le long du Quai du Châtelet."
           }
         }
       ],
@@ -190,7 +197,7 @@
         "hu": "Reggel Orléans szívében, a Place du Martroi-n kezdünk, majd meglátogatjuk Jeanne d'Arc történelmi házát. Délelőtt a lenyűgöző Szent Kereszt Székesegyházat és az elegáns Hôtel Groslot-t csodáljuk meg. Egy hangulatos óvárosi ebéd után a Szépművészeti Múzeum művészeti kincsei között merülünk el. Az estét a Loire partján, a folyó felett lemenő nap sugaraiban gyönyörködve zárjuk, élvezve a nyugodt vízparti atmoszférát.",
         "ro": "Dimineața explorăm inima orașului Orléans în Place du Martroi și vizităm casa istorică a Ioanei d'Arc. La prânz admirăm impunătoarea Catedrală Sainte-Croix și elegantul Hôtel Groslot. După un prânz relaxat pe străzile orașului vechi, ne scufundăm în istoria artei la Muzeul de Arte Frumoase. Seara o petrecem relaxându-ne pe malurile pitorești ale Loarei, în timp ce soarele apune peste râu.",
         "en": "In the morning, we explore the heart of Orléans at Place du Martroi and visit the historical House of Joan of Arc. At midday, we admire the imposing Sainte-Croix Cathedral and the elegant Hôtel Groslot. After a cozy lunch in the alleys of the old town, we immerse ourselves in art history at the Musée des Beaux-Arts. We end the evening relaxing on the picturesque banks of the Loire as the sun sets over the river.",
-        "fr": "Le matin, nous explorons le cœur d'Orléans à la Place du Martroi et visitons la Maison historique de Jeanne d'Arc. À midi, nous admirons l'imposante Cathédrale Sainte-Croix et l'élégant Hôtel Groslot. Après un déjeuner convivial dans les ruelles de la vieille ville, nous nous plongeons dans l'histoire de l'art au Musée des Beaux-Arts. Nous terminons la soirée en nous relaxant sur les rives pittoresques de la Loire alors que le soleil se couche sur le fleuve."
+        "fr": "Le matin, nous explorons le cœur d’Orléans à la Place du Martroi et visitons la Maison historique de Jeanne d’Arc. À midi, nous admirons l’imposante cathédrale Sainte-Croix et l’élégant Hôtel Groslot. Après un déjeuner chaleureux dans les ruelles de la vieille ville, nous nous plongeons dans l’histoire de l’art au Musée des Beaux-Arts. Nous terminons la soirée en nous relaxant sur les pittoresques rives de la Loire alors que le soleil se couche sur le fleuve."
       },
       "gastro_picks": {
         "de": [
@@ -364,10 +371,10 @@
           "Book ahead for restaurants in Rue de Bourgogne."
         ],
         "fr": [
-          "La vieille ville se découvre idéalement à pied.",
-          "Cherchez les petites plaques de Jeanne d'Arc sur le sol.",
+          "La vieille ville se découvre mieux à pied.",
+          "Cherchez les petites plaques Jeanne d’Arc au sol.",
           "Les quais sont particulièrement animés le soir.",
-          "Réservez à l'avance pour les restaurants de la Rue de Bourgogne."
+          "Réservez à l’avance pour les restaurants de la Rue de Bourgogne."
         ]
       },
       "variants": {
@@ -376,7 +383,8 @@
             "de": "Morgens erkunden wir das Herz von Orléans am Place du Martroi und besuchen das historische Haus von Jeanne d'Arc. Mittags bewundern wir die imposante Kathedrale Sainte-Croix und das elegante Hôtel Groslot. Nach einem gemütlichen Mittagessen in den Gassen der Altstadt tauchen wir im Musée des Beaux-Arts in die Kunstgeschichte ein. Den Abend lassen wir entspannt an den malerischen Ufern der Loire ausklingen, während die Sonne über dem Fluss versinkt.",
             "hu": "Reggel Orléans szívében, a Place du Martroi-n kezdünk, majd meglátogatjuk Jeanne d'Arc történelmi házát. Délelőtt a lenyűgöző Szent Kereszt Székesegyházat és az elegáns Hôtel Groslot-t csodáljuk meg. Egy hangulatos óvárosi ebéd után a Szépművészeti Múzeum művészeti kincsei között merülünk el. Az estét a Loire partján, a folyó felett lemenő nap sugaraiban gyönyörködve zárjuk, élvezve a nyugodt vízparti atmoszférát.",
             "ro": "Dimineața explorăm inima orașului Orléans în Place du Martroi și vizităm casa istorică a Ioanei d'Arc. La prânz admirăm impunătoarea Catedrală Sainte-Croix și elegantul Hôtel Groslot. După un prânz relaxat pe străzile orașului vechi, ne scufundăm în istoria artei la Muzeul de Arte Frumoase. Seara o petrecem relaxându-ne pe malurile pitorești ale Loarei, în timp ce soarele apune peste râu.",
-            "en": "In the morning, we explore the heart of Orléans at Place du Martroi and visit the historical House of Joan of Arc. At midday, we admire the imposing Sainte-Croix Cathedral and the elegant Hôtel Groslot. After a cozy lunch in the alleys of the old town, we immerse ourselves in art history at the Musée des Beaux-Arts. We end the evening relaxing on the picturesque banks of the Loire as the sun sets over the river."
+            "en": "In the morning, we explore the heart of Orléans at Place du Martroi and visit the historical House of Joan of Arc. At midday, we admire the imposing Sainte-Croix Cathedral and the elegant Hôtel Groslot. After a cozy lunch in the alleys of the old town, we immerse ourselves in art history at the Musée des Beaux-Arts. We end the evening relaxing on the picturesque banks of the Loire as the sun sets over the river.",
+            "fr": "Le matin, nous explorons le cœur d’Orléans à la Place du Martroi et visitons la Maison historique de Jeanne d’Arc. À midi, nous admirons l’imposante cathédrale Sainte-Croix et l’élégant Hôtel Groslot. Après un déjeuner chaleureux dans les ruelles de la vieille ville, nous nous plongeons dans l’histoire de l’art au Musée des Beaux-Arts. Nous terminons la soirée en nous relaxant sur les pittoresques rives de la Loire alors que le soleil se couche sur le fleuve."
           },
           "stops": [
             {
@@ -384,13 +392,15 @@
                 "de": "Place du Martroi",
                 "hu": "Place du Martroi",
                 "ro": "Place du Martroi",
-                "en": "Place du Martroi"
+                "en": "Place du Martroi",
+                "fr": "Place du Martroi"
               },
               "tip_5lang": {
                 "de": "Bewundern Sie die Reiterstatue von Jeanne d'Arc.",
                 "hu": "Csodálja meg Jeanne d'Arc lovas szobrát.",
                 "ro": "Admirați statuia ecvestră a Ioanei d'Arc.",
-                "en": "Admire the equestrian statue of Joan of Arc."
+                "en": "Admire the equestrian statue of Joan of Arc.",
+                "fr": "Admirez la statue équestre de Jeanne d’Arc."
               }
             },
             {
@@ -398,13 +408,15 @@
                 "de": "Haus von Jeanne d'Arc",
                 "hu": "Jeanne d'Arc háza",
                 "ro": "Casa Ioanei d'Arc",
-                "en": "Maison de Jeanne d'Arc"
+                "en": "Maison de Jeanne d'Arc",
+                "fr": "Maison de Jeanne d’Arc"
               },
               "tip_5lang": {
                 "de": "Rekonstruiertes Haus, in dem die Jungfrau von Orléans 1429 wohnte.",
                 "hu": "Rekonstruált ház, ahol az orléans-i szűz lakott 1429-ben.",
                 "ro": "Casă reconstruită unde a locuit Fecioara din Orléans în 1429.",
-                "en": "Reconstructed house where the Maid of Orleans stayed in 1429."
+                "en": "Reconstructed house where the Maid of Orleans stayed in 1429.",
+                "fr": "Maison reconstruite où la Pucelle d’Orléans séjourna en 1429."
               }
             },
             {
@@ -412,13 +424,15 @@
                 "de": "Kathedrale Sainte-Croix",
                 "hu": "Szent Kereszt Székesegyház",
                 "ro": "Catedrala Sainte-Croix",
-                "en": "Cathédrale Sainte-Croix"
+                "en": "Cathédrale Sainte-Croix",
+                "fr": "Cathédrale Sainte-Croix"
               },
               "tip_5lang": {
                 "de": "Die Glasfenster erzählen die Geschichte von Jeanne d'Arc.",
                 "hu": "Az üvegablakok Jeanne d'Arc történetét mesélik el.",
                 "ro": "Vitraliile spun povestea Ioanei d'Arc.",
-                "en": "The stained glass windows tell the story of Joan of Arc."
+                "en": "The stained glass windows tell the story of Joan of Arc.",
+                "fr": "Les vitraux racontent l’histoire de Jeanne d’Arc."
               }
             },
             {
@@ -426,13 +440,15 @@
                 "de": "Hôtel Groslot",
                 "hu": "Hôtel Groslot",
                 "ro": "Hôtel Groslot",
-                "en": "Hôtel Groslot"
+                "en": "Hôtel Groslot",
+                "fr": "Hôtel Groslot"
               },
               "tip_5lang": {
                 "de": "Ein prächtiges Renaissance-Herrenhaus, das heute das Rathaus ist.",
                 "hu": "Pompás reneszánsz palota, ma városházaként működik.",
                 "ro": "Un conac renascentist magnific, acum primărie.",
-                "en": "A magnificent Renaissance mansion, now the city hall."
+                "en": "A magnificent Renaissance mansion, now the city hall.",
+                "fr": "Magnifique demeure Renaissance, aujourd’hui l’hôtel de ville."
               }
             },
             {
@@ -440,13 +456,15 @@
                 "de": "Mittagessen in der Altstadt",
                 "hu": "Ebéd az óvárosban",
                 "ro": "Prânz în orașul vechi",
-                "en": "Lunch in the Old Town"
+                "en": "Lunch in the Old Town",
+                "fr": "Déjeuner dans la vieille ville"
               },
               "tip_5lang": {
                 "de": "Probieren Sie Gerichte mit Orléans-Essig.",
                 "hu": "Kóstoljon meg orléans-i ecettel készült ételeket.",
                 "ro": "Gustați preparate cu oțet de Orléans.",
-                "en": "Try dishes seasoned with Orléans vinegar."
+                "en": "Try dishes seasoned with Orléans vinegar.",
+                "fr": "Goûtez des plats assaisonnés au vinaigre d’Orléans."
               }
             },
             {
@@ -454,13 +472,15 @@
                 "de": "Musée des Beaux-Arts",
                 "hu": "Szépművészeti Múzeum",
                 "ro": "Muzeul de Arte Frumoase",
-                "en": "Musée des Beaux-Arts"
+                "en": "Musée des Beaux-Arts",
+                "fr": "Musée des Beaux-Arts"
               },
               "tip_5lang": {
                 "de": "Eine der reichsten Kunstsammlungen Frankreichs.",
                 "hu": "Franciaország egyik leggazdagabb művészeti gyűjteménye.",
                 "ro": "Una dintre cele mai bogate colecții de artă din Franța.",
-                "en": "One of France's richest art collections."
+                "en": "One of France's richest art collections.",
+                "fr": "L’une des collections d’art les plus riches de France."
               }
             },
             {
@@ -468,13 +488,15 @@
                 "de": "Loire-Ufer",
                 "hu": "Loire-part",
                 "ro": "Malurile Loarei",
-                "en": "Loire River Banks"
+                "en": "Loire River Banks",
+                "fr": "Rives de la Loire"
               },
               "tip_5lang": {
                 "de": "Ideal für einen Spaziergang zum Sonnenuntergang am Quai du Châtelet.",
                 "hu": "Ideális naplemente sétához a Quai du Châtelet mentén.",
                 "ro": "Ideal pentru o plimbare la apus pe Quai du Châtelet.",
-                "en": "Ideal for a sunset stroll along the Quai du Châtelet."
+                "en": "Ideal for a sunset stroll along the Quai du Châtelet.",
+                "fr": "Idéal pour une promenade au coucher du soleil le long du Quai du Châtelet."
               }
             }
           ],
@@ -620,6 +642,12 @@
               "Look for the small Joan of Arc plaques on the ground.",
               "The quays are particularly lively in the evening.",
               "Book ahead for restaurants in Rue de Bourgogne."
+            ],
+            "fr": [
+              "La vieille ville se découvre mieux à pied.",
+              "Cherchez les petites plaques Jeanne d’Arc au sol.",
+              "Les quais sont particulièrement animés le soir.",
+              "Réservez à l’avance pour les restaurants de la Rue de Bourgogne."
             ]
           }
         },
@@ -629,7 +657,7 @@
             "hu": "Reggel a Place du Martroi árkádjai alatt kezdünk. Délben Jeanne d'Arc háza és a székesegyház nyújt menedéket a zápor elől. Délután a Szépművészeti Múzeum termeiben kalandozunk szárazon. Este az óváros esőben csillogó macskakövei és a folyóparti kávézók üvegfalai mögül csodálhatjuk a Loire látványát, távol a sártól és a széltől.",
             "ro": "Dimineața, arcadele din Place du Martroi oferă adăpost. La prânz, Casa Ioanei d'Arc și Catedrala sunt refugii perfecte împotriva ploii. După-amiaza explorăm Muzeul de Arte Frumoase, rămânând la adăpost. Seara, malurile Loarei pot fi admirate dintr-o cafenea primitoare, urmărind reflexiile luminilor pe pavajul umed al centrului istoric.",
             "en": "Morning starts under the arcades of Place du Martroi. At noon, Joan of Arc's house and the Cathedral provide a perfect dry retreat. Afternoon is spent indoors at the Museum of Fine Arts. Evening offers a cozy view of the Loire from a riverside bistro, watching the city lights reflect on the rain-slicked cobblestones of the old quarter.",
-            "fr": "La matinée commence sous les arcades de la Place du Martroi. À midi, la maison de Jeanne d'Arc et la Cathédrale offrent un refuge parfait au sec. L'après-midi se passe à l'intérieur du Musée des Beaux-Arts. La soirée offre une vue chaleureuse sur la Loire depuis un bistro au bord de l'eau, en regardant les lumières de la ville se refléter sur les pavés mouillés du vieux quartier."
+            "fr": "La matinée commence sous les arcades de la Place du Martroi. À midi, la maison de Jeanne d’Arc et la cathédrale offrent un parfait abri sec. L’après-midi se passe à l’intérieur au Musée des Beaux-Arts. La soirée offre une vue chaleureuse sur la Loire depuis un bistrot en bord de rivière, en regardant les lumières de la ville se refléter sur les pavés mouillés de la vieille ville."
           },
           "stops": [
             {
@@ -639,7 +667,7 @@
                 "hu": "Használja a környező épületek árkádjait eső elleni védelemként.",
                 "ro": "Folosiți arcadele clădirilor din jur pentru a vă proteja de ploaie.",
                 "en": "Use the arcades of the surrounding buildings for shelter from the rain.",
-                "fr": "Utilisez les arcades des bâtiments environnants pour vous abriter de la pluie."
+                "fr": "Utilisez les arcades des bâtiments environnants comme abri contre la pluie."
               }
             },
             {
@@ -649,7 +677,7 @@
                 "hu": "Ideális helyszín egy heves zápor bent megvárására.",
                 "ro": "Un loc ideal pentru a aștepta trecerea unei ploi torențiale la interior.",
                 "en": "An ideal place to wait out a heavy downpour indoors.",
-                "fr": "Un endroit idéal pour attendre la fin d'une forte averse à l'intérieur."
+                "fr": "Un endroit idéal pour attendre qu’une forte averse passe à l’intérieur."
               }
             },
             {
@@ -659,7 +687,7 @@
                 "hu": "Csodálja meg az üvegablakokat, melyek borús fényben misztikusak.",
                 "ro": "Admirați vitraliile care par mistice în lumina difuză a norilor.",
                 "en": "Admire the stained glass windows, which look mystical in cloudy light.",
-                "fr": "Admirez les vitraux, qui semblent mystiques sous une lumière nuageuse."
+                "fr": "Admirez les vitraux, qui semblent mystiques par lumière nuageuse."
               }
             },
             {
@@ -669,7 +697,7 @@
                 "hu": "A pompás belső terek teljesen védettek az időjárástól.",
                 "ro": "Interioarele somptuoase sunt complet protejate de intemperii.",
                 "en": "The magnificent interiors are completely protected from the weather.",
-                "fr": "Les magnifiques intérieurs sont totalement protégés des intempéries."
+                "fr": "Les intérieurs magnifiques sont complètement protégés des intempéries."
               }
             },
             {
@@ -679,7 +707,7 @@
                 "hu": "Válasszon hangulatos belső terű éttermet a terasz helyett.",
                 "ro": "Alegeți un restaurant cu interior primitor în locul terasei.",
                 "en": "Choose a restaurant with a cozy interior instead of a terrace.",
-                "fr": "Choisissez un restaurant avec un intérieur cosy plutôt qu'une terrasse."
+                "fr": "Choisissez un restaurant avec un intérieur cosy plutôt qu’une terrasse."
               }
             },
             {
@@ -689,7 +717,7 @@
                 "hu": "Tökéletes délután szárazon az európai művészet körében.",
                 "ro": "O după-amiază perfectă la adăpost printre opere de artă europene.",
                 "en": "Perfect afternoon indoors surrounded by European art.",
-                "fr": "Après-midi parfaite à l'abri, entouré d'art européen."
+                "fr": "Parfait après‑midi à l’intérieur entouré d’art européen."
               }
             },
             {
@@ -699,7 +727,7 @@
                 "hu": "Keressen menedéket a Pont George V híd alatt hirtelen zivatar esetén.",
                 "ro": "Căutați adăpost sub Pont George V în caz de aversă bruscă.",
                 "en": "Seek shelter under the Pont George V bridge in case of a sudden burst.",
-                "fr": "Cherchez refuge sous le Pont George V en cas d'averse soudaine."
+                "fr": "Cherchez refuge sous le pont George V en cas d’averse soudaine."
               }
             }
           ],
@@ -730,9 +758,9 @@
             ],
             "fr": [
               "Portez des chaussures imperméables pour les rues pavées.",
-              "Les musées d'Orléans sont souvent fermés le lundi.",
-              "De nombreux bâtiments historiques de la vieille ville ont des surplombs protecteurs.",
-              "La Place du Martroi propose de nombreux cafés avec auvents, même sous la pluie."
+              "Les musées d’Orléans sont souvent fermés le lundi.",
+              "De nombreux bâtiments historiques de la vieille ville ont des avancées protectrices.",
+              "La Place du Martroi offre de nombreux cafés avec auvents même sous la pluie."
             ]
           }
         },
@@ -742,7 +770,7 @@
             "hu": "Reggel a friss téli levegő élénkít a Place du Martroi téren. Délben Jeanne d'Arc háza és a fűtött székesegyház nyújt enyhülést a hideg ellen. Délután a Szépművészeti Múzeum termeiben melegedhetünk. A korai, 17 óra körüli naplementét a Loire partján nézzük végig, majd egy hangulatos borozóban zárjuk a fagyos napot egy pohár helyi borral.",
             "ro": "Dimineața, aerul proaspăt de iarnă revigorează atmosfera în Place du Martroi. La prânz, Casa Ioanei d'Arc și Catedrala încălzită oferă refugiu. După-amiaza, vizita la Muzeul de Arte Frumoase aduce căldură culturală. Apusul timpuriu, în jur de ora 17:00, se vede cel mai bine de pe malul Loarei, urmat de o seară caldă într-o vinotecă locală.",
             "en": "Morning air is crisp and invigorating at Place du Martroi. At noon, warm up inside Joan of Arc's house and the heated Cathedral. Afternoon provides cultural warmth at the Museum of Fine Arts. The early sunset around 5:00 PM is best viewed from the Loire banks, followed by a cozy evening in a local wine bar to escape the winter frost.",
-            "fr": "L'air matinal est vif et revigorant sur la Place du Martroi. À midi, réchauffez-vous à l'intérieur de la maison de Jeanne d'Arc et de la Cathédrale chauffée. L'après-midi offre une chaleur culturelle au Musée des Beaux-Arts. Le coucher du soleil précoce vers 17h00 s'apprécie mieux depuis les bords de Loire, suivi d'une soirée conviviale dans un bar à vin local pour échapper au gel hivernal."
+            "fr": "L’air du matin est vif et vivifiant à la Place du Martroi. À midi, réchauffez-vous dans la maison de Jeanne d’Arc et la cathédrale chauffée. L’après‑midi apporte une chaleur culturelle au Musée des Beaux‑Arts. Le coucher du soleil tôt vers 17h est mieux apprécié depuis les rives de la Loire, suivi d’une soirée chaleureuse dans un bar à vins local pour échapper au gel hivernal."
           },
           "stops": [
             {
@@ -752,7 +780,7 @@
                 "hu": "Élvezze a téli díszkivilágítást és gyakran a kis karácsonyi vásárt.",
                 "ro": "Bucurați-vă de iluminatul de iarnă și adesea de un mic târg de Crăciun.",
                 "en": "Enjoy the winter lights and often a small Christmas market.",
-                "fr": "Profitez des lumières d'hiver et souvent d'un petit marché de Noël."
+                "fr": "Profitez des illuminations hivernales et souvent d’un petit marché de Noël."
               }
             },
             {
@@ -762,7 +790,7 @@
                 "hu": "Jól fűtött kiállítóterek a séták közötti felmelegedéshez.",
                 "ro": "Spații de expoziție bine încălzite pentru a vă dezmorți între plimbări.",
                 "en": "Well-heated exhibition spaces to warm up between walks.",
-                "fr": "Espaces d'exposition bien chauffés pour se réchauffer entre deux marches."
+                "fr": "Salles d’exposition bien chauffées pour se réchauffer entre les balades."
               }
             },
             {
@@ -772,7 +800,7 @@
                 "hu": "A monumentális homlokzat a lágy téli fényben különösen plasztikus.",
                 "ro": "Fațada monumentală pare deosebit de sculpturală în lumina blândă de iarnă.",
                 "en": "The monumental facade looks particularly sculptural in the soft winter light.",
-                "fr": "La façade monumentale semble particulièrement sculpturale sous la douce lumière d'hiver."
+                "fr": "La façade monumentale paraît particulièrement sculpturale dans la douce lumière hivernale."
               }
             },
             {
@@ -782,7 +810,7 @@
                 "hu": "Meleg, pompás reneszánsz szobák nyújtanak menedéket a hideg elől.",
                 "ro": "Saloanele calde de renaștere oferă protecție împotriva frigului.",
                 "en": "Warm, grand Renaissance rooms offer shelter from the cold.",
-                "fr": "Les grandes salles Renaissance offrent un abri chaleureux contre le froid."
+                "fr": "Les pièces Renaissance chaudes et grandioses offrent un abri contre le froid."
               }
             },
             {
@@ -792,7 +820,7 @@
                 "hu": "Kóstoljon meg egy laktató Loire-völgyi egytálételt a felmelegedéshez.",
                 "ro": "Gustați o tocană consistentă din Valea Loarei pentru a vă încălzi.",
                 "en": "Try a hearty Loire Valley stew to warm up.",
-                "fr": "Goûtez un ragoût copieux du Val de Loire pour vous réchauffer."
+                "fr": "Essayez un ragoût copieux du Val de Loire pour vous réchauffer."
               }
             },
             {
@@ -802,7 +830,7 @@
                 "hu": "Kulturális menedékhely, ha a téli szél túl erőssé válik.",
                 "ro": "Un refugiu cultural când vântul de iarnă devine prea tăios.",
                 "en": "A cultural retreat when the winter wind gets too strong.",
-                "fr": "Une retraite culturelle quand le vent d'hiver devient trop fort."
+                "fr": "Un refuge culturel quand le vent d’hiver devient trop fort."
               }
             },
             {
@@ -812,7 +840,7 @@
                 "hu": "Vigyázat: A vízparti sétány fagy esetén csúszós lehet.",
                 "ro": "Atenție: Aleea de pe mal poate fi alunecoasă în caz de îngheț.",
                 "en": "Caution: The riverside path can be slippery in freezing conditions.",
-                "fr": "Attention : le chemin en bord de rivière peut être glissant en cas de gel."
+                "fr": "Attention : le chemin en bord de rivière peut être glissant par temps de gel."
               }
             }
           ],
@@ -842,10 +870,10 @@
               "The riverside promenade is often windy in winter, pack a hat."
             ],
             "fr": [
-              "En décembre, le soleil se couche avant 17h00.",
-              "Superposer les vêtements est idéal pour passer de l'extérieur à l'intérieur.",
-              "Le chocolat chaud dans les cafés du Martroi est un incontournable de l'hiver.",
-              "La promenade en bord de Loire est souvent venteuse en hiver, prévoyez un bonnet."
+              "En décembre, le soleil se couche avant 17h.",
+              "Le principe de superposition des vêtements est idéal pour passer de l’extérieur à l’intérieur.",
+              "Le chocolat chaud dans les cafés du Martroi est un incontournable hivernal.",
+              "La promenade riveraine est souvent venteuse en hiver, emportez un bonnet."
             ]
           }
         }
@@ -864,7 +892,8 @@
             "de": "Place du Martroi",
             "hu": "Place du Martroi",
             "ro": "Place du Martroi",
-            "en": "Place du Martroi"
+            "en": "Place du Martroi",
+            "fr": "Place du Martroi"
           },
           "coords": [
             1.9093,
@@ -880,7 +909,7 @@
             "hu": "Kiindulópont bérautó-állomással a közelben.",
             "ro": "Punct de plecare cu biciclete de închiriat în apropiere.",
             "en": "Starting point with rental bikes nearby.",
-            "fr": "Point de départ avec des vélos de location à proximité."
+            "fr": "Point de départ avec locations de vélos à proximité."
           }
         },
         {
@@ -888,7 +917,8 @@
             "de": "Parc Pasteur",
             "hu": "Parc Pasteur",
             "ro": "Parcul Pasteur",
-            "en": "Parc Pasteur"
+            "en": "Parc Pasteur",
+            "fr": "Parc Pasteur"
           },
           "coords": [
             1.9161,
@@ -904,7 +934,7 @@
             "hu": "Szép városi park egy kis gőzmozdonnyal.",
             "ro": "Parc urban frumos cu o mică locomotivă cu abur.",
             "en": "Beautiful city park with a small steam train.",
-            "fr": "Beau parc urbain avec un petit train à vapeur."
+            "fr": "Beau parc municipal avec un petit train à vapeur."
           }
         },
         {
@@ -912,7 +942,8 @@
             "de": "Kathedrale Sainte-Croix",
             "hu": "Szent Kereszt Székesegyház",
             "ro": "Catedrala Sainte-Croix",
-            "en": "Cathédrale Sainte-Croix"
+            "en": "Cathédrale Sainte-Croix",
+            "fr": "Cathédrale Sainte-Croix"
           },
           "coords": [
             1.9142,
@@ -928,7 +959,7 @@
             "hu": "Kerékpártárolók közvetlenül a főtér előtt.",
             "ro": "Suporturi de biciclete direct în fața pieței.",
             "en": "Bike racks right in front of the square.",
-            "fr": "Arceaux à vélos juste devant la place."
+            "fr": "Arceaux pour vélos juste devant la place."
           }
         },
         {
@@ -936,7 +967,8 @@
             "de": "Loire à Vélo Weg",
             "hu": "Loire à Vélo kerékpárút",
             "ro": "Traseul Loire à Vélo",
-            "en": "Loire à Vélo Path"
+            "en": "Loire à Vélo Path",
+            "fr": "Piste Loire à Vélo"
           },
           "coords": [
             1.928,
@@ -952,7 +984,7 @@
             "hu": "A híres EuroVelo 6 kerékpárút része.",
             "ro": "Parte a faimosului traseu EuroVelo 6.",
             "en": "Part of the famous EuroVelo 6 cycling route.",
-            "fr": "Partie de la célèbre route cyclable EuroVelo 6."
+            "fr": "Fait partie de la célèbre EuroVelo 6."
           }
         },
         {
@@ -960,7 +992,8 @@
             "de": "Jardin des Plantes",
             "hu": "Botanikus kert",
             "ro": "Grădina Botanică",
-            "en": "Jardin des Plantes"
+            "en": "Jardin des Plantes",
+            "fr": "Jardin des Plantes"
           },
           "coords": [
             1.8955,
@@ -976,7 +1009,7 @@
             "hu": "Egy 3,5 hektáros botanikus kert.",
             "ro": "O grădină botanică de 3,5 hectare.",
             "en": "A 3.5-hectare botanical garden.",
-            "fr": "Un jardin botanique de 3,5 hectares."
+            "fr": "Jardin botanique de 3,5 hectares."
           }
         },
         {
@@ -984,7 +1017,8 @@
             "de": "Pont de l'Europe",
             "hu": "Európa-híd",
             "ro": "Podul Europei",
-            "en": "Europe Bridge"
+            "en": "Europe Bridge",
+            "fr": "Pont d'Europe"
           },
           "coords": [
             1.885,
@@ -1000,7 +1034,7 @@
             "hu": "Modern Calatrava-híd remek panorámával.",
             "ro": "Pod modern Calatrava cu o panoramă grozavă.",
             "en": "Modern Calatrava bridge with a great panorama.",
-            "fr": "Pont moderne de Calatrava avec un superbe panorama."
+            "fr": "Pont moderne de Calatrava offrant un superbe panorama."
           }
         }
       ],
@@ -1009,7 +1043,7 @@
         "hu": "Kerékpárral fedezzük fel Orléans-t és zöld oázisait. A központból indulva a Parc Pasteur felé vesszük az irányt, majd meglátogatjuk a katedrálist. Késő délelőtt a Loire mentén tekerünk a híres kerékpárúton. A botanikus kertben tett pihenő után átkelünk a modern Európa-hídon, élvezve a királyok völgyére nyíló tágas kilátást.",
         "ro": "Explorăm Orléans și oazele sale verzi cu bicicleta. Pornim din centru spre Parcul Pasteur, înainte de a vizita catedrala. Mai târziu pedalăm de-a lungul Loarei pe faimoasa pistă de biciclete. După o pauză în Grădina Botanică, traversăm modernul Pod al Europei și ne bucurăm de vederea largă peste valea regilor.",
         "en": "We explore Orléans and its green oases by bike. We start in the center and head towards Parc Pasteur before visiting the cathedral. Late morning, we cycle along the Loire on the famous cycle path. After a break in the Jardin des Plantes, we cross the modern Europe Bridge and enjoy the wide view over the Valley of the Kings.",
-        "fr": "Nous explorons Orléans et ses oasis de verdure à vélo. Nous commençons par le centre et nous dirigeons vers le Parc Pasteur avant de visiter la cathédrale. En fin de matinée, nous pédalons le long de la Loire sur la célèbre piste cyclable. Après une pause au Jardin des Plantes, nous traversons le moderne Pont de l'Europe et profitons d'une vue imprenable sur la Vallée des Rois."
+        "fr": "Nous explorons Orléans et ses oasis de verdure à vélo. Nous partons du centre et nous dirigeons vers le Parc Pasteur avant de visiter la cathédrale. En fin de matinée, nous longeons la Loire sur la célèbre piste cyclable. Après une pause au Jardin des Plantes, nous traversons le moderne Pont d'Europe et profitons de la vaste vue sur la Vallée des Rois."
       },
       "gastro_picks": {
         "de": [
@@ -1141,7 +1175,7 @@
           "Utilisez l'application 'Vélo'+ pour les locations.",
           "Roulez prudemment sur les rues pavées de la vieille ville.",
           "Les pistes cyclables de la Loire sont plates et bien entretenues.",
-          "Évitez les heures de pointe sur les ponts principaux."
+          "Évitez les heures de pointe sur les principaux ponts."
         ]
       },
       "variants": {
@@ -1150,7 +1184,8 @@
             "de": "Mit dem Fahrrad erkunden wir Orléans und seine grünen oasen. Wir starten im Zentrum und fahren zum Parc Pasteur, bevor wir die Kathedrale besuchen. Am späten Vormittag radeln wir entlang der Loire auf dem berühmten Radweg. Nach einer Pause im Jardin des Plantes überqueren wir die moderne Pont de l'Europe und genießen den weiten Blick über das Tal der Könige.",
             "hu": "Kerékpárral fedezzük fel Orléans-t és zöld oázisait. A központból indulva a Parc Pasteur felé vesszük az irányt, majd meglátogatjuk a katedrálist. Késő délelőtt a Loire mentén tekerünk a híres kerékpárúton. A botanikus kertben tett pihenő után átkelünk a modern Európa-hídon, élvezve a királyok völgyére nyíló tágas kilátást.",
             "ro": "Explorăm Orléans și oazele sale verzi cu bicicleta. Pornim din centru spre Parcul Pasteur, înainte de a vizita catedrala. Mai târziu pedalăm de-a lungul Loarei pe faimoasa pistă de biciclete. După o pauză în Grădina Botanică, traversăm modernul Pod al Europei și ne bucurăm de vederea largă peste valea regilor.",
-            "en": "We explore Orléans and its green oases by bike. We start in the center and head towards Parc Pasteur before visiting the cathedral. Late morning, we cycle along the Loire on the famous cycle path. After a break in the Jardin des Plantes, we cross the modern Europe Bridge and enjoy the wide view over the Valley of the Kings."
+            "en": "We explore Orléans and its green oases by bike. We start in the center and head towards Parc Pasteur before visiting the cathedral. Late morning, we cycle along the Loire on the famous cycle path. After a break in the Jardin des Plantes, we cross the modern Europe Bridge and enjoy the wide view over the Valley of the Kings.",
+            "fr": "Nous explorons Orléans et ses oasis de verdure à vélo. Nous partons du centre et nous dirigeons vers le Parc Pasteur avant de visiter la cathédrale. En fin de matinée, nous longeons la Loire sur la célèbre piste cyclable. Après une pause au Jardin des Plantes, nous traversons le moderne Pont d'Europe et profitons de la vaste vue sur la Vallée des Rois."
           },
           "stops": [
             {
@@ -1158,13 +1193,15 @@
                 "de": "Place du Martroi",
                 "hu": "Place du Martroi",
                 "ro": "Place du Martroi",
-                "en": "Place du Martroi"
+                "en": "Place du Martroi",
+                "fr": "Place du Martroi"
               },
               "tip_5lang": {
                 "de": "Startpunkt mit Mieträdern in der Nähe.",
                 "hu": "Kiindulópont bérautó-állomással a közelben.",
                 "ro": "Punct de plecare cu biciclete de închiriat în apropiere.",
-                "en": "Starting point with rental bikes nearby."
+                "en": "Starting point with rental bikes nearby.",
+                "fr": "Point de départ avec locations de vélos à proximité."
               }
             },
             {
@@ -1172,13 +1209,15 @@
                 "de": "Parc Pasteur",
                 "hu": "Parc Pasteur",
                 "ro": "Parcul Pasteur",
-                "en": "Parc Pasteur"
+                "en": "Parc Pasteur",
+                "fr": "Parc Pasteur"
               },
               "tip_5lang": {
                 "de": "Schöner Stadtpark mit einer kleinen Dampfeisenbahn.",
                 "hu": "Szép városi park egy kis gőzmozdonnyal.",
                 "ro": "Parc urban frumos cu o mică locomotivă cu abur.",
-                "en": "Beautiful city park with a small steam train."
+                "en": "Beautiful city park with a small steam train.",
+                "fr": "Beau parc municipal avec un petit train à vapeur."
               }
             },
             {
@@ -1186,13 +1225,15 @@
                 "de": "Kathedrale Sainte-Croix",
                 "hu": "Szent Kereszt Székesegyház",
                 "ro": "Catedrala Sainte-Croix",
-                "en": "Cathédrale Sainte-Croix"
+                "en": "Cathédrale Sainte-Croix",
+                "fr": "Cathédrale Sainte-Croix"
               },
               "tip_5lang": {
                 "de": "Fahrradständer direkt vor dem Vorplatz.",
                 "hu": "Kerékpártárolók közvetlenül a főtér előtt.",
                 "ro": "Suporturi de biciclete direct în fața pieței.",
-                "en": "Bike racks right in front of the square."
+                "en": "Bike racks right in front of the square.",
+                "fr": "Supports à vélos juste devant la place."
               }
             },
             {
@@ -1200,13 +1241,15 @@
                 "de": "Loire à Vélo Weg",
                 "hu": "Loire à Vélo kerékpárút",
                 "ro": "Traseul Loire à Vélo",
-                "en": "Loire à Vélo Path"
+                "en": "Loire à Vélo Path",
+                "fr": "Piste Loire à Vélo"
               },
               "tip_5lang": {
                 "de": "Teil des berühmten EuroVelo 6 Radwegs.",
                 "hu": "A híres EuroVelo 6 kerékpárút része.",
                 "ro": "Parte a faimosului traseu EuroVelo 6.",
-                "en": "Part of the famous EuroVelo 6 cycling route."
+                "en": "Part of the famous EuroVelo 6 cycling route.",
+                "fr": "Partie de la célèbre EuroVelo 6."
               }
             },
             {
@@ -1214,13 +1257,15 @@
                 "de": "Jardin des Plantes",
                 "hu": "Botanikus kert",
                 "ro": "Grădina Botanică",
-                "en": "Jardin des Plantes"
+                "en": "Jardin des Plantes",
+                "fr": "Jardin des Plantes"
               },
               "tip_5lang": {
                 "de": "Ein 3,5 Hektar großer botanischer Garten.",
                 "hu": "Egy 3,5 hektáros botanikus kert.",
                 "ro": "O grădină botanică de 3,5 hectare.",
-                "en": "A 3.5-hectare botanical garden."
+                "en": "A 3.5-hectare botanical garden.",
+                "fr": "Jardin botanique de 3,5 hectares."
               }
             },
             {
@@ -1228,13 +1273,15 @@
                 "de": "Pont de l'Europe",
                 "hu": "Európa-híd",
                 "ro": "Podul Europei",
-                "en": "Europe Bridge"
+                "en": "Europe Bridge",
+                "fr": "Pont d'Europe"
               },
               "tip_5lang": {
                 "de": "Moderne Calatrava-Brücke mit tollem Panorama.",
                 "hu": "Modern Calatrava-híd remek panorámával.",
                 "ro": "Pod modern Calatrava cu o panoramă grozavă.",
-                "en": "Modern Calatrava bridge with a great panorama."
+                "en": "Modern Calatrava bridge with a great panorama.",
+                "fr": "Pont moderne de Calatrava offrant un superbe panorama."
               }
             }
           ],
@@ -1344,6 +1391,12 @@
               "Ride carefully on the cobbled streets of the old town.",
               "The Loire cycle paths are flat and well-maintained.",
               "Avoid rush hour on the main bridges."
+            ],
+            "fr": [
+              "Utilisez l'application 'Vélo'+ pour les locations.",
+              "Roulez prudemment sur les rues pavées de la vieille ville.",
+              "Les pistes cyclables de la Loire sont plates et bien entretenues.",
+              "Évitez les heures de pointe sur les principaux ponts."
             ]
           }
         },
@@ -1353,7 +1406,7 @@
             "hu": "Az esős tekerés a Place du Martroi-nál indul. Délben a Pasteur park sűrű fái, majd a száraz székesegyház nyújt védelmet. A Loire menti bringaút nedvesen óvatosságot igényel. Délután a Jardin des Plantes üvegháza melegít fel, mielőtt a túra a ködös Európa-hídnál véget érne.",
             "ro": "Ciclismul pe ploaie începe în Place du Martroi. La prânz, copacii din Parc Pasteur și Catedrala oferă protecție. Ruta de-a lungul Loarei necesită prudență pe carosabil umed. După-amiaza, sera din Jardin des Plantes vă încălzește, înainte ca turul să se încheie la podul Europei învăluit în ceață.",
             "en": "Rainy cycling starts at Place du Martroi. At noon, Parc Pasteur's dense trees and the dry Cathedral provide cover. The Loire bike path requires caution when wet. Afternoon finds warmth in the Jardin des Plantes greenhouse, before ending the tour at the misty Europe Bridge.",
-            "fr": "Le vélo sous la pluie commence à la Place du Martroi. À midi, les arbres denses du Parc Pasteur et la Cathédrale au sec offrent une couverture. La piste cyclable de la Loire demande de la prudence lorsqu'elle est mouillée. L'après-midi se passe au chaud dans la serre du Jardin des Plantes, avant de terminer le tour au Pont de l'Europe embrumé."
+            "fr": "Une sortie à vélo sous la pluie commence Place du Martroi. À midi, les arbres denses du Parc Pasteur et la cathédrale offrent un abri. La piste cyclable le long de la Loire demande de la prudence lorsqu'elle est humide. L'après-midi, la serre du Jardin des Plantes apporte de la chaleur avant de terminer la visite au Pont d'Europe dans la brume."
           },
           "stops": [
             {
@@ -1363,7 +1416,7 @@
                 "hu": "Ellenőrizze a fékeket, mielőtt a nedves aszfaltra indulna.",
                 "ro": "Verificați frânele înainte de a porni pe asfaltul umed.",
                 "en": "Check your brakes before starting on wet asphalt.",
-                "fr": "Vérifiez vos freins avant de partir sur l'asphalte mouillé."
+                "fr": "Vérifiez vos freins avant de rouler sur l'asphalte mouillé."
               }
             },
             {
@@ -1373,7 +1426,7 @@
                 "hu": "A nagy platánfák természetes esővédelmet nyújtanak.",
                 "ro": "Platanii mari oferă protecție naturală împotriva ploii.",
                 "en": "Large plane trees provide natural rain shelter.",
-                "fr": "Les grands platanes offrent un abri naturel contre la pluie."
+                "fr": "De grands platanes offrent un abri naturel contre la pluie."
               }
             },
             {
@@ -1383,7 +1436,7 @@
                 "hu": "Kerékpártárolók az északi kapu közelében találhatók.",
                 "ro": "Suporturile pentru biciclete se află lângă poarta de nord.",
                 "en": "Bike racks are located near the north portal.",
-                "fr": "Les arceaux à vélos sont situés près du portail nord."
+                "fr": "Des supports à vélos se trouvent près du portail nord."
               }
             },
             {
@@ -1393,7 +1446,7 @@
                 "hu": "Vigyázat a kanyarokban, a sár csúszós lehet.",
                 "ro": "Atenție în curbe, noroiul poate fi alunecos.",
                 "en": "Caution in curves, mud can be slippery.",
-                "fr": "Attention dans les virages, la boue peut être glissante."
+                "fr": "Attention dans les courbes, la boue peut être glissante."
               }
             },
             {
@@ -1413,7 +1466,7 @@
                 "hu": "A fehér szerkezet esőben különösen futurisztikus hatást kelt.",
                 "ro": "Structura albă pare deosebit de futuristă pe ploaie.",
                 "en": "The white structure looks particularly futuristic in the rain.",
-                "fr": "La structure blanche semble particulièrement futuriste sous la pluie."
+                "fr": "La structure blanche paraît particulièrement futuriste sous la pluie."
               }
             }
           ],
@@ -1443,10 +1496,10 @@
               "The Loire à Vélo signage is legible even in poor visibility."
             ],
             "fr": [
-              "Utilisez les stations de gonflage gratuites le long de la Loire.",
+              "Utilisez les stations gratuites de gonflage le long de la Loire.",
               "Évitez les grilles métalliques au sol, elles sont extrêmement glissantes.",
               "Un poncho protège mieux qu'un parapluie à vélo.",
-              "La signalisation de la Loire à Vélo est lisible même par mauvaise visibilité."
+              "La signalisation de la Loire à Vélo reste lisible même par mauvaise visibilité."
             ]
           }
         },
@@ -1456,7 +1509,7 @@
             "hu": "A téli tekeréshez meleg kesztyű kell már a Martroitól. Délben a deres Pasteur park hívogat, mielőtt a székesegyház csendet és meleget adna. A Loire menti út a folyó zord szépségét mutatja. A Jardin des Plantes üvegházában felmelegedhetünk, mielőtt a túra a hűvös, kivilágított Európa-hídnál véget érne.",
             "ro": "Ciclismul de iarnă necesită mănuși groase încă din Martroi. La prânz, parcul Pasteur înghețat atrage privirile, urmat de liniștea Catedralei. Drumul pe lângă Loară dezvăluie frumusețea aspră a râului. În Jardin des Plantes vă încălziți în seră, înainte ca turul să se încheie la podul Europei iluminat.",
             "en": "Winter cycling requires warm gloves starting from Martroi. At noon, the frosty Parc Pasteur beckons before the Cathedral offers silence and warmth. The ride along the Loire shows the river's rugged beauty. Warm up in the Jardin des Plantes greenhouse before ending at the cool, lit Europe Bridge.",
-            "fr": "Le vélo en hiver demande des gants chauds dès le départ du Martroi. À midi, le Parc Pasteur givré nous appelle avant que la Cathédrale n'offre silence et chaleur. La balade le long de la Loire révèle la beauté sauvage du fleuve. Réchauffez-vous dans la serre du Jardin des Plantes avant de finir au Pont de l'Europe, frais et illuminé."
+            "fr": "Le vélo en hiver nécessite des gants chauds dès le Martroi. À midi, le Parc Pasteur gelé appelle, puis la cathédrale offre silence et chaleur. La route le long de la Loire révèle la beauté âpre du fleuve. Réchauffez-vous dans la serre du Jardin des Plantes avant de finir au Pont d'Europe éclairé et frais."
           },
           "stops": [
             {
@@ -1466,7 +1519,7 @@
                 "hu": "Ügyeljen a jeges foltokra a szökőkút körül.",
                 "ro": "Atenție la porțiunile înghețate din jurul fântânii.",
                 "en": "Watch out for icy patches around the fountain.",
-                "fr": "Faites attention aux plaques de glace autour de la fontaine."
+                "fr": "Méfiez-vous des plaques de verglas autour de la fontaine."
               }
             },
             {
@@ -1476,7 +1529,7 @@
                 "hu": "A park a zúzmarás ágakkal elvarázsoltnak tűnik.",
                 "ro": "Parcul pare fermecat cu promoroacă pe ramuri.",
                 "en": "The park looks enchanted with hoarfrost on the branches.",
-                "fr": "Le parc semble enchanté avec le givre sur les branches."
+                "fr": "Le parc paraît enchanté avec le givre sur les branches."
               }
             },
             {
@@ -1486,7 +1539,7 @@
                 "hu": "Egy rövid benti megálló visszaadja az ujjai melegét.",
                 "ro": "O scurtă oprire în interior vă va încălzi degetele.",
                 "en": "A short stop inside will bring your fingers back to temperature.",
-                "fr": "Un court arrêt à l'intérieur redonnera de la température à vos doigts."
+                "fr": "Un court arrêt à l'intérieur rendra vos doigts à température."
               }
             },
             {
@@ -1496,7 +1549,7 @@
                 "hu": "A folyóparti hideg menetszél szélálló ruházatot igényel.",
                 "ro": "Vântul rece de pe râu necesită haine rezistente la vânt.",
                 "en": "The cold wind by the river requires windproof clothing.",
-                "fr": "Le vent froid au bord du fleuve nécessite des vêtements coupe-vent."
+                "fr": "Le vent froid au bord du fleuve exige des vêtements coupe-vent."
               }
             },
             {
@@ -1506,7 +1559,7 @@
                 "hu": "A trópusi hőmérséklet az üvegházban igazi téli fénypont.",
                 "ro": "Temperaturile tropicale din seră sunt un punct culminant iarna.",
                 "en": "The tropical temperatures in the greenhouse are a winter highlight.",
-                "fr": "Les températures tropicales de la serre sont un point fort de l'hiver."
+                "fr": "Les températures tropicales de la serre sont un temps fort hivernal."
               }
             },
             {
@@ -1516,7 +1569,7 @@
                 "hu": "Fejezze be a túrát sötétedés előtt (kb. 17:00).",
                 "ro": "Încheiați turul înainte de lăsarea întunericului (cca. 17:00).",
                 "en": "Finish the tour before dark (approx. 5:00 PM).",
-                "fr": "Terminez le tour avant la tombée de la nuit (env. 17h00)."
+                "fr": "Terminez la sortie avant la nuit (environ 17h00)."
               }
             }
           ],
@@ -1546,10 +1599,10 @@
               "Warm tea in a thermos is the best companion."
             ],
             "fr": [
-              "Portez des gants thermiques contre le vent froid de la course.",
-              "La luminosité change rapidement en hiver après 16h00.",
-              "Certaines sections de la piste cyclable peuvent être glissantes en cas de gel.",
-              "Du thé chaud dans un thermos est le meilleur compagnon."
+              "Portez des gants thermiques contre le vent froid en roulant.",
+              "Les conditions de lumière changent rapidement en hiver après 16h.",
+              "Certaines sections de la piste peuvent être glissantes en cas de gel.",
+              "Un thé chaud dans un thermos est le meilleur compagnon."
             ]
           }
         }
@@ -1568,7 +1621,8 @@
             "de": "Zentrum von Orléans",
             "hu": "Orléans központja",
             "ro": "Centrul orașului Orléans",
-            "en": "Orléans Center"
+            "en": "Orléans Center",
+            "fr": "Centre d'Orléans"
           },
           "coords": [
             1.9093,
@@ -1592,7 +1646,8 @@
             "de": "Château de Meung-sur-Loire",
             "hu": "Meung-sur-Loire kastély",
             "ro": "Castelul Meung-sur-Loire",
-            "en": "Château de Meung-sur-Loire"
+            "en": "Château de Meung-sur-Loire",
+            "fr": "Château de Meung-sur-Loire"
           },
           "coords": [
             1.693,
@@ -1616,7 +1671,8 @@
             "de": "Beaugency",
             "hu": "Beaugency",
             "ro": "Beaugency",
-            "en": "Beaugency"
+            "en": "Beaugency",
+            "fr": "Beaugency"
           },
           "coords": [
             1.631,
@@ -1640,7 +1696,8 @@
             "de": "Parc Floral de la Source",
             "hu": "Forrás Virágpark",
             "ro": "Parcul Floral de la Source",
-            "en": "Parc Floral de la Source"
+            "en": "Parc Floral de la Source",
+            "fr": "Parc Floral de la Source"
           },
           "coords": [
             1.938,
@@ -1656,7 +1713,7 @@
             "hu": "Itt ered a Loiret folyó.",
             "ro": "Aici izvorăște râul Loiret.",
             "en": "Where the Loiret river originates.",
-            "fr": "Lieu où la rivière Loiret prend sa source."
+            "fr": "Où naît la rivière Loiret."
           }
         },
         {
@@ -1664,7 +1721,8 @@
             "de": "Olivet Loiret-Ufer",
             "hu": "Olivet Loiret-part",
             "ro": "Malul Loiret la Olivet",
-            "en": "Olivet Loiret Banks"
+            "en": "Olivet Loiret Banks",
+            "fr": "Bords du Loiret à Olivet"
           },
           "coords": [
             1.895,
@@ -1680,7 +1738,7 @@
             "hu": "Romantikus csónakházak és villák a vízparton.",
             "ro": "Case de bărci romantice și vile pe malul apei.",
             "en": "Romantic boat houses and riverside villas.",
-            "fr": "Garages à bateaux romantiques et villas de bord de l'eau."
+            "fr": "Maisons-bateaux romantiques et villas au bord de l'eau."
           }
         }
       ],
@@ -1689,7 +1747,7 @@
         "hu": "Autóval fedezzük fel Orléans környékét. A központi séta után nyugat felé, a sötét múltjáról ismert Meung-sur-Loire kastélyhoz hajtunk. Ezután meglátogatjuk Beaugency bájos középkori városát. Délután a Forrás Virágparkban pihenünk, majd a napot az Olivet-ben, a Loiret folyó romantikus partján zárjuk.",
         "ro": "Descoperim împrejurimile orașului Orléans cu mașina. După o scurtă oprire în centru, mergem spre vest la castelul Meung-sur-Loire, cunoscut pentru istoria sa întunecată. Vizităm apoi fermecătorul oraș medieval Beaugency. După-amiaza ne relaxăm în Parcul Floral de la Source, înainte de a încheia ziua pe malurile romantice ale râului Loiret în Olivet.",
         "en": "We discover the surroundings of Orléans by car. After a short stop in the center, we drive west to Meung-sur-Loire castle, known for its dark history. Then we visit the charming medieval town of Beaugency. In the afternoon, we relax in the Parc Floral de la Source before ending the day on the romantic banks of the Loiret in Olivet.",
-        "fr": "Nous découvrons les environs d'Orléans en voiture. Après un court arrêt au centre, nous roulons vers l'ouest jusqu'au château de Meung-sur-Loire, connu pour son histoire sombre. Ensuite, nous visitons la charmante ville médiévale de Beaugency. L'après-midi, nous nous détendons au Parc Floral de la Source avant de terminer la journée sur les rives romantiques du Loiret à Olivet."
+        "fr": "Nous découvrons les environs d'Orléans en voiture. Après un court arrêt au centre, nous prenons la direction de l'ouest jusqu'au château de Meung-sur-Loire, connu pour son histoire sombre. Ensuite, nous visitons la charmante ville médiévale de Beaugency. L'après-midi, nous nous détendons au Parc Floral de la Source avant de finir la journée sur les rives romantiques du Loiret à Olivet."
       },
       "gastro_picks": {
         "de": [
@@ -1818,9 +1876,9 @@
           "The parks close at sunset."
         ],
         "fr": [
-          "Le stationnement en centre-ville est cher, utilisez les P+R.",
+          "Le stationnement central est cher, utilisez les P+R.",
           "Les routes de campagne le long de la Loire sont plus pittoresques.",
-          "Attention aux limitations de vitesse dans les villages.",
+          "Faites attention aux limitations de vitesse dans les villages.",
           "Les parcs ferment au coucher du soleil."
         ]
       },
@@ -1830,7 +1888,8 @@
             "de": "Mit dem Auto entdecken wir die Umgebung von Orléans. Nach einem kurzen Stopp im Zentrum fahren wir westlich zum Schloss Meung-sur-Loire, das für seine dunkle Geschichte bekannt ist. Danach besuchen wir das charmante mittelalterliche Beaugency. Am Nachmittag entspannen wir im Parc Floral de la Source, bevor wir den Tag an den romantischen Ufern des Loiret in Olivet beenden.",
             "hu": "Autóval fedezzük fel Orléans környékét. A központi séta után nyugat felé, a sötét múltjáról ismert Meung-sur-Loire kastélyhoz hajtunk. Ezután meglátogatjuk Beaugency bájos középkori városát. Délután a Forrás Virágparkban pihenünk, majd a napot az Olivet-ben, a Loiret folyó romantikus partján zárjuk.",
             "ro": "Descoperim împrejurimile orașului Orléans cu mașina. După o scurtă oprire în centru, mergem spre vest la castelul Meung-sur-Loire, cunoscut pentru istoria sa întunecată. Vizităm apoi fermecătorul oraș medieval Beaugency. După-amiaza ne relaxăm în Parcul Floral de la Source, înainte de a încheia ziua pe malurile romantice ale râului Loiret în Olivet.",
-            "en": "We discover the surroundings of Orléans by car. After a short stop in the center, we drive west to Meung-sur-Loire castle, known for its dark history. Then we visit the charming medieval town of Beaugency. In the afternoon, we relax in the Parc Floral de la Source before ending the day on the romantic banks of the Loiret in Olivet."
+            "en": "We discover the surroundings of Orléans by car. After a short stop in the center, we drive west to Meung-sur-Loire castle, known for its dark history. Then we visit the charming medieval town of Beaugency. In the afternoon, we relax in the Parc Floral de la Source before ending the day on the romantic banks of the Loiret in Olivet.",
+            "fr": "Nous découvrons les environs d'Orléans en voiture. Après un court arrêt au centre, nous prenons la direction de l'ouest jusqu'au château de Meung-sur-Loire, connu pour son histoire sombre. Ensuite, nous visitons la charmante ville médiévale de Beaugency. L'après-midi, nous nous détendons au Parc Floral de la Source avant de finir la journée sur les rives romantiques du Loiret à Olivet."
           },
           "stops": [
             {
@@ -1838,13 +1897,15 @@
                 "de": "Zentrum von Orléans",
                 "hu": "Orléans központja",
                 "ro": "Centrul orașului Orléans",
-                "en": "Orléans Center"
+                "en": "Orléans Center",
+                "fr": "Centre d'Orléans"
               },
               "tip_5lang": {
                 "de": "Parken Sie im Parkhaus Martroi.",
                 "hu": "Parkoljon a Martroi mélygarázsban.",
                 "ro": "Parcați în parcarea Martroi.",
-                "en": "Park in the Martroi underground parking."
+                "en": "Park in the Martroi underground parking.",
+                "fr": "Garez-vous dans le parking souterrain du Martroi."
               }
             },
             {
@@ -1852,13 +1913,15 @@
                 "de": "Château de Meung-sur-Loire",
                 "hu": "Meung-sur-Loire kastély",
                 "ro": "Castelul Meung-sur-Loire",
-                "en": "Château de Meung-sur-Loire"
+                "en": "Château de Meung-sur-Loire",
+                "fr": "Château de Meung-sur-Loire"
               },
               "tip_5lang": {
                 "de": "Einst Residenz der Bischöfe von Orléans.",
                 "hu": "Egykor az orléans-i püspökök rezidenciája volt.",
                 "ro": "Fostă reședință a episcopilor de Orléans.",
-                "en": "Former residence of the Bishops of Orléans."
+                "en": "Former residence of the Bishops of Orléans.",
+                "fr": "Ancienne résidence des évêques d'Orléans."
               }
             },
             {
@@ -1866,13 +1929,15 @@
                 "de": "Beaugency",
                 "hu": "Beaugency",
                 "ro": "Beaugency",
-                "en": "Beaugency"
+                "en": "Beaugency",
+                "fr": "Beaugency"
               },
               "tip_5lang": {
                 "de": "Mittelalterliche Stadt mit einer berühmten Brücke.",
                 "hu": "Középkori város híres híddal.",
                 "ro": "Oraș medieval cu un pod faimos.",
-                "en": "Medieval town with a famous bridge."
+                "en": "Medieval town with a famous bridge.",
+                "fr": "Ville médiévale avec un pont célèbre."
               }
             },
             {
@@ -1880,13 +1945,15 @@
                 "de": "Parc Floral de la Source",
                 "hu": "Forrás Virágpark",
                 "ro": "Parcul Floral de la Source",
-                "en": "Parc Floral de la Source"
+                "en": "Parc Floral de la Source",
+                "fr": "Parc Floral de la Source"
               },
               "tip_5lang": {
                 "de": "Hier entspringt die Loiret.",
                 "hu": "Itt ered a Loiret folyó.",
                 "ro": "Aici izvorăște râul Loiret.",
-                "en": "Where the Loiret river originates."
+                "en": "Where the Loiret river originates.",
+                "fr": "Où naît la rivière Loiret."
               }
             },
             {
@@ -1894,13 +1961,15 @@
                 "de": "Olivet Loiret-Ufer",
                 "hu": "Olivet Loiret-part",
                 "ro": "Malul Loiret la Olivet",
-                "en": "Olivet Loiret Banks"
+                "en": "Olivet Loiret Banks",
+                "fr": "Bords du Loiret à Olivet"
               },
               "tip_5lang": {
                 "de": "Romantische Bootsfahrten und Villen am Wasser.",
                 "hu": "Romantikus csónakházak és villák a vízparton.",
                 "ro": "Case de bărci romantice și vile pe malul apei.",
-                "en": "Romantic boat houses and riverside villas."
+                "en": "Romantic boat houses and riverside villas.",
+                "fr": "Maisons-bateaux romantiques et villas au bord de l'eau."
               }
             }
           ],
@@ -2010,6 +2079,12 @@
               "The country roads along the Loire are more scenic.",
               "Watch out for speed limits in villages.",
               "The parks close at sunset."
+            ],
+            "fr": [
+              "Le stationnement central est cher, utilisez les P+R.",
+              "Les routes de campagne le long de la Loire sont plus pittoresques.",
+              "Faites attention aux limitations de vitesse dans les villages.",
+              "Les parcs ferment au coucher du soleil."
             ]
           }
         },
@@ -2019,7 +2094,7 @@
             "hu": "Száraz autóban indul a túra Orléans központjából. Délben a Meung-sur-Loire kastély tökéletes fedett program esőben. Ezután Beaugency-t fedezzük fel, ahol az autó mobil menedékként szolgál. Délután a Parc Floral következik, majd a nap Olivetben, a Loiret partján zárul hangulatosan.",
             "ro": "Turul începe în centrul orașului Orléans, în confortul mașinii. La prânz, Castelul Meung-sur-Loire oferă o experiență perfectă la interior pe ploaie. Apoi explorăm Beaugency, mașina fiind un adăpost mobil. După-amiaza vizităm Parc Floral, înainte de a încheia ziua pe malul râului Loiret în Olivet.",
             "en": "The tour starts in Orléans center from the dry comfort of your car. At noon, Meung-sur-Loire Castle offers a perfect indoor experience during rain. Next, explore Beaugency, using the car as a mobile shelter. Afternoon is spent at Parc Floral, before a cozy end by the Loiret banks in Olivet.",
-            "fr": "Le tour commence au centre d'Orléans dans le confort sec de votre voiture. À midi, le château de Meung-sur-Loire offre une expérience intérieure parfaite sous la pluie. Ensuite, explorez Beaugency, en utilisant la voiture comme abri mobile. L'après-midi se passe au Parc Floral, avant une fin de journée douillette au bord du Loiret à Olivet."
+            "fr": "La visite commence au centre d'Orléans dans le confort sec de votre voiture. À midi, le château de Meung-sur-Loire offre une expérience intérieure parfaite sous la pluie. Ensuite, explorez Beaugency en utilisant la voiture comme abri mobile. L'après-midi se passe au Parc Floral, avant une fin cosy sur les berges du Loiret à Olivet."
           },
           "stops": [
             {
@@ -2029,7 +2104,7 @@
                 "hu": "Parkoljon a Martroi mélygarázsban, hogy szárazon jusson a központba.",
                 "ro": "Parcați în parcarea Martroi pentru a ajunge uscat în centru.",
                 "en": "Park in the Martroi underground lot to reach the center dry.",
-                "fr": "Garez-vous au parking souterrain Martroi pour rejoindre le centre au sec."
+                "fr": "Garez-vous dans le parking souterrain du Martroi pour atteindre le centre au sec."
               }
             },
             {
@@ -2039,7 +2114,7 @@
                 "hu": "A kiterjedt föld alatti járatok teljesen esőbiztosak.",
                 "ro": "Culoarele subterane vaste sunt absolut protejate de ploaie.",
                 "en": "The extensive underground passages are completely rain-proof.",
-                "fr": "Les vastes passages souterrains sont totalement à l'abri de la pluie."
+                "fr": "Les vasts passages souterrains sont totalement étanches à la pluie."
               }
             },
             {
@@ -2049,7 +2124,7 @@
                 "hu": "Hajtson el a Place Dunois-ig, hogy rövid úton elérje a látnivalókat.",
                 "ro": "Conduceți până în Place Dunois pentru acces rapid la atracții.",
                 "en": "Drive to Place Dunois for short walks to the sights.",
-                "fr": "Roulez jusqu'à la Place Dunois pour de courtes marches vers les monuments."
+                "fr": "Rendez-vous Place Dunois pour de courtes promenades vers les sites."
               }
             },
             {
@@ -2059,7 +2134,7 @@
                 "hu": "A lepkeház csodálatosan meleg és száraz helyszín.",
                 "ro": "Casa fluturilor este un loc minunat, cald și uscat.",
                 "en": "The butterfly house is a wonderfully warm and dry spot.",
-                "fr": "La serre aux papillons est un endroit merveilleusement chaud et sec."
+                "fr": "La maison des papillons est un endroit merveilleusement chaud et sec."
               }
             },
             {
@@ -2069,7 +2144,7 @@
                 "hu": "Élvezze a folyóra nyíló kilátást az egyik vízparti étteremből.",
                 "ro": "Bucurați-vă de vederea la râu dintr-un restaurant de pe mal.",
                 "en": "Enjoy the river view from one of the waterside restaurants.",
-                "fr": "Profitez de la vue sur la rivière depuis l'un des restaurants au bord de l'eau."
+                "fr": "Profitez de la vue sur la rivière depuis l'un des restaurants en bord d'eau."
               }
             }
           ],
@@ -2099,10 +2174,10 @@
               "Check tire pressure before long drives in wet conditions."
             ],
             "fr": [
-              "Utilisez les parkings souterrains du centre pour un départ au sec.",
-              "Les routes de campagne le long de la Loire peuvent être glissantes sous une forte pluie.",
-              "De nombreux châteaux proposent des visites intérieures spéciales en cas de pluie.",
-              "Vérifiez la pression des pneus avant de longs trajets sur sol mouillé."
+              "Utilisez le parking souterrain du centre pour un départ à l'abri.",
+              "Les routes de campagne le long de la Loire peuvent être glissantes par fortes pluies.",
+              "Beaux nombreux châteaux proposent des visites intérieures spéciales en cas de pluie.",
+              "Vérifiez la pression des pneus avant les longs trajets par temps humide."
             ]
           }
         },
@@ -2112,7 +2187,7 @@
             "hu": "A téli autós kirándulás a fagyos Orléans-ban indul. Délben a Meung-sur-Loire kastély történelme melegít fel. Beaugency téli nyugalmát rövid megállókkal élvezhetjük. A Parc Floralban a friss levegőn sétálhatunk, majd Olivetben egy meleg ital mellett nézzük a naplementét a Loiret felett.",
             "ro": "O excursie de iarnă cu mașina începe în Orléans-ul înghețat. La prânz, istoria Castelului Meung-sur-Loire vă va încălzi. Beaugency se dezvăluie într-o liniște hibernală, ideală pentru opriri scurte. În Parc Floral savurați aerul curat, înainte de a urmări apusul peste Loiret în Olivet cu o băutură caldă.",
             "en": "A winter road trip starts in frosty Orléans. At noon, history warms you up at Meung-sur-Loire Castle. Beaugency shows its winter peace, ideal for short stops. Enjoy the crisp air at Parc Floral before watching the sunset over the Loiret in Olivet with a warm drink.",
-            "fr": "Un road trip hivernal commence dans Orléans givrée. À midi, l'histoire vous réchauffe au château de Meung-sur-Loire. Beaugency montre son calme hivernal, idéal pour de courts arrêts. Profitez de l'air vif au Parc Floral avant de regarder le coucher du soleil sur le Loiret à Olivet avec une boisson chaude."
+            "fr": "Un road‑trip hivernal commence dans l’Orléans givré. À midi, l’histoire vous réchauffe au château de Meung‑sur‑Loire. Beaugency offre sa paix hivernale, idéale pour de courts arrêts. Profitez de l’air vif au Parc Floral avant d’admirer le coucher de soleil sur le Loiret à Olivet avec une boisson chaude."
           },
           "stops": [
             {
@@ -2122,7 +2197,7 @@
                 "hu": "Használja az állóhelyzeti fűtést a meleg induláshoz, ha van.",
                 "ro": "Folosiți încălzirea auxiliară pentru un start călduros, dacă aveți.",
                 "en": "Use the auxiliary heater for a warm start if available.",
-                "fr": "Utilisez le chauffage auxiliaire pour un départ au chaud si disponible."
+                "fr": "Utilisez le chauffage auxiliaire pour un démarrage chaud si disponible."
               }
             },
             {
@@ -2132,7 +2207,7 @@
                 "hu": "Látogassa meg a történelmi konyhát, gyakran ég ott a tűz a kandallóban.",
                 "ro": "Vizitați bucătăria istorică, adesea acolo arde focul în șemineu.",
                 "en": "Visit the historic kitchen, often a fire is burning in the hearth.",
-                "fr": "Visitez la cuisine historique, souvent un feu brûle dans l'âtre."
+                "fr": "Visitez la cuisine historique, souvent un feu brûle dans l’âtre."
               }
             },
             {
@@ -2142,7 +2217,7 @@
                 "hu": "Az ingyenes folyóparti parkolás remek kilátást nyújt a hídra.",
                 "ro": "Parcarea gratuită de pe mal oferă o vedere superbă spre pod.",
                 "en": "Free riverside parking offers a great view of the bridge.",
-                "fr": "Le parking gratuit au bord de l'eau offre une vue imprenable sur le pont."
+                "fr": "Le stationnement gratuit au bord de la rivière offre une belle vue sur le pont."
               }
             },
             {
@@ -2162,7 +2237,7 @@
                 "hu": "Olivet éttermei télen különösen hangulatosan vannak kivilágítva.",
                 "ro": "Restaurantele din Olivet sunt iluminate foarte primitor iarna.",
                 "en": "Restaurants in Olivet are lit very cozily in winter.",
-                "fr": "Les restaurants d'Olivet sont éclairés de manière très chaleureuse en hiver."
+                "fr": "Les restaurants d’Olivet sont très cosy en hiver."
               }
             }
           ],
@@ -2192,10 +2267,10 @@
               "Darkness sets in by 5:00 PM in December."
             ],
             "fr": [
-              "Attention au verglas sur les ponts traversant la Loire.",
-              "Gardez un grattoir et de l'antigel dans la voiture.",
-              "Les parkings des châteaux sont généralement gratuits près de l'entrée en hiver.",
-              "L'obscurité s'installe dès 17h00 en décembre."
+              "Attention au verglas sur les ponts au‑dessus de la Loire.",
+              "Gardez un grattoir et de l’antigel dans la voiture.",
+              "Les parkings des châteaux sont généralement gratuits, juste à l’entrée en hiver.",
+              "L’obscurité tombe vers 17h00 en décembre."
             ]
           }
         }
@@ -2214,7 +2289,8 @@
             "de": "Place du Martroi (Tram A/B)",
             "hu": "Place du Martroi (Tram A/B)",
             "ro": "Place du Martroi (Tram A/B)",
-            "en": "Place du Martroi (Tram A/B)"
+            "en": "Place du Martroi (Tram A/B)",
+            "fr": "Place du Martroi (Tram A/B)"
           },
           "coords": [
             1.9093,
@@ -2230,7 +2306,7 @@
             "hu": "Mindkét villamosvonal csomópontja.",
             "ro": "Nodul ambelor linii de tramvai.",
             "en": "Hub for both tram lines.",
-            "fr": "Point de correspondance pour les deux lignes de tramway."
+            "fr": "Pôle pour les deux lignes de tram."
           }
         },
         {
@@ -2238,7 +2314,8 @@
             "de": "Cathédrale (Tram B)",
             "hu": "Katedrális (Tram B)",
             "ro": "Catedrala (Tram B)",
-            "en": "Cathedral (Tram B)"
+            "en": "Cathedral (Tram B)",
+            "fr": "Cathédrale (Tram B)"
           },
           "coords": [
             1.9142,
@@ -2254,7 +2331,7 @@
             "hu": "A megálló közvetlenül a főutca előtt van.",
             "ro": "Stația este chiar în fața străzii principale.",
             "en": "The stop is right in front of the main street.",
-            "fr": "L'arrêt se trouve juste devant l'artère principale."
+            "fr": "L’arrêt est juste devant la grande rue."
           }
         },
         {
@@ -2262,7 +2339,8 @@
             "de": "FRAC Centre",
             "hu": "FRAC Központ",
             "ro": "FRAC Centre",
-            "en": "FRAC Centre"
+            "en": "FRAC Centre",
+            "fr": "FRAC Centre"
           },
           "coords": [
             1.902,
@@ -2286,7 +2364,8 @@
             "de": "Parc Floral (Tram A)",
             "hu": "Parc Floral (Tram A)",
             "ro": "Parc Floral (Tram A)",
-            "en": "Parc Floral (Tram A)"
+            "en": "Parc Floral (Tram A)",
+            "fr": "Parc Floral (Tram A)"
           },
           "coords": [
             1.938,
@@ -2310,7 +2389,8 @@
             "de": "Quais de la Loire (Tram A)",
             "hu": "Loire-rakpart (Tram A)",
             "ro": "Falezele Loarei (Tram A)",
-            "en": "Loire Quays (Tram A)"
+            "en": "Loire Quays (Tram A)",
+            "fr": "Quais de la Loire (Tram A)"
           },
           "coords": [
             1.91,
@@ -2326,7 +2406,7 @@
             "hu": "Esti hangulat közvetlenül a Royale-Châtelet megállónál.",
             "ro": "Atmosferă de seară direct la stația Royale-Châtelet.",
             "en": "Evening atmosphere right at Royale-Châtelet stop.",
-            "fr": "Ambiance de soirée juste à l'arrêt Royale-Châtelet."
+            "fr": "Ambiance du soir juste à l’arrêt Royale‑Châtelet."
           }
         }
       ],
@@ -2335,7 +2415,7 @@
         "hu": "A modern villamoshálózatnak köszönhetően kényelmesen fedezzük fel Orléans-t északról délre. A Martroi téren kezdünk, majd a katedrálishoz utazunk. Ezután meglátogatjuk az építészetileg látványos FRAC központot. Egy déli kirándulás az A vonallal a Parc Floralhoz visz minket. Késő délután visszatérünk a központba, és a Loire-partot a Royale-Châtelet megállónál élvezzük.",
         "ro": "Datorită rețelei moderne de tramvai, explorăm Orléans confortabil de la nord la sud. Începem în Piața Martroi și mergem la catedrală. Vizităm apoi centrul FRAC, spectaculos din punct de vedere arhitectural. O excursie în sud ne duce cu linia A la Parc Floral. Mai târziu ne întoarcem în centru și ne bucurăm de malurile Loarei chiar lângă stația Royale-Châtelet.",
         "en": "Thanks to the modern tram network, we explore Orléans comfortably from north to south. We start at Martroi Square and travel to the cathedral. Then we visit the architecturally spectacular FRAC center. A trip south takes us on Line A to Parc Floral. Late afternoon, we return to the center and enjoy the Loire banks right by the Royale-Châtelet stop.",
-        "fr": "Grâce au réseau de tramway moderne, nous explorons Orléans confortablement du nord au sud. Nous commençons à la Place du Martroi et nous rendons à la cathédrale. Ensuite, nous visitons le Centre FRAC, à l'architecture spectaculaire. Une escapade vers le sud nous emmène sur la Ligne A jusqu'au Parc Floral. En fin d'après-midi, nous revenons au centre et profitons des bords de Loire juste à l'arrêt Royale-Châtelet."
+        "fr": "Grâce au réseau de tram moderne, nous explorons Orléans confortablement du nord au sud. Nous commençons à la place du Martroi et rejoignons la cathédrale. Puis nous visitons le FRAC, spectaculaire sur le plan architectural. Un trajet vers le sud nous mène sur la ligne A jusqu’au Parc Floral. En fin d’après‑midi, nous revenons au centre et profitons des quais de la Loire, juste à l’arrêt Royale‑Châtelet."
       },
       "gastro_picks": {
         "de": [
@@ -2465,8 +2545,8 @@
         ],
         "fr": [
           "Achetez un ticket 24h pour le réseau TAO.",
-          "Les trams circulent très fréquemment.",
-          "Validez votre ticket en montant.",
+          "Les trams passent très fréquemment.",
+          "Validez votre titre de transport à la montée.",
           "La ligne A relie le centre au campus universitaire."
         ]
       },
@@ -2476,7 +2556,8 @@
             "de": "Dank des modernen Straßenbahnnetzes erkunden wir Orléans bequem von Nord nach Süd. Wir beginnen am Martroi-Platz und fahren zur Kathedrale. Danach besuchen wir das architektonisch spektakuläre FRAC-Zentrum. Ein Ausflug in den Süden führt uns mit der Linie A zum Parc Floral. Am späten Nachmittag kehren wir ins Zentrum zurück und genießen die Loire-Ufer direkt an der Haltestelle Royale-Châtelet.",
             "hu": "A modern villamoshálózatnak köszönhetően kényelmesen fedezzük fel Orléans-t északról délre. A Martroi téren kezdünk, majd a katedrálishoz utazunk. Ezután meglátogatjuk az építészetileg látványos FRAC központot. Egy déli kirándulás az A vonallal a Parc Floralhoz visz minket. Késő délután visszatérünk a központba, és a Loire-partot a Royale-Châtelet megállónál élvezzük.",
             "ro": "Datorită rețelei moderne de tramvai, explorăm Orléans confortabil de la nord la sud. Începem în Piața Martroi și mergem la catedrală. Vizităm apoi centrul FRAC, spectaculos din punct de vedere arhitectural. O excursie în sud ne duce cu linia A la Parc Floral. Mai târziu ne întoarcem în centru și ne bucurăm de malurile Loarei chiar lângă stația Royale-Châtelet.",
-            "en": "Thanks to the modern tram network, we explore Orléans comfortably from north to south. We start at Martroi Square and travel to the cathedral. Then we visit the architecturally spectacular FRAC center. A trip south takes us on Line A to Parc Floral. Late afternoon, we return to the center and enjoy the Loire banks right by the Royale-Châtelet stop."
+            "en": "Thanks to the modern tram network, we explore Orléans comfortably from north to south. We start at Martroi Square and travel to the cathedral. Then we visit the architecturally spectacular FRAC center. A trip south takes us on Line A to Parc Floral. Late afternoon, we return to the center and enjoy the Loire banks right by the Royale-Châtelet stop.",
+            "fr": "Grâce au réseau de tram moderne, nous explorons Orléans confortablement du nord au sud. Nous commençons à la place du Martroi et rejoignons la cathédrale. Puis nous visitons le FRAC, spectaculaire sur le plan architectural. Un trajet vers le sud nous mène sur la ligne A jusqu’au Parc Floral. En fin d’après‑midi, nous revenons au centre et profitons des quais de la Loire, juste à l’arrêt Royale‑Châtelet."
           },
           "stops": [
             {
@@ -2484,13 +2565,15 @@
                 "de": "Place du Martroi (Tram A/B)",
                 "hu": "Place du Martroi (Tram A/B)",
                 "ro": "Place du Martroi (Tram A/B)",
-                "en": "Place du Martroi (Tram A/B)"
+                "en": "Place du Martroi (Tram A/B)",
+                "fr": "Place du Martroi (Tram A/B)"
               },
               "tip_5lang": {
                 "de": "Knotenpunkt beider Straßenbahnlinien.",
                 "hu": "Mindkét villamosvonal csomópontja.",
                 "ro": "Nodul ambelor linii de tramvai.",
-                "en": "Hub for both tram lines."
+                "en": "Hub for both tram lines.",
+                "fr": "Pôle pour les deux lignes de tram."
               }
             },
             {
@@ -2498,13 +2581,15 @@
                 "de": "Cathédrale (Tram B)",
                 "hu": "Katedrális (Tram B)",
                 "ro": "Catedrala (Tram B)",
-                "en": "Cathedral (Tram B)"
+                "en": "Cathedral (Tram B)",
+                "fr": "Cathédrale (Tram B)"
               },
               "tip_5lang": {
                 "de": "Die Haltestelle liegt direkt vor der Hauptstraße.",
                 "hu": "A megálló közvetlenül a főutca előtt van.",
                 "ro": "Stația este chiar în fața străzii principale.",
-                "en": "The stop is right in front of the main street."
+                "en": "The stop is right in front of the main street.",
+                "fr": "L’arrêt est juste devant la grande rue."
               }
             },
             {
@@ -2512,13 +2597,15 @@
                 "de": "FRAC Centre",
                 "hu": "FRAC Központ",
                 "ro": "FRAC Centre",
-                "en": "FRAC Centre"
+                "en": "FRAC Centre",
+                "fr": "FRAC Centre"
               },
               "tip_5lang": {
                 "de": "Zeitgenössische Architektur in den alten Militärbaracken.",
                 "hu": "Kortárs építészet a régi katonai barakkokban.",
                 "ro": "Arhitectură contemporană în vechile barăci militare.",
-                "en": "Contemporary architecture in the old military barracks."
+                "en": "Contemporary architecture in the old military barracks.",
+                "fr": "Architecture contemporaine dans les anciennes casernes militaires."
               }
             },
             {
@@ -2526,13 +2613,15 @@
                 "de": "Parc Floral (Tram A)",
                 "hu": "Parc Floral (Tram A)",
                 "ro": "Parc Floral (Tram A)",
-                "en": "Parc Floral (Tram A)"
+                "en": "Parc Floral (Tram A)",
+                "fr": "Parc Floral (Tram A)"
               },
               "tip_5lang": {
                 "de": "Endstation der Linie A im Süden.",
                 "hu": "Az A vonal déli végállomása.",
                 "ro": "Capătul liniei A în sud.",
-                "en": "Terminus of line A in the south."
+                "en": "Terminus of line A in the south.",
+                "fr": "Terminus de la ligne A au sud."
               }
             },
             {
@@ -2540,13 +2629,15 @@
                 "de": "Quais de la Loire (Tram A)",
                 "hu": "Loire-rakpart (Tram A)",
                 "ro": "Falezele Loarei (Tram A)",
-                "en": "Loire Quays (Tram A)"
+                "en": "Loire Quays (Tram A)",
+                "fr": "Quais de la Loire (Tram A)"
               },
               "tip_5lang": {
                 "de": "Abendstimmung direkt an der Haltestelle Royale-Châtelet.",
                 "hu": "Esti hangulat közvetlenül a Royale-Châtelet megállónál.",
                 "ro": "Atmosferă de seară direct la stația Royale-Châtelet.",
-                "en": "Evening atmosphere right at Royale-Châtelet stop."
+                "en": "Evening atmosphere right at Royale-Châtelet stop.",
+                "fr": "Ambiance du soir juste à l’arrêt Royale‑Châtelet."
               }
             }
           ],
@@ -2656,6 +2747,12 @@
               "Trams run very frequently.",
               "Validate your ticket when boarding.",
               "Line A connects the center with the university campus."
+            ],
+            "fr": [
+              "Achetez un ticket 24h pour le réseau TAO.",
+              "Les trams passent très fréquemment.",
+              "Validez votre titre de transport à la montée.",
+              "La ligne A relie le centre au campus universitaire."
             ]
           }
         },
@@ -2665,7 +2762,7 @@
             "hu": "Villamossal szárazon utazhatunk át Orléans-on. Délben a székesegyház (B vonal), majd a modern FRAC Centre ad menedéket. Délután az A vonal visz a Parc Floralhoz, ahol az üvegházak várnak. A napot a Loire-parton zárjuk, a villamosmegállók fedettek, így védelmet nyújtanak esőben is.",
             "ro": "Cu tramvaiul puteți traversa Orléans fără a vă uda. La prânz, Catedrala (linia B) și modernul FRAC Centre oferă adăpost. După-amiaza, linia A vă duce la Parc Floral, unde atrag serele. Încheiați ziua pe cheiurile Loarei, stațiile de tramvai fiind adesea acoperite și oferind protecție.",
             "en": "Travel dry through Orléans by tram. At noon, the Cathedral (Line B) and the modern FRAC Centre provide cover. Afternoon takes you via Line A to Parc Floral and its greenhouses. End the day at the Loire Quays, where tram stops are mostly covered and offer shelter.",
-            "fr": "Voyagez au sec à travers Orléans en tramway. À midi, la Cathédrale (Ligne B) et le Centre FRAC moderne offrent un abri. L'après-midi vous emmène via la Ligne A au Parc Floral et ses serres. Terminez la journée sur les quais de Loire, où les arrêts de tram sont pour la plupart couverts."
+            "fr": "Partez au sec dans Orléans en tram. À midi, la cathédrale (ligne B) et le moderne FRAC Centre offrent un abri. L’après‑midi vous emmène via la ligne A au Parc Floral et ses serres. Terminez la journée aux quais de la Loire, où les arrêts de tram sont pour la plupart couverts et offrent un refuge."
           },
           "stops": [
             {
@@ -2675,7 +2772,7 @@
                 "hu": "A várótermek jó védelmet nyújtanak a szél és az eső ellen.",
                 "ro": "Stațiile de tramvai oferă o bună protecție împotriva vântului și ploii.",
                 "en": "The tram shelters offer good protection from wind and rain.",
-                "fr": "Les abris de tram offrent une bonne protection contre le vent et la pluie."
+                "fr": "Les abris de tram protègent bien du vent et de la pluie."
               }
             },
             {
@@ -2685,7 +2782,7 @@
                 "hu": "Csak egy rövid sprint a villamosmegállótól a templombejáratig.",
                 "ro": "Doar un scurt sprint de la stația de tramvai până la intrarea în biserică.",
                 "en": "Just a short sprint from the tram stop to the church entrance.",
-                "fr": "Juste un court sprint de l'arrêt de tram à l'entrée de l'église."
+                "fr": "Juste un court sprint de l’arrêt de tram à l’entrée de l’église."
               }
             },
             {
@@ -2695,7 +2792,7 @@
                 "hu": "Kortárs építészet, amely teljesen bentről élvezhető.",
                 "ro": "Arhitectură contemporană care poate fi explorată complet la interior.",
                 "en": "Contemporary architecture that can be experienced entirely indoors.",
-                "fr": "Une architecture contemporaine qui peut se découvrir entièrement à l'intérieur."
+                "fr": "Architecture contemporaine à découvrir entièrement à l’intérieur."
               }
             },
             {
@@ -2705,7 +2802,7 @@
                 "hu": "A villamosról leszállva csak pár lépés a főbejárat.",
                 "ro": "De la stația de tramvai sunt doar câțiva pași până la intrarea principală.",
                 "en": "It's just a few steps from the tram stop to the main entrance.",
-                "fr": "Il n'y a que quelques pas de l'arrêt de tram à l'entrée principale."
+                "fr": "Il n’y a que quelques pas de l’arrêt de tram à l’entrée principale."
               }
             },
             {
@@ -2715,7 +2812,7 @@
                 "hu": "Használja a 'Tao' alkalmazást a várakozási idők szárazon való ellenőrzéséhez.",
                 "ro": "Folosiți aplicația 'Tao' pentru a verifica timpii de așteptare la adăpost.",
                 "en": "Use the 'Tao' app to check waiting times while staying dry.",
-                "fr": "Utilisez l'application 'Tao' pour vérifier les temps d'attente tout en restant au sec."
+                "fr": "Utilisez l’application « Tao » pour vérifier les temps d’attente tout en restant au sec."
               }
             }
           ],
@@ -2745,9 +2842,9 @@
               "Many stops have digital displays for the next departures."
             ],
             "fr": [
-              "Achetez vos tickets à l'avance via l'application pour éviter d'attendre sous la pluie aux distributeurs.",
-              "Les trams à Orléans sont très ponctuels et propres.",
-              "Utilisez le point de transfert 'De Gaulle' entre les lignes A et B.",
+              "Achetez vos billets à l’avance via l’application pour éviter de faire la queue sous la pluie aux distributeurs.",
+              "Les trams d’Orléans sont très ponctuels et propres.",
+              "Utilisez la correspondance « De Gaulle » entre les lignes A et B.",
               "De nombreux arrêts ont des affichages numériques pour les prochains départs."
             ]
           }
@@ -2758,7 +2855,7 @@
             "hu": "Jól fűtött villamosok visznek kényelmesen a téli Orléans-on keresztül. Délben a székesegyházban melegedhetünk fel, majd a FRAC Centre modern művészete következik. Délután a villamos a Parc Floralhoz visz, ahol téli csend honol. A nap a kivilágított Loire-parton zárul, mely gyorsan elérhető az A vonallal.",
             "ro": "Tramvaiele bine încălzite vă poartă confortabil prin Orléans-ul hibernal. La prânz vă încălziți în Catedrală, urmată de arta modernă de la FRAC Centre. După-amiaza, drumul vă duce la Parc Floral, unde domnește liniștea iernii. Ziua se încheie pe cheiurile iluminate ale Loarei, accesibile rapid cu linia A.",
             "en": "Well-heated trams carry you comfortably through wintery Orléans. At noon, warm up in the Cathedral, followed by modern art at the FRAC Centre. Afternoon takes you to Parc Floral, where winter silence prevails. The day ends at the illuminated Loire Quays, quickly reached via Line A.",
-            "fr": "Des trams bien chauffés vous transportent confortablement à travers Orléans hivernale. À midi, réchauffez-vous dans la Cathédrale, puis découvrez l'art moderne au Centre FRAC. L'après-midi vous emmène au Parc Floral, où règne le silence hivernal. La journée se termine sur les quais de Loire illuminés, rapidement accessibles via la Ligne A."
+            "fr": "Des trams bien chauffés vous transportent confortablement dans l’Orléans hivernal. À midi, réchauffez‑vous dans la cathédrale, suivi d’art moderne au FRAC Centre. L’après‑midi vous conduit au Parc Floral, où le silence hivernal règne. La journée se termine aux quais de la Loire illuminés, rapidement accessibles via la ligne A."
           },
           "stops": [
             {
@@ -2778,7 +2875,7 @@
                 "hu": "Az üvegablakok a hideg téli fényben különösen tisztának tűnnek.",
                 "ro": "Vitraliile par deosebit de clare în lumina rece de iarnă.",
                 "en": "The stained glass windows look particularly clear in the cold winter light.",
-                "fr": "Les vitraux semblent particulièrement clairs sous la froide lumière d'hiver."
+                "fr": "Les vitraux apparaissent particulièrement clairs sous la lumière froide de l’hiver."
               }
             },
             {
@@ -2788,7 +2885,7 @@
                 "hu": "Meleg hely az innovatív építészet és művészet élvezetéhez.",
                 "ro": "Un loc călduros pentru a savura arhitectura și arta inovatoare.",
                 "en": "A warm place to enjoy innovative architecture and art.",
-                "fr": "Un endroit chaud pour apprécier l'architecture et l'art innovants."
+                "fr": "Un lieu chaleureux pour apprécier l’architecture innovante et l’art."
               }
             },
             {
@@ -2808,7 +2905,7 @@
                 "hu": "A megállóvilágítás 17 órától biztonságot és hangulatot áraszt.",
                 "ro": "Iluminatul stației oferă siguranță și atmosferă după ora 17:00.",
                 "en": "Stop lighting provides safety and atmosphere after 5 PM.",
-                "fr": "L'éclairage de l'arrêt assure sécurité et ambiance après 17h00."
+                "fr": "L’éclairage des arrêts apporte sécurité et ambiance après 17h."
               }
             }
           ],
@@ -2838,10 +2935,10 @@
               "Near the stops, you can often find small bakeries for warm snacks."
             ],
             "fr": [
-              "Les trams circulent selon l'horaire régulier en hiver.",
-              "Utilisez les informations horaires Tao pour les données en temps réel.",
+              "Les trams circulent selon l’horaire habituel en hiver.",
+              "Utilisez les informations d’horaires Tao pour des données en temps réel.",
               "Les rames sont généralement bien climatisées et protègent du gel.",
-              "Près des arrêts, on trouve souvent de petites boulangeries pour des en-cas chauds."
+              "Près des arrêts, vous trouverez souvent de petites boulangeries pour des snacks chauds."
             ]
           }
         }

@@ -21,7 +21,8 @@
             "de": "Escalier Monumental",
             "hu": "Monumentális lépcsősor",
             "ro": "Scara Monumentală",
-            "en": "Monumental Staircase"
+            "en": "Monumental Staircase",
+            "fr": "Monumental Staircase"
           },
           "coords": [
             0.5858,
@@ -36,7 +37,8 @@
             "de": "Zählen Sie die 354 Stufen auf dem Weg nach oben.",
             "hu": "Számolja meg mind a 354 lépcsőfokot felfelé menet.",
             "ro": "Numărați toate cele 354 de trepte în timp ce urcați.",
-            "en": "Count all 354 steps as you climb to the upper town."
+            "en": "Count all 354 steps as you climb to the upper town.",
+            "fr": "Comptez les 354 marches en montant vers la haute ville."
           }
         },
         {
@@ -44,7 +46,8 @@
             "de": "Statue de d'Artagnan",
             "hu": "D'Artagnan-szobor",
             "ro": "Statuia lui d'Artagnan",
-            "en": "Statue of d'Artagnan"
+            "en": "Statue of d'Artagnan",
+            "fr": "Statue of d'Artagnan"
           },
           "coords": [
             0.5865,
@@ -59,7 +62,8 @@
             "de": "Ein Muss für Fans der Drei Musketiere.",
             "hu": "Kötelező megálló a Három testőr rajongóinak.",
             "ro": "O oprire obligatorie pentru fanii celor Trei Mușchetari.",
-            "en": "A mandatory photo stop for Three Musketeers fans."
+            "en": "A mandatory photo stop for Three Musketeers fans.",
+            "fr": "Un arrêt photo incontournable pour les fans des Trois Mousquetaires."
           }
         },
         {
@@ -67,7 +71,8 @@
             "de": "Kathedrale Sainte-Marie",
             "hu": "Sainte-Marie székesegyház",
             "ro": "Catedrala Sainte-Marie",
-            "en": "Sainte-Marie Cathedral"
+            "en": "Sainte-Marie Cathedral",
+            "fr": "Sainte-Marie Cathedral"
           },
           "coords": [
             0.5855,
@@ -82,7 +87,8 @@
             "de": "Bewundern Sie das geschnitzte Chorgestühl aus Eichenholz.",
             "hu": "Csodálja meg a tölgyfából faragott kórusüléseket.",
             "ro": "Admirați stranele corului sculptate în lemn de stejar.",
-            "en": "Admire the incredibly detailed oak choir stalls."
+            "en": "Admire the incredibly detailed oak choir stalls.",
+            "fr": "Admirez les stalles de chœur en chêne d’un incroyable niveau de détail."
           }
         },
         {
@@ -90,7 +96,8 @@
             "de": "Tour d'Armagnac",
             "hu": "Armagnac-torony",
             "ro": "Turnul Armagnac",
-            "en": "Armagnac Tower"
+            "en": "Armagnac Tower",
+            "fr": "Armagnac Tower"
           },
           "coords": [
             0.5857,
@@ -105,7 +112,8 @@
             "de": "Das ehemalige Gefängnis bietet einen tollen Blick.",
             "hu": "Az egykori börtöntoronyból pazar a kilátás.",
             "ro": "Fostul turn al închisorii oferă o vedere excelentă.",
-            "en": "This former prison tower offers a commanding view."
+            "en": "This former prison tower offers a commanding view.",
+            "fr": "Cette ancienne tour-prison offre une vue dominante."
           }
         },
         {
@@ -113,7 +121,8 @@
             "de": "Les Pousterles",
             "hu": "Les Pousterles negyed",
             "ro": "Cartierul Les Pousterles",
-            "en": "Les Pousterles Lanes"
+            "en": "Les Pousterles Lanes",
+            "fr": "Les Pousterles Lanes"
           },
           "coords": [
             0.5845,
@@ -128,7 +137,8 @@
             "de": "Enge mittelalterliche Gassen mit steilen Treppen.",
             "hu": "Szűk, középkori sikátorok meredek lépcsőkkel.",
             "ro": "Străzi medievale înguste cu trepte abrupte.",
-            "en": "Narrow medieval alleys with very steep stairs."
+            "en": "Narrow medieval alleys with very steep stairs.",
+            "fr": "Ruelles médiévales étroites avec des escaliers très raides."
           }
         },
         {
@@ -136,7 +146,8 @@
             "de": "Musée des Amériques",
             "hu": "Amerika-múzeum",
             "ro": "Muzeul Americilor",
-            "en": "Museum of the Americas"
+            "en": "Museum of the Americas",
+            "fr": "Museum of the Americas"
           },
           "coords": [
             0.5848,
@@ -151,7 +162,8 @@
             "de": "Zweitgrößte Sammlung präkolumbianischer Kunst in Frankreich.",
             "hu": "Franciaország második legnagyobb prekolumbán gyűjteménye.",
             "ro": "A doua cea mai mare colecție precolumbiană din Franța.",
-            "en": "France's second-largest pre-Columbian art collection."
+            "en": "France's second-largest pre-Columbian art collection.",
+            "fr": "La deuxième plus grande collection d’art précolombien de France."
           }
         },
         {
@@ -159,7 +171,8 @@
             "de": "Allées d'Etigny",
             "hu": "Allées d'Etigny sétány",
             "ro": "Allées d'Etigny",
-            "en": "Allées d'Etigny"
+            "en": "Allées d'Etigny",
+            "fr": "Allées d'Etigny"
           },
           "coords": [
             0.5885,
@@ -174,7 +187,8 @@
             "de": "Perfekt für einen entspannten Spaziergang unter Bäumen.",
             "hu": "Tökéletes hely egy árnyas, pihentető sétához.",
             "ro": "Perfect pentru o plimbare relaxantă sub copaci.",
-            "en": "Perfect for a shaded, relaxing afternoon stroll."
+            "en": "Perfect for a shaded, relaxing afternoon stroll.",
+            "fr": "Parfaites pour une promenade ombragée et relaxante l’après-midi."
           }
         },
         {
@@ -182,7 +196,8 @@
             "de": "Hôtel de Ville",
             "hu": "Városháza",
             "ro": "Primăria",
-            "en": "Town Hall"
+            "en": "Town Hall",
+            "fr": "Town Hall"
           },
           "coords": [
             0.5891,
@@ -197,7 +212,8 @@
             "de": "Besuchen Sie das wunderschöne Theater im Inneren.",
             "hu": "Nézze meg az épületben található gyönyörű színházat.",
             "ro": "Vizitați frumosul teatru situat în interior.",
-            "en": "Visit the beautiful Italian-style theater inside."
+            "en": "Visit the beautiful Italian-style theater inside.",
+            "fr": "Visitez le beau théâtre de style italien à l’intérieur."
           }
         }
       ],
@@ -205,7 +221,8 @@
         "de": "Ihr Tag beginnt am Fuße der monumentalen Treppe, die das obere und untere Auch verbindet. Bewundern Sie die d'Artagnan-Statue, bevor Sie zur prächtigen Kathedrale aufsteigen. Nach der Erkundung der mittelalterlichen Gassen und des einzigartigen Amerika-Museums lassen Sie den Tag auf der eleganten Allées d'Etigny ausklingen.",
         "hu": "A nap az alsó és felső várost összekötő monumentális lépcsősor alján indul. Köszönjön be D'Artagnannak, majd hódítsa meg a katedrálist. A középkori sikátorok és a különleges Amerika-múzeum után az Allées d'Etigny sétány árnyas fái alatt pihenhet meg, mielőtt megcsodálná a városháza elegáns épületét.",
         "ro": "Ziua începe la baza scării monumentale care leagă orașul de jos de cel de sus. Salutați statuia lui d'Artagnan înainte de a urca spre catedrală. După explorarea străzilor medievale și a Muzeului Americilor, relaxați-vă pe Allées d'Etigny și admirați arhitectura primăriei.",
-        "en": "Your day starts at the base of the monumental stairs linking lower and upper Auch. Greet d'Artagnan's statue before ascending to the magnificent cathedral. After exploring medieval 'pousterles' and the unique Museum of the Americas, unwind on the shaded Allées d'Etigny before a final look at the elegant Town Hall."
+        "en": "Your day starts at the base of the monumental stairs linking lower and upper Auch. Greet d'Artagnan's statue before ascending to the magnificent cathedral. After exploring medieval 'pousterles' and the unique Museum of the Americas, unwind on the shaded Allées d'Etigny before a final look at the elegant Town Hall.",
+        "fr": "Votre journée commence au pied de l’escalier monumental reliant le bas et le haut d’Auch. Saluez la statue de d’Artagnan avant de monter vers la magnifique cathédrale. Après avoir exploré les « pousterles » médiévales et le Musée des Amériques, détendez-vous sur les ombragées Allées d’Etigny avant un dernier regard sur l’élégant hôtel de ville."
       },
       "gastro_picks": {
         "de": [
@@ -365,6 +382,12 @@
           "Visit the cathedral in the morning for the best interior light.",
           "Armagnac brandy makes for an excellent local souvenir.",
           "Saturday is market day when the city is most vibrant and lively."
+        ],
+        "fr": [
+          "La haute ville est escarpée, portez des chaussures de marche confortables.",
+          "Visitez la cathédrale le matin pour bénéficier du meilleur éclairage intérieur.",
+          "Le brandy d’Armagnac fait un excellent souvenir local.",
+          "Le samedi est jour de marché, quand la ville est la plus animée."
         ]
       }
     },
@@ -381,7 +404,8 @@
             "de": "Allées d'Etigny",
             "hu": "Allées d'Etigny",
             "ro": "Allées d'Etigny",
-            "en": "Allées d'Etigny"
+            "en": "Allées d'Etigny",
+            "fr": "Allées d'Etigny"
           },
           "coords": [
             0.5885,
@@ -396,7 +420,8 @@
             "de": "Breite Alleen zum einfachen Radfahren.",
             "hu": "Széles utak a könnyű tekeréshez.",
             "ro": "Bulevarde largi pentru ciclism ușor.",
-            "en": "Wide avenues perfect for easy cycling."
+            "en": "Wide avenues perfect for easy cycling.",
+            "fr": "De larges avenues parfaites pour le vélo facile."
           }
         },
         {
@@ -404,7 +429,8 @@
             "de": "Kathedrale Sainte-Marie",
             "hu": "Sainte-Marie székesegyház",
             "ro": "Catedrala Sainte-Marie",
-            "en": "Sainte-Marie Cathedral"
+            "en": "Sainte-Marie Cathedral",
+            "fr": "Sainte-Marie Cathedral"
           },
           "coords": [
             0.5855,
@@ -419,7 +445,8 @@
             "de": "Stellen Sie Ihr Rad auf dem Platz davor ab.",
             "hu": "Parkoljon le a katedrális előtti téren.",
             "ro": "Parcați bicicleta în piața din față.",
-            "en": "Park your bike in the square right in front."
+            "en": "Park your bike in the square right in front.",
+            "fr": "Garez votre vélo sur la place juste devant."
           }
         },
         {
@@ -427,7 +454,8 @@
             "de": "Tour d'Armagnac",
             "hu": "Armagnac-torony",
             "ro": "Turnul Armagnac",
-            "en": "Armagnac Tower"
+            "en": "Armagnac Tower",
+            "fr": "Armagnac Tower"
           },
           "coords": [
             0.5857,
@@ -442,7 +470,8 @@
             "de": "Kurzer Fußweg vom Kathedralplatz.",
             "hu": "Pár lépés gyalog a katedrális felől.",
             "ro": "Scurtă plimbare de la catedrală.",
-            "en": "Just a short walk from the cathedral square."
+            "en": "Just a short walk from the cathedral square.",
+            "fr": "À quelques pas de la place de la cathédrale."
           }
         },
         {
@@ -450,7 +479,8 @@
             "de": "Statue de d'Artagnan",
             "hu": "D'Artagnan-szobor",
             "ro": "Statuia lui d'Artagnan",
-            "en": "Statue of d'Artagnan"
+            "en": "Statue of d'Artagnan",
+            "fr": "Statue of d'Artagnan"
           },
           "coords": [
             0.5865,
@@ -465,7 +495,8 @@
             "de": "Die Rampe hinunterrollen zur Statue.",
             "hu": "Guruljon le a rámpán a szoborig.",
             "ro": "Coborâți pe rampă până la statuie.",
-            "en": "Roll down the ramp to reach the statue level."
+            "en": "Roll down the ramp to reach the statue level.",
+            "fr": "Descendez la rampe pour atteindre le niveau de la statue."
           }
         },
         {
@@ -473,7 +504,8 @@
             "de": "Musée des Amériques",
             "hu": "Amerika-múzeum",
             "ro": "Muzeul Americilor",
-            "en": "Museum of the Americas"
+            "en": "Museum of the Americas",
+            "fr": "Museum of the Americas"
           },
           "coords": [
             0.5848,
@@ -488,7 +520,8 @@
             "de": "Sicherer Abstellplatz am Eingang.",
             "hu": "Biztonságos tároló a bejáratnál.",
             "ro": "Loc de parcare sigur la intrare.",
-            "en": "Secure bike parking available at the entrance."
+            "en": "Secure bike parking available at the entrance.",
+            "fr": "Stationnement vélo sécurisé disponible à l’entrée."
           }
         },
         {
@@ -496,7 +529,8 @@
             "de": "Promenade am Gers",
             "hu": "Gers-parti sétány",
             "ro": "Promenada pe malul Gers",
-            "en": "Gers Riverside Path"
+            "en": "Gers Riverside Path",
+            "fr": "Gers Riverside Path"
           },
           "coords": [
             0.591,
@@ -511,7 +545,8 @@
             "de": "Flache Strecke entlang des Wassers.",
             "hu": "Lapos, vízparti szakasz a kikapcsolódáshoz.",
             "ro": "Traseu plat de-a lungul apei.",
-            "en": "A flat, scenic path along the water."
+            "en": "A flat, scenic path along the water.",
+            "fr": "Une piste plate et pittoresque le long de l’eau."
           }
         },
         {
@@ -519,7 +554,8 @@
             "de": "Hôtel de Ville",
             "hu": "Városháza",
             "ro": "Primăria",
-            "en": "Town Hall"
+            "en": "Town Hall",
+            "fr": "Town Hall"
           },
           "coords": [
             0.5891,
@@ -534,7 +570,8 @@
             "de": "Schöner Abschluss im Stadtzentrum.",
             "hu": "Szép zárópont a belvárosban.",
             "ro": "Un final frumos în centrul orașului.",
-            "en": "A grand final stop in the city center."
+            "en": "A grand final stop in the city center.",
+            "fr": "Une belle dernière étape au centre-ville."
           }
         }
       ],
@@ -542,7 +579,8 @@
         "de": "Erkunden Sie Auch auf zwei Rädern! Beginnen Sie auf den breiten Allées d'Etigny und radeln Sie hinauf zur Kathedrale. Nach dem Besuch des d'Artagnan-Denkmals und des Museums genießen Sie eine entspannte Fahrt entlang des Flusses Gers, bevor Sie das Rathaus erreichen.",
         "hu": "Fedezze fel Auch városát két keréken! Kezdjen az Allées d'Etigny tágas sétányán, majd tekerjen fel a katedrálishoz. D'Artagnan szobra és a múzeum után élvezze a Gers folyó menti sík kerékpárutat, végül csodálja meg a városháza homlokzatát.",
         "ro": "Explorați Auch pe două roți! Începeți pe bulevardele largi de la Allées d'Etigny și pedalați până la catedrală. După vizitarea monumentului lui d'Artagnan și a muzeului, bucurați-vă de o plimbare relaxantă pe malul râului Gers.",
-        "en": "Explore Auch on two wheels! Start on the broad Allées d'Etigny and pedal up to the cathedral. After visiting d'Artagnan's monument and the museum, enjoy a flat, scenic ride along the river Gers before finishing at the Town Hall."
+        "en": "Explore Auch on two wheels! Start on the broad Allées d'Etigny and pedal up to the cathedral. After visiting d'Artagnan's monument and the museum, enjoy a flat, scenic ride along the river Gers before finishing at the Town Hall.",
+        "fr": "Explorez Auch à vélo ! Commencez sur les larges Allées d’Etigny et pédalez jusqu’à la cathédrale. Après la visite du monument de d’Artagnan et du musée, profitez d’une balade plate et pittoresque le long de la rivière Gers avant de terminer à l’hôtel de ville."
       },
       "gastro_picks": {
         "de": [
@@ -650,6 +688,12 @@
           "Use the designated cycling paths along the river.",
           "Be mindful of pedestrians in narrow lanes.",
           "Always lock your bike at official racks."
+        ],
+        "fr": [
+          "La montée vers la haute ville demande une bonne condition physique.",
+          "Utilisez les pistes cyclables dédiées le long de la rivière.",
+          "Faites attention aux piétons dans les ruelles étroites.",
+          "Verrouillez toujours votre vélo aux arceaux officiels."
         ]
       }
     },
@@ -666,7 +710,8 @@
             "de": "Kathedrale Sainte-Marie (Cluster A)",
             "hu": "Sainte-Marie székesegyház (A klaszter)",
             "ro": "Catedrala Sainte-Marie (Cluster A)",
-            "en": "Sainte-Marie Cathedral (Cluster A)"
+            "en": "Sainte-Marie Cathedral (Cluster A)",
+            "fr": "Sainte-Marie Cathedral (Cluster A)"
           },
           "coords": [
             0.5855,
@@ -681,7 +726,8 @@
             "de": "Parken Sie im Parkhaus 'Place de la Libération'.",
             "hu": "Parkoljon a Place de la Libération mélygarázsban.",
             "ro": "Parcați în garajul Place de la Libération.",
-            "en": "Park at the Place de la Libération parking garage."
+            "en": "Park at the Place de la Libération parking garage.",
+            "fr": "Garez-vous au parking souterrain Place de la Libération."
           }
         },
         {
@@ -689,7 +735,8 @@
             "de": "Tour d'Armagnac (Cluster A)",
             "hu": "Armagnac-torony (A klaszter)",
             "ro": "Turnul Armagnac (Cluster A)",
-            "en": "Armagnac Tower (Cluster A)"
+            "en": "Armagnac Tower (Cluster A)",
+            "fr": "Armagnac Tower (Cluster A)"
           },
           "coords": [
             0.5857,
@@ -704,7 +751,8 @@
             "de": "Zu Fuß erreichbar vom Parkplatz.",
             "hu": "Gyalogosan elérhető a parkolótól.",
             "ro": "Accesibil pe jos din parcare.",
-            "en": "Walking distance from the main car park."
+            "en": "Walking distance from the main car park.",
+            "fr": "À distance de marche du parking principal."
           }
         },
         {
@@ -712,7 +760,8 @@
             "de": "Statue de d'Artagnan (Cluster B)",
             "hu": "D'Artagnan-szobor (B klaszter)",
             "ro": "Statuia lui d'Artagnan (Cluster B)",
-            "en": "Statue of d'Artagnan (Cluster B)"
+            "en": "Statue of d'Artagnan (Cluster B)",
+            "fr": "Statue of d'Artagnan (Cluster B)"
           },
           "coords": [
             0.5865,
@@ -727,7 +776,8 @@
             "de": "Kurze Fahrt zum unteren Parkplatz.",
             "hu": "Rövid gurulás az alsóbb parkolóig.",
             "ro": "Scurtă condusă până la parcarea de jos.",
-            "en": "Short drive to the lower riverside parking."
+            "en": "Short drive to the lower riverside parking.",
+            "fr": "Court trajet jusqu’au parking bas en bord de rivière."
           }
         },
         {
@@ -735,7 +785,8 @@
             "de": "Allées d'Etigny (Cluster B)",
             "hu": "Allées d'Etigny (B klaszter)",
             "ro": "Allées d'Etigny (Cluster B)",
-            "en": "Allées d'Etigny (Cluster B)"
+            "en": "Allées d'Etigny (Cluster B)",
+            "fr": "Allées d'Etigny (Cluster B)"
           },
           "coords": [
             0.5885,
@@ -750,7 +801,8 @@
             "de": "Bequemes Parken direkt am Straßenrand.",
             "hu": "Kényelmes parkolás az út mentén.",
             "ro": "Parcare convenabilă pe marginea drumului.",
-            "en": "Convenient street-side parking available here."
+            "en": "Convenient street-side parking available here.",
+            "fr": "Stationnement pratique en bord de rue disponible ici."
           }
         },
         {
@@ -758,7 +810,8 @@
             "de": "Château de Lavardens (Ausflug)",
             "hu": "Lavardens kastélya (kirándulás)",
             "ro": "Castelul Lavardens (excursie)",
-            "en": "Château de Lavardens (Trip)"
+            "en": "Château de Lavardens (Trip)",
+            "fr": "Château de Lavardens (Trip)"
           },
           "coords": [
             0.611,
@@ -773,7 +826,8 @@
             "de": "Wunderschönes Schloss 20 Min entfernt.",
             "hu": "Gyönyörű kastély 20 percre a várostól.",
             "ro": "Castel superb la 20 de minute distanță.",
-            "en": "Stunning castle just 20 mins from Auch."
+            "en": "Stunning castle just 20 mins from Auch.",
+            "fr": "Superbe château à seulement 20 minutes d’Auch."
           }
         },
         {
@@ -781,7 +835,8 @@
             "de": "Hôtel de Ville",
             "hu": "Városháza",
             "ro": "Primăria",
-            "en": "Town Hall"
+            "en": "Town Hall",
+            "fr": "Town Hall"
           },
           "coords": [
             0.5891,
@@ -796,7 +851,8 @@
             "de": "Rückkehr ins Zentrum für den Abschluss.",
             "hu": "Visszatérés a központba a nap végén.",
             "ro": "Revenire în centru pentru final.",
-            "en": "Return to the center for a final stop."
+            "en": "Return to the center for a final stop.",
+            "fr": "Retournez au centre pour une dernière étape."
           }
         }
       ],
@@ -804,7 +860,8 @@
         "de": "Mit dem Auto kombinieren Sie das historische Zentrum von Auch mit der malerischen Landschaft des Gers. Parken Sie oben für die Kathedrale und den Turm, dann unten für den Park und die Statue. Am Nachmittag fahren Sie zum beeindruckenden Château de Lavardens, einem der schönsten Dörfer Frankreichs.",
         "hu": "Autóval Auch történelmi központját és a Gers festői dombjait is bejárhatja. Parkoljon le a felsővárosban a katedrálishoz, majd guruljon le a folyóparti parkhoz. Délután tegyen egy kitérőt a közeli Lavardens kastélyához, amely Franciaország egyik legszebb falujában található.",
         "ro": "Cu mașina, combinați centrul istoric din Auch cu peisajul pitoresc din Gers. Parcați sus pentru catedrală și turn, apoi jos pentru parc și statuie. După-amiaza, conduceți până la impresionantul Château de Lavardens, situat într-unul dintre cele mai frumoase sate.",
-        "en": "By car, you can combine the historic center of Auch with the rolling hills of the Gers. Park in the upper town for the cathedral, then head down to the riverside park. In the afternoon, enjoy a scenic drive to the nearby Château de Lavardens, one of France's most beautiful villages."
+        "en": "By car, you can combine the historic center of Auch with the rolling hills of the Gers. Park in the upper town for the cathedral, then head down to the riverside park. In the afternoon, enjoy a scenic drive to the nearby Château de Lavardens, one of France's most beautiful villages.",
+        "fr": "En voiture, combinez le centre historique d’Auch avec les collines ondulantes du Gers. Garez-vous en haut de la ville pour la cathédrale, puis descendez vers le parc riverain. L’après-midi, faites une agréable balade panoramique vers le nearby Château de Lavardens, l’un des plus beaux villages de France."
       },
       "gastro_picks": {
         "de": [
@@ -912,6 +969,12 @@
           "The country roads are winding but very quiet.",
           "Allow extra time for photo stops in the countryside.",
           "Check the opening hours of Lavardens Castle beforehand."
+        ],
+        "fr": [
+          "Le parking au centre peut être compliqué les samedis de marché.",
+          "Les routes de campagne sont sinueuses mais très calmes.",
+          "Prévoyez du temps supplémentaire pour les arrêts photo à la campagne.",
+          "Vérifiez les horaires d’ouverture du Château de Lavardens à l’avance."
         ]
       }
     },
@@ -928,7 +991,8 @@
             "de": "Kathedrale Sainte-Marie",
             "hu": "Sainte-Marie székesegyház",
             "ro": "Catedrala Sainte-Marie",
-            "en": "Sainte-Marie Cathedral"
+            "en": "Sainte-Marie Cathedral",
+            "fr": "Sainte-Marie Cathedral"
           },
           "coords": [
             0.5855,
@@ -943,7 +1007,8 @@
             "de": "Buslinie 'Alliance' hält direkt oben.",
             "hu": "Az Alliance buszjárat közvetlenül fent áll meg.",
             "ro": "Linia de autobuz Alliance oprește chiar sus.",
-            "en": "The Alliance bus line drops you right at the top."
+            "en": "The Alliance bus line drops you right at the top.",
+            "fr": "La ligne de bus Alliance vous dépose juste en haut."
           }
         },
         {
@@ -951,7 +1016,8 @@
             "de": "Les Pousterles",
             "hu": "Les Pousterles negyed",
             "ro": "Les Pousterles",
-            "en": "Les Pousterles"
+            "en": "Les Pousterles",
+            "fr": "Les Pousterles"
           },
           "coords": [
             0.5845,
@@ -966,7 +1032,8 @@
             "de": "Kurzer Fußweg durch die Altstadt.",
             "hu": "Rövid séta az óváros szívében.",
             "ro": "Scurtă plimbare prin centrul vechi.",
-            "en": "Short walk through the heart of the old town."
+            "en": "Short walk through the heart of the old town.",
+            "fr": "Courte promenade au cœur de la vieille ville."
           }
         },
         {
@@ -974,7 +1041,8 @@
             "de": "Musée des Amériques",
             "hu": "Amerika-múzeum",
             "ro": "Muzeul Americilor",
-            "en": "Museum of the Americas"
+            "en": "Museum of the Americas",
+            "fr": "Museum of the Americas"
           },
           "coords": [
             0.5848,
@@ -989,7 +1057,8 @@
             "de": "Eingang in der Nähe des Präfekturgebäudes.",
             "hu": "Bejárat a prefektúra épülete közelében.",
             "ro": "Intrare lângă clădirea prefecturii.",
-            "en": "Entrance is close to the prefecture building."
+            "en": "Entrance is close to the prefecture building.",
+            "fr": "L’entrée est proche du bâtiment de la préfecture."
           }
         },
         {
@@ -997,7 +1066,8 @@
             "de": "Escalier Monumental",
             "hu": "Monumentális lépcsősor",
             "ro": "Scara Monumentală",
-            "en": "Monumental Staircase"
+            "en": "Monumental Staircase",
+            "fr": "Monumental Staircase"
           },
           "coords": [
             0.5858,
@@ -1012,7 +1082,8 @@
             "de": "Gehen Sie die Treppe hinunter zum Fluss.",
             "hu": "Sétáljon lefelé a lépcsőn a folyó irányába.",
             "ro": "Coborâți treptele spre râu.",
-            "en": "Walk down the stairs towards the river level."
+            "en": "Walk down the stairs towards the river level.",
+            "fr": "Descendez les marches vers le niveau de la rivière."
           }
         },
         {
@@ -1020,7 +1091,8 @@
             "de": "Statue de d'Artagnan",
             "hu": "D'Artagnan-szobor",
             "ro": "Statuia lui d'Artagnan",
-            "en": "Statue of d'Artagnan"
+            "en": "Statue of d'Artagnan",
+            "fr": "Statue de d'Artagnan"
           },
           "coords": [
             0.5865,
@@ -1035,7 +1107,8 @@
             "de": "Befindet sich auf der mittleren Ebene.",
             "hu": "A lépcsősor középső szintjén található.",
             "ro": "Se află pe nivelul intermediar al scării.",
-            "en": "Located on the middle landing of the stairs."
+            "en": "Located on the middle landing of the stairs.",
+            "fr": "Située sur le palier central de l'escalier."
           }
         },
         {
@@ -1043,7 +1116,8 @@
             "de": "Allées d'Etigny",
             "hu": "Allées d'Etigny",
             "ro": "Allées d'Etigny",
-            "en": "Allées d'Etigny"
+            "en": "Allées d'Etigny",
+            "fr": "Allées d'Etigny"
           },
           "coords": [
             0.5885,
@@ -1058,7 +1132,8 @@
             "de": "Nutzen Sie den Pendelbus zum Rathaus.",
             "hu": "Használja a városháza felé tartó buszt.",
             "ro": "Folosiți microbuzul spre primărie.",
-            "en": "Use the shuttle bus to reach the town hall area."
+            "en": "Use the shuttle bus to reach the town hall area.",
+            "fr": "Utilisez la navette pour rejoindre le secteur de l'hôtel de ville."
           }
         },
         {
@@ -1066,7 +1141,8 @@
             "de": "Hôtel de Ville",
             "hu": "Városháza",
             "ro": "Primăria",
-            "en": "Town Hall"
+            "en": "Town Hall",
+            "fr": "Hôtel de ville"
           },
           "coords": [
             0.5891,
@@ -1081,7 +1157,8 @@
             "de": "Bushaltestelle direkt vor der Tür.",
             "hu": "Buszmegálló közvetlenül az épület előtt.",
             "ro": "Stație de autobuz chiar în fața clădirii.",
-            "en": "Bus stop conveniently located right in front."
+            "en": "Bus stop conveniently located right in front.",
+            "fr": "Arrêt de bus situé juste en face."
           }
         }
       ],
@@ -1089,7 +1166,8 @@
         "de": "Nutzen Sie das 'Alliance'-Busnetz, um mühelos zwischen der Unter- und Oberstadt von Auch zu wechseln. Starten Sie bei der Kathedrale und dem Museum oben, steigen Sie dann über die monumentale Treppe hinab zur d'Artagnan-Statue und nehmen Sie den Bus zu den Allées d'Etigny.",
         "hu": "Használja az 'Alliance' buszhálózatot, hogy könnyedén közlekedjen Auch alsó- és felsővárosa között. Kezdjen fent a katedrálisnál és a múzeumnál, majd a monumentális lépcsőn ereszkedjen le D'Artagnan szobrához, végül busszal érje el az Allées d'Etigny sétányt.",
         "ro": "Folosiți rețeaua de autobuze 'Alliance' pentru a naviga ușor între orașul de jos și cel de sus. Începeți sus la catedrală și muzeu, apoi coborâți scara monumentală până la statuia lui d'Artagnan și luați autobuzul spre Allées d'Etigny.",
-        "en": "Use the 'Alliance' bus network to effortlessly navigate between the lower and upper parts of Auch. Start at the cathedral and museum on the hill, then descend the monumental stairs to d'Artagnan's statue before catching a bus to the Allées d'Etigny promenade."
+        "en": "Use the 'Alliance' bus network to effortlessly navigate between the lower and upper parts of Auch. Start at the cathedral and museum on the hill, then descend the monumental stairs to d'Artagnan's statue before catching a bus to the Allées d'Etigny promenade.",
+        "fr": "Utilisez le réseau de bus 'Alliance' pour circuler aisément entre les parties basse et haute d'Auch. Commencez à la cathédrale et au musée sur la colline, puis descendez le grand escalier jusqu'à la statue de d'Artagnan avant de prendre un bus pour les Allées d'Etigny."
       },
       "gastro_picks": {
         "de": [
@@ -1197,6 +1275,12 @@
           "Buses run less frequently in the late afternoon.",
           "Look for 'L'Auscitaine', the free electric shuttle in the center.",
           "Remember to validate your ticket upon boarding."
+        ],
+        "fr": [
+          "Achetez un pass journée pour le réseau de bus Alliance.",
+          "Les bus circulent moins fréquemment en fin d'après-midi.",
+          "Repérez 'L'Auscitaine', la navette électrique gratuite du centre.",
+          "N'oubliez pas de composter votre titre de transport en montant à bord."
         ]
       }
     }

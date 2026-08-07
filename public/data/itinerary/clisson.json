@@ -21,7 +21,8 @@
             "de": "Porte de Ville",
             "hu": "Porte de Ville",
             "ro": "Porte de Ville",
-            "en": "Porte de Ville"
+            "en": "Porte de Ville",
+            "fr": "Porte de Ville"
           },
           "coords": [
             -1.282604,
@@ -36,7 +37,8 @@
             "de": "Bewundern Sie die mittelalterliche Architektur dieses alten Stadttors, das einst Clisson schützte, und achten Sie auf die historischen Schießscharten in der Steinfassade.",
             "hu": "Csodálja meg ennek az ősi városkapunak a középkori építészetét, amely egykor Clissont védte, és figyelje meg a kőhomlokzaton lévő történelmi lőréseket közelebbről.",
             "ro": "Admirați arhitectura medievală a acestei porți vechi care proteja Clissonul și asigurați-vă că observați fantele defensive istorice de pe fațada sa de piatră.",
-            "en": "Admire the medieval architecture of this ancient city gate that once protected Clisson, and be sure to notice the historic defensive arrow slits on its stone facade."
+            "en": "Admire the medieval architecture of this ancient city gate that once protected Clisson, and be sure to notice the historic defensive arrow slits on its stone facade.",
+            "fr": "Admirez l’architecture médiévale de cette ancienne porte de ville qui protégeait autrefois Clisson, et remarquez les meurtrières défensives historiques sur sa façade en pierre."
           }
         },
         {
@@ -44,7 +46,8 @@
             "de": "Château de Clisson",
             "hu": "Château de Clisson",
             "ro": "Château de Clisson",
-            "en": "Château de Clisson"
+            "en": "Château de Clisson",
+            "fr": "Château de Clisson"
           },
           "coords": [
             -1.281002,
@@ -59,7 +62,8 @@
             "de": "Erkunden Sie die majestätischen Ruinen dieser Festung, die Einblicke in die bretonischen Grenzkriege bietet, und besteigen Sie die verbliebenen Türme für einen Panoramablick.",
             "hu": "Fedezze fel e hatalmas erődítmény fenséges romjait, amelyek a breton határháborúkba nyújtanak bepillantást, és másszon fel a megmaradt tornyokra a pazar völgyi kilátásért.",
             "ro": "Explorați ruinele maiestuoase ale acestei cetăți puternice, care oferă o perspectivă asupra războaielor de graniță bretone, și urcați în turnurile rămase pentru panoramă.",
-            "en": "Explore the majestic ruins of this powerful fortress offering insights into the Breton border wars, and climb the remaining towers for a panoramic view of the valley."
+            "en": "Explore the majestic ruins of this powerful fortress offering insights into the Breton border wars, and climb the remaining towers for a panoramic view of the valley.",
+            "fr": "Explorez les majestueuses ruines de cette puissante forteresse offrant des éclairages sur les guerres frontalières bretonnes, et montez dans les tours restantes pour une vue panoramique sur la vallée."
           }
         },
         {
@@ -67,7 +71,8 @@
             "de": "Notre-Dame Church",
             "hu": "Notre-Dame Church",
             "ro": "Notre-Dame Church",
-            "en": "Notre-Dame Church"
+            "en": "Notre-Dame Church",
+            "fr": "Église Notre-Dame"
           },
           "coords": [
             -1.281418,
@@ -82,7 +87,8 @@
             "de": "Betreten Sie diese romanische Kirche, um ihre wunderschönen Buntglasfenster und die ruhige Atmosphäre zu schätzen, und kommen Sie früh, um das Morgenlicht zu genießen.",
             "hu": "Lépjen be ebbe a román stílusú templomba, hogy megcsodálja gyönyörű ólomüveg ablakait és nyugodt légkörét, és jöjjön korán a csodálatos reggeli fényviszonyokért.",
             "ro": "Pășiți în această biserică în stil romanic pentru a aprecia vitraliile sale frumoase și atmosfera senină și vizitați-o dimineața devreme pentru a vă bucura de lumină.",
-            "en": "Step inside this Romanesque-style church to appreciate its beautiful stained glass and serene atmosphere, and visit early in the day to enjoy the morning light."
+            "en": "Step inside this Romanesque-style church to appreciate its beautiful stained glass and serene atmosphere, and visit early in the day to enjoy the morning light.",
+            "fr": "Entrez dans cette église de style roman pour apprécier ses beaux vitraux et son atmosphère sereine, et visitez-la tôt dans la journée pour profiter de la lumière matinale."
           }
         },
         {
@@ -90,7 +96,8 @@
             "de": "Église Saint-Jacques",
             "hu": "Église Saint-Jacques",
             "ro": "Église Saint-Jacques",
-            "en": "Église Saint-Jacques"
+            "en": "Église Saint-Jacques",
+            "fr": "Église Saint-Jacques"
           },
           "coords": [
             -1.284364,
@@ -105,7 +112,8 @@
             "de": "Entdecken Sie diese charmante Kirche aus dem 12. Jahrhundert, bekannt für ihre schlichte Architektur, und ruhen Sie sich einen Moment auf dem ruhigen Platz davor aus.",
             "hu": "Fedezze fel ezt a bájos, 12. századi templomot, amely egyszerű, de elegáns építészetéről ismert, és pihenjen meg egy pillanatra a bejárat előtti csendes kis téren.",
             "ro": "Descoperiți această fermecătoare biserică din secolul al XII-lea, cunoscută pentru arhitectura sa simplă, și odihniți-vă pe piațeta liniștită chiar la intrare.",
-            "en": "Discover this charming 12th-century church known for its simple yet elegant architecture, and take a moment to rest in the quiet square just outside its entrance."
+            "en": "Discover this charming 12th-century church known for its simple yet elegant architecture, and take a moment to rest in the quiet square just outside its entrance.",
+            "fr": "Découvrez cette charmante église du XIIe siècle, connue pour son architecture simple mais élégante, et prenez un moment pour vous reposer sur la petite place calme juste devant son entrée."
           }
         },
         {
@@ -113,7 +121,8 @@
             "de": "Valley Bridge",
             "hu": "Valley Bridge",
             "ro": "Valley Bridge",
-            "en": "Valley Bridge"
+            "en": "Valley Bridge",
+            "fr": "Pont de la vallée"
           },
           "coords": [
             -1.27972,
@@ -128,7 +137,8 @@
             "de": "Spazieren Sie über dieses historische Viadukt, das den Fluss Sèvre Nantaise überspannt, für spektakuläre Fotomotive, und bringen Sie ein Weitwinkelobjektiv mit.",
             "hu": "Sétáljon át ezen a Sèvre Nantaise folyót átívelő történelmi viadukton a látványos fotózási lehetőségekért, és hozzon magával nagylátószögű objektívet a tájhoz.",
             "ro": "Plimbați-vă pe acest viaduct istoric ce traversează râul Sèvre Nantaise pentru oportunități foto spectaculoase și aduceți o cameră cu un obiectiv larg pentru peisaj.",
-            "en": "Walk across this historic viaduct spanning the Sèvre Nantaise river for spectacular photo opportunities, and bring a camera with a wide lens to capture the whole landscape."
+            "en": "Walk across this historic viaduct spanning the Sèvre Nantaise river for spectacular photo opportunities, and bring a camera with a wide lens to capture the whole landscape.",
+            "fr": "Traversez ce viaduc historique enjambant la Sèvre Nantaise pour des photos spectaculaires, et pensez à emporter un objectif grand-angle pour capturer tout le paysage."
           }
         },
         {
@@ -136,7 +146,8 @@
             "de": "Église de la Trinité",
             "hu": "Église de la Trinité",
             "ro": "Église de la Trinité",
-            "en": "Église de la Trinité"
+            "en": "Église de la Trinité",
+            "fr": "Église de la Trinité"
           },
           "coords": [
             -1.276554,
@@ -151,7 +162,8 @@
             "de": "Besuchen Sie diese einzigartige religiöse Stätte mit markanten architektonischen Details und einer friedlichen Aura und achten Sie auf die Schnitzereien am Hauptportal.",
             "hu": "Látogasson el erre az egyedi vallási helyszínre, amely lenyűgöző építészeti részletekkel büszkélkedhet, és figyelje meg a fő faajtót keretező bonyolult faragásokat.",
             "ro": "Vizitați acest sit religios unic, cu detalii arhitecturale uimitoare și o aură pașnică, și priviți cu atenție sculpturile complicate care încadrează ușa principală.",
-            "en": "Visit this unique religious site featuring striking architectural details and a peaceful aura, and look closely at the intricate carvings framing the main wooden doorway."
+            "en": "Visit this unique religious site featuring striking architectural details and a peaceful aura, and look closely at the intricate carvings framing the main wooden doorway.",
+            "fr": "Visitez ce lieu de culte unique présentant des détails architecturaux saisissants et une aura paisible, et regardez de près les sculptures détaillées encadrant la porte principale en bois."
           }
         },
         {
@@ -159,7 +171,8 @@
             "de": "Garenne Lemot Estate",
             "hu": "Garenne Lemot Estate",
             "ro": "Garenne Lemot Estate",
-            "en": "Garenne Lemot Estate"
+            "en": "Garenne Lemot Estate",
+            "fr": "Domaine de la Garenne Lemot"
           },
           "coords": [
             -1.27591,
@@ -174,7 +187,8 @@
             "de": "Schlendern Sie durch diesen italienisch inspirierten Park voller neoklassizistischer Statuen und üppiger Gärten und packen Sie ein Picknick für das malerische Flussufer ein.",
             "hu": "Sétáljon végig ezen a csodálatos, olasz ihletésű, neoklasszicista szobrokkal és buja kertekkel teli parkon, és csomagoljon egy kis pikniket a festői folyópartra.",
             "ro": "Plimbați-vă prin acest magnific parc de inspirație italiană, plin de statui neoclasice și grădini luxuriante, și luați un picnic pentru a vă bucura de malul râului.",
-            "en": "Wander through this magnificent Italian-inspired park full of neoclassical statues and lush gardens, and pack a small picnic to enjoy near the scenic riverbanks."
+            "en": "Wander through this magnificent Italian-inspired park full of neoclassical statues and lush gardens, and pack a small picnic to enjoy near the scenic riverbanks.",
+            "fr": "Flanez dans ce magnifique parc d’inspiration italienne, rempli de statues néoclassiques et de jardins luxuriants, et emportez un petit pique-nique à déguster près des rives pittoresques."
           }
         }
       ],
@@ -182,7 +196,8 @@
         "de": "Der Morgen beginnt an den alten Stadttoren, vorbei an den imposanten Ruinen des Château de Clisson. Spüren Sie das Gewicht der mittelalterlichen Geschichte.\nMittags gibt es ein spirituelles Zwischenspiel in der Kirche Notre-Dame und der Église Saint-Jacques, wo Sie die friedliche Atmosphäre dieser romanischen Juwelen genießen.\nÜberqueren Sie nachmittags die atemberaubende Valley Bridge, bevor Sie die feine Architektur der Église de la Trinité bewundern und den Blick auf den Fluss genießen.\nDer Abend endet mit einem entspannenden Spaziergang über das Anwesen Garenne Lemot, wo italienische Schönheit und üppige Gärten einen perfekten, ruhigen Abschied bieten.",
         "hu": "A reggel az ősi városkapuknál kezdődik, átsétálva a Château de Clisson impozáns romjaihoz. Érezze a középkori történelem súlyát, miközben felfedezi annak titkait.\nA dél körüli órák spirituális élményt nyújtanak a Notre-Dame és a Saint-Jacques templomoknál, élvezve e román stílusú gyöngyszemek békés atmoszféráját.\nDélután keljen át a lélegzetelállító Valley Bridge-en, csodás fotókat készítve a folyóról, majd tekintse meg a Trinité templom finom építészeti megoldásait.\nAz este egy pihentető sétával zárul a Garenne Lemot birtokon, ahol az olaszos szépség és a buja kertek tökéletes, nyugodt búcsút kínálnak Clissontól.",
         "ro": "Dimineața începe la porțile antice ale orașului, trecând pe lângă ruinele impunătoare ale Château de Clisson. Simțiți greutatea istoriei medievale descoperind secretele sale.\nAmiaza oferă un interludiu spiritual la Biserica Notre-Dame și Église Saint-Jacques, bucurându-vă de atmosfera pașnică a acestor bijuterii romanice deosebite.\nDupă-amiaza, traversați uimitorul Pod al Văii, surprinzând fotografii uimitoare ale râului, înainte de a admira arhitectura delicată a Église de la Trinité.\nSeara se încheie cu o plimbare relaxantă prin domeniul Garenne Lemot, unde frumusețea italiană și grădinile luxuriante oferă un rămas bun perfect și liniștit.",
-        "en": "Morning starts at the ancient city gates, wandering past the imposing ruins of Château de Clisson. Feel the weight of medieval history as you discover its secrets.\nMidday offers a spiritual interlude at Notre-Dame Church and Église Saint-Jacques, enjoying the peaceful atmosphere of these Romanesque gems.\nIn the afternoon, cross the breathtaking Valley Bridge, capturing stunning photos of the river before admiring the delicate architecture of Église de la Trinité.\nThe evening concludes with a relaxing stroll through the Garenne Lemot Estate, where Italianate beauty and lush gardens provide a perfect, tranquil farewell to Clisson."
+        "en": "Morning starts at the ancient city gates, wandering past the imposing ruins of Château de Clisson. Feel the weight of medieval history as you discover its secrets.\nMidday offers a spiritual interlude at Notre-Dame Church and Église Saint-Jacques, enjoying the peaceful atmosphere of these Romanesque gems.\nIn the afternoon, cross the breathtaking Valley Bridge, capturing stunning photos of the river before admiring the delicate architecture of Église de la Trinité.\nThe evening concludes with a relaxing stroll through the Garenne Lemot Estate, where Italianate beauty and lush gardens provide a perfect, tranquil farewell to Clisson.",
+        "fr": "La matinée commence aux anciennes portes de la ville, en passant devant les imposantes ruines du Château de Clisson. Sentez le poids de l’histoire médiévale en en découvrant les secrets.\nÀ midi, offrez-vous une pause spirituelle à l’Église Notre-Dame et à l’Église Saint-Jacques, en profitant de l’atmosphère paisible de ces joyaux romans.\nL’après-midi, traversez le spectaculaire Pont de la vallée, capturez de superbes photos du fleuve avant d’admirer l’architecture délicate de l’Église de la Trinité.\nLa soirée se termine par une promenade relaxante dans le Domaine de la Garenne Lemot, où la beauté italienne et les jardins luxuriants offrent un adieu tranquille à Clisson."
       },
       "variants": {
         "rainy": {
@@ -190,7 +205,8 @@
             "de": "Morgens beginnen wir unter den geschützten Bögen der Porte de Ville. Mittags bieten die historischen Kirchen eine perfekte Zuflucht vor den Schauern. Nachmittags spazieren wir vorsichtig über das nasse Kopfsteinpflaster der Talbrücke und suchen unter den Bäumen des Parks Schutz. Abends spiegeln sich die magischen Lichter der Stadt in den regennassen Straßen.",
             "hu": "Reggel a Porte de Ville ódon, védett ívei alatt kezdünk. Délben a történelmi templomok tökéletes menedéket adnak a záporok elől. Délután a völgyhíd nedves, csillogó macskakövein óvatosan sétálunk át, majd a park lombkoronái alatt húzódunk meg. Este a vizes utcákon megcsillanó városi fények varázslatos hangulatot teremtenek.",
             "ro": "Dimineața începem sub arcadele protejate ale Porte de Ville. La prânz, bisericile istorice oferă un refugiu perfect din calea averselor. După-amiaza, ne plimbăm cu grijă pe piatra cubică umedă a podului, apoi ne adăpostim sub copacii parcului. Seara, luminile magice ale orașului se reflectă spectaculos pe străzile ude.",
-            "en": "We start the morning under the sheltered arches of Porte de Ville. At noon, the historical churches offer a perfect refuge from heavy showers. In the afternoon, we carefully walk the wet, gleaming cobblestones of the valley bridge before sheltering under the park's dense trees. In the evening, the magical city lights reflect beautifully on the wet streets."
+            "en": "We start the morning under the sheltered arches of Porte de Ville. At noon, the historical churches offer a perfect refuge from heavy showers. In the afternoon, we carefully walk the wet, gleaming cobblestones of the valley bridge before sheltering under the park's dense trees. In the evening, the magical city lights reflect beautifully on the wet streets.",
+            "fr": "Nous commençons la matinée sous les arcs abrités de la Porte de Ville. À midi, les églises historiques offrent un refuge parfait contre les fortes averses. L’après-midi, nous marchons prudemment sur les pavés mouillés et brillants du pont de la vallée avant de nous abriter sous les arbres denses du parc. Le soir, les lumières magiques de la ville se reflètent magnifiquement sur les rues humides."
           },
           "stops": [
             {
@@ -198,13 +214,15 @@
                 "de": "Porte de Ville",
                 "hu": "Porte de Ville",
                 "ro": "Porte de Ville",
-                "en": "Porte de Ville"
+                "en": "Porte de Ville",
+                "fr": "Porte de Ville"
               },
               "tip_5lang": {
                 "de": "Bewundern Sie das mittelalterliche Tor; die nassen Steine sind sehr stimmungsvoll, aber rutschig, daher ist wasserfestes Schuhwerk mit Profil ratsam.",
                 "hu": "Csodálja meg a középkori kaput; a vizes kövek rendkívül hangulatosak, de csúsznak, ezért vízálló, bordázott talpú cipő viselése ajánlott.",
                 "ro": "Admirați poarta medievală; pietrele ude sunt pline de atmosferă, dar alunecoase, așa că este recomandată purtarea unor pantofi impermeabili cu aderență.",
-                "en": "Admire the medieval gate; the wet stones are extremely atmospheric but slippery, so wearing waterproof shoes with good grip is highly recommended."
+                "en": "Admire the medieval gate; the wet stones are extremely atmospheric but slippery, so wearing waterproof shoes with good grip is highly recommended.",
+                "fr": "Admirez la porte médiévale ; les pierres mouillées sont très atmosphériques mais glissantes, donc il est fortement recommandé de porter des chaussures imperméables à bonne adhérence."
               }
             },
             {
@@ -212,13 +230,15 @@
                 "de": "Château de Clisson",
                 "hu": "Château de Clisson",
                 "ro": "Château de Clisson",
-                "en": "Château de Clisson"
+                "en": "Château de Clisson",
+                "fr": "Château de Clisson"
               },
               "tip_5lang": {
                 "de": "Die Burgruine wirkt im Regen besonders dramatisch; suchen Sie bei starken Schauern Schutz in den noch intakten Gewölberäumen der Anlage.",
                 "hu": "A várrom esőben még drámaibb hatást kelt; heves záporok esetén keressen menedéket a vár még épen maradt, fedett boltíves termeiben.",
                 "ro": "Ruinele castelului arată și mai dramatic în ploaie; în caz de averse puternice, căutați adăpost în camerele boltite încă intacte ale cetății.",
-                "en": "The castle ruins look incredibly dramatic in the rain; seek shelter in the still-intact vaulted rooms of the fortress during heavy downpours."
+                "en": "The castle ruins look incredibly dramatic in the rain; seek shelter in the still-intact vaulted rooms of the fortress during heavy downpours.",
+                "fr": "Les ruines du château sont particulièrement dramatiques sous la pluie ; cherchez un abri dans les salles voûtées encore intactes de la forteresse lors de fortes averses."
               }
             },
             {
@@ -226,13 +246,15 @@
                 "de": "Notre-Dame Church",
                 "hu": "Notre-Dame Church",
                 "ro": "Notre-Dame Church",
-                "en": "Notre-Dame Church"
+                "en": "Notre-Dame Church",
+                "fr": "Église Notre-Dame"
               },
               "tip_5lang": {
                 "de": "Betreten Sie das Innere, um sich aufzuwärmen; die Kirche ist ein idealer, trockener Zwischenstopp, um dem Regen für eine Weile zu entkommen.",
                 "hu": "Lépjen be az épületbe, hogy egy kicsit felmelegedjen; a templom ideális, száraz pihenőhely, ahol egy időre menedéket találhat az eső elől.",
                 "ro": "Pășiți înăuntru pentru a vă încălzi puțin; biserica este un loc de oprire uscat și ideal pentru a scăpa de ploaie pentru o vreme.",
-                "en": "Step inside to warm up a bit; the church is an ideal, perfectly dry stopover where you can escape the rain for a while and dry your umbrella."
+                "en": "Step inside to warm up a bit; the church is an ideal, perfectly dry stopover where you can escape the rain for a while and dry your umbrella.",
+                "fr": "Entrez pour vous réchauffer un peu ; l’église est une halte idéale et parfaitement sèche où vous pouvez échapper à la pluie un moment et faire sécher votre parapluie."
               }
             },
             {
@@ -240,13 +262,15 @@
                 "de": "Église Saint-Jacques",
                 "hu": "Église Saint-Jacques",
                 "ro": "Église Saint-Jacques",
-                "en": "Église Saint-Jacques"
+                "en": "Église Saint-Jacques",
+                "fr": "Église Saint-Jacques"
               },
               "tip_5lang": {
                 "de": "Genießen Sie die romanische Architektur; nehmen Sie sich drinnen Zeit und lassen Sie Ihre nasse Kleidung etwas abtropfen, bis der Regen nachlässt.",
                 "hu": "Élvezze a román stílusú építészetet; szánjon rá időt odabent, és hagyja egy kicsit megszáradni a kabátját, amíg a kinti eső alábbhagy.",
                 "ro": "Bucurați-vă de arhitectura romanică; luați-vă timp înăuntru și lăsați-vă hainele umede să se scurgă puțin până când ploaia de afară se domolește.",
-                "en": "Enjoy the beautiful Romanesque architecture; take your time inside and let your wet jacket drip dry a bit while waiting for the rain outside to ease up."
+                "en": "Enjoy the beautiful Romanesque architecture; take your time inside and let your wet jacket drip dry a bit while waiting for the rain outside to ease up.",
+                "fr": "Appréciez la belle architecture romane ; prenez votre temps à l’intérieur et laissez votre veste humide s’égoutter un peu en attendant que la pluie se calme dehors."
               }
             },
             {
@@ -254,13 +278,15 @@
                 "de": "Valley Bridge",
                 "hu": "Valley Bridge",
                 "ro": "Valley Bridge",
-                "en": "Valley Bridge"
+                "en": "Valley Bridge",
+                "fr": "Pont de la vallée"
               },
               "tip_5lang": {
                 "de": "Toller Blick auf den Fluss Sèvre Nantaise; treten Sie auf den nassen Pflastersteinen sehr vorsichtig auf und halten Sie Ihren Regenschirm gut fest.",
                 "hu": "Kiváló kilátás nyílik a Sèvre Nantaise folyóra; nagyon óvatosan lépkedjen a nedves macskaköveken, és a szél miatt fogja erősen az esernyőjét.",
                 "ro": "O vedere excelentă asupra râului Sèvre Nantaise; călcați cu mare grijă pe pietrele cubice umede și țineți bine umbrela din cauza vântului.",
-                "en": "Excellent views of the Sèvre Nantaise river; tread very carefully on the wet, slippery cobblestones and hold your umbrella tight against the wind."
+                "en": "Excellent views of the Sèvre Nantaise river; tread very carefully on the wet, slippery cobblestones and hold your umbrella tight against the wind.",
+                "fr": "Excellentes vues sur la Sèvre Nantaise ; marchez très prudemment sur les pavés mouillés et glissants et tenez bien votre parapluie contre le vent."
               }
             },
             {
@@ -268,13 +294,15 @@
                 "de": "Église de la Trinité",
                 "hu": "Église de la Trinité",
                 "ro": "Église de la Trinité",
-                "en": "Église de la Trinité"
+                "en": "Église de la Trinité",
+                "fr": "Église de la Trinité"
               },
               "tip_5lang": {
                 "de": "Ein ruhiger und friedlicher Innenraum; ein weiterer trockener Zufluchtsort auf Ihrem Spaziergang, ideal um den Regenschirm auszuschütteln.",
                 "hu": "Csendes és békés belső tér; egy újabb tökéletes, száraz menedék a sétája során, ami ideális arra is, hogy lerázza a vizet az esernyőjéről.",
                 "ro": "Un interior liniștit și pașnic; încă un refugiu uscat perfect în timpul plimbării, ideal pentru a scutura apa de pe umbrela dumneavoastră.",
-                "en": "A quiet and peaceful interior space; yet another perfect dry refuge along your walk, which is also ideal for shaking the water off your umbrella."
+                "en": "A quiet and peaceful interior space; yet another perfect dry refuge along your walk, which is also ideal for shaking the water off your umbrella.",
+                "fr": "Un intérieur calme et paisible ; un autre refuge parfaitement sec le long de votre promenade, idéal aussi pour secouer l’eau de votre parapluie."
               }
             },
             {
@@ -282,13 +310,15 @@
                 "de": "Garenne Lemot Estate",
                 "hu": "Garenne Lemot Estate",
                 "ro": "Garenne Lemot Estate",
-                "en": "Garenne Lemot Estate"
+                "en": "Garenne Lemot Estate",
+                "fr": "Domaine de la Garenne Lemot"
               },
               "tip_5lang": {
                 "de": "Der Park im italienischen Stil ist wunderschön; das dichte Blätterdach bietet leichten Regenschutz, aber eine gute Regenjacke bleibt hier unerlässlich.",
                 "hu": "Az olasz stílusú park gyönyörű; a sűrű lombkorona nyújt némi esővédelmet, de egy megbízható esőkabát itt is elengedhetetlen a sétához.",
                 "ro": "Parcul în stil italian este superb; frunzișul dens oferă o oarecare protecție împotriva ploii, dar o pelerină de ploaie bună rămâne esențială aici.",
-                "en": "The Italian-style park is gorgeous; the dense canopy offers some natural rain cover, but a reliable raincoat remains absolutely essential for exploring."
+                "en": "The Italian-style park is gorgeous; the dense canopy offers some natural rain cover, but a reliable raincoat remains absolutely essential for exploring.",
+                "fr": "Le parc de style italien est superbe ; la canopée dense offre un certain abri naturel contre la pluie, mais un imperméable fiable reste absolument essentiel pour l’exploration."
               }
             }
           ]
@@ -298,7 +328,8 @@
             "de": "Morgens brechen wir in der klaren, frostigen Luft vom alten Stadttor auf. Mittags zeigen Burg und Kirchen ihr raues, aber faszinierendes Wintergesicht, wo wir uns kurz aufwärmen. Nachmittags blicken wir von der Brücke auf die vereiste Landschaft und spazieren durch den Park. Da es früh dunkel wird, genießen wir abends das romantisch beleuchtete Clisson.",
             "hu": "Reggel a friss, csípős, fagyos levegőn indulunk a régi városkaputól. Délben a kastély és a templomok zord, de lenyűgöző téli arcukat mutatják, ahol picit felmelegszünk. Délután a hídról csodáljuk a deres tájat, majd a parkban sétálunk. Mivel korai a sötétedés, este a romantikusan kivilágított városban fejezzük be a napot.",
             "ro": "Dimineața pornim de la vechea poartă a orașului în aerul proaspăt și înghețat. La prânz, castelul și bisericile își arată fața aspră, dar fascinantă de iarnă, unde ne încălzim scurt. După-amiaza privim peisajul înghețat de pe pod și ne plimbăm prin parc. Deoarece se întunecă devreme, seara ne bucurăm de orașul iluminat romantic.",
-            "en": "In the morning, we set off from the old city gate in the crisp, frosty air. At noon, the castle and churches reveal their stark yet fascinating winter face, offering a quick warm-up. In the afternoon, we admire the frosted landscape from the bridge and stroll the park. With the early sunset, we enjoy the romantically illuminated city in the evening."
+            "en": "In the morning, we set off from the old city gate in the crisp, frosty air. At noon, the castle and churches reveal their stark yet fascinating winter face, offering a quick warm-up. In the afternoon, we admire the frosted landscape from the bridge and stroll the park. With the early sunset, we enjoy the romantically illuminated city in the evening.",
+            "fr": "Le matin, nous partons de la vieille porte de la ville dans un air vif et gelé. À midi, le château et les églises révèlent leur visage hivernal austère mais fascinant, offrant un réchauffement rapide. L’après-midi, nous admirons le paysage givré depuis le pont et nous promenons dans le parc. Avec le coucher du soleil précoce, nous profitons de la ville romantiquement illuminée le soir."
           },
           "stops": [
             {
@@ -306,13 +337,15 @@
                 "de": "Porte de Ville",
                 "hu": "Porte de Ville",
                 "ro": "Porte de Ville",
-                "en": "Porte de Ville"
+                "en": "Porte de Ville",
+                "fr": "Porte de Ville"
               },
               "tip_5lang": {
                 "de": "Das antike Tor wirkt im schwachen Winterlicht sehr markant; packen Sie sich morgens warm ein, um der beißenden Kälte standzuhalten.",
                 "hu": "Az ősi kapu nagyon markánsan fest a gyenge téli fényben; öltözzön fel melegen, vastag rétegekkel, hogy ellenálljon a kora reggeli csípős hidegnek.",
                 "ro": "Poarta antică arată foarte izbitor în lumina slabă a iernii; îmbrăcați-vă călduros dimineața pentru a rezista frigului mușcător de afară.",
-                "en": "The ancient gate looks very striking in the soft winter light; wrap up warmly in thick layers to withstand the biting chill of the early morning."
+                "en": "The ancient gate looks very striking in the soft winter light; wrap up warmly in thick layers to withstand the biting chill of the early morning.",
+                "fr": "La porte ancienne est très saisissante sous la douce lumière hivernale ; couvrez-vous chaudement avec des couches épaisses pour résister au froid mordant du petit matin."
               }
             },
             {
@@ -320,13 +353,15 @@
                 "de": "Château de Clisson",
                 "hu": "Château de Clisson",
                 "ro": "Château de Clisson",
-                "en": "Château de Clisson"
+                "en": "Château de Clisson",
+                "fr": "Château de Clisson"
               },
               "tip_5lang": {
                 "de": "Der Winternebel verleiht den Ruinen eine mysteriöse Atmosphäre; der Wind kann hier oben eisig sein, vergessen Sie Ihren dicken Schal nicht.",
                 "hu": "A téli köd igazán titokzatos hangulatot kölcsönöz a romoknak; a szél itt fent rendkívül metsző lehet, semmiképp se felejtse otthon a vastag sálját.",
                 "ro": "Ceața de iarnă conferă ruinelor o atmosferă misterioasă; vântul poate fi extrem de tăios aici sus, nu uitați să purtați un fular gros.",
-                "en": "Winter mist gives the ruins a truly mysterious atmosphere; the wind up here can be exceptionally biting, so do not forget to wear a thick scarf."
+                "en": "Winter mist gives the ruins a truly mysterious atmosphere; the wind up here can be exceptionally biting, so do not forget to wear a thick scarf.",
+                "fr": "Le brouillard d’hiver confère aux ruines une atmosphère véritablement mystérieuse ; le vent ici peut être particulièrement mordant, n’oubliez donc pas d’emporter une grosse écharpe."
               }
             },
             {
@@ -334,13 +369,15 @@
                 "de": "Notre-Dame Church",
                 "hu": "Notre-Dame Church",
                 "ro": "Notre-Dame Church",
-                "en": "Notre-Dame Church"
+                "en": "Notre-Dame Church",
+                "fr": "Église Notre-Dame"
               },
               "tip_5lang": {
                 "de": "Ein gemütlicher spiritueller Rückzugsort; wärmen Sie Ihre eingefrorenen Hände drinnen auf, während Sie die schönen Buntglasfenster bewundern.",
                 "hu": "Kellemes, csendes spirituális menedék; melegítse fel az átfagyott kezeit idebent, miközben az ablakok gyönyörű, színes ólomüvegeit csodálja.",
                 "ro": "Un refugiu spiritual plăcut și liniștit; încălziți-vă mâinile înghețate înăuntru în timp ce admirați vitraliile frumos colorate ale bisericii.",
-                "en": "A cozy, quiet spiritual retreat; take a moment to warm your freezing hands inside while admiring the church's beautiful, colorful stained glass windows."
+                "en": "A cozy, quiet spiritual retreat; take a moment to warm your freezing hands inside while admiring the church's beautiful, colorful stained glass windows.",
+                "fr": "Un refuge spirituel douillet et calme ; prenez un moment pour réchauffer vos mains gelées à l’intérieur tout en admirant les beaux vitraux colorés de l’église."
               }
             },
             {
@@ -348,13 +385,15 @@
                 "de": "Église Saint-Jacques",
                 "hu": "Église Saint-Jacques",
                 "ro": "Église Saint-Jacques",
-                "en": "Église Saint-Jacques"
+                "en": "Église Saint-Jacques",
+                "fr": "Église Saint-Jacques"
               },
               "tip_5lang": {
                 "de": "Ein kurzer historischer Stopp; bleiben Sie in Bewegung, um warm zu bleiben, da die dicken Steinmauern im Winter eine ziemliche Kälte ausstrahlen.",
                 "hu": "Gyors történelmi megálló; maradjon mozgásban, hogy melegen tartsa magát, mivel a vastag kőfalak télen nagyon kellemetlen hideget árasztanak magukból.",
                 "ro": "O scurtă oprire istorică; rămâneți în mișcare pentru a vă păstra căldura, deoarece pereții groși de piatră radiază un frig puternic în timpul iernii.",
-                "en": "A quick historical stop; make sure to keep moving to stay warm, as the massive stone walls radiate a significant amount of cold during the winter."
+                "en": "A quick historical stop; make sure to keep moving to stay warm, as the massive stone walls radiate a significant amount of cold during the winter.",
+                "fr": "Une rapide halte historique ; veillez à rester en mouvement pour garder la chaleur, car les épais murs de pierre dégagent beaucoup de froid en hiver."
               }
             },
             {
@@ -362,13 +401,15 @@
                 "de": "Valley Bridge",
                 "hu": "Valley Bridge",
                 "ro": "Valley Bridge",
-                "en": "Valley Bridge"
+                "en": "Valley Bridge",
+                "fr": "Pont de la vallée"
               },
               "tip_5lang": {
                 "de": "Atemberaubende, frostige Aussichten über den Fluss; ziehen Sie sich warm an, da der eisige Wind hier oft ungehindert durch das Tal pfeift.",
                 "hu": "Lenyűgöző, fagyos kilátás nyílik a folyóra; öltözzön be nagyon melegen, mivel a jeges szél itt gyakran akadálytalanul süvít végig a völgyön.",
                 "ro": "Priveliști uimitoare și înghețate asupra râului; înfofoliți-vă bine, deoarece vântul de gheață suflă adesea nestingherit prin această vale.",
-                "en": "Stunning, frosty views over the river; bundle up very warmly as the icy wind often funnels forcefully and without obstacle right through the valley."
+                "en": "Stunning, frosty views over the river; bundle up very warmly as the icy wind often funnels forcefully and without obstacle right through the valley.",
+                "fr": "Vue glacée et splendide sur le fleuve ; emmitouflez-vous très chaudement car le vent glacial se faufile souvent puissamment et sans obstacle dans la vallée."
               }
             },
             {
@@ -376,13 +417,15 @@
                 "de": "Église de la Trinité",
                 "hu": "Église de la Trinité",
                 "ro": "Église de la Trinité",
-                "en": "Église de la Trinité"
+                "en": "Église de la Trinité",
+                "fr": "Église de la Trinité"
               },
               "tip_5lang": {
                 "de": "Ein sehr ruhiger Winterzufluchtsort; perfekt für eine kurze Pause im geschlossenen Raum, um Kraft vor dem Spaziergang zum Landgut zu sammeln.",
                 "hu": "Rendkívül csendes téli menedékhely; tökéletes egy rövid, beltéri pihenőre, hogy erőt és meleget gyűjtsön a birtokhoz vezető séta előtt.",
                 "ro": "Un refugiu de iarnă extrem de liniștit; perfect pentru o scurtă pauză în interior pentru a aduna putere și căldură înainte de plimbarea spre moșie.",
-                "en": "An extremely quiet winter refuge; perfectly suited for a short indoor break to gather warmth and energy before taking the brisk walk to the estate."
+                "en": "An extremely quiet winter refuge; perfectly suited for a short indoor break to gather warmth and energy before taking the brisk walk to the estate.",
+                "fr": "Un refuge hivernal extrêmement calme ; parfait pour une courte pause à l'intérieur afin de se réchauffer et reprendre des forces avant d'effectuer la vivifiante promenade jusqu’au domaine."
               }
             },
             {
@@ -390,13 +433,15 @@
                 "de": "Garenne Lemot Estate",
                 "hu": "Garenne Lemot Estate",
                 "ro": "Garenne Lemot Estate",
-                "en": "Garenne Lemot Estate"
+                "en": "Garenne Lemot Estate",
+                "fr": "Domaine de la Garenne Lemot"
               },
               "tip_5lang": {
                 "de": "Die blattlosen Bäume eröffnen ganz neue Perspektiven auf die toskanische Villa; planen Sie den Besuch unbedingt vor dem Sonnenuntergang um 17 Uhr.",
                 "hu": "A lombtalan fák teljesen új perspektívákat nyitnak a toszkán villára; a látogatást feltétlenül a korai, 17 óra körüli sötétedés előttre tervezze.",
                 "ro": "Copacii fără frunze deschid perspective complet noi asupra vilei toscane; planificați vizita neapărat înainte de apusul soarelui devreme de la ora 17.",
-                "en": "The leafless trees open up completely new perspectives of the Tuscan villa; ensure you plan your visit well before the early sunset around 5 PM."
+                "en": "The leafless trees open up completely new perspectives of the Tuscan villa; ensure you plan your visit well before the early sunset around 5 PM.",
+                "fr": "Les arbres dépourvus de feuilles offrent des perspectives totalement nouvelles sur la villa toscane ; veillez à planifier votre visite avant le coucher du soleil, vers 17 h."
               }
             }
           ]
@@ -416,7 +461,8 @@
             "de": "Clisson Covered Market",
             "hu": "Clisson Covered Market",
             "ro": "Clisson Covered Market",
-            "en": "Clisson Covered Market"
+            "en": "Clisson Covered Market",
+            "fr": "Halle couverte de Clisson"
           },
           "coords": [
             -1.309829,
@@ -431,7 +477,8 @@
             "de": "Erleben Sie lokale Aromen in dieser historischen Markthalle mit ihrer beeindruckenden Holzdachkonstruktion und kommen Sie vor dem Mittag, um die frischesten Produkte zu finden.",
             "hu": "Tapasztalja meg a helyi ízeket ebben a nyüzsgő, történelmi piaccsarnokban, amely lenyűgöző fa tetőszerkezetéről ismert, és érkezzen dél előtt a legfrissebb árukért.",
             "ro": "Experimentați aromele locale în această piață istorică plină de viață, cunoscută pentru acoperișul său din lemn, și sosiți înainte de prânz pentru produse proaspete.",
-            "en": "Experience local flavors at this bustling historical market hall known for its impressive timber roof structure, and arrive before noon for the freshest regional produce."
+            "en": "Experience local flavors at this bustling historical market hall known for its impressive timber roof structure, and arrive before noon for the freshest regional produce.",
+            "fr": "Goûtez aux saveurs locales dans cette halle historique animée, réputée pour sa charpente en bois impressionnante ; arrivez avant midi pour les produits régionaux les plus frais."
           }
         },
         {
@@ -439,7 +486,8 @@
             "de": "Château de Clisson",
             "hu": "Château de Clisson",
             "ro": "Château de Clisson",
-            "en": "Château de Clisson"
+            "en": "Château de Clisson",
+            "fr": "Château de Clisson"
           },
           "coords": [
             -1.281002,
@@ -454,7 +502,8 @@
             "de": "Erkunden Sie die majestätischen Ruinen dieser Festung, die Einblicke in die bretonischen Grenzkriege bietet, und besteigen Sie die verbliebenen Türme für einen Panoramablick.",
             "hu": "Fedezze fel e hatalmas erődítmény fenséges romjait, amelyek a breton határháborúkba nyújtanak bepillantást, és másszon fel a megmaradt tornyokra a pazar völgyi kilátásért.",
             "ro": "Explorați ruinele maiestuoase ale acestei cetăți puternice, care oferă o perspectivă asupra războaielor de graniță bretone, și urcați în turnurile rămase pentru panoramă.",
-            "en": "Explore the majestic ruins of this powerful fortress offering insights into the Breton border wars, and climb the remaining towers for a panoramic view of the valley."
+            "en": "Explore the majestic ruins of this powerful fortress offering insights into the Breton border wars, and climb the remaining towers for a panoramic view of the valley.",
+            "fr": "Parcourez les majestueuses ruines de cette puissante forteresse, qui éclairent les guerres frontalières bretonnes ; montez dans les tours restantes pour une vue panoramique sur la vallée."
           }
         },
         {
@@ -462,7 +511,8 @@
             "de": "Notre-Dame Church",
             "hu": "Notre-Dame Church",
             "ro": "Notre-Dame Church",
-            "en": "Notre-Dame Church"
+            "en": "Notre-Dame Church",
+            "fr": "Église Notre-Dame"
           },
           "coords": [
             -1.281418,
@@ -477,7 +527,8 @@
             "de": "Betreten Sie diese romanische Kirche, um ihre wunderschönen Buntglasfenster und die ruhige Atmosphäre zu schätzen, und kommen Sie früh, um das Morgenlicht zu genießen.",
             "hu": "Lépjen be ebbe a román stílusú templomba, hogy megcsodálja gyönyörű ólomüveg ablakait és nyugodt légkörét, és jöjjön korán a csodálatos reggeli fényviszonyokért.",
             "ro": "Pășiți în această biserică în stil romanic pentru a aprecia vitraliile sale frumoase și atmosfera senină și vizitați-o dimineața devreme pentru a vă bucura de lumină.",
-            "en": "Step inside this Romanesque-style church to appreciate its beautiful stained glass and serene atmosphere, and visit early in the day to enjoy the morning light."
+            "en": "Step inside this Romanesque-style church to appreciate its beautiful stained glass and serene atmosphere, and visit early in the day to enjoy the morning light.",
+            "fr": "Pénétrez dans cette église de style roman pour apprécier ses beaux vitraux et son atmosphère sereine ; visitez-la tôt dans la journée pour profiter de la lumière matinale."
           }
         },
         {
@@ -485,7 +536,8 @@
             "de": "Église Saint-Jacques",
             "hu": "Église Saint-Jacques",
             "ro": "Église Saint-Jacques",
-            "en": "Église Saint-Jacques"
+            "en": "Église Saint-Jacques",
+            "fr": "Église Saint-Jacques"
           },
           "coords": [
             -1.284364,
@@ -500,7 +552,8 @@
             "de": "Entdecken Sie diese charmante Kirche aus dem 12. Jahrhundert, bekannt für ihre schlichte Architektur, und ruhen Sie sich einen Moment auf dem ruhigen Platz davor aus.",
             "hu": "Fedezze fel ezt a bájos, 12. századi templomot, amely egyszerű, de elegáns építészetéről ismert, és pihenjen meg egy pillanatra a bejárat előtti csendes kis téren.",
             "ro": "Descoperiți această fermecătoare biserică din secolul al XII-lea, cunoscută pentru arhitectura sa simplă, și odihniți-vă pe piațeta liniștită chiar la intrare.",
-            "en": "Discover this charming 12th-century church known for its simple yet elegant architecture, and take a moment to rest in the quiet square just outside its entrance."
+            "en": "Discover this charming 12th-century church known for its simple yet elegant architecture, and take a moment to rest in the quiet square just outside its entrance.",
+            "fr": "Découvrez cette charmante église du XIIe siècle, connue pour son architecture simple mais élégante ; prenez un instant pour vous reposer sur la placette calme juste à l’entrée."
           }
         },
         {
@@ -508,7 +561,8 @@
             "de": "Valley Bridge",
             "hu": "Valley Bridge",
             "ro": "Valley Bridge",
-            "en": "Valley Bridge"
+            "en": "Valley Bridge",
+            "fr": "Pont de la Vallée"
           },
           "coords": [
             -1.27972,
@@ -523,7 +577,8 @@
             "de": "Spazieren Sie über dieses historische Viadukt, das den Fluss Sèvre Nantaise überspannt, für spektakuläre Fotomotive, und bringen Sie ein Weitwinkelobjektiv mit.",
             "hu": "Sétáljon át ezen a Sèvre Nantaise folyót átívelő történelmi viadukton a látványos fotózási lehetőségekért, és hozzon magával nagylátószögű objektívet a tájhoz.",
             "ro": "Plimbați-vă pe acest viaduct istoric ce traversează râul Sèvre Nantaise pentru oportunități foto spectaculoase și aduceți o cameră cu un obiectiv larg pentru peisaj.",
-            "en": "Walk across this historic viaduct spanning the Sèvre Nantaise river for spectacular photo opportunities, and bring a camera with a wide lens to capture the whole landscape."
+            "en": "Walk across this historic viaduct spanning the Sèvre Nantaise river for spectacular photo opportunities, and bring a camera with a wide lens to capture the whole landscape.",
+            "fr": "Traversez ce viaduc historique enjambant la Sèvre Nantaise pour des opportunités photo spectaculaires ; emmenez un appareil avec un grand-angle pour capter l’ensemble du paysage."
           }
         },
         {
@@ -531,7 +586,8 @@
             "de": "Garenne Lemot Estate",
             "hu": "Garenne Lemot Estate",
             "ro": "Garenne Lemot Estate",
-            "en": "Garenne Lemot Estate"
+            "en": "Garenne Lemot Estate",
+            "fr": "Domaine de la Garenne Lemot"
           },
           "coords": [
             -1.27591,
@@ -546,7 +602,8 @@
             "de": "Schlendern Sie durch diesen italienisch inspirierten Park voller neoklassizistischer Statuen und üppiger Gärten und packen Sie ein Picknick für das malerische Flussufer ein.",
             "hu": "Sétáljon végig ezen a csodálatos, olasz ihletésű, neoklasszicista szobrokkal és buja kertekkel teli parkon, és csomagoljon egy kis pikniket a festői folyópartra.",
             "ro": "Plimbați-vă prin acest magnific parc de inspirație italiană, plin de statui neoclasice și grădini luxuriante, și luați un picnic pentru a vă bucura de malul râului.",
-            "en": "Wander through this magnificent Italian-inspired park full of neoclassical statues and lush gardens, and pack a small picnic to enjoy near the scenic riverbanks."
+            "en": "Wander through this magnificent Italian-inspired park full of neoclassical statues and lush gardens, and pack a small picnic to enjoy near the scenic riverbanks.",
+            "fr": "Flânez dans ce magnifique parc d’inspiration italienne, parsemé de statues néoclassiques et de jardins luxuriants ; prévoyez un petit pique-nique à savourer près des berges pittoresques."
           }
         }
       ],
@@ -554,7 +611,8 @@
         "de": "Der Morgen beginnt auf dem historischen überdachten Markt, wo Sie die lebhafte Atmosphäre genießen, bevor Sie malerisch zum majestätischen Château de Clisson radeln.\nMittags ist perfekt, um das religiöse Erbe von Notre-Dame und Saint-Jacques zu erkunden, die leicht auf zwei Rädern zu erreichen sind.\nAm Nachmittag gleiten Sie über die legendäre Valley Bridge und halten an, um einen weiten Blick auf den Fluss und die historische Landschaft zu werfen.\nDer Abend endet auf dem ruhigen Anwesen Garenne Lemot, wo Sie Ihr Fahrrad parken und bei Sonnenuntergang durch die italienischen Gärten schlendern können.",
         "hu": "A reggel a történelmi fedett piacon indul, élvezve a nyüzsgő helyi hangulatot, mielőtt átkerekezne a fenséges Château de Clissonhoz.\nA dél ideális a Notre-Dame és a Saint-Jacques vallási örökségének felfedezésére, melyek könnyen megközelíthetők kerékpárral a városon keresztül.\nDélután guruljon át az ikonikus Valley Bridge-en, megállva, hogy megörökítse a folyó és a festői történelmi táj lenyűgöző látványát.\nAz este a békés Garenne Lemot birtokon zárul, ahol leparkolva a kerékpárt, a naplementében sétálhat az olaszos stílusú kertekben.",
         "ro": "Dimineața începe la Piața Acoperită istorică, bucurându-vă de atmosfera locală plină de viață înainte de a pedala spre maiestuosul Château de Clisson.\nAmiaza este perfectă pentru explorarea patrimoniului religios al bisericilor Notre-Dame și Saint-Jacques, ușor accesibile pe două roți.\nDupă-amiaza, treceți peste legendarul Pod al Văii, oprindu-vă pentru a surprinde vederi panoramice ale râului și ale peisajului istoric.\nSeara se încheie pe domeniul liniștit Garenne Lemot, unde vă puteți lăsa bicicleta și vă puteți plimba prin grădinile italienești la apus.",
-        "en": "Morning kicks off at the historic Covered Market, enjoying the lively local atmosphere before a scenic ride to the majestic Château de Clisson.\nMidday is perfect for exploring the religious heritage of Notre-Dame and Saint-Jacques, easily accessed on two wheels as you pedal through town.\nIn the afternoon, glide across the iconic Valley Bridge, stopping to capture sweeping views of the river and the picturesque historical landscape.\nThe evening wraps up at the tranquil Garenne Lemot Estate, where you can park your bike and wander the Italianate gardens as the sun goes down."
+        "en": "Morning kicks off at the historic Covered Market, enjoying the lively local atmosphere before a scenic ride to the majestic Château de Clisson.\nMidday is perfect for exploring the religious heritage of Notre-Dame and Saint-Jacques, easily accessed on two wheels as you pedal through town.\nIn the afternoon, glide across the iconic Valley Bridge, stopping to capture sweeping views of the river and the picturesque historical landscape.\nThe evening wraps up at the tranquil Garenne Lemot Estate, where you can park your bike and wander the Italianate gardens as the sun goes down.",
+        "fr": "La matinée commence à la halle couverte historique, en profitant de l’animation locale avant une balade panoramique jusqu’au majestueux Château de Clisson.\nLe midi est idéal pour explorer le patrimoine religieux de Notre-Dame et de Saint-Jacques, facilement accessibles à vélo en traversant la ville.\nL’après‑midi, traversez le célèbre Pont de la Vallée en vous arrêtant pour capturer de larges vues sur la rivière et le paysage historique pittoresque.\nLa soirée se termine au paisible Domaine de la Garenne Lemot, où vous pouvez garer votre vélo et flâner dans les jardins à l’italienne au coucher du soleil."
       },
       "variants": {
         "rainy": {
@@ -562,7 +620,8 @@
             "de": "Morgens starten wir entspannt unter dem schützenden Dach des Marktes. Mittags radeln wir zu Burg und Kirchen, die kurze, trockene Pausen ermöglichen. Nachmittags fahren wir auf den nassen, rutschigen Kopfsteinpflastern besonders vorsichtig über die Brücke. Abends beenden wir die Tour im Regen, während sich die Lichter auf dem Asphalt spiegeln.",
             "hu": "Reggel a fedett piac biztonságot nyújtó tetőszerkezete alatt indítjuk a túrát. Délben a kastélyhoz és a templomokhoz tekerünk, melyek száraz pihenőt adnak. Délután a vizes, rendkívül csúszós macskaköveken nagyon óvatosan gurulunk át a hídon. Este az esőben csillogó, kivilágított város nedves aszfaltján fejezzük be az utunkat.",
             "ro": "Dimineața începem relaxat sub acoperișul protector al pieței acoperite. La prânz pedalăm spre castel și biserici, care oferă scurte pauze uscate. După-amiaza mergem cu mare grijă peste pod pe piatra cubică umedă și alunecoasă. Seara terminăm turul în ploaie, în timp ce luminile se reflectă pe asfaltul ud.",
-            "en": "We start the morning relaxed under the protective roof of the covered market. At noon, we cycle to the castle and churches, which offer short, dry breaks. In the afternoon, we ride very carefully over the bridge on the wet, slippery cobblestones. We finish the tour in the evening rain, as the city lights reflect on the wet asphalt."
+            "en": "We start the morning relaxed under the protective roof of the covered market. At noon, we cycle to the castle and churches, which offer short, dry breaks. In the afternoon, we ride very carefully over the bridge on the wet, slippery cobblestones. We finish the tour in the evening rain, as the city lights reflect on the wet asphalt.",
+            "fr": "Nous commençons la matinée à l’abri du toit protecteur de la halle couverte. À midi, nous pédalons jusqu’au château et aux églises, qui offrent de courtes pauses à l’abri et au sec. L’après‑midi, nous roulons très prudemment sur le pont aux pavés mouillés et glissants. Nous terminons la visite sous la pluie du soir, les lumières de la ville se reflétant sur l’asphalte humide."
           },
           "stops": [
             {
@@ -570,13 +629,15 @@
                 "de": "Clisson Covered Market",
                 "hu": "Clisson Covered Market",
                 "ro": "Clisson Covered Market",
-                "en": "Clisson Covered Market"
+                "en": "Clisson Covered Market",
+                "fr": "Halle couverte de Clisson"
               },
               "tip_5lang": {
                 "de": "Bewundern Sie die hölzerne Dachkonstruktion; es ist ein toller, trockener Ort, um Ihre nasse Fahrradausrüstung vorzubereiten und anzuziehen.",
                 "hu": "Csodálja meg az impozáns fa tetőszerkezetet; ez egy kiváló, száraz hely arra, hogy előkészítse és felvegye a vízálló kerékpáros felszerelését.",
                 "ro": "Admirați structura impresionantă a acoperișului din lemn; este un loc uscat excelent pentru a pregăti și a îmbrăca echipamentul de ciclism impermeabil.",
-                "en": "Admire the impressive wooden roof structure; it is an excellent, entirely dry place to prepare and put on your waterproof cycling gear properly."
+                "en": "Admire the impressive wooden roof structure; it is an excellent, entirely dry place to prepare and put on your waterproof cycling gear properly.",
+                "fr": "Admirez la charpente en bois impressionnante ; c’est un excellent endroit entièrement sec pour préparer et enfiler correctement votre équipement de cyclisme imperméable."
               }
             },
             {
@@ -584,13 +645,15 @@
                 "de": "Château de Clisson",
                 "hu": "Château de Clisson",
                 "ro": "Château de Clisson",
-                "en": "Château de Clisson"
+                "en": "Château de Clisson",
+                "fr": "Château de Clisson"
               },
               "tip_5lang": {
                 "de": "Die stimmungsvollen Ruinen sind im Regen wunderschön; parken Sie Ihr Fahrrad vorsichtig auf dem nassen Gras oder Kies, da der Ständer einsinken kann.",
                 "hu": "A hangulatos romok esőben is gyönyörűek; a kerékpárt óvatosan támassza le a vizes füvön vagy kavicson, nehogy a kitámasztó elsüllyedjen a sárban.",
                 "ro": "Ruinele pline de atmosferă sunt frumoase în ploaie; parcați bicicleta cu grijă pe iarba umedă sau pe pietriș, deoarece cricul se poate scufunda.",
-                "en": "The moody ruins are beautiful even in the rain; park your bike carefully on the wet grass or gravel, as the kickstand might easily sink into the mud."
+                "en": "The moody ruins are beautiful even in the rain; park your bike carefully on the wet grass or gravel, as the kickstand might easily sink into the mud.",
+                "fr": "Les ruines mélancoliques sont belles même sous la pluie ; garez votre vélo avec précaution sur l’herbe ou le gravier mouillés, la béquille pouvant facilement s’enfoncer dans la boue."
               }
             },
             {
@@ -598,13 +661,15 @@
                 "de": "Notre-Dame Church",
                 "hu": "Notre-Dame Church",
                 "ro": "Notre-Dame Church",
-                "en": "Notre-Dame Church"
+                "en": "Notre-Dame Church",
+                "fr": "Église Notre-Dame"
               },
               "tip_5lang": {
                 "de": "Treten Sie ein, um sich abzutrocknen; die Akustik der Kirche ist erstaunlich, wenn man dem Regen lauscht, der draußen auf das Dach prasselt.",
                 "hu": "Lépjen be, hogy kicsit megszáradjon; a templom akusztikája lenyűgöző, ahogy hallgatni lehet a kinti tetőn hangosan kopogó esőcseppeket.",
                 "ro": "Intrați pentru a vă usca puțin; acustica bisericii este uimitoare atunci când ascultați ploaia care bate cu putere pe acoperișul de afară.",
-                "en": "Step inside to dry off a little; the church's acoustics are simply amazing when you listen to the heavy rain drumming loudly on the roof outside."
+                "en": "Step inside to dry off a little; the church's acoustics are simply amazing when you listen to the heavy rain drumming loudly on the roof outside.",
+                "fr": "Entrez pour vous sécher un peu ; l’acoustique de l’église est tout simplement remarquable quand on écoute la pluie battante sur le toit."
               }
             },
             {
@@ -612,13 +677,15 @@
                 "de": "Église Saint-Jacques",
                 "hu": "Église Saint-Jacques",
                 "ro": "Église Saint-Jacques",
-                "en": "Église Saint-Jacques"
+                "en": "Église Saint-Jacques",
+                "fr": "Église Saint-Jacques"
               },
               "tip_5lang": {
                 "de": "Großartige historische Architektur; lassen Sie Ihr Fahrrad unter den nahen Dachvorsprüngen stehen, während Sie drinnen vor dem Regen Schutz suchen.",
                 "hu": "Kiváló történelmi építészet; hagyja a kerékpárját a közeli eresz alatt, amíg Ön odabent a falak között menedéket keres a szakadó eső elől.",
                 "ro": "Arhitectură istorică excelentă; lăsați bicicleta sub streșinile din apropiere în timp ce căutați adăpost de ploaia torențială în interior.",
-                "en": "Excellent historical architecture; leave your bicycle properly secured under the nearby eaves while you take shelter from the pouring rain inside."
+                "en": "Excellent historical architecture; leave your bicycle properly secured under the nearby eaves while you take shelter from the pouring rain inside.",
+                "fr": "Magnifique architecture historique ; laissez votre vélo bien sécurisé sous les auvents proches pendant que vous vous abritez de la pluie torrentielle à l’intérieur."
               }
             },
             {
@@ -626,13 +693,15 @@
                 "de": "Valley Bridge",
                 "hu": "Valley Bridge",
                 "ro": "Valley Bridge",
-                "en": "Valley Bridge"
+                "en": "Valley Bridge",
+                "fr": "Pont de la Vallée"
               },
               "tip_5lang": {
                 "de": "Malerische Ausblicke auf den reißenden Fluss; bremsen Sie frühzeitig, da das nasse Kopfsteinpflaster die Haftung der Reifen extrem verringert.",
                 "hu": "Festői kilátás a sebes vizű folyóra; nagyon korán kezdjen el fékezni, mivel a vizes macskakő drasztikusan csökkenti a kerékpárgumik tapadását.",
                 "ro": "Vederi pitorești ale râului învolburat; frânați foarte devreme, deoarece piatra cubică udă reduce drastic aderența anvelopelor de bicicletă.",
-                "en": "Picturesque views of the rushing river; make sure to brake very early, as the wet cobblestones drastically reduce the grip of your bicycle tires."
+                "en": "Picturesque views of the rushing river; make sure to brake very early, as the wet cobblestones drastically reduce the grip of your bicycle tires.",
+                "fr": "Vues pittoresques sur la rivière en furie ; veillez à freiner très tôt, les pavés mouillés réduisant considérablement l’adhérence des pneus de vélo."
               }
             },
             {
@@ -640,13 +709,15 @@
                 "de": "Garenne Lemot Estate",
                 "hu": "Garenne Lemot Estate",
                 "ro": "Garenne Lemot Estate",
-                "en": "Garenne Lemot Estate"
+                "en": "Garenne Lemot Estate",
+                "fr": "Domaine de la Garenne Lemot"
               },
               "tip_5lang": {
                 "de": "Die Architektur kontrastiert schön mit dem grauen Himmel; bleiben Sie mit dem Rad auf den asphaltierten Wegen, um tiefen Schlamm zu vermeiden.",
                 "hu": "Az építészet szépen kontrasztál a szürke éggel; a kerékpárral szigorúan maradjon a kiépített, burkolt utakon, hogy elkerülje a mély sarat.",
                 "ro": "Arhitectura contrastează frumos cu cerul gri; cu bicicleta rămâneți strict pe potecile pavate pentru a evita noroiul adânc din parc.",
-                "en": "The architecture contrasts beautifully with the grey sky; make sure to strictly stick to the paved paths with your bike to avoid the deep mud."
+                "en": "The architecture contrasts beautifully with the grey sky; make sure to strictly stick to the paved paths with your bike to avoid the deep mud.",
+                "fr": "L’architecture contraste magnifiquement avec le ciel gris ; tenez‑vous strictement aux chemins pavés à vélo pour éviter la boue profonde."
               }
             }
           ]
@@ -656,7 +727,8 @@
             "de": "Morgens starten wir in der Kälte am historischen Markt, wo heiße Getränke locken. Mittags wärmt uns die steile Fahrt hoch zur Burg und den Kirchen richtig auf. Nachmittags überqueren wir die Brücke und bewundern das toskanische Landgut in der Wintersonne. Abends schalten wir wegen der frühen Dämmerung rechtzeitig die Fahrradlichter ein.",
             "hu": "Reggel a történelmi piacnál indítjuk a túrát a hidegben, meleg teát kortyolva. Délben a kastélyhoz és a templomokhoz vezető kaptató kellemesen felmelegít tekerés közben. Délután a hídon átkelve a toszkán birtok téli arcát csodáljuk. Este a korai sötétedés miatt időben bekapcsoljuk a kerékpárunk világítását a biztonságért.",
             "ro": "Dimineața începem turul la piața istorică în frig, savurând un ceai cald. La prânz, urcarea spre castel și biserici ne încălzește plăcut în timp ce pedalăm. După-amiaza traversăm podul și admirăm fața de iarnă a moșiei toscane. Seara aprindem luminile bicicletei din timp din cauza întunericului care cade devreme.",
-            "en": "We start the tour in the cold at the historical market in the morning, sipping hot tea. At noon, the steep ride up to the castle and churches pleasantly warms us up. In the afternoon, we cross the bridge to admire the Tuscan estate's winter face. In the evening, we turn on our bike lights early due to the quick winter dusk."
+            "en": "We start the tour in the cold at the historical market in the morning, sipping hot tea. At noon, the steep ride up to the castle and churches pleasantly warms us up. In the afternoon, we cross the bridge to admire the Tuscan estate's winter face. In the evening, we turn on our bike lights early due to the quick winter dusk.",
+            "fr": "Nous commençons la visite au froid, au marché historique le matin en sirotant un thé chaud. À midi, la montée raide jusqu’au château et aux églises nous réchauffe agréablement. L’après‑midi, nous traversons le pont pour admirer le visage hivernal du domaine toscan. Le soir, nous allumons nos éclairages de vélo tôt à cause du crépuscule hivernal qui arrive vite."
           },
           "stops": [
             {
@@ -664,13 +736,15 @@
                 "de": "Clisson Covered Market",
                 "hu": "Clisson Covered Market",
                 "ro": "Clisson Covered Market",
-                "en": "Clisson Covered Market"
+                "en": "Clisson Covered Market",
+                "fr": "Halle couverte de Clisson"
               },
               "tip_5lang": {
                 "de": "Der Markt aus dem 15. Jahrhundert ist ein toller Startpunkt; tragen Sie Thermo-Handschuhe, da der Lenker am winterlichen Morgen eiskalt ist.",
                 "hu": "A 15. századi piac kiváló kiindulópont; feltétlenül viseljen termo kesztyűt, mivel a kerékpár kormánya a fagyos téli reggeleken jéghideg lehet.",
                 "ro": "Piața din secolul al 15-lea este un punct de plecare excelent; purtați mănuși termice, deoarece ghidonul bicicletei este înghețat în diminețile de iarnă.",
-                "en": "The 15th-century market is an excellent starting point; make sure to wear thermal gloves, as the bicycle handlebars get freezing cold on winter mornings."
+                "en": "The 15th-century market is an excellent starting point; make sure to wear thermal gloves, as the bicycle handlebars get freezing cold on winter mornings.",
+                "fr": "La halle du XVe siècle est un excellent point de départ ; pensez à porter des gants thermiques, les guidons de vélo devenant glacés les matins d’hiver."
               }
             },
             {
@@ -678,13 +752,15 @@
                 "de": "Château de Clisson",
                 "hu": "Château de Clisson",
                 "ro": "Château de Clisson",
-                "en": "Château de Clisson"
+                "en": "Château de Clisson",
+                "fr": "Château de Clisson"
               },
               "tip_5lang": {
                 "de": "Genießen Sie die karge Winterpracht der Festung; die steile Fahrt hierhinauf wird Sie bei den niedrigen Temperaturen definitiv gut aufwärmen.",
                 "hu": "Élvezze az erődítmény zord, téli szépségét; az ide vezető meredek és megerőltető tekerés garantáltan felmelegíti a legalacsonyabb hőmérsékleten is.",
                 "ro": "Bucurați-vă de frumusețea aspră de iarnă a fortăreței; urcarea abruptă până aici vă va încălzi garantat chiar și la cele mai scăzute temperaturi.",
-                "en": "Enjoy the stark, imposing winter beauty of the fortress; the steep and strenuous ride up here will definitely keep you warm despite the low temperatures."
+                "en": "Enjoy the stark, imposing winter beauty of the fortress; the steep and strenuous ride up here will definitely keep you warm despite the low temperatures.",
+                "fr": "Appréciez la beauté hivernale austère et imposante de la forteresse ; la montée raide et exigeante vous tiendra certainement chaud malgré les basses températures."
               }
             },
             {
@@ -692,13 +768,15 @@
                 "de": "Notre-Dame Church",
                 "hu": "Notre-Dame Church",
                 "ro": "Notre-Dame Church",
-                "en": "Notre-Dame Church"
+                "en": "Notre-Dame Church",
+                "fr": "Église Notre-Dame"
               },
               "tip_5lang": {
                 "de": "Ein friedlicher Stopp, um die Kunst zu bewundern; nehmen Sie sich drinnen einen Moment Zeit, um Ihr vom Fahrtwind kaltes Gesicht aufzutauen.",
                 "hu": "Békés megálló a művészet csodálatára; szánjon egy percet odabent arra, hogy a hideg menetszéltől átfagyott arcát és kezeit felengedje kicsit.",
                 "ro": "O oprire pașnică pentru a admira arta; luați-vă un moment înăuntru pentru a vă dezgheța fața și mâinile reci de la vântul din timpul mersului.",
-                "en": "A peaceful stop to admire the fine art; take a brief moment inside the church to thaw your freezing face and hands chilled from the winter headwind."
+                "en": "A peaceful stop to admire the fine art; take a brief moment inside the church to thaw your freezing face and hands chilled from the winter headwind.",
+                "fr": "Une halte paisible pour admirer les beaux-arts ; prenez un bref moment à l’intérieur pour réchauffer votre visage et vos mains engourdis par le vent hivernal."
               }
             },
             {
@@ -706,13 +784,15 @@
                 "de": "Église Saint-Jacques",
                 "hu": "Église Saint-Jacques",
                 "ro": "Église Saint-Jacques",
-                "en": "Église Saint-Jacques"
+                "en": "Église Saint-Jacques",
+                "fr": "Église Saint-Jacques"
               },
               "tip_5lang": {
                 "de": "Die Steinfassade ist in der tiefstehenden Wintersonne wunderschön; verweilen Sie aber nicht zu lange draußen, um nach dem Radeln nicht auszukühlen.",
                 "hu": "A kőhomlokzat gyönyörű az alacsonyan járó téli napfényben; ne időzzön túl sokat egyhelyben odakint, nehogy kimelegedve megfázzon a tekerés után.",
                 "ro": "Fațada de piatră este superbă în lumina soarelui de iarnă târzie; nu zăboviți prea mult afară pentru a nu vă răci după efortul pedalării.",
-                "en": "The stone facade is gorgeous in the low winter sun; however, don't linger too long outside standing still to avoid catching a chill after cycling hard."
+                "en": "The stone facade is gorgeous in the low winter sun; however, don't linger too long outside standing still to avoid catching a chill after cycling hard.",
+                "fr": "La façade en pierre est superbe sous le faible soleil d’hiver ; ne restez cependant pas trop longtemps immobile à l’extérieur pour éviter de prendre froid après un effort à vélo."
               }
             },
             {
@@ -720,13 +800,15 @@
                 "de": "Valley Bridge",
                 "hu": "Valley Bridge",
                 "ro": "Valley Bridge",
-                "en": "Valley Bridge"
+                "en": "Valley Bridge",
+                "fr": "Pont de la Vallée"
               },
               "tip_5lang": {
                 "de": "Klare Winteraussichten auf die Sèvre; achten Sie bei der Überfahrt sehr genau auf gefährliches Blitzeis auf der Brückenoberfläche.",
                 "hu": "Tiszta, téli kilátás a Sèvre folyóra; az áthaladáskor rendkívüli módon figyeljen a híd felületén esetlegesen kialakuló, alattomos tükörjégre.",
                 "ro": "Priveliști clare de iarnă asupra râului Sèvre; la traversare, fiți extrem de atenți la gheața neagră periculoasă de pe suprafața podului.",
-                "en": "Crisp, clear winter views of the Sèvre river; when crossing, watch out very carefully for treacherous patches of black ice on the bridge surface."
+                "en": "Crisp, clear winter views of the Sèvre river; when crossing, watch out very carefully for treacherous patches of black ice on the bridge surface.",
+                "fr": "Vues hivernales nettes et claires sur la Sèvre ; en traversant, soyez très vigilant aux plaques de verglas traîtres sur la surface du pont."
               }
             },
             {
@@ -734,13 +816,15 @@
                 "de": "Garenne Lemot Estate",
                 "hu": "Garenne Lemot Estate",
                 "ro": "Garenne Lemot Estate",
-                "en": "Garenne Lemot Estate"
+                "en": "Garenne Lemot Estate",
+                "fr": "Domaine de la Garenne Lemot"
               },
               "tip_5lang": {
                 "de": "Erkunden Sie das toskanische Landgut in der winterlichen Stille; stellen Sie sicher, dass Sie Ihre Radtour vor der frühen Abenddämmerung beenden.",
                 "hu": "Fedezze fel a toszkán stílusú birtokot a téli csendben; mindenképpen úgy tervezze, hogy még a korai, délutáni szürkület beállta előtt végezzen a túrával.",
                 "ro": "Explorați moșia în stil toscan în liniștea iernii; asigurați-vă că vă terminați turul cu bicicleta înainte de lăsarea întunericului timpuriu de după-amiază.",
-                "en": "Explore the Tuscan-style estate in the peaceful winter quiet; ensure you plan properly to finish your ride entirely before the very early afternoon dusk."
+                "en": "Explore the Tuscan-style estate in the peaceful winter quiet; ensure you plan properly to finish your ride entirely before the very early afternoon dusk.",
+                "fr": "Explorez le domaine de style toscan dans le calme hivernal ; veillez à planifier correctement pour terminer votre balade avant le crépuscule très tôt en après‑midi."
               }
             }
           ]
@@ -760,7 +844,8 @@
             "de": "Clisson Covered Market",
             "hu": "Clisson Covered Market",
             "ro": "Clisson Covered Market",
-            "en": "Clisson Covered Market"
+            "en": "Clisson Covered Market",
+            "fr": "Halle couverte de Clisson"
           },
           "coords": [
             -1.309829,
@@ -775,7 +860,8 @@
             "de": "Erleben Sie lokale Aromen in dieser historischen Markthalle mit ihrer beeindruckenden Holzdachkonstruktion und kommen Sie vor dem Mittag, um die frischesten Produkte zu finden.",
             "hu": "Tapasztalja meg a helyi ízeket ebben a nyüzsgő, történelmi piaccsarnokban, amely lenyűgöző fa tetőszerkezetéről ismert, és érkezzen dél előtt a legfrissebb árukért.",
             "ro": "Experimentați aromele locale în această piață istorică plină de viață, cunoscută pentru acoperișul său din lemn, și sosiți înainte de prânz pentru produse proaspete.",
-            "en": "Experience local flavors at this bustling historical market hall known for its impressive timber roof structure, and arrive before noon for the freshest regional produce."
+            "en": "Experience local flavors at this bustling historical market hall known for its impressive timber roof structure, and arrive before noon for the freshest regional produce.",
+            "fr": "Goûtez aux saveurs locales dans cette halle historique animée, réputée pour sa charpente en bois impressionnante ; arrivez avant midi pour les produits régionaux les plus frais."
           }
         },
         {
@@ -783,7 +869,8 @@
             "de": "Château de Clisson",
             "hu": "Château de Clisson",
             "ro": "Château de Clisson",
-            "en": "Château de Clisson"
+            "en": "Château de Clisson",
+            "fr": "Château de Clisson"
           },
           "coords": [
             -1.281002,
@@ -798,7 +885,8 @@
             "de": "Erkunden Sie die majestätischen Ruinen dieser Festung, die Einblicke in die bretonischen Grenzkriege bietet, und besteigen Sie die verbliebenen Türme für einen Panoramablick.",
             "hu": "Fedezze fel e hatalmas erődítmény fenséges romjait, amelyek a breton határháborúkba nyújtanak bepillantást, és másszon fel a megmaradt tornyokra a pazar völgyi kilátásért.",
             "ro": "Explorați ruinele maiestuoase ale acestei cetăți puternice, care oferă o perspectivă asupra războaielor de graniță bretone, și urcați în turnurile rămase pentru panoramă.",
-            "en": "Explore the majestic ruins of this powerful fortress offering insights into the Breton border wars, and climb the remaining towers for a panoramic view of the valley."
+            "en": "Explore the majestic ruins of this powerful fortress offering insights into the Breton border wars, and climb the remaining towers for a panoramic view of the valley.",
+            "fr": "Parcourez les majestueuses ruines de cette puissante forteresse, qui éclairent les guerres frontalières bretonnes ; montez dans les tours restantes pour une vue panoramique sur la vallée."
           }
         },
         {
@@ -806,7 +894,8 @@
             "de": "Porte de Ville",
             "hu": "Porte de Ville",
             "ro": "Porte de Ville",
-            "en": "Porte de Ville"
+            "en": "Porte de Ville",
+            "fr": "Porte de Ville"
           },
           "coords": [
             -1.282604,
@@ -821,7 +910,8 @@
             "de": "Bewundern Sie die mittelalterliche Architektur dieses alten Stadttors, das einst Clisson schützte, und achten Sie auf die historischen Schießscharten in der Steinfassade.",
             "hu": "Csodálja meg ennek az ősi városkapunak a középkori építészetét, amely egykor Clissont védte, és figyelje meg a kőhomlokzaton lévő történelmi lőréseket közelebbről.",
             "ro": "Admirați arhitectura medievală a acestei porți vechi care proteja Clissonul și asigurați-vă că observați fantele defensive istorice de pe fațada sa de piatră.",
-            "en": "Admire the medieval architecture of this ancient city gate that once protected Clisson, and be sure to notice the historic defensive arrow slits on its stone facade."
+            "en": "Admire the medieval architecture of this ancient city gate that once protected Clisson, and be sure to notice the historic defensive arrow slits on its stone facade.",
+            "fr": "Admirez l’architecture médiévale de cette ancienne porte urbaine qui protégeait jadis Clisson ; remarquez les meurtrières défensives historiques sur sa façade en pierre."
           }
         },
         {
@@ -829,7 +919,8 @@
             "de": "Valley Bridge",
             "hu": "Valley Bridge",
             "ro": "Valley Bridge",
-            "en": "Valley Bridge"
+            "en": "Valley Bridge",
+            "fr": "Pont de la Vallée"
           },
           "coords": [
             -1.27972,
@@ -844,7 +935,8 @@
             "de": "Spazieren Sie über dieses historische Viadukt, das den Fluss Sèvre Nantaise überspannt, für spektakuläre Fotomotive, und bringen Sie ein Weitwinkelobjektiv mit.",
             "hu": "Sétáljon át ezen a Sèvre Nantaise folyót átívelő történelmi viadukton a látványos fotózási lehetőségekért, és hozzon magával nagylátószögű objektívet a tájhoz.",
             "ro": "Plimbați-vă pe acest viaduct istoric ce traversează râul Sèvre Nantaise pentru oportunități foto spectaculoase și aduceți o cameră cu un obiectiv larg pentru peisaj.",
-            "en": "Walk across this historic viaduct spanning the Sèvre Nantaise river for spectacular photo opportunities, and bring a camera with a wide lens to capture the whole landscape."
+            "en": "Walk across this historic viaduct spanning the Sèvre Nantaise river for spectacular photo opportunities, and bring a camera with a wide lens to capture the whole landscape.",
+            "fr": "Traversez ce viaduc historique enjambant la Sèvre Nantaise pour des opportunités photo spectaculaires ; emmenez un appareil avec un grand-angle pour capter l’ensemble du paysage."
           }
         },
         {
@@ -852,7 +944,8 @@
             "de": "Garenne Lemot Estate",
             "hu": "Garenne Lemot Estate",
             "ro": "Garenne Lemot Estate",
-            "en": "Garenne Lemot Estate"
+            "en": "Garenne Lemot Estate",
+            "fr": "Domaine de la Garenne Lemot"
           },
           "coords": [
             -1.27591,
@@ -867,7 +960,8 @@
             "de": "Schlendern Sie durch diesen italienisch inspirierten Park voller neoklassizistischer Statuen und üppiger Gärten und packen Sie ein Picknick für das malerische Flussufer ein.",
             "hu": "Sétáljon végig ezen a csodálatos, olasz ihletésű, neoklasszicista szobrokkal és buja kertekkel teli parkon, és csomagoljon egy kis pikniket a festői folyópartra.",
             "ro": "Plimbați-vă prin acest magnific parc de inspirație italiană, plin de statui neoclasice și grădini luxuriante, și luați un picnic pentru a vă bucura de malul râului.",
-            "en": "Wander through this magnificent Italian-inspired park full of neoclassical statues and lush gardens, and pack a small picnic to enjoy near the scenic riverbanks."
+            "en": "Wander through this magnificent Italian-inspired park full of neoclassical statues and lush gardens, and pack a small picnic to enjoy near the scenic riverbanks.",
+            "fr": "Flânez dans ce magnifique parc d’inspiration italienne, parsemé de statues néoclassiques et de jardins luxuriants ; prévoyez un petit pique-nique à savourer près des berges pittoresques."
           }
         }
       ],
@@ -875,7 +969,8 @@
         "de": "Beginnen Sie den Morgen mit einer Fahrt zum geschäftigen Covered Market für lokale Köstlichkeiten und steuern Sie dann das imposante Château de Clisson an.\nMittags erreichen Sie die historische Porte de Ville, wo Sie bequem in der Nähe parken und die alte Verteidigungsarchitektur der Stadt bewundern können.\nAm Nachmittag führt Sie eine kurze Fahrt über die berühmte Valley Bridge, die atemberaubende Aussichtspunkte und ein wahres Gefühl für den Fluss bietet.\nBeenden Sie den Abend auf dem Anwesen Garenne Lemot bei einem entspannten Spaziergang zwischen neoklassizistischen Statuen, bevor Sie ins Hotel fahren.",
         "hu": "Kezdje a reggelt azzal, hogy a nyüzsgő fedett piachoz hajt a helyi finomságokért, majd induljon el a lenyűgöző Château de Clisson felé.\nA délidő a történelmi Porte de Ville-hez viszi, ahol a közelben könnyedén leparkolhat, és megcsodálhatja a város ősi védelmi építészetét.\nDélután egy rövid autózás után átkelhet a híres Valley Bridge-en, amely lélegzetelállító kilátópontokat és igazi rálátást nyújt a folyó méreteire.\nZárja az estét a csodálatos Garenne Lemot birtokon, élvezve a pihentető sétát a neoklasszicista szobrok között, mielőtt visszavezetne a szállodába.",
         "ro": "Începeți dimineața conducând către Piața Acoperită plină de viață pentru a lua delicatese locale, apoi îndreptați-vă spre impunătorul Château de Clisson.\nAmiaza vă aduce la istorica Porte de Ville, unde puteți parca ușor în apropiere pentru a admira arhitectura de apărare antică a orașului.\nDupă-amiaza, un scurt drum cu mașina vă poartă peste faimosul Pod al Văii, oferind puncte de belvedere uimitoare și o imagine asupra râului.\nÎncheiați seara pe domeniul magnific Garenne Lemot, bucurându-vă de o plimbare printre statui neoclasice înainte de a conduce înapoi la hotel.",
-        "en": "Start the morning by driving to the bustling Covered Market to pick up local delicacies, then head towards the imposing Château de Clisson.\nMidday brings you to the historic Porte de Ville, where you can easily park nearby and admire the ancient defensive architecture of the city.\nIn the afternoon, a short drive takes you over the famous Valley Bridge, providing breathtaking viewpoints and a true sense of the river's scale.\nConclude the evening at the magnificent Garenne Lemot Estate, enjoying a relaxing stroll among neoclassical statues before driving back to your hotel."
+        "en": "Start the morning by driving to the bustling Covered Market to pick up local delicacies, then head towards the imposing Château de Clisson.\nMidday brings you to the historic Porte de Ville, where you can easily park nearby and admire the ancient defensive architecture of the city.\nIn the afternoon, a short drive takes you over the famous Valley Bridge, providing breathtaking viewpoints and a true sense of the river's scale.\nConclude the evening at the magnificent Garenne Lemot Estate, enjoying a relaxing stroll among neoclassical statues before driving back to your hotel.",
+        "fr": "Commencez la matinée en vous rendant à la halle couverte animée pour acheter des spécialités locales, puis dirigez-vous vers l’imposant Château de Clisson.\nLe midi vous conduit à la historique Porte de Ville, où vous pouvez vous garer aisément et admirer l’architecture défensive ancienne de la cité.\nL’après‑midi, une courte route vous mène sur le célèbre Pont de la Vallée, offrant des points de vue époustouflants et une réelle impression de l’échelle du fleuve.\nTerminez la soirée au magnifique Domaine de la Garenne Lemot, en profitant d’une promenade relaxante parmi les statues néoclassiques avant de retourner à votre hôtel."
       },
       "variants": {
         "rainy": {
@@ -883,7 +978,8 @@
             "de": "Morgens parken wir bequem nahe dem Markt, um trocken in den Tag zu starten. Mittags fahren wir zur Burg und zum Stadttor, wobei die Sitzheizung wahre Wunder wirkt. Nachmittags blicken wir aus dem Auto auf das neblige Panorama der Talbrücke. Abends verlassen wir Clisson, während sich die Autoscheinwerfer im nassen Asphalt spiegeln.",
             "hu": "Reggel kényelmesen, a fedett piac közvetlen közelében parkolva, szárazon indítjuk a napot. Délben a kastélyhoz és a várkapuhoz autózunk, az ülések melege nagyon jól esik. Délután a folyó feletti ködös panorámát nézzük a hídról. Este a vízben tükröződő fényszórók melankolikus hangulata kísér minket kifelé a városból.",
             "ro": "Dimineața parcăm confortabil foarte aproape de piața acoperită, pentru a începe ziua uscat. La prânz conducem spre castel și poarta orașului, căldura scaunelor fiind foarte plăcută. După-amiaza privim panorama cețoasă deasupra râului de pe pod. Seara părăsim orașul însoțiți de atmosfera farurilor reflectate în apa de pe asfalt.",
-            "en": "In the morning, we park comfortably right by the covered market to start the day completely dry. At noon, we drive to the castle and city gate, deeply appreciating the warm car seats. In the afternoon, we view the misty river panorama from the bridge. We leave the city in the evening, guided by headlights reflecting beautifully on the wet roads."
+            "en": "In the morning, we park comfortably right by the covered market to start the day completely dry. At noon, we drive to the castle and city gate, deeply appreciating the warm car seats. In the afternoon, we view the misty river panorama from the bridge. We leave the city in the evening, guided by headlights reflecting beautifully on the wet roads.",
+            "fr": "Le matin, nous nous garons confortablement à côté de la halle couverte pour commencer la journée bien au sec. À midi, nous prenons la voiture jusqu’au château et à la porte de la ville, appréciant les sièges chauffants. L’après‑midi, nous admirons le panorama brumeux depuis le pont. Nous quittons la ville le soir, guidés par les phares se reflétant joliment sur les routes mouillées."
           },
           "stops": [
             {
@@ -891,13 +987,15 @@
                 "de": "Clisson Covered Market",
                 "hu": "Clisson Covered Market",
                 "ro": "Clisson Covered Market",
-                "en": "Clisson Covered Market"
+                "en": "Clisson Covered Market",
+                "fr": "Halle couverte de Clisson"
               },
               "tip_5lang": {
                 "de": "Riesige mittelalterliche Holzhalle; dank der guten Parkmöglichkeiten in der Nähe können Sie schnell hineinhuschen, ohne völlig durchnässt zu werden.",
                 "hu": "Hatalmas középkori fa csarnok; a közeli, egyszerű parkolásnak köszönhetően gyorsan be tud szaladni a fedett részre anélkül, hogy teljesen elázna.",
                 "ro": "Hală imensă din lemn medieval; datorită parcării ușoare din apropiere, puteți alerga rapid înăuntru fără a vă uda complet în ploaia torențială.",
-                "en": "A huge medieval wooden hall; easy parking closely nearby means you can quickly dash inside the covered area without getting completely soaked."
+                "en": "A huge medieval wooden hall; easy parking closely nearby means you can quickly dash inside the covered area without getting completely soaked.",
+                "fr": "Une immense halle médiévale en bois ; un parking facile à proximité vous permet de plonger rapidement à l’intérieur sans être complètement trempé."
               }
             },
             {
@@ -905,13 +1003,15 @@
                 "de": "Château de Clisson",
                 "hu": "Château de Clisson",
                 "ro": "Château de Clisson",
-                "en": "Château de Clisson"
+                "en": "Château de Clisson",
+                "fr": "Château de Clisson"
               },
               "tip_5lang": {
                 "de": "Die Festung sieht gegen die dunklen Regenwolken dramatisch aus; nehmen Sie unbedingt einen Regenschirm für den kurzen Fußweg vom Parkplatz mit.",
                 "hu": "Az erőd igazán drámaian fest a sötét esőfelhők előtt; feltétlenül vigyen magával egy nagy esernyőt a parkolótól a bejáratig tartó rövid sétához.",
                 "ro": "Fortăreața arată dramatic pe fundalul norilor întunecați de ploaie; asigurați-vă că luați o umbrelă pentru scurta plimbare de la parcare la intrare.",
-                "en": "The fortress looks particularly dramatic against the dark rain clouds; be sure to bring a large umbrella for the short walk from the car park to the entrance."
+                "en": "The fortress looks particularly dramatic against the dark rain clouds; be sure to bring a large umbrella for the short walk from the car park to the entrance.",
+                "fr": "La forteresse a un aspect particulièrement dramatique sous les nuages sombres de pluie ; pensez à prendre un grand parapluie pour la courte marche du parking à l’entrée."
               }
             },
             {
@@ -919,13 +1019,15 @@
                 "de": "Porte de Ville",
                 "hu": "Porte de Ville",
                 "ro": "Porte de Ville",
-                "en": "Porte de Ville"
+                "en": "Porte de Ville",
+                "fr": "Porte de Ville"
               },
               "tip_5lang": {
                 "de": "Ein imposantes altes Stadttor; Sie können viele architektonische Details bequem und vor allem völlig trocken direkt aus Ihrem warmen Auto bewundern.",
                 "hu": "Impozáns, ősi városkapu; a lenyűgöző építészeti részletek egy részét kényelmesen és teljesen szárazon, közvetlenül a meleg autójából is megcsodálhatja.",
                 "ro": "O poartă antică impunătoare; puteți admira multe dintre detaliile arhitecturale confortabil și complet uscat direct din interiorul mașinii dumneavoastră.",
-                "en": "An imposing ancient city gate; you can actually admire many of its fine architectural details comfortably and completely dry right from inside your car."
+                "en": "An imposing ancient city gate; you can actually admire many of its fine architectural details comfortably and completely dry right from inside your car.",
+                "fr": "Une imposante porte urbaine ancienne ; vous pouvez admirer de nombreux détails architecturaux confortablement et bien au sec depuis l’intérieur de votre voiture."
               }
             },
             {
@@ -933,13 +1035,15 @@
                 "de": "Valley Bridge",
                 "hu": "Valley Bridge",
                 "ro": "Valley Bridge",
-                "en": "Valley Bridge"
+                "en": "Valley Bridge",
+                "fr": "Pont de la Vallée"
               },
               "tip_5lang": {
                 "de": "Der Fluss darunter schwillt bei Regen beeindruckend an; achten Sie beim Einparken in der Nähe auf unvorhersehbar tiefe Pfützen am Straßenrand.",
                 "hu": "A lenti folyó esőben lenyűgözően megduzzad; a környéken történő parkoláskor nagyon figyeljen a kiszámíthatatlanul mély pocsolyákra az út szélén.",
                 "ro": "Râul de dedesubt se umflă impresionant în ploaie; fiți atenți la bălțile imprevizibil de adânci de pe marginea drumului când parcați în zonă.",
-                "en": "The river far below swells impressively in the rain; when parking nearby, keep a keen eye out for unpredictably deep puddles along the edge of the road."
+                "en": "The river far below swells impressively in the rain; when parking nearby, keep a keen eye out for unpredictably deep puddles along the edge of the road.",
+                "fr": "La rivière en contrebas gonfle de façon impressionnante sous la pluie ; en vous garant à proximité, méfiez‑vous des flaques exceptionnellement profondes au bord de la route."
               }
             },
             {
@@ -947,13 +1051,15 @@
                 "de": "Garenne Lemot Estate",
                 "hu": "Garenne Lemot Estate",
                 "ro": "Garenne Lemot Estate",
-                "en": "Garenne Lemot Estate"
+                "en": "Garenne Lemot Estate",
+                "fr": "Domaine de la Garenne Lemot"
               },
               "tip_5lang": {
                 "de": "Das nasse Laub macht die Farben des Parks lebendig; bewahren Sie ein Handtuch im Auto auf, um sich nach dem nassen Spaziergang schnell abzutrocknen.",
                 "hu": "A vizes lombozat ragyogóvá teszi a park színeit; tartson egy törölközőt az autóban, hogy a nedves séta után gyorsan és kényelmesen meg tudjon szárítkozni.",
                 "ro": "Frunzișul umed face ca culorile parcului să fie foarte vibrante; păstrați un prosop în mașină pentru a vă usca rapid după plimbarea inevitabil de umedă.",
-                "en": "The wet foliage makes the park's colors wonderfully vibrant; purposefully keep a towel in the car to dry off quickly after your inevitably wet walk."
+                "en": "The wet foliage makes the park's colors wonderfully vibrant; purposefully keep a towel in the car to dry off quickly after your inevitably wet walk.",
+                "fr": "Le feuillage humide rend les couleurs du parc merveilleusement vibrantes ; pensez à garder une serviette dans la voiture pour vous sécher après votre promenade forcément mouillée."
               }
             }
           ]
@@ -963,7 +1069,8 @@
             "de": "Morgens steigen wir aus dem beheizten Auto, um den frostigen Markt zu bewundern. Mittags bieten die vereiste Burg und das alte Stadttor atemberaubende Fotomotive. Nachmittags fahren wir über die Brücke zum Park, der in schwaches Winterlicht getaucht ist. Abends genießen wir den Anblick der festlich beleuchteten Stadt sicher aus dem warmen Fahrzeug.",
             "hu": "Reggel a fűtött autóból kiszállva csodáljuk meg a fagyos, történelmi piacot. Délben a deres kastély és az ősi várkapu nyújt lenyűgöző látványt egy rövid megállóra. Délután a hídon át a parkba hajtunk, ahol a téli napfény halványan világítja meg az utat. Este a kényelmes, fűtött kocsiból nézzük a kivilágított város fényeit.",
             "ro": "Dimineața coborâm din mașina încălzită pentru a admira piața istorică înghețată. La prânz, castelul plin de brumă și poarta antică oferă o priveliște uimitoare pentru o scurtă oprire. După-amiaza conducem peste pod spre parc, unde lumina palidă de iarnă luminează calea. Seara privim luminile orașului din mașina confortabilă și caldă.",
-            "en": "In the morning, we step out of the heated car to admire the frosty historical market. At noon, the frosted castle and ancient city gate offer a stunning sight for a short stop. In the afternoon, we drive over the bridge to the park, where pale winter sunlight illuminates the path. We watch the illuminated city lights from the warm car in the evening."
+            "en": "In the morning, we step out of the heated car to admire the frosty historical market. At noon, the frosted castle and ancient city gate offer a stunning sight for a short stop. In the afternoon, we drive over the bridge to the park, where pale winter sunlight illuminates the path. We watch the illuminated city lights from the warm car in the evening.",
+            "fr": "Le matin, nous sortons de la voiture chauffée pour admirer le marché historique givré. À midi, le château et la porte médiévale givrés offrent un spectacle impressionnant le temps d’un arrêt. L’après‑midi, nous traversons le pont pour rejoindre le parc, où une pâle lumière hivernale éclaire le chemin. Le soir, nous contemplons les lumières de la ville depuis la voiture chaude."
           },
           "stops": [
             {
@@ -971,13 +1078,15 @@
                 "de": "Clisson Covered Market",
                 "hu": "Clisson Covered Market",
                 "ro": "Clisson Covered Market",
-                "en": "Clisson Covered Market"
+                "en": "Clisson Covered Market",
+                "fr": "Halle couverte de Clisson"
               },
               "tip_5lang": {
                 "de": "Die Holzkonstruktion ist großartig; parken Sie so nah wie möglich, um Ihre Zeit im eiskalten, schneidenden Winterwind auf ein Minimum zu reduzieren.",
                 "hu": "A faszerkezet egyszerűen nagyszerű; parkoljon a lehető legközelebb, hogy minimálisra csökkentse a jéghideg, metsző téli szélben eltöltött időt.",
                 "ro": "Structura din lemn este pur și simplu magnifică; parcați cât mai aproape posibil pentru a minimiza timpul petrecut în vântul înghețat și tăios de iarnă.",
-                "en": "The massive timber structure is simply magnificent; park as closely as possible to strictly minimize your time exposed to the freezing, biting winter wind."
+                "en": "The massive timber structure is simply magnificent; park as closely as possible to strictly minimize your time exposed to the freezing, biting winter wind.",
+                "fr": "La massive charpente est tout simplement magnifique ; garez‑vous le plus près possible pour minimiser strictement votre exposition au vent hivernal glacial et mordant."
               }
             },
             {
@@ -985,13 +1094,15 @@
                 "de": "Château de Clisson",
                 "hu": "Château de Clisson",
                 "ro": "Château de Clisson",
-                "en": "Château de Clisson"
+                "en": "Château de Clisson",
+                "fr": "Château de Clisson"
               },
               "tip_5lang": {
                 "de": "Die Ruinen sind im Winter karg und extrem imposant; die Autoheizung wird nach der frostigen Erkundung zu Fuß eine sehr willkommene Erleichterung sein.",
                 "hu": "A romok télen zordak és rendkívül impozánsak; az autó fűtése nagyon szívesen látott megkönnyebbülés lesz a fagyos, szabadtéri felfedezés után.",
                 "ro": "Ruinele sunt aspre și extrem de impunătoare în timpul iernii; încălzirea mașinii va fi o ușurare foarte binevenită după explorarea geroasă în aer liber.",
-                "en": "The ruins are stark and extremely imposing in winter; turning on the car heater will be a very welcome relief after your frosty outdoor exploration."
+                "en": "The ruins are stark and extremely imposing in winter; turning on the car heater will be a very welcome relief after your frosty outdoor exploration.",
+                "fr": "Les ruines sont sévères et très imposantes en hiver ; allumer le chauffage de la voiture sera un grand soulagement après l’exploration glaciale en extérieur."
               }
             },
             {
@@ -999,13 +1110,15 @@
                 "de": "Porte de Ville",
                 "hu": "Porte de Ville",
                 "ro": "Porte de Ville",
-                "en": "Porte de Ville"
+                "en": "Porte de Ville",
+                "fr": "Porte de Ville"
               },
               "tip_5lang": {
                 "de": "Ein kurzer Stopp, um das mittelalterliche Tor zu sehen; hüten Sie sich vor tückischen Eisflächen auf den umliegenden, kopfsteingepflasterten Gehwegen.",
                 "hu": "Gyors megálló a középkori kapu megtekintésére; gyalogos megközelítéskor nagyon óvakodjon a környező járdákon kialakuló alattomos, csúszós jégfoltoktól.",
                 "ro": "O oprire rapidă pentru a vedea poarta medievală; aveți mare grijă la peticele de gheață perfide de pe trotuarele înconjurătoare la apropierea pe jos.",
-                "en": "A quick stop to see the medieval gate; beware of treacherous, slippery patches of ice on the surrounding sidewalks when approaching it on foot."
+                "en": "A quick stop to see the medieval gate; beware of treacherous, slippery patches of ice on the surrounding sidewalks when approaching it on foot.",
+                "fr": "Un arrêt rapide pour voir la porte médiévale ; faites attention aux plaques de verglas traîtres sur les trottoirs environnants en vous approchant à pied."
               }
             },
             {
@@ -1013,13 +1126,15 @@
                 "de": "Valley Bridge",
                 "hu": "Valley Bridge",
                 "ro": "Valley Bridge",
-                "en": "Valley Bridge"
+                "en": "Valley Bridge",
+                "fr": "Pont de la Vallée"
               },
               "tip_5lang": {
                 "de": "Spektakuläre frostige Aussichten über das Tal; fahren Sie sehr vorsichtig über die Brücke, da die exponierte Fahrbahn hier extrem schnell gefriert.",
                 "hu": "Látványos, fagyos kilátás nyílik a völgyre; nagyon óvatosan és lassan vezessen át a hídon, mivel a nyitott úttest itt extrém gyorsan lefagyhat.",
                 "ro": "Priveliști spectaculoase și înghețate asupra văii; conduceți foarte încet și cu grijă peste pod, deoarece carosabilul expus îngheață extrem de repede aici.",
-                "en": "Spectacular frosty views over the valley; drive cautiously and slowly over the bridge as the highly exposed road surface freezes over extremely quickly here."
+                "en": "Spectacular frosty views over the valley; drive cautiously and slowly over the bridge as the highly exposed road surface freezes over extremely quickly here.",
+                "fr": "Vues spectaculaires et givrées sur la vallée ; conduisez prudemment et lentement sur le pont car la chaussée très exposée gèle extrêmement vite ici."
               }
             },
             {
@@ -1027,13 +1142,15 @@
                 "de": "Garenne Lemot Estate",
                 "hu": "Garenne Lemot Estate",
                 "ro": "Garenne Lemot Estate",
-                "en": "Garenne Lemot Estate"
+                "en": "Garenne Lemot Estate",
+                "fr": "Domaine de la Garenne Lemot"
               },
               "tip_5lang": {
                 "de": "Die toskanische Architektur wirkt im Frost geradezu surreal; kommen Sie bis Mitte des Nachmittags an, um dem sehr frühen Sonnenuntergang zuvorzukommen.",
                 "hu": "A toszkán építészet a fagyban szürreálisnak hat; érkezzen meg legkésőbb a délután közepére, hogy mindenképp megelőzze a nagyon korai naplementét.",
                 "ro": "Arhitectura toscană pare de-a dreptul suprarealistă în îngheț; ajungeți cel târziu pe la mijlocul după-amiezii pentru a o lua înaintea apusului foarte devreme.",
-                "en": "The beautiful Tuscan architecture looks surreal in the frost; make sure to arrive by mid-afternoon to successfully beat the very early winter sunset."
+                "en": "The beautiful Tuscan architecture looks surreal in the frost; make sure to arrive by mid-afternoon to successfully beat the very early winter sunset.",
+                "fr": "La belle architecture toscane paraît surréelle sous le givre ; veillez à arriver en milieu d’après‑midi pour battre le coucher du soleil hivernal très précoce."
               }
             }
           ]

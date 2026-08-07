@@ -21,7 +21,8 @@
             "de": "Rathaus Corbie",
             "hu": "Corbie Városháza",
             "ro": "Primăria Corbie",
-            "en": "Corbie Town Hall"
+            "en": "Corbie Town Hall",
+            "fr": "Hôtel de ville de Corbie"
           },
           "coords": [
             2.513452,
@@ -36,7 +37,8 @@
             "de": "Beginnen Sie Ihren Besuch am historischen Rathaus, um die klassische Fassade zu bewundern, und vergessen Sie nicht, am nahen Informationsschalter nach einer Karte zu fragen.",
             "hu": "Kezdje a látogatást a történelmi városházánál, hogy megcsodálja a klasszikus homlokzatot, és ne felejtsen el helyi térképet kérni a közeli információs pultnál.",
             "ro": "Începeți vizita la primăria istorică pentru a-i admira fațada clasică și nu uitați să cereți o hartă locală la biroul de informații turistice din apropiere.",
-            "en": "Start your visit at the historic town hall to admire its classical facade, and don't forget to ask for a local map at the nearby tourist information desk."
+            "en": "Start your visit at the historic town hall to admire its classical facade, and don't forget to ask for a local map at the nearby tourist information desk.",
+            "fr": "Commencez votre visite à l'hôtel de ville historique pour admirer sa façade classique, et n'oubliez pas de demander un plan local au bureau d'information touristique tout proche."
           }
         },
         {
@@ -44,7 +46,8 @@
             "de": "Abteikirche Saint-Pierre",
             "hu": "Saint-Pierre Apátság",
             "ro": "Abația Saint-Pierre",
-            "en": "Abbey of Saint-Pierre"
+            "en": "Abbey of Saint-Pierre",
+            "fr": "Abbaye Saint-Pierre"
           },
           "coords": [
             2.510179,
@@ -59,7 +62,8 @@
             "de": "Bestaunen Sie die hochaufragende gotische Architektur dieser majestätischen Abteikirche und gehen Sie früh hinein, um den Menschenmassen am Nachmittag zu entgehen.",
             "hu": "Csodálja meg ennek a fenséges apátsági templomnak a gótikus építészetét, és mindenképpen menjen be korán, hogy elkerülje a délutáni tömeget.",
             "ro": "Minunați-vă de arhitectura gotică a acestei biserici abațiale majestuoase și asigurați-vă că intrați devreme pentru a evita aglomerația de după-amiază.",
-            "en": "Marvel at the towering Gothic architecture of this majestic abbey church, and be sure to step inside early to avoid the afternoon crowds."
+            "en": "Marvel at the towering Gothic architecture of this majestic abbey church, and be sure to step inside early to avoid the afternoon crowds.",
+            "fr": "Admirez l'architecture gothique imposante de cette majestueuse église abbatiale, et pensez à y entrer tôt pour éviter la foule de l'après-midi."
           }
         },
         {
@@ -67,7 +71,8 @@
             "de": "Kirche Saint-Mathieu",
             "hu": "Saint-Mathieu Templom",
             "ro": "Biserica Saint-Mathieu",
-            "en": "Church of Saint-Mathieu"
+            "en": "Church of Saint-Mathieu",
+            "fr": "Église Saint-Mathieu"
           },
           "coords": [
             2.502542,
@@ -82,7 +87,8 @@
             "de": "Entdecken Sie die ruhige Atmosphäre dieser charmanten lokalen Kirche, die einen perfekten Moment der stillen Reflexion abseits der Hauptstraßen bietet.",
             "hu": "Fedezze fel ennek a bájos helyi templomnak a nyugodt hangulatát, amely tökéletes pillanatot kínál a csendes elmélkedésre a forgalmas főutcáktól távol.",
             "ro": "Descoperiți atmosfera senină a acestei biserici locale fermecătoare, care oferă un moment perfect de reflecție liniștită departe de străzile principale.",
-            "en": "Discover the serene atmosphere of this charming local church, which offers a perfect moment of quiet reflection away from the busy main streets."
+            "en": "Discover the serene atmosphere of this charming local church, which offers a perfect moment of quiet reflection away from the busy main streets.",
+            "fr": "Découvrez l'atmosphère sereine de cette charmante église locale, qui offre un moment parfait de recueillement loin des rues principales animées."
           }
         },
         {
@@ -90,7 +96,8 @@
             "de": "Kirche Notre-Dame de l'Assomption",
             "hu": "Notre-Dame de l'Assomption Templom",
             "ro": "Biserica Notre-Dame de l'Assomption",
-            "en": "Church of Notre-Dame de l'Assomption"
+            "en": "Church of Notre-Dame de l'Assomption",
+            "fr": "Église Notre-Dame de l'Assomption"
           },
           "coords": [
             2.491769,
@@ -105,7 +112,8 @@
             "de": "Nehmen Sie sich Zeit, die kunstvollen Buntglasfenster dieser Pfarrkirche zu würdigen, und bringen Sie eine kleine Spende mit, wenn Sie eine Kerze anzünden möchten.",
             "hu": "Szánjon időt e plébániatemplom bonyolult ólomüveg ablakainak megtekintésére, és hozzon aprópénzt, ha szeretne egy fogadalmi gyertyát gyújtani.",
             "ro": "Alocați-vă timp pentru a aprecia vitraliile detaliate ale acestei biserici parohiale și aduceți o mică donație dacă doriți să aprindeți o lumânare.",
-            "en": "Take time to appreciate the intricate stained glass windows of this parish church, and bring a small donation if you wish to light a votive candle."
+            "en": "Take time to appreciate the intricate stained glass windows of this parish church, and bring a small donation if you wish to light a votive candle.",
+            "fr": "Prenez le temps d'apprécier les vitraux finement travaillés de cette église paroissiale, et apportez une petite offrande si vous souhaitez allumer un cierge votif."
           }
         },
         {
@@ -113,7 +121,8 @@
             "de": "Kirche Sainte-Colombe",
             "hu": "Sainte-Colombe Templom",
             "ro": "Biserica Sainte-Colombe",
-            "en": "Church of Sainte-Colombe"
+            "en": "Church of Sainte-Colombe",
+            "fr": "Église Sainte-Colombe"
           },
           "coords": [
             2.481344,
@@ -128,7 +137,8 @@
             "de": "Erkunden Sie den schlichteren, rustikalen Charme dieser historischen Kultstätte und denken Sie daran, dass die Öffnungszeiten in der Nebensaison unregelmäßig sein können.",
             "hu": "Fedezze fel ennek a történelmi istentiszteleti helynek az egyszerűbb, rusztikus varázsát, de tartsa szem előtt, hogy a nyitvatartása szezonon kívül rendszertelen lehet.",
             "ro": "Explorați farmecul rustic și mai simplu al acestui lăcaș de cult istoric, ținând cont de faptul că orele de deschidere pot fi neregulate în extrasezon.",
-            "en": "Explore the simpler, rustic charm of this historical place of worship, keeping in mind that its opening hours can be irregular during the off-season."
+            "en": "Explore the simpler, rustic charm of this historical place of worship, keeping in mind that its opening hours can be irregular during the off-season.",
+            "fr": "Explorez le charme simple et rustique de ce lieu de culte historique, en gardant à l'esprit que ses horaires d'ouverture peuvent être irréguliers hors saison."
           }
         }
       ],
@@ -136,7 +146,8 @@
         "de": "Beginnen Sie Ihren Morgen im Herzen von Corbie, wo das historische Rathaus und die beeindruckende Abtei den perfekten Auftakt für einen entspannten Spaziergang durch die Stadt bieten. Gegen Mittag schlendern Sie durch die ruhigen Straßen und bewundern die charmante Architektur der Église Saint-Mathieu, bevor Sie eine kleine Pause in einem der lokalen Cafés einlegen. Am Nachmittag führt Sie Ihr Weg zur majestätischen Church of Notre-Dame de l'Assomption, deren kunstvolle Details und ruhige Atmosphäre zum Verweilen einladen. Lassen Sie den Tag mit einem entspannten Besuch der rustikalen Église Sainte-Colombe ausklingen, während die Nachmittagssonne die historischen Fassaden in ein warmes, goldenes Licht taucht.",
         "hu": "Kezdje a reggelt Corbie szívében, ahol a történelmi városháza és a lenyűgöző apátság tökéletes kiindulópontot nyújt egy nyugodt városi sétához. Délben sétáljon végig a csendes utcákon, és csodálja meg az Église Saint-Mathieu bájos építészetét, mielőtt egy rövid pihenőt tartana egy helyi kávézóban. Délután az útja a fenséges Church of Notre-Dame de l'Assomption felé vezet, melynek művészi részletei és békés légköre lenyűgözi a látogatókat. Fejezze be a napot a rusztikus Église Sainte-Colombe pihentető látogatásával, miközben a délutáni nap meleg, arany fénybe vonja a történelmi homlokzatokat.",
         "ro": "Începeți dimineața în inima orașului Corbie, unde primăria istorică și impresionanta abație oferă un punct de plecare perfect pentru o plimbare relaxantă. La prânz, plimbați-vă pe străzile liniștite și admirați arhitectura fermecătoare a Église Saint-Mathieu înainte de a face o scurtă pauză la o cafenea locală. După-amiaza, drumul vă va duce la maiestuoasa biserică Notre-Dame de l'Assomption, ale cărei detalii ornamentate și atmosferă pașnică vă invită să zăboviți. Încheiați ziua cu o vizită relaxantă la biserica rustică Sainte-Colombe, în timp ce soarele după-amiezii scaldă fațadele istorice într-o lumină aurie și caldă.",
-        "en": "Start your morning in the heart of Corbie, where the historic town hall and the impressive abbey provide the perfect starting point for a relaxing walk. At midday, stroll through the quiet streets and admire the charming architecture of Église Saint-Mathieu before taking a short break at a local café. In the afternoon, your path leads to the majestic Church of Notre-Dame de l'Assomption, whose ornate details and peaceful atmosphere invite you to linger. End the day with a relaxing visit to the rustic Église Sainte-Colombe as the afternoon sun bathes the historical facades in a warm, golden light."
+        "en": "Start your morning in the heart of Corbie, where the historic town hall and the impressive abbey provide the perfect starting point for a relaxing walk. At midday, stroll through the quiet streets and admire the charming architecture of Église Saint-Mathieu before taking a short break at a local café. In the afternoon, your path leads to the majestic Church of Notre-Dame de l'Assomption, whose ornate details and peaceful atmosphere invite you to linger. End the day with a relaxing visit to the rustic Église Sainte-Colombe as the afternoon sun bathes the historical facades in a warm, golden light.",
+        "fr": "Commencez votre matinée au cœur de Corbie, où l'hôtel de ville historique et l'impressionnante abbaye offrent le point de départ idéal pour une promenade relaxante. À midi, flânez dans les rues calmes et admirez l'architecture charmante de l'Église Saint-Mathieu avant de faire une courte pause dans un café local. L'après-midi, votre parcours mène à la majestueuse Église Notre-Dame de l'Assomption, dont les détails ornés et l'atmosphère paisible vous invitent à prolonger la visite. Terminez la journée par une visite reposante de la rustique Église Sainte-Colombe tandis que le soleil de l'après-midi baigne les façades historiques d'une chaude lumière dorée."
       },
       "variants": {
         "rainy": {
@@ -144,7 +155,8 @@
             "de": "Beginnen Sie Ihren Tag am neugotischen Rathaus, dessen Architektur auch bei grauem Himmel beeindruckt. Nutzen Sie die kurzen Wege zwischen den Monumenten.\n\nMittags bieten die gewaltigen Hallen der Abteikirche Saint-Pierre einen perfekten, trockenen Zufluchtsort vor dem Regen und faszinierende Stille.\n\nNachmittags führt der Weg zu den weiteren Kirchen der Stadt. Die nassen Pflastersteine reflektieren das Licht und schaffen eine mystische Atmosphäre.\n\nAm Abend endet der Rundgang. Die Regenwolken hängen tief über der Somme, während die Lichter der Stadt in den Pfützen auf den Gehwegen tanzen.",
             "hu": "Kezdje a napot a neogótikus városházánál, melynek homlokzata esőben is méltóságteljes. A város kompakt központja miatt a séták rövidek maradnak.\n\nDélben a Saint-Pierre apátság monumentális belső tere tökéletes menedéket nyújt a zápor elől, miközben megcsodálhatja a történelmi részleteket.\n\nDélután folytassa az utat a templomok felé. Az eső áztatta kövek különleges csillogást adnak a városnak, a belső terek pedig nyugodtak és szárazak.\n\nEste a túra véget ér. A sötét fellegek alatt Corbie fényei visszatükröződnek a járdákon, meghitt hangulatot árasztva a vizes utcákon.",
             "ro": "Începeți ziua la primăria neogotică, a cărei arhitectură impresionează chiar și sub cerul gri. Distanțele scurte dintre monumente sunt ideale pe ploaie.\n\nLa prânz, interiorul vast al Abației Saint-Pierre oferă un refugiu perfect și uscat, permițându-vă să explorați istoria în liniște deplină.\n\nDupă-amiaza, traseul continuă spre celelalte biserici. Pavajul umed reflectă lumina, creând o atmosferă mistică și o perspectivă fotografică unică.\n\nSeara, turul se încheie. Norii de ploaie plutesc deasupra râului Somme, în timp ce luminile orașului strălucesc în bălțile de pe străzi.",
-            "en": "Start your day at the neo-Gothic Town Hall, where the architecture remains striking even under grey skies. Short walking distances help keep you dry.\n\nAt noon, the massive interior of the Abbey of Saint-Pierre provides a perfect dry sanctuary to admire the historic details away from the rain.\n\nIn the afternoon, proceed to the other churches. The wet cobblestones reflect the soft light, adding a poetic, misty atmosphere to the historic path.\n\nBy evening, the walk concludes. Corbie’s lights shimmer in the puddles on the pavement, creating a cozy glow as the rain settles over the Somme."
+            "en": "Start your day at the neo-Gothic Town Hall, where the architecture remains striking even under grey skies. Short walking distances help keep you dry.\n\nAt noon, the massive interior of the Abbey of Saint-Pierre provides a perfect dry sanctuary to admire the historic details away from the rain.\n\nIn the afternoon, proceed to the other churches. The wet cobblestones reflect the soft light, adding a poetic, misty atmosphere to the historic path.\n\nBy evening, the walk concludes. Corbie’s lights shimmer in the puddles on the pavement, creating a cozy glow as the rain settles over the Somme.",
+            "fr": "Commencez la journée à l'Hôtel de ville néo-gothique, dont l'architecture reste saisissante même sous un ciel gris. Les courtes distances à pied vous aident à rester au sec.\n\nÀ midi, l'immense intérieur de l'Abbaye Saint-Pierre offre un sanctuaire sec parfait pour admirer les détails historiques à l'abri de la pluie.\n\nL'après-midi, dirigez-vous vers les autres églises. Les pavés mouillés reflètent la lumière douce, ajoutant une atmosphère poétique et brumeuse au parcours historique.\n\nEn soirée, la promenade se conclut. Les lumières de Corbie scintillent dans les flaques sur le trottoir, créant une lueur accueillante tandis que la pluie s'installe sur la Somme."
           },
           "stops": [
             {
@@ -152,13 +164,15 @@
                 "de": "Rathaus Corbie",
                 "hu": "Corbie Városháza",
                 "ro": "Primăria Corbie",
-                "en": "Corbie Town Hall"
+                "en": "Corbie Town Hall",
+                "fr": "Hôtel de ville de Corbie"
               },
               "tip_5lang": {
                 "de": "Bewundern Sie die feinen neugotischen Details unter dem Schutz der umliegenden Arkaden, um trotz des Regens trocken zu bleiben.",
                 "hu": "Csodálja meg a finom neogótikus részleteket a környező árkádok védelméből, így esőben is szárazon maradhat a városnézés kezdetén.",
                 "ro": "Admirați detaliile neogotice fine sub protecția arcadelor din apropiere pentru a rămâne uscat în ciuda ploii la începutul vizitei.",
-                "en": "Admire the fine neo-Gothic details from the shelter of the nearby arcades to stay dry while starting your sightseeing tour in the rain."
+                "en": "Admire the fine neo-Gothic details from the shelter of the nearby arcades to stay dry while starting your sightseeing tour in the rain.",
+                "fr": "Admirez les fins détails néo-gothiques depuis l'abri des arcades voisines pour rester au sec tout en commençant votre circuit touristique sous la pluie."
               }
             },
             {
@@ -166,13 +180,15 @@
                 "de": "Abteikirche Saint-Pierre",
                 "hu": "Saint-Pierre Apátság",
                 "ro": "Abația Saint-Pierre",
-                "en": "Abbey of Saint-Pierre"
+                "en": "Abbey of Saint-Pierre",
+                "fr": "Abbaye Saint-Pierre"
               },
               "tip_5lang": {
                 "de": "Die riesige Kirche bietet idealen Schutz vor Schauern; nutzen Sie die Zeit für eine ausführliche Innenbesichtigung der historischen Orgel.",
                 "hu": "A hatalmas templom ideális menedéket nyújt a záporok elől; használja ki az időt a történelmi orgona és a belső tér alapos felfedezésére.",
                 "ro": "Biserica imensă oferă adăpost ideal împotriva averselor; profitați de timp pentru o explorare detaliată a orgii istorice și a interiorului.",
-                "en": "The vast church provides ideal shelter from showers; use the time for an in-depth exploration of the historic organ and the grand interior."
+                "en": "The vast church provides ideal shelter from showers; use the time for an in-depth exploration of the historic organ and the grand interior.",
+                "fr": "La vaste église offre un abri idéal contre les averses ; profitez-en pour explorer en profondeur l'orgue historique et le grand intérieur."
               }
             },
             {
@@ -180,13 +196,15 @@
                 "de": "Kirche Saint-Mathieu",
                 "hu": "Saint-Mathieu Templom",
                 "ro": "Biserica Saint-Mathieu",
-                "en": "Church of Saint-Mathieu"
+                "en": "Church of Saint-Mathieu",
+                "fr": "Église Saint-Mathieu"
               },
               "tip_5lang": {
                 "de": "Ein kurzer Sprint führt Sie in diese schlichte Kirche, wo die Ruhe des Regens draußen die spirituelle Atmosphäre im Inneren verstärkt.",
                 "hu": "Egy rövid sprint után érhet be ebbe a letisztult templomba, ahol a kinti eső kopogása még inkább felerősíti a belső tér nyugalmát.",
                 "ro": "Un scurt sprint vă duce în această biserică simplă, unde sunetul ploii de afară accentuează atmosfera spirituală din interior.",
-                "en": "A short sprint brings you into this serene church, where the sound of the rain outside enhances the peaceful spiritual atmosphere inside."
+                "en": "A short sprint brings you into this serene church, where the sound of the rain outside enhances the peaceful spiritual atmosphere inside.",
+                "fr": "Un court sprint vous mène dans cette église sereine, où le bruit de la pluie à l'extérieur renforce l'atmosphère spirituelle paisible à l'intérieur."
               }
             },
             {
@@ -194,13 +212,15 @@
                 "de": "Kirche Notre-Dame de l'Assomption",
                 "hu": "Notre-Dame de l'Assomption Templom",
                 "ro": "Biserica Notre-Dame de l'Assomption",
-                "en": "Church of Notre-Dame de l'Assomption"
+                "en": "Church of Notre-Dame de l'Assomption",
+                "fr": "Église Notre-Dame de l'Assomption"
               },
               "tip_5lang": {
                 "de": "Achten Sie auf dem Weg auf rutschige Gehwege; im Inneren finden Sie Schutz und können die sakrale Kunst bei sanftem Regenlicht genießen.",
                 "hu": "Ügyeljen a csúszós járdákra útközben; bent menedéket lelhet, és a lágy, esős fényben csodálhatja meg a vallási művészeti alkotásokat.",
                 "ro": "Atenție la trotuarele alunecoase pe drum; în interior veți găsi adăpost și puteți admira arta sacră în lumina difuză a ploii.",
-                "en": "Watch out for slippery pavements on the way; inside you will find shelter and can enjoy the sacred art in the soft, rainy light."
+                "en": "Watch out for slippery pavements on the way; inside you will find shelter and can enjoy the sacred art in the soft, rainy light.",
+                "fr": "Attention aux pavés glissants en chemin ; à l'intérieur vous trouverez un abri et pourrez admirer l'art sacré dans la douce lumière pluvieuse."
               }
             },
             {
@@ -208,13 +228,15 @@
                 "de": "Kirche Sainte-Colombe",
                 "hu": "Sainte-Colombe Templom",
                 "ro": "Biserica Sainte-Colombe",
-                "en": "Church of Sainte-Colombe"
+                "en": "Church of Sainte-Colombe",
+                "fr": "Église Sainte-Colombe"
               },
               "tip_5lang": {
                 "de": "Beenden Sie den Spaziergang in dieser ruhigen Kapelle; ein stabiler Regenschirm ist für den Rückweg durch die nassen Gassen essenziell.",
                 "hu": "Zárja a sétát ebben a csendes kápolnában; egy stabil esernyő elengedhetetlen a visszaúthoz a vizes, szűk utcákon keresztül.",
                 "ro": "Încheiați plimbarea în această capelă liniștită; o umbrelă stabilă este esențială pentru drumul de întoarcere prin străzile umede.",
-                "en": "End your walk in this quiet chapel; a sturdy umbrella is essential for the return journey through the wet, narrow streets."
+                "en": "End your walk in this quiet chapel; a sturdy umbrella is essential for the return journey through the wet, narrow streets.",
+                "fr": "Terminez votre promenade dans cette chapelle tranquille ; un parapluie solide est essentiel pour le retour à travers les rues étroites et mouillées."
               }
             }
           ]
@@ -224,7 +246,8 @@
             "de": "Die kalte Winterluft am Rathaus macht die neogotischen Schnitzereien besonders klar. Kleiden Sie sich in warmen Schichten für den Rundgang.\n\nMittags bietet die Abteikirche Saint-Pierre eine majestätische Kulisse. Auch wenn es im Inneren kühl ist, wärmt der Anblick der Architektur das Herz.\n\nAm Nachmittag sinkt die Sonne früh. Das goldene Winterlicht taucht die Fassaden der Kirchen in ein weiches, fast magisches Licht.\n\nGegen 17:00 Uhr bricht die Dunkelheit herein. Die beleuchteten Fenster der Stadt Corbie strahlen Gemütlichkeit aus, während der Frost auf den Dächern glitzert.",
             "hu": "A városháza neogótikus faragványai élesen rajzolódnak ki a hideg téli levegőben. Öltözzön rétegesen a városi felfedezéshez.\n\nDélben a Saint-Pierre apátság fenséges látványt nyújt. Bár a falak között hűvös van, a hatalmas boltozatok látványa mindenért kárpótol.\n\nDélután a nap korán alacsonyra kerül. Az aranyló téli fények lágy, már-már varázslatos megvilágításba helyezik a templomok homlokzatát.\n\n17:00 óra körül leszáll az est. Corbie kivilágított ablakai barátságos meleget árasztanak, miközben a dér csillogni kezd a háztetőkön.",
             "ro": "Aerul rece de iarnă de la primărie face sculpturile neogotice să pară extrem de clare. Îmbrăcați-vă în straturi groase pentru plimbare.\n\nLa prânz, Abația Saint-Pierre oferă un decor maiestuos. Deși interiorul este răcoros, splendoarea arhitecturală merită fiecare minut petrecut aici.\n\nDupă-amiaza, soarele apune devreme. Lumina aurie de iarnă scaldă fațadele bisericilor într-o strălucire moale, aproape magică.\n\nÎn jurul orei 17:00, se lasă întunericul. Ferestrele iluminate ale orașului emană o atmosferă primitoare, în timp ce gerul începe să sclipească pe acoperișuri.",
-            "en": "The crisp winter air at the Town Hall makes the neo-Gothic carvings stand out sharply. Dress in warm layers for your urban exploration.\n\nAt noon, the Abbey of Saint-Pierre offers a majestic setting. Though the stone interior is chilly, the architectural grandeur is truly heartwarming.\n\nIn the afternoon, the sun dips low early. The golden winter light bathes the church facades in a soft, almost magical glow.\n\nAround 5:00 PM, darkness falls. The illuminated windows of Corbie radiate a cozy warmth as the frost begins to glisten on the rooftops."
+            "en": "The crisp winter air at the Town Hall makes the neo-Gothic carvings stand out sharply. Dress in warm layers for your urban exploration.\n\nAt noon, the Abbey of Saint-Pierre offers a majestic setting. Though the stone interior is chilly, the architectural grandeur is truly heartwarming.\n\nIn the afternoon, the sun dips low early. The golden winter light bathes the church facades in a soft, almost magical glow.\n\nAround 5:00 PM, darkness falls. The illuminated windows of Corbie radiate a cozy warmth as the frost begins to glisten on the rooftops.",
+            "fr": "L'air vif de l'hiver à l'Hôtel de ville fait ressortir nettement les sculptures néo-gothiques. Habillez-vous en couches chaudes pour votre exploration urbaine.\n\nÀ midi, l'Abbaye Saint-Pierre offre un cadre majestueux. Bien que l'intérieur de pierre soit frais, la grandeur architecturale réchauffe le cœur.\n\nL'après-midi, le soleil descend tôt. La lumière hivernale dorée baigne les façades des églises d'une lueur douce, presque magique.\n\nAux alentours de 17:00, l'obscurité tombe. Les vitraux illuminés de Corbie dégagent une chaleur accueillante tandis que le givre commence à scintiller sur les toits."
           },
           "stops": [
             {
@@ -232,13 +255,15 @@
                 "de": "Rathaus Corbie",
                 "hu": "Corbie Városháza",
                 "ro": "Primăria Corbie",
-                "en": "Corbie Town Hall"
+                "en": "Corbie Town Hall",
+                "fr": "Hôtel de ville de Corbie"
               },
               "tip_5lang": {
                 "de": "Die Fassade wirkt im klaren Winterlicht besonders scharf; tragen Sie Handschuhe, um Fotos der feinen Details ohne kalte Hände zu machen.",
                 "hu": "A homlokzat különösen élesen látszik a tiszta téli fényben; viseljen kesztyűt, hogy kényelmesen fotózhassa a finom részleteket.",
                 "ro": "Fațada pare extrem de clară în lumina rece; purtați mănuși pentru a face fotografii detaliilor fine fără a vă îngheța mâinile.",
-                "en": "The facade looks exceptionally sharp in the clear winter light; wear gloves to take photos of the fine details comfortably."
+                "en": "The facade looks exceptionally sharp in the clear winter light; wear gloves to take photos of the fine details comfortably.",
+                "fr": "La façade apparaît particulièrement nette sous la lumière claire de l'hiver ; portez des gants pour prendre des photos des détails avec confort."
               }
             },
             {
@@ -246,13 +271,15 @@
                 "de": "Abteikirche Saint-Pierre",
                 "hu": "Saint-Pierre Apátság",
                 "ro": "Abația Saint-Pierre",
-                "en": "Abbey of Saint-Pierre"
+                "en": "Abbey of Saint-Pierre",
+                "fr": "Abbaye Saint-Pierre"
               },
               "tip_5lang": {
                 "de": "Die monumentale Kälte im Inneren erfordert warme Schuhe; bewundern Sie die Sonnenstrahlen, die tief durch die Kirchenfenster fallen.",
                 "hu": "A monumentális belső térben hideg lehet, ezért meleg cipő ajánlott; csodálja meg az ablakokon át alacsonyan besütő téli napsugarakat.",
                 "ro": "Interiorul monumental poate fi foarte rece, deci se recomandă încălțăminte călduroasă; admirați razele soarelui care pătrund prin vitralii.",
-                "en": "The monumental interior can be quite cold, so warm shoes are recommended; admire the winter sunbeams filtering low through the windows."
+                "en": "The monumental interior can be quite cold, so warm shoes are recommended; admire the winter sunbeams filtering low through the windows.",
+                "fr": "L'intérieur monumental peut être assez froid, donc des chaussures chaudes sont recommandées ; admirez les rayons de soleil hivernaux filtrant bas à travers les vitraux."
               }
             },
             {
@@ -260,13 +287,15 @@
                 "de": "Kirche Saint-Mathieu",
                 "hu": "Saint-Mathieu Templom",
                 "ro": "Biserica Saint-Mathieu",
-                "en": "Church of Saint-Mathieu"
+                "en": "Church of Saint-Mathieu",
+                "fr": "Église Saint-Mathieu"
               },
               "tip_5lang": {
                 "de": "Suchen Sie hier einen Moment der Stille; die dicken Mauern bieten eine kurze Pause vom beissenden Winterwind der Picardie.",
                 "hu": "Keressen itt egy pillanatnyi csendet; a vastag falak rövid pihenőt nyújtanak a Picardie-i metsző téli szél elől.",
                 "ro": "Căutați aici un moment de liniște; zidurile groase oferă o scurtă pauză de la vântul tăios de iarnă din Picardia.",
-                "en": "Find a moment of silence here; the thick walls offer a brief respite from the biting winter wind of the Picardy region."
+                "en": "Find a moment of silence here; the thick walls offer a brief respite from the biting winter wind of the Picardy region.",
+                "fr": "Trouvez un moment de silence ici ; les murs épais offrent un bref répit contre le vent hivernal mordant de la région picarde."
               }
             },
             {
@@ -274,13 +303,15 @@
                 "de": "Kirche Notre-Dame de l'Assomption",
                 "hu": "Notre-Dame de l'Assomption Templom",
                 "ro": "Biserica Notre-Dame de l'Assomption",
-                "en": "Church of Notre-Dame de l'Assomption"
+                "en": "Church of Notre-Dame de l'Assomption",
+                "fr": "Église Notre-Dame de l'Assomption"
               },
               "tip_5lang": {
                 "de": "Besuchen Sie die Kirche vor 16 Uhr, um die Innendetails noch im natürlichen Restlicht des kurzen Wintertages sehen zu können.",
                 "hu": "Látogassa meg a templomot 16 óra előtt, hogy a rövid téli nap természetes fényénél láthassa a belső építészeti részleteket.",
                 "ro": "Vizitați biserica înainte de ora 16 pentru a vedea detaliile interioare în lumina naturală a scurtelor zile de iarnă.",
-                "en": "Visit the church before 4 PM to see the interior architectural details in the remaining natural light of the short winter day."
+                "en": "Visit the church before 4 PM to see the interior architectural details in the remaining natural light of the short winter day.",
+                "fr": "Visitez l'église avant 16:00 pour voir les détails architecturaux intérieurs à la lumière naturelle restante du court jour d'hiver."
               }
             },
             {
@@ -288,13 +319,15 @@
                 "de": "Kirche Sainte-Colombe",
                 "hu": "Sainte-Colombe Templom",
                 "ro": "Biserica Sainte-Colombe",
-                "en": "Church of Sainte-Colombe"
+                "en": "Church of Sainte-Colombe",
+                "fr": "Église Sainte-Colombe"
               },
               "tip_5lang": {
                 "de": "Der Rückweg in der Dämmerung ist malerisch; achten Sie auf glatte Stellen auf dem Boden, wenn die Temperaturen am Abend sinken.",
                 "hu": "A visszaút a szürkületben festői; ügyeljen a jeges foltokra a talajon, ahogy az esti hőmérséklet hirtelen süllyedni kezd.",
                 "ro": "Drumul de întoarcere la amurg este pitoresc; atenție la porțiunile înghețate de pe jos pe măsură ce temperatura scade seara.",
-                "en": "The return walk at dusk is picturesque; watch out for icy patches on the ground as the evening temperature begins to drop."
+                "en": "The return walk at dusk is picturesque; watch out for icy patches on the ground as the evening temperature begins to drop.",
+                "fr": "La marche de retour au crépuscule est pittoresque ; surveillez les plaques de verglas au sol alors que la température baisse en soirée."
               }
             }
           ]
@@ -314,7 +347,8 @@
             "de": "Rathaus Corbie",
             "hu": "Corbie Városháza",
             "ro": "Primăria Corbie",
-            "en": "Corbie Town Hall"
+            "en": "Corbie Town Hall",
+            "fr": "Hôtel de ville de Corbie"
           },
           "coords": [
             2.513452,
@@ -329,7 +363,8 @@
             "de": "Beginnen Sie Ihren Besuch am historischen Rathaus, um die klassische Fassade zu bewundern, und vergessen Sie nicht, am nahen Informationsschalter nach einer Karte zu fragen.",
             "hu": "Kezdje a látogatást a történelmi városházánál, hogy megcsodálja a klasszikus homlokzatot, és ne felejtsen el helyi térképet kérni a közeli információs pultnál.",
             "ro": "Începeți vizita la primăria istorică pentru a-i admira fațada clasică și nu uitați să cereți o hartă locală la biroul de informații turistice din apropiere.",
-            "en": "Start your visit at the historic town hall to admire its classical facade, and don't forget to ask for a local map at the nearby tourist information desk."
+            "en": "Start your visit at the historic town hall to admire its classical facade, and don't forget to ask for a local map at the nearby tourist information desk.",
+            "fr": "Commencez votre visite à l'hôtel de ville historique pour admirer sa façade classique, et n'oubliez pas de demander un plan local au bureau d'information touristique tout proche."
           }
         },
         {
@@ -337,7 +372,8 @@
             "de": "Abteikirche Saint-Pierre",
             "hu": "Saint-Pierre Apátság",
             "ro": "Abația Saint-Pierre",
-            "en": "Abbey of Saint-Pierre"
+            "en": "Abbey of Saint-Pierre",
+            "fr": "Abbaye Saint-Pierre"
           },
           "coords": [
             2.510179,
@@ -352,7 +388,8 @@
             "de": "Bestaunen Sie die hochaufragende gotische Architektur dieser majestätischen Abteikirche und gehen Sie früh hinein, um den Menschenmassen am Nachmittag zu entgehen.",
             "hu": "Csodálja meg ennek a fenséges apátsági templomnak a gótikus építészetét, és mindenképpen menjen be korán, hogy elkerülje a délutáni tömeget.",
             "ro": "Minunați-vă de arhitectura gotică a acestei biserici abațiale majestuoase și asigurați-vă că intrați devreme pentru a evita aglomerația de după-amiază.",
-            "en": "Marvel at the towering Gothic architecture of this majestic abbey church, and be sure to step inside early to avoid the afternoon crowds."
+            "en": "Marvel at the towering Gothic architecture of this majestic abbey church, and be sure to step inside early to avoid the afternoon crowds.",
+            "fr": "Admirez l’imposante architecture gothique de cette majestueuse abbaye, et pensez à entrer tôt pour éviter la foule de l’après‑midi."
           }
         },
         {
@@ -360,7 +397,8 @@
             "de": "Kirche Saint-Nicolas",
             "hu": "Saint-Nicolas Templom",
             "ro": "Biserica Saint-Nicolas",
-            "en": "Church of Saint-Nicolas"
+            "en": "Church of Saint-Nicolas",
+            "fr": "Église Saint‑Nicolas"
           },
           "coords": [
             2.530143,
@@ -375,7 +413,8 @@
             "de": "Bewundern Sie die schönen Steinmetzarbeiten dieser malerischen Viertelkirche und prüfen Sie das Anschlagbrett auf Informationen zu kommenden Gemeindeveranstaltungen.",
             "hu": "Csodálja meg ennek a furcsa környékbeli templomnak a gyönyörű kőfaragásait, és nézze meg a kinti hirdetőtáblát a közelgő közösségi eseményekről.",
             "ro": "Admirați frumoasele sculpturi în piatră ale acestei biserici pitorești de cartier și verificați panoul exterior pentru informații despre evenimentele comunitare viitoare.",
-            "en": "Admire the beautiful stone carvings of this quaint neighborhood church, and check the notice board outside for information on upcoming community events."
+            "en": "Admire the beautiful stone carvings of this quaint neighborhood church, and check the notice board outside for information on upcoming community events.",
+            "fr": "Admirez les belles sculptures sur pierre de cette charmante église de quartier et consultez le panneau d’affichage extérieur pour les prochaines manifestations communautaires."
           }
         },
         {
@@ -383,7 +422,8 @@
             "de": "Somme-Kanal",
             "hu": "Somme-csatorna",
             "ro": "Canalul Somme",
-            "en": "Somme Canal"
+            "en": "Somme Canal",
+            "fr": "Canal de la Somme"
           },
           "coords": [
             2.544649,
@@ -398,7 +438,8 @@
             "de": "Genießen Sie einen entspannten Spaziergang oder ein ruhiges Picknick an den malerischen Ufern des Kanals und tragen Sie bequeme Schuhe für die unbefestigten Wege.",
             "hu": "Élvezze a pihentető sétát vagy egy csendes pikniket a csatorna festői partjain, és viseljen kényelmes sétacipőt a burkolatlan tanösvények miatt.",
             "ro": "Bucurați-vă de o plimbare relaxantă sau de un picnic liniștit pe malurile pitorești ale canalului și purtați pantofi confortabili pentru potecile neasfaltate.",
-            "en": "Enjoy a relaxing stroll or a quiet picnic along the picturesque banks of the canal, and wear comfortable walking shoes for the unpaved nature trails."
+            "en": "Enjoy a relaxing stroll or a quiet picnic along the picturesque banks of the canal, and wear comfortable walking shoes for the unpaved nature trails.",
+            "fr": "Profitez d’une promenade relaxante ou d’un pique‑nique paisible le long des pittoresques berges du canal, et portez des chaussures de marche confortables pour les sentiers non revêtus."
           }
         },
         {
@@ -406,7 +447,8 @@
             "de": "Kirche Saint-Germain-l'Auxerrois",
             "hu": "Saint-Germain-l'Auxerrois Templom",
             "ro": "Biserica Saint-Germain-l'Auxerrois",
-            "en": "Church of Saint-Germain-l'Auxerrois"
+            "en": "Church of Saint-Germain-l'Auxerrois",
+            "fr": "Église Saint‑Germain‑l’Auxerrois"
           },
           "coords": [
             2.54658,
@@ -421,7 +463,8 @@
             "de": "Verlassen Sie die ausgetretenen Pfade, um dieses architektonische Juwel zu finden, aber seien Sie auf begrenzte Parkmöglichkeiten in der Umgebung vorbereitet.",
             "hu": "Térjen le a kitaposott ösvényről, hogy megtalálja ezt a rejtett építészeti gyöngyszemet, de készüljön fel a korlátozott parkolási lehetőségekre a közvetlen közelben.",
             "ro": "Abateți-vă de la traseul turistic pentru a găsi această bijuterie arhitecturală ascunsă, dar fiți pregătiți pentru opțiuni limitate de parcare în zona imediată.",
-            "en": "Step off the beaten path to find this hidden architectural gem, but be prepared for limited parking options in the immediate surrounding area."
+            "en": "Step off the beaten path to find this hidden architectural gem, but be prepared for limited parking options in the immediate surrounding area.",
+            "fr": "Sortez des sentiers battus pour trouver ce joyau architectural caché, mais prévoyez des possibilités de stationnement limitées aux alentours immédiats."
           }
         },
         {
@@ -429,7 +472,8 @@
             "de": "Kirche Saint-Vaast",
             "hu": "Saint-Vaast Templom",
             "ro": "Biserica Saint-Vaast",
-            "en": "Church of Saint-Vaast"
+            "en": "Church of Saint-Vaast",
+            "fr": "Église Saint‑Vaast"
           },
           "coords": [
             2.512389,
@@ -444,7 +488,8 @@
             "de": "Erleben Sie die tiefe Stille und das historische Ambiente dieses ländlichen Heiligtums und bringen Sie eine Jacke mit, da der Innenraum ganzjährig kühl bleibt.",
             "hu": "Tapasztalja meg ennek a vidéki szentélynek a mély csendjét és történelmi hangulatát, és feltétlenül hozzon magával könnyű kabátot, mivel a belső tér hűvös.",
             "ro": "Experimentați tăcerea profundă și ambianța istorică a acestui sanctuar rural, asigurându-vă că aduceți o jachetă, deoarece interiorul rămâne răcoros tot anul.",
-            "en": "Experience the profound silence and historic ambiance of this rural sanctuary, making sure to bring a light jacket as the interior remains cool year-round."
+            "en": "Experience the profound silence and historic ambiance of this rural sanctuary, making sure to bring a light jacket as the interior remains cool year-round.",
+            "fr": "Vivez le profond silence et l’ambiance historique de ce sanctuaire rural ; n’oubliez pas une veste légère car l’intérieur reste frais toute l’année."
           }
         }
       ],
@@ -452,7 +497,8 @@
         "de": "Starten Sie Ihre Fahrradtour am zentralen Rathaus und der angrenzenden Abteikirche, bevor Sie sich auf ruhigen Wegen zur charmanten Église Saint-Nicolas begeben. Mittags lockt der friedliche Somme-Kanal mit seinen idyllischen Uferwegen, wo Sie bei einem Picknick neue Energie für die weitere Fahrt sammeln können. Am Nachmittag radeln Sie gemütlich zur verborgenen Église Saint-Germain-l'Auxerrois, die abseits der Hauptverkehrsstraßen eine wunderbare Ruhe ausstrahlt. Der Tag endet mit einer malerischen Fahrt zur ländlichen Église Saint-Vaast, wo Sie die landschaftliche Schönheit der Region im weichen Licht genießen können.",
         "hu": "Kezdje a kerékpártúrát a központi városházánál és a szomszédos apátságnál, mielőtt csendes utakon a bájos Église Saint-Nicolas felé venné az irányt. Délben a békés Somme-csatorna hívogat idilli parti sétányaival, ahol egy piknik keretében új energiát gyűjthet a további útra. Délután kényelmesen eltekerhet a rejtett Église Saint-Germain-l'Auxerrois-hoz, amely a főútvonalaktól távol csodálatos nyugalmat sugároz. A nap egy festői utazással zárul a vidéki Église Saint-Vaast felé, ahol a lágy délutáni fényben élvezheti a régió festői szépségét.",
         "ro": "Începeți turul cu bicicleta la primăria centrală și la abația adiacentă înainte de a porni pe cărări liniștite către fermecătoarea Église Saint-Nicolas. La prânz, canalul pașnic Somme vă atrage cu potecile sale idilice de pe mal, unde vă puteți reîncărca energia cu un picnic. După-amiaza, pedalați în ritm lejer până la biserica ascunsă Saint-Germain-l'Auxerrois, care emană o liniște minunată departe de agitație. Ziua se încheie cu o plimbare pitorească către biserica rurală Saint-Vaast, unde vă puteți bucura de frumusețea peisajului în lumina caldă a după-amiezii.",
-        "en": "Start your bike tour at the central town hall and the adjacent abbey before heading along quiet paths to the charming Église Saint-Nicolas. At midday, the peaceful Somme Canal beckons with its idyllic bankside trails, where you can recharge your energy with a delightful picnic. In the afternoon, you casually cycle to the hidden Église Saint-Germain-l'Auxerrois, which exudes a wonderful tranquility away from the main roads. The day concludes with a scenic ride to the rural Église Saint-Vaast, allowing you to enjoy the region's natural beauty in the soft afternoon light."
+        "en": "Start your bike tour at the central town hall and the adjacent abbey before heading along quiet paths to the charming Église Saint-Nicolas. At midday, the peaceful Somme Canal beckons with its idyllic bankside trails, where you can recharge your energy with a delightful picnic. In the afternoon, you casually cycle to the hidden Église Saint-Germain-l'Auxerrois, which exudes a wonderful tranquility away from the main roads. The day concludes with a scenic ride to the rural Église Saint-Vaast, allowing you to enjoy the region's natural beauty in the soft afternoon light.",
+        "fr": "Commencez votre circuit à la mairie centrale et à l’abbaye adjacente avant d’emprunter des chemins tranquilles vers la charmante Église Saint‑Nicolas. À midi, le paisible canal de la Somme invite à ses sentiers idylliques en bord de rive, où vous pouvez reprendre des forces avec un délicieux pique‑nique. L’après‑midi, vous pédalez tranquillement jusqu’à la cachée Église Saint‑Germain‑l’Auxerrois, qui dégage une belle quiétude loin des routes principales. La journée se termine par une balade scénique jusqu’à la rurale Église Saint‑Vaast, vous permettant d’apprécier la beauté naturelle de la région dans la douce lumière de l’après‑midi."
       },
       "variants": {
         "rainy": {
@@ -460,7 +506,8 @@
             "de": "Starten Sie vorsichtig am Rathaus; nasse Reifen benötigen mehr Bremsweg. Die Stadt Corbie ist gut befahrbar, aber bei Regen ist Vorsicht geboten.\n\nMittags erreichen Sie die Abtei. Parken Sie Ihr Rad sicher und genießen Sie die trockene Pracht der Kirche, bevor es weiter zum Kanal geht.\n\nNachmittags führt der Radweg am Somme-Kanal entlang. Der Regen erzeugt Nebelschleier über dem Wasser, was der Natur eine mystische Note verleiht.\n\nAm Abend beenden Sie die Tour. Die Wege können rutschig sein, also fahren Sie langsam zurück und genießen Sie die Lichter, die im nassen Asphalt glänzen.",
             "hu": "Induljon óvatosan a városházától; a vizes gumiabroncsoknak hosszabb féktávra van szükségük. Corbie jól kerékpározható, de esőben figyelem kötelező.\n\nDélben érje el az apátságot. Parkoljon le biztonságosan, és élvezze a templom száraz pompáját, mielőtt a csatorna felé venné az irányt.\n\nDélután a kerékpárút a Somme-csatorna mentén halad. Az eső ködfátylat von a víz fölé, ami misztikus hangulatot kölcsönöz a tájnak.\n\nEste fejezze be a túrát. Az utak csúszósak lehetnek, így lassan tekerjen vissza, és csodálja meg az aszfalton megcsillanó városi fényeket.",
             "ro": "Porniți cu prudență de la primărie; anvelopele umede necesită o distanță de frânare mai mare. Corbie este ușor de parcurs, dar atenția e sporită pe ploaie.\n\nLa prânz ajungeți la abație. Parcați bicicleta în siguranță și bucurați-vă de splendoarea uscată a bisericii înainte de a pleca spre canal.\n\nDupă-amiaza, traseul trece pe lângă Canalul Somme. Ploaia creează voaluri de ceață peste apă, oferind naturii o notă mistică și relaxantă.\n\nSeara încheiați turul. Drumurile pot fi alunecoase, deci pedalați încet înapoi și admirați luminile orașului care sclipesc pe asfaltul ud.",
-            "en": "Start cautiously from the Town Hall; wet tires require a longer braking distance. Corbie is bike-friendly, but focus is essential in the rain.\n\nAt noon, reach the Abbey. Park your bike securely and enjoy the dry grandeur of the church before heading towards the canal.\n\nIn the afternoon, the bike path runs along the Somme Canal. The rain creates misty veils over the water, giving the nature a mystical touch.\n\nBy evening, finish the tour. The paths can be slippery, so cycle back slowly and enjoy the city lights shimmering on the wet asphalt."
+            "en": "Start cautiously from the Town Hall; wet tires require a longer braking distance. Corbie is bike-friendly, but focus is essential in the rain.\n\nAt noon, reach the Abbey. Park your bike securely and enjoy the dry grandeur of the church before heading towards the canal.\n\nIn the afternoon, the bike path runs along the Somme Canal. The rain creates misty veils over the water, giving the nature a mystical touch.\n\nBy evening, finish the tour. The paths can be slippery, so cycle back slowly and enjoy the city lights shimmering on the wet asphalt.",
+            "fr": "Partez prudemment de la Mairie ; des pneus mouillés allongent la distance de freinage. Corbie est accueillante pour les vélos, mais la concentration est essentielle sous la pluie.\n\nÀ midi, rejoignez l’Abbaye. Garez votre vélo en sécurité et profitez de la grandeur sèche de l’église avant de vous diriger vers le canal.\n\nL’après‑midi, la piste cyclable longe le canal de la Somme. La pluie crée des voiles brumeux sur l’eau, donnant à la nature une touche mystique.\n\nEn soirée, terminez la visite. Les chemins peuvent être glissants, alors rentrez lentement et profitez des lumières de la ville se reflétant sur l’asphalte mouillé."
           },
           "stops": [
             {
@@ -468,13 +515,15 @@
                 "de": "Rathaus Corbie",
                 "hu": "Corbie Városháza",
                 "ro": "Primăria Corbie",
-                "en": "Corbie Town Hall"
+                "en": "Corbie Town Hall",
+                "fr": "Mairie de Corbie"
               },
               "tip_5lang": {
                 "de": "Prüfen Sie Ihre Bremsen vor dem Start; das Rathaus bietet einen guten Unterstand, um die Regenkleidung noch einmal zu richten.",
                 "hu": "Indulás előtt ellenőrizze a fékeket; a városháza jó fedezéket nyújt, hogy utoljára megigazítsa az esővédő ruházatát.",
                 "ro": "Verificați frânele înainte de plecare; primăria oferă un adăpost bun pentru a vă ajusta echipamentul de protecție împotriva ploii.",
-                "en": "Check your brakes before starting; the Town Hall provides a good shelter to adjust your rain gear one last time."
+                "en": "Check your brakes before starting; the Town Hall provides a good shelter to adjust your rain gear one last time.",
+                "fr": "Vérifiez vos freins avant de partir ; la Mairie offre un bon abri pour ajuster votre équipement de pluie une dernière fois."
               }
             },
             {
@@ -482,13 +531,15 @@
                 "de": "Abteikirche Saint-Pierre",
                 "hu": "Saint-Pierre Apátság",
                 "ro": "Abația Saint-Pierre",
-                "en": "Abbey of Saint-Pierre"
+                "en": "Abbey of Saint-Pierre",
+                "fr": "Abbaye Saint‑Pierre"
               },
               "tip_5lang": {
                 "de": "Nutzen Sie den überdachten Eingangsbereich zum Abstellen des Rads; im Inneren können Sie sich aufwärmen und die nasse Ausrüstung trocknen lassen.",
                 "hu": "Használja a fedett bejárati részt a kerékpár leállításához; bent felmelegedhet, és hagyhatja kicsit megszáradni a vizes felszerelést.",
                 "ro": "Folosiți zona de intrare acoperită pentru a lăsa bicicleta; în interior vă puteți încălzi și lăsa echipamentul umed să se usuce puțin.",
-                "en": "Use the covered entrance area to park your bike; inside you can warm up and let your wet gear dry for a bit."
+                "en": "Use the covered entrance area to park your bike; inside you can warm up and let your wet gear dry for a bit.",
+                "fr": "Utilisez l’entrée couverte pour stationner votre vélo ; à l’intérieur vous pouvez vous réchauffer et laisser sécher un peu vos affaires humides."
               }
             },
             {
@@ -496,13 +547,15 @@
                 "de": "Kirche Saint-Nicolas",
                 "hu": "Saint-Nicolas Templom",
                 "ro": "Biserica Saint-Nicolas",
-                "en": "Church of Saint-Nicolas"
+                "en": "Church of Saint-Nicolas",
+                "fr": "Église Saint‑Nicolas"
               },
               "tip_5lang": {
                 "de": "Die Fahrt hierher führt über Nebenstraßen; achten Sie auf tiefe Pfützen und nutzen Sie die Kirche für eine kurze, trockene Pause.",
                 "hu": "Az idevezető út mellékutcákon halad; ügyeljen a mély tócsákra, és használja a templomot egy rövid, száraz pihenőre.",
                 "ro": "Drumul până aici trece prin străzi secundare; atenție la bălțile adânci și folosiți biserica pentru o scurtă pauză uscată.",
-                "en": "The route here goes through side streets; watch out for deep puddles and use the church for a short, dry break."
+                "en": "The route here goes through side streets; watch out for deep puddles and use the church for a short, dry break.",
+                "fr": "L’itinéraire passe par des rues secondaires ; méfiez‑vous des flaques profondes et utilisez l’église pour une courte pause au sec."
               }
             },
             {
@@ -510,13 +563,15 @@
                 "de": "Somme-Kanal",
                 "hu": "Somme-csatorna",
                 "ro": "Canalul Somme",
-                "en": "Somme Canal"
+                "en": "Somme Canal",
+                "fr": "Canal de la Somme"
               },
               "tip_5lang": {
                 "de": "Der Leinpfad kann bei Regen matschig sein; fahren Sie mit Schutzblechen, um sich vor Spritzwasser vom Kanalufer zu schützen.",
                 "hu": "A vontatóút esőben saras lehet; használjon sárvédőt, hogy megvédje magát a csatornapartról felverődő víztől és sártól.",
                 "ro": "Drumul de halaj poate fi noroios pe ploaie; folosiți apărători pentru a vă proteja de apa și noroiul de pe malul canalului.",
-                "en": "The towpath can be muddy in the rain; use mudguards to protect yourself from water and mud splashing up from the canal bank."
+                "en": "The towpath can be muddy in the rain; use mudguards to protect yourself from water and mud splashing up from the canal bank.",
+                "fr": "Le chemin de halage peut être boueux sous la pluie ; utilisez des garde‑boue pour vous protéger des éclaboussures d’eau et de boue depuis la berge."
               }
             },
             {
@@ -524,13 +579,15 @@
                 "de": "Kirche Saint-Germain-l'Auxerrois",
                 "hu": "Saint-Germain-l'Auxerrois Templom",
                 "ro": "Biserica Saint-Germain-l'Auxerrois",
-                "en": "Church of Saint-Germain-l'Auxerrois"
+                "en": "Church of Saint-Germain-l'Auxerrois",
+                "fr": "Église Saint‑Germain‑l’Auxerrois"
               },
               "tip_5lang": {
                 "de": "Stellen Sie sicher, dass Ihr Licht funktioniert; der Regen dämpft die Sichtbarkeit auf der Straße zu dieser geschichtsträchtigen Kirche.",
                 "hu": "Győződjön meg róla, hogy a világítása működik; az eső rontja a láthatóságot az úton e történelmi templom felé menet.",
                 "ro": "Asigurați-vă că luminile funcționează; ploaia reduce vizibilitatea pe drumul către această biserică plină de istorie.",
-                "en": "Make sure your lights are working; the rain reduces visibility on the road as you head towards this historic church."
+                "en": "Make sure your lights are working; the rain reduces visibility on the road as you head towards this historic church.",
+                "fr": "Assurez‑vous que vos éclairages fonctionnent ; la pluie réduit la visibilité sur la route en direction de cette église historique."
               }
             },
             {
@@ -538,13 +595,15 @@
                 "de": "Kirche Saint-Vaast",
                 "hu": "Saint-Vaast Templom",
                 "ro": "Biserica Saint-Vaast",
-                "en": "Church of Saint-Vaast"
+                "en": "Church of Saint-Vaast",
+                "fr": "Église Saint‑Vaast"
               },
               "tip_5lang": {
                 "de": "Das letzte Etappenziel bietet einen ruhigen Rückzugsort; trocknen Sie Ihren Sattel vor der Rückfahrt gründlich ab.",
                 "hu": "Az utolsó állomás csendes menedéket nyújt; a visszaindulás előtt alaposan törölje szárazra a kerékpár nyergét.",
                 "ro": "Ultima destinație oferă un refugiu liniștit; ștergeți bine șaua bicicletei înainte de a porni pe drumul de întoarcere.",
-                "en": "The final destination offers a quiet retreat; wipe your bike saddle dry thoroughly before starting the journey back."
+                "en": "The final destination offers a quiet retreat; wipe your bike saddle dry thoroughly before starting the journey back.",
+                "fr": "La destination finale offre un refuge calme ; essuyez bien la selle de votre vélo avant de repartir."
               }
             }
           ]
@@ -554,7 +613,8 @@
             "de": "Ein frostiger Morgen am Rathaus startet Ihre Radtour. Tragen Sie winddichte Kleidung, da der Fahrtwind die Kälte in Corbie verstärkt.\n\nMittags erreichen Sie die Abtei Saint-Pierre. Die kalte Luft macht die Fernsicht klarer, und die alten Steine wirken im Winterlicht besonders edel.\n\nNachmittags radeln Sie am gefrorenen oder nebligen Somme-Kanal entlang. Die karge Winterlandschaft strahlt eine tiefe, friedliche Ruhe aus.\n\nSchon um 17:00 Uhr wird es dunkel. Schalten Sie Ihre Lichter frühzeitig ein und genießen Sie die klare Winternacht auf dem Rückweg in die Stadt.",
             "hu": "Deres reggel fogadja a városházánál a kerékpártúra kezdetén. Viseljen szélálló ruházatot, mert a menetszél felerősíti a hideget Corbie-ban.\n\nDélben érkezik a Saint-Pierre apátsághoz. A hideg levegő tisztább látási viszonyokat biztosít, a régi kövek pedig nemesebbnek tűnnek a téli fényben.\n\nDélután a befagyott vagy ködös Somme-csatorna mentén tekerhet. A kopár téli táj mély, békés nyugalmat és csendet áraszt.\n\nMár 17:00 órakor sötétedik. Kapcsolja be korán a lámpákat, és élvezze a tiszta téli éjszaka hangulatát a városba visszavezető úton.",
             "ro": "O dimineață geroasă la primărie marchează începutul turului cu bicicleta. Purtați haine rezistente la vânt, deoarece viteza amplifică frigul.\n\nLa prânz ajungeți la Abația Saint-Pierre. Aerul rece face vizibilitatea mai clară, iar pietrele vechi par deosebit de nobile în lumina iernii.\n\nDupă-amiaza pedalați pe lângă Canalul Somme înghețat sau cețos. Peisajul auster de iarnă emană o liniște profundă și reconfortantă.\n\nDeja la ora 17:00 se întunecă. Aprindeți luminile din timp și bucurați-vă de noaptea senină de iarnă pe drumul de întoarcere în oraș.",
-            "en": "A frosty morning at the Town Hall starts your cycling tour. Wear windproof clothing as the riding wind amplifies the cold in Corbie.\n\nAt noon, arrive at the Abbey of Saint-Pierre. The cold air makes for clearer views, and the ancient stones look particularly noble in the winter light.\n\nIn the afternoon, cycle along the frozen or misty Somme Canal. The sparse winter landscape radiates a deep, peaceful calm and silence.\n\nBy 5:00 PM, it already gets dark. Turn on your lights early and enjoy the crisp winter night on your way back into the town."
+            "en": "A frosty morning at the Town Hall starts your cycling tour. Wear windproof clothing as the riding wind amplifies the cold in Corbie.\n\nAt noon, arrive at the Abbey of Saint-Pierre. The cold air makes for clearer views, and the ancient stones look particularly noble in the winter light.\n\nIn the afternoon, cycle along the frozen or misty Somme Canal. The sparse winter landscape radiates a deep, peaceful calm and silence.\n\nBy 5:00 PM, it already gets dark. Turn on your lights early and enjoy the crisp winter night on your way back into the town.",
+            "fr": "Un matin glacial à la Mairie lance votre circuit à vélo. Portez des vêtements coupe‑vent car le vent de route amplifie le froid à Corbie.\n\nÀ midi, arrivez à l’Abbaye Saint‑Pierre. L’air froid rend les vues plus nettes et les pierres anciennes apparaissent particulièrement nobles sous la lumière hivernale.\n\nL’après‑midi, roulez le long du canal de la Somme gelé ou enveloppé de brume. Le paysage hivernal dépouillé dégage un calme profond et silencieux.\n\nDès 17:00, il fait déjà sombre. Allumez vos lumières tôt et profitez de la fraîcheur de la nuit d’hiver lors du retour en ville."
           },
           "stops": [
             {
@@ -562,13 +622,15 @@
                 "de": "Rathaus Corbie",
                 "hu": "Corbie Városháza",
                 "ro": "Primăria Corbie",
-                "en": "Corbie Town Hall"
+                "en": "Corbie Town Hall",
+                "fr": "Mairie de Corbie"
               },
               "tip_5lang": {
                 "de": "Tragen Sie warme Handschuhe und eine Mütze unter dem Helm; der Fahrtwind ist im Winter am Rathausplatz besonders beißend.",
                 "hu": "Viseljen meleg kesztyűt és sapkát a sisak alatt; a menetszél télen a városháza téren különösen metsző lehet.",
                 "ro": "Purtați mănuși groase și o căciulă sub cască; vântul este deosebit de tăios iarna în piața primăriei.",
-                "en": "Wear warm gloves and a hat under your helmet; the riding wind is particularly biting in winter at the Town Hall square."
+                "en": "Wear warm gloves and a hat under your helmet; the riding wind is particularly biting in winter at the Town Hall square.",
+                "fr": "Portez des gants chauds et un bonnet sous votre casque ; le vent de route est particulièrement mordant en hiver sur la place de la Mairie."
               }
             },
             {
@@ -576,13 +638,15 @@
                 "de": "Abteikirche Saint-Pierre",
                 "hu": "Saint-Pierre Apátság",
                 "ro": "Abația Saint-Pierre",
-                "en": "Abbey of Saint-Pierre"
+                "en": "Abbey of Saint-Pierre",
+                "fr": "Abbaye Saint‑Pierre"
               },
               "tip_5lang": {
                 "de": "Stellen Sie Ihr Rad ab und wärmen Sie sich kurz im Kirchenschiff auf; die Stille passt perfekt zur winterlichen Atmosphäre.",
                 "hu": "Állítsa le a kerékpárt, és melegedjen fel kicsit a templomhajóban; a csend tökéletesen illik a téli hangulathoz.",
                 "ro": "Lăsați bicicleta și încălziți-vă puțin în naos; liniștea de aici se potrivește perfect cu atmosfera de iarnă.",
-                "en": "Park your bike and warm up briefly in the nave; the silence here perfectly complements the winter atmosphere."
+                "en": "Park your bike and warm up briefly in the nave; the silence here perfectly complements the winter atmosphere.",
+                "fr": "Garez votre vélo et réchauffez‑vous brièvement dans la nef ; le silence y complète parfaitement l’atmosphère hivernale."
               }
             },
             {
@@ -590,13 +654,15 @@
                 "de": "Kirche Saint-Nicolas",
                 "hu": "Saint-Nicolas Templom",
                 "ro": "Biserica Saint-Nicolas",
-                "en": "Church of Saint-Nicolas"
+                "en": "Church of Saint-Nicolas",
+                "fr": "Église Saint‑Nicolas"
               },
               "tip_5lang": {
                 "de": "Achten Sie auf vereiste Stellen in den schattigen Gassen auf dem Weg hierher; fahren Sie in Kurven besonders vorsichtig.",
                 "hu": "Ügyeljen a jeges foltokra az árnyékos utcákban idefelé; a kanyarokban tekerjen különösen óvatosan.",
                 "ro": "Atenție la porțiunile înghețate de pe străzile umbrite în drum spre biserică; pedalați cu mare prudență în curbe.",
-                "en": "Watch out for icy patches in the shaded alleys on your way here; be extra careful when cycling around corners."
+                "en": "Watch out for icy patches in the shaded alleys on your way here; be extra careful when cycling around corners.",
+                "fr": "Méfiez‑vous des plaques de verglas dans les ruelles ombragées en chemin ; soyez très prudent dans les virages à vélo."
               }
             },
             {
@@ -604,13 +670,15 @@
                 "de": "Somme-Kanal",
                 "hu": "Somme-csatorna",
                 "ro": "Canalul Somme",
-                "en": "Somme Canal"
+                "en": "Somme Canal",
+                "fr": "Canal de la Somme"
               },
               "tip_5lang": {
                 "de": "Genießen Sie den Blick auf das Reif auf den Schilfhalmen; halten Sie Ihr Tempo moderat, um nicht zu stark auszukühlen.",
                 "hu": "Élvezze a nádasokon megülő dér látványát; tartson mérsékelt tempót, hogy ne hűljön ki túlságosan a nyitott területen.",
                 "ro": "Bucurați-vă de vederea chiciurei de pe stuf; mențineți un ritm moderat pentru a nu vă răci prea tare în spațiu deschis.",
-                "en": "Enjoy the sight of frost on the reeds; keep a moderate pace to avoid getting too chilled in the open area."
+                "en": "Enjoy the sight of frost on the reeds; keep a moderate pace to avoid getting too chilled in the open area.",
+                "fr": "Appréciez le gel sur les roseaux ; gardez un rythme modéré pour ne pas trop vous refroidir en zone ouverte."
               }
             },
             {
@@ -618,13 +686,15 @@
                 "de": "Kirche Saint-Germain-l'Auxerrois",
                 "hu": "Saint-Germain-l'Auxerrois Templom",
                 "ro": "Biserica Saint-Germain-l'Auxerrois",
-                "en": "Church of Saint-Germain-l'Auxerrois"
+                "en": "Church of Saint-Germain-l'Auxerrois",
+                "fr": "Église Saint‑Germain‑l’Auxerrois"
               },
               "tip_5lang": {
                 "de": "Das Winterlicht hebt die Textur der alten Mauern hervor; ein kurzer Stopp hilft, die Durchblutung in den Fingern anzuregen.",
                 "hu": "A téli fény kiemeli a régi falak textúráját; egy rövid megálló segít serkenteni a vérkeringést az ujjaiban.",
                 "ro": "Lumina de iarnă scoate în evidență textura zidurilor vechi; o scurtă oprire ajută la stimularea circulației în degete.",
-                "en": "The winter light highlights the texture of the old walls; a short stop here helps to stimulate circulation in your fingers."
+                "en": "The winter light highlights the texture of the old walls; a short stop here helps to stimulate circulation in your fingers.",
+                "fr": "La lumière hivernale met en valeur la texture des vieux murs ; un court arrêt aide à relancer la circulation dans vos doigts."
               }
             },
             {
@@ -632,13 +702,15 @@
                 "de": "Kirche Saint-Vaast",
                 "hu": "Saint-Vaast Templom",
                 "ro": "Biserica Saint-Vaast",
-                "en": "Church of Saint-Vaast"
+                "en": "Church of Saint-Vaast",
+                "fr": "Église Saint‑Vaast"
               },
               "tip_5lang": {
                 "de": "Vor der Rückfahrt in der Kälte ist ein kurzer Moment der Einkehr ideal; prüfen Sie Ihre Reflektoren für die frühe Dämmerung.",
                 "hu": "A hidegben való visszaindulás előtt ideális egy rövid elcsendesedés; ellenőrizze a fényvisszaverőit a korai szürkület miatt.",
                 "ro": "Înainte de întoarcerea prin frig, un moment de reculegere este ideal; verificați elementele reflectorizante pentru amurgul timpuriu.",
-                "en": "A brief moment of reflection is ideal before heading back in the cold; check your reflectors for the early dusk."
+                "en": "A brief moment of reflection is ideal before heading back in the cold; check your reflectors for the early dusk.",
+                "fr": "Un bref moment de recueillement est idéal avant de repartir dans le froid ; vérifiez vos catadioptres pour la tombée rapide du jour."
               }
             }
           ]
@@ -658,7 +730,8 @@
             "de": "Militärfriedhof Villers-Bretonneux",
             "hu": "Villers-Bretonneux Katonai Temető",
             "ro": "Cimitirul Militar Villers-Bretonneux",
-            "en": "Villers-Bretonneux Military Cemetery"
+            "en": "Villers-Bretonneux Military Cemetery",
+            "fr": "Cimetière militaire de Villers‑Bretonneux"
           },
           "coords": [
             2.512064,
@@ -673,7 +746,8 @@
             "de": "Erweisen Sie an dieser feierlichen und wunderschön gepflegten Gedenkstätte Ihren Respekt und nehmen Sie sich Zeit, die ergreifenden Inschriften zu lesen.",
             "hu": "Rója le tiszteletét ezen az ünnepélyes és gyönyörűen karbantartott emlékhelyen, és szánjon időt az elesett katonáknak szentelt megrendítő feliratok elolvasására.",
             "ro": "Aduceți un omagiu la acest loc memorial solemn și frumos întreținut și luați-vă timp pentru a citi inscripțiile emoționante dedicate soldaților căzuți.",
-            "en": "Pay your respects at this solemn and beautifully maintained memorial site, and take time to read the poignant inscriptions dedicated to the fallen soldiers."
+            "en": "Pay your respects at this solemn and beautifully maintained memorial site, and take time to read the poignant inscriptions dedicated to the fallen soldiers.",
+            "fr": "Rendez hommage sur ce site mémorial sobre et magnifiquement entretenu, et prenez le temps de lire les inscriptions poignantes dédiées aux soldats tombés au combat."
           }
         },
         {
@@ -681,7 +755,8 @@
             "de": "Rathaus Corbie",
             "hu": "Corbie Városháza",
             "ro": "Primăria Corbie",
-            "en": "Corbie Town Hall"
+            "en": "Corbie Town Hall",
+            "fr": "Mairie de Corbie"
           },
           "coords": [
             2.513452,
@@ -696,7 +771,8 @@
             "de": "Beginnen Sie Ihren Besuch am historischen Rathaus, um die klassische Fassade zu bewundern, und vergessen Sie nicht, am nahen Informationsschalter nach einer Karte zu fragen.",
             "hu": "Kezdje a látogatást a történelmi városházánál, hogy megcsodálja a klasszikus homlokzatot, és ne felejtsen el helyi térképet kérni a közeli információs pultnál.",
             "ro": "Începeți vizita la primăria istorică pentru a-i admira fațada clasică și nu uitați să cereți o hartă locală la biroul de informații turistice din apropiere.",
-            "en": "Start your visit at the historic town hall to admire its classical facade, and don't forget to ask for a local map at the nearby tourist information desk."
+            "en": "Start your visit at the historic town hall to admire its classical facade, and don't forget to ask for a local map at the nearby tourist information desk.",
+            "fr": "Commencez votre visite à la mairie historique pour admirer sa façade classique, et n’oubliez pas de demander un plan local au bureau d’information touristique à proximité."
           }
         },
         {
@@ -704,7 +780,8 @@
             "de": "Abteikirche Saint-Pierre",
             "hu": "Saint-Pierre Apátság",
             "ro": "Abația Saint-Pierre",
-            "en": "Abbey of Saint-Pierre"
+            "en": "Abbey of Saint-Pierre",
+            "fr": "Abbaye Saint‑Pierre"
           },
           "coords": [
             2.510179,
@@ -719,7 +796,8 @@
             "de": "Bestaunen Sie die hochaufragende gotische Architektur dieser majestätischen Abteikirche und gehen Sie früh hinein, um den Menschenmassen am Nachmittag zu entgehen.",
             "hu": "Csodálja meg ennek a fenséges apátsági templomnak a gótikus építészetét, és mindenképpen menjen be korán, hogy elkerülje a délutáni tömeget.",
             "ro": "Minunați-vă de arhitectura gotică a acestei biserici abațiale majestuoase și asigurați-vă că intrați devreme pentru a evita aglomerația de după-amiază.",
-            "en": "Marvel at the towering Gothic architecture of this majestic abbey church, and be sure to step inside early to avoid the afternoon crowds."
+            "en": "Marvel at the towering Gothic architecture of this majestic abbey church, and be sure to step inside early to avoid the afternoon crowds.",
+            "fr": "Admirez l’imposante architecture gothique de cette majestueuse abbaye, et pensez à entrer tôt pour éviter la foule de l’après‑midi."
           }
         },
         {
@@ -727,7 +805,8 @@
             "de": "Somme-Kanal",
             "hu": "Somme-csatorna",
             "ro": "Canalul Somme",
-            "en": "Somme Canal"
+            "en": "Somme Canal",
+            "fr": "Canal de la Somme"
           },
           "coords": [
             2.544649,
@@ -742,7 +821,8 @@
             "de": "Genießen Sie einen entspannten Spaziergang oder ein ruhiges Picknick an den malerischen Ufern des Kanals und tragen Sie bequeme Schuhe für die unbefestigten Wege.",
             "hu": "Élvezze a pihentető sétát vagy egy csendes pikniket a csatorna festői partjain, és viseljen kényelmes sétacipőt a burkolatlan tanösvények miatt.",
             "ro": "Bucurați-vă de o plimbare relaxantă sau de un picnic liniștit pe malurile pitorești ale canalului și purtați pantofi confortabili pentru potecile neasfaltate.",
-            "en": "Enjoy a relaxing stroll or a quiet picnic along the picturesque banks of the canal, and wear comfortable walking shoes for the unpaved nature trails."
+            "en": "Enjoy a relaxing stroll or a quiet picnic along the picturesque banks of the canal, and wear comfortable walking shoes for the unpaved nature trails.",
+            "fr": "Profitez d’une promenade relaxante ou d’un pique‑nique paisible le long des pittoresques berges du canal, et portez des chaussures de marche confortables pour les sentiers non revêtus."
           }
         },
         {
@@ -750,7 +830,8 @@
             "de": "Kirche Saint-Vaast",
             "hu": "Saint-Vaast Templom",
             "ro": "Biserica Saint-Vaast",
-            "en": "Church of Saint-Vaast"
+            "en": "Church of Saint-Vaast",
+            "fr": "Église Saint‑Vaast"
           },
           "coords": [
             2.512389,
@@ -765,7 +846,8 @@
             "de": "Erleben Sie die tiefe Stille und das historische Ambiente dieses ländlichen Heiligtums und bringen Sie eine Jacke mit, da der Innenraum ganzjährig kühl bleibt.",
             "hu": "Tapasztalja meg ennek a vidéki szentélynek a mély csendjét és történelmi hangulatát, és feltétlenül hozzon magával könnyű kabátot, mivel a belső tér hűvös.",
             "ro": "Experimentați tăcerea profundă și ambianța istorică a acestui sanctuar rural, asigurându-vă că aduceți o jachetă, deoarece interiorul rămâne răcoros tot anul.",
-            "en": "Experience the profound silence and historic ambiance of this rural sanctuary, making sure to bring a light jacket as the interior remains cool year-round."
+            "en": "Experience the profound silence and historic ambiance of this rural sanctuary, making sure to bring a light jacket as the interior remains cool year-round.",
+            "fr": "Vivez le profond silence et l’ambiance historique de ce sanctuaire rural ; n’oubliez pas une veste légère car l’intérieur reste frais toute l’année."
           }
         }
       ],
@@ -773,7 +855,8 @@
         "de": "Beginnen Sie den Tag mit einem bewegenden Besuch des Militärfriedhofs von Villers-Bretonneux, einem Ort der stillen Besinnung und der tiefen historischen Bedeutung. Gegen Mittag fahren Sie in das Zentrum von Corbie, um das prächtige Rathaus und die hochaufragende Abteikirche zu besichtigen, die das Stadtbild dominieren. Der Nachmittag bietet eine willkommene Abwechslung mit einem Ausflug zum idyllischen Somme-Kanal, wo Sie die herrliche Natur und die frische Luft genießen können. Den Abschluss Ihrer Fahrt bildet die friedliche Église Saint-Vaast, die in den Nachmittagsstunden eine besonders mystische und beruhigende Atmosphäre versprüht.",
         "hu": "Kezdje a napot a Villers-Bretonneux-i katonai temető megható látogatásával, amely a csendes elmélkedés és a mély történelmi jelentőség helyszíne. Délben vezessen Corbie központjába, hogy megtekintse a pompás városházát és az eget verő apátságot, amelyek uralják a városképet. A délután kellemes kikapcsolódást kínál egy kirándulással az idilli Somme-csatornához, ahol élvezheti a gyönyörű természetet és a friss levegőt. Az utazás fénypontja a békés Église Saint-Vaast lesz, amely a korai délutáni órákban különösen misztikus és megnyugtató hangulatot áraszt.",
         "ro": "Începeți ziua cu o vizită emoționantă la cimitirul militar din Villers-Bretonneux, un loc de reflecție tăcută și de profundă semnificație istorică. La prânz, conduceți spre centrul orașului Corbie pentru a vedea primăria magnifică și biserica impunătoare care domină peisajul urban. După-amiaza oferă o schimbare binevenită de ritm cu o excursie la idilicul Canal Somme, unde vă puteți bucura de natura frumoasă și aerul proaspăt. Călătoria dumneavoastră se încheie la pașnica Église Saint-Vaast, care emană o atmosferă deosebit de mistică și liniștitoare în lumina după-amiezii.",
-        "en": "Begin the day with a moving visit to the Villers-Bretonneux Military Cemetery, a place of quiet reflection and deep historical significance. Around midday, drive into the center of Corbie to see the magnificent town hall and the towering abbey church that dominate the cityscape. The afternoon offers a welcome change of pace with an excursion to the idyllic Somme Canal, where you can enjoy the beautiful nature and fresh air. Your journey concludes at the peaceful Église Saint-Vaast, which exudes a particularly mystical and calming atmosphere in the early afternoon."
+        "en": "Begin the day with a moving visit to the Villers-Bretonneux Military Cemetery, a place of quiet reflection and deep historical significance. Around midday, drive into the center of Corbie to see the magnificent town hall and the towering abbey church that dominate the cityscape. The afternoon offers a welcome change of pace with an excursion to the idyllic Somme Canal, where you can enjoy the beautiful nature and fresh air. Your journey concludes at the peaceful Église Saint-Vaast, which exudes a particularly mystical and calming atmosphere in the early afternoon.",
+        "fr": "Commencez la journée par une visite émouvante du Cimetière militaire de Villers‑Bretonneux, lieu de recueillement et de grande portée historique. Vers midi, rendez‑vous au centre de Corbie pour voir la magnifique mairie et l’imposante abbaye qui dominent le paysage urbain. L’après‑midi offre un changement de rythme bienvenu avec une excursion au pittoresque canal de la Somme, où vous pourrez profiter de la belle nature et de l’air frais. Votre parcours se conclut à la paisible Église Saint‑Vaast, qui dégage une atmosphère particulièrement mystique et apaisante en début d’après‑midi."
       },
       "variants": {
         "rainy": {
@@ -781,7 +864,8 @@
             "de": "Beginnen Sie am Militärfriedhof; der Regen verleiht diesem Ort eine würdevolle Melancholie. Die Anfahrt mit dem Auto ist komfortabel.\n\nMittags erreichen Sie das Stadtzentrum von Corbie. Parken Sie nah am Rathaus und der Abtei, um die Gehwege im Regen kurz zu halten.\n\nNachmittags führt die Fahrt zum Kanal. Genießen Sie den Blick auf die nasse Natur aus dem warmen Fahrzeuginneren bei einer langsamen Fahrt.\n\nAm Abend endet die Tour an der Kirche Saint-Vaast. Die Scheibenwischer ziehen ihre Rhythmen, während Sie die beleuchtete Stadt im Rückspiegel sehen.",
             "hu": "Kezdje a túrát a katonai temetőnél; az eső méltóságteljes melankóliát kölcsönöz a helynek. Az autóval való megközelítés kényelmes.\n\nDélben érkezzen Corbie központjába. Parkoljon közel a városházához és az apátsághoz, hogy az esőben megtett séták rövidek legyenek.\n\nDélután autózzon a csatorna felé. Élvezze a vizes természet látványát a meleg autóból, miközben lassan halad a part menti úton.\n\nEste a túra a Saint-Vaast templomnál ér véget. Az ablaktörlők ritmusa kíséri, ahogy a visszapillantóban feltűnnek a város fényei.",
             "ro": "Începeți turul la cimitirul militar; ploaia oferă acestui loc o melancolie demnă. Accesul cu mașina este confortabil și rapid.\n\nLa prânz ajungeți în centrul orașului Corbie. Parcați aproape de primărie și abație pentru a scurta drumurile pe jos prin ploaie.\n\nDupă-amiaza, conduceți spre canal. Admirați natura umedă din interiorul cald al vehiculului în timp ce rulați încet pe drumul de coastă.\n\nSeara, turul se încheie la biserica Saint-Vaast. Ritmul ștergătoarelor vă însoțește în timp ce luminile orașului apar în oglinda retrovizoare.",
-            "en": "Begin your tour at the military cemetery; the rain lends a dignified melancholy to the site. Reaching it by car is comfortable and dry.\n\nAt noon, arrive in the center of Corbie. Park close to the Town Hall and the Abbey to keep your walks in the rain as short as possible.\n\nIn the afternoon, drive towards the canal. Enjoy the view of the wet nature from the warmth of your car while driving slowly along the bank.\n\nBy evening, the tour ends at Saint-Vaast Church. The rhythm of the wipers accompanies you as the city lights appear in the rearview mirror."
+            "en": "Begin your tour at the military cemetery; the rain lends a dignified melancholy to the site. Reaching it by car is comfortable and dry.\n\nAt noon, arrive in the center of Corbie. Park close to the Town Hall and the Abbey to keep your walks in the rain as short as possible.\n\nIn the afternoon, drive towards the canal. Enjoy the view of the wet nature from the warmth of your car while driving slowly along the bank.\n\nBy evening, the tour ends at Saint-Vaast Church. The rhythm of the wipers accompanies you as the city lights appear in the rearview mirror.",
+            "fr": "Commencez votre circuit au cimetière militaire ; la pluie confère au lieu une mélancolie digne. L’accès en voiture reste confortable et sec.\n\nÀ midi, arrivez au centre de Corbie. Garez‑vous près de la Mairie et de l’Abbaye pour réduire au minimum les promenades sous la pluie.\n\nL’après‑midi, prenez la route vers le canal. Profitez de la vue de la nature humide depuis la chaleur de votre voiture en roulant lentement le long de la berge.\n\nEn soirée, la visite se termine à l’église Saint‑Vaast. Le rythme des essuie‑glaces vous accompagne tandis que les lumières de la ville apparaissent dans le rétroviseur."
           },
           "stops": [
             {
@@ -789,13 +873,15 @@
                 "de": "Militärfriedhof Villers-Bretonneux",
                 "hu": "Villers-Bretonneux Katonai Temető",
                 "ro": "Cimitirul Militar Villers-Bretonneux",
-                "en": "Villers-Bretonneux Military Cemetery"
+                "en": "Villers-Bretonneux Military Cemetery",
+                "fr": "Cimetière militaire de Villers‑Bretonneux"
               },
               "tip_5lang": {
                 "de": "Parken Sie auf den befestigten Flächen; der Regen macht die Aussicht vom Denkmal besonders weitläufig und atmosphärisch.",
                 "hu": "Parkoljon a szilárd burkolatú területeken; az eső miatt az emlékműről nyíló kilátás különösen távolinak és hangulatosnak tűnik.",
                 "ro": "Parcați pe suprafețele pavate; ploaia face ca vederea de la monument să pară deosebit de vastă și plină de atmosferă.",
-                "en": "Park on the paved areas; the rain makes the view from the monument look particularly expansive and atmospheric."
+                "en": "Park on the paved areas; the rain makes the view from the monument look particularly expansive and atmospheric.",
+                "fr": "Garez‑vous sur les zones goudronnées ; la pluie rend la vue depuis le monument particulièrement vaste et atmosphérique."
               }
             },
             {
@@ -803,13 +889,15 @@
                 "de": "Rathaus Corbie",
                 "hu": "Corbie Városháza",
                 "ro": "Primăria Corbie",
-                "en": "Corbie Town Hall"
+                "en": "Corbie Town Hall",
+                "fr": "Mairie de Corbie"
               },
               "tip_5lang": {
                 "de": "Nutzen Sie den Parkplatz am Marktplatz, um nur wenige Meter im Regen zum beeindruckenden Rathauseingang laufen zu müssen.",
                 "hu": "Használja a piactéri parkolót, így csak pár métert kell gyalogolnia az esőben a városháza lenyűgöző bejáratáig.",
                 "ro": "Folosiți parcarea din piață pentru a merge doar câțiva metri prin ploaie până la intrarea impresionantă a primăriei.",
-                "en": "Use the marketplace parking lot so you only have to walk a few meters in the rain to reach the impressive Town Hall entrance."
+                "en": "Use the marketplace parking lot so you only have to walk a few meters in the rain to reach the impressive Town Hall entrance.",
+                "fr": "Utilisez le parking du marché pour n’avoir que quelques mètres à marcher sous la pluie jusqu’à l’imposant porche de la Mairie."
               }
             },
             {
@@ -817,13 +905,15 @@
                 "de": "Abteikirche Saint-Pierre",
                 "hu": "Saint-Pierre Apátság",
                 "ro": "Abația Saint-Pierre",
-                "en": "Abbey of Saint-Pierre"
+                "en": "Abbey of Saint-Pierre",
+                "fr": "Abbaye Saint‑Pierre"
               },
               "tip_5lang": {
                 "de": "Das Parken in der Nähe erlaubt eine trockene Ankunft; im Inneren können Sie dem prasselnden Regen auf dem hohen Dach lauschen.",
                 "hu": "A közeli parkolás lehetővé teszi a száraz megérkezést; bent hallgathatja a magas tetőn kopogó eső megnyugtató neszét.",
                 "ro": "Parcarea în apropiere permite o sosire uscată; în interior puteți asculta sunetul ploii care bate în acoperișul înalt.",
-                "en": "Parking nearby allows for a dry arrival; inside you can listen to the soothing sound of the rain drumming on the high roof."
+                "en": "Parking nearby allows for a dry arrival; inside you can listen to the soothing sound of the rain drumming on the high roof.",
+                "fr": "Un stationnement à proximité permet une arrivée au sec ; à l’intérieur vous pourrez écouter le bruit apaisant de la pluie frappant la haute toiture."
               }
             },
             {
@@ -831,13 +921,15 @@
                 "de": "Somme-Kanal",
                 "hu": "Somme-csatorna",
                 "ro": "Canalul Somme",
-                "en": "Somme Canal"
+                "en": "Somme Canal",
+                "fr": "Canal de la Somme"
               },
               "tip_5lang": {
                 "de": "Fahren Sie vorsichtig auf den ufernahen Straßen; die neblige Wasserlandschaft lässt sich am besten bei einem kurzen Stopp betrachten.",
                 "hu": "Vezessen óvatosan a partmenti utakon; a ködös vízparti tájat leginkább egy rövid megálló során érdemes megcsodálni.",
                 "ro": "Conduceți cu atenție pe drumurile de pe mal; peisajul cețos de pe malul apei este cel mai bine admirat în timpul unei scurte opriri.",
-                "en": "Drive carefully on the riverside roads; the misty waterscape is best admired during a brief stop."
+                "en": "Drive carefully on the riverside roads; the misty waterscape is best admired during a brief stop.",
+                "fr": "Conduisez prudemment sur les routes en bord de rivière ; le paysage brumeux se savoure mieux lors d’un arrêt bref."
               }
             },
             {
@@ -845,13 +937,15 @@
                 "de": "Kirche Saint-Vaast",
                 "hu": "Saint-Vaast Templom",
                 "ro": "Biserica Saint-Vaast",
-                "en": "Church of Saint-Vaast"
+                "en": "Church of Saint-Vaast",
+                "fr": "Église Saint‑Vaast"
               },
               "tip_5lang": {
                 "de": "Lassen Sie die Heizung im Auto laufen, während Sie die Kirche besichtigen; so ist es bei der Rückfahrt nach dem Regen angenehm warm.",
                 "hu": "Hagyja rövid ideig járni a fűtést az autóban a látogatás előtt; így a visszainduláskor kellemes meleg fogadja majd az eső után.",
                 "ro": "Lăsați căldura pornită în mașină înainte de vizită; astfel va fi plăcut și cald la întoarcere după plimbarea prin ploaie.",
-                "en": "Keep the car heater ready for your return; it will be pleasantly warm when you get back after your walk in the rain."
+                "en": "Keep the car heater ready for your return; it will be pleasantly warm when you get back after your walk in the rain.",
+                "fr": "Gardez le chauffage de la voiture prêt pour le retour ; il sera agréablement chaud après votre balade sous la pluie."
               }
             }
           ]
@@ -861,7 +955,8 @@
             "de": "Ein kalter Wintermorgen beginnt am Militärfriedhof. Die Weite der Picardie wirkt im Frost unendlich. Die Autoheizung sorgt für Komfort.\n\nMittags erreichen Sie Corbie. Die Parkplatzsuche ist im Winter meist einfach, sodass Sie schnell in das Innere der Abtei gelangen.\n\nNachmittags führt die Fahrt entlang des Somme-Kanals. Beobachten Sie die Vögel im Winterkleid und die gefrorenen Uferzonen durch das Fenster.\n\nUm 17:00 Uhr sinkt die Temperatur rapide. Die beleuchtete Kirche Saint-Vaast bildet einen strahlenden Fixpunkt in der frühen winterlichen Dunkelheit.",
             "hu": "Hideg téli reggel indul a katonai temetőnél. A Picardie-i táj végtelennek tűnik a dérben. Az autó fűtése gondoskodik a kényelemről.\n\nDélben érkezik Corbie-ba. A parkolás télen általában egyszerűbb, így gyorsan bejuthat az apátság lenyűgöző belső terébe.\n\nDélután autózzon a Somme-csatorna mentén. Figyelje meg a téli madarakat és a befagyott part menti részeket az ablakon keresztül.\n\n17:00 órakor a hőmérséklet gyorsan süllyed. A kivilágított Saint-Vaast templom ragyogó fénypontot alkot a korai téli sötétségben.",
             "ro": "O dimineață rece de iarnă începe la cimitirul militar. Câmpia Picardiei pare infinită sub ger. Încălzirea mașinii asigură tot confortul.\n\nLa prânz ajungeți în Corbie. Găsirea unui loc de parcare este mai ușoară iarna, permițându-vă accesul rapid în interiorul abației.\n\nDupă-amiaza, conduceți pe lângă Canalul Somme. Observați păsările de iarnă și zonele înghețate de pe mal direct de la fereastra mașinii.\n\nLa ora 17:00, temperatura scade rapid. Biserica Saint-Vaast iluminată formează un punct de reper strălucitor în întunericul timpuriu de iarnă.",
-            "en": "A cold winter morning begins at the military cemetery. The Picardy landscape looks infinite under the frost. The car heater ensures comfort.\n\nAt noon, arrive in Corbie. Finding a parking spot is usually easier in winter, allowing you quick access to the Abbey's interior.\n\nIn the afternoon, drive along the Somme Canal. Observe the winter birds and the frozen bank areas through your car window.\n\nBy 5:00 PM, the temperature drops rapidly. The illuminated Saint-Vaast Church forms a radiant focal point in the early winter darkness."
+            "en": "A cold winter morning begins at the military cemetery. The Picardy landscape looks infinite under the frost. The car heater ensures comfort.\n\nAt noon, arrive in Corbie. Finding a parking spot is usually easier in winter, allowing you quick access to the Abbey's interior.\n\nIn the afternoon, drive along the Somme Canal. Observe the winter birds and the frozen bank areas through your car window.\n\nBy 5:00 PM, the temperature drops rapidly. The illuminated Saint-Vaast Church forms a radiant focal point in the early winter darkness.",
+            "fr": "Un froid matin d’hiver commence au cimetière militaire. Le paysage picard semble infini sous le givre. Le chauffage de la voiture assure le confort.\n\nÀ midi, arrivez à Corbie. Trouver une place est généralement plus facile en hiver, vous permettant un accès rapide à l’intérieur de l’Abbaye.\n\nL’après‑midi, longez le canal de la Somme en voiture. Observez les oiseaux hivernants et les zones de berges gelées depuis la vitre."
           },
           "stops": [
             {
@@ -869,13 +964,15 @@
                 "de": "Militärfriedhof Villers-Bretonneux",
                 "hu": "Villers-Bretonneux Katonai Temető",
                 "ro": "Cimitirul Militar Villers-Bretonneux",
-                "en": "Villers-Bretonneux Military Cemetery"
+                "en": "Villers-Bretonneux Military Cemetery",
+                "fr": "Cimetière militaire de Villers‑Bretonneux"
               },
               "tip_5lang": {
                 "de": "Prüfen Sie die Straßenverhältnisse auf Glatteis; die erhöhte Lage bietet im Winter eine klare, aber sehr windige Aussicht.",
                 "hu": "Ellenőrizze az útviszonyokat a jegesedés miatt; a magaslati fekvés télen tiszta, de nagyon szeles kilátást kínál.",
                 "ro": "Verificați starea drumurilor pentru polei; locația înaltă oferă o vedere clară iarna, dar este adesea foarte vântoasă.",
-                "en": "Check the road conditions for black ice; the elevated location offers a clear but very windy view in winter."
+                "en": "Check the road conditions for black ice; the elevated location offers a clear but very windy view in winter.",
+                "fr": "Vérifiez l’état des routes pour le verglas ; le site en hauteur offre une vue dégagée mais très ventée en hiver."
               }
             },
             {
@@ -883,13 +980,15 @@
                 "de": "Rathaus Corbie",
                 "hu": "Corbie Városháza",
                 "ro": "Primăria Corbie",
-                "en": "Corbie Town Hall"
+                "en": "Corbie Town Hall",
+                "fr": "Mairie de Corbie"
               },
               "tip_5lang": {
                 "de": "Achten Sie auf gefrorene Pfützen auf dem Parkplatz; das Rathaus ist im Winter oft festlich beleuchtet und bietet ein tolles Fotomotiv.",
                 "hu": "Ügyeljen a befagyott tócsákra a parkolóban; a városháza télen gyakran ünnepi kivilágítást kap, ami remek fotótéma.",
                 "ro": "Atenție la bălțile înghețate din parcare; primăria este adesea iluminată festiv iarna, oferind un subiect excelent pentru fotografii.",
-                "en": "Watch out for frozen puddles in the parking lot; the Town Hall is often festively lit in winter, making it a great photo subject."
+                "en": "Watch out for frozen puddles in the parking lot; the Town Hall is often festively lit in winter, making it a great photo subject.",
+                "fr": "Méfiez‑vous des flaques gelées sur le parking ; la Mairie est souvent joliment illuminée en hiver, idéale pour des photos."
               }
             },
             {
@@ -897,13 +996,15 @@
                 "de": "Abteikirche Saint-Pierre",
                 "hu": "Saint-Pierre Apátság",
                 "ro": "Abația Saint-Pierre",
-                "en": "Abbey of Saint-Pierre"
+                "en": "Abbey of Saint-Pierre",
+                "fr": "Abbaye Saint‑Pierre"
               },
               "tip_5lang": {
                 "de": "Die dicken Steinmauern halten die Kälte; ein kurzer Besuch reicht aus, um die winterliche Stille des Schiffs zu genießen.",
                 "hu": "A vastag kőfalak tartják a hideget; egy rövid látogatás is elég, hogy élvezze a templomhajó téli nyugalmát.",
                 "ro": "Zidurile groase de piatră rețin frigul; o vizită scurtă este suficientă pentru a vă bucura de liniștea hibernală a naosului.",
-                "en": "The thick stone walls hold the cold; a short visit is enough to enjoy the winter silence of the nave."
+                "en": "The thick stone walls hold the cold; a short visit is enough to enjoy the winter silence of the nave.",
+                "fr": "Les murs épais en pierre retiennent le froid ; une courte visite suffit pour apprécier le silence hivernal de la nef."
               }
             },
             {
@@ -911,13 +1012,15 @@
                 "de": "Somme-Kanal",
                 "hu": "Somme-csatorna",
                 "ro": "Canalul Somme",
-                "en": "Somme Canal"
+                "en": "Somme Canal",
+                "fr": "Canal de la Somme"
               },
               "tip_5lang": {
                 "de": "Nutzen Sie die Parkbuchten für einen kurzen Blick auf das Eis; vermeiden Sie im Winter das Befahren ungeräumter Uferwege.",
                 "hu": "Használja a parkolóöblöket egy rövid pillantásra a jégre; télen kerülje a le nem takarított partmenti utakon való autózást.",
                 "ro": "Folosiți alveolele de parcare pentru o privire scurtă asupra gheții; iarna, evitați drumurile de pe mal care nu sunt curățate.",
-                "en": "Use the parking bays for a quick look at the ice; avoid driving on un-cleared riverside paths during winter."
+                "en": "Use the parking bays for a quick look at the ice; avoid driving on un-cleared riverside paths during winter.",
+                "fr": "Utilisez les places de stationnement pour un coup d’œil rapide sur la glace ; évitez de conduire sur les chemins riverains non déneigés en hiver."
               }
             },
             {
@@ -925,13 +1028,15 @@
                 "de": "Kirche Saint-Vaast",
                 "hu": "Saint-Vaast Templom",
                 "ro": "Biserica Saint-Vaast",
-                "en": "Church of Saint-Vaast"
+                "en": "Church of Saint-Vaast",
+                "fr": "Église Saint‑Vaast"
               },
               "tip_5lang": {
                 "de": "Die frühe Dunkelheit hebt die Fenster der Kirche hervor; stellen Sie sicher, dass Ihre Autobatterie bei der Kälte gut funktioniert.",
                 "hu": "A korai sötétség kiemeli a templom ablakait; győződjön meg róla, hogy az autó akkumulátora jól bírja a hideget.",
                 "ro": "Întunericul timpuriu scoate în evidență ferestrele bisericii; asigurați-vă că bateria mașinii funcționează bine la temperaturi scăzute.",
-                "en": "The early darkness highlights the church windows; make sure your car battery is in good condition for the cold weather."
+                "en": "The early darkness highlights the church windows; make sure your car battery is in good condition for the cold weather.",
+                "fr": "L’obscurité précoce met en valeur les verrières de l’église ; assurez‑vous que la batterie de la voiture est en bon état pour le grand froid."
               }
             }
           ]

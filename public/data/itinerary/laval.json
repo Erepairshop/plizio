@@ -21,7 +21,8 @@
             "de": "Kathedrale der Heiligen Dreifaltigkeit",
             "hu": "Szentháromság-székesegyház",
             "ro": "Catedrala Sfânta Treime",
-            "en": "Cathédrale de la Sainte-Trinité"
+            "en": "Cathédrale de la Sainte-Trinité",
+            "fr": "Cathédrale de la Sainte-Trinité"
           },
           "coords": [
             -0.7725,
@@ -36,7 +37,8 @@
             "de": "Beachten Sie das Grabmal von Bischof Guy de Laval.",
             "hu": "Nézze meg Guy de Laval püspök síremlékét.",
             "ro": "Observați monumentul funerar al episcopului Guy de Laval.",
-            "en": "Look for the tomb of Bishop Guy de Laval."
+            "en": "Look for the tomb of Bishop Guy de Laval.",
+            "fr": "Cherchez la tombe de l'évêque Guy de Laval."
           }
         },
         {
@@ -44,7 +46,8 @@
             "de": "Stadttor Porte Beucheresse",
             "hu": "Porte Beucheresse városkapu",
             "ro": "Poarta Beucheresse",
-            "en": "Porte Beucheresse"
+            "en": "Porte Beucheresse",
+            "fr": "Porte Beucheresse"
           },
           "coords": [
             -0.773,
@@ -59,7 +62,8 @@
             "de": "Die beiden Türme bewachten einst den Zugang zur Altstadt.",
             "hu": "A két torony egykor az óváros bejáratát őrizte.",
             "ro": "Cele două turnuri păzeau odinioară intrarea în orașul vechi.",
-            "en": "The two towers once guarded the entrance to the old city."
+            "en": "The two towers once guarded the entrance to the old city.",
+            "fr": "Les deux tours gardaient autrefois l'entrée de la vieille ville."
           }
         },
         {
@@ -67,7 +71,8 @@
             "de": "Altes Schloss (Vieux-Château)",
             "hu": "Régi vár (Vieux-Château)",
             "ro": "Castelul Vechi",
-            "en": "Vieux-Château"
+            "en": "Vieux-Château",
+            "fr": "Vieux-Château"
           },
           "coords": [
             -0.7712,
@@ -82,7 +87,8 @@
             "de": "Von den Stadtmauern hat man einen tollen Blick auf die Mayenne.",
             "hu": "A várfalakról remek kilátás nyílik a Mayenne folyóra.",
             "ro": "De pe zidurile cetății aveți o vedere superbă asupra râului Mayenne.",
-            "en": "The castle walls offer great views of the Mayenne river."
+            "en": "The castle walls offer great views of the Mayenne river.",
+            "fr": "Les murailles du château offrent de belles vues sur la rivière Mayenne."
           }
         },
         {
@@ -90,7 +96,8 @@
             "de": "Museum für Naive Kunst",
             "hu": "Naiv Művészetek Múzeuma",
             "ro": "Muzeul de Artă Naivă",
-            "en": "Musée d'Art Naïf"
+            "en": "Musée d'Art Naïf",
+            "fr": "Musée d'Art Naïf"
           },
           "coords": [
             -0.771,
@@ -105,7 +112,8 @@
             "de": "Hier sind Werke des in Laval geborenen Henri Rousseau ausgestellt.",
             "hu": "Itt a lavali születésű Henri Rousseau művei is láthatók.",
             "ro": "Aici sunt expuse opere ale lui Henri Rousseau, născut în Laval.",
-            "en": "Works by Henri Rousseau, born in Laval, are exhibited here."
+            "en": "Works by Henri Rousseau, born in Laval, are exhibited here.",
+            "fr": "Des œuvres d'Henri Rousseau, né à Laval, y sont exposées."
           }
         },
         {
@@ -113,7 +121,8 @@
             "de": "Alte Brücke (Pont Vieux)",
             "hu": "Öreg híd (Pont Vieux)",
             "ro": "Podul Vechi",
-            "en": "Pont Vieux"
+            "en": "Pont Vieux",
+            "fr": "Pont Vieux"
           },
           "coords": [
             -0.7685,
@@ -128,7 +137,8 @@
             "de": "Die älteste Brücke der Stadt aus dem 13. Jahrhundert.",
             "hu": "A város legrégebbi, 13. századi hídja.",
             "ro": "Cel mai vechi pod din oraș, datând din secolul al XIII-lea.",
-            "en": "The oldest bridge in the city, dating back to the 13th century."
+            "en": "The oldest bridge in the city, dating back to the 13th century.",
+            "fr": "Le plus ancien pont de la ville, datant du XIIIe siècle."
           }
         },
         {
@@ -136,7 +146,8 @@
             "de": "Waschschiff Saint-Julien",
             "hu": "Saint-Julien mosóhajó",
             "ro": "Barca-spălătorie Saint-Julien",
-            "en": "Bateau-lavoir Saint-Julien"
+            "en": "Bateau-lavoir Saint-Julien",
+            "fr": "Bateau-lavoir Saint-Julien"
           },
           "coords": [
             -0.768,
@@ -151,7 +162,8 @@
             "de": "Ein einzigartiges Zeugnis des Alltagslebens im 19. Jahrhundert.",
             "hu": "A 19. századi mindennapi élet egyedülálló emléke.",
             "ro": "O mărturie unică a vieții de zi cu zi din secolul al XIX-lea.",
-            "en": "A unique testimony to daily life in the 19th century."
+            "en": "A unique testimony to daily life in the 19th century.",
+            "fr": "Un témoignage unique de la vie quotidienne au XIXᵉ siècle."
           }
         },
         {
@@ -159,7 +171,8 @@
             "de": "Garten Jardin de la Perrine",
             "hu": "Jardin de la Perrine kert",
             "ro": "Grădina La Perrine",
-            "en": "Jardin de la Perrine"
+            "en": "Jardin de la Perrine",
+            "fr": "Jardin de la Perrine"
           },
           "coords": [
             -0.7735,
@@ -174,7 +187,8 @@
             "de": "Besuchen Sie das Grab von Henri Rousseau inmitten der Blumen.",
             "hu": "Keresse meg Henri Rousseau sírját a virágok között.",
             "ro": "Vizitați mormântul lui Henri Rousseau printre flori.",
-            "en": "Visit the grave of Henri Rousseau amidst the flowers."
+            "en": "Visit the grave of Henri Rousseau amidst the flowers.",
+            "fr": "Visitez la tombe d’Henri Rousseau au milieu des fleurs."
           }
         }
       ],
@@ -182,7 +196,8 @@
         "de": "Diese Wanderung führt Sie durch das Herz des mittelalterlichen Laval. Wir beginnen an der beeindruckenden Kathedrale und schlendern durch das historische Stadttor zum Schloss. Nach dem Eintauchen in die Welt der Naiven Kunst überqueren wir die Mayenne auf der alten Brücke, besuchen ein schwimmendes Waschschiff und beenden den Tag entspannt im wunderschönen Jardin de la Perrine.",
         "hu": "Ez a séta Laval középkori szívén vezet keresztül. A lenyűgöző székesegyháznál kezdünk, majd a történelmi városkapun át a várhoz sétálunk. A naiv művészetek világában tett látogatás után az Öreg hídon kelünk át a Mayenne-en, megnézünk egy úszó mosóhajót, a napot pedig a Jardin de la Perrine kertjében zárjuk.",
         "ro": "Această plimbare vă poartă prin inima medievală a orașului Laval. Începem de la catedrala impresionantă și ne îndreptăm spre castel prin poarta istorică a orașului. După o incursiune în lumea artei naive, traversăm Mayenne pe podul vechi, vizităm o barcă-spălătorie și încheiem ziua relaxându-ne în frumoasa Grădină La Perrine.",
-        "en": "This walking tour takes you through the medieval heart of Laval. We begin at the impressive cathedral and stroll through the historic city gate to the castle. After immersing ourselves in the world of Naive Art, we cross the Mayenne on the old bridge, visit a floating wash-house, and end the day relaxing in the beautiful Jardin de la Perrine."
+        "en": "This walking tour takes you through the medieval heart of Laval. We begin at the impressive cathedral and stroll through the historic city gate to the castle. After immersing ourselves in the world of Naive Art, we cross the Mayenne on the old bridge, visit a floating wash-house, and end the day relaxing in the beautiful Jardin de la Perrine.",
+        "fr": "Cette promenade vous mène au cœur médiéval de Laval. Nous commençons à la cathédrale impressionnante et traversons la porte historique pour rejoindre le château. Après une immersion dans l’univers de l’art naïf, nous franchissons la Mayenne sur le vieux pont, visitons un bateau-lavoir et terminons la journée en nous relaxant dans le magnifique Jardin de la Perrine."
       },
       "gastro_picks": {
         "de": [
@@ -322,6 +337,11 @@
           "The old town is quite hilly, so wear comfortable shoes.",
           "Laval is the birthplace of Henri Rousseau, and his influence is felt everywhere.",
           "Combine your castle visit with the Museum of Naive Art."
+        ],
+        "fr": [
+          "La vieille ville est assez pentue, portez donc des chaussures confortables.",
+          "Laval est le lieu de naissance d’Henri Rousseau ; son influence se ressent partout.",
+          "Combinez la visite du château avec le Musée d’Art Naïf."
         ]
       }
     },
@@ -338,7 +358,8 @@
             "de": "Altes Schloss",
             "hu": "Régi vár",
             "ro": "Castelul Vechi",
-            "en": "Vieux-Château"
+            "en": "Vieux-Château",
+            "fr": "Vieux-Château"
           },
           "coords": [
             -0.7712,
@@ -353,7 +374,8 @@
             "de": "Stellen Sie Ihr Fahrrad am Place de la Trémoille ab.",
             "hu": "Hagyja kerékpárját a Place de la Trémoille-on.",
             "ro": "Lăsați bicicleta în Place de la Trémoille.",
-            "en": "Leave your bike at Place de la Trémoille."
+            "en": "Leave your bike at Place de la Trémoille.",
+            "fr": "Laissez votre vélo à la Place de la Trémoille."
           }
         },
         {
@@ -361,7 +383,8 @@
             "de": "Alte Brücke",
             "hu": "Öreg híd",
             "ro": "Podul Vechi",
-            "en": "Pont Vieux"
+            "en": "Pont Vieux",
+            "fr": "Pont Vieux"
           },
           "coords": [
             -0.7685,
@@ -376,7 +399,8 @@
             "de": "Genießen Sie den Blick auf das Schloss vom Flussufer aus.",
             "hu": "Élvezze a várra nyíló kilátást a folyópartról.",
             "ro": "Bucurați-vă de vederea spre castel de pe malul râului.",
-            "en": "Enjoy the view of the castle from the riverbank."
+            "en": "Enjoy the view of the castle from the riverbank.",
+            "fr": "Profitez de la vue sur le château depuis la berge."
           }
         },
         {
@@ -384,7 +408,8 @@
             "de": "Basilika Notre-Dame d'Avesnières",
             "hu": "Avesnières-i Miasszonyunk bazilika",
             "ro": "Bazilica Notre-Dame d'Avesnières",
-            "en": "Basilique Notre-Dame d'Avesnières"
+            "en": "Basilique Notre-Dame d'Avesnières",
+            "fr": "Basilique Notre-Dame d'Avesnières"
           },
           "coords": [
             -0.7615,
@@ -399,7 +424,8 @@
             "de": "Ein romanisches Meisterwerk am südlichen Stadtrand.",
             "hu": "Román stílusú remekmű a város déli szélén.",
             "ro": "O capodoperă romanică la marginea de sud a orașului.",
-            "en": "A Romanesque masterpiece on the southern outskirts."
+            "en": "A Romanesque masterpiece on the southern outskirts.",
+            "fr": "Un chef-d’œuvre roman en périphérie sud."
           }
         },
         {
@@ -407,7 +433,8 @@
             "de": "Jardin de la Perrine",
             "hu": "Jardin de la Perrine",
             "ro": "Grădina La Perrine",
-            "en": "Jardin de la Perrine"
+            "en": "Jardin de la Perrine",
+            "fr": "Jardin de la Perrine"
           },
           "coords": [
             -0.7735,
@@ -422,7 +449,8 @@
             "de": "Ideal für ein Picknick während der Radtour.",
             "hu": "Tökéletes hely egy piknikhez a bringázás közben.",
             "ro": "Loc ideal pentru un picnic în timpul plimbării cu bicicleta.",
-            "en": "Ideal spot for a picnic during your bike ride."
+            "en": "Ideal spot for a picnic during your bike ride.",
+            "fr": "Endroit idéal pour un pique-nique lors de votre balade à vélo."
           }
         },
         {
@@ -430,7 +458,8 @@
             "de": "Stadttor Porte Beucheresse",
             "hu": "Porte Beucheresse",
             "ro": "Poarta Beucheresse",
-            "en": "Porte Beucheresse"
+            "en": "Porte Beucheresse",
+            "fr": "Porte Beucheresse"
           },
           "coords": [
             -0.773,
@@ -445,7 +474,8 @@
             "de": "Ein kurzer Stopp am Eingang zum historischen Viertel.",
             "hu": "Rövid megálló a történelmi negyed bejáratánál.",
             "ro": "O scurtă oprire la intrarea în cartierul istoric.",
-            "en": "A short stop at the entrance to the historic district."
+            "en": "A short stop at the entrance to the historic district.",
+            "fr": "Un court arrêt à l’entrée du quartier historique."
           }
         },
         {
@@ -453,7 +483,8 @@
             "de": "Kathedrale der Heiligen Dreifaltigkeit",
             "hu": "Szentháromság-székesegyház",
             "ro": "Catedrala Sfânta Treime",
-            "en": "Cathédrale de la Sainte-Trinité"
+            "en": "Cathédrale de la Sainte-Trinité",
+            "fr": "Cathédrale de la Sainte-Trinité"
           },
           "coords": [
             -0.7725,
@@ -468,7 +499,8 @@
             "de": "Besuchen Sie diesen spirituellen Ort zum Abschluss.",
             "hu": "Látogasson el erre a spirituális helyre befejezésül.",
             "ro": "Vizitați acest loc spiritual la final.",
-            "en": "Visit this spiritual site to conclude your tour."
+            "en": "Visit this spiritual site to conclude your tour.",
+            "fr": "Visitez ce lieu spirituel pour conclure votre circuit."
           }
         }
       ],
@@ -476,7 +508,8 @@
         "de": "Mit dem Fahrrad lässt sich Laval hervorragend erkunden. Wir starten am Schloss, radeln dann flussabwärts zur Basilika Avesnières und kehren über den Jardin de la Perrine in die Oberstadt zurück. Die Route verbindet historische Monumente mit entspannten Fahrten am Wasser.",
         "hu": "Kerékpárral Laval kiválóan felfedezhető. A várnál kezdünk, majd a folyó mentén legurulunk az Avesnières bazilikához, végül a Jardin de la Perrine-en keresztül térünk vissza a felsővárosba. Az útvonal a történelmi műemlékeket ötvözi a pihentető vízparti tekeréssel.",
         "ro": "Laval poate fi explorat excelent cu bicicleta. Începem de la castel, mergem pe malul râului până la Bazilica Avesnières și revenim în orașul de sus prin Grădina La Perrine. Traseul combină monumentele istorice cu plimbări relaxante pe lângă apă.",
-        "en": "Laval is great to explore by bike. We start at the castle, ride downriver to the Avesnières Basilica, and return to the upper town via the Jardin de la Perrine. The route combines historic monuments with relaxed riding along the water."
+        "en": "Laval is great to explore by bike. We start at the castle, ride downriver to the Avesnières Basilica, and return to the upper town via the Jardin de la Perrine. The route combines historic monuments with relaxed riding along the water.",
+        "fr": "Laval se découvre très bien à vélo. Nous partons du château, longeons la rivière jusqu’à la basilique d’Avesnières, puis revenons en ville haute via le Jardin de la Perrine. L’itinéraire allie monuments historiques et balade tranquille au bord de l’eau."
       },
       "gastro_picks": {
         "de": [
@@ -580,6 +613,11 @@
           "Follow the 'Vélo Francette' route along the Mayenne.",
           "Be careful on the cobblestones in the old town.",
           "Laval has plenty of bike racks near the main sights."
+        ],
+        "fr": [
+          "Suivez la route 'Vélo Francette' le long de la Mayenne.",
+          "Faites attention aux pavés dans la vieille ville.",
+          "Laval dispose de nombreux arceaux à vélos près des principaux sites."
         ]
       }
     },
@@ -596,7 +634,8 @@
             "de": "Cluster A: Altes Schloss & Museum",
             "hu": "A klaszter: Régi vár és Múzeum",
             "ro": "Cluster A: Castelul Vechi și Muzeul",
-            "en": "Cluster A: Old Castle & Museum"
+            "en": "Cluster A: Old Castle & Museum",
+            "fr": "Zone A : Vieux Château & Musée"
           },
           "coords": [
             -0.7712,
@@ -611,7 +650,8 @@
             "de": "Parken Sie auf dem Place de la Trémoille.",
             "hu": "Parkoljon a Place de la Trémoille-on.",
             "ro": "Parcați în Place de la Trémoille.",
-            "en": "Park your car at Place de la Trémoille."
+            "en": "Park your car at Place de la Trémoille.",
+            "fr": "Garez votre voiture à la Place de la Trémoille."
           }
         },
         {
@@ -619,7 +659,8 @@
             "de": "Cluster A: Porte Beucheresse",
             "hu": "A klaszter: Porte Beucheresse",
             "ro": "Cluster A: Poarta Beucheresse",
-            "en": "Cluster A: Porte Beucheresse"
+            "en": "Cluster A: Porte Beucheresse",
+            "fr": "Zone A : Porte Beucheresse"
           },
           "coords": [
             -0.773,
@@ -634,7 +675,8 @@
             "de": "Zu Fuß vom Parkplatz aus erreichbar.",
             "hu": "Gyalogosan elérhető a parkolótól.",
             "ro": "Accesibil pe jos de la parcare.",
-            "en": "Accessible on foot from the parking lot."
+            "en": "Accessible on foot from the parking lot.",
+            "fr": "Accessible à pied depuis le parking."
           }
         },
         {
@@ -642,7 +684,8 @@
             "de": "Cluster B: Basilika Notre-Dame d'Avesnières",
             "hu": "B klaszter: Avesnières-i bazilika",
             "ro": "Cluster B: Bazilica Avesnières",
-            "en": "Cluster B: Avesnières Basilica"
+            "en": "Cluster B: Avesnières Basilica",
+            "fr": "Zone B : Basilique d’Avesnières"
           },
           "coords": [
             -0.7615,
@@ -657,7 +700,8 @@
             "de": "Parkplatz direkt vor der Basilika vorhanden.",
             "hu": "Parkoló közvetlenül a bazilika előtt.",
             "ro": "Parcare disponibilă chiar în fața bazilicii.",
-            "en": "Parking available right in front of the basilica."
+            "en": "Parking available right in front of the basilica.",
+            "fr": "Parking disponible juste devant la basilique."
           }
         },
         {
@@ -665,7 +709,8 @@
             "de": "Cluster C: Pont Vieux",
             "hu": "C klaszter: Öreg híd",
             "ro": "Cluster C: Podul Vechi",
-            "en": "Cluster C: Old Bridge"
+            "en": "Cluster C: Old Bridge",
+            "fr": "Zone C : Pont Vieux"
           },
           "coords": [
             -0.7685,
@@ -680,7 +725,8 @@
             "de": "Kurzer Stopp am Flussufer.",
             "hu": "Rövid megálló a folyóparton.",
             "ro": "Scurtă oprire pe malul râului.",
-            "en": "Short stop by the river."
+            "en": "Short stop by the river.",
+            "fr": "Court arrêt au bord de la rivière."
           }
         },
         {
@@ -688,7 +734,8 @@
             "de": "Cluster C: Bateau-lavoir Saint-Julien",
             "hu": "C klaszter: Saint-Julien mosóhajó",
             "ro": "Cluster C: Barca-spălătorie Saint-Julien",
-            "en": "Cluster C: Wash-house Boat"
+            "en": "Cluster C: Wash-house Boat",
+            "fr": "Zone C : Bateau-lavoir"
           },
           "coords": [
             -0.768,
@@ -703,7 +750,8 @@
             "de": "Ein Muss für Technikinteressierte.",
             "hu": "Műszaki érdeklődésűeknek kötelező látnivaló.",
             "ro": "O vizită obligatorie pentru cei interesați de tehnică.",
-            "en": "A must-see for those interested in industrial heritage."
+            "en": "A must-see for those interested in industrial heritage.",
+            "fr": "Incontournable pour les personnes intéressées par le patrimoine industriel."
           }
         },
         {
@@ -711,7 +759,8 @@
             "de": "Cluster D: Jardin de la Perrine",
             "hu": "D klaszter: Jardin de la Perrine",
             "ro": "Cluster D: Grădina La Perrine",
-            "en": "Cluster D: La Perrine Garden"
+            "en": "Cluster D: La Perrine Garden",
+            "fr": "Zone D : Jardin de la Perrine"
           },
           "coords": [
             -0.7735,
@@ -726,7 +775,8 @@
             "de": "Parken Sie in der Nähe des Eingangs am Quai d'Avesnières.",
             "hu": "Parkoljon a Quai d'Avesnières felőli bejárat közelében.",
             "ro": "Parcați lângă intrarea dinspre Quai d'Avesnières.",
-            "en": "Park near the entrance on Quai d'Avesnières."
+            "en": "Park near the entrance on Quai d'Avesnières.",
+            "fr": "Garez-vous près de l’entrée sur le Quai d'Avesnières."
           }
         }
       ],
@@ -734,7 +784,8 @@
         "de": "Diese Autotour kombiniert die historischen Viertel von Laval mit den südlichen Vororten. Durch das Clustern der Sehenswürdigkeiten sparen wir Zeit: Wir parken im Zentrum für das Schloss und die Altstadt, fahren dann kurz zur Basilika und zum Flussufer, bevor wir den Tag im botanischen Garten ausklingen lassen.",
         "hu": "Ez az autós túra Laval történelmi negyedeit ötvözi a déli városrésszel. A látnivalók csoportosításával időt spórolunk: a központban parkolunk a várhoz és az óvároshoz, majd rövid autózással érjük el a bazilikát és a folyópartot, a napot pedig a botanikus kertben zárjuk.",
         "ro": "Acest tur auto combină cartierele istorice din Laval cu suburbiile sudice. Grupând atracțiile, economisim timp: parcăm în centru pentru castel și orașul vechi, apoi conducem scurt spre bazilică și faleză, înainte de a încheia ziua în grădina botanică.",
-        "en": "This car tour combines Laval's historic districts with its southern suburbs. By clustering sights, we save time: park in the center for the castle and old town, then drive to the basilica and riverbank, before ending the day at the botanical garden."
+        "en": "This car tour combines Laval's historic districts with its southern suburbs. By clustering sights, we save time: park in the center for the castle and old town, then drive to the basilica and riverbank, before ending the day at the botanical garden.",
+        "fr": "Cette visite en voiture combine les quartiers historiques de Laval et sa périphérie sud. En regroupant les sites, on gagne du temps : garez-vous au centre pour le château et la vieille ville, puis prenez la voiture pour la basilique et la berge, avant de terminer la journée au jardin botanique."
       },
       "gastro_picks": {
         "de": [
@@ -838,6 +889,11 @@
           "Central parking lots fill up quickly on market days.",
           "Rue de la Paix offers good parking options.",
           "Use the 'Centre' or 'Gare' parking garages for longer stays."
+        ],
+        "fr": [
+          "Les parkings centraux se remplissent rapidement les jours de marché.",
+          "La rue de la Paix offre de bonnes options de stationnement.",
+          "Utilisez les parkings 'Centre' ou 'Gare' pour les longs séjours."
         ]
       }
     },
@@ -854,7 +910,8 @@
             "de": "Stadtzentrum: Vieux-Château",
             "hu": "Városközpont: Régi vár",
             "ro": "Centrul orașului: Castelul Vechi",
-            "en": "City Center: Old Castle"
+            "en": "City Center: Old Castle",
+            "fr": "Centre-ville : Vieux Château"
           },
           "coords": [
             -0.7712,
@@ -869,7 +926,8 @@
             "de": "Die Haltestelle 'Place de la Trémoille' liegt direkt daneben.",
             "hu": "A 'Place de la Trémoille' megálló közvetlenül mellette van.",
             "ro": "Stația 'Place de la Trémoille' este chiar lângă.",
-            "en": "The 'Place de la Trémoille' stop is right next to it."
+            "en": "The 'Place de la Trémoille' stop is right next to it.",
+            "fr": "L’arrêt 'Place de la Trémoille' se trouve juste à côté."
           }
         },
         {
@@ -877,7 +935,8 @@
             "de": "Kathedrale der Heiligen Dreifaltigkeit",
             "hu": "Szentháromság-székesegyház",
             "ro": "Catedrala Sfânta Treime",
-            "en": "Cathédrale de la Sainte-Trinité"
+            "en": "Cathédrale de la Sainte-Trinité",
+            "fr": "Cathédrale de la Sainte-Trinité"
           },
           "coords": [
             -0.7725,
@@ -892,7 +951,8 @@
             "de": "Ein kurzer Fußweg vom Schloss.",
             "hu": "Rövid séta a vártól.",
             "ro": "O scurtă plimbare de la castel.",
-            "en": "A short walk from the castle."
+            "en": "A short walk from the castle.",
+            "fr": "À quelques minutes à pied du château."
           }
         },
         {
@@ -900,7 +960,8 @@
             "de": "Jardin de la Perrine",
             "hu": "Jardin de la Perrine",
             "ro": "Grădina La Perrine",
-            "en": "Jardin de la Perrine"
+            "en": "Jardin de la Perrine",
+            "fr": "Jardin de la Perrine"
           },
           "coords": [
             -0.7735,
@@ -915,7 +976,8 @@
             "de": "Nehmen Sie den Bus der Linie A bis 'Perrine'.",
             "hu": "Szálljon fel az A jelű buszra a 'Perrine' megállóig.",
             "ro": "Luați autobuzul linia A până la stația 'Perrine'.",
-            "en": "Take bus line A to the 'Perrine' stop."
+            "en": "Take bus line A to the 'Perrine' stop.",
+            "fr": "Prenez la ligne de bus A jusqu’à l’arrêt 'Perrine'."
           }
         },
         {
@@ -923,7 +985,8 @@
             "de": "Pont Vieux & Mayenne-Ufer",
             "hu": "Öreg híd és Mayenne-part",
             "ro": "Podul Vechi și malul râului Mayenne",
-            "en": "Old Bridge & Riverbank"
+            "en": "Old Bridge & Riverbank",
+            "fr": "Vieux Pont & Berges"
           },
           "coords": [
             -0.7685,
@@ -938,7 +1001,8 @@
             "de": "Die Haltestelle 'Pont Vieux' bietet direkten Zugang zum Fluss.",
             "hu": "A 'Pont Vieux' megálló közvetlen kijáratot biztosít a folyóhoz.",
             "ro": "Stația 'Pont Vieux' oferă acces direct la râu.",
-            "en": "The 'Pont Vieux' stop provides direct access to the river."
+            "en": "The 'Pont Vieux' stop provides direct access to the river.",
+            "fr": "L’arrêt 'Pont Vieux' donne un accès direct à la rivière."
           }
         },
         {
@@ -946,7 +1010,8 @@
             "de": "Basilika Notre-Dame d'Avesnières",
             "hu": "Avesnières-i bazilika",
             "ro": "Bazilica Avesnières",
-            "en": "Avesnières Basilica"
+            "en": "Avesnières Basilica",
+            "fr": "Basilique d’Avesnières"
           },
           "coords": [
             -0.7615,
@@ -961,7 +1026,8 @@
             "de": "Die Linie B bringt Sie in den Süden der Stadt.",
             "hu": "A B jelű járat a város déli részére viszi.",
             "ro": "Linia B vă duce în partea de sud a orașului.",
-            "en": "Line B takes you to the southern part of the city."
+            "en": "Line B takes you to the southern part of the city.",
+            "fr": "La ligne B vous conduit dans la partie sud de la ville."
           }
         }
       ],
@@ -969,7 +1035,8 @@
         "de": "Mit dem TUL-Bussystem von Laval erreichen Sie bequem alle wichtigen Punkte. Wir starten in der Oberstadt am Schloss, fahren dann mit dem Bus zum Jardin de la Perrine und beenden den Tag bei der Basilika Avesnières. Ein Tag voller Geschichte, ganz ohne Stress durch die Parkplatzsuche.",
         "hu": "Laval TUL buszrendszerével kényelmesen elérhető minden fontos pont. A felsővárosban, a várnál kezdünk, majd busszal megyünk a Jardin de la Perrine-hez, végül az Avesnières bazilikánál zárjuk a napot. Történelemmel teli nap, parkolási gondok nélkül.",
         "ro": "Cu sistemul de autobuze TUL din Laval, puteți ajunge confortabil la toate punctele importante. Începem în orașul de sus, la castel, apoi mergem cu autobuzul la Grădina La Perrine și încheiem ziua la Bazilica Avesnières. O zi plină de istorie, fără stresul căutării unui loc de parcare.",
-        "en": "Laval's TUL bus system makes it easy to reach all major sites. We start in the upper town at the castle, then take a bus to the Jardin de la Perrine, and finish the day at the Avesnières Basilica. A history-filled day without the stress of finding parking."
+        "en": "Laval's TUL bus system makes it easy to reach all major sites. We start in the upper town at the castle, then take a bus to the Jardin de la Perrine, and finish the day at the Avesnières Basilica. A history-filled day without the stress of finding parking.",
+        "fr": "Le réseau TUL de Laval permet d’atteindre facilement tous les sites majeurs. Nous commençons en ville haute au château, prenons ensuite un bus pour le Jardin de la Perrine et finissons la journée à la basilique d’Avesnières. Une journée riche en histoire sans la contrainte du stationnement."
       },
       "gastro_picks": {
         "de": [
@@ -1073,6 +1140,11 @@
           "Download the 'TUL Laval' app for real-time schedules.",
           "Day passes are the best value, available on the bus or at vending machines.",
           "Most lines meet at the central 'Place de la Trémoille' stop."
+        ],
+        "fr": [
+          "Téléchargez l’application 'TUL Laval' pour les horaires en temps réel.",
+          "Les pass journée sont le meilleur rapport qualité-prix, disponibles à bord ou aux distributeurs.",
+          "La plupart des lignes se rejoignent à l’arrêt central 'Place de la Trémoille'."
         ]
       }
     }

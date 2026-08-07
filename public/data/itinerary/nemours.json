@@ -21,7 +21,8 @@
             "de": "Rathaus von Nemours",
             "hu": "Nemours Városháza",
             "ro": "Primăria din Nemours",
-            "en": "Mairie de Nemours"
+            "en": "Mairie de Nemours",
+            "fr": "Mairie de Nemours"
           },
           "coords": [
             2.693651,
@@ -36,7 +37,8 @@
             "de": "Bewundern Sie die elegante Architektur des Rathauses als historisches Wahrzeichen im Herzen von Nemours und machen Sie ein Foto, bevor Sie zu den nahegelegenen Sehenswürdigkeiten aufbrechen.",
             "hu": "Csodálja meg a városháza elegáns építészetét, amely történelmi nevezetességként szolgál Nemours szívében, és készítsen egy fotót, mielőtt a közeli látnivalók felé venné az irányt.",
             "ro": "Admirați arhitectura elegantă a primăriei, care servește drept reper istoric în inima orașului Nemours, și faceți o fotografie înainte de a vă îndrepta spre atracțiile din apropiere.",
-            "en": "Admire the elegant architecture of the town hall serving as a historical landmark in the heart of Nemours, and capture a photo before heading to the nearby sights."
+            "en": "Admire the elegant architecture of the town hall serving as a historical landmark in the heart of Nemours, and capture a photo before heading to the nearby sights.",
+            "fr": "Admirez l’élégante architecture de la mairie, symbole historique au cœur de Nemours, et prenez une photo avant de vous rendre aux sites voisins."
           }
         },
         {
@@ -44,7 +46,8 @@
             "de": "Kirche Saint-Jean-Baptiste",
             "hu": "Keresztelő Szent János Templom",
             "ro": "Biserica Saint-Jean-Baptiste",
-            "en": "Saint-Jean-Baptiste Church"
+            "en": "Saint-Jean-Baptiste Church",
+            "fr": "Église Saint-Jean-Baptiste"
           },
           "coords": [
             2.696743,
@@ -59,7 +62,8 @@
             "de": "Bestaunen Sie die wunderschönen Buntglasfenster und die friedliche Atmosphäre dieser historischen Kirche und nehmen Sie sich einen Moment Zeit, um in Ruhe zu sitzen, bevor Sie Ihre Tour fortsetzen.",
             "hu": "Csodálja meg ennek a történelmi templomnak a gyönyörű ólomüveg ablakait és békés hangulatát, és üljön le egy pillanatra csendben, mielőtt folytatná a túrát.",
             "ro": "Minunați-vă de vitraliile frumoase și de ambianța pașnică a acestei biserici istorice și luați-vă un moment pentru a sta în liniște înainte de a vă continua turul.",
-            "en": "Marvel at the beautiful stained glass windows and peaceful ambiance of this historic church, and take a moment to sit quietly before continuing your tour."
+            "en": "Marvel at the beautiful stained glass windows and peaceful ambiance of this historic church, and take a moment to sit quietly before continuing your tour.",
+            "fr": "Admirez les beaux vitraux et l’ambiance paisible de cette église historique, et prenez un moment pour vous asseoir avant de poursuivre votre visite."
           }
         },
         {
@@ -67,7 +71,8 @@
             "de": "Schloss von Nemours",
             "hu": "Nemours Kastély",
             "ro": "Castelul din Nemours",
-            "en": "Château de Nemours"
+            "en": "Château de Nemours",
+            "fr": "Château de Nemours"
           },
           "coords": [
             2.696944,
@@ -82,7 +87,8 @@
             "de": "Erkunden Sie die mittelalterliche Festung mit ihrem beeindruckenden Bergfried, der die Geschichte der Stadt erzählt, und prüfen Sie unbedingt den saisonalen Ausstellungsplan vor Ihrem Besuch.",
             "hu": "Fedezze fel a középkori erődöt és lenyűgöző öregtornyát, amely a város múltjáról mesél, és látogatás előtt mindenképpen ellenőrizze a szezonális kiállítások menetrendjét.",
             "ro": "Explorați fortăreața medievală cu turnul său impresionant care spune povestea trecutului orașului și asigurați-vă că verificați programul expozițiilor sezoniere înainte de vizită.",
-            "en": "Explore the medieval fortress with its impressive keep that tells the story of the town's past, and be sure to check the seasonal exhibition schedule before your visit."
+            "en": "Explore the medieval fortress with its impressive keep that tells the story of the town's past, and be sure to check the seasonal exhibition schedule before your visit.",
+            "fr": "Découvrez la forteresse médiévale avec son impressionnant donjon qui raconte l’histoire de la ville, et consultez le programme des expositions temporaires avant votre visite."
           }
         },
         {
@@ -90,7 +96,8 @@
             "de": "Wassermühle von Nemours",
             "hu": "Nemours Vízimalom",
             "ro": "Moara de apă din Nemours",
-            "en": "Nemours Watermill"
+            "en": "Nemours Watermill",
+            "fr": "Moulin à eau de Nemours"
           },
           "coords": [
             2.69768,
@@ -105,7 +112,8 @@
             "de": "Beobachten Sie die Mechanik dieser gut erhaltenen Wassermühle, die das industrielle Erbe der Region unterstreicht, und spazieren Sie am angrenzenden Flussufer entlang, um einige malerische Fotomotive zu finden.",
             "hu": "Figyelje meg ennek a jól megőrzött vízimalomnak a mechanikáját, amely a régió ipari örökségét emeli ki, és sétáljon végig a szomszédos folyóparton a festői fotózási lehetőségekért.",
             "ro": "Observați mecanica acestei mori de apă bine conservate, care evidențiază patrimoniul industrial al regiunii, și plimbați-vă de-a lungul malului adiacent al râului pentru a face fotografii pitorești.",
-            "en": "Observe the mechanics of this well-preserved watermill that highlights the region's industrial heritage, and walk along the adjacent riverbank for some scenic photo opportunities."
+            "en": "Observe the mechanics of this well-preserved watermill that highlights the region's industrial heritage, and walk along the adjacent riverbank for some scenic photo opportunities.",
+            "fr": "Observez le mécanisme de ce moulin à eau bien conservé qui met en valeur le patrimoine industriel de la région, puis promenez‑vous le long de la rivière voisine pour de belles photos."
           }
         },
         {
@@ -113,7 +121,8 @@
             "de": "Felsen von Nemours",
             "hu": "Nemours Szikla",
             "ro": "Stânca din Nemours",
-            "en": "Rocher de Nemours"
+            "en": "Rocher de Nemours",
+            "fr": "Rocher de Nemours"
           },
           "coords": [
             2.704267,
@@ -128,7 +137,8 @@
             "de": "Genießen Sie die natürliche Schönheit und die interessanten geologischen Formationen dieses felsigen Parks und tragen Sie bequeme Schuhe, um sicher auf den unebenen Wanderwegen zu navigieren.",
             "hu": "Élvezze ennek a sziklás parknak a természeti szépségét és érdekes geológiai képződményeit, és viseljen kényelmes cipőt, hogy biztonságosan navigálhasson az egyenetlen túraútvonalakon.",
             "ro": "Bucurați-vă de frumusețea naturală și de formațiunile geologice interesante ale acestui parc stâncos și purtați încălțăminte confortabilă pentru a naviga în siguranță pe potecile de drumeție inegale.",
-            "en": "Enjoy the natural beauty and interesting geological formations of this rocky park, and wear comfortable shoes to safely navigate the uneven hiking paths."
+            "en": "Enjoy the natural beauty and interesting geological formations of this rocky park, and wear comfortable shoes to safely navigate the uneven hiking paths.",
+            "fr": "Appréciez la beauté naturelle et les formations géologiques intéressantes de ce parc rocheux, et portez des chaussures confortables pour circuler en sécurité sur les sentiers irréguliers."
           }
         }
       ],
@@ -136,7 +146,8 @@
         "de": "Beginnen Sie Ihren Morgen an der Mairie, bevor Sie einen kurzen Spaziergang zur eleganten Kirche Saint-Jean-Baptiste machen. Gegen Mittag tauchen Sie in die reiche Geschichte des beeindruckenden Château de Nemours ein. Der Nachmittag wird mit der faszinierenden Industriemechanik der nahegelegenen Wassermühle fortgesetzt. Beenden Sie Ihren Abend mit der natürlichen Schönheit des Rocher de Nemours.",
         "hu": "Kezdje a reggelt a Mairie-nél, majd tegyen egy rövid sétát az elegáns Saint-Jean-Baptiste templomhoz. Délben elmerülhet a lenyűgöző Château de Nemours gazdag történelmében. A délután a közeli vízimalom lenyűgöző ipari mechanikájával folytatódik. Fejezze be az estét a Rocher de Nemours természeti szépségében gyönyörködve.",
         "ro": "Începeți dimineața la Mairie înainte de a face o scurtă plimbare până la eleganta Biserică Saint-Jean-Baptiste. Până la prânz, vă veți scufunda în istoria bogată a impresionantului Château de Nemours. După-amiaza continuă cu mecanica industrială fascinantă a morii de apă din apropiere. Încheiați-vă seara admirând frumusețea naturală a Rocher de Nemours.",
-        "en": "Begin your morning at the Mairie before taking a brief walk to the elegant Saint-Jean-Baptiste Church. By midday, you will immerse yourself in the rich history of the impressive Château de Nemours. The afternoon continues with the fascinating industrial mechanics of the nearby Watermill. End your evening taking in the natural beauty of the Rocher de Nemours."
+        "en": "Begin your morning at the Mairie before taking a brief walk to the elegant Saint-Jean-Baptiste Church. By midday, you will immerse yourself in the rich history of the impressive Château de Nemours. The afternoon continues with the fascinating industrial mechanics of the nearby Watermill. End your evening taking in the natural beauty of the Rocher de Nemours.",
+        "fr": "Commencez la matinée à la Mairie avant une courte promenade vers la belle église Saint-Jean-Baptiste. À midi, plongez dans l’histoire riche du château de Nemours. L’après‑midi se poursuit avec la mécanique industrielle fascinante du moulin. Terminez la soirée en contemplant la beauté naturelle du Rocher de Nemours."
       },
       "variants": {
         "rainy": {
@@ -144,7 +155,8 @@
             "de": "Beginnen Sie am Rathaus unter dem Schirm und suchen Sie Schutz in der großen Kirche. Verbringen Sie den Mittag in den Ausstellungen des Schlosses. Nachmittags beobachten Sie den Fluss an der Wassermühle und navigieren vorsichtig zu den nassen Felsen. Halten Sie Ihre Regenkleidung den ganzen Tag bereit.",
             "hu": "Induljon a városházától esernyővel, majd keressen menedéket a templomban. A delet a kastély fedett kiállításain töltse. Délután figyelje meg a megáradt folyót a vízimalomnál, majd óvatosan sétáljon a csúszós sziklákhoz. Vízálló felszerelése egész nap legyen kéznél!",
             "ro": "Începeți la primărie sub umbrelă, apoi căutați adăpost în biserică. Petreceți prânzul în expozițiile interioare ale castelului. După-amiaza, priviți râul umflat la moara de apă, apoi navigați cu grijă spre stâncile ude. Păstrați echipamentul impermeabil la îndemână toată ziua.",
-            "en": "Start at the town hall under an umbrella, then seek shelter in the grand church. Spend midday exploring the indoor castle exhibitions. In the afternoon, watch the swollen river by the watermill before carefully navigating the wet rocks. Keep your waterproof gear handy all day."
+            "en": "Start at the town hall under an umbrella, then seek shelter in the grand church. Spend midday exploring the indoor castle exhibitions. In the afternoon, watch the swollen river by the watermill before carefully navigating the wet rocks. Keep your waterproof gear handy all day.",
+            "fr": "Commencez à la mairie sous un parapluie, puis abritez‑vous dans la grande église. Passez la mi‑journée à explorer les expositions intérieures du château. L’après‑midi, observez la rivière gonflée près du moulin avant de franchir prudemment les rochers mouillés. Gardez vos équipements imperméables à portée de main toute la journée."
           },
           "stops": [
             {
@@ -152,13 +164,15 @@
                 "de": "Rathaus von Nemours",
                 "hu": "Nemours Városháza",
                 "ro": "Primăria din Nemours",
-                "en": "Mairie de Nemours"
+                "en": "Mairie de Nemours",
+                "fr": "Mairie de Nemours"
               },
               "tip_5lang": {
                 "de": "Bewundern Sie die Architektur kurz, bevor der Regen einsetzt, und halten Sie Ihren Regenschirm auf dem offenen Platz bereit.",
                 "hu": "Csodálja meg az építészetet az eső eleredése előtt, és tartsa kéznél az esernyőjét a nyitott téren.",
                 "ro": "Admirați scurt arhitectura înainte să înceapă ploaia, ținând umbrela la îndemână în piața deschisă.",
-                "en": "Admire the architecture briefly before the rain sets in, keeping your umbrella handy in the open square."
+                "en": "Admire the architecture briefly before the rain sets in, keeping your umbrella handy in the open square.",
+                "fr": "Admirez brièvement l’architecture avant l’arrivée de la pluie, en gardant votre parapluie à portée de main sur la place ouverte."
               }
             },
             {
@@ -166,13 +180,15 @@
                 "de": "Kirche Saint-Jean-Baptiste",
                 "hu": "Keresztelő Szent János Templom",
                 "ro": "Biserica Saint-Jean-Baptiste",
-                "en": "Saint-Jean-Baptiste Church"
+                "en": "Saint-Jean-Baptiste Church",
+                "fr": "Église Saint-Jean-Baptiste"
               },
               "tip_5lang": {
                 "de": "Suchen Sie drinnen Schutz, um die Buntglasfenster zu bestaunen – ein perfekter, trockener Zufluchtsort vor den Morgenschauern.",
                 "hu": "Keressen menedéket bent, hogy megcsodálja az ólomüveg ablakokat; tökéletes száraz menedék a reggeli záporok elől.",
                 "ro": "Adăpostiți-vă înăuntru pentru a admira vitraliile, un refugiu uscat perfect de aversele dimineții.",
-                "en": "Take shelter inside to marvel at the stained glass windows, a perfect dry refuge from the morning showers."
+                "en": "Take shelter inside to marvel at the stained glass windows, a perfect dry refuge from the morning showers.",
+                "fr": "Abritez‑vous à l’intérieur pour admirer les vitraux, un refuge sec parfait contre les averses matinales."
               }
             },
             {
@@ -180,13 +196,15 @@
                 "de": "Schloss von Nemours",
                 "hu": "Nemours Kastély",
                 "ro": "Castelul din Nemours",
-                "en": "Château de Nemours"
+                "en": "Château de Nemours",
+                "fr": "Château de Nemours"
               },
               "tip_5lang": {
                 "de": "Erkunden Sie die faszinierenden Innenausstellungen dieser historischen Festung, während draußen der Regen strömt.",
                 "hu": "Fedezze fel e történelmi erődítmény lenyűgöző beltéri kiállításait, miközben kint szakad az eső.",
                 "ro": "Explorați expozițiile interioare fascinante ale acestei fortărețe istorice, în timp ce ploaia cade afară.",
-                "en": "Explore the fascinating indoor exhibitions of this historic fortress while the rain pours outside."
+                "en": "Explore the fascinating indoor exhibitions of this historic fortress while the rain pours outside.",
+                "fr": "Explorez les expositions intérieures passionnantes de cette forteresse historique pendant que la pluie tombe dehors."
               }
             },
             {
@@ -194,13 +212,15 @@
                 "de": "Wassermühle von Nemours",
                 "hu": "Nemours Vízimalom",
                 "ro": "Moara de apă din Nemours",
-                "en": "Nemours Watermill"
+                "en": "Nemours Watermill",
+                "fr": "Moulin à eau de Nemours"
               },
               "tip_5lang": {
                 "de": "Beobachten Sie den dramatischen Flusslauf von einem sicheren, geschützten Ort aus, da der Regen dem Wasser Kraft verleiht.",
                 "hu": "Figyelje meg a drámai folyót egy biztonságos, védett helyről, ahogy az eső erőt ad a rohanó víznek.",
                 "ro": "Priviți debitul dramatic al râului dintr-un loc sigur și adăpostit, deoarece ploaia adaugă putere apei.",
-                "en": "Watch the dramatic river flow from a safe, sheltered spot, as the rain adds power to the rushing water."
+                "en": "Watch the dramatic river flow from a safe, sheltered spot, as the rain adds power to the rushing water.",
+                "fr": "Observez le cours dramatique de la rivière depuis un endroit sûr et abrité, la pluie accentuant la puissance des eaux."
               }
             },
             {
@@ -208,13 +228,15 @@
                 "de": "Felsen von Nemours",
                 "hu": "Nemours Szikla",
                 "ro": "Stânca din Nemours",
-                "en": "Rocher de Nemours"
+                "en": "Rocher de Nemours",
+                "fr": "Rocher de Nemours"
               },
               "tip_5lang": {
                 "de": "Betrachten Sie diese markanten Sandsteinformationen vorsichtig; tragen Sie rutschfeste Schuhe auf den nassen Waldwegen.",
                 "hu": "Óvatosan figyelje meg a homokkő képződményeket; viseljen csúszásmentes cipőt a nedves erdei ösvényeken.",
                 "ro": "Observați cu atenție aceste formațiuni de gresie; purtați încălțăminte rezistentă la alunecare pe traseele umede.",
-                "en": "Carefully observe these striking sandstone formations; wear sturdy, slip-resistant shoes on the wet woodland trails."
+                "en": "Carefully observe these striking sandstone formations; wear sturdy, slip-resistant shoes on the wet woodland trails.",
+                "fr": "Observez attentivement ces formations en grès frappantes ; portez des chaussures solides et antidérapantes sur les sentiers forestiers mouillés."
               }
             }
           ]
@@ -224,7 +246,8 @@
             "de": "Beginnen Sie einen klaren Wintermorgen am Rathaus und in der Kirche. Wärmen Sie sich mittags im majestätischen Schloss auf. Besuchen Sie nachmittags die malerische Wassermühle. Beenden Sie den Tag mit einem Spaziergang zu den Felsen, bevor der frühe Sonnenuntergang um 17 Uhr Schatten wirft.",
             "hu": "Kezdje a csípős téli reggelt a városházánál és a templomnál. Melegedjen fel a fenséges kastélyban a hideg déli órákban. Délután látogassa meg a festői vízimalmot. Zárja a napot egy élénk sétával a sziklákhoz a korai, 17:00 órás naplemente előtt.",
             "ro": "Începeți o dimineață geroasă de iarnă la primărie și la biserică. Încălziți-vă în castelul maiestuos la prânz. Vizitați moara de apă pitorească după-amiaza. Terminați cu o plimbare spre stânci înainte ca apusul timpuriu din jurul orei 17:00 să lase umbre lungi.",
-            "en": "Begin a crisp winter morning at the historic town hall and peaceful church. Warm up inside the majestic castle during the chilly midday hours. As the afternoon cools, visit the picturesque watermill. Finish with a brisk walk to the rocks before the early sunset around 5 PM casts long shadows."
+            "en": "Begin a crisp winter morning at the historic town hall and peaceful church. Warm up inside the majestic castle during the chilly midday hours. As the afternoon cools, visit the picturesque watermill. Finish with a brisk walk to the rocks before the early sunset around 5 PM casts long shadows.",
+            "fr": "Commencez une matinée hivernale fraîche à la mairie historique et à l’église paisible. Réchauffez‑vous à l’intérieur du majestueux château pendant les heures froides de midi. L’après‑midi, visitez le moulin pittoresque. Terminez par une promenade vive vers les rochers avant que le coucher de soleil précoce vers 17 h n’allonge les ombres."
           },
           "stops": [
             {
@@ -232,13 +255,15 @@
                 "de": "Rathaus von Nemours",
                 "hu": "Nemours Városháza",
                 "ro": "Primăria din Nemours",
-                "en": "Mairie de Nemours"
+                "en": "Mairie de Nemours",
+                "fr": "Mairie de Nemours"
               },
               "tip_5lang": {
                 "de": "Tragen Sie warme Kleidung für diesen kühlen Start und fotografieren Sie die frostige Fassade des historischen Rathauses.",
                 "hu": "Viseljen meleg ruházatot ehhez a fagyos reggeli induláshoz, és fotózza le a történelmi városháza deres homlokzatát.",
                 "ro": "Purtați haine groase pentru acest început răcoros, fotografiind fațada înghețată a primăriei istorice.",
-                "en": "Bundle up for this chilly morning start, taking a quick photo of the historic town hall's frost-covered facade."
+                "en": "Bundle up for this chilly morning start, taking a quick photo of the historic town hall's frost-covered facade.",
+                "fr": "Couvrez‑vous pour ce départ matinal glacial, en prenant rapidement une photo de la façade givrée de la mairie."
               }
             },
             {
@@ -246,13 +271,15 @@
                 "de": "Kirche Saint-Jean-Baptiste",
                 "hu": "Keresztelő Szent János Templom",
                 "ro": "Biserica Saint-Jean-Baptiste",
-                "en": "Saint-Jean-Baptiste Church"
+                "en": "Saint-Jean-Baptiste Church",
+                "fr": "Église Saint-Jean-Baptiste"
               },
               "tip_5lang": {
                 "de": "Entfliehen Sie kurz der beißenden Kälte und bewundern Sie das gedämpfte Winterlicht im Kirchenschiff.",
                 "hu": "Meneküljön be a csípős hideg elől a templomba, és csodálja meg a tompa téli fényeket a hajóban.",
                 "ro": "Scăpați scurt de frigul mușcător în biserică, admirând lumina estompată a iernii prin vitralii.",
-                "en": "Briefly escape the biting cold inside this serene church, admiring the muted winter light through the glass."
+                "en": "Briefly escape the biting cold inside this serene church, admiring the muted winter light through the glass.",
+                "fr": "Échappez brièvement au froid mordant à l’intérieur de cette église sereine, en admirant la lumière hivernale atténuée à travers les vitraux."
               }
             },
             {
@@ -260,13 +287,15 @@
                 "de": "Schloss von Nemours",
                 "hu": "Nemours Kastély",
                 "ro": "Castelul din Nemours",
-                "en": "Château de Nemours"
+                "en": "Château de Nemours",
+                "fr": "Château de Nemours"
               },
               "tip_5lang": {
                 "de": "Wärmen Sie sich innerhalb der robusten mittelalterlichen Mauern auf und erkunden Sie die reichhaltige lokale Geschichte.",
                 "hu": "Melegedjen fel a robusztus középkori falak között, és fedezze fel a gazdag helyi történelmet a fűtött termekben.",
                 "ro": "Încălziți-vă în interiorul zidurilor medievale robuste, explorând istoria locală bogată.",
-                "en": "Warm up inside the robust medieval walls, exploring the rich local heritage in the cozy indoor exhibits."
+                "en": "Warm up inside the robust medieval walls, exploring the rich local heritage in the cozy indoor exhibits.",
+                "fr": "Réchauffez‑vous à l’intérieur des robustes murs médiévaux, en explorant le riche patrimoine local dans les expositions intérieures confortables."
               }
             },
             {
@@ -274,13 +303,15 @@
                 "de": "Wassermühle von Nemours",
                 "hu": "Nemours Vízimalom",
                 "ro": "Moara de apă din Nemours",
-                "en": "Nemours Watermill"
+                "en": "Nemours Watermill",
+                "fr": "Moulin à eau de Nemours"
               },
               "tip_5lang": {
                 "de": "Genießen Sie die eisige Schönheit des Flusses; wickeln Sie sich gegen die Brise am Wasser in einen dicken Schal.",
                 "hu": "Élvezze a folyó jeges szépségét; burkolózzon vastag sálba a vízparti szél ellen.",
                 "ro": "Bucurați-vă de frumusețea înghețată a râului; înfășurați-vă într-un fular gros împotriva brizei apei.",
-                "en": "Enjoy the icy beauty of the river; bundle up with a thick scarf against the chilly waterside breeze."
+                "en": "Enjoy the icy beauty of the river; bundle up with a thick scarf against the chilly waterside breeze.",
+                "fr": "Appréciez la beauté glacée de la rivière ; couvrez‑vous d’une grosse écharpe contre la brise froide du bord de l’eau."
               }
             },
             {
@@ -288,13 +319,15 @@
                 "de": "Felsen von Nemours",
                 "hu": "Nemours Szikla",
                 "ro": "Stânca din Nemours",
-                "en": "Rocher de Nemours"
+                "en": "Rocher de Nemours",
+                "fr": "Rocher de Nemours"
               },
               "tip_5lang": {
                 "de": "Wandern Sie frühzeitig, um das winterliche Licht zu nutzen, und kehren Sie vor Einbruch der Dunkelheit um 17 Uhr zurück.",
                 "hu": "Érkezzen időben, hogy kihasználja a téli fényeket, és térjen vissza az erdei utakról a 17:00 órás sötétedés előtt.",
                 "ro": "Ajungeți devreme pentru a profita de lumina iernii, întorcându-vă din pădure înainte de lăsarea întunericului la ora 17:00.",
-                "en": "Hike early to make the most of the crisp winter light, returning from the forest trails before dusk falls around 5 PM."
+                "en": "Hike early to make the most of the crisp winter light, returning from the forest trails before dusk falls around 5 PM.",
+                "fr": "Randonnez tôt pour profiter de la lumière hivernale vive, et revenez des sentiers forestiers avant la tombée du jour vers 17 h."
               }
             }
           ]
@@ -314,7 +347,8 @@
             "de": "Rathaus von Nemours",
             "hu": "Nemours Városháza",
             "ro": "Primăria din Nemours",
-            "en": "Mairie de Nemours"
+            "en": "Mairie de Nemours",
+            "fr": "Mairie de Nemours"
           },
           "coords": [
             2.693651,
@@ -329,7 +363,8 @@
             "de": "Bewundern Sie die elegante Architektur des Rathauses als historisches Wahrzeichen im Herzen von Nemours und machen Sie ein Foto, bevor Sie zu den nahegelegenen Sehenswürdigkeiten aufbrechen.",
             "hu": "Csodálja meg a városháza elegáns építészetét, amely történelmi nevezetességként szolgál Nemours szívében, és készítsen egy fotót, mielőtt a közeli látnivalók felé venné az irányt.",
             "ro": "Admirați arhitectura elegantă a primăriei, care servește drept reper istoric în inima orașului Nemours, și faceți o fotografie înainte de a vă îndrepta spre atracțiile din apropiere.",
-            "en": "Admire the elegant architecture of the town hall serving as a historical landmark in the heart of Nemours, and capture a photo before heading to the nearby sights."
+            "en": "Admire the elegant architecture of the town hall serving as a historical landmark in the heart of Nemours, and capture a photo before heading to the nearby sights.",
+            "fr": "Admirez l’élégante architecture de la mairie, symbole historique au cœur de Nemours, et prenez une photo avant de vous rendre aux sites voisins."
           }
         },
         {
@@ -337,7 +372,8 @@
             "de": "Kirche Saint-Jean-Baptiste",
             "hu": "Keresztelő Szent János Templom",
             "ro": "Biserica Saint-Jean-Baptiste",
-            "en": "Saint-Jean-Baptiste Church"
+            "en": "Saint-Jean-Baptiste Church",
+            "fr": "Église Saint-Jean-Baptiste"
           },
           "coords": [
             2.696743,
@@ -352,7 +388,8 @@
             "de": "Bestaunen Sie die wunderschönen Buntglasfenster und die friedliche Atmosphäre dieser historischen Kirche und nehmen Sie sich einen Moment Zeit, um in Ruhe zu sitzen, bevor Sie Ihre Tour fortsetzen.",
             "hu": "Csodálja meg ennek a történelmi templomnak a gyönyörű ólomüveg ablakait és békés hangulatát, és üljön le egy pillanatra csendben, mielőtt folytatná a túrát.",
             "ro": "Minunați-vă de vitraliile frumoase și de ambianța pașnică a acestei biserici istorice și luați-vă un moment pentru a sta în liniște înainte de a vă continua turul.",
-            "en": "Marvel at the beautiful stained glass windows and peaceful ambiance of this historic church, and take a moment to sit quietly before continuing your tour."
+            "en": "Marvel at the beautiful stained glass windows and peaceful ambiance of this historic church, and take a moment to sit quietly before continuing your tour.",
+            "fr": "Admirez les beaux vitraux et l’ambiance paisible de cette église historique, et prenez un moment pour vous asseoir avant de poursuivre votre visite."
           }
         },
         {
@@ -360,7 +397,8 @@
             "de": "Schloss von Nemours",
             "hu": "Nemours Kastély",
             "ro": "Castelul din Nemours",
-            "en": "Château de Nemours"
+            "en": "Château de Nemours",
+            "fr": "Château de Nemours"
           },
           "coords": [
             2.696944,
@@ -375,7 +413,8 @@
             "de": "Erkunden Sie die mittelalterliche Festung mit ihrem beeindruckenden Bergfried, der die Geschichte der Stadt erzählt, und prüfen Sie unbedingt den saisonalen Ausstellungsplan vor Ihrem Besuch.",
             "hu": "Fedezze fel a középkori erődöt és lenyűgöző öregtornyát, amely a város múltjáról mesél, és látogatás előtt mindenképpen ellenőrizze a szezonális kiállítások menetrendjét.",
             "ro": "Explorați fortăreața medievală cu turnul său impresionant care spune povestea trecutului orașului și asigurați-vă că verificați programul expozițiilor sezoniere înainte de vizită.",
-            "en": "Explore the medieval fortress with its impressive keep that tells the story of the town's past, and be sure to check the seasonal exhibition schedule before your visit."
+            "en": "Explore the medieval fortress with its impressive keep that tells the story of the town's past, and be sure to check the seasonal exhibition schedule before your visit.",
+            "fr": "Découvrez la forteresse médiévale avec son impressionnant donjon qui raconte l’histoire de la ville, et consultez le programme des expositions temporaires avant votre visite."
           }
         },
         {
@@ -383,7 +422,8 @@
             "de": "Felsen von Nemours",
             "hu": "Nemours Szikla",
             "ro": "Stânca din Nemours",
-            "en": "Rocher de Nemours"
+            "en": "Rocher de Nemours",
+            "fr": "Rocher de Nemours"
           },
           "coords": [
             2.704267,
@@ -398,7 +438,8 @@
             "de": "Genießen Sie die natürliche Schönheit und die interessanten geologischen Formationen dieses felsigen Parks und tragen Sie bequeme Schuhe, um sicher auf den unebenen Wanderwegen zu navigieren.",
             "hu": "Élvezze ennek a sziklás parknak a természeti szépségét és érdekes geológiai képződményeit, és viseljen kényelmes cipőt, hogy biztonságosan navigálhasson az egyenetlen túraútvonalakon.",
             "ro": "Bucurați-vă de frumusețea naturală și de formațiunile geologice interesante ale acestui parc stâncos și purtați încălțăminte confortabilă pentru a naviga în siguranță pe potecile de drumeție inegale.",
-            "en": "Enjoy the natural beauty and interesting geological formations of this rocky park, and wear comfortable shoes to safely navigate the uneven hiking paths."
+            "en": "Enjoy the natural beauty and interesting geological formations of this rocky park, and wear comfortable shoes to safely navigate the uneven hiking paths.",
+            "fr": "Appréciez la beauté naturelle et les formations géologiques intéressantes de ce parc rocheux, et portez des chaussures confortables pour circuler en sécurité sur les sentiers irréguliers."
           }
         },
         {
@@ -406,7 +447,8 @@
             "de": "Prähistorisches Museum der Île de France",
             "hu": "Île-de-France Őstörténeti Múzeuma",
             "ro": "Muzeul de Preistorie din Île-de-France",
-            "en": "Prehistory Museum of Île de France"
+            "en": "Prehistory Museum of Île de France",
+            "fr": "Musée de la Préhistoire d’Île‑de‑France"
           },
           "coords": [
             2.713538,
@@ -421,7 +463,8 @@
             "de": "Entdecken Sie faszinierende prähistorische Artefakte aus der Region, die das frühe menschliche Leben veranschaulichen, und nutzen Sie den hervorragenden Audioguide, um die Exponate vollständig zu verstehen.",
             "hu": "Fedezze fel a régióban feltárt lenyűgöző őskori leleteket, amelyek bemutatják a korai emberi életet, és használja a kiváló audioguide-ot a kiállítási tárgyak teljes megértéséhez.",
             "ro": "Descoperiți artefacte preistorice fascinante dezgropate în regiune, care prezintă viața umană timpurie, și folosiți ghidul audio excelent pentru a înțelege pe deplin exponatele.",
-            "en": "Discover fascinating prehistoric artifacts unearthed in the region that showcase early human life, and make use of the excellent audio guide to fully understand the exhibits."
+            "en": "Discover fascinating prehistoric artifacts unearthed in the region that showcase early human life, and make use of the excellent audio guide to fully understand the exhibits.",
+            "fr": "Découvrez des objets préhistoriques fascinants mis au jour dans la région qui illustrent la vie humaine ancienne, et profitez du excellent audioguide pour bien comprendre les collections."
           }
         },
         {
@@ -429,7 +472,8 @@
             "de": "Kirche Saint-Pierre-Saint-Paul",
             "hu": "Szent Péter és Pál Templom",
             "ro": "Biserica Sfinții Petru și Pavel",
-            "en": "Saint-Pierre-Saint-Paul Church"
+            "en": "Saint-Pierre-Saint-Paul Church",
+            "fr": "Église Saint-Pierre-Saint-Paul"
           },
           "coords": [
             2.691039,
@@ -444,7 +488,8 @@
             "de": "Schätzen Sie die komplizierten architektonischen Details dieses weniger bekannten religiösen Denkmals abseits der Massen und denken Sie daran, die ruhige Atmosphäre während der lokalen Gebetszeiten zu respektieren.",
             "hu": "Értékelje ennek a kevésbé ismert vallási emlékműnek a bonyolult építészeti részleteit távol a tömegtől, és ne felejtse el tiszteletben tartani a csendes légkört a helyi imaidők alatt.",
             "ro": "Apreciați detaliile arhitecturale complexe ale acestui monument religios mai puțin cunoscut, departe de aglomerație, și amintiți-vă să respectați atmosfera liniștită în timpul orelor de rugăciune locale.",
-            "en": "Appreciate the intricate architectural details of this lesser-known religious monument away from the crowds, and remember to respect the quiet atmosphere during local prayer times."
+            "en": "Appreciate the intricate architectural details of this lesser-known religious monument away from the crowds, and remember to respect the quiet atmosphere during local prayer times.",
+            "fr": "Appréciez les détails architecturaux complexes de ce monument religieux moins connu, à l’écart de la foule, et pensez à respecter le calme pendant les heures de prière locales."
           }
         }
       ],
@@ -452,7 +497,8 @@
         "de": "Ihre Radtour beginnt an der zentralen Mairie und führt zur wunderschönen Kirche Saint-Jean-Baptiste. Die Mittagszeit führt Sie durch die mittelalterliche Geschichte des markanten Château de Nemours, gefolgt von einer aktiven Fahrt zum Rocher. Verbringen Sie den späten Nachmittag damit, antike Geheimnisse im Prähistorischen Museum zu lüften. Beenden Sie Ihren Tag mit einem ruhigen Besuch der Église Saint-Pierre-Saint-Paul.",
         "hu": "A kerékpártúra a központi Mairie-től indul, és a gyönyörű Saint-Jean-Baptiste templomhoz vezet. A délben a középkori történelmen halad keresztül a lenyűgöző Château de Nemours-ban, majd egy aktív tekerés következik a Rocher-hoz. A késő délutánt a Múzeumban töltse, feltárva az ősi titkokat. Zárja aktív napját egy békés látogatással az Église Saint-Pierre-Saint-Paul-ban.",
         "ro": "Turul dvs. cu bicicleta începe de la Mairie, ducând la frumoasa Biserică Saint-Jean-Baptiste. Prânzul vă poartă prin istoria medievală la impresionantul Château de Nemours, urmat de o plimbare activă spre Rocher. Petreceți după-amiaza târzie descoperind secrete străvechi la Muzeul de Preistorie. Încheiați ziua activă cu o vizită pașnică la Église Saint-Pierre-Saint-Paul.",
-        "en": "Your cycling tour starts at the central Mairie, leading to the beautiful Saint-Jean-Baptiste Church. The midday takes you through medieval history at the striking Château de Nemours, followed by an active ride to the Rocher. Spend the late afternoon unearthing ancient secrets at the Prehistory Museum. Conclude your active day with a peaceful visit to the Église Saint-Pierre-Saint-Paul."
+        "en": "Your cycling tour starts at the central Mairie, leading to the beautiful Saint-Jean-Baptiste Church. The midday takes you through medieval history at the striking Château de Nemours, followed by an active ride to the Rocher. Spend the late afternoon unearthing ancient secrets at the Prehistory Museum. Conclude your active day with a peaceful visit to the Église Saint-Pierre-Saint-Paul.",
+        "fr": "Votre circuit à vélo commence à la Mairie centrale, puis mène à la belle église Saint-Jean-Baptiste. La mi‑journée vous plonge dans l’histoire médiévale au château de Nemours, suivie d’une sortie active vers le Rocher. Passez la fin d’après‑midi à découvrir des secrets anciens au Musée de la Préhistoire. Concluez votre journée active par une visite paisible de l’église Saint-Pierre‑Saint‑Paul."
       },
       "variants": {
         "rainy": {
@@ -460,7 +506,8 @@
             "de": "Radeln Sie vorsichtig am Rathaus vorbei zur Kirche und tragen Sie wetterfeste Kleidung. Fahren Sie zum Schloss für eine Pause drinnen. Navigieren Sie vorsichtig zu den Felsen und trocknen Sie sich im Museum. Beenden Sie Ihre feuchte Fahrt an der Kirche Saint-Pierre-Saint-Paul.",
             "hu": "Óvatosan tekerjen a városháza mellett a templomig, vízálló ruházatban. Menjen a kastélyba egy beltéri pihenőre. Figyeljen a vizes erdei utakon a sziklák felé, majd száradjon meg a múzeumban. Zárja a nedves, de élménydús utat a Szent Péter és Pál templomnál.",
             "ro": "Pedalați cu grijă pe lângă primărie spre biserică, purtând haine impermeabile. Mergeți la castel pentru o pauză înăuntru. Navigați prudent spre stânci, apoi uscați-vă la muzeu. Încheiați plimbarea umedă la biserica Sfinții Petru și Pavel.",
-            "en": "Pedal carefully past the town hall to the church, wearing high-vis waterproofs. Ride to the castle for an indoor break. Cautiously navigate the wet paths to the rocks, then dry off in the Prehistory Museum. Conclude your damp but rewarding ride at the church of Saint-Pierre-Saint-Paul."
+            "en": "Pedal carefully past the town hall to the church, wearing high-vis waterproofs. Ride to the castle for an indoor break. Cautiously navigate the wet paths to the rocks, then dry off in the Prehistory Museum. Conclude your damp but rewarding ride at the church of Saint-Pierre-Saint-Paul.",
+            "fr": "Pédalez prudemment devant la mairie jusqu’à l’église, en portant des vêtements de pluie haute visibilité. Rejoignez le château pour une pause intérieure. Franchissez avec précaution les sentiers humides jusqu’aux rochers, puis séchez‑vous au Musée de la Préhistoire. Concluez votre balade humide mais gratifiante à l’église Saint‑Pierre‑Saint‑Paul."
           },
           "stops": [
             {
@@ -468,13 +515,15 @@
                 "de": "Rathaus von Nemours",
                 "hu": "Nemours Városháza",
                 "ro": "Primăria din Nemours",
-                "en": "Mairie de Nemours"
+                "en": "Mairie de Nemours",
+                "fr": "Mairie de Nemours"
               },
               "tip_5lang": {
                 "de": "Überprüfen Sie Ihre Bremsen bei nassem Wetter, bevor Sie an diesem historischen Gebäude vorbeifahren.",
                 "hu": "Ellenőrizze a fékeket a nedves időben, mielőtt eltekerne e történelmi épület mellett.",
                 "ro": "Verificați frânele bicicletei pe vreme umedă înainte de a trece pe lângă această clădire istorică.",
-                "en": "Check your bike brakes in the wet weather before starting your ride past this historic building."
+                "en": "Check your bike brakes in the wet weather before starting your ride past this historic building.",
+                "fr": "Vérifiez les freins de votre vélo par temps humide avant de partir devant ce bâtiment historique."
               }
             },
             {
@@ -482,13 +531,15 @@
                 "de": "Kirche Saint-Jean-Baptiste",
                 "hu": "Keresztelő Szent János Templom",
                 "ro": "Biserica Saint-Jean-Baptiste",
-                "en": "Saint-Jean-Baptiste Church"
+                "en": "Saint-Jean-Baptiste Church",
+                "fr": "Église Saint-Jean-Baptiste"
               },
               "tip_5lang": {
                 "de": "Parken Sie Ihr Rad und treten Sie aus dem Regen, um das ruhige Innere zu bewundern.",
                 "hu": "Parkolja le a biciklit, és lépjen be az eső elől, hogy megcsodálja a békés belső teret.",
                 "ro": "Parcați bicicleta și ieșiți din ploaie pentru a admira interiorul frumos și liniștit.",
-                "en": "Park your bike and step out of the rain to admire the beautiful, quiet interior of this sanctuary."
+                "en": "Park your bike and step out of the rain to admire the beautiful, quiet interior of this sanctuary.",
+                "fr": "Garez votre vélo et abritez‑vous de la pluie pour admirer l’intérieur calme et beau de ce sanctuaire."
               }
             },
             {
@@ -496,13 +547,15 @@
                 "de": "Schloss von Nemours",
                 "hu": "Nemours Kastély",
                 "ro": "Castelul din Nemours",
-                "en": "Château de Nemours"
+                "en": "Château de Nemours",
+                "fr": "Château de Nemours"
               },
               "tip_5lang": {
                 "de": "Schließen Sie das Rad an und genießen Sie die trockenen Innenausstellungen der Festung.",
                 "hu": "Zárja le a kerékpárt, és élvezze az erődítmény száraz kiállításait, amíg eláll az eső.",
                 "ro": "Legați bicicleta și bucurați-vă de expozițiile uscate din fortăreața medievală.",
-                "en": "Lock up your bike and enjoy the dry, indoor exhibits of the medieval fortress while the rain passes."
+                "en": "Lock up your bike and enjoy the dry, indoor exhibits of the medieval fortress while the rain passes.",
+                "fr": "Accrochez votre vélo et profitez des expositions intérieures sèches de la forteresse médiévale pendant que la pluie passe."
               }
             },
             {
@@ -510,13 +563,15 @@
                 "de": "Felsen von Nemours",
                 "hu": "Nemours Szikla",
                 "ro": "Stânca din Nemours",
-                "en": "Rocher de Nemours"
+                "en": "Rocher de Nemours",
+                "fr": "Rocher de Nemours"
               },
               "tip_5lang": {
                 "de": "Fahren Sie äußerst vorsichtig auf den rutschigen Waldwegen zu diesen beeindruckenden Felsblöcken.",
                 "hu": "Fokozott óvatossággal tekerjen a csúszós erdei utakon e lenyűgöző homokkő tömbökhöz.",
                 "ro": "Mergeți cu prudență pe potecile de pădure alunecoase pentru a vedea acești bolovani impresionanți.",
-                "en": "Ride with extreme caution on the slippery woodland paths to see these impressive sandstone boulders."
+                "en": "Ride with extreme caution on the slippery woodland paths to see these impressive sandstone boulders.",
+                "fr": "Roulez avec une extrême prudence sur les sentiers forestiers glissants pour voir ces imposants blocs de grès."
               }
             },
             {
@@ -524,13 +579,15 @@
                 "de": "Prähistorisches Museum der Île de France",
                 "hu": "Île-de-France Őstörténeti Múzeuma",
                 "ro": "Muzeul de Preistorie din Île-de-France",
-                "en": "Prehistory Museum of Île de France"
+                "en": "Prehistory Museum of Île de France",
+                "fr": "Musée de la Préhistoire d’Île‑de‑France"
               },
               "tip_5lang": {
                 "de": "Ein toller Zufluchtsort; verbringen Sie Stunden mit antiken Artefakten, während Ihre Ausrüstung trocknet.",
                 "hu": "Fantasztikus beltéri menedék; töltsön órákat az ősi leletekkel, amíg kerékpáros felszerelése megszárad.",
                 "ro": "Un refugiu fantastic; petreceți ore explorând artefacte antice în timp ce echipamentul se usucă.",
-                "en": "A fantastic indoor refuge; spend hours exploring ancient artifacts while your cycling gear dries out."
+                "en": "A fantastic indoor refuge; spend hours exploring ancient artifacts while your cycling gear dries out.",
+                "fr": "Un formidable refuge intérieur ; passez des heures à explorer des artefacts anciens pendant que votre équipement de cyclisme sèche."
               }
             },
             {
@@ -538,13 +595,15 @@
                 "de": "Kirche Saint-Pierre-Saint-Paul",
                 "hu": "Szent Péter és Pál Templom",
                 "ro": "Biserica Sfinții Petru și Pavel",
-                "en": "Saint-Pierre-Saint-Paul Church"
+                "en": "Saint-Pierre-Saint-Paul Church",
+                "fr": "Église Saint-Pierre-Saint-Paul"
               },
               "tip_5lang": {
                 "de": "Beenden Sie Ihre Fahrt hier; steigen Sie auf dem rutschigen Kopfsteinpflaster vorsichtig ab.",
                 "hu": "Fejezze be itt a vizes utat; óvatosan szálljon le a kerékpárról a csúszós macskaköveken.",
                 "ro": "Încheiați cursa aici; coborâți cu grijă pe pietrele cubice alunecoase pentru a vedea fațada.",
-                "en": "End your wet ride here; carefully dismount on the slippery cobblestones to view the historical facade."
+                "en": "End your wet ride here; carefully dismount on the slippery cobblestones to view the historical facade.",
+                "fr": "Terminez votre balade mouillée ici ; descendez prudemment sur les pavés glissants pour admirer la façade historique."
               }
             }
           ]
@@ -554,7 +613,8 @@
             "de": "Ziehen Sie sich warm an für eine kühle Fahrt, beginnend am Rathaus und der Kirche. Radeln Sie flott zum Schloss, um sich aufzuwärmen. Nach einer kalten Fahrt zu den Felsen tauen Sie im Museum auf. Enden Sie vor dem frühen Sonnenuntergang an der Kirche Saint-Pierre-Saint-Paul.",
             "hu": "Öltözzön rétegesen a hűvös útra a városházától. Tekerjen gyorsan a kastélyhoz, hogy felmelegedjen a vastag falak között. A sziklákhoz vezető fagyos út után olvadjon fel a múzeumban. Fejezze be az utat a templomnál a korai, délután 5 órás naplemente előtt.",
             "ro": "Îmbrăcați-vă gros pentru o cursă rece, începând la primărie și biserică. Pedalați spre castel pentru a vă încălzi înăuntru. După o cursă rece spre stânci, dezghețați-vă la muzeu. Terminați la biserica Sfinții Petru și Pavel înainte de apusul de la ora 17:00.",
-            "en": "Layer up for a chilly ride starting at the town hall and local church. Cycle briskly to the castle to warm up inside its thick walls. After a cold ride to the rocks, thaw out at the fascinating Prehistory Museum. End at the historic Saint-Pierre-Saint-Paul church before the early 5 PM sunset."
+            "en": "Layer up for a chilly ride starting at the town hall and local church. Cycle briskly to the castle to warm up inside its thick walls. After a cold ride to the rocks, thaw out at the fascinating Prehistory Museum. End at the historic Saint-Pierre-Saint-Paul church before the early 5 PM sunset.",
+            "fr": "Superposez les couches pour une balade fraîche commençant à la mairie et à l’église locale. Pédalez vigoureusement jusqu’au château pour vous réchauffer à l’intérieur de ses murs épais. Après une route froide vers les rochers, réchauffez‑vous au passionnant Musée de la Préhistoire. Terminez à l’église historique Saint‑Pierre‑Saint‑Paul avant le coucher de soleil précoce à 17 h."
           },
           "stops": [
             {
@@ -562,13 +622,15 @@
                 "de": "Rathaus von Nemours",
                 "hu": "Nemours Városháza",
                 "ro": "Primăria din Nemours",
-                "en": "Mairie de Nemours"
+                "en": "Mairie de Nemours",
+                "fr": "Mairie de Nemours"
               },
               "tip_5lang": {
                 "de": "Tragen Sie Thermohandschuhe für diesen kühlen Start und fotografieren Sie den frostigen Platz.",
                 "hu": "Viseljen termo kesztyűt a fagyos reggeli induláshoz, és fotózza le a deres teret a nyeregben ülve.",
                 "ro": "Purtați mănuși termice pentru acest început răcoros, fotografiind piața acoperită de brumă.",
-                "en": "Wear thermal gloves for this chilly morning start, taking a quick photo of the frost-covered square."
+                "en": "Wear thermal gloves for this chilly morning start, taking a quick photo of the frost-covered square.",
+                "fr": "Portez des gants thermiques pour ce départ matinal froid, et faites rapidement une photo de la place givrée."
               }
             },
             {
@@ -576,13 +638,15 @@
                 "de": "Kirche Saint-Jean-Baptiste",
                 "hu": "Keresztelő Szent János Templom",
                 "ro": "Biserica Saint-Jean-Baptiste",
-                "en": "Saint-Jean-Baptiste Church"
+                "en": "Saint-Jean-Baptiste Church",
+                "fr": "Église Saint-Jean-Baptiste"
               },
               "tip_5lang": {
                 "de": "Entfliehen Sie kurz der Kälte auf dem Rad und bewundern Sie das gedämpfte Winterlicht im Inneren.",
                 "hu": "Pihenjen meg a hideg tekerés közben, és csodálja meg a tompa téli fényeket a békés belső térben.",
                 "ro": "Luați o pauză de la frigul pedalatului și admirați lumina estompată a iernii în interior.",
-                "en": "Briefly escape the biking chill inside this serene church, admiring the muted winter light through the glass."
+                "en": "Briefly escape the biking chill inside this serene church, admiring the muted winter light through the glass.",
+                "fr": "Échappez brièvement au froid du vélo à l’intérieur de cette église sereine, en admirant la lumière hivernale atténuée à travers les vitraux."
               }
             },
             {
@@ -590,13 +654,15 @@
                 "de": "Schloss von Nemours",
                 "hu": "Nemours Kastély",
                 "ro": "Castelul din Nemours",
-                "en": "Château de Nemours"
+                "en": "Château de Nemours",
+                "fr": "Château de Nemours"
               },
               "tip_5lang": {
                 "de": "Lassen Sie Ihr Fahrrad stehen und wärmen Sie sich innerhalb der robusten mittelalterlichen Mauern auf.",
                 "hu": "Hagyja kint a kerékpárt, és melegedjen fel a robusztus középkori falak között, a benti tárlatokon.",
                 "ro": "Lăsați bicicleta și încălziți-vă în interiorul zidurilor medievale robuste.",
-                "en": "Leave your bike and warm up inside the robust medieval walls, exploring the rich local heritage."
+                "en": "Leave your bike and warm up inside the robust medieval walls, exploring the rich local heritage.",
+                "fr": "Laissez votre vélo et réchauffez‑vous à l’intérieur des robustes murailles médiévales, en explorant le riche patrimoine local."
               }
             },
             {
@@ -604,13 +670,15 @@
                 "de": "Felsen von Nemours",
                 "hu": "Nemours Szikla",
                 "ro": "Stânca din Nemours",
-                "en": "Rocher de Nemours"
+                "en": "Rocher de Nemours",
+                "fr": "Rocher de Nemours"
               },
               "tip_5lang": {
                 "de": "Radeln Sie flott zu den Felsen; kahle Winterbäume bieten freie Sicht auf die Steine.",
                 "hu": "Tekerjen fürgén a sziklákhoz; a kopasz téli fák akadálytalan kilátást nyújtanak a képződményekre.",
                 "ro": "Pedalați vioi spre aceste stânci; copacii goi de iarnă oferă vederi neobstrucționate.",
-                "en": "Cycle briskly to these rocks; the bare winter trees offer unobstructed, striking views of the boulders."
+                "en": "Cycle briskly to these rocks; the bare winter trees offer unobstructed, striking views of the boulders.",
+                "fr": "Pédalez rapidement jusqu’à ces rochers ; les arbres d’hiver dépouillés offrent des vues dégagées et saisissantes des blocs."
               }
             },
             {
@@ -618,13 +686,15 @@
                 "de": "Prähistorisches Museum der Île de France",
                 "hu": "Île-de-France Őstörténeti Múzeuma",
                 "ro": "Muzeul de Preistorie din Île-de-France",
-                "en": "Prehistory Museum of Île de France"
+                "en": "Prehistory Museum of Île de France",
+                "fr": "Musée de la Préhistoire d’Île‑de‑France"
               },
               "tip_5lang": {
                 "de": "Tauen Sie in diesem beheizten Museum auf und nehmen Sie sich Zeit für die antiken Entdeckungen.",
                 "hu": "Olvadjon fel az épületben, és szánjon időt az ősi regionális felfedezésekre a fűtött termekben.",
                 "ro": "Dezghețați-vă în acest muzeu încălzit, luându-vă timp printre descoperirile antice.",
-                "en": "Thaw out in this heated, immersive museum, taking your time among the ancient regional discoveries."
+                "en": "Thaw out in this heated, immersive museum, taking your time among the ancient regional discoveries.",
+                "fr": "Réchauffez‑vous dans ce musée chauffé et immersif, en prenant votre temps parmi les découvertes anciennes de la région."
               }
             },
             {
@@ -632,13 +702,15 @@
                 "de": "Kirche Saint-Pierre-Saint-Paul",
                 "hu": "Szent Péter és Pál Templom",
                 "ro": "Biserica Sfinții Petru și Pavel",
-                "en": "Saint-Pierre-Saint-Paul Church"
+                "en": "Saint-Pierre-Saint-Paul Church",
+                "fr": "Église Saint-Pierre-Saint-Paul"
               },
               "tip_5lang": {
                 "de": "Kommen Sie vor 17 Uhr an, um die beleuchtete Kirche vor dem dunklen Winterhimmel zu sehen.",
                 "hu": "Érkezzen 17:00 előtt, hogy lássa a kivilágított templomot a sötétedő téli égbolt előtt.",
                 "ro": "Ajungeți înainte de ora 17:00 pentru a vedea biserica iluminată pe cerul de iarnă ce se întunecă.",
-                "en": "Arrive before 5 PM to see the church beautifully illuminated against the darkening, crisp winter sky."
+                "en": "Arrive before 5 PM to see the church beautifully illuminated against the darkening, crisp winter sky.",
+                "fr": "Arrivez avant 17 h pour voir l’église magnifiquement illuminée contre le ciel hivernal qui s’assombrit."
               }
             }
           ]
@@ -658,7 +730,8 @@
             "de": "Kirche Saint-Jean-Baptiste",
             "hu": "Keresztelő Szent János Templom",
             "ro": "Biserica Saint-Jean-Baptiste",
-            "en": "Saint-Jean-Baptiste Church"
+            "en": "Saint-Jean-Baptiste Church",
+            "fr": "Église Saint-Jean-Baptiste"
           },
           "coords": [
             2.696743,
@@ -673,7 +746,8 @@
             "de": "Bestaunen Sie die wunderschönen Buntglasfenster und die friedliche Atmosphäre dieser historischen Kirche und nehmen Sie sich einen Moment Zeit, um in Ruhe zu sitzen, bevor Sie Ihre Tour fortsetzen.",
             "hu": "Csodálja meg ennek a történelmi templomnak a gyönyörű ólomüveg ablakait és békés hangulatát, és üljön le egy pillanatra csendben, mielőtt folytatná a túrát.",
             "ro": "Minunați-vă de vitraliile frumoase și de ambianța pașnică a acestei biserici istorice și luați-vă un moment pentru a sta în liniște înainte de a vă continua turul.",
-            "en": "Marvel at the beautiful stained glass windows and peaceful ambiance of this historic church, and take a moment to sit quietly before continuing your tour."
+            "en": "Marvel at the beautiful stained glass windows and peaceful ambiance of this historic church, and take a moment to sit quietly before continuing your tour.",
+            "fr": "Admirez les beaux vitraux et l’ambiance paisible de cette église historique, et prenez un moment pour vous asseoir avant de poursuivre votre visite."
           }
         },
         {
@@ -681,7 +755,8 @@
             "de": "Schloss von Nemours",
             "hu": "Nemours Kastély",
             "ro": "Castelul din Nemours",
-            "en": "Château de Nemours"
+            "en": "Château de Nemours",
+            "fr": "Château de Nemours"
           },
           "coords": [
             2.696944,
@@ -696,7 +771,8 @@
             "de": "Erkunden Sie die mittelalterliche Festung mit ihrem beeindruckenden Bergfried, der die Geschichte der Stadt erzählt, und prüfen Sie unbedingt den saisonalen Ausstellungsplan vor Ihrem Besuch.",
             "hu": "Fedezze fel a középkori erődöt és lenyűgöző öregtornyát, amely a város múltjáról mesél, és látogatás előtt mindenképpen ellenőrizze a szezonális kiállítások menetrendjét.",
             "ro": "Explorați fortăreața medievală cu turnul său impresionant care spune povestea trecutului orașului și asigurați-vă că verificați programul expozițiilor sezoniere înainte de vizită.",
-            "en": "Explore the medieval fortress with its impressive keep that tells the story of the town's past, and be sure to check the seasonal exhibition schedule before your visit."
+            "en": "Explore the medieval fortress with its impressive keep that tells the story of the town's past, and be sure to check the seasonal exhibition schedule before your visit.",
+            "fr": "Explorez la forteresse médiévale avec son imposant donjon qui raconte l'histoire de la ville, et pensez à consulter le programme des expositions temporaires avant votre visite."
           }
         },
         {
@@ -704,7 +780,8 @@
             "de": "Prähistorisches Museum der Île de France",
             "hu": "Île-de-France Őstörténeti Múzeuma",
             "ro": "Muzeul de Preistorie din Île-de-France",
-            "en": "Prehistory Museum of Île de France"
+            "en": "Prehistory Museum of Île de France",
+            "fr": "Musée de la Préhistoire de l'Île-de-France"
           },
           "coords": [
             2.713538,
@@ -719,7 +796,8 @@
             "de": "Entdecken Sie faszinierende prähistorische Artefakte aus der Region, die das frühe menschliche Leben veranschaulichen, und nutzen Sie den hervorragenden Audioguide, um die Exponate vollständig zu verstehen.",
             "hu": "Fedezze fel a régióban feltárt lenyűgöző őskori leleteket, amelyek bemutatják a korai emberi életet, és használja a kiváló audioguide-ot a kiállítási tárgyak teljes megértéséhez.",
             "ro": "Descoperiți artefacte preistorice fascinante dezgropate în regiune, care prezintă viața umană timpurie, și folosiți ghidul audio excelent pentru a înțelege pe deplin exponatele.",
-            "en": "Discover fascinating prehistoric artifacts unearthed in the region that showcase early human life, and make use of the excellent audio guide to fully understand the exhibits."
+            "en": "Discover fascinating prehistoric artifacts unearthed in the region that showcase early human life, and make use of the excellent audio guide to fully understand the exhibits.",
+            "fr": "Découvrez des objets préhistoriques fascinants mis au jour dans la région qui illustrent la vie des premiers hommes, et profitez de l'excellent audioguide pour mieux comprendre les collections."
           }
         },
         {
@@ -727,7 +805,8 @@
             "de": "Kirche Saint-Pierre-Saint-Paul",
             "hu": "Szent Péter és Pál Templom",
             "ro": "Biserica Sfinții Petru și Pavel",
-            "en": "Saint-Pierre-Saint-Paul Church"
+            "en": "Saint-Pierre-Saint-Paul Church",
+            "fr": "Église Saint-Pierre-Saint-Paul"
           },
           "coords": [
             2.691039,
@@ -742,7 +821,8 @@
             "de": "Schätzen Sie die komplizierten architektonischen Details dieses weniger bekannten religiösen Denkmals abseits der Massen und denken Sie daran, die ruhige Atmosphäre während der lokalen Gebetszeiten zu respektieren.",
             "hu": "Értékelje ennek a kevésbé ismert vallási emlékműnek a bonyolult építészeti részleteit távol a tömegtől, és ne felejtse el tiszteletben tartani a csendes légkört a helyi imaidők alatt.",
             "ro": "Apreciați detaliile arhitecturale complexe ale acestui monument religios mai puțin cunoscut, departe de aglomerație, și amintiți-vă să respectați atmosfera liniștită în timpul orelor de rugăciune locale.",
-            "en": "Appreciate the intricate architectural details of this lesser-known religious monument away from the crowds, and remember to respect the quiet atmosphere during local prayer times."
+            "en": "Appreciate the intricate architectural details of this lesser-known religious monument away from the crowds, and remember to respect the quiet atmosphere during local prayer times.",
+            "fr": "Appréciez les détails architecturaux élaborés de ce monument religieux moins connu, à l'écart de la foule, et pensez à respecter le calme pendant les heures de prière locales."
           }
         },
         {
@@ -750,7 +830,8 @@
             "de": "Kirche von Fromonville",
             "hu": "Fromonville Temploma",
             "ro": "Biserica din Fromonville",
-            "en": "Church of Fromonville"
+            "en": "Church of Fromonville",
+            "fr": "Église de Fromonville"
           },
           "coords": [
             2.696795,
@@ -765,7 +846,8 @@
             "de": "Besuchen Sie diese charmante historische Kirche etwas außerhalb des Hauptzentrums für ein ruhiges Erlebnis und verbinden Sie Ihren Ausflug mit einer entspannten Fahrt durch die umliegende Landschaft.",
             "hu": "Látogasson el ebbe a bájos, a központtól kissé távolabb eső történelmi templomba egy nyugodt élményért, és kösse össze útját egy pihentető autózással a környező vidéken.",
             "ro": "Vizitați această fermecătoare biserică istorică situată puțin în afara centrului principal pentru o experiență senină și combinați-vă călătoria cu o plimbare relaxantă prin mediul rural înconjurător.",
-            "en": "Visit this charming historic church located slightly outside the main center for a serene experience, and combine your trip with a relaxing drive through the surrounding countryside."
+            "en": "Visit this charming historic church located slightly outside the main center for a serene experience, and combine your trip with a relaxing drive through the surrounding countryside.",
+            "fr": "Visitez cette charmante église historique située un peu en dehors du centre pour une expérience sereine, et combinez votre sortie avec une agréable balade en voiture à travers la campagne environnante."
           }
         }
       ],
@@ -773,7 +855,8 @@
         "de": "Beginnen Sie Ihre malerische Fahrt an der Kirche Saint-Jean-Baptiste, bevor Sie für den Rest des Vormittags zum großen Château de Nemours hinüberfahren. Am Nachmittag fahren Sie etwas hinaus, um das faszinierende Prähistorische Museum der Île de France zu erkunden. Weiter geht es zur ruhigen Eleganz der Église Saint-Pierre-Saint-Paul. Schließen Sie den Tag mit einem ruhigen Halt in der ländlichen Église de Fromonville ab.",
         "hu": "Kezdje a festői autózást a Saint-Jean-Baptiste templomnál, majd ugorjon át a nagyszerű Château de Nemours-ba a délelőtt hátralévő részében. Délután vezessen egy kicsit kijjebb, hogy felfedezze az Île de France lenyűgöző Őstörténeti Múzeumát. Folytassa útját az Église Saint-Pierre-Saint-Paul csendes eleganciájához. Zárja a napot egy nyugodt megállóval a vidéki Église de Fromonville-nél.",
         "ro": "Începeți plimbarea pitorească la Biserica Saint-Jean-Baptiste înainte de a merge la marele Château de Nemours pentru restul dimineții. După-amiaza, veți conduce puțin mai departe pentru a explora fascinantul Muzeu de Preistorie din Île de France. Continuați spre eleganța liniștită a Église Saint-Pierre-Saint-Paul. Încheiați ziua cu o oprire senină la Église de Fromonville.",
-        "en": "Start your scenic drive at the Saint-Jean-Baptiste Church before hopping over to the grand Château de Nemours for the rest of the morning. In the afternoon, you will drive slightly out to explore the fascinating Museum of Prehistory of Île de France. Continue to the quiet elegance of the Église Saint-Pierre-Saint-Paul. Wrap up the day with a serene stop at the rural Église de Fromonville."
+        "en": "Start your scenic drive at the Saint-Jean-Baptiste Church before hopping over to the grand Château de Nemours for the rest of the morning. In the afternoon, you will drive slightly out to explore the fascinating Museum of Prehistory of Île de France. Continue to the quiet elegance of the Église Saint-Pierre-Saint-Paul. Wrap up the day with a serene stop at the rural Église de Fromonville.",
+        "fr": "Commencez votre route panoramique à l'église Saint-Jean-Baptiste avant de rejoindre le grand Château de Nemours pour le reste de la matinée. L'après-midi, vous prendrez la route vers le fascinant Musée de la Préhistoire de l'Île-de-France. Poursuivez vers la calme élégance de l'Église Saint-Pierre-Saint-Paul. Terminez la journée par une halte sereine à l'église rurale de Fromonville."
       },
       "variants": {
         "rainy": {
@@ -781,7 +864,8 @@
             "de": "Fahren Sie durch regennasse Straßen, beginnend an der großen Kirche. Parken Sie nahe dem Schloss für einen trockenen Besuch. Fahren Sie sicher zum Museum für einen immersiven Nachmittag. Beenden Sie Ihre Tour bei den beiden historischen Kirchen und halten Sie den Schirm bereit.",
             "hu": "Vezessen a nedves utcákon a templomtól indulva. Parkoljon a kastély közelében egy száraz déli látogatáshoz. Vezessen biztonságosan az őstörténeti múzeumhoz egy benti délutánért. Zárja a túrát a két történelmi templomnál, esernyőjét mindig kéznél tartva.",
             "ro": "Conduceți pe străzile ude, începând la biserică. Parcați lângă castel pentru o vizită uscată la prânz. Conduceți în siguranță spre muzeu pentru o după-amiază la interior. Încheiați turul vizitând cele două biserici istorice, ținând umbrela pregătită.",
-            "en": "Drive through the rain-slicked streets, starting at the grand church. Park near the castle for a dry, educational midday visit. Drive safely to the Prehistory Museum for an immersive indoor afternoon. Conclude your tour by visiting the two historic churches, keeping your umbrella ready."
+            "en": "Drive through the rain-slicked streets, starting at the grand church. Park near the castle for a dry, educational midday visit. Drive safely to the Prehistory Museum for an immersive indoor afternoon. Conclude your tour by visiting the two historic churches, keeping your umbrella ready.",
+            "fr": "Roulez dans les rues glissantes de pluie, en partant de la grande église. Garez-vous près du château pour une visite pédagogique au sec à midi. Reprenez la route en toute sécurité vers le Musée de la Préhistoire pour un après-midi immersif en intérieur. Concluez votre circuit en visitant les deux églises historiques, en ayant votre parapluie à portée de main."
           },
           "stops": [
             {
@@ -789,13 +873,15 @@
                 "de": "Kirche Saint-Jean-Baptiste",
                 "hu": "Keresztelő Szent János Templom",
                 "ro": "Biserica Saint-Jean-Baptiste",
-                "en": "Saint-Jean-Baptiste Church"
+                "en": "Saint-Jean-Baptiste Church",
+                "fr": "Église Saint-Jean-Baptiste"
               },
               "tip_5lang": {
                 "de": "Halten Sie den Schirm griffbereit, um das trockene, friedliche Kirchenschiff zu bewundern.",
                 "hu": "Tartsa közel az esernyőt, amikor kiszáll a kocsiból, hogy megcsodálja az épület békés, száraz hajóját.",
                 "ro": "Țineți umbrela aproape când coborâți pentru a admira nava pașnică a acestei clădiri.",
-                "en": "Keep your umbrella close as you step from the car to admire the dry, peaceful nave of this building."
+                "en": "Keep your umbrella close as you step from the car to admire the dry, peaceful nave of this building.",
+                "fr": "Gardez votre parapluie à portée de main en sortant de la voiture pour admirer la nef sèche et paisible de ce bâtiment."
               }
             },
             {
@@ -803,13 +889,15 @@
                 "de": "Schloss von Nemours",
                 "hu": "Nemours Kastély",
                 "ro": "Castelul din Nemours",
-                "en": "Château de Nemours"
+                "en": "Château de Nemours",
+                "fr": "Château de Nemours"
               },
               "tip_5lang": {
                 "de": "Parken Sie in der Nähe und eilen Sie hinein, um die Ausstellungen geschützt zu erkunden.",
                 "hu": "Parkoljon a közelben, és siessen be a zápor elől védett kastély történelmi kiállításaira.",
                 "ro": "Parcați aproape și grăbiți-vă înăuntru pentru a explora expozițiile ferite de ploaie.",
-                "en": "Park nearby and dash inside to explore the fascinating castle exhibits, perfectly sheltered from the downpour."
+                "en": "Park nearby and dash inside to explore the fascinating castle exhibits, perfectly sheltered from the downpour.",
+                "fr": "Garez-vous à proximité et précipitez-vous à l'intérieur pour explorer les expositions du château, parfaitement abritées de l'averse."
               }
             },
             {
@@ -817,13 +905,15 @@
                 "de": "Prähistorisches Museum der Île de France",
                 "hu": "Île-de-France Őstörténeti Múzeuma",
                 "ro": "Muzeul de Preistorie din Île-de-France",
-                "en": "Prehistory Museum of Île de France"
+                "en": "Prehistory Museum of Île de France",
+                "fr": "Musée de la Préhistoire de l'Île-de-France"
               },
               "tip_5lang": {
                 "de": "Fahren Sie sicher zu diesem fantastischen Museum, einem tollen Rückzugsort an Regentagen.",
                 "hu": "Vezessen óvatosan ehhez a fantasztikus beltéri múzeumhoz, amely tökéletes esős napi program.",
                 "ro": "Conduceți în siguranță la acest muzeu fantastic, o retragere perfectă pentru zilele ploioase.",
-                "en": "Drive safely to this fantastic indoor museum, a superb rainy-day retreat filled with ancient artifacts."
+                "en": "Drive safely to this fantastic indoor museum, a superb rainy-day retreat filled with ancient artifacts.",
+                "fr": "Rejoignez en voiture ce superbe musée intérieur, un refuge idéal par temps de pluie rempli d'objets anciens."
               }
             },
             {
@@ -831,13 +921,15 @@
                 "de": "Kirche Saint-Pierre-Saint-Paul",
                 "hu": "Szent Péter és Pál Templom",
                 "ro": "Biserica Sfinții Petru și Pavel",
-                "en": "Saint-Pierre-Saint-Paul Church"
+                "en": "Saint-Pierre-Saint-Paul Church",
+                "fr": "Église Saint-Pierre-Saint-Paul"
               },
               "tip_5lang": {
                 "de": "Parken Sie vorsichtig auf nassen Straßen und treten Sie schnell ein, um die Architektur zu würdigen.",
                 "hu": "Parkoljon óvatosan a vizes utcákon, és lépjen be gyorsan, hogy értékelje az építészetet az eső elől védve.",
                 "ro": "Parcați cu atenție pe străzile ude și intrați rapid pentru a aprecia arhitectura istorică.",
-                "en": "Park carefully on the wet streets and quickly step inside to appreciate the historic architecture in the dry."
+                "en": "Park carefully on the wet streets and quickly step inside to appreciate the historic architecture in the dry.",
+                "fr": "Garez-vous prudemment sur les rues mouillées et entrez rapidement pour admirer l'architecture historique à l'abri de l'humidité."
               }
             },
             {
@@ -845,13 +937,15 @@
                 "de": "Kirche von Fromonville",
                 "hu": "Fromonville Temploma",
                 "ro": "Biserica din Fromonville",
-                "en": "Church of Fromonville"
+                "en": "Church of Fromonville",
+                "fr": "Église de Fromonville"
               },
               "tip_5lang": {
                 "de": "Beenden Sie Ihre regnerische Fahrt hier; die Kirche bietet ein trockenes, ruhiges Heiligtum.",
                 "hu": "Zárja itt az esős autózást; a templom csendes, száraz menedéket nyújt a szürke idő elől.",
                 "ro": "Încheiați cursa ploioasă aici; biserica oferă un sanctuar uscat departe de vremea gri.",
-                "en": "Conclude your rainy drive here; the church offers a quiet, dry sanctuary away from the grey weather."
+                "en": "Conclude your rainy drive here; the church offers a quiet, dry sanctuary away from the grey weather.",
+                "fr": "Terminez votre promenade pluvieuse ici ; l'église offre un sanctuaire calme et sec à l'écart du ciel gris."
               }
             }
           ]
@@ -861,7 +955,8 @@
             "de": "Genießen Sie eine gemütliche Fahrt, beginnend an der Kirche. Erkunden Sie mittags die Ausstellungen des Schlosses. Fahren Sie zum Museum, um warm zu bleiben und Geschichte zu entdecken. Beenden Sie die Fahrt an den Kirchen, wenn gegen 17 Uhr die Winternacht hereinbricht.",
             "hu": "Élvezze a fűtött autózást, a helyi templom meglátogatásával kezdve. Fedezze fel a kastélyt a hideg délben. Vezessen a múzeumhoz, hogy melegben maradva ismerje meg az őstörténetet. Zárja a napot a történelmi templomoknál a korai, délután 5 órás sötétedés előtt.",
             "ro": "Bucurați-vă de o plimbare încălzită cu mașina, începând la biserică. Explorați castelul la prânzul rece. Conduceți la muzeu pentru a sta la căldură descoperind istoria. Terminați la bisericile istorice pe măsură ce noaptea de iarnă se lasă în jurul orei 17:00.",
-            "en": "Enjoy a cozy, heated drive starting with a visit to the local church. Explore the castle's indoor exhibits during the cold midday. Drive to the Prehistory Museum to stay warm while discovering ancient history. Finish your road trip at the historic churches as the early winter night sets in around 5 PM."
+            "en": "Enjoy a cozy, heated drive starting with a visit to the local church. Explore the castle's indoor exhibits during the cold midday. Drive to the Prehistory Museum to stay warm while discovering ancient history. Finish your road trip at the historic churches as the early winter night sets in around 5 PM.",
+            "fr": "Profitez d'une agréable route chauffée en commençant par une visite de l'église locale. Explorez les expositions intérieures du château pendant le froid de la mi-journée. Rejoignez le Musée de la Préhistoire pour rester au chaud tout en découvrant l'histoire ancienne. Finissez votre road trip aux églises historiques alors que la nuit d'hiver tombe vers 17h."
           },
           "stops": [
             {
@@ -869,13 +964,15 @@
                 "de": "Kirche Saint-Jean-Baptiste",
                 "hu": "Keresztelő Szent János Templom",
                 "ro": "Biserica Saint-Jean-Baptiste",
-                "en": "Saint-Jean-Baptiste Church"
+                "en": "Saint-Jean-Baptiste Church",
+                "fr": "Église Saint-Jean-Baptiste"
               },
               "tip_5lang": {
                 "de": "Verlassen Sie das beheizte Auto, um die klare Morgenluft vor der ruhigen Kirche zu erleben.",
                 "hu": "Hagyja el a fűtött autót a csípős reggeli levegőért, mielőtt belépne a csendes szentélybe.",
                 "ro": "Părăsiți mașina încălzită pentru aerul proaspăt înainte de a intra în acest sanctuar liniștit.",
-                "en": "Leave the heated car to experience the crisp morning air before entering this quiet, historic sanctuary."
+                "en": "Leave the heated car to experience the crisp morning air before entering this quiet, historic sanctuary.",
+                "fr": "Quittez la voiture chauffée pour ressentir l'air frais du matin avant d'entrer dans ce sanctuaire historique et tranquille."
               }
             },
             {
@@ -883,13 +980,15 @@
                 "de": "Schloss von Nemours",
                 "hu": "Nemours Kastély",
                 "ro": "Castelul din Nemours",
-                "en": "Château de Nemours"
+                "en": "Château de Nemours",
+                "fr": "Château de Nemours"
               },
               "tip_5lang": {
                 "de": "Betreten Sie die robuste Festung, ein toller Ort, um dem beißenden Winterwind zu entkommen.",
                 "hu": "Lépjen be a robusztus erődbe, amely nagyszerű hely a fagyos téli szél elől menekülve.",
                 "ro": "Pășiți în fortăreața robustă, un loc minunat de explorat scăpând de vântul tăios de iarnă.",
-                "en": "Step into the sturdy medieval fortress, a great place to explore while escaping the biting winter wind."
+                "en": "Step into the sturdy medieval fortress, a great place to explore while escaping the biting winter wind.",
+                "fr": "Pénétrez dans la robuste forteresse médiévale, un excellent endroit à explorer pour échapper au vent hivernal mordant."
               }
             },
             {
@@ -897,13 +996,15 @@
                 "de": "Prähistorisches Museum der Île de France",
                 "hu": "Île-de-France Őstörténeti Múzeuma",
                 "ro": "Muzeul de Preistorie din Île-de-France",
-                "en": "Prehistory Museum of Île de France"
+                "en": "Prehistory Museum of Île de France",
+                "fr": "Musée de la Préhistoire de l'Île-de-France"
               },
               "tip_5lang": {
                 "de": "Parken Sie und besuchen Sie diese gut beheizte Einrichtung für einen gemütlichen Nachmittag.",
                 "hu": "Parkoljon le, és töltsön egy hangulatos délutánt a jól fűtött épületben, az őstörténetről tanulva.",
                 "ro": "Parcați și intrați în această clădire încălzită pentru o după-amiază confortabilă de istorie.",
-                "en": "Park and head inside this well-heated facility to spend a cozy afternoon learning about prehistory."
+                "en": "Park and head inside this well-heated facility to spend a cozy afternoon learning about prehistory.",
+                "fr": "Garez-vous et entrez dans ce bâtiment bien chauffé pour passer un après-midi douillet à apprendre sur la préhistoire."
               }
             },
             {
@@ -911,13 +1012,15 @@
                 "de": "Kirche Saint-Pierre-Saint-Paul",
                 "hu": "Szent Péter és Pál Templom",
                 "ro": "Biserica Sfinții Petru și Pavel",
-                "en": "Saint-Pierre-Saint-Paul Church"
+                "en": "Saint-Pierre-Saint-Paul Church",
+                "fr": "Église Saint-Pierre-Saint-Paul"
               },
               "tip_5lang": {
                 "de": "Machen Sie einen kurzen Spaziergang vom Auto, um die Kirche im späten Nachmittagslicht zu sehen.",
                 "hu": "Tegyen egy rövid, élénk sétát az autótól, és csodálja meg a templomot a halványuló délutáni fényben.",
                 "ro": "Faceți o scurtă plimbare vioaie de la mașină pentru a admira biserica la apus.",
-                "en": "Take a short, brisk walk from your car to admire the church as the late afternoon light fades."
+                "en": "Take a short, brisk walk from your car to admire the church as the late afternoon light fades.",
+                "fr": "Faites une courte promenade vivifiante depuis votre voiture pour admirer l'église alors que la lumière de la fin d'après-midi s'estompe."
               }
             },
             {
@@ -925,13 +1028,15 @@
                 "de": "Kirche von Fromonville",
                 "hu": "Fromonville Temploma",
                 "ro": "Biserica din Fromonville",
-                "en": "Church of Fromonville"
+                "en": "Church of Fromonville",
+                "fr": "Église de Fromonville"
               },
               "tip_5lang": {
                 "de": "Kommen Sie vor Sonnenuntergang um 17 Uhr an, um die Kirche in der dämmerigen Winterlandschaft zu sehen.",
                 "hu": "Érkezzen naplemente (17:00) előtt, hogy lássa a templom lágy fényét a téli alkonyatban.",
                 "ro": "Ajungeți înainte de apusul de la 17:00 pentru a vedea biserica strălucind în peisajul de iarnă.",
-                "en": "Arrive before sunset at 5 PM to see this peaceful church softly glowing in the dusky winter landscape."
+                "en": "Arrive before sunset at 5 PM to see this peaceful church softly glowing in the dusky winter landscape.",
+                "fr": "Arrivez avant le coucher du soleil à 17h pour voir cette paisible église s'illuminer doucement dans le crépuscule hivernal."
               }
             }
           ]

@@ -21,7 +21,8 @@
             "de": "Hôtel de Ville",
             "hu": "Hôtel de Ville",
             "ro": "Hôtel de Ville",
-            "en": "Hôtel de Ville"
+            "en": "Hôtel de Ville",
+            "fr": "Hôtel de Ville"
           },
           "coords": [
             2.445471,
@@ -36,7 +37,8 @@
             "de": "Bewundern Sie die neoklassizistische Architektur des Rathauses, das als Herzstück des bürgerlichen Lebens von Aurillac dient, und werfen Sie einen Blick auf die Aushänge für lokale Veranstaltungen, bevor Sie durch die Fußgängerzone schlendern.",
             "hu": "Csodálja meg a városháza neoklasszikus építészetét, amely Aurillac polgári életének központja, és mielőtt továbbsétálna a sétálóutcákon, vessen egy pillantást a helyi események hirdetőtábláira.",
             "ro": "Admirați arhitectura neoclasică a primăriei, care servește drept inimă a vieții civice din Aurillac, și asigurați-vă că verificați avizierele pentru evenimentele locale viitoare înainte de a vă plimba pe străzile pietonale adiacente.",
-            "en": "Admire the neoclassical architecture of the town hall that serves as the heart of Aurillac's civic life, and be sure to check the notice boards for upcoming local events before strolling down the adjacent pedestrian streets."
+            "en": "Admire the neoclassical architecture of the town hall that serves as the heart of Aurillac's civic life, and be sure to check the notice boards for upcoming local events before strolling down the adjacent pedestrian streets.",
+            "fr": "Admirez l'architecture néoclassique de l'hôtel de ville, cœur de la vie civique d'Aurillac, et consultez les panneaux d'affichage pour les événements locaux avant de flâner dans les rues piétonnes adjacentes."
           }
         },
         {
@@ -44,7 +46,8 @@
             "de": "Saint-Géraud Abbey Church",
             "hu": "Saint-Géraud Abbey Church",
             "ro": "Saint-Géraud Abbey Church",
-            "en": "Saint-Géraud Abbey Church"
+            "en": "Saint-Géraud Abbey Church",
+            "fr": "Église abbatiale Saint-Géraud"
           },
           "coords": [
             2.445542,
@@ -59,7 +62,8 @@
             "de": "Betreten Sie diese monumentale Abteikirche, um Jahrhunderte klösterlicher Geschichte zu entdecken, aber denken Sie daran, eine leichte Jacke mitzubringen, da die alten Steinmauern das Innere auch im Sommer recht kühl halten.",
             "hu": "Lépjen be ebbe a monumentális apátsági templomba, hogy felfedezze az évszázados szerzetesi történelmet, de ne felejtsen el egy könnyű kabátot hozni, mivel az ősi kőfalak még nyáron is hűvösen tartják a belső teret.",
             "ro": "Pășiți în interiorul acestei biserici abațiale monumentale pentru a descoperi secole de istorie monastică, dar nu uitați să luați o jachetă subțire, deoarece zidurile vechi de piatră mențin interiorul destul de răcoros chiar și vara.",
-            "en": "Step inside this monumental abbey church to uncover centuries of monastic history, but remember to bring a light jacket as the ancient stone walls keep the interior quite cool even in summer."
+            "en": "Step inside this monumental abbey church to uncover centuries of monastic history, but remember to bring a light jacket as the ancient stone walls keep the interior quite cool even in summer.",
+            "fr": "Pénétrez dans cette église abbatiale monumentale pour découvrir des siècles d'histoire monastique ; pensez à prendre une veste légère car les murs de pierre gardent l'intérieur assez frais même en été."
           }
         },
         {
@@ -67,7 +71,8 @@
             "de": "Chapelle Notre-Dame-d'Aurinques",
             "hu": "Chapelle Notre-Dame-d'Aurinques",
             "ro": "Chapelle Notre-Dame-d'Aurinques",
-            "en": "Chapelle Notre-Dame-d'Aurinques"
+            "en": "Chapelle Notre-Dame-d'Aurinques",
+            "fr": "Chapelle Notre-Dame-d'Aurinques"
           },
           "coords": [
             2.442864,
@@ -82,7 +87,8 @@
             "de": "Nehmen Sie sich einen Moment der ruhigen Besinnung in dieser kleinen, der Beschützerin der Stadt gewidmeten Kapelle, und versuchen Sie, sie zu besuchen, wenn das Nachmittagslicht die wunderschönen Buntglasfenster erhellt.",
             "hu": "Töltsön el egy percet csendes elmélkedéssel ebben a város védőszentjének szentelt, meghitt kápolnában, és próbálja meg akkor meglátogatni, amikor a délutáni fény megvilágítja gyönyörű ólomüveg ablakait.",
             "ro": "Luați-vă un moment de reflecție liniștită în această capelă intimă dedicată protectoarei orașului și încercați să o vizitați când lumina după-amiezii luminează frumoasele sale vitralii.",
-            "en": "Take a moment of quiet reflection in this intimately scaled chapel dedicated to the town's protector, and try to visit when the afternoon light illuminates its beautiful stained glass windows."
+            "en": "Take a moment of quiet reflection in this intimately scaled chapel dedicated to the town's protector, and try to visit when the afternoon light illuminates its beautiful stained glass windows.",
+            "fr": "Prenez un moment de recueillement dans cette chapelle intime dédiée à la protectrice de la ville, et essayez de la visiter lorsque la lumière de l'après-midi illumine ses beaux vitraux."
           }
         },
         {
@@ -90,7 +96,8 @@
             "de": "Église Notre-Dame-aux-Neiges",
             "hu": "Église Notre-Dame-aux-Neiges",
             "ro": "Église Notre-Dame-aux-Neiges",
-            "en": "Église Notre-Dame-aux-Neiges"
+            "en": "Église Notre-Dame-aux-Neiges",
+            "fr": "Église Notre-Dame-aux-Neiges"
           },
           "coords": [
             2.443382,
@@ -105,7 +112,8 @@
             "de": "Erkunden Sie die eleganten Linien und die heilige Atmosphäre dieser bemerkenswerten Kirche und achten Sie auf die aufwendig geschnitzten Holzdetails, die ihr friedliches Heiligtum schmücken.",
             "hu": "Fedezze fel e figyelemre méltó templom elegáns vonalait és szakrális atmoszféráját, miközben érdemes megfigyelni a békés szentélyt díszítő, bonyolult fafaragásokat.",
             "ro": "Explorați liniile elegante și atmosfera sacră a acestei biserici notabile, fiind atenți la detaliile din lemn sculptate complicat care îi împodobesc sanctuarul pașnic.",
-            "en": "Explore the elegant lines and sacred atmosphere of this notable church, keeping an eye out for the intricately carved wooden details that adorn its peaceful sanctuary."
+            "en": "Explore the elegant lines and sacred atmosphere of this notable church, keeping an eye out for the intricately carved wooden details that adorn its peaceful sanctuary.",
+            "fr": "Explorez les lignes élégantes et l'atmosphère sacrée de cette église remarquable, en guettant les détails finement sculptés en bois qui ornent son paisible sanctuaire."
           }
         },
         {
@@ -113,7 +121,8 @@
             "de": "Carmes Garden",
             "hu": "Carmes Garden",
             "ro": "Carmes Garden",
-            "en": "Carmes Garden"
+            "en": "Carmes Garden",
+            "fr": "Jardin des Carmes"
           },
           "coords": [
             2.443288,
@@ -128,7 +137,8 @@
             "de": "Entspannen Sie sich auf den schattigen Wegen dieses wunderschön gepflegten Stadtparks und packen Sie etwas lokalen Käse und frisches Brot für ein herrliches Picknick auf den gepflegten Rasenflächen ein.",
             "hu": "Pihenjen meg ennek a gyönyörűen karbantartott városi parknak az árnyékos ösvényein, és hozzon magával egy kis helyi sajtot, valamint friss kenyeret egy kellemes piknikhez a gondozott pázsiton.",
             "ro": "Relaxați-vă pe aleile umbrite ale acestui parc urban frumos întreținut și aduceți cu voi niște brânză locală și pâine proaspătă pentru un picnic încântător pe peluzele sale îngrijite.",
-            "en": "Relax along the shaded pathways of this beautifully maintained urban park, and pack some local cheese and fresh bread for a delightful picnic on its manicured lawns."
+            "en": "Relax along the shaded pathways of this beautifully maintained urban park, and pack some local cheese and fresh bread for a delightful picnic on its manicured lawns.",
+            "fr": "Détendez-vous le long des allées ombragées de ce parc urbain magnifiquement entretenu ; emportez du fromage local et du bon pain pour un délicieux pique-nique sur les pelouses soignées."
           }
         }
       ],
@@ -136,7 +146,8 @@
         "de": "Beginnen Sie Ihren Morgen am historischen Rathaus und genießen Sie das ruhige bürgerliche Zentrum, bevor Sie zur monumentalen Abteikirche Saint-Géraud schlendern. Lassen Sie sich mittags von der spirituellen Ruhe der Chapelle Notre-Dame-d'Aurinques und der Église Notre-Dame-aux-Neiges durch Aurillacs charmanten Kern führen. Wenn der Nachmittag anbricht, ziehen Sie sich auf die üppigen Wege des Carmes-Gartens zurück. Beenden Sie Ihren Tag und genießen Sie das sanfte Abendlicht unter den alten Bäumen.",
         "hu": "Kezdje a reggelt a történelmi Városházánál, elmerülve a nyugodt polgári központ hangulatában, mielőtt a monumentális Saint-Géraud apátsági templomhoz sétálna. Délben hagyja, hogy a Chapelle Notre-Dame-d'Aurinques és az Église Notre-Dame-aux-Neiges spirituális nyugalma vezesse lépteit Aurillac bájos központjában. A délután folyamán vonuljon vissza a Carmes-kert buja ösvényeire, amely ideális zöld oázis a pihenéshez. Zárja a napot a kert ősi fáinak lombkoronája alatt a lágy esti fényekben gyönyörködve.",
         "ro": "Începeți dimineața la istorica Primărie, admirând centrul civic liniștit înainte de a vă îndrepta spre monumentala Biserică Abațială Saint-Géraud. La prânz, lăsați liniștea spirituală de la Chapelle Notre-Dame-d'Aurinques și Église Notre-Dame-aux-Neiges să vă ghideze pașii prin inima orașului Aurillac. Pe măsură ce după-amiaza se desfășoară, retrageți-vă pe potecile luxuriante din Grădina Carmes, o oază verde ideală pentru relaxare. Încheiați-vă ziua sub bolta copacilor seculari din grădină.",
-        "en": "Start your morning at the historic Hôtel de Ville, taking in the serene civic center before meandering towards the monumental Saint-Géraud Abbey Church. By midday, allow the spiritual tranquility of Chapelle Notre-Dame-d'Aurinques and Église Notre-Dame-aux-Neiges to guide your steps through Aurillac’s charming core. As the afternoon unfolds, retreat to the lush pathways of the Carmes Garden, an ideal green oasis for relaxation. End your day soaking in the gentle evening light under the canopy of ancient trees in the garden."
+        "en": "Start your morning at the historic Hôtel de Ville, taking in the serene civic center before meandering towards the monumental Saint-Géraud Abbey Church. By midday, allow the spiritual tranquility of Chapelle Notre-Dame-d'Aurinques and Église Notre-Dame-aux-Neiges to guide your steps through Aurillac’s charming core. As the afternoon unfolds, retreat to the lush pathways of the Carmes Garden, an ideal green oasis for relaxation. End your day soaking in the gentle evening light under the canopy of ancient trees in the garden.",
+        "fr": "Commencez la matinée à l'historique Hôtel de Ville pour apprécier le centre civique serein avant de vous diriger vers l'imposante église abbatiale Saint-Géraud. À midi, laissez la quiétude spirituelle de la Chapelle Notre-Dame-d'Aurinques et de l'Église Notre-Dame-aux-Neiges guider vos pas dans le charmant centre d'Aurillac. Dans l'après-midi, retirez-vous le long des allées verdoyantes du Jardin des Carmes, oasis idéale de détente. Terminez la journée en profitant de la douce lumière du soir sous la canopée des arbres anciens du jardin."
       },
       "variants": {
         "rainy": {
@@ -144,7 +155,8 @@
             "de": "Der Morgen beginnt mit Nieselregen am Rathaus; halten Sie den Schirm bereit. Mittags bieten die dicken Mauern der Abtei trockenen Schutz vor den Güssen. Am Nachmittag empfiehlt es sich, zwischen den geschützten Kirchen zu pendeln, um dem nassen Wind zu entgehen. Abends spiegeln sich die Lichter auf dem nassen Kopfsteinpflaster; nutzen Sie die historischen Arkaden als trockenen Pfad.",
             "hu": "A reggel szemerkélő esővel indul a Városháza előtt; tartsa készenlétben esernyőjét. Délben a zápor elől az apátság vastag falai kínálnak tökéletes és száraz menedéket. Délután érdemes a templomok belső terét járni, elkerülve a nyirkos szelet. Este a vizes macskaköveken megcsillanó fények ezüstös ragyogást adnak a városnak; haladjon a történelmi belváros védett árkádjai és ereszei alatt.",
             "ro": "Dimineața începe cu o burniță ușoară lângă primărie; pregătiți umbrela pentru centrul vechi. La prânz, zidurile groase ale abației oferă un adăpost uscat perfect împotriva ploii. După-amiaza este ideală pentru a vizita interiorul bisericilor, evitând vântul umed. Seara, luminile se reflectă superb pe pavajul ud; mergeți pe sub arcadele istorice pentru a rămâne cât mai uscat.",
-            "en": "Morning begins with a soft drizzle by the Town Hall; keep your umbrella ready for the old town. At noon, the thick walls of the Abbey provide a perfect dry sanctuary from the rain. Afternoon is best spent exploring the quiet church interiors to avoid the damp wind. Evening lights reflect beautifully on wet cobblestones; use the historic arcades to stay dry while walking."
+            "en": "Morning begins with a soft drizzle by the Town Hall; keep your umbrella ready for the old town. At noon, the thick walls of the Abbey provide a perfect dry sanctuary from the rain. Afternoon is best spent exploring the quiet church interiors to avoid the damp wind. Evening lights reflect beautifully on wet cobblestones; use the historic arcades to stay dry while walking.",
+            "fr": "La matinée commence par une légère bruine près de l'Hôtel de Ville ; gardez votre parapluie pour la vieille ville. À midi, les épais murs de l'abbaye offrent un sanctuaire sec parfait contre la pluie. L'après-midi, privilégiez l'exploration des intérieurs calmes des églises pour éviter le vent humide. Le soir, les lumières se reflètent joliment sur les pavés mouillés ; utilisez les arcades historiques pour rester au sec en marchant."
           },
           "stops": [
             {
@@ -152,13 +164,15 @@
                 "de": "Hôtel de Ville",
                 "hu": "Hôtel de Ville",
                 "ro": "Hôtel de Ville",
-                "en": "Hôtel de Ville"
+                "en": "Hôtel de Ville",
+                "fr": "Hôtel de Ville"
               },
               "tip_5lang": {
                 "de": "Bewundern Sie die Fassade von den gegenüberliegenden Arkaden aus, um trocken zu bleiben, und nutzen Sie den überdachten Eingangsbereich für Fotos bei Regen.",
                 "hu": "Csodálja meg a homlokzatot a szemközti árkádok alól, hogy száraz maradjon, és használja a fedett bejárati részt a fotózáshoz az esős időben.",
                 "ro": "Admirați fațada de sub arcadele de vizavi pentru a rămâne uscat și folosiți zona acoperită de la intrare pentru fotografii în timpul ploii.",
-                "en": "Admire the facade from the arcades opposite to stay dry, and use the covered entrance area for taking photos during the rainy weather."
+                "en": "Admire the facade from the arcades opposite to stay dry, and use the covered entrance area for taking photos during the rainy weather.",
+                "fr": "Admirez la façade depuis les arcades opposées pour rester au sec, et utilisez l'entrée couverte pour prendre des photos par temps de pluie."
               }
             },
             {
@@ -166,13 +180,15 @@
                 "de": "Saint-Géraud Abbey Church",
                 "hu": "Saint-Géraud Abbey Church",
                 "ro": "Saint-Géraud Abbey Church",
-                "en": "Saint-Géraud Abbey Church"
+                "en": "Saint-Géraud Abbey Church",
+                "fr": "Église abbatiale Saint-Géraud"
               },
               "tip_5lang": {
                 "de": "Die massiven romanischen Gewölbe bieten einen idealen Zufluchtsort; achten Sie auf die rutschigen Steinstufen am Eingang bei Nässe.",
                 "hu": "A masszív román stílusú boltozatok ideális menedéket nyújtanak a zápor elől; ügyeljen a bejáratnál a nedves időben csúszós kőlépcsőkre.",
                 "ro": "Bolțile romanice masive oferă un refugiu ideal împotriva ploii; atenție la treptele de piatră de la intrare care devin alunecoase când sunt ude.",
-                "en": "The massive Romanesque vaults offer an ideal refuge from the downpour; watch out for the stone steps at the entrance which get slippery when wet."
+                "en": "The massive Romanesque vaults offer an ideal refuge from the downpour; watch out for the stone steps at the entrance which get slippery when wet.",
+                "fr": "Les massives voûtes romanes offrent un refuge idéal contre l'averse ; faites attention aux marches en pierre à l'entrée qui deviennent glissantes quand elles sont mouillées."
               }
             },
             {
@@ -180,13 +196,15 @@
                 "de": "Chapelle Notre-Dame-d'Aurinques",
                 "hu": "Chapelle Notre-Dame-d'Aurinques",
                 "ro": "Chapelle Notre-Dame-d'Aurinques",
-                "en": "Chapelle Notre-Dame-d'Aurinques"
+                "en": "Chapelle Notre-Dame-d'Aurinques",
+                "fr": "Chapelle Notre-Dame-d'Aurinques"
               },
               "tip_5lang": {
                 "de": "Diese kleine Kapelle ist ein perfekter Ort, um einen kurzen Schauer abzuwarten, während man die feinen Details des Altars im Trockenen betrachtet.",
                 "hu": "Ez az apró kápolna tökéletes hely egy rövid zápor kivárására, miközben a szárazban gyönyörködhet az oltár finom részleteiben.",
                 "ro": "Această mică capelă este locul perfect pentru a aștepta trecerea unei ploi scurte, admirând detaliile fine ale altarului la adăpost.",
-                "en": "This tiny chapel is a perfect spot to wait out a short shower while admiring the fine details of the altar in the dry interior."
+                "en": "This tiny chapel is a perfect spot to wait out a short shower while admiring the fine details of the altar in the dry interior.",
+                "fr": "Cette petite chapelle est un endroit parfait pour attendre une courte averse tout en admirant les détails de l'autel à l'abri."
               }
             },
             {
@@ -194,13 +212,15 @@
                 "de": "Église Notre-Dame-aux-Neiges",
                 "hu": "Église Notre-Dame-aux-Neiges",
                 "ro": "Église Notre-Dame-aux-Neiges",
-                "en": "Église Notre-Dame-aux-Neiges"
+                "en": "Église Notre-Dame-aux-Neiges",
+                "fr": "Église Notre-Dame-aux-Neiges"
               },
               "tip_5lang": {
                 "de": "Nutzen Sie die Stille des weiten Innenraums, um dem prasselnden Regen zu entkommen; die Akustik bei Regen ist hier besonders beruhigend.",
                 "hu": "Használja ki a tágas belső tér csendjét a kopogó eső elől; a templom akusztikája esős időben különösen megnyugtató élményt nyújt.",
                 "ro": "Profitați de liniștea interiorului spațios pentru a scăpa de ploaia de afară; acustica bisericii în timpul ploii este deosebit de relaxantă.",
-                "en": "Take advantage of the silence in the spacious interior to escape the rain; the church's acoustics during a storm offer a peaceful experience."
+                "en": "Take advantage of the silence in the spacious interior to escape the rain; the church's acoustics during a storm offer a peaceful experience.",
+                "fr": "Profitez du silence de l'intérieur spacieux pour échapper à la pluie ; l'acoustique de l'église pendant l'orage offre une expérience paisible."
               }
             },
             {
@@ -208,13 +228,15 @@
                 "de": "Carmes Garden",
                 "hu": "Carmes Garden",
                 "ro": "Carmes Garden",
-                "en": "Carmes Garden"
+                "en": "Carmes Garden",
+                "fr": "Jardin des Carmes"
               },
               "tip_5lang": {
                 "de": "Suchen Sie Schutz unter den dichten Baumkronen, aber meiden Sie die unbefestigten Wege, die bei Regen schnell schlammig und rutschig werden.",
                 "hu": "Keressen menedéket a sűrű lombkoronák alatt, de kerülje a nem aszfaltozott ösvényeket, amelyek esőben gyorsan sárossá és csúszóssá válnak.",
                 "ro": "Căutați adăpost sub coronamentul des al copacilor, dar evitați potecile neasfaltate care devin noroioase și alunecoase pe timp de ploaie.",
-                "en": "Seek shelter under the dense tree canopies, but avoid unpaved paths that quickly become muddy and slippery during the rain."
+                "en": "Seek shelter under the dense tree canopies, but avoid unpaved paths that quickly become muddy and slippery during the rain.",
+                "fr": "Cherchez refuge sous les densifs houppiers d'arbres, mais évitez les chemins non goudronnés qui deviennent vite boueux et glissants sous la pluie."
               }
             }
           ]
@@ -224,7 +246,8 @@
             "de": "Ein frostiger Morgen erwartet Sie am Rathaus; tragen Sie warme Schichten für den Wind. Mittags laden die Kirchen zu kurzen, windgeschützten Pausen ein. Am Nachmittag sinkt die Sonne tief und taucht die Steinhäuser in goldenes Licht, bevor es um 17 Uhr dunkel wird. Der Abend ist kurz und kalt; genießen Sie die stimmungsvolle Beleuchtung der Altstadt in warmer Winterkleidung.",
             "hu": "Deres reggel fogadja a Városháza előtt; öltözzön rétegesen a csípős szél ellen. Délben a templomok belső terei nyújtanak rövid szélvédett pihenőt a séta közben. Délután a nap alacsonyan jár, arany fénybe vonva a kőházakat, mielőtt 17 órakor besötétedik. Az este rövid és hideg; élvezze a belváros hangulatos téli fényeit alaposan felmelegedve.",
             "ro": "O dimineață geroasă vă așteaptă la primărie; purtați straturi calde împotriva vântului tăios. La prânz, interiorul bisericilor oferă scurte pauze ferite de vânt. După-amiaza, soarele coboară rapid, luminând casele de piatră în nuanțe aurii înainte de apusul de la ora 17. Seara este rece; admirați luminile de iarnă ale orașului bine înfofolit.",
-            "en": "A frosty morning awaits at the Town Hall; wear warm layers against the biting wind. At noon, the church interiors offer short, wind-sheltered breaks during your walk. In the afternoon, the low sun casts a golden glow on the stone houses before darkness falls at 5 PM. The evening is cold; enjoy the atmospheric winter lights of the center while staying warm."
+            "en": "A frosty morning awaits at the Town Hall; wear warm layers against the biting wind. At noon, the church interiors offer short, wind-sheltered breaks during your walk. In the afternoon, the low sun casts a golden glow on the stone houses before darkness falls at 5 PM. The evening is cold; enjoy the atmospheric winter lights of the center while staying warm.",
+            "fr": "Une matinée glaciale vous attend à l'Hôtel de Ville ; portez des couches chaudes contre le vent mordant. À midi, les intérieurs d'église offrent de courtes pauses à l'abri du vent lors de votre promenade. L'après-midi, le soleil bas dore les maisons de pierre avant la tombée de la nuit à 17:00. Le soir est froid ; profitez des lumières hivernales et restez bien au chaud."
           },
           "stops": [
             {
@@ -232,13 +255,15 @@
                 "de": "Hôtel de Ville",
                 "hu": "Hôtel de Ville",
                 "ro": "Hôtel de Ville",
-                "en": "Hôtel de Ville"
+                "en": "Hôtel de Ville",
+                "fr": "Hôtel de Ville"
               },
               "tip_5lang": {
                 "de": "Die Steinfassade wirkt im Winterlicht besonders streng; achten Sie auf glatte Stellen auf dem Pflaster des Vorplatzes bei Frost.",
                 "hu": "A kőhomlokzat különösen karakteres a téli fényben; ügyeljen a jeges foltokra a városháza előtti téren a reggeli fagyok idején.",
                 "ro": "Fațada de piatră pare foarte austeră în lumina iernii; atenție la porțiunile înghețate de pe pavajul pieței în timpul gerului.",
-                "en": "The stone facade looks particularly striking in the winter light; watch out for icy patches on the square's pavement during frost."
+                "en": "The stone facade looks particularly striking in the winter light; watch out for icy patches on the square's pavement during frost.",
+                "fr": "La façade de pierre est particulièrement saisissante dans la lumière hivernale ; attention aux plaques de verglas sur le pavé de la place lors des gels."
               }
             },
             {
@@ -246,13 +271,15 @@
                 "de": "Saint-Géraud Abbey Church",
                 "hu": "Saint-Géraud Abbey Church",
                 "ro": "Saint-Géraud Abbey Church",
-                "en": "Saint-Géraud Abbey Church"
+                "en": "Saint-Géraud Abbey Church",
+                "fr": "Église abbatiale Saint-Géraud"
               },
               "tip_5lang": {
                 "de": "Der Innenraum ist windgeschützt, aber kühl; behalten Sie Ihren Mantel an, während Sie die historischen Relikte der Abtei erkunden.",
                 "hu": "A belső tér szélvédett, de hűvös; hagyja magán a kabátját, miközben az apátság történelmi ereklyéit és falait felfedezi a hidegben.",
                 "ro": "Interiorul este ferit de vânt, dar răcoros; păstrați haina pe dvs. în timp ce explorați relicvele istorice ale abației pe timp de iarnă.",
-                "en": "The interior is sheltered from the wind but remains cool; keep your coat on while exploring the Abbey's historic relics and walls."
+                "en": "The interior is sheltered from the wind but remains cool; keep your coat on while exploring the Abbey's historic relics and walls.",
+                "fr": "L'intérieur est à l'abri du vent mais reste frais ; gardez votre manteau pour explorer les reliques et les murs historiques de l'abbaye."
               }
             },
             {
@@ -260,13 +287,15 @@
                 "de": "Chapelle Notre-Dame-d'Aurinques",
                 "hu": "Chapelle Notre-Dame-d'Aurinques",
                 "ro": "Chapelle Notre-Dame-d'Aurinques",
-                "en": "Chapelle Notre-Dame-d'Aurinques"
+                "en": "Chapelle Notre-Dame-d'Aurinques",
+                "fr": "Chapelle Notre-Dame-d'Aurinques"
               },
               "tip_5lang": {
                 "de": "Ein friedlicher, warmer Rückzugsort in den engen Gassen; die Kerzen im Inneren spenden in der winterlichen Dunkelheit ein sanftes Licht.",
                 "hu": "Békés, meghitt menedék a szűk utcák között; a belső tér gyertyái barátságos fényt árasztanak a korai téli sötétedés idején.",
                 "ro": "Un refugiu liniștit printre străzile înguste; lumânările din interior oferă o lumină caldă și primitoare în timpul amiezii de iarnă.",
-                "en": "A peaceful, cozy retreat among the narrow streets; the candles inside provide a warm glow during the early winter darkness."
+                "en": "A peaceful, cozy retreat among the narrow streets; the candles inside provide a warm glow during the early winter darkness.",
+                "fr": "Retraite paisible et chaleureuse parmi les ruelles ; les bougies à l'intérieur offrent une lueur réconfortante durant les premières heures d'obscurité hivernale."
               }
             },
             {
@@ -274,13 +303,15 @@
                 "de": "Église Notre-Dame-aux-Neiges",
                 "hu": "Église Notre-Dame-aux-Neiges",
                 "ro": "Église Notre-Dame-aux-Neiges",
-                "en": "Église Notre-Dame-aux-Neiges"
+                "en": "Église Notre-Dame-aux-Neiges",
+                "fr": "Église Notre-Dame-aux-Neiges"
               },
               "tip_5lang": {
                 "de": "Der Name passt perfekt zur Jahreszeit; genießen Sie die Ruhe im Inneren als Kontrast zur eisigen Luft draußen auf den Straßen.",
                 "hu": "A templom neve (Havas Boldogasszony) tökéletesen illik az évszakhoz; élvezze a benti csendet a kinti fagyos levegő után.",
                 "ro": "Numele bisericii se potrivește perfect cu sezonul; bucurați-vă de liniștea din interior ca contrast față de aerul înghețat de afară.",
-                "en": "The church's name fits the season perfectly; enjoy the indoor silence as a contrast to the freezing air outside on the streets."
+                "en": "The church's name fits the season perfectly; enjoy the indoor silence as a contrast to the freezing air outside on the streets.",
+                "fr": "Le nom de l'église convient parfaitement à la saison ; appréciez le silence intérieur comme contraste avec l'air glacial dehors."
               }
             },
             {
@@ -288,13 +319,15 @@
                 "de": "Carmes Garden",
                 "hu": "Carmes Garden",
                 "ro": "Carmes Garden",
-                "en": "Carmes Garden"
+                "en": "Carmes Garden",
+                "fr": "Jardin des Carmes"
               },
               "tip_5lang": {
                 "de": "Machen Sie einen zügigen Spaziergang, um warm zu bleiben, und beenden Sie den Besuch vor 17 Uhr, wenn der Garten im Schatten liegt.",
                 "hu": "Tegyen egy frissítő sétát, hogy mozgásban maradjon, és fejezze be a látogatást 17 óra előtt, mielőtt a kert teljesen sötétbe borulna.",
                 "ro": "Faceți o plimbare rapidă pentru a vă menține cald și terminați vizita înainte de ora 17, când grădina intră complet în umbră.",
-                "en": "Take a brisk walk to keep warm and finish your visit before 5 PM, when the garden becomes dark and significantly colder."
+                "en": "Take a brisk walk to keep warm and finish your visit before 5 PM, when the garden becomes dark and significantly colder.",
+                "fr": "Faites une marche vive pour vous réchauffer et terminez votre visite avant 17:00, lorsque le jardin devient sombre et sensiblement plus froid."
               }
             }
           ]
@@ -314,7 +347,8 @@
             "de": "Église du Sacré-Cœur",
             "hu": "Église du Sacré-Cœur",
             "ro": "Église du Sacré-Cœur",
-            "en": "Église du Sacré-Cœur"
+            "en": "Église du Sacré-Cœur",
+            "fr": "Église du Sacré-Cœur"
           },
           "coords": [
             2.434992,
@@ -329,7 +363,8 @@
             "de": "Stehen Sie vor der imposanten Fassade dieser markanten Kirche, um ihren besonderen architektonischen Stil zu schätzen, und besuchen Sie sie in den frühen Morgenstunden, um die ungestörte Ruhe des umliegenden Platzes zu genießen.",
             "hu": "Álljon meg e lenyűgöző templom impozáns homlokzata előtt, hogy megcsodálja egyedi építészeti stílusát, és látogasson el a kora reggeli órákban, hogy élvezze a környező tér zavartalan nyugalmát.",
             "ro": "Stați în fața fațadei impunătoare a acestei biserici izbitoare pentru a-i aprecia stilul arhitectural distinct și vizitați-o în primele ore ale dimineții pentru a vă bucura de liniștea netulburată a pieței din jur.",
-            "en": "Stand before the imposing facade of this striking church to appreciate its distinct architectural style, and visit during early morning hours to enjoy the undisturbed tranquility of the surrounding square."
+            "en": "Stand before the imposing facade of this striking church to appreciate its distinct architectural style, and visit during early morning hours to enjoy the undisturbed tranquility of the surrounding square.",
+            "fr": "Placez-vous devant la façade imposante de cette église remarquable pour en apprécier le style architectural distinct, et visitez de bonne heure le matin pour profiter de la quiétude du square."
           }
         },
         {
@@ -337,7 +372,8 @@
             "de": "Carmes Garden",
             "hu": "Carmes Garden",
             "ro": "Carmes Garden",
-            "en": "Carmes Garden"
+            "en": "Carmes Garden",
+            "fr": "Jardin des Carmes"
           },
           "coords": [
             2.443288,
@@ -352,7 +388,8 @@
             "de": "Entspannen Sie sich auf den schattigen Wegen dieses wunderschön gepflegten Stadtparks und packen Sie etwas lokalen Käse und frisches Brot für ein herrliches Picknick auf den gepflegten Rasenflächen ein.",
             "hu": "Pihenjen meg ennek a gyönyörűen karbantartott városi parknak az árnyékos ösvényein, és hozzon magával egy kis helyi sajtot, valamint friss kenyeret egy kellemes piknikhez a gondozott pázsiton.",
             "ro": "Relaxați-vă pe aleile umbrite ale acestui parc urban frumos întreținut și aduceți cu voi niște brânză locală și pâine proaspătă pentru un picnic încântător pe peluzele sale îngrijite.",
-            "en": "Relax along the shaded pathways of this beautifully maintained urban park, and pack some local cheese and fresh bread for a delightful picnic on its manicured lawns."
+            "en": "Relax along the shaded pathways of this beautifully maintained urban park, and pack some local cheese and fresh bread for a delightful picnic on its manicured lawns.",
+            "fr": "Détendez-vous le long des allées ombragées de ce parc urbain magnifiquement entretenu ; emportez du fromage local et du bon pain pour un délicieux pique-nique sur les pelouses soignées."
           }
         },
         {
@@ -360,7 +397,8 @@
             "de": "Hôtel de Ville",
             "hu": "Hôtel de Ville",
             "ro": "Hôtel de Ville",
-            "en": "Hôtel de Ville"
+            "en": "Hôtel de Ville",
+            "fr": "Hôtel de Ville"
           },
           "coords": [
             2.445471,
@@ -375,7 +413,8 @@
             "de": "Bewundern Sie die neoklassizistische Architektur des Rathauses, das als Herzstück des bürgerlichen Lebens von Aurillac dient, und werfen Sie einen Blick auf die Aushänge für lokale Veranstaltungen, bevor Sie durch die Fußgängerzone schlendern.",
             "hu": "Csodálja meg a városháza neoklasszikus építészetét, amely Aurillac polgári életének központja, és mielőtt továbbsétálna a sétálóutcákon, vessen egy pillantást a helyi események hirdetőtábláira.",
             "ro": "Admirați arhitectura neoclasică a primăriei, care servește drept inimă a vieții civice din Aurillac, și asigurați-vă că verificați avizierele pentru evenimentele locale viitoare înainte de a vă plimba pe străzile pietonale adiacente.",
-            "en": "Admire the neoclassical architecture of the town hall that serves as the heart of Aurillac's civic life, and be sure to check the notice boards for upcoming local events before strolling down the adjacent pedestrian streets."
+            "en": "Admire the neoclassical architecture of the town hall that serves as the heart of Aurillac's civic life, and be sure to check the notice boards for upcoming local events before strolling down the adjacent pedestrian streets.",
+            "fr": "Admirez l'architecture néoclassique de l'hôtel de ville, cœur de la vie civique d'Aurillac, et consultez les panneaux d'affichage pour les événements locaux avant de flâner dans les rues piétonnes adjacentes."
           }
         },
         {
@@ -383,7 +422,8 @@
             "de": "Chapelle Notre-Dame-d'Aurinques",
             "hu": "Chapelle Notre-Dame-d'Aurinques",
             "ro": "Chapelle Notre-Dame-d'Aurinques",
-            "en": "Chapelle Notre-Dame-d'Aurinques"
+            "en": "Chapelle Notre-Dame-d'Aurinques",
+            "fr": "Chapelle Notre-Dame-d'Aurinques"
           },
           "coords": [
             2.442864,
@@ -398,7 +438,8 @@
             "de": "Nehmen Sie sich einen Moment der ruhigen Besinnung in dieser kleinen, der Beschützerin der Stadt gewidmeten Kapelle, und versuchen Sie, sie zu besuchen, wenn das Nachmittagslicht die wunderschönen Buntglasfenster erhellt.",
             "hu": "Töltsön el egy percet csendes elmélkedéssel ebben a város védőszentjének szentelt, meghitt kápolnában, és próbálja meg akkor meglátogatni, amikor a délutáni fény megvilágítja gyönyörű ólomüveg ablakait.",
             "ro": "Luați-vă un moment de reflecție liniștită în această capelă intimă dedicată protectoarei orașului și încercați să o vizitați când lumina după-amiezii luminează frumoasele sale vitralii.",
-            "en": "Take a moment of quiet reflection in this intimately scaled chapel dedicated to the town's protector, and try to visit when the afternoon light illuminates its beautiful stained glass windows."
+            "en": "Take a moment of quiet reflection in this intimately scaled chapel dedicated to the town's protector, and try to visit when the afternoon light illuminates its beautiful stained glass windows.",
+            "fr": "Prenez un moment de recueillement dans cette chapelle intime dédiée à la protectrice de la ville, et essayez de la visiter lorsque la lumière de l'après-midi illumine ses beaux vitraux."
           }
         },
         {
@@ -406,7 +447,8 @@
             "de": "Saint-Étienne Castle",
             "hu": "Saint-Étienne Castle",
             "ro": "Saint-Étienne Castle",
-            "en": "Saint-Étienne Castle"
+            "en": "Saint-Étienne Castle",
+            "fr": "Château Saint-Étienne"
           },
           "coords": [
             2.44595,
@@ -421,7 +463,8 @@
             "de": "Entdecken Sie die hoch aufragenden Zinnen und das reiche Regionalmuseum in dieser imposanten mittelalterlichen Festung, und vergessen Sie nicht, den Hauptfriedrich zu besteigen, um einen weiten Panoramablick über die Dächer von Aurillac zu genießen.",
             "hu": "Fedezze fel az impozáns középkori erődítmény magasodó bástyáit és gazdag regionális múzeumát, és ne hagyja ki a főtorony megmászását sem, ahonnan pazar panoráma nyílik Aurillac háztetőire.",
             "ro": "Descoperiți crenelurile falnice și bogatul muzeu regional găzduit în această impunătoare fortăreață medievală și nu uitați să urcați în turnul principal pentru vederi panoramice ample asupra acoperișurilor din Aurillac.",
-            "en": "Discover the towering battlements and rich regional museum housed within this imposing medieval fortress, and don't forget to climb the main keep for sweeping panoramic views over the Aurillac rooftops."
+            "en": "Discover the towering battlements and rich regional museum housed within this imposing medieval fortress, and don't forget to climb the main keep for sweeping panoramic views over the Aurillac rooftops.",
+            "fr": "Découvrez les hautes battisses et le riche musée régional abrités dans cette imposante forteresse médiévale ; n'oubliez pas de monter au donjon principal pour une vue panoramique sur les toits d'Aurillac."
           }
         },
         {
@@ -429,7 +472,8 @@
             "de": "Église Abbatiale Saint-Géraud",
             "hu": "Église Abbatiale Saint-Géraud",
             "ro": "Église Abbatiale Saint-Géraud",
-            "en": "Église Abbatiale Saint-Géraud"
+            "en": "Église Abbatiale Saint-Géraud",
+            "fr": "Église Abbatiale Saint-Géraud"
           },
           "coords": [
             2.448498,
@@ -444,7 +488,8 @@
             "de": "Bewundern Sie die großartigen Dimensionen und die historische Tiefe dieser Abteikirche, die das spirituelle Erbe der Stadt verankert, und nehmen Sie sich Zeit für einen langsamen Spaziergang um das Äußere, um die Mauerwerksarbeiten zu schätzen.",
             "hu": "Csodálja meg ennek az apátsági templomnak a lenyűgöző méreteit és történelmi mélységét, amely a város szellemi örökségét őrzi, és szánjon időt egy lassú sétára a külső falak körül a kőművesmunka megfigyelésére.",
             "ro": "Minunați-vă de dimensiunile grandioase și profunzimea istorică a acestei biserici abațiale care ancorează moștenirea spirituală a orașului, făcându-vă timp să vă plimbați încet pe exterior pentru a aprecia zidăria.",
-            "en": "Marvel at the grand dimensions and historical depth of this abbey church that anchors the city's spiritual heritage, taking time to walk slowly around the exterior to appreciate the masonry work."
+            "en": "Marvel at the grand dimensions and historical depth of this abbey church that anchors the city's spiritual heritage, taking time to walk slowly around the exterior to appreciate the masonry work.",
+            "fr": "Admirez les vastes dimensions et la profondeur historique de cette église abbatiale qui ancre le patrimoine spirituel de la ville ; accordez-vous le temps de la contourner lentement pour apprécier la maçonnerie."
           }
         }
       ],
@@ -452,7 +497,8 @@
         "de": "Beginnen Sie Ihre Radtour an der beeindruckenden Église du Sacré-Cœur, bevor Sie zum erfrischenden Grün des Carmes-Gartens radeln. Fahren Sie zur Mittagszeit durch die zentralen Straßen zum Rathaus und zur bezaubernden Chapelle Notre-Dame-d'Aurinques. Der Nachmittag fordert Sie mit einem kurzen Aufstieg zum mächtigen Schloss Saint-Étienne für einen Panoramablick heraus. Lassen Sie Ihren dynamischen Reittag an der herrlichen Église Abbatiale Saint-Géraud ausklingen.",
         "hu": "Kezdje kerékpártúráját az impozáns Église du Sacré-Cœur templomnál, bemelegítve a Carmes-kert frissítő zöldjébe vezető tekerés előtt. Ebédidőre kerekezzen át a központi utcákon a Városházához és a hangulatos Chapelle Notre-Dame-d'Aurinques-hez. A délután egy rövid emelkedővel vár a lenyűgöző Saint-Étienne kastélyhoz a pazar kilátásért. Vezesse le a dinamikus napot a csodálatos Église Abbatiale Saint-Géraud templomnál, miközben a város lassan elcsendesedik.",
         "ro": "Începeți turul cu bicicleta la impunătoarea Église du Sacré-Cœur, încălzindu-vă înainte de a pedala spre verdeața răcoritoare din Grădina Carmes. Până la prânz, mergeți pe străzile centrale până la Primărie și fermecătoarea Chapelle Notre-Dame-d'Aurinques. După-amiaza vă provoacă cu o scurtă urcare la falnicul Castel Saint-Étienne pentru recompense panoramice. Încheiați ziua dinamică de pedalat la magnifica Église Abbatiale Saint-Géraud.",
-        "en": "Kick off your cycling tour at the commanding Église du Sacré-Cœur, warming up before pedaling to the refreshing greenery of the Carmes Garden. By lunchtime, ride through the central streets to the Hôtel de Ville and the charming Chapelle Notre-Dame-d'Aurinques. The afternoon challenges you with a short ascent to the mighty Saint-Étienne Castle for panoramic rewards. Wind down your dynamic day of riding at the magnificent Église Abbatiale Saint-Géraud as the town quiets down."
+        "en": "Kick off your cycling tour at the commanding Église du Sacré-Cœur, warming up before pedaling to the refreshing greenery of the Carmes Garden. By lunchtime, ride through the central streets to the Hôtel de Ville and the charming Chapelle Notre-Dame-d'Aurinques. The afternoon challenges you with a short ascent to the mighty Saint-Étienne Castle for panoramic rewards. Wind down your dynamic day of riding at the magnificent Église Abbatiale Saint-Géraud as the town quiets down.",
+        "fr": "Commencez votre circuit à vélo à l'imposante Église du Sacré-Cœur, pour vous échauffer avant de pédaler jusqu'à la fraîche verdure du Jardin des Carmes. À l'heure du déjeuner, roulez dans les rues centrales jusqu'à l'Hôtel de Ville et la charmante Chapelle Notre-Dame-d'Aurinques. L'après-midi vous mettra au défi d'une courte montée jusqu'au puissant Château Saint-Étienne pour des récompenses panoramiques. Terminez votre journée dynamique au majestueux Église Abbatiale Saint-Géraud alors que la ville s'apaise."
       },
       "variants": {
         "rainy": {
@@ -460,7 +506,8 @@
             "de": "Der Tag beginnt feucht an der Sacré-Cœur; prüfen Sie Ihre Bremsen auf nassen Straßen. Mittags bietet der Carmes-Garten unter Bäumen kurzen Schutz, bevor es zum Rathaus geht. Nachmittags ist Vorsicht in den engen Kurven bei der Kapelle geboten. Der Abend endet an der Abtei, wenn die Pfützen das Licht reflektieren; tragen Sie helle, wasserfeste Kleidung für bessere Sichtbarkeit.",
             "hu": "A nap nedves úton indul a Sacré-Cœur templomnál; ellenőrizze a fékeket a vizes aszfalton. Délben a Carmes-kert fái alatt keressen rövid menedéket. Délután legyen óvatos a szűk kanyarokban a kápolna környékén a csúszásveszély miatt. Az este az apátságnál zárul, ahol a pocsolyák visszaverik a fényeket; viseljen élénk, vízálló ruházatot a láthatóságért.",
             "ro": "Ziua începe pe carosabil umed la Sacré-Cœur; verificați frânele pe asfaltul ud. La prânz, arborii din Grădina Carmes oferă un scurt adăpost înainte de primărie. După-amiaza, fiți atenți la virajele strânse de lângă capelă din cauza riscului de derapare. Seara se încheie la abație; purtați haine reflectorizante și impermeabile pentru vizibilitate sporită.",
-            "en": "The day starts on wet roads at Sacré-Cœur; check your brakes on the damp asphalt. At noon, the trees in Carmes Garden offer brief shelter before heading to the Town Hall. In the afternoon, be careful in tight corners near the chapel due to slippery surfaces. The evening ends at the Abbey; wear bright, waterproof gear for better visibility in the rain."
+            "en": "The day starts on wet roads at Sacré-Cœur; check your brakes on the damp asphalt. At noon, the trees in Carmes Garden offer brief shelter before heading to the Town Hall. In the afternoon, be careful in tight corners near the chapel due to slippery surfaces. The evening ends at the Abbey; wear bright, waterproof gear for better visibility in the rain.",
+            "fr": "La journée commence sur des routes mouillées au Sacré-Cœur ; vérifiez vos freins sur l'asphalte humide. À midi, les arbres du Jardin des Carmes offrent un abri bref avant de vous rendre à l'Hôtel de Ville. L'après-midi, soyez prudent dans les virages serrés près de la chapelle à cause des surfaces glissantes. La soirée se termine à l'abbaye ; portez des vêtements imperméables et voyants pour une meilleure visibilité sous la pluie."
           },
           "stops": [
             {
@@ -468,13 +515,15 @@
                 "de": "Église du Sacré-Cœur",
                 "hu": "Église du Sacré-Cœur",
                 "ro": "Église du Sacré-Cœur",
-                "en": "Église du Sacré-Cœur"
+                "en": "Église du Sacré-Cœur",
+                "fr": "Église du Sacré-Cœur"
               },
               "tip_5lang": {
                 "de": "Parken Sie Ihr Rad unter dem Vordach und nutzen Sie die Kirche als trockenen Startpunkt, während Sie den Regenradar prüfen.",
                 "hu": "Parkoljon le a bejárat melletti védett részen, és használja a templomot száraz kiindulópontként, amíg ellenőrzi az esőfelhőket.",
                 "ro": "Parcați bicicleta sub zona protejată de la intrare și folosiți biserica ca punct de plecare uscat în timp ce verificați prognoza.",
-                "en": "Park your bike under the sheltered area by the entrance and use the church as a dry starting point while checking the rain radar."
+                "en": "Park your bike under the sheltered area by the entrance and use the church as a dry starting point while checking the rain radar.",
+                "fr": "Garez votre vélo sous l'abri près de l'entrée et utilisez l'église comme point de départ sec tout en vérifiant le radar pluie."
               }
             },
             {
@@ -482,13 +531,15 @@
                 "de": "Carmes Garden",
                 "hu": "Carmes Garden",
                 "ro": "Carmes Garden",
-                "en": "Carmes Garden"
+                "en": "Carmes Garden",
+                "fr": "Jardin des Carmes"
               },
               "tip_5lang": {
                 "de": "Die Wege können sehr rutschig sein; fahren Sie langsam und meiden Sie nasse Laubansammlungen auf den asphaltierten Pfaden.",
                 "hu": "Az utak ilyenkor nagyon csúszósak lehetnek; haladjon lassan, és kerülje a vizes falevélhalmokat az aszfaltozott sétányokon.",
                 "ro": "Aleeile pot fi foarte alunecoase; pedalați încet și evitați mormanele de frunze ude de pe potecile asfaltate ale grădinii.",
-                "en": "The paths can be very slippery; ride slowly and avoid piles of wet leaves on the paved walkways through the garden."
+                "en": "The paths can be very slippery; ride slowly and avoid piles of wet leaves on the paved walkways through the garden.",
+                "fr": "Les allées peuvent être très glissantes ; roulez lentement et évitez les tas de feuilles mouillées sur les chemins pavés du jardin."
               }
             },
             {
@@ -496,13 +547,15 @@
                 "de": "Hôtel de Ville",
                 "hu": "Hôtel de Ville",
                 "ro": "Hôtel de Ville",
-                "en": "Hôtel de Ville"
+                "en": "Hôtel de Ville",
+                "fr": "Hôtel de Ville"
               },
               "tip_5lang": {
                 "de": "Kurzer Stopp unter den Arkaden des Platzes; achten Sie auf Fußgänger mit Regenschirmen, die oft unvorhersehbar ausweichen.",
                 "hu": "Rövid megálló a tér árkádjai alatt; ügyeljen az esernyős gyalogosokra, akik esőben gyakran kiszámíthatatlanul váltanak irányt.",
                 "ro": "Oprire scurtă sub arcadele pieței; atenție la pietonii cu umbrele care, pe ploaie, își schimbă adesea direcția pe neașteptate.",
-                "en": "Short stop under the square's arcades; watch out for pedestrians with umbrellas who often move unpredictably in the rain."
+                "en": "Short stop under the square's arcades; watch out for pedestrians with umbrellas who often move unpredictably in the rain.",
+                "fr": "Courte halte sous les arcades de la place ; faites attention aux piétons avec parapluies qui se déplacent souvent de façon imprévisible sous la pluie."
               }
             },
             {
@@ -510,13 +563,15 @@
                 "de": "Chapelle Notre-Dame-d'Aurinques",
                 "hu": "Chapelle Notre-Dame-d'Aurinques",
                 "ro": "Chapelle Notre-Dame-d'Aurinques",
-                "en": "Chapelle Notre-Dame-d'Aurinques"
+                "en": "Chapelle Notre-Dame-d'Aurinques",
+                "fr": "Chapelle Notre-Dame-d'Aurinques"
               },
               "tip_5lang": {
                 "de": "Stellen Sie Ihr Fahrrad gesichert an einer Hauswand ab und nutzen Sie die Kapelle für eine kurze Verschnaufpause im Trockenen.",
                 "hu": "Támassza le a kerékpárt egy védett házfal mellé, és használja a kápolnát egy rövid, száraz pihenőre a városnézés közben.",
                 "ro": "Sprijiniți bicicleta de un perete protejat și folosiți capela pentru o scurtă pauză uscată în timpul vizitării orașului.",
-                "en": "Lean your bike against a sheltered wall and use the chapel for a short, dry breather during your city tour in the rain."
+                "en": "Lean your bike against a sheltered wall and use the chapel for a short, dry breather during your city tour in the rain.",
+                "fr": "Appuyez votre vélo contre un mur abrité et utilisez la chapelle pour une courte pause au sec lors de votre visite sous la pluie."
               }
             },
             {
@@ -524,13 +579,15 @@
                 "de": "Saint-Étienne Castle",
                 "hu": "Saint-Étienne Castle",
                 "ro": "Saint-Étienne Castle",
-                "en": "Saint-Étienne Castle"
+                "en": "Saint-Étienne Castle",
+                "fr": "Château Saint-Étienne"
               },
               "tip_5lang": {
                 "de": "Der Anstieg zum Schloss ist bei Nässe anstrengend; achten Sie auf den Bremsweg bei der anschließenden Abfahrt auf nassen Straßen.",
                 "hu": "A kastélyhoz vezető emelkedő esőben megterhelőbb; ügyeljen a megnövekedett féktávolságra a vizes úton való leereszkedéskor.",
                 "ro": "Urcarea spre castel este mai solicitantă pe ploaie; atenție la distanța de frânare mărită la coborârea pe carosabilul umed.",
-                "en": "The climb to the castle is more taxing in the rain; pay close attention to the increased braking distance on the wet descent."
+                "en": "The climb to the castle is more taxing in the rain; pay close attention to the increased braking distance on the wet descent.",
+                "fr": "La montée vers le château est plus exigeante sous la pluie ; prêtez une attention particulière à l'allongement des distances de freinage lors de la descente humide."
               }
             },
             {
@@ -538,13 +595,15 @@
                 "de": "Église Abbatiale Saint-Géraud",
                 "hu": "Église Abbatiale Saint-Géraud",
                 "ro": "Église Abbatiale Saint-Géraud",
-                "en": "Église Abbatiale Saint-Géraud"
+                "en": "Église Abbatiale Saint-Géraud",
+                "fr": "Église Abbatiale Saint-Géraud"
               },
               "tip_5lang": {
                 "de": "Ein idealer Ort, um die Tour trocken zu beenden; die Kirche bietet viel Platz zum Aufwärmen und Trocknen Ihrer Ausrüstung.",
                 "hu": "Ideális hely a túra száraz befejezéséhez; a templom tágas terei lehetőséget adnak a felszerelés rövid megszárítására is.",
                 "ro": "Locul ideal pentru a încheia turul la adăpost; spațiile largi ale bisericii permit uscarea rapidă a echipamentului de ciclism.",
-                "en": "An ideal place to end your tour in the dry; the church's large interior allows you to warm up and dry your gear slightly."
+                "en": "An ideal place to end your tour in the dry; the church's large interior allows you to warm up and dry your gear slightly.",
+                "fr": "Un lieu idéal pour terminer votre circuit à l'abri ; le vaste intérieur de l'église permet de se réchauffer et de faire sécher légèrement votre équipement."
               }
             }
           ]
@@ -554,7 +613,8 @@
             "de": "Starten Sie bei Kälte an der Sacré-Cœur; Handschuhe sind für den Fahrtwind unerlässlich. Mittags bietet der Carmes-Garten klare Luft, aber kühle schattige Wege. Am Nachmittag geht es bergauf zum Schloss, was Sie warm hält, bevor die Sonne früh sinkt. Der Abend endet an der Abtei bei Frostgefahr; beenden Sie Ihre Tour vor Einbruch der Dunkelheit um 17 Uhr wegen der Glätte.",
             "hu": "Induljon a hidegben a Sacré-Cœur-től; a kesztyű elengedhetetlen a menetszél ellen. Délben a Carmes-kert tiszta levegőt, de hűvös, árnyékos utakat kínál. Délután a kastélyhoz vezető emelkedő segít melegen tartani a testét. Az este az apátságnál zárul fagyveszéllyel; fejezze be a túrát a 17 órai sötétedés előtt a csúszós utak miatt.",
             "ro": "Porniți în frig de la Sacré-Cœur; mănușile sunt esențiale împotriva vântului la pedalat. La prânz, Grădina Carmes oferă aer curat, dar alee umbroase și reci. După-amiaza, urcarea spre castel vă va ajuta să vă încălziți. Seara se încheie la abație; terminați turul înainte de lăsarea întunericului la ora 17 din cauza înghețului.",
-            "en": "Start in the cold at Sacré-Cœur; gloves are essential against the wind chill while riding. At noon, Carmes Garden offers crisp air but chilly shaded paths. In the afternoon, the climb to the castle helps keep you warm as the sun sets early. The evening ends at the Abbey with a risk of frost; finish your tour before the 5 PM darkness for safety."
+            "en": "Start in the cold at Sacré-Cœur; gloves are essential against the wind chill while riding. At noon, Carmes Garden offers crisp air but chilly shaded paths. In the afternoon, the climb to the castle helps keep you warm as the sun sets early. The evening ends at the Abbey with a risk of frost; finish your tour before the 5 PM darkness for safety.",
+            "fr": "Commencez dans le froid au Sacré-Cœur ; des gants sont indispensables contre la sensation de froid au vent en roulant. À midi, le Jardin des Carmes offre un air vif mais des chemins ombragés et frais. L'après-midi, la montée au château aide à conserver la chaleur alors que le soleil se couche tôt. La soirée se termine à l'abbaye avec un risque de gel ; terminez votre circuit avant l'obscurité de 17:00 pour la sécurité."
           },
           "stops": [
             {
@@ -562,13 +622,15 @@
                 "de": "Église du Sacré-Cœur",
                 "hu": "Église du Sacré-Cœur",
                 "ro": "Église du Sacré-Cœur",
-                "en": "Église du Sacré-Cœur"
+                "en": "Église du Sacré-Cœur",
+                "fr": "Église du Sacré-Cœur"
               },
               "tip_5lang": {
                 "de": "Wärmen Sie sich kurz im Inneren auf, bevor Sie losfahren; der Kontrast zur kalten Außenluft erfordert eine gute Atmung.",
                 "hu": "Melegedjen fel egy kicsit bent az indulás előtt; a benti hőmérséklet és a kinti hideg menetszél közötti váltás próbára teszi a tüdőt.",
                 "ro": "Încălziți-vă puțin în interior înainte de plecare; trecerea la aerul rece de afară necesită o respirație controlată la pedalat.",
-                "en": "Warm up briefly inside before starting your ride; the contrast with the cold outside air requires careful breathing while cycling."
+                "en": "Warm up briefly inside before starting your ride; the contrast with the cold outside air requires careful breathing while cycling.",
+                "fr": "Réchauffez-vous brièvement à l'intérieur avant de commencer votre parcours ; le contraste avec l'air froid extérieur exige une respiration maîtrisée en roulant."
               }
             },
             {
@@ -576,13 +638,15 @@
                 "de": "Carmes Garden",
                 "hu": "Carmes Garden",
                 "ro": "Carmes Garden",
-                "en": "Carmes Garden"
+                "en": "Carmes Garden",
+                "fr": "Jardin des Carmes"
               },
               "tip_5lang": {
                 "de": "Achten Sie auf Raureif auf den Wegen; die schattigen Bereiche des Gartens bleiben den ganzen Tag über gefroren und rutschig.",
                 "hu": "Ügyeljen a zúzmarás utakra; a kert árnyékos részei egész nap fagyosak és csúszósak maradhatnak a téli időszakban.",
                 "ro": "Atenție la chiciura de pe alei; zonele umbroase ale grădinii rămân înghețate și alunecoase pe tot parcursul zilei în timpul iernii.",
-                "en": "Watch out for frost on the paths; the shaded areas of the garden often remain frozen and slippery throughout the entire day."
+                "en": "Watch out for frost on the paths; the shaded areas of the garden often remain frozen and slippery throughout the entire day.",
+                "fr": "Attention au gel sur les sentiers ; les zones ombragées du jardin restent souvent gelées et glissantes toute la journée."
               }
             },
             {
@@ -590,13 +654,15 @@
                 "de": "Hôtel de Ville",
                 "hu": "Hôtel de Ville",
                 "ro": "Hôtel de Ville",
-                "en": "Hôtel de Ville"
+                "en": "Hôtel de Ville",
+                "fr": "Hôtel de Ville"
               },
               "tip_5lang": {
                 "de": "Ein kurzer Stopp in der Kälte des Platzes; halten Sie die Pausen kurz, um nicht auszukühlen, während Sie das Rathaus betrachten.",
                 "hu": "Rövid megálló a téli hidegben; tartsa röviden a pihenőt, hogy ne hűljön ki a teste, miközben a városházát csodálja.",
                 "ro": "Oprire scurtă în gerul pieței; păstrați pauzele scurte pentru a nu vă răci corpul în timp ce admirați clădirea primăriei.",
-                "en": "A brief stop in the winter cold of the square; keep your breaks short to prevent cooling down while viewing the town hall."
+                "en": "A brief stop in the winter cold of the square; keep your breaks short to prevent cooling down while viewing the town hall.",
+                "fr": "Courte halte dans le froid hivernal de la place ; gardez vos pauses courtes pour éviter de vous refroidir tout en admirant l'hôtel de ville."
               }
             },
             {
@@ -604,13 +670,15 @@
                 "de": "Chapelle Notre-Dame-d'Aurinques",
                 "hu": "Chapelle Notre-Dame-d'Aurinques",
                 "ro": "Chapelle Notre-Dame-d'Aurinques",
-                "en": "Chapelle Notre-Dame-d'Aurinques"
+                "en": "Chapelle Notre-Dame-d'Aurinques",
+                "fr": "Chapelle Notre-Dame-d'Aurinques"
               },
               "tip_5lang": {
                 "de": "Die Kapelle ist ein idealer Ort, um die kalten Finger kurz zu wärmen, bevor es an den anstrengenden Aufstieg zum Schloss geht.",
                 "hu": "A kápolna ideális hely a hideg ujjai rövid felmelegítésére, mielőtt belevágna a kastélyhoz vezető megerőltető emelkedőbe.",
                 "ro": "Capela este locul ideal pentru a vă încălzi scurt degetele înghețate înainte de a începe urcarea solicitantă spre castel.",
-                "en": "The chapel is an ideal spot to briefly warm your cold fingers before starting the strenuous climb up to the castle."
+                "en": "The chapel is an ideal spot to briefly warm your cold fingers before starting the strenuous climb up to the castle.",
+                "fr": "La chapelle est un endroit idéal pour réchauffer brièvement vos doigts engourdis avant d'entamer la montée exigeante vers le château."
               }
             },
             {
@@ -618,13 +686,15 @@
                 "de": "Saint-Étienne Castle",
                 "hu": "Saint-Étienne Castle",
                 "ro": "Saint-Étienne Castle",
-                "en": "Saint-Étienne Castle"
+                "en": "Saint-Étienne Castle",
+                "fr": "Château Saint-Étienne"
               },
               "tip_5lang": {
                 "de": "Der Panoramablick ist bei klarer Winterluft fantastisch; tragen Sie eine Mütze unter dem Helm wegen des starken Winds auf der Höhe.",
                 "hu": "A panoráma fantasztikus a tiszta téli levegőben; viseljen sapkát a sisak alatt a magaslaton fújó metsző szél miatt.",
                 "ro": "Panorama este fantastică în aerul curat de iarnă; purtați o căciulă sub cască din cauza vântului tăios de la înălțime.",
-                "en": "The panoramic view is fantastic in the clear winter air; wear a thermal cap under your helmet due to the biting winds on the hill."
+                "en": "The panoramic view is fantastic in the clear winter air; wear a thermal cap under your helmet due to the biting winds on the hill.",
+                "fr": "La vue panoramique est fantastique dans l'air clair d'hiver ; portez un bonnet thermique sous votre casque à cause des vents mordants sur la colline."
               }
             },
             {
@@ -632,13 +702,15 @@
                 "de": "Église Abbatiale Saint-Géraud",
                 "hu": "Église Abbatiale Saint-Géraud",
                 "ro": "Église Abbatiale Saint-Géraud",
-                "en": "Église Abbatiale Saint-Géraud"
+                "en": "Église Abbatiale Saint-Géraud",
+                "fr": "Église Abbatiale Saint-Géraud"
               },
               "tip_5lang": {
                 "de": "Beenden Sie Ihre Tour hier und wärmen Sie sich ausgiebig auf; achten Sie beim Absteigen auf gefrorenes Pflaster am Kircheneingang.",
                 "hu": "Itt fejezze be a túrát és melegedjen fel alaposan; a kerékpárról leszállva ügyeljen a fagyott macskakövekre a bejáratnál.",
                 "ro": "Încheiați turul aici și încălziți-vă bine; la coborârea de pe bicicletă, atenție la pavajul înghețat de la intrarea în biserică.",
-                "en": "End your tour here and warm up thoroughly; when dismounting, watch out for frozen cobblestones at the church entrance."
+                "en": "End your tour here and warm up thoroughly; when dismounting, watch out for frozen cobblestones at the church entrance.",
+                "fr": "Terminez votre circuit ici et réchauffez-vous correctement ; en descendant de vélo, faites attention aux pavés gelés à l'entrée de l'église."
               }
             }
           ]
@@ -658,7 +730,8 @@
             "de": "Miny toons",
             "hu": "Miny toons",
             "ro": "Miny toons",
-            "en": "Miny toons"
+            "en": "Miny toons",
+            "fr": "Miny toons"
           },
           "coords": [
             2.42321,
@@ -673,7 +746,8 @@
             "de": "Gönnen Sie den jüngeren Reisenden eine energiegeladene Sitzung in diesem beliebten Familienunterhaltungszentrum, wo das Mitbringen rutschfester Socken von zu Hause Ihnen an der Kasse Zeit und Geld spart.",
             "hu": "Ajándékozza meg a fiatalabb utazókat egy energikus programmal ebben a népszerű családi szórakoztató központban, ahol az otthonról hozott csúszásgátló zoknival időt és pénzt takaríthat meg a bejáratnál.",
             "ro": "Oferiți tinerilor călători o sesiune plină de energie la acest popular centru de divertisment de familie, unde aducerea de șosete antiderapante de acasă vă va economisi timp și bani la intrare.",
-            "en": "Treat the younger travelers to an energetic session at this popular family entertainment center, where bringing non-slip socks from home will save you time and money at the entrance."
+            "en": "Treat the younger travelers to an energetic session at this popular family entertainment center, where bringing non-slip socks from home will save you time and money at the entrance.",
+            "fr": "Offrez aux plus jeunes une séance énergique dans ce centre de divertissement familial populaire ; des chaussettes antidérapantes apportées de chez vous vous feront économiser temps et argent à l'entrée."
           }
         },
         {
@@ -681,7 +755,8 @@
             "de": "Fanum d'Aron",
             "hu": "Fanum d'Aron",
             "ro": "Fanum d'Aron",
-            "en": "Fanum d'Aron"
+            "en": "Fanum d'Aron",
+            "fr": "Fanum d'Aron"
           },
           "coords": [
             2.421426,
@@ -696,7 +771,8 @@
             "de": "Spazieren Sie durch die alten Fundamente dieses gallorömischen Tempels, der lokalen Gottheiten gewidmet ist, und tragen Sie feste Wanderschuhe, da das Gelände rund um die archäologische Stätte etwas uneben sein kann.",
             "hu": "Sétáljon a helyi istenségeknek szentelt gall-római templom ősi alapjai között, de viseljen kényelmes túracipőt, mivel a régészeti lelőhely körüli terep némileg egyenetlen lehet.",
             "ro": "Plimbați-vă printre fundațiile antice ale acestui templu galo-roman dedicat zeităților locale și purtați pantofi rezistenți de mers, deoarece terenul din jurul sitului arheologic poate fi destul de denivelat.",
-            "en": "Walk among the ancient foundations of this Gallo-Roman temple dedicated to local deities, and wear sturdy walking shoes as the terrain around the archaeological site can be somewhat uneven."
+            "en": "Walk among the ancient foundations of this Gallo-Roman temple dedicated to local deities, and wear sturdy walking shoes as the terrain around the archaeological site can be somewhat uneven.",
+            "fr": "Marchez parmi les fondations anciennes de ce sanctuaire gallo-romain dédié aux divinités locales, et portez des chaussures de randonnée solides car le terrain autour du site archéologique peut être inégal."
           }
         },
         {
@@ -704,7 +780,8 @@
             "de": "Carmes Garden",
             "hu": "Carmes Garden",
             "ro": "Carmes Garden",
-            "en": "Carmes Garden"
+            "en": "Carmes Garden",
+            "fr": "Jardin des Carmes"
           },
           "coords": [
             2.443288,
@@ -719,7 +796,8 @@
             "de": "Entspannen Sie sich auf den schattigen Wegen dieses wunderschön gepflegten Stadtparks und packen Sie etwas lokalen Käse und frisches Brot für ein herrliches Picknick auf den gepflegten Rasenflächen ein.",
             "hu": "Pihenjen meg ennek a gyönyörűen karbantartott városi parknak az árnyékos ösvényein, és hozzon magával egy kis helyi sajtot, valamint friss kenyeret egy kellemes piknikhez a gondozott pázsiton.",
             "ro": "Relaxați-vă pe aleile umbrite ale acestui parc urban frumos întreținut și aduceți cu voi niște brânză locală și pâine proaspătă pentru un picnic încântător pe peluzele sale îngrijite.",
-            "en": "Relax along the shaded pathways of this beautifully maintained urban park, and pack some local cheese and fresh bread for a delightful picnic on its manicured lawns."
+            "en": "Relax along the shaded pathways of this beautifully maintained urban park, and pack some local cheese and fresh bread for a delightful picnic on its manicured lawns.",
+            "fr": "Détendez-vous le long des allées ombragées de ce parc urbain magnifiquement entretenu et emportez du fromage local et du pain frais pour un délicieux pique-nique sur ses pelouses soignées."
           }
         },
         {
@@ -727,7 +805,8 @@
             "de": "Église Notre-Dame-aux-Neiges",
             "hu": "Église Notre-Dame-aux-Neiges",
             "ro": "Église Notre-Dame-aux-Neiges",
-            "en": "Église Notre-Dame-aux-Neiges"
+            "en": "Église Notre-Dame-aux-Neiges",
+            "fr": "Église Notre-Dame-aux-Neiges"
           },
           "coords": [
             2.443382,
@@ -742,7 +821,8 @@
             "de": "Erkunden Sie die eleganten Linien und die heilige Atmosphäre dieser bemerkenswerten Kirche und achten Sie auf die aufwendig geschnitzten Holzdetails, die ihr friedliches Heiligtum schmücken.",
             "hu": "Fedezze fel e figyelemre méltó templom elegáns vonalait és szakrális atmoszféráját, miközben érdemes megfigyelni a békés szentélyt díszítő, bonyolult fafaragásokat.",
             "ro": "Explorați liniile elegante și atmosfera sacră a acestei biserici notabile, fiind atenți la detaliile din lemn sculptate complicat care îi împodobesc sanctuarul pașnic.",
-            "en": "Explore the elegant lines and sacred atmosphere of this notable church, keeping an eye out for the intricately carved wooden details that adorn its peaceful sanctuary."
+            "en": "Explore the elegant lines and sacred atmosphere of this notable church, keeping an eye out for the intricately carved wooden details that adorn its peaceful sanctuary.",
+            "fr": "Explorez les lignes élégantes et l'atmosphère sacrée de cette église remarquable, en surveillant les détails en bois finement sculptés qui ornent son paisible sanctuaire."
           }
         },
         {
@@ -750,7 +830,8 @@
             "de": "Saint-Étienne Castle",
             "hu": "Saint-Étienne Castle",
             "ro": "Saint-Étienne Castle",
-            "en": "Saint-Étienne Castle"
+            "en": "Saint-Étienne Castle",
+            "fr": "Saint-Étienne Castle"
           },
           "coords": [
             2.44595,
@@ -765,7 +846,8 @@
             "de": "Entdecken Sie die hoch aufragenden Zinnen und das reiche Regionalmuseum in dieser imposanten mittelalterlichen Festung, und vergessen Sie nicht, den Hauptfriedrich zu besteigen, um einen weiten Panoramablick über die Dächer von Aurillac zu genießen.",
             "hu": "Fedezze fel az impozáns középkori erődítmény magasodó bástyáit és gazdag regionális múzeumát, és ne hagyja ki a főtorony megmászását sem, ahonnan pazar panoráma nyílik Aurillac háztetőire.",
             "ro": "Descoperiți crenelurile falnice și bogatul muzeu regional găzduit în această impunătoare fortăreață medievală și nu uitați să urcați în turnul principal pentru vederi panoramice ample asupra acoperișurilor din Aurillac.",
-            "en": "Discover the towering battlements and rich regional museum housed within this imposing medieval fortress, and don't forget to climb the main keep for sweeping panoramic views over the Aurillac rooftops."
+            "en": "Discover the towering battlements and rich regional museum housed within this imposing medieval fortress, and don't forget to climb the main keep for sweeping panoramic views over the Aurillac rooftops.",
+            "fr": "Découvrez les hautes remparts et le riche musée régional abrités dans cette imposante forteresse médiévale, et n'oubliez pas de gravir le donjon principal pour une vue panoramique sur les toits d'Aurillac."
           }
         },
         {
@@ -773,7 +855,8 @@
             "de": "Église Abbatiale Saint-Géraud",
             "hu": "Église Abbatiale Saint-Géraud",
             "ro": "Église Abbatiale Saint-Géraud",
-            "en": "Église Abbatiale Saint-Géraud"
+            "en": "Église Abbatiale Saint-Géraud",
+            "fr": "Église Abbatiale Saint-Géraud"
           },
           "coords": [
             2.448498,
@@ -788,7 +871,8 @@
             "de": "Bewundern Sie die großartigen Dimensionen und die historische Tiefe dieser Abteikirche, die das spirituelle Erbe der Stadt verankert, und nehmen Sie sich Zeit für einen langsamen Spaziergang um das Äußere, um die Mauerwerksarbeiten zu schätzen.",
             "hu": "Csodálja meg ennek az apátsági templomnak a lenyűgöző méreteit és történelmi mélységét, amely a város szellemi örökségét őrzi, és szánjon időt egy lassú sétára a külső falak körül a kőművesmunka megfigyelésére.",
             "ro": "Minunați-vă de dimensiunile grandioase și profunzimea istorică a acestei biserici abațiale care ancorează moștenirea spirituală a orașului, făcându-vă timp să vă plimbați încet pe exterior pentru a aprecia zidăria.",
-            "en": "Marvel at the grand dimensions and historical depth of this abbey church that anchors the city's spiritual heritage, taking time to walk slowly around the exterior to appreciate the masonry work."
+            "en": "Marvel at the grand dimensions and historical depth of this abbey church that anchors the city's spiritual heritage, taking time to walk slowly around the exterior to appreciate the masonry work.",
+            "fr": "Admirez les grandes dimensions et la profondeur historique de cette église abbatiale qui ancre le patrimoine spirituel de la ville; prenez le temps de marcher lentement autour de l'extérieur pour apprécier la maçonnerie."
           }
         }
       ],
@@ -796,7 +880,8 @@
         "de": "Beginnen Sie Ihre Fahrtroute am Stadtrand mit einem spielerischen Start bei Miny Toons, gefolgt von der Erkundung der alten Ruinen des Fanum d'Aron. Kehren Sie mittags in die Innenstadt zurück, um zu parken und die Ruhe des Carmes-Gartens und der Église Notre-Dame-aux-Neiges zu genießen. Fahren Sie nachmittags zu den Höhen des Schlosses Saint-Étienne, um jahrhundertelange Geschichte aufzunehmen. Schließen Sie Ihren Roadtrip vor der Dämmerung an der Biserica Abațială ab.",
         "hu": "Kezdje autós útitervét a külvárosban egy vidám megállóval a Miny Toons-nál, amelyet a Fanum d'Aron ókori romjainak felfedezése követ. Délre érjen vissza a városközpontba, hogy leparkolva élvezze a Carmes-kert és az Église Notre-Dame-aux-Neiges nyugalmát. Délután hajtson fel a Saint-Étienne kastély parancsoló magasságaiba, hogy magába szívja a történelmet. Zárja az átfogó autós kirándulást a lenyűgöző Église Abbatiale Saint-Géraud templomnál szürkület előtt.",
         "ro": "Începeți traseul auto la periferie cu un start ludic la Miny Toons, urmat rapid de explorarea ruinelor antice de la Fanum d'Aron. Ajungeți înapoi în centrul orașului la prânz pentru a parca și a vă bucura de liniștea Grădinii Carmes și a Église Notre-Dame-aux-Neiges. Pentru după-amiază, conduceți până la înălțimile impunătoare ale Castelului Saint-Étienne pentru a absorbi secole de istorie. Încheiați călătoria cuprinzătoare la impresionanta Église Abbatiale Saint-Géraud.",
-        "en": "Begin your driving itinerary on the outskirts with a playful start at Miny Toons, quickly followed by exploring the ancient ruins of Fanum d'Aron. Arrive back in the city center by midday to park and enjoy the tranquility of the Carmes Garden and Église Notre-Dame-aux-Neiges. For the afternoon, drive up to the commanding heights of Saint-Étienne Castle to absorb centuries of history. Conclude your comprehensive road trip at the awe-inspiring Église Abbatiale Saint-Géraud before dusk."
+        "en": "Begin your driving itinerary on the outskirts with a playful start at Miny Toons, quickly followed by exploring the ancient ruins of Fanum d'Aron. Arrive back in the city center by midday to park and enjoy the tranquility of the Carmes Garden and Église Notre-Dame-aux-Neiges. For the afternoon, drive up to the commanding heights of Saint-Étienne Castle to absorb centuries of history. Conclude your comprehensive road trip at the awe-inspiring Église Abbatiale Saint-Géraud before dusk.",
+        "fr": "Commencez votre itinéraire en voiture en périphérie par un départ ludique à Miny Toons, poursuivez rapidement par l'exploration des ruines antiques du Fanum d'Aron. Revenez au centre-ville avant midi pour vous garer et profiter de la tranquillité du jardin des Carmes et de l'Église Notre-Dame-aux-Neiges. L'après-midi, montez aux hauteurs imposantes du Saint-Étienne Castle pour absorber des siècles d'histoire. Concluez votre voyage complet à l'aube du crépuscule à l'impressionnante Église Abbatiale Saint-Géraud."
       },
       "variants": {
         "rainy": {
@@ -804,7 +889,8 @@
             "de": "Starten Sie trocken bei Miny Toons, ideal für Familien bei Regen. Mittags bietet der Parkplatz am Carmes-Garten schnellen Zugang zu überdachten Wegen. Nachmittags ist die Fahrt zum Schloss sicher, aber der Nebel kann die Sicht trüben. Der Abend endet an der Abtei; nutzen Sie die Parkplätze in der Nähe, um nur kurze Strecken durch den Regen laufen zu müssen.",
             "hu": "Kezdje a napot szárazon a Miny Toonsnál, ami ideális családi program esőben. Délben a Carmes-kert közeli parkolója gyors hozzáférést biztosít a fedettebb ösvényekhez. Délután a kastélyhoz vezető út biztonságos, de a köd ronthatja a kilátást. Az este az apátságnál zárul; használja a közeli parkolókat, hogy csak pár lépést kelljen megtennie az esőben.",
             "ro": "Începeți ziua la adăpost la Miny Toons, ideal pentru familii pe ploaie. La prânz, parcarea de lângă Grădina Carmes oferă acces rapid la aleile mai protejate. După-amiaza, drumul spre castel este sigur, dar ceața poate reduce vizibilitatea. Seara se încheie la abație; folosiți parcările din apropiere pentru a merge cât mai puțin prin ploaie.",
-            "en": "Start your day dry at Miny Toons, ideal for families during rain. At noon, the parking near Carmes Garden allows quick access to sheltered paths. In the afternoon, the drive to the castle is safe, but mist might obscure the view. The evening ends at the Abbey; park as close as possible to minimize your time spent walking in the rain."
+            "en": "Start your day dry at Miny Toons, ideal for families during rain. At noon, the parking near Carmes Garden allows quick access to sheltered paths. In the afternoon, the drive to the castle is safe, but mist might obscure the view. The evening ends at the Abbey; park as close as possible to minimize your time spent walking in the rain.",
+            "fr": "Commencez votre journée au sec à Miny Toons, idéal pour les familles par temps de pluie. À midi, le parking près du jardin des Carmes permet d'accéder rapidement aux allées abritées. L'après-midi, la route vers le château est sûre, mais la brume peut obscurcir la vue. La soirée se termine à l'abbaye ; garez-vous au plus près pour minimiser le temps de marche sous la pluie."
           },
           "stops": [
             {
@@ -812,13 +898,15 @@
                 "de": "Miny toons",
                 "hu": "Miny toons",
                 "ro": "Miny toons",
-                "en": "Miny toons"
+                "en": "Miny toons",
+                "fr": "Miny toons"
               },
               "tip_5lang": {
                 "de": "Ein perfekter Indoor-Ort für Kinder bei Regen; parken Sie direkt davor, um trocken ins Gebäude zu gelangen.",
                 "hu": "Tökéletes beltéri helyszín gyerekekkel esős időben; parkoljon közvetlenül az épület előtt, hogy szárazon jusson be.",
                 "ro": "Locație interioară perfectă pentru copii pe timp de ploaie; parcați chiar în față pentru a intra uscați în clădire.",
-                "en": "Perfect indoor location for children during rainy weather; park directly in front to enter the building without getting wet."
+                "en": "Perfect indoor location for children during rainy weather; park directly in front to enter the building without getting wet.",
+                "fr": "Lieu intérieur parfait pour les enfants pendant les jours de pluie ; garez-vous directement devant pour entrer sans vous mouiller."
               }
             },
             {
@@ -826,13 +914,15 @@
                 "de": "Fanum d'Aron",
                 "hu": "Fanum d'Aron",
                 "ro": "Fanum d'Aron",
-                "en": "Fanum d'Aron"
+                "en": "Fanum d'Aron",
+                "fr": "Fanum d'Aron"
               },
               "tip_5lang": {
                 "de": "Betrachten Sie die Ruinen bei starkem Regen vom Auto aus oder nutzen Sie eine kurze Regenpause für einen schnellen Blick mit Schirm.",
                 "hu": "Erős esőben nézze meg a romokat az autóból, vagy használjon ki egy rövid záporszünetet egy gyors, esernyős megtekintéshez.",
                 "ro": "Admirați ruinele din mașină dacă plouă torențial sau profitați de o pauză scurtă de ploaie pentru o vizită rapidă cu umbrela.",
-                "en": "View the ruins from the car during heavy rain or take advantage of a short break in the downpour for a quick look with an umbrella."
+                "en": "View the ruins from the car during heavy rain or take advantage of a short break in the downpour for a quick look with an umbrella.",
+                "fr": "Observez les ruines depuis la voiture en cas de fortes averses ou profitez d'une courte accalmie pour un rapide coup d'œil sous un parapluie."
               }
             },
             {
@@ -840,13 +930,15 @@
                 "de": "Carmes Garden",
                 "hu": "Carmes Garden",
                 "ro": "Carmes Garden",
-                "en": "Carmes Garden"
+                "en": "Carmes Garden",
+                "fr": "Carmes Garden"
               },
               "tip_5lang": {
                 "de": "Nutzen Sie den Parkplatz direkt am Eingang; so können Sie den Garten auch bei wechselhaftem Wetter flexibel und schnell besuchen.",
                 "hu": "Használja a közvetlenül a bejáratnál lévő parkolót; így változékony időben is rugalmasan és gyorsan meglátogathatja a kertet.",
                 "ro": "Folosiți parcarea situată chiar la intrare; astfel puteți vizita grădina rapid și flexibil chiar și pe vreme schimbătoare.",
-                "en": "Use the parking lot right at the entrance; this allows you to visit the garden quickly and flexibly even in changeable weather."
+                "en": "Use the parking lot right at the entrance; this allows you to visit the garden quickly and flexibly even in changeable weather.",
+                "fr": "Utilisez le parking juste à l'entrée ; cela vous permet de visiter le jardin rapidement et avec souplesse même par temps changeant."
               }
             },
             {
@@ -854,13 +946,15 @@
                 "de": "Église Notre-Dame-aux-Neiges",
                 "hu": "Église Notre-Dame-aux-Neiges",
                 "ro": "Église Notre-Dame-aux-Neiges",
-                "en": "Église Notre-Dame-aux-Neiges"
+                "en": "Église Notre-Dame-aux-Neiges",
+                "fr": "Église Notre-Dame-aux-Neiges"
               },
               "tip_5lang": {
                 "de": "Parken Sie in den umliegenden Straßen; die Kirche bietet einen weitläufigen, trockenen Raum zum Ausruhen während eines Schauers.",
                 "hu": "Parkoljon a környező utcákban; a templom tágas, száraz terei kiváló pihenőhelyet nyújtanak egy-egy nagyobb zápor idején.",
                 "ro": "Parcați pe străzile din jur; interiorul spațios și uscat al bisericii oferă un loc de odihnă excelent în timpul unei ploi torențiale.",
-                "en": "Park in the surrounding streets; the church's spacious, dry interior provides an excellent resting spot during a heavy shower."
+                "en": "Park in the surrounding streets; the church's spacious, dry interior provides an excellent resting spot during a heavy shower.",
+                "fr": "Garez-vous dans les rues avoisinantes ; l'intérieur spacieux et sec de l'église offre un excellent point de repos lors d'une forte averse."
               }
             },
             {
@@ -868,13 +962,15 @@
                 "de": "Saint-Étienne Castle",
                 "hu": "Saint-Étienne Castle",
                 "ro": "Saint-Étienne Castle",
-                "en": "Saint-Étienne Castle"
+                "en": "Saint-Étienne Castle",
+                "fr": "Saint-Étienne Castle"
               },
               "tip_5lang": {
                 "de": "Die Auffahrt ist sicher; genießen Sie die Aussicht bei Regen aus dem geschützten Wagen, bevor Sie das Schloss kurz besichtigen.",
                 "hu": "A felvezető út biztonságos; élvezze a kilátást az autó védelméből az esőben, mielőtt tennne egy rövid látogatást a kastélyban.",
                 "ro": "Drumul de acces este sigur; bucurați-vă de priveliște din protecția mașinii pe ploaie, înainte de a vizita scurt castelul.",
-                "en": "The access road is safe; enjoy the panoramic view from the comfort of your car during the rain before a quick visit to the castle."
+                "en": "The access road is safe; enjoy the panoramic view from the comfort of your car during the rain before a quick visit to the castle.",
+                "fr": "La route d'accès est sûre ; profitez de la vue panoramique depuis le confort de votre voiture pendant la pluie avant une visite rapide du château."
               }
             },
             {
@@ -882,13 +978,15 @@
                 "de": "Église Abbatiale Saint-Géraud",
                 "hu": "Église Abbatiale Saint-Géraud",
                 "ro": "Église Abbatiale Saint-Géraud",
-                "en": "Église Abbatiale Saint-Géraud"
+                "en": "Église Abbatiale Saint-Géraud",
+                "fr": "Église Abbatiale Saint-Géraud"
               },
               "tip_5lang": {
                 "de": "Ein idealer Endpunkt; parken Sie nah am Eingang, um die historische Abtei ohne langes Gehen im Regen zu erkunden.",
                 "hu": "Ideális befejező pont; parkoljon közel a bejárathoz, hogy esőben is kényelmesen felfedezhesse a történelmi apátságot.",
                 "ro": "Punct de final ideal; parcați aproape de intrare pentru a explora abația istorică fără a merge mult prin ploaie.",
-                "en": "An ideal final stop; park close to the entrance to explore the historic abbey comfortably without walking long in the rain."
+                "en": "An ideal final stop; park close to the entrance to explore the historic abbey comfortably without walking long in the rain.",
+                "fr": "Un arrêt final idéal ; garez-vous près de l'entrée pour explorer l'abbaye historique confortablement sans marcher longtemps sous la pluie."
               }
             }
           ]
@@ -898,7 +996,8 @@
             "de": "Starten Sie warm im Auto bei Miny Toons, ideal für einen kalten Vormittag. Mittags bietet der Carmes-Garten frische Luft; heizen Sie den Wagen vor der Weiterfahrt gut auf. Nachmittags ist die Straße zum Schloss meist geräumt, aber Vorsicht vor Eis in Kurven. Der Abend endet an der Abtei; beenden Sie die Tour vor 17 Uhr, um die schwierigen Fahrbedingungen bei nächtlichem Frost zu vermeiden.",
             "hu": "Kezdje a napot az autó melegében a Miny Toonsnál, ami ideális a hideg délelőttön. Délben a Carmes-kert friss levegőt kínál; fűtse fel az autót a továbbindulás előtt. Délután a kastélyhoz vezető út általában takarított, de vigyázzon a kanyarokban az éjszakai fagy miatt. Az este az apátságnál zárul; fejezze be a túrát 17 óra előtt a sötétben kezdődő jegesedés miatt.",
             "ro": "Începeți ziua în căldura mașinii la Miny Toons, ideal pentru o dimineață geroasă. La prânz, Grădina Carmes oferă aer curat; încălziți bine mașina înainte de plecare. După-amiaza, drumul spre castel este curățat, dar atenție la gheață în viraje. Seara se încheie la abație; terminați turul înainte de ora 17 pentru a evita poleiul nocturn.",
-            "en": "Start in the warmth of your car at Miny Toons, ideal for a cold morning. At noon, Carmes Garden offers crisp air; make sure to heat the car well before moving on. In the afternoon, the road to the castle is usually cleared, but watch for ice in shaded turns. The evening ends at the Abbey; finish your tour by 5 PM to avoid driving during the onset of night frost."
+            "en": "Start in the warmth of your car at Miny Toons, ideal for a cold morning. At noon, Carmes Garden offers crisp air; make sure to heat the car well before moving on. In the afternoon, the road to the castle is usually cleared, but watch for ice in shaded turns. The evening ends at the Abbey; finish your tour by 5 PM to avoid driving during the onset of night frost.",
+            "fr": "Commencez au chaud dans votre voiture à Miny Toons, idéal pour une matinée froide. À midi, le jardin des Carmes offre un air vif ; chauffez bien la voiture avant de repartir. L'après-midi, la route vers le château est généralement dégagée, mais surveillez le verglas dans les virages ombragés. La soirée se termine à l'abbaye ; terminez votre visite avant 17h pour éviter de conduire au moment où le gel nocturne commence."
           },
           "stops": [
             {
@@ -906,13 +1005,15 @@
                 "de": "Miny toons",
                 "hu": "Miny toons",
                 "ro": "Miny toons",
-                "en": "Miny toons"
+                "en": "Miny toons",
+                "fr": "Miny toons"
               },
               "tip_5lang": {
                 "de": "Nutzen Sie diesen beheizten Indoor-Ort, um den Kindern an einem frostigen Wintertag Bewegung im Warmen zu ermöglichen.",
                 "hu": "Használja ezt a fűtött beltéri helyszínt, hogy a gyerekek a fagyos téli napon is mozoghassanak egy kicsit a melegben.",
                 "ro": "Folosiți această locație interioară încălzită pentru a le permite copiilor să se joace la căldură într-o zi geroasă de iarnă.",
-                "en": "Use this heated indoor location to let the children play in the warmth on a freezing winter day."
+                "en": "Use this heated indoor location to let the children play in the warmth on a freezing winter day.",
+                "fr": "Utilisez ce lieu intérieur chauffé pour laisser les enfants jouer au chaud lors d'une journée d'hiver glaciale."
               }
             },
             {
@@ -920,13 +1021,15 @@
                 "de": "Fanum d'Aron",
                 "hu": "Fanum d'Aron",
                 "ro": "Fanum d'Aron",
-                "en": "Fanum d'Aron"
+                "en": "Fanum d'Aron",
+                "fr": "Fanum d'Aron"
               },
               "tip_5lang": {
                 "de": "Die Ruinen sind im Reif oder Schnee fotogen; steigen Sie nur kurz aus, da der Wind auf dem freien Gelände sehr kalt sein kann.",
                 "hu": "A romok nagyon fotogének zúzmarás vagy havas időben; csak rövid időre szálljon ki, mert a nyílt terepen a szél nagyon hideg lehet.",
                 "ro": "Ruinele sunt foarte fotogenice când sunt acoperite de chiciură; coborâți doar scurt din mașină, vântul pe teren deschis fiind tăios.",
-                "en": "The ruins are very photogenic in the frost or snow; disembark only briefly as the wind on the open site can be very cold."
+                "en": "The ruins are very photogenic in the frost or snow; disembark only briefly as the wind on the open site can be very cold.",
+                "fr": "Les ruines sont très photogéniques sous le givre ou la neige ; descendez du véhicule seulement brièvement car le vent sur le site ouvert peut être très froid."
               }
             },
             {
@@ -934,13 +1037,15 @@
                 "de": "Carmes Garden",
                 "hu": "Carmes Garden",
                 "ro": "Carmes Garden",
-                "en": "Carmes Garden"
+                "en": "Carmes Garden",
+                "fr": "Carmes Garden"
               },
               "tip_5lang": {
                 "de": "Ein kurzer Winterspaziergang ist erfrischend; parken Sie direkt am Eingang, um schnell wieder in den geheizten Wagen zurückzukehren.",
                 "hu": "Egy rövid téli séta frissítő erejű; parkoljon közvetlenül a bejáratnál, hogy gyorsan visszatérhessen a felfűtött autóba.",
                 "ro": "O scurtă plimbare de iarnă este revigorantă; parcați chiar la intrare pentru a reveni rapid în căldura mașinii.",
-                "en": "A short winter walk is refreshing; park directly at the entrance to return quickly to the warmth of your car afterwards."
+                "en": "A short winter walk is refreshing; park directly at the entrance to return quickly to the warmth of your car afterwards.",
+                "fr": "Une courte promenade hivernale est revigorante ; garez-vous directement à l'entrée pour retourner rapidement à la chaleur de votre voiture ensuite."
               }
             },
             {
@@ -948,13 +1053,15 @@
                 "de": "Église Notre-Dame-aux-Neiges",
                 "hu": "Église Notre-Dame-aux-Neiges",
                 "ro": "Église Notre-Dame-aux-Neiges",
-                "en": "Église Notre-Dame-aux-Neiges"
+                "en": "Église Notre-Dame-aux-Neiges",
+                "fr": "Église Notre-Dame-aux-Neiges"
               },
               "tip_5lang": {
                 "de": "Besuchen Sie die Kirche am späten Nachmittag; die dicken Mauern schützen vor dem eisigen Wind, der durch die Gassen zieht.",
                 "hu": "Látogassa meg a templomot késő délután; a vastag falak jól védenek az utcákon végigsöprő jeges téli szél ellen.",
                 "ro": "Vizitați biserica după-amiaza târziu; zidurile groase oferă protecție excelentă împotriva vântului înghețat de pe străzi.",
-                "en": "Visit the church in the late afternoon; its thick walls provide great protection against the icy winter winds blowing through the streets."
+                "en": "Visit the church in the late afternoon; its thick walls provide great protection against the icy winter winds blowing through the streets.",
+                "fr": "Visitez l'église en fin d'après-midi ; ses murs épais offrent une excellente protection contre les vents glacés d'hiver qui balaient les rues."
               }
             },
             {
@@ -962,13 +1069,15 @@
                 "de": "Saint-Étienne Castle",
                 "hu": "Saint-Étienne Castle",
                 "ro": "Saint-Étienne Castle",
-                "en": "Saint-Étienne Castle"
+                "en": "Saint-Étienne Castle",
+                "fr": "Saint-Étienne Castle"
               },
               "tip_5lang": {
                 "de": "Genießen Sie den Panoramablick aus dem warmen Auto; die Auffahrt kann bei plötzlichem Frost am späten Nachmittag glatt sein.",
                 "hu": "Élvezze a panorámát a fűtött autóból; a felvezető út a késő délutáni hirtelen fagyok idején csúszóssá válhat.",
                 "ro": "Bucurați-vă de panoramă din mașina încălzită; drumul de acces poate deveni alunecos în timpul gerului de după-amiază.",
-                "en": "Enjoy the panoramic view from your heated car; the access road can become slippery during sudden late afternoon frosts."
+                "en": "Enjoy the panoramic view from your heated car; the access road can become slippery during sudden late afternoon frosts.",
+                "fr": "Profitez de la vue panoramique depuis votre voiture chauffée ; la route d'accès peut devenir glissante lors de gels tardifs soudains en fin d'après-midi."
               }
             },
             {
@@ -976,13 +1085,15 @@
                 "de": "Église Abbatiale Saint-Géraud",
                 "hu": "Église Abbatiale Saint-Géraud",
                 "ro": "Église Abbatiale Saint-Géraud",
-                "en": "Église Abbatiale Saint-Géraud"
+                "en": "Église Abbatiale Saint-Géraud",
+                "fr": "Église Abbatiale Saint-Géraud"
               },
               "tip_5lang": {
                 "de": "Beenden Sie den Tag hier im Schutz der Kirche; parken Sie nah am Eingang, um Glätteunfälle auf dem gefrorenen Kopfsteinpflaster zu vermeiden.",
                 "hu": "Itt fejezze be a napot a templom védelmében; parkoljon közel a bejárathoz, hogy elkerülje a jeges macskaköveken való elcsúszást.",
                 "ro": "Încheiați ziua sub protecția bisericii; parcați aproape de intrare pentru a evita alunecarea pe pavajul înghețat.",
-                "en": "End your day here under the protection of the church; park close to the entrance to avoid slipping on the frozen cobblestones."
+                "en": "End your day here under the protection of the church; park close to the entrance to avoid slipping on the frozen cobblestones.",
+                "fr": "Terminez votre journée ici sous la protection de l'église ; garez-vous près de l'entrée pour éviter de glisser sur les pavés gelés."
               }
             }
           ]

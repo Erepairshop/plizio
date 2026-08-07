@@ -21,7 +21,8 @@
             "de": "Kirche Saint-Cornély",
             "hu": "Szent Kornél-templom",
             "ro": "Biserica Saint-Cornély",
-            "en": "Church of Saint-Cornély"
+            "en": "Church of Saint-Cornély",
+            "fr": "Église Saint-Cornély"
           },
           "coords": [
             -3.0781,
@@ -45,7 +46,8 @@
             "de": "Museum für Vorgeschichte",
             "hu": "Őstörténeti Múzeum",
             "ro": "Muzeul de Preistorie",
-            "en": "Museum of Prehistory"
+            "en": "Museum of Prehistory",
+            "fr": "Musée de la Préhistoire"
           },
           "coords": [
             -3.0772,
@@ -61,7 +63,7 @@
             "hu": "A világ legjelentősebb megalitgyűjteménye.",
             "ro": "Cea mai importantă colecție megalitică din lume.",
             "en": "World's leading megalithic collection.",
-            "fr": "La plus importante collection mégalithique au monde."
+            "fr": "La plus grande collection mégalithique au monde."
           }
         },
         {
@@ -69,7 +71,8 @@
             "de": "Tumulus Saint-Michel",
             "hu": "Szent Mihály-halomsír",
             "ro": "Tumulul Saint-Michel",
-            "en": "Saint-Michel Tumulus"
+            "en": "Saint-Michel Tumulus",
+            "fr": "Tumulus Saint-Michel"
           },
           "coords": [
             -3.0725,
@@ -85,7 +88,7 @@
             "hu": "A legjobb panoráma az öbölre.",
             "ro": "Cea mai bună vedere panoramică a golfului.",
             "en": "Best panoramic view of the bay.",
-            "fr": "La meilleure vue panoramique sur la baie."
+            "fr": "Meilleure vue panoramique sur la baie."
           }
         },
         {
@@ -93,7 +96,8 @@
             "de": "Ménec-Steinreihen",
             "hu": "Ménec-kősorok",
             "ro": "Aliniamentele de la Ménec",
-            "en": "Ménec Alignments"
+            "en": "Ménec Alignments",
+            "fr": "Alignements de Ménec"
           },
           "coords": [
             -3.0841,
@@ -117,7 +121,8 @@
             "de": "Grande Plage",
             "hu": "Nagy Strand",
             "ro": "Grande Plage",
-            "en": "Grande Plage"
+            "en": "Grande Plage",
+            "fr": "Grande Plage"
           },
           "coords": [
             -3.0755,
@@ -133,7 +138,7 @@
             "hu": "Két kilométernyi finom fehér homok.",
             "ro": "Doi kilometri de nisip alb fin.",
             "en": "Two kilometers of fine white sand.",
-            "fr": "Deux kilomètres de sable blanc et fin."
+            "fr": "Deux kilomètres de fin sable blanc."
           }
         }
       ],
@@ -142,7 +147,7 @@
         "hu": "Kezdje a napot Carnac történelmi központjában, a barokk templom és a lenyűgöző Őstörténeti Múzeum megtekintésével. Délben másszon fel a Szent Mihály-halomsírra a Morbihan-öbölre nyíló kilátásért. Délután fedezze fel Ménec titokzatos menhirjeit, majd zárja a napot pihenéssel a tágas homokos tengerparton.",
         "ro": "Începeți ziua în centrul istoric al orașului Carnac, cu biserica barocă și fascinantul Muzeu de Preistorie. La prânz, urcați pe tumulul Saint-Michel pentru o vedere panoramică asupra golfului Morbihan. După-amiaza, explorați câmpul principal de menhire misterioase de la Ménec, înainte de a încheia ziua relaxându-vă pe plaja lungă de nisip.",
         "en": "Start your day in Carnac's historic center with the baroque church and the fascinating Prehistory Museum. At noon, climb the Saint-Michel Tumulus for a wide view over the Morbihan. In the afternoon, explore the main field of mysterious menhirs at Ménec, before ending the day relaxing on the wide sandy beach.",
-        "fr": "Commencez votre journée dans le centre historique de Carnac par l'église baroque et le fascinant Musée de Préhistoire. À midi, montez au Tumulus Saint-Michel pour une vue imprenable sur le Morbihan. L'après-midi, explorez le champ principal des mystérieux menhirs du Ménec, avant de terminer la journée en vous relaxant sur la grande plage de sable."
+        "fr": "Commencez la journée dans le centre historique de Carnac avec l'église baroque et le fascinant Musée de la Préhistoire. À midi, montez au tumulus Saint-Michel pour une vaste vue sur le Morbihan. L'après-midi, explorez le champ principal de mystérieux menhirs à Ménec, puis terminez la journée en vous relaxant sur la large plage de sable."
       },
       "gastro_picks": {
         "de": [
@@ -264,7 +269,7 @@
         ],
         "fr": [
           "Portez des chaussures confortables pour les sentiers pierreux.",
-          "Visitez le musée avant les alignements pour une meilleure compréhension."
+          "Visitez le musée avant les champs pour mieux comprendre."
         ]
       },
       "variants": {
@@ -273,7 +278,8 @@
             "de": "Beginnen Sie Ihren Tag im historischen Zentrum von Carnac mit der barocken Kirche und dem faszinierenden Prähistorischen Museum. Mittags steigen Sie auf den Saint-Michel-Tumulus für eine weite Sicht über das Morbihan. Am Nachmittag erkunden Sie das Hauptfeld der geheimnisvollen Menhire von Ménec, bevor Sie den Tag entspannt am breiten Sandstrand ausklingen lassen.",
             "hu": "Kezdje a napot Carnac történelmi központjában, a barokk templom és a lenyűgöző Őstörténeti Múzeum megtekintésével. Délben másszon fel a Szent Mihály-halomsírra a Morbihan-öbölre nyíló kilátásért. Délután fedezze fel Ménec titokzatos menhirjeit, majd zárja a napot pihenéssel a tágas homokos tengerparton.",
             "ro": "Începeți ziua în centrul istoric al orașului Carnac, cu biserica barocă și fascinantul Muzeu de Preistorie. La prânz, urcați pe tumulul Saint-Michel pentru o vedere panoramică asupra golfului Morbihan. După-amiaza, explorați câmpul principal de menhire misterioase de la Ménec, înainte de a încheia ziua relaxându-vă pe plaja lungă de nisip.",
-            "en": "Start your day in Carnac's historic center with the baroque church and the fascinating Prehistory Museum. At noon, climb the Saint-Michel Tumulus for a wide view over the Morbihan. In the afternoon, explore the main field of mysterious menhirs at Ménec, before ending the day relaxing on the wide sandy beach."
+            "en": "Start your day in Carnac's historic center with the baroque church and the fascinating Prehistory Museum. At noon, climb the Saint-Michel Tumulus for a wide view over the Morbihan. In the afternoon, explore the main field of mysterious menhirs at Ménec, before ending the day relaxing on the wide sandy beach.",
+            "fr": "Commencez la journée dans le centre historique de Carnac avec l'église baroque et le fascinant Musée de la Préhistoire. À midi, montez au tumulus Saint-Michel pour une vaste vue sur le Morbihan. L'après-midi, explorez le champ principal de mystérieux menhirs à Ménec, puis terminez la journée en vous relaxant sur la large plage de sable."
           },
           "stops": [
             {
@@ -281,13 +287,15 @@
                 "de": "Kirche Saint-Cornély",
                 "hu": "Szent Kornél-templom",
                 "ro": "Biserica Saint-Cornély",
-                "en": "Church of Saint-Cornély"
+                "en": "Church of Saint-Cornély",
+                "fr": "Église Saint-Cornély"
               },
               "tip_5lang": {
                 "de": "Bewundern Sie die Deckenmalereien.",
                 "hu": "Csodálja meg a mennyezeti festményeket.",
                 "ro": "Admirați picturile de pe tavan.",
-                "en": "Admire the painted ceilings."
+                "en": "Admire the painted ceilings.",
+                "fr": "Admirez les plafonds peints."
               }
             },
             {
@@ -295,13 +303,15 @@
                 "de": "Museum für Vorgeschichte",
                 "hu": "Őstörténeti Múzeum",
                 "ro": "Muzeul de Preistorie",
-                "en": "Museum of Prehistory"
+                "en": "Museum of Prehistory",
+                "fr": "Musée de la Préhistoire"
               },
               "tip_5lang": {
                 "de": "Weltweit bedeutendste Megalith-Sammlung.",
                 "hu": "A világ legjelentősebb megalitgyűjteménye.",
                 "ro": "Cea mai importantă colecție megalitică din lume.",
-                "en": "World's leading megalithic collection."
+                "en": "World's leading megalithic collection.",
+                "fr": "La plus grande collection mégalithique au monde."
               }
             },
             {
@@ -309,13 +319,15 @@
                 "de": "Tumulus Saint-Michel",
                 "hu": "Szent Mihály-halomsír",
                 "ro": "Tumulul Saint-Michel",
-                "en": "Saint-Michel Tumulus"
+                "en": "Saint-Michel Tumulus",
+                "fr": "Tumulus Saint-Michel"
               },
               "tip_5lang": {
                 "de": "Bester Panoramablick auf die Bucht.",
                 "hu": "A legjobb panoráma az öbölre.",
                 "ro": "Cea mai bună vedere panoramică a golfului.",
-                "en": "Best panoramic view of the bay."
+                "en": "Best panoramic view of the bay.",
+                "fr": "Meilleure vue panoramique sur la baie."
               }
             },
             {
@@ -323,13 +335,15 @@
                 "de": "Ménec-Steinreihen",
                 "hu": "Ménec-kősorok",
                 "ro": "Aliniamentele de la Ménec",
-                "en": "Ménec Alignments"
+                "en": "Ménec Alignments",
+                "fr": "Alignements de Ménec"
               },
               "tip_5lang": {
                 "de": "Das Besucherzentrum liegt direkt hier.",
                 "hu": "A látogatóközpont közvetlenül itt található.",
                 "ro": "Centrul de vizitare este chiar aici.",
-                "en": "The visitor center is located right here."
+                "en": "The visitor center is located right here.",
+                "fr": "Le centre d'accueil se trouve juste ici."
               }
             },
             {
@@ -337,13 +351,15 @@
                 "de": "Grande Plage",
                 "hu": "Nagy Strand",
                 "ro": "Grande Plage",
-                "en": "Grande Plage"
+                "en": "Grande Plage",
+                "fr": "Grande Plage"
               },
               "tip_5lang": {
                 "de": "Zwei Kilometer feiner weißer Sand.",
                 "hu": "Két kilométernyi finom fehér homok.",
                 "ro": "Doi kilometri de nisip alb fin.",
-                "en": "Two kilometers of fine white sand."
+                "en": "Two kilometers of fine white sand.",
+                "fr": "Deux kilomètres de fin sable blanc."
               }
             }
           ],
@@ -445,6 +461,10 @@
             "en": [
               "Wear comfortable shoes for the stony paths.",
               "Visit the museum before the fields for better understanding."
+            ],
+            "fr": [
+              "Portez des chaussures confortables pour les sentiers pierreux.",
+              "Visitez le musée avant les champs pour mieux comprendre."
             ]
           }
         },
@@ -454,7 +474,7 @@
             "hu": "Kezdje a napot a Saint-Cornély templom védelmében. A délelőttöt töltse a Prehisztorikus Múzeumban, amely tökéletes menedék a breton eső elől. Délben egy rövid, ázós séta vezet a Saint-Michel tumulushoz. Délután esernyő alatt csodálhatja meg a Ménec-i kősorokat. A napot a Grande Plage-on zárja, figyelve a szürke Atlanti-óceán hullámait a szélben.",
             "ro": "Începeți ziua la adăpost în Biserica Saint-Cornély. Dimineața este dedicată Muzeului de Preistorie, refugiul perfect împotriva ploii bretone. La prânz, o scurtă plimbare umedă vă duce la Tumulusul Saint-Michel. După-amiaza, explorați aliniamentele de la Ménec sub umbrelă. Încheiați cu o priveliște furtunoasă asupra Atlanticului gri la Grande Plage.",
             "en": "Start the day sheltered in the Church of Saint-Cornély. Spend the morning at the Prehistory Museum, the perfect refuge from the Breton rain. At noon, a short, wet walk leads to the Saint-Michel Tumulus. In the afternoon, explore the Ménec Alignments under an umbrella. Conclude with a stormy view of the grey Atlantic at the Grande Plage.",
-            "fr": "Commencez la journée à l'abri dans l'église Saint-Cornély. Passez la matinée au Musée de Préhistoire, le refuge parfait contre la pluie bretonne. À midi, une courte marche humide mène au Tumulus Saint-Michel. L'après-midi, explorez les alignements du Ménec sous un parapluie. Terminez par une vue tempétueuse sur l'Atlantique gris à la Grande Plage."
+            "fr": "Commencez la journée abrité dans l'église Saint-Cornély. Passez la matinée au Musée de la Préhistoire, le refuge parfait contre la pluie bretonne. À midi, une courte marche humide mène au tumulus Saint-Michel. L'après-midi, explorez les alignements de Ménec sous un parapluie. Concluez par une vue orageuse de l'Atlantique gris à la Grande Plage."
           },
           "stops": [
             {
@@ -474,7 +494,7 @@
                 "hu": "Ideális hely, hogy szárazon vészelje át a legnagyobb felhőszakadást.",
                 "ro": "Locul ideal pentru a supraviețui uscat celor mai puternice ploi.",
                 "en": "Ideal place to stay dry during the heaviest downpours.",
-                "fr": "Lieu idéal pour rester au sec pendant les plus fortes averses."
+                "fr": "Endroit idéal pour rester au sec pendant les fortes averses."
               }
             },
             {
@@ -484,7 +504,7 @@
                 "hu": "Vigyázat, a füves ösvény nedvesen csúszós lehet.",
                 "ro": "Atenție, poteca cu iarbă poate fi alunecoasă când este udă.",
                 "en": "Caution, the grassy path can be slippery when wet.",
-                "fr": "Attention, le sentier herbeux peut être glissant lorsqu'il est mouillé."
+                "fr": "Attention, le sentier herbeux peut être glissant quand il est mouillé."
               }
             },
             {
@@ -494,7 +514,7 @@
                 "hu": "Az esőköpeny itt praktikusabb, mint a szélérzékeny esernyő.",
                 "ro": "O pelerină de ploaie este mai utilă aici decât o umbrelă.",
                 "en": "A raincoat is more practical here than a wind-prone umbrella.",
-                "fr": "Un imperméable est plus pratique ici qu'un parapluie exposé au vent."
+                "fr": "Un imperméable est plus pratique ici qu'un parapluie soumis au vent."
               }
             },
             {
@@ -504,7 +524,7 @@
                 "hu": "Élvezze a nyers tengeri szellőt egy fedett padról.",
                 "ro": "Bucurați-vă de briza aspră a mării de pe o bancă acoperită.",
                 "en": "Enjoy the raw sea breeze from a sheltered bench.",
-                "fr": "Profitez de la brise marine sauvage depuis un banc abrité."
+                "fr": "Profitez de la brise marine brute depuis un banc abrité."
               }
             }
           ],
@@ -538,11 +558,11 @@
               "A pocket warmer helps against the damp cold from the sea."
             ],
             "fr": [
-              "Portez des chaussures de randonnée imperméables pour les sentiers entre les menhirs.",
-              "Le Musée de Préhistoire propose des casiers pour les manteaux mouillés.",
-              "Profitez des cafés autour de l'église pour des pauses au sec.",
+              "Portez des chaussures de randonnée imperméables pour les chemins entre les menhirs.",
+              "Le Musée de la Préhistoire propose des consignes pour les manteaux mouillés.",
+              "Utilisez les cafés autour de l'église pour des pauses au sec.",
               "Les alignements sont particulièrement mystiques sous la pluie et moins fréquentés.",
-              "Une chaufferette de poche aide contre le froid humide venant de la mer."
+              "Une chaufferette de poche aide contre le froid humide venu de la mer."
             ]
           }
         },
@@ -552,7 +572,7 @@
             "hu": "A tiszta téli reggel a csendes templomnál indul. A múzeum melege jól esik a délelőtt folyamán. Délben a tumulusról messzire ellátni a téli partvidéken. A Ménec-i kősorok különösen impozánsak az alacsony délutáni napsütésben. A nap a Grande Plage-on zárul egy frissítő sétával a korai naplemente előtt.",
             "ro": "O dimineață senină de iarnă începe la biserica liniștită. Căldura muzeului este binevenită spre sfârșitul dimineții. La prânz, tumulusul oferă o vedere largă asupra coastei hibernale. Aliniamentele de la Ménec par impunătoare în soarele jos de după-amiază. Ziua se încheie cu o plimbare vioaie pe Grande Plage înainte de apusul timpuriu.",
             "en": "A clear winter morning begins at the quiet church. The warmth of the museum is welcome late in the morning. At noon, the tumulus offers a wide view over the winter coastline. The Ménec Alignments look particularly imposing in the low afternoon sun. The day ends with a brisk walk on Grande Plage before the early sunset.",
-            "fr": "Une claire matinée d'hiver commence à l'église tranquille. La chaleur du musée est bienvenue en fin de matinée. À midi, le tumulus offre une vue dégagée sur le littoral hivernal. Les alignements du Ménec sont particulièrement imposants sous le bas soleil de l'après-midi. La journée s'achève par une marche revigorante sur la Grande Plage avant le coucher de soleil précoce."
+            "fr": "Un clair matin d'hiver commence à l'église silencieuse. La chaleur du musée est bienvenue en fin de matinée. À midi, le tumulus offre une vaste vue sur la côte hivernale. Les alignements de Ménec paraissent particulièrement imposants au soleil bas de l'après-midi. La journée se termine par une marche vive sur la Grande Plage avant le coucher du soleil précoce."
           },
           "stops": [
             {
@@ -562,7 +582,7 @@
                 "hu": "A vastag falak tartják a hideget, öltözzön fel melegen.",
                 "ro": "Zidurile groase rețin frigul, îmbrăcați-vă bine.",
                 "en": "The thick walls hold the cold, dress warmly.",
-                "fr": "Les murs épais gardent le froid, habillez-vous chaudement."
+                "fr": "Les murs épais retiennent le froid, habillez-vous chaudement."
               }
             },
             {
@@ -572,7 +592,7 @@
                 "hu": "Tökéletesen átmelegedve jobban érthető a történelem.",
                 "ro": "Istoria se înțelege mai bine într-un loc bine încălzit.",
                 "en": "History is better understood when perfectly warmed up.",
-                "fr": "L'histoire se comprend mieux quand on est bien au chaud."
+                "fr": "L'histoire se comprend mieux quand on est bien réchauffé."
               }
             },
             {
@@ -582,7 +602,7 @@
                 "hu": "Élvezze a tiszta távoli kilátást, ami gyakran csak télen van.",
                 "ro": "Bucurați-vă de vizibilitatea clară, specifică iernii.",
                 "en": "Enjoy the clear distant views often only available in winter.",
-                "fr": "Profitez des vues lointaines et claires souvent disponibles uniquement en hiver."
+                "fr": "Profitez des vues lointaines et claires souvent uniquement disponibles en hiver."
               }
             },
             {
@@ -602,7 +622,7 @@
                 "hu": "A naplemente télen 17:15 körül van ezen a helyen.",
                 "ro": "Apusul soarelui are loc aici iarna în jurul orei 17:15.",
                 "en": "Sunset takes place here in winter around 5:15 PM.",
-                "fr": "Le coucher de soleil a lieu ici en hiver vers 17h15."
+                "fr": "Le coucher du soleil a lieu ici en hiver vers 17 h 15."
               }
             }
           ],
@@ -636,11 +656,11 @@
               "Gloves are essential in the coastal breeze."
             ],
             "fr": [
-              "Des vêtements multicouches protègent contre le vent froid de la mer.",
-              "Attention aux horaires d'ouverture d'hiver réduits des boutiques locales.",
-              "Un thermos de thé est idéal pendant l'exploration des alignements.",
-              "Prévoyez de terminer la visite avant 17h00.",
-              "Les gants sont essentiels face à la brise côtière."
+              "Le port de couches de vêtements protège du vent froid de mer.",
+              "Faites attention aux horaires d'ouverture réduits des commerces locaux en hiver.",
+              "Un thermos de thé est parfait pour explorer les alignements.",
+              "Prévoyez de terminer la visite avant 17 h 00.",
+              "Des gants sont essentiels dans la brise côtière."
             ]
           }
         }
@@ -659,7 +679,8 @@
             "de": "Ménec-Steinreihen",
             "hu": "Ménec-kősorok",
             "ro": "Aliniamentele de la Ménec",
-            "en": "Ménec Alignments"
+            "en": "Ménec Alignments",
+            "fr": "Alignements de Ménec"
           },
           "coords": [
             -3.0841,
@@ -683,7 +704,8 @@
             "de": "Kermario-Steinreihen",
             "hu": "Kermario-kősorok",
             "ro": "Aliniamentele de la Kermario",
-            "en": "Kermario Alignments"
+            "en": "Kermario Alignments",
+            "fr": "Alignements de Kermario"
           },
           "coords": [
             -3.0702,
@@ -707,7 +729,8 @@
             "de": "Kerlescan-Steinreihen",
             "hu": "Kerlescan-kősorok",
             "ro": "Aliniamentele de la Kerlescan",
-            "en": "Kerlescan Alignments"
+            "en": "Kerlescan Alignments",
+            "fr": "Alignements de Kerlescan"
           },
           "coords": [
             -3.0565,
@@ -723,7 +746,7 @@
             "hu": "A legjobban megőrzött kőkör.",
             "ro": "Cel mai bine conservat cromleh.",
             "en": "The best-preserved cromlech.",
-            "fr": "Le cromlech le mieux conservé."
+            "fr": "Le cromlech le mieux préservé."
           }
         },
         {
@@ -731,7 +754,8 @@
             "de": "Tumulus Saint-Michel",
             "hu": "Szent Mihály-halomsír",
             "ro": "Tumulul Saint-Michel",
-            "en": "Saint-Michel Tumulus"
+            "en": "Saint-Michel Tumulus",
+            "fr": "Tumulus Saint-Michel"
           },
           "coords": [
             -3.0725,
@@ -755,7 +779,8 @@
             "de": "Kirche Saint-Cornély",
             "hu": "Szent Kornél-templom",
             "ro": "Biserica Saint-Cornély",
-            "en": "Church of Saint-Cornély"
+            "en": "Church of Saint-Cornély",
+            "fr": "Église Saint-Cornély"
           },
           "coords": [
             -3.0781,
@@ -771,7 +796,7 @@
             "hu": "Kerékpártárolók a templomtéren.",
             "ro": "Suporturi de biciclete în piața bisericii.",
             "en": "Bike racks at the church square.",
-            "fr": "Supports à vélos sur la place de l'église."
+            "fr": "Arceaux pour vélos sur la place de l'église."
           }
         },
         {
@@ -779,7 +804,8 @@
             "de": "Grande Plage",
             "hu": "Nagy Strand",
             "ro": "Grande Plage",
-            "en": "Grande Plage"
+            "en": "Grande Plage",
+            "fr": "Grande Plage"
           },
           "coords": [
             -3.0755,
@@ -803,7 +829,8 @@
             "de": "Plage de Légenèse",
             "hu": "Légenèse strand",
             "ro": "Plaja Légenèse",
-            "en": "Légenèse Beach"
+            "en": "Légenèse Beach",
+            "fr": "Plage de Légenèse"
           },
           "coords": [
             -3.0885,
@@ -819,7 +846,7 @@
             "hu": "Csendesebb napzárás.",
             "ro": "O încheiere de zi mai liniștită.",
             "en": "Quieter end to the day.",
-            "fr": "Fin de journée plus calme."
+            "fr": "Fin plus tranquille de la journée."
           }
         }
       ],
@@ -828,7 +855,7 @@
         "hu": "Kerékpárral mindhárom nagy kősor – Ménectől Kerlescanig – tökéletesen összeköthető. Az őstörténeti túra után az út a halomsíron keresztül vezet vissza a városba a pompás templomhoz. A napot a parti kerékpárutakon zárhatja, amelyek a Nagy Strandhoz és a rejtettebb Légenèse strandhoz visznek.",
         "ro": "Cu bicicleta, toate cele trei mari aliniamente de pietre – de la Ménec la Kerlescan – pot fi conectate perfect. După turul mistic prin preistorie, drumul duce prin tumul înapoi în oraș, la biserica splendidă. Finalul perfect este oferit de pistele de biciclete de pe coastă, care vă duc la Grande Plage și la plaja mai retrasă Légenèse.",
         "en": "By bike, all three major stone rows – from Ménec to Kerlescan – can be perfectly connected. After the mystical tour through prehistory, the path leads via the tumulus back to town to the magnificent church. The highlight is the coastal cycle paths leading you to Grande Plage and the more hidden Légenèse Beach.",
-        "fr": "À vélo, les trois grands alignements – du Ménec à Kerlescan – se relient parfaitement. Après la visite mystique de la préhistoire, le chemin mène par le tumulus au centre-ville et sa magnifique église. Le clou du spectacle est la piste cyclable côtière qui vous conduit à la Grande Plage et à la plage plus secrète de Légenèse."
+        "fr": "À vélo, les trois grandes rangées de pierres – de Ménec à Kerlescan – peuvent être parfaitement reliées. Après la visite mystique de la préhistoire, le chemin mène via le tumulus vers la ville et la magnifique église. Le clou du parcours est les pistes cyclables côtières qui vous conduisent à la Grande Plage et à la plus discrète plage de Légenèse."
       },
       "gastro_picks": {
         "de": [
@@ -949,8 +976,8 @@
           "A lock is essential for stops at the beaches."
         ],
         "fr": [
-          "Utilisez les sentiers balisés entre les rangées de pierres.",
-          "Un antivol est essentiel pour les arrêts aux plages."
+          "Utilisez les chemins balisés entre les rangées de pierres.",
+          "Un antivol est indispensable pour les arrêts aux plages."
         ]
       },
       "variants": {
@@ -959,7 +986,8 @@
             "de": "Mit dem Fahrrad lassen sich alle drei großen Steinreihen von Ménec bis Kerlescan perfekt verbinden. Nach der mystischen Tour durch die Vorzeit führt der Weg über den Tumulus zurück in den Ort zur prächtigen Kirche. Den krönenden Abschluss bilden die Küstenradwege, die Sie zur Grande Plage und der etwas versteckteren Plage de Légenèse führen.",
             "hu": "Kerékpárral mindhárom nagy kősor – Ménectől Kerlescanig – tökéletesen összeköthető. Az őstörténeti túra után az út a halomsíron keresztül vezet vissza a városba a pompás templomhoz. A napot a parti kerékpárutakon zárhatja, amelyek a Nagy Strandhoz és a rejtettebb Légenèse strandhoz visznek.",
             "ro": "Cu bicicleta, toate cele trei mari aliniamente de pietre – de la Ménec la Kerlescan – pot fi conectate perfect. După turul mistic prin preistorie, drumul duce prin tumul înapoi în oraș, la biserica splendidă. Finalul perfect este oferit de pistele de biciclete de pe coastă, care vă duc la Grande Plage și la plaja mai retrasă Légenèse.",
-            "en": "By bike, all three major stone rows – from Ménec to Kerlescan – can be perfectly connected. After the mystical tour through prehistory, the path leads via the tumulus back to town to the magnificent church. The highlight is the coastal cycle paths leading you to Grande Plage and the more hidden Légenèse Beach."
+            "en": "By bike, all three major stone rows – from Ménec to Kerlescan – can be perfectly connected. After the mystical tour through prehistory, the path leads via the tumulus back to town to the magnificent church. The highlight is the coastal cycle paths leading you to Grande Plage and the more hidden Légenèse Beach.",
+            "fr": "À vélo, les trois grandes rangées de pierres – de Ménec à Kerlescan – peuvent être parfaitement reliées. Après la visite mystique de la préhistoire, le chemin mène via le tumulus vers la ville et la magnifique église. Le clou du parcours est les pistes cyclables côtières qui vous conduisent à la Grande Plage et à la plus discrète plage de Légenèse."
           },
           "stops": [
             {
@@ -967,13 +995,15 @@
                 "de": "Ménec-Steinreihen",
                 "hu": "Ménec-kősorok",
                 "ro": "Aliniamentele de la Ménec",
-                "en": "Ménec Alignments"
+                "en": "Ménec Alignments",
+                "fr": "Alignements de Ménec"
               },
               "tip_5lang": {
                 "de": "Startpunkt der großen Tour.",
                 "hu": "A nagy túra kezdőpontja.",
                 "ro": "Punctul de plecare al marelui tur.",
-                "en": "Starting point of the grand tour."
+                "en": "Starting point of the grand tour.",
+                "fr": "Point de départ du grand tour."
               }
             },
             {
@@ -981,13 +1011,15 @@
                 "de": "Kermario-Steinreihen",
                 "hu": "Kermario-kősorok",
                 "ro": "Aliniamentele de la Kermario",
-                "en": "Kermario Alignments"
+                "en": "Kermario Alignments",
+                "fr": "Alignements de Kermario"
               },
               "tip_5lang": {
                 "de": "Hier stehen die höchsten Steine.",
                 "hu": "Itt találhatók a legmagasabb kövek.",
                 "ro": "Aici se află cele mai înalte pietre.",
-                "en": "The tallest stones are located here."
+                "en": "The tallest stones are located here.",
+                "fr": "Les plus hautes pierres se trouvent ici."
               }
             },
             {
@@ -995,13 +1027,15 @@
                 "de": "Kerlescan-Steinreihen",
                 "hu": "Kerlescan-kősorok",
                 "ro": "Aliniamentele de la Kerlescan",
-                "en": "Kerlescan Alignments"
+                "en": "Kerlescan Alignments",
+                "fr": "Alignements de Kerlescan"
               },
               "tip_5lang": {
                 "de": "Der am besten erhaltene Cromlech.",
                 "hu": "A legjobban megőrzött kőkör.",
                 "ro": "Cel mai bine conservat cromleh.",
-                "en": "The best-preserved cromlech."
+                "en": "The best-preserved cromlech.",
+                "fr": "Le cromlech le mieux préservé."
               }
             },
             {
@@ -1009,13 +1043,15 @@
                 "de": "Tumulus Saint-Michel",
                 "hu": "Szent Mihály-halomsír",
                 "ro": "Tumulul Saint-Michel",
-                "en": "Saint-Michel Tumulus"
+                "en": "Saint-Michel Tumulus",
+                "fr": "Tumulus Saint-Michel"
               },
               "tip_5lang": {
                 "de": "Kurzer steiler Anstieg mit dem Rad.",
                 "hu": "Rövid, meredek emelkedő bringával.",
                 "ro": "Urcare scurtă și abruptă cu bicicleta.",
-                "en": "Short steep climb with the bike."
+                "en": "Short steep climb with the bike.",
+                "fr": "Courte montée raide à vélo."
               }
             },
             {
@@ -1023,13 +1059,15 @@
                 "de": "Kirche Saint-Cornély",
                 "hu": "Szent Kornél-templom",
                 "ro": "Biserica Saint-Cornély",
-                "en": "Church of Saint-Cornély"
+                "en": "Church of Saint-Cornély",
+                "fr": "Église Saint-Cornély"
               },
               "tip_5lang": {
                 "de": "Fahrradständer am Kirchplatz.",
                 "hu": "Kerékpártárolók a templomtéren.",
                 "ro": "Suporturi de biciclete în piața bisericii.",
-                "en": "Bike racks at the church square."
+                "en": "Bike racks at the church square.",
+                "fr": "Râteliers à vélos sur la place de l’église."
               }
             },
             {
@@ -1037,13 +1075,15 @@
                 "de": "Grande Plage",
                 "hu": "Nagy Strand",
                 "ro": "Grande Plage",
-                "en": "Grande Plage"
+                "en": "Grande Plage",
+                "fr": "Grande Plage"
               },
               "tip_5lang": {
                 "de": "Schöne Fahrt entlang der Promenade.",
                 "hu": "Szép út a sétány mentén.",
                 "ro": "O plimbare frumoasă de-a lungul faleză.",
-                "en": "Beautiful ride along the promenade."
+                "en": "Beautiful ride along the promenade.",
+                "fr": "Belle balade le long de la promenade."
               }
             },
             {
@@ -1051,13 +1091,15 @@
                 "de": "Plage de Légenèse",
                 "hu": "Légenèse strand",
                 "ro": "Plaja Légenèse",
-                "en": "Légenèse Beach"
+                "en": "Légenèse Beach",
+                "fr": "Plage de Légenèse"
               },
               "tip_5lang": {
                 "de": "Ruhigerer Abschluss des Tages.",
                 "hu": "Csendesebb napzárás.",
                 "ro": "O încheiere de zi mai liniștită.",
-                "en": "Quieter end to the day."
+                "en": "Quieter end to the day.",
+                "fr": "Fin de journée plus calme."
               }
             }
           ],
@@ -1159,6 +1201,10 @@
             "en": [
               "Use the marked paths between the stone rows.",
               "A lock is essential for stops at the beaches."
+            ],
+            "fr": [
+              "Utilisez les sentiers balisés entre les rangées de pierres.",
+              "Un antivol est indispensable pour les arrêts aux plages."
             ]
           }
         },
@@ -1168,7 +1214,7 @@
             "hu": "Tekerjen óvatosan az esőben a Ménec-i kősorokhoz. Az út Kermarión át Kerlescanig tart, ahol a pára misztikusan burkolja be a köveket. Délben a tumulusnál egy szeles pihenő várja. A városba való visszatérés a Saint-Cornély templomhoz hozza el a vágyott szárazságot. A nap a strandok menti gyors, vizes tekeréssel zárul.",
             "ro": "Pedalați cu atenție prin ploaie către aliniamentele de la Ménec. Traseul continuă prin Kermario spre Kerlescan, unde ceața învăluie mistic pietrele. La prânz, tumulusul oferă o oprire vântoasă. Revenirea în oraș la Biserica Saint-Cornély aduce uscăciunea mult dorită. Ziua se încheie cu o cursă rapidă și udă de-a lungul plajelor.",
             "en": "Cycle carefully through the rain to the Ménec Alignments. The route continues through Kermario to Kerlescan, where the mist mystically shrouds the stones. At noon, the tumulus offers a windy stop. Returning to town to the Church of Saint-Cornély brings much-needed dryness. The day ends with a quick, wet ride along the beaches.",
-            "fr": "Pédalez prudemment sous la pluie vers les alignements du Ménec. L'itinéraire continue par Kermario jusqu'à Kerlescan, où la brume enveloppe les pierres de mystère. À midi, le tumulus offre une halte venteuse. Le retour en ville à l'église Saint-Cornély apporte un peu de sécheresse bienvenue. La journée se termine par une rapide virée humide le long des plages."
+            "fr": "Roulez prudemment sous la pluie jusqu’aux Alignements de Ménec. L’itinéraire se poursuit par Kermario jusqu’à Kerlescan, où la brume enveloppe mystérieusement les pierres. À midi, le tumulus offre une halte venteuse. Le retour en ville vers l’église Saint-Cornély apporte un séchage bienvenu. La journée se termine par une rapide et humide traversée le long des plages."
           },
           "stops": [
             {
@@ -1178,7 +1224,7 @@
                 "hu": "Kerülje a tócsákat a ki nem épített ösvényeken.",
                 "ro": "Evitați bălțile de pe potecile neamenajate.",
                 "en": "Avoid puddles on the unpaved paths.",
-                "fr": "Évitez les flaques sur les sentiers non goudronnés."
+                "fr": "Évitez les flaques sur les chemins non revêtus."
               }
             },
             {
@@ -1188,7 +1234,7 @@
                 "hu": "A kilátótorony rövid ideig védelmet nyújt a felhőszakadás elől.",
                 "ro": "Turnul de observație oferă adăpost temporar de ploaie.",
                 "en": "The observation tower offers temporary shelter from the downpour.",
-                "fr": "La tour d'observation offre un abri temporaire contre l'averse."
+                "fr": "La tour d’observation offre un abri temporaire de l’averse."
               }
             },
             {
@@ -1198,7 +1244,7 @@
                 "hu": "Ügyeljen a csúszós talajra a kerékpárról való leszálláskor.",
                 "ro": "Atenție la solul alunecos când coborâți de pe bicicletă.",
                 "en": "Watch out for slippery ground when dismounting.",
-                "fr": "Attention au sol glissant en descendant du vélo."
+                "fr": "Attention au sol glissant en descendant de vélo."
               }
             },
             {
@@ -1208,7 +1254,7 @@
                 "hu": "Parkolja le biztonságosan a biciklit, mielőtt felmegy a dombra.",
                 "ro": "Parcați bicicleta în siguranță înainte de a urca dealul.",
                 "en": "Park your bike securely before climbing the hill.",
-                "fr": "Garez votre vélo de manière sécurisée avant de monter sur la colline."
+                "fr": "Garez votre vélo solidement avant de monter la colline."
               }
             },
             {
@@ -1218,7 +1264,7 @@
                 "hu": "Használja ki a megállót a szemüveg és a felszerelés szárítására.",
                 "ro": "Folosiți oprirea pentru a vă usca ochelarii și echipamentul.",
                 "en": "Use the stop to dry your glasses and equipment.",
-                "fr": "Profitez de l'arrêt pour sécher vos lunettes et votre équipement."
+                "fr": "Profitez de l’arrêt pour sécher vos lunettes et votre matériel."
               }
             },
             {
@@ -1238,7 +1284,7 @@
                 "hu": "Rövid megálló egy fotóra a zord tengerről, aztán irány haza.",
                 "ro": "Oprire scurtă pentru o poză cu marea agitată, apoi rapid acasă.",
                 "en": "Short stop for a photo of the rough sea, then head back quickly.",
-                "fr": "Court arrêt pour une photo de la mer agitée, puis retour rapide."
+                "fr": "Court arrêt pour une photo de la mer agitée, puis repartez rapidement."
               }
             }
           ],
@@ -1272,11 +1318,11 @@
               "Avoid painted road markings, as they become extremely slippery."
             ],
             "fr": [
-              "Vérifiez vos freins ; la distance de freinage augmente sur route mouillée.",
-              "Un équipement de pluie complet incluant des surchaussures est fortement recommandé.",
-              "Des vêtements clairs ou un gilet haute visibilité améliorent votre visibilité sous la pluie.",
-              "Les garde-boue sur le vélo de location sont indispensables par ce temps.",
-              "Évitez les marquages routiers peints, car ils deviennent extrêmement glissants."
+              "Vérifiez vos freins ; la distance de freinage augmente sur routes mouillées.",
+              "Tenue de pluie complète, y compris couvre-chaussures, fortement recommandée.",
+              "Des vêtements clairs ou un gilet haute visibilité améliorent la visibilité sous la pluie.",
+              "Des garde-boue sur le vélo de location sont indispensables par ce temps.",
+              "Évitez les marquages routiers peints, ils deviennent extrêmement glissants."
             ]
           }
         },
@@ -1286,7 +1332,7 @@
             "hu": "Vastagon felöltözve induljon a megalitikus mezőkhöz. A hűvös reggeli levegő frissítővé teszi a tekerést Ménec és Kermario felé. Délben melegedjen át a városban, mielőtt felkeresi a tumulust. A délutáni túra a téli fényben csillogó Kerlescan-kövekhez vezet. A parti út a nap végén tágas, magányos kilátást nyújt az óceánra.",
             "ro": "Porniți bine înfofoliți spre câmpurile megalitice. Aerul răcoros al dimineții face plimbarea spre Ménec și Kermario revigorantă. La prânz, încălziți-vă în oraș înainte de a vizita tumulusul. Turul de după-amiază duce la pietrele Kerlescan, care strălucesc în lumina iernii. Drumul de coastă oferă la final vederi largi și pustii spre Atlantic.",
             "en": "Start well-wrapped for the megalithic fields. The cool morning air makes the ride to Ménec and Kermario refreshing. At noon, warm up in town before visiting the tumulus. The afternoon tour leads to the Kerlescan stones, shining in the winter light. The coastal road at the end offers wide, lonely views of the Atlantic.",
-            "fr": "Partez bien emmitouflé pour les champs mégalithiques. L'air frais du matin rend la balade vers le Ménec et Kermario revigorante. À midi, réchauffez-vous en ville avant de visiter le tumulus. La visite de l'après-midi mène aux pierres de Kerlescan, brillant sous la lumière hivernale. La route côtière à la fin offre de vastes vues solitaires sur l'Atlantique."
+            "fr": "Partez bien emmitouflé pour les champs mégalithiques. L’air frais du matin rend la balade jusqu’à Ménec et Kermario revigorante. À midi, réchauffez-vous en ville avant de visiter le tumulus. La sortie de l’après-midi mène aux pierres de Kerlescan, qui brillent dans la lumière hivernale. La route côtière en fin de journée offre de larges et solitaires vues sur l’Atlantique."
           },
           "stops": [
             {
@@ -1296,7 +1342,7 @@
                 "hu": "Viseljen szélálló kesztyűt az idevezető úton.",
                 "ro": "Purtați mănuși rezistente la vânt pentru drumul până aici.",
                 "en": "Wear windproof gloves for the ride here.",
-                "fr": "Portez des gants coupe-vent pour le trajet jusqu'ici."
+                "fr": "Portez des gants coupe-vent pour cette balade."
               }
             },
             {
@@ -1306,7 +1352,7 @@
                 "hu": "Egy forró tea a termoszból segít a menetszél ellen.",
                 "ro": "Un ceai fierbinte din termos ajută împotriva vântului.",
                 "en": "A hot tea from a thermos helps against the wind chill.",
-                "fr": "Un thé chaud dans un thermos aide contre le refroidissement dû au vent."
+                "fr": "Un thé chaud dans un thermos aide contre la sensation de froid du vent."
               }
             },
             {
@@ -1326,7 +1372,7 @@
                 "hu": "Győződjön meg róla, hogy a lámpák működnek a visszaúthoz.",
                 "ro": "Asigurați-vă că luminile bicicletei funcționează pentru drumul de întoarcere.",
                 "en": "Ensure your bike lights are working for the return trip.",
-                "fr": "Assurez-vous que l'éclairage de votre vélo fonctionne pour le retour."
+                "fr": "Assurez-vous que vos feux de vélo fonctionnent pour le retour."
               }
             },
             {
@@ -1336,7 +1382,7 @@
                 "hu": "Használja ki a templompadot egy rövid, szélmentes pihenőre.",
                 "ro": "Folosiți banca din biserică pentru un scurt popas fără vânt.",
                 "en": "Use the church pew for a short, windless rest.",
-                "fr": "Utilisez un banc d'église pour un court repos sans vent."
+                "fr": "Utilisez le banc de l’église pour un court repos à l’abri du vent."
               }
             },
             {
@@ -1346,7 +1392,7 @@
                 "hu": "Gyönyörű, mélykék tenger a téli napsütésben.",
                 "ro": "Albastru profund și superb al mării sub soarele de iarnă.",
                 "en": "Beautiful deep blue of the sea under the winter sun.",
-                "fr": "Magnifique bleu profond de la mer sous le soleil d'hiver."
+                "fr": "Beau bleu profond de la mer sous le soleil d’hiver."
               }
             },
             {
@@ -1356,7 +1402,7 @@
                 "hu": "Fejezze be gyorsan a túrát, mielőtt beáll az esti hideg.",
                 "ro": "Încheiați rapid cursa înainte de a se lăsa frigul serii.",
                 "en": "Finish the ride quickly before the evening chill sets in.",
-                "fr": "Terminez la balade rapidement avant que le froid du soir ne s'installe."
+                "fr": "Terminez la sortie rapidement avant que la fraîcheur du soir n’arrive."
               }
             }
           ],
@@ -1390,10 +1436,10 @@
               "Take an extra layer of clothing for the breaks."
             ],
             "fr": [
-              "Portez un bandeau ou un bonnet fin sous votre casque.",
-              "Vérifiez la pression des pneus ; l'air froid la fait légèrement baisser.",
+              "Portez un bandeau ou une fine calotte sous votre casque.",
+              "Vérifiez la pression des pneus ; l’air froid la diminue légèrement.",
               "Les locations de vélos ont souvent des horaires limités en hiver.",
-              "Attention aux flaques gelées dans les sections ombragées.",
+              "Attention aux flaques gelées dans les passages ombragés.",
               "Prenez une couche de vêtement supplémentaire pour les pauses."
             ]
           }
@@ -1413,7 +1459,8 @@
             "de": "Kerlescan-Steinreihen",
             "hu": "Kerlescan-kősorok",
             "ro": "Aliniamentele de la Kerlescan",
-            "en": "Kerlescan Alignments"
+            "en": "Kerlescan Alignments",
+            "fr": "Alignements de Kerlescan"
           },
           "coords": [
             -3.0565,
@@ -1429,7 +1476,7 @@
             "hu": "A parkoló általában kevésbé foglalt.",
             "ro": "Parcarea este de obicei mai liberă.",
             "en": "Parking is usually less crowded.",
-            "fr": "Le parking est généralement moins encombré."
+            "fr": "Le stationnement est généralement moins encombré."
           }
         },
         {
@@ -1437,7 +1484,8 @@
             "de": "Kermario-Steinreihen",
             "hu": "Kermario-kősorok",
             "ro": "Aliniamentele de la Kermario",
-            "en": "Kermario Alignments"
+            "en": "Kermario Alignments",
+            "fr": "Alignements de Kermario"
           },
           "coords": [
             -3.0702,
@@ -1453,7 +1501,7 @@
             "hu": "Látogassa meg a kilátótornyot.",
             "ro": "Vizitați turnul de observație.",
             "en": "Visit the observation tower.",
-            "fr": "Visitez la tour d'observation."
+            "fr": "Visitez la tour d’observation."
           }
         },
         {
@@ -1461,7 +1509,8 @@
             "de": "Ménec-Steinreihen",
             "hu": "Ménec-kősorok",
             "ro": "Aliniamentele de la Ménec",
-            "en": "Ménec Alignments"
+            "en": "Ménec Alignments",
+            "fr": "Alignements de Ménec"
           },
           "coords": [
             -3.0841,
@@ -1485,7 +1534,8 @@
             "de": "Museum für Vorgeschichte",
             "hu": "Őstörténeti Múzeum",
             "ro": "Muzeul de Preistorie",
-            "en": "Museum of Prehistory"
+            "en": "Museum of Prehistory",
+            "fr": "Musée de Préhistoire"
           },
           "coords": [
             -3.0772,
@@ -1501,7 +1551,7 @@
             "hu": "Használja a városközpont parkolóházát.",
             "ro": "Folosiți parcarea etajată din centru.",
             "en": "Use the parking garage in the center.",
-            "fr": "Utilisez le parking couvert du centre."
+            "fr": "Utilisez le parking souterrain au centre."
           }
         },
         {
@@ -1509,7 +1559,8 @@
             "de": "Grande Plage",
             "hu": "Nagy Strand",
             "ro": "Grande Plage",
-            "en": "Grande Plage"
+            "en": "Grande Plage",
+            "fr": "Grande Plage"
           },
           "coords": [
             -3.0755,
@@ -1534,7 +1585,7 @@
         "hu": "Autóval kényelmesen felfedezheti a kiterjedt megalitmezőket keletről nyugat felé, a csendes Kerlescantól a lenyűgöző Ménecig. Ezután irány a városközpont, ahol a múzeumban mélyebb betekintést nyerhet a kőkorszaki kultúrába. A délutánt rugalmasan a tengerparton töltheti, ahol a Nagy Strand bőséges helyet kínál a kikapcsolódáshoz.",
         "ro": "Cu mașina, explorați câmpurile megalitice vaste confortabil de la est la vest, începând de la liniștitul Kerlescan până la impresionantul Ménec. Apoi, mergeți în centrul orașului pentru o incursiune profundă în cultura epocii de piatră la muzeu. După-amiaza o petreceți flexibil pe coastă, unde Grande Plage oferă suficient spațiu pentru relaxare.",
         "en": "By car, you can comfortably explore the extensive megalithic fields from east to west, starting from the quiet Kerlescan to the impressive Ménec. Then, head to the town center for deep insights into Stone Age culture at the museum. Spend a flexible afternoon on the coast, where Grande Plage offers plenty of space to relax.",
-        "fr": "En voiture, explorez confortablement les vastes champs mégalithiques d'est en ouest, du tranquille Kerlescan à l'impressionnant Ménec. Dirigez-vous ensuite vers le centre-ville pour découvrir la culture de l'âge de pierre au musée. Passez une après-midi flexible sur la côte, où la Grande Plage offre de l'espace pour se détendre."
+        "fr": "En voiture, vous pouvez explorer confortablement les vastes champs mégalithiques d’est en ouest, en commençant par le paisible Kerlescan jusqu’à l’imposant Ménec. Ensuite, rendez-vous au centre-ville pour approfondir la culture de l’âge de pierre au musée. Passez un après-midi souple sur la côte, où la Grande Plage offre beaucoup d’espace pour se détendre."
       },
       "gastro_picks": {
         "de": [
@@ -1656,7 +1707,7 @@
         ],
         "fr": [
           "Attention aux restrictions de stationnement en haute saison.",
-          "Utilisez la navette 'Carnavette' si les parkings sont complets."
+          "Utilisez la navette « Carnavette » si les parkings sont pleins."
         ]
       },
       "variants": {
@@ -1665,7 +1716,8 @@
             "de": "Mit dem Auto erkunden Sie die weitläufigen Megalithfelder bequem von Ost nach West, beginnend beim ruhigen Kerlescan bis zum beeindruckenden Ménec. Danach geht es ins Stadtzentrum für tiefe Einblicke in die Steinzeit-Kultur im Museum. Den Nachmittag verbringen Sie flexibel an der Küste, wo die Grande Plage ausreichend Platz zum Entspannen bietet.",
             "hu": "Autóval kényelmesen felfedezheti a kiterjedt megalitmezőket keletről nyugat felé, a csendes Kerlescantól a lenyűgöző Ménecig. Ezután irány a városközpont, ahol a múzeumban mélyebb betekintést nyerhet a kőkorszaki kultúrába. A délutánt rugalmasan a tengerparton töltheti, ahol a Nagy Strand bőséges helyet kínál a kikapcsolódáshoz.",
             "ro": "Cu mașina, explorați câmpurile megalitice vaste confortabil de la est la vest, începând de la liniștitul Kerlescan până la impresionantul Ménec. Apoi, mergeți în centrul orașului pentru o incursiune profundă în cultura epocii de piatră la muzeu. După-amiaza o petreceți flexibil pe coastă, unde Grande Plage oferă suficient spațiu pentru relaxare.",
-            "en": "By car, you can comfortably explore the extensive megalithic fields from east to west, starting from the quiet Kerlescan to the impressive Ménec. Then, head to the town center for deep insights into Stone Age culture at the museum. Spend a flexible afternoon on the coast, where Grande Plage offers plenty of space to relax."
+            "en": "By car, you can comfortably explore the extensive megalithic fields from east to west, starting from the quiet Kerlescan to the impressive Ménec. Then, head to the town center for deep insights into Stone Age culture at the museum. Spend a flexible afternoon on the coast, where Grande Plage offers plenty of space to relax.",
+            "fr": "En voiture, vous pouvez explorer confortablement les vastes champs mégalithiques d’est en ouest, en commençant par le paisible Kerlescan jusqu’à l’imposant Ménec. Ensuite, rendez-vous au centre-ville pour approfondir la culture de l’âge de pierre au musée. Passez un après-midi souple sur la côte, où la Grande Plage offre beaucoup d’espace pour se détendre."
           },
           "stops": [
             {
@@ -1673,13 +1725,15 @@
                 "de": "Kerlescan-Steinreihen",
                 "hu": "Kerlescan-kősorok",
                 "ro": "Aliniamentele de la Kerlescan",
-                "en": "Kerlescan Alignments"
+                "en": "Kerlescan Alignments",
+                "fr": "Alignements de Kerlescan"
               },
               "tip_5lang": {
                 "de": "Parkplatz meist weniger belegt.",
                 "hu": "A parkoló általában kevésbé foglalt.",
                 "ro": "Parcarea este de obicei mai liberă.",
-                "en": "Parking is usually less crowded."
+                "en": "Parking is usually less crowded.",
+                "fr": "Le stationnement est généralement moins encombré."
               }
             },
             {
@@ -1687,13 +1741,15 @@
                 "de": "Kermario-Steinreihen",
                 "hu": "Kermario-kősorok",
                 "ro": "Aliniamentele de la Kermario",
-                "en": "Kermario Alignments"
+                "en": "Kermario Alignments",
+                "fr": "Alignements de Kermario"
               },
               "tip_5lang": {
                 "de": "Besuchen Sie den Aussichtsturm.",
                 "hu": "Látogassa meg a kilátótornyot.",
                 "ro": "Vizitați turnul de observație.",
-                "en": "Visit the observation tower."
+                "en": "Visit the observation tower.",
+                "fr": "Visitez la tour d’observation."
               }
             },
             {
@@ -1701,13 +1757,15 @@
                 "de": "Ménec-Steinreihen",
                 "hu": "Ménec-kősorok",
                 "ro": "Aliniamentele de la Ménec",
-                "en": "Ménec Alignments"
+                "en": "Ménec Alignments",
+                "fr": "Alignements de Ménec"
               },
               "tip_5lang": {
                 "de": "Großer zentraler Parkplatz vorhanden.",
                 "hu": "Nagy központi parkoló áll rendelkezésre.",
                 "ro": "Există o parcare centrală mare.",
-                "en": "Large central parking available."
+                "en": "Large central parking available.",
+                "fr": "Grand parking central disponible."
               }
             },
             {
@@ -1715,13 +1773,15 @@
                 "de": "Museum für Vorgeschichte",
                 "hu": "Őstörténeti Múzeum",
                 "ro": "Muzeul de Preistorie",
-                "en": "Museum of Prehistory"
+                "en": "Museum of Prehistory",
+                "fr": "Musée de Préhistoire"
               },
               "tip_5lang": {
                 "de": "Parkhaus im Ortskern nutzen.",
                 "hu": "Használja a városközpont parkolóházát.",
                 "ro": "Folosiți parcarea etajată din centru.",
-                "en": "Use the parking garage in the center."
+                "en": "Use the parking garage in the center.",
+                "fr": "Utilisez le parking souterrain au centre."
               }
             },
             {
@@ -1729,13 +1789,15 @@
                 "de": "Grande Plage",
                 "hu": "Nagy Strand",
                 "ro": "Grande Plage",
-                "en": "Grande Plage"
+                "en": "Grande Plage",
+                "fr": "Grande Plage"
               },
               "tip_5lang": {
                 "de": "Parken entlang der Boulevard de la Plage.",
                 "hu": "Parkolás a Boulevard de la Plage mentén.",
                 "ro": "Parcare de-a lungul Boulevard de la Plage.",
-                "en": "Parking along Boulevard de la Plage."
+                "en": "Parking along Boulevard de la Plage.",
+                "fr": "Stationnement le long du Boulevard de la Plage."
               }
             }
           ],
@@ -1837,6 +1899,10 @@
             "en": [
               "Watch out for parking restrictions in high season.",
               "Use the 'Carnavette' shuttle if parking lots are full."
+            ],
+            "fr": [
+              "Attention aux restrictions de stationnement en haute saison.",
+              "Utilisez la navette « Carnavette » si les parkings sont pleins."
             ]
           }
         },
@@ -1846,7 +1912,7 @@
             "hu": "Használja ki az autó kényelmét, hogy szárazon közlekedjen a tágas kősorok között. Kezdje Kerlescannál, majd Kermarión át haladjon Ménec felé. Délben a Prehisztorikus Múzeum hosszú, időjárásálló kulturális pihenőt kínál. A délutánt töltse a Grande Plage-on, ahol biztonságosan figyelheti a viharos tengert az autóból.",
             "ro": "Folosiți confortul mașinii pentru a naviga uscat între aliniamentele vaste. Începeți la Kerlescan și înaintați prin Kermario spre Ménec. La prânz, Muzeul de Preistorie oferă o pauză culturală lungă și ferită de vreme. După-amiaza o petreceți relaxat la Grande Plage, admirând marea furtunoasă din mașină.",
             "en": "Use the comfort of the car to commute dry between the vast alignments. Start at Kerlescan and work your way through Kermario to Ménec. At noon, the Prehistory Museum offers a long, weather-proof cultural break. Spend the afternoon relaxed at Grande Plage, safely watching the stormy sea from the car.",
-            "fr": "Profitez du confort de la voiture pour circuler au sec entre les vastes alignements. Commencez à Kerlescan et progressez via Kermario jusqu'au Ménec. À midi, le Musée de Préhistoire offre une longue pause culturelle à l'abri des intempéries. Passez l'après-midi détendu à la Grande Plage, en observant la mer agitée en toute sécurité depuis la voiture."
+            "fr": "Profitez du confort de la voiture pour vous déplacer au sec entre les vastes alignements. Commencez à Kerlescan et traversez Kermario jusqu’à Ménec. À midi, le Musée de Préhistoire offre une longue pause culturelle à l’épreuve du mauvais temps. Passez l’après-midi détendu à la Grande Plage, à observer la mer agitée en toute sécurité depuis la voiture."
           },
           "stops": [
             {
@@ -1856,7 +1922,7 @@
                 "hu": "Parkoljon közvetlenül a bejáratnál, hogy lerövidítse az utat az esőben.",
                 "ro": "Parcați chiar la intrare pentru a scurta drumul prin ploaie.",
                 "en": "Park right at the entrance to keep the walk in the rain short.",
-                "fr": "Garez-vous juste à l'entrée pour raccourcir la marche sous la pluie."
+                "fr": "Garez-vous juste à l’entrée pour réduire la marche sous la pluie."
               }
             },
             {
@@ -1866,7 +1932,7 @@
                 "hu": "Hagyja a vizes esernyőket a csomagtartóban, hogy bent száraz maradjon.",
                 "ro": "Lăsați umbrelele ude în portbagaj pentru a menține interiorul uscat.",
                 "en": "Leave wet umbrellas in the trunk to keep the interior dry.",
-                "fr": "Laissez les parapluies mouillés dans le coffre pour garder l'intérieur sec."
+                "fr": "Laissez les parapluies mouillés dans le coffre pour garder l’habitacle sec."
               }
             },
             {
@@ -1886,7 +1952,7 @@
                 "hu": "A környező utcákban vannak parkolók, gyakran időkorláttal.",
                 "ro": "Există locuri de parcare pe străzile din jur, adesea cu limită de timp.",
                 "en": "There are parking spaces in the surrounding streets, often time-limited.",
-                "fr": "Il y a des places de parking dans les rues environnantes, souvent limitées dans le temps."
+                "fr": "Il y a des places dans les rues environnantes, souvent limitées dans le temps."
               }
             },
             {
@@ -1896,7 +1962,7 @@
                 "hu": "Tökéletes hely viharfigyelésre az első sorból, a meleg autóból.",
                 "ro": "Locul perfect pentru a privi furtuna din prima linie, din mașina caldă.",
                 "en": "Perfect spot for storm-watching from the front row in a warm car.",
-                "fr": "Endroit parfait pour observer la tempête au premier rang dans une voiture chaude."
+                "fr": "Emplacement parfait pour observer la tempête au premier rang depuis une voiture chauffée."
               }
             }
           ],
@@ -1930,11 +1996,11 @@
               "Visibility during Breton coastal rain can fluctuate significantly."
             ],
             "fr": [
-              "Assurez-vous que les balais d'essuie-glace sont en bon état.",
+              "Vérifiez l’état des balais d’essuie‑glace.",
               "Gardez des serviettes dans la voiture pour vous sécher après les arrêts.",
-              "Évitez les zones de stationnement basses près de la plage lors de fortes pluies.",
-              "Utilisez la climatisation pour éviter que les vitres ne s'embuent.",
-              "La visibilité pendant la pluie côtière bretonne peut fluctuer considérablement."
+              "Évitez les parkings bas situés près de la plage lors de fortes pluies.",
+              "Utilisez la climatisation pour éviter la buée sur les vitres.",
+              "La visibilité lors des pluies côtières bretonnes peut fluctuer fortement."
             ]
           }
         },
@@ -1944,7 +2010,7 @@
             "hu": "Élvezze Carnac téli tájait egy kényelmes autózás közben. Kerlescan és Kermario megalitjai különösen békések az utószezon tiszta fényében. Délben a központi múzeum csalogat, majd a Ménec-i kősorok következnek. A nap a Grande Plage-on zárul a látványos téli naplementével.",
             "ro": "Bucurați-vă de peisajul de iarnă din Carnac într-o plimbare confortabilă. Megaliții de la Kerlescan și Kermario par liniștiți în lumina clară a extrasezonului. La prânz, muzeul central vă atrage, urmat de o vizită la aliniamentele Ménec. Ziua se încheie cu un apus de iarnă spectaculos la Grande Plage.",
             "en": "Enjoy the winter landscapes of Carnac on a comfortable drive. The megaliths of Kerlescan and Kermario seem especially peaceful in the clear off-season light. At noon, the central museum beckons, followed by a visit to the Ménec Alignments. The day ends with a spectacular winter sunset view at Grande Plage.",
-            "fr": "Appréciez les paysages hivernaux de Carnac lors d'une balade confortable. Les mégalithes de Kerlescan et Kermario semblent particulièrement paisibles sous la lumière claire de la basse saison. À midi, le musée central vous attend, suivi d'une visite aux alignements du Ménec. La journée se termine par une vue spectaculaire sur le coucher de soleil hivernal à la Grande Plage."
+            "fr": "Profitez des paysages hivernaux de Carnac lors d’une balade confortable. Les mégalithes de Kerlescan et Kermario paraissent particulièrement paisibles dans la lumière claire de l’arrière‑saison. À midi, le musée central attire, suivi d’une visite aux Alignements de Ménec. La journée se termine par un spectaculaire coucher de soleil d’hiver à la Grande Plage."
           },
           "stops": [
             {
@@ -1954,7 +2020,7 @@
                 "hu": "A parkolás télen nem probléma, a helyek szinte üresek.",
                 "ro": "Parcarea nu este o problemă iarna, locurile sunt aproape goale.",
                 "en": "Parking is no problem in winter, spaces are almost empty.",
-                "fr": "Le stationnement ne pose aucun problème en hiver, les places sont presque vides."
+                "fr": "Le stationnement n’est pas un problème en hiver, les places sont presque vides."
               }
             },
             {
@@ -1964,7 +2030,7 @@
                 "hu": "Ne hagyjon értéktárgyakat látható helyen, még télen sem.",
                 "ro": "Nu lăsați obiecte de valoare la vedere în mașină, nici iarna.",
                 "en": "Do not leave valuables visible in the car, even in winter.",
-                "fr": "Ne laissez pas d'objets de valeur visibles dans la voiture, même en hiver."
+                "fr": "Ne laissez pas d’objets de valeur visibles dans la voiture, même en hiver."
               }
             },
             {
@@ -1974,7 +2040,7 @@
                 "hu": "A 'Maison des Mégalithes' látogatóközpont télen gyakran zárva van.",
                 "ro": "Centrul de vizitare 'Maison des Mégalithes' este adesea închis iarna.",
                 "en": "The visitor center 'Maison des Mégalithes' is often closed in winter.",
-                "fr": "Le centre d'accueil 'Maison des Mégalithes' est souvent fermé en hiver."
+                "fr": "Le centre d’accueil « Maison des Mégalithes » est souvent fermé en hiver."
               }
             },
             {
@@ -2028,11 +2094,11 @@
               "A battery check before the tour is advisable in cold weather."
             ],
             "fr": [
-              "Vérifiez l'antigel dans le système de lave-glace.",
-              "Le soleil d'hiver est bas ; gardez des lunettes de soleil à portée de main.",
-              "Certaines routes côtières peuvent être fermées lors des tempêtes hivernales.",
-              "Profitez des routes vides pour une conduite panoramique détendue.",
-              "Une vérification de la batterie avant le tour est conseillée par temps froid."
+              "Vérifiez l’antigel du système de lave‑glace.",
+              "Le soleil d’hiver est bas ; gardez des lunettes de soleil à portée.",
+              "Certaines routes côtières peuvent être fermées lors de tempêtes hivernales.",
+              "Profitez des routes vides pour une balade panoramique détendue.",
+              "Une vérification de la batterie avant la sortie est conseillée par temps froid."
             ]
           }
         }
@@ -2051,7 +2117,8 @@
             "de": "Ménec-Steinreihen",
             "hu": "Ménec-kősorok",
             "ro": "Aliniamentele de la Ménec",
-            "en": "Ménec Alignments"
+            "en": "Ménec Alignments",
+            "fr": "Alignements de Ménec"
           },
           "coords": [
             -3.0841,
@@ -2067,7 +2134,7 @@
             "hu": "Megálló közvetlenül a Megalitok Házánál.",
             "ro": "Stație chiar lângă Maison des Mégalithes.",
             "en": "Stop right at the Maison des Mégalithes.",
-            "fr": "Arrêt juste à la Maison des Mégalithes."
+            "fr": "Arrêtez-vous juste à la Maison des Mégalithes."
           }
         },
         {
@@ -2075,7 +2142,8 @@
             "de": "Museum für Vorgeschichte",
             "hu": "Őstörténeti Múzeum",
             "ro": "Muzeul de Preistorie",
-            "en": "Museum of Prehistory"
+            "en": "Museum of Prehistory",
+            "fr": "Musée de Préhistoire"
           },
           "coords": [
             -3.0772,
@@ -2091,7 +2159,7 @@
             "hu": "Központi megálló: 'Carnac-Ville'.",
             "ro": "Stația centrală 'Carnac-Ville'.",
             "en": "Central stop 'Carnac-Ville'.",
-            "fr": "Arrêt central 'Carnac-Ville'."
+            "fr": "Arrêt central « Carnac-Ville »."
           }
         },
         {
@@ -2099,7 +2167,8 @@
             "de": "Kirche Saint-Cornély",
             "hu": "Szent Kornél-templom",
             "ro": "Biserica Saint-Cornély",
-            "en": "Church of Saint-Cornély"
+            "en": "Church of Saint-Cornély",
+            "fr": "Église Saint-Cornély"
           },
           "coords": [
             -3.0781,
@@ -2123,7 +2192,8 @@
             "de": "Grande Plage",
             "hu": "Nagy Strand",
             "ro": "Grande Plage",
-            "en": "Grande Plage"
+            "en": "Grande Plage",
+            "fr": "Grande Plage"
           },
           "coords": [
             -3.0755,
@@ -2147,7 +2217,8 @@
             "de": "Plage de Légenèse",
             "hu": "Légenèse strand",
             "ro": "Plaja Légenèse",
-            "en": "Légenèse Beach"
+            "en": "Légenèse Beach",
+            "fr": "Plage de Légenèse"
           },
           "coords": [
             -3.0885,
@@ -2163,7 +2234,7 @@
             "hu": "Csendes befejezés a hazautazás előtt.",
             "ro": "Final liniștit înainte de plecare.",
             "en": "Quiet end before heading back.",
-            "fr": "Fin tranquille avant le retour."
+            "fr": "Extrémité calme avant le retour."
           }
         }
       ],
@@ -2172,7 +2243,7 @@
         "hu": "Használja a helyi buszjáratot a Ménec-megalitok és a történelmi városközpont közötti közlekedéshez. A templom és a múzeum megtekintése után a busz egyenesen a pezsgő Nagy Strandhoz viszi. Mielőtt visszaindulna, érdemes egy rövid kitérőt tenni a csendesebb Légenèse strandra, hogy a tömegtől távol élvezze a tengeri szellőt.",
         "ro": "Folosiți autobuzul local pentru a pendula între megalitii de la Ménec și centrul istoric al orașului. După vizitarea bisericii și a muzeului, autobuzul vă duce direct la vibranta Grande Plage. Înainte de a pleca înapoi, merită o scurtă oprire la plaja mai liniștită Légenèse, pentru a vă bucura de briza mării departe de mulțime.",
         "en": "Use the local bus to commute between the Ménec megaliths and the historic town center. After visiting the church and the museum, the bus takes you straight to the lively Grande Plage. Before heading back, a short detour to the quieter Légenèse Beach is worthwhile to enjoy the sea breeze away from the crowds.",
-        "fr": "Utilisez le bus local pour circuler entre les mégalithes du Ménec et le centre historique. Après l'église et le musée, le bus vous emmène directement à l'animée Grande Plage. Avant de repartir, un court détour par la plage plus calme de Légenèse vaut le coup pour profiter de l'air marin loin de la foule."
+        "fr": "Utilisez le bus local pour aller des alignements du Ménec au centre-ville historique. Après avoir visité l'église et le musée, le bus vous conduit directement à la vivante Grande Plage. Avant de repartir, un court détour par la plus tranquille plage de Légenèse vaut la peine pour profiter de la brise marine à l'écart des foules."
       },
       "gastro_picks": {
         "de": [
@@ -2293,8 +2364,8 @@
           "Buy a day ticket for more flexibility."
         ],
         "fr": [
-          "Consultez les horaires de la ligne 1 (BreizhGo).",
-          "Achetez un ticket à la journée pour plus de flexibilité."
+          "Vérifiez les horaires de la Ligne 1 (BreizhGo).",
+          "Achetez un ticket journée pour plus de flexibilité."
         ]
       },
       "variants": {
@@ -2303,7 +2374,8 @@
             "de": "Nutzen Sie den lokalen Bus, um zwischen den Megalithen von Ménec und dem historischen Stadtzentrum zu pendeln. Nach dem Besuch der Kirche und des Museums bringt Sie der Bus direkt an die lebhafte Grande Plage. Bevor Sie den Rückweg antreten, lohnt sich ein kurzer Abstecher zur ruhigeren Plage de Légenèse, um die Meeresbrise abseits der Massen zu genießen.",
             "hu": "Használja a helyi buszjáratot a Ménec-megalitok és a történelmi városközpont közötti közlekedéshez. A templom és a múzeum megtekintése után a busz egyenesen a pezsgő Nagy Strandhoz viszi. Mielőtt visszaindulna, érdemes egy rövid kitérőt tenni a csendesebb Légenèse strandra, hogy a tömegtől távol élvezze a tengeri szellőt.",
             "ro": "Folosiți autobuzul local pentru a pendula între megalitii de la Ménec și centrul istoric al orașului. După vizitarea bisericii și a muzeului, autobuzul vă duce direct la vibranta Grande Plage. Înainte de a pleca înapoi, merită o scurtă oprire la plaja mai liniștită Légenèse, pentru a vă bucura de briza mării departe de mulțime.",
-            "en": "Use the local bus to commute between the Ménec megaliths and the historic town center. After visiting the church and the museum, the bus takes you straight to the lively Grande Plage. Before heading back, a short detour to the quieter Légenèse Beach is worthwhile to enjoy the sea breeze away from the crowds."
+            "en": "Use the local bus to commute between the Ménec megaliths and the historic town center. After visiting the church and the museum, the bus takes you straight to the lively Grande Plage. Before heading back, a short detour to the quieter Légenèse Beach is worthwhile to enjoy the sea breeze away from the crowds.",
+            "fr": "Utilisez le bus local pour aller des alignements du Ménec au centre-ville historique. Après avoir visité l'église et le musée, le bus vous conduit directement à la vivante Grande Plage. Avant de repartir, un court détour par la plus tranquille plage de Légenèse vaut la peine pour profiter de la brise marine à l'écart des foules."
           },
           "stops": [
             {
@@ -2311,13 +2383,15 @@
                 "de": "Ménec-Steinreihen",
                 "hu": "Ménec-kősorok",
                 "ro": "Aliniamentele de la Ménec",
-                "en": "Ménec Alignments"
+                "en": "Ménec Alignments",
+                "fr": "Alignements du Ménec"
               },
               "tip_5lang": {
                 "de": "Haltstelle direkt am Maison des Mégalithes.",
                 "hu": "Megálló közvetlenül a Megalitok Házánál.",
                 "ro": "Stație chiar lângă Maison des Mégalithes.",
-                "en": "Stop right at the Maison des Mégalithes."
+                "en": "Stop right at the Maison des Mégalithes.",
+                "fr": "Arrêt juste à la Maison des Mégalithes."
               }
             },
             {
@@ -2325,13 +2399,15 @@
                 "de": "Museum für Vorgeschichte",
                 "hu": "Őstörténeti Múzeum",
                 "ro": "Muzeul de Preistorie",
-                "en": "Museum of Prehistory"
+                "en": "Museum of Prehistory",
+                "fr": "Musée de Préhistoire"
               },
               "tip_5lang": {
                 "de": "Zentrale Haltestelle 'Carnac-Ville'.",
                 "hu": "Központi megálló: 'Carnac-Ville'.",
                 "ro": "Stația centrală 'Carnac-Ville'.",
-                "en": "Central stop 'Carnac-Ville'."
+                "en": "Central stop 'Carnac-Ville'.",
+                "fr": "Arrêt central « Carnac-Ville »."
               }
             },
             {
@@ -2339,13 +2415,15 @@
                 "de": "Kirche Saint-Cornély",
                 "hu": "Szent Kornél-templom",
                 "ro": "Biserica Saint-Cornély",
-                "en": "Church of Saint-Cornély"
+                "en": "Church of Saint-Cornély",
+                "fr": "Église Saint-Cornély"
               },
               "tip_5lang": {
                 "de": "Nur wenige Schritte von der Haltestelle entfernt.",
                 "hu": "Csak pár lépésre a megállótól.",
                 "ro": "La doar câțiva pași de stație.",
-                "en": "Just a few steps from the stop."
+                "en": "Just a few steps from the stop.",
+                "fr": "À quelques pas seulement de l'arrêt."
               }
             },
             {
@@ -2353,13 +2431,15 @@
                 "de": "Grande Plage",
                 "hu": "Nagy Strand",
                 "ro": "Grande Plage",
-                "en": "Grande Plage"
+                "en": "Grande Plage",
+                "fr": "Grande Plage"
               },
               "tip_5lang": {
                 "de": "Haltestelle am Tourismusbüro Strand.",
                 "hu": "Megálló a strandnál lévő irodánál.",
                 "ro": "Stație la biroul de turism de pe plajă.",
-                "en": "Stop at the beach tourist office."
+                "en": "Stop at the beach tourist office.",
+                "fr": "Arrêt à l'office de tourisme de la plage."
               }
             },
             {
@@ -2367,13 +2447,15 @@
                 "de": "Plage de Légenèse",
                 "hu": "Légenèse strand",
                 "ro": "Plaja Légenèse",
-                "en": "Légenèse Beach"
+                "en": "Légenèse Beach",
+                "fr": "Plage de Légenèse"
               },
               "tip_5lang": {
                 "de": "Ruhiges Ende vor der Rückfahrt.",
                 "hu": "Csendes befejezés a hazautazás előtt.",
                 "ro": "Final liniștit înainte de plecare.",
-                "en": "Quiet end before heading back."
+                "en": "Quiet end before heading back.",
+                "fr": "Extrémité calme avant le retour."
               }
             }
           ],
@@ -2475,6 +2557,10 @@
             "en": [
               "Check the timetable for Line 1 (BreizhGo).",
               "Buy a day ticket for more flexibility."
+            ],
+            "fr": [
+              "Vérifiez les horaires de la Ligne 1 (BreizhGo).",
+              "Achetez un ticket journée pour plus de flexibilité."
             ]
           }
         },
@@ -2484,7 +2570,7 @@
             "hu": "Használja a helyi buszt az esős szakaszok áthidalására. Kezdje a Ménec-i kősoroknál, majd meneküljön a központi múzeumba. A Saint-Cornély templom egy újabb száraz megálló. Délután a busz elviszi a Grande Plage-ra, ahol élvezheti a szürke tengert, mielőtt a meleg busszal visszatérne.",
             "ro": "Folosiți autobuzul local pentru a traversa porțiunile ploioase. Începeți la aliniamentele Ménec, apoi refugiați-vă în muzeul central. Biserica Saint-Cornély oferă o altă oprire uscată. După-amiaza, autobuzul vă duce la Grande Plage pentru a admira marea gri înainte de întoarcere.",
             "en": "Use the local bus to bridge rainy sections. Start at the Ménec Alignments, then take refuge in the central museum. The Church of Saint-Cornély offers another dry stop. In the afternoon, the bus takes you to Grande Plage where you can enjoy the grey sea before taking the warm bus back.",
-            "fr": "Utilisez le bus local pour relier les sections pluvieuses. Commencez aux alignements du Ménec, puis réfugiez-vous au musée central. L'église Saint-Cornély offre un autre arrêt au sec. L'après-midi, le bus vous emmène à la Grande Plage où vous pouvez admirer la mer grise avant de reprendre le bus chauffé."
+            "fr": "Utilisez le bus local pour franchir les tronçons pluvieux. Commencez aux Alignements du Ménec, puis mettez-vous à l'abri au musée central. L'église Saint-Cornély offre un autre arrêt au sec. L'après-midi, le bus vous conduit à la Grande Plage où vous pouvez profiter de la mer grise avant de reprendre le bus chaud pour le retour."
           },
           "stops": [
             {
@@ -2504,7 +2590,7 @@
                 "hu": "Várja meg a múzeumi kávézóban a következő buszjáratot.",
                 "ro": "Așteptați următoarea conexiune de autobuz în cafeneaua muzeului.",
                 "en": "Wait for the next bus connection in the museum cafe.",
-                "fr": "Attendez la prochaine correspondance de bus au café du musée."
+                "fr": "Attendez la correspondance suivante au café du musée."
               }
             },
             {
@@ -2514,7 +2600,7 @@
                 "hu": "A központi megálló ideális, hogy gyorsan száraz helyre érjen.",
                 "ro": "Stația centrală este ideală pentru a ajunge rapid la adăpost.",
                 "en": "The central stop is ideal for quickly getting into the dry.",
-                "fr": "L'arrêt central est idéal pour se mettre rapidement au sec."
+                "fr": "L'arrêt central est idéal pour vous mettre rapidement à l'abri."
               }
             },
             {
@@ -2524,7 +2610,7 @@
                 "hu": "Pontosan tervezze meg a visszautat, hogy ne kelljen az esőben várni.",
                 "ro": "Planificați precis întoarcerea pentru a nu aștepta în ploaie.",
                 "en": "Plan the return journey exactly to avoid waiting in the rain.",
-                "fr": "Planifiez exactement le voyage de retour pour éviter d'attendre sous la pluie."
+                "fr": "Planifiez précisément le retour pour éviter d'attendre sous la pluie."
               }
             },
             {
@@ -2534,7 +2620,7 @@
                 "hu": "Heves esőben ez a megálló busszal gyakran kevésbé vonzó.",
                 "ro": "În caz de ploaie torențială, această oprire este mai puțin atractivă.",
                 "en": "In heavy rain, this stop by bus is often less attractive.",
-                "fr": "Sous une forte pluie, cet arrêt en bus est souvent moins attrayant."
+                "fr": "Par fortes pluies, cet arrêt en bus est souvent moins attrayant."
               }
             }
           ],
@@ -2568,11 +2654,11 @@
               "A small foldable umbrella is more manageable on the bus than a large one."
             ],
             "fr": [
-              "Vérifiez les horaires de 'Ti Bus' ou 'BreizhGo' en ligne à l'avance.",
-              "Prévoyez de la monnaie ou une carte pour l'achat du ticket.",
-              "Les bus sont souvent la seule option chauffée en hiver ou sous la pluie.",
-              "Attendez-vous à de légers retards par mauvais temps.",
-              "Un petit parapluie pliable est plus facile à gérer dans le bus qu'un grand."
+              "Vérifiez d'avance les horaires 'Ti Bus' ou 'BreizhGo' en ligne.",
+              "Ayez de la monnaie ou une carte prête pour l'achat du ticket.",
+              "Les bus sont souvent la seule option chauffée en hiver ou par temps de pluie.",
+              "Prévoir de petits retards par mauvais temps.",
+              "Un petit parapluie pliant est plus maniable dans le bus qu'un grand."
             ]
           }
         },
@@ -2582,7 +2668,7 @@
             "hu": "Egy nyugodt téli nap buszozással indul a Ménec-i kősorokhoz. A busz melege jól esik a kövek közötti séta után. Délben tömegközlekedéssel kényelmesen eléri a központi múzeumot. A délutánt a Grande Plage-on tölti, mielőtt az utolsó busz visszaindulna sötétedés előtt.",
             "ro": "O zi liniștită de iarnă începe cu o călătorie cu autobuzul spre aliniamentele Ménec. Căldura autobuzului este binevenită după plimbarea printre pietre. La prânz, ajungeți la muzeul central cu transportul în comun. Petreceți după-amiaza la Grande Plage înainte de ultimul autobuz spre casă.",
             "en": "A quiet winter day starts with a bus ride to the Ménec Alignments. The warmth of the bus is welcome after walking among the stones. At noon, you reach the central museum comfortably by transit. Spend the afternoon at Grande Plage before the last bus returns before dark.",
-            "fr": "Une journée d'hiver tranquille commence par un trajet en bus vers les alignements du Ménec. La chaleur du bus est bienvenue après la marche parmi les pierres. À midi, vous atteignez confortablement le musée central en transport. Passez l'après-midi à la Grande Plage avant le dernier bus du retour avant la nuit."
+            "fr": "Une journée d'hiver tranquille commence par un trajet en bus jusqu'aux Alignements du Ménec. La chaleur du bus est bienvenue après la promenade entre les pierres. À midi, vous atteignez confortablement le musée central en transit. Passez l'après-midi à la Grande Plage avant que le dernier bus ne retourne avant la tombée de la nuit."
           },
           "stops": [
             {
@@ -2602,7 +2688,7 @@
                 "hu": "A megálló közvetlenül Carnac-Ville központjában található.",
                 "ro": "Stația este situată chiar în inima orașului Carnac-Ville.",
                 "en": "The stop is located right in the heart of Carnac-Ville.",
-                "fr": "L'arrêt se situe en plein cœur de Carnac-Ville."
+                "fr": "L'arrêt est situé en plein cœur de Carnac-Ville."
               }
             },
             {
@@ -2622,7 +2708,7 @@
                 "hu": "A busz a strand közeli turisztikai információs iroda mellett áll meg.",
                 "ro": "Autobuzul oprește lângă biroul de informații turistice de la plajă.",
                 "en": "The bus stops near the tourist information office at the beach.",
-                "fr": "Le bus s'arrête près de l'office de tourisme à la plage."
+                "fr": "Le bus s'arrête près de l'office de tourisme de la plage."
               }
             },
             {
@@ -2632,7 +2718,7 @@
                 "hu": "Ügyeljen az utolsó járatra, mielőtt hideg és sötét lesz.",
                 "ro": "Atenție la ultima cursă înainte de a se face frig și întuneric.",
                 "en": "Watch out for the last connection before it gets cold and dark.",
-                "fr": "Attention à la dernière liaison avant qu'il ne fasse froid et sombre."
+                "fr": "Faites attention à la dernière correspondance avant qu'il ne fasse froid et sombre."
               }
             }
           ],
@@ -2668,9 +2754,9 @@
             "fr": [
               "Utilisez une application pour les départs en temps réel si disponible.",
               "Les bus sont agréablement vides en hiver.",
-              "Prenez une écharpe chaude, car il peut y avoir des courants d'air aux arrêts.",
-              "Prévoyez des marges de temps car l'horaire d'hiver est allégé.",
-              "Combinez les trajets en bus avec de courts séjours dans des cafés."
+              "Prenez une écharpe chaude, il peut y avoir des courants d'air aux arrêts.",
+              "Prévoyez des marges de sécurité car l'horaire d'hiver est réduit.",
+              "Combinez les trajets en bus avec de courts séjours en cafés."
             ]
           }
         }

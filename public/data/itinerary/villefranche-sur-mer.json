@@ -21,7 +21,8 @@
             "de": "Vieux Port",
             "hu": "Régi kikötő",
             "ro": "Portul vechi",
-            "en": "Old Port"
+            "en": "Old Port",
+            "fr": "Vieux Port"
           },
           "coords": [
             43.7035,
@@ -37,7 +38,7 @@
             "hu": "Tökéletes fotóhelyszín a színes házakhoz.",
             "ro": "Locul ideal pentru poze cu fațadele colorate.",
             "en": "The best spot for photos of the vibrant facades.",
-            "fr": "Le meilleur endroit pour photographier les façades colorées."
+            "fr": "Le meilleur endroit pour des photos des façades colorées."
           }
         },
         {
@@ -45,7 +46,8 @@
             "de": "Chapelle Saint-Pierre",
             "hu": "Szent Péter kápolna",
             "ro": "Capela Saint-Pierre",
-            "en": "Saint-Pierre Chapel"
+            "en": "Saint-Pierre Chapel",
+            "fr": "Chapelle Saint-Pierre"
           },
           "coords": [
             43.7035,
@@ -69,7 +71,8 @@
             "de": "Rue Obscure",
             "hu": "Rue Obscure",
             "ro": "Rue Obscure",
-            "en": "Rue Obscure"
+            "en": "Rue Obscure",
+            "fr": "Rue Obscure"
           },
           "coords": [
             43.704,
@@ -85,7 +88,7 @@
             "hu": "Egyedülálló, fedett középkori utca.",
             "ro": "O stradă medievală acoperită unică.",
             "en": "A unique completely covered medieval street.",
-            "fr": "Une rue médiévale unique entièrement couverte."
+            "fr": "Une rue médiévale entièrement couverte, unique en son genre."
           }
         },
         {
@@ -93,7 +96,8 @@
             "de": "Mittagessen in der Altstadt",
             "hu": "Ebéd az óvárosban",
             "ro": "Prânz în centrul vechi",
-            "en": "Old Town Lunch"
+            "en": "Old Town Lunch",
+            "fr": "Déjeuner en Vieille Ville"
           },
           "coords": [
             43.7045,
@@ -109,7 +113,7 @@
             "hu": "Kóstolja meg a helyi hallevest.",
             "ro": "Încercați supa de pește locală.",
             "en": "Try the delicious local Provencal fish soup.",
-            "fr": "Goûtez à la délicieuse soupe de poisson provençale locale."
+            "fr": "Goûtez la délicieuse soupe de poisson provençale locale."
           }
         },
         {
@@ -117,7 +121,8 @@
             "de": "Citadelle Saint-Elme",
             "hu": "Szent Elme citadella",
             "ro": "Citadela Saint-Elme",
-            "en": "Saint-Elme Citadel"
+            "en": "Saint-Elme Citadel",
+            "fr": "Citadelle Saint-Elme"
           },
           "coords": [
             43.702,
@@ -133,7 +138,7 @@
             "hu": "Látogassa meg az ingyenes Volti múzeumot.",
             "ro": "Vizitați muzeul gratuit Volti în interior.",
             "en": "Visit the free Volti Museum inside the walls.",
-            "fr": "Visitez le musée Volti gratuit à l'intérieur des remparts."
+            "fr": "Visitez gratuitement le musée Volti à l'intérieur des remparts."
           }
         },
         {
@@ -141,7 +146,8 @@
             "de": "Plage des Marinières",
             "hu": "Plage des Marinières",
             "ro": "Plaja Marinières",
-            "en": "Marinières Beach"
+            "en": "Marinières Beach",
+            "fr": "Plage des Marinières"
           },
           "coords": [
             43.707,
@@ -165,7 +171,8 @@
             "de": "Abendessen am Hafen",
             "hu": "Vacsora a kikötőben",
             "ro": "Cină în port",
-            "en": "Harbor Dinner"
+            "en": "Harbor Dinner",
+            "fr": "Dîner au Port"
           },
           "coords": [
             43.703,
@@ -190,7 +197,7 @@
         "hu": "Villefranche-sur-Mer a színek és a történelem függőleges labirintusa. Kezdjen a régi kikötőben, és látogasson el a Jean Cocteau által díszített halászkápolnába.\n\nFedezze fel a rejtélyes Rue Obscure-t, a 13. századi föld alatti utcát, mielőtt megebédelne az óváros egyik bájos teraszán.\n\nA délutánt töltse a monumentális Szent Elme citadellában, ahol ingyenes múzeumok várják, majd lazítson a környék legszebb homokos strandján.\n\nZárja a napot a vízparton, figyelve a hazatérő halászhajókat és az öböl felett lenyugvó nap utolsó sugarait.",
         "ro": "Villefranche-sur-Mer este un labirint vertical de culori și istorie. Începeți în portul vechi și vizitați capela decorată de artistul Jean Cocteau.\n\nExplorați misterioasa Rue Obscure, o stradă subterană din secolul al XIII-lea, înainte de a lua prânzul pe o terasă cochetă din centrul vechi.\n\nDupă-amiaza vizitați impunătoarea citadelă Saint-Elme, care găzduiește muzee de artă, urmată de o pauză binemeritată pe plaja cu nisip auriu.\n\nÎncheiați ziua cu un aperitiv pe faleză, admirând bărcile de pescuit care se întorc în port în lumina blândă a serii.",
         "en": "Villefranche-sur-Mer is a vertical labyrinth of color and history. Start your journey at the old harbor and visit the unique chapel decorated by Jean Cocteau.\n\nDiscover the mysterious Rue Obscure, a 13th-century underground passage, before enjoying lunch in the charming streets of the old town.\n\nSpend your afternoon at the massive Saint-Elme Citadel, now housing several art museums, followed by a well-deserved break on the sandy beach.\n\nConclude your day with a drink by the water as the fishing boats return and the bay glows in the soft evening light.",
-        "fr": "Villefranche-sur-Mer est un labyrinthe vertical de couleurs et d'histoire. Commencez votre périple au vieux port et visitez l'unique chapelle décorée par Jean Cocteau.\n\nDécouvrez la mystérieuse Rue Obscure, un passage souterrain du XIIIe siècle, avant de savourer un déjeuner dans les rues charmantes de la vieille ville.\n\nPassez votre après-midi à l'imposante Citadelle Saint-Elme, qui abrite aujourd'hui plusieurs musées d'art, suivie d'une pause bien méritée sur la plage de sable.\n\nConcluez votre journée avec un verre au bord de l'eau alors que les bateaux de pêche rentrent et que la baie s'illumine de la douce lumière du soir."
+        "fr": "Villefranche-sur-Mer est un labyrinthe vertical de couleurs et d'histoire. Commencez votre visite au vieux port et visitez la chapelle unique décorée par Jean Cocteau.\n\nDécouvrez la mystérieuse Rue Obscure, un passage souterrain du XIIIe siècle, avant de déjeuner dans les rues charmantes de la vieille ville.\n\nPassez l'après‑midi à la vaste citadelle Saint‑Elme, qui abrite désormais plusieurs musées d'art, puis accordez‑vous une pause bien méritée sur la plage de sable.\n\nConcluez votre journée par un verre au bord de l'eau tandis que les bateaux de pêche rentrent et que la baie s'illumine d'une douce lumière du soir."
       },
       "gastro_picks": {
         "de": [
@@ -339,10 +346,10 @@
           "Book waterfront restaurants in advance during summer."
         ],
         "fr": [
-          "Préparez-vous à monter de nombreux escaliers dans la vieille ville.",
-          "Le centre historique est presque entièrement piétonnier.",
-          "La plage est idéalement située juste à côté de la gare.",
-          "Réservez vos restaurants en bord de mer à l'avance pendant l'été."
+          "Préparez‑vous à de nombreux escaliers dans la vieille ville.",
+          "Le centre historique est presque entièrement piéton.",
+          "La plage se trouve juste à côté de la gare, pratique d'accès.",
+          "Réservez les restaurants en bord de mer à l'avance en été."
         ]
       }
     },
@@ -359,7 +366,8 @@
             "de": "Hafen Villefranche",
             "hu": "Villefranche kikötő",
             "ro": "Port Villefranche",
-            "en": "Villefranche Harbor"
+            "en": "Villefranche Harbor",
+            "fr": "Port de Villefranche"
           },
           "coords": [
             43.7035,
@@ -375,7 +383,7 @@
             "hu": "A tengerparti túra kezdőpontja.",
             "ro": "Punctul de plecare al turului.",
             "en": "Starting point of your scenic coastal ride.",
-            "fr": "Point de départ de votre balade panoramique sur la côte."
+            "fr": "Point de départ de votre balade côtière panoramique."
           }
         },
         {
@@ -383,7 +391,8 @@
             "de": "Cap Ferrat Rundweg",
             "hu": "Cap Ferrat körút",
             "ro": "Turul Cap Ferrat",
-            "en": "Cap Ferrat Loop"
+            "en": "Cap Ferrat Loop",
+            "fr": "Boucle Cap Ferrat"
           },
           "coords": [
             43.6892,
@@ -399,7 +408,7 @@
             "hu": "Élvezze a fenyőfák árnyékát.",
             "ro": "Bucurați-vă de umbra pinilor.",
             "en": "Enjoy the cool shade of the pine trees.",
-            "fr": "Profitez de l'ombre fraîche des pins."
+            "fr": "Profitez de la fraîcheur de l'ombre des pins."
           }
         },
         {
@@ -407,7 +416,8 @@
             "de": "Saint-Jean-Cap-Ferrat",
             "hu": "Saint-Jean-Cap-Ferrat",
             "ro": "Saint-Jean-Cap-Ferrat",
-            "en": "Saint-Jean-Cap-Ferrat"
+            "en": "Saint-Jean-Cap-Ferrat",
+            "fr": "Saint-Jean-Cap-Ferrat"
           },
           "coords": [
             43.69,
@@ -423,7 +433,7 @@
             "hu": "Gyönyörű kis jachtkikötő.",
             "ro": "Mic port de agrement superb.",
             "en": "A beautiful and upscale leisure harbor.",
-            "fr": "Un port de plaisance magnifique et haut de gamme."
+            "fr": "Un port de plaisance élégant et agréable."
           }
         },
         {
@@ -431,7 +441,8 @@
             "de": "Picknick am Passable Strand",
             "hu": "Piknik a Passable strandon",
             "ro": "Picnic pe plaja Passable",
-            "en": "Picnic at Passable Beach"
+            "en": "Picnic at Passable Beach",
+            "fr": "Pique-nique à la Plage Passable"
           },
           "coords": [
             43.693,
@@ -447,7 +458,7 @@
             "hu": "Kilátás a Villefranche-i öbölre.",
             "ro": "Vedere spre golful Villefranche.",
             "en": "Stunning views back towards Villefranche bay.",
-            "fr": "Vues imprenables sur la baie de Villefranche."
+            "fr": "Vues splendides en direction de la baie de Villefranche."
           }
         },
         {
@@ -455,7 +466,8 @@
             "de": "Rückkehr nach Villefranche",
             "hu": "Visszatérés Villefranche-ba",
             "ro": "Retur în Villefranche",
-            "en": "Return to Villefranche"
+            "en": "Return to Villefranche",
+            "fr": "Retour à Villefranche"
           },
           "coords": [
             43.7039,
@@ -471,7 +483,7 @@
             "hu": "Adja le a bicikliket és pihenjen.",
             "ro": "Predați bicicletele și relaxați-vă.",
             "en": "Return your bikes and enjoy the afternoon.",
-            "fr": "Rendez vos vélos et profitez de l'après-midi."
+            "fr": "Rendez vos vélos et profitez de l'après‑midi."
           }
         }
       ],
@@ -480,7 +492,7 @@
         "hu": "Ez a kerékpártúra Villefranche öblétől a milliárdosok félszigete, a Cap Ferrat körül vezet.\n\nÉlvezze a sík parti utat és a fenyőfák alatt megbújó luxusvillák látványát az út mentén.\n\nTartson egy hosszú pihenőt a Passable strandon, amely a Riviéra egyik legnyugodtabb pontja, tökéletes egy piknikhez és fürdőzéshez.\n\nA Villefranche-ba való visszatérés után a napot a jachtkikötő egyik kávézójában zárhatja.",
         "ro": "Această tură cu bicicleta vă poartă de la golful Villefranche în jurul peninsulei miliardarilor, Cap Ferrat.\n\nBucurați-vă de drumul de coastă plat și de vederea către vilele de lux ascunse sub pinii mediteraneeni.\n\nFaceți o pauză lungă pe plaja Passable, unul dintre cele mai liniștite locuri de pe Rivieră, ideal pentru picnic și baie.\n\nDupă întoarcerea în Villefranche, puteți încheia ziua la una dintre cafenelele din portul de agrement.",
         "en": "This cycling tour takes you from the bay of Villefranche around the billionaire's peninsula of Cap Ferrat.\n\nEnjoy the flat coastal road and the glimpses of luxury villas tucked away beneath the Mediterranean pines.\n\nTake an extended break at Passable beach, one of the Riviera's quietest gems, perfect for a picnic and a swim.\n\nUpon returning to Villefranche, conclude your ride with a drink at one of the harborside cafes.",
-        "fr": "Ce tour à vélo vous emmène de la baie de Villefranche autour de la presqu'île des milliardaires du Cap Ferrat.\n\nProfitez de la route côtière plate et des aperçus sur les villas de luxe nichées sous les pins méditerranéens.\n\nFaites une pause prolongée à la plage de Passable, l'un des joyaux les plus calmes de la Riviera, parfait pour un pique-nique et une baignade.\n\nÀ votre retour à Villefranche, terminez votre balade par un verre à l'un des cafés du port."
+        "fr": "Cette balade à vélo vous emmène de la baie de Villefranche autour de la presqu'île des milliardaires, Cap Ferrat.\n\nProfitez de la route côtière plate et des aperçus de villas luxueuses nichées sous les pins méditerranéens.\n\nFaites une longue pause à la plage Passable, l'un des joyaux les plus tranquilles de la Riviera, idéale pour un pique‑nique et une baignade.\n\nDe retour à Villefranche, concluez votre tour par un verre dans l'un des cafés au bord du port."
       },
       "gastro_picks": {
         "de": [
@@ -609,10 +621,10 @@
           "Bring your swimwear for the beach stop."
         ],
         "fr": [
-          "Louez vos vélos dans le centre de Villefranche.",
+          "Louez vos vélos au centre de Villefranche.",
           "La boucle autour du cap est plate et très agréable.",
-          "Soyez respectueux envers les piétons sur les voies partagées.",
-          "Apportez votre maillot de bain pour l'arrêt à la plage."
+          "Respectez les piétons sur les voies partagées.",
+          "Prenez votre maillot pour l'arrêt plage."
         ]
       }
     },
@@ -629,7 +641,8 @@
             "de": "Hafen Villefranche (Cluster Altstadt)",
             "hu": "Villefranche kikötő (Óváros-klaszter)",
             "ro": "Port Villefranche (Cluster Centru)",
-            "en": "Villefranche Harbor (Old Town Cluster)"
+            "en": "Villefranche Harbor (Old Town Cluster)",
+            "fr": "Port de Villefranche (Groupe Vieille Ville)"
           },
           "coords": [
             43.7035,
@@ -645,7 +658,7 @@
             "hu": "Használja a kikötői parkolóházat.",
             "ro": "Folosiți parcarea de lângă port.",
             "en": "Park in the large garage near the harbor.",
-            "fr": "Garez-vous dans le grand parking près du port."
+            "fr": "Garez‑vous dans le grand garage près du port."
           }
         },
         {
@@ -653,7 +666,8 @@
             "de": "Rue Obscure",
             "hu": "Rue Obscure",
             "ro": "Rue Obscure",
-            "en": "Rue Obscure"
+            "en": "Rue Obscure",
+            "fr": "Rue Obscure"
           },
           "coords": [
             43.704,
@@ -669,7 +683,7 @@
             "hu": "Gyalogos séta a kikötői parkolótól.",
             "ro": "Acces pietonal din parcarea portului.",
             "en": "A short walk from the harbor parking garage.",
-            "fr": "À quelques pas du parking du port."
+            "fr": "À une courte distance à pied du parking du port."
           }
         },
         {
@@ -677,7 +691,8 @@
             "de": "Chapelle Cocteau",
             "hu": "Cocteau kápolna",
             "ro": "Capela Cocteau",
-            "en": "Cocteau Chapel"
+            "en": "Cocteau Chapel",
+            "fr": "Chapelle Cocteau"
           },
           "coords": [
             43.7035,
@@ -693,7 +708,7 @@
             "hu": "Ismét a kikötőnél található.",
             "ro": "Situată din nou în port.",
             "en": "Located right back at the harbor entrance.",
-            "fr": "Situé juste à l'entrée du port."
+            "fr": "Située juste en face de l'entrée du port."
           }
         },
         {
@@ -701,7 +716,8 @@
             "de": "Mittagessen am Wasser",
             "hu": "Ebéd a vízparton",
             "ro": "Prânz pe faleză",
-            "en": "Waterfront Lunch"
+            "en": "Waterfront Lunch",
+            "fr": "Déjeuner au bord de l'eau"
           },
           "coords": [
             43.703,
@@ -717,7 +733,7 @@
             "hu": "Ebéd után térjen vissza az autóhoz.",
             "ro": "Reveniți la mașină după masă.",
             "en": "Return to your car after enjoying lunch.",
-            "fr": "Retournez à votre voiture après avoir déjeuné."
+            "fr": "Retournez à votre voiture après le déjeuner."
           }
         },
         {
@@ -725,7 +741,8 @@
             "de": "Villa Ephrussi (Cluster Cap Ferrat)",
             "hu": "Villa Ephrussi (Cap Ferrat-klaszter)",
             "ro": "Villa Ephrussi (Cluster Cap Ferrat)",
-            "en": "Villa Ephrussi (Cap Ferrat Cluster)"
+            "en": "Villa Ephrussi (Cap Ferrat Cluster)",
+            "fr": "Villa Ephrussi (Groupe Cap Ferrat)"
           },
           "coords": [
             43.695,
@@ -749,7 +766,8 @@
             "de": "Jardins de la Villa",
             "hu": "A villa kertjei",
             "ro": "Grădinile Vilei",
-            "en": "Villa Gardens"
+            "en": "Villa Gardens",
+            "fr": "Jardins de la Villa"
           },
           "coords": [
             43.6955,
@@ -765,7 +783,7 @@
             "hu": "Látogassa meg mind a 9 kertet.",
             "ro": "Vizitați toate cele 9 grădini.",
             "en": "Be sure to explore all 9 themed gardens.",
-            "fr": "Assurez-vous d'explorer les 9 jardins thématiques."
+            "fr": "N'oubliez pas d'explorer les 9 jardins thématiques."
           }
         },
         {
@@ -773,7 +791,8 @@
             "de": "Fort du Mont Alban",
             "hu": "Mont Alban erőd",
             "ro": "Fortul Mont Alban",
-            "en": "Mont Alban Fort"
+            "en": "Mont Alban Fort",
+            "fr": "Fort Mont Alban"
           },
           "coords": [
             43.7,
@@ -789,7 +808,7 @@
             "hu": "A legjobb panoráma az egész régióban.",
             "ro": "Cea mai bună panoramă din regiune.",
             "en": "The absolute best panoramic view in the region.",
-            "fr": "La vue panoramique absolue la plus spectaculaire de la région."
+            "fr": "Le meilleur panorama de la région."
           }
         },
         {
@@ -797,7 +816,8 @@
             "de": "Sonnenuntergang am Grande Corniche",
             "hu": "Naplemente a Grande Corniche-nál",
             "ro": "Apus pe Grande Corniche",
-            "en": "Grande Corniche Sunset"
+            "en": "Grande Corniche Sunset",
+            "fr": "Coucher de soleil sur la Grande Corniche"
           },
           "coords": [
             43.72,
@@ -813,7 +833,7 @@
             "hu": "Használja a kilátóhelyi parkolóöblöt.",
             "ro": "Opriți în alveolele special amenajate.",
             "en": "Pull over at one of the designated viewpoints.",
-            "fr": "Garez-vous à l'un des points de vue désignés."
+            "fr": "Arrêtez‑vous à l'un des points de vue aménagés."
           }
         }
       ],
@@ -822,7 +842,7 @@
         "hu": "Ez az autós nap összeköti Villefranche báját a Villa Ephrussi pompájával és a látványos kilátópontokkal.\n\nFedezze fel Villefranche óvárosát délelőtt gyalogosan, mielőtt átgurulna a Cap Ferrat félszigetre.\n\nTöltse a délutánt a Villa Ephrussi de Rothschild kertjeiben, majd hajtson fel a Mont Alban erődhöz a felejthetetlen panorámáért.\n\nA napot a Grande Corniche-on, a világ egyik legszebb útján autózva zárhatja, éppen naplementekor.",
         "ro": "Această zi cu mașina îmbină farmecul din Villefranche cu opulența Vilei Ephrussi și puncte de belvedere spectaculoase.\n\nExplorați centrul vechi din Villefranche pietonal în prima parte a zilei, apoi mergeți spre peninsula Cap Ferrat.\n\nPetreceți după-amiaza în grădinile Vilei Ephrussi de Rothschild și urcați cu mașina la Fortul Mont Alban pentru o priveliște de neuitat.\n\nZiua se încheie cu un drum pe Grande Corniche, una dintre cele mai frumoase șosele din lume, exact la ora apusului.",
         "en": "This driving tour combines the intimate charm of Villefranche with the grandeur of Villa Ephrussi and spectacular cliffside views.\n\nExplore Villefranche's old town on foot in the morning before driving over to the lush Cap Ferrat peninsula.\n\nSpend your afternoon wandering the nine gardens of Villa Ephrussi de Rothschild, then drive up to Fort Mont Alban for an unforgettable vista.\n\nConclude your day with a drive along the Grande Corniche, one of the world's most scenic roads, perfectly timed for sunset.",
-        "fr": "Ce tour en voiture combine le charme intime de Villefranche avec la grandeur de la Villa Ephrussi et des vues spectaculaires sur les falaises.\n\nExplorez la vieille ville de Villefranche à pied le matin avant de vous rendre sur la luxuriante presqu'île du Cap Ferrat.\n\nPassez votre après-midi à errer dans les neuf jardins de la Villa Ephrussi de Rothschild, puis montez au Fort Mont Alban pour un panorama inoubliable.\n\nConcluez votre journée par une promenade le long de la Grande Corniche, l'une des routes les plus pittoresques au monde, idéalement programmée pour le coucher du soleil."
+        "fr": "Cette excursion en voiture combine le charme intime de Villefranche avec la splendeur de la Villa Ephrussi et des vues spectaculaires sur les falaises.\n\nExplorez la vieille ville de Villefranche à pied le matin avant de rejoindre la luxuriante presqu'île de Cap Ferrat.\n\nPassez l'après‑midi à déambuler dans les neuf jardins de la Villa Ephrussi de Rothschild, puis montez au Fort Mont Alban pour une vue inoubliable.\n\nTerminez la journée par une route le long de la Grande Corniche, l'une des plus belles routes panoramiques du monde, parfaitement calée pour le coucher du soleil."
       },
       "gastro_picks": {
         "de": [
@@ -952,8 +972,8 @@
         ],
         "fr": [
           "Le parking 'Wilson' près du port est votre meilleure option.",
-          "Conduire sur la Grande Corniche exige une concentration totale.",
-          "Ne vous garez jamais sur des propriétés privées en explorant le Cap Ferrat.",
+          "Conduire sur la Grande Corniche demande une concentration totale.",
+          "Ne vous garez jamais sur une propriété privée en explorant Cap Ferrat.",
           "Réservez vos billets pour la Villa Ephrussi en ligne pour gagner du temps."
         ]
       }
@@ -971,7 +991,8 @@
             "de": "Bahnhof Villefranche",
             "hu": "Villefranche vasútállomás",
             "ro": "Gara Villefranche",
-            "en": "Villefranche Train Station"
+            "en": "Villefranche Train Station",
+            "fr": "Gare de Villefranche"
           },
           "coords": [
             43.705,
@@ -987,7 +1008,7 @@
             "hu": "Közvetlenül a Nizza-Monaco vasútvonalon.",
             "ro": "Direct pe linia ferată Nisa-Monaco.",
             "en": "Located directly on the Nice-Monaco rail line.",
-            "fr": "Situé directement sur la ligne ferroviaire Nice-Monaco."
+            "fr": "Située directement sur la ligne ferroviaire Nice‑Monaco."
           }
         },
         {
@@ -995,7 +1016,8 @@
             "de": "Plage des Marinières",
             "hu": "Plage des Marinières",
             "ro": "Plaja Marinières",
-            "en": "Marinières Beach"
+            "en": "Marinières Beach",
+            "fr": "Plage des Marinières"
           },
           "coords": [
             43.707,
@@ -1011,7 +1033,7 @@
             "hu": "Könnyű hozzáférés az állomástól.",
             "ro": "Acces ușor de la gară.",
             "en": "Very easy access directly from the train platform.",
-            "fr": "Accès très facile directement depuis le quai du train."
+            "fr": "Accès très facile directement depuis le quai de la gare."
           }
         },
         {
@@ -1019,7 +1041,8 @@
             "de": "Altstadt Villefranche (Busfahrt)",
             "hu": "Villefranche óváros (buszozás)",
             "ro": "Centrul vechi (călătorie bus)",
-            "en": "Old Town (Bus Hop)"
+            "en": "Old Town (Bus Hop)",
+            "fr": "Vieille Ville (Bus Hop)"
           },
           "coords": [
             43.704,
@@ -1043,7 +1066,8 @@
             "de": "Mittagessen in der Altstadt",
             "hu": "Ebéd az óvárosban",
             "ro": "Prânz în centrul vechi",
-            "en": "Old Town Lunch"
+            "en": "Old Town Lunch",
+            "fr": "Déjeuner en Vieille Ville"
           },
           "coords": [
             43.7045,
@@ -1059,7 +1083,7 @@
             "hu": "Sok kávézó a szűk sikátorokban.",
             "ro": "Multe cafenele pe străzile înguste.",
             "en": "Plenty of charming cafes in the narrow lanes.",
-            "fr": "De nombreux cafés charmants dans les ruelles étroites."
+            "fr": "Beaucoup de cafés charmants dans les ruelles étroites."
           }
         },
         {
@@ -1067,7 +1091,8 @@
             "de": "Citadelle (Transitfahrt)",
             "hu": "Citadella (tömegközlekedés)",
             "ro": "Citadela (tranzit)",
-            "en": "Citadel (Transit Hop)"
+            "en": "Citadel (Transit Hop)",
+            "fr": "Citadelle (Relais de transit)"
           },
           "coords": [
             43.702,
@@ -1091,7 +1116,8 @@
             "de": "Hafen (Abschluss)",
             "hu": "Kikötő (befejezés)",
             "ro": "Port (final)",
-            "en": "Harbor (Final)"
+            "en": "Harbor (Final)",
+            "fr": "Port (Final)"
           },
           "coords": [
             43.7035,
@@ -1116,7 +1142,7 @@
         "hu": "A kiváló vonat- és buszkapcsolatoknak köszönhetően Villefranche autó nélkül is remekül felfedezhető. Kezdjen a közvetlenül az állomás mellett fekvő strandon.\n\nEgy rövid buszozás után máris az óváros szívében találja magát, ahol a középkori sikátorok és egy finom ebéd várja.\n\nA délutánt töltse kulturálódással a citadellában, majd zárja a napot a festői kikötőben.\n\nEste a vonattal vagy a parti busszal gyorsan visszajuthat Nizzába vagy Monacóba.",
         "ro": "Datorită conexiunilor excelente de tren și autobuz, Villefranche este ideal de vizitat fără mașină. Începeți relaxat pe plaja de lângă gară.\n\nDupă un scurt transfer ajungeți în inima centrului vechi, unde vă puteți bucura de străzile medievale și de un prânz delicios.\n\nDupă-amiaza este dedicată culturii în citadelă, înainte de a încheia ziua în portul pitoresc.\n\nSeara, cu trenul sau autobuzul de coastă, puteți ajunge rapid înapoi în Nisa sau Monaco.",
         "en": "With its excellent train and bus links, Villefranche is a breeze to explore without a car. Start your day on the beach right next to the railway station.\n\nA quick transit ride takes you into the heart of the old town for exploration and a lovely Mediterranean lunch.\n\nSpend your afternoon soaking up history at the Citadel before concluding your day at the picturesque harbor.\n\nIn the evening, catch the train or the coastal bus for a quick ride back to Nice or Monaco.",
-        "fr": "Avec ses excellentes liaisons en train et en bus, Villefranche se découvre très facilement sans voiture. Commencez votre journée sur la plage juste à côté de la gare ferroviaire.\n\nUn court trajet en transport vous emmène au cœur de la vieille ville pour une exploration et un délicieux déjeuner méditerranéen.\n\nPassez votre après-midi à vous imprégner d'histoire à la Citadelle avant de terminer votre journée au port pittoresque.\n\nLe soir, prenez le train ou le bus côtier pour un retour rapide vers Nice ou Monaco."
+        "fr": "Grâce à ses excellentes liaisons ferroviaires et de bus, Villefranche se découvre facilement sans voiture. Commencez la journée sur la plage juste à côté de la gare.\n\nUn court trajet en transport vous mène au cœur de la vieille ville pour la visite et un délicieux déjeuner méditerranéen.\n\nPassez l'après‑midi à vous imprégner de l'histoire à la Citadelle avant de conclure la journée au pittoresque port.\n\nLe soir, prenez le train ou le bus côtier pour un trajet rapide de retour vers Nice ou Monaco."
       },
       "gastro_picks": {
         "de": [
@@ -1245,10 +1271,10 @@
           "Be sure to validate your ticket before boarding."
         ],
         "fr": [
-          "Les trains sont beaucoup plus rapides que les bus en plein été.",
-          "Vérifiez toujours l'heure du dernier départ le soir.",
-          "La ligne de bus 100 offre des vues spectaculaires pour un prix modique.",
-          "N'oubliez pas de composter votre billet avant de monter à bord."
+          "Les trains sont beaucoup plus rapides que les bus en pleine saison estivale.",
+          "Vérifiez toujours l'horaire du dernier départ du soir.",
+          "La ligne de bus 100 offre des vues spectaculaires pour un tarif modique.",
+          "Pensez à valider votre titre de transport avant de monter à bord."
         ]
       }
     }

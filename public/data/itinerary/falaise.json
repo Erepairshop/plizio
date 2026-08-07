@@ -21,7 +21,8 @@
             "de": "Kirche Sainte-Trinité",
             "hu": "Sainte-Trinité templom",
             "ro": "Biserica Sainte-Trinité",
-            "en": "Sainte-Trinité Church"
+            "en": "Sainte-Trinité Church",
+            "fr": "Église Sainte-Trinité"
           },
           "coords": [
             -0.197575,
@@ -36,7 +37,8 @@
             "de": "Bewundern Sie die markante gotische Architektur dieser historischen Kirche und nehmen Sie sich Zeit für die wunderschön erhaltenen Buntglasfenster.",
             "hu": "Csodálja meg ennek a történelmi templomnak a lenyűgöző gótikus építészetét, és szánjon egy percet a gyönyörűen megőrzött ólomüveg ablakok megtekintésére.",
             "ro": "Admirați arhitectura gotică impresionantă a acestei biserici istorice și alocați un moment pentru a privi vitraliile frumos conservate din naos.",
-            "en": "Admire the striking gothic architecture of this historic church and take a moment to look at the beautifully preserved stained glass windows from the nave."
+            "en": "Admire the striking gothic architecture of this historic church and take a moment to look at the beautifully preserved stained glass windows from the nave.",
+            "fr": "Admirez la saisissante architecture gothique de cette église historique et prenez un moment pour regarder les vitraux magnifiquement préservés de la nef."
           }
         },
         {
@@ -44,7 +46,8 @@
             "de": "Kirche Saint-Gervais",
             "hu": "Saint-Gervais templom",
             "ro": "Biserica Saint-Gervais",
-            "en": "Saint-Gervais Church"
+            "en": "Saint-Gervais Church",
+            "fr": "Église Saint-Gervais"
           },
           "coords": [
             -0.1988,
@@ -59,7 +62,8 @@
             "de": "Entdecken Sie hier die harmonische Mischung aus romanischen und gotischen Stilen und versuchen Sie früh anzukommen, um die ruhige Atmosphäre zu genießen.",
             "hu": "Fedezze fel a román és gótikus stílusok harmonikus keveredését itt, és próbáljon korán érkezni, hogy élvezhesse a békés hangulatot a napi tömeg előtt.",
             "ro": "Descoperiți amestecul armonios de stiluri romanice și gotice aici și încercați să ajungeți devreme pentru a vă bucura de atmosfera pașnică fără mulțime.",
-            "en": "Discover the harmonious blend of Romanesque and Gothic styles here, and try to arrive early to enjoy the peaceful atmosphere before the daily crowds."
+            "en": "Discover the harmonious blend of Romanesque and Gothic styles here, and try to arrive early to enjoy the peaceful atmosphere before the daily crowds.",
+            "fr": "Découvrez ici le mélange harmonieux des styles roman et gothique, et essayez d'arriver tôt pour profiter de l'atmosphère paisible avant l'affluence quotidienne."
           }
         },
         {
@@ -67,7 +71,8 @@
             "de": "Porte des Cordeliers",
             "hu": "Porte des Cordeliers",
             "ro": "Porte des Cordeliers",
-            "en": "Porte des Cordeliers"
+            "en": "Porte des Cordeliers",
+            "fr": "Porte des Cordeliers"
           },
           "coords": [
             -0.2012,
@@ -82,7 +87,8 @@
             "de": "Gehen Sie durch das letzte verbleibende mittelalterliche Tor der Stadtmauer und beobachten Sie das beeindruckende Mauerwerk, das einst den Ort schützte.",
             "hu": "Sétáljon át a városfalak utolsó fennmaradt középkori kapuján, és álljon meg, hogy megfigyelje a lenyűgöző kőműves munkát, amely egykor a várost védte.",
             "ro": "Treceți prin ultima poartă medievală rămasă a zidurilor orașului și faceți o pauză pentru a observa zidăria impresionantă care a protejat odată intrarea.",
-            "en": "Walk through the last remaining medieval gate of the city walls and pause to observe the impressive stonework that once protected the town's entrance."
+            "en": "Walk through the last remaining medieval gate of the city walls and pause to observe the impressive stonework that once protected the town's entrance.",
+            "fr": "Parcourez la dernière porte médiévale restante des remparts et prenez un moment pour observer l'impressionnant travail de pierre qui protégeait autrefois l'entrée de la ville."
           }
         },
         {
@@ -90,7 +96,8 @@
             "de": "Château de Falaise",
             "hu": "Falaise-i kastély",
             "ro": "Château de Falaise",
-            "en": "Château de Falaise"
+            "en": "Château de Falaise",
+            "fr": "Château de Falaise"
           },
           "coords": [
             -0.2039,
@@ -105,7 +112,8 @@
             "de": "Erkunden Sie den imposanten Geburtsort von Wilhelm dem Eroberer und leihen Sie sich am Eingang das interaktive Tablet für eine lebendige Rekonstruktion aus.",
             "hu": "Fedezze fel Hódító Vilmos impozáns szülőhelyét, és mindenképpen kérje el a bejáratnál az interaktív táblagépet az élénk történelmi rekonstrukcióhoz.",
             "ro": "Explorați impunătorul loc de naștere al lui William Cuceritorul și asigurați-vă că împrumutați tableta interactivă la intrare pentru o reconstrucție vie.",
-            "en": "Explore the imposing birthplace of William the Conqueror and make sure to borrow the interactive tablet at the entrance for a vivid historical reconstruction."
+            "en": "Explore the imposing birthplace of William the Conqueror and make sure to borrow the interactive tablet at the entrance for a vivid historical reconstruction.",
+            "fr": "Explorez le lieu de naissance imposant de Guillaume le Conquérant et n'oubliez pas d'emprunter la tablette interactive à l'entrée pour une reconstitution historique saisissante."
           }
         },
         {
@@ -113,7 +121,8 @@
             "de": "Château de la Fresnaye",
             "hu": "Château de la Fresnaye",
             "ro": "Château de la Fresnaye",
-            "en": "Château de la Fresnaye"
+            "en": "Château de la Fresnaye",
+            "fr": "Château de la Fresnaye"
           },
           "coords": [
             -0.194569,
@@ -128,7 +137,8 @@
             "de": "Schlendern Sie durch dieses elegante Anwesen aus dem 17. Jahrhundert und tragen Sie bequeme Schuhe, um die wunderschönen umliegenden öffentlichen Gärten zu erkunden.",
             "hu": "Sétáljon végig ezen az elegáns, 17. századi birtokon, és viseljen kényelmes cipőt, hogy felfedezze a gyönyörű, környező, gondozott nyilvános kerteket.",
             "ro": "Plimbați-vă prin această proprietate elegantă din secolul al XVII-lea și purtați pantofi confortabili pentru a explora frumoasele grădini publice înconjurătoare.",
-            "en": "Wander around this elegant 17th-century estate with its charming grounds, and wear comfortable shoes to explore the beautiful surrounding public gardens."
+            "en": "Wander around this elegant 17th-century estate with its charming grounds, and wear comfortable shoes to explore the beautiful surrounding public gardens.",
+            "fr": "Flânez dans ce domaine élégant du XVIIe siècle avec ses charmants jardins, et portez des chaussures confortables pour visiter les beaux jardins publics environnants."
           }
         }
       ],
@@ -136,7 +146,8 @@
         "de": "Beginnen Sie Ihren Tag im Herzen von Falaise und genießen Sie die spirituelle Atmosphäre in den Kirchen Sainte-Trinité und Saint-Gervais. \n\nVor dem Mittagessen spazieren Sie durch die historische Porte des Cordeliers, eine beeindruckende Erinnerung an die mittelalterlichen Befestigungen. \n\nTauchen Sie am Nachmittag im großen Château de Falaise in die epische Geschichte von Wilhelm dem Eroberer ein. \n\nBeenden Sie Ihren Rundgang mit einem abendlichen Spaziergang durch die eleganten Anlagen des Château de la Fresnaye, während die Sonne über der Stadt untergeht.",
         "hu": "Kezdje a napot Falaise szívében, a Sainte-Trinité és a Saint-Gervais templomok spirituális atmoszférájának élvezetével. \n\nEbéd előtt sétáljon át a történelmi Porte des Cordeliers-n, amely a város középkori erődítményeinek lenyűgöző emléke. \n\nDélután merüljön el Hódító Vilmos epikus történelmében a hatalmas falaise-i kastély lenyűgöző falai között. \n\nFejezze be a gyalogtúrát egy pihentető esti sétával a Château de la Fresnaye elegáns parkjában, ahogy a nap lenyugszik a város felett.",
         "ro": "Începeți-vă ziua în inima orașului Falaise, absorbind atmosfera spirituală la bisericile Sainte-Trinité și Saint-Gervais. \n\nÎnainte de prânz, plimbați-vă prin istorica Porte des Cordeliers, o amintire uimitoare a fortificațiilor medievale. \n\nDupă-amiaza, cufundați-vă în istoria epică a lui William Cuceritorul la mărețul Château de Falaise. \n\nÎncheiați turul pietonal cu o plimbare relaxantă de seară pe terenurile elegante de la Château de la Fresnaye, în timp ce soarele apune.",
-        "en": "Start your day in the heart of Falaise, soaking up the spiritual atmosphere at Sainte-Trinité and Saint-Gervais churches. \n\nBefore lunch, wander through the historic Porte des Cordeliers, a stunning reminder of the town's medieval fortifications. \n\nIn the afternoon, immerse yourself in the epic history of William the Conqueror at the grand Château de Falaise. \n\nConclude your walking tour with a relaxing evening stroll around the elegant grounds of Château de la Fresnaye as the sun sets over the town."
+        "en": "Start your day in the heart of Falaise, soaking up the spiritual atmosphere at Sainte-Trinité and Saint-Gervais churches. \n\nBefore lunch, wander through the historic Porte des Cordeliers, a stunning reminder of the town's medieval fortifications. \n\nIn the afternoon, immerse yourself in the epic history of William the Conqueror at the grand Château de Falaise. \n\nConclude your walking tour with a relaxing evening stroll around the elegant grounds of Château de la Fresnaye as the sun sets over the town.",
+        "fr": "Commencez votre journée au cœur de Falaise en vous imprégnant de l'atmosphère spirituelle des églises Sainte-Trinité et Saint-Gervais.\n\nAvant le déjeuner, promenez-vous par la Porte des Cordeliers, splendide rappel des fortifications médiévales de la ville.\n\nL'après-midi, plongez dans l'histoire épique de Guillaume le Conquérant au grand Château de Falaise.\n\nConcluez votre circuit à pied par une promenade détendue autour des élégants jardins du Château de la Fresnaye tandis que le soleil se couche sur la ville."
       },
       "variants": {
         "rainy": {
@@ -144,7 +155,8 @@
             "de": "Der Regen verleiht Falaise eine mystische Atmosphäre. Wir beginnen den Morgen geschützt in den prächtigen Kirchen, wo die dicken Mauern die Feuchtigkeit draußen halten. Mittags ziehen wir uns in die mittelalterlichen Tore zurück. Nachmittags bietet die Burg Falaise mit ihren Innenräumen den perfekten Zufluchtsort. Den Abend lassen wir bei nebliger Aussicht auf die Stadtmauern ausklingen.",
             "hu": "Az eső misztikus hangulatot kölcsönöz Falaise utcáinak. A reggelt a templomok védelmében kezdjük, ahol a vastag falak távol tartják a nedvességet. Délben a középkori kapuk alatt keresünk rövid menedéket. Délután a vár belső terei nyújtanak tökéletes programot az eső elől. Az estét a városfalak párás sziluettjeivel zárjuk, figyelve a csúszós macskakövekre.",
             "ro": "Ploaia oferă orașului Falaise o atmosferă mistică. Începem dimineața la adăpost în bisericile magnifice, unde zidurile groase țin umezeala afară. La prânz ne retragem sub porțile medievale. După-amiaza, Castelul Falaise oferă refugiul perfect cu spațiile sale interioare. Încheiem seara cu o vedere cețoasă asupra zidurilor cetății, fiind atenți la pavajul alunecos.",
-            "en": "The rain gives Falaise a mystical atmosphere. We start the morning sheltered in the magnificent churches, where thick walls keep the dampness out. At noon, we take brief cover under the medieval gates. In the afternoon, the Castle of Falaise provides the perfect indoor refuge. We end the evening with misty views of the city walls, being careful on the slippery cobblestones."
+            "en": "The rain gives Falaise a mystical atmosphere. We start the morning sheltered in the magnificent churches, where thick walls keep the dampness out. At noon, we take brief cover under the medieval gates. In the afternoon, the Castle of Falaise provides the perfect indoor refuge. We end the evening with misty views of the city walls, being careful on the slippery cobblestones.",
+            "fr": "La pluie donne à Falaise une atmosphère mystique. Nous commençons la matinée à l'abri dans les magnifiques églises, dont les murs épais protègent de l'humidité. À midi, nous nous abritons brièvement sous les portes médiévales. L'après-midi, le château de Falaise offre un refuge intérieur parfait. Nous terminons la soirée avec des vues brumeuses sur les remparts, en faisant attention aux pavés glissants."
           },
           "stops": [
             {
@@ -152,13 +164,15 @@
                 "de": "Kirche Sainte-Trinité",
                 "hu": "Sainte-Trinité templom",
                 "ro": "Biserica Sainte-Trinité",
-                "en": "Sainte-Trinité Church"
+                "en": "Sainte-Trinité Church",
+                "fr": "Église Sainte-Trinité"
               },
               "tip_5lang": {
                 "de": "Bewundern Sie die gotische Architektur im Trockenen und achten Sie auf die rutschigen Steinstufen am Kircheneingang; ein Schirm ist für den Weg dorthin unerlässlich.",
                 "hu": "Csodálja meg a gótikus építészetet a száraz belső térben, és ügyeljen a bejáratnál lévő csúszós kőlépcsőkre; az idevezető úton egy ernyő elengedhetetlen.",
                 "ro": "Admirați arhitectura gotică la adăpost și aveți grijă la treptele de piatră alunecoase de la intrare; o umbrelă este esențială pentru drumul până aici.",
-                "en": "Admire the Gothic architecture in the dry interior and watch out for the slippery stone steps at the entrance; an umbrella is essential for the walk here."
+                "en": "Admire the Gothic architecture in the dry interior and watch out for the slippery stone steps at the entrance; an umbrella is essential for the walk here.",
+                "fr": "Admirez l'architecture gothique à l'intérieur, à l'abri, et prenez garde aux marches en pierre glissantes à l'entrée ; un parapluie est indispensable pour s'y rendre."
               }
             },
             {
@@ -166,13 +180,15 @@
                 "de": "Kirche Saint-Gervais",
                 "hu": "Saint-Gervais templom",
                 "ro": "Biserica Saint-Gervais",
-                "en": "Saint-Gervais Church"
+                "en": "Saint-Gervais Church",
+                "fr": "Église Saint-Gervais"
               },
               "tip_5lang": {
                 "de": "Nutzen Sie den Aufenthalt für eine ausführliche Innenbesichtigung, während es draußen regnet; wasserfeste Schuhe sind auf dem nassen Kopfsteinpflaster von Vorteil.",
                 "hu": "Használja ki az időt egy alapos belső látogatásra, miközben kint esik; a vizes macskaköveken a vízálló cipő viselése nagy előnyt jelent.",
                 "ro": "Profitați de timp pentru o vizită interioară detaliată în timp ce afară plouă; pantofii impermeabili sunt un mare avantaj pe pavajul umed.",
-                "en": "Take advantage of the time for a thorough interior visit while it rains outside; waterproof shoes are a great advantage on the wet cobblestones."
+                "en": "Take advantage of the time for a thorough interior visit while it rains outside; waterproof shoes are a great advantage on the wet cobblestones.",
+                "fr": "Profitez du temps pour une visite intérieure approfondie pendant qu'il pleut dehors ; des chaussures imperméables sont un grand avantage sur les pavés mouillés."
               }
             },
             {
@@ -180,13 +196,15 @@
                 "de": "Porte des Cordeliers",
                 "hu": "Porte des Cordeliers",
                 "ro": "Porte des Cordeliers",
-                "en": "Porte des Cordeliers"
+                "en": "Porte des Cordeliers",
+                "fr": "Porte des Cordeliers"
               },
               "tip_5lang": {
                 "de": "Dieses historische Tor bietet einen kurzen, trockenen Unterstand für Fotos der Altstadt; halten Sie Ihre Kamera unter dem Bogen vor Regen geschützt.",
                 "hu": "Ez a történelmi kapu rövid, száraz menedéket nyújt az óvárosi fotózáshoz; tartsa a fényképezőgépét az ív alatt, védve az esőtől.",
                 "ro": "Această poartă istorică oferă un scurt adăpost uscat pentru fotografii; păstrați aparatul foto sub boltă, protejat de ploaie.",
-                "en": "This historic gate provides a short, dry shelter for photos of the old town; keep your camera under the arch, protected from the rain."
+                "en": "This historic gate provides a short, dry shelter for photos of the old town; keep your camera under the arch, protected from the rain.",
+                "fr": "Cette porte historique offre un abri court et sec pour des photos de la vieille ville ; gardez votre appareil sous l'arche, à l'abri de la pluie."
               }
             },
             {
@@ -194,13 +212,15 @@
                 "de": "Château de Falaise",
                 "hu": "Falaise-i kastély",
                 "ro": "Château de Falaise",
-                "en": "Château de Falaise"
+                "en": "Château de Falaise",
+                "fr": "Château de Falaise"
               },
               "tip_5lang": {
                 "de": "Erkunden Sie die interaktiven Ausstellungen in den massiven Türmen, die besten Schutz vor Starkregen bieten; planen Sie hier die längste Verweildauer ein.",
                 "hu": "Fedezze fel az interaktív kiállításokat a masszív tornyokban, amelyek kiváló védelmet nyújtanak; ide tervezze a leghosszabb tartózkodást.",
                 "ro": "Explorați expozițiile interactive din turnurile masive, care oferă o protecție excelentă; planificați aici cea mai lungă ședere.",
-                "en": "Explore the interactive exhibitions in the massive towers, which provide excellent protection; plan your longest stay here."
+                "en": "Explore the interactive exhibitions in the massive towers, which provide excellent protection; plan your longest stay here.",
+                "fr": "Explorez les expositions interactives dans les hautes tours, qui offrent une excellente protection ; prévoyez d'y passer le plus de temps."
               }
             },
             {
@@ -208,13 +228,15 @@
                 "de": "Château de la Fresnaye",
                 "hu": "Château de la Fresnaye",
                 "ro": "Château de la Fresnaye",
-                "en": "Château de la Fresnaye"
+                "en": "Château de la Fresnaye",
+                "fr": "Château de la Fresnaye"
               },
               "tip_5lang": {
                 "de": "Der Blick auf das Schloss wirkt im Regen besonders melancholisch; nutzen Sie die überdachten Bereiche der Fassade für einen trockenen Abschluss der Tour.",
                 "hu": "A kastély látványa esőben különösen melankolikus; használja a homlokzat fedett részeit a túra száraz befejezéséhez.",
                 "ro": "Vederea castelului pare deosebit de melancolică în ploaie; folosiți zonele acoperite ale fațadei pentru un final de tur uscat.",
-                "en": "The view of the castle looks particularly melancholic in the rain; use the covered areas of the facade for a dry end to the tour."
+                "en": "The view of the castle looks particularly melancholic in the rain; use the covered areas of the facade for a dry end to the tour.",
+                "fr": "La vue du château est particulièrement mélancolique sous la pluie ; utilisez les zones couvertes de la façade pour terminer la visite au sec."
               }
             }
           ]
@@ -224,7 +246,8 @@
             "de": "Ein klarer Wintermorgen in Falaise beginnt erfrischend. Wir suchen Wärme in den beheizten Kirchenschiffen. Mittags halten wir uns durch zügiges Gehen zwischen den Monumenten warm. Die Burgbesichtigung am Nachmittag ist ideal, bevor die Sonne gegen 17:00 Uhr untergeht. Den Abend verbringen wir bei stimmungsvoller Beleuchtung im historischen Zentrum.",
             "hu": "A friss téli reggel Falaise-ban felfrissítően kezdődik. A fűtött templomhajókban keresünk meleget. Napközben tempós gyaloglással tartjuk magunkat melegen a műemlékek között. A vár látogatása ideális délutáni program, mielőtt a nap 17:00 körül lenyugszik. Az estét a történelmi központ hangulatos fényeiben töltjük.",
             "ro": "O dimineață senină de iarnă în Falaise începe revigorant. Căutăm căldură în naosurile încălzite ale bisericilor. La prânz, ne menținem calzi mergând vioi între monumente. Vizita la castel este ideală după-amiaza, înainte ca soarele să apună în jur de ora 17:00. Încheiem seara printre luminile ambientale din centrul istoric.",
-            "en": "A crisp winter morning in Falaise starts refreshingly. We seek warmth in the heated church naves. At noon, we keep warm by walking briskly between monuments. Visiting the castle is an ideal afternoon activity before the sun sets around 17:00. We spend the evening among the atmospheric lights of the historical center."
+            "en": "A crisp winter morning in Falaise starts refreshingly. We seek warmth in the heated church naves. At noon, we keep warm by walking briskly between monuments. Visiting the castle is an ideal afternoon activity before the sun sets around 17:00. We spend the evening among the atmospheric lights of the historical center.",
+            "fr": "Un matin d'hiver vif à Falaise commence de façon revigorante. Nous cherchons la chaleur dans les nefs chauffées des églises. À midi, nous nous réchauffons en marchant d'un monument à l'autre à bon pas. Visiter le château est une activité idéale pour l'après-midi avant que le soleil ne se couche vers 17:00. Nous passons la soirée parmi les lumières atmosphériques du centre historique."
           },
           "stops": [
             {
@@ -232,13 +255,15 @@
                 "de": "Kirche Sainte-Trinité",
                 "hu": "Sainte-Trinité templom",
                 "ro": "Biserica Sainte-Trinité",
-                "en": "Sainte-Trinité Church"
+                "en": "Sainte-Trinité Church",
+                "fr": "Église Sainte-Trinité"
               },
               "tip_5lang": {
                 "de": "Der beheizte Innenraum ist der perfekte Ort, um sich vor dem ersten Spaziergang aufzuwärmen; genießen Sie die Stille der winterlichen Kirche.",
                 "hu": "A fűtött belső tér tökéletes hely a bemelegedéshez az első séta előtt; élvezze a téli templom csendjét és nyugalmát.",
                 "ro": "Interiorul încălzit este locul perfect pentru a vă încălzi înainte de prima plimbare; bucurați-vă de liniștea bisericii în timpul iernii.",
-                "en": "The heated interior is the perfect place to warm up before the first walk; enjoy the silence and peace of the winter church."
+                "en": "The heated interior is the perfect place to warm up before the first walk; enjoy the silence and peace of the winter church.",
+                "fr": "L'intérieur chauffé est l'endroit parfait pour se réchauffer avant la première balade ; profitez du silence et de la quiétude de l'église hivernale."
               }
             },
             {
@@ -246,13 +271,15 @@
                 "de": "Kirche Saint-Gervais",
                 "hu": "Saint-Gervais templom",
                 "ro": "Biserica Saint-Gervais",
-                "en": "Saint-Gervais Church"
+                "en": "Saint-Gervais Church",
+                "fr": "Église Saint-Gervais"
               },
               "tip_5lang": {
                 "de": "Die dicken Mauern isolieren gut gegen den kalten Wind; tragen Sie dennoch Handschuhe, da die Klinken und Steine im Winter sehr kühl sind.",
                 "hu": "A vastag falak jól szigetelnek a hideg szél ellen; viseljen kesztyűt, mivel a kilincsek és a kövek télen nagyon hidegek lehetnek.",
                 "ro": "Zidurile groase izolează bine împotriva vântului rece; purtați mănuși, deoarece mânerele și pietrele sunt foarte reci iarna.",
-                "en": "The thick walls insulate well against the cold wind; wear gloves, as the handles and stones can be very cold in winter."
+                "en": "The thick walls insulate well against the cold wind; wear gloves, as the handles and stones can be very cold in winter.",
+                "fr": "Les murs épais protègent bien contre le vent froid ; portez des gants, car les poignées et les pierres peuvent être très froides en hiver."
               }
             },
             {
@@ -260,13 +287,15 @@
                 "de": "Porte des Cordeliers",
                 "hu": "Porte des Cordeliers",
                 "ro": "Porte des Cordeliers",
-                "en": "Porte des Cordeliers"
+                "en": "Porte des Cordeliers",
+                "fr": "Porte des Cordeliers"
               },
               "tip_5lang": {
                 "de": "Das Tor bietet Schutz vor dem schneidenden Ostwind; machen Sie hier eine kurze Pause, um die winterliche Aussicht auf die Täler zu genießen.",
                 "hu": "A kapu védelmet nyújt a metsző keleti szél elől; tartson itt egy rövid szünetet, hogy megcsodálja a völgyek téli kilátását.",
                 "ro": "Poarta oferă protecție împotriva vântului tăios; faceți o scurtă pauză aici pentru a admira vederea de iarnă asupra văilor.",
-                "en": "The gate provides protection from the biting east wind; take a short break here to admire the winter view of the valleys."
+                "en": "The gate provides protection from the biting east wind; take a short break here to admire the winter view of the valleys.",
+                "fr": "La porte protège du vent mordant d'est ; faites ici une courte pause pour admirer la vue hivernale sur les vallées."
               }
             },
             {
@@ -274,13 +303,15 @@
                 "de": "Château de Falaise",
                 "hu": "Falaise-i kastély",
                 "ro": "Château de Falaise",
-                "en": "Château de Falaise"
+                "en": "Château de Falaise",
+                "fr": "Château de Falaise"
               },
               "tip_5lang": {
                 "de": "Besuchen Sie die Burg am frühen Nachmittag, um das goldene Winterlicht für Fotos zu nutzen, bevor es um 17 Uhr dunkel wird.",
                 "hu": "Látogassa meg a várat kora délután, hogy kihasználja az aranyló téli fényeket a fotózáshoz, mielőtt 17 órakor besötétedik.",
                 "ro": "Vizitați castelul după-amiaza devreme pentru a profita de lumina aurie de iarnă înainte de a se întuneca la ora 17:00.",
-                "en": "Visit the castle in the early afternoon to take advantage of the golden winter light for photos before it gets dark at 17:00."
+                "en": "Visit the castle in the early afternoon to take advantage of the golden winter light for photos before it gets dark at 17:00.",
+                "fr": "Visitez le château en début d'après-midi pour profiter de la lumière dorée de l'hiver pour les photos avant la tombée de la nuit à 17:00."
               }
             },
             {
@@ -288,13 +319,15 @@
                 "de": "Château de la Fresnaye",
                 "hu": "Château de la Fresnaye",
                 "ro": "Château de la Fresnaye",
-                "en": "Château de la Fresnaye"
+                "en": "Château de la Fresnaye",
+                "fr": "Château de la Fresnaye"
               },
               "tip_5lang": {
                 "de": "Die Parkanlage wirkt bei Frost zauberhaft; beenden Sie Ihren Spaziergang zügig, um der zunehmenden Abendkälte zu entgehen.",
                 "hu": "A park területe zúzmarás időben varázslatos; fejezze be a sétát időben, hogy elkerülje az erősödő esti lehűlést.",
                 "ro": "Parcul arată magic când este înghețat; terminați plimbarea rapid pentru a evita frigul intens de seară.",
-                "en": "The park area looks magical in frosty weather; finish your walk promptly to avoid the increasing evening cold."
+                "en": "The park area looks magical in frosty weather; finish your walk promptly to avoid the increasing evening cold.",
+                "fr": "Le parc est magique par temps de gel ; terminez votre promenade rapidement pour éviter la fraîcheur croissante du soir."
               }
             }
           ]
@@ -314,7 +347,8 @@
             "de": "Kirche Sainte-Trinité",
             "hu": "Sainte-Trinité templom",
             "ro": "Biserica Sainte-Trinité",
-            "en": "Sainte-Trinité Church"
+            "en": "Sainte-Trinité Church",
+            "fr": "Église Sainte-Trinité"
           },
           "coords": [
             -0.197575,
@@ -329,7 +363,8 @@
             "de": "Bewundern Sie die markante gotische Architektur dieser historischen Kirche und nehmen Sie sich Zeit für die wunderschön erhaltenen Buntglasfenster.",
             "hu": "Csodálja meg ennek a történelmi templomnak a lenyűgöző gótikus építészetét, és szánjon egy percet a gyönyörűen megőrzött ólomüveg ablakok megtekintésére.",
             "ro": "Admirați arhitectura gotică impresionantă a acestei biserici istorice și alocați un moment pentru a privi vitraliile frumos conservate din naos.",
-            "en": "Admire the striking gothic architecture of this historic church and take a moment to look at the beautifully preserved stained glass windows from the nave."
+            "en": "Admire the striking gothic architecture of this historic church and take a moment to look at the beautifully preserved stained glass windows from the nave.",
+            "fr": "Admirez l'architecture gothique saisissante de cette église historique et prenez un moment pour regarder les vitraux magnifiquement préservés depuis la nef."
           }
         },
         {
@@ -337,7 +372,8 @@
             "de": "Porte des Cordeliers",
             "hu": "Porte des Cordeliers",
             "ro": "Porte des Cordeliers",
-            "en": "Porte des Cordeliers"
+            "en": "Porte des Cordeliers",
+            "fr": "Porte des Cordeliers"
           },
           "coords": [
             -0.2012,
@@ -352,7 +388,8 @@
             "de": "Gehen Sie durch das letzte verbleibende mittelalterliche Tor der Stadtmauer und beobachten Sie das beeindruckende Mauerwerk, das einst den Ort schützte.",
             "hu": "Sétáljon át a városfalak utolsó fennmaradt középkori kapuján, és álljon meg, hogy megfigyelje a lenyűgöző kőműves munkát, amely egykor a várost védte.",
             "ro": "Treceți prin ultima poartă medievală rămasă a zidurilor orașului și faceți o pauză pentru a observa zidăria impresionantă care a protejat odată intrarea.",
-            "en": "Walk through the last remaining medieval gate of the city walls and pause to observe the impressive stonework that once protected the town's entrance."
+            "en": "Walk through the last remaining medieval gate of the city walls and pause to observe the impressive stonework that once protected the town's entrance.",
+            "fr": "Parcourez la dernière porte médiévale restante des remparts et prenez un moment pour observer l'impressionnant travail de pierre qui protégeait autrefois l'entrée de la ville."
           }
         },
         {
@@ -360,7 +397,8 @@
             "de": "Château de Falaise",
             "hu": "Falaise-i kastély",
             "ro": "Château de Falaise",
-            "en": "Château de Falaise"
+            "en": "Château de Falaise",
+            "fr": "Château de Falaise"
           },
           "coords": [
             -0.2039,
@@ -375,7 +413,8 @@
             "de": "Erkunden Sie den imposanten Geburtsort von Wilhelm dem Eroberer und leihen Sie sich am Eingang das interaktive Tablet für eine lebendige Rekonstruktion aus.",
             "hu": "Fedezze fel Hódító Vilmos impozáns szülőhelyét, és mindenképpen kérje el a bejáratnál az interaktív táblagépet az élénk történelmi rekonstrukcióhoz.",
             "ro": "Explorați impunătorul loc de naștere al lui William Cuceritorul și asigurați-vă că împrumutați tableta interactivă la intrare pentru o reconstrucție vie.",
-            "en": "Explore the imposing birthplace of William the Conqueror and make sure to borrow the interactive tablet at the entrance for a vivid historical reconstruction."
+            "en": "Explore the imposing birthplace of William the Conqueror and make sure to borrow the interactive tablet at the entrance for a vivid historical reconstruction.",
+            "fr": "Explorez le lieu de naissance imposant de Guillaume le Conquérant et n'oubliez pas d'emprunter la tablette interactive à l'entrée pour une reconstitution historique saisissante."
           }
         },
         {
@@ -383,7 +422,8 @@
             "de": "Manoir du Mesnil-Besnard",
             "hu": "Manoir du Mesnil-Besnard",
             "ro": "Manoir du Mesnil-Besnard",
-            "en": "Manoir du Mesnil-Besnard"
+            "en": "Manoir du Mesnil-Besnard",
+            "fr": "Manoir du Mesnil-Besnard"
           },
           "coords": [
             -0.210108,
@@ -398,7 +438,8 @@
             "de": "Beachten Sie das komplexe Fachwerk dieses traditionellen normannischen Herrenhauses und bringen Sie Ihre Kamera mit, um seinen rustikalen Charme einzufangen.",
             "hu": "Figyelje meg ennek a hagyományos normann udvarháznak a bonyolult favázas szerkezetét, és hozzon fényképezőgépet a rusztikus báj megörökítéséhez.",
             "ro": "Observați structura complexă din lemn a acestui conac tradițional normand și aduceți camera pentru a surprinde farmecul său rustic în peisajul verde.",
-            "en": "Notice the intricate timber framing of this traditional Norman manor, and bring your camera to capture its rustic charm against the lush green landscape."
+            "en": "Notice the intricate timber framing of this traditional Norman manor, and bring your camera to capture its rustic charm against the lush green landscape.",
+            "fr": "Remarquez le colombage finement travaillé de ce manoir normand traditionnel, et apportez votre appareil photo pour capturer son charme rustique sur fond de paysage verdoyant."
           }
         },
         {
@@ -406,7 +447,8 @@
             "de": "Château de Long Pré",
             "hu": "Château de Long Pré",
             "ro": "Château de Long Pré",
-            "en": "Château de Long Pré"
+            "en": "Château de Long Pré",
+            "fr": "Château de Long Pré"
           },
           "coords": [
             -0.222186,
@@ -421,7 +463,8 @@
             "de": "Bewundern Sie die klassische französische Landarchitektur dieses versteckten Juwels und prüfen Sie vorab den Zeitplan, da Innenbesuche meist nach Vereinbarung erfolgen.",
             "hu": "Csodálja meg e rejtett gyöngyszem klasszikus francia vidéki építészetét, és előtte ellenőrizze a menetrendet, mivel a belső látogatások többnyire előzetes egyeztetéssel történnek.",
             "ro": "Admirați arhitectura clasică franceză a acestei bijuterii ascunse și verificați programul în prealabil, deoarece vizitele interioare se fac de obicei cu programare.",
-            "en": "Admire the classic French country architecture of this hidden gem, and check the local schedule beforehand as interior visits are mostly by appointment."
+            "en": "Admire the classic French country architecture of this hidden gem, and check the local schedule beforehand as interior visits are mostly by appointment.",
+            "fr": "Admirez l'architecture classique de campagne française de ce joyau caché, et vérifiez le planning local à l'avance car les visites intérieures se font majoritairement sur rendez-vous."
           }
         }
       ],
@@ -429,7 +472,8 @@
         "de": "Beginnen Sie Ihre Radtour an der majestätischen Kirche Sainte-Trinité und bewundern Sie ihre alte Fassade im Morgenlicht. \n\nFahren Sie an der Porte des Cordeliers vorbei, bevor Sie in die tiefe Geschichte des kolossalen Château de Falaise eintauchen. \n\nRadeln Sie aus dem Zentrum heraus, um das charmante Fachwerkhaus Manoir du Mesnil-Besnard in der ruhigen Landschaft zu entdecken. \n\nBeenden Sie Ihren aktiven Tag mit einem friedlichen Besuch im Château de Long Pré und reflektieren Sie über das reiche Erbe der Region.",
         "hu": "Kezdje a kerékpártúrát a fenséges Sainte-Trinité templomnál, és csodálja meg annak ősi homlokzatát a reggeli fényben. \n\nKerékpározzon el a Porte des Cordeliers mellett, mielőtt elmélyülne a hatalmas falaise-i kastély mélyreható történelmében. \n\nTekerjen ki a fő központból, hogy felfedezze a bájos, favázas Manoir du Mesnil-Besnard-t a nyugodt vidéken. \n\nFejezze be az aktív napot a Château de Long Pré békés meglátogatásával, visszatekintve a régió gazdag építészeti örökségére.",
         "ro": "Începeți-vă turul cu bicicleta la maiestuoasa Biserică Sainte-Trinité, admirându-i fațada veche în lumina dimineții. \n\nMergeți pe lângă Porte des Cordeliers înainte de a pătrunde în istoria profundă a colosalului Château de Falaise. \n\nPedalați în afara centrului principal pentru a descoperi fermecătorul Manoir du Mesnil-Besnard din lemn, în mediul rural. \n\nÎncheiați-vă ziua activă cu o vizită liniștită la Château de Long Pré, reflectând asupra bogatului patrimoniu arhitectural.",
-        "en": "Kick off your cycling tour at the majestic Sainte-Trinité Church, admiring its ancient facade in the morning light. \n\nRide past the medieval Porte des Cordeliers before delving into the profound history of the colossal Château de Falaise. \n\nPedal out of the main center to discover the charming timber-framed Manoir du Mesnil-Besnard in the tranquil countryside. \n\nFinish your active day with a peaceful visit to Château de Long Pré, reflecting on the region's rich architectural heritage."
+        "en": "Kick off your cycling tour at the majestic Sainte-Trinité Church, admiring its ancient facade in the morning light. \n\nRide past the medieval Porte des Cordeliers before delving into the profound history of the colossal Château de Falaise. \n\nPedal out of the main center to discover the charming timber-framed Manoir du Mesnil-Besnard in the tranquil countryside. \n\nFinish your active day with a peaceful visit to Château de Long Pré, reflecting on the region's rich architectural heritage.",
+        "fr": "Commencez votre circuit à vélo à la majestueuse Église Sainte-Trinité, en admirant sa façade ancienne à la lumière du matin.\n\nPédalez devant la Porte des Cordeliers avant de plonger dans l'histoire profonde du colossal Château de Falaise.\n\nPartez du centre pour découvrir le charmant colombage du Manoir du Mesnil-Besnard, perdu dans la campagne tranquille.\n\nTerminez votre journée active par une visite paisible au Château de Long Pré, en réfléchissant au riche héritage architectural de la région."
       },
       "variants": {
         "rainy": {
@@ -437,7 +481,8 @@
             "de": "Radfahren im Regen erfordert Vorsicht auf den mittelalterlichen Straßen. Wir starten morgens an der Kirche und nutzen die Stopps für trockene Pausen. Mittags suchen wir Schutz in den Toren der Stadt. Die Fahrt zu den Herrenhäusern führt über nasse Wege, was die Landschaft dramatisch wirken lässt. Wir kehren rechtzeitig vor dem Abend zum Zentrum zurück.",
             "hu": "Az esőben való biciklizés óvatosságot igényel a középkori utcákon. Reggel a templomnál kezdünk, a megállókat száraz szünetekre használjuk. Délben a városkapuk alatt pihenünk. A kúriákhoz vezető út vizes ösvényeken visz, ami drámaivá teszi a tájat. Időben visszatérünk a központba az esti nagyobb esők előtt.",
             "ro": "Mersul pe bicicletă în ploaie necesită prudență pe străzile medievale. Începem dimineața la biserică și folosim opririle pentru pauze uscate. La prânz ne adăpostim sub porțile orașului. Drumul spre conace trece prin poteci umede, făcând peisajul dramatic. Revenim în centru la timp înainte de ploile de seară.",
-            "en": "Cycling in the rain requires caution on the medieval streets. We start at the church and use the stops for dry breaks. At noon, we shelter under the city gates. The ride to the manors leads across wet paths, making the landscape look dramatic. We return to the center in time before the evening rains."
+            "en": "Cycling in the rain requires caution on the medieval streets. We start at the church and use the stops for dry breaks. At noon, we shelter under the city gates. The ride to the manors leads across wet paths, making the landscape look dramatic. We return to the center in time before the evening rains.",
+            "fr": "Le vélo sous la pluie exige de la prudence sur les rues médiévales. Nous commençons à l'église et utilisons les arrêts comme pauses sèches. À midi, nous nous abritons sous les portes de la ville. La route vers les manoirs traverse des chemins humides, rendant le paysage dramatique. Nous retournons au centre avant les pluies du soir."
           },
           "stops": [
             {
@@ -445,13 +490,15 @@
                 "de": "Kirche Sainte-Trinité",
                 "hu": "Sainte-Trinité templom",
                 "ro": "Biserica Sainte-Trinité",
-                "en": "Sainte-Trinité Church"
+                "en": "Sainte-Trinité Church",
+                "fr": "Église Sainte-Trinité"
               },
               "tip_5lang": {
                 "de": "Stellen Sie Ihr Fahrrad unter einen Vorsprung und nutzen Sie die Kirche als Regenpause; prüfen Sie Ihre Bremsen für die nassen Straßen.",
                 "hu": "Támassza le a kerékpárt egy eresz alá, és használja a templomot esőszünetre; ellenőrizze a fékeket a vizes utakra való tekintettel.",
                 "ro": "Parcați bicicleta sub o streașină și folosiți biserica ca pauză de ploaie; verificați frânele pentru străzile umede.",
-                "en": "Park your bike under a ledge and use the church as a rain break; check your brakes for the wet roads ahead."
+                "en": "Park your bike under a ledge and use the church as a rain break; check your brakes for the wet roads ahead.",
+                "fr": "Garez votre vélo sous un auvent et utilisez l'église comme pause contre la pluie ; vérifiez vos freins pour la route mouillée à venir."
               }
             },
             {
@@ -459,13 +506,15 @@
                 "de": "Porte des Cordeliers",
                 "hu": "Porte des Cordeliers",
                 "ro": "Porte des Cordeliers",
-                "en": "Porte des Cordeliers"
+                "en": "Porte des Cordeliers",
+                "fr": "Porte des Cordeliers"
               },
               "tip_5lang": {
                 "de": "Der Torbogen ist ein idealer Ort, um die Regenbekleidung zu richten; achten Sie beim Losfahren auf das rutschige Pflaster unter dem Bogen.",
                 "hu": "A kapualj ideális hely az esőruházat igazítására; induláskor ügyeljen a boltozat alatti különösen csúszós burkolatra.",
                 "ro": "Arcul porții este un loc ideal pentru a ajusta pelerina de ploaie; atenție la pavajul alunecos de sub boltă la plecare.",
-                "en": "The archway is an ideal spot to adjust your rain gear; watch out for the slippery pavement under the arch when starting off."
+                "en": "The archway is an ideal spot to adjust your rain gear; watch out for the slippery pavement under the arch when starting off.",
+                "fr": "L'arche est un endroit idéal pour ajuster votre équipement de pluie ; attention au pavé glissant sous l'arche en repartant."
               }
             },
             {
@@ -473,13 +522,15 @@
                 "de": "Château de Falaise",
                 "hu": "Falaise-i kastély",
                 "ro": "Château de Falaise",
-                "en": "Château de Falaise"
+                "en": "Château de Falaise",
+                "fr": "Château de Falaise"
               },
               "tip_5lang": {
                 "de": "Die langen Besichtigungszeiten im Inneren lassen die Kleidung trocknen; nutzen Sie den bewachten Bereich für Ihr nasses Fahrrad.",
                 "hu": "A belső kiállítás hosszú megtekintési ideje alatt az öltözete megszáradhat; használja az őrzött területet a vizes bicikli tárolására.",
                 "ro": "Timpul lung de vizitare în interior permite uscarea hainelor; folosiți zona supravegheată pentru bicicleta umedă.",
-                "en": "The long indoor visiting times allow your clothes to dry; use the secured area for your wet bicycle."
+                "en": "The long indoor visiting times allow your clothes to dry; use the secured area for your wet bicycle.",
+                "fr": "Les longues périodes de visite à l'intérieur permettent à vos vêtements de sécher ; utilisez l'espace sécurisé pour votre vélo mouillé."
               }
             },
             {
@@ -487,13 +538,15 @@
                 "de": "Manoir du Mesnil-Besnard",
                 "hu": "Manoir du Mesnil-Besnard",
                 "ro": "Manoir du Mesnil-Besnard",
-                "en": "Manoir du Mesnil-Besnard"
+                "en": "Manoir du Mesnil-Besnard",
+                "fr": "Manoir du Mesnil-Besnard"
               },
               "tip_5lang": {
                 "de": "Die Anfahrt über ländliche Wege kann schlammig sein; ein Schutzblech am Rad ist bei diesem Wetter dringend zu empfehlen.",
                 "hu": "A vidéki utakon vezető út sáros lehet; a kerékpáron lévő sárvédő használata ilyen időben erősen ajánlott.",
                 "ro": "Drumul pe traseele rurale poate fi noroios; se recomandă insistent utilizarea unei aripi la bicicletă pe această vreme.",
-                "en": "The ride via rural paths can be muddy; a mudguard on your bike is highly recommended in this weather."
+                "en": "The ride via rural paths can be muddy; a mudguard on your bike is highly recommended in this weather.",
+                "fr": "La balade par les chemins ruraux peut être boueuse ; un garde-boue sur votre vélo est fortement recommandé par ce temps."
               }
             },
             {
@@ -501,13 +554,15 @@
                 "de": "Château de Long Pré",
                 "hu": "Château de Long Pré",
                 "ro": "Château de Long Pré",
-                "en": "Château de Long Pré"
+                "en": "Château de Long Pré",
+                "fr": "Château de Long Pré"
               },
               "tip_5lang": {
                 "de": "Beenden Sie die Tour zügig, wenn der Regen zunimmt; die Sicht auf das Schloss ist auch durch den Dunst sehr eindrucksvoll.",
                 "hu": "Fejezze be a túrát gyorsan, ha fokozódik az eső; a kastély látványa a pára ellenére is lenyűgöző marad.",
                 "ro": "Încheiați turul rapid dacă ploaia se intensifică; vederea castelului rămâne impresionantă chiar și prin ceață.",
-                "en": "End the tour quickly if the rain intensifies; the view of the castle remains impressive even through the haze."
+                "en": "End the tour quickly if the rain intensifies; the view of the castle remains impressive even through the haze.",
+                "fr": "Terminez la visite rapidement si la pluie s'intensifie ; la vue du château reste impressionnante même dans la brume."
               }
             }
           ]
@@ -517,7 +572,8 @@
             "de": "Zwiebelprinzip ist das Motto für diese winterliche Radtour. Die kalte Luft ist belebend, während wir morgens die Kirchen besuchen. Mittags nutzen wir die Stadttore als Windschutz. Die Fahrt in die Außenbezirke erfordert warme Handschuhe. Wir genießen die frostigen Landschaften und beenden die Tour pünktlich zum Sonnenuntergang um 17:00 Uhr.",
             "hu": "A réteges öltözködés a mottója ennek a téli biciklitúrának. A hideg levegő élénkítő, miközben reggel meglátogatjuk a templomokat. Napközben a városkapukat használjuk szélfogóként. A külső részekre vezető út meleg kesztyűt igényel. Élvezzük a fagyos tájat, és a túrát pontosan a 17:00-as naplementére fejezzük be.",
             "ro": "Îmbrăcămintea în straturi este esențială pentru acest tur de iarnă. Aerul rece este revigorant în timp ce vizităm bisericile dimineața. La prânz folosim porțile orașului ca protecție contra vântului. Drumul spre zonele exterioare necesită mănuși groase. Admirăm peisajele înghețate și încheiem turul la apusul de la ora 17:00.",
-            "en": "Layered clothing is the motto for this winter bike tour. The cold air is invigorating as we visit the churches in the morning. At noon, we use the city gates as windbreaks. The ride to the outskirts requires warm gloves. We enjoy the frosty landscapes and finish the tour exactly at sunset around 17:00."
+            "en": "Layered clothing is the motto for this winter bike tour. The cold air is invigorating as we visit the churches in the morning. At noon, we use the city gates as windbreaks. The ride to the outskirts requires warm gloves. We enjoy the frosty landscapes and finish the tour exactly at sunset around 17:00.",
+            "fr": "L'empilement de couches est la devise de cette sortie vélo hivernale. L'air froid est vivifiant lorsque nous visitons les églises le matin. À midi, nous utilisons les portes de la ville comme coupe-vent. La balade vers la périphérie exige des gants chauds. Nous profitons des paysages givrés et terminons la visite exactement au coucher du soleil vers 17:00."
           },
           "stops": [
             {
@@ -525,13 +581,15 @@
                 "de": "Kirche Sainte-Trinité",
                 "hu": "Sainte-Trinité templom",
                 "ro": "Biserica Sainte-Trinité",
-                "en": "Sainte-Trinité Church"
+                "en": "Sainte-Trinité Church",
+                "fr": "Église Sainte-Trinité"
               },
               "tip_5lang": {
                 "de": "Wärmen Sie Ihre Hände in der Kirche auf, bevor Sie die Fahrt fortsetzen; achten Sie auf mögliche Eisstellen auf dem Vorplatz.",
                 "hu": "Melegítse fel a kezeit a templomban, mielőtt folytatná az utat; ügyeljen az esetleges jeges foltokra a templom előtti téren.",
                 "ro": "Încălziți-vă mâinile în biserică înainte de a continua drumul; atenție la posibilele porțiuni înghețate din piața bisericii.",
-                "en": "Warm up your hands in the church before continuing your ride; watch out for possible icy patches in the church square."
+                "en": "Warm up your hands in the church before continuing your ride; watch out for possible icy patches in the church square.",
+                "fr": "Réchauffez vos mains dans l'église avant de reprendre la route ; surveillez d'éventuelles plaques de verglas sur la place de l'église."
               }
             },
             {
@@ -539,13 +597,15 @@
                 "de": "Porte des Cordeliers",
                 "hu": "Porte des Cordeliers",
                 "ro": "Porte des Cordeliers",
-                "en": "Porte des Cordeliers"
+                "en": "Porte des Cordeliers",
+                "fr": "Porte des Cordeliers"
               },
               "tip_5lang": {
                 "de": "Hinter den massiven Mauern finden Sie Schutz vor dem kalten Fahrtwind; ideal für einen schnellen Energieriegel im Stehen.",
                 "hu": "A masszív falak mögött védelmet talál a hideg menetszél elől; ideális hely egy gyors energiaszelet elfogyasztásához.",
                 "ro": "În spatele zidurilor masive găsiți protecție împotriva vântului rece; loc ideal pentru o gustare rapidă de energie.",
-                "en": "Behind the massive walls, you will find protection from the cold wind; an ideal spot for a quick energy snack."
+                "en": "Behind the massive walls, you will find protection from the cold wind; an ideal spot for a quick energy snack.",
+                "fr": "Derrière les murs massifs, vous trouverez une protection contre le vent froid ; un endroit idéal pour une petite collation énergétique."
               }
             },
             {
@@ -553,13 +613,15 @@
                 "de": "Château de Falaise",
                 "hu": "Falaise-i kastély",
                 "ro": "Château de Falaise",
-                "en": "Château de Falaise"
+                "en": "Château de Falaise",
+                "fr": "Château de Falaise"
               },
               "tip_5lang": {
                 "de": "Die Innenräume sind im Winter angenehm temperiert; schießen Sie Ihre Außenfotos zügig, um nicht auszukühlen.",
                 "hu": "A belső terek télen is kellemes hőmérsékletűek; a kültéri fotókat készítse el gyorsan, hogy ne hűljön ki túlságosan.",
                 "ro": "Interioarele au o temperatură plăcută chiar și iarna; faceți fotografiile exterioare rapid pentru a nu vă răci.",
-                "en": "The interiors are pleasantly tempered even in winter; take your outdoor photos quickly to avoid getting too cold."
+                "en": "The interiors are pleasantly tempered even in winter; take your outdoor photos quickly to avoid getting too cold.",
+                "fr": "Les intérieurs sont agréablement tempérés même en hiver ; prenez rapidement vos photos extérieures pour éviter d'avoir trop froid."
               }
             },
             {
@@ -567,13 +629,15 @@
                 "de": "Manoir du Mesnil-Besnard",
                 "hu": "Manoir du Mesnil-Besnard",
                 "ro": "Manoir du Mesnil-Besnard",
-                "en": "Manoir du Mesnil-Besnard"
+                "en": "Manoir du Mesnil-Besnard",
+                "fr": "Manoir du Mesnil-Besnard"
               },
               "tip_5lang": {
                 "de": "Die tiefstehende Wintersonne blendet auf den Landstraßen; eine Sonnenbrille ist trotz der Kälte für die Sicherheit wichtig.",
                 "hu": "Az alacsonyan járó téli nap vakíthat az országutakon; a napszemüveg a hideg ellenére is fontos a biztonság érdekében.",
                 "ro": "Soarele de iarnă aflat jos poate fi orbitor pe drumuri; ochelarii de soare sunt importanți pentru siguranță în ciuda frigului.",
-                "en": "The low winter sun can be blinding on the country roads; sunglasses are important for safety despite the cold."
+                "en": "The low winter sun can be blinding on the country roads; sunglasses are important for safety despite the cold.",
+                "fr": "Le soleil bas d'hiver peut être éblouissant sur les routes de campagne ; des lunettes de soleil sont importantes pour la sécurité malgré le froid."
               }
             },
             {
@@ -581,13 +645,15 @@
                 "de": "Château de Long Pré",
                 "hu": "Château de Long Pré",
                 "ro": "Château de Long Pré",
-                "en": "Château de Long Pré"
+                "en": "Château de Long Pré",
+                "fr": "Château de Long Pré"
               },
               "tip_5lang": {
                 "de": "Stellen Sie sicher, dass Ihre Fahrradbeleuchtung funktioniert, da die Dämmerung im Winter sehr schnell einsetzt.",
                 "hu": "Győződjön meg róla, hogy a kerékpár világítása jól működik, mivel a téli szürkület nagyon hirtelen köszönt be.",
                 "ro": "Asigurați-vă că luminile bicicletei funcționează bine, deoarece amurgul de iarnă se instalează foarte repede.",
-                "en": "Ensure your bike lights are working well, as the winter dusk sets in very suddenly."
+                "en": "Ensure your bike lights are working well, as the winter dusk sets in very suddenly.",
+                "fr": "Assurez-vous que les lumières de votre vélo fonctionnent bien, car le crépuscule hivernal tombe très rapidement."
               }
             }
           ]
@@ -607,7 +673,8 @@
             "de": "Château de Falaise",
             "hu": "Falaise-i kastély",
             "ro": "Château de Falaise",
-            "en": "Château de Falaise"
+            "en": "Château de Falaise",
+            "fr": "Château de Falaise"
           },
           "coords": [
             -0.2039,
@@ -622,7 +689,8 @@
             "de": "Erkunden Sie den imposanten Geburtsort von Wilhelm dem Eroberer und leihen Sie sich am Eingang das interaktive Tablet für eine lebendige Rekonstruktion aus.",
             "hu": "Fedezze fel Hódító Vilmos impozáns szülőhelyét, és mindenképpen kérje el a bejáratnál az interaktív táblagépet az élénk történelmi rekonstrukcióhoz.",
             "ro": "Explorați impunătorul loc de naștere al lui William Cuceritorul și asigurați-vă că împrumutați tableta interactivă la intrare pentru o reconstrucție vie.",
-            "en": "Explore the imposing birthplace of William the Conqueror and make sure to borrow the interactive tablet at the entrance for a vivid historical reconstruction."
+            "en": "Explore the imposing birthplace of William the Conqueror and make sure to borrow the interactive tablet at the entrance for a vivid historical reconstruction.",
+            "fr": "Explorez le lieu de naissance imposant de Guillaume le Conquérant et n'oubliez pas d'emprunter la tablette interactive à l'entrée pour une reconstitution historique saisissante."
           }
         },
         {
@@ -630,7 +698,8 @@
             "de": "Château de la Fresnaye",
             "hu": "Château de la Fresnaye",
             "ro": "Château de la Fresnaye",
-            "en": "Château de la Fresnaye"
+            "en": "Château de la Fresnaye",
+            "fr": "Château de la Fresnaye"
           },
           "coords": [
             -0.194569,
@@ -645,7 +714,8 @@
             "de": "Schlendern Sie durch dieses elegante Anwesen aus dem 17. Jahrhundert und tragen Sie bequeme Schuhe, um die wunderschönen umliegenden öffentlichen Gärten zu erkunden.",
             "hu": "Sétáljon végig ezen az elegáns, 17. századi birtokon, és viseljen kényelmes cipőt, hogy felfedezze a gyönyörű, környező, gondozott nyilvános kerteket.",
             "ro": "Plimbați-vă prin această proprietate elegantă din secolul al XVII-lea și purtați pantofi confortabili pentru a explora frumoasele grădini publice înconjurătoare.",
-            "en": "Wander around this elegant 17th-century estate with its charming grounds, and wear comfortable shoes to explore the beautiful surrounding public gardens."
+            "en": "Wander around this elegant 17th-century estate with its charming grounds, and wear comfortable shoes to explore the beautiful surrounding public gardens.",
+            "fr": "Flânez dans ce domaine élégant du XVIIe siècle avec ses charmants jardins, et portez des chaussures confortables pour visiter les beaux jardins publics environnants."
           }
         },
         {
@@ -653,7 +723,8 @@
             "de": "Château de Versainville",
             "hu": "Château de Versainville",
             "ro": "Château de Versainville",
-            "en": "Château de Versainville"
+            "en": "Château de Versainville",
+            "fr": "Château de Versainville"
           },
           "coords": [
             -0.180395,
@@ -668,7 +739,8 @@
             "de": "Besichtigen Sie die prächtig dekorierten großen Salons dieses weitläufigen aristokratischen Anwesens und nehmen Sie sich Zeit für die gepflegten französischen Gärten.",
             "hu": "Járja be e hatalmas arisztokrata birtok fényűzően berendezett nagy szalonjait, és szánjon időt a gyönyörűen gondozott, klasszikus francia kertekre is.",
             "ro": "Vizitați marile saloane somptuos decorate ale acestei proprietăți aristocratice întinse și faceți o plimbare prin grădinile franceze frumos îngrijite.",
-            "en": "Tour the lavishly decorated grand salons of this sprawling aristocratic estate, and take time to stroll through the beautifully manicured French gardens."
+            "en": "Tour the lavishly decorated grand salons of this sprawling aristocratic estate, and take time to stroll through the beautifully manicured French gardens.",
+            "fr": "Visitez les grands salons richement décorés de ce vaste domaine aristocratique, et prenez le temps de vous promener dans les magnifiques jardins à la française parfaitement entretenus."
           }
         },
         {
@@ -676,7 +748,8 @@
             "de": "Château d'Aubigny",
             "hu": "Château d'Aubigny",
             "ro": "Château d'Aubigny",
-            "en": "Château d'Aubigny"
+            "en": "Château d'Aubigny",
+            "fr": "Château d'Aubigny"
           },
           "coords": [
             -0.216655,
@@ -691,7 +764,8 @@
             "de": "Erkunden Sie dieses weniger bekannte ländliche Schloss inmitten malerischer Ackerflächen, wo Sie einen ruhigen Spaziergang entlang der idyllischen Wege genießen können.",
             "hu": "Fedezze fel ezt a festői mezőgazdasági területekkel körülvett, kevésbé ismert vidéki kastélyt, ahol békés sétát tehet a birtokot szegélyező csendes ösvényeken.",
             "ro": "Explorați acest castel rural mai puțin cunoscut, înconjurat de terenuri agricole pitorești, unde vă puteți bucura de o plimbare pașnică de-a lungul cărărilor liniștite.",
-            "en": "Explore this lesser-known rural castle surrounded by picturesque farmlands, where you can enjoy a peaceful walk along the quiet paths lining the property."
+            "en": "Explore this lesser-known rural castle surrounded by picturesque farmlands, where you can enjoy a peaceful walk along the quiet paths lining the property.",
+            "fr": "Explorez ce château rural moins connu entouré de terres agricoles pittoresques, où vous pourrez profiter d'une promenade paisible le long des sentiers calmes du domaine."
           }
         },
         {
@@ -699,7 +773,8 @@
             "de": "Château de Vallembras",
             "hu": "Château de Vallembras",
             "ro": "Château de Vallembras",
-            "en": "Château de Vallembras"
+            "en": "Château de Vallembras",
+            "fr": "Château de Vallembras"
           },
           "coords": [
             -0.223474,
@@ -714,7 +789,8 @@
             "de": "Machen Sie eine Zeitreise, während Sie die gut erhaltenen Türme dieses historischen Anwesens betrachten, und fragen Sie die freundlichen Hausmeister nach lokalen Legenden.",
             "hu": "Lépjen vissza az időben, miközben megtekinti e történelmi birtok jól megőrzött tornyait, és kérdezze meg a barátságos gondnokokat a lenyűgöző helyi legendákról.",
             "ro": "Întoarceți-vă în timp în timp ce vizualizați turnurile bine conservate ale acestei proprietăți istorice și întrebați îngrijitorii prietenoși despre legendele locale fascinante.",
-            "en": "Step back in time as you view the well-preserved towers of this historic estate, and ask the friendly caretakers about the fascinating local legends."
+            "en": "Step back in time as you view the well-preserved towers of this historic estate, and ask the friendly caretakers about the fascinating local legends.",
+            "fr": "Remontez le temps en découvrant les tours bien conservées de ce domaine historique, et demandez aux gardiens amicaux de vous raconter les légendes locales fascinantes."
           }
         }
       ],
@@ -722,7 +798,8 @@
         "de": "Begeben Sie sich auf eine spektakuläre Autotour, die direkt an der beeindruckenden Festung Château de Falaise beginnt. \n\nFahren Sie als Nächstes zum raffinierten Château de la Fresnaye, dessen elegante Gärten im Kontrast zur militärischen Macht des Morgens stehen. \n\nFahren Sie am Nachmittag durch die malerische normannische Landschaft und halten Sie an den herrlichen Anwesen von Versainville und Aubigny. \n\nLassen Sie Ihren Roadtrip im ruhigen Château de Vallembras ausklingen, einem perfekten Ort, um den Charme des ländlichen Frankreichs zu schätzen.",
         "hu": "Induljon el egy látványos autós túrára, amely közvetlenül a félelmetes falaise-i kastélynál, a normandiai hercegek építményénél kezdődik. \n\nVezessen tovább a kifinomult Château de la Fresnaye-hez, amelynek elegáns kertjei kontrasztban állnak a reggeli katonai erővel. \n\nDélután cirkáljon át a festői normann vidéken, megállva Versainville és Aubigny csodálatos, régi nemesi birtokain. \n\nFejezze be utazását a nyugodt Château de Vallembras-nál, amely tökéletes csendes hely a vidéki Franciaország bájának értékeléséhez.",
         "ro": "Porniți într-un tur auto spectaculos care începe direct la formidabila fortăreață, Château de Falaise, construită de ducii normanzi. \n\nConduceți apoi spre rafinatul Château de la Fresnaye, contrastând grădinile sale elegante cu forța militară brută a dimineții. \n\nTraversați peisajul rural pitoresc după-amiaza, oprindu-vă la moșiile magnifice Versainville și Aubigny. \n\nÎncheiați-vă călătoria la seninul Château de Vallembras, un loc liniștit perfect pentru a aprecia farmecul Franței rurale.",
-        "en": "Embark on a spectacular driving tour starting directly at the formidable fortress, the Château de Falaise, built by Dukes of Normandy. \n\nDrive next to the refined Château de la Fresnaye, contrasting its elegant gardens with the raw military might of the morning. \n\nCruise through the picturesque Norman countryside in the afternoon, stopping at the magnificent estates of Versainville and Aubigny. \n\nWind down your road trip at the serene Château de Vallembras, a perfect quiet spot to appreciate the enduring charm of rural France."
+        "en": "Embark on a spectacular driving tour starting directly at the formidable fortress, the Château de Falaise, built by Dukes of Normandy. \n\nDrive next to the refined Château de la Fresnaye, contrasting its elegant gardens with the raw military might of the morning. \n\nCruise through the picturesque Norman countryside in the afternoon, stopping at the magnificent estates of Versainville and Aubigny. \n\nWind down your road trip at the serene Château de Vallembras, a perfect quiet spot to appreciate the enduring charm of rural France.",
+        "fr": "Embarquez pour une spectaculaire excursion en voiture en commençant directement au formidable Château de Falaise, édifié par les ducs de Normandie.\n\nPoursuivez vers le raffiné Château de la Fresnaye, contrastant ses jardins élégants avec la puissance militaire brute du matin.\n\nTraversez l'après-midi la pittoresque campagne normande, en vous arrêtant dans les somptueux domaines de Versainville et d'Aubigny.\n\nTerminez votre road trip au serein Château de Vallembras, un endroit parfait et tranquille pour apprécier le charme durable de la France rurale."
       },
       "variants": {
         "rainy": {
@@ -730,7 +807,8 @@
             "de": "Genießen Sie die normannische Landschaft bequem vom Auto aus. Wir starten morgens an der Burg und besuchen nacheinander die prächtigen Schlösser. Das Prasseln des Regens auf das Dach untermalt die Fahrt zu den abgelegenen Châteaux. Zwischen den Stopps bleiben wir trocken und warm. Die Tour endet bei atmosphärischem Dämmerlicht auf den nassen Landstraßen.",
             "hu": "Élvezze a normandiai tájat kényelmesen az autóból. Reggel a várnál kezdünk, majd sorra látogatjuk a pazar kastélyokat. Az eső kopogása a tetőn aláfesti az utat a távolabbi helyszínek felé. A megállók között szárazon és melegen maradhatunk. A túra hangulatos szürkületben zárul a vizes országutakon.",
             "ro": "Bucurați-vă de peisajul normand din confortul mașinii. Începem dimineața la castel și vizităm rând pe rând castelele magnifice. Ropotul ploii pe plafon însoțește drumul spre locațiile îndepărtate. Între opriri rămânem uscați și la căldură. Turul se încheie într-un amurg atmosferic pe drumurile umede.",
-            "en": "Enjoy the Norman landscape comfortably from the car. We start the morning at the castle and visit the magnificent châteaux one by one. The pitter-patter of rain on the roof accompanies the drive to the remote locations. We stay dry and warm between stops. The tour ends in atmospheric dusk on the wet country roads."
+            "en": "Enjoy the Norman landscape comfortably from the car. We start the morning at the castle and visit the magnificent châteaux one by one. The pitter-patter of rain on the roof accompanies the drive to the remote locations. We stay dry and warm between stops. The tour ends in atmospheric dusk on the wet country roads.",
+            "fr": "Appréciez le paysage normand confortablement depuis la voiture. Nous commençons la matinée au château et visitons les magnifiques châteaux les uns après les autres. Le clapotis de la pluie sur le toit accompagne la route vers les lieux reculés. Nous restons au sec et au chaud entre les étapes. La visite se termine au crépuscule, sur les routes de campagne humides et atmosphériques."
           },
           "stops": [
             {
@@ -738,13 +816,15 @@
                 "de": "Château de Falaise",
                 "hu": "Falaise-i kastély",
                 "ro": "Château de Falaise",
-                "en": "Château de Falaise"
+                "en": "Château de Falaise",
+                "fr": "Château de Falaise"
               },
               "tip_5lang": {
                 "de": "Parken Sie auf dem nahen Parkplatz, um den Weg im Regen kurzzuhalten; die massiven Türme bieten perfekten Schutz für Stunden.",
                 "hu": "Parkoljon a közeli parkolóban, hogy lerövidítse az esőben megtett utat; a masszív tornyok órákon át tökéletes védelmet nyújtanak.",
                 "ro": "Parcați în parcarea apropiată pentru a scurta drumul prin ploaie; turnurile masive oferă protecție perfectă timp de ore întregi.",
-                "en": "Park in the nearby parking lot to keep the walk in the rain short; the massive towers offer perfect protection for hours."
+                "en": "Park in the nearby parking lot to keep the walk in the rain short; the massive towers offer perfect protection for hours.",
+                "fr": "Garez-vous dans le parking proche pour garder la promenade sous la pluie courte ; les hautes tours offrent une protection parfaite pendant des heures."
               }
             },
             {
@@ -752,13 +832,15 @@
                 "de": "Château de la Fresnaye",
                 "hu": "Château de la Fresnaye",
                 "ro": "Château de la Fresnaye",
-                "en": "Château de la Fresnaye"
+                "en": "Château de la Fresnaye",
+                "fr": "Château de la Fresnaye"
               },
               "tip_5lang": {
                 "de": "Nutzen Sie die kurzen Regenpausen für einen Spaziergang im Park; die Zufahrt ist gut befestigt und auch bei Nässe sicher.",
                 "hu": "Használja ki a rövid esőszüneteket egy parkbéli sétához; a felhajtó jól kiépített és esőben is biztonságosan járható.",
                 "ro": "Folosiți scurtele pauze de ploaie pentru o plimbare în parc; aleea de acces este bine amenajată și sigură chiar și pe ploaie.",
-                "en": "Take advantage of short rain breaks for a walk in the park; the driveway is well-paved and safe even in wet weather."
+                "en": "Take advantage of short rain breaks for a walk in the park; the driveway is well-paved and safe even in wet weather.",
+                "fr": "Profitez des courtes éclaircies pour une promenade dans le parc ; l'allée est bien pavée et sûre même par temps humide."
               }
             },
             {
@@ -766,13 +848,15 @@
                 "de": "Château de Versainville",
                 "hu": "Château de Versainville",
                 "ro": "Château de Versainville",
-                "en": "Château de Versainville"
+                "en": "Château de Versainville",
+                "fr": "Château de Versainville"
               },
               "tip_5lang": {
                 "de": "Das Schloss wirkt im Regen besonders herrschaftlich; achten Sie beim Aussteigen auf Pfützen in der Nähe des Parkbereichs.",
                 "hu": "A kastély látványa esőben különösen előkelő; kiszálláskor ügyeljen a parkoló közelében lévő tócsákra.",
                 "ro": "Castelul pare deosebit de nobil în ploaie; aveți grijă la bălțile din apropierea zonei de parcare la coborâre.",
-                "en": "The castle looks particularly noble in the rain; watch out for puddles near the parking area when getting out of the car."
+                "en": "The castle looks particularly noble in the rain; watch out for puddles near the parking area when getting out of the car.",
+                "fr": "Le château paraît particulièrement noble sous la pluie ; attention aux flaques près du parking en sortant de la voiture."
               }
             },
             {
@@ -780,13 +864,15 @@
                 "de": "Château d'Aubigny",
                 "hu": "Château d'Aubigny",
                 "ro": "Château d'Aubigny",
-                "en": "Château d'Aubigny"
+                "en": "Château d'Aubigny",
+                "fr": "Château d'Aubigny"
               },
               "tip_5lang": {
                 "de": "Die Fahrt hierher führt durch malerische Alleen, die im Regen glänzen; halten Sie die Scheibenwischer bereit für die Landstraße.",
                 "hu": "Az idevezető út festői fasorokon át visz, amelyek csillognak az esőben; készítse elő az ablaktörlőket az országúti szakaszra.",
                 "ro": "Drumul spre acest loc trece prin alei pitorești care strălucesc în ploaie; pregătiți ștergătoarele pentru segmentul de drum național.",
-                "en": "The drive here leads through picturesque alleys that glisten in the rain; keep your windshield wipers ready for the country road."
+                "en": "The drive here leads through picturesque alleys that glisten in the rain; keep your windshield wipers ready for the country road.",
+                "fr": "La route pour y accéder traverse des allées pittoresques qui scintillent sous la pluie ; gardez vos essuie-glaces prêts sur la route de campagne."
               }
             },
             {
@@ -794,13 +880,15 @@
                 "de": "Château de Vallembras",
                 "hu": "Château de Vallembras",
                 "ro": "Château de Vallembras",
-                "en": "Château de Vallembras"
+                "en": "Château de Vallembras",
+                "fr": "Château de Vallembras"
               },
               "tip_5lang": {
                 "de": "Beenden Sie den Tag bei einer gemütlichen Rückfahrt; die Parkplätze sind nah am Schloss, ideal bei anhaltendem Niederschlag.",
                 "hu": "Zárja a napot egy kényelmes visszaúttal; a parkolók közel vannak a kastélyhoz, ami ideális tartós esőzés esetén.",
                 "ro": "Încheiați ziua cu un drum de întoarcere relaxant; parcările sunt aproape de castel, ideal în caz de ploaie persistentă.",
-                "en": "End the day with a comfortable drive back; the parking lots are close to the castle, ideal in case of persistent rain."
+                "en": "End the day with a comfortable drive back; the parking lots are close to the castle, ideal in case of persistent rain.",
+                "fr": "Terminez la journée par un trajet de retour confortable ; les parkings sont proches du château, idéal en cas de pluie persistante."
               }
             }
           ]
@@ -810,7 +898,8 @@
             "de": "Erleben Sie die winterliche Normandie ohne zu frieren. Wir starten morgens an der Burg und genießen den Komfort des beheizten Autos zwischen den Schlössern. Die frostigen Felder bieten herrliche Fotomotive. Da es gegen 17:00 Uhr dunkel wird, planen wir die Stopps effizient. Den Abend lassen wir bei der Rückfahrt durch die beleuchteten Dörfer ausklingen.",
             "hu": "Ismerje meg a téli Normandiát fázás nélkül. Reggel a várnál kezdünk, és élvezzük a fűtött autó kényelmét a kastélyok közötti úton. A zúzmarás mezők csodálatos fotótémákat kínálnak. Mivel 17:00 körül sötétedik, hatékonyan tervezzük a megállókat. Az estét a kivilágított falvakon átvezető visszaúttal zárjuk.",
             "ro": "Descoperiți Normandia de iarnă fără să vă fie frig. Începem dimineața la castel și ne bucurăm de confortul mașinii încălzite între castele. Câmpiile înghețate oferă motive fotografice superbe. Deoarece se întunecă în jur de ora 17:00, planificăm opririle eficient. Încheiem seara cu drumul de întoarcere prin satele iluminate.",
-            "en": "Experience winter Normandy without getting cold. We start the morning at the castle and enjoy the comfort of the heated car between the châteaux. The frosty fields offer wonderful photo opportunities. As it gets dark around 17:00, we plan the stops efficiently. We end the evening with the drive back through illuminated villages."
+            "en": "Experience winter Normandy without getting cold. We start the morning at the castle and enjoy the comfort of the heated car between the châteaux. The frosty fields offer wonderful photo opportunities. As it gets dark around 17:00, we plan the stops efficiently. We end the evening with the drive back through illuminated villages.",
+            "fr": "Vivez la Normandie hivernale sans avoir froid. Nous commençons la matinée au château et profitons du confort de la voiture chauffée entre les châteaux. Les champs givrés offrent de superbes occasions photographiques. Comme la nuit tombe vers 17:00, nous planifions les étapes de façon efficace. Nous terminons la soirée en retournant à travers des villages illuminés."
           },
           "stops": [
             {
@@ -818,13 +907,15 @@
                 "de": "Château de Falaise",
                 "hu": "Falaise-i kastély",
                 "ro": "Château de Falaise",
-                "en": "Château de Falaise"
+                "en": "Château de Falaise",
+                "fr": "Château de Falaise"
               },
               "tip_5lang": {
                 "de": "Nutzen Sie die Heizung im Auto, um sich nach dem Burgrundgang aufzuwärmen; die interaktiven Guides sind auch im Winter aktiv.",
                 "hu": "Használja az autó fűtését a bemelegedéshez a várnézés után; az interaktív vezetők télen is teljes körűen működnek.",
                 "ro": "Folosiți încălzirea mașinii pentru a vă încălzi după vizitarea castelului; ghidurile interactive sunt active și pe timp de iarnă.",
-                "en": "Use the car heater to warm up after the castle tour; the interactive guides are fully operational in winter too."
+                "en": "Use the car heater to warm up after the castle tour; the interactive guides are fully operational in winter too.",
+                "fr": "Utilisez le chauffage de la voiture pour vous réchauffer après la visite du château ; les guides interactifs fonctionnent parfaitement en hiver également."
               }
             },
             {
@@ -832,13 +923,15 @@
                 "de": "Château de la Fresnaye",
                 "hu": "Château de la Fresnaye",
                 "ro": "Château de la Fresnaye",
-                "en": "Château de la Fresnaye"
+                "en": "Château de la Fresnaye",
+                "fr": "Château de la Fresnaye"
               },
               "tip_5lang": {
                 "de": "Das Schloss ist im Winterlicht besonders fotogen; steigen Sie für einen kurzen Moment aus, um den Kontrast zum Frost einzufangen.",
                 "hu": "A kastély a téli fényekben különösen fotogén; szálljon ki egy rövid pillanatra, hogy megörökítsen a zúzmarás kontrasztokat.",
                 "ro": "Castelul este deosebit de fotogenic în lumina iernii; coborâți pentru un moment scurt pentru a surprinde contrastul cu gerul.",
-                "en": "The castle is particularly photogenic in winter light; get out for a brief moment to capture the contrast with the frost."
+                "en": "The castle is particularly photogenic in winter light; get out for a brief moment to capture the contrast with the frost.",
+                "fr": "Le château est particulièrement photogénique sous la lumière hivernale ; sortez un instant pour saisir le contraste avec le givre."
               }
             },
             {
@@ -846,13 +939,15 @@
                 "de": "Château de Versainville",
                 "hu": "Château de Versainville",
                 "ro": "Château de Versainville",
-                "en": "Château de Versainville"
+                "en": "Château de Versainville",
+                "fr": "Château de Versainville"
               },
               "tip_5lang": {
                 "de": "Achten Sie bei der Anfahrt auf mögliche Glätte in schattigen Waldstücken; der Anblick des verschneiten Schlosses ist die Fahrt wert.",
                 "hu": "Az idevezető úton ügyeljen az árnyékos erdős szakaszok jegesedésére; a havas kastély látványa megéri az óvatos autózást.",
                 "ro": "Atenție la posibila polei în zonele de pădure umbrite la sosire; vederea castelului înzăpezit merită drumul prudent.",
-                "en": "Watch out for potential ice in shaded forest sections on the way here; the sight of the snowy castle is worth the careful drive."
+                "en": "Watch out for potential ice in shaded forest sections on the way here; the sight of the snowy castle is worth the careful drive.",
+                "fr": "Attention aux plaques de verglas potentielles dans les sections forestières ombragées sur le trajet ; la vue du château enneigé vaut la prudence au volant."
               }
             },
             {
@@ -860,13 +955,15 @@
                 "de": "Château d'Aubigny",
                 "hu": "Château d'Aubigny",
                 "ro": "Château d'Aubigny",
-                "en": "Château d'Aubigny"
+                "en": "Château d'Aubigny",
+                "fr": "Château d'Aubigny"
               },
               "tip_5lang": {
                 "de": "Planen Sie diesen Stopp vor 16 Uhr ein, um das letzte Tageslicht für die Fassade zu nutzen, bevor die Dämmerung einsetzt.",
                 "hu": "Tervezze ezt a megállót 16 óra elé, hogy kihasználja az utolsó nappali fényeket a homlokzaton a szürkület beállta előtt.",
                 "ro": "Planificați această oprire înainte de ora 16:00 pentru a folosi ultima lumină a zilei pe fațadă înainte de lăsarea serii.",
-                "en": "Plan this stop before 16:00 to use the last daylight for the facade before the twilight sets in."
+                "en": "Plan this stop before 16:00 to use the last daylight for the facade before the twilight sets in.",
+                "fr": "Prévoyez cet arrêt avant 16h00 pour profiter de la dernière lumière du jour sur la façade avant que le crépuscule n'arrive."
               }
             },
             {
@@ -874,13 +971,15 @@
                 "de": "Château de Vallembras",
                 "hu": "Château de Vallembras",
                 "ro": "Château de Vallembras",
-                "en": "Château de Vallembras"
+                "en": "Château de Vallembras",
+                "fr": "Château de Vallembras"
               },
               "tip_5lang": {
                 "de": "Beenden Sie die Tour pünktlich zum Sonnenuntergang; prüfen Sie vor der Rückfahrt den Frostschutz in Ihrer Scheibenwaschanlage.",
                 "hu": "Fejezze be a túrát pontosan naplementekor; a visszaindulás előtt ellenőrizze a fagyállót a szélvédőmosó tartályban.",
                 "ro": "Încheiați turul exact la apus; verificați antigelul din rezervorul de spălare a parbrizului înainte de plecare.",
-                "en": "End the tour exactly at sunset; check the antifreeze in your windshield washer tank before heading back."
+                "en": "End the tour exactly at sunset; check the antifreeze in your windshield washer tank before heading back.",
+                "fr": "Terminez la visite exactement au coucher du soleil ; vérifiez l’antigel du réservoir de lave-glace avant le retour."
               }
             }
           ]

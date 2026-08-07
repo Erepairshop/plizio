@@ -21,7 +21,8 @@
             "de": "Cours Dajot",
             "hu": "Cours Dajot sétány",
             "ro": "Cours Dajot",
-            "en": "Cours Dajot"
+            "en": "Cours Dajot",
+            "fr": "Cours Dajot"
           },
           "coords": [
             -4.484,
@@ -36,7 +37,8 @@
             "de": "Bester Blick auf die Reede von Brest.",
             "hu": "A legjobb kilátás a breszti öbölre.",
             "ro": "Cea mai bună vedere asupra portului Brest.",
-            "en": "Best view of the Brest roadstead."
+            "en": "Best view of the Brest roadstead.",
+            "fr": "Meilleure vue sur la rade de Brest."
           }
         },
         {
@@ -44,7 +46,8 @@
             "de": "Château de Brest",
             "hu": "Breszti vár",
             "ro": "Castelul din Brest",
-            "en": "Château de Brest"
+            "en": "Château de Brest",
+            "fr": "Château de Brest"
           },
           "coords": [
             -4.483,
@@ -59,7 +62,8 @@
             "de": "Die älteste Festung der Welt, die noch in Betrieb ist.",
             "hu": "A világ legrégebbi, ma is használatban lévő erődje.",
             "ro": "Cea mai veche cetate din lume încă în funcțiune.",
-            "en": "The oldest castle in the world still in use."
+            "en": "The oldest castle in the world still in use.",
+            "fr": "Le plus vieux château du monde encore en activité."
           }
         },
         {
@@ -67,7 +71,8 @@
             "de": "Musée national de la Marine",
             "hu": "Nemzeti Haditengerészeti Múzeum",
             "ro": "Muzeul Național al Marinei",
-            "en": "National Navy Museum"
+            "en": "National Navy Museum",
+            "fr": "Musée national de la Marine"
           },
           "coords": [
             -4.484,
@@ -82,7 +87,8 @@
             "de": "Beeindruckende Schiffsmodelle und maritime Geschichte.",
             "hu": "Lenyűgöző hajómodellek és tengerészeti történelem.",
             "ro": "Modele de nave impresionante și istorie maritimă.",
-            "en": "Impressive ship models and naval history."
+            "en": "Impressive ship models and naval history.",
+            "fr": "Maquettes de navires impressionnantes et histoire navale."
           }
         },
         {
@@ -90,7 +96,8 @@
             "de": "Pont de Recouvrance",
             "hu": "Recouvrance-híd",
             "ro": "Podul Recouvrance",
-            "en": "Pont de Recouvrance"
+            "en": "Pont de Recouvrance",
+            "fr": "Pont de Recouvrance"
           },
           "coords": [
             -4.495,
@@ -105,7 +112,8 @@
             "de": "Europas größte Hubbrücke.",
             "hu": "Európa legnagyobb emelőhídja.",
             "ro": "Cel mai mare pod mobil din Europa.",
-            "en": "Europe's largest vertical-lift bridge."
+            "en": "Europe's largest vertical-lift bridge.",
+            "fr": "Le plus grand pont à levage vertical d'Europe."
           }
         },
         {
@@ -113,7 +121,8 @@
             "de": "Tour Tanguy",
             "hu": "Tanguy-torony",
             "ro": "Turnul Tanguy",
-            "en": "Tour Tanguy"
+            "en": "Tour Tanguy",
+            "fr": "Tour Tanguy"
           },
           "coords": [
             -4.497,
@@ -128,7 +137,8 @@
             "de": "Dioramen zeigen das Brest von vor 1944.",
             "hu": "Diorámák mutatják be a 1944 előtti Brestet.",
             "ro": "Dioramele prezintă Brestul de dinainte de 1944.",
-            "en": "Dioramas show Brest as it was before 1944."
+            "en": "Dioramas show Brest as it was before 1944.",
+            "fr": "Les dioramas montrent Brest avant 1944."
           }
         },
         {
@@ -136,7 +146,8 @@
             "de": "Plateau des Capucins",
             "hu": "Capucins-fennsík",
             "ro": "Plateau des Capucins",
-            "en": "Plateau des Capucins"
+            "en": "Plateau des Capucins",
+            "fr": "Plateau des Capucins"
           },
           "coords": [
             -4.498,
@@ -151,7 +162,8 @@
             "de": "Fahren Sie mit der Seilbahn für tolle Aussichten.",
             "hu": "Utazzon a libegővel a remek kilátásért.",
             "ro": "Luați telecabina pentru vederi panoramice.",
-            "en": "Take the cable car for great views."
+            "en": "Take the cable car for great views.",
+            "fr": "Prenez le téléphérique pour de superbes vues."
           }
         },
         {
@@ -159,7 +171,8 @@
             "de": "Rive Droite Marina",
             "hu": "Jobb parti jachtkikötő",
             "ro": "Marina Rive Droite",
-            "en": "Rive Droite Marina"
+            "en": "Rive Droite Marina",
+            "fr": "Port de la Rive Droite"
           },
           "coords": [
             -4.502,
@@ -174,7 +187,8 @@
             "de": "Perfekt für einen Drink am Hafen zum Abschluss.",
             "hu": "Tökéletes hely egy italra a kikötőben zárásként.",
             "ro": "Perfect pentru o băutură în port la final.",
-            "en": "Perfect for a drink by the harbor at the end."
+            "en": "Perfect for a drink by the harbor at the end.",
+            "fr": "Parfait pour boire un verre au bord du port en fin de journée."
           }
         }
       ],
@@ -182,7 +196,8 @@
         "de": "Beginnen Sie Ihren Tag auf dem Cours Dajot mit einem weiten Blick auf den Marinehafen. Erkunden Sie die Festungsgeschichte im Schloss und dem Marinemuseum. Nach einem Spaziergang über die monumentale Brücke tauchen Sie im Tour Tanguy in die nostalgische Stadtgeschichte ein. Der Nachmittag gehört dem modernen Kulturzentrum Les Capucins, das Sie bequem per Seilbahn erreichen.",
         "hu": "Kezdje a napot a Cours Dajot sétányon, ahonnan pazar kilátás nyílik a hadikikötőre. Fedezze fel az erődítmények titkait a várban és a tengerészeti múzeumban. A monumentális hídon átkelve a Tanguy-toronyban megismerheti a régi Brest hangulatát. Délután látogasson el a modern Les Capucins kulturális központba, ahová libegővel érkezhet meg látványosan.",
         "ro": "Începeți ziua pe Cours Dajot cu o vedere panoramică asupra portului militar. Explorați istoria fortificațiilor la castel și la muzeul marinei. După o plimbare peste podul monumental, descoperiți Brestul de altădată în Turnul Tanguy. După-amiaza este dedicată centrului cultural modern Les Capucins, unde puteți ajunge spectaculos cu telecabina.",
-        "en": "Start your day on Cours Dajot with a sweeping view of the naval port. Explore fortress history at the castle and the Navy Museum. After crossing the monumental bridge, immerse yourself in nostalgic city history at Tour Tanguy. Spend the afternoon at the modern Les Capucins cultural hub, easily reached by a scenic cable car ride."
+        "en": "Start your day on Cours Dajot with a sweeping view of the naval port. Explore fortress history at the castle and the Navy Museum. After crossing the monumental bridge, immerse yourself in nostalgic city history at Tour Tanguy. Spend the afternoon at the modern Les Capucins cultural hub, easily reached by a scenic cable car ride.",
+        "fr": "Commencez votre journée sur le Cours Dajot avec une vue dégagée sur le port militaire. Explorez l'histoire des forteresses au château et au Musée de la Marine. Après avoir traversé le pont monumental, plongez dans l'histoire nostalgique de la ville à la Tour Tanguy. Passez l'après-midi au moderne pôle culturel Les Capucins, facilement accessible par une balade en téléphérique offrant de beaux panoramas."
       },
       "gastro_picks": {
         "de": [
@@ -302,6 +317,11 @@
           "Brest is hilly, so comfortable walking shoes are essential.",
           "The cable car is included in the standard transit ticket.",
           "Weather changes rapidly; always carry a light raincoat."
+        ],
+        "fr": [
+          "Brest est vallonnée, des chaussures de marche confortables sont donc indispensables.",
+          "Le téléphérique est inclus dans le ticket de transport standard.",
+          "Le temps change rapidement ; emportez toujours un imperméable léger."
         ]
       }
     },
@@ -318,7 +338,8 @@
             "de": "Château de Brest",
             "hu": "Breszti vár",
             "ro": "Castelul din Brest",
-            "en": "Château de Brest"
+            "en": "Château de Brest",
+            "fr": "Château de Brest"
           },
           "coords": [
             -4.483,
@@ -333,7 +354,8 @@
             "de": "Sicherer Fahrradabstellplatz am Eingang.",
             "hu": "Biztonságos biciklitároló a bejáratnál.",
             "ro": "Parcare sigură pentru biciclete la intrare.",
-            "en": "Secure bike parking at the entrance."
+            "en": "Secure bike parking at the entrance.",
+            "fr": "Parking sécurisé pour vélos à l'entrée."
           }
         },
         {
@@ -341,7 +363,8 @@
             "de": "Plateau des Capucins",
             "hu": "Capucins-fennsík",
             "ro": "Plateau des Capucins",
-            "en": "Plateau des Capucins"
+            "en": "Plateau des Capucins",
+            "fr": "Plateau des Capucins"
           },
           "coords": [
             -4.498,
@@ -356,7 +379,8 @@
             "de": "Riesige Innenflächen zum Erkunden.",
             "hu": "Hatalmas belső terek a felfedezéshez.",
             "ro": "Spații interioare vaste de explorat.",
-            "en": "Huge indoor spaces to explore."
+            "en": "Huge indoor spaces to explore.",
+            "fr": "Immenses espaces intérieurs à explorer."
           }
         },
         {
@@ -364,7 +388,8 @@
             "de": "Marina du Château",
             "hu": "Várkikötő",
             "ro": "Marina du Château",
-            "en": "Marina du Château"
+            "en": "Marina du Château",
+            "fr": "Marina du Château"
           },
           "coords": [
             -4.485,
@@ -379,7 +404,8 @@
             "de": "Flache Wege entlang der Kaimauern.",
             "hu": "Lapos utak a rakpart mentén.",
             "ro": "Trasee plate de-a lungul cheiurilor.",
-            "en": "Flat paths along the quayside."
+            "en": "Flat paths along the quayside.",
+            "fr": "Chemins plats le long du quai."
           }
         },
         {
@@ -387,7 +413,8 @@
             "de": "Océanopolis",
             "hu": "Océanopolis akvárium",
             "ro": "Océanopolis",
-            "en": "Océanopolis"
+            "en": "Océanopolis",
+            "fr": "Océanopolis"
           },
           "coords": [
             -4.439,
@@ -402,7 +429,8 @@
             "de": "Drei verschiedene Pavillons (Polar, Tropisch, Bretagne).",
             "hu": "Három különböző pavilon (sarki, trópusi, breton).",
             "ro": "Trei pavilioane diferite (polar, tropical, breton).",
-            "en": "Three distinct pavilions (Polar, Tropical, Brittany)."
+            "en": "Three distinct pavilions (Polar, Tropical, Brittany).",
+            "fr": "Trois pavillons distincts (Polaire, Tropical, Bretagne)."
           }
         },
         {
@@ -410,7 +438,8 @@
             "de": "Conservatoire botanique national",
             "hu": "Nemzeti Botanikai Konzervatórium",
             "ro": "Conservatorul Botanic Național",
-            "en": "National Botanical Conservatory"
+            "en": "National Botanical Conservatory",
+            "fr": "Conservatoire botanique national"
           },
           "coords": [
             -4.445,
@@ -425,7 +454,8 @@
             "de": "Exotische Pflanzen im Stang-Alar-Tal.",
             "hu": "Egzotikus növények a Stang-Alar völgyben.",
             "ro": "Plante exotice în valea Stang-Alar.",
-            "en": "Exotic plants in the Stang-Alar valley."
+            "en": "Exotic plants in the Stang-Alar valley.",
+            "fr": "Plantes exotiques dans la vallée du Stang-Alar."
           }
         },
         {
@@ -433,7 +463,8 @@
             "de": "Port de Commerce",
             "hu": "Kereskedelmi kikötő",
             "ro": "Port de Commerce",
-            "en": "Commercial Port"
+            "en": "Commercial Port",
+            "fr": "Port de commerce"
           },
           "coords": [
             -4.475,
@@ -448,7 +479,8 @@
             "de": "Ideal für ein Bier nach der Tour.",
             "hu": "Ideális egy sörre a túra után.",
             "ro": "Ideal pentru o bere după tură.",
-            "en": "Ideal for a post-ride beer."
+            "en": "Ideal for a post-ride beer.",
+            "fr": "Idéal pour une bière après la balade."
           }
         }
       ],
@@ -456,7 +488,8 @@
         "de": "Erkunden Sie Brest sportlich mit dem Rad. Nach der historischen Festung radeln Sie zum modernen Plateau des Capucins. Die Route führt Sie dann entlang der Küste zum beeindruckenden Océanopolis und dem grünen Botanischen Garten. Den Abschluss bildet der lebendige Handelshafen mit seinen vielen Cafés.",
         "hu": "Fedezze fel Brestet sportosan, kerékpárral. A történelmi erőd után tekerjen a modern Capucins-fennsíkhoz. Az útvonal a part mentén vezet a lenyűgöző Océanopolis akváriumhoz és a zöldellő Botanikus Kerthez. A napot a nyüzsgő kereskedelmi kikötőben zárhatja a kávézók teraszán.",
         "ro": "Explorați Brestul într-un mod sportiv, cu bicicleta. După cetatea istorică, pedalați spre modernul Plateau des Capucins. Traseul vă duce apoi de-a lungul coastei către impresionantul Océanopolis și grădina botanică luxuriantă. Încheiați ziua în portul comercial plin de viață.",
-        "en": "Explore Brest actively by bike. After the historic fortress, cycle to the modern Plateau des Capucins. The route then takes you along the coast to the impressive Océanopolis aquarium and the lush Botanical Garden. Finish your day at the lively commercial port with its many cafes."
+        "en": "Explore Brest actively by bike. After the historic fortress, cycle to the modern Plateau des Capucins. The route then takes you along the coast to the impressive Océanopolis aquarium and the lush Botanical Garden. Finish your day at the lively commercial port with its many cafes.",
+        "fr": "Explorez Brest activement à vélo. Après la forteresse historique, roulez jusqu'au moderne Plateau des Capucins. L'itinéraire longe ensuite la côte jusqu'au spectaculaire aquarium Océanopolis et au luxuriant jardin botanique. Terminez la journée au port de commerce animé avec ses nombreux cafés."
       },
       "gastro_picks": {
         "de": [
@@ -560,6 +593,11 @@
           "Brest offers a bike-share system called Vélo'+.",
           "Be careful when crossing Pont de Recouvrance in high winds.",
           "Use the designated bike lanes in the harbor for safe riding."
+        ],
+        "fr": [
+          "Brest propose un système de vélos en libre-service appelé Vélo'+.",
+          "Soyez prudent en traversant le Pont de Recouvrance par vents forts.",
+          "Utilisez les pistes cyclables réservées dans le port pour rouler en sécurité."
         ]
       }
     },
@@ -576,7 +614,8 @@
             "de": "Château de Brest",
             "hu": "Breszti vár",
             "ro": "Castelul din Brest",
-            "en": "Château de Brest"
+            "en": "Château de Brest",
+            "fr": "Château de Brest"
           },
           "coords": [
             -4.483,
@@ -591,7 +630,8 @@
             "de": "Parkhaus am Schloss nutzen (Parking du Château).",
             "hu": "Használja a vár alatti parkolót (Parking du Château).",
             "ro": "Folosiți parcarea de la castel (Parking du Château).",
-            "en": "Use the dedicated 'Parking du Château'."
+            "en": "Use the dedicated 'Parking du Château'.",
+            "fr": "Utilisez le 'Parking du Château' dédié."
           }
         },
         {
@@ -599,7 +639,8 @@
             "de": "Tour Tanguy",
             "hu": "Tanguy-torony",
             "ro": "Turnul Tanguy",
-            "en": "Tour Tanguy"
+            "en": "Tour Tanguy",
+            "fr": "Tour Tanguy"
           },
           "coords": [
             -4.497,
@@ -614,7 +655,8 @@
             "de": "Zu Fuß über die Brücke vom Schloss aus.",
             "hu": "Gyalog a hídon át a vár felől.",
             "ro": "Pe jos peste pod de la castel.",
-            "en": "Walk across the bridge from the castle."
+            "en": "Walk across the bridge from the castle.",
+            "fr": "Traversez le pont à pied depuis le château."
           }
         },
         {
@@ -622,7 +664,8 @@
             "de": "Plateau des Capucins",
             "hu": "Capucins-fennsík",
             "ro": "Plateau des Capucins",
-            "en": "Plateau des Capucins"
+            "en": "Plateau des Capucins",
+            "fr": "Plateau des Capucins"
           },
           "coords": [
             -4.498,
@@ -637,7 +680,8 @@
             "de": "Großer Tiefgaragenplatz vorhanden.",
             "hu": "Nagy mélygarázs áll rendelkezésre.",
             "ro": "Parcare subterană mare disponibilă.",
-            "en": "Large underground parking available."
+            "en": "Large underground parking available.",
+            "fr": "Grand parking souterrain disponible."
           }
         },
         {
@@ -645,7 +689,8 @@
             "de": "Océanopolis",
             "hu": "Océanopolis akvárium",
             "ro": "Océanopolis",
-            "en": "Océanopolis"
+            "en": "Océanopolis",
+            "fr": "Océanopolis"
           },
           "coords": [
             -4.439,
@@ -660,7 +705,8 @@
             "de": "Kostenloser Parkplatz direkt vor Ort.",
             "hu": "Ingyenes parkoló közvetlenül a helyszínen.",
             "ro": "Parcare gratuită direct la locație.",
-            "en": "Free on-site parking available."
+            "en": "Free on-site parking available.",
+            "fr": "Parking sur place gratuit disponible."
           }
         },
         {
@@ -668,7 +714,8 @@
             "de": "Conservatoire botanique national",
             "hu": "Nemzeti Botanikai Konzervatórium",
             "ro": "Conservatorul Botanic Național",
-            "en": "National Botanical Conservatory"
+            "en": "National Botanical Conservatory",
+            "fr": "Conservatoire botanique national"
           },
           "coords": [
             -4.445,
@@ -683,7 +730,8 @@
             "de": "Parken am Eingang Stang-Alar.",
             "hu": "Parkolás a Stang-Alar bejáratnál.",
             "ro": "Parcare la intrarea Stang-Alar.",
-            "en": "Park at the Stang-Alar entrance."
+            "en": "Park at the Stang-Alar entrance.",
+            "fr": "Garez-vous à l'entrée du Stang-Alar."
           }
         },
         {
@@ -691,7 +739,8 @@
             "de": "Le Phare du Petit Minou",
             "hu": "Petit Minou világítótorony",
             "ro": "Farul Petit Minou",
-            "en": "Petit Minou Lighthouse"
+            "en": "Petit Minou Lighthouse",
+            "fr": "Phare du Petit Minou"
           },
           "coords": [
             -4.615,
@@ -706,7 +755,8 @@
             "de": "Wunderschöner Fotopunkt außerhalb der Stadt.",
             "hu": "Csodálatos fotópont a városon kívül.",
             "ro": "Punct foto superb în afara orașului.",
-            "en": "Stunning photo spot just outside the city."
+            "en": "Stunning photo spot just outside the city.",
+            "fr": "Superbe endroit pour des photos juste à l'extérieur de la ville."
           }
         }
       ],
@@ -714,7 +764,8 @@
         "de": "Mit dem Auto erreichen Sie bequem die verschiedenen Cluster von Brest. Starten Sie im Zentrum beim Schloss, spazieren Sie kurz zur Tour Tanguy und fahren Sie dann zu den Capucins. Den Nachmittag verbringen Sie im weitläufigen Océanopolis und dem Botanischen Garten, bevor Sie zum spektakulären Leuchtturm Petit Minou an der Küste fahren.",
         "hu": "Autóval kényelmesen elérheti Brest különböző városrészeit. Kezdjen a központban a várnál, sétáljon át a Tanguy-toronyhoz, majd vezessen a Capucins-fennsíkhoz. A délutánt töltse a tágas Océanopolisban és a botanikus kertben, végül hajtson el a látványos Petit Minou világítótoronyhoz a part mentén.",
         "ro": "Cu mașina puteți ajunge ușor în diferitele zone ale Brestului. Începeți în centru la castel, faceți o scurtă plimbare la Turnul Tanguy și apoi conduceți spre Capucins. Petreceți după-amiaza la vastul Océanopolis și grădina botanică, înainte de a merge la spectaculosul far Petit Minou de pe coastă.",
-        "en": "By car, you can easily reach Brest's different districts. Start in the center at the castle, take a short walk to Tour Tanguy, and then drive to Les Capucins. Spend the afternoon at the expansive Océanopolis and the botanical gardens, before finishing at the spectacular Petit Minou lighthouse on the coast."
+        "en": "By car, you can easily reach Brest's different districts. Start in the center at the castle, take a short walk to Tour Tanguy, and then drive to Les Capucins. Spend the afternoon at the expansive Océanopolis and the botanical gardens, before finishing at the spectacular Petit Minou lighthouse on the coast.",
+        "fr": "En voiture, vous pouvez facilement rejoindre les différents quartiers de Brest. Commencez au centre au château, faites une courte promenade jusqu'à la Tour Tanguy, puis prenez la voiture pour Les Capucins. Passez l'après-midi à l'immense Océanopolis et aux jardins botaniques, avant de terminer au spectaculaire phare du Petit Minou sur la côte."
       },
       "gastro_picks": {
         "de": [
@@ -818,6 +869,11 @@
           "Parking in the center can be tricky; opt for parking garages.",
           "The road to Petit Minou is narrow but very scenic.",
           "Check the tide times when visiting the lighthouse."
+        ],
+        "fr": [
+          "Le stationnement au centre peut être compliqué ; optez pour des parkings couverts.",
+          "La route vers le Petit Minou est étroite mais très pittoresque.",
+          "Consultez les horaires des marées lors de la visite du phare."
         ]
       }
     },
@@ -834,7 +890,8 @@
             "de": "Château de Brest",
             "hu": "Breszti vár",
             "ro": "Castelul din Brest",
-            "en": "Château de Brest"
+            "en": "Château de Brest",
+            "fr": "Château de Brest"
           },
           "coords": [
             -4.483,
@@ -849,7 +906,8 @@
             "de": "Haltestelle 'Château' (Straßenbahn/Bus).",
             "hu": "'Château' megálló (villamos/busz).",
             "ro": "Stația 'Château' (tramvai/autobuz).",
-            "en": "Stop 'Château' (Tram/Bus)."
+            "en": "Stop 'Château' (Tram/Bus).",
+            "fr": "Arrêt 'Château' (Tram/Bus)."
           }
         },
         {
@@ -857,7 +915,8 @@
             "de": "Musée national de la Marine",
             "hu": "Nemzeti Haditengerészeti Múzeum",
             "ro": "Muzeul Național al Marinei",
-            "en": "National Navy Museum"
+            "en": "National Navy Museum",
+            "fr": "Musée national de la Marine"
           },
           "coords": [
             -4.484,
@@ -872,7 +931,8 @@
             "de": "Direkt im Schlossgelände.",
             "hu": "Közvetlenül a vár területén.",
             "ro": "Direct în incinta castelului.",
-            "en": "Located inside the castle grounds."
+            "en": "Located inside the castle grounds.",
+            "fr": "Situé dans l'enceinte du château."
           }
         },
         {
@@ -880,7 +940,8 @@
             "de": "Plateau des Capucins",
             "hu": "Capucins-fennsík",
             "ro": "Plateau des Capucins",
-            "en": "Plateau des Capucins"
+            "en": "Plateau des Capucins",
+            "fr": "Plateau des Capucins"
           },
           "coords": [
             -4.498,
@@ -895,7 +956,8 @@
             "de": "Nutzen Sie die Seilbahn von der Haltestelle 'Jean Moulin'.",
             "hu": "Használja a libegőt a 'Jean Moulin' megállótól.",
             "ro": "Folosiți telecabina de la stația 'Jean Moulin'.",
-            "en": "Use the cable car from 'Jean Moulin' stop."
+            "en": "Use the cable car from 'Jean Moulin' stop.",
+            "fr": "Prenez le téléphérique depuis l'arrêt 'Jean Moulin'."
           }
         },
         {
@@ -903,7 +965,8 @@
             "de": "Rue Jean Jaurès",
             "hu": "Jean Jaurès utca",
             "ro": "Strada Jean Jaurès",
-            "en": "Jean Jaurès Street"
+            "en": "Jean Jaurès Street",
+            "fr": "Rue Jean Jaurès"
           },
           "coords": [
             -4.483,
@@ -918,7 +981,8 @@
             "de": "Perfekt für eine Mittagspause im Stadtzentrum.",
             "hu": "Tökéletes ebédszünetre a városközpontban.",
             "ro": "Perfect pentru o pauză de prânz în centru.",
-            "en": "Perfect for a lunch break in the city center."
+            "en": "Perfect for a lunch break in the city center.",
+            "fr": "Endroit parfait pour une pause déjeuner au centre-ville."
           }
         },
         {
@@ -926,7 +990,8 @@
             "de": "Océanopolis",
             "hu": "Océanopolis akvárium",
             "ro": "Océanopolis",
-            "en": "Océanopolis"
+            "en": "Océanopolis",
+            "fr": "Océanopolis"
           },
           "coords": [
             -4.439,
@@ -941,7 +1006,8 @@
             "de": "Buslinie 3 direkt bis zur Haltestelle 'Océanopolis'.",
             "hu": "3-as busz közvetlenül az 'Océanopolis' megállóig.",
             "ro": "Linia de autobuz 3 până la stația 'Océanopolis'.",
-            "en": "Bus line 3 goes directly to 'Océanopolis' stop."
+            "en": "Bus line 3 goes directly to 'Océanopolis' stop.",
+            "fr": "La ligne de bus 3 va directement à l'arrêt 'Océanopolis'."
           }
         },
         {
@@ -949,7 +1015,8 @@
             "de": "Port de Commerce",
             "hu": "Kereskedelmi kikötő",
             "ro": "Port de Commerce",
-            "en": "Commercial Port"
+            "en": "Commercial Port",
+            "fr": "Port de commerce"
           },
           "coords": [
             -4.475,
@@ -964,7 +1031,8 @@
             "de": "Viele Busverbindungen zurück ins Zentrum.",
             "hu": "Számos buszjárat vissza a központba.",
             "ro": "Multe conexiuni de autobuz înapoi spre centru.",
-            "en": "Many bus connections back to the center."
+            "en": "Many bus connections back to the center.",
+            "fr": "De nombreuses correspondances de bus vers le centre."
           }
         }
       ],
@@ -972,7 +1040,8 @@
         "de": "Brest lässt sich hervorragend mit Tram, Bus und Seilbahn erkunden. Starten Sie im Zentrum beim Schloss und dem Marinemuseum. Nehmen Sie die Tram und die Seilbahn zum Kulturzentrum Capucins. Nach einem Bummel durch die Einkaufsstraße Jean Jaurès bringt Sie der Bus direkt zum Océanopolis für ein maritimes Abenteuer.",
         "hu": "Brest kiválóan felfedezhető villamossal, busszal és libegővel. Kezdjen a központban a várnál és a tengerészeti múzeumnál. Szálljon villamosra, majd a libegővel menjen a Capucins kulturális központba. A Jean Jaurès bevásárlóutca után a busz egyenesen az Océanopolis akváriumhoz viszi tengeri kalandra.",
         "ro": "Brestul poate fi explorat excelent cu tramvaiul, autobuzul și telecabina. Începeți în centru la castel și la muzeul marinei. Luați tramvaiul și apoi telecabina către centrul cultural Capucins. După o plimbare pe strada comercială Jean Jaurès, autobuzul vă duce direct la Océanopolis.",
-        "en": "Brest is easily explored using its tram, bus, and cable car network. Start in the center at the castle and the Navy Museum. Take the tram and cable car to the Capucins cultural hub. After a stroll along Jean Jaurès shopping street, hop on a bus directly to Océanopolis for a maritime adventure."
+        "en": "Brest is easily explored using its tram, bus, and cable car network. Start in the center at the castle and the Navy Museum. Take the tram and cable car to the Capucins cultural hub. After a stroll along Jean Jaurès shopping street, hop on a bus directly to Océanopolis for a maritime adventure.",
+        "fr": "Brest se découvre facilement grâce à son réseau de tram, bus et téléphérique. Commencez au centre au château et au musée de la Marine. Prenez le tram et le téléphérique jusqu'au pôle culturel des Capucins. Après une promenade dans la rue commerçante Jean Jaurès, montez dans un bus direct pour Océanopolis pour une aventure maritime."
       },
       "gastro_picks": {
         "de": [
@@ -1076,6 +1145,11 @@
           "Buy a 'Pass 1 Jour' for unlimited travel throughout the day.",
           "The 'Bibus' app provides real-time departure information.",
           "The cable car ('Téléphérique') offers the best views of the naval arsenal."
+        ],
+        "fr": [
+          "Achetez un 'Pass 1 Jour' pour des déplacements illimités toute la journée.",
+          "L'application 'Bibus' fournit les informations de départ en temps réel.",
+          "Le téléphérique ('Téléphérique') offre les meilleures vues sur l'arsenal naval."
         ]
       }
     }

@@ -21,7 +21,8 @@
             "de": "Rathaus Caudry",
             "hu": "Caudry Városháza",
             "ro": "Primăria Caudry",
-            "en": "Caudry Town Hall"
+            "en": "Caudry Town Hall",
+            "fr": "Hôtel de ville de Caudry"
           },
           "coords": [
             3.410162,
@@ -36,7 +37,8 @@
             "de": "Nehmen Sie sich einen Moment Zeit, um die elegante Fassade des Rathauses zu bewundern, das das bürgerliche Herz von Caudry bildet, und machen Sie ein unvergessliches Foto vom angrenzenden Platz.",
             "hu": "Szánjon egy percet a városháza elegáns homlokzatának megcsodálására, amely Caudry polgári központjaként szolgál, és készítsen egy emlékezetes fotót a szomszédos térről.",
             "ro": "Luați un moment pentru a aprecia fațada elegantă a primăriei, care servește drept inima civică a orașului Caudry, și surprindeți o fotografie memorabilă din piața adiacentă.",
-            "en": "Take a moment to appreciate the elegant facade of the town hall, which serves as the civic heart of Caudry, and capture a memorable photo from the adjacent square."
+            "en": "Take a moment to appreciate the elegant facade of the town hall, which serves as the civic heart of Caudry, and capture a memorable photo from the adjacent square.",
+            "fr": "Prenez un moment pour apprécier la façade élégante de l'hôtel de ville, qui est le cœur civique de Caudry, et capturez une photo mémorable depuis la place adjacente."
           }
         },
         {
@@ -44,7 +46,8 @@
             "de": "Basilika von Saint Maxellende",
             "hu": "Saint Maxellende Bazilika",
             "ro": "Bazilica Saint Maxellende",
-            "en": "Basilica of Saint Maxellende"
+            "en": "Basilica of Saint Maxellende",
+            "fr": "Basilique Sainte-Maxellende"
           },
           "coords": [
             3.40817,
@@ -59,7 +62,8 @@
             "de": "Bewundern Sie die markante neugotische Architektur und die wunderschönen Buntglasfenster dieser der Schutzpatronin der Stadt gewidmeten Basilika, die Sie am besten morgens wegen des tollen Lichts besuchen.",
             "hu": "Csodálja meg a város védőszentjének szentelt bazilika lenyűgöző neogótikus építészetét és gyönyörű ólomüveg ablakait, de a legjobb fényviszonyok érdekében érdemes délelőtt érkezni.",
             "ro": "Admirați arhitectura neogotică impresionantă și vitraliile frumoase ale acestei bazilici dedicate sfintei patroane a orașului, preferabil vizitând dimineața pentru cea mai bună lumină.",
-            "en": "Admire the striking neo-Gothic architecture and beautiful stained glass windows of this basilica dedicated to the city's patron saint, preferably visiting in the morning for the best light."
+            "en": "Admire the striking neo-Gothic architecture and beautiful stained glass windows of this basilica dedicated to the city's patron saint, preferably visiting in the morning for the best light.",
+            "fr": "Admirez l'architecture néo-gothique saisissante et les beaux vitraux de cette basilique dédiée à la sainte patronne de la ville ; préférez une visite le matin pour la meilleure lumière."
           }
         },
         {
@@ -67,7 +71,8 @@
             "de": "Museum für Spitze und Stickerei",
             "hu": "Csipke- és Hímzésmúzeum",
             "ro": "Muzeul Dantelei și Broderiei",
-            "en": "Museum of Lace and Embroidery"
+            "en": "Museum of Lace and Embroidery",
+            "fr": "Musée de la Dentelle et de la Broderie"
           },
           "coords": [
             3.41165,
@@ -82,7 +87,8 @@
             "de": "Entdecken Sie das reiche industrielle Erbe der berühmten Spitzenklöppelei von Caudry in diesem beeindruckenden Museum und prüfen Sie unbedingt den Zeitplan für Live-Vorführungen am Webstuhl.",
             "hu": "Fedezze fel Caudry híres csipkeverő hagyományainak gazdag ipari örökségét ebben a lenyűgöző múzeumban, és mindenképpen ellenőrizze az élő szövőszék-bemutatók menetrendjét.",
             "ro": "Explorați bogata moștenire industrială a faimoaselor tradiții de fabricare a dantelei din Caudry la acest muzeu uimitor și asigurați-vă că verificați programul pentru demonstrațiile de țesut în direct.",
-            "en": "Explore the rich industrial heritage of Caudry's famous lace-making traditions at this stunning museum, and be sure to check the schedule for live loom demonstrations."
+            "en": "Explore the rich industrial heritage of Caudry's famous lace-making traditions at this stunning museum, and be sure to check the schedule for live loom demonstrations.",
+            "fr": "Explorez le riche patrimoine industriel des traditions de dentelle de Caudry dans ce superbe musée, et consultez le programme pour les démonstrations de métiers à tisser en direct."
           }
         },
         {
@@ -90,7 +96,8 @@
             "de": "Protestantischer Tempel",
             "hu": "Protestáns Templom",
             "ro": "Templul Protestant",
-            "en": "Protestant Temple"
+            "en": "Protestant Temple",
+            "fr": "Temple protestant"
           },
           "coords": [
             3.409917,
@@ -105,7 +112,8 @@
             "de": "Entdecken Sie die ruhige Schlichtheit dieses historischen protestantischen Tempels, der einen friedlichen Rückzugsort von den belebten Straßen der Stadt bietet, wenn Sie ihn während der begrenzten Öffnungszeiten besuchen.",
             "hu": "Fedezze fel ennek a történelmi protestáns templomnak a csendes egyszerűségét, amely békés menedéket kínál a nyüzsgő utcák elől, ha a korlátozott nyitvatartási időben látogat el ide.",
             "ro": "Descoperiți simplitatea liniștită a acestui templu protestant istoric, care oferă o retragere pașnică de pe străzile pline de viață ale orașului, dacă îl vizitați în timpul orelor sale limitate de funcționare.",
-            "en": "Discover the quiet simplicity of this historic Protestant temple, offering a peaceful retreat from the bustling city streets if you visit during its limited opening hours."
+            "en": "Discover the quiet simplicity of this historic Protestant temple, offering a peaceful retreat from the bustling city streets if you visit during its limited opening hours.",
+            "fr": "Découvrez la simplicité tranquille de ce temple protestant historique, offrant un havre de paix loin de l'agitation urbaine si vous le visitez durant ses heures d'ouverture limitées."
           }
         },
         {
@@ -113,7 +121,8 @@
             "de": "Octopus",
             "hu": "Octopus",
             "ro": "Octopus",
-            "en": "Octopus"
+            "en": "Octopus",
+            "fr": "Octopus"
           },
           "coords": [
             3.424304,
@@ -128,7 +137,8 @@
             "de": "Bringen Sie Ihre Familie in dieses attraktive Wasser- und Freizeitzentrum, um sich nach den Erkundungen zu entspannen, aber denken Sie an eine Badekappe, da diese für den Zugang zum Pool obligatorisch ist.",
             "hu": "Hozza el családját ebbe a magával ragadó vízi és szabadidőközpontba, hogy kikapcsolódjanak a felfedezés után, de ne felejtsen el megfelelő úszósapkát hozni, mivel az a medence használatához kötelező.",
             "ro": "Aduceți-vă familia la acest centru acvatic și de agrement captivant pentru a vă relaxa după explorare, dar nu uitați să aduceți o cască de înot adecvată, deoarece este strict necesară pentru accesul la piscină.",
-            "en": "Bring your family to this engaging aquatic and leisure center to unwind after exploring, but remember to bring a proper swimming cap as it is strictly required for pool access."
+            "en": "Bring your family to this engaging aquatic and leisure center to unwind after exploring, but remember to bring a proper swimming cap as it is strictly required for pool access.",
+            "fr": "Amenez votre famille dans ce centre aquatique et de loisirs engageant pour vous détendre après la visite, mais n'oubliez pas d'apporter un bonnet de bain approprié car il est strictement exigé pour accéder aux bassins."
           }
         }
       ],
@@ -136,7 +146,8 @@
         "de": "Beginnen Sie Ihren Morgen im Zentrum von Caudry und genießen Sie die historische Atmosphäre. Mittags tauchen Sie in das reiche textile Erbe der Stadt ein und bewundern exquisite Spitzen. Am Nachmittag finden Sie Ruhe in der friedlichen Architektur lokaler Denkmäler. Der Abend bringt einen lohnenden Abschluss, während Sie über Ihre wundervolle Erkundung nachdenken.",
         "hu": "Kezdje a reggelt Caudry központjában, magába szívva a helyi történelmi atmoszférát. Délben merüljön el a város gazdag textilipari örökségében és finom csipkemintáiban. Ahogy eljön a délután, találjon békét a helyi vallási műemlékek csendes építészetében. Az este jutalmazó lezárást hoz, miközben visszagondol ennek a francia városnak az elragadó felfedezésére.",
         "ro": "Începeți dimineața în centrul civic din Caudry, absorbind atmosfera istorică locală. Până la prânz, aprofundați moștenirea textilă bogată a orașului, admirând modele de dantelă. Pe măsură ce vine după-amiaza, găsiți pacea în arhitectura liniștită a monumentelor religioase. Seara aduce o încheiere plină de satisfacții, reflectând la explorarea dvs. încântătoare.",
-        "en": "Begin your morning at the civic heart of Caudry, absorbing the local historic atmosphere. By midday, delve into the city's rich textile heritage, admiring exquisite lace patterns. As afternoon arrives, find peace in the quiet architecture of local religious monuments. The evening brings a rewarding close as you reflect on your delightful exploration of this French town."
+        "en": "Begin your morning at the civic heart of Caudry, absorbing the local historic atmosphere. By midday, delve into the city's rich textile heritage, admiring exquisite lace patterns. As afternoon arrives, find peace in the quiet architecture of local religious monuments. The evening brings a rewarding close as you reflect on your delightful exploration of this French town.",
+        "fr": "Commencez votre matinée au cœur civique de Caudry en vous imprégnant de l'atmosphère historique locale. À midi, plongez dans l'héritage textile de la ville en admirant les motifs de dentelle exquis. L'après-midi apporte la paix dans l'architecture sobre des monuments religieux locaux. La soirée se termine agréablement alors que vous repensez à votre charmante exploration de cette ville française."
       },
       "variants": {
         "rainy": {
@@ -144,7 +155,8 @@
             "de": "Ein regnerischer Morgen beginnt am Rathaus, wo das Vordach Schutz bietet. Mittags führt der Weg zur Basilika, deren prächtiges Inneres ein trockenes Refugium darstellt. Der Nachmittag steht im Zeichen der Spitzenkunst im Museum, ideal um dem Regen zu entfliehen. Abends sorgt das Octopus für Unterhaltung im Trockenen, während die Straßen von Caudry im Schein der Laternen nass glänzen.",
             "hu": "Az esős reggel a Városházánál indul, ahol az épület árkádjai alatt várakozhatunk. Délben a Bazilika belső tere nyújt fenséges és száraz menedéket a zápor elől. A délutánt a Csipkemúzeum falai között töltjük, ami tökéletes program rossz időben is. Estére az Octopus központ kínál fedett kikapcsolódást, miközben az utcák kövei vizesen csillognak a lámpafényben.",
             "ro": "O dimineață ploioasă începe la Primărie, unde arcadele oferă un prim adăpost. La prânz, interiorul Bazilicii devine un refugiu spiritual și uscat în calea stropilor. După-amiaza este dedicată Muzeului Dantelei, spațiul ideal pentru a ignora vremea de afară. Seara se încheie la Octopus, un centru acoperit perfect pentru relaxare, în timp ce orașul strălucește sub ploaie.",
-            "en": "A rainy morning starts at the Town Hall, utilizing the building's structure for cover. By midday, the Basilica provides a grand and dry sanctuary from the drizzle. The afternoon is spent indoors at the Lace Museum, the perfect spot to escape the wet weather. The evening concludes at the Octopus center, staying warm and dry while the streets of Caudry glisten under the rain."
+            "en": "A rainy morning starts at the Town Hall, utilizing the building's structure for cover. By midday, the Basilica provides a grand and dry sanctuary from the drizzle. The afternoon is spent indoors at the Lace Museum, the perfect spot to escape the wet weather. The evening concludes at the Octopus center, staying warm and dry while the streets of Caudry glisten under the rain.",
+            "fr": "Une matinée pluvieuse commence à l'Hôtel de ville, en utilisant l'édifice pour s'abriter. À midi, la Basilique offre un sanctuaire grandiose et sec à l'abri de la bruine. L'après-midi se passe à l'intérieur au Musée de la Dentelle, l'endroit parfait pour échapper au mauvais temps. La soirée se conclut au centre Octopus, en restant au chaud et au sec tandis que les rues de Caudry scintillent sous la pluie."
           },
           "stops": [
             {
@@ -152,13 +164,15 @@
                 "de": "Rathaus Caudry",
                 "hu": "Caudry Városháza",
                 "ro": "Primăria Caudry",
-                "en": "Caudry Town Hall"
+                "en": "Caudry Town Hall",
+                "fr": "Hôtel de ville de Caudry"
               },
               "tip_5lang": {
                 "de": "Bewundern Sie die Architektur vom trockenen Eingangsbereich aus und achten Sie auf die rutschigen Stufen bei Nässe; ein Schirm ist hier unverzichtbar.",
                 "hu": "Csodálja meg az épület homlokzatát a bejárat védelméből, és vigyázzon a vizes lépcsőkön; az esernyő használata a rövid sétákhoz is erősen ajánlott.",
                 "ro": "Admirați arhitectura fațadei din zona protejată a intrării și atenție la treptele alunecoase; umbrela este absolut necesară pentru scurte deplasări.",
-                "en": "Admire the facade's architecture from the shelter of the entrance and watch out for slippery steps; an umbrella is essential even for short transitions."
+                "en": "Admire the facade's architecture from the shelter of the entrance and watch out for slippery steps; an umbrella is essential even for short transitions.",
+                "fr": "Admirez l'architecture de la façade depuis l'abri de l'entrée et faites attention aux marches glissantes ; un parapluie est essentiel même pour de courts trajets."
               }
             },
             {
@@ -166,13 +180,15 @@
                 "de": "Basilika von Saint Maxellende",
                 "hu": "Saint Maxellende Bazilika",
                 "ro": "Bazilica Saint Maxellende",
-                "en": "Basilica of Saint Maxellende"
+                "en": "Basilica of Saint Maxellende",
+                "fr": "Basilique Sainte-Maxellende"
               },
               "tip_5lang": {
                 "de": "Nutzen Sie die Stille im Inneren, um die bunten Glasfenster zu betrachten, während draußen der Regen gegen die alten Mauern peitscht; perfekt zum Aufwärmen.",
                 "hu": "Használja ki a belső csendet az ólomüveg ablakok megtekintésére, miközben odakint az eső veri a falakat; ideális hely egy kis száraz pihenőre.",
                 "ro": "Profitați de liniștea interioară pentru a vedea vitraliile colorate în timp ce ploaia bate în ziduri; este locul perfect pentru o pauză uscată și caldă.",
-                "en": "Take advantage of the interior silence to view the stained-glass windows while the rain lashes the walls outside; a perfect, dry sanctuary for a break."
+                "en": "Take advantage of the interior silence to view the stained-glass windows while the rain lashes the walls outside; a perfect, dry sanctuary for a break.",
+                "fr": "Profitez du silence intérieur pour admirer les vitraux pendant que la pluie frappe les murs extérieurs ; un parfait sanctuaire sec pour faire une pause."
               }
             },
             {
@@ -180,13 +196,15 @@
                 "de": "Museum für Spitze und Stickerei",
                 "hu": "Csipke- és Hímzésmúzeum",
                 "ro": "Muzeul Dantelei și Broderiei",
-                "en": "Museum of Lace and Embroidery"
+                "en": "Museum of Lace and Embroidery",
+                "fr": "Musée de la Dentelle et de la Broderie"
               },
               "tip_5lang": {
                 "de": "Verbringen Sie hier viel Zeit bei den interaktiven Displays; das Museum bietet eine Garderobe, in der Sie Ihre nassen Mäntel sicher und trocken verstauen können.",
                 "hu": "Töltsön itt hosszabb időt az interaktív kijelzők előtt; a múzeumban van ruhatár, ahol a vizes kabátokat és esernyőket biztonságban és szárazon hagyhatja.",
                 "ro": "Petreceți mai mult timp la expozițiile interactive; muzeul oferă garderobă unde vă puteți lăsa hainele ude și umbrelele în siguranță pe durata vizitei.",
-                "en": "Spend extra time at the interactive displays; the museum features a cloakroom where you can store your wet coats and umbrellas safely during your visit."
+                "en": "Spend extra time at the interactive displays; the museum features a cloakroom where you can store your wet coats and umbrellas safely during your visit.",
+                "fr": "Passez plus de temps aux expositions interactives ; le musée dispose d'un vestiaire où vous pouvez déposer vos manteaux et parapluies mouillés en toute sécurité pendant la visite."
               }
             },
             {
@@ -194,13 +212,15 @@
                 "de": "Protestantischer Tempel",
                 "hu": "Protestáns Templom",
                 "ro": "Templul Protestant",
-                "en": "Protestant Temple"
+                "en": "Protestant Temple",
+                "fr": "Temple protestant"
               },
               "tip_5lang": {
                 "de": "Die schlichte Architektur bietet einen ruhigen Rückzugsort; achten Sie auf den Weg dorthin, da die Gehwege bei starkem Regen Pfützen bilden können.",
                 "hu": "Az egyszerű építészeti stílus nyugodt menedéket nyújt; figyeljen az odafelé vezető útra, mert a járdákon nagyobb tócsák alakulhatnak ki esőben.",
                 "ro": "Arhitectura simplă oferă un refugiu liniștit; atenție la drumul spre templu, deoarece trotuarele pot acumula apă în timpul ploilor torențiale.",
-                "en": "The simple architectural style provides a peaceful retreat; watch your step on the way, as sidewalks can accumulate large puddles during heavy rain."
+                "en": "The simple architectural style provides a peaceful retreat; watch your step on the way, as sidewalks can accumulate large puddles during heavy rain.",
+                "fr": "Le style architectural simple offre un lieu de retraite paisible ; faites attention en chemin car les trottoirs peuvent accumuler de grandes flaques lors de fortes pluies."
               }
             },
             {
@@ -208,13 +228,15 @@
                 "de": "Octopus",
                 "hu": "Octopus",
                 "ro": "Octopus",
-                "en": "Octopus"
+                "en": "Octopus",
+                "fr": "Octopus"
               },
               "tip_5lang": {
                 "de": "Dies ist der ideale Ort, um den Tag im Trockenen abzuschließen; bringen Sie rutschfeste Socken mit, falls Sie die Indoor-Aktivitäten voll nutzen möchten.",
                 "hu": "Ez az ideális hely a nap fedett befejezéséhez; hozzon magával váltózoknit vagy csúszásmentes lábbelit a benti tevékenységek kényelmes élvezetéhez.",
                 "ro": "Acesta este locul ideal pentru a încheia ziua la adăpost; aduceți șosete antiderapante pentru a vă bucura din plin de activitățile de interior.",
-                "en": "This is the ideal spot to finish the day indoors; bring non-slip socks to fully enjoy the indoor activities while staying dry and comfortable."
+                "en": "This is the ideal spot to finish the day indoors; bring non-slip socks to fully enjoy the indoor activities while staying dry and comfortable.",
+                "fr": "C'est l'endroit idéal pour terminer la journée à l'intérieur ; apportez des chaussettes antidérapantes pour profiter pleinement des activités intérieures tout en restant au sec et à l'aise."
               }
             }
           ]
@@ -224,7 +246,8 @@
             "de": "Ein frostiger Wintermorgen am Rathaus erfordert warme Kleidung gegen den Wind. Mittags bietet die Basilika eine spirituelle Wärme, bevor man sich im Spitzenmuseum ausgiebig aufwärmt. Wegen des frühen Sonnenuntergangs gegen 17:00 Uhr verlagern sich die Aktivitäten am späten Nachmittag ins Octopus. Der Abend in Caudry ist kalt, aber die beleuchteten Kirchenfassaden bieten einen festlichen Anblick.",
             "hu": "A fagyos téli reggelen a Városházánál réteges öltözetre lesz szükség a szél ellen. Délben a Bazilika falai között keresünk nyugalmat, majd a Csipkemúzeumban melegszünk fel alaposan. A korai, 17:00 óra körüli naplemente miatt a késő délutánt már az Octopus falai között töltjük. A téli este hideg, de a kivilágított templomok látványa kárpótol minket.",
             "ro": "O dimineață geroasă de iarnă la Primărie necesită haine groase împotriva vântului tăios. La prânz, Bazilika oferă un răgaz liniștit, urmat de o vizită prelungită la Muzeul Dantelei pentru încălzire. Din cauza apusului devreme, în jur de ora 17:00, activitățile se mută la Octopus spre seară. Orașul devine rece, dar fațadele luminate oferă un decor festiv.",
-            "en": "A frosty winter morning at the Town Hall requires warm layers against the biting wind. At midday, the Basilica offers a quiet respite, followed by a long warm-up session at the Lace Museum. Due to the early sunset around 17:00, late afternoon activities shift to the Octopus center. The evening in Caudry is cold, but the illuminated church facades provide a festive atmosphere."
+            "en": "A frosty winter morning at the Town Hall requires warm layers against the biting wind. At midday, the Basilica offers a quiet respite, followed by a long warm-up session at the Lace Museum. Due to the early sunset around 17:00, late afternoon activities shift to the Octopus center. The evening in Caudry is cold, but the illuminated church facades provide a festive atmosphere.",
+            "fr": "Une matinée hivernale givrée à l'Hôtel de ville exige des couches chaudes contre le vent mordant. À midi, la Basilique offre un répit tranquille, suivi d'une longue pause chauffante au Musée de la Dentelle. En raison du coucher du soleil tôt vers 17:00, les activités de fin d'après-midi se déplacent vers le centre Octopus. La soirée à Caudry est froide, mais les façades d'églises illuminées créent une atmosphère festive."
           },
           "stops": [
             {
@@ -232,13 +255,15 @@
                 "de": "Rathaus Caudry",
                 "hu": "Caudry Városháza",
                 "ro": "Primăria Caudry",
-                "en": "Caudry Town Hall"
+                "en": "Caudry Town Hall",
+                "fr": "Hôtel de ville de Caudry"
               },
               "tip_5lang": {
                 "de": "Halten Sie den Besuch kurz, um der Kälte zu entgehen; die neoklassizistische Fassade wirkt im klaren Winterlicht besonders scharf und fotogen.",
                 "hu": "Tartsa rövidre a külső nézelődést a hideg miatt; a neoklasszicista homlokzat a tiszta téli fényben különösen éles és fotogén látványt nyújt.",
                 "ro": "Păstrați vizita scurtă pentru a evita frigul; fațada neoclasică arată deosebit de clar și fotogenic în lumina rece și tăioasă a iernii.",
-                "en": "Keep your outdoor stay brief to avoid the chill; the neoclassical facade looks particularly sharp and photogenic in the clear winter light."
+                "en": "Keep your outdoor stay brief to avoid the chill; the neoclassical facade looks particularly sharp and photogenic in the clear winter light.",
+                "fr": "Gardez votre présence extérieure brève pour éviter le froid ; la façade néoclassique apparaît particulièrement nette et photogénique sous la lumière hivernale claire."
               }
             },
             {
@@ -246,13 +271,15 @@
                 "de": "Basilika von Saint Maxellende",
                 "hu": "Saint Maxellende Bazilika",
                 "ro": "Bazilica Saint Maxellende",
-                "en": "Basilica of Saint Maxellende"
+                "en": "Basilica of Saint Maxellende",
+                "fr": "Basilique Sainte-Maxellende"
               },
               "tip_5lang": {
                 "de": "Die dicken Mauern schützen vor dem Winterwind; genießen Sie die andächtige Stille und achten Sie darauf, beim Hinausgehen den Schal festzuziehen.",
                 "hu": "A vastag falak jól védenek a téli szél elől; élvezze az áhítatos csendet, de kifelé menet ne felejtse el szorosan megkötni a sálat.",
                 "ro": "Zidurile groase oferă protecție împotriva vântului; bucurați-vă de liniștea solemnă și nu uitați să vă strângeți fularul la ieșire.",
-                "en": "The thick walls offer good protection from the winter wind; enjoy the solemn silence, and remember to wrap your scarf tightly before heading back out."
+                "en": "The thick walls offer good protection from the winter wind; enjoy the solemn silence, and remember to wrap your scarf tightly before heading back out.",
+                "fr": "Les murs épais offrent une bonne protection contre le vent hivernal ; profitez du silence solennel et pensez à serrer votre écharpe avant de ressortir."
               }
             },
             {
@@ -260,13 +287,15 @@
                 "de": "Museum für Spitze und Stickerei",
                 "hu": "Csipke- és Hímzésmúzeum",
                 "ro": "Muzeul Dantelei și Broderiei",
-                "en": "Museum of Lace and Embroidery"
+                "en": "Museum of Lace and Embroidery",
+                "fr": "Musée de la Dentelle et de la Broderie"
               },
               "tip_5lang": {
                 "de": "Der ideale Ort für die kältesten Stunden des Tages; die beheizten Räume laden dazu ein, die feinen Textilien ohne Zeitdruck zu studieren.",
                 "hu": "Ideális hely a nap leghidegebb óráira; a fűtött termekben kényelmesen, időnyomás nélkül tanulmányozhatja a finom textilipari remekműveket.",
                 "ro": "Locul ideal pentru cele mai reci ore ale zilei; sălile încălzite vă permit să studiați textilele fine fără grabă și în deplin confort termic.",
-                "en": "The perfect place for the coldest hours of the day; the heated galleries invite you to study the fine textiles comfortably without any rush."
+                "en": "The perfect place for the coldest hours of the day; the heated galleries invite you to study the fine textiles comfortably without any rush.",
+                "fr": "Le lieu parfait pour les heures les plus froides de la journée ; les salles chauffées vous invitent à étudier les textiles fins confortablement sans vous presser."
               }
             },
             {
@@ -274,13 +303,15 @@
                 "de": "Protestantischer Tempel",
                 "hu": "Protestáns Templom",
                 "ro": "Templul Protestant",
-                "en": "Protestant Temple"
+                "en": "Protestant Temple",
+                "fr": "Temple protestant"
               },
               "tip_5lang": {
                 "de": "Ein kurzes Innehalten im schlichten Innenraum hilft, Energie für den weiteren Weg zu sammeln; achten Sie auf glatte Stellen auf den Gehwegen.",
                 "hu": "Egy rövid megálló a letisztult belső térben segít energiát gyűjteni a folytatáshoz; figyeljen a járdák esetleges jegesedésére az épület körül.",
                 "ro": "O scurtă oprire în interiorul simplu vă ajută să vă reîncărcați bateriile; atenție la porțiunile înghețate de pe trotuarele din jur.",
-                "en": "A brief stop in the simple interior helps you recharge for the rest of the trip; watch out for potentially icy patches on the surrounding sidewalks."
+                "en": "A brief stop in the simple interior helps you recharge for the rest of the trip; watch out for potentially icy patches on the surrounding sidewalks.",
+                "fr": "Un arrêt bref dans l'intérieur simple vous aide à reprendre des forces pour la suite du voyage ; méfiez-vous des plaques de verglas potentielles sur les trottoirs environnants."
               }
             },
             {
@@ -288,13 +319,15 @@
                 "de": "Octopus",
                 "hu": "Octopus",
                 "ro": "Octopus",
-                "en": "Octopus"
+                "en": "Octopus",
+                "fr": "Octopus"
               },
               "tip_5lang": {
                 "de": "Planen Sie Ihre Ankunft hier vor 17:00 Uhr, um den Tag gemütlich im Warmen ausklingen zu lassen, während es draußen bereits dunkel wird.",
                 "hu": "Érkezzen ide 17:00 óra előtt, hogy a napot kellemes melegben fejezhesse be, miközben odakint már sötétedik és hűl a levegő.",
                 "ro": "Planificați sosirea aici înainte de ora 17:00 pentru a încheia ziua la căldură, în timp ce afară se întunecă și temperatura scade.",
-                "en": "Plan to arrive here before 17:00 to finish your day in the warmth, as it already gets dark and the temperature drops outside."
+                "en": "Plan to arrive here before 17:00 to finish your day in the warmth, as it already gets dark and the temperature drops outside.",
+                "fr": "Prévoyez d'arriver ici avant 17:00 pour finir votre journée au chaud, car il fait déjà nuit et la température chute dehors."
               }
             }
           ]
@@ -314,7 +347,8 @@
             "de": "Heilig-Kreuz-Kirche",
             "hu": "Szent Kereszt Templom",
             "ro": "Biserica Sfintei Cruci",
-            "en": "Church of the Holy Cross"
+            "en": "Church of the Holy Cross",
+            "fr": "Église de la Sainte-Croix"
           },
           "coords": [
             3.375181,
@@ -329,7 +363,8 @@
             "de": "Besuchen Sie diese charmante örtliche Kirche, um ihr gut erhaltenes traditionelles Design zu bewundern, und machen Sie einen kurzen Spaziergang durch die Umgebung, um das Alltagsleben in Caudry zu erleben.",
             "hu": "Látogasson el ebbe a bájos helyi templomba, hogy megcsodálja jól megőrzött hagyományos kialakítását, és tegyen egy rövid sétát a környéken, hogy megtapasztalja Caudry mindennapi életét.",
             "ro": "Opriți-vă la această biserică locală fermecătoare pentru a-i admira designul tradițional bine conservat și faceți o scurtă plimbare prin cartierul înconjurător pentru a experimenta viața de zi cu zi în Caudry.",
-            "en": "Stop by this charming local church to admire its well-preserved traditional design, and take a brief stroll through the surrounding neighborhood to experience everyday life in Caudry."
+            "en": "Stop by this charming local church to admire its well-preserved traditional design, and take a brief stroll through the surrounding neighborhood to experience everyday life in Caudry.",
+            "fr": "Faites une halte à cette charmante église locale pour admirer son architecture traditionnelle bien conservée, et faites une courte promenade dans le quartier environnant pour ressentir la vie quotidienne à Caudry."
           }
         },
         {
@@ -337,7 +372,8 @@
             "de": "St.-Anna-Kirche",
             "hu": "Szent Anna Templom",
             "ro": "Biserica Sfânta Ana",
-            "en": "Church of Saint Anne"
+            "en": "Church of Saint Anne",
+            "fr": "Église Sainte-Anne"
           },
           "coords": [
             3.383191,
@@ -352,7 +388,8 @@
             "de": "Beachten Sie die subtilen architektonischen Details dieser malerischen religiösen Stätte, die einen perfekten kurzen Halt für Fotografie-Enthusiasten bietet, bevor Sie Ihre Reise durch die Stadt fortsetzen.",
             "hu": "Figyelje meg ennek a festői vallási helyszínnek a finom építészeti részleteit, amely tökéletes rövid megálló a fotózás szerelmeseinek, mielőtt folytatná útját a városban.",
             "ro": "Observați detaliile arhitecturale subtile ale acestui sit religios pitoresc, făcându-l o oprire rapidă perfectă pentru pasionații de fotografie înainte de a vă continua călătoria prin oraș.",
-            "en": "Notice the subtle architectural details of this quaint religious site, making it a perfect quick stop for photography enthusiasts before continuing your journey through the city."
+            "en": "Notice the subtle architectural details of this quaint religious site, making it a perfect quick stop for photography enthusiasts before continuing your journey through the city.",
+            "fr": "Remarquez les détails architecturaux subtils de ce site religieux pittoresque, en faisant un arrêt photo rapide idéal avant de poursuivre votre route dans la ville."
           }
         },
         {
@@ -360,7 +397,8 @@
             "de": "Basilika von Saint Maxellende",
             "hu": "Saint Maxellende Bazilika",
             "ro": "Bazilica Saint Maxellende",
-            "en": "Basilica of Saint Maxellende"
+            "en": "Basilica of Saint Maxellende",
+            "fr": "Basilique Sainte-Maxellende"
           },
           "coords": [
             3.40817,
@@ -375,7 +413,8 @@
             "de": "Bewundern Sie die markante neugotische Architektur und die wunderschönen Buntglasfenster dieser der Schutzpatronin der Stadt gewidmeten Basilika, die Sie am besten morgens wegen des tollen Lichts besuchen.",
             "hu": "Csodálja meg a város védőszentjének szentelt bazilika lenyűgöző neogótikus építészetét és gyönyörű ólomüveg ablakait, de a legjobb fényviszonyok érdekében érdemes délelőtt érkezni.",
             "ro": "Admirați arhitectura neogotică impresionantă și vitraliile frumoase ale acestei bazilici dedicate sfintei patroane a orașului, preferabil vizitând dimineața pentru cea mai bună lumină.",
-            "en": "Admire the striking neo-Gothic architecture and beautiful stained glass windows of this basilica dedicated to the city's patron saint, preferably visiting in the morning for the best light."
+            "en": "Admire the striking neo-Gothic architecture and beautiful stained glass windows of this basilica dedicated to the city's patron saint, preferably visiting in the morning for the best light.",
+            "fr": "Admirez l'architecture néo-gothique saisissante et les beaux vitraux de cette basilique dédiée à la sainte patronne de la ville ; préférez une visite le matin pour la meilleure lumière."
           }
         },
         {
@@ -383,7 +422,8 @@
             "de": "Museum für Spitze und Stickerei",
             "hu": "Csipke- és Hímzésmúzeum",
             "ro": "Muzeul Dantelei și Broderiei",
-            "en": "Museum of Lace and Embroidery"
+            "en": "Museum of Lace and Embroidery",
+            "fr": "Musée de la Dentelle et de la Broderie"
           },
           "coords": [
             3.41165,
@@ -398,7 +438,8 @@
             "de": "Entdecken Sie das reiche industrielle Erbe der berühmten Spitzenklöppelei von Caudry in diesem beeindruckenden Museum und prüfen Sie unbedingt den Zeitplan für Live-Vorführungen am Webstuhl.",
             "hu": "Fedezze fel Caudry híres csipkeverő hagyományainak gazdag ipari örökségét ebben a lenyűgöző múzeumban, és mindenképpen ellenőrizze az élő szövőszék-bemutatók menetrendjét.",
             "ro": "Explorați bogata moștenire industrială a faimoaselor tradiții de fabricare a dantelei din Caudry la acest muzeu uimitor și asigurați-vă că verificați programul pentru demonstrațiile de țesut în direct.",
-            "en": "Explore the rich industrial heritage of Caudry's famous lace-making traditions at this stunning museum, and be sure to check the schedule for live loom demonstrations."
+            "en": "Explore the rich industrial heritage of Caudry's famous lace-making traditions at this stunning museum, and be sure to check the schedule for live loom demonstrations.",
+            "fr": "Explorez le riche patrimoine industriel des traditions de dentelle de Caudry dans ce superbe musée, et consultez le programme pour les démonstrations de métiers à tisser en direct."
           }
         },
         {
@@ -406,7 +447,8 @@
             "de": "Mariä-Himmelfahrt-Kirche",
             "hu": "Nagyboldogasszony Templom",
             "ro": "Biserica Adormirea Maicii Domnului",
-            "en": "Church of the Assumption"
+            "en": "Church of the Assumption",
+            "fr": "Église de l'Assomption"
           },
           "coords": [
             3.432818,
@@ -421,7 +463,8 @@
             "de": "Besuchen Sie diese historische Kirche, um ihr ruhiges Inneres und den wunderschönen Altaraufsatz zu betrachten und die ruhige Atmosphäre für einen Moment der persönlichen Besinnung zu nutzen.",
             "hu": "Látogasson el ebbe a történelmi templomba, hogy megfigyelje nyugodt belső terét és gyönyörű oltárképét, kihasználva a csendes légkört egy pillanatnyi személyes elmélkedésre.",
             "ro": "Vizitați această biserică istorică pentru a-i observa interiorul senin și altarul frumos, profitând de atmosfera liniștită pentru un moment de reflecție personală.",
-            "en": "Visit this historic church to observe its serene interior and beautiful altarpiece, taking advantage of the quiet atmosphere for a moment of personal reflection."
+            "en": "Visit this historic church to observe its serene interior and beautiful altarpiece, taking advantage of the quiet atmosphere for a moment of personal reflection.",
+            "fr": "Visitez cette église historique pour observer son intérieur serein et son bel autel, profitant du calme pour un moment de recueillement personnel."
           }
         },
         {
@@ -429,7 +472,8 @@
             "de": "St.-Bartholomäus-Kirche",
             "hu": "Szent Bertalan Templom",
             "ro": "Biserica Sfântul Bartolomeu",
-            "en": "Church of Saint Bartholomew"
+            "en": "Church of Saint Bartholomew",
+            "fr": "Église Saint-Barthélemy"
           },
           "coords": [
             3.440662,
@@ -444,7 +488,8 @@
             "de": "Bewundern Sie den unverwechselbaren Charakter dieser historischen Kirche, die etwas weiter entfernt liegt und ein hervorragendes Ziel ist, um sich bei einer Tour durch die Außenbezirke die Beine zu vertreten.",
             "hu": "Csodálja meg a kissé távolabb található történelmi templom egyedi karakterét, amely kiváló úti cél ahhoz, hogy kinyújtóztassa a lábát a külvárosi túra során.",
             "ro": "Minunați-vă de caracterul distinct al acestei biserici istorice situate puțin mai departe, făcând-o o destinație excelentă pentru a vă întinde picioarele în timp ce vizitați periferia.",
-            "en": "Marvel at the distinct character of this historic church located slightly further out, making it an excellent destination to stretch your legs while touring the outskirts."
+            "en": "Marvel at the distinct character of this historic church located slightly further out, making it an excellent destination to stretch your legs while touring the outskirts.",
+            "fr": "Admirez le caractère distinct de cette église historique située un peu à l'écart, excellente pour s'étirer les jambes en visitant la périphérie."
           }
         }
       ],
@@ -452,7 +497,8 @@
         "de": "Beginnen Sie Ihren Morgen im Zentrum von Caudry und genießen Sie die historische Atmosphäre. Mittags tauchen Sie in das reiche textile Erbe der Stadt ein und bewundern exquisite Spitzen. Am Nachmittag finden Sie Ruhe in der friedlichen Architektur lokaler Denkmäler. Der Abend bringt einen lohnenden Abschluss, während Sie über Ihre wundervolle Erkundung nachdenken.",
         "hu": "Kezdje a reggelt Caudry központjában, magába szívva a helyi történelmi atmoszférát. Délben merüljön el a város gazdag textilipari örökségében és finom csipkemintáiban. Ahogy eljön a délután, találjon békét a helyi vallási műemlékek csendes építészetében. Az este jutalmazó lezárást hoz, miközben visszagondol ennek a francia városnak az elragadó felfedezésére.",
         "ro": "Începeți dimineața în centrul civic din Caudry, absorbind atmosfera istorică locală. Până la prânz, aprofundați moștenirea textilă bogată a orașului, admirând modele de dantelă. Pe măsură ce vine după-amiaza, găsiți pacea în arhitectura liniștită a monumentelor religioase. Seara aduce o încheiere plină de satisfacții, reflectând la explorarea dvs. încântătoare.",
-        "en": "Begin your morning at the civic heart of Caudry, absorbing the local historic atmosphere. By midday, delve into the city's rich textile heritage, admiring exquisite lace patterns. As afternoon arrives, find peace in the quiet architecture of local religious monuments. The evening brings a rewarding close as you reflect on your delightful exploration of this French town."
+        "en": "Begin your morning at the civic heart of Caudry, absorbing the local historic atmosphere. By midday, delve into the city's rich textile heritage, admiring exquisite lace patterns. As afternoon arrives, find peace in the quiet architecture of local religious monuments. The evening brings a rewarding close as you reflect on your delightful exploration of this French town.",
+        "fr": "Commencez la matinée au cœur civique de Caudry, en vous imprégnant de l'atmosphère historique locale. À midi, plongez dans le riche patrimoine textile de la ville en admirant d'exquises dentelles. L'après-midi, trouvez la paix dans l'architecture sobre des monuments religieux locaux. La soirée se termine agréablement en repensant à votre charmante exploration de cette ville française."
       },
       "variants": {
         "rainy": {
@@ -460,7 +506,8 @@
             "de": "Ein regnerischer Start bei der Heilig-Kreuz-Kirche verlangt gute Regenkleidung auf dem Rad. Über die St.-Anna-Kirche geht es vorsichtig zur Basilika, da die Straßen rutschig sein können. Mittags bietet das Spitzenmuseum eine lange, trockene Pause für Radfahrer. Nachmittags führen kurze Etappen zur Mariä-Himmelfahrt-Kirche und zur St.-Bartholomäus-Kirche, wobei Pfützen auf den Wegen volle Konzentration erfordern.",
             "hu": "Az esős indulás a Szent Kereszt Templomnál vízhatlan öltözetet igényel a kerékpáron. A Szent Anna Templom érintésével óvatosan haladunk a Bazilika felé a csúszós utak miatt. Délben a Csipkemúzeum nyújt hosszú, száraz pihenőt a bringásoknak. Délután rövid szakaszok következnek a Nagyboldogasszony és Szent Bertalan templomokig, ahol a tócsák fokozott figyelmet követelnek.",
             "ro": "Un start ploios la Biserica Sfintei Cruci necesită echipament impermeabil pe bicicletă. Mergem cu atenție spre Sfânta Ana și Bazilică, drumurile fiind alunecoase. La prânz, Muzeul Dantelei oferă o pauză lungă și uscată pentru bicicliști. După-amiaza, etapele scurte spre bisericile Adormirea Maicii Domnului și Sfântul Bartolomeu cer concentrare din cauza bălților.",
-            "en": "A rainy start at the Church of the Holy Cross requires waterproof cycling gear. Proceed carefully past Saint Anne's to the Basilica, as roads can be slippery. At midday, the Lace Museum offers a long, dry break for cyclists. Afternoon legs to the Church of the Assumption and Saint Bartholomew require focus to navigate puddles and wet surfaces safely."
+            "en": "A rainy start at the Church of the Holy Cross requires waterproof cycling gear. Proceed carefully past Saint Anne's to the Basilica, as roads can be slippery. At midday, the Lace Museum offers a long, dry break for cyclists. Afternoon legs to the Church of the Assumption and Saint Bartholomew require focus to navigate puddles and wet surfaces safely.",
+            "fr": "Un départ pluvieux à l'église de la Sainte-Croix nécessite un équipement cycliste imperméable. Avancez prudemment en passant par Sainte-Anne jusqu'à la basilique, car les routes peuvent être glissantes. À midi, le Musée de la Dentelle offre une longue pause au sec pour les cyclistes. Les étapes de l'après-midi vers l'église de l'Assomption et Saint-Barthélemy demandent de la concentration pour franchir les flaques et surfaces mouillées en toute sécurité."
           },
           "stops": [
             {
@@ -468,13 +515,15 @@
                 "de": "Heilig-Kreuz-Kirche",
                 "hu": "Szent Kereszt Templom",
                 "ro": "Biserica Sfintei Cruci",
-                "en": "Church of the Holy Cross"
+                "en": "Church of the Holy Cross",
+                "fr": "Église de la Sainte-Croix"
               },
               "tip_5lang": {
                 "de": "Prüfen Sie Ihre Bremsen vor der Abfahrt im Regen; die Kirche bietet einen kurzen Unterstand, um die Karte für die nächste Etappe trocken zu studieren.",
                 "hu": "Ellenőrizze a fékeket az esőben való indulás előtt; a templom bejárata rövid menedéket nyújt az útvonal szárazon való áttekintéséhez.",
                 "ro": "Verificați frânele înainte de plecare pe ploaie; intrarea bisericii oferă un scurt adăpost pentru a studia harta traseului la uscat.",
-                "en": "Check your brakes before starting out in the rain; the church entrance provides a brief shelter to study your route map while staying dry."
+                "en": "Check your brakes before starting out in the rain; the church entrance provides a brief shelter to study your route map while staying dry.",
+                "fr": "Vérifiez vos freins avant de partir sous la pluie ; l'entrée de l'église offre un bref abri pour étudier votre carte d'itinéraire à l'abri."
               }
             },
             {
@@ -482,13 +531,15 @@
                 "de": "St.-Anna-Kirche",
                 "hu": "Szent Anna Templom",
                 "ro": "Biserica Sfânta Ana",
-                "en": "Church of Saint Anne"
+                "en": "Church of Saint Anne",
+                "fr": "Église Sainte-Anne"
               },
               "tip_5lang": {
                 "de": "Vermeiden Sie beim Parken des Rades tiefe Pfützen und nutzen Sie den Besuch für eine kurze Verschnaufpause im trockenen Innenraum der Kirche.",
                 "hu": "A kerékpár lezárásakor kerülje a mély tócsákat, és használja ki a látogatást egy rövid pihenőre a templom száraz belső terében.",
                 "ro": "Evitați bălțile adânci când parcați bicicleta și folosiți vizita pentru o scurtă pauză de respirație în interiorul uscat al bisericii.",
-                "en": "Avoid deep puddles when parking your bike, and use the visit for a quick breathing space inside the church's dry and quiet interior."
+                "en": "Avoid deep puddles when parking your bike, and use the visit for a quick breathing space inside the church's dry and quiet interior.",
+                "fr": "Évitez les flaques profondes en stationnant votre vélo et profitez de la visite pour une courte pause respiratoire à l'intérieur, au sec et au calme."
               }
             },
             {
@@ -496,13 +547,15 @@
                 "de": "Basilika von Saint Maxellende",
                 "hu": "Saint Maxellende Bazilika",
                 "ro": "Bazilica Saint Maxellende",
-                "en": "Basilica of Saint Maxellende"
+                "en": "Basilica of Saint Maxellende",
+                "fr": "Basilique Sainte-Maxellende"
               },
               "tip_5lang": {
                 "de": "Stellen Sie Ihr Fahrrad an einem geschützten Ort ab; das Innere der Basilika ist der perfekte Ort, um die nasse Kleidung kurz zu lüften.",
                 "hu": "Zárja le kerékpárját egy védettebb helyen; a bazilika belső tere kiváló pont a vizes ruházat rövid szellőztetésére és a pihenésre.",
                 "ro": "Parcați bicicleta într-un loc mai ferit; interiorul bazilicii este locul perfect pentru a vă aerisi scurt echipamentul ud și a vă odihni.",
-                "en": "Park your bike in a more sheltered spot; the basilica's interior is an excellent place to briefly air out wet gear and take a rest."
+                "en": "Park your bike in a more sheltered spot; the basilica's interior is an excellent place to briefly air out wet gear and take a rest.",
+                "fr": "Garez votre vélo dans un endroit plus abrité ; l'intérieur de la basilique est un excellent endroit pour faire sécher rapidement l'équipement humide et se reposer."
               }
             },
             {
@@ -510,13 +563,15 @@
                 "de": "Museum für Spitze und Stickerei",
                 "hu": "Csipke- és Hímzésmúzeum",
                 "ro": "Muzeul Dantelei și Broderiei",
-                "en": "Museum of Lace and Embroidery"
+                "en": "Museum of Lace and Embroidery",
+                "fr": "Musée de la Dentelle et de la Broderie"
               },
               "tip_5lang": {
                 "de": "Nutzen Sie den Museumsbesuch für eine ausgiebige Trockenpause; die Garderobe nimmt auch nasse Fahrradhelme und Regenponchos entgegen.",
                 "hu": "Használja a múzeumi látogatást egy alapos száraz pihenőre; a ruhatárban a vizes bukósisakokat és esőponcsókat is szívesen fogadják.",
                 "ro": "Folosiți vizita la muzeu pentru o pauză lungă de uscare; la garderobă puteți lăsa căștile umede și pelerinele de ploaie în siguranță.",
-                "en": "Use the museum visit for a thorough drying break; the cloakroom will also accept wet helmets and rain ponchos while you explore."
+                "en": "Use the museum visit for a thorough drying break; the cloakroom will also accept wet helmets and rain ponchos while you explore.",
+                "fr": "Profitez de la visite au musée pour une pause séchage complète ; le vestiaire accepte aussi casques mouillés et ponchos de pluie pendant l'exploration."
               }
             },
             {
@@ -524,13 +579,15 @@
                 "de": "Mariä-Himmelfahrt-Kirche",
                 "hu": "Nagyboldogasszony Templom",
                 "ro": "Biserica Adormirea Maicii Domnului",
-                "en": "Church of the Assumption"
+                "en": "Church of the Assumption",
+                "fr": "Église de l'Assomption"
               },
               "tip_5lang": {
                 "de": "Achten Sie auf dem Weg hierher auf Aquaplaning; die kleine Kirche ist ein feiner Rückzugsort, um den nächsten Schauer abzuwarten.",
                 "hu": "A templom felé vezető úton ügyeljen a vízátfolyásokra; ez a kisebb templom remek menedék lehet egy hirtelen jött zápor átvészelésére.",
                 "ro": "Atenție la acvaplanare pe drumul spre biserică; acest lăcaș mai mic este un refugiu excelent pentru a aștepta trecerea unei averse.",
-                "en": "Watch out for hydroplaning on the road to the church; this smaller church is a fine retreat to wait out a sudden passing shower."
+                "en": "Watch out for hydroplaning on the road to the church; this smaller church is a fine retreat to wait out a sudden passing shower.",
+                "fr": "Attention à l'aquaplaning sur la route menant à l'église ; cette petite église est un bon refuge pour attendre une averse passagère."
               }
             },
             {
@@ -538,13 +595,15 @@
                 "de": "St.-Bartholomäus-Kirche",
                 "hu": "Szent Bertalan Templom",
                 "ro": "Biserica Sfântul Bartolomeu",
-                "en": "Church of Saint Bartholomew"
+                "en": "Church of Saint Bartholomew",
+                "fr": "Église Saint-Barthélemy"
               },
               "tip_5lang": {
                 "de": "Beenden Sie Ihre Tour vorsichtig; wischen Sie den Sattel vor der Heimfahrt gut ab und genießen Sie die abendliche Ruhe im Kirchenraum.",
                 "hu": "Fejezze be óvatosan a túrát; törölje szárazra a nyerget indulás előtt, és élvezze az esti csendet a templom védelmében.",
                 "ro": "Încheiați turul cu atenție; ștergeți bine șaua înainte de plecare și bucurați-vă de liniștea serii în interiorul bisericii.",
-                "en": "Finish your tour carefully; wipe your saddle dry before the ride home and enjoy the evening peace within the church's shelter."
+                "en": "Finish your tour carefully; wipe your saddle dry before the ride home and enjoy the evening peace within the church's shelter.",
+                "fr": "Terminez votre visite prudemment ; essuyez votre selle avant le retour et profitez du calme du soir à l'abri de l'église."
               }
             }
           ]
@@ -554,7 +613,8 @@
             "de": "Ein frostiger Morgen beginnt an der Heilig-Kreuz-Kirche, wo Radfahrer auf Glatteis achten müssen. Über die St.-Anna-Kirche führt die Tour zur Basilika, wobei der kalte Fahrtwind warme Handschuhe erfordert. Mittags bietet das beheizte Spitzenmuseum die nötige Wärme. Wegen der Dämmerung ab 16:30 Uhr sollten die Besuche bei der Mariä-Himmelfahrt- und St.-Bartholomäus-Kirche zügig erfolgen, um vor der Dunkelheit sicher anzukommen.",
             "hu": "Fagyos reggel indul a Szent Kereszt Templomnál, ahol a bringásoknak figyelniük kell a jeges foltokra. A Szent Anna Templomon át a Bazilikáig tartó úton a menetszél ellen meleg kesztyű kell. Délben a fűtött Csipkemúzeum adja vissza az életkedvet. A 16:30-as szürkület miatt a Nagyboldogasszony és Szent Bertalan templomokat még világosban érdemes elérni.",
             "ro": "O dimineață geroasă începe la Biserica Sfintei Cruci, unde bicicliștii trebuie să evite gheața. Drumul spre Sfânta Ana și Bazilică necesită mănuși groase contra vântului tăios. La prânz, Muzeul Dantelei încălzit redă energia necesară. Din cauza amurgului de la 16:30, bisericile de după-amiază trebuie vizitate rapid pentru a fi în siguranță.",
-            "en": "A frosty morning starts at the Church of the Holy Cross, where cyclists must watch for icy patches. The ride via Saint Anne's to the Basilica requires warm gloves against the wind chill. At midday, the heated Lace Museum restores your energy. Due to twilight starting at 16:30, visit the final churches promptly to ensure a safe ride back before dark."
+            "en": "A frosty morning starts at the Church of the Holy Cross, where cyclists must watch for icy patches. The ride via Saint Anne's to the Basilica requires warm gloves against the wind chill. At midday, the heated Lace Museum restores your energy. Due to twilight starting at 16:30, visit the final churches promptly to ensure a safe ride back before dark.",
+            "fr": "Une matinée glaciale commence à l'église de la Sainte-Croix, où les cyclistes doivent surveiller les plaques de verglas. Le trajet via Sainte-Anne jusqu'à la basilique exige des gants chauds contre le froid. À midi, le Musée de la Dentelle chauffé vous redonne de l'énergie. Comme le crépuscule commence à 16:30, visitez les dernières églises rapidement pour assurer un retour sûr avant la nuit."
           },
           "stops": [
             {
@@ -562,13 +622,15 @@
                 "de": "Heilig-Kreuz-Kirche",
                 "hu": "Szent Kereszt Templom",
                 "ro": "Biserica Sfintei Cruci",
-                "en": "Church of the Holy Cross"
+                "en": "Church of the Holy Cross",
+                "fr": "Église de la Sainte-Croix"
               },
               "tip_5lang": {
                 "de": "Achten Sie auf Reifglätte auf den Zuwegen; nutzen Sie den Windschatten der Kirche für eine kurze Orientierungspause im Stehen.",
                 "hu": "Ügyeljen a dér okozta csúszósságra a bekötőutakon; használja a templom szélárnyékát egy rövid, álló helyzetben történő tájékozódáshoz.",
                 "ro": "Atenție la polei pe drumurile de acces; folosiți adăpostul oferit de zidurile bisericii pentru o scurtă pauză de orientare.",
-                "en": "Watch out for frost and slippery surfaces on access roads; use the church's windbreak for a quick orientation break while standing."
+                "en": "Watch out for frost and slippery surfaces on access roads; use the church's windbreak for a quick orientation break while standing.",
+                "fr": "Attention au givre et aux surfaces glissantes sur les voies d'accès ; utilisez le brise-vent de l'église pour une brève pause d'orientation debout."
               }
             },
             {
@@ -576,13 +638,15 @@
                 "de": "St.-Anna-Kirche",
                 "hu": "Szent Anna Templom",
                 "ro": "Biserica Sfânta Ana",
-                "en": "Church of Saint Anne"
+                "en": "Church of Saint Anne",
+                "fr": "Église Sainte-Anne"
               },
               "tip_5lang": {
                 "de": "Halten Sie die Fahrtzeit kurz und genießen Sie die Ruhe im Inneren; die Kälte macht die Muskeln steif, machen Sie kurze Dehnübungen im Warmen.",
                 "hu": "Tartsa röviden a menetidőt és élvezze a benti nyugalmat; a hideg merevvé teszi az izmokat, végezzen rövid nyújtást a meleg templomban.",
                 "ro": "Păstrați timpul de pedalare scurt și bucurați-vă de liniște; frigul înțepenește mușchii, faceți scurte exerciții de stretching la căldură.",
-                "en": "Keep riding time short and enjoy the indoor peace; the cold makes muscles stiff, so do some quick stretching inside the warm church."
+                "en": "Keep riding time short and enjoy the indoor peace; the cold makes muscles stiff, so do some quick stretching inside the warm church.",
+                "fr": "Réduisez le temps de pédalage et profitez du calme intérieur ; le froid raidit les muscles, faites quelques étirements rapides à l'intérieur de l'église chauffée."
               }
             },
             {
@@ -590,13 +654,15 @@
                 "de": "Basilika von Saint Maxellende",
                 "hu": "Saint Maxellende Bazilika",
                 "ro": "Bazilica Saint Maxellende",
-                "en": "Basilica of Saint Maxellende"
+                "en": "Basilica of Saint Maxellende",
+                "fr": "Basilique Sainte-Maxellende"
               },
               "tip_5lang": {
                 "de": "Ein imposanter Ort zum Aufwärmen; achten Sie darauf, dass Ihr Fahrradschloss bei Frost nicht einfriert, ein Tropfen Öl hilft vorab.",
                 "hu": "Impozáns hely a felmelegedéshez; ügyeljen rá, hogy a kerékpárzár ne fagyjon be a hidegben, egy csepp olaj előzetesen sokat segíthet.",
                 "ro": "Un loc impunător pentru încălzire; atenție ca încuietoarea bicicletei să nu înghețe, un pic de ulei aplicat în prealabil este util.",
-                "en": "An imposing place to warm up; ensure your bike lock doesn't freeze in the cold; a drop of oil applied beforehand can be very helpful."
+                "en": "An imposing place to warm up; ensure your bike lock doesn't freeze in the cold; a drop of oil applied beforehand can be very helpful.",
+                "fr": "Endroit imposant pour se réchauffer ; veillez à ce que votre antivol de vélo ne gèle pas ; une goutte d'huile appliquée au préalable peut être très utile."
               }
             },
             {
@@ -604,13 +670,15 @@
                 "de": "Museum für Spitze und Stickerei",
                 "hu": "Csipke- és Hímzésmúzeum",
                 "ro": "Muzeul Dantelei și Broderiei",
-                "en": "Museum of Lace and Embroidery"
+                "en": "Museum of Lace and Embroidery",
+                "fr": "Musée de la Dentelle et de la Broderie"
               },
               "tip_5lang": {
                 "de": "Dies ist der wärmste Stopp Ihrer Tour; nutzen Sie die Zeit, um Ihre Akkus und sich selbst bei angenehmen Temperaturen wieder aufzuladen.",
                 "hu": "Ez a túra legmelegebb pontja; használja ki az időt, hogy kellemes hőmérsékletben töltődjön fel Ön is és az elektromos eszközei is.",
                 "ro": "Acesta este cel mai cald punct al turului; folosiți timpul pentru a vă reîncărca bateriile proprii și pe cele ale dispozitivelor la căldură.",
-                "en": "This is the warmest stop of your tour; take your time to recharge yourself and your devices in the pleasant indoor temperatures."
+                "en": "This is the warmest stop of your tour; take your time to recharge yourself and your devices in the pleasant indoor temperatures.",
+                "fr": "C'est l'étape la plus chaude de votre visite ; prenez votre temps pour vous ressourcer et recharger vos appareils dans une agréable température intérieure."
               }
             },
             {
@@ -618,13 +686,15 @@
                 "de": "Mariä-Himmelfahrt-Kirche",
                 "hu": "Nagyboldogasszony Templom",
                 "ro": "Biserica Adormirea Maicii Domnului",
-                "en": "Church of the Assumption"
+                "en": "Church of the Assumption",
+                "fr": "Église de l'Assomption"
               },
               "tip_5lang": {
                 "de": "Besuchen Sie diesen Ort zügig, bevor das Licht schwindet; die tiefstehende Wintersonne kann beim Radfahren unangenehm blenden.",
                 "hu": "Gyorsan látogassa meg ezt a helyet, mielőtt elfogynak a fények; az alacsonyan járó téli nap kerékpározás közben erősen vakíthat.",
                 "ro": "Vizitați rapid acest loc înainte de apus; soarele jos de iarnă poate fi extrem de orbitor în timpul deplasării pe bicicletă.",
-                "en": "Visit this spot promptly before the light fades; the low winter sun can be quite blinding while cycling during the late afternoon."
+                "en": "Visit this spot promptly before the light fades; the low winter sun can be quite blinding while cycling during the late afternoon.",
+                "fr": "Visitez ce lieu rapidement avant que la lumière ne diminue ; le faible soleil d'hiver peut être éblouissant en fin d'après-midi à vélo."
               }
             },
             {
@@ -632,13 +702,15 @@
                 "de": "St.-Bartholomäus-Kirche",
                 "hu": "Szent Bertalan Templom",
                 "ro": "Biserica Sfântul Bartolomeu",
-                "en": "Church of Saint Bartholomew"
+                "en": "Church of Saint Bartholomew",
+                "fr": "Église Saint-Barthélemy"
               },
               "tip_5lang": {
                 "de": "Stellen Sie sicher, dass Ihre Fahrradbeleuchtung funktioniert, da es bei Ihrer Abfahrt bereits dunkel sein wird; genießen Sie die Abendstille.",
                 "hu": "Győződjön meg róla, hogy a kerékpáros világítás jól működik, mert távozáskor már sötét lesz; élvezze a templomi csendet.",
                 "ro": "Asigurați-vă că luminile bicicletei funcționează bine, deoarece va fi deja întuneric la plecare; bucurați-vă de liniștea serii.",
-                "en": "Ensure your bike lights are working perfectly, as it will be dark by the time you leave; enjoy the final peaceful moments in the church."
+                "en": "Ensure your bike lights are working perfectly, as it will be dark by the time you leave; enjoy the final peaceful moments in the church.",
+                "fr": "Assurez-vous que vos éclairages de vélo fonctionnent parfaitement, car il fera nuit en partant ; profitez des derniers instants paisibles dans l'église."
               }
             }
           ]
@@ -658,7 +730,8 @@
             "de": "Heilig-Kreuz-Kirche",
             "hu": "Szent Kereszt Templom",
             "ro": "Biserica Sfintei Cruci",
-            "en": "Church of the Holy Cross"
+            "en": "Church of the Holy Cross",
+            "fr": "Église de la Sainte-Croix"
           },
           "coords": [
             3.375181,
@@ -673,7 +746,8 @@
             "de": "Besuchen Sie diese charmante örtliche Kirche, um ihr gut erhaltenes traditionelles Design zu bewundern, und machen Sie einen kurzen Spaziergang durch die Umgebung, um das Alltagsleben in Caudry zu erleben.",
             "hu": "Látogasson el ebbe a bájos helyi templomba, hogy megcsodálja jól megőrzött hagyományos kialakítását, és tegyen egy rövid sétát a környéken, hogy megtapasztalja Caudry mindennapi életét.",
             "ro": "Opriți-vă la această biserică locală fermecătoare pentru a-i admira designul tradițional bine conservat și faceți o scurtă plimbare prin cartierul înconjurător pentru a experimenta viața de zi cu zi în Caudry.",
-            "en": "Stop by this charming local church to admire its well-preserved traditional design, and take a brief stroll through the surrounding neighborhood to experience everyday life in Caudry."
+            "en": "Stop by this charming local church to admire its well-preserved traditional design, and take a brief stroll through the surrounding neighborhood to experience everyday life in Caudry.",
+            "fr": "Faites une halte dans cette charmante église locale pour admirer son architecture traditionnelle bien conservée et promenez-vous brièvement dans le quartier pour ressentir la vie quotidienne à Caudry."
           }
         },
         {
@@ -681,7 +755,8 @@
             "de": "St.-Anna-Kirche",
             "hu": "Szent Anna Templom",
             "ro": "Biserica Sfânta Ana",
-            "en": "Church of Saint Anne"
+            "en": "Church of Saint Anne",
+            "fr": "Église Sainte-Anne"
           },
           "coords": [
             3.383191,
@@ -696,7 +771,8 @@
             "de": "Beachten Sie die subtilen architektonischen Details dieser malerischen religiösen Stätte, die einen perfekten kurzen Halt für Fotografie-Enthusiasten bietet, bevor Sie Ihre Reise durch die Stadt fortsetzen.",
             "hu": "Figyelje meg ennek a festői vallási helyszínnek a finom építészeti részleteit, amely tökéletes rövid megálló a fotózás szerelmeseinek, mielőtt folytatná útját a városban.",
             "ro": "Observați detaliile arhitecturale subtile ale acestui sit religios pitoresc, făcându-l o oprire rapidă perfectă pentru pasionații de fotografie înainte de a vă continua călătoria prin oraș.",
-            "en": "Notice the subtle architectural details of this quaint religious site, making it a perfect quick stop for photography enthusiasts before continuing your journey through the city."
+            "en": "Notice the subtle architectural details of this quaint religious site, making it a perfect quick stop for photography enthusiasts before continuing your journey through the city.",
+            "fr": "Remarquez les subtils détails architecturaux de ce site religieux pittoresque, parfait pour une courte halte photographique avant de poursuivre votre route en ville."
           }
         },
         {
@@ -704,7 +780,8 @@
             "de": "Rathaus Caudry",
             "hu": "Caudry Városháza",
             "ro": "Primăria Caudry",
-            "en": "Caudry Town Hall"
+            "en": "Caudry Town Hall",
+            "fr": "Hôtel de ville de Caudry"
           },
           "coords": [
             3.410162,
@@ -719,7 +796,8 @@
             "de": "Nehmen Sie sich einen Moment Zeit, um die elegante Fassade des Rathauses zu bewundern, das das bürgerliche Herz von Caudry bildet, und machen Sie ein unvergessliches Foto vom angrenzenden Platz.",
             "hu": "Szánjon egy percet a városháza elegáns homlokzatának megcsodálására, amely Caudry polgári központjaként szolgál, és készítsen egy emlékezetes fotót a szomszédos térről.",
             "ro": "Luați un moment pentru a aprecia fațada elegantă a primăriei, care servește drept inima civică a orașului Caudry, și surprindeți o fotografie memorabilă din piața adiacentă.",
-            "en": "Take a moment to appreciate the elegant facade of the town hall, which serves as the civic heart of Caudry, and capture a memorable photo from the adjacent square."
+            "en": "Take a moment to appreciate the elegant facade of the town hall, which serves as the civic heart of Caudry, and capture a memorable photo from the adjacent square.",
+            "fr": "Prenez un moment pour apprécier la façade élégante de l'hôtel de ville, cœur civique de Caudry, et capturez une photo mémorable depuis la place adjacente."
           }
         },
         {
@@ -727,7 +805,8 @@
             "de": "Museum für Spitze und Stickerei",
             "hu": "Csipke- és Hímzésmúzeum",
             "ro": "Muzeul Dantelei și Broderiei",
-            "en": "Museum of Lace and Embroidery"
+            "en": "Museum of Lace and Embroidery",
+            "fr": "Musée de la Dentelle et de la Broderie"
           },
           "coords": [
             3.41165,
@@ -742,7 +821,8 @@
             "de": "Entdecken Sie das reiche industrielle Erbe der berühmten Spitzenklöppelei von Caudry in diesem beeindruckenden Museum und prüfen Sie unbedingt den Zeitplan für Live-Vorführungen am Webstuhl.",
             "hu": "Fedezze fel Caudry híres csipkeverő hagyományainak gazdag ipari örökségét ebben a lenyűgöző múzeumban, és mindenképpen ellenőrizze az élő szövőszék-bemutatók menetrendjét.",
             "ro": "Explorați bogata moștenire industrială a faimoaselor tradiții de fabricare a dantelei din Caudry la acest muzeu uimitor și asigurați-vă că verificați programul pentru demonstrațiile de țesut în direct.",
-            "en": "Explore the rich industrial heritage of Caudry's famous lace-making traditions at this stunning museum, and be sure to check the schedule for live loom demonstrations."
+            "en": "Explore the rich industrial heritage of Caudry's famous lace-making traditions at this stunning museum, and be sure to check the schedule for live loom demonstrations.",
+            "fr": "Explorez le riche patrimoine industriel des célèbres traditions dentellières de Caudry dans ce musée remarquable, et consultez le programme pour des démonstrations de métiers à tisser en direct."
           }
         },
         {
@@ -750,7 +830,8 @@
             "de": "Octopus",
             "hu": "Octopus",
             "ro": "Octopus",
-            "en": "Octopus"
+            "en": "Octopus",
+            "fr": "Octopus"
           },
           "coords": [
             3.424304,
@@ -765,7 +846,8 @@
             "de": "Bringen Sie Ihre Familie in dieses attraktive Wasser- und Freizeitzentrum, um sich nach den Erkundungen zu entspannen, aber denken Sie an eine Badekappe, da diese für den Zugang zum Pool obligatorisch ist.",
             "hu": "Hozza el családját ebbe a magával ragadó vízi és szabadidőközpontba, hogy kikapcsolódjanak a felfedezés után, de ne felejtsen el megfelelő úszósapkát hozni, mivel az a medence használatához kötelező.",
             "ro": "Aduceți-vă familia la acest centru acvatic și de agrement captivant pentru a vă relaxa după explorare, dar nu uitați să aduceți o cască de înot adecvată, deoarece este strict necesară pentru accesul la piscină.",
-            "en": "Bring your family to this engaging aquatic and leisure center to unwind after exploring, but remember to bring a proper swimming cap as it is strictly required for pool access."
+            "en": "Bring your family to this engaging aquatic and leisure center to unwind after exploring, but remember to bring a proper swimming cap as it is strictly required for pool access.",
+            "fr": "Amenez votre famille dans ce centre aquatique et de loisirs pour vous détendre après la visite, mais pensez à emporter un bonnet de bain approprié, exigé pour accéder aux bassins."
           }
         },
         {
@@ -773,7 +855,8 @@
             "de": "Mariä-Himmelfahrt-Kirche",
             "hu": "Nagyboldogasszony Templom",
             "ro": "Biserica Adormirea Maicii Domnului",
-            "en": "Church of the Assumption"
+            "en": "Church of the Assumption",
+            "fr": "Église de l'Assomption"
           },
           "coords": [
             3.432818,
@@ -788,7 +871,8 @@
             "de": "Besuchen Sie diese historische Kirche, um ihr ruhiges Inneres und den wunderschönen Altaraufsatz zu betrachten und die ruhige Atmosphäre für einen Moment der persönlichen Besinnung zu nutzen.",
             "hu": "Látogasson el ebbe a történelmi templomba, hogy megfigyelje nyugodt belső terét és gyönyörű oltárképét, kihasználva a csendes légkört egy pillanatnyi személyes elmélkedésre.",
             "ro": "Vizitați această biserică istorică pentru a-i observa interiorul senin și altarul frumos, profitând de atmosfera liniștită pentru un moment de reflecție personală.",
-            "en": "Visit this historic church to observe its serene interior and beautiful altarpiece, taking advantage of the quiet atmosphere for a moment of personal reflection."
+            "en": "Visit this historic church to observe its serene interior and beautiful altarpiece, taking advantage of the quiet atmosphere for a moment of personal reflection.",
+            "fr": "Visitez cette église historique pour observer son intérieur serein et son bel autel, profitant du calme pour un moment de recueillement personnel."
           }
         },
         {
@@ -796,7 +880,8 @@
             "de": "St.-Bartholomäus-Kirche",
             "hu": "Szent Bertalan Templom",
             "ro": "Biserica Sfântul Bartolomeu",
-            "en": "Church of Saint Bartholomew"
+            "en": "Church of Saint Bartholomew",
+            "fr": "Église Saint-Barthélemy"
           },
           "coords": [
             3.440662,
@@ -811,7 +896,8 @@
             "de": "Bewundern Sie den unverwechselbaren Charakter dieser historischen Kirche, die etwas weiter entfernt liegt und ein hervorragendes Ziel ist, um sich bei einer Tour durch die Außenbezirke die Beine zu vertreten.",
             "hu": "Csodálja meg a kissé távolabb található történelmi templom egyedi karakterét, amely kiváló úti cél ahhoz, hogy kinyújtóztassa a lábát a külvárosi túra során.",
             "ro": "Minunați-vă de caracterul distinct al acestei biserici istorice situate puțin mai departe, făcând-o o destinație excelentă pentru a vă întinde picioarele în timp ce vizitați periferia.",
-            "en": "Marvel at the distinct character of this historic church located slightly further out, making it an excellent destination to stretch your legs while touring the outskirts."
+            "en": "Marvel at the distinct character of this historic church located slightly further out, making it an excellent destination to stretch your legs while touring the outskirts.",
+            "fr": "Admirez le caractère distinct de cette église historique située un peu à l'écart, excellente pour s'étirer les jambes en visitant la périphérie."
           }
         }
       ],
@@ -819,7 +905,8 @@
         "de": "Beginnen Sie Ihren Morgen im Zentrum von Caudry und genießen Sie die historische Atmosphäre. Mittags tauchen Sie in das reiche textile Erbe der Stadt ein und bewundern exquisite Spitzen. Am Nachmittag finden Sie Ruhe in der friedlichen Architektur lokaler Denkmäler. Der Abend bringt einen lohnenden Abschluss, während Sie über Ihre wundervolle Erkundung nachdenken.",
         "hu": "Kezdje a reggelt Caudry központjában, magába szívva a helyi történelmi atmoszférát. Délben merüljön el a város gazdag textilipari örökségében és finom csipkemintáiban. Ahogy eljön a délután, találjon békét a helyi vallási műemlékek csendes építészetében. Az este jutalmazó lezárást hoz, miközben visszagondol ennek a francia városnak az elragadó felfedezésére.",
         "ro": "Începeți dimineața în centrul civic din Caudry, absorbind atmosfera istorică locală. Până la prânz, aprofundați moștenirea textilă bogată a orașului, admirând modele de dantelă. Pe măsură ce vine după-amiaza, găsiți pacea în arhitectura liniștită a monumentelor religioase. Seara aduce o încheiere plină de satisfacții, reflectând la explorarea dvs. încântătoare.",
-        "en": "Begin your morning at the civic heart of Caudry, absorbing the local historic atmosphere. By midday, delve into the city's rich textile heritage, admiring exquisite lace patterns. As afternoon arrives, find peace in the quiet architecture of local religious monuments. The evening brings a rewarding close as you reflect on your delightful exploration of this French town."
+        "en": "Begin your morning at the civic heart of Caudry, absorbing the local historic atmosphere. By midday, delve into the city's rich textile heritage, admiring exquisite lace patterns. As afternoon arrives, find peace in the quiet architecture of local religious monuments. The evening brings a rewarding close as you reflect on your delightful exploration of this French town.",
+        "fr": "Commencez la matinée au cœur civique de Caudry, en vous imprégnant de l'atmosphère historique locale. À midi, plongez dans le riche patrimoine textile de la ville en admirant d'exquises dentelles. L'après-midi, trouvez la paix dans l'architecture sobre des monuments religieux locaux. La soirée se termine agréablement en repensant à votre charmante exploration de cette ville française."
       },
       "variants": {
         "rainy": {
@@ -827,7 +914,8 @@
             "de": "Ein regnerischer Tag in Caudry lässt sich bequem mit dem Auto bewältigen. Vom Start bei der Heilig-Kreuz-Kirche geht es trocken zum Rathaus und weiter zum Spitzenmuseum, wo man dem Guss entkommt. Mittags bietet das Octopus eine perfekte Indoor-Pause für Familien. Den Nachmittag verbringen wir bei der Mariä-Himmelfahrt- und St.-Bartholomäus-Kirche, wobei das Auto als sicherer Hafen zwischen den Güssen dient.",
             "hu": "Az esős nap Caudry-ban kényelmesen abszolválható autóval. A Szent Kereszt Templomtól szárazon jutunk el a Városházához, majd a Csipkemúzeumba menekülünk a zápor elől. Délben az Octopus tökéletes fedett pihenőt nyújt. A délutánt a Nagyboldogasszony és Szent Bertalan templomoknál töltjük, ahol az autó biztos menedéket ad két felhőszakadás között.",
             "ro": "O zi ploioasă în Caudry poate fi parcursă confortabil cu mașina. De la Biserica Sfintei Cruci mergem la Primărie și apoi la Muzeul Dantelei, feriți de ploaie. La prânz, Octopus oferă o pauză ideală la interior. După-amiaza vizităm bisericile Adormirea Maicii Domnului și Sfântul Bartolomeu, mașina fiind refugiul perfect între reprizele de ploaie.",
-            "en": "A rainy day in Caudry is easily managed by car. From the Church of the Holy Cross, stay dry as you head to the Town Hall and the Lace Museum to escape the downpour. At midday, Octopus provides a perfect indoor break for all. Spend the afternoon at the final churches, using the car as a cozy haven between the rain showers."
+            "en": "A rainy day in Caudry is easily managed by car. From the Church of the Holy Cross, stay dry as you head to the Town Hall and the Lace Museum to escape the downpour. At midday, Octopus provides a perfect indoor break for all. Spend the afternoon at the final churches, using the car as a cozy haven between the rain showers.",
+            "fr": "Une journée pluvieuse à Caudry se gère facilement en voiture. Depuis l'église de la Sainte-Croix, restez au sec en vous rendant à l'Hôtel de ville et au Musée de la Dentelle pour échapper à la pluie. À midi, Octopus offre une parfaite pause intérieure pour tous. Passez l'après-midi dans les dernières églises, en utilisant la voiture comme refuge confortable entre les averses."
           },
           "stops": [
             {
@@ -835,13 +923,15 @@
                 "de": "Heilig-Kreuz-Kirche",
                 "hu": "Szent Kereszt Templom",
                 "ro": "Biserica Sfintei Cruci",
-                "en": "Church of the Holy Cross"
+                "en": "Church of the Holy Cross",
+                "fr": "Église de la Sainte-Croix"
               },
               "tip_5lang": {
                 "de": "Parken Sie so nah wie möglich am Eingang, um nicht nass zu werden; die neugotischen Details lassen sich auch durch das Autofenster gut bewundern.",
                 "hu": "Parkoljon minél közelebb a bejárathoz, hogy elkerülje az elázást; a neogótikus részletek az autó ablakából is jól megfigyelhetőek.",
                 "ro": "Parcați cât mai aproape de intrare pentru a nu vă uda; detaliile neogotice pot fi admirate parțial chiar și prin geamul mașinii.",
-                "en": "Park as close to the entrance as possible to stay dry; the neo-Gothic details can be partially admired even from the comfort of your car."
+                "en": "Park as close to the entrance as possible to stay dry; the neo-Gothic details can be partially admired even from the comfort of your car.",
+                "fr": "Garez-vous au plus près de l'entrée pour rester au sec ; les détails néo-gothiques peuvent être partiellement admirés depuis le confort de votre voiture."
               }
             },
             {
@@ -849,13 +939,15 @@
                 "de": "St.-Anna-Kirche",
                 "hu": "Szent Anna Templom",
                 "ro": "Biserica Sfânta Ana",
-                "en": "Church of Saint Anne"
+                "en": "Church of Saint Anne",
+                "fr": "Église Sainte-Anne"
               },
               "tip_5lang": {
                 "de": "Nutzen Sie die kurzen Wege vom Parkplatz zur Kirche; im Inneren finden Sie Schutz vor dem Wind, während der Regen gegen die Scheiben trommelt.",
                 "hu": "Használja ki a parkoló és a templom közötti rövid távolságot; bent védve lesz a széltől, miközben az eső veri az ablakokat.",
                 "ro": "Profitați de distanța scurtă dintre parcare și biserică; în interior veți fi protejați de vânt în timp ce ploaia bate în ferestre.",
-                "en": "Take advantage of the short distance between the parking and the church; inside you’ll be protected from the wind as rain drums on the glass."
+                "en": "Take advantage of the short distance between the parking and the church; inside you’ll be protected from the wind as rain drums on the glass.",
+                "fr": "Profitez de la courte distance entre le parking et l'église ; à l'intérieur vous serez protégé du vent pendant que la pluie tambourine sur les vitres."
               }
             },
             {
@@ -863,13 +955,15 @@
                 "de": "Rathaus Caudry",
                 "hu": "Caudry Városháza",
                 "ro": "Primăria Caudry",
-                "en": "Caudry Town Hall"
+                "en": "Caudry Town Hall",
+                "fr": "Hôtel de ville de Caudry"
               },
               "tip_5lang": {
                 "de": "Die Parkplatzsuche in der Nähe des Zentrums kann bei Regen schwierig sein; planen Sie ein paar Minuten extra ein, um einen Platz direkt am Rathaus zu finden.",
                 "hu": "A központ közeli parkolás nehézkes lehet esőben; tervezzen pár extra percet, hogy közvetlenül a Városháza mellett találjon szabad helyet.",
                 "ro": "Găsirea unui loc de parcare central poate fi dificilă pe ploaie; alocați câteva minute în plus pentru a găsi un loc chiar lângă Primărie.",
-                "en": "Finding central parking can be tricky in the rain; allow a few extra minutes to find a spot right next to the Town Hall for quick access."
+                "en": "Finding central parking can be tricky in the rain; allow a few extra minutes to find a spot right next to the Town Hall for quick access.",
+                "fr": "Trouver une place centrale peut être délicat sous la pluie ; prévoyez quelques minutes supplémentaires pour trouver un emplacement juste à côté de l'Hôtel de ville pour un accès rapide."
               }
             },
             {
@@ -877,13 +971,15 @@
                 "de": "Museum für Spitze und Stickerei",
                 "hu": "Csipke- és Hímzésmúzeum",
                 "ro": "Muzeul Dantelei și Broderiei",
-                "en": "Museum of Lace and Embroidery"
+                "en": "Museum of Lace and Embroidery",
+                "fr": "Musée de la Dentelle et de la Broderie"
               },
               "tip_5lang": {
                 "de": "Lassen Sie Ihren Regenschirm im Auto, falls der Parkplatz direkt am Museum ist; die Ausstellungen sind der beste Ort für eine lange Regenpause.",
                 "hu": "Hagyja az esernyőt az autóban, ha közvetlenül a múzeumnál sikerül parkolnia; a kiállítások a legjobb helyszínt kínálják egy hosszú esőpihenőhöz.",
                 "ro": "Lăsați umbrela în mașină dacă parcați chiar lângă muzeu; expozițiile oferă cel mai bun cadru pentru o pauză lungă ferită de ploaie.",
-                "en": "Leave your umbrella in the car if you manage to park right by the museum; the exhibitions offer the best setting for a long rainy-day break."
+                "en": "Leave your umbrella in the car if you manage to park right by the museum; the exhibitions offer the best setting for a long rainy-day break.",
+                "fr": "Laissez votre parapluie dans la voiture si vous parvenez à vous garer juste devant le musée ; les expositions offrent le meilleur cadre pour une longue pause les jours de pluie."
               }
             },
             {
@@ -891,13 +987,15 @@
                 "de": "Octopus",
                 "hu": "Octopus",
                 "ro": "Octopus",
-                "en": "Octopus"
+                "en": "Octopus",
+                "fr": "Octopus"
               },
               "tip_5lang": {
                 "de": "Der große Parkplatz macht den Zugang bei schlechtem Wetter sehr einfach; idealer Ort, um die Kinder im Trockenen richtig auspowern zu lassen.",
                 "hu": "A nagy parkoló nagyon megkönnyíti a bejutást rossz időben is; ideális helyszín, hogy a gyerekek fedett helyen mozoghassanak egy nagyot.",
                 "ro": "Parcarea mare face accesul foarte ușor chiar și pe vreme rea; este locul ideal pentru ca cei mici să consume energie la interior, la uscat.",
-                "en": "The large parking lot makes access very easy even in bad weather; it’s an ideal spot for kids to burn off energy indoors while staying dry."
+                "en": "The large parking lot makes access very easy even in bad weather; it’s an ideal spot for kids to burn off energy indoors while staying dry.",
+                "fr": "Le grand parking facilite l'accès même par mauvais temps ; c'est un endroit idéal pour que les enfants se dépensent à l'intérieur tout en restant au sec."
               }
             },
             {
@@ -905,13 +1003,15 @@
                 "de": "Mariä-Himmelfahrt-Kirche",
                 "hu": "Nagyboldogasszony Templom",
                 "ro": "Biserica Adormirea Maicii Domnului",
-                "en": "Church of the Assumption"
+                "en": "Church of the Assumption",
+                "fr": "Église de l'Assomption"
               },
               "tip_5lang": {
                 "de": "Ein kurzer Sprint vom Auto zur Kirche genügt; genießen Sie die Ruhe im Inneren und nutzen Sie die Zeit, um die nächste Etappe der Fahrt zu planen.",
                 "hu": "Egy rövid futás az autótól a templomig elég; élvezze a benti nyugalmat, és használja ki az időt az út következő szakaszának megtervezésére.",
                 "ro": "O scurtă fugă de la mașină până la biserică este suficientă; bucurați-vă de liniștea din interior și planificați următoarea etapă a drumului.",
-                "en": "A quick dash from the car to the church is all it takes; enjoy the indoor peace and use the time to plan the next leg of your drive."
+                "en": "A quick dash from the car to the church is all it takes; enjoy the indoor peace and use the time to plan the next leg of your drive.",
+                "fr": "Une course rapide du parking à l'église suffit ; profitez du calme intérieur et utilisez le temps pour planifier le tronçon suivant de votre trajet en voiture."
               }
             },
             {
@@ -919,13 +1019,15 @@
                 "de": "St.-Bartholomäus-Kirche",
                 "hu": "Szent Bertalan Templom",
                 "ro": "Biserica Sfântul Bartolomeu",
-                "en": "Church of Saint Bartholomew"
+                "en": "Church of Saint Bartholomew",
+                "fr": "Église Saint-Barthélemy"
               },
               "tip_5lang": {
                 "de": "Beenden Sie den Tag entspannt; schütteln Sie die nassen Sachen vor dem Einsteigen ins Auto gut ab, um die Scheiben nicht beschlagen zu lassen.",
                 "hu": "Zárja a napot nyugodtan; rázza le a vizes holmikat, mielőtt beszállna az autóba, hogy elkerülje a szélvédő erős párásodását.",
                 "ro": "Încheiați ziua relaxat; scuturați hainele ude înainte de a urca în mașină pentru a evita aburirea excesivă a parbrizului.",
-                "en": "Finish the day relaxed; shake off wet gear before getting into the car to prevent the windows from fogging up during the drive home."
+                "en": "Finish the day relaxed; shake off wet gear before getting into the car to prevent the windows from fogging up during the drive home.",
+                "fr": "Terminez la journée détendu ; secouez les vêtements mouillés avant de remonter en voiture pour éviter la buée sur les vitres pendant le trajet de retour."
               }
             }
           ]
@@ -935,7 +1037,8 @@
             "de": "Im Winter ist das Auto das ideale Transportmittel in Caudry, um zwischen den Sehenswürdigkeiten warm zu bleiben. Morgens besuchen wir die Heilig-Kreuz- und St.-Anna-Kirche, während die Sitzheizung für Komfort sorgt. Mittags bietet das Spitzenmuseum eine lange Aufwärmpause. Da es bereits gegen 17:00 Uhr dunkel wird, planen wir den Besuch im Octopus für den späten Nachmittag, bevor wir die beleuchteten Kirchen im Dunkeln bewundern.",
             "hu": "Télen az autó az ideális eszköz Caudry-ban, hogy két látnivaló között ne fázzunk meg. Reggel a Szent Kereszt és Szent Anna templomokat látogatjuk meg, miközben az ülésfűtés ad komfortot. Délben a Csipkemúzeumban melegszünk fel. Mivel 17:00-kor sötétedik, az Octopus-t késő délutánra időzítjük, majd a kivilágított templomokat csodáljuk meg.",
             "ro": "Iarna, mașina este mijlocul ideal în Caudry pentru a rămâne la căldură între obiective. Dimineața vizităm bisericile Sfintei Cruci și Sfânta Ana, bucurându-ne de confortul termic. La prânz, ne încălzim la Muzeul Dantelei. Deoarece se întunecă la ora 17:00, programăm Octopus pentru după-amiază, înainte de a vedea bisericile luminate în noapte.",
-            "en": "In winter, the car is the perfect way to get around Caudry while staying warm between stops. In the morning, visit the Holy Cross and Saint Anne churches with the heater on full. Enjoy a long warm-up at the Lace Museum at midday. As it gets dark by 17:00, we schedule the Octopus for the late afternoon before admiring the lit-up churches."
+            "en": "In winter, the car is the perfect way to get around Caudry while staying warm between stops. In the morning, visit the Holy Cross and Saint Anne churches with the heater on full. Enjoy a long warm-up at the Lace Museum at midday. As it gets dark by 17:00, we schedule the Octopus for the late afternoon before admiring the lit-up churches.",
+            "fr": "En hiver, la voiture est le moyen idéal pour se déplacer à Caudry en restant au chaud entre les étapes. Le matin, visitez les églises de la Sainte-Croix et Sainte-Anne avec le chauffage à fond. Profitez d'une longue remise en température au Musée de la Dentelle à midi. Comme il fait nuit à partir de 17:00, prévoyez Octopus en fin d'après-midi avant d'admirer les églises illuminées."
           },
           "stops": [
             {
@@ -943,13 +1046,15 @@
                 "de": "Heilig-Kreuz-Kirche",
                 "hu": "Szent Kereszt Templom",
                 "ro": "Biserica Sfintei Cruci",
-                "en": "Church of the Holy Cross"
+                "en": "Church of the Holy Cross",
+                "fr": "Église de la Sainte-Croix"
               },
               "tip_5lang": {
                 "de": "Achten Sie auf mögliche Glätte auf dem Parkplatz; die kalte Winterluft lässt die neugotische Architektur besonders klar und beeindruckend wirken.",
                 "hu": "Ügyeljen az esetleges jegesedésre a parkolóban; a hideg téli levegőben a neogótikus építészet különösen tisztának és lenyűgözőnek hat.",
                 "ro": "Atenție la posibila gheață din parcare; aerul rece de iarnă face ca arhitectura neogotică să pară extrem de clară și impresionantă.",
-                "en": "Watch out for potential ice in the parking lot; the crisp winter air makes the neo-Gothic architecture appear remarkably clear and impressive."
+                "en": "Watch out for potential ice in the parking lot; the crisp winter air makes the neo-Gothic architecture appear remarkably clear and impressive.",
+                "fr": "Attention au verglas potentiel sur le parking ; l'air vif d'hiver rend l'architecture néo-gothique particulièrement nette et impressionnante."
               }
             },
             {
@@ -957,13 +1062,15 @@
                 "de": "St.-Anna-Kirche",
                 "hu": "Szent Anna Templom",
                 "ro": "Biserica Sfânta Ana",
-                "en": "Church of Saint Anne"
+                "en": "Church of Saint Anne",
+                "fr": "Église Sainte-Anne"
               },
               "tip_5lang": {
                 "de": "Lassen Sie den Motor nicht unnötig laufen; der kurze Aufenthalt in der Kirche bietet eine spirituelle Ruhepause in einem geschützten Raum.",
                 "hu": "Ne járassa feleslegesen a motort várakozás közben; a templomban töltött rövid idő spirituális feltöltődést kínál egy védett, szélmentes környezetben.",
                 "ro": "Nu lăsați motorul pornit inutil; scurtul popas în biserică oferă o pauză spirituală într-un mediu protejat de vântul tăios de iarnă.",
-                "en": "Don't leave the engine idling while waiting; the short time spent in the church offers a spiritual break in a sheltered, wind-free environment."
+                "en": "Don't leave the engine idling while waiting; the short time spent in the church offers a spiritual break in a sheltered, wind-free environment.",
+                "fr": "Ne laissez pas le moteur tourner au ralenti en attendant ; le court temps passé à l'intérieur de l'église offre une pause spirituelle à l'abri du vent."
               }
             },
             {
@@ -971,13 +1078,15 @@
                 "de": "Rathaus Caudry",
                 "hu": "Caudry Városháza",
                 "ro": "Primăria Caudry",
-                "en": "Caudry Town Hall"
+                "en": "Caudry Town Hall",
+                "fr": "Hôtel de ville de Caudry"
               },
               "tip_5lang": {
                 "de": "Nutzen Sie Parkplätze mit direktem Zugang zum Gehweg; die festliche Beleuchtung des Rathauses kommt in der frühen Dämmerung besonders gut zur Geltung.",
                 "hu": "Használja a közvetlen járdakapcsolattal rendelkező parkolókat; a Városháza ünnepi kivilágítása a korai szürkületben érvényesül a legjobban.",
                 "ro": "Folosiți locurile de parcare cu acces direct la trotuar; iluminarea festivă a Primăriei arată excelent în amurgul care se lasă devreme.",
-                "en": "Use parking spots with direct sidewalk access; the Town Hall's festive lighting is best appreciated during the early winter twilight hours."
+                "en": "Use parking spots with direct sidewalk access; the Town Hall's festive lighting is best appreciated during the early winter twilight hours.",
+                "fr": "Utilisez des places de parking avec accès direct au trottoir ; l'éclairage festif de l'Hôtel de ville se remarque mieux pendant le crépuscule hivernal précoce."
               }
             },
             {
@@ -985,13 +1094,15 @@
                 "de": "Museum für Spitze und Stickerei",
                 "hu": "Csipke- és Hímzésmúzeum",
                 "ro": "Muzeul Dantelei și Broderiei",
-                "en": "Museum of Lace and Embroidery"
+                "en": "Museum of Lace and Embroidery",
+                "fr": "Musée de la Dentelle et de la Broderie"
               },
               "tip_5lang": {
                 "de": "Parken Sie idealerweise im Windschatten von Gebäuden; das Museum ist der perfekte Ort, um sich zwischen den Fahrten gründlich aufzuwärmen.",
                 "hu": "Parkoljon lehetőleg az épületek szélárnyékában; a múzeum a tökéletes helyszín, hogy az autós utak között alaposan átmelegedjen a látogató.",
                 "ro": "Parcați pe cât posibil la adăpost de vânt; muzeul este locația perfectă pentru a vă încălzi temeinic între etapele de condus.",
-                "en": "Park in the lee of buildings if possible; the museum is the perfect location to warm up thoroughly between the different driving legs."
+                "en": "Park in the lee of buildings if possible; the museum is the perfect location to warm up thoroughly between the different driving legs.",
+                "fr": "Garez-vous à l'abri des bâtiments si possible ; le musée est l'endroit parfait pour bien se réchauffer entre les différentes étapes en voiture."
               }
             },
             {
@@ -999,13 +1110,15 @@
                 "de": "Octopus",
                 "hu": "Octopus",
                 "ro": "Octopus",
-                "en": "Octopus"
+                "en": "Octopus",
+                "fr": "Octopus"
               },
               "tip_5lang": {
                 "de": "Dank der guten Heizung ein Highlight im Winter; kommen Sie rechtzeitig an, um vor dem Berufsverkehr und der Dunkelheit wieder aufzubrechen.",
                 "hu": "A jó fűtésnek köszönhetően ez a tél egyik fénypontja; érkezzen időben, hogy még a csúcsforgalom és a teljes sötétség előtt indulhasson tovább.",
                 "ro": "Datorită încălzirii bune, este un punct forte iarna; sosiți la timp pentru a pleca înainte de ora de vârf și de întunericul total.",
-                "en": "Thanks to great heating, this is a winter highlight; arrive early enough to leave before the rush hour and the total darkness set in."
+                "en": "Thanks to great heating, this is a winter highlight; arrive early enough to leave before the rush hour and the total darkness set in.",
+                "fr": "Grâce à un excellent chauffage, c'est un point fort de l'hiver ; arrivez assez tôt pour partir avant l'heure de pointe et la nuit totale."
               }
             },
             {
@@ -1013,13 +1126,15 @@
                 "de": "Mariä-Himmelfahrt-Kirche",
                 "hu": "Nagyboldogasszony Templom",
                 "ro": "Biserica Adormirea Maicii Domnului",
-                "en": "Church of the Assumption"
+                "en": "Church of the Assumption",
+                "fr": "Église de l'Assomption"
               },
               "tip_5lang": {
                 "de": "Die Kirche wirkt in der blauen Stunde des Winters besonders mystisch; achten Sie beim Aussteigen auf überfrierende Nässe auf der Straße.",
                 "hu": "A templom a téli kék órában különösen misztikus látványt nyújt; kiszálláskor ügyeljen az úttesten esetlegesen előforduló lefagyásokra.",
                 "ro": "Biserica arată mistic în ora albastră a iernii; la coborârea din mașină, atenție la gheața ce se poate forma rapid pe carosabil.",
-                "en": "The church looks particularly mystical during the winter blue hour; watch out for black ice forming on the road when stepping out of the car."
+                "en": "The church looks particularly mystical during the winter blue hour; watch out for black ice forming on the road when stepping out of the car.",
+                "fr": "L'église paraît particulièrement mystique pendant l'heure bleue hivernale ; attention au verglas noir qui peut se former sur la route en sortant de la voiture."
               }
             },
             {
@@ -1027,13 +1142,15 @@
                 "de": "St.-Bartholomäus-Kirche",
                 "hu": "Szent Bertalan Templom",
                 "ro": "Biserica Sfântul Bartolomeu",
-                "en": "Church of Saint Bartholomew"
+                "en": "Church of Saint Bartholomew",
+                "fr": "Église Saint-Barthélemy"
               },
               "tip_5lang": {
                 "de": "Genießen Sie den Anblick der beleuchteten Kirche aus dem warmen Auto, bevor Sie kurz hineingehen; prüfen Sie vor der Rückfahrt die Scheibenfreiheit.",
                 "hu": "Élvezze a kivilágított templom látványát a meleg autóból, mielőtt bemenne; indulás előtt ellenőrizze, hogy nem jegesedett-e le a szélvédő.",
                 "ro": "Admirați biserica luminată din mașina caldă înainte de a intra; înainte de plecare, verificați dacă parbrizul nu a înghețat între timp.",
-                "en": "Enjoy the view of the lit-up church from your warm car before heading inside; check that your windshield hasn't iced over before driving home."
+                "en": "Enjoy the view of the lit-up church from your warm car before heading inside; check that your windshield hasn't iced over before driving home.",
+                "fr": "Profitez de la vue de l'église illuminée depuis votre voiture chaude avant d'entrer ; vérifiez que votre pare-brise n'est pas givré avant de repartir."
               }
             }
           ]

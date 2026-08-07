@@ -32,7 +32,7 @@
             "hu": "A legszebb kilátás a városra a lépcső tetejéről.",
             "ro": "Cea mai bună vedere asupra orașului de pe scări.",
             "en": "Best view of the city from the top of the stairs.",
-            "fr": "Meilleure vue sur la ville depuis le haut des escaliers."
+            "fr": "Meilleure vue sur la ville depuis le haut de l'escalier."
           }
         },
         {
@@ -108,7 +108,7 @@
             "hu": "Egykori apátsági templom gyönyörű építészettel.",
             "ro": "Fostă biserică abațială cu o arhitectură frumoasă.",
             "en": "Former abbey church with beautiful architecture.",
-            "fr": "Ancienne église abbatiale à l'architecture magnifique."
+            "fr": "Ancienne église d'abbaye à l'architecture magnifique."
           }
         },
         {
@@ -127,7 +127,7 @@
             "hu": "Tökéletes hely egy naplementés sétához.",
             "ro": "Perfect pentru o plimbare la apus.",
             "en": "Perfect for a sunset stroll.",
-            "fr": "Parfait pour une balade au coucher du soleil."
+            "fr": "Parfait pour une promenade au coucher du soleil."
           }
         }
       ],
@@ -136,7 +136,7 @@
         "hu": "Kezdje a napot a híres Denis-Papin lépcsőnél, amelyet gyakran művészeti alkotások díszítenek. Ezután fedezze fel a fenséges Szent Lajos-székesegyházat. Délben merüljön el az illúziók világában a Bűvészet Házában, közvetlenül a kastéllyal szemben. Délután látogassa meg a Blois-i királyi kastélyt, a Loire-menti építészet ékkövét. A napot pihentető sétával zárja a Loire partján, élvezve a Jacques-Gabriel híd látványát.",
         "ro": "Începeți ziua la celebra scară Denis-Papin, adesea decorată artistic. Apoi, explorați maiestuoasa Catedrală Saint-Louis. La prânz, scufundați-vă în lumea iluziilor la Casa Magiei, situată chiar vizavi de castel. După-amiaza, vizitați Castelul Regal din Blois, o bijuterie a arhitecturii de pe Valea Loarei. Încheiați ziua cu o plimbare relaxantă pe malul Loarei, admirând podul istoric Jacques-Gabriel.",
         "en": "Start your day at the famous Denis-Papin stairs, often decorated with art. Next, explore the majestic Saint-Louis Cathedral. At midday, dive into the world of illusions at the House of Magic, located right across from the castle. In the afternoon, visit the Royal Château of Blois, a jewel of Loire architecture. End the day with a relaxing stroll along the banks of the Loire, enjoying the view of the Jacques-Gabriel bridge.",
-        "fr": "Commencez votre journée aux célèbres escaliers Denis-Papin, souvent décorés d'œuvres d'art. Ensuite, explorez la majestueuse cathédrale Saint-Louis. À la mi-journée, plongez dans le monde des illusions à la Maison de la Magie, située juste en face du château. L'après-midi, visitez le Château royal de Blois, un joyau de l'architecture ligérienne. Terminez la journée par une promenade relaxante sur les bords de la Loire, en profitant de la vue sur le pont Jacques-Gabriel."
+        "fr": "Commencez la journée par le célèbre escalier Denis-Papin, souvent décoré d'œuvres d'art. Ensuite, explorez la majestueuse cathédrale Saint-Louis. À midi, plongez dans l'univers d'illusions de la Maison de la Magie, située en face du château. L'après-midi, visitez le Château Royal de Blois, un joyau de l'architecture ligérienne. Terminez la journée par une promenade relaxante le long des berges de la Loire, en profitant de la vue sur le pont Jacques-Gabriel."
       },
       "gastro_picks": {
         "de": [
@@ -379,11 +379,11 @@
           "Tap water is safe and high quality here."
         ],
         "fr": [
-          "Blois est très escarpée, prévoyez des chaussures de marche confortables.",
-          "Le château accueille souvent des spectacles nocturnes (Son et Lumière).",
+          "Blois est très vallonnée, portez des chaussures de marche confortables.",
+          "Le château accueille souvent des spectacles lumineux en soirée (Son-et-Lumière).",
           "Achetez un billet combiné pour le château et la Maison de la Magie.",
-          "La vieille ville regorge de ruelles escarpées et de passages secrets.",
-          "L'eau du robinet est sûre et de haute qualité ici."
+          "La vieille ville compte de nombreuses ruelles pentues et passages cachés.",
+          "L'eau du robinet est sûre et de grande qualité ici."
         ]
       },
       "variants": {
@@ -392,7 +392,8 @@
             "de": "Beginnen Sie Ihren Tag an der berühmten Denis-Papin-Treppe, die oft künstlerisch gestaltet ist. Danach erkunden Sie die prächtige Kathedrale Saint-Louis. Mittags tauchen Sie in die Welt der Illusionen im Haus der Magie ein, direkt gegenüber dem Schloss. Nachmittags besichtigen Sie das Königsschloss von Blois, ein Juwel der Loire-Architektur. Den Tag lassen Sie entspannt an den Ufern der Loire ausklingen, mit Blick auf die historische Brücke Jacques-Gabriel.",
             "hu": "Kezdje a napot a híres Denis-Papin lépcsőnél, amelyet gyakran művészeti alkotások díszítenek. Ezután fedezze fel a fenséges Szent Lajos-székesegyházat. Délben merüljön el az illúziók világában a Bűvészet Házában, közvetlenül a kastéllyal szemben. Délután látogassa meg a Blois-i királyi kastélyt, a Loire-menti építészet ékkövét. A napot pihentető sétával zárja a Loire partján, élvezve a Jacques-Gabriel híd látványát.",
             "ro": "Începeți ziua la celebra scară Denis-Papin, adesea decorată artistic. Apoi, explorați maiestuoasa Catedrală Saint-Louis. La prânz, scufundați-vă în lumea iluziilor la Casa Magiei, situată chiar vizavi de castel. După-amiaza, vizitați Castelul Regal din Blois, o bijuterie a arhitecturii de pe Valea Loarei. Încheiați ziua cu o plimbare relaxantă pe malul Loarei, admirând podul istoric Jacques-Gabriel.",
-            "en": "Start your day at the famous Denis-Papin stairs, often decorated with art. Next, explore the majestic Saint-Louis Cathedral. At midday, dive into the world of illusions at the House of Magic, located right across from the castle. In the afternoon, visit the Royal Château of Blois, a jewel of Loire architecture. End the day with a relaxing stroll along the banks of the Loire, enjoying the view of the Jacques-Gabriel bridge."
+            "en": "Start your day at the famous Denis-Papin stairs, often decorated with art. Next, explore the majestic Saint-Louis Cathedral. At midday, dive into the world of illusions at the House of Magic, located right across from the castle. In the afternoon, visit the Royal Château of Blois, a jewel of Loire architecture. End the day with a relaxing stroll along the banks of the Loire, enjoying the view of the Jacques-Gabriel bridge.",
+            "fr": "Commencez la journée par le célèbre escalier Denis-Papin, souvent décoré d'œuvres d'art. Ensuite, explorez la majestueuse cathédrale Saint-Louis. À midi, plongez dans l'univers d'illusions de la Maison de la Magie, située en face du château. L'après-midi, visitez le Château Royal de Blois, un joyau de l'architecture ligérienne. Terminez la journée par une promenade relaxante le long des berges de la Loire, en profitant de la vue sur le pont Jacques-Gabriel."
           },
           "stops": [
             {
@@ -401,7 +402,8 @@
                 "de": "Bester Blick auf die Stadt von der Treppe.",
                 "hu": "A legszebb kilátás a városra a lépcső tetejéről.",
                 "ro": "Cea mai bună vedere asupra orașului de pe scări.",
-                "en": "Best view of the city from the top of the stairs."
+                "en": "Best view of the city from the top of the stairs.",
+                "fr": "Meilleure vue sur la ville depuis le haut de l'escalier."
               }
             },
             {
@@ -410,7 +412,8 @@
                 "de": "Besuchen Sie die Krypta aus dem 10. Jahrhundert.",
                 "hu": "Látogassa meg a 10. századi kriptát.",
                 "ro": "Vizitați cripta din secolul al X-lea.",
-                "en": "Visit the 10th-century crypt."
+                "en": "Visit the 10th-century crypt.",
+                "fr": "Visitez la crypte du Xe siècle."
               }
             },
             {
@@ -419,7 +422,8 @@
                 "de": "Achten Sie auf die Drachen, die aus den Fenstern kommen.",
                 "hu": "Figyelje a sárkányokat, amik kijönnek az ablakokon.",
                 "ro": "Atenție la dragonii care ies pe ferestre.",
-                "en": "Watch out for the dragons coming out of the windows."
+                "en": "Watch out for the dragons coming out of the windows.",
+                "fr": "Attention aux dragons qui sortent des fenêtres."
               }
             },
             {
@@ -428,7 +432,8 @@
                 "de": "Bewundern Sie die vier verschiedenen Baustile.",
                 "hu": "Csodálja meg a négy különböző építészeti stílust.",
                 "ro": "Admirați cele patru stiluri arhitecturale diferite.",
-                "en": "Admire the four different architectural styles."
+                "en": "Admire the four different architectural styles.",
+                "fr": "Admirez les quatre styles architecturaux différents."
               }
             },
             {
@@ -437,7 +442,8 @@
                 "de": "Ehemalige Abteikirche mit schöner Architektur.",
                 "hu": "Egykori apátsági templom gyönyörű építészettel.",
                 "ro": "Fostă biserică abațială cu o arhitectură frumoasă.",
-                "en": "Former abbey church with beautiful architecture."
+                "en": "Former abbey church with beautiful architecture.",
+                "fr": "Ancienne église d'abbaye à l'architecture magnifique."
               }
             },
             {
@@ -446,7 +452,8 @@
                 "de": "Perfekt für einen Spaziergang bei Sonnenuntergang.",
                 "hu": "Tökéletes hely egy naplementés sétához.",
                 "ro": "Perfect pentru o plimbare la apus.",
-                "en": "Perfect for a sunset stroll."
+                "en": "Perfect for a sunset stroll.",
+                "fr": "Parfait pour une promenade au coucher du soleil."
               }
             }
           ],
@@ -648,6 +655,13 @@
               "Buy a combined ticket for the castle and the House of Magic.",
               "The old town has many steep alleys and hidden passages.",
               "Tap water is safe and high quality here."
+            ],
+            "fr": [
+              "Blois est très vallonnée, portez des chaussures de marche confortables.",
+              "Le château accueille souvent des spectacles lumineux en soirée (Son-et-Lumière).",
+              "Achetez un billet combiné pour le château et la Maison de la Magie.",
+              "La vieille ville compte de nombreuses ruelles pentues et passages cachés.",
+              "L'eau du robinet est sûre et de grande qualité ici."
             ]
           }
         },
@@ -657,7 +671,7 @@
             "hu": "Egy esős nap Blois-ban a Denis-Papin lépcsőn kezdődik, ahonnan a kilátás felhős időben is megkapó. A katedrális menedéket nyújt a zápor elől, mielőtt elmerülnénk a bűvészet házában. A kastély királyi pompája szárazon telik a déli órákban. A délután a Saint-Nicolas templom látogatásával és egy szeles, de frissítő Loire-parti sétával zárul a szürkületben.",
             "ro": "O zi ploioasă în Blois începe cu urcarea pe scările Denis-Papin, a căror vedere este captivantă chiar și sub nori. Catedrala oferă adăpost de ploaie înainte de a intra în casa magiei. Castelul domină prânzul cu fast regal la adăpost. După-amiaza se încheie cu vizita la biserica Saint-Nicolas și o plimbare vântoasă, dar revigorantă, pe malul Loarei.",
             "en": "A rainy day in Blois begins with the climb up the Denis-Papin stairs, offering views that remain charming even under clouds. The cathedral provides shelter from showers before diving into the House of Magic. The Royal Chateau dominates midday with indoor royal splendor. The afternoon concludes with a visit to Saint-Nicolas Church and a windy but refreshing walk along the Loire banks.",
-            "fr": "Une journée pluvieuse à Blois commence par la montée des escaliers Denis-Papin, offrant des vues qui restent charmantes même sous les nuages. La cathédrale offre un abri contre les averses avant de plonger dans la Maison de la Magie. Le Château royal domine le milieu de journée avec sa splendeur royale intérieure. L'après-midi se termine par une visite de l'église Saint-Nicolas et une promenade venteuse mais rafraîchissante sur les bords de la Loire."
+            "fr": "Une journée pluvieuse à Blois commence par la montée des marches Denis-Papin, offrant des vues charmantes même sous les nuages. La cathédrale protège des averses avant de plonger dans la Maison de la Magie. Le Château Royal domine le midi avec son faste intérieur. L'après-midi se conclut par la visite de l'église Saint-Nicolas et une promenade venteuse mais vivifiante le long des berges de la Loire."
           },
           "stops": [
             {
@@ -667,7 +681,7 @@
                 "hu": "Vigyázat, a lépcsőfokok nedvesen csúszósak lehetnek; használja a korlátot.",
                 "ro": "Atenție, treptele pot fi alunecoase când sunt ude; folosiți balustrada.",
                 "en": "Caution, the steps can be slippery when wet; use the handrails.",
-                "fr": "Attention, les marches peuvent être glissantes lorsqu'elles sont mouillées ; utilisez les mains courantes."
+                "fr": "Attention, les marches peuvent être glissantes quand elles sont mouillées ; utilisez les rampes."
               }
             },
             {
@@ -677,7 +691,7 @@
                 "hu": "Tökéletes hely egy intenzív zápor nyugodt kivárásához.",
                 "ro": "Un loc perfect pentru a aștepta liniștit trecerea unei averse puternice.",
                 "en": "A perfect place to quietly wait out a heavy rain shower.",
-                "fr": "Un endroit parfait pour attendre tranquillement la fin d'une forte averse."
+                "fr": "Un endroit parfait pour attendre calmement une forte averse."
               }
             },
             {
@@ -687,7 +701,7 @@
                 "hu": "A sárkányfejek mögött interaktív kiállítások várnak, teljesen szárazon.",
                 "ro": "În spatele capetelor de dragon vă așteaptă expoziții interactive, complet la uscat.",
                 "en": "Interactive exhibits await behind the dragon heads, completely indoors.",
-                "fr": "Des expositions interactives vous attendent derrière les têtes de dragons, entièrement à l'abri."
+                "fr": "Des expositions interactives vous attendent derrière les têtes de dragon, entièrement à l'intérieur."
               }
             },
             {
@@ -697,7 +711,7 @@
                 "hu": "Használja ki a fedett udvart és a négy korszak pompás belső tereit.",
                 "ro": "Profitați de curtea interioară acoperită și de interioarele splendide din cele patru epoci.",
                 "en": "Take advantage of the covered courtyard and the splendid interiors of the four eras.",
-                "fr": "Profitez de la cour couverte et des intérieurs splendides des quatre époques."
+                "fr": "Profitez de la cour couverte et des splendides intérieurs des quatre époques."
               }
             },
             {
@@ -707,7 +721,7 @@
                 "hu": "Csodálja meg az üvegablakokat, amelyek felhős fényben különösen misztikusak.",
                 "ro": "Admirați vitraliile care par deosebit de mistice în lumina noroasă.",
                 "en": "Admire the stained glass windows, which look particularly mystical in cloudy light.",
-                "fr": "Admirez les vitraux, qui semblent particulièrement mystiques sous une lumière nuageuse."
+                "fr": "Admirez les vitraux, qui paraissent particulièrement mystiques sous une lumière nuageuse."
               }
             },
             {
@@ -717,7 +731,7 @@
                 "hu": "A Loire feletti hídon elengedhetetlen egy jó szélállóságú esernyő.",
                 "ro": "O umbrelă cu protecție bună la vânt este esențială pe podul peste Loara.",
                 "en": "An umbrella with good wind protection is essential on the bridge over the Loire.",
-                "fr": "Un parapluie avec une bonne protection contre le vent est essentiel sur le pont sur la Loire."
+                "fr": "Un parapluie bien ventilé est essentiel sur le pont au-dessus de la Loire."
               }
             }
           ],
@@ -751,11 +765,11 @@
               "The light conditions by the river are dramatic for photographers during rain."
             ],
             "fr": [
-              "Les rues étroites de Blois offrent une bonne protection contre le vent en cas de pluie.",
+              "Les rues étroites de Blois offrent un bon abri contre le vent pendant la pluie.",
               "Portez des chaussures imperméables car des flaques peuvent se former sur les pavés.",
               "Les musées de Blois sont des abris idéaux lors de précipitations persistantes.",
-              "Savourez un chocolat chaud dans les cafés près de la place du château.",
-              "La luminosité au bord du fleuve est spectaculaire pour les photographes sous la pluie."
+              "Dégustez un chocolat chaud dans les cafés près de la place du château.",
+              "Les conditions lumineuses au bord de la rivière sont dramatiques pour les photographes sous la pluie."
             ]
           }
         },
@@ -765,7 +779,7 @@
             "hu": "Télen a nap a Denis-Papin lépcsőnél kezdődik fagyos, de tiszta kilátással. A katedrális és a bűvészet háza kellemes meleget kínál a délelőtt folyamán. Délben a blois-i kastély nyugodt, téli eleganciát sugároz. A Saint-Nicolas templom után a Jacques-Gabriel hídról figyeljük a korai naplementét a Loire felett.",
             "ro": "Iarna, ziua începe la scările Denis-Papin cu vederi înghețate, dar clare. Catedrala și casa magiei oferă o căldură plăcută în timpul dimineții. La prânz, castelul Blois emană o eleganță hibernală liniștită. După biserica Saint-Nicolas, urmărim apusul timpuriu peste Loara de pe podul Jacques-Gabriel.",
             "en": "In winter, the day begins at the Denis-Papin stairs with frosty but clear views. The cathedral and the House of Magic offer cozy warmth during the morning. At midday, the Chateau of Blois radiates a calm, wintry elegance. After Saint-Nicolas Church, we watch the early sunset over the Loire from the Jacques-Gabriel Bridge.",
-            "fr": "En hiver, la journée commence aux escaliers Denis-Papin avec des vues givrées mais dégagées. La cathédrale et la Maison de la Magie offrent une chaleur accueillante pendant la matinée. À la mi-journée, le Château de Blois rayonne d'une élégance hivernale calme. Après l'église Saint-Nicolas, nous observons le coucher de soleil précoce sur la Loire depuis le pont Jacques-Gabriel."
+            "fr": "En hiver, la journée commence aux marches Denis-Papin avec des vues givrés mais dégagées. La cathédrale et la Maison de la Magie offrent une chaleur réconfortante le matin. À midi, le Château de Blois dégage une élégance hivernale paisible. Après l'église Saint-Nicolas, nous contemplons le coucher de soleil précoce sur la Loire depuis le pont Jacques-Gabriel."
           },
           "stops": [
             {
@@ -785,7 +799,7 @@
                 "hu": "A csend helyszíne, ahol a séták között rövid időre felmelegedhet.",
                 "ro": "Un loc al liniștii unde vă puteți încălzi scurt timp între plimbări.",
                 "en": "A place of silence to warm up briefly between walks.",
-                "fr": "Un lieu de silence pour se réchauffer brièvement entre deux promenades."
+                "fr": "Un lieu de silence pour se réchauffer brièvement entre deux balades."
               }
             },
             {
@@ -795,7 +809,7 @@
                 "hu": "Élvezze a beltéri előadásokat, amíg kint hideg van.",
                 "ro": "Bucurați-vă de spectacolele de interior în timp ce afară este frig.",
                 "en": "Enjoy the indoor performances while it is cold outside.",
-                "fr": "Profitez des spectacles en intérieur pendant qu'il fait froid dehors."
+                "fr": "Profitez des spectacles intérieurs pendant qu'il fait froid dehors."
               }
             },
             {
@@ -805,7 +819,7 @@
                 "hu": "Télen a termek pompás kandallói különösen hangulatosak.",
                 "ro": "Iarna, șemineele splendide din săli sunt deosebit de atmosferice.",
                 "en": "In winter, the magnificent fireplaces in the rooms are particularly atmospheric.",
-                "fr": "En hiver, les magnifiques cheminées des salles sont particulièrement atmosphériques."
+                "fr": "En hiver, les magnifiques cheminées dans les salons sont particulièrement atmosphériques."
               }
             },
             {
@@ -815,7 +829,7 @@
                 "hu": "A román stílusú építészet a téli nyugalomban különösen erőteljesnek hat.",
                 "ro": "Arhitectura romanică pare deosebit de puternică în liniștea iernii.",
                 "en": "The Romanesque architecture feels particularly powerful in the winter calm.",
-                "fr": "L'architecture romane semble particulièrement puissante dans le calme de l'hiver."
+                "fr": "L'architecture romane paraît particulièrement puissante dans le calme hivernal."
               }
             },
             {
@@ -825,7 +839,7 @@
                 "hu": "Legyen itt 17:00 körül, hogy lássa a téli fényeket a folyón.",
                 "ro": "Fiți aici în jurul orei 17:00 pentru a vedea lumina de iarnă pe râu.",
                 "en": "Be here around 17:00 to see the winter light on the river.",
-                "fr": "Soyez ici vers 17h00 pour voir la lumière hivernale sur le fleuve."
+                "fr": "Soyez ici vers 17:00 pour voir la lumière hivernale sur la rivière."
               }
             }
           ],
@@ -859,11 +873,11 @@
               "Check opening hours as some attractions close earlier in winter."
             ],
             "fr": [
-              "Le soleil se couche à Blois vers 17h00 en hiver.",
-              "De nombreux bâtiments historiques sont frais à l'intérieur, habillez-vous avec plusieurs couches.",
-              "Des boissons chaudes vous attendent dans les charmants salons de thé de la vieille ville.",
-              "Les brumes matinales sur la Loire offrent une atmosphère mystique pour les photos.",
-              "Vérifiez les horaires d'ouverture car certaines attractions ferment plus tôt en hiver."
+              "Le soleil se couche à Blois vers 17:00 en hiver.",
+              "Beaucoup de bâtiments historiques sont frais à l'intérieur, habillez-vous en couches.",
+              "Des boissons chaudes se trouvent dans les charmants salons de thé de la vieille ville.",
+              "Les brumes matinales de la Loire offrent une atmosphère mystique pour les photos.",
+              "Vérifiez les heures d'ouverture car certaines attractions ferment plus tôt en hiver."
             ]
           }
         }
@@ -893,7 +907,7 @@
             "hu": "Biztonságos kerékpárparkoló a bejáratnál.",
             "ro": "Parcare securizată pentru biciclete la intrare.",
             "en": "Secure bike parking at the entrance.",
-            "fr": "Parking à vélos sécurisé à l'entrée."
+            "fr": "Parking sécurisé pour vélos à l'entrée."
           }
         },
         {
@@ -978,7 +992,7 @@
         "hu": "Fedezze fel Blois-t és környékét két keréken. A kastélylátogatás után keljen át a Loire-on, és kövesse a híres 'Loire à Vélo' útvonalat. Kerekezzen el a festői Saint-Dyé-sur-Loire faluba, amely egykor a chambord-i építkezés kikötője volt. Élvezze a folyópart érintetlen természetét, mielőtt visszatérne Blois óvárosába egy kávéra.",
         "ro": "Explorați Blois și împrejurimile sale pe două roți. După vizitarea castelului, traversați Loara și urmați celebrul traseu 'Loire à Vélo'. Pedalati până în satul pitoresc Saint-Dyé-sur-Loire, portul istoric pentru șantierul de la Chambord. Bucurați-vă de natura virgină a malului râului înainte de a vă întoarce în centrul vechi din Blois pentru o cafea.",
         "en": "Explore Blois and its surroundings on two wheels. After visiting the castle, cross the Loire and follow the famous 'Loire à Vélo' route downstream. Cycle to the picturesque village of Saint-Dyé-sur-Loire, the historic port for the Chambord construction site. Enjoy the untouched nature of the riverbank before returning to Blois old town for a coffee.",
-        "fr": "Explorez Blois et ses environs sur deux roues. Après avoir visité le château, traversez la Loire et suivez le célèbre itinéraire « La Loire à Vélo » en aval. Pédalez jusqu'au village pittoresque de Saint-Dyé-sur-Loire, port historique pour le chantier de Chambord. Profitez de la nature préservée des berges avant de revenir dans la vieille ville de Blois pour un café."
+        "fr": "Explorez Blois et ses environs à vélo. Après la visite du château, traversez la Loire et suivez la célèbre route « Loire à Vélo » en aval. Roulez jusqu’au pittoresque village de Saint-Dyé-sur-Loire, l’ancien port historique du chantier de construction de Chambord. Profitez de la nature intacte des berges avant de retourner dans le centre historique de Blois pour un café."
       },
       "gastro_picks": {
         "de": [
@@ -1156,11 +1170,11 @@
           "Helmets are mandatory for children under 12."
         ],
         "fr": [
-          "Suivez les panneaux verts de l'itinéraire La Loire à Vélo.",
-          "Blois compte de nombreuses rues à sens unique, surveillez bien les panneaux.",
-          "Prenez assez d'eau avec vous, surtout en été.",
-          "Le pont dispose d'une piste cyclable dédiée.",
-          "Le casque est obligatoire pour les enfants de moins de 12 ans."
+          "Suivez les panneaux verts de la route Loire à Vélo.",
+          "Blois compte de nombreuses rues à sens unique, regardez bien la signalisation.",
+          "Emportez suffisamment d’eau, surtout en été.",
+          "Le pont dispose d’une piste cyclable dédiée.",
+          "Le port du casque est obligatoire pour les enfants de moins de 12 ans."
         ]
       },
       "variants": {
@@ -1169,7 +1183,8 @@
             "de": "Erkunden Sie Blois und seine Umgebung auf zwei Rädern. Nach dem Schlossbesuch überqueren Sie die Loire und folgen der berühmten 'Loire à Vélo' Route flussabwärts. Radeln Sie bis zum malerischen Dorf Saint-Dyé-sur-Loire, dem historischen Hafen für die Baustelle von Chambord. Genießen Sie die unberührte Natur des Flussufers, bevor Sie für einen Kaffee in die Altstadt von Blois zurückkehren.",
             "hu": "Fedezze fel Blois-t és környékét két keréken. A kastélylátogatás után keljen át a Loire-on, és kövesse a híres 'Loire à Vélo' útvonalat. Kerekezzen el a festői Saint-Dyé-sur-Loire faluba, amely egykor a chambord-i építkezés kikötője volt. Élvezze a folyópart érintetlen természetét, mielőtt visszatérne Blois óvárosába egy kávéra.",
             "ro": "Explorați Blois și împrejurimile sale pe două roți. După vizitarea castelului, traversați Loara și urmați celebrul traseu 'Loire à Vélo'. Pedalati până în satul pitoresc Saint-Dyé-sur-Loire, portul istoric pentru șantierul de la Chambord. Bucurați-vă de natura virgină a malului râului înainte de a vă întoarce în centrul vechi din Blois pentru o cafea.",
-            "en": "Explore Blois and its surroundings on two wheels. After visiting the castle, cross the Loire and follow the famous 'Loire à Vélo' route downstream. Cycle to the picturesque village of Saint-Dyé-sur-Loire, the historic port for the Chambord construction site. Enjoy the untouched nature of the riverbank before returning to Blois old town for a coffee."
+            "en": "Explore Blois and its surroundings on two wheels. After visiting the castle, cross the Loire and follow the famous 'Loire à Vélo' route downstream. Cycle to the picturesque village of Saint-Dyé-sur-Loire, the historic port for the Chambord construction site. Enjoy the untouched nature of the riverbank before returning to Blois old town for a coffee.",
+            "fr": "Explorez Blois et ses environs à vélo. Après la visite du château, traversez la Loire et suivez la célèbre route « Loire à Vélo » en aval. Roulez jusqu’au pittoresque village de Saint-Dyé-sur-Loire, l’ancien port historique du chantier de construction de Chambord. Profitez de la nature intacte des berges avant de retourner dans le centre historique de Blois pour un café."
           },
           "stops": [
             {
@@ -1178,7 +1193,8 @@
                 "de": "Sicherer Fahrradparkplatz am Eingang.",
                 "hu": "Biztonságos kerékpárparkoló a bejáratnál.",
                 "ro": "Parcare securizată pentru biciclete la intrare.",
-                "en": "Secure bike parking at the entrance."
+                "en": "Secure bike parking at the entrance.",
+                "fr": "Parking vélo sécurisé à l’entrée."
               }
             },
             {
@@ -1187,7 +1203,8 @@
                 "de": "Überqueren Sie die Loire für das klassische Panorama.",
                 "hu": "Kerekezzen át a Loire-on a klasszikus panorámáért.",
                 "ro": "Traversați Loara pentru panorama clasică.",
-                "en": "Cross the Loire for the classic panorama."
+                "en": "Cross the Loire for the classic panorama.",
+                "fr": "Traversez la Loire pour le panorama classique."
               }
             },
             {
@@ -1196,7 +1213,8 @@
                 "de": "Flache und gut ausgeschilderte Wege am Fluss.",
                 "hu": "Lapos és jól kitáblázott utak a folyó mentén.",
                 "ro": "Trasee plate și bine semnalizate pe malul râului.",
-                "en": "Flat and well-signed paths along the river."
+                "en": "Flat and well-signed paths along the river.",
+                "fr": "Pistes plates et bien balisées le long du fleuve."
               }
             },
             {
@@ -1205,7 +1223,8 @@
                 "de": "Besuchen Sie den alten Hafen von Chambord.",
                 "hu": "Látogassa meg Chambord egykori kikötőjét.",
                 "ro": "Vizitați vechiul port al castelului Chambord.",
-                "en": "Visit the old port of Chambord."
+                "en": "Visit the old port of Chambord.",
+                "fr": "Visitez l’ancien port de Chambord."
               }
             },
             {
@@ -1214,7 +1233,8 @@
                 "de": "Schieben Sie das Rad durch die Fußgängerzonen.",
                 "hu": "Tolja a biciklit a sétálóutcákban.",
                 "ro": "Împingeți bicicleta prin zonele pietonale.",
-                "en": "Push your bike through the pedestrian zones."
+                "en": "Push your bike through the pedestrian zones.",
+                "fr": "Poussez votre vélo dans les zones piétonnes."
               }
             }
           ],
@@ -1364,6 +1384,13 @@
               "Take enough water with you, especially in summer.",
               "The bridge has a dedicated bike lane.",
               "Helmets are mandatory for children under 12."
+            ],
+            "fr": [
+              "Suivez les panneaux verts de la route Loire à Vélo.",
+              "Blois compte de nombreuses rues à sens unique, regardez bien la signalisation.",
+              "Emportez suffisamment d’eau, surtout en été.",
+              "Le pont dispose d’une piste cyclable dédiée.",
+              "Le port du casque est obligatoire pour les enfants de moins de 12 ans."
             ]
           }
         },
@@ -1373,7 +1400,7 @@
             "hu": "Az eső ellenére a biciklitúra a blois-i kastélynál indul. Átkelünk a hídon és a Loire à Vélo útvonalat követjük a déli parton, ahol a fák némi védelmet nyújtanak. Saint-Dyé-sur-Loire-ban tartunk egy pihenőt száraz helyen, mielőtt visszatérnénk a vizes, de hangulatos óvárosba.",
             "ro": "În ciuda ploii, turul cu bicicleta începe la castelul Blois. Traversăm podul și urmăm ruta Loire à Vélo pe malul sudic, unde copacii oferă puțin adăpost. În Saint-Dyé-sur-Loire facem o pauză la uscat înainte de a ne întoarce prin vechiul Blois umed, dar atmosferic.",
             "en": "Despite the rain, the bike tour starts at the Chateau of Blois. We cross the bridge and follow the Loire à Vélo route on the south bank, where trees offer some shelter. In Saint-Dyé-sur-Loire, we take a break indoors before returning through the wet but atmospheric old Blois.",
-            "fr": "Malgré la pluie, le tour à vélo commence au Château de Blois. Nous traversons le pont et suivons l'itinéraire de la Loire à Vélo sur la rive sud, où les arbres offrent un certain abri. À Saint-Dyé-sur-Loire, nous faisons une pause à l'intérieur avant de revenir par le vieux Blois, humide mais atmosphérique."
+            "fr": "Malgré la pluie, la balade à vélo commence au château de Blois. Nous traversons le pont et suivons la Loire à Vélo sur la rive sud, où les arbres offrent un certain abri. À Saint-Dyé-sur-Loire, nous faisons une pause à l’intérieur avant de revenir par le vieux Blois humide mais atmosphérique."
           },
           "stops": [
             {
@@ -1383,7 +1410,7 @@
                 "hu": "Használja a bejárat közeli kerékpártárolókat és tegye el az esőruházatot.",
                 "ro": "Folosiți suporturile de biciclete de lângă intrare și depozitați hainele de ploaie.",
                 "en": "Use the bike racks near the entrance and store your rain gear.",
-                "fr": "Utilisez les arceaux à vélos près de l'entrée et rangez vos vêtements de pluie."
+                "fr": "Utilisez les arceaux à vélos près de l’entrée et rangez votre équipement de pluie."
               }
             },
             {
@@ -1393,7 +1420,7 @@
                 "hu": "Ügyeljen az oldalszélre és az elhaladó autók által felvert vízre.",
                 "ro": "Atenție la vântul lateral și la apa împroșcată de mașinile care trec.",
                 "en": "Watch out for crosswinds and spray from passing cars.",
-                "fr": "Attention aux vents de travers et aux projections des voitures qui passent."
+                "fr": "Attention aux vents latéraux et aux projections des voitures qui passent."
               }
             },
             {
@@ -1403,7 +1430,7 @@
                 "hu": "Az út sáros lehet; vezessen óvatosan a nem aszfaltozott szakaszokon.",
                 "ro": "Drumul poate fi noroios; conduceți cu atenție pe porțiunile neasfaltate.",
                 "en": "The path can be muddy; ride carefully on unpaved sections.",
-                "fr": "Le sentier peut être boueux ; roulez prudemment sur les sections non goudronnées."
+                "fr": "Le chemin peut être boueux ; roulez prudemment sur les sections non goudronnées."
               }
             },
             {
@@ -1413,7 +1440,7 @@
                 "hu": "Keressen fel egy kis fogadót egy forró italra a szárazban.",
                 "ro": "Căutați un mic han pentru o băutură caldă la uscat.",
                 "en": "Look for a small inn for a warm drink indoors.",
-                "fr": "Cherchez une petite auberge pour une boisson chaude à l'intérieur."
+                "fr": "Cherchez une petite auberge pour une boisson chaude à l’intérieur."
               }
             },
             {
@@ -1423,7 +1450,7 @@
                 "hu": "Vigyázat a macskakövön; nedvesen rendkívül csúszós a gumiabroncsoknak.",
                 "ro": "Atenție pe piatra cubică; este extrem de alunecoasă pentru anvelope când e udă.",
                 "en": "Caution on the cobblestones; they are extremely slippery for tires when wet.",
-                "fr": "Attention aux pavés ; ils sont extrêmement glissants pour les pneus lorsqu'ils sont mouillés."
+                "fr": "Prudence sur les pavés ; ils sont extrêmement glissants pour les pneus quand ils sont mouillés."
               }
             }
           ],
@@ -1457,11 +1484,11 @@
               "The route along the Loire is well-signposted, even in poor visibility."
             ],
             "fr": [
-              "Portez un équipement de pluie complet, y compris des couvre-chaussures.",
-              "Réduisez légèrement la pression des pneus pour une meilleure adhérence sur l'asphalte mouillé.",
-              "Augmentez les distances de freinage, car les freins sur jante réagissent plus lentement sous la pluie.",
-              "Utilisez des garde-boue pour vous protéger des projections de saleté.",
-              "L'itinéraire le long de la Loire est bien balisé, même en cas de mauvaise visibilité."
+              "Portez une tenue de pluie complète, y compris des couvre-chaussures.",
+              "Diminuez légèrement la pression des pneus pour une meilleure adhérence sur l’asphalte mouillé.",
+              "Gardez des distances de freinage plus longues, car les freins sur jante réagissent plus lentement quand ils sont mouillés.",
+              "Utilisez des garde-boue pour vous protéger des projections de boue.",
+              "La route le long de la Loire est bien balisée, même par faible visibilité."
             ]
           }
         },
@@ -1471,7 +1498,7 @@
             "hu": "A téli biciklitúra frissen indul a blois-i kastélynál. A hídon át a Loire-útvonalra hajtunk, ahol a zúzmara csillog a réteken. Saint-Dyé-sur-Loire-ban élvezzük a falu tiszta levegőjét, mielőtt sötétedés előtt visszatérnénk a történelmi Blois-ba.",
             "ro": "Turul de iarnă cu bicicleta pornește proaspăt de la castelul Blois. Peste pod mergem pe ruta Loarei, unde chiciura strălucește pe pajiști. În Saint-Dyé-sur-Loire ne bucurăm de aerul curat al satului înainte de a ne întoarce în Blois-ul istoric înainte de lăsarea întunericului.",
             "en": "The winter bike tour starts fresh at the Chateau of Blois. Over the bridge to the Loire route, where frost sparkles on the meadows. In Saint-Dyé-sur-Loire, we enjoy the village's crisp air before returning through historic Blois before dark.",
-            "fr": "Le tour à vélo hivernal commence dans la fraîcheur au Château de Blois. Traversée du pont vers l'itinéraire de la Loire, où le givre scintille sur les prairies. À Saint-Dyé-sur-Loire, nous profitons de l'air vif du village avant de revenir par le Blois historique avant la tombée de la nuit."
+            "fr": "La balade hivernale à vélo commence au frais au château de Blois. Nous franchissons le pont pour rejoindre la Loire, où le gel scintille sur les prés. À Saint-Dyé-sur-Loire, nous profitons de l’air vif du village avant de revenir à travers le Blois historique avant la nuit."
           },
           "stops": [
             {
@@ -1481,7 +1508,7 @@
                 "hu": "A biztonságosabb utak érdekében csak a reggeli fagy után kezdje a túrát.",
                 "ro": "Începeți turul abia după înghețul dimineții pentru drumuri mai sigure.",
                 "en": "Start the tour only after the morning frost for safer paths.",
-                "fr": "Ne commencez le tour qu'après la dissipation du givre matinal pour des sentiers plus sûrs."
+                "fr": "Commencez la balade seulement après la gelée matinale pour des chemins plus sûrs."
               }
             },
             {
@@ -1491,7 +1518,7 @@
                 "hu": "A hídon fújó szél jelentősen csökkentheti a hőérzetet.",
                 "ro": "Vântul de pe pod poate scădea semnificativ temperatura resimțită.",
                 "en": "The wind on the bridge can significantly lower the perceived temperature.",
-                "fr": "Le vent sur le pont peut faire baisser considérablement la température ressentie."
+                "fr": "Le vent sur le pont peut abaisser considérablement la température ressentie."
               }
             },
             {
@@ -1501,7 +1528,7 @@
                 "hu": "Élvezze a távoli kilátást a folyó menti lomb nélküli fákon keresztül.",
                 "ro": "Bucurați-vă de vederea largă prin copacii fără frunze de-a lungul râului.",
                 "en": "Enjoy the wide views through the leafless trees along the river.",
-                "fr": "Profitez des larges vues à travers les arbres sans feuilles le long du fleuve."
+                "fr": "Appréciez les larges vues au travers des arbres sans feuilles le long du fleuve."
               }
             },
             {
@@ -1511,7 +1538,7 @@
                 "hu": "Melegítse fel a kezeit, mielőtt elindulna visszafelé.",
                 "ro": "Încălziți-vă mâinile înainte de a porni pe drumul de întoarcere.",
                 "en": "Warm up your hands before starting the return journey.",
-                "fr": "Réchauffez vos mains avant d'entamer le voyage de retour."
+                "fr": "Réchauffez vos mains avant d’entamer le trajet de retour."
               }
             },
             {
@@ -1521,7 +1548,7 @@
                 "hu": "Ügyeljen a macskakőre, amely az árnyékban tovább maradhat csúszós.",
                 "ro": "Atenție la piatra cubică, care poate rămâne alunecoasă mai mult timp la umbră.",
                 "en": "Watch out for cobblestones, which can stay slippery longer in the shade.",
-                "fr": "Attention aux pavés qui peuvent rester glissants plus longtemps à l'ombre."
+                "fr": "Attention aux pavés, qui peuvent rester glissants plus longtemps à l’ombre."
               }
             }
           ],
@@ -1555,11 +1582,11 @@
               "Paths are often emptier in winter, enjoy the solitude."
             ],
             "fr": [
-              "Habillez-vous en plusieurs couches avec une protection extérieure coupe-vent.",
-              "Utilisez des gants et un bonnet sous votre casque.",
-              "Assurez-vous que vos lumières de vélo fonctionnent pour le début de soirée.",
-              "Restez hydraté même si vous ressentez moins la soif avec le froid.",
-              "Les sentiers sont souvent plus déserts en hiver, profitez de la solitude."
+              "Habillez-vous en couche avec une couche extérieure coupe-vent.",
+              "Portez des gants et une sous-casque ou bonnet sous votre casque.",
+              "Vérifiez que vos éclairages de vélo fonctionnent pour la fin d’après-midi.",
+              "Restez hydraté même si vous avez moins soif par temps froid.",
+              "Les chemins sont souvent plus vides en hiver, profitez de la solitude."
             ]
           }
         }
@@ -1608,7 +1635,7 @@
             "hu": "A Loire legnagyobb kastélya. A kettős lépcsőt látni kell.",
             "ro": "Cel mai mare castel de pe Loara. Scara dublă este un 'must'.",
             "en": "The largest Loire castle. The double helix staircase is a must-see.",
-            "fr": "Le plus grand château de la Loire. L'escalier à double révolution est à voir absolument."
+            "fr": "Le plus grand château de la Loire. L’escalier à double hélice est un incontournable."
           }
         },
         {
@@ -1627,7 +1654,7 @@
             "hu": "Tintin kastélyának ihletője. Pazar belső tér.",
             "ro": "Inspirația pentru castelul lui Tintin. Interior superb.",
             "en": "Inspiration for Tintin's Marlinspike Hall. Great interior.",
-            "fr": "Inspiration pour le château de Moulinsart de Tintin. Intérieur superbe."
+            "fr": "Inspiration pour le Moulinsart de Tintin. Superbe intérieur."
           }
         },
         {
@@ -1655,7 +1682,7 @@
         "hu": "Autóval elérheti a régió leglátványosabb kastélyait. A blois-i kezdés után hajtson a monumentális Chambord-hoz, a reneszánsz remekműhöz. Ezután folytassa útját Cheverny-be, amely tökéletesen megőrzött berendezéséről és kutyáiról híres. Végezetül látogassa meg Blois modern bazilikáját, mielőtt a városközpontban vacsorázna.",
         "ro": "Cu mașina puteți ajunge la cele mai spectaculoase castele din regiune. După plecarea din Blois, conduceți spre monumentalul Chambord, o capodoperă a Renașterii. Apoi continuați spre Cheverny, renumit pentru interiorul său perfect conservat și haita de câini. La final, vizitați bazilica modernă din Blois înainte de a vă bucura de seară în centrul orașului.",
         "en": "By car, you can reach the most spectacular castles in the region. After starting in Blois, drive to the monumental Chambord, a Renaissance masterpiece. Then continue to Cheverny, famous for its perfectly preserved interior and its hunting dogs. Finally, visit the modern basilica of Blois before enjoying the evening in the city center.",
-        "fr": "En voiture, vous pouvez accéder aux châteaux les plus spectaculaires de la région. Après un départ à Blois, conduisez jusqu'au monumental Chambord, chef-d'œuvre de la Renaissance. Continuez ensuite vers Cheverny, célèbre pour son intérieur parfaitement conservé et ses chiens de chasse. Enfin, visitez la basilique moderne de Blois avant de profiter de la soirée en centre-ville."
+        "fr": "En voiture, vous pouvez rejoindre les châteaux les plus spectaculaires de la région. Après un départ de Blois, conduisez jusqu’au monumental Chambord, un chef-d’œuvre de la Renaissance. Poursuivez ensuite vers Cheverny, célèbre pour son intérieur parfaitement préservé et ses chiens de chasse. Enfin, visitez la basilique moderne de Blois avant de profiter de la soirée au centre-ville."
       },
       "gastro_picks": {
         "de": [
@@ -1833,11 +1860,11 @@
           "In Blois, the underground car park next to the castle is best."
         ],
         "fr": [
-          "Le stationnement aux châteaux est souvent payant.",
-          "Réservez vos billets pour Chambord en ligne à l'avance.",
+          "Le stationnement aux châteaux n’est souvent pas gratuit.",
+          "Réservez vos billets pour Chambord en ligne à l’avance.",
           "Les routes entre les châteaux sont très pittoresques.",
-          "Attention à la faune sauvage dans les zones forestières.",
-          "À Blois, le parking souterrain à côté du château est le plus pratique."
+          "Attention à la faune dans les zones forestières.",
+          "À Blois, le parking souterrain à côté du château est le meilleur."
         ]
       },
       "variants": {
@@ -1846,7 +1873,8 @@
             "de": "Mit dem Auto erreichen Sie die spektakulärsten Schlösser der Region. Nach dem Start in Blois fahren Sie zum monumentalen Chambord, einem Meisterwerk der Renaissance. Danach geht es weiter nach Cheverny, bekannt für seine perfekt erhaltene Einrichtung und die Hundemeute. Zum Abschluss besuchen Sie die moderne Basilika von Blois, bevor Sie den Abend im Stadtzentrum genießen.",
             "hu": "Autóval elérheti a régió leglátványosabb kastélyait. A blois-i kezdés után hajtson a monumentális Chambord-hoz, a reneszánsz remekműhöz. Ezután folytassa útját Cheverny-be, amely tökéletesen megőrzött berendezéséről és kutyáiról híres. Végezetül látogassa meg Blois modern bazilikáját, mielőtt a városközpontban vacsorázna.",
             "ro": "Cu mașina puteți ajunge la cele mai spectaculoase castele din regiune. După plecarea din Blois, conduceți spre monumentalul Chambord, o capodoperă a Renașterii. Apoi continuați spre Cheverny, renumit pentru interiorul său perfect conservat și haita de câini. La final, vizitați bazilica modernă din Blois înainte de a vă bucura de seară în centrul orașului.",
-            "en": "By car, you can reach the most spectacular castles in the region. After starting in Blois, drive to the monumental Chambord, a Renaissance masterpiece. Then continue to Cheverny, famous for its perfectly preserved interior and its hunting dogs. Finally, visit the modern basilica of Blois before enjoying the evening in the city center."
+            "en": "By car, you can reach the most spectacular castles in the region. After starting in Blois, drive to the monumental Chambord, a Renaissance masterpiece. Then continue to Cheverny, famous for its perfectly preserved interior and its hunting dogs. Finally, visit the modern basilica of Blois before enjoying the evening in the city center.",
+            "fr": "En voiture, vous pouvez rejoindre les châteaux les plus spectaculaires de la région. Après un départ de Blois, conduisez jusqu’au monumental Chambord, un chef-d’œuvre de la Renaissance. Poursuivez ensuite vers Cheverny, célèbre pour son intérieur parfaitement préservé et ses chiens de chasse. Enfin, visitez la basilique moderne de Blois avant de profiter de la soirée au centre-ville."
           },
           "stops": [
             {
@@ -1855,7 +1883,8 @@
                 "de": "Parkhaus 'Château' ist direkt daneben.",
                 "hu": "A 'Château' parkolóház közvetlenül mellette van.",
                 "ro": "Parcarea supraetajată 'Château' este chiar lângă.",
-                "en": "The 'Château' parking garage is right next door."
+                "en": "The 'Château' parking garage is right next door.",
+                "fr": "Le parking « Château » est juste à côté."
               }
             },
             {
@@ -1864,7 +1893,8 @@
                 "de": "Das größte Schloss der Loire. Unbedingt die Treppe sehen.",
                 "hu": "A Loire legnagyobb kastélya. A kettős lépcsőt látni kell.",
                 "ro": "Cel mai mare castel de pe Loara. Scara dublă este un 'must'.",
-                "en": "The largest Loire castle. The double helix staircase is a must-see."
+                "en": "The largest Loire castle. The double helix staircase is a must-see.",
+                "fr": "Le plus grand château de la Loire. L’escalier à double hélice est un incontournable."
               }
             },
             {
@@ -1873,7 +1903,8 @@
                 "de": "Inspiration für 'Tim und Struppi'. Tolle Inneneinrichtung.",
                 "hu": "Tintin kastélyának ihletője. Pazar belső tér.",
                 "ro": "Inspirația pentru castelul lui Tintin. Interior superb.",
-                "en": "Inspiration for Tintin's Marlinspike Hall. Great interior."
+                "en": "Inspiration for Tintin's Marlinspike Hall. Great interior.",
+                "fr": "Inspiration pour le Moulinsart de Tintin. Superbe intérieur."
               }
             },
             {
@@ -1882,7 +1913,8 @@
                 "de": "Moderne Basilika mit beeindruckendem Glockenturm.",
                 "hu": "Modern bazilika lenyűgöző harangtoronnyal.",
                 "ro": "Bazilică modernă cu un turn clopotniță impresionant.",
-                "en": "Modern basilica with an impressive bell tower."
+                "en": "Modern basilica with an impressive bell tower.",
+                "fr": "Basilique moderne avec un clocher impressionnant."
               }
             }
           ],
@@ -2032,6 +2064,13 @@
               "The roads between the castles are very scenic.",
               "Watch out for wildlife in the forested areas.",
               "In Blois, the underground car park next to the castle is best."
+            ],
+            "fr": [
+              "Le stationnement aux châteaux n’est souvent pas gratuit.",
+              "Réservez vos billets pour Chambord en ligne à l’avance.",
+              "Les routes entre les châteaux sont très pittoresques.",
+              "Attention à la faune dans les zones forestières.",
+              "À Blois, le parking souterrain à côté du château est le meilleur."
             ]
           }
         },
@@ -2041,7 +2080,7 @@
             "hu": "Egy esős nap az autóban kényelmes utazást tesz lehetővé a nagy kastélyokhoz. A blois-i kastélynál kezdünk, majd a monumentális Chambord-ba hajtunk, ahol a belső terek órákig tartó védelmet nyújtanak. Délután a barátságos Cheverny-t látogatjuk meg, és a Notre-Dame de la Trinité bazilikánál zárjuk a napot.",
             "ro": "O zi ploioasă în mașină permite o călătorie confortabilă către marile castele. Începem la castelul Blois și conducem spre monumentalul Chambord, unde interioarele oferă adăpost ore întregi. După-amiaza vizităm primitorul Cheverny și încheiem ziua la bazilica Notre-Dame de la Trinité.",
             "en": "A rainy day by car allows for a comfortable journey to the grand chateaux. We start at the Chateau of Blois and drive to monumental Chambord, where the interiors provide hours of shelter. In the afternoon, we visit cozy Cheverny and end the day at the Basilica of Notre-Dame de la Trinité.",
-            "fr": "Une journée pluvieuse en voiture permet un trajet confortable vers les grands châteaux. Nous commençons au Château de Blois et nous rendons au monumental Chambord, où les intérieurs offrent des heures d'abri. L'après-midi, nous visitons le chaleureux Cheverny et terminons la journée à la basilique Notre-Dame de la Trinité."
+            "fr": "Une journée pluvieuse en voiture permet un trajet confortable vers les grands châteaux. Nous commençons au château de Blois et conduisons jusqu’au monumental Chambord, où les intérieurs offrent des heures d’abri. L’après-midi, nous visitons le chaleureux Cheverny et terminons la journée à la basilique Notre-Dame de la Trinité."
           },
           "stops": [
             {
@@ -2051,7 +2090,7 @@
                 "hu": "Használja a 'Château' parkolóházat, hogy szárazon jusson a bejárathoz.",
                 "ro": "Folosiți parcarea subterană 'Château' pentru a ajunge la intrare fără a vă uda.",
                 "en": "Use the 'Château' parking garage to reach the entrance while staying dry.",
-                "fr": "Utilisez le parking « Château » pour rejoindre l'entrée tout en restant au sec."
+                "fr": "Utilisez le parking « Château » pour atteindre l’entrée sans vous mouiller."
               }
             },
             {
@@ -2061,7 +2100,7 @@
                 "hu": "A parkoló közel van a kastélyhoz, egy rövid sprint az esőben elég.",
                 "ro": "Parcarea este aproape de castel, un scurt sprint prin ploaie este suficient.",
                 "en": "The parking lot is close to the chateau; a short sprint in the rain will suffice.",
-                "fr": "Le parking est proche du château ; un court sprint sous la pluie suffira."
+                "fr": "Le parking est proche du château ; un petit sprint sous la pluie suffit."
               }
             },
             {
@@ -2071,7 +2110,7 @@
                 "hu": "Látogassa meg a 'Tintin kalandjai' kiállítást a szárazban.",
                 "ro": "Vizitați expoziția 'Aventurile lui Tintin' la adăpost.",
                 "en": "Visit the 'Adventures of Tintin' exhibition indoors.",
-                "fr": "Visitez l'exposition sur les aventures de Tintin à l'intérieur."
+                "fr": "Visitez l’exposition « Les Aventures de Tintin » à l’intérieur."
               }
             },
             {
@@ -2081,7 +2120,7 @@
                 "hu": "A bazilika előtti parkolók megkönnyítik a látogatást szakadó esőben.",
                 "ro": "Locurile de parcare direct în fața bazilicii facilitează vizita pe ploaie torențială.",
                 "en": "Parking spots directly in front of the basilica make visiting easier in heavy rain.",
-                "fr": "Des places de parking juste devant la basilique facilitent la visite sous une forte pluie."
+                "fr": "Des places de parking juste devant la basilique facilitent la visite sous forte pluie."
               }
             }
           ],
@@ -2115,10 +2154,10 @@
               "Allow a little more time for the drive between Chambord and Cheverny."
             ],
             "fr": [
-              "Conduisez prudemment sur les routes de campagne car l'eau peut s'accumuler sur la chaussée.",
-              "Gardez un parapluie à portée de main dans le vide-poche de votre portière.",
-              "Utilisez les parkings couverts du centre-ville de Blois.",
-              "Les châteaux proposent des casiers pour les manteaux humides et les parapluies.",
+              "Conduisez prudemment sur les routes de campagne car l’eau peut s’accumuler sur la chaussée.",
+              "Gardez un parapluie à portée de main dans la porte de la voiture.",
+              "Utilisez les parkings souterrains du centre-ville de Blois.",
+              "Les châteaux proposent des consignes pour les manteaux et parapluies mouillés.",
               "Prévoyez un peu plus de temps pour le trajet entre Chambord et Cheverny."
             ]
           }
@@ -2129,7 +2168,7 @@
             "hu": "A téli kastélylátogatások autóval kényelmet és meleget nyújtanak. A blois-i kastélynál kezdünk, majd a fagyos Sologne-on át a fenséges Chambord-hoz hajtunk. Délután Cheverny ünnepi hangulatot áraszt, mielőtt a Notre-Dame de la Trinité bazilikánál zárnánk a napot.",
             "ro": "Vizitele de iarnă la castele cu mașina oferă confort și căldură. Începem la castelul Blois și conducem prin Sologne înghețată către maiestuosul Chambord. După-amiaza, Cheverny se arată într-o stare festivă înainte de a încheia ziua la bazilica Notre-Dame de la Trinité.",
             "en": "Winter chateau visits by car offer comfort and warmth. We start at the Chateau of Blois and drive through frosty Sologne to majestic Chambord. In the afternoon, Cheverny shows its festive mood before we conclude at the Basilica of Notre-Dame de la Trinité.",
-            "fr": "Les visites de châteaux en hiver en voiture offrent confort et chaleur. Nous commençons au Château de Blois et traversons la Sologne givrée jusqu'au majestueux Chambord. L'après-midi, Cheverny affiche son ambiance festive avant de conclure à la basilique Notre-Dame de la Trinité."
+            "fr": "Les visites hivernales des châteaux en voiture offrent confort et chaleur. Nous partons du château de Blois et traversons une Sologne givrée jusqu’au majestueux Chambord. L’après-midi, Cheverny révèle son esprit festif avant de conclure à la basilique Notre-Dame de la Trinité."
           },
           "stops": [
             {
@@ -2139,7 +2178,7 @@
                 "hu": "Élvezze a téli Blois látványát a meleg autóból.",
                 "ro": "Bucurați-vă de vederea spre Blois-ul hibernal din cabina caldă a mașinii.",
                 "en": "Enjoy the view of winter Blois from the warm car cabin.",
-                "fr": "Profitez de la vue sur le Blois hivernal depuis l'habitacle chauffé de la voiture."
+                "fr": "Profitez de la vue sur le Blois hivernal depuis l’habitacle chauffé de la voiture."
               }
             },
             {
@@ -2149,7 +2188,7 @@
                 "hu": "Ügyeljen a vadakra a Chambord körüli erdőkben a szürkületben.",
                 "ro": "Atenție la animalele sălbatice în pădurile din Chambord la amurg.",
                 "en": "Watch out for wildlife in the Chambord forests at dusk.",
-                "fr": "Attention à la faune dans les forêts de Chambord à la tombée de la nuit."
+                "fr": "Attention à la faune dans les forêts de Chambord au crépuscule."
               }
             },
             {
@@ -2159,7 +2198,7 @@
                 "hu": "A belső berendezés téli fényben különösen melegnek és hívogatónak tűnik.",
                 "ro": "Mobilierul interior pare deosebit de cald și primitor în lumina iernii.",
                 "en": "The interior furnishings look particularly warm and inviting in winter light.",
-                "fr": "Le mobilier intérieur semble particulièrement chaleureux sous la lumière hivernale."
+                "fr": "Le mobilier intérieur paraît particulièrement chaleureux et accueillant sous la lumière d’hiver."
               }
             },
             {
@@ -2169,7 +2208,7 @@
                 "hu": "Csodálja meg a bazilika kivilágított homlokzatát a korai sötétségben.",
                 "ro": "Admirați fațada iluminată a bazilicii în întunericul timpuriu.",
                 "en": "Admire the illuminated facade of the basilica in the early darkness.",
-                "fr": "Admirez la façade illuminée de la basilique dans l'obscurité précoce."
+                "fr": "Admirez la façade éclairée de la basilique dès la tombée de la nuit."
               }
             }
           ],
@@ -2203,10 +2242,10 @@
               "Plan your trips to arrive before darkness falls."
             ],
             "fr": [
-              "Assurez-vous que votre liquide lave-glace contient de l'antigel.",
-              "Les routes de Sologne peuvent être glissantes dans les zones ombragées.",
-              "Utilisez les sièges chauffants pour vous réchauffer après la visite du château.",
-              "Les frais de parking à Chambord sont souvent réduits en hiver.",
+              "Assurez-vous que votre lave-glace contient un produit antigel.",
+              "Les routes en Sologne peuvent être glissantes dans les zones ombragées.",
+              "Utilisez le chauffage de siège pour vous réchauffer après la visite des châteaux.",
+              "Les frais de stationnement à Chambord sont souvent réduits en hiver.",
               "Planifiez vos trajets pour arriver avant la tombée de la nuit."
             ]
           }
@@ -2237,7 +2276,7 @@
             "hu": "A fő csomópont minden buszjárat számára.",
             "ro": "Nodul principal pentru toate liniile de autobuz.",
             "en": "The main hub for all bus lines.",
-            "fr": "Le pôle principal pour toutes les lignes de bus."
+            "fr": "Le principal relais pour toutes les lignes de bus."
           }
         },
         {
@@ -2256,7 +2295,7 @@
             "hu": "Rövid buszút vagy 10 perc séta az állomástól.",
             "ro": "Călătorie scurtă cu autobuzul sau 10 minute de mers pe jos.",
             "en": "Short bus ride or 10 min walk from the station.",
-            "fr": "Trajet court en bus ou 10 min de marche depuis la gare."
+            "fr": "Court trajet en bus ou 10 min à pied depuis la gare."
           }
         },
         {
@@ -2275,7 +2314,7 @@
             "hu": "Központi megálló a felsővároshoz.",
             "ro": "Stație centrală pentru orașul de sus.",
             "en": "Central stop for the upper town.",
-            "fr": "Arrêt central pour la ville haute."
+            "fr": "Arrêt central pour la haute ville."
           }
         },
         {
@@ -2294,7 +2333,7 @@
             "hu": "Kortárs művészeti múzeum (Fluxus).",
             "ro": "Muzeu de artă contemporană (Fluxus).",
             "en": "Contemporary art museum (Fluxus).",
-            "fr": "Musée d'art contemporain (Fluxus)."
+            "fr": "Musée d’art contemporain (Fluxus)."
           }
         },
         {
@@ -2322,7 +2361,7 @@
         "hu": "Használja Blois 'Azalys' buszhálózatát. Kezdjen az állomáson, majd buszozzon a kastélyhoz. A látogatás után a busz elviszi a székesegyházhoz és a Fondation du Doute-hoz, amely egy izgalmas modern művészeti múzeum. A délutánt a lenyűgöző Szentháromság-bazilikánál töltse, amely északabbra fekszik, de jól megközelíthető.",
         "ro": "Utilizați rețeaua de autobuze 'Azalys' din Blois. Începeți la gară și mergeți la castel. După vizită, autobuzul vă va duce la catedrală și la Fondation du Doute, un muzeu interesant de artă modernă. Petreceți după-amiaza la impresionanta Bazilică Notre-Dame de la Trinité, situată în nord, dar bine conectată.",
         "en": "Use the 'Azalys' bus network in Blois. Start at the station and ride to the castle. After your visit, the bus takes you to the cathedral and the Fondation du Doute, an exciting modern art museum. Spend the afternoon at the impressive Basilica of Notre-Dame de la Trinité, which is located a bit further north but well connected.",
-        "fr": "Utilisez le réseau de bus « Azalys » à Blois. Commencez à la gare et rendez-vous au château. Après votre visite, le bus vous emmène à la cathédrale et à la Fondation du Doute, un passionnant musée d'art moderne. Passez l'après-midi à l'impressionnante basilique Notre-Dame de la Trinité, située un peu plus au nord mais bien desservie."
+        "fr": "Utilisez le réseau de bus « Azalys » à Blois. Commencez à la gare et allez jusqu’au château. Après votre visite, le bus vous mène à la cathédrale et à la Fondation du Doute, un musée d’art moderne passionnant. Passez l’après‑midi à la superbe Basilique Notre‑Dame de la Trinité, située un peu plus au nord mais bien desservie."
       },
       "gastro_picks": {
         "de": [
@@ -2455,11 +2494,11 @@
           "Tickets can be purchased directly from the driver."
         ],
         "fr": [
-          "Téléchargez l'application Azalys pour les infos en temps réel.",
-          "Un ticket journée est rentable à partir de trois trajets.",
+          "Téléchargez l’application Azalys pour des informations en temps réel.",
+          "Un ticket journée vaut le coup si vous effectuez trois trajets ou plus.",
           "Les bus circulent moins fréquemment le dimanche.",
-          "Il existe une Navette Châteaux spéciale.",
-          "Les tickets peuvent être achetés directement auprès du chauffeur."
+          "Il existe une navette spéciale Château (Navette Châteaux).",
+          "Les tickets peuvent être achetés directement auprès du conducteur."
         ]
       },
       "variants": {
@@ -2468,7 +2507,8 @@
             "de": "Nutzen Sie das 'Azalys' Busnetz von Blois. Starten Sie am Bahnhof und fahren Sie zum Schloss. Nach der Besichtigung bringt Sie der Bus zur Kathedrale und zur Fondation du Doute, einem spannenden Museum für moderne Kunst. Den Nachmittag verbringen Sie bei der beeindruckenden Basilika Notre-Dame de la Trinité, die etwas außerhalb im Norden liegt, aber gut angebunden ist.",
             "hu": "Használja Blois 'Azalys' buszhálózatát. Kezdjen az állomáson, majd buszozzon a kastélyhoz. A látogatás után a busz elviszi a székesegyházhoz és a Fondation du Doute-hoz, amely egy izgalmas modern művészeti múzeum. A délutánt a lenyűgöző Szentháromság-bazilikánál töltse, amely északabbra fekszik, de jól megközelíthető.",
             "ro": "Utilizați rețeaua de autobuze 'Azalys' din Blois. Începeți la gară și mergeți la castel. După vizită, autobuzul vă va duce la catedrală și la Fondation du Doute, un muzeu interesant de artă modernă. Petreceți după-amiaza la impresionanta Bazilică Notre-Dame de la Trinité, situată în nord, dar bine conectată.",
-            "en": "Use the 'Azalys' bus network in Blois. Start at the station and ride to the castle. After your visit, the bus takes you to the cathedral and the Fondation du Doute, an exciting modern art museum. Spend the afternoon at the impressive Basilica of Notre-Dame de la Trinité, which is located a bit further north but well connected."
+            "en": "Use the 'Azalys' bus network in Blois. Start at the station and ride to the castle. After your visit, the bus takes you to the cathedral and the Fondation du Doute, an exciting modern art museum. Spend the afternoon at the impressive Basilica of Notre-Dame de la Trinité, which is located a bit further north but well connected.",
+            "fr": "Utilisez le réseau de bus « Azalys » à Blois. Commencez à la gare et allez jusqu’au château. Après votre visite, le bus vous mène à la cathédrale et à la Fondation du Doute, un musée d’art moderne passionnant. Passez l’après‑midi à la superbe Basilique Notre‑Dame de la Trinité, située un peu plus au nord mais bien desservie."
           },
           "stops": [
             {
@@ -2477,7 +2517,8 @@
                 "de": "Der Hauptknotenpunkt für alle Buslinien.",
                 "hu": "A fő csomópont minden buszjárat számára.",
                 "ro": "Nodul principal pentru toate liniile de autobuz.",
-                "en": "The main hub for all bus lines."
+                "en": "The main hub for all bus lines.",
+                "fr": "Le pôle principal pour toutes les lignes de bus."
               }
             },
             {
@@ -2486,7 +2527,8 @@
                 "de": "Kurze Busfahrt oder 10 Min. Fußweg vom Bahnhof.",
                 "hu": "Rövid buszút vagy 10 perc séta az állomástól.",
                 "ro": "Călătorie scurtă cu autobuzul sau 10 minute de mers pe jos.",
-                "en": "Short bus ride or 10 min walk from the station."
+                "en": "Short bus ride or 10 min walk from the station.",
+                "fr": "Courte course en bus ou 10 min à pied depuis la gare."
               }
             },
             {
@@ -2495,7 +2537,8 @@
                 "de": "Zentraler Halt für die Oberstadt.",
                 "hu": "Központi megálló a felsővároshoz.",
                 "ro": "Stație centrală pentru orașul de sus.",
-                "en": "Central stop for the upper town."
+                "en": "Central stop for the upper town.",
+                "fr": "Arrêt central pour la ville haute."
               }
             },
             {
@@ -2504,7 +2547,8 @@
                 "de": "Museum für zeitgenössische Kunst (Fluxus).",
                 "hu": "Kortárs művészeti múzeum (Fluxus).",
                 "ro": "Muzeu de artă contemporană (Fluxus).",
-                "en": "Contemporary art museum (Fluxus)."
+                "en": "Contemporary art museum (Fluxus).",
+                "fr": "Musée d’art contemporain (Fluxus)."
               }
             },
             {
@@ -2513,7 +2557,8 @@
                 "de": "Nehmen Sie die Linie A vom Zentrum.",
                 "hu": "Vegyék az A jelzésű buszt a központból.",
                 "ro": "Luați linia A din centru.",
-                "en": "Take line A from the city center."
+                "en": "Take line A from the city center.",
+                "fr": "Prenez la ligne A depuis le centre‑ville."
               }
             }
           ],
@@ -2627,6 +2672,13 @@
               "Buses run less frequently on Sundays.",
               "There is a special Castle Shuttle (Navette Châteaux).",
               "Tickets can be purchased directly from the driver."
+            ],
+            "fr": [
+              "Téléchargez l’application Azalys pour des informations en temps réel.",
+              "Un ticket journée vaut le coup si vous effectuez trois trajets ou plus.",
+              "Les bus circulent moins fréquemment le dimanche.",
+              "Il existe une navette spéciale Château (Navette Châteaux).",
+              "Les tickets peuvent être achetés directement auprès du conducteur."
             ]
           }
         },
@@ -2636,7 +2688,7 @@
             "hu": "Egy esős nap tömegközlekedéssel a blois-i pályaudvaron indul. Rövid utakat teszünk meg a kastélyhoz és a városházához. A Fondation du Doute hosszú, száraz pihenőt kínál modern művészettel. A nap egy buszozással zárul a Notre-Dame de la Trinité bazilikához.",
             "ro": "O zi ploioasă cu transportul public începe la gara Blois-Chambord. Folosim trasee scurte către castelul Blois și primărie. Fondation du Doute oferă o pauză lungă și uscată cu artă modernă. Ziua se încheie cu o călătorie cu autobuzul către bazilica Notre-Dame de la Trinité.",
             "en": "A rainy day using public transit starts at Blois-Chambord station. We use short routes to the Chateau of Blois and the City Hall. Fondation du Doute offers a long, dry break with modern art. The day concludes with a bus ride to the Basilica of Notre-Dame de la Trinité.",
-            "fr": "Une journée pluvieuse en transports en commun commence à la gare de Blois-Chambord. Nous utilisons des trajets courts vers le Château de Blois et l'Hôtel de Ville. La Fondation du Doute offre une longue pause au sec avec de l'art moderne. La journée se termine par un trajet en bus vers la basilique Notre-Dame de la Trinité."
+            "fr": "Une journée pluvieuse en transport en commun commence à la gare de Blois‑Chambord. Nous empruntons de courtes lignes vers le Château de Blois et l’Hôtel de Ville. La Fondation du Doute offre une longue pause au sec avec de l’art moderne. La journée se termine par un trajet en bus jusqu’à la Basilique Notre‑Dame de la Trinité."
           },
           "stops": [
             {
@@ -2646,7 +2698,7 @@
                 "hu": "Használja a pályaudvar várótermét, hogy szárazon várja a buszt.",
                 "ro": "Folosiți sala de așteptare din gară pentru a aștepta autobuzul la uscat.",
                 "en": "Use the station waiting room to stay dry while waiting for the bus.",
-                "fr": "Utilisez la salle d'attente de la gare pour rester au sec en attendant le bus."
+                "fr": "Utilisez la salle d’attente de la gare pour rester à l’abri en attendant le bus."
               }
             },
             {
@@ -2656,7 +2708,7 @@
                 "hu": "A busz közvetlenül a kastélytér lábánál áll meg, csak pár lépés a bejárat.",
                 "ro": "Autobuzul oprește chiar la baza pieței castelului, la doar câțiva pași de intrare.",
                 "en": "The bus stops right at the foot of the castle square, just steps to the entrance.",
-                "fr": "Le bus s'arrête juste au pied de la place du château, à quelques pas de l'entrée."
+                "fr": "Le bus s’arrête au pied de la place du château, à quelques pas de l’entrée."
               }
             },
             {
@@ -2666,7 +2718,7 @@
                 "hu": "A buszmegállók közötti rövid távolságok minimalizálják az esőben töltött időt.",
                 "ro": "Distanțele scurte între stațiile de autobuz minimizează timpul petrecut în ploaie.",
                 "en": "Short distances between bus stops minimize time spent in the rain.",
-                "fr": "Les courtes distances entre les arrêts minimisent le temps passé sous la pluie."
+                "fr": "Les courtes distances entre les arrêts réduisent le temps passé sous la pluie."
               }
             },
             {
@@ -2676,7 +2728,7 @@
                 "hu": "Töltsön itt bőséges időt; a kávézó ideális esőben.",
                 "ro": "Petreceți timp prelungit aici; cafeneaua este ideală pe ploaie.",
                 "en": "Spend extended time here; the cafe is ideal during rain.",
-                "fr": "Passez-y du temps ; le café est idéal quand il pleut."
+                "fr": "Passez-y plus de temps ; le café est idéal par temps de pluie."
               }
             },
             {
@@ -2686,7 +2738,7 @@
                 "hu": "Az 'A' buszjárat szinte a bazilika bejáratáig viszi Önt.",
                 "ro": "Linia de autobuz A vă duce aproape până în fața portalului bazilicii.",
                 "en": "Bus line A takes you almost directly to the portal of the basilica.",
-                "fr": "La ligne de bus A vous dépose presque directement devant le portail de la basilique."
+                "fr": "La ligne A vous emmène presque directement jusqu’au portail de la basilique."
               }
             }
           ],
@@ -2720,11 +2772,11 @@
               "The main sights are connected via the central bus axis."
             ],
             "fr": [
-              "Téléchargez l'application « Azalys » pour les horaires de bus en temps réel.",
-              "Achetez un ticket journée directement auprès du chauffeur ou via l'application.",
+              "Téléchargez l’application « Azalys » pour les horaires de bus en temps réel.",
+              "Achetez un ticket journée directement au conducteur ou via l’application.",
               "Les bus sont bien chauffés en hiver et par temps de pluie.",
-              "Certaines correspondances sont moins fréquentes pendant les vacances ; vérifiez les horaires.",
-              "Les principaux sites sont reliés par l'axe central des bus."
+              "Certaines correspondances sont moins fréquentes pendant les jours fériés ; vérifiez les horaires.",
+              "Les principaux sites sont reliés par l’axe central des bus."
             ]
           }
         },
@@ -2734,7 +2786,7 @@
             "hu": "Tömegközlekedéssel utazni a téli Blois-ban kényelmes és meleg. A pályaudvartól a kastélyhoz megyünk, amely fenségesen fest a tiszta téli levegőben. Meglátogatjuk a városházát és a Fondation du Doute-ot, hogy elmeneküljünk a fagy elől. Az estét a kivilágított Notre-Dame de la Trinité bazilikánál zárjuk.",
             "ro": "Călătoria cu transportul public prin Blois-ul hibernal este confortabilă și caldă. De la gară mergem la castel, care arată maiestuos în aerul curat de iarnă. Vizităm primăria și Fondation du Doute pentru a scăpa de îngheț. Încheiem seara la bazilica iluminată Notre-Dame de la Trinité.",
             "en": "Traveling through wintry Blois by public transit is comfortable and warm. From the station to the chateau, which looks majestic in the clear winter air. We visit the City Hall and Fondation du Doute to escape the frost. We end the evening at the illuminated Basilica of Notre-Dame de la Trinité.",
-            "fr": "Parcourir le Blois hivernal en transports en commun est confortable et chaleureux. De la gare au château, qui semble majestueux dans l'air clair de l'hiver. Nous visitons l'Hôtel de Ville et la Fondation du Doute pour échapper au gel. Nous terminons la soirée à la basilique Notre-Dame de la Trinité illuminée."
+            "fr": "Traverser Blois en hiver en transports en commun est confortable et chaud. De la gare au château, qui paraît majestueux dans l’air clair de l’hiver. Nous visitons l’Hôtel de Ville et la Fondation du Doute pour échapper au froid. Nous terminons la soirée à la basilique Notre‑Dame de la Trinité illuminée."
           },
           "stops": [
             {
@@ -2744,7 +2796,7 @@
                 "hu": "A pályaudvar előtti tér reggelente csúszós lehet; vigyázzon a leszálláskor.",
                 "ro": "Piața din fața gării poate fi alunecoasă dimineața; atenție la coborâre.",
                 "en": "The station forecourt can be slippery in the morning; be careful when alighting.",
-                "fr": "Le parvis de la gare peut être glissant le matin ; soyez prudent en descendant."
+                "fr": "Le parvis de la gare peut être glissant le matin ; faites attention en descendant."
               }
             },
             {
@@ -2754,7 +2806,7 @@
                 "hu": "A kastély fűtött termei télen igazi élvezetet nyújtanak.",
                 "ro": "Sălile încălzite ale castelului sunt o plăcere iarna.",
                 "en": "The heated halls of the chateau are a delight in winter.",
-                "fr": "Les salles chauffées du château sont un délice en hiver."
+                "fr": "Les salles chauffées du château sont un régal en hiver."
               }
             },
             {
@@ -2764,7 +2816,7 @@
                 "hu": "Élvezze a városi kertek látványát, amelyek fagyban is szépek.",
                 "ro": "Bucurați-vă de vederea spre grădinile orașului, frumoase chiar și pe îngheț.",
                 "en": "Enjoy the view of the city gardens, which are beautiful even in the frost.",
-                "fr": "Profitez de la vue sur les jardins de la ville, beaux même sous le gel."
+                "fr": "Profitez de la vue sur les jardins de la ville, beaux même sous le givre."
               }
             },
             {
@@ -2774,7 +2826,7 @@
                 "hu": "Modern, meleg hely, tökéletes a délután eltöltésére.",
                 "ro": "Un loc modern și cald, perfect pentru a petrece după-amiaza.",
                 "en": "A modern, warm place, perfect for spending the afternoon.",
-                "fr": "Un lieu moderne et chaleureux, parfait pour passer l'après-midi."
+                "fr": "Un lieu moderne et chaleureux, parfait pour passer l’après‑midi."
               }
             },
             {
@@ -2784,7 +2836,7 @@
                 "hu": "Használja a buszt a visszaúthoz, hogy ne kelljen a hidegben gyalogolnia.",
                 "ro": "Folosiți autobuzul pentru drumul de întoarcere pentru a nu merge prin frig.",
                 "en": "Use the bus for the return trip to avoid walking in the cold.",
-                "fr": "Utilisez le bus pour le trajet de retour afin d'éviter de marcher dans le froid."
+                "fr": "Utilisez le bus pour le retour afin d’éviter de marcher dans le froid."
               }
             }
           ],
@@ -2818,10 +2870,10 @@
               "Watch the displays at the stops for the next departures."
             ],
             "fr": [
-              "Les bus circulent de manière fiable même en cas de légère chute de neige.",
-              "Réchauffez-vous dans les zones d'attente des arrêts les plus importants.",
-              "La fréquence des bus en journée est très adaptée aux touristes.",
-              "En hiver, le bus est une excellente alternative à la promenade venteuse sur les berges.",
+              "Les bus circulent de façon fiable même lors de légères chutes de neige.",
+              "Réchauffez‑vous dans les halls d’attente des arrêts principaux.",
+              "La fréquence des bus dans la journée convient très bien aux touristes.",
+              "En hiver, le bus est une excellente alternative à la promenade venteuse le long du fleuve.",
               "Surveillez les écrans aux arrêts pour les prochains départs."
             ]
           }

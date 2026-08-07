@@ -3,55 +3,64 @@
     "de": "6 Parvis Notre-Dame - Pl. Jean-Paul II, 75004 Paris",
     "hu": "6 Parvis Notre-Dame - Pl. Jean-Paul II, 75004 Párizs",
     "ro": "6 Parvis Notre-Dame - Pl. Jean-Paul II, 75004 Paris",
-    "en": "6 Parvis Notre-Dame - Pl. Jean-Paul II, 75004 Paris"
+    "en": "6 Parvis Notre-Dame - Pl. Jean-Paul II, 75004 Paris",
+    "fr": "6 Parvis Notre‑Dame - Pl. Jean‑Paul II, 75004 Paris"
   },
   "openingHours": {
     "de": "Wiedereröffnung Dez 2024 geplant; Vorplatz tagsüber zugänglich",
     "hu": "Újranyitás 2024 decembere; az előtér napközben látogatható",
     "ro": "Redeschidere planificată pentru dec. 2024; piațeta accesibilă pe timp de zi",
-    "en": "Reopening planned Dec 2024; forecourt accessible during the day"
+    "en": "Reopening planned Dec 2024; forecourt accessible during the day",
+    "fr": "Réouverture prévue déc. 2024 ; parvis accessible en journée"
   },
   "entranceFee": {
     "de": "Kathedrale kostenlos (geplant); Türme kostenpflichtig",
     "hu": "Katedrális ingyenes (tervezett); tornyok díjkötelesek",
     "ro": "Catedrală gratuită (planificat); turnuri cu plată",
-    "en": "Cathedral free (planned); towers paid"
+    "en": "Cathedral free (planned); towers paid",
+    "fr": "Cathédrale gratuite (prévue) ; tours payantes"
   },
   "website": "https://www.notredamedeparis.fr",
   "publicTransport": {
     "de": "Metro Linie 4 'Cité' oder RER B/C 'Saint-Michel - Notre-Dame'",
     "hu": "4-es metro 'Cité' vagy RER B/C 'Saint-Michel - Notre-Dame'",
     "ro": "Linia de metrou 4 'Cité' sau RER B/C 'Saint-Michel - Notre-Dame'",
-    "en": "Metro line 4 'Cité' or RER B/C 'Saint-Michel - Notre-Dame'"
+    "en": "Metro line 4 'Cité' or RER B/C 'Saint-Michel - Notre-Dame'",
+    "fr": "Métro ligne 4 'Cité' ou RER B/C 'Saint‑Michel - Notre‑Dame'"
   },
   "parking": {
     "de": "Parkhaus 'Parking Notre-Dame' direkt unter dem Vorplatz",
     "hu": "'Parking Notre-Dame' parkoló közvetlenül az előtér alatt",
     "ro": "Parcare 'Parking Notre-Dame' chiar sub piațetă",
-    "en": "'Parking Notre-Dame' parking garage directly below the forecourt"
+    "en": "'Parking Notre-Dame' parking garage directly below the forecourt",
+    "fr": "'Parking Notre‑Dame' garage directement sous le parvis"
   },
   "accessibility": {
     "de": "Erdgeschoss barrierefrei; Türme nur über sehr enge Wendeltreppen",
     "hu": "Földszint akadálymentes; tornyok csak nagyon szűk csigalépcsőkön",
     "ro": "Parter accesibil; turnurile doar prin scări în spirală foarte înguste",
-    "en": "Ground floor accessible; towers only via very narrow spiral staircases"
+    "en": "Ground floor accessible; towers only via very narrow spiral staircases",
+    "fr": "Rez‑de‑chaussée accessible ; tours uniquement par très étroites escaliers en colimaçon"
   },
   "photoRules": {
     "de": "Innen ohne Blitz (nach Wiedereröffnung); außen frei",
     "hu": "Belül vaku nélkül (újranyitás után); kívül szabad",
     "ro": "Interior fără bliț (după redeschidere); exterior liber",
-    "en": "Inside without flash (after reopening); outside free"
+    "en": "Inside without flash (after reopening); outside free",
+    "fr": "À l’intérieur sans flash (après réouverture) ; extérieur gratuit"
   },
   "bestTimeToVisit": {
     "de": "Früher Vormittag oder zur Abendmesse für die Lichtstimmung",
     "hu": "Kora délelőtt vagy esti mise idején a fények miatt",
     "ro": "Dimineața devreme sau la slujba de seară pentru atmosferă",
-    "en": "Early morning or during evening mass for the light mood"
+    "en": "Early morning or during evening mass for the light mood",
+    "fr": "Tôt le matin ou pendant la messe du soir pour une ambiance lumineuse"
   },
   "audioGuide": {
     "de": "Wird nach Wiedereröffnung neu konzipiert",
     "hu": "Újranyitás után újratervezik",
     "ro": "Va fi reconceptualizat după redeschidere",
-    "en": "Will be redesigned after reopening"
+    "en": "Will be redesigned after reopening",
+    "fr": "Sera repensé après la réouverture"
   }
 }

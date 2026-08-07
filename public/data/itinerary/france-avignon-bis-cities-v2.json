@@ -21,7 +21,8 @@
             "de": "Place de l'Horloge",
             "hu": "Place de l'Horloge",
             "ro": "Place de l'Horloge",
-            "en": "Place de l'Horloge"
+            "en": "Place de l'Horloge",
+            "fr": "Place de l'Horloge"
           },
           "coords": [
             4.8058,
@@ -36,7 +37,8 @@
             "de": "Trinken Sie einen Espresso im Schatten der Oper.",
             "hu": "Igyon egy eszpresszót az operaház árnyékában.",
             "ro": "Beți un espresso la umbra operei.",
-            "en": "Sip an espresso in the shadow of the Opera house."
+            "en": "Sip an espresso in the shadow of the Opera house.",
+            "fr": "Sirotez un espresso à l'ombre de l'Opéra."
           }
         },
         {
@@ -44,7 +46,8 @@
             "de": "Papstpalast",
             "hu": "Pápai palota",
             "ro": "Palatul Papilor",
-            "en": "Palais des Papes"
+            "en": "Palais des Papes",
+            "fr": "Palais des Papes"
           },
           "coords": [
             4.8075,
@@ -59,7 +62,8 @@
             "de": "Nutzen Sie das Histopad für virtuelle Einblicke.",
             "hu": "Használja a Histopadot a virtuális időutazáshoz.",
             "ro": "Folosiți Histopad-ul pentru vizualizări virtuale.",
-            "en": "Use the Histopad for virtual historical views."
+            "en": "Use the Histopad for virtual historical views.",
+            "fr": "Utilisez l'Histopad pour des vues historiques virtuelles."
           }
         },
         {
@@ -67,7 +71,8 @@
             "de": "Kathedrale Notre-Dame des Doms",
             "hu": "Notre-Dame des Doms székesegyház",
             "ro": "Catedrala Notre-Dame des Doms",
-            "en": "Cathédrale Notre-Dame des Doms"
+            "en": "Cathédrale Notre-Dame des Doms",
+            "fr": "Cathédrale Notre‑Dame des Doms"
           },
           "coords": [
             4.8077,
@@ -82,7 +87,8 @@
             "de": "Achten Sie auf die goldene Jungfrau auf dem Turm.",
             "hu": "Figyelje meg a torony tetején lévő arany szobrot.",
             "ro": "Admirați statuia aurie de pe turnul catedralei.",
-            "en": "Spot the golden Virgin statue atop the tower."
+            "en": "Spot the golden Virgin statue atop the tower.",
+            "fr": "Repérez la statue dorée de la Vierge au sommet de la tour."
           }
         },
         {
@@ -90,7 +96,8 @@
             "de": "Rocher des Doms",
             "hu": "Rocher des Doms park",
             "ro": "Grădina Rocher des Doms",
-            "en": "Rocher des Doms"
+            "en": "Rocher des Doms",
+            "fr": "Rocher des Doms"
           },
           "coords": [
             4.8082,
@@ -105,7 +112,8 @@
             "de": "Bester Blick auf die Brücke und die Rhone.",
             "hu": "A legjobb kilátás a hídra és a Rhone-folyóra.",
             "ro": "Cea mai bună vedere spre pod și fluviul Ron.",
-            "en": "Best panoramic view of the bridge and the river."
+            "en": "Best panoramic view of the bridge and the river.",
+            "fr": "Meilleur panorama sur le pont et le fleuve."
           }
         },
         {
@@ -113,7 +121,8 @@
             "de": "Musée du Petit Palais",
             "hu": "Petit Palais Múzeum",
             "ro": "Muzeul Petit Palais",
-            "en": "Musée du Petit Palais"
+            "en": "Musée du Petit Palais",
+            "fr": "Musée du Petit Palais"
           },
           "coords": [
             4.8068,
@@ -128,7 +137,8 @@
             "de": "Entdecken Sie Botticellis Meisterwerke hier.",
             "hu": "Itt láthatja Botticelli remekműveit.",
             "ro": "Descoperiți capodoperele lui Botticelli aici.",
-            "en": "Discover Botticelli's masterpieces inside."
+            "en": "Discover Botticelli's masterpieces inside.",
+            "fr": "Découvrez des chefs‑d'œuvre de Botticelli à l'intérieur."
           }
         },
         {
@@ -136,7 +146,8 @@
             "de": "Brücke von Avignon",
             "hu": "Avignoni híd",
             "ro": "Podul din Avignon",
-            "en": "Pont d'Avignon"
+            "en": "Pont d'Avignon",
+            "fr": "Pont d'Avignon"
           },
           "coords": [
             4.8048,
@@ -151,7 +162,8 @@
             "de": "Singen Sie das berühmte Lied direkt auf dem Pod.",
             "hu": "Énekelje a híres dalt közvetlenül a hídon.",
             "ro": "Cântați faimosul cântec chiar pe pod.",
-            "en": "Sing the famous song while standing on the bridge."
+            "en": "Sing the famous song while standing on the bridge.",
+            "fr": "Chantez la célèbre chanson en étant sur le pont."
           }
         },
         {
@@ -159,7 +171,8 @@
             "de": "Basilika Saint-Pierre",
             "hu": "Szent Péter-bazilika",
             "ro": "Bazilica Saint-Pierre",
-            "en": "Basilique Saint-Pierre"
+            "en": "Basilique Saint-Pierre",
+            "fr": "Basilique Saint‑Pierre"
           },
           "coords": [
             4.8092,
@@ -174,7 +187,8 @@
             "de": "Bewundern Sie die geschnitzten Holztüren am Eingang.",
             "hu": "Csodálja meg a bejárat faragott fatábláit.",
             "ro": "Admirați ușile masive din lemn sculptat.",
-            "en": "Admire the massive carved wooden entrance doors."
+            "en": "Admire the massive carved wooden entrance doors.",
+            "fr": "Admirez les énormes portes d'entrée en bois sculpté."
           }
         },
         {
@@ -182,7 +196,8 @@
             "de": "Rue des Teinturiers",
             "hu": "Rue des Teinturiers",
             "ro": "Rue des Teinturiers",
-            "en": "Rue des Teinturiers"
+            "en": "Rue des Teinturiers",
+            "fr": "Rue des Teinturiers"
           },
           "coords": [
             4.8143,
@@ -197,7 +212,8 @@
             "de": "Suchen Sie die historischen Wasserräder im Kanal.",
             "hu": "Keresse meg a régi vízikerekeket a csatornában.",
             "ro": "Căutați roțile hidraulice istorice de pe canal.",
-            "en": "Spot the historic water wheels along the canal."
+            "en": "Spot the historic water wheels along the canal.",
+            "fr": "Repérez les roues hydrauliques historiques le long du canal."
           }
         }
       ],
@@ -205,7 +221,8 @@
         "de": "Erleben Sie Avignon zu Fuß, beginnend am lebhaften Hauptplatz. Der Vormittag gehört dem gotischen Glanz des Papstpalastes und der Kathedrale. Nach einem Picknick im Park Rocher des Doms tauchen wir in die italienische Renaissance im Petit Palais ein. Der Nachmittag endet poetisch auf der unvollendeten Brücke, gefolgt von einem romantischen Abendspaziergang an den alten Wasserrädern der Rue des Teinturiers.",
         "hu": "Fedezze fel Avignont gyalogosan, kezdve a pezsgő főtéren. A délelőtt a Pápai Palota gótikus pompájáról és a székesegyházról szól. A Rocher des Doms parkban elfogyasztott ebéd után az olasz reneszánsz művészet vár a Petit Palais-ban. A délután poétikusan zárul a befejezetlen hídon, majd egy romantikus esti séta következik a Rue des Teinturiers történelmi vízikerekei mentén.",
         "ro": "Experimentați Avignonul la pas, începând din piața principală plină de viață. Dimineața este dedicată splendorii gotice a Palatului Papilor și catedralei. După un picnic în parcul Rocher des Doms, explorăm arta Renașterii italiene la Petit Palais. După-amiaza se încheie poetic pe podul neterminat, urmată de o plimbare romantică de seară pe lângă vechile roți de apă din Rue des Teinturiers.",
-        "en": "Explore Avignon on foot, starting at the vibrant main square. The morning is dedicated to the gothic grandeur of the Pope's Palace and the Cathedral. After a break in the Rocher des Doms park, dive into Italian Renaissance art at the Petit Palais. The afternoon ends poetically on the iconic broken bridge, followed by a romantic evening stroll past the historic water wheels of Rue des Teinturiers."
+        "en": "Explore Avignon on foot, starting at the vibrant main square. The morning is dedicated to the gothic grandeur of the Pope's Palace and the Cathedral. After a break in the Rocher des Doms park, dive into Italian Renaissance art at the Petit Palais. The afternoon ends poetically on the iconic broken bridge, followed by a romantic evening stroll past the historic water wheels of Rue des Teinturiers.",
+        "fr": "Explorez Avignon à pied en commençant par la place principale animée. La matinée est consacrée à la grandeur gothique du Palais des Papes et de la Cathédrale. Après une pause au parc du Rocher des Doms, plongez dans l'art de la Renaissance italienne au Petit Palais. L'après‑midi se termine poétiquement sur le pont brisé emblématique, suivi d'une promenade romantique en soirée devant les roues historiques de la Rue des Teinturiers."
       },
       "gastro_picks": {
         "de": [
@@ -365,6 +382,12 @@
           "Buy a combined ticket for the Palace and the Bridge.",
           "Rue des Teinturiers is most atmospheric in the evening.",
           "Avoid the midday heat in July when planning outdoor visits."
+        ],
+        "fr": [
+          "Portez des chaussures confortables pour les pavés.",
+          "Achetez un billet combiné pour le Palais et le Pont.",
+          "La Rue des Teinturiers est la plus atmosphérique en soirée.",
+          "Évitez la chaleur de midi en juillet pour les visites extérieures."
         ]
       }
     },
@@ -381,7 +404,8 @@
             "de": "Rue des Teinturiers",
             "hu": "Rue des Teinturiers",
             "ro": "Rue des Teinturiers",
-            "en": "Rue des Teinturiers"
+            "en": "Rue des Teinturiers",
+            "fr": "Rue des Teinturiers"
           },
           "coords": [
             4.8143,
@@ -396,7 +420,8 @@
             "de": "Ruhiger Start am Morgen.",
             "hu": "Csendes reggeli kezdés.",
             "ro": "Început liniștit de dimineață.",
-            "en": "Quiet morning start here."
+            "en": "Quiet morning start here.",
+            "fr": "Début de matinée calme ici."
           }
         },
         {
@@ -404,7 +429,8 @@
             "de": "Ufer der Rhone",
             "hu": "Rhone-part",
             "ro": "Malul fluviului Ron",
-            "en": "Rhone Riverbank"
+            "en": "Rhone Riverbank",
+            "fr": "Rives du Rhône"
           },
           "coords": [
             4.8025,
@@ -419,7 +445,8 @@
             "de": "Perfekter Radweg entlang der Stadtmauern.",
             "hu": "Tökéletes kerékpárút a városfal mentén.",
             "ro": "Pistă de biciclete excelentă de-a lungul zidurilor.",
-            "en": "Perfect bike path along the city walls."
+            "en": "Perfect bike path along the city walls.",
+            "fr": "Piste cyclable parfaite le long des remparts."
           }
         },
         {
@@ -427,7 +454,8 @@
             "de": "Brücke von Avignon",
             "hu": "Avignoni híd",
             "ro": "Podul din Avignon",
-            "en": "Pont d'Avignon"
+            "en": "Pont d'Avignon",
+            "fr": "Pont d'Avignon"
           },
           "coords": [
             4.8048,
@@ -442,7 +470,8 @@
             "de": "Stellen Sie die Räder am Eingang sicher ab.",
             "hu": "Zárja le biztonságosan a biciklit a bejáratnál.",
             "ro": "Parcați bicicletele în siguranță la intrare.",
-            "en": "Park your bikes securely at the entrance."
+            "en": "Park your bikes securely at the entrance.",
+            "fr": "Garez vos vélos en sécurité à l'entrée."
           }
         },
         {
@@ -450,7 +479,8 @@
             "de": "Palais des Papes",
             "hu": "Pápai palota",
             "ro": "Palatul Papilor",
-            "en": "Palais des Papes"
+            "en": "Palais des Papes",
+            "fr": "Palais des Papes"
           },
           "coords": [
             4.8075,
@@ -465,7 +495,8 @@
             "de": "Mittagspause in den Gassen rundherum.",
             "hu": "Ebédszünet a környező sikátorokban.",
             "ro": "Pauză de prânz în străduțele din jur.",
-            "en": "Lunch break in the surrounding alleys."
+            "en": "Lunch break in the surrounding alleys.",
+            "fr": "Pause déjeuner dans les ruelles alentours."
           }
         },
         {
@@ -473,7 +504,8 @@
             "de": "Rocher des Doms",
             "hu": "Rocher des Doms park",
             "ro": "Grădina Rocher des Doms",
-            "en": "Rocher des Doms"
+            "en": "Rocher des Doms",
+            "fr": "Rocher des Doms"
           },
           "coords": [
             4.8082,
@@ -488,7 +520,8 @@
             "de": "Schieben Sie das Rad im Park.",
             "hu": "A parkban tolja a kerékpárt.",
             "ro": "Împingeți bicicleta în interiorul parcului.",
-            "en": "Push your bike inside the park area."
+            "en": "Push your bike inside the park area.",
+            "fr": "Poussez votre vélo à l'intérieur du parc."
           }
         },
         {
@@ -496,7 +529,8 @@
             "de": "Musée du Petit Palais",
             "hu": "Petit Palais Múzeum",
             "ro": "Muzeul Petit Palais",
-            "en": "Musée du Petit Palais"
+            "en": "Musée du Petit Palais",
+            "fr": "Musée du Petit Palais"
           },
           "coords": [
             4.8068,
@@ -511,7 +545,8 @@
             "de": "Kulturelle Pause im Kühlen.",
             "hu": "Kulturális pihenő a hűvösben.",
             "ro": "Pauză culturală la răcoare.",
-            "en": "A cultural break in the cool interior."
+            "en": "A cultural break in the cool interior.",
+            "fr": "Une pause culturelle dans l'intérieur frais."
           }
         },
         {
@@ -519,7 +554,8 @@
             "de": "Place de l'Horloge",
             "hu": "Place de l'Horloge",
             "ro": "Place de l'Horloge",
-            "en": "Place de l'Horloge"
+            "en": "Place de l'Horloge",
+            "fr": "Place de l'Horloge"
           },
           "coords": [
             4.8058,
@@ -534,7 +570,8 @@
             "de": "Ziel der Tour mit einem kühlen Drink.",
             "hu": "A túra célpontja egy hűsítő itallal.",
             "ro": "Finalul turului cu o băutură rece.",
-            "en": "Finish the tour with a refreshing drink."
+            "en": "Finish the tour with a refreshing drink.",
+            "fr": "Terminez la visite par une boisson rafraîchissante."
           }
         }
       ],
@@ -542,7 +579,8 @@
         "de": "Diese Radtour verbindet die Geschichte des Zentrums mit den weiten Wegen entlang der Rhone. Wir starten in der malerischen Rue des Teinturiers und radeln dann entlang der Stadtmauern zur Brücke. Nach der Besichtigung des Papstpalastes genießen wir die Abfahrt vom Rocher des Doms. Eine ideale Route, um mehr von den äußeren Bezirken und den Stadtmauern zu sehen.",
         "hu": "Ez a kerékpártúra összeköti a belváros történelmét a Rhone menti tágas utakkal. A festői Rue des Teinturiers-től indulunk, majd a városfalak mentén tekerünk a hídig. A Pápai Palota megtekintése után élvezzük a gurulást a Rocher des Doms dombjáról. Ideális útvonal, ha többet szeretne látni a külső negyedekből és a városfalakból.",
         "ro": "Acest tur cu bicicleta îmbină istoria centrului cu drumurile largi de-a lungul fluviului Ron. Pornim de pe pitoreasca Rue des Teinturiers și pedalăm pe lângă zidurile cetății până la pod. După vizitarea Palatului Papilor, ne bucurăm de coborârea de pe Rocher des Doms. Un traseu ideal pentru a vedea mai mult din zonele exterioare și fortificații.",
-        "en": "This bike tour combines the history of the center with the open paths along the Rhone. Starting from the picturesque Rue des Teinturiers, we cycle along the city walls to the bridge. After visiting the Palais des Papes, enjoy the ride down from Rocher des Doms. An ideal route to see more of the outer districts and the impressive ramparts."
+        "en": "This bike tour combines the history of the center with the open paths along the Rhone. Starting from the picturesque Rue des Teinturiers, we cycle along the city walls to the bridge. After visiting the Palais des Papes, enjoy the ride down from Rocher des Doms. An ideal route to see more of the outer districts and the impressive ramparts.",
+        "fr": "Cette visite à vélo combine l'histoire du centre avec les voies ouvertes le long du Rhône. En partant de la pittoresque Rue des Teinturiers, nous longeons les remparts jusqu'au pont. Après la visite du Palais des Papes, profitez de la descente depuis le Rocher des Doms. Un itinéraire idéal pour voir davantage des quartiers extérieurs et des impressionnantes fortifications."
       },
       "gastro_picks": {
         "de": [
@@ -646,6 +684,11 @@
           "In the old town, cycling is often restricted to walking speed.",
           "Use the bike paths on Barthelasse Island for more nature.",
           "Bike rentals are available near the main train station."
+        ],
+        "fr": [
+          "Dans la vieille ville, le vélo est souvent limité à la vitesse piétonne.",
+          "Utilisez les pistes cyclables de l'île de la Barthelasse pour plus de nature.",
+          "Des locations de vélos sont disponibles près de la gare principale."
         ]
       }
     },
@@ -662,7 +705,8 @@
             "de": "Papstpalast (Cluster A)",
             "hu": "Pápai palota (A-klaszter)",
             "ro": "Palatul Papilor (Cluster A)",
-            "en": "Palais des Papes (Cluster A)"
+            "en": "Palais des Papes (Cluster A)",
+            "fr": "Palais des Papes (Cluster A)"
           },
           "coords": [
             4.8075,
@@ -677,7 +721,8 @@
             "de": "Parken Sie im unterirdischen Parkhaus Palais des Papes.",
             "hu": "Parkoljon a Palais des Papes földalatti garázsában.",
             "ro": "Parcați în parcarea subterană Palais des Papes.",
-            "en": "Park at the underground Palais des Papes parking lot."
+            "en": "Park at the underground Palais des Papes parking lot.",
+            "fr": "Garez‑vous au parking souterrain du Palais des Papes."
           }
         },
         {
@@ -685,7 +730,8 @@
             "de": "Rocher des Doms (Cluster A)",
             "hu": "Rocher des Doms (A-klaszter)",
             "ro": "Rocher des Doms (Cluster A)",
-            "en": "Rocher des Doms (Cluster A)"
+            "en": "Rocher des Doms (Cluster A)",
+            "fr": "Rocher des Doms (Cluster A)"
           },
           "coords": [
             4.8082,
@@ -700,7 +746,8 @@
             "de": "Zu Fuß vom Palast erreichbar.",
             "hu": "Gyalogosan elérhető a palotától.",
             "ro": "Accesibil pe jos de la palat.",
-            "en": "Accessible on foot from the Palace."
+            "en": "Accessible on foot from the Palace.",
+            "fr": "Accessible à pied depuis le Palais."
           }
         },
         {
@@ -708,7 +755,8 @@
             "de": "Brücke von Avignon",
             "hu": "Avignoni híd",
             "ro": "Podul din Avignon",
-            "en": "Pont d'Avignon"
+            "en": "Pont d'Avignon",
+            "fr": "Pont d'Avignon"
           },
           "coords": [
             4.8048,
@@ -723,7 +771,8 @@
             "de": "Kurze Fahrt zum Rhone-Ufer Parkplatz.",
             "hu": "Rövid autóút a Rhone-parti parkolóhoz.",
             "ro": "Drum scurt cu mașina până la parcarea de pe mal.",
-            "en": "Short drive to the Rhone riverbank parking."
+            "en": "Short drive to the Rhone riverbank parking.",
+            "fr": "Court trajet en voiture jusqu'au parking des rives du Rhône."
           }
         },
         {
@@ -731,7 +780,8 @@
             "de": "Fort Saint-André (Ausflug)",
             "hu": "Szent András erőd (Kitérő)",
             "ro": "Fortul Saint-André (Excursie)",
-            "en": "Fort Saint-André (Excursion)"
+            "en": "Fort Saint-André (Excursion)",
+            "fr": "Fort Saint‑André (Excursion)"
           },
           "coords": [
             4.7963,
@@ -746,7 +796,8 @@
             "de": "Beeindruckende Aussicht auf Avignon von Villeneuve.",
             "hu": "Lenyűgöző kilátás Avignonra Villeneuve-ből.",
             "ro": "Vedere impresionantă asupra Avignonului din Villeneuve.",
-            "en": "Stunning view of Avignon from Villeneuve-lès-Avignon."
+            "en": "Stunning view of Avignon from Villeneuve-lès-Avignon.",
+            "fr": "Vue splendide sur Avignon depuis Villeneuve‑lès‑Avignon."
           }
         },
         {
@@ -754,7 +805,8 @@
             "de": "Rue des Teinturiers (Cluster B)",
             "hu": "Rue des Teinturiers (B-klaszter)",
             "ro": "Rue des Teinturiers (Cluster B)",
-            "en": "Rue des Teinturiers (Cluster B)"
+            "en": "Rue des Teinturiers (Cluster B)",
+            "fr": "Rue des Teinturiers (Cluster B)"
           },
           "coords": [
             4.8143,
@@ -769,7 +821,8 @@
             "de": "Parken Sie im Parkhaus Les Halles.",
             "hu": "Parkoljon a Les Halles parkolóházban.",
             "ro": "Parcați în parcarea supraetajată Les Halles.",
-            "en": "Park at the Les Halles parking garage."
+            "en": "Park at the Les Halles parking garage.",
+            "fr": "Garez‑vous au parking Les Halles."
           }
         },
         {
@@ -777,7 +830,8 @@
             "de": "Basilika Saint-Pierre (Cluster B)",
             "hu": "Szent Péter-bazilika (B-klaszter)",
             "ro": "Bazilica Saint-Pierre (Cluster B)",
-            "en": "Basilique Saint-Pierre (Cluster B)"
+            "en": "Basilique Saint-Pierre (Cluster B)",
+            "fr": "Basilique Saint‑Pierre (Cluster B)"
           },
           "coords": [
             4.8092,
@@ -792,7 +846,8 @@
             "de": "Kurzer Spaziergang von Les Halles.",
             "hu": "Rövid séta a Les Halles-tól.",
             "ro": "Scurtă plimbare de la Les Halles.",
-            "en": "Short walk from the Les Halles market area."
+            "en": "Short walk from the Les Halles market area.",
+            "fr": "Courte marche depuis le marché Les Halles."
           }
         }
       ],
@@ -800,7 +855,8 @@
         "de": "Mit dem Auto kombinieren wir das historische Avignon mit einem Abstecher nach Villeneuve-lès-Avignon. Wir parken zentral am Papstpalast für den ersten Block. Danach fahren wir über den Fluss zum Fort Saint-André für einen Panoramablick. Der Tag endet im östlichen Teil der Altstadt, wo wir die Rue des Teinturiers erkunden. Diese Route spart Energie für die weiten Wege zwischen den Hauptattraktionen.",
         "hu": "Autóval kombináljuk a történelmi Avignont egy villeneuve-i kitérővel. A Pápai Palotánál parkolunk az első blokkhoz, majd átkelünk a folyón a Szent András erődhöz a panorámáért. A napot az óváros keleti részén zárjuk, felfedezve a Rue des Teinturiers környékét. Ez az útvonal energiát spórol a fő látnivalók közötti távolságokon.",
         "ro": "Cu mașina, combinăm Avignonul istoric cu o incursiune în Villeneuve-lès-Avignon. Parcăm central la Palatul Papilor pentru primul bloc, apoi traversăm fluviul către Fortul Saint-André pentru panoramă. Ziua se încheie în partea de est a orașului vechi, explorând Rue des Teinturiers. Acest traseu economisește energie pentru distanțele dintre principalele atracții.",
-        "en": "By car, we combine historic Avignon with a detour to Villeneuve-lès-Avignon. We park centrally at the Pope's Palace for the first cluster, then drive across the river to Fort Saint-André for the panorama. The day ends in the eastern part of the old town, exploring Rue des Teinturiers. This route saves energy for the longer distances between the main highlights."
+        "en": "By car, we combine historic Avignon with a detour to Villeneuve-lès-Avignon. We park centrally at the Pope's Palace for the first cluster, then drive across the river to Fort Saint-André for the panorama. The day ends in the eastern part of the old town, exploring Rue des Teinturiers. This route saves energy for the longer distances between the main highlights.",
+        "fr": "En voiture, nous combinons l'Avignon historique avec une incursion à Villeneuve‑lès‑Avignon. Nous nous garons au centre, près du Palais des Papes pour le premier cluster, puis traversons le fleuve jusqu'au Fort Saint‑André pour le panorama. La journée se termine dans la partie est de la vieille ville, en explorant la Rue des Teinturiers. Cet itinéraire économise de l'énergie pour les plus longues distances entre les principaux sites."
       },
       "gastro_picks": {
         "de": [
@@ -904,6 +960,11 @@
           "Parking in the city center is expensive; use P+R parking lots.",
           "Watch out for one-way street regulations inside the ramparts.",
           "Traffic can be very slow during the midday rush hour."
+        ],
+        "fr": [
+          "Le stationnement au centre‑ville est cher ; utilisez les parkings P+R.",
+          "Faites attention aux sens uniques à l'intérieur des remparts.",
+          "La circulation peut être très lente pendant l'heure de pointe de midi."
         ]
       }
     },
@@ -920,7 +981,8 @@
             "de": "Place de l'Horloge (Cluster 1)",
             "hu": "Place de l'Horloge (1. klaszter)",
             "ro": "Place de l'Horloge (Cluster 1)",
-            "en": "Place de l'Horloge (Cluster 1)"
+            "en": "Place de l'Horloge (Cluster 1)",
+            "fr": "Place de l'Horloge (Cluster 1)"
           },
           "coords": [
             4.8058,
@@ -935,7 +997,8 @@
             "de": "Nehmen Sie den Shuttle 'Baladine' ins Zentrum.",
             "hu": "Használja a 'Baladine' buszt a központba.",
             "ro": "Luați naveta 'Baladine' către centru.",
-            "en": "Take the 'Baladine' shuttle to reach the center."
+            "en": "Take the 'Baladine' shuttle to reach the center.",
+            "fr": "Prenez la navette 'Baladine' pour rejoindre le centre."
           }
         },
         {
@@ -943,7 +1006,8 @@
             "de": "Papstpalast (Cluster 1)",
             "hu": "Pápai palota (1. klaszter)",
             "ro": "Palatul Papilor (Cluster 1)",
-            "en": "Palais des Papes (Cluster 1)"
+            "en": "Palais des Papes (Cluster 1)",
+            "fr": "Palais des Papes (Cluster 1)"
           },
           "coords": [
             4.8075,
@@ -958,7 +1022,8 @@
             "de": "Nur ein kurzer Fußweg vom Hauptplatz.",
             "hu": "Csak rövid séta a főtértől.",
             "ro": "La doar o scurtă plimbare de piața principală.",
-            "en": "Just a short walk from the main square."
+            "en": "Just a short walk from the main square.",
+            "fr": "Juste une courte marche depuis la place principale."
           }
         },
         {
@@ -966,7 +1031,8 @@
             "de": "Rue des Teinturiers (Cluster 2)",
             "hu": "Rue des Teinturiers (2. klaszter)",
             "ro": "Rue des Teinturiers (Cluster 2)",
-            "en": "Rue des Teinturiers (Cluster 2)"
+            "en": "Rue des Teinturiers (Cluster 2)",
+            "fr": "Rue des Teinturiers (Cluster 2)"
           },
           "coords": [
             4.8143,
@@ -981,7 +1047,8 @@
             "de": "Buslinie zur Haltestelle 'Thiers'.",
             "hu": "Busszal a 'Thiers' megállóig.",
             "ro": "Autobuz până la stația 'Thiers'.",
-            "en": "Bus line to 'Thiers' stop."
+            "en": "Bus line to 'Thiers' stop.",
+            "fr": "Ligne de bus jusqu'à l'arrêt 'Thiers'."
           }
         },
         {
@@ -989,7 +1056,8 @@
             "de": "Basilika Saint-Pierre (Cluster 2)",
             "hu": "Szent Péter-bazilika (2. klaszter)",
             "ro": "Bazilica Saint-Pierre (Cluster 2)",
-            "en": "Basilique Saint-Pierre (Cluster 2)"
+            "en": "Basilique Saint-Pierre (Cluster 2)",
+            "fr": "Basilique Saint‑Pierre (Cluster 2)"
           },
           "coords": [
             4.8092,
@@ -1004,7 +1072,8 @@
             "de": "Zu Fuß von Rue des Teinturiers.",
             "hu": "Gyalog a Rue des Teinturiers-től.",
             "ro": "Pe jos de la Rue des Teinturiers.",
-            "en": "On foot from Rue des Teinturiers."
+            "en": "On foot from Rue des Teinturiers.",
+            "fr": "Accessible à pied depuis la Rue des Teinturiers."
           }
         },
         {
@@ -1012,7 +1081,8 @@
             "de": "Pont d'Avignon (Cluster 3)",
             "hu": "Avignoni híd (3. klaszter)",
             "ro": "Podul din Avignon (Cluster 3)",
-            "en": "Pont d'Avignon (Cluster 3)"
+            "en": "Pont d'Avignon (Cluster 3)",
+            "fr": "Pont d'Avignon (Cluster 3)"
           },
           "coords": [
             4.8048,
@@ -1027,7 +1097,8 @@
             "de": "Bus zum 'Porte de l'Oulle'.",
             "hu": "Busz a 'Porte de l'Oulle' megállóig.",
             "ro": "Autobuz către 'Porte de l'Oulle'.",
-            "en": "Bus to 'Porte de l'Oulle' station."
+            "en": "Bus to 'Porte de l'Oulle' station.",
+            "fr": "Bus jusqu'à la station 'Porte de l'Oulle'."
           }
         },
         {
@@ -1035,7 +1106,8 @@
             "de": "Rocher des Doms (Cluster 3)",
             "hu": "Rocher des Doms (3. klaszter)",
             "ro": "Rocher des Doms (Cluster 3)",
-            "en": "Rocher des Doms (Cluster 3)"
+            "en": "Rocher des Doms (Cluster 3)",
+            "fr": "Rocher des Doms (Cluster 3)"
           },
           "coords": [
             4.8082,
@@ -1050,7 +1122,8 @@
             "de": "Kurzer Aufstieg über die Treppen am Palast.",
             "hu": "Rövid lépcsőzés a palota mellett.",
             "ro": "Urcare scurtă pe scările de lângă palat.",
-            "en": "Short climb via the stairs next to the Palace."
+            "en": "Short climb via the stairs next to the Palace.",
+            "fr": "Courte montée via l'escalier à côté du Palais."
           }
         }
       ],
@@ -1058,7 +1131,8 @@
         "de": "Nutzen Sie das effiziente Bussystem von Avignon, um zwischen den Vierteln zu springen. Wir starten im Herzen der Stadt, besuchen den Papstpalast und nehmen dann den Bus zur malerischen Rue des Teinturiers. Den Nachmittag verbringen wir am Flussufer und auf der Brücke, bevor wir den Tag mit dem Sonnenuntergang im Park Rocher des Doms krönen. Ideal, um weite Wege zu überbrücken und Energie zu sparen.",
         "hu": "Használja Avignon hatékony buszhálózatát a városrészek közötti közlekedéshez. A város szívében kezdünk a Pápai Palotával, majd busszal megyünk a festői Rue des Teinturiers-hez. A délutánt a folyóparton és a hídon töltjük, mielőtt a napot a Rocher des Doms parkban a naplementével koronáznánk meg. Ideális a távolságok áthidalására és az energia megtakarítására.",
         "ro": "Utilizați rețeaua eficientă de autobuze din Avignon pentru a trece rapid dintr-un cartier în altul. Începem în inima orașului cu Palatul Papilor, apoi luăm autobuzul către pitoreasca Rue des Teinturiers. După-amiaza o petrecem pe malul râului și pe pod, înainte de a încheia ziua cu apusul în parcul Rocher des Doms. Ideal pentru a parcurge distanțele mari fără efort.",
-        "en": "Use Avignon's efficient bus system to jump between districts. We start in the heart of the city at the Pope's Palace, then take a bus to the picturesque Rue des Teinturiers. Spend the afternoon by the river and the bridge, before crowning the day with a sunset in the Rocher des Doms park. Ideal for covering long distances while saving your energy for exploring."
+        "en": "Use Avignon's efficient bus system to jump between districts. We start in the heart of the city at the Pope's Palace, then take a bus to the picturesque Rue des Teinturiers. Spend the afternoon by the river and the bridge, before crowning the day with a sunset in the Rocher des Doms park. Ideal for covering long distances while saving your energy for exploring.",
+        "fr": "Utilisez le réseau de bus efficace d'Avignon pour sauter d'un quartier à l'autre. Nous commençons au cœur de la ville au Palais des Papes, puis prenons un bus jusqu'à la pittoresque Rue des Teinturiers. Passez l'après‑midi au bord du fleuve et du pont, avant de couronner la journée par un coucher de soleil au parc du Rocher des Doms. Idéal pour couvrir de longues distances tout en préservant votre énergie pour l'exploration."
       },
       "gastro_picks": {
         "de": [
@@ -1162,6 +1236,11 @@
           "Buy a day pass directly from the driver or at the ticket machines.",
           "The 'Orizo' app helps with real-time schedule information.",
           "Buses run less frequently in the evening; plan your return journey accordingly."
+        ],
+        "fr": [
+          "Achetez un ticket journalier directement auprès du conducteur ou aux distributeurs automatiques.",
+          "L'application 'Orizo' aide avec les informations d'horaires en temps réel.",
+          "Les bus circulent moins fréquemment le soir ; prévoyez votre retour en conséquence."
         ]
       }
     }

@@ -21,7 +21,8 @@
             "de": "Palais des Festivals",
             "hu": "Fesztiválpalota",
             "ro": "Palais des Festivals",
-            "en": "Palais des Festivals"
+            "en": "Palais des Festivals",
+            "fr": "Palais des Festivals"
           },
           "coords": [
             7.017,
@@ -45,7 +46,8 @@
             "de": "Le Suquet (Altstadt)",
             "hu": "Le Suquet (Óváros)",
             "ro": "Le Suquet (Centrul Vechi)",
-            "en": "Le Suquet (Old Town)"
+            "en": "Le Suquet (Old Town)",
+            "fr": "Le Suquet (Old Town)"
           },
           "coords": [
             7.011,
@@ -61,7 +63,7 @@
             "hu": "Sétálj fel az óratoronyhoz a legjobb kilátásért az öbölre.",
             "ro": "Urcați la turnul cu ceas pentru cea mai bună vedere asupra golfului.",
             "en": "Walk up to the clock tower for the best view over the bay.",
-            "fr": "Montez jusqu'à la tour de l'horloge pour la meilleure vue sur la baie."
+            "fr": "Montez jusqu’à la tour de l’horloge pour la meilleure vue sur la baie."
           }
         },
         {
@@ -69,7 +71,8 @@
             "de": "Marché Forville",
             "hu": "Forville piac",
             "ro": "Piața Forville",
-            "en": "Forville Market"
+            "en": "Forville Market",
+            "fr": "Forville Market"
           },
           "coords": [
             7.012,
@@ -93,7 +96,8 @@
             "de": "Vieux Port",
             "hu": "Régi Kikötő",
             "ro": "Portul Vechi",
-            "en": "Vieux Port"
+            "en": "Vieux Port",
+            "fr": "Vieux Port"
           },
           "coords": [
             7.014,
@@ -109,7 +113,7 @@
             "hu": "Nézd meg a halászhajókat a luxusjachtok mellett.",
             "ro": "Vedeți bărcile de pescuit lângă iahturile de lux.",
             "en": "See the fishing boats next to the luxury yachts.",
-            "fr": "Admirez les bateaux de pêche à côté des yachts de luxe."
+            "fr": "Voyez les bateaux de pêche à côté des yachts de luxe."
           }
         },
         {
@@ -117,7 +121,8 @@
             "de": "La Croisette Promenade",
             "hu": "La Croisette sétány",
             "ro": "Promenada La Croisette",
-            "en": "La Croisette Promenade"
+            "en": "La Croisette Promenade",
+            "fr": "La Croisette Promenade"
           },
           "coords": [
             7.025,
@@ -133,7 +138,7 @@
             "hu": "A híres, 2 km hosszú tengerparti sétány.",
             "ro": "Faimoasa promenadă de 2 km de-a lungul țărmului.",
             "en": "The famous 2 km long waterfront promenade.",
-            "fr": "La célèbre promenade de front de mer longue de 2 km."
+            "fr": "La célèbre promenade du front de mer longue de 2 km."
           }
         },
         {
@@ -141,7 +146,8 @@
             "de": "Plage de la Croisette",
             "hu": "La Croisette strand",
             "ro": "Plaja Croisette",
-            "en": "La Croisette Beach"
+            "en": "La Croisette Beach",
+            "fr": "Plage de la Croisette"
           },
           "coords": [
             7.03,
@@ -157,7 +163,7 @@
             "hu": "Vannak nyilvános szakaszok a hotelstrandok között.",
             "ro": "Există secțiuni publice între plajele hotelurilor.",
             "en": "There are public sections between the hotel beaches.",
-            "fr": "Il existe des sections publiques entre les plages privées des hôtels."
+            "fr": "Il y a des sections publiques entre les plages privées des hôtels."
           }
         },
         {
@@ -165,7 +171,8 @@
             "de": "Rue d'Antibes",
             "hu": "Rue d'Antibes",
             "ro": "Rue d'Antibes",
-            "en": "Rue d'Antibes"
+            "en": "Rue d'Antibes",
+            "fr": "Rue d'Antibes"
           },
           "coords": [
             7.02,
@@ -181,7 +188,7 @@
             "hu": "A fő bevásárlóutca számos ismert márkával.",
             "ro": "Principala stradă comercială cu multe mărci cunoscute.",
             "en": "The main shopping street with many well-known brands.",
-            "fr": "La principale rue commerçante avec de nombreuses enseignes célèbres."
+            "fr": "La principale rue commerçante avec de nombreuses marques connues."
           }
         }
       ],
@@ -190,7 +197,7 @@
         "hu": "Egy sétányi túra Cannes-ban ötvözi a csillogást a történelmi bájjal. A túra a Fesztiválpalotánál kezdődik, a filmvilág szívében. Ezután felkapaszkodsz a középkori Le Suquet negyedbe, ahol a város született. A kilátás a Notre-Dame d'Espérance templomtól egyedülálló.\n\nA pezsgő Forville piac után az út a régi kikötő mentén a pompás Croisette-hez vezet. Itt pálmafák és luxusszállodák között sétálhatsz, tarthatsz egy strandpihenőt, majd a napot kirakatnézegetéssel zárhatod az elegáns Rue d'Antibes-en.",
         "ro": "O plimbare prin Cannes îmbină farmecul istoric cu strălucirea modernă. Începe la Palais des Festivals, inima lumii cinematografice. Apoi urcați în cartierul medieval Le Suquet, unde s-a născut orașul. Vederea de la biserica Notre-Dame d'Espérance este unică.\n\nDupă piața plină de viață Forville, drumul duce pe lângă portul vechi spre magnifica Croisette. Aici vă plimbați printre palmieri și hoteluri de lux, faceți o pauză de plajă și încheiați ziua cu o sesiune de cumpărături pe eleganta stradă Rue d'Antibes.",
         "en": "A walk through Cannes combines glamour with historic charm. It starts at the Palais des Festivals, the heart of the film world. Then, climb up to the medieval Le Suquet district, where the city was born. The view from the Notre-Dame d'Espérance church is unique.\n\nAfter the lively Forville Market, the path leads along the old harbor to the magnificent Croisette. Here you stroll between palm trees and luxury hotels, take a beach break, and end the day with window shopping on the elegant Rue d'Antibes.",
-        "fr": "Une promenade à Cannes allie glamour et charme historique. Elle commence au Palais des Festivals, cœur du monde du cinéma. Ensuite, montez dans le quartier médiéval du Suquet, là où la ville est née. La vue depuis l'église Notre-Dame d'Espérance est unique.\n\nAprès le marché Forville animé, le chemin longe le vieux port jusqu'à la magnifique Croisette. Ici, vous flânez entre palmiers et hôtels de luxe, faites une pause sur la plage et terminez la journée par du lèche-vitrine sur l'élégante rue d'Antibes."
+        "fr": "Une balade à travers Cannes allie glamour et charme historique. Elle commence au Palais des Festivals, cœur du monde du cinéma. Montez ensuite dans le quartier médiéval du Suquet, où la ville est née. La vue depuis l’église Notre-Dame d’Espérance est unique.\n\nAprès le marché animé de Forville, le chemin longe le vieux port jusqu’à la magnifique Croisette. Ici vous flânez entre palmiers et hôtels de luxe, faites une pause plage et terminez la journée par du lèche-vitrine sur l’élégante Rue d’Antibes."
       },
       "gastro_picks": {
         "de": [
@@ -311,8 +318,8 @@
           "The red chairs on the Croisette are free to use for resting."
         ],
         "fr": [
-          "Visitez le Suquet tôt le matin pour bénéficier de la meilleure lumière pour vos photos.",
-          "Les chaises rouges sur la Croisette sont en libre accès pour se reposer."
+          "Visitez Le Suquet tôt le matin pour une lumière photo idéale.",
+          "Les chaises rouges sur la Croisette sont gratuites pour se reposer."
         ]
       },
       "variants": {
@@ -322,7 +329,7 @@
             "hu": "Kezdje a reggelt Le Suquet szűk, némi védelmet nyújtó utcáin. A Marché Forville tökéletes fedett menedék a délelőtti órákban. Délben a Fesztiválpalota belső terei nyújtanak száraz pihenőt a szeles Croisette-séta előtt. A délutánt egy üvegfalú parti étteremben töltse a tenger látványát élvezve. Este a kikötő egyik hangulatos, védett vendéglőjében zárja a napot, hallgatva az eső kopogását a vízen.",
             "ro": "Începeți dimineața pe străzile înguste din Le Suquet, care oferă oarecare adăpost. Marché Forville este o oază acoperită perfectă pentru orele prânzului. La amiază, Palais des Festivals oferă spații interioare uscate înainte de o plimbare rapidă pe Croisette. Petreceți după-amiaza într-un restaurant pe plajă cu pereți de sticlă. Seara, bucurați-vă de atmosfera portului dintr-un local protejat, ascultând ploaia.",
             "en": "Start your morning in the narrow alleys of Le Suquet, which offer some shelter. Marché Forville is a perfect covered haven for the late morning. At noon, the Palais des Festivals provides dry indoor spaces before a breezy walk along the Croisette. Spend the afternoon in a glass-walled beach restaurant enjoying the sea view. In the evening, end the day in a cozy, protected harbor eatery.",
-            "fr": "Commencez votre matinée dans les ruelles étroites du Suquet, qui offrent un certain abri. Le marché Forville est un refuge couvert parfait pour la fin de matinée. À midi, le Palais des Festivals propose des espaces intérieurs au sec avant une promenade vivifiante le long de la Croisette. Passez l'après-midi dans un restaurant de plage vitré en profitant de la vue sur la mer. En soirée, terminez la journée dans un restaurant de port chaleureux et protégé."
+            "fr": "Commencez la matinée dans les ruelles étroites du Suquet, qui offrent un peu d’abri. Le marché Forville est un parfait refuge couvert pour la fin de matinée. À midi, le Palais des Festivals propose des espaces intérieurs secs avant une promenade aérienne le long de la Croisette. Passez l’après-midi dans un restaurant de plage vitré en profitant de la vue sur la mer. Le soir, terminez la journée dans une auberge protégée et conviviale au port."
           },
           "stops": [
             {
@@ -342,7 +349,7 @@
                 "hu": "Teljesen fedett, ideális hely a száradásra.",
                 "ro": "Complet acoperit, ideal pentru a te usca.",
                 "en": "Fully covered, ideal spot to dry off.",
-                "fr": "Entièrement couvert, l'endroit idéal pour se sécher."
+                "fr": "Totalement couvert, endroit idéal pour se sécher."
               }
             },
             {
@@ -352,7 +359,7 @@
                 "hu": "Gyors fotó, majd irány a következő kávézó.",
                 "ro": "O poză rapidă, apoi fugi la următoarea cafenea.",
                 "en": "Quick photo, then dash to the next café.",
-                "fr": "Photo rapide, puis filez vers le prochain café."
+                "fr": "Photo rapide, puis filez au prochain café."
               }
             },
             {
@@ -362,7 +369,7 @@
                 "hu": "Látogasson el a boltba vagy kiállításokra.",
                 "ro": "Vizitați magazinul sau expozițiile interne.",
                 "en": "Visit the shop or internal exhibitions.",
-                "fr": "Visitez la boutique ou les expositions intérieures."
+                "fr": "Visitez la boutique ou les expositions internes."
               }
             },
             {
@@ -372,7 +379,7 @@
                 "hu": "Egy stabil esernyő itt kötelező felszerelés.",
                 "ro": "O umbrelă rezistentă este obligatorie aici.",
                 "en": "A sturdy umbrella is a must-have here.",
-                "fr": "Un parapluie robuste est indispensable ici."
+                "fr": "Un parapluie solide est indispensable ici."
               }
             },
             {
@@ -392,7 +399,7 @@
                 "hu": "Élvezze a szürke tenger látványát a házból.",
                 "ro": "Admirați marea agitată din interior.",
                 "en": "Enjoy the view of the stormy sea from inside.",
-                "fr": "Profitez de la vue sur la mer agitée depuis l'intérieur."
+                "fr": "Admirez la mer en furie depuis l’intérieur."
               }
             }
           ],
@@ -426,11 +433,11 @@
               "Windproof clothing is more essential on the promenade than an umbrella."
             ],
             "fr": [
-              "Les pavés du Suquet peuvent être glissants lorsqu'ils sont mouillés.",
-              "Le marché Forville offre la meilleure protection lors de fortes averses.",
-              "De nombreux clubs de plage disposent de pavillons vitrés chauffés pour les jours de pluie.",
-              "Utilisez les passages souterrains du port pour vous déplacer en restant au sec.",
-              "Un vêtement coupe-vent est plus essentiel qu'un parapluie sur la promenade."
+              "Les pavés du Suquet peuvent être glissants quand ils sont mouillés.",
+              "Le marché Forville offre la meilleure protection lors d’averses fortes.",
+              "De nombreux clubs de plage ont des pavillons vitrés chauffés pour les jours de pluie.",
+              "Utilisez les passages sous le port pour circuler au sec.",
+              "Des vêtements coupe-vent sont plus essentiels sur la promenade qu’un parapluie."
             ]
           }
         },
@@ -440,7 +447,7 @@
             "hu": "A téli reggelek Cannes-ban gyakran naposak és tiszták. A piaci séta után melegedjen fel egy kávéval a Régi Kikötőben. A Croisette délben csodálatosan üres, tiszta kilátást nyújtva az Esterel-hegységre. Mivel a nap 17:10 körül nyugszik, érdemes a parti programot előbbre hozni. Az estét töltse egy pohár provence-i bor mellett az óváros egyik barátságos bisztrójában.",
             "ro": "Diminețile de iarnă în Cannes sunt adesea însorite și senine. După piață, încălziți-vă cu o cafea în Portul Vechi. Croisette este minunat de goală la prânz, oferind vedere clară spre Munții Esterel. Deoarece soarele apune în jur de 17:10, planificați plaja mai devreme. Seara, relaxați-vă cu un pahar de vin provensal într-un bistro primitor din orașul vechi.",
             "en": "Winter mornings in Cannes are often sunny and crisp. After the market, warm up with a coffee at the Old Port. The Croisette is wonderfully empty at noon, offering clear views of the Esterel mountains. Since the sun sets around 17:10, move your beach time earlier. Spend the evening with a glass of Provençal wine in a cozy bistro in the old town.",
-            "fr": "Les matinées d'hiver à Cannes sont souvent ensoleillées et fraîches. Après le marché, réchauffez-vous avec un café au Vieux Port. La Croisette est merveilleusement vide à midi, offrant une vue dégagée sur le massif de l'Esterel. Comme le soleil se couche vers 17h10, avancez votre pause plage. Passez la soirée avec un verre de vin provençal dans un bistrot accueillant de la vieille ville."
+            "fr": "Les matins d’hiver à Cannes sont souvent ensoleillés et vifs. Après le marché, réchauffez-vous avec un café au Vieux-Port. La Croisette est merveilleusement vide à midi, offrant des vues dégagées sur l’Esterel. Comme le soleil se couche vers 17:10, avancez votre temps de plage. Passez la soirée avec un verre de vin provençal dans un bistrot chaleureux de la vieille ville."
           },
           "stops": [
             {
@@ -450,7 +457,7 @@
                 "hu": "Tiszta kilátás a toronyból a havas Alpokra.",
                 "ro": "Vedere clară din turn spre Alpii înzăpeziți.",
                 "en": "Clear views from the tower to the snowy Alps.",
-                "fr": "Vue imprenable de la tour jusqu'aux Alpes enneigées."
+                "fr": "Vues dégagées depuis la tour jusqu’aux Alpes enneigées."
               }
             },
             {
@@ -460,7 +467,7 @@
                 "hu": "Kóstolja meg a szezonális szarvasgombát és zöldségeket.",
                 "ro": "Gustați trufele de sezon și legumele de iarnă.",
                 "en": "Try seasonal truffles and winter vegetables.",
-                "fr": "Goûtez aux truffes de saison et aux légumes d'hiver."
+                "fr": "Goûtez aux truffes de saison et aux légumes d’hiver."
               }
             },
             {
@@ -470,7 +477,7 @@
                 "hu": "Élvezze a téli napsütést a szélvédett sarokban.",
                 "ro": "Bucurați-vă de soarele de iarnă într-un colț ferit.",
                 "en": "Enjoy the winter sun in a wind-sheltered corner.",
-                "fr": "Profitez du soleil hivernal dans un coin à l'abri du vent."
+                "fr": "Profitez du soleil d’hiver dans un coin abrité du vent."
               }
             },
             {
@@ -480,7 +487,7 @@
                 "hu": "Kisebb a sorban állás a kézlenyomatoknál.",
                 "ro": "Cozi mai mici la amprentele celebrităților.",
                 "en": "Fewer queues at the celebrity handprints.",
-                "fr": "Moins de files d'attente aux empreintes de mains des célébrités."
+                "fr": "Moins de files d’attente aux empreintes de célébrités."
               }
             },
             {
@@ -500,7 +507,7 @@
                 "hu": "Rendeljen egy melengető Bouillabaisse-t.",
                 "ro": "Comandați o Bouillabaisse caldă.",
                 "en": "Order a warming Bouillabaisse soup.",
-                "fr": "Commandez une bouillabaisse réconfortante."
+                "fr": "Commandez une bouillabaisse réchauffante."
               }
             },
             {
@@ -510,7 +517,7 @@
                 "hu": "A naplemente itt 17:10 körül várható.",
                 "ro": "Apusul are loc aici în jur de ora 17:10.",
                 "en": "Sunset happens here around 17:10.",
-                "fr": "Le coucher de soleil a lieu ici vers 17h10."
+                "fr": "Le coucher du soleil a lieu ici vers 17:10."
               }
             }
           ],
@@ -544,11 +551,11 @@
               "It is dark by 17:30, plan your return trip accordingly."
             ],
             "fr": [
-              "Les températures chutent considérablement dès que le soleil se couche.",
-              "De nombreux cafés proposent des plaids pour les terrasses en hiver.",
-              "Le soleil d'hiver est fort sur la côte, utilisez de la crème solaire.",
-              "La Croisette est parfaite pour de longues marches sans la chaleur estivale.",
-              "Il fait nuit à 17h30, planifiez votre retour en conséquence."
+              "Les températures chutent notablement dès la tombée du soleil.",
+              "Beaucoup de cafés proposent des couvertures pour les sièges extérieurs en hiver.",
+              "Le soleil d’hiver est fort sur la côte, utilisez de la crème solaire.",
+              "La Croisette est parfaite pour de longues promenades sans la chaleur estivale.",
+              "Il fait nuit à 17:30, prévoyez votre retour en conséquence."
             ]
           }
         }
@@ -567,7 +574,8 @@
             "de": "Palm Beach",
             "hu": "Palm Beach",
             "ro": "Palm Beach",
-            "en": "Palm Beach"
+            "en": "Palm Beach",
+            "fr": "Palm Beach"
           },
           "coords": [
             7.042,
@@ -591,7 +599,8 @@
             "de": "La Croisette Radweg",
             "hu": "La Croisette kerékpárút",
             "ro": "Pista de biciclete Croisette",
-            "en": "La Croisette Bike Path"
+            "en": "La Croisette Bike Path",
+            "fr": "Piste cyclable de la Croisette"
           },
           "coords": [
             7.025,
@@ -615,7 +624,8 @@
             "de": "Mandelieu-la-Napoule Küste",
             "hu": "Mandelieu-la-Napoule part",
             "ro": "Coasta Mandelieu-la-Napoule",
-            "en": "Mandelieu-la-Napoule Coast"
+            "en": "Mandelieu-la-Napoule Coast",
+            "fr": "Côte de Mandelieu-la-Napoule"
           },
           "coords": [
             6.94,
@@ -631,7 +641,7 @@
             "hu": "Látványos kerékpárút nyugat felé a vörös sziklák mentén.",
             "ro": "Pistă panoramică spre vest de-a lungul stâncilor roșii.",
             "en": "Panoramic bike path heading west along the red rocks.",
-            "fr": "Piste cyclable panoramique vers l'ouest longeant les roches rouges."
+            "fr": "Piste panoramique vers l’ouest le long des rochers rouges."
           }
         },
         {
@@ -639,7 +649,8 @@
             "de": "Château de la Napoule",
             "hu": "La Napoule kastély",
             "ro": "Castelul La Napoule",
-            "en": "Château de la Napoule"
+            "en": "Château de la Napoule",
+            "fr": "Château de la Napoule"
           },
           "coords": [
             6.942,
@@ -655,7 +666,7 @@
             "hu": "Restaurált kastély közvetlenül a tengerparton, különleges kertekkel.",
             "ro": "Un castel restaurat pe malul mării cu grădini excentrice.",
             "en": "A restored castle right by the sea with eccentric gardens.",
-            "fr": "Un château restauré en bord de mer avec des jardins excentriques."
+            "fr": "Un château restauré au bord de la mer avec des jardins excentriques."
           }
         },
         {
@@ -663,7 +674,8 @@
             "de": "Port de la Napoule",
             "hu": "La Napoule kikötő",
             "ro": "Portul La Napoule",
-            "en": "Port de la Napoule"
+            "en": "Port de la Napoule",
+            "fr": "Port de la Napoule"
           },
           "coords": [
             6.946,
@@ -679,7 +691,7 @@
             "hu": "Ebédszünet a kikötői éttermek egyikében.",
             "ro": "Pauză de prânz într-unul dintre restaurantele din port.",
             "en": "Lunch break in one of the harbor restaurants.",
-            "fr": "Pause déjeuner dans l'un des restaurants du port."
+            "fr": "Pause déjeuner dans l’un des restaurants du port."
           }
         },
         {
@@ -687,7 +699,8 @@
             "de": "Plage de la Bocca",
             "hu": "La Bocca strand",
             "ro": "Plaja Bocca",
-            "en": "Plage de la Bocca"
+            "en": "Plage de la Bocca",
+            "fr": "Plage de la Bocca"
           },
           "coords": [
             6.975,
@@ -712,7 +725,7 @@
         "hu": "Ez az útvonal Cannes csücskétől a lenyűgöző La Napoule kastélyig vezet. Végigtekerhetsz a Croisette-en, majd nyugat felé folytatod, ahol a part sziklásabbá és drámaibbá válik. Az út nagyrészt sík, és folyamatos tengeri kilátást biztosít.\n\nA cél a különleges Mandelieu-la-Napoule-i kastély, amely művészetéről és kertjeiről híres. A felfedezés és a La Napoule kikötőjében elköltött ebéd után a visszaút a La Bocca strandjai mentén halad, ahol élvezheted a napsütést, mielőtt visszatérnél Cannes-ba.",
         "ro": "Acest traseu vă poartă din vârful orașului Cannes până la impresionantul castel La Napoule. Pedalați de-a lungul întregii Croisette și continuați spre vest, unde coasta devine mai stâncoasă și dramatică. Drumul este în mare parte plat și oferă vedere constantă spre mare.\n\nDestinația este castelul excentric din Mandelieu-la-Napoule, cunoscut pentru arta și grădinile sale. După o explorare și un prânz în portul La Napoule, drumul de întoarcere trece pe lângă plajele din La Bocca, unde vă puteți bucura de soare înainte de a reveni în Cannes.",
         "en": "This route takes you from the tip of Cannes to the impressive Château de la Napoule. You cycle along the entire Croisette and continue west, where the coast becomes rockier and more dramatic. The path is mostly flat and offers constant sea views.\n\nThe destination is the eccentric castle in Mandelieu-la-Napoule, famous for its art and gardens. After exploring and having lunch at the port of La Napoule, the return journey follows the beaches of La Bocca, where you can soak up the sun before returning to Cannes.",
-        "fr": "Cet itinéraire vous emmène de la pointe de Cannes jusqu'à l'impressionnant Château de la Napoule. Vous pédalez le long de toute la Croisette et continuez vers l'ouest, là où la côte devient plus rocheuse et spectaculaire. Le parcours est essentiellement plat et offre une vue constante sur la mer.\n\nLa destination est le château excentrique de Mandelieu-la-Napoule, célèbre pour son art et ses jardins. Après l'exploration et un déjeuner au port de la Napoule, le voyage de retour suit les plages de la Bocca, où vous pourrez profiter du soleil avant de regagner Cannes."
+        "fr": "Cet itinéraire vous mène de la pointe de Cannes jusqu’à l’imposant Château de la Napoule. Vous pédalez le long de toute la Croisette puis continuez vers l’ouest, où la côte devient plus rocheuse et spectaculaire. Le parcours est majoritairement plat et offre des vues constantes sur la mer.\n\nLa destination est le château excentrique de Mandelieu-la-Napoule, célèbre pour son art et ses jardins. Après la visite et le déjeuner au port de La Napoule, le retour suit les plages de La Bocca, où vous pourrez profiter du soleil avant de revenir à Cannes."
       },
       "gastro_picks": {
         "de": [
@@ -833,8 +846,8 @@
           "In the off-season, the route is much quieter."
         ],
         "fr": [
-          "Utilisez les pistes cyclables à l'écart de la route principale.",
-          "Hors saison, l'itinéraire est beaucoup plus calme."
+          "Utilisez les pistes cyclables à l’écart de la route principale.",
+          "Hors saison, l’itinéraire est beaucoup plus calme."
         ]
       },
       "variants": {
@@ -844,7 +857,7 @@
             "hu": "Egy esős biciklis nap Cannes-ban óvatosságot igényel. Kezdjen lassan a Régi Kikötőnél, és használja a Croisette jól jelzett kerékpárútjait. Délben a Palm Beach-nél gyakran erős a szél, keressen menedéket egy étteremben. Délután az út a városközponton keresztül vezet vissza, ahol gyakran megállhat az árkádok alatt. A napot a Castre Múzeumnál zárja, ahol a kert esőben misztikus hangulatot áraszt.",
             "ro": "O zi ploioasă pe bicicletă în Cannes necesită prudență. Începeți cu grijă din Portul Vechi și folosiți pistele marcate de pe Croisette. La prânz, vântul este adesea puternic la Palm Beach, așa că căutați adăpost într-un restaurant. După-amiaza, drumul trece prin centrul orașului, unde vă puteți opri sub arcade. Încheiați ziua la Muzeul Castre, a cărui grădină pare mistică pe ploaie.",
             "en": "A rainy bike day in Cannes requires caution. Start carefully at the Old Port and use the well-marked cycle lanes on the Croisette. At noon near Palm Beach, the wind is often strong, so seek shelter in a restaurant. The afternoon route leads back through the city center, offering stops under archways. End your day at the Castre Museum, where the garden feels mystical in the rain.",
-            "fr": "Une journée de vélo sous la pluie à Cannes demande de la prudence. Commencez prudemment au Vieux Port et utilisez les pistes cyclables bien balisées de la Croisette. À midi près de Palm Beach, le vent est souvent fort, cherchez refuge dans un restaurant. L'itinéraire de l'après-midi revient par le centre-ville, offrant des arrêts sous les arcades. Terminez votre journée au Musée de la Castre, où le jardin prend une allure mystique sous la pluie."
+            "fr": "Une journée de vélo pluvieuse à Cannes demande de la prudence. Commencez prudemment au Vieux-Port et empruntez les pistes cyclables bien balisées sur la Croisette. À midi près de Palm Beach, le vent est souvent fort, cherchez un abri dans un restaurant. L’itinéraire de l’après-midi revient par le centre-ville, offrant des arrêts sous les arcades. Terminez votre journée au musée Castre, dont le jardin paraît mystique sous la pluie."
           },
           "stops": [
             {
@@ -864,7 +877,7 @@
                 "hu": "Hajtson lassan, fennáll a vízenfutás veszélye.",
                 "ro": "Conduceți încet, risc de acvaplanare.",
                 "en": "Ride slowly, risk of aquaplaning on the path.",
-                "fr": "Roulez lentement, risque d'aquaplanage sur la piste."
+                "fr": "Roulez lentement, risque d’aquaplaning sur la piste."
               }
             },
             {
@@ -874,7 +887,7 @@
                 "hu": "Erős oldalszél várható, fogja szorosan a kormányt.",
                 "ro": "Vânt lateral puternic, țineți bine ghidonul.",
                 "en": "Strong crosswinds possible, keep a firm grip.",
-                "fr": "Vents de travers puissants possibles, tenez bien le guidon."
+                "fr": "Forts vents latéraux possibles, gardez une prise ferme."
               }
             },
             {
@@ -894,7 +907,7 @@
                 "hu": "Szárítsa meg felszerelését a bejáratnál.",
                 "ro": "Uscați-vă echipamentul în zona de intrare.",
                 "en": "Dry your gear in the entrance area.",
-                "fr": "Séchez votre équipement dans la zone d'entrée."
+                "fr": "Séchez votre équipement dans l’entrée."
               }
             },
             {
@@ -904,7 +917,7 @@
                 "hu": "A kerti utak sarasak lehetnek.",
                 "ro": "Potecile din grădină pot fi noroioase.",
                 "en": "Garden paths can be muddy in the rain.",
-                "fr": "Les sentiers du jardin peuvent être boueux sous la pluie."
+                "fr": "Les chemins de jardin peuvent être boueux sous la pluie."
               }
             }
           ],
@@ -938,11 +951,11 @@
               "Wear a bright raincoat for better visibility to drivers."
             ],
             "fr": [
-              "Utilisez des garde-boue pour éviter les projections d'eau des roues.",
-              "Les dalles bleues par endroits sont extrêmement glissantes lorsqu'elles sont mouillées.",
-              "Des sacoches étanches sont essentielles pour vos appareils électroniques.",
-              "Vérifiez vos freins avant de descendre de la colline du Suquet.",
-              "Portez un imperméable brillant pour une meilleure visibilité auprès des conducteurs."
+              "Utilisez des garde-boues pour éviter les projections d’eau des roues.",
+              "Les carreaux bleus dans certaines zones sont extrêmement glissants lorsqu’ils sont mouillés.",
+              "Des sacoches imperméables sont indispensables pour vos appareils électroniques.",
+              "Vérifiez vos freins avant de descendre la colline du Suquet.",
+              "Portez un imperméable de couleur vive pour une meilleure visibilité auprès des automobilistes."
             ]
           }
         },
@@ -952,7 +965,7 @@
             "hu": "A téli kerékpározás Cannes-ban igazi élvezet a friss tengeri szélben. Reggel a Régi Kikötő élénk, de nem zsúfolt. A Croisette menti tekerés télen nyújtja a legszebb panorámát a Lérins-szigetekre. Délben a nap a Palm Beach-en általában elég meleg egy szabadtéri pihenőhöz. Délután tekerjen vissza a Suquet-hez, és nézze végig a naplementét a kikötő felett a nyeregből.",
             "ro": "Ciclismul de iarnă în Cannes este o plăcere pură în briza proaspătă a mării. Dimineața, Portul Vechi este animat, dar nu aglomerat. Drumul pe Croisette oferă cea mai frumoasă panoramă spre insulele Lérins iarna. La prânz, soarele de la Palm Beach este de obicei suficient de cald pentru o pauză afară. După-amiaza, pedalați înapoi spre Suquet pentru apus.",
             "en": "Cycling in winter in Cannes is pure joy in the fresh sea breeze. In the morning, the Old Port is lively but not crowded. The ride along the Croisette offers the best winter panorama of the Lérins Islands. At noon, the sun at Palm Beach is usually warm enough for an outdoor break. In the afternoon, cycle back to Suquet and watch the sunset over the harbor from your bike.",
-            "fr": "Faire du vélo en hiver à Cannes est un pur plaisir dans la brise marine fraîche. Le matin, le Vieux Port est animé mais pas bondé. La balade le long de la Croisette offre le meilleur panorama hivernal sur les îles de Lérins. À midi, le soleil à Palm Beach est généralement assez chaud pour une pause en terrasse. L'après-midi, pédalez vers le Suquet et admirez le coucher de soleil sur le port depuis votre vélo."
+            "fr": "Faire du vélo en hiver à Cannes est un pur plaisir dans la brise marine fraîche. Le matin, le Vieux-Port est animé mais pas surchargé. La balade le long de la Croisette offre le meilleur panorama hivernal des îles de Lérins. À midi, le soleil à Palm Beach est généralement assez chaud pour une pause en plein air. L’après-midi, roulez vers le Suquet et admirez le coucher du soleil sur le port depuis votre vélo."
           },
           "stops": [
             {
@@ -962,7 +975,7 @@
                 "hu": "A kesztyű fontos az első órában a menetszél miatt.",
                 "ro": "Mănușile sunt importante în prima oră de mers.",
                 "en": "Gloves are important for the first hour of riding.",
-                "fr": "Les gants sont importants pour la première heure de route."
+                "fr": "Des gants sont importants pour la première heure de trajet."
               }
             },
             {
@@ -972,7 +985,7 @@
                 "hu": "Nincsenek turistahadak, élvezze a tempót.",
                 "ro": "Fără mase de turiști, bucurați-vă de viteză.",
                 "en": "No tourist crowds, enjoy a faster pace.",
-                "fr": "Pas de foule de touristes, profitez d'un rythme plus soutenu."
+                "fr": "Pas de foules touristiques, profitez d’un rythme plus rapide."
               }
             },
             {
@@ -982,7 +995,7 @@
                 "hu": "Ideális egy piknikhez a déli napsütésben.",
                 "ro": "Ideal pentru un picnic în soarele amiezii.",
                 "en": "Ideal for a picnic in the midday sun.",
-                "fr": "Idéal pour un pique-nique sous le soleil de midi."
+                "fr": "Idéal pour un pique-nique au soleil de midi."
               }
             },
             {
@@ -992,7 +1005,7 @@
                 "hu": "Csodálja meg a jachtokat a nyári hőség nélkül.",
                 "ro": "Admirați iahturile fără căldura verii.",
                 "en": "Admire the yachts without the summer heat.",
-                "fr": "Admirez les yachts sans la chaleur étouffante de l'été."
+                "fr": "Admirez les yachts sans la chaleur estivale."
               }
             },
             {
@@ -1002,7 +1015,7 @@
                 "hu": "Öltözzön fel jól a továbbinduláshoz.",
                 "ro": "Îmbrăcați-vă bine pentru continuarea drumului.",
                 "en": "Layer up well before continuing your ride.",
-                "fr": "Superposez bien les couches avant de continuer votre route."
+                "fr": "Superposez les couches de vêtements avant de poursuivre votre balade."
               }
             },
             {
@@ -1012,7 +1025,7 @@
                 "hu": "A legjobb fényviszonyok a panorámafotókhoz.",
                 "ro": "Cele mai bune condiții de lumină pentru panorame.",
                 "en": "Best lighting conditions for panoramic photos.",
-                "fr": "Meilleures conditions de lumière pour les photos panoramiques."
+                "fr": "Meilleures conditions d’éclairage pour les photos panoramiques."
               }
             }
           ],
@@ -1047,10 +1060,10 @@
             ],
             "fr": [
               "Portez des vêtements coupe-vent car la brise marine est fraîche.",
-              "Le soleil se couche tôt, vérifiez bien vos éclairages de vélo.",
+              "Le soleil se couche tôt, vérifiez donc vos éclairages de vélo.",
               "Évitez les ruelles ombragées du Suquet, il y fait très froid.",
               "Profitez du soleil hivernal à Palm Beach.",
-              "L'air est beaucoup plus clair en hiver pour les vues lointaines."
+              "L’air est beaucoup plus clair en hiver pour les vues lointaines."
             ]
           }
         }
@@ -1069,7 +1082,8 @@
             "de": "La Croisette (Cluster A)",
             "hu": "La Croisette (A csoport)",
             "ro": "La Croisette (Cluster A)",
-            "en": "La Croisette (Cluster A)"
+            "en": "La Croisette (Cluster A)",
+            "fr": "La Croisette (Groupe A)"
           },
           "coords": [
             7.025,
@@ -1085,7 +1099,7 @@
             "hu": "Parkolj a 'Parking Palais des Festivals' mélygarázsban.",
             "ro": "Parcați în 'Parking Palais des Festivals'.",
             "en": "Park in the 'Parking Palais des Festivals'.",
-            "fr": "Garez-vous au 'Parking Palais des Festivals'."
+            "fr": "Garez-vous au « Parking Palais des Festivals »."
           }
         },
         {
@@ -1093,7 +1107,8 @@
             "de": "Palais des Festivals (Cluster A)",
             "hu": "Fesztiválpalota (A csoport)",
             "ro": "Palais des Festivals (Cluster A)",
-            "en": "Palais des Festivals (Cluster A)"
+            "en": "Palais des Festivals (Cluster A)",
+            "fr": "Palais des Festivals (Groupe A)"
           },
           "coords": [
             7.017,
@@ -1109,7 +1124,7 @@
             "hu": "Séta a parkolótól a híres vörös szőnyeghez.",
             "ro": "Plimbare din parcare spre faimosul covor roșu.",
             "en": "Walk from the parking to the famous red carpet.",
-            "fr": "Marchez du parking jusqu'au célèbre tapis rouge."
+            "fr": "Marchez depuis le parking jusqu’au célèbre tapis rouge."
           }
         },
         {
@@ -1117,7 +1132,8 @@
             "de": "Mougins Dorf (Cluster B)",
             "hu": "Mougins falu (B csoport)",
             "ro": "Satul Mougins (Cluster B)",
-            "en": "Mougins Village (Cluster B)"
+            "en": "Mougins Village (Cluster B)",
+            "fr": "Village de Mougins (Groupe B)"
           },
           "coords": [
             6.995,
@@ -1133,7 +1149,7 @@
             "hu": "Hagyományos hegyi falu, amely gasztronómiájáról híres.",
             "ro": "Sat tradițional de munte, cunoscut pentru gastronomie.",
             "en": "Historic hilltop village famous for its gastronomy.",
-            "fr": "Village historique perché, célèbre pour sa gastronomie."
+            "fr": "Village perché historique célèbre pour sa gastronomie."
           }
         },
         {
@@ -1141,7 +1157,8 @@
             "de": "MACM Museum Mougins (Cluster B)",
             "hu": "MACM Múzeum Mougins (B csoport)",
             "ro": "Muzeul MACM Mougins (Cluster B)",
-            "en": "MACM Museum Mougins (Cluster B)"
+            "en": "MACM Museum Mougins (Cluster B)",
+            "fr": "Musée MACM de Mougins (Groupe B)"
           },
           "coords": [
             6.996,
@@ -1157,7 +1174,7 @@
             "hu": "Klasszikus és modern művészet egyedülálló gyűjteménye.",
             "ro": "Colecție unică de artă clasică și modernă.",
             "en": "Unique collection of classical and modern art.",
-            "fr": "Collection unique d'art classique et moderne."
+            "fr": "Collection unique d’art classique et moderne."
           }
         },
         {
@@ -1165,7 +1182,8 @@
             "de": "Grasse (Cluster C)",
             "hu": "Grasse (C csoport)",
             "ro": "Grasse (Cluster C)",
-            "en": "Grasse (Cluster C)"
+            "en": "Grasse (Cluster C)",
+            "fr": "Grasse (Groupe C)"
           },
           "coords": [
             6.924,
@@ -1181,7 +1199,7 @@
             "hu": "A parfüm világfővárosa, gyárlátogatási lehetőségekkel.",
             "ro": "Capitala mondială a parfumului, vizite la fabrici.",
             "en": "The world capital of perfume, with factory tours available.",
-            "fr": "La capitale mondiale du parfum, avec visites d'usines possibles."
+            "fr": "La capitale mondiale du parfum, avec des visites d’usine disponibles."
           }
         },
         {
@@ -1189,7 +1207,8 @@
             "de": "Internationales Parfümmuseum (Cluster C)",
             "hu": "Nemzetközi Parfümmúzeum (C csoport)",
             "ro": "Muzeul Internațional al Parfumului (Cluster C)",
-            "en": "International Perfume Museum (Cluster C)"
+            "en": "International Perfume Museum (Cluster C)",
+            "fr": "Musée International de la Parfumerie (Groupe C)"
           },
           "coords": [
             6.923,
@@ -1205,7 +1224,7 @@
             "hu": "Tudj meg mindent az illatok történetéről.",
             "ro": "Aflați totul despre istoria mirosurilor.",
             "en": "Learn all about the history of scents.",
-            "fr": "Apprenez tout sur l'histoire des senteurs."
+            "fr": "Découvrez tout sur l'histoire des parfums."
           }
         }
       ],
@@ -1214,7 +1233,7 @@
         "hu": "Ez az autós túra Cannes partvidékét ötvözi a hátországgal. A csillogó Croisette-en töltött délelőtt után a bájos Mougins-ba autózol. A falu kiváló éttermeiről és művészeti galériáiról ismert.\n\nDélután az út Grasse-ba, az illatok világfővárosába vezet tovább. Itt meglátogathatod a történelmi parfümgyárak egyikét, mint a Fragonard vagy a Molinard. A nap Grasse óvárosának meredek utcáin tett sétával zárul, mielőtt visszatérnél a provence-i tájon keresztül.",
         "ro": "Acest tur cu mașina combină coasta din Cannes cu zona deluroasă. După o dimineață plină de strălucire pe Croisette, conduceți spre fermecătorul Mougins. Satul este cunoscut pentru restaurantele sale excelente și galeriile de artă.\n\nDupă-amiaza, drumul continuă spre Grasse, capitala mondială a parfumurilor. Aici vizitați una dintre parfumeriile istorice precum Fragonard sau Molinard. Ziua se încheie cu o plimbare pe străzile abrupte ale orașului vechi din Grasse, înainte de a vă întoarce prin peisajul provensal.",
         "en": "This car tour combines the coast of Cannes with the hinterland. After a glamorous morning on the Croisette, drive to charming Mougins. The village is known for its excellent restaurants and art galleries.\n\nIn the afternoon, the journey continues up to Grasse, the world capital of perfume. Here you visit one of the historic perfumeries such as Fragonard or Molinard. The day ends with a walk through the steep alleys of Grasse's old town before returning through the Provençal countryside.",
-        "fr": "Ce circuit en voiture combine le littoral cannois et l'arrière-pays. Après une matinée glamour sur la Croisette, route vers le charmant village de Mougins. Le village est connu pour ses excellents restaurants et ses galeries d'art.\n\nL'après-midi, le voyage continue vers Grasse, la capitale mondiale du parfum. Ici, vous visitez l'une des parfumeries historiques comme Fragonard ou Molinard. La journée se termine par une promenade dans les ruelles escarpées de la vieille ville de Grasse avant de revenir par la campagne provençale."
+        "fr": "Cette excursion en voiture combine la côte de Cannes et l'arrière-pays. Après une matinée glamour sur la Croisette, dirigez-vous vers le charmant village de Mougins. Le village est réputé pour ses excellents restaurants et ses galeries d'art.\n\nL'après-midi, le trajet se poursuit jusqu'à Grasse, la capitale mondiale du parfum. Vous y visitez l'une des parfumeries historiques telles que Fragonard ou Molinard. La journée se termine par une promenade dans les ruelles escarpées de la vieille ville de Grasse avant de rentrer à travers la campagne provençale."
       },
       "gastro_picks": {
         "de": [
@@ -1335,8 +1354,8 @@
           "Mougins is almost entirely car-free; use the large parking lot at the foot of the village."
         ],
         "fr": [
-          "À Grasse, garez-vous au parking 'Honoré Cresp'.",
-          "Mougins est presque entièrement piéton ; utilisez le grand parking au pied du village."
+          "À Grasse, garez-vous dans le parking « Honoré Cresp ».",
+          "Mougins est presque entièrement piétonnier ; utilisez le grand parking au pied du village."
         ]
       },
       "variants": {
@@ -1346,7 +1365,7 @@
             "hu": "Az esős autózás lehetőséget ad Cannes környékének kényelmes felfedezésére. A Croisette esőben szinte elhagyatott és melankolikus. A Parc de la Croix des Gardes parkban a meleg autóból élvezheti a kilátást. Mougins hegyi faluja esőben különösen hívogató, a kőházak ilyenkor barátságosabbak. A délutánt a Théoule felé vezető parti úton töltse, ahol a hullámok látványosan csapódnak a vörös szikláknak.",
             "ro": "O plimbare cu mașina pe ploaie oferă șansa de a explora împrejurimile Cannes-ului confortabil. Croisette pare aproape pustie și melancolică sub ploaie. În Parc de la Croix des Gardes, admirați priveliștea din mașina caldă. Satul Mougins este primitor pe ploaie, casele de piatră creând o atmosferă caldă. După-amiaza, parcurgeți drumul spre Théoule, unde valurile se sparg spectaculos de stâncile roșii.",
             "en": "A rainy drive offers a cozy way to explore the surroundings of Cannes. The Croisette looks almost deserted and melancholic in the rain. At Parc de la Croix des Gardes, you can enjoy the view from the warmth of your car. The hilltop village of Mougins is especially inviting in the rain, as the stone houses feel extra cozy. Spend the afternoon on the coast road to Théoule, where waves crash spectacularly against red rocks.",
-            "fr": "Une balade en voiture offre une façon confortable d'explorer les environs de Cannes par temps de pluie. La Croisette semble presque déserte et mélancolique sous la pluie. Au parc de la Croix des Gardes, vous pouvez profiter de la vue bien au chaud dans votre voiture. Le village perché de Mougins est particulièrement accueillant sous la pluie, car les maisons en pierre semblent encore plus chaleureuses. Passez l'après-midi sur la route côtière vers Théoule, où les vagues s'écrasent de façon spectaculaire contre les roches rouges."
+            "fr": "Une balade sous la pluie offre une manière chaleureuse d'explorer les environs de Cannes. La Croisette paraît presque déserte et mélancolique sous la pluie. Au Parc de la Croix des Gardes, vous pouvez profiter de la vue depuis la chaleur de votre voiture. Le village perché de Mougins est particulièrement accueillant sous la pluie, car les maisons en pierre semblent encore plus cosy. Passez l'après-midi sur la route côtière jusqu'à Théoule, où les vagues viennent s'écraser spectaculairement contre les rochers rouges."
           },
           "stops": [
             {
@@ -1356,7 +1375,7 @@
                 "hu": "Élvezze a haladást dugók nélkül.",
                 "ro": "Bucurați-vă de drum fără ambuteiaje.",
                 "en": "Enjoy the drive without the usual traffic jams.",
-                "fr": "Profitez du trajet sans les embouteillages habituels."
+                "fr": "Profitez de la route sans les embouteillages habituels."
               }
             },
             {
@@ -1366,7 +1385,7 @@
                 "hu": "Maradjon az autóban a panoráma élvezetéhez.",
                 "ro": "Rămâneți în mașină pentru a vedea panorama.",
                 "en": "Stay in the car to enjoy the panorama.",
-                "fr": "Restez dans la voiture pour profiter du panorama."
+                "fr": "Restez dans la voiture pour apprécier le panorama."
               }
             },
             {
@@ -1376,7 +1395,7 @@
                 "hu": "Parkoljon a központhoz közeli parkolóházban.",
                 "ro": "Parcați într-o parcare acoperită lângă centru.",
                 "en": "Park in a covered garage near the center.",
-                "fr": "Garez-vous dans un parking couvert près du centre."
+                "fr": "Garez-vous dans un garage couvert près du centre."
               }
             },
             {
@@ -1386,7 +1405,7 @@
                 "hu": "Tökéletes hely az eső kivárására.",
                 "ro": "Locul perfect pentru a aștepta oprirea ploii.",
                 "en": "A perfect place to wait out the rain.",
-                "fr": "Un endroit parfait pour attendre que la pluie passe."
+                "fr": "Un endroit idéal pour attendre que la pluie passe."
               }
             },
             {
@@ -1396,7 +1415,7 @@
                 "hu": "Vigyázzon a kőomlásra heves esőzéskor.",
                 "ro": "Atenție la căderile de pietre pe ploaie torențială.",
                 "en": "Watch out for rockfalls during heavy rain.",
-                "fr": "Attention aux chutes de pierres lors de fortes pluies."
+                "fr": "Attention aux chutes de pierres en cas de fortes pluies."
               }
             }
           ],
@@ -1430,10 +1449,10 @@
               "Visibility in the mountains around Mougins can be limited by fog."
             ],
             "fr": [
-              "La route côtière peut recevoir des embruns marins par temps de tempête.",
-              "Mougins dispose de bons parkings souterrains pour accéder au village au sec.",
+              "La route côtière peut recevoir des embruns sur l'asphalte lors des tempêtes.",
+              "Mougins dispose de bons parkings souterrains pour un accès au village à l'abri.",
               "Vérifiez vos essuie-glaces car la pluie peut être très intense ici.",
-              "Profitez du trajet pour prendre des photos de la Côte d'Azur tourmentée.",
+              "Profitez de la balade pour photographier la Côte d'Azur orageuse.",
               "La visibilité dans les collines autour de Mougins peut être limitée par le brouillard."
             ]
           }
@@ -1444,7 +1463,7 @@
             "hu": "A téli autózás Cannes környékén kristálytiszta kilátást nyújt az Alpokig. Reggel a Croisette-en való áthajtás pihentető. A Croix des Gardes parkban a mimózák gyakran már februárban sárgállanak. Mougins télen nyugodt menedék az ínyenceknek. A Corniche de l'Estérel menti délutáni út az alacsony napállásnál mágikus színeket varázsol a vörös sziklákra, mielőtt korán leszáll az alkony.",
             "ro": "Drumurile de iarnă în jurul Cannes-ului oferă o vedere clară până la Alpi. Dimineața, traversarea Croisette este relaxantă. În parcul Croix des Gardes, mimozele înfloresc adesea galben încă din februarie. Mougins este un refugiu liniștit pentru gurmanzi iarna. Drumul pe Corniche de l'Estérel oferă culori magice pe stâncile roșii la apus, care vine devreme.",
             "en": "Winter drives around Cannes offer crystal-clear views all the way to the Alps. In the morning, driving across the Croisette is relaxed. In Croix des Gardes park, mimosas often bloom yellow as early as February. Mougins is a quiet retreat for foodies in winter. The afternoon drive along the Corniche de l'Estérel offers magical colors on the red rocks under the low sun before early twilight.",
-            "fr": "Les balades hivernales autour de Cannes offrent des vues cristallines jusqu'aux Alpes. Le matin, traverser la Croisette en voiture est relaxant. Dans le parc de la Croix des Gardes, les mimosas fleurissent souvent dès février. Mougins est un refuge paisible pour les gourmets en hiver. La route de l'après-midi le long de la Corniche de l'Estérel offre des couleurs magiques sur les roches rouges sous le soleil bas avant le crépuscule précoce."
+            "fr": "Les promenades en voiture autour de Cannes en hiver offrent des vues d'une clarté cristalline jusque vers les Alpes. Le matin, traverser la Croisette est relaxant. Au parc de la Croix des Gardes, les mimosas fleurissent souvent en jaune dès février. Mougins est un refuge calme pour les gourmets en hiver. L'après-midi, la route le long de la Corniche de l'Estérel offre des couleurs magiques sur les rochers rouges sous le soleil bas avant la tombée précoce du soir."
           },
           "stops": [
             {
@@ -1454,7 +1473,7 @@
                 "hu": "A legjobb idő egy stresszmentes panorámaúthoz.",
                 "ro": "Cel mai bun moment pentru o plimbare panoramică fără stres.",
                 "en": "Best time for a scenic drive without the stress.",
-                "fr": "Le meilleur moment pour une route panoramique sans stress."
+                "fr": "Meilleur moment pour une balade panoramique sans stress."
               }
             },
             {
@@ -1464,7 +1483,7 @@
                 "hu": "Keresse a virágzó mimózákat a parkban.",
                 "ro": "Căutați mimozele înflorite în parcuri.",
                 "en": "Look out for blooming mimosas in the park.",
-                "fr": "Cherchez les mimosas en fleurs dans le parc."
+                "fr": "Surveillez les mimosas en fleurs dans le parc."
               }
             },
             {
@@ -1474,7 +1493,7 @@
                 "hu": "Élvezze a nyugalmat a szűk utcákban.",
                 "ro": "Bucurați-vă de liniște pe străduțe.",
                 "en": "Enjoy the peacefulness in the narrow streets.",
-                "fr": "Profitez de la tranquillité dans les rues étroites."
+                "fr": "Appréciez la quiétude des ruelles étroites."
               }
             },
             {
@@ -1494,7 +1513,7 @@
                 "hu": "Élje át az 'arany fényeket' 16:00 órától.",
                 "ro": "Experimentați 'lumina aurie' începând cu ora 16:00.",
                 "en": "Experience the 'Golden Hour' lighting from 16:00.",
-                "fr": "Vivez la lumière de l'heure dorée à partir de 16h00."
+                "fr": "Vivez l'éclairage de « l'heure dorée » à partir de 16:00."
               }
             }
           ],
@@ -1528,11 +1547,11 @@
               "Parking in Cannes is significantly easier to find in winter."
             ],
             "fr": [
-              "Les routes sont beaucoup plus vides en hiver qu'en été.",
-              "En altitude près de Mougins, il peut y avoir du givre matinal.",
-              "Le soleil est bas en hiver, n'oubliez pas vos lunettes de soleil.",
+              "Les routes sont bien plus calmes en hiver qu'en été.",
+              "En altitude près de Mougins, il peut y avoir du gel matinal.",
+              "Le soleil est plus bas en hiver, n'oubliez pas vos lunettes de soleil.",
               "Profitez de l'air pur pour des photos grand-angle parfaites.",
-              "Se garer dans Cannes est nettement plus facile en hiver."
+              "Le stationnement à Cannes est nettement plus facile à trouver en hiver."
             ]
           }
         }
@@ -1551,7 +1570,8 @@
             "de": "Bahnhof Cannes (District A)",
             "hu": "Cannes vasútállomás (A negyed)",
             "ro": "Gara Cannes (District A)",
-            "en": "Cannes Train Station (District A)"
+            "en": "Cannes Train Station (District A)",
+            "fr": "Gare de Cannes (Secteur A)"
           },
           "coords": [
             7.02,
@@ -1567,7 +1587,7 @@
             "hu": "Központi pályaudvar, pár perc sétára a tengertől.",
             "ro": "Gară centrală, la doar câteva minute de mers pe jos de mare.",
             "en": "Central station, just a few minutes' walk from the sea.",
-            "fr": "Gare centrale, à quelques minutes à pied de la mer."
+            "fr": "Gare centrale, à seulement quelques minutes à pied de la mer."
           }
         },
         {
@@ -1575,7 +1595,8 @@
             "de": "Palais des Festivals (District A)",
             "hu": "Fesztiválpalota (A negyed)",
             "ro": "Palais des Festivals (District A)",
-            "en": "Palais des Festivals (District A)"
+            "en": "Palais des Festivals (District A)",
+            "fr": "Palais des Festivals (Secteur A)"
           },
           "coords": [
             7.017,
@@ -1591,7 +1612,7 @@
             "hu": "Séta az állomástól közvetlenül a vörös szőnyeghez.",
             "ro": "Plimbare de la gară direct la covorul roșu.",
             "en": "Walk from the station directly to the red carpet.",
-            "fr": "Marchez de la gare directement jusqu'au tapis rouge."
+            "fr": "Marchez depuis la gare directement vers le tapis rouge."
           }
         },
         {
@@ -1599,7 +1620,8 @@
             "de": "Hafen (Vieux Port) (District A)",
             "hu": "Kikötő (Vieux Port) (A negyed)",
             "ro": "Portul (Portul Vechi) (District A)",
-            "en": "Harbor (Vieux Port) (District A)"
+            "en": "Harbor (Vieux Port) (District A)",
+            "fr": "Port (Vieux Port) (Secteur A)"
           },
           "coords": [
             7.014,
@@ -1623,7 +1645,8 @@
             "de": "Île Sainte-Marguerite (District B)",
             "hu": "Szent Margit-sziget (B negyed)",
             "ro": "Insula Sainte-Marguerite (District B)",
-            "en": "Sainte-Marguerite Island (District B)"
+            "en": "Sainte-Marguerite Island (District B)",
+            "fr": "Île Sainte-Marguerite (Secteur B)"
           },
           "coords": [
             7.045,
@@ -1639,7 +1662,7 @@
             "hu": "Szállj kompra a 15 perces átkeléshez.",
             "ro": "Luați feribotul pentru traversarea de 15 minute.",
             "en": "Take the ferry for the 15-minute crossing.",
-            "fr": "Prenez le ferry pour une traversée de 15 minutes."
+            "fr": "Prenez le ferry pour la traversée de 15 minutes."
           }
         },
         {
@@ -1647,7 +1670,8 @@
             "de": "Fort Royal (District B)",
             "hu": "Fort Royal (B negyed)",
             "ro": "Fort Royal (District B)",
-            "en": "Fort Royal (District B)"
+            "en": "Fort Royal (District B)",
+            "fr": "Fort Royal (Secteur B)"
           },
           "coords": [
             7.044,
@@ -1663,7 +1687,7 @@
             "hu": "A vasálarcos férfi egykori börtöne.",
             "ro": "Fosta închisoare a omului cu masca de fier.",
             "en": "Former prison of the Man in the Iron Mask.",
-            "fr": "Ancienne prison de l'Homme au Masque de Fer."
+            "fr": "Ancienne prison de l'Homme au masque de fer."
           }
         },
         {
@@ -1671,7 +1695,8 @@
             "de": "Écomusée sous-marin (District B)",
             "hu": "Víz alatti ökomúzeum (B negyed)",
             "ro": "Ecomuzeul submarin (District B)",
-            "en": "Underwater Ecomuseum (District B)"
+            "en": "Underwater Ecomuseum (District B)",
+            "fr": "Écomusée sous-marin (Secteur B)"
           },
           "coords": [
             7.042,
@@ -1687,7 +1712,7 @@
             "hu": "Víz alatti szobrok, tökéletes búvárkodáshoz.",
             "ro": "Sculpturi sub apă, perfect pentru snorkeling.",
             "en": "Sculptures under water, perfect for snorkeling.",
-            "fr": "Sculptures sous-marines, parfaites pour le snorkeling."
+            "fr": "Sculptures sous l'eau, parfait pour le snorkeling."
           }
         }
       ],
@@ -1696,7 +1721,7 @@
         "hu": "Ez a túra a kompot használja különleges közlekedési eszközként. A cannes-i vasútállomásra való megérkezés után a kikötő környékét fedezheted fel. Ezután hajóra szállsz a Szent Margit-sziget felé. A sziget tiszta természetet és kristálytiszta vizet kínál, távol a város zajától.\n\nLátogasd meg a történelmi Fort Royal-t, ahol egykor a vasálarcos férfi raboskodott. Délután a víz alatti ökomúzeumnál búvárkodhatsz, mielőtt visszatérnél a szárazföldre. A nap egy sétával zárul a cannes-i központon keresztül vissza a vasútállomáshoz.",
         "ro": "Acest tur folosește feribotul ca mijloc special de transport. După sosirea la gara din Cannes, explorați zona portului. Apoi luați barca spre insula Sainte-Marguerite. Insula oferă natură pură și apă cristalină, departe de agitația orașului.\n\nVizitați istoricul Fort Royal, unde a fost închis cândva omul cu masca de fier. După-amiaza puteți face snorkeling la ecomuzeul submarin înainte de a vă întoarce cu feribotul pe continent. Ziua se încheie cu o plimbare prin centrul orașului Cannes înapoi la gară.",
         "en": "This tour uses the ferry as a special mode of transport. After arriving at the Cannes train station, you explore the harbor area. Then, take the boat to Sainte-Marguerite Island. The island offers pure nature and crystal-clear water, far from the hustle and bustle of the city.\n\nVisit the historic Fort Royal, where the Man in the Iron Mask was once imprisoned. In the afternoon, you can snorkel at the underwater ecomuseum before taking the ferry back to the mainland. The day ends with a walk back to the station through the center of Cannes.",
-        "fr": "Ce circuit utilise le ferry comme mode de transport spécial. Après votre arrivée à la gare de Cannes, vous explorez la zone du port. Ensuite, prenez le bateau pour l'île Sainte-Marguerite. L'île offre une nature pure et des eaux cristallines, loin de l'agitation de la ville.\n\nVisitez le Fort Royal historique, où l'Homme au Masque de Fer fut autrefois emprisonné. L'après-midi, vous pouvez faire du snorkeling à l'écomusée sous-marin avant de reprendre le ferry pour le continent. La journée se termine par une marche de retour vers la gare à travers le centre de Cannes."
+        "fr": "Cette excursion utilise le ferry comme mode de transport spécial. Après être arrivé à la gare de Cannes, vous explorez le port. Ensuite, prenez le bateau pour l'île Sainte-Marguerite. L'île offre une nature pure et une eau cristalline, loin de l'agitation de la ville.\n\nVisitez le Fort Royal historique, où l'Homme au masque de fer fut autrefois emprisonné. L'après-midi, vous pouvez faire du snorkeling à l'écomusée sous-marin avant de reprendre le ferry vers le continent. La journée se termine par une promenade de retour à la gare à travers le centre de Cannes."
       },
       "gastro_picks": {
         "de": [
@@ -1817,8 +1842,8 @@
           "Bring snorkeling gear for the ecomuseum."
         ],
         "fr": [
-          "Réservez vos billets de ferry en ligne à l'avance pour éviter les files d'attente.",
-          "Apportez votre équipement de snorkeling pour l'écomusée."
+          "Réservez les billets de ferry en ligne à l'avance pour éviter les files d'attente.",
+          "Apportez du matériel de snorkeling pour l'écomusée."
         ]
       },
       "variants": {
@@ -1828,7 +1853,7 @@
             "hu": "A tömegközlekedés az esős napokon a legjobb barátja Cannes-ban. A Szent Margit-szigetre tartó komp fűtött belső térrel rendelkezik, ami ideális az átkeléshez. A szigeten a Fort Royal nyújt védelmet és történelmi élményeket. Visszatérve a szárazföldre, a Marché Forville illataival és száraz tetejével csábít. A késő délutánt a Kaszinóban töltse, ahol a kinti időjárás már nem számít.",
             "ro": "Transportul public este cel mai bun prieten în zilele ploioase în Cannes. Feribotul către Insula Sainte-Marguerite are interior încălzit, ideal pentru traversare. Pe insulă, Fort Royal oferă adăpost și istorie. Revenind pe continent, Marché Forville vă atrage cu aromele sale și un acoperiș uscat. Petreceți după-amiaza târzie la Cazino, unde vremea de afară nu contează.",
             "en": "Public transport is your best friend on rainy days in Cannes. The ferry to Île Sainte-Marguerite has a heated interior, ideal for the crossing. On the island, Fort Royal offers shelter and history. Back on the mainland, Marché Forville beckons with its aromas and dry roof. Spend the late afternoon at the Casino, where the weather outside doesn't matter.",
-            "fr": "Les transports publics sont vos meilleurs alliés les jours de pluie à Cannes. Le ferry pour l'île Sainte-Marguerite dispose d'un intérieur chauffé, idéal pour la traversée. Sur l'île, le Fort Royal offre abri et histoire. De retour sur le continent, le marché Forville vous appelle avec ses arômes et son toit protecteur. Passez la fin d'après-midi au Casino, où la météo extérieure n'a aucune importance."
+            "fr": "Les transports en commun sont vos alliés les jours de pluie à Cannes. Le ferry pour l'Île Sainte-Marguerite dispose d'un intérieur chauffé, idéal pour la traversée. Sur l'île, le Fort Royal offre abri et histoire. De retour sur le continent, le Marché Forville attire avec ses arômes et son toit sec. Passez la fin d'après-midi au Casino, où le temps n'a pas d'importance."
           },
           "stops": [
             {
@@ -1838,7 +1863,7 @@
                 "hu": "Várjon a kompállomás fedett várótermében.",
                 "ro": "Așteptați în zona acoperită a terminalului.",
                 "en": "Wait in the covered area of the ferry terminal.",
-                "fr": "Attendez dans la zone couverte du terminal de ferry."
+                "fr": "Attendez dans la zone couverte du terminal ferry."
               }
             },
             {
@@ -1868,7 +1893,7 @@
                 "hu": "Élvezze a forrón tálalt Socca-t.",
                 "ro": "Savurați Socca servită fierbinte.",
                 "en": "Enjoy some Socca, served piping hot.",
-                "fr": "Savourez une socca servie bien chaude."
+                "fr": "Dégustez une Socca, servie brûlante."
               }
             },
             {
@@ -1878,7 +1903,7 @@
                 "hu": "Tökéletes hely a száraz szórakozáshoz.",
                 "ro": "Locul perfect pentru divertisment la adăpost.",
                 "en": "A perfect place for indoor entertainment.",
-                "fr": "Un endroit parfait pour un divertissement en intérieur."
+                "fr": "Un endroit parfait pour se divertir à l'intérieur."
               }
             }
           ],
@@ -1912,11 +1937,11 @@
               "Casinos have a cloakroom for wet coats and umbrellas."
             ],
             "fr": [
-              "Les ferries peuvent circuler moins fréquemment lors de fortes tempêtes.",
-              "La ligne 'Palm Bus' relie tous les points clés tout en restant au sec.",
+              "Les ferries peuvent circuler moins fréquemment lors de très fortes tempêtes.",
+              "La ligne « Palm Bus » relie tous les points clés en restant à l'abri.",
               "Le Fort Royal sur l'île est presque entièrement couvert.",
-              "Achetez vos billets en ligne pour éviter de faire la queue sous la pluie.",
-              "Les casinos disposent d'un vestiaire pour les manteaux mouillés et parapluies."
+              "Achetez vos billets en ligne pour éviter de rester sous la pluie dans la file.",
+              "Les casinos disposent d'un vestiaire pour manteaux et parapluies mouillés."
             ]
           }
         },
@@ -1926,7 +1951,7 @@
             "hu": "A téli napok Cannes-ban busszal és komppal pihentetőek és látványosak. Reggel az átkelés a Szent Margit-szigetre a tiszta levegőben igazi élmény. A sziget télen szinte néptelen, ideális a nyugalomra vágyóknak. Visszatérve Cannes-ba, a Marché Forville kínálja Provence legjobb téli csemegéit. A délutánt és az estét töltse elegánsan a Kaszinóban vagy a Fesztiválpalota egyik előadásán.",
             "ro": "Zilele de iarnă în Cannes cu autobuzul și feribotul sunt relaxante și pitorești. Dimineața, traversarea spre Insula Sainte-Marguerite în aerul curat este o experiență. Insula este aproape pustie iarna, ideală pentru cei care caută liniște. Revenind în Cannes, Marché Forville oferă cele mai bune delicatese de iarnă din Provence. Petreceți după-amiaza și seara elegant la Cazino.",
             "en": "Winter days in Cannes using the bus and ferry are relaxed and scenic. In the morning, the crossing to Île Sainte-Marguerite in the crisp air is a treat. The island is almost deserted in winter, ideal for those seeking peace. Back in Cannes, Marché Forville offers the best winter delicacies of Provence. Spend the afternoon and evening elegantly at the Casino or a show at the Palais.",
-            "fr": "Les journées d'hiver à Cannes en bus et en ferry sont relaxantes et pittoresques. Le matin, la traversée vers l'île Sainte-Marguerite dans l'air vif est un régal. L'île est presque déserte en hiver, idéale pour ceux qui cherchent la paix. De retour à Cannes, le marché Forville propose les meilleures spécialités hivernales de Provence. Passez l'après-midi et la soirée avec élégance au Casino ou devant un spectacle au Palais."
+            "fr": "Les journées d'hiver à Cannes en utilisant bus et ferry sont relaxantes et pittoresques. Le matin, la traversée vers l'Île Sainte-Marguerite dans l'air vif est un régal. L'île est presque déserte en hiver, idéale pour les chercheurs de calme. De retour à Cannes, le Marché Forville propose les meilleures gourmandises hivernales de Provence. Passez l'après-midi et la soirée avec élégance au Casino ou à un spectacle au Palais."
           },
           "stops": [
             {
@@ -1936,7 +1961,7 @@
                 "hu": "Ellenőrizze a kompok téli menetrendjét.",
                 "ro": "Verificați programul de iarnă al feriboturilor.",
                 "en": "Check the winter schedule for the ferries.",
-                "fr": "Vérifiez les horaires d'hiver pour les ferries."
+                "fr": "Consultez les horaires hivernaux des ferries."
               }
             },
             {
@@ -1946,7 +1971,7 @@
                 "hu": "Élvezze a fenyőerdők magányát.",
                 "ro": "Bucurați-vă de singurătatea pădurilor de pini.",
                 "en": "Enjoy the solitude of the pine forests.",
-                "fr": "Profitez de la solitude des forêts de pins."
+                "fr": "Appréciez la solitude des forêts de pins."
               }
             },
             {
@@ -1966,7 +1991,7 @@
                 "hu": "Kóstolja meg a kandírozott gyümölcsöket, téli csemege.",
                 "ro": "Gustați fructele confiate, o specialitate de iarnă.",
                 "en": "Try the candied fruits, a winter specialty here.",
-                "fr": "Goûtez aux fruits confits, une spécialité hivernale locale."
+                "fr": "Goûtez aux fruits confits, spécialité hivernale locale."
               }
             },
             {
@@ -1976,7 +2001,7 @@
                 "hu": "Meleg és stílusos lezárása a napnak.",
                 "ro": "O încheiere caldă și stilată a zilei.",
                 "en": "A warm and stylish way to end the day.",
-                "fr": "Une façon chaleureuse et élégante de terminer la journée."
+                "fr": "Une manière chaleureuse et élégante de terminer la journée."
               }
             }
           ],
@@ -2010,11 +2035,11 @@
               "Entry to Fort Royal is often cheaper during the winter season."
             ],
             "fr": [
-              "Les ferries circulent moins souvent en hiver, généralement toutes les heures.",
+              "Les ferries circulent moins fréquemment en hiver, généralement toutes les heures.",
               "Le bus est agréablement chaud comparé à la brise marine.",
               "Le dernier ferry de retour depuis l'île part plus tôt en hiver.",
-              "Utilisez l'application 'Palm Bus' pour les horaires en temps réel.",
-              "L'entrée au Fort Royal est souvent moins chère durant la saison d'hiver."
+              "Utilisez l'application « Palm Bus » pour les horaires en temps réel.",
+              "L'entrée au Fort Royal est souvent moins chère durant la saison hivernale."
             ]
           }
         }

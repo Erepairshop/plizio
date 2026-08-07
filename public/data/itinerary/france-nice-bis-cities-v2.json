@@ -21,7 +21,8 @@
             "de": "Musée Marc Chagall",
             "hu": "Marc Chagall Múzeum",
             "ro": "Muzeul Marc Chagall",
-            "en": "Marc Chagall National Museum"
+            "en": "Marc Chagall National Museum",
+            "fr": "Musée national Marc Chagall"
           },
           "coords": [
             7.269,
@@ -36,7 +37,8 @@
             "de": "Kommen Sie früh, um die biblischen Botschaften in Ruhe zu sehen.",
             "hu": "Érdemes nyitásra érkezni a bibliai ciklus nyugodt megtekintéséhez.",
             "ro": "Veniți devreme pentru a admira în liniște mesajele biblice.",
-            "en": "Arrive early to enjoy the biblical cycle paintings in peace."
+            "en": "Arrive early to enjoy the biblical cycle paintings in peace.",
+            "fr": "Arrivez tôt pour profiter en paix des cycles bibliques peintes."
           }
         },
         {
@@ -44,7 +46,8 @@
             "de": "Eglise Sainte-Jeanne d'Arc",
             "hu": "Szent Johanna templom",
             "ro": "Biserica Sfânta Ioana d'Arc",
-            "en": "Saint Joan of Arc Church"
+            "en": "Saint Joan of Arc Church",
+            "fr": "Église Sainte-Jeanne d'Arc"
           },
           "coords": [
             7.262,
@@ -59,7 +62,8 @@
             "de": "Bewundern Sie die futuristischen weißen Kuppeln aus den 1930ern.",
             "hu": "Csodálja meg az 1930-as évek futurisztikus fehér kupoláit.",
             "ro": "Admirați cupolele albe futuriste din anii 1930.",
-            "en": "Admire the futuristic white domes from the 1930s."
+            "en": "Admire the futuristic white domes from the 1930s.",
+            "fr": "Admirez les dômes blancs futuristes des années 1930."
           }
         },
         {
@@ -67,7 +71,8 @@
             "de": "Musée Matisse",
             "hu": "Matisse Múzeum",
             "ro": "Muzeul Matisse",
-            "en": "Matisse Museum"
+            "en": "Matisse Museum",
+            "fr": "Musée Matisse"
           },
           "coords": [
             7.276,
@@ -82,7 +87,8 @@
             "de": "Die Villa aus dem 17. Jahrhundert ist so kunstvoll wie die Werke.",
             "hu": "A 17. századi villa épülete is olyan művészi, mint a benne lévő művek.",
             "ro": "Vila din secolul al XVII-lea este la fel de artistică precum operele.",
-            "en": "The 17th-century villa is as artistic as the works inside."
+            "en": "The 17th-century villa is as artistic as the works inside.",
+            "fr": "La villa du XVIIe siècle est aussi artistique que les œuvres qu’elle abrite."
           }
         },
         {
@@ -90,7 +96,8 @@
             "de": "Römisches Amphitheater (Arènes)",
             "hu": "Római amfiteátrum (Arénák)",
             "ro": "Amfiteatrul Roman (Arenele)",
-            "en": "Roman Amphitheater (Arènes de Cimiez)"
+            "en": "Roman Amphitheater (Arènes de Cimiez)",
+            "fr": "Arènes romaines (Arènes de Cimiez)"
           },
           "coords": [
             7.275,
@@ -105,7 +112,8 @@
             "de": "Ein schattiger Ort unter Olivenbäumen für eine kurze Pause.",
             "hu": "Árnyas hely az olajfák alatt egy rövid pihenőhöz.",
             "ro": "Un loc umbrit sub măslini pentru o scurtă pauză.",
-            "en": "A shady spot under olive trees for a quick break."
+            "en": "A shady spot under olive trees for a quick break.",
+            "fr": "Un coin ombragé sous des oliviers pour une courte pause."
           }
         },
         {
@@ -113,7 +121,8 @@
             "de": "Archäologisches Museum",
             "hu": "Régészeti Múzeum",
             "ro": "Muzeul de Arheologie",
-            "en": "Archeology Museum"
+            "en": "Archeology Museum",
+            "fr": "Musée d'Archéologie"
           },
           "coords": [
             7.275,
@@ -128,7 +137,8 @@
             "de": "Entdecken Sie Cemenelum, das antike römische Nizza.",
             "hu": "Fedezze fel Cemenelumot, az ókori római Nizzát.",
             "ro": "Descoperiți Cemenelum, vechea Nisa romană.",
-            "en": "Discover Cemenelum, the ancient Roman Nice."
+            "en": "Discover Cemenelum, the ancient Roman Nice.",
+            "fr": "Découvrez Cemenelum, la Nice romaine antique."
           }
         },
         {
@@ -136,7 +146,8 @@
             "de": "Kloster von Cimiez",
             "hu": "Cimiez-i kolostor",
             "ro": "Mănăstirea din Cimiez",
-            "en": "Cimiez Monastery"
+            "en": "Cimiez Monastery",
+            "fr": "Monastère de Cimiez"
           },
           "coords": [
             7.278,
@@ -151,7 +162,8 @@
             "de": "Besuchen Sie die Kirche mit den Altarbildern von Bréa.",
             "hu": "Látogassa meg a templomot Bréa oltárképeivel.",
             "ro": "Vizitați biserica cu picturile de altar ale lui Bréa.",
-            "en": "Visit the church with Bréa's altarpieces."
+            "en": "Visit the church with Bréa's altarpieces.",
+            "fr": "Visitez l’église avec les retables de Bréa."
           }
         },
         {
@@ -159,7 +171,8 @@
             "de": "Jardin du Monastère",
             "hu": "Kolostorkert",
             "ro": "Grădina Mănăstirii",
-            "en": "Monastery Garden"
+            "en": "Monastery Garden",
+            "fr": "Jardin du Monastère"
           },
           "coords": [
             7.279,
@@ -174,7 +187,8 @@
             "de": "Genießen Sie den Panoramablick über die Stadt zum Sonnenuntergang.",
             "hu": "Élvezze a városra nyíló panorámát naplementekor.",
             "ro": "Bucurați-vă de panorama asupra orașului la apus.",
-            "en": "Enjoy the panoramic view over the city at sunset."
+            "en": "Enjoy the panoramic view over the city at sunset.",
+            "fr": "Profitez de la vue panoramique sur la ville au coucher du soleil."
           }
         }
       ],
@@ -182,7 +196,8 @@
         "de": "Dieser Spaziergang führt Sie durch das elegante Viertel Cimiez, das einstige Zentrum des römischen Nizza. Der Vormittag steht im Zeichen der Kunst bei Chagall und der Moderne in der Jeanne d'Arc Kirche. Nach dem Aufstieg auf den Hügel tauchen Sie im Matisse-Museum in Farben ein, bevor Sie die antiken Ruinen und die Ruhe des Klosters am späten Nachmittag genießen.",
         "hu": "Ez a séta Cimiez elegáns negyedén vezet keresztül, amely egykor a római Nizza központja volt. A délelőtt a művészeté Chagallnál és a modernitásé a Szent Johanna templomnál. A dombra felérve Matisse színeiben merülhet el, mielőtt az ókori romok és a kolostorkert csendje megkoronázná a napot a késő délutáni fényekben.",
         "ro": "Această plimbare vă poartă prin cartierul elegant Cimiez, fostul centru al Nisei romane. Dimineața este dedicată artei la Chagall și modernității la biserica Sf. Ioana d'Arc. După urcarea pe deal, vă veți cufunda în culorile lui Matisse, înainte ca ruinele antice și liniștea grădinii mănăstirii să încheie ziua în lumina după-amiezii.",
-        "en": "This walk takes you through the elegant Cimiez district, once the heart of Roman Nice. The morning focuses on art at Chagall and modernity at the St. Joan of Arc church. After ascending the hill, immerse yourself in Matisse's colors before the ancient ruins and the monastery garden's peace crown the day in the late afternoon light."
+        "en": "This walk takes you through the elegant Cimiez district, once the heart of Roman Nice. The morning focuses on art at Chagall and modernity at the St. Joan of Arc church. After ascending the hill, immerse yourself in Matisse's colors before the ancient ruins and the monastery garden's peace crown the day in the late afternoon light.",
+        "fr": "Cette promenade vous fait traverser le quartier élégant de Cimiez, autrefois le cœur de la Nice romaine. La matinée est dédiée à l’art chez Chagall et à la modernité de l’église Sainte-Jeanne-d’Arc. Après l’ascension de la colline, imprégnez-vous des couleurs de Matisse avant que les ruines antiques et la quiétude du jardin du monastère n’achèvent la journée à la lumière du soir."
       },
       "gastro_picks": {
         "de": [
@@ -282,6 +297,10 @@
         "en": [
           "Cimiez is on a hill, wear comfortable shoes for the ascent.",
           "Museums are often closed on Tuesdays, check the day before going."
+        ],
+        "fr": [
+          "Cimiez est sur une colline, portez des chaussures confortables pour la montée.",
+          "Les musées sont souvent fermés le mardi, vérifiez la veille de votre visite."
         ]
       }
     },
@@ -298,7 +317,8 @@
             "de": "Musée Marc Chagall",
             "hu": "Marc Chagall Múzeum",
             "ro": "Muzeul Marc Chagall",
-            "en": "Marc Chagall Museum"
+            "en": "Marc Chagall Museum",
+            "fr": "Musée Marc Chagall"
           },
           "coords": [
             7.269,
@@ -313,7 +333,8 @@
             "de": "Sicherer Fahrradständer am Eingang vorhanden.",
             "hu": "Biztonságos kerékpártároló a bejáratnál.",
             "ro": "Suport de biciclete securizat la intrare.",
-            "en": "Secure bike racks available at the entrance."
+            "en": "Secure bike racks available at the entrance.",
+            "fr": "Arceaux sécurisés pour vélos disponibles à l’entrée."
           }
         },
         {
@@ -321,7 +342,8 @@
             "de": "Musée Matisse",
             "hu": "Matisse Múzeum",
             "ro": "Muzeul Matisse",
-            "en": "Matisse Museum"
+            "en": "Matisse Museum",
+            "fr": "Musée Matisse"
           },
           "coords": [
             7.276,
@@ -336,7 +358,8 @@
             "de": "Anspruchsvoller Anstieg nach Cimiez, schalten Sie in einen niedrigen Gang.",
             "hu": "Meredek emelkedő Cimiez felé, váltson alacsony fokozatba.",
             "ro": "Urcare solicitantă spre Cimiez, folosiți o viteză mică.",
-            "en": "Challenging climb to Cimiez, shift to a low gear."
+            "en": "Challenging climb to Cimiez, shift to a low gear.",
+            "fr": "Montée difficile vers Cimiez, utilisez une vitesse basse."
           }
         },
         {
@@ -344,7 +367,8 @@
             "de": "Kloster von Cimiez",
             "hu": "Cimiez-i kolostor",
             "ro": "Mănăstirea din Cimiez",
-            "en": "Cimiez Monastery"
+            "en": "Cimiez Monastery",
+            "fr": "Monastère de Cimiez"
           },
           "coords": [
             7.278,
@@ -359,7 +383,8 @@
             "de": "Ruhiger Platz zum Abstellen der Räder vor dem Kloster.",
             "hu": "Csendes hely a biciklik leállítására a kolostor előtt.",
             "ro": "Loc liniștit pentru parcat bicicletele în fața mănăstirii.",
-            "en": "Quiet spot to park bikes in front of the monastery."
+            "en": "Quiet spot to park bikes in front of the monastery.",
+            "fr": "Endroit calme pour garer les vélos devant le monastère."
           }
         },
         {
@@ -367,7 +392,8 @@
             "de": "Park der Cascade de Gairaut",
             "hu": "Gairaut-vízesés park",
             "ro": "Parcul Cascadei Gairaut",
-            "en": "Gairaut Waterfall Park"
+            "en": "Gairaut Waterfall Park",
+            "fr": "Parc de la Cascade de Gairaut"
           },
           "coords": [
             7.26,
@@ -382,7 +408,8 @@
             "de": "Die Fahrt hierher bietet spektakuläre Ausblicke über die Küste.",
             "hu": "Az idevezető út látványos kilátást nyújt a partvidékre.",
             "ro": "Drumul până aici oferă vederi spectaculoase asupra coastei.",
-            "en": "The ride up here offers spectacular views over the coast."
+            "en": "The ride up here offers spectacular views over the coast.",
+            "fr": "La montée offre des vues spectaculaires sur la côte."
           }
         },
         {
@@ -390,7 +417,8 @@
             "de": "Eglise Sainte-Jeanne d'Arc",
             "hu": "Szent Johanna templom",
             "ro": "Biserica Sfânta Ioana d'Arc",
-            "en": "Saint Joan of Arc Church"
+            "en": "Saint Joan of Arc Church",
+            "fr": "Église Sainte-Jeanne-d’Arc"
           },
           "coords": [
             7.262,
@@ -405,7 +433,8 @@
             "de": "Die Abfahrt von Gairaut ist schnell, prüfen Sie Ihre Bremsen.",
             "hu": "A Gairaut-tól való leereszkedés gyors, ellenőrizze a fékeket.",
             "ro": "Coborârea de la Gairaut este rapidă, verificați frânele.",
-            "en": "The descent from Gairaut is fast, check your brakes."
+            "en": "The descent from Gairaut is fast, check your brakes.",
+            "fr": "La descente depuis Gairaut est rapide, vérifiez vos freins."
           }
         }
       ],
@@ -413,7 +442,8 @@
         "de": "Diese Radtour verbindet die Kunstschätze von Cimiez mit der natürlichen Erfrischung der Gairaut-Kaskade im Norden. Es ist eine sportliche Route mit einigen Steigungen, belohnt Sie aber mit den besten Panoramen der Stadt abseits der Massen.",
         "hu": "Ez a kerékpártúra összeköti Cimiez művészeti kincseit az északi Gairaut-vízesés természetes felfrissülésével. Sportos útvonal néhány emelkedővel, de cserébe a város legjobb panorámáit nyújtja a tömegektől távol.",
         "ro": "Acest tur cu bicicleta combină comorile artistice din Cimiez cu prospețimea naturală a cascadei Gairaut din nord. Este un traseu sportiv cu câteva urcări, dar vă recompensează cu cele mai bune panorame ale orașului, departe de mulțime.",
-        "en": "This bike tour connects the art treasures of Cimiez with the natural refreshment of the Gairaut waterfall in the north. It's a sporty route with some climbs, rewarding you with the city's best panoramas away from the crowds."
+        "en": "This bike tour connects the art treasures of Cimiez with the natural refreshment of the Gairaut waterfall in the north. It's a sporty route with some climbs, rewarding you with the city's best panoramas away from the crowds.",
+        "fr": "Cette boucle à vélo relie les trésors artistiques de Cimiez à la fraîcheur naturelle de la cascade de Gairaut au nord. C’est un itinéraire sportif avec quelques montées, qui vous récompense par les plus beaux panoramas de la ville à l’écart de la foule."
       },
       "gastro_picks": {
         "de": [
@@ -513,6 +543,10 @@
         "en": [
           "An e-bike is highly recommended for the hills of North Nice.",
           "Take plenty of water for the climb to Gairaut."
+        ],
+        "fr": [
+          "Un vélo à assistance électrique est fortement recommandé pour les collines du nord de Nice.",
+          "Prenez suffisamment d’eau pour la montée vers Gairaut."
         ]
       }
     },
@@ -529,7 +563,8 @@
             "de": "Eglise Sainte-Jeanne d'Arc",
             "hu": "Szent Johanna templom",
             "ro": "Biserica Sfânta Ioana d'Arc",
-            "en": "Saint Joan of Arc Church"
+            "en": "Saint Joan of Arc Church",
+            "fr": "Église Sainte-Jeanne-d’Arc"
           },
           "coords": [
             7.262,
@@ -544,7 +579,8 @@
             "de": "Parken Sie im Viertel Libération (Cluster A).",
             "hu": "Parkoljon a Libération negyedben (A klaszter).",
             "ro": "Parcați în cartierul Libération (Cluster A).",
-            "en": "Park in the Libération district (Cluster A)."
+            "en": "Park in the Libération district (Cluster A).",
+            "fr": "Garez-vous dans le quartier de la Libération (Cluster A)."
           }
         },
         {
@@ -552,7 +588,8 @@
             "de": "Musée Marc Chagall",
             "hu": "Marc Chagall Múzeum",
             "ro": "Muzeul Marc Chagall",
-            "en": "Marc Chagall Museum"
+            "en": "Marc Chagall Museum",
+            "fr": "Musée Marc Chagall"
           },
           "coords": [
             7.269,
@@ -567,7 +604,8 @@
             "de": "Zu Fuß erreichbar vom ersten Stopp.",
             "hu": "Gyalogosan elérhető az első megállótól.",
             "ro": "Accesibil pe jos de la prima oprire.",
-            "en": "Walkable from the first stop."
+            "en": "Walkable from the first stop.",
+            "fr": "Accessible à pied depuis le premier arrêt."
           }
         },
         {
@@ -575,7 +613,8 @@
             "de": "Musée Matisse",
             "hu": "Matisse Múzeum",
             "ro": "Muzeul Matisse",
-            "en": "Matisse Museum"
+            "en": "Matisse Museum",
+            "fr": "Musée Matisse"
           },
           "coords": [
             7.276,
@@ -590,7 +629,8 @@
             "de": "Parken am Parkplatz Arènes de Cimiez (Cluster B).",
             "hu": "Parkolás az Arènes de Cimiez parkolóban (B klaszter).",
             "ro": "Parcare la parcarea Arènes de Cimiez (Cluster B).",
-            "en": "Park at the Arènes de Cimiez parking lot (Cluster B)."
+            "en": "Park at the Arènes de Cimiez parking lot (Cluster B).",
+            "fr": "Garez-vous au parking des Arènes de Cimiez (Cluster B)."
           }
         },
         {
@@ -598,7 +638,8 @@
             "de": "Römisches Amphitheater",
             "hu": "Római amfiteátrum",
             "ro": "Amfiteatrul Roman",
-            "en": "Roman Amphitheater"
+            "en": "Roman Amphitheater",
+            "fr": "Arènes romaines"
           },
           "coords": [
             7.275,
@@ -613,7 +654,8 @@
             "de": "Gleich neben dem Matisse Museum.",
             "hu": "Közvetlenül a Matisse Múzeum mellett.",
             "ro": "Chiar lângă Muzeul Matisse.",
-            "en": "Right next to the Matisse Museum."
+            "en": "Right next to the Matisse Museum.",
+            "fr": "Juste à côté du musée Matisse."
           }
         },
         {
@@ -621,7 +663,8 @@
             "de": "Archäologisches Museum",
             "hu": "Régészeti Múzeum",
             "ro": "Muzeul de Arheologie",
-            "en": "Archeology Museum"
+            "en": "Archeology Museum",
+            "fr": "Musée d'Archéologie"
           },
           "coords": [
             7.275,
@@ -636,7 +679,8 @@
             "de": "Teil des römischen Cluster-Spaziergangs.",
             "hu": "A római klaszter-séta része.",
             "ro": "Parte a plimbării prin clusterul roman.",
-            "en": "Part of the Roman cluster walk."
+            "en": "Part of the Roman cluster walk.",
+            "fr": "Fait partie de la promenade du pôle romain."
           }
         },
         {
@@ -644,7 +688,8 @@
             "de": "Kloster von Cimiez",
             "hu": "Cimiez-i kolostor",
             "ro": "Mănăstirea din Cimiez",
-            "en": "Cimiez Monastery"
+            "en": "Cimiez Monastery",
+            "fr": "Monastère de Cimiez"
           },
           "coords": [
             7.278,
@@ -659,7 +704,8 @@
             "de": "Kurzer Spaziergang zum Klostergelände.",
             "hu": "Rövid séta a kolostor területéhez.",
             "ro": "Scurtă plimbare până la incinta mănăstirii.",
-            "en": "Short walk to the monastery grounds."
+            "en": "Short walk to the monastery grounds.",
+            "fr": "Courte marche jusqu’aux jardins du monastère."
           }
         },
         {
@@ -667,7 +713,8 @@
             "de": "Jardin du Monastère",
             "hu": "Kolostorkert",
             "ro": "Grădina Mănăstirii",
-            "en": "Monastery Garden"
+            "en": "Monastery Garden",
+            "fr": "Jardin du Monastère"
           },
           "coords": [
             7.279,
@@ -682,7 +729,8 @@
             "de": "Entspannung vor der kurzen Fahrt nach Norden.",
             "hu": "Pihenés az északi rövid autózás előtt.",
             "ro": "Relaxare înainte de scurta călătorie spre nord.",
-            "en": "Relaxation before the short drive north."
+            "en": "Relaxation before the short drive north.",
+            "fr": "Détente avant le court trajet vers le nord."
           }
         },
         {
@@ -690,7 +738,8 @@
             "de": "Park der Cascade de Gairaut",
             "hu": "Gairaut-vízesés park",
             "ro": "Parcul Cascadei Gairaut",
-            "en": "Gairaut Waterfall Park"
+            "en": "Gairaut Waterfall Park",
+            "fr": "Parc de la Cascade de Gairaut"
           },
           "coords": [
             7.26,
@@ -705,7 +754,8 @@
             "de": "Parkplatz direkt bei der Kaskade verfügbar (Cluster C).",
             "hu": "Parkoló közvetlenül a vízesésnél (C klaszter).",
             "ro": "Parcare disponibilă chiar lângă cascadă (Cluster C).",
-            "en": "Parking available right by the waterfall (Cluster C)."
+            "en": "Parking available right by the waterfall (Cluster C).",
+            "fr": "Parking disponible juste à côté de la cascade (Cluster C)."
           }
         }
       ],
@@ -713,7 +763,8 @@
         "de": "Diese Route nutzt das Auto, um bequem zwischen den drei Haupthügel-Zonen von Nizza-Nord zu wechseln. Sie parken einmal in Libération, einmal in Cimiez und schließlich in Gairaut. So sparen Sie sich die steilen Aufstiege und haben mehr Energie für die beeindruckenden Museen und Gärten.",
         "hu": "Ez az útvonal az autót használja, hogy kényelmesen váltson Nizza-Észak három fő dombi zónája között. Egyszer parkol Libérationban, egyszer Cimiez-ben, végül pedig Gairaut-ban. Így megspórolja a meredek emelkedőket, és több energiája marad a lenyűgöző múzeumokra és kertekre.",
         "ro": "Acest traseu folosește mașina pentru a schimba confortabil între cele trei zone principale de pe dealurile Nisei de Nord. Parcați o dată în Libération, o dată în Cimiez și, în final, în Gairaut. Astfel economisiți urcările abrupte și aveți mai multă energie pentru muzeele și grădinile impresionante.",
-        "en": "This route uses the car to comfortably switch between the three main hill zones of North Nice. You park once in Libération, once in Cimiez, and finally in Gairaut. This way you save yourself the steep climbs and have more energy for the impressive museums and gardens."
+        "en": "This route uses the car to comfortably switch between the three main hill zones of North Nice. You park once in Libération, once in Cimiez, and finally in Gairaut. This way you save yourself the steep climbs and have more energy for the impressive museums and gardens.",
+        "fr": "Cet itinéraire utilise la voiture pour passer confortablement entre les trois principaux secteurs de collines du nord de Nice. Vous vous garez une fois à la Libération, une fois à Cimiez, et enfin à Gairaut. Ainsi vous évitez les montées raides et gardez de l’énergie pour les impressionnants musées et jardins."
       },
       "gastro_picks": {
         "de": [
@@ -813,6 +864,10 @@
         "en": [
           "Parking in Cimiez is easier on weekends.",
           "Watch out for one-way streets around the Chagall hill."
+        ],
+        "fr": [
+          "Le stationnement à Cimiez est plus facile le week-end.",
+          "Attention aux sens uniques autour de la colline Chagall."
         ]
       }
     },
@@ -829,7 +884,8 @@
             "de": "Eglise Sainte-Jeanne d'Arc",
             "hu": "Szent Johanna templom",
             "ro": "Biserica Sfânta Ioana d'Arc",
-            "en": "Saint Joan of Arc Church"
+            "en": "Saint Joan of Arc Church",
+            "fr": "Église Sainte-Jeanne-d’Arc"
           },
           "coords": [
             7.262,
@@ -844,7 +900,8 @@
             "de": "Haltestelle 'Libération' (Tram L1).",
             "hu": "'Libération' megálló (1-es villamos).",
             "ro": "Stația 'Libération' (Tramvaiul L1).",
-            "en": "Stop 'Libération' (Tram L1)."
+            "en": "Stop 'Libération' (Tram L1).",
+            "fr": "Arrêt « Libération » (Tram L1)."
           }
         },
         {
@@ -852,7 +909,8 @@
             "de": "Musée Marc Chagall",
             "hu": "Marc Chagall Múzeum",
             "ro": "Muzeul Marc Chagall",
-            "en": "Marc Chagall Museum"
+            "en": "Marc Chagall Museum",
+            "fr": "Musée Marc Chagall"
           },
           "coords": [
             7.269,
@@ -867,7 +925,8 @@
             "de": "Geringer Fußweg von der Tram.",
             "hu": "Rövid séta a villamostól.",
             "ro": "Scurtă plimbare de la tramvai.",
-            "en": "Short walk from the tram."
+            "en": "Short walk from the tram.",
+            "fr": "Courte marche depuis le tram."
           }
         },
         {
@@ -875,7 +934,8 @@
             "de": "Musée Matisse",
             "hu": "Matisse Múzeum",
             "ro": "Muzeul Matisse",
-            "en": "Matisse Museum"
+            "en": "Matisse Museum",
+            "fr": "Musée Matisse"
           },
           "coords": [
             7.276,
@@ -890,7 +950,8 @@
             "de": "Buslinie 5 bis Haltestelle 'Arènes / Musée Matisse'.",
             "hu": "5-ös busz az 'Arènes / Musée Matisse' megállóig.",
             "ro": "Autobuzul 5 până la stația 'Arènes / Musée Matisse'.",
-            "en": "Bus line 5 to 'Arènes / Musée Matisse' stop."
+            "en": "Bus line 5 to 'Arènes / Musée Matisse' stop.",
+            "fr": "Ligne de bus 5 jusqu’à l’arrêt « Arènes / Musée Matisse »."
           }
         },
         {
@@ -898,7 +959,8 @@
             "de": "Kloster von Cimiez",
             "hu": "Cimiez-i kolostor",
             "ro": "Mănăstirea din Cimiez",
-            "en": "Cimiez Monastery"
+            "en": "Cimiez Monastery",
+            "fr": "Monastère de Cimiez"
           },
           "coords": [
             7.278,
@@ -913,7 +975,8 @@
             "de": "Zu Fuß vom Matisse Museum erreichbar.",
             "hu": "Gyalogosan elérhető a Matisse Múzeumtól.",
             "ro": "Accesibil pe jos de la Muzeul Matisse.",
-            "en": "Walkable from the Matisse Museum."
+            "en": "Walkable from the Matisse Museum.",
+            "fr": "Accessible à pied depuis le musée Matisse."
           }
         },
         {
@@ -921,7 +984,8 @@
             "de": "Jardin du Monastère",
             "hu": "Kolostorkert",
             "ro": "Grădina Mănăstirii",
-            "en": "Monastery Garden"
+            "en": "Monastery Garden",
+            "fr": "Jardin du Monastère"
           },
           "coords": [
             7.279,
@@ -936,7 +1000,8 @@
             "de": "Perfekter Ort für eine Nachmittagspause.",
             "hu": "Tökéletes hely egy délutáni pihenőhöz.",
             "ro": "Loc perfect pentru o pauză de după-amiază.",
-            "en": "Perfect spot for an afternoon break."
+            "en": "Perfect spot for an afternoon break.",
+            "fr": "Endroit parfait pour une pause l’après-midi."
           }
         },
         {
@@ -944,7 +1009,8 @@
             "de": "Park der Cascade de Gairaut",
             "hu": "Gairaut-vízesés park",
             "ro": "Parcul Cascadei Gairaut",
-            "en": "Gairaut Waterfall Park"
+            "en": "Gairaut Waterfall Park",
+            "fr": "Parc de la Cascade de Gairaut"
           },
           "coords": [
             7.26,
@@ -959,7 +1025,8 @@
             "de": "Bus 18 oder 35 Richtung Norden.",
             "hu": "18-as vagy 35-ös busz északi irányba.",
             "ro": "Autobuzul 18 sau 35 spre nord.",
-            "en": "Bus 18 or 35 heading north."
+            "en": "Bus 18 or 35 heading north.",
+            "fr": "Bus 18 ou 35 en direction du nord."
           }
         }
       ],
@@ -967,7 +1034,8 @@
         "de": "Nutzen Sie das ausgezeichnete Bus- und Tramsystem von Nizza, um die kulturellen Highlights im Norden zu entdecken. Die Linie 5 ist Ihre wichtigste Verbindung zum Cimiez-Hügel, während die Tram L1 Sie schnell zum lebhaften Markt von Libération bringt.",
         "hu": "Használja Nizza kiváló busz- és villamoshálózatát az északi kulturális látnivalók felfedezéséhez. Az 5-ös busz a legfontosabb járat a Cimiez-dombhoz, míg az 1-es villamos gyorsan elviszi a nyüzsgő Libération piacra.",
         "ro": "Folosiți sistemul excelent de autobuze și tramvaie din Nisa pentru a descoperi atracțiile culturale din nord. Linia 5 este principala legătură către dealul Cimiez, în timp ce tramvaiul L1 vă duce rapid la piața plină de viață din Libération.",
-        "en": "Use Nice's excellent bus and tram system to discover the cultural highlights in the north. Line 5 is your main connection to the Cimiez hill, while tram L1 quickly takes you to the lively Libération market."
+        "en": "Use Nice's excellent bus and tram system to discover the cultural highlights in the north. Line 5 is your main connection to the Cimiez hill, while tram L1 quickly takes you to the lively Libération market.",
+        "fr": "Utilisez le excellent réseau de bus et de tram de Nice pour découvrir les lieux culturels du nord. La ligne 5 est votre principale connexion à la colline de Cimiez, tandis que le tram L1 vous mène rapidement au marché animé de la Libération."
       },
       "gastro_picks": {
         "de": [
@@ -1067,6 +1135,10 @@
         "en": [
           "Validate your ticket at every transfer.",
           "The 'Lignes d'Azur' app shows real-time departures."
+        ],
+        "fr": [
+          "Validez votre ticket à chaque correspondance.",
+          "L’application « Lignes d’Azur » affiche les départs en temps réel."
         ]
       }
     }

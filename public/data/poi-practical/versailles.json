@@ -3,55 +3,64 @@
     "de": "Place d'Armes, 78000 Versailles, Frankreich",
     "hu": "Place d'Armes, 78000 Versailles, Franciaország",
     "ro": "Place d'Armes, 78000 Versailles, Franța",
-    "en": "Place d'Armes, 78000 Versailles, France"
+    "en": "Place d'Armes, 78000 Versailles, France",
+    "fr": "Place d'Armes, 78000 Versailles, France"
   },
   "openingHours": {
     "de": "Di-So 09:00-18:30 (Schloss), Gärten täglich 08:00-20:30",
     "hu": "Kedd-vasárnap 09:00-18:30 (kastély), kertek naponta 08:00-20:30",
     "ro": "Marți-duminică 09:00-18:30 (castel), grădini zilnic 08:00-20:30",
-    "en": "Tue-Sun 09:00-18:30 (palace), gardens daily 08:00-20:30"
+    "en": "Tue-Sun 09:00-18:30 (palace), gardens daily 08:00-20:30",
+    "fr": "Mar‑Dim 09:00‑18:30 (palais), jardins tous les jours 08:00‑20:30"
   },
   "entranceFee": {
     "de": "€21.00 (Schloss), €28.50 (Gesamtpass inklusive Trianon)",
     "hu": "€21.00 (kastély), €28.50 (teljes belépő a Trianonnal együtt)",
     "ro": "€21.00 (castel), €28.50 (bilet complet cu Trianon inclus)",
-    "en": "€21.00 (palace), €28.50 (full pass including Trianon)"
+    "en": "€21.00 (palace), €28.50 (full pass including Trianon)",
+    "fr": "€21,00 (palais), €28,50 (pass complet incluant le Trianon)"
   },
   "website": "https://www.chateauversailles.fr/",
   "publicTransport": {
     "de": "RER C Station Versailles Château Rive Gauche",
     "hu": "RER C Versailles Château Rive Gauche állomás",
     "ro": "Stația RER C Versailles Château Rive Gauche",
-    "en": "RER C station Versailles Château Rive Gauche"
+    "en": "RER C station Versailles Château Rive Gauche",
+    "fr": "Gare RER C Versailles Château Rive Gauche"
   },
   "parking": {
     "de": "Gebührenpflichtiger Parkplatz direkt auf dem Place d'Armes",
     "hu": "Fizetős parkoló közvetlenül a Place d'Armes-en",
     "ro": "Parcare cu plată chiar în Place d'Armes",
-    "en": "Paid parking directly at Place d'Armes"
+    "en": "Paid parking directly at Place d'Armes",
+    "fr": "Parking payant directement à la Place d'Armes"
   },
   "accessibility": {
     "de": "Schloss barrierefrei, Gärten aufgrund von Kieswegen anstrengend",
     "hu": "Kastély akadálymentes, a kertek a kavicsos utak miatt megerőltetőek",
     "ro": "Castel accesibil, grădini dificile din cauza drumurilor cu pietriș",
-    "en": "Palace accessible, gardens strenuous due to gravel paths"
+    "en": "Palace accessible, gardens strenuous due to gravel paths",
+    "fr": "Palais accessible, jardins difficiles en raison des allées gravillonnées"
   },
   "photoRules": {
     "de": "Ohne Blitz und Stativ in den Innenräumen erlaubt",
     "hu": "Vaku és állvány nélkül bent engedélyezett",
     "ro": "Permis în interior fără bliț și trepied",
-    "en": "Allowed indoors without flash and tripod"
+    "en": "Allowed indoors without flash and tripod",
+    "fr": "Autorisé à l'intérieur sans flash ni trépied"
   },
   "bestTimeToVisit": {
     "de": "Unter der Woche um 09:00 Uhr, um Massen zu vermeiden",
     "hu": "Hétköznap 09:00 órakor, a tömeg elkerülése érdekében",
     "ro": "În timpul săptămânii la ora 09:00, pentru a evita aglomerația",
-    "en": "Weekdays at 09:00 am to avoid crowds"
+    "en": "Weekdays at 09:00 am to avoid crowds",
+    "fr": "En semaine à 09:00 pour éviter la foule"
   },
   "audioGuide": {
     "de": "DE, FR, EN, ES, IT, PT, RU, ZH, JA, KO",
     "hu": "DE, FR, EN, ES, IT, PT, RU, ZH, JA, KO",
     "ro": "DE, FR, EN, ES, IT, PT, RU, ZH, JA, KO",
-    "en": "DE, FR, EN, ES, IT, PT, RU, ZH, JA, KO"
+    "en": "DE, FR, EN, ES, IT, PT, RU, ZH, JA, KO",
+    "fr": "DE, FR, EN, ES, IT, PT, RU, ZH, JA, KO"
   }
 }

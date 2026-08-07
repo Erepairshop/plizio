@@ -21,7 +21,8 @@
             "de": "Kirche Saint-Georges",
             "hu": "Saint-Georges templom",
             "ro": "Biserica Saint-Georges",
-            "en": "Saint-Georges Church"
+            "en": "Saint-Georges Church",
+            "fr": "Église Saint‑Georges"
           },
           "coords": [
             2.698027,
@@ -36,7 +37,8 @@
             "de": "Beginnen Sie Ihren Morgen in dieser malerischen örtlichen Kirche, die die Geschichte der Stadt verankert, wo Sie die einfachen, aber eleganten Buntglasfenster bewundern sollten.",
             "hu": "Kezdje a reggelt ebben a hangulatos helyi templomban, amely a város történelmének horgonya, ahol érdemes megcsodálni az egyszerű, de elegáns ólomüveg ablakokat.",
             "ro": "Începeți dimineața la această biserică locală pitorească ce ancorează istoria orașului, unde ar trebui să admirați vitraliile simple, dar elegante, înainte de a explora centrul.",
-            "en": "Start your morning at this quaint local church which anchors the town's history, where you should admire the simple yet elegant stained glass before exploring the center."
+            "en": "Start your morning at this quaint local church which anchors the town's history, where you should admire the simple yet elegant stained glass before exploring the center.",
+            "fr": "Commencez la matinée dans cette charmante église locale qui ancre l’histoire de la ville, et admirez les vitraux simples mais élégants avant d’explorer le centre."
           }
         },
         {
@@ -44,7 +46,8 @@
             "de": "Tour-pigeonnier",
             "hu": "Tour-pigeonnier",
             "ro": "Tour-pigeonnier",
-            "en": "Tour-pigeonnier"
+            "en": "Tour-pigeonnier",
+            "fr": "Tour‑pigeonnier"
           },
           "coords": [
             2.697526,
@@ -59,7 +62,8 @@
             "de": "Nur einen kurzen Spaziergang entfernt steht dieser historische Taubenturm, ein bemerkenswertes Überbleibsel des landwirtschaftlichen Erbes, wo ein Foto vom südlichen Weg das beste Licht bietet.",
             "hu": "Csak egy rövid sétára áll ez a történelmi galambdúc, a mezőgazdasági örökség figyelemre méltó maradványa, ahol a déli ösvényről készített fotó nyújtja a legjobb fényviszonyokat.",
             "ro": "La doar o scurtă plimbare se află acest turn istoric pentru porumbei, un vestigiu remarcabil al patrimoniului agricol unde o fotografie de pe cărarea sudică oferă cea mai bună lumină.",
-            "en": "Just a short stroll away stands this historic dovecote tower, a remarkable vestige of agricultural heritage where taking a photo from the southern path offers the best lighting."
+            "en": "Just a short stroll away stands this historic dovecote tower, a remarkable vestige of agricultural heritage where taking a photo from the southern path offers the best lighting.",
+            "fr": "À quelques pas se dresse ce pigeonnier historique, vestige remarquable du patrimoine agricole ; prendre une photo depuis le chemin sud offre le meilleur éclairage."
           }
         },
         {
@@ -67,7 +71,8 @@
             "de": "Église Notre-Dame du Val",
             "hu": "Église Notre-Dame du Val",
             "ro": "Église Notre-Dame du Val",
-            "en": "Église Notre-Dame du Val"
+            "en": "Église Notre-Dame du Val",
+            "fr": "Église Notre‑Dame du Val"
           },
           "coords": [
             2.716176,
@@ -82,7 +87,8 @@
             "de": "Bewundern Sie die markante zeitgenössische Architektur dieses modernen Andachtsraums, der sich durch seine massive Kupferkuppel auszeichnet, und achten Sie auf kostenlose Choraufführungen.",
             "hu": "Csodálja meg ennek a modern istentiszteleti helynek a lenyűgöző kortárs építészetét, amelyet hatalmas rézkupolája jellemez, és mindenképpen keresse a hirdetőtáblán az ingyenes kóruselőadásokat.",
             "ro": "Admirați arhitectura contemporană izbitoare a acestui spațiu modern de cult, distins prin domul său masiv din cupru, și asigurați-vă că verificați panoul pentru spectacole corale gratuite.",
-            "en": "Admire the striking contemporary architecture of this modern worship space, distinguished by its massive copper dome, and be sure to check the notice board for free local choir performances."
+            "en": "Admire the striking contemporary architecture of this modern worship space, distinguished by its massive copper dome, and be sure to check the notice board for free local choir performances.",
+            "fr": "Admirez l’architecture contemporaine frappante de ce lieu de culte moderne, distingué par son imposant dôme de cuivre, et consultez le panneau d’affichage pour les concerts de chœur locaux gratuits."
           }
         },
         {
@@ -90,7 +96,8 @@
             "de": "Parc du Génitoy",
             "hu": "Génitoy Park",
             "ro": "Parcul Génitoy",
-            "en": "Génitoy Park"
+            "en": "Génitoy Park",
+            "fr": "Parc Génitoy"
           },
           "coords": [
             2.719024,
@@ -105,7 +112,8 @@
             "de": "Entspannen Sie sich an den ruhigen Teichen dieser weitläufigen grünen Lunge, die einen perfekten Rückzugsort in der Natur bietet, und holen Sie sich ein Baguette für ein Picknick am See.",
             "hu": "Pihenjen meg a nyugodt tavak mellett ebben a kiterjedt zöld tüdőben, amely tökéletes természeti menedéket nyújt, és vegyen egy friss bagettet a közeli pékségben egy tóparti piknikhez.",
             "ro": "Relaxați-vă lângă iazurile liniștite ale acestui plămân verde expansiv care oferă o evadare naturală perfectă și luați o baghetă proaspătă de la o brutărie din apropiere pentru un picnic.",
-            "en": "Relax by the tranquil ponds of this expansive green lung which provides a perfect natural escape, and consider grabbing a fresh baguette from a nearby bakery for a lakeside picnic."
+            "en": "Relax by the tranquil ponds of this expansive green lung which provides a perfect natural escape, and consider grabbing a fresh baguette from a nearby bakery for a lakeside picnic.",
+            "fr": "Détendez‑vous au bord des étangs de ce vaste poumon vert, parfait pour une escapade naturelle ; pensez à prendre une baguette fraîche chez le boulanger voisin pour un pique‑nique au bord du lac."
           }
         },
         {
@@ -113,7 +121,8 @@
             "de": "Esplanade der Religionen",
             "hu": "Vallások Eszplanádja",
             "ro": "Esplanada Religiilor",
-            "en": "Esplanade of Religions"
+            "en": "Esplanade of Religions",
+            "fr": "Esplanade des Religions"
           },
           "coords": [
             2.728128,
@@ -128,7 +137,8 @@
             "de": "Beenden Sie Ihren Rundgang an diesem einzigartigen Symbol interreligiöser Harmonie mit mehreren nebeneinander liegenden Sakralbauten, wo eine Vorabbuchung das Erlebnis bereichert.",
             "hu": "Fejezze be sétáját a vallásközi harmónia ezen egyedülálló szimbólumánál, ahol több vallási épület áll egymás mellett, és ahol az előzetes idegenvezetés foglalása gazdagítja az élményt.",
             "ro": "Încheiați-vă plimbarea la acest simbol unic al armoniei interconfesionale cu mai multe clădiri religioase alăturate, unde rezervarea unui tur ghidat în avans îmbogățește experiența.",
-            "en": "Conclude your walking tour at this unique symbol of interfaith harmony featuring multiple religious buildings side-by-side, where booking a guided tour in advance enriches the experience."
+            "en": "Conclude your walking tour at this unique symbol of interfaith harmony featuring multiple religious buildings side-by-side, where booking a guided tour in advance enriches the experience.",
+            "fr": "Concluez votre visite à pied sur ce symbole unique d’harmonie interreligieuse réunissant plusieurs lieux de culte côte à côte ; réserver une visite guidée à l’avance enrichit l’expérience."
           }
         }
       ],
@@ -136,7 +146,8 @@
         "de": "Beginnen Sie Ihren Morgen mit der Erkundung des historischen Herzens von Bussy-Saint-Georges rund um die Kirche Saint-Georges.\n\nGegen Mittag wechseln Sie in die modernen Sektoren und bewundern die zeitgenössischen Linien der Église Notre-Dame du Val.\n\nVerbringen Sie Ihren Nachmittag in den üppigen Landschaften des Parc du Génitoy und genießen Sie die friedliche Atmosphäre.\n\nWenn der Abend naht, reflektieren Sie die Reise des Tages an der inspirierenden Esplanade of Religions.",
         "hu": "Kezdje a reggelt Bussy-Saint-Georges történelmi központjának felfedezésével a bájos Saint-Georges templom körül.\n\nDélben váltson a modern negyedekre, és csodálja meg az Église Notre-Dame du Val kortárs vonalait.\n\nA délutánt töltse a Génitoy Park buja tájain, élvezve a békés vízparti atmoszférát.\n\nAz este közeledtével gondoljon vissza a napra a Vallások Eszplanádjánál, amely a békés együttélés világítótornya.",
         "ro": "Începeți dimineața explorând inima istorică a orașului Bussy-Saint-Georges în jurul fermecătoarei Biserici Saint-Georges.\n\nLa prânz, treceți spre sectoarele moderne, minunându-vă de liniile contemporane ale Église Notre-Dame du Val.\n\nPetreceți-vă după-amiaza relaxându-vă în peisajele luxuriante ale Parcului Génitoy, bucurându-vă de atmosfera pașnică.\n\nSpre seară, reflectați asupra călătoriei la inspirata Esplanadă a Religiilor, un far al coexistenței pașnice.",
-        "en": "Start your morning exploring the historic heart of Bussy-Saint-Georges around the charming Saint-Georges Church.\n\nBy midday, transition towards the modern sectors, marvelling at the contemporary lines of Église Notre-Dame du Val.\n\nSpend your afternoon unwinding in the lush landscapes of Génitoy Park, enjoying the peaceful waterside atmosphere.\n\nAs evening approaches, reflect on the day's journey at the inspiring Esplanade of Religions, a beacon of peaceful coexistence."
+        "en": "Start your morning exploring the historic heart of Bussy-Saint-Georges around the charming Saint-Georges Church.\n\nBy midday, transition towards the modern sectors, marvelling at the contemporary lines of Église Notre-Dame du Val.\n\nSpend your afternoon unwinding in the lush landscapes of Génitoy Park, enjoying the peaceful waterside atmosphere.\n\nAs evening approaches, reflect on the day's journey at the inspiring Esplanade of Religions, a beacon of peaceful coexistence.",
+        "fr": "Commencez la matinée en explorant le cœur historique de Bussy‑Saint‑Georges autour de la charmante église Saint‑Georges.\n\nEn milieu de journée, dirigez‑vous vers les secteurs modernes en admirant les lignes contemporaines de l’Église Notre‑Dame du Val.\n\nPassez l’après‑midi à vous détendre dans les paysages luxuriants du parc Génitoy, en profitant de l’atmosphère paisible au bord de l’eau.\n\nEn fin de journée, réfléchissez au parcours du jour sur l’inspirante Esplanade des Religions, phare de coexistence pacifique."
       },
       "variants": {
         "rainy": {
@@ -144,7 +155,8 @@
             "de": "Der Morgen beginnt unter dem Schutz der Saint-Georges-Kirche, während draußen der Regen prasselt. Mittags bietet die moderne Architektur von Notre-Dame du Val ein trockenes Refugium für stille Momente. Am Nachmittag glänzen die Wege des Génitoy-Parks im nassen Asphalt-Look, was den Teichen eine mystische Aura verleiht. Der Abend endet an der Esplanade der Religionen mit Spiegelungen in den Pfützen.",
             "hu": "A reggelt a Saint-Georges templom falai között kezdjük, védve a szitáló esőtől. Délben a Notre-Dame du Val modern épülete nyújt menedéket és lelki feltöltődést. Délután a Génitoy Park tavai körül sétálunk, ahol a vizes felületek különleges fényjátékot produkálnak. Az este a Vallások Eszplanádján ér véget, ahol az épületek fényei megduplázódnak a vizes burkolaton a sötétedő ég alatt.",
             "ro": "Dimineața începe sub protecția Bisericii Saint-Georges, în timp ce ploaia cade ușor afară. La prânz, arhitectura modernă de la Notre-Dame du Val oferă un refugiu uscat pentru momente de liniște. După-amiaza, aleile Parcului Génitoy strălucesc sub ploaie, oferind iazurilor o aură mistică. Seara se încheie la Esplanada Religiilor, unde luminile clădirilor se oglindesc spectaculos în bălți.",
-            "en": "The morning begins sheltered inside Saint-Georges Church while rain patters outside. At noon, the modern Notre-Dame du Val provides a dry sanctuary for quiet reflection. In the afternoon, the paths of Génitoy Park glisten with rain, giving the lakes a mystical atmosphere. The evening concludes at the Esplanade of Religions, where building lights reflect beautifully in the puddles."
+            "en": "The morning begins sheltered inside Saint-Georges Church while rain patters outside. At noon, the modern Notre-Dame du Val provides a dry sanctuary for quiet reflection. In the afternoon, the paths of Génitoy Park glisten with rain, giving the lakes a mystical atmosphere. The evening concludes at the Esplanade of Religions, where building lights reflect beautifully in the puddles.",
+            "fr": "La matinée commence à l’abri dans l’église Saint‑Georges pendant que la pluie tambourine dehors. À midi, la moderne Notre‑Dame du Val offre un sanctuaire sec pour la réflexion. L’après‑midi, les allées du parc Génitoy scintillent de pluie, donnant aux lacs une atmosphère mystique. La soirée se termine à l’Esplanade des Religions, où les éclairages se reflètent joliment dans les flaques."
           },
           "stops": [
             {
@@ -152,13 +164,15 @@
                 "de": "Kirche Saint-Georges",
                 "hu": "Saint-Georges templom",
                 "ro": "Biserica Saint-Georges",
-                "en": "Saint-Georges Church"
+                "en": "Saint-Georges Church",
+                "fr": "Église Saint‑Georges"
               },
               "tip_5lang": {
                 "de": "Bewundern Sie die Glasmalereien im trockenen Kirchenschiff; der Innenraum bietet idealen Schutz vor Schauern, aber Vorsicht vor dem rutschigen Steinfußboden am Kircheneingang.",
                 "hu": "Csodálja meg az üvegablakokat a száraz hajóban; a belső tér ideális menedék a záporok elől, de vigyázzon a bejáratnál a kőpadló csúszósságára az esős időben.",
                 "ro": "Admirați vitraliile în nava uscată a bisericii; interiorul oferă un adăpost ideal împotriva averselor, dar atenție la podeaua de piatră alunecoasă de la intrare.",
-                "en": "Admire the stained glass in the dry nave; the interior provides ideal shelter from showers, but watch out for the slippery stone floor at the church entrance."
+                "en": "Admire the stained glass in the dry nave; the interior provides ideal shelter from showers, but watch out for the slippery stone floor at the church entrance.",
+                "fr": "Admirez les vitraux dans la nef sèche ; l’intérieur offre un abri idéal contre les averses, mais méfiez‑vous du sol en pierre glissant à l’entrée."
               }
             },
             {
@@ -166,13 +180,15 @@
                 "de": "Tour-pigeonnier",
                 "hu": "Tour-pigeonnier",
                 "ro": "Tour-pigeonnier",
-                "en": "Tour-pigeonnier"
+                "en": "Tour-pigeonnier",
+                "fr": "Tour‑pigeonnier"
               },
               "tip_5lang": {
                 "de": "Betrachten Sie diesen historischen Turm kurz unter Ihrem Regenschirm; die alte Steinstruktur wirkt bei Regen besonders rustikal und ist ein tolles Motiv für Kontrastfotos.",
                 "hu": "Tekintse meg ezt a történelmi tornyot az esernyője alól; a régi kőszerkezet esőben különösen rusztikus hatást kelt, és kiváló téma a kontrasztos fotókhoz.",
                 "ro": "Priviți acest turn istoric de sub umbrelă; structura veche de piatră pare deosebit de rustică în ploaie și este un subiect excelent pentru fotografii cu contrast.",
-                "en": "View this historic tower from under your umbrella; the old stone structure looks particularly rustic in the rain and is a great subject for high-contrast photos."
+                "en": "View this historic tower from under your umbrella; the old stone structure looks particularly rustic in the rain and is a great subject for high-contrast photos.",
+                "fr": "Regardez cette tour historique sous votre parapluie ; la vieille pierre a un rendu particulièrement rustique sous la pluie et constitue un excellent sujet pour des photos à fort contraste."
               }
             },
             {
@@ -180,13 +196,15 @@
                 "de": "Église Notre-Dame du Val",
                 "hu": "Église Notre-Dame du Val",
                 "ro": "Église Notre-Dame du Val",
-                "en": "Église Notre-Dame du Val"
+                "en": "Église Notre-Dame du Val",
+                "fr": "Église Notre‑Dame du Val"
               },
               "tip_5lang": {
                 "de": "Nutzen Sie den modernen, weitläufigen Innenraum, um dem Regen für längere Zeit zu entkommen; das sanfte Licht durch die hohen Fenster wirkt bei grauem Himmel sehr beruhigend.",
                 "hu": "Használja ki a modern, tágas belső teret, hogy hosszabb időre elmeneküljön az eső elől; a magas ablakokon át beszűrődő lágy fény szürke égbolt esetén is nyugtató.",
                 "ro": "Profitați de interiorul modern și spațios pentru a scăpa de ploaie mai mult timp; lumina blândă prin ferestrele înalte este foarte liniștitoare sub cerul gri.",
-                "en": "Take advantage of the modern, spacious interior to escape the rain for a while; the gentle light through the high windows is very calming under a grey sky."
+                "en": "Take advantage of the modern, spacious interior to escape the rain for a while; the gentle light through the high windows is very calming under a grey sky.",
+                "fr": "Profitez de l’intérieur moderne et spacieux pour échapper à la pluie ; la lumière douce filtrant par les hautes fenêtres est très apaisante sous un ciel gris."
               }
             },
             {
@@ -194,13 +212,15 @@
                 "de": "Parc du Génitoy",
                 "hu": "Génitoy Park",
                 "ro": "Parcul Génitoy",
-                "en": "Génitoy Park"
+                "en": "Génitoy Park",
+                "fr": "Parc Génitoy"
               },
               "tip_5lang": {
                 "de": "Spazieren Sie auf den befestigten Wegen entlang der Seen, um Pfützen zu vermeiden; die Enten im Park genießen das Wetter, bringen Sie also wetterfeste Kleidung mit.",
                 "hu": "Sétáljon a tavak menti szilárd burkolatú utakon a tócsák elkerülése végett; a parki kacsák élvezik az időt, ön pedig készüljön vízálló ruházattal a sétához.",
                 "ro": "Plimbați-vă pe potecile pavate de-a lungul lacurilor pentru a evita bălțile; rațele din parc se bucură de vreme, așa că aduceți haine impermeabile pentru plimbare.",
-                "en": "Walk on the paved paths along the lakes to avoid puddles; the park's ducks enjoy the weather, so bring waterproof clothing for your stroll around the water."
+                "en": "Walk on the paved paths along the lakes to avoid puddles; the park's ducks enjoy the weather, so bring waterproof clothing for your stroll around the water.",
+                "fr": "Marchez sur les chemins pavés le long des lacs pour éviter les flaques ; les canards du parc apprécient le temps, alors apportez des vêtements imperméables pour votre promenade autour de l’eau."
               }
             },
             {
@@ -208,13 +228,15 @@
                 "de": "Esplanade der Religionen",
                 "hu": "Vallások Eszplanádja",
                 "ro": "Esplanada Religiilor",
-                "en": "Esplanade of Religions"
+                "en": "Esplanade of Religions",
+                "fr": "Esplanade des Religions"
               },
               "tip_5lang": {
                 "de": "Beobachten Sie, wie sich die verschiedenen Sakralbauten im nassen Pflaster spiegeln; die überdachten Bereiche der Gebäude bieten Schutz für letzte Fotos vor dem Heimweg.",
                 "hu": "Figyelje meg, hogyan tükröződnek a különböző szakrális épületek a vizes díszburkolaton; az épületek fedett részei védelmet nyújtanak az utolsó fotók elkészítéséhez.",
                 "ro": "Observați cum diferitele clădiri sacre se oglindesc în pavajul umed; zonele acoperite ale clădirilor oferă adăpost pentru ultimele fotografii înainte de plecare.",
-                "en": "Observe how the different sacred buildings reflect in the wet pavement; the sheltered areas of the buildings provide cover for taking final photos before heading back."
+                "en": "Observe how the different sacred buildings reflect in the wet pavement; the sheltered areas of the buildings provide cover for taking final photos before heading back.",
+                "fr": "Observez comment les différents édifices sacrés se reflètent sur le pavé mouillé ; les zones abritées des bâtiments offrent un couvert pour prendre les dernières photos avant de revenir."
               }
             }
           ]
@@ -224,7 +246,8 @@
             "de": "Ein kühler Wintermorgen führt uns zur historischen Kirche, wo die kalte Luft den Geist belebt. Mittags wandern wir durch die frostigen Wohnviertel zur modernen Notre-Dame du Val. Am Nachmittag erleben wir die klare Wintersonne im Génitoy-Park, bevor die Dämmerung gegen 17:00 Uhr einsetzt. Der Abend an der Esplanade wird durch die festliche Beleuchtung der Tempel und Kirchen erwärmt.",
             "hu": "A hűvös téli reggel a történelmi templomhoz vezet, ahol a friss levegő felfrissíti a lelket. Délben a fagyos lakónegyedeken át sétálunk a modern Notre-Dame du Val irányába. Délután a tiszta téli napsütést élvezzük a Génitoy Parkban, mielőtt 17:00 körül leszállna az alkony. Az este az Eszplanádon a templomok ünnepi díszkivilágítása mellett válik hangulatossá.",
             "ro": "O dimineață răcoroasă de iarnă ne duce la biserica istorică, unde aerul rece revigorează spiritul. La prânz, ne plimbăm prin cartierele înghețate spre moderna Notre-Dame du Val. După-amiaza, ne bucurăm de soarele clar de iarnă în Parcul Génitoy, înainte ca amurgul să se lase în jur de ora 17:00. Seara la Esplanadă este încălzită de iluminatul festiv al templelor.",
-            "en": "A crisp winter morning leads us to the historic church, where the cold air invigorates the spirit. At noon, we walk through frosty neighborhoods toward the modern Notre-Dame du Val. In the afternoon, enjoy the clear winter sun in Génitoy Park before dusk sets in around 17:00. The evening at the Esplanade is warmed by the festive lighting of the temples and churches."
+            "en": "A crisp winter morning leads us to the historic church, where the cold air invigorates the spirit. At noon, we walk through frosty neighborhoods toward the modern Notre-Dame du Val. In the afternoon, enjoy the clear winter sun in Génitoy Park before dusk sets in around 17:00. The evening at the Esplanade is warmed by the festive lighting of the temples and churches.",
+            "fr": "Une fraîche matinée d’hiver nous conduit à l’église historique, où l’air froid vivifie l’esprit. À midi, nous traversons des quartiers givrés vers la moderne Notre‑Dame du Val. L’après‑midi, profitez du soleil clair d’hiver au parc Génitoy avant que le crépuscule ne tombe vers 17:00. La soirée à l’Esplanade est réchauffée par l’éclairage festif des temples et des églises."
           },
           "stops": [
             {
@@ -232,13 +255,15 @@
                 "de": "Kirche Saint-Georges",
                 "hu": "Saint-Georges templom",
                 "ro": "Biserica Saint-Georges",
-                "en": "Saint-Georges Church"
+                "en": "Saint-Georges Church",
+                "fr": "Église Saint‑Georges"
               },
               "tip_5lang": {
                 "de": "Genießen Sie die Stille im dicken Mauerwerk, das die Winterkälte draußen hält; tragen Sie warme Schichten, da historische Steingebäude im Winter oft kühl bleiben.",
                 "hu": "Élvezze a csendet a vastag falak között, amelyek kint tartják a téli fagyot; öltözzön rétegesen, mivel a történelmi kőépületek télen gyakran hűvösek maradnak.",
                 "ro": "Bucurați-vă de liniștea zidurilor groase care țin frigul iernii afară; purtați haine groase, deoarece clădirile istorice din piatră rămân adesea reci iarna.",
-                "en": "Enjoy the silence within the thick stone walls that keep the winter frost out; wear warm layers as historic stone buildings often remain chilly during the winter."
+                "en": "Enjoy the silence within the thick stone walls that keep the winter frost out; wear warm layers as historic stone buildings often remain chilly during the winter.",
+                "fr": "Appréciez le silence à l’intérieur des épaisses murailles de pierre qui protègent du gel ; portez des couches chaudes car les bâtiments en pierre historiques restent souvent frais en hiver."
               }
             },
             {
@@ -246,13 +271,15 @@
                 "de": "Tour-pigeonnier",
                 "hu": "Tour-pigeonnier",
                 "ro": "Tour-pigeonnier",
-                "en": "Tour-pigeonnier"
+                "en": "Tour-pigeonnier",
+                "fr": "Tour‑pigeonnier"
               },
               "tip_5lang": {
                 "de": "Der Turm sieht bei Raureif besonders malerisch aus; machen Sie Ihre Fotos zügig, da die exponierte Lage den Wind im Winter deutlich kälter erscheinen lässt.",
                 "hu": "A torony zúzmarás időben kifejezetten festői látványt nyújt; fotózzon gyorsan, mivel a nyitott területen a téli szél sokkal hidegebbnek érződik.",
                 "ro": "Turnul arată deosebit de pitoresc când este acoperit de chiciură; faceți fotografii rapid, deoarece locația expusă face ca vântul de iarnă să pară mult mai rece.",
-                "en": "The tower looks particularly picturesque when covered in hoarfrost; take your photos quickly, as the exposed location makes the winter wind feel much colder."
+                "en": "The tower looks particularly picturesque when covered in hoarfrost; take your photos quickly, as the exposed location makes the winter wind feel much colder.",
+                "fr": "La tour est particulièrement pittoresque couverte de givre ; prenez vite vos photos car l’emplacement exposé rend le vent d’hiver beaucoup plus piquant."
               }
             },
             {
@@ -260,13 +287,15 @@
                 "de": "Église Notre-Dame du Val",
                 "hu": "Église Notre-Dame du Val",
                 "ro": "Église Notre-Dame du Val",
-                "en": "Église Notre-Dame du Val"
+                "en": "Église Notre-Dame du Val",
+                "fr": "Église Notre‑Dame du Val"
               },
               "tip_5lang": {
                 "de": "Wärmen Sie sich in der modernen, gut isolierten Kirche auf; das helle Design wirkt an kurzen Wintertagen besonders einladend und vertreibt den Winterblues.",
                 "hu": "Melegedjen fel a modern, jól szigetelt templomban; a világos belső kialakítás a rövid téli napokon különösen hívogató és elűzi a komor hangulatot.",
                 "ro": "Încălziți-vă în biserica modernă și bine izolată; designul luminos este deosebit de primitor în zilele scurte de iarnă și alungă melancolia sezonieră.",
-                "en": "Warm up in the modern, well-insulated church; the bright design is particularly welcoming on short winter days and helps chase away the winter blues."
+                "en": "Warm up in the modern, well-insulated church; the bright design is particularly welcoming on short winter days and helps chase away the winter blues.",
+                "fr": "Réchauffez‑vous dans l’église moderne et bien isolée ; le design lumineux est particulièrement accueillant les journées d’hiver courtes et chasse la morosité."
               }
             },
             {
@@ -274,13 +303,15 @@
                 "de": "Parc du Génitoy",
                 "hu": "Génitoy Park",
                 "ro": "Parcul Génitoy",
-                "en": "Génitoy Park"
+                "en": "Génitoy Park",
+                "fr": "Parc Génitoy"
               },
               "tip_5lang": {
                 "de": "Beobachten Sie die Vögel auf den teilweise gefrorenen Teichen; achten Sie auf glatte Stellen auf den Brücken und beenden Sie den Rundgang vor Einbruch der Dunkelheit.",
                 "hu": "Figyelje meg a madarakat a részben befagyott tavakon; ügyeljen a hidakon előforduló jegesedésre, és fejezze be a sétát még a korai sötétedés előtt.",
                 "ro": "Observați păsările pe iazurile parțial înghețate; atenție la porțiunile alunecoase de pe poduri și încheiați turul înainte de lăsarea întunericului.",
-                "en": "Watch the birds on the partially frozen ponds; watch out for icy patches on the bridges and make sure to finish your walk before darkness falls early."
+                "en": "Watch the birds on the partially frozen ponds; watch out for icy patches on the bridges and make sure to finish your walk before darkness falls early.",
+                "fr": "Observez les oiseaux sur les étangs partiellement gelés ; méfiez‑vous des plaques de verglas sur les ponts et veillez à terminer votre promenade avant la tombée rapide de la nuit."
               }
             },
             {
@@ -288,13 +319,15 @@
                 "de": "Esplanade der Religionen",
                 "hu": "Vallások Eszplanádja",
                 "ro": "Esplanada Religiilor",
-                "en": "Esplanade of Religions"
+                "en": "Esplanade of Religions",
+                "fr": "Esplanade des Religions"
               },
               "tip_5lang": {
                 "de": "Besuchen Sie diesen Ort zur Dämmerung gegen 17 Uhr, wenn die Beleuchtung der Tempel angeht; die kalte Winterluft lässt die Lichter besonders klar und hell erstrahlen.",
                 "hu": "Látogasson el ide alkonyatkor, 17 óra körül, amikor kigyúlnak a templomok fényei; a hideg téli levegőben a fények különösen tisztán és ragyogóan fénylenek.",
                 "ro": "Vizitați acest loc la amurg, în jurul orei 17:00, când se aprind luminile templelor; aerul rece de iarnă face ca luminile să pară deosebit de clare și strălucitoare.",
-                "en": "Visit this site at dusk around 5 PM when the temple lights come on; the crisp winter air makes the illumination appear particularly clear and bright."
+                "en": "Visit this site at dusk around 5 PM when the temple lights come on; the crisp winter air makes the illumination appear particularly clear and bright.",
+                "fr": "Visitez ce site au crépuscule vers 17 h lorsque les lumières des temples s’allument ; l’air vif d’hiver rend l’illumination particulièrement nette et brillante."
               }
             }
           ]
@@ -314,7 +347,8 @@
             "de": "Kirche Saint-Georges",
             "hu": "Saint-Georges templom",
             "ro": "Biserica Saint-Georges",
-            "en": "Saint-Georges Church"
+            "en": "Saint-Georges Church",
+            "fr": "Église Saint‑Georges"
           },
           "coords": [
             2.698027,
@@ -329,7 +363,8 @@
             "de": "Beginnen Sie Ihren Radtag in dieser malerischen Kirche, die die Geschichte der Stadt verankert, wo Sie die einfachen Buntglasfenster vor der Weiterfahrt bewundern sollten.",
             "hu": "Kezdje a kerékpáros napot ebben a hangulatos templomban, amely a város történelmének horgonya, ahol érdemes megcsodálni az ólomüveg ablakokat a központba tekerés előtt.",
             "ro": "Începeți ziua de ciclism la această biserică locală pitorească, unde ar trebui să admirați vitraliile simple înainte de a pedala prin centrul istoric.",
-            "en": "Begin your cycling day at this quaint local church which anchors the town's history, where you should admire the simple stained glass before pedaling through the center."
+            "en": "Begin your cycling day at this quaint local church which anchors the town's history, where you should admire the simple stained glass before pedaling through the center.",
+            "fr": "Commencez votre journée à vélo à cette charmante église locale qui ancre l’histoire de la ville, et admirez les vitraux simples avant de pédaler à travers le centre."
           }
         },
         {
@@ -337,7 +372,8 @@
             "de": "Tour-pigeonnier",
             "hu": "Tour-pigeonnier",
             "ro": "Tour-pigeonnier",
-            "en": "Tour-pigeonnier"
+            "en": "Tour-pigeonnier",
+            "fr": "Tour‑pigeonnier"
           },
           "coords": [
             2.697526,
@@ -352,7 +388,8 @@
             "de": "Nur eine kurze Fahrt entfernt steht dieser historische Taubenturm, ein Überbleibsel des landwirtschaftlichen Erbes, wo ein Foto vom Sattel aus eine tolle Perspektive bietet.",
             "hu": "Csak egy rövid útra áll ez a történelmi galambdúc, a mezőgazdasági örökség maradványa, ahol a nyeregből fotózva nagyszerű perspektívát kaphat.",
             "ro": "La doar o scurtă călătorie se află acest turn istoric, un vestigiu remarcabil al patrimoniului agricol unde o fotografie din șa oferă o perspectivă excelentă.",
-            "en": "Just a short ride away stands this historic dovecote tower, a remarkable vestige of agricultural heritage where taking a photo from your saddle offers a great perspective."
+            "en": "Just a short ride away stands this historic dovecote tower, a remarkable vestige of agricultural heritage where taking a photo from your saddle offers a great perspective.",
+            "fr": "À quelques coups de pédale se trouve ce pigeonnier historique, vestige remarquable du patrimoine agricole ; prendre une photo depuis la selle offre une belle perspective."
           }
         },
         {
@@ -360,7 +397,8 @@
             "de": "Château de Guermantes",
             "hu": "Château de Guermantes",
             "ro": "Château de Guermantes",
-            "en": "Château de Guermantes"
+            "en": "Château de Guermantes",
+            "fr": "Château de Guermantes"
           },
           "coords": [
             2.697745,
@@ -375,7 +413,8 @@
             "de": "Radeln Sie zu diesem großen Schloss aus dem 17. Jahrhundert, um die klassische Fassade zu würdigen, und überprüfen Sie die saisonalen Öffnungszeiten vor einem Innenbesuch.",
             "hu": "Tekerjen el ehhez a nagyszerű tizenhetedik századi kastélyhoz, hogy megcsodálja klasszikus homlokzatát, és ne felejtse el ellenőrizni a szezonális nyitvatartást.",
             "ro": "Pedalați până la acest grandios castel din secolul al șaptesprezecelea pentru a-i aprecia fațada clasică și nu uitați să verificați orarul sezonier înainte de o vizită.",
-            "en": "Cycle up to this grand seventeenth-century château to appreciate its magnificent classical facade, and remember to check the seasonal opening hours before planning an interior visit."
+            "en": "Cycle up to this grand seventeenth-century château to appreciate its magnificent classical facade, and remember to check the seasonal opening hours before planning an interior visit.",
+            "fr": "Pédalez jusqu’à ce grand château du XVIIe siècle pour apprécier sa magnifique façade classique, et pensez à vérifier les horaires d’ouverture saisonniers avant d’envisager une visite intérieure."
           }
         },
         {
@@ -383,7 +422,8 @@
             "de": "Église Sainte-Marie",
             "hu": "Église Sainte-Marie",
             "ro": "Église Sainte-Marie",
-            "en": "Église Sainte-Marie"
+            "en": "Église Sainte-Marie",
+            "fr": "Église Sainte‑Marie"
           },
           "coords": [
             2.716541,
@@ -398,7 +438,8 @@
             "de": "Machen Sie eine Pause in dieser ruhigen Vorstadtkirche, die als stiller Anker der Gemeinde dient, wo Sie Ihr Fahrrad bequem in der Nähe der Haupteingangstore parken können.",
             "hu": "Tartson egy békés szünetet ebben a külvárosi templomban, amely a közösség horgonyaként szolgál, és ahol könnyedén leparkolhatja kerékpárját a főbejárat közelében.",
             "ro": "Luați o pauză liniștită la această biserică suburbană senină care servește drept ancoră comunitară, unde vă puteți parca cu ușurință bicicleta lângă porțile principale.",
-            "en": "Take a peaceful break at this serene suburban church which serves as a quiet community anchor, where you can easily park your bike near the main entrance gates."
+            "en": "Take a peaceful break at this serene suburban church which serves as a quiet community anchor, where you can easily park your bike near the main entrance gates.",
+            "fr": "Faites une pause paisible dans cette église de banlieue sereine qui sert d’ancrage communautaire ; vous pouvez facilement garer votre vélo près des grilles d’entrée."
           }
         },
         {
@@ -406,7 +447,8 @@
             "de": "Golfplatz Bussy-Guermantes",
             "hu": "Bussy-Guermantes Golfpálya",
             "ro": "Terenul de Golf Bussy-Guermantes",
-            "en": "Bussy-Guermantes Golf Course"
+            "en": "Bussy-Guermantes Golf Course",
+            "fr": "Golf de Bussy‑Guermantes"
           },
           "coords": [
             2.724608,
@@ -421,7 +463,8 @@
             "de": "Radeln Sie vorbei an den gepflegten Grüns dieses wunderschön angelegten Platzes, der weite Ausblicke bietet, und halten Sie auf der Clubhaus-Terrasse für ein Getränk an.",
             "hu": "Tekerjen el e gyönyörűen parkosított pálya gondozott zöldjei mellett, amely széles kilátást nyújt, és fontolja meg a megállást a klubház teraszán egy frissítő italra.",
             "ro": "Pedalați pe lângă terenurile îngrijite ale acestui curs frumos amenajat care oferă vederi extinse și luați în considerare o oprire la terasa clubului pentru o băutură.",
-            "en": "Pedal past the manicured greens of this beautifully landscaped course that offers expansive views, and consider stopping at the clubhouse terrace for a refreshing drink."
+            "en": "Pedal past the manicured greens of this beautifully landscaped course that offers expansive views, and consider stopping at the clubhouse terrace for a refreshing drink.",
+            "fr": "Parcourez à vélo les greens parfaitement entretenus de ce parcours paysager offrant de larges vues, et songez à vous arrêter à la terrasse du clubhouse pour une boisson rafraîchissante."
           }
         },
         {
@@ -429,7 +472,8 @@
             "de": "Esplanade der Religionen",
             "hu": "Vallások Eszplanádja",
             "ro": "Esplanada Religiilor",
-            "en": "Esplanade of Religions"
+            "en": "Esplanade of Religions",
+            "fr": "Esplanade des Religions"
           },
           "coords": [
             2.728128,
@@ -444,7 +488,8 @@
             "de": "Entdecken Sie dieses einzigartige Symbol interreligiöser Harmonie mit mehreren nebeneinander liegenden Sakralbauten, wo eine Vorabbuchung das kulturelle Erlebnis bereichert.",
             "hu": "Fedezze fel a vallásközi harmónia ezen szimbólumát, ahol több vallási épület áll egymás mellett, és ahol az előzetes idegenvezetés foglalása gazdagítja a kulturális élményt.",
             "ro": "Descoperiți acest simbol unic al armoniei interconfesionale cu mai multe clădiri religioase alăturate, unde rezervarea unui tur ghidat în avans îmbogățește experiența.",
-            "en": "Discover this unique symbol of interfaith harmony featuring multiple religious buildings side-by-side, where booking a guided tour in advance enriches the cultural experience."
+            "en": "Discover this unique symbol of interfaith harmony featuring multiple religious buildings side-by-side, where booking a guided tour in advance enriches the cultural experience.",
+            "fr": "Découvrez ce symbole unique d’harmonie interreligieuse réunissant plusieurs lieux de culte côte à côte ; réserver une visite guidée à l’avance enrichit l’expérience culturelle."
           }
         },
         {
@@ -452,7 +497,8 @@
             "de": "Parc du Génitoy",
             "hu": "Génitoy Park",
             "ro": "Parcul Génitoy",
-            "en": "Génitoy Park"
+            "en": "Génitoy Park",
+            "fr": "Parc Génitoy"
           },
           "coords": [
             2.719024,
@@ -467,7 +513,8 @@
             "de": "Beenden Sie Ihre Radtour in dieser weitläufigen grünen Lunge, wo die gepflasterten Wege am Seeufer außergewöhnlich glatt für eine letzte entspannte Fahrt sind.",
             "hu": "Fejezze be kerékpártúráját ebben a kiterjedt zöld tüdőben, ahol a tóparti kövezett ösvények kivételesen simák egy utolsó, nyugodt kör megtételéhez.",
             "ro": "Încheiați-vă turul cu bicicleta la acest plămân verde expansiv, unde traseele pavate de pe malul lacului sunt excepțional de netede pentru o ultimă plimbare relaxată.",
-            "en": "Conclude your bike tour at this expansive green lung which provides a perfect natural escape, where the paved lakeside trails are exceptionally smooth for a final relaxed ride."
+            "en": "Conclude your bike tour at this expansive green lung which provides a perfect natural escape, where the paved lakeside trails are exceptionally smooth for a final relaxed ride.",
+            "fr": "Concluez votre circuit à vélo dans ce vaste poumon vert qui offre une parfaite escapade naturelle ; les pistes goudronnées au bord du lac sont particulièrement lisses pour une dernière balade détendue."
           }
         }
       ],
@@ -475,7 +522,8 @@
         "de": "Beginnen Sie Ihr Radabenteuer im historischen Kern der Stadt, bevor Sie zu den majestätischen Anlagen des Château de Guermantes radeln.\n\nDer Mittag bringt eine gemütliche Fahrt vorbei an lokalen Vorstadt-Wahrzeichen und den weitläufigen Grüns des lokalen Golfplatzes.\n\nFahren Sie am Nachmittag zur lebhaften Esplanade of Religions, um eine inspirierende Sammlung moderner spiritueller Architektur zu erleben.\n\nBeenden Sie Ihren aktiven Tag mit einer ruhigen Fahrt bei Sonnenuntergang entlang der friedlichen Gewässer und offenen Wege des Parc du Génitoy.",
         "hu": "Kezdje kerékpáros kalandját a város történelmi magjában, mielőtt a Château de Guermantes fenséges területeire tekerne.\n\nA délidő egy kellemes túrát tartogat a helyi külvárosi nevezetességek és a helyi golfpálya kiterjedt zöldjei mellett.\n\nDélután guruljon a vibráló Vallások Eszplanádja felé, hogy tanúja legyen a modern spirituális építészet inspiráló gyűjteményének.\n\nFejezze be aktív napját egy nyugodt naplementés kerékpározással a Génitoy Park csendes vizei és nyitott ösvényei mentén.",
         "ro": "Începeți-vă aventura cu bicicleta în nucleul istoric al orașului înainte de a pedala spre terenurile maiestuoase ale Château de Guermantes.\n\nPrânzul aduce o plimbare relaxantă pe lângă reperele suburbane locale și verdeața întinsă a terenului de golf local.\n\nDupă-amiaza, mergeți spre vibranta Esplanadă a Religiilor pentru a vedea o colecție inspirată de arhitectură spirituală modernă.\n\nTerminați-vă ziua activă cu o plimbare liniștită la apus de-a lungul apelor calme și al potecilor deschise din Parcul Génitoy.",
-        "en": "Kick off your cycling adventure in the historic core of the town before pedaling out to the majestic grounds of Château de Guermantes.\n\nMidday brings a leisurely ride past local suburban landmarks and the sprawling greens of the local golf course.\n\nIn the afternoon, cruise towards the vibrant Esplanade of Religions to witness an inspiring collection of modern spiritual architecture.\n\nFinish your active day with a tranquil sunset ride along the calm waters and open paths of Génitoy Park."
+        "en": "Kick off your cycling adventure in the historic core of the town before pedaling out to the majestic grounds of Château de Guermantes.\n\nMidday brings a leisurely ride past local suburban landmarks and the sprawling greens of the local golf course.\n\nIn the afternoon, cruise towards the vibrant Esplanade of Religions to witness an inspiring collection of modern spiritual architecture.\n\nFinish your active day with a tranquil sunset ride along the calm waters and open paths of Génitoy Park.",
+        "fr": "Lancez votre aventure cycliste dans le cœur historique de la ville avant de pédaler vers les majestueux jardins du château de Guermantes.\n\nEn milieu de journée, une balade tranquille longe des repères suburbains locaux et les vastes greens du golf.\n\nL’après‑midi, dirigez‑vous vers l’animée Esplanade des Religions pour découvrir une collection inspirante d’architecture spirituelle moderne.\n\nTerminez votre journée active par une promenade au coucher du soleil le long des eaux calmes et des chemins ouverts du parc Génitoy."
       },
       "variants": {
         "rainy": {
@@ -483,7 +531,8 @@
             "de": "Trotz Regen bietet die Radtour durch Bussy reizvolle Ausblicke auf glänzende Schlösser. Vormittags radeln wir vorsichtig nach Guermantes, wo das Schloss im Dunst mystisch wirkt. Mittags suchen wir Schutz in den Kirchen der Umgebung. Der Nachmittag führt uns über nasse Radwege zum Golfplatz und zur Esplanade, bevor wir den Tag am Génitoy-Park im sanften Regen ausklingen lassen.",
             "hu": "Az eső ellenére a kerékpártúra Bussy-ben izgalmas látványt nyújt a csillogó kastélyokkal. Délelőtt óvatosan tekerünk Guermantes-ba, ahol a kastély misztikus a párában. Délben a környékbeli templomokban keresünk menedéket. Délután vizes kerékpárutakon haladunk a golfpálya és az Eszplanád felé, majd a napot a Génitoy Parkban zárjuk a csendes esőben.",
             "ro": "În ciuda ploii, turul cu bicicleta prin Bussy oferă vederi încântătoare asupra castelelor strălucitoare. Dimineața pedalăm cu grijă spre Guermantes, unde castelul pare mistic în ceață. La prânz, căutăm adăpost în bisericile din jur. După-amiaza ne duce pe piste ude spre terenul de golf și Esplanadă, înainte de a încheia ziua în Parcul Génitoy.",
-            "en": "Despite the rain, the bike tour through Bussy offers charming views of glistening castles. In the morning, we cycle carefully to Guermantes, where the castle looks mystical in the mist. At noon, we seek shelter in local churches. The afternoon takes us along wet paths to the golf course and Esplanade, ending the day at Génitoy Park in the gentle rain."
+            "en": "Despite the rain, the bike tour through Bussy offers charming views of glistening castles. In the morning, we cycle carefully to Guermantes, where the castle looks mystical in the mist. At noon, we seek shelter in local churches. The afternoon takes us along wet paths to the golf course and Esplanade, ending the day at Génitoy Park in the gentle rain.",
+            "fr": "Malgré la pluie, la balade à vélo à travers Bussy offre des vues charmantes sur des châteaux scintillants. Le matin, nous roulons prudemment jusqu’à Guermantes, où le château paraît mystique dans la brume. À midi, nous cherchons refuge dans les églises locales. L’après‑midi nous mène le long de chemins mouillés vers le golf et l’Esplanade, pour terminer la journée au parc Génitoy sous une pluie douce."
           },
           "stops": [
             {
@@ -491,13 +540,15 @@
                 "de": "Kirche Saint-Georges",
                 "hu": "Saint-Georges templom",
                 "ro": "Biserica Saint-Georges",
-                "en": "Saint-Georges Church"
+                "en": "Saint-Georges Church",
+                "fr": "Église Saint‑Georges"
               },
               "tip_5lang": {
                 "de": "Stellen Sie Ihr Fahrrad unter den Bäumen ab und nutzen Sie die Kirche als trockenen Startpunkt; prüfen Sie Ihre Bremsen, da nasse Felgen den Bremsweg verlängern.",
                 "hu": "Parkolja le kerékpárját a fák alatt, és használja a templomot száraz indópontként; ellenőrizze a fékeket, mivel a vizes abroncsok növelik a féktávot.",
                 "ro": "Parcați bicicleta sub copaci și folosiți biserica ca punct de plecare uscat; verificați frânele, deoarece jantele ude prelungesc distanța de frânare.",
-                "en": "Park your bike under the trees and use the church as a dry starting point; check your brakes as wet rims increase your braking distance significantly."
+                "en": "Park your bike under the trees and use the church as a dry starting point; check your brakes as wet rims increase your braking distance significantly.",
+                "fr": "Garez votre vélo sous les arbres et utilisez l’église comme point de départ au sec ; vérifiez vos freins car les jantes mouillées augmentent fortement la distance de freinage."
               }
             },
             {
@@ -505,13 +556,15 @@
                 "de": "Tour-pigeonnier",
                 "hu": "Tour-pigeonnier",
                 "ro": "Tour-pigeonnier",
-                "en": "Tour-pigeonnier"
+                "en": "Tour-pigeonnier",
+                "fr": "Tour‑pigeonnier"
               },
               "tip_5lang": {
                 "de": "Ein kurzer Fotostopp reicht hier aus; achten Sie auf den rutschigen Untergrund beim Absteigen und tragen Sie ein Cape, um beim Fahren trocken zu bleiben.",
                 "hu": "Egy rövid fotómegálló bőven elég itt; ügyeljen a csúszós talajra leszálláskor, és viseljen esőköpenyt, hogy tekerés közben is száraz maradjon.",
                 "ro": "O scurtă oprire pentru fotografii este suficientă; atenție la solul alunecos când coborâți și purtați o pelerină pentru a rămâne uscat în timp ce pedalați.",
-                "en": "A quick photo stop is enough here; be careful of the slippery ground when dismounting and wear a rain cape to stay dry while cycling between stops."
+                "en": "A quick photo stop is enough here; be careful of the slippery ground when dismounting and wear a rain cape to stay dry while cycling between stops.",
+                "fr": "Un arrêt photo rapide suffit ici ; faites attention au sol glissant en descendant de vélo et portez une cape de pluie pour rester au sec entre les étapes."
               }
             },
             {
@@ -519,13 +572,15 @@
                 "de": "Château de Guermantes",
                 "hu": "Château de Guermantes",
                 "ro": "Château de Guermantes",
-                "en": "Château de Guermantes"
+                "en": "Château de Guermantes",
+                "fr": "Château de Guermantes"
               },
               "tip_5lang": {
                 "de": "Bewundern Sie die Fassade im Regen, die Farben wirken gesättigter; nutzen Sie das Schlossgelände für eine Pause im Trockenen, bevor Sie die Tour fortsetzen.",
                 "hu": "Csodálja meg a homlokzatot az esőben, a színek teltebbnek tűnnek; használja ki a kastély területét egy száraz pihenőre, mielőtt folytatná a túrát.",
                 "ro": "Admirați fațada în ploaie, culorile par mai saturate; folosiți domeniul castelului pentru o pauză la uscat înainte de a continua turul cu bicicleta.",
-                "en": "Admire the facade in the rain, the colors appear more saturated; use the castle grounds for a dry break before continuing your cycling tour through the area."
+                "en": "Admire the facade in the rain, the colors appear more saturated; use the castle grounds for a dry break before continuing your cycling tour through the area.",
+                "fr": "Admirez la façade sous la pluie, les couleurs paraissent plus saturées ; utilisez les terrains du château pour une pause au sec avant de poursuivre votre circuit à vélo dans la région."
               }
             },
             {
@@ -533,13 +588,15 @@
                 "de": "Église Sainte-Marie",
                 "hu": "Église Sainte-Marie",
                 "ro": "Église Sainte-Marie",
-                "en": "Église Sainte-Marie"
+                "en": "Église Sainte-Marie",
+                "fr": "Église Sainte‑Marie"
               },
               "tip_5lang": {
                 "de": "Dieser Stopp ist ideal, um die Kleidung zu richten und sich aufzuwärmen; die Ruhe im Inneren kontrastiert wunderbar mit dem prasselnden Regen draußen.",
                 "hu": "Ez a megálló ideális a ruházat rendezésére és a felmelegedésre; a belső csend csodás kontrasztot alkot a kinti kopogó esővel.",
                 "ro": "Această oprire este ideală pentru a vă aranja hainele și a vă încălzi; liniștea din interior contrastează minunat cu ploaia de afară.",
-                "en": "This stop is ideal for adjusting your gear and warming up; the interior silence contrasts wonderfully with the pattering rain outside the church walls."
+                "en": "This stop is ideal for adjusting your gear and warming up; the interior silence contrasts wonderfully with the pattering rain outside the church walls.",
+                "fr": "Ce stop est idéal pour ajuster votre équipement et vous réchauffer ; le silence intérieur contraste merveilleusement avec la pluie qui tambourine à l’extérieur."
               }
             },
             {
@@ -547,13 +604,15 @@
                 "de": "Golfplatz Bussy-Guermantes",
                 "hu": "Bussy-Guermantes Golfpálya",
                 "ro": "Terenul de Golf Bussy-Guermantes",
-                "en": "Bussy-Guermantes Golf Course"
+                "en": "Bussy-Guermantes Golf Course",
+                "fr": "Golf de Bussy‑Guermantes"
               },
               "tip_5lang": {
                 "de": "Das Clubhaus bietet eine hervorragende überdachte Aussicht auf das grüne Gelände; vermeiden Sie das Befahren von Rasenflächen, da diese im Regen sehr tief sind.",
                 "hu": "A klubház kiváló fedett kilátást nyújt a zöld területre; kerülje a füves részekre való behajtást, mivel az esőben a talaj nagyon mély és sáros.",
                 "ro": "Clubul oferă o vedere acoperită excelentă asupra domeniului verde; evitați pedalarea pe iarbă, deoarece solul este foarte moale și noroios în ploaie.",
-                "en": "The clubhouse provides an excellent sheltered view of the green grounds; avoid cycling on grassy areas as they become very soft and muddy in the rain."
+                "en": "The clubhouse provides an excellent sheltered view of the green grounds; avoid cycling on grassy areas as they become very soft and muddy in the rain.",
+                "fr": "Le clubhouse offre une excellente vue abritée sur les greens ; évitez de rouler sur les zones herbeuses car elles deviennent très molles et boueuses sous la pluie."
               }
             },
             {
@@ -561,13 +620,15 @@
                 "de": "Esplanade der Religionen",
                 "hu": "Vallások Eszplanádja",
                 "ro": "Esplanada Religiilor",
-                "en": "Esplanade of Religions"
+                "en": "Esplanade of Religions",
+                "fr": "Esplanade des Religions"
               },
               "tip_5lang": {
                 "de": "Fahren Sie vorsichtig auf dem glatten Pflaster der Esplanade; die modernen Tempel bieten viele Dachvorsprünge, unter denen Sie Ihr Rad kurz abstellen können.",
                 "hu": "Tekerjen óvatosan az Eszplanád csúszós burkolatán; a modern templomok számos tetőkinyúlást kínálnak, ahol rövid időre leállíthatja a kerékpárját.",
                 "ro": "Pedalați cu atenție pe pavajul alunecos al Esplanadei; templele moderne oferă multe streșini sub care vă puteți lăsa bicicleta pentru scurt timp.",
-                "en": "Cycle carefully on the slippery pavement of the Esplanade; the modern temples offer many overhangs where you can briefly park your bike out of the rain."
+                "en": "Cycle carefully on the slippery pavement of the Esplanade; the modern temples offer many overhangs where you can briefly park your bike out of the rain.",
+                "fr": "Roulez prudemment sur le pavement glissant de l’Esplanade ; les temples modernes offrent de nombreux auvents où vous pouvez brièvement abriter votre vélo de la pluie."
               }
             },
             {
@@ -575,13 +636,15 @@
                 "de": "Parc du Génitoy",
                 "hu": "Génitoy Park",
                 "ro": "Parcul Génitoy",
-                "en": "Génitoy Park"
+                "en": "Génitoy Park",
+                "fr": "Parc Génitoy"
               },
               "tip_5lang": {
                 "de": "Beenden Sie Ihre Tour auf den befestigten Wegen am See; ein Schutzblech ist heute unerlässlich, um Schlammspritzer auf der Kleidung zu vermeiden.",
                 "hu": "Fejezze be a túrát a tó menti szilárd utakon; a sárvédő ma elengedhetetlen, hogy elkerülje a sárfelcsapódást a ruházatára.",
                 "ro": "Încheiați turul pe potecile pavate de lângă lac; aripile la bicicletă sunt esențiale astăzi pentru a evita stropii de noroi pe haine.",
-                "en": "End your tour on the paved lake paths; mudguards are essential today to avoid mud splashes on your clothes during the final stretch of the ride."
+                "en": "End your tour on the paved lake paths; mudguards are essential today to avoid mud splashes on your clothes during the final stretch of the ride.",
+                "fr": "Terminez votre circuit sur les pistes goudronnées du lac ; les garde‑boue sont essentiels aujourd’hui pour éviter les éclaboussures de boue sur vos vêtements lors du dernier tronçon."
               }
             }
           ]
@@ -591,7 +654,8 @@
             "de": "Die winterliche Radtour führt durch die klare Luft von Bussy-Saint-Georges. Morgens radeln wir gut eingepackt zum Schloss Guermantes, dessen Gärten in Winterruhe liegen. Mittags wärmen wir uns in den Kirchen auf. Nachmittags geht es zügig zum Golfplatz und zur Esplanade, bevor wir gegen 17:00 Uhr im einsetzenden Abendlicht durch den Génitoy-Park fahren.",
             "hu": "A téli kerékpártúra Bussy-Saint-Georges tiszta levegőjén vezet keresztül. Reggel jól beöltözve tekerünk a Guermantes kastélyhoz, melynek kertjei téli álmot alszanak. Délben a templomokban melegszünk fel. Délután tempósan haladunk a golfpálya és az Eszplanád felé, majd 17:00 körül az alkonyi fényekben tekerünk át a Génitoy Parkon.",
             "ro": "Turul cu bicicleta iarna trece prin aerul curat din Bussy-Saint-Georges. Dimineața pedalăm bine înfofoliți spre castelul Guermantes, ale cărui grădini dorm. La prânz ne încălzim în biserici. După-amiaza mergem rapid spre terenul de golf și Esplanadă, înainte de a traversa Parcul Génitoy în lumina serii pe la ora 17:00.",
-            "en": "The winter bike tour passes through the crisp air of Bussy-Saint-Georges. In the morning, well-wrapped up, we cycle to Guermantes Castle, whose gardens are in winter rest. At noon, we warm up in local churches. In the afternoon, we head quickly to the golf course and Esplanade, before cycling through Génitoy Park as dusk falls around 17:00."
+            "en": "The winter bike tour passes through the crisp air of Bussy-Saint-Georges. In the morning, well-wrapped up, we cycle to Guermantes Castle, whose gardens are in winter rest. At noon, we warm up in local churches. In the afternoon, we head quickly to the golf course and Esplanade, before cycling through Génitoy Park as dusk falls around 17:00.",
+            "fr": "La boucle cycliste hivernale traverse l’air vif de Bussy‑Saint‑Georges. Le matin, bien emmitouflés, nous pédalons jusqu’au château de Guermantes, dont les jardins sont en repos hivernal. À midi, nous nous réchauffons dans les églises locales. L’après‑midi, nous filons vers le golf et l’Esplanade, puis traversons le parc Génitoy tandis que le crépuscule tombe vers 17:00."
           },
           "stops": [
             {
@@ -599,13 +663,15 @@
                 "de": "Kirche Saint-Georges",
                 "hu": "Saint-Georges templom",
                 "ro": "Biserica Saint-Georges",
-                "en": "Saint-Georges Church"
+                "en": "Saint-Georges Church",
+                "fr": "Église Saint-Georges"
               },
               "tip_5lang": {
                 "de": "Nutzen Sie den windgeschützten Eingangsbereich zum Aufwärmen der Hände; tragen Sie winddichte Handschuhe, da der Fahrtwind bei Frost sehr scharf sein kann.",
                 "hu": "Használja a szélvédett bejárati részt a kezei felmelegítésére; viseljen szélálló kesztyűt, mivel a menetszél fagyban nagyon éles és hideg lehet.",
                 "ro": "Folosiți zona de intrare protejată de vânt pentru a vă încălzi mâinile; purtați mănuși rezistente la vânt, deoarece curentul poate fi foarte tăios la ger.",
-                "en": "Use the wind-sheltered entrance area to warm up your hands; wear windproof gloves as the headwind can feel very sharp and cold during freezing temperatures."
+                "en": "Use the wind-sheltered entrance area to warm up your hands; wear windproof gloves as the headwind can feel very sharp and cold during freezing temperatures.",
+                "fr": "Utilisez l’entrée abritée du vent pour réchauffer vos mains ; portez des gants coupe-vent car la bise peut être très cinglante et froide par temps de gel."
               }
             },
             {
@@ -613,13 +679,15 @@
                 "de": "Tour-pigeonnier",
                 "hu": "Tour-pigeonnier",
                 "ro": "Tour-pigeonnier",
-                "en": "Tour-pigeonnier"
+                "en": "Tour-pigeonnier",
+                "fr": "Tour-pigeonnier"
               },
               "tip_5lang": {
                 "de": "Halten Sie nur kurz für ein Foto der frostigen Steine; bewegen Sie Ihre Zehen beim Treten regelmäßig, um die Durchblutung in der Winterkälte zu fördern.",
                 "hu": "Csak rövid időre álljon meg a fagyos kövek lefotózásához; mozgassa rendszeresen a lábujjait tekerés közben, hogy serkentse a vérkeringést a téli hidegben.",
                 "ro": "Opriți-vă doar scurt pentru o fotografie a pietrelor înghețate; mișcați-vă degetele de la picioare regulat în timp ce pedalați pentru a stimula circulația.",
-                "en": "Stop only briefly for a photo of the frosty stones; move your toes regularly while pedaling to stimulate circulation in the biting winter cold."
+                "en": "Stop only briefly for a photo of the frosty stones; move your toes regularly while pedaling to stimulate circulation in the biting winter cold.",
+                "fr": "Ne vous arrêtez qu’un instant pour une photo des pierres givrées ; bougez régulièrement les orteils en pédalant pour stimuler la circulation dans le froid pénétrant de l’hiver."
               }
             },
             {
@@ -627,13 +695,15 @@
                 "de": "Château de Guermantes",
                 "hu": "Château de Guermantes",
                 "ro": "Château de Guermantes",
-                "en": "Château de Guermantes"
+                "en": "Château de Guermantes",
+                "fr": "Château de Guermantes"
               },
               "tip_5lang": {
                 "de": "Die kahlen Bäume geben den Blick auf die Schlossfassade frei; achten Sie auf gefrorenes Laub auf den Wegen, das beim Radfahren tückisch glatt sein kann.",
                 "hu": "A kopasz fák között szabadabb kilátás nyílik a kastély homlokzatára; ügyeljen az utakon lévő fagyott levelekre, amelyek tekerés közben csalóka módon csúszhatnak.",
                 "ro": "Copacii golași oferă o vedere mai clară asupra fațadei castelului; atenție la frunzele înghețate de pe drum, care pot fi periculos de alunecoase la pedalat.",
-                "en": "The bare trees allow a clearer view of the castle facade; watch out for frozen leaves on the paths, which can be treacherously slippery when cycling."
+                "en": "The bare trees allow a clearer view of the castle facade; watch out for frozen leaves on the paths, which can be treacherously slippery when cycling.",
+                "fr": "Les arbres dénudés laissent une vue plus nette sur la façade du château ; méfiez-vous des feuilles gelées sur les sentiers, qui peuvent être traîtresses et glissantes à vélo."
               }
             },
             {
@@ -641,13 +711,15 @@
                 "de": "Église Sainte-Marie",
                 "hu": "Église Sainte-Marie",
                 "ro": "Église Sainte-Marie",
-                "en": "Église Sainte-Marie"
+                "en": "Église Sainte-Marie",
+                "fr": "Église Sainte-Marie"
               },
               "tip_5lang": {
                 "de": "Die dicken Kirchenmauern bieten Schutz vor dem eisigen Ostwind; nutzen Sie die Pause, um einen Schluck warmen Tee aus Ihrer Thermoskanne zu trinken.",
                 "hu": "A vastag templomfalak védelmet nyújtanak a jeges keleti szél ellen; használja ki a szünetet, hogy igyon egy korty meleg teát a termoszából.",
                 "ro": "Zidurile groase ale bisericii oferă protecție împotriva vântului înghețat; profitați de pauză pentru a bea o înghițitură de ceai cald din termos.",
-                "en": "The thick church walls offer protection from the icy east wind; use the break to have a sip of warm tea from your thermos to stay warm inside."
+                "en": "The thick church walls offer protection from the icy east wind; use the break to have a sip of warm tea from your thermos to stay warm inside.",
+                "fr": "Les murs épais de l’église protègent du vent glacial d’est ; profitez de la pause pour boire une gorgée de thé chaud dans votre thermos afin de rester au chaud à l’intérieur."
               }
             },
             {
@@ -655,13 +727,15 @@
                 "de": "Golfplatz Bussy-Guermantes",
                 "hu": "Bussy-Guermantes Golfpálya",
                 "ro": "Terenul de Golf Bussy-Guermantes",
-                "en": "Bussy-Guermantes Golf Course"
+                "en": "Bussy-Guermantes Golf Course",
+                "fr": "Bussy-Guermantes Golf Course"
               },
               "tip_5lang": {
                 "de": "Genießen Sie den weiten Blick über die froststarre Landschaft; bleiben Sie auf den asphaltierten Wegen, da der gefrorene Boden abseits der Wege sehr uneben ist.",
                 "hu": "Élvezze a tágas kilátást a zúzmarás táj felett; maradjon az aszfaltozott utakon, mivel a fagyott talaj az utak mentén nagyon egyenetlen és zötyögős.",
                 "ro": "Bucurați-vă de vederea largă peste peisajul înghețat; rămâneți pe drumurile asfaltate, deoarece solul înghețat de lângă poteci este foarte denivelat.",
-                "en": "Enjoy the wide view over the frost-covered landscape; stay on the paved paths as the frozen ground off-road can be very uneven and bumpy for cycling."
+                "en": "Enjoy the wide view over the frost-covered landscape; stay on the paved paths as the frozen ground off-road can be very uneven and bumpy for cycling.",
+                "fr": "Profitez de la vue large sur le paysage couvert de givre ; restez sur les chemins pavés car le sol gelé hors-piste peut être très inégal et cahoteux pour le vélo."
               }
             },
             {
@@ -669,13 +743,15 @@
                 "de": "Esplanade der Religionen",
                 "hu": "Vallások Eszplanádja",
                 "ro": "Esplanada Religiilor",
-                "en": "Esplanade of Religions"
+                "en": "Esplanade of Religions",
+                "fr": "Esplanade of Religions"
               },
               "tip_5lang": {
                 "de": "Die moderne Beleuchtung wirkt in der klaren Winternacht besonders scharf; achten Sie auf Raureif auf dem Pflaster, der die Esplanade in eine Eisfläche verwandeln kann.",
                 "hu": "A modern kivilágítás a tiszta téli éjszakában különösen élesnek tűnik; ügyeljen a burkolaton lévő zúzmarára, ami jégpályává változtathatja az Eszplanádot.",
                 "ro": "Iluminatul modern pare deosebit de clar în noaptea curată de iarnă; atenție la chiciura de pe pavaj, care poate transforma Esplanada într-un patinoar.",
-                "en": "The modern lighting looks particularly sharp in the clear winter night; watch out for hoarfrost on the pavement, which can turn the Esplanade into an ice rink."
+                "en": "The modern lighting looks particularly sharp in the clear winter night; watch out for hoarfrost on the pavement, which can turn the Esplanade into an ice rink.",
+                "fr": "L’éclairage moderne tranche particulièrement dans la nuit claire d’hiver ; attention au givre blanc sur le trottoir, qui peut transformer l’Esplanade en patinoire."
               }
             },
             {
@@ -683,13 +759,15 @@
                 "de": "Parc du Génitoy",
                 "hu": "Génitoy Park",
                 "ro": "Parcul Génitoy",
-                "en": "Génitoy Park"
+                "en": "Génitoy Park",
+                "fr": "Génitoy Park"
               },
               "tip_5lang": {
                 "de": "Fahren Sie vorsichtig über die Holzbrücken, da diese im Winter oft extrem glatt sind; beenden Sie die Tour zügig, bevor die Temperaturen nach Sonnenuntergang stark fallen.",
                 "hu": "Hajtson óvatosan a fahidakon, mivel azok télen gyakran rendkívül csúszósak; fejezze be a túrát gyorsan, mielőtt naplemente után a hőmérséklet hirtelen leesne.",
                 "ro": "Pedalați cu grijă pe podurile de lemn, deoarece acestea sunt adesea extrem de alunecoase iarna; încheiați turul rapid înainte ca temperatura să scadă brusc.",
-                "en": "Ride carefully over the wooden bridges as they are often extremely slippery in winter; finish your tour promptly before temperatures drop sharply after sunset."
+                "en": "Ride carefully over the wooden bridges as they are often extremely slippery in winter; finish your tour promptly before temperatures drop sharply after sunset.",
+                "fr": "Roulez prudemment sur les ponts en bois car ils sont souvent extrêmement glissants en hiver ; terminez votre tour rapidement avant que les températures ne chutent brusquement après le coucher du soleil."
               }
             }
           ]
@@ -709,7 +787,8 @@
             "de": "Château de Guermantes",
             "hu": "Château de Guermantes",
             "ro": "Château de Guermantes",
-            "en": "Château de Guermantes"
+            "en": "Château de Guermantes",
+            "fr": "Château de Guermantes"
           },
           "coords": [
             2.697745,
@@ -724,7 +803,8 @@
             "de": "Beginnen Sie Ihre malerische Fahrt an diesem prächtigen Anwesen aus dem 17. Jahrhundert, um klassische französische Architektur zu bewundern, und nutzen Sie den geräumigen Besucherparkplatz direkt an der Hauptstraße.",
             "hu": "Kezdje festői autózását ennél a csodálatos tizenhetedik századi birtoknál, hogy megcsodálja a klasszikus francia építészetet, és használja a főút melletti tágas látogatói parkolót.",
             "ro": "Începeți-vă călătoria pitorească la această moșie magnifică din secolul al șaptesprezecelea pentru a admira arhitectura clasică, și folosiți parcarea spațioasă chiar la ieșirea de pe drumul principal.",
-            "en": "Start your scenic drive at this magnificent seventeenth-century estate to marvel at classic French architecture, and use the spacious visitor parking area located just off the main road."
+            "en": "Start your scenic drive at this magnificent seventeenth-century estate to marvel at classic French architecture, and use the spacious visitor parking area located just off the main road.",
+            "fr": "Commencez votre balade panoramique à ce magnifique domaine du XVIIe siècle pour admirer l’architecture classique française, et profitez du vaste parking visiteurs situé juste à côté de la route principale."
           }
         },
         {
@@ -732,7 +812,8 @@
             "de": "Église Sainte-Marie",
             "hu": "Église Sainte-Marie",
             "ro": "Église Sainte-Marie",
-            "en": "Église Sainte-Marie"
+            "en": "Église Sainte-Marie",
+            "fr": "Église Sainte-Marie"
           },
           "coords": [
             2.716541,
@@ -747,7 +828,8 @@
             "de": "Fahren Sie zu diesem modernen Vorstadtheiligtum, das das Wachstum der Wohngegend unterstreicht, wo es meist schnell und mühelos ist, einen Platz auf dem angrenzenden Parkplatz zu finden.",
             "hu": "Hajtson ehhez a modern külvárosi szentélyhez, amely a lakóövezet növekedését emeli ki, ahol a szomszédos parkolóban általában gyors és könnyű helyet találni.",
             "ro": "Conduceți la acest sanctuar suburban modern care evidențiază creșterea rezidențială, unde găsirea unui loc în parcarea adiacentă este de obicei rapidă și fără efort.",
-            "en": "Drive to this modern suburban sanctuary that highlights the area's residential growth, where finding a spot in the adjacent lot is usually quick and effortless."
+            "en": "Drive to this modern suburban sanctuary that highlights the area's residential growth, where finding a spot in the adjacent lot is usually quick and effortless.",
+            "fr": "Rejoignez ce sanctuaire suburbain moderne qui illustre l’expansion résidentielle de la zone, où trouver une place sur le parking adjacent est généralement rapide et sans effort."
           }
         },
         {
@@ -755,7 +837,8 @@
             "de": "Kirche Saint-Georges",
             "hu": "Saint-Georges templom",
             "ro": "Biserica Saint-Georges",
-            "en": "Saint-Georges Church"
+            "en": "Saint-Georges Church",
+            "fr": "Saint-Georges Church"
           },
           "coords": [
             2.698027,
@@ -770,7 +853,8 @@
             "de": "Navigieren Sie in das historische Epizentrum der Stadt, um diese charmante traditionelle Kirche zu besuchen, wo Sie am besten in den parallelen Straßen parken, um Staus zu vermeiden.",
             "hu": "Navigáljon a város történelmi epicentrumába, hogy meglátogassa ezt a bájos hagyományos templomot, ahol a legjobb a közeli párhuzamos utcákban parkolni a torlódások elkerülése végett.",
             "ro": "Navigați în epicentrul istoric al orașului pentru a vizita această fermecătoare biserică tradițională, unde este cel mai bine să parcați pe străzile paralele pentru a evita aglomerația.",
-            "en": "Navigate into the town's historic epicenter to visit this charming traditional church, where it is best to park on the nearby parallel streets to avoid the central congestion."
+            "en": "Navigate into the town's historic epicenter to visit this charming traditional church, where it is best to park on the nearby parallel streets to avoid the central congestion.",
+            "fr": "Entrez dans l’épicentre historique de la ville pour visiter cette charmante église traditionnelle ; il est préférable de se garer dans les rues parallèles proches pour éviter la congestion du centre."
           }
         },
         {
@@ -778,7 +862,8 @@
             "de": "Tour-pigeonnier",
             "hu": "Tour-pigeonnier",
             "ro": "Tour-pigeonnier",
-            "en": "Tour-pigeonnier"
+            "en": "Tour-pigeonnier",
+            "fr": "Tour-pigeonnier"
           },
           "coords": [
             2.697526,
@@ -793,7 +878,8 @@
             "de": "Gehen Sie einen kurzen Moment vom Kirchenparkplatz, um diesen markanten runden Taubenschlag zu beobachten, ein architektonisches Juwel, das perfekt für einen schnellen morgendlichen Schnappschuss ist.",
             "hu": "Sétáljon egy keveset a templom parkolójából, hogy megfigyelje ezt a feltűnő kör alakú galambdúcot, a mezőgazdasági történelem építészeti gyöngyszemét, amely tökéletes egy reggeli fotóhoz.",
             "ro": "Mergeți un moment de la parcarea bisericii pentru a observa acest porumbar circular, o bijuterie arhitecturală a istoriei agricole perfectă pentru o fotografie rapidă dimineața.",
-            "en": "Walk a brief moment from the church parking to observe this striking circular dovecote, an architectural gem of agricultural history that is perfect for a quick morning snapshot."
+            "en": "Walk a brief moment from the church parking to observe this striking circular dovecote, an architectural gem of agricultural history that is perfect for a quick morning snapshot.",
+            "fr": "Marchez un court instant depuis le parking de l’église pour observer ce pigeonnier circulaire remarquable, joyau architectural de l’histoire agricole, idéal pour un rapide cliché matinal."
           }
         },
         {
@@ -801,7 +887,8 @@
             "de": "Église Notre-Dame du Val",
             "hu": "Église Notre-Dame du Val",
             "ro": "Église Notre-Dame du Val",
-            "en": "Église Notre-Dame du Val"
+            "en": "Église Notre-Dame du Val",
+            "fr": "Église Notre-Dame du Val"
           },
           "coords": [
             2.716176,
@@ -816,7 +903,8 @@
             "de": "Erreichen Sie dieses massive zeitgenössische Gottesdienstzentrum, das für seine markante Kupferkuppel bekannt ist, und nutzen Sie die großzügigen Parkplätze für große Gemeinden.",
             "hu": "Érkezzen meg ehhez a hatalmas, feltűnő rézkupolájáról ismert kortárs istentiszteleti központhoz, és használja ki a nagy gyülekezetek számára épített bőséges helyszíni parkolót.",
             "ro": "Ajungeți la acest centru masiv de cult contemporan, cunoscut pentru domul său izbitor din cupru, și profitați de parcarea generoasă construită special pentru congregații mari.",
-            "en": "Arrive at this massive contemporary worship center known for its striking copper dome, and take advantage of the generous on-site parking specifically built for large congregations."
+            "en": "Arrive at this massive contemporary worship center known for its striking copper dome, and take advantage of the generous on-site parking specifically built for large congregations.",
+            "fr": "Arrivez à ce vaste lieu de culte contemporain connu pour son dôme de cuivre marquant, et profitez du généreux stationnement sur place spécialement conçu pour les grandes congrégations."
           }
         },
         {
@@ -824,7 +912,8 @@
             "de": "Esplanade der Religionen",
             "hu": "Vallások Eszplanádja",
             "ro": "Esplanada Religiilor",
-            "en": "Esplanade of Religions"
+            "en": "Esplanade of Religions",
+            "fr": "Esplanade of Religions"
           },
           "coords": [
             2.728128,
@@ -839,7 +928,8 @@
             "de": "Fahren Sie ein kurzes Stück, um diese bemerkenswerte Ansammlung verschiedener spiritueller Gebäude zu erkunden, wo eine Führung einen tiefen Einblick in die interkulturelle Mission bietet.",
             "hu": "Utazzon egy rövid távolságot, hogy felfedezze a különféle spirituális épületek e figyelemre méltó együttesét, ahol az idegenvezetés mély betekintést nyújt a kultúrák közötti küldetésbe.",
             "ro": "Călătoriți o distanță scurtă pentru a explora această adunare remarcabilă de diverse clădiri spirituale, unde un tur ghidat oferă o scufundare profundă în misiunea sa interculturală.",
-            "en": "Journey a short distance to explore this remarkable assembly of diverse spiritual buildings side-by-side, where booking a guided tour offers a deep dive into its intercultural mission."
+            "en": "Journey a short distance to explore this remarkable assembly of diverse spiritual buildings side-by-side, where booking a guided tour offers a deep dive into its intercultural mission.",
+            "fr": "Parcourez une courte distance pour explorer cet ensemble remarquable de bâtiments spirituels côte à côte, où réserver une visite guidée permet d’approfondir sa mission interculturelle."
           }
         },
         {
@@ -847,7 +937,8 @@
             "de": "Château de Ferrières",
             "hu": "Château de Ferrières",
             "ro": "Château de Ferrières",
-            "en": "Château de Ferrières"
+            "en": "Château de Ferrières",
+            "fr": "Château de Ferrières"
           },
           "coords": [
             2.712057,
@@ -862,7 +953,8 @@
             "de": "Fahren Sie nach Süden, um die atemberaubende Opulenz dieses grandiosen Rothschild-Palastes zu erleben, wo eine Tischreservierung im hauseigenen Restaurant den Besuch abrundet.",
             "hu": "Hajtson délre, hogy megtapasztalja ennek a grandiózus Rothschild-palotának a lélegzetelállító gazdagságát, ahol a birtok éttermében történő asztalfoglalás emeli a látogatás fényét.",
             "ro": "Conduceți spre sud pentru a experimenta opulența uluitoare a acestui palat grandios Rothschild, unde rezervarea unei mese la restaurantul domeniului ridică întreaga vizită.",
-            "en": "Drive south to experience the breathtaking opulence of this grandiose Rothschild palace, where securing a lunch reservation at the estate's restaurant elevates the entire visit."
+            "en": "Drive south to experience the breathtaking opulence of this grandiose Rothschild palace, where securing a lunch reservation at the estate's restaurant elevates the entire visit.",
+            "fr": "Poursuivez vers le sud pour découvrir l’opulence éblouissante de ce grandiose palais Rothschild, où réserver un déjeuner au restaurant du domaine rehausse toute la visite."
           }
         },
         {
@@ -870,7 +962,8 @@
             "de": "Église Saint-Rémy",
             "hu": "Église Saint-Rémy",
             "ro": "Église Saint-Rémy",
-            "en": "Église Saint-Rémy"
+            "en": "Église Saint-Rémy",
+            "fr": "Église Saint-Rémy"
           },
           "coords": [
             2.704285,
@@ -885,7 +978,8 @@
             "de": "Beenden Sie Ihre Fahrt in diesem friedlichen Nachbardorf, um seine charmante Kirche aus der alten Welt zu bewundern, wo Sie problemlos kostenlose Parkplätze nahe dem Hauptplatz finden.",
             "hu": "Fejezze be autós túráját ebben a békés szomszédos faluban, hogy megcsodálja a régi világot idéző bájos templomot, ahol könnyen találhat ingyenes parkolót a csendes főtér közelében.",
             "ro": "Încheiați-vă călătoria cu mașina în acest sat vecin pașnic pentru a admira biserica sa fermecătoare din lumea veche, unde puteți găsi ușor parcare gratuită lângă piața principală.",
-            "en": "End your driving tour in this peaceful neighboring village to admire its charming old-world church, where you can easily find free parking near the quiet main square."
+            "en": "End your driving tour in this peaceful neighboring village to admire its charming old-world church, where you can easily find free parking near the quiet main square.",
+            "fr": "Terminez votre circuit en voiture dans ce paisible village voisin pour admirer sa charmante église d’autrefois, où vous trouverez facilement un parking gratuit près de la place principale tranquille."
           }
         }
       ],
@@ -893,7 +987,8 @@
         "de": "Beginnen Sie Ihren Roadtrip mit der Erkundung der großen historischen Anwesen und ruhigen Vorstadtstraßen im Norden der Stadt.\n\nWenn der Mittag naht, navigieren Sie in das belebte Zentrum, um den Charme der alten Welt mit zeitgenössischer Architektur zu kontrastieren.\n\nVerbringen Sie Ihren Nachmittag damit, nach Süden zu fahren, um den unvergleichlichen Luxus des Rothschild-Erbes im Château de Ferrières zu erleben.\n\nBeenden Sie Ihre ganztägige Fahrt mit einem friedlichen Halt in der Dämmerung an einer malerischen Dorfkirche und reflektieren Sie die Reise.",
         "hu": "Kezdje autós utazását a város északi részein található nagyszerű történelmi birtokok és csendes külvárosi utcák felfedezésével.\n\nDél közeledtével navigáljon a nyüzsgő központba, hogy a régi világ báját a feltűnő kortárs vallási építészettel állítsa szembe.\n\nA délutánt töltse azzal, hogy délre hajt, és megtapasztalja a Rothschild-örökség páratlan luxusát a Château de Ferrières-ben.\n\nFejezze be egész napos autós útitervét egy békés alkonyati megállóval egy festői falusi templomnál, visszagondolva a változatos útra.",
         "ro": "Începeți-vă călătoria cu mașina explorând marile moșii istorice și străzile suburbane liniștite din nordul orașului.\n\nPe măsură ce se apropie prânzul, navigați în centrul plin de viață pentru a contrasta farmecul lumii vechi cu arhitectura religioasă contemporană.\n\nPetreceți-vă după-amiaza conducând spre sud pentru a experimenta luxul de neegalat al moștenirii Rothschild la Château de Ferrières.\n\nÎncheiați-vă itinerariul de o zi cu o oprire pașnică la amurg la o biserică pitorească de sat, reflectând asupra unei călătorii diverse.",
-        "en": "Begin your road trip by exploring the grand historical estates and quiet suburban streets in the northern reaches of the city.\n\nAs midday approaches, navigate into the bustling center to contrast the old-world charm with striking contemporary religious architecture.\n\nSpend your afternoon driving southward to experience the unparalleled luxury of the Rothschild legacy at Château de Ferrières.\n\nConclude your full-day driving itinerary with a peaceful twilight stop at a quaint village church, reflecting on a diverse architectural journey."
+        "en": "Begin your road trip by exploring the grand historical estates and quiet suburban streets in the northern reaches of the city.\n\nAs midday approaches, navigate into the bustling center to contrast the old-world charm with striking contemporary religious architecture.\n\nSpend your afternoon driving southward to experience the unparalleled luxury of the Rothschild legacy at Château de Ferrières.\n\nConclude your full-day driving itinerary with a peaceful twilight stop at a quaint village church, reflecting on a diverse architectural journey.",
+        "fr": "Commencez votre road trip en explorant les grands domaines historiques et les rues suburbaines calmes au nord de la ville.\n\nÀ l’approche de midi, dirigez-vous vers le centre animé pour contraster le charme d’antan avec une architecture religieuse contemporaine saisissante.\n\nPassez l’après-midi à descendre vers le sud pour découvrir le luxe inégalé de l’héritage Rothschild au Château de Ferrières.\n\nConcluez votre itinéraire d’une journée par une halte crépusculaire paisible dans l’église d’un village pittoresque, et contemplez ce parcours architectural varié."
       },
       "variants": {
         "rainy": {
@@ -901,7 +996,8 @@
             "de": "Die Autotour durch Bussy ist perfekt für Regentage geeignet. Vormittags besuchen wir das prachtvolle Schloss Guermantes, während die Scheibenwischer den Takt angeben. Mittags erkunden wir die historischen Kirchen der Stadt im Trockenen. Nachmittags fahren wir zur Esplanade und zum Schloss Ferrières, bevor der Tag gemütlich bei der Kirche Saint-Rémy endet.",
             "hu": "Az autós túra Bussy-ben tökéletes választás esős napokra. Délelőtt a pompás Guermantes kastélyt látogatjuk meg, miközben az ablaktörlők adják az ütemet. Délben a város történelmi templomait fedezzük fel szárazon. Délután az Eszplanád és a Ferrières kastély következik, majd a napot a Saint-Rémy templomnál zárjuk kényelmesen.",
             "ro": "Turul cu mașina prin Bussy este perfect pentru zilele ploioase. Dimineața vizităm magnificul castel Guermantes, în timp ce ștergătoarele dau ritmul. La prânz explorăm bisericile istorice ale orașului la uscat. După-amiaza mergem la Esplanadă și la castelul Ferrières, înainte ca ziua să se încheie confortabil la Biserica Saint-Rémy.",
-            "en": "The car tour through Bussy is perfect for rainy days. In the morning, visit the magnificent Guermantes Castle while the wipers set the pace. At noon, explore the town's historic churches in the dry comfort of the indoors. The afternoon takes us to the Esplanade and Ferrières Castle, ending comfortably at Saint-Rémy Church."
+            "en": "The car tour through Bussy is perfect for rainy days. In the morning, visit the magnificent Guermantes Castle while the wipers set the pace. At noon, explore the town's historic churches in the dry comfort of the indoors. The afternoon takes us to the Esplanade and Ferrières Castle, ending comfortably at Saint-Rémy Church.",
+            "fr": "La visite en voiture à travers Bussy est parfaite par temps de pluie. Le matin, visitez le magnifique château de Guermantes tandis que les essuie-glaces imposent le rythme. À midi, explorez les églises historiques de la ville en restant au sec à l’intérieur. L’après-midi nous mène à l’Esplanade et au château de Ferrières, pour finir confortablement à l’église Saint-Rémy."
           },
           "stops": [
             {
@@ -909,13 +1005,15 @@
                 "de": "Château de Guermantes",
                 "hu": "Château de Guermantes",
                 "ro": "Château de Guermantes",
-                "en": "Château de Guermantes"
+                "en": "Château de Guermantes",
+                "fr": "Château de Guermantes"
               },
               "tip_5lang": {
                 "de": "Parken Sie so nah wie möglich am Eingang, um den Regenweg kurz zu halten; die Aussicht aus dem warmen Auto auf das Schlossgelände ist auch bei Regen wunderschön.",
                 "hu": "Parkoljon a lehető legközelebb a bejárathoz, hogy lerövidítse az utat az esőben; a meleg autóból nyíló kilátás a kastélykertre esőben is gyönyörű.",
                 "ro": "Parcați cât mai aproape de intrare pentru a scurta drumul prin ploaie; vederea din mașina caldă spre domeniul castelului este frumoasă chiar și pe ploaie.",
-                "en": "Park as close to the entrance as possible to keep the walk in the rain short; the view of the castle grounds from your warm car is beautiful even in the rain."
+                "en": "Park as close to the entrance as possible to keep the walk in the rain short; the view of the castle grounds from your warm car is beautiful even in the rain.",
+                "fr": "Garez-vous aussi près de l’entrée que possible pour raccourcir la marche sous la pluie ; la vue des jardins du château depuis votre voiture chauffée est belle même sous la pluie."
               }
             },
             {
@@ -923,13 +1021,15 @@
                 "de": "Église Sainte-Marie",
                 "hu": "Église Sainte-Marie",
                 "ro": "Église Sainte-Marie",
-                "en": "Église Sainte-Marie"
+                "en": "Église Sainte-Marie",
+                "fr": "Église Sainte-Marie"
               },
               "tip_5lang": {
                 "de": "Nutzen Sie den Stopp für eine längere Innenbesichtigung, während es draußen schüttet; achten Sie beim Ein- und Aussteigen auf tiefe Pfützen am Straßenrand.",
                 "hu": "Használja ki a megállót egy hosszabb belső látogatásra, miközben kint szakad az eső; az autóba való beszálláskor ügyeljen az út menti mély tócsákra.",
                 "ro": "Profitați de oprire pentru o vizită interioară mai lungă în timp ce plouă torențial afară; atenție la bălțile adânci de la marginea drumului când urcați în mașină.",
-                "en": "Use this stop for a longer indoor visit while it pours outside; watch out for deep puddles at the roadside when getting in and out of your vehicle."
+                "en": "Use this stop for a longer indoor visit while it pours outside; watch out for deep puddles at the roadside when getting in and out of your vehicle.",
+                "fr": "Profitez de cet arrêt pour une visite intérieure plus longue pendant qu’il pleut dehors ; attention aux flaques profondes en bord de route en entrant et sortant du véhicule."
               }
             },
             {
@@ -937,13 +1037,15 @@
                 "de": "Kirche Saint-Georges",
                 "hu": "Saint-Georges templom",
                 "ro": "Biserica Saint-Georges",
-                "en": "Saint-Georges Church"
+                "en": "Saint-Georges Church",
+                "fr": "Saint-Georges Church"
               },
               "tip_5lang": {
                 "de": "Der Parkplatz in der Nähe ermöglicht einen schnellen Wechsel ins Trockene; die Akustik des Regens auf dem Kirchendach sorgt für eine besonders andächtige Stimmung.",
                 "hu": "A közeli parkoló lehetővé teszi a gyors bejutást a szárazra; a templomtetőn kopogó eső akusztikája különlegesen áhítatos hangulatot teremt a belső térben.",
                 "ro": "Parcarea din apropiere permite un acces rapid la uscat; acustica ploii pe acoperișul bisericii creează o atmosferă deosebit de pioasă în interior.",
-                "en": "The nearby parking allows for a quick dash to the dry interior; the acoustics of the rain on the church roof create a particularly solemn atmosphere inside."
+                "en": "The nearby parking allows for a quick dash to the dry interior; the acoustics of the rain on the church roof create a particularly solemn atmosphere inside.",
+                "fr": "Le parking voisin permet une course rapide vers l’intérieur sec ; l’acoustique de la pluie sur le toit de l’église crée une atmosphère particulièrement solennelle à l’intérieur."
               }
             },
             {
@@ -951,13 +1053,15 @@
                 "de": "Tour-pigeonnier",
                 "hu": "Tour-pigeonnier",
                 "ro": "Tour-pigeonnier",
-                "en": "Tour-pigeonnier"
+                "en": "Tour-pigeonnier",
+                "fr": "Tour-pigeonnier"
               },
               "tip_5lang": {
                 "de": "Diesen historischen Turm können Sie bequem vom Fahrersitz aus betrachten; ideal für ein schnelles Foto, ohne dass Ihre Kamera im Regen nass werden muss.",
                 "hu": "Ezt a történelmi tornyot kényelmesen megtekintheti a vezetőülésből is; ideális egy gyors fotóhoz anélkül, hogy a fényképezőgépe elázna a zuhogó esőben.",
                 "ro": "Puteți vedea acest turn istoric confortabil de pe scaunul șoferului; este ideal pentru o fotografie rapidă fără ca aparatul foto să se ude în ploaie.",
-                "en": "You can comfortably view this historic tower from the driver's seat; it's ideal for a quick photo without your camera having to get wet in the downpour."
+                "en": "You can comfortably view this historic tower from the driver's seat; it's ideal for a quick photo without your camera having to get wet in the downpour.",
+                "fr": "Vous pouvez admirer confortablement cette tour historique depuis le siège du conducteur ; c’est idéal pour une photo rapide sans que votre appareil ne se mouille sous l’averse."
               }
             },
             {
@@ -965,13 +1069,15 @@
                 "de": "Église Notre-Dame du Val",
                 "hu": "Église Notre-Dame du Val",
                 "ro": "Église Notre-Dame du Val",
-                "en": "Église Notre-Dame du Val"
+                "en": "Église Notre-Dame du Val",
+                "fr": "Église Notre-Dame du Val"
               },
               "tip_5lang": {
                 "de": "Der moderne Vorplatz kann bei Regen sehr glatt sein; genießen Sie das Spiel des Wassers auf den großen Glasflächen dieses architektonischen Highlights.",
                 "hu": "A modern előtér esőben nagyon csúszós lehet; élvezze a víz játékát ennek az építészeti különlegességnek a hatalmas üvegfelületein a meleg autóból.",
                 "ro": "Piațeta modernă poate fi foarte alunecoasă pe ploaie; admirați jocul apei pe marile suprafețe de sticlă ale acestui punct forte arhitectural.",
-                "en": "The modern forecourt can be very slippery in the rain; enjoy the play of water on the large glass surfaces of this architectural highlight from your car."
+                "en": "The modern forecourt can be very slippery in the rain; enjoy the play of water on the large glass surfaces of this architectural highlight from your car.",
+                "fr": "Le parvis moderne peut être très glissant par temps de pluie ; appréciez le jeu de l’eau sur les grandes surfaces vitrées de ce point architectural depuis votre voiture."
               }
             },
             {
@@ -979,13 +1085,15 @@
                 "de": "Esplanade der Religionen",
                 "hu": "Vallások Eszplanádja",
                 "ro": "Esplanada Religiilor",
-                "en": "Esplanade of Religions"
+                "en": "Esplanade of Religions",
+                "fr": "Esplanade of Religions"
               },
               "tip_5lang": {
                 "de": "Fahren Sie die Esplanade langsam ab, um die verschiedenen Baustile im Regen zu bewundern; die Beleuchtung reflektiert wunderbar auf der nassen Fahrbahn.",
                 "hu": "Hajtson végig lassan az Eszplanádon, hogy megcsodálja a különböző stílusokat az esőben; a fények csodásan tükröződnek a vizes útfelületen az alkonyatkor.",
                 "ro": "Parcurgeți Esplanada încet pentru a admira diferitele stiluri în ploaie; iluminatul se reflectă minunat pe carosabilul umed în lumina serii.",
-                "en": "Drive slowly along the Esplanade to admire the different architectural styles in the rain; the lights reflect beautifully on the wet road surface at dusk."
+                "en": "Drive slowly along the Esplanade to admire the different architectural styles in the rain; the lights reflect beautifully on the wet road surface at dusk.",
+                "fr": "Roulez lentement le long de l’Esplanade pour admirer les différents styles architecturaux sous la pluie ; les lumières se reflètent magnifiquement sur la chaussée mouillée au crépuscule."
               }
             },
             {
@@ -993,13 +1101,15 @@
                 "de": "Château de Ferrières",
                 "hu": "Château de Ferrières",
                 "ro": "Château de Ferrières",
-                "en": "Château de Ferrières"
+                "en": "Château de Ferrières",
+                "fr": "Château de Ferrières"
               },
               "tip_5lang": {
                 "de": "Die Anfahrt durch die Allee ist bei Regen besonders stimmungsvoll; nutzen Sie den Besuch für eine ausgiebige Tour durch die prächtigen, trockenen Säle.",
                 "hu": "A kastélyhoz vezető fasor esőben különösen hangulatos; használja ki a látogatást egy alapos sétára a pompás és garantáltan száraz belső termekben.",
                 "ro": "Aleea de acces este deosebit de atmosferică pe ploaie; profitați de vizită pentru un tur amănunțit al sălilor magnifice și uscate ale castelului.",
-                "en": "The approach through the avenue is especially atmospheric in the rain; use your visit for an extensive tour of the magnificent, dry interior halls."
+                "en": "The approach through the avenue is especially atmospheric in the rain; use your visit for an extensive tour of the magnificent, dry interior halls.",
+                "fr": "L’allée d’accès est particulièrement atmosphérique sous la pluie ; profitez de la visite pour découvrir en profondeur les salles intérieures magnifiques et au sec."
               }
             },
             {
@@ -1007,13 +1117,15 @@
                 "de": "Église Saint-Rémy",
                 "hu": "Église Saint-Rémy",
                 "ro": "Église Saint-Rémy",
-                "en": "Église Saint-Rémy"
+                "en": "Église Saint-Rémy",
+                "fr": "Église Saint-Rémy"
               },
               "tip_5lang": {
                 "de": "Lassen Sie den Tag hier in Ruhe ausklingen; prüfen Sie vor der Abfahrt Ihre Scheibenwischer und Beleuchtung für eine sichere Heimfahrt im Dunkeln und Regen.",
                 "hu": "Zárja itt a napot nyugalomban; indulás előtt ellenőrizze az ablaktörlőket és a világítást a biztonságos hazaúthoz a sötétben és a szakadó esőben.",
                 "ro": "Încheiați ziua aici în liniște; înainte de plecare, verificați ștergătoarele și luminile pentru un drum sigur spre casă pe întuneric și ploaie.",
-                "en": "End your day here in peace; before driving home, check your wipers and lights for a safe journey back in the dark and rainy conditions of the evening."
+                "en": "End your day here in peace; before driving home, check your wipers and lights for a safe journey back in the dark and rainy conditions of the evening.",
+                "fr": "Terminez votre journée ici en paix ; avant de reprendre la route, vérifiez vos essuie-glaces et feux pour un retour sûr dans les conditions nocturnes et pluvieuses."
               }
             }
           ]
@@ -1023,7 +1135,8 @@
             "de": "Die winterliche Spritztour durch Bussy bietet Komfort und Wärme zwischen den historischen Stopps. Morgens glitzert der Raureif auf dem Schloss Guermantes, während die Autoheizung für Wohlbefinden sorgt. Mittags besuchen wir die stillen Kirchen der Region. Nachmittags geht es zum Golfplatz und zur festlich beleuchteten Esplanade, bevor wir den Tag bei der Kirche Saint-Rémy beschließen.",
             "hu": "A téli autós túra Bussy-ben kényelmet és meleget kínál a történelmi megállók között. Reggel zúzmara csillog a Guermantes kastélyon, miközben az autó fűtése kellemes meleget ad. Délben a régió csendes templomait látogatjuk meg. Délután a golfpálya és az ünnepi díszben úszó Eszplanád következik, majd a napot a Saint-Rémy templomnál zárjuk.",
             "ro": "Turul cu mașina iarna prin Bussy oferă confort și căldură între opririle istorice. Dimineața, chiciura sclipește pe castelul Guermantes, în timp ce căldura din mașină asigură confortul. La prânz vizităm bisericile liniștite. După-amiaza mergem la terenul de golf și la Esplanada luminată festiv, înainte de a încheia la Biserica Saint-Rémy.",
-            "en": "The winter driving tour through Bussy offers comfort and warmth between historic stops. In the morning, hoarfrost glistens on Guermantes Castle while the car heater keeps you cozy. At noon, visit the quiet churches of the region. The afternoon takes us to the golf course and festively lit Esplanade, ending the day at Saint-Rémy Church."
+            "en": "The winter driving tour through Bussy offers comfort and warmth between historic stops. In the morning, hoarfrost glistens on Guermantes Castle while the car heater keeps you cozy. At noon, visit the quiet churches of the region. The afternoon takes us to the golf course and festively lit Esplanade, ending the day at Saint-Rémy Church.",
+            "fr": "La visite hivernale en voiture de Bussy offre confort et chaleur entre les étapes historiques. Le matin, le givre scintille sur le château de Guermantes tandis que le chauffage de la voiture vous garde bien au chaud. À midi, visitez les églises calmes de la région. L’après-midi nous mène au golf et à l’Esplanade illuminée pour finir la journée à l’église Saint-Rémy."
           },
           "stops": [
             {
@@ -1031,13 +1144,15 @@
                 "de": "Château de Guermantes",
                 "hu": "Château de Guermantes",
                 "ro": "Château de Guermantes",
-                "en": "Château de Guermantes"
+                "en": "Château de Guermantes",
+                "fr": "Château de Guermantes"
               },
               "tip_5lang": {
                 "de": "Die kahlen Schlossgärten wirken im Winter besonders weitläufig; lassen Sie den Motor nicht unnötig laufen, während Sie für Fotos kurz aussteigen.",
                 "hu": "A kopár kastélykertek télen különösen tágasnak tűnnek; ne járassa feleslegesen a motort, amíg rövid időre kiszáll a fagyos táj lefotózásához.",
                 "ro": "Grădinile golașe ale castelului par deosebit de vaste iarna; nu lăsați motorul pornit inutil cât timp coborâți scurt pentru a face fotografii.",
-                "en": "The bare castle gardens appear particularly vast in winter; don't leave the engine idling unnecessarily while you step out briefly for photos of the frost."
+                "en": "The bare castle gardens appear particularly vast in winter; don't leave the engine idling unnecessarily while you step out briefly for photos of the frost.",
+                "fr": "Les jardins dénudés du château semblent particulièrement vastes en hiver ; ne laissez pas le moteur tourner inutilement pendant que vous sortez brièvement pour des photos du givre."
               }
             },
             {
@@ -1045,13 +1160,15 @@
                 "de": "Église Sainte-Marie",
                 "hu": "Église Sainte-Marie",
                 "ro": "Église Sainte-Marie",
-                "en": "Église Sainte-Marie"
+                "en": "Église Sainte-Marie",
+                "fr": "Église Sainte-Marie"
               },
               "tip_5lang": {
                 "de": "Genießen Sie die klare Winterluft beim kurzen Weg vom Parkplatz zur Kirche; im Inneren finden Sie eine besinnliche Atmosphäre fernab der Kälte.",
                 "hu": "Élvezze a tiszta téli levegőt a parkolótól a templomig tartó rövid úton; odabent a hidegtől távol, meghitt és békés hangulat fogadja a látogatót.",
                 "ro": "Bucurați-vă de aerul curat de iarnă pe drumul scurt de la parcare la biserică; în interior veți găsi o atmosferă meditativă, departe de frigul de afară.",
-                "en": "Enjoy the crisp winter air on the short walk from the parking to the church; inside you will find a contemplative atmosphere away from the biting cold."
+                "en": "Enjoy the crisp winter air on the short walk from the parking to the church; inside you will find a contemplative atmosphere away from the biting cold.",
+                "fr": "Profitez de l’air vif de l’hiver sur la courte marche entre le parking et l’église ; à l’intérieur vous trouverez une atmosphère contemplative à l’abri du froid mordant."
               }
             },
             {
@@ -1059,13 +1176,15 @@
                 "de": "Kirche Saint-Georges",
                 "hu": "Saint-Georges templom",
                 "ro": "Biserica Saint-Georges",
-                "en": "Saint-Georges Church"
+                "en": "Saint-Georges Church",
+                "fr": "Saint-Georges Church"
               },
               "tip_5lang": {
                 "de": "Die tiefstehende Wintersonne wirft lange Schatten durch die historischen Fenster; achten Sie auf überfrierende Nässe auf dem Parkplatz bei Schattenlage.",
                 "hu": "Az alacsonyan járó téli nap hosszú árnyékokat vet a történelmi ablakokon át; ügyeljen a parkoló árnyékos részein előforduló jegesedésre és csúszásveszélyre.",
                 "ro": "Soarele jos de iarnă aruncă umbre lungi prin ferestrele istorice; atenție la porțiunile înghețate din parcare în zonele cu umbră permanentă.",
-                "en": "The low winter sun casts long shadows through the historic windows; watch out for black ice in the parking area, especially in the shaded sections."
+                "en": "The low winter sun casts long shadows through the historic windows; watch out for black ice in the parking area, especially in the shaded sections.",
+                "fr": "Le faible soleil d’hiver projette de longues ombres à travers les fenêtres historiques ; méfiez-vous du verglas dans le parking, surtout dans les zones ombragées."
               }
             },
             {
@@ -1073,13 +1192,15 @@
                 "de": "Tour-pigeonnier",
                 "hu": "Tour-pigeonnier",
                 "ro": "Tour-pigeonnier",
-                "en": "Tour-pigeonnier"
+                "en": "Tour-pigeonnier",
+                "fr": "Tour-pigeonnier"
               },
               "tip_5lang": {
                 "de": "Ein idealer Stopp für ein Foto aus dem Auto heraus, wenn es draußen zu windig ist; die grauen Steine bilden einen tollen Kontrast zum Winterhimmel.",
                 "hu": "Ideális megálló egy autóból készített fotóhoz, ha kint túl erős a szél; a szürke kövek remek kontrasztot alkotnak a tiszta téli égbolttal.",
                 "ro": "O oprire ideală pentru o fotografie din mașină dacă afară este prea vânt; pietrele gri creează un contrast excelent cu cerul senin de iarnă.",
-                "en": "An ideal stop for a photo from the car if it's too windy outside; the grey stones provide a great contrast against the clear winter sky in the afternoon."
+                "en": "An ideal stop for a photo from the car if it's too windy outside; the grey stones provide a great contrast against the clear winter sky in the afternoon.",
+                "fr": "Un arrêt idéal pour une photo depuis la voiture si le vent est trop fort dehors ; les pierres grises offrent un beau contraste avec le ciel d’hiver clair l’après-midi."
               }
             },
             {
@@ -1087,13 +1208,15 @@
                 "de": "Église Notre-Dame du Val",
                 "hu": "Église Notre-Dame du Val",
                 "ro": "Église Notre-Dame du Val",
-                "en": "Église Notre-Dame du Val"
+                "en": "Église Notre-Dame du Val",
+                "fr": "Église Notre-Dame du Val"
               },
               "tip_5lang": {
                 "de": "Nutzen Sie die moderne Heizung des Gebäudes für eine Aufwärmpause; das helle Innere lässt die kurzen Wintertage weniger trüb erscheinen.",
                 "hu": "Használja ki az épület modern fűtését egy kis felmelegedésre; a világos belső tér segít abban, hogy a rövid téli napok kevésbé tűnjenek borúsnak.",
                 "ro": "Profitați de încălzirea modernă a clădirii pentru o pauză de dezmorțire; interiorul luminos face ca zilele scurte de iarnă să pară mai puțin mohorâte.",
-                "en": "Take advantage of the building's modern heating for a warm break; the bright interior helps the short winter days feel much less gloomy and dark."
+                "en": "Take advantage of the building's modern heating for a warm break; the bright interior helps the short winter days feel much less gloomy and dark.",
+                "fr": "Profitez du chauffage moderne du bâtiment pour une pause chaude ; l’intérieur lumineux rend les courtes journées d’hiver moins sombres et moroses."
               }
             },
             {
@@ -1101,13 +1224,15 @@
                 "de": "Esplanade der Religionen",
                 "hu": "Vallások Eszplanádja",
                 "ro": "Esplanada Religiilor",
-                "en": "Esplanade of Religions"
+                "en": "Esplanade of Religions",
+                "fr": "Esplanade of Religions"
               },
               "tip_5lang": {
                 "de": "Besuchen Sie die Esplanade kurz vor 17:00 Uhr, um die einsetzende Festbeleuchtung zu sehen; im Winter wirkt die sakrale Architektur besonders feierlich.",
                 "hu": "Látogasson el az Eszplanádra röviddel 17:00 előtt, hogy lássa kigyúlni az ünnepi fényeket; télen a szakrális építészet különösen ünnepélyesnek hat.",
                 "ro": "Vizitați Esplanada cu puțin înainte de ora 17:00 pentru a vedea aprinderea luminilor festive; iarna, arhitectura sacră pare deosebit de solemnă.",
-                "en": "Visit the Esplanade shortly before 17:00 to see the festive lighting come on; in winter, the sacred architecture feels particularly solemn and peaceful."
+                "en": "Visit the Esplanade shortly before 17:00 to see the festive lighting come on; in winter, the sacred architecture feels particularly solemn and peaceful.",
+                "fr": "Visitez l’Esplanade peu avant 17:00 pour voir l’éclairage festif s’allumer ; en hiver, l’architecture sacrée paraît particulièrement solennelle et paisible."
               }
             },
             {
@@ -1115,13 +1240,15 @@
                 "de": "Château de Ferrières",
                 "hu": "Château de Ferrières",
                 "ro": "Château de Ferrières",
-                "en": "Château de Ferrières"
+                "en": "Château de Ferrières",
+                "fr": "Château de Ferrières"
               },
               "tip_5lang": {
                 "de": "Das Schloss wirkt im Winterschlaf wie aus einem Märchen; achten Sie bei der Anfahrt auf glatte Stellen unter den Bäumen der langen Zufahrtsstraße.",
                 "hu": "A téli álmot alvó kastély olyan, mintha egy meséből lépett volna elő; a behajtáskor ügyeljen a jeges foltokra a hosszú bekötőút fái alatt.",
                 "ro": "Castelul pare desprins dintr-o poveste în timpul somnului de iarnă; atenție la porțiunile alunecoase de sub copacii de pe drumul lung de acces.",
-                "en": "The castle in winter sleep looks like something out of a fairy tale; watch out for icy patches under the trees of the long driveway as you approach."
+                "en": "The castle in winter sleep looks like something out of a fairy tale; watch out for icy patches under the trees of the long driveway as you approach.",
+                "fr": "Le château endormi en hiver ressemble à un conte de fées ; attention aux plaques de glace sous les arbres de la longue allée d’accès à l’approche."
               }
             },
             {
@@ -1129,13 +1256,15 @@
                 "de": "Église Saint-Rémy",
                 "hu": "Église Saint-Rémy",
                 "ro": "Église Saint-Rémy",
-                "en": "Église Saint-Rémy"
+                "en": "Église Saint-Rémy",
+                "fr": "Église Saint-Rémy"
               },
               "tip_5lang": {
                 "de": "Die Abenddämmerung verleiht diesem Ort eine magische Ruhe; schalten Sie das Licht frühzeitig ein und achten Sie auf Wildwechsel auf den Landstraßen.",
                 "hu": "Az alkonyati fények mágikus nyugalmat árasztanak ezen a helyen; kapcsolja be időben a fényszórókat és ügyeljen a vadakra az országutakon hazafelé.",
                 "ro": "Amurgul conferă acestui loc o liniște magică; aprindeți farurile din timp și fiți atenți la animalele sălbatice pe drumurile secundare spre casă.",
-                "en": "The evening twilight lends this place a magical stillness; turn on your headlights early and watch out for wildlife on the country roads heading home."
+                "en": "The evening twilight lends this place a magical stillness; turn on your headlights early and watch out for wildlife on the country roads heading home.",
+                "fr": "Le crépuscule du soir confère à ce lieu une quiétude magique ; allumez vos phares tôt et soyez vigilant aux animaux sauvages sur les routes de campagne en rentrant."
               }
             }
           ]

@@ -21,7 +21,8 @@
             "de": "Bahnhof Saint-Aubin",
             "hu": "Saint-Aubin vasútállomás",
             "ro": "Gara Saint-Aubin",
-            "en": "Saint-Aubin Train Station"
+            "en": "Saint-Aubin Train Station",
+            "fr": "Saint-Aubin Train Station"
           },
           "coords": [
             1.0197,
@@ -36,7 +37,8 @@
             "de": "Beginnen Sie Ihren Tag an diesem historischen Bahnhof der Region und bewundern Sie das Mauerwerk aus dem 19. Jahrhundert, bevor Sie einen Kaffee trinken.",
             "hu": "Kezdje a napot ezen a történelmi, regionális vasúti csomóponton, megcsodálva a 19. századi téglafalakat, mielőtt meginna egy reggeli kávét a közelben.",
             "ro": "Începeți ziua la acest nod feroviar istoric regional, admirând zidăria din secolul al XIX-lea înainte de a savura o cafea de dimineață în apropiere.",
-            "en": "Start your day at this historic railway hub serving the region, admiring its 19th-century brickwork before grabbing a morning coffee nearby."
+            "en": "Start your day at this historic railway hub serving the region, admiring its 19th-century brickwork before grabbing a morning coffee nearby.",
+            "fr": "Commencez votre journée à ce nœud ferroviaire historique desservant la région, en admirant ses briques du XIXe siècle avant de prendre un café matinier à proximité."
           }
         },
         {
@@ -44,7 +46,8 @@
             "de": "Kirche Saint-Aubin",
             "hu": "Saint-Aubin templom",
             "ro": "Biserica Saint-Aubin",
-            "en": "Saint-Aubin Church"
+            "en": "Saint-Aubin Church",
+            "fr": "Saint-Aubin Church"
           },
           "coords": [
             1.011908,
@@ -59,7 +62,8 @@
             "de": "Entdecken Sie diese elegante örtliche Kirche mit ihren wunderschön erhaltenen Buntglasfenstern und treten Sie morgens für das beste Licht ein.",
             "hu": "Fedezze fel ezt az elegáns helyi templomot, amely gyönyörűen megőrzött ólomüvegéről ismert, és látogasson el ide a délelőtti órákban a legjobb fényviszonyokért.",
             "ro": "Descoperiți această biserică locală elegantă, renumită pentru vitraliile sale frumos conservate, și intrați dimineața pentru a beneficia de cea mai bună lumină.",
-            "en": "Discover this elegant local church known for its beautifully preserved stained glass, and step inside during morning hours for the best interior lighting."
+            "en": "Discover this elegant local church known for its beautifully preserved stained glass, and step inside during morning hours for the best interior lighting.",
+            "fr": "Découvrez cette élégante église locale réputée pour ses vitraux remarquablement préservés, et entrez le matin pour bénéficier du meilleur éclairage intérieur."
           }
         },
         {
@@ -67,7 +71,8 @@
             "de": "Pont Jean Jaurès",
             "hu": "Pont Jean Jaurès",
             "ro": "Pont Jean Jaurès",
-            "en": "Pont Jean Jaurès"
+            "en": "Pont Jean Jaurès",
+            "fr": "Pont Jean Jaurès"
           },
           "coords": [
             1.010334,
@@ -82,7 +87,8 @@
             "de": "Spazieren Sie über diese markante Brücke, die die Städte über die Seine verbindet, um den Panoramablick zu genießen, aber halten Sie bei Wind Ihren Hut fest.",
             "hu": "Sétáljon át a Szajna felett átívelő hídon, hogy élvezze a panorámás folyami kilátást, de szeles napokon ügyeljen a kalapjára.",
             "ro": "Traversați acest pod proeminent care leagă orașele peste Sena pentru a vă bucura de vederi panoramice, dar țineți-vă pălăria în zilele cu vânt.",
-            "en": "Walk across this prominent bridge connecting the towns across the Seine to enjoy panoramic river views, but hold onto your hat during windy days."
+            "en": "Walk across this prominent bridge connecting the towns across the Seine to enjoy panoramic river views, but hold onto your hat during windy days.",
+            "fr": "Traversez ce pont emblématique reliant les villes de part et d’autre de la Seine pour profiter de panoramas sur le fleuve, mais tenez votre chapeau les jours de vent."
           }
         },
         {
@@ -90,7 +96,8 @@
             "de": "Pont Guynemer",
             "hu": "Pont Guynemer",
             "ro": "Pont Guynemer",
-            "en": "Pont Guynemer"
+            "en": "Pont Guynemer",
+            "fr": "Pont Guynemer"
           },
           "coords": [
             1.0047,
@@ -105,7 +112,8 @@
             "de": "Halten Sie an dieser wichtigen Hängebrücke über die ruhigen Gewässer, die hervorragende Fotowinkel der vorbeifahrenden Kähne bietet, wenn Sie in der Mitte stehen.",
             "hu": "Álljon meg ennél a nyugodt vizeken átívelő fontos függőhídnál, amely kiváló fotózási szögeket kínál az elhaladó uszályokhoz, ha középen áll.",
             "ro": "Opriți-vă la acest pod suspendat vital peste apele liniștite, care oferă unghiuri excelente de fotografie ale șlepurilor trecătoare dacă stați la mijloc.",
-            "en": "Pause at this vital suspension bridge crossing over the tranquil waters, which offers excellent photography angles of the passing barges if you stand mid-span."
+            "en": "Pause at this vital suspension bridge crossing over the tranquil waters, which offers excellent photography angles of the passing barges if you stand mid-span.",
+            "fr": "Faites une pause sur ce pont suspendu essentiel enjambant les eaux tranquilles, qui offre d’excellents angles photographiques des barges si vous montez au milieu de l’ouvrage."
           }
         },
         {
@@ -113,7 +121,8 @@
             "de": "Kirche Saint-Georges",
             "hu": "Saint-Georges templom",
             "ro": "Biserica Saint-Georges",
-            "en": "Église Saint-Georges"
+            "en": "Église Saint-Georges",
+            "fr": "Église Saint-Georges"
           },
           "coords": [
             0.992533,
@@ -128,7 +137,8 @@
             "de": "Erkunden Sie diese historische Pfarrkirche im benachbarten Orival und beachten Sie die romanischen Merkmale, bevor Sie über den ruhigen Friedhof spazieren.",
             "hu": "Fedezze fel ezt a szomszédos Orivalban büszkén álló történelmi plébániatemplomot, figyelve meg annak román kori jegyeit, mielőtt körbesétálná a csendes temetőt.",
             "ro": "Explorați această biserică parohială istorică situată în cartierul vecin Orival, remarcând detaliile romanice înainte de a vă plimba prin cimitirul liniștit.",
-            "en": "Explore this historic parish church standing proudly in the neighboring Orival area, noting its Romanesque features before walking around the quiet graveyard."
+            "en": "Explore this historic parish church standing proudly in the neighboring Orival area, noting its Romanesque features before walking around the quiet graveyard.",
+            "fr": "Explorez cette église paroissiale historique située dans la voisine Orival, en notant ses caractéristiques romanes avant de faire le tour du cimetière tranquille."
           }
         }
       ],
@@ -136,7 +146,8 @@
         "de": "Beginnen Sie Ihren Morgen am örtlichen Bahnhof, bevor Sie die Buntglasfenster der Kirche von Saint-Aubin bewundern. Gegen Mittag überqueren Sie die Seine über Pont Jean Jaurès und Guynemer und genießen weite Flusspanoramen. Ihren Nachmittag verbringen Sie damit, in das benachbarte Orival zu spazieren, um die Église Saint-Georges zu entdecken. Beenden Sie Ihre Tour mit einem friedlichen Abendessen.",
         "hu": "Kezdje a reggelt a helyi vasútállomás hangulatának befogadásával, mielőtt megcsodálná a Saint-Aubin templom üvegablakait. Délben a Szajnán kel át a Pont Jean Jaurès és Guynemer hidakon, élvezve a folyami panorámát. A délutánt a szomszédos Orivalban tölti, felfedezve a bájos Église Saint-Georges-t. Fejezze be sétáját egy békés vacsorával a régió építészeti emlékein elmélkedve.",
         "ro": "Începeți dimineața absorbind atmosfera la gara locală înainte de a admira vitraliile Bisericii Saint-Aubin. La prânz, veți traversa Sena prin Pont Jean Jaurès și Guynemer, bucurându-vă de panoramele râului. După-amiaza o veți petrece plimbându-vă în cartierul vecin Orival pentru a descoperi fermecătoarea Église Saint-Georges. Încheiați turul pietonal cu o cină liniștită.",
-        "en": "Start your morning absorbing the atmosphere at the local train station before admiring the stained glass of the Saint-Aubin Church. By midday, you'll be crossing the Seine via Pont Jean Jaurès and Guynemer, taking in sweeping river panoramas. Your afternoon is spent wandering into neighboring Orival to discover the charming Église Saint-Georges. Conclude your tour with a peaceful evening meal."
+        "en": "Start your morning absorbing the atmosphere at the local train station before admiring the stained glass of the Saint-Aubin Church. By midday, you'll be crossing the Seine via Pont Jean Jaurès and Guynemer, taking in sweeping river panoramas. Your afternoon is spent wandering into neighboring Orival to discover the charming Église Saint-Georges. Conclude your tour with a peaceful evening meal.",
+        "fr": "Commencez votre matinée en imprégnant l’atmosphère de la gare locale avant d’admirer les vitraux de l’église Saint-Aubin. À midi, vous traverserez la Seine via les ponts Jean Jaurès et Guynemer en profitant de vastes panoramas fluviaux. Votre après‑midi se passe à flâner dans l’agréable Orival pour découvrir la charmante Église Saint-Georges. Concluez votre visite par un dîner paisible en soirée."
       },
       "variants": {
         "rainy": {
@@ -144,7 +155,8 @@
             "de": "Beginnen Sie Ihren regnerischen Spaziergang am Bahnhof mit einem Regenschirm. Suchen Sie Schutz in den Kirchen und genießen Sie die ruhige Atmosphäre. Die Brücken bieten stimmungsvolle Ausblicke, aber achten Sie auf rutschige Wege. Beenden Sie die Tour im Trockenen in der Kirche Saint-Georges.",
             "hu": "Kezdje az esős sétát az állomásról egy erős esernyővel felszerelkezve. Keressen menedéket a helyi templomokban, élvezve a csendes, száraz légkört. A hidak hangulatos kilátást nyújtanak, de vigyázzon a csúszós járdákon. A túrát a Saint-Georges templom fedett falai között zárhatja.",
             "ro": "Începeți plimbarea ploioasă de la gară, echipat cu o umbrelă robustă. Căutați adăpost în bisericile locale, bucurându-vă de atmosfera uscată. Podurile oferă vederi melancolice asupra râului, dar atenție la trotuarele alunecoase. Încheiați turul în interiorul Saint-Georges, ferit de averse.",
-            "en": "Begin your rainy walk starting from the station with a sturdy umbrella. Seek shelter in the local churches, enjoying their peaceful, dry atmosphere. The river bridges offer moody, overcast views, but watch your step on the wet pavement. End your tour inside Saint-Georges, safe from the showers."
+            "en": "Begin your rainy walk starting from the station with a sturdy umbrella. Seek shelter in the local churches, enjoying their peaceful, dry atmosphere. The river bridges offer moody, overcast views, but watch your step on the wet pavement. End your tour inside Saint-Georges, safe from the showers.",
+            "fr": "Commencez votre promenade sous la pluie depuis la gare avec un parapluie solide. Cherchez abri dans les églises locales et profitez de leur atmosphère paisible et sèche. Les ponts offrent des vues maussades par temps couvert, mais faites attention au pavé mouillé. Terminez votre circuit à l’intérieur de Saint-Georges, à l’abri des averses."
           },
           "stops": [
             {
@@ -152,13 +164,15 @@
                 "de": "Bahnhof Saint-Aubin",
                 "hu": "Saint-Aubin vasútállomás",
                 "ro": "Gara Saint-Aubin",
-                "en": "Saint-Aubin Train Station"
+                "en": "Saint-Aubin Train Station",
+                "fr": "Saint-Aubin Train Station"
               },
               "tip_5lang": {
                 "de": "Prüfen Sie Ihre Regenkleidung unter dem Vordach, bevor Sie losgehen.",
                 "hu": "Ellenőrizze az esőfelszerelését az állomás peronteteje alatt, mielőtt elindul.",
                 "ro": "Verificați echipamentul de ploaie sub copertina gării înainte de a pleca.",
-                "en": "Check your rain gear under the station canopy before heading out."
+                "en": "Check your rain gear under the station canopy before heading out.",
+                "fr": "Vérifiez vos vêtements de pluie sous la marquise de la gare avant de partir."
               }
             },
             {
@@ -166,13 +180,15 @@
                 "de": "Kirche Saint-Aubin",
                 "hu": "Saint-Aubin templom",
                 "ro": "Biserica Saint-Aubin",
-                "en": "Saint-Aubin Church"
+                "en": "Saint-Aubin Church",
+                "fr": "Saint-Aubin Church"
               },
               "tip_5lang": {
                 "de": "Bewundern Sie die Buntglasfenster von innen, ein perfekter trockener Zufluchtsort vor den Schauern.",
                 "hu": "Csodálja meg az üvegablakokat belülről, amely tökéletes száraz menedéket nyújt a záporok elől.",
                 "ro": "Admirați vitraliile din interior, un refugiu uscat perfect împotriva averselor bruște.",
-                "en": "Admire the stained glass from inside, providing a perfect dry refuge from the sudden showers."
+                "en": "Admire the stained glass from inside, providing a perfect dry refuge from the sudden showers.",
+                "fr": "Admirez les vitraux de l’intérieur, offrant un refuge parfaitement sec contre les averses soudaines."
               }
             },
             {
@@ -180,13 +196,15 @@
                 "de": "Pont Jean Jaurès",
                 "hu": "Pont Jean Jaurès",
                 "ro": "Pont Jean Jaurès",
-                "en": "Pont Jean Jaurès"
+                "en": "Pont Jean Jaurès",
+                "fr": "Pont Jean Jaurès"
               },
               "tip_5lang": {
                 "de": "Genießen Sie die neblige Flusssicht, aber halten Sie Ihren Schirm bei Windböen gut fest.",
                 "hu": "Élvezze a ködös folyóra nyíló kilátást, de tartsa erősen az esernyőjét a szélben.",
                 "ro": "Bucurați-vă de priveliștea cețoasă a râului, dar țineți bine umbrela din cauza vântului.",
-                "en": "Enjoy the misty river view from the bridge, but hold your umbrella tight against the wind."
+                "en": "Enjoy the misty river view from the bridge, but hold your umbrella tight against the wind.",
+                "fr": "Profitez de la vue embrumée sur le fleuve depuis le pont, mais tenez bien votre parapluie contre le vent."
               }
             },
             {
@@ -194,13 +212,15 @@
                 "de": "Pont Guynemer",
                 "hu": "Pont Guynemer",
                 "ro": "Pont Guynemer",
-                "en": "Pont Guynemer"
+                "en": "Pont Guynemer",
+                "fr": "Pont Guynemer"
               },
               "tip_5lang": {
                 "de": "Betrachten Sie die stimmungsvollen Spiegelungen im Wasser und gehen Sie vorsichtig auf der Nässe.",
                 "hu": "Figyelje meg a víz borongós tükröződéseit, miközben óvatosan kel át a nedves felületen.",
                 "ro": "Priviți reflexiile melancolice pe apă în timp ce traversați cu atenție suprafața umedă.",
-                "en": "Look at the moody reflections on the water while crossing carefully on the wet surfaces."
+                "en": "Look at the moody reflections on the water while crossing carefully on the wet surfaces.",
+                "fr": "Contemplez les reflets mélancoliques sur l’eau en traversant prudemment sur les surfaces humides."
               }
             },
             {
@@ -208,13 +228,15 @@
                 "de": "Kirche Saint-Georges",
                 "hu": "Saint-Georges templom",
                 "ro": "Biserica Saint-Georges",
-                "en": "Église Saint-Georges"
+                "en": "Église Saint-Georges",
+                "fr": "Église Saint-Georges"
               },
               "tip_5lang": {
                 "de": "Beenden Sie Ihren Spaziergang hier und wärmen Sie sich im ruhigen, historischen Inneren der Kirche auf.",
                 "hu": "Zárja itt a sétát, megszáradva, miközben felfedezi a templom nyugodt, történelmi belsejét.",
                 "ro": "Încheiați plimbarea aici, uscându-vă în timp ce explorați interiorul liniștit al bisericii.",
-                "en": "Conclude your walk here, drying off while exploring the tranquil, historic interior of the church."
+                "en": "Conclude your walk here, drying off while exploring the tranquil, historic interior of the church.",
+                "fr": "Concluez votre promenade ici, en vous séchant tout en explorant l’intérieur historique et tranquille de l’église."
               }
             }
           ]
@@ -224,7 +246,8 @@
             "de": "Packen Sie sich für einen klaren Winterspaziergang vom Bahnhof aus warm ein. Die Kirchen bieten auf dem Weg wärmere Rückzugsorte. Die Brücken bieten frostige Aussichten auf den Fluss, auch wenn der Wind eisig sein kann. Beenden Sie die Tour früh, da die Sonne gegen 17:00 Uhr untergeht.",
             "hu": "Öltözzön melegen a frissítő téli sétához az állomástól. A történelmi templomok némileg melegebb menedéket nyújtanak útközben. A hidak deres kilátást nyújtanak a folyóra, de a szél csípős lehet. Fejezze be korán a túrát, mivel a téli nap 17:00 körül lenyugszik.",
             "ro": "Îmbrăcați-vă gros pentru o plimbare de iarnă de la gară. Bisericile istorice oferă un refugiu mai cald pe drum. Podurile oferă vederi înghețate asupra râului, deși vântul poate fi tăios. Încheiați turul devreme, deoarece soarele de iarnă apune în jur de ora 17:00.",
-            "en": "Bundle up for a crisp winter walk from the station. The historic churches offer somewhat warmer retreats along the way. Crossing the bridges provides frosty, beautiful views of the river, though the wind can be biting. Finish your tour early as the winter sun sets around 17:00, dimming the light."
+            "en": "Bundle up for a crisp winter walk from the station. The historic churches offer somewhat warmer retreats along the way. Crossing the bridges provides frosty, beautiful views of the river, though the wind can be biting. Finish your tour early as the winter sun sets around 17:00, dimming the light.",
+            "fr": "Couvrez‑vous chaudement pour une marche hivernale depuis la gare. Les églises historiques offrent des haltes un peu plus chaudes en chemin. La traversée des ponts donne des vues glacées et magnifiques sur la rivière, bien que le vent puisse être mordant. Terminez votre visite tôt car le soleil d’hiver se couche vers 17:00, atténuant la lumière."
           },
           "stops": [
             {
@@ -232,13 +255,15 @@
                 "de": "Bahnhof Saint-Aubin",
                 "hu": "Saint-Aubin vasútállomás",
                 "ro": "Gara Saint-Aubin",
-                "en": "Saint-Aubin Train Station"
+                "en": "Saint-Aubin Train Station",
+                "fr": "Saint-Aubin Train Station"
               },
               "tip_5lang": {
                 "de": "Wickeln Sie Ihren Schal eng, wenn Sie das etwas beheizte Bahnhofsgebäude verlassen.",
                 "hu": "Húzza szorosra a sálját, amikor elhagyja a fűtött állomásépületet a hideg levegőre.",
                 "ro": "Strângeți-vă fularul bine când părăsiți clădirea ușor încălzită a gării în aerul rece.",
-                "en": "Wrap your scarf tight as you leave the somewhat heated station building into the cold air."
+                "en": "Wrap your scarf tight as you leave the somewhat heated station building into the cold air.",
+                "fr": "Serrez l’écharpe en quittant le bâtiment de la gare, qui est quelque peu chauffé, pour affronter l’air froid."
               }
             },
             {
@@ -246,13 +271,15 @@
                 "de": "Kirche Saint-Aubin",
                 "hu": "Saint-Aubin templom",
                 "ro": "Biserica Saint-Aubin",
-                "en": "Saint-Aubin Church"
+                "en": "Saint-Aubin Church",
+                "fr": "Saint-Aubin Church"
               },
               "tip_5lang": {
                 "de": "Treten Sie ein, um Ihre Hände zu wärmen und die friedliche Winteratmosphäre des Kirchenschiffs zu bewundern.",
                 "hu": "Lépjen be, hogy felmelegítse a kezét, miközben csodálja a hajó békés téli hangulatát.",
                 "ro": "Intrați pentru a vă încălzi mâinile în timp ce admirați atmosfera pașnică de iarnă a naosului.",
-                "en": "Step inside to warm your hands while admiring the peaceful, dimly lit winter atmosphere of the nave."
+                "en": "Step inside to warm your hands while admiring the peaceful, dimly lit winter atmosphere of the nave.",
+                "fr": "Entrez pour réchauffer vos mains en admirant l’atmosphère paisible et faiblement éclairée de la nef en hiver."
               }
             },
             {
@@ -260,13 +287,15 @@
                 "de": "Pont Jean Jaurès",
                 "hu": "Pont Jean Jaurès",
                 "ro": "Pont Jean Jaurès",
-                "en": "Pont Jean Jaurès"
+                "en": "Pont Jean Jaurès",
+                "fr": "Pont Jean Jaurès"
               },
               "tip_5lang": {
                 "de": "Der Flussnebel wirkt magisch, aber tragen Sie Handschuhe, da die Brückengeländer eiskalt sind.",
                 "hu": "A folyami köd varázslatos télen, de viseljen kesztyűt, mert a hídkorlátok jéghidegek.",
                 "ro": "Ceața râului pare magică iarna, dar purtați mănuși deoarece balustradele sunt înghețate.",
-                "en": "The river mist looks magical in winter, but wear gloves as the bridge railings are freezing cold."
+                "en": "The river mist looks magical in winter, but wear gloves as the bridge railings are freezing cold.",
+                "fr": "La brume sur le fleuve est magique en hiver, mais portez des gants car les rambardes du pont sont glacées."
               }
             },
             {
@@ -274,13 +303,15 @@
                 "de": "Pont Guynemer",
                 "hu": "Pont Guynemer",
                 "ro": "Pont Guynemer",
-                "en": "Pont Guynemer"
+                "en": "Pont Guynemer",
+                "fr": "Pont Guynemer"
               },
               "tip_5lang": {
                 "de": "Genießen Sie die kahle Uferlandschaft und halten Sie ein zügiges Tempo, um warm zu bleiben.",
                 "hu": "Élvezze a kopár, lombtalan folyóparti tájat, és tartson élénk tempót, hogy melegen maradjon.",
                 "ro": "Bucurați-vă de peisajul desfrunzit al malurilor râului, menținând un ritm alert pentru a vă încălzi.",
-                "en": "Enjoy the stark, leafless scenery along the riverbanks, keeping a brisk pace to stay warm."
+                "en": "Enjoy the stark, leafless scenery along the riverbanks, keeping a brisk pace to stay warm.",
+                "fr": "Appréciez le paysage dénudé et sans feuilles le long des rives, en gardant un rythme vif pour rester au chaud."
               }
             },
             {
@@ -288,13 +319,15 @@
                 "de": "Kirche Saint-Georges",
                 "hu": "Saint-Georges templom",
                 "ro": "Biserica Saint-Georges",
-                "en": "Église Saint-Georges"
+                "en": "Église Saint-Georges",
+                "fr": "Église Saint-Georges"
               },
               "tip_5lang": {
                 "de": "Erkunden Sie den ruhigen Innenraum bei naher Dämmerung und lassen Sie den Tag hier ausklingen.",
                 "hu": "Fedezze fel a csendes belsőt a kora esti szürkület közeledtével, lezárva napját a történelmi menedékben.",
                 "ro": "Explorați interiorul liniștit pe măsură ce se apropie amurgul, încheind ziua în acest adăpost istoric.",
-                "en": "Explore the quiet interior as the early twilight approaches, wrapping up your day in this historic shelter."
+                "en": "Explore the quiet interior as the early twilight approaches, wrapping up your day in this historic shelter.",
+                "fr": "Explorez l’intérieur calme à l’approche du crépuscule précoce, et terminez votre journée dans cet abri historique."
               }
             }
           ]
@@ -314,7 +347,8 @@
             "de": "Bahnhof Saint-Aubin",
             "hu": "Saint-Aubin vasútállomás",
             "ro": "Gara Saint-Aubin",
-            "en": "Saint-Aubin Train Station"
+            "en": "Saint-Aubin Train Station",
+            "fr": "Saint-Aubin Train Station"
           },
           "coords": [
             1.0197,
@@ -329,7 +363,8 @@
             "de": "Beginnen Sie Ihren Tag an diesem historischen Bahnhof der Region und bewundern Sie das Mauerwerk aus dem 19. Jahrhundert, bevor Sie einen Kaffee trinken.",
             "hu": "Kezdje a napot ezen a történelmi, regionális vasúti csomóponton, megcsodálva a 19. századi téglafalakat, mielőtt meginna egy reggeli kávét a közelben.",
             "ro": "Începeți ziua la acest nod feroviar istoric regional, admirând zidăria din secolul al XIX-lea înainte de a savura o cafea de dimineață în apropiere.",
-            "en": "Start your day at this historic railway hub serving the region, admiring its 19th-century brickwork before grabbing a morning coffee nearby."
+            "en": "Start your day at this historic railway hub serving the region, admiring its 19th-century brickwork before grabbing a morning coffee nearby.",
+            "fr": "Commencez votre journée à ce nœud ferroviaire historique desservant la région, en admirant ses briques du XIXe siècle avant de prendre un café matinier à proximité."
           }
         },
         {
@@ -337,7 +372,8 @@
             "de": "Kirche Saint-Aubin",
             "hu": "Saint-Aubin templom",
             "ro": "Biserica Saint-Aubin",
-            "en": "Saint-Aubin Church"
+            "en": "Saint-Aubin Church",
+            "fr": "Saint-Aubin Church"
           },
           "coords": [
             1.011908,
@@ -352,7 +388,8 @@
             "de": "Entdecken Sie diese elegante örtliche Kirche mit ihren wunderschön erhaltenen Buntglasfenstern und treten Sie morgens für das beste Licht ein.",
             "hu": "Fedezze fel ezt az elegáns helyi templomot, amely gyönyörűen megőrzött ólomüvegéről ismert, és látogasson el ide a délelőtti órákban a legjobb fényviszonyokért.",
             "ro": "Descoperiți această biserică locală elegantă, renumită pentru vitraliile sale frumos conservate, și intrați dimineața pentru a beneficia de cea mai bună lumină.",
-            "en": "Discover this elegant local church known for its beautifully preserved stained glass, and step inside during morning hours for the best interior lighting."
+            "en": "Discover this elegant local church known for its beautifully preserved stained glass, and step inside during morning hours for the best interior lighting.",
+            "fr": "Découvrez cette élégante église locale réputée pour ses vitraux remarquablement préservés, et entrez le matin pour bénéficier du meilleur éclairage intérieur."
           }
         },
         {
@@ -360,7 +397,8 @@
             "de": "Pont Jean Jaurès",
             "hu": "Pont Jean Jaurès",
             "ro": "Pont Jean Jaurès",
-            "en": "Pont Jean Jaurès"
+            "en": "Pont Jean Jaurès",
+            "fr": "Pont Jean Jaurès"
           },
           "coords": [
             1.010334,
@@ -375,7 +413,8 @@
             "de": "Spazieren Sie über diese markante Brücke, die die Städte über die Seine verbindet, um den Panoramablick zu genießen, aber halten Sie bei Wind Ihren Hut fest.",
             "hu": "Sétáljon át a Szajna felett átívelő hídon, hogy élvezze a panorámás folyami kilátást, de szeles napokon ügyeljen a kalapjára.",
             "ro": "Traversați acest pod proeminent care leagă orașele peste Sena pentru a vă bucura de vederi panoramice, dar țineți-vă pălăria în zilele cu vânt.",
-            "en": "Walk across this prominent bridge connecting the towns across the Seine to enjoy panoramic river views, but hold onto your hat during windy days."
+            "en": "Walk across this prominent bridge connecting the towns across the Seine to enjoy panoramic river views, but hold onto your hat during windy days.",
+            "fr": "Traversez ce pont emblématique reliant les villes de part et d’autre de la Seine pour profiter de panoramas sur le fleuve, mais tenez votre chapeau les jours de vent."
           }
         },
         {
@@ -383,7 +422,8 @@
             "de": "Pont Guynemer",
             "hu": "Pont Guynemer",
             "ro": "Pont Guynemer",
-            "en": "Pont Guynemer"
+            "en": "Pont Guynemer",
+            "fr": "Pont Guynemer"
           },
           "coords": [
             1.0047,
@@ -398,7 +438,8 @@
             "de": "Halten Sie an dieser wichtigen Hängebrücke über die ruhigen Gewässer, die hervorragende Fotowinkel der vorbeifahrenden Kähne bietet, wenn Sie in der Mitte stehen.",
             "hu": "Álljon meg ennél a nyugodt vizeken átívelő fontos függőhídnál, amely kiváló fotózási szögeket kínál az elhaladó uszályokhoz, ha középen áll.",
             "ro": "Opriți-vă la acest pod suspendat vital peste apele liniștite, care oferă unghiuri excelente de fotografie ale șlepurilor trecătoare dacă stați la mijloc.",
-            "en": "Pause at this vital suspension bridge crossing over the tranquil waters, which offers excellent photography angles of the passing barges if you stand mid-span."
+            "en": "Pause at this vital suspension bridge crossing over the tranquil waters, which offers excellent photography angles of the passing barges if you stand mid-span.",
+            "fr": "Faites une pause sur ce pont suspendu essentiel enjambant les eaux tranquilles, qui offre d’excellents angles photographiques des barges si vous montez au milieu de l’ouvrage."
           }
         },
         {
@@ -406,7 +447,8 @@
             "de": "Kirche Saint-Georges",
             "hu": "Saint-Georges templom",
             "ro": "Biserica Saint-Georges",
-            "en": "Église Saint-Georges"
+            "en": "Église Saint-Georges",
+            "fr": "Église Saint-Georges"
           },
           "coords": [
             0.992533,
@@ -421,7 +463,8 @@
             "de": "Erkunden Sie diese historische Pfarrkirche im benachbarten Orival und beachten Sie die romanischen Merkmale, bevor Sie über den ruhigen Friedhof spazieren.",
             "hu": "Fedezze fel ezt a szomszédos Orivalban büszkén álló történelmi plébániatemplomot, figyelve meg annak román kori jegyeit, mielőtt körbesétálná a csendes temetőt.",
             "ro": "Explorați această biserică parohială istorică situată în cartierul vecin Orival, remarcând detaliile romanice înainte de a vă plimba prin cimitirul liniștit.",
-            "en": "Explore this historic parish church standing proudly in the neighboring Orival area, noting its Romanesque features before walking around the quiet graveyard."
+            "en": "Explore this historic parish church standing proudly in the neighboring Orival area, noting its Romanesque features before walking around the quiet graveyard.",
+            "fr": "Explorez cette église paroissiale historique située dans la voisine Orival, en notant ses caractéristiques romanes avant de faire le tour du cimetière tranquille."
           }
         },
         {
@@ -429,7 +472,8 @@
             "de": "Viadukt von Orival",
             "hu": "Orival viadukt",
             "ro": "Viaductul din Orival",
-            "en": "Viaduc d'Orival"
+            "en": "Viaduc d'Orival",
+            "fr": "Viaduc d'Orival"
           },
           "coords": [
             0.999078,
@@ -444,7 +488,8 @@
             "de": "Blicken Sie zu diesem beeindruckenden Eisenbahnviadukt hinauf, das über das Tal ragt; ein wahres Wunder der Industrietechnik, das man am besten vom Flussufer betrachtet.",
             "hu": "Tekintsen fel erre a völgy fölé magasodó lenyűgöző vasúti viaduktra, amely az ipari mérnöki munka csodája, és legjobban a folyópartról látható.",
             "ro": "Priviți în sus la acest impresionant viaduct feroviar care se înalță deasupra văii, o minune a ingineriei industriale cel mai bine văzută de pe malul râului.",
-            "en": "Gaze up at this impressive railway viaduct towering above the valley, a true marvel of industrial engineering best viewed from the riverbanks below."
+            "en": "Gaze up at this impressive railway viaduct towering above the valley, a true marvel of industrial engineering best viewed from the riverbanks below.",
+            "fr": "Levez les yeux vers ce viaduc ferroviaire impressionnant dominant la vallée, une véritable merveille d’ingénierie industrielle mieux admirée depuis les berges en contrebas."
           }
         },
         {
@@ -452,7 +497,8 @@
             "de": "Brûlins Park",
             "hu": "Brûlins Park",
             "ro": "Parcul Brûlins",
-            "en": "Brûlins Park"
+            "en": "Brûlins Park",
+            "fr": "Brûlins Park"
           },
           "coords": [
             1.025581,
@@ -467,7 +513,8 @@
             "de": "Entspannen Sie sich in diesem weitläufigen grünen Erholungsgebiet, das sich perfekt für einen ruhigen Nachmittag eignet, und bringen Sie lokale Snacks für ein Picknick mit.",
             "hu": "Pihenjen ebben a hatalmas zöld rekreációs területen, amely tökéletes egy békés délutánhoz, és hozzon magával helyi falatokat az árnyékos piknikasztalokhoz.",
             "ro": "Relaxați-vă în această zonă vastă de recreere, perfectă pentru o după-amiază liniștită, și aduceți gustări locale pentru a le savura la mesele de picnic.",
-            "en": "Relax in this expansive green recreational area perfect for a peaceful afternoon, and bring some local snacks to enjoy at one of the shaded picnic tables."
+            "en": "Relax in this expansive green recreational area perfect for a peaceful afternoon, and bring some local snacks to enjoy at one of the shaded picnic tables.",
+            "fr": "Détendez‑vous dans cet vaste espace vert récréatif parfait pour un après‑midi paisible, et apportez quelques produits locaux à savourer à l’une des tables de pique-nique ombragées."
           }
         }
       ],
@@ -475,7 +522,8 @@
         "de": "Radeln Sie vom historischen Bahnhof zur eleganten Kirche Saint-Aubin, während Ihr Morgen beginnt. Der Mittag lädt zu einer luftigen Fahrt über die zwei großen Brücken der Stadt ein, mit spektakulären Ausblicken. Am Nachmittag radeln Sie zum beeindruckenden Viaduc d'Orival, bevor Sie im Brûlins Park entspannen. Beenden Sie Ihren aktiven Tag und beobachten Sie, wie das Sonnenlicht über den Rasenflächen schwindet.",
         "hu": "Tekerjen el a történelmi vasútállomástól az elegáns Saint-Aubin templom felé a reggel kezdetén. A délidő szellős túrát kínál a város két fő hídján, látványos kilátást nyújtva a folyami forgalomra. Délután a lenyűgöző Viaduc d'Orival felé kerékpározik, majd átkel a városon, hogy a Brûlins Parkban pihenjen. Fejezze be aktív napját, figyelve a hatalmas zöld pázsiton eltűnő naplementét.",
         "ro": "Pedalați de la gara istorică spre eleganta Biserică Saint-Aubin în timp ce dimineața începe. Prânzul vă invită la o plimbare revigorantă peste cele două poduri majore, oferind perspective spectaculoase. După-amiaza, veți cicla spre impresionantul Viaduc d'Orival înainte de a vă relaxa în Parcul Brûlins. Terminați ziua activă admirând apusul de soare peste peluzele verzi.",
-        "en": "Pedal away from the historic train station towards the elegant Saint-Aubin Church as your morning begins. Midday invites a breezy ride across the town's two major bridges, granting spectacular viewpoints of the river traffic. In the afternoon, you'll cycle towards the impressive Viaduc d'Orival before heading across town to relax at Brûlins Park. Finish your day watching the sunset light fade."
+        "en": "Pedal away from the historic train station towards the elegant Saint-Aubin Church as your morning begins. Midday invites a breezy ride across the town's two major bridges, granting spectacular viewpoints of the river traffic. In the afternoon, you'll cycle towards the impressive Viaduc d'Orival before heading across town to relax at Brûlins Park. Finish your day watching the sunset light fade.",
+        "fr": "Partez du site de la gare historique à vélo en direction de la élégante église Saint-Aubin pour commencer votre matinée. À midi, une traversée rafraîchissante des deux grands ponts de la ville vous offrira des vues spectaculaires sur le trafic fluvial. L’après‑midi, vous pédalerez vers l’imposant Viaduc d’Orival avant de traverser la ville pour vous détendre au parc des Brûlins. Terminez la journée en regardant la lumière du coucher de soleil s’estomper."
       },
       "variants": {
         "rainy": {
@@ -483,7 +531,8 @@
             "de": "Radfahren im Regen erfordert wasserfeste Kleidung und Vorsicht. Die Wege über die Brücken und nach Orival sind bei Nässe rutschig. Nutzen Sie die Kirchen als trockene Unterstände bei starken Schauern. Der Brûlins Park wird schlammig sein, bleiben Sie also auf befestigten Wegen.",
             "hu": "Az esőben való kerékpározás vízálló felszerelést és óvatosságot igényel. A hidakon és Orival felé az utak nedvesen csúszósak lehetnek. Használja a történelmi templomokat menedékként záporok idején. A Brûlins Park sáros lesz, ezért maradjon a burkolt utakon és haladjon lassan.",
             "ro": "Ciclismul pe ploaie necesită echipament impermeabil și prudență. Drumurile peste poduri și spre Orival sunt alunecoase când sunt ude. Folosiți bisericile ca adăpost uscat în timpul averselor. Parcul Brûlins va fi noroios, așa că rămâneți pe secțiunile pavate și mergeți încet.",
-            "en": "Cycling in the rain here requires waterproof gear and extra caution. The roads over the bridges and paths towards Orival can be quite slippery when wet. Use the historic churches as dry shelters during heavy downpours. Brûlins Park will be muddy, so stick strictly to the paved sections and ride slowly."
+            "en": "Cycling in the rain here requires waterproof gear and extra caution. The roads over the bridges and paths towards Orival can be quite slippery when wet. Use the historic churches as dry shelters during heavy downpours. Brûlins Park will be muddy, so stick strictly to the paved sections and ride slowly.",
+            "fr": "Le cyclisme sous la pluie ici exige un équipement imperméable et une prudence accrue. Les routes sur les ponts et les chemins vers Orival peuvent être très glissantes par temps humide. Utilisez les églises historiques comme abris secs lors d’averses fortes. Le parc des Brûlins sera boueux, restez donc sur les sections goudronnées et roulez lentement."
           },
           "stops": [
             {
@@ -491,13 +540,15 @@
                 "de": "Bahnhof Saint-Aubin",
                 "hu": "Saint-Aubin vasútállomás",
                 "ro": "Gara Saint-Aubin",
-                "en": "Saint-Aubin Train Station"
+                "en": "Saint-Aubin Train Station",
+                "fr": "Saint-Aubin Train Station"
               },
               "tip_5lang": {
                 "de": "Befestigen Sie den Regenschutz an Ihren Fahrradtaschen, bevor Sie den Bahnhof verlassen.",
                 "hu": "Rögzítse az esővédőt a kerékpáros táskákon, mielőtt elhagyja az állomás területét.",
                 "ro": "Securizați husele de ploaie pe gențile bicicletei înainte de a părăsi zona gării.",
-                "en": "Start by securing your rain covers on your bike bags before leaving the station area."
+                "en": "Start by securing your rain covers on your bike bags before leaving the station area.",
+                "fr": "Commencez par sécuriser les housses imperméables de vos sacoches avant de quitter la gare."
               }
             },
             {
@@ -505,13 +556,15 @@
                 "de": "Kirche Saint-Aubin",
                 "hu": "Saint-Aubin templom",
                 "ro": "Biserica Saint-Aubin",
-                "en": "Saint-Aubin Church"
+                "en": "Saint-Aubin Church",
+                "fr": "Saint-Aubin Church"
               },
               "tip_5lang": {
                 "de": "Ein toller Ort, um die Brille zu trocknen und die Architektur abseits des Nieselregens zu bewundern.",
                 "hu": "Remek hely a szemüveg szárazra törlésére és az építészet megcsodálására a szitáló eső elől.",
                 "ro": "Un loc excelent pentru a vă usca ochelarii și a admira arhitectura departe de burnița de afară.",
-                "en": "A great spot to dry off your glasses and admire the architecture away from the drizzle outside."
+                "en": "A great spot to dry off your glasses and admire the architecture away from the drizzle outside.",
+                "fr": "Un excellent endroit pour essuyer vos lunettes et admirer l’architecture à l’abri de la bruine extérieure."
               }
             },
             {
@@ -519,13 +572,15 @@
                 "de": "Pont Jean Jaurès",
                 "hu": "Pont Jean Jaurès",
                 "ro": "Pont Jean Jaurès",
-                "en": "Pont Jean Jaurès"
+                "en": "Pont Jean Jaurès",
+                "fr": "Pont Jean Jaurès"
               },
               "tip_5lang": {
                 "de": "Bremsen Sie sanft auf der nassen Brücke und genießen Sie den dramatischen Blick auf den Fluss.",
                 "hu": "Fékezzen finoman a nedves hídon való átkeléskor, élvezve a drámai, eső áztatta folyami kilátást.",
                 "ro": "Frânați ușor pe podul ud, bucurându-vă de priveliștile dramatice ale râului bătut de ploaie.",
-                "en": "Brake smoothly while crossing the wet bridge, enjoying the dramatic, rain-swept river views."
+                "en": "Brake smoothly while crossing the wet bridge, enjoying the dramatic, rain-swept river views.",
+                "fr": "Freinez en douceur en traversant le pont mouillé, en profitant des vues dramatiques du fleuve balayé par la pluie."
               }
             },
             {
@@ -533,13 +588,15 @@
                 "de": "Pont Guynemer",
                 "hu": "Pont Guynemer",
                 "ro": "Pont Guynemer",
-                "en": "Pont Guynemer"
+                "en": "Pont Guynemer",
+                "fr": "Pont Guynemer"
               },
               "tip_5lang": {
                 "de": "Achten Sie beim Überqueren der Seine auf rutschige Metallverbindungen auf dem nassen Brückendeck.",
                 "hu": "Ügyeljen a csúszós fémillesztésekre a nedves hídpályán, miközben átteker a Szajnán.",
                 "ro": "Atenție la îmbinările metalice alunecoase de pe pod în timp ce pedalați peste Sena.",
-                "en": "Watch out for slippery metal joints on the wet bridge deck as you pedal across the Seine."
+                "en": "Watch out for slippery metal joints on the wet bridge deck as you pedal across the Seine.",
+                "fr": "Attention aux joints métalliques glissants sur le tablier humide du pont en traversant la Seine à vélo."
               }
             },
             {
@@ -547,13 +604,15 @@
                 "de": "Kirche Saint-Georges",
                 "hu": "Saint-Georges templom",
                 "ro": "Biserica Saint-Georges",
-                "en": "Église Saint-Georges"
+                "en": "Église Saint-Georges",
+                "fr": "Église Saint-Georges"
               },
               "tip_5lang": {
                 "de": "Machen Sie drinnen eine längere Pause, um sich aufzuwärmen, bevor es weiter nach Orival geht.",
                 "hu": "Tartson hosszabb pihenőt bent, hogy felmelegedjen, mielőtt Orival felé venné az irányt.",
                 "ro": "Faceți o pauză mai lungă în interior pentru a scăpa de ploaie înainte de a merge spre Orival.",
-                "en": "Take a longer break inside to warm up and escape the rain before heading towards Orival."
+                "en": "Take a longer break inside to warm up and escape the rain before heading towards Orival.",
+                "fr": "Faites une pause prolongée à l’intérieur pour vous réchauffer et échapper à la pluie avant de partir vers Orival."
               }
             },
             {
@@ -561,13 +620,15 @@
                 "de": "Viadukt von Orival",
                 "hu": "Orival viadukt",
                 "ro": "Viaductul din Orival",
-                "en": "Viaduc d'Orival"
+                "en": "Viaduc d'Orival",
+                "fr": "Viaduc d'Orival"
               },
               "tip_5lang": {
                 "de": "Das Steinviadukt wirkt im Regen imposant, aber Vorsicht auf den rutschigen Zugangswegen.",
                 "hu": "A kőviadukt impozánsan fest az esőben, de óvatosan haladjon a csúszós megközelítési utakon.",
                 "ro": "Viaductul din piatră pare impunător în ploaie, dar atenție la căile de acces alunecoase.",
-                "en": "The stone viaduct looks imposing in the rain, but be careful on the slippery access paths."
+                "en": "The stone viaduct looks imposing in the rain, but be careful on the slippery access paths.",
+                "fr": "Le viaduc en pierre a fière allure sous la pluie, mais faites attention aux chemins d’accès glissants."
               }
             },
             {
@@ -575,13 +636,15 @@
                 "de": "Brûlins Park",
                 "hu": "Brûlins Park",
                 "ro": "Parcul Brûlins",
-                "en": "Brûlins Park"
+                "en": "Brûlins Park",
+                "fr": "Brûlins Park"
               },
               "tip_5lang": {
                 "de": "Bleiben Sie auf den Asphaltwegen, um Schlamm zu meiden, und genießen Sie das frische Grün.",
                 "hu": "Maradjon az aszfaltos utakon, hogy elkerülje a sarat, miközben élvezi az eső áztatta növényzetet.",
                 "ro": "Rămâneți pe aleile asfaltate pentru a evita noroiul, bucurându-vă de verdeața proaspăt spălată.",
-                "en": "Stick to the asphalt paths to avoid the worst mud while enjoying the fresh, rain-washed greenery."
+                "en": "Stick to the asphalt paths to avoid the worst mud while enjoying the fresh, rain-washed greenery.",
+                "fr": "Restez sur les allées asphaltées pour éviter la pire boue tout en profitant de la verdure lavée par la pluie."
               }
             }
           ]
@@ -591,7 +654,8 @@
             "de": "Radfahren im Winter erfordert Thermokleidung und winddichte Handschuhe. Die frische Luft an der Seine weckt auf, aber Frost macht die Brücken eisig. Das Tageslicht schwindet gegen 17:00 Uhr schnell, sorgen Sie also für geladene Fahrradlichter.",
             "hu": "A téli kerékpározás itt vastag termo rétegeket és szélálló kesztyűt követel. A Szajna menti friss levegő élénkítő, de a fagy jegessé teszi a hidakat. A nappali fény délután 17:00 körül gyorsan elhalványul, ezért gondoskodjon a kerékpárlámpák töltöttségéről.",
             "ro": "Ciclismul de iarnă necesită straturi termice groase și mănuși rezistente la vânt. Aerul rece de pe Sena te trezește, dar gerul face podurile înghețate. Lumina zilei dispare rapid în jurul orei 17:00, așa că asigurați-vă că luminile bicicletei sunt încărcate.",
-            "en": "Winter cycling here demands thick thermal layers and good, windproof gloves. The brisk air along the Seine wakes you up, but morning frost makes the bridge surfaces icy. Daylight fades quickly by late afternoon around 17:00, so ensure your bike lights are fully charged."
+            "en": "Winter cycling here demands thick thermal layers and good, windproof gloves. The brisk air along the Seine wakes you up, but morning frost makes the bridge surfaces icy. Daylight fades quickly by late afternoon around 17:00, so ensure your bike lights are fully charged.",
+            "fr": "Le cyclisme hivernal ici exige des couches thermiques épaisses et de bons gants coupe‑vent. L’air vif le long de la Seine vous réveille, mais le gel matinal rend les surfaces des ponts verglacées. La lumière baisse rapidement en fin d’après‑midi vers 17:00, veillez donc à ce que vos lumières de vélo soient pleinement chargées."
           },
           "stops": [
             {
@@ -599,13 +663,15 @@
                 "de": "Bahnhof Saint-Aubin",
                 "hu": "Saint-Aubin vasútállomás",
                 "ro": "Gara Saint-Aubin",
-                "en": "Saint-Aubin Train Station"
+                "en": "Saint-Aubin Train Station",
+                "fr": "Gare de Saint-Aubin"
               },
               "tip_5lang": {
                 "de": "Schließen Sie die Jacke und ziehen Sie dicke Handschuhe an, bevor Sie die kühle Fahrt beginnen.",
                 "hu": "Húzza be a kabátját és vegyen fel vastag kesztyűt, mielőtt elkezdi a hűvös reggeli tekerést.",
                 "ro": "Închideți geaca și puneți mănuși groase înainte de a începe plimbarea matinală răcoroasă.",
-                "en": "Zip up your jacket and put on thick gloves before starting your chilly morning ride."
+                "en": "Zip up your jacket and put on thick gloves before starting your chilly morning ride.",
+                "fr": "Fermeturez votre veste et mettez des gants épais avant de commencer votre trajet matinal frisquet."
               }
             },
             {
@@ -613,13 +679,15 @@
                 "de": "Kirche Saint-Aubin",
                 "hu": "Saint-Aubin templom",
                 "ro": "Biserica Saint-Aubin",
-                "en": "Saint-Aubin Church"
+                "en": "Saint-Aubin Church",
+                "fr": "Église Saint-Aubin"
               },
               "tip_5lang": {
                 "de": "Die Steinmauern sind kühl, aber Sie sind komplett vor dem beißenden Winterwind geschützt.",
                 "hu": "A kőfalak kissé hűvösek, de a belső tér teljesen védett a kint fújó csípős téli széltől.",
                 "ro": "Pereții de piatră mențin răcoarea, dar sunteți protejat de vântul tăios de iarnă de afară.",
-                "en": "The stone walls hold a slight chill, but it is entirely shielded from the biting winter wind outside."
+                "en": "The stone walls hold a slight chill, but it is entirely shielded from the biting winter wind outside.",
+                "fr": "Les murs de pierre conservent une légère fraîcheur, mais l’intérieur est entièrement abrité du vent d’hiver mordant."
               }
             },
             {
@@ -627,13 +695,15 @@
                 "de": "Pont Jean Jaurès",
                 "hu": "Pont Jean Jaurès",
                 "ro": "Pont Jean Jaurès",
-                "en": "Pont Jean Jaurès"
+                "en": "Pont Jean Jaurès",
+                "fr": "Pont Jean Jaurès"
               },
               "tip_5lang": {
                 "de": "Achten Sie auf Glatteis auf der Brücke und ziehen Sie den Schal gegen den kalten Wind ins Gesicht.",
                 "hu": "Ügyeljen a fekete jégre a hídpályán, és húzza az arcába a sálját a fagyos szél ellen.",
                 "ro": "Atenție la gheața neagră de pe pod și trageți fularul peste față împotriva brizei reci.",
-                "en": "Watch out for black ice on the bridge deck and pull your scarf over your face against the breeze."
+                "en": "Watch out for black ice on the bridge deck and pull your scarf over your face against the breeze.",
+                "fr": "Méfiance envers le verglas sur le tablier du pont et remontez votre écharpe sur le visage contre la brise."
               }
             },
             {
@@ -641,13 +711,15 @@
                 "de": "Pont Guynemer",
                 "hu": "Pont Guynemer",
                 "ro": "Pont Guynemer",
-                "en": "Pont Guynemer"
+                "en": "Pont Guynemer",
+                "fr": "Pont Guynemer"
               },
               "tip_5lang": {
                 "de": "Der Fluss wirkt im Winter wunderschön karg, halten Sie das Tempo, um sich warm zu halten.",
                 "hu": "A folyó gyönyörűen kopár télen, de tartson egyenletes tempót, hogy megőrizze testhőjét.",
                 "ro": "Râul arată frumos și aspru iarna, dar mențineți un ritm constant pentru a vă păstra căldura.",
-                "en": "The river looks beautifully stark in winter, but maintain a steady pace to keep your body heat up."
+                "en": "The river looks beautifully stark in winter, but maintain a steady pace to keep your body heat up.",
+                "fr": "La rivière paraît magnifiquement austère en hiver, mais maintenez un rythme régulier pour conserver votre chaleur corporelle."
               }
             },
             {
@@ -655,13 +727,15 @@
                 "de": "Kirche Saint-Georges",
                 "hu": "Saint-Georges templom",
                 "ro": "Biserica Saint-Georges",
-                "en": "Église Saint-Georges"
+                "en": "Église Saint-Georges",
+                "fr": "Église Saint-Georges"
               },
               "tip_5lang": {
                 "de": "Gehen Sie hinein, um Ihre gefrorenen Finger zu strecken und die ruhige Winteratmosphäre zu genießen.",
                 "hu": "Lépjen be, hogy kinyújtsa dermedt ujjait, és megcsodálja a csendes, árnyékos téli hangulatot.",
                 "ro": "Intrați pentru a vă dezmorți degetele și pentru a admira ambianța liniștită și umbrită de iarnă.",
-                "en": "Step inside to stretch your frozen fingers and admire the quiet, shadowy winter ambiance."
+                "en": "Step inside to stretch your frozen fingers and admire the quiet, shadowy winter ambiance.",
+                "fr": "Entrez pour étirer vos doigts gelés et admirer la tranquille ambiance hivernale et ombragée."
               }
             },
             {
@@ -669,13 +743,15 @@
                 "de": "Viadukt von Orival",
                 "hu": "Orival viadukt",
                 "ro": "Viaductul din Orival",
-                "en": "Viaduc d'Orival"
+                "en": "Viaduc d'Orival",
+                "fr": "Viaduc d'Orival"
               },
               "tip_5lang": {
                 "de": "Die Struktur hebt sich vom blassen Winterhimmel ab; Vorsicht bei den frostigen Abfahrten.",
                 "hu": "A fenséges építmény elüt a sápadt téli égtől; óvatosan ereszkedjen le a deres lejtőkön.",
                 "ro": "Structura maiestuoasă iese în evidență pe cerul palid de iarnă; coborâți cu atenție pantele înghețate.",
-                "en": "The majestic structure stands out against the pale winter sky; careful descending the frosty slopes."
+                "en": "The majestic structure stands out against the pale winter sky; careful descending the frosty slopes.",
+                "fr": "La majestueuse structure se détache sur le ciel pâle d’hiver ; prudence en descendant les pentes givrées."
               }
             },
             {
@@ -683,13 +759,15 @@
                 "de": "Brûlins Park",
                 "hu": "Brûlins Park",
                 "ro": "Parcul Brûlins",
-                "en": "Brûlins Park"
+                "en": "Brûlins Park",
+                "fr": "Parc des Brûlins"
               },
               "tip_5lang": {
                 "de": "Die kahlen Bäume bieten freie Sicht; beenden Sie Ihre Fahrt vor dem Sonnenuntergang um 17 Uhr.",
                 "hu": "A csupasz fák tiszta kilátást nyújtanak; fejezze be a tekerést a 17:00 órai naplemente előtt.",
                 "ro": "Copacii goi oferă o vedere clară; încheiați plimbarea înainte de apusul soarelui de la ora 17:00.",
-                "en": "The bare trees offer a clear view of the park; finish your ride before the 17:00 sunset."
+                "en": "The bare trees offer a clear view of the park; finish your ride before the 17:00 sunset.",
+                "fr": "Les arbres dépouillés offrent une vue dégagée sur le parc ; terminez votre balade avant le coucher du soleil à 17:00."
               }
             }
           ]
@@ -709,7 +787,8 @@
             "de": "Kirche Saint-Aubin",
             "hu": "Saint-Aubin templom",
             "ro": "Biserica Saint-Aubin",
-            "en": "Saint-Aubin Church"
+            "en": "Saint-Aubin Church",
+            "fr": "Église Saint-Aubin"
           },
           "coords": [
             1.011908,
@@ -724,7 +803,8 @@
             "de": "Entdecken Sie diese elegante örtliche Kirche mit ihren wunderschön erhaltenen Buntglasfenstern und treten Sie morgens für das beste Licht ein.",
             "hu": "Fedezze fel ezt az elegáns helyi templomot, amely gyönyörűen megőrzött ólomüvegéről ismert, és látogasson el ide a délelőtti órákban a legjobb fényviszonyokért.",
             "ro": "Descoperiți această biserică locală elegantă, renumită pentru vitraliile sale frumos conservate, și intrați dimineața pentru a beneficia de cea mai bună lumină.",
-            "en": "Discover this elegant local church known for its beautifully preserved stained glass, and step inside during morning hours for the best interior lighting."
+            "en": "Discover this elegant local church known for its beautifully preserved stained glass, and step inside during morning hours for the best interior lighting.",
+            "fr": "Découvrez cette élégante église locale connue pour ses vitraux magnifiquement préservés ; entrez le matin pour la meilleure lumière intérieure."
           }
         },
         {
@@ -732,7 +812,8 @@
             "de": "Pont Guynemer",
             "hu": "Pont Guynemer",
             "ro": "Pont Guynemer",
-            "en": "Pont Guynemer"
+            "en": "Pont Guynemer",
+            "fr": "Pont Guynemer"
           },
           "coords": [
             1.0047,
@@ -747,7 +828,8 @@
             "de": "Halten Sie an dieser wichtigen Hängebrücke über die ruhigen Gewässer, die hervorragende Fotowinkel der vorbeifahrenden Kähne bietet, wenn Sie in der Mitte stehen.",
             "hu": "Álljon meg ennél a nyugodt vizeken átívelő fontos függőhídnál, amely kiváló fotózási szögeket kínál az elhaladó uszályokhoz, ha középen áll.",
             "ro": "Opriți-vă la acest pod suspendat vital peste apele liniștite, care oferă unghiuri excelente de fotografie ale șlepurilor trecătoare dacă stați la mijloc.",
-            "en": "Pause at this vital suspension bridge crossing over the tranquil waters, which offers excellent photography angles of the passing barges if you stand mid-span."
+            "en": "Pause at this vital suspension bridge crossing over the tranquil waters, which offers excellent photography angles of the passing barges if you stand mid-span.",
+            "fr": "Faites une pause sur ce pont suspendu important qui enjambe les eaux tranquilles ; il offre d’excellents angles photographiques des péniches si vous vous tenez au milieu du tablier."
           }
         },
         {
@@ -755,7 +837,8 @@
             "de": "Kirche Saint-Georges",
             "hu": "Saint-Georges templom",
             "ro": "Biserica Saint-Georges",
-            "en": "Église Saint-Georges"
+            "en": "Église Saint-Georges",
+            "fr": "Église Saint-Georges"
           },
           "coords": [
             0.992533,
@@ -770,7 +853,8 @@
             "de": "Erkunden Sie diese historische Pfarrkirche im benachbarten Orival und beachten Sie die romanischen Merkmale, bevor Sie über den ruhigen Friedhof spazieren.",
             "hu": "Fedezze fel ezt a szomszédos Orivalban büszkén álló történelmi plébániatemplomot, figyelve meg annak román kori jegyeit, mielőtt körbesétálná a csendes temetőt.",
             "ro": "Explorați această biserică parohială istorică situată în cartierul vecin Orival, remarcând detaliile romanice înainte de a vă plimba prin cimitirul liniștit.",
-            "en": "Explore this historic parish church standing proudly in the neighboring Orival area, noting its Romanesque features before walking around the quiet graveyard."
+            "en": "Explore this historic parish church standing proudly in the neighboring Orival area, noting its Romanesque features before walking around the quiet graveyard.",
+            "fr": "Explorez cette église paroissiale historique qui se dresse fièrement dans la commune voisine d’Orival ; notez ses éléments romans avant de faire le tour du cimetière paisible."
           }
         },
         {
@@ -778,7 +862,8 @@
             "de": "Viadukt von Orival",
             "hu": "Orival viadukt",
             "ro": "Viaductul din Orival",
-            "en": "Viaduc d'Orival"
+            "en": "Viaduc d'Orival",
+            "fr": "Viaduc d'Orival"
           },
           "coords": [
             0.999078,
@@ -793,7 +878,8 @@
             "de": "Blicken Sie zu diesem beeindruckenden Eisenbahnviadukt hinauf, das über das Tal ragt; ein wahres Wunder der Industrietechnik, das man am besten vom Flussufer betrachtet.",
             "hu": "Tekintsen fel erre a völgy fölé magasodó lenyűgöző vasúti viaduktra, amely az ipari mérnöki munka csodája, és legjobban a folyópartról látható.",
             "ro": "Priviți în sus la acest impresionant viaduct feroviar care se înalță deasupra văii, o minune a ingineriei industriale cel mai bine văzută de pe malul râului.",
-            "en": "Gaze up at this impressive railway viaduct towering above the valley, a true marvel of industrial engineering best viewed from the riverbanks below."
+            "en": "Gaze up at this impressive railway viaduct towering above the valley, a true marvel of industrial engineering best viewed from the riverbanks below.",
+            "fr": "Levez les yeux vers cet impressionnant viaduc ferroviaire dominant la vallée, une véritable merveille d’ingénierie industrielle qu’on admire mieux depuis les berges en contrebas."
           }
         },
         {
@@ -801,7 +887,8 @@
             "de": "Fanum",
             "hu": "Fanum",
             "ro": "Fanum",
-            "en": "Fanum"
+            "en": "Fanum",
+            "fr": "Fanum"
           },
           "coords": [
             0.999143,
@@ -816,7 +903,8 @@
             "de": "Entdecken Sie die faszinierenden Ruinen dieses im Wald versteckten gallo-romanischen Tempels; tragen Sie feste Schuhe, da die Wege uneben sein können.",
             "hu": "Fedezze fel az erdőben megbúvó ókori gall-római templom lenyűgöző romjait, és viseljen masszív sétálócipőt, mivel az ösvények egyenetlenek lehetnek.",
             "ro": "Descoperiți ruinele fascinante ale acestui templu galo-roman ascuns în pădure; purtați încălțăminte robustă, deoarece potecile pot fi denivelate.",
-            "en": "Uncover the fascinating ruins of this ancient Gallo-Roman temple hidden in the forest, wearing sturdy walking shoes as the surrounding trails can be uneven."
+            "en": "Uncover the fascinating ruins of this ancient Gallo-Roman temple hidden in the forest, wearing sturdy walking shoes as the surrounding trails can be uneven.",
+            "fr": "Parcourez les ruines fascinantes de ce temple gallo-romain ancien caché dans la forêt ; portez des chaussures de marche robustes car les sentiers alentour peuvent être irréguliers."
           }
         },
         {
@@ -824,7 +912,8 @@
             "de": "Brûlins Park",
             "hu": "Brûlins Park",
             "ro": "Parcul Brûlins",
-            "en": "Brûlins Park"
+            "en": "Brûlins Park",
+            "fr": "Parc des Brûlins"
           },
           "coords": [
             1.025581,
@@ -839,7 +928,8 @@
             "de": "Entspannen Sie sich in diesem weitläufigen grünen Erholungsgebiet, das sich perfekt für einen ruhigen Nachmittag eignet, und bringen Sie lokale Snacks für ein Picknick mit.",
             "hu": "Pihenjen ebben a hatalmas zöld rekreációs területen, amely tökéletes egy békés délutánhoz, és hozzon magával helyi falatokat az árnyékos piknikasztalokhoz.",
             "ro": "Relaxați-vă în această zonă vastă de recreere, perfectă pentru o după-amiază liniștită, și aduceți gustări locale pentru a le savura la mesele de picnic.",
-            "en": "Relax in this expansive green recreational area perfect for a peaceful afternoon, and bring some local snacks to enjoy at one of the shaded picnic tables."
+            "en": "Relax in this expansive green recreational area perfect for a peaceful afternoon, and bring some local snacks to enjoy at one of the shaded picnic tables.",
+            "fr": "Détendez-vous dans cette vaste aire récréative verte idéale pour un après-midi paisible ; apportez des en-cas locaux à déguster à l’une des tables de pique-nique ombragées."
           }
         }
       ],
@@ -847,7 +937,8 @@
         "de": "Fahren Sie in das Stadtzentrum und beginnen Sie den Tag damit, die Kirche Saint-Aubin zu bewundern. Gegen Mittag überqueren Sie den Pont Guynemer, bevor Sie an der historischen Église Saint-Georges halten und das Viaduc d'Orival besichtigen. Verbringen Sie einen faszinierenden Nachmittag mit einer Wanderung zu den antiken Fanum-Ruinen und entspannen Sie sich dann im Brûlins Park. Ein ruhiger Abendspaziergang beendet Ihre Tour.",
         "hu": "Vezessen be a városközpontba, és kezdje a napot a Saint-Aubin templom bonyolult részleteinek megcsodálásával. Délben keljen át a Pont Guynemer-en, mielőtt megáll a történelmi Église Saint-Georges-nál és megnézi a Viaduc d'Orival-t. Töltsön egy lenyűgöző délutánt a túrázással az ókori Fanum romokhoz, mielőtt kikapcsolódna a Brûlins Parkban. Egy csendes esti séta tökéletes befejezést kínál túrájához.",
         "ro": "Conduceți liniștit spre centrul orașului, admirând detaliile Bisericii Saint-Aubin. Pe la prânz, traversați Pont Guynemer înainte de a vă opri la istorica Église Saint-Georges și de a vedea monumentalul Viaduc d'Orival. Petreceți o după-amiază fascinantă făcând o drumeție către vechile ruine Fanum, înainte de a vă relaxa în Parcul Brûlins. O plimbare liniștită de seară oferă finalul perfect.",
-        "en": "Drive smoothly into the city center, starting your day admiring the intricate details of the Saint-Aubin Church. Around midday, cross over the Pont Guynemer before pausing at the historic Église Saint-Georges and viewing the monumental Viaduc d'Orival. Spend a fascinating afternoon hiking slightly off-road to the ancient Fanum ruins, before unwinding at Brûlins Park. A quiet evening stroll in the park offers the perfect relaxing end."
+        "en": "Drive smoothly into the city center, starting your day admiring the intricate details of the Saint-Aubin Church. Around midday, cross over the Pont Guynemer before pausing at the historic Église Saint-Georges and viewing the monumental Viaduc d'Orival. Spend a fascinating afternoon hiking slightly off-road to the ancient Fanum ruins, before unwinding at Brûlins Park. A quiet evening stroll in the park offers the perfect relaxing end.",
+        "fr": "Entrez doucement en ville en voiture, commencez la journée en admirant les détails ciselés de l’église Saint-Aubin. Vers midi, traversez le Pont Guynemer avant de vous arrêter à l’historique Église Saint-Georges et d’admirer le monumental Viaduc d’Orival. Passez un après-midi passionnant à randonner légèrement hors-piste jusqu’aux ruines antiques du Fanum, puis détendez-vous au Parc des Brûlins. Une promenade tranquille en soirée dans le parc offre une fin relaxante parfaite."
       },
       "variants": {
         "rainy": {
@@ -855,7 +946,8 @@
             "de": "Die Erkundung mit dem Auto ist an einem Regentag sehr komfortabel. Sie bleiben trocken und haben den Schirm im Kofferraum griffbereit. Die Landstraßen nahe dem Fanum können schlammig werden. Parken Sie möglichst nah an den Eingängen, um den Schauern zu entgehen.",
             "hu": "Autóval felfedezni a környéket nagyon kényelmes egy esős napon. Teljesen száraz maradhat, és az esernyő mindig kéznél van a csomagtartóban. A Fanum körüli vidéki utak sárossá válhatnak. Próbáljon minél közelebb parkolni a bejáratokhoz a záporok elkerülése végett.",
             "ro": "Explorarea cu mașina este foarte confortabilă într-o zi ploioasă. Rămâneți uscat între locații, cu umbrela la îndemână în portbagaj. Drumurile rurale din apropierea Fanumului pot deveni noroioase. Parcați cât mai aproape de intrări pentru a evita ploile torențiale.",
-            "en": "Exploring by car is very comfortable on a rainy day in this region. You stay perfectly dry between locations with your umbrella handy in the trunk. The rural roads near the Fanum can become muddy, so drive carefully. Try to park as close to the entrances as possible to minimize your time in the downpour."
+            "en": "Exploring by car is very comfortable on a rainy day in this region. You stay perfectly dry between locations with your umbrella handy in the trunk. The rural roads near the Fanum can become muddy, so drive carefully. Try to park as close to the entrances as possible to minimize your time in the downpour.",
+            "fr": "Explorer en voiture est très confortable par temps de pluie dans cette région. Vous restez parfaitement au sec entre les sites avec votre parapluie à portée de coffre. Les routes rurales près du Fanum peuvent devenir boueuses, alors conduisez prudemment. Essayez de vous garer le plus près possible des entrées pour minimiser votre temps sous la pluie."
           },
           "stops": [
             {
@@ -863,13 +955,15 @@
                 "de": "Kirche Saint-Aubin",
                 "hu": "Saint-Aubin templom",
                 "ro": "Biserica Saint-Aubin",
-                "en": "Saint-Aubin Church"
+                "en": "Saint-Aubin Church",
+                "fr": "Église Saint-Aubin"
               },
               "tip_5lang": {
                 "de": "Huschen Sie vom Auto in das trockene Kirchenschiff, wo der Regen auf dem Dach beruhigend klingt.",
                 "hu": "Szaladjon az autóból a száraz hajóba, ahol a tetőn doboló eső hangja hihetetlenül megnyugtató.",
                 "ro": "Alergați din mașină în naosul uscat, unde sunetul ploii pe acoperiș este incredibil de liniștitor.",
-                "en": "Dash from your parked car into the dry nave, where the sound of rain on the roof is incredibly soothing."
+                "en": "Dash from your parked car into the dry nave, where the sound of rain on the roof is incredibly soothing.",
+                "fr": "Bondissez de votre voiture garée jusque dans la nef sèche, où le bruit de la pluie sur le toit est incroyablement apaisant."
               }
             },
             {
@@ -877,13 +971,15 @@
                 "de": "Pont Guynemer",
                 "hu": "Pont Guynemer",
                 "ro": "Pont Guynemer",
-                "en": "Pont Guynemer"
+                "en": "Pont Guynemer",
+                "fr": "Pont Guynemer"
               },
               "tip_5lang": {
                 "de": "Öffnen Sie das Fenster nur leicht, um ein stimmungsvolles Foto der nassen Brücke zu machen.",
                 "hu": "Csak annyira húzza le az ablakot, hogy készítsen egy eső áztatta fotót a hídról anélkül, hogy elázna.",
                 "ro": "Deschideți geamul doar pentru a face o fotografie melancolică a podului fără a vă uda.",
-                "en": "Roll down the window just enough to snap a moody, rain-blurred photo of the bridge without getting soaked."
+                "en": "Roll down the window just enough to snap a moody, rain-blurred photo of the bridge without getting soaked.",
+                "fr": "Baissez la vitre juste assez pour prendre une photo d’ambiance, floutée par la pluie, du pont sans vous faire tremper."
               }
             },
             {
@@ -891,13 +987,15 @@
                 "de": "Kirche Saint-Georges",
                 "hu": "Saint-Georges templom",
                 "ro": "Biserica Saint-Georges",
-                "en": "Église Saint-Georges"
+                "en": "Église Saint-Georges",
+                "fr": "Église Saint-Georges"
               },
               "tip_5lang": {
                 "de": "Parken Sie direkt davor und genießen Sie das historische Innere, während Sie den Schauer abwarten.",
                 "hu": "Parkoljon közvetlenül kint, és élvezze a védett történelmi belsőt, amíg a legnagyobb záporok elvonulnak.",
                 "ro": "Parcați chiar afară și bucurați-vă de interiorul istoric adăpostit așteptând să treacă ploaia.",
-                "en": "Park right outside and enjoy the sheltered historic interior while waiting for the heaviest showers to pass."
+                "en": "Park right outside and enjoy the sheltered historic interior while waiting for the heaviest showers to pass.",
+                "fr": "Garez-vous juste devant et profitez de l’intérieur historique abrité en attendant que les fortes averses passent."
               }
             },
             {
@@ -905,13 +1003,15 @@
                 "de": "Viadukt von Orival",
                 "hu": "Orival viadukt",
                 "ro": "Viaductul din Orival",
-                "en": "Viaduc d'Orival"
+                "en": "Viaduc d'Orival",
+                "fr": "Viaduc d'Orival"
               },
               "tip_5lang": {
                 "de": "Die massiven Bögen sehen durch die regennasse Windschutzscheibe des warmen Autos dramatisch aus.",
                 "hu": "A masszív boltívek hihetetlenül drámaian hatnak a meleg autó eső áztatta szélvédőjén keresztül.",
                 "ro": "Arcadele masive arată incredibil de dramatic prin parbrizul plin de ploaie al mașinii calde.",
-                "en": "The massive arches look incredibly dramatic through the rain-streaked windshield of your warm car."
+                "en": "The massive arches look incredibly dramatic through the rain-streaked windshield of your warm car.",
+                "fr": "Les arches massives semblent incroyablement dramatiques à travers le pare-brise strié de pluie de votre voiture chauffée."
               }
             },
             {
@@ -919,13 +1019,15 @@
                 "de": "Fanum",
                 "hu": "Fanum",
                 "ro": "Fanum",
-                "en": "Fanum"
+                "en": "Fanum",
+                "fr": "Fanum"
               },
               "tip_5lang": {
                 "de": "Bringen Sie einen Regenschirm und feste Schuhe mit, da der Weg zu den Ruinen sehr aufgeweicht ist.",
                 "hu": "Vigyen erős esernyőt és vízálló cipőt, mivel a romokhoz vezető út a parkolótól nagyon saras lesz.",
                 "ro": "Luați o umbrelă robustă și încălțăminte impermeabilă, deoarece drumul spre ruine va fi foarte noroios.",
-                "en": "Bring a sturdy umbrella and waterproof shoes, as the path from the parking spot to the ruins will be very soggy."
+                "en": "Bring a sturdy umbrella and waterproof shoes, as the path from the parking spot to the ruins will be very soggy.",
+                "fr": "Apportez un parapluie solide et des chaussures imperméables, car le chemin entre le parking et les ruines sera très boueux."
               }
             },
             {
@@ -933,13 +1035,15 @@
                 "de": "Brûlins Park",
                 "hu": "Brûlins Park",
                 "ro": "Parcul Brûlins",
-                "en": "Brûlins Park"
+                "en": "Brûlins Park",
+                "fr": "Parc des Brûlins"
               },
               "tip_5lang": {
                 "de": "Betrachten Sie die verregneten Grünflächen aus dem beheizten Auto, wenn das Wetter zu ungemütlich ist.",
                 "hu": "Szemlélje az eső áztatta zöldterületeket a fűtött autóból, ha a kinti időjárás túl kellemetlen.",
                 "ro": "Priviți spațiile verzi bătute de ploaie din confortul mașinii încălzite dacă vremea este prea neplăcută.",
-                "en": "View the rain-swept green spaces from the comfort of the heated car if the weather is too unpleasant outside."
+                "en": "View the rain-swept green spaces from the comfort of the heated car if the weather is too unpleasant outside.",
+                "fr": "Contemplez les espaces verts battus par la pluie depuis le confort de la voiture chauffée si le temps est trop désagréable dehors."
               }
             }
           ]
@@ -949,7 +1053,8 @@
             "de": "Eine Autotour ist perfekt für frostige Wintertage, da Sie die Heizung aufdrehen können. Die Straßen nach Orival können eisig sein, fahren Sie also morgens vorsichtig. Besuchen Sie die Freiluftstätten, bevor die Sonne um 17:00 Uhr untergeht und es dunkel wird.",
             "hu": "Az autós túra tökéletes a fagyos téli napokon, két megálló között felcsavarhatja a fűtést. Az Orival felé vezető utakon jeges foltok lehetnek, reggel óvatosan vezessen. Keresse fel a szabadtéri helyszíneket még az 17:00 órai naplemente és a sötétedés előtt.",
             "ro": "Un tur cu mașina este perfect pentru zilele de iarnă, permițându-vă să porniți căldura între opriri. Drumurile spre Orival pot avea porțiuni înghețate dimineața. Asigurați-vă că vizitați siturile în aer liber înainte ca soarele să apună la ora 17:00.",
-            "en": "A driving tour is perfect for freezing winter days, letting you blast the car heater between stops. The rural roads towards Orival might have icy patches, so drive with caution in the morning. Ensure you visit the outdoor sites before the sun drops at 17:00, making it too dark to explore safely."
+            "en": "A driving tour is perfect for freezing winter days, letting you blast the car heater between stops. The rural roads towards Orival might have icy patches, so drive with caution in the morning. Ensure you visit the outdoor sites before the sun drops at 17:00, making it too dark to explore safely.",
+            "fr": "Une visite en voiture est idéale pour les journées d’hiver glaciales, vous permettant d’utiliser le chauffage entre les arrêts. Les routes rurales vers Orival peuvent comporter des plaques de verglas, alors conduisez avec précaution le matin. Veillez à visiter les sites extérieurs avant que le soleil ne tombe à 17:00, rendant l’exploration dangereuse dans l’obscurité."
           },
           "stops": [
             {
@@ -957,13 +1062,15 @@
                 "de": "Kirche Saint-Aubin",
                 "hu": "Saint-Aubin templom",
                 "ro": "Biserica Saint-Aubin",
-                "en": "Saint-Aubin Church"
+                "en": "Saint-Aubin Church",
+                "fr": "Église Saint-Aubin"
               },
               "tip_5lang": {
                 "de": "Lassen Sie Ihren dicken Wintermantel kurz im Auto, während Sie die sanft beleuchtete Kirche betreten.",
                 "hu": "Hagyja a vastag télikabátot az autóban egy kis időre, amíg belép a békés, lágyan megvilágított templomba.",
                 "ro": "Lăsați haina groasă de iarnă în mașină în timp ce pășiți în biserica senină și slab luminată.",
-                "en": "Leave your thick winter coat in the car briefly as you step into the serene, softly lit church building."
+                "en": "Leave your thick winter coat in the car briefly as you step into the serene, softly lit church building.",
+                "fr": "Laissez momentanément votre manteau d’hiver épais dans la voiture en entrant dans le bâtiment d’église serein et doucement éclairé."
               }
             },
             {
@@ -971,13 +1078,15 @@
                 "de": "Pont Guynemer",
                 "hu": "Pont Guynemer",
                 "ro": "Pont Guynemer",
-                "en": "Pont Guynemer"
+                "en": "Pont Guynemer",
+                "fr": "Pont Guynemer"
               },
               "tip_5lang": {
                 "de": "Die Ufer sehen zugefroren aus; genießen Sie den frostigen Blick durch die klaren Autofenster.",
                 "hu": "A folyópartok fagyosnak és zordnak tűnnek; élvezze a deres kilátást a tiszta autóablakon keresztül.",
                 "ro": "Malurile râului par înghețate; bucurați-vă de priveliștile geroase prin geamurile clare ale mașinii.",
-                "en": "The riverbanks look frozen and stark; enjoy the snowy or frosty views through the clear car windows."
+                "en": "The riverbanks look frozen and stark; enjoy the snowy or frosty views through the clear car windows.",
+                "fr": "Les berges du fleuve semblent gelées et austères ; profitez des vues enneigées ou givrés à travers les vitres claires de la voiture."
               }
             },
             {
@@ -985,13 +1094,15 @@
                 "de": "Kirche Saint-Georges",
                 "hu": "Saint-Georges templom",
                 "ro": "Biserica Saint-Georges",
-                "en": "Église Saint-Georges"
+                "en": "Église Saint-Georges",
+                "fr": "Église Saint-Georges"
               },
               "tip_5lang": {
                 "de": "Ein toller Ort, um sich die Beine zu vertreten; die dicken Steinmauern schützen vor der Winterkälte.",
                 "hu": "Remek hely a lábak kinyújtóztatására; vastag kőfalai védelmet nyújtanak a csípős téli hideg ellen.",
                 "ro": "Un loc minunat pentru a vă întinde picioarele; pereții săi groși oferă un tampon împotriva frigului de iarnă.",
-                "en": "A great place to stretch your legs; its thick stone walls offer a buffer against the sharp winter chill."
+                "en": "A great place to stretch your legs; its thick stone walls offer a buffer against the sharp winter chill.",
+                "fr": "Un excellent endroit pour vous dégourdir les jambes ; ses épaisses parois de pierre offrent une protection contre la vive morsure du froid hivernal."
               }
             },
             {
@@ -999,13 +1110,15 @@
                 "de": "Viadukt von Orival",
                 "hu": "Orival viadukt",
                 "ro": "Viaductul din Orival",
-                "en": "Viaduc d'Orival"
+                "en": "Viaduc d'Orival",
+                "fr": "Viaduc d'Orival"
               },
               "tip_5lang": {
                 "de": "Die kahlen Bäume umrahmen dieses massive Viadukt wunderschön unter dem klaren, blassen Winterhimmel.",
                 "hu": "A környező csupasz fák gyönyörűen keretezik ezt a masszív viaduktot a sápadt téli égbolt alatt.",
                 "ro": "Copacii goi din jur încadrează frumos acest viaduct masiv sub cerul palid și clar de iarnă.",
-                "en": "The surrounding bare trees frame this massive viaduct beautifully under the crisp, pale winter sky."
+                "en": "The surrounding bare trees frame this massive viaduct beautifully under the crisp, pale winter sky.",
+                "fr": "Les arbres dépouillés environnants encadrent magnifiquement ce massif viaduc sous le ciel hivernal net et pâle."
               }
             },
             {
@@ -1013,13 +1126,15 @@
                 "de": "Fanum",
                 "hu": "Fanum",
                 "ro": "Fanum",
-                "en": "Fanum"
+                "en": "Fanum",
+                "fr": "Fanum"
               },
               "tip_5lang": {
                 "de": "Packen Sie sich für diesen Halt sehr warm ein; die freiliegenden Ruinen sind im Winter extrem windig.",
                 "hu": "Öltözzön fel rendkívül melegen ehhez a megállóhoz; a nyitott hegyoldali romokat jéghideg szelek érik.",
                 "ro": "Îmbrăcați-vă foarte gros pentru această oprire; ruinele expuse de pe deal sunt bătute de vânturi reci.",
-                "en": "Wrap up extremely warmly for this stop; the exposed hillside ruins get incredibly cold winds in winter."
+                "en": "Wrap up extremely warmly for this stop; the exposed hillside ruins get incredibly cold winds in winter.",
+                "fr": "Couvrez-vous extrêmement chaudement pour cet arrêt ; les ruines exposées sur la colline reçoivent des vents glaciaux en hiver."
               }
             },
             {
@@ -1027,13 +1142,15 @@
                 "de": "Brûlins Park",
                 "hu": "Brûlins Park",
                 "ro": "Parcul Brûlins",
-                "en": "Brûlins Park"
+                "en": "Brûlins Park",
+                "fr": "Parc des Brûlins"
               },
               "tip_5lang": {
                 "de": "Gehen Sie die frostigen Wege zügig ab, bevor die Dämmerung um 17:00 Uhr den Park in Schatten hüllt.",
                 "hu": "Sétáljon végig a deres utakon, mielőtt a 17:00 órai szürkület koromsötét árnyékba borítja a parkot.",
                 "ro": "Plimbați-vă pe aleile înghețate înainte ca amurgul de la ora 17:00 să transforme parcul în umbre întunecate.",
-                "en": "Walk the frosty paths quickly before the 17:00 twilight turns the park into pitch-black shadows."
+                "en": "Walk the frosty paths quickly before the 17:00 twilight turns the park into pitch-black shadows.",
+                "fr": "Parcourez rapidement les sentiers givrés avant que le crépuscule à 17:00 ne transforme le parc en ombres très sombres."
               }
             }
           ]

@@ -21,7 +21,8 @@
             "de": "Bahnhof Metz-Ville",
             "hu": "Gare de Metz-Ville",
             "ro": "Gara din Metz-Ville",
-            "en": "Gare de Metz-Ville"
+            "en": "Gare de Metz-Ville",
+            "fr": "Gare de Metz-Ville"
           },
           "coords": [
             6.177,
@@ -36,7 +37,8 @@
             "de": "Bewundern Sie die kaiserliche Architektur.",
             "hu": "Csodáld meg a császári építészetet.",
             "ro": "Admirați arhitectura imperială.",
-            "en": "Admire the imperial architecture."
+            "en": "Admire the imperial architecture.",
+            "fr": "Admirez l’architecture impériale."
           }
         },
         {
@@ -44,7 +46,8 @@
             "de": "Centre Pompidou-Metz",
             "hu": "Centre Pompidou-Metz",
             "ro": "Centre Pompidou-Metz",
-            "en": "Centre Pompidou-Metz"
+            "en": "Centre Pompidou-Metz",
+            "fr": "Centre Pompidou-Metz"
           },
           "coords": [
             6.181,
@@ -59,7 +62,8 @@
             "de": "Das wellenförmige Dach ist ein Kunstwerk.",
             "hu": "A hullámzó tető önmagában műalkotás.",
             "ro": "Acoperișul ondulat este o operă de artă.",
-            "en": "The wavy roof is a work of art itself."
+            "en": "The wavy roof is a work of art itself.",
+            "fr": "Le toit ondulé est une œuvre d’art à lui seul."
           }
         },
         {
@@ -67,7 +71,8 @@
             "de": "Esplanade von Metz",
             "hu": "Metzi Esplanade",
             "ro": "Esplanada din Metz",
-            "en": "Esplanade de Metz"
+            "en": "Esplanade de Metz",
+            "fr": "Esplanade de Metz"
           },
           "coords": [
             6.171,
@@ -82,7 +87,8 @@
             "de": "Perfekt für eine Pause im Grünen.",
             "hu": "Tökéletes hely egy zöld pihenőhöz.",
             "ro": "Perfect pentru o pauză în natură.",
-            "en": "Perfect for a break in the greenery."
+            "en": "Perfect for a break in the greenery.",
+            "fr": "Parfaite pour une pause au vert."
           }
         },
         {
@@ -90,7 +96,8 @@
             "de": "Temple Neuf",
             "hu": "Temple Neuf",
             "ro": "Temple Neuf",
-            "en": "Temple Neuf"
+            "en": "Temple Neuf",
+            "fr": "Temple Neuf"
           },
           "coords": [
             6.172,
@@ -105,7 +112,8 @@
             "de": "Fotogenste Kirche auf der Insel Saulcy.",
             "hu": "A legfotogénebb templom a Saulcy-szigeten.",
             "ro": "Cea mai fotogenică biserică de pe insulă.",
-            "en": "Most photogenic church on Saulcy Island."
+            "en": "Most photogenic church on Saulcy Island.",
+            "fr": "L’église la plus photogénique de l’île Saulcy."
           }
         },
         {
@@ -113,7 +121,8 @@
             "de": "Place de la Comédie",
             "hu": "Place de la Comédie",
             "ro": "Place de la Comédie",
-            "en": "Place de la Comédie"
+            "en": "Place de la Comédie",
+            "fr": "Place de la Comédie"
           },
           "coords": [
             6.174,
@@ -128,7 +137,8 @@
             "de": "Genießen Sie den Blick auf das Theater.",
             "hu": "Élvezd a kilátást a színházra.",
             "ro": "Bucurați-vă de vederea spre teatru.",
-            "en": "Enjoy the view of the opera house."
+            "en": "Enjoy the view of the opera house.",
+            "fr": "Profitez de la vue sur l’opéra."
           }
         },
         {
@@ -136,7 +146,8 @@
             "de": "Kathedrale Saint-Étienne",
             "hu": "Szent István-székesegyház",
             "ro": "Catedrala Saint-Étienne",
-            "en": "Saint-Étienne Cathedral"
+            "en": "Saint-Étienne Cathedral",
+            "fr": "Cathédrale Saint-Étienne"
           },
           "coords": [
             6.1755,
@@ -151,7 +162,8 @@
             "de": "Bewundern Sie die Chagall-Glasfenster.",
             "hu": "Csodáld meg a Chagall-üvegablakokat.",
             "ro": "Admirați vitraliile lui Chagall.",
-            "en": "Admire the Chagall stained glass windows."
+            "en": "Admire the Chagall stained glass windows.",
+            "fr": "Admirez les vitraux de Chagall."
           }
         },
         {
@@ -159,7 +171,8 @@
             "de": "Musée de La Cour d'Or",
             "hu": "Musée de La Cour d'Or",
             "ro": "Musée de La Cour d'Or",
-            "en": "Musée de La Cour d'Or"
+            "en": "Musée de La Cour d'Or",
+            "fr": "Musée de La Cour d'Or"
           },
           "coords": [
             6.1775,
@@ -174,7 +187,8 @@
             "de": "Römische Thermen unter dem Museum.",
             "hu": "Római fürdők a múzeum alatt.",
             "ro": "Terme romane sub muzeu.",
-            "en": "Roman baths hidden under the museum."
+            "en": "Roman baths hidden under the museum.",
+            "fr": "Thermes romains cachés sous le musée."
           }
         },
         {
@@ -182,7 +196,8 @@
             "de": "Porte des Allemands",
             "hu": "Porte des Allemands",
             "ro": "Poarta Germanilor",
-            "en": "Porte des Allemands"
+            "en": "Porte des Allemands",
+            "fr": "Porte des Allemands"
           },
           "coords": [
             6.185,
@@ -197,7 +212,8 @@
             "de": "Das letzte erhaltene Stadttor.",
             "hu": "Az utolsó épségben maradt városkapu.",
             "ro": "Ultima poartă medievală rămasă.",
-            "en": "The last remaining medieval city gate."
+            "en": "The last remaining medieval city gate.",
+            "fr": "La dernière porte médiévale encore en place."
           }
         }
       ],
@@ -205,7 +221,8 @@
         "de": "Beginnen Sie Ihren Tag am monumentalen Bahnhof, einem Meisterwerk der wilhelminischen Architektur, gefolgt vom futuristischen Centre Pompidou. Mittags schlendern Sie durch die Esplanade zur Mosel. Der Nachmittag gehört der Altstadt mit dem 'Gottes Laterne' genannten Dom und dem malerischen Temple Neuf auf der Insel. Den Abschluss bildet das wehrhafte Porte des Allemands am Fluss Seille.",
         "hu": "Kezdje a napot a monumentális pályaudvarnál, majd látogasson el a modern Centre Pompidou-ba. Dél körül tegyen egy sétát az Esplanade parkban a Moselle partján. A délután a történelmi óvárosé: csodálja meg a katedrális fényeit és a Saulcy-sziget romantikus templomát. A napot a középkori Porte des Allemands városkapunál zárjuk, amely Metz védelmi erejének szimbóluma.",
         "ro": "Începeți ziua la gara monumentală, o capodoperă arhitecturală, apoi vizitați modernul Centre Pompidou. La prânz, plimbați-vă prin Esplanada de pe malul Moselei. După-amiaza este dedicată centrului istoric, cu celebra catedrală și pitorescul Temple Neuf de pe insulă. Încheiați traseul la Porte des Allemands, o fortăreață medievală impresionantă care păzește râul Seille.",
-        "en": "Start your day at the monumental railway station, an imperial masterpiece, followed by the futuristic Centre Pompidou. At midday, stroll through the Esplanade towards the Moselle. The afternoon is dedicated to the old town, featuring the 'God's Lantern' cathedral and the picturesque Temple Neuf on the island. Finalize your walk at the fortified Porte des Allemands, a stunning medieval gateway."
+        "en": "Start your day at the monumental railway station, an imperial masterpiece, followed by the futuristic Centre Pompidou. At midday, stroll through the Esplanade towards the Moselle. The afternoon is dedicated to the old town, featuring the 'God's Lantern' cathedral and the picturesque Temple Neuf on the island. Finalize your walk at the fortified Porte des Allemands, a stunning medieval gateway.",
+        "fr": "Commencez la journée à la monumentale gare, chef-d'œuvre impérial, puis visitez le futuriste Centre Pompidou. À la mi-journée, flânez sur l'Esplanade en direction de la Moselle. L'après-midi est consacré à la vieille ville, avec la cathédrale surnommée « la Lanterne de Dieu » et le pittoresque Temple Neuf sur l'île. Terminez votre promenade à la fortifiée Porte des Allemands, une superbe porte médiévale."
       },
       "gastro_picks": {
         "de": [
@@ -361,6 +378,11 @@
           "The cathedral boasts one of the largest stained glass areas in Europe.",
           "Metz is a very green city, make use of the riverside paths.",
           "The railway station was commissioned by Emperor Wilhelm II."
+        ],
+        "fr": [
+          "La cathédrale possède l'une des plus grandes surfaces de vitraux d'Europe.",
+          "Metz est une ville très verte, profitez des chemins au bord de l'eau.",
+          "La gare a été commandée par l'empereur Guillaume II."
         ]
       }
     },
@@ -374,7 +396,8 @@
       "stops": [
         {
           "name": {
-            "en": "Gare de Metz-Ville"
+            "en": "Gare de Metz-Ville",
+            "fr": "Gare de Metz-Ville"
           },
           "coords": [
             6.177,
@@ -388,7 +411,8 @@
         },
         {
           "name": {
-            "en": "Centre Pompidou-Metz"
+            "en": "Centre Pompidou-Metz",
+            "fr": "Centre Pompidou-Metz"
           },
           "coords": [
             6.181,
@@ -402,7 +426,8 @@
         },
         {
           "name": {
-            "en": "Esplanade de Metz"
+            "en": "Esplanade de Metz",
+            "fr": "Esplanade de Metz"
           },
           "coords": [
             6.171,
@@ -416,7 +441,8 @@
         },
         {
           "name": {
-            "en": "Temple Neuf"
+            "en": "Temple Neuf",
+            "fr": "Temple Neuf"
           },
           "coords": [
             6.172,
@@ -430,7 +456,8 @@
         },
         {
           "name": {
-            "en": "Kathedrale Saint-Étienne"
+            "en": "Kathedrale Saint-Étienne",
+            "fr": "Cathédrale Saint-Étienne"
           },
           "coords": [
             6.1755,
@@ -444,7 +471,8 @@
         },
         {
           "name": {
-            "en": "Musée de La Cour d'Or"
+            "en": "Musée de La Cour d'Or",
+            "fr": "Musée de La Cour d'Or"
           },
           "coords": [
             6.1775,
@@ -458,7 +486,8 @@
         },
         {
           "name": {
-            "en": "Porte des Allemands"
+            "en": "Porte des Allemands",
+            "fr": "Porte des Allemands"
           },
           "coords": [
             6.185,
@@ -472,7 +501,8 @@
         },
         {
           "name": {
-            "en": "Moselle Riverside Path"
+            "en": "Moselle Riverside Path",
+            "fr": "Sentier des berges de la Moselle"
           },
           "coords": [
             6.16,
@@ -489,7 +519,8 @@
         "de": "Mit dem Fahrrad erkunden Sie Metz noch effizienter. Nach der Besichtigung des kaiserlichen Bahnhofs und des Pompidou-Zentrums radeln Sie entlang der Mosel und durch die grüne Esplanade. Die Altstadt mit dem Dom ist gut erreichbar, und zum Abschluss genießen Sie eine längere Fahrt entlang der mittelalterlichen Stadtmauer bis zum Porte des Allemands.",
         "hu": "Kerékpárral még hatékonyabban fedezheti fel Metz-et. A császári pályaudvar és a Pompidou központ után tekerjen a Moselle mentén és a zöld Esplanade-on keresztül. Az óváros és a katedrális könnyen elérhető, végül pedig élvezze a középkori városfal menti tekerést a Porte des Allemands-ig.",
         "ro": "Cu bicicleta veți explora Metz și mai eficient. După vizitarea gării imperiale și a Centrului Pompidou, pedalați de-a lungul Moselei și prin Esplanada verde. Centrul vechi cu catedrala este ușor accesibil, iar la final bucurați-vă de o tură mai lungă pe lângă zidurile medievale până la Porte des Allemands.",
-        "en": "Explore Metz efficiently by bike. After visiting the imperial station and Pompidou Center, ride along the Moselle and through the green Esplanade. The old town and cathedral are easily accessible, and you'll finish with a scenic ride along the medieval walls to the Porte des Allemands."
+        "en": "Explore Metz efficiently by bike. After visiting the imperial station and Pompidou Center, ride along the Moselle and through the green Esplanade. The old town and cathedral are easily accessible, and you'll finish with a scenic ride along the medieval walls to the Porte des Allemands.",
+        "fr": "Explorez Metz efficacement à vélo. Après la visite de la gare impériale et du Centre Pompidou, longez la Moselle et traversez la verte Esplanade. La vieille ville et la cathédrale sont facilement accessibles, et vous terminerez par une balade panoramique le long des remparts médiévaux jusqu'à la Porte des Allemands."
       },
       "gastro_picks": {
         "en": [
@@ -520,6 +551,10 @@
         "en": [
           "Metz has over 100km of bike paths.",
           "The riverside path is mostly flat and scenic."
+        ],
+        "fr": [
+          "Metz compte plus de 100 km de pistes cyclables.",
+          "Le chemin au bord de la rivière est essentiellement plat et pittoresque."
         ]
       }
     },
@@ -533,7 +568,8 @@
       "stops": [
         {
           "name": {
-            "en": "Gare de Metz-Ville (Park here)"
+            "en": "Gare de Metz-Ville (Park here)",
+            "fr": "Gare de Metz-Ville (Garez-vous ici)"
           },
           "coords": [
             6.177,
@@ -547,7 +583,8 @@
         },
         {
           "name": {
-            "en": "Centre Pompidou-Metz"
+            "en": "Centre Pompidou-Metz",
+            "fr": "Centre Pompidou-Metz"
           },
           "coords": [
             6.181,
@@ -562,7 +599,8 @@
         },
         {
           "name": {
-            "en": "Esplanade de Metz (Drive to Cluster B)"
+            "en": "Esplanade de Metz (Drive to Cluster B)",
+            "fr": "Esplanade de Metz (Direction Cluster B)"
           },
           "coords": [
             6.171,
@@ -577,7 +615,8 @@
         },
         {
           "name": {
-            "en": "Temple Neuf"
+            "en": "Temple Neuf",
+            "fr": "Temple Neuf"
           },
           "coords": [
             6.172,
@@ -592,7 +631,8 @@
         },
         {
           "name": {
-            "en": "Place de la Comédie"
+            "en": "Place de la Comédie",
+            "fr": "Place de la Comédie"
           },
           "coords": [
             6.174,
@@ -607,7 +647,8 @@
         },
         {
           "name": {
-            "en": "Kathedrale Saint-Étienne"
+            "en": "Kathedrale Saint-Étienne",
+            "fr": "Cathédrale Saint-Étienne"
           },
           "coords": [
             6.1755,
@@ -622,7 +663,8 @@
         },
         {
           "name": {
-            "en": "Musée de La Cour d'Or"
+            "en": "Musée de La Cour d'Or",
+            "fr": "Musée de La Cour d'Or"
           },
           "coords": [
             6.1775,
@@ -637,7 +679,8 @@
         },
         {
           "name": {
-            "en": "Porte des Allemands (Drive to Cluster C)"
+            "en": "Porte des Allemands (Drive to Cluster C)",
+            "fr": "Porte des Allemands (Direction Cluster C)"
           },
           "coords": [
             6.185,
@@ -655,7 +698,8 @@
         "de": "Mit dem Auto nutzen wir zwei Hauptparkzonen. Zuerst parken wir am Bahnhof für den kaiserlichen Distrikt und das Pompidou. Danach parken wir zentral in der Nähe der Kathedrale, um das historische Zentrum zu Fuß zu erkunden. Dies spart Zeit und ermöglicht es, die Fußgängerzonen entspannt zu genießen.",
         "hu": "Autóval két fő parkolási zónát használunk. Először a pályaudvarnál parkolunk a császári negyed és a Pompidou megtekintéséhez. Ezután központibb helyen, a katedrális közelében állunk meg, hogy gyalogosan fedezzük fel a történelmi központot, elkerülve a belvárosi dugókat.",
         "ro": "Cu mașina folosim două zone principale de parcare. Mai întâi parcăm la gară pentru districtul imperial și Pompidou. Ulterior, ne mutăm într-o parcare centrală lângă catedrală pentru a explora centrul istoric pe jos, profitând de zonele pietonale relaxante.",
-        "en": "By car, we utilize two main parking clusters. First, park at the station for the Imperial district and Pompidou. Then, move to a central parking near the cathedral to explore the historic heart on foot, avoiding city center traffic while enjoying the pedestrian areas."
+        "en": "By car, we utilize two main parking clusters. First, park at the station for the Imperial district and Pompidou. Then, move to a central parking near the cathedral to explore the historic heart on foot, avoiding city center traffic while enjoying the pedestrian areas.",
+        "fr": "En voiture, nous utilisons deux principaux pôles de stationnement. D'abord, garez-vous à la gare pour le quartier impérial et le Pompidou. Ensuite, déplacez-vous vers un parking central près de la cathédrale pour explorer le cœur historique à pied, évitant le trafic du centre-ville tout en profitant des zones piétonnes."
       },
       "gastro_picks": {
         "en": [
@@ -686,6 +730,10 @@
         "en": [
           "Park at 'Parking de la Cathédrale' for easy access.",
           "Metz has many pedestrian-only streets."
+        ],
+        "fr": [
+          "Garez-vous au « Parking de la Cathédrale » pour un accès facile.",
+          "Metz possède de nombreuses rues piétonnes."
         ]
       }
     },
@@ -699,7 +747,8 @@
       "stops": [
         {
           "name": {
-            "en": "Gare de Metz-Ville"
+            "en": "Gare de Metz-Ville",
+            "fr": "Gare de Metz-Ville"
           },
           "coords": [
             6.177,
@@ -713,7 +762,8 @@
         },
         {
           "name": {
-            "en": "Centre Pompidou-Metz"
+            "en": "Centre Pompidou-Metz",
+            "fr": "Centre Pompidou-Metz"
           },
           "coords": [
             6.181,
@@ -728,7 +778,8 @@
         },
         {
           "name": {
-            "en": "Esplanade de Metz"
+            "en": "Esplanade de Metz",
+            "fr": "Esplanade de Metz"
           },
           "coords": [
             6.171,
@@ -743,7 +794,8 @@
         },
         {
           "name": {
-            "en": "Temple Neuf"
+            "en": "Temple Neuf",
+            "fr": "Temple Neuf"
           },
           "coords": [
             6.172,
@@ -758,7 +810,8 @@
         },
         {
           "name": {
-            "en": "Place de la Comédie"
+            "en": "Place de la Comédie",
+            "fr": "Place de la Comédie"
           },
           "coords": [
             6.174,
@@ -773,7 +826,8 @@
         },
         {
           "name": {
-            "en": "Kathedrale Saint-Étienne"
+            "en": "Kathedrale Saint-Étienne",
+            "fr": "Cathédrale Saint-Étienne"
           },
           "coords": [
             6.1755,
@@ -788,7 +842,8 @@
         },
         {
           "name": {
-            "en": "Musée de La Cour d'Or"
+            "en": "Musée de La Cour d'Or",
+            "fr": "Musée de La Cour d'Or"
           },
           "coords": [
             6.1775,
@@ -803,7 +858,8 @@
         },
         {
           "name": {
-            "en": "Porte des Allemands"
+            "en": "Porte des Allemands",
+            "fr": "Porte des Allemands"
           },
           "coords": [
             6.185,
@@ -821,7 +877,8 @@
         "de": "Nutzen Sie das effiziente Mettis-Bussystem von Metz. Wir starten am Bahnhof und dem Pompidou, nehmen dann die Mettis-Linie A oder B ins Zentrum zur Esplanade. Von dort aus erkunden wir das Herz der Stadt zu Fuß und kehren für die letzte Etappe zum Porte des Allemands wieder in den Bus zurück.",
         "hu": "Használja Metz hatékony Mettis buszrendszerét. A pályaudvartól és a Pompidou-tól indulunk, majd a Mettis A vagy B vonallal utazunk a központba, az Esplanade-hoz. Innen gyalog fedezzük fel a város szívét, majd az utolsó szakaszon ismét busszal megyünk a Porte des Allemands-hoz.",
         "ro": "Utilizați sistemul eficient de autobuze Mettis din Metz. Începem la gară și Pompidou, apoi luăm linia Mettis A sau B spre centru la Esplanada. De acolo, explorăm inima orașului pe jos, revenind la autobuz pentru ultima etapă către Porte des Allemands.",
-        "en": "Use the efficient Mettis bus system in Metz. Start at the station and Pompidou, then take Mettis Line A or B to the city center (Esplanade). Explore the historic heart on foot and hop back on the bus for the final stretch to the Porte des Allemands."
+        "en": "Use the efficient Mettis bus system in Metz. Start at the station and Pompidou, then take Mettis Line A or B to the city center (Esplanade). Explore the historic heart on foot and hop back on the bus for the final stretch to the Porte des Allemands.",
+        "fr": "Utilisez le système de bus Mettis efficace à Metz. Commencez à la gare et au Pompidou, puis prenez la ligne A ou B du Mettis jusqu'au centre-ville (Esplanade). Explorez le cœur historique à pied et reprenez le bus pour le dernier tronçon jusqu'à la Porte des Allemands."
       },
       "gastro_picks": {
         "en": [
@@ -852,6 +909,10 @@
         "en": [
           "The Mettis buses look like trams and are very frequent.",
           "One ticket is valid for 1 hour."
+        ],
+        "fr": [
+          "Les bus Mettis ressemblent à des trams et sont très fréquents.",
+          "Un ticket est valable 1 heure."
         ]
       }
     }

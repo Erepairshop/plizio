@@ -21,7 +21,8 @@
             "de": "Kirche Saint-Jean-Baptiste",
             "hu": "Keresztelő Szent János-templom",
             "ro": "Biserica Saint-Jean-Baptiste",
-            "en": "Church of Saint-Jean-Baptiste"
+            "en": "Church of Saint-Jean-Baptiste",
+            "fr": "Église Saint-Jean-Baptiste"
           },
           "coords": [
             1.590328,
@@ -36,7 +37,8 @@
             "de": "Bewundern Sie die historischen Details dieser ruhigen Kirche, die die lokale Geschichte widerspiegelt, und kommen Sie morgens, um das beste Licht zu genießen.",
             "hu": "Csodálja meg a csendes templom történelmi részleteit, amelyek a helyi múltat őrzik, és érkezzen a kora reggeli órákban a legjobb fényviszonyokért.",
             "ro": "Admirați detaliile istorice ale acestei biserici liniștite care reflectă trecutul local și sosiți dimineața devreme pentru a profita de cea mai bună lumină.",
-            "en": "Admire the historical details of this quiet church reflecting local heritage, and make sure to visit in the morning to enjoy the most beautiful natural light."
+            "en": "Admire the historical details of this quiet church reflecting local heritage, and make sure to visit in the morning to enjoy the most beautiful natural light.",
+            "fr": "Admirez les détails historiques de cette église paisible reflétant le patrimoine local, et assurez-vous de la visiter le matin pour profiter de la plus belle lumière naturelle."
           }
         },
         {
@@ -44,7 +46,8 @@
             "de": "Berck Museum",
             "hu": "Berck Múzeum",
             "ro": "Muzeul Berck",
-            "en": "Berck Museum"
+            "en": "Berck Museum",
+            "fr": "Musée de Berck"
           },
           "coords": [
             1.565645,
@@ -59,7 +62,8 @@
             "de": "Entdecken Sie die beeindruckende maritime Kunstsammlung, die die Traditionen der Region veranschaulicht, und buchen Sie Ihr Ticket am besten vorab online.",
             "hu": "Fedezze fel a lenyűgöző tengerészeti gyűjteményt, amely a régió hagyományait mutatja be, és a várakozás elkerülése érdekében vegye meg jegyét online.",
             "ro": "Descoperiți impresionanta colecție de artă maritimă care ilustrează tradițiile regiunii și cumpărați biletele online în prealabil pentru a evita cozile.",
-            "en": "Discover the impressive maritime art collection illustrating the region's rich traditions, and book your tickets online in advance to skip the waiting lines."
+            "en": "Discover the impressive maritime art collection illustrating the region's rich traditions, and book your tickets online in advance to skip the waiting lines.",
+            "fr": "Découvrez l’impressionnante collection d’art maritime illustrant les riches traditions de la région, et réservez vos billets en ligne à l’avance pour éviter les files d’attente."
           }
         },
         {
@@ -67,7 +71,8 @@
             "de": "Schwimmbad der ca2bm",
             "hu": "ca2bm uszoda",
             "ro": "Piscina ca2bm",
-            "en": "piscine de la ca2bm"
+            "en": "piscine de la ca2bm",
+            "fr": "Piscine de la CA2BM"
           },
           "coords": [
             1.561862,
@@ -82,7 +87,8 @@
             "de": "Entspannen Sie sich im modernen Schwimmbad, das perfekte Erholung für die ganze Familie bietet, und vergessen Sie nicht, eine eigene Badekappe mitzubringen.",
             "hu": "Pihenjen a modern uszodában, amely tökéletes kikapcsolódást nyújt az egész családnak, és ne felejtsen el saját úszósapkát hozni a medencék használatához.",
             "ro": "Relaxați-vă în piscina modernă care oferă o recreere perfectă pentru întreaga familie și nu uitați să aduceți propria cască de înot pentru a avea acces.",
-            "en": "Relax in the modern swimming pool offering perfect recreation for the entire family, and remember to bring your own swimming cap to access the main water areas."
+            "en": "Relax in the modern swimming pool offering perfect recreation for the entire family, and remember to bring your own swimming cap to access the main water areas.",
+            "fr": "Détendez-vous dans la piscine moderne offrant des loisirs parfaits pour toute la famille, et n’oubliez pas d’apporter votre propre bonnet de bain pour accéder aux bassins principaux."
           }
         },
         {
@@ -90,7 +96,8 @@
             "de": "Berck Strand",
             "hu": "Berck tengerpart",
             "ro": "Plaja Berck",
-            "en": "Berck Plage"
+            "en": "Berck Plage",
+            "fr": "Plage de Berck"
           },
           "coords": [
             1.558591,
@@ -105,7 +112,8 @@
             "de": "Spazieren Sie entlang des weiten Sandstrandes, der für seine frische Brise bekannt ist, und bringen Sie eine Windjacke für die kühleren Nachmittage mit.",
             "hu": "Sétáljon a széles homokos tengerparton, amely híres a friss tengeri levegőjéről, és mindenképpen hozzon magával egy széldzsekit a hűvösebb délutánokra.",
             "ro": "Plimbați-vă de-a lungul plajei largi de nisip cunoscute pentru briza proaspătă și aduceți o jachetă de vânt pentru a vă proteja în după-amiezile mai răcoroase.",
-            "en": "Stroll along the wide sandy beach famous for its fresh sea breeze and endless views, and bring a windbreaker to stay comfortable during cooler afternoons."
+            "en": "Stroll along the wide sandy beach famous for its fresh sea breeze and endless views, and bring a windbreaker to stay comfortable during cooler afternoons.",
+            "fr": "Promenez-vous le long de la vaste plage de sable réputée pour sa brise marine fraîche et ses vues sans fin, et emportez une veste coupe-vent pour rester à l’aise lors des après-midis plus frais."
           }
         },
         {
@@ -113,7 +121,8 @@
             "de": "Kirche Notre-Dame des Sables",
             "hu": "Notre-Dame des Sables templom",
             "ro": "Biserica Notre-Dame des Sables",
-            "en": "Church of Notre-Dame des Sables"
+            "en": "Church of Notre-Dame des Sables",
+            "fr": "Église Notre-Dame des Sables"
           },
           "coords": [
             1.565753,
@@ -128,7 +137,8 @@
             "de": "Betrachten Sie die faszinierenden Holzarbeiten im Inneren dieses charmanten Gebäudes, und verbinden Sie den Besuch mit einem Marktbummel in der Umgebung.",
             "hu": "Figyelje meg a lenyűgöző fafaragásokat ennek a bájos épületnek a belsejében, és kösse össze a látogatást egy hangulatos sétával a közeli piacon.",
             "ro": "Observați sculpturile fascinante din lemn în interiorul acestei clădiri fermecătoare și combinați vizita cu o plimbare relaxantă prin piața din apropiere.",
-            "en": "Observe the fascinating woodwork inside this charmingly designed building, and combine your relaxing visit with a nice stroll through the nearby local market."
+            "en": "Observe the fascinating woodwork inside this charmingly designed building, and combine your relaxing visit with a nice stroll through the nearby local market.",
+            "fr": "Observez la fascinante menuiserie à l’intérieur de ce bâtiment au design charmant, et combinez votre visite relaxante avec une agréable promenade au marché local à proximité."
           }
         },
         {
@@ -136,7 +146,8 @@
             "de": "Leuchtturm von Berck",
             "hu": "Berck világítótornya",
             "ro": "Farul din Berck",
-            "en": "Berck Lighthouse"
+            "en": "Berck Lighthouse",
+            "fr": "Phare de Berck"
           },
           "coords": [
             1.560801,
@@ -151,7 +162,8 @@
             "de": "Genießen Sie den atemberaubenden Blick über die Küste vom historischen Leuchtturm aus, aber prüfen Sie vorher die Öffnungszeiten für geführte Touren.",
             "hu": "Élvezze a lélegzetelállító kilátást a partra a történelmi világítótoronyból, de érkezés előtt mindenképpen ellenőrizze az idegenvezetések időpontjait.",
             "ro": "Bucurați-vă de o priveliște uluitoare asupra coastei de la farul istoric, dar verificați în prealabil programul de funcționare pentru tururile ghidate.",
-            "en": "Enjoy the breathtaking panoramic view of the coastline from the historical lighthouse, but always check the guided tour schedules online before your visit."
+            "en": "Enjoy the breathtaking panoramic view of the coastline from the historical lighthouse, but always check the guided tour schedules online before your visit.",
+            "fr": "Profitez de la vue panoramique à couper le souffle sur la côte depuis le phare historique, mais vérifiez toujours les horaires des visites guidées en ligne avant votre venue."
           }
         }
       ],
@@ -159,7 +171,8 @@
         "de": "Starten Sie Ihren Tag in Berck mit einem Besuch der historischen Kirche. Schlendern Sie durch die ruhigen Straßen, um die lokale Atmosphäre zu genießen. Nachmittags erwartet Sie das maritime Museum und die herrliche Küste. Beenden Sie den Tag mit einem Blick vom Leuchtturm im warmen Abendlicht.",
         "hu": "Kezdje a napot Berckben egy látogatással a történelmi templomban. Sétáljon a csendes utcákon, hogy magába szívja a helyi hangulatot. Délután a múzeum és a gyönyörű partvidék várja. Fejezze be a napot a világítótoronynál, élvezve a csodálatos esti fényeket.",
         "ro": "Începeți ziua în Berck cu o vizită la biserica istorică. Plimbați-vă pe străzile liniștite pentru a absorbi atmosfera locală autentică. După-amiaza vă așteaptă muzeul captivant și coasta superbă. Încheiați ziua admirând priveliștea de la far în lumina caldă a serii.",
-        "en": "Start your day in Berck with a peaceful visit to the historic church. Stroll through the quiet streets to truly absorb the authentic local atmosphere. In the afternoon, the engaging museum and the gorgeous coastline await. End your day enjoying the evening view from the lighthouse."
+        "en": "Start your day in Berck with a peaceful visit to the historic church. Stroll through the quiet streets to truly absorb the authentic local atmosphere. In the afternoon, the engaging museum and the gorgeous coastline await. End your day enjoying the evening view from the lighthouse.",
+        "fr": "Commencez votre journée à Berck par une visite paisible de l’église historique. Promenez-vous dans les rues calmes pour vraiment absorber l’atmosphère locale authentique. L’après-midi, le musée captivant et la magnifique côte vous attendent. Terminez la journée en profitant de la vue du soir depuis le phare."
       },
       "variants": {
         "rainy": {
@@ -167,7 +180,8 @@
             "de": "Beginnen Sie Ihren Tag geschützt in den historischen Mauern der Stadtkirchen. Mittags bietet das Museum eine ideale Zuflucht vor den Schauern, während Sie in die maritime Kunst eintauchen. Am Nachmittag trotzen wir dem Regen an der Promenade, wo die aufgewühlte See eine dramatische Kulisse bildet. Den Abend lassen wir bei der beleuchteten Küstenkulisse ausklingen, stets in Reichweite trockener Unterkünfte.",
             "hu": "Kezdje a napot a városi templomok védelmében, elkerülve a reggeli záporokat. Délben a múzeum nyújt tökéletes menedéket, ahol a helyi tengeri festészetben merülhet el. Délután a szél és az eső igazi tengerparti hangulatot áraszt a sétányon, a viharos tenger látványa pedig lenyűgöző. Az estét a fényekben úszó kikötői részen zárjuk, ügyelve a csúszós járdákra a világítótorony felé.",
             "ro": "Începeți ziua la adăpost în interiorul bisericilor istorice pentru a evita ploile matinale. La prânz, muzeul oferă refugiul perfect, permițându-vă să explorați arta maritimă fără a vă uda. După-amiaza, faleza oferă un spectacol dramatic sub ploaie, cu marea agitată în fundal. Seara se încheie lângă far, unde luminile se reflectă spectaculos în bălțile de pe trotuar.",
-            "en": "Start your day sheltered within the historic walls of the town's churches. At noon, the museum provides an ideal sanctuary from the showers, letting you dive into maritime art. In the afternoon, the promenade shows its raw coastal character under the rain, with crashing waves creating a dramatic scene. End the evening by the lighthouse, where the wet pavement reflects the city lights beautifully."
+            "en": "Start your day sheltered within the historic walls of the town's churches. At noon, the museum provides an ideal sanctuary from the showers, letting you dive into maritime art. In the afternoon, the promenade shows its raw coastal character under the rain, with crashing waves creating a dramatic scene. End the evening by the lighthouse, where the wet pavement reflects the city lights beautifully.",
+            "fr": "Commencez la journée à l’abri dans les murs historiques des églises de la ville. À midi, le musée offre un sanctuaire idéal contre les averses, vous permettant de plonger dans l’art maritime. L’après-midi, la promenade révèle son caractère côtier brut sous la pluie, avec des vagues déchaînées créant une scène dramatique. Terminez la soirée près du phare, où le pavé mouillé reflète magnifiquement les lumières de la ville."
           },
           "stops": [
             {
@@ -175,13 +189,15 @@
                 "de": "Kirche Saint-Jean-Baptiste",
                 "hu": "Keresztelő Szent János-templom",
                 "ro": "Biserica Saint-Jean-Baptiste",
-                "en": "Church of Saint-Jean-Baptiste"
+                "en": "Church of Saint-Jean-Baptiste",
+                "fr": "Église Saint-Jean-Baptiste"
               },
               "tip_5lang": {
                 "de": "Bewundern Sie die hölzernen Deckenkonstruktionen im Inneren, während draußen der Regen prasselt; nutzen Sie den Vorraum, um Ihren Regenschirm abzustellen.",
                 "hu": "Csodálja meg a belső fa mennyezetet, miközben kint kopog az eső; használja az előteret az esernyő lerázására és a kabát szárítására.",
                 "ro": "Admirați tavanul de lemn sculptat în timp ce ploaia bate în geamuri; folosiți pridvorul pentru a vă scutura umbrela înainte de a intra.",
-                "en": "Admire the wooden ceiling structures inside while the rain patters outside; use the vestibule to dry your umbrella before exploring the nave."
+                "en": "Admire the wooden ceiling structures inside while the rain patters outside; use the vestibule to dry your umbrella before exploring the nave.",
+                "fr": "Admirez les structures de plafond en bois pendant que la pluie crépite dehors ; utilisez le vestibule pour sécher votre parapluie avant d’explorer la nef."
               }
             },
             {
@@ -189,13 +205,15 @@
                 "de": "Berck Museum",
                 "hu": "Berck Múzeum",
                 "ro": "Muzeul Berck",
-                "en": "Berck Museum"
+                "en": "Berck Museum",
+                "fr": "Musée de Berck"
               },
               "tip_5lang": {
                 "de": "Dieses ehemalige Krankenhaus ist das beste Versteck vor einem Wolkenbruch; planen Sie hier mehr Zeit ein, um die Gemälde der Bercker Schule trocken zu genießen.",
                 "hu": "Ez az egykori kórházépület a legjobb búvóhely felhőszakadás idején; töltsön itt több időt a Berck-iskola festményeinek tanulmányozásával.",
                 "ro": "Această fostă clădire de spital este cel mai bun ascunziș în caz de furtună; petreceți mai mult timp aici admirând picturile școlii din Berck.",
-                "en": "This former hospital building is the best hideout during a downpour; plan extra time here to enjoy the Berck School paintings in the dry."
+                "en": "This former hospital building is the best hideout during a downpour; plan extra time here to enjoy the Berck School paintings in the dry.",
+                "fr": "Cet ancien bâtiment hospitalier est le meilleur refuge lors d’une averse ; prévoyez du temps supplémentaire ici pour apprécier au sec les peintures de l’École de Berck."
               }
             },
             {
@@ -203,13 +221,15 @@
                 "de": "Schwimmbad der ca2bm",
                 "hu": "ca2bm uszoda",
                 "ro": "Piscina ca2bm",
-                "en": "piscine de la ca2bm"
+                "en": "piscine de la ca2bm",
+                "fr": "Piscine de la CA2BM"
               },
               "tip_5lang": {
                 "de": "Tauschen Sie die kalten Regentropfen gegen das warme Wasser des Hallenbades; ein Besuch hier ist die perfekte Indoor-Alternative zum grauen Küstenwetter.",
                 "hu": "Cserélje le a hideg esőcseppeket a fedett uszoda meleg vizére; ez a látogatás a tökéletes beltéri alternatíva a szürke tengerparti időben.",
                 "ro": "Schimbați picăturile reci de ploaie cu apa caldă a piscinei interioare; o vizită aici este alternativa ideală de interior pentru vremea gri.",
-                "en": "Swap the cold raindrops for the warm water of the indoor pool; a visit here is the perfect indoor alternative to the grey coastal weather."
+                "en": "Swap the cold raindrops for the warm water of the indoor pool; a visit here is the perfect indoor alternative to the grey coastal weather.",
+                "fr": "Échangez les gouttes froides de pluie contre l’eau chaude de la piscine intérieure ; une visite ici est l’alternative parfaite en intérieur au temps côtier gris."
               }
             },
             {
@@ -217,13 +237,15 @@
                 "de": "Berck Strand",
                 "hu": "Berck tengerpart",
                 "ro": "Plaja Berck",
-                "en": "Berck Plage"
+                "en": "Berck Plage",
+                "fr": "Plage de Berck"
               },
               "tip_5lang": {
                 "de": "Beobachten Sie das stürmische Meer von einem der überdachten Cafés aus; der nasse Sand ist fest genug für einen kurzen, erfrischenden Spaziergang.",
                 "hu": "Figyelje a viharos tengert egy fedett kávézó ablakából; a vizes homok elég kemény egy rövid, frissítő sétához a parton.",
                 "ro": "Observați marea agitată de la adăpostul unei cafenele de pe faleză; nisipul ud este suficient de compact pentru o scurtă plimbare revigorantă.",
-                "en": "Watch the stormy sea from the shelter of a beachfront cafe; the wet sand is firm enough for a short, refreshing walk along the shoreline."
+                "en": "Watch the stormy sea from the shelter of a beachfront cafe; the wet sand is firm enough for a short, refreshing walk along the shoreline.",
+                "fr": "Admirez la mer houleuse depuis l’abri d’un café en bord de mer ; le sable mouillé est assez ferme pour une courte promenade vivifiante le long du rivage."
               }
             },
             {
@@ -231,13 +253,15 @@
                 "de": "Kirche Notre-Dame des Sables",
                 "hu": "Notre-Dame des Sables templom",
                 "ro": "Biserica Notre-Dame des Sables",
-                "en": "Church of Notre-Dame des Sables"
+                "en": "Church of Notre-Dame des Sables",
+                "fr": "Église Notre-Dame des Sables"
               },
               "tip_5lang": {
                 "de": "Die hölzerne Innenausstattung wirkt bei Regen besonders gemütlich; ein idealer Ort, um kurz innezuhalten, bevor es zurück zum Leuchtturm geht.",
                 "hu": "A fából készült belső tér különösen otthonosnak hat esőben; ideális hely egy rövid megállásra, mielőtt visszaindulna a világítótorony felé.",
                 "ro": "Interiorul din lemn oferă o atmosferă primitoare pe timp de ploaie; este locul ideal pentru un moment de liniște înainte de ultima etapă.",
-                "en": "The wooden interior feels especially cozy during the rain; it is an ideal spot for a quick pause before heading back towards the lighthouse."
+                "en": "The wooden interior feels especially cozy during the rain; it is an ideal spot for a quick pause before heading back towards the lighthouse.",
+                "fr": "L’intérieur en bois est particulièrement chaleureux pendant la pluie ; c’est un lieu idéal pour une courte pause avant de repartir vers le phare."
               }
             },
             {
@@ -245,13 +269,15 @@
                 "de": "Leuchtturm von Berck",
                 "hu": "Berck világítótornya",
                 "ro": "Farul din Berck",
-                "en": "Berck Lighthouse"
+                "en": "Berck Lighthouse",
+                "fr": "Phare de Berck"
               },
               "tip_5lang": {
                 "de": "Die roten und weißen Streifen leuchten vor dem grauen Himmel besonders stark; tragen Sie windfeste Kleidung, da es hier bei Regen sehr zugig ist.",
                 "hu": "A piros és fehér csíkok különösen élénken világítanak a szürke égbolt előtt; viseljen szélálló ruhát, mert ilyenkor itt nagyon huzatos az idő.",
                 "ro": "Dungile roșii și albe strălucesc intens pe fundalul cerului gri; purtați haine rezistente la vânt, deoarece zona devine foarte expusă pe ploaie.",
-                "en": "The red and white stripes glow vividly against the grey sky; wear windproof clothing as the area becomes very drafty during rainy spells."
+                "en": "The red and white stripes glow vividly against the grey sky; wear windproof clothing as the area becomes very drafty during rainy spells.",
+                "fr": "Les rayures rouge et blanc brillent vivement contre le ciel gris ; portez des vêtements coupe-vent car le secteur devient très exposé lors d’épisodes pluvieux."
               }
             }
           ]
@@ -261,7 +287,8 @@
             "de": "Genießen Sie die klare Winterluft bei einem zügigen Morgenspaziergang zu den Kirchen. Mittags wärmen wir uns im beheizten Museum auf und lassen uns Zeit. Da die Sonne bereits gegen 17:00 Uhr untergeht, planen wir den Strandbesuch für den frühen Nachmittag ein, wenn das Licht am schönsten ist. Den Abend verbringen wir gemütlich im Stadtzentrum, wo die Winterbeleuchtung für Wärme sorgt.",
             "hu": "Élvezze a friss téli levegőt egy tempós reggeli sétával a templomok felé. Délben a fűtött múzeumban melegszünk fel, bőven hagyva időt a nézelődésre. Mivel a nap már 17 óra körül nyugszik, a tengerparti látogatást kora délutánra időzítjük a legszebb fényekért. Az estét a városközpontban töltjük, ahol a téli kivilágítás és a forró italok adnak melegséget.",
             "ro": "Bucurați-vă de aerul proaspăt de iarnă cu o plimbare matinală alertă spre biserici. La prânz, ne încălzim în muzeul bine încălzit, acordând timp exponatelor. Deoarece soarele apune în jurul orei 17:00, programăm vizita pe plajă devreme după-amiaza pentru cea mai bună lumină. Seara o petrecem în centru, profitând de atmosfera caldă creată de luminile de iarnă.",
-            "en": "Enjoy the crisp winter air with a brisk morning walk towards the churches. At noon, we warm up in the heated museum, taking plenty of time for the exhibits. Since the sun sets around 5:00 PM, we schedule the beach visit for early afternoon to catch the best light. Spend the evening in the town center, where winter illuminations and warm drinks provide comfort."
+            "en": "Enjoy the crisp winter air with a brisk morning walk towards the churches. At noon, we warm up in the heated museum, taking plenty of time for the exhibits. Since the sun sets around 5:00 PM, we schedule the beach visit for early afternoon to catch the best light. Spend the evening in the town center, where winter illuminations and warm drinks provide comfort.",
+            "fr": "Profitez de l’air vif de l’hiver avec une marche matinale vers les églises. À midi, réchauffez-vous au musée chauffé en prenant tout votre temps pour les expositions. Comme le soleil se couche vers 17:00, nous programmons la visite de la plage en début d’après-midi pour profiter de la meilleure lumière. Passez la soirée au centre-ville, où illuminations hivernales et boissons chaudes apportent du réconfort."
           },
           "stops": [
             {
@@ -269,13 +296,15 @@
                 "de": "Kirche Saint-Jean-Baptiste",
                 "hu": "Keresztelő Szent János-templom",
                 "ro": "Biserica Saint-Jean-Baptiste",
-                "en": "Church of Saint-Jean-Baptiste"
+                "en": "Church of Saint-Jean-Baptiste",
+                "fr": "Église Saint-Jean-Baptiste"
               },
               "tip_5lang": {
                 "de": "Die Kirche bietet eine friedliche Zuflucht vor dem beißenden Küstenwind; achten Sie auf die prächtigen Glasfenster, die im Winterlicht kühl funkeln.",
                 "hu": "A templom békés menedéket nyújt a metsző tengerparti szél elől; figyelje meg a színes üvegablakokat, amelyek hűvösen csillognak a téli fényben.",
                 "ro": "Biserica oferă un refugiu liniștit împotriva vântului tăios de coastă; admirați vitraliile care strălucesc rece în lumina palidă de iarnă.",
-                "en": "The church offers a peaceful refuge from the biting coastal wind; notice the stained glass windows that sparkle coolly in the winter light."
+                "en": "The church offers a peaceful refuge from the biting coastal wind; notice the stained glass windows that sparkle coolly in the winter light.",
+                "fr": "L’église offre un refuge paisible contre le vent côtier mordant ; remarquez les vitraux qui brillent d’un éclat frais sous la lumière hivernale."
               }
             },
             {
@@ -283,13 +312,15 @@
                 "de": "Berck Museum",
                 "hu": "Berck Múzeum",
                 "ro": "Muzeul Berck",
-                "en": "Berck Museum"
+                "en": "Berck Museum",
+                "fr": "Musée de Berck"
               },
               "tip_5lang": {
                 "de": "Nutzen Sie die Heizung im Inneren für eine längere Pause; die maritimen Szenen erinnern an wärmere Tage, während es draußen klirrend kalt ist.",
                 "hu": "Használja ki a benti fűtést egy hosszabb pihenőre; a tengeri jelenetek melegebb napokat idéznek, miközben kint metsző a hideg.",
                 "ro": "Profități de căldura din interior pentru o pauză prelungită; scenele maritime amintesc de zile mai calde în timp ce afară este ger.",
-                "en": "Take advantage of the indoor heating for an extended break; the maritime scenes recall warmer days while it is freezing cold outside."
+                "en": "Take advantage of the indoor heating for an extended break; the maritime scenes recall warmer days while it is freezing cold outside.",
+                "fr": "Profitez du chauffage intérieur pour une pause prolongée ; les scènes maritimes rappellent des jours plus chauds alors qu’il fait très froid dehors."
               }
             },
             {
@@ -297,13 +328,15 @@
                 "de": "Schwimmbad der ca2bm",
                 "hu": "ca2bm uszoda",
                 "ro": "Piscina ca2bm",
-                "en": "piscine de la ca2bm"
+                "en": "piscine de la ca2bm",
+                "fr": "Piscine de la CA2BM"
               },
               "tip_5lang": {
                 "de": "Ein heißes Bad ist im Winter ein Muss; packen Sie sich nach dem Schwimmen besonders warm ein, um den Kälteschock beim Verlassen zu vermeiden.",
                 "hu": "A forró fürdő télen kötelező program; úszás után öltözzön fel különösen rétegesen, hogy elkerülje a hidegsokkot a kilépéskor.",
                 "ro": "O baie caldă este obligatorie iarna; după înot, îmbrăcați-vă foarte gros pentru a evita șocul termic la ieșirea în aerul rece.",
-                "en": "A hot swim is a must in winter; wrap up extra warmly after your session to avoid the cold shock when stepping back outside."
+                "en": "A hot swim is a must in winter; wrap up extra warmly after your session to avoid the cold shock when stepping back outside.",
+                "fr": "Une baignade chaude est indispensable en hiver ; couvrez-vous ensuite très chaudement après votre séance pour éviter le choc du froid en ressortant."
               }
             },
             {
@@ -311,13 +344,15 @@
                 "de": "Berck Strand",
                 "hu": "Berck tengerpart",
                 "ro": "Plaja Berck",
-                "en": "Berck Plage"
+                "en": "Berck Plage",
+                "fr": "Plage de Berck"
               },
               "tip_5lang": {
                 "de": "Erleben Sie die Weite des Strandes fast allein; die Wintersonne spiegelt sich herrlich im nassen Sand, aber feste Schuhe gegen die Kälte sind nötig.",
                 "hu": "Élje át a tengerparti magányt; a téli nap gyönyörűen tükröződik a vizes homokon, de a hideg miatt elengedhetetlen a bélelt lábbeli.",
                 "ro": "Experimentați singurătatea plajei; soarele de iarnă se reflectă superb pe nisipul ud, dar încălțămintea groasă este esențială împotriva frigului.",
-                "en": "Experience the beach in solitude; the winter sun reflects beautifully on the wet sand, but insulated footwear is essential against the frost."
+                "en": "Experience the beach in solitude; the winter sun reflects beautifully on the wet sand, but insulated footwear is essential against the frost.",
+                "fr": "Vivez la plage en solitaire ; le soleil d’hiver se reflète magnifiquement sur le sable humide, mais des chaussures isolantes sont essentielles contre le gel."
               }
             },
             {
@@ -325,13 +360,15 @@
                 "de": "Kirche Notre-Dame des Sables",
                 "hu": "Notre-Dame des Sables templom",
                 "ro": "Biserica Notre-Dame des Sables",
-                "en": "Church of Notre-Dame des Sables"
+                "en": "Church of Notre-Dame des Sables",
+                "fr": "Église Notre-Dame des Sables"
               },
               "tip_5lang": {
                 "de": "Die hölzerne Bauweise speichert die Wärme besser als Stein; bewundern Sie das schiffsähnliche Interieur als Schutz vor der winterlichen Brise.",
                 "hu": "A faépítmény jobban tartja a meleget, mint a kő; csodálja meg a hajószerű belsőt, amely védelmet nyújt a téli szél elől.",
                 "ro": "Structura de lemn păstrează căldura mai bine decât piatra; admirați interiorul asemănător unei nave ca protecție împotriva brizei de iarnă.",
-                "en": "The wooden construction holds heat better than stone; admire the ship-like interior as a shield against the biting winter breeze."
+                "en": "The wooden construction holds heat better than stone; admire the ship-like interior as a shield against the biting winter breeze.",
+                "fr": "La construction en bois retient mieux la chaleur que la pierre ; admirez l’intérieur en forme de coque de navire comme un rempart contre la bise hivernale piquante."
               }
             },
             {
@@ -339,13 +376,15 @@
                 "de": "Leuchtturm von Berck",
                 "hu": "Berck világítótornya",
                 "ro": "Farul din Berck",
-                "en": "Berck Lighthouse"
+                "en": "Berck Lighthouse",
+                "fr": "Phare de Berck"
               },
               "tip_5lang": {
                 "de": "Kommen Sie kurz vor Sonnenuntergang um 16:30 Uhr hierher; das goldene Licht des Winters lässt den Turm in einem magischen Glanz erstrahlen.",
                 "hu": "Érkezzen nem sokkal a 16:30-as naplemente előtt; a tél végi aranyfények mágikus ragyogásba vonják a tornyot és a környékét.",
                 "ro": "Veniți cu puțin înainte de apusul de la ora 16:30; lumina aurie a iernii face ca turnul să strălucească într-un mod cu totul magic.",
-                "en": "Arrive shortly before the 4:30 PM sunset; the golden winter light makes the tower glow with a magical, crisp intensity."
+                "en": "Arrive shortly before the 4:30 PM sunset; the golden winter light makes the tower glow with a magical, crisp intensity.",
+                "fr": "Arrivez peu avant le coucher du soleil à 16:30 ; la lumière dorée hivernale fait rayonner la tour d’une intensité magique et cristalline."
               }
             }
           ]
@@ -365,7 +404,8 @@
             "de": "Berck Beach",
             "hu": "Berck Beach",
             "ro": "Plaja Berck Beach",
-            "en": "Berck Beach"
+            "en": "Berck Beach",
+            "fr": "Plage de Berck"
           },
           "coords": [
             1.591582,
@@ -380,7 +420,8 @@
             "de": "Erleben Sie die Weitläufigkeit dieses malerischen Strandes, der ideal für Drachensteigen ist, und kommen Sie bei Ebbe für die besten Strandwanderungen.",
             "hu": "Tapasztalja meg a festői partvidék tágasságát, amely ideális a sárkányeregetéshez, és apály idején érkezzen a legszebb tengerparti sétákhoz a homokban.",
             "ro": "Experimentați imensitatea acestei plaje pitorești, ideală pentru înălțarea zmeielor, și vizitați la reflux pentru cele mai bune plimbări pe nisipul fin.",
-            "en": "Experience the vastness of this picturesque beach which is an ideal spot for kite flying, and make sure to visit during low tide for the best sandy walks."
+            "en": "Experience the vastness of this picturesque beach which is an ideal spot for kite flying, and make sure to visit during low tide for the best sandy walks.",
+            "fr": "Sentez l’immensité de cette plage pittoresque, idéale pour le cerf-volant, et assurez-vous de visiter à marée basse pour les meilleures promenades sur le sable."
           }
         },
         {
@@ -388,7 +429,8 @@
             "de": "Kirche Notre-Dame des Sables",
             "hu": "Notre-Dame des Sables templom",
             "ro": "Biserica Notre-Dame des Sables",
-            "en": "Church of Notre-Dame des Sables"
+            "en": "Church of Notre-Dame des Sables",
+            "fr": "Église Notre-Dame des Sables"
           },
           "coords": [
             1.565753,
@@ -403,7 +445,8 @@
             "de": "Betrachten Sie die faszinierenden Holzarbeiten im Inneren dieses charmanten Gebäudes, und verbinden Sie den Besuch mit einem Marktbummel in der Umgebung.",
             "hu": "Figyelje meg a lenyűgöző fafaragásokat ennek a bájos épületnek a belsejében, és kösse össze a látogatást egy hangulatos sétával a közeli piacon.",
             "ro": "Observați sculpturile fascinante din lemn în interiorul acestei clădiri fermecătoare și combinați vizita cu o plimbare relaxantă prin piața din apropiere.",
-            "en": "Observe the fascinating woodwork inside this charmingly designed building, and combine your relaxing visit with a nice stroll through the nearby local market."
+            "en": "Observe the fascinating woodwork inside this charmingly designed building, and combine your relaxing visit with a nice stroll through the nearby local market.",
+            "fr": "Observez le travail du bois fascinant à l’intérieur de ce bâtiment au charme étudié, et combinez votre visite détente avec une agréable promenade au marché local à proximité."
           }
         },
         {
@@ -411,7 +454,8 @@
             "de": "Berck Museum",
             "hu": "Berck Múzeum",
             "ro": "Muzeul Berck",
-            "en": "Berck Museum"
+            "en": "Berck Museum",
+            "fr": "Musée de Berck"
           },
           "coords": [
             1.565645,
@@ -426,7 +470,8 @@
             "de": "Entdecken Sie die beeindruckende maritime Kunstsammlung, die die Traditionen der Region veranschaulicht, und buchen Sie Ihr Ticket am besten vorab online.",
             "hu": "Fedezze fel a lenyűgöző tengerészeti gyűjteményt, amely a régió hagyományait mutatja be, és a várakozás elkerülése érdekében vegye meg jegyét online.",
             "ro": "Descoperiți impresionanta colecție de artă maritimă care ilustrează tradițiile regiunii și cumpărați biletele online în prealabil pentru a evita cozile.",
-            "en": "Discover the impressive maritime art collection illustrating the region's rich traditions, and book your tickets online in advance to skip the waiting lines."
+            "en": "Discover the impressive maritime art collection illustrating the region's rich traditions, and book your tickets online in advance to skip the waiting lines.",
+            "fr": "Découvrez l’impressionnante collection d’art maritime illustrant les riches traditions de la région, et réservez vos billets en ligne à l’avance pour éviter les files d’attente."
           }
         },
         {
@@ -434,7 +479,8 @@
             "de": "Berck Strand",
             "hu": "Berck tengerpart",
             "ro": "Plaja Berck",
-            "en": "Berck Plage"
+            "en": "Berck Plage",
+            "fr": "Berck Plage"
           },
           "coords": [
             1.558591,
@@ -449,7 +495,8 @@
             "de": "Spazieren Sie entlang des weiten Sandstrandes, der für seine frische Brise bekannt ist, und bringen Sie eine Windjacke für die kühleren Nachmittage mit.",
             "hu": "Sétáljon a széles homokos tengerparton, amely híres a friss tengeri levegőjéről, és mindenképpen hozzon magával egy széldzsekit a hűvösebb délutánokra.",
             "ro": "Plimbați-vă de-a lungul plajei largi de nisip cunoscute pentru briza proaspătă și aduceți o jachetă de vânt pentru a vă proteja în după-amiezile mai răcoroase.",
-            "en": "Stroll along the wide sandy beach famous for its fresh sea breeze and endless views, and bring a windbreaker to stay comfortable during cooler afternoons."
+            "en": "Stroll along the wide sandy beach famous for its fresh sea breeze and endless views, and bring a windbreaker to stay comfortable during cooler afternoons.",
+            "fr": "Promenez-vous le long de la vaste plage de sable, célèbre pour sa brise marine fraîche et ses vues à perte de vue ; prévoyez un coupe-vent pour rester à l’aise lors d’après-midis plus frais."
           }
         },
         {
@@ -457,7 +504,8 @@
             "de": "Leuchtturm von Berck",
             "hu": "Berck világítótornya",
             "ro": "Farul din Berck",
-            "en": "Berck Lighthouse"
+            "en": "Berck Lighthouse",
+            "fr": "Phare de Berck"
           },
           "coords": [
             1.560801,
@@ -472,7 +520,8 @@
             "de": "Genießen Sie den atemberaubenden Blick über die Küste vom historischen Leuchtturm aus, aber prüfen Sie vorher die Öffnungszeiten für geführte Touren.",
             "hu": "Élvezze a lélegzetelállító kilátást a partra a történelmi világítótoronyból, de érkezés előtt mindenképpen ellenőrizze az idegenvezetések időpontjait.",
             "ro": "Bucurați-vă de o priveliște uluitoare asupra coastei de la farul istoric, dar verificați în prealabil programul de funcționare pentru tururile ghidate.",
-            "en": "Enjoy the breathtaking panoramic view of the coastline from the historical lighthouse, but always check the guided tour schedules online before your visit."
+            "en": "Enjoy the breathtaking panoramic view of the coastline from the historical lighthouse, but always check the guided tour schedules online before your visit.",
+            "fr": "Profitez de la vue panoramique à couper le souffle sur la côte depuis le phare historique, mais vérifiez toujours les horaires des visites guidées en ligne avant votre venue."
           }
         },
         {
@@ -480,7 +529,8 @@
             "de": "Baie d'Authie",
             "hu": "Authie-öböl",
             "ro": "Baie d'Authie",
-            "en": "Baie d'Authie"
+            "en": "Baie d'Authie",
+            "fr": "Baie d'Authie"
           },
           "coords": [
             1.576366,
@@ -495,7 +545,8 @@
             "de": "Beobachten Sie die majestätischen Robben in ihrem natürlichen Lebensraum in der malerischen Bucht, und bringen Sie ein Fernglas für die beste Sicht mit.",
             "hu": "Figyelje meg a fenséges fókákat természetes élőhelyükön ebben a festői öbölben, és mindenképpen hozzon magával távcsövet a legtisztább látvány érdekében.",
             "ro": "Observați focile maiestuoase în habitatul lor natural din acest golf pitoresc și asigurați-vă că aduceți un binoclu pentru a obține cea mai bună vedere.",
-            "en": "Observe the majestic seals resting in their natural habitat across the picturesque bay, and make sure to bring a pair of binoculars for the clearest view."
+            "en": "Observe the majestic seals resting in their natural habitat across the picturesque bay, and make sure to bring a pair of binoculars for the clearest view.",
+            "fr": "Observez les phoques majestueux se reposant dans leur habitat naturel à travers la baie pittoresque, et pensez à apporter une paire de jumelles pour une vue la plus nette possible."
           }
         }
       ],
@@ -503,7 +554,8 @@
         "de": "Radfahren in Berck ist herrlich. Morgens fahren Sie entlang des weiten Strandes und atmen die frische Brise ein. Mittags entdecken Sie die kulturellen Schätze im Zentrum. Nachmittags führt die Route zum Leuchtturm und schließlich zur idyllischen Baie d'Authie, um die Robben zu sehen.",
         "hu": "Berck felfedezése kerékpárral nagyszerű élmény. Reggel tekerjen a széles tengerpart mentén, majd délben ismerje meg a város kulturális kincseit. Délután az útvonal a világítótoronyhoz, majd az idilli Baie d'Authie felé vezet, ahol megcsodálhatja a fókákat.",
         "ro": "Explorarea orașului Berck cu bicicleta este minunată. Dimineața pedalați de-a lungul plajei largi, iar la prânz descoperiți comorile culturale. După-amiaza, traseul vă duce la far și în final la idilicul Baie d'Authie, unde puteți admira focile în sălbăticie.",
-        "en": "Exploring Berck by bike is a wonderful experience. Cycle along the wide beach in the morning, then discover cultural treasures in the town center by noon. In the afternoon, the route leads to the lighthouse and finally to the idyllic Baie d'Authie to admire the beautiful seals."
+        "en": "Exploring Berck by bike is a wonderful experience. Cycle along the wide beach in the morning, then discover cultural treasures in the town center by noon. In the afternoon, the route leads to the lighthouse and finally to the idyllic Baie d'Authie to admire the beautiful seals.",
+        "fr": "Explorer Berck à vélo est une expérience merveilleuse. Pédalez le long de la large plage le matin, puis découvrez des trésors culturels au centre-ville à midi. L’après-midi, l’itinéraire mène au phare et enfin à la pittoresque Baie d'Authie pour admirer les beaux phoques."
       },
       "variants": {
         "rainy": {
@@ -511,7 +563,8 @@
             "de": "Trotz Regen bietet Berck flache Wege, die auch bei Nässe gut befahrbar sind. Wir starten an der Küste mit wasserfester Ausrüstung und suchen mittags Schutz im Museum. Achten Sie auf den rutschigen Untergrund bei den Kurven zum Leuchtturm. Der Nachmittag führt uns zur Baie d'Authie, wo die Natur unter dem Regen besonders wild wirkt, bevor wir den Rückweg im Schutz der Stadt antreten.",
             "hu": "Az eső ellenére Berck sík útjai nedvesen is jól kerékpározhatóak. Vízálló felszerelésben indulunk a part mentén, délben pedig a múzeumban keresünk menedéket. Ügyeljen a csúszós kanyarokra a világítótorony felé vezető úton. Délután az Authie-öböl vadregényes arcát mutatja az esőben, majd a város védelmében tekerünk vissza a szállásunkra.",
             "ro": "În ciuda ploii, drumurile plane din Berck rămân practicabile cu echipament impermeabil. Pornim pe coastă și căutăm adăpost la muzeu în timpul prânzului. Atenție la curbele alunecoase spre far. După-amiaza ne duce spre Baie d'Authie, unde natura pare mai sălbatică sub ploaie, înainte de a ne întoarce pe rutele mai protejate din oraș.",
-            "en": "Despite the rain, Berck's flat paths remain cyclable with waterproof gear. We start along the coast and seek shelter in the museum at noon. Watch out for slippery surfaces on the curves leading to the lighthouse. The afternoon takes us to Baie d'Authie, where nature feels wilder under the rain, before returning via the sheltered town routes."
+            "en": "Despite the rain, Berck's flat paths remain cyclable with waterproof gear. We start along the coast and seek shelter in the museum at noon. Watch out for slippery surfaces on the curves leading to the lighthouse. The afternoon takes us to Baie d'Authie, where nature feels wilder under the rain, before returning via the sheltered town routes.",
+            "fr": "Malgré la pluie, les chemins plats de Berck restent praticables à vélo avec un équipement imperméable. Nous commençons le long du littoral et nous abritons au musée à midi. Méfiez-vous des surfaces glissantes dans les courbes menant au phare. L’après-midi nous mène à la Baie d’Authie, où la nature semble plus sauvage sous la pluie, avant de revenir par les itinéraires abrités de la ville."
           },
           "stops": [
             {
@@ -519,13 +572,15 @@
                 "de": "Berck Beach",
                 "hu": "Berck Beach",
                 "ro": "Plaja Berck Beach",
-                "en": "Berck Beach"
+                "en": "Berck Beach",
+                "fr": "Plage de Berck"
               },
               "tip_5lang": {
                 "de": "Prüfen Sie Ihre Bremsen, da der Sand auf der nassen Promenade rutschig sein kann; genießen Sie den weiten Blick auf das graue, wilde Meer.",
                 "hu": "Ellenőrizze a fékeket, mert a nedves sétányon a homok csúszóssá teheti az utat; élvezze a kilátást a szürke, haragos tengerre.",
                 "ro": "Verificați frânele, deoarece nisipul de pe faleza udă poate deveni alunecos; bucurați-vă de vederea spre marea gri și agitată.",
-                "en": "Check your brakes as wet sand on the promenade can be slippery; enjoy the expansive view of the grey, wild sea from your saddle."
+                "en": "Check your brakes as wet sand on the promenade can be slippery; enjoy the expansive view of the grey, wild sea from your saddle.",
+                "fr": "Vérifiez vos freins car le sable humide sur la promenade peut être glissant ; profitez de la vaste vue sur la mer grise et sauvage depuis votre selle."
               }
             },
             {
@@ -533,13 +588,15 @@
                 "de": "Kirche Notre-Dame des Sables",
                 "hu": "Notre-Dame des Sables templom",
                 "ro": "Biserica Notre-Dame des Sables",
-                "en": "Church of Notre-Dame des Sables"
+                "en": "Church of Notre-Dame des Sables",
+                "fr": "Église Notre-Dame des Sables"
               },
               "tip_5lang": {
                 "de": "Stellen Sie Ihr Rad unter dem Vordach ab und nutzen Sie die Kirche für eine kurze Aufwärmpause im Trockenen vor der Weiterfahrt.",
                 "hu": "Parkoljon az előtető alatt, és használja a templomot egy rövid, száraz pihenőre, mielőtt továbbtekerne a múzeum felé.",
                 "ro": "Parcați bicicleta sub streașină și folosiți interiorul bisericii pentru o scurtă pauză uscată înainte de a continua traseul.",
-                "en": "Park your bike under the overhang and use the church for a short, dry break before continuing your ride towards the museum."
+                "en": "Park your bike under the overhang and use the church for a short, dry break before continuing your ride towards the museum.",
+                "fr": "Garez votre vélo sous le auvent et profitez de l’église pour une courte pause au sec avant de reprendre votre trajet vers le musée."
               }
             },
             {
@@ -547,13 +604,15 @@
                 "de": "Berck Museum",
                 "hu": "Berck Múzeum",
                 "ro": "Muzeul Berck",
-                "en": "Berck Museum"
+                "en": "Berck Museum",
+                "fr": "Musée de Berck"
               },
               "tip_5lang": {
                 "de": "Die ideale Station, um nasse Kleidung kurz zu lüften, während Sie die Kunstwerke bewundern; Fahrradständer befinden sich direkt am Eingang.",
                 "hu": "Ideális helyszín a nedves ruhák átszellőztetésére a műalkotások megtekintése közben; a kerékpártárolók közvetlenül a bejáratnál vannak.",
                 "ro": "Locul ideal pentru a vă scutura hainele ude în timp ce admirați arta; există rastele pentru biciclete chiar la intrare.",
-                "en": "The ideal stop to air out wet gear while admiring the artwork; bicycle racks are located conveniently right by the main entrance."
+                "en": "The ideal stop to air out wet gear while admiring the artwork; bicycle racks are located conveniently right by the main entrance.",
+                "fr": "L’arrêt idéal pour aérer l’équipement mouillé tout en admirant les œuvres ; des arceaux à vélos sont situés commodément près de l’entrée principale."
               }
             },
             {
@@ -561,13 +620,15 @@
                 "de": "Berck Strand",
                 "hu": "Berck tengerpart",
                 "ro": "Plaja Berck",
-                "en": "Berck Plage"
+                "en": "Berck Plage",
+                "fr": "Berck Plage"
               },
               "tip_5lang": {
                 "de": "Fahren Sie vorsichtig auf dem befestigten Weg; bei Regen sind kaum Fußgänger unterwegs, was Ihnen freie Fahrt für den Küstenblick gewährt.",
                 "hu": "Tekerjen óvatosan a kiépített úton; esőben alig vannak gyalogosok, így zavartalanul élvezheti a száguldást a part mentén.",
                 "ro": "Pedalați cu atenție pe drumul pavat; ploaia îndepărtează pietonii, oferindu-vă libertate totală pentru a admira coasta.",
-                "en": "Cycle carefully on the paved path; the rain clears away pedestrians, giving you total freedom to enjoy the coastal panorama."
+                "en": "Cycle carefully on the paved path; the rain clears away pedestrians, giving you total freedom to enjoy the coastal panorama.",
+                "fr": "Circuler prudemment sur le chemin pavé ; la pluie éloigne les piétons, vous laissant toute liberté pour profiter du panorama côtier."
               }
             },
             {
@@ -575,13 +636,15 @@
                 "de": "Leuchtturm von Berck",
                 "hu": "Berck világítótornya",
                 "ro": "Farul din Berck",
-                "en": "Berck Lighthouse"
+                "en": "Berck Lighthouse",
+                "fr": "Phare de Berck"
               },
               "tip_5lang": {
                 "de": "Der Boden um den Turm kann bei Nässe sehr glatt sein; machen Sie ein schnelles Foto vom dramatischen Kontrast des Turms zum Gewitterhimmel.",
                 "hu": "A torony körüli talaj nedvesen nagyon csúszós lehet; készítsen egy gyors fotót a torony és a viharos égbolt látványos kontrasztjáról.",
                 "ro": "Solul din jurul farului poate fi foarte alunecos când este ud; faceți o fotografie rapidă a contrastului dintre turn și cerul de furtună.",
-                "en": "The ground around the tower can be very slick when wet; take a quick photo of the dramatic contrast between the tower and the storm sky."
+                "en": "The ground around the tower can be very slick when wet; take a quick photo of the dramatic contrast between the tower and the storm sky.",
+                "fr": "Le sol autour de la tour peut être très glissant lorsqu’il est mouillé ; prenez rapidement une photo du contraste dramatique entre la tour et le ciel d’orage."
               }
             },
             {
@@ -589,13 +652,15 @@
                 "de": "Baie d'Authie",
                 "hu": "Authie-öböl",
                 "ro": "Baie d'Authie",
-                "en": "Baie d'Authie"
+                "en": "Baie d'Authie",
+                "fr": "Baie d'Authie"
               },
               "tip_5lang": {
                 "de": "Die unbefestigten Wege können schlammig sein; bei Regen wirken die Robben in der Bucht oft noch natürlicher in ihrem rauen Element.",
                 "hu": "A kiépítetlen utak sárga válhatnak; esőben az öbölben pihenő fókák még természetesebbnek hatnak a zord elemek között.",
                 "ro": "Potecile neamenajate pot deveni noroioase; pe ploaie, focile din golf par și mai integrate în elementul lor natural brut.",
-                "en": "Unpaved paths may get muddy; during the rain, the seals in the bay often look even more at home in their raw, natural element."
+                "en": "Unpaved paths may get muddy; during the rain, the seals in the bay often look even more at home in their raw, natural element.",
+                "fr": "Les chemins non revêtus peuvent devenir boueux ; pendant la pluie, les phoques dans la baie paraissent souvent encore plus à l’aise dans leur élément brut et naturel."
               }
             }
           ]
@@ -605,7 +670,8 @@
             "de": "Der Winterwind kann auf dem Rad fordernd sein, also wählen wir windgeschützte Routen durch die Stadt. Nach dem Erfrischen am Strand nutzen wir die Mittagszeit für das Museum zum Aufwärmen. Am Nachmittag radeln wir zügig zur Baie d'Authie, um die Robben vor der frühen Dämmerung zu sehen. Gegen 17:00 Uhr sollte die Tour enden, wenn die Kälte mit dem schwindenden Licht zunimmt.",
             "hu": "A téli szél kihívást jelenthet a kerékpáron, ezért szélvédettebb városi útvonalakat választunk. A tengerparti frissítő tekerés után a délidőt a múzeumban töltjük melegedéssel. Délután tempósan tekerünk az Authie-öbölhöz, hogy még a korai sötétedés előtt láthassuk a fókákat. 17 óra felé fejezzük be a túrát, amikor a fényekkel együtt a hideg is megérkezik.",
             "ro": "Vântul de iarnă poate fi solicitant pe bicicletă, așa că alegem rute mai protejate prin oraș. După o tură revigorantă pe plajă, folosim prânzul la muzeu pentru reîncălzire. După-amiaza pedalăm alert spre Baie d'Authie pentru a vedea focile înainte de amurgul timpuriu. Încheiem tura în jurul orei 17:00, când frigul se intensifică.",
-            "en": "Winter winds can be challenging on a bike, so we choose sheltered city routes. After a refreshing coastal ride, use lunchtime at the museum to warm up. In the afternoon, cycle briskly to Baie d'Authie to spot the seals before the early twilight. Aim to finish by 5:00 PM as the temperature drops sharply with the fading light."
+            "en": "Winter winds can be challenging on a bike, so we choose sheltered city routes. After a refreshing coastal ride, use lunchtime at the museum to warm up. In the afternoon, cycle briskly to Baie d'Authie to spot the seals before the early twilight. Aim to finish by 5:00 PM as the temperature drops sharply with the fading light.",
+            "fr": "Les vents d’hiver peuvent rendre le vélo difficile, nous choisissons donc des itinéraires abrités en ville. Après une balade revigorante le long du littoral, profitez du déjeuner au musée pour vous réchauffer. L’après-midi, pédalez vigoureusement jusqu’à la Baie d’Authie pour repérer les phoques avant la tombée précoce du crépuscule. Visez la fin de la journée à 17:00 car la température chute fortement avec la lumière déclinante."
           },
           "stops": [
             {
@@ -613,13 +679,15 @@
                 "de": "Berck Beach",
                 "hu": "Berck Beach",
                 "ro": "Plaja Berck Beach",
-                "en": "Berck Beach"
+                "en": "Berck Beach",
+                "fr": "Plage de Berck"
               },
               "tip_5lang": {
                 "de": "Tragen Sie unbedingt winddichte Handschuhe, da die Brise am Strand beißend kalt ist; genießen Sie die leere Promenade für freie Fahrt.",
                 "hu": "Mindenképpen viseljen szélálló kesztyűt, mert a tengerparti szellő metszően hideg; élvezze az üres sétányt a zavartalan tekeréshez.",
                 "ro": "Purtați neapărat mănuși rezistente la vânt, briza de pe plajă fiind tăioasă; profitați de faleza goală pentru a pedala fără restricții.",
-                "en": "Be sure to wear windproof gloves as the beach breeze is biting; enjoy the empty promenade for an unhindered ride along the coast."
+                "en": "Be sure to wear windproof gloves as the beach breeze is biting; enjoy the empty promenade for an unhindered ride along the coast.",
+                "fr": "Portez des gants coupe-vent car la brise de la plage est mordante ; profitez de la promenade vide pour une balade côtière sans entrave."
               }
             },
             {
@@ -627,13 +695,15 @@
                 "de": "Kirche Notre-Dame des Sables",
                 "hu": "Notre-Dame des Sables templom",
                 "ro": "Biserica Notre-Dame des Sables",
-                "en": "Church of Notre-Dame des Sables"
+                "en": "Church of Notre-Dame des Sables",
+                "fr": "Église Notre-Dame des Sables"
               },
               "tip_5lang": {
                 "de": "Nutzen Sie den Stopp für ein kurzes Aufwärmen; die Holzarchitektur wirkt im Winterlicht besonders warm und einladend auf Radfahrer.",
                 "hu": "Használja ki a megállót egy rövid melegedésre; a faépítészet a téli fényben különösen melegnek és hívogatónak tűnik a bringások számára.",
                 "ro": "Folosiți oprirea pentru o scurtă reîncălzire; arhitectura din lemn pare deosebit de primitoare în lumina rece de iarnă.",
-                "en": "Use this stop for a quick warm-up; the wooden architecture feels especially cozy and inviting in the winter light for weary cyclists."
+                "en": "Use this stop for a quick warm-up; the wooden architecture feels especially cozy and inviting in the winter light for weary cyclists.",
+                "fr": "Utilisez cet arrêt pour un rapide réchauffement ; l’architecture en bois est particulièrement chaleureuse et accueillante à la lumière de l’hiver pour les cyclistes fatigués."
               }
             },
             {
@@ -641,13 +711,15 @@
                 "de": "Berck Museum",
                 "hu": "Berck Múzeum",
                 "ro": "Muzeul Berck",
-                "en": "Berck Museum"
+                "en": "Berck Museum",
+                "fr": "Musée de Berck"
               },
               "tip_5lang": {
                 "de": "Der perfekte Ort für eine längere Pause fernab der Kälte; parken Sie Ihr Rad sicher und wärmen Sie sich bei der Kunst der Opal Küste auf.",
                 "hu": "Tökéletes helyszín egy hosszabb pihenőre a hideg elől; parkoljon le biztonságosan, és melegedjen fel az Opál-part művészete mellett.",
                 "ro": "Locul perfect pentru o pauză prelungită departe de frig; parcați bicicleta în siguranță și încălziți-vă admirând arta Coastei de Opal.",
-                "en": "The perfect spot for a long break away from the frost; park your bike securely and warm up while admiring the art of the Opal Coast."
+                "en": "The perfect spot for a long break away from the frost; park your bike securely and warm up while admiring the art of the Opal Coast.",
+                "fr": "L’endroit parfait pour une longue pause à l’abri du gel ; garez votre vélo en toute sécurité et réchauffez-vous tout en admirant l’art du littoral d’Opale."
               }
             },
             {
@@ -655,13 +727,15 @@
                 "de": "Berck Strand",
                 "hu": "Berck tengerpart",
                 "ro": "Plaja Berck",
-                "en": "Berck Plage"
+                "en": "Berck Plage",
+                "fr": "Berck Plage"
               },
               "tip_5lang": {
                 "de": "Das Winterlicht am späten Mittag ist ideal für Fotos; achten Sie auf Sandverwehungen auf dem Radweg, die bei Frost hart sein können.",
                 "hu": "A kora délutáni téli fények ideálisak a fotózáshoz; ügyeljen a kerékpárútra fújt homokra, amely fagyban keménnyé és egyenetlenné válhat.",
                 "ro": "Lumina de iarnă de la prânz este ideală pentru fotografii; atenție la dunele de nisip de pe pistă, care pot îngheța și deveni dure.",
-                "en": "The late midday winter light is ideal for photography; watch out for sand drifts on the path which can become hard and bumpy in the frost."
+                "en": "The late midday winter light is ideal for photography; watch out for sand drifts on the path which can become hard and bumpy in the frost.",
+                "fr": "La lumière tardive de midi en hiver est idéale pour la photographie ; méfiez-vous des bancs de sable sur le chemin qui peuvent devenir durs et cahoteux sous le gel."
               }
             },
             {
@@ -669,13 +743,15 @@
                 "de": "Leuchtturm von Berck",
                 "hu": "Berck világítótornya",
                 "ro": "Farul din Berck",
-                "en": "Berck Lighthouse"
+                "en": "Berck Lighthouse",
+                "fr": "Phare de Berck"
               },
               "tip_5lang": {
                 "de": "Machen Sie eine schnelle Runde um den Turm; das klare Wetter bietet oft eine Sicht bis weit über den Ärmelkanal hinaus.",
                 "hu": "Tekerjen egy gyors kört a torony körül; a tiszta téli időben gyakran egészen messzire el lehet látni a Csatorna felett.",
                 "ro": "Faceți o tură rapidă în jurul farului; vremea senină de iarnă oferă adesea o vizibilitate excelentă peste Canalul Mânecii.",
-                "en": "Take a quick ride around the tower; the clear winter weather often provides visibility far across the English Channel."
+                "en": "Take a quick ride around the tower; the clear winter weather often provides visibility far across the English Channel.",
+                "fr": "Faites un petit tour autour de la tour ; le temps hivernal clair offre souvent une visibilité lointaine à travers la Manche."
               }
             },
             {
@@ -683,13 +759,15 @@
                 "de": "Baie d'Authie",
                 "hu": "Authie-öböl",
                 "ro": "Baie d'Authie",
-                "en": "Baie d'Authie"
+                "en": "Baie d'Authie",
+                "fr": "Baie d'Authie"
               },
               "tip_5lang": {
                 "de": "Suchen Sie die Robben, die im Winter oft zahlreicher sind; treten Sie den Rückweg vor 16:30 Uhr an, bevor es dunkel und eisig wird.",
                 "hu": "Keresse a fókákat, amelyek télen gyakran többen vannak; induljon vissza 16:30 előtt, mielőtt sötét és jeges lesz az idő.",
                 "ro": "Căutați focile care sunt adesea mai numeroase iarna; porniți înapoi înainte de 16:30, înainte să se întunece și să înghețe.",
-                "en": "Look for the seals, which are often more numerous in winter; start your return journey by 4:30 PM before it gets dark and icy."
+                "en": "Look for the seals, which are often more numerous in winter; start your return journey by 4:30 PM before it gets dark and icy.",
+                "fr": "Cherchez les phoques, souvent plus nombreux en hiver ; commencez votre retour vers 16:30 avant qu’il ne fasse sombre et verglacé."
               }
             }
           ]
@@ -709,7 +787,8 @@
             "de": "Baie d'Authie",
             "hu": "Authie-öböl",
             "ro": "Baie d'Authie",
-            "en": "Baie d'Authie"
+            "en": "Baie d'Authie",
+            "fr": "Baie d'Authie"
           },
           "coords": [
             1.576366,
@@ -724,7 +803,8 @@
             "de": "Beobachten Sie die majestätischen Robben in ihrem natürlichen Lebensraum in der malerischen Bucht, und bringen Sie ein Fernglas für die beste Sicht mit.",
             "hu": "Figyelje meg a fenséges fókákat természetes élőhelyükön ebben a festői öbölben, és mindenképpen hozzon magával távcsövet a legtisztább látvány érdekében.",
             "ro": "Observați focile maiestuoase în habitatul lor natural din acest golf pitoresc și asigurați-vă că aduceți un binoclu pentru a obține cea mai bună vedere.",
-            "en": "Observe the majestic seals resting in their natural habitat across the picturesque bay, and make sure to bring a pair of binoculars for the clearest view."
+            "en": "Observe the majestic seals resting in their natural habitat across the picturesque bay, and make sure to bring a pair of binoculars for the clearest view.",
+            "fr": "Observez les phoques majestueux se reposant dans leur habitat naturel à travers la baie pittoresque, et pensez à apporter une paire de jumelles pour une vue la plus nette possible."
           }
         },
         {
@@ -732,7 +812,8 @@
             "de": "Leuchtturm von Berck",
             "hu": "Berck világítótornya",
             "ro": "Farul din Berck",
-            "en": "Berck Lighthouse"
+            "en": "Berck Lighthouse",
+            "fr": "Phare de Berck"
           },
           "coords": [
             1.560801,
@@ -747,7 +828,8 @@
             "de": "Genießen Sie den atemberaubenden Blick über die Küste vom historischen Leuchtturm aus, aber prüfen Sie vorher die Öffnungszeiten für geführte Touren.",
             "hu": "Élvezze a lélegzetelállító kilátást a partra a történelmi világítótoronyból, de érkezés előtt mindenképpen ellenőrizze az idegenvezetések időpontjait.",
             "ro": "Bucurați-vă de o priveliște uluitoare asupra coastei de la farul istoric, dar verificați în prealabil programul de funcționare pentru tururile ghidate.",
-            "en": "Enjoy the breathtaking panoramic view of the coastline from the historical lighthouse, but always check the guided tour schedules online before your visit."
+            "en": "Enjoy the breathtaking panoramic view of the coastline from the historical lighthouse, but always check the guided tour schedules online before your visit.",
+            "fr": "Profitez de la vue panoramique à couper le souffle sur la côte depuis le phare historique, mais vérifiez toujours les horaires des visites guidées en ligne avant votre venue."
           }
         },
         {
@@ -755,7 +837,8 @@
             "de": "Berck Museum",
             "hu": "Berck Múzeum",
             "ro": "Muzeul Berck",
-            "en": "Berck Museum"
+            "en": "Berck Museum",
+            "fr": "Musée de Berck"
           },
           "coords": [
             1.565645,
@@ -770,7 +853,8 @@
             "de": "Entdecken Sie die beeindruckende maritime Kunstsammlung, die die Traditionen der Region veranschaulicht, und buchen Sie Ihr Ticket am besten vorab online.",
             "hu": "Fedezze fel a lenyűgöző tengerészeti gyűjteményt, amely a régió hagyományait mutatja be, és a várakozás elkerülése érdekében vegye meg jegyét online.",
             "ro": "Descoperiți impresionanta colecție de artă maritimă care ilustrează tradițiile regiunii și cumpărați biletele online în prealabil pentru a evita cozile.",
-            "en": "Discover the impressive maritime art collection illustrating the region's rich traditions, and book your tickets online in advance to skip the waiting lines."
+            "en": "Discover the impressive maritime art collection illustrating the region's rich traditions, and book your tickets online in advance to skip the waiting lines.",
+            "fr": "Découvrez l’impressionnante collection d’art maritime illustrant les riches traditions de la région, et réservez vos billets en ligne à l’avance pour éviter les files d’attente."
           }
         },
         {
@@ -778,7 +862,8 @@
             "de": "Kirche Notre-Dame des Sables",
             "hu": "Notre-Dame des Sables templom",
             "ro": "Biserica Notre-Dame des Sables",
-            "en": "Church of Notre-Dame des Sables"
+            "en": "Church of Notre-Dame des Sables",
+            "fr": "Église Notre-Dame des Sables"
           },
           "coords": [
             1.565753,
@@ -793,7 +878,8 @@
             "de": "Betrachten Sie die faszinierenden Holzarbeiten im Inneren dieses charmanten Gebäudes, und verbinden Sie den Besuch mit einem Marktbummel in der Umgebung.",
             "hu": "Figyelje meg a lenyűgöző fafaragásokat ennek a bájos épületnek a belsejében, és kösse össze a látogatást egy hangulatos sétával a közeli piacon.",
             "ro": "Observați sculpturile fascinante din lemn în interiorul acestei clădiri fermecătoare și combinați vizita cu o plimbare relaxantă prin piața din apropiere.",
-            "en": "Observe the fascinating woodwork inside this charmingly designed building, and combine your relaxing visit with a nice stroll through the nearby local market."
+            "en": "Observe the fascinating woodwork inside this charmingly designed building, and combine your relaxing visit with a nice stroll through the nearby local market.",
+            "fr": "Observez le travail du bois fascinant à l’intérieur de ce bâtiment au charme étudié, et combinez votre visite détente avec une agréable promenade au marché local à proximité."
           }
         },
         {
@@ -801,7 +887,8 @@
             "de": "Berck Beach",
             "hu": "Berck Beach",
             "ro": "Plaja Berck Beach",
-            "en": "Berck Beach"
+            "en": "Berck Beach",
+            "fr": "Plage de Berck"
           },
           "coords": [
             1.591582,
@@ -816,7 +903,8 @@
             "de": "Erleben Sie die Weitläufigkeit dieses malerischen Strandes, der ideal für Drachensteigen ist, und kommen Sie bei Ebbe für die besten Strandwanderungen.",
             "hu": "Tapasztalja meg a festői partvidék tágasságát, amely ideális a sárkányeregetéshez, és apály idején érkezzen a legszebb tengerparti sétákhoz a homokban.",
             "ro": "Experimentați imensitatea acestei plaje pitorești, ideală pentru înălțarea zmeielor, și vizitați la reflux pentru cele mai bune plimbări pe nisipul fin.",
-            "en": "Experience the vastness of this picturesque beach which is an ideal spot for kite flying, and make sure to visit during low tide for the best sandy walks."
+            "en": "Experience the vastness of this picturesque beach which is an ideal spot for kite flying, and make sure to visit during low tide for the best sandy walks.",
+            "fr": "Vivez l’immensité de cette plage pittoresque, endroit idéal pour le cerf-volant ; veillez à la visiter à marée basse pour les meilleures promenades sur le sable."
           }
         },
         {
@@ -824,7 +912,8 @@
             "de": "Le Catajack",
             "hu": "Le Catajack",
             "ro": "Le Catajack",
-            "en": "Le Catajack"
+            "en": "Le Catajack",
+            "fr": "Le Catajack"
           },
           "coords": [
             1.599382,
@@ -839,7 +928,8 @@
             "de": "Genießen Sie lustige Momente mit den Kindern auf diesem sicheren Abenteuerspielplatz, und besuchen Sie den Park am besten vormittags, wenn es ruhiger ist.",
             "hu": "Élvezze a vidám pillanatokat a gyerekekkel ezen a biztonságos kalandjátszótéren, és próbáljon meg délelőtt érkezni, amikor a park még sokkal nyugodtabb.",
             "ro": "Bucurați-vă de momente amuzante cu copiii la acest loc de joacă de aventură sigur și vizitați parcul în timpul dimineții când este mult mai liniștit.",
-            "en": "Enjoy fun moments with your children at this completely safe adventure playground, and plan to visit during the morning hours when the park is much quieter."
+            "en": "Enjoy fun moments with your children at this completely safe adventure playground, and plan to visit during the morning hours when the park is much quieter.",
+            "fr": "Profitez de moments ludiques avec vos enfants dans cette aire de jeux d’aventure totalement sécurisée, et prévoyez une visite le matin quand le parc est beaucoup plus calme."
           }
         },
         {
@@ -847,7 +937,8 @@
             "de": "River Splash",
             "hu": "River Splash",
             "ro": "River Splash",
-            "en": "River Splash"
+            "en": "River Splash",
+            "fr": "River Splash"
           },
           "coords": [
             1.602718,
@@ -862,7 +953,8 @@
             "de": "Erleben Sie spritzige Wasserfahrten, die an warmen Sommertagen für perfekte Abkühlung sorgen, und bewahren Sie Ihre Wertsachen in den Schließfächern auf.",
             "hu": "Próbálja ki a frissítő vízi attrakciókat, amelyek tökéletes lehűlést nyújtanak a meleg napokon, és biztonság kedvéért használja a zárható szekrényeket.",
             "ro": "Experimentați atracțiile acvatice răcoritoare care oferă o ușurare perfectă în zilele calde de vară și păstrați-vă obiectele de valoare în vestiare.",
-            "en": "Experience the thrilling water rides providing perfect cooling on warm summer days, and make sure to keep your valuable items safely secured in the lockers."
+            "en": "Experience the thrilling water rides providing perfect cooling on warm summer days, and make sure to keep your valuable items safely secured in the lockers.",
+            "fr": "Vivez les sensations fortes des toboggans aquatiques, parfaits pour vous rafraîchir les jours d’été chauds ; veillez à garder vos objets de valeur en sécurité dans les casiers."
           }
         }
       ],
@@ -870,7 +962,8 @@
         "de": "Mit dem Auto erkunden Sie mühelos alle Highlights. Der Morgen beginnt mit den Robben in der Baie d'Authie. Später fahren Sie ins Zentrum, um das Museum und den Strand zu besuchen. Am Nachmittag locken die Freizeitparks im Norden, ideal für einen abenteuerlichen Tagesausschluss.",
         "hu": "Autóval kényelmesen felfedezheti a régió látnivalóit. A napot a Baie d'Authie fókáinál kezdi, majd a központba hajt a múzeumhoz és a parthoz. Késő délután az északi vidámparkok kínálnak izgalmas programot, tökéletes befejezést nyújtva egy eseménydús napnak.",
         "ro": "Cu mașina veți explora cu ușurință toate atracțiile. Dimineața începe cu focile din Baie d'Authie. Mai târziu conduceți spre centru pentru a vizita muzeul și plaja. După-amiaza, parcurile de distracții din nord oferă programul ideal pentru a încheia o zi plină de aventuri.",
-        "en": "By car, you can effortlessly explore all the regional highlights. Your morning begins with the seals at Baie d'Authie. Later, drive to the center to visit the museum and the lovely beach. In the late afternoon, the northern amusement parks provide an adventurous end to the day."
+        "en": "By car, you can effortlessly explore all the regional highlights. Your morning begins with the seals at Baie d'Authie. Later, drive to the center to visit the museum and the lovely beach. In the late afternoon, the northern amusement parks provide an adventurous end to the day.",
+        "fr": "En voiture, vous pouvez explorer sans effort tous les points forts de la région. Votre matinée commence avec les phoques à la Baie d’Authie. Ensuite, conduisez au centre pour visiter le musée et la belle plage. En fin d’après-midi, les parcs d’attractions du nord offrent une conclusion aventureuse à la journée."
       },
       "variants": {
         "rainy": {
@@ -878,7 +971,8 @@
             "de": "Das Auto ist die beste Wahl, um Berck bei Regen komfortabel zu erkunden. Wir beginnen an der Baie d'Authie, wo Sie die Natur bequem vom Wagen aus beobachten können. Mittags bietet das Museum trockene Kultur, während die Kirchen am Nachmittag kurze, geschützte Stopps ermöglichen. Den Tag schließen wir bei den Indoor-Attraktionen im Norden ab, während der Regen draußen an die Scheiben klopft.",
             "hu": "Az autó a legjobb választás Berck kényelmes felfedezéséhez esős időben. Az Authie-öböllel kezdünk, ahol a természetet akár a kocsiból is megfigyelheti. Délben a múzeum nyújt száraz kulturális élményt, délután pedig a templomok kínálnak rövid, védett megállókat. A napot az északi rész fedett látnivalóinál zárjuk, miközben az eső odakint az ablakokon kopog.",
             "ro": "Mașina este cea mai bună opțiune pentru a explora Berck confortabil pe ploaie. Începem la Baie d'Authie, unde puteți observa natura din confortul vehiculului. La prânz, muzeul oferă cultură la adăpost, iar după-amiaza bisericile sunt opriri scurte și protejate. Încheiem ziua la atracțiile de interior din nord, în timp ce ploaia bate în parbriz.",
-            "en": "The car is the best choice for exploring Berck comfortably during rainy weather. We start at Baie d'Authie, where you can observe nature from the comfort of your vehicle. At noon, the museum provides dry cultural enrichment, and in the afternoon, the churches offer short, sheltered stops. Finish the day at the indoor attractions in the north while the rain taps on the windows."
+            "en": "The car is the best choice for exploring Berck comfortably during rainy weather. We start at Baie d'Authie, where you can observe nature from the comfort of your vehicle. At noon, the museum provides dry cultural enrichment, and in the afternoon, the churches offer short, sheltered stops. Finish the day at the indoor attractions in the north while the rain taps on the windows.",
+            "fr": "La voiture est le meilleur choix pour visiter Berck confortablement par temps de pluie. Nous commençons à la Baie d’Authie, où vous pouvez observer la nature depuis le confort de votre véhicule. À midi, le musée offre un enrichissement culturel au sec, et l’après-midi les églises proposent de courts arrêts abrités. Terminez la journée dans les attractions couvertes du nord pendant que la pluie tambourine sur les vitres."
           },
           "stops": [
             {
@@ -886,13 +980,15 @@
                 "de": "Baie d'Authie",
                 "hu": "Authie-öböl",
                 "ro": "Baie d'Authie",
-                "en": "Baie d'Authie"
+                "en": "Baie d'Authie",
+                "fr": "Baie d'Authie"
               },
               "tip_5lang": {
                 "de": "Nutzen Sie den Parkplatz mit Blick auf die Bucht; so können Sie die Robben beobachten, ohne im strömenden Regen nass zu werden.",
                 "hu": "Használja az öbölre néző parkolót; így kényelmesen megfigyelheti a fókákat anélkül, hogy elázna a szakadó esőben.",
                 "ro": "Folosiți parcarea cu vedere spre golf; astfel puteți observa focile fără a vă uda în ploaia torențială.",
-                "en": "Use the parking area overlooking the bay; this allows you to spot the seals without getting soaked in the pouring rain."
+                "en": "Use the parking area overlooking the bay; this allows you to spot the seals without getting soaked in the pouring rain.",
+                "fr": "Utilisez l’aire de stationnement surplombant la baie ; cela vous permet d’observer les phoques sans vous faire tremper sous la pluie battante."
               }
             },
             {
@@ -900,13 +996,15 @@
                 "de": "Leuchtturm von Berck",
                 "hu": "Berck világítótornya",
                 "ro": "Farul din Berck",
-                "en": "Berck Lighthouse"
+                "en": "Berck Lighthouse",
+                "fr": "Phare de Berck"
               },
               "tip_5lang": {
                 "de": "Parken Sie direkt in der Nähe für ein kurzes Foto; der Kontrast des Turms zum nassen Asphalt ist ein tolles Motiv bei Regen.",
                 "hu": "Parkoljon közvetlenül a közelben egy gyors fotó erejéig; a torony és a vizes aszfalt kontrasztja remek téma esős időben.",
                 "ro": "Parcați chiar în apropiere pentru o fotografie rapidă; contrastul dintre far și asfaltul ud este un motiv excelent pe ploaie.",
-                "en": "Park right nearby for a quick photo; the contrast between the tower and the wet asphalt makes for a great rainy-day subject."
+                "en": "Park right nearby for a quick photo; the contrast between the tower and the wet asphalt makes for a great rainy-day subject.",
+                "fr": "Garez-vous juste à proximité pour une photo rapide ; le contraste entre la tour et l’asphalte mouillé fait un excellent sujet de jour de pluie."
               }
             },
             {
@@ -914,13 +1012,15 @@
                 "de": "Berck Museum",
                 "hu": "Berck Múzeum",
                 "ro": "Muzeul Berck",
-                "en": "Berck Museum"
+                "en": "Berck Museum",
+                "fr": "Musée de Berck"
               },
               "tip_5lang": {
                 "de": "Es gibt ausreichend Parkmöglichkeiten in der Nähe; genießen Sie die trockene Wärme, während draußen ein typischer Küstenregen fällt.",
                 "hu": "Elegendő parkolóhely van a közelben; élvezze a benti száraz meleget, miközben odakint a tipikus tengerparti eső esik.",
                 "ro": "Există locuri de parcare suficiente în apropiere; bucurați-vă de căldura din interior în timp ce afară cade o ploaie tipică de coastă.",
-                "en": "There is plenty of parking nearby; enjoy the dry warmth inside while a typical coastal rain falls outside the museum walls."
+                "en": "There is plenty of parking nearby; enjoy the dry warmth inside while a typical coastal rain falls outside the museum walls.",
+                "fr": "Il y a beaucoup de places de parking à proximité ; profitez de la chaleur à l’intérieur pendant qu’une pluie côtière typique tombe à l’extérieur des murs du musée."
               }
             },
             {
@@ -928,13 +1028,15 @@
                 "de": "Kirche Notre-Dame des Sables",
                 "hu": "Notre-Dame des Sables templom",
                 "ro": "Biserica Notre-Dame des Sables",
-                "en": "Church of Notre-Dame des Sables"
+                "en": "Church of Notre-Dame des Sables",
+                "fr": "Église Notre-Dame des Sables"
               },
               "tip_5lang": {
                 "de": "Ein idealer Kurzstopp, um die beeindruckende Holzdecke zu sehen; der Eingang ist nur wenige Schritte von den Parkplätzen entfernt.",
                 "hu": "Ideális rövid megálló a lenyűgöző famennyezet megtekintéséhez; a bejárat csak pár lépésre van a parkolóhelyektől.",
                 "ro": "O oprire scurtă ideală pentru a vedea tavanul de lemn; intrarea este la doar câțiva pași de locurile de parcare.",
-                "en": "An ideal short stop to see the impressive wooden ceiling; the entrance is just a few steps from the parking spaces."
+                "en": "An ideal short stop to see the impressive wooden ceiling; the entrance is just a few steps from the parking spaces.",
+                "fr": "Un arrêt court idéal pour voir le plafond en bois impressionnant ; l’entrée se trouve à quelques pas des places de parking."
               }
             },
             {
@@ -942,13 +1044,15 @@
                 "de": "Berck Beach",
                 "hu": "Berck Beach",
                 "ro": "Plaja Berck Beach",
-                "en": "Berck Beach"
+                "en": "Berck Beach",
+                "fr": "Plage de Berck"
               },
               "tip_5lang": {
                 "de": "Genießen Sie den Blick auf die Brandung durch die Windschutzscheibe; die Parkplätze an der Promenade bieten eine tolle Aussicht im Trockenen.",
                 "hu": "Élvezze a hullámverés látványát a szélvédőn keresztül; a sétány menti parkolók remek kilátást nyújtanak a száraz kocsiból.",
                 "ro": "Admirați valurile prin parbriz; parcările de pe faleză oferă o vedere excelentă fără a fi nevoie să ieșiți în ploaie.",
-                "en": "Enjoy the view of the surf through your windshield; the parking lots along the promenade offer a great vista while staying dry."
+                "en": "Enjoy the view of the surf through your windshield; the parking lots along the promenade offer a great vista while staying dry.",
+                "fr": "Profitez de la vue sur le ressac depuis votre pare-brise ; les parkings le long de la promenade offrent une belle vue tout en restant au sec."
               }
             },
             {
@@ -956,13 +1060,15 @@
                 "de": "Le Catajack",
                 "hu": "Le Catajack",
                 "ro": "Le Catajack",
-                "en": "Le Catajack"
+                "en": "Le Catajack",
+                "fr": "Le Catajack"
               },
               "tip_5lang": {
                 "de": "Prüfen Sie die aktuellen Öffnungszeiten bei Regen; viele Aktivitäten hier sind witterungsabhängig, aber die Fahrt dorthin ist gut ausgebaut.",
                 "hu": "Ellenőrizze az aktuális nyitvatartást esőben; sok tevékenység időjárásfüggő, de az odavezető út jól kiépített és könnyen járható.",
                 "ro": "Verificați programul actualizat pe timp de ploaie; multe activități depind de vreme, dar drumul până acolo este bine întreținut.",
-                "en": "Check the current opening times during rain; many activities are weather-dependent, but the drive there is well-maintained and easy."
+                "en": "Check the current opening times during rain; many activities are weather-dependent, but the drive there is well-maintained and easy.",
+                "fr": "Vérifiez les horaires d’ouverture actuels par temps de pluie ; de nombreuses activités dépendent de la météo, mais la route est bien entretenue et facile d’accès."
               }
             },
             {
@@ -970,13 +1076,15 @@
                 "de": "River Splash",
                 "hu": "River Splash",
                 "ro": "River Splash",
-                "en": "River Splash"
+                "en": "River Splash",
+                "fr": "River Splash"
               },
               "tip_5lang": {
                 "de": "Dieser Ort ist bei leichtem Regen oft weniger besucht; tragen Sie wasserfeste Kleidung für den Weg vom Parkplatz zur Attraktion.",
                 "hu": "Enyhe esőben ez a helyszín gyakran kevésbé zsúfolt; viseljen vízálló ruhát a parkolótól a látnivalóig tartó rövid úton.",
                 "ro": "Această locație este adesea mai puțin aglomerată pe ploaie ușoăra; purtați haine impermeabile pentru drumul de la parcare la atracție.",
-                "en": "This spot is often less crowded during light rain; wear waterproof clothing for the short walk from the parking lot to the attraction."
+                "en": "This spot is often less crowded during light rain; wear waterproof clothing for the short walk from the parking lot to the attraction.",
+                "fr": "Cet endroit est souvent moins fréquenté sous une pluie légère ; portez des vêtements imperméables pour la courte marche depuis le parking jusqu’à l’attraction."
               }
             }
           ]
@@ -986,7 +1094,8 @@
             "de": "Im Winter bietet das Auto die nötige Wärme zwischen den Küstenstopps. Wir beginnen morgens an der Baie d'Authie, um die Robben bei bestem Licht zu sehen. Mittags wärmen wir uns im Museum auf, bevor wir am Nachmittag die Kirchen und den Strand besuchen. Da es gegen 17:00 Uhr dunkel wird, nutzen wir die Dämmerung für eine Panoramafahrt entlang der beleuchteten Küstenstraße.",
             "hu": "Télen az autó biztosítja a szükséges meleget a tengerparti megállók között. Reggel az Authie-öbölben kezdünk, hogy a legjobb fényekben láthassuk a fókákat. Délben a múzeumban melegszünk fel, majd délután a templomok és a strand következik. Mivel 17 óra körül sötétedik, a szürkületet egy panorámás autózásra használjuk a kivilágított parton.",
             "ro": "Iarna, mașina oferă căldura necesară între opririle pe coastă. Începem dimineața la Baie d'Authie pentru a vedea focile în cea mai bună lumină. La prânz ne încălzim la muzeu, înainte de a vizita bisericile și plaja după-amiaza. Deoarece se întunecă în jur de ora 17:00, folosim amurgul pentru o plimbare panoramică pe faleză.",
-            "en": "In winter, the car provides essential warmth between coastal stops. We start at Baie d'Authie in the morning to catch the seals in the best light. At noon, warm up at the museum before visiting the churches and beach in the afternoon. As it gets dark around 5:00 PM, use the twilight for a scenic drive along the illuminated coastline."
+            "en": "In winter, the car provides essential warmth between coastal stops. We start at Baie d'Authie in the morning to catch the seals in the best light. At noon, warm up at the museum before visiting the churches and beach in the afternoon. As it gets dark around 5:00 PM, use the twilight for a scenic drive along the illuminated coastline.",
+            "fr": "En hiver, la voiture fournit la chaleur essentielle entre les arrêts côtiers. Nous commençons à la Baie d’Authie le matin pour observer les phoques à la meilleure lumière. À midi, réchauffez-vous au musée avant de visiter les églises et la plage l’après-midi. Quand il fait nuit vers 17:00, profitez du crépuscule pour une promenade en voiture le long du littoral illuminé."
           },
           "stops": [
             {
@@ -994,13 +1103,15 @@
                 "de": "Baie d'Authie",
                 "hu": "Authie-öböl",
                 "ro": "Baie d'Authie",
-                "en": "Baie d'Authie"
+                "en": "Baie d'Authie",
+                "fr": "Baie d'Authie"
               },
               "tip_5lang": {
                 "de": "Kommen Sie früh am Vormittag für die beste Sicht; die Robben liegen oft in Gruppen am Ufer, um die schwache Wintersonne zu genießen.",
                 "hu": "Érkezzen korán délelőtt a legjobb látványért; a fókák gyakran csoportokba verődve pihennek a parton, élvezve a gyenge téli napsütést.",
                 "ro": "Veniți dimineața devreme pentru cea mai bună vizibilitate; focile stau adesea în grupuri pe mal pentru a profita de soarele slab de iarnă.",
-                "en": "Arrive early in the morning for the best visibility; seals often gather on the shore to soak up the faint winter sun together."
+                "en": "Arrive early in the morning for the best visibility; seals often gather on the shore to soak up the faint winter sun together.",
+                "fr": "Arrivez tôt le matin pour la meilleure visibilité ; les phoques se rassemblent souvent sur le rivage pour profiter ensemble du faible soleil d’hiver."
               }
             },
             {
@@ -1008,13 +1119,15 @@
                 "de": "Leuchtturm von Berck",
                 "hu": "Berck világítótornya",
                 "ro": "Farul din Berck",
-                "en": "Berck Lighthouse"
+                "en": "Berck Lighthouse",
+                "fr": "Phare de Berck"
               },
               "tip_5lang": {
                 "de": "Die klare Winterluft ermöglicht weite Blicke; halten Sie nur kurz für Fotos an, um nicht zu sehr im kalten Küstenwind auszukühlen.",
                 "hu": "A tiszta téli levegő nagy látótávolságot biztosít; csak rövid időre szálljon ki fotózni, hogy ne hűljön át a metsző tengeri szélben.",
                 "ro": "Aerul curat de iarnă oferă o vizibilitate excelentă; opriți doar scurt pentru poze pentru a nu îngheța în vântul tăios de coastă.",
-                "en": "The clear winter air allows for far-reaching views; stop only briefly for photos to avoid getting chilled by the sharp coastal wind."
+                "en": "The clear winter air allows for far-reaching views; stop only briefly for photos to avoid getting chilled by the sharp coastal wind.",
+                "fr": "L’air hivernal clair permet des vues lointaines ; arrêtez-vous brièvement pour des photos afin d’éviter d’être engourdi par le vent côtier vif."
               }
             },
             {
@@ -1022,13 +1135,15 @@
                 "de": "Berck Museum",
                 "hu": "Berck Múzeum",
                 "ro": "Muzeul Berck",
-                "en": "Berck Museum"
+                "en": "Berck Museum",
+                "fr": "Musée de Berck"
               },
               "tip_5lang": {
                 "de": "Ein willkommener Stopp zum Aufwärmen nach der Küstenfahrt; die gut beheizten Räume machen den Museumsbesuch im Winter sehr angenehm.",
                 "hu": "Várva várt megálló a melegedésre a tengerparti autózás után; a jól fűtött termek télen különösen kellemessé teszik a múzeumlátogatást.",
                 "ro": "O oprire binevenită pentru a vă încălzi după tura pe coastă; sălile bine încălzite fac vizita la muzeu foarte plăcută iarna.",
-                "en": "A welcome stop to warm up after the coastal drive; the well-heated rooms make the museum visit very comfortable during the winter months."
+                "en": "A welcome stop to warm up after the coastal drive; the well-heated rooms make the museum visit very comfortable during the winter months.",
+                "fr": "Une halte bienvenue pour se réchauffer après la route côtière ; les salles bien chauffées rendent la visite du musée très confortable en hiver."
               }
             },
             {
@@ -1036,13 +1151,15 @@
                 "de": "Kirche Notre-Dame des Sables",
                 "hu": "Notre-Dame des Sables templom",
                 "ro": "Biserica Notre-Dame des Sables",
-                "en": "Church of Notre-Dame des Sables"
+                "en": "Church of Notre-Dame des Sables",
+                "fr": "Église Notre-Dame des Sables"
               },
               "tip_5lang": {
                 "de": "Das dunkle Holz des Interieurs wirkt bei winterlichem Licht besonders edel; ein ruhiger Ort für eine kurze Besinnungspause im Warmen.",
                 "hu": "A belső tér sötét fája a téli fényben különösen nemesnek hat; nyugodt hely egy rövid, békés megállóra a melegben.",
                 "ro": "Lemnul închis la culoare al interiorului pare deosebit de nobil în lumina de iarnă; un loc liniștit pentru o scurtă pauză la căldură.",
-                "en": "The dark wood of the interior looks especially elegant in the winter light; a peaceful spot for a short, quiet break in the warmth."
+                "en": "The dark wood of the interior looks especially elegant in the winter light; a peaceful spot for a short, quiet break in the warmth.",
+                "fr": "Le bois sombre de l’intérieur paraît particulièrement élégant à la lumière hivernale ; un endroit paisible pour une courte pause au chaud et au calme."
               }
             },
             {
@@ -1050,13 +1167,15 @@
                 "de": "Berck Beach",
                 "hu": "Berck Beach",
                 "ro": "Plaja Berck Beach",
-                "en": "Berck Beach"
+                "en": "Berck Beach",
+                "fr": "Plage de Berck"
               },
               "tip_5lang": {
                 "de": "Der Strand ist im Winter fast menschenleer; nutzen Sie die Parkplätze direkt am Wasser für einen tollen Blick ohne kalte Füße.",
                 "hu": "A tengerpart télen szinte teljesen üres; használja a közvetlenül a víz melletti parkolókat a remek kilátásért anélkül, hogy fázna.",
                 "ro": "Plaja este aproape goală iarna; folosiți parcările de lângă apă pentru o priveliște superbă fără a vă expune la frigul intens.",
-                "en": "The beach is almost deserted in winter; use the parking spots right by the water for a great view without getting cold feet."
+                "en": "The beach is almost deserted in winter; use the parking spots right by the water for a great view without getting cold feet.",
+                "fr": "La plage est presque déserte en hiver ; utilisez les places de stationnement juste au bord de l’eau pour une belle vue sans avoir les pieds gelés."
               }
             },
             {
@@ -1064,13 +1183,15 @@
                 "de": "Le Catajack",
                 "hu": "Le Catajack",
                 "ro": "Le Catajack",
-                "en": "Le Catajack"
+                "en": "Le Catajack",
+                "fr": "Le Catajack"
               },
               "tip_5lang": {
                 "de": "Achten Sie auf eventuelle Winterpausen der Attraktionen; die Umgebung ist im Winterlicht dennoch ein schönes Ziel für eine kurze Fahrt.",
                 "hu": "Ügyeljen a látnivalók esetleges téli üzemszünetére; a környék a téli fényekben így is szép célpontja egy rövid autós kirándulásnak.",
                 "ro": "Fiți atenți la eventualele perioade de închidere pe timp de iarnă; zona rămâne totuși o destinație frumoasă pentru o scurtă plimbare.",
-                "en": "Watch out for any winter closures of local attractions; the area remains a beautiful destination for a short drive in the winter light."
+                "en": "Watch out for any winter closures of local attractions; the area remains a beautiful destination for a short drive in the winter light.",
+                "fr": "Attention aux fermetures hivernales éventuelles des attractions locales ; la région reste une belle destination pour une courte balade en voiture dans la lumière hivernale."
               }
             },
             {
@@ -1078,13 +1199,15 @@
                 "de": "River Splash",
                 "hu": "River Splash",
                 "ro": "River Splash",
-                "en": "River Splash"
+                "en": "River Splash",
+                "fr": "River Splash"
               },
               "tip_5lang": {
                 "de": "Genießen Sie die Ruhe in der Natur; ziehen Sie sich für den kurzen Spaziergang vom Auto zur Aussichtsstelle besonders warm an.",
                 "hu": "Élvezze a természet nyugalmát; öltözzön fel különösen rétegesen a parkolótól a kilátópontig tartó rövid téli sétához.",
                 "ro": "Bucurați-vă de liniștea naturii; îmbrăcați-vă foarte gros pentru scurta plimbare de la mașină până la punctul de observație.",
-                "en": "Enjoy the tranquility of nature; dress extra warmly for the short winter walk from your car to the scenic observation point."
+                "en": "Enjoy the tranquility of nature; dress extra warmly for the short winter walk from your car to the scenic observation point.",
+                "fr": "Appréciez la tranquillité de la nature ; habillez-vous très chaudement pour la courte marche hivernale entre votre voiture et le point d’observation panoramique."
               }
             }
           ]

@@ -21,7 +21,8 @@
             "de": "Tour Abbatiale",
             "hu": "Tour Abbatiale",
             "ro": "Tour Abbatiale",
-            "en": "Tour Abbatiale"
+            "en": "Tour Abbatiale",
+            "fr": "Tour Abbatiale"
           },
           "coords": [
             3.428722,
@@ -36,7 +37,8 @@
             "de": "Bewundern Sie den markanten barocken Turm als Überrest der Abtei und erklimmen Sie dessen Stufen für einen herrlichen Panoramablick auf die Stadt.",
             "hu": "Csodálja meg a barokk apátsági tornyot, amely az egykori kolostor lenyűgöző maradványa, és másszon fel a lépcsőkön a páratlan városi panorámáért.",
             "ro": "Admirați impresionantul turn baroc, principala rămășiță a abației, și urcați treptele sale pentru a vă bucura de o vedere panoramică magnifică asupra orașului.",
-            "en": "Admire the striking Baroque tower which is the main remnant of the abbey, and climb its stairs for a magnificent panoramic view over the town."
+            "en": "Admire the striking Baroque tower which is the main remnant of the abbey, and climb its stairs for a magnificent panoramic view over the town.",
+            "fr": "Admirez la saisissante tour baroque, principal vestige de l’abbaye, et montez ses escaliers pour une splendide vue panoramique sur la ville."
           }
         },
         {
@@ -44,7 +46,8 @@
             "de": "Théâtre des Sources",
             "hu": "Théâtre des Sources",
             "ro": "Théâtre des Sources",
-            "en": "Théâtre des Sources"
+            "en": "Théâtre des Sources",
+            "fr": "Théâtre des Sources"
           },
           "coords": [
             3.430718,
@@ -59,7 +62,8 @@
             "de": "Erleben Sie die lokale Kultur in diesem lebendigen Theater und prüfen Sie das Programm vorab, um eine nachmittägliche oder abendliche Vorstellung zu besuchen.",
             "hu": "Tapasztalja meg a helyi kultúrát ebben a nyüzsgő színházban, és érdemes előre ellenőrizni a műsort, ha szeretne megnézni egy délutáni előadást.",
             "ro": "Experimentați cultura locală la acest teatru vibrant care găzduiește spectacole diverse; verificați programul în avans pentru a prinde o reprezentație.",
-            "en": "Experience local culture at this vibrant theatre that hosts diverse performances, so check the schedule in advance to catch an afternoon or evening show."
+            "en": "Experience local culture at this vibrant theatre that hosts diverse performances, so check the schedule in advance to catch an afternoon or evening show.",
+            "fr": "Vivez la culture locale dans ce théâtre dynamique qui propose des représentations variées ; vérifiez le programme à l’avance pour assister à un spectacle l’après-midi ou en soirée."
           }
         },
         {
@@ -67,7 +71,8 @@
             "de": "Kirche Saint-Martin",
             "hu": "Saint-Martin templom",
             "ro": "Biserica Saint-Martin",
-            "en": "Saint-Martin Church"
+            "en": "Saint-Martin Church",
+            "fr": "Église Saint-Martin"
           },
           "coords": [
             3.431015,
@@ -82,7 +87,8 @@
             "de": "Betreten Sie diese historische Kirche, um das ruhige Innere und die Buntglasfenster zu betrachten, und verhalten Sie sich aus Respekt vor den Gläubigen leise.",
             "hu": "Lépjen be ebbe a történelmi templomba, hogy megcsodálja a csendes belső teret és a festett üvegablakokat, de a hívők iránti tiszteletből halkan beszéljen.",
             "ro": "Intrați în această biserică istorică pentru a-i observa interiorul senin și vitraliile, păstrând liniștea din respect pentru cei care se roagă.",
-            "en": "Step into this historical church to observe its serene interior and beautiful stained glass, but remember to keep your voice low out of respect for worshippers."
+            "en": "Step into this historical church to observe its serene interior and beautiful stained glass, but remember to keep your voice low out of respect for worshippers.",
+            "fr": "Pénétrez dans cette église historique pour observer son intérieur serein et ses beaux vitraux, mais pensez à parler à voix basse par respect pour les fidèles."
           }
         },
         {
@@ -90,7 +96,8 @@
             "de": "Temple Protestant",
             "hu": "Protestáns templom",
             "ro": "Templul Protestant",
-            "en": "Temple Protestant"
+            "en": "Temple Protestant",
+            "fr": "Temple Protestant"
           },
           "coords": [
             3.424363,
@@ -105,7 +112,8 @@
             "de": "Entdecken Sie das protestantische Erbe der Region in diesem schlichten, aber spirituell bedeutsamen Gebäude und achten Sie auf die architektonische Einfachheit.",
             "hu": "Fedezze fel a régió protestáns örökségét ebben a szerény, mégis spirituálisan jelentős épületben, amelynek fő jellemzője a puritán építészeti egyszerűség.",
             "ro": "Descoperiți moștenirea protestantă a regiunii în această clădire modestă, dar semnificativă, remarcând simplitatea sa arhitecturală deosebită.",
-            "en": "Discover the Protestant heritage of the region in this modest yet spiritually significant building, noting the architectural simplicity that defines it."
+            "en": "Discover the Protestant heritage of the region in this modest yet spiritually significant building, noting the architectural simplicity that defines it.",
+            "fr": "Découvrez l’héritage protestant de la région dans ce bâtiment modeste mais spirituellement significatif, en notant la simplicité architecturale qui le caractérise."
           }
         },
         {
@@ -113,7 +121,8 @@
             "de": "Église Notre-Dame des Malades",
             "hu": "Église Notre-Dame des Malades",
             "ro": "Église Notre-Dame des Malades",
-            "en": "Église Notre-Dame des Malades"
+            "en": "Église Notre-Dame des Malades",
+            "fr": "Église Notre-Dame des Malades"
           },
           "coords": [
             3.434563,
@@ -128,7 +137,8 @@
             "de": "Besuchen Sie diesen charmanten Ort, der historisch den Kranken diente, und nehmen Sie sich einen Moment der Besinnung in der friedlichen Umgebung abseits des Zentrums.",
             "hu": "Látogasson el erre a bájos egyházi helyszínre, amely történelmileg a betegeket szolgálta, és töltsön el egy percet csendes elmélkedéssel a központtól távolabb.",
             "ro": "Vizitați acest loc religios fermecător care a servit istoric bolnavilor și luați-vă un moment de reflecție în împrejurimile pașnice departe de centru.",
-            "en": "Visit this charming religious site that historically served the ill, taking a moment of quiet reflection in the peaceful surroundings away from the center."
+            "en": "Visit this charming religious site that historically served the ill, taking a moment of quiet reflection in the peaceful surroundings away from the center.",
+            "fr": "Visitez ce charmant lieu de culte qui servait autrefois les malades ; prenez un moment de recueillement dans le cadre paisible, à l’écart du centre."
           }
         }
       ],
@@ -136,7 +146,8 @@
         "de": "Vormittag: Wir beginnen im Herzen der Stadt, erkunden die majestätische Tour Abbatiale und genießen die Atmosphäre, bevor es zum Theater geht. Mittag: Ein gemütlicher Spaziergang führt uns an den Kirchen Saint-Martin und dem Tempel vorbei, die die Religionsgeschichte aufzeigen. Nachmittag: Wir wandern südwärts, um die friedliche Église Notre-Dame des Malades zu entdecken und zur Ruhe zu kommen. Abend: Der Abend steht zur freien Verfügung, um ein herzhaftes französisches Abendessen zu genießen.",
         "hu": "Délelőtt: A város szívében kezdünk, felfedezve a fenséges apátsági tornyot, majd átadjuk magunkat a központ hangulatának a színház felé haladva. Dél: Egy könnyed séta vezet el a Saint-Martin templomhoz és a protestáns templomhoz, bemutatva a hely vallási múltját. Délután: Dél felé vesszük az irányt, hogy megtaláljuk a békés Église Notre-Dame des Malades templomot egy kis elmélkedésre. Este: Az estét egy hangulatos helyi étteremben tölthetjük el, élvezve a francia gasztronómiát.",
         "ro": "Dimineața: Începem în inima orașului, explorând maiestuosul Tour Abbatiale și bucurându-ne de atmosfera centrală vibrantă lângă teatru. Prânz: O scurtă plimbare ne duce la biserica Saint-Martin și la Templul Protestant, subliniind istoria religioasă diversă a orașului. După-amiaza: Ne îndreptăm spre sud pentru a descoperi pașnica Église Notre-Dame des Malades, reflectând la frumusețea locului. Seara: Seara este liberă pentru a savura o cină franțuzească copioasă.",
-        "en": "Morning: We start in the very heart of the town, exploring the majestic Tour Abbatiale and soaking up the lively central atmosphere before moving to the local theatre. Midday: A gentle stroll leads us past the spiritual landmarks of Saint-Martin and the Protestant Temple, highlighting the town's diverse religious history. Afternoon: We walk southwards to discover the peaceful Église Notre-Dame des Malades, taking time to reflect. Evening: The evening is free to enjoy a hearty French dinner at one of the cozy local restaurants."
+        "en": "Morning: We start in the very heart of the town, exploring the majestic Tour Abbatiale and soaking up the lively central atmosphere before moving to the local theatre. Midday: A gentle stroll leads us past the spiritual landmarks of Saint-Martin and the Protestant Temple, highlighting the town's diverse religious history. Afternoon: We walk southwards to discover the peaceful Église Notre-Dame des Malades, taking time to reflect. Evening: The evening is free to enjoy a hearty French dinner at one of the cozy local restaurants.",
+        "fr": "Matin : Nous commençons au cœur de la ville en explorant la majestueuse Tour Abbatiale et en profitant de l’animation centrale avant de nous diriger vers le théâtre local. Midi : Une promenade tranquille nous conduit devant les lieux spirituels de Saint-Martin et du Temple Protestant, mettant en lumière l’histoire religieuse diverse de la ville. Après-midi : Nous marchons vers le sud pour découvrir l’apaisante Église Notre-Dame des Malades et prendre le temps de réfléchir. Soir : La soirée est libre pour déguster un copieux dîner français dans l’un des restaurants locaux chaleureux."
       },
       "variants": {
         "rainy": {
@@ -144,7 +155,8 @@
             "de": "Der Morgen beginnt am massiven Abteiturm, dessen Arkaden perfekten Schutz vor den ersten Tropfen bieten. Mittags führt der Weg zum Theater, wobei man auf den glatten Pflastersteinen vorsichtig sein sollte. Am Nachmittag dienen die historischen Kirchen als trockene Rückzugsorte vor dem Dauerregen. Der Abend klingt bei grauem Himmel gemütlich in der Nähe des Stadtzentrums aus.",
             "hu": "A reggel a monumentális toronynál indul, ahol a boltívek alatt találunk menedéket az eső elől. Délben a színház környékén sétálunk, figyelve a csúszós macskakövekre. Délután a város templomai nyújtanak fedett és csendes pihenőt a nedves utcák után. Az este hamar beköszönt a felhős ég alatt, érdemes egy közeli kávézóban zárni a napot száraz helyen.",
             "ro": "Dimineața începe la turnul abației, ale cărui arcade oferă adăpost perfect împotriva primilor stropi de ploaie. La prânz, drumul spre teatru necesită atenție pe pavajul umed și alunecos. După-amiaza, bisericile istorice servesc drept refugii uscate în fața ploii persistente. Seara se încheie liniștit, sub cerul înnorat, într-un loc primitor din centrul orașului.",
-            "en": "The morning starts at the massive abbey tower, where the arches provide perfect shelter from the first raindrops. At noon, the walk to the theatre requires caution on the slippery cobblestones. In the afternoon, the historical churches serve as dry retreats from the persistent rain. The evening ends cozily under the overcast sky near the city center."
+            "en": "The morning starts at the massive abbey tower, where the arches provide perfect shelter from the first raindrops. At noon, the walk to the theatre requires caution on the slippery cobblestones. In the afternoon, the historical churches serve as dry retreats from the persistent rain. The evening ends cozily under the overcast sky near the city center.",
+            "fr": "La matinée commence à la massive tour de l’abbaye, où les arcades offrent un abri parfait contre les premières gouttes. À midi, la marche vers le théâtre demande de la prudence sur les pavés glissants. L’après-midi, les églises historiques servent de refuges secs face à la pluie persistante. La soirée se termine confortablement sous un ciel couvert près du centre-ville."
           },
           "stops": [
             {
@@ -152,13 +164,15 @@
                 "de": "Tour Abbatiale",
                 "hu": "Tour Abbatiale",
                 "ro": "Tour Abbatiale",
-                "en": "Tour Abbatiale"
+                "en": "Tour Abbatiale",
+                "fr": "Tour Abbatiale"
               },
               "tip_5lang": {
                 "de": "Bewundern Sie die barocke Fassade vom Schutz des Portals aus; halten Sie Ihren Schirm bereit für den kurzen Weg zum Marktplatz.",
                 "hu": "Csodálja meg a barokk homlokzatot a kapu védelméből, és készítse elő esernyőjét a főtér felé vezető rövid sétához.",
                 "ro": "Admirați fațada barocă de sub protecția portalului și pregătiți umbrela pentru scurta plimbare spre piața centrală.",
-                "en": "Admire the baroque facade from the shelter of the portal and keep your umbrella ready for the short walk toward the main square."
+                "en": "Admire the baroque facade from the shelter of the portal and keep your umbrella ready for the short walk toward the main square.",
+                "fr": "Admirez la façade baroque depuis l’abri du portail et gardez votre parapluie à portée de main pour la courte marche vers la place principale."
               }
             },
             {
@@ -166,13 +180,15 @@
                 "de": "Théâtre des Sources",
                 "hu": "Théâtre des Sources",
                 "ro": "Théâtre des Sources",
-                "en": "Théâtre des Sources"
+                "en": "Théâtre des Sources",
+                "fr": "Théâtre des Sources"
               },
               "tip_5lang": {
                 "de": "Nutzen Sie das moderne Foyer als trockenen Zwischenstopp; die gläserne Architektur wirkt bei Regen besonders atmosphärisch.",
                 "hu": "Használja a modern előcsarnokot száraz pihenőként; az üvegarchitektúra esőben különleges, sejtelmes hangulatot áraszt.",
                 "ro": "Folosiți foierul modern ca punct de oprire uscat; arhitectura de sticlă are o atmosferă deosebită atunci când plouă.",
-                "en": "Use the modern foyer as a dry stopover; the glass architecture feels particularly atmospheric when it rains."
+                "en": "Use the modern foyer as a dry stopover; the glass architecture feels particularly atmospheric when it rains.",
+                "fr": "Utilisez le foyer moderne comme halte sèche ; l’architecture vitrée est particulièrement atmosphérique quand il pleut."
               }
             },
             {
@@ -180,13 +196,15 @@
                 "de": "Kirche Saint-Martin",
                 "hu": "Saint-Martin templom",
                 "ro": "Biserica Saint-Martin",
-                "en": "Saint-Martin Church"
+                "en": "Saint-Martin Church",
+                "fr": "Église Saint-Martin"
               },
               "tip_5lang": {
                 "de": "Treten Sie ein und genießen Sie die Stille im trockenen Kirchenschiff, während draußen der Regen gegen die Fenster prasselt.",
                 "hu": "Lépjen be és élvezze a csendet a száraz hajóban, miközben odakint az eső kopog a díszes üvegablakokon.",
                 "ro": "Intrați și bucurați-vă de liniște în nava uscată a bisericii, în timp ce afară ploaia bate în ferestrele colorate.",
-                "en": "Step inside and enjoy the silence in the dry nave while the rain beats against the ornate windows outside."
+                "en": "Step inside and enjoy the silence in the dry nave while the rain beats against the ornate windows outside.",
+                "fr": "Entrez et profitez du silence dans la nef sèche pendant que la pluie frappe les vitraux ornés à l'extérieur."
               }
             },
             {
@@ -194,13 +212,15 @@
                 "de": "Temple Protestant",
                 "hu": "Protestáns templom",
                 "ro": "Templul Protestant",
-                "en": "Temple Protestant"
+                "en": "Temple Protestant",
+                "fr": "Temple protestant"
               },
               "tip_5lang": {
                 "de": "Ein kurzer, schlichter Stopp im Trockenen; achten Sie beim Verlassen auf die Pfützen vor dem Eingangsbereich.",
                 "hu": "Egy rövid, egyszerű megálló fedett helyen; távozáskor ügyeljen a bejárat előtti nagyobb tócsákra.",
                 "ro": "O oprire scurtă și simplă la adăpost; la plecare, aveți grijă la bălțile formate în fața zonei de intrare.",
-                "en": "A short, simple stop indoors; watch out for puddles in front of the entrance area when leaving."
+                "en": "A short, simple stop indoors; watch out for puddles in front of the entrance area when leaving.",
+                "fr": "Un arrêt court et simple à l'intérieur ; attention aux flaques devant l'entrée en sortant."
               }
             },
             {
@@ -208,13 +228,15 @@
                 "de": "Église Notre-Dame des Malades",
                 "hu": "Église Notre-Dame des Malades",
                 "ro": "Église Notre-Dame des Malades",
-                "en": "Église Notre-Dame des Malades"
+                "en": "Église Notre-Dame des Malades",
+                "fr": "Église Notre-Dame des Malades"
               },
               "tip_5lang": {
                 "de": "Beenden Sie Ihre Tour in dieser friedlichen Zuflucht; die feuchte Luft verstärkt den Duft der alten Steine im Inneren.",
                 "hu": "Zárja túráját ebben a békés menedékben; a párás levegő felerősíti az ódon falak és kövek illatát a belső térben.",
                 "ro": "Încheiați turul în acest refugiu pașnic; aerul umed intensifică mirosul pietrelor vechi din interior.",
-                "en": "End your tour in this peaceful refuge; the damp air intensifies the scent of the old stones inside the interior."
+                "en": "End your tour in this peaceful refuge; the damp air intensifies the scent of the old stones inside the interior.",
+                "fr": "Terminez votre visite dans ce refuge paisible ; l'air humide intensifie le parfum des vieilles pierres à l'intérieur."
               }
             }
           ]
@@ -224,7 +246,8 @@
             "de": "Der Wintermorgen am Turm ist frostig, aber die klare Luft bietet weite Sicht über die kahlen Bäume. Mittags wärmen wir uns kurz im modernen Theater auf, bevor es weiter durch die kühlen Gassen geht. Am Nachmittag suchen wir die Wärme der Kirchen auf, da die Kälte spürbar zunimmt. Gegen 17:00 Uhr wird es dunkel, was die beleuchtete Stadt besonders festlich erscheinen lässt.",
             "hu": "A téli reggel a toronynál fagyos, de a tiszta levegő messzi kilátást enged a kopár fák fölött. Délben a modern színházban melegszünk fel, mielőtt folytatnánk utunkat a hűvös utcákon. Délután a templomok vastag falai között keresünk menedéket a csípős szél elől. 17:00 körül besötétedik, így a város fényei ünnepi hangulatot árasztanak.",
             "ro": "Dimineața de iarnă la turn este geroasă, dar aerul limpede oferă o vizibilitate mare peste copacii golași. La prânz, ne încălzim în teatrul modern înainte de a continua prin străzile reci. După-amiaza, căutăm căldura bisericilor, deoarece gerul se intensifică. În jurul orei 17:00 se întunecă, iar luminile orașului creează o atmosferă festivă.",
-            "en": "The winter morning at the tower is frosty, but the clear air offers distant views over the bare trees. At noon, we warm up briefly in the modern theatre before continuing through the cold streets. In the afternoon, we seek the warmth of the churches as the chill increases. Around 17:00 it gets dark, making the city lights appear particularly festive."
+            "en": "The winter morning at the tower is frosty, but the clear air offers distant views over the bare trees. At noon, we warm up briefly in the modern theatre before continuing through the cold streets. In the afternoon, we seek the warmth of the churches as the chill increases. Around 17:00 it gets dark, making the city lights appear particularly festive.",
+            "fr": "La matinée d'hiver à la tour est glaciale, mais l'air clair offre des vues lointaines au-dessus des arbres dénudés. À midi, nous nous réchauffons brièvement au théâtre moderne avant de continuer dans les rues froides. L'après-midi, nous cherchons la chaleur des églises alors que la fraîcheur augmente. Vers 17:00 il fait nuit, rendant les lumières de la ville particulièrement festives."
           },
           "stops": [
             {
@@ -232,13 +255,15 @@
                 "de": "Tour Abbatiale",
                 "hu": "Tour Abbatiale",
                 "ro": "Tour Abbatiale",
-                "en": "Tour Abbatiale"
+                "en": "Tour Abbatiale",
+                "fr": "Tour abbatiale"
               },
               "tip_5lang": {
                 "de": "Tragen Sie warme Handschuhe für den Aufstieg; der kalte Wind am Turm kann im Winter sehr schneidend sein.",
                 "hu": "Viseljen meleg kesztyűt a felkapaszkodáshoz; a téli szél a torony tetején nagyon metsző és hideg lehet.",
                 "ro": "Purtați mănuși groase pentru urcare; vântul rece de la înălțimea turnului poate fi foarte tăios iarna.",
-                "en": "Wear warm gloves for the climb; the cold wind at the top of the tower can be very piercing in winter."
+                "en": "Wear warm gloves for the climb; the cold wind at the top of the tower can be very piercing in winter.",
+                "fr": "Portez des gants chauds pour la montée ; le vent froid au sommet de la tour peut être très perçant en hiver."
               }
             },
             {
@@ -246,13 +271,15 @@
                 "de": "Théâtre des Sources",
                 "hu": "Théâtre des Sources",
                 "ro": "Théâtre des Sources",
-                "en": "Théâtre des Sources"
+                "en": "Théâtre des Sources",
+                "fr": "Théâtre des Sources"
               },
               "tip_5lang": {
                 "de": "Ein idealer Ort, um die Kälte für einen Moment zu vergessen und die moderne Seite der Stadt im Warmen zu bewundern.",
                 "hu": "Ideális helyszín, hogy egy pillanatra elfelejtse a hideget, és melegben csodálja meg a város modern oldalát.",
                 "ro": "Un loc ideal pentru a uita de frig pentru un moment și pentru a admira latura modernă a orașului la căldură.",
-                "en": "An ideal place to forget the cold for a moment and admire the modern side of the city in the warmth."
+                "en": "An ideal place to forget the cold for a moment and admire the modern side of the city in the warmth.",
+                "fr": "Un endroit idéal pour oublier un instant le froid et admirer le côté moderne de la ville au chaud."
               }
             },
             {
@@ -260,13 +287,15 @@
                 "de": "Kirche Saint-Martin",
                 "hu": "Saint-Martin templom",
                 "ro": "Biserica Saint-Martin",
-                "en": "Saint-Martin Church"
+                "en": "Saint-Martin Church",
+                "fr": "Église Saint-Martin"
               },
               "tip_5lang": {
                 "de": "Die dicken Mauern schützen vor dem Winterwind; genießen Sie das gedämpfte Licht der tiefstehenden Wintersonne.",
                 "hu": "A vastag falak védenek a téli szél ellen; élvezze az alacsonyan járó téli nap tompa, misztikus fényeit.",
                 "ro": "Zidurile groase protejează împotriva vântului de iarnă; bucurați-vă de lumina difuză a soarelui jos de iarnă.",
-                "en": "The thick walls protect against the winter wind; enjoy the muted light of the low-hanging winter sun."
+                "en": "The thick walls protect against the winter wind; enjoy the muted light of the low-hanging winter sun.",
+                "fr": "Les murs épais protègent du vent d'hiver ; profitez de la lumière tamisée du soleil bas d'hiver."
               }
             },
             {
@@ -274,13 +303,15 @@
                 "de": "Temple Protestant",
                 "hu": "Protestáns templom",
                 "ro": "Templul Protestant",
-                "en": "Temple Protestant"
+                "en": "Temple Protestant",
+                "fr": "Temple protestant"
               },
               "tip_5lang": {
                 "de": "Machen Sie einen schnellen Besuch, bevor die Sonne untergeht; die Ziegelsteine wirken im Winterlicht besonders rötlich.",
                 "hu": "Tegyen egy gyors látogatást, mielőtt lemegy a nap; a téglafalak a téli fényben különösen vörösesnek tűnnek.",
                 "ro": "Faceți o vizită rapidă înainte de apusul soarelui; cărămizile par deosebit de roșiatice în lumina iernii.",
-                "en": "Make a quick visit before the sun sets; the bricks appear particularly reddish in the winter light."
+                "en": "Make a quick visit before the sun sets; the bricks appear particularly reddish in the winter light.",
+                "fr": "Faites une visite rapide avant le coucher du soleil ; les briques paraissent particulièrement rouges dans la lumière hivernale."
               }
             },
             {
@@ -288,13 +319,15 @@
                 "de": "Église Notre-Dame des Malades",
                 "hu": "Église Notre-Dame des Malades",
                 "ro": "Église Notre-Dame des Malades",
-                "en": "Église Notre-Dame des Malades"
+                "en": "Église Notre-Dame des Malades",
+                "fr": "Église Notre-Dame des Malades"
               },
               "tip_5lang": {
                 "de": "Nutzen Sie die Stille für eine besinnliche Pause, bevor Sie sich auf den Heimweg in die kalte Abendluft machen.",
                 "hu": "Használja ki a csendet egy elmélyült pihenőre, mielőtt elindulna hazafelé a hideg esti levegőben.",
                 "ro": "Profită de liniște pentru o pauză de reflecție înainte de a porni spre casă în aerul rece de seară.",
-                "en": "Take advantage of the silence for a reflective break before heading home into the cold evening air."
+                "en": "Take advantage of the silence for a reflective break before heading home into the cold evening air.",
+                "fr": "Profitez du silence pour une pause réfléchie avant de rentrer dans l'air froid du soir."
               }
             }
           ]
@@ -314,7 +347,8 @@
             "de": "Tour Abbatiale",
             "hu": "Tour Abbatiale",
             "ro": "Tour Abbatiale",
-            "en": "Tour Abbatiale"
+            "en": "Tour Abbatiale",
+            "fr": "Tour abbatiale"
           },
           "coords": [
             3.428722,
@@ -329,7 +363,8 @@
             "de": "Bewundern Sie den markanten barocken Turm als Überrest der Abtei und erklimmen Sie dessen Stufen für einen herrlichen Panoramablick auf die Stadt.",
             "hu": "Csodálja meg a barokk apátsági tornyot, amely az egykori kolostor lenyűgöző maradványa, és másszon fel a lépcsőkön a páratlan városi panorámáért.",
             "ro": "Admirați impresionantul turn baroc, principala rămășiță a abației, și urcați treptele sale pentru a vă bucura de o vedere panoramică magnifică asupra orașului.",
-            "en": "Admire the striking Baroque tower which is the main remnant of the abbey, and climb its stairs for a magnificent panoramic view over the town."
+            "en": "Admire the striking Baroque tower which is the main remnant of the abbey, and climb its stairs for a magnificent panoramic view over the town.",
+            "fr": "Admirez la remarquable tour baroque, principal vestige de l'abbaye, et montez ses escaliers pour une magnifique vue panoramique sur la ville."
           }
         },
         {
@@ -337,7 +372,8 @@
             "de": "Moulin Blanc",
             "hu": "Moulin Blanc",
             "ro": "Moulin Blanc",
-            "en": "Moulin Blanc"
+            "en": "Moulin Blanc",
+            "fr": "Moulin Blanc"
           },
           "coords": [
             3.401702,
@@ -352,7 +388,8 @@
             "de": "Fotografieren Sie diese klassische weiße Windmühle als Zeugnis der landwirtschaftlichen Vergangenheit, da sie besonders im Morgenlicht fotogen ist.",
             "hu": "Készítsen egy fotót erről a klasszikus fehér szélmalomról, amely a mezőgazdasági múltat őrzi, és reggeli fényben a leginkább fotogén látványosság.",
             "ro": "Fotografiați această moară de vânt albă, o mărturie a trecutului agricol al regiunii, deosebit de spectaculoasă în lumina de dimineață.",
-            "en": "Capture a photo of this classic white windmill standing as a testament to the region's agricultural past, as it is particularly photogenic in the morning light."
+            "en": "Capture a photo of this classic white windmill standing as a testament to the region's agricultural past, as it is particularly photogenic in the morning light.",
+            "fr": "Immortalisez ce moulin à vent blanc classique, témoignage du passé agricole de la région, particulièrement photogénique à la lumière du matin."
           }
         },
         {
@@ -360,7 +397,8 @@
             "de": "Église Sainte-Thérèse",
             "hu": "Église Sainte-Thérèse",
             "ro": "Église Sainte-Thérèse",
-            "en": "Église Sainte-Thérèse"
+            "en": "Église Sainte-Thérèse",
+            "fr": "Église Sainte-Thérèse"
           },
           "coords": [
             3.405362,
@@ -375,7 +413,8 @@
             "de": "Bewundern Sie die subtilen architektonischen Details dieser weniger bekannten Kirche, die eine sehr ruhige Atmosphäre für einen kurzen Stopp bietet.",
             "hu": "Csodálja meg ennek a kevésbé ismert templomnak a finom építészeti részleteit, amely nyugodt légkörével tökéletes egy rövid, elmélyült megállóra.",
             "ro": "Admirați detaliile subtile ale acestei biserici mai puțin cunoscute, care oferă o atmosferă liniștită, perfectă pentru o scurtă oprire pe traseul dumneavoastră.",
-            "en": "Admire the subtle architectural details of this lesser-known church, which offers a very tranquil atmosphere perfect for a brief, contemplative stop on your route."
+            "en": "Admire the subtle architectural details of this lesser-known church, which offers a very tranquil atmosphere perfect for a brief, contemplative stop on your route.",
+            "fr": "Admirez les subtils détails architecturaux de cette église moins connue, qui offre une atmosphère très tranquille idéale pour un court arrêt contemplatif sur votre parcours."
           }
         },
         {
@@ -383,7 +422,8 @@
             "de": "Naturpark Scarpe-Escaut",
             "hu": "Scarpe-Escaut Regionális Park",
             "ro": "Parcul Regional Scarpe-Escaut",
-            "en": "Scarpe-Escaut Regional Park"
+            "en": "Scarpe-Escaut Regional Park",
+            "fr": "Parc régional Scarpe-Escaut"
           },
           "coords": [
             3.411019,
@@ -398,7 +438,8 @@
             "de": "Atmen Sie die frische Luft ein und wandern Sie auf den Wegen dieses riesigen Naturreservats, wobei bequeme Schuhe und Insektenschutz im Sommer ratsam sind.",
             "hu": "Lélegezze be a friss levegőt e hatalmas természetvédelmi terület ösvényein, de nyáron feltétlenül hozzon magával kényelmes cipőt és rovarriasztót.",
             "ro": "Respirați aerul proaspăt pe traseele verzi ale acestei vaste rezervații naturale, purtând încălțăminte comodă și aducând repelent împotriva insectelor vara.",
-            "en": "Breathe in the fresh air and walk along the lush trails of this vast natural reserve, but be sure to bring comfortable shoes and insect repellent in summer."
+            "en": "Breathe in the fresh air and walk along the lush trails of this vast natural reserve, but be sure to bring comfortable shoes and insect repellent in summer.",
+            "fr": "Respirez l'air frais et parcourez les sentiers verdoyants de cette vaste réserve naturelle, mais pensez à apporter des chaussures confortables et un anti-moustique en été."
           }
         },
         {
@@ -406,7 +447,8 @@
             "de": "Saint-Amand Thermalbäder",
             "hu": "Saint-Amand Termálfürdő",
             "ro": "Băile Termale Saint-Amand",
-            "en": "Saint-Amand Thermal Baths"
+            "en": "Saint-Amand Thermal Baths",
+            "fr": "Thermes de Saint-Amand"
           },
           "coords": [
             3.451364,
@@ -421,7 +463,8 @@
             "de": "Entspannen Sie an den berühmten Thermalquellen, die der Stadt ihren Namen gaben, und erwägen Sie eine kurze Wellnessbehandlung oder genießen Sie die Anlagen.",
             "hu": "Pihenjen a városnak nevet adó híres termálforrásoknál, ahol érdemes kipróbálni egy rövidebb wellness kezelést, vagy csak sétálni a pihentető környezetben.",
             "ro": "Relaxați-vă la celebrele izvoare termale care dau numele orașului, optând pentru un tratament spa scurt sau bucurându-vă de zonele de agrement din jur.",
-            "en": "Relax and discover the famous thermal springs that gave the town its name, considering a short spa treatment or simply enjoying the recreational grounds around them."
+            "en": "Relax and discover the famous thermal springs that gave the town its name, considering a short spa treatment or simply enjoying the recreational grounds around them.",
+            "fr": "Détendez-vous et découvrez les célèbres sources thermales qui ont donné son nom à la ville, en envisageant un court soin spa ou en profitant simplement des espaces de loisirs autour."
           }
         },
         {
@@ -429,7 +472,8 @@
             "de": "Église Saint-Jean-Baptiste",
             "hu": "Keresztelő Szent János templom",
             "ro": "Biserica Saint-Jean-Baptiste",
-            "en": "Église Saint-Jean-Baptiste"
+            "en": "Église Saint-Jean-Baptiste",
+            "fr": "Église Saint-Jean-Baptiste"
           },
           "coords": [
             3.460869,
@@ -444,7 +488,8 @@
             "de": "Beenden Sie Ihre Erkundung an dieser eleganten Kirche mit ihrem bemerkenswerten Glockenturm und achten Sie auf die vom Nachmittagslicht beleuchtete Handwerkskunst.",
             "hu": "Zárja a felfedezést ennél az elegáns, lenyűgöző harangtoronnyal rendelkező templomnál, és figyelje meg a délutáni napfényben fürdő finom kőfaragásokat.",
             "ro": "Încheiați explorarea la această biserică elegantă cu un clopotniță remarcabilă și acordați timp detaliilor de piatră luminate de soarele după-amiezii.",
-            "en": "Conclude your exploration at this elegant church with its notable bell tower, and take the time to notice the fine stonework illuminated by the afternoon sun."
+            "en": "Conclude your exploration at this elegant church with its notable bell tower, and take the time to notice the fine stonework illuminated by the afternoon sun.",
+            "fr": "Clôturez votre exploration dans cette élégante église au clocher remarquable, et prenez le temps d'observer la belle pierre illuminée par le soleil de l'après-midi."
           }
         }
       ],
@@ -452,7 +497,8 @@
         "de": "Vormittag: Die Radtour beginnt am Tour Abbatiale, bevor wir westwärts radeln, um die historische Mühle Moulin Blanc und die Kirche Sainte-Thérèse zu fotografieren. Mittag: Wir fahren weiter zum ruhigen regionalen Naturpark Scarpe-Escaut und nutzen die ausgedehnten, schattigen Radwege. Nachmittag: In Richtung Osten erreichen wir die berühmten Thermalbäder zur Entspannung und bewundern danach die Église Saint-Jean-Baptiste. Abend: Eine letzte gemütliche Fahrt zurück ins Zentrum in der Dämmerung rundet den aktiven Tag ab.",
         "hu": "Délelőtt: Kerékpártúránk a lenyűgöző apátsági toronynál indul, majd nyugat felé tekerünk a Moulin Blanc malomhoz és a Sainte-Thérèse templomhoz. Dél: Áttérünk a Scarpe-Escaut Regionális Parkba, ahol kiélvezzük a kiváló kerékpárutakat és az árnyékos erdei ösvényeket. Délután: Kelet felé haladva megérkezünk a híres termálfürdőhöz egy kis feltöltődésre, végül megnézzük a Keresztelő Szent János templomot. Este: Kellemes visszautazás a központba a szürkületi fények alatt.",
         "ro": "Dimineața: Turul nostru cu bicicleta începe la Tour Abbatiale, apoi pedalăm spre vest pentru a fotografia Moulin Blanc și biserica Sainte-Thérèse. Prânz: Ne mutăm în liniștitul Parc Regional Scarpe-Escaut, profitând de pistele sale de biciclete și de coridoarele umbrite. După-amiaza: Mergând spre est, ajungem la faimoasele Băi Termale pentru relaxare, înainte de a admira Biserica Saint-Jean-Baptiste. Seara: O ultimă plimbare înapoi spre centru, sub cerul amurgului, încheie o zi activă perfectă.",
-        "en": "Morning: Our cycling tour starts with the iconic Tour Abbatiale, then quickly pedals out west to photograph the historic Moulin Blanc and nearby Sainte-Thérèse church. Midday: We transition to the serene Scarpe-Escaut Regional Park, taking advantage of its vast cycling paths and shaded woodland corridors. Afternoon: Cycling east, we reach the celebrated Saint-Amand Thermal Baths for some relaxation, before admiring the Église Saint-Jean-Baptiste. Evening: Enjoy a final ride back towards the center under the twilight sky, capping off a perfect active day."
+        "en": "Morning: Our cycling tour starts with the iconic Tour Abbatiale, then quickly pedals out west to photograph the historic Moulin Blanc and nearby Sainte-Thérèse church. Midday: We transition to the serene Scarpe-Escaut Regional Park, taking advantage of its vast cycling paths and shaded woodland corridors. Afternoon: Cycling east, we reach the celebrated Saint-Amand Thermal Baths for some relaxation, before admiring the Église Saint-Jean-Baptiste. Evening: Enjoy a final ride back towards the center under the twilight sky, capping off a perfect active day.",
+        "fr": "Matin : notre circuit à vélo commence par l’emblématique Tour abbatiale, puis file rapidement vers l’ouest pour photographier le Moulin Blanc historique et l’église Sainte-Thérèse voisine. Midi : nous rejoignons le serein parc régional Scarpe-Escaut, profitant de ses vastes pistes cyclables et de ses corridors boisés ombragés. Après-midi : en pédalant vers l’est, nous atteignons les célèbres thermes de Saint-Amand pour un moment de détente, avant d’admirer l’Église Saint-Jean-Baptiste. Soir : profitez d’un dernier trajet vers le centre sous le ciel du crépuscule, clôturant une journée active parfaite."
       },
       "variants": {
         "rainy": {
@@ -460,7 +506,8 @@
             "de": "Regnerische Radtour durch Saint-Amand: Der Morgen startet spritzig am Turm. Mittags radeln wir vorsichtig über nasse Wege zum Moulin Blanc. Am Nachmittag bietet der Regionalpark eine mystische, wenn auch schlammige Naturkulisse. Ein Besuch der Thermalbäder ist der perfekte Abschluss, um den Regen und die Anstrengung im warmen Wasser zu vergessen.",
             "hu": "Esős kerékpártúra Saint-Amand-ban: a reggel frissítően indul a toronynál. Délben óvatosan tekerünk a vizes utakon a Moulin Blanc felé. Délután a regionális park misztikus, bár sáros természeti hátteret nyújt. A termálfürdő meglátogatása a tökéletes zárás, ahol a meleg vízben elfelejthetjük az esőt.",
             "ro": "Tur cu bicicleta pe ploaie în Saint-Amand: dimineața începe energic la turn. La prânz, pedalăm cu grijă pe drumurile ude spre Moulin Blanc. După-amiaza, parcul regional oferă un cadru natural mistic, deși noroios. Vizita la băile termale este finalul perfect pentru a uita de ploaie în apa caldă.",
-            "en": "Rainy bike tour through Saint-Amand: the morning starts briskly at the tower. At noon, we cycle carefully over wet paths to the Moulin Blanc. In the afternoon, the regional park provides a mystical, albeit muddy, natural backdrop. A visit to the thermal baths is the perfect ending to forget the rain in the warm water."
+            "en": "Rainy bike tour through Saint-Amand: the morning starts briskly at the tower. At noon, we cycle carefully over wet paths to the Moulin Blanc. In the afternoon, the regional park provides a mystical, albeit muddy, natural backdrop. A visit to the thermal baths is the perfect ending to forget the rain in the warm water.",
+            "fr": "Circuit à vélo sous la pluie à travers Saint-Amand : la matinée commence vive à la tour. À midi, nous pédalons prudemment sur des chemins mouillés jusqu’au Moulin Blanc. L’après-midi, le parc régional offre un décor naturel mystique, quoique boueux. Une visite aux thermes est la fin parfaite pour oublier la pluie dans l’eau chaude."
           },
           "stops": [
             {
@@ -468,13 +515,15 @@
                 "de": "Tour Abbatiale",
                 "hu": "Tour Abbatiale",
                 "ro": "Tour Abbatiale",
-                "en": "Tour Abbatiale"
+                "en": "Tour Abbatiale",
+                "fr": "Tour abbatiale"
               },
               "tip_5lang": {
                 "de": "Parken Sie Ihr Rad unter dem Dachvorsprung; die barocken Details sind auch bei grauem Himmel beeindruckend.",
                 "hu": "Parkoljon a tetőpárkány alá; a barokk részletek még szürke égbolt mellett is lenyűgöző látványt nyújtanak.",
                 "ro": "Parcați bicicleta sub streșină; detaliile baroce sunt impresionante chiar și sub un cer cenușiu.",
-                "en": "Park your bike under the eaves; the baroque details are impressive even under a gray sky."
+                "en": "Park your bike under the eaves; the baroque details are impressive even under a gray sky.",
+                "fr": "Garez votre vélo sous les auvents ; les détails baroques impressionnent même sous un ciel gris."
               }
             },
             {
@@ -482,13 +531,15 @@
                 "de": "Moulin Blanc",
                 "hu": "Moulin Blanc",
                 "ro": "Moulin Blanc",
-                "en": "Moulin Blanc"
+                "en": "Moulin Blanc",
+                "fr": "Moulin Blanc"
               },
               "tip_5lang": {
                 "de": "Vorsicht auf dem unbefestigten Pfad zur Mühle; bei Regen kann der Untergrund sehr rutschig und aufgeweicht sein.",
                 "hu": "Vigyázzon a malomhoz vezető burkolatlan úton; esőben a talaj nagyon csúszós és felázott lehet.",
                 "ro": "Atenție pe poteca neasfaltată spre moară; pe ploaie, solul poate fi foarte alunecos și moale.",
-                "en": "Careful on the unpaved path to the mill; in the rain, the ground can be very slippery and soaked."
+                "en": "Careful on the unpaved path to the mill; in the rain, the ground can be very slippery and soaked.",
+                "fr": "Attention au chemin non revêtu menant au moulin ; sous la pluie, le sol peut être très glissant et détrempé."
               }
             },
             {
@@ -496,13 +547,15 @@
                 "de": "Église Sainte-Thérèse",
                 "hu": "Église Sainte-Thérèse",
                 "ro": "Église Sainte-Thérèse",
-                "en": "Église Sainte-Thérèse"
+                "en": "Église Sainte-Thérèse",
+                "fr": "Église Sainte-Thérèse"
               },
               "tip_5lang": {
                 "de": "Nutzen Sie den Kirchenbesuch, um Ihre Regenbekleidung kurz zu lüften und neue Energie im Trockenen zu sammeln.",
                 "hu": "Használja ki a templomlátogatást az esőruházat átszellőztetésére és az energiagyűjtésre a száraz belsőben.",
                 "ro": "Folosiți vizita la biserică pentru a vă aerisi puțin hainele de ploaie și pentru a vă recupera energia la uscat.",
-                "en": "Use the church visit to briefly air out your rain gear and gather new energy in the dry interior."
+                "en": "Use the church visit to briefly air out your rain gear and gather new energy in the dry interior.",
+                "fr": "Profitez de la visite de l’église pour aérer brièvement votre équipement de pluie et reprendre des forces à l’intérieur au sec."
               }
             },
             {
@@ -510,13 +563,15 @@
                 "de": "Naturpark Scarpe-Escaut",
                 "hu": "Scarpe-Escaut Regionális Park",
                 "ro": "Parcul Regional Scarpe-Escaut",
-                "en": "Scarpe-Escaut Regional Park"
+                "en": "Scarpe-Escaut Regional Park",
+                "fr": "Parc régional Scarpe-Escaut"
               },
               "tip_5lang": {
                 "de": "Schutzbleche sind hier Pflicht; die Waldwege sind nass, aber die frische Regenluft ist herrlich belebend.",
                 "hu": "A sárvédő itt kötelező; az erdei utak vizesek, de a friss eső utáni levegő csodálatosan élénkítő.",
                 "ro": "Apărătorile de noroi sunt obligatorii aici; potecile din pădure sunt ude, dar aerul proaspăt de ploaie este revigorant.",
-                "en": "Mudguards are mandatory here; the forest paths are wet, but the fresh rain air is wonderfully invigorating."
+                "en": "Mudguards are mandatory here; the forest paths are wet, but the fresh rain air is wonderfully invigorating.",
+                "fr": "Les garde-boues sont indispensables ici ; les chemins forestiers sont humides, mais l’air frais après la pluie est merveilleusement vivifiant."
               }
             },
             {
@@ -524,13 +579,15 @@
                 "de": "Saint-Amand Thermalbäder",
                 "hu": "Saint-Amand Termálfürdő",
                 "ro": "Băile Termale Saint-Amand",
-                "en": "Saint-Amand Thermal Baths"
+                "en": "Saint-Amand Thermal Baths",
+                "fr": "Thermes de Saint-Amand"
               },
               "tip_5lang": {
                 "de": "Der beste Ort bei Regen: Lassen Sie das Fahrrad draußen stehen und tauchen Sie ein in die warme Entspannung.",
                 "hu": "A legjobb hely esőben: hagyja kint a kerékpárt, és merüljön el a meleg vizes ellazulásban a fedett medencékben.",
                 "ro": "Cel mai bun loc pe ploaie: lăsați bicicleta afară și scufundați-vă în relaxarea caldă a bazinelor.",
-                "en": "The best place in the rain: leave your bike outside and dive into warm relaxation in the indoor pools."
+                "en": "The best place in the rain: leave your bike outside and dive into warm relaxation in the indoor pools.",
+                "fr": "Le meilleur endroit sous la pluie : laissez votre vélo dehors et plongez dans la détente chaude des bassins intérieurs."
               }
             },
             {
@@ -538,13 +595,15 @@
                 "de": "Église Saint-Jean-Baptiste",
                 "hu": "Keresztelő Szent János templom",
                 "ro": "Biserica Saint-Jean-Baptiste",
-                "en": "Église Saint-Jean-Baptiste"
+                "en": "Église Saint-Jean-Baptiste",
+                "fr": "Église Saint-Jean-Baptiste"
               },
               "tip_5lang": {
                 "de": "Ein ruhiger Ausklang im Trockenen; prüfen Sie Ihre Bremsen vor der finalen Rückfahrt auf den nassen Straßen.",
                 "hu": "Csendes lezárás száraz helyen; a vizes utakon való végső visszatérés előtt ellenőrizze a fékeket.",
                 "ro": "Un final liniștit la uscat; verificați frânele înainte de drumul de întoarcere pe străzile ude.",
-                "en": "A quiet finish in the dry; check your brakes before the final ride back on the wet roads."
+                "en": "A quiet finish in the dry; check your brakes before the final ride back on the wet roads.",
+                "fr": "Une fin tranquille au sec ; vérifiez vos freins avant le dernier retour sur routes mouillées."
               }
             }
           ]
@@ -554,7 +613,8 @@
             "de": "Winterliches Radeln erfordert gute Schichten: Morgens geht es bei Frost zum Abteiturm. Mittags radeln wir durch die kahle Landschaft zum Moulin Blanc. Die kalte Luft im Naturpark ist erfrischend, aber wir freuen uns auf die wohlige Wärme der Thermalbäder am Nachmittag. Sobald die Dämmerung gegen 17:00 Uhr einsetzt, beenden wir unsere Tour an der beleuchteten Kirche.",
             "hu": "A téli tekerés réteges öltözéket kíván: reggel fagyban indulunk a toronyhoz. Délben a kopár tájon át biciklizünk a Moulin Blanc-hoz. A természetvédelmi park hideg levegője frissítő, de délután már várjuk a termálfürdő melegét. Amint 17:00 körül beáll a szürkület, a kivilágított templomnál fejezzük be a túrát.",
             "ro": "Ciclismul de iarnă necesită haine în straturi: dimineața plecăm spre turn pe ger. La prânz, pedalăm prin peisajul golaș spre Moulin Blanc. Aerul rece din parcul natural este revigorant, dar așteptăm cu nerăbdare căldura băilor termale. Odată cu amurgul de la ora 17:00, încheiem turul la biserica iluminată.",
-            "en": "Winter cycling requires good layers: in the morning, we head to the abbey tower in the frost. At noon, we cycle through the bare landscape to the Moulin Blanc. The cold air in the nature park is refreshing, but we look forward to the warmth of the thermal baths. As dusk sets in around 17:00, we finish our tour at the illuminated church."
+            "en": "Winter cycling requires good layers: in the morning, we head to the abbey tower in the frost. At noon, we cycle through the bare landscape to the Moulin Blanc. The cold air in the nature park is refreshing, but we look forward to the warmth of the thermal baths. As dusk sets in around 17:00, we finish our tour at the illuminated church.",
+            "fr": "Le cyclisme hivernal demande de bonnes couches : le matin, nous nous rendons à la tour de l’abbaye dans le givre. À midi, nous roulons à travers le paysage dénudé jusqu’au Moulin Blanc. L’air froid du parc naturel est revigorant, mais nous attendons avec impatience la chaleur des thermes. Au crépuscule, vers 17:00, nous terminons notre circuit à l’église éclairée."
           },
           "stops": [
             {
@@ -562,13 +622,15 @@
                 "de": "Tour Abbatiale",
                 "hu": "Tour Abbatiale",
                 "ro": "Tour Abbatiale",
-                "en": "Tour Abbatiale"
+                "en": "Tour Abbatiale",
+                "fr": "Tour abbatiale"
               },
               "tip_5lang": {
                 "de": "Die kalte Wintersonne lässt den Stein hell erstrahlen; achten Sie auf mögliche Eisstellen auf dem Vorplatz.",
                 "hu": "A hideg téli napfény ragyogóvá teszi a köveket; ügyeljen az esetleges jeges foltokra az előtéren.",
                 "ro": "Soarele rece de iarnă face piatra să strălucească; atenție la posibilele porțiuni cu gheață din fața turnului.",
-                "en": "The cold winter sun makes the stone shine brightly; watch out for possible icy spots on the forecourt."
+                "en": "The cold winter sun makes the stone shine brightly; watch out for possible icy spots on the forecourt.",
+                "fr": "Le soleil froid d’hiver fait briller la pierre ; prenez garde aux éventuelles plaques de verglas sur le parvis."
               }
             },
             {
@@ -576,13 +638,15 @@
                 "de": "Moulin Blanc",
                 "hu": "Moulin Blanc",
                 "ro": "Moulin Blanc",
-                "en": "Moulin Blanc"
+                "en": "Moulin Blanc",
+                "fr": "Moulin Blanc"
               },
               "tip_5lang": {
                 "de": "Die weiße Mühle wirkt vor dem grauen Winterhimmel fast surreal; ziehen Sie Ihren Schal bei der offenen Fahrt fest an.",
                 "hu": "A fehér malom szinte szürreális a szürke téli ég előtt; a nyílt terepen való tekeréskor húzza szorosra a sálját.",
                 "ro": "Moara albă pare aproape ireală pe fundalul cerului gri; strângeți bine fularul în timpul deplasării prin câmp deschis.",
-                "en": "The white mill looks almost surreal against the gray winter sky; tighten your scarf during the open ride."
+                "en": "The white mill looks almost surreal against the gray winter sky; tighten your scarf during the open ride.",
+                "fr": "Le moulin blanc paraît presque surréaliste contre le ciel gris hivernal ; resserrez votre écharpe pendant la traversée à découvert."
               }
             },
             {
@@ -590,13 +654,15 @@
                 "de": "Église Sainte-Thérèse",
                 "hu": "Église Sainte-Thérèse",
                 "ro": "Église Sainte-Thérèse",
-                "en": "Église Sainte-Thérèse"
+                "en": "Église Sainte-Thérèse",
+                "fr": "Église Sainte-Thérèse"
               },
               "tip_5lang": {
                 "de": "Ein kurzer Stopp zum Aufwärmen im Inneren; die schlichte Architektur strahlt im Winter eine besondere Ruhe aus.",
                 "hu": "Egy rövid megálló a belső felmelegedéshez; az egyszerű építészet télen különleges nyugalmat áraszt.",
                 "ro": "O scurtă oprire pentru a vă încălzi în interior; arhitectura simplă emană o liniște deosebită iarna.",
-                "en": "A short stop to warm up inside; the simple architecture radiates a special calm in winter."
+                "en": "A short stop to warm up inside; the simple architecture radiates a special calm in winter.",
+                "fr": "Un court arrêt pour se réchauffer à l’intérieur ; l’architecture simple dégage un calme particulier en hiver."
               }
             },
             {
@@ -604,13 +670,15 @@
                 "de": "Naturpark Scarpe-Escaut",
                 "hu": "Scarpe-Escaut Regionális Park",
                 "ro": "Parcul Regional Scarpe-Escaut",
-                "en": "Scarpe-Escaut Regional Park"
+                "en": "Scarpe-Escaut Regional Park",
+                "fr": "Parc régional Scarpe-Escaut"
               },
               "tip_5lang": {
                 "de": "Genießen Sie die Ruhe des schlafenden Waldes; Thermokleidung ist für die windigen Abschnitte entlang des Wassers wichtig.",
                 "hu": "Élvezze az alvó erdő csendjét; a víz menti szeles szakaszokon fontos a hőtartó ruházat használata.",
                 "ro": "Bucurați-vă de liniștea pădurii adormite; îmbrăcămintea termică este importantă pentru secțiunile cu vânt de-a lungul apei.",
-                "en": "Enjoy the silence of the sleeping forest; thermal clothing is important for the windy sections along the water."
+                "en": "Enjoy the silence of the sleeping forest; thermal clothing is important for the windy sections along the water.",
+                "fr": "Appréciez le silence de la forêt endormie ; des vêtements thermiques sont importants pour les sections venteuses le long de l’eau."
               }
             },
             {
@@ -618,13 +686,15 @@
                 "de": "Saint-Amand Thermalbäder",
                 "hu": "Saint-Amand Termálfürdő",
                 "ro": "Băile Termale Saint-Amand",
-                "en": "Saint-Amand Thermal Baths"
+                "en": "Saint-Amand Thermal Baths",
+                "fr": "Thermes de Saint-Amand"
               },
               "tip_5lang": {
                 "de": "Der ultimative Winter-Tipp: Das heiße Wasser ist nach einer frostigen Radtour eine wahre Wohltat für die Muskeln.",
                 "hu": "A végső téli tipp: a forró víz a fagyos biciklizés után igazi áldás a fáradt izmoknak.",
                 "ro": "Sfatul suprem de iarnă: apa fierbinte este o adevărată binecuvântare pentru mușchi după o tură geroasă.",
-                "en": "The ultimate winter tip: the hot water is a true blessing for the muscles after a frosty bike ride."
+                "en": "The ultimate winter tip: the hot water is a true blessing for the muscles after a frosty bike ride.",
+                "fr": "Le meilleur conseil hivernal : l’eau chaude est une vraie bénédiction pour les muscles après une balade glaciale à vélo."
               }
             },
             {
@@ -632,13 +702,15 @@
                 "de": "Église Saint-Jean-Baptiste",
                 "hu": "Keresztelő Szent János templom",
                 "ro": "Biserica Saint-Jean-Baptiste",
-                "en": "Église Saint-Jean-Baptiste"
+                "en": "Église Saint-Jean-Baptiste",
+                "fr": "Église Saint-Jean-Baptiste"
               },
               "tip_5lang": {
                 "de": "Beenden Sie die Tour, bevor es zu kalt wird; die abendliche Beleuchtung weist Ihnen den Weg zurück in die Stadt.",
                 "hu": "Fejezze be a túrát, mielőtt túl hideg lesz; az esti fények mutatják az utat vissza a városba.",
                 "ro": "Încheiați turul înainte de a se face prea frig; iluminatul de seară vă va ghida drumul înapoi spre oraș.",
-                "en": "Finish the tour before it gets too cold; the evening lighting will guide your way back to the city."
+                "en": "Finish the tour before it gets too cold; the evening lighting will guide your way back to the city.",
+                "fr": "Terminez la visite avant qu’il ne fasse trop froid ; l’éclairage du soir vous guidera pour le retour en ville."
               }
             }
           ]
@@ -658,7 +730,8 @@
             "de": "Tour Abbatiale",
             "hu": "Tour Abbatiale",
             "ro": "Tour Abbatiale",
-            "en": "Tour Abbatiale"
+            "en": "Tour Abbatiale",
+            "fr": "Tour abbatiale"
           },
           "coords": [
             3.428722,
@@ -673,7 +746,8 @@
             "de": "Bewundern Sie den markanten barocken Turm als Überrest der Abtei und erklimmen Sie dessen Stufen für einen herrlichen Panoramablick auf die Stadt.",
             "hu": "Csodálja meg a barokk apátsági tornyot, amely az egykori kolostor lenyűgöző maradványa, és másszon fel a lépcsőkön a páratlan városi panorámáért.",
             "ro": "Admirați impresionantul turn baroc, principala rămășiță a abației, și urcați treptele sale pentru a vă bucura de o vedere panoramică magnifică asupra orașului.",
-            "en": "Admire the striking Baroque tower which is the main remnant of the abbey, and climb its stairs for a magnificent panoramic view over the town."
+            "en": "Admire the striking Baroque tower which is the main remnant of the abbey, and climb its stairs for a magnificent panoramic view over the town.",
+            "fr": "Admirez la remarquable tour baroque, principal vestige de l'abbaye, et montez ses escaliers pour une magnifique vue panoramique sur la ville."
           }
         },
         {
@@ -681,7 +755,8 @@
             "de": "Église Notre-Dame des Malades",
             "hu": "Église Notre-Dame des Malades",
             "ro": "Église Notre-Dame des Malades",
-            "en": "Église Notre-Dame des Malades"
+            "en": "Église Notre-Dame des Malades",
+            "fr": "Église Notre-Dame des Malades"
           },
           "coords": [
             3.434563,
@@ -696,7 +771,8 @@
             "de": "Besuchen Sie diesen charmanten Ort, der historisch den Kranken diente, und nehmen Sie sich einen Moment der Besinnung in der friedlichen Umgebung abseits des Zentrums.",
             "hu": "Látogasson el erre a bájos egyházi helyszínre, amely történelmileg a betegeket szolgálta, és töltsön el egy percet csendes elmélkedéssel a központtól távolabb.",
             "ro": "Vizitați acest loc religios fermecător care a servit istoric bolnavilor și luați-vă un moment de reflecție în împrejurimile pașnice departe de centru.",
-            "en": "Visit this charming religious site that historically served the ill, taking a moment of quiet reflection in the peaceful surroundings away from the center."
+            "en": "Visit this charming religious site that historically served the ill, taking a moment of quiet reflection in the peaceful surroundings away from the center.",
+            "fr": "Visitez ce charmant lieu de culte qui a historiquement accueilli les malades, en prenant un moment de calme et de réflexion à l’écart du centre."
           }
         },
         {
@@ -704,7 +780,8 @@
             "de": "Naturpark Scarpe-Escaut",
             "hu": "Scarpe-Escaut Regionális Park",
             "ro": "Parcul Regional Scarpe-Escaut",
-            "en": "Scarpe-Escaut Regional Park"
+            "en": "Scarpe-Escaut Regional Park",
+            "fr": "Parc régional Scarpe-Escaut"
           },
           "coords": [
             3.411019,
@@ -719,7 +796,8 @@
             "de": "Atmen Sie die frische Luft ein und wandern Sie auf den Wegen dieses riesigen Naturreservats, wobei bequeme Schuhe und Insektenschutz im Sommer ratsam sind.",
             "hu": "Lélegezze be a friss levegőt e hatalmas természetvédelmi terület ösvényein, de nyáron feltétlenül hozzon magával kényelmes cipőt és rovarriasztót.",
             "ro": "Respirați aerul proaspăt pe traseele verzi ale acestei vaste rezervații naturale, purtând încălțăminte comodă și aducând repelent împotriva insectelor vara.",
-            "en": "Breathe in the fresh air and walk along the lush trails of this vast natural reserve, but be sure to bring comfortable shoes and insect repellent in summer."
+            "en": "Breathe in the fresh air and walk along the lush trails of this vast natural reserve, but be sure to bring comfortable shoes and insect repellent in summer.",
+            "fr": "Respirez l'air frais et parcourez les sentiers verdoyants de cette vaste réserve naturelle, mais pensez à apporter des chaussures confortables et un anti-moustique en été."
           }
         },
         {
@@ -727,7 +805,8 @@
             "de": "Moulin Blanc",
             "hu": "Moulin Blanc",
             "ro": "Moulin Blanc",
-            "en": "Moulin Blanc"
+            "en": "Moulin Blanc",
+            "fr": "Moulin Blanc"
           },
           "coords": [
             3.401702,
@@ -742,7 +821,8 @@
             "de": "Fotografieren Sie diese klassische weiße Windmühle als Zeugnis der landwirtschaftlichen Vergangenheit, da sie besonders im Morgenlicht fotogen ist.",
             "hu": "Készítsen egy fotót erről a klasszikus fehér szélmalomról, amely a mezőgazdasági múltat őrzi, és reggeli fényben a leginkább fotogén látványosság.",
             "ro": "Fotografiați această moară de vânt albă, o mărturie a trecutului agricol al regiunii, deosebit de spectaculoasă în lumina de dimineață.",
-            "en": "Capture a photo of this classic white windmill standing as a testament to the region's agricultural past, as it is particularly photogenic in the morning light."
+            "en": "Capture a photo of this classic white windmill standing as a testament to the region's agricultural past, as it is particularly photogenic in the morning light.",
+            "fr": "Immortalisez ce moulin à vent blanc classique, témoin du passé agricole de la région, particulièrement photogénique à la lumière du matin."
           }
         },
         {
@@ -750,7 +830,8 @@
             "de": "Saint-Amand Thermalbäder",
             "hu": "Saint-Amand Termálfürdő",
             "ro": "Băile Termale Saint-Amand",
-            "en": "Saint-Amand Thermal Baths"
+            "en": "Saint-Amand Thermal Baths",
+            "fr": "Thermes de Saint-Amand"
           },
           "coords": [
             3.451364,
@@ -765,7 +846,8 @@
             "de": "Entspannen Sie an den berühmten Thermalquellen, die der Stadt ihren Namen gaben, und erwägen Sie eine kurze Wellnessbehandlung oder genießen Sie die Anlagen.",
             "hu": "Pihenjen a városnak nevet adó híres termálforrásoknál, ahol érdemes kipróbálni egy rövidebb wellness kezelést, vagy csak sétálni a pihentető környezetben.",
             "ro": "Relaxați-vă la celebrele izvoare termale care dau numele orașului, optând pentru un tratament spa scurt sau bucurându-vă de zonele de agrement din jur.",
-            "en": "Relax and discover the famous thermal springs that gave the town its name, considering a short spa treatment or simply enjoying the recreational grounds around them."
+            "en": "Relax and discover the famous thermal springs that gave the town its name, considering a short spa treatment or simply enjoying the recreational grounds around them.",
+            "fr": "Détendez-vous et découvrez les célèbres sources thermales qui ont donné son nom à la ville, en envisageant un court soin spa ou en profitant simplement des espaces de loisirs autour."
           }
         },
         {
@@ -773,7 +855,8 @@
             "de": "Église Saint-Jean-Baptiste",
             "hu": "Keresztelő Szent János templom",
             "ro": "Biserica Saint-Jean-Baptiste",
-            "en": "Église Saint-Jean-Baptiste"
+            "en": "Église Saint-Jean-Baptiste",
+            "fr": "Église Saint-Jean-Baptiste"
           },
           "coords": [
             3.460869,
@@ -788,7 +871,8 @@
             "de": "Beenden Sie Ihre Erkundung an dieser eleganten Kirche mit ihrem bemerkenswerten Glockenturm und achten Sie auf die vom Nachmittagslicht beleuchtete Handwerkskunst.",
             "hu": "Zárja a felfedezést ennél az elegáns, lenyűgöző harangtoronnyal rendelkező templomnál, és figyelje meg a délutáni napfényben fürdő finom kőfaragásokat.",
             "ro": "Încheiați explorarea la această biserică elegantă cu un clopotniță remarcabilă și acordați timp detaliilor de piatră luminate de soarele după-amiezii.",
-            "en": "Conclude your exploration at this elegant church with its notable bell tower, and take the time to notice the fine stonework illuminated by the afternoon sun."
+            "en": "Conclude your exploration at this elegant church with its notable bell tower, and take the time to notice the fine stonework illuminated by the afternoon sun.",
+            "fr": "Concluez votre exploration dans cette élégante église au clocher remarquable, et prenez le temps de remarquer la belle pierre illuminée par le soleil de l’après-midi."
           }
         }
       ],
@@ -796,7 +880,8 @@
         "de": "Vormittag: Wir starten am zentralen Tour Abbatiale und fahren bequem in den Süden, um die historische Église Notre-Dame des Malades zu erkunden. Mittag: Eine kurze Fahrt bringt uns zum Naturpark Scarpe-Escaut, wo wir parken und die Natur genießen, bevor wir die Mühle Moulin Blanc besuchen. Nachmittag: Wir steuern die Ostseite der Stadt an, besuchen die Thermalbäder und beenden die Tour an der Église Saint-Jean-Baptiste. Abend: Dank des Autos können wir für ein entspanntes Abendessen flexibel ein Landgasthaus oder ein Bistro im Zentrum wählen.",
         "hu": "Délelőtt: A központi apátsági toronytól indulunk, majd kényelmesen a déli peremre autózunk, hogy megnézzük a történelmi Église Notre-Dame des Malades-t. Dél: Egy rövid út után a Scarpe-Escaut Regionális Parkban parkolunk le, megmozgatjuk a lábunkat a természetben, majd a Moulin Blanc felé tartunk. Délután: A város keleti felébe hajtunk a termálfürdőhöz, és a Keresztelő Szent János templomnál fejezzük be a városnézést. Este: Az autó nyújtotta szabadsággal egy vidéki fogadóban vagy központi bisztróban is megejthetjük a vacsorát.",
         "ro": "Dimineața: Părăsim centralul Tour Abbatiale și conducem confortabil spre sud pentru a explora istorica biserică Notre-Dame des Malades. Prânz: Un scurt drum ne aduce în Parcul Regional Scarpe-Escaut, unde parcăm și ne relaxăm în natură înainte de a vedea Moulin Blanc. După-amiaza: Ne îndreptăm spre estul orașului pentru a vizita Băile Termale și a încheia la Biserica Saint-Jean-Baptiste. Seara: Mobilitatea oferită de mașină ne permite să alegem orice han rustic sau bistro central pentru o masă de seară liniștită.",
-        "en": "Morning: We depart from the central Tour Abbatiale and comfortably drive to the southern outskirts to explore the historical Église Notre-Dame des Malades. Midday: A short drive brings us into the heart of the Scarpe-Escaut Regional Park, where we can park and stretch our legs in nature before checking out the Moulin Blanc. Afternoon: We cruise to the eastern side of the town to visit the Thermal Baths and conclude our structured sightseeing at Église Saint-Jean-Baptiste. Evening: The mobility of a car allows us to pick any countryside inn or lively central bistro for a relaxing evening meal."
+        "en": "Morning: We depart from the central Tour Abbatiale and comfortably drive to the southern outskirts to explore the historical Église Notre-Dame des Malades. Midday: A short drive brings us into the heart of the Scarpe-Escaut Regional Park, where we can park and stretch our legs in nature before checking out the Moulin Blanc. Afternoon: We cruise to the eastern side of the town to visit the Thermal Baths and conclude our structured sightseeing at Église Saint-Jean-Baptiste. Evening: The mobility of a car allows us to pick any countryside inn or lively central bistro for a relaxing evening meal.",
+        "fr": "Matin : nous partons de la Tour abbatiale centrale et roulons confortablement vers la périphérie sud pour explorer l’historique Église Notre-Dame des Malades. Midi : une courte route nous mène au cœur du parc régional Scarpe-Escaut, où nous pouvons nous garer et nous dégourdir les jambes en pleine nature avant de visiter le Moulin Blanc. Après-midi : nous traversons la partie est de la ville pour visiter les thermes et conclure nos visites structurées à l’Église Saint-Jean-Baptiste. Soir : la mobilité de la voiture nous permet de choisir une auberge de campagne ou un bistro central animé pour un dîner relaxant."
       },
       "variants": {
         "rainy": {
@@ -804,7 +889,8 @@
             "de": "Mit dem Auto durch das regnerische Saint-Amand: Trocken erreichen wir morgens den Abteiturm. Mittags führt die Fahrt zur Kirche Notre-Dame, während die Scheibenwischer im Takt arbeiten. Im Naturpark genießen wir den Ausblick aus dem warmen Auto. Den Nachmittag verbringen wir entspannt in den Thermalbädern, geschützt vor dem ungemütlichen Wetter draußen.",
             "hu": "Autóval az esős Saint-Amand-ban: szárazon érkezünk reggel a toronyhoz. Délben a Notre-Dame templomhoz hajtunk, miközben az ablaktörlők ütemesen dolgoznak. A természetvédelmi parkban a meleg autóból élvezzük a kilátást. A délutánt a termálfürdőben töltjük, védve a kinti barátságtalan időjárástól.",
             "ro": "Cu mașina prin Saint-Amand pe ploaie: dimineața ajungem uscați la turn. La prânz conducem spre biserica Notre-Dame, în timp ce ștergătoarele lucrează ritmic. În parcul natural ne bucurăm de priveliște din mașina caldă. Petrecem după-amiaza relaxați la băile termale, protejați de vremea neplăcută de afară.",
-            "en": "By car through rainy Saint-Amand: we arrive dry at the tower in the morning. At noon, we drive to the Notre-Dame church while the wipers work rhythmically. In the nature park, we enjoy the view from the warm car. We spend the afternoon relaxing at the thermal baths, protected from the unpleasant weather outside."
+            "en": "By car through rainy Saint-Amand: we arrive dry at the tower in the morning. At noon, we drive to the Notre-Dame church while the wipers work rhythmically. In the nature park, we enjoy the view from the warm car. We spend the afternoon relaxing at the thermal baths, protected from the unpleasant weather outside.",
+            "fr": "En voiture à travers un Saint-Amand pluvieux : nous arrivons au sec à la tour le matin. À midi, nous nous rendons à l’église Notre-Dame tandis que les essuie-glaces travaillent rythmiquement. Dans le parc naturel, nous profitons de la vue depuis la voiture chauffée. Nous passons l’après-midi à nous détendre aux thermes, protégés du mauvais temps extérieur."
           },
           "stops": [
             {
@@ -812,13 +898,15 @@
                 "de": "Tour Abbatiale",
                 "hu": "Tour Abbatiale",
                 "ro": "Tour Abbatiale",
-                "en": "Tour Abbatiale"
+                "en": "Tour Abbatiale",
+                "fr": "Tour abbatiale"
               },
               "tip_5lang": {
                 "de": "Nutzen Sie den nahen Parkplatz; so kommen Sie fast trocken zu diesem beeindruckenden architektonischen Erbe.",
                 "hu": "Használja a közeli parkolót; így szinte szárazon juthat el ehhez a lenyűgöző építészeti örökséghez.",
                 "ro": "Folosiți parcarea din apropiere; astfel veți ajunge aproape uscat la această moștenire arhitecturală impresionantă.",
-                "en": "Use the nearby parking lot; this way you can reach this impressive architectural heritage almost dry."
+                "en": "Use the nearby parking lot; this way you can reach this impressive architectural heritage almost dry.",
+                "fr": "Utilisez le parking à proximité ; ainsi vous pouvez atteindre ce patrimoine architectural impressionnant presque au sec."
               }
             },
             {
@@ -826,13 +914,15 @@
                 "de": "Église Notre-Dame des Malades",
                 "hu": "Église Notre-Dame des Malades",
                 "ro": "Église Notre-Dame des Malades",
-                "en": "Église Notre-Dame des Malades"
+                "en": "Église Notre-Dame des Malades",
+                "fr": "Église Notre-Dame des Malades"
               },
               "tip_5lang": {
                 "de": "Parken Sie direkt davor; der Regen verleiht der Fassade und der Umgebung eine ruhige, fast mystische Ausstrahlung.",
                 "hu": "Parkoljon közvetlenül előtte; az eső a homlokzatnak és a környéknek nyugodt, szinte misztikus kisugárzást kölcsönöz.",
                 "ro": "Parcați chiar în față; ploaia conferă fațadei și împrejurimilor o aură calmă, aproape mistică.",
-                "en": "Park directly in front; the rain gives the facade and the surroundings a calm, almost mystical radiance."
+                "en": "Park directly in front; the rain gives the facade and the surroundings a calm, almost mystical radiance.",
+                "fr": "Garez-vous directement devant ; la pluie donne à la façade et aux abords une radiance calme, presque mystique."
               }
             },
             {
@@ -840,13 +930,15 @@
                 "de": "Naturpark Scarpe-Escaut",
                 "hu": "Scarpe-Escaut Regionális Park",
                 "ro": "Parcul Regional Scarpe-Escaut",
-                "en": "Scarpe-Escaut Regional Park"
+                "en": "Scarpe-Escaut Regional Park",
+                "fr": "Parc régional Scarpe-Escaut"
               },
               "tip_5lang": {
                 "de": "Ein kurzer Spaziergang mit dem Schirm lohnt sich; die Farben der Natur wirken im Regen besonders satt und tief.",
                 "hu": "Megéri egy rövid esernyős séta; a természet színei az esőben különösen telítettnek és mélynek tűnnek.",
                 "ro": "O scurtă plimbare cu umbrela merită; culorile naturii par deosebit de saturate și profunde pe ploaie.",
-                "en": "A short walk with an umbrella is worth it; the colors of nature appear particularly saturated and deep in the rain."
+                "en": "A short walk with an umbrella is worth it; the colors of nature appear particularly saturated and deep in the rain.",
+                "fr": "Une courte promenade sous un parapluie en vaut la peine ; les couleurs de la nature paraissent particulièrement saturées et profondes sous la pluie."
               }
             },
             {
@@ -854,13 +946,15 @@
                 "de": "Moulin Blanc",
                 "hu": "Moulin Blanc",
                 "ro": "Moulin Blanc",
-                "en": "Moulin Blanc"
+                "en": "Moulin Blanc",
+                "fr": "Moulin Blanc"
               },
               "tip_5lang": {
                 "de": "Halten Sie kurz für ein Foto aus dem Fenster an; die weiße Mühle hebt sich stark vom grauen Regenhimmel ab.",
                 "hu": "Álljon meg egy fotóra az ablakból; a fehér malom erősen elüt a szürke esős égbolttól.",
                 "ro": "Opriți scurt pentru o fotografie de la fereastră; moara albă iese puternic în evidență pe cerul gri de ploaie.",
-                "en": "Stop briefly for a photo from the window; the white mill stands out strongly against the gray rainy sky."
+                "en": "Stop briefly for a photo from the window; the white mill stands out strongly against the gray rainy sky.",
+                "fr": "Arrêtez-vous brièvement pour une photo depuis la fenêtre ; le moulin blanc se détache fortement sur le ciel gris et pluvieux."
               }
             },
             {
@@ -868,13 +962,15 @@
                 "de": "Saint-Amand Thermalbäder",
                 "hu": "Saint-Amand Termálfürdő",
                 "ro": "Băile Termale Saint-Amand",
-                "en": "Saint-Amand Thermal Baths"
+                "en": "Saint-Amand Thermal Baths",
+                "fr": "Thermes de Saint-Amand"
               },
               "tip_5lang": {
                 "de": "Das ideale Ziel: Parken Sie bequem und verbringen Sie die Regenzeit im beheizten Innenbereich der Anlage.",
                 "hu": "Az ideális célpont: parkoljon kényelmesen, és töltse az esős időt a komplexum fűtött, fedett részlegén.",
                 "ro": "Destinația ideală: parcați confortabil și petreceți timpul ploios în secțiunea interioară încălzită a complexului.",
-                "en": "The ideal destination: park comfortably and spend the rainy time in the heated indoor area of the complex."
+                "en": "The ideal destination: park comfortably and spend the rainy time in the heated indoor area of the complex.",
+                "fr": "La destination idéale : garez-vous confortablement et passez le temps pluvieux dans les espaces intérieurs chauffés du complexe."
               }
             },
             {
@@ -882,13 +978,15 @@
                 "de": "Église Saint-Jean-Baptiste",
                 "hu": "Keresztelő Szent János templom",
                 "ro": "Biserica Saint-Jean-Baptiste",
-                "en": "Église Saint-Jean-Baptiste"
+                "en": "Église Saint-Jean-Baptiste",
+                "fr": "Église Saint-Jean-Baptiste"
               },
               "tip_5lang": {
                 "de": "Ein letzter trockener Halt, bevor Sie die Heimreise antreten; achten Sie bei Dunkelheit auf die Reflexionen auf der Fahrbahn.",
                 "hu": "Utolsó száraz megálló a hazaindulás előtt; sötétben ügyeljen az úttesten látható fényvisszaverődésekre.",
                 "ro": "O ultimă oprire uscată înainte de plecare; pe întuneric, aveți grijă la reflexiile de pe carosabil.",
-                "en": "A last dry stop before heading home; watch out for reflections on the roadway in the dark."
+                "en": "A last dry stop before heading home; watch out for reflections on the roadway in the dark.",
+                "fr": "Un dernier arrêt au sec avant de rentrer ; attention aux reflets sur la chaussée dans l’obscurité."
               }
             }
           ]
@@ -898,7 +996,8 @@
             "de": "Winterkomfort im Auto: Wir starten den frostigen Morgen am Abteiturm. Die Heizung sorgt für Wohlbefinden, während wir zu den Kirchen und durch den Naturpark fahren. Mittags bestaunen wir die kahle Mühle im Vorbeifahren. Der Nachmittag gehört den Thermalbädern – der Inbegriff winterlicher Entspannung. Wenn gegen 17:00 Uhr die Lichter der Stadt angehen, beenden wir den Tag gemütlich.",
             "hu": "Téli kényelem autóval: a fagyos reggelt a toronynál kezdjük. A fűtés gondoskodik a jó közérzetről, miközben a templomokhoz és a parkon át hajtunk. Délben a kopár malmot csodáljuk meg menet közben. A délután a termálfürdőé – a téli kikapcsolódás netovábbja. Amikor 17:00 körül kigyúlnak a város fényei, nyugodtan zárjuk a napot.",
             "ro": "Confort de iarnă în mașină: începem dimineața geroasă la turn. Încălzirea asigură starea de bine în timp ce conducem spre biserici și prin parcul natural. La prânz admirăm moara golașă din mers. După-amiaza aparține băilor termale – simbolul relaxării de iarnă. Când luminile orașului se aprind în jurul orei 17:00, încheiem ziua plăcut.",
-            "en": "Winter comfort in the car: we start the frosty morning at the abbey tower. The heater ensures well-being while we drive to the churches and through the nature park. At noon, we admire the bare mill while driving by. The afternoon belongs to the thermal baths – the epitome of winter relaxation. When the city lights come on around 17:00, we end the day cozily."
+            "en": "Winter comfort in the car: we start the frosty morning at the abbey tower. The heater ensures well-being while we drive to the churches and through the nature park. At noon, we admire the bare mill while driving by. The afternoon belongs to the thermal baths – the epitome of winter relaxation. When the city lights come on around 17:00, we end the day cozily.",
+            "fr": "Confort hivernal en voiture : nous commençons la matinée glacée à la tour de l’abbaye. Le chauffage assure le bien-être pendant que nous roulons vers les églises et traversons le parc naturel. À midi, nous admirons le moulin dépouillé en passant. L’après-midi est consacré aux thermes – l’incarnation de la détente hivernale. Quand les lumières de la ville s’allument vers 17:00, nous terminons la journée au chaud."
           },
           "stops": [
             {
@@ -906,13 +1005,15 @@
                 "de": "Tour Abbatiale",
                 "hu": "Tour Abbatiale",
                 "ro": "Tour Abbatiale",
-                "en": "Tour Abbatiale"
+                "en": "Tour Abbatiale",
+                "fr": "Tour abbatiale"
               },
               "tip_5lang": {
                 "de": "Lassen Sie den Motor kurz laufen, um die Scheiben zu enteisen, bevor Sie die klare Sicht am Turm genießen.",
                 "hu": "Hagyja járni a motort, hogy jégtelenítse a szélvédőt, mielőtt élvezné a tiszta kilátást a toronynál.",
                 "ro": "Lăsați motorul pornit puțin pentru a dezgheța parbrizul înainte de a vă bucura de vederea clară de la turn.",
-                "en": "Let the engine run for a bit to defrost the windows before enjoying the clear view at the tower."
+                "en": "Let the engine run for a bit to defrost the windows before enjoying the clear view at the tower.",
+                "fr": "Laissez tourner le moteur un moment pour dégivrer les vitres avant de profiter de la vue dégagée à la tour."
               }
             },
             {
@@ -920,13 +1021,15 @@
                 "de": "Église Notre-Dame des Malades",
                 "hu": "Église Notre-Dame des Malades",
                 "ro": "Église Notre-Dame des Malades",
-                "en": "Église Notre-Dame des Malades"
+                "en": "Église Notre-Dame des Malades",
+                "fr": "Église Notre-Dame des Malades"
               },
               "tip_5lang": {
                 "de": "Die Wärme des Autos ist nur einen kurzen Sprung entfernt; genießen Sie die winterliche Stille im Inneren.",
                 "hu": "Az autó melege csak egy rövid ugrásra van; élvezze a belső térben uralkodó méltóságteljes téli csendet.",
                 "ro": "Căldura mașinii este la doar un pas distanță; bucurați-vă de liniștea solemnă a iernii din interior.",
-                "en": "The warmth of the car is only a short hop away; enjoy the solemn winter silence inside the interior."
+                "en": "The warmth of the car is only a short hop away; enjoy the solemn winter silence inside the interior.",
+                "fr": "La chaleur de la voiture n’est qu’à quelques pas ; profitez du silence solennel de l’hiver à l’intérieur."
               }
             },
             {
@@ -934,13 +1037,15 @@
                 "de": "Naturpark Scarpe-Escaut",
                 "hu": "Scarpe-Escaut Regionális Park",
                 "ro": "Parcul Regional Scarpe-Escaut",
-                "en": "Scarpe-Escaut Regional Park"
+                "en": "Scarpe-Escaut Regional Park",
+                "fr": "Parc régional Scarpe-Escaut"
               },
               "tip_5lang": {
                 "de": "Bestaunen Sie die gefrorenen Wasserflächen sicher vom Uferweg aus, bevor Sie wieder ins warme Fahrzeug steigen.",
                 "hu": "Csodálja meg a befagyott vízfelületeket biztonságosan a parti útról, mielőtt visszaszállna a fűtött járműbe.",
                 "ro": "Admirați suprafețele de apă înghețată în siguranță de pe drumul de mal înainte de a urca înapoi în vehiculul cald.",
-                "en": "Admire the frozen water surfaces safely from the shore path before getting back into the warm vehicle."
+                "en": "Admire the frozen water surfaces safely from the shore path before getting back into the warm vehicle.",
+                "fr": "Admirez les surfaces d’eau gelées en toute sécurité depuis le sentier du rivage avant de remonter dans le véhicule chauffé."
               }
             },
             {
@@ -948,13 +1053,15 @@
                 "de": "Moulin Blanc",
                 "hu": "Moulin Blanc",
                 "ro": "Moulin Blanc",
-                "en": "Moulin Blanc"
+                "en": "Moulin Blanc",
+                "fr": "Moulin Blanc"
               },
               "tip_5lang": {
                 "de": "Ein tolles Fotomotiv bei tiefstehender Wintersonne; halten Sie kurz am Straßenrand für den perfekten Blick.",
                 "hu": "Remek fotótéma az alacsonyan járó téli napnál; álljon meg rövid időre az út szélén a tökéletes látványért.",
                 "ro": "Un motiv fotografic excelent sub soarele jos de iarnă; opriți scurt pe marginea drumului pentru vederea perfectă.",
-                "en": "A great photo opportunity under the low winter sun; stop briefly at the roadside for the perfect view."
+                "en": "A great photo opportunity under the low winter sun; stop briefly at the roadside for the perfect view.",
+                "fr": "Une belle occasion photo sous le bas soleil d’hiver ; arrêtez-vous brièvement au bord de la route pour la vue parfaite."
               }
             },
             {
@@ -962,13 +1069,15 @@
                 "de": "Saint-Amand Thermalbäder",
                 "hu": "Saint-Amand Termálfürdő",
                 "ro": "Băile Termale Saint-Amand",
-                "en": "Saint-Amand Thermal Baths"
+                "en": "Saint-Amand Thermal Baths",
+                "fr": "Thermes de Saint-Amand"
               },
               "tip_5lang": {
                 "de": "Der Parkplatz ist nah am Eingang; so verlieren Sie keine Zeit auf dem Weg ins heiße Thermalwasser.",
                 "hu": "A parkoló közel van a bejárathoz; így nem veszít időt a forró termálvíz felé vezető úton a hidegben.",
                 "ro": "Parcarea este aproape de intrare; astfel nu veți pierde timp în frig în drum spre apa termală fierbinte.",
-                "en": "The parking lot is close to the entrance; this way you won't lose time in the cold on your way to the hot thermal water."
+                "en": "The parking lot is close to the entrance; this way you won't lose time in the cold on your way to the hot thermal water.",
+                "fr": "Le parking est proche de l’entrée ; ainsi vous ne perdrez pas de temps dans le froid en allant vers l’eau thermale chaude."
               }
             },
             {
@@ -976,13 +1085,15 @@
                 "de": "Église Saint-Jean-Baptiste",
                 "hu": "Keresztelő Szent János templom",
                 "ro": "Biserica Saint-Jean-Baptiste",
-                "en": "Église Saint-Jean-Baptiste"
+                "en": "Église Saint-Jean-Baptiste",
+                "fr": "Église Saint-Jean-Baptiste"
               },
               "tip_5lang": {
                 "de": "Ein stimmungsvoller Abschluss im Halbdunkel; die Scheinwerfer leuchten die historischen Mauern warm an.",
                 "hu": "Hangulatos lezárás a félhomályban; az autó fényszórói meleg fénnyel világítják meg a történelmi falakat.",
                 "ro": "Un final atmosferic în penumbră; farurile mașinii luminează cald zidurile istorice ale bisericii.",
-                "en": "An atmospheric ending in the twilight; the car's headlights warmly illuminate the historical walls."
+                "en": "An atmospheric ending in the twilight; the car's headlights warmly illuminate the historical walls.",
+                "fr": "Une fin d’excursion atmosphérique au crépuscule ; les phares de la voiture éclairent chaleureusement les murs historiques."
               }
             }
           ]

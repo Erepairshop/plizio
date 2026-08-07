@@ -21,7 +21,8 @@
             "de": "Maison des Aïeules",
             "hu": "Maison des Aïeules",
             "ro": "Maison des Aïeules",
-            "en": "Maison des Aïeules"
+            "en": "Maison des Aïeules",
+            "fr": "Maison des Aïeules"
           },
           "coords": [
             -1.3039,
@@ -36,7 +37,8 @@
             "de": "Erkunden Sie dieses erhaltene historische Haus, um das Erbe der Inseln zu verstehen, aber kommen Sie früh, um die mittäglichen Touristenströme zu vermeiden.",
             "hu": "Fedezze fel ezt a megőrzött történelmi házat, hogy megértse a sziget ősi örökségét, de érkezzen korán, hogy elkerülje a déli turistatömeget.",
             "ro": "Explorați această casă istorică conservată pentru a înțelege patrimoniul ancestral al insulei, dar veniți devreme pentru a evita aglomerația turiștilor la prânz.",
-            "en": "Explore this preserved historical house to understand the island's ancestral heritage, but come early to avoid the midday tourist crowds."
+            "en": "Explore this preserved historical house to understand the island's ancestral heritage, but come early to avoid the midday tourist crowds.",
+            "fr": "Visitez cette maison historique préservée pour comprendre le patrimoine ancestral de l'île, mais venez tôt pour éviter la foule touristique de midi."
           }
         },
         {
@@ -44,7 +46,8 @@
             "de": "Kirche Saint-Pierre",
             "hu": "Saint-Pierre templom",
             "ro": "Biserica Saint-Pierre",
-            "en": "Saint-Pierre Church"
+            "en": "Saint-Pierre Church",
+            "fr": "Église Saint-Pierre"
           },
           "coords": [
             -1.305484,
@@ -59,7 +62,8 @@
             "de": "Bestaunen Sie die feinen Steinmetzarbeiten dieses zentralen Gotteshauses und vergessen Sie nicht, im Morgenlicht auf die faszinierenden Turmdetails zu achten.",
             "hu": "Csodálja meg e központi imahely bonyolult kőfaragásait, és ne felejtse el megfigyelni a lenyűgöző toronyrészleteket a reggeli fényben.",
             "ro": "Minunați-vă de pietrăria detaliată a acestui lăcaș central de cult și nu uitați să căutați detaliile fascinante ale turnului în lumina dimineții.",
-            "en": "Marvel at the intricate stonework of this central place of worship, and don't forget to look out for the fascinating tower details during the morning light."
+            "en": "Marvel at the intricate stonework of this central place of worship, and don't forget to look out for the fascinating tower details during the morning light.",
+            "fr": "Admirez la sculpture de pierre complexe de ce lieu de culte central, et n'oubliez pas d'observer les détails fascinants de la tour au lever du jour."
           }
         },
         {
@@ -67,7 +71,8 @@
             "de": "Rutschenpark-Empfang",
             "hu": "Szánkópark recepció",
             "ro": "Recepție tobogane",
-            "en": "Reception toboggan"
+            "en": "Reception toboggan",
+            "fr": "Accueil toboggan"
           },
           "coords": [
             -1.319086,
@@ -82,7 +87,8 @@
             "de": "Lassen Sie die Kinder in diesem aufregenden Wasser- und Rutschenpark Energie abbauen und packen Sie ein Handtuch sowie eine Wasserflasche für einen angenehmen Familienausflug ein.",
             "hu": "Hagyja, hogy a gyerekek levezessék energiájukat ebben az izgalmas víz- és csúszdaparkban, és pakoljon be törölközőt, valamint vizespalackot a kényelmes családi kiránduláshoz.",
             "ro": "Lăsați copiii să-și consume energia în acest parc captivant de apă și tobogane, luând cu voi un prosop și o sticlă de apă pentru o ieșire confortabilă în familie.",
-            "en": "Let the kids burn off energy at this exciting water and slide park, packing a towel and water bottle for a comfortable family outing."
+            "en": "Let the kids burn off energy at this exciting water and slide park, packing a towel and water bottle for a comfortable family outing.",
+            "fr": "Laissez les enfants se dépenser dans ce parc aquatique et de glissades excitant ; prenez une serviette et une bouteille d'eau pour une sortie familiale confortable."
           }
         },
         {
@@ -90,7 +96,8 @@
             "de": "Strand von Biroire",
             "hu": "Biroire strand",
             "ro": "Plaja Biroire",
-            "en": "Biroire Beach"
+            "en": "Biroire Beach",
+            "fr": "Plage de Biroire"
           },
           "coords": [
             -1.363077,
@@ -105,7 +112,8 @@
             "de": "Entspannen Sie sich an den Sandstränden dieses ruhigen Strandes, der perfekt zum Abschalten ist, aber überprüfen Sie unbedingt die Gezeitenpläne, bevor Sie sich niederlassen.",
             "hu": "Pihenjen ezen a nyugodt tengerparton a homokos szakaszokon, de mindenképpen ellenőrizze az árapály-menetrendet, mielőtt letáborozna.",
             "ro": "Relaxați-vă pe întinderile de nisip ale acestei plaje liniștite, perfectă pentru relaxare, dar asigurați-vă că verificați programul mareelor înainte de a vă așeza.",
-            "en": "Relax on the sandy stretches of this serene beach, perfect for unwinding, but be sure to check the tide schedules before setting up your spot."
+            "en": "Relax on the sandy stretches of this serene beach, perfect for unwinding, but be sure to check the tide schedules before setting up your spot.",
+            "fr": "Détendez-vous sur les étendues de sable de cette plage paisible, parfaite pour se relaxer, mais pensez à vérifier les horaires des marées avant de vous installer."
           }
         },
         {
@@ -113,7 +121,8 @@
             "de": "Hafen von La Cotinière",
             "hu": "La Cotinière kikötője",
             "ro": "Portul La Cotinière",
-            "en": "Port of La Cotinière"
+            "en": "Port of La Cotinière",
+            "fr": "Port de La Cotinière"
           },
           "coords": [
             -1.330804,
@@ -128,7 +137,8 @@
             "de": "Schlendern Sie um diesen aktiven Fischereihafen, um die maritime Atmosphäre aufzusaugen, und probieren Sie den Tagesfang in einem nahegelegenen Küstenbistro.",
             "hu": "Barangoljon ebben az aktív halászkikötőben, hogy magába szívja a tengeri hangulatot, és kóstolja meg a napi fogást egy közeli parti bisztróban.",
             "ro": "Plimbați-vă prin acest port de pescuit activ pentru a absorbi atmosfera maritimă și încercați o gustare din captura zilei la un bistro de coastă din apropiere.",
-            "en": "Wander around this active fishing port to soak in the maritime atmosphere, and try grabbing a bite of the daily catch at a nearby coastal bistro."
+            "en": "Wander around this active fishing port to soak in the maritime atmosphere, and try grabbing a bite of the daily catch at a nearby coastal bistro.",
+            "fr": "Promenez-vous dans ce port de pêche actif pour imprégner l'atmosphère maritime, et essayez de goûter la prise du jour dans un bistrot côtier à proximité."
           }
         }
       ],
@@ -136,7 +146,8 @@
         "de": "Beginnen Sie den Tag mit einem Spaziergang durch den historischen Kern von Saint-Pierre und bewundern Sie das reiche Erbe. Mittags wandern Sie zum lebhaften Rutschenpark im Norden für Familienspaß. Am Nachmittag fahren Sie nach Westen zur ruhigen Plage de la Biroire, um die Meeresbrise zu spüren. Beenden Sie Ihren aktiven Tag im lebhaften Hafen von La Cotinière, wo Fischerboote unter dem Abendhimmel zurückkehren.",
         "hu": "Kezdje a napot egy sétával Saint-Pierre történelmi központjában, megcsodálva annak gazdag örökségét. Délben túrázzon északra a nyüzsgő szánkóparkhoz egy kis családi szórakozásra. Délután menjen nyugatra a csendes Plage de la Biroire-hoz, és élvezze az óceáni szellőt. Zárja aktív napját a nyüzsgő La Cotinière kikötőjében, nézve, ahogy a halászhajók visszatérnek az esti égbolt alatt.",
         "ro": "Începeți ziua cu o plimbare prin centrul istoric din Saint-Pierre, apreciind patrimoniul său bogat. La prânz, mergeți spre nord la parcul de tobogane pentru distracție în familie. După-amiaza, îndreptați-vă spre vest către liniștita Plage de la Biroire pentru a simți briza oceanului. Încheiați ziua activă la vibrantul Port La Cotinière, privind bărcile de pescuit întorcându-se sub cerul de seară.",
-        "en": "Start the day with a stroll through the historical heart of Saint-Pierre, appreciating its rich heritage. Midday, hike north to the lively toboggan park for some family fun. In the afternoon, head west to the tranquil Plage de la Biroire to feel the ocean breeze. Conclude your active day at the vibrant Port of La Cotinière, watching fishing boats return under the evening sky."
+        "en": "Start the day with a stroll through the historical heart of Saint-Pierre, appreciating its rich heritage. Midday, hike north to the lively toboggan park for some family fun. In the afternoon, head west to the tranquil Plage de la Biroire to feel the ocean breeze. Conclude your active day at the vibrant Port of La Cotinière, watching fishing boats return under the evening sky.",
+        "fr": "Commencez la journée par une balade dans le cœur historique de Saint-Pierre, en appréciant son riche patrimoine. À midi, montez vers le nord jusqu'au parc toboggan animé pour de la joie en famille. L'après‑midi, dirigez‑vous vers l'ouest à la tranquille Plage de la Biroire pour sentir la brise marine. Concluez votre journée active au port vibrant de La Cotinière, en regardant les bateaux de pêche revenir sous le ciel du soir."
       },
       "variants": {
         "rainy": {
@@ -144,7 +155,8 @@
             "de": "Morgens bietet das Maison des Aïeules Schutz vor dem grauen Himmel. Mittags suchen wir Zuflucht in der massiven Saint-Pierre-Kirche, während der Regen auf das Dach trommelt. Am Nachmittag erleben wir die mystische, neblige Atmosphäre am Strand von Biroire unter dem Regeschirm. Abends genießen wir das Lichtspiel im Hafen von La Cotinière von einem überdachten Aussichtspunkt aus.",
             "hu": "Reggel a Maison des Aïeules falai között bújunk el a szitáló eső elől. Délben a Saint-Pierre templom csendje és fedett hajója nyújt menedéket a városközpontban. Délután a tengerparti köd különleges, misztikus hangulatot áraszt a Biroire strandon, esőkabátban sétálva. Este a kikötő fényeit egy védett helyről figyeljük, miközben az óceán moraja és az eső kopogása összeolvad.",
             "ro": "Dimineața, Maison des Aïeules oferă un adăpost cultural sub cerul plumburiu. La prânz, liniștea bisericii Saint-Pierre ne protejează de ploaia deasă. După-amiaza, plaja Biroire capătă o aură mistică și cețoasă, perfectă pentru o plimbare cu umbrela. Seara, urmărim luminile portului La Cotinière dintr-un loc acoperit, admirând spectacolul naturii dezlănțuite.",
-            "en": "Morning finds us sheltered within the historic Maison des Aïeules as the drizzle begins. By noon, the thick walls of Saint-Pierre Church provide a dry sanctuary from the coastal rain. In the afternoon, Biroire Beach offers a misty, dramatic landscape best enjoyed with a sturdy umbrella. Evening concludes at the port, where the harbor lights reflect beautifully on the wet quays."
+            "en": "Morning finds us sheltered within the historic Maison des Aïeules as the drizzle begins. By noon, the thick walls of Saint-Pierre Church provide a dry sanctuary from the coastal rain. In the afternoon, Biroire Beach offers a misty, dramatic landscape best enjoyed with a sturdy umbrella. Evening concludes at the port, where the harbor lights reflect beautifully on the wet quays.",
+            "fr": "Le matin, nous nous abritons dans la Maison des Aïeules historique alors que la bruine commence. À midi, les murs épais de l'église Saint-Pierre offrent un sanctuaire sec contre la pluie côtière. L'après‑midi, la plage de Biroire offre un paysage brumeux et dramatique à apprécier avec un parapluie solide. La soirée se termine au port, où les lumières du port se reflètent magnifiquement sur les quais mouillés."
           },
           "stops": [
             {
@@ -152,13 +164,15 @@
                 "de": "Maison des Aïeules",
                 "hu": "Maison des Aïeules",
                 "ro": "Maison des Aïeules",
-                "en": "Maison des Aïeules"
+                "en": "Maison des Aïeules",
+                "fr": "Maison des Aïeules"
               },
               "tip_5lang": {
                 "de": "Erkunden Sie die Kindheitserinnerungen von Pierre Loti in diesem historischen Gebäude, das einen idealen Schutz vor dem Nieselregen bietet; nehmen Sie sich Zeit für die Erbstücke.",
                 "hu": "Fedezze fel Pierre Loti gyermekkori emlékeit ebben a patinás épületben, amely tökéletes menedék a szitáló eső elől; érdemes alaposan szemügyre venni a régi családi ereklyéket.",
                 "ro": "Explorați amintirile copilăriei lui Pierre Loti în această clădire istorică, refugiul perfect împotriva burniței; priviți cu atenție vechile relicve de familie păstrate aici.",
-                "en": "Explore Pierre Loti's childhood memories in this historic building, which is the perfect refuge from the drizzle; take your time to examine the old family heirlooms closely."
+                "en": "Explore Pierre Loti's childhood memories in this historic building, which is the perfect refuge from the drizzle; take your time to examine the old family heirlooms closely.",
+                "fr": "Explorez les souvenirs d'enfance de Pierre Loti dans ce bâtiment historique, qui est le refuge parfait contre la bruine ; prenez le temps d'examiner de près les anciens objets de famille."
               }
             },
             {
@@ -166,13 +180,15 @@
                 "de": "Kirche Saint-Pierre",
                 "hu": "Saint-Pierre templom",
                 "ro": "Biserica Saint-Pierre",
-                "en": "Saint-Pierre Church"
+                "en": "Saint-Pierre Church",
+                "fr": "Église Saint-Pierre"
               },
               "tip_5lang": {
                 "de": "Bewundern Sie die Architektur im trockenen Inneren der Kirche; erklimmen Sie die Laterne nur, wenn der Wind nicht zu stark ist, und tragen Sie rutschfeste Schuhe.",
                 "hu": "Csodálja meg a templom belső építészetét a száraz hajóban; a toronyba csak szélcsendesebb időben menjen fel, és viseljen csúszásmentes talpú lábbelit a lépcsőkön.",
                 "ro": "Admirați arhitectura interioară din nava uscată a bisericii; urcați în turn doar dacă vântul nu este prea puternic și purtați încălțăminte cu talpă antiderapantă.",
-                "en": "Admire the church's interior architecture within the dry nave; only climb the lantern if the wind is calm, and wear non-slip shoes for the damp stone steps."
+                "en": "Admire the church's interior architecture within the dry nave; only climb the lantern if the wind is calm, and wear non-slip shoes for the damp stone steps.",
+                "fr": "Admirez l'architecture intérieure de l'église dans la nef sèche ; ne grimpez la lanterne que si le vent est calme, et portez des chaussures antidérapantes pour les marches en pierre humides."
               }
             },
             {
@@ -180,13 +196,15 @@
                 "de": "Rutschenpark-Empfang",
                 "hu": "Szánkópark recepció",
                 "ro": "Recepție tobogane",
-                "en": "Reception toboggan"
+                "en": "Reception toboggan",
+                "fr": "Accueil toboggan"
               },
               "tip_5lang": {
                 "de": "Nutzen Sie den Empfangsbereich für eine kurze Pause zwischen den Schauern; achten Sie auf den nassen Wegen im Parkgelände auf die Rutschgefahr und tragen Sie Regenkleidung.",
                 "hu": "Használja ki a recepció fedett területét egy rövid pihenőre a záporok között; a park területén a vizes utakon fokozottan ügyeljen a csúszásveszélyre.",
                 "ro": "Folosiți zona de recepție pentru o scurtă pauză între averse; pe aleile parcului, aveți mare grijă la suprafețele umede care pot deveni foarte alunecoase.",
-                "en": "Utilize the reception area for a brief rest between rain showers; be extra careful on the park's wet paths which can become slippery, and wear waterproof gear."
+                "en": "Utilize the reception area for a brief rest between rain showers; be extra careful on the park's wet paths which can become slippery, and wear waterproof gear.",
+                "fr": "Utilisez l'accueil pour un court repos entre les averses ; soyez particulièrement prudent sur les chemins mouillés du parc qui peuvent devenir glissants, et portez des vêtements imperméables."
               }
             },
             {
@@ -194,13 +212,15 @@
                 "de": "Strand von Biroire",
                 "hu": "Biroire strand",
                 "ro": "Plaja Biroire",
-                "en": "Biroire Beach"
+                "en": "Biroire Beach",
+                "fr": "Plage de Biroire"
               },
               "tip_5lang": {
                 "de": "Genießen Sie den Blick auf die wilden, grauen Wellen vom asphaltierten Uferweg aus, um Schlamm zu vermeiden; ein windfester Regenschirm ist hier bei Regen unverzichtbar.",
                 "hu": "Élvezze a vad, szürke hullámok látványát az aszfaltozott parti útról, elkerülve a sarat; egy szélálló esernyő itt elengedhetetlen a nyílt terepen az esőben.",
                 "ro": "Bucurați-vă de priveliștea valurilor sălbatice de pe drumul asfaltat de la mal pentru a evita noroiul; o umbrelă rezistentă la vânt este indispensabilă aici pe ploaie.",
-                "en": "Enjoy the view of the wild, grey waves from the paved coastal path to avoid the mud; a windproof umbrella is essential here when walking in the open rain."
+                "en": "Enjoy the view of the wild, grey waves from the paved coastal path to avoid the mud; a windproof umbrella is essential here when walking in the open rain.",
+                "fr": "Profitez de la vue des vagues sauvages et grises depuis la promenade côtière pavée pour éviter la boue ; un parapluie coupe‑vent est essentiel ici lorsqu'on marche sous la pluie ouverte."
               }
             },
             {
@@ -208,13 +228,15 @@
                 "de": "Hafen von La Cotinière",
                 "hu": "La Cotinière kikötője",
                 "ro": "Portul La Cotinière",
-                "en": "Port of La Cotinière"
+                "en": "Port of La Cotinière",
+                "fr": "Port de La Cotinière"
               },
               "tip_5lang": {
                 "de": "Besuchen Sie die überdachte Fischauktionshalle, um das bunte Treiben trocken zu beobachten; die nassen Kais haben im Regen einen ganz besonderen, glänzenden Charme.",
                 "hu": "Látogasson el a fedett halárverési csarnokba, ahol szárazon figyelheti a nyüzsgést; a vizes rakpartok az esőben különleges, csillogó hangulatot árasztanak.",
                 "ro": "Vizitați bursa de pește acoperită pentru a observa activitatea portuară la adăpost; cheiurile umede au un farmec sclipitor aparte sub picăturile de ploaie.",
-                "en": "Visit the covered fish auction hall to observe the bustle while staying dry; the wet quays have a unique, glistening charm under the falling rain."
+                "en": "Visit the covered fish auction hall to observe the bustle while staying dry; the wet quays have a unique, glistening charm under the falling rain.",
+                "fr": "Visitez la halle couverte de vente aux poissons pour observer l'effervescence tout en restant au sec ; les quais mouillés ont un charme unique et scintillant sous la pluie."
               }
             }
           ]
@@ -224,7 +246,8 @@
             "de": "Der Wintermorgen beginnt frisch im Maison des Aïeules, wo die Geschichte uns wärmt. Mittags ist das Licht in der Saint-Pierre-Kirche besonders klar und friedlich. Am Nachmittag genießen wir die einsame Weite am Strand von Biroire in dicken Jacken. Gegen 17:00 Uhr erleben wir den frühen Sonnenuntergang im Hafen, wenn die Fischerboote in der Kälte heimkehren.",
             "hu": "A téli reggel frissen indul a Maison des Aïeules falai között, ahol a történelem melegít fel minket. Délben a Saint-Pierre templom fényeiben gyönyörködünk, a város ilyenkor csendesebb és meghittebb. Délután a Biroire strand magányos, fagyos szépsége vár minket, réteges öltözetben. 17:00 körül már a kikötőben ér minket a naplemente, narancssárgára festve a jéghideg vizet.",
             "ro": "Dimineața de iarnă începe cu o vizită la Maison des Aïeules, unde istoria ne ține de cald. La prânz, biserica Saint-Pierre oferă un spațiu de reculegere în liniștea sezonului rece. După-amiaza, plaja Biroire ne întâmpină cu o frumusețe austeră, ideală pentru o plimbare revigorantă. Apusul devreme, în jurul orei 17:00, ne găsește în portul animat.",
-            "en": "Winter morning starts crisp at Maison des Aïeules, where history provides a warm welcome. At noon, Saint-Pierre Church feels peaceful and intimate in the soft winter light. Afternoon brings us to the stark, beautiful solitude of Biroire Beach, requiring warm layers. By 17:00, the early sunset sets the harbor ablaze with color as the cold air settles in."
+            "en": "Winter morning starts crisp at Maison des Aïeules, where history provides a warm welcome. At noon, Saint-Pierre Church feels peaceful and intimate in the soft winter light. Afternoon brings us to the stark, beautiful solitude of Biroire Beach, requiring warm layers. By 17:00, the early sunset sets the harbor ablaze with color as the cold air settles in.",
+            "fr": "Le matin d'hiver commence vif à la Maison des Aïeules, où l'histoire offre un accueil chaleureux. À midi, l'église Saint-Pierre paraît paisible et intime sous la douce lumière hivernale. L'après‑midi nous conduit à la solitude austère et magnifique de la plage de Biroire, nécessitant des couches chaudes. À 17:00, le coucher de soleil précoce enflamme le port de couleurs tandis que l'air froid s'installe."
           },
           "stops": [
             {
@@ -232,13 +255,15 @@
                 "de": "Maison des Aïeules",
                 "hu": "Maison des Aïeules",
                 "ro": "Maison des Aïeules",
-                "en": "Maison des Aïeules"
+                "en": "Maison des Aïeules",
+                "fr": "Maison des Aïeules"
               },
               "tip_5lang": {
                 "de": "Tauchen Sie ein in die warme, gemütliche Atmosphäre dieses Hauses; der Winter ist die ideale Zeit, um die Details der Ausstellungen ohne Sommertrubel zu studieren.",
                 "hu": "Merüljön el a ház meleg, barátságos légkörében; a tél ideális időszak a kiállítások részleteinek tanulmányozására a nyári tömeg és nyüzsgés nélkül.",
                 "ro": "Cufundați-vă în atmosfera caldă și primitoare a acestei case; iarna este momentul ideal pentru a studia detaliile expozițiilor fără agitația verii.",
-                "en": "Immerse yourself in the warm, cozy atmosphere of this house; winter is the ideal time to study the exhibit details without the usual summer crowds."
+                "en": "Immerse yourself in the warm, cozy atmosphere of this house; winter is the ideal time to study the exhibit details without the usual summer crowds.",
+                "fr": "Imprégnez‑vous de l'atmosphère chaude et cosy de cette maison ; l'hiver est le moment idéal pour étudier les détails des expositions sans les habituelles foules estivales."
               }
             },
             {
@@ -246,13 +271,15 @@
                 "de": "Kirche Saint-Pierre",
                 "hu": "Saint-Pierre templom",
                 "ro": "Biserica Saint-Pierre",
-                "en": "Saint-Pierre Church"
+                "en": "Saint-Pierre Church",
+                "fr": "Église Saint-Pierre"
               },
               "tip_5lang": {
                 "de": "Nutzen Sie die Stille der Nebensaison für eine andächtige Besichtigung; achten Sie beim Aufstieg auf die Laterne auf den kalten Wind und tragen Sie Handschuhe.",
                 "hu": "Használja ki a főszezonon kívüli csendet egy elmélyült látogatáshoz; a toronyba menet készüljön fel a metsző hideg szélre, és viseljen meleg kesztyűt.",
                 "ro": "Profitați de liniștea din afara sezonului pentru o vizită meditativă; la urcarea în turn, pregătiți-vă pentru vântul rece și purtați mănuși groase.",
-                "en": "Take advantage of the off-season silence for a peaceful visit; when climbing to the lantern, be prepared for biting cold winds and wear warm gloves."
+                "en": "Take advantage of the off-season silence for a peaceful visit; when climbing to the lantern, be prepared for biting cold winds and wear warm gloves.",
+                "fr": "Profitez du silence de la basse saison pour une visite paisible ; si vous montez à la lanterne, préparez‑vous à des vents mordants et portez des gants chauds."
               }
             },
             {
@@ -260,13 +287,15 @@
                 "de": "Rutschenpark-Empfang",
                 "hu": "Szánkópark recepció",
                 "ro": "Recepție tobogane",
-                "en": "Reception toboggan"
+                "en": "Reception toboggan",
+                "fr": "Accueil toboggan"
               },
               "tip_5lang": {
                 "de": "Besuchen Sie den Park für einen schnellen Spaziergang in der frischen Winterluft; halten Sie sich im Empfangsbereich kurz auf, um sich vor dem nächsten Stopp aufzuwärmen.",
                 "hu": "Látogasson el a parkba egy gyors sétára a friss téli levegőn; pihenjen meg röviden a recepció környékén, hogy kicsit felmelegedjen a következő állomás előtt.",
                 "ro": "Vizitați parcul pentru o plimbare rapidă în aerul curat de iarnă; opriți-vă scurt la recepție pentru a vă încălzi puțin înainte de următoarea etapă.",
-                "en": "Visit the park for a brisk walk in the fresh winter air; stop briefly by the reception area to warm up a bit before heading to your next destination."
+                "en": "Visit the park for a brisk walk in the fresh winter air; stop briefly by the reception area to warm up a bit before heading to your next destination.",
+                "fr": "Visitez le parc pour une marche revigorante dans l'air frais d'hiver ; arrêtez‑vous brièvement à l'accueil pour vous réchauffer un peu avant de reprendre votre route."
               }
             },
             {
@@ -274,13 +303,15 @@
                 "de": "Strand von Biroire",
                 "hu": "Biroire strand",
                 "ro": "Plaja Biroire",
-                "en": "Biroire Beach"
+                "en": "Biroire Beach",
+                "fr": "Plage de Biroire"
               },
               "tip_5lang": {
                 "de": "Erleben Sie die raue Schönheit des Atlantiks im Winter; kleiden Sie sich nach dem Zwiebelprinzip, da der Wind am offenen Ufer sehr auskühlend wirken kann.",
                 "hu": "Tapasztalja meg az Atlanti-óceán nyers szépségét télen; öltözzön rétegesen, mivel a nyílt parton a szél nagyon hamar lehűtheti a testhőmérsékletét.",
                 "ro": "Experimentați frumusețea crudă a Atlanticului pe timp de iarnă; îmbrăcați-vă în straturi, deoarece vântul de pe malul deschis vă poate răci foarte repede.",
-                "en": "Experience the raw beauty of the Atlantic in winter; dress in layers, as the wind on the open shore can quickly lower your body temperature."
+                "en": "Experience the raw beauty of the Atlantic in winter; dress in layers, as the wind on the open shore can quickly lower your body temperature.",
+                "fr": "Vivez la beauté brute de l'Atlantique en hiver ; habillez‑vous en couches, car le vent sur le rivage ouvert peut rapidement abaisser la température corporelle."
               }
             },
             {
@@ -288,13 +319,15 @@
                 "de": "Hafen von La Cotinière",
                 "hu": "La Cotinière kikötője",
                 "ro": "Portul La Cotinière",
-                "en": "Port of La Cotinière"
+                "en": "Port of La Cotinière",
+                "fr": "Port de La Cotinière"
               },
               "tip_5lang": {
                 "de": "Beobachten Sie das Anlegen der Flotte im goldenen Licht des frühen Sonnenuntergangs gegen 17:00 Uhr; eine warme Mütze schützt vor der kühlen Meeresbrise.",
                 "hu": "Figyelje meg a flotta kikötését a korai, 17:00 körüli naplemente arany fényeiben; egy meleg sapka elengedhetetlen a hűvös tengeri szél ellen.",
                 "ro": "Urmăriți sosirea flotei în lumina aurie a apusului devreme, în jurul orei 17:00; o căciulă călduroasă este esențială împotriva brizelor marine reci.",
-                "en": "Watch the fleet dock in the golden light of the early sunset around 17:00; a warm hat is essential against the chilly evening sea breezes."
+                "en": "Watch the fleet dock in the golden light of the early sunset around 17:00; a warm hat is essential against the chilly evening sea breezes.",
+                "fr": "Regardez la flotte accoster dans la lumière dorée du coucher de soleil précoce vers 17:00 ; un bonnet chaud est essentiel contre les brises marines fraîches du soir."
               }
             }
           ]
@@ -314,7 +347,8 @@
             "de": "Kirche Saint-Pierre",
             "hu": "Saint-Pierre templom",
             "ro": "Biserica Saint-Pierre",
-            "en": "Saint-Pierre Church"
+            "en": "Saint-Pierre Church",
+            "fr": "Église Saint-Pierre"
           },
           "coords": [
             -1.305484,
@@ -329,7 +363,8 @@
             "de": "Bestaunen Sie die feinen Steinmetzarbeiten dieses zentralen Gotteshauses und vergessen Sie nicht, im Morgenlicht auf die faszinierenden Turmdetails zu achten.",
             "hu": "Csodálja meg e központi imahely bonyolult kőfaragásait, és ne felejtse el megfigyelni a lenyűgöző toronyrészleteket a reggeli fényben.",
             "ro": "Minunați-vă de pietrăria detaliată a acestui lăcaș central de cult și nu uitați să căutați detaliile fascinante ale turnului în lumina dimineții.",
-            "en": "Marvel at the intricate stonework of this central place of worship, and don't forget to look out for the fascinating tower details during the morning light."
+            "en": "Marvel at the intricate stonework of this central place of worship, and don't forget to look out for the fascinating tower details during the morning light.",
+            "fr": "Admirez la sculpture de pierre complexe de ce lieu de culte central, et n'oubliez pas d'observer les détails fascinants de la tour au lever du jour."
           }
         },
         {
@@ -337,7 +372,8 @@
             "de": "Vogelreservat Marais",
             "hu": "Madárrezervátum",
             "ro": "Sanctuarul de Păsări",
-            "en": "Bird Sanctuary"
+            "en": "Bird Sanctuary",
+            "fr": "Réserve ornithologique"
           },
           "coords": [
             -1.273395,
@@ -352,7 +388,8 @@
             "de": "Beobachten Sie eine große Vielfalt an Vogelarten in diesem natürlichen Sumpfgebiet-Schutzgebiet und bringen Sie ein Fernglas für die bestmögliche Sicht von den hölzernen Aussichtsplattformen mit.",
             "hu": "Figyeljen meg egy hatalmas madárfaj-választékot ebben a természetes mocsárvidéki rezervátumban, és hozzon távcsövet a fából készült megfigyelő fedélzetekről nyíló legjobb kilátás érdekében.",
             "ro": "Observați o varietate uriașă de specii de păsări în acest sanctuar natural mlăștinos și aduceți binoclul pentru cele mai bune vizualizări posibile de pe platformele de observație din lemn.",
-            "en": "Observe a huge variety of bird species in this natural marshland sanctuary, and bring binoculars for the best possible views from the wooden observation decks."
+            "en": "Observe a huge variety of bird species in this natural marshland sanctuary, and bring binoculars for the best possible views from the wooden observation decks.",
+            "fr": "Observez une grande variété d'espèces d'oiseaux dans cette réserve naturelle de marais, et apportez des jumelles pour les meilleures vues depuis les observatoires en bois."
           }
         },
         {
@@ -360,7 +397,8 @@
             "de": "Nutria-Park",
             "hu": "Myocastors Park",
             "ro": "Parcul Myocastors",
-            "en": "Myocastors Park"
+            "en": "Myocastors Park",
+            "fr": "Parc des Myocastors"
           },
           "coords": [
             -1.270894,
@@ -375,7 +413,8 @@
             "de": "Treffen Sie die neugierigen Nutrias in diesem einzigartigen Tierpark aus nächster Nähe und denken Sie daran, Kleingeld mitzuführen, um zugelassene Leckereien für die sanften Tiere zu kaufen.",
             "hu": "Találkozzon közelről a kíváncsi nutria rágcsálókkal ebben az egyedi állatparkban, és ne felejtsen el aprópénzt hozni, hogy engedélyezett csemegéket vásárolhasson a szelíd lényeknek.",
             "ro": "Întâlniți nutrii curioase de aproape în acest parc de animale unic și amintiți-vă să aveți mărunt pentru a cumpăra bunătăți aprobate pentru aceste creaturi blânde.",
-            "en": "Meet the curious coypus up close in this unique animal park, and remember to carry small change to purchase approved treats for the gentle critters."
+            "en": "Meet the curious coypus up close in this unique animal park, and remember to carry small change to purchase approved treats for the gentle critters.",
+            "fr": "Rencontrez les ragondins curieux de près dans ce parc animalier unique, et pensez à avoir de la petite monnaie pour acheter des friandises approuvées pour ces animaux dociles."
           }
         },
         {
@@ -383,7 +422,8 @@
             "de": "Strand von Matha",
             "hu": "Matha strand",
             "ro": "Plaja Matha",
-            "en": "Matha Beach"
+            "en": "Matha Beach",
+            "fr": "Plage de Matha"
           },
           "coords": [
             -1.316198,
@@ -398,7 +438,8 @@
             "de": "Genießen Sie die sanften Wellen und den weichen Sand dieses weniger überfüllten Strandes, was ihn ideal für ein ruhiges Nachmittagsbuch oder ein friedliches Schwimmen macht.",
             "hu": "Élvezze e kevésbé zsúfolt strand finom hullámait és puha homokját, ami ideálissá teszi egy csendes délutáni olvasáshoz vagy békés úszáshoz.",
             "ro": "Bucurați-vă de valurile blânde și nisipurile moi ale acestei plaje mai puțin aglomerate, fiind ideală pentru o lectură liniștită după-amiaza sau o înotare pașnică.",
-            "en": "Enjoy the gentle waves and soft sands of this less crowded beach, making it ideal for a quiet afternoon read or a peaceful swim."
+            "en": "Enjoy the gentle waves and soft sands of this less crowded beach, making it ideal for a quiet afternoon read or a peaceful swim.",
+            "fr": "Profitez des vagues douces et des sables fins de cette plage peu fréquentée, idéale pour une lecture tranquille l'après‑midi ou une baignade paisible."
           }
         },
         {
@@ -406,7 +447,8 @@
             "de": "Hafen von La Cotinière",
             "hu": "La Cotinière kikötője",
             "ro": "Portul La Cotinière",
-            "en": "Port of La Cotinière"
+            "en": "Port of La Cotinière",
+            "fr": "Port de La Cotinière"
           },
           "coords": [
             -1.330804,
@@ -421,7 +463,8 @@
             "de": "Schlendern Sie um diesen aktiven Fischereihafen, um die maritime Atmosphäre aufzusaugen, und probieren Sie den Tagesfang in einem nahegelegenen Küstenbistro.",
             "hu": "Barangoljon ebben az aktív halászkikötőben, hogy magába szívja a tengeri hangulatot, és kóstolja meg a napi fogást egy közeli parti bisztróban.",
             "ro": "Plimbați-vă prin acest port de pescuit activ pentru a absorbi atmosfera maritimă și încercați o gustare din captura zilei la un bistro de coastă din apropiere.",
-            "en": "Wander around this active fishing port to soak in the maritime atmosphere, and try grabbing a bite of the daily catch at a nearby coastal bistro."
+            "en": "Wander around this active fishing port to soak in the maritime atmosphere, and try grabbing a bite of the daily catch at a nearby coastal bistro.",
+            "fr": "Promenez‑vous dans ce port de pêche actif pour imprégner l'atmosphère maritime, et essayez de goûter la prise du jour dans un bistrot côtier à proximité."
           }
         }
       ],
@@ -429,7 +472,8 @@
         "de": "Radeln Sie von der majestätischen Kirche Saint-Pierre los und genießen Sie die morgendliche Ruhe. Fahren Sie nach Osten, um um die Mittagszeit das Vogelschutzgebiet und den verspielten Myocastors-Park zu erkunden. Radeln Sie nach Süden zur Plage de Matha, wo die Nachmittagssonne den Sand wärmt. Ihre Radtour endet wunderbar im geschäftigen Hafen von La Cotinière, ideal für ein Abendessen mit frischen Meeresfrüchten.",
         "hu": "Biciklizzen el a fenséges Saint-Pierre templomtól, élvezve a reggeli nyugalmat. Kerékpározzon keletre, hogy délben felfedezze a madárrezervátumot és a játékos Myocastors parkot. Pedálozzon délre, hogy a Plage de Matha-nál pihenjen, ahogy a délutáni nap felmelegíti a homokot. Kerékpártúrája a nyüzsgő La Cotinière kikötőjében csúcsosodik ki, amely tökéletes egy friss tenger gyümölcsei vacsorához.",
         "ro": "Porniți pe bicicletă de la maiestuoasa biserică Saint-Pierre, bucurându-vă de calmul dimineții. Călătoriți spre est pentru a explora sanctuarul de păsări și parcul Myocastors la prânz. Pedalați spre sud pentru a vă relaxa la Plage de Matha, în timp ce soarele după-amiezii încălzește nisipul. Turul ciclist se încheie frumos în aglomeratul Port La Cotinière, perfect pentru o cină cu fructe de mare proaspete.",
-        "en": "Cycle out from the majestic Saint-Pierre Church, taking in the morning calm. Ride east to explore the bird sanctuary and the playful Myocastors park around midday. Pedal south to relax at Plage de Matha as the afternoon sun warms the sand. Your cycling tour culminates beautifully at the bustling Port of La Cotinière, perfect for a fresh seafood dinner."
+        "en": "Cycle out from the majestic Saint-Pierre Church, taking in the morning calm. Ride east to explore the bird sanctuary and the playful Myocastors park around midday. Pedal south to relax at Plage de Matha as the afternoon sun warms the sand. Your cycling tour culminates beautifully at the bustling Port of La Cotinière, perfect for a fresh seafood dinner.",
+        "fr": "Partez à vélo depuis la majestueuse église Saint-Pierre, en profitant du calme matinal. Roulez vers l'est pour explorer la réserve ornithologique et le parc des Myocastors vers midi. Pédalez vers le sud pour vous détendre à la plage de Matha tandis que le soleil de l'après‑midi réchauffe le sable. Votre tour à vélo se termine magnifiquement au port animé de La Cotinière, parfait pour un dîner de fruits de mer frais."
       },
       "variants": {
         "rainy": {
@@ -437,7 +481,8 @@
             "de": "Ein regnerischer Radtag beginnt an der schützenden Saint-Pierre-Kirche. Wir fahren vorsichtig durch das feuchte Vogelreservat und den Myocastors Park, wo die Natur im Regen atmet. Mittags erreichen wir den Strand von Matha, dessen Dünen im Grau fast silbern wirken. Abends rollen wir vorsichtig über die nassen Straßen zum Hafen, wo die Lichter auf dem Asphalt tanzen.",
             "hu": "Az esős bringás nap a Saint-Pierre templom oltalmában indul. Óvatosan tekerünk a párás Madárrezervátum és a Myocastors Park felé, ahol az eső illata betölti a tájat. Délben a Matha strand dűnéi között pihenünk meg, ahol a szürke ég alatt is szép a part. Este óvatosan, a csúszós utakra figyelve érkezünk a kikötőbe, ahol a fények visszatükröződnek a nedves aszfalton.",
             "ro": "O zi ploioasă pe bicicletă începe la adăpostul bisericii Saint-Pierre. Pedalăm cu grijă prin Rezervația de Păsări și Parcul Myocastors, unde natura pare mai vie sub ploaie. La prânz, ajungem la plaja Matha, cu dunele sale argintii sub cerul cenușiu. Seara, rulăm prudent spre port pe asfaltul ud, admirând reflexiile luminițelor în bălți.",
-            "en": "A rainy cycling day starts at the sheltered Saint-Pierre Church. We pedal carefully through the misty Bird Sanctuary and Myocastors Park, where the rain enhances the natural scents. Noon brings us to Matha Beach, its dunes appearing silver under the overcast sky. We end the day with a cautious ride to the port, watching the harbor lights dance on the wet roads."
+            "en": "A rainy cycling day starts at the sheltered Saint-Pierre Church. We pedal carefully through the misty Bird Sanctuary and Myocastors Park, where the rain enhances the natural scents. Noon brings us to Matha Beach, its dunes appearing silver under the overcast sky. We end the day with a cautious ride to the port, watching the harbor lights dance on the wet roads.",
+            "fr": "Une journée de vélo pluvieuse commence à l'abri à l'église Saint-Pierre. Nous pédalons prudemment à travers la brume de la réserve ornithologique et du parc des Myocastors, où la pluie intensifie les senteurs naturelles. Midi nous mène à la plage de Matha, ses dunes apparaissant argentées sous le ciel couvert. Nous terminons la journée par une balade prudente jusqu'au port, regardant les lumières du port danser sur les routes mouillées."
           },
           "stops": [
             {
@@ -445,13 +490,15 @@
                 "de": "Kirche Saint-Pierre",
                 "hu": "Saint-Pierre templom",
                 "ro": "Biserica Saint-Pierre",
-                "en": "Saint-Pierre Church"
+                "en": "Saint-Pierre Church",
+                "fr": "Église Saint-Pierre"
               },
               "tip_5lang": {
                 "de": "Prüfen Sie Ihre Bremsen im Trockenen unter dem Vordach; die Kirche bietet den idealen Startpunkt, um sich vor der Fahrt wetterfest auszurüsten.",
                 "hu": "Ellenőrizze a fékeket a templom előtti fedett részen; a templom tökéletes kiindulópont, hogy teljesen vízhatlanba öltözzön az indulás előtt.",
                 "ro": "Verificați frânele la adăpostul intrării în biserică; locația este punctul ideal pentru a vă echipa cu haine impermeabile înainte de a porni la drum.",
-                "en": "Check your brakes in the dry area near the entrance; the church is the perfect starting point to gear up in waterproof clothing before setting off."
+                "en": "Check your brakes in the dry area near the entrance; the church is the perfect starting point to gear up in waterproof clothing before setting off.",
+                "fr": "Vérifiez vos freins dans la zone sèche près de l'entrée ; l'église est le point de départ parfait pour vous équiper en vêtements imperméables avant de partir."
               }
             },
             {
@@ -459,13 +506,15 @@
                 "de": "Vogelreservat Marais",
                 "hu": "Madárrezervátum",
                 "ro": "Sanctuarul de Păsări",
-                "en": "Bird Sanctuary"
+                "en": "Bird Sanctuary",
+                "fr": "Réserve ornithologique"
               },
               "tip_5lang": {
                 "de": "Beobachten Sie Reiher, die im Regen ungestört fischen; die Radwege können hier bei Nässe rutschig sein, fahren Sie daher in Kurven besonders langsam.",
                 "hu": "Figyelje meg az esőben zavartalanul halászó gémeket; a kerékpárutak itt a nedvességtől csúszósak lehetnek, ezért a kanyarokban hajtson lassabban.",
                 "ro": "Observați stârcii care pescuiesc nestingheriți în ploaie; pistele de biciclete pot fi alunecoase aici, deci încetiniți considerabil în viraje.",
-                "en": "Observe the herons fishing undisturbed in the rain; the bike paths here can be slippery when wet, so take the curves extra slowly and carefully."
+                "en": "Observe the herons fishing undisturbed in the rain; the bike paths here can be slippery when wet, so take the curves extra slowly and carefully.",
+                "fr": "Observez les hérons pêcher sans être dérangés sous la pluie ; les pistes cyclables ici peuvent être glissantes quand elles sont mouillées, donc prenez les virages très lentement et prudemment."
               }
             },
             {
@@ -473,13 +522,15 @@
                 "de": "Nutria-Park",
                 "hu": "Myocastors Park",
                 "ro": "Parcul Myocastors",
-                "en": "Myocastors Park"
+                "en": "Myocastors Park",
+                "fr": "Parc des Myocastors"
               },
               "tip_5lang": {
                 "de": "Die Nutrias lieben das feuchte Wetter und sind besonders aktiv; nutzen Sie die überdachten Beobachtungsstände, um trocken zu bleiben.",
                 "hu": "A nutriák imádják a nedves időt és ilyenkor különösen aktívak; használja a fedett megfigyelőhelyeket, hogy szárazon maradjon a nézelődés közben.",
                 "ro": "Nutriile adoră vremea umedă și sunt foarte active acum; folosiți posturile de observare acoperite pentru a rămâne uscați în timp ce le priviți.",
-                "en": "The nutria love the wet weather and are particularly active now; use the covered observation points to stay dry while watching their antics."
+                "en": "The nutria love the wet weather and are particularly active now; use the covered observation points to stay dry while watching their antics.",
+                "fr": "Les ragondins aiment le temps humide et sont particulièrement actifs maintenant ; utilisez les points d'observation couverts pour rester au sec tout en regardant leurs pitreries."
               }
             },
             {
@@ -487,13 +538,15 @@
                 "de": "Strand von Matha",
                 "hu": "Matha strand",
                 "ro": "Plaja Matha",
-                "en": "Matha Beach"
+                "en": "Matha Beach",
+                "fr": "Plage de Matha"
               },
               "tip_5lang": {
                 "de": "Genießen Sie den dramatischen Blick auf das Meer; parken Sie Ihr Rad auf festem Untergrund, um ein Einsinken im weichen, nassen Sand zu vermeiden.",
                 "hu": "Élvezze a drámai kilátást a tengerre; parkolja a bringát szilárd talajon, hogy elkerülje a süllyedést a puha, vizes homokba a part mentén.",
                 "ro": "Bucurați-vă de vederea dramatică spre mare; parcați bicicleta pe un teren solid pentru a evita scufundarea în nisipul moale și ud de pe plajă.",
-                "en": "Enjoy the dramatic view of the sea; park your bike on firm ground to avoid sinking into the soft, wet sand along the shoreline."
+                "en": "Enjoy the dramatic view of the sea; park your bike on firm ground to avoid sinking into the soft, wet sand along the shoreline.",
+                "fr": "Profitez de la vue dramatique sur la mer ; garez votre vélo sur un sol ferme pour éviter d'enfoncer les roues dans le sable mouillé le long du rivage."
               }
             },
             {
@@ -501,13 +554,15 @@
                 "de": "Hafen von La Cotinière",
                 "hu": "La Cotinière kikötője",
                 "ro": "Portul La Cotinière",
-                "en": "Port of La Cotinière"
+                "en": "Port of La Cotinière",
+                "fr": "Port de La Cotinière"
               },
               "tip_5lang": {
                 "de": "Suchen Sie Schutz in den gemütlichen Lokalen am Hafenbecken; achten Sie beim Radfahren auf den nassen Pflastersteinen im Hafenbereich auf die Rutschgefahr.",
                 "hu": "Keressen menedéket a medence melletti hangulatos helyeken; a kikötői vizes macskaköveken tekerve fokozottan figyeljen a csúszásveszélyre.",
                 "ro": "Căutați adăpost în localurile primitoare de lângă bazinul portuar; fiți foarte atenți la pavajul ud din zona portului, deoarece devine alunecos.",
-                "en": "Seek shelter in the cozy venues near the harbor basin; pay extra attention to the slippery wet cobblestones when cycling in the port area."
+                "en": "Seek shelter in the cozy venues near the harbor basin; pay extra attention to the slippery wet cobblestones when cycling in the port area.",
+                "fr": "Cherchez un abri dans les lieux chaleureux près du bassin du port ; faites particulièrement attention aux pavés mouillés et glissants lorsque vous circulez à vélo dans la zone portuaire."
               }
             }
           ]
@@ -517,7 +572,8 @@
             "de": "Der Wintermorgen auf dem Rad beginnt frisch an der Saint-Pierre-Kirche. Durch das Marais weht eine kühle Brise, die uns beim Treten wachhält. Im Myocastors Park erleben wir die Stille der Natur. Mittags bietet der Strand von Matha eine weite, leere Kulisse. Gegen 17:00 Uhr erreichen wir den Hafen, wo wir den Sonnenuntergang in der klaren Winterluft bewundern.",
             "hu": "A téli bringás reggel frissen indul a Saint-Pierre templomnál. A mocsaras vidéken hűvös szél fúj, ami éberen tart minket tekerés közben. A Myocastors Parkban a természet csendjét élvezzük. Délben a Matha strand végtelen, üres tájjal vár. 17:00 körül érünk a kikötőbe, ahol a tiszta téli levegőben gyönyörködünk a lemenő nap sugaraiban.",
             "ro": "Dimineața de iarnă pe bicicletă începe viguros la biserica Saint-Pierre. O briză rece străbate mlaștinile, ținându-ne alerți în timp ce pedalăm. În Parcul Myocastors, savurăm liniștea deplină a naturii. La prânz, plaja Matha oferă un peisaj vast și pustiu. În jurul orei 17:00, ajungem în port pentru a admira apusul în aerul curat.",
-            "en": "A winter cycling morning starts briskly at Saint-Pierre Church. A cool breeze blows through the marshes, keeping us alert as we pedal along. In Myocastors Park, we enjoy the profound silence of nature. Noon brings us to the vast, empty landscape of Matha Beach. By 17:00, we reach the port to witness a magnificent sunset in the crisp winter air."
+            "en": "A winter cycling morning starts briskly at Saint-Pierre Church. A cool breeze blows through the marshes, keeping us alert as we pedal along. In Myocastors Park, we enjoy the profound silence of nature. Noon brings us to the vast, empty landscape of Matha Beach. By 17:00, we reach the port to witness a magnificent sunset in the crisp winter air.",
+            "fr": "Un matin de vélo d'hiver commence vivifiant à l'église Saint-Pierre. Une brise fraîche traverse les marais, nous maintenant alerte pendant que nous pédalons. Au parc des Myocastors, nous profitons du profond silence de la nature. Midi nous mène à l'immense paysage vide de la plage de Matha. À 17:00, nous atteignons le port pour assister à un coucher de soleil magnifique dans l'air vif de l'hiver."
           },
           "stops": [
             {
@@ -525,13 +581,15 @@
                 "de": "Kirche Saint-Pierre",
                 "hu": "Saint-Pierre templom",
                 "ro": "Biserica Saint-Pierre",
-                "en": "Saint-Pierre Church"
+                "en": "Saint-Pierre Church",
+                "fr": "Église Saint-Pierre"
               },
               "tip_5lang": {
                 "de": "Wärmen Sie sich kurz im Kirchenschiff auf, bevor Sie losfahren; tragen Sie windfeste Handschuhe, da der Fahrtwind im Winter sehr beißend sein kann.",
                 "hu": "Melegedjen fel egy kicsit a templomhajóban az indulás előtt; viseljen szélálló kesztyűt, mert a menetszél télen nagyon éles és hideg lehet.",
                 "ro": "Încălziți-vă puțin în nava bisericii înainte de plecare; purtați mănuși rezistente la vânt, deoarece curentul de aer din timpul mersului este tăios.",
-                "en": "Warm up for a moment in the nave before you set off; wear windproof gloves, as the headwind can be very sharp and cold during winter rides."
+                "en": "Warm up for a moment in the nave before you set off; wear windproof gloves, as the headwind can be very sharp and cold during winter rides.",
+                "fr": "Réchauffez‑vous un moment dans la nef avant de partir ; portez des gants coupe‑vent, car le vent de face peut être très piquant et froid lors des sorties hivernales."
               }
             },
             {
@@ -539,13 +597,15 @@
                 "de": "Vogelreservat Marais",
                 "hu": "Madárrezervátum",
                 "ro": "Sanctuarul de Păsări",
-                "en": "Bird Sanctuary"
+                "en": "Bird Sanctuary",
+                "fr": "Réserve ornithologique"
               },
               "tip_5lang": {
                 "de": "Beobachten Sie Wintergäste unter den Vögeln mit dem Fernglas; der flache Sonnenstand sorgt für wunderschöne Lichtverhältnisse in den Salzwiesen.",
                 "hu": "Figyelje meg a telelő madárvendégeket távcsővel; az alacsony napállás gyönyörű fényeket teremt a sós mocsarak felett a téli időszakban.",
                 "ro": "Observați păsările care iernează aici folosind un binoclu; poziția joasă a soarelui creează lumini superbe deasupra mlaștinilor sărate.",
-                "en": "Observe the wintering bird guests with binoculars; the low sun creates beautiful lighting conditions over the salt marshes during this season."
+                "en": "Observe the wintering bird guests with binoculars; the low sun creates beautiful lighting conditions over the salt marshes during this season.",
+                "fr": "Observez les oiseaux hivernants à l'aide de jumelles ; le soleil bas crée de belles conditions d'éclairage sur les marais salants en cette saison."
               }
             },
             {
@@ -553,13 +613,15 @@
                 "de": "Nutria-Park",
                 "hu": "Myocastors Park",
                 "ro": "Parcul Myocastors",
-                "en": "Myocastors Park"
+                "en": "Myocastors Park",
+                "fr": "Parc des Myocastors"
               },
               "tip_5lang": {
                 "de": "Die Tiere haben jetzt ihr dichtes Winterfell; der Park ist ruhiger, was Ihnen eine fast private Beobachtung der pelzigen Bewohner ermöglicht.",
                 "hu": "Az állatoknak most sűrű téli bundájuk van; a park sokkal csendesebb ilyenkor, ami szinte privát megfigyelést tesz lehetővé a látogatóknak.",
                 "ro": "Animalele au acum blana de iarnă foarte deasă; parcul este mai liniștit, permițându-vă o observare aproape privată a locatarilor blănoși.",
-                "en": "The animals now have their thick winter fur; the park is much quieter now, allowing for an almost private observation of these furry residents."
+                "en": "The animals now have their thick winter fur; the park is much quieter now, allowing for an almost private observation of these furry residents.",
+                "fr": "Les animaux ont maintenant leur épais pelage d'hiver ; le parc est beaucoup plus calme, permettant une observation presque privée de ces résidents poilus."
               }
             },
             {
@@ -567,13 +629,15 @@
                 "de": "Strand von Matha",
                 "hu": "Matha strand",
                 "ro": "Plaja Matha",
-                "en": "Matha Beach"
+                "en": "Matha Beach",
+                "fr": "Plage de Matha"
               },
               "tip_5lang": {
                 "de": "Genießen Sie die klare Sicht bis zum Horizont; ein Schal schützt vor der kühlen Brise, die im Winter stetig über die Dünen weht.",
                 "hu": "Élvezze a tiszta kilátást egészen a horizontig; egy sál sokat segít a hűvös szél ellen, ami télen folyamatosan fúj a dűnék között a parton.",
                 "ro": "Bucurați-vă de vizibilitatea clară până la orizont; un fular vă va proteja de briza rece care suflă constant peste dune în timpul iernii.",
-                "en": "Enjoy the clear views all the way to the horizon; a scarf will protect you from the cool breeze that blows steadily across the dunes in winter."
+                "en": "Enjoy the clear views all the way to the horizon; a scarf will protect you from the cool breeze that blows steadily across the dunes in winter.",
+                "fr": "Appréciez la vue dégagée jusqu'à l'horizon ; une écharpe vous protégera de la brise fraîche qui souffle régulièrement sur les dunes en hiver."
               }
             },
             {
@@ -581,13 +645,15 @@
                 "de": "Hafen von La Cotinière",
                 "hu": "La Cotinière kikötője",
                 "ro": "Portul La Cotinière",
-                "en": "Port of La Cotinière"
+                "en": "Port of La Cotinière",
+                "fr": "Port de La Cotinière"
               },
               "tip_5lang": {
                 "de": "Erleben Sie das bunte Treiben bei der Rückkehr der Boote gegen 17:00 Uhr; die sinkende Sonne lässt die Eiskristalle auf den Booten glitzern.",
                 "hu": "Élje át a nyüzsgést a hajók 17:00 körüli visszatérésekor; a lemenő nap sugarai megcsillannak a hajókon lévő jégkristályokon a hidegben.",
                 "ro": "Trăiți agitația portului la întoarcerea bărcilor în jur de ora 17:00; soarele la apus face cristalele de gheață de pe bărci să strălucească.",
-                "en": "Experience the bustle as the boats return around 17:00; the setting sun makes any ice crystals on the decks glisten in the cold air."
+                "en": "Experience the bustle as the boats return around 17:00; the setting sun makes any ice crystals on the decks glisten in the cold air.",
+                "fr": "Vivez l'effervescence lorsque les bateaux reviennent vers 17:00 ; le soleil couchant fait scintiller les cristaux de givre éventuels sur les ponts dans l'air froid."
               }
             }
           ]
@@ -607,7 +673,8 @@
             "de": "Maison des Aïeules",
             "hu": "Maison des Aïeules",
             "ro": "Maison des Aïeules",
-            "en": "Maison des Aïeules"
+            "en": "Maison des Aïeules",
+            "fr": "Maison des Aïeules"
           },
           "coords": [
             -1.3039,
@@ -622,7 +689,8 @@
             "de": "Erkunden Sie dieses erhaltene historische Haus, um das Erbe der Inseln zu verstehen, aber kommen Sie früh, um die mittäglichen Touristenströme zu vermeiden.",
             "hu": "Fedezze fel ezt a megőrzött történelmi házat, hogy megértse a sziget ősi örökségét, de érkezzen korán, hogy elkerülje a déli turistatömeget.",
             "ro": "Explorați această casă istorică conservată pentru a înțelege patrimoniul ancestral al insulei, dar veniți devreme pentru a evita aglomerația turiștilor la prânz.",
-            "en": "Explore this preserved historical house to understand the island's ancestral heritage, but come early to avoid the midday tourist crowds."
+            "en": "Explore this preserved historical house to understand the island's ancestral heritage, but come early to avoid the midday tourist crowds.",
+            "fr": "Visitez cette maison historique préservée pour comprendre le patrimoine ancestral de l'île, mais venez tôt pour éviter la foule touristique de midi."
           }
         },
         {
@@ -630,7 +698,8 @@
             "de": "Strand von Boyardville",
             "hu": "Boyardville strand",
             "ro": "Plaja Boyardville",
-            "en": "Boyardville Beach"
+            "en": "Boyardville Beach",
+            "fr": "Plage de Boyardville"
           },
           "coords": [
             -1.234924,
@@ -645,7 +714,8 @@
             "de": "Blicken Sie von den weiten Sandflächen hier auf das berühmte Fort Boyard und tragen Sie bequeme Wanderschuhe, um den schönen angrenzenden Kiefernwald zu erkunden.",
             "hu": "Tekintsen ki a híres Fort Boyard felé a kiterjedt homokos partról, és viseljen kényelmes sétacipőt, hogy felfedezze a gyönyörű határos fenyőerdőt.",
             "ro": "Priviți spre faimosul Fort Boyard de pe nisipurile întinse de aici și purtați pantofi confortabili de mers pentru a explora frumoasa pădure de pini de la graniță.",
-            "en": "Look out towards the famous Fort Boyard from the expansive sands here, and wear comfortable walking shoes to explore the beautiful bordering pine forest."
+            "en": "Look out towards the famous Fort Boyard from the expansive sands here, and wear comfortable walking shoes to explore the beautiful bordering pine forest.",
+            "fr": "Regardez vers le célèbre Fort Boyard depuis ces larges plages, et portez des chaussures de marche confortables pour explorer la magnifique pinède limitrophe."
           }
         },
         {
@@ -653,7 +723,8 @@
             "de": "Strand Écuissière",
             "hu": "Écuissière strand",
             "ro": "Plaja Écuissière",
-            "en": "Écuissière Beach"
+            "en": "Écuissière Beach",
+            "fr": "Plage de l'Écuissière"
           },
           "coords": [
             -1.275523,
@@ -668,7 +739,8 @@
             "de": "Erleben Sie die raue Schönheit der Atlantikküste entlang dieses weitläufigen Strandes, obwohl Schwimmer stets auf die starken Meeresströmungen achten sollten.",
             "hu": "Tapasztalja meg az atlanti partvidék nyers szépségét ezen a kiterjedt strandon, bár az úszóknak figyelniük kell az erős óceáni áramlatokra.",
             "ro": "Experimentați frumusețea brută a coastei atlantice de-a lungul acestei plaje vaste, deși înotătorii ar trebui să rămână atenți la curenții puternici ai oceanului.",
-            "en": "Experience the raw beauty of the Atlantic coast along this sweeping beach, though swimmers should remain mindful of the strong ocean currents."
+            "en": "Experience the raw beauty of the Atlantic coast along this sweeping beach, though swimmers should remain mindful of the strong ocean currents.",
+            "fr": "Découvrez la beauté brute de la côte atlantique le long de cette plage étendue, bien que les baigneurs doivent rester vigilants face aux forts courants marins."
           }
         },
         {
@@ -676,7 +748,8 @@
             "de": "Strand La Perroche",
             "hu": "La Perroche strand",
             "ro": "Plaja La Perroche",
-            "en": "La Perroche Beach"
+            "en": "La Perroche Beach",
+            "fr": "Plage de La Perroche"
           },
           "coords": [
             -1.294672,
@@ -691,7 +764,8 @@
             "de": "Entdecken Sie eine malerische Küstenbucht, die von Surfern und Wassersportlern geliebt wird, und suchen Sie sich einen Platz in den Dünen für fantastische Fotomotive.",
             "hu": "Fedezzen fel egy festői parti öblöt, amelyet a szörfösök és a vízi sportok szerelmesei kedvelnek, és keressen egy helyet a dűnéken a fantasztikus fotózási lehetőségekért.",
             "ro": "Descoperiți un golf pitoresc iubit de surferi și entuziaști ai sporturilor nautice și alegeți un loc pe dune pentru oportunități fantastice de fotografie.",
-            "en": "Discover a quaint coastal bay beloved by surfers and water sports enthusiasts, and grab a spot on the dunes for fantastic photo opportunities."
+            "en": "Discover a quaint coastal bay beloved by surfers and water sports enthusiasts, and grab a spot on the dunes for fantastic photo opportunities.",
+            "fr": "Découvrez une baie côtière charmante prisée des surfeurs et amateurs de sports nautiques, et installez‑vous sur les dunes pour d'excellentes opportunités photo."
           }
         },
         {
@@ -699,7 +773,8 @@
             "de": "Hafen von La Cotinière",
             "hu": "La Cotinière kikötője",
             "ro": "Portul La Cotinière",
-            "en": "Port of La Cotinière"
+            "en": "Port of La Cotinière",
+            "fr": "Port de La Cotinière"
           },
           "coords": [
             -1.330804,
@@ -714,7 +789,8 @@
             "de": "Schlendern Sie um diesen aktiven Fischereihafen, um die maritime Atmosphäre aufzusaugen, und probieren Sie den Tagesfang in einem nahegelegenen Küstenbistro.",
             "hu": "Barangoljon ebben az aktív halászkikötőben, hogy magába szívja a tengeri hangulatot, és kóstolja meg a napi fogást egy közeli parti bisztróban.",
             "ro": "Plimbați-vă prin acest port de pescuit activ pentru a absorbi atmosfera maritimă și încercați o gustare din captura zilei la un bistro de coastă din apropiere.",
-            "en": "Wander around this active fishing port to soak in the maritime atmosphere, and try grabbing a bite of the daily catch at a nearby coastal bistro."
+            "en": "Wander around this active fishing port to soak in the maritime atmosphere, and try grabbing a bite of the daily catch at a nearby coastal bistro.",
+            "fr": "Promenez‑vous dans ce port de pêche actif pour imprégner l'atmosphère maritime, et essayez de goûter la prise du jour dans un bistrot côtier à proximité."
           }
         },
         {
@@ -722,7 +798,8 @@
             "de": "Strand von Biroire",
             "hu": "Biroire strand",
             "ro": "Plaja Biroire",
-            "en": "Biroire Beach"
+            "en": "Biroire Beach",
+            "fr": "Plage de Biroire"
           },
           "coords": [
             -1.363077,
@@ -737,7 +814,8 @@
             "de": "Entspannen Sie sich an den Sandstränden dieses ruhigen Strandes, der perfekt zum Abschalten ist, aber überprüfen Sie unbedingt die Gezeitenpläne, bevor Sie sich niederlassen.",
             "hu": "Pihenjen ezen a nyugodt tengerparton a homokos szakaszokon, de mindenképpen ellenőrizze az árapály-menetrendet, mielőtt letáborozna.",
             "ro": "Relaxați-vă pe întinderile de nisip ale acestei plaje liniștite, perfectă pentru relaxare, dar asigurați-vă că verificați programul mareelor înainte de a vă așeza.",
-            "en": "Relax on the sandy stretches of this serene beach, perfect for unwinding, but be sure to check the tide schedules before setting up your spot."
+            "en": "Relax on the sandy stretches of this serene beach, perfect for unwinding, but be sure to check the tide schedules before setting up your spot.",
+            "fr": "Détendez‑vous sur les étendues de sable de cette plage sereine, parfaite pour se relaxer, mais pensez à vérifier les horaires des marées avant de vous installer."
           }
         }
       ],
@@ -745,7 +823,8 @@
         "de": "Fahren Sie vom historischen Maison des Aïeules ab und tauchen Sie in die lokale Geschichte ein. Fahren Sie über die Insel zu den weiten Küsten von Boyardville für einen herrlichen Strandspaziergang am Mittag. Später fahren Sie die Südküste hinunter über Écuissière und Perroche, um versteckte Buchten und sanfte Wellen zu entdecken. Beenden Sie Ihre malerische Fahrt durch La Cotinière und La Biroire und genießen Sie den brillanten Sonnenuntergang über dem Atlantik.",
         "hu": "Induljon a történelmi Maison des Aïeules épületétől, elmerülve a helyi történelemben. Vezessen át a szigeten Boyardville kiterjedt partjaihoz egy lenyűgöző déli tengerparti sétára. Később ugorjon le a déli part mentén Écuissière és Perroche érintésével, hogy felfedezze a rejtett öblöket és finom hullámokat. Fejezze be festői útját La Cotinière és La Biroire kanyargós útjain, élvezve a ragyogó atlanti naplementét.",
         "ro": "Plecați de la istorica Maison des Aïeules, cufundându-vă în istoria locală. Conduceți de-a lungul insulei către țărmurile întinse din Boyardville pentru o plimbare superbă pe plajă la prânz. Mai târziu, coborâți pe coasta de sud prin Écuissière și Perroche pentru a descoperi golfuri ascunse și valuri blânde. Încheiați-vă călătoria pitorească prin La Cotinière și La Biroire, admirând apusul strălucitor al Atlanticului.",
-        "en": "Depart from the historic Maison des Aïeules, diving into local history. Drive across the island to the expansive shores of Boyardville for a stunning midday beach walk. Later, hop down the southern coast via Écuissière and Perroche to discover hidden coves and gentle waves. Finish your scenic drive winding through La Cotinière and La Biroire, enjoying the brilliant Atlantic sunset."
+        "en": "Depart from the historic Maison des Aïeules, diving into local history. Drive across the island to the expansive shores of Boyardville for a stunning midday beach walk. Later, hop down the southern coast via Écuissière and Perroche to discover hidden coves and gentle waves. Finish your scenic drive winding through La Cotinière and La Biroire, enjoying the brilliant Atlantic sunset.",
+        "fr": "Partez de la Maison des Aïeules historique, en vous plongeant dans l'histoire locale. Traversez l'île en voiture jusqu'aux vastes rivages de Boyardville pour une superbe promenade de midi sur la plage. Plus tard, descendez la côte sud via l'Écuissière et La Perroche pour découvrir des criques cachées et des vagues douces. Terminez votre route panoramique en traversant La Cotinière et La Biroire, en profitant du splendide coucher de soleil sur l'Atlantique."
       },
       "variants": {
         "rainy": {
@@ -753,7 +832,8 @@
             "de": "Ein Regentag auf Oléron lässt sich perfekt im Auto erkunden. Wir starten trocken am Maison des Aïeules und fahren zu den Stränden von Boyardville und Écuissière, um das Meer vom Fenster aus zu beobachten. Mittags bietet La Perroche eine dramatische Kulisse. Im Hafen von La Cotinière parken wir nah an den Fischhallen und beenden den Tag bei den Wellen von Biroire.",
             "hu": "Egy esős nap Oléron szigetén tökéletesen felfedezhető autóval. Szárazon indulunk a Maison des Aïeules-től, majd Boyardville és Écuissière strandjai felé hajtunk, az ablakból figyelve a tengert. Délben La Perroche drámai partvidéke vár. A kikötőben közel parkolunk a halcsarnokhoz, majd a napot Biroire hullámainak látványával zárjuk, az autó biztonságából.",
             "ro": "O zi ploioasă pe insulă poate fi explorată confortabil cu mașina. Pornim de la Maison des Aïeules și mergem spre plajele Boyardville și Écuissière, privind marea de la adăpostul geamului. La prânz, La Perroche oferă un decor dramatic. În port, parcăm aproape de halele de pește, încheind ziua admirând valurile de la Biroire din interiorul cald.",
-            "en": "A rainy day on Oléron is best explored by car, staying dry between stops. We start at Maison des Aïeules, then drive to Boyardville and Écuissière to watch the Atlantic through the windshield. Noon brings the dramatic coast of La Perroche. In the port, we park close to the fish markets and end the day observing the powerful waves at Biroire Beach."
+            "en": "A rainy day on Oléron is best explored by car, staying dry between stops. We start at Maison des Aïeules, then drive to Boyardville and Écuissière to watch the Atlantic through the windshield. Noon brings the dramatic coast of La Perroche. In the port, we park close to the fish markets and end the day observing the powerful waves at Biroire Beach.",
+            "fr": "Une journée pluvieuse sur l'Île d'Oléron se découvre mieux en voiture, restant au sec entre les arrêts. Nous commençons à la Maison des Aïeules, puis roulons jusqu'à Boyardville et Écuissière pour regarder l'Atlantique à travers le pare-brise. À midi, la côte spectaculaire de La Perroche. Au port, nous nous garons près des halles aux poissons et terminons la journée en observant les puissantes vagues de la plage de Biroire."
           },
           "stops": [
             {
@@ -761,13 +841,15 @@
                 "de": "Maison des Aïeules",
                 "hu": "Maison des Aïeules",
                 "ro": "Maison des Aïeules",
-                "en": "Maison des Aïeules"
+                "en": "Maison des Aïeules",
+                "fr": "Maison des Aïeules"
               },
               "tip_5lang": {
                 "de": "Parken Sie direkt in der Nähe, um den kurzen Weg durch den Regen trocken zu überstehen; das Museum ist der ideale Ort, um das Wetter abzuwarten.",
                 "hu": "Parkoljon közvetlenül a közelben, hogy szárazon megússza a rövid sétát az esőben; a múzeum ideális hely a záporok elöli menedékre.",
                 "ro": "Parcați chiar în apropiere pentru a parcurge drumul scurt prin ploaie cât mai uscați; muzeul este locația ideală pentru a aștepta trecerea ploii.",
-                "en": "Park as close as possible to complete the short walk in the rain while staying dry; the museum is the perfect place to wait out a heavy downpour."
+                "en": "Park as close as possible to complete the short walk in the rain while staying dry; the museum is the perfect place to wait out a heavy downpour.",
+                "fr": "Garez-vous au plus près pour compléter la courte promenade sous la pluie tout en restant au sec ; le musée est l'endroit idéal pour attendre une forte averse."
               }
             },
             {
@@ -775,13 +857,15 @@
                 "de": "Strand von Boyardville",
                 "hu": "Boyardville strand",
                 "ro": "Plaja Boyardville",
-                "en": "Boyardville Beach"
+                "en": "Boyardville Beach",
+                "fr": "Plage de Boyardville"
               },
               "tip_5lang": {
                 "de": "Beobachten Sie das berühmte Fort Boyard vom Parkplatz aus; bei Regen wirkt die Festung in der grauen See besonders imposant und geheimnisvoll.",
                 "hu": "Figyelje meg a híres Fort Boyard erődöt közvetlenül a parkolóból; esőben az erőd a szürke tengeren különösen impozáns és titokzatos látványt nyújt.",
                 "ro": "Observați celebra fortăreață Fort Boyard direct din parcare; pe ploaie, fortul pare mult mai impunător și misterios în mijlocul mării cenușii.",
-                "en": "Observe the famous Fort Boyard directly from the parking lot; in the rain, the fortress looks particularly imposing and mysterious amidst the grey sea."
+                "en": "Observe the famous Fort Boyard directly from the parking lot; in the rain, the fortress looks particularly imposing and mysterious amidst the grey sea.",
+                "fr": "Observez le célèbre Fort Boyard directement depuis le parking ; sous la pluie, la forteresse paraît particulièrement imposante et mystérieuse au milieu de la mer grise."
               }
             },
             {
@@ -789,13 +873,15 @@
                 "de": "Strand Écuissière",
                 "hu": "Écuissière strand",
                 "ro": "Plaja Écuissière",
-                "en": "Écuissière Beach"
+                "en": "Écuissière Beach",
+                "fr": "Plage d'Écuissière"
               },
               "tip_5lang": {
                 "de": "Die Brandung ist bei schlechtem Wetter hier oft sehr stark; bleiben Sie für Fotos am Rand der Dünen und achten Sie auf den böigen Wind.",
                 "hu": "A hullámverés rossz időben itt gyakran nagyon erős; a fotózáshoz maradjon a dűnék szélén, és figyeljen az erős, lökéses szélre a parton.",
                 "ro": "Valurile sunt adesea foarte puternice aici pe vreme rea; pentru fotografii, rămâneți la marginea dunelor și fiți atenți la rafalele de vânt.",
-                "en": "The surf is often very powerful here during bad weather; stay near the edge of the dunes for photos and be mindful of the gusty winds on the shore."
+                "en": "The surf is often very powerful here during bad weather; stay near the edge of the dunes for photos and be mindful of the gusty winds on the shore.",
+                "fr": "La houle y est souvent très puissante par mauvais temps ; restez près du bord des dunes pour les photos et soyez attentif aux rafales sur le rivage."
               }
             },
             {
@@ -803,13 +889,15 @@
                 "de": "Strand La Perroche",
                 "hu": "La Perroche strand",
                 "ro": "Plaja La Perroche",
-                "en": "La Perroche Beach"
+                "en": "La Perroche Beach",
+                "fr": "Plage de La Perroche"
               },
               "tip_5lang": {
                 "de": "Genießen Sie den Blick auf die kleine Bucht vom Auto aus; die nassen Felsen am Rand leuchten im Regen in dunklen, interessanten Farben.",
                 "hu": "Élvezze a kilátást a kis öbölre az autóból; a sziklák a parton az esőben sötét, mély színekben ragyognak, ami különleges látványt ad.",
                 "ro": "Bucurați-vă de priveliștea spre micul golf din mașină; stâncile de pe mal strălucesc în culori închise și intense sub picăturile de ploaie.",
-                "en": "Enjoy the view of the small bay from your car; the rocks along the shore glow in deep, dark colors in the rain, providing a unique visual experience."
+                "en": "Enjoy the view of the small bay from your car; the rocks along the shore glow in deep, dark colors in the rain, providing a unique visual experience.",
+                "fr": "Profitez de la vue sur la petite baie depuis votre voiture ; les rochers le long du rivage prennent des teintes profondes et sombres sous la pluie, offrant une expérience visuelle unique."
               }
             },
             {
@@ -817,13 +905,15 @@
                 "de": "Hafen von La Cotinière",
                 "hu": "La Cotinière kikötője",
                 "ro": "Portul La Cotinière",
-                "en": "Port of La Cotinière"
+                "en": "Port of La Cotinière",
+                "fr": "Port de La Cotinière"
               },
               "tip_5lang": {
                 "de": "Parken Sie im Hafenbereich und besuchen Sie die Fischhalle; die vielen Cafés rundherum bieten den perfekten, trockenen Ausblick auf das Hafenbecken.",
                 "hu": "Parkoljon a kikötői területen és látogassa meg a halcsarnokot; a környékbeli kávézók tökéletes, száraz rálátást biztosítanak a medencére.",
                 "ro": "Parcați în zona portului și vizitați bursa de pește; cafenelele din jur oferă o priveliște perfectă și uscată asupra întregului bazin portuar.",
-                "en": "Park in the harbor area and visit the fish auction hall; the surrounding cafes offer a perfect, dry vantage point to watch the boats in the basin."
+                "en": "Park in the harbor area and visit the fish auction hall; the surrounding cafes offer a perfect, dry vantage point to watch the boats in the basin.",
+                "fr": "Garez-vous dans la zone du port et visitez la halle aux poissons ; les cafés environnants offrent un point de vue sec parfait pour regarder les bateaux dans le bassin."
               }
             },
             {
@@ -831,13 +921,15 @@
                 "de": "Strand von Biroire",
                 "hu": "Biroire strand",
                 "ro": "Plaja Biroire",
-                "en": "Biroire Beach"
+                "en": "Biroire Beach",
+                "fr": "Plage de Biroire"
               },
               "tip_5lang": {
                 "de": "Ein kurzer, regnerischer Strandspaziergang ist belebend; tragen Sie Gummistiefel, da der Zugangsweg zum Strand bei Regen oft matschig ist.",
                 "hu": "Egy rövid, esős tengerparti séta felfrissít; viseljen gumicsizmát, mivel a strandra vezető út esőben gyakran sáros és vizenyős lehet.",
                 "ro": "O scurtă plimbare pe plajă în ploaie este revigorantă; purtați cizme de cauciuc, deoarece drumul de acces este adesea noroios după ploaie.",
-                "en": "A short, rainy beach walk is invigorating; wear rubber boots, as the access path to the beach is often muddy and waterlogged after rain."
+                "en": "A short, rainy beach walk is invigorating; wear rubber boots, as the access path to the beach is often muddy and waterlogged after rain.",
+                "fr": "Une courte marche pluvieuse sur la plage est vivifiante ; portez des bottes en caoutchouc, car le sentier d'accès est souvent boueux et détrempé après la pluie."
               }
             }
           ]
@@ -847,7 +939,8 @@
             "de": "Winter auf Oléron bedeutet klare Luft und leere Straßen. Im Auto fahren wir gemütlich vom Maison des Aïeules zu den weiten Stränden von Boyardville und Écuissière. Mittags ist das Licht in La Perroche besonders sanft. Im Hafen von La Cotinière erleben wir gegen 17:00 Uhr den Sonnenuntergang, bevor wir zum Abschluss die kühle Brise am Strand von Biroire genießen.",
             "hu": "A tél Oléron szigetén tiszta levegőt és üres utakat jelent. Autóval kényelmesen jutunk el a Maison des Aïeules-től Boyardville és Écuissière végtelen strandjaihoz. Délben La Perroche fényei különösen lágyak. A kikötőben 17:00 körül csodáljuk meg a naplementét, majd a napot a Biroire strand hűvös, tengeri szellőjével zárjuk.",
             "ro": "Iarna pe Oléron înseamnă aer curat și drumuri pustii. Cu mașina, ajungem confortabil de la Maison des Aïeules la plajele vaste Boyardville și Écuissière. La prânz, lumina în La Perroche este deosebit de blândă. În port, admirăm apusul în jur de ora 17:00, încheind cu briza rece de la plaja Biroire.",
-            "en": "Winter on Oléron brings crisp air and quiet roads. By car, we travel comfortably from Maison des Aïeules to the vast beaches of Boyardville and Écuissière. Noon light at La Perroche is exceptionally soft. In the port, we witness the 17:00 sunset before enjoying the final cool breeze of the day at Biroire Beach."
+            "en": "Winter on Oléron brings crisp air and quiet roads. By car, we travel comfortably from Maison des Aïeules to the vast beaches of Boyardville and Écuissière. Noon light at La Perroche is exceptionally soft. In the port, we witness the 17:00 sunset before enjoying the final cool breeze of the day at Biroire Beach.",
+            "fr": "L'hiver sur Oléron apporte un air vif et des routes tranquilles. En voiture, nous voyageons confortablement de la Maison des Aïeules aux vastes plages de Boyardville et d'Écuissière. La lumière de midi à La Perroche est exceptionnellement douce. Au port, nous assistons au coucher du soleil à 17:00 avant de profiter de la dernière brise fraîche de la journée à la plage de Biroire."
           },
           "stops": [
             {
@@ -855,13 +948,15 @@
                 "de": "Maison des Aïeules",
                 "hu": "Maison des Aïeules",
                 "ro": "Maison des Aïeules",
-                "en": "Maison des Aïeules"
+                "en": "Maison des Aïeules",
+                "fr": "Maison des Aïeules"
               },
               "tip_5lang": {
                 "de": "Nutzen Sie die Heizung im Auto zwischen den Besichtigungen; im Museum selbst ist es angenehm warm und perfekt für eine kulturelle Winterpause.",
                 "hu": "Használja ki az autó fűtését a látnivalók között; a múzeumban kellemes meleg van, így tökéletes egy kulturális téli pihenőre a látogatás alatt.",
                 "ro": "Folosiți căldura din mașină între opriri; în interiorul muzeului este plăcut și cald, fiind locul ideal pentru o pauză culturală de iarnă.",
-                "en": "Make use of the car's heater between stops; inside the museum, it is comfortably warm, making it a perfect cultural winter break during your tour."
+                "en": "Make use of the car's heater between stops; inside the museum, it is comfortably warm, making it a perfect cultural winter break during your tour.",
+                "fr": "Utilisez le chauffage de la voiture entre les arrêts ; à l'intérieur du musée, il fait agréablement chaud, ce qui en fait une parfaite pause culturelle hivernale lors de votre visite."
               }
             },
             {
@@ -869,13 +964,15 @@
                 "de": "Strand von Boyardville",
                 "hu": "Boyardville strand",
                 "ro": "Plaja Boyardville",
-                "en": "Boyardville Beach"
+                "en": "Boyardville Beach",
+                "fr": "Plage de Boyardville"
               },
               "tip_5lang": {
                 "de": "Die klare Winterluft ermöglicht eine fantastische Sicht auf das Fort Boyard; kleiden Sie sich warm für einen kurzen Fotostopp am Rand der Dünen.",
                 "hu": "A tiszta téli levegő fantasztikus látási viszonyokat biztosít Fort Boyard felé; öltözzön melegen egy rövid fotószünetre a dűnék szélén a parton.",
                 "ro": "Aerul curat de iarnă oferă o vizibilitate fantastică spre Fort Boyard; îmbrăcați-vă bine pentru o scurtă pauză foto la marginea dunelor de nisip.",
-                "en": "The clear winter air allows for fantastic visibility of Fort Boyard; dress warmly for a brief photo stop at the edge of the dunes on the beach."
+                "en": "The clear winter air allows for fantastic visibility of Fort Boyard; dress warmly for a brief photo stop at the edge of the dunes on the beach.",
+                "fr": "L'air clair d'hiver permet une visibilité fantastique du Fort Boyard ; habillez-vous chaudement pour une courte pause photo au bord des dunes de la plage."
               }
             },
             {
@@ -883,13 +980,15 @@
                 "de": "Strand Écuissière",
                 "hu": "Écuissière strand",
                 "ro": "Plaja Écuissière",
-                "en": "Écuissière Beach"
+                "en": "Écuissière Beach",
+                "fr": "Plage d'Écuissière"
               },
               "tip_5lang": {
                 "de": "Genießen Sie die Ruhe am fast menschenleeren Strand; der Weg vom Parkplatz ist kurz, aber eine windfeste Jacke ist aufgrund der Brise ratsam.",
                 "hu": "Élvezze a nyugalmat a szinte teljesen üres strandon; a parkolóból rövid az út, de a szél miatt egy szélálló dzseki mindenképpen ajánlott itt.",
                 "ro": "Bucurați-vă de liniștea plajei aproape pustii; drumul din parcare este scurt, dar o jachetă rezistentă la vânt este necesară din cauza brizei constante.",
-                "en": "Enjoy the tranquility of the nearly empty beach; the walk from the parking lot is short, but a windproof jacket is highly recommended due to the breeze."
+                "en": "Enjoy the tranquility of the nearly empty beach; the walk from the parking lot is short, but a windproof jacket is highly recommended due to the breeze.",
+                "fr": "Appréciez la tranquillité de la plage presque vide ; la promenade depuis le parking est courte, mais une veste coupe-vent est fortement recommandée en raison de la brise."
               }
             },
             {
@@ -897,13 +996,15 @@
                 "de": "Strand La Perroche",
                 "hu": "La Perroche strand",
                 "ro": "Plaja La Perroche",
-                "en": "La Perroche Beach"
+                "en": "La Perroche Beach",
+                "fr": "Plage de La Perroche"
               },
               "tip_5lang": {
                 "de": "Das Winterlicht lässt das Wasser in der Bucht fast silbern schimmern; ideal für Landschaftsfotografen, die die stille Seite der Insel suchen.",
                 "hu": "A téli fények az öböl vizét szinte ezüstösen ragyogóvá teszik; ideális helyszín a tájfotósoknak, akik a sziget csendesebb arcát keresik télen.",
                 "ro": "Lumina de iarnă face ca apa golfului să strălucească argintiu; este locul ideal pentru fotografii de peisaj care caută latura liniștită a insulei.",
-                "en": "The winter light makes the bay's water shimmer with a silver glow; it's an ideal spot for landscape photographers seeking the island's quieter side."
+                "en": "The winter light makes the bay's water shimmer with a silver glow; it's an ideal spot for landscape photographers seeking the island's quieter side.",
+                "fr": "La lumière d'hiver fait scintiller l'eau de la baie d'un éclat argenté ; c'est un endroit idéal pour les photographes de paysages en quête du côté plus calme de l'île."
               }
             },
             {
@@ -911,13 +1012,15 @@
                 "de": "Hafen von La Cotinière",
                 "hu": "La Cotinière kikötője",
                 "ro": "Portul La Cotinière",
-                "en": "Port of La Cotinière"
+                "en": "Port of La Cotinière",
+                "fr": "Port de La Cotinière"
               },
               "tip_5lang": {
                 "de": "Beobachten Sie den Sonnenuntergang gegen 17:00 Uhr direkt vom Hafen aus; die tiefstehende Sonne taucht die Fischerboote in ein magisches Licht.",
                 "hu": "Csodálja meg a naplementét 17:00 körül közvetlenül a kikötőből; az alacsonyan járó nap mágikus fényekbe öltözteti a vízen ringatózó halászhajókat.",
                 "ro": "Admirați apusul în jur de ora 17:00 direct din port; soarele aflat jos la orizont scaldă bărcile de pescuit într-o lumină cu adevărat magică.",
-                "en": "Admire the sunset around 17:00 directly from the harbor; the low-hanging sun bathes the fishing boats in a truly magical and warm glow."
+                "en": "Admire the sunset around 17:00 directly from the harbor; the low-hanging sun bathes the fishing boats in a truly magical and warm glow.",
+                "fr": "Admirez le coucher du soleil vers 17:00 directement depuis le port ; le soleil bas baigne les bateaux de pêche d'une lueur réellement magique et chaleureuse."
               }
             },
             {
@@ -925,13 +1028,15 @@
                 "de": "Strand von Biroire",
                 "hu": "Biroire strand",
                 "ro": "Plaja Biroire",
-                "en": "Biroire Beach"
+                "en": "Biroire Beach",
+                "fr": "Plage de Biroire"
               },
               "tip_5lang": {
                 "de": "Beenden Sie den Tag mit einem Blick auf den dunklen Atlantik; im Auto bleibend können Sie die raue Schönheit der winterlichen Küste sicher genießen.",
                 "hu": "Zárja a napot a sötétedő Atlanti-óceán látványával; az autóban maradva biztonságban és melegben élvezheti a téli partvidék nyers szépségét.",
                 "ro": "Încheiați ziua admirând Atlanticul care se întunecă; rămânând în mașină, puteți savura în siguranță frumusețea crudă a coastei pe timp de iarnă.",
-                "en": "End the day with a view of the darkening Atlantic; staying inside the car allows you to safely and warmly enjoy the raw beauty of the winter coast."
+                "en": "End the day with a view of the darkening Atlantic; staying inside the car allows you to safely and warmly enjoy the raw beauty of the winter coast.",
+                "fr": "Terminez la journée face à l'Atlantique qui s'assombrit ; rester dans la voiture vous permet d'apprécier en sécurité et au chaud la beauté brute de la côte hivernale."
               }
             }
           ]

@@ -21,7 +21,8 @@
             "de": "Museum La Mosaïque",
             "hu": "La Mosaïque Múzeum",
             "ro": "Muzeul La Mosaïque",
-            "en": "La Mosaïque Museum"
+            "en": "La Mosaïque Museum",
+            "fr": "Musée La Mosaïque"
           },
           "coords": [
             1.505309,
@@ -36,7 +37,8 @@
             "de": "Entdecken Sie die faszinierende lokale Geschichte in La Mosaïque und vergessen Sie nicht, das Personal nach den temporären Kunstsammlungen zu fragen.",
             "hu": "Fedezze fel a lenyűgöző helyi történelmet a La Mosaïque múzeumban, és mindenképpen kérdezzen rá a felső szinten lévő időszaki kiállításokra.",
             "ro": "Explorați istoria locală fascinantă la La Mosaïque, asigurându-vă că întrebați personalul despre colecțiile de artă temporare de la etajul superior.",
-            "en": "Explore fascinating local history and cultural exhibits at La Mosaïque, making sure to ask the staff about temporary art collections on the upper floor."
+            "en": "Explore fascinating local history and cultural exhibits at La Mosaïque, making sure to ask the staff about temporary art collections on the upper floor.",
+            "fr": "Explorez l’histoire locale fascinante et les expositions culturelles au musée La Mosaïque, en n’oubliant pas de demander au personnel les collections d’art temporaires à l’étage."
           }
         },
         {
@@ -44,7 +46,8 @@
             "de": "Kirche Saint-Jean",
             "hu": "Saint-Jean templom",
             "ro": "Biserica Saint-Jean",
-            "en": "Église Saint-Jean"
+            "en": "Église Saint-Jean",
+            "fr": "Église Saint-Jean"
           },
           "coords": [
             1.503002,
@@ -59,7 +62,8 @@
             "de": "Bewundern Sie die ruhige Architektur der Église Saint-Jean, wo das Morgenlicht durch die Buntglasfenster einen perfekten Moment der Reflexion bietet.",
             "hu": "Csodálja meg az Église Saint-Jean nyugodt építészetét, ahol a színes üvegablakokon átszűrődő reggeli fény tökéletes pillanatot nyújt a csendes elmélkedésre.",
             "ro": "Admirați arhitectura senină a Église Saint-Jean, unde lumina dimineții ce pătrunde prin vitralii oferă un moment perfect pentru o reflecție liniștită.",
-            "en": "Admire the serene architecture of Église Saint-Jean, where the morning light through the stained glass offers a perfect moment for peaceful reflection."
+            "en": "Admire the serene architecture of Église Saint-Jean, where the morning light through the stained glass offers a perfect moment for peaceful reflection.",
+            "fr": "Admirez l’architecture sereine de l’église Saint-Jean, où la lumière du matin traversant les vitraux offre un moment parfait de réflexion paisible."
           }
         },
         {
@@ -67,7 +71,8 @@
             "de": "Saint-Jean-See",
             "hu": "Saint-Jean tó",
             "ro": "Lacul Saint-Jean",
-            "en": "Saint-Jean Lake"
+            "en": "Saint-Jean Lake",
+            "fr": "Lac Saint-Jean"
           },
           "coords": [
             1.497199,
@@ -82,7 +87,8 @@
             "de": "Spazieren Sie an den ruhigen Gewässern des Saint-Jean-Sees entlang, um lokale Wasservögel zu beobachten, und tragen Sie bequeme Schuhe für die Naturpfade.",
             "hu": "Sétáljon a Saint-Jean tó nyugodt vize körül a helyi vízimadarak megfigyeléséhez, és hozzon kényelmes cipőt a burkolatlan tanösvények felfedezéséhez.",
             "ro": "Plimbați-vă pe lângă apele liniștite ale lacului Saint-Jean pentru a observa păsările de apă, purtând încălțăminte confortabilă pentru traseele naturale.",
-            "en": "Stroll around the tranquil waters of Saint-Jean Lake to spot local waterbirds, bringing some comfortable walking shoes to enjoy the unpaved nature trails."
+            "en": "Stroll around the tranquil waters of Saint-Jean Lake to spot local waterbirds, bringing some comfortable walking shoes to enjoy the unpaved nature trails.",
+            "fr": "Se promener autour des eaux tranquilles du lac Saint-Jean pour observer les oiseaux aquatiques locaux ; pensez à des chaussures de marche confortables pour profiter des sentiers naturels non revêtus."
           }
         },
         {
@@ -90,7 +96,8 @@
             "de": "Estournet Park",
             "hu": "Estournet Park",
             "ro": "Parcul Estournet",
-            "en": "Estournet Park"
+            "en": "Estournet Park",
+            "fr": "Parc Estournet"
           },
           "coords": [
             1.513629,
@@ -105,7 +112,8 @@
             "de": "Entspannen Sie sich unter den alten Bäumen im Estournet Park, dem idealen Ort für ein leichtes Picknick am Nachmittag im wunderschön gepflegten Grün.",
             "hu": "Pihenjen az Estournet Park hatalmas árnyékot adó fái alatt, amely ideális hely egy könnyű délutáni piknikhez a gyönyörűen karbantartott zöldövezetben.",
             "ro": "Relaxați-vă sub arborii seculari din Parcul Estournet, locul ideal pentru un picnic ușor de după-amiază, bucurându-vă de verdeața frumos întreținută.",
-            "en": "Relax under the mature shade trees of Estournet Park, the ideal spot to unpack a light afternoon picnic while enjoying the beautifully maintained greenery."
+            "en": "Relax under the mature shade trees of Estournet Park, the ideal spot to unpack a light afternoon picnic while enjoying the beautifully maintained greenery.",
+            "fr": "Détendez‑vous à l’ombre des arbres mûrs du parc Estournet, l’endroit idéal pour déplier un petit pique‑nique d’après‑midi tout en profitant de la pelouse magnifiquement entretenue."
           }
         },
         {
@@ -113,7 +121,8 @@
             "de": "Kirche Saint-Laurent",
             "hu": "Saint-Laurent templom",
             "ro": "Biserica Saint-Laurent",
-            "en": "Église Saint-Laurent"
+            "en": "Église Saint-Laurent",
+            "fr": "Église Saint-Laurent"
           },
           "coords": [
             1.524188,
@@ -128,7 +137,8 @@
             "de": "Entdecken Sie den zeitlosen Charme der Église Saint-Laurent und achten Sie besonders auf die kunstvollen Holzschnitzereien in der Nähe des Hauptaltars.",
             "hu": "Fedezze fel az Église Saint-Laurent időtlen báját és masszív kőfalazatát, különös figyelmet fordítva a főoltár melletti bonyolult fafaragásokra.",
             "ro": "Descoperiți farmecul atemporal și zidăria masivă a Église Saint-Laurent, acordând atenție deosebită sculpturilor complicate din lemn de lângă altar.",
-            "en": "Discover the timeless charm and sturdy stone masonry of Église Saint-Laurent, paying close attention to the intricate wooden carvings near the main altar."
+            "en": "Discover the timeless charm and sturdy stone masonry of Église Saint-Laurent, paying close attention to the intricate wooden carvings near the main altar.",
+            "fr": "Découvrez le charme intemporel et la maçonnerie de pierre solide de l’église Saint‑Laurent, en prêtant une attention particulière aux sculptures en bois finement travaillées près du maître-autel."
           }
         }
       ],
@@ -136,7 +146,8 @@
         "de": "Der Morgen beginnt mit lokaler Geschichte im Museum La Mosaïque und der Besinnung in der Église Saint-Jean. Mittags genießen Sie die erfrischende Brise am Saint-Jean-See, der ideal für eine Pause ist. Am Nachmittag schlendern Sie durch den wunderschönen Estournet Park. Der Abend endet friedlich bei der Église Saint-Laurent, wo Sie die lokale Architektur vor Sonnenuntergang bewundern.",
         "hu": "A reggel a helyi történelemmel kezdődik a La Mosaïque múzeumban és a Saint-Jean templomban. Délben élvezheti a frissítő szellőt a Saint-Jean tónál, amely ideális egy pihenőhöz. Délután kellemes sétát tehet a gyönyörű Estournet Parkban. Az este békésen zárul a Saint-Laurent templomnál, ahol naplemente előtt megcsodálhatja a helyi építészeti stílus finom részleteit.",
         "ro": "Dimineața începe cu istoria locală la muzeul La Mosaïque și o reflecție la Église Saint-Jean. La prânz, vă bucurați de briza răcoroasă la lacul Saint-Jean, ideal pentru o pauză. După-amiaza, vă plimbați prin minunatul parc Estournet, plin de verdeață. Seara se încheie liniștit la Église Saint-Laurent, unde puteți admira arhitectura locală impresionantă înainte de apusul soarelui.",
-        "en": "The morning begins with local history at La Mosaïque museum and a moment of reflection at Église Saint-Jean. By midday, you will enjoy the refreshing breeze at Saint-Jean Lake, ideal for a rest. During the afternoon, you can take a pleasant stroll through the beautiful Estournet Park. The evening concludes peacefully at Église Saint-Laurent, admiring the local architecture before sunset."
+        "en": "The morning begins with local history at La Mosaïque museum and a moment of reflection at Église Saint-Jean. By midday, you will enjoy the refreshing breeze at Saint-Jean Lake, ideal for a rest. During the afternoon, you can take a pleasant stroll through the beautiful Estournet Park. The evening concludes peacefully at Église Saint-Laurent, admiring the local architecture before sunset.",
+        "fr": "La matinée commence par l’histoire locale au musée La Mosaïque et un moment de recueillement à l’église Saint‑Jean. À midi, vous profiterez de la brise rafraîchissante au lac Saint‑Jean, idéal pour une pause. L’après‑midi, vous ferez une agréable promenade dans le beau parc Estournet. La soirée se conclut paisiblement à l’église Saint‑Laurent, en admirant l’architecture locale avant le coucher du soleil."
       },
       "variants": {
         "rainy": {
@@ -144,7 +155,8 @@
             "de": "Beginnen Sie Ihren Tag im trockenen Museum, während der Regen gegen die Scheiben trommelt. Mittags bieten die Kirchen eine willkommene Zuflucht vor den Schauern. Am Nachmittag verwandelt der Regen den See und den Park in eine mystische, wenn auch feuchte Landschaft, in der wasserfeste Kleidung Pflicht ist. Den Abend lassen Sie ruhig in der schützenden Atmosphäre von Saint-Laurent ausklingen.",
             "hu": "Kezdje a reggelt a fedett múzeumban, ahol az eső kopogása csak fokozza a kiállítás hangulatát. Délben a templomok belső terei nyújtanak biztos menedéket a záporok elől. Délután a tó és a park ösvényei kissé sárosak lehetnek, így válasszon vízálló lábbelit és tartson egy esernyőt készenlétben. Az estét zárja a Saint-Laurent templom csendjében, védve a szitáló ködtől.",
             "ro": "Începeți dimineața în muzeul acoperit, în timp ce ploaia bate în geamuri, oferind o atmosferă intimă. La prânz, bisericile oferă un refugiu uscat și liniștit în fața averselor. După-amiaza, lacul și parcul capătă un aspect mistic, dar cărările pot fi noroioase, deci purtați încălțăminte impermeabilă. Seara se încheie în siguranță sub bolțile bisericii Saint-Laurent.",
-            "en": "Start your morning inside the museum, staying dry while exploring the exhibits as rain falls outside. By noon, the local churches provide perfect shelter from passing showers. In the afternoon, the lake and park paths might be slippery, so wear waterproof boots and watch your step on wet leaves. Finish your rainy walk at Saint-Laurent, finding peace beneath its solid roof."
+            "en": "Start your morning inside the museum, staying dry while exploring the exhibits as rain falls outside. By noon, the local churches provide perfect shelter from passing showers. In the afternoon, the lake and park paths might be slippery, so wear waterproof boots and watch your step on wet leaves. Finish your rainy walk at Saint-Laurent, finding peace beneath its solid roof.",
+            "fr": "Commencez la matinée à l’intérieur du musée, en restant au sec tout en explorant les expositions pendant que la pluie tombe dehors. À midi, les églises locales offrent un abri parfait contre les averses passagères. L’après‑midi, les sentiers du lac et du parc peuvent être glissants, donc portez des bottes imperméables et surveillez les feuilles mouillées. Terminez votre promenade pluvieuse à Saint‑Laurent, trouvant la paix sous son toit solide."
           },
           "stops": [
             {
@@ -152,13 +164,15 @@
                 "de": "Museum La Mosaïque",
                 "hu": "La Mosaïque Múzeum",
                 "ro": "Muzeul La Mosaïque",
-                "en": "La Mosaïque Museum"
+                "en": "La Mosaïque Museum",
+                "fr": "Musée La Mosaïque"
               },
               "tip_5lang": {
                 "de": "Genießen Sie die detailreichen Mosaike in der trockenen Galerie und nutzen Sie den Schirmständer am Eingang, damit Sie die Ausstellung ohne störende Nässe besichtigen können.",
                 "hu": "Csodálja meg a részletgazdag mozaikokat a száraz galériában, és használja a bejáratnál lévő esernyőtartót, hogy kényelmesen, vizes holmik nélkül böngészhesse a tárlatot.",
                 "ro": "Admirați mozaicurile detaliate în galeria uscată și folosiți suportul de umbrele de la intrare pentru a putea vizita expoziția confortabil, fără haine ude.",
-                "en": "Enjoy the detailed mosaics in the dry gallery and use the umbrella stand at the entrance so you can browse the exhibit comfortably without carrying wet gear."
+                "en": "Enjoy the detailed mosaics in the dry gallery and use the umbrella stand at the entrance so you can browse the exhibit comfortably without carrying wet gear.",
+                "fr": "Appréciez les mosaïques détaillées dans la galerie sèche et utilisez le porte‑parapluie à l’entrée pour parcourir l’exposition confortablement sans traîner d’équipement mouillé."
               }
             },
             {
@@ -166,13 +180,15 @@
                 "de": "Kirche Saint-Jean",
                 "hu": "Saint-Jean templom",
                 "ro": "Biserica Saint-Jean",
-                "en": "Église Saint-Jean"
+                "en": "Église Saint-Jean",
+                "fr": "Église Saint-Jean"
               },
               "tip_5lang": {
                 "de": "Die Kirche bietet eine hervorragende Akustik für das prasselnde Regenwetter; achten Sie beim Eintreten auf die Steinstufen, da diese bei Nässe extrem rutschig sein können.",
                 "hu": "A templom kiváló akusztikával tompítja az eső zaját, de belépéskor vigyázzon a kőlépcsőkre, mert a vizes talpú cipő könnyen megcsúszhat a fényes felületen.",
                 "ro": "Biserica oferă o acustică excelentă ce domolește zgomotul ploii; aveți grijă la treptele de piatră la intrare, deoarece pot fi extrem de alunecoase când sunt ude.",
-                "en": "The church offers excellent acoustics that soften the sound of the rain; be careful on the stone steps when entering, as they can be very slippery when wet."
+                "en": "The church offers excellent acoustics that soften the sound of the rain; be careful on the stone steps when entering, as they can be very slippery when wet.",
+                "fr": "L’église offre d’excellentes acoustiques qui adoucissent le bruit de la pluie ; faites attention aux marches en pierre à l’entrée, elles peuvent être très glissantes quand elles sont mouillées."
               }
             },
             {
@@ -180,13 +196,15 @@
                 "de": "Saint-Jean-See",
                 "hu": "Saint-Jean tó",
                 "ro": "Lacul Saint-Jean",
-                "en": "Saint-Jean Lake"
+                "en": "Saint-Jean Lake",
+                "fr": "Lac Saint-Jean"
               },
               "tip_5lang": {
                 "de": "Der See wirkt bei Regen besonders stimmungsvoll, aber bleiben Sie auf den befestigten Wegen, um tiefen Matsch zu vermeiden und Ihre Füße trocken zu halten.",
                 "hu": "A tó esőben különösen hangulatos látványt nyújt, de maradjon a kövezett sétányon, hogy elkerülje a mély sarat és szárazon tartsa a lábait a séta során.",
                 "ro": "Lacul are un aspect deosebit pe ploaie, dar rămâneți pe aleile pavate pentru a evita noroiul adânc și pentru a vă menține picioarele uscate în timpul plimbării.",
-                "en": "The lake looks particularly atmospheric in the rain, but stick to the paved paths to avoid deep mud and keep your feet dry during your walk around the shore."
+                "en": "The lake looks particularly atmospheric in the rain, but stick to the paved paths to avoid deep mud and keep your feet dry during your walk around the shore.",
+                "fr": "Le lac est particulièrement atmosphérique sous la pluie, mais tenez‑vous aux chemins pavés pour éviter la boue profonde et garder les pieds secs lors de votre promenade autour du rivage."
               }
             },
             {
@@ -194,13 +212,15 @@
                 "de": "Estournet Park",
                 "hu": "Estournet Park",
                 "ro": "Parcul Estournet",
-                "en": "Estournet Park"
+                "en": "Estournet Park",
+                "fr": "Parc Estournet"
               },
               "tip_5lang": {
                 "de": "Suchen Sie Schutz unter den dichten Baumkronen, wenn ein starker Guss einsetzt, und tragen Sie feste Wanderschuhe für die teils rutschigen Grasflächen im Park.",
                 "hu": "Keressen menedéket a sűrű lombkoronák alatt, ha elered az intenzív zápor, és viseljen tapadós talpú cipőt a park néhol csúszóssá váló füves területein.",
                 "ro": "Căutați adăpost sub coronamentele dese dacă începe o aversă puternică și purtați încălțăminte cu talpă aderentă pentru zonele cu iarbă ce devin alunecoase.",
-                "en": "Seek shelter under the thick tree canopies if a heavy downpour starts, and wear shoes with good grip for the grassy areas of the park that become slippery."
+                "en": "Seek shelter under the thick tree canopies if a heavy downpour starts, and wear shoes with good grip for the grassy areas of the park that become slippery.",
+                "fr": "Cherchez refuge sous les épaisses frondaisons si une forte averse démarre, et portez des chaussures à bonne adhérence pour les zones herbeuses du parc qui deviennent glissantes."
               }
             },
             {
@@ -208,13 +228,15 @@
                 "de": "Kirche Saint-Laurent",
                 "hu": "Saint-Laurent templom",
                 "ro": "Biserica Saint-Laurent",
-                "en": "Église Saint-Laurent"
+                "en": "Église Saint-Laurent",
+                "fr": "Église Saint-Laurent"
               },
               "tip_5lang": {
                 "de": "Beenden Sie Ihre Tour in der trockenen Stille dieses Sakralbaus und schütteln Sie Ihren Mantel draußen gut aus, bevor Sie die historische Innenausstattung bewundern.",
                 "hu": "Zárja a túrát e szakrális épület száraz csendjében, és alaposan rázza ki a kabátját odakint, mielőtt elmerülne a történelmi belső tér megtekintésében.",
                 "ro": "Încheiați turul în liniștea uscată a acestui edificiu sacru și scuturați-vă bine haina afară înainte de a admira interiorul istoric al bisericii.",
-                "en": "End your tour in the dry silence of this sacred building and shake out your coat thoroughly outside before admiring the historical interior decorations."
+                "en": "End your tour in the dry silence of this sacred building and shake out your coat thoroughly outside before admiring the historical interior decorations.",
+                "fr": "Terminez votre visite dans le silence sec de ce bâtiment sacré et secouez bien votre manteau à l’extérieur avant d’admirer les décors historiques intérieurs."
               }
             }
           ]
@@ -224,7 +246,8 @@
             "de": "Ein frostiger Morgen beginnt im gut beheizten Museum, ideal zum Aufwärmen. Mittags laden die Kirchen zur kurzen Einkehr in windgeschützter Atmosphäre ein. Da die Sonne bereits gegen 17:00 Uhr untergeht, sollten Sie den See und den Park im hellen Nachmittagslicht besuchen. Den Abend verbringen Sie am besten in den beleuchteten Straßen, gut eingepackt in warme Schichten.",
             "hu": "A fagyos reggel a jól fűtött múzeumban indul, ami ideális a bemelegedéshez. Délben a templomok szélvédett belső terei kínálnak rövid pihenőt a hideg elől. Mivel a nap már 17:00 körül lemegy, a tavat és a parkot még a kora délutáni fényben látogassa meg. Az estét töltse a kivilágított utcákon, vastag rétegekbe és meleg sálba burkolózva.",
             "ro": "O dimineață geroasă începe în muzeul bine încălzit, ideal pentru a vă dezmorți. La prânz, bisericile oferă un scurt răgaz în interiorul ferit de vânt. Deoarece soarele apune deja în jurul orei 17:00, vizitați lacul și parcul în lumina după-amiezii. Seara este cel mai bine să o petreceți pe străzile iluminate, bine înfofoliți în haine groase.",
-            "en": "A frosty morning starts in the well-heated museum, perfect for warming up before your walk. At noon, the churches provide a wind-sheltered refuge for a quiet break. Since the sun sets around 17:00, make sure to visit the lake and park during the early afternoon light. Spend the evening enjoying the city lights, wrapped in warm layers."
+            "en": "A frosty morning starts in the well-heated museum, perfect for warming up before your walk. At noon, the churches provide a wind-sheltered refuge for a quiet break. Since the sun sets around 17:00, make sure to visit the lake and park during the early afternoon light. Spend the evening enjoying the city lights, wrapped in warm layers.",
+            "fr": "Une matinée glaciale commence dans le musée bien chauffé, parfait pour se réchauffer avant la promenade. À midi, les églises offrent un refuge abrité du vent pour une pause tranquille. Le soleil se couchant vers 17:00, assurez‑vous de visiter le lac et le parc en début d’après‑midi. Passez la soirée à profiter des lumières de la ville, emmitouflé dans des couches chaudes."
           },
           "stops": [
             {
@@ -232,13 +255,15 @@
                 "de": "Museum La Mosaïque",
                 "hu": "La Mosaïque Múzeum",
                 "ro": "Muzeul La Mosaïque",
-                "en": "La Mosaïque Museum"
+                "en": "La Mosaïque Museum",
+                "fr": "Musée La Mosaïque"
               },
               "tip_5lang": {
                 "de": "Nutzen Sie die Garderobe für Ihre dicken Wintermäntel, damit Sie die Mosaikkunst bei angenehmer Raumtemperatur und ohne schweres Gepäck genießen können.",
                 "hu": "Használja a ruhatárat a vastag télikabátokhoz, hogy a mozaikművészetet kellemes benti hőmérsékleten, nehéz ruházat nélkül tudja végigböngészni.",
                 "ro": "Folosiți garderoba pentru hainele groase de iarnă, astfel încât să puteți admira mozaicurile la o temperatură interioară plăcută, fără bagaje grele.",
-                "en": "Use the cloakroom for your heavy winter coats so you can enjoy the mosaic art at a comfortable indoor temperature without carrying heavy layers."
+                "en": "Use the cloakroom for your heavy winter coats so you can enjoy the mosaic art at a comfortable indoor temperature without carrying heavy layers.",
+                "fr": "Utilisez le vestiaire pour vos lourds manteaux d’hiver afin de pouvoir apprécier les mosaïques à une température intérieure confortable sans porter de couches encombrantes."
               }
             },
             {
@@ -246,13 +271,15 @@
                 "de": "Kirche Saint-Jean",
                 "hu": "Saint-Jean templom",
                 "ro": "Biserica Saint-Jean",
-                "en": "Église Saint-Jean"
+                "en": "Église Saint-Jean",
+                "fr": "Église Saint-Jean"
               },
               "tip_5lang": {
                 "de": "Die massiven Mauern halten den eisigen Wind fern; bewundern Sie die Architektur, während Sie sich für den nächsten Fußweg durch die Kälte regenerieren.",
                 "hu": "A vaskos falak hatékonyan távol tartják a jeges szelet; csodálja meg az építészetet, miközben kicsit regenerálódik a következő hideg szakasz előtt.",
                 "ro": "Zidurile masive țin la distanță vântul înghețat; admirați arhitectura în timp ce vă recuperați puțin înainte de următoarea etapă prin frigul de afară.",
-                "en": "The thick walls keep the icy wind at bay; admire the architecture while you recharge a bit before the next walking segment through the cold air."
+                "en": "The thick walls keep the icy wind at bay; admire the architecture while you recharge a bit before the next walking segment through the cold air.",
+                "fr": "Les murs épais repoussent le vent glacial ; admirez l’architecture tout en reprenant des forces avant le prochain tronçon à l’air froid."
               }
             },
             {
@@ -260,13 +287,15 @@
                 "de": "Saint-Jean-See",
                 "hu": "Saint-Jean tó",
                 "ro": "Lacul Saint-Jean",
-                "en": "Saint-Jean Lake"
+                "en": "Saint-Jean Lake",
+                "fr": "Lac Saint-Jean"
               },
               "tip_5lang": {
                 "de": "Genießen Sie den Blick auf das klare, kalte Wasser, aber halten Sie Ihre Hände in den Taschen, da die Brise am Seeufer die gefühlte Temperatur deutlich senkt.",
                 "hu": "Élvezze a kilátást a tiszta, hideg vízre, de tartsa a kezeit a zsebében, mivel a tóparti szellő jelentősen csökkenti a hőérzetet ilyenkor.",
                 "ro": "Bucurați-vă de vederea apei clare și reci, dar țineți mâinile în buzunare, deoarece briza de pe malul lacului scade semnificativ temperatura resimțită.",
-                "en": "Enjoy the view of the clear, cold water, but keep your hands in your pockets as the lakeside breeze significantly lowers the perceived temperature."
+                "en": "Enjoy the view of the clear, cold water, but keep your hands in your pockets as the lakeside breeze significantly lowers the perceived temperature.",
+                "fr": "Profitez de la vue sur l’eau claire et froide, mais gardez les mains dans les poches car la brise du lac abaisse nettement la température ressentie."
               }
             },
             {
@@ -274,13 +303,15 @@
                 "de": "Estournet Park",
                 "hu": "Estournet Park",
                 "ro": "Parcul Estournet",
-                "en": "Estournet Park"
+                "en": "Estournet Park",
+                "fr": "Parc Estournet"
               },
               "tip_5lang": {
                 "de": "Besuchen Sie den Park vor 16:30 Uhr, um das letzte Tageslicht zu nutzen, und achten Sie auf gefrorene Stellen auf den Wegen, die tückisch glatt sein können.",
                 "hu": "Látogassa meg a parkot 16:30 előtt, hogy kihasználja az utolsó fényeket, és figyeljen az ösvények fagyott szakaszaira, amelyek váratlanul csúszósak lehetnek.",
                 "ro": "Vizitați parcul înainte de ora 16:30 pentru a profita de ultima lumină și fiți atenți la porțiunile înghețate de pe poteci, care pot fi înșelătoare.",
-                "en": "Visit the park before 16:30 to make the most of the remaining daylight, and watch out for frozen patches on the paths that can be deceptively slippery."
+                "en": "Visit the park before 16:30 to make the most of the remaining daylight, and watch out for frozen patches on the paths that can be deceptively slippery.",
+                "fr": "Visitez le parc avant 16:30 pour profiter au maximum de la lumière du jour restante, et faites attention aux plaques de gel sur les sentiers qui peuvent être dangereusement glissantes."
               }
             },
             {
@@ -288,13 +319,15 @@
                 "de": "Kirche Saint-Laurent",
                 "hu": "Saint-Laurent templom",
                 "ro": "Biserica Saint-Laurent",
-                "en": "Église Saint-Laurent"
+                "en": "Église Saint-Laurent",
+                "fr": "Église Saint-Laurent"
               },
               "tip_5lang": {
                 "de": "Die abendliche Beleuchtung verleiht der Kirche im Winter einen besonderen Glanz; treten Sie ein, um der Dunkelheit und dem Frost für einen Moment zu entfliehen.",
                 "hu": "Az esti díszkivilágítás télen különleges fényt ad a templomnak; lépjen be, hogy egy pillanatra elmeneküljön a korai sötétség és a fagy elől.",
                 "ro": "Iluminatul de seară oferă bisericii o strălucire deosebită iarna; intrați pentru a scăpa pentru un moment de întunericul timpuriu și de gerul de afară.",
-                "en": "The evening lighting gives the church a special glow in winter; step inside to escape the early darkness and the frost for a quiet moment."
+                "en": "The evening lighting gives the church a special glow in winter; step inside to escape the early darkness and the frost for a quiet moment.",
+                "fr": "L’éclairage du soir donne à l’église une lueur particulière en hiver ; entrez pour échapper à l’obscurité précoce et au gel pour un moment de tranquillité."
               }
             }
           ]
@@ -314,7 +347,8 @@
             "de": "Saint-Jean-See",
             "hu": "Saint-Jean tó",
             "ro": "Lacul Saint-Jean",
-            "en": "Saint-Jean Lake"
+            "en": "Saint-Jean Lake",
+            "fr": "Lac Saint-Jean"
           },
           "coords": [
             1.497199,
@@ -329,7 +363,8 @@
             "de": "Spazieren Sie an den ruhigen Gewässern des Saint-Jean-Sees entlang, um lokale Wasservögel zu beobachten, und tragen Sie bequeme Schuhe für die Naturpfade.",
             "hu": "Sétáljon a Saint-Jean tó nyugodt vize körül a helyi vízimadarak megfigyeléséhez, és hozzon kényelmes cipőt a burkolatlan tanösvények felfedezéséhez.",
             "ro": "Plimbați-vă pe lângă apele liniștite ale lacului Saint-Jean pentru a observa păsările de apă, purtând încălțăminte confortabilă pentru traseele naturale.",
-            "en": "Stroll around the tranquil waters of Saint-Jean Lake to spot local waterbirds, bringing some comfortable walking shoes to enjoy the unpaved nature trails."
+            "en": "Stroll around the tranquil waters of Saint-Jean Lake to spot local waterbirds, bringing some comfortable walking shoes to enjoy the unpaved nature trails.",
+            "fr": "Se promener autour des eaux tranquilles du lac Saint-Jean pour observer les oiseaux aquatiques locaux ; pensez à des chaussures de marche confortables pour profiter des sentiers naturels non revêtus."
           }
         },
         {
@@ -337,7 +372,8 @@
             "de": "Museum La Mosaïque",
             "hu": "La Mosaïque Múzeum",
             "ro": "Muzeul La Mosaïque",
-            "en": "La Mosaïque Museum"
+            "en": "La Mosaïque Museum",
+            "fr": "Musée La Mosaïque"
           },
           "coords": [
             1.505309,
@@ -352,7 +388,8 @@
             "de": "Entdecken Sie die faszinierende lokale Geschichte in La Mosaïque und vergessen Sie nicht, das Personal nach den temporären Kunstsammlungen zu fragen.",
             "hu": "Fedezze fel a lenyűgöző helyi történelmet a La Mosaïque múzeumban, és mindenképpen kérdezzen rá a felső szinten lévő időszaki kiállításokra.",
             "ro": "Explorați istoria locală fascinantă la La Mosaïque, asigurându-vă că întrebați personalul despre colecțiile de artă temporare de la etajul superior.",
-            "en": "Explore fascinating local history and cultural exhibits at La Mosaïque, making sure to ask the staff about temporary art collections on the upper floor."
+            "en": "Explore fascinating local history and cultural exhibits at La Mosaïque, making sure to ask the staff about temporary art collections on the upper floor.",
+            "fr": "Explorez l’histoire locale fascinante et les expositions culturelles au musée La Mosaïque, en n’oubliant pas de demander au personnel les collections d’art temporaires à l’étage."
           }
         },
         {
@@ -360,7 +397,8 @@
             "de": "Estournet Park",
             "hu": "Estournet Park",
             "ro": "Parcul Estournet",
-            "en": "Estournet Park"
+            "en": "Estournet Park",
+            "fr": "Parc Estournet"
           },
           "coords": [
             1.513629,
@@ -375,7 +413,8 @@
             "de": "Entspannen Sie sich unter den alten Bäumen im Estournet Park, dem idealen Ort für ein leichtes Picknick am Nachmittag im wunderschön gepflegten Grün.",
             "hu": "Pihenjen az Estournet Park hatalmas árnyékot adó fái alatt, amely ideális hely egy könnyű délutáni piknikhez a gyönyörűen karbantartott zöldövezetben.",
             "ro": "Relaxați-vă sub arborii seculari din Parcul Estournet, locul ideal pentru un picnic ușor de după-amiază, bucurându-vă de verdeața frumos întreținută.",
-            "en": "Relax under the mature shade trees of Estournet Park, the ideal spot to unpack a light afternoon picnic while enjoying the beautifully maintained greenery."
+            "en": "Relax under the mature shade trees of Estournet Park, the ideal spot to unpack a light afternoon picnic while enjoying the beautifully maintained greenery.",
+            "fr": "Détendez‑vous à l’ombre des arbres mûrs du parc Estournet, l’endroit idéal pour déplier un petit pique‑nique d’après‑midi tout en profitant de la pelouse magnifiquement entretenue."
           }
         },
         {
@@ -383,7 +422,8 @@
             "de": "Biodiversitätszentrum",
             "hu": "Biodiverzitási sziget",
             "ro": "Insulă de biodiversitate",
-            "en": "Biodiversity Hub"
+            "en": "Biodiversity Hub",
+            "fr": "Pôle de biodiversité"
           },
           "coords": [
             1.530543,
@@ -398,7 +438,8 @@
             "de": "Beobachten Sie das lokale Ökosystem an diesem Biodiversitätszentrum mit Nistkästen und treten Sie leise auf, um die heimische Flora und Fauna nicht zu stören.",
             "hu": "Figyelje meg az érzékeny helyi ökoszisztémát ezen a madárodúkkal teli biodiverzitási szigeten, csendben lépkedve, hogy ne zavarja az őshonos élővilágot.",
             "ro": "Observați ecosistemul local delicat la acest centru de biodiversitate plin de cuiburi, pășind încet pentru a nu deranja flora și fauna nativă.",
-            "en": "Observe the delicate local ecosystem at this biodiversity hub filled with nesting boxes, treading quietly so you don't disturb the native flora and fauna."
+            "en": "Observe the delicate local ecosystem at this biodiversity hub filled with nesting boxes, treading quietly so you don't disturb the native flora and fauna.",
+            "fr": "Observez le fragile écosystème local dans ce centre de biodiversité équipé de nichoirs, en marchant doucement pour ne pas déranger la flore et la faune indigènes."
           }
         },
         {
@@ -406,7 +447,8 @@
             "de": "Kirche Saint-Laurent",
             "hu": "Saint-Laurent templom",
             "ro": "Biserica Saint-Laurent",
-            "en": "Église Saint-Laurent"
+            "en": "Église Saint-Laurent",
+            "fr": "Église Saint-Laurent"
           },
           "coords": [
             1.524188,
@@ -421,7 +463,8 @@
             "de": "Entdecken Sie den zeitlosen Charme der Église Saint-Laurent und achten Sie besonders auf die kunstvollen Holzschnitzereien in der Nähe des Hauptaltars.",
             "hu": "Fedezze fel az Église Saint-Laurent időtlen báját és masszív kőfalazatát, különös figyelmet fordítva a főoltár melletti bonyolult fafaragásokra.",
             "ro": "Descoperiți farmecul atemporal și zidăria masivă a Église Saint-Laurent, acordând atenție deosebită sculpturilor complicate din lemn de lângă altar.",
-            "en": "Discover the timeless charm and sturdy stone masonry of Église Saint-Laurent, paying close attention to the intricate wooden carvings near the main altar."
+            "en": "Discover the timeless charm and sturdy stone masonry of Église Saint-Laurent, paying close attention to the intricate wooden carvings near the main altar.",
+            "fr": "Découvrez le charme intemporel et la solide maçonnerie de pierre de l'Église Saint-Laurent, en prêtant une attention particulière aux délicées sculptures sur bois près du maître-autel."
           }
         },
         {
@@ -429,7 +472,8 @@
             "de": "Schloss Fossat",
             "hu": "Fossat kastély",
             "ro": "Castelul Fossat",
-            "en": "Château du Fossat"
+            "en": "Château du Fossat",
+            "fr": "Château du Fossat"
           },
           "coords": [
             1.50684,
@@ -444,7 +488,8 @@
             "de": "Machen Sie eine Zeitreise, während Sie die Gärten des Château du Fossat erkunden, und bringen Sie eine Kamera für die herrlichen Panoramablicke mit.",
             "hu": "Lépjen vissza az időben a Château du Fossat fenséges birtokának felfedezésekor, és mindenképpen hozzon fényképezőgépet a lenyűgöző panorámák miatt.",
             "ro": "Întoarceți-vă în timp explorând domeniul impresionant al Château du Fossat, asigurându-vă că aveți o cameră pentru vederile panoramice uluitoare.",
-            "en": "Step back in time as you explore the commanding grounds of Château du Fossat, making sure to bring a camera for the stunning panoramic views from the estate."
+            "en": "Step back in time as you explore the commanding grounds of Château du Fossat, making sure to bring a camera for the stunning panoramic views from the estate.",
+            "fr": "Remontez le temps en explorant l'imposant domaine du Château du Fossat ; pensez à emporter un appareil photo pour les panoramas remarquables depuis la propriété."
           }
         }
       ],
@@ -452,7 +497,8 @@
         "de": "Starten Sie sportlich mit einer Radtour um den Saint-Jean-See, gefolgt von Kultur im La Mosaïque. Zur Mittagszeit radeln Sie zum Estournet Park für eine erholsame Pause im Grünen. Der Nachmittag bringt Sie zum Biodiversitätszentrum und zur Église Saint-Laurent. Der Tag gipfelt in einer herrlichen abendlichen Fahrt zum historischen Château du Fossat mit seinem beeindruckenden Anwesen.",
         "hu": "Kezdje a napot egy sportos tekeréssel a Saint-Jean tó körül, majd élvezze a kultúrát a La Mosaïque-ban. Délben kerekezzen az Estournet Parkba egy pihentető szünetre a zöldben. A délután elviszi a biodiverzitási központhoz és a Saint-Laurent templomhoz. A nap egy csodálatos esti utazással csúcsosodik ki a történelmi Château du Fossat kastélyhoz, amelynek lenyűgöző birtoka van.",
         "ro": "Începeți sportiv cu o plimbare cu bicicleta în jurul lacului Saint-Jean, urmată de cultură la La Mosaïque. La prânz, pedalați către Parcul Estournet pentru o pauză relaxantă în natură. După-amiaza vă duce la centrul de biodiversitate și la Église Saint-Laurent. Ziua culminează cu o cursă minunată de seară spre istoricul Château du Fossat, bucurându-vă de priveliștile domeniului.",
-        "en": "Start actively with a bike ride around Saint-Jean Lake, followed by culture at La Mosaïque. At midday, cycle to Estournet Park for a relaxing break surrounded by nature. The afternoon takes you to the biodiversity hub and the historic Église Saint-Laurent. The day culminates with a wonderful evening ride up to the historic Château du Fossat, enjoying the grandeur of its beautiful estate."
+        "en": "Start actively with a bike ride around Saint-Jean Lake, followed by culture at La Mosaïque. At midday, cycle to Estournet Park for a relaxing break surrounded by nature. The afternoon takes you to the biodiversity hub and the historic Église Saint-Laurent. The day culminates with a wonderful evening ride up to the historic Château du Fossat, enjoying the grandeur of its beautiful estate.",
+        "fr": "Commencez activement par une balade à vélo autour du lac Saint-Jean, suivie d'une visite culturelle à La Mosaïque. À midi, pédalez jusqu'au parc d'Estournet pour une pause relaxante en pleine nature. L'après-midi vous mène au centre de biodiversité et à l'historique Église Saint-Laurent. La journée se termine par une superbe balade à vélo jusqu'au Château du Fossat, en profitant de la grandeur de son magnifique domaine."
       },
       "variants": {
         "rainy": {
@@ -460,7 +506,8 @@
             "de": "Eine Radtour im Regen erfordert Vorsicht auf den teils rutschigen Wegen am See. Vormittags bietet das Museum eine trockene Pause zur Erholung. Achten Sie nachmittags im Park und am Biodiversitätszentrum auf Pfützen und spritzendes Wasser. Die Fahrt zum Schloss Fossat am späten Nachmittag sollte bei Tageslicht und mit guter Beleuchtung erfolgen, da die Sichtverhältnisse durch den Regen getrübt sind.",
             "hu": "Az esős kerékpározás óvatosságot igényel a tóparti csúszós ösvényeken. Délelőtt a múzeum kínál száraz pihenőt a regenerálódáshoz. Délután a parkban és a biodiverzitási központnál figyeljen a tócsákra és a felverődő vízre. A Fossat kastélyhoz vezető utat még világosban tegye meg, mert az eső és a szürkület jelentősen rontja a látási viszonyokat.",
             "ro": "O plimbare cu bicicleta pe ploaie necesită prudență pe potecile alunecoase de lângă lac. Dimineața, muzeul oferă o pauză uscată pentru recuperare. După-amiaza, în parc și la centrul de biodiversitate, atenție la bălți și la apa împroșcată. Drumul spre Castelul Fossat trebuie parcurs cât încă e lumină, deoarece ploaia și amurgul reduc vizibilitatea.",
-            "en": "Cycling in the rain requires extra caution on the potentially slippery lakeside paths. In the morning, the museum offers a dry break to dry off. During the afternoon, watch out for puddles and spray around the park and Biodiversity Hub. The ride to Château du Fossat should be done while there is still daylight, as rain can significantly reduce visibility on the roads."
+            "en": "Cycling in the rain requires extra caution on the potentially slippery lakeside paths. In the morning, the museum offers a dry break to dry off. During the afternoon, watch out for puddles and spray around the park and Biodiversity Hub. The ride to Château du Fossat should be done while there is still daylight, as rain can significantly reduce visibility on the roads.",
+            "fr": "Le cyclisme sous la pluie nécessite une prudence supplémentaire sur les chemins au bord du lac qui peuvent être glissants. Le matin, le musée offre une pause au sec pour se sécher. L'après-midi, méfiez-vous des flaques et des projections autour du parc et du centre de biodiversité. La route vers le Château du Fossat doit se faire en plein jour, car la pluie peut réduire fortement la visibilité sur les routes."
           },
           "stops": [
             {
@@ -468,13 +515,15 @@
                 "de": "Saint-Jean-See",
                 "hu": "Saint-Jean tó",
                 "ro": "Lacul Saint-Jean",
-                "en": "Saint-Jean Lake"
+                "en": "Saint-Jean Lake",
+                "fr": "Lac Saint-Jean"
               },
               "tip_5lang": {
                 "de": "Fahren Sie langsam auf dem Uferweg, da Schlamm und nasses Laub den Bremsweg Ihres Rades erheblich verlängern können; tragen Sie eine wasserfeste Regenhose.",
                 "hu": "Haladjon lassan a tóparti úton, mivel a sár és a vizes levelek jelentősen meghosszabbíthatják a féktávot; viseljen vízálló esőnadrágot a tekeréshez.",
                 "ro": "Circulați cu viteză redusă pe malul lacului, deoarece noroiul și frunzele ude pot mări distanța de frânare; purtați pantaloni impermeabili pentru ciclism.",
-                "en": "Ride slowly on the lakeside path as mud and wet leaves can significantly increase your braking distance; wear waterproof rain trousers for the journey."
+                "en": "Ride slowly on the lakeside path as mud and wet leaves can significantly increase your braking distance; wear waterproof rain trousers for the journey.",
+                "fr": "Roulez lentement sur la piste du bord du lac car la boue et les feuilles mouillées peuvent augmenter considérablement votre distance de freinage ; portez un pantalon de pluie imperméable pour le trajet."
               }
             },
             {
@@ -482,13 +531,15 @@
                 "de": "Museum La Mosaïque",
                 "hu": "La Mosaïque Múzeum",
                 "ro": "Muzeul La Mosaïque",
-                "en": "La Mosaïque Museum"
+                "en": "La Mosaïque Museum",
+                "fr": "Musée La Mosaïque"
               },
               "tip_5lang": {
                 "de": "Parken Sie Ihr Rad unter einem Vordach, falls verfügbar, und nutzen Sie den Museumsbesuch, um Ihre Kleidung zu lüften und sich vor der Weiterfahrt aufzuwärmen.",
                 "hu": "Parkolja a kerékpárt egy előtető alá, ha lehetséges, és használja ki a múzeumi látogatást a ruházat szellőztetésére és a bemelegedésre a folytatás előtt.",
                 "ro": "Parcați bicicleta sub un baldachin dacă este posibil și profitați de vizita la muzeu pentru a vă usca hainele și a vă încălzi înainte de a pleca mai departe.",
-                "en": "Park your bike under a canopy if available and use the museum visit to air out your clothes and warm up before continuing your wet ride."
+                "en": "Park your bike under a canopy if available and use the museum visit to air out your clothes and warm up before continuing your wet ride.",
+                "fr": "Garez votre vélo sous un abri si disponible et profitez de la visite du musée pour aérer vos vêtements et vous réchauffer avant de reprendre votre trajet humide."
               }
             },
             {
@@ -496,13 +547,15 @@
                 "de": "Estournet Park",
                 "hu": "Estournet Park",
                 "ro": "Parcul Estournet",
-                "en": "Estournet Park"
+                "en": "Estournet Park",
+                "fr": "Parc d'Estournet"
               },
               "tip_5lang": {
                 "de": "Vermeiden Sie scharfe Kurven auf nassen Wegen und nutzen Sie die asphaltierten Abschnitte, um sicher durch den Park zum nächsten Ziel zu gelangen.",
                 "hu": "Kerülje az éles kanyarokat a vizes utakon, és használja az aszfaltozott szakaszokat, hogy biztonságosan átvágjon a parkon a következő úticél felé.",
                 "ro": "Evitați virajele strânse pe drumurile ude și folosiți secțiunile asfaltate pentru a traversa parcul în siguranță spre următoarea destinație.",
-                "en": "Avoid sharp turns on wet paths and use the paved sections to safely cross the park towards your next destination while staying visible."
+                "en": "Avoid sharp turns on wet paths and use the paved sections to safely cross the park towards your next destination while staying visible.",
+                "fr": "Évitez les virages serrés sur les chemins mouillés et utilisez les sections pavées pour traverser le parc en toute sécurité vers votre prochaine destination tout en restant visible."
               }
             },
             {
@@ -510,13 +563,15 @@
                 "de": "Biodiversitätszentrum",
                 "hu": "Biodiverzitási sziget",
                 "ro": "Insulă de biodiversitate",
-                "en": "Biodiversity Hub"
+                "en": "Biodiversity Hub",
+                "fr": "Centre de biodiversité"
               },
               "tip_5lang": {
                 "de": "Die Naturstation bietet bei Regen interessante Einblicke; prüfen Sie Ihre Bremsen auf Funktionsfähigkeit, bevor Sie die Tour in Richtung Kirche fortsetzen.",
                 "hu": "A természetvédelmi állomás esőben is érdekes látnivalókat kínál; ellenőrizze a fékek hatékonyságát, mielőtt folytatná a túrát a templom irányába.",
                 "ro": "Stația de biodiversitate oferă perspective interesante chiar și pe ploaie; verificați funcționarea frânelor înainte de a continua spre biserică.",
-                "en": "The nature station offers interesting insights even in the rain; check your brakes for proper function before continuing your tour towards the church."
+                "en": "The nature station offers interesting insights even in the rain; check your brakes for proper function before continuing your tour towards the church.",
+                "fr": "La station nature offre des informations intéressantes même sous la pluie ; vérifiez le bon fonctionnement de vos freins avant de poursuivre votre circuit vers l'église."
               }
             },
             {
@@ -524,13 +579,15 @@
                 "de": "Kirche Saint-Laurent",
                 "hu": "Saint-Laurent templom",
                 "ro": "Biserica Saint-Laurent",
-                "en": "Église Saint-Laurent"
+                "en": "Église Saint-Laurent",
+                "fr": "Église Saint-Laurent"
               },
               "tip_5lang": {
                 "de": "Nutzen Sie die Kirchenmauern als Windschutz beim Sichern Ihres Rades und treten Sie kurz ein, um Ihre Hände vor der letzten Etappe zum Schloss zu trocknen.",
                 "hu": "Használja a templomfalakat szélvédelemnek a bicikli lezárásakor, és térjen be kicsit, hogy megszárítsa a kezeit a kastélyig tartó utolsó szakasz előtt.",
                 "ro": "Folosiți zidurile bisericii ca paravan împotriva vântului când asigurați bicicleta și intrați puțin pentru a vă usca mâinile înainte de etapa finală.",
-                "en": "Use the church walls as a windbreak while securing your bike and step inside briefly to dry your hands before the final leg to the castle."
+                "en": "Use the church walls as a windbreak while securing your bike and step inside briefly to dry your hands before the final leg to the castle.",
+                "fr": "Utilisez les murs de l'église comme coupe-vent en sécurisant votre vélo et entrez brièvement pour vous sécher les mains avant la dernière étape vers le château."
               }
             },
             {
@@ -538,13 +595,15 @@
                 "de": "Schloss Fossat",
                 "hu": "Fossat kastély",
                 "ro": "Castelul Fossat",
-                "en": "Château du Fossat"
+                "en": "Château du Fossat",
+                "fr": "Château du Fossat"
               },
               "tip_5lang": {
                 "de": "Bei Regen wirkt das Schloss mystisch, aber achten Sie auf eine gute Beleuchtung Ihres Rades für den Rückweg, da die Dämmerung nun rasch einsetzt.",
                 "hu": "Esőben a kastély titokzatos arcát mutatja, de figyeljen a kerékpár megfelelő világítására a visszaúton, mivel a szürkület ilyenkor gyorsan leszáll.",
                 "ro": "Pe ploaie, castelul pare misterios, dar asigurați-vă că aveți lumini bune la bicicletă pentru drumul de întoarcere, deoarece amurgul se instalează rapid.",
-                "en": "The castle looks mysterious in the rain, but ensure your bike lights are bright for the return trip as twilight sets in very quickly now."
+                "en": "The castle looks mysterious in the rain, but ensure your bike lights are bright for the return trip as twilight sets in very quickly now.",
+                "fr": "Le château a un air mystérieux sous la pluie, mais assurez-vous que vos lumières de vélo soient puissantes pour le retour car le crépuscule arrive très rapidement."
               }
             }
           ]
@@ -554,7 +613,8 @@
             "de": "Winterliches Radfahren erfordert warme Handschuhe gegen den Fahrtwind. Morgens bietet der See eine klare, frostige Kulisse, gefolgt von einem wärmenden Museumsbesuch. Nachmittags führen die Wege durch den Park und das Biodiversitätszentrum, wo die Sonne früh lange Schatten wirft. Planen Sie das Schloss Fossat vor dem Sonnenuntergang um 17:00 Uhr ein, um die Architektur im letzten Tageslicht zu bewundern.",
             "hu": "A téli kerékpározáshoz elengedhetetlen a meleg kesztyű a menetszél ellen. Reggel a tó tiszta, fagyos látványt nyújt, amit egy melengető múzeumlátogatás követ. Délután a park és a biodiverzitási központ útjain tekerhet, ahol a nap már korán hosszú árnyékokat vet. A Fossat kastélyt még a 17:00 órai naplemente előtt ejtse útba a legjobb látványért.",
             "ro": "Ciclismul de iarnă necesită mănuși groase împotriva curentului de aer. Dimineața, lacul oferă un peisaj înghețat superb, urmat de o vizită caldă la muzeu. După-amiaza, drumurile prin parc și centrul de biodiversitate sunt marcate de umbre lungi. Vizitați Castelul Fossat înainte de apusul de la ora 17:00 pentru a vedea arhitectura în lumina zilei.",
-            "en": "Winter cycling requires warm gloves to fight the biting wind while riding. The morning starts with clear, frosty views at the lake, followed by a warm break in the museum. Afternoon routes take you through the park and Biodiversity Hub where shadows lengthen early. Plan to reach Château du Fossat before the 17:00 sunset to see the building in daylight."
+            "en": "Winter cycling requires warm gloves to fight the biting wind while riding. The morning starts with clear, frosty views at the lake, followed by a warm break in the museum. Afternoon routes take you through the park and Biodiversity Hub where shadows lengthen early. Plan to reach Château du Fossat before the 17:00 sunset to see the building in daylight.",
+            "fr": "Le cyclisme hivernal nécessite des gants chauds pour combattre le vent glacial pendant la route. La matinée débute par des vues claires et givrées au lac, suivie d'une pause chaude au musée. Les itinéraires de l'après-midi traversent le parc et le centre de biodiversité où les ombres s'allongent tôt. Prévoyez d'atteindre le Château du Fossat avant le coucher du soleil à 17:00 pour voir le bâtiment en plein jour."
           },
           "stops": [
             {
@@ -562,13 +622,15 @@
                 "de": "Saint-Jean-See",
                 "hu": "Saint-Jean tó",
                 "ro": "Lacul Saint-Jean",
-                "en": "Saint-Jean Lake"
+                "en": "Saint-Jean Lake",
+                "fr": "Lac Saint-Jean"
               },
               "tip_5lang": {
                 "de": "Tragen Sie eine winddichte Jacke, da der Fahrtwind am offenen Seeufer bei winterlichen Temperaturen besonders schneidend wirken kann.",
                 "hu": "Viseljen szélálló kabátot, mivel a tóparti nyílt szakaszon a menetszél téli hőmérséklet mellett különösen metszőnek érződhet.",
                 "ro": "Purtați o jachetă rezistentă la vânt, deoarece curentul de aer pe malul deschis al lacului poate fi foarte tăios la temperaturi de iarnă.",
-                "en": "Wear a windproof jacket as the breeze on the open lakeside can feel particularly piercing at winter temperatures while cycling."
+                "en": "Wear a windproof jacket as the breeze on the open lakeside can feel particularly piercing at winter temperatures while cycling.",
+                "fr": "Portez une veste coupe-vent car la brise au bord du lac peut sembler particulièrement pénétrante aux températures hivernales en roulant."
               }
             },
             {
@@ -576,13 +638,15 @@
                 "de": "Museum La Mosaïque",
                 "hu": "La Mosaïque Múzeum",
                 "ro": "Muzeul La Mosaïque",
-                "en": "La Mosaïque Museum"
+                "en": "La Mosaïque Museum",
+                "fr": "Musée La Mosaïque"
               },
               "tip_5lang": {
                 "de": "Nutzen Sie die Pause im Museum, um Ihre eingefrorenen Finger an einem warmen Ort wieder beweglich zu machen, bevor Sie die Fahrt fortsetzen.",
                 "hu": "Használja ki a múzeumi szünetet, hogy egy meleg helyen újra átmozgassa átfagyott ujjait, mielőtt folytatná a tekerést a következő megállóig.",
                 "ro": "Profitați de pauza de la muzeu pentru a vă încălzi degetele amorțite într-un loc călduros înainte de a porni din nou la drum.",
-                "en": "Take advantage of the museum break to warm up your frozen fingers in a heated environment before continuing your ride to the next stop."
+                "en": "Take advantage of the museum break to warm up your frozen fingers in a heated environment before continuing your ride to the next stop.",
+                "fr": "Profitez de la pause au musée pour réchauffer vos doigts engourdis dans un endroit chauffé avant de reprendre votre trajet vers l'étape suivante."
               }
             },
             {
@@ -590,13 +654,15 @@
                 "de": "Estournet Park",
                 "hu": "Estournet Park",
                 "ro": "Parcul Estournet",
-                "en": "Estournet Park"
+                "en": "Estournet Park",
+                "fr": "Parc d'Estournet"
               },
               "tip_5lang": {
                 "de": "Achten Sie auf Reifglätte auf den Parkwegen; bremsen Sie vorsichtig und vorausschauend, besonders in schattigen Bereichen, wo das Eis länger hält.",
                 "hu": "Ügyeljen a zúzmarás, csúszós szakaszokra a park ösvényein; fékezzen óvatosan és időben, különösen az árnyékos részeken, ahol megmarad a jég.",
                 "ro": "Atenție la porțiunile cu chiciură de pe aleile parcului; frânați cu precauție, mai ales în zonele umbrite unde gheața persistă mai mult timp.",
-                "en": "Watch out for frosty patches on the park paths; brake gently and early, especially in shaded areas where ice tends to linger throughout the day."
+                "en": "Watch out for frosty patches on the park paths; brake gently and early, especially in shaded areas where ice tends to linger throughout the day.",
+                "fr": "Méfiez-vous des plaques de givre sur les chemins du parc ; freinez doucement et tôt, surtout dans les zones ombragées où la glace persiste toute la journée."
               }
             },
             {
@@ -604,13 +670,15 @@
                 "de": "Biodiversitätszentrum",
                 "hu": "Biodiverzitási sziget",
                 "ro": "Insulă de biodiversitate",
-                "en": "Biodiversity Hub"
+                "en": "Biodiversity Hub",
+                "fr": "Centre de biodiversité"
               },
               "tip_5lang": {
                 "de": "Das Zentrum bietet auch im Winter spannende Naturbeobachtungen; prüfen Sie den Reifendruck, da dieser bei Kälte oft leicht abfällt.",
                 "hu": "A központ télen is izgalmas természetmegfigyelési pont; ellenőrizze a guminyomást, mivel a hidegben az gyakran kissé lecsökkenhet.",
                 "ro": "Centrul oferă observații naturale interesante și iarna; verificați presiunea în pneuri, deoarece aceasta scade adesea la temperaturi scăzute.",
-                "en": "The hub offers exciting nature observations even in winter; check your tyre pressure as it often drops slightly in cold weather conditions."
+                "en": "The hub offers exciting nature observations even in winter; check your tyre pressure as it often drops slightly in cold weather conditions.",
+                "fr": "Le centre offre des observations naturalistes intéressantes même en hiver ; vérifiez la pression des pneus car elle diminue souvent légèrement par temps froid."
               }
             },
             {
@@ -618,13 +686,15 @@
                 "de": "Kirche Saint-Laurent",
                 "hu": "Saint-Laurent templom",
                 "ro": "Biserica Saint-Laurent",
-                "en": "Église Saint-Laurent"
+                "en": "Église Saint-Laurent",
+                "fr": "Église Saint-Laurent"
               },
               "tip_5lang": {
                 "de": "Die Kirche bietet eine gute Gelegenheit, den Körper kurz aufzuwärmen, während draußen das Licht langsam schwindet und die Temperatur sinkt.",
                 "hu": "A templom remek alkalom a test rövid felmelegítésére, miközben odakint a fény lassan fogyni kezd, és a hőmérséklet tovább süllyed.",
                 "ro": "Biserica oferă o ocazie bună pentru a vă încălzi corpul, în timp ce afară lumina începe să scadă și temperatura coboară.",
-                "en": "The church provides a great opportunity to warm up your body briefly while the light outside begins to fade and the temperature drops further."
+                "en": "The church provides a great opportunity to warm up your body briefly while the light outside begins to fade and the temperature drops further.",
+                "fr": "L'église offre une excellente occasion de se réchauffer brièvement alors que la lumière extérieure commence à décliner et que la température chute davantage."
               }
             },
             {
@@ -632,13 +702,15 @@
                 "de": "Schloss Fossat",
                 "hu": "Fossat kastély",
                 "ro": "Castelul Fossat",
-                "en": "Château du Fossat"
+                "en": "Château du Fossat",
+                "fr": "Château du Fossat"
               },
               "tip_5lang": {
                 "de": "Das Schloss wirkt im Winterlicht majestätisch; stellen Sie sicher, dass Ihre Fahrradlampen für die Rückfahrt in der Dunkelheit voll funktionsfähig sind.",
                 "hu": "A kastély fenséges látvány a téli fényben; győződjön meg róla, hogy a kerékpár lámpái tökéletesen működnek a sötétben történő visszaúthoz.",
                 "ro": "Castelul arată maiestuos în lumina iernii; asigurați-vă că luminile bicicletei funcționează perfect pentru drumul de întoarcere pe întuneric.",
-                "en": "The castle looks majestic in the winter light; ensure your bike lights are fully functional for the return journey in the early evening darkness."
+                "en": "The castle looks majestic in the winter light; ensure your bike lights are fully functional for the return journey in the early evening darkness.",
+                "fr": "Le château est majestueux à la lumière d'hiver ; assurez-vous que les éclairages de votre vélo sont pleinement fonctionnels pour le retour en début de soirée."
               }
             }
           ]
@@ -658,7 +730,8 @@
             "de": "Museum La Mosaïque",
             "hu": "La Mosaïque Múzeum",
             "ro": "Muzeul La Mosaïque",
-            "en": "La Mosaïque Museum"
+            "en": "La Mosaïque Museum",
+            "fr": "Musée La Mosaïque"
           },
           "coords": [
             1.505309,
@@ -673,7 +746,8 @@
             "de": "Entdecken Sie die faszinierende lokale Geschichte in La Mosaïque und vergessen Sie nicht, das Personal nach den temporären Kunstsammlungen zu fragen.",
             "hu": "Fedezze fel a lenyűgöző helyi történelmet a La Mosaïque múzeumban, és mindenképpen kérdezzen rá a felső szinten lévő időszaki kiállításokra.",
             "ro": "Explorați istoria locală fascinantă la La Mosaïque, asigurându-vă că întrebați personalul despre colecțiile de artă temporare de la etajul superior.",
-            "en": "Explore fascinating local history and cultural exhibits at La Mosaïque, making sure to ask the staff about temporary art collections on the upper floor."
+            "en": "Explore fascinating local history and cultural exhibits at La Mosaïque, making sure to ask the staff about temporary art collections on the upper floor.",
+            "fr": "Explorez l'histoire locale fascinante et les expositions culturelles à La Mosaïque, en n'oubliant pas de demander au personnel les collections temporaires à l'étage supérieur."
           }
         },
         {
@@ -681,7 +755,8 @@
             "de": "Kirche Saint-Martial",
             "hu": "Saint-Martial templom",
             "ro": "Biserica Saint-Martial",
-            "en": "Église Saint-Martial"
+            "en": "Église Saint-Martial",
+            "fr": "Église Saint-Martial"
           },
           "coords": [
             1.523786,
@@ -696,7 +771,8 @@
             "de": "Nehmen Sie sich einen Moment der Kontemplation in der Église Saint-Martial, einem malerischen Ort, dessen subtile Details den aufmerksamen Besucher belohnen.",
             "hu": "Töltsön el egy percet csendes elmélkedéssel az Église Saint-Martial templomban, ahol a finom építészeti részletek megjutalmazzák a figyelmes látogatókat.",
             "ro": "Luați-vă un moment de contemplare în Église Saint-Martial, un lăcaș de cult pitoresc unde detaliile arhitecturale subtile răsplătesc vizitatorul atent.",
-            "en": "Take a moment of contemplation inside Église Saint-Martial, a quaint place of worship where the subtle architectural details reward the observant visitor."
+            "en": "Take a moment of contemplation inside Église Saint-Martial, a quaint place of worship where the subtle architectural details reward the observant visitor.",
+            "fr": "Prenez un moment de contemplation à l'intérieur de l'Église Saint-Martial, un lieu de culte pittoresque où les détails architecturaux subtils récompensent le visiteur attentif."
           }
         },
         {
@@ -704,7 +780,8 @@
             "de": "Biodiversitätszentrum",
             "hu": "Biodiverzitási sziget",
             "ro": "Insulă de biodiversitate",
-            "en": "Biodiversity Hub"
+            "en": "Biodiversity Hub",
+            "fr": "Centre de biodiversité"
           },
           "coords": [
             1.530543,
@@ -719,7 +796,8 @@
             "de": "Beobachten Sie das lokale Ökosystem an diesem Biodiversitätszentrum mit Nistkästen und treten Sie leise auf, um die heimische Flora und Fauna nicht zu stören.",
             "hu": "Figyelje meg az érzékeny helyi ökoszisztémát ezen a madárodúkkal teli biodiverzitási szigeten, csendben lépkedve, hogy ne zavarja az őshonos élővilágot.",
             "ro": "Observați ecosistemul local delicat la acest centru de biodiversitate plin de cuiburi, pășind încet pentru a nu deranja flora și fauna nativă.",
-            "en": "Observe the delicate local ecosystem at this biodiversity hub filled with nesting boxes, treading quietly so you don't disturb the native flora and fauna."
+            "en": "Observe the delicate local ecosystem at this biodiversity hub filled with nesting boxes, treading quietly so you don't disturb the native flora and fauna.",
+            "fr": "Observez le fragile écosystème local dans ce centre de biodiversité rempli de nichoirs, en marchant silencieusement pour ne pas déranger la flore et la faune locales."
           }
         },
         {
@@ -727,7 +805,8 @@
             "de": "Kirche Sainte-Foy",
             "hu": "Sainte-Foy templom",
             "ro": "Biserica Sainte-Foy",
-            "en": "Église Sainte-Foy"
+            "en": "Église Sainte-Foy",
+            "fr": "Église Sainte-Foy"
           },
           "coords": [
             1.532738,
@@ -742,7 +821,8 @@
             "de": "Bewundern Sie die historische Bedeutung der Église Sainte-Foy und prüfen Sie die Anschlagtafel auf spontane Auftritte des Gemeindechors.",
             "hu": "Csodálja meg az Église Sainte-Foy történelmi jelentőségét, és érdemes megnézni a kinti hirdetőtáblát az esetleges spontán közösségi kóruselőadások miatt.",
             "ro": "Minunați-vă de semnificația istorică a Église Sainte-Foy, verificând panoul parohial de afară pentru orice spectacole spontane ale corului comunitar.",
-            "en": "Marvel at the historical significance of Église Sainte-Foy, checking the local parish board outside for any spontaneous community choir performances."
+            "en": "Marvel at the historical significance of Église Sainte-Foy, checking the local parish board outside for any spontaneous community choir performances.",
+            "fr": "Admirez l'importance historique de l'Église Sainte-Foy et consultez le panneau paroissial extérieur pour d'éventuelles performances spontanées de la chorale communautaire."
           }
         },
         {
@@ -750,7 +830,8 @@
             "de": "Kirche Notre-Dame",
             "hu": "Notre-Dame templom",
             "ro": "Biserica Notre-Dame",
-            "en": "Église Notre-Dame"
+            "en": "Église Notre-Dame",
+            "fr": "Église Notre-Dame"
           },
           "coords": [
             1.516146,
@@ -765,7 +846,8 @@
             "de": "Besuchen Sie die schöne Église Notre-Dame, um ihre Präsenz im nördlichen Viertel zu schätzen und die friedliche Atmosphäre der Umgebung zu genießen.",
             "hu": "Látogasson el a gyönyörű Église Notre-Dame templomba, hogy megcsodálja a helyszín északi részét uraló, a környék békés atmoszféráját árasztó épületet.",
             "ro": "Vizitați frumoasa Église Notre-Dame pentru a aprecia prezența sa impunătoare în cartierul nordic, bucurându-vă de atmosfera pașnică a terenurilor din jur.",
-            "en": "Visit the beautiful Église Notre-Dame to appreciate its towering presence in the northern district, enjoying the peaceful atmosphere of its surrounding grounds."
+            "en": "Visit the beautiful Église Notre-Dame to appreciate its towering presence in the northern district, enjoying the peaceful atmosphere of its surrounding grounds.",
+            "fr": "Visitez la belle Église Notre-Dame pour apprécier sa présence imposante dans le quartier nord, en profitant de l'atmosphère paisible de son parc environnant."
           }
         },
         {
@@ -773,7 +855,8 @@
             "de": "Schloss Fossat",
             "hu": "Fossat kastély",
             "ro": "Castelul Fossat",
-            "en": "Château du Fossat"
+            "en": "Château du Fossat",
+            "fr": "Château du Fossat"
           },
           "coords": [
             1.50684,
@@ -788,7 +871,8 @@
             "de": "Machen Sie eine Zeitreise, während Sie die Gärten des Château du Fossat erkunden, und bringen Sie eine Kamera für die herrlichen Panoramablicke mit.",
             "hu": "Lépjen vissza az időben a Château du Fossat fenséges birtokának felfedezésekor, és mindenképpen hozzon fényképezőgépet a lenyűgöző panorámák miatt.",
             "ro": "Întoarceți-vă în timp explorând domeniul impresionant al Château du Fossat, asigurându-vă că aveți o cameră pentru vederile panoramice uluitoare.",
-            "en": "Step back in time as you explore the commanding grounds of Château du Fossat, making sure to bring a camera for the stunning panoramic views from the estate."
+            "en": "Step back in time as you explore the commanding grounds of Château du Fossat, making sure to bring a camera for the stunning panoramic views from the estate.",
+            "fr": "Remontez le temps en explorant l'imposant domaine du Château du Fossat ; pensez à emporter un appareil photo pour les panoramas remarquables depuis la propriété."
           }
         },
         {
@@ -796,7 +880,8 @@
             "de": "Saint-Jean-See",
             "hu": "Saint-Jean tó",
             "ro": "Lacul Saint-Jean",
-            "en": "Saint-Jean Lake"
+            "en": "Saint-Jean Lake",
+            "fr": "Lac Saint-Jean"
           },
           "coords": [
             1.497199,
@@ -811,7 +896,8 @@
             "de": "Spazieren Sie an den ruhigen Gewässern des Saint-Jean-Sees entlang, um lokale Wasservögel zu beobachten, und tragen Sie bequeme Schuhe für die Naturpfade.",
             "hu": "Sétáljon a Saint-Jean tó nyugodt vize körül a helyi vízimadarak megfigyeléséhez, és hozzon kényelmes cipőt a burkolatlan tanösvények felfedezéséhez.",
             "ro": "Plimbați-vă pe lângă apele liniștite ale lacului Saint-Jean pentru a observa păsările de apă, purtând încălțăminte confortabilă pentru traseele naturale.",
-            "en": "Stroll around the tranquil waters of Saint-Jean Lake to spot local waterbirds, bringing some comfortable walking shoes to enjoy the unpaved nature trails."
+            "en": "Stroll around the tranquil waters of Saint-Jean Lake to spot local waterbirds, bringing some comfortable walking shoes to enjoy the unpaved nature trails.",
+            "fr": "Promenez-vous autour des eaux tranquilles du lac Saint-Jean pour observer les oiseaux d'eau locaux, en emportant des chaussures de marche confortables pour profiter des sentiers naturels non pavés."
           }
         }
       ],
@@ -819,7 +905,8 @@
         "de": "Ihre komfortable Fahrt beginnt im Museum La Mosaïque, bevor Sie zur idyllischen Église Saint-Martial aufbrechen. Mittags erkunden Sie die reiche Flora und Fauna des Biodiversitätszentrums und die Église Sainte-Foy. Der Nachmittag bietet historische Einblicke in der Église Notre-Dame und dem prächtigen Château du Fossat. Beenden Sie den Tag mit einem ruhigen Spaziergang am Saint-Jean-See.",
         "hu": "A kényelmes autózás a La Mosaïque múzeumban kezdődik, mielőtt az idilli Saint-Martial templomhoz indulna. Délben fedezze fel a biodiverzitási központ gazdag növény- és állatvilágát, valamint a Sainte-Foy templomot. A délután történelmi betekintést nyújt a Notre-Dame templomnál és a pompás Château du Fossat kastélynál. Zárja a napot egy csendes sétával a Saint-Jean tó partján.",
         "ro": "Plimbarea confortabilă cu mașina începe la muzeul La Mosaïque, înainte de a pleca spre idilica Église Saint-Martial. La prânz, explorați flora și fauna bogată a centrului de biodiversitate și Église Sainte-Foy. După-amiaza oferă perspective istorice la Église Notre-Dame și magnificul Château du Fossat. Încheiați ziua cu o plimbare absolut liniștită pe malurile lacului Saint-Jean.",
-        "en": "Your comfortable drive begins at the La Mosaïque museum before heading to the idyllic Église Saint-Martial. At midday, explore the rich flora and fauna of the biodiversity hub and the elegant Église Sainte-Foy. The afternoon provides historical insights at Église Notre-Dame and the magnificent Château du Fossat. End your day with a peaceful, scenic stroll along the shores of Saint-Jean Lake."
+        "en": "Your comfortable drive begins at the La Mosaïque museum before heading to the idyllic Église Saint-Martial. At midday, explore the rich flora and fauna of the biodiversity hub and the elegant Église Sainte-Foy. The afternoon provides historical insights at Église Notre-Dame and the magnificent Château du Fossat. End your day with a peaceful, scenic stroll along the shores of Saint-Jean Lake.",
+        "fr": "Votre trajet confortable commence au musée La Mosaïque avant de vous rendre à l'idyllique Église Saint-Martial. À midi, explorez la riche flore et la faune du centre de biodiversité et l'élégante Église Sainte-Foy. L'après-midi offre des découvertes historiques à l'Église Notre-Dame et au magnifique Château du Fossat. Terminez la journée par une promenade paisible et panoramique le long des rives du lac Saint-Jean."
       },
       "variants": {
         "rainy": {
@@ -827,7 +914,8 @@
             "de": "Mit dem Auto erkunden Sie Saint-Jean auch bei starkem Regen komfortabel. Das Museum und die verschiedenen Kirchen bieten trockene Haltepunkte über den Tag verteilt. Am Biodiversitätszentrum und am See sollten Sie auf Pfützen auf den Parkplätzen achten. Genießen Sie die Aussicht aus dem warmen Fahrzeug, während Sie zwischen den historischen Stätten und dem Schloss Fossat pendeln.",
             "hu": "Autóval még erős esőben is kényelmesen felfedezheti Saint-Jean látnivalóit. A múzeum és a különféle templomok száraz megállókat kínálnak a nap folyamán. A biodiverzitási központnál és a tónál ügyeljen a parkolókban lévő nagyobb tócsákra. Élvezze a kilátást a meleg utastérből, miközben a történelmi helyszínek és a Fossat kastély között közlekedik.",
             "ro": "Cu mașina, puteți explora Saint-Jean confortabil chiar și pe ploaie torențială. Muzeul și diversele biserici oferă opriri uscate pe parcursul zilei. La centrul de biodiversitate și la lac, atenție la bălțile din parcări. Bucurați-vă de priveliște din habitaclul cald în timp ce navigați între siturile istorice și Castelul Fossat.",
-            "en": "Exploring Saint-Jean by car is comfortable even during heavy rain. The museum and various churches offer dry stops throughout the day. At the Biodiversity Hub and the lake, watch out for large puddles in the parking areas. Enjoy the views from your warm vehicle as you travel between historical sites and Château du Fossat."
+            "en": "Exploring Saint-Jean by car is comfortable even during heavy rain. The museum and various churches offer dry stops throughout the day. At the Biodiversity Hub and the lake, watch out for large puddles in the parking areas. Enjoy the views from your warm vehicle as you travel between historical sites and Château du Fossat.",
+            "fr": "Explorer Saint-Jean en voiture reste confortable même sous une forte pluie. Le musée et les différentes églises offrent des arrêts au sec tout au long de la journée. Au centre de biodiversité et au lac, méfiez-vous des grandes flaques sur les parkings. Profitez des vues depuis votre véhicule chauffé en vous déplaçant entre les sites historiques et le Château du Fossat."
           },
           "stops": [
             {
@@ -835,13 +923,15 @@
                 "de": "Museum La Mosaïque",
                 "hu": "La Mosaïque Múzeum",
                 "ro": "Muzeul La Mosaïque",
-                "en": "La Mosaïque Museum"
+                "en": "La Mosaïque Museum",
+                "fr": "Musée La Mosaïque"
               },
               "tip_5lang": {
                 "de": "Nutzen Sie den parkplatznahen Eingang, um so trocken wie möglich ins Gebäude zu gelangen, und bewundern Sie die Kunstwerke ohne Eile vor dem Regen.",
                 "hu": "Használja a parkolóhoz közeli bejáratot, hogy a lehető legszárazabb maradjon az épületbe menet, és csodálja meg a műveket sietség nélkül az esőben.",
                 "ro": "Folosiți intrarea cea mai apropiată de parcare pentru a rămâne cât mai uscat și admirați operele de artă fără grabă în timp ce afară plouă.",
-                "en": "Use the entrance closest to the parking area to stay as dry as possible, and take your time admiring the artworks while sheltered from the rain."
+                "en": "Use the entrance closest to the parking area to stay as dry as possible, and take your time admiring the artworks while sheltered from the rain.",
+                "fr": "Utilisez l'entrée la plus proche du parking pour rester au plus sec possible, et prenez le temps d'admirer les œuvres tout en étant abrité de la pluie."
               }
             },
             {
@@ -849,13 +939,15 @@
                 "de": "Kirche Saint-Martial",
                 "hu": "Saint-Martial templom",
                 "ro": "Biserica Saint-Martial",
-                "en": "Église Saint-Martial"
+                "en": "Église Saint-Martial",
+                "fr": "Église Saint-Martial"
               },
               "tip_5lang": {
                 "de": "Parken Sie vorsichtig auf dem nassen Untergrund; die Kirche ist ein idealer Ort für eine kurze, trockene Pause mit beeindruckender historischer Atmosphäre.",
                 "hu": "Parkoljon óvatosan a vizes talajon; a templom ideális helyszín egy rövid, száraz pihenőhöz és az impozáns történelmi hangulat élvezetéhez.",
                 "ro": "Parcați cu atenție pe suprafața umedă; biserica este un loc ideal pentru o scurtă pauză uscată într-o atmosferă istorică impresionantă.",
-                "en": "Park carefully on the wet surface; the church is an ideal spot for a short, dry break while soaking in the impressive historical atmosphere."
+                "en": "Park carefully on the wet surface; the church is an ideal spot for a short, dry break while soaking in the impressive historical atmosphere.",
+                "fr": "Garez-vous prudemment sur la surface mouillée ; l'église est un endroit idéal pour une courte pause au sec en savourant l'impressionnante atmosphère historique."
               }
             },
             {
@@ -863,13 +955,15 @@
                 "de": "Biodiversitätszentrum",
                 "hu": "Biodiverzitási sziget",
                 "ro": "Insulă de biodiversitate",
-                "en": "Biodiversity Hub"
+                "en": "Biodiversity Hub",
+                "fr": "Centre de biodiversité"
               },
               "tip_5lang": {
                 "de": "Beobachten Sie die Natur aus dem Fenster des Zentrums oder Ihres Autos; bei Regen sind oft weniger Besucher vor Ort, was den Aufenthalt entspannter macht.",
                 "hu": "Figyelje a természetet a központ ablakából vagy az autóból; esőben gyakran kevesebb a látogató, ami még nyugodtabbá teszi az itt töltött időt.",
                 "ro": "Observați natura de la fereastra centrului sau din mașină; pe ploaie sunt adesea mai puțini vizitatori, ceea ce face șederea mai relaxantă.",
-                "en": "Watch nature from the centre's windows or your car; there are often fewer visitors in the rain, making your visit even more peaceful and relaxed."
+                "en": "Watch nature from the centre's windows or your car; there are often fewer visitors in the rain, making your visit even more peaceful and relaxed.",
+                "fr": "Regardez la nature depuis les fenêtres du centre ou depuis votre voiture ; il y a souvent moins de visiteurs sous la pluie, rendant votre visite encore plus paisible et relaxante."
               }
             },
             {
@@ -877,13 +971,15 @@
                 "de": "Kirche Sainte-Foy",
                 "hu": "Sainte-Foy templom",
                 "ro": "Biserica Sainte-Foy",
-                "en": "Église Sainte-Foy"
+                "en": "Église Sainte-Foy",
+                "fr": "Église Sainte-Foy"
               },
               "tip_5lang": {
                 "de": "Der kurze Weg vom Auto zur Kirche ist gut zu bewältigen; genießen Sie den geschützten Innenraum, während draußen der Regen die Fassade wäscht.",
                 "hu": "Az autótól a templomig tartó rövid út könnyen megtehető; élvezze a védett belső teret, miközben odakint az eső mossa az épület homlokzatát.",
                 "ro": "Drumul scurt de la mașină la biserică este ușor de parcurs; bucurați-vă de interiorul protejat în timp ce afară ploaia spală fațada clădirii.",
-                "en": "The short path from the car to the church is easily manageable; enjoy the sheltered interior while the rain washes the building's facade outside."
+                "en": "The short path from the car to the church is easily manageable; enjoy the sheltered interior while the rain washes the building's facade outside.",
+                "fr": "Le court chemin entre la voiture et l'église est facilement praticable ; profitez de l'intérieur abrité pendant que la pluie lave la façade du bâtiment."
               }
             },
             {
@@ -891,13 +987,15 @@
                 "de": "Kirche Notre-Dame",
                 "hu": "Notre-Dame templom",
                 "ro": "Biserica Notre-Dame",
-                "en": "Église Notre-Dame"
+                "en": "Église Notre-Dame",
+                "fr": "Église Notre-Dame"
               },
               "tip_5lang": {
                 "de": "Nutzen Sie die Scheibenwischer-Intervallschaltung für eine klare Sicht auf die Architektur beim Anfahren und achten Sie auf Pfützen am Straßenrand.",
                 "hu": "Használja az ablaktörlő szakaszos üzemmódját a tiszta kilátáshoz induláskor, és ügyeljen az út szélén felgyülemlett nagyobb víztócsákra.",
                 "ro": "Folosiți temporizatorul ștergătoarelor pentru o vizibilitate clară la plecare și fiți atenți la bălțile mari formate la marginea drumului.",
-                "en": "Use your intermittent wiper setting for clear visibility when starting off, and watch out for large puddles accumulated at the edge of the road."
+                "en": "Use your intermittent wiper setting for clear visibility when starting off, and watch out for large puddles accumulated at the edge of the road.",
+                "fr": "Utilisez votre intermittent pour une visibilité claire au départ, et méfiez-vous des grandes flaques accumulées au bord de la route."
               }
             },
             {
@@ -905,13 +1003,15 @@
                 "de": "Schloss Fossat",
                 "hu": "Fossat kastély",
                 "ro": "Castelul Fossat",
-                "en": "Château du Fossat"
+                "en": "Château du Fossat",
+                "fr": "Château du Fossat"
               },
               "tip_5lang": {
                 "de": "Das Schloss bietet auch bei Regen tolle Fotomotive; halten Sie auf befestigten Flächen, um nicht im weichen Boden stecken zu bleiben.",
                 "hu": "A kastély esőben is remek fotótéma; parkoljon a szilárd burkolatú felületeken, hogy elkerülje az elakadást a felázott, puha talajon.",
                 "ro": "Castelul oferă oportunități foto excelente și pe ploaie; parcați pe suprafețe solide pentru a evita blocarea în solul moale și îmbibat cu apă.",
-                "en": "The castle offers great photo opportunities even in the rain; park on solid surfaces to avoid getting stuck in the softened, wet ground."
+                "en": "The castle offers great photo opportunities even in the rain; park on solid surfaces to avoid getting stuck in the softened, wet ground.",
+                "fr": "Le château offre de belles occasions photographiques même sous la pluie ; garez-vous sur des surfaces solides pour éviter de vous enliser dans la terre ramollie."
               }
             },
             {
@@ -919,13 +1019,15 @@
                 "de": "Saint-Jean-See",
                 "hu": "Saint-Jean tó",
                 "ro": "Lacul Saint-Jean",
-                "en": "Saint-Jean Lake"
+                "en": "Saint-Jean Lake",
+                "fr": "Lac Saint-Jean"
               },
               "tip_5lang": {
                 "de": "Beenden Sie den Tag mit einem Blick auf den See durch die Windschutzscheibe, während Sie im Warmen sitzen und den Regentropfen lauschen.",
                 "hu": "Zárja a napot a tó látványával a szélvédő mögül, miközben a melegben ülve hallgatja az autó tetején kopogó esőcseppek megnyugtató hangját.",
                 "ro": "Încheiați ziua admirând lacul prin parbriz, în timp ce stați la căldură și ascultați sunetul picăturilor de ploaie care bat în plafonul mașinii.",
-                "en": "End your day viewing the lake through your windshield while sitting in the warmth and listening to the raindrops drumming on the car roof."
+                "en": "End your day viewing the lake through your windshield while sitting in the warmth and listening to the raindrops drumming on the car roof.",
+                "fr": "Terminez la journée en observant le lac à travers votre pare-brise, installé dans la chaleur et en écoutant les gouttes de pluie tambouriner sur le toit de la voiture."
               }
             }
           ]
@@ -935,7 +1037,8 @@
             "de": "Im Winter bietet das Auto die ideale Basis, um Saint-Jean bei frostigen Temperaturen zu erkunden. Beginnen Sie im beheizten Museum und besuchen Sie nacheinander die historischen Kirchen. Da die Sonne gegen 17:00 Uhr untergeht, planen Sie das Biodiversitätszentrum und das Schloss Fossat für den frühen Nachmittag ein. Den Tag lassen Sie am stimmungsvoll beleuchteten Seeufer ausklingen.",
             "hu": "Télen az autó ideális bázis Saint-Jean felfedezéséhez a fagyos hőmérsékletben. Kezdjen a fűtött múzeumban, majd látogassa végig a történelmi templomokat. Mivel a nap 17:00 körül lemegy, a biodiverzitási központot és a Fossat kastélyt kora délutánra időzítse. A napot a hangulatosan kivilágított tóparton zárhatja, védve a téli széltől.",
             "ro": "Iarna, mașina oferă baza ideală pentru a explora Saint-Jean la temperaturi scăzute. Începeți la muzeul încălzit și vizitați pe rând bisericile istorice. Deoarece soarele apune în jurul orei 17:00, programați centrul de biodiversitate și Castelul Fossat pentru începutul după-amiezii. Încheiați ziua pe malul lacului iluminat.",
-            "en": "In winter, your car provides the perfect base for exploring Saint-Jean during frosty weather. Start at the heated museum and visit the historic churches one by one. Since the sun sets around 17:00, plan to see the Biodiversity Hub and Château du Fossat in the early afternoon. Finish your day at the atmospherically lit lakeside."
+            "en": "In winter, your car provides the perfect base for exploring Saint-Jean during frosty weather. Start at the heated museum and visit the historic churches one by one. Since the sun sets around 17:00, plan to see the Biodiversity Hub and Château du Fossat in the early afternoon. Finish your day at the atmospherically lit lakeside.",
+            "fr": "En hiver, votre voiture constitue la base idéale pour explorer Saint-Jean par temps de gel. Commencez par le musée chauffé et visitez les églises historiques les unes après les autres. Comme le soleil se couche vers 17:00, prévoyez de voir le centre de biodiversité et le Château du Fossat en début d'après-midi. Finissez la journée au bord du lac, baigné d'une atmosphère lumineuse."
           },
           "stops": [
             {
@@ -943,13 +1046,15 @@
                 "de": "Museum La Mosaïque",
                 "hu": "La Mosaïque Múzeum",
                 "ro": "Muzeul La Mosaïque",
-                "en": "La Mosaïque Museum"
+                "en": "La Mosaïque Museum",
+                "fr": "Musée La Mosaïque"
               },
               "tip_5lang": {
                 "de": "Lassen Sie die Standheizung kurz laufen, während Sie die Mosaike bewundern, damit es beim Einsteigen wieder angenehm warm im Fahrzeug ist.",
                 "hu": "Hagyja rövid ideig működni a fűtést, miközben a mozaikokat csodálja, hogy visszatérve kellemes meleg fogadja az autó utasterében.",
                 "ro": "Lăsați încălzirea pornită scurt timp cât admirați mozaicurile, pentru ca la revenire să vă întâmpine o temperatură plăcută în mașină.",
-                "en": "Let the heater run briefly while you admire the mosaics so that it is pleasantly warm inside the vehicle when you return from the museum."
+                "en": "Let the heater run briefly while you admire the mosaics so that it is pleasantly warm inside the vehicle when you return from the museum.",
+                "fr": "Laissez le chauffage tourner brièvement pendant que vous admirez les mosaïques afin qu'il soit agréablement chaud dans le véhicule à votre retour du musée."
               }
             },
             {
@@ -957,13 +1062,15 @@
                 "de": "Kirche Saint-Martial",
                 "hu": "Saint-Martial templom",
                 "ro": "Biserica Saint-Martial",
-                "en": "Église Saint-Martial"
+                "en": "Église Saint-Martial",
+                "fr": "Église Saint-Martial"
               },
               "tip_5lang": {
                 "de": "Prüfen Sie den Reifendruck vor der Abfahrt, da dieser bei Kälte sinken kann; die Kirche bietet einen windgeschützten Halt für Ihre Besichtigung.",
                 "hu": "Indulás előtt ellenőrizze a guminyomást, mert a hidegben lecsökkenhet; a templom szélvédett megállót kínál a történelmi városnézés során.",
                 "ro": "Verificați presiunea în pneuri înainte de plecare, deoarece poate scădea la ger; biserica oferă o oprire ferită de vânt pentru vizita dumneavoastră.",
-                "en": "Check your tyre pressure before setting off as it can drop in the cold; the church offers a wind-sheltered stop for your historical sightseeing."
+                "en": "Check your tyre pressure before setting off as it can drop in the cold; the church offers a wind-sheltered stop for your historical sightseeing.",
+                "fr": "Vérifiez la pression des pneus avant de partir car elle peut baisser par le froid ; l'église offre un arrêt abrité pour vos visites historiques."
               }
             },
             {
@@ -971,13 +1078,15 @@
                 "de": "Biodiversitätszentrum",
                 "hu": "Biodiverzitási sziget",
                 "ro": "Insulă de biodiversitate",
-                "en": "Biodiversity Hub"
+                "en": "Biodiversity Hub",
+                "fr": "Centre de biodiversité"
               },
               "tip_5lang": {
                 "de": "Genießen Sie die Winterlandschaft vom Parkplatz aus; nutzen Sie die kurzen Wege ins Gebäude, um nicht unnötig lange der Kälte ausgesetzt zu sein.",
                 "hu": "Élvezze a téli tájat a parkolóból; használja a rövid utat az épületbe, hogy ne kelljen feleslegesen sokáig a hidegben tartózkodnia.",
                 "ro": "Bucurați-vă de peisajul de iarnă din parcare; folosiți drumul scurt până în clădire pentru a nu sta expus la frig mai mult decât e necesar.",
-                "en": "Enjoy the winter landscape from the parking area; use the short path to the building to avoid unnecessary exposure to the freezing temperatures."
+                "en": "Enjoy the winter landscape from the parking area; use the short path to the building to avoid unnecessary exposure to the freezing temperatures.",
+                "fr": "Appréciez le paysage hivernal depuis le parking ; utilisez le court chemin jusqu'au bâtiment pour éviter une exposition inutile aux températures glaciales."
               }
             },
             {
@@ -985,13 +1094,15 @@
                 "de": "Kirche Sainte-Foy",
                 "hu": "Sainte-Foy templom",
                 "ro": "Biserica Sainte-Foy",
-                "en": "Église Sainte-Foy"
+                "en": "Église Sainte-Foy",
+                "fr": "Église Sainte-Foy"
               },
               "tip_5lang": {
                 "de": "Achten Sie auf mögliche Glätte auf dem Parkplatz und genießen Sie die spirituelle Ruhe im Inneren, die einen starken Kontrast zum Winterfrost bildet.",
                 "hu": "Ügyeljen a parkoló esetleges jegesedésére, és élvezze a belső tér spirituális nyugalmát, amely éles kontrasztban áll a kinti téli fagyokkal.",
                 "ro": "Atenție la posibila gheață din parcare și bucurați-vă de liniștea spirituală din interior, care contrastează puternic cu gerul de afară.",
-                "en": "Watch out for potential ice in the parking lot and enjoy the spiritual calm inside, which offers a stark contrast to the winter frost outside."
+                "en": "Watch out for potential ice in the parking lot and enjoy the spiritual calm inside, which offers a stark contrast to the winter frost outside.",
+                "fr": "Méfiez-vous du gel éventuel sur le parking et profitez du calme spirituel à l'intérieur, qui contraste fortement avec le givre hivernal extérieur."
               }
             },
             {
@@ -999,13 +1110,15 @@
                 "de": "Kirche Notre-Dame",
                 "hu": "Notre-Dame templom",
                 "ro": "Biserica Notre-Dame",
-                "en": "Église Notre-Dame"
+                "en": "Église Notre-Dame",
+                "fr": "Église Notre-Dame"
               },
               "tip_5lang": {
                 "de": "Stellen Sie sicher, dass Ihr Wischwasser frostgeschützt ist; die Kirche ist besonders am späten Nachmittag in sanftes Winterlicht getaucht.",
                 "hu": "Győződjön meg róla, hogy az ablakmosó folyadék fagyálló; a templom különösen késő délután, a lágy téli fényekben nyújt lenyűgöző látványt.",
                 "ro": "Asigurați-vă că lichidul de parbriz este antigel; biserica este scăldată în lumină blândă de iarnă, în special spre sfârșitul după-amiezii.",
-                "en": "Ensure your washer fluid is frost-resistant; the church is bathed in soft winter light, especially during the late afternoon hours."
+                "en": "Ensure your washer fluid is frost-resistant; the church is bathed in soft winter light, especially during the late afternoon hours.",
+                "fr": "Assurez-vous que votre liquide lave-glace est antigel ; l'église est baignée d'une douce lumière hivernale, surtout en fin d'après-midi."
               }
             },
             {
@@ -1013,13 +1126,15 @@
                 "de": "Schloss Fossat",
                 "hu": "Fossat kastély",
                 "ro": "Castelul Fossat",
-                "en": "Château du Fossat"
+                "en": "Château du Fossat",
+                "fr": "Château du Fossat"
               },
               "tip_5lang": {
                 "de": "Die Architektur des Schlosses wirkt im tiefstehenden Sonnenlicht besonders plastisch; kehren Sie zum Auto zurück, bevor die Kälte nach Sonnenuntergang zunimmt.",
                 "hu": "A kastély építészete az alacsonyan járó napfényben különösen plasztikus; térjen vissza az autóba, mielőtt a naplemente után hirtelen fokozódna a hideg.",
                 "ro": "Arhitectura castelului pare deosebit de clară în lumina joasă a soarelui; reveniți la mașină înainte ca gerul să se intensifice după apus.",
-                "en": "The castle's architecture looks particularly striking in the low winter sun; return to your car before the cold intensifies after sunset."
+                "en": "The castle's architecture looks particularly striking in the low winter sun; return to your car before the cold intensifies after sunset.",
+                "fr": "L'architecture du château est particulièrement saisissante au soleil bas d'hiver ; retournez à votre voiture avant que le froid ne s'intensifie après le coucher du soleil."
               }
             },
             {
@@ -1027,13 +1142,15 @@
                 "de": "Saint-Jean-See",
                 "hu": "Saint-Jean tó",
                 "ro": "Lacul Saint-Jean",
-                "en": "Saint-Jean Lake"
+                "en": "Saint-Jean Lake",
+                "fr": "Lac Saint-Jean"
               },
               "tip_5lang": {
                 "de": "Bewundern Sie die beleuchtete Uferpromenade aus dem warmen Auto heraus, da die Temperaturen am Wasser nach 17:00 Uhr meist drastisch sinken.",
                 "hu": "Csodálja meg a kivilágított tóparti sétányt a meleg autóból, mivel a vízparton a hőmérséklet 17:00 után általában drasztikusan lecsökken.",
                 "ro": "Admirați faleza iluminată din interiorul mașinii calde, deoarece pe malul apei temperaturile scad adesea drastic după ora 17:00.",
-                "en": "Admire the illuminated lakeside promenade from your warm car, as temperatures near the water usually drop drastically after 17:00."
+                "en": "Admire the illuminated lakeside promenade from your warm car, as temperatures near the water usually drop drastically after 17:00.",
+                "fr": "Admirez la promenade illuminée au bord du lac depuis votre voiture chaude, car les températures près de l'eau baissent généralement fortement après 17:00."
               }
             }
           ]

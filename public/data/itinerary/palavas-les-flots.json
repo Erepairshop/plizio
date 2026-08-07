@@ -21,7 +21,8 @@
             "de": "Yachthafen",
             "hu": "Jachtkikötő",
             "ro": "Portul de agrement",
-            "en": "Marina"
+            "en": "Marina",
+            "fr": "Marina"
           },
           "coords": [
             3.932651,
@@ -36,7 +37,8 @@
             "de": "Beobachten Sie die Fischerboote bei ihrer Rückkehr in den malerischen Hafen und kaufen Sie fangfrischen Fisch direkt an den Kais, um das lokale Flair zu genießen.",
             "hu": "Figyelje meg a festői kikötőbe visszatérő halászhajókat, és vásároljon friss fogást közvetlenül a rakparton a helyi hangulat megtapasztalásához.",
             "ro": "Priviți bărcile de pescari întorcându-se în portul pitoresc și cumpărați pește proaspăt direct de pe chei pentru a simți atmosfera locală.",
-            "en": "Watch the fishing boats return to the picturesque harbor and buy fresh catch directly from the quays to truly experience the local atmosphere."
+            "en": "Watch the fishing boats return to the picturesque harbor and buy fresh catch directly from the quays to truly experience the local atmosphere.",
+            "fr": "Regardez les bateaux de pêche revenir au port pittoresque et achetez la fraîche prise directement sur les quais pour vivre pleinement l’ambiance locale."
           }
         },
         {
@@ -44,7 +46,8 @@
             "de": "Kirche Saint-Pierre",
             "hu": "Szent Péter-templom",
             "ro": "Biserica Saint-Pierre",
-            "en": "Saint-Pierre Church"
+            "en": "Saint-Pierre Church",
+            "fr": "Saint-Pierre Church"
           },
           "coords": [
             3.931368,
@@ -59,7 +62,8 @@
             "de": "Bewundern Sie die schlichte Eleganz dieser dem Schutzpatron der Fischer gewidmeten Kirche und achten Sie auf die maritimen Details im hellen Innenraum.",
             "hu": "Csodálja meg a halászok védőszentjének szentelt templom egyszerű eleganciáját, és figyelje meg a világos belső tér tengeri motívumait.",
             "ro": "Admirați eleganța simplă a acestei biserici dedicate patronului pescarilor și observați detaliile maritime din interiorul luminos.",
-            "en": "Admire the simple elegance of this church dedicated to the patron saint of fishermen, taking note of the maritime details in its bright interior."
+            "en": "Admire the simple elegance of this church dedicated to the patron saint of fishermen, taking note of the maritime details in its bright interior.",
+            "fr": "Admirez l’élégance simple de cette église dédiée au saint patron des pêcheurs et notez les détails maritimes de son intérieur lumineux."
           }
         },
         {
@@ -67,7 +71,8 @@
             "de": "Phare de la Méditerranée",
             "hu": "Phare de la Méditerranée",
             "ro": "Phare de la Méditerranée",
-            "en": "Phare de la Méditerranée"
+            "en": "Phare de la Méditerranée",
+            "fr": "Phare de la Méditerranée"
           },
           "coords": [
             3.932204,
@@ -82,7 +87,8 @@
             "de": "Genießen Sie den atemberaubenden Panoramablick von diesem umgebauten Wasserturm aus und besuchen Sie das Drehrestaurant am besten kurz vor dem Sonnenuntergang.",
             "hu": "Élvezze a lélegzetelállító panorámát ebből az átalakított víztoronyból, és érdemes a forgóéttermet közvetlenül naplemente előtt meglátogatni.",
             "ro": "Bucurați-vă de panorama uluitoare din acest turn de apă transformat și vizitați restaurantul rotativ ideal chiar înainte de apusul soarelui.",
-            "en": "Enjoy the breathtaking panoramic view from this converted water tower, and try to visit the revolving restaurant just before sunset for the best light."
+            "en": "Enjoy the breathtaking panoramic view from this converted water tower, and try to visit the revolving restaurant just before sunset for the best light.",
+            "fr": "Profitez de la vue panoramique à couper le souffle depuis cette ancienne tour d’eau reconvertie, et essayez de visiter le restaurant tournant juste avant le coucher du soleil pour la meilleure lumière."
           }
         },
         {
@@ -90,7 +96,8 @@
             "de": "Parc du Levant",
             "hu": "Levant Park",
             "ro": "Parcul Levant",
-            "en": "Levant Park"
+            "en": "Levant Park",
+            "fr": "Levant Park"
           },
           "coords": [
             3.931938,
@@ -105,7 +112,8 @@
             "de": "Spazieren Sie durch diese grüne Oase mit ihren schattigen Wegen und dem kleinen Wasserfall, um sich an heißen Tagen eine erfrischende Pause zu gönnen.",
             "hu": "Sétáljon végig ezen a zöld oázison, melynek árnyékos ösvényei és kis vízesése tökéletes hűsítő pihenést nyújtanak a forró napokon.",
             "ro": "Plimbați-vă prin această oază verde, cu aleile sale umbrite și cascada mică, pentru a vă bucura de o pauză răcoritoare în zilele toride.",
-            "en": "Stroll through this green oasis with its shaded paths and small waterfall, perfect for a refreshing break from the sun on hot days."
+            "en": "Stroll through this green oasis with its shaded paths and small waterfall, perfect for a refreshing break from the sun on hot days.",
+            "fr": "Promenez‑vous dans cette oasis verte aux allées ombragées et à la petite cascade, parfaite pour une pause rafraîchissante lors des journées chaudes."
           }
         },
         {
@@ -113,7 +121,8 @@
             "de": "Museum Albert Dubout",
             "hu": "Albert Dubout Múzeum",
             "ro": "Muzeul Albert Dubout",
-            "en": "Albert Dubout Museum"
+            "en": "Albert Dubout Museum",
+            "fr": "Albert Dubout Museum"
           },
           "coords": [
             3.934342,
@@ -128,7 +137,8 @@
             "de": "Lachen Sie über die humorvollen Karikaturen des berühmten Zeichners in dieser alten Festung, und informieren Sie sich vorab über temporäre Sonderausstellungen.",
             "hu": "Nevessen a híres rajzoló humoros karikatúráin ebben a régi erődben, de előzetesen tájékozódjon az időszaki különkiállításokról is.",
             "ro": "Râdeți la caricaturile pline de umor ale celebrului desenator din această veche fortăreață și verificați în prealabil expozițiile speciale temporare.",
-            "en": "Laugh at the humorous caricatures by the famous illustrator housed in this old redoubt, and check ahead for any special temporary exhibitions."
+            "en": "Laugh at the humorous caricatures by the famous illustrator housed in this old redoubt, and check ahead for any special temporary exhibitions.",
+            "fr": "Riez devant les caricatures humoristiques du célèbre illustrateur abritées dans cette ancienne redoute, et renseignez‑vous à l’avance sur les éventuelles expositions temporaires."
           }
         }
       ],
@@ -136,7 +146,8 @@
         "de": "Ihr Tag beginnt im charmanten Yachthafen, wo Fischer ihre frischen Fänge präsentieren. Anschließend schlendern Sie zur Kirche Saint-Pierre, einem friedlichen Ort der Besinnung. Zur Mittagszeit besteigen Sie den Leuchtturm am Mittelmeer für atemberaubende Ausblicke. Der Nachmittag bietet Entspannung im schattigen Parc du Levant, bevor Sie den Tag mit einem humorvollen Besuch im Albert Dubout Museum ausklingen lassen.",
         "hu": "A nap a bájos jachtkikötőben indul, ahol a halászok bemutatják friss fogásaikat. Ezután sétáljon a Szent Péter-templomhoz, amely egy békés elmélkedési hely. Dél körül mássza meg a mediterrán világítótornyot a lélegzetelállító kilátásért. A délután árnyékos pihenést kínál a Levant Parkban, mielőtt a napot egy vidám látogatással zárná az Albert Dubout Múzeumban.",
         "ro": "Ziua începe în portul pitoresc, unde pescarii își etalează capturile proaspete. Apoi vă plimbați spre Biserica Saint-Pierre, un loc liniștit de reflecție. La prânz, urcați în farul Mediteranei pentru vederi uimitoare. După-amiaza oferă relaxare în parcul umbrit Levant, înainte de a încheia ziua cu o vizită plină de umor la Muzeul Albert Dubout.",
-        "en": "Your day begins at the charming marina, where fishermen display their fresh catches. You will then stroll to the Saint-Pierre Church, a peaceful place for reflection. Around midday, ascend the Mediterranean Lighthouse for breathtaking views. The afternoon offers relaxation in the shaded Levant Park before ending the day with a humorous visit to the Albert Dubout Museum."
+        "en": "Your day begins at the charming marina, where fishermen display their fresh catches. You will then stroll to the Saint-Pierre Church, a peaceful place for reflection. Around midday, ascend the Mediterranean Lighthouse for breathtaking views. The afternoon offers relaxation in the shaded Levant Park before ending the day with a humorous visit to the Albert Dubout Museum.",
+        "fr": "Votre journée commence à la charmante marina, où les pêcheurs exposent leurs prises fraîches. Vous vous promènerez ensuite jusqu’à l’église Saint‑Pierre, un lieu paisible de réflexion. Vers midi, montez au Phare de la Méditerranée pour des vues imprenables. L’après‑midi offre détente dans le Levant Park ombragé avant de terminer la journée par une visite amusante du musée Albert Dubout."
       },
       "variants": {
         "rainy": {
@@ -144,7 +155,8 @@
             "de": "Beginnen Sie Ihren Tag am Hafen, wo die Fischerboote im Regen schaukeln. Mittags bietet die Kirche einen ruhigen, trockenen Rückzugsort. Am Nachmittag erkunden Sie den Park unter Baumkronen und das Museum mit seinen humorvollen Zeichnungen. Den Abend lassen Sie gemütlich in einer der überdachten Passagen ausklingen, während die Tropfen auf das Wasser fallen.",
             "hu": "Kezdje a reggelt a kikötőben, ahol az esőben ringatózó hajók látványa fogadja. Délben a templom nyújt csendes és száraz menedéket. Délután a park fái alatt sétálhat, majd a múzeum fedett tárlatain merülhet el Albert Dubout világában. Az estét a vízparti árkádok alatt zárhatja, figyelve a tengerre hulló esőcseppeket.",
             "ro": "Începeți dimineața în port, unde bărcile se leagănă sub ploaie. La prânz, biserica oferă un refugiu liniștit și uscat. După-amiaza, plimbați-vă prin parc sub adăpostul copacilor, apoi vizitați muzeul pentru o doză de umor în siguranță. Seara se încheie sub arcadele de pe malul apei, admirând marea sub cerul plumburiu.",
-            "en": "Start your morning at the marina, watching boats sway in the rain. At noon, the church provides a peaceful and dry sanctuary. In the afternoon, explore the park's sheltered paths before diving into the indoor exhibits of the museum. End your evening under the waterfront arcades, enjoying the atmospheric view of rain hitting the Mediterranean."
+            "en": "Start your morning at the marina, watching boats sway in the rain. At noon, the church provides a peaceful and dry sanctuary. In the afternoon, explore the park's sheltered paths before diving into the indoor exhibits of the museum. End your evening under the waterfront arcades, enjoying the atmospheric view of rain hitting the Mediterranean.",
+            "fr": "Commencez la matinée à la marina en regardant les bateaux se balancer sous la pluie. À midi, l’église offre un refuge paisible et sec. L’après‑midi, explorez les allées abritées du parc avant de vous plonger dans les expositions intérieures du musée. Terminez la soirée sous les arcades du front de mer, en profitant de l’atmosphère de la pluie frappant la Méditerranée."
           },
           "stops": [
             {
@@ -152,13 +164,15 @@
                 "de": "Yachthafen",
                 "hu": "Jachtkikötő",
                 "ro": "Portul de agrement",
-                "en": "Marina"
+                "en": "Marina",
+                "fr": "Marina"
               },
               "tip_5lang": {
                 "de": "Beobachten Sie die Fischer beim Einholen der Netze unter dem Schutz der Hafengebäude und tragen Sie unbedingt rutschfeste Schuhe auf den nassen Stegen.",
                 "hu": "Figyelje meg a hálóikat javító halászokat a kikötői épületek eresze alól, és viseljen csúszásmentes lábbelit a vizes mólókon való biztonságos sétához.",
                 "ro": "Observați pescarii care își strâng plasele sub protecția clădirilor din port și purtați neapărat încălțăminte antiderapantă pe pontoanele umede.",
-                "en": "Watch the fishermen tending to their nets from the shelter of the harbor buildings, and make sure to wear non-slip shoes for safety on the wet piers."
+                "en": "Watch the fishermen tending to their nets from the shelter of the harbor buildings, and make sure to wear non-slip shoes for safety on the wet piers.",
+                "fr": "Observez les pêcheurs s’occuper de leurs filets à l’abri des bâtiments du port et veillez à porter des chaussures antidérapantes pour la sécurité sur les quais mouillés."
               }
             },
             {
@@ -166,13 +180,15 @@
                 "de": "Kirche Saint-Pierre",
                 "hu": "Szent Péter-templom",
                 "ro": "Biserica Saint-Pierre",
-                "en": "Saint-Pierre Church"
+                "en": "Saint-Pierre Church",
+                "fr": "Saint-Pierre Church"
               },
               "tip_5lang": {
                 "de": "Nutzen Sie diesen spirituellen Ort als trockenes Refugium vor dem Guss und bewundern Sie die bunten Glasfenster, die auch bei grauem Himmel leuchten.",
                 "hu": "Használja ezt a spirituális helyszínt száraz menedékként a zápor elől, és csodálja meg a színes üvegablakokat, amelyek szürke égbolt mellett is ragyognak.",
                 "ro": "Folosiți acest lăcaș spiritual ca refugiu uscat împotriva aversei și admirați vitraliile colorate care strălucesc chiar și sub cerul gri de afară.",
-                "en": "Use this spiritual site as a dry refuge from the downpour and admire the stained-glass windows that glow beautifully even under a gloomy grey sky."
+                "en": "Use this spiritual site as a dry refuge from the downpour and admire the stained-glass windows that glow beautifully even under a gloomy grey sky.",
+                "fr": "Utilisez ce lieu spirituel comme refuge sec contre l’averse et admirez les vitraux qui s’illuminent magnifiquement même sous un ciel gris."
               }
             },
             {
@@ -180,13 +196,15 @@
                 "de": "Phare de la Méditerranée",
                 "hu": "Phare de la Méditerranée",
                 "ro": "Phare de la Méditerranée",
-                "en": "Phare de la Méditerranée"
+                "en": "Phare de la Méditerranée",
+                "fr": "Phare de la Méditerranée"
               },
               "tip_5lang": {
                 "de": "Genießen Sie den Panoramablick aus dem gläsernen Aufzug, der Sie trocken nach oben bringt, während draußen der Regen gegen die Scheiben peitscht.",
                 "hu": "Élvezze a panorámát az üvegfalú liftből, amely szárazon repíti a magasba, miközben odakint az eső dobol az ablakokon, különleges hangulatot árasztva.",
                 "ro": "Bucurați-vă de panorama oferită de liftul de sticlă care vă urcă la adăpost, în timp ce afară ploaia bate în geamuri, creând o atmosferă unică.",
-                "en": "Enjoy the panoramic view from the glass elevator that takes you up dry, while watching the rain beat against the windows for a truly atmospheric experience."
+                "en": "Enjoy the panoramic view from the glass elevator that takes you up dry, while watching the rain beat against the windows for a truly atmospheric experience.",
+                "fr": "Profitez de la vue panoramique depuis l’ascenseur vitré qui vous monte au sec, en regardant la pluie battre contre les vitres pour une expérience réellement atmosphérique."
               }
             },
             {
@@ -194,13 +212,15 @@
                 "de": "Parc du Levant",
                 "hu": "Levant Park",
                 "ro": "Parcul Levant",
-                "en": "Levant Park"
+                "en": "Levant Park",
+                "fr": "Levant Park"
               },
               "tip_5lang": {
                 "de": "Spazieren Sie unter den dichten Platanen, die natürlichen Schutz bieten, und achten Sie auf die Enten, die das regnerische Wetter im Teich sichtlich genießen.",
                 "hu": "Sétáljon a sűrű platánfák alatt, amelyek természetes esernyőként szolgálnak, és figyelje meg a tavon az esős időt látványosan élvező vadkacsákat.",
                 "ro": "Plimbați-vă sub platanii deși care servesc drept umbrelă naturală și observați rațele de pe lac care par să se bucure din plin de vremea ploioasă.",
-                "en": "Walk beneath the thick plane trees that act as a natural umbrella and watch the ducks on the pond who clearly appreciate the wet weather conditions."
+                "en": "Walk beneath the thick plane trees that act as a natural umbrella and watch the ducks on the pond who clearly appreciate the wet weather conditions.",
+                "fr": "Marchez sous les platanes aux branches épaisses qui font office de parapluie naturel et observez les canards sur l’étang qui semblent apprécier le temps humide."
               }
             },
             {
@@ -208,13 +228,15 @@
                 "de": "Museum Albert Dubout",
                 "hu": "Albert Dubout Múzeum",
                 "ro": "Muzeul Albert Dubout",
-                "en": "Albert Dubout Museum"
+                "en": "Albert Dubout Museum",
+                "fr": "Albert Dubout Museum"
               },
               "tip_5lang": {
                 "de": "Verweilen Sie länger in den Ausstellungsräumen der alten Festung, um den Regen komplett zu vergessen, und nutzen Sie die Garderobe für nasse Regenschirme.",
                 "hu": "Töltsön több időt a régi erőd belső kiállítótereiben, ahol teljesen elfelejtheti az esőt, és használja a bejáratnál lévő tárolót a vizes esernyőknek.",
                 "ro": "Zăboviți mai mult în sălile de expoziție ale vechii cetăți pentru a uita complet de ploaie și folosiți suportul de la intrare pentru umbrelele ude.",
-                "en": "Spend extra time in the exhibition rooms of the old fortress to completely forget the rain, and use the storage area at the entrance for wet umbrellas."
+                "en": "Spend extra time in the exhibition rooms of the old fortress to completely forget the rain, and use the storage area at the entrance for wet umbrellas.",
+                "fr": "Passez plus de temps dans les salles d’exposition de l’ancienne forteresse pour oublier complètement la pluie et utilisez le local d’entrée pour les parapluies mouillés."
               }
             }
           ]
@@ -224,7 +246,8 @@
             "de": "Die Wintersonne glitzert auf dem Meer, während Sie warm eingepackt den Hafen erkunden. Mittags wärmen Sie sich in der Kirche auf, bevor Sie den Ausblick vom Phare genießen. Der Park wirkt im Winterlicht fast magisch. Da die Sonne gegen 17:00 Uhr untergeht, nutzen Sie die frühen Nachmittagsstunden für das Museum und kehren dann in ein gemütliches Café zurück.",
             "hu": "A téli napsütés szikrázik a tengeren, miközben melegen felöltözve felfedezi a kikötőt. Délben melegedjen fel a templomban, mielőtt a Phare kilátójába indulna. A park a téli fényekben szinte varázslatos. Mivel 17:00 körül sötétedik, a kora délutánt szánja a múzeumra, majd vonuljon vissza egy fűtött kávézóba.",
             "ro": "Soarele de iarnă strălucește pe mare în timp ce explorați portul bine înfofoliți. La prânz, încălziți-vă în biserică înainte de a admira priveliștea de la Phare. Parcul pare magic în lumina iernii. Deoarece soarele apune în jur de ora 17:00, rezervați începutul după-amiezii pentru muzeu, apoi retrageți-vă la o cafenea.",
-            "en": "Winter sun glitters on the sea as you explore the marina warmly dressed. At noon, warm up inside the church before heading to the Phare viewpoint. The park feels almost magical in the winter light. Since sunset is around 5:00 PM, use the early afternoon for the museum and then retreat to a cozy heated cafe."
+            "en": "Winter sun glitters on the sea as you explore the marina warmly dressed. At noon, warm up inside the church before heading to the Phare viewpoint. The park feels almost magical in the winter light. Since sunset is around 5:00 PM, use the early afternoon for the museum and then retreat to a cozy heated cafe.",
+            "fr": "Le soleil d’hiver scintille sur la mer pendant que vous explorez la marina bien emmitouflé. À midi, réchauffez‑vous dans l’église avant de vous diriger vers le point de vue du Phare. Le parc paraît presque magique sous la lumière hivernale. Puisque le coucher du soleil est vers 17:00, consacrez le début d’après‑midi au musée puis retirez‑vous dans un café chauffé et cosy."
           },
           "stops": [
             {
@@ -232,13 +255,15 @@
                 "de": "Yachthafen",
                 "hu": "Jachtkikötő",
                 "ro": "Portul de agrement",
-                "en": "Marina"
+                "en": "Marina",
+                "fr": "Marina"
               },
               "tip_5lang": {
                 "de": "Genießen Sie die klare Winterluft und die Ruhe ohne Touristenmassen; eine winddichte Jacke ist wegen der kühlen Meeresbrise unerlässlich.",
                 "hu": "Élvezze a friss téli levegőt és a turistaáradat nélküli nyugalmat; a hűvös tengeri szél miatt egy szélálló dzseki viselése elengedhetetlen.",
                 "ro": "Bucurați-vă de aerul curat de iarnă și de liniștea fără mulțimi de turiști; o jachetă rezistentă la vânt este esențială din cauza brizelor marine.",
-                "en": "Enjoy the crisp winter air and the peacefulness without the tourist crowds; a windproof jacket is essential due to the cool sea breezes."
+                "en": "Enjoy the crisp winter air and the peacefulness without the tourist crowds; a windproof jacket is essential due to the cool sea breezes.",
+                "fr": "Profitez de l’air vif d’hiver et de la tranquillité loin des foules touristiques ; une veste coupe‑vent est essentielle à cause des brises marines fraîches."
               }
             },
             {
@@ -246,13 +271,15 @@
                 "de": "Kirche Saint-Pierre",
                 "hu": "Szent Péter-templom",
                 "ro": "Biserica Saint-Pierre",
-                "en": "Saint-Pierre Church"
+                "en": "Saint-Pierre Church",
+                "fr": "Saint-Pierre Church"
               },
               "tip_5lang": {
                 "de": "Bewundern Sie die traditionelle Krippe, die oft bis Januar ausgestellt ist, und nutzen Sie die windgeschützte Architektur für eine kurze Aufwärmpause.",
                 "hu": "Csodálja meg a hagyományos betlehemet, amelyet gyakran januárig kiállítanak, és használja ki a szélvédett épületet egy rövid bemelegedésre.",
                 "ro": "Admirați ieslea tradițională expusă adesea până în ianuarie și profitați de arhitectura protejată de vânt pentru o scurtă pauză de încălzire.",
-                "en": "Admire the traditional nativity scene often displayed until January and take advantage of the sheltered architecture for a quick warm-up break."
+                "en": "Admire the traditional nativity scene often displayed until January and take advantage of the sheltered architecture for a quick warm-up break.",
+                "fr": "Admirez la crèche traditionnelle souvent exposée jusqu’en janvier et profitez de l’architecture abritée pour une courte pause de réchauffement."
               }
             },
             {
@@ -260,13 +287,15 @@
                 "de": "Phare de la Méditerranée",
                 "hu": "Phare de la Méditerranée",
                 "ro": "Phare de la Méditerranée",
-                "en": "Phare de la Méditerranée"
+                "en": "Phare de la Méditerranée",
+                "fr": "Phare de la Méditerranée"
               },
               "tip_5lang": {
                 "de": "Die Fernsicht auf die Pyrenäen ist im Winter oft klarer als im Sommer; bringen Sie ein Fernglas mit, um die schneebedeckten Gipfel zu erspähen.",
                 "hu": "A távoli kilátás a Pireneusokra télen gyakran tisztább, mint nyáron; vigyen magával távcsövet, hogy megpillanthassa a hófödte csúcsokat.",
                 "ro": "Vizibilitatea spre Pirinei este adesea mai clară iarna decât vara; aduceți un binoclu pentru a putea zări vârfurile acoperite de zăpadă.",
-                "en": "The distant views of the Pyrenees are often clearer in winter than in summer; bring binoculars to spot the snow-capped peaks far away."
+                "en": "The distant views of the Pyrenees are often clearer in winter than in summer; bring binoculars to spot the snow-capped peaks far away.",
+                "fr": "Les vues lointaines sur les Pyrénées sont souvent plus nettes en hiver qu’en été ; apportez des jumelles pour repérer les sommets enneigés au loin."
               }
             },
             {
@@ -274,13 +303,15 @@
                 "de": "Parc du Levant",
                 "hu": "Levant Park",
                 "ro": "Parcul Levant",
-                "en": "Levant Park"
+                "en": "Levant Park",
+                "fr": "Levant Park"
               },
               "tip_5lang": {
                 "de": "Beobachten Sie die Flamingos in den nahegelegenen Lagunen, die auch im Winter hierbleiben, und tragen Sie feste Schuhe für die kühleren Bodenverhältnisse.",
                 "hu": "Figyelje meg a közeli lagúnákban a flamingókat, amelyek télen is itt maradnak, és viseljen vastag talpú cipőt a hűvösebb talajviszonyok miatt.",
                 "ro": "Observați flamingo din lagunele din apropiere care rămân aici și iarna și purtați pantofi cu talpă groasă pentru condițiile de sol mai reci.",
-                "en": "Observe the flamingos in the nearby lagoons who stay here even in winter, and wear thick-soled shoes for the cooler ground conditions."
+                "en": "Observe the flamingos in the nearby lagoons who stay here even in winter, and wear thick-soled shoes for the cooler ground conditions.",
+                "fr": "Observez les flamants roses dans les lagunes voisines qui restent ici même en hiver, et portez des chaussures à semelles épaisses pour le sol plus frais."
               }
             },
             {
@@ -288,13 +319,15 @@
                 "de": "Museum Albert Dubout",
                 "hu": "Albert Dubout Múzeum",
                 "ro": "Muzeul Albert Dubout",
-                "en": "Albert Dubout Museum"
+                "en": "Albert Dubout Museum",
+                "fr": "Albert Dubout Museum"
               },
               "tip_5lang": {
                 "de": "Das beheizte Museum bietet einen idealen Abschluss des Nachmittags, bevor es draußen dunkel wird; planen Sie Ihren Besuch vor dem Sonnenuntergang um 17 Uhr.",
                 "hu": "A fűtött múzeum ideális lezárása a délutánnak, mielőtt odakint besötétedne; tervezze látogatását az 17 órai naplemente előtti időszakra.",
                 "ro": "Muzeul încălzit oferă un final ideal pentru după-amiază înainte de a se înnopta; planificați vizita înainte de apusul soarelui de la ora 17:00.",
-                "en": "The heated museum is an ideal way to end your afternoon before it gets dark; schedule your visit before the 5:00 PM winter sunset."
+                "en": "The heated museum is an ideal way to end your afternoon before it gets dark; schedule your visit before the 5:00 PM winter sunset.",
+                "fr": "Le musée chauffé est une façon idéale de terminer votre après‑midi avant la tombée de la nuit ; prévoyez votre visite avant le coucher du soleil hivernal à 17:00."
               }
             }
           ]
@@ -314,7 +347,8 @@
             "de": "Palavas Ost",
             "hu": "Kelet-Palavas",
             "ro": "Palavas Est",
-            "en": "Palavas East"
+            "en": "Palavas East",
+            "fr": "Palavas East"
           },
           "coords": [
             3.950406,
@@ -329,7 +363,8 @@
             "de": "Starten Sie Ihre Radtour an diesem lebhaften Strandabschnitt, ideal für einen morgendlichen Spaziergang am Meer oder einen Kaffee mit Blick auf die Wellen.",
             "hu": "Kezdje a kerékpártúrát ezen a nyüzsgő strandszakaszon, amely ideális egy reggeli tengerparti sétához vagy egy kávéhoz, kilátással a hullámokra.",
             "ro": "Începeți turul cu bicicleta pe această plajă plină de viață, ideală pentru o plimbare de dimineață la mare sau o cafea cu vedere la valuri.",
-            "en": "Start your bike tour along this lively stretch of beach, perfect for a morning stroll by the sea or a coffee overlooking the rolling waves."
+            "en": "Start your bike tour along this lively stretch of beach, perfect for a morning stroll by the sea or a coffee overlooking the rolling waves.",
+            "fr": "Commencez votre tour à vélo le long de cette plage animée, parfaite pour une promenade matinale au bord de la mer ou un café face aux vagues."
           }
         },
         {
@@ -337,7 +372,8 @@
             "de": "Étang du Grec",
             "hu": "Görög-lagúna",
             "ro": "Laguna Grecului",
-            "en": "Greek Lagoon"
+            "en": "Greek Lagoon",
+            "fr": "Greek Lagoon"
           },
           "coords": [
             3.945055,
@@ -352,7 +388,8 @@
             "de": "Halten Sie Ausschau nach den leuchtend rosa Flamingos in diesem flachen Salzwassersee und bringen Sie ein Fernglas für die beste Vogelbeobachtung mit.",
             "hu": "Keresse a ragyogó rózsaszín flamingókat ezen a sekély sós vizű tavon, és a legjobb madármegfigyelés érdekében hozzon magával távcsövet.",
             "ro": "Căutați flamingo roz strălucitori în acest lac cu apă sărată puțin adâncă și aduceți un binoclu pentru cea mai bună observare a păsărilor.",
-            "en": "Look out for the vibrant pink flamingos in this shallow saltwater lake and bring binoculars to get the best birdwatching experience."
+            "en": "Look out for the vibrant pink flamingos in this shallow saltwater lake and bring binoculars to get the best birdwatching experience.",
+            "fr": "Gardez l’œil ouvert pour les flamants roses d’un rose vif dans ce lagon d’eau salée peu profond et prenez des jumelles pour une meilleure observation des oiseaux."
           }
         },
         {
@@ -360,7 +397,8 @@
             "de": "Museum Albert Dubout",
             "hu": "Albert Dubout Múzeum",
             "ro": "Muzeul Albert Dubout",
-            "en": "Albert Dubout Museum"
+            "en": "Albert Dubout Museum",
+            "fr": "Albert Dubout Museum"
           },
           "coords": [
             3.934342,
@@ -375,7 +413,8 @@
             "de": "Erkunden Sie die witzigen Zeichnungen in der alten Verteidigungsanlage, welche die französische Lebensart mit einem charmanten Augenzwinkern darstellen.",
             "hu": "Fedezze fel a régi védműben található szellemes rajzokat, amelyek sármos kacsintással mutatják be a francia életmódot és szokásokat.",
             "ro": "Explorați desenele amuzante din vechea fortificație de apărare, care ilustrează modul de viață francez cu o notă fermecătoare de ironie.",
-            "en": "Explore the witty drawings inside the old defensive redoubt, perfectly depicting the French way of life with a charming touch of irony."
+            "en": "Explore the witty drawings inside the old defensive redoubt, perfectly depicting the French way of life with a charming touch of irony.",
+            "fr": "Explorez les dessins pleins d’esprit à l’intérieur de l’ancienne redoute défensive, décrivant parfaitement la vie à la française avec une touche d’ironie charmante."
           }
         },
         {
@@ -383,7 +422,8 @@
             "de": "Phare de la Méditerranée",
             "hu": "Phare de la Méditerranée",
             "ro": "Phare de la Méditerranée",
-            "en": "Phare de la Méditerranée"
+            "en": "Phare de la Méditerranée",
+            "fr": "Phare de la Méditerranée"
           },
           "coords": [
             3.932204,
@@ -398,7 +438,8 @@
             "de": "Nutzen Sie die Gelegenheit, vom ehemaligen Wasserturm über ganz Palavas zu blicken, ein Muss für jeden Besucher mit Kameraausrüstung.",
             "hu": "Használja ki a lehetőséget, hogy az egykori víztoronyból egész Palavasra rálásson, amely minden fényképezőgéppel érkező számára kötelező.",
             "ro": "Profitați de ocazia de a privi peste tot Palavas din fostul turn de apă, o necesitate pentru orice vizitator pasionat de fotografie panoramică.",
-            "en": "Take the opportunity to look out over all of Palavas from the former water tower, an absolute must for any visitor carrying camera gear."
+            "en": "Take the opportunity to look out over all of Palavas from the former water tower, an absolute must for any visitor carrying camera gear.",
+            "fr": "Profitez de l’occasion pour regarder Palavas dans son ensemble depuis l’ancienne tour d’eau, un incontournable pour tout visiteur muni de matériel photo."
           }
         },
         {
@@ -406,7 +447,8 @@
             "de": "Palavas West",
             "hu": "Nyugat-Palavas",
             "ro": "Palavas Vest",
-            "en": "Palavas West"
+            "en": "Palavas West",
+            "fr": "Palavas West"
           },
           "coords": [
             3.921172,
@@ -421,7 +463,8 @@
             "de": "Radeln Sie gemütlich an der Promenade dieses Küstenabschnitts entlang und probieren Sie ein Eis in einem der zahlreichen kleinen Cafés am Wegesrand.",
             "hu": "Kerekezzen kényelmesen a partszakasz sétányán, és kóstoljon meg egy fagylaltot az út mentén található számos kis kávézó egyikében.",
             "ro": "Ciclism pe îndelete de-a lungul promenadei acestei secțiuni de coastă și încercați o înghețată într-una dintre numeroasele cafenele mici de pe drum.",
-            "en": "Cycle leisurely along the promenade of this coastal section and be sure to try some delicious local ice cream at a small roadside cafe."
+            "en": "Cycle leisurely along the promenade of this coastal section and be sure to try some delicious local ice cream at a small roadside cafe.",
+            "fr": "Pédalez tranquillement le long de la promenade de cette section côtière et n’oubliez pas d’essayer une délicieuse glace locale dans un petit café en bord de route."
           }
         },
         {
@@ -429,7 +472,8 @@
             "de": "Étang du Prévost",
             "hu": "Prévost-lagúna",
             "ro": "Laguna Prévost",
-            "en": "Prévost Lagoon"
+            "en": "Prévost Lagoon",
+            "fr": "Prévost Lagoon"
           },
           "coords": [
             3.901643,
@@ -444,7 +488,8 @@
             "de": "Beobachten Sie die Kite-Surfer auf den beständigen Winden der Lagune und suchen Sie sich einen geschützten Platz für ein ruhiges Picknick.",
             "hu": "Figyelje a kite-szörfösöket a lagúna egyenletes szelein, és keressen egy védett helyet egy csendes délutáni piknikhez a part mentén.",
             "ro": "Urmăriți kitesurferii profitând de vânturile constante ale lagunei și găsiți un loc ferit pentru un picnic liniștit de după-amiază.",
-            "en": "Watch the kite surfers riding the steady lagoon winds and find a sheltered spot along the bank for a peaceful afternoon picnic."
+            "en": "Watch the kite surfers riding the steady lagoon winds and find a sheltered spot along the bank for a peaceful afternoon picnic.",
+            "fr": "Regardez les kitesurfers profiter des vents réguliers du lagon et trouvez un endroit abrité le long de la rive pour un pique‑nique paisible l’après‑midi."
           }
         }
       ],
@@ -452,7 +497,8 @@
         "de": "Am Morgen radeln Sie entlang der östlichen Strände zum malerischen Étang du Grec, berühmt für seine Flamingos. Gegen Mittag erwartet Sie humorvolle Kunst im Albert Dubout Museum und weite Ausblicke vom Phare de la Méditerranée. Am Nachmittag führt der Weg über den belebten Weststrand hin zur weitläufigen Lagune Étang du Prévost, wo Sie entspannt den Kitesurfern zusehen.",
         "hu": "Reggel a keleti strandok mentén a festői Görög-lagúnához kerékpározik, amely híres flamingóiról. Dél körül humoros művészet várja az Albert Dubout Múzeumban, majd panoráma a világítótoronyból. Délután az út a forgalmas nyugati strandon át a tágas Prévost-lagúnához vezet, ahol nyugodtan figyelheti a kiteszörfösöket.",
         "ro": "Dimineața, pedalați de-a lungul plajelor estice până la pitorescul lac Grec, faimos pentru flamingo. La prânz, arta plină de umor vă așteaptă la Muzeul Albert Dubout și vederi de la Farul Mediteranei. După-amiaza, traseul duce de-a lungul plajei vestice animate până la laguna vastă Prévost, unde puteți privi kitesurferii.",
-        "en": "In the morning, cycle along the eastern beaches to the picturesque Étang du Grec, famous for flamingos. By midday, humorous art awaits at the Albert Dubout Museum alongside panoramic views from the lighthouse. The afternoon route leads via the lively west beach to the expansive Prévost Lagoon, where you can watch kite surfers relaxingly."
+        "en": "In the morning, cycle along the eastern beaches to the picturesque Étang du Grec, famous for flamingos. By midday, humorous art awaits at the Albert Dubout Museum alongside panoramic views from the lighthouse. The afternoon route leads via the lively west beach to the expansive Prévost Lagoon, where you can watch kite surfers relaxingly.",
+        "fr": "Le matin, parcourez à vélo les plages de l’est jusqu’à l’Étang du Grec pittoresque, célèbre pour ses flamants. À midi, l’art humoristique vous attend au musée Albert Dubout, accompagné des panoramas depuis le phare. L’itinéraire de l’après‑midi mène via la plage ouest animée au vaste lagon Prévost, où vous pourrez regarder les kitesurfers en toute détente."
       },
       "variants": {
         "rainy": {
@@ -460,7 +506,8 @@
             "de": "Eine Radtour im Regen erfordert Vorsicht, bietet aber eine mystische Atmosphäre entlang der Lagunen. Starten Sie im Osten und suchen Sie Schutz bei den Informationstafeln. Mittags trocknen Sie im Museum ab. Der Nachmittag führt Sie westwärts zur Prévost-Lagune, wo die Gischt den Regen trifft. Denken Sie an wasserfeste Kleidung und reduzieren Sie Ihr Tempo auf den glatten Wegen.",
             "hu": "A kerékpározás esőben óvatosságot igényel, de misztikus hangulatot áraszt a lagúnák mentén. Kezdjen keleten, és keressen menedéket az információs táblák alatt. Délben a múzeumban száradhat meg. Délután tekerjen nyugat felé a Prévost-lagúnához, ahol a sós permet keveredik az esővel. Viseljen vízálló ruhát és lassítson a csúszós szakaszokon.",
             "ro": "O tură cu bicicleta pe ploaie necesită prudență, dar oferă o atmosferă mistică de-a lungul lagunelor. Începeți în est și căutați adăpost lângă panourile informative. La prânz, uscați-vă în muzeu. După-amiaza pedalați spre vest către laguna Prévost. Purtați haine impermeabile și reduceți viteza pe porțiunile alunecoase.",
-            "en": "Cycling in the rain requires caution but offers a mystical atmosphere along the lagoons. Start in the east and seek shelter near information points. At noon, dry off at the museum. The afternoon takes you west to the Prévost Lagoon, where sea spray meets the rain. Remember waterproof gear and reduce your speed on the slippery paths."
+            "en": "Cycling in the rain requires caution but offers a mystical atmosphere along the lagoons. Start in the east and seek shelter near information points. At noon, dry off at the museum. The afternoon takes you west to the Prévost Lagoon, where sea spray meets the rain. Remember waterproof gear and reduce your speed on the slippery paths.",
+            "fr": "Faire du vélo sous la pluie demande de la prudence mais offre une atmosphère mystique le long des lagunes. Commencez à l’est et cherchez des abris près des points d’information. À midi, séchez‑vous au musée. L’après‑midi vous mène à l’ouest vers le lagon Prévost, où les embruns se mêlent à la pluie. N’oubliez pas l’équipement imperméable et réduisez votre vitesse sur les chemins glissants."
           },
           "stops": [
             {
@@ -468,13 +515,15 @@
                 "de": "Palavas Ost",
                 "hu": "Kelet-Palavas",
                 "ro": "Palavas Est",
-                "en": "Palavas East"
+                "en": "Palavas East",
+                "fr": "Palavas East"
               },
               "tip_5lang": {
                 "de": "Prüfen Sie Ihre Bremsen vor dem Start im Regen und nutzen Sie die überdachten Bereiche der Strandpromenade für eine kurze Pause.",
                 "hu": "Indulás előtt ellenőrizze a fékeket az esős idő miatt, és használja ki a tengerparti sétány fedett részeit egy rövid pihenőre.",
                 "ro": "Verificați frânele înainte de pornire din cauza ploii și folosiți zonele acoperite ale falezei pentru o scurtă pauză de odihnă.",
-                "en": "Check your brakes before starting in the rain and take advantage of the sheltered areas along the promenade for a short rest."
+                "en": "Check your brakes before starting in the rain and take advantage of the sheltered areas along the promenade for a short rest.",
+                "fr": "Vérifiez vos freins avant le départ sous la pluie et profitez des zones abritées le long de la promenade pour une courte pause."
               }
             },
             {
@@ -482,13 +531,15 @@
                 "de": "Étang du Grec",
                 "hu": "Görög-lagúna",
                 "ro": "Laguna Grecului",
-                "en": "Greek Lagoon"
+                "en": "Greek Lagoon",
+                "fr": "Greek Lagoon"
               },
               "tip_5lang": {
                 "de": "Die Wege können matschig sein, halten Sie also Abstand zum Uferrand und genießen Sie den Anblick der Vögel, die im Regen ungestört bleiben.",
                 "hu": "Az utak sárosak lehetnek, ezért tartson biztonságos távolságot a part szélétől, és élvezze az esőben zavartalanul táplálkozó madarak látványát.",
                 "ro": "Potecile pot fi noroioase, deci păstrați o distanță sigură de marginea apei și admirați păsările care rămân nestingherite de ploaie.",
-                "en": "The paths can be muddy, so keep a safe distance from the water's edge and enjoy seeing the birds who remain undisturbed by the rainfall."
+                "en": "The paths can be muddy, so keep a safe distance from the water's edge and enjoy seeing the birds who remain undisturbed by the rainfall.",
+                "fr": "Les sentiers peuvent être boueux, gardez donc une distance de sécurité du bord de l’eau et appréciez les oiseaux qui restent indifférents à la pluie."
               }
             },
             {
@@ -496,13 +547,15 @@
                 "de": "Museum Albert Dubout",
                 "hu": "Albert Dubout Múzeum",
                 "ro": "Muzeul Albert Dubout",
-                "en": "Albert Dubout Museum"
+                "en": "Albert Dubout Museum",
+                "fr": "Albert Dubout Museum"
               },
               "tip_5lang": {
                 "de": "Stellen Sie Ihr Fahrrad an einem geschützten Ort ab und nutzen Sie den Besuch, um sich aufzuwärmen, bevor Sie die Tour im Regen fortsetzen.",
                 "hu": "Parkolja le kerékpárját egy védett helyen, és használja ki a látogatást a teljes bemelegedésre, mielőtt folytatná a túrát az esőben.",
                 "ro": "Parcați bicicleta într-un loc protejat și profitați de vizită pentru a vă încălzi complet înainte de a continua tura prin ploaie.",
-                "en": "Park your bike in a sheltered spot and use the visit to warm up thoroughly before continuing your rainy cycling tour."
+                "en": "Park your bike in a sheltered spot and use the visit to warm up thoroughly before continuing your rainy cycling tour.",
+                "fr": "Garez votre vélo à l’abri et profitez de la visite pour bien vous réchauffer avant de continuer votre circuit à vélo sous la pluie."
               }
             },
             {
@@ -510,13 +563,15 @@
                 "de": "Phare de la Méditerranée",
                 "hu": "Phare de la Méditerranée",
                 "ro": "Phare de la Méditerranée",
-                "en": "Phare de la Méditerranée"
+                "en": "Phare de la Méditerranée",
+                "fr": "Phare de la Méditerranée"
               },
               "tip_5lang": {
                 "de": "Der Turm dient als perfekter vertikaler Regenschutz; nutzen Sie die Auffahrt für einen trockenen Moment mit fantastischer Aussicht über die Küste.",
                 "hu": "A torony tökéletes függőleges esővédőként szolgál; használja ki a feljutást egy száraz pillanatra és a fantasztikus tengerparti kilátásra.",
                 "ro": "Turnul servește ca un adăpost vertical perfect împotriva ploii; profitați de urcare pentru un moment uscat și o priveliște superbă.",
-                "en": "The tower serves as a perfect vertical rain shelter; take the opportunity for a dry moment with fantastic views over the coastline."
+                "en": "The tower serves as a perfect vertical rain shelter; take the opportunity for a dry moment with fantastic views over the coastline.",
+                "fr": "La tour sert d’abri vertical parfait contre la pluie ; profitez d’un instant au sec avec des vues fantastiques sur la côte."
               }
             },
             {
@@ -524,13 +579,15 @@
                 "de": "Palavas West",
                 "hu": "Nyugat-Palavas",
                 "ro": "Palavas Vest",
-                "en": "Palavas West"
+                "en": "Palavas West",
+                "fr": "Palavas West"
               },
               "tip_5lang": {
                 "de": "Achten Sie auf Pfützen auf dem Radweg, die tiefer sein können als sie scheinen, und tragen Sie helle Kleidung für bessere Sichtbarkeit bei Regen.",
                 "hu": "Ügyeljen a kerékpárúton lévő tócsákra, amelyek mélyebbek lehetnek a látszatnál, és viseljen élénk színű ruhát a jobb láthatóságért.",
                 "ro": "Atenție la bălțile de pe pista de biciclete care pot fi mai adânci decât par și purtați haine viu colorate pentru o vizibilitate mai bună.",
-                "en": "Watch out for puddles on the cycle path that may be deeper than they look, and wear bright clothing for better visibility in the rain."
+                "en": "Watch out for puddles on the cycle path that may be deeper than they look, and wear bright clothing for better visibility in the rain.",
+                "fr": "Attention aux flaques sur la piste cyclable qui peuvent être plus profondes qu’elles n’y paraissent, et portez des vêtements visibles pour améliorer votre sécurité sous la pluie."
               }
             },
             {
@@ -538,13 +595,15 @@
                 "de": "Étang du Prévost",
                 "hu": "Prévost-lagúna",
                 "ro": "Laguna Prévost",
-                "en": "Prévost Lagoon"
+                "en": "Prévost Lagoon",
+                "fr": "Prévost Lagoon"
               },
               "tip_5lang": {
                 "de": "Der Wind kann hier bei Regen stark zunehmen; halten Sie den Lenker fest und genießen Sie die dramatische Stimmung über dem aufgewühlten Wasser.",
                 "hu": "A szél itt esőben jelentősen felerősödhet; tartsa erősen a kormányt, és élvezze a drámai hangulatot a felkavart vízfelszín felett.",
                 "ro": "Vântul se poate intensifica aici pe timp de ploaie; țineți bine de ghidon și bucurați-vă de atmosfera dramatică de deasupra apei agitate.",
-                "en": "The wind can pick up significantly here during rain; keep a firm grip on your handlebars and enjoy the dramatic mood over the choppy water."
+                "en": "The wind can pick up significantly here during rain; keep a firm grip on your handlebars and enjoy the dramatic mood over the choppy water.",
+                "fr": "Le vent peut considérablement se renforcer ici pendant la pluie ; gardez une prise ferme sur votre guidon et profitez de l’atmosphère dramatique au‑dessus de l’eau clapoteuse."
               }
             }
           ]
@@ -554,7 +613,8 @@
             "de": "Winterliches Radeln in Palavas bietet klare Horizonte und einsame Wege. Starten Sie erfrischt im Osten und radeln Sie entlang der Lagunen, wo die Wintervögel rasten. Das Museum mittags ist ein Muss zum Aufwärmen. Der Phare bietet im Winterlicht die beste Sicht. Da es früh dunkel wird, beenden Sie Ihre Tour an der Prévost-Lagune rechtzeitig zum Sonnenuntergang gegen 17:00 Uhr.",
             "hu": "A téli kerékpározás Palavasban tiszta látóhatárt és elhagyatott utakat kínál. Kezdjen frissen keleten, tekerjen a lagúnák mentén, ahol téli madarak pihennek. A múzeum délben kötelező megálló a bemelegedéshez. A Phare a téli fényekben nyújtja a legszebb kilátást. Mivel korán sötétedik, fejezze be túráját a Prévost-lagúnánál az 17:00 körüli naplementére.",
             "ro": "Ciclismul de iarnă în Palavas oferă orizonturi clare și poteci pustii. Începeți plini de energie în est și pedalați pe lângă lagunele unde se odihnesc păsările. Muzeul este o oprire obligatorie la prânz pentru încălzire. Phare oferă cea mai bună vedere în lumina iernii. Deoarece se întunecă devreme, terminați tura la laguna Prévost pentru apusul de la ora 17:00.",
-            "en": "Winter cycling in Palavas offers clear horizons and deserted paths. Start refreshed in the east and pedal along the lagoons where winter birds rest. The museum at noon is a must-visit to warm up. The Phare offers the best views in the crisp winter light. Since it gets dark early, finish your tour at the Prévost Lagoon in time for the 5:00 PM sunset."
+            "en": "Winter cycling in Palavas offers clear horizons and deserted paths. Start refreshed in the east and pedal along the lagoons where winter birds rest. The museum at noon is a must-visit to warm up. The Phare offers the best views in the crisp winter light. Since it gets dark early, finish your tour at the Prévost Lagoon in time for the 5:00 PM sunset.",
+            "fr": "Le cyclisme hivernal à Palavas offre des horizons clairs et des chemins déserts. Commencez rafraîchi à l’est et pédalez le long des lagunes où se reposent les oiseaux hivernants. Le musée à midi est un incontournable pour se réchauffer. Le Phare offre les meilleures vues dans la lumière hivernale vive. Comme il fait nuit tôt, terminez votre circuit au lagon Prévost à temps pour le coucher du soleil à 17:00."
           },
           "stops": [
             {
@@ -562,13 +622,15 @@
                 "de": "Palavas Ost",
                 "hu": "Kelet-Palavas",
                 "ro": "Palavas Est",
-                "en": "Palavas East"
+                "en": "Palavas East",
+                "fr": "Palavas East"
               },
               "tip_5lang": {
                 "de": "Tragen Sie Handschuhe gegen den kalten Fahrtwind und genießen Sie die menschenleeren Strände, die im Winter eine ganz eigene Ruhe ausstrahlen.",
                 "hu": "Viseljen kesztyűt a hideg menetszél ellen, és élvezze az elnéptelenedett strandokat, amelyek télen sajátos nyugalmat árasztanak.",
                 "ro": "Purtați mănuși împotriva vântului rece și bucurați-vă de plajele pustii care emană o liniște aparte pe timpul iernii.",
-                "en": "Wear gloves against the cold wind while riding and enjoy the deserted beaches which radiate a unique sense of peace in winter."
+                "en": "Wear gloves against the cold wind while riding and enjoy the deserted beaches which radiate a unique sense of peace in winter.",
+                "fr": "Portez des gants contre le vent froid pendant la balade et profitez des plages désertes qui dégagent un sentiment de paix unique en hiver."
               }
             },
             {
@@ -576,13 +638,15 @@
                 "de": "Étang du Grec",
                 "hu": "Görög-lagúna",
                 "ro": "Laguna Grecului",
-                "en": "Greek Lagoon"
+                "en": "Greek Lagoon",
+                "fr": "Greek Lagoon"
               },
               "tip_5lang": {
                 "de": "Im Winter sind die Farben der Lagune besonders intensiv; halten Sie kurz an, um die Zugvögel zu beobachten, aber bleiben Sie in Bewegung, um warm zu bleiben.",
                 "hu": "Télen a lagúna színei különösen intenzívek; álljon meg rövid időre megfigyelni a költöző madarakat, de maradjon mozgásban a testhőmérséklet megőrzéséért.",
                 "ro": "Iarna culorile lagunei sunt deosebit de intense; opriți-vă scurt pentru a observa păsările migratoare, dar rămâneți în mișcare pentru a vă menține căldura.",
-                "en": "The lagoon's colors are especially intense in winter; stop briefly to watch the migratory birds, but keep moving to maintain your body heat."
+                "en": "The lagoon's colors are especially intense in winter; stop briefly to watch the migratory birds, but keep moving to maintain your body heat.",
+                "fr": "Les couleurs du lagon sont particulièrement intenses en hiver ; arrêtez‑vous brièvement pour observer les oiseaux migrateurs, mais continuez à rouler pour garder votre chaleur corporelle."
               }
             },
             {
@@ -590,13 +654,15 @@
                 "de": "Museum Albert Dubout",
                 "hu": "Albert Dubout Múzeum",
                 "ro": "Muzeul Albert Dubout",
-                "en": "Albert Dubout Museum"
+                "en": "Albert Dubout Museum",
+                "fr": "Albert Dubout Museum"
               },
               "tip_5lang": {
                 "de": "Nutzen Sie die Garderobe, um Ihre dicken Wintersachen abzulegen, und genießen Sie die humorvolle Kunst in angenehm temperierten Räumen.",
                 "hu": "Használja a ruhatárat a vastag téli ruházat letételéhez, és élvezze a humoros művészetet a kellemesen temperált belső terekben.",
                 "ro": "Folosiți garderoba pentru a vă lăsa hainele groase de iarnă și bucurați-vă de arta plină de umor în încăperi cu temperatură plăcută.",
-                "en": "Use the cloakroom to leave your heavy winter gear and enjoy the humorous art in the comfortably heated indoor galleries."
+                "en": "Use the cloakroom to leave your heavy winter gear and enjoy the humorous art in the comfortably heated indoor galleries.",
+                "fr": "Utilisez le vestiaire pour laisser votre lourde tenue d’hiver et admirez l’art humoristique dans les salles intérieures confortablement chauffées."
               }
             },
             {
@@ -604,13 +670,15 @@
                 "de": "Phare de la Méditerranée",
                 "hu": "Phare de la Méditerranée",
                 "ro": "Phare de la Méditerranée",
-                "en": "Phare de la Méditerranée"
+                "en": "Phare de la Méditerranée",
+                "fr": "Phare de la Méditerranée"
               },
               "tip_5lang": {
                 "de": "Oben ist es windgeschützt und warm; der ideale Ort, um die Wintersonne über dem Mittelmeer zu beobachten, ohne zu frieren.",
                 "hu": "A kilátóban szélvédett és meleg környezet fogadja; ideális hely a téli napsütés megfigyelésére a Földközi-tenger felett, fagyoskodás nélkül.",
                 "ro": "Sus este adăpostit de vânt și cald; locul ideal pentru a observa soarele de iarnă deasupra Mediteranei fără a tremura de frig.",
-                "en": "It's sheltered and warm at the top; the ideal place to watch the winter sun over the Mediterranean without feeling the chill."
+                "en": "It's sheltered and warm at the top; the ideal place to watch the winter sun over the Mediterranean without feeling the chill.",
+                "fr": "Il fait abrité et chaud au sommet ; l’endroit idéal pour observer le soleil d’hiver sur la Méditerranée sans ressentir la froideur."
               }
             },
             {
@@ -618,13 +686,15 @@
                 "de": "Palavas West",
                 "hu": "Nyugat-Palavas",
                 "ro": "Palavas Vest",
-                "en": "Palavas West"
+                "en": "Palavas West",
+                "fr": "Palavas West"
               },
               "tip_5lang": {
                 "de": "Die Radwege sind im Winter trocken, aber Vorsicht vor Raureif am frühen Morgen; tragen Sie Schichten, die Sie bei Bedarf anpassen können.",
                 "hu": "A kerékpárutak télen szárazak, de vigyázzon a kora reggeli dérre; viseljen réteges öltözetet, amelyet szükség szerint módosíthat.",
                 "ro": "Pistele de biciclete sunt uscate iarna, dar atenție la brumă dimineața devreme; purtați straturi de haine pe care să le puteți ajusta la nevoie.",
-                "en": "The cycle paths are dry in winter but watch out for frost in the early morning; wear layers that you can adjust as needed."
+                "en": "The cycle paths are dry in winter but watch out for frost in the early morning; wear layers that you can adjust as needed.",
+                "fr": "Les pistes cyclables sont sèches en hiver mais méfiez‑vous du givre tôt le matin ; portez des couches que vous pouvez ajuster selon les besoins."
               }
             },
             {
@@ -632,13 +702,15 @@
                 "de": "Étang du Prévost",
                 "hu": "Prévost-lagúna",
                 "ro": "Laguna Prévost",
-                "en": "Prévost Lagoon"
+                "en": "Prévost Lagoon",
+                "fr": "Prévost Lagoon"
               },
               "tip_5lang": {
                 "de": "Erleben Sie den Sonnenuntergang gegen 17 Uhr direkt vom Radweg aus; die kalte Luft macht die Farben des Himmels noch brillanter.",
                 "hu": "Élje át az 17 óra körüli naplementét közvetlenül a kerékpárútról; a hideg levegő még ragyogóbbá teszi az égbolt színeit.",
                 "ro": "Experimentați apusul de la ora 17:00 direct de pe pista de biciclete; aerul rece face culorile cerului și mai strălucitoare.",
-                "en": "Experience the 5:00 PM sunset directly from the cycle path; the cold air makes the colors of the sky appear even more brilliant."
+                "en": "Experience the 5:00 PM sunset directly from the cycle path; the cold air makes the colors of the sky appear even more brilliant.",
+                "fr": "Vivez le coucher du soleil à 17:00 directement depuis la piste cyclable ; l’air froid rend les couleurs du ciel encore plus vives."
               }
             }
           ]
@@ -658,7 +730,8 @@
             "de": "Étang de l'Arnel",
             "hu": "Arnel-lagúna",
             "ro": "Laguna Arnel",
-            "en": "Arnel Lagoon"
+            "en": "Arnel Lagoon",
+            "fr": "Arnel Lagoon"
           },
           "coords": [
             3.887441,
@@ -673,7 +746,8 @@
             "de": "Parken Sie am Rande dieser weiten Wasserlandschaft, um die Stille des Morgens zu genießen und die spiegelglatte Wasseroberfläche zu fotografieren.",
             "hu": "Parkoljon le ennek a hatalmas vízi tájnak a szélén, hogy élvezze a reggeli csendet és fényképezze a tükörsima vízfelszínt a felkelő napban.",
             "ro": "Parcați la marginea acestui peisaj vast de apă pentru a vă bucura de liniștea dimineții și a fotografia suprafața apei netedă ca sticla.",
-            "en": "Park on the edge of this vast watery landscape to enjoy the morning silence and perfectly photograph the mirror-like water surface."
+            "en": "Park on the edge of this vast watery landscape to enjoy the morning silence and perfectly photograph the mirror-like water surface.",
+            "fr": "Garez‑vous au bord de ce vaste paysage aquatique pour profiter du silence matinal et photographier la surface d’eau miroir."
           }
         },
         {
@@ -681,7 +755,8 @@
             "de": "Strand von Maguelone",
             "hu": "Maguelone-part",
             "ro": "Plaja Maguelone",
-            "en": "Maguelone Beach"
+            "en": "Maguelone Beach",
+            "fr": "Maguelone Beach"
           },
           "coords": [
             3.89852,
@@ -696,7 +771,8 @@
             "de": "Verbinden Sie Entspannung am unberührten Strand mit einem Spaziergang zur historischen Kathedrale, die sich hinter den Dünen versteckt.",
             "hu": "Kösse össze az érintetlen tengerparti pihenést a dűnék mögött megbúvó történelmi katedrálishoz tett kellemes sétával.",
             "ro": "Combinați relaxarea pe plaja neatinsă cu o plimbare spre catedrala istorică ascunsă chiar în spatele dunelor de nisip fin.",
-            "en": "Combine deep relaxation on the pristine beach with a short stroll to the historic cathedral hidden just behind the rolling dunes."
+            "en": "Combine deep relaxation on the pristine beach with a short stroll to the historic cathedral hidden just behind the rolling dunes.",
+            "fr": "Alliez détente profonde sur la plage immaculée et une courte promenade jusqu'à la cathédrale historique cachée juste derrière les dunes ondulantes."
           }
         },
         {
@@ -704,7 +780,8 @@
             "de": "Étang du Prévost",
             "hu": "Prévost-lagúna",
             "ro": "Laguna Prévost",
-            "en": "Prévost Lagoon"
+            "en": "Prévost Lagoon",
+            "fr": "Lagune de Prévost"
           },
           "coords": [
             3.901643,
@@ -719,7 +796,8 @@
             "de": "Lassen Sie das Auto stehen und erkunden Sie die Uferpfade zu Fuß, wo traditionelle Fischerhütten wunderbare Fotomotive im sanften Licht bieten.",
             "hu": "Hagyja hátra az autót, és fedezze fel gyalog a parti ösvényeket, ahol a hagyományos halászkunyhók csodálatos fotótémákat kínálnak.",
             "ro": "Lăsați mașina și explorați cărările de coastă pe jos, unde colibele tradiționale ale pescarilor oferă motive fotografice minunate în lumina blândă.",
-            "en": "Leave the car behind and explore the coastal paths on foot, where traditional fishing huts offer wonderful photo opportunities in soft light."
+            "en": "Leave the car behind and explore the coastal paths on foot, where traditional fishing huts offer wonderful photo opportunities in soft light.",
+            "fr": "Laissez la voiture et explorez les sentiers côtiers à pied, où les cabanes de pêche traditionnelles offrent de superbes opportunités photo dans une lumière douce."
           }
         },
         {
@@ -727,7 +805,8 @@
             "de": "Étang du Méjean",
             "hu": "Méjean-lagúna",
             "ro": "Laguna Méjean",
-            "en": "Méjean Lagoon"
+            "en": "Méjean Lagoon",
+            "fr": "Lagune du Méjean"
           },
           "coords": [
             3.919758,
@@ -742,7 +821,8 @@
             "de": "Nutzen Sie die speziell angelegten Holzstege für einen Spaziergang tief ins Schilf hinein, fernab vom Motorenlärm der Straße.",
             "hu": "Használja a speciálisan épített fapallókat egy mélyreható sétához a nádasban, távol az utak zajától és a motorok zúgásától.",
             "ro": "Folosiți pasarelele din lemn special construite pentru a face o plimbare adânc în stuf, departe de zgomotul motoarelor de pe șosea.",
-            "en": "Use the specially built wooden walkways to take a stroll deep into the reeds, far away from the engine noise of the main road."
+            "en": "Use the specially built wooden walkways to take a stroll deep into the reeds, far away from the engine noise of the main road.",
+            "fr": "Empruntez les passerelles en bois spécialement construites pour vous enfoncer dans les roseaux, loin du bruit des moteurs de la route principale."
           }
         },
         {
@@ -750,7 +830,8 @@
             "de": "Étang de Pérols",
             "hu": "Pérols-lagúna",
             "ro": "Laguna Pérols",
-            "en": "Pérols Lagoon"
+            "en": "Pérols Lagoon",
+            "fr": "Lagune de Pérols"
           },
           "coords": [
             3.953005,
@@ -765,7 +846,8 @@
             "de": "Beobachten Sie die vielen Reiher und Möwen bei der Jagd, und nutzen Sie das flache Wasser für wunderschöne Spiegelungsfotografien am Nachmittag.",
             "hu": "Figyelje meg a vadászó gémeket és sirályokat, és használja ki a sekély vizet a délutáni gyönyörű tükröződéses fotókhoz.",
             "ro": "Urmăriți numeroșii stârci și pescăruși la vânătoare și folosiți apa puțin adâncă pentru fotografii minunate de reflexie după-amiaza.",
-            "en": "Watch the many herons and seagulls hunting, and utilize the shallow water to capture beautiful reflection photographs in the afternoon."
+            "en": "Watch the many herons and seagulls hunting, and utilize the shallow water to capture beautiful reflection photographs in the afternoon.",
+            "fr": "Observez les nombreux hérons et mouettes en chasse et profitez des eaux peu profondes pour capturer de belles photos de reflets l'après-midi."
           }
         },
         {
@@ -773,7 +855,8 @@
             "de": "Étang du Grec",
             "hu": "Görög-lagúna",
             "ro": "Laguna Grecului",
-            "en": "Greek Lagoon"
+            "en": "Greek Lagoon",
+            "fr": "Lagune grecque"
           },
           "coords": [
             3.945055,
@@ -788,7 +871,8 @@
             "de": "Beenden Sie Ihre Lagunentour an diesem magischen Ort, wenn die untergehende Sonne die Federn der Flamingos intensiv rosarot leuchten lässt.",
             "hu": "Fejezze be lagúnatúráját ezen a varázslatos helyen, amikor a lemenő nap intenzív rózsaszínűre festi az itteni flamingók tollait.",
             "ro": "Încheiați turul lagunei în acest loc magic când soarele la apus face ca penele flamingo-urilor să strălucească roz intens.",
-            "en": "Finish your grand lagoon tour at this magical place, right when the setting sun makes the local flamingos' feathers glow an intense pink."
+            "en": "Finish your grand lagoon tour at this magical place, right when the setting sun makes the local flamingos' feathers glow an intense pink.",
+            "fr": "Terminez votre grande visite des lagunes à cet endroit magique, juste quand le soleil couchant fait briller intensément le plumage rose des flamants locaux."
           }
         }
       ],
@@ -796,7 +880,8 @@
         "de": "Ihre Autofahrt fokussiert sich auf die naturbelassenen Wasserlandschaften der Region. Starten Sie ruhig am Étang de l'Arnel und besuchen Sie vormittags die naturbelassene Plage Maguelone. Der Mittag gehört dem Étang du Prévost und dem versteckten Étang du Méjean mit seinen schönen Holzstegen. Später am Nachmittag schließen Sie an den Seen von Pérols und am Étang du Grec ab, wo unzählige Vögel leben.",
         "hu": "Az autós túra a régió természetes vízi tájaira összpontosít. Kezdje nyugodtan az Arnel-lagúnánál, és látogasson el a természetes Maguelone-partra. A dél a Prévost és az eldugott Méjean-lagúnáé, gyönyörű fapallóival. Később délután a Pérols-tavaknál és a számtalan madárnak otthont adó Görög-lagúnánál zárja útját.",
         "ro": "Călătoria cu mașina se concentrează pe peisajele naturale de apă. Începeți la Laguna Arnel și vizitați dimineața plaja naturală Maguelone. Prânzul este pentru Laguna Prévost și Laguna ascunsă Méjean, cu pasarelele sale de lemn. Mai târziu după-amiaza, finalizați la lacurile din Pérols și Laguna Grec, unde trăiesc nenumărate păsări.",
-        "en": "Your driving tour focuses entirely on the region's natural watery landscapes. Start peacefully at the Arnel Lagoon and visit the natural Maguelone Beach in the morning. Midday belongs to the Prévost Lagoon and the hidden Méjean Lagoon with its lovely wooden walkways. Later, conclude at the Pérols lakes and Greek Lagoon, home to countless birds."
+        "en": "Your driving tour focuses entirely on the region's natural watery landscapes. Start peacefully at the Arnel Lagoon and visit the natural Maguelone Beach in the morning. Midday belongs to the Prévost Lagoon and the hidden Méjean Lagoon with its lovely wooden walkways. Later, conclude at the Pérols lakes and Greek Lagoon, home to countless birds.",
+        "fr": "Votre circuit en voiture se concentre entièrement sur les paysages aquatiques naturels de la région. Commencez paisiblement à la lagune d'Arnel et visitez la plage naturelle de Maguelone le matin. Le midi est consacré à la lagune de Prévost et à la lagune cachée du Méjean avec ses charmantes passerelles en bois. Plus tard, concluez aux lacs de Pérols et à la lagune grecque, refuge d'innombrables oiseaux."
       },
       "variants": {
         "rainy": {
@@ -804,7 +889,8 @@
             "de": "Die Autotour ist perfekt für Regentage, da Sie die Lagunenlandschaft trocken durchqueren können. Starten Sie im Westen an der Arnel-Lagune und beobachten Sie den Regen aus dem Wagen. Mittags bietet Maguelone eine mystische Stimmung. Besuchen Sie die verschiedenen Lagunen am Nachmittag, wobei das Auto als mobiler Unterschlupf dient. Beenden Sie den Tag sicher und entspannt bei der Grec-Lagune.",
             "hu": "Az autós túra tökéletes esős napokra, hiszen szárazon szelheti át a lagúnák vidékét. Kezdjen nyugaton az Arnel-lagúnánál, figyelje az esőt az autóból. Délben Maguelone misztikus hangulatot áraszt. Délután látogassa végig a többi lagúnát, az autót mobil menedékként használva. Zárja a napot biztonságban és kényelemben a Görög-lagúnánál.",
             "ro": "Turul cu mașina este perfect pentru zilele ploioase, permițându-vă să traversați zona lagunelor la uscat. Începeți în vest la laguna Arnel, privind ploaia din mașină. La prânz, Maguelone oferă o atmosferă mistică. După-amiaza vizitați restul lagunelor, folosind mașina ca adăpost mobil. Încheiați ziua în siguranță și confort la laguna Grec.",
-            "en": "A car tour is perfect for rainy days as you can traverse the lagoon landscape while staying dry. Start west at Arnel Lagoon, watching the rain from your vehicle. At noon, Maguelone offers a mystical atmosphere. Visit the various lagoons in the afternoon using your car as a mobile shelter. End your day safely and comfortably at the Greek Lagoon."
+            "en": "A car tour is perfect for rainy days as you can traverse the lagoon landscape while staying dry. Start west at Arnel Lagoon, watching the rain from your vehicle. At noon, Maguelone offers a mystical atmosphere. Visit the various lagoons in the afternoon using your car as a mobile shelter. End your day safely and comfortably at the Greek Lagoon.",
+            "fr": "Un circuit en voiture est parfait par temps de pluie car vous pouvez traverser le paysage des lagunes tout en restant au sec. Commencez à l'ouest à la lagune d'Arnel, en observant la pluie depuis votre véhicule. À midi, Maguelone offre une atmosphère mystique. Visitez les différentes lagunes l'après-midi en utilisant votre voiture comme abri mobile. Terminez la journée en toute sécurité et confortablement à la lagune grecque."
           },
           "stops": [
             {
@@ -812,13 +898,15 @@
                 "de": "Étang de l'Arnel",
                 "hu": "Arnel-lagúna",
                 "ro": "Laguna Arnel",
-                "en": "Arnel Lagoon"
+                "en": "Arnel Lagoon",
+                "fr": "Lagune d'Arnel"
               },
               "tip_5lang": {
                 "de": "Parken Sie an den Aussichtspunkten und beobachten Sie die Flamingos durch die Windschutzscheibe, um nicht nass zu werden.",
                 "hu": "Parkoljon le a kilátópontoknál, és figyelje a flamingókat a szélvédőn keresztül, így anélkül láthatja őket, hogy megázna a szitáló esőben.",
                 "ro": "Parcați la punctele de observație și urmăriți păsările flamingo prin parbriz pentru a nu vă uda în ploaia măruntă.",
-                "en": "Park at the designated viewpoints and watch the flamingos through your windshield to see them without getting soaked in the drizzle."
+                "en": "Park at the designated viewpoints and watch the flamingos through your windshield to see them without getting soaked in the drizzle.",
+                "fr": "Garez-vous aux points de vue désignés et observez les flamants par votre pare-brise pour les voir sans vous faire tremper par la bruine."
               }
             },
             {
@@ -826,13 +914,15 @@
                 "de": "Strand von Maguelone",
                 "hu": "Maguelone-part",
                 "ro": "Plaja Maguelone",
-                "en": "Maguelone Beach"
+                "en": "Maguelone Beach",
+                "fr": "Plage de Maguelone"
               },
               "tip_5lang": {
                 "de": "Die Zufahrt kann bei Starkregen rutschig sein; fahren Sie vorsichtig und genießen Sie das dramatische Bild der aufgewühlten Brandung.",
                 "hu": "A bevezető út heves esőzéskor csúszós lehet; vezessen óvatosan, és élvezze a felkorbácsolt tengeri hullámok drámai látványát a partnál.",
                 "ro": "Drumul de acces poate fi alunecos în caz de ploaie torențială; conduceți cu atenție și bucurați-vă de spectacolul dramatic al valurilor marii.",
-                "en": "The access road can be slippery during heavy rain; drive carefully and enjoy the dramatic sight of the turbulent sea waves crashing nearby."
+                "en": "The access road can be slippery during heavy rain; drive carefully and enjoy the dramatic sight of the turbulent sea waves crashing nearby.",
+                "fr": "La route d'accès peut devenir glissante par forte pluie ; conduisez prudemment et profitez du spectacle dramatique des vagues déchaînées frappant la côte."
               }
             },
             {
@@ -840,13 +930,15 @@
                 "de": "Étang du Prévost",
                 "hu": "Prévost-lagúna",
                 "ro": "Laguna Prévost",
-                "en": "Prévost Lagoon"
+                "en": "Prévost Lagoon",
+                "fr": "Lagune de Prévost"
               },
               "tip_5lang": {
                 "de": "Nutzen Sie die Parkplätze direkt am Wasser für einen kurzen, regenfesten Fotostopp der vom Regen gezeichneten Wasseroberfläche.",
                 "hu": "Használja a közvetlenül a víz melletti parkolókat egy rövid, esőbiztos fotómegállóhoz a csapadék által fodrozott vízfelszínről.",
                 "ro": "Folosiți parcările de lângă apă pentru o scurtă oprire foto protejată de ploaie, surprinzând suprafața apei încrețită de picături.",
-                "en": "Use the parking lots right by the water for a quick, rain-safe photo stop to capture the water's surface rippling from the rainfall."
+                "en": "Use the parking lots right by the water for a quick, rain-safe photo stop to capture the water's surface rippling from the rainfall.",
+                "fr": "Utilisez les parkings au bord de l'eau pour un arrêt photo rapide et abrité afin de capturer la surface de l'eau ridée par la pluie."
               }
             },
             {
@@ -854,13 +946,15 @@
                 "de": "Étang du Méjean",
                 "hu": "Méjean-lagúna",
                 "ro": "Laguna Méjean",
-                "en": "Méjean Lagoon"
+                "en": "Méjean Lagoon",
+                "fr": "Lagune du Méjean"
               },
               "tip_5lang": {
                 "de": "Die Wege zum Ufer können aufgeweicht sein; bleiben Sie auf den befestigten Parkflächen und genießen Sie die Ruhe der Natur im Regen.",
                 "hu": "A partra vezető utak felázhatnak; maradjon a szilárd burkolatú parkolóhelyeken, és élvezze a természet nyugalmát az esőben.",
                 "ro": "Potecile spre mal pot fi noroioase; rămâneți în zonele de parcare asfaltate și bucurați-vă de liniștea naturii sub ploaie.",
-                "en": "The paths to the shore can get muddy; stay on the paved parking areas and enjoy the peacefulness of nature during the rainfall."
+                "en": "The paths to the shore can get muddy; stay on the paved parking areas and enjoy the peacefulness of nature during the rainfall.",
+                "fr": "Les sentiers vers le rivage peuvent devenir boueux ; restez sur les zones de stationnement pavées et appréciez la quiétude de la nature pendant l'averse."
               }
             },
             {
@@ -868,13 +962,15 @@
                 "de": "Étang de Pérols",
                 "hu": "Pérols-lagúna",
                 "ro": "Laguna Pérols",
-                "en": "Pérols Lagoon"
+                "en": "Pérols Lagoon",
+                "fr": "Lagune de Pérols"
               },
               "tip_5lang": {
                 "de": "Ein idealer Ort, um die Lichtverhältnisse im Regen zu bewundern; achten Sie beim Aussteigen auf tiefe Pfützen am Fahrbahnrand.",
                 "hu": "Ideális hely az esőben kialakuló fényviszonyok megcsodálásához; kiszálláskor ügyeljen az útszéli mély tócsákra és a csúszós útpadkára.",
                 "ro": "Loc ideal pentru a admira jocurile de lumină pe timp de ploaie; la coborâre, atenție la bălțile adânci de la marginea drumului.",
-                "en": "An ideal spot to admire the light conditions during rain; watch out for deep puddles at the roadside when getting out of the car."
+                "en": "An ideal spot to admire the light conditions during rain; watch out for deep puddles at the roadside when getting out of the car.",
+                "fr": "Un endroit idéal pour admirer les conditions lumineuses sous la pluie ; faites attention aux grandes flaques au bord de la route en sortant de la voiture."
               }
             },
             {
@@ -882,13 +978,15 @@
                 "de": "Étang du Grec",
                 "hu": "Görög-lagúna",
                 "ro": "Laguna Grecului",
-                "en": "Greek Lagoon"
+                "en": "Greek Lagoon",
+                "fr": "Lagune grecque"
               },
               "tip_5lang": {
                 "de": "Beenden Sie die Tour im Wagen mit Blick auf das graue Mittelmeer und schalten Sie die Scheibenwischer für eine klare Sicht auf die Vögel ein.",
                 "hu": "Zárja a túrát az autóban, a szürke tengerre nézve; kapcsolja be az ablaktörlőt, hogy tiszta rálátása legyen az esőben pihenő madarakra.",
                 "ro": "Încheiați turul în mașină, privind marea gri; porniți ștergătoarele pentru a avea o vedere clară asupra păsărilor care se odihnesc pe ploaie.",
-                "en": "End your tour in the car overlooking the grey Mediterranean; keep your wipers on for a clear view of the birds resting in the rain."
+                "en": "End your tour in the car overlooking the grey Mediterranean; keep your wipers on for a clear view of the birds resting in the rain.",
+                "fr": "Terminez votre circuit en voiture en surplomb de la Méditerranée grise ; gardez vos essuie-glaces en marche pour une vue claire des oiseaux au repos sous la pluie."
               }
             }
           ]
@@ -898,7 +996,8 @@
             "de": "Die winterliche Autotour um Palavas bietet Komfort und spektakuläre Aussichten. Beginnen Sie morgens im Westen, wenn der Nebel über den Lagunen aufsteigt. Mittags lädt die Umgebung von Maguelone zu kurzen, erfrischenden Spaziergängen ein. Am Nachmittag erkunden Sie die verschiedenen Teiche in der angenehmen Wärme Ihres Wagens. Planen Sie den Abschluss an der Grec-Lagune für den Sonnenuntergang um 17:00 Uhr ein.",
             "hu": "A téli autós túra Palavas környékén kényelmet és látványos kilátást kínál. Kezdjen reggel nyugaton, amikor a köd felszáll a lagúnák felett. Délben Maguelone környéke hívogat rövid, frissítő sétákra. Délután fedezze fel a különböző tavakat az autó kellemes melegéből. A túra végét a Görög-lagúnához időzítse az 17:00 körüli naplementére.",
             "ro": "Turul cu mașina iarna în jurul Palavas oferă confort și vederi spectaculoase. Începeți dimineața în vest, când ceața se ridică deasupra lagunelor. La prânz, zona Maguelone vă invită la scurte plimbări revigorante. După-amiaza explorați restul lacurilor din căldura mașinii. Planificați finalul la laguna Grec pentru apusul de la ora 17:00.",
-            "en": "A winter car tour around Palavas offers comfort and spectacular views. Start in the morning in the west as mist rises over the lagoons. At noon, the Maguelone area invites you for short, refreshing walks. In the afternoon, explore the various ponds from the warmth of your car. Plan to finish at the Greek Lagoon for the 5:00 PM sunset."
+            "en": "A winter car tour around Palavas offers comfort and spectacular views. Start in the morning in the west as mist rises over the lagoons. At noon, the Maguelone area invites you for short, refreshing walks. In the afternoon, explore the various ponds from the warmth of your car. Plan to finish at the Greek Lagoon for the 5:00 PM sunset.",
+            "fr": "Une excursion en voiture hivernale autour de Palavas offre confort et vues spectaculaires. Commencez le matin à l'ouest tandis que la brume se lève sur les lagunes. À midi, le secteur de Maguelone invite à de courtes promenades vivifiantes. L'après-midi, explorez les différents étangs depuis la chaleur de votre voiture. Prévoyez de finir à la lagune grecque pour le coucher du soleil à 17:00."
           },
           "stops": [
             {
@@ -906,13 +1005,15 @@
                 "de": "Étang de l'Arnel",
                 "hu": "Arnel-lagúna",
                 "ro": "Laguna Arnel",
-                "en": "Arnel Lagoon"
+                "en": "Arnel Lagoon",
+                "fr": "Lagune d'Arnel"
               },
               "tip_5lang": {
                 "de": "Im Winter ist das Licht morgens besonders weich; nutzen Sie die Standheizung Ihres Wagens, während Sie die ruhige Wasserfläche beobachten.",
                 "hu": "Télen a reggeli fények különösen lágyak; használja az autó fűtését, miközben a nyugodt, néha deres vízfelszínt figyeli a parkolóból.",
                 "ro": "Iarna luminile dimineții sunt deosebit de blânde; folosiți încălzirea mașinii în timp ce observați suprafața liniștită a apei din parcare.",
-                "en": "The morning light is especially soft in winter; use your car's heater while you watch the calm, sometimes frosty water from the parking area."
+                "en": "The morning light is especially soft in winter; use your car's heater while you watch the calm, sometimes frosty water from the parking area.",
+                "fr": "La lumière du matin est particulièrement douce en hiver ; utilisez le chauffage de votre voiture tout en observant l'eau calme, parfois givrée, depuis l'aire de stationnement."
               }
             },
             {
@@ -920,13 +1021,15 @@
                 "de": "Strand von Maguelone",
                 "hu": "Maguelone-part",
                 "ro": "Plaja Maguelone",
-                "en": "Maguelone Beach"
+                "en": "Maguelone Beach",
+                "fr": "Plage de Maguelone"
               },
               "tip_5lang": {
                 "de": "Der Parkplatz ist im Winter fast leer; machen Sie einen kurzen Gang ans Meer, um die frische Brise zu spüren, bevor Sie sich im Auto aufwärmen.",
                 "hu": "A parkoló télen szinte üres; tegyen egy rövid sétát a tengerparton, hogy érezze a friss szellőt, majd melegedjen fel újra az autóban.",
                 "ro": "Parcarea este aproape goală iarna; faceți o scurtă plimbare pe malul mării pentru a simți briza proaspătă, apoi încălziți-vă în mașină.",
-                "en": "The parking lot is almost empty in winter; take a quick walk to the sea to feel the fresh breeze before warming up again in your car."
+                "en": "The parking lot is almost empty in winter; take a quick walk to the sea to feel the fresh breeze before warming up again in your car.",
+                "fr": "Le parking est presque vide en hiver ; faites une courte promenade jusqu'à la mer pour sentir la brise fraîche avant de vous réchauffer à nouveau dans la voiture."
               }
             },
             {
@@ -934,13 +1037,15 @@
                 "de": "Étang du Prévost",
                 "hu": "Prévost-lagúna",
                 "ro": "Laguna Prévost",
-                "en": "Prévost Lagoon"
+                "en": "Prévost Lagoon",
+                "fr": "Lagune de Prévost"
               },
               "tip_5lang": {
                 "de": "Die klare Winterluft sorgt für exzellente Sichtverhältnisse; halten Sie Ausschau nach Seevögeln, die im flachen Wasser der Lagune nach Futter suchen.",
                 "hu": "A tiszta téli levegő kiváló látási viszonyokat biztosít; figyelje a tengeri madarakat, amint a lagúna sekély vizében táplálék után kutatnak.",
                 "ro": "Aerul curat de iarnă asigură condiții de vizibilitate excelente; căutați păsările marine care caută hrană în apele puțin adânci ale lagunei.",
-                "en": "The crisp winter air provides excellent visibility; keep an eye out for seabirds foraging for food in the shallow waters of the lagoon."
+                "en": "The crisp winter air provides excellent visibility; keep an eye out for seabirds foraging for food in the shallow waters of the lagoon.",
+                "fr": "L'air vif de l'hiver offre une excellente visibilité ; gardez l'œil sur les oiseaux marins qui cherchent de la nourriture dans les eaux peu profondes de la lagune."
               }
             },
             {
@@ -948,13 +1053,15 @@
                 "de": "Étang du Méjean",
                 "hu": "Méjean-lagúna",
                 "ro": "Laguna Méjean",
-                "en": "Méjean Lagoon"
+                "en": "Méjean Lagoon",
+                "fr": "Lagune du Méjean"
               },
               "tip_5lang": {
                 "de": "Parken Sie windgeschützt und genießen Sie den Blick auf das Schilf, das im Winter golden leuchtet, während Sie eine Thermoskanne Tee genießen.",
                 "hu": "Parkoljon szélvédett helyen, és élvezze a télen aranyló nádas látványát, miközben egy termosz forró teát kortyolgat az autóban.",
                 "ro": "Parcați într-un loc ferit de vânt și admirați stuful care strălucește auriu iarna în timp ce beți un ceai fierbinte din termos.",
-                "en": "Park in a wind-sheltered spot and enjoy the view of the reeds glowing golden in winter while sipping hot tea from a thermos in the car."
+                "en": "Park in a wind-sheltered spot and enjoy the view of the reeds glowing golden in winter while sipping hot tea from a thermos in the car.",
+                "fr": "Garez-vous dans un endroit abrité du vent et admirez les roseaux dorés en hiver tout en sirotant un thé chaud sorti d'un thermos dans la voiture."
               }
             },
             {
@@ -962,13 +1069,15 @@
                 "de": "Étang de Pérols",
                 "hu": "Pérols-lagúna",
                 "ro": "Laguna Pérols",
-                "en": "Pérols Lagoon"
+                "en": "Pérols Lagoon",
+                "fr": "Lagune de Pérols"
               },
               "tip_5lang": {
                 "de": "Achten Sie auf tiefstehende Sonnenstrahlen, die den Asphalt blenden können; eine Sonnenbrille ist auch im Winter bei der Fahrt unverzichtbar.",
                 "hu": "Ügyeljen az alacsonyan járó nap sugaraira, amelyek elvakíthatják vezetés közben; a napszemüveg télen is elengedhetetlen az autózáshoz.",
                 "ro": "Atenție la razele soarelui care apune și care vă pot orbi la volan; ochelarii de soare sunt indispensabili pentru condus și iarna.",
-                "en": "Watch out for the low-hanging sun which can blind you while driving; sunglasses are essential for car travel even during the winter months."
+                "en": "Watch out for the low-hanging sun which can blind you while driving; sunglasses are essential for car travel even during the winter months.",
+                "fr": "Attention au soleil bas qui peut vous éblouir en conduisant ; des lunettes de soleil sont indispensables même en hiver lors d'un voyage en voiture."
               }
             },
             {
@@ -976,13 +1085,15 @@
                 "de": "Étang du Grec",
                 "hu": "Görög-lagúna",
                 "ro": "Laguna Grecului",
-                "en": "Greek Lagoon"
+                "en": "Greek Lagoon",
+                "fr": "Lagune grecque"
               },
               "tip_5lang": {
                 "de": "Der Sonnenuntergang gegen 17 Uhr ist im Winter besonders farbenfroh; genießen Sie das Schauspiel bequem und warm durch die Autofenster.",
                 "hu": "A 17 óra körüli naplemente télen különösen színpompás; élvezze a látványt kényelmesen és melegben az autó ablakaiból figyelve.",
                 "ro": "Apusul de la ora 17:00 este deosebit de colorat iarna; bucurați-vă de spectacol confortabil și la căldură, privind prin geamurile mașinii.",
-                "en": "The sunset around 5:00 PM is especially colorful in winter; enjoy the spectacle comfortably and warmly while watching through the car windows."
+                "en": "The sunset around 5:00 PM is especially colorful in winter; enjoy the spectacle comfortably and warmly while watching through the car windows.",
+                "fr": "Le coucher du soleil vers 17:00 est particulièrement coloré en hiver ; profitez du spectacle confortablement et au chaud en regardant à travers les vitres de la voiture."
               }
             }
           ]

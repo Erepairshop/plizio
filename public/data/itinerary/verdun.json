@@ -51,7 +51,7 @@
             "hu": "A régi városkapu a Maas-partján.",
             "ro": "Vechea poartă a orașului pe malul râului Meuse.",
             "en": "The old city gate on the banks of the Meuse.",
-            "fr": "L'ancienne porte de la ville sur les bords de la Meuse."
+            "fr": "La vieille porte de la ville sur les rives de la Meuse."
           }
         },
         {
@@ -70,7 +70,7 @@
             "hu": "Európa egyik legrégebbi katedrálisa.",
             "ro": "Una dintre cele mai vechi catedrale din Europa.",
             "en": "One of the oldest cathedrals in Europe.",
-            "fr": "L'une des plus anciennes cathédrales d'Europe."
+            "fr": "Une des plus anciennes cathédrales d’Europe."
           }
         },
         {
@@ -89,7 +89,7 @@
             "hu": "Az egykori püspöki palotában található.",
             "ro": "Situat în fostul palat episcopal.",
             "en": "Located in the former bishop's palace.",
-            "fr": "Situé dans l'ancien palais épiscopal."
+            "fr": "Situé dans l’ancien palais épiscopal."
           }
         },
         {
@@ -108,7 +108,7 @@
             "hu": "Számos kávézó a folyóparton.",
             "ro": "Multe cafenele pe malul râului.",
             "en": "Many cafes along the riverbank.",
-            "fr": "De nombreux cafés le long de la rive."
+            "fr": "Beaucoup de cafés le long des quais."
           }
         },
         {
@@ -127,7 +127,7 @@
             "hu": "Foglalja le előre a földalatti túrát.",
             "ro": "Rezervați din timp turul subteran.",
             "en": "Book the underground tour in advance.",
-            "fr": "Réservez la visite souterraine à l'avance."
+            "fr": "Réservez la visite souterraine à l’avance."
           }
         }
       ],
@@ -136,7 +136,7 @@
         "hu": "Fedezze fel Verdunt gyalogosan a Maas folyó mentén. A monumentális győzelmi emlékműtől az impozáns katedrálisig és a Béke Központig vezet az út. A napot a földalatti citadella lenyűgöző történelmi betekintése zárja.",
         "ro": "Explorați Verdunul la pas pe malul râului Meuse. De la monumentul victoriei la catedrala impunătoare și Centrul Mondial al Păcii. Ziua se încheie cu o incursiune fascinantă în istoria citadelei subterane.",
         "en": "Explore Verdun on foot along the Meuse. From the monumental victory memorial, head to the imposing cathedral and the Peace Center. The day ends with a fascinating insight into history at the underground citadel.",
-        "fr": "Explorez Verdun à pied le long de la Meuse. Depuis le monumental monument de la victoire, dirigez-vous vers l'imposante cathédrale et le Centre de la Paix. La journée se termine par une plongée fascinante dans l'histoire à la citadelle souterraine."
+        "fr": "Explorez Verdun à pied le long de la Meuse. Du monument national de la victoire, dirigez-vous vers la cathédrale imposante et le Centre de la Paix. La journée se termine par une visite fascinante de l’histoire à la citadelle souterraine."
       },
       "gastro_picks": {
         "de": [
@@ -265,10 +265,10 @@
           "Visit the tourism office for maps."
         ],
         "fr": [
-          "La Citadelle est fraîche, apportez une veste.",
-          "La promenade au bord de l'eau est très relaxante.",
-          "Des parkings sont disponibles au centre-ville.",
-          "Passez à l'office de tourisme pour des plans."
+          "La Citadelle est fraîche, prenez une veste.",
+          "La promenade au bord du fleuve est très relaxante.",
+          "Un parking est disponible en centre-ville.",
+          "Visitez l’office de tourisme pour des plans."
         ]
       }
     },
@@ -296,7 +296,7 @@
             "hu": "Kezdje a túrát az emlékműnél.",
             "ro": "Începeți turul la monument.",
             "en": "Start your tour at the monument.",
-            "fr": "Commencez votre tour au monument."
+            "fr": "Commencez votre visite au monument."
           }
         },
         {
@@ -315,7 +315,7 @@
             "hu": "Egy elpusztult falu, amit sosem építettek újjá.",
             "ro": "Un sat distrus care nu a mai fost reconstruit.",
             "en": "A destroyed village that was never rebuilt.",
-            "fr": "Un village détruit qui n'a jamais été reconstruit."
+            "fr": "Un village détruit qui n’a jamais été reconstruit."
           }
         },
         {
@@ -334,7 +334,7 @@
             "hu": "Lenyűgöző és megrendítő emlékhely.",
             "ro": "Monument comemorativ impresionant.",
             "en": "Impressive and moving memorial site.",
-            "fr": "Un site commémoratif impressionnant et émouvant."
+            "fr": "Site commémoratif impressionnant et émouvant."
           }
         },
         {
@@ -353,7 +353,7 @@
             "hu": "Tekintse meg az erőd belsejét.",
             "ro": "Vizitați interiorul fortului.",
             "en": "Visit the inside of the fort.",
-            "fr": "Visitez l'intérieur du fort."
+            "fr": "Visitez l’intérieur du fort."
           }
         },
         {
@@ -381,7 +381,7 @@
         "hu": "Ez a kerékpártúra a városból közvetlenül a verduni csataterekhez vezet. Meglátogatja a Douaumont-i osszáriumot és a Vaux-erődöt. A visszaút pihentető biciklizés a Maas folyó mentén a központba.",
         "ro": "Acest tur cu bicicleta vă scoate din oraș direct pe câmpurile de luptă din Verdun. Veți vizita Osuarul de la Douaumont și Fortul Vaux. Întoarcerea este o plimbare relaxantă pe malul râului Meuse.",
         "en": "This bike tour takes you out of the city directly to the key battlefields of Verdun. You will visit the Douaumont Ossuary and Fort Vaux. The return journey is a relaxing ride along the Meuse back to the center.",
-        "fr": "Ce tour à vélo vous emmène hors de la ville, directement vers les principaux champs de bataille de Verdun. Vous visiterez l'Ossuaire de Douaumont et le Fort de Vaux. Le retour est une balade relaxante le long de la Meuse vers le centre."
+        "fr": "Cette balade à vélo vous emmène hors de la ville directement vers les principaux champs de bataille de Verdun. Vous visiterez l’Ossuaire de Douaumont et le fort de Vaux. Le retour se fait par une promenade détendue le long de la Meuse jusqu’au centre."
       },
       "gastro_picks": {
         "de": [
@@ -510,10 +510,10 @@
           "Take tools for flat tires."
         ],
         "fr": [
-          "Quelques montées vers les champs de bataille.",
+          "Quelques montées en direction des champs de bataille.",
           "Portez un casque.",
-          "Surveillez la météo.",
-          "Prévoyez des outils en cas de crevaison."
+          "Faites attention à la météo.",
+          "Prenez des outils pour les crevaisons."
         ]
       }
     },
@@ -541,7 +541,7 @@
             "hu": "Modern és rendkívül informatív múzeum.",
             "ro": "Un muzeu modern și foarte informativ.",
             "en": "A modern and very informative museum.",
-            "fr": "Un musée moderne et très instructif."
+            "fr": "Un musée moderne et très informatif."
           }
         },
         {
@@ -560,7 +560,7 @@
             "hu": "A védelmi gyűrű legnagyobb erődje.",
             "ro": "Cel mai mare fort din centura de apărare.",
             "en": "The largest fort in the defense ring.",
-            "fr": "Le plus grand fort de la ceinture défensive."
+            "fr": "Le plus grand fort de l’anneau défensif."
           }
         },
         {
@@ -579,7 +579,7 @@
             "hu": "Jelképes és megrendítő emlékhely.",
             "ro": "Un loc simbolic de comemorare.",
             "en": "A symbolic site of remembrance.",
-            "fr": "Un site hautement symbolique du souvenir."
+            "fr": "Un site symbolique de mémoire."
           }
         },
         {
@@ -598,7 +598,7 @@
             "hu": "Idő egy kávéra a rakparton.",
             "ro": "Timp pentru o cafea pe chei.",
             "en": "Time for a coffee on the quay.",
-            "fr": "Pause café sur les quais."
+            "fr": "Temps pour un café sur le quai."
           }
         },
         {
@@ -617,7 +617,7 @@
             "hu": "A híres drazsék gyári boltja.",
             "ro": "Magazinul fabricii de drajeuri celebre.",
             "en": "Factory shop for the famous dragées.",
-            "fr": "Boutique d'usine des célèbres dragées."
+            "fr": "Magasin d’usine des célèbres dragées."
           }
         }
       ],
@@ -626,7 +626,7 @@
         "hu": "Ez az autós útvonal lehetővé teszi a kiterjedt csataterek hatékony bejárását. A Verduni Emlékmű és a Douaumont-erőd mély történelmi betekintést nyújt. Visszatérve a városba, fedezze fel a híres helyi édességet, a drazsét.",
         "ro": "Acest traseu auto vă permite să vizitați eficient câmpurile de luptă întinse. Memorialul Verdun și Fortul Douaumont oferă o perspectivă istorică profundă. La întoarcerea în oraș, descoperiți faimoasele drajeuri locale.",
         "en": "This car route allows you to visit the extensive battlefields efficiently. The Verdun Memorial and Fort Douaumont offer deep historical insights. Back in the city, discover the famous local sweet, the dragée.",
-        "fr": "Cet itinéraire en voiture permet de visiter efficacement les vastes champs de bataille. Le Mémorial de Verdun et le Fort de Douaumont offrent des perspectives historiques profondes. De retour en ville, découvrez la célèbre douceur locale : la dragée."
+        "fr": "Cet itinéraire en voiture vous permet de visiter efficacement les vastes champs de bataille. Le Mémorial de Verdun et le fort de Douaumont offrent des perspectives historiques profondes. De retour en ville, découvrez la célèbre spécialité locale, la dragée."
       },
       "gastro_picks": {
         "de": [
@@ -755,10 +755,10 @@
           "Follow the 'Champ de Bataille' signs."
         ],
         "fr": [
-          "Parking disponible à tous les monuments.",
+          "Des parkings sont disponibles à tous les monuments.",
           "Prévoyez suffisamment de temps pour le Mémorial.",
           "Les routes sont bien entretenues.",
-          "Suivez les panneaux 'Champ de Bataille'."
+          "Suivez les panneaux « Champ de Bataille »."
         ]
       }
     },
@@ -786,7 +786,7 @@
             "hu": "Az állomás a központ szélén található.",
             "ro": "Gara se află la marginea centrului.",
             "en": "The station is on the edge of the center.",
-            "fr": "La gare se trouve en lisière du centre."
+            "fr": "La gare est en bordure du centre."
           }
         },
         {
@@ -824,7 +824,7 @@
             "hu": "Használja a csatamezőkhöz járó buszt.",
             "ro": "Folosiți autobuzul către câmpurile de luptă.",
             "en": "Use the shuttle bus to the battlefields.",
-            "fr": "Utilisez la navette vers les champs de bataille."
+            "fr": "Utilisez la navette pour les champs de bataille."
           }
         },
         {
@@ -852,7 +852,7 @@
         "hu": "Verdun jól megközelíthető regionális vonatokkal. Szezonban speciális buszjárat visz ki a városon kívüli fontos történelmi helyszínekre. Élvezze a történelmet saját autó nélkül is.",
         "ro": "Verdun este accesibil cu trenuri regionale. În sezon, un autobuz special vă duce la principalele situri istorice din afara orașului. Bucurați-vă de istorie fără a avea nevoie de mașină proprie.",
         "en": "Verdun is well accessible by regional trains. In season, a special shuttle bus takes you to the important historical sites outside the city. Enjoy history without the need for your own car.",
-        "fr": "Verdun est bien accessible par les trains régionaux. En saison, une navette spéciale vous emmène vers les sites historiques importants à l'extérieur. Profitez de l'histoire sans avoir besoin de voiture."
+        "fr": "Verdun est bien desservie par les trains régionaux. En saison, une navette spéciale vous conduit aux principaux sites historiques hors de la ville. Profitez de l’histoire sans avoir besoin de votre propre voiture."
       },
       "gastro_picks": {
         "de": [
@@ -981,10 +981,10 @@
           "The city center is small and walkable."
         ],
         "fr": [
-          "Vérifiez les horaires de la navette à l'avance.",
-          "La gare dispose de casiers à bagages.",
-          "Achetez vos billets à l'automate.",
-          "Le centre-ville est petit et se parcourt à pied."
+          "Vérifiez les horaires de la navette à l’avance.",
+          "La gare dispose de consignes à bagages.",
+          "Achetez les billets au distributeur.",
+          "Le centre-ville est petit et se visite facilement à pied."
         ]
       }
     }

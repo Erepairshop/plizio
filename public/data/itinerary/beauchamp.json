@@ -21,7 +21,8 @@
             "de": "Beauchamp Station",
             "hu": "Beauchamp Station",
             "ro": "Beauchamp Station",
-            "en": "Beauchamp Station"
+            "en": "Beauchamp Station",
+            "fr": "Gare de Beauchamp"
           },
           "coords": [
             2.197898,
@@ -36,7 +37,8 @@
             "de": "Beginnen Sie Ihren Spaziergang am historischen Bahnhof, einem wichtigen Knotenpunkt nach Paris, und werfen Sie einen kurzen Blick auf Ihre Karte, bevor Sie losgehen.",
             "hu": "Kezdje sétáját a történelmi vasútállomásnál, amely Párizs felé jelent fontos kapcsolatot, és érdemes itt egy pillantást vetni a térképre indulás előtt.",
             "ro": "Începeți plimbarea la gara istorică, un nod vital de legătură spre Paris, profitând de moment pentru a vă verifica harta înainte de a porni la drum.",
-            "en": "Begin your walk at the historic station, a vital hub connecting Beauchamp to Paris, taking a moment to check your map before starting the trail."
+            "en": "Begin your walk at the historic station, a vital hub connecting Beauchamp to Paris, taking a moment to check your map before starting the trail.",
+            "fr": "Commencez votre promenade à la gare historique, un nœud vital reliant Beauchamp à Paris, en prenant un moment pour vérifier votre carte avant de partir sur le sentier."
           }
         },
         {
@@ -44,7 +46,8 @@
             "de": "Square John Lennon",
             "hu": "Square John Lennon",
             "ro": "Square John Lennon",
-            "en": "Square John Lennon"
+            "en": "Square John Lennon",
+            "fr": "Square John Lennon"
           },
           "coords": [
             2.199542,
@@ -59,7 +62,8 @@
             "de": "Genießen Sie die friedliche Atmosphäre dieses kleinen, der Musiklegende gewidmeten Platzes und holen Sie sich einen Kaffee in einer nahegelegenen Bäckerei für die Bänke.",
             "hu": "Csodálja meg a zenei legendának szentelt kis tér békés hangulatát, miközben a közeli pékségből hozott kávét kortyolgatja a padokon.",
             "ro": "Admirați atmosfera liniștită a acestei mici piețe dedicate legendei muzicii, savurând o cafea de la o brutărie din apropiere pe băncile umbrite.",
-            "en": "Admire the peaceful atmosphere of this small square dedicated to the music legend, grabbing a coffee at a nearby bakery to enjoy on the benches."
+            "en": "Admire the peaceful atmosphere of this small square dedicated to the music legend, grabbing a coffee at a nearby bakery to enjoy on the benches.",
+            "fr": "Admirez l'atmosphère paisible de cette petite place dédiée à la légende de la musique, et prenez un café à la boulangerie voisine pour le déguster sur les bancs."
           }
         },
         {
@@ -67,7 +71,8 @@
             "de": "Square des Copistes",
             "hu": "Square des Copistes",
             "ro": "Square des Copistes",
-            "en": "Square des Copistes"
+            "en": "Square des Copistes",
+            "fr": "Square des Copistes"
           },
           "coords": [
             2.193599,
@@ -82,7 +87,8 @@
             "de": "Entspannen Sie sich unter den alten Bäumen in diesem gemütlichen Park, der den ruhigen Vorstadtcharme der Stadt widerspiegelt und sich perfekt für eine kurze Pause eignet.",
             "hu": "Pihenjen meg a fák árnyékában ebben a hangulatos kis parkban, amely hűen tükrözi a város csendes kertvárosi báját, és tökéletes egy rövid szünetre.",
             "ro": "Relaxați-vă sub copacii bătrâni din acest mic parc primitor, care reflectă perfect farmecul liniștit al suburbiei, fiind ideal pentru o scurtă pauză.",
-            "en": "Relax under the mature trees in this cozy parklet, which beautifully reflects the town's quiet suburban charm, making it perfect for a brief rest."
+            "en": "Relax under the mature trees in this cozy parklet, which beautifully reflects the town's quiet suburban charm, making it perfect for a brief rest.",
+            "fr": "Détendez-vous sous les arbres matures de ce petit parc cosy, qui reflète magnifiquement le charme suburbain tranquille de la ville, idéal pour une brève pause."
           }
         },
         {
@@ -90,7 +96,8 @@
             "de": "Parc Launay",
             "hu": "Parc Launay",
             "ro": "Parc Launay",
-            "en": "Parc Launay"
+            "en": "Parc Launay",
+            "fr": "Parc Launay"
           },
           "coords": [
             2.193614,
@@ -105,7 +112,8 @@
             "de": "Schlendern Sie über die gepflegten Wege dieses weitläufigen Stadtparks, um das lokale Familienleben kennenzulernen, und bringen Sie Snacks für ein Picknick mit.",
             "hu": "Sétáljon egyet a tágas helyi park gondozott ösvényein, ahol bepillantást nyerhet a helyiek mindennapjaiba, és érdemes egy rögtönzött piknikkel is készülni.",
             "ro": "Plimbați-vă pe aleile îngrijite ale acestui parc local întins pentru a observa viața de familie, aducând cu dumneavoastră gustări pentru un picnic de prânz.",
-            "en": "Stroll along the well-kept paths of this expansive local park to experience local family life, and bring some snacks for an impromptu midday picnic."
+            "en": "Stroll along the well-kept paths of this expansive local park to experience local family life, and bring some snacks for an impromptu midday picnic.",
+            "fr": "Promenez-vous le long des allées bien entretenues de ce vaste parc local pour ressentir la vie familiale locale, et apportez quelques en-cas pour un pique-nique improvisé à midi."
           }
         },
         {
@@ -113,7 +121,8 @@
             "de": "Square Picasso",
             "hu": "Square Picasso",
             "ro": "Square Picasso",
-            "en": "Square Picasso"
+            "en": "Square Picasso",
+            "fr": "Square Picasso"
           },
           "coords": [
             2.198707,
@@ -128,7 +137,8 @@
             "de": "Beenden Sie Ihren Rundgang in dieser subtil künstlerischen Grünanlage und nehmen Sie sich Zeit für die Landschaftsgestaltung, bevor Sie ins Zentrum zurückkehren.",
             "hu": "Fejezze be a sétát ezen a finoman művészi zöldterületen, és szánjon időt a tájépítészeti megoldások megcsodálására, mielőtt visszatérne a központba.",
             "ro": "Încheiați-vă turul pietonal în acest spațiu verde cu accente artistice, făcându-vă timp să admirați peisajul înainte de a vă întoarce în centrul orașului.",
-            "en": "Conclude your walking tour at this subtly artistic green space, taking time to admire the landscaping before heading back into the town center."
+            "en": "Conclude your walking tour at this subtly artistic green space, taking time to admire the landscaping before heading back into the town center.",
+            "fr": "Concluez votre visite à pied dans cet espace vert subtilement artistique, en prenant le temps d'admirer l'aménagement paysager avant de retourner au centre-ville."
           }
         }
       ],
@@ -136,7 +146,8 @@
         "de": "Beginnen Sie den Morgen am Bahnhof und spüren Sie den Rhythmus der Pendler in Beauchamp. Mittags spazieren Sie durch charmante grüne Plätze, die ideal für einen Snack sind. Der Nachmittag ist einem friedlichen Spaziergang durch den Parc Launay gewidmet. Lassen Sie den Tag entspannt am Square Picasso bei Sonnenuntergang ausklingen.",
         "hu": "Kezdje a reggelt az állomás közelében, átérezve Beauchamp ingázóinak mindennapi ritmusát. A dél körül hangulatos zöld tereken sétálhat keresztül, ahol bekaphat egy falatot. A délutánt a Parc Launay békés felfedezésének szentelheti. A napot a Square Picasso nyugodt környezetében zárhatja, miközben a nap lassan lenyugszik.",
         "ro": "Începeți dimineața lângă gară, simțind ritmul autentic al navetiștilor din Beauchamp. La prânz, treceți prin piațete verzi fermecătoare, perfecte pentru o gustare rapidă. După-amiaza este dedicată unei plimbări lungi și liniștite prin Parc Launay. Încheiați ziua relaxându-vă la Square Picasso la apusul soarelui.",
-        "en": "Start your morning near the station, absorbing the authentic commuter rhythm of Beauchamp. Midday brings you through charming green squares perfect for a quick snack. The afternoon is dedicated to a long, peaceful stroll through Parc Launay. Conclude the day relaxing at Square Picasso as the sun begins to set."
+        "en": "Start your morning near the station, absorbing the authentic commuter rhythm of Beauchamp. Midday brings you through charming green squares perfect for a quick snack. The afternoon is dedicated to a long, peaceful stroll through Parc Launay. Conclude the day relaxing at Square Picasso as the sun begins to set.",
+        "fr": "Commencez votre matinée près de la gare, en vous imprégnant du rythme authentique des navetteurs de Beauchamp. À midi, traversez de charmantes petites places parfaites pour une collation rapide. L'après-midi est consacré à une longue promenade paisible dans le Parc Launay. Terminez la journée en vous relaxant au Square Picasso au coucher du soleil."
       },
       "variants": {
         "rainy": {
@@ -144,7 +155,8 @@
             "de": "Der Morgen beginnt wettergeschützt am Bahnhof von Beauchamp. Mittags spazieren wir durch die Wohnviertel zum Square John Lennon, wobei Regenschirme unter den Alleen hilfreich sind. Am Nachmittag erkunden wir den Parc Launay, wo befestigte Wege vor Schlamm schützen. Der Abend endet am Square Picasso; achten Sie auf die stimmungsvollen Lichtreflexionen auf dem nassen Asphalt.",
             "hu": "A reggel az állomás fedett peronján indul, ahol védve vagyunk az esőtől. Délben a John Lennon és a Copistes terek felé vesszük az irányt, kihasználva a fák nyújtotta természetes ernyőt. Délután a Parc Launay aszfaltozott útjain sétálunk, elkerülve a saras részeket. Az este a Picasso téren ér minket, ahol a vizes járdák különleges hangulatot árasztanak a lámpafényben.",
             "ro": "Dimineața începe la adăpostul gării din Beauchamp, unde putem verifica prognoza. La prânz, ne plimbăm prin piețele rezidențiale, folosind umbrela pe aleile cu copaci. După-amiaza explorăm Parc Launay, alegând potecile pavate pentru a evita noroiul. Seara se încheie la Square Picasso; admirați reflexiile luminii pe asfaltul umed în timp ce orașul se liniștește sub ploaie.",
-            "en": "The morning starts sheltered at Beauchamp Station, perfect for gearing up. By noon, we walk through the squares where tree canopies offer some cover from the drizzle. In the afternoon, we explore Parc Launay, sticking to paved paths to avoid the soft mud. The evening concludes at Square Picasso; watch the atmospheric reflections of streetlights on the wet pavement."
+            "en": "The morning starts sheltered at Beauchamp Station, perfect for gearing up. By noon, we walk through the squares where tree canopies offer some cover from the drizzle. In the afternoon, we explore Parc Launay, sticking to paved paths to avoid the soft mud. The evening concludes at Square Picasso; watch the atmospheric reflections of streetlights on the wet pavement.",
+            "fr": "La matinée commence à l'abri à la gare de Beauchamp, idéale pour se préparer. À midi, nous traversons des squares où les voiles d'arbres offrent un peu de couverture contre la bruine. L'après-midi, nous explorons le Parc Launay en restant sur les chemins goudronnés pour éviter la boue molle. La soirée se termine au Square Picasso ; regardez les reflets atmosphériques des lampadaires sur le pavé humide."
           },
           "stops": [
             {
@@ -152,13 +164,15 @@
                 "de": "Beauchamp Station",
                 "hu": "Beauchamp Station",
                 "ro": "Beauchamp Station",
-                "en": "Beauchamp Station"
+                "en": "Beauchamp Station",
+                "fr": "Gare de Beauchamp"
               },
               "tip_5lang": {
                 "de": "Nutzen Sie die Bahnhofshalle, um Ihre Regenkleidung in Ruhe zu ordnen, bevor Sie den kurzen, aber nassen Weg in die Stadt antreten.",
                 "hu": "Használja ki az állomás épületét a vízálló felszerelés igazítására, mielőtt elindulna a rövid, de esős sétára a város központja felé.",
                 "ro": "Folosiți holul gării pentru a vă aranja echipamentul de ploaie înainte de a porni la drum pe străzile umede ale micului oraș Beauchamp.",
-                "en": "Use the station's sheltered area to adjust your rain gear comfortably before heading out for a short walk into the heart of the town."
+                "en": "Use the station's sheltered area to adjust your rain gear comfortably before heading out for a short walk into the heart of the town.",
+                "fr": "Utilisez l'espace abrité de la gare pour ajuster votre équipement contre la pluie confortablement avant de partir pour une courte promenade au cœur de la ville."
               }
             },
             {
@@ -166,13 +180,15 @@
                 "de": "Square John Lennon",
                 "hu": "Square John Lennon",
                 "ro": "Square John Lennon",
-                "en": "Square John Lennon"
+                "en": "Square John Lennon",
+                "fr": "Square John Lennon"
               },
               "tip_5lang": {
                 "de": "Die hohen Hecken bieten hier einen gewissen Windschutz gegen den Schlagregen; ein schneller Halt für Fotos ist auch bei grauem Himmel lohnenswert.",
                 "hu": "A magas sövények itt némi szélfogót jelentenek a verőfényes eső ellen; a szürke égbolt ellenére is érdemes egy gyors fotómegállót tartani.",
                 "ro": "Gardurile vii înalte oferă aici o protecție limitată împotriva vântului și ploii; o oprire rapidă pentru fotografii merită chiar și sub cerul gri.",
-                "en": "The tall hedges here provide some wind protection against driving rain; a quick photo stop is worthwhile even under the gloomy grey skies."
+                "en": "The tall hedges here provide some wind protection against driving rain; a quick photo stop is worthwhile even under the gloomy grey skies.",
+                "fr": "Les haies hautes offrent une certaine protection contre la pluie battante et le vent ; un arrêt photo rapide vaut le coup même sous un ciel gris."
               }
             },
             {
@@ -180,13 +196,15 @@
                 "de": "Square des Copistes",
                 "hu": "Square des Copistes",
                 "ro": "Square des Copistes",
-                "en": "Square des Copistes"
+                "en": "Square des Copistes",
+                "fr": "Square des Copistes"
               },
               "tip_5lang": {
                 "de": "Halten Sie sich auf den gepflasterten Bereichen dieses kleinen Platzes, um nasse Füße im Gras zu vermeiden, während Sie die ruhige Umgebung genießen.",
                 "hu": "Maradjon a kis tér kövezett részein, hogy elkerülje a vizes füvet, miközben élvezi a környék csendes, eső áztatta nyugalmát a lakóövezetben.",
                 "ro": "Rămâneți pe zonele pavate ale acestei mici piețe pentru a evita iarba udă, în timp ce vă bucurați de liniștea cartierului sub stropii de ploaie.",
-                "en": "Stick to the paved sections of this small square to avoid wet grass while enjoying the quiet, rain-washed tranquility of the residential area."
+                "en": "Stick to the paved sections of this small square to avoid wet grass while enjoying the quiet, rain-washed tranquility of the residential area.",
+                "fr": "Restez sur les sections pavées de cette petite place pour éviter l'herbe mouillée tout en profitant de la tranquillité lavée par la pluie du quartier résidentiel."
               }
             },
             {
@@ -194,13 +212,15 @@
                 "de": "Parc Launay",
                 "hu": "Parc Launay",
                 "ro": "Parc Launay",
-                "en": "Parc Launay"
+                "en": "Parc Launay",
+                "fr": "Parc Launay"
               },
               "tip_5lang": {
                 "de": "Die dichten Baumkronen bieten natürlichen Schutz, aber Vorsicht vor rutschigen Blättern auf den Wegen; wasserfeste Wanderschuhe sind hier sehr empfohlen.",
                 "hu": "A sűrű lombozat természetes védelmet nyújt, de vigyázzon a csúszós levelekre az ösvényeken; a vízálló túracipő viselése itt erősen ajánlott.",
                 "ro": "Coroanele dese oferă adăpost natural, dar atenție la frunzele alunecoase de pe alei; încălțămintea impermeabilă este esențială pentru această vizită.",
-                "en": "The dense tree canopy provides natural shelter, but be careful of slippery leaves on the trails; waterproof hiking boots are highly recommended here."
+                "en": "The dense tree canopy provides natural shelter, but be careful of slippery leaves on the trails; waterproof hiking boots are highly recommended here.",
+                "fr": "La canopée dense des arbres offre un abri naturel, mais attention aux feuilles glissantes sur les sentiers ; des chaussures de randonnée imperméables sont vivement recommandées ici."
               }
             },
             {
@@ -208,13 +228,15 @@
                 "de": "Square Picasso",
                 "hu": "Square Picasso",
                 "ro": "Square Picasso",
-                "en": "Square Picasso"
+                "en": "Square Picasso",
+                "fr": "Square Picasso"
               },
               "tip_5lang": {
                 "de": "Beenden Sie den Spaziergang zügig, da die Sicht bei Regen schneller nachlässt; die nahen Hauseingänge bieten bei plötzlichen Güssen schnellen Unterschlupf.",
                 "hu": "Fejezze be gyorsan a sétát, mivel esőben hamarabb romlanak a látási viszonyok; a közeli házbejárók menedéket nyújtanak hirtelen zivatar esetén.",
                 "ro": "Încheiați plimbarea rapid, deoarece vizibilitatea scade sub ploaie; intrările blocurilor din apropiere oferă un refugiu bun în caz de aversă bruscă.",
-                "en": "Finish your walk promptly as visibility drops in the rain; nearby residential entrances offer quick cover in case of a sudden heavy downpour."
+                "en": "Finish your walk promptly as visibility drops in the rain; nearby residential entrances offer quick cover in case of a sudden heavy downpour.",
+                "fr": "Terminez votre promenade rapidement si la visibilité diminue sous la pluie ; les entrées résidentielles à proximité offrent un abri rapide en cas d'averse soudaine et forte."
               }
             }
           ]
@@ -224,7 +246,8 @@
             "de": "Ein frostiger Morgen am Bahnhof führt uns durch das winterlich ruhige Beauchamp. Mittags genießen wir die frische Luft in den kleinen Squares, während die tiefstehende Sonne lange Schatten wirft. Am Nachmittag besuchen wir den Parc Launay, dessen kahle Bäume den Blick auf die Architektur freigeben. Da die Sonne gegen 17:00 Uhr untergeht, planen wir ein frühes Ende im Warmen.",
             "hu": "Fagyos reggel az állomáson, ahonnan a téli nyugalomba burkolózott Beauchamp felé indulunk. Délben a kis tereken sétálunk, élvezve a friss levegőt és az alacsonyan járó nap fényét. Délután a Parc Launay kopár fái között teszünk egy kört, ahol ilyenkor jobban rálátni a környező házakra. Mivel 17:00 körül sötétedik, a sétát korán befejezzük.",
             "ro": "O dimineață geroasă la gară ne poartă prin Beauchamp-ul liniștit de iarnă. La prânz, ne bucurăm de aerul proaspăt în piețele mici, în timp ce soarele jos creează umbre lungi. După-amiaza vizităm Parc Launay, unde copacii golași permit o vedere mai clară asupra zonei. Deoarece soarele apune în jur de ora 17:00, planificăm o seară caldă la interior.",
-            "en": "A frosty morning at the station leads us through a peaceful winter Beauchamp. By noon, we enjoy the crisp air in the small squares as the low sun casts long shadows. In the afternoon, we visit Parc Launay, where bare trees offer clear views of the local architecture. With sunset around 17:00, we plan an early finish to return to a warm indoor setting."
+            "en": "A frosty morning at the station leads us through a peaceful winter Beauchamp. By noon, we enjoy the crisp air in the small squares as the low sun casts long shadows. In the afternoon, we visit Parc Launay, where bare trees offer clear views of the local architecture. With sunset around 17:00, we plan an early finish to return to a warm indoor setting.",
+            "fr": "Un matin givré à la gare nous conduit à travers un Beauchamp hivernal paisible. À midi, nous profitons de l'air vif dans les petites places tandis que le soleil bas jette de longues ombres. L'après-midi, nous visitons le Parc Launay, où les arbres dénudés offrent une vue dégagée sur l'architecture locale. Avec le coucher du soleil vers 17:00, nous prévoyons une fin anticipée pour retourner dans un endroit chaud à l'intérieur."
           },
           "stops": [
             {
@@ -232,13 +255,15 @@
                 "de": "Beauchamp Station",
                 "hu": "Beauchamp Station",
                 "ro": "Beauchamp Station",
-                "en": "Beauchamp Station"
+                "en": "Beauchamp Station",
+                "fr": "Gare de Beauchamp"
               },
               "tip_5lang": {
                 "de": "Trinken Sie einen warmen Tee im Bahnhofsbereich, um sich aufzuwärmen, bevor Sie in die kalte, klare Winterluft von Beauchamp hinaustreten.",
                 "hu": "Igyon egy meleg teát még az állomás környékén, hogy felmelegedjen, mielőtt kilépne Beauchamp tiszta és csípős téli levegőjére.",
                 "ro": "Beți un ceai cald în zona gării pentru a vă încălzi înainte de a păși în aerul rece și curat de iarnă din Beauchamp.",
-                "en": "Grab a hot tea near the station to warm up before stepping out into the crisp, cold winter air of Beauchamp for your walk."
+                "en": "Grab a hot tea near the station to warm up before stepping out into the crisp, cold winter air of Beauchamp for your walk.",
+                "fr": "Prenez un thé chaud près de la gare pour vous réchauffer avant de sortir dans l'air hivernal vif de Beauchamp pour votre promenade."
               }
             },
             {
@@ -246,13 +271,15 @@
                 "de": "Square John Lennon",
                 "hu": "Square John Lennon",
                 "ro": "Square John Lennon",
-                "en": "Square John Lennon"
+                "en": "Square John Lennon",
+                "fr": "Square John Lennon"
               },
               "tip_5lang": {
                 "de": "Die winterliche Ruhe macht diesen Ort ideal für kurze Besinnung; achten Sie auf Raureif an den Denkmälern, der wunderbare Fotomotive bietet.",
                 "hu": "A téli csend ideálissá teszi a helyet egy kis elmélkedésre; figyelje meg a szobrokon megülő zúzmarát, ami különleges fotótéma lehet.",
                 "ro": "Liniștea iernii face acest loc ideal pentru o scurtă reflecție; observați chiciura de pe monumente, care oferă oportunități foto deosebite.",
-                "en": "The winter silence makes this spot ideal for brief reflection; notice the frost on the monuments, which creates beautiful photographic motifs."
+                "en": "The winter silence makes this spot ideal for brief reflection; notice the frost on the monuments, which creates beautiful photographic motifs.",
+                "fr": "Le silence hivernal rend cet endroit idéal pour une brève réflexion ; remarquez le givre sur les monuments, qui crée de beaux motifs photographiques."
               }
             },
             {
@@ -260,13 +287,15 @@
                 "de": "Square des Copistes",
                 "hu": "Square des Copistes",
                 "ro": "Square des Copistes",
-                "en": "Square des Copistes"
+                "en": "Square des Copistes",
+                "fr": "Square des Copistes"
               },
               "tip_5lang": {
                 "de": "Ziehen Sie sich warm an, da der Wind in den offenen Wohnstraßen spürbar kühler ist; die tiefstehende Sonne blendet hier oft zur Mittagszeit.",
                 "hu": "Öltözzön rétegesen, mert a szél a nyitottabb utcákban érezhetően hidegebb; az alacsony téli nap délidőben gyakran vakító lehet itt.",
                 "ro": "Îmbrăcați-vă gros, deoarece vântul pe străzile deschise este vizibil mai rece; soarele jos poate fi adesea orbitor la prânz în această zonă.",
-                "en": "Dress in warm layers as the wind in the open residential streets is noticeably cooler; the low winter sun can be quite dazzling at noon."
+                "en": "Dress in warm layers as the wind in the open residential streets is noticeably cooler; the low winter sun can be quite dazzling at noon.",
+                "fr": "Habillez-vous en couches chaudes car le vent dans les rues résidentielles ouvertes est sensiblement plus frais ; le soleil bas d'hiver peut être éblouissant à midi."
               }
             },
             {
@@ -274,13 +303,15 @@
                 "de": "Parc Launay",
                 "hu": "Parc Launay",
                 "ro": "Parc Launay",
-                "en": "Parc Launay"
+                "en": "Parc Launay",
+                "fr": "Parc Launay"
               },
               "tip_5lang": {
                 "de": "Nutzen Sie das letzte Tageslicht für einen Spaziergang unter den kahlen Eichen; die Pfade können bei Frost stellenweise glatt sein.",
                 "hu": "Használja ki az utolsó nappali fényeket egy sétára a kopár tölgyek alatt; fagy esetén az ösvények helyenként csúszósak lehetnek.",
                 "ro": "Profitați de ultima lumină a zilei pentru o plimbare sub stejarii golași; potecile pot fi alunecoase pe alocuri în caz de îngheț.",
-                "en": "Make the most of the last daylight for a walk under the bare oaks; trails can be slippery in patches if there is a frost."
+                "en": "Make the most of the last daylight for a walk under the bare oaks; trails can be slippery in patches if there is a frost.",
+                "fr": "Profitez des dernières heures de lumière pour une marche sous les chênes dénudés ; les sentiers peuvent être glissants par endroits en cas de gel."
               }
             },
             {
@@ -288,13 +319,15 @@
                 "de": "Square Picasso",
                 "hu": "Square Picasso",
                 "ro": "Square Picasso",
-                "en": "Square Picasso"
+                "en": "Square Picasso",
+                "fr": "Square Picasso"
               },
               "tip_5lang": {
                 "de": "Mit dem Sonnenuntergang um 17:00 Uhr sinken die Temperaturen rasch; beenden Sie Ihre Tour rechtzeitig, um der Abendkälte zu entgehen.",
                 "hu": "Az 17:00 órai naplemente után a hőmérséklet gyorsan süllyed; fejezze be időben a túrát, hogy elkerülje az esti dermesztő hideget.",
                 "ro": "Odată cu apusul de la ora 17:00, temperaturile scad rapid; încheiați turul la timp pentru a evita frigul pătrunzător de seară.",
-                "en": "As the sun sets around 17:00, temperatures drop quickly; conclude your tour in time to avoid the biting evening chill."
+                "en": "As the sun sets around 17:00, temperatures drop quickly; conclude your tour in time to avoid the biting evening chill.",
+                "fr": "Avec le coucher du soleil vers 17:00, les températures chutent rapidement ; terminez votre visite à temps pour éviter le froid mordant du soir."
               }
             }
           ]
@@ -314,7 +347,8 @@
             "de": "Beauchamp Station",
             "hu": "Beauchamp Station",
             "ro": "Beauchamp Station",
-            "en": "Beauchamp Station"
+            "en": "Beauchamp Station",
+            "fr": "Gare de Beauchamp"
           },
           "coords": [
             2.197898,
@@ -329,7 +363,8 @@
             "de": "Beginnen Sie Ihre Radtour am historischen Bahnhof, überprüfen Sie den Reifendruck und machen Sie sich bereit für die Fahrt durch die Stadt.",
             "hu": "Kezdje a kerékpártúrát a történelmi állomásnál, ellenőrizze a guminyomást, és készüljön fel a város átszelésére.",
             "ro": "Începeți turul cu bicicleta la gara istorică, verificați presiunea anvelopelor și pregătiți-vă pentru a traversa orașul.",
-            "en": "Start your biking tour at the historic station, taking a second to check your tire pressure before setting off across the town."
+            "en": "Start your biking tour at the historic station, taking a second to check your tire pressure before setting off across the town.",
+            "fr": "Commencez votre circuit à vélo à la gare historique, en prenant une seconde pour vérifier la pression des pneus avant de traverser la ville."
           }
         },
         {
@@ -337,7 +372,8 @@
             "de": "Parc François-Mitterrand",
             "hu": "Parc François-Mitterrand",
             "ro": "Parc François-Mitterrand",
-            "en": "Parc François-Mitterrand"
+            "en": "Parc François-Mitterrand",
+            "fr": "Parc François-Mitterrand"
           },
           "coords": [
             2.21079,
@@ -352,7 +388,8 @@
             "de": "Radeln Sie durch diesen großen, lebhaften Park mit seinen breiten Wegen und schönen Rasenflächen und bleiben Sie zu Ihrer Sicherheit auf den markierten Radwegen.",
             "hu": "Tekerjen végig ezen a nagy, élettel teli parkon, amely széles ösvényeket és szép pázsitokat kínál, de biztonsága érdekében maradjon a kijelölt kerékpárutakon.",
             "ro": "Pedalați prin acest parc mare și plin de viață, cu alei largi și peluze frumoase, având grijă să folosiți doar pistele de biciclete desemnate.",
-            "en": "Cycle through this large, vibrant park offering wide paths and lovely lawns, making sure to stick to the designated bike lanes for safety."
+            "en": "Cycle through this large, vibrant park offering wide paths and lovely lawns, making sure to stick to the designated bike lanes for safety.",
+            "fr": "Pédalez à travers ce grand parc vivant offrant de larges allées et de belles pelouses, en veillant à rester sur les pistes cyclables indiquées pour la sécurité."
           }
         },
         {
@@ -360,7 +397,8 @@
             "de": "Bassin de Boissy",
             "hu": "Bassin de Boissy",
             "ro": "Bassin de Boissy",
-            "en": "Bassin de Boissy"
+            "en": "Bassin de Boissy",
+            "fr": "Bassin de Boissy"
           },
           "coords": [
             2.211248,
@@ -375,7 +413,8 @@
             "de": "Halten Sie an diesem ruhigen Rückhaltebecken, das auch ein Paradies für Vogelbeobachter ist, und bringen Sie ein Fernglas mit, um die Tierwelt zu beobachten.",
             "hu": "Álljon meg ennél a nyugodt víztározónál, amely madármegfigyelő paradicsomként is funkcionál, és hozzon magával távcsövet az élővilág megfigyeléséhez.",
             "ro": "Opriți-vă la acest bazin de retenție liniștit, care este și un refugiu pentru păsări, luând un binoclu pentru a observa natura netulburată.",
-            "en": "Stop by this calm retention basin that doubles as a bird-watching haven, and bring a pair of binoculars to observe the local wildlife undisturbed."
+            "en": "Stop by this calm retention basin that doubles as a bird-watching haven, and bring a pair of binoculars to observe the local wildlife undisturbed.",
+            "fr": "Faites une pause près de ce bassin de retenue calme qui sert aussi de refuge ornithologique, et apportez une paire de jumelles pour observer la faune locale sans déranger."
           }
         },
         {
@@ -383,7 +422,8 @@
             "de": "Square de la Futaie",
             "hu": "Square de la Futaie",
             "ro": "Square de la Futaie",
-            "en": "Square de la Futaie"
+            "en": "Square de la Futaie",
+            "fr": "Square de la Futaie"
           },
           "coords": [
             2.206104,
@@ -398,7 +438,8 @@
             "de": "Ruhen Sie Ihre Beine an diesem ruhigen, von viel Grün umgebenen Wohnplatz aus, der ein schönes schattiges Plätzchen bietet, um sich vor der Weiterfahrt zu erfrischen.",
             "hu": "Pihentesse meg a lábát ezen a zölddel körülvett csendes lakóövezeti téren, amely kellemes árnyékot ad, hogy felfrissüljön a további tekerés előtt.",
             "ro": "Odihniți-vă picioarele în această piațetă rezidențială liniștită, înconjurată de verdeață, care oferă un loc umbrit perfect pentru a vă hidrata.",
-            "en": "Rest your legs at this quiet residential square surrounded by greenery, which provides a nice shady spot to rehydrate before continuing your ride."
+            "en": "Rest your legs at this quiet residential square surrounded by greenery, which provides a nice shady spot to rehydrate before continuing your ride.",
+            "fr": "Reposez vos jambes dans cette tranquille place résidentielle entourée de verdure, qui offre un agréable coin d'ombre pour vous réhydrater avant de poursuivre votre balade."
           }
         },
         {
@@ -406,7 +447,8 @@
             "de": "Parc Launay",
             "hu": "Parc Launay",
             "ro": "Parc Launay",
-            "en": "Parc Launay"
+            "en": "Parc Launay",
+            "fr": "Parc Launay"
           },
           "coords": [
             2.193614,
@@ -421,7 +463,8 @@
             "de": "Lassen Sie das Rad stehen und schlendern Sie über die Wege dieses Stadtparks, um das lokale Leben kennenzulernen und einen Mittagssnack zu genießen.",
             "hu": "Tegye le a kerékpárt, és sétáljon egyet a helyi park ösvényein, ahol bepillantást nyerhet a mindennapokba, és megeheti a tízóraiját.",
             "ro": "Lăsați bicicleta și plimbați-vă pe aleile acestui parc local întins pentru a observa viața comunității și a savura o gustare de prânz.",
-            "en": "Park your bike and stroll along the well-kept paths of this expansive park to experience local family life, enjoying a quick midday snack."
+            "en": "Park your bike and stroll along the well-kept paths of this expansive park to experience local family life, enjoying a quick midday snack.",
+            "fr": "Garez votre vélo et promenez-vous le long des allées bien entretenues de ce vaste parc pour ressentir la vie familiale locale, en profitant d'un en-cas rapide à midi."
           }
         },
         {
@@ -429,7 +472,8 @@
             "de": "Quiz Room",
             "hu": "Quiz Room",
             "ro": "Quiz Room",
-            "en": "Quiz Room"
+            "en": "Quiz Room",
+            "fr": "Quiz Room"
           },
           "coords": [
             2.18284,
@@ -444,7 +488,8 @@
             "de": "Parken Sie Ihr Fahrrad sicher und genießen Sie ein interaktives Quiz-Spiel im TV-Stil, das Sie an den Wochenenden unbedingt im Voraus buchen sollten.",
             "hu": "Parkolja le biztonságosan a kerékpárját, és élvezze a tévés vetélkedőket idéző interaktív élményt bent, amelyet hétvégén mindenképp érdemes előre lefoglalni.",
             "ro": "Parcați-vă bicicleta în siguranță și bucurați-vă de un joc interactiv tip quiz TV în interior, fiind foarte recomandat să rezervați în avans pentru weekend.",
-            "en": "Park your bike securely and enjoy an interactive, TV-style quiz game experience indoors, which is highly recommended to book in advance during weekends."
+            "en": "Park your bike securely and enjoy an interactive, TV-style quiz game experience indoors, which is highly recommended to book in advance during weekends.",
+            "fr": "Garez votre vélo en sécurité et profitez d'une expérience de jeu-questionnaire interactive façon TV à l'intérieur, il est fortement recommandé de réserver à l'avance le week-end."
           }
         },
         {
@@ -452,7 +497,8 @@
             "de": "Résidence du Stade",
             "hu": "Résidence du Stade",
             "ro": "Résidence du Stade",
-            "en": "Résidence du Stade"
+            "en": "Résidence du Stade",
+            "fr": "Résidence du Stade"
           },
           "coords": [
             2.181279,
@@ -467,7 +513,8 @@
             "de": "Beenden Sie Ihre Radtour in der Nähe der örtlichen Sportplätze, wo sich die Gemeinde trifft, und nehmen Sie sich Zeit für ein lokales Spiel oder zum Dehnen im Gras.",
             "hu": "Fejezze be a biciklitúrát a helyi sportpályák közelében, ahol a közösség összegyűlik, és szánjon egy percet egy meccs megnézésére vagy egy kis nyújtásra a fűben.",
             "ro": "Încheiați traseul pe bicicletă lângă terenurile de sport unde se adună comunitatea, făcându-vă timp să urmăriți un meci local sau să faceți exerciții pe iarbă.",
-            "en": "End your biking journey near the local sports fields where the community gathers, and take a moment to watch a local match or stretch out on the grass."
+            "en": "End your biking journey near the local sports fields where the community gathers, and take a moment to watch a local match or stretch out on the grass.",
+            "fr": "Terminez votre parcours à vélo près des terrains de sport locaux où la communauté se rassemble, et prenez un moment pour regarder un match local ou vous étirer sur l'herbe."
           }
         }
       ],
@@ -475,7 +522,8 @@
         "de": "Beginnen Sie Ihre Radtour mit einer flotten morgendlichen Fahrt zum weitläufigen Parc François-Mitterrand. Mittags radeln Sie zu den ruhigen örtlichen Rückhaltebecken. Der Nachmittag bringt Abwechslung mit einer spannenden Herausforderung im Quiz Room. Lassen Sie den Abend bei lokalem Sport in der Résidence du Stade ausklingen.",
         "hu": "Indítsa a kerékpártúrát egy frissítő reggeli tekeréssel a tágas Parc François-Mitterrand felé. Dél körül a helyi békés víztározókhoz vezet az útja. A délután izgalmas benti kihívást tartogat a Quiz Room falai között. Az estét a Résidence du Stade helyi sporteseményeinek megtekintésével zárhatja.",
         "ro": "Începeți turul cu bicicleta cu o plimbare matinală rapidă către spațiosul Parc François-Mitterrand. În jurul prânzului, pedalați spre bazinele de retenție locale liniștite. După-amiaza aduce o provocare interioară captivantă la Quiz Room. Încheiați-vă seara urmărind sporturi locale la Résidence du Stade.",
-        "en": "Kick off your cycling tour with a brisk morning ride to the spacious Parc François-Mitterrand. Around midday, pedal towards the serene local retention basins. The afternoon shifts gears with an exciting indoor challenge at the Quiz Room. Wind down your evening by watching local sports at Résidence du Stade."
+        "en": "Kick off your cycling tour with a brisk morning ride to the spacious Parc François-Mitterrand. Around midday, pedal towards the serene local retention basins. The afternoon shifts gears with an exciting indoor challenge at the Quiz Room. Wind down your evening by watching local sports at Résidence du Stade.",
+        "fr": "Commencez votre circuit à vélo par une balade tonique matinale jusqu'au spacieux Parc François-Mitterrand. Vers midi, pédalez vers les calmes bassins de rétention locaux. L'après-midi change d'ambiance avec un défi intérieur au Quiz Room. Terminez la soirée en regardant du sport local à la Résidence du Stade."
       },
       "variants": {
         "rainy": {
@@ -483,7 +531,8 @@
             "de": "Ein regnerischer Radtag startet am Bahnhof Beauchamp. Mittags radeln wir zum Parc François-Mitterrand, wobei wir auf nassen Wegen vorsichtig steuern. Der Nachmittag führt uns zu den Wasserbecken, die im Regen mystisch wirken, bevor wir im Quiz Room trockenen Unterschlupf finden. Den Abend lassen wir entspannt ausklingen, während wir die Radwege zurück zur Station nehmen.",
             "hu": "Esős kerékpáros nap indul az állomástól. Délben a François-Mitterrand park felé tekerünk, óvatosan manőverezve a vizes aszfalton. Délután a víztározók környékét járjuk be, ahol az esőben különleges a hangulat, majd a Quiz Room fedett falai között száradunk meg. Estére a bringautakon térünk vissza az állomáshoz, kerülve a nagyobb tócsákat.",
             "ro": "O zi ploioasă pe bicicletă începe la gara Beauchamp. La prânz pedalăm spre Parc François-Mitterrand, manevrând cu atenție pe aleile umede. După-amiaza ne poartă spre bazinele de apă, care par mistice sub ploaie, înainte de a găsi refugiu uscat la Quiz Room. Seara se încheie relaxat, folosind pistele de biciclete înapoi spre stație.",
-            "en": "A rainy cycling day starts at Beauchamp Station. By noon, we ride to Parc François-Mitterrand, steering carefully on wet paths. The afternoon leads us to the water basins, which look mystical in the rain, before finding dry shelter at the Quiz Room. We end the evening with a steady ride back to the station, staying visible with lights on the damp roads."
+            "en": "A rainy cycling day starts at Beauchamp Station. By noon, we ride to Parc François-Mitterrand, steering carefully on wet paths. The afternoon leads us to the water basins, which look mystical in the rain, before finding dry shelter at the Quiz Room. We end the evening with a steady ride back to the station, staying visible with lights on the damp roads.",
+            "fr": "Une journée de vélo pluvieuse commence à la gare de Beauchamp. À midi, nous roulons jusqu'au Parc François-Mitterrand en faisant attention sur les chemins mouillés. L'après-midi nous mène aux bassins d'eau, qui paraissent mystiques sous la pluie, avant de trouver un abri sec au Quiz Room. Nous finissons la soirée par un retour régulier à la gare, en restant visibles avec des feux sur les routes humides."
           },
           "stops": [
             {
@@ -491,13 +540,15 @@
                 "de": "Beauchamp Station",
                 "hu": "Beauchamp Station",
                 "ro": "Beauchamp Station",
-                "en": "Beauchamp Station"
+                "en": "Beauchamp Station",
+                "fr": "Gare de Beauchamp"
               },
               "tip_5lang": {
                 "de": "Prüfen Sie Ihre Bremsen gründlich, da der Bremsweg auf nassen Straßen länger ist; starten Sie Ihre Tour erst, wenn der Regen nachlässt.",
                 "hu": "Alaposan ellenőrizze a fékeket, mivel a fékút vizes úton hosszabb; csak akkor induljon el, ha az intenzív eső már alábbhagyott.",
                 "ro": "Verificați frânele cu atenție, deoarece distanța de frânare este mai mare pe drumuri ude; porniți la drum doar când ploaia se mai potolește.",
-                "en": "Check your brakes thoroughly as stopping distances are longer on wet roads; start your ride when the heavy rain has eased off."
+                "en": "Check your brakes thoroughly as stopping distances are longer on wet roads; start your ride when the heavy rain has eased off.",
+                "fr": "Vérifiez soigneusement vos freins car les distances d'arrêt sont plus longues sur routes mouillées ; partez quand la forte pluie s'est atténuée."
               }
             },
             {
@@ -505,13 +556,15 @@
                 "de": "Parc François-Mitterrand",
                 "hu": "Parc François-Mitterrand",
                 "ro": "Parc François-Mitterrand",
-                "en": "Parc François-Mitterrand"
+                "en": "Parc François-Mitterrand",
+                "fr": "Parc François-Mitterrand"
               },
               "tip_5lang": {
                 "de": "Vermeiden Sie schnelle Kurvenfahrten auf den asphaltierten Parkwegen, da diese bei Regen rutschig sein können; nutzen Sie die Pavillons als Rastplatz.",
                 "hu": "Kerülje a hirtelen kanyarodást a park aszfaltozott útjain, mert esőben csúszósak lehetnek; használja a pavilonokat rövid pihenőre.",
                 "ro": "Evitați virajele bruște pe aleile asfaltate ale parcului, deoarece pot fi alunecoase; folosiți pavilioanele ca loc de odihnă ferit de ploaie.",
-                "en": "Avoid sharp turns on the park's paved paths as they can be slippery when wet; use the park's shelters for a quick break from the rain."
+                "en": "Avoid sharp turns on the park's paved paths as they can be slippery when wet; use the park's shelters for a quick break from the rain.",
+                "fr": "Évitez les virages serrés sur les allées pavées du parc car elles peuvent être glissantes quand elles sont mouillées ; utilisez les abris du parc pour une courte pause à l'abri de la pluie."
               }
             },
             {
@@ -519,13 +572,15 @@
                 "de": "Bassin de Boissy",
                 "hu": "Bassin de Boissy",
                 "ro": "Bassin de Boissy",
-                "en": "Bassin de Boissy"
+                "en": "Bassin de Boissy",
+                "fr": "Bassin de Boissy"
               },
               "tip_5lang": {
                 "de": "Der Uferweg kann bei Regen matschig sein; halten Sie einen Sicherheitsabstand zur Wasserkante und achten Sie auf Pfützen auf dem Radweg.",
                 "hu": "A part menti ösvény esőben saras lehet; tartson biztonságos távolságot a vízparttól, és figyeljen a kerékpárúton kialakuló tócsákra.",
                 "ro": "Poteca de pe mal poate fi noroioasă; păstrați o distanță de siguranță față de marginea apei și atenție la bălțile de pe pista de biciclete.",
-                "en": "The lakeside path can get muddy in the rain; keep a safe distance from the water's edge and watch out for deep puddles on the cycle path."
+                "en": "The lakeside path can get muddy in the rain; keep a safe distance from the water's edge and watch out for deep puddles on the cycle path.",
+                "fr": "Le chemin au bord du lac peut devenir boueux sous la pluie ; gardez une distance de sécurité du bord de l'eau et méfiez-vous des grandes flaques sur la piste cyclable."
               }
             },
             {
@@ -533,13 +588,15 @@
                 "de": "Square de la Futaie",
                 "hu": "Square de la Futaie",
                 "ro": "Square de la Futaie",
-                "en": "Square de la Futaie"
+                "en": "Square de la Futaie",
+                "fr": "Square de la Futaie"
               },
               "tip_5lang": {
                 "de": "Die Bäume bieten hier einen kurzen Schutz vor Schauern; wischen Sie Ihren Sattel vor der Weiterfahrt ab, um trocken zu bleiben.",
                 "hu": "A fák itt rövid védelmet nyújtanak a záporok elől; továbbindulás előtt törölje szárazra a nyerget, hogy kényelmes maradjon az út.",
                 "ro": "Copacii oferă aici un scurt adăpost împotriva averselor; ștergeți șaua înainte de a pleca mai departe pentru a rămâne uscat.",
-                "en": "The trees provide brief cover from showers; wipe your saddle dry before continuing your ride to stay comfortable and dry."
+                "en": "The trees provide brief cover from showers; wipe your saddle dry before continuing your ride to stay comfortable and dry.",
+                "fr": "Les arbres offrent une brève protection contre les averses ; essuyez votre selle avant de reprendre la route pour rester confortable et au sec."
               }
             },
             {
@@ -547,13 +604,15 @@
                 "de": "Parc Launay",
                 "hu": "Parc Launay",
                 "ro": "Parc Launay",
-                "en": "Parc Launay"
+                "en": "Parc Launay",
+                "fr": "Parc Launay"
               },
               "tip_5lang": {
                 "de": "Fahren Sie langsam über Holzbrücken oder metallene Abdeckungen, die bei Nässe extrem glatt werden; genießen Sie die frische, regengereinigte Luft.",
                 "hu": "Hajtson lassan a fahidaktól vagy fémfedlapokon, melyek nedvesen rendkívül csúszósak; élvezze a friss, eső által megtisztított levegőt.",
                 "ro": "Mergeți încet peste podurile de lemn sau capacele metalice care devin extrem de alunecoase; bucurați-vă de aerul proaspăt curățat de ploaie.",
-                "en": "Ride slowly over wooden bridges or metal covers which become extremely slick when wet; enjoy the crisp, rain-cleansed forest air."
+                "en": "Ride slowly over wooden bridges or metal covers which become extremely slick when wet; enjoy the crisp, rain-cleansed forest air.",
+                "fr": "Roulez lentement sur les ponts en bois ou les plaques métalliques qui deviennent extrêmement glissants quand ils sont mouillés ; profitez de l'air frais de la forêt nettoyé par la pluie."
               }
             },
             {
@@ -561,13 +620,15 @@
                 "de": "Quiz Room",
                 "hu": "Quiz Room",
                 "ro": "Quiz Room",
-                "en": "Quiz Room"
+                "en": "Quiz Room",
+                "fr": "Quiz Room"
               },
               "tip_5lang": {
                 "de": "Dies ist der ideale Ort, um sich vollständig aufzuwärmen und zu trocknen; parken Sie Ihr Rad an einem geschützten Ort, falls verfügbar.",
                 "hu": "Ez az ideális helyszín a teljes felmelegedésre és megszáradásra; parkolja le a kerékpárt egy védettebb helyen, ha lehetséges.",
                 "ro": "Acesta este locul ideal pentru a vă încălzi și usca complet; parcați bicicleta într-un loc cât mai protejat, dacă este disponibil.",
-                "en": "This is the perfect spot to fully warm up and dry off; park your bike in a more sheltered area if possible while you enjoy the game."
+                "en": "This is the perfect spot to fully warm up and dry off; park your bike in a more sheltered area if possible while you enjoy the game.",
+                "fr": "C'est l'endroit parfait pour vous réchauffer et sécher complètement ; garez votre vélo dans une zone plus abritée si possible pendant que vous profitez du jeu."
               }
             },
             {
@@ -575,13 +636,15 @@
                 "de": "Résidence du Stade",
                 "hu": "Résidence du Stade",
                 "ro": "Résidence du Stade",
-                "en": "Résidence du Stade"
+                "en": "Résidence du Stade",
+                "fr": "Résidence du Stade"
               },
               "tip_5lang": {
                 "de": "Schalten Sie Ihre Beleuchtung ein, da die Gischt der Autos auf den Straßen die Sichtbarkeit für Radfahrer stark einschränken kann.",
                 "hu": "Kapcsolja be a világítást, mivel az autók által felvert vízpermet nagyban ronthatja a kerékpárosok láthatóságát az úton.",
                 "ro": "Aprindeți luminile, deoarece spray-ul de apă ridicat de mașini poate reduce drastic vizibilitatea pentru bicicliști pe șosea.",
-                "en": "Turn on your lights as road spray from cars can significantly reduce visibility for cyclists on the residential streets."
+                "en": "Turn on your lights as road spray from cars can significantly reduce visibility for cyclists on the residential streets.",
+                "fr": "Allumez vos lumières car les projections d'eau des voitures peuvent réduire significativement la visibilité des cyclistes dans les rues résidentielles."
               }
             }
           ]
@@ -591,7 +654,8 @@
             "de": "Ein frostiger Radtag beginnt am Bahnhof Beauchamp. Mittags erkunden wir den winterlichen Parc François-Mitterrand, während wir uns durch warme Kleidung vor dem Fahrtwind schützen. Der Nachmittag führt uns vorbei an den gefrorenen Ufern der Bassins zum Quiz Room, wo wir uns im Warmen messen können. Vor dem Sonnenuntergang um 17:00 Uhr radeln wir zügig zurück, um der Abendkälte zu entgehen.",
             "hu": "Fagyos bringás nap indul az állomástól. Délben a téli François-Mitterrand parkot fedezzük fel, réteges öltözetben védekezve a menetszél ellen. Délután a befagyott víztározók mellett tekerünk a Quiz Room felé, ahol a melegben mérhetjük össze tudásunkat. Az 17:00 órai naplemente előtt igyekszünk vissza az állomáshoz, hogy elkerüljük a hirtelen lehűlést.",
             "ro": "O zi geroasă pe bicicletă începe la gară. La prânz explorăm parcul François-Mitterrand, protejându-ne de vânt cu haine groase. După-amiaza pedalăm pe lângă malurile înghețate ale bazinelor spre Quiz Room, unde ne putem distra la căldură. Înainte de apusul de la ora 17:00, ne grăbim înapoi spre gară pentru a evita frigul tăios de seară.",
-            "en": "A frosty cycling day starts at Beauchamp Station. By noon, we explore the wintery Parc François-Mitterrand, wearing warm layers to block the wind chill. The afternoon takes us past the frozen edges of the basins to the Quiz Room for some indoor fun. Before the 17:00 sunset, we head back promptly to avoid the rapidly dropping evening temperatures."
+            "en": "A frosty cycling day starts at Beauchamp Station. By noon, we explore the wintery Parc François-Mitterrand, wearing warm layers to block the wind chill. The afternoon takes us past the frozen edges of the basins to the Quiz Room for some indoor fun. Before the 17:00 sunset, we head back promptly to avoid the rapidly dropping evening temperatures.",
+            "fr": "Une journée de vélo glaciale commence à la gare de Beauchamp. À midi, nous explorons le Parc François-Mitterrand hivernal, en portant des couches chaudes pour contrer le froid du vent. L'après-midi nous fait longer les bords gelés des bassins avant de rejoindre le Quiz Room pour une activité à l'intérieur. Avant le coucher du soleil à 17:00, nous retournons rapidement pour éviter la chute rapide des températures en soirée."
           },
           "stops": [
             {
@@ -599,13 +663,15 @@
                 "de": "Beauchamp Station",
                 "hu": "Beauchamp Station",
                 "ro": "Beauchamp Station",
-                "en": "Beauchamp Station"
+                "en": "Beauchamp Station",
+                "fr": "Gare de Beauchamp"
               },
               "tip_5lang": {
                 "de": "Tragen Sie winddichte Handschuhe, da der Fahrtwind bei Frost sehr schneidend ist; wärmen Sie sich kurz im Bahnhofsgebäude auf.",
                 "hu": "Viseljen szélálló kesztyűt, mert a menetszél fagyban nagyon metsző; melegedjen fel egy kicsit az állomás épületében indulás előtt.",
                 "ro": "Purtați mănuși rezistente la vânt, deoarece curentul de aer este tăios pe ger; încălziți-vă puțin în clădirea gării înainte de start.",
-                "en": "Wear windproof gloves as the wind chill while riding in freezing weather is biting; warm up briefly inside the station building."
+                "en": "Wear windproof gloves as the wind chill while riding in freezing weather is biting; warm up briefly inside the station building.",
+                "fr": "Portez des gants coupe-vent car le refroidissement éolien en roulant par temps glacial est mordant ; réchauffez-vous brièvement à l'intérieur du bâtiment de la gare."
               }
             },
             {
@@ -613,13 +679,15 @@
                 "de": "Parc François-Mitterrand",
                 "hu": "Parc François-Mitterrand",
                 "ro": "Parc François-Mitterrand",
-                "en": "Parc François-Mitterrand"
+                "en": "Parc François-Mitterrand",
+                "fr": "Parc François-Mitterrand"
               },
               "tip_5lang": {
                 "de": "Die Wege im Park können bei Frost stellenweise glatt sein; fahren Sie vorsichtig und genießen Sie die klare Sicht durch die kahlen Bäume.",
                 "hu": "A park ösvényei fagyban helyenként csúszósak lehetnek; tekerjen óvatosan, és élvezze a tiszta kilátást a kopasz fák között.",
                 "ro": "Aleile parcului pot fi alunecoase pe alocuri din cauza înghețului; pedalați cu prudență și admirați vizibilitatea clară printre arbori.",
-                "en": "The park trails can be icy in patches; ride with caution and enjoy the clear visibility through the bare winter trees."
+                "en": "The park trails can be icy in patches; ride with caution and enjoy the clear visibility through the bare winter trees.",
+                "fr": "Les sentiers du parc peuvent être verglacés par endroits ; roulez prudemment et profitez de la visibilité dégagée à travers les arbres dépouillés de l’hiver."
               }
             },
             {
@@ -627,13 +695,15 @@
                 "de": "Bassin de Boissy",
                 "hu": "Bassin de Boissy",
                 "ro": "Bassin de Boissy",
-                "en": "Bassin de Boissy"
+                "en": "Bassin de Boissy",
+                "fr": "Bassin de Boissy"
               },
               "tip_5lang": {
                 "de": "Achten Sie auf Raureif am Boden, der die Uferwege rutschig macht; die Wintersonne spiegelt sich wunderschön auf der oft angefrorenen Wasseroberfläche.",
                 "hu": "Figyeljen a talajmenti fagyra, ami csúszóssá teszi a part menti utat; a téli nap gyönyörűen csillan meg a gyakran befagyott vízfelszínen.",
                 "ro": "Atenție la chiciura de pe sol care face malul alunecos; soarele de iarnă se reflectă superb pe suprafața apei adesea înghețate.",
-                "en": "Watch for ground frost making the lakeside path slippery; the winter sun reflects beautifully off the often partially frozen water surface."
+                "en": "Watch for ground frost making the lakeside path slippery; the winter sun reflects beautifully off the often partially frozen water surface.",
+                "fr": "Surveillez le givre au sol qui rend le chemin au bord du lac glissant ; le soleil d’hiver se reflète magnifiquement sur la surface souvent partiellement gelée de l’eau."
               }
             },
             {
@@ -641,13 +711,15 @@
                 "de": "Square de la Futaie",
                 "hu": "Square de la Futaie",
                 "ro": "Square de la Futaie",
-                "en": "Square de la Futaie"
+                "en": "Square de la Futaie",
+                "fr": "Square de la Futaie"
               },
               "tip_5lang": {
                 "de": "Nutzen Sie den Halt für eine kurze Bewegungspause, um die Blutzirkulation in den Füßen anzuregen; bleiben Sie im Schutz der Hecken.",
                 "hu": "Használja ki a megállót egy rövid átmozgatásra, hogy élénkítse a vérkeringést a lábaiban; maradjon a szélvédettebb sövények közelében.",
                 "ro": "Folosiți oprirea pentru o scurtă mișcare pentru a stimula circulația în picioare; rămâneți în adăpostul gardurilor vii pentru a evita vântul.",
-                "en": "Use the stop for a quick stretch to boost circulation in your feet; stay near the hedges to shield yourself from the cold breeze."
+                "en": "Use the stop for a quick stretch to boost circulation in your feet; stay near the hedges to shield yourself from the cold breeze.",
+                "fr": "Faites une pause étirement rapide pour stimuler la circulation dans vos pieds ; restez près des haies pour vous abriter de la brise froide."
               }
             },
             {
@@ -655,13 +727,15 @@
                 "de": "Parc Launay",
                 "hu": "Parc Launay",
                 "ro": "Parc Launay",
-                "en": "Parc Launay"
+                "en": "Parc Launay",
+                "fr": "Parc Launay"
               },
               "tip_5lang": {
                 "de": "Die Waldwege sind im Winter oft fest gefroren und gut befahrbar; beenden Sie Ihren Besuch, bevor die Kälte nach Sonnenuntergang zunimmt.",
                 "hu": "Az erdei utak télen gyakran keményre fagynak és jól tekerhetőek; fejezze be a látogatást, mielőtt naplemente után hirtelen lehűlne a levegő.",
                 "ro": "Potecile din pădure sunt adesea înghețate și ușor de parcurs iarna; încheiați vizita înainte ca gerul să se întețească după apus.",
-                "en": "The woodland trails are often frozen solid and easy to ride in winter; finish your visit before the temperature drops after sunset."
+                "en": "The woodland trails are often frozen solid and easy to ride in winter; finish your visit before the temperature drops after sunset.",
+                "fr": "Les sentiers en sous-bois sont souvent gelés et faciles à parcourir en hiver ; terminez votre visite avant que la température ne chute après le coucher du soleil."
               }
             },
             {
@@ -669,13 +743,15 @@
                 "de": "Quiz Room",
                 "hu": "Quiz Room",
                 "ro": "Quiz Room",
-                "en": "Quiz Room"
+                "en": "Quiz Room",
+                "fr": "Quiz Room"
               },
               "tip_5lang": {
                 "de": "Genießen Sie die wohlige Wärme im Inneren nach der kalten Fahrt; dies ist der perfekte Ort, um sich für die letzte Etappe aufzuwärmen.",
                 "hu": "Élvezze a benti kellemes meleget a hideg tekerés után; ez a tökéletes hely a felmelegedésre az utolsó szakasz előtt.",
                 "ro": "Bucurați-vă de căldura primitoare din interior după cursa friguroasă; este locul perfect pentru a vă reîncărca înainte de ultima etapă.",
-                "en": "Enjoy the cozy indoor warmth after your cold ride; this is the perfect place to defrost before the final leg of your journey."
+                "en": "Enjoy the cozy indoor warmth after your cold ride; this is the perfect place to defrost before the final leg of your journey.",
+                "fr": "Profitez de la chaleur confortable à l’intérieur après votre balade froide ; c’est l’endroit parfait pour se réchauffer avant la dernière étape de votre trajet."
               }
             },
             {
@@ -683,13 +759,15 @@
                 "de": "Résidence du Stade",
                 "hu": "Résidence du Stade",
                 "ro": "Résidence du Stade",
-                "en": "Résidence du Stade"
+                "en": "Résidence du Stade",
+                "fr": "Résidence du Stade"
               },
               "tip_5lang": {
                 "de": "Stellen Sie sicher, dass Ihre Reflektoren sauber sind, da es bereits ab 16:30 Uhr dämmert und die Sichtbarkeit entscheidend ist.",
                 "hu": "Győződjön meg róla, hogy a prizmák tiszták, mivel már 16:30-kor szürkülni kezd, és a láthatóság ilyenkor életmentő.",
                 "ro": "Asigurați-vă că reflectorizantele sunt curate, deoarece amurgul începe deja la 16:30 și vizibilitatea este crucială pe drum.",
-                "en": "Ensure your reflectors are clean as twilight begins as early as 16:30, making visibility crucial on the residential roads."
+                "en": "Ensure your reflectors are clean as twilight begins as early as 16:30, making visibility crucial on the residential roads.",
+                "fr": "Assurez-vous que vos réflecteurs sont propres car le crépuscule commence parfois dès 16:30, rendant la visibilité cruciale sur les routes résidentielles."
               }
             }
           ]
@@ -709,7 +787,8 @@
             "de": "Beauchamp Station",
             "hu": "Beauchamp Station",
             "ro": "Beauchamp Station",
-            "en": "Beauchamp Station"
+            "en": "Beauchamp Station",
+            "fr": "Beauchamp Station"
           },
           "coords": [
             2.197898,
@@ -724,7 +803,8 @@
             "de": "Starten Sie Ihre Fahrt am belebten Bahnhof, wo sich die Pendler treffen, und nutzen Sie den nahen Parkplatz für einen kurzen Orientierungshalt.",
             "hu": "Kezdje autós útját a forgalmas állomásnál, ahol az ingázók gyülekeznek, és használja a közeli parkolót egy gyors tájékozódásra.",
             "ro": "Începeți-vă drumul cu mașina de la gara aglomerată, centrul navetiștilor, și folosiți parcarea din apropiere pentru a vă orienta.",
-            "en": "Start your drive at the busy commuter hub of the station, using the nearby parking lot for a quick orientation before heading north."
+            "en": "Start your drive at the busy commuter hub of the station, using the nearby parking lot for a quick orientation before heading north.",
+            "fr": "Commencez votre trajet au centre animé des navetteurs de la gare, en utilisant le parking proche pour une brève orientation avant de partir vers le nord."
           }
         },
         {
@@ -732,7 +812,8 @@
             "de": "Bassin RD191 n°1",
             "hu": "Bassin RD191 n°1",
             "ro": "Bassin RD191 n°1",
-            "en": "Bassin RD191 n°1"
+            "en": "Bassin RD191 n°1",
+            "fr": "Bassin RD191 n°1"
           },
           "coords": [
             2.195814,
@@ -747,7 +828,8 @@
             "de": "Fahren Sie zu diesem malerischen, schilfumstandenen Wasserbecken im Norden und parken Sie am Rand, um den morgendlichen Nebel sicher zu genießen.",
             "hu": "Hajtson el ehhez a nádassal körülvett, festői északi víztározóhoz, és ügyeljen arra, hogy a kijelölt padkán parkoljon, hogy biztonságban élvezhesse a reggeli ködöt.",
             "ro": "Conduceți până la acest pitoresc bazin nordic înconjurat de stuf, asigurându-vă că parcați pe acostament pentru a admira în siguranță ceața dimineții.",
-            "en": "Drive up to this scenic northern water basin surrounded by reeds, ensuring you park on the designated shoulder to safely enjoy the morning mist."
+            "en": "Drive up to this scenic northern water basin surrounded by reeds, ensuring you park on the designated shoulder to safely enjoy the morning mist.",
+            "fr": "Rendez-vous jusqu’à ce bassin d’eau pittoresque au nord entouré de roseaux, en veillant à vous garer sur l’accotement prévu pour profiter en toute sécurité de la brume matinale."
           }
         },
         {
@@ -755,7 +837,8 @@
             "de": "Bassin de retenue de la Peupleuraie",
             "hu": "Bassin de retenue de la Peupleuraie",
             "ro": "Bassin de retenue de la Peupleuraie",
-            "en": "Bassin de retenue de la Peupleuraie"
+            "en": "Bassin de retenue de la Peupleuraie",
+            "fr": "Bassin de retenue de la Peupleuraie"
           },
           "coords": [
             2.186606,
@@ -770,7 +853,8 @@
             "de": "Entdecken Sie dieses wichtige, in der Landschaft versteckte Hochwasserschutzbecken und sprechen Sie leise, um die nistenden Wasservögel nicht aufzuscheuchen.",
             "hu": "Fedezze fel ezt a tájban megbúvó, ökológiai fontosságú árvízvédelmi tározót, és beszéljen halkan, nehogy elijessze a fészkelő vízimadarakat.",
             "ro": "Descoperiți acest rezervor ecologic crucial pentru controlul inundațiilor ascuns în peisaj, menținând o voce joasă pentru a nu speria păsările de apă.",
-            "en": "Discover this crucial ecological flood-control reservoir hidden in the landscape, keeping your voice low to avoid scaring away the nesting waterbirds."
+            "en": "Discover this crucial ecological flood-control reservoir hidden in the landscape, keeping your voice low to avoid scaring away the nesting waterbirds.",
+            "fr": "Découvrez ce réservoir de retenue des crues, essentiel pour l’écologie et dissimulé dans le paysage ; parlez doucement pour ne pas effrayer les oiseaux aquatiques nicheurs."
           }
         },
         {
@@ -778,7 +862,8 @@
             "de": "Résidence du Stade",
             "hu": "Résidence du Stade",
             "ro": "Résidence du Stade",
-            "en": "Résidence du Stade"
+            "en": "Résidence du Stade",
+            "fr": "Résidence du Stade"
           },
           "coords": [
             2.181279,
@@ -793,7 +878,8 @@
             "de": "Nutzen Sie die großzügigen Parkplätze in der Nähe des Sportkomplexes, um sich ein lokales Spiel anzusehen und die lebendige Gemeindeatmosphäre auf Ihrer Fahrt zu genießen.",
             "hu": "Használja a sportkomplexum melletti tágas parkolókat, nézzen meg egy gyors meccset, és élvezze az élénk közösségi hangulatot útközben.",
             "ro": "Folosiți parcările spațioase de lângă complexul sportiv pentru a urmări un meci rapid sau pur și simplu pentru a vă bucura de atmosfera plină de viață a comunității.",
-            "en": "Use the spacious lots near the sports complex to watch a quick match or simply enjoy the lively community atmosphere on your road trip."
+            "en": "Use the spacious lots near the sports complex to watch a quick match or simply enjoy the lively community atmosphere on your road trip.",
+            "fr": "Utilisez les grands parkings près du complexe sportif pour regarder un match rapide ou simplement profiter de l’atmosphère animée de la communauté pendant votre road trip."
           }
         },
         {
@@ -801,7 +887,8 @@
             "de": "Quiz Room",
             "hu": "Quiz Room",
             "ro": "Quiz Room",
-            "en": "Quiz Room"
+            "en": "Quiz Room",
+            "fr": "Quiz Room"
           },
           "coords": [
             2.18284,
@@ -816,7 +903,8 @@
             "de": "Parken Sie bequem in den umliegenden Straßen und erleben Sie ein interaktives Quiz-Spiel, das Sie sich vorab online reservieren sollten.",
             "hu": "Parkoljon kényelmesen a környező utcákban, és élvezze az interaktív vetélkedőt, amelyet érdemes előre online lefoglalnia.",
             "ro": "Parcați comod pe străzile din jur și experimentați un joc interactiv de tip quiz, asigurându-vă că rezervați online în avans.",
-            "en": "Park in the nearby free spots and enjoy an interactive quiz game experience, making sure to book online ahead of time for guaranteed entry."
+            "en": "Park in the nearby free spots and enjoy an interactive quiz game experience, making sure to book online ahead of time for guaranteed entry.",
+            "fr": "Garez-vous dans les places gratuites à proximité et profitez d’une expérience de jeu-questionnaire interactive ; pensez à réserver en ligne à l’avance pour garantir l’entrée."
           }
         },
         {
@@ -824,7 +912,8 @@
             "de": "Parc François-Mitterrand",
             "hu": "Parc François-Mitterrand",
             "ro": "Parc François-Mitterrand",
-            "en": "Parc François-Mitterrand"
+            "en": "Parc François-Mitterrand",
+            "fr": "Parc François-Mitterrand"
           },
           "coords": [
             2.21079,
@@ -839,7 +928,8 @@
             "de": "Beenden Sie Ihre Fahrt an diesem weitläufigen Park mit guten Parkmöglichkeiten und genießen Sie einen entspannten Nachmittagsspaziergang unter den Bäumen.",
             "hu": "Fejezze be autós körútját ennél a tágas, jól parkolható parknál, és élvezze a pihentető délutáni sétát a fák alatt.",
             "ro": "Încheiați-vă turul cu mașina la acest parc întins, cu locuri de parcare din belșug, savurând o plimbare relaxantă de după-amiază pe sub copaci.",
-            "en": "Conclude your driving tour at this expansive park with ample street parking nearby, enjoying a relaxing late-afternoon walk under the trees."
+            "en": "Conclude your driving tour at this expansive park with ample street parking nearby, enjoying a relaxing late-afternoon walk under the trees.",
+            "fr": "Concluez votre circuit en voiture dans ce vaste parc avec de nombreux stationnements de rue à proximité, en profitant d’une promenade relaxante en fin d’après-midi sous les arbres."
           }
         }
       ],
@@ -847,7 +937,8 @@
         "de": "Fahren Sie morgens zu den nördlichen Wasserbecken und genießen Sie den Nebel über dem Schilf. Mittags fahren Sie nach Süden zu den Sportplätzen der Résidence du Stade. Ihr Nachmittag ist voller Spaß im interaktiven Quiz Room. Beenden Sie Ihren Ausflug mit einem friedlichen Spaziergang durch den Parc François-Mitterrand.",
         "hu": "Autózzon reggel az északi víztározókhoz, és élvezze a nádas felett lebegő ködöt. Délben vegye az irányt dél felé, a Résidence du Stade közösségi pályáihoz. A délután tele lesz szórakozással az interaktív Quiz Room jóvoltából. Fejezze be a kirándulást egy békés sétával a Parc François-Mitterrand-ban.",
         "ro": "Conduceți dimineața către bazinele de apă nordice, bucurându-vă de ceața de deasupra stufului. La prânz, mergeți spre sud pentru a explora terenurile comunitare de la Résidence du Stade. După-amiaza este plină de distracție la Quiz Room. Terminați-vă excursia cu o plimbare liniștită prin Parc François-Mitterrand.",
-        "en": "Drive out to the northern water basins in the morning, enjoying the mist over the reeds. By midday, head south to explore the community fields at Résidence du Stade. Your afternoon is packed with fun at the interactive Quiz Room. Finish your day trip with a peaceful walk through Parc François-Mitterrand."
+        "en": "Drive out to the northern water basins in the morning, enjoying the mist over the reeds. By midday, head south to explore the community fields at Résidence du Stade. Your afternoon is packed with fun at the interactive Quiz Room. Finish your day trip with a peaceful walk through Parc François-Mitterrand.",
+        "fr": "Partez le matin vers les bassins d’eau du nord en profitant de la brume sur les roseaux. À midi, dirigez-vous vers le sud pour explorer les terrains communautaires de la Résidence du Stade. Votre après-midi est dédié aux activités au Quiz Room interactif. Terminez votre escapade d’une journée par une promenade paisible à travers le Parc François-Mitterrand."
       },
       "variants": {
         "rainy": {
@@ -855,7 +946,8 @@
             "de": "Ein entspannter Regentag mit dem Auto beginnt am Bahnhof von Beauchamp. Mittags besichtigen wir die Wasserbecken der Region bequem vom trockenen Fahrzeug aus. Am Nachmittag bietet der Quiz Room eine perfekte Indoor-Alternative, bevor wir zum Parc François-Mitterrand fahren. Den Abend verbringen wir bei einer gemütlichen Fahrt durch die beleuchteten, regennassen Straßen der Stadt.",
             "hu": "Kényelmes esős nap autóval az állomástól indulva. Délben a környék víztározóit vesszük szemügyre a száraz utastérből. Délután a Quiz Room kínál tökéletes fedett programot, majd a François-Mitterrand park felé vesszük az irányt. Az estét a város kivilágított, vizes utcáin való lassú autózással zárjuk, élvezve a benti meleget.",
             "ro": "O zi relaxată de ploaie cu mașina începe la gara din Beauchamp. La prânz, vizităm bazinele de apă ale regiunii din confortul vehiculului uscat. După-amiaza, Quiz Room oferă o alternativă perfectă la interior, înainte de a merge spre Parc François-Mitterrand. Seara se încheie cu o plimbare lentă pe străzile luminate și umede ale orașului.",
-            "en": "A relaxed rainy day by car starts at Beauchamp Station. By noon, we visit the region's water basins from the dry comfort of the vehicle. In the afternoon, the Quiz Room offers a perfect indoor escape before we drive to Parc François-Mitterrand. We conclude the evening with a cozy drive through the lit, rain-slicked streets of the town."
+            "en": "A relaxed rainy day by car starts at Beauchamp Station. By noon, we visit the region's water basins from the dry comfort of the vehicle. In the afternoon, the Quiz Room offers a perfect indoor escape before we drive to Parc François-Mitterrand. We conclude the evening with a cozy drive through the lit, rain-slicked streets of the town.",
+            "fr": "Une journée pluvieuse et tranquille en voiture commence à la gare de Beauchamp. À midi, nous visitons les bassins d’eau de la région depuis le confort sec du véhicule. L’après‑midi, le Quiz Room offre une parfaite échappée intérieure avant de nous rendre au Parc François-Mitterrand. Nous concluons la soirée par une balade en voiture à travers les rues éclairées et luisantes de pluie de la ville."
           },
           "stops": [
             {
@@ -863,13 +955,15 @@
                 "de": "Beauchamp Station",
                 "hu": "Beauchamp Station",
                 "ro": "Beauchamp Station",
-                "en": "Beauchamp Station"
+                "en": "Beauchamp Station",
+                "fr": "Beauchamp Station"
               },
               "tip_5lang": {
                 "de": "Nutzen Sie die Parkplätze nahe dem Bahnhof für einen schnellen Start; prüfen Sie Ihre Scheibenwischer für die Fahrt im Regen.",
                 "hu": "Használja az állomás közeli parkolókat a gyors induláshoz; ellenőrizze az ablaktörlőket az esős utazás megkezdése előtt.",
                 "ro": "Folosiți parcările de lângă gară pentru un start rapid; verificați ștergătoarele pentru drumul prin ploaie prin oraș.",
-                "en": "Use the parking lots near the station for a quick start; check your windshield wipers before setting off in the rain."
+                "en": "Use the parking lots near the station for a quick start; check your windshield wipers before setting off in the rain.",
+                "fr": "Utilisez les parkings près de la gare pour un départ rapide ; vérifiez vos essuie‑glaces avant de partir sous la pluie."
               }
             },
             {
@@ -877,13 +971,15 @@
                 "de": "Bassin RD191 n°1",
                 "hu": "Bassin RD191 n°1",
                 "ro": "Bassin RD191 n°1",
-                "en": "Bassin RD191 n°1"
+                "en": "Bassin RD191 n°1",
+                "fr": "Bassin RD191 n°1"
               },
               "tip_5lang": {
                 "de": "Vom Parkplatz aus haben Sie einen guten Blick auf das Becken, ohne nass zu werden; die Wasserfontänen wirken bei Regen besonders dynamisch.",
                 "hu": "A parkolóból jó rálátás nyílik a tározóra anélkül, hogy megázna; a vízsugarak esőben különösen látványosak és dinamikusak.",
                 "ro": "Din parcare aveți o vedere bună asupra bazinului fără a vă uda; jeturile de apă par deosebit de dinamice sub ploaie.",
-                "en": "You can get a good view of the basin from the parking area without getting wet; the water levels make the scenery look quite dramatic."
+                "en": "You can get a good view of the basin from the parking area without getting wet; the water levels make the scenery look quite dramatic.",
+                "fr": "Vous pouvez bien voir le bassin depuis l’aire de stationnement sans vous mouiller ; le niveau d’eau rend le paysage assez dramatique."
               }
             },
             {
@@ -891,13 +987,15 @@
                 "de": "Bassin de retenue de la Peupleuraie",
                 "hu": "Bassin de retenue de la Peupleuraie",
                 "ro": "Bassin de retenue de la Peupleuraie",
-                "en": "Bassin de retenue de la Peupleuraie"
+                "en": "Bassin de retenue de la Peupleuraie",
+                "fr": "Bassin de retenue de la Peupleuraie"
               },
               "tip_5lang": {
                 "de": "Parken Sie vorsichtig am Rand, da die unbefestigten Flächen weich sein können; genießen Sie die ruhige, graue Wasserlandschaft durch das Fenster.",
                 "hu": "Parkoljon óvatosan az út szélén, mert a nem aszfaltozott részek felázhatnak; élvezze a szürke vízi tájat a kocsi ablakán keresztül.",
                 "ro": "Parcați cu atenție pe margine, deoarece zonele neasfaltate pot fi moi; admirați peisajul acvatic gri prin fereastra mașinii.",
-                "en": "Park carefully on the shoulder as unpaved areas can be soft in the rain; enjoy the tranquil, grey waterscape through your window."
+                "en": "Park carefully on the shoulder as unpaved areas can be soft in the rain; enjoy the tranquil, grey waterscape through your window.",
+                "fr": "Garez‑vous prudemment sur l’accotement car les zones non goudronnées peuvent être meubles sous la pluie ; profitez du paysage aquatique gris et tranquille à travers votre fenêtre."
               }
             },
             {
@@ -905,13 +1003,15 @@
                 "de": "Résidence du Stade",
                 "hu": "Résidence du Stade",
                 "ro": "Résidence du Stade",
-                "en": "Résidence du Stade"
+                "en": "Résidence du Stade",
+                "fr": "Résidence du Stade"
               },
               "tip_5lang": {
                 "de": "In den Wohnstraßen ist bei Regen erhöhte Vorsicht vor Fußgängern mit Regenschirmen geboten, da deren Sicht oft eingeschränkt ist.",
                 "hu": "A lakóövezet utcáin esőben fokozottan figyeljen az esernyős gyalogosokra, mivel az ő látóterük ilyenkor gyakran korlátozott.",
                 "ro": "Pe străzile rezidențiale, atenție sporită la pietonii cu umbrele, deoarece vizibilitatea lor este adesea redusă sub ploaie.",
-                "en": "In the residential streets, exercise extra caution for pedestrians with umbrellas, as their field of vision is often restricted."
+                "en": "In the residential streets, exercise extra caution for pedestrians with umbrellas, as their field of vision is often restricted.",
+                "fr": "Dans les rues résidentielles, redoublez de prudence envers les piétons portant des parapluies, car leur champ de vision est souvent réduit."
               }
             },
             {
@@ -919,13 +1019,15 @@
                 "de": "Quiz Room",
                 "hu": "Quiz Room",
                 "ro": "Quiz Room",
-                "en": "Quiz Room"
+                "en": "Quiz Room",
+                "fr": "Quiz Room"
               },
               "tip_5lang": {
                 "de": "Dank der nahen Parkmöglichkeiten kommen Sie fast trocken in das Gebäude; genießen Sie die beheizten Räume während draußen der Regen prasselt.",
                 "hu": "A közeli parkolási lehetőségnek köszönhetően szinte szárazon juthat be; élvezze a fűtött tereket, miközben odakint kopog az eső.",
                 "ro": "Datorită parcării din apropiere, puteți intra aproape uscat; bucurați-vă de spațiile încălzite în timp ce afară plouă torențial.",
-                "en": "Thanks to nearby parking, you can reach the entrance almost dry; enjoy the heated indoor fun while the rain pours outside."
+                "en": "Thanks to nearby parking, you can reach the entrance almost dry; enjoy the heated indoor fun while the rain pours outside.",
+                "fr": "Grâce au stationnement à proximité, vous pouvez atteindre l’entrée presque au sec ; profitez des activités chauffées à l’intérieur pendant que la pluie tombe dehors."
               }
             },
             {
@@ -933,13 +1035,15 @@
                 "de": "Parc François-Mitterrand",
                 "hu": "Parc François-Mitterrand",
                 "ro": "Parc François-Mitterrand",
-                "en": "Parc François-Mitterrand"
+                "en": "Parc François-Mitterrand",
+                "fr": "Parc François-Mitterrand"
               },
               "tip_5lang": {
                 "de": "Fahren Sie langsam auf dem Rückweg, da sich bei starkem Regen Aquaplaning-Gefahr auf den lokalen Verbindungsstraßen entwickeln kann.",
                 "hu": "Hajtson lassan a visszaúton, mert heves esőzéskor fennáll az aquaplaning veszélye a helyi összekötő utakon.",
                 "ro": "Conduceți încet la întoarcere, deoarece se pot forma bălți mari pe drumurile locale, riscând acvaplanarea în timpul ploii.",
-                "en": "Drive slowly on your way back as heavy rain can create a risk of aquaplaning on the local connecting roads."
+                "en": "Drive slowly on your way back as heavy rain can create a risk of aquaplaning on the local connecting roads.",
+                "fr": "Conduisez lentement au retour car les fortes pluies peuvent provoquer de l’aquaplanage sur les routes de liaison locales."
               }
             }
           ]
@@ -949,7 +1053,8 @@
             "de": "Ein klarer Wintermorgen im Auto startet am Bahnhof. Mittags besichtigen wir die frostigen Bassins, während die Heizung für Wohlbefinden sorgt. Am Nachmittag ist der Quiz Room der ideale Ort, um der Kälte für eine Weile zu entfliehen. Da es um 17:00 Uhr dunkel wird, genießen wir die Rückfahrt durch das beleuchtete Beauchamp, während die Temperaturen draußen unter den Gefrierpunkt sinken.",
             "hu": "Tiszta téli reggel autóval az állomástól indulva. Délben a zúzmarás víztározókat látogatjuk meg, miközben a fűtés biztosítja a kényelmet. Délután a Quiz Room a legjobb hely, hogy egy időre elmeneküljünk a hideg elől. Mivel 17:00-kor már sötétedik, a kivilágított Beauchamp utcáin autózunk vissza, miközben odakint fagypont alá süllyed a hőmérséklet.",
             "ro": "O dimineață senină de iarnă cu mașina începe la gară. La prânz vizităm bazinele înghețate, în timp ce căldura din mașină ne asigură confortul. După-amiaza, Quiz Room este locul ideal pentru a scăpa de frig. Deoarece se întunecă la 17:00, ne bucurăm de drumul prin Beauchamp-ul luminat, în timp ce afară temperaturile scad sub îngheț.",
-            "en": "A clear winter morning by car starts at the station. By noon, we visit the frosty basins while the car's heater keeps us cozy. In the afternoon, the Quiz Room is the ideal spot to escape the cold for a while. As it gets dark by 17:00, we enjoy a drive through the illuminated Beauchamp while temperatures outside drop below freezing."
+            "en": "A clear winter morning by car starts at the station. By noon, we visit the frosty basins while the car's heater keeps us cozy. In the afternoon, the Quiz Room is the ideal spot to escape the cold for a while. As it gets dark by 17:00, we enjoy a drive through the illuminated Beauchamp while temperatures outside drop below freezing.",
+            "fr": "Une matinée d’hiver claire en voiture commence à la gare. À midi, nous visitons les bassins givrés pendant que le chauffage de la voiture nous tient au chaud. L’après‑midi, le Quiz Room est l’endroit idéal pour échapper un moment au froid. Comme il fait sombre vers 17:00, nous apprécions une balade à travers le Beauchamp illuminé tandis que les températures extérieures passent sous zéro."
           },
           "stops": [
             {
@@ -957,13 +1062,15 @@
                 "de": "Beauchamp Station",
                 "hu": "Beauchamp Station",
                 "ro": "Beauchamp Station",
-                "en": "Beauchamp Station"
+                "en": "Beauchamp Station",
+                "fr": "Beauchamp Station"
               },
               "tip_5lang": {
                 "de": "Lassen Sie den Motor kurz warmlaufen und befreien Sie alle Scheiben vollständig von Frost, bevor Sie Ihre winterliche Tour starten.",
                 "hu": "Hagyja a motort kicsit bemelegedni, és teljesen jégtelenítse a szélvédőket, mielőtt elkezdené a téli felfedezőutat.",
                 "ro": "Lăsați motorul să se încălzească puțin și curățați complet gheața de pe geamuri înainte de a porni în turul de iarnă.",
-                "en": "Let the engine warm up and clear all frost from the windows completely before starting your winter tour of the town."
+                "en": "Let the engine warm up and clear all frost from the windows completely before starting your winter tour of the town.",
+                "fr": "Laissez le moteur chauffer et dégagez complètement tout givre des vitres avant de commencer votre tour hivernal en ville."
               }
             },
             {
@@ -971,13 +1078,15 @@
                 "de": "Bassin RD191 n°1",
                 "hu": "Bassin RD191 n°1",
                 "ro": "Bassin RD191 n°1",
-                "en": "Bassin RD191 n°1"
+                "en": "Bassin RD191 n°1",
+                "fr": "Bassin RD191 n°1"
               },
               "tip_5lang": {
                 "de": "Die gefrorenen Ränder des Beckens bieten im Morgenlicht ein tolles Fotomotiv; bleiben Sie für die beste Sicht direkt am Parkplatzrand stehen.",
                 "hu": "A tározó fagyott szélei a reggeli fényben remek fotótémát kínálnak; a legjobb kilátásért álljon meg közvetlenül a parkoló szélén.",
                 "ro": "Marginile înghețate ale bazinului oferă un subiect foto excelent în lumina dimineții; opriți chiar la marginea parcării pentru vedere optimă.",
-                "en": "The frozen edges of the basin offer great photo opportunities in the morning light; stay right at the parking edge for the best view."
+                "en": "The frozen edges of the basin offer great photo opportunities in the morning light; stay right at the parking edge for the best view.",
+                "fr": "Les bords gelés du bassin offrent d’excellentes opportunités photo à la lumière du matin ; restez au bord du parking à droite pour la meilleure vue."
               }
             },
             {
@@ -985,13 +1094,15 @@
                 "de": "Bassin de retenue de la Peupleuraie",
                 "hu": "Bassin de retenue de la Peupleuraie",
                 "ro": "Bassin de retenue de la Peupleuraie",
-                "en": "Bassin de retenue de la Peupleuraie"
+                "en": "Bassin de retenue de la Peupleuraie",
+                "fr": "Bassin de retenue de la Peupleuraie"
               },
               "tip_5lang": {
                 "de": "Vorsicht vor überfrierender Nässe auf den Brücken und Zufahrtswegen; die Winterlandschaft hier ist besonders friedlich und menschenleer.",
                 "hu": "Vigyázzon a lefagyásokra a hidakon és a bekötőutakon; a téli táj itt ilyenkor különösen békés és mentes a tömegtől.",
                 "ro": "Atenție la poleiul de pe poduri și drumurile de acces; peisajul de iarnă de aici este deosebit de liniștit și pustiu în acest sezon.",
-                "en": "Watch out for black ice on bridges and access roads; the winter landscape here is especially peaceful and crowd-free right now."
+                "en": "Watch out for black ice on bridges and access roads; the winter landscape here is especially peaceful and crowd-free right now.",
+                "fr": "Attention au verglas noir sur les ponts et les voies d’accès ; le paysage hivernal ici est particulièrement paisible et sans foule en ce moment."
               }
             },
             {
@@ -999,13 +1110,15 @@
                 "de": "Résidence du Stade",
                 "hu": "Résidence du Stade",
                 "ro": "Résidence du Stade",
-                "en": "Résidence du Stade"
+                "en": "Résidence du Stade",
+                "fr": "Résidence du Stade"
               },
               "tip_5lang": {
                 "de": "Achten Sie in den engen Wohnstraßen auf glatte Stellen im Schatten der Gebäude, wo das Eis auch tagsüber oft nicht taut.",
                 "hu": "A szűk lakóutcákban figyeljen a házak árnyékában lévő jeges foltokra, ahol a fagy gyakran napközben sem enged fel.",
                 "ro": "Pe străzile rezidențiale înguste, atenție la porțiunile înghețate din umbra clădirilor, unde gheața nu se topește adesea nici ziua.",
-                "en": "In the narrow residential streets, watch for icy patches in the shade of buildings, where frost often persists throughout the day."
+                "en": "In the narrow residential streets, watch for icy patches in the shade of buildings, where frost often persists throughout the day.",
+                "fr": "Dans les rues résidentielles étroites, surveillez les plaques de glace à l’ombre des bâtiments, où le givre persiste souvent toute la journée."
               }
             },
             {
@@ -1013,13 +1126,15 @@
                 "de": "Quiz Room",
                 "hu": "Quiz Room",
                 "ro": "Quiz Room",
-                "en": "Quiz Room"
+                "en": "Quiz Room",
+                "fr": "Quiz Room"
               },
               "tip_5lang": {
                 "de": "Nutzen Sie den beheizten Innenraum für eine längere Pause vom Fahren; die warme Atmosphäre ist ein toller Kontrast zum frostigen Wetter draußen.",
                 "hu": "Használja ki a fűtött belső teret egy hosszabb pihenőre; a meleg atmoszféra remek kontrasztot alkot a kinti fagyos idővel.",
                 "ro": "Folosiți interiorul încălzit pentru o pauză mai lungă de la condus; atmosfera caldă este un contrast excelent cu gerul de afară.",
-                "en": "Take advantage of the heated interior for a longer break from driving; the warm atmosphere is a great contrast to the freezing weather."
+                "en": "Take advantage of the heated interior for a longer break from driving; the warm atmosphere is a great contrast to the freezing weather.",
+                "fr": "Profitez de l’intérieur chauffé pour faire une pause prolongée de la conduite ; l’atmosphère chaude contraste agréablement avec le temps glacial."
               }
             },
             {
@@ -1027,13 +1142,15 @@
                 "de": "Parc François-Mitterrand",
                 "hu": "Parc François-Mitterrand",
                 "ro": "Parc François-Mitterrand",
-                "en": "Parc François-Mitterrand"
+                "en": "Parc François-Mitterrand",
+                "fr": "Parc François-Mitterrand"
               },
               "tip_5lang": {
                 "de": "Da die Sonne gegen 17:00 Uhr untergeht, sollten Sie die Parkwege im hellen erkunden; prüfen Sie Ihre Scheinwerfer für die Rückfahrt.",
                 "hu": "Mivel a nap 17:00 körül nyugszik, még világosban érdemes körbenézni; ellenőrizze a fényszórókat a sötétedés utáni hazatéréshez.",
                 "ro": "Deoarece soarele apune în jur de 17:00, explorați parcul cât e lumină; verificați farurile pentru drumul de întoarcere pe întuneric.",
-                "en": "With the sun setting around 17:00, explore the park while it's still light; check your headlights for the return trip in the dark."
+                "en": "With the sun setting around 17:00, explore the park while it's still light; check your headlights for the return trip in the dark.",
+                "fr": "Avec le soleil se couchant vers 17:00, explorez le parc tant qu’il fait encore jour ; vérifiez vos phares pour le retour dans l’obscurité."
               }
             }
           ]

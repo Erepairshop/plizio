@@ -21,7 +21,8 @@
             "de": "Place d'Armes",
             "hu": "Place d'Armes",
             "ro": "Place d'Armes",
-            "en": "Place d'Armes"
+            "en": "Place d'Armes",
+            "fr": "Place d’Armes"
           },
           "coords": [
             2.1221,
@@ -36,7 +37,8 @@
             "de": "Bester Blick auf die goldene Fassade.",
             "hu": "A legjobb kilátás az aranykapura.",
             "ro": "Cea mai bună vedere a porții de aur.",
-            "en": "Best view of the golden gate."
+            "en": "Best view of the golden gate.",
+            "fr": "Meilleure vue sur la porte dorée."
           }
         },
         {
@@ -44,7 +46,8 @@
             "de": "Schloss Versailles",
             "hu": "Versailles-i Kastély",
             "ro": "Palatul Versailles",
-            "en": "Palace of Versailles"
+            "en": "Palace of Versailles",
+            "fr": "Palais de Versailles"
           },
           "coords": [
             2.1202,
@@ -59,7 +62,8 @@
             "de": "Besuchen Sie den Spiegelsaal zuerst.",
             "hu": "A Tükörteremmel kezdje a látogatást.",
             "ro": "Vizitați Sala Oglinzilor mai întâi.",
-            "en": "Visit the Hall of Mirrors first."
+            "en": "Visit the Hall of Mirrors first.",
+            "fr": "Visitez d’abord la Galerie des Glaces."
           }
         },
         {
@@ -67,7 +71,8 @@
             "de": "Schlossgärten",
             "hu": "Kastélykert",
             "ro": "Grădinile Palatului",
-            "en": "Palace Gardens"
+            "en": "Palace Gardens",
+            "fr": "Jardins du Palais"
           },
           "coords": [
             2.1105,
@@ -82,7 +87,8 @@
             "de": "Die musikalischen Wasserspiele sind ein Muss.",
             "hu": "A zenélő szökőkutak kihagyhatatlanok.",
             "ro": "Fântânile muzicale sunt de neratat.",
-            "en": "The musical fountains are a must-see."
+            "en": "The musical fountains are a must-see.",
+            "fr": "Les fontaines musicales sont immanquables."
           }
         },
         {
@@ -90,7 +96,8 @@
             "de": "Kathedrale Saint-Louis",
             "hu": "Szent Lajos-székesegyház",
             "ro": "Catedrala Saint-Louis",
-            "en": "Saint-Louis Cathedral"
+            "en": "Saint-Louis Cathedral",
+            "fr": "Cathédrale Saint-Louis"
           },
           "coords": [
             2.1265,
@@ -105,7 +112,8 @@
             "de": "Bewundern Sie die Barockorgel.",
             "hu": "Csodálja meg a barokk orgonát.",
             "ro": "Admirați orga barocă.",
-            "en": "Admire the Baroque organ."
+            "en": "Admire the Baroque organ.",
+            "fr": "Admirez l’orgue baroque."
           }
         },
         {
@@ -113,7 +121,8 @@
             "de": "Markt Notre-Dame",
             "hu": "Notre-Dame piac",
             "ro": "Piața Notre-Dame",
-            "en": "Marché Notre-Dame"
+            "en": "Marché Notre-Dame",
+            "fr": "Marché Notre-Dame"
           },
           "coords": [
             2.1315,
@@ -128,7 +137,8 @@
             "de": "Probieren Sie lokalen Käse.",
             "hu": "Kóstolja meg a helyi sajtokat.",
             "ro": "Gustați brânzeturile locale.",
-            "en": "Taste some local cheeses."
+            "en": "Taste some local cheeses.",
+            "fr": "Goûtez quelques fromages locaux."
           }
         }
       ],
@@ -137,7 +147,7 @@
         "hu": "Kezdje a napot a fenséges Place d'Armes téren, majd merüljön el a kastély pompájában. Délben fedezze fel a Le Nôtre által tervezett kertek mértani tökéletességét egy hosszú séta során. A délután a csendes Saint-Louis negyedbe vezeti, ahol a lenyűgöző barokk katedrálist láthatja. Az estét töltse a történelmi Notre-Dame piacon, ahol a helyi élet pezseg és kiváló francia finomságokat kóstolhat a hangulatos standok között.",
         "ro": "Începeți ziua în maiestuoasa Place d'Armes înainte de a pătrunde în opulența palatului. La prânz, explorați perfecțiunea geometrică a grădinilor proiectate de Le Nôtre printr-o plimbare relaxantă. După-amiaza vă poartă în cartierul liniștit Saint-Louis, cu catedrala sa barocă impresionantă. Încheiați seara cu descoperiri culinare în piața istorică Notre-Dame, unde viața locală pulsează cu energie și arome autentice.",
         "en": "Start your day at the majestic Place d'Armes before diving into the opulence of the palace. At midday, explore the geometric perfection of the gardens designed by Le Nôtre during an extensive stroll. The afternoon leads you to the quiet Saint-Louis district with its impressive Baroque cathedral. End your evening with culinary discoveries at the historic Notre-Dame market, where local life pulses with energy and authentic French flavors.",
-        "fr": "Commencez votre journée sur la majestueuse Place d'Armes avant de plonger dans l'opulence du château. À midi, explorez la perfection géométrique des jardins dessinés par Le Nôtre lors d'une longue promenade. L'après-midi vous mène au quartier tranquille de Saint-Louis avec son impressionnante cathédrale baroque. Terminez votre soirée par des découvertes culinaires au marché historique Notre-Dame, où la vie locale bat son plein avec des saveurs françaises authentiques."
+        "fr": "Commencez votre journée à la majestueuse Place d’Armes avant de plonger dans l’opulence du palais. À midi, explorez la perfection géométrique des jardins conçus par Le Nôtre lors d’une longue promenade. L’après‑midi vous mènera dans le calme du quartier Saint‑Louis avec sa cathédrale baroque impressionnante. Terminez la soirée par des découvertes culinaires au marché historique Notre‑Dame, où la vie locale bat son plein et où se dégustent des saveurs françaises authentiques."
       },
       "gastro_picks": {
         "de": [
@@ -282,8 +292,8 @@
           "Visit the market on Tuesday, Friday, or Sunday."
         ],
         "fr": [
-          "Réservez les billets pour le château des semaines à l'avance.",
-          "Des chaussures confortables sont obligatoires pour les longues distances.",
+          "Réservez les billets du palais des semaines à l’avance.",
+          "Des chaussures confortables sont indispensables pour les longues distances.",
           "Visitez le marché le mardi, le vendredi ou le dimanche."
         ]
       },
@@ -293,7 +303,8 @@
             "de": "Beginnen Sie Ihren Tag auf dem majestätischen Place d'Armes, bevor Sie in den Prunk des Schlosses eintauchen. Am Mittag erkunden Sie die geometrische Perfektion der Gärten von Le Nôtre bei einem ausgiebigen Spaziergang. Der Nachmittag führt Sie in das ruhige Saint-Louis-Viertel mit seiner beeindruckenden Barock-Kathedrale. Den Abend lassen Sie bei kulinarischen Entdeckungen auf dem historischen Markt Notre-Dame ausklingen, wo das echte Versailler Leben pulsiert.",
             "hu": "Kezdje a napot a fenséges Place d'Armes téren, majd merüljön el a kastély pompájában. Délben fedezze fel a Le Nôtre által tervezett kertek mértani tökéletességét egy hosszú séta során. A délután a csendes Saint-Louis negyedbe vezeti, ahol a lenyűgöző barokk katedrálist láthatja. Az estét töltse a történelmi Notre-Dame piacon, ahol a helyi élet pezseg és kiváló francia finomságokat kóstolhat a hangulatos standok között.",
             "ro": "Începeți ziua în maiestuoasa Place d'Armes înainte de a pătrunde în opulența palatului. La prânz, explorați perfecțiunea geometrică a grădinilor proiectate de Le Nôtre printr-o plimbare relaxantă. După-amiaza vă poartă în cartierul liniștit Saint-Louis, cu catedrala sa barocă impresionantă. Încheiați seara cu descoperiri culinare în piața istorică Notre-Dame, unde viața locală pulsează cu energie și arome autentice.",
-            "en": "Start your day at the majestic Place d'Armes before diving into the opulence of the palace. At midday, explore the geometric perfection of the gardens designed by Le Nôtre during an extensive stroll. The afternoon leads you to the quiet Saint-Louis district with its impressive Baroque cathedral. End your evening with culinary discoveries at the historic Notre-Dame market, where local life pulses with energy and authentic French flavors."
+            "en": "Start your day at the majestic Place d'Armes before diving into the opulence of the palace. At midday, explore the geometric perfection of the gardens designed by Le Nôtre during an extensive stroll. The afternoon leads you to the quiet Saint-Louis district with its impressive Baroque cathedral. End your evening with culinary discoveries at the historic Notre-Dame market, where local life pulses with energy and authentic French flavors.",
+            "fr": "Commencez votre journée à la majestueuse Place d’Armes avant de plonger dans l’opulence du palais. À midi, explorez la perfection géométrique des jardins conçus par Le Nôtre lors d’une longue promenade. L’après‑midi vous mènera dans le calme du quartier Saint‑Louis avec sa cathédrale baroque impressionnante. Terminez la soirée par des découvertes culinaires au marché historique Notre‑Dame, où la vie locale bat son plein et où se dégustent des saveurs françaises authentiques."
           },
           "stops": [
             {
@@ -301,7 +312,8 @@
                 "de": "Place d'Armes",
                 "hu": "Place d'Armes",
                 "ro": "Place d'Armes",
-                "en": "Place d'Armes"
+                "en": "Place d'Armes",
+                "fr": "Place d’Armes"
               },
               "tip_5lang": null
             },
@@ -310,7 +322,8 @@
                 "de": "Schloss Versailles",
                 "hu": "Versailles-i Kastély",
                 "ro": "Palatul Versailles",
-                "en": "Palace of Versailles"
+                "en": "Palace of Versailles",
+                "fr": "Palais de Versailles"
               },
               "tip_5lang": null
             },
@@ -319,7 +332,8 @@
                 "de": "Schlossgärten",
                 "hu": "Kastélykert",
                 "ro": "Grădinile Palatului",
-                "en": "Palace Gardens"
+                "en": "Palace Gardens",
+                "fr": "Jardins du Palais"
               },
               "tip_5lang": null
             },
@@ -328,7 +342,8 @@
                 "de": "Kathedrale Saint-Louis",
                 "hu": "Szent Lajos-székesegyház",
                 "ro": "Catedrala Saint-Louis",
-                "en": "Saint-Louis Cathedral"
+                "en": "Saint-Louis Cathedral",
+                "fr": "Cathédrale Saint-Louis"
               },
               "tip_5lang": null
             },
@@ -337,7 +352,8 @@
                 "de": "Markt Notre-Dame",
                 "hu": "Notre-Dame piac",
                 "ro": "Piața Notre-Dame",
-                "en": "Marché Notre-Dame"
+                "en": "Marché Notre-Dame",
+                "fr": "Marché Notre-Dame"
               },
               "tip_5lang": null
             }
@@ -460,6 +476,11 @@
               "Book palace tickets weeks in advance.",
               "Comfortable shoes are mandatory for the long distances.",
               "Visit the market on Tuesday, Friday, or Sunday."
+            ],
+            "fr": [
+              "Réservez les billets du palais des semaines à l’avance.",
+              "Des chaussures confortables sont indispensables pour les longues distances.",
+              "Visitez le marché le mardi, le vendredi ou le dimanche."
             ]
           }
         },
@@ -469,7 +490,7 @@
             "hu": "Reggel a Place d'Armes tágas tere kitett az esőnek, de a kastély belső terei hamar menedéket nyújtanak. Délben az aranyozott termekben barangolunk, amíg odakint esik.\n\nDélután a kertek vizes ösvényein haladunk a katedrális felé, majd a Notre-Dame piac fedett csarnokában zárjuk a napot. Itt megkóstolhatjuk a helyi sajtokat és borokat a kopogó esőben is.",
             "ro": "Dimineața, Place d'Armes este expusă ploii, dar castelul oferă imediat un adăpost regal. La prânz explorăm galeriile somptuoase în timp ce afară plouă torențial.\n\nDupă-amiaza traversăm grădinile spre Catedrala Saint-Louis, un refugiu spiritual uscat. Seara se încheie în hala acoperită a pieței Notre-Dame, unde aromele locale ne fac să uităm de vremea de afară.",
             "en": "Morning at Place d'Armes is exposed to rain, but the palace soon provides a grand indoor refuge. At noon, we explore the Hall of Mirrors while the rain falls on the windows.\n\nAfternoon leads through the wet garden paths to the dry Saint-Louis Cathedral. The evening ends at the covered Marché Notre-Dame, enjoying local delicacies in a cozy, sheltered atmosphere.",
-            "fr": "Le matin à la Place d'Armes est exposé à la pluie, mais le château offre bientôt un grand refuge intérieur. À midi, nous explorons la Galerie des Glaces pendant que la pluie tombe sur les fenêtres.\n\nL'après-midi mène à travers les sentiers mouillés du jardin jusqu'à la cathédrale Saint-Louis, bien au sec. La soirée se termine au Marché Notre-Dame couvert, en dégustant des spécialités locales dans une atmosphère chaleureuse et abritée."
+            "fr": "Matinée à la Place d’Armes exposée à la pluie, mais le palais offre vite un grand refuge intérieur. À midi, nous explorons la Galerie des Glaces tandis que la pluie tombe sur les vitres.\n\nL’après‑midi traverse les allées humides des jardins jusqu’à la cathédrale Saint‑Louis, au sec. La soirée se termine au couvert du Marché Notre‑Dame, dégustant des spécialités locales dans une atmosphère chaleureuse et abritée."
           },
           "stops": [
             {
@@ -479,7 +500,7 @@
                 "hu": "Keressen menedéket a szemközti épületek árkádjai alatt az esőben.",
                 "ro": "Căutați adăpost sub arcadele clădirilor de vis-a-vis dacă plouă.",
                 "en": "Seek shelter under the arcades of the opposite buildings during rain.",
-                "fr": "Cherchez refuge sous les arcades des bâtiments en face pendant la pluie."
+                "fr": "Mettez‑vous à l’abri sous les arcades des bâtiments en face en cas de pluie."
               }
             },
             {
@@ -489,7 +510,7 @@
                 "hu": "Tökéletes esős program; használja a ruhatárat a vizes kabátoknak.",
                 "ro": "Locație perfectă pe ploaie; folosiți garderoba pentru haine ude.",
                 "en": "Perfect rainy day spot; use the cloakroom for your wet coats.",
-                "fr": "Endroit parfait en cas de pluie ; utilisez le vestiaire pour vos manteaux mouillés."
+                "fr": "Endroit parfait pour un jour de pluie ; utilisez la consigne pour vos manteaux mouillés."
               }
             },
             {
@@ -499,7 +520,7 @@
                 "hu": "Használja a kövezett utakat, hogy elkerülje a sarat a gyepeken.",
                 "ro": "Folosiți aleile pavate pentru a evita noroiul de pe gazon.",
                 "en": "Stick to paved paths to avoid mud on the lawn areas.",
-                "fr": "Restez sur les sentiers pavés pour éviter la boue sur les pelouses."
+                "fr": "Restez sur les chemins pavés pour éviter la boue sur les pelouses."
               }
             },
             {
@@ -509,7 +530,7 @@
                 "hu": "Csendes, száraz hely, ahol egy időre elfelejtheti a kinti esőt.",
                 "ro": "Un loc liniștit și uscat unde puteți uita de ploaie pentru o vreme.",
                 "en": "A quiet, dry place to forget about the rain for a while.",
-                "fr": "Un endroit sec et calme pour oublier la pluie un instant."
+                "fr": "Un lieu calme et sec pour oublier la pluie un moment."
               }
             },
             {
@@ -519,7 +540,7 @@
                 "hu": "Maradjon a történelmi vásárcsarnokban, hogy szárazon vásárolhasson.",
                 "ro": "Rămâneți în hala istorică a pieței pentru cumpărături la uscat.",
                 "en": "Stay inside the historic market hall for dry shopping.",
-                "fr": "Restez à l'intérieur de la halle du marché historique pour faire vos achats au sec."
+                "fr": "Restez à l’intérieur de la halle historique pour faire vos achats à l’abri."
               }
             }
           ],
@@ -549,10 +570,10 @@
               "Use the small cafes on Rue Satory during heavy downpours."
             ],
             "fr": [
-              "Portez des chaussures imperméables pour les allées en gravier des jardins.",
-              "La halle du marché de la place Notre-Dame offre un excellent abri.",
-              "Les parapluies sont autorisés dans le château mais doivent être déposés à la consigne.",
-              "Utilisez les petits cafés de la rue Satory lors des fortes averses."
+              "Portez des chaussures imperméables pour les allées gravillonnées des jardins.",
+              "La halle du marché sur la place Notre‑Dame offre un excellent abri.",
+              "Les parapluies sont autorisés dans le palais mais doivent être déposés en consigne.",
+              "Utilisez les petits cafés de la rue Satory en cas de fortes averses."
             ]
           }
         },
@@ -562,7 +583,7 @@
             "hu": "A fagyos reggel a Place d'Armes téren meleg öltözetet igényel. Délben a kastély fűtött, aranyozott termeiben melegszünk fel a látogatás során.\n\nDélután a kert tiszta, téli csendet áraszt, mielőtt betérnénk a Saint-Louis katedrálisba. Az este forró teával és süteményekkel zárul a hangulatos téli piacon.",
             "ro": "O dimineață geroasă la Place d'Armes necesită îmbrăcăminte groasă. La prânz ne încălzim în sălile somptuoase și încălzite ale Castelului Versailles.\n\nDupă-amiaza, grădina oferă o liniște hibernală clară, înainte de a vizita Catedrala Saint-Louis. Seara se încheie cu ceai fierbinte și prăjituri la piața de iarnă.",
             "en": "A frosty morning at Place d'Armes requires warm clothing. At noon, we warm up inside the grand, heated halls of the Palace of Versailles.\n\nAfternoon brings a crisp, winter silence to the gardens before we visit the Saint-Louis Cathedral. The evening ends with hot tea and pastries at the cozy winter market.",
-            "fr": "Une matinée glaciale à la Place d'Armes nécessite des vêtements chauds. À midi, nous nous réchauffons à l'intérieur des grands halls chauffés du Château de Versailles.\n\nL'après-midi apporte un silence hivernal vif aux jardins avant de visiter la cathédrale Saint-Louis. La soirée se termine avec un thé chaud et des pâtisseries au marché d'hiver accueillant."
+            "fr": "Un matin glacé à la Place d’Armes demande des vêtements chauds. À midi, réchauffez‑vous dans les grandes salles chauffées du Palais de Versailles.\n\nL’après‑midi apporte un calme hivernal et cristallin aux jardins avant la visite de la cathédrale Saint‑Louis. La soirée se termine avec un thé chaud et des pâtisseries au marché d’hiver convivial."
           },
           "stops": [
             {
@@ -592,7 +613,7 @@
                 "hu": "A szobrokat télen gyakran letakarják a védelem érdekében.",
                 "ro": "Statuile sunt adesea acoperite iarna pentru protecție.",
                 "en": "Statues are often covered in winter for protection.",
-                "fr": "Les statues sont souvent couvertes en hiver pour les protéger."
+                "fr": "Les statues sont souvent protégées par des bâches en hiver."
               }
             },
             {
@@ -602,7 +623,7 @@
                 "hu": "Békés menedék, gyakran melegebb, mint a szeles utcák.",
                 "ro": "Un refugiu liniștit, adesea mai cald decât străzile vântoase.",
                 "en": "A peaceful retreat, often warmer than the windy streets.",
-                "fr": "Une retraite paisible, souvent plus chaude que les rues venteuses."
+                "fr": "Un refuge paisible, souvent plus chaud que les rues venteuses."
               }
             },
             {
@@ -612,7 +633,7 @@
                 "hu": "Kóstolja meg a sült gesztenyét vagy a forralt bort a kinti pultoknál.",
                 "ro": "Încercați castane coapte sau vin fiert la tarabele de afară.",
                 "en": "Try roasted chestnuts or mulled wine at the outdoor stalls.",
-                "fr": "Goûtez aux marrons chauds ou au vin chaud aux étals extérieurs."
+                "fr": "Essayez les marrons grillés ou le vin chaud aux stands extérieurs."
               }
             }
           ],
@@ -642,10 +663,10 @@
               "Pre-book dinner in heated bistros to avoid waiting in the cold."
             ],
             "fr": [
-              "Le soleil se couche vers 17h00 en hiver.",
-              "Les jardins ferment plus tôt en hiver, généralement à 18h00.",
-              "Portez plusieurs couches car il fait chaud dans le château mais il y a du vent dehors.",
-              "Réservez votre dîner dans des bistrots chauffés pour éviter d'attendre dans le froid."
+              "Le soleil se couche vers 17:00 en hiver.",
+              "Les jardins ferment plus tôt en hiver, généralement à 18:00.",
+              "Portez des couches car il fait chaud dans le palais mais venteux dehors.",
+              "Réservez votre dîner dans des bistrots chauffés pour éviter d’attendre dans le froid."
             ]
           }
         }
@@ -664,7 +685,8 @@
             "de": "Grand Canal",
             "hu": "Nagy-csatorna",
             "ro": "Marele Canal",
-            "en": "Grand Canal"
+            "en": "Grand Canal",
+            "fr": "Grand Canal"
           },
           "coords": [
             2.1005,
@@ -679,7 +701,8 @@
             "de": "Fahren Sie die gesamte Länge entlang.",
             "hu": "Tekerjen végig a teljes hossza mentén.",
             "ro": "Pedalați pe întreaga lungime.",
-            "en": "Cycle along the entire length."
+            "en": "Cycle along the entire length.",
+            "fr": "Parcourez-le à vélo sur toute sa longueur."
           }
         },
         {
@@ -687,7 +710,8 @@
             "de": "Grand Trianon",
             "hu": "Nagy-Trianon",
             "ro": "Marele Trianon",
-            "en": "Grand Trianon"
+            "en": "Grand Trianon",
+            "fr": "Grand Trianon"
           },
           "coords": [
             2.1052,
@@ -702,7 +726,8 @@
             "de": "Bewundern Sie den rosa Marmor.",
             "hu": "Csodálja meg a rózsaszín márványt.",
             "ro": "Admirați marmura roz.",
-            "en": "Admire the pink marble."
+            "en": "Admire the pink marble.",
+            "fr": "Admirez le marbre rose."
           }
         },
         {
@@ -710,7 +735,8 @@
             "de": "Petit Trianon",
             "hu": "Kis-Trianon",
             "ro": "Micul Trianon",
-            "en": "Petit Trianon"
+            "en": "Petit Trianon",
+            "fr": "Petit Trianon"
           },
           "coords": [
             2.1095,
@@ -725,7 +751,8 @@
             "de": "Marie-Antoinettes Zufluchtsort.",
             "hu": "Marie Antoinette menedékhelye.",
             "ro": "Refugiul Mariei Antoaneta.",
-            "en": "Marie Antoinette's sanctuary."
+            "en": "Marie Antoinette's sanctuary.",
+            "fr": "Le refuge de Marie-Antoinette."
           }
         },
         {
@@ -733,7 +760,8 @@
             "de": "Hameau de la Reine",
             "hu": "A királyné faluja",
             "ro": "Cătunul Reginei",
-            "en": "The Queen's Hamlet"
+            "en": "The Queen's Hamlet",
+            "fr": "Le Hameau de la Reine"
           },
           "coords": [
             2.1125,
@@ -748,7 +776,8 @@
             "de": "Ein idyllisches Dorf im Park.",
             "hu": "Idilli falu a parkban.",
             "ro": "Un sat idilic în parc.",
-            "en": "An idyllic village in the park."
+            "en": "An idyllic village in the park.",
+            "fr": "Un village idyllique dans le parc."
           }
         },
         {
@@ -756,7 +785,8 @@
             "de": "Potager du Roi",
             "hu": "A király konyhakertje",
             "ro": "Grădina de legume a Regelui",
-            "en": "King's Kitchen Garden"
+            "en": "King's Kitchen Garden",
+            "fr": "Potager du Roi"
           },
           "coords": [
             2.1215,
@@ -771,7 +801,8 @@
             "de": "Kaufen Sie frisches Obst der Saison.",
             "hu": "Vásároljon friss szezonális gyümölcsöt.",
             "ro": "Cumpărați fructe proaspete de sezon.",
-            "en": "Buy fresh seasonal fruit."
+            "en": "Buy fresh seasonal fruit.",
+            "fr": "Achetez des fruits de saison frais."
           }
         }
       ],
@@ -780,7 +811,7 @@
         "hu": "Fedezze fel Versailles hatalmas parkját könnyedén, két keréken. Tekerjen a Nagy-csatorna mentén, és élvezze a szabadságot a királyi környezetben. A délelőtt a Trianon-kastélyok elegáns építészetéé. Délután az út a királyné rusztikus paradicsomába, a falucskába repíti, majd zárásként látogassa meg a király konyhakertjét, ahonnan egykor a Napkirály asztalát látták el a legfinomabb gyümölcsökkel és zöldségekkel.",
         "ro": "Explorați parcul vast din Versailles fără efort, pe bicicletă. Pedalați de-a lungul Marelui Canal și bucurați-vă de libertate în cadrul regal. Dimineața este dedicată arhitecturii elegante a castelelor Trianon. După-amiaza, drumul vă poartă în paradisul rustic al reginei, cătunul, înainte de a vizita Potager du Roi, de unde era aprovizionată odinioară masa Regelui Soare cu cele mai fine fructe.",
         "en": "Explore the vast parklands of Versailles effortlessly on two wheels. Cycle along the Grand Canal and enjoy the freedom of the royal setting. The morning is dedicated to the elegant architecture of the Trianon palaces. In the afternoon, the path takes you to the Queen's rustic paradise, the Hamlet, before ending with a visit to the King's Kitchen Garden, which once supplied the Sun King's table with the finest produce.",
-        "fr": "Explorez les vastes parcs de Versailles sans effort sur deux roues. Pédalez le long du Grand Canal et profitez de la liberté de ce cadre royal. La matinée est dédiée à l'élégante architecture des châteaux du Trianon. L'après-midi, le chemin vous mène au paradis rustique de la Reine, le Hameau, avant de finir par une visite au Potager du Roi, qui approvisionnait autrefois la table du Roi-Soleil avec les meilleurs produits."
+        "fr": "Explorez les vastes espaces du parc de Versailles aisément à vélo. Parcourez le Grand Canal et profitez de la liberté du cadre royal. La matinée est consacrée à l'architecture élégante des palais du Trianon. L'après-midi, le parcours vous mène au paradis rustique de la Reine, le Hameau, avant de se terminer par une visite au Potager du Roi, qui fournissait autrefois la table du Roi-Soleil avec des produits d'exception."
       },
       "gastro_picks": {
         "de": [
@@ -950,9 +981,9 @@
           "Take plenty of water for the long distances."
         ],
         "fr": [
-          "Des vélos peuvent être loués au Canal ou près de la gare.",
-          "Le vélo n'est autorisé que sur les sentiers balisés du parc.",
-          "Prenez beaucoup d'eau pour les longues distances."
+          "Des vélos se louent au niveau du Canal ou près de la gare.",
+          "Le vélo n'est autorisé que sur les chemins balisés du parc.",
+          "Prévoyez beaucoup d'eau pour les longues distances."
         ]
       },
       "variants": {
@@ -961,7 +992,8 @@
             "de": "Erkunden Sie die weitläufigen Parkanlagen von Versailles mühelos mit dem Fahrrad. Radeln Sie am Grand Canal entlang und genießen Sie die Meeresbrise mitten in Frankreich. Der Vormittag gehört der Architektur von Mansart in den Trianon-Schlössern. Am Nachmittag führt Sie der Weg in das rustikale Paradies der Königin, das Hameau, bevor Sie den Potager du Roi besuchen, wo einst die Tafel des Sonnenkönigs mit exotischen Früchten versorgt wurde.",
             "hu": "Fedezze fel Versailles hatalmas parkját könnyedén, két keréken. Tekerjen a Nagy-csatorna mentén, és élvezze a szabadságot a királyi környezetben. A délelőtt a Trianon-kastélyok elegáns építészetéé. Délután az út a királyné rusztikus paradicsomába, a falucskába repíti, majd zárásként látogassa meg a király konyhakertjét, ahonnan egykor a Napkirály asztalát látták el a legfinomabb gyümölcsökkel és zöldségekkel.",
             "ro": "Explorați parcul vast din Versailles fără efort, pe bicicletă. Pedalați de-a lungul Marelui Canal și bucurați-vă de libertate în cadrul regal. Dimineața este dedicată arhitecturii elegante a castelelor Trianon. După-amiaza, drumul vă poartă în paradisul rustic al reginei, cătunul, înainte de a vizita Potager du Roi, de unde era aprovizionată odinioară masa Regelui Soare cu cele mai fine fructe.",
-            "en": "Explore the vast parklands of Versailles effortlessly on two wheels. Cycle along the Grand Canal and enjoy the freedom of the royal setting. The morning is dedicated to the elegant architecture of the Trianon palaces. In the afternoon, the path takes you to the Queen's rustic paradise, the Hamlet, before ending with a visit to the King's Kitchen Garden, which once supplied the Sun King's table with the finest produce."
+            "en": "Explore the vast parklands of Versailles effortlessly on two wheels. Cycle along the Grand Canal and enjoy the freedom of the royal setting. The morning is dedicated to the elegant architecture of the Trianon palaces. In the afternoon, the path takes you to the Queen's rustic paradise, the Hamlet, before ending with a visit to the King's Kitchen Garden, which once supplied the Sun King's table with the finest produce.",
+            "fr": "Explorez les vastes espaces du parc de Versailles aisément à vélo. Parcourez le Grand Canal et profitez de la liberté du cadre royal. La matinée est consacrée à l'architecture élégante des palais du Trianon. L'après-midi, le parcours vous mène au paradis rustique de la Reine, le Hameau, avant de se terminer par une visite au Potager du Roi, qui fournissait autrefois la table du Roi-Soleil avec des produits d'exception."
           },
           "stops": [
             {
@@ -969,7 +1001,8 @@
                 "de": "Grand Canal",
                 "hu": "Nagy-csatorna",
                 "ro": "Marele Canal",
-                "en": "Grand Canal"
+                "en": "Grand Canal",
+                "fr": "Grand Canal"
               },
               "tip_5lang": null
             },
@@ -978,7 +1011,8 @@
                 "de": "Grand Trianon",
                 "hu": "Nagy-Trianon",
                 "ro": "Marele Trianon",
-                "en": "Grand Trianon"
+                "en": "Grand Trianon",
+                "fr": "Grand Trianon"
               },
               "tip_5lang": null
             },
@@ -987,7 +1021,8 @@
                 "de": "Petit Trianon",
                 "hu": "Kis-Trianon",
                 "ro": "Micul Trianon",
-                "en": "Petit Trianon"
+                "en": "Petit Trianon",
+                "fr": "Petit Trianon"
               },
               "tip_5lang": null
             },
@@ -996,7 +1031,8 @@
                 "de": "Hameau de la Reine",
                 "hu": "A királyné faluja",
                 "ro": "Cătunul Reginei",
-                "en": "The Queen's Hamlet"
+                "en": "The Queen's Hamlet",
+                "fr": "Le Hameau de la Reine"
               },
               "tip_5lang": null
             },
@@ -1005,7 +1041,8 @@
                 "de": "Potager du Roi",
                 "hu": "A király konyhakertje",
                 "ro": "Grădina de legume a Regelui",
-                "en": "King's Kitchen Garden"
+                "en": "King's Kitchen Garden",
+                "fr": "Potager du Roi"
               },
               "tip_5lang": null
             }
@@ -1148,6 +1185,11 @@
               "Bikes can be rented at the Canal or near the station.",
               "Cycling is only allowed on marked paths in the park.",
               "Take plenty of water for the long distances."
+            ],
+            "fr": [
+              "Des vélos se louent au niveau du Canal ou près de la gare.",
+              "Le vélo n'est autorisé que sur les chemins balisés du parc.",
+              "Prévoyez beaucoup d'eau pour les longues distances."
             ]
           }
         },
@@ -1157,7 +1199,7 @@
             "hu": "Az esős kezdés a Grand Canalnál jó esőruházatot igényel. Délben óvatosan tekerünk a Grand Trianonhoz, megcsodálva a ködös építészetet.\n\nDélután az út a Petit Trianonhoz és a királyné falujához vezet, ahol az eső misztikus hangulatot áraszt. A napot a király konyhakertje zárja a szürke égbolt alatt.",
             "ro": "Un început ploios la Marele Canal necesită echipament de ploaie bun. La prânz pedalăm cu grijă spre Marele Trianon pentru a admira arhitectura în ceață.\n\nDupă-amiaza drumul duce spre Micul Trianon și Cătunul Reginei, unde ploaia creează o atmosferă mistică. Finalul zilei aparține Grădinii de legume a Regelui sub cerul gri.",
             "en": "A rainy start at the Grand Canal requires good rain gear. At noon, we cycle carefully to the Grand Trianon to admire the architecture in the mist.\n\nAfternoon leads to the Petit Trianon and the Queen's Hamlet, where the rain creates a mystical mood. The day ends at the King's Kitchen Garden under gray skies.",
-            "fr": "Un départ pluvieux au Grand Canal nécessite un bon équipement de pluie. À midi, nous pédalons prudemment jusqu'au Grand Trianon pour admirer l'architecture dans la brume.\n\nL'après-midi mène au Petit Trianon et au Hameau de la Reine, où la pluie crée une ambiance mystique. La journée se termine au Potager du Roi sous un ciel gris."
+            "fr": "Un départ pluvieux au Grand Canal nécessite un bon équipement de pluie. À midi, nous pédalons prudemment jusqu'au Grand Trianon pour admirer l'architecture dans la brume.\n\nL'après‑midi conduit au Petit Trianon et au Hameau de la Reine, où la pluie crée une atmosphère mystique. La journée se termine au Potager du Roi sous un ciel gris."
           },
           "stops": [
             {
@@ -1167,7 +1209,7 @@
                 "hu": "Ügyeljen a sáros szakaszokra a kiépítetlen parti utakon.",
                 "ro": "Atenție la porțiunile noroioase de pe potecile de mal neamenajate.",
                 "en": "Beware of muddy sections on the unpaved paths by the water.",
-                "fr": "Attention aux sections boueuses sur les chemins non pavés au bord de l'eau."
+                "fr": "Attention aux sections boueuses sur les chemins non goudronnés au bord de l'eau."
               }
             },
             {
@@ -1177,7 +1219,7 @@
                 "hu": "Parkoljon a kijelölt tárolóknál; a márványfelületek csúsznak.",
                 "ro": "Parcați bicicleta la rastelele desemnate; marmura este alunecoasă.",
                 "en": "Park your bike at designated racks; marble floors are slippery.",
-                "fr": "Garez votre vélo sur les supports prévus ; les sols en marbre sont glissants."
+                "fr": "Garez votre vélo aux racks prévus ; les sols en marbre sont glissants."
               }
             },
             {
@@ -1187,7 +1229,7 @@
                 "hu": "Egy rövid benti megálló védelmet nyújt egy hirtelen zápor elől.",
                 "ro": "O scurtă oprire în interior oferă protecție împotriva unei averse.",
                 "en": "A short stop inside provides shelter from a sudden rain shower.",
-                "fr": "Un court arrêt à l'intérieur permet de s'abriter d'une averse soudaine."
+                "fr": "Un court arrêt à l'intérieur offre un abri contre une averse soudaine."
               }
             },
             {
@@ -1197,7 +1239,7 @@
                 "hu": "A falucska esőben különösen festői és autentikus hangulatú.",
                 "ro": "Cătunul pare deosebit de pitoresc și autentic pe ploaie.",
                 "en": "The hamlet looks particularly picturesque and authentic in the rain.",
-                "fr": "Le hameau semble particulièrement pittoresque et authentique sous la pluie."
+                "fr": "Le hameau est particulièrement pittoresque et authentique sous la pluie."
               }
             },
             {
@@ -1207,7 +1249,7 @@
                 "hu": "A talaj nagyon puha lehet; maradjon a főutakon.",
                 "ro": "Solul poate fi foarte moale; rămâneți pe aleile principale.",
                 "en": "The ground can be very soft; stick to the main paths.",
-                "fr": "Le sol peut être très meuble ; restez sur les allées principales."
+                "fr": "Le sol peut être très meuble ; restez sur les chemins principaux."
               }
             }
           ],
@@ -1237,10 +1279,10 @@
               "Rental bike saddles are often wet; bring a small cloth to wipe them."
             ],
             "fr": [
-              "Louez des vélos avec garde-boue pour éviter les éclaboussures.",
+              "Louez des vélos avec garde‑boue pour éviter les éclaboussures.",
               "Évitez les freinages brusques sur les pavés mouillés.",
-              "Les allées offrent un certain abri sous les arbres lors d'une pluie légère.",
-              "Les selles des vélos de location sont souvent mouillées ; apportez un petit chiffon."
+              "Les avenues offrent un certain abri sous les arbres en cas de pluie légère.",
+              "Les selles des vélos de location sont souvent humides ; apportez un petit chiffon pour les essuyer."
             ]
           }
         },
@@ -1250,7 +1292,7 @@
             "hu": "Hideg reggeli szél fúj a Grand Canal felett a biciklitúránk során. Délben érjük el a Grand Trianont, melynek rózsaszín márványa csillog a téli napfényben.\n\nDélután a Petit Trianont és a falucskát fedezzük fel, mielőtt beállna a szürkület. A nap gyors tekeréssel zárul a király konyhakertje felé az alkonyatban.",
             "ro": "Un vânt rece de dimineață suflă peste Marele Canal în timpul plimbării noastre. La prânz ajungem la Marele Trianon, a cărui marmură roz strălucește în soarele de iarnă.\n\nDupă-amiaza explorăm Micul Trianon și cătunul înainte de lăsarea serii. Ziua se încheie cu o cursă rapidă spre Grădina Regelui în lumina apusului.",
             "en": "A cold morning wind blows across the Grand Canal during our bike tour. At noon, we reach the Grand Trianon, its pink marble gleaming in the winter sun.\n\nAfternoon is spent exploring the Petit Trianon and the hamlet before dusk sets in. The day ends with a brisk ride to the King's Kitchen Garden in the evening glow.",
-            "fr": "Un vent matinal froid souffle sur le Grand Canal pendant notre tour à vélo. À midi, nous atteignons le Grand Trianon, son marbre rose brillant sous le soleil d'hiver.\n\nL'après-midi est consacré à l'exploration du Petit Trianon et du hameau avant la tombée de la nuit. La journée se termine par une balade revigorante jusqu'au Potager du Roi dans les lueurs du soir."
+            "fr": "Un vent matinal froid souffle sur le Grand Canal lors de notre tour à vélo. À midi, nous atteignons le Grand Trianon, son marbre rose brillant au soleil d'hiver.\n\nL'après‑midi est consacré à l'exploration du Petit Trianon et du Hameau avant le crépuscule. La journée se termine par une course tonique jusqu'au Potager du Roi dans la lueur du soir."
           },
           "stops": [
             {
@@ -1260,7 +1302,7 @@
                 "hu": "Viseljen kesztyűt; a vízparti szél télen jéghideg.",
                 "ro": "Purtați mănuși; vântul de lângă apă este înghețat iarna.",
                 "en": "Wear gloves; the wind by the water is icy in winter.",
-                "fr": "Portez des gants ; le vent au bord de l'eau est glacial en hiver."
+                "fr": "Portez des gants ; le vent près de l'eau est glacial en hiver."
               }
             },
             {
@@ -1270,7 +1312,7 @@
                 "hu": "A belső terek télen szívesen látott felmelegedési lehetőséget adnak.",
                 "ro": "Interioarele sunt o pauză de încălzire binevenită iarna.",
                 "en": "The interiors provide a welcome warm-up break in winter.",
-                "fr": "Les intérieurs offrent une pause bienvenue pour se réchauffer en hiver."
+                "fr": "Les intérieurs offrent une pause bienfaisante et chaude en hiver."
               }
             },
             {
@@ -1280,7 +1322,7 @@
                 "hu": "Ügyeljen a rövidebb nyitvatartásra a főszezonon kívül.",
                 "ro": "Atenție la programul de funcționare mai scurt în extrasezon.",
                 "en": "Be mindful of the shorter opening hours during the low season.",
-                "fr": "Soyez attentif aux horaires d'ouverture réduits pendant la basse saison."
+                "fr": "Tenez compte des horaires d'ouverture réduits pendant la basse saison."
               }
             },
             {
@@ -1290,7 +1332,7 @@
                 "hu": "A falucska melletti befagyott tó mesebeli látványt nyújt.",
                 "ro": "Lacul înghețat de lângă cătun oferă un decor de poveste.",
                 "en": "The frozen lake by the hamlet offers a fairytale-like scenery.",
-                "fr": "Le lac gelé près du hameau offre un décor de conte de fées."
+                "fr": "Le lac gelé près du hameau offre un paysage féerique."
               }
             },
             {
@@ -1300,7 +1342,7 @@
                 "hu": "Télen a gyümölcsfák kopaszok, de a kert szerkezete lenyűgöző.",
                 "ro": "Iarna pomii fructiferi sunt goi, dar structura este fascinantă.",
                 "en": "In winter, fruit trees are bare, but the structure is fascinating.",
-                "fr": "En hiver, les arbres fruitiers sont nus, mais la structure est fascinante."
+                "fr": "En hiver, les arbres fruitiers sont dénudés, mais la structure est fascinante."
               }
             }
           ],
@@ -1330,9 +1372,9 @@
               "Bring a thermos with a warm drink in your bike basket."
             ],
             "fr": [
-              "L'effet du refroidissement éolien est important à vélo en hiver.",
+              "L'effet du refroidissement éolien est important quand on fait du vélo en hiver.",
               "Vérifiez la pression des pneus ; le froid peut la faire baisser légèrement.",
-              "Certaines portes du parc ferment dès 17h30 en hiver.",
+              "Certaines portes du parc ferment dès 17:30 en hiver.",
               "Apportez un thermos avec une boisson chaude dans votre panier de vélo."
             ]
           }
@@ -1352,7 +1394,8 @@
             "de": "Schloss Versailles",
             "hu": "Versailles-i Kastély",
             "ro": "Palatul Versailles",
-            "en": "Palace of Versailles"
+            "en": "Palace of Versailles",
+            "fr": "Château de Versailles"
           },
           "coords": [
             2.1202,
@@ -1367,7 +1410,8 @@
             "de": "Nutzen Sie das Parkhaus am Place d'Armes.",
             "hu": "Használja a Place d'Armes parkolóját.",
             "ro": "Folosiți parcarea din Place d'Armes.",
-            "en": "Use the parking lot at Place d'Armes."
+            "en": "Use the parking lot at Place d'Armes.",
+            "fr": "Utilisez le parking de la Place d'Armes."
           }
         },
         {
@@ -1375,7 +1419,8 @@
             "de": "Trianon-Anwesen",
             "hu": "Trianon-birtok",
             "ro": "Domeniul Trianon",
-            "en": "Trianon Estate"
+            "en": "Trianon Estate",
+            "fr": "Domaine du Trianon"
           },
           "coords": [
             2.1075,
@@ -1390,7 +1435,8 @@
             "de": "Separater Parkplatz 'Grand Trianon' vorhanden.",
             "hu": "Külön parkoló áll rendelkezésre a Nagy-Trianonnál.",
             "ro": "Parcare separată disponibilă la Marele Trianon.",
-            "en": "Separate 'Grand Trianon' parking available."
+            "en": "Separate 'Grand Trianon' parking available.",
+            "fr": "Parking séparé « Grand Trianon » disponible."
           }
         },
         {
@@ -1398,7 +1444,8 @@
             "de": "Arboretum de Chèvreloup",
             "hu": "Chèvreloup Arborétum",
             "ro": "Arboretumul Chèvreloup",
-            "en": "Arboretum de Chèvreloup"
+            "en": "Arboretum de Chèvreloup",
+            "fr": "Arboretum de Chèvreloup"
           },
           "coords": [
             2.1125,
@@ -1413,7 +1460,8 @@
             "de": "Tausende von seltenen Baumarten.",
             "hu": "Több ezer ritka fafajta gyűjteménye.",
             "ro": "Mii de specii rare de arbori.",
-            "en": "Thousands of rare tree species."
+            "en": "Thousands of rare tree species.",
+            "fr": "Des milliers d'espèces d'arbres rares."
           }
         },
         {
@@ -1421,7 +1469,8 @@
             "de": "Domaine de Marly",
             "hu": "Marly-birtok",
             "ro": "Domeniul Marly",
-            "en": "Domaine de Marly"
+            "en": "Domaine de Marly",
+            "fr": "Domaine de Marly"
           },
           "coords": [
             2.1025,
@@ -1436,7 +1485,8 @@
             "de": "Ein ehemaliger Rückzugsort des Königs.",
             "hu": "A király egykori titkos menedékhelye.",
             "ro": "O fostă reședință privată a regelui.",
-            "en": "A former private retreat of the King."
+            "en": "A former private retreat of the King.",
+            "fr": "Un ancien refuge privé du Roi."
           }
         },
         {
@@ -1444,7 +1494,8 @@
             "de": "Versailles Altstadt",
             "hu": "Versailles óváros",
             "ro": "Centrul vechi Versailles",
-            "en": "Versailles Old Town"
+            "en": "Versailles Old Town",
+            "fr": "Centre‑ville de Versailles"
           },
           "coords": [
             2.1285,
@@ -1459,7 +1510,8 @@
             "de": "Abendessen im Viertel Notre-Dame.",
             "hu": "Vacsora a Notre-Dame negyedben.",
             "ro": "Cina în cartierul Notre-Dame.",
-            "en": "Dinner in the Notre-Dame district."
+            "en": "Dinner in the Notre-Dame district.",
+            "fr": "Dîner dans le quartier Notre‑Dame."
           }
         }
       ],
@@ -1468,7 +1520,7 @@
         "hu": "Autóval élvezheti a szabadságot, és Versailles-t a főkastélyon túl is felfedezheti. Délelőtt merüljön el a pompában, majd hajtson kényelmesen a távolabb eső Trianon-birtokra. A délután a Chèvreloup arborétumba vezet, amely a nyugalom oázisa. Egy rövid kirándulás a közeli Marly-birtokra megmutatja, hová menekült a király az udvari protokoll elől. A napot Versailles óvárosában, egy kellemes vacsorával zárhatja.",
         "ro": "Cu mașina, vă bucurați de libertatea de a explora Versailles dincolo de palatul principal. Dimineața, cufundați-vă în splendoare, apoi conduceți confortabil către domeniul Trianon, mai retras. După-amiaza vă duce la Arboretumul Chèvreloup, o oază de liniște. O scurtă excursie la domeniul Marly vă arată unde evada regele de protocolul curții. Încheiați ziua relaxat în centrul vechi al orașului Versailles.",
         "en": "With a car, you enjoy the freedom to explore Versailles beyond the main palace. Immerse yourself in the splendor in the morning, then drive comfortably to the more secluded Trianon estate. The afternoon leads you to the Chèvreloup Arboretum, an oasis of calm. A short trip to the nearby Domaine de Marly shows you where the King escaped court protocol. End the day relaxed in the old town of Versailles.",
-        "fr": "En voiture, vous profitez de la liberté d'explorer Versailles au-delà du château principal. Immergez-vous dans la splendeur le matin, puis conduisez confortablement jusqu'au domaine plus retiré du Trianon. L'après-midi vous conduit à l'Arboretum de Chèvreloup, une oasis de calme. Une courte excursion au Domaine de Marly tout proche vous montre où le Roi échappait au protocole de la cour. Terminez la journée détendu dans la vieille ville de Versailles."
+        "fr": "En voiture, vous profitez de la liberté d'explorer Versailles au‑delà du palais principal. Immergez‑vous dans la splendeur le matin, puis conduisez confortablement jusqu'au domaine plus isolé du Trianon. L'après‑midi vous mène à l'arboretum de Chèvreloup, une oasis de calme. Un court trajet jusqu'au Domaine de Marly vous montre où le Roi échappait au protocole de la cour. Terminez la journée détendu dans le centre‑ville de Versailles."
       },
       "gastro_picks": {
         "de": [
@@ -1613,9 +1665,9 @@
           "In the city center, parking is often limited to 2 hours."
         ],
         "fr": [
-          "Le stationnement au château est cher ; utilisez le P+R si possible.",
-          "Évitez les week-ends en raison du trafic intense.",
-          "En centre-ville, le stationnement est souvent limité à 2 heures."
+          "Le stationnement au palais est cher ; utilisez un P+R si possible.",
+          "Évitez les week‑ends en raison du trafic dense.",
+          "En centre‑ville, le stationnement est souvent limité à 2 heures."
         ]
       },
       "variants": {
@@ -1624,7 +1676,8 @@
             "de": "Mit dem Auto genießen Sie die Freiheit, Versailles über das Hauptschloss hinaus zu erkunden. Vormittags tauchen Sie in den Prunk ein, bevor Sie bequem zum abgelegeneren Trianon-Gelände fahren. Der Nachmittag führt Sie in das Arboretum de Chèvreloup, eine Oase der Ruhe. Ein kurzer Ausflug zum nahegelegenen Domaine de Marly zeigt Ihnen, wo der König dem höfischen Protokoll entfloh. Den Tag beenden Sie entspannt in der Altstadt von Versailles.",
             "hu": "Autóval élvezheti a szabadságot, és Versailles-t a főkastélyon túl is felfedezheti. Délelőtt merüljön el a pompában, majd hajtson kényelmesen a távolabb eső Trianon-birtokra. A délután a Chèvreloup arborétumba vezet, amely a nyugalom oázisa. Egy rövid kirándulás a közeli Marly-birtokra megmutatja, hová menekült a király az udvari protokoll elől. A napot Versailles óvárosában, egy kellemes vacsorával zárhatja.",
             "ro": "Cu mașina, vă bucurați de libertatea de a explora Versailles dincolo de palatul principal. Dimineața, cufundați-vă în splendoare, apoi conduceți confortabil către domeniul Trianon, mai retras. După-amiaza vă duce la Arboretumul Chèvreloup, o oază de liniște. O scurtă excursie la domeniul Marly vă arată unde evada regele de protocolul curții. Încheiați ziua relaxat în centrul vechi al orașului Versailles.",
-            "en": "With a car, you enjoy the freedom to explore Versailles beyond the main palace. Immerse yourself in the splendor in the morning, then drive comfortably to the more secluded Trianon estate. The afternoon leads you to the Chèvreloup Arboretum, an oasis of calm. A short trip to the nearby Domaine de Marly shows you where the King escaped court protocol. End the day relaxed in the old town of Versailles."
+            "en": "With a car, you enjoy the freedom to explore Versailles beyond the main palace. Immerse yourself in the splendor in the morning, then drive comfortably to the more secluded Trianon estate. The afternoon leads you to the Chèvreloup Arboretum, an oasis of calm. A short trip to the nearby Domaine de Marly shows you where the King escaped court protocol. End the day relaxed in the old town of Versailles.",
+            "fr": "En voiture, vous profitez de la liberté d'explorer Versailles au‑delà du palais principal. Immergez‑vous dans la splendeur le matin, puis conduisez confortablement jusqu'au domaine plus isolé du Trianon. L'après‑midi vous mène à l'arboretum de Chèvreloup, une oasis de calme. Un court trajet jusqu'au Domaine de Marly vous montre où le Roi échappait au protocole de la cour. Terminez la journée détendu dans le centre‑ville de Versailles."
           },
           "stops": [
             {
@@ -1632,7 +1685,8 @@
                 "de": "Schloss Versailles",
                 "hu": "Versailles-i Kastély",
                 "ro": "Palatul Versailles",
-                "en": "Palace of Versailles"
+                "en": "Palace of Versailles",
+                "fr": "Château de Versailles"
               },
               "tip_5lang": null
             },
@@ -1641,7 +1695,8 @@
                 "de": "Trianon-Anwesen",
                 "hu": "Trianon-birtok",
                 "ro": "Domeniul Trianon",
-                "en": "Trianon Estate"
+                "en": "Trianon Estate",
+                "fr": "Domaine du Trianon"
               },
               "tip_5lang": null
             },
@@ -1650,7 +1705,8 @@
                 "de": "Arboretum de Chèvreloup",
                 "hu": "Chèvreloup Arborétum",
                 "ro": "Arboretumul Chèvreloup",
-                "en": "Arboretum de Chèvreloup"
+                "en": "Arboretum de Chèvreloup",
+                "fr": "Arboretum de Chèvreloup"
               },
               "tip_5lang": null
             },
@@ -1659,7 +1715,8 @@
                 "de": "Domaine de Marly",
                 "hu": "Marly-birtok",
                 "ro": "Domeniul Marly",
-                "en": "Domaine de Marly"
+                "en": "Domaine de Marly",
+                "fr": "Domaine de Marly"
               },
               "tip_5lang": null
             },
@@ -1668,7 +1725,8 @@
                 "de": "Versailles Altstadt",
                 "hu": "Versailles óváros",
                 "ro": "Centrul vechi Versailles",
-                "en": "Versailles Old Town"
+                "en": "Versailles Old Town",
+                "fr": "Centre‑ville de Versailles"
               },
               "tip_5lang": null
             }
@@ -1791,6 +1849,11 @@
               "Parking at the palace is expensive; use P+R if possible.",
               "Avoid weekends due to heavy traffic.",
               "In the city center, parking is often limited to 2 hours."
+            ],
+            "fr": [
+              "Le stationnement au palais est cher ; utilisez un P+R si possible.",
+              "Évitez les week‑ends en raison du trafic dense.",
+              "En centre‑ville, le stationnement est souvent limité à 2 heures."
             ]
           }
         },
@@ -1800,7 +1863,7 @@
             "hu": "Szárazon indulunk autóval a Versailles-i kastélynál. Délben kényelmesen gurulunk a Trianon birtokhoz, miközben az ablaktörlők küzdenek az esővel.\n\nDélután a Chèvreloup arborétumot fedezzük fel, majd a Domaine de Marly felé vesszük az irányt. Az este a belvárosban zárul, ahol a parkolóházakból szárazon érjük el a célunkat.",
             "ro": "Pornim la drum uscați în mașină la Castelul Versailles. La prânz conducem confortabil spre domeniul Trianon, în timp ce ștergătoarele bat ritmic.\n\nDupă-amiaza explorăm Arboretum de Chèvreloup înainte de a pleca spre Domaine de Marly. Seara se încheie în centrul vechi, unde parcările acoperite ne țin la uscat.",
             "en": "We start dry in the car at the Palace of Versailles. At noon, we drive comfortably to the Trianon Estate while the wipers handle the rain.\n\nAfternoon is spent at the Arboretum de Chèvreloup before moving on to Domaine de Marly. The evening ends in Versailles Old Town, where parking garages keep us dry until we reach our destination.",
-            "fr": "Nous commençons au sec en voiture au Château de Versailles. À midi, nous roulons confortablement vers le Domaine du Trianon pendant que les essuie-glaces gèrent la pluie.\n\nL'après-midi se passe à l'Arboretum de Chèvreloup avant de continuer vers le Domaine de Marly. La soirée se termine dans la vieille ville de Versailles, où les parkings couverts nous gardent au sec jusqu'à notre destination."
+            "fr": "Nous commençons au sec en voiture au Château de Versailles. À midi, nous conduisons confortablement jusqu'au Domaine du Trianon pendant que les essuie‑glaces gèrent la pluie.\n\nL'après‑midi se passe à l'Arboretum de Chèvreloup avant de rejoindre le Domaine de Marly. La soirée se termine dans le centre‑ville de Versailles, où les parkings couverts nous gardent au sec jusqu'à notre arrivée."
           },
           "stops": [
             {
@@ -1810,7 +1873,7 @@
                 "hu": "Használja a Place d'Armes parkolót közvetlenül a kapu előtt.",
                 "ro": "Folosiți parcarea Place d'Armes chiar în fața porții.",
                 "en": "Use the Place d'Armes parking lot directly in front of the gate.",
-                "fr": "Utilisez le parking de la Place d'Armes directement devant la grille."
+                "fr": "Utilisez le parking de la Place d'Armes juste devant la grille."
               }
             },
             {
@@ -1840,7 +1903,7 @@
                 "hu": "Parkoljon a múzeum bejáratánál, hogy lerövidítse a gyaloglást.",
                 "ro": "Parcați la accesul muzeului pentru a scurta mersul prin ploaie.",
                 "en": "Park at the museum access to shorten the walk in the rain.",
-                "fr": "Garez-vous à l'accès du musée pour raccourcir la marche sous la pluie."
+                "fr": "Garez‑vous à l'accès musée pour raccourcir la marche sous la pluie."
               }
             },
             {
@@ -1850,7 +1913,7 @@
                 "hu": "Használja a 'Parche Notre-Dame' mélygarázst a száraz kiszálláshoz.",
                 "ro": "Folosiți parcarea subterană 'Parche Notre-Dame' pentru a ieși la uscat.",
                 "en": "Use the 'Parche Notre-Dame' underground parking to exit dry.",
-                "fr": "Utilisez le parking souterrain 'Marché Notre-Dame' pour sortir au sec."
+                "fr": "Utilisez le parking souterrain « Parche Notre‑Dame » pour sortir à l'abri."
               }
             }
           ],
@@ -1880,10 +1943,10 @@
               "Keep an umbrella in the car for the short walks to entrances."
             ],
             "fr": [
-              "Les frais de stationnement à Versailles peuvent être élevés même les jours de pluie.",
-              "Évitez les heures de pointe car la pluie ralentit considérablement le trafic.",
-              "L'accès des véhicules à l'enceinte du parc est payant.",
-              "Gardez un parapluie dans la voiture pour les courts trajets vers les entrées."
+              "Les tarifs de stationnement à Versailles peuvent être élevés même par temps de pluie.",
+              "Évitez l'heure de pointe car la pluie ralentit fortement la circulation.",
+              "L'accès des véhicules aux terrains du parc est payant.",
+              "Gardez un parapluie dans la voiture pour les courtes marches jusqu'aux entrées."
             ]
           }
         },
@@ -1893,7 +1956,7 @@
             "hu": "Fagyos reggeli kezdés autóval a Versailles-i kastélynál. Délben a Trianon birtokhoz hajtunk, élvezve a fűtött utazást a parkon keresztül.\n\nDélután az arborétumot és a Domaine de Marly-t látogatjuk meg téli pompájában. Az este a hangulatos óvárosban zárul gyertyafényes vacsorával.",
             "ro": "Un început geros cu mașina la Castelul Versailles dă startul zilei. La prânz conducem spre domeniul Trianon, bucurându-ne de drumul încălzit.\n\nDupă-amiaza vizităm arboretul și Domaine de Marly în splendoarea lor hibernală. Seara se încheie în centrul vechi primitor, la lumina lumânărilor.",
             "en": "A frosty start by car at the Palace of Versailles begins the day. At noon, we drive to the Trianon Estate, enjoying the heated ride through the park.\n\nAfternoon includes visits to the Arboretum and Domaine de Marly in their winter glory. The evening ends in the cozy Versailles Old Town with candlelight dining.",
-            "fr": "Un départ glacial en voiture au Château de Versailles commence la journée. À midi, nous conduisons vers le Domaine du Trianon, profitant du trajet chauffé à travers le parc.\n\nL'après-midi comprend des visites à l'Arboretum et au Domaine de Marly dans leur splendeur hivernale. La soirée se termine dans la vieille ville accueillante de Versailles avec un dîner aux chandelles."
+            "fr": "Un départ givré en voiture au Château de Versailles commence la journée. À midi, nous roulons jusqu'au Domaine du Trianon, profitant d'un trajet chauffé à travers le parc.\n\nL'après‑midi inclut des visites à l'Arboretum et au Domaine de Marly dans leur beauté hivernale. La soirée se termine dans le centre‑ville de Versailles, autour d'un dîner à la lueur des bougies."
           },
           "stops": [
             {
@@ -1903,7 +1966,7 @@
                 "hu": "Ügyeljen a befagyott tócsákra a parkolókban.",
                 "ro": "Atenție la bălțile înghețate din parcări.",
                 "en": "Watch out for frozen puddles in the parking areas.",
-                "fr": "Attention aux flaques gelées sur les zones de stationnement."
+                "fr": "Attention aux flaques gelées dans les zones de stationnement."
               }
             },
             {
@@ -1913,7 +1976,7 @@
                 "hu": "A bekötőutak télen, hó esetén csúszósak lehetnek.",
                 "ro": "Drumurile de acces pot fi alunecoase iarna în caz de zăpadă.",
                 "en": "Access roads can be slippery in winter if it snows.",
-                "fr": "Les routes d'accès peuvent être glissantes en hiver s'il neige."
+                "fr": "Les voies d'accès peuvent être glissantes en hiver s'il neige."
               }
             },
             {
@@ -1933,7 +1996,7 @@
                 "hu": "Élvezze a téli tájat kényelmesen a vezetőülésből.",
                 "ro": "Bucurați-vă de peisajul hibernal confortabil de la volan.",
                 "en": "Enjoy the winter landscape comfortably from the driver's seat.",
-                "fr": "Profitez du paysage hivernal confortablement depuis le siège conducteur."
+                "fr": "Appréciez le paysage hivernal confortablement depuis le siège du conducteur."
               }
             },
             {
@@ -1973,10 +2036,10 @@
               "Heated seats make switching between stops much more pleasant."
             ],
             "fr": [
-              "Vérifiez le niveau d'antigel dans votre lave-glace.",
-              "Trouver une place de parking est beaucoup plus détendu en hiver.",
+              "Vérifiez le niveau d'antigel du liquide lave‑glace.",
+              "Trouver une place de parking est bien plus détendu en hiver.",
               "Certaines routes secondaires du parc sont moins fréquemment déneigées.",
-              "Les sièges chauffants rendent les trajets entre les arrêts bien plus agréables."
+              "Les sièges chauffants rendent les déplacements entre les arrêts bien plus agréables."
             ]
           }
         }
@@ -1995,7 +2058,8 @@
             "de": "Bahnhof Versailles Château",
             "hu": "Versailles Château vasútállomás",
             "ro": "Gara Versailles Château",
-            "en": "Versailles Château Station"
+            "en": "Versailles Château Station",
+            "fr": "Gare de Versailles Château"
           },
           "coords": [
             2.1285,
@@ -2010,7 +2074,8 @@
             "de": "Der Hauptankunftspunkt aus Paris.",
             "hu": "A Párizsból érkezők fő érkezési pontja.",
             "ro": "Principalul punct de sosire din Paris.",
-            "en": "The main arrival point from Paris."
+            "en": "The main arrival point from Paris.",
+            "fr": "Le principal point d'arrivée depuis Paris."
           }
         },
         {
@@ -2018,7 +2083,8 @@
             "de": "Schloss Versailles",
             "hu": "Versailles-i Kastély",
             "ro": "Palatul Versailles",
-            "en": "Palace of Versailles"
+            "en": "Palace of Versailles",
+            "fr": "Château de Versailles"
           },
           "coords": [
             2.1202,
@@ -2033,7 +2099,8 @@
             "de": "Nutzen Sie den kostenlosen Audio-Guide.",
             "hu": "Használja az ingyenes audió-kalauzt.",
             "ro": "Folosiți ghidul audio gratuit.",
-            "en": "Use the free audio guide."
+            "en": "Use the free audio guide.",
+            "fr": "Utilisez l’audioguide gratuit."
           }
         },
         {
@@ -2041,7 +2108,8 @@
             "de": "Salle du Jeu de Paume",
             "hu": "Labdaház",
             "ro": "Sala Jocului cu Mingea",
-            "en": "Salle du Jeu de Paume"
+            "en": "Salle du Jeu de Paume",
+            "fr": "Salle du Jeu de Paume"
           },
           "coords": [
             2.1242,
@@ -2056,7 +2124,8 @@
             "de": "Ort des historischen Schwurs von 1789.",
             "hu": "Az 1789-es történelmi eskü helyszíne.",
             "ro": "Locul jurământului istoric din 1789.",
-            "en": "Site of the historic oath of 1789."
+            "en": "Site of the historic oath of 1789.",
+            "fr": "Lieu du serment historique de 1789."
           }
         },
         {
@@ -2064,7 +2133,8 @@
             "de": "Musée Lambinet",
             "hu": "Lambinet Múzeum",
             "ro": "Muzeul Lambinet",
-            "en": "Musée Lambinet"
+            "en": "Musée Lambinet",
+            "fr": "Musée Lambinet"
           },
           "coords": [
             2.1322,
@@ -2079,7 +2149,8 @@
             "de": "Ein prächtiges Bürgerhaus-Museum.",
             "hu": "Pompás polgári házban berendezett múzeum.",
             "ro": "Un muzeu superb într-o casă burgheză.",
-            "en": "A magnificent townhouse museum."
+            "en": "A magnificent townhouse museum.",
+            "fr": "Un magnifique hôtel particulier-musée."
           }
         },
         {
@@ -2087,7 +2158,8 @@
             "de": "Quartier Saint-Louis",
             "hu": "Szent Lajos negyed",
             "ro": "Cartierul Saint-Louis",
-            "en": "Quartier Saint-Louis"
+            "en": "Quartier Saint-Louis",
+            "fr": "Quartier Saint-Louis"
           },
           "coords": [
             2.1265,
@@ -2102,7 +2174,8 @@
             "de": "Besuchen Sie die Carrés de Saint-Louis.",
             "hu": "Látogassa meg a Carrés de Saint-Louis-t.",
             "ro": "Vizitați Carrés de Saint-Louis.",
-            "en": "Visit the Carrés de Saint-Louis."
+            "en": "Visit the Carrés de Saint-Louis.",
+            "fr": "Visitez les Carrés de Saint-Louis."
           }
         }
       ],
@@ -2111,7 +2184,7 @@
         "hu": "A jól kiépített tömegközlekedésnek köszönhetően stresszmentesen fedezheti fel Versailles-t. A RER állomástól csak rövid séta a kastély. A látogatás után a helyi buszok gyorsan elrepítik olyan történelmi helyszínekre, mint a Labdaház vagy a város északi részén található elegáns Lambinet Múzeum. A nap a bájos Saint-Louis negyedben zárul, amely a történelmi Carrés-szal és a katedrálissal könnyen elérhető a városi buszjáratokkal.",
         "ro": "Datorită transportului public eficient, puteți explora Versailles fără stres. De la stația RER este doar o scurtă plimbare până la palat. După vizită, autobuzul local vă duce rapid la locuri încărcate de istorie, precum Salle du Jeu de Paume sau elegantul Muzeu Lambinet din nordul orașului. Ziua se încheie în fermecătorul cartier Saint-Louis, cu ale sale Carrés istorice și catedrală, perfect accesibile cu autobuzele urbane.",
         "en": "Thanks to efficient public transport, you can explore Versailles stress-free. From the RER station, it's just a short walk to the palace. After the visit, local buses quickly take you to historic sites like the Salle du Jeu de Paume or the elegant Lambinet Museum in the north of the city. The day ends in the charming Saint-Louis district, which with its historic Carrés and cathedral is perfectly accessible by city buses.",
-        "fr": "Grâce à des transports en commun efficaces, vous pouvez explorer Versailles sans stress. Depuis la gare RER, le château n'est qu'à quelques pas. Après la visite, les bus locaux vous emmènent rapidement vers des sites historiques comme la Salle du Jeu de Paume ou l'élégant Musée Lambinet au nord de la ville. La journée se termine dans le charmant quartier Saint-Louis, parfaitement accessible par les bus de la ville avec ses Carrés historiques et sa cathédrale."
+        "fr": "Grâce à des transports publics efficaces, vous pouvez explorer Versailles sans stress. Depuis la gare RER, le palais est à quelques minutes à pied. Après la visite, les bus locaux vous conduisent rapidement vers des sites historiques comme la Salle du Jeu de Paume ou le raffiné musée Lambinet au nord de la ville. La journée se termine dans le charmant quartier Saint-Louis, avec ses Carrés historiques et sa cathédrale accessibles en bus urbains."
       },
       "gastro_picks": {
         "de": [
@@ -2256,9 +2329,9 @@
           "Buy a day ticket for zones 1-4."
         ],
         "fr": [
-          "Utilisez l'application 'Île-de-France Mobilités' pour les correspondances de bus.",
+          "Utilisez l’application « Île-de-France Mobilités » pour les correspondances de bus.",
           "La ligne RER C est la liaison la plus rapide vers Paris.",
-          "Achetez un ticket journalier pour les zones 1 à 4."
+          "Achetez un ticket journée pour les zones 1-4."
         ]
       },
       "variants": {
@@ -2267,7 +2340,8 @@
             "de": "Dank des effizienten Nahverkehrs können Sie Versailles stressfrei erkunden. Vom RER-Bahnhof ist es nur ein kurzer Fußweg zum Schloss. Nach der Besichtigung bringt Sie der lokale Bus schnell zu geschichtsträchtigen Orten wie der Salle du Jeu de Paume oder dem eleganten Lambinet-Museum im Norden der Stadt. Der Tag endet im charmanten Saint-Louis-Viertel, das mit seinen historischen Carrés und der Kathedrale perfekt mit den Stadtbussen erreichbar ist.",
             "hu": "A jól kiépített tömegközlekedésnek köszönhetően stresszmentesen fedezheti fel Versailles-t. A RER állomástól csak rövid séta a kastély. A látogatás után a helyi buszok gyorsan elrepítik olyan történelmi helyszínekre, mint a Labdaház vagy a város északi részén található elegáns Lambinet Múzeum. A nap a bájos Saint-Louis negyedben zárul, amely a történelmi Carrés-szal és a katedrálissal könnyen elérhető a városi buszjáratokkal.",
             "ro": "Datorită transportului public eficient, puteți explora Versailles fără stres. De la stația RER este doar o scurtă plimbare până la palat. După vizită, autobuzul local vă duce rapid la locuri încărcate de istorie, precum Salle du Jeu de Paume sau elegantul Muzeu Lambinet din nordul orașului. Ziua se încheie în fermecătorul cartier Saint-Louis, cu ale sale Carrés istorice și catedrală, perfect accesibile cu autobuzele urbane.",
-            "en": "Thanks to efficient public transport, you can explore Versailles stress-free. From the RER station, it's just a short walk to the palace. After the visit, local buses quickly take you to historic sites like the Salle du Jeu de Paume or the elegant Lambinet Museum in the north of the city. The day ends in the charming Saint-Louis district, which with its historic Carrés and cathedral is perfectly accessible by city buses."
+            "en": "Thanks to efficient public transport, you can explore Versailles stress-free. From the RER station, it's just a short walk to the palace. After the visit, local buses quickly take you to historic sites like the Salle du Jeu de Paume or the elegant Lambinet Museum in the north of the city. The day ends in the charming Saint-Louis district, which with its historic Carrés and cathedral is perfectly accessible by city buses.",
+            "fr": "Grâce à des transports publics efficaces, vous pouvez explorer Versailles sans stress. Depuis la gare RER, le palais est à quelques minutes à pied. Après la visite, les bus locaux vous conduisent rapidement vers des sites historiques comme la Salle du Jeu de Paume ou le raffiné musée Lambinet au nord de la ville. La journée se termine dans le charmant quartier Saint-Louis, avec ses Carrés historiques et sa cathédrale accessibles en bus urbains."
           },
           "stops": [
             {
@@ -2275,7 +2349,8 @@
                 "de": "Bahnhof Versailles Château",
                 "hu": "Versailles Château vasútállomás",
                 "ro": "Gara Versailles Château",
-                "en": "Versailles Château Station"
+                "en": "Versailles Château Station",
+                "fr": "Gare de Versailles Château"
               },
               "tip_5lang": null
             },
@@ -2284,7 +2359,8 @@
                 "de": "Schloss Versailles",
                 "hu": "Versailles-i Kastély",
                 "ro": "Palatul Versailles",
-                "en": "Palace of Versailles"
+                "en": "Palace of Versailles",
+                "fr": "Château de Versailles"
               },
               "tip_5lang": null
             },
@@ -2293,7 +2369,8 @@
                 "de": "Salle du Jeu de Paume",
                 "hu": "Labdaház",
                 "ro": "Sala Jocului cu Mingea",
-                "en": "Salle du Jeu de Paume"
+                "en": "Salle du Jeu de Paume",
+                "fr": "Salle du Jeu de Paume"
               },
               "tip_5lang": null
             },
@@ -2302,7 +2379,8 @@
                 "de": "Musée Lambinet",
                 "hu": "Lambinet Múzeum",
                 "ro": "Muzeul Lambinet",
-                "en": "Musée Lambinet"
+                "en": "Musée Lambinet",
+                "fr": "Musée Lambinet"
               },
               "tip_5lang": null
             },
@@ -2311,7 +2389,8 @@
                 "de": "Quartier Saint-Louis",
                 "hu": "Szent Lajos negyed",
                 "ro": "Cartierul Saint-Louis",
-                "en": "Quartier Saint-Louis"
+                "en": "Quartier Saint-Louis",
+                "fr": "Quartier Saint-Louis"
               },
               "tip_5lang": null
             }
@@ -2434,6 +2513,11 @@
               "Use the 'Île-de-France Mobilités' app for bus connections.",
               "The RER C line is the fastest connection to Paris.",
               "Buy a day ticket for zones 1-4."
+            ],
+            "fr": [
+              "Utilisez l’application « Île-de-France Mobilités » pour les correspondances de bus.",
+              "La ligne RER C est la liaison la plus rapide vers Paris.",
+              "Achetez un ticket journée pour les zones 1-4."
             ]
           }
         },
@@ -2443,7 +2527,7 @@
             "hu": "Szárazon érkezünk a Versailles Château állomásra. Délben a kastély nyújt menedéket a záporok elől, miközben a történelmet kutatjuk.\n\nDélután a Salle du Jeu de Paume és a Musée Lambinet következik, mindkettő ideális esőben. Az este a Saint-Louis negyedben zárul, ahol a rövid távok segítenek szárazon maradni.",
             "ro": "Sosim uscați la gara Versailles Château. La prânz, castelul oferă adăpost împotriva averselor în timp ce explorăm istoria.\n\nDupă-amiaza vizităm Salle du Jeu de Paume și Musée Lambinet, ambele ideale pe ploaie. Seara se încheie în cartierul Saint-Louis, unde distanțele scurte ne țin la uscat.",
             "en": "We arrive dry at Versailles Château Station. At noon, the palace provides shelter from the showers while we explore its history.\n\nAfternoon visits to Salle du Jeu de Paume and Musée Lambinet are ideal for rainy weather. The evening ends in the Saint-Louis district, where short walks between cafes keep us dry.",
-            "fr": "Nous arrivons au sec à la gare de Versailles Château. À midi, le château offre un abri contre les averses pendant que nous explorons son histoire.\n\nLes visites de l'après-midi à la Salle du Jeu de Paume et au Musée Lambinet sont idéales par temps de pluie. La soirée se termine dans le quartier Saint-Louis, où de courtes marches entre les cafés nous gardent au sec."
+            "fr": "Nous arrivons à l’abri à la gare de Versailles Château. À midi, le palais nous protège des averses pendant que nous explorons son histoire.\n\nLes visites de l’après‑midi à la Salle du Jeu de Paume et au musée Lambinet sont parfaites par temps pluvieux. La soirée se termine dans le quartier Saint-Louis, où de courtes promenades entre cafés nous gardent au sec."
           },
           "stops": [
             {
@@ -2453,7 +2537,7 @@
                 "hu": "Várjon az állomáscsarnokban, amíg a legerősebb eső eláll.",
                 "ro": "Așteptați în holul gării până când ploaia cea mai puternică se oprește.",
                 "en": "Wait in the station hall until the heaviest rain subsides.",
-                "fr": "Attendez dans le hall de la gare que la plus forte pluie s'apaise."
+                "fr": "Attendez dans le hall de la gare jusqu’à ce que la pluie la plus forte cesse."
               }
             },
             {
@@ -2463,7 +2547,7 @@
                 "hu": "A 171-es busz szinte közvetlenül a kastély bejárata előtt áll meg.",
                 "ro": "Autobuzul 171 oprește aproape direct în fața intrării în castel.",
                 "en": "Bus 171 stops almost directly in front of the palace entrance.",
-                "fr": "Le bus 171 s'arrête presque directement devant l'entrée du château."
+                "fr": "Le bus 171 s’arrête presque juste devant l’entrée du palais."
               }
             },
             {
@@ -2473,7 +2557,7 @@
                 "hu": "Kicsi, nívós benti megálló, tökéletes rossz idő esetén.",
                 "ro": "O oprire interioară mică și rafinată, perfectă pe vreme rea.",
                 "en": "A small, refined indoor stop, perfect for bad weather.",
-                "fr": "Un petit arrêt intérieur raffiné, parfait par mauvais temps."
+                "fr": "Un petit arrêt couvert et raffiné, parfait par mauvais temps."
               }
             },
             {
@@ -2483,7 +2567,7 @@
                 "hu": "Használja ki az időt a múzeumban egy alapos esőszünetre.",
                 "ro": "Folosiți timpul în muzeu pentru o pauză lungă de ploaie.",
                 "en": "Use your time in the museum for an extensive rain break.",
-                "fr": "Profitez de votre temps au musée pour une longue pause pluie."
+                "fr": "Profitez de votre présence au musée pour une longue pause à l’abri de la pluie."
               }
             },
             {
@@ -2523,10 +2607,10 @@
               "Stations often have vending machines for replacement umbrellas."
             ],
             "fr": [
-              "Utilisez l'application 'Bonjour RATP' pour les infos trafic en temps réel.",
-              "La ligne RER C peut subir des retards lors de fortes pluies.",
-              "Les bus locaux de Versailles sont une alternative sèche à la marche.",
-              "Les gares ont souvent des distributeurs automatiques pour des parapluies de rechange."
+              "Utilisez l’application « Bonjour RATP » pour les infos temps réel sur le transport.",
+              "La ligne RER C peut subir des retards en cas de fortes pluies.",
+              "Les bus locaux de Versailles sont une alternative au sec à la marche.",
+              "Les gares disposent souvent de distributeurs pour des parapluies de remplacement."
             ]
           }
         },
@@ -2536,7 +2620,7 @@
             "hu": "Tiszta téli reggel indul a Versailles Château állomáson. Délben a pompás kastélyban melegszünk fel, mielőtt folytatnánk utunkat.\n\nDélután a történelmi Salle du Jeu de Paume és a Musée Lambinet következik. Az este a kivilágított Saint-Louis negyedben zárul egy rövid buszozással vissza az állomásra.",
             "ro": "O dimineață senină de iarnă începe la gara Versailles Château. La prânz ne încălzim în somptuosul Castel Versailles înainte de a merge mai departe.\n\nDupă-amiaza explorăm istorica Salle du Jeu de Paume și Musée Lambinet. Seara se încheie în cartierul Saint-Louis luminat, cu o scurtă cursă de autobuz înapoi la gară.",
             "en": "A clear winter morning begins at Versailles Château Station. At noon, we warm up in the magnificent Palace of Versailles before continuing our journey.\n\nAfternoon covers the historic Salle du Jeu de Paume and Musée Lambinet. The evening ends in the illuminated Saint-Louis district with a short bus ride back to the station.",
-            "fr": "Une matinée d'hiver claire commence à la gare de Versailles Château. À midi, nous nous réchauffons dans le magnifique Château de Versailles avant de poursuivre notre voyage.\n\nL'après-midi couvre l'historique Salle du Jeu de Paume et le Musée Lambinet. La soirée se termine dans le quartier Saint-Louis illuminé avec un court trajet en bus pour retourner à la gare."
+            "fr": "Un matin d’hiver clair commence à la gare de Versailles Château. À midi, nous nous réchauffons dans le magnifique Château de Versailles avant de poursuivre notre itinéraire.\n\nL’après‑midi couvre la Salle du Jeu de Paume et le musée Lambinet. La soirée se termine dans le quartier Saint‑Louis illuminé, avec un court trajet en bus pour revenir à la gare."
           },
           "stops": [
             {
@@ -2556,7 +2640,7 @@
                 "hu": "Használja a főbejáratot; a RER állomástól rövid a séta.",
                 "ro": "Folosiți intrarea principală; drumul de la RER este scurt.",
                 "en": "Use the main entrance; the walk from the RER is short.",
-                "fr": "Utilisez l'entrée principale ; la marche depuis le RER est courte."
+                "fr": "Utilisez l’entrée principale ; la marche depuis le RER est courte."
               }
             },
             {
@@ -2566,7 +2650,7 @@
                 "hu": "Meleg hely kompakt, izgalmas kiállítással.",
                 "ro": "Un loc călduros cu o expoziție compactă și interesantă.",
                 "en": "A warm location with a compact and exciting exhibition.",
-                "fr": "Un lieu chaleureux avec une exposition compacte et passionnante."
+                "fr": "Un lieu chaleureux avec une exposition compacte et captivante."
               }
             },
             {
@@ -2576,7 +2660,7 @@
                 "hu": "A múzeum télen csendes és meghitt hangulatot áraszt.",
                 "ro": "Muzeul este liniștit iarna și oferă o atmosferă intimă.",
                 "en": "The museum is quiet in winter and offers an intimate atmosphere.",
-                "fr": "Le musée est calme en hiver et offre une atmosphère intimiste."
+                "fr": "Le musée est calme en hiver et offre une atmosphère intime."
               }
             },
             {
@@ -2586,7 +2670,7 @@
                 "hu": "Este a téli fények varázslatossá teszik a közlekedési környezetet.",
                 "ro": "Seara, luminile de iarnă creează un cadru de tranzit magic.",
                 "en": "In the evening, winter lights create a magical transit environment.",
-                "fr": "Le soir, les lumières d'hiver créent un environnement de transport magique."
+                "fr": "Le soir, les illuminations d’hiver créent une ambiance magique dans les déplacements."
               }
             }
           ],
@@ -2616,10 +2700,10 @@
               "Purchase tickets in advance to avoid standing at machines in the cold."
             ],
             "fr": [
-              "Les horaires peuvent varier pendant les jours fériés d'hiver.",
-              "Attendez les bus à l'intérieur des abribus abrités.",
-              "Les passages vers la gare peuvent être glissants en cas de gel.",
-              "Achetez vos billets à l'avance pour éviter d'attendre aux automates dans le froid."
+              "Les horaires peuvent varier pendant les jours fériés d’hiver.",
+              "Attendez les bus à l’intérieur des abribus couverts.",
+              "Les passages piétons vers la gare peuvent être glissants en cas de gel.",
+              "Achetez vos billets à l’avance pour éviter de rester aux machines dans le froid."
             ]
           }
         }

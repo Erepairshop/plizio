@@ -3,55 +3,64 @@
     "de": "2 Rue du Château, 37500 Chinon",
     "hu": "2 Rue du Château, 37500 Chinon",
     "ro": "2 Rue du Château, 37500 Chinon",
-    "en": "2 Rue du Château, 37500 Chinon"
+    "en": "2 Rue du Château, 37500 Chinon",
+    "fr": "2 Rue du Château, 37500 Chinon"
   },
   "openingHours": {
     "de": "Mo-Su 09:30-18:00",
     "hu": "Hé-Va 09:30-18:00",
     "ro": "Lun-Dum 09:30-18:00",
-    "en": "Mon-Sun 09:30-18:00"
+    "en": "Mon-Sun 09:30-18:00",
+    "fr": "Lun–Dim 09:30-18:00"
   },
   "entranceFee": {
     "de": "€10.50 Erwachsene",
     "hu": "10,50 € felnőtteknek",
     "ro": "10,50 € adulți",
-    "en": "€10.50 adults"
+    "en": "€10.50 adults",
+    "fr": "€10.50 adultes"
   },
   "website": "https://www.forteressechinon.fr",
   "publicTransport": {
     "de": "Zug ab Tours nach Chinon, dann Aufzug aus der Altstadt nutzen",
     "hu": "Vonat Tours-ból Chinonba, majd az óvárosból induló lift használható",
     "ro": "Tren de la Tours la Chinon, apoi folosiți liftul din orașul vechi",
-    "en": "Train from Tours to Chinon, then use the elevator from the old town"
+    "en": "Train from Tours to Chinon, then use the elevator from the old town",
+    "fr": "Train de Tours à Chinon, puis utilisez l’ascenseur depuis la ville haute"
   },
   "parking": {
     "de": "Parkplatz Place Jeanne d'Arc in der Unterstadt",
     "hu": "Place Jeanne d'Arc parkoló az alsóvárosban",
     "ro": "Parcarea Place Jeanne d'Arc în orașul de jos",
-    "en": "Place Jeanne d'Arc parking lot in the lower town"
+    "en": "Place Jeanne d'Arc parking lot in the lower town",
+    "fr": "Parking Place Jeanne d’Arc dans la ville basse"
   },
   "accessibility": {
     "de": "Durch modernen Aufzug und Rampen weitgehend rollstuhlgerecht",
     "hu": "A modern liftnek és a rámpáknak köszönhetően nagyrészt akadálymentesített",
     "ro": "În mare parte accesibil pentru scaune cu rotile datorită liftului modern și rampelor",
-    "en": "Largely wheelchair accessible thanks to a modern elevator and ramps"
+    "en": "Largely wheelchair accessible thanks to a modern elevator and ramps",
+    "fr": "Largement accessible aux fauteuils roulants grâce à un ascenseur moderne et des rampes"
   },
   "photoRules": {
     "de": "Fotografieren ohne Stativ auf dem gesamten Gelände erlaubt",
     "hu": "Az egész területen szabad fényképezni állvány nélkül",
     "ro": "Fotografierea fără trepied este permisă pe întreg domeniul",
-    "en": "Photography allowed without a tripod throughout the site"
+    "en": "Photography allowed without a tripod throughout the site",
+    "fr": "Photographie autorisée sans trépied sur l’ensemble du site"
   },
   "bestTimeToVisit": {
     "de": "Später Nachmittag für den Panoramablick über das Vienne-Tal",
     "hu": "Késő délután a Vienne-völgyére nyíló panoráma miatt",
     "ro": "După-amiaza târziu pentru vederea panoramică asupra văii Vienne",
-    "en": "Late afternoon for the panoramic view over the Vienne Valley"
+    "en": "Late afternoon for the panoramic view over the Vienne Valley",
+    "fr": "Fin d’après‑midi pour la vue panoramique sur la vallée de la Vienne"
   },
   "audioGuide": {
     "de": "DE, EN, FR, IT, ES, ZH",
     "hu": "DE, EN, FR, IT, ES, ZH",
     "ro": "DE, EN, FR, IT, ES, ZH",
-    "en": "DE, EN, FR, IT, ES, ZH"
+    "en": "DE, EN, FR, IT, ES, ZH",
+    "fr": "DE, EN, FR, IT, ES, ZH"
   }
 }

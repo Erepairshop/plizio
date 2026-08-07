@@ -21,7 +21,8 @@
             "de": "Le Vaugueux",
             "hu": "Le Vaugueux negyed",
             "ro": "Cartierul Le Vaugueux",
-            "en": "Le Vaugueux District"
+            "en": "Le Vaugueux District",
+            "fr": "Le quartier Le Vaugueux"
           },
           "coords": [
             49.186,
@@ -36,7 +37,8 @@
             "de": "Bewundern Sie die Fachwerkhäuser aus dem 16. Jahrhundert, in denen Edith Piaf Zeit verbrachte.",
             "hu": "Csodálja meg a 16. századi fagerendás házakat, ahol Edith Piaf is gyakran megfordult.",
             "ro": "Admirați casele cu bârne de lemn din secolul al XVI-lea, unde Edith Piaf a petrecut timp.",
-            "en": "Admire the 16th-century timber-framed houses where Edith Piaf spent time."
+            "en": "Admire the 16th-century timber-framed houses where Edith Piaf spent time.",
+            "fr": "Admirez les maisons à colombages du XVIe siècle où Édith Piaf a séjourné."
           }
         },
         {
@@ -44,7 +46,8 @@
             "de": "Burg von Caen",
             "hu": "Caeni vár",
             "ro": "Castelul din Caen",
-            "en": "Caen Castle"
+            "en": "Caen Castle",
+            "fr": "Château de Caen"
           },
           "coords": [
             49.187,
@@ -59,7 +62,8 @@
             "de": "Eine der größten mittelalterlichen Festungen Europas, erbaut von Wilhelm dem Eroberer um 1060.",
             "hu": "Európa egyik legnagyobb középkori erődje, amelyet Hódító Vilmos építtetett 1060 körül.",
             "ro": "Una dintre cele mai mari cetăți medievale din Europa, construită de William Cuceritorul în 1060.",
-            "en": "One of Europe's largest medieval fortresses, built by William the Conqueror around 1060."
+            "en": "One of Europe's largest medieval fortresses, built by William the Conqueror around 1060.",
+            "fr": "L'une des plus grandes forteresses médiévales d'Europe, bâtie par Guillaume le Conquérant vers 1060."
           }
         },
         {
@@ -67,7 +71,8 @@
             "de": "Musée de Normandie",
             "hu": "Normandiai Múzeum",
             "ro": "Muzeul Normandiei",
-            "en": "Normandy Museum"
+            "en": "Normandy Museum",
+            "fr": "Musée de Normandie"
           },
           "coords": [
             49.188,
@@ -82,7 +87,8 @@
             "de": "Erfahren Sie alles über die normannische Geschichte in der ehemaligen Gouverneursresidenz.",
             "hu": "Ismerje meg Normandia történetét az egykori kormányzói rezidencia falai között.",
             "ro": "Aflați totul despre istoria normandă în fosta reședință a guvernatorului.",
-            "en": "Learn all about Norman history inside the former Governor's residence."
+            "en": "Learn all about Norman history inside the former Governor's residence.",
+            "fr": "Apprenez tout sur l’histoire normande à l’intérieur de l’ancienne résidence du Gouverneur."
           }
         },
         {
@@ -90,7 +96,8 @@
             "de": "Église Saint-Pierre",
             "hu": "Szent Péter-templom",
             "ro": "Biserica Sfântul Petru",
-            "en": "Saint-Pierre Church"
+            "en": "Saint-Pierre Church",
+            "fr": "Église Saint-Pierre"
           },
           "coords": [
             49.184,
@@ -105,7 +112,8 @@
             "de": "Achten Sie auf die filigranen Steinmetzarbeiten der Renaissance im Chorumgang.",
             "hu": "Figyelje meg a reneszánsz stílusú, finom kőfaragásokat a szentély körül.",
             "ro": "Observați sculpturile fine în piatră din perioada Renașterii în ambulatoriul corului.",
-            "en": "Notice the delicate Renaissance stonework in the choir ambulatory."
+            "en": "Notice the delicate Renaissance stonework in the choir ambulatory.",
+            "fr": "Remarquez la délicate pierre de la Renaissance dans l’ambulatoire du chœur."
           }
         },
         {
@@ -113,7 +121,8 @@
             "de": "Jardin des Plantes de Caen",
             "hu": "Caeni füvészkert",
             "ro": "Grădina Botanică din Caen",
-            "en": "Caen Botanical Garden"
+            "en": "Caen Botanical Garden",
+            "fr": "Jardin botanique de Caen"
           },
           "coords": [
             49.189,
@@ -128,7 +137,8 @@
             "de": "Ein ruhiger Ort mit über 2000 Pflanzenarten, ideal für eine Pause im Grünen.",
             "hu": "Csendes menedék több mint 2000 növényfajjal, tökéletes egy kis pihenőhöz.",
             "ro": "Un loc liniștit cu peste 2000 de specii de plante, ideal pentru o pauză în natură.",
-            "en": "A peaceful spot with over 2,000 plant species, perfect for a green break."
+            "en": "A peaceful spot with over 2,000 plant species, perfect for a green break.",
+            "fr": "Un lieu paisible avec plus de 2 000 espèces végétales, idéal pour une pause verte."
           }
         },
         {
@@ -136,7 +146,8 @@
             "de": "Abbaye aux Hommes",
             "hu": "Férfiak apátsága",
             "ro": "Abația Bărbaților",
-            "en": "Men's Abbey"
+            "en": "Men's Abbey",
+            "fr": "Abbaye aux Hommes"
           },
           "coords": [
             49.181,
@@ -151,7 +162,8 @@
             "de": "Besuchen Sie das Grab von Wilhelm dem Eroberer in der prächtigen Abteikirche Saint-Étienne.",
             "hu": "Látogassa meg Hódító Vilmos sírját a fenséges Saint-Étienne apátsági templomban.",
             "ro": "Vizitați mormântul lui William Cuceritorul în magnifica biserică a abației Saint-Étienne.",
-            "en": "Visit the tomb of William the Conqueror in the magnificent Saint-Étienne abbey church."
+            "en": "Visit the tomb of William the Conqueror in the magnificent Saint-Étienne abbey church.",
+            "fr": "Visitez le tombeau de Guillaume le Conquérant dans la magnifique église abbatiale Saint-Étienne."
           }
         }
       ],
@@ -159,7 +171,8 @@
         "de": "Beginnen Sie Ihren Tag im malerischen Viertel Le Vaugueux, bevor Sie die massive Burg von Wilhelm dem Eroberer erkunden. Nach einem kulturellen Eintauchen im Musée de Normandie spazieren Sie zur prachtvollen Église Saint-Pierre. Der Nachmittag gehört der Natur im botanischen Garten, gefolgt vom imposanten Abschluss in der Abbaye aux Hommes, dem heutigen Rathaus.",
         "hu": "Kezdje a napot a festői Le Vaugueux negyedben, majd fedezze fel Hódító Vilmos hatalmas várát. A Normandiai Múzeum kulturális élményei után sétáljon el a díszes Szent Péter-templomhoz. A délutánt töltse a botanikus kert nyugalmában, a napot pedig zárja a lenyűgöző Férfiak apátságában, amely ma a városházának ad otthont.",
         "ro": "Începeți ziua în pitorescul cartier Le Vaugueux, înainte de a explora masivul castel al lui William Cuceritorul. După o incursiune culturală la Muzeul Normandiei, mergeți spre superba Biserică Sfântul Petru. După-amiaza aparține naturii în grădina botanică, urmată de un final impunător la Abația Bărbaților, actuala primărie.",
-        "en": "Start your day in the picturesque Le Vaugueux district before exploring William the Conqueror's massive castle. After a cultural dive at the Normandy Museum, walk to the ornate Saint-Pierre Church. Spend the afternoon in the botanical garden's serenity, concluding with the grand Men's Abbey, which now serves as the City Hall."
+        "en": "Start your day in the picturesque Le Vaugueux district before exploring William the Conqueror's massive castle. After a cultural dive at the Normandy Museum, walk to the ornate Saint-Pierre Church. Spend the afternoon in the botanical garden's serenity, concluding with the grand Men's Abbey, which now serves as the City Hall.",
+        "fr": "Commencez la journée dans le pittoresque quartier du Vaugueux avant d’explorer l’imposant château de Guillaume le Conquérant. Après une immersion culturelle au Musée de Normandie, marchez jusqu’à l’ornée église Saint-Pierre. Passez l’après-midi dans la quiétude du jardin botanique, et terminez par la grande Abbaye aux Hommes, qui abrite aujourd’hui l’Hôtel de Ville."
       },
       "gastro_picks": {
         "de": [
@@ -303,6 +316,12 @@
           "The castle is free to enter and offers great views over the city.",
           "Visit the Men's Abbey in the late afternoon for the best lighting.",
           "Try the local cider in one of the bars in Le Vaugueux."
+        ],
+        "fr": [
+          "Caen est très agréable à visiter à pied ; portez des chaussures confortables pour les pavés.",
+          "Le château est gratuit et offre de superbes vues sur la ville.",
+          "Visitez l’Abbaye aux Hommes en fin d’après-midi pour la meilleure lumière.",
+          "Goûtez le cidre local dans l’un des bars du Vaugueux."
         ]
       }
     },
@@ -319,7 +338,8 @@
             "de": "Abbaye aux Dames",
             "hu": "Nők apátsága",
             "ro": "Abația Femeilor",
-            "en": "Ladies' Abbey"
+            "en": "Ladies' Abbey",
+            "fr": "Abbaye aux Dames"
           },
           "coords": [
             49.186,
@@ -334,7 +354,8 @@
             "de": "Gegründet von Königin Mathilde; hier befindet sich auch ihr Grab.",
             "hu": "Matild királyné alapította; itt található a síremléke is.",
             "ro": "Fondată de regina Matilda; aici se află și mormântul ei.",
-            "en": "Founded by Queen Matilda; her tomb is located here."
+            "en": "Founded by Queen Matilda; her tomb is located here.",
+            "fr": "Fondée par la reine Mathilde ; son tombeau se trouve ici."
           }
         },
         {
@@ -342,7 +363,8 @@
             "de": "Burg von Caen",
             "hu": "Caeni vár",
             "ro": "Castelul din Caen",
-            "en": "Caen Castle"
+            "en": "Caen Castle",
+            "fr": "Château de Caen"
           },
           "coords": [
             49.187,
@@ -357,7 +379,8 @@
             "de": "Fahren Sie mit dem Rad durch das Nordtor in das riesige Schlossgelände ein.",
             "hu": "Hajtson be kerékpárral az északi kapun a hatalmas várudvarra.",
             "ro": "Intrați cu bicicleta prin poarta de nord în incinta uriașă a castelului.",
-            "en": "Cycle through the north gate into the vast castle grounds."
+            "en": "Cycle through the north gate into the vast castle grounds.",
+            "fr": "Parcourez la porte nord à vélo et entrez dans l’immense enceinte du château."
           }
         },
         {
@@ -365,7 +388,8 @@
             "de": "Jardin des Plantes de Caen",
             "hu": "Caeni füvészkert",
             "ro": "Grădina Botanică din Caen",
-            "en": "Caen Botanical Garden"
+            "en": "Caen Botanical Garden",
+            "fr": "Jardin botanique de Caen"
           },
           "coords": [
             49.189,
@@ -380,7 +404,8 @@
             "de": "Stellen Sie Ihr Rad am Eingang ab und erkunden Sie die Gewächshäuser.",
             "hu": "Tegye le a bringát a bejáratnál, és fedezze fel az üvegházakat.",
             "ro": "Lăsați bicicleta la intrare și explorați serele.",
-            "en": "Park your bike at the entrance and explore the greenhouses."
+            "en": "Park your bike at the entrance and explore the greenhouses.",
+            "fr": "Garez votre vélo à l’entrée et explorez les serres."
           }
         },
         {
@@ -388,7 +413,8 @@
             "de": "Abbaye aux Hommes",
             "hu": "Férfiak apátsága",
             "ro": "Abația Bărbaților",
-            "en": "Men's Abbey"
+            "en": "Men's Abbey",
+            "fr": "Abbaye aux Hommes"
           },
           "coords": [
             49.181,
@@ -403,7 +429,8 @@
             "de": "Ein Meisterwerk der normannischen Romanik, direkt am Rathaus gelegen.",
             "hu": "A normann román stílus mesterműve, közvetlenül a városháza mellett.",
             "ro": "O capodoperă a stilului romanic normand, situată lângă primărie.",
-            "en": "A masterpiece of Norman Romanesque architecture, located right by City Hall."
+            "en": "A masterpiece of Norman Romanesque architecture, located right by City Hall.",
+            "fr": "Un chef-d’œuvre de l’architecture romane normande, situé juste à côté de l’Hôtel de Ville."
           }
         },
         {
@@ -411,7 +438,8 @@
             "de": "Mémorial de Caen",
             "hu": "Caeni Emlékmű",
             "ro": "Memorialul din Caen",
-            "en": "Caen Memorial"
+            "en": "Caen Memorial",
+            "fr": "Mémorial de Caen"
           },
           "coords": [
             49.198,
@@ -426,7 +454,8 @@
             "de": "Ein Muss für Geschichtsinteressierte, gewidmet dem Frieden und dem D-Day.",
             "hu": "Történelemkedvelőknek kötelező: a békének és a normandiai partraszállásnak szentelt múzeum.",
             "ro": "Obligatoriu pentru pasionații de istorie, dedicat păcii și debarcării din Normandia.",
-            "en": "A must for history buffs, dedicated to peace and the D-Day landings."
+            "en": "A must for history buffs, dedicated to peace and the D-Day landings.",
+            "fr": "Incontournable pour les passionnés d’histoire, dédié à la paix et au débarquement du D-Day."
           }
         },
         {
@@ -434,7 +463,8 @@
             "de": "Le Vaugueux",
             "hu": "Le Vaugueux negyed",
             "ro": "Cartierul Le Vaugueux",
-            "en": "Le Vaugueux District"
+            "en": "Le Vaugueux District",
+            "fr": "Quartier du Vaugueux"
           },
           "coords": [
             49.186,
@@ -449,7 +479,8 @@
             "de": "Beenden Sie Ihre Tour in einer der belebten Gassen dieses Viertels.",
             "hu": "Zárja a túrát e negyed egyik pezsgő hangulatú utcájában.",
             "ro": "Încheiați turul pe una dintre străzile pline de viață ale acestui cartier.",
-            "en": "Finish your tour in one of the lively alleys of this district."
+            "en": "Finish your tour in one of the lively alleys of this district.",
+            "fr": "Terminez votre visite dans l’une des ruelles animées de ce quartier."
           }
         }
       ],
@@ -457,7 +488,8 @@
         "de": "Diese Radtour verbindet die beiden großen Abteien der Stadt mit dem historischen Zentrum und dem modernen Friedensmuseum. Von der Abbaye aux Dames radeln Sie zur Burg, durchqueren den botanischen Garten und erreichen die Abbaye aux Hommes. Ein längerer Abschnitt führt Sie zum Mémorial, bevor Sie den Tag entspannt im Vaugueux-Viertel ausklingen lassen.",
         "hu": "Ez a kerékpáros túra összeköti a város két nagy apátságát a történelmi központtal és a modern békemúzeummal. A Nők apátságától a várig tekerhet, átvághat a botanikus kerten, majd elérheti a Férfiak apátságát. Egy hosszabb szakasz elviszi az Emlékműhöz, mielőtt a napot a Vaugueux negyedben zárná.",
         "ro": "Acest tur cu bicicleta leagă cele două mari abații ale orașului de centrul istoric și de muzeul modern al păcii. De la Abația Femeilor pedalați spre castel, traversați grădina botanică și ajungeți la Abația Bărbaților. O secțiune mai lungă vă duce la Memorial, înainte de a încheia ziua relaxat în cartierul Vaugueux.",
-        "en": "This cycling tour connects the city's two great abbeys with the historic center and the modern peace museum. From the Ladies' Abbey, cycle to the castle, cross the botanical garden, and reach the Men's Abbey. A longer stretch takes you to the Memorial before ending the day in the charming Vaugueux district."
+        "en": "This cycling tour connects the city's two great abbeys with the historic center and the modern peace museum. From the Ladies' Abbey, cycle to the castle, cross the botanical garden, and reach the Men's Abbey. A longer stretch takes you to the Memorial before ending the day in the charming Vaugueux district.",
+        "fr": "Cette balade à vélo relie les deux grandes abbayes de la ville au centre historique et au musée moderne de la paix. Depuis l’Abbaye aux Dames, roulez jusqu’au château, traversez le jardin botanique et rejoignez l’Abbaye aux Hommes. Un tronçon plus long vous mène au Mémorial avant de finir la journée dans le charmant quartier du Vaugueux."
       },
       "gastro_picks": {
         "de": [
@@ -565,6 +597,12 @@
           "Cycle paths are well-developed, but expect pedestrian traffic in the center.",
           "Always lock your bike securely.",
           "The route to the Memorial is slightly uphill."
+        ],
+        "fr": [
+          "Utilisez les vélos en libre-service 'Vélolib' de la ville.",
+          "Les pistes cyclables sont bien développées, mais attendez-vous à croiser des piétons dans le centre.",
+          "Verrouillez toujours votre vélo solidement.",
+          "La route vers le Mémorial est légèrement en montée."
         ]
       }
     },
@@ -581,7 +619,8 @@
             "de": "Mémorial de Caen",
             "hu": "Caeni Emlékmű",
             "ro": "Memorialul din Caen",
-            "en": "Caen Memorial"
+            "en": "Caen Memorial",
+            "fr": "Mémorial de Caen"
           },
           "coords": [
             49.198,
@@ -596,7 +635,8 @@
             "de": "Großer kostenloser Parkplatz direkt am Museumseingang.",
             "hu": "Hatalmas ingyenes parkoló közvetlenül a múzeum bejáratánál.",
             "ro": "Parcare gratuită mare chiar la intrarea în muzeu.",
-            "en": "Large free parking lot right at the museum entrance."
+            "en": "Large free parking lot right at the museum entrance.",
+            "fr": "Grand parking gratuit juste à l’entrée du musée."
           }
         },
         {
@@ -604,7 +644,8 @@
             "de": "Jardin des Plantes de Caen",
             "hu": "Caeni füvészkert",
             "ro": "Grădina Botanică din Caen",
-            "en": "Caen Botanical Garden"
+            "en": "Caen Botanical Garden",
+            "fr": "Jardin botanique de Caen"
           },
           "coords": [
             49.189,
@@ -619,7 +660,8 @@
             "de": "Suchen Sie einen Parkplatz in den Nebenstraßen (Zone Verte).",
             "hu": "Keressen parkolóhelyet a környező utcákban (zöld zóna).",
             "ro": "Căutați un loc de parcare pe străzile adiacente (Zona Verde).",
-            "en": "Look for a parking spot in the side streets (Green Zone)."
+            "en": "Look for a parking spot in the side streets (Green Zone).",
+            "fr": "Cherchez une place dans les rues latérales (Zone Verte)."
           }
         },
         {
@@ -627,7 +669,8 @@
             "de": "Burg von Caen",
             "hu": "Caeni vár",
             "ro": "Castelul din Caen",
-            "en": "Caen Castle"
+            "en": "Caen Castle",
+            "fr": "Château de Caen"
           },
           "coords": [
             49.187,
@@ -642,7 +685,8 @@
             "de": "Parken Sie im unterirdischen Parkhaus 'Château' direkt unter der Festung.",
             "hu": "Parkoljon a 'Château' mélygarázsban, közvetlenül az erőd alatt.",
             "ro": "Parcați în parcarea subterană 'Château' chiar sub cetate.",
-            "en": "Park in the 'Château' underground parking lot right below the fortress."
+            "en": "Park in the 'Château' underground parking lot right below the fortress.",
+            "fr": "Garez-vous au parking souterrain 'Château' situé juste sous la forteresse."
           }
         },
         {
@@ -650,7 +694,8 @@
             "de": "Le Vaugueux",
             "hu": "Le Vaugueux negyed",
             "ro": "Cartierul Le Vaugueux",
-            "en": "Le Vaugueux District"
+            "en": "Le Vaugueux District",
+            "fr": "Quartier du Vaugueux"
           },
           "coords": [
             49.186,
@@ -665,7 +710,8 @@
             "de": "Nur 5 Minuten zu Fuß vom Parkhaus des Schlosses entfernt.",
             "hu": "Csak 5 perc séta a vár alatti parkolótól.",
             "ro": "La doar 5 minute de mers pe jos de parcarea castelului.",
-            "en": "Just a 5-minute walk from the castle parking lot."
+            "en": "Just a 5-minute walk from the castle parking lot.",
+            "fr": "À seulement 5 minutes à pied du parking du château."
           }
         },
         {
@@ -673,7 +719,8 @@
             "de": "Abbaye aux Dames",
             "hu": "Nők apátsága",
             "ro": "Abația Femeilor",
-            "en": "Ladies' Abbey"
+            "en": "Ladies' Abbey",
+            "fr": "Abbaye aux Dames"
           },
           "coords": [
             49.186,
@@ -688,7 +735,8 @@
             "de": "Kostenlose Parkplätze stehen oft direkt vor der Abtei zur Verfügung.",
             "hu": "Ingyenes parkolóhelyek gyakran elérhetőek közvetlenül az apátság előtt.",
             "ro": "Locuri de parcare gratuite sunt adesea disponibile chiar în fața abației.",
-            "en": "Free parking spots are often available right in front of the abbey."
+            "en": "Free parking spots are often available right in front of the abbey.",
+            "fr": "Des places de stationnement gratuites sont souvent disponibles juste devant l’abbaye."
           }
         },
         {
@@ -696,7 +744,8 @@
             "de": "Abbaye aux Hommes",
             "hu": "Férfiak apátsága",
             "ro": "Abația Bărbaților",
-            "en": "Men's Abbey"
+            "en": "Men's Abbey",
+            "fr": "Abbaye aux Hommes"
           },
           "coords": [
             49.181,
@@ -711,7 +760,8 @@
             "de": "Nutzen Sie den Parkplatz 'Hôtel de Ville' für einen einfachen Zugang.",
             "hu": "Használja a városháza melletti 'Hôtel de Ville' parkolót.",
             "ro": "Utilizați parcarea 'Hôtel de Ville' pentru un acces facil.",
-            "en": "Use the 'Hôtel de Ville' parking lot for easy access."
+            "en": "Use the 'Hôtel de Ville' parking lot for easy access.",
+            "fr": "Utilisez le parking 'Hôtel de Ville' pour un accès facile."
           }
         }
       ],
@@ -719,7 +769,8 @@
         "de": "Mit dem Auto erreichen Sie bequem das etwas außerhalb gelegene Mémorial de Caen als ersten Stopp. Danach führt Sie die Tour ins grüne Herz der Stadt zum Jardin des Plantes. Ein zentraler Parkstopp am Schloss ermöglicht die Erkundung der Festung und des Vaugueux-Viertels zu Fuß. Zum Abschluss besuchen Sie die beiden architektonischen Juwelen: die Frauen- und die Männerabtei.",
         "hu": "Autóval kényelmesen elérheti a városon kívül eső Emlékművet első megállóként. Ezt követően a túra a város zöld szívébe, a botanikus kertbe vezet. A várnál érdemes leparkolni, majd gyalog felfedezni az erődöt és a Vaugueux negyedet. A nap végén látogassa meg a két építészeti gyöngyszemet: a Nők és a Férfiak apátságát.",
         "ro": "Cu mașina puteți ajunge ușor la Memorialul din Caen, situat puțin în afara orașului, ca primă oprire. Apoi, turul vă duce în inima verde a orașului, la Grădina Botanică. O parcare centrală la castel permite explorarea cetății și a cartierului Vaugueux pe jos. La final, vizitați cele două bijuterii arhitecturale: Abația Femeilor și Abația Bărbaților.",
-        "en": "By car, you can easily reach the slightly outlying Caen Memorial as your first stop. Then, the tour takes you to the city's green heart, the Botanical Garden. A central parking stop at the castle allows for on-foot exploration of the fortress and the Vaugueux district. To finish, visit the two architectural gems: the Ladies' and Men's Abbeys."
+        "en": "By car, you can easily reach the slightly outlying Caen Memorial as your first stop. Then, the tour takes you to the city's green heart, the Botanical Garden. A central parking stop at the castle allows for on-foot exploration of the fortress and the Vaugueux district. To finish, visit the two architectural gems: the Ladies' and Men's Abbeys.",
+        "fr": "En voiture, vous pouvez aisément atteindre le légèrement excentré Mémorial de Caen comme premier arrêt. Ensuite, la visite vous mène au cœur vert de la ville, le Jardin botanique. Une halte de stationnement centrale au château permet d’explorer à pied la forteresse et le quartier du Vaugueux. Pour finir, visitez les deux joyaux architecturaux : les Abbayes aux Dames et aux Hommes."
       },
       "gastro_picks": {
         "de": [
@@ -827,6 +878,12 @@
           "Underground car parks are often the stress-free choice in the center.",
           "In the blue zone, parking is time-limited (use a parking disc).",
           "Avoid peak morning hours at the Memorial."
+        ],
+        "fr": [
+          "Faites attention aux sens uniques dans le centre historique.",
+          "Les parkings souterrains sont souvent le choix sans stress au centre.",
+          "En zone bleue, le stationnement est limité dans le temps (utilisez un disque de stationnement).",
+          "Évitez les heures de pointe matinales au Mémorial."
         ]
       }
     },
@@ -843,7 +900,8 @@
             "de": "Abbaye aux Hommes",
             "hu": "Férfiak apátsága",
             "ro": "Abația Bărbaților",
-            "en": "Men's Abbey"
+            "en": "Men's Abbey",
+            "fr": "Abbaye aux Hommes"
           },
           "coords": [
             49.181,
@@ -858,7 +916,8 @@
             "de": "Bushaltestelle 'Hôtel de Ville' wird von vielen Linien bedient.",
             "hu": "A 'Hôtel de Ville' buszmegállót számos járat érinti.",
             "ro": "Stația de autobuz 'Hôtel de Ville' este deservită de multe linii.",
-            "en": "The 'Hôtel de Ville' bus stop is served by many lines."
+            "en": "The 'Hôtel de Ville' bus stop is served by many lines.",
+            "fr": "L’arrêt de bus 'Hôtel de Ville' est desservi par de nombreuses lignes."
           }
         },
         {
@@ -866,7 +925,8 @@
             "de": "Jardin des Plantes de Caen",
             "hu": "Caeni füvészkert",
             "ro": "Grădina Botanică din Caen",
-            "en": "Caen Botanical Garden"
+            "en": "Caen Botanical Garden",
+            "fr": "Jardin botanique de Caen"
           },
           "coords": [
             49.189,
@@ -881,7 +941,8 @@
             "de": "Kurze Busfahrt oder 15 Minuten Fußweg von der Männerabtei.",
             "hu": "Rövid buszút vagy 15 perc séta a Férfiak apátságától.",
             "ro": "O scurtă călătorie cu autobuzul sau 15 minute de mers pe jos de la Abație.",
-            "en": "Short bus ride or a 15-minute walk from the Men's Abbey."
+            "en": "Short bus ride or a 15-minute walk from the Men's Abbey.",
+            "fr": "Courte ligne de bus ou 15 minutes à pied depuis l’Abbaye aux Hommes."
           }
         },
         {
@@ -889,7 +950,8 @@
             "de": "Burg von Caen",
             "hu": "Caeni vár",
             "ro": "Castelul din Caen",
-            "en": "Caen Castle"
+            "en": "Caen Castle",
+            "fr": "Château de Caen"
           },
           "coords": [
             49.187,
@@ -904,7 +966,8 @@
             "de": "Die Straßenbahn T1/T2 hält an der Station 'Résistance'.",
             "hu": "A T1/T2 villamos megáll a 'Résistance' megállónál.",
             "ro": "Tramvaiul T1/T2 oprește la stația 'Résistance'.",
-            "en": "The T1/T2 tram stops at 'Résistance' station."
+            "en": "The T1/T2 tram stops at 'Résistance' station.",
+            "fr": "Le tram T1/T2 s’arrête à la station 'Résistance'."
           }
         },
         {
@@ -912,7 +975,8 @@
             "de": "Église Saint-Pierre",
             "hu": "Szent Péter-templom",
             "ro": "Biserica Sfântul Petru",
-            "en": "Saint-Pierre Church"
+            "en": "Saint-Pierre Church",
+            "fr": "Église Saint-Pierre"
           },
           "coords": [
             49.184,
@@ -927,7 +991,8 @@
             "de": "Direkt gegenüber dem Haupteingang der Burg gelegen.",
             "hu": "Közvetlenül a vár főbejáratával szemben található.",
             "ro": "Situată chiar vizavi de intrarea principală a castelului.",
-            "en": "Located directly opposite the main entrance to the castle."
+            "en": "Located directly opposite the main entrance to the castle.",
+            "fr": "Située directement en face de l’entrée principale du château."
           }
         },
         {
@@ -935,7 +1000,8 @@
             "de": "Abbaye aux Dames",
             "hu": "Nők apátsága",
             "ro": "Abația Femeilor",
-            "en": "Ladies' Abbey"
+            "en": "Ladies' Abbey",
+            "fr": "Abbaye aux Dames"
           },
           "coords": [
             49.186,
@@ -950,7 +1016,8 @@
             "de": "Nutzen Sie den Bus Linie 4 oder 10 Richtung Osten.",
             "hu": "Használja a 4-es vagy 10-es buszt keleti irányba.",
             "ro": "Folosiți autobuzul linia 4 sau 10 spre est.",
-            "en": "Use bus line 4 or 10 heading east."
+            "en": "Use bus line 4 or 10 heading east.",
+            "fr": "Prenez les lignes de bus 4 ou 10 en direction de l’est."
           }
         },
         {
@@ -958,7 +1025,8 @@
             "de": "Mémorial de Caen",
             "hu": "Caeni Emlékmű",
             "ro": "Memorialul din Caen",
-            "en": "Caen Memorial"
+            "en": "Caen Memorial",
+            "fr": "Mémorial de Caen"
           },
           "coords": [
             49.198,
@@ -973,7 +1041,8 @@
             "de": "Die Linie 2 verbindet das Memorial direkt mit dem Stadtzentrum.",
             "hu": "A 2-es buszjárat közvetlenül összeköti az Emlékművet a városközponttal.",
             "ro": "Linia 2 conectează Memorialul direct cu centrul orașului.",
-            "en": "Line 2 connects the Memorial directly with the city center."
+            "en": "Line 2 connects the Memorial directly with the city center.",
+            "fr": "La ligne 2 relie directement le Mémorial au centre-ville."
           }
         }
       ],
@@ -981,7 +1050,8 @@
         "de": "Mit dem effizienten Nahverkehrsnetz 'Twisto' erkunden Sie Caen stressfrei. Starten Sie bei der Männerabtei und fahren Sie zum botanischen Garten. Das Straßenbahnnetz bringt Sie schnell zum Schloss und zur Kirche Saint-Pierre. Nach dem Besuch der Frauenabtei im Osten bringt Sie ein direkter Bus zum Mémorial de Caen im Nordwesten der Stadt.",
         "hu": "A 'Twisto' tömegközlekedési hálózat segítségével stresszmentesen fedezheti fel Caent. Kezdjen a Férfiak apátságánál, majd buszozzon a botanikus kerthez. A villamos gyorsan elviszi a várhoz és a Szent Péter-templomhoz. A keleti Nők apátsága után közvetlen buszjárat szállítja az északnyugati Emlékműhöz.",
         "ro": "Explorați Caen fără stres folosind rețeaua eficientă de transport public 'Twisto'. Începeți la Abația Bărbaților și mergeți cu autobuzul la grădina botanică. Rețeaua de tramvaie vă duce rapid la castel și la biserica Sfântul Petru. După vizitarea Abației Femeilor din est, un autobuz direct vă duce la Memorialul din nord-vestul orașului.",
-        "en": "Explore Caen stress-free using the efficient 'Twisto' public transport network. Start at the Men's Abbey and take a bus to the botanical garden. The tram system quickly brings you to the castle and Saint-Pierre Church. After visiting the Ladies' Abbey in the east, a direct bus transports you to the Memorial in the northwest."
+        "en": "Explore Caen stress-free using the efficient 'Twisto' public transport network. Start at the Men's Abbey and take a bus to the botanical garden. The tram system quickly brings you to the castle and Saint-Pierre Church. After visiting the Ladies' Abbey in the east, a direct bus transports you to the Memorial in the northwest.",
+        "fr": "Explorez Caen sans stress grâce au réseau de transports en commun efficace 'Twisto'. Commencez à l’Abbaye aux Hommes et prenez un bus jusqu’au jardin botanique. Le système de tram vous amène rapidement au château et à l’église Saint-Pierre. Après la visite de l’Abbaye aux Dames à l’est, un bus direct vous conduira au Mémorial au nord-ouest."
       },
       "gastro_picks": {
         "de": [
@@ -1089,6 +1159,12 @@
           "The Twisto app provides real-time departure information.",
           "Remember to validate your ticket upon boarding.",
           "Caen's trams run on rubber tires (guided bus system)."
+        ],
+        "fr": [
+          "Achetez un ticket 24h pour des trajets illimités.",
+          "L’application Twisto fournit les horaires de départ en temps réel.",
+          "N’oubliez pas de valider votre titre de transport en montant à bord.",
+          "Les trams de Caen roulent sur pneus (système de bus guidé)."
         ]
       }
     }

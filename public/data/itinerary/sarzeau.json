@@ -21,7 +21,8 @@
             "de": "Spielplatz Belvédère de la Grée",
             "hu": "Belvédère de la Grée játszótér",
             "ro": "Loc de joacă Belvédère de la Grée",
-            "en": "Belvédère de la Grée Playground"
+            "en": "Belvédère de la Grée Playground",
+            "fr": "Aire de jeux du Belvédère de la Grée"
           },
           "coords": [
             -2.769289,
@@ -36,7 +37,8 @@
             "de": "Beginnen Sie den Morgen auf diesem malerischen Spielplatz mit toller Aussicht und frischer Luft, aber vergessen Sie nicht eine leichte Windjacke.",
             "hu": "Kezdje a reggelt ezen a festői kilátóval egybekötött játszótéren, élvezze a friss levegőt, de mindenképpen hozzon magával egy könnyű széldzsekit.",
             "ro": "Începeți dimineața la acest loc de joacă pitoresc cu vedere panoramică, ideal pentru aer curat, dar nu uitați să purtați o jachetă subțire.",
-            "en": "Start your morning at this scenic viewpoint playground, offering fresh air and views, but be sure to wear a light windbreaker."
+            "en": "Start your morning at this scenic viewpoint playground, offering fresh air and views, but be sure to wear a light windbreaker.",
+            "fr": "Commencez votre matinée à cet aire de jeux panoramique offrant air frais et vues ; pensez à porter une légère coupe-vent."
           }
         },
         {
@@ -44,7 +46,8 @@
             "de": "Kirche Saint-Saturnin",
             "hu": "Szent Szaturninusz-templom",
             "ro": "Biserica Saint-Saturnin",
-            "en": "Saint-Saturnin Church"
+            "en": "Saint-Saturnin Church",
+            "fr": "Église Saint-Saturnin"
           },
           "coords": [
             -2.768384,
@@ -59,7 +62,8 @@
             "de": "Bewundern Sie die friedliche Architektur dieses historischen religiösen Zentrums und treten Sie ein, um die wunderschönen Buntglasfenster zu sehen.",
             "hu": "Csodálja meg e történelmi vallási központ békés építészetét, amely a helyi örökséget tükrözi, és lépjen be a gyönyörű ólomüveg ablakokért.",
             "ro": "Admirați arhitectura pașnică a acestui centru religios istoric, reflectând moștenirea locală, și intrați pentru a vedea vitraliile superbe.",
-            "en": "Admire the peaceful architecture of this historical religious center, reflecting local heritage, and step inside to see the beautiful stained glass."
+            "en": "Admire the peaceful architecture of this historical religious center, reflecting local heritage, and step inside to see the beautiful stained glass.",
+            "fr": "Admirez l’architecture paisible de ce centre religieux historique, reflet du patrimoine local, et entrez pour voir les beaux vitraux."
           }
         },
         {
@@ -67,7 +71,8 @@
             "de": "Spielplatz Père Marie Joseph Coudrin",
             "hu": "Père Marie Joseph Coudrin játszótér",
             "ro": "Loc de joacă Père Marie Joseph Coudrin",
-            "en": "Père Marie Joseph Coudrin Playground"
+            "en": "Père Marie Joseph Coudrin Playground",
+            "fr": "Aire de jeux Père Marie Joseph Coudrin"
           },
           "coords": [
             -2.770093,
@@ -82,7 +87,8 @@
             "de": "Lassen Sie die Kinder diesen zentralen Familienspielplatz genießen, perfekt für eine Pause, während Sie sich einen Kaffee in der Nähe holen.",
             "hu": "Hagyja, hogy a gyerekek élvezzék ezt a központi játszóteret, amely tökéletes egy tízórai szünetre, miközben Ön egy közeli pékségből hoz kávét.",
             "ro": "Lăsați copiii să se bucure de acest loc de joacă central, perfect pentru o pauză matinală, în timp ce luați o cafea de la o brutărie din apropiere.",
-            "en": "Let the kids enjoy this central family playground, perfect for a mid-morning break, while you grab a coffee from a nearby bakery."
+            "en": "Let the kids enjoy this central family playground, perfect for a mid-morning break, while you grab a coffee from a nearby bakery.",
+            "fr": "Laissez les enfants profiter de cette aire de jeux familiale centrale, parfaite pour une pause de milieu de matinée, pendant que vous prenez un café à la boulangerie voisine."
           }
         },
         {
@@ -90,7 +96,8 @@
             "de": "Strand von Roaliguen",
             "hu": "Roaliguen strand",
             "ro": "Plaja Roaliguen",
-            "en": "Roaliguen Beach"
+            "en": "Roaliguen Beach",
+            "fr": "Plage de Roaliguen"
           },
           "coords": [
             -2.768324,
@@ -105,7 +112,8 @@
             "de": "Entspannen Sie sich an den weiten Stränden dieses Küstenrückzugsortes, ideal für Meerblick, und bringen Sie bequeme Schuhe für den Weg mit.",
             "hu": "Pihenjen meg e tengerparti menedékhely tágas homokján, amely ideális a tenger bámulására, és hozzon kényelmes cipőt a hosszabb sétához.",
             "ro": "Relaxați-vă pe nisipurile vaste ale acestui refugiu de coastă, ideal pentru a privi oceanul, și aduceți încălțăminte comodă pentru plimbare.",
-            "en": "Unwind on the expansive sands of this coastal retreat, ideal for ocean gazing, and bring comfortable shoes for the slightly long scenic walk here."
+            "en": "Unwind on the expansive sands of this coastal retreat, ideal for ocean gazing, and bring comfortable shoes for the slightly long scenic walk here.",
+            "fr": "Détendez-vous sur les vastes sables de cette retraite côtière, idéale pour contempler l’océan ; apportez des chaussures confortables pour la promenade panoramique un peu longue."
           }
         },
         {
@@ -113,7 +121,8 @@
             "de": "Strand von Kerfontaine",
             "hu": "Kerfontaine strand",
             "ro": "Plaja Kerfontaine",
-            "en": "Kerfontaine Beach"
+            "en": "Kerfontaine Beach",
+            "fr": "Plage de Kerfontaine"
           },
           "coords": [
             -2.782213,
@@ -128,7 +137,8 @@
             "de": "Beenden Sie Ihren Rundgang an diesem entspannenden Strand im perfekten Abendlicht und packen Sie ein kleines Picknick für den Sonnenuntergang ein.",
             "hu": "Fejezze be a sétát ezen a pihentető strandon, ahol a legszebb az aranyóra fénye, így csomagoljon egy kis pikniket a naplemente élvezetéhez.",
             "ro": "Încheiați-vă turul pietonal la această plajă relaxantă, unde lumina asfințitului este superbă, deci pregătiți un mic picnic pentru apus.",
-            "en": "Conclude your walking tour at this relaxing recreational beach, where golden hour shines best, so pack a small picnic to enjoy the sunset."
+            "en": "Conclude your walking tour at this relaxing recreational beach, where golden hour shines best, so pack a small picnic to enjoy the sunset.",
+            "fr": "Concluez votre visite à pied sur cette plage récréative relaxante, où l’heure dorée est à son meilleur ; emportez un petit pique-nique pour profiter du coucher de soleil."
           }
         }
       ],
@@ -136,7 +146,8 @@
         "de": "Beginnen Sie Ihren Tag im charmanten Zentrum von Sarzeau und genießen Sie Aussichtspunkte und Architektur.\n\nMittags wechseln Sie von den malerischen Straßen zur atemberaubenden Atlantikküste.\n\nDer Nachmittag ist langen, malerischen Strandspaziergängen an den weiten Sandstränden gewidmet.\n\nLassen Sie den Tag an den sanften Wellen ausklingen und genießen Sie einen spektakulären Sonnenuntergang.",
         "hu": "Kezdje a napot Sarzeau bájos központjának felfedezésével, gyönyörködjön a kilátókban és az építészetben.\n\nDélben a festői utcákról induljon el a lélegzetelállító Atlanti-óceán partja felé.\n\nA délutánt a végtelen homokos partokon tett hosszú, festői sétáknak szenteljük.\n\nZárja a napot a lágy hullámok mellett pihenve, egy látványos naplementét élvezve a félsziget felett.",
         "ro": "Începeți ziua explorând centrul fermecător al orașului Sarzeau, admirând priveliștile și arhitectura locală.\n\nLa prânz, treceți de la străzile pitorești spre coasta uluitoare a Atlanticului.\n\nDupă-amiaza este dedicată plimbărilor lungi și pitorești pe plajele vaste de nisip.\n\nÎncheiați-vă ziua relaxându-vă lângă valurile blânde, savurând un apus spectaculos deasupra peninsulei.",
-        "en": "Start your day exploring the charming town center of Sarzeau, taking in the local viewpoints and historical architecture.\n\nMidday, transition from the quaint streets towards the breathtaking Atlantic coastline.\n\nThe afternoon is dedicated to long, scenic beach walks along the expansive sandy shores.\n\nConclude your day relaxing by the gentle waves, enjoying a spectacular sunset over the peninsula."
+        "en": "Start your day exploring the charming town center of Sarzeau, taking in the local viewpoints and historical architecture.\n\nMidday, transition from the quaint streets towards the breathtaking Atlantic coastline.\n\nThe afternoon is dedicated to long, scenic beach walks along the expansive sandy shores.\n\nConclude your day relaxing by the gentle waves, enjoying a spectacular sunset over the peninsula.",
+        "fr": "Commencez la journée en explorant le charmant centre-ville de Sarzeau, en découvrant les points de vue locaux et l’architecture historique.\n\nÀ midi, quittez les rues pittoresques pour la spectaculaire côte atlantique.\n\nL’après-midi est consacré à de longues promenades panoramiques le long des vastes rivages sablonneux.\n\nTerminez la journée en vous relaxant au bord des vagues, en profitant d’un spectaculaire coucher de soleil sur la presqu’île."
       },
       "variants": {
         "rainy": {
@@ -144,7 +155,8 @@
             "de": "Ein regnerischer Morgen beginnt am Spielplatz, wo die Pfützen zum Springen einladen. Mittags bietet die Kirche Saint-Saturnin einen trockenen Zufluchtsort für Besinnung. Am Nachmittag führt der Weg trotz Wind zu den Stränden, die bei Regen eine mystische Ruhe ausstrahlen. Der Abend endet früh, während der Regen sanft gegen die Fenster der gemütlichen Cafés im Ortskern klopft.",
             "hu": "A reggel esőben kezdődik a játszótéren, ahol a pocsolyák új kalandot jelentenek a gyerekeknek. Délben a Szent Szaturninusz-templom nyújt száraz menedéket és csendes elmélyülést. Délután a tengerparti sétány esőben is varázslatos, a párás levegő különleges hangulatot áraszt. Az este hamar beköszönt, ilyenkor a belváros fedett helyei kínálnak barátságos befejezést a napnak.",
             "ro": "O dimineață ploioasă începe la locul de joacă, unde bălțile devin atracția principală pentru cei mici. La prânz, biserica oferă un refugiu uscat și liniștit pentru reflecție. După-amiaza, plajele sub ploaie emană o liniște mistică, fiind perfecte pentru o plimbare revigorantă. Seara se încheie devreme, în timp ce ploaia bate ușor în ferestrele cafenelelor primitoare din centru.",
-            "en": "A rainy morning starts at the playground, where puddles offer a splash of fun for kids. At noon, the Saint-Saturnin Church provides a dry and peaceful sanctuary. In the afternoon, the beaches take on a moody, mystical atmosphere under the grey skies. The evening winds down early as the rain creates a cozy backdrop for a relaxing indoor end to your walk in the town center."
+            "en": "A rainy morning starts at the playground, where puddles offer a splash of fun for kids. At noon, the Saint-Saturnin Church provides a dry and peaceful sanctuary. In the afternoon, the beaches take on a moody, mystical atmosphere under the grey skies. The evening winds down early as the rain creates a cozy backdrop for a relaxing indoor end to your walk in the town center.",
+            "fr": "Une matinée pluvieuse débute à l’aire de jeux, où les flaques offrent des moments ludiques aux enfants. À midi, l’église Saint-Saturnin offre un sanctuaire sec et paisible. L’après-midi, les plages prennent une atmosphère mystérieuse sous un ciel gris. La soirée se termine tôt alors que la pluie crée un cadre douillet pour finir votre promenade en centre-ville à l’intérieur."
           },
           "stops": [
             {
@@ -152,13 +164,15 @@
                 "de": "Spielplatz Belvédère de la Grée",
                 "hu": "Belvédère de la Grée játszótér",
                 "ro": "Loc de joacă Belvédère de la Grée",
-                "en": "Belvédère de la Grée Playground"
+                "en": "Belvédère de la Grée Playground",
+                "fr": "Aire de jeux du Belvédère de la Grée"
               },
               "tip_5lang": {
                 "de": "Genießen Sie den Blick auf den Golf trotz Regen; wasserfeste Kleidung ist auf den Spielgeräten wichtig, da diese bei Nässe rutschig sein können.",
                 "hu": "Élvezze az öbölre nyíló kilátást esőben is, de a játékok csúszósak lehetnek, ezért vízálló cipő és fokozott óvatosság javasolt a mászókákon.",
                 "ro": "Bucurați-vă de privelistea golfului chiar și pe ploaie; echipamentul de joacă poate fi alunecos, deci purtați încălțăminte impermeabilă cu aderență.",
-                "en": "Enjoy the bay views even in the rain; playground equipment can be slippery when wet, so waterproof gear and careful footing are highly recommended."
+                "en": "Enjoy the bay views even in the rain; playground equipment can be slippery when wet, so waterproof gear and careful footing are highly recommended.",
+                "fr": "Profitez de la vue sur la baie même sous la pluie ; les équipements peuvent être glissants quand ils sont mouillés, donc imperméable et prudence sont fortement recommandés."
               }
             },
             {
@@ -166,13 +180,15 @@
                 "de": "Kirche Saint-Saturnin",
                 "hu": "Szent Szaturninusz-templom",
                 "ro": "Biserica Saint-Saturnin",
-                "en": "Saint-Saturnin Church"
+                "en": "Saint-Saturnin Church",
+                "fr": "Église Saint-Saturnin"
               },
               "tip_5lang": {
                 "de": "Bewundern Sie die Architektur im Trockenen; nutzen Sie die Zeit für eine ausführliche Innenbesichtigung, während draußen der stärkste Guss vorüberzieht.",
                 "hu": "Csodálja meg az építészetet szárazon; használja ki az időt a belső tér alapos felfedezésére, amíg kint elvonul a leghevesebb zápor.",
                 "ro": "Admirați arhitectura la adăpost; folosiți acest timp pentru o vizită detaliată a interiorului în timp ce afară trece cea mai puternică ploaie.",
-                "en": "Admire the historic architecture while staying dry; take your time exploring the interior details while waiting for the heaviest rain to pass."
+                "en": "Admire the historic architecture while staying dry; take your time exploring the interior details while waiting for the heaviest rain to pass.",
+                "fr": "Admirez l’architecture historique tout en restant au sec ; prenez le temps d’explorer l’intérieur en attendant que la pluie la plus forte passe."
               }
             },
             {
@@ -180,13 +196,15 @@
                 "de": "Spielplatz Père Marie Joseph Coudrin",
                 "hu": "Père Marie Joseph Coudrin játszótér",
                 "ro": "Loc de joacă Père Marie Joseph Coudrin",
-                "en": "Père Marie Joseph Coudrin Playground"
+                "en": "Père Marie Joseph Coudrin Playground",
+                "fr": "Aire de jeux Père Marie Joseph Coudrin"
               },
               "tip_5lang": {
                 "de": "Ein kurzer Stopp für Bewegung zwischen den Regenschauern; suchen Sie Schutz unter den Bäumen, wenn der Niederschlag kurzzeitig stärker wird.",
                 "hu": "Rövid mozgás két zápor között; húzódjon a fák sűrű lombja alá, ha az eső hirtelen rákezdene, és várja meg, amíg csendesedik.",
                 "ro": "O scurtă oprire pentru mișcare între reprizele de ploaie; căutați adăpost sub copaci dacă precipitațiile devin temporar mai intense.",
-                "en": "A quick break for movement between showers; seek shelter under the nearby trees if the rainfall intensifies momentarily during playtime."
+                "en": "A quick break for movement between showers; seek shelter under the nearby trees if the rainfall intensifies momentarily during playtime.",
+                "fr": "Une pause rapide pour se dégourdir entre les averses ; abritez-vous sous les arbres voisins si la pluie s’intensifie momentanément pendant le jeu."
               }
             },
             {
@@ -194,13 +212,15 @@
                 "de": "Strand von Roaliguen",
                 "hu": "Roaliguen strand",
                 "ro": "Plaja Roaliguen",
-                "en": "Roaliguen Beach"
+                "en": "Roaliguen Beach",
+                "fr": "Plage de Roaliguen"
               },
               "tip_5lang": {
                 "de": "Erleben Sie die raue Schönheit des Ozeans; ein fester Ostfriesennerz schützt Sie vor dem peitschenden Regen und dem starken Küstenwind.",
                 "hu": "Tapasztalja meg az óceán vad szépségét; egy jó minőségű esőkabát megvédi a verő esőtől és az erős tengerparti széltől a séta alatt.",
                 "ro": "Experimentați frumusețea brută a oceanului; o pelerină de ploaie rezistentă vă va proteja de picăturile mari și de vântul puternic de coastă.",
-                "en": "Experience the raw beauty of the ocean in the rain; a heavy-duty raincoat will protect you from the driving spray and strong coastal winds."
+                "en": "Experience the raw beauty of the ocean in the rain; a heavy-duty raincoat will protect you from the driving spray and strong coastal winds.",
+                "fr": "Vivez la beauté brute de l’océan sous la pluie ; un manteau imperméable résistant vous protégera des embruns et des vents côtiers puissants."
               }
             },
             {
@@ -208,13 +228,15 @@
                 "de": "Strand von Kerfontaine",
                 "hu": "Kerfontaine strand",
                 "ro": "Plaja Kerfontaine",
-                "en": "Kerfontaine Beach"
+                "en": "Kerfontaine Beach",
+                "fr": "Plage de Kerfontaine"
               },
               "tip_5lang": {
                 "de": "Suchen Sie im Sand nach Muscheln, die der Regen freigespült hat; achten Sie auf den rutschigen Untergrund an den felsigen Abschnitten der Küste.",
                 "hu": "Keressen kagylókat a homokban, amiket az eső mosott ki; ügyeljen a csúszós talajra a part menti sziklás szakaszok közelében.",
                 "ro": "Căutați scoici în nisipul spălat de ploaie; aveți grijă la terenul alunecos în apropierea secțiunilor stâncoase ale țărmului.",
-                "en": "Search for shells in the rain-washed sand; be mindful of slippery footing near the rocky sections of the shore during your coastal walk."
+                "en": "Search for shells in the rain-washed sand; be mindful of slippery footing near the rocky sections of the shore during your coastal walk.",
+                "fr": "Cherchez des coquillages dans le sable lavé par la pluie ; faites attention aux surfaces glissantes près des zones rocheuses lors de votre promenade côtière."
               }
             }
           ]
@@ -224,7 +246,8 @@
             "de": "Ein klarer Wintermorgen lädt zu einem erfrischenden Spaziergang ein. Mittags wärmt die Sonne die historischen Mauern von Sarzeau auf, bevor es Zeit für eine warme Pause ist. Am Nachmittag färbt das tiefe Winterlicht die Strände in sanfte Pastelltöne. Gegen 17:00 Uhr sinkt die Sonne, und die frostige Abendluft macht die Rückkehr in die beleuchtete Stadt besonders gemütlich.",
             "hu": "A tiszta téli reggel frissítő sétára hív a városban. Délben a nap bágyadtan süti Sarzeau történelmi falait, mielőtt ideje lenne egy melegítő szünetnek. Délután az alacsony téli napfény pasztellszínekbe öltözteti a tengerpartot. 17:00 körül a nap gyorsan nyugovóra tér, a fagyos esti levegő pedig még hívogatóbbá teszi a kivilágított városközpontot.",
             "ro": "O dimineață senină de iarnă invită la o plimbare revigorantă prin oraș. La prânz, soarele încălzește palid zidurile istorice din Sarzeau înainte de o pauză caldă. După-amiaza, lumina joasă de iarnă pictează plajele în culori pastelate. În jurul orei 17:00 soarele apune, iar aerul înghețat de seară face întoarcerea în orașul luminat foarte primitoare.",
-            "en": "A crisp winter morning invites you for a refreshing walk through town. At noon, the pale sun warms the historic walls of Sarzeau before you take a cozy break. In the afternoon, the low winter light casts soft pastel hues over the empty beaches. Around 17:00, the sun sets rapidly, making the return to the brightly lit town center feel warm and welcoming."
+            "en": "A crisp winter morning invites you for a refreshing walk through town. At noon, the pale sun warms the historic walls of Sarzeau before you take a cozy break. In the afternoon, the low winter light casts soft pastel hues over the empty beaches. Around 17:00, the sun sets rapidly, making the return to the brightly lit town center feel warm and welcoming.",
+            "fr": "Une matinée d’hiver fraîche vous invite à une marche revigorante en ville. À midi, le soleil pâle réchauffe les murs historiques de Sarzeau avant une pause cosy. L’après-midi, la lumière hivernale basse teinte les plages de pastels doux et vides. Vers 17:00, le soleil se couche rapidement, rendant le retour au centre-ville éclairé chaleureux et accueillant."
           },
           "stops": [
             {
@@ -232,13 +255,15 @@
                 "de": "Spielplatz Belvédère de la Grée",
                 "hu": "Belvédère de la Grée játszótér",
                 "ro": "Loc de joacă Belvédère de la Grée",
-                "en": "Belvédère de la Grée Playground"
+                "en": "Belvédère de la Grée Playground",
+                "fr": "Aire de jeux du Belvédère de la Grée"
               },
               "tip_5lang": {
                 "de": "Genießen Sie die klare Fernsicht über den Golf; tragen Sie warme Handschuhe, da das Metall der Spielgeräte im Winter sehr kalt sein kann.",
                 "hu": "Élvezze a tiszta távoli kilátást az öbölre; viseljen meleg kesztyűt, mert a játékok fém részei télen nagyon lehűlhetnek és fagyosak lehetnek.",
                 "ro": "Bucurați-vă de vizibilitatea clară peste golf; purtați mănuși groase, deoarece părțile metalice ale echipamentelor pot fi foarte reci iarna.",
-                "en": "Enjoy the crystal-clear winter views over the bay; wear warm gloves as the metal playground equipment can be freezing to the touch."
+                "en": "Enjoy the crystal-clear winter views over the bay; wear warm gloves as the metal playground equipment can be freezing to the touch.",
+                "fr": "Profitez des vues hivernales cristallines sur la baie ; portez des gants chauds car les équipements métalliques peuvent être glacés au toucher."
               }
             },
             {
@@ -246,13 +271,15 @@
                 "de": "Kirche Saint-Saturnin",
                 "hu": "Szent Szaturninusz-templom",
                 "ro": "Biserica Saint-Saturnin",
-                "en": "Saint-Saturnin Church"
+                "en": "Saint-Saturnin Church",
+                "fr": "Église Saint-Saturnin"
               },
               "tip_5lang": {
                 "de": "Erkunden Sie die stille Kirche als Rückzugsort; die dicken Steinmauern schützen vor dem beißenden Winterwind und bieten eine friedliche Atmosphäre.",
                 "hu": "Fedezze fel a csendes templomot; a vastag kőfalak megvédenek a metsző téli széltől, és békés, meghitt hangulatot árasztanak a látogatás alatt.",
                 "ro": "Explorați liniștea bisericii; zidurile groase de piatră oferă protecție împotriva vântului tăios de iarnă și o atmosferă plină de pace.",
-                "en": "Explore the peaceful church interior; the thick stone walls provide a welcome shield from the biting winter wind and a serene atmosphere."
+                "en": "Explore the peaceful church interior; the thick stone walls provide a welcome shield from the biting winter wind and a serene atmosphere.",
+                "fr": "Explorez l’intérieur paisible de l’église ; les épaisses murailles en pierre offrent un abri apprécié contre le vent hivernal mordant et dégagent une atmosphère sereine."
               }
             },
             {
@@ -260,13 +287,15 @@
                 "de": "Spielplatz Père Marie Joseph Coudrin",
                 "hu": "Père Marie Joseph Coudrin játszótér",
                 "ro": "Loc de joacă Père Marie Joseph Coudrin",
-                "en": "Père Marie Joseph Coudrin Playground"
+                "en": "Père Marie Joseph Coudrin Playground",
+                "fr": "Aire de jeux Père Marie Joseph Coudrin"
               },
               "tip_5lang": {
                 "de": "Ein aktiver Stopp, um warm zu bleiben; achten Sie auf Raureif auf den Wegen, der die Holzflächen am frühen Vormittag rutschig macht.",
                 "hu": "Aktív pihenő a test felmelegítésére; ügyeljen a hajnali zúzmarára az utakon, ami délelőtt még csúszóssá teheti a fa felületeket.",
                 "ro": "O oprire activă pentru a vă încălzi; atenție la brumă pe poteci, care poate face suprafețele de lemn alunecoase dimineața devreme.",
-                "en": "Stay active to keep warm; watch out for morning frost on the paths, which can make wooden surfaces surprisingly slippery in the early hours."
+                "en": "Stay active to keep warm; watch out for morning frost on the paths, which can make wooden surfaces surprisingly slippery in the early hours.",
+                "fr": "Restez actif pour vous réchauffer ; surveillez le givre matinal sur les chemins, qui peut rendre les surfaces en bois étonnamment glissantes tôt le matin."
               }
             },
             {
@@ -274,13 +303,15 @@
                 "de": "Strand von Roaliguen",
                 "hu": "Roaliguen strand",
                 "ro": "Plaja Roaliguen",
-                "en": "Roaliguen Beach"
+                "en": "Roaliguen Beach",
+                "fr": "Plage de Roaliguen"
               },
               "tip_5lang": {
                 "de": "Machen Sie einen zügigen Strandspaziergang; die winterliche Einsamkeit ist ideal für Fotos, aber eine winddichte Jacke ist hier unverzichtbar.",
                 "hu": "Tegyen egy élénk sétát a parton; a téli magány tökéletes a fotózáshoz, de egy szélálló dzseki itt elengedhetetlen a hideg miatt.",
                 "ro": "Faceți o plimbare rapidă pe plajă; singurătatea iernii este ideală pentru fotografii, dar o jachetă rezistentă la vânt este obligatorie.",
-                "en": "Take a brisk walk along the shore; the winter solitude is perfect for photography, but a windproof jacket is essential against the sea breeze."
+                "en": "Take a brisk walk along the shore; the winter solitude is perfect for photography, but a windproof jacket is essential against the sea breeze.",
+                "fr": "Faites une marche énergique le long du rivage ; la solitude hivernale est parfaite pour la photographie, mais une veste coupe-vent est essentielle contre la brise marine."
               }
             },
             {
@@ -288,13 +319,15 @@
                 "de": "Strand von Kerfontaine",
                 "hu": "Kerfontaine strand",
                 "ro": "Plaja Kerfontaine",
-                "en": "Kerfontaine Beach"
+                "en": "Kerfontaine Beach",
+                "fr": "Plage de Kerfontaine"
               },
               "tip_5lang": {
                 "de": "Beobachten Sie den frühen Sonnenuntergang gegen 17:00 Uhr; bringen Sie eine Thermoskanne mit Tee mit, um den Moment am Meer warm zu genießen.",
                 "hu": "Nézze meg a korai naplementét 17:00 körül; hozzon magával egy termosz meleg teát, hogy átmelegedve élvezhesse a tengerparti pillanatot.",
                 "ro": "Urmăriți apusul devreme în jurul orei 17:00; aduceți un termos cu ceai cald pentru a savura momentul la malul mării fără a îngheța.",
-                "en": "Watch the early sunset around 17:00; bring a thermos of hot tea to stay warm while enjoying the winter light reflecting off the waves."
+                "en": "Watch the early sunset around 17:00; bring a thermos of hot tea to stay warm while enjoying the winter light reflecting off the waves.",
+                "fr": "Assistez au coucher de soleil tôt vers 17:00 ; apportez une thermos de thé chaud pour rester au chaud en admirant la lumière hivernale se refléter sur les vagues."
               }
             }
           ]
@@ -314,7 +347,8 @@
             "de": "Kirche Saint-Saturnin",
             "hu": "Szent Szaturninusz-templom",
             "ro": "Biserica Saint-Saturnin",
-            "en": "Saint-Saturnin Church"
+            "en": "Saint-Saturnin Church",
+            "fr": "Église Saint-Saturnin"
           },
           "coords": [
             -2.768384,
@@ -329,7 +363,8 @@
             "de": "Beginnen Sie Ihren Radtag in den ruhigen Gängen dieser historischen Kirche, die Sie am besten früh vor dem großen Mittagstrubel besuchen.",
             "hu": "Kezdje a kerékpáros napot ennek a történelmi templomnak a csendes sorai között, amelyet a legjobb kora reggel, a tömeg előtt meglátogatni.",
             "ro": "Începeți ziua de ciclism explorând culoarele liniștite ale acestei biserici istorice, de preferat a fi vizitată devreme pentru a evita aglomerația.",
-            "en": "Begin your cycling day exploring the tranquil aisles of this historic church, a cultural anchor, best visited early before the midday crowds arrive."
+            "en": "Begin your cycling day exploring the tranquil aisles of this historic church, a cultural anchor, best visited early before the midday crowds arrive.",
+            "fr": "Commencez votre journée à vélo en explorant les allées tranquilles de cette église historique, un point culturel important, à visiter de préférence tôt avant l’arrivée des foules de midi."
           }
         },
         {
@@ -337,7 +372,8 @@
             "de": "Strand von Roaliguen",
             "hu": "Roaliguen strand",
             "ro": "Plaja Roaliguen",
-            "en": "Roaliguen Beach"
+            "en": "Roaliguen Beach",
+            "fr": "Plage de Roaliguen"
           },
           "coords": [
             -2.768324,
@@ -352,7 +388,8 @@
             "de": "Radeln Sie zu diesem unberührten Sandstrand hinunter, um die atlantische Brise zu genießen, und schließen Sie Ihr Fahrrad an den Ständern gut ab.",
             "hu": "Kerekezzen le erre az érintetlen homokos strandra, hogy élvezze az óceáni szellőt, és zárja le biztonságosan a kerékpárját a kijelölt tárolóknál.",
             "ro": "Bicicliți până la această plajă cu nisip fin pentru a vă bucura de briza atlantică și asigurați-vă bicicleta la suporturile special amenajate.",
-            "en": "Cycle down to this pristine sandy beach to enjoy the refreshing Atlantic breeze, and lock your bike securely at the designated coastal racks."
+            "en": "Cycle down to this pristine sandy beach to enjoy the refreshing Atlantic breeze, and lock your bike securely at the designated coastal racks.",
+            "fr": "Pédalez jusqu’à cette plage de sable immaculé pour profiter de la brise rafraîchissante de l’Atlantique, et attachez soigneusement votre vélo aux supports côtiers prévus."
           }
         },
         {
@@ -360,7 +397,8 @@
             "de": "Strand Domaine des Grèves",
             "hu": "Domaine des Grèves strand",
             "ro": "Plaja Domaine des Grèves",
-            "en": "Domaine des Grèves Beach"
+            "en": "Domaine des Grèves Beach",
+            "fr": "Plage du Domaine des Grèves"
           },
           "coords": [
             -2.751753,
@@ -375,7 +413,8 @@
             "de": "Entdecken Sie diesen ruhigeren Küstenabschnitt, der perfekt für eine Pause ist, aber bringen Sie Ihr eigenes Wasser mit, da es hier wenig gibt.",
             "hu": "Fedezze fel ezt a csendesebb partszakaszt, amely tökéletes egy tengerparti szünetre, de hozzon magával vizet, mivel a kényelmi szolgáltatások ritkák.",
             "ro": "Descoperiți această porțiune de coastă mai liniștită, perfectă pentru o pauză, dar aduceți-vă propria apă, deoarece facilitățile sunt rare aici.",
-            "en": "Discover this quieter stretch of shoreline perfect for a peaceful coastal pause, but remember to bring your own water as amenities are scarce here."
+            "en": "Discover this quieter stretch of shoreline perfect for a peaceful coastal pause, but remember to bring your own water as amenities are scarce here.",
+            "fr": "Découvrez ce tronçon de rivage plus calme, idéal pour une pause côtière paisible ; n’oubliez pas d’emporter votre propre eau car les services sont rares ici."
           }
         },
         {
@@ -383,7 +422,8 @@
             "de": "Strand von Beg Lann",
             "hu": "Beg Lann strand",
             "ro": "Plaja Beg Lann",
-            "en": "Beg Lann Beach"
+            "en": "Beg Lann Beach",
+            "fr": "Plage de Beg Lann"
           },
           "coords": [
             -2.743409,
@@ -398,7 +438,8 @@
             "de": "Genießen Sie den weiten Meerblick von diesem beliebten Sandstrand aus und halten Sie die Augen nach interessanten Muscheln offen.",
             "hu": "Élvezze a tágas óceáni kilátást erről a helyiek által kedvelt homokos strandról, és tartsa nyitva a szemét az érdekes kagylóhéjakért.",
             "ro": "Bucurați-vă de priveliștile ample ale oceanului de pe această plajă de nisip, apreciată de localnici, și căutați scoici interesante pe mal.",
-            "en": "Enjoy the sweeping ocean views from this recreational sandy spot, a favorite among locals, and keep an eye out for interesting seashells."
+            "en": "Enjoy the sweeping ocean views from this recreational sandy spot, a favorite among locals, and keep an eye out for interesting seashells.",
+            "fr": "Profitez des vastes vues sur l’océan depuis cet endroit sablonneux récréatif, prisé des locaux, et soyez attentif aux coquillages intéressants."
           }
         },
         {
@@ -406,7 +447,8 @@
             "de": "Schloss Suscinio",
             "hu": "Suscinio kastély",
             "ro": "Castelul Suscinio",
-            "en": "Château de Suscinio"
+            "en": "Château de Suscinio",
+            "fr": "Château de Suscinio"
           },
           "coords": [
             -2.729444,
@@ -421,7 +463,8 @@
             "de": "Bewundern Sie diese majestätische mittelalterliche Festung inmitten von Sümpfen und buchen Sie Ihr Ticket online, um die Warteschlangen zu umgehen.",
             "hu": "Csodálja meg ezt a mocsarakkal körülvett fenséges középkori erődöt, amely igazi történelmi gyöngyszem, és foglalja le jegyét online a soron kívüli bejutáshoz.",
             "ro": "Admirați această fortăreață medievală maiestuoasă înconjurată de mlaștini și rezervați-vă biletul online pentru a sări peste cozile de la intrare.",
-            "en": "Marvel at this majestic medieval fortress surrounded by marshes, a true historical gem, and book your entrance ticket online to skip the lines."
+            "en": "Marvel at this majestic medieval fortress surrounded by marshes, a true historical gem, and book your entrance ticket online to skip the lines.",
+            "fr": "Admirez cette majestueuse forteresse médiévale entourée de marais, un véritable joyau historique ; réservez votre billet d’entrée en ligne pour éviter la file d’attente."
           }
         },
         {
@@ -429,7 +472,8 @@
             "de": "Strand von Suscinio",
             "hu": "Suscinio strand",
             "ro": "Plaja Suscinio",
-            "en": "Suscinio Beach"
+            "en": "Suscinio Beach",
+            "fr": "Plage de Suscinio"
           },
           "coords": [
             -2.728688,
@@ -444,7 +488,8 @@
             "de": "Entspannen Sie sich am Strand direkt neben dem Schloss mit historischer Kulisse und bleiben Sie bis zu den atemberaubenden späten Nachmittagsfarben.",
             "hu": "Pihenjen meg a kastély melletti lenyűgöző strandon, amely tökéletes történelmi hátteret kínál, és maradjon a lélegzetelállító késő délutáni színekig.",
             "ro": "Relaxați-vă pe plaja superbă de lângă castel, care oferă un fundal istoric perfect, și rămâneți pentru culorile uluitoare ale după-amiezii târzii.",
-            "en": "Relax on the stunning beach right next to the castle, offering a perfect historical backdrop, and stay for the breathtaking late afternoon colors."
+            "en": "Relax on the stunning beach right next to the castle, offering a perfect historical backdrop, and stay for the breathtaking late afternoon colors.",
+            "fr": "Détendez-vous sur la superbe plage jouxtant le château, offrant un cadre historique parfait ; restez pour les magnifiques couleurs de fin d’après-midi."
           }
         }
       ],
@@ -452,7 +497,8 @@
         "de": "Starten Sie Ihr Radabenteuer im Herzen von Sarzeau, bevor Sie in Richtung Süden ans Meer fahren.\n\nBis zum Mittag radeln Sie auf wunderschönen Küstenwegen von einem unberührten Strand zum nächsten.\n\nAm Nachmittag erwartet Sie das majestätische Château de Suscinio, das Geschichte und Natur verbindet.\n\nBeenden Sie Ihre Fahrt am angrenzenden Strand, während die Farben über der Festung wechseln.",
         "hu": "Kezdje kerékpáros kalandját Sarzeau szívében, mielőtt dél felé, az óceán felé pedálozna.\n\nDélre már gyönyörű parti ösvényeken cirkálhat, egyik érintetlen strandról a másikra ugrálva.\n\nA délután fénypontja a fenséges Suscinio kastély, amely a breton történelmet a természettel ötvözi.\n\nFejezze be túráját a szomszédos strandon, figyelve az ősi erőd felett változó színeket.",
         "ro": "Începeți aventura pe bicicletă în inima orașului Sarzeau, înainte de a pedala spre sud, spre ocean.\n\nPână la prânz, veți merge pe poteci de coastă superbe, sărind de la o plajă la alta.\n\nDupă-amiaza evidențiază magnificul Château de Suscinio, îmbinând istoria bretonă cu natura.\n\nÎncheiați plimbarea pe plaja adiacentă, urmărind cum se schimbă culorile deasupra cetății antice.",
-        "en": "Kick off your cycling adventure in the heart of Sarzeau before pedaling south towards the ocean.\n\nBy midday, you'll be cruising along beautiful coastal paths, hopping from one pristine beach to another.\n\nThe afternoon highlights the magnificent Château de Suscinio, blending rich Breton history with nature.\n\nEnd your ride on the adjacent beach, watching the colors shift over the ancient fortress."
+        "en": "Kick off your cycling adventure in the heart of Sarzeau before pedaling south towards the ocean.\n\nBy midday, you'll be cruising along beautiful coastal paths, hopping from one pristine beach to another.\n\nThe afternoon highlights the magnificent Château de Suscinio, blending rich Breton history with nature.\n\nEnd your ride on the adjacent beach, watching the colors shift over the ancient fortress.",
+        "fr": "Lancez votre aventure à vélo au cœur de Sarzeau avant de pédaler vers le sud en direction de l’océan.\n\nÀ midi, vous longerez de beaux sentiers côtiers, passant d’une plage immaculée à l’autre.\n\nL’après-midi met en valeur le magnifique Château de Suscinio, qui marie riche histoire bretonne et nature.\n\nTerminez votre sortie sur la plage attenante, en admirant les couleurs changer au-dessus de l’ancienne forteresse."
       },
       "variants": {
         "rainy": {
@@ -460,7 +506,8 @@
             "de": "Ein feuchter Start in den Tag verlangt nach guter Ausrüstung auf dem Rad. Mittags bietet der Strand von Roaliguen eine wilde, regnerische Kulisse. Am Nachmittag ist das Schloss Suscinio das perfekte Ziel, um im Trockenen Geschichte zu erleben. Der Abend kehrt nass, aber erfüllt zurück, während die Lichter von Sarzeau den Rückweg durch den Regen weisen.",
             "hu": "A párás reggel komoly felszerelést igényel a kerékpáron. Délben a Roaliguen strand vad, esős panorámát nyújt a pihenőhöz. Délután a Suscinio kastély a legjobb célpont, ahol a falak között szárazon barangolhat a történelemben. Az este esősen, de élményekkel telve ér véget, ahogy Sarzeau fényei jelzik a visszautat.",
             "ro": "O dimineață umedă necesită echipament bun pe bicicletă. La prânz, plaja Roaliguen oferă un decor sălbatic și ploios. După-amiaza, Castelul Suscinio este destinația perfectă pentru a descoperi istoria la adăpost. Seara se încheie cu ploaie, dar plină de amintiri, în timp ce luminile orașului ghidează drumul de întoarcere.",
-            "en": "A damp start to the day calls for waterproof gear on your bike. At noon, Roaliguen Beach offers a wild, rainy backdrop for a quick break. In the afternoon, the Château de Suscinio is the perfect refuge to explore history while staying dry. The evening returns wet but rewarding, with the lights of Sarzeau guiding your way through the drizzle."
+            "en": "A damp start to the day calls for waterproof gear on your bike. At noon, Roaliguen Beach offers a wild, rainy backdrop for a quick break. In the afternoon, the Château de Suscinio is the perfect refuge to explore history while staying dry. The evening returns wet but rewarding, with the lights of Sarzeau guiding your way through the drizzle.",
+            "fr": "Un départ humide exige un équipement imperméable à vélo. À midi, la plage de Roaliguen offre un décor agité et pluvieux pour une pause rapide. L’après-midi, le Château de Suscinio est le refuge idéal pour explorer l’histoire à l’abri. La soirée revient humide mais gratifiante, les lumières de Sarzeau guidant votre route à travers la bruine."
           },
           "stops": [
             {
@@ -468,13 +515,15 @@
                 "de": "Kirche Saint-Saturnin",
                 "hu": "Szent Szaturninusz-templom",
                 "ro": "Biserica Saint-Saturnin",
-                "en": "Saint-Saturnin Church"
+                "en": "Saint-Saturnin Church",
+                "fr": "Église Saint-Saturnin"
               },
               "tip_5lang": {
                 "de": "Ein trockener Startpunkt; prüfen Sie Ihre Bremsen, bevor Sie die Fahrt auf den nassen Straßen fortsetzen, da der Bremsweg sich verlängert.",
                 "hu": "Száraz kezdőpont a túrához; ellenőrizze a fékeket, mielőtt továbbindul a vizes úton, mivel a féktávolság ilyenkor jelentősen megnő.",
                 "ro": "Un punct de plecare uscat; verificați frânele înainte de a continua drumul pe asfaltul ud, deoarece distanța de frânare crește.",
-                "en": "A dry starting point for your ride; check your brakes before continuing on wet roads, as stopping distances increase significantly in the rain."
+                "en": "A dry starting point for your ride; check your brakes before continuing on wet roads, as stopping distances increase significantly in the rain.",
+                "fr": "Point de départ au sec pour votre sortie ; vérifiez vos freins avant de poursuivre sur des routes mouillées, car les distances de freinage augmentent sensiblement sous la pluie."
               }
             },
             {
@@ -482,13 +531,15 @@
                 "de": "Strand von Roaliguen",
                 "hu": "Roaliguen strand",
                 "ro": "Plaja Roaliguen",
-                "en": "Roaliguen Beach"
+                "en": "Roaliguen Beach",
+                "fr": "Plage de Roaliguen"
               },
               "tip_5lang": {
                 "de": "Genießen Sie die frische Meeresbrise; parken Sie das Rad auf festem Untergrund, um ein Versinken im aufgeweichten Boden zu vermeiden.",
                 "hu": "Élvezze a friss tengeri szellőt; a kerékpárt szilárd talajon parkolja le, hogy ne süllyedjen el a felázott, homokos talajban a pihenő alatt.",
                 "ro": "Bucurați-vă de briza mării; parcați bicicleta pe teren solid pentru a evita scufundarea în solul înmuiat de ploaia persistentă.",
-                "en": "Enjoy the fresh sea breeze; park your bike on firm ground to prevent it from sinking into the rain-softened sandy soil during your break."
+                "en": "Enjoy the fresh sea breeze; park your bike on firm ground to prevent it from sinking into the rain-softened sandy soil during your break.",
+                "fr": "Profitez de la brise marine fraîche ; garez votre vélo sur un sol ferme pour éviter qu’il ne s’enfonce dans le sable ramolli par la pluie pendant votre pause."
               }
             },
             {
@@ -496,13 +547,15 @@
                 "de": "Strand Domaine des Grèves",
                 "hu": "Domaine des Grèves strand",
                 "ro": "Plaja Domaine des Grèves",
-                "en": "Domaine des Grèves Beach"
+                "en": "Domaine des Grèves Beach",
+                "fr": "Domaine des Grèves Beach"
               },
               "tip_5lang": {
                 "de": "Ein kurzer Stopp für ein Foto der dramatischen Wolken; tragen Sie eine Schutzbrille, damit der Regen Ihre Sicht beim Fahren nicht behindert.",
                 "hu": "Rövid megálló a drámai felhők fotózásához; viseljen biciklis szemüveget, hogy az eső ne zavarja a látást a part menti szakaszon.",
                 "ro": "O scurtă oprire pentru fotografii cu norii dramatici; purtați ochelari de protecție pentru ca ploaia să nu vă afecteze vizibilitatea.",
-                "en": "A quick stop for a photo of the dramatic storm clouds; wear cycling glasses to keep the rain out of your eyes while riding along the coast."
+                "en": "A quick stop for a photo of the dramatic storm clouds; wear cycling glasses to keep the rain out of your eyes while riding along the coast.",
+                "fr": "Un arrêt rapide pour une photo des nuages d'orage dramatiques ; portez des lunettes de cyclisme pour empêcher la pluie d'entrer dans vos yeux en roulant le long de la côte."
               }
             },
             {
@@ -510,13 +563,15 @@
                 "de": "Strand von Beg Lann",
                 "hu": "Beg Lann strand",
                 "ro": "Plaja Beg Lann",
-                "en": "Beg Lann Beach"
+                "en": "Beg Lann Beach",
+                "fr": "Beg Lann Beach"
               },
               "tip_5lang": {
                 "de": "Beobachten Sie die Wellen unter dem grauen Himmel; achten Sie auf Pfützen, die tiefe Schlaglöcher im Küstenweg verbergen könnten.",
                 "hu": "Figyelje a hullámokat a szürke ég alatt; kerülje a nagyobb pocsolyákat, mert mély kátyúkat rejthetnek a part menti kerékpárúton.",
                 "ro": "Observați valurile sub cerul gri; evitați bălțile mari deoarece pot ascunde gropi adânci pe drumul de coastă neasfaltat.",
-                "en": "Watch the waves crashing under the grey sky; avoid large puddles as they might hide deep potholes on the coastal cycling path."
+                "en": "Watch the waves crashing under the grey sky; avoid large puddles as they might hide deep potholes on the coastal cycling path.",
+                "fr": "Admirez les vagues s'écrasant sous le ciel gris ; évitez les grandes flaques qui peuvent cacher des nids-de-poule profonds sur la piste cyclable côtière."
               }
             },
             {
@@ -524,13 +579,15 @@
                 "de": "Schloss Suscinio",
                 "hu": "Suscinio kastély",
                 "ro": "Castelul Suscinio",
-                "en": "Château de Suscinio"
+                "en": "Château de Suscinio",
+                "fr": "Château de Suscinio"
               },
               "tip_5lang": {
                 "de": "Die ideale Rettung vor dem Regen; nutzen Sie die Schließfächer, um nasse Kleidung abzulegen und das Schlossinnere trocken zu erkunden.",
                 "hu": "Tökéletes menekülés az eső elől; használja a csomagmegőrzőt a vizes ruhák letételére, és fedezze fel szárazon a kastély termeit.",
                 "ro": "Refugiul ideal împotriva ploii; folosiți dulapurile pentru a lăsa hainele ude și explorați interiorul castelului la căldură și uscat.",
-                "en": "The perfect escape from the rain; use the lockers to store your wet gear and explore the impressive castle interior in total comfort."
+                "en": "The perfect escape from the rain; use the lockers to store your wet gear and explore the impressive castle interior in total comfort.",
+                "fr": "La parfaite échappée à l'abri de la pluie ; utilisez les consignes pour ranger votre équipement humide et explorez l'intérieur impressionnant du château en tout confort."
               }
             },
             {
@@ -538,13 +595,15 @@
                 "de": "Strand von Suscinio",
                 "hu": "Suscinio strand",
                 "ro": "Plaja Suscinio",
-                "en": "Suscinio Beach"
+                "en": "Suscinio Beach",
+                "fr": "Suscinio Beach"
               },
               "tip_5lang": {
                 "de": "Ein letzter Blick auf das Meer; wischen Sie den Sattel vor der Rückfahrt gut ab, um trotz Nässe komfortabel nach Hause zu radeln.",
                 "hu": "Egy utolsó pillantás a tengerre; törölje szárazra a nyerget a visszaindulás előtt, hogy a vizes út ellenére is kényelmes legyen a tekerés.",
                 "ro": "O ultimă privire spre mare; ștergeți bine șaua înainte de plecare pentru a pedala confortabil spre casă în ciuda vremii umede.",
-                "en": "A final look at the sea; wipe down your saddle before the return journey to stay as comfortable as possible during the wet ride back."
+                "en": "A final look at the sea; wipe down your saddle before the return journey to stay as comfortable as possible during the wet ride back.",
+                "fr": "Un dernier regard sur la mer ; essuyez votre selle avant le retour pour rester le plus confortable possible pendant le trajet humide de retour."
               }
             }
           ]
@@ -554,7 +613,8 @@
             "de": "Die kalte Winterluft macht das Radfahren am Morgen besonders belebend. Mittags bieten die einsamen Strände weite Panoramablicke unter der tiefstehenden Sonne. Am Nachmittag strahlt das Schloss Suscinio eine stolze Ruhe aus, bevor das Licht schwindet. Die Tour endet pünktlich zum Sonnenuntergang um 17:00 Uhr, wenn die Kälte spürbar zunimmt.",
             "hu": "A hideg téli levegő különösen élénkítővé teszi a reggeli tekerést. Délben az elhagyatott strandok tágas panorámát nyújtanak az alacsony napfényben. Délután a Suscinio kastély büszke nyugalmat áraszt a sötétedés előtt. A túra pontosan a 17:00-s naplementére ér véget, amikor a hideg hirtelen felerősödik.",
             "ro": "Aerul rece de iarnă face pedalatul de dimineață foarte revigorant. La prânz, plajele pustii oferă panorame vaste sub soarele palid. După-amiaza, Castelul Suscinio emană o liniște mândră înainte ca lumina să dispară. Turul se încheie exact la apusul de la ora 17:00, când frigul devine mult mai pătrunzător.",
-            "en": "The cold winter air makes the morning ride feel incredibly invigorating. At noon, the deserted beaches offer wide, sweeping panoramas under the low sun. In the afternoon, the Château de Suscinio radiates a proud, silent calm before the light fades. Your tour ends right as the sun sets at 17:00, just as the evening frost begins to set in."
+            "en": "The cold winter air makes the morning ride feel incredibly invigorating. At noon, the deserted beaches offer wide, sweeping panoramas under the low sun. In the afternoon, the Château de Suscinio radiates a proud, silent calm before the light fades. Your tour ends right as the sun sets at 17:00, just as the evening frost begins to set in.",
+            "fr": "L'air froid de l'hiver rend la balade matinale incroyablement vivifiante. À midi, les plages désertes offrent de larges panoramas sous le soleil bas. L'après-midi, le Château de Suscinio rayonne d'un calme fier et silencieux avant que la lumière ne décline. Votre circuit se termine au coucher du soleil à 17:00, juste au moment où le gel du soir commence."
           },
           "stops": [
             {
@@ -562,13 +622,15 @@
                 "de": "Kirche Saint-Saturnin",
                 "hu": "Szent Szaturninusz-templom",
                 "ro": "Biserica Saint-Saturnin",
-                "en": "Saint-Saturnin Church"
+                "en": "Saint-Saturnin Church",
+                "fr": "Église Saint-Saturnin"
               },
               "tip_5lang": {
                 "de": "Ein kultureller Start; tragen Sie winddichte Kleidung, da der Fahrtwind die winterlichen Temperaturen deutlich kälter wirken lässt.",
                 "hu": "Kulturális kezdés; viseljen szélálló ruházatot, mivel a menetszél miatt a téli hőmérsékletet sokkal hidegebbnek fogja érezni tekerés közben.",
                 "ro": "Un început cultural; purtați haine rezistente la vânt, deoarece curentul de aer va face temperaturile de iarnă să pară mult mai scăzute.",
-                "en": "A cultural start to your ride; dress in windproof layers as the wind chill while cycling makes winter temperatures feel much colder."
+                "en": "A cultural start to your ride; dress in windproof layers as the wind chill while cycling makes winter temperatures feel much colder.",
+                "fr": "Un départ culturel pour votre balade ; habillez-vous en couches coupe-vent car le refroidissement éolien à vélo fait paraître les températures hivernales bien plus froides."
               }
             },
             {
@@ -576,13 +638,15 @@
                 "de": "Strand von Roaliguen",
                 "hu": "Roaliguen strand",
                 "ro": "Plaja Roaliguen",
-                "en": "Roaliguen Beach"
+                "en": "Roaliguen Beach",
+                "fr": "Plage de Roaliguen"
               },
               "tip_5lang": {
                 "de": "Gönnen Sie sich eine kurze Pause in der Wintersonne; halten Sie Ihre Füße warm, da die feuchte Meeresluft schnell auskühlt.",
                 "hu": "Tartson egy rövid szünetet a téli napsütésben; figyeljen a lábak melegen tartására, mert a nyirkos tengeri levegőben gyorsan áthűlhetnek.",
                 "ro": "Luați o scurtă pauză la soarele de iarnă; mențineți-vă picioarele calde, deoarece aerul umed de mare vă poate răci rapid extremitățile.",
-                "en": "Take a short break in the winter sun; keep your feet warm as the damp sea air can lead to a rapid chill during stationary breaks."
+                "en": "Take a short break in the winter sun; keep your feet warm as the damp sea air can lead to a rapid chill during stationary breaks.",
+                "fr": "Faites une courte pause au soleil d'hiver ; gardez les pieds au chaud car l'air humide de la mer peut provoquer un refroidissement rapide pendant les arrêts immobiles."
               }
             },
             {
@@ -590,13 +654,15 @@
                 "de": "Strand Domaine des Grèves",
                 "hu": "Domaine des Grèves strand",
                 "ro": "Plaja Domaine des Grèves",
-                "en": "Domaine des Grèves Beach"
+                "en": "Domaine des Grèves Beach",
+                "fr": "Domaine des Grèves Beach"
               },
               "tip_5lang": {
                 "de": "Bewundern Sie das glitzernde Wasser; achten Sie auf gefrorene Pfützen auf den Wegen, die besonders in Schattenlagen tückisch sein können.",
                 "hu": "Csodálja meg a csillogó vizet; ügyeljen a befagyott tócsákra az úton, amik az árnyékos részeken váratlanul csúszósak lehetnek.",
                 "ro": "Admirați apa sclipitoare; atenție la bălțile înghețate de pe poteci, care pot fi foarte înșelătoare în zonele umbrite ale drumului.",
-                "en": "Admire the sparkling winter waters; watch out for frozen patches on the path, which can be treacherous in shaded coastal areas."
+                "en": "Admire the sparkling winter waters; watch out for frozen patches on the path, which can be treacherous in shaded coastal areas.",
+                "fr": "Admirez les eaux hivernales scintillantes ; méfiez-vous des plaques de gel sur le chemin, qui peuvent être traîtres dans les zones côtières ombragées."
               }
             },
             {
@@ -604,13 +670,15 @@
                 "de": "Strand von Beg Lann",
                 "hu": "Beg Lann strand",
                 "ro": "Plaja Beg Lann",
-                "en": "Beg Lann Beach"
+                "en": "Beg Lann Beach",
+                "fr": "Beg Lann Beach"
               },
               "tip_5lang": {
                 "de": "Ein einsamer Ort für Reflexion; tragen Sie ein Stirnband unter dem Helm, um Ihre Ohren vor dem beißenden Küstenwind zu schützen.",
                 "hu": "Magányos hely az elmélyüléshez; viseljen fejpántot a sisak alatt, hogy megvédje füleit a metsző tengerparti széltől tekerés közben.",
                 "ro": "Un loc solitar pentru reflecție; purtați o bentiță sub cască pentru a vă proteja urechile de vântul tăios de coastă în timpul mersului.",
-                "en": "A solitary spot for reflection; wear a thermal headband under your helmet to protect your ears from the biting winter sea winds."
+                "en": "A solitary spot for reflection; wear a thermal headband under your helmet to protect your ears from the biting winter sea winds.",
+                "fr": "Un endroit solitaire pour la réflexion ; portez un bandeau thermique sous votre casque pour protéger vos oreilles des vents marins froids et mordants."
               }
             },
             {
@@ -618,13 +686,15 @@
                 "de": "Schloss Suscinio",
                 "hu": "Suscinio kastély",
                 "ro": "Castelul Suscinio",
-                "en": "Château de Suscinio"
+                "en": "Château de Suscinio",
+                "fr": "Château de Suscinio"
               },
               "tip_5lang": {
                 "de": "Besuchen Sie die Ausstellungen im Inneren; die historische Kulisse wirkt im fahlen Winterlicht besonders imposant und majestätisch.",
                 "hu": "Látogassa meg a belső kiállításokat; a történelmi háttér a sápadt téli fényben különösen impozáns és fenséges látványt nyújt.",
                 "ro": "Vizitați expozițiile din interior; cadrul istoric pare deosebit de impunător și maiestuos în lumina palidă a soarelui de iarnă.",
-                "en": "Visit the indoor exhibitions; the historic castle remains appear especially imposing and majestic in the soft winter sunlight."
+                "en": "Visit the indoor exhibitions; the historic castle remains appear especially imposing and majestic in the soft winter sunlight.",
+                "fr": "Visitez les expositions intérieures ; l'ensemble du domaine médiéval paraît particulièrement imposant et majestueux sous la douce lumière hivernale."
               }
             },
             {
@@ -632,13 +702,15 @@
                 "de": "Strand von Suscinio",
                 "hu": "Suscinio strand",
                 "ro": "Plaja Suscinio",
-                "en": "Suscinio Beach"
+                "en": "Suscinio Beach",
+                "fr": "Suscinio Beach"
               },
               "tip_5lang": {
                 "de": "Beenden Sie die Tour vor dem Dunkelwerden; nutzen Sie die letzte Stunde Tageslicht für den Rückweg, bevor es um 17:00 Uhr finster wird.",
                 "hu": "Fejezze be a túrát sötétedés előtt; használja ki az utolsó világos órát a visszautútra, mielőtt 17:00-kor teljesen besötétedik.",
                 "ro": "Încheiați turul înainte de lăsarea întunericului; profitați de ultima oră de lumină pentru drumul de întoarcere înainte de ora 17:00.",
-                "en": "Finish your tour before dark; make sure to use the final hour of daylight for your return trip before total darkness sets in at 17:00."
+                "en": "Finish your tour before dark; make sure to use the final hour of daylight for your return trip before total darkness sets in at 17:00.",
+                "fr": "Terminez votre circuit avant la nuit ; assurez-vous d'utiliser la dernière heure de lumière pour votre retour avant que l'obscurité totale ne tombe à 17:00."
               }
             }
           ]
@@ -658,7 +730,8 @@
             "de": "Kirche Saint-Saturnin",
             "hu": "Szent Szaturninusz-templom",
             "ro": "Biserica Saint-Saturnin",
-            "en": "Saint-Saturnin Church"
+            "en": "Saint-Saturnin Church",
+            "fr": "Église Saint-Saturnin"
           },
           "coords": [
             -2.768384,
@@ -673,7 +746,8 @@
             "de": "Beginnen Sie mit der ruhigen Atmosphäre dieser lokalen Kirche, um Sarzeaus Wurzeln zu schätzen, und nutzen Sie die kostenlosen Parkplätze direkt davor.",
             "hu": "Kezdje ennek a helyi templomnak a derűs hangulatával, hogy megismerje Sarzeau gyökereit, kihasználva a közvetlenül a bejárat előtti ingyenes parkolókat.",
             "ro": "Începeți cu ambianța senină a acestei biserici pentru a aprecia rădăcinile orașului Sarzeau, folosind locurile de parcare gratuite disponibile chiar afară.",
-            "en": "Start with the serene ambiance of this local church to appreciate Sarzeau's roots, utilizing the free parking spaces available just outside."
+            "en": "Start with the serene ambiance of this local church to appreciate Sarzeau's roots, utilizing the free parking spaces available just outside.",
+            "fr": "Commencez par l'ambiance sereine de cette église locale pour apprécier les racines de Sarzeau, en utilisant les places de parking gratuites disponibles juste à l'extérieur."
           }
         },
         {
@@ -681,7 +755,8 @@
             "de": "Schloss Suscinio",
             "hu": "Suscinio kastély",
             "ro": "Castelul Suscinio",
-            "en": "Château de Suscinio"
+            "en": "Château de Suscinio",
+            "fr": "Château de Suscinio"
           },
           "coords": [
             -2.729444,
@@ -696,7 +771,8 @@
             "de": "Erkunden Sie die großen Hallen dieser beeindruckenden bretonischen Festung und tragen Sie bequeme Schuhe, um die steinernen Türme zu besteigen.",
             "hu": "Fedezze fel ennek a lenyűgöző breton erődnek a nagytermeit, és viseljen kényelmes cipőt a kőtornyok megmászásához.",
             "ro": "Explorați sălile grandioase ale acestei impresionante fortărețe bretone și purtați încălțăminte confortabilă pentru a urca în turnurile sale de piatră.",
-            "en": "Explore the grand halls of this impressive Breton fortress, once a ducal residence, and wear comfortable shoes for climbing its stone towers."
+            "en": "Explore the grand halls of this impressive Breton fortress, once a ducal residence, and wear comfortable shoes for climbing its stone towers.",
+            "fr": "Explorez les grandes salles de cette impressionnante forteresse bretonne, ancienne résidence ducale, et portez des chaussures confortables pour monter dans ses tours de pierre."
           }
         },
         {
@@ -704,7 +780,8 @@
             "de": "Strand von Suscinio",
             "hu": "Suscinio strand",
             "ro": "Plaja Suscinio",
-            "en": "Suscinio Beach"
+            "en": "Suscinio Beach",
+            "fr": "Suscinio Beach"
           },
           "coords": [
             -2.728688,
@@ -719,7 +796,8 @@
             "de": "Gehen Sie vom Schloss hinunter zu diesem weitläufigen Naturstrand für eine erfrischende Pause und bringen Sie eine Windjacke für den Komfort mit.",
             "hu": "Sétáljon le a kastélytól ehhez a hatalmas természetes strandhoz egy frissítő szünetre, és hozzon magával széldzsekit a kényelem érdekében.",
             "ro": "Coborâți de la castel spre această plajă naturală vastă pentru o pauză răcoritoare și aduceți o jachetă de vânt pentru a sta confortabil pe mal.",
-            "en": "Walk down from the castle to this expansive natural beach for a refreshing break, and bring a windbreaker to stay comfortable by the water."
+            "en": "Walk down from the castle to this expansive natural beach for a refreshing break, and bring a windbreaker to stay comfortable by the water.",
+            "fr": "Descendez du château jusqu'à cette vaste plage naturelle pour une pause revigorante, et apportez un coupe-vent pour rester à l'aise au bord de l'eau."
           }
         },
         {
@@ -727,7 +805,8 @@
             "de": "Kapelle Notre-Dame-de-la-Côte",
             "hu": "Notre-Dame-de-la-Côte kápolna",
             "ro": "Capela Notre-Dame-de-la-Côte",
-            "en": "Notre-Dame-de-la-Côte Chapel"
+            "en": "Notre-Dame-de-la-Côte Chapel",
+            "fr": "Chapelle Notre-Dame-de-la-Côte"
           },
           "coords": [
             -2.680995,
@@ -742,7 +821,8 @@
             "de": "Fahren Sie zu dieser malerischen Küstenkapelle mit Blick auf den Ozean und nehmen Sie sich einen Moment Zeit für den Panoramablick vom Gelände aus.",
             "hu": "Vezessen el ehhez az óceánra néző festői tengerparti kápolnához, amely egy igazi lelki menedék, és élvezze a panorámát a területéről.",
             "ro": "Conduceți către această pitorească capelă de coastă cu vedere la ocean și luați-vă un moment pentru a vă bucura de vederile panoramice de pe domeniu.",
-            "en": "Drive to this picturesque coastal chapel overlooking the ocean, a spiritual haven, and take a moment to enjoy the panoramic views from its grounds."
+            "en": "Drive to this picturesque coastal chapel overlooking the ocean, a spiritual haven, and take a moment to enjoy the panoramic views from its grounds.",
+            "fr": "Conduisez jusqu'à cette pittoresque chapelle côtière surplombant l'océan, havre spirituel, et prenez un moment pour profiter des vues panoramiques depuis son terrain."
           }
         },
         {
@@ -750,7 +830,8 @@
             "de": "Strand von Penvins",
             "hu": "Penvins strand",
             "ro": "Plaja Penvins",
-            "en": "Penvins Beach"
+            "en": "Penvins Beach",
+            "fr": "Plage de Penvins"
           },
           "coords": [
             -2.688912,
@@ -765,7 +846,8 @@
             "de": "Beenden Sie Ihren Roadtrip an diesem weiten, windigen Strand, der für Drachensteigen bekannt ist, und holen Sie sich ein warmes Getränk für den Sonnenuntergang.",
             "hu": "Fejezze be autós túráját ezen a hatalmas, sárkányeregetésről ismert szeles strandon, és vegyen egy meleg italt a közeli kávézóban a naplementéhez.",
             "ro": "Încheiați excursia pe această plajă vastă, cunoscută pentru zmeie, și luați o băutură caldă de la o cafenea din apropiere pentru a savura apusul.",
-            "en": "End your road trip at this vast and windy beach known for kite flying, and grab a warm drink from a nearby coastal café to enjoy the sunset."
+            "en": "End your road trip at this vast and windy beach known for kite flying, and grab a warm drink from a nearby coastal café to enjoy the sunset.",
+            "fr": "Terminez votre road-trip sur cette plage vaste et venteuse, connue pour le kite-surf ; prenez un breuvage chaud dans un café côtier à proximité pour apprécier le coucher du soleil."
           }
         }
       ],
@@ -773,7 +855,8 @@
         "de": "Ihre Autotour beginnt im Stadtzentrum, bevor es direkt zum Kronjuwel der Region geht, dem Château de Suscinio.\n\nDer Mittag bietet eine Mischung aus mittelalterlicher Erkundung und Spaziergängen am weitläufigen Strand.\n\nFahren Sie am Nachmittag weiter die Küste entlang zu einer charmanten Kapelle am Meer.\n\nBeenden Sie Ihre Reise am Penvins Beach mit seiner dramatischen Küstenlandschaft.",
         "hu": "Autós túrája a városközpontban kezdődik, majd egyenesen a régió ékkövéhez, a Suscinio kastélyhoz vezet.\n\nA dél a középkori felfedezés és a közeli tágas strandon tett pihentető séták tökéletes keverékét kínálja.\n\nDélután vezessen tovább a part mentén egy hangulatos tengerparti kápolnához.\n\nFejezze be utazását a Penvins strandon, befogadva a drámai parti szeleket és kilátást.",
         "ro": "Turul cu mașina începe în centrul orașului înainte de a vă îndrepta direct către bijuteria regiunii, Château de Suscinio.\n\nPrânzul oferă un mix de explorare medievală și plimbări relaxante pe plaja vastă din apropiere.\n\nDupă-amiaza, conduceți mai departe de-a lungul coastei pentru a descoperi o capelă fermecătoare pe malul mării.\n\nÎncheiați călătoria la plaja Penvins, bucurându-vă de vânturile de coastă.",
-        "en": "Your driving tour begins in the town center before heading straight to the region's crown jewel, the Château de Suscinio.\n\nMidday offers a perfect mix of medieval exploration and relaxing strolls on the nearby expansive beach.\n\nIn the afternoon, drive further along the coast to discover a charming seaside chapel.\n\nWrap up your journey at Penvins Beach, taking in the dramatic coastal winds."
+        "en": "Your driving tour begins in the town center before heading straight to the region's crown jewel, the Château de Suscinio.\n\nMidday offers a perfect mix of medieval exploration and relaxing strolls on the nearby expansive beach.\n\nIn the afternoon, drive further along the coast to discover a charming seaside chapel.\n\nWrap up your journey at Penvins Beach, taking in the dramatic coastal winds.",
+        "fr": "Votre circuit en voiture commence au centre-ville avant de vous diriger directement vers le joyau régional, le Château de Suscinio.\n\nLe milieu de journée offre un parfait mélange d'exploration médiévale et de promenades relaxantes sur la grande plage voisine.\n\nL'après-midi, conduisez plus loin le long de la côte pour découvrir une charmante chapelle en bord de mer.\n\nTerminez votre parcours à la plage de Penvins en profitant des vents côtiers dramatiques."
       },
       "variants": {
         "rainy": {
@@ -781,7 +864,8 @@
             "de": "Ein regnerischer Tag ist im Auto kein Problem, während Sie Sarzeau erkunden. Mittags bietet das Schloss Suscinio ein großartiges Indoor-Erlebnis abseits der Nässe. Am Nachmittag lassen sich die Kapellen und Küstenabschnitte bequem aus dem trockenen Fahrzeug bewundern. Der Abend endet entspannt bei einer Fahrt durch die beleuchteten, regennassen Straßen der Halbinsel.",
             "hu": "Az esős nap nem akadály, ha autóval fedezi fel Sarzeau környékét. Délben a Suscinio kastély nyújt grandiózus belső élményt, távol a külvilág nedvességétől. Délután a kápolnák és a tengerparti szakaszok kényelmesen, a száraz autóból is megcsodálhatóak. Az este nyugodtan telik, ahogy a kocsi kerekei halkan suhannak a vizes aszfalton.",
             "ro": "O zi ploioasă nu este o problemă atunci când explorați Sarzeau cu mașina. La prânz, Castelul Suscinio oferă o experiență interioară grandioasă, departe de umezeală. După-amiaza, capelele și coasta pot fi admirate confortabil din vehiculul uscat. Seara se încheie relaxat, cu o plimbare pe străzile luminate și ude ale peninsulei.",
-            "en": "A rainy day is no obstacle when exploring Sarzeau by car. At noon, the Château de Suscinio offers a grand indoor experience far from the wet weather. In the afternoon, the chapels and coastal vistas can be admired comfortably from the dry interior of your vehicle. The evening concludes with a relaxed drive through the brightly lit, rain-slicked streets."
+            "en": "A rainy day is no obstacle when exploring Sarzeau by car. At noon, the Château de Suscinio offers a grand indoor experience far from the wet weather. In the afternoon, the chapels and coastal vistas can be admired comfortably from the dry interior of your vehicle. The evening concludes with a relaxed drive through the brightly lit, rain-slicked streets.",
+            "fr": "Un jour de pluie n'est pas un obstacle pour explorer Sarzeau en voiture. À midi, le Château de Suscinio propose une vaste expérience intérieure loin du mauvais temps. L'après-midi, les chapelles et les panoramas côtiers peuvent être admirés confortablement depuis l'intérieur sec de votre véhicule. La soirée se conclut par une conduite détendue à travers des rues luisantes et éclairées par la pluie."
           },
           "stops": [
             {
@@ -789,13 +873,15 @@
                 "de": "Kirche Saint-Saturnin",
                 "hu": "Szent Szaturninusz-templom",
                 "ro": "Biserica Saint-Saturnin",
-                "en": "Saint-Saturnin Church"
+                "en": "Saint-Saturnin Church",
+                "fr": "Église Saint-Saturnin"
               },
               "tip_5lang": {
                 "de": "Parken Sie nah am Eingang; nutzen Sie den Regenschirm für den kurzen Weg zur Kirche, um die Ruhe im Inneren trocken zu genießen.",
                 "hu": "Parkoljon közvetlenül a bejárat közelében; használjon esernyőt a rövid sétához, hogy szárazon élvezhesse a templom belső nyugalmát.",
                 "ro": "Parcați aproape de intrare; folosiți umbrela pentru scurtul drum până la biserică, pentru a vă bucura de liniștea din interior la uscat.",
-                "en": "Park as close to the entrance as possible; use an umbrella for the short walk to the church to enjoy the peaceful interior while staying dry."
+                "en": "Park as close to the entrance as possible; use an umbrella for the short walk to the church to enjoy the peaceful interior while staying dry.",
+                "fr": "Garez-vous le plus près possible de l'entrée ; utilisez un parapluie pour la courte marche jusqu'à l'église et profitez de l'intérieur paisible tout en restant au sec."
               }
             },
             {
@@ -803,13 +889,15 @@
                 "de": "Schloss Suscinio",
                 "hu": "Suscinio kastély",
                 "ro": "Castelul Suscinio",
-                "en": "Château de Suscinio"
+                "en": "Château de Suscinio",
+                "fr": "Château de Suscinio"
               },
               "tip_5lang": {
                 "de": "Das Highlight für Regentage; die umfangreichen Ausstellungen in den Sälen lassen Sie das Wetter draußen komplett vergessen.",
                 "hu": "Az esős napok fénypontja; a termekben található gazdag kiállítások segítenek teljesen elfelejteni a kinti barátságtalan időjárást.",
                 "ro": "Punctul culminant pentru zilele ploioase; expozițiile extinse din sălile castelului vă vor face să uitați complet de vremea de afară.",
-                "en": "The highlight for a rainy day; the extensive indoor exhibits within the castle halls let you completely forget about the weather outside."
+                "en": "The highlight for a rainy day; the extensive indoor exhibits within the castle halls let you completely forget about the weather outside.",
+                "fr": "Le point fort d'une journée de pluie ; les vastes expositions intérieures des salles du château vous font complètement oublier le temps dehors."
               }
             },
             {
@@ -817,13 +905,15 @@
                 "de": "Strand von Suscinio",
                 "hu": "Suscinio strand",
                 "ro": "Plaja Suscinio",
-                "en": "Suscinio Beach"
+                "en": "Suscinio Beach",
+                "fr": "Suscinio Beach"
               },
               "tip_5lang": {
                 "de": "Beobachten Sie das Meer vom Parkplatz aus; der Regen auf der Windschutzscheibe verleiht dem Blick auf den Ozean eine filmreife Note.",
                 "hu": "Figyelje a tengert közvetlenül a parkolóból; a szélvédőn lecsorgó esőcseppek mögül az óceán látványa különleges, filmszerű élményt nyújt.",
                 "ro": "Observați marea direct din parcare; ploaia de pe parbriz oferă vederii asupra oceanului o notă dramatică, aproape cinematografică.",
-                "en": "Watch the sea directly from the parking lot; the rain on the windshield adds a cinematic feel to the view of the vast, stormy ocean waves."
+                "en": "Watch the sea directly from the parking lot; the rain on the windshield adds a cinematic feel to the view of the vast, stormy ocean waves.",
+                "fr": "Regardez la mer directement depuis le parking ; la pluie sur le pare-brise ajoute une dimension cinématographique à la vue des vagues océaniques orageuses."
               }
             },
             {
@@ -831,13 +921,15 @@
                 "de": "Kapelle Notre-Dame-de-la-Côte",
                 "hu": "Notre-Dame-de-la-Côte kápolna",
                 "ro": "Capela Notre-Dame-de-la-Côte",
-                "en": "Notre-Dame-de-la-Côte Chapel"
+                "en": "Notre-Dame-de-la-Côte Chapel",
+                "fr": "Chapelle Notre-Dame-de-la-Côte"
               },
               "tip_5lang": {
                 "de": "Ein kurzer, aber lohnenswerter Stopp; die Kapelle bietet einen perfekten Schutzraum, um den Regen draußen für einen Moment zu ignorieren.",
                 "hu": "Rövid, de megéri megállni; a kápolna tökéletes menedéket nyújt, ahol egy pillanatra teljesen figyelmen kívül hagyhatja a kinti zuhogó esőt.",
                 "ro": "O oprire scurtă dar care merită; capela oferă un adăpost perfect pentru a ignora pentru un moment ploaia torențială de afară.",
-                "en": "A short but worthwhile stop; the chapel provides a perfect sanctuary where you can pause and ignore the heavy rainfall for a moment."
+                "en": "A short but worthwhile stop; the chapel provides a perfect sanctuary where you can pause and ignore the heavy rainfall for a moment.",
+                "fr": "Un arrêt bref mais qui vaut le détour ; la chapelle offre un sanctuaire parfait où vous pouvez faire une pause et ignorer la pluie battante un instant."
               }
             },
             {
@@ -845,13 +937,15 @@
                 "de": "Strand von Penvins",
                 "hu": "Penvins strand",
                 "ro": "Plaja Penvins",
-                "en": "Penvins Beach"
+                "en": "Penvins Beach",
+                "fr": "Plage de Penvins"
               },
               "tip_5lang": {
                 "de": "Fahren Sie bis zum Ende der Landzunge; genießen Sie den 360-Grad-Blick auf den stürmischen Atlantik bequem aus Ihrem beheizten Auto.",
                 "hu": "Hajtson el a félsziget csücskéig; élvezze a 360 fokos panorámát a viharos Atlanti-óceánra kényelmesen, a fűtött autóból nézelődve.",
                 "ro": "Conduceți până la capătul promontoriului; bucurați-vă de panorama de 360 de grade asupra Atlanticului furtunos din mașina încălzită.",
-                "en": "Drive to the very tip of the point; enjoy the 360-degree panorama of the stormy Atlantic comfortably from within your heated car."
+                "en": "Drive to the very tip of the point; enjoy the 360-degree panorama of the stormy Atlantic comfortably from within your heated car.",
+                "fr": "Conduisez jusqu'à l'extrémité du promontoire ; profitez du panorama à 360 degrés de l'Atlantique déchaîné confortablement depuis votre voiture chauffée."
               }
             }
           ]
@@ -861,7 +955,8 @@
             "de": "Ein frostiger Morgen beginnt gemütlich im beheizten Wagen. Mittags erstrahlt das Schloss Suscinio im klaren, kalten Licht der Wintersonne. Am Nachmittag lassen sich die einsamen Küstenorte ohne den sommerlichen Trubel entdecken. Um 17:00 Uhr beginnt die Dämmerung, und die Rückfahrt bietet einen malerischen Blick auf den frühen winterlichen Sternenhimmel.",
             "hu": "A fagyos reggel kényelmesen, a fűtött autóban kezdődik. Délben a Suscinio kastély ragyog a téli nap tiszta, hideg fényében. Délután a kihalt tengerparti települések a nyári tömeg nélkül, teljes nyugalomban fedezhetőek fel. 17:00-kor már sötétedik, a hazaút pedig festői kilátást nyújt a korai téli csillagos égre.",
             "ro": "O dimineață geroasă începe confortabil în mașina încălzită. La prânz, Castelul Suscinio strălucește în lumina clară și rece a soarelui de iarnă. După-amiaza, satele de coastă pustii pot fi descoperite fără aglomerația verii. La ora 17:00 începe amurgul, iar drumul de întoarcere oferă o vedere pitorească a cerului înstelat.",
-            "en": "A frosty morning starts comfortably in your heated car. At noon, the Château de Suscinio shines in the clear, cold light of the winter sun. In the afternoon, the deserted coastal villages can be explored in total peace without the summer crowds. By 17:00, dusk begins, and the drive back offers a scenic view of the early winter stars."
+            "en": "A frosty morning starts comfortably in your heated car. At noon, the Château de Suscinio shines in the clear, cold light of the winter sun. In the afternoon, the deserted coastal villages can be explored in total peace without the summer crowds. By 17:00, dusk begins, and the drive back offers a scenic view of the early winter stars.",
+            "fr": "Une matinée glaciale commence confortablement dans votre voiture chauffée. À midi, le Château de Suscinio brille dans la lumière claire et froide du soleil d'hiver. L'après-midi, les villages côtiers désertés peuvent être explorés en toute quiétude, sans la foule estivale. À 17:00, le crépuscule commence et le retour offre une vue pittoresque des premières étoiles d'hiver."
           },
           "stops": [
             {
@@ -869,13 +964,15 @@
                 "de": "Kirche Saint-Saturnin",
                 "hu": "Szent Szaturninusz-templom",
                 "ro": "Biserica Saint-Saturnin",
-                "en": "Saint-Saturnin Church"
+                "en": "Saint-Saturnin Church",
+                "fr": "Église Saint-Saturnin"
               },
               "tip_5lang": {
                 "de": "Nutzen Sie die Parkplätze im Zentrum; die dicken Mauern der Kirche halten die Kälte draußen und bieten einen Moment der Stille.",
                 "hu": "Használja a központi parkolókat; a templom vastag falai kint tartják a metsző hideget, és tökéletes helyszínt biztosítanak a csendes pihenéshez.",
                 "ro": "Folosiți parcările centrale; zidurile groase ale bisericii țin frigul la distanță și oferă un moment de liniște binevenit.",
-                "en": "Use the central parking areas; the thick church walls keep the biting cold out and provide a perfect spot for a moment of quiet reflection."
+                "en": "Use the central parking areas; the thick church walls keep the biting cold out and provide a perfect spot for a moment of quiet reflection.",
+                "fr": "Utilisez les parkings centraux ; les épais murs de l'église retiennent le froid mordant et offrent un endroit parfait pour un moment de réflexion tranquille."
               }
             },
             {
@@ -883,13 +980,15 @@
                 "de": "Schloss Suscinio",
                 "hu": "Suscinio kastély",
                 "ro": "Castelul Suscinio",
-                "en": "Château de Suscinio"
+                "en": "Château de Suscinio",
+                "fr": "Château de Suscinio"
               },
               "tip_5lang": {
                 "de": "Besuchen Sie das Schloss am Vormittag; die tiefstehende Sonne wirft lange Schatten auf die Türme und sorgt für fantastische Fotomotive.",
                 "hu": "Látogassa meg a kastélyt délelőtt; az alacsonyan járó nap hosszú árnyékokat vet a tornyokra, ami fantasztikus fotótémát szolgáltat.",
                 "ro": "Vizitați castelul dimineața; soarele jos proiectează umbre lungi pe turnuri, creând oportunități fantastice pentru fotografii memorabile.",
-                "en": "Visit the castle in the morning; the low winter sun casts long, dramatic shadows on the towers, creating fantastic photo opportunities."
+                "en": "Visit the castle in the morning; the low winter sun casts long, dramatic shadows on the towers, creating fantastic photo opportunities.",
+                "fr": "Visitez le château le matin ; le bas soleil d'hiver projette de longues ombres dramatiques sur les tours, créant d'excellentes opportunités photo."
               }
             },
             {
@@ -897,13 +996,15 @@
                 "de": "Strand von Suscinio",
                 "hu": "Suscinio strand",
                 "ro": "Plaja Suscinio",
-                "en": "Suscinio Beach"
+                "en": "Suscinio Beach",
+                "fr": "Suscinio Beach"
               },
               "tip_5lang": {
                 "de": "Ein kurzer Gang zum Wasser; die salzige Winterluft ist sehr gesund, aber kehren Sie bald ins warme Auto zurück, um nicht auszukühlen.",
                 "hu": "Rövid séta a vízparton; a sós téli levegő nagyon egészséges, de térjen vissza hamar a fűtött autóba, mielőtt teljesen áthűlne.",
                 "ro": "O scurtă plimbare pe malul apei; aerul sărat de iarnă este foarte revigorant, dar reveniți repede la mașină pentru a nu îngheța.",
-                "en": "A brief stroll by the water; the salty winter air is very refreshing, but return to your warm car quickly to avoid catching a chill."
+                "en": "A brief stroll by the water; the salty winter air is very refreshing, but return to your warm car quickly to avoid catching a chill.",
+                "fr": "Une brève promenade au bord de l'eau ; l'air salé d'hiver est très vivifiant, mais retournez vite à votre voiture chaude pour éviter de prendre froid."
               }
             },
             {
@@ -911,13 +1012,15 @@
                 "de": "Kapelle Notre-Dame-de-la-Côte",
                 "hu": "Notre-Dame-de-la-Côte kápolna",
                 "ro": "Capela Notre-Dame-de-la-Côte",
-                "en": "Notre-Dame-de-la-Côte Chapel"
+                "en": "Notre-Dame-de-la-Côte Chapel",
+                "fr": "Chapelle Notre-Dame-de-la-Côte"
               },
               "tip_5lang": {
                 "de": "Genießen Sie den Blick auf die Küste; achten Sie beim Aussteigen auf überfrierende Nässe auf den exponierten Parkplätzen am Meer.",
                 "hu": "Élvezze a kilátást a partra; kiszálláskor ügyeljen a jegesedésre a tengerparti parkolókban, ahol a pára könnyen ráfagyhat az aszfaltra.",
                 "ro": "Bucurați-vă de vederea spre coastă; la coborâre, atenție la gheața din parcările expuse, unde umezeala poate îngheța rapid pe asfalt.",
-                "en": "Enjoy the coastal view; when exiting your car, watch for black ice in the exposed seaside parking lots where sea spray may freeze."
+                "en": "Enjoy the coastal view; when exiting your car, watch for black ice in the exposed seaside parking lots where sea spray may freeze.",
+                "fr": "Profitez de la vue côtière ; en sortant de votre voiture, faites attention au verglas noir sur les parkings exposés où les embruns peuvent geler."
               }
             },
             {
@@ -925,13 +1028,15 @@
                 "de": "Strand von Penvins",
                 "hu": "Penvins strand",
                 "ro": "Plaja Penvins",
-                "en": "Penvins Beach"
+                "en": "Penvins Beach",
+                "fr": "Plage de Penvins"
               },
               "tip_5lang": {
                 "de": "Erleben Sie die winterliche Weite; bringen Sie Decken mit ins Auto, um den frühen Sonnenuntergang um 17:00 Uhr gemütlich zu beobachten.",
                 "hu": "Tapasztalja meg a téli tágasságot; vigyen takarót az autóba, hogy a 17:00-s korai naplementét kényelmesen, a kocsiban ülve nézhesse végig.",
                 "ro": "Experimentați vastitatea iernii; aduceți pături în mașină pentru a urmări apusul devreme de la ora 17:00 în confort și căldură.",
-                "en": "Experience the winter vastness; bring blankets in the car to enjoy the early 17:00 sunset in total comfort from your front seat."
+                "en": "Experience the winter vastness; bring blankets in the car to enjoy the early 17:00 sunset in total comfort from your front seat.",
+                "fr": "Vivez l'immensité hivernale ; apportez des couvertures dans la voiture pour profiter du coucher du soleil anticipé à 17:00 confortablement depuis votre siège avant."
               }
             }
           ]

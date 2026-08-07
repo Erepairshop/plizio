@@ -21,7 +21,8 @@
             "de": "Saint-Vincent Kirche",
             "hu": "Saint-Vincent templom",
             "ro": "Biserica Saint-Vincent",
-            "en": "Saint-Vincent Church"
+            "en": "Saint-Vincent Church",
+            "fr": "Église Saint-Vincent"
           },
           "coords": [
             -1.075153,
@@ -36,7 +37,8 @@
             "de": "Bewundern Sie die wunderschönen Buntglasfenster dieser historischen Kirche und kommen Sie früh, um einen ruhigen Moment zu genießen.",
             "hu": "Csodálja meg a történelmi templom gyönyörű ólomüveg ablakait, és érkezzen korán, hogy átélhessen egy csendes pillanatot a város ébredése előtt.",
             "ro": "Admirați vitraliile frumoase ale acestei biserici istorice și sosiți devreme pentru a vă bucura de un moment de liniște.",
-            "en": "Admire the beautiful stained glass windows of this historic church and arrive early to experience a quiet moment before the town wakes up."
+            "en": "Admire the beautiful stained glass windows of this historic church and arrive early to experience a quiet moment before the town wakes up.",
+            "fr": "Admirez les magnifiques vitraux de cette église historique et arrivez tôt pour vivre un moment de calme avant que la ville ne s’éveille."
           }
         },
         {
@@ -44,7 +46,8 @@
             "de": "Seepromenade von Lacanau",
             "hu": "Lacanau tengerparti sétány",
             "ro": "Promenada Lacanau",
-            "en": "Lacanau Seafront Promenade"
+            "en": "Lacanau Seafront Promenade",
+            "fr": "Promenade du front de mer de Lacanau"
           },
           "coords": [
             -1.076515,
@@ -59,7 +62,8 @@
             "de": "Schlendern Sie diese lebhafte Promenade entlang, die wunderschöne Ausblicke auf das Wasser bietet, und vergessen Sie nicht bequeme Schuhe.",
             "hu": "Sétáljon végig ezen a nyüzsgő sétányon, amely gyönyörű kilátást nyújt a vízre, és ne felejtsen el kényelmes cipőt viselni.",
             "ro": "Plimbați-vă de-a lungul acestei promenade pline de viață care oferă vederi frumoase și purtați încălțăminte confortabilă pentru explorare.",
-            "en": "Stroll along this lively promenade offering beautiful views of the water, and don't forget to pack comfortable shoes for a leisurely walk."
+            "en": "Stroll along this lively promenade offering beautiful views of the water, and don't forget to pack comfortable shoes for a leisurely walk.",
+            "fr": "Promenez-vous le long de cette promenade animée offrant de belles vues sur l’eau ; n’oubliez pas des chaussures confortables pour une balade tranquille."
           }
         },
         {
@@ -67,7 +71,8 @@
             "de": "See von Lacanau",
             "hu": "Lacanau-tó",
             "ro": "Lacul Lacanau",
-            "en": "Lacanau Lake (Étang de Lacanau)"
+            "en": "Lacanau Lake (Étang de Lacanau)",
+            "fr": "Lac de Lacanau (Étang de Lacanau)"
           },
           "coords": [
             -1.09199,
@@ -82,7 +87,8 @@
             "de": "Mieten Sie ein Stand-Up-Paddle, um das ruhige Wasser des Sees zu erkunden, der einen perfekten natürlichen Rückzugsort vor den Wellen bietet.",
             "hu": "Béreljen evezős deszkát a tó nyugodt, kristálytiszta vizének felfedezéséhez, amely tökéletes természetes menedéket nyújt az óceán hullámaitól.",
             "ro": "Închiriați o placă cu vâsle pentru a explora apele calme ale lacului, care oferă un refugiu natural perfect departe de valurile oceanului.",
-            "en": "Rent a paddleboard to explore the calm, crystal-clear waters of the lake, which provides a perfect natural retreat away from the ocean waves."
+            "en": "Rent a paddleboard to explore the calm, crystal-clear waters of the lake, which provides a perfect natural retreat away from the ocean waves.",
+            "fr": "Louez un paddle pour explorer les eaux calmes et cristallines du lac, parfait refuge naturel loin des vagues de l’océan."
           }
         },
         {
@@ -90,7 +96,8 @@
             "de": "Der kleine Strand von Tedey",
             "hu": "Tedey kis strandja",
             "ro": "Plaja mică din Tedey",
-            "en": "La petite plage du Tedey"
+            "en": "La petite plage du Tedey",
+            "fr": "La petite plage du Tedey"
           },
           "coords": [
             -1.133663,
@@ -105,7 +112,8 @@
             "de": "Entspannen Sie am warmen Sand dieses versteckten Strandes im Schatten von Kiefern und bringen Sie unbedingt Snacks für ein Picknick mit.",
             "hu": "Pihenjen ezen a fenyőfákkal árnyékolt, eldugott tóparti strandon, és mindenképpen hozzon magával rágcsálnivalót egy délutáni piknikhez.",
             "ro": "Relaxați-vă pe nisipul cald al acestei plaje ascunse la umbra pinilor și aduceți cu voi gustări pentru un picnic minunat în natură.",
-            "en": "Relax on the warm sands of this hidden lakeside beach under the shade of pine trees, making sure to bring your own snacks for a picnic."
+            "en": "Relax on the warm sands of this hidden lakeside beach under the shade of pine trees, making sure to bring your own snacks for a picnic.",
+            "fr": "Détendez-vous sur les sables chauds de cette plage lacustre cachée, à l’ombre des pins, et prévoyez vos propres en-cas pour un pique-nique."
           }
         },
         {
@@ -113,7 +121,8 @@
             "de": "Casino von Lacanau",
             "hu": "Lacanau Kaszinó",
             "ro": "Cazinoul din Lacanau",
-            "en": "Casino of Lacanau"
+            "en": "Casino of Lacanau",
+            "fr": "Casino de Lacanau"
           },
           "coords": [
             -1.140813,
@@ -128,7 +137,8 @@
             "de": "Beenden Sie Ihren Tag mit Spielen oder einem Cocktail im Casino, wobei Sie daran denken sollten, einen gültigen Ausweis für den Eintritt mitzuführen.",
             "hu": "Zárja a napot izgalmas játékokkal vagy egy frissítő koktéllal a kaszinóban, és ne felejtse el magával vinni érvényes személyi igazolványát a belépéshez.",
             "ro": "Încheiați ziua cu jocuri interesante sau un cocktail la cazinou, amintindu-vă să aveți la voi un act de identitate valabil pentru a putea intra.",
-            "en": "End your day with some exciting games or a refreshing cocktail at the casino, remembering to carry a valid ID for entry into the gaming areas."
+            "en": "End your day with some exciting games or a refreshing cocktail at the casino, remembering to carry a valid ID for entry into the gaming areas.",
+            "fr": "Terminez votre journée par des jeux palpitants ou un cocktail rafraîchissant au casino ; n’oubliez pas une pièce d’identité valide pour accéder aux salles de jeux."
           }
         }
       ],
@@ -136,7 +146,8 @@
         "de": "Beginnen Sie Ihren Morgen im historischen Herzen von Lacanau mit einem Besuch der charmanten Kirche und einem Spaziergang an der Promenade.\nGegen Mittag tauchen Sie in die natürliche Ruhe der Umgebung ein und erkunden die Ufer des weiten Lacanau-Sees sowie die unberührten Naturschutzgebiete.\nAm Nachmittag zieht es Sie zu den von Kiefern gesäumten Stränden und der dramatischen Ozeanküste, wo Sie die beeindruckenden Surfer beobachten können.\nLassen Sie den Tag entspannt ausklingen, sei es bei einem atemberaubenden Sonnenuntergang am Strand oder mit etwas Glück im lebhaften lokalen Casino.",
         "hu": "Kezdje a reggelt Lacanau történelmi központjában, látogasson el a hangulatos helyi templomba, és tegyen egy békés sétát a tóparti sétányon.\nDélben merüljön el a környék természetes nyugalmában, fedezze fel a hatalmas Lacanau-tó partját és a közeli érintetlen természetvédelmi területeket.\nDélután induljon a fenyőfákkal szegélyezett strandok és a drámai óceánpart felé, élvezze a napsütést, és figyelje a hatalmas hullámokat meglovagló szörfösöket.\nZárja a napot egy pihentető estével, legyen szó a naplemente megcsodálásáról a homokos parton, vagy egy kis szerencsejátékról a nyüzsgő helyi kaszinóban.",
         "ro": "Începeți dimineața în centrul istoric al orașului Lacanau, vizitând biserica fermecătoare și bucurându-vă de o plimbare liniștită pe promenadă.\nLa prânz, cufundați-vă în liniștea naturală a zonei vizitând țărmurile lacului extins Lacanau și rezervațiile naturale imaculate din apropiere.\nDupă-amiaza, îndreptați-vă spre plajele mărginite de pini și spre coasta dramatică a oceanului, bucurându-vă de soare și privind surferii experimentați.\nÎncheiați-vă ziua cu o seară relaxantă, fie admirând un apus de soare pe plajă, fie încercându-vă norocul la cazinoul local plin de viață.",
-        "en": "Start your morning in the historic heart of Lacanau, visiting the charming local church and enjoying a peaceful stroll along the lakeside promenade.\nBy midday, immerse yourself in the natural tranquility of the area by visiting the shores of the expansive Lacanau Lake and nearby pristine reserves.\nIn the afternoon, head towards the pine-fringed beaches and the dramatic ocean coast, soaking in the sun and watching the surfers brave the impressive waves.\nConclude your day with a relaxed evening, whether watching the sunset from the sands or trying your luck at the vibrant local casino before dinner."
+        "en": "Start your morning in the historic heart of Lacanau, visiting the charming local church and enjoying a peaceful stroll along the lakeside promenade.\nBy midday, immerse yourself in the natural tranquility of the area by visiting the shores of the expansive Lacanau Lake and nearby pristine reserves.\nIn the afternoon, head towards the pine-fringed beaches and the dramatic ocean coast, soaking in the sun and watching the surfers brave the impressive waves.\nConclude your day with a relaxed evening, whether watching the sunset from the sands or trying your luck at the vibrant local casino before dinner.",
+        "fr": "Commencez votre matinée dans le cœur historique de Lacanau, en visitant la charmante église locale et en profitant d’une promenade paisible le long de la promenade du lac.\nÀ la mi-journée, immergez-vous dans la tranquillité naturelle de la région en visitant les rives de l’immense lac de Lacanau et les réserves proches préservées.\nL’après-midi, dirigez-vous vers les plages bordées de pins et la côte océanique dramatique, profitez du soleil et regardez les surfeurs affronter les vagues impressionnantes.\nConcluez votre journée par une soirée détendue, soit en regardant le coucher du soleil depuis le sable, soit en tentant votre chance au casino local animé avant le dîner."
       },
       "variants": {
         "rainy": {
@@ -144,7 +155,8 @@
             "de": "Starten Sie den regnerischen Morgen mit Schutz in der Kirche, gefolgt von einem feuchten Promenade-Spaziergang.\n\nMittags genießen Sie die neblige See-Atmosphäre unter dem Regenschirm.\n\nNachmittags erleben Sie die raue, nasse Küste am Tedey.\n\nBeenden Sie den feuchten Tag im gemütlichen, warmen Kasino.",
             "hu": "Kezdje az esős reggelt a templom menedékében, majd tegyen egy frissítő sétát a sétányon esernyővel.\n\nDélben élvezze a tó sejtelmes, ködös hangulatát.\n\nDélután tapasztalja meg a vad, esős partvidéket a Tedey strandon.\n\nAz estét töltse a kaszinó meleg és száraz kényelmében.",
             "ro": "Începeți dimineața ploioasă adăpostindu-vă în biserică, urmată de o plimbare umedă pe promenadă.\n\nLa prânz, bucurați-vă de atmosfera cețoasă a lacului sub umbrelă.\n\nDupă-amiaza, experimentați țărmul sălbatic și ud la Tedey.\n\nÎncheiați ziua umedă în cazinoul cald și confortabil.",
-            "en": "Start your rainy morning taking shelter in the historic church before a brisk, umbrella-covered stroll.\n\nBy midday, enjoy the moody, misty atmosphere over the lake.\n\nIn the afternoon, experience the dramatic, wet shoreline at Tedey beach.\n\nEnd your damp day in the cozy, warm interior of the local casino."
+            "en": "Start your rainy morning taking shelter in the historic church before a brisk, umbrella-covered stroll.\n\nBy midday, enjoy the moody, misty atmosphere over the lake.\n\nIn the afternoon, experience the dramatic, wet shoreline at Tedey beach.\n\nEnd your damp day in the cozy, warm interior of the local casino.",
+            "fr": "Commencez votre matinée pluvieuse à l’abri dans l’église historique avant une brève promenade sous parapluies.\n\nÀ la mi-journée, profitez de l’atmosphère brumeuse et mélancolique au-dessus du lac.\n\nL’après-midi, vivez la côte dramatique et humide à la plage du Tedey.\n\nTerminez votre journée trempée dans l’intérieur chaleureux et confortable du casino local."
           },
           "stops": [
             {
@@ -152,13 +164,15 @@
                 "de": "Saint-Vincent Kirche",
                 "hu": "Saint-Vincent templom",
                 "ro": "Biserica Saint-Vincent",
-                "en": "Saint-Vincent Church"
+                "en": "Saint-Vincent Church",
+                "fr": "Église Saint-Vincent"
               },
               "tip_5lang": {
                 "de": "Bewundern Sie die Details im Trockenen und entfliehen Sie dem Morgenregen.",
                 "hu": "Csodálja meg a belső részleteket, miközben menedéket talál a reggeli eső elől.",
                 "ro": "Admirați detaliile în timp ce vă adăpostiți de ploaia rece de dimineață.",
-                "en": "Admire the interior details while taking shelter from the morning rain showers."
+                "en": "Admire the interior details while taking shelter from the morning rain showers.",
+                "fr": "Admirez les détails intérieurs tout en vous abritant des averses matinales."
               }
             },
             {
@@ -166,13 +180,15 @@
                 "de": "Seepromenade von Lacanau",
                 "hu": "Lacanau tengerparti sétány",
                 "ro": "Promenada Lacanau",
-                "en": "Lacanau Seafront Promenade"
+                "en": "Lacanau Seafront Promenade",
+                "fr": "Promenade du front de mer de Lacanau"
               },
               "tip_5lang": {
                 "de": "Beobachten Sie die stürmischen Wellen; gute wasserdichte Schuhe sind Pflicht.",
                 "hu": "Figyelje a viharos hullámokat; a vízálló cipő itt kötelező a tócsák miatt.",
                 "ro": "Priviți valurile furtunoase; încălțămintea impermeabilă este obligatorie aici.",
-                "en": "Watch the stormy waves crash; good waterproof boots are a must for the puddles."
+                "en": "Watch the stormy waves crash; good waterproof boots are a must for the puddles.",
+                "fr": "Regardez les vagues de la tempête se fracasser ; de bonnes bottes imperméables sont indispensables pour les flaques."
               }
             },
             {
@@ -180,13 +196,15 @@
                 "de": "See von Lacanau",
                 "hu": "Lacanau-tó",
                 "ro": "Lacul Lacanau",
-                "en": "Lacanau Lake (Étang de Lacanau)"
+                "en": "Lacanau Lake (Étang de Lacanau)",
+                "fr": "Lac de Lacanau (Étang de Lacanau)"
               },
               "tip_5lang": {
                 "de": "Der Nebel auf dem Wasser ist magisch; bleiben Sie auf den befestigten Wegen.",
                 "hu": "A víz feletti köd varázslatos; maradjon a kövezett utakon a sár elkerülésére.",
                 "ro": "Ceața deasupra apei este magică; rămâneți pe potecile pavate pentru a evita noroiul.",
-                "en": "The mist over the water is magical; stick to the paved paths to avoid thick mud."
+                "en": "The mist over the water is magical; stick to the paved paths to avoid thick mud.",
+                "fr": "La brume au-dessus de l’eau est magique ; restez sur les chemins pavés pour éviter la boue épaisse."
               }
             },
             {
@@ -194,13 +212,15 @@
                 "de": "Der kleine Strand von Tedey",
                 "hu": "Tedey kis strandja",
                 "ro": "Plaja mică din Tedey",
-                "en": "La petite plage du Tedey"
+                "en": "La petite plage du Tedey",
+                "fr": "La petite plage du Tedey"
               },
               "tip_5lang": {
                 "de": "Erleben Sie die wilde, nasse Natur; eine winddichte Regenjacke ist essenziell.",
                 "hu": "Tapasztalja meg a vad, esős természetet; a szélálló esőkabát nélkülözhetetlen.",
                 "ro": "Experimentați natura sălbatică și udă; o geacă de ploaie rezistentă e esențială.",
-                "en": "Experience the wild, wet nature; a windproof rain jacket is completely essential."
+                "en": "Experience the wild, wet nature; a windproof rain jacket is completely essential.",
+                "fr": "Vivez la nature sauvage et humide ; une veste imperméable coupe-vent est absolument essentielle."
               }
             },
             {
@@ -208,13 +228,15 @@
                 "de": "Casino von Lacanau",
                 "hu": "Lacanau Kaszinó",
                 "ro": "Cazinoul din Lacanau",
-                "en": "Casino of Lacanau"
+                "en": "Casino of Lacanau",
+                "fr": "Casino de Lacanau"
               },
               "tip_5lang": {
                 "de": "Ein perfekter Rückzugsort vor Nässe; wärmen Sie sich bei Unterhaltung auf.",
                 "hu": "Tökéletes menedék a nedvesség elől; melegedjen fel a benti szórakozás közben.",
                 "ro": "Un refugiu perfect de umezeală; încălziți-vă înăuntru cu jocuri și distracție.",
-                "en": "A perfect indoor retreat from the wet weather; warm up inside with entertainment."
+                "en": "A perfect indoor retreat from the wet weather; warm up inside with entertainment.",
+                "fr": "Un refuge intérieur parfait contre le mauvais temps ; réchauffez-vous à l’intérieur en profitant des animations."
               }
             }
           ]
@@ -224,7 +246,8 @@
             "de": "Ein frischer Morgen an der Kirche und der ruhigen Promenade weckt die Lebensgeister.\n\nMittags bietet der See bei klarem Winterlicht herrliche Ausblicke für einen strammen Spaziergang.\n\nNachmittags lockt der menschenleere Tedey-Strand.\n\nWenn die Sonne früh untergeht, wärmt das Kasino am Abend.",
             "hu": "A fagyos reggelt a templom csendje és a kihalt sétány teszi különlegessé.\n\nDélben a tóvidék kristálytiszta téli fényei kísérik a tempós sétát.\n\nDélután a Tedey strand nyújt békés, üres téli panorámát.\n\nA korai, ötkor érkező sötétedés után a kaszinó kellemes meleggel várja.",
             "ro": "O dimineață geroasă la biserică și pe promenada liniștită vă va trezi simțurile.\n\nLa prânz, lacul oferă priveliști superbe în lumina clară a iernii.\n\nDupă-amiaza, plaja Tedey vă așteaptă pustie și frumoasă.\n\nSeara, după un apus devreme, încălziți-vă în atmosfera vibrantă a cazinoului.",
-            "en": "A crisp morning at the church and the quiet promenade will awaken your senses.\n\nBy midday, the lake offers stunning views in the clear winter light for a brisk walk.\n\nIn the afternoon, the empty Tedey beach provides peaceful scenery.\n\nAfter an early sunset, warm up in the lively casino."
+            "en": "A crisp morning at the church and the quiet promenade will awaken your senses.\n\nBy midday, the lake offers stunning views in the clear winter light for a brisk walk.\n\nIn the afternoon, the empty Tedey beach provides peaceful scenery.\n\nAfter an early sunset, warm up in the lively casino.",
+            "fr": "Un matin vif à l’église et sur la promenade tranquille éveillera vos sens.\n\nÀ la mi-journée, le lac offre des vues splendides sous la lumière claire de l’hiver pour une marche tonique.\n\nL’après-midi, la plage déserte du Tedey procure des paysages paisibles.\n\nAprès un coucher de soleil précoce, réchauffez-vous dans le casino animé."
           },
           "stops": [
             {
@@ -232,13 +255,15 @@
                 "de": "Saint-Vincent Kirche",
                 "hu": "Saint-Vincent templom",
                 "ro": "Biserica Saint-Vincent",
-                "en": "Saint-Vincent Church"
+                "en": "Saint-Vincent Church",
+                "fr": "Église Saint-Vincent"
               },
               "tip_5lang": {
                 "de": "Die klare Winterluft ist frisch; die Kirche bietet einen ruhigen, kühlen Start.",
                 "hu": "A fagyos levegő frissítő; a templom békés, bár hűvös kezdést biztosít a sétához.",
                 "ro": "Aerul de iarnă este proaspăt; biserica oferă un început liniștit, deși răcoros.",
-                "en": "The crisp winter air is fresh; the church provides a quiet, chilly morning start."
+                "en": "The crisp winter air is fresh; the church provides a quiet, chilly morning start.",
+                "fr": "L’air frais de l’hiver est vivifiant ; l’église offre un départ de matinée calme et frais."
               }
             },
             {
@@ -246,13 +271,15 @@
                 "de": "Seepromenade von Lacanau",
                 "hu": "Lacanau tengerparti sétány",
                 "ro": "Promenada Lacanau",
-                "en": "Lacanau Seafront Promenade"
+                "en": "Lacanau Seafront Promenade",
+                "fr": "Promenade du front de mer de Lacanau"
               },
               "tip_5lang": {
                 "de": "Genießen Sie die leere Promenade; packen Sie sich gegen die kalte Meeresbrise ein.",
                 "hu": "Élvezze az üres sétányt; öltözzön fel melegen a csípős óceáni szél ellen.",
                 "ro": "Bucurați-vă de promenada goală; îmbrăcați-vă gros împotriva brizei reci a mării.",
-                "en": "Enjoy the empty promenade; wrap up warmly against the biting, cold ocean breeze."
+                "en": "Enjoy the empty promenade; wrap up warmly against the biting, cold ocean breeze.",
+                "fr": "Profitez de la promenade vide ; couvrez-vous chaudement contre la brise marine mordante."
               }
             },
             {
@@ -260,13 +287,15 @@
                 "de": "See von Lacanau",
                 "hu": "Lacanau-tó",
                 "ro": "Lacul Lacanau",
-                "en": "Lacanau Lake (Étang de Lacanau)"
+                "en": "Lacanau Lake (Étang de Lacanau)",
+                "fr": "Lac de Lacanau (Étang de Lacanau)"
               },
               "tip_5lang": {
                 "de": "Das Winterlicht auf dem See ist toll; tragen Sie Thermokleidung für den Spaziergang.",
                 "hu": "A téli fény a tavon lenyűgöző; viseljen termo rétegeket a fagyos sétához.",
                 "ro": "Lumina de iarnă pe lac este superbă; purtați straturi termice pentru plimbare.",
-                "en": "The winter light on the lake is stunning; wear thermal layers for the brisk walk."
+                "en": "The winter light on the lake is stunning; wear thermal layers for the brisk walk.",
+                "fr": "La lumière hivernale sur le lac est splendide ; portez des couches thermiques pour la promenade tonique."
               }
             },
             {
@@ -274,13 +303,15 @@
                 "de": "Der kleine Strand von Tedey",
                 "hu": "Tedey kis strandja",
                 "ro": "Plaja mică din Tedey",
-                "en": "La petite plage du Tedey"
+                "en": "La petite plage du Tedey",
+                "fr": "La petite plage du Tedey"
               },
               "tip_5lang": {
                 "de": "Ein ruhiger Winterstrand; die Sonne geht früh unter, also nutzen Sie das Nachmittagslicht.",
                 "hu": "Békés téli strand; a nap korán nyugszik, használja ki a késő délutáni fényeket.",
                 "ro": "O plajă de iarnă liniștită; soarele apune devreme, bucurați-vă de lumina după-amiezii.",
-                "en": "A peaceful winter beach; the sun sets early, so enjoy the late afternoon light."
+                "en": "A peaceful winter beach; the sun sets early, so enjoy the late afternoon light.",
+                "fr": "Une plage hivernale paisible ; le soleil se couche tôt, profitez donc de la lumière de fin d’après-midi."
               }
             },
             {
@@ -288,13 +319,15 @@
                 "de": "Casino von Lacanau",
                 "hu": "Lacanau Kaszinó",
                 "ro": "Cazinoul din Lacanau",
-                "en": "Casino of Lacanau"
+                "en": "Casino of Lacanau",
+                "fr": "Casino de Lacanau"
               },
               "tip_5lang": {
                 "de": "Fliehen Sie vor der frühen Dunkelheit (ca. 17 Uhr) in das warme, lebhafte Kasino.",
                 "hu": "Meneküljön a korai, 5 órás sötétedés elől a meleg és élettel teli kaszinóba.",
                 "ro": "Refugiați-vă de întunericul timpuriu (în jur de 17:00) în cazinoul cald și plin de viață.",
-                "en": "Retreat from the early winter darkness (around 5 PM) into the warm, lively casino."
+                "en": "Retreat from the early winter darkness (around 5 PM) into the warm, lively casino.",
+                "fr": "Échappez à l’obscurité hivernale précoce (vers 17h) en entrant dans le casino chaleureux et animé."
               }
             }
           ]
@@ -314,7 +347,8 @@
             "de": "Saint-Vincent Kirche",
             "hu": "Saint-Vincent templom",
             "ro": "Biserica Saint-Vincent",
-            "en": "Saint-Vincent Church"
+            "en": "Saint-Vincent Church",
+            "fr": "Église Saint-Vincent"
           },
           "coords": [
             -1.075153,
@@ -329,7 +363,8 @@
             "de": "Bewundern Sie die wunderschönen Buntglasfenster dieser historischen Kirche und kommen Sie früh, um einen ruhigen Moment zu genießen.",
             "hu": "Csodálja meg a történelmi templom gyönyörű ólomüveg ablakait, és érkezzen korán, hogy átélhessen egy csendes pillanatot a város ébredése előtt.",
             "ro": "Admirați vitraliile frumoase ale acestei biserici istorice și sosiți devreme pentru a vă bucura de un moment de liniște.",
-            "en": "Admire the beautiful stained glass windows of this historic church and arrive early to experience a quiet moment before the town wakes up."
+            "en": "Admire the beautiful stained glass windows of this historic church and arrive early to experience a quiet moment before the town wakes up.",
+            "fr": "Admirez les magnifiques vitraux de cette église historique et arrivez tôt pour vivre un moment de calme avant que la ville ne s’éveille."
           }
         },
         {
@@ -337,7 +372,8 @@
             "de": "Seepromenade von Lacanau",
             "hu": "Lacanau tengerparti sétány",
             "ro": "Promenada Lacanau",
-            "en": "Lacanau Seafront Promenade"
+            "en": "Lacanau Seafront Promenade",
+            "fr": "Promenade du front de mer de Lacanau"
           },
           "coords": [
             -1.076515,
@@ -352,7 +388,8 @@
             "de": "Schlendern Sie diese lebhafte Promenade entlang, die wunderschöne Ausblicke auf das Wasser bietet, und vergessen Sie nicht bequeme Schuhe.",
             "hu": "Sétáljon végig ezen a nyüzsgő sétányon, amely gyönyörű kilátást nyújt a vízre, és ne felejtsen el kényelmes cipőt viselni.",
             "ro": "Plimbați-vă de-a lungul acestei promenade pline de viață care oferă vederi frumoase și purtați încălțăminte confortabilă pentru explorare.",
-            "en": "Stroll along this lively promenade offering beautiful views of the water, and don't forget to pack comfortable shoes for a leisurely walk."
+            "en": "Stroll along this lively promenade offering beautiful views of the water, and don't forget to pack comfortable shoes for a leisurely walk.",
+            "fr": "Promenez-vous le long de cette promenade animée offrant de belles vues sur l’eau ; n’oubliez pas des chaussures confortables pour une balade tranquille."
           }
         },
         {
@@ -360,7 +397,8 @@
             "de": "See von Lacanau",
             "hu": "Lacanau-tó",
             "ro": "Lacul Lacanau",
-            "en": "Lacanau Lake (Étang de Lacanau)"
+            "en": "Lacanau Lake (Étang de Lacanau)",
+            "fr": "Lac de Lacanau (Étang de Lacanau)"
           },
           "coords": [
             -1.09199,
@@ -375,7 +413,8 @@
             "de": "Mieten Sie ein Stand-Up-Paddle, um das ruhige Wasser des Sees zu erkunden, der einen perfekten natürlichen Rückzugsort vor den Wellen bietet.",
             "hu": "Béreljen evezős deszkát a tó nyugodt, kristálytiszta vizének felfedezéséhez, amely tökéletes természetes menedéket nyújt az óceán hullámaitól.",
             "ro": "Închiriați o placă cu vâsle pentru a explora apele calme ale lacului, care oferă un refugiu natural perfect departe de valurile oceanului.",
-            "en": "Rent a paddleboard to explore the calm, crystal-clear waters of the lake, which provides a perfect natural retreat away from the ocean waves."
+            "en": "Rent a paddleboard to explore the calm, crystal-clear waters of the lake, which provides a perfect natural retreat away from the ocean waves.",
+            "fr": "Louez un paddle pour explorer les eaux calmes et cristallines du lac, parfait refuge naturel loin des vagues de l’océan."
           }
         },
         {
@@ -383,7 +422,8 @@
             "de": "Naturschutzgebiet See Cousseau",
             "hu": "Cousseau-tó Természetvédelmi Terület",
             "ro": "Rezervația Naturală Lacul Cousseau",
-            "en": "Cousseau Lake Nature Reserve"
+            "en": "Cousseau Lake Nature Reserve",
+            "fr": "Réserve naturelle du lac de Cousseau"
           },
           "coords": [
             -1.138883,
@@ -398,7 +438,8 @@
             "de": "Besteigen Sie die hölzernen Aussichtstürme, um verschiedene Vogelarten zu beobachten, und bringen Sie ein Fernglas für das beste Erlebnis mit.",
             "hu": "Másszon fel a fából készült kilátótornyokba a madárfajok megfigyeléséhez, és hozzon magával távcsövet a legjobb vadvilági élmény érdekében.",
             "ro": "Urcați în turnurile de observație din lemn pentru a vedea diverse specii de păsări și luați un binoclu pentru o experiență perfectă.",
-            "en": "Climb the wooden observation towers to spot diverse bird species in the marshland, and carry binoculars for the best wildlife viewing experience."
+            "en": "Climb the wooden observation towers to spot diverse bird species in the marshland, and carry binoculars for the best wildlife viewing experience.",
+            "fr": "Montez dans les tours d’observation en bois pour repérer de nombreuses espèces d’oiseaux dans les marais ; emportez des jumelles pour une meilleure observation de la faune."
           }
         },
         {
@@ -406,7 +447,8 @@
             "de": "Lacanau-Océan Strand",
             "hu": "Lacanau-Océan strand",
             "ro": "Plaja Lacanau-Océan",
-            "en": "Lacanau-Océan Beach"
+            "en": "Lacanau-Océan Beach",
+            "fr": "Plage de Lacanau-Océan"
           },
           "coords": [
             -1.203055,
@@ -421,7 +463,8 @@
             "de": "Beobachten Sie professionelle Surfer auf den beeindruckenden Wellen des Atlantiks und schwimmen Sie immer nur in den markierten bewachten Zonen.",
             "hu": "Figyelje meg, ahogy a profi szörfösök megküzdenek az atlanti hullámokkal, és mindig szigorúan a kijelölt vízimentők által felügyelt zónákban ússzon.",
             "ro": "Priviți surferii profesioniști cum abordează valurile impresionante ale Atlanticului și înotați întotdeauna doar în zonele marcate de salvamari.",
-            "en": "Watch professional surfers tackle the impressive Atlantic waves at this iconic beach, and always swim strictly within the marked lifeguard zones."
+            "en": "Watch professional surfers tackle the impressive Atlantic waves at this iconic beach, and always swim strictly within the marked lifeguard zones.",
+            "fr": "Regardez les surfeurs professionnels affronter les vagues atlantiques impressionnantes sur cette plage emblématique ; nagez toujours strictement dans les zones balisées par les sauveteurs."
           }
         },
         {
@@ -429,7 +472,8 @@
             "de": "Der kleine Strand von Tedey",
             "hu": "Tedey kis strandja",
             "ro": "Plaja mică din Tedey",
-            "en": "La petite plage du Tedey"
+            "en": "La petite plage du Tedey",
+            "fr": "La petite plage du Tedey"
           },
           "coords": [
             -1.133663,
@@ -444,7 +488,8 @@
             "de": "Entspannen Sie am warmen Sand dieses versteckten Strandes im Schatten von Kiefern und bringen Sie unbedingt Snacks für ein Picknick mit.",
             "hu": "Pihenjen ezen a fenyőfákkal árnyékolt, eldugott tóparti strandon, és mindenképpen hozzon magával rágcsálnivalót egy délutáni piknikhez.",
             "ro": "Relaxați-vă pe nisipul cald al acestei plaje ascunse la umbra pinilor și aduceți cu voi gustări pentru un picnic minunat în natură.",
-            "en": "Relax on the warm sands of this hidden lakeside beach under the shade of pine trees, making sure to bring your own snacks for a picnic."
+            "en": "Relax on the warm sands of this hidden lakeside beach under the shade of pine trees, making sure to bring your own snacks for a picnic.",
+            "fr": "Détendez-vous sur les sables chauds de cette plage lacustre cachée, à l’ombre des pins, et prévoyez vos propres en-cas pour un pique-nique."
           }
         }
       ],
@@ -452,7 +497,8 @@
         "de": "Beginnen Sie Ihren Morgen im historischen Herzen von Lacanau mit einem Besuch der charmanten Kirche und einem Spaziergang an der Promenade.\nGegen Mittag tauchen Sie in die natürliche Ruhe der Umgebung ein und erkunden die Ufer des weiten Lacanau-Sees sowie die unberührten Naturschutzgebiete.\nAm Nachmittag zieht es Sie zu den von Kiefern gesäumten Stränden und der dramatischen Ozeanküste, wo Sie die beeindruckenden Surfer beobachten können.\nLassen Sie den Tag entspannt ausklingen, sei es bei einem atemberaubenden Sonnenuntergang am Strand oder mit etwas Glück im lebhaften lokalen Casino.",
         "hu": "Kezdje a reggelt Lacanau történelmi központjában, látogasson el a hangulatos helyi templomba, és tegyen egy békés sétát a tóparti sétányon.\nDélben merüljön el a környék természetes nyugalmában, fedezze fel a hatalmas Lacanau-tó partját és a közeli érintetlen természetvédelmi területeket.\nDélután induljon a fenyőfákkal szegélyezett strandok és a drámai óceánpart felé, élvezze a napsütést, és figyelje a hatalmas hullámokat meglovagló szörfösöket.\nZárja a napot egy pihentető estével, legyen szó a naplemente megcsodálásáról a homokos parton, vagy egy kis szerencsejátékról a nyüzsgő helyi kaszinóban.",
         "ro": "Începeți dimineața în centrul istoric al orașului Lacanau, vizitând biserica fermecătoare și bucurându-vă de o plimbare liniștită pe promenadă.\nLa prânz, cufundați-vă în liniștea naturală a zonei vizitând țărmurile lacului extins Lacanau și rezervațiile naturale imaculate din apropiere.\nDupă-amiaza, îndreptați-vă spre plajele mărginite de pini și spre coasta dramatică a oceanului, bucurându-vă de soare și privind surferii experimentați.\nÎncheiați-vă ziua cu o seară relaxantă, fie admirând un apus de soare pe plajă, fie încercându-vă norocul la cazinoul local plin de viață.",
-        "en": "Start your morning in the historic heart of Lacanau, visiting the charming local church and enjoying a peaceful stroll along the lakeside promenade.\nBy midday, immerse yourself in the natural tranquility of the area by visiting the shores of the expansive Lacanau Lake and nearby pristine reserves.\nIn the afternoon, head towards the pine-fringed beaches and the dramatic ocean coast, soaking in the sun and watching the surfers brave the impressive waves.\nConclude your day with a relaxed evening, whether watching the sunset from the sands or trying your luck at the vibrant local casino before dinner."
+        "en": "Start your morning in the historic heart of Lacanau, visiting the charming local church and enjoying a peaceful stroll along the lakeside promenade.\nBy midday, immerse yourself in the natural tranquility of the area by visiting the shores of the expansive Lacanau Lake and nearby pristine reserves.\nIn the afternoon, head towards the pine-fringed beaches and the dramatic ocean coast, soaking in the sun and watching the surfers brave the impressive waves.\nConclude your day with a relaxed evening, whether watching the sunset from the sands or trying your luck at the vibrant local casino before dinner.",
+        "fr": "Commencez votre matinée dans le cœur historique de Lacanau, en visitant la charmante église locale et en profitant d’une promenade paisible le long de la promenade du lac.\nÀ la mi-journée, immergez-vous dans la tranquillité naturelle de la région en visitant les rives de l’immense lac de Lacanau et les réserves proches préservées.\nL’après-midi, dirigez-vous vers les plages bordées de pins et la côte océanique dramatique, profitez du soleil et regardez les surfeurs affronter les vagues impressionnantes.\nConcluez votre journée par une soirée détendue, soit en regardant le coucher du soleil depuis le sable, soit en tentant votre chance au casino local animé avant le dîner."
       },
       "variants": {
         "rainy": {
@@ -460,7 +506,8 @@
             "de": "Der regnerische Morgen beginnt an der Kirche, bevor es auf die nasse Promenade geht.\n\nMittags fahren Sie vorsichtig auf den matschigen Wegen am See.\n\nNachmittags durchqueren Sie das feuchte Naturschutzgebiet zum stürmischen Ozean.\n\nAbends radeln Sie vor Einbruch der Dunkelheit am Tedey-Strand.",
             "hu": "Az esős reggel a templomnál indul, majd a vizes sétányon folytatódik a tekerés.\n\nDélben óvatosan haladjon a tóparti, csúszós ösvényeken.\n\nDélután a nedves természetvédelmi terület és a viharos óceán nyújt drámai látványt.\n\nEste, még szürkület előtt tekerjen el a Tedey partjához.",
             "ro": "Dimineața ploioasă începe la biserică, urmată de o pedalare pe promenada udă.\n\nLa prânz, mergeți cu grijă pe potecile noroioase de lângă lac.\n\nDupă-amiaza, traversați rezervația umedă spre oceanul furtunos.\n\nSeara, pedalați pe plaja Tedey înainte ca vizibilitatea să scadă.",
-            "en": "The rainy morning begins at the church before a wet ride along the promenade.\n\nBy midday, navigate the muddy but beautiful lakeside paths carefully.\n\nIn the afternoon, cross the damp nature reserve to see the stormy ocean.\n\nEvening brings a wet, moody ride by Tedey beach before dusk."
+            "en": "The rainy morning begins at the church before a wet ride along the promenade.\n\nBy midday, navigate the muddy but beautiful lakeside paths carefully.\n\nIn the afternoon, cross the damp nature reserve to see the stormy ocean.\n\nEvening brings a wet, moody ride by Tedey beach before dusk.",
+            "fr": "La matinée pluvieuse commence à l’église avant une balade mouillée le long de la promenade.\n\nÀ la mi-journée, naviguez prudemment sur les sentiers lacustres boueux mais magnifiques.\n\nL’après-midi, traversez la réserve naturelle humide pour voir l’océan orageux.\n\nLa soirée apporte une balade humide et mélancolique près de la plage du Tedey avant le crépuscule."
           },
           "stops": [
             {
@@ -468,13 +515,15 @@
                 "de": "Saint-Vincent Kirche",
                 "hu": "Saint-Vincent templom",
                 "ro": "Biserica Saint-Vincent",
-                "en": "Saint-Vincent Church"
+                "en": "Saint-Vincent Church",
+                "fr": "Église Saint-Vincent"
               },
               "tip_5lang": {
                 "de": "Trocknen Sie sich drinnen ab; prüfen Sie Ihre Regenkleidung für die Fahrt.",
                 "hu": "Szárítkozzon meg bent; ellenőrizze a vízálló felszerelését a további útra.",
                 "ro": "Uscați-vă înăuntru; verificați echipamentul impermeabil pentru drumul următor.",
-                "en": "Dry off inside for a moment; check your waterproof gear for the ride ahead."
+                "en": "Dry off inside for a moment; check your waterproof gear for the ride ahead.",
+                "fr": "Séchez-vous un instant à l’intérieur ; vérifiez votre équipement imperméable pour la suite du trajet."
               }
             },
             {
@@ -482,13 +531,15 @@
                 "de": "Seepromenade von Lacanau",
                 "hu": "Lacanau tengerparti sétány",
                 "ro": "Promenada Lacanau",
-                "en": "Lacanau Seafront Promenade"
+                "en": "Lacanau Seafront Promenade",
+                "fr": "Promenade du front de mer de Lacanau"
               },
               "tip_5lang": {
                 "de": "Fahren Sie vorsichtig auf dem nassen Boden; der stürmische Ozean ist unvergesslich.",
                 "hu": "Tekerjen óvatosan a vizes talajon; a viharos óceán látványa felejthetetlen.",
                 "ro": "Pedalați cu grijă pe suprafața udă; priveliștea oceanului furtunos e de neuitat.",
-                "en": "Ride carefully on the wet surfaces; the dramatic stormy ocean view is unforgettable."
+                "en": "Ride carefully on the wet surfaces; the dramatic stormy ocean view is unforgettable.",
+                "fr": "Roulez prudemment sur les surfaces mouillées ; la vue dramatique de l’océan en tempête est inoubliable."
               }
             },
             {
@@ -496,13 +547,15 @@
                 "de": "See von Lacanau",
                 "hu": "Lacanau-tó",
                 "ro": "Lacul Lacanau",
-                "en": "Lacanau Lake (Étang de Lacanau)"
+                "en": "Lacanau Lake (Étang de Lacanau)",
+                "fr": "Lac de Lacanau (Étang de Lacanau)"
               },
               "tip_5lang": {
                 "de": "Radeln im Regen ist erfrischend; reduzieren Sie das Tempo in nassen Kurven.",
                 "hu": "Az esős tekerés frissítő itt; lassítson a vizes, csúszós kanyarokban.",
                 "ro": "Ciclismul pe ploaie este revigorant; reduceți viteza în curbele umede și alunecoase.",
-                "en": "Cycling in the rain is refreshing; reduce your speed on the wet, slippery corners."
+                "en": "Cycling in the rain is refreshing; reduce your speed on the wet, slippery corners.",
+                "fr": "Le cyclisme sous la pluie est revigorant ; réduisez votre vitesse dans les virages humides et glissants."
               }
             },
             {
@@ -510,13 +563,15 @@
                 "de": "Naturschutzgebiet See Cousseau",
                 "hu": "Cousseau-tó Természetvédelmi Terület",
                 "ro": "Rezervația Naturală Lacul Cousseau",
-                "en": "Cousseau Lake Nature Reserve"
+                "en": "Cousseau Lake Nature Reserve",
+                "fr": "Réserve naturelle du lac de Cousseau"
               },
               "tip_5lang": {
                 "de": "Der nasse Wald duftet herrlich; Vorsicht auf den rutschigen Holzstegen.",
                 "hu": "A nedves erdő illata csodás; vigyázzon a nagyon csúszós fa pallókon tekerve.",
                 "ro": "Pădurea umedă miroase minunat; atenție la podețele din lemn foarte alunecoase.",
-                "en": "The wet forest smells incredible; be very careful on the slippery wooden boardwalks."
+                "en": "The wet forest smells incredible; be very careful on the slippery wooden boardwalks.",
+                "fr": "La forêt humide sent merveilleusement bon ; soyez très prudent sur les passerelles en bois glissantes."
               }
             },
             {
@@ -524,13 +579,15 @@
                 "de": "Lacanau-Océan Strand",
                 "hu": "Lacanau-Océan strand",
                 "ro": "Plaja Lacanau-Océan",
-                "en": "Lacanau-Océan Beach"
+                "en": "Lacanau-Océan Beach",
+                "fr": "Plage de Lacanau-Océan"
               },
               "tip_5lang": {
                 "de": "Spüren Sie die raue Kraft des Atlantiks; halten Sie trockene Schichten bereit.",
                 "hu": "Érezze az Atlanti-óceán nyers erejét; tartson száraz réteget a táskájában.",
                 "ro": "Simțiți forța brută a Atlanticului; păstrați un strat uscat în gențile de bicicletă.",
-                "en": "Feel the raw power of the Atlantic; keep a dry layer in your panniers for later."
+                "en": "Feel the raw power of the Atlantic; keep a dry layer in your panniers for later.",
+                "fr": "Ressentez la puissance brute de l’Atlantique ; gardez une couche sèche dans vos sacoches pour plus tard."
               }
             },
             {
@@ -538,13 +595,15 @@
                 "de": "Der kleine Strand von Tedey",
                 "hu": "Tedey kis strandja",
                 "ro": "Plaja mică din Tedey",
-                "en": "La petite plage du Tedey"
+                "en": "La petite plage du Tedey",
+                "fr": "La petite plage du Tedey"
               },
               "tip_5lang": {
                 "de": "Der Regen macht den Strand herrlich einsam; fahren Sie vor der Dunkelheit zurück.",
                 "hu": "Az eső csodásan elhagyatottá teszi a partot; induljon vissza a sötétedés előtt.",
                 "ro": "Ploaia face plaja minunat de pustie; întoarceți-vă înainte să scadă vizibilitatea.",
-                "en": "The rain makes the beach wonderfully desolate; head back before visibility drops."
+                "en": "The rain makes the beach wonderfully desolate; head back before visibility drops.",
+                "fr": "La pluie rend la plage délicieusement déserte ; retournez avant que la visibilité ne baisse."
               }
             }
           ]
@@ -554,7 +613,8 @@
             "de": "Ein kühler Ritt zur Kirche und Promenade weckt Sie am Morgen.\n\nMittags atmen Sie die eisige, klare Luft am See tief ein.\n\nNachmittags zeigen sich das Naturschutzgebiet und der Strand im wunderschönen Winterlicht.\n\nAbends genießen Sie den frühen Sonnenuntergang am Tedey, bevor es kalt wird.",
             "hu": "A hűvös reggeli tekerés a templomhoz és a sétányhoz azonnal felébreszti.\n\nDélben szívja magába a tópart kristálytiszta, fagyos levegőjét.\n\nDélután a rezervátum és az óceánpart lenyűgöző téli fényekben fürdik.\n\nEste csodálja meg a korai, ötkor kezdődő naplementét a Tedey strandon.",
             "ro": "O plimbare răcoroasă spre biserică și promenadă vă trezește dimineața.\n\nLa prânz, respirați aerul rece și curat de lângă lac.\n\nDupă-amiaza, rezervația și plaja sunt scufundate într-o lumină superbă de iarnă.\n\nSeara, admirați apusul devreme la Tedey, înainte să se lase frigul.",
-            "en": "A cool ride to the church and promenade wakes you up in the morning.\n\nBy midday, breathe in the crisp, freezing air by the lake.\n\nIn the afternoon, the reserve and ocean beach are bathed in beautiful winter light.\n\nEvening brings an early sunset at Tedey beach before the cold sets in."
+            "en": "A cool ride to the church and promenade wakes you up in the morning.\n\nBy midday, breathe in the crisp, freezing air by the lake.\n\nIn the afternoon, the reserve and ocean beach are bathed in beautiful winter light.\n\nEvening brings an early sunset at Tedey beach before the cold sets in.",
+            "fr": "Une balade fraîche jusqu’à l’église et à la promenade vous réveillera le matin.\n\nÀ la mi-journée, respirez l’air frais et glacial au bord du lac.\n\nL’après-midi, la réserve et la plage océanique baignent dans une belle lumière hivernale.\n\nLa soirée apporte un coucher de soleil précoce à la plage du Tedey avant que le froid ne s’installe."
           },
           "stops": [
             {
@@ -562,13 +622,15 @@
                 "de": "Saint-Vincent Kirche",
                 "hu": "Saint-Vincent templom",
                 "ro": "Biserica Saint-Vincent",
-                "en": "Saint-Vincent Church"
+                "en": "Saint-Vincent Church",
+                "fr": "Église Saint-Vincent"
               },
               "tip_5lang": {
                 "de": "Ein frischer Start; die Kirche bietet kurze Erholung von der morgendlichen Kälte.",
                 "hu": "Frissítő indulás; a templom rövid menedéket ad a reggeli fagyos levegő elől.",
                 "ro": "Un început revigorant; biserica oferă un scurt răgaz de la frigul dimineții.",
-                "en": "A brisk start; the church provides brief respite from the freezing morning air."
+                "en": "A brisk start; the church provides brief respite from the freezing morning air.",
+                "fr": "Un départ vif ; l’église offre un bref répit de l’air matinal glacial."
               }
             },
             {
@@ -576,13 +638,15 @@
                 "de": "Seepromenade von Lacanau",
                 "hu": "Lacanau tengerparti sétány",
                 "ro": "Promenada Lacanau",
-                "en": "Lacanau Seafront Promenade"
+                "en": "Lacanau Seafront Promenade",
+                "fr": "Promenade du front de mer de Lacanau"
               },
               "tip_5lang": {
                 "de": "Die Winterluft ist belebend; tragen Sie winddichte Handschuhe beim Radeln.",
                 "hu": "A téli levegő élénkítő; viseljen szélálló kesztyűt a fagyos tekeréshez.",
                 "ro": "Aerul de iarnă este revigorant; purtați mănuși rezistente la vânt pe bicicletă.",
-                "en": "The winter air is invigorating; wear windproof gloves to keep your hands warm."
+                "en": "The winter air is invigorating; wear windproof gloves to keep your hands warm.",
+                "fr": "L’air hivernal est vivifiant ; portez des gants coupe-vent pour garder vos mains au chaud."
               }
             },
             {
@@ -590,13 +654,15 @@
                 "de": "See von Lacanau",
                 "hu": "Lacanau-tó",
                 "ro": "Lacul Lacanau",
-                "en": "Lacanau Lake (Étang de Lacanau)"
+                "en": "Lacanau Lake (Étang de Lacanau)",
+                "fr": "Lac de Lacanau (Étang de Lacanau)"
               },
               "tip_5lang": {
                 "de": "Klare Sicht bietet weite Seepanoramen; achten Sie auf Eisflächen im Schatten.",
                 "hu": "A tiszta idő tágas panorámát ad; vigyázzon a jégfoltokra az árnyékos részeken.",
                 "ro": "Cerul senin oferă panorame vaste; atenție la peticele de gheață din zonele umbrite.",
-                "en": "Clear skies offer vast panoramas; watch out for icy patches in the shaded areas."
+                "en": "Clear skies offer vast panoramas; watch out for icy patches in the shaded areas.",
+                "fr": "Le ciel dégagé offre de vastes panoramas ; méfiez-vous des plaques de verglas à l’ombre."
               }
             },
             {
@@ -604,13 +670,15 @@
                 "de": "Naturschutzgebiet See Cousseau",
                 "hu": "Cousseau-tó Természetvédelmi Terület",
                 "ro": "Rezervația Naturală Lacul Cousseau",
-                "en": "Cousseau Lake Nature Reserve"
+                "en": "Cousseau Lake Nature Reserve",
+                "fr": "Réserve naturelle de l’Étang de Cousseau"
               },
               "tip_5lang": {
                 "de": "Beobachten Sie Wintervögel; die klare Luft macht das Radeln im Wald zum Genuss.",
                 "hu": "Figyelje a téli madarakat; a fagyos levegőben élmény az erdei tekerés.",
                 "ro": "Observați păsările de iarnă; aerul rece face pedalatul prin pădure o plăcere.",
-                "en": "Spot wintering birds; the crisp, cold air makes pedaling through the forest a joy."
+                "en": "Spot wintering birds; the crisp, cold air makes pedaling through the forest a joy.",
+                "fr": "Observez les oiseaux hivernants ; l’air vif rend le pédalage dans la forêt très agréable."
               }
             },
             {
@@ -618,13 +686,15 @@
                 "de": "Lacanau-Océan Strand",
                 "hu": "Lacanau-Océan strand",
                 "ro": "Plaja Lacanau-Océan",
-                "en": "Lacanau-Océan Beach"
+                "en": "Lacanau-Océan Beach",
+                "fr": "Plage de Lacanau-Océan"
               },
               "tip_5lang": {
                 "de": "Der leere Winterstrand ist spektakulär; ziehen Sie sich warm an gegen den Wind.",
                 "hu": "Az üres téli strand lenyűgöző; öltözzön fel nagyon melegen a parti szél ellen.",
                 "ro": "Plaja goală de iarnă este spectaculoasă; îmbrăcați-vă gros împotriva vântului.",
-                "en": "The empty winter beach is spectacular; layer up heavily against the coastal wind."
+                "en": "The empty winter beach is spectacular; layer up heavily against the coastal wind.",
+                "fr": "La plage vide en hiver est spectaculaire ; habillez-vous en couches épaisses contre le vent côtier."
               }
             },
             {
@@ -632,13 +702,15 @@
                 "de": "Der kleine Strand von Tedey",
                 "hu": "Tedey kis strandja",
                 "ro": "Plaja mică din Tedey",
-                "en": "La petite plage du Tedey"
+                "en": "La petite plage du Tedey",
+                "fr": "La petite plage du Tedey"
               },
               "tip_5lang": {
                 "de": "Kommen Sie vor dem frühen Sonnenuntergang (17 Uhr), um das letzte Licht zu sehen.",
                 "hu": "Érkezzen a korai, 17 órás naplemente előtt, hogy elcsípje az utolsó fényeket.",
                 "ro": "Ajungeți înainte de apusul devreme (17:00) pentru a prinde ultima lumină.",
-                "en": "Arrive before the early sunset (around 5 PM) to catch the fading winter light."
+                "en": "Arrive before the early sunset (around 5 PM) to catch the fading winter light.",
+                "fr": "Arrivez avant le coucher du soleil précoce (vers 17h) pour profiter de la lumière hivernale déclinante."
               }
             }
           ]
@@ -658,7 +730,8 @@
             "de": "Saint-Vincent Kirche",
             "hu": "Saint-Vincent templom",
             "ro": "Biserica Saint-Vincent",
-            "en": "Saint-Vincent Church"
+            "en": "Saint-Vincent Church",
+            "fr": "Église Saint-Vincent"
           },
           "coords": [
             -1.075153,
@@ -673,7 +746,8 @@
             "de": "Bewundern Sie die wunderschönen Buntglasfenster dieser historischen Kirche und kommen Sie früh, um einen ruhigen Moment zu genießen.",
             "hu": "Csodálja meg a történelmi templom gyönyörű ólomüveg ablakait, és érkezzen korán, hogy átélhessen egy csendes pillanatot a város ébredése előtt.",
             "ro": "Admirați vitraliile frumoase ale acestei biserici istorice și sosiți devreme pentru a vă bucura de un moment de liniște.",
-            "en": "Admire the beautiful stained glass windows of this historic church and arrive early to experience a quiet moment before the town wakes up."
+            "en": "Admire the beautiful stained glass windows of this historic church and arrive early to experience a quiet moment before the town wakes up.",
+            "fr": "Admirez les magnifiques vitraux de cette église historique et arrivez tôt pour vivre un moment de quiétude avant le réveil du village."
           }
         },
         {
@@ -681,7 +755,8 @@
             "de": "Seepromenade von Lacanau",
             "hu": "Lacanau tengerparti sétány",
             "ro": "Promenada Lacanau",
-            "en": "Lacanau Seafront Promenade"
+            "en": "Lacanau Seafront Promenade",
+            "fr": "Promenade du front de mer de Lacanau"
           },
           "coords": [
             -1.076515,
@@ -696,7 +771,8 @@
             "de": "Schlendern Sie diese lebhafte Promenade entlang, die wunderschöne Ausblicke auf das Wasser bietet, und vergessen Sie nicht bequeme Schuhe.",
             "hu": "Sétáljon végig ezen a nyüzsgő sétányon, amely gyönyörű kilátást nyújt a vízre, és ne felejtsen el kényelmes cipőt viselni.",
             "ro": "Plimbați-vă de-a lungul acestei promenade pline de viață care oferă vederi frumoase și purtați încălțăminte confortabilă pentru explorare.",
-            "en": "Stroll along this lively promenade offering beautiful views of the water, and don't forget to pack comfortable shoes for a leisurely walk."
+            "en": "Stroll along this lively promenade offering beautiful views of the water, and don't forget to pack comfortable shoes for a leisurely walk.",
+            "fr": "Flânez le long de cette promenade animée offrant de belles vues sur l’eau, et n’oubliez pas des chaussures confortables pour la balade."
           }
         },
         {
@@ -704,7 +780,8 @@
             "de": "See von Lacanau",
             "hu": "Lacanau-tó",
             "ro": "Lacul Lacanau",
-            "en": "Lacanau Lake (Étang de Lacanau)"
+            "en": "Lacanau Lake (Étang de Lacanau)",
+            "fr": "Lac de Lacanau (Étang de Lacanau)"
           },
           "coords": [
             -1.09199,
@@ -719,7 +796,8 @@
             "de": "Mieten Sie ein Stand-Up-Paddle, um das ruhige Wasser des Sees zu erkunden, der einen perfekten natürlichen Rückzugsort vor den Wellen bietet.",
             "hu": "Béreljen evezős deszkát a tó nyugodt, kristálytiszta vizének felfedezéséhez, amely tökéletes természetes menedéket nyújt az óceán hullámaitól.",
             "ro": "Închiriați o placă cu vâsle pentru a explora apele calme ale lacului, care oferă un refugiu natural perfect departe de valurile oceanului.",
-            "en": "Rent a paddleboard to explore the calm, crystal-clear waters of the lake, which provides a perfect natural retreat away from the ocean waves."
+            "en": "Rent a paddleboard to explore the calm, crystal-clear waters of the lake, which provides a perfect natural retreat away from the ocean waves.",
+            "fr": "Louez un paddle pour explorer les eaux calmes et cristallines du lac, un parfait refuge naturel loin des vagues océaniques."
           }
         },
         {
@@ -727,7 +805,8 @@
             "de": "Teich von Cousseau",
             "hu": "Cousseau-tó",
             "ro": "Iazul Cousseau",
-            "en": "Étang de Cousseau"
+            "en": "Étang de Cousseau",
+            "fr": "Étang de Cousseau"
           },
           "coords": [
             -1.142588,
@@ -742,7 +821,8 @@
             "de": "Wandern Sie auf den schattigen Pfaden um diesen unberührten Teich, um seltene Dünenflora zu entdecken, und verwenden Sie vorab Insektenschutz.",
             "hu": "Túrázzon az érintetlen tavacskát körülvevő árnyékos ösvényeken a ritka dűnenövényzet felfedezéséhez, és használjon szúnyogriasztót a séta előtt.",
             "ro": "Faceți drumeții pe traseele umbrite din jurul acestui iaz pentru a descoperi flora rară a dunelor, aplicând un repelent de țânțari înainte.",
-            "en": "Hike the shaded trails surrounding this pristine pond to discover rare dune flora, applying mosquito repellent before you start your forest walk."
+            "en": "Hike the shaded trails surrounding this pristine pond to discover rare dune flora, applying mosquito repellent before you start your forest walk.",
+            "fr": "Randonnez sur les sentiers ombragés autour de cet étang préservé pour découvrir la flore dunaire rare, et appliquez un répulsif anti-moustiques avant votre promenade forestière."
           }
         },
         {
@@ -750,7 +830,8 @@
             "de": "Naturschutzgebiet See Cousseau",
             "hu": "Cousseau-tó Természetvédelmi Terület",
             "ro": "Rezervația Naturală Lacul Cousseau",
-            "en": "Cousseau Lake Nature Reserve"
+            "en": "Cousseau Lake Nature Reserve",
+            "fr": "Réserve naturelle de l’Étang de Cousseau"
           },
           "coords": [
             -1.138883,
@@ -765,7 +846,8 @@
             "de": "Besteigen Sie die hölzernen Aussichtstürme, um verschiedene Vogelarten zu beobachten, und bringen Sie ein Fernglas für das beste Erlebnis mit.",
             "hu": "Másszon fel a fából készült kilátótornyokba a madárfajok megfigyeléséhez, és hozzon magával távcsövet a legjobb vadvilági élmény érdekében.",
             "ro": "Urcați în turnurile de observație din lemn pentru a vedea diverse specii de păsări și luați un binoclu pentru o experiență perfectă.",
-            "en": "Climb the wooden observation towers to spot diverse bird species in the marshland, and carry binoculars for the best wildlife viewing experience."
+            "en": "Climb the wooden observation towers to spot diverse bird species in the marshland, and carry binoculars for the best wildlife viewing experience.",
+            "fr": "Montez dans les tours d’observation en bois pour repérer diverses espèces d’oiseaux dans les marais, et emportez des jumelles pour une meilleure observation."
           }
         },
         {
@@ -773,7 +855,8 @@
             "de": "Lacanau-Océan Strand",
             "hu": "Lacanau-Océan strand",
             "ro": "Plaja Lacanau-Océan",
-            "en": "Lacanau-Océan Beach"
+            "en": "Lacanau-Océan Beach",
+            "fr": "Plage de Lacanau-Océan"
           },
           "coords": [
             -1.203055,
@@ -788,7 +871,8 @@
             "de": "Beobachten Sie professionelle Surfer auf den beeindruckenden Wellen des Atlantiks und schwimmen Sie immer nur in den markierten bewachten Zonen.",
             "hu": "Figyelje meg, ahogy a profi szörfösök megküzdenek az atlanti hullámokkal, és mindig szigorúan a kijelölt vízimentők által felügyelt zónákban ússzon.",
             "ro": "Priviți surferii profesioniști cum abordează valurile impresionante ale Atlanticului și înotați întotdeauna doar în zonele marcate de salvamari.",
-            "en": "Watch professional surfers tackle the impressive Atlantic waves at this iconic beach, and always swim strictly within the marked lifeguard zones."
+            "en": "Watch professional surfers tackle the impressive Atlantic waves at this iconic beach, and always swim strictly within the marked lifeguard zones.",
+            "fr": "Admirez les surfeurs professionnels affronter les vagues atlantiques impressionnantes sur cette plage emblématique, et nagez uniquement dans les zones surveillées balisées par les maîtres-nageurs."
           }
         },
         {
@@ -796,7 +880,8 @@
             "de": "Casino von Lacanau",
             "hu": "Lacanau Kaszinó",
             "ro": "Cazinoul din Lacanau",
-            "en": "Casino of Lacanau"
+            "en": "Casino of Lacanau",
+            "fr": "Casino de Lacanau"
           },
           "coords": [
             -1.140813,
@@ -811,7 +896,8 @@
             "de": "Beenden Sie Ihren Tag mit Spielen oder einem Cocktail im Casino, wobei Sie daran denken sollten, einen gültigen Ausweis für den Eintritt mitzuführen.",
             "hu": "Zárja a napot izgalmas játékokkal vagy egy frissítő koktéllal a kaszinóban, és ne felejtse el magával vinni érvényes személyi igazolványát a belépéshez.",
             "ro": "Încheiați ziua cu jocuri interesante sau un cocktail la cazinou, amintindu-vă să aveți la voi un act de identitate valabil pentru a putea intra.",
-            "en": "End your day with some exciting games or a refreshing cocktail at the casino, remembering to carry a valid ID for entry into the gaming areas."
+            "en": "End your day with some exciting games or a refreshing cocktail at the casino, remembering to carry a valid ID for entry into the gaming areas.",
+            "fr": "Terminez la journée avec des jeux enthousiasmants ou un cocktail rafraîchissant au casino, en pensant à emporter une pièce d’identité valide pour accéder aux salles de jeu."
           }
         }
       ],
@@ -819,7 +905,8 @@
         "de": "Beginnen Sie Ihren Morgen im historischen Herzen von Lacanau mit einem Besuch der charmanten Kirche und einem Spaziergang an der Promenade.\nGegen Mittag tauchen Sie in die natürliche Ruhe der Umgebung ein und erkunden die Ufer des weiten Lacanau-Sees sowie die unberührten Naturschutzgebiete.\nAm Nachmittag zieht es Sie zu den von Kiefern gesäumten Stränden und der dramatischen Ozeanküste, wo Sie die beeindruckenden Surfer beobachten können.\nLassen Sie den Tag entspannt ausklingen, sei es bei einem atemberaubenden Sonnenuntergang am Strand oder mit etwas Glück im lebhaften lokalen Casino.",
         "hu": "Kezdje a reggelt Lacanau történelmi központjában, látogasson el a hangulatos helyi templomba, és tegyen egy békés sétát a tóparti sétányon.\nDélben merüljön el a környék természetes nyugalmában, fedezze fel a hatalmas Lacanau-tó partját és a közeli érintetlen természetvédelmi területeket.\nDélután induljon a fenyőfákkal szegélyezett strandok és a drámai óceánpart felé, élvezze a napsütést, és figyelje a hatalmas hullámokat meglovagló szörfösöket.\nZárja a napot egy pihentető estével, legyen szó a naplemente megcsodálásáról a homokos parton, vagy egy kis szerencsejátékról a nyüzsgő helyi kaszinóban.",
         "ro": "Începeți dimineața în centrul istoric al orașului Lacanau, vizitând biserica fermecătoare și bucurându-vă de o plimbare liniștită pe promenadă.\nLa prânz, cufundați-vă în liniștea naturală a zonei vizitând țărmurile lacului extins Lacanau și rezervațiile naturale imaculate din apropiere.\nDupă-amiaza, îndreptați-vă spre plajele mărginite de pini și spre coasta dramatică a oceanului, bucurându-vă de soare și privind surferii experimentați.\nÎncheiați-vă ziua cu o seară relaxantă, fie admirând un apus de soare pe plajă, fie încercându-vă norocul la cazinoul local plin de viață.",
-        "en": "Start your morning in the historic heart of Lacanau, visiting the charming local church and enjoying a peaceful stroll along the lakeside promenade.\nBy midday, immerse yourself in the natural tranquility of the area by visiting the shores of the expansive Lacanau Lake and nearby pristine reserves.\nIn the afternoon, head towards the pine-fringed beaches and the dramatic ocean coast, soaking in the sun and watching the surfers brave the impressive waves.\nConclude your day with a relaxed evening, whether watching the sunset from the sands or trying your luck at the vibrant local casino before dinner."
+        "en": "Start your morning in the historic heart of Lacanau, visiting the charming local church and enjoying a peaceful stroll along the lakeside promenade.\nBy midday, immerse yourself in the natural tranquility of the area by visiting the shores of the expansive Lacanau Lake and nearby pristine reserves.\nIn the afternoon, head towards the pine-fringed beaches and the dramatic ocean coast, soaking in the sun and watching the surfers brave the impressive waves.\nConclude your day with a relaxed evening, whether watching the sunset from the sands or trying your luck at the vibrant local casino before dinner.",
+        "fr": "Commencez la matinée au cœur historique de Lacanau, en visitant la charmante église locale et en profitant d’une paisible promenade le long de la promenade du lac.\nÀ midi, imprégnez-vous de la tranquillité naturelle des lieux en visitant les rives du vaste lac de Lacanau et les réserves voisines préservées.\nL’après-midi, dirigez-vous vers les plages bordées de pins et la côte océanique spectaculaire, au soleil en regardant les surfeurs affronter les vagues impressionnantes.\nConcluez la journée par une soirée détendue, en regardant le coucher du soleil depuis le sable ou en tentant votre chance au casino local animé avant le dîner."
       },
       "variants": {
         "rainy": {
@@ -827,7 +914,8 @@
             "de": "Fahren Sie morgens zur Kirche und wagen Sie einen kurzen, nassen Blick auf die Promenade.\n\nMittags beobachten Sie den nebligen See bequem aus dem Auto.\n\nNachmittags lassen Sie bei Cousseau und am Strand die Scheibenwischer arbeiten.\n\nAbends bietet das Kasino ein perfektes, trockenes Versteck.",
             "hu": "Reggel vezessen a templomhoz, majd vessen egy gyors, esernyős pillantást a sétányra.\n\nDélben a fűtött autóból csodálhatja a ködbe burkolózó tavat.\n\nDélután az ablaktörlőkön át figyelje a rezervátumot és a vad óceánt.\n\nEste a kaszinó garantáltan száraz és meleg menedéket nyújt.",
             "ro": "Conduceți dimineața la biserică și faceți o scurtă plimbare umedă pe promenadă.\n\nLa prânz, priviți lacul cețos din confortul mașinii.\n\nDupă-amiaza, explorați Cousseau și plaja cu ștergătoarele pornite.\n\nSeara, cazinoul oferă un refugiu perfect și uscat împotriva ploii.",
-            "en": "Drive to the church in the morning and take a brief, wet look at the promenade.\n\nBy midday, watch the foggy lake from the comfort of your heated car.\n\nIn the afternoon, explore Cousseau and the wild beach with the wipers going.\n\nEnd the evening perfectly dry inside the local casino."
+            "en": "Drive to the church in the morning and take a brief, wet look at the promenade.\n\nBy midday, watch the foggy lake from the comfort of your heated car.\n\nIn the afternoon, explore Cousseau and the wild beach with the wipers going.\n\nEnd the evening perfectly dry inside the local casino.",
+            "fr": "Conduisez jusqu’à l’église le matin et jetez un bref coup d’œil humide à la promenade.\n\nÀ midi, regardez le lac brumeux depuis le confort de votre voiture chauffée.\n\nL’après-midi, explorez Cousseau et la plage sauvage avec les essuie-glaces en marche.\n\nTerminez la soirée bien au sec à l’intérieur du casino local."
           },
           "stops": [
             {
@@ -835,13 +923,15 @@
                 "de": "Saint-Vincent Kirche",
                 "hu": "Saint-Vincent templom",
                 "ro": "Biserica Saint-Vincent",
-                "en": "Saint-Vincent Church"
+                "en": "Saint-Vincent Church",
+                "fr": "Église Saint-Vincent"
               },
               "tip_5lang": {
                 "de": "Einfaches Parken im Regen; flüchten Sie schnell in die trockene, ruhige Kirche.",
                 "hu": "Könnyű parkolás az esőben; meneküljön be gyorsan a száraz, csendes templomba.",
                 "ro": "Parcare ușoară pe ploaie; refugiați-vă rapid în biserica uscată și liniștită.",
-                "en": "Easy parking in the rain; dash quickly inside to the dry, quiet atmosphere."
+                "en": "Easy parking in the rain; dash quickly inside to the dry, quiet atmosphere.",
+                "fr": "Stationnement facile sous la pluie ; courez rapidement à l’intérieur pour profiter de l’atmosphère sèche et calme."
               }
             },
             {
@@ -849,13 +939,15 @@
                 "de": "Seepromenade von Lacanau",
                 "hu": "Lacanau tengerparti sétány",
                 "ro": "Promenada Lacanau",
-                "en": "Lacanau Seafront Promenade"
+                "en": "Lacanau Seafront Promenade",
+                "fr": "Promenade du front de mer de Lacanau"
               },
               "tip_5lang": {
                 "de": "Beobachten Sie den stürmischen Ozean bequem aus dem Auto oder mit Regenschirm.",
                 "hu": "Nézze a viharos óceánt az autó kényelméből, vagy tegyen egy esernyős sétát.",
                 "ro": "Priviți oceanul furtunos din confortul mașinii sau ieșiți scurt cu o umbrelă.",
-                "en": "Watch the stormy ocean from the comfort of your car, or take a brief umbrella walk."
+                "en": "Watch the stormy ocean from the comfort of your car, or take a brief umbrella walk.",
+                "fr": "Regardez l’océan orageux depuis le confort de votre voiture, ou faites une brève promenade sous parapluie."
               }
             },
             {
@@ -863,13 +955,15 @@
                 "de": "See von Lacanau",
                 "hu": "Lacanau-tó",
                 "ro": "Lacul Lacanau",
-                "en": "Lacanau Lake (Étang de Lacanau)"
+                "en": "Lacanau Lake (Étang de Lacanau)",
+                "fr": "Lac de Lacanau (Étang de Lacanau)"
               },
               "tip_5lang": {
                 "de": "Der Regen erzeugt mystischen Nebel; parken Sie nah am Wasser für tolle Sicht.",
                 "hu": "Az eső misztikus ködöt hoz létre; parkoljon a víz közelében a kilátásért.",
                 "ro": "Ploaia creează o ceață mistică; parcați aproape de apă pentru o priveliște excelentă.",
-                "en": "The rain creates mystical fog; park close to the water for an excellent cozy view."
+                "en": "The rain creates mystical fog; park close to the water for an excellent cozy view.",
+                "fr": "La pluie crée un brouillard mystique ; garez-vous près de l’eau pour une excellente vue cocooning."
               }
             },
             {
@@ -877,13 +971,15 @@
                 "de": "Teich von Cousseau",
                 "hu": "Cousseau-tó",
                 "ro": "Iazul Cousseau",
-                "en": "Étang de Cousseau"
+                "en": "Étang de Cousseau",
+                "fr": "Étang de Cousseau"
               },
               "tip_5lang": {
                 "de": "Die Fahrt ist auch bei Regen schön; halten Sie einen Regenschirm im Kofferraum.",
                 "hu": "Az út esőben is gyönyörű; tartson egy nagy esernyőt a csomagtartóban.",
                 "ro": "Drumul este frumos chiar și pe ploaie; păstrați o umbrelă mare în portbagaj.",
-                "en": "The drive is beautiful even in the rain; keep a large umbrella in the trunk."
+                "en": "The drive is beautiful even in the rain; keep a large umbrella in the trunk.",
+                "fr": "La route est belle même sous la pluie ; gardez un grand parapluie dans le coffre."
               }
             },
             {
@@ -891,13 +987,15 @@
                 "de": "Naturschutzgebiet See Cousseau",
                 "hu": "Cousseau-tó Természetvédelmi Terület",
                 "ro": "Rezervația Naturală Lacul Cousseau",
-                "en": "Cousseau Lake Nature Reserve"
+                "en": "Cousseau Lake Nature Reserve",
+                "fr": "Réserve naturelle de l’Étang de Cousseau"
               },
               "tip_5lang": {
                 "de": "Tragen Sie wasserfeste Schuhe; der Regen bringt die Waldtiere zur Ruhe.",
                 "hu": "Viseljen vízálló cipőt; az esőben az erdei színek sokkal élénkebbnek tűnnek.",
                 "ro": "Purtați încălțăminte impermeabilă; ploaia face culorile pădurii mai vibrante.",
-                "en": "Wear waterproof boots; the rain makes the forest colors appear much more vibrant."
+                "en": "Wear waterproof boots; the rain makes the forest colors appear much more vibrant.",
+                "fr": "Portez des bottes imperméables ; la pluie rend les couleurs de la forêt beaucoup plus vives."
               }
             },
             {
@@ -905,13 +1003,15 @@
                 "de": "Lacanau-Océan Strand",
                 "hu": "Lacanau-Océan strand",
                 "ro": "Plaja Lacanau-Océan",
-                "en": "Lacanau-Océan Beach"
+                "en": "Lacanau-Océan Beach",
+                "fr": "Plage de Lacanau-Océan"
               },
               "tip_5lang": {
                 "de": "Sturmbeobachtung ist hier spannend; bleiben Sie nah am schützenden Parkplatz.",
                 "hu": "A viharok megfigyelése izgalmas; maradjon a védelmet nyújtó parkoló közelében.",
                 "ro": "Observarea furtunii este fascinantă; rămâneți aproape de parcarea protectoare.",
-                "en": "Storm watching is thrilling here; stay near the protective parking area."
+                "en": "Storm watching is thrilling here; stay near the protective parking area.",
+                "fr": "Observer la tempête est palpitant ici ; restez près de la zone de stationnement protégée."
               }
             },
             {
@@ -919,13 +1019,15 @@
                 "de": "Casino von Lacanau",
                 "hu": "Lacanau Kaszinó",
                 "ro": "Cazinoul din Lacanau",
-                "en": "Casino of Lacanau"
+                "en": "Casino of Lacanau",
+                "fr": "Casino de Lacanau"
               },
               "tip_5lang": {
                 "de": "Beenden Sie die nasse Tour mit garantierter Trockenheit und Wärme im Kasino.",
                 "hu": "Zárja a vizes túrát garantált szárazsággal és melegséggel a kaszinóban.",
                 "ro": "Încheiați turul umed cu un mediu garantat uscat și cald în interiorul cazinoului.",
-                "en": "End your wet driving tour with guaranteed dryness and warmth inside the casino."
+                "en": "End your wet driving tour with guaranteed dryness and warmth inside the casino.",
+                "fr": "Terminez votre circuit humide en voiture avec chaleur et sécheresse garanties à l’intérieur du casino."
               }
             }
           ]
@@ -935,7 +1037,8 @@
             "de": "Im warmen Auto geht es morgens zur Kirche und zur stürmischen Promenade.\n\nMittags bietet die Fahrt am Seeufer herrliche Winterpanoramen.\n\nNachmittags erleben Sie die frostige Natur in Cousseau und am leeren Ozeanstrand.\n\nAbends suchen Sie nach dem frühen Sonnenuntergang die Wärme des Kasinos.",
             "hu": "A fűtött autóval kényelmesen érheti el a templomot és a szeles sétányt reggel.\n\nDélben a tóparti vezetés csodás téli panorámát kínál.\n\nDélután a zord, fagyos rezervátum és a kihalt óceánpart nyújt lenyűgöző látványt.\n\nA korai sötétedés után az estét a kaszinó melegében töltheti.",
             "ro": "Mergeți cu mașina caldă dimineața la biserică și pe promenada vântoasă.\n\nLa prânz, drumul pe malul lacului oferă panorame superbe de iarnă.\n\nDupă-amiaza, experimentați natura înghețată la Cousseau și plaja pustie.\n\nSeara, după apusul devreme, căutați căldura primitoare a cazinoului.",
-            "en": "Take your warm car to the church and the breezy promenade in the morning.\n\nBy midday, the lakeside drive offers stunning winter panoramas.\n\nIn the afternoon, experience the frosty nature at Cousseau and the empty ocean beach.\n\nEvening brings early darkness, perfect for the warm casino."
+            "en": "Take your warm car to the church and the breezy promenade in the morning.\n\nBy midday, the lakeside drive offers stunning winter panoramas.\n\nIn the afternoon, experience the frosty nature at Cousseau and the empty ocean beach.\n\nEvening brings early darkness, perfect for the warm casino.",
+            "fr": "Emmenez votre voiture chaude à l’église et à la promenade venteuse le matin.\n\nÀ midi, la route au bord du lac offre des panoramas hivernaux époustouflants.\n\nL’après-midi, découvrez la nature givrée à Cousseau et la plage océanique déserte.\n\nLa soirée apporte l’obscurité précoce, idéale pour le casino chaleureux."
           },
           "stops": [
             {
@@ -943,13 +1046,15 @@
                 "de": "Saint-Vincent Kirche",
                 "hu": "Saint-Vincent templom",
                 "ro": "Biserica Saint-Vincent",
-                "en": "Saint-Vincent Church"
+                "en": "Saint-Vincent Church",
+                "fr": "Église Saint-Vincent"
               },
               "tip_5lang": {
                 "de": "Wärmen Sie das Auto vor; die Kirche wirkt im winterlichen Morgen wunderschön.",
                 "hu": "Fűtse elő az autót; a templom lenyűgözően mutat a csípős téli reggelen.",
                 "ro": "Încălziți mașina înainte; biserica arată superb în dimineața rece de iarnă.",
-                "en": "Warm up the car first; the church looks beautifully stark in the winter morning."
+                "en": "Warm up the car first; the church looks beautifully stark in the winter morning.",
+                "fr": "Réchauffez d’abord la voiture ; l’église apparaît magnifiquement austère par la matinée hivernale."
               }
             },
             {
@@ -957,13 +1062,15 @@
                 "de": "Seepromenade von Lacanau",
                 "hu": "Lacanau tengerparti sétány",
                 "ro": "Promenada Lacanau",
-                "en": "Lacanau Seafront Promenade"
+                "en": "Lacanau Seafront Promenade",
+                "fr": "Promenade du front de mer de Lacanau"
               },
               "tip_5lang": {
                 "de": "Spüren Sie den eisigen Wind und flüchten Sie dann schnell zurück ins warme Auto.",
                 "hu": "Érezze a fagyos szelet, majd meneküljön vissza a meleg autó kényelmébe.",
                 "ro": "Simțiți vântul înghețat, apoi refugiați-vă rapid înapoi în mașina încălzită.",
-                "en": "Feel the freezing wind briefly, then escape quickly back into your heated car."
+                "en": "Feel the freezing wind briefly, then escape quickly back into your heated car.",
+                "fr": "Ressentez le vent glacial brièvement, puis repliez-vous rapidement dans votre voiture chauffée."
               }
             },
             {
@@ -971,13 +1078,15 @@
                 "de": "See von Lacanau",
                 "hu": "Lacanau-tó",
                 "ro": "Lacul Lacanau",
-                "en": "Lacanau Lake (Étang de Lacanau)"
+                "en": "Lacanau Lake (Étang de Lacanau)",
+                "fr": "Lac de Lacanau (Étang de Lacanau)"
               },
               "tip_5lang": {
                 "de": "Die tiefe Wintersonne spiegelt sich herrlich; ein perfekter Fotostopp vom Parkplatz.",
                 "hu": "Az alacsony téli nap csodásan tükröződik; tökéletes fotós megálló a parkolóból.",
                 "ro": "Soarele de iarnă se reflectă superb; o oprire perfectă pentru poze din parcare.",
-                "en": "The low winter sun reflects beautifully; a perfect photo stop right from the parking."
+                "en": "The low winter sun reflects beautifully; a perfect photo stop right from the parking.",
+                "fr": "Le faible soleil d’hiver se reflète magnifiquement ; parfait pour un arrêt photo depuis le parking."
               }
             },
             {
@@ -985,13 +1094,15 @@
                 "de": "Teich von Cousseau",
                 "hu": "Cousseau-tó",
                 "ro": "Iazul Cousseau",
-                "en": "Étang de Cousseau"
+                "en": "Étang de Cousseau",
+                "fr": "Étang de Cousseau"
               },
               "tip_5lang": {
                 "de": "Genießen Sie die kahlen Bäume während der Fahrt; die Winterlandschaft ist extrem friedlich.",
                 "hu": "Élvezze a kopasz fák látványát vezetés közben; a téli táj rendkívül békés.",
                 "ro": "Bucurați-vă de copacii golași în timpul condusului; peisajul de iarnă e foarte pașnic.",
-                "en": "Enjoy the bare trees during the drive; the winter landscape is extremely peaceful."
+                "en": "Enjoy the bare trees during the drive; the winter landscape is extremely peaceful.",
+                "fr": "Appréciez les arbres dépouillés pendant la route ; le paysage hivernal est extrêmement paisible."
               }
             },
             {
@@ -999,13 +1110,15 @@
                 "de": "Naturschutzgebiet See Cousseau",
                 "hu": "Cousseau-tó Természetvédelmi Terület",
                 "ro": "Rezervația Naturală Lacul Cousseau",
-                "en": "Cousseau Lake Nature Reserve"
+                "en": "Cousseau Lake Nature Reserve",
+                "fr": "Réserve naturelle de l’Étang de Cousseau"
               },
               "tip_5lang": {
                 "de": "Die kalte Luft ist ideal für kurze Spaziergänge; tragen Sie eine dicke Mütze.",
                 "hu": "A hideg levegő ideális rövid sétákhoz; viseljen vastag sapkát és sálat.",
                 "ro": "Aerul rece e ideal pentru o plimbare scurtă; purtați o căciulă și un fular gros.",
-                "en": "The cold air is ideal for a short walk; make sure to wear a thick winter hat."
+                "en": "The cold air is ideal for a short walk; make sure to wear a thick winter hat.",
+                "fr": "L’air froid est idéal pour une courte promenade ; pensez à porter un bonnet d’hiver épais."
               }
             },
             {
@@ -1013,13 +1126,15 @@
                 "de": "Lacanau-Océan Strand",
                 "hu": "Lacanau-Océan strand",
                 "ro": "Plaja Lacanau-Océan",
-                "en": "Lacanau-Océan Beach"
+                "en": "Lacanau-Océan Beach",
+                "fr": "Plage de Lacanau-Océan"
               },
               "tip_5lang": {
                 "de": "Die Winterwellen sind gewaltig; genießen Sie die rohe Natur vor der frühen Dämmerung.",
                 "hu": "A téli hullámok hatalmasak; élvezze a nyers természetet a korai sötétedés előtt.",
                 "ro": "Valurile de iarnă sunt uriașe; bucurați-vă de natura brută înainte de apus.",
-                "en": "The winter waves are massive; enjoy the raw nature before the early afternoon dusk."
+                "en": "The winter waves are massive; enjoy the raw nature before the early afternoon dusk.",
+                "fr": "Les vagues hivernales sont immenses ; profitez de la nature brute avant le crépuscule de l’après-midi."
               }
             },
             {
@@ -1027,13 +1142,15 @@
                 "de": "Casino von Lacanau",
                 "hu": "Lacanau Kaszinó",
                 "ro": "Cazinoul din Lacanau",
-                "en": "Casino of Lacanau"
+                "en": "Casino of Lacanau",
+                "fr": "Casino de Lacanau"
               },
               "tip_5lang": {
                 "de": "Wenn es um 17 Uhr dunkel wird, laden die hellen Lichter des Kasinos zum Abend ein.",
                 "hu": "Amikor ötkor besötétedik, a kaszinó fényei tökéletes esti programot kínálnak.",
                 "ro": "Când se întunecă la ora 17:00, luminile cazinoului vă invită la o seară perfectă.",
-                "en": "When it gets dark around 5 PM, the bright lights of the casino invite you in."
+                "en": "When it gets dark around 5 PM, the bright lights of the casino invite you in.",
+                "fr": "Quand l’obscurité tombe vers 17h, les lumières vives du casino vous invitent à l’intérieur."
               }
             }
           ]

@@ -21,7 +21,8 @@
             "de": "Kriegerdenkmal von Rouvroy",
             "hu": "Rouvroy Háborús Emlékmű",
             "ro": "Monumentul Eroilor din Rouvroy",
-            "en": "War Memorial of Rouvroy"
+            "en": "War Memorial of Rouvroy",
+            "fr": "Monument aux morts de Rouvroy"
           },
           "coords": [
             2.905648,
@@ -36,7 +37,8 @@
             "de": "Bewundern Sie das ergreifende Kriegerdenkmal zu Ehren lokaler Helden und nehmen Sie sich einen Moment Zeit, um über die reiche Geschichte nachzudenken.",
             "hu": "Csodálja meg a helyi hősök előtt tisztelgő megható háborús emlékművet, és szánjon egy percet Rouvroy gazdag történelmének elmélyült átgondolására.",
             "ro": "Admirați impresionantul monument dedicat eroilor locali și luați-vă un moment pentru a reflecta asupra istoriei bogate a orașului într-un cadru liniștit.",
-            "en": "Admire the poignant War Memorial honoring local heroes, and take a moment to reflect on Rouvroy's rich history while enjoying the tranquil surroundings."
+            "en": "Admire the poignant War Memorial honoring local heroes, and take a moment to reflect on Rouvroy's rich history while enjoying the tranquil surroundings.",
+            "fr": "Admirez le poignant Monument aux morts honorant les héros locaux et prenez un moment pour réfléchir à l'histoire de Rouvroy tout en profitant du cadre paisible."
           }
         },
         {
@@ -44,7 +46,8 @@
             "de": "Abraumhalden von Rouvroy",
             "hu": "Rouvroy Meddőhányói",
             "ro": "Haldele de Steril din Rouvroy",
-            "en": "Slag Heaps of Rouvroy"
+            "en": "Slag Heaps of Rouvroy",
+            "fr": "Terrils de Rouvroy"
           },
           "coords": [
             2.903673,
@@ -59,7 +62,8 @@
             "de": "Erklimmen Sie die markanten Abraumhalden für atemberaubende Panoramablicke und tragen Sie bequeme Schuhe, um das historische Bergbaugebiet sicher zu erkunden.",
             "hu": "Mássza meg az ikonikus meddőhányókat a lélegzetelállító panorámáért, és viseljen kényelmes cipőt a történelmi bányaterület biztonságos felfedezéséhez.",
             "ro": "Urcați pe iconicele halde de steril pentru a admira priveliști panoramice uluitoare, purtând încălțăminte confortabilă pentru a explora în siguranță zona.",
-            "en": "Climb the iconic Slag Heaps to experience breathtaking panoramic views of the region and wear comfortable shoes to navigate the historic mining terrain safely."
+            "en": "Climb the iconic Slag Heaps to experience breathtaking panoramic views of the region and wear comfortable shoes to navigate the historic mining terrain safely.",
+            "fr": "Grimpez les terrils emblématiques pour profiter d'une vue panoramique à couper le souffle sur la région et portez des chaussures confortables pour circuler en toute sécurité sur ce terrain minier historique."
           }
         },
         {
@@ -67,7 +71,8 @@
             "de": "Cité Nouméa",
             "hu": "Cité Nouméa",
             "ro": "Cité Nouméa",
-            "en": "Cité Nouméa"
+            "en": "Cité Nouméa",
+            "fr": "Cité Nouméa"
           },
           "coords": [
             2.912579,
@@ -82,7 +87,8 @@
             "de": "Erkunden Sie den architektonischen Charme der Cité Nouméa, um das Bergbauerbe zu verstehen, und bringen Sie Ihre Kamera für die einzigartigen Backsteinhäuser mit.",
             "hu": "Fedezze fel a Cité Nouméa építészeti varázsát, hogy megértse a bányászati örökséget, és ne felejtse el fényképezőgépét az egyedi téglaházak megörökítéséhez.",
             "ro": "Explorați farmecul arhitectural al Cité Nouméa pentru a înțelege patrimoniul minier și nu uitați aparatul foto pentru a surprinde casele unice din cărămidă.",
-            "en": "Explore the architectural charm of Cité Nouméa to understand the region's mining heritage, and don't forget your camera to capture the unique brick houses."
+            "en": "Explore the architectural charm of Cité Nouméa to understand the region's mining heritage, and don't forget your camera to capture the unique brick houses.",
+            "fr": "Explorez le charme architectural de la Cité Nouméa pour comprendre le patrimoine minier de la région, et n'oubliez pas votre appareil photo pour immortaliser les maisons en briques uniques."
           }
         },
         {
@@ -90,7 +96,8 @@
             "de": "Kirche Saint-Louis",
             "hu": "Saint-Louis Templom",
             "ro": "Biserica Saint-Louis",
-            "en": "Saint-Louis Church"
+            "en": "Saint-Louis Church",
+            "fr": "Église Saint-Louis"
           },
           "coords": [
             2.912579,
@@ -105,7 +112,8 @@
             "de": "Betreten Sie die wunderschön gestaltete Kirche Saint-Louis, um ihre atemberaubenden Buntglasfenster zu bewundern, und besuchen Sie sie am besten morgens.",
             "hu": "Lépjen be a gyönyörűen kidolgozott Saint-Louis templomba, csodálja meg az ólomüveg ablakokat, és a legjobb fényviszonyokért próbáljon délelőtt érkezni.",
             "ro": "Pășiți în minunata biserică Saint-Louis pentru a admira vitraliile uimitoare, fiind recomandat să o vizitați dimineața pentru cea mai bună lumină naturală.",
-            "en": "Step inside the beautifully crafted Saint-Louis Church to admire its stunning stained glass windows, and visit during morning hours for the best natural lighting."
+            "en": "Step inside the beautifully crafted Saint-Louis Church to admire its stunning stained glass windows, and visit during morning hours for the best natural lighting.",
+            "fr": "Pénétrez dans la magnifiquement réalisée Église Saint-Louis pour admirer ses superbes vitraux, et visitez-la le matin pour bénéficier du meilleur éclairage naturel."
           }
         },
         {
@@ -113,7 +121,8 @@
             "de": "Église Saint-Léger",
             "hu": "Église Saint-Léger",
             "ro": "Église Saint-Léger",
-            "en": "Église Saint-Léger"
+            "en": "Église Saint-Léger",
+            "fr": "Église Saint-Léger"
           },
           "coords": [
             2.926926,
@@ -128,7 +137,8 @@
             "de": "Entdecken Sie die friedliche Atmosphäre der Église Saint-Léger, die einen ruhigen Rückzugsort bietet, und achten Sie besonders auf die feinen Holzarbeiten.",
             "hu": "Fedezze fel az Église Saint-Léger békés légkörét, amely csendes menedéket kínál a nyüzsgő utcák elől, és szánjon időt a bonyolult famunkák megfigyelésére.",
             "ro": "Descoperiți atmosfera pașnică a bisericii Saint-Léger, care oferă un refugiu liniștit, și alocați-vă timp pentru a remarca detaliile complicate din lemn.",
-            "en": "Discover the peaceful atmosphere of Église Saint-Léger, which offers a quiet retreat from the bustling streets, and take time to notice the intricate woodwork inside."
+            "en": "Discover the peaceful atmosphere of Église Saint-Léger, which offers a quiet retreat from the bustling streets, and take time to notice the intricate woodwork inside.",
+            "fr": "Découvrez l'atmosphère paisible de l'Église Saint-Léger, qui offre un refuge tranquille loin de l'effervescence des rues, et prenez le temps d'observer les sculptures complexes en bois à l'intérieur."
           }
         }
       ],
@@ -136,7 +146,8 @@
         "de": "Beginnen Sie Ihren Tag in Rouvroy mit der Erkundung des bürgerlichen Herzens und erklimmen Sie die markanten Abraumhalden für einen weiten Blick auf das Bergbauerbe. Mittags schlendern Sie durch die charmanten Straßen der Cité Nouméa und besuchen die Kirche Saint-Louis. Am Nachmittag entdecken Sie weitere historische Kirchen. Lassen Sie den Tag mit dem tiefen Geschichtsbewusstsein ausklingen.",
         "hu": "Kezdje a rouvroy-i napot a polgári központ felfedezésével és a meddőhányók megmászásával, ahonnan csodás kilátás nyílik a bányászati örökségre. Délben sétáljon végig a Cité Nouméa bájos utcáin, és látogassa meg a Saint-Louis templomot. A délután folyamán fedezze fel a tájat tarkító történelmi templomokat. Zárja a napot Észak-Franciaország gazdag történelmével gazdagodva.",
         "ro": "Începeți ziua în Rouvroy explorând centrul civic și urcând pe haldele de steril pentru o priveliște vastă a moștenirii miniere. La prânz, plimbați-vă pe străzile fermecătoare din Cité Nouméa și vizitați biserica Saint-Louis. După-amiaza este dedicată descoperirii mai multor biserici de patrimoniu care presară peisajul. Încheiați-vă ziua îmbogățiți de istoria profundă a nordului Franței.",
-        "en": "Begin your Rouvroy day exploring its civic heart and climbing the iconic Slag Heaps for a sprawling view of its mining legacy. Midday takes you through the charming streets of Cité Nouméa, paired with the serene beauty of the Saint-Louis Church. The afternoon consists of discovering multiple heritage churches that dot the landscape. Wrap up your day enriched by northern France's deep history."
+        "en": "Begin your Rouvroy day exploring its civic heart and climbing the iconic Slag Heaps for a sprawling view of its mining legacy. Midday takes you through the charming streets of Cité Nouméa, paired with the serene beauty of the Saint-Louis Church. The afternoon consists of discovering multiple heritage churches that dot the landscape. Wrap up your day enriched by northern France's deep history.",
+        "fr": "Commencez votre journée à Rouvroy en explorant son cœur civique et en grimpant les terrils emblématiques pour une vue étendue sur son héritage minier. À midi, promenez-vous dans les charmantes rues de la Cité Nouméa, accompagnées de la sérénité de l'Église Saint-Louis. L'après-midi consiste à découvrir plusieurs églises patrimoniales qui parsèment le paysage. Achevez votre journée enrichi par la profonde histoire du nord de la France."
       },
       "variants": {
         "rainy": {
@@ -144,7 +155,8 @@
             "de": "Beginnen Sie am Kriegerdenkmal mit einem festen Regenschirm. Die Abraumhalden können matschig sein, tragen Sie wasserdichte Schuhe. Mittags bietet die historische Cité Nouméa etwas Schutz vor Schauern. Der Nachmittag eignet sich perfekt für die trockenen, ruhigen Innenräume der Kirchen Saint-Louis und Saint-Léger, wo der Regentag besinnlich ausklingt.",
             "hu": "Kezdje a sétát az emlékműnél egy erős esernyővel. A meddőhányóknál sárra kell számítani, viseljen vízálló bakancsot. Délben a Cité Nouméa épületei között találhat némi menedéket a záporok elől. Délután a Saint-Louis és a Saint-Léger templomok csendes, száraz belső terei nyújtanak megnyugvást, tökéletes menedéket biztosítva az esős nap végéig.",
             "ro": "Începeți la Monumentul Eroilor cu o umbrelă rezistentă. La Haldele de Steril pot fi porțiuni noroioase, deci purtați ghete impermeabile. La prânz, clădirile din Cité Nouméa oferă un oarecare adăpost. După-amiaza, interioarele uscate și liniștite ale bisericilor Saint-Louis și Saint-Léger vă protejează de ploaie, încheind ziua într-o notă calmă.",
-            "en": "Start your walk at the War Memorial, using an umbrella against the drizzle. The Slag Heaps might be muddy, so wear sturdy waterproof boots. Seek shelter in the historic Cité Nouméa area around midday. The afternoon is perfect for exploring the quiet interiors of Saint-Louis and Saint-Léger churches, keeping you dry and reflective as the rainy day concludes."
+            "en": "Start your walk at the War Memorial, using an umbrella against the drizzle. The Slag Heaps might be muddy, so wear sturdy waterproof boots. Seek shelter in the historic Cité Nouméa area around midday. The afternoon is perfect for exploring the quiet interiors of Saint-Louis and Saint-Léger churches, keeping you dry and reflective as the rainy day concludes.",
+            "fr": "Commencez votre promenade au Monument aux Morts, en vous munissant d'un parapluie contre la bruine. Les terrils peuvent être boueux, alors portez des bottes imperméables et robustes. Cherchez un abri dans le quartier historique de la Cité Nouméa vers midi. L'après-midi est parfait pour explorer les intérieurs paisibles de Saint-Louis et Saint-Léger, vous gardant au sec et dans la réflexion pendant que la journée pluvieuse se termine."
           },
           "stops": [
             {
@@ -152,13 +164,15 @@
                 "de": "Kriegerdenkmal von Rouvroy",
                 "hu": "Rouvroy Háborús Emlékmű",
                 "ro": "Monumentul Eroilor din Rouvroy",
-                "en": "War Memorial of Rouvroy"
+                "en": "War Memorial of Rouvroy",
+                "fr": "Monument aux Morts de Rouvroy"
               },
               "tip_5lang": {
                 "de": "Gedenken Sie der Gefallenen am Denkmal, aber halten Sie den Regenschirm fest, da der offene Platz keinen Schutz vor plötzlichen Schauern bietet.",
                 "hu": "Emlékezzen a hősökre az emlékműnél, de tartsa erősen az esernyőjét, mivel a nyitott téren nincs semmilyen menedék a hirtelen záporok ellen.",
                 "ro": "Reculegeți-vă la monumentul dedicat eroilor, dar țineți bine umbrela deoarece piațeta deschisă nu oferă adăpost la aversele bruște.",
-                "en": "Reflect at the memorial dedicated to fallen soldiers, but hold your umbrella tight as this open square offers no cover from sudden downpours."
+                "en": "Reflect at the memorial dedicated to fallen soldiers, but hold your umbrella tight as this open square offers no cover from sudden downpours.",
+                "fr": "Recueillez-vous au monument dédié aux soldats tombés au combat, mais tenez fermement votre parapluie car cette place ouverte n'offre aucune protection contre les averses soudaines."
               }
             },
             {
@@ -166,13 +180,15 @@
                 "de": "Abraumhalden von Rouvroy",
                 "hu": "Rouvroy Meddőhányói",
                 "ro": "Haldele de Steril din Rouvroy",
-                "en": "Slag Heaps of Rouvroy"
+                "en": "Slag Heaps of Rouvroy",
+                "fr": "Terrils de Rouvroy"
               },
               "tip_5lang": {
                 "de": "Erkunden Sie die ikonischen Bergbauhügel, aber bleiben Sie auf den unteren, befestigten Wegen, um im nassen Schlamm nicht auszurutschen.",
                 "hu": "Fedezze fel a bányászati dombokat, de maradjon az alsó, burkolt ösvényeken, hogy elkerülje a sűrű, vizes sárban való elcsúszást a mai napon.",
                 "ro": "Explorați dealurile miniere istorice, dar rămâneți pe potecile inferioare pavate pentru a nu aluneca în noroiul dens și umed de astăzi.",
-                "en": "Explore the iconic mining hills for historical context, but stick to the lower, paved trails to avoid slipping in the thick, wet mud today."
+                "en": "Explore the iconic mining hills for historical context, but stick to the lower, paved trails to avoid slipping in the thick, wet mud today.",
+                "fr": "Explorez ces collines minières emblématiques pour le contexte historique, mais empruntez les sentiers inférieurs pavés afin d'éviter de glisser dans la boue épaisse et humide aujourd'hui."
               }
             },
             {
@@ -180,13 +196,15 @@
                 "de": "Cité Nouméa",
                 "hu": "Cité Nouméa",
                 "ro": "Cité Nouméa",
-                "en": "Cité Nouméa"
+                "en": "Cité Nouméa",
+                "fr": "Cité Nouméa"
               },
               "tip_5lang": {
                 "de": "Bewundern Sie die UNESCO-geschützten Bergarbeiterhäuser vom Gehweg aus und achten Sie auf tiefe Pfützen in den historischen Straßen.",
                 "hu": "Csodálja meg az UNESCO-örökség bányászházakat a járdáról, ügyelve a mély tócsákra a történelmi negyed hangulatos, de nedves utcáin.",
                 "ro": "Admirați casele minerilor din patrimoniul UNESCO, fiind atenți la bălțile adânci care se formează pe străzile acestui cartier istoric.",
-                "en": "Admire the unique UNESCO heritage miner cottages from the pavement, keeping an eye out for deep puddles along the historic neighborhood streets."
+                "en": "Admire the unique UNESCO heritage miner cottages from the pavement, keeping an eye out for deep puddles along the historic neighborhood streets.",
+                "fr": "Admirez les atypiques corons miniers inscrits au patrimoine de l'UNESCO depuis le trottoir, en surveillant les grandes flaques le long des rues historiques du quartier."
               }
             },
             {
@@ -194,13 +212,15 @@
                 "de": "Kirche Saint-Louis",
                 "hu": "Saint-Louis Templom",
                 "ro": "Biserica Saint-Louis",
-                "en": "Saint-Louis Church"
+                "en": "Saint-Louis Church",
+                "fr": "Église Saint-Louis"
               },
               "tip_5lang": {
                 "de": "Betreten Sie diese schöne Kirche, um die Architektur zu bewundern und den ruhigen, trockenen Innenraum zu nutzen, um dem Regen zu entkommen.",
                 "hu": "Lépjen be ebbe a gyönyörű templomba a lenyűgöző részletekért, és használja ki a békés, száraz belső teret, hogy kicsit lerázza magáról az esőt.",
                 "ro": "Intrați în această frumoasă biserică pentru detaliile arhitecturale și folosiți interiorul liniștit și uscat pentru o pauză relaxantă de la ploaie.",
-                "en": "Enter this beautiful church to marvel at its architectural details and use the peaceful, dry interior to shake off the rain for a quiet moment."
+                "en": "Enter this beautiful church to marvel at its architectural details and use the peaceful, dry interior to shake off the rain for a quiet moment.",
+                "fr": "Entrez dans cette belle église pour admirer ses détails architecturaux et utilisez l'intérieur paisible et sec pour vous délasser de la pluie le temps d'un instant calme."
               }
             },
             {
@@ -208,13 +228,15 @@
                 "de": "Église Saint-Léger",
                 "hu": "Église Saint-Léger",
                 "ro": "Église Saint-Léger",
-                "en": "Église Saint-Léger"
+                "en": "Église Saint-Léger",
+                "fr": "Église Saint-Léger"
               },
               "tip_5lang": {
                 "de": "Beenden Sie Ihren Spaziergang bei den Buntglasfenstern dieser Kirche, einem idealen geschützten Ort, um die letzten Schauer abzuwarten.",
                 "hu": "Zárja sétáját a klasszikus templom ólomüveg ablakainak megcsodálásával, amely tökéletes, védett hely az utolsó záporok kényelmes átvészelésére.",
                 "ro": "Încheiați plimbarea admirând vitraliile acestei biserici clasice, un loc adăpostit perfect pentru a aștepta trecerea ultimelor averse.",
-                "en": "End your walk appreciating the stained glass windows of this classic church, a perfect sheltered spot to comfortably wait out the final showers."
+                "en": "End your walk appreciating the stained glass windows of this classic church, a perfect sheltered spot to comfortably wait out the final showers.",
+                "fr": "Terminez votre promenade en appréciant les vitraux de cette église classique, un lieu abrité parfait pour attendre confortablement la fin des dernières averses."
               }
             }
           ]
@@ -224,7 +246,8 @@
             "de": "Ein frostiger Morgen am Kriegerdenkmal erfordert warme Schichten. Der Aufstieg zu den Abraumhalden bietet tolle Winteraussichten, kann aber eisig sein. Schlendern Sie mittags durch die Cité Nouméa, bevor die frühe Dämmerung einsetzt. Verbringen Sie den Nachmittag zum Aufwärmen in den Kirchen Saint-Louis und Saint-Léger, um das Tageslicht bis 17 Uhr zu nutzen.",
             "hu": "A fagyos reggel az emlékműnél indul, öltözzön melegen. A meddőhányók megmászása gyönyörű téli kilátást nyújt, de a szél metsző lehet. Délben tegyen egy sétát a Cité Nouméa negyedben, még a korai sötétedés előtt. A késő délutánt a Saint-Louis és Saint-Léger templomok fűtött nyugalmában töltheti, maximálisan kihasználva az 5 óra előtti rövid nappalt.",
             "ro": "O dimineață geroasă începe la Monument, așa că îmbrăcați-vă gros. Urcarea pe Haldele de Steril oferă priveliști de iarnă superbe, dar vântul e rece. La prânz, plimbați-vă prin Cité Nouméa înaintea lăsării devreme a întunericului. După-amiaza vă puteți încălzi în bisericile Saint-Louis și Saint-Léger, profitând de lumina zilei ce dispare pe la ora 17.",
-            "en": "A crisp morning starts at the War Memorial, so bundle up warmly. The climb up the Slag Heaps offers stark, beautiful winter views but can be biting cold. By noon, stroll through Cité Nouméa before the early dusk sets in. Spend the late afternoon warming up inside Saint-Louis and Saint-Léger churches, making the most of the limited daylight before 5 PM."
+            "en": "A crisp morning starts at the War Memorial, so bundle up warmly. The climb up the Slag Heaps offers stark, beautiful winter views but can be biting cold. By noon, stroll through Cité Nouméa before the early dusk sets in. Spend the late afternoon warming up inside Saint-Louis and Saint-Léger churches, making the most of the limited daylight before 5 PM.",
+            "fr": "Une matinée fraîche commence au Monument aux Morts, donc habillez-vous chaudement. La montée des terrils offre des vues hivernales austères et belles mais peut être mordante. À midi, flânez dans la Cité Nouméa avant que le crépuscule précoce ne s'installe. Passez la fin d'après-midi à vous réchauffer à l'intérieur des églises Saint-Louis et Saint-Léger, profitant de la faible lumière du jour avant 17 h."
           },
           "stops": [
             {
@@ -232,13 +255,15 @@
                 "de": "Kriegerdenkmal von Rouvroy",
                 "hu": "Rouvroy Háborús Emlékmű",
                 "ro": "Monumentul Eroilor din Rouvroy",
-                "en": "War Memorial of Rouvroy"
+                "en": "War Memorial of Rouvroy",
+                "fr": "Monument aux Morts de Rouvroy"
               },
               "tip_5lang": {
                 "de": "Erweisen Sie an diesem Denkmal Ihren Respekt, aber tragen Sie einen dicken Schal, da der Winterwind scharf über das offene Gelände fegt.",
                 "hu": "Rójja le tiszteletét az emlékműnél, de viseljen vastag sálat, mert a téli szél nagyon élesen fúj a teljesen nyitott, hideg emlékpark területén.",
                 "ro": "Prezentați-vă omagiile la acest monument solemn, dar purtați un fular gros deoarece vânturile de iarnă bat tăios pe platoul complet expus.",
-                "en": "Pay your respects at this solemn monument, but be sure to wear a thick scarf as the winter winds sweep sharply across the exposed memorial grounds."
+                "en": "Pay your respects at this solemn monument, but be sure to wear a thick scarf as the winter winds sweep sharply across the exposed memorial grounds.",
+                "fr": "Rendez hommage à ce monument solennel, mais assurez-vous de porter une grosse écharpe car les vents d'hiver balaient vivement les terrains exposés du monument."
               }
             },
             {
@@ -246,13 +271,15 @@
                 "de": "Abraumhalden von Rouvroy",
                 "hu": "Rouvroy Meddőhányói",
                 "ro": "Haldele de Steril din Rouvroy",
-                "en": "Slag Heaps of Rouvroy"
+                "en": "Slag Heaps of Rouvroy",
+                "fr": "Terrils de Rouvroy"
               },
               "tip_5lang": {
                 "de": "Wandern Sie auf diese historischen Bergbau-Relikte für ein frostiges Panorama, aber seien Sie vorsichtig mit Blitzeis an schattigen Stellen.",
                 "hu": "Mássza meg a bányászat drámai emlékeit a fagyos panorámáért, de lépjen óvatosan, mert az árnyékos részeken gyakran bújik meg veszélyes tükörjég.",
                 "ro": "Urcați pe aceste vestigii miniere pentru o panoramă înghețată, pășind cu grijă deoarece zonele umbrite ascund frecvent gheață neagră periculoasă.",
-                "en": "Hike up these dramatic remnants of mining history for a frosty panorama, stepping carefully as shaded patches on the paths often conceal black ice."
+                "en": "Hike up these dramatic remnants of mining history for a frosty panorama, stepping carefully as shaded patches on the paths often conceal black ice.",
+                "fr": "Montez ces vestiges dramatiques de l'histoire minière pour un panorama givré, en marchant prudemment car les zones ombragées des sentiers cachent souvent du verglas noir."
               }
             },
             {
@@ -260,13 +287,15 @@
                 "de": "Cité Nouméa",
                 "hu": "Cité Nouméa",
                 "ro": "Cité Nouméa",
-                "en": "Cité Nouméa"
+                "en": "Cité Nouméa",
+                "fr": "Cité Nouméa"
               },
               "tip_5lang": {
                 "de": "Betrachten Sie die urigen Ziegelfassaden der historischen Bergarbeitersiedlung, solange das spärliche winterliche Nachmittagslicht noch ausreicht.",
                 "hu": "Figyelje meg a történelmi bányászlakótelep furcsa tégla homlokzatait; érkezzen kora délután, nehogy lemaradjon a szűkös, alacsony téli fényekről.",
                 "ro": "Observați fațadele de cărămidă ale acestei așezări istorice miniere; sosiți înainte de jumătatea după-amiezii pentru a prinde lumina slabă de iarnă.",
-                "en": "Observe the quaint brick facades of this historic miners' estate, arriving before mid-afternoon so you don't lose the precious, low winter light."
+                "en": "Observe the quaint brick facades of this historic miners' estate, arriving before mid-afternoon so you don't lose the precious, low winter light.",
+                "fr": "Observez les charmantes façades en briques de ce lotissement historique de mineurs, en arrivant avant le milieu d'après-midi pour ne pas perdre la précieuse lumière hivernale basse."
               }
             },
             {
@@ -274,13 +303,15 @@
                 "de": "Kirche Saint-Louis",
                 "hu": "Saint-Louis Templom",
                 "ro": "Biserica Saint-Louis",
-                "en": "Saint-Louis Church"
+                "en": "Saint-Louis Church",
+                "fr": "Église Saint-Louis"
               },
               "tip_5lang": {
                 "de": "Entdecken Sie die Altäre in diesem ruhigen Heiligtum und genießen Sie die relative Wärme der Steinmauern abseits der eisigen Zugluft draußen.",
                 "hu": "Fedezze fel a csendes szentély lenyűgöző oltárait, és élvezze a kőfalak nyújtotta relatív melegséget, távol a fagyos, kinti huzattól.",
                 "ro": "Descoperiți altarele impresionante din acest sanctuar liniștit, bucurându-vă de căldura relativă a zidurilor groase de piatră, feriți de ger.",
-                "en": "Discover the inspiring altars inside this quiet sanctuary, enjoying the relative warmth of the stone walls away from the freezing outdoor drafts."
+                "en": "Discover the inspiring altars inside this quiet sanctuary, enjoying the relative warmth of the stone walls away from the freezing outdoor drafts.",
+                "fr": "Découvrez les autels inspirants à l'intérieur de ce sanctuaire tranquille, profitant de la chaleur relative des murs de pierre loin des courants glacés extérieurs."
               }
             },
             {
@@ -288,13 +319,15 @@
                 "de": "Église Saint-Léger",
                 "hu": "Église Saint-Léger",
                 "ro": "Église Saint-Léger",
-                "en": "Église Saint-Léger"
+                "en": "Église Saint-Léger",
+                "fr": "Église Saint-Léger"
               },
               "tip_5lang": {
                 "de": "Beenden Sie die Tour mit der Besichtigung des filigranen Mauerwerks dieser Kirche und suchen Sie Zuflucht, wenn die Wintersonne um 17 Uhr untergeht.",
                 "hu": "Zárja a fagyos túrát e templom finom kőfaragványainak tanulmányozásával, éppen menedéket találva bent, ahogy a téli nap 5 óra körül lebukik.",
                 "ro": "Încheiați turul friguros examinând sculpturile delicate ale acestei biserici, adăpostindu-vă înăuntru exact când soarele apune în jurul orei 17.",
-                "en": "Conclude your chilly tour examining the delicate stonework of this church, taking refuge inside just as the winter sun sets around 5:00 PM."
+                "en": "Conclude your chilly tour examining the delicate stonework of this church, taking refuge inside just as the winter sun sets around 5:00 PM.",
+                "fr": "Concluez votre visite froide en examinant le délicat travail de pierre de cette église, en trouvant refuge à l'intérieur juste au moment où le soleil d'hiver se couche vers 17:00."
               }
             }
           ]
@@ -314,7 +347,8 @@
             "de": "Église Saint-Martin",
             "hu": "Église Saint-Martin",
             "ro": "Église Saint-Martin",
-            "en": "Église Saint-Martin"
+            "en": "Église Saint-Martin",
+            "fr": "Église Saint-Martin"
           },
           "coords": [
             2.88362,
@@ -329,7 +363,8 @@
             "de": "Bestaunen Sie die historische Kirche Saint-Martin mit ihrer großen kulturellen Bedeutung und betrachten Sie die Außenfassade, bevor Sie das friedliche Kirchenschiff betreten.",
             "hu": "Csodálja meg a történelmi jelentőségű Église Saint-Martin épületét, és alaposan vegye szemügyre a külső homlokzatot, mielőtt belépne a nyugodt főhajóba.",
             "ro": "Admirați istorica biserică Saint-Martin cu semnificația sa culturală profundă și priviți atent fațada exterioară înainte de a păși în naosul senin.",
-            "en": "Marvel at the historic Église Saint-Martin with its profound cultural significance, and look closely at the exterior facade before stepping into the serene nave."
+            "en": "Marvel at the historic Église Saint-Martin with its profound cultural significance, and look closely at the exterior facade before stepping into the serene nave.",
+            "fr": "Admirez la historicité de l'Église Saint-Martin et sa profonde signification culturelle, et regardez attentivement la façade extérieure avant de pénétrer dans la nef sereine."
           }
         },
         {
@@ -337,7 +372,8 @@
             "de": "Kriegerdenkmal von Rouvroy",
             "hu": "Rouvroy Háborús Emlékmű",
             "ro": "Monumentul Eroilor din Rouvroy",
-            "en": "War Memorial of Rouvroy"
+            "en": "War Memorial of Rouvroy",
+            "fr": "Monument aux Morts de Rouvroy"
           },
           "coords": [
             2.905648,
@@ -352,7 +388,8 @@
             "de": "Bewundern Sie das ergreifende Kriegerdenkmal zu Ehren lokaler Helden und nehmen Sie sich einen Moment Zeit, um über die reiche Geschichte nachzudenken.",
             "hu": "Csodálja meg a helyi hősök előtt tisztelgő megható háborús emlékművet, és szánjon egy percet Rouvroy gazdag történelmének elmélyült átgondolására.",
             "ro": "Admirați impresionantul monument dedicat eroilor locali și luați-vă un moment pentru a reflecta asupra istoriei bogate a orașului într-un cadru liniștit.",
-            "en": "Admire the poignant War Memorial honoring local heroes, and take a moment to reflect on Rouvroy's rich history while enjoying the tranquil surroundings."
+            "en": "Admire the poignant War Memorial honoring local heroes, and take a moment to reflect on Rouvroy's rich history while enjoying the tranquil surroundings.",
+            "fr": "Admirez le poignant Monument aux Morts honorant les héros locaux, et prenez un moment pour réfléchir à la riche histoire de Rouvroy tout en profitant des environs tranquilles."
           }
         },
         {
@@ -360,7 +397,8 @@
             "de": "Abraumhalden von Rouvroy",
             "hu": "Rouvroy Meddőhányói",
             "ro": "Haldele de Steril din Rouvroy",
-            "en": "Slag Heaps of Rouvroy"
+            "en": "Slag Heaps of Rouvroy",
+            "fr": "Terrils de Rouvroy"
           },
           "coords": [
             2.903673,
@@ -375,7 +413,8 @@
             "de": "Erklimmen Sie die markanten Abraumhalden für atemberaubende Panoramablicke und tragen Sie bequeme Schuhe, um das historische Bergbaugebiet sicher zu erkunden.",
             "hu": "Mássza meg az ikonikus meddőhányókat a lélegzetelállító panorámáért, és viseljen kényelmes cipőt a történelmi bányaterület biztonságos felfedezéséhez.",
             "ro": "Urcați pe iconicele halde de steril pentru a admira priveliști panoramice uluitoare, purtând încălțăminte confortabilă pentru a explora în siguranță zona.",
-            "en": "Climb the iconic Slag Heaps to experience breathtaking panoramic views of the region and wear comfortable shoes to navigate the historic mining terrain safely."
+            "en": "Climb the iconic Slag Heaps to experience breathtaking panoramic views of the region and wear comfortable shoes to navigate the historic mining terrain safely.",
+            "fr": "Grimpez les terrils emblématiques pour profiter d'une vue panoramique à couper le souffle sur la région et portez des chaussures confortables pour circuler en toute sécurité sur ce terrain minier historique."
           }
         },
         {
@@ -383,7 +422,8 @@
             "de": "Cité Nouméa",
             "hu": "Cité Nouméa",
             "ro": "Cité Nouméa",
-            "en": "Cité Nouméa"
+            "en": "Cité Nouméa",
+            "fr": "Cité Nouméa"
           },
           "coords": [
             2.912579,
@@ -398,7 +438,8 @@
             "de": "Erkunden Sie den architektonischen Charme der Cité Nouméa, um das Bergbauerbe zu verstehen, und bringen Sie Ihre Kamera für die einzigartigen Backsteinhäuser mit.",
             "hu": "Fedezze fel a Cité Nouméa építészeti varázsát, hogy megértse a bányászati örökséget, és ne felejtse el fényképezőgépét az egyedi téglaházak megörökítéséhez.",
             "ro": "Explorați farmecul arhitectural al Cité Nouméa pentru a înțelege patrimoniul minier și nu uitați aparatul foto pentru a surprinde casele unice din cărămidă.",
-            "en": "Explore the architectural charm of Cité Nouméa to understand the region's mining heritage, and don't forget your camera to capture the unique brick houses."
+            "en": "Explore the architectural charm of Cité Nouméa to understand the region's mining heritage, and don't forget your camera to capture the unique brick houses.",
+            "fr": "Explorez le charme architectural de la Cité Nouméa pour comprendre le patrimoine minier de la région, et n'oubliez pas votre appareil photo pour immortaliser les maisons en briques uniques."
           }
         },
         {
@@ -406,7 +447,8 @@
             "de": "Kirche Saint-Louis",
             "hu": "Saint-Louis Templom",
             "ro": "Biserica Saint-Louis",
-            "en": "Saint-Louis Church"
+            "en": "Saint-Louis Church",
+            "fr": "Église Saint-Louis"
           },
           "coords": [
             2.912579,
@@ -421,7 +463,8 @@
             "de": "Betreten Sie die wunderschön gestaltete Kirche Saint-Louis, um ihre atemberaubenden Buntglasfenster zu bewundern, und besuchen Sie sie am besten morgens.",
             "hu": "Lépjen be a gyönyörűen kidolgozott Saint-Louis templomba, csodálja meg az ólomüveg ablakokat, és a legjobb fényviszonyokért próbáljon délelőtt érkezni.",
             "ro": "Pășiți în minunata biserică Saint-Louis pentru a admira vitraliile uimitoare, fiind recomandat să o vizitați dimineața pentru cea mai bună lumină naturală.",
-            "en": "Step inside the beautifully crafted Saint-Louis Church to admire its stunning stained glass windows, and visit during morning hours for the best natural lighting."
+            "en": "Step inside the beautifully crafted Saint-Louis Church to admire its stunning stained glass windows, and visit during morning hours for the best natural lighting.",
+            "fr": "Pénétrez dans la magnifiquement réalisée Église Saint-Louis pour admirer ses superbes vitraux, et visitez-la le matin pour bénéficier du meilleur éclairage naturel."
           }
         },
         {
@@ -429,7 +472,8 @@
             "de": "Église Notre-Dame-de-la-Visitation",
             "hu": "Église Notre-Dame-de-la-Visitation",
             "ro": "Église Notre-Dame-de-la-Visitation",
-            "en": "Église Notre-Dame-de-la-Visitation"
+            "en": "Église Notre-Dame-de-la-Visitation",
+            "fr": "Église Notre-Dame-de-la-Visitation"
           },
           "coords": [
             2.91342,
@@ -444,7 +488,8 @@
             "de": "Genießen Sie das spirituelle Ambiente der Église Notre-Dame-de-la-Visitation, einem architektonischen Juwel der Gegend, und besuchen Sie die ruhigen Seitenkapellen.",
             "hu": "Élvezze az Église Notre-Dame-de-la-Visitation spirituális hangulatát, a környék építészeti gyöngyszemét, és látogassa meg az oldalkápolnákat egy kis elmélyülésre.",
             "ro": "Bucurați-vă de ambianța spirituală a bisericii Notre-Dame-de-la-Visitation, o bijuterie arhitecturală a zonei, și vizitați capelele laterale pentru reflecție.",
-            "en": "Take in the spiritual ambiance of Église Notre-Dame-de-la-Visitation, an architectural gem of the area, and visit the side chapels for moments of quiet reflection."
+            "en": "Take in the spiritual ambiance of Église Notre-Dame-de-la-Visitation, an architectural gem of the area, and visit the side chapels for moments of quiet reflection.",
+            "fr": "Sentez l'ambiance spirituelle de l'Église Notre-Dame-de-la-Visitation, un joyau architectural de la région, et visitez les chapelles latérales pour des moments de réflexion intime."
           }
         },
         {
@@ -452,7 +497,8 @@
             "de": "Église Saint-Léger",
             "hu": "Église Saint-Léger",
             "ro": "Église Saint-Léger",
-            "en": "Église Saint-Léger"
+            "en": "Église Saint-Léger",
+            "fr": "Église Saint-Léger"
           },
           "coords": [
             2.926926,
@@ -467,7 +513,8 @@
             "de": "Entdecken Sie die friedliche Atmosphäre der Église Saint-Léger, die einen ruhigen Rückzugsort bietet, und achten Sie besonders auf die feinen Holzarbeiten.",
             "hu": "Fedezze fel az Église Saint-Léger békés légkörét, amely csendes menedéket kínál a nyüzsgő utcák elől, és szánjon időt a bonyolult famunkák megfigyelésére.",
             "ro": "Descoperiți atmosfera pașnică a bisericii Saint-Léger, care oferă un refugiu liniștit, și alocați-vă timp pentru a remarca detaliile complicate din lemn.",
-            "en": "Discover the peaceful atmosphere of Église Saint-Léger, which offers a quiet retreat from the bustling streets, and take time to notice the intricate woodwork inside."
+            "en": "Discover the peaceful atmosphere of Église Saint-Léger, which offers a quiet retreat from the bustling streets, and take time to notice the intricate woodwork inside.",
+            "fr": "Découvrez l'atmosphère paisible de l'Église Saint-Léger, qui offre un refuge tranquille loin de l'effervescence des rues, et prenez le temps d'observer les sculptures complexes en bois à l'intérieur."
           }
         }
       ],
@@ -475,7 +522,8 @@
         "de": "Beginnen Sie Ihren Tag in Rouvroy mit der Erkundung des bürgerlichen Herzens und erklimmen Sie die markanten Abraumhalden für einen weiten Blick auf das Bergbauerbe. Mittags schlendern Sie durch die charmanten Straßen der Cité Nouméa und besuchen die Kirche Saint-Louis. Am Nachmittag entdecken Sie weitere historische Kirchen. Lassen Sie den Tag mit dem tiefen Geschichtsbewusstsein ausklingen.",
         "hu": "Kezdje a rouvroy-i napot a polgári központ felfedezésével és a meddőhányók megmászásával, ahonnan csodás kilátás nyílik a bányászati örökségre. Délben sétáljon végig a Cité Nouméa bájos utcáin, és látogassa meg a Saint-Louis templomot. A délután folyamán fedezze fel a tájat tarkító történelmi templomokat. Zárja a napot Észak-Franciaország gazdag történelmével gazdagodva.",
         "ro": "Începeți ziua în Rouvroy explorând centrul civic și urcând pe haldele de steril pentru o priveliște vastă a moștenirii miniere. La prânz, plimbați-vă pe străzile fermecătoare din Cité Nouméa și vizitați biserica Saint-Louis. După-amiaza este dedicată descoperirii mai multor biserici de patrimoniu care presară peisajul. Încheiați-vă ziua îmbogățiți de istoria profundă a nordului Franței.",
-        "en": "Begin your Rouvroy day exploring its civic heart and climbing the iconic Slag Heaps for a sprawling view of its mining legacy. Midday takes you through the charming streets of Cité Nouméa, paired with the serene beauty of the Saint-Louis Church. The afternoon consists of discovering multiple heritage churches that dot the landscape. Wrap up your day enriched by northern France's deep history."
+        "en": "Begin your Rouvroy day exploring its civic heart and climbing the iconic Slag Heaps for a sprawling view of its mining legacy. Midday takes you through the charming streets of Cité Nouméa, paired with the serene beauty of the Saint-Louis Church. The afternoon consists of discovering multiple heritage churches that dot the landscape. Wrap up your day enriched by northern France's deep history.",
+        "fr": "Commencez votre journée à Rouvroy en explorant son cœur civique et en grimpant les terrils emblématiques pour une vue étendue sur son héritage minier. À midi, promenez-vous dans les charmantes rues de la Cité Nouméa, accompagnées de la sérénité de l'Église Saint-Louis. L'après-midi consiste à découvrir plusieurs églises patrimoniales qui parsèment le paysage. Achevez votre journée enrichi par la profonde histoire du nord de la France."
       },
       "variants": {
         "rainy": {
@@ -483,7 +531,8 @@
             "de": "Die Radtour beginnt bei Saint-Martin; nutzen Sie Schutzbleche. Fahren Sie zum Denkmal und den Abraumhalden auf Asphalt, da Feldwege rutschig sind. Mittags können Sie sich in der Cité Nouméa und der Kirche Saint-Louis etwas abtrocknen. Der Nachmittag führt vorsichtig zu Notre-Dame und Saint-Léger; bremsen Sie bei nassem Kopfsteinpflaster in der regnerischen Stadt sanft.",
             "hu": "A kerékpározás a Saint-Martinnál indul; tegyen sárvédőt a biciklire. Az emlékmű és a meddőhányók felé haladva maradjon az aszfalton, mert a földutak csúsznak. Délben a Cité Nouméa és a Saint-Louis templom környékén megszáradhat kicsit. Délután óvatosan tekerjen a Notre-Dame és a Saint-Léger templomokhoz; nedves macskakövön finoman fékezzen az esős időben.",
             "ro": "Ciclismul începe la Saint-Martin pe străzi ude; folosiți apărători de noroi. Pedalați pe asfalt pe lângă Monument și Halde, potecile fiind alunecoase. La prânz, în Cité Nouméa și Biserica Saint-Louis vă puteți usca puțin. După-amiaza continuați prudent spre Notre-Dame și Saint-Léger, frânând ușor pe piatra cubică umedă pe durata ploii.",
-            "en": "Cycling begins at Saint-Martin with wet streets; equip mudguards. Ride past the War Memorial and Slag Heaps, sticking to paved roads as the dirt paths get slick. Midday brings you to Cité Nouméa and Saint-Louis Church where you can briefly dry off. The afternoon continues with caution to Notre-Dame and Saint-Léger, braking gently on wet cobblestones as you navigate the rainy town."
+            "en": "Cycling begins at Saint-Martin with wet streets; equip mudguards. Ride past the War Memorial and Slag Heaps, sticking to paved roads as the dirt paths get slick. Midday brings you to Cité Nouméa and Saint-Louis Church where you can briefly dry off. The afternoon continues with caution to Notre-Dame and Saint-Léger, braking gently on wet cobblestones as you navigate the rainy town.",
+            "fr": "Le circuit à vélo commence à Saint-Martin sur des rues humides : équipez votre vélo de garde-boue. Roulez devant le Monument aux Morts et les terrils en restant sur les routes pavées car les chemins de terre deviennent glissants. À midi, vous arriverez à la Cité Nouméa et à l'Église Saint-Louis où vous pourrez vous sécher brièvement. L'après-midi se poursuit avec prudence vers Notre-Dame et Saint-Léger, en freinant doucement sur les pavés mouillés en traversant la ville pluvieuse."
           },
           "stops": [
             {
@@ -491,13 +540,15 @@
                 "de": "Église Saint-Martin",
                 "hu": "Église Saint-Martin",
                 "ro": "Église Saint-Martin",
-                "en": "Église Saint-Martin"
+                "en": "Église Saint-Martin",
+                "fr": "Église Saint-Martin"
               },
               "tip_5lang": {
                 "de": "Beginnen Sie bei dieser historischen Kirche, aber testen Sie unbedingt Ihre Bremsen, bevor Sie in den regnerischen Morgenverkehr starten.",
                 "hu": "Induljon e történelmi templom masszív épületétől, de mindenképpen tesztelje le a fékeket, mielőtt belevág az esős reggeli városi forgalomba.",
                 "ro": "Începeți cu arhitectura masivă a acestei biserici istorice, dar asigurați-vă că verificați frânele înainte de a pleca în traficul matinal ploios.",
-                "en": "Start with the sturdy architecture of this historical church, but make sure to test your brakes before setting off into the rainy morning traffic."
+                "en": "Start with the sturdy architecture of this historical church, but make sure to test your brakes before setting off into the rainy morning traffic.",
+                "fr": "Commencez par l'architecture robuste de cette église historique, mais assurez-vous de tester vos freins avant de vous engager dans la circulation pluvieuse du matin."
               }
             },
             {
@@ -505,13 +556,15 @@
                 "de": "Kriegerdenkmal von Rouvroy",
                 "hu": "Rouvroy Háborús Emlékmű",
                 "ro": "Monumentul Eroilor din Rouvroy",
-                "en": "War Memorial of Rouvroy"
+                "en": "War Memorial of Rouvroy",
+                "fr": "Monument aux Morts de Rouvroy"
               },
               "tip_5lang": {
                 "de": "Halten Sie kurz an diesem Denkmal und schließen Sie Ihren Regenmantel gut, da vorbeifahrende Autos auf dieser Hauptstraße oft Pfützen aufwirbeln.",
                 "hu": "Álljon meg egy percre az ünnepélyes emlékműnél, szorosan összezárt esőkabátban, mert az elhaladó autók könnyen felverhetik a vizet az útról.",
                 "ro": "Opriți-vă scurt la acest monument solemn, ținând pelerina de ploaie încheiată strâns, mașinile putând stropi din bălțile de pe drumul principal.",
-                "en": "Pause briefly at this solemn civic monument, keeping your raincoat securely fastened as passing cars can easily splash puddles on this main road."
+                "en": "Pause briefly at this solemn civic monument, keeping your raincoat securely fastened as passing cars can easily splash puddles on this main road.",
+                "fr": "Faites une courte halte à ce monument civique solennel, en gardant votre imperméable bien fixé car les voitures qui passent peuvent facilement projeter des éclaboussures sur cette route principale."
               }
             },
             {
@@ -519,13 +572,15 @@
                 "de": "Abraumhalden von Rouvroy",
                 "hu": "Rouvroy Meddőhányói",
                 "ro": "Haldele de Steril din Rouvroy",
-                "en": "Slag Heaps of Rouvroy"
+                "en": "Slag Heaps of Rouvroy",
+                "fr": "Terrils de Rouvroy"
               },
               "tip_5lang": {
                 "de": "Betrachten Sie die Bergbaugipfel vom Sattel aus auf dem asphaltierten Weg und meiden Sie die unbefestigten Pfade, die bei Regen sehr matschig sind.",
                 "hu": "Csodálja meg a bányászati csúcsokat a nyeregből a burkolt úton maradva, elkerülve a belső földutakat, amelyek esőben áruló sárrá válnak.",
                 "ro": "Priviți vârfurile miniere impresionante din șa de pe drumul asfaltat, evitând potecile interioare de pământ care devin noroi periculos pe ploaie.",
-                "en": "View the impressive mining peaks from your saddle on the paved perimeter, avoiding the internal dirt trails which turn to treacherous mud in the rain."
+                "en": "View the impressive mining peaks from your saddle on the paved perimeter, avoiding the internal dirt trails which turn to treacherous mud in the rain.",
+                "fr": "Contemplez les sommets miniers impressionnants depuis votre selle en longeant le périmètre pavé, en évitant les sentiers intérieurs de terre qui se transforment en boue traîtresse sous la pluie."
               }
             },
             {
@@ -533,13 +588,15 @@
                 "de": "Cité Nouméa",
                 "hu": "Cité Nouméa",
                 "ro": "Cité Nouméa",
-                "en": "Cité Nouméa"
+                "en": "Cité Nouméa",
+                "fr": "Cité Nouméa"
               },
               "tip_5lang": {
                 "de": "Radeln Sie vorsichtig an den alten Bergarbeiterhäusern vorbei und achten Sie bei dem nassen Wetter besonders auf rutschige Schachtdeckel und Markierungen.",
                 "hu": "Tekerjen óvatosan a történelmi bányászházak mellett, kiemelten figyelve a csúszós csatornafedelekre és a festett útburkolati jelekre a vizes időben.",
                 "ro": "Pedalați atent pe lângă casele istorice miniere, acordând o atenție sporită capacelor de canalizare și marcajelor rutiere alunecoase pe vreme umedă.",
-                "en": "Cycle carefully past the historic mining houses, paying extra attention to the slippery manhole covers and painted road markings in the wet weather."
+                "en": "Cycle carefully past the historic mining houses, paying extra attention to the slippery manhole covers and painted road markings in the wet weather.",
+                "fr": "Pédalez prudemment devant les maisons minières historiques, en prêtant une attention particulière aux plaques d'égout glissantes et aux marquages routiers peints par temps humide."
               }
             },
             {
@@ -547,13 +604,15 @@
                 "de": "Kirche Saint-Louis",
                 "hu": "Saint-Louis Templom",
                 "ro": "Biserica Saint-Louis",
-                "en": "Saint-Louis Church"
+                "en": "Saint-Louis Church",
+                "fr": "Église Saint-Louis"
               },
               "tip_5lang": {
                 "de": "Schließen Sie das Rad unter den tropfenden Bäumen an und betreten Sie den verzierten Innenraum, damit Ihre Ausrüstung ein paar Minuten abtropfen kann.",
                 "hu": "Zárja le biciklijét a csöpögő fák alatt, és lépjen be a díszes belső térbe, hagyva a kerékpáros felszerelésnek néhány értékes percet a száradásra.",
                 "ro": "Legați bicicleta sub copacii uzi și intrați pentru a vedea interiorul ornamentat, lăsând echipamentul de ciclism câteva minute prețioase să se usuce.",
-                "en": "Lock your bike under the dripping trees and step inside to view the ornate interior, allowing your cycling gear a precious few minutes to drip dry."
+                "en": "Lock your bike under the dripping trees and step inside to view the ornate interior, allowing your cycling gear a precious few minutes to drip dry.",
+                "fr": "Cadenassez votre vélo sous les arbres dégoulinants et entrez pour admirer l'intérieur orné, laissant votre équipement de cyclisme goutter quelques minutes précieuses."
               }
             },
             {
@@ -561,13 +620,15 @@
                 "de": "Église Notre-Dame-de-la-Visitation",
                 "hu": "Église Notre-Dame-de-la-Visitation",
                 "ro": "Église Notre-Dame-de-la-Visitation",
-                "en": "Église Notre-Dame-de-la-Visitation"
+                "en": "Église Notre-Dame-de-la-Visitation",
+                "fr": "Église Notre-Dame-de-la-Visitation"
               },
               "tip_5lang": {
                 "de": "Bewundern Sie die Fassade dieser Gemeinde und fahren Sie langsam an, da sich bei starkem Regen oft nasse Blätter nahe dem Eingang ansammeln.",
                 "hu": "Csodálja meg a helyi plébánia lenyűgöző homlokzatát, lassan manőverezve a bejáratnál, ahol heves esőben gyakran gyűlnek össze csúszós falevelek.",
                 "ro": "Admirați fațada impresionantă a acestei parohii, manevrând încet la apropiere, deoarece frunzele ude se adună des lângă intrare în timpul ploilor.",
-                "en": "Admire the striking facade of this local parish, maneuvering slowly on approach as wet leaves often accumulate near the entrance during heavy rain."
+                "en": "Admire the striking facade of this local parish, maneuvering slowly on approach as wet leaves often accumulate near the entrance during heavy rain.",
+                "fr": "Admirez la façade frappante de cette paroisse locale, en abordant lentement l'entrée car les feuilles mouillées s'accumulent souvent près du porche lors de fortes pluies."
               }
             },
             {
@@ -575,13 +636,15 @@
                 "de": "Église Saint-Léger",
                 "hu": "Église Saint-Léger",
                 "ro": "Église Saint-Léger",
-                "en": "Église Saint-Léger"
+                "en": "Église Saint-Léger",
+                "fr": "Église Saint-Léger"
               },
               "tip_5lang": {
                 "de": "Beenden Sie Ihre nasse Radtour an dieser großen Kirche und suchen Sie einen geschützten Platz fürs Rad, während Sie das trockene Kirchenschiff erkunden.",
                 "hu": "Fejezze be vizes útját e nagyszerű templomnál, keressen egy védett helyet a kerékpár tárolására, amíg Ön felfedezi a száraz, nyugodt főhajót.",
                 "ro": "Finalizați traseul umed la această biserică grandioasă, găsind un loc adăpostit pentru bicicletă în timp ce explorați naosul uscat și primitor.",
-                "en": "Finish your wet cycling journey at this grand church, finding a sheltered spot nearby to securely store your bike while you explore the dry nave."
+                "en": "Finish your wet cycling journey at this grand church, finding a sheltered spot nearby to securely store your bike while you explore the dry nave.",
+                "fr": "Terminez votre parcours cycliste humide à cette grande église, en trouvant un endroit abrité à proximité pour ranger votre vélo en toute sécurité pendant que vous explorez la nef sèche."
               }
             }
           ]
@@ -591,7 +654,8 @@
             "de": "Die eisige Fahrt beginnt bei Saint-Martin; Thermo-Handschuhe sind Pflicht. Fahren Sie morgens am Denkmal und den Abraumhalden vorbei. Mittags rollen Sie durch die Cité Nouméa und wärmen Ihre Finger in der Kirche Saint-Louis auf. Die nachmittägliche Fahrt zu Notre-Dame und Saint-Léger erfordert Fahrradlicht, da die Straßen um 17 Uhr im frühen Winterdunkel liegen.",
             "hu": "A fagyos út a Saint-Martinnál kezdődik; a bélelt kesztyű elengedhetetlen. A friss reggeli levegőn tekerjen el az emlékmű és a meddőhányók mellett. Délben guruljon át a Cité Nouméa negyeden, majd olvassza fel ujjait a Saint-Louis templomban. A délutáni sprint a Notre-Dame és Saint-Léger felé már világítást igényel a kerékpáron a korai, 5 órai sötétedés miatt.",
             "ro": "Cursa înghețată începe la Saint-Martin; mănușile termice sunt esențiale. Treceți de Monument și Halde în aerul matinal tăios. La prânz, treceți prin Cité Nouméa și intrați în Biserica Saint-Louis pentru a vă încălzi mâinile. Drumul de după-amiază spre Notre-Dame și Saint-Léger necesită faruri, întunericul iernii lăsându-se pe străzi pe la 17.",
-            "en": "A freezing ride starts at Saint-Martin; thermal cycling gloves are essential. Pass the War Memorial and Slag Heaps in the brisk morning air. By noon, wheel through the heritage Cité Nouméa and step inside Saint-Louis Church to thaw your fingers. The afternoon dash to Notre-Dame and Saint-Léger requires lights on your bike, as early winter darkness blankets the streets by 5 PM."
+            "en": "A freezing ride starts at Saint-Martin; thermal cycling gloves are essential. Pass the War Memorial and Slag Heaps in the brisk morning air. By noon, wheel through the heritage Cité Nouméa and step inside Saint-Louis Church to thaw your fingers. The afternoon dash to Notre-Dame and Saint-Léger requires lights on your bike, as early winter darkness blankets the streets by 5 PM.",
+            "fr": "Une randonnée glaciale commence à Saint-Martin : des gants thermiques de cyclisme sont indispensables. Passez le Monument aux Morts et les terrils dans l'air vif du matin. À midi, traversez la Cité Nouméa et entrez dans l'Église Saint-Louis pour réchauffer vos doigts. La course de l'après-midi vers Notre-Dame et Saint-Léger nécessite d'allumer vos lumières de vélo, la nuit hivernale tombant tôt vers 17 h."
           },
           "stops": [
             {
@@ -599,13 +663,15 @@
                 "de": "Église Saint-Martin",
                 "hu": "Église Saint-Martin",
                 "ro": "Église Saint-Martin",
-                "en": "Église Saint-Martin"
+                "en": "Église Saint-Martin",
+                "fr": "Église Saint-Martin"
               },
               "tip_5lang": {
                 "de": "Bewundern Sie das klassische Äußere zum Start, aber stellen Sie den Sattel etwas tiefer, da Frost auf den morgendlichen Straßen das Gleichgewicht gefährdet.",
                 "hu": "Csodálja meg a klasszikus külteret a nap indításaként, de engedje kicsit lejjebb a nyerget, mert a reggeli deres utakon könnyen elveszítheti az egyensúlyt.",
                 "ro": "Admirați exteriorul clasic pentru a începe ziua, dar coborâți puțin șaua, deoarece bruma de dimineață face echilibrul pe bicicletă destul de precar.",
-                "en": "Marvel at the classical exterior to start the day, but lower your saddle slightly as frost on the morning roads can make your balance precarious."
+                "en": "Marvel at the classical exterior to start the day, but lower your saddle slightly as frost on the morning roads can make your balance precarious.",
+                "fr": "Admirez l'extérieur classique pour bien commencer la journée, mais baissez légèrement votre selle car le gel sur les routes matinales peut rendre votre équilibre précaire."
               }
             },
             {
@@ -613,13 +679,15 @@
                 "de": "Kriegerdenkmal von Rouvroy",
                 "hu": "Rouvroy Háborús Emlékmű",
                 "ro": "Monumentul Eroilor din Rouvroy",
-                "en": "War Memorial of Rouvroy"
+                "en": "War Memorial of Rouvroy",
+                "fr": "Monument aux Morts de Rouvroy"
               },
               "tip_5lang": {
                 "de": "Reflektieren Sie hier die Lokalgeschichte, aber fahren Sie zügig weiter, da längeres Stehen im beißenden Winterwind schnell die Körperwärme raubt.",
                 "hu": "Elmélkedjen a helyi történelemről, de utána induljon is tovább fürgén, mert a fagyos téli szélben egy helyben állva gyorsan elveszíti a testhőjét.",
                 "ro": "Reflectați la istoria locală, dar continuați să vă mișcați rapid după aceea, deoarece statul pe loc în vântul tăios de iarnă scade rapid căldura corpului.",
-                "en": "Reflect on local history here; keep moving briskly afterwards, as standing still in the biting winter wind will quickly sap your body heat."
+                "en": "Reflect on local history here; keep moving briskly afterwards, as standing still in the biting winter wind will quickly sap your body heat.",
+                "fr": "Réfléchissez à l'histoire locale ici ; continuez à rouler rapidement ensuite, car rester immobile dans le vent hivernal mordant puisera rapidement votre chaleur corporelle."
               }
             },
             {
@@ -627,13 +695,15 @@
                 "de": "Abraumhalden von Rouvroy",
                 "hu": "Rouvroy Meddőhányói",
                 "ro": "Haldele de Steril din Rouvroy",
-                "en": "Slag Heaps of Rouvroy"
+                "en": "Slag Heaps of Rouvroy",
+                "fr": "Terrils de Rouvroy"
               },
               "tip_5lang": {
                 "de": "Betrachten Sie die frostigen Hänge von der Straße aus und halten Sie Ihre Finger in isolierten Handschuhen warm, statt sie auf eisigen Wegen zu kühlen.",
                 "hu": "Figyelje meg a fagyos lejtőket a közeli útról, tartsa ujjait melegen a szigetelt kesztyűben, ahelyett, hogy lefagyasztaná őket a jeges ösvényeken.",
                 "ro": "Priviți pantele înghețate de pe drumul din apropiere, păstrând degetele calde în mănuși izolate în loc să le înghețați urcând pe cărările cu gheață.",
-                "en": "Take in the frosty slopes from the nearby road, keeping your fingers warm inside insulated gloves rather than freezing them pushing up icy tracks."
+                "en": "Take in the frosty slopes from the nearby road, keeping your fingers warm inside insulated gloves rather than freezing them pushing up icy tracks.",
+                "fr": "Appréciez les pentes givrée depuis la route voisine, en gardant vos doigts au chaud dans des gants isolants plutôt que de les exposer en poussant sur des pistes glacées."
               }
             },
             {
@@ -641,13 +711,15 @@
                 "de": "Cité Nouméa",
                 "hu": "Cité Nouméa",
                 "ro": "Cité Nouméa",
-                "en": "Cité Nouméa"
+                "en": "Cité Nouméa",
+                "fr": "Cité Nouméa"
               },
               "tip_5lang": {
                 "de": "Würdigen Sie die historische Bergbauarchitektur, aber achten Sie auf Blitzeis in den langen Winterschatten, die von den dicht stehenden Häusern geworfen werden.",
                 "hu": "Értékelje a hagyományos bányászépítészetet, de ügyeljen a sűrű házak által vetett hosszú téli árnyékokban megbújó, alattomos tükörjég foltokra.",
                 "ro": "Apreciați arhitectura tradițională minieră, dar fiți atenți la peticele de gheață neagră ascunse în umbrele lungi de iarnă lăsate de casele dese.",
-                "en": "Appreciate the traditional mining architecture, but watch out for patches of black ice hiding in the long winter shadows cast by the dense houses."
+                "en": "Appreciate the traditional mining architecture, but watch out for patches of black ice hiding in the long winter shadows cast by the dense houses.",
+                "fr": "Appréciez l'architecture minière traditionnelle, mais méfiez-vous des plaques de verglas cachées dans les longues ombres hivernales projetées par les maisons serrées."
               }
             },
             {
@@ -655,13 +727,15 @@
                 "de": "Kirche Saint-Louis",
                 "hu": "Saint-Louis Templom",
                 "ro": "Biserica Saint-Louis",
-                "en": "Saint-Louis Church"
+                "en": "Saint-Louis Church",
+                "fr": "Église Saint-Louis"
               },
               "tip_5lang": {
                 "de": "Halten Sie hier an, um religiöse Kunst zu sehen, und nutzen Sie den ruhigen, geschlossenen Raum, um wieder Wärme in Ihre frierenden Füße zu bringen.",
                 "hu": "Álljon meg a vallási műalkotásokért, és használja a csendes, zárt teret egy szükséges pihenőként, hogy újra meleget dobogjon a fagyos lábfejébe.",
                 "ro": "Opriți-vă pentru a vedea arta religioasă, folosind spațiul închis și liniștit ca pe un popas necesar pentru a readuce căldura în picioarele înghețate.",
-                "en": "Stop here to see the lovely religious artwork, using the quiet, enclosed space as a necessary pit stop to stamp warmth back into your freezing feet."
+                "en": "Stop here to see the lovely religious artwork, using the quiet, enclosed space as a necessary pit stop to stamp warmth back into your freezing feet.",
+                "fr": "Faites une halte ici pour voir les belles œuvres religieuses, en utilisant l'espace clos et silencieux comme une pause nécessaire pour redonner de la chaleur à vos pieds gelés."
               }
             },
             {
@@ -669,13 +743,15 @@
                 "de": "Église Notre-Dame-de-la-Visitation",
                 "hu": "Église Notre-Dame-de-la-Visitation",
                 "ro": "Église Notre-Dame-de-la-Visitation",
-                "en": "Église Notre-Dame-de-la-Visitation"
+                "en": "Église Notre-Dame-de-la-Visitation",
+                "fr": "Église Notre-Dame-de-la-Visitation"
               },
               "tip_5lang": {
                 "de": "Beachten Sie die Ziegeldetails dieses Zentrums und schalten Sie das Fahrradlicht früh ein, da der Winternachmittag schon gegen 16 Uhr düster wird.",
                 "hu": "Figyelje meg a közösségi központ impozáns téglarészleteit, és kapcsolja be korán a biciklilámpát, mivel a téli délután már 4 óra körül borússá válik.",
                 "ro": "Observați detaliile din cărămidă ale acestui centru comunitar, aprinzând farurile bicicletei devreme, deoarece după-amiaza de iarnă devine sumbră la ora 16.",
-                "en": "Notice the imposing brick details of this community hub, switching on your bicycle lights early as the winter afternoon turns gloomy by 4:00 PM."
+                "en": "Notice the imposing brick details of this community hub, switching on your bicycle lights early as the winter afternoon turns gloomy by 4:00 PM.",
+                "fr": "Remarquez les imposants détails en brique de ce lieu communautaire, en allumant tôt vos feux de vélo car l'après-midi hivernal devient sombre dès 16:00."
               }
             },
             {
@@ -683,13 +759,15 @@
                 "de": "Église Saint-Léger",
                 "hu": "Église Saint-Léger",
                 "ro": "Église Saint-Léger",
-                "en": "Église Saint-Léger"
+                "en": "Église Saint-Léger",
+                "fr": "Église Saint-Léger"
               },
               "tip_5lang": {
                 "de": "Beenden Sie Ihre robuste Winterfahrt an diesem architektonischen Ort und gehen Sie hinein, um sich aufzuwärmen, während die frühe Dämmerung kalt einbricht.",
                 "hu": "Zárja a kemény téli tekerést ezen a nagyszerű építészeti helyszínen, mindenképpen menjen be a melegre, ahogy a korai szürkület hidegre fordul.",
                 "ro": "Încheiați cursa de iarnă la acest sit arhitectural grandios, asigurându-vă că intrați la căldură odată cu lăsarea rece și timpurie a întunericului.",
-                "en": "Conclude your robust winter ride at this grand architectural site, ensuring you head indoors to warm up completely as the early dusk sets in cold."
+                "en": "Conclude your robust winter ride at this grand architectural site, ensuring you head indoors to warm up completely as the early dusk sets in cold.",
+                "fr": "Concluez votre solide sortie hivernale à ce grand site architectural, en veillant à entrer à l'intérieur pour vous réchauffer complètement à mesure que le crépuscule précoce s'installe au froid."
               }
             }
           ]
@@ -709,7 +787,8 @@
             "de": "Église Saint-Martin",
             "hu": "Église Saint-Martin",
             "ro": "Église Saint-Martin",
-            "en": "Église Saint-Martin"
+            "en": "Église Saint-Martin",
+            "fr": "Église Saint-Martin"
           },
           "coords": [
             2.88362,
@@ -724,7 +803,8 @@
             "de": "Bestaunen Sie die historische Kirche Saint-Martin mit ihrer großen kulturellen Bedeutung und betrachten Sie die Außenfassade, bevor Sie das friedliche Kirchenschiff betreten.",
             "hu": "Csodálja meg a történelmi jelentőségű Église Saint-Martin épületét, és alaposan vegye szemügyre a külső homlokzatot, mielőtt belépne a nyugodt főhajóba.",
             "ro": "Admirați istorica biserică Saint-Martin cu semnificația sa culturală profundă și priviți atent fațada exterioară înainte de a păși în naosul senin.",
-            "en": "Marvel at the historic Église Saint-Martin with its profound cultural significance, and look closely at the exterior facade before stepping into the serene nave."
+            "en": "Marvel at the historic Église Saint-Martin with its profound cultural significance, and look closely at the exterior facade before stepping into the serene nave.",
+            "fr": "Admirez la historicité de l'Église Saint-Martin et sa profonde signification culturelle, et regardez attentivement la façade extérieure avant de pénétrer dans la nef sereine."
           }
         },
         {
@@ -732,7 +812,8 @@
             "de": "Kriegerdenkmal von Rouvroy",
             "hu": "Rouvroy Háborús Emlékmű",
             "ro": "Monumentul Eroilor din Rouvroy",
-            "en": "War Memorial of Rouvroy"
+            "en": "War Memorial of Rouvroy",
+            "fr": "Monument aux Morts de Rouvroy"
           },
           "coords": [
             2.905648,
@@ -747,7 +828,8 @@
             "de": "Bewundern Sie das ergreifende Kriegerdenkmal zu Ehren lokaler Helden und nehmen Sie sich einen Moment Zeit, um über die reiche Geschichte nachzudenken.",
             "hu": "Csodálja meg a helyi hősök előtt tisztelgő megható háborús emlékművet, és szánjon egy percet Rouvroy gazdag történelmének elmélyült átgondolására.",
             "ro": "Admirați impresionantul monument dedicat eroilor locali și luați-vă un moment pentru a reflecta asupra istoriei bogate a orașului într-un cadru liniștit.",
-            "en": "Admire the poignant War Memorial honoring local heroes, and take a moment to reflect on Rouvroy's rich history while enjoying the tranquil surroundings."
+            "en": "Admire the poignant War Memorial honoring local heroes, and take a moment to reflect on Rouvroy's rich history while enjoying the tranquil surroundings.",
+            "fr": "Admirez le poignant Monument aux Morts honorant les héros locaux, et prenez un moment pour réfléchir à la riche histoire de Rouvroy tout en profitant des environs tranquilles."
           }
         },
         {
@@ -755,7 +837,8 @@
             "de": "Abraumhalden von Rouvroy",
             "hu": "Rouvroy Meddőhányói",
             "ro": "Haldele de Steril din Rouvroy",
-            "en": "Slag Heaps of Rouvroy"
+            "en": "Slag Heaps of Rouvroy",
+            "fr": "Terrils de Rouvroy"
           },
           "coords": [
             2.903673,
@@ -770,7 +853,8 @@
             "de": "Erklimmen Sie die markanten Abraumhalden für atemberaubende Panoramablicke und tragen Sie bequeme Schuhe, um das historische Bergbaugebiet sicher zu erkunden.",
             "hu": "Mássza meg az ikonikus meddőhányókat a lélegzetelállító panorámáért, és viseljen kényelmes cipőt a történelmi bányaterület biztonságos felfedezéséhez.",
             "ro": "Urcați pe iconicele halde de steril pentru a admira priveliști panoramice uluitoare, purtând încălțăminte confortabilă pentru a explora în siguranță zona.",
-            "en": "Climb the iconic Slag Heaps to experience breathtaking panoramic views of the region and wear comfortable shoes to navigate the historic mining terrain safely."
+            "en": "Climb the iconic Slag Heaps to experience breathtaking panoramic views of the region and wear comfortable shoes to navigate the historic mining terrain safely.",
+            "fr": "Grimpez les terrils emblématiques pour profiter d'une vue panoramique à couper le souffle sur la région et portez des chaussures confortables pour circuler en toute sécurité sur ce terrain minier historique."
           }
         },
         {
@@ -778,7 +862,8 @@
             "de": "Cité Nouméa",
             "hu": "Cité Nouméa",
             "ro": "Cité Nouméa",
-            "en": "Cité Nouméa"
+            "en": "Cité Nouméa",
+            "fr": "Cité Nouméa"
           },
           "coords": [
             2.912579,
@@ -793,7 +878,8 @@
             "de": "Erkunden Sie den architektonischen Charme der Cité Nouméa, um das Bergbauerbe zu verstehen, und bringen Sie Ihre Kamera für die einzigartigen Backsteinhäuser mit.",
             "hu": "Fedezze fel a Cité Nouméa építészeti varázsát, hogy megértse a bányászati örökséget, és ne felejtse el fényképezőgépét az egyedi téglaházak megörökítéséhez.",
             "ro": "Explorați farmecul arhitectural al Cité Nouméa pentru a înțelege patrimoniul minier și nu uitați aparatul foto pentru a surprinde casele unice din cărămidă.",
-            "en": "Explore the architectural charm of Cité Nouméa to understand the region's mining heritage, and don't forget your camera to capture the unique brick houses."
+            "en": "Explore the architectural charm of Cité Nouméa to understand the region's mining heritage, and don't forget your camera to capture the unique brick houses.",
+            "fr": "Explorez le charme architectural de la Cité Nouméa pour comprendre le patrimoine minier de la région, et n'oubliez pas votre appareil photo pour immortaliser les maisons en briques uniques."
           }
         },
         {
@@ -801,7 +887,8 @@
             "de": "Kirche Saint-Louis",
             "hu": "Saint-Louis Templom",
             "ro": "Biserica Saint-Louis",
-            "en": "Saint-Louis Church"
+            "en": "Saint-Louis Church",
+            "fr": "Église Saint-Louis"
           },
           "coords": [
             2.912579,
@@ -816,7 +903,8 @@
             "de": "Betreten Sie die wunderschön gestaltete Kirche Saint-Louis, um ihre atemberaubenden Buntglasfenster zu bewundern, und besuchen Sie sie am besten morgens.",
             "hu": "Lépjen be a gyönyörűen kidolgozott Saint-Louis templomba, csodálja meg az ólomüveg ablakokat, és a legjobb fényviszonyokért próbáljon délelőtt érkezni.",
             "ro": "Pășiți în minunata biserică Saint-Louis pentru a admira vitraliile uimitoare, fiind recomandat să o vizitați dimineața pentru cea mai bună lumină naturală.",
-            "en": "Step inside the beautifully crafted Saint-Louis Church to admire its stunning stained glass windows, and visit during morning hours for the best natural lighting."
+            "en": "Step inside the beautifully crafted Saint-Louis Church to admire its stunning stained glass windows, and visit during morning hours for the best natural lighting.",
+            "fr": "Entrez dans la magnifiquement conçue église Saint-Louis pour admirer ses superbes vitraux, et visitez-la le matin pour bénéficier du meilleur éclairage naturel."
           }
         },
         {
@@ -824,7 +912,8 @@
             "de": "Église Notre-Dame-de-la-Visitation",
             "hu": "Église Notre-Dame-de-la-Visitation",
             "ro": "Église Notre-Dame-de-la-Visitation",
-            "en": "Église Notre-Dame-de-la-Visitation"
+            "en": "Église Notre-Dame-de-la-Visitation",
+            "fr": "Église Notre-Dame-de-la-Visitation"
           },
           "coords": [
             2.91342,
@@ -839,7 +928,8 @@
             "de": "Genießen Sie das spirituelle Ambiente der Église Notre-Dame-de-la-Visitation, einem architektonischen Juwel der Gegend, und besuchen Sie die ruhigen Seitenkapellen.",
             "hu": "Élvezze az Église Notre-Dame-de-la-Visitation spirituális hangulatát, a környék építészeti gyöngyszemét, és látogassa meg az oldalkápolnákat egy kis elmélyülésre.",
             "ro": "Bucurați-vă de ambianța spirituală a bisericii Notre-Dame-de-la-Visitation, o bijuterie arhitecturală a zonei, și vizitați capelele laterale pentru reflecție.",
-            "en": "Take in the spiritual ambiance of Église Notre-Dame-de-la-Visitation, an architectural gem of the area, and visit the side chapels for moments of quiet reflection."
+            "en": "Take in the spiritual ambiance of Église Notre-Dame-de-la-Visitation, an architectural gem of the area, and visit the side chapels for moments of quiet reflection.",
+            "fr": "Imprégnez-vous de l'ambiance spirituelle de l'Église Notre-Dame-de-la-Visitation, un joyau architectural de la région, et visitez les chapelles latérales pour des moments de recueillement."
           }
         },
         {
@@ -847,7 +937,8 @@
             "de": "Église Saint-Léger",
             "hu": "Église Saint-Léger",
             "ro": "Église Saint-Léger",
-            "en": "Église Saint-Léger"
+            "en": "Église Saint-Léger",
+            "fr": "Église Saint-Léger"
           },
           "coords": [
             2.926926,
@@ -862,7 +953,8 @@
             "de": "Entdecken Sie die friedliche Atmosphäre der Église Saint-Léger, die einen ruhigen Rückzugsort bietet, und achten Sie besonders auf die feinen Holzarbeiten.",
             "hu": "Fedezze fel az Église Saint-Léger békés légkörét, amely csendes menedéket kínál a nyüzsgő utcák elől, és szánjon időt a bonyolult famunkák megfigyelésére.",
             "ro": "Descoperiți atmosfera pașnică a bisericii Saint-Léger, care oferă un refugiu liniștit, și alocați-vă timp pentru a remarca detaliile complicate din lemn.",
-            "en": "Discover the peaceful atmosphere of Église Saint-Léger, which offers a quiet retreat from the bustling streets, and take time to notice the intricate woodwork inside."
+            "en": "Discover the peaceful atmosphere of Église Saint-Léger, which offers a quiet retreat from the bustling streets, and take time to notice the intricate woodwork inside.",
+            "fr": "Découvrez l'atmosphère paisible de l'Église Saint-Léger, qui offre un refuge calme loin des rues animées, et prenez le temps d'observer les boiseries délicates à l'intérieur."
           }
         },
         {
@@ -870,7 +962,8 @@
             "de": "Église Sainte-Barbe",
             "hu": "Église Sainte-Barbe",
             "ro": "Église Sainte-Barbe",
-            "en": "Église Sainte-Barbe"
+            "en": "Église Sainte-Barbe",
+            "fr": "Église Sainte-Barbe"
           },
           "coords": [
             2.937503,
@@ -885,7 +978,8 @@
             "de": "Beenden Sie Ihre kulturelle Reise in der Église Sainte-Barbe, einem den Bergleuten gewidmeten religiösen Denkmal, und beobachten Sie die einzigartigen industriellen Einflüsse.",
             "hu": "Zárja kulturális utazását az Église Sainte-Barbe-nál, a bányászoknak szentelt vallási emlékműnél, és figyelje meg a tervezésében rejlő egyedi ipari hatásokat.",
             "ro": "Încheiați-vă călătoria culturală la biserica Sainte-Barbe, un monument religios remarcabil dedicat minerilor, observând influențele industriale unice în design.",
-            "en": "End your cultural journey at Église Sainte-Barbe, a striking religious monument dedicated to miners, and observe the unique industrial influences in its design."
+            "en": "End your cultural journey at Église Sainte-Barbe, a striking religious monument dedicated to miners, and observe the unique industrial influences in its design.",
+            "fr": "Terminez votre parcours culturel à l'Église Sainte-Barbe, un imposant monument religieux dédié aux mineurs, et remarquez les influences industrielles uniques dans son architecture."
           }
         }
       ],
@@ -893,7 +987,8 @@
         "de": "Beginnen Sie Ihren Tag in Rouvroy mit der Erkundung des bürgerlichen Herzens und erklimmen Sie die markanten Abraumhalden für einen weiten Blick auf das Bergbauerbe. Mittags schlendern Sie durch die charmanten Straßen der Cité Nouméa und besuchen die Kirche Saint-Louis. Am Nachmittag entdecken Sie weitere historische Kirchen. Lassen Sie den Tag mit dem tiefen Geschichtsbewusstsein ausklingen.",
         "hu": "Kezdje a rouvroy-i napot a polgári központ felfedezésével és a meddőhányók megmászásával, ahonnan csodás kilátás nyílik a bányászati örökségre. Délben sétáljon végig a Cité Nouméa bájos utcáin, és látogassa meg a Saint-Louis templomot. A délután folyamán fedezze fel a tájat tarkító történelmi templomokat. Zárja a napot Észak-Franciaország gazdag történelmével gazdagodva.",
         "ro": "Începeți ziua în Rouvroy explorând centrul civic și urcând pe haldele de steril pentru o priveliște vastă a moștenirii miniere. La prânz, plimbați-vă pe străzile fermecătoare din Cité Nouméa și vizitați biserica Saint-Louis. După-amiaza este dedicată descoperirii mai multor biserici de patrimoniu care presară peisajul. Încheiați-vă ziua îmbogățiți de istoria profundă a nordului Franței.",
-        "en": "Begin your Rouvroy day exploring its civic heart and climbing the iconic Slag Heaps for a sprawling view of its mining legacy. Midday takes you through the charming streets of Cité Nouméa, paired with the serene beauty of the Saint-Louis Church. The afternoon consists of discovering multiple heritage churches that dot the landscape. Wrap up your day enriched by northern France's deep history."
+        "en": "Begin your Rouvroy day exploring its civic heart and climbing the iconic Slag Heaps for a sprawling view of its mining legacy. Midday takes you through the charming streets of Cité Nouméa, paired with the serene beauty of the Saint-Louis Church. The afternoon consists of discovering multiple heritage churches that dot the landscape. Wrap up your day enriched by northern France's deep history.",
+        "fr": "Commencez votre journée à Rouvroy en explorant son cœur civique et en gravissant les terrils emblématiques pour une vue étendue sur son héritage minier. À midi, parcourez les charmantes rues de la Cité Nouméa, accompagnées de la sérénité de l'église Saint-Louis. L'après-midi consiste à découvrir plusieurs églises patrimoniales qui ponctuent le paysage. Concluez la journée enrichi par la profonde histoire du nord de la France."
       },
       "variants": {
         "rainy": {
@@ -901,7 +996,8 @@
             "de": "Die Autotour beginnt bei Saint-Martin; Scheibenwischer an und auf Pfützen achten. Fahren Sie gemütlich zum Denkmal und den Abraumhalden und genießen Sie die Sicht aus dem trockenen Auto. Mittags steuern Sie durch die nassen Straßen der Cité Nouméa und parken kurz an der Kirche Saint-Louis. Der regnerische Nachmittag führt zu Notre-Dame, Saint-Léger und Sainte-Barbe mit schnellen Sprints in die trockenen Kirchen.",
             "hu": "Az autós túra a Saint-Martinnál kezdődik; figyeljen a tócsákra. Vezessen el az emlékmű és a meddőhányók mellett, élvezve a látványt a fűtött, száraz autóból. Délben a Cité Nouméa vizes utcáin parkoljon le röviden a Saint-Louis templomhoz. Az esős délután a Notre-Dame, Saint-Léger és Sainte-Barbe felkeresésével telik, gyors sprinteléseket téve az autóból a védett szentélyekbe.",
             "ro": "Turul auto începe la Saint-Martin; porniți ștergătoarele. Conduceți lejer spre Monument și Halde, bucurându-vă de peisaj din mașina uscată. La prânz, navigați pe străzile ude din Cité Nouméa, parcând scurt la Biserica Saint-Louis. După-amiaza ploioasă acoperă Notre-Dame, Saint-Léger și Sainte-Barbe, permițând treceri rapide din mașină în aceste sanctuare adăpostite.",
-            "en": "A driving tour starts at Saint-Martin; keep the wipers on and mind the puddles. Drive easily to the War Memorial and the Slag Heaps, enjoying the sights from the warm, dry car. By noon, navigate the wet streets of Cité Nouméa, parking briefly to see Saint-Louis Church. The rainy afternoon covers Notre-Dame, Saint-Léger, and Sainte-Barbe, allowing quick dashes from your car to these sheltered sanctuaries."
+            "en": "A driving tour starts at Saint-Martin; keep the wipers on and mind the puddles. Drive easily to the War Memorial and the Slag Heaps, enjoying the sights from the warm, dry car. By noon, navigate the wet streets of Cité Nouméa, parking briefly to see Saint-Louis Church. The rainy afternoon covers Notre-Dame, Saint-Léger, and Sainte-Barbe, allowing quick dashes from your car to these sheltered sanctuaries.",
+            "fr": "Une visite en voiture commence à Saint-Martin ; gardez les essuie-glaces en marche et faites attention aux flaques. Roulez tranquillement jusqu'au mémorial aux morts et aux terrils, en profitant des vues depuis la voiture chaude et sèche. À midi, circulez dans les rues mouillées de la Cité Nouméa, en vous garant brièvement pour voir l'église Saint-Louis. L'après-midi pluvieux couvre Notre-Dame, Saint-Léger et Sainte-Barbe, permettant de courts trajets depuis votre voiture vers ces sanctuaires abrités."
           },
           "stops": [
             {
@@ -909,13 +1005,15 @@
                 "de": "Église Saint-Martin",
                 "hu": "Église Saint-Martin",
                 "ro": "Église Saint-Martin",
-                "en": "Église Saint-Martin"
+                "en": "Église Saint-Martin",
+                "fr": "Église Saint-Martin"
               },
               "tip_5lang": {
                 "de": "Betrachten Sie das imposante Kirchenäußere aus dem Fahrzeug oder nehmen Sie einen Regenschirm für einen schnellen Blick hinein; die Stufen sind rutschig.",
                 "hu": "Szemlélje meg a lenyűgöző templom külsejét a járműből, vagy vigyen esernyőt egy gyors benti látogatáshoz, vigyázva a csúszós bejárati lépcsőkre.",
                 "ro": "Priviți exteriorul impunător al bisericii din vehicul sau luați o umbrelă pentru a intra rapid, având grijă la treptele care devin foarte alunecoase.",
-                "en": "Check out the imposing church exterior from your vehicle, or grab an umbrella for a quick peek inside, being careful as the steps get slippery."
+                "en": "Check out the imposing church exterior from your vehicle, or grab an umbrella for a quick peek inside, being careful as the steps get slippery.",
+                "fr": "Admirez l'imposante façade de l'église depuis votre véhicule, ou prenez un parapluie pour un rapide coup d'œil à l'intérieur, en faisant attention car les marches deviennent glissantes."
               }
             },
             {
@@ -923,13 +1021,15 @@
                 "de": "Kriegerdenkmal von Rouvroy",
                 "hu": "Rouvroy Háborús Emlékmű",
                 "ro": "Monumentul Eroilor din Rouvroy",
-                "en": "War Memorial of Rouvroy"
+                "en": "War Memorial of Rouvroy",
+                "fr": "War Memorial of Rouvroy"
               },
               "tip_5lang": {
                 "de": "Kurbeln Sie das Fenster kurz herunter, um die Gefallenen zu ehren, und bleiben Sie im Auto trocken, während heftige Schauer über den Platz fegen.",
                 "hu": "Húzza le az ablakot egy percre, hogy tisztelegjen a hősök előtt, szárazon maradva az autóban, és elkerülve a téren végigsöprő heves záporokat.",
                 "ro": "Coborâți geamul scurt pentru a respecta eroii căzuți, rămânând uscat în mașină și evitând aversele puternice care mătură piațeta deschisă.",
-                "en": "Roll down your window briefly to respect the fallen heroes, staying dry in the car while avoiding the heavy downpours sweeping across the square."
+                "en": "Roll down your window briefly to respect the fallen heroes, staying dry in the car while avoiding the heavy downpours sweeping across the square.",
+                "fr": "Baissez brièvement la vitre pour honorer les héros tombés, en restant au sec dans la voiture tout en évitant les fortes averses qui balaient la place."
               }
             },
             {
@@ -937,13 +1037,15 @@
                 "de": "Abraumhalden von Rouvroy",
                 "hu": "Rouvroy Meddőhányói",
                 "ro": "Haldele de Steril din Rouvroy",
-                "en": "Slag Heaps of Rouvroy"
+                "en": "Slag Heaps of Rouvroy",
+                "fr": "Slag Heaps of Rouvroy"
               },
               "tip_5lang": {
                 "de": "Parken Sie unten, um diese schwarzen Hügel zu fotografieren; lassen Sie die matschige Wanderung heute aus und bewundern Sie den Kontrast vom Fahrersitz.",
                 "hu": "Parkoljon le a lábánál a fekete dombok fotózásához; a saras túrát ma érdemes kihagyni, és inkább a sofőrülésből csodálni a lenyűgöző kontrasztot.",
                 "ro": "Parcați la bază pentru a fotografia dealurile negre; e mai bine să săriți peste drumeția noroioasă azi și să admirați contrastul de pe scaunul șoferului.",
-                "en": "Park at the base to photograph these monumental black hills; it's best to skip the muddy hike today and admire the striking contrast from the driver's seat."
+                "en": "Park at the base to photograph these monumental black hills; it's best to skip the muddy hike today and admire the striking contrast from the driver's seat.",
+                "fr": "Garez-vous à la base pour photographier ces collines noires monumentales ; il vaut mieux éviter la randonnée boueuse aujourd'hui et admirer le contraste saisissant depuis le siège du conducteur."
               }
             },
             {
@@ -951,13 +1053,15 @@
                 "de": "Cité Nouméa",
                 "hu": "Cité Nouméa",
                 "ro": "Cité Nouméa",
-                "en": "Cité Nouméa"
+                "en": "Cité Nouméa",
+                "fr": "Cité Nouméa"
               },
               "tip_5lang": {
                 "de": "Fahren Sie langsam durch die historischen Bergbaustraßen, um das Erbe zu genießen, und achten Sie auf tiefe Pfützen, die Fußgänger nassspritzen könnten.",
                 "hu": "Vezessen lassan a szűk, történelmi bányászutcákon a különleges örökségért, figyelve a mély tócsákra, amelyek felverődve lefröcskölhetik a gyalogosokat.",
                 "ro": "Conduceți încet pe străzile miniere înguste pentru a vedea patrimoniul, atenți la bălțile adânci care ar putea stropi pietonii pe vremea aceasta ploioasă.",
-                "en": "Drive slowly through the narrow, historic mining streets to take in the unique heritage, mindful of deep puddles that could splash pedestrians."
+                "en": "Drive slowly through the narrow, historic mining streets to take in the unique heritage, mindful of deep puddles that could splash pedestrians.",
+                "fr": "Roulez lentement dans les rues étroites et historiques du quartier minier pour apprécier son patrimoine unique, en faisant attention aux grandes flaques qui pourraient éclabousser les piétons."
               }
             },
             {
@@ -965,13 +1069,15 @@
                 "de": "Kirche Saint-Louis",
                 "hu": "Saint-Louis Templom",
                 "ro": "Biserica Saint-Louis",
-                "en": "Saint-Louis Church"
+                "en": "Saint-Louis Church",
+                "fr": "Saint-Louis Church"
               },
               "tip_5lang": {
                 "de": "Sprinten Sie vom Parkplatz in dieses schöne Gebäude, um das trockene Innere zu schätzen, und lassen Sie den tropfenden Regenmantel im Kofferraum.",
                 "hu": "Sprinteljen a parkolóból ebbe a gyönyörű épületbe, hogy élvezze a csendes, száraz belső teret, a csöpögő esőkabátot pedig hagyja a csomagtartóban.",
                 "ro": "Fugiți de la parcare în această clădire frumoasă pentru a aprecia interiorul liniștit și uscat, lăsând pelerina de ploaie udă în portbagajul mașinii.",
-                "en": "Sprint from your parking spot into this beautiful structure to appreciate its quiet, dry interior, leaving your dripping raincoat safely in the trunk."
+                "en": "Sprint from your parking spot into this beautiful structure to appreciate its quiet, dry interior, leaving your dripping raincoat safely in the trunk.",
+                "fr": "Courez depuis votre place de parking jusqu'à cette belle église pour apprécier son intérieur calme et sec, en laissant votre imperméable dégoulinant dans le coffre."
               }
             },
             {
@@ -979,13 +1085,15 @@
                 "de": "Église Notre-Dame-de-la-Visitation",
                 "hu": "Église Notre-Dame-de-la-Visitation",
                 "ro": "Église Notre-Dame-de-la-Visitation",
-                "en": "Église Notre-Dame-de-la-Visitation"
+                "en": "Église Notre-Dame-de-la-Visitation",
+                "fr": "Église Notre-Dame-de-la-Visitation"
               },
               "tip_5lang": {
                 "de": "Halten Sie nahe der Fassade dieser Ziegelgemeinde; wenn Sie eintreten, nutzen Sie die schweren Holztüren, um den harten, peitschenden Regen abzublocken.",
                 "hu": "Álljon meg a tégla plébánia homlokzata közelében; ha bemegy, a nehéz faajtók tökéletesen kizárják a délutáni zord, szakadó eső zaját és vizét.",
                 "ro": "Opriți lângă fațada acestei parohii din cărămidă; dacă intrați, folosiți ușile grele de lemn pentru a bloca ploaia aspră și bătută de vânt a după-amiezii.",
-                "en": "Pause near the facade of this brick parish; if you choose to enter, use the heavy wooden doors to block out the harsh, driving rain of the afternoon."
+                "en": "Pause near the facade of this brick parish; if you choose to enter, use the heavy wooden doors to block out the harsh, driving rain of the afternoon.",
+                "fr": "Faites une pause près de la façade de cette paroisse en brique ; si vous choisissez d'entrer, utilisez les lourdes portes en bois pour vous protéger de la pluie battante de l'après-midi."
               }
             },
             {
@@ -993,13 +1101,15 @@
                 "de": "Église Saint-Léger",
                 "hu": "Église Saint-Léger",
                 "ro": "Église Saint-Léger",
-                "en": "Église Saint-Léger"
+                "en": "Église Saint-Léger",
+                "fr": "Église Saint-Léger"
               },
               "tip_5lang": {
                 "de": "Genießen Sie die stattliche Architektur; die nahen Parkplätze machen es leicht, das beeindruckende Kirchenschiff zu besuchen, ohne völlig durchnässt zu werden.",
                 "hu": "Élvezze e klasszikus templom tekintélyes építészetét; a közeli parkolás megkönnyíti a lenyűgöző főhajó meglátogatását anélkül, hogy teljesen elázna.",
                 "ro": "Bucurați-vă de arhitectura majestuoasă a acestei biserici; parcarea apropiată facilitează vizitarea naosului impresionant fără a vă uda complet.",
-                "en": "Enjoy the stately architecture of this classic church; the nearby parking makes it easy to visit the impressive nave without getting completely soaked."
+                "en": "Enjoy the stately architecture of this classic church; the nearby parking makes it easy to visit the impressive nave without getting completely soaked.",
+                "fr": "Appréciez l'architecture majestueuse de cette église classique ; le parking à proximité permet de visiter la nef impressionnante sans être complètement trempé."
               }
             },
             {
@@ -1007,13 +1117,15 @@
                 "de": "Église Sainte-Barbe",
                 "hu": "Église Sainte-Barbe",
                 "ro": "Église Sainte-Barbe",
-                "en": "Église Sainte-Barbe"
+                "en": "Église Sainte-Barbe",
+                "fr": "Église Sainte-Barbe"
               },
               "tip_5lang": {
                 "de": "Beenden Sie die Fahrt an dieser historisch bedeutenden Bergarbeiterkirche, ein passender, voll geschützter Ort, um den nassen Tag abzuschließen.",
                 "hu": "Fejezze be a vezetést e történelmileg jelentős bányásztamplomnál, amely méltó, teljesen védett helyszín a vizes nap lezárására a szállodába térés előtt.",
                 "ro": "Încheiați traseul la această biserică minieră cu importanță istorică, un loc complet adăpostit, potrivit pentru a încheia o zi umedă înainte de retragere.",
-                "en": "Conclude your drive at this historically significant miners' church, a fitting, fully sheltered spot to wrap up a wet day before heading back to the hotel."
+                "en": "Conclude your drive at this historically significant miners' church, a fitting, fully sheltered spot to wrap up a wet day before heading back to the hotel.",
+                "fr": "Concluez votre tour en voiture à cette église historique des mineurs, un endroit parfaitement abrité pour terminer une journée humide avant de retourner à l'hôtel."
               }
             }
           ]
@@ -1023,7 +1135,8 @@
             "de": "Beginnen Sie den frostigen Morgen mit einem vorgewärmten Auto bei Saint-Martin. Fahren Sie geschützt vor dem beißenden Wind am Denkmal und den Abraumhalden vorbei. Mittags geht es durch die Cité Nouméa zur warmen Kirche Saint-Louis. Am späten Nachmittag besuchen Sie Notre-Dame, Saint-Léger und Sainte-Barbe vor 17 Uhr und beenden die Tour gemütlich, wenn die kalte Winternacht hereinbricht.",
             "hu": "Indítsa a fagyos reggelt egy előmelegített autóval a Saint-Martinnál. Vezessen el az emlékmű és a rideg meddőhányók mellett, védve a metsző széltől. Délben haladjon át a Cité Nouméa negyeden a Saint-Louis templom csendes melegébe. Késő délután látogassa meg a Notre-Dame, Saint-Léger és Sainte-Barbe templomokat 5 óra előtt, kényelmesen befejezve a túrát, ahogy leszáll a téli éj.",
             "ro": "Începeți dimineața geroasă cu o mașină preîncălzită la Saint-Martin. Conduceți pe lângă Monument și Haldele de Steril, protejați de vântul tăios. La prânz ajungeți prin Cité Nouméa la căldura Bisericii Saint-Louis. Spre seară, vizitați Notre-Dame, Saint-Léger și Sainte-Barbe înainte de ora 17, încheind turul confortabil chiar când se lasă noaptea de iarnă.",
-            "en": "Start the frosty morning with a pre-warmed car at Saint-Martin. Drive past the War Memorial and the stark Slag Heaps, immune to the biting wind outside. Midday brings you through the heritage Cité Nouméa to the quiet warmth of Saint-Louis Church. In the late afternoon, visit Notre-Dame, Saint-Léger, and Sainte-Barbe before 5 PM, comfortably finishing your tour just as the winter night falls."
+            "en": "Start the frosty morning with a pre-warmed car at Saint-Martin. Drive past the War Memorial and the stark Slag Heaps, immune to the biting wind outside. Midday brings you through the heritage Cité Nouméa to the quiet warmth of Saint-Louis Church. In the late afternoon, visit Notre-Dame, Saint-Léger, and Sainte-Barbe before 5 PM, comfortably finishing your tour just as the winter night falls.",
+            "fr": "Commencez la matinée glaciale avec une voiture préchauffée à Saint-Martin. Passez devant le mémorial aux morts et les austères terrils, à l'abri du vent mordant à l'intérieur. À midi, traversez la Cité Nouméa patrimoniale jusqu'à la chaleur tranquille de l'église Saint-Louis. En fin d'après-midi, visitez Notre-Dame, Saint-Léger et Sainte-Barbe avant 17h, terminant confortablement votre circuit juste au moment où la nuit d'hiver tombe."
           },
           "stops": [
             {
@@ -1031,13 +1144,15 @@
                 "de": "Église Saint-Martin",
                 "hu": "Église Saint-Martin",
                 "ro": "Église Saint-Martin",
-                "en": "Église Saint-Martin"
+                "en": "Église Saint-Martin",
+                "fr": "Église Saint-Martin"
               },
               "tip_5lang": {
                 "de": "Bewundern Sie das robuste Mauerwerk in der Wärme der Heizung und steigen Sie nur kurz für ein Foto in der eisigen Morgenluft aus.",
                 "hu": "Csodálja meg az ellenálló kőfalakat a fűtés melegéből, csak rövid időre kiszállva egy fotó erejéig a friss, de fagyos reggeli levegőn.",
                 "ro": "Admirați zidăria rezistentă de la căldura aerotermei, ieșind doar scurt pentru a face o fotografie în aerul proaspăt și înghețat al dimineții.",
-                "en": "Admire the resilient stonework from the warmth of the heater, stepping out only briefly to snap a photo in the crisp, freezing morning air."
+                "en": "Admire the resilient stonework from the warmth of the heater, stepping out only briefly to snap a photo in the crisp, freezing morning air.",
+                "fr": "Admirez le robuste appareil de pierre depuis la chaleur du chauffage, ne sortant que brièvement pour prendre une photo dans l'air vif et glacial du matin."
               }
             },
             {
@@ -1045,13 +1160,15 @@
                 "de": "Kriegerdenkmal von Rouvroy",
                 "hu": "Rouvroy Háborús Emlékmű",
                 "ro": "Monumentul Eroilor din Rouvroy",
-                "en": "War Memorial of Rouvroy"
+                "en": "War Memorial of Rouvroy",
+                "fr": "War Memorial of Rouvroy"
               },
               "tip_5lang": {
                 "de": "Beobachten Sie das Denkmal, ohne den beißenden Wind zu ertragen; lassen Sie den Motor laufen, um eine gemütliche Kabinentemperatur zu halten.",
                 "hu": "Figyelje meg az ünnepélyes emlékművet a metsző szél elviselése nélkül; járassa a motort, hogy fenntartsa a kényelmes utastéri hőmérsékletet.",
                 "ro": "Observați tributul solemn fără a suporta vântul tăios; lăsați motorul la ralanti pentru a menține temperatura confortabilă în cabină.",
-                "en": "Observe the solemn tribute without enduring the biting wind; keep the engine idling to maintain a cozy cabin temperature while paying respects."
+                "en": "Observe the solemn tribute without enduring the biting wind; keep the engine idling to maintain a cozy cabin temperature while paying respects.",
+                "fr": "Observez l'hommage solennel sans affronter le vent mordant ; laissez le moteur tourner pour maintenir une cabine confortable pendant que vous rendez vos respects."
               }
             },
             {
@@ -1059,13 +1176,15 @@
                 "de": "Abraumhalden von Rouvroy",
                 "hu": "Rouvroy Meddőhányói",
                 "ro": "Haldele de Steril din Rouvroy",
-                "en": "Slag Heaps of Rouvroy"
+                "en": "Slag Heaps of Rouvroy",
+                "fr": "Slag Heaps of Rouvroy"
               },
               "tip_5lang": {
                 "de": "Betrachten Sie die frostbedeckten Bergbaupyramiden von einer sicheren Haltebucht aus; eisige Wege sind riskant, aber der winterliche Anblick ist grandios.",
                 "hu": "Bámulja a dérlepte bányászpiramisokat egy biztonságos lehajtóról; a jeges ösvények mászása kockázatos, de a zord téli látvány az útról is fenséges.",
                 "ro": "Priviți piramidele miniere acoperite de brumă dintr-un loc sigur; urcarea pe potecile cu gheață e riscantă, dar priveliștea de iarnă e magnifică de la șosea.",
-                "en": "Gaze at the frost-covered mining pyramids from a safe pull-out spot; climbing the icy trails is risky, but the stark winter view is magnificent from the road."
+                "en": "Gaze at the frost-covered mining pyramids from a safe pull-out spot; climbing the icy trails is risky, but the stark winter view is magnificent from the road.",
+                "fr": "Contemplez les pyramides minières couvertes de givre depuis un emplacement de stationnement sécurisé ; gravir les sentiers verglacés est risqué, mais la vue hivernale est magnifique depuis la route."
               }
             },
             {
@@ -1073,13 +1192,15 @@
                 "de": "Cité Nouméa",
                 "hu": "Cité Nouméa",
                 "ro": "Cité Nouméa",
-                "en": "Cité Nouméa"
+                "en": "Cité Nouméa",
+                "fr": "Cité Nouméa"
               },
               "tip_5lang": {
                 "de": "Fahren Sie durch diese UNESCO-Siedlung, während die tiefe Wintersonne lange Schatten auf die Ziegel wirft, und lassen Sie die Entfrostung laufen.",
                 "hu": "Guruljon át az UNESCO bányásztelepülésen, ahogy az alacsony téli nap hosszú árnyékokat vet a téglafalakra; járassa a szélvédő-párátlanítót magas fokozaton.",
                 "ro": "Treceți prin această așezare UNESCO, în timp ce soarele jos de iarnă aruncă umbre lungi pe fațadele de cărămidă, cu dezaburirea mașinii la maximum.",
-                "en": "Cruise through this UNESCO mining estate as the low winter sun casts long shadows over the brick facades, keeping your car's defroster running high."
+                "en": "Cruise through this UNESCO mining estate as the low winter sun casts long shadows over the brick facades, keeping your car's defroster running high.",
+                "fr": "Parcourez cette cité minière classée au patrimoine alors que le bas soleil d'hiver projette de longues ombres sur les façades en brique, en maintenant le dégivreur de la voiture à plein régime."
               }
             },
             {
@@ -1087,13 +1208,15 @@
                 "de": "Kirche Saint-Louis",
                 "hu": "Saint-Louis Templom",
                 "ro": "Biserica Saint-Louis",
-                "en": "Saint-Louis Church"
+                "en": "Saint-Louis Church",
+                "fr": "Saint-Louis Church"
               },
               "tip_5lang": {
                 "de": "Besuchen Sie dieses friedliche Heiligtum und eilen Sie schnell zurück zu den beheizten Autositzen, bevor die Kälte in Ihren Wintermantel kriecht.",
                 "hu": "Látogassa meg ezt a békés szentélyt, majd siessen vissza a fűthető autóülésekhez, mielőtt a metsző hideg teljesen áthatolna a télikabátján.",
                 "ro": "Vizitați acest sanctuar pașnic pentru artă, grăbindu-vă repede înapoi la scaunele încălzite ale mașinii înainte ca frigul să vă pătrundă haina de iarnă.",
-                "en": "Visit this peaceful sanctuary to view its art, rushing quickly back to your heated car seats before the biting cold seeps into your winter coat."
+                "en": "Visit this peaceful sanctuary to view its art, rushing quickly back to your heated car seats before the biting cold seeps into your winter coat.",
+                "fr": "Visitez ce sanctuaire paisible pour voir ses œuvres, en retournant rapidement à vos sièges chauffants avant que le froid ne s'infiltre dans votre manteau d'hiver."
               }
             },
             {
@@ -1101,13 +1224,15 @@
                 "de": "Église Notre-Dame-de-la-Visitation",
                 "hu": "Église Notre-Dame-de-la-Visitation",
                 "ro": "Église Notre-Dame-de-la-Visitation",
-                "en": "Église Notre-Dame-de-la-Visitation"
+                "en": "Église Notre-Dame-de-la-Visitation",
+                "fr": "Église Notre-Dame-de-la-Visitation"
               },
               "tip_5lang": {
                 "de": "Werfen Sie einen Blick auf diese beeindruckende Gemeindekirche; schalten Sie das Licht früh ein, da dunkle Winterwolken oft schon gegen 15 Uhr aufziehen.",
                 "hu": "Vessen egy pillantást az impozáns közösségi templomra; gondoskodjon a fényszórók korai felkapcsolásáról, mivel a sötét téli felhők már 3 óra körül gyülekeznek.",
                 "ro": "Aruncați o privire la această biserică impresionantă, asigurându-vă că farurile sunt aprinse devreme, deoarece norii întunecați de iarnă apar pe la ora 15.",
-                "en": "Take a look at this impressive community church, ensuring your headlights are turned on early as the dark winter clouds often roll in around 3 PM."
+                "en": "Take a look at this impressive community church, ensuring your headlights are turned on early as the dark winter clouds often roll in around 3 PM.",
+                "fr": "Jetez un œil à cette imposante église communautaire, en veillant à allumer vos phares tôt car les nuages d'hiver sombres arrivent souvent vers 15h."
               }
             },
             {
@@ -1115,13 +1240,15 @@
                 "de": "Église Saint-Léger",
                 "hu": "Église Saint-Léger",
                 "ro": "Église Saint-Léger",
-                "en": "Église Saint-Léger"
+                "en": "Église Saint-Léger",
+                "fr": "Église Saint-Léger"
               },
               "tip_5lang": {
                 "de": "Schätzen Sie die großen Buntglasfenster von innen und vertrauen Sie auf die dicken Steinmauern, die die eisige Zugluft der Dämmerung abblocken.",
                 "hu": "Értékelje belülről a grandiózus ólomüveg ablakokat, bízva a tömör kőfalakban, melyek kizárják a fagyos huzatot, ami alkonyatkor végigsöpör a városon.",
                 "ro": "Apreciați vitraliile grandioase din interior, bazându-vă pe pereții masivi de piatră care blochează curenții înghețați ce străbat orașul la amurg.",
-                "en": "Appreciate the grand stained glass from inside, relying on the solid stone walls to block out the freezing drafts that sweep through the town at dusk."
+                "en": "Appreciate the grand stained glass from inside, relying on the solid stone walls to block out the freezing drafts that sweep through the town at dusk.",
+                "fr": "Appréciez les grands vitraux depuis l'intérieur, comptez sur les murs solides en pierre pour bloquer les courants d'air glacés qui balaient la ville au crépuscule."
               }
             },
             {
@@ -1129,13 +1256,15 @@
                 "de": "Église Sainte-Barbe",
                 "hu": "Église Sainte-Barbe",
                 "ro": "Église Sainte-Barbe",
-                "en": "Église Sainte-Barbe"
+                "en": "Église Sainte-Barbe",
+                "fr": "Église Sainte-Barbe"
               },
               "tip_5lang": {
                 "de": "Beenden Sie die Tour an der Kirche der Schutzpatronin; parken Sie direkt davor, um den letzten Gang in der dunklen, eisigen Luft zu minimieren.",
                 "hu": "Zárja a túrát a védőszent e templománál; parkoljon közvetlenül az épület előtt, hogy minimalizálja az utolsó, sötétben és hidegben megtett sétát hazautazás előtt.",
                 "ro": "Încheiați turul la biserica patroanei spirituale; parcați chiar în față pentru a scurta ultima plimbare în aerul întunecat și înghețat, înainte de drumul spre casă.",
-                "en": "End the tour at this dedicated patron's church; park right out front to minimize your final walk in the dark, freezing winter air before driving home."
+                "en": "End the tour at this dedicated patron's church; park right out front to minimize your final walk in the dark, freezing winter air before driving home.",
+                "fr": "Terminez la visite à cette église dédiée au patron ; garez-vous juste devant pour minimiser votre dernier trajet à pied dans l'air hivernal sombre et glacial avant de rentrer."
               }
             }
           ]

@@ -21,7 +21,8 @@
             "de": "Hôtel de Ville",
             "hu": "Városháza",
             "ro": "Primăria",
-            "en": "City Hall"
+            "en": "City Hall",
+            "fr": "Hôtel de Ville"
           },
           "coords": [
             4.076811,
@@ -36,7 +37,8 @@
             "de": "Bewundern Sie die elegante Architektur dieses bürgerlichen Zentrums und starten Sie Ihren Tag am besten mit einem Kaffee auf dem belebten Vorplatz.",
             "hu": "Csodálja meg ezen elegáns polgári épület homlokzatát, és kezdje a napját egy kávéval a nyüzsgő téren.",
             "ro": "Admirați arhitectura elegantă a acestui centru civic și începeți ziua cu o cafea în piața animată din față.",
-            "en": "Admire the elegant architecture of this civic center and start your day right by enjoying a coffee in the bustling square in front."
+            "en": "Admire the elegant architecture of this civic center and start your day right by enjoying a coffee in the bustling square in front.",
+            "fr": "Admirez l'élégante architecture de ce centre civique et commencez bien la journée en prenant un café sur la place animée devant."
           }
         },
         {
@@ -44,7 +46,8 @@
             "de": "Cathédrale Saint-Jean-Baptiste",
             "hu": "Keresztelő Szent János-székesegyház",
             "ro": "Catedrala Sfântul Ioan Botezătorul",
-            "en": "Saint-Jean-Baptiste Cathedral"
+            "en": "Saint-Jean-Baptiste Cathedral",
+            "fr": "Cathédrale Saint-Jean-Baptiste"
           },
           "coords": [
             4.076619,
@@ -59,7 +62,8 @@
             "de": "Betrachten Sie die beeindruckenden gotischen und romanischen Elemente dieser Kirche; achten Sie besonders auf die detaillierten Fenster im Chorraum.",
             "hu": "Figyelje meg a templom lenyűgöző gótikus és román elemeit; fordítson különös figyelmet a szentély részletgazdag ablakaira.",
             "ro": "Observați elementele gotice și romanice impresionante ale acestei biserici; acordați o atenție deosebită ferestrelor detaliate din cor.",
-            "en": "Observe the impressive Gothic and Romanesque elements of this church; pay special attention to the detailed windows in the choir."
+            "en": "Observe the impressive Gothic and Romanesque elements of this church; pay special attention to the detailed windows in the choir.",
+            "fr": "Observez les impressionnants éléments gothiques et romans de cette cathédrale ; prêtez une attention particulière aux fenêtres détaillées du chœur."
           }
         },
         {
@@ -67,7 +71,8 @@
             "de": "Pont Vieux",
             "hu": "Öreg híd",
             "ro": "Podul Vechi",
-            "en": "Old Bridge"
+            "en": "Old Bridge",
+            "fr": "Vieux Pont"
           },
           "coords": [
             4.077623,
@@ -82,7 +87,8 @@
             "de": "Schlendern Sie über diese historische Steinbrücke, um tolle Fotos vom Fluss Gardon und der Skyline der Altstadt zu machen.",
             "hu": "Sétáljon át ezen a történelmi kőhídon, hogy nagyszerű fotókat készíthessen a Gardon folyóról és az óváros sziluettjéről.",
             "ro": "Plimbați-vă peste acest pod istoric de piatră pentru a face fotografii grozave cu râul Gardon și orizontul orașului vechi.",
-            "en": "Stroll across this historic stone bridge to take great photos of the Gardon river and the skyline of the old town."
+            "en": "Stroll across this historic stone bridge to take great photos of the Gardon river and the skyline of the old town.",
+            "fr": "Promenez-vous sur ce pont de pierre historique pour prendre de superbes photos du Gardon et de la silhouette de la vieille ville."
           }
         },
         {
@@ -90,7 +96,8 @@
             "de": "Le Cratère",
             "hu": "Le Cratère Színház",
             "ro": "Teatrul Le Cratère",
-            "en": "Le Cratère Theatre"
+            "en": "Le Cratère Theatre",
+            "fr": "Le Cratère Théâtre"
           },
           "coords": [
             4.08139,
@@ -105,7 +112,8 @@
             "de": "Entdecken Sie dieses moderne Kulturzentrum; schauen Sie sich das aktuelle Programm an, vielleicht finden Sie eine spannende Vorstellung für den Abend.",
             "hu": "Fedezze fel ezt a modern kulturális központot; nézze meg az aktuális műsort, hátha talál egy izgalmas előadást estére.",
             "ro": "Descoperiți acest centru cultural modern; verificați programul actual, poate găsiți un spectacol captivant pentru diseară.",
-            "en": "Discover this modern cultural center; check the current program, you might find an exciting performance for the evening."
+            "en": "Discover this modern cultural center; check the current program, you might find an exciting performance for the evening.",
+            "fr": "Découvrez ce centre culturel moderne ; consultez la programmation actuelle, vous pourriez y trouver un spectacle intéressant pour la soirée."
           }
         },
         {
@@ -113,7 +121,8 @@
             "de": "Musée du Colombier",
             "hu": "Colombier Múzeum",
             "ro": "Muzeul Colombier",
-            "en": "Colombier Museum"
+            "en": "Colombier Museum",
+            "fr": "Musée du Colombier"
           },
           "coords": [
             4.080312,
@@ -128,7 +137,8 @@
             "de": "Besuchen Sie dieses Kunst- und Archäologiemuseum; nehmen Sie sich Zeit für die beeindruckenden römischen Artefakte aus der Region.",
             "hu": "Látogassa meg ezt a művészeti és régészeti múzeumot; szánjon időt a régióból származó lenyűgöző római leletekre.",
             "ro": "Vizitați acest muzeu de artă și arheologie; faceți-vă timp pentru impresionantele artefacte romane din regiune.",
-            "en": "Visit this art and archaeology museum; take your time to appreciate the impressive Roman artifacts from the region."
+            "en": "Visit this art and archaeology museum; take your time to appreciate the impressive Roman artifacts from the region.",
+            "fr": "Visitez ce musée d'art et d'archéologie ; prenez le temps d'apprécier les impressionnants artefacts romains de la région."
           }
         },
         {
@@ -136,7 +146,8 @@
             "de": "Fort Vauban",
             "hu": "Vauban-erőd",
             "ro": "Fortul Vauban",
-            "en": "Vauban Fort"
+            "en": "Vauban Fort",
+            "fr": "Fort Vauban"
           },
           "coords": [
             4.07492,
@@ -151,7 +162,8 @@
             "de": "Erkunden Sie die Festungsanlagen; von den Bastionen aus haben Sie einen perfekten Panoramablick über die Dächer von Alès.",
             "hu": "Fedezze fel az erődítményeket; a bástyákról tökéletes panoráma nyílik Alès háztetőire, amit érdemes lencsevégre kapni.",
             "ro": "Explorați fortificațiile; de pe bastioane aveți o vedere panoramică perfectă asupra acoperișurilor orașului Alès.",
-            "en": "Explore the fortifications; from the bastions, you have a perfect panoramic view over the rooftops of Alès."
+            "en": "Explore the fortifications; from the bastions, you have a perfect panoramic view over the rooftops of Alès.",
+            "fr": "Explorez les fortifications ; depuis les bastions, vous avez une vue panoramique parfaite sur les toits d'Alès."
           }
         },
         {
@@ -159,7 +171,8 @@
             "de": "Théâtre de Verdure du Bosquet",
             "hu": "Bosquet Szabadtéri Színház",
             "ro": "Teatrul de Verdeață Bosquet",
-            "en": "Bosquet Open-Air Theatre"
+            "en": "Bosquet Open-Air Theatre",
+            "fr": "Théâtre en plein air du Bosquet"
           },
           "coords": [
             4.07589,
@@ -174,7 +187,8 @@
             "de": "Entspannen Sie in diesem grünen Amphitheater; ein wunderbarer Ort, um den Tag inmitten der Natur ruhig ausklingen zu lassen.",
             "hu": "Pihenjen meg ebben a zöldellő amfiteátrumban; csodálatos hely a nap csendes, természetközeli lezárásához.",
             "ro": "Relaxați-vă în acest amfiteatru verde; un loc minunat pentru a încheia ziua liniștit, înconjurat de natură.",
-            "en": "Relax in this green amphitheater; a wonderful place to quietly end the day surrounded by nature."
+            "en": "Relax in this green amphitheater; a wonderful place to quietly end the day surrounded by nature.",
+            "fr": "Détendez-vous dans cet amphithéâtre verdoyant ; un endroit idéal pour terminer la journée en silence, entouré par la nature."
           }
         }
       ],
@@ -182,7 +196,8 @@
         "de": "Der Tag in Alès beginnt mit der Besichtigung der prachtvollen Architektur des Rathauses und der Kathedrale im historischen Kern. Die morgendliche Frische ist ideal für diese ersten Eindrücke.",
         "hu": "A nap Alès-ben a városháza és a katedrális csodálatos építészetének megtekintésével kezdődik a történelmi magban. A reggeli frissesség ideális ezekhez az első benyomásokhoz.",
         "ro": "Ziua în Alès începe cu vizionarea arhitecturii magnifice a primăriei și a catedralei din centrul istoric. Răcoarea dimineții este ideală pentru aceste prime impresii.",
-        "en": "The day in Alès starts with viewing the magnificent architecture of the city hall and cathedral in the historic core. The morning freshness is ideal for these first impressions."
+        "en": "The day in Alès starts with viewing the magnificent architecture of the city hall and cathedral in the historic core. The morning freshness is ideal for these first impressions.",
+        "fr": "La journée à Alès commence par la découverte de la magnifique architecture de l’hôtel de ville et de la cathédrale dans le cœur historique. La fraîcheur matinale est idéale pour ces premières impressions."
       },
       "variants": {
         "rainy": {
@@ -190,7 +205,8 @@
             "de": "Beginnen Sie Ihren Tag im Schutz des Rathauses, während die Tropfen auf das historische Pflaster prasseln. Mittags bietet das Theater Le Cratère eine perfekte kulturelle Zuflucht vor dem nassen Wetter. Der Nachmittag gehört den Museen, in denen man das Erbe von Alès im Trockenen erkunden kann. Den Abend lassen Sie gemütlich ausklingen, während die Stadtlichter im Regen glänzen.",
             "hu": "Kezdje a napot a városháza környékén, fedezékbe húzódva az eső elől. Délben a Le Cratère színház nyújt tökéletes kulturális menedéket a csapadékos időben. A délutánt töltse a múzeumok falai között, ahol szárazon ismerkedhet meg Alès örökségével. Az estét zárja egy hangulatos helyen, miközben az eső mossa a város macskaköves utcáit.",
             "ro": "Începeți ziua în zona primăriei, căutând adăpost sub arcadele clădirilor istorice. La prânz, teatrul Le Cratère oferă refugiul cultural perfect împotriva ploii persistente. După-amiaza este dedicată muzeelor, unde puteți explora patrimoniul orașului Alès la adăpost. Încheiați seara într-un loc primitor, admirând reflexiile luminilor orașului în bălțile de pe străzi.",
-            "en": "Start your day around the city hall, seeking shelter as the rain begins to fall. At noon, Le Cratère theatre provides the perfect cultural refuge from the wet weather. Spend the afternoon inside the museums, exploring the heritage of Alès while staying dry. End your evening in a cozy spot, watching the city lights reflect on the rain-slicked cobblestone streets."
+            "en": "Start your day around the city hall, seeking shelter as the rain begins to fall. At noon, Le Cratère theatre provides the perfect cultural refuge from the wet weather. Spend the afternoon inside the museums, exploring the heritage of Alès while staying dry. End your evening in a cozy spot, watching the city lights reflect on the rain-slicked cobblestone streets.",
+            "fr": "Commencez votre journée autour de l’hôtel de ville, cherchez un abri quand la pluie commence. À midi, le théâtre Le Cratère offre le refuge culturel parfait contre l’humidité. Passez l’après‑midi dans les musées pour explorer le patrimoine d’Alès tout en restant au sec. Terminez la soirée dans un lieu cosy en regardant les lumières de la ville se refléter sur les pavés mouillés."
           },
           "stops": [
             {
@@ -198,13 +214,15 @@
                 "de": "Hôtel de Ville",
                 "hu": "Városháza",
                 "ro": "Primăria",
-                "en": "City Hall"
+                "en": "City Hall",
+                "fr": "Hôtel de ville"
               },
               "tip_5lang": {
                 "de": "Bewundern Sie die elegante Fassade unter Ihrem Regenschirm und nutzen Sie den überdachten Eingangsbereich, um den Stadtplan trocken zu studieren.",
                 "hu": "Csodálja meg az elegáns homlokzatot az esernyője alól, és használja a fedett bejárati részt a várostérkép szárazon történő tanulmányozásához.",
                 "ro": "Admirați fațada elegantă de sub umbrelă și folosiți zona acoperită de la intrare pentru a studia harta orașului fără a vă uda.",
-                "en": "Admire the elegant facade from under your umbrella and use the covered entrance area to study the city map while staying completely dry."
+                "en": "Admire the elegant facade from under your umbrella and use the covered entrance area to study the city map while staying completely dry.",
+                "fr": "Admirez la façade élégante sous votre parapluie et utilisez le porche couvert pour étudier la carte de la ville tout en restant parfaitement au sec."
               }
             },
             {
@@ -212,13 +230,15 @@
                 "de": "Cathédrale Saint-Jean-Baptiste",
                 "hu": "Keresztelő Szent János-székesegyház",
                 "ro": "Catedrala Sfântul Ioan Botezătorul",
-                "en": "Saint-Jean-Baptiste Cathedral"
+                "en": "Saint-Jean-Baptiste Cathedral",
+                "fr": "Cathédrale Saint‑Jean‑Baptiste"
               },
               "tip_5lang": {
                 "de": "Die Kathedrale bietet einen majestätischen und trockenen Rückzugsort; achten Sie beim Betreten auf den durch Regenwasser rutschigen Steinboden.",
                 "hu": "A székesegyház fenséges és száraz menedéket nyújt; belépéskor ügyeljen az esővíztől esetlegesen csúszóssá vált kőpadlóra.",
                 "ro": "Catedrala oferă un refugiu maiestuos și uscat; la intrare, aveți grijă la podeaua de piatră care poate deveni alunecoasă din cauza apei.",
-                "en": "The cathedral offers a majestic and dry sanctuary; be careful when entering as the stone floor might be slippery from the rainwater."
+                "en": "The cathedral offers a majestic and dry sanctuary; be careful when entering as the stone floor might be slippery from the rainwater.",
+                "fr": "La cathédrale offre un sanctuaire majestueux et sec ; faites attention en entrant car le sol en pierre peut être glissant à cause de l’eau de pluie."
               }
             },
             {
@@ -226,13 +246,15 @@
                 "de": "Pont Vieux",
                 "hu": "Öreg híd",
                 "ro": "Podul Vechi",
-                "en": "Old Bridge"
+                "en": "Old Bridge",
+                "fr": "Vieux Pont"
               },
               "tip_5lang": {
                 "de": "Genießen Sie den Blick auf den angeschwollenen Gardon vom Brückenrand aus, aber tragen Sie rutschfeste Schuhe für den nassen Asphalt.",
                 "hu": "Élvezze a megduzzadt Gardon-folyó látványát a híd széléről, de viseljen csúszásmentes lábbelit a vizes aszfalton való biztonságos közlekedéshez.",
                 "ro": "Bucurați-vă de vederea râului Gardon umflat de ploaie de pe marginea podului, dar purtați încălțăminte aderentă pentru asfaltul ud.",
-                "en": "Enjoy the view of the swollen Gardon river from the bridge, but ensure you wear non-slip footwear for safety on the wet pavement."
+                "en": "Enjoy the view of the swollen Gardon river from the bridge, but ensure you wear non-slip footwear for safety on the wet pavement.",
+                "fr": "Profitez de la vue sur le Gardon en crue depuis le pont, mais veillez à porter des chaussures antidérapantes pour circuler en sécurité sur le pavé mouillé."
               }
             },
             {
@@ -240,13 +262,15 @@
                 "de": "Le Cratère",
                 "hu": "Le Cratère Színház",
                 "ro": "Teatrul Le Cratère",
-                "en": "Le Cratère Theatre"
+                "en": "Le Cratère Theatre",
+                "fr": "Théâtre Le Cratère"
               },
               "tip_5lang": {
                 "de": "Dieses moderne Kulturzentrum ist der ideale Ort, um dem Regen zu entkommen und das aktuelle Programm in warmer Atmosphäre zu entdecken.",
                 "hu": "Ez a modern kulturális központ ideális hely az eső elöli meneküléshez és az aktuális programok felfedezéséhez a meleg belső térben.",
                 "ro": "Acest centru cultural modern este locul ideal pentru a scăpa de ploaie și pentru a descoperi programul actual într-o atmosferă caldă.",
-                "en": "This modern cultural center is the ideal spot to escape the rain and discover the current artistic program in a warm indoor setting."
+                "en": "This modern cultural center is the ideal spot to escape the rain and discover the current artistic program in a warm indoor setting.",
+                "fr": "Ce centre culturel moderne est l’endroit idéal pour échapper à la pluie et découvrir la programmation artistique actuelle dans un cadre intérieur chaleureux."
               }
             },
             {
@@ -254,13 +278,15 @@
                 "de": "Musée du Colombier",
                 "hu": "Colombier Múzeum",
                 "ro": "Muzeul Colombier",
-                "en": "Colombier Museum"
+                "en": "Colombier Museum",
+                "fr": "Musée Colombier"
               },
               "tip_5lang": {
                 "de": "Verlängern Sie Ihren Aufenthalt bei den archäologischen Schätzen, um den heftigsten Regengüssen draußen sicher auszuweichen.",
                 "hu": "Hosszabbítsa meg tartózkodását a régészeti kincsek között, hogy biztonságban elkerülje a kinti leghevesebb esőzéseket.",
                 "ro": "Prelungiți-vă vizita printre comorile arheologice pentru a evita în siguranță cele mai torențiale reprize de ploaie de afară.",
-                "en": "Extend your stay among the archaeological treasures to safely avoid the heaviest downpours happening outside in the city."
+                "en": "Extend your stay among the archaeological treasures to safely avoid the heaviest downpours happening outside in the city.",
+                "fr": "Prolongez votre visite parmi les trésors archéologiques pour éviter en toute sécurité les plus fortes averses qui séviront dehors."
               }
             },
             {
@@ -268,13 +294,15 @@
                 "de": "Fort Vauban",
                 "hu": "Vauban-erőd",
                 "ro": "Fortul Vauban",
-                "en": "Vauban Fort"
+                "en": "Vauban Fort",
+                "fr": "Fort Vauban"
               },
               "tip_5lang": {
                 "de": "Erkunden Sie die Festungsmauern vorsichtig; die alten Steine können bei Regen sehr glatt sein, bieten aber dramatische Fotomotive.",
                 "hu": "Óvatosan fedezze fel az erőd falait; a régi kövek esőben nagyon csúszósak lehetnek, de drámai fotótémát szolgáltatnak a felhők alatt.",
                 "ro": "Explorați zidurile cetății cu atenție; pietrele vechi pot fi foarte alunecoase pe ploaie, dar oferă subiecte dramatice pentru fotografii.",
-                "en": "Explore the fortress walls carefully; the old stones can be very slick in the rain, though they offer dramatic photo opportunities."
+                "en": "Explore the fortress walls carefully; the old stones can be very slick in the rain, though they offer dramatic photo opportunities.",
+                "fr": "Explorez les murailles du fort avec prudence ; les vieilles pierres peuvent être très glissantes sous la pluie, mais offrent de magnifiques opportunités photo."
               }
             },
             {
@@ -282,13 +310,15 @@
                 "de": "Théâtre de Verdure du Bosquet",
                 "hu": "Bosquet Szabadtéri Színház",
                 "ro": "Teatrul de Verdeață Bosquet",
-                "en": "Bosquet Open-Air Theatre"
+                "en": "Bosquet Open-Air Theatre",
+                "fr": "Théâtre en plein air du Bosquet"
               },
               "tip_5lang": {
                 "de": "Ein kurzer, erfrischender Spaziergang durch den Park; suchen Sie bei plötzlichem Guss Schutz unter den dichten, alten Baumkronen.",
                 "hu": "Egy rövid, frissítő séta a parkban; hirtelen zápor esetén keressen menedéket a sűrű, öreg fák lombkoronái alatt.",
                 "ro": "O scurtă plimbare revigorantă prin parc; în caz de aversă bruscă, căutați adăpost sub coronamentul dens al arborilor bătrâni.",
-                "en": "A short, refreshing stroll through the park; in case of a sudden shower, seek temporary shelter under the thick, old tree canopies."
+                "en": "A short, refreshing stroll through the park; in case of a sudden shower, seek temporary shelter under the thick, old tree canopies.",
+                "fr": "Une courte et revigorante promenade à travers le parc ; en cas d’averse soudaine, cherchez un abri temporaire sous les épais boucliers des vieux arbres."
               }
             }
           ]
@@ -298,7 +328,8 @@
             "de": "Erleben Sie Alès im klaren Winterlicht, beginnend am frostigen Rathausplatz. Mittags wärmen Sie sich in den prachtvollen Kirchen und Theatern auf, während die Sonne tief steht. Der Nachmittag bietet in den Museen wohlige Wärme und faszinierende Einblicke. Da es gegen 17 Uhr dunkel wird, erstrahlt die Stadt früh in festlicher Beleuchtung für einen gemütlichen Abendspaziergang.",
             "hu": "Fedezze fel Alès-t a tiszta téli fényben, kezdve a fagyos városháza téren. Délben melegedjen fel a pompás templomokban és színházakban, miközben a nap alacsonyan jár. A délután a múzeumok falai között kínál kellemes meleget és lenyűgöző látnivalókat. Mivel 17 óra körül sötétedik, a város korán ünnepi fényekbe öltözik a hangulatos esti sétához.",
             "ro": "Descoperiți orașul Alès în lumina clară de iarnă, începând din piața înghețată a primăriei. La prânz, încălziți-vă în bisericile și teatrele somptuoase, în timp ce soarele stă jos pe cer. După-amiaza oferă căldură plăcută și exponate fascinante în interiorul muzeelor. Deoarece se întunecă în jurul orei 17:00, orașul se aprinde devreme pentru o plimbare de seară.",
-            "en": "Discover Alès in the crisp winter light, starting at the frosty city hall square. At noon, warm up inside the grand churches and theatres while the sun hangs low. The afternoon offers cozy warmth and fascinating exhibits within the museum walls. Since it gets dark around 5 PM, the city lights up early, creating a magical atmosphere for your evening stroll."
+            "en": "Discover Alès in the crisp winter light, starting at the frosty city hall square. At noon, warm up inside the grand churches and theatres while the sun hangs low. The afternoon offers cozy warmth and fascinating exhibits within the museum walls. Since it gets dark around 5 PM, the city lights up early, creating a magical atmosphere for your evening stroll.",
+            "fr": "Découvrez Alès sous la lumière claire de l’hiver, en commençant par la place glacée de l’hôtel de ville. À midi, réchauffez‑vous dans les grandes églises et les théâtres alors que le soleil reste bas. L’après‑midi offre une chaleur confortable et des expositions fascinantes dans les musées. Puisqu’il fait nuit vers 17h, la ville s’illumine tôt, créant une atmosphère magique pour votre promenade du soir."
           },
           "stops": [
             {
@@ -306,13 +337,15 @@
                 "de": "Hôtel de Ville",
                 "hu": "Városháza",
                 "ro": "Primăria",
-                "en": "City Hall"
+                "en": "City Hall",
+                "fr": "Hôtel de ville"
               },
               "tip_5lang": {
                 "de": "Genießen Sie den Anblick der winterlichen Dekorationen am Platz und tragen Sie Thermokleidung gegen den schneidenden Mistral-Wind.",
                 "hu": "Élvezze a téren elhelyezett téli dekorációkat, és viseljen termikus ruházatot a metsző Mistral szél elleni védekezésül.",
                 "ro": "Bucurați-vă de decorațiunile de iarnă din piață și purtați haine termice pentru a vă proteja de vântul tăios Mistral.",
-                "en": "Enjoy the winter decorations in the square and wear thermal layers to protect yourself against the biting Mistral wind."
+                "en": "Enjoy the winter decorations in the square and wear thermal layers to protect yourself against the biting Mistral wind.",
+                "fr": "Appréciez les décorations hivernales sur la place et portez des couches thermiques pour vous protéger du Mistral mordant."
               }
             },
             {
@@ -320,13 +353,15 @@
                 "de": "Cathédrale Saint-Jean-Baptiste",
                 "hu": "Keresztelő Szent János-székesegyház",
                 "ro": "Catedrala Sfântul Ioan Botezătorul",
-                "en": "Saint-Jean-Baptiste Cathedral"
+                "en": "Saint-Jean-Baptiste Cathedral",
+                "fr": "Cathédrale Saint‑Jean‑Baptiste"
               },
               "tip_5lang": {
                 "de": "Ein ruhiger Ort zur inneren Einkehr und zum Aufwärmen; bewundern Sie die Krippenspiele, die in der Weihnachtszeit oft aufgebaut werden.",
                 "hu": "Csendes hely az elmélyüléshez és a felmelegedéshez; csodálja meg a karácsonyi időszakban gyakran felállított betlehemi jászlat.",
                 "ro": "Un loc liniștit pentru reflecție și încălzire; admirați scenele nașterii Domnului expuse adesea în perioada sărbătorilor.",
-                "en": "A peaceful place for reflection and warming up; admire the nativity scenes often displayed here during the Christmas season."
+                "en": "A peaceful place for reflection and warming up; admire the nativity scenes often displayed here during the Christmas season.",
+                "fr": "Un lieu paisible pour la réflexion et se réchauffer ; admirez les crèches souvent exposées ici durant la période de Noël."
               }
             },
             {
@@ -334,13 +369,15 @@
                 "de": "Pont Vieux",
                 "hu": "Öreg híd",
                 "ro": "Podul Vechi",
-                "en": "Old Bridge"
+                "en": "Old Bridge",
+                "fr": "Vieux Pont"
               },
               "tip_5lang": {
                 "de": "Die tiefstehende Wintersonne wirft lange Schatten auf den Fluss; halten Sie Schal und Handschuhe bereit für den windigen Übergang.",
                 "hu": "Az alacsonyan járó téli nap hosszú árnyékokat vet a folyóra; tartsa készenlétben sálját és kesztyűjét a szeles átkeléshez.",
                 "ro": "Soarele de iarnă aruncă umbre lungi peste râu; pregătiți-vă fularul și mănușile pentru traversarea vântoasă a podului.",
-                "en": "The low winter sun casts long shadows over the river; keep your scarf and gloves ready for the windy crossing of the bridge."
+                "en": "The low winter sun casts long shadows over the river; keep your scarf and gloves ready for the windy crossing of the bridge.",
+                "fr": "Le faible soleil d’hiver projette de longues ombres sur la rivière ; gardez votre écharpe et vos gants à portée de main pour la traversée venteuse du pont."
               }
             },
             {
@@ -348,13 +385,15 @@
                 "de": "Le Cratère",
                 "hu": "Le Cratère Színház",
                 "ro": "Teatrul Le Cratère",
-                "en": "Le Cratère Theatre"
+                "en": "Le Cratère Theatre",
+                "fr": "Théâtre Le Cratère"
               },
               "tip_5lang": {
                 "de": "Nutzen Sie die Garderobe für Ihre schwere Winterjacke und genießen Sie die lebendige Kulturszene in der beheizten Lobby.",
                 "hu": "Használja a ruhatárat nehéz téli kabátja számára, és élvezze a pezsgő kulturális életet a fűtött előcsarnokban.",
                 "ro": "Folosiți garderoba pentru haina grea de iarnă și bucurați-vă de viața culturală vibrantă în holul bine încălzit.",
-                "en": "Use the cloakroom for your heavy winter coat and enjoy the vibrant cultural scene in the comfortably heated lobby area."
+                "en": "Use the cloakroom for your heavy winter coat and enjoy the vibrant cultural scene in the comfortably heated lobby area.",
+                "fr": "Utilisez le vestiaire pour votre manteau d’hiver lourd et profitez de la scène culturelle animée dans le hall confortablement chauffé."
               }
             },
             {
@@ -362,13 +401,15 @@
                 "de": "Musée du Colombier",
                 "hu": "Colombier Múzeum",
                 "ro": "Muzeul Colombier",
-                "en": "Colombier Museum"
+                "en": "Colombier Museum",
+                "fr": "Musée Colombier"
               },
               "tip_5lang": {
                 "de": "Die klimatisierten Galerien bieten konstante Wärme; perfekt, um die römischen Mosaike ohne winterliche Kälte zu studieren.",
                 "hu": "A klimatizált galériák állandó meleget biztosítanak; tökéletes a római mozaikok tanulmányozásához a téli hideg nélkül.",
                 "ro": "Galeriile climatizate oferă o căldură constantă; perfect pentru a studia mozaicurile romane fără disconfortul frigului de afară.",
-                "en": "The climate-controlled galleries provide steady warmth; perfect for studying Roman mosaics without the winter chill."
+                "en": "The climate-controlled galleries provide steady warmth; perfect for studying Roman mosaics without the winter chill.",
+                "fr": "Les galeries climatisées offrent une chaleur constante ; parfait pour étudier les mosaïques romaines sans le froid hivernal."
               }
             },
             {
@@ -376,13 +417,15 @@
                 "de": "Fort Vauban",
                 "hu": "Vauban-erőd",
                 "ro": "Fortul Vauban",
-                "en": "Vauban Fort"
+                "en": "Vauban Fort",
+                "fr": "Fort Vauban"
               },
               "tip_5lang": {
                 "de": "Besuchen Sie das Fort vor 16:30 Uhr, um die Architektur noch bei Tageslicht zu sehen, bevor die frühe Dämmerung einsetzt.",
                 "hu": "Látogassa meg az erődöt 16:30 előtt, hogy még nappali fényben lássa az építészetet, mielőtt beállna a korai téli szürkület.",
                 "ro": "Vizitați fortul înainte de ora 16:30 pentru a vedea arhitectura în lumina zilei, înainte de lăsarea timpurie a amurgului.",
-                "en": "Visit the fort before 4:30 PM to see the architecture in daylight before the early winter dusk begins to settle in."
+                "en": "Visit the fort before 4:30 PM to see the architecture in daylight before the early winter dusk begins to settle in.",
+                "fr": "Visitez le fort avant 16h30 pour voir l’architecture en pleine lumière avant que le crépuscule hivernal n’envahisse la ville."
               }
             },
             {
@@ -390,13 +433,15 @@
                 "de": "Théâtre de Verdure du Bosquet",
                 "hu": "Bosquet Szabadtéri Színház",
                 "ro": "Teatrul de Verdeață Bosquet",
-                "en": "Bosquet Open-Air Theatre"
+                "en": "Bosquet Open-Air Theatre",
+                "fr": "Théâtre en plein air du Bosquet"
               },
               "tip_5lang": {
                 "de": "Beenden Sie den Tag hier, wenn die Lichterketten im Park angehen; die gefrorenen Wege erfordern beim Gehen erhöhte Aufmerksamkeit.",
                 "hu": "Zárja itt a napot, amikor a park fényfüzérei kigyúlnak; a fagyott ösvények fokozott figyelmet igényelnek séta közben.",
                 "ro": "Încheiați ziua aici când se aprind ghirlandele luminoase din parc; aleile înghețate necesită atenție sporită în timpul mersului.",
-                "en": "End your day here as the park's fairy lights turn on; the frozen paths require extra care while walking through the garden."
+                "en": "End your day here as the park's fairy lights turn on; the frozen paths require extra care while walking through the garden.",
+                "fr": "Terminez votre journée ici quand les guirlandes du parc s’allument ; les allées gelées exigent une vigilance accrue lors de la promenade dans le jardin."
               }
             }
           ]
@@ -416,7 +461,8 @@
             "de": "Hôtel de Ville",
             "hu": "Városháza",
             "ro": "Primăria",
-            "en": "City Hall"
+            "en": "City Hall",
+            "fr": "Hôtel de ville"
           },
           "coords": [
             4.076811,
@@ -431,7 +477,8 @@
             "de": "Beginnen Sie Ihre Radtour direkt am Platz vor dem eleganten Rathaus, ideal um sich mit einem lokalen Gebäck für den Tag zu stärken.",
             "hu": "Kezdje a biciklitúrát egyenesen az elegáns városháza előtti téren, amely ideális egy helyi péksütemény elfogyasztásához.",
             "ro": "Începeți turul cu bicicleta chiar în piața din fața primăriei elegante, ideal pentru a vă întări cu o patiserie locală pentru ziua respectivă.",
-            "en": "Start your bike tour right in the square in front of the elegant city hall, ideal for fortifying yourself with a local pastry for the day."
+            "en": "Start your bike tour right in the square in front of the elegant city hall, ideal for fortifying yourself with a local pastry for the day.",
+            "fr": "Commencez votre circuit à vélo sur la place devant le bel hôtel de ville, idéal pour vous fortifier avec une pâtisserie locale pour la journée."
           }
         },
         {
@@ -439,7 +486,8 @@
             "de": "Cathédrale Saint-Jean-Baptiste",
             "hu": "Keresztelő Szent János-székesegyház",
             "ro": "Catedrala Sfântul Ioan Botezătorul",
-            "en": "Saint-Jean-Baptiste Cathedral"
+            "en": "Saint-Jean-Baptiste Cathedral",
+            "fr": "Cathédrale Saint‑Jean‑Baptiste"
           },
           "coords": [
             4.076619,
@@ -454,7 +502,8 @@
             "de": "Parken Sie Ihr Fahrrad in der Nähe und betreten Sie die kühle, alte Kirche, deren mächtiges Kirchenschiff Frieden ausstrahlt.",
             "hu": "Parkolja le a kerékpárját a közelben, és lépjen be a hűvös, régi templomba, amelynek hatalmas hajója békét áraszt.",
             "ro": "Parcați bicicleta în apropiere și intrați în biserica veche și răcoroasă, a cărei navă puternică radiază pace.",
-            "en": "Park your bike nearby and enter the cool, ancient church, whose mighty nave radiates peace."
+            "en": "Park your bike nearby and enter the cool, ancient church, whose mighty nave radiates peace.",
+            "fr": "Garez votre vélo à proximité et entrez dans l’église fraîche et ancienne dont la puissante nef irradie la paix."
           }
         },
         {
@@ -462,7 +511,8 @@
             "de": "Parc de la Tour Vieille",
             "hu": "Tour Vieille Park",
             "ro": "Parcul Tour Vieille",
-            "en": "Tour Vieille Park"
+            "en": "Tour Vieille Park",
+            "fr": "Parc Tour Vieille"
           },
           "coords": [
             4.079,
@@ -477,7 +527,8 @@
             "de": "Radeln Sie durch diesen weitläufigen Park und machen Sie eine Pause auf den gepflegten Rasenflächen, ein toller Ort für ein Picknick.",
             "hu": "Karikázzon át ezen a kiterjedt parkon, és tartson egy kis pihenőt a gondozott pázsiton, ami remek hely egy piknikhez.",
             "ro": "Bicicliți prin acest parc extins și faceți o pauză pe peluzele bine îngrijite, un loc minunat pentru un picnic.",
-            "en": "Cycle through this expansive park and take a break on the well-kept lawns, a great spot for a picnic."
+            "en": "Cycle through this expansive park and take a break on the well-kept lawns, a great spot for a picnic.",
+            "fr": "Parcourez ce vaste parc à vélo et faites une pause sur les pelouses bien entretenues, un excellent endroit pour un pique‑nique."
           }
         },
         {
@@ -485,7 +536,8 @@
             "de": "Pont Vieux",
             "hu": "Öreg híd",
             "ro": "Podul Vechi",
-            "en": "Old Bridge"
+            "en": "Old Bridge",
+            "fr": "Vieux Pont"
           },
           "coords": [
             4.077623,
@@ -500,7 +552,8 @@
             "de": "Fahren Sie über die malerische Brücke und genießen Sie die leichte Brise; hier bieten sich hervorragende Gelegenheiten für Landschaftsbilder.",
             "hu": "Tekerjen át a festői hídon, és élvezze a lágy szellőt; itt kiváló lehetőségek kínálkoznak tájképek készítésére.",
             "ro": "Mergeți peste podul pitoresc și bucurați-vă de briza ușoară; aici există oportunități excelente pentru fotografii de peisaj.",
-            "en": "Ride across the picturesque bridge and enjoy the gentle breeze; there are excellent opportunities for landscape photos here."
+            "en": "Ride across the picturesque bridge and enjoy the gentle breeze; there are excellent opportunities for landscape photos here.",
+            "fr": "Franchissez à vélo le pont pittoresque et profitez de la brise légère ; d’excellentes opportunités pour des photos de paysage s’offrent à vous."
           }
         },
         {
@@ -508,7 +561,8 @@
             "de": "Pierre André Benoit",
             "hu": "Pierre André Benoit Múzeum",
             "ro": "Muzeul Pierre André Benoit",
-            "en": "Pierre André Benoit Museum"
+            "en": "Pierre André Benoit Museum",
+            "fr": "Musée Pierre André Benoit"
           },
           "coords": [
             4.069172,
@@ -523,7 +577,8 @@
             "de": "Lassen Sie sich von den Sammlungen moderner Kunst in diesem außergewöhnlichen Museum verzaubern; nehmen Sie sich Zeit für die Bibliothek.",
             "hu": "Hagyja, hogy elvarázsolják a modern művészeti gyűjtemények ebben a kivételes múzeumban; szánjon időt a könyvtárra is.",
             "ro": "Lăsați-vă fermecați de colecțiile de artă modernă din acest muzeu excepțional; faceți-vă timp pentru bibliotecă.",
-            "en": "Let yourself be enchanted by the collections of modern art in this exceptional museum; take time for the library as well."
+            "en": "Let yourself be enchanted by the collections of modern art in this exceptional museum; take time for the library as well.",
+            "fr": "Laissez‑vous enchanter par les collections d’art moderne de cet exceptionnel musée ; prenez aussi le temps de visiter la bibliothèque."
           }
         },
         {
@@ -531,7 +586,8 @@
             "de": "Mine Témoin d'Alès",
             "hu": "Alès-i bányamúzeum",
             "ro": "Mina Muzeu Alès",
-            "en": "Alès Mine Museum"
+            "en": "Alès Mine Museum",
+            "fr": "Musée de la Mine d’Alès"
           },
           "coords": [
             4.06632,
@@ -546,7 +602,8 @@
             "de": "Steigen Sie hinab in die faszinierende Geschichte des Bergbaus; bringen Sie eine Jacke mit, da es unter Tage frisch sein kann.",
             "hu": "Ereszkedjen le a bányászat lenyűgöző történetébe; hozzon magával kabátot, mert a föld alatt hűvös lehet.",
             "ro": "Coborâți în istoria fascinantă a mineritului; aduceți o jachetă, deoarece poate fi răcoare în subteran.",
-            "en": "Descend into the fascinating history of mining; bring a jacket, as it can be chilly underground."
+            "en": "Descend into the fascinating history of mining; bring a jacket, as it can be chilly underground.",
+            "fr": "Plongez dans l’histoire fascinante de l’exploitation minière ; emportez une veste, il peut faire frais sous terre."
           }
         },
         {
@@ -554,7 +611,8 @@
             "de": "Fort Vauban",
             "hu": "Vauban-erőd",
             "ro": "Fortul Vauban",
-            "en": "Vauban Fort"
+            "en": "Vauban Fort",
+            "fr": "Fort Vauban"
           },
           "coords": [
             4.07492,
@@ -569,7 +627,8 @@
             "de": "Beenden Sie Ihre Tour mit einem Aufstieg zur Festung, um bei Sonnenuntergang einen atemberaubenden Blick auf die Stadt zu genießen.",
             "hu": "Zárja a túrát az erődbe való felkapaszkodással, hogy naplemente idején lélegzetelállító kilátás nyíljon a városra.",
             "ro": "Încheiați turul urcând la fort, pentru a vă bucura de o vedere uluitoare asupra orașului la apus.",
-            "en": "End your tour with a climb to the fort to enjoy a breathtaking view of the city at sunset."
+            "en": "End your tour with a climb to the fort to enjoy a breathtaking view of the city at sunset.",
+            "fr": "Terminez votre circuit par une montée au fort pour profiter d’une vue à couper le souffle sur la ville au coucher du soleil."
           }
         }
       ],
@@ -577,7 +636,8 @@
         "de": "Auf zwei Rädern erkunden wir die Stadt flexibel und schnell. Nach den klassischen Highlights im Zentrum lockt die grüne Natur im Park.",
         "hu": "Két keréken rugalmasan és gyorsan fedezzük fel a várost. A központ klasszikus látnivalói után a park zöld természete csábít.",
         "ro": "Pe două roți explorăm orașul flexibil și rapid. După atracțiile clasice din centru, natura verde a parcului este tentantă.",
-        "en": "On two wheels we explore the city flexibly and quickly. After the classic highlights in the center, the green nature of the park beckons."
+        "en": "On two wheels we explore the city flexibly and quickly. After the classic highlights in the center, the green nature of the park beckons.",
+        "fr": "À deux roues, on explore la ville de façon flexible et rapide. Après les incontournables du centre, la nature verdoyante du parc vous appelle."
       },
       "variants": {
         "rainy": {
@@ -585,7 +645,8 @@
             "de": "Radeln Sie vorsichtig durch das regnerische Alès, beginnend im Zentrum. Achten Sie auf glatte Markierungen auf dem Weg zum Parc de la Tour Vieille. Mittags bieten Museen und historische Gebäude Schutz für Sie und Ihr Rad. Nachmittags erkunden Sie die Mine Témoin, eine perfekte unterirdische und trockene Attraktion. Den Abend beenden Sie sicher mit guter Beleuchtung.",
             "hu": "Bringázzon óvatosan az esős Alès-ben, a központból indulva. Ügyeljen a csúszós útburkolati jelekre a Tour Vieille park felé menet. Délben a múzeumok és történelmi épületek nyújtanak menedéket Önnek és kerékpárjának. Délután fedezze fel a Mine Témoin-t, amely tökéletes földalatti és száraz látnivaló. Az estét zárja biztonságban, jó világítást használva.",
             "ro": "Pedalați cu prudență prin Alès-ul ploios, pornind din centru. Atenție la marcajele rutiere alunecoase în drum spre Parcul Tour Vieille. La prânz, muzeele și clădirile istorice oferă adăpost pentru dvs. și bicicletă. După-amiaza, explorați Mine Témoin, o atracție subterană perfectă și uscată. Încheiați seara în siguranță, folosind lumini bune.",
-            "en": "Cycle carefully through rainy Alès, starting from the center. Watch out for slippery road markings on your way to Tour Vieille Park. At noon, museums and historical buildings provide shelter for both you and your bike. In the afternoon, explore Mine Témoin, a perfect underground and dry attraction. End your evening safely by using good bike lights."
+            "en": "Cycle carefully through rainy Alès, starting from the center. Watch out for slippery road markings on your way to Tour Vieille Park. At noon, museums and historical buildings provide shelter for both you and your bike. In the afternoon, explore Mine Témoin, a perfect underground and dry attraction. End your evening safely by using good bike lights.",
+            "fr": "Pédalez prudemment dans l’Alès pluvieuse, en partant du centre. Méfiez‑vous des marquages au sol glissants sur le chemin vers le parc Tour Vieille. À midi, les musées et les bâtiments historiques offrent un abri pour vous et votre vélo. L’après‑midi, visitez la Mine Témoin, une attraction souterraine parfaite et sèche. Terminez la soirée en toute sécurité en utilisant de bons éclairages pour vélo."
           },
           "stops": [
             {
@@ -593,13 +654,15 @@
                 "de": "Hôtel de Ville",
                 "hu": "Városháza",
                 "ro": "Primăria",
-                "en": "City Hall"
+                "en": "City Hall",
+                "fr": "Hôtel de ville"
               },
               "tip_5lang": {
                 "de": "Suchen Sie einen Fahrradständer unter einem Dachvorsprung und prüfen Sie Ihre Bremsen vor der Abfahrt auf der nassen Fahrbahn.",
                 "hu": "Keressen egy eresz alatti kerékpártárolót, és ellenőrizze a fékeit az indulás előtt a vizes úton való biztonságért.",
                 "ro": "Căutați un suport de biciclete sub o streașină și verificați frânele înainte de plecare pe carosabilul umed.",
-                "en": "Find a bike rack under an eave and check your brakes before departing on the wet pavement for maximum safety."
+                "en": "Find a bike rack under an eave and check your brakes before departing on the wet pavement for maximum safety.",
+                "fr": "Trouvez un arceau à vélo sous un auvent et vérifiez vos freins avant de repartir sur le pavé mouillé pour une sécurité maximale."
               }
             },
             {
@@ -607,13 +670,15 @@
                 "de": "Cathédrale Saint-Jean-Baptiste",
                 "hu": "Keresztelő Szent János-székesegyház",
                 "ro": "Catedrala Sfântul Ioan Botezătorul",
-                "en": "Saint-Jean-Baptiste Cathedral"
+                "en": "Saint-Jean-Baptiste Cathedral",
+                "fr": "Cathédrale Saint‑Jean‑Baptiste"
               },
               "tip_5lang": {
                 "de": "Stellen Sie Ihr Rad sicher ab und nutzen Sie die Kathedrale für eine ausgiebige Regenpause in beeindruckender Stille.",
                 "hu": "Állítsa le biztonságosan a biciklijét, és használja a székesegyházat egy kiadós esőszünetre a lenyűgöző csendben.",
                 "ro": "Parcați bicicleta în siguranță și folosiți catedrala pentru o pauză lungă de ploaie în liniștea sa impresionantă.",
-                "en": "Park your bike securely and use the cathedral for an extended rain break within its impressive, quiet interior."
+                "en": "Park your bike securely and use the cathedral for an extended rain break within its impressive, quiet interior.",
+                "fr": "Garez votre vélo en sécurité et utilisez la cathédrale pour une longue pause au sec dans son intérieur impressionnant et calme."
               }
             },
             {
@@ -621,13 +686,15 @@
                 "de": "Parc de la Tour Vieille",
                 "hu": "Tour Vieille Park",
                 "ro": "Parcul Tour Vieille",
-                "en": "Tour Vieille Park"
+                "en": "Tour Vieille Park",
+                "fr": "Parc Tour Vieille"
               },
               "tip_5lang": {
                 "de": "Die Parkwege können schlammig sein; reduzieren Sie Ihr Tempo und genießen Sie das satte Grün unter den regenschweren Wolken.",
                 "hu": "A park ösvényei sárosak lehetnek; csökkentse a sebességet és élvezze a dús zöld látványát az esőáztatta felhők alatt.",
                 "ro": "Aleile parcului pot fi noroioase; reduceți viteza și bucurați-vă de verdele intens sub norii încărcați de ploaie.",
-                "en": "The park paths might be muddy; reduce your speed and enjoy the lush greenery under the rain-heavy clouds."
+                "en": "The park paths might be muddy; reduce your speed and enjoy the lush greenery under the rain-heavy clouds.",
+                "fr": "Les chemins du parc peuvent être boueux ; réduisez votre vitesse et profitez de la verdure luxuriante sous les nuages chargés de pluie."
               }
             },
             {
@@ -635,13 +702,15 @@
                 "de": "Pont Vieux",
                 "hu": "Öreg híd",
                 "ro": "Podul Vechi",
-                "en": "Old Bridge"
+                "en": "Old Bridge",
+                "fr": "Vieux Pont"
               },
               "tip_5lang": {
                 "de": "Vorsicht beim Überqueren der Metallfugen der Brücke, diese sind bei Nässe extrem rutschig für schmale Reifen.",
                 "hu": "Vigyázzon a híd fém illesztéseinél való átkeléskor, ezek nedvesen rendkivül csúszósak lehetnek a vékony kerekek számára.",
                 "ro": "Atenție la traversarea îmbinărilor metalice ale podului, acestea sunt extrem de alunecoase pentru anvelopele înguste pe ploaie.",
-                "en": "Be careful when crossing the metal joints of the bridge, as they are extremely slippery for thin bike tires when wet."
+                "en": "Be careful when crossing the metal joints of the bridge, as they are extremely slippery for thin bike tires when wet.",
+                "fr": "Soyez prudent en traversant les jonctions métalliques du pont, très glissantes pour les pneus fins lorsqu’elles sont humides."
               }
             },
             {
@@ -649,13 +718,15 @@
                 "de": "Pierre André Benoit",
                 "hu": "Pierre André Benoit Múzeum",
                 "ro": "Muzeul Pierre André Benoit",
-                "en": "Pierre André Benoit Museum"
+                "en": "Pierre André Benoit Museum",
+                "fr": "Musée Pierre André Benoit"
               },
               "tip_5lang": {
                 "de": "Ein wunderbarer Ort für moderne Kunst; nutzen Sie die Zeit drinnen, um Ihre Regenbekleidung kurz trocknen zu lassen.",
                 "hu": "Csodálatos hely a modern művészethez; használja a bent töltött időt arra, hogy esőruházata kicsit megszáradhasson.",
                 "ro": "Un loc minunat pentru artă modernă; folosiți timpul petrecut în interior pentru a vă lăsa echipamentul de ploaie să se usuce.",
-                "en": "A wonderful place for modern art; use your time inside to let your rain gear dry out for a bit before moving on."
+                "en": "A wonderful place for modern art; use your time inside to let your rain gear dry out for a bit before moving on.",
+                "fr": "Un endroit merveilleux pour l’art moderne ; profitez de votre temps à l’intérieur pour laisser sécher un peu votre équipement de pluie avant de reprendre la route."
               }
             },
             {
@@ -663,13 +734,15 @@
                 "de": "Mine Témoin d'Alès",
                 "hu": "Alès-i bányamúzeum",
                 "ro": "Mina Muzeu Alès",
-                "en": "Alès Mine Museum"
+                "en": "Alès Mine Museum",
+                "fr": "Musée de la Mine d’Alès"
               },
               "tip_5lang": {
                 "de": "Das ultimative Schlechtwetterziel; unter Tage spielt das Wetter keine Rolle, während Sie die Bergbaugeschichte erleben.",
                 "hu": "A végső rosszidős célpont; a föld alatt nem számít az időjárás, miközben megismeri a bányászat történelmét.",
                 "ro": "Destinația supremă pentru vreme rea; în subteran vremea nu contează, în timp ce descoperiți istoria mineritului.",
-                "en": "The ultimate bad-weather destination; underground, the weather doesn't matter while you experience mining history."
+                "en": "The ultimate bad-weather destination; underground, the weather doesn't matter while you experience mining history.",
+                "fr": "La destination ultime par mauvais temps ; sous terre, la météo n’a pas d’importance pendant que vous découvrez l’histoire minière."
               }
             },
             {
@@ -677,13 +750,15 @@
                 "de": "Fort Vauban",
                 "hu": "Vauban-erőd",
                 "ro": "Fortul Vauban",
-                "en": "Vauban Fort"
+                "en": "Vauban Fort",
+                "fr": "Fort Vauban"
               },
               "tip_5lang": {
                 "de": "Sperren Sie Ihr Rad am Eingang ab und erkunden Sie die Gänge der Festung, die oft Schutz vor Wind und Guss bieten.",
                 "hu": "Zárja le a biciklijét a bejáratnál, és fedezze fel az erőd járatait, amelyek gyakran védenek a széltől és a záporoktól.",
                 "ro": "Încuiați bicicleta la intrare și explorați pasajele cetății, care oferă adesea protecție împotriva vântului și ploii.",
-                "en": "Lock your bike at the entrance and explore the fortress passages, which often offer shelter from the wind and rain."
+                "en": "Lock your bike at the entrance and explore the fortress passages, which often offer shelter from the wind and rain.",
+                "fr": "Verrouillez votre vélo à l’entrée et explorez les passages du fort, qui offrent souvent un abri contre le vent et la pluie."
               }
             }
           ]
@@ -693,7 +768,8 @@
             "de": "Eine belebende Winterradtour durch Alès erfordert warme Handschuhe für die frostigen Abfahrten. Mittags lockt der Tour Vieille Park mit seiner winterlichen Ruhe, bevor Sie sich in den Museen aufwärmen. Der späte Nachmittag in der Mine Témoin bietet konstante Temperaturen, ideal gegen die Kälte. Da das Licht früh schwindet, planen Sie Ihre Rückkehr zum Zentrum vor 17 Uhr ein.",
             "hu": "Egy élénkítő téli biciklitúra Alès-ben meleg kesztyűt igényel a fagyos lejtőkhöz. Délben a Tour Vieille park téli nyugalma csábít, mielőtt felmelegedne a múzeumokban. A késő délután a Mine Témoin-ban állandó hőmérsékletet kínál, ideális a hideg ellen. Mivel a fény korán fogy, tervezze a visszatérést a központba 17 óra előtt.",
             "ro": "O tură revigorantă de iarnă cu bicicleta prin Alès necesită mănuși groase pentru coborârile înghețate. La prânz, parcul Tour Vieille atrage prin liniștea sa hibernală, înainte de a vă încălzi în muzee. După-amiaza târziu la Mine Témoin oferă temperaturi constante, ideale împotriva frigului. Planificați revenirea în centru înainte de ora 17:00.",
-            "en": "An invigorating winter bike tour through Alès requires warm gloves for those frosty descents. At noon, Tour Vieille Park offers winter serenity before you warm up in the museums. Late afternoon at Mine Témoin provides constant temperatures, ideal against the cold. As daylight fades early, plan your return to the center before 5 PM."
+            "en": "An invigorating winter bike tour through Alès requires warm gloves for those frosty descents. At noon, Tour Vieille Park offers winter serenity before you warm up in the museums. Late afternoon at Mine Témoin provides constant temperatures, ideal against the cold. As daylight fades early, plan your return to the center before 5 PM.",
+            "fr": "Une tonique sortie à vélo hivernale à travers Alès demande des gants chauds pour les descentes glacées. À midi, le parc Tour Vieille offre la sérénité hivernale avant de vous réchauffer dans les musées. En fin d’après‑midi, la Mine Témoin présente des températures constantes, idéales contre le froid. Comme la journée s’assombrit tôt, prévoyez votre retour au centre avant 17h."
           },
           "stops": [
             {
@@ -701,13 +777,15 @@
                 "de": "Hôtel de Ville",
                 "hu": "Városháza",
                 "ro": "Primăria",
-                "en": "City Hall"
+                "en": "City Hall",
+                "fr": "Hôtel de ville"
               },
               "tip_5lang": {
                 "de": "Starten Sie mit voll geladenem Akku (falls E-Bike), da Kälte die Leistung mindert, und genießen Sie die klare Winterluft.",
                 "hu": "Induljon teljesen feltöltött akkumulátorral (ha e-bike), mert a hideg csökkenti a teljesítményt, és élvezze a tiszta téli levegőt.",
                 "ro": "Porniți cu bateria complet încărcată (dacă e e-bike), deoarece frigul reduce performanța, și bucurați-vă de aerul curat de iarnă.",
-                "en": "Start with a fully charged battery (if using an e-bike), as cold reduces performance, and enjoy the crisp winter air."
+                "en": "Start with a fully charged battery (if using an e-bike), as cold reduces performance, and enjoy the crisp winter air.",
+                "fr": "Commencez avec une batterie entièrement chargée (si vous utilisez un vélo électrique), car le froid réduit l’autonomie, et profitez de l’air vif de l’hiver."
               }
             },
             {
@@ -715,13 +793,15 @@
                 "de": "Cathédrale Saint-Jean-Baptiste",
                 "hu": "Keresztelő Szent János-székesegyház",
                 "ro": "Catedrala Sfântul Ioan Botezătorul",
-                "en": "Saint-Jean-Baptiste Cathedral"
+                "en": "Saint-Jean-Baptiste Cathedral",
+                "fr": "Cathédrale Saint‑Jean‑Baptiste"
               },
               "tip_5lang": {
                 "de": "Parken Sie Ihr Rad und nutzen Sie die schwere Kirchentür als Barriere gegen den kalten Wind für eine kurze Aufwärmpause.",
                 "hu": "Parkolja le a gépét, és használja a nehéz templomajtót gátként a hideg szél ellen egy rövid felmelegedési szünetre.",
                 "ro": "Parcați bicicleta și folosiți ușa grea a bisericii ca barieră împotriva vântului rece pentru o scurtă pauză de încălzire.",
-                "en": "Park your bike and use the heavy church doors as a barrier against the cold wind for a quick warming break."
+                "en": "Park your bike and use the heavy church doors as a barrier against the cold wind for a quick warming break.",
+                "fr": "Garez votre vélo et utilisez les lourdes portes de l’église comme barrière contre le vent froid pour une rapide pause réchauffante."
               }
             },
             {
@@ -729,13 +809,15 @@
                 "de": "Parc de la Tour Vieille",
                 "hu": "Tour Vieille Park",
                 "ro": "Parcul Tour Vieille",
-                "en": "Tour Vieille Park"
+                "en": "Tour Vieille Park",
+                "fr": "Parc Tour Vieille"
               },
               "tip_5lang": {
                 "de": "Achten Sie auf gefrorene Pfützen auf den Wegen; die tiefstehende Sonne kann Blendungen verursachen, tragen Sie eine Sonnenbrille.",
                 "hu": "Ügyeljen a fagyott tócsákra az ösvényeken; az alacsonyan járó nap vakíthat, ezért viseljen napszemüveget a biztonságért.",
                 "ro": "Atenție la bălțile înghețate de pe alei; soarele jos poate fi orbitor, așa că purtați ochelari de soare pentru siguranță.",
-                "en": "Watch out for frozen puddles on the paths; the low sun can be blinding, so wear sunglasses for better visibility."
+                "en": "Watch out for frozen puddles on the paths; the low sun can be blinding, so wear sunglasses for better visibility.",
+                "fr": "Attention aux flaques gelées sur les chemins ; le soleil bas peut être éblouissant, portez des lunettes de soleil pour mieux voir."
               }
             },
             {
@@ -743,13 +825,15 @@
                 "de": "Pont Vieux",
                 "hu": "Öreg híd",
                 "ro": "Podul Vechi",
-                "en": "Old Bridge"
+                "en": "Old Bridge",
+                "fr": "Vieux Pont"
               },
               "tip_5lang": {
                 "de": "Die Brücke ist dem Wind stark ausgesetzt; treten Sie kräftig in die Pedale, um die Durchblutung in den Zehen zu fördern.",
                 "hu": "A híd erősen ki van téve a szélnek; tekerjen intenzíven, hogy serkentse a vérkeringést a lábujjaiban az átkelés alatt.",
                 "ro": "Podul este foarte expus la vânt; pedalați cu energie pentru a stimula circulația în degetele de la picioare în timpul traversării.",
-                "en": "The bridge is very exposed to the wind; pedal vigorously to boost circulation in your toes during the crossing."
+                "en": "The bridge is very exposed to the wind; pedal vigorously to boost circulation in your toes during the crossing.",
+                "fr": "Le pont est très exposé au vent ; pédalez vigoureusement pour relancer la circulation dans vos orteils lors de la traversée."
               }
             },
             {
@@ -757,13 +841,15 @@
                 "de": "Pierre André Benoit",
                 "hu": "Pierre André Benoit Múzeum",
                 "ro": "Muzeul Pierre André Benoit",
-                "en": "Pierre André Benoit Museum"
+                "en": "Pierre André Benoit Museum",
+                "fr": "Musée Pierre André Benoit"
               },
               "tip_5lang": {
                 "de": "Schließen Sie Ihr Rad gut ab; die Wärme im Inneren ist eine willkommene Belohnung für die winterliche Anfahrt.",
                 "hu": "Zárja le alaposan a biciklijét; a benti meleg üdvözlendő jutalom a téli tekerés után a modern művészetek között.",
                 "ro": "Încuiați bine bicicleta; căldura din interior este o recompensă binevenită după pedalarea prin frigul iernii.",
-                "en": "Lock your bike securely; the warmth inside is a welcome reward for your winter ride to see the modern art."
+                "en": "Lock your bike securely; the warmth inside is a welcome reward for your winter ride to see the modern art.",
+                "fr": "Verrouillez bien votre vélo ; la chaleur à l’intérieur est une récompense bienvenue pour votre balade hivernale pour voir l’art moderne."
               }
             },
             {
@@ -771,13 +857,15 @@
                 "de": "Mine Témoin d'Alès",
                 "hu": "Alès-i bányamúzeum",
                 "ro": "Mina Muzeu Alès",
-                "en": "Alès Mine Museum"
+                "en": "Alès Mine Museum",
+                "fr": "Musée de la Mine d’Alès"
               },
               "tip_5lang": {
                 "de": "Die Temperatur unter Tage ist oft milder als draußen; ein perfekter Ort, um der Winterkälte für eine Weile zu entfliehen.",
                 "hu": "A föld alatti hőmérséklet gyakran enyhébb, mint a kinti; tökéletes hely, hogy egy időre elmeneküljön a téli fagy elől.",
                 "ro": "Temperatura din subteran este adesea mai blândă decât cea de afară; locul perfect pentru a scăpa de gerul iernii o vreme.",
-                "en": "The underground temperature is often milder than outside; a perfect place to escape the winter frost for a while."
+                "en": "The underground temperature is often milder than outside; a perfect place to escape the winter frost for a while.",
+                "fr": "La température sous terre est souvent plus clémente qu’à l’extérieur ; un lieu parfait pour échapper au gel hivernal un moment."
               }
             },
             {
@@ -785,13 +873,15 @@
                 "de": "Fort Vauban",
                 "hu": "Vauban-erőd",
                 "ro": "Fortul Vauban",
-                "en": "Vauban Fort"
+                "en": "Vauban Fort",
+                "fr": "Fort Vauban"
               },
               "tip_5lang": {
                 "de": "Nutzen Sie das letzte Tageslicht für den Blick über das winterliche Alès, bevor Sie Ihr Rad für den Heimweg beleuchten.",
                 "hu": "Használja ki az utolsó nappali fényeket a téli Alès-re nyíló kilátáshoz, mielőtt kivilágítaná a gépet a hazaúthoz.",
                 "ro": "Profitați de ultimele raze de lumină pentru vederea asupra orașului Alès, înainte de a aprinde luminile pentru drumul spre casă.",
-                "en": "Take advantage of the last daylight for views over winter Alès before switching on your lights for the ride home."
+                "en": "Take advantage of the last daylight for views over winter Alès before switching on your lights for the ride home.",
+                "fr": "Profitez des dernières lueurs du jour pour les vues sur l’Alès hivernal avant d’allumer vos lumières pour le retour à vélo."
               }
             }
           ]
@@ -811,7 +901,8 @@
             "de": "Musée du Colombier",
             "hu": "Colombier Múzeum",
             "ro": "Muzeul Colombier",
-            "en": "Colombier Museum"
+            "en": "Colombier Museum",
+            "fr": "Musée Colombier"
           },
           "coords": [
             4.080312,
@@ -826,7 +917,8 @@
             "de": "Nutzen Sie die bequemen Parkmöglichkeiten hier für einen entspannten Start in die Kultur- und Kunstgeschichte der Stadt.",
             "hu": "Használja ki az itteni kényelmes parkolási lehetőségeket, hogy nyugodtan kezdhesse a város kultúr- és művészettörténeti felfedezését.",
             "ro": "Profitați de facilitățile de parcare convenabile de aici pentru un început relaxat în istoria culturală și artistică a orașului.",
-            "en": "Take advantage of the convenient parking facilities here for a relaxed start into the cultural and art history of the city."
+            "en": "Take advantage of the convenient parking facilities here for a relaxed start into the cultural and art history of the city.",
+            "fr": "Profitez des commodités de stationnement pratiques ici pour commencer en toute détente votre découverte de l’histoire culturelle et artistique de la ville."
           }
         },
         {
@@ -834,7 +926,8 @@
             "de": "Mine Témoin d'Alès",
             "hu": "Alès-i bányamúzeum",
             "ro": "Mina Muzeu Alès",
-            "en": "Alès Mine Museum"
+            "en": "Alès Mine Museum",
+            "fr": "Musée de la Mine d’Alès"
           },
           "coords": [
             4.06632,
@@ -849,7 +942,8 @@
             "de": "Fahren Sie ein kurzes Stück zur Mine, um einen authentischen Einblick in das harte Leben der Bergarbeiter von damals zu erhalten.",
             "hu": "Tegyen egy rövid utat a bányához, hogy hiteles bepillantást nyerjen az egykori bányászok kemény életébe.",
             "ro": "Conduceți o scurtă distanță până la mină pentru a obține o perspectivă autentică asupra vieții grele a minerilor de altădată.",
-            "en": "Drive a short distance to the mine to get an authentic insight into the harsh life of the miners of the past."
+            "en": "Drive a short distance to the mine to get an authentic insight into the harsh life of the miners of the past.",
+            "fr": "Conduisez un court trajet jusqu’à la mine pour obtenir un aperçu authentique de la vie rude des mineurs d’autrefois."
           }
         },
         {
@@ -857,7 +951,8 @@
             "de": "Oppidum de l'Ermitage",
             "hu": "L'Ermitage Oppidum",
             "ro": "Oppidum de l'Ermitage",
-            "en": "Oppidum of the Hermitage"
+            "en": "Oppidum of the Hermitage",
+            "fr": "Oppidum de l’Ermitage"
           },
           "coords": [
             4.063217,
@@ -872,7 +967,8 @@
             "de": "Erklimmen Sie mit dem Auto die Anhöhe dieser antiken Stätte, wo faszinierende Ruinen und ein schöner Ausblick auf Sie warten.",
             "hu": "Mássza meg autóval ezen ősi hely magaslatát, ahol lenyűgöző romok és gyönyörű kilátás várja.",
             "ro": "Urcați dealul acestui sit antic cu mașina, unde vă așteaptă ruine fascinante și o priveliște frumoasă.",
-            "en": "Climb the hill of this ancient site by car, where fascinating ruins and a beautiful view await you."
+            "en": "Climb the hill of this ancient site by car, where fascinating ruins and a beautiful view await you.",
+            "fr": "Montez la colline de ce site ancien en voiture, où des ruines fascinantes et une belle vue vous attendent."
           }
         },
         {
@@ -880,7 +976,8 @@
             "de": "Cathédrale Saint-Jean-Baptiste",
             "hu": "Keresztelő Szent János-székesegyház",
             "ro": "Catedrala Sfântul Ioan Botezătorul",
-            "en": "Saint-Jean-Baptiste Cathedral"
+            "en": "Saint-Jean-Baptiste Cathedral",
+            "fr": "Cathédrale Saint‑Jean‑Baptiste"
           },
           "coords": [
             4.076619,
@@ -895,7 +992,8 @@
             "de": "Kehren Sie ins Zentrum zurück und besichtigen Sie die prächtige Kathedrale; das Parken in den umliegenden Straßen erfordert etwas Geduld.",
             "hu": "Térjen vissza a központba, és látogassa meg a csodálatos katedrálist; a környező utcákban való parkolás némi türelmet igényel.",
             "ro": "Întoarceți-vă în centru și vizitați magnifica catedrală; parcarea pe străzile din jur necesită puțină răbdare.",
-            "en": "Return to the center and visit the magnificent cathedral; parking in the surrounding streets requires some patience."
+            "en": "Return to the center and visit the magnificent cathedral; parking in the surrounding streets requires some patience.",
+            "fr": "Retournez au centre et visitez la magnifique cathédrale ; se garer dans les rues alentour demande un peu de patience."
           }
         },
         {
@@ -903,7 +1001,8 @@
             "de": "Fort Vauban",
             "hu": "Vauban-erőd",
             "ro": "Fortul Vauban",
-            "en": "Vauban Fort"
+            "en": "Vauban Fort",
+            "fr": "Fort Vauban"
           },
           "coords": [
             4.07492,
@@ -918,7 +1017,8 @@
             "de": "Ein sehr kurzer Sprung bringt Sie zur Festung, spazieren Sie auf den alten Mauern und genießen Sie den Blick über Alès.",
             "hu": "Egy nagyon rövid ugrás elviszi az erődhöz, sétáljon a régi falakon, és élvezze a kilátást Alès-re.",
             "ro": "Un salt foarte scurt vă duce la fort, plimbați-vă pe vechile ziduri și bucurați-vă de priveliștea spre Alès.",
-            "en": "A very short hop takes you to the fort, stroll on the old walls and enjoy the view over Alès."
+            "en": "A very short hop takes you to the fort, stroll on the old walls and enjoy the view over Alès.",
+            "fr": "Un très court trajet vous mène au fort, promenez-vous sur les anciennes murailles et profitez de la vue sur Alès."
           }
         },
         {
@@ -926,7 +1026,8 @@
             "de": "Le Castellas",
             "hu": "Le Castellas kastély",
             "ro": "Castelul Le Castellas",
-            "en": "Le Castellas Castle"
+            "en": "Le Castellas Castle",
+            "fr": "Château Le Castellas"
           },
           "coords": [
             4.051995,
@@ -941,7 +1042,8 @@
             "de": "Fahren Sie aus der Stadt hinaus zu diesen beeindruckenden Burgruinen; festes Schuhwerk ist für die teils unebenen Wege sehr zu empfehlen.",
             "hu": "Hajtson ki a városból ezekhez a lenyűgöző kastélyromokhoz; az egyenetlen ösvények miatt erősen ajánlott a masszív cipő.",
             "ro": "Ieșiți din oraș cu mașina spre aceste ruine impresionante de castel; încălțămintea rezistentă este foarte recomandată pentru potecile inegale.",
-            "en": "Drive out of the city to these impressive castle ruins; sturdy footwear is highly recommended for the uneven paths."
+            "en": "Drive out of the city to these impressive castle ruins; sturdy footwear is highly recommended for the uneven paths.",
+            "fr": "Partez en voiture hors de la ville pour ces impressionnantes ruines de château ; des chaussures robustes sont fortement recommandées pour les chemins irréguliers."
           }
         }
       ],
@@ -949,7 +1051,8 @@
         "de": "Mit dem Auto erschließen wir auch die weiter entfernten Schätze von Alès. Vom kulturellen Zentrum geht es hoch hinaus in die Geschichte.",
         "hu": "Autóval is elérhetjük Alès távolabbi kincseit. A kulturális központból a történelem magasságaiba emelkedünk.",
         "ro": "Cu mașina dezvoltăm și comorile mai îndepărtate din Alès. De la centrul cultural urcăm sus în istorie.",
-        "en": "By car we also access the more distant treasures of Alès. From the cultural center we go high into history."
+        "en": "By car we also access the more distant treasures of Alès. From the cultural center we go high into history.",
+        "fr": "En voiture, nous accédons aussi aux trésors plus éloignés d'Alès. Depuis le centre culturel, nous remontons loin dans l'histoire."
       },
       "variants": {
         "rainy": {
@@ -957,7 +1060,8 @@
             "de": "Genießen Sie Alès bequem vom Auto aus, während der Regen gegen die Scheiben trommelt. Beginnen Sie im Musée du Colombier, wo Sie direkt in der Nähe parken können. Mittags bietet die Mine Témoin ein wetterunabhängiges Erlebnis unter Tage. Der Nachmittag führt Sie zum Oppidum und zur Kathedrale, wobei Sie kurze Wege im Regen nutzen. Der Abend endet gemütlich in der beleuchteten Stadt.",
             "hu": "Élvezze Alès-t kényelmesen az autóból, miközben az eső kopog a szélvédőn. Kezdjen a Colombier Múzeumban, ahol közvetlen közelben parkolhat. Délben a Mine Témoin kínál időjárástól független élményt a föld alatt. A délután az Oppidumhoz és a székesegyházhoz vezet, kihasználva a rövid gyalogutakat az esőben. Az este kellemesen zárul a kivilágított városban.",
             "ro": "Bucurați-vă de Alès confortabil din mașină, în timp ce ploaia bate în parbriz. Începeți la Muzeul Colombier, unde puteți parca în imediata apropiere. La prânz, Mine Témoin oferă o experiență independentă de vreme, în subteran. După-amiaza vă poartă la Oppidum și catedrală, limitând mersul prin ploaie. Seara se încheie plăcut în orașul iluminat.",
-            "en": "Enjoy Alès comfortably from your car while the rain drums on the windshield. Start at the Colombier Museum, where you can park very close by. At noon, Mine Témoin offers a weather-independent experience underground. The afternoon takes you to the Oppidum and the Cathedral, making use of short walks in the rain. The evening ends pleasantly in the lit-up city."
+            "en": "Enjoy Alès comfortably from your car while the rain drums on the windshield. Start at the Colombier Museum, where you can park very close by. At noon, Mine Témoin offers a weather-independent experience underground. The afternoon takes you to the Oppidum and the Cathedral, making use of short walks in the rain. The evening ends pleasantly in the lit-up city.",
+            "fr": "Profitez d'Alès confortablement depuis votre voiture pendant que la pluie frappe le pare-brise. Commencez au musée du Colombier, où vous pouvez vous garer tout près. À midi, la Mine Témoin offre une expérience à l'abri des intempéries sous terre. L'après‑midi vous mène à l'Oppidum et à la Cathédrale, en profitant de courtes promenades sous la pluie. La soirée se termine agréablement dans la ville illuminée."
           },
           "stops": [
             {
@@ -965,13 +1069,15 @@
                 "de": "Musée du Colombier",
                 "hu": "Colombier Múzeum",
                 "ro": "Muzeul Colombier",
-                "en": "Colombier Museum"
+                "en": "Colombier Museum",
+                "fr": "Musée du Colombier"
               },
               "tip_5lang": {
                 "de": "Nutzen Sie den nahegelegenen Parkplatz und lassen Sie Ihren Schirm im Auto, bis Sie den kurzen Weg zum Eingang antreten.",
                 "hu": "Használja a közeli parkolót, és hagyja az esernyőjét az autóban, amíg meg nem teszi a rövid utat a bejáratig.",
                 "ro": "Folosiți parcarea din apropiere și lăsați umbrela în mașină până când parcurgeți drumul scurt spre intrare.",
-                "en": "Use the nearby parking lot and leave your umbrella in the car until you make the very short walk to the entrance."
+                "en": "Use the nearby parking lot and leave your umbrella in the car until you make the very short walk to the entrance.",
+                "fr": "Utilisez le parking à proximité et laissez votre parapluie dans la voiture jusqu'à la très courte marche vers l'entrée."
               }
             },
             {
@@ -979,13 +1085,15 @@
                 "de": "Mine Témoin d'Alès",
                 "hu": "Alès-i bányamúzeum",
                 "ro": "Mina Muzeu Alès",
-                "en": "Alès Mine Museum"
+                "en": "Alès Mine Museum",
+                "fr": "Musée de la Mine d'Alès"
               },
               "tip_5lang": {
                 "de": "Ein idealer Stopp bei Regen; das Parken ist unkompliziert und das Erlebnis findet komplett im trockenen Untergrund statt.",
                 "hu": "Ideális megálló esőben; a parkolás egyszerű, az élmény pedig teljesen a száraz föld alatti járatokban zajlik.",
                 "ro": "O oprire ideală pe ploaie; parcarea este simplă, iar experiența are loc integral în subteranul uscat.",
-                "en": "An ideal stop in the rain; parking is straightforward, and the experience takes place entirely in the dry underground passages."
+                "en": "An ideal stop in the rain; parking is straightforward, and the experience takes place entirely in the dry underground passages.",
+                "fr": "Une halte idéale sous la pluie ; le stationnement est simple et l'expérience se déroule entièrement dans les passages secs du sous‑sol."
               }
             },
             {
@@ -993,13 +1101,15 @@
                 "de": "Oppidum de l'Ermitage",
                 "hu": "L'Ermitage Oppidum",
                 "ro": "Oppidum de l'Ermitage",
-                "en": "Oppidum of the Hermitage"
+                "en": "Oppidum of the Hermitage",
+                "fr": "Oppidum de l'Hermitage"
               },
               "tip_5lang": {
                 "de": "Fahren Sie bis zum Aussichtspunkt hoch; so können Sie die dramatische Aussicht bei Regen fast trocken vom Wagen aus genießen.",
                 "hu": "Hajtson fel egészen a kilátópontig; így az esős, drámai kilátást szinte szárazon élvezheti közvetlenül az autóból.",
                 "ro": "Urcați cu mașina până la punctul de belvedere; astfel puteți admira vederea dramatică pe ploaie aproape fără să vă udați.",
-                "en": "Drive all the way up to the viewpoint; this way you can enjoy the dramatic rainy views almost dry, directly from your car."
+                "en": "Drive all the way up to the viewpoint; this way you can enjoy the dramatic rainy views almost dry, directly from your car.",
+                "fr": "Montez en voiture jusqu'au belvédère ; ainsi vous pouvez profiter des vues dramatiques de la pluie presque à l'abri, directement depuis votre véhicule."
               }
             },
             {
@@ -1007,13 +1117,15 @@
                 "de": "Cathédrale Saint-Jean-Baptiste",
                 "hu": "Keresztelő Szent János-székesegyház",
                 "ro": "Catedrala Sfântul Ioan Botezătorul",
-                "en": "Saint-Jean-Baptiste Cathedral"
+                "en": "Saint-Jean-Baptiste Cathedral",
+                "fr": "Cathédrale Saint‑Jean‑Baptiste"
               },
               "tip_5lang": {
                 "de": "Parken Sie im Parkhaus im Zentrum, um trockenen Fußes in die Nähe der Kathedrale und zu den umliegenden Geschäften zu gelangen.",
                 "hu": "Parkoljon a központi parkolóházban, hogy száraz lábbal juthasson a székesegyház közelébe és a környékbeli üzletekhez.",
                 "ro": "Parcați în parcarea etajată din centru pentru a ajunge cu picioarele uscate aproape de catedrală și magazinele din jur.",
-                "en": "Park in the central parking garage to reach the cathedral and nearby shops while keeping your feet dry."
+                "en": "Park in the central parking garage to reach the cathedral and nearby shops while keeping your feet dry.",
+                "fr": "Garez‑vous dans le parking central pour atteindre la cathédrale et les boutiques voisines tout en gardant les pieds au sec."
               }
             },
             {
@@ -1021,13 +1133,15 @@
                 "de": "Fort Vauban",
                 "hu": "Vauban-erőd",
                 "ro": "Fortul Vauban",
-                "en": "Vauban Fort"
+                "en": "Vauban Fort",
+                "fr": "Fort Vauban"
               },
               "tip_5lang": {
                 "de": "Nutzen Sie die kurzen Wege von den umliegenden Parkplätzen und genießen Sie die kühle, frische Luft auf den Festungsmauern.",
                 "hu": "Használja ki a közeli parkolóktól vezető rövid utat, és élvezze a hűvös, friss levegőt az erőd falain egy gyors séta alatt.",
                 "ro": "Profitați de drumul scurt din parcările din jur și bucurați-vă de aerul răcoros și proaspăt pe zidurile cetății.",
-                "en": "Take advantage of the short walks from nearby parking spots and enjoy the cool, fresh air on the fortress walls."
+                "en": "Take advantage of the short walks from nearby parking spots and enjoy the cool, fresh air on the fortress walls.",
+                "fr": "Profitez des courtes promenades depuis les places de parking proches et savourez l'air frais et frais sur les murs de la forteresse."
               }
             },
             {
@@ -1035,13 +1149,15 @@
                 "de": "Le Castellas",
                 "hu": "Le Castellas kastély",
                 "ro": "Castelul Le Castellas",
-                "en": "Le Castellas Castle"
+                "en": "Le Castellas Castle",
+                "fr": "Château Le Castellas"
               },
               "tip_5lang": {
                 "de": "Die Fahrt zum Schloss bietet schöne Ausblicke; bleiben Sie bei starkem Regen im Wagen und bewundern Sie die Silhouette.",
                 "hu": "A kastélyhoz vezető út szép kilátást kínál; heves esőben maradjon az autóban, és csodálja meg az épület sziluettjét.",
                 "ro": "Drumul spre castel oferă vederi frumoase; în caz de ploaie torențială, rămâneți în mașină și admirați silueta clădirii.",
-                "en": "The drive to the castle offers beautiful views; in case of heavy rain, stay in the car and admire the building's silhouette."
+                "en": "The drive to the castle offers beautiful views; in case of heavy rain, stay in the car and admire the building's silhouette.",
+                "fr": "La route jusqu'au château offre de belles vues ; en cas de forte pluie, restez dans la voiture et admirez la silhouette du bâtiment."
               }
             }
           ]
@@ -1051,7 +1167,8 @@
             "de": "Ein winterlicher Roadtrip durch Alès bietet Komfort und Wärme zwischen den Sehenswürdigkeiten. Beginnen Sie im beheizten Musée du Colombier. Mittags ist die Mine Témoin mit ihren stabilen Innentemperaturen ein Highlight. Der Nachmittag am Oppidum bietet bei klarer Luft fantastische Weitsicht. Da die Sonne gegen 17 Uhr sinkt, nutzen Sie das letzte Licht am Castellas für ein perfektes Panorama.",
             "hu": "Egy téli autós körút Alès-ben kényelmet és meleget nyújt a látnivalók között. Kezdjen a fűtött Colombier Múzeumban. Délben a Mine Témoin stabil belső hőmérséklete igazi fénypont. A délután az Oppidumnál a tiszta levegőben fantasztikus távlatokat kínál. Mivel a nap 17 óra körül nyugszik, használja az utolsó fényeket a Castellas-nál a panorámához.",
             "ro": "Un roadtrip de iarnă prin Alès oferă confort și căldură între obiectivele turistice. Începeți la Muzeul Colombier încălzit. La prânz, Mine Témoin este un punct culminant datorită temperaturii constante. După-amiaza la Oppidum oferă perspective fantastice prin aerul clar. Deoarece soarele apune la 17:00, folosiți ultima lumină la Castellas.",
-            "en": "A winter road trip through Alès provides comfort and warmth between the sights. Start at the heated Colombier Museum. At noon, Mine Témoin is a highlight with its stable indoor temperatures. The afternoon at the Oppidum offers fantastic vistas through the clear air. As the sun sets around 5 PM, use the last light at Castellas for a perfect panorama."
+            "en": "A winter road trip through Alès provides comfort and warmth between the sights. Start at the heated Colombier Museum. At noon, Mine Témoin is a highlight with its stable indoor temperatures. The afternoon at the Oppidum offers fantastic vistas through the clear air. As the sun sets around 5 PM, use the last light at Castellas for a perfect panorama.",
+            "fr": "Un road‑trip hivernal à travers Alès offre confort et chaleur entre les sites. Commencez au musée chauffé du Colombier. À midi, la Mine Témoin est un point fort avec ses températures intérieures stables. L'après‑midi à l'Oppidum offre des vues fantastiques grâce à l'air clair. Au coucher du soleil vers 17:00, utilisez la dernière lumière au Castellas pour un panorama parfait."
           },
           "stops": [
             {
@@ -1059,13 +1176,15 @@
                 "de": "Musée du Colombier",
                 "hu": "Colombier Múzeum",
                 "ro": "Muzeul Colombier",
-                "en": "Colombier Museum"
+                "en": "Colombier Museum",
+                "fr": "Musée du Colombier"
               },
               "tip_5lang": {
                 "de": "Heizen Sie den Wagen vor und genießen Sie die römische Kunst in den wohltemperierten Räumen des Museums.",
                 "hu": "Melegítse be az autót előre, és élvezze a római művészetet a múzeum kellemesen temperált helyiségeiben.",
                 "ro": "Preîncălziți mașina și bucurați-vă de arta romană în sălile bine temperate ale muzeului.",
-                "en": "Pre-heat your car and enjoy the Roman art within the museum's comfortably climate-controlled rooms."
+                "en": "Pre-heat your car and enjoy the Roman art within the museum's comfortably climate-controlled rooms.",
+                "fr": "Préchauffez votre voiture et admirez l'art romain dans les salles agréablement climatisées du musée."
               }
             },
             {
@@ -1073,13 +1192,15 @@
                 "de": "Mine Témoin d'Alès",
                 "hu": "Alès-i bányamúzeum",
                 "ro": "Mina Muzeu Alès",
-                "en": "Alès Mine Museum"
+                "en": "Alès Mine Museum",
+                "fr": "Musée de la Mine d'Alès"
               },
               "tip_5lang": {
                 "de": "Parken Sie direkt davor; die Mine bietet im Winter einen der wärmsten Aufenthaltsorte ohne eisigen Windzug.",
                 "hu": "Parkoljon közvetlenül előtte; a bánya télen az egyik legmelegebb tartózkodási helyet kínálja jeges szél nélkül.",
                 "ro": "Parcați chiar în față; mina oferă iarna unul dintre cele mai calde locuri de vizitat, ferit de vântul înghețat.",
-                "en": "Park directly in front; the mine offers one of the warmest places to visit in winter, shielded from icy winds."
+                "en": "Park directly in front; the mine offers one of the warmest places to visit in winter, shielded from icy winds.",
+                "fr": "Garez‑vous directement devant ; la mine offre l'un des lieux les plus chauds à visiter en hiver, à l'abri des vents glacés."
               }
             },
             {
@@ -1087,13 +1208,15 @@
                 "de": "Oppidum de l'Ermitage",
                 "hu": "L'Ermitage Oppidum",
                 "ro": "Oppidum de l'Ermitage",
-                "en": "Oppidum of the Hermitage"
+                "en": "Oppidum of the Hermitage",
+                "fr": "Oppidum de l'Hermitage"
               },
               "tip_5lang": {
                 "de": "Nutzen Sie die Standheizung beim Bewundern der Aussicht; die Winterluft macht die Cevennen am Horizont besonders scharf sichtbar.",
                 "hu": "Használja az autó fűtését a kilátás csodálása közben; a téli levegő különösen élessé teszi a horizonton a Cevenneket.",
                 "ro": "Folosiți încălzirea mașinii în timp ce admirați vederea; aerul de iarnă face ca munții Cevennes să fie vizibili clar la orizont.",
-                "en": "Use the car's heater while admiring the view; the winter air makes the Cévennes mountains on the horizon especially sharp."
+                "en": "Use the car's heater while admiring the view; the winter air makes the Cévennes mountains on the horizon especially sharp.",
+                "fr": "Utilisez le chauffage de la voiture en admirant la vue ; l'air hivernal rend les montagnes des Cévennes à l'horizon particulièrement nettes."
               }
             },
             {
@@ -1101,13 +1224,15 @@
                 "de": "Cathédrale Saint-Jean-Baptiste",
                 "hu": "Keresztelő Szent János-székesegyház",
                 "ro": "Catedrala Sfântul Ioan Botezătorul",
-                "en": "Saint-Jean-Baptiste Cathedral"
+                "en": "Saint-Jean-Baptiste Cathedral",
+                "fr": "Cathédrale Saint‑Jean‑Baptiste"
               },
               "tip_5lang": {
                 "de": "Parken Sie zentrumsnah; die Kathedrale ist ein friedlicher, frostfreier Ort, um die Architektur in Ruhe zu bestaunen.",
                 "hu": "Parkoljon a központ közelében; a székesegyház békés, fagymentes hely az építészet nyugodt megcsodálásához.",
                 "ro": "Parcați aproape de centru; catedrala este un loc liniștit și ferit de îngheț pentru a admira arhitectura în tihnă.",
-                "en": "Park near the center; the cathedral is a peaceful, frost-free place to admire the architecture in quiet comfort."
+                "en": "Park near the center; the cathedral is a peaceful, frost-free place to admire the architecture in quiet comfort.",
+                "fr": "Garez‑vous près du centre ; la cathédrale est un endroit paisible et sans gel pour admirer l'architecture en tout confort."
               }
             },
             {
@@ -1115,13 +1240,15 @@
                 "de": "Fort Vauban",
                 "hu": "Vauban-erőd",
                 "ro": "Fortul Vauban",
-                "en": "Vauban Fort"
+                "en": "Vauban Fort",
+                "fr": "Fort Vauban"
               },
               "tip_5lang": {
                 "de": "Achten Sie auf eventuelle Straßenglätte bei der Anfahrt zum Fort; die tiefstehende Sonne bietet wunderbares Licht für Fotos.",
                 "hu": "Ügyeljen az esetleges jeges utakra az erődhöz vezető úton; az alacsonyan járó nap csodás fényeket ad a fotózáshoz.",
                 "ro": "Atenție la posibilele porțiuni de drum înghețat spre fort; soarele jos oferă o lumină minunată pentru fotografii.",
-                "en": "Watch out for potential icy patches on the road to the fort; the low sun provides wonderful lighting for photos."
+                "en": "Watch out for potential icy patches on the road to the fort; the low sun provides wonderful lighting for photos.",
+                "fr": "Attention aux plaques de verglas potentielles sur la route menant au fort ; le soleil bas offre un éclairage superbe pour les photos."
               }
             },
             {
@@ -1129,13 +1256,15 @@
                 "de": "Le Castellas",
                 "hu": "Le Castellas kastély",
                 "ro": "Castelul Le Castellas",
-                "en": "Le Castellas Castle"
+                "en": "Le Castellas Castle",
+                "fr": "Château Le Castellas"
               },
               "tip_5lang": {
                 "de": "Kommen Sie rechtzeitig vor 17 Uhr an, um den Sonnenuntergang über dem Tal zu erleben, bevor es im Winter schnell dunkel wird.",
                 "hu": "Érkezzen meg időben 17 óra előtt, hogy lássa a naplementét a völgy felett, mielőtt télen hirtelen besötétedne.",
                 "ro": "Aruncați o privire înainte de ora 17:00 pentru a vedea apusul peste vale, înainte ca iarna să se întunece rapid.",
-                "en": "Arrive in good time before 5 PM to catch the sunset over the valley before it gets dark quickly in the winter."
+                "en": "Arrive in good time before 5 PM to catch the sunset over the valley before it gets dark quickly in the winter.",
+                "fr": "Arrivez de bonne heure avant 17:00 pour attraper le coucher du soleil sur la vallée avant qu'il ne fasse vite sombre en hiver."
               }
             }
           ]

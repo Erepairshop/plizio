@@ -32,7 +32,7 @@
             "hu": "Csodáld meg a teret övező reneszánsz árkádokat.",
             "ro": "Admirați arcadele renascentiste din jurul pieței.",
             "en": "Admire the Renaissance arcades surrounding the square.",
-            "fr": "Admirez les arcades Renaissance entourant la place."
+            "fr": "Admirez les arcades de la Renaissance qui entourent la place."
           }
         },
         {
@@ -89,7 +89,7 @@
             "hu": "Tökéletes hely egy ebédhez a Moselle partján.",
             "ro": "Locul perfect pentru prânz pe malul râului Moselle.",
             "en": "Perfect spot for lunch along the banks of the Moselle.",
-            "fr": "L'endroit idéal pour déjeuner sur les rives de la Moselle."
+            "fr": "Endroit parfait pour déjeuner au bord de la Moselle."
           }
         },
         {
@@ -136,7 +136,7 @@
         "hu": "A délelőtt az óváros szívében, a Place des Vosges-on indul, majd a Saint-Maurice-bazilika csendjét élvezheted. Dél körül mássz fel a várhegyre egy kis történelmi időutazásért. A Moselle-parti ebéd után merülj el a művészetben a MUDAAC falai között. A nap békésen zárul az illatos rózsakertben, ahol igazán átérezheted a Vogézek hangulatát.",
         "ro": "Dimineața începe în inima orașului vechi, în Place des Vosges, înainte de a te bucura de liniștea spirituală a Basilicii Saint-Maurice. Spre prânz, urcă pe dealul castelului pentru o călătorie istorică. După o masă pe malul râului Moselle, scufundă-te în artă la MUDAAC. Ziua se încheie pașnic în grădina de trandafiri parfumată, unde poți simți cu adevărat farmecul regiunii Vosges.",
         "en": "The morning starts in the heart of the old town at Place des Vosges, followed by the spiritual quiet of Saint-Maurice Basilica. Around midday, climb the castle hill for a historic journey. After a lunch by the Moselle, immerse yourself in art at MUDAAC. The day ends peacefully in the fragrant rose garden, where you can truly feel the charm of the Vosges region.",
-        "fr": "La matinée commence au cœur de la vieille ville sur la Place des Vosges, suivie par le calme spirituel de la basilique Saint-Maurice. Vers midi, montez sur la colline du château pour un voyage historique. Après un déjeuner au bord de la Moselle, plongez dans l'art au MUDAAC. La journée s'achève paisiblement dans la roseraie parfumée, où vous pourrez réellement ressentir tout le charme des Vosges."
+        "fr": "La matinée commence au cœur de la vieille ville à la Place des Vosges, suivie du recueillement spirituel de la basilique Saint-Maurice. Vers midi, montez la colline du château pour un voyage historique. Après un déjeuner au bord de la Moselle, plongez dans l'art au MUDAAC. La journée se termine paisiblement dans le jardin de roses parfumé, où vous pourrez véritablement ressentir le charme de la région des Vosges."
       },
       "gastro_picks": {
         "de": [
@@ -330,10 +330,10 @@
           "The bridges over the Moselle offer great photo opportunities."
         ],
         "fr": [
-          "La ville est très agréable à parcourir à pied.",
-          "Visitez le château tôt le matin pour profiter de la meilleure lumière.",
-          "L'Imagerie est un peu plus excentrée, prévoyez votre temps en conséquence.",
-          "Les ponts sur la Moselle offrent de superbes opportunités de photos."
+          "La ville est très adaptée aux piétons.",
+          "Visitez le château tôt le matin pour la meilleure lumière.",
+          "L'Imagerie est un peu plus loin, planifiez votre temps en conséquence.",
+          "Les ponts sur la Moselle offrent d'excellentes opportunités photo."
         ]
       }
     },
@@ -361,7 +361,7 @@
             "hu": "Kezdőpont a csatornánál, kilátással a hajókra.",
             "ro": "Punct de pornire la canal, cu vedere la bărci.",
             "en": "Starting point by the canal with boat views.",
-            "fr": "Point de départ au bord du canal avec vue sur les bateaux."
+            "fr": "Point de départ près du canal avec vue sur les bateaux."
           }
         },
         {
@@ -380,7 +380,7 @@
             "hu": "Fedezd fel a híres nyomatok műhelyeit.",
             "ro": "Explorați atelierele celebrelor stampe.",
             "en": "Explore the workshops of the famous prints.",
-            "fr": "Explorez les ateliers des célèbres images."
+            "fr": "Explorez les ateliers des célèbres imprimeurs."
           }
         },
         {
@@ -399,7 +399,7 @@
             "hu": "Egy utazás a csillagok közé a város szélén.",
             "ro": "O călătorie printre stele la marginea orașului.",
             "en": "A journey to the stars on the edge of town.",
-            "fr": "Un voyage vers les étoiles à la sortie de la ville."
+            "fr": "Un voyage vers les étoiles en bordure de ville."
           }
         },
         {
@@ -437,7 +437,7 @@
             "hu": "Pihentető lezárás egy vízparti kávézóban.",
             "ro": "Final relaxat la o cafenea de pe malul apei.",
             "en": "Relaxing finish at a waterside cafe.",
-            "fr": "Fin de journée relaxante dans un café au bord de l'eau."
+            "fr": "Fin relaxante dans un café au bord de l'eau."
           }
         }
       ],
@@ -446,7 +446,7 @@
         "hu": "Kerékpárral a város zöld tüdejét fedezheted fel a csatorna mentén. A kikötői start után látogasd meg a világhírű Imagerie-t, majd utazz a világűrbe a Planetáriumban. A délután a pihenésé a Moselle-parti parkban, mielőtt visszakerekeznél a centrumba, hogy az óvárosban zárd a napot.",
         "ro": "Cu bicicleta vei explora plămânul verde al orașului de-a lungul canalului. După pornirea din port, vizitează faimoasa Imagerie, apoi călătorește în spațiu la Planetariu. După-amiaza este dedicată relaxării în parcul de pe malul râului Moselle, înainte de a pedala înapoi spre centru pentru a încheia ziua în orașul vechi.",
         "en": "By bike, you will explore the city's green lung along the canal. After starting at the port, visit the world-famous Imagerie, then travel to space at the Planetarium. The afternoon is dedicated to relaxing in the park by the Moselle, before cycling back to the center to end the day in the old town.",
-        "fr": "À vélo, vous explorerez le poumon vert de la ville le long du canal. Après un départ au port, visitez la célèbre Imagerie d'Épinal, puis partez vers les étoiles au Planétarium. L'après-midi est consacré à la détente dans le parc au bord de la Moselle, avant de revenir au centre pour terminer la journée dans la vieille ville."
+        "fr": "À vélo, vous explorerez le poumon vert de la ville le long du canal. Après un départ au port, visitez la mondialement connue Imagerie, puis rendez-vous au Planetarium. L'après-midi est dédiée à la détente dans le parc au bord de la Moselle, avant de revenir au centre pour terminer la journée dans la vieille ville."
       },
       "gastro_picks": {
         "de": [
@@ -620,9 +620,9 @@
           "Watch out for pedestrians in the city center."
         ],
         "fr": [
-          "Utilisez les sentiers le long du canal pour une balade relaxante.",
-          "Le port du casque est recommandé en périphérie.",
-          "Louez un vélo électrique pour les collines menant au Planétarium.",
+          "Utilisez les pistes le long du canal pour une balade détendue.",
+          "Un casque est recommandé en périphérie.",
+          "Louez un VAE pour les côtes menant au Planetarium.",
           "Faites attention aux piétons dans le centre-ville."
         ]
       }
@@ -670,7 +670,7 @@
             "hu": "Tökéletesen megőrzött erőd az I. világháborúból.",
             "ro": "Un fort perfect conservat din Primul Război Mondial.",
             "en": "A perfectly preserved fort from World War I.",
-            "fr": "Un fort parfaitement préservé de la Première Guerre mondiale."
+            "fr": "Un fort parfaitement conservé de la Première Guerre mondiale."
           }
         },
         {
@@ -689,7 +689,7 @@
             "hu": "A strand rész ideális egy fürdőzésre.",
             "ro": "Zona de plajă este ideală pentru o baie.",
             "en": "The beach area is ideal for a swimming break.",
-            "fr": "La zone de plage est idéale pour une pause baignade."
+            "fr": "La plage est idéale pour une pause baignade."
           }
         },
         {
@@ -708,7 +708,7 @@
             "hu": "Szép kilátópont és természetvédelmi terület.",
             "ro": "Un punct de belvedere frumos și zonă naturală.",
             "en": "A beautiful viewpoint and nature area.",
-            "fr": "Un magnifique point de vue et espace naturel."
+            "fr": "Un magnifique point de vue et un espace naturel."
           }
         },
         {
@@ -727,7 +727,7 @@
             "hu": "A Saint-Nicolas parkolóház központi helyen van.",
             "ro": "Parcarea Saint-Nicolas este situată central.",
             "en": "Saint-Nicolas parking garage is centrally located.",
-            "fr": "Le parking couvert Saint-Nicolas est situé au centre."
+            "fr": "Le parking Saint-Nicolas est situé au centre."
           }
         }
       ],
@@ -736,7 +736,7 @@
         "hu": "Autóval Épinal környékének fénypontjait fedezheted fel. Az Imagerie látogatása után irány a lenyűgöző Fort Uxegney erőd. A delet az idilli Bouzey-tónál töltheted, majd a Saut le Cerf kilátóponton keresztül térsz vissza. A napot egy kellemes sétával zárhatod a kivilágított belvárosban.",
         "ro": "Cu mașina vei descoperi atracțiile din jurul orașului Épinal. După vizita la Imagerie, mergi spre impresionantul Fort Uxegney. Prânzul îl poți petrece la idilicul Lac de Bouzey, înainte de a reveni prin punctul de belvedere Saut le Cerf. Ziua se încheie cu o plimbare relaxată prin centrul orașului luminat.",
         "en": "By car, you will discover the highlights around Épinal. After visiting the Imagerie, head to the impressive Fort Uxegney. Spend midday at the idyllic Lac de Bouzey, then return via the Saut le Cerf viewpoint. The day ends with a relaxed stroll through the illuminated city center.",
-        "fr": "En voiture, vous découvrirez les points forts autour d'Épinal. Après avoir visité l'Imagerie, dirigez-vous vers l'impressionnant Fort d'Uxegney. Passez le milieu de journée au cadre idyllique du lac de Bouzey, puis revenez par le point de vue du Saut le Cerf. La journée se termine par une promenade relaxante dans le centre-ville illuminé."
+        "fr": "En voiture, vous découvrirez les points forts autour d'Épinal. Après la visite de l'Imagerie, dirigez-vous vers l'impressionnant Fort Uxegney. Passez la mi-journée au idyllique Lac de Bouzey, puis revenez via le point de vue du Saut le Cerf. La journée se termine par une promenade détendue dans le centre-ville illuminé."
       },
       "gastro_picks": {
         "de": [
@@ -885,10 +885,10 @@
           "Refuel in the city center; there are few stations at the lake."
         ],
         "fr": [
-          "Le parking au lac peut être payant en été.",
-          "Les routes vers le fort sont étroites mais praticables.",
-          "Utilisez l'application 'Parking Épinal' pour les places disponibles.",
-          "Faites le plein en centre-ville ; il y a peu de stations au lac."
+          "Le stationnement au lac peut être payant en été.",
+          "Les routes menant au fort sont étroites mais praticables.",
+          "Utilisez l'application « Parking Épinal » pour connaître les places disponibles.",
+          "Faites le plein au centre-ville ; il y a peu de stations au lac."
         ]
       }
     },
@@ -916,7 +916,7 @@
             "hu": "Minden buszjárat központi csomópontja.",
             "ro": "Nod central pentru toate liniile de autobuz.",
             "en": "Central hub for all bus lines.",
-            "fr": "Nœud central pour toutes les lignes de bus."
+            "fr": "Hub central pour toutes les lignes de bus."
           }
         },
         {
@@ -973,7 +973,7 @@
             "hu": "Használd a transzferbuszt az ipari negyedbe.",
             "ro": "Folosiți autobuzul de transfer către zona industrială.",
             "en": "Use the shuttle to the industrial area.",
-            "fr": "Utilisez la navette vers la zone industrielle."
+            "fr": "Utilisez la navette pour la zone industrielle."
           }
         },
         {
@@ -992,7 +992,7 @@
             "hu": "A várhegytől az állomás csak 15 perc.",
             "ro": "De la dealul castelului la gară sunt doar 15 minute.",
             "en": "From the castle hill to the station is only 15 mins.",
-            "fr": "De la colline du château à la gare, il n'y a que 15 min."
+            "fr": "Du coteau du château à la gare, il n'y a que 15 minutes."
           }
         }
       ],
@@ -1001,7 +1001,7 @@
         "hu": "Az Imagine buszhálózattal kényelmesen elérheted az összes fontos látnivalót. Kezdj az állomáson, látogasd meg a MUDAAC-ot és a bazilikát. Ezután irány a híres Imagerie, majd töltsd a délutánt a várparkban. A hatékony buszrendszer egyszerűvé teszi az átszállást és időt spórol a felfedezéshez.",
         "ro": "Cu rețeaua de autobuze Imagine poți ajunge confortabil la toate atracțiile importante. Începe de la gară, vizitează MUDAAC și basilica din centru. Apoi mergi la celebra Imagerie, înainte de a petrece după-amiaza în parcul castelului. Sistemul de autobuze eficient face transferul ușor și economisește timp.",
         "en": "With the Imagine bus network, you can comfortably reach all major sights. Start at the station, visit MUDAAC and the basilica. Then head to the famous Imagerie, before spending the afternoon in the castle park. The efficient bus system makes transfers easy and saves time for exploring.",
-        "fr": "Avec le réseau de bus Imagine, vous pouvez facilement rejoindre tous les sites majeurs. Commencez à la gare, visitez le MUDAAC et la basilique. Dirigez-vous ensuite vers la célèbre Imagerie, avant de passer l'après-midi dans le parc du château. Le système de bus efficace facilite les transferts et vous fait gagner du temps pour vos explorations."
+        "fr": "Avec le réseau de bus Imagine, vous pouvez rejoindre confortablement tous les principaux sites. Commencez à la gare, visitez le MUDAAC et la basilique. Ensuite, rendez-vous à la célèbre Imagerie, avant de passer l'après-midi dans le parc du château. Le système de bus efficace facilite les correspondances et fait gagner du temps pour l'exploration."
       },
       "gastro_picks": {
         "de": [
@@ -1130,10 +1130,10 @@
           "The 'Place des Vosges' stop is ideal for the city center."
         ],
         "fr": [
-          "Achetez un pass journée auprès du chauffeur.",
+          "Achetez un ticket journée auprès du chauffeur.",
           "Les bus circulent moins fréquemment le week-end.",
           "Utilisez l'application pour les départs en temps réel.",
-          "L'arrêt 'Place des Vosges' est idéal pour le centre-ville."
+          "L'arrêt « Place des Vosges » est idéal pour le centre-ville."
         ]
       }
     }

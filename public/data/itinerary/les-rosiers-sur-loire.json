@@ -21,7 +21,8 @@
             "de": "Notre-Dame Kirche",
             "hu": "Notre-Dame templom",
             "ro": "Biserica Notre-Dame",
-            "en": "Notre-Dame Church"
+            "en": "Notre-Dame Church",
+            "fr": "Église Notre-Dame"
           },
           "coords": [
             -0.225407,
@@ -36,7 +37,8 @@
             "de": "Bewundern Sie die mittelalterliche Architektur dieser Kirche am Fluss und werfen Sie einen Blick auf den Glockenturm, bevor Sie weiter spazieren.",
             "hu": "Csodálja meg ennek a folyóparti templomnak a középkori építészetét, és figyelje meg egyedi harangtornyát, mielőtt folytatná a sétát.",
             "ro": "Admirați arhitectura medievală frumoasă a acestei biserici de pe malul râului și acordați un moment pentru a-i observa turnul unic înainte de a pleca.",
-            "en": "Admire the beautiful medieval architecture of this riverside church and take a moment to notice its unique bell tower before continuing your stroll."
+            "en": "Admire the beautiful medieval architecture of this riverside church and take a moment to notice its unique bell tower before continuing your stroll.",
+            "fr": "Admirez la belle architecture médiévale de cette église au bord de la rivière et prenez un instant pour remarquer son clocher unique avant de poursuivre votre promenade."
           }
         },
         {
@@ -44,7 +46,8 @@
             "de": "Windmühle Basses-Terres",
             "hu": "Basses-Terres szélmalom",
             "ro": "Moara de vânt Basses-Terres",
-            "en": "Moulin à vent des Basses-Terres"
+            "en": "Moulin à vent des Basses-Terres",
+            "fr": "Moulin à vent des Basses-Terres"
           },
           "coords": [
             -0.213168,
@@ -59,7 +62,8 @@
             "de": "Erkunden Sie diese historische Windmühle, die Einblicke in die landwirtschaftliche Vergangenheit bietet, und machen Sie Fotos vom malerischen Weg.",
             "hu": "Fedezze fel ezt a történelmi szélmalmot, amely bepillantást enged a régió múltjába, és mindenképpen készítsen fotókat a festői ösvényről.",
             "ro": "Explorați această moară de vânt istorică ce oferă o privire în trecutul agricol și asigurați-vă că faceți poze de pe cărarea pitorească din jur.",
-            "en": "Explore this historic windmill which offers a glimpse into the region's agricultural past, and make sure to take photos from the scenic surrounding path."
+            "en": "Explore this historic windmill which offers a glimpse into the region's agricultural past, and make sure to take photos from the scenic surrounding path.",
+            "fr": "Explorez ce moulin à vent historique qui offre un aperçu du passé agricole de la région, et pensez à prendre des photos depuis le chemin panoramique alentour."
           }
         },
         {
@@ -67,7 +71,8 @@
             "de": "Rathaus von Gennes",
             "hu": "Gennes Városháza",
             "ro": "Primăria din Gennes",
-            "en": "Mairie déléguée de Gennes"
+            "en": "Mairie déléguée de Gennes",
+            "fr": "Mairie déléguée de Gennes"
           },
           "coords": [
             -0.23231,
@@ -82,7 +87,8 @@
             "de": "Betrachten Sie das lokale Verwaltungserbe an diesem historischen Rathausgebäude und halten Sie kurz an, um die Schilder am Eingang zu lesen.",
             "hu": "Figyelje meg a helyi közigazgatási örökséget ennél a történelmi városházánál, és álljon meg röviden elolvasni a főbejáratnál lévő táblákat.",
             "ro": "Observați moștenirea administrativă locală la această primărie istorică, oprindu-vă scurt pentru a citi plăcile informative de la intrarea principală.",
-            "en": "Observe the local administrative heritage at this historic town hall building, stopping briefly to read the informational plaques at the main entrance."
+            "en": "Observe the local administrative heritage at this historic town hall building, stopping briefly to read the informational plaques at the main entrance.",
+            "fr": "Observez le patrimoine administratif local dans ce bâtiment historique de la mairie, en vous arrêtant brièvement pour lire les plaques d'information à l'entrée principale."
           }
         },
         {
@@ -90,7 +96,8 @@
             "de": "Galloromanisches Amphitheater",
             "hu": "Gall-római amfiteátrum",
             "ro": "Amfiteatrul galo-roman",
-            "en": "Amphithéatre gallo-romain"
+            "en": "Amphithéatre gallo-romain",
+            "fr": "Amphithéâtre gallo-romain"
           },
           "coords": [
             -0.238633,
@@ -105,7 +112,8 @@
             "de": "Tauchen Sie bei diesen beeindruckenden galloromanischen Ruinen in die Vergangenheit ein und tragen Sie festes Schuhwerk auf den unebenen Wegen.",
             "hu": "Lépjen vissza az időben ezeknél a lenyűgöző gall-római romoknál, és viseljen kényelmes cipőt, mivel az egyenetlen kőösvények trükkösek lehetnek.",
             "ro": "Pășiți în trecut la aceste ruine galo-romane impresionante și purtați încălțăminte rezistentă, deoarece cărările din piatră pot fi alunecoase.",
-            "en": "Step back in time at these impressive Gallo-Roman ruins where gladiators once fought, and wear sturdy shoes as the uneven stone paths can be tricky."
+            "en": "Step back in time at these impressive Gallo-Roman ruins where gladiators once fought, and wear sturdy shoes as the uneven stone paths can be tricky.",
+            "fr": "Remontez le temps dans ces impressionnantes ruines gallo-romaines où les gladiateurs combattaient, et portez des chaussures solides car les chemins de pierre inégaux peuvent être délicats."
           }
         },
         {
@@ -113,7 +121,8 @@
             "de": "Hinkelstein von Bois-Gilbert",
             "hu": "Bois-Gilbert menhir",
             "ro": "Menhirul din Bois-Gilbert",
-            "en": "Menhir du Bois-Gilbert"
+            "en": "Menhir du Bois-Gilbert",
+            "fr": "Menhir du Bois-Gilbert"
           },
           "coords": [
             -0.24848,
@@ -128,7 +137,8 @@
             "de": "Bestaunen Sie diesen uralten Hinkelstein in den Wäldern, ein Zeugnis prähistorischen Lebens, und bringen Sie in den Sommermonaten Insektenspray mit.",
             "hu": "Csodálja meg ezt az erdőben megbúvó ősi állókövet, amely a történelem előtti élet tanúja, és nyáron feltétlenül vigyen magával rovarriasztót.",
             "ro": "Minunați-vă de această piatră verticală străveche ascunsă în pădure și aduceți spray împotriva insectelor dacă vizitați în lunile calde de vară.",
-            "en": "Marvel at this ancient standing stone hidden in the woods, a testament to prehistoric life, and bring bug spray during the warm summer months."
+            "en": "Marvel at this ancient standing stone hidden in the woods, a testament to prehistoric life, and bring bug spray during the warm summer months.",
+            "fr": "Émerveillez-vous devant ce menhir ancien caché dans les bois, témoignage de la vie préhistorique, et apportez un anti-moustique pendant les chaudes journées d'été."
           }
         }
       ],
@@ -136,7 +146,8 @@
         "de": "Beginnen Sie Ihren Morgen am Fluss bei der Kirche Notre-Dame. Danach spazieren Sie gemütlich zur historischen Windmühle. Nach einer Mittagspause beim Rathaus tauchen Sie in die römische Geschichte ein. Beenden Sie den Nachmittag am mysteriösen Hinkelstein im Wald.",
         "hu": "Kezdje a reggelt a folyó közelében, a gyönyörű Notre-Dame templomnál. Ezután tegyen egy kellemes sétát kelet felé a történelmi szélmalomhoz. A városháza körüli déli pihenő után merüljön el a római történelemben. Zárja a délutánt az erdőben a titokzatos menhirnél.",
         "ro": "Începeți dimineața lângă râu la frumoasa biserică Notre-Dame. Apoi, faceți o plimbare spre est pentru a descoperi moara de vânt. După o pauză la prânz lângă primărie, pătrundeți în istoria romană. Încheiați după-amiaza în pădure la misteriosul menhir preistoric.",
-        "en": "Start your morning near the river at the beautiful Notre-Dame Church. Then, enjoy a pleasant walk east to discover the historical windmill. After a midday break near the Mairie, immerse yourself in Roman history. End your afternoon in the woods at the mysterious Menhir."
+        "en": "Start your morning near the river at the beautiful Notre-Dame Church. Then, enjoy a pleasant walk east to discover the historical windmill. After a midday break near the Mairie, immerse yourself in Roman history. End your afternoon in the woods at the mysterious Menhir.",
+        "fr": "Commencez votre matinée près de la rivière à la belle Église Notre-Dame. Ensuite, profitez d'une agréable promenade vers l'est pour découvrir le moulin historique. Après une pause de midi près de la Mairie, plongez dans l'histoire romaine. Terminez votre après-midi dans les bois au mystérieux Menhir."
       },
       "variants": {
         "rainy": {
@@ -144,7 +155,8 @@
             "de": "Beginnen Sie trocken in der großen Kirche. Mittags führt ein nasser, aber stimmungsvoller Spaziergang zur Mühle. Der Nachmittag zeigt antike Ruinen im Regen. Beenden Sie die Tour vorsichtig auf den schlammigen Wegen.",
             "hu": "Kezdje a napot a templom nyújtotta menedékben. Délben tegyen egy esős, de hangulatos sétát a malomhoz. Délután a római romok esőben is lenyűgözőek. Este óvatosan térjen vissza a saras, csúszós ösvényeken.",
             "ro": "Începeți la adăpost în biserica impunătoare. La prânz, o plimbare umedă dar atmosferică spre moară. După-amiaza dezvăluie ruine antice strălucind în ploaie. Încheiați cu grijă, deoarece potecile devin noroioase seara.",
-            "en": "Begin by sheltering inside the grand church. Midday brings a wet but atmospheric stroll past the windmill and town hall. The afternoon reveals ancient ruins shining in the rain. End your walk carefully, as trails get muddy by evening."
+            "en": "Begin by sheltering inside the grand church. Midday brings a wet but atmospheric stroll past the windmill and town hall. The afternoon reveals ancient ruins shining in the rain. End your walk carefully, as trails get muddy by evening.",
+            "fr": "Commencez par vous abriter à l'intérieur de la grande église. Le milieu de journée apporte une promenade humide mais atmosphérique près du moulin et de la mairie. L'après-midi révèle des ruines anciennes brillant sous la pluie. Terminez votre promenade avec précaution, car les sentiers deviennent boueux en soirée."
           },
           "stops": [
             {
@@ -152,13 +164,15 @@
                 "de": "Notre-Dame Kirche",
                 "hu": "Notre-Dame templom",
                 "ro": "Biserica Notre-Dame",
-                "en": "Notre-Dame Church"
+                "en": "Notre-Dame Church",
+                "fr": "Église Notre-Dame"
               },
               "tip_5lang": {
                 "de": "Bewundern Sie das große Kirchenschiff im Trockenen. Tipp: Ein großartiger, warmer Unterstand bei starkem Morgenregen.",
                 "hu": "Csodálja meg a hatalmas főhajót, miközben teljesen száraz marad. Tipp: Kiváló menedék a kora reggeli heves esőzések idején.",
                 "ro": "Admirați naosul grandios rămânând complet uscat. Sfat: Acesta este un adăpost excelent în timpul ploilor torențiale de dimineață.",
-                "en": "Admire the grand nave while staying completely dry. Tip: This is a great, warm shelter during heavy morning downpours."
+                "en": "Admire the grand nave while staying completely dry. Tip: This is a great, warm shelter during heavy morning downpours.",
+                "fr": "Admirez la grande nef tout en restant complètement au sec. Astuce : c'est un excellent abri chauffé lors de fortes averses matinales."
               }
             },
             {
@@ -166,13 +180,15 @@
                 "de": "Windmühle Basses-Terres",
                 "hu": "Basses-Terres szélmalom",
                 "ro": "Moara de vânt Basses-Terres",
-                "en": "Moulin à vent des Basses-Terres"
+                "en": "Moulin à vent des Basses-Terres",
+                "fr": "Moulin à vent des Basses-Terres"
               },
               "tip_5lang": {
                 "de": "Das Äußere wirkt vor dem dramatischen grauen Himmel beeindruckend. Tipp: Halten Sie Ihren Regenschirm bereit, es ist sehr windig.",
                 "hu": "A külseje lenyűgöző a drámai, szürke égbolt előtt. Tipp: Tartsa kéznél az esernyőt, mivel ez a nyitott terület ki van téve a szélnek.",
                 "ro": "Exteriorul este impresionant pe fundalul cerului gri dramatic. Sfat: Păstrați umbrela la îndemână, zona fiind expusă la ploaie și vânt.",
-                "en": "The exterior is striking against the dramatic grey skies. Tip: Keep your umbrella handy, as this open area is exposed to rain and wind."
+                "en": "The exterior is striking against the dramatic grey skies. Tip: Keep your umbrella handy, as this open area is exposed to rain and wind.",
+                "fr": "L'extérieur tranche sur le ciel gris dramatique. Astuce : gardez votre parapluie à portée de main, cette zone exposée prend la pluie et le vent."
               }
             },
             {
@@ -180,13 +196,15 @@
                 "de": "Rathaus von Gennes",
                 "hu": "Gennes Városháza",
                 "ro": "Primăria din Gennes",
-                "en": "Mairie déléguée de Gennes"
+                "en": "Mairie déléguée de Gennes",
+                "fr": "Mairie déléguée de Gennes"
               },
               "tip_5lang": {
                 "de": "Klassische Architektur, die man unter dem schützenden Dach betrachten kann. Tipp: Treten Sie unter die Veranda, wenn der Regen zunimmt.",
                 "hu": "Klasszikus építészet, melyet a védelmet nyújtó eresz alól is megcsodálhat. Tipp: Húzódjon be a tornácra, ha hirtelen rákezdenek az esőcseppek.",
                 "ro": "Arhitectură clasică de privit de sub streșinile protectoare. Sfat: Pășiți sub pridvor dacă ploaia de după-amiază se intensifică brusc.",
-                "en": "Classic architecture to view from beneath the protective eaves. Tip: Step under the porch if the afternoon rain suddenly intensifies."
+                "en": "Classic architecture to view from beneath the protective eaves. Tip: Step under the porch if the afternoon rain suddenly intensifies.",
+                "fr": "Architecture classique à contempler depuis les auvents protecteurs. Astuce : abritez-vous sous le porche si la pluie de l'après-midi s'intensifie soudainement."
               }
             },
             {
@@ -194,13 +212,15 @@
                 "de": "Galloromanisches Amphitheater",
                 "hu": "Gall-római amfiteátrum",
                 "ro": "Amfiteatrul galo-roman",
-                "en": "Amphithéatre gallo-romain"
+                "en": "Amphithéatre gallo-romain",
+                "fr": "Amphithéâtre gallo-romain"
               },
               "tip_5lang": {
                 "de": "Die antiken Ruinen sind im sanften Regen sehr stimmungsvoll. Tipp: Tragen Sie wasserfeste Schuhe, da die alten Steine sehr rutschig werden.",
                 "hu": "Az ősi romok különösen hangulatosak a csendes esőben. Tipp: Viseljen vízálló túracipőt, mivel az ókori kövek rendkívül csúszóssá válnak.",
                 "ro": "Ruinele antice sunt pline de atmosferă în ploaia blândă. Sfat: Purtați pantofi de drumeție impermeabili, deoarece pietrele devin alunecoase.",
-                "en": "The ancient ruins are highly atmospheric in the gentle rain. Tip: Wear sturdy, waterproof hiking shoes as the ancient stones get slippery."
+                "en": "The ancient ruins are highly atmospheric in the gentle rain. Tip: Wear sturdy, waterproof hiking shoes as the ancient stones get slippery.",
+                "fr": "Les ruines anciennes sont très atmosphériques sous la pluie fine. Astuce : portez des chaussures de randonnée robustes et imperméables car les pierres anciennes deviennent glissantes."
               }
             },
             {
@@ -208,13 +228,15 @@
                 "de": "Hinkelstein von Bois-Gilbert",
                 "hu": "Bois-Gilbert menhir",
                 "ro": "Menhirul din Bois-Gilbert",
-                "en": "Menhir du Bois-Gilbert"
+                "en": "Menhir du Bois-Gilbert",
+                "fr": "Menhir du Bois-Gilbert"
               },
               "tip_5lang": {
                 "de": "Ein mystisches Monument im Abendnebel. Tipp: Der umgebende Boden wird extrem schlammig, bleiben Sie unbedingt auf den befestigten Wegen.",
                 "hu": "Misztikus emlékmű, amely büszkén áll az esti ködben. Tipp: A környező talaj nagyon sarassá válhat, ezért szigorúan maradjon a főutakon.",
                 "ro": "Un monument mistic ce stă mândru în ceața serii. Sfat: Terenul din jur devine extrem de noroios, păstrați-vă pe cărările principale.",
-                "en": "A mystical monument standing strong amidst the evening mist. Tip: The surrounding ground gets extremely muddy, stick to the main paths."
+                "en": "A mystical monument standing strong amidst the evening mist. Tip: The surrounding ground gets extremely muddy, stick to the main paths.",
+                "fr": "Un monument mystique se dressant au milieu de la brume du soir. Astuce : le sol alentour devient extrêmement boueux, restez sur les chemins principaux."
               }
             }
           ]
@@ -224,7 +246,8 @@
             "de": "Starten Sie den frischen Wintermorgen in der Kirche. Mittags bieten sich klare, kühle Ausblicke auf die Denkmäler. Erkunden Sie das Amphitheater in der tiefstehenden Wintersonne. Beenden Sie den Spaziergang vor Einbruch der Dunkelheit um 17:00 Uhr.",
             "hu": "Kezdje a friss téli reggelt a történelmi templomban. Délben tiszta, csípős időben csodálhatja meg a helyi látnivalókat. Fedezze fel az amfiteátrumot az alacsonyan járó téli napfényben. Fejezze be a sétát a korai, 17:00 órai naplemente előtt.",
             "ro": "Începeți dimineața geroasă de iarnă la biserică. La prânz aveți vederi clare, dar reci ale monumentelor. Explorați amfiteatrul sub soarele frumos de iarnă. Terminați plimbarea înainte de apusul devreme, în jurul orei 17:00.",
-            "en": "Start your crisp winter morning at the historic church. Midday offers clear, chilly views of local landmarks. Explore the ancient amphitheater under the beautiful low winter sun. Finish your walk before the early sunset at 17:00."
+            "en": "Start your crisp winter morning at the historic church. Midday offers clear, chilly views of local landmarks. Explore the ancient amphitheater under the beautiful low winter sun. Finish your walk before the early sunset at 17:00.",
+            "fr": "Commencez votre matinée hivernale fraîche à l'église historique. Le milieu de journée offre des vues claires et fraîches des sites locaux. Explorez l'ancien amphithéâtre sous le beau soleil bas d'hiver. Finissez votre promenade avant le coucher de soleil anticipé à 17:00."
           },
           "stops": [
             {
@@ -232,13 +255,15 @@
                 "de": "Notre-Dame Kirche",
                 "hu": "Notre-Dame templom",
                 "ro": "Biserica Notre-Dame",
-                "en": "Notre-Dame Church"
+                "en": "Notre-Dame Church",
+                "fr": "Église Notre-Dame"
               },
               "tip_5lang": {
                 "de": "Friedliches Morgenlicht fällt durch die alten Fenster. Tipp: Das steinerne Innere ist kühl; behalten Sie Ihren warmen Wintermantel an.",
                 "hu": "A békés reggeli fény gyönyörűen szűrődik át a régi ablakokon. Tipp: A kőbelső hűvös; tartsa magán a meleg téli kabátot odabent is.",
                 "ro": "Lumina liniștită a dimineții pătrunde frumos prin ferestrele vechi. Sfat: Interiorul din piatră e rece; păstrați haina groasă de iarnă pe dvs.",
-                "en": "Peaceful morning light filters beautifully through the old windows. Tip: The stone interior is chilly; keep your warm winter coat on inside."
+                "en": "Peaceful morning light filters beautifully through the old windows. Tip: The stone interior is chilly; keep your warm winter coat on inside.",
+                "fr": "La lumière matinale paisible filtre magnifiquement à travers les vieilles fenêtres. Astuce : l'intérieur en pierre est froid ; gardez votre manteau d'hiver chaud à l'intérieur."
               }
             },
             {
@@ -246,13 +271,15 @@
                 "de": "Windmühle Basses-Terres",
                 "hu": "Basses-Terres szélmalom",
                 "ro": "Moara de vânt Basses-Terres",
-                "en": "Moulin à vent des Basses-Terres"
+                "en": "Moulin à vent des Basses-Terres",
+                "fr": "Moulin à vent des Basses-Terres"
               },
               "tip_5lang": {
                 "de": "Wunderschöne Wintersilhouetten gegen den kalten Himmel. Tipp: Der Wind ist hier im Winter beißend, tragen Sie einen dicken, warmen Schal.",
                 "hu": "Gyönyörű téli sziluettek a tiszta, hideg égbolt előtt. Tipp: A szél itt télen nagyon csípős, feltétlenül viseljen vastag, meleg sálat.",
                 "ro": "Siluete frumoase de iarnă pe fundalul cerului rece și clar. Sfat: Vântul de aici este aspru iarna, asigurați-vă că purtați un fular gros.",
-                "en": "Beautiful winter silhouettes against the crisp, cold sky. Tip: The wind here is biting in winter, make sure to wear a thick, warm scarf."
+                "en": "Beautiful winter silhouettes against the crisp, cold sky. Tip: The wind here is biting in winter, make sure to wear a thick, warm scarf.",
+                "fr": "Belles silhouettes hivernales contre le ciel clair et froid. Astuce : le vent y est mordant en hiver, portez une grosse écharpe chaude."
               }
             },
             {
@@ -260,13 +287,15 @@
                 "de": "Rathaus von Gennes",
                 "hu": "Gennes Városháza",
                 "ro": "Primăria din Gennes",
-                "en": "Mairie déléguée de Gennes"
+                "en": "Mairie déléguée de Gennes",
+                "fr": "Mairie déléguée de Gennes"
               },
               "tip_5lang": {
                 "de": "Bewundern Sie das blasse Wintersonnenlicht auf der Fassade. Tipp: Ein kurzer Stopp, um in Bewegung zu bleiben und die Körperwärme zu halten.",
                 "hu": "Csodálja meg a történelmi homlokzaton megcsillanó halvány téli napfényt. Tipp: Csak egy gyors megálló, hogy mozgásban maradjon és ne fázzon meg.",
                 "ro": "Admirați lumina palidă a soarelui de iarnă pe fațada istorică. Sfat: O oprire scurtă pentru a vă menține în mișcare și a păstra căldura.",
-                "en": "Admire the pale winter sunlight reflecting on the historic facade. Tip: A quick stop to keep moving and maintain your body temperature."
+                "en": "Admire the pale winter sunlight reflecting on the historic facade. Tip: A quick stop to keep moving and maintain your body temperature.",
+                "fr": "Admirez la pâle lumière hivernale se reflétant sur la façade historique. Astuce : un arrêt rapide pour rester en mouvement et maintenir votre température corporelle."
               }
             },
             {
@@ -274,13 +303,15 @@
                 "de": "Galloromanisches Amphitheater",
                 "hu": "Gall-római amfiteátrum",
                 "ro": "Amfiteatrul galo-roman",
-                "en": "Amphithéatre gallo-romain"
+                "en": "Amphithéatre gallo-romain",
+                "fr": "Amphithéâtre gallo-romain"
               },
               "tip_5lang": {
                 "de": "Die tiefstehende Wintersonne wirft lange Schatten auf die Arena. Tipp: Der offene Platz hat keinen Windschutz, kleiden Sie sich sehr warm.",
                 "hu": "Az alacsony téli nap hosszú, drámai árnyékokat vet az ókori arénára. Tipp: A nyitott tér nem véd a széltől, öltözzön meleg termó rétegekbe.",
                 "ro": "Soarele de iarnă aruncă umbre dramatice pe arena antică. Sfat: Spațiul deschis nu are protecție împotriva vântului, îmbrăcați-vă foarte gros.",
-                "en": "The low winter sun casts long, dramatic shadows on the ancient arena. Tip: The open space has no windbreak, dress in heavy thermal layers."
+                "en": "The low winter sun casts long, dramatic shadows on the ancient arena. Tip: The open space has no windbreak, dress in heavy thermal layers.",
+                "fr": "Le soleil bas d'hiver jette de longues ombres dramatiques sur l'arène ancienne. Astuce : l'espace ouvert n'a aucun coupe-vent, habillez-vous en couches thermiques épaisses."
               }
             },
             {
@@ -288,13 +319,15 @@
                 "de": "Hinkelstein von Bois-Gilbert",
                 "hu": "Bois-Gilbert menhir",
                 "ro": "Menhirul din Bois-Gilbert",
-                "en": "Menhir du Bois-Gilbert"
+                "en": "Menhir du Bois-Gilbert",
+                "fr": "Menhir du Bois-Gilbert"
               },
               "tip_5lang": {
                 "de": "Ein imposantes Steinmonument im winterlichen Zwielicht. Tipp: Besuchen Sie es vor 16:30 Uhr, da es früh dunkel wird und der Weg unbeleuchtet ist.",
                 "hu": "Impozáns kőemlékmű, amely némán áll a téli szürkületben. Tipp: Látogasson el ide 16:30 előtt, mert korán sötétedik és az ösvény kivilágítatlan.",
                 "ro": "Un monument impunător de piatră în amurgul de iarnă. Sfat: Vizitați-l înainte de 16:30, deoarece se întunecă devreme și poteca nu e iluminată.",
-                "en": "An imposing stone monument standing silent in the winter twilight. Tip: Visit before 16:30, as it gets dark very early and the path is unlit."
+                "en": "An imposing stone monument standing silent in the winter twilight. Tip: Visit before 16:30, as it gets dark very early and the path is unlit.",
+                "fr": "Un imposant monument de pierre se tenant silencieux dans le crépuscule hivernal. Astuce : visitez avant 16:30, car il fait très sombre tôt et le sentier n'est pas éclairé."
               }
             }
           ]
@@ -314,7 +347,8 @@
             "de": "Kirche Saint-Gervais",
             "hu": "Saint-Gervais templom",
             "ro": "Biserica Saint-Gervais",
-            "en": "Église Saint-Gervais-et-Saint-Protais"
+            "en": "Église Saint-Gervais-et-Saint-Protais",
+            "fr": "Église Saint-Gervais-et-Saint-Protais"
           },
           "coords": [
             -0.258803,
@@ -329,7 +363,8 @@
             "de": "Besuchen Sie diese charmante historische Kirche, die für ihre friedliche Atmosphäre bekannt ist, und betreten Sie sie am besten im Morgenlicht.",
             "hu": "Látogasson el ebbe a bájos történelmi templomba, amely békés hangulatáról ismert, és lépjen be, amikor a reggeli fények a legszebbek.",
             "ro": "Vizitați această biserică istorică fermecătoare cunoscută pentru atmosfera sa pașnică și asigurați-vă că intrați atunci când lumina dimineții este optimă.",
-            "en": "Visit this charming historic church known for its peaceful atmosphere and intricate details, making sure to step inside when the morning light is best."
+            "en": "Visit this charming historic church known for its peaceful atmosphere and intricate details, making sure to step inside when the morning light is best.",
+            "fr": "Visitez cette charmante église historique connue pour son atmosphère paisible et ses détails élaborés, en prenant soin d'entrer quand la lumière du matin est la meilleure."
           }
         },
         {
@@ -337,7 +372,8 @@
             "de": "Hinkelstein von Bois-Gilbert",
             "hu": "Bois-Gilbert menhir",
             "ro": "Menhirul din Bois-Gilbert",
-            "en": "Menhir du Bois-Gilbert"
+            "en": "Menhir du Bois-Gilbert",
+            "fr": "Menhir du Bois-Gilbert"
           },
           "coords": [
             -0.24848,
@@ -352,7 +388,8 @@
             "de": "Bestaunen Sie diesen uralten Hinkelstein in den Wäldern, ein Zeugnis prähistorischen Lebens, und bringen Sie in den Sommermonaten Insektenspray mit.",
             "hu": "Csodálja meg ezt az erdőben megbúvó ősi állókövet, amely a történelem előtti élet tanúja, és nyáron feltétlenül vigyen magával rovarriasztót.",
             "ro": "Minunați-vă de această piatră verticală străveche ascunsă în pădure și aduceți spray împotriva insectelor dacă vizitați în lunile calde de vară.",
-            "en": "Marvel at this ancient standing stone hidden in the woods, a testament to prehistoric life, and bring bug spray during the warm summer months."
+            "en": "Marvel at this ancient standing stone hidden in the woods, a testament to prehistoric life, and bring bug spray during the warm summer months.",
+            "fr": "Émerveillez-vous devant ce menhir ancien caché dans les bois, témoignage de la vie préhistorique, et apportez un anti-moustique pendant les chaudes journées d'été."
           }
         },
         {
@@ -360,7 +397,8 @@
             "de": "Dolmen La Pagerie",
             "hu": "La Pagerie dolmen",
             "ro": "Dolmenul La Pagerie",
-            "en": "Pierre couverte la Pagerie"
+            "en": "Pierre couverte la Pagerie",
+            "fr": "Pierre couverte la Pagerie"
           },
           "coords": [
             -0.256323,
@@ -375,7 +413,8 @@
             "de": "Entdecken Sie diesen bemerkenswerten Dolmen, der als uralte Grabstätte diente, und seien Sie vorsichtig, da das umliegende Gelände recht uneben ist.",
             "hu": "Fedezze fel ezt a figyelemre méltó dolment, amely ősi temetkezési helyként szolgált, és óvatosan sétáljon körülötte a meglehetősen egyenetlen terepen.",
             "ro": "Descoperiți acest dolmen remarcabil care a servit ca loc de înmormântare antic și aveți grijă când mergeți, deoarece terenul este destul de accidentat.",
-            "en": "Discover this remarkable dolmen that served as an ancient burial site, and take care when walking around it as the surrounding terrain is quite rugged."
+            "en": "Discover this remarkable dolmen that served as an ancient burial site, and take care when walking around it as the surrounding terrain is quite rugged.",
+            "fr": "Découvrez ce remarquable dolmen qui servait de lieu d'inhumation ancien, et faites attention en le contournant car le terrain alentour est assez accidenté."
           }
         },
         {
@@ -383,7 +422,8 @@
             "de": "Galloromanisches Amphitheater",
             "hu": "Gall-római amfiteátrum",
             "ro": "Amfiteatrul galo-roman",
-            "en": "Amphithéatre gallo-romain"
+            "en": "Amphithéatre gallo-romain",
+            "fr": "Amphithéâtre gallo-romain"
           },
           "coords": [
             -0.238633,
@@ -398,7 +438,8 @@
             "de": "Tauchen Sie bei diesen beeindruckenden galloromanischen Ruinen in die Vergangenheit ein und tragen Sie festes Schuhwerk auf den unebenen Wegen.",
             "hu": "Lépjen vissza az időben ezeknél a lenyűgöző gall-római romoknál, és viseljen kényelmes cipőt, mivel az egyenetlen kőösvények trükkösek lehetnek.",
             "ro": "Pășiți în trecut la aceste ruine galo-romane impresionante și purtați încălțăminte rezistentă, deoarece cărările din piatră pot fi alunecoase.",
-            "en": "Step back in time at these impressive Gallo-Roman ruins where gladiators once fought, and wear sturdy shoes as the uneven stone paths can be tricky."
+            "en": "Step back in time at these impressive Gallo-Roman ruins where gladiators once fought, and wear sturdy shoes as the uneven stone paths can be tricky.",
+            "fr": "Remontez le temps dans ces impressionnantes ruines gallo-romaines où les gladiateurs combattaient, et portez des chaussures solides car les chemins de pierre inégaux peuvent être délicats."
           }
         },
         {
@@ -406,7 +447,8 @@
             "de": "Rathaus von Gennes",
             "hu": "Gennes Városháza",
             "ro": "Primăria din Gennes",
-            "en": "Mairie déléguée de Gennes"
+            "en": "Mairie déléguée de Gennes",
+            "fr": "Mairie déléguée de Gennes"
           },
           "coords": [
             -0.23231,
@@ -421,7 +463,8 @@
             "de": "Betrachten Sie das lokale Verwaltungserbe an diesem historischen Rathausgebäude und halten Sie kurz an, um die Schilder am Eingang zu lesen.",
             "hu": "Figyelje meg a helyi közigazgatási örökséget ennél a történelmi városházánál, és álljon meg röviden elolvasni a főbejáratnál lévő táblákat.",
             "ro": "Observați moștenirea administrativă locală la această primărie istorică, oprindu-vă scurt pentru a citi plăcile informative de la intrarea principală.",
-            "en": "Observe the local administrative heritage at this historic town hall building, stopping briefly to read the informational plaques at the main entrance."
+            "en": "Observe the local administrative heritage at this historic town hall building, stopping briefly to read the informational plaques at the main entrance.",
+            "fr": "Observez le patrimoine administratif local dans ce bâtiment historique de la mairie, en vous arrêtant brièvement pour lire les plaques d'information à l'entrée principale."
           }
         },
         {
@@ -429,7 +472,8 @@
             "de": "Notre-Dame Kirche",
             "hu": "Notre-Dame templom",
             "ro": "Biserica Notre-Dame",
-            "en": "Notre-Dame Church"
+            "en": "Notre-Dame Church",
+            "fr": "Église Notre-Dame"
           },
           "coords": [
             -0.225407,
@@ -444,7 +488,8 @@
             "de": "Bewundern Sie die mittelalterliche Architektur dieser Kirche am Fluss und werfen Sie einen Blick auf den Glockenturm, bevor Sie weiter spazieren.",
             "hu": "Csodálja meg ennek a folyóparti templomnak a középkori építészetét, és figyelje meg egyedi harangtornyát, mielőtt folytatná a sétát.",
             "ro": "Admirați arhitectura medievală frumoasă a acestei biserici de pe malul râului și acordați un moment pentru a-i observa turnul unic înainte de a pleca.",
-            "en": "Admire the beautiful medieval architecture of this riverside church and take a moment to notice its unique bell tower before continuing your stroll."
+            "en": "Admire the beautiful medieval architecture of this riverside church and take a moment to notice its unique bell tower before continuing your stroll.",
+            "fr": "Admirez la belle architecture médiévale de cette église au bord de la rivière et prenez un instant pour remarquer son clocher unique avant de poursuivre votre promenade."
           }
         },
         {
@@ -452,7 +497,8 @@
             "de": "Windmühle Basses-Terres",
             "hu": "Basses-Terres szélmalom",
             "ro": "Moara de vânt Basses-Terres",
-            "en": "Moulin à vent des Basses-Terres"
+            "en": "Moulin à vent des Basses-Terres",
+            "fr": "Moulin à vent des Basses-Terres"
           },
           "coords": [
             -0.213168,
@@ -467,7 +513,8 @@
             "de": "Erkunden Sie diese historische Windmühle, die Einblicke in die landwirtschaftliche Vergangenheit bietet, und machen Sie Fotos vom malerischen Weg.",
             "hu": "Fedezze fel ezt a történelmi szélmalmot, amely bepillantást enged a régió múltjába, és mindenképpen készítsen fotókat a festői ösvényről.",
             "ro": "Explorați această moară de vânt istorică ce oferă o privire în trecutul agricol și asigurați-vă că faceți poze de pe cărarea pitorească din jur.",
-            "en": "Explore this historic windmill which offers a glimpse into the region's agricultural past, and make sure to take photos from the scenic surrounding path."
+            "en": "Explore this historic windmill which offers a glimpse into the region's agricultural past, and make sure to take photos from the scenic surrounding path.",
+            "fr": "Explorez ce moulin à vent historique qui offre un aperçu du passé agricole de la région, et pensez à prendre des photos depuis le chemin panoramique alentour."
           }
         }
       ],
@@ -475,7 +522,8 @@
         "de": "Radeln Sie in der frischen Morgenluft von der historischen Kirche Saint-Gervais los. Fahren Sie durch die malerische Landschaft zu den uralten Hinkelsteinen und einem Dolmen. Am Mittag erkunden Sie die Ruinen des galloromanischen Amphitheaters. Lassen Sie den Tag ausklingen, während Sie zurück zum Fluss und zur Windmühle rollen.",
         "hu": "Tekerjen el a történelmi Saint-Gervais templomtól a friss reggeli levegőn. Kerékpározzon a festői vidéken, hogy felfedezze az ősi állóköveket és egy dolment. Délben fedezze fel a gall-római amfiteátrum romjait. Zárja a napot azzal, hogy visszagurul a folyóhoz és a szélmalomhoz.",
         "ro": "Porniți de la biserica istorică Saint-Gervais în aerul proaspăt al dimineții. Pedalați prin peisajul rural pitoresc pentru a descoperi pietre antice și un dolmen. La prânz, explorați ruinele grandiosului amfiteatru galo-roman. Încheiați ziua mergând înapoi spre râu și moara de vânt.",
-        "en": "Pedal off from the historic Saint-Gervais church in the fresh morning air. Cycle through the scenic countryside to discover ancient standing stones and a dolmen. By midday, explore the grand Gallo-Roman amphitheater ruins. Wrap up the day rolling back toward the river and windmill."
+        "en": "Pedal off from the historic Saint-Gervais church in the fresh morning air. Cycle through the scenic countryside to discover ancient standing stones and a dolmen. By midday, explore the grand Gallo-Roman amphitheater ruins. Wrap up the day rolling back toward the river and windmill.",
+        "fr": "Partez à vélo de l'historique église Saint-Gervais dans l'air frais du matin. Parcourez la campagne pittoresque pour découvrir des pierres dressées et un dolmen. À midi, explorez les vastes ruines de l'amphithéâtre gallo-romain. Terminez la journée en revenant vers la rivière et le moulin."
       },
       "variants": {
         "rainy": {
@@ -483,7 +531,8 @@
             "de": "Starten Sie mit einem trockenen Kirchenbesuch. Fahren Sie vorsichtig zu den Megalithen und bremsen Sie früh auf nasser Straße. Mittags geht es in die Arena. Die Nachmittagstour zur Mühle erfordert wasserdichte Kleidung.",
             "hu": "Kezdje egy száraz templomi látogatással az esőben. Óvatosan kerékpározzon a megalitokhoz, korán fékezve a vizes úton. Délben fedezze fel az arénát. A délutáni tekerés a malomhoz teljesen vízálló felszerelést igényel.",
             "ro": "Începeți cu o vizită la biserică, feriți de ploaie. Pedalați atent spre megaliți, frânând din timp pe drumul ud. La prânz explorați arena romană. Călătoria de după-amiază spre moară necesită echipament impermeabil.",
-            "en": "Start with a dry church visit as rain falls outside. Ride carefully to the megaliths, braking early on wet roads. Midday explores the Roman arena. The afternoon ride past the town hall and windmill requires waterproof gear."
+            "en": "Start with a dry church visit as rain falls outside. Ride carefully to the megaliths, braking early on wet roads. Midday explores the Roman arena. The afternoon ride past the town hall and windmill requires waterproof gear.",
+            "fr": "Commencez par une visite sèche de l'église pendant qu'il pleut dehors. Roulez prudemment vers les mégalithes, freinez tôt sur les routes mouillées. À midi, explorez l'arène romaine. La balade de l'après-midi past la mairie et le moulin exige un équipement imperméable."
           },
           "stops": [
             {
@@ -491,13 +540,15 @@
                 "de": "Kirche Saint-Gervais",
                 "hu": "Saint-Gervais templom",
                 "ro": "Biserica Saint-Gervais",
-                "en": "Église Saint-Gervais-et-Saint-Protais"
+                "en": "Église Saint-Gervais-et-Saint-Protais",
+                "fr": "Église Saint-Gervais-et-Saint-Protais"
               },
               "tip_5lang": {
                 "de": "Bewundern Sie die Architektur im Trockenen. Tipp: Ein perfekter Unterschlupf, um einen starken Regenschauer abzuwarten und Ausrüstung zu trocknen.",
                 "hu": "Csodálja meg az építészetet, miközben odabent teljesen száraz marad. Tipp: Tökéletes menedék egy heves zápor átvészelésére és szárkózásra.",
                 "ro": "Admirați arhitectura stând complet uscat înăuntru. Sfat: Un adăpost perfect pentru a aștepta trecerea unei ploi torențiale de dimineață.",
-                "en": "Admire the architecture while staying completely dry inside. Tip: A perfect shelter to wait out a heavy passing rain shower and dry your gear."
+                "en": "Admire the architecture while staying completely dry inside. Tip: A perfect shelter to wait out a heavy passing rain shower and dry your gear.",
+                "fr": "Admirez l'architecture tout en restant complètement au sec à l'intérieur. Astuce : un abri parfait pour attendre qu'une forte averse passe et pour sécher votre équipement."
               }
             },
             {
@@ -505,13 +556,15 @@
                 "de": "Hinkelstein von Bois-Gilbert",
                 "hu": "Bois-Gilbert menhir",
                 "ro": "Menhirul din Bois-Gilbert",
-                "en": "Menhir du Bois-Gilbert"
+                "en": "Menhir du Bois-Gilbert",
+                "fr": "Menhir du Bois-Gilbert"
               },
               "tip_5lang": {
                 "de": "Sehen Sie den imposanten Stein, der im Regen wunderschön nass glänzt. Tipp: Das Gras ist rutschig; steigen Sie früh vom Fahrrad ab.",
                 "hu": "Nézze meg, ahogy az impozáns magányos kő gyönyörűen csillog az esőben. Tipp: A fű a kő körül csúszós; szálljon le korán a kerékpárról.",
                 "ro": "Vedeți piatra solitară impunătoare strălucind frumos în ploaie. Sfat: Iarba din jurul pietrei este alunecoasă; descălecați mai devreme.",
-                "en": "See the imposing solitary stone shining beautifully wet in the rain. Tip: Grass around the stone is slippery; dismount your bike early to walk."
+                "en": "See the imposing solitary stone shining beautifully wet in the rain. Tip: Grass around the stone is slippery; dismount your bike early to walk.",
+                "fr": "Voyez la pierre solitaire imposante briller très joliment sous la pluie. Astuce : l'herbe autour de la pierre est glissante ; descendez de vélo tôt pour la parcourir à pied."
               }
             },
             {
@@ -519,13 +572,15 @@
                 "de": "Dolmen La Pagerie",
                 "hu": "La Pagerie dolmen",
                 "ro": "Dolmenul La Pagerie",
-                "en": "Pierre couverte la Pagerie"
+                "en": "Pierre couverte la Pagerie",
+                "fr": "Pierre couverte la Pagerie"
               },
               "tip_5lang": {
                 "de": "Ein faszinierender Dolmen, der im Nebel sehr alt wirkt. Tipp: Der schlammige Weg erfordert Mountainbike-Reifen, um sicher zu fahren.",
                 "hu": "Lenyűgöző dolmen, amely a szürke ködben hihetetlenül ősinek tűnik. Tipp: A sáros ösvényen a biztonságos tekeréshez vastag gumikra van szükség.",
                 "ro": "Un dolmen fascinant care pare incredibil de antic în ceața gri. Sfat: Poteca noroioasă necesită anvelope de teren pentru a nu aluneca.",
-                "en": "A fascinating dolmen that looks incredibly ancient in the grey mist. Tip: The muddy trail requires mountain bike tires to ride safely."
+                "en": "A fascinating dolmen that looks incredibly ancient in the grey mist. Tip: The muddy trail requires mountain bike tires to ride safely.",
+                "fr": "Un dolmen fascinant qui paraît incroyablement ancien dans la brume grise. Astuce : le sentier boueux nécessite des pneus de VTT pour rouler en sécurité."
               }
             },
             {
@@ -533,13 +588,15 @@
                 "de": "Galloromanisches Amphitheater",
                 "hu": "Gall-római amfiteátrum",
                 "ro": "Amfiteatrul galo-roman",
-                "en": "Amphithéatre gallo-romain"
+                "en": "Amphithéatre gallo-romain",
+                "fr": "Amphithéâtre gallo-romain"
               },
               "tip_5lang": {
                 "de": "Die römischen Ruinen sind bei Nässe lebhaft gefärbt. Tipp: Tragen Sie wasserfeste Schuhe und lassen Sie das Rad am gepflasterten Eingang.",
                 "hu": "A római romok esőben élénk színűek, életre keltve a történelmet. Tipp: Viseljen vízálló cipőt, és hagyja a kerékpárt a kövezett bejáratnál.",
                 "ro": "Ruinele romane sunt viu colorate când sunt ude, înviind istoria. Sfat: Purtați pantofi impermeabili și lăsați bicicleta la intrarea pavată.",
-                "en": "The Roman ruins are vividly colored when wet, bringing history alive. Tip: Wear waterproof shoes and leave the bike at the paved entrance."
+                "en": "The Roman ruins are vividly colored when wet, bringing history alive. Tip: Wear waterproof shoes and leave the bike at the paved entrance.",
+                "fr": "Les ruines romaines prennent des teintes vives une fois mouillées, rendant l'histoire vivante. Astuce : portez des chaussures imperméables et laissez le vélo à l'entrée goudronnée."
               }
             },
             {
@@ -547,13 +604,15 @@
                 "de": "Rathaus von Gennes",
                 "hu": "Gennes Városháza",
                 "ro": "Primăria din Gennes",
-                "en": "Mairie déléguée de Gennes"
+                "en": "Mairie déléguée de Gennes",
+                "fr": "Mairie déléguée de Gennes"
               },
               "tip_5lang": {
                 "de": "Betrachten Sie das klassische Rathaus durch den Regenschleier. Tipp: Die Veranda bietet einen trockenen Ort, um die feuchte Radkarte zu prüfen.",
                 "hu": "Tekintse meg a klasszikus városházát az esőfüggönyön keresztül. Tipp: A tornác száraz helyet kínál a nedves kerékpáros térkép ellenőrzésére.",
                 "ro": "Priviți primăria clasică franceză prin vălul de ploaie. Sfat: Pridvorul oferă un loc uscat pentru a verifica harta de ciclism umedă în siguranță.",
-                "en": "View the classic municipal building through the rainy veil. Tip: The porch offers a quick dry spot to check your damp cycling map safely."
+                "en": "View the classic municipal building through the rainy veil. Tip: The porch offers a quick dry spot to check your damp cycling map safely.",
+                "fr": "Contemplez le bâtiment municipal classique à travers le voile de pluie. Astuce : le porche offre un rapide abri sec pour vérifier votre carte de cyclisme humide en sécurité."
               }
             },
             {
@@ -561,13 +620,15 @@
                 "de": "Notre-Dame Kirche",
                 "hu": "Notre-Dame templom",
                 "ro": "Biserica Notre-Dame",
-                "en": "Notre-Dame Church"
+                "en": "Notre-Dame Church",
+                "fr": "Église Notre-Dame"
               },
               "tip_5lang": {
                 "de": "Treten Sie ein, um die Buntglasfenster im Trockenen zu bewundern. Tipp: Ein guter Ort, um die Regenjacke vor der Weiterfahrt auszuschütteln.",
                 "hu": "Lépjen be, hogy megcsodálja az ólomüveg ablakokat, miközben száraz marad. Tipp: Jó hely az esőkabát lerázására, mielőtt folytatná az utat.",
                 "ro": "Intrați pentru a admira vitraliile fără a vă uda. Sfat: Un loc excelent pentru a scutura jacheta de ploaie înainte de a continua călătoria.",
-                "en": "Step inside to marvel at the stained glass without getting wet. Tip: A good place to shake out your rain jacket before continuing the journey."
+                "en": "Step inside to marvel at the stained glass without getting wet. Tip: A good place to shake out your rain jacket before continuing the journey.",
+                "fr": "Entrez pour admirer les vitraux sans vous mouiller. Astuce : un bon endroit pour secouer votre veste de pluie avant de reprendre le voyage."
               }
             },
             {
@@ -575,13 +636,15 @@
                 "de": "Windmühle Basses-Terres",
                 "hu": "Basses-Terres szélmalom",
                 "ro": "Moara de vânt Basses-Terres",
-                "en": "Moulin à vent des Basses-Terres"
+                "en": "Moulin à vent des Basses-Terres",
+                "fr": "Moulin à vent des Basses-Terres"
               },
               "tip_5lang": {
                 "de": "Die alte Windmühle trotzt den regnerischen Nachmittagsböen. Tipp: Vorsicht vor starkem Seitenwind und rutschigen Pedalen in diesem Bereich.",
                 "hu": "A régi szélmalom erősen áll az esős délutáni széllökésekkel szemben. Tipp: Óvakodjon az erős oldalszéltől és a csúszós pedáloktól errefelé.",
                 "ro": "Vechea moară de vânt stă fermă împotriva rafalelor ploioase. Sfat: Feriți-vă de vânturile laterale puternice și pedalele alunecoase aici.",
-                "en": "The old windmill stands strong against the rainy afternoon gusts. Tip: Beware of strong crosswinds and slippery pedals near this open area."
+                "en": "The old windmill stands strong against the rainy afternoon gusts. Tip: Beware of strong crosswinds and slippery pedals near this open area.",
+                "fr": "Le vieux moulin résiste aux rafales pluvieuses de l'après-midi. Astuce : Méfiez-vous des vents de travers forts et des pédales glissantes près de cette zone dégagée."
               }
             }
           ]
@@ -591,7 +654,8 @@
             "de": "Eine frische Fahrt beginnt an der warmen Kirche. Treten Sie in die Pedale, um bei den Steinen warm zu bleiben. Die Mittagssonne erhellt das Amphitheater. Beenden Sie die Tour an der Mühle vor der frühen Dämmerung um 17:00 Uhr.",
             "hu": "A fagyos reggeli tekerés a történelmi templomnál indul. Tekerjen gyorsan a melegedésért a kövek felé. A déli napfény bevilágítja az arénát. Érjen a malomhoz a korai, 17:00 órás sötétedés előtt.",
             "ro": "O plimbare matinală revigorantă începe la biserică. Pedalați rapid pentru a vă încălzi vizitând pietrele antice. Soarele de la prânz luminează amfiteatrul. Terminați circuitul la moară înainte de lăsarea întunericului.",
-            "en": "A brisk morning ride begins at the warm historic church. Pedal fast to stay warm while visiting the ancient stones. Midday sunshine lights up the grand amphitheater. Finish the town circuit by the windmill before the early 17:00 dusk."
+            "en": "A brisk morning ride begins at the warm historic church. Pedal fast to stay warm while visiting the ancient stones. Midday sunshine lights up the grand amphitheater. Finish the town circuit by the windmill before the early 17:00 dusk.",
+            "fr": "Une sortie à vélo vive commence à la chaleureuse église historique. Pédalez vite pour rester au chaud en visitant les pierres anciennes. Le soleil de midi illumine le grand amphithéâtre. Terminez le circuit de la ville près du moulin avant la tombée de la nuit à 17:00."
           },
           "stops": [
             {
@@ -599,13 +663,15 @@
                 "de": "Kirche Saint-Gervais",
                 "hu": "Saint-Gervais templom",
                 "ro": "Biserica Saint-Gervais",
-                "en": "Église Saint-Gervais-et-Saint-Protais"
+                "en": "Église Saint-Gervais-et-Saint-Protais",
+                "fr": "Église Saint-Gervais-et-Saint-Protais"
               },
               "tip_5lang": {
                 "de": "Genießen Sie die ruhige, frostige Morgenatmosphäre in den alten Mauern. Tipp: Tragen Sie isolierte Radhandschuhe, der Stein strahlt Kälte ab.",
                 "hu": "Élvezze a csendes, fagyos reggeli hangulatot a történelmi falak között. Tipp: Viseljen bélelt kerékpáros kesztyűt, mert a kő sugározza a hideget.",
                 "ro": "Bucurați-vă de dimineața geroasă și liniștită între zidurile istorice. Sfat: Purtați mănuși groase de ciclism, deoarece piatra radiază frig.",
-                "en": "Enjoy the quiet, frosty morning atmosphere inside the historic walls. Tip: Wear warm, insulated cycling gloves, as the ancient stone radiates cold."
+                "en": "Enjoy the quiet, frosty morning atmosphere inside the historic walls. Tip: Wear warm, insulated cycling gloves, as the ancient stone radiates cold.",
+                "fr": "Profitez de l'atmosphère calme et glaciale du matin à l'intérieur des murs historiques. Astuce : Portez des gants de cyclisme chauds et isolants, car la pierre ancienne restitue le froid."
               }
             },
             {
@@ -613,13 +679,15 @@
                 "de": "Hinkelstein von Bois-Gilbert",
                 "hu": "Bois-Gilbert menhir",
                 "ro": "Menhirul din Bois-Gilbert",
-                "en": "Menhir du Bois-Gilbert"
+                "en": "Menhir du Bois-Gilbert",
+                "fr": "Menhir du Bois-Gilbert"
               },
               "tip_5lang": {
                 "de": "Der einsame Stein ist umgeben von Frost bemerkenswert auffällig. Tipp: Bleiben Sie in Bewegung, um an diesem windigen Ort warm zu bleiben.",
                 "hu": "A magányos kő lenyűgöző látványt nyújt, amikor zúzmara veszi körül. Tipp: Mozogjon folyamatosan, hogy melegen maradjon ezen a szeles helyen.",
                 "ro": "Piatra solitară este remarcabilă când este înconjurată de chiciură. Sfat: Mișcați-vă rapid pentru a vă încălzi în această locație vântoasă.",
-                "en": "The solitary stone is remarkably striking when surrounded by frost. Tip: Keep moving quickly to stay warm in this exposed, breezy location."
+                "en": "The solitary stone is remarkably striking when surrounded by frost. Tip: Keep moving quickly to stay warm in this exposed, breezy location.",
+                "fr": "La pierre solitaire est particulièrement saisissante quand elle est entourée de givre. Astuce : Restez en mouvement rapidement pour garder la chaleur dans cet emplacement exposé et venteux."
               }
             },
             {
@@ -627,13 +695,15 @@
                 "de": "Dolmen La Pagerie",
                 "hu": "La Pagerie dolmen",
                 "ro": "Dolmenul La Pagerie",
-                "en": "Pierre couverte la Pagerie"
+                "en": "Pierre couverte la Pagerie",
+                "fr": "Pierre couverte la Pagerie"
               },
               "tip_5lang": {
                 "de": "Ein bemerkenswerter Dolmen, versteckt in den ruhigen, kahlen Winterwäldern. Tipp: Achten Sie auf gefährliche Eisflächen auf dem Waldweg.",
                 "hu": "Egy figyelemre méltó dolmen, amely a csendes, kopár téli erdőben bújik meg. Tipp: Ügyeljen a rejtett jégfoltokra az árnyékos erdei kerékpárúton.",
                 "ro": "Un dolmen remarcabil ascuns în pădurile liniștite și goale de iarnă. Sfat: Atenție la peticele de gheață periculoase de pe traseul din pădure.",
-                "en": "A remarkable dolmen hidden deep in the quiet, bare winter woods. Tip: Watch out for dangerously hidden ice patches on the shaded forest trail."
+                "en": "A remarkable dolmen hidden deep in the quiet, bare winter woods. Tip: Watch out for dangerously hidden ice patches on the shaded forest trail.",
+                "fr": "Un dolmen remarquable caché au fond des bois hivernaux dépouillés et tranquilles. Astuce : Méfiez-vous des plaques de glace dangereusement dissimulées sur le sentier forestier ombragé."
               }
             },
             {
@@ -641,13 +711,15 @@
                 "de": "Galloromanisches Amphitheater",
                 "hu": "Gall-római amfiteátrum",
                 "ro": "Amfiteatrul galo-roman",
-                "en": "Amphithéatre gallo-romain"
+                "en": "Amphithéatre gallo-romain",
+                "fr": "Amphithéatre gallo-romain"
               },
               "tip_5lang": {
                 "de": "Erkunden Sie die leere Arena unter dem klaren Winterhimmel. Tipp: Schwere Thermokleidung ist für den Spaziergang durch die Ruinen unerlässlich.",
                 "hu": "Fedezze fel a hatalmas, üres arénát a tiszta és csípős téli égbolt alatt. Tipp: A vastag termóruházat elengedhetetlen a romok körüli sétához.",
                 "ro": "Explorați arena vastă și goală sub cerul clar și rece de iarnă. Sfat: Straturile termice groase sunt esențiale pentru plimbarea printre ruine.",
-                "en": "Explore the vast, empty arena under the crisp and clear winter sky. Tip: Heavy thermal layers are absolutely essential for walking around the ruins."
+                "en": "Explore the vast, empty arena under the crisp and clear winter sky. Tip: Heavy thermal layers are absolutely essential for walking around the ruins.",
+                "fr": "Explorez la vaste arène vide sous le ciel hivernal vif et clair. Astuce : Des couches thermiques épaisses sont absolument indispensables pour se promener autour des ruines."
               }
             },
             {
@@ -655,13 +727,15 @@
                 "de": "Rathaus von Gennes",
                 "hu": "Gennes Városháza",
                 "ro": "Primăria din Gennes",
-                "en": "Mairie déléguée de Gennes"
+                "en": "Mairie déléguée de Gennes",
+                "fr": "Mairie déléguée de Gennes"
               },
               "tip_5lang": {
                 "de": "Das Rathaus wirkt im scharfen, niedrigen Winterlicht sehr elegant. Tipp: Ein kurzer Stopp; holen Sie sich in der Nähe einen heißen Tee.",
                 "hu": "A városháza rendkívül elegáns az éles, alacsonyan járó téli fényben. Tipp: Ez csak egy rövid megálló legyen; igyon egy forró teát a közelben.",
                 "ro": "Primăria arată extrem de elegant în lumina aspră a iernii. Sfat: Faceți o oprire scurtă; luați un ceai fierbinte în apropiere pentru a vă încălzi.",
-                "en": "The town hall looks highly elegant in the sharp, low winter light. Tip: Make this a brief stop; consider grabbing a hot tea nearby to warm up."
+                "en": "The town hall looks highly elegant in the sharp, low winter light. Tip: Make this a brief stop; consider grabbing a hot tea nearby to warm up.",
+                "fr": "La mairie apparaît très élégante sous la lumière hivernale basse et nette. Astuce : Faites-en un arrêt bref ; envisagez de prendre un thé chaud à proximité pour vous réchauffer."
               }
             },
             {
@@ -669,13 +743,15 @@
                 "de": "Notre-Dame Kirche",
                 "hu": "Notre-Dame templom",
                 "ro": "Biserica Notre-Dame",
-                "en": "Notre-Dame Church"
+                "en": "Notre-Dame Church",
+                "fr": "Notre-Dame Church"
               },
               "tip_5lang": {
                 "de": "Genießen Sie die schöne Innenbeleuchtung an kurzen Wintertagen. Tipp: Treten Sie in die Kirche ein, um dem eisigen Nachmittagsgegenwind zu entkommen.",
                 "hu": "Élvezze a gyönyörű belső megvilágítást a rövid téli napokon. Tipp: Lépjen be a templomba, hogy menedéket találjon a csípős szembeszél elől.",
                 "ro": "Bucurați-vă de lumina interioară frumoasă în zilele scurte de iarnă. Sfat: Intrați în biserică pentru a scăpa de vântul aspru de după-amiază.",
-                "en": "Enjoy the beautiful interior lighting during the short winter days. Tip: Step inside the church to quickly escape the biting afternoon headwind."
+                "en": "Enjoy the beautiful interior lighting during the short winter days. Tip: Step inside the church to quickly escape the biting afternoon headwind.",
+                "fr": "Appréciez le bel éclairage intérieur pendant les courtes journées d'hiver. Astuce : Entrez dans l'église pour échapper rapidement au vent piquant de l'après-midi."
               }
             },
             {
@@ -683,13 +759,15 @@
                 "de": "Windmühle Basses-Terres",
                 "hu": "Basses-Terres szélmalom",
                 "ro": "Moara de vânt Basses-Terres",
-                "en": "Moulin à vent des Basses-Terres"
+                "en": "Moulin à vent des Basses-Terres",
+                "fr": "Moulin à vent des Basses-Terres"
               },
               "tip_5lang": {
                 "de": "Eine fantastische Silhouette gegen die früh untergehende Sonne. Tipp: Seien Sie bis 16:30 Uhr hier und prüfen Sie Ihre Fahrradlichter.",
                 "hu": "Fantasztikus és drámai sziluett a korán lemenő nap fényében. Tipp: Érkezzen meg 16:30-ra, és gondoskodjon a kerékpárlámpák feltöltéséről.",
                 "ro": "O siluetă fantastică și dramatică pe fundalul soarelui la apus. Sfat: Ajungeți până la 16:30 și asigurați-vă că luminile bicicletei sunt aprinse.",
-                "en": "A fantastic and dramatic silhouette against the early setting sun. Tip: Arrive by 16:30, and make sure your bike lights are fully charged."
+                "en": "A fantastic and dramatic silhouette against the early setting sun. Tip: Arrive by 16:30, and make sure your bike lights are fully charged.",
+                "fr": "Une silhouette fantastique et dramatique contre le soleil qui se couche tôt. Astuce : Arrivez avant 16:30 et assurez-vous que les lumières de votre vélo sont complètement chargées."
               }
             }
           ]
@@ -709,7 +787,8 @@
             "de": "Notre-Dame Kirche",
             "hu": "Notre-Dame templom",
             "ro": "Biserica Notre-Dame",
-            "en": "Notre-Dame Church"
+            "en": "Notre-Dame Church",
+            "fr": "Notre-Dame Church"
           },
           "coords": [
             -0.225407,
@@ -724,7 +803,8 @@
             "de": "Bewundern Sie die mittelalterliche Architektur dieser Kirche am Fluss und werfen Sie einen Blick auf den Glockenturm, bevor Sie weiter spazieren.",
             "hu": "Csodálja meg ennek a folyóparti templomnak a középkori építészetét, és figyelje meg egyedi harangtornyát, mielőtt folytatná a sétát.",
             "ro": "Admirați arhitectura medievală frumoasă a acestei biserici de pe malul râului și acordați un moment pentru a-i observa turnul unic înainte de a pleca.",
-            "en": "Admire the beautiful medieval architecture of this riverside church and take a moment to notice its unique bell tower before continuing your stroll."
+            "en": "Admire the beautiful medieval architecture of this riverside church and take a moment to notice its unique bell tower before continuing your stroll.",
+            "fr": "Admirez la belle architecture médiévale de cette église au bord de la rivière et prenez un moment pour observer son clocher unique avant de poursuivre votre promenade."
           }
         },
         {
@@ -732,7 +812,8 @@
             "de": "Kirche Saint-Gervais",
             "hu": "Saint-Gervais templom",
             "ro": "Biserica Saint-Gervais",
-            "en": "Église Saint-Gervais-et-Saint-Protais"
+            "en": "Église Saint-Gervais-et-Saint-Protais",
+            "fr": "Église Saint-Gervais-et-Saint-Protais"
           },
           "coords": [
             -0.258803,
@@ -747,7 +828,8 @@
             "de": "Besuchen Sie diese charmante historische Kirche, die für ihre friedliche Atmosphäre bekannt ist, und betreten Sie sie am besten im Morgenlicht.",
             "hu": "Látogasson el ebbe a bájos történelmi templomba, amely békés hangulatáról ismert, és lépjen be, amikor a reggeli fények a legszebbek.",
             "ro": "Vizitați această biserică istorică fermecătoare cunoscută pentru atmosfera sa pașnică și asigurați-vă că intrați atunci când lumina dimineții este optimă.",
-            "en": "Visit this charming historic church known for its peaceful atmosphere and intricate details, making sure to step inside when the morning light is best."
+            "en": "Visit this charming historic church known for its peaceful atmosphere and intricate details, making sure to step inside when the morning light is best.",
+            "fr": "Visitez cette charmante église historique connue pour son atmosphère paisible et ses détails complexes ; n'oubliez pas d'entrer quand la lumière du matin est la meilleure."
           }
         },
         {
@@ -755,7 +837,8 @@
             "de": "Dolmen La Pagerie",
             "hu": "La Pagerie dolmen",
             "ro": "Dolmenul La Pagerie",
-            "en": "Pierre couverte la Pagerie"
+            "en": "Pierre couverte la Pagerie",
+            "fr": "Pierre couverte la Pagerie"
           },
           "coords": [
             -0.256323,
@@ -770,7 +853,8 @@
             "de": "Entdecken Sie diesen bemerkenswerten Dolmen, der als uralte Grabstätte diente, und seien Sie vorsichtig, da das umliegende Gelände recht uneben ist.",
             "hu": "Fedezze fel ezt a figyelemre méltó dolment, amely ősi temetkezési helyként szolgált, és óvatosan sétáljon körülötte a meglehetősen egyenetlen terepen.",
             "ro": "Descoperiți acest dolmen remarcabil care a servit ca loc de înmormântare antic și aveți grijă când mergeți, deoarece terenul este destul de accidentat.",
-            "en": "Discover this remarkable dolmen that served as an ancient burial site, and take care when walking around it as the surrounding terrain is quite rugged."
+            "en": "Discover this remarkable dolmen that served as an ancient burial site, and take care when walking around it as the surrounding terrain is quite rugged.",
+            "fr": "Découvrez ce dolmen remarquable qui servait de site funéraire ancien, et faites attention en vous promenant car le terrain environnant est assez accidenté."
           }
         },
         {
@@ -778,7 +862,8 @@
             "de": "Galloromanisches Amphitheater",
             "hu": "Gall-római amfiteátrum",
             "ro": "Amfiteatrul galo-roman",
-            "en": "Amphithéatre gallo-romain"
+            "en": "Amphithéatre gallo-romain",
+            "fr": "Amphithéatre gallo-romain"
           },
           "coords": [
             -0.238633,
@@ -793,7 +878,8 @@
             "de": "Tauchen Sie bei diesen beeindruckenden galloromanischen Ruinen in die Vergangenheit ein und tragen Sie festes Schuhwerk auf den unebenen Wegen.",
             "hu": "Lépjen vissza az időben ezeknél a lenyűgöző gall-római romoknál, és viseljen kényelmes cipőt, mivel az egyenetlen kőösvények trükkösek lehetnek.",
             "ro": "Pășiți în trecut la aceste ruine galo-romane impresionante și purtați încălțăminte rezistentă, deoarece cărările din piatră pot fi alunecoase.",
-            "en": "Step back in time at these impressive Gallo-Roman ruins where gladiators once fought, and wear sturdy shoes as the uneven stone paths can be tricky."
+            "en": "Step back in time at these impressive Gallo-Roman ruins where gladiators once fought, and wear sturdy shoes as the uneven stone paths can be tricky.",
+            "fr": "Revenez dans le temps à ces impressionnantes ruines gallo-romaines où combattirent jadis des gladiateurs, et portez des chaussures robustes car les chemins de pierre inégaux peuvent être délicats."
           }
         },
         {
@@ -801,7 +887,8 @@
             "de": "Naturschutzgebiet Joreau",
             "hu": "Joreau természetvédelmi terület",
             "ro": "Rezervația naturală Joreau",
-            "en": "Réserve naturelle des étang et boisements de Joreau"
+            "en": "Réserve naturelle des étang et boisements de Joreau",
+            "fr": "Réserve naturelle des étang et boisements de Joreau"
           },
           "coords": [
             -0.222814,
@@ -816,7 +903,8 @@
             "de": "Genießen Sie einen Spaziergang durch dieses geschützte Naturschutzgebiet voller Wildtiere und halten Sie Ihr Fernglas bereit, um seltene Vögel zu sehen.",
             "hu": "Élvezze a békés sétát ebben a védett természetvédelmi területben, és tartsa kéznél távcsövét, hogy megfigyelhesse a ritka helyi madárfajokat.",
             "ro": "Bucurați-vă de o plimbare liniștită prin această rezervație naturală protejată și țineți binoclul la îndemână pentru a observa păsările locale rare.",
-            "en": "Enjoy a peaceful walk through this protected nature reserve full of diverse wildlife, and keep your binoculars handy to spot the rare local bird species."
+            "en": "Enjoy a peaceful walk through this protected nature reserve full of diverse wildlife, and keep your binoculars handy to spot the rare local bird species.",
+            "fr": "Profitez d'une promenade paisible à travers cette réserve naturelle protégée riche en faune diverse, et gardez vos jumelles à portée de main pour repérer les espèces d'oiseaux locales rares."
           }
         },
         {
@@ -824,7 +912,8 @@
             "de": "Schloss von Cunault",
             "hu": "Cunault kastélya",
             "ro": "Castelul din Cunault",
-            "en": "Château de Cunault"
+            "en": "Château de Cunault",
+            "fr": "Château de Cunault"
           },
           "coords": [
             -0.201333,
@@ -839,7 +928,8 @@
             "de": "Besichtigen Sie dieses prächtige Schloss mit seiner atemberaubenden Architektur und nehmen Sie sich Zeit für einen Spaziergang durch die schönen Gärten.",
             "hu": "Járja be ezt a csodálatos kastélyt, amely lenyűgöző építészettel büszkélkedhet, és szánjon extra időt a gyönyörűen gondozott kertek felfedezésére is.",
             "ro": "Vizitați acest castel magnific ce prezintă o arhitectură uimitoare și alocați timp suplimentar pentru a vă plimba prin grădinile sale frumos îngrijite.",
-            "en": "Tour this magnificent castle featuring stunning architecture and rich history, and allocate extra time to wander through its beautifully manicured gardens."
+            "en": "Tour this magnificent castle featuring stunning architecture and rich history, and allocate extra time to wander through its beautifully manicured gardens.",
+            "fr": "Visitez ce château magnifique présentant une architecture splendide et une histoire riche, et prévoyez du temps supplémentaire pour flâner dans ses jardins magnifiquement entretenus."
           }
         }
       ],
@@ -847,7 +937,8 @@
         "de": "Fahren Sie durch das malerische Loiretal und starten Sie an der zentralen Kirche Notre-Dame. Navigieren Sie bequem zwischen alten Ruinen und beeindruckenden Hinkelsteinen. Genießen Sie am Nachmittag einen Spaziergang im schönen Naturschutzgebiet Joreau. Beenden Sie Ihre Autotour am prächtigen Schloss Cunault.",
         "hu": "Vezessen a festői Loire-völgyben, a központi Notre-Dame templomtól indulva. Könnyedén navigáljon az ősi romok és a lenyűgöző állókövek között. Délután tegyen egy pihentető sétát a gyönyörű Joreau természetvédelmi területen. Zárja autós túráját a grandiózus Cunault kastélynál.",
         "ro": "Conduceți prin pitoreasca Valea Loarei, pornind de la biserica centrală Notre-Dame. Navigați ușor între ruinele antice și pietrele preistorice impresionante. După-amiaza, faceți o plimbare relaxantă în frumoasa rezervație naturală Joreau. Încheiați-vă turul la grandiosul Castel Cunault.",
-        "en": "Drive through the scenic Loire Valley starting at the central Notre-Dame Church. Easily navigate between ancient ruins and impressive standing stones. In the afternoon, take a relaxing walk in the beautiful Joreau nature reserve. Conclude your driving tour at the grand Château de Cunault."
+        "en": "Drive through the scenic Loire Valley starting at the central Notre-Dame Church. Easily navigate between ancient ruins and impressive standing stones. In the afternoon, take a relaxing walk in the beautiful Joreau nature reserve. Conclude your driving tour at the grand Château de Cunault.",
+        "fr": "Parcourez la pittoresque vallée de la Loire en voiture en partant de la centrale Notre-Dame Church. Naviguez facilement entre ruines antiques et pierres debout impressionnantes. L'après-midi, faites une promenade relaxante dans la belle réserve naturelle de Joreau. Concluez votre circuit en voiture au grand Château de Cunault."
       },
       "variants": {
         "rainy": {
@@ -855,7 +946,8 @@
             "de": "Fahren Sie zu den Kirchen und eilen Sie ins Trockene. Mittags gibt es einen kurzen, nassen Weg zu den Monumenten. Nachmittags folgt ein schlammiger Stopp im Naturreservat. Enden Sie drinnen im wunderschönen, trockenen Schloss.",
             "hu": "Autózzon a templomokhoz, és siessen be a száraz belső térbe. Délben rövid, esős séta vár az ősi műemlékekhez. A délután sáros, de festői megállót tartogat a rezervátumban. Zárja a napot a csodálatos, száraz kastély termeiben.",
             "ro": "Conduceți spre biserici, intrând rapid la adăpostul uscat. La prânz faceți o scurtă plimbare umedă spre monumente. După-amiaza aduce o oprire noroioasă, dar pitorească în rezervație. Încheiați ziua în interiorul castelului magnific.",
-            "en": "Drive to the churches, dashing inside to stay completely dry. Midday requires a short, wet walk to the ancient monuments. Afternoon brings a muddy but scenic stop at the nature reserve. Conclude indoors at the magnificent, dry castle."
+            "en": "Drive to the churches, dashing inside to stay completely dry. Midday requires a short, wet walk to the ancient monuments. Afternoon brings a muddy but scenic stop at the nature reserve. Conclude indoors at the magnificent, dry castle.",
+            "fr": "Conduisez jusqu'aux églises, en vous précipitant à l'intérieur pour rester complètement au sec. À midi, une courte marche humide mène aux monuments anciens. L'après-midi offre un arrêt boueux mais pittoresque à la réserve naturelle. Concluez à l'intérieur au magnifique château, à l'abri et sec."
           },
           "stops": [
             {
@@ -863,13 +955,15 @@
                 "de": "Notre-Dame Kirche",
                 "hu": "Notre-Dame templom",
                 "ro": "Biserica Notre-Dame",
-                "en": "Notre-Dame Church"
+                "en": "Notre-Dame Church",
+                "fr": "Notre-Dame Church"
               },
               "tip_5lang": {
                 "de": "Schöne Details, die man sicher vor dem Wetter geschützt bewundern kann. Tipp: Parken Sie nah am Eingang, um den Morgenregen zu vermeiden.",
                 "hu": "Gyönyörű részletek, amelyeket az időjárástól védve csodálhat meg. Tipp: Parkoljon közel a bejárathoz, hogy elkerülje a reggeli esőzést.",
                 "ro": "Detalii frumoase de admirat în timp ce sunteți protejat de vreme. Sfat: Parcați aproape de intrare pentru a evita ploile grele de dimineață.",
-                "en": "Beautiful details to admire while safely protected from the weather. Tip: Park closely to the main entrance to avoid the heavy morning downpours."
+                "en": "Beautiful details to admire while safely protected from the weather. Tip: Park closely to the main entrance to avoid the heavy morning downpours.",
+                "fr": "De beaux détails à admirer tout en étant bien protégé des intempéries. Astuce : Garez-vous près de l'entrée principale pour éviter les fortes averses matinales."
               }
             },
             {
@@ -877,13 +971,15 @@
                 "de": "Kirche Saint-Gervais",
                 "hu": "Saint-Gervais templom",
                 "ro": "Biserica Saint-Gervais",
-                "en": "Église Saint-Gervais-et-Saint-Protais"
+                "en": "Église Saint-Gervais-et-Saint-Protais",
+                "fr": "Église Saint-Gervais-et-Saint-Protais"
               },
               "tip_5lang": {
                 "de": "Ein weiterer fantastischer Unterschlupf mit historischen Details. Tipp: Bewahren Sie einen Schirm im Auto für den kurzen Weg zur Tür auf.",
                 "hu": "Egy másik fantasztikus menedék gazdag történelmi részletekkel. Tipp: Tartson egy nagy esernyőt az autóban a bejárathoz vezető rövid sétához.",
                 "ro": "Un alt adăpost fantastic cu detalii istorice bogate. Sfat: Păstrați o umbrelă mare în mașină pentru plimbarea scurtă și umedă până la ușă.",
-                "en": "Another fantastic shelter featuring rich, preserved historical details. Tip: Keep a large umbrella in the car for the short walk to the door."
+                "en": "Another fantastic shelter featuring rich, preserved historical details. Tip: Keep a large umbrella in the car for the short walk to the door.",
+                "fr": "Un autre abri fantastique présentant des détails historiques riches et bien conservés. Astuce : Gardez un grand parapluie dans la voiture pour la courte marche jusqu'à la porte."
               }
             },
             {
@@ -891,13 +987,15 @@
                 "de": "Dolmen La Pagerie",
                 "hu": "La Pagerie dolmen",
                 "ro": "Dolmenul La Pagerie",
-                "en": "Pierre couverte la Pagerie"
+                "en": "Pierre couverte la Pagerie",
+                "fr": "Pierre couverte la Pagerie"
               },
               "tip_5lang": {
                 "de": "Der massive Dolmen wirkt im dichten Nebel zutiefst mysteriös. Tipp: Der unbefestigte Parkplatz wird extrem schlammig; tragen Sie Gummistiefel.",
                 "hu": "A hatalmas dolmen mélyen titokzatosnak tűnik a sűrű ködbe burkolózva. Tipp: A burkolatlan parkoló rendkívül sáros lehet; viseljen vízálló cipőt.",
                 "ro": "Dolmenul masiv pare profund misterios învăluit în ceața deasă. Sfat: Parcarea nepavată poate deveni extrem de noroioasă; purtați cizme.",
-                "en": "The massive dolmen looks deeply mysterious wrapped in the heavy mist. Tip: The unpaved parking area can get extremely muddy; wear waterproof boots."
+                "en": "The massive dolmen looks deeply mysterious wrapped in the heavy mist. Tip: The unpaved parking area can get extremely muddy; wear waterproof boots.",
+                "fr": "Le dolmen massif paraît profondément mystérieux enveloppé par la brume épaisse. Astuce : L'aire de stationnement non goudronnée peut devenir extrêmement boueuse ; portez des bottes imperméables."
               }
             },
             {
@@ -905,13 +1003,15 @@
                 "de": "Galloromanisches Amphitheater",
                 "hu": "Gall-római amfiteátrum",
                 "ro": "Amfiteatrul galo-roman",
-                "en": "Amphithéatre gallo-romain"
+                "en": "Amphithéatre gallo-romain",
+                "fr": "Amphithéatre gallo-romain"
               },
               "tip_5lang": {
                 "de": "Sehen Sie die römische Pracht, die wunderschön im Dauerregen glänzt. Tipp: Gehen Sie vorsichtig vom Parkplatz; die alten Steine sind rutschig.",
                 "hu": "Nézze meg az esőben gyönyörűen csillogó római kori pompát. Tipp: Sétáljon óvatosan a parkolótól; az ősi kövek és a füves lejtők csúszósak.",
                 "ro": "Vedeți grandoarea romană strălucind frumos sub ploaia constantă. Sfat: Mergeți cu grijă de la parcare; pietrele antice sunt foarte alunecoase.",
-                "en": "See the Roman grandeur glistening beautifully under the steady rain. Tip: Walk carefully from the parking; ancient stones and slopes are slippery."
+                "en": "See the Roman grandeur glistening beautifully under the steady rain. Tip: Walk carefully from the parking; ancient stones and slopes are slippery.",
+                "fr": "Voyez la grandeur romaine scintiller magnifiquement sous la pluie continue. Astuce : Marchez prudemment depuis le parking ; les pierres anciennes et les pentes sont glissantes."
               }
             },
             {
@@ -919,13 +1019,15 @@
                 "de": "Naturschutzgebiet Joreau",
                 "hu": "Joreau természetvédelmi terület",
                 "ro": "Rezervația naturală Joreau",
-                "en": "Réserve naturelle des étang et boisements de Joreau"
+                "en": "Réserve naturelle des étang et boisements de Joreau",
+                "fr": "Réserve naturelle des étang et boisements de Joreau"
               },
               "tip_5lang": {
                 "de": "Der nasse Wald ist heute unglaublich üppig, lebendig und duftend. Tipp: Bleiben Sie auf den befestigten Hauptwegen und bringen Sie einen Regenmantel mit.",
                 "hu": "A nedves erdő ma hihetetlenül buja, élettel teli és csodás illatú. Tipp: Csak a főbb burkolt utakon haladjon, és hozzon jó esőkabátot.",
                 "ro": "Pădurea umedă este incredibil de luxuriantă, vibrantă și miroase uimitor azi. Sfat: Abordați doar cărările principale și luați o pelerină bună.",
-                "en": "The wet forest is incredibly lush, vibrant, and smells amazing today. Tip: Only tackle the main paved paths, and bring a good raincoat and boots."
+                "en": "The wet forest is incredibly lush, vibrant, and smells amazing today. Tip: Only tackle the main paved paths, and bring a good raincoat and boots.",
+                "fr": "La forêt humide est incroyablement luxuriante, vibrante et sent merveilleusement bon aujourd'hui. Astuce : Ne suivez que les principaux chemins goudronnés, et apportez un bon imperméable et des bottes."
               }
             },
             {
@@ -933,13 +1035,15 @@
                 "de": "Schloss von Cunault",
                 "hu": "Cunault kastélya",
                 "ro": "Castelul din Cunault",
-                "en": "Château de Cunault"
+                "en": "Château de Cunault",
+                "fr": "Château de Cunault"
               },
               "tip_5lang": {
                 "de": "Erkunden Sie die großen Hallen völlig unbesorgt wegen des Wetters. Tipp: Der perfekte Rückzugsort im Inneren, wenn der Regen zu stark wird.",
                 "hu": "Fedezze fel a hatalmas, visszhangzó termeket, teljesen elfeledkezve az időjárásról. Tipp: Tökéletes beltéri menedék, ha túl heves az eső.",
                 "ro": "Explorați sălile grandioase fără a vă face griji deloc de vreme. Sfat: Refugiul interior perfect pentru după-amiază când plouă prea tare.",
-                "en": "Explore the grand, echoing halls completely worry-free about the weather. Tip: The perfect indoor afternoon retreat when the rain gets too heavy."
+                "en": "Explore the grand, echoing halls completely worry-free about the weather. Tip: The perfect indoor afternoon retreat when the rain gets too heavy.",
+                "fr": "Explorez les vastes salles résonnantes sans vous soucier du temps. Astuce : Le parfait refuge intérieur pour l'après-midi quand la pluie devient trop forte."
               }
             }
           ]
@@ -949,7 +1053,8 @@
             "de": "Heizen Sie das Auto vor, bevor Sie die Kirchen besuchen. Mittags gibt es klare Fahrten zu den Ruinen. Die Nachmittagssonne verzaubert das eisige Naturreservat. Beobachten Sie den frühen Sonnenuntergang um 17:00 Uhr vom majestätischen Schloss.",
             "hu": "Fűtse fel az autót a kőtemplomok látogatása előtt. Délben tiszta, hideg vezetés az ősi megalitokhoz és romokhoz. A délutáni napfény varázslatossá teszi a fagyos rezervátumot. Nézze a korai, 17:00 órás naplementét a fenséges kastélyból.",
             "ro": "Încălziți mașina înainte de a vizita bisericile din piatră. Prânzul oferă drumuri clare spre ruinele antice. Lumina după-amiezii face rezervația înghețată magică. Priviți apusul devreme, la ora 17:00, de la castelul maiestuos.",
-            "en": "Heat up the car before visiting the grand stone churches. Midday offers crisp, clear drives to the ancient megaliths and ruins. Afternoon sunlight makes the frozen nature reserve magical. Watch the early sunset from the majestic castle at 17:00."
+            "en": "Heat up the car before visiting the grand stone churches. Midday offers crisp, clear drives to the ancient megaliths and ruins. Afternoon sunlight makes the frozen nature reserve magical. Watch the early sunset from the majestic castle at 17:00.",
+            "fr": "Faites chauffer la voiture avant de visiter les grandes églises de pierre. À midi, profitez de trajets clairs et frais vers les mégalithes et ruines anciens. La lumière de l'après-midi rend la réserve naturelle gelée magique. Admirez le coucher de soleil précoce depuis le château majestueux à 17:00."
           },
           "stops": [
             {
@@ -957,13 +1062,15 @@
                 "de": "Notre-Dame Kirche",
                 "hu": "Notre-Dame templom",
                 "ro": "Biserica Notre-Dame",
-                "en": "Notre-Dame Church"
+                "en": "Notre-Dame Church",
+                "fr": "Notre-Dame Church"
               },
               "tip_5lang": {
                 "de": "Bewundern Sie das sanfte Winterlicht, das durch das hohe Kirchenschiff fällt. Tipp: Die massiven Steinwände halten die Kälte, tragen Sie Ihren Wintermantel.",
                 "hu": "Csodálja meg a magas főhajón átszűrődő lágy téli reggeli fényt. Tipp: A masszív kőfalak tartják a hideget, viselje a vastag téli kabátját odabent.",
                 "ro": "Admirați lumina blândă de iarnă care pătrunde prin naosul înalt. Sfat: Zidurile masive de piatră mențin frigul, purtați haina groasă în interior.",
-                "en": "Admire the soft winter morning light filtering through the high nave. Tip: The massive stone walls hold the cold, wear your heavy winter coat inside."
+                "en": "Admire the soft winter morning light filtering through the high nave. Tip: The massive stone walls hold the cold, wear your heavy winter coat inside.",
+                "fr": "Admirez la douce lumière hivernale du matin filtrant à travers la haute nef. Astuce : Les murs de pierre massifs emmagasinent le froid ; portez votre manteau d'hiver épais à l'intérieur."
               }
             },
             {
@@ -971,13 +1078,15 @@
                 "de": "Kirche Saint-Gervais",
                 "hu": "Saint-Gervais templom",
                 "ro": "Biserica Saint-Gervais",
-                "en": "Église Saint-Gervais-et-Saint-Protais"
+                "en": "Église Saint-Gervais-et-Saint-Protais",
+                "fr": "Église Saint-Gervais-et-Saint-Protais"
               },
               "tip_5lang": {
                 "de": "Ein ruhiger historischer Stopp, um nach der kalten Fahrt herumzulaufen. Tipp: Der schattige Parkplatz kann sehr frostig sein; passen Sie auf beim Aussteigen.",
                 "hu": "Békés történelmi megálló egy kis sétára a hideg vezetés után. Tipp: Az árnyékos parkoló nagyon fagyos lehet; vigyázzon a kiszállásnál.",
                 "ro": "O oprire istorică liniștită pentru o plimbare după condusul în frig. Sfat: Parcarea umbrită poate fi foarte înghețată; atenție când coborâți.",
-                "en": "A peaceful historical stop to walk around after driving in the cold. Tip: The shaded parking lot might be very frosty; watch your step getting out."
+                "en": "A peaceful historical stop to walk around after driving in the cold. Tip: The shaded parking lot might be very frosty; watch your step getting out.",
+                "fr": "Un arrêt historique paisible pour se promener après un trajet dans le froid. Astuce : Le parking ombragé peut être très givré ; faites attention en sortant."
               }
             },
             {
@@ -985,13 +1094,15 @@
                 "de": "Dolmen La Pagerie",
                 "hu": "La Pagerie dolmen",
                 "ro": "Dolmenul La Pagerie",
-                "en": "Pierre couverte la Pagerie"
+                "en": "Pierre couverte la Pagerie",
+                "fr": "Pierre couverte la Pagerie"
               },
               "tip_5lang": {
                 "de": "Der Steintisch sticht im ruhigen, kahlen Winterwald deutlich hervor. Tipp: Kleiden Sie sich warm, es gibt hier absolut keinen Schutz vor dem eisigen Wind.",
                 "hu": "A kőasztal élesen elüt a csendes, kopár téli erdő környezetétől. Tipp: Öltözzön fel melegen, mert itt egyáltalán nincs menedék a fagyos szél elől.",
                 "ro": "Masa de piatră iese în evidență clar în pădurile goale și liniștite de iarnă. Sfat: Îmbrăcați-vă gros, nu există absolut niciun adăpost de vânt aici.",
-                "en": "The stone table stands out starkly in the quiet, bare winter woods. Tip: Dress warmly as there is absolutely no shelter from the chilling wind here."
+                "en": "The stone table stands out starkly in the quiet, bare winter woods. Tip: Dress warmly as there is absolutely no shelter from the chilling wind here.",
+                "fr": "La table en pierre contraste nettement dans les bois hivernaux dépouillés et calmes. Astuce : Habillez-vous chaudement car il n'y a absolument aucun abri contre le vent glacial ici."
               }
             },
             {
@@ -999,13 +1110,15 @@
                 "de": "Galloromanisches Amphitheater",
                 "hu": "Gall-római amfiteátrum",
                 "ro": "Amfiteatrul galo-roman",
-                "en": "Amphithéatre gallo-romain"
+                "en": "Amphithéatre gallo-romain",
+                "fr": "Amphithéatre gallo-romain"
               },
               "tip_5lang": {
                 "de": "Die Arena sieht in der frischen Winterluft riesig und wunderschön leer aus. Tipp: Exzellente Sicht für Fotos, aber bringen Sie einen warmen Schal mit.",
                 "hu": "Az aréna hatalmasnak és gyönyörűen üresnek tűnik a csípős téli levegőben. Tipp: Kiváló látási viszonyok fotózáshoz, de hozzon magával meleg sálat a sétához.",
                 "ro": "Arena arată vastă și frumos de goală în aerul rece de iarnă. Sfat: Vizibilitate excelentă pentru fotografii, dar luați un fular cald pentru scurta plimbare.",
-                "en": "The arena looks vast and beautifully empty in the crisp winter air. Tip: Excellent visibility for photos, but bring a warm scarf for the short walk."
+                "en": "The arena looks vast and beautifully empty in the crisp winter air. Tip: Excellent visibility for photos, but bring a warm scarf for the short walk.",
+                "fr": "L'arène paraît vaste et magnifiquement vide dans l'air hivernal vif. Astuce : Excellente visibilité pour les photos, mais prenez une écharpe chaude pour la courte marche."
               }
             },
             {
@@ -1013,13 +1126,15 @@
                 "de": "Naturschutzgebiet Joreau",
                 "hu": "Joreau természetvédelmi terület",
                 "ro": "Rezervația naturală Joreau",
-                "en": "Réserve naturelle des étang et boisements de Joreau"
+                "en": "Réserve naturelle des étang et boisements de Joreau",
+                "fr": "Réserve naturelle des étang et boisements de Joreau"
               },
               "tip_5lang": {
                 "de": "Suchen Sie in diesem Reservat nach zarten Tierspuren im Morgenfrost. Tipp: Die Sonne sinkt schnell hinter die Bäume; kommen Sie vor 15:30 Uhr.",
                 "hu": "Keressen finom állatnyomokat a reggeli zúzmarában ebben a rezervátumban. Tipp: A nap gyorsan lebukik a fák mögött; feltétlenül érkezzen 15:30 előtt.",
                 "ro": "Căutați urme delicate de animale în chiciura dimineții la această rezervație. Sfat: Soarele coboară rapid după copaci; asigurați-vă că o vizitați înainte de 15:30.",
-                "en": "Look for delicate animal tracks in the morning frost at this reserve. Tip: The sun dips low quickly behind the trees; ensure you visit before 15:30."
+                "en": "Look for delicate animal tracks in the morning frost at this reserve. Tip: The sun dips low quickly behind the trees; ensure you visit before 15:30.",
+                "fr": "Cherchez de délicates traces d'animaux dans le givre matinal de cette réserve. Astuce : Le soleil tombe rapidement derrière les arbres ; assurez-vous de visiter avant 15:30."
               }
             },
             {
@@ -1027,13 +1142,15 @@
                 "de": "Schloss von Cunault",
                 "hu": "Cunault kastélya",
                 "ro": "Castelul din Cunault",
-                "en": "Château de Cunault"
+                "en": "Château de Cunault",
+                "fr": "Château de Cunault"
               },
               "tip_5lang": {
                 "de": "Eine majestätische Festung, die in der Winterdämmerung überraschend gemütlich wirkt. Tipp: Fahren Sie vorsichtig, da die Landstraßen ab 17:00 Uhr schnell vereisen.",
                 "hu": "Fenséges erődítmény, amely meglepően otthonos a téli szürkületben. Tipp: Vezessen nagyon óvatosan a helyi utakon, mert 17:00 óra után gyorsan eljegesednek.",
                 "ro": "O fortăreață magnifică ce pare surprinzător de confortabilă în amurgul de iarnă. Sfat: Conduceți cu atenție pe drumurile rurale, acestea îngheață rapid după ora 17:00.",
-                "en": "A magnificent fortress that feels surprisingly cozy in the winter dusk. Tip: Drive carefully on the local country roads as they quickly ice over after 17:00."
+                "en": "A magnificent fortress that feels surprisingly cozy in the winter dusk. Tip: Drive carefully on the local country roads as they quickly ice over after 17:00.",
+                "fr": "Une forteresse magnifique qui paraît étonnamment chaleureuse au crépuscule hivernal. Astuce : Conduisez prudemment sur les routes de campagne locales car elles verglacent rapidement après 17:00."
               }
             }
           ]

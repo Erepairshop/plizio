@@ -21,7 +21,8 @@
             "de": "Les Dominicaines",
             "hu": "Les Dominicaines",
             "ro": "Les Dominicaines",
-            "en": "Les Dominicaines"
+            "en": "Les Dominicaines",
+            "fr": "Les Dominicaines"
           },
           "coords": [
             0.18273,
@@ -36,7 +37,8 @@
             "de": "Entdecken Sie die kulturellen Ausstellungen in diesem ehemaligen Kloster und achten Sie auf die historischen Holzarbeiten, indem Sie die detaillierten Informationsbroschüren am Eingang nutzen.",
             "hu": "Fedezze fel az egykori kolostor kulturális kiállításait, és figyelje meg a történelmi famunkákat, miután felvette a bejáratnál található részletes információs füzeteket.",
             "ro": "Explorați expozițiile culturale din această fostă mănăstire și admirați structurile din lemn istoric, asigurându-vă că luați broșura informativă detaliată chiar de la intrare.",
-            "en": "Explore the cultural exhibitions in this former convent and observe the historical woodwork by picking up the detailed informational brochures available right at the entrance."
+            "en": "Explore the cultural exhibitions in this former convent and observe the historical woodwork by picking up the detailed informational brochures available right at the entrance.",
+            "fr": "Explorez les expositions culturelles dans cet ancien couvent et observez les boiseries historiques en prenant les brochures d'information détaillées disponibles juste à l'entrée."
           }
         },
         {
@@ -44,7 +46,8 @@
             "de": "Saint-Michel Church",
             "hu": "Saint-Michel Church",
             "ro": "Saint-Michel Church",
-            "en": "Saint-Michel Church"
+            "en": "Saint-Michel Church",
+            "fr": "Église Saint-Michel"
           },
           "coords": [
             0.185003,
@@ -59,7 +62,8 @@
             "de": "Bewundern Sie die beeindruckende gotische Architektur dieser zentralen Kirche, die die Stadtgeschichte prägt, und kommen Sie früh, um das magische Lichtspiel der Buntglasfenster zu erleben.",
             "hu": "Csodálja meg a központi templom lenyűgöző gótikus építészetét, amely meghatározza a város történelmét, és érkezzen korán, hogy átélhesse az ólomüveg ablakok varázslatos fényjátékát.",
             "ro": "Admirați arhitectura gotică impresionantă a acestei biserici centrale ce marchează istoria orașului și vizitați-o devreme pentru a prinde lumina magică prin vitraliile colorate.",
-            "en": "Admire the impressive Gothic architecture of this central church that defines the town's history, and arrive early to experience the magical play of light through its stained glass."
+            "en": "Admire the impressive Gothic architecture of this central church that defines the town's history, and arrive early to experience the magical play of light through its stained glass.",
+            "fr": "Admirez l'impressionnante architecture gothique de cette église centrale qui définit l'histoire de la ville, et arrivez tôt pour vivre le jeu de lumière magique à travers ses vitraux."
           }
         },
         {
@@ -67,7 +71,8 @@
             "de": "Église Saint-Melaine",
             "hu": "Église Saint-Melaine",
             "ro": "Église Saint-Melaine",
-            "en": "Église Saint-Melaine"
+            "en": "Église Saint-Melaine",
+            "fr": "Église Saint-Melaine"
           },
           "coords": [
             0.18952,
@@ -82,7 +87,8 @@
             "de": "Diese charmante Steinkirche bietet einen ruhigen Rückzugsort in der malerischen Landschaft; tragen Sie bequeme Schuhe, da die umliegenden Wege leicht uneben und rustikal sein können.",
             "hu": "Ez a bájos kőtemplom békés menedéket nyújt a festői tájon; viseljen kényelmes cipőt, mivel a környező ösvények kissé egyenetlenek és rusztikusak lehetnek.",
             "ro": "Această biserică fermecătoare din piatră oferă un refugiu liniștit în peisajul pitoresc; purtați încălțăminte comodă deoarece cărările din jur pot fi ușor denivelate.",
-            "en": "This charming stone church offers a peaceful retreat set in the picturesque landscape; wear comfortable shoes as the surrounding rustic pathways can be slightly uneven."
+            "en": "This charming stone church offers a peaceful retreat set in the picturesque landscape; wear comfortable shoes as the surrounding rustic pathways can be slightly uneven.",
+            "fr": "Cette charmante église en pierre offre un refuge paisible situé dans un paysage pittoresque ; portez des chaussures confortables car les sentiers rustiques environnants peuvent être légèrement inégaux."
           }
         },
         {
@@ -90,7 +96,8 @@
             "de": "Lake of Pont-l'Évêque",
             "hu": "Lake of Pont-l'Évêque",
             "ro": "Lake of Pont-l'Évêque",
-            "en": "Lake of Pont-l'Évêque"
+            "en": "Lake of Pont-l'Évêque",
+            "fr": "Lac de Pont-l'Évêque"
           },
           "coords": [
             0.186816,
@@ -105,7 +112,8 @@
             "de": "Genießen Sie die ruhige Atmosphäre dieses wunderschönen Sees, der ideal für Spaziergänge ist, und bringen Sie eine Kamera mit, um die malerischen Spiegelungen des Himmels auf dem Wasser einzufangen.",
             "hu": "Élvezze a gyönyörű tó békés atmoszféráját, amely ideális egy frissítő sétához, és hozzon magával fényképezőgépet, hogy megörökítse az égbolt festői tükröződését a vízen.",
             "ro": "Bucurați-vă de atmosfera liniștită a acestui lac superb, ideal pentru o plimbare relaxantă, și aduceți o cameră foto pentru a surprinde reflexiile pitorești ale cerului pe apă.",
-            "en": "Enjoy the peaceful atmosphere of this beautiful lake which is ideal for a refreshing stroll, and bring a camera to capture the picturesque reflections of the sky on the water."
+            "en": "Enjoy the peaceful atmosphere of this beautiful lake which is ideal for a refreshing stroll, and bring a camera to capture the picturesque reflections of the sky on the water.",
+            "fr": "Profitez de l'atmosphère paisible de ce beau lac, idéal pour une promenade revigorante, et apportez un appareil photo pour capturer les reflets pittoresques du ciel sur l'eau."
           }
         },
         {
@@ -113,7 +121,8 @@
             "de": "Base de Loisir du Lac",
             "hu": "Base de Loisir du Lac",
             "ro": "Base de Loisir du Lac",
-            "en": "Base de Loisir du Lac"
+            "en": "Base de Loisir du Lac",
+            "fr": "Base de Loisir du Lac"
           },
           "coords": [
             0.202852,
@@ -128,7 +137,8 @@
             "de": "Verbringen Sie vergnügliche Stunden in diesem weitläufigen Freizeitpark am See, der perfekt für Familien ist, und packen Sie ein Picknick ein, um an den schattigen Rastplätzen zu entspannen.",
             "hu": "Töltsön vidám órákat ebben a tóparti szabadidőparkban, amely tökéletes a családok számára, és csomagoljon pikniket, hogy a fák árnyékában lévő pihenőhelyeken lazíthasson.",
             "ro": "Petreceți ore distractive în acest vast parc de agrement pe malul lacului, perfect pentru familii, și luați un picnic pentru a vă relaxa în zonele de odihnă umbrite.",
-            "en": "Spend fun hours at this expansive lakeside leisure park that is perfect for families, and pack a picnic to relax comfortably in one of the shaded resting areas provided."
+            "en": "Spend fun hours at this expansive lakeside leisure park that is perfect for families, and pack a picnic to relax comfortably in one of the shaded resting areas provided.",
+            "fr": "Passez des heures amusantes dans ce vaste parc de loisirs au bord du lac, parfait pour les familles, et emportez un pique-nique pour vous détendre confortablement dans l'une des aires de repos ombragées prévues."
           }
         }
       ],
@@ -136,7 +146,8 @@
         "de": "Beginnen Sie Ihren Tag mit einem tiefen Einblick in die Kultur im Les Dominicaines. Anschließend bewundern Sie die gotische Architektur der nahegelegenen Saint-Michel Church. Mittags spazieren Sie zur Église Saint-Melaine, um die ruhige Umgebung zu genießen. Der Nachmittag endet entspannt am Lake of Pont-l'Évêque und im riesigen Freizeitpark, wo Sie die Natur auskosten können.",
         "hu": "Kezdje a napot a helyi kultúra felfedezésével a Les Dominicaines-ben. Ezután csodálja meg a közeli Saint-Michel Church lenyűgöző gótikus építészetét. Délben sétáljon el a békés Église Saint-Melaine felé egy kis elmélyülésre. A délutánt a csodálatos Lake of Pont-l'Évêque és a mellette lévő hatalmas szabadidőpark partján töltheti, maximálisan kiélvezve a természet közelségét.",
         "ro": "Începeți-vă ziua explorând bogăția culturală la Les Dominicaines. Apoi, admirați arhitectura gotică uluitoare a bisericii Saint-Michel din apropiere. La prânz, plimbați-vă spre liniștita Église Saint-Melaine pentru câteva momente de reflecție. După-amiaza se încheie relaxant la Lake of Pont-l'Évêque și în vastul parc de agrement, unde vă puteți bucura din plin de natură.",
-        "en": "Start your day by delving into the local culture and art at Les Dominicaines. Afterwards, admire the impressive Gothic architecture of the nearby Saint-Michel Church. At midday, take a relaxing stroll to the peaceful Église Saint-Melaine. Your afternoon will be perfectly spent by the scenic Lake of Pont-l'Évêque and its expansive leisure park, truly embracing the outdoors."
+        "en": "Start your day by delving into the local culture and art at Les Dominicaines. Afterwards, admire the impressive Gothic architecture of the nearby Saint-Michel Church. At midday, take a relaxing stroll to the peaceful Église Saint-Melaine. Your afternoon will be perfectly spent by the scenic Lake of Pont-l'Évêque and its expansive leisure park, truly embracing the outdoors.",
+        "fr": "Commencez votre journée en vous plongeant dans la culture et l'art locaux aux Dominicaines. Ensuite, admirez l'impressionnante architecture gothique de la voisine Église Saint-Michel. À midi, faites une promenade reposante jusqu'à la paisible Église Saint-Melaine. Votre après-midi sera parfaitement passé au bord du pittoresque lac de Pont-l'Évêque et dans son vaste parc de loisirs, embrassant véritablement l'extérieur."
       },
       "variants": {
         "rainy": {
@@ -144,7 +155,8 @@
             "de": "Beginnen Sie den regnerischen Morgen im Museum.\n\nMittags bieten die historischen Kirchen eine trockene Zuflucht.\n\nDer Nachmittag am See erfordert zwingend wasserfeste Kleidung.\n\nBeenden Sie den Tag gemütlich und warm im Trockenen.",
             "hu": "A reggelt a múzeum kiállításain kezdjük, védve az esőtől.\n\nDélben a történelmi templomok nyújtanak menedéket.\n\nA délutáni tavi sétához vízálló cipő és esőkabát szükséges.\n\nEste pihenjen le egy száraz, meleg helyen.",
             "ro": "Începeți dimineața ploioasă explorând muzeul.\n\nLa prânz, bisericile istorice oferă un refugiu uscat.\n\nDupă-amiaza la lac necesită încălțăminte impermeabilă și pelerină.\n\nÎncheiați ziua încălzindu-vă confortabil în interior.",
-            "en": "Start your rainy morning exploring the museum.\n\nAt noon, the historic churches provide a dry refuge.\n\nYour afternoon lake stroll requires waterproof shoes and a raincoat.\n\nEnd the day warming up comfortably indoors."
+            "en": "Start your rainy morning exploring the museum.\n\nAt noon, the historic churches provide a dry refuge.\n\nYour afternoon lake stroll requires waterproof shoes and a raincoat.\n\nEnd the day warming up comfortably indoors.",
+            "fr": "Commencez votre matinée pluvieuse par la visite du musée.\n\nÀ midi, les églises historiques offrent un refuge au sec.\n\nVotre promenade l'après-midi au bord du lac nécessite des chaussures imperméables et un imperméable.\n\nTerminez la journée en vous réchauffant confortablement à l'intérieur."
           },
           "stops": [
             {
@@ -152,13 +164,15 @@
                 "de": "Les Dominicaines",
                 "hu": "Les Dominicaines",
                 "ro": "Les Dominicaines",
-                "en": "Les Dominicaines"
+                "en": "Les Dominicaines",
+                "fr": "Les Dominicaines"
               },
               "tip_5lang": {
                 "de": "Entdecken Sie hier die faszinierenden kulturellen Ausstellungen. Ein perfekter, trockener Start in den Tag; lassen Sie den nassen Schirm einfach am Eingang stehen.",
                 "hu": "Fedezze fel a lenyűgöző benti kulturális kiállításokat és a történelmet. Tökéletes száraz kezdése a napnak; csak ne felejtse el a bejáratnál hagyni vizes esernyőjét.",
                 "ro": "Descoperiți expozițiile culturale fascinante și istoria locului. Este un început uscat perfect pentru ziua dumneavoastră; nu uitați să lăsați umbrela udă la intrare.",
-                "en": "Discover the fascinating indoor cultural exhibits and history here. It's the perfect dry start to your day; just remember to leave your wet umbrella at the entrance."
+                "en": "Discover the fascinating indoor cultural exhibits and history here. It's the perfect dry start to your day; just remember to leave your wet umbrella at the entrance.",
+                "fr": "Découvrez ici les fascinantes expositions culturelles intérieures et l'histoire. C'est le parfait début sec pour votre journée ; n'oubliez pas de laisser votre parapluie mouillé à l'entrée."
               }
             },
             {
@@ -166,13 +180,15 @@
                 "de": "Saint-Michel Church",
                 "hu": "Saint-Michel Church",
                 "ro": "Saint-Michel Church",
-                "en": "Saint-Michel Church"
+                "en": "Saint-Michel Church",
+                "fr": "Église Saint-Michel"
               },
               "tip_5lang": {
                 "de": "Bewundern Sie die prächtigen Buntglasfenster und die Architektur, während Sie eine friedliche und völlig trockene Pause vom strömenden Regen draußen genießen.",
                 "hu": "Csodálja meg a csodálatos ólomüveg ablakokat és a bonyolult építészetet, miközben békés és teljesen száraz pihenőt tart a kinti heves esőzés elől menekülve.",
                 "ro": "Admirați vitraliile magnifice și arhitectura complexă în timp ce vă bucurați de o pauză liniștită și complet uscată de ploaia torențială de afară.",
-                "en": "Admire the magnificent stained glass windows and intricate architecture while enjoying a peaceful, completely dry break from the pouring rain outside."
+                "en": "Admire the magnificent stained glass windows and intricate architecture while enjoying a peaceful, completely dry break from the pouring rain outside.",
+                "fr": "Admirez les magnifiques vitraux et l'architecture complexe tout en profitant d'une pause paisible et complètement à l'abri de la pluie battante dehors."
               }
             },
             {
@@ -180,13 +196,15 @@
                 "de": "Église Saint-Melaine",
                 "hu": "Église Saint-Melaine",
                 "ro": "Église Saint-Melaine",
-                "en": "Église Saint-Melaine"
+                "en": "Église Saint-Melaine",
+                "fr": "Église Saint-Melaine"
               },
               "tip_5lang": {
                 "de": "Betrachten Sie die wunderschöne Innenarchitektur dieser historischen Stätte genau, die bei schlechtem Wetter als perfekter und gemütlicher Innenhalt dient.",
                 "hu": "Vizsgálja meg közelebbről ennek a történelmi helyszínnek a gyönyörű belsőépítészetét, amely tökéletes fedett megálló, hogy kényelemben maradjon rossz időben.",
                 "ro": "Priviți cu atenție arhitectura interioară frumoasă a acestui sit istoric, care servește ca o oprire interioară perfectă pentru a vă menține confortabil pe vreme rea.",
-                "en": "Look closely at the beautiful interior architecture of this historic site, which serves as a perfect indoor stop to keep you comfortable in bad weather."
+                "en": "Look closely at the beautiful interior architecture of this historic site, which serves as a perfect indoor stop to keep you comfortable in bad weather.",
+                "fr": "Regardez de près la belle architecture intérieure de ce site historique, qui constitue un parfait arrêt intérieur pour vous garder au sec par mauvais temps."
               }
             },
             {
@@ -194,13 +212,15 @@
                 "de": "Lake of Pont-l'Évêque",
                 "hu": "Lake of Pont-l'Évêque",
                 "ro": "Lake of Pont-l'Évêque",
-                "en": "Lake of Pont-l'Évêque"
+                "en": "Lake of Pont-l'Évêque",
+                "fr": "Lac de Pont-l'Évêque"
               },
               "tip_5lang": {
                 "de": "Genießen Sie die einzigartig stimmungsvolle Atmosphäre des Wassers und der Natur; ein robuster Regenmantel und wasserdichte Schuhe sind hier absolut unerlässlich.",
                 "hu": "Élvezze a víz és a környező természet egyedülállóan borongós hangulatát; egy erős esőkabát és vízálló cipő elengedhetetlen ezen a szakaszon sétálva.",
                 "ro": "Bucurați-vă de atmosfera unică și melancolică a apei și a naturii din jur; o pelerină de ploaie robustă și pantofii impermeabili sunt absolut esențiale aici.",
-                "en": "Enjoy the uniquely moody atmosphere of the water and surrounding nature; a sturdy raincoat and waterproof shoes are absolutely essential for this stretch."
+                "en": "Enjoy the uniquely moody atmosphere of the water and surrounding nature; a sturdy raincoat and waterproof shoes are absolutely essential for this stretch.",
+                "fr": "Profitez de l'atmosphère singulièrement mélancolique de l'eau et de la nature environnante ; un imperméable solide et des chaussures étanches sont absolument essentiels pour cette étape."
               }
             },
             {
@@ -208,13 +228,15 @@
                 "de": "Base de Loisir du Lac",
                 "hu": "Base de Loisir du Lac",
                 "ro": "Base de Loisir du Lac",
-                "en": "Base de Loisir du Lac"
+                "en": "Base de Loisir du Lac",
+                "fr": "Base de Loisir du Lac"
               },
               "tip_5lang": {
                 "de": "Gehen Sie auf den gepflasterten Wegen des Parks, um tiefen Schlamm zu vermeiden, und genießen Sie die ruhige Regenumgebung, die das schlechte Wetter mit sich bringt.",
                 "hu": "Sétáljon a park burkolt részein, hogy sikeresen elkerülje a mély sarat, élvezve a csendes esős környezetet és azt a békét, amit a rossz időjárás hoz magával.",
                 "ro": "Mergeți pe secțiunile pavate ale parcului pentru a evita noroiul adânc, bucurându-vă de mediul ploios liniștit și de pacea pe care o aduce vremea rea.",
-                "en": "Walk the paved sections of the park to successfully avoid deep mud, enjoying the quiet rainy environment and the peacefulness that bad weather brings."
+                "en": "Walk the paved sections of the park to successfully avoid deep mud, enjoying the quiet rainy environment and the peacefulness that bad weather brings.",
+                "fr": "Marchez sur les sections goudronnées du parc pour éviter avec succès la boue profonde, en profitant du calme de la pluie et de la tranquillité qu'apporte le mauvais temps."
               }
             }
           ]
@@ -224,7 +246,8 @@
             "de": "Der kalte Morgen beginnt im beheizten Museum.\n\nMittags spazieren Sie zügig zu den örtlichen Kirchen.\n\nDer Nachmittag am See ist frostig vor dem frühen Sonnenuntergang gegen 17 Uhr.\n\nAbends wärmen Sie sich am besten drinnen gut auf.",
             "hu": "A hideg reggel a jól fűtött múzeumban indul.\n\nDélben frissítő séta vezet a történelmi templomokhoz.\n\nA tavi délután csípős, de gyönyörű a korai, 17 óra körüli sötétedés előtt.\n\nEste feltétlenül melegedjen fel egy forró itallal a zárt térben.",
             "ro": "Dimineața rece începe în interiorul muzeului încălzit.\n\nLa prânz faceți o plimbare revigorantă la bisericile locale.\n\nDupă-amiaza la lac este geroasă înaintea apusului timpuriu pe la 17:00.\n\nSeara încălziți-vă neapărat cu o băutură caldă înăuntru.",
-            "en": "Your cold morning begins inside the heated museum.\n\nMidday features brisk walks to the local churches.\n\nThe afternoon at the lake is frosty but beautiful before the early 5 PM sunset.\n\nThe evening requires warming up inside with a hot drink."
+            "en": "Your cold morning begins inside the heated museum.\n\nMidday features brisk walks to the local churches.\n\nThe afternoon at the lake is frosty but beautiful before the early 5 PM sunset.\n\nThe evening requires warming up inside with a hot drink.",
+            "fr": "Votre matinée froide commence à l'intérieur du musée chauffé.\n\nLe midi comporte des promenades vives vers les églises locales.\n\nL'après-midi au lac est givré mais beau avant le soleil qui se couche tôt à 17 h.\n\nLa soirée nécessite de se réchauffer à l'intérieur avec une boisson chaude."
           },
           "stops": [
             {
@@ -232,13 +255,15 @@
                 "de": "Les Dominicaines",
                 "hu": "Les Dominicaines",
                 "ro": "Les Dominicaines",
-                "en": "Les Dominicaines"
+                "en": "Les Dominicaines",
+                "fr": "Les Dominicaines"
               },
               "tip_5lang": {
                 "de": "Beginnen Sie mit einer gut beheizten kulturellen Erkundung der Geschichte; nehmen Sie sich Zeit, um Ihre Hände beim Betrachten der Kunstausstellungen aufzutauen.",
                 "hu": "Kezdje a helyi történelem jól fűtött kulturális felfedezésével; szánjon időt arra, hogy alaposan felmelegítse a kezét, miközben a művészeti kiállításokat nézi.",
                 "ro": "Începeți cu o explorare culturală bine încălzită a istoriei locale; luați-vă timp pentru a vă dezgheța mâinile în timp ce admirați expozițiile de artă detaliate.",
-                "en": "Begin with a well-heated cultural exploration of local history; take your time to thoroughly thaw out your hands while viewing the detailed art exhibits."
+                "en": "Begin with a well-heated cultural exploration of local history; take your time to thoroughly thaw out your hands while viewing the detailed art exhibits.",
+                "fr": "Commencez par une exploration culturelle bien chauffée de l'histoire locale ; prenez votre temps pour réchauffer soigneusement vos mains tout en regardant les expositions d'art détaillées."
               }
             },
             {
@@ -246,13 +271,15 @@
                 "de": "Saint-Michel Church",
                 "hu": "Saint-Michel Church",
                 "ro": "Saint-Michel Church",
-                "en": "Saint-Michel Church"
+                "en": "Saint-Michel Church",
+                "fr": "Église Saint-Michel"
               },
               "tip_5lang": {
                 "de": "Schätzen Sie das atemberaubende Mauerwerk und die religiösen Artefakte; die Steinböden sind eiskalt, tragen Sie daher unbedingt dicke Wollsocken im Inneren.",
                 "hu": "Értékelje a lenyűgöző kőműves munkákat és vallási tárgyakat; a kőpadlók jéghidegek, ezért feltétlenül viseljen vastag gyapjúzoknit, amíg bent tartózkodik.",
                 "ro": "Apreciați zidăria uimitoare și artefactele religioase; podelele de piatră sunt înghețate, așa că asigurați-vă că purtați șosete groase de lână înăuntru.",
-                "en": "Appreciate the stunning stonework and religious artifacts; the stone floors are freezing, so make sure you wear thick woolen socks while inside."
+                "en": "Appreciate the stunning stonework and religious artifacts; the stone floors are freezing, so make sure you wear thick woolen socks while inside.",
+                "fr": "Appréciez la superbe pierre et les artefacts religieux ; les sols en pierre sont glacés, alors assurez-vous de porter des chaussettes en laine épaisses à l'intérieur."
               }
             },
             {
@@ -260,13 +287,15 @@
                 "de": "Église Saint-Melaine",
                 "hu": "Église Saint-Melaine",
                 "ro": "Église Saint-Melaine",
-                "en": "Église Saint-Melaine"
+                "en": "Église Saint-Melaine",
+                "fr": "Église Saint-Melaine"
               },
               "tip_5lang": {
                 "de": "Treten Sie in diesen ruhigen religiösen Raum ein, um der beißenden Winterkälte zu entfliehen, und genießen Sie die friedliche, nachdenkliche Atmosphäre.",
                 "hu": "Lépjen be ebbe a nyugodt vallási térbe, hogy elmeneküljön a csípős téli hideg elől, és szánjon egy percet a csendes, elmélyült légkör élvezetére a széltől távol.",
                 "ro": "Pășiți în acest spațiu religios liniștit pentru a scăpa de frigul mușcător al iernii și apreciați atmosfera tăcută și reflexivă, departe de vântul rece.",
-                "en": "Step inside this serene religious space to escape the biting winter chill and take a moment to appreciate the quiet, reflective atmosphere away from the wind."
+                "en": "Step inside this serene religious space to escape the biting winter chill and take a moment to appreciate the quiet, reflective atmosphere away from the wind.",
+                "fr": "Entrez dans cet espace religieux serein pour échapper au froid mordant de l'hiver et prenez un moment pour apprécier l'atmosphère calme et réfléchie à l'abri du vent."
               }
             },
             {
@@ -274,13 +303,15 @@
                 "de": "Lake of Pont-l'Évêque",
                 "hu": "Lake of Pont-l'Évêque",
                 "ro": "Lake of Pont-l'Évêque",
-                "en": "Lake of Pont-l'Évêque"
+                "en": "Lake of Pont-l'Évêque",
+                "fr": "Lac de Pont-l'Évêque"
               },
               "tip_5lang": {
                 "de": "Die Winterbrise vom Wasser ist unglaublich scharf und beißend; tragen Sie unbedingt eine winddichte Jacke und eine warme Mütze für diesen malerischen Spaziergang.",
                 "hu": "A víz felől érkező téli szél hihetetlenül éles és metsző; mindenképpen viseljen teljesen szélálló kabátot és meleg sapkát ehhez a festői tóparti sétához.",
                 "ro": "Briza iernii de pe apă este incredibil de ascuțită și tăioasă; asigurați-vă că purtați o jachetă complet rezistentă la vânt și o căciulă caldă pentru plimbare.",
-                "en": "The winter breeze coming off the water is incredibly sharp and biting; make sure to wear a fully windproof jacket and warm hat for this scenic lakeside stroll."
+                "en": "The winter breeze coming off the water is incredibly sharp and biting; make sure to wear a fully windproof jacket and warm hat for this scenic lakeside stroll.",
+                "fr": "La brise hivernale qui souffle sur l'eau est incroyablement aiguë et mordante ; veillez à porter une veste entièrement coupe-vent et un bonnet chaud pour cette promenade pittoresque au bord du lac."
               }
             },
             {
@@ -288,13 +319,15 @@
                 "de": "Base de Loisir du Lac",
                 "hu": "Base de Loisir du Lac",
                 "ro": "Base de Loisir du Lac",
-                "en": "Base de Loisir du Lac"
+                "en": "Base de Loisir du Lac",
+                "fr": "Base de Loisir du Lac"
               },
               "tip_5lang": {
                 "de": "Beenden Sie Ihren gemütlichen Parkspaziergang vor 17 Uhr, da es schnell dunkel wird und die Temperatur rapide sinkt, sobald die Wintersonne untergeht.",
                 "hu": "Fejezze be a kényelmes parki sétát 17 óra előtt, mivel nagyon gyorsan sötétedik, és a hőmérséklet rohamosan csökken, amint a téli nap lenyugszik a fák mögött.",
                 "ro": "Terminați plimbarea relaxantă prin parc înainte de ora 17:00, deoarece se întunecă foarte repede și temperatura scade rapid odată ce soarele de iarnă apune.",
-                "en": "Complete your leisurely park walk before 5 PM, as it gets dark very quickly and the temperature drops rapidly once the winter sun begins to set over the trees."
+                "en": "Complete your leisurely park walk before 5 PM, as it gets dark very quickly and the temperature drops rapidly once the winter sun begins to set over the trees.",
+                "fr": "Terminez votre promenade dans le parc avant 17 h, car il fait très vite sombre et la température chute rapidement dès que le soleil d'hiver commence à se coucher derrière les arbres."
               }
             }
           ]
@@ -314,7 +347,8 @@
             "de": "Les Dominicaines",
             "hu": "Les Dominicaines",
             "ro": "Les Dominicaines",
-            "en": "Les Dominicaines"
+            "en": "Les Dominicaines",
+            "fr": "Les Dominicaines"
           },
           "coords": [
             0.18273,
@@ -329,7 +363,8 @@
             "de": "Entdecken Sie die kulturellen Ausstellungen in diesem ehemaligen Kloster und achten Sie auf die historischen Holzarbeiten, indem Sie die detaillierten Informationsbroschüren am Eingang nutzen.",
             "hu": "Fedezze fel az egykori kolostor kulturális kiállításait, és figyelje meg a történelmi famunkákat, miután felvette a bejáratnál található részletes információs füzeteket.",
             "ro": "Explorați expozițiile culturale din această fostă mănăstire și admirați structurile din lemn istoric, asigurându-vă că luați broșura informativă detaliată chiar de la intrare.",
-            "en": "Explore the cultural exhibitions in this former convent and observe the historical woodwork by picking up the detailed informational brochures available right at the entrance."
+            "en": "Explore the cultural exhibitions in this former convent and observe the historical woodwork by picking up the detailed informational brochures available right at the entrance.",
+            "fr": "Explorez les expositions culturelles dans cet ancien couvent et observez les boiseries historiques en prenant les brochures d'information détaillées disponibles juste à l'entrée."
           }
         },
         {
@@ -337,7 +372,8 @@
             "de": "Saint-Michel Church",
             "hu": "Saint-Michel Church",
             "ro": "Saint-Michel Church",
-            "en": "Saint-Michel Church"
+            "en": "Saint-Michel Church",
+            "fr": "Église Saint-Michel"
           },
           "coords": [
             0.185003,
@@ -352,7 +388,8 @@
             "de": "Bewundern Sie die beeindruckende gotische Architektur dieser zentralen Kirche, die die Stadtgeschichte prägt, und kommen Sie früh, um das magische Lichtspiel der Buntglasfenster zu erleben.",
             "hu": "Csodálja meg a központi templom lenyűgöző gótikus építészetét, amely meghatározza a város történelmét, és érkezzen korán, hogy átélhesse az ólomüveg ablakok varázslatos fényjátékát.",
             "ro": "Admirați arhitectura gotică impresionantă a acestei biserici centrale ce marchează istoria orașului și vizitați-o devreme pentru a prinde lumina magică prin vitraliile colorate.",
-            "en": "Admire the impressive Gothic architecture of this central church that defines the town's history, and arrive early to experience the magical play of light through its stained glass."
+            "en": "Admire the impressive Gothic architecture of this central church that defines the town's history, and arrive early to experience the magical play of light through its stained glass.",
+            "fr": "Admirez l'impressionnante architecture gothique de cette église centrale qui définit l'histoire de la ville, et arrivez tôt pour vivre le jeu de lumière magique à travers ses vitraux."
           }
         },
         {
@@ -360,7 +397,8 @@
             "de": "Église Saint-Melaine",
             "hu": "Église Saint-Melaine",
             "ro": "Église Saint-Melaine",
-            "en": "Église Saint-Melaine"
+            "en": "Église Saint-Melaine",
+            "fr": "Église Saint-Melaine"
           },
           "coords": [
             0.18952,
@@ -375,7 +413,8 @@
             "de": "Diese charmante Steinkirche bietet einen ruhigen Rückzugsort in der malerischen Landschaft; tragen Sie bequeme Schuhe, da die umliegenden Wege leicht uneben und rustikal sein können.",
             "hu": "Ez a bájos kőtemplom békés menedéket nyújt a festői tájon; viseljen kényelmes cipőt, mivel a környező ösvények kissé egyenetlenek és rusztikusak lehetnek.",
             "ro": "Această biserică fermecătoare din piatră oferă un refugiu liniștit în peisajul pitoresc; purtați încălțăminte comodă deoarece cărările din jur pot fi ușor denivelate.",
-            "en": "This charming stone church offers a peaceful retreat set in the picturesque landscape; wear comfortable shoes as the surrounding rustic pathways can be slightly uneven."
+            "en": "This charming stone church offers a peaceful retreat set in the picturesque landscape; wear comfortable shoes as the surrounding rustic pathways can be slightly uneven.",
+            "fr": "Cette charmante église en pierre offre un refuge paisible situé dans un paysage pittoresque ; portez des chaussures confortables car les sentiers rustiques environnants peuvent être légèrement inégaux."
           }
         },
         {
@@ -383,7 +422,8 @@
             "de": "Église Saint-Pierre",
             "hu": "Église Saint-Pierre",
             "ro": "Église Saint-Pierre",
-            "en": "Église Saint-Pierre"
+            "en": "Église Saint-Pierre",
+            "fr": "Église Saint-Pierre"
           },
           "coords": [
             0.171682,
@@ -398,7 +438,8 @@
             "de": "Erkunden Sie die historische Bedeutung dieser alten Kirche mit ihrem charakteristischen normannischen Baustil und achten Sie auf die fein gearbeiteten Details am Eingangsportal.",
             "hu": "Fedezze fel ennek az ősi templomnak a történelmi jelentőségét és jellegzetes normann építészeti stílusát, miközben különös figyelmet fordít a bejárati portál finoman kidolgozott részleteire.",
             "ro": "Explorați importanța istorică a acestei vechi biserici cu stilul ei arhitectural normand caracteristic și acordați atenție detaliilor fin lucrate ale portalului de la intrare.",
-            "en": "Explore the historical significance of this ancient church with its characteristic Norman architectural style, and pay attention to the finely crafted details on the entrance portal."
+            "en": "Explore the historical significance of this ancient church with its characteristic Norman architectural style, and pay attention to the finely crafted details on the entrance portal.",
+            "fr": "Explorez l'importance historique de cette église ancienne au style architectural normand caractéristique, et faites attention aux détails finement travaillés du portail d'entrée."
           }
         },
         {
@@ -406,7 +447,8 @@
             "de": "Base de Loisir du Lac",
             "hu": "Base de Loisir du Lac",
             "ro": "Base de Loisir du Lac",
-            "en": "Base de Loisir du Lac"
+            "en": "Base de Loisir du Lac",
+            "fr": "Base de Loisir du Lac"
           },
           "coords": [
             0.202852,
@@ -421,7 +463,8 @@
             "de": "Verbringen Sie vergnügliche Stunden in diesem weitläufigen Freizeitpark am See, der perfekt für Familien ist, und packen Sie ein Picknick ein, um an den schattigen Rastplätzen zu entspannen.",
             "hu": "Töltsön vidám órákat ebben a tóparti szabadidőparkban, amely tökéletes a családok számára, és csomagoljon pikniket, hogy a fák árnyékában lévő pihenőhelyeken lazíthasson.",
             "ro": "Petreceți ore distractive în acest vast parc de agrement pe malul lacului, perfect pentru familii, și luați un picnic pentru a vă relaxa în zonele de odihnă umbrite.",
-            "en": "Spend fun hours at this expansive lakeside leisure park that is perfect for families, and pack a picnic to relax comfortably in one of the shaded resting areas provided."
+            "en": "Spend fun hours at this expansive lakeside leisure park that is perfect for families, and pack a picnic to relax comfortably in one of the shaded resting areas provided.",
+            "fr": "Passez des heures amusantes dans ce vaste parc de loisirs au bord du lac, parfait pour les familles, et emportez un pique-nique pour vous détendre confortablement dans l'une des aires de repos ombragées prévues."
           }
         },
         {
@@ -429,7 +472,8 @@
             "de": "Manoir de l'Aumône",
             "hu": "Manoir de l'Aumône",
             "ro": "Manoir de l'Aumône",
-            "en": "Manoir de l'Aumône"
+            "en": "Manoir de l'Aumône",
+            "fr": "Manoir de l'Aumône"
           },
           "coords": [
             0.161761,
@@ -444,7 +488,8 @@
             "de": "Besuchen Sie dieses elegante Herrenhaus, das ein faszinierendes Beispiel lokaler Adelsgeschichte darstellt, und spazieren Sie unbedingt auch durch die angrenzenden, gepflegten historischen Gärten.",
             "hu": "Látogasson el ebbe az elegáns udvarházba, amely a helyi nemesi történelem lenyűgöző példája, és feltétlenül tegyen egy sétát a szomszédos, gondozott történelmi kertekben is.",
             "ro": "Vizitați acest conac elegant, un exemplu fascinant al istoriei nobiliare locale, și asigurați-vă că faceți o plimbare și prin grădinile istorice adiacente, foarte bine îngrijite.",
-            "en": "Visit this elegant manor house which serves as a fascinating example of local aristocratic history, and be sure to take a leisurely stroll through the adjacent, well-maintained historic gardens."
+            "en": "Visit this elegant manor house which serves as a fascinating example of local aristocratic history, and be sure to take a leisurely stroll through the adjacent, well-maintained historic gardens.",
+            "fr": "Visitez ce manoir élégant qui est un exemple fascinant de l'histoire aristocratique locale, et prenez le temps de vous promener tranquillement dans les jardins historiques adjacents, bien entretenus."
           }
         }
       ],
@@ -452,7 +497,8 @@
         "de": "Starten Sie Ihre Radtour im historischen Herzen bei Les Dominicaines und fahren Sie weiter zur beeindruckenden Saint-Michel Church. Mittags radeln Sie zur ruhigen Église Saint-Melaine und zur charmanten Église Saint-Pierre. Der Nachmittag bietet eine aktive Erholung am Freizeitpark am See. Beenden Sie den Tag stilvoll mit einem Besuch des herrlichen Manoir de l'Aumône.",
         "hu": "Kezdje kerékpártúráját a történelmi központban a Les Dominicaines-nél, majd pedálozzon a Saint-Michel Church felé. Délben látogassa meg a csendes Église Saint-Melaine-t és az Église Saint-Pierre-t. A délután aktív pihenést kínál a tóparti Base de Loisir du Lac szabadidőparkban. A napot végül az elegáns és történelmi Manoir de l'Aumône kastély lenyűgöző látványával zárhatja.",
         "ro": "Începeți turul cu bicicleta în inima istorică la Les Dominicaines și continuați spre impunătoarea biserică Saint-Michel. La prânz, pedalați spre liniștitele biserici Saint-Melaine și Saint-Pierre. După-amiaza vă așteaptă cu recreere activă la parcul de agrement de lângă lac. Încheiați-vă ziua cu stil, vizitând splendidul Manac de l'Aumône încărcat de istorie.",
-        "en": "Kick off your cycling tour in the historic heart at Les Dominicaines before riding to the grand Saint-Michel Church. Midday takes you past the serene Église Saint-Melaine and the ancient Église Saint-Pierre. The afternoon is dedicated to active recreation at the lakeside leisure park. Conclude your rewarding day with a visit to the historic and elegant Manoir de l'Aumône."
+        "en": "Kick off your cycling tour in the historic heart at Les Dominicaines before riding to the grand Saint-Michel Church. Midday takes you past the serene Église Saint-Melaine and the ancient Église Saint-Pierre. The afternoon is dedicated to active recreation at the lakeside leisure park. Conclude your rewarding day with a visit to the historic and elegant Manoir de l'Aumône.",
+        "fr": "Commencez votre tour à vélo au cœur historique aux Dominicaines avant de rejoindre la grande Église Saint-Michel. À midi, vous passerez par la paisible Église Saint-Melaine et la vieille Église Saint-Pierre. L'après-midi est dédié aux activités au parc de loisirs au bord du lac. Concluez votre journée enrichissante par une visite du charmant et historique Manoir de l'Aumône."
       },
       "variants": {
         "rainy": {
@@ -460,7 +506,8 @@
             "de": "Nasse Straßen verlangen heute Morgen Vorsicht.\n\nDer Museumsbesuch bietet einen absolut trockenen Start.\n\nMittags stehen kurze Fahrten zwischen den Kirchen an.\n\nDie Seerunde nachmittags ist rutschig; bremsen Sie ab und ruhen Sie sich abends aus.",
             "hu": "A nedves utcák ma reggel óvatos kerékpározást igényelnek.\n\nA múzeum látogatása teljesen száraz indulást kínál.\n\nDélben rövidebb, esős utak várnak a történelmi templomok között.\n\nA tavi kör délután csúszós; lassítson, este pedig pihenjen meg.",
             "ro": "Străzile umede necesită ciclism atent în această dimineață.\n\nVizita la muzeu oferă un început complet uscat.\n\nPrânzul implică plimbări umede și scurte între bisericile locale.\n\nTraseul lacului este alunecos; reduceți viteza și odihniți-vă în această seară.",
-            "en": "Wet streets require careful cycling this morning.\n\nThe early museum visit offers a completely dry start.\n\nMidday involves damp, shorter rides between the local historic churches.\n\nThe lake loop is slippery this afternoon; reduce speed and rest well tonight."
+            "en": "Wet streets require careful cycling this morning.\n\nThe early museum visit offers a completely dry start.\n\nMidday involves damp, shorter rides between the local historic churches.\n\nThe lake loop is slippery this afternoon; reduce speed and rest well tonight.",
+            "fr": "Les rues trempées exigent un cyclisme prudent ce matin.\n\nLa visite matinale du musée offre un début complètement sec.\n\nÀ midi, de courts trajets humides relient les églises historiques locales.\n\nLa boucle du lac est glissante cet après-midi ; ralentissez et reposez-vous bien ce soir."
           },
           "stops": [
             {
@@ -468,13 +515,15 @@
                 "de": "Les Dominicaines",
                 "hu": "Les Dominicaines",
                 "ro": "Les Dominicaines",
-                "en": "Les Dominicaines"
+                "en": "Les Dominicaines",
+                "fr": "Les Dominicaines"
               },
               "tip_5lang": {
                 "de": "Sichern Sie Ihr Fahrrad wenn möglich unter einem Dach und trocknen Sie sich dann drinnen gründlich ab, während Sie die faszinierenden Ausstellungen genießen.",
                 "hu": "Lehetőleg fedett helyen zárja le a kerékpárját, majd szánjon időt az alapos szárítkozásra odabent, miközben a lenyűgöző kulturális kiállításokat élvezi.",
                 "ro": "Securizați-vă bicicleta la adăpost dacă este posibil, apoi luați-vă timp să vă uscați bine înăuntru în timp ce vă bucurați de expozițiile culturale fascinante.",
-                "en": "Secure your bicycle under cover if possible, then take your time to thoroughly dry off inside while enjoying the fascinating indoor cultural exhibits."
+                "en": "Secure your bicycle under cover if possible, then take your time to thoroughly dry off inside while enjoying the fascinating indoor cultural exhibits.",
+                "fr": "Abritez votre vélo si possible, puis prenez le temps de bien vous sécher à l'intérieur tout en profitant des fascinantes expositions culturelles intérieures."
               }
             },
             {
@@ -482,13 +531,15 @@
                 "de": "Saint-Michel Church",
                 "hu": "Saint-Michel Church",
                 "ro": "Saint-Michel Church",
-                "en": "Saint-Michel Church"
+                "en": "Saint-Michel Church",
+                "fr": "Église Saint-Michel"
               },
               "tip_5lang": {
                 "de": "Seien Sie besonders vorsichtig und bremsen Sie sanft auf dem nassen Kopfsteinpflaster, das zu diesem historischen Heiligtum führt, um eine trockene Pause zu machen.",
                 "hu": "Legyen különösen óvatos, és fékezzen finoman a történelmi szentélyhez vezető nedves macskaköveken, ahol teljesen száraz és békés menedéket találhat magának.",
                 "ro": "Fiți deosebit de atent și frânați ușor pe piatra cubică umedă care duce spre acest sanctuar istoric, unde vă puteți bucura de o retragere complet uscată.",
-                "en": "Be extra careful and brake gently on the wet cobblestones leading to this historic sanctuary, where you can enjoy a completely dry and peaceful retreat."
+                "en": "Be extra careful and brake gently on the wet cobblestones leading to this historic sanctuary, where you can enjoy a completely dry and peaceful retreat.",
+                "fr": "Soyez particulièrement prudent et freinez doucement sur les pavés mouillés menant à ce sanctuaire historique, où vous pourrez profiter d'un retranchement paisible et sec."
               }
             },
             {
@@ -496,13 +547,15 @@
                 "de": "Église Saint-Melaine",
                 "hu": "Église Saint-Melaine",
                 "ro": "Église Saint-Melaine",
-                "en": "Église Saint-Melaine"
+                "en": "Église Saint-Melaine",
+                "fr": "Église Saint-Melaine"
               },
               "tip_5lang": {
                 "de": "Suchen Sie im prächtigen Kirchenschiff Schutz, um die Architektur zu bewundern, und vergessen Sie nicht, Ihre Fahrradbrille abzuwischen, während Sie drinnen sind.",
                 "hu": "Keressen szívesen látott menedéket a csodálatos hajóban az építészet megcsodálásához, és ne felejtse el letörölni a kerékpáros szemüvegét, amíg biztonságban van bent.",
                 "ro": "Adăpostiți-vă în nava magnifică pentru a admira arhitectura și nu uitați să vă ștergeți ochelarii de ciclism în timp ce vă aflați în siguranță înăuntru.",
-                "en": "Take a welcome shelter in the magnificent nave to admire the architecture, and don't forget to wipe down your cycling glasses while you are safely inside."
+                "en": "Take a welcome shelter in the magnificent nave to admire the architecture, and don't forget to wipe down your cycling glasses while you are safely inside.",
+                "fr": "Trouvez un abri bienvenu dans la magnifique nef pour admirer l'architecture, et n'oubliez pas d'essuyer vos lunettes de cyclisme pendant que vous êtes en sécurité à l'intérieur."
               }
             },
             {
@@ -510,13 +563,15 @@
                 "de": "Église Saint-Pierre",
                 "hu": "Église Saint-Pierre",
                 "ro": "Église Saint-Pierre",
-                "en": "Église Saint-Pierre"
+                "en": "Église Saint-Pierre",
+                "fr": "Église Saint-Pierre"
               },
               "tip_5lang": {
                 "de": "Der Weg zu dieser Kirche kann bei starkem Regen sehr schlammig werden; nutzen Sie Schutzbleche und parken Sie sicher auf festem Grund, bevor Sie hineingehen.",
                 "hu": "A templom megközelítése heves esőzéskor meglehetősen saras lehet; mindenképpen használjon sárvédőt, és parkoljon szilárd talajon, mielőtt befelé indulna.",
                 "ro": "Accesul la această biserică poate deveni destul de noroios pe ploaie abundentă; asigurați-vă că folosiți apărătorile și parcați pe teren solid înainte de a intra.",
-                "en": "The approach to this church can become quite muddy in heavy rain; make sure to use your fenders and park safely on solid ground before heading indoors."
+                "en": "The approach to this church can become quite muddy in heavy rain; make sure to use your fenders and park safely on solid ground before heading indoors.",
+                "fr": "L'approche de cette église peut devenir très boueuse par fortes pluies ; veillez à utiliser vos garde-boues et à garer le vélo sur un sol ferme avant d'entrer."
               }
             },
             {
@@ -524,13 +579,15 @@
                 "de": "Base de Loisir du Lac",
                 "hu": "Base de Loisir du Lac",
                 "ro": "Base de Loisir du Lac",
-                "en": "Base de Loisir du Lac"
+                "en": "Base de Loisir du Lac",
+                "fr": "Base de Loisir du Lac"
               },
               "tip_5lang": {
                 "de": "Große Pfützen sind auf den unbefestigten Uferwegen sehr häufig; bleiben Sie unbedingt in der Mitte der Wege und fahren Sie langsam, um nicht im Schlamm zu rutschen.",
                 "hu": "A tóparti burkolatlan ösvényeken nagyon gyakoriak a nagy tócsák, ezért feltétlenül tartson az utak közepén, és lassan haladjon, hogy elkerülje a sárban való megcsúszást.",
                 "ro": "Bălțile mari sunt foarte frecvente pe traseele nepavate de pe malul lacului, așa că asigurați-vă că stați pe centrul potecilor și mergeți încet pentru a nu aluneca.",
-                "en": "Large puddles are very frequent on the unpaved lakeside trails, so make sure to stick to the center of the paths and ride slowly to avoid slipping in the mud."
+                "en": "Large puddles are very frequent on the unpaved lakeside trails, so make sure to stick to the center of the paths and ride slowly to avoid slipping in the mud.",
+                "fr": "Les grandes flaques sont très fréquentes sur les sentiers non revêtus au bord du lac, alors restez au centre des chemins et roulez lentement pour éviter de glisser dans la boue."
               }
             },
             {
@@ -538,13 +595,15 @@
                 "de": "Manoir de l'Aumône",
                 "hu": "Manoir de l'Aumône",
                 "ro": "Manoir de l'Aumône",
-                "en": "Manoir de l'Aumône"
+                "en": "Manoir de l'Aumône",
+                "fr": "Manoir de l'Aumône"
               },
               "tip_5lang": {
                 "de": "Betrachten Sie das schöne Äußere des Herrenhauses vorsichtig von der Straße aus; nasses Laub auf dem Weg macht das Abbiegen und Bremsen für Radfahrer gefährlich.",
                 "hu": "Az útról óvatosan tekintse meg a kúria gyönyörű külsejét; az ösvényen lévő nedves, lehullott levelek különösen veszélyessé teszik a kanyarodást és a fékezést.",
                 "ro": "Priviți cu precauție exteriorul frumos al conacului de pe drum; frunzele ude căzute pe potecă fac virajele și frânarea deosebit de periculoase pentru bicicliști.",
-                "en": "View the beautiful exterior of the manor cautiously from the road; wet fallen leaves on the path make turning and braking particularly dangerous for cyclists."
+                "en": "View the beautiful exterior of the manor cautiously from the road; wet fallen leaves on the path make turning and braking particularly dangerous for cyclists.",
+                "fr": "Contemplez prudemment la belle façade du manoir depuis la route ; les feuilles tombées et mouillées rendent les virages et les freinages particulièrement dangereux pour les cyclistes."
               }
             }
           ]
@@ -554,7 +613,8 @@
             "de": "Frostiges Radfahren braucht morgens Thermokleidung.\n\nDer Museumsbesuch wärmt Ihre kalten Hände perfekt auf.\n\nDie Mittagsfahrten zu den Kirchen sind kühl, aber sehr malerisch.\n\nAchten Sie auf Eis am See und kehren Sie vor dem Sonnenuntergang um 17 Uhr zurück.",
             "hu": "A fagyos reggeli biciklizéshez megfelelő termóruházat kell.\n\nA múzeumi látogatás tökéletesen felmelegíti a hideg kezét.\n\nA déli utak a fűtetlen templomokhoz hűvösek, de nagyon festőiek.\n\nVigyázzon a jégre a tónál, és fejezze be az utat a 17 órás sötétedés előtt.",
             "ro": "Ciclismul geros de dimineață necesită haine termice groase.\n\nVizita la muzeu vă încălzește perfect mâinile reci.\n\nCursele de prânz la bisericile neîncălzite sunt reci, dar pitorești.\n\nAtenție la gheața de la lac și terminați cursa înainte de apusul de la 17:00.",
-            "en": "Frosty biking demands thermal layers this morning.\n\nThe museum visit perfectly warms up your cold hands.\n\nMidday rides to the unheated churches are cold but very scenic.\n\nWatch for ice near the lake and complete your ride before the 5 PM sunset."
+            "en": "Frosty biking demands thermal layers this morning.\n\nThe museum visit perfectly warms up your cold hands.\n\nMidday rides to the unheated churches are cold but very scenic.\n\nWatch for ice near the lake and complete your ride before the 5 PM sunset.",
+            "fr": "Le cyclisme par gel exige des couches thermiques ce matin.\n\nLa visite du musée vous réchauffe parfaitement les mains froides.\n\nLes trajets de midi vers les églises non chauffées sont froids mais très pittoresques.\n\nSurveillez la glace près du lac et terminez votre parcours avant le coucher du soleil à 17 h."
           },
           "stops": [
             {
@@ -562,13 +622,15 @@
                 "de": "Les Dominicaines",
                 "hu": "Les Dominicaines",
                 "ro": "Les Dominicaines",
-                "en": "Les Dominicaines"
+                "en": "Les Dominicaines",
+                "fr": "Les Dominicaines"
               },
               "tip_5lang": {
                 "de": "Beginnen Sie Ihren Morgen in diesem kulturellen Zentrum, um Hände und Gesicht gründlich aufzuwärmen, bevor Sie wieder den eiskalten Fahrradlenker greifen müssen.",
                 "hu": "Kezdje a reggelt ebben a kulturális központban, hogy alaposan felmelegítse a kezét és az arcát, mielőtt újra meg kellene fognia a jéghideg kerékpárkormányt.",
                 "ro": "Începeți dimineața în acest centru cultural pentru a vă încălzi bine mâinile și fața înainte de a fi nevoit să prindeți din nou ghidonul înghețat al bicicletei.",
-                "en": "Start your morning inside this cultural hub to thoroughly warm up your hands and face before you have to grip the freezing cold bicycle handlebars once again."
+                "en": "Start your morning inside this cultural hub to thoroughly warm up your hands and face before you have to grip the freezing cold bicycle handlebars once again.",
+                "fr": "Commencez votre matinée dans ce centre culturel pour bien réchauffer vos mains et votre visage avant de devoir saisir à nouveau le guidon glacé du vélo."
               }
             },
             {
@@ -576,13 +638,15 @@
                 "de": "Saint-Michel Church",
                 "hu": "Saint-Michel Church",
                 "ro": "Saint-Michel Church",
-                "en": "Saint-Michel Church"
+                "en": "Saint-Michel Church",
+                "fr": "Église Saint-Michel"
               },
               "tip_5lang": {
                 "de": "Genießen Sie die beeindruckende Architektur dieses geschützten Innenraums; ein idealer, ruhiger Ort, um Ihre Winterradbekleidung fernab des eisigen Windes zu richten.",
                 "hu": "Élvezze ennek a védett belső térnek a lenyűgöző építészetét; ideális és csendes hely a téli kerékpáros felszerelés beállítására, távol a fagyos, metsző széltől.",
                 "ro": "Bucurați-vă de arhitectura impresionantă a acestui interior protejat; un loc ideal și liniștit pentru a vă ajusta echipamentul de iarnă departe de vântul înghețat.",
-                "en": "Enjoy the impressive architecture of this sheltered interior; it serves as an ideal and quiet spot to adjust your winter cycling gear away from the freezing wind."
+                "en": "Enjoy the impressive architecture of this sheltered interior; it serves as an ideal and quiet spot to adjust your winter cycling gear away from the freezing wind.",
+                "fr": "Profitez de l'impressionnante architecture de cet intérieur abrité ; c'est un endroit idéal et calme pour ajuster votre équipement de cyclisme hiver à l'abri du vent glacial."
               }
             },
             {
@@ -590,13 +654,15 @@
                 "de": "Église Saint-Melaine",
                 "hu": "Église Saint-Melaine",
                 "ro": "Église Saint-Melaine",
-                "en": "Église Saint-Melaine"
+                "en": "Église Saint-Melaine",
+                "fr": "Église Saint-Melaine"
               },
               "tip_5lang": {
                 "de": "Eine frische, kühle Fahrt bringt Sie zu dieser friedlichen Kirche; behalten Sie dicke Handschuhe an, da die historischen Steine im Inneren völlig unbeheizt sind.",
                 "hu": "Egy frissítő, hűvös út hozza el ebbe a békés templomba; mindenképpen tartsa magán a vastag kesztyűt, mivel a benti történelmi kövek teljesen fűtetlenek és fagyosak.",
                 "ro": "O cursă rapidă și răcoroasă vă aduce la această biserică; asigurați-vă că păstrați mănușile groase, deoarece pietrele istorice din interior sunt complet neîncălzite.",
-                "en": "A brisk, chilly ride brings you to this peaceful church; be sure to keep your thick gloves on as the historic stones inside are completely unheated and freezing."
+                "en": "A brisk, chilly ride brings you to this peaceful church; be sure to keep your thick gloves on as the historic stones inside are completely unheated and freezing.",
+                "fr": "Une balade vive et fraîche vous mène à cette église paisible ; veillez à garder vos gants épais car les pierres historiques à l'intérieur sont totalement non chauffées et glacées."
               }
             },
             {
@@ -604,13 +670,15 @@
                 "de": "Église Saint-Pierre",
                 "hu": "Église Saint-Pierre",
                 "ro": "Église Saint-Pierre",
-                "en": "Église Saint-Pierre"
+                "en": "Église Saint-Pierre",
+                "fr": "Église Saint-Pierre"
               },
               "tip_5lang": {
                 "de": "Achten Sie an den kältesten Tagen der harten Wintersaison besonders sorgfältig auf unerwartete vereiste Stellen in der Nähe des Kircheneingangs und im Schatten.",
                 "hu": "A kemény téli szezon leghidegebb időszakaiban fokozottan ügyeljen a templom bejárata és a környező árnyékos területek közelében lévő váratlan, jeges foltokra.",
                 "ro": "Atenție mare la peticele neașteptate de gheață din apropierea intrării în biserică și a zonelor umbrite în timpul celor mai reci perioade ale sezonului de iarnă.",
-                "en": "Watch out carefully for unexpected icy patches near the church entrance and surrounding shaded areas during the absolute coldest parts of the harsh winter season."
+                "en": "Watch out carefully for unexpected icy patches near the church entrance and surrounding shaded areas during the absolute coldest parts of the harsh winter season.",
+                "fr": "Faites très attention aux plaques de verglas inattendues près de l'entrée de l'église et dans les zones ombragées pendant les périodes les plus froides de l'hiver rigoureux."
               }
             },
             {
@@ -618,13 +686,15 @@
                 "de": "Base de Loisir du Lac",
                 "hu": "Base de Loisir du Lac",
                 "ro": "Base de Loisir du Lac",
-                "en": "Base de Loisir du Lac"
+                "en": "Base de Loisir du Lac",
+                "fr": "Base de Loisir du Lac"
               },
               "tip_5lang": {
                 "de": "Die beißenden Winde über dem See senken die gefühlte Temperatur drastisch; ein richtiges Thermotuch für Gesicht und Hals ist hier eine absolute Voraussetzung.",
                 "hu": "A tavon végigsöprő metsző szelek drasztikusan csökkentik a hőérzetet; egy megfelelő termó csősál az arc és a nyak védelmére itt egyenesen elengedhetetlen követelmény.",
                 "ro": "Vânturile tăioase care străbat lacul scad drastic temperatura resimțită; un fular termic adecvat pentru față și gât este o cerință absolută în această zonă.",
-                "en": "The biting winds sweeping across the lake drastically drop the real-feel temperature; a proper thermal buff for your face and neck is an absolute requirement here."
+                "en": "The biting winds sweeping across the lake drastically drop the real-feel temperature; a proper thermal buff for your face and neck is an absolute requirement here.",
+                "fr": "Les vents mordants qui balaient le lac font chuter considérablement la température ressentie ; une cagoule thermique pour le visage et le cou est absolument nécessaire ici."
               }
             },
             {
@@ -632,13 +702,15 @@
                 "de": "Manoir de l'Aumône",
                 "hu": "Manoir de l'Aumône",
                 "ro": "Manoir de l'Aumône",
-                "en": "Manoir de l'Aumône"
+                "en": "Manoir de l'Aumône",
+                "fr": "Manoir de l'Aumône"
               },
               "tip_5lang": {
                 "de": "Bewundern Sie die winterliche Schönheit des Anwesens zügig und stellen Sie sicher, dass Ihre Fahrradlichter zur Sicherheit hell eingeschaltet sind, da die Dämmerung naht.",
                 "hu": "Viszonylag gyorsan csodálja meg a birtok téli szépségét, és a korai szürkület közeledtével a biztonság érdekében gondoskodjon arról, hogy kerékpárlámpái fényesen világítsanak.",
                 "ro": "Admirați frumusețea de iarnă a domeniului destul de rapid și asigurați-vă că luminile bicicletei sunt aprinse pentru siguranță, deoarece amurgul timpuriu se apropie rapid.",
-                "en": "Admire the wintery beauty of the estate relatively quickly, and ensure your bicycle lights are turned on brightly for safety as the early dusk approaches rapidly."
+                "en": "Admire the wintery beauty of the estate relatively quickly, and ensure your bicycle lights are turned on brightly for safety as the early dusk approaches rapidly.",
+                "fr": "Admirez rapidement la beauté hivernale du domaine, et assurez-vous que vos phares de vélo sont bien allumés pour la sécurité car le crépuscule arrive très tôt."
               }
             }
           ]
@@ -658,7 +730,8 @@
             "de": "Saint-Michel Church",
             "hu": "Saint-Michel Church",
             "ro": "Saint-Michel Church",
-            "en": "Saint-Michel Church"
+            "en": "Saint-Michel Church",
+            "fr": "Église Saint-Michel"
           },
           "coords": [
             0.185003,
@@ -673,7 +746,8 @@
             "de": "Bewundern Sie die beeindruckende gotische Architektur dieser zentralen Kirche, die die Stadtgeschichte prägt, und kommen Sie früh, um das magische Lichtspiel der Buntglasfenster zu erleben.",
             "hu": "Csodálja meg a központi templom lenyűgöző gótikus építészetét, amely meghatározza a város történelmét, és érkezzen korán, hogy átélhesse az ólomüveg ablakok varázslatos fényjátékát.",
             "ro": "Admirați arhitectura gotică impresionantă a acestei biserici centrale ce marchează istoria orașului și vizitați-o devreme pentru a prinde lumina magică prin vitraliile colorate.",
-            "en": "Admire the impressive Gothic architecture of this central church that defines the town's history, and arrive early to experience the magical play of light through its stained glass."
+            "en": "Admire the impressive Gothic architecture of this central church that defines the town's history, and arrive early to experience the magical play of light through its stained glass.",
+            "fr": "Admirez l'impressionnante architecture gothique de cette église centrale qui définit l'histoire de la ville, et arrivez tôt pour vivre le jeu de lumière magique à travers ses vitraux."
           }
         },
         {
@@ -681,7 +755,8 @@
             "de": "Église Saint-Martin",
             "hu": "Église Saint-Martin",
             "ro": "Église Saint-Martin",
-            "en": "Église Saint-Martin"
+            "en": "Église Saint-Martin",
+            "fr": "Église Saint-Martin"
           },
           "coords": [
             0.212498,
@@ -696,7 +771,8 @@
             "de": "Entdecken Sie diese charmante Pfarrkirche am Rande der Stadt, die für ihren schlichten, aber eleganten Glockenturm bekannt ist, und parken Sie sicher auf dem kleinen Platz gleich nebenan.",
             "hu": "Fedezze fel ezt a város szélén található bájos plébániatemplomot, amely egyszerű, de elegáns harangtornyáról ismert, és parkoljon kényelmesen a közvetlenül mellette lévő kis téren.",
             "ro": "Descoperiți această fermecătoare biserică parohială de la periferia orașului, renumită pentru turnul său simplu, dar elegant, și parcați ușor în mica piațetă situată chiar alături.",
-            "en": "Discover this charming parish church on the outskirts of town, known for its simple yet elegant bell tower, and park conveniently in the small square located right next door."
+            "en": "Discover this charming parish church on the outskirts of town, known for its simple yet elegant bell tower, and park conveniently in the small square located right next door.",
+            "fr": "Découvrez cette charmante église paroissiale en périphérie de la ville, réputée pour son clocher simple mais élégant ; garez-vous commodément sur la petite place juste à côté."
           }
         },
         {
@@ -704,7 +780,8 @@
             "de": "Église Saint-Pierre",
             "hu": "Église Saint-Pierre",
             "ro": "Église Saint-Pierre",
-            "en": "Église Saint-Pierre"
+            "en": "Église Saint-Pierre",
+            "fr": "Église Saint-Pierre"
           },
           "coords": [
             0.171682,
@@ -719,7 +796,8 @@
             "de": "Erkunden Sie die historische Bedeutung dieser alten Kirche mit ihrem charakteristischen normannischen Baustil und achten Sie auf die fein gearbeiteten Details am Eingangsportal.",
             "hu": "Fedezze fel ennek az ősi templomnak a történelmi jelentőségét és jellegzetes normann építészeti stílusát, miközben különös figyelmet fordít a bejárati portál finoman kidolgozott részleteire.",
             "ro": "Explorați importanța istorică a acestei vechi biserici cu stilul ei arhitectural normand caracteristic și acordați atenție detaliilor fin lucrate ale portalului de la intrare.",
-            "en": "Explore the historical significance of this ancient church with its characteristic Norman architectural style, and pay attention to the finely crafted details on the entrance portal."
+            "en": "Explore the historical significance of this ancient church with its characteristic Norman architectural style, and pay attention to the finely crafted details on the entrance portal.",
+            "fr": "Explorez l'importance historique de cette ancienne église au style normand caractéristique et prêtez attention aux détails finement travaillés du portail d'entrée."
           }
         },
         {
@@ -727,7 +805,8 @@
             "de": "Manoir de l'Aumône",
             "hu": "Manoir de l'Aumône",
             "ro": "Manoir de l'Aumône",
-            "en": "Manoir de l'Aumône"
+            "en": "Manoir de l'Aumône",
+            "fr": "Manoir de l'Aumône"
           },
           "coords": [
             0.161761,
@@ -742,7 +821,8 @@
             "de": "Besuchen Sie dieses elegante Herrenhaus, das ein faszinierendes Beispiel lokaler Adelsgeschichte darstellt, und spazieren Sie unbedingt auch durch die angrenzenden, gepflegten historischen Gärten.",
             "hu": "Látogasson el ebbe az elegáns udvarházba, amely a helyi nemesi történelem lenyűgöző példája, és feltétlenül tegyen egy sétát a szomszédos, gondozott történelmi kertekben is.",
             "ro": "Vizitați acest conac elegant, un exemplu fascinant al istoriei nobiliare locale, și asigurați-vă că faceți o plimbare și prin grădinile istorice adiacente, foarte bine îngrijite.",
-            "en": "Visit this elegant manor house which serves as a fascinating example of local aristocratic history, and be sure to take a leisurely stroll through the adjacent, well-maintained historic gardens."
+            "en": "Visit this elegant manor house which serves as a fascinating example of local aristocratic history, and be sure to take a leisurely stroll through the adjacent, well-maintained historic gardens.",
+            "fr": "Visitez ce manoir élégant qui constitue un exemple fascinant de l'histoire aristocratique locale, et n'oubliez pas de vous promener tranquillement dans les jardins historiques adjacents, bien entretenus."
           }
         },
         {
@@ -750,7 +830,8 @@
             "de": "Église Saint-Étienne",
             "hu": "Église Saint-Étienne",
             "ro": "Église Saint-Étienne",
-            "en": "Église Saint-Étienne"
+            "en": "Église Saint-Étienne",
+            "fr": "Église Saint-Étienne"
           },
           "coords": [
             0.151924,
@@ -765,7 +846,8 @@
             "de": "Diese kleine, idyllisch gelegene Kirche besticht durch ihre traditionelle Fachwerkstruktur; nehmen Sie sich Zeit für einen ruhigen Moment im Inneren, bevor Sie Ihre Fahrt fortsetzen.",
             "hu": "Ez a kis, idilli környezetben fekvő templom lenyűgöző a hagyományos favázas szerkezetével; szánjon időt egy csendes pillanatra odabent, mielőtt folytatná útját.",
             "ro": "Această mică biserică, situată idilic, impresionează prin structura sa tradițională cu grinzi de lemn; luați-vă un moment de liniște în interior înainte de a vă continua drumul.",
-            "en": "This small, idyllically situated church impresses with its traditional half-timbered structure; take time for a quiet moment inside before continuing on your journey."
+            "en": "This small, idyllically situated church impresses with its traditional half-timbered structure; take time for a quiet moment inside before continuing on your journey.",
+            "fr": "Cette petite église idyllique impressionne par sa structure à colombages traditionnelle ; prenez le temps d'un moment de calme à l'intérieur avant de poursuivre votre route."
           }
         },
         {
@@ -773,7 +855,8 @@
             "de": "Base de Loisir du Lac",
             "hu": "Base de Loisir du Lac",
             "ro": "Base de Loisir du Lac",
-            "en": "Base de Loisir du Lac"
+            "en": "Base de Loisir du Lac",
+            "fr": "Base de Loisir du Lac"
           },
           "coords": [
             0.202852,
@@ -788,7 +871,8 @@
             "de": "Verbringen Sie vergnügliche Stunden in diesem weitläufigen Freizeitpark am See, der perfekt für Familien ist, und packen Sie ein Picknick ein, um an den schattigen Rastplätzen zu entspannen.",
             "hu": "Töltsön vidám órákat ebben a tóparti szabadidőparkban, amely tökéletes a családok számára, és csomagoljon pikniket, hogy a fák árnyékában lévő pihenőhelyeken lazíthasson.",
             "ro": "Petreceți ore distractive în acest vast parc de agrement pe malul lacului, perfect pentru familii, și luați un picnic pentru a vă relaxa în zonele de odihnă umbrite.",
-            "en": "Spend fun hours at this expansive lakeside leisure park that is perfect for families, and pack a picnic to relax comfortably in one of the shaded resting areas provided."
+            "en": "Spend fun hours at this expansive lakeside leisure park that is perfect for families, and pack a picnic to relax comfortably in one of the shaded resting areas provided.",
+            "fr": "Passez des heures amusantes dans ce vaste parc de loisirs au bord du lac, parfait pour les familles ; prévoyez un pique-nique pour vous détendre confortablement dans l'un des espaces ombragés prévus."
           }
         }
       ],
@@ -796,7 +880,8 @@
         "de": "Beginnen Sie Ihre Fahrt im Zentrum an der Saint-Michel Church und bewundern Sie die morgendliche Atmosphäre. Setzen Sie die Tour zu den charmanten Église Saint-Martin und Église Saint-Pierre fort. Mittags führt Sie der Weg zum beeindruckenden Manoir de l'Aumône und zur idyllischen Église Saint-Étienne. Der Nachmittag bietet dann vollkommene Entspannung am großen Freizeitpark.",
         "hu": "Autós túráját a központban, a Saint-Michel Church megtekintésével indítsa, élvezve a reggeli nyugodt atmoszférát. Ezt követően látogasson el a bájos Église Saint-Martin és Église Saint-Pierre templomokhoz. Délben a lenyűgöző Manoir de l'Aumône és az idilli Église Saint-Étienne várja Önt. A délután hátralévő részében pedig a hatalmas tóparti szabadidőparkban pihenhet.",
         "ro": "Începeți călătoria cu mașina în centru la biserica Saint-Michel pentru a savura atmosfera dimineții. Continuați explorarea cu fermecătoarele biserici Saint-Martin și Saint-Pierre. La prânz, traseul vă poartă către impresionantul Manoir de l'Aumône și idilica biserică Saint-Étienne. După-amiaza se va încheia cu relaxare totală la parcul de agrement amplu de pe malul lacului.",
-        "en": "Begin your driving tour in the town center at Saint-Michel Church, absorbing the crisp morning atmosphere. Continue your journey to the charming Église Saint-Martin and Église Saint-Pierre. Midday brings you to the impressive Manoir de l'Aumône and the idyllic Église Saint-Étienne. Your afternoon will be spent unwinding completely at the spacious lakeside leisure park."
+        "en": "Begin your driving tour in the town center at Saint-Michel Church, absorbing the crisp morning atmosphere. Continue your journey to the charming Église Saint-Martin and Église Saint-Pierre. Midday brings you to the impressive Manoir de l'Aumône and the idyllic Église Saint-Étienne. Your afternoon will be spent unwinding completely at the spacious lakeside leisure park.",
+        "fr": "Commencez votre circuit en voiture au centre-ville à l'église Saint-Michel, en profitant de l'atmosphère fraîche du matin. Poursuivez vers les charmantes Église Saint-Martin et Église Saint-Pierre. En milieu de journée, visitez le majestueux Manoir de l'Aumône et l'idyllique Église Saint-Étienne. Votre après-midi sera consacrée à la détente complète à la vaste base de loisirs du lac."
       },
       "variants": {
         "rainy": {
@@ -804,7 +889,8 @@
             "de": "Autofahren ist die ideale Wahl für einen regnerischen Morgen.\n\nDie kurzen Fahrten mittags lassen Sie die Kirchen ohne Durchnässen besuchen.\n\nDer See bietet nachmittags malerische Aussichten direkt aus dem warmen Auto.\n\nBeenden Sie den Tag sicher drinnen, während der Abendregen weiterfällt.",
             "hu": "A vezetés ideális választás egy nedves, esős reggelen.\n\nA rövid déli utak lehetővé teszik a templomok látogatását anélkül, hogy bőrig ázna.\n\nA tavi terület délután festői kilátást nyújt egyenesen a meleg autóból.\n\nFejezze be a napot biztonságban, miközben az esti eső tovább esik.",
             "ro": "Condusul este alegerea ideală pentru o dimineață ploioasă.\n\nOpririle scurte de la prânz vă permit să vizitați bisericile fără a vă uda complet.\n\nZona lacului oferă după-amiaza priveliști pitorești direct din mașina caldă.\n\nÎncheiați ziua în siguranță înăuntru, în timp ce ploaia de seară continuă.",
-            "en": "Driving is the ideal choice for a wet, rainy morning.\n\nThe short midday hops let you visit churches without getting thoroughly soaked.\n\nThe afternoon lake area provides scenic views straight from your warm car.\n\nEnd your day safely indoors as the coastal evening rain continues to fall."
+            "en": "Driving is the ideal choice for a wet, rainy morning.\n\nThe short midday hops let you visit churches without getting thoroughly soaked.\n\nThe afternoon lake area provides scenic views straight from your warm car.\n\nEnd your day safely indoors as the coastal evening rain continues to fall.",
+            "fr": "La voiture est le choix idéal pour une matinée humide et pluvieuse.\n\nLes courts trajets de midi permettent de visiter les églises sans être trempé jusqu'aux os.\n\nLa zone du lac offre des vues pittoresques directement depuis votre voiture bien chauffée.\n\nTerminez la journée en sécurité à l'intérieur pendant que la pluie côtière continue de tomber le soir."
           },
           "stops": [
             {
@@ -812,13 +898,15 @@
                 "de": "Saint-Michel Church",
                 "hu": "Saint-Michel Church",
                 "ro": "Saint-Michel Church",
-                "en": "Saint-Michel Church"
+                "en": "Saint-Michel Church",
+                "fr": "Église Saint-Michel"
               },
               "tip_5lang": {
                 "de": "Parken Sie so nah wie möglich und spannen Sie schnell Ihren Schirm auf, um das atemberaubende Schiff zu sehen, während Sie den Regen aus Ihrem sauberen Auto heraushalten.",
                 "hu": "Parkoljon a lehető legközelebb, és gyorsan nyissa ki esernyőjét a lenyűgöző hajó megtekintéséhez, miközben az esőt kint tartja járműve tiszta és száraz belső teréből.",
                 "ro": "Parcați cât mai aproape posibil și deschideți rapid umbrela pentru a vedea naosul uimitor, ținând în același timp ploaia departe de interiorul curat al vehiculului.",
-                "en": "Park as close as legally possible and pop your umbrella up quickly to view the stunning nave while keeping the rain out of your vehicle's clean and dry interior."
+                "en": "Park as close as legally possible and pop your umbrella up quickly to view the stunning nave while keeping the rain out of your vehicle's clean and dry interior.",
+                "fr": "Garez-vous aussi près que légalement possible et ouvrez rapidement votre parapluie pour voir la magnifique nef tout en protégeant l'intérieur propre et sec de votre véhicule."
               }
             },
             {
@@ -826,13 +914,15 @@
                 "de": "Église Saint-Martin",
                 "hu": "Église Saint-Martin",
                 "ro": "Église Saint-Martin",
-                "en": "Église Saint-Martin"
+                "en": "Église Saint-Martin",
+                "fr": "Église Saint-Martin"
               },
               "tip_5lang": {
                 "de": "Das feuchte, graue Wetter unterstreicht wunderbar das historische Stein-Flair dieser Kirche; achten Sie beim Eintreten nur sorgfältig auf gefährlich rutschige Stufen.",
                 "hu": "A nedves, szürke időjárás gyönyörűen kiemeli a templom történelmi kőhangulatát; csak nagyon figyeljen a lépéseire, mert a bejáratnál lévő lépcsők veszélyesen csúszhatnak.",
                 "ro": "Vremea umedă și gri îmbunătățește frumos vibrația istorică de piatră a bisericii; trebuie doar să fiți atenți la pașii dumneavoastră pe treptele alunecoase la intrare.",
-                "en": "The damp, grey weather beautifully enhances the historic stone vibe of this church; just watch your step carefully for any dangerously slippery steps upon entry."
+                "en": "The damp, grey weather beautifully enhances the historic stone vibe of this church; just watch your step carefully for any dangerously slippery steps upon entry.",
+                "fr": "Le temps humide et gris met magnifiquement en valeur l'atmosphère de pierre historique de cette église ; faites juste attention aux marches dangereusement glissantes à l'entrée."
               }
             },
             {
@@ -840,13 +930,15 @@
                 "de": "Église Saint-Pierre",
                 "hu": "Église Saint-Pierre",
                 "ro": "Église Saint-Pierre",
-                "en": "Église Saint-Pierre"
+                "en": "Église Saint-Pierre",
+                "fr": "Église Saint-Pierre"
               },
               "tip_5lang": {
                 "de": "Diese Kirche dient als ein weiteres großartiges, völlig trockenes Refugium auf Ihrer Route; schütteln Sie Ihren nassen Regenmantel vor dem Betreten unbedingt gründlich ab.",
                 "hu": "Ez a templom egy újabb nagyszerű, teljesen száraz fedett menedékként szolgál az autóúton; a szentélybe lépés előtt feltétlenül rázza le alaposan a vizes esőkabátját.",
                 "ro": "Această biserică servește ca un alt refugiu interior complet uscat pe traseul dumneavoastră; asigurați-vă că scuturați bine pelerina de ploaie udă înainte de a intra.",
-                "en": "This church serves as another great, completely dry indoor refuge on your driving route; be sure to thoroughly shake off your wet raincoat before entering the sanctuary."
+                "en": "This church serves as another great, completely dry indoor refuge on your driving route; be sure to thoroughly shake off your wet raincoat before entering the sanctuary.",
+                "fr": "Cette église est un autre excellent refuge intérieur, complètement sec, sur votre itinéraire en voiture ; secouez bien votre imperméable trempé avant d'entrer dans le sanctuaire."
               }
             },
             {
@@ -854,13 +946,15 @@
                 "de": "Manoir de l'Aumône",
                 "hu": "Manoir de l'Aumône",
                 "ro": "Manoir de l'Aumône",
-                "en": "Manoir de l'Aumône"
+                "en": "Manoir de l'Aumône",
+                "fr": "Manoir de l'Aumône"
               },
               "tip_5lang": {
                 "de": "Dieses wunderschöne historische Anwesen lässt sich oft am besten aus dem warmen und trockenen Komfort Ihres Fahrzeugs bewundern, besonders bei starkem Dauerregen draußen.",
                 "hu": "Ezt a gyönyörű történelmi birtokot gyakran a jármű tökéletesen meleg és száraz kényelméből lehet a legjobban megcsodálni, különösen, ha kint heves, folyamatos eső esik.",
                 "ro": "Acest frumos domeniu istoric este adesea cel mai bine admirat din confortul perfect cald și uscat al vehiculului dumneavoastră, mai ales când afară plouă torențial.",
-                "en": "This beautiful historical estate is often best admired from the perfectly warm and dry comfort of your vehicle, especially as heavy, continuous rain falls outside."
+                "en": "This beautiful historical estate is often best admired from the perfectly warm and dry comfort of your vehicle, especially as heavy, continuous rain falls outside.",
+                "fr": "Ce beau domaine historique est souvent mieux admiré depuis le confort parfaitement chaud et sec de votre véhicule, surtout lorsque la pluie tombe fortement et de façon continue à l'extérieur."
               }
             },
             {
@@ -868,13 +962,15 @@
                 "de": "Église Saint-Étienne",
                 "hu": "Église Saint-Étienne",
                 "ro": "Église Saint-Étienne",
-                "en": "Église Saint-Étienne"
+                "en": "Église Saint-Étienne",
+                "fr": "Église Saint-Étienne"
               },
               "tip_5lang": {
                 "de": "Ein sehr kurzer, gut getimter Sprint vom nahen Parkplatz bringt Sie direkt zu diesem unglaublich ruhigen, trockenen Heiligtum abseits der unberechenbaren Küstenschauer.",
                 "hu": "Egy nagyon rövid, jól időzített sprint a közeli parkolóból egyenesen ebbe a hihetetlenül csendes, száraz szentélybe viszi, távol a kiszámíthatatlan part menti záporoktól.",
                 "ro": "Un sprint foarte scurt și bine calculat din parcarea apropiată vă aduce direct la acest sanctuar incredibil de liniștit și uscat, departe de ploile de coastă.",
-                "en": "A very short, well-timed dash from the nearby parking lot directly brings you to this incredibly quiet, dry sanctuary away from the unpredictable coastal showers."
+                "en": "A very short, well-timed dash from the nearby parking lot directly brings you to this incredibly quiet, dry sanctuary away from the unpredictable coastal showers.",
+                "fr": "Un très court dash bien chronométré depuis le parking voisin vous mène directement à ce sanctuaire incroyablement calme et sec, à l'abri des averses côtières imprévisibles."
               }
             },
             {
@@ -882,13 +978,15 @@
                 "de": "Base de Loisir du Lac",
                 "hu": "Base de Loisir du Lac",
                 "ro": "Base de Loisir du Lac",
-                "en": "Base de Loisir du Lac"
+                "en": "Base de Loisir du Lac",
+                "fr": "Base de Loisir du Lac"
               },
               "tip_5lang": {
                 "de": "Sie können die schwersten Regengüsse bequem im Auto abwarten oder einen kurzen, erfrischenden Spaziergang auf den nassen Wegen mit wasserdichten Stiefeln unternehmen.",
                 "hu": "Kényelmesen kivárhatja a leghevesebb felhőszakadásokat az autójában, vagy tehet egy rövid, frissítő sétát a nedves ösvényeken, de ehhez mindenképp vízálló bakancs kell.",
                 "ro": "Puteți aștepta confortabil cele mai grele ploi în siguranță în mașina dumneavoastră sau puteți face o scurtă plimbare pe potecile umede folosind cizme impermeabile.",
-                "en": "You can comfortably wait out the heaviest downpours securely in your car, or choose to take a brief, refreshing walk along the wet paths with sturdy, waterproof boots."
+                "en": "You can comfortably wait out the heaviest downpours securely in your car, or choose to take a brief, refreshing walk along the wet paths with sturdy, waterproof boots.",
+                "fr": "Vous pouvez attendre confortablement les fortes averses à l'abri dans votre voiture, ou choisir de faire une brève promenade revigorante le long des sentiers mouillés avec des bottes étanches solides."
               }
             }
           ]
@@ -898,7 +996,8 @@
             "de": "Ein beheiztes Auto ist an einem Wintermorgen ein wahrer Segen.\n\nBei den Stopps an den unbeheizten Kirchen mittags behalten Sie den Mantel besser an.\n\nGenießen Sie am frühen Nachmittag eine warme Fahrt am wunderschönen See.\n\nFahren Sie sicher zurück, bevor der frühe Sonnenuntergang um 17 Uhr einsetzt.",
             "hu": "A fűtött autó igazi áldás egy csípős téli reggelen.\n\nA fűtetlen történelmi templomoknál tartott déli megállók során tartsa magán a vastag kabátot.\n\nÉlvezze a meleg autózást a gyönyörű tó mellett kora délután.\n\nInduljon vissza biztonságban, mielőtt a korai, 17 órás sötétedés sötétségbe borítja az utakat.",
             "ro": "O mașină încălzită e o adevărată binecuvântare într-o dimineață de iarnă.\n\nOpririle de prânz la bisericile neîncălzite înseamnă să vă păstrați haina groasă.\n\nBucurați-vă de un drum cald pe lângă lacul frumos la începutul după-amiezii.\n\nÎntoarceți-vă în siguranță înainte ca apusul timpuriu de la 17:00 să aducă întunericul.",
-            "en": "A heated car is a true blessing on a crisp winter morning.\n\nMidday stops at unheated historic churches mean keeping your heavy coat on.\n\nEnjoy a warm drive by the beautifully frozen lake early in the afternoon.\n\nHead back safely before the early 5 PM sunset plunges the roads into darkness."
+            "en": "A heated car is a true blessing on a crisp winter morning.\n\nMidday stops at unheated historic churches mean keeping your heavy coat on.\n\nEnjoy a warm drive by the beautifully frozen lake early in the afternoon.\n\nHead back safely before the early 5 PM sunset plunges the roads into darkness.",
+            "fr": "Une voiture chauffée est une vraie bénédiction par une fraîche matinée d'hiver.\n\nLes arrêts de midi dans des églises historiques non chauffées signifient garder votre manteau lourd.\n\nProfitez d'une agréable route près du lac gelé au début de l'après-midi.\n\nRentrez en toute sécurité avant que le coucher du soleil anticipé à 17 h ne plonge les routes dans l'obscurité."
           },
           "stops": [
             {
@@ -906,13 +1005,15 @@
                 "de": "Saint-Michel Church",
                 "hu": "Saint-Michel Church",
                 "ro": "Saint-Michel Church",
-                "en": "Saint-Michel Church"
+                "en": "Saint-Michel Church",
+                "fr": "Église Saint-Michel"
               },
               "tip_5lang": {
                 "de": "Das Innere der Steinkirche ist oft deutlich kälter als die Außenluft; tragen Sie unbedingt eine warme Wintermütze, Handschuhe und einen dicken Schal, wenn Sie das Auto verlassen.",
                 "hu": "A kőtemplom belseje gyakran lényegesen hidegebb, mint a kinti levegő; ügyeljen arra, hogy meleg téli sapkát, kesztyűt és vastag sálat viseljen, amikor kiszáll az autóból.",
                 "ro": "Interiorul bisericii de piatră este adesea semnificativ mai rece decât aerul de afară; asigurați-vă că purtați o căciulă caldă, mănuși și fular când ieșiți din mașină.",
-                "en": "The stone church interior is often significantly colder than the outside air; make sure you wear a warm winter hat, gloves, and a thick scarf when leaving the car."
+                "en": "The stone church interior is often significantly colder than the outside air; make sure you wear a warm winter hat, gloves, and a thick scarf when leaving the car.",
+                "fr": "L'intérieur en pierre de l'église est souvent nettement plus froid que l'air extérieur ; assurez-vous de porter un bonnet chaud, des gants et une grosse écharpe en sortant du véhicule."
               }
             },
             {
@@ -920,13 +1021,15 @@
                 "de": "Église Saint-Martin",
                 "hu": "Église Saint-Martin",
                 "ro": "Église Saint-Martin",
-                "en": "Église Saint-Martin"
+                "en": "Église Saint-Martin",
+                "fr": "Église Saint-Martin"
               },
               "tip_5lang": {
                 "de": "Wärmen Sie sich in Ihrem Fahrzeug vollständig auf, bevor Sie in den frostigen Kirchenhof treten; die historische Architektur ist wunderschön, aber komplett unbeheizt.",
                 "hu": "Gondoskodjon róla, hogy teljesen felmelegedjen a járművében, mielőtt kilép a fagyos templomudvarra; a történelmi építészet ugyan gyönyörű, de egyáltalán nincs fűtve.",
                 "ro": "Asigurați-vă că vă încălziți complet în vehicul înainte de a ieși în curtea înghețată a bisericii; arhitectura istorică este frumoasă, dar complet neîncălzită.",
-                "en": "Ensure you warm up completely in your vehicle before stepping out into the frosty church courtyard; the historical architecture is beautiful but entirely unheated."
+                "en": "Ensure you warm up completely in your vehicle before stepping out into the frosty church courtyard; the historical architecture is beautiful but entirely unheated.",
+                "fr": "Réchauffez-vous totalement dans votre véhicule avant de sortir dans la cour glacée de l'église ; l'architecture historique est belle mais entièrement non chauffée."
               }
             },
             {
@@ -934,13 +1037,15 @@
                 "de": "Église Saint-Pierre",
                 "hu": "Église Saint-Pierre",
                 "ro": "Église Saint-Pierre",
-                "en": "Église Saint-Pierre"
+                "en": "Église Saint-Pierre",
+                "fr": "Église Saint-Pierre"
               },
               "tip_5lang": {
                 "de": "Die klare Winterluft hebt das bemerkenswerte Mauerwerk hier perfekt hervor; parken Sie einfach direkt davor, um die Kälte zu minimieren und relativ warm zu bleiben.",
                 "hu": "A csípős, tiszta téli levegő tökéletesen kiemeli az itteni figyelemre méltó kőmunkát; parkoljon közvetlenül elé, hogy minimálisra csökkentse a hideget és meleg maradjon.",
                 "ro": "Aerul rece și clar de iarnă evidențiază perfect zidăria remarcabilă de aici; pur și simplu parcați chiar în față pentru a minimiza expunerea și a sta destul de cald.",
-                "en": "The crisp, clear winter air perfectly highlights the remarkable stonework here; simply park right out front to minimize your exposure and stay reasonably warm."
+                "en": "The crisp, clear winter air perfectly highlights the remarkable stonework here; simply park right out front to minimize your exposure and stay reasonably warm.",
+                "fr": "L'air vif et clair de l'hiver met parfaitement en valeur la remarquable pierre ici ; garez-vous juste devant pour minimiser votre exposition et rester raisonnablement au chaud."
               }
             },
             {
@@ -948,13 +1053,15 @@
                 "de": "Manoir de l'Aumône",
                 "hu": "Manoir de l'Aumône",
                 "ro": "Manoir de l'Aumône",
-                "en": "Manoir de l'Aumône"
+                "en": "Manoir de l'Aumône",
+                "fr": "Manoir de l'Aumône"
               },
               "tip_5lang": {
                 "de": "Lassen Sie die Fahrzeugheizung konstant laufen, während Sie dieses beeindruckende historische Anwesen direkt vom sicheren, warmen Rand der winterlichen Straße fotografieren.",
                 "hu": "Járassa folyamatosan a jármű fűtését, miközben közvetlenül a téli út biztonságos, meleg széléről csodálja és fényképezi ezt a lenyűgöző és masszív történelmi birtokot.",
                 "ro": "Păstrați căldura vehiculului pornită în mod constant în timp ce admirați și fotografiați acest impresionant domeniu istoric direct de la marginea sigură a drumului de iarnă.",
-                "en": "Keep the vehicle's heater running consistently while you admire and photograph this impressive historic estate directly from the safe, warm edge of the wintery road."
+                "en": "Keep the vehicle's heater running consistently while you admire and photograph this impressive historic estate directly from the safe, warm edge of the wintery road.",
+                "fr": "Gardez le chauffage du véhicule allumé en continu pendant que vous admirez et photographiez ce domaine historique impressionnant depuis le bord sûr et chaud de la route hivernale."
               }
             },
             {
@@ -962,13 +1069,15 @@
                 "de": "Église Saint-Étienne",
                 "hu": "Église Saint-Étienne",
                 "ro": "Église Saint-Étienne",
-                "en": "Église Saint-Étienne"
+                "en": "Église Saint-Étienne",
+                "fr": "Église Saint-Étienne"
               },
               "tip_5lang": {
                 "de": "Dicker Morgenfrost auf dem Gelände kann gefährlich rutschig sein; treten Sie sehr vorsichtig aus der Wärme Ihres Autos bis zur schweren Holztür des Heiligtums.",
                 "hu": "A talajon lévő vastag reggeli dér veszélyesen csúszós lehet; nagyon óvatosan lépkedjen az autója melegéből egészen a szentély masszív és régi, nehéz faajtajáig.",
                 "ro": "Bruma groasă de dimineață de pe jos poate fi periculos de alunecoasă; pășiți cu mare atenție din căldura mașinii dumneavoastră până la ușa grea de lemn a sanctuarului.",
-                "en": "Thick morning frost on the grounds can be dangerously slippery; step very carefully from the warmth of your car all the way to the heavy wooden door of the sanctuary."
+                "en": "Thick morning frost on the grounds can be dangerously slippery; step very carefully from the warmth of your car all the way to the heavy wooden door of the sanctuary.",
+                "fr": "Le givre épais du matin sur le terrain peut être dangereusement glissant ; marchez très prudemment depuis la chaleur de votre voiture jusqu'à la lourde porte en bois du sanctuaire."
               }
             },
             {
@@ -976,13 +1085,15 @@
                 "de": "Base de Loisir du Lac",
                 "hu": "Base de Loisir du Lac",
                 "ro": "Base de Loisir du Lac",
-                "en": "Base de Loisir du Lac"
+                "en": "Base de Loisir du Lac",
+                "fr": "Base de Loisir du Lac"
               },
               "tip_5lang": {
                 "de": "Genießen Sie den Sonnenuntergang, der sich auf dem Wasser spiegelt, aus dem Auto und fahren Sie sicher zurück, wenn die dunkle Winternacht hereinbricht.",
                 "hu": "Élvezze autójából a mozdulatlan vízen gyönyörűen tükröződő lélegzetelállító téli naplementét, majd a sötét téli éjszaka beálltával mindenképpen biztonságosan vezessen vissza.",
                 "ro": "Bucurați-vă de apusul de iarnă care se reflectă frumos pe apa liniștită direct din mașină, apoi asigurați-vă că conduceți înapoi în siguranță odată cu lăsarea nopții.",
-                "en": "Enjoy the breathtaking winter sunset beautifully reflecting on the still water from your car, then make sure to drive back safely as the dark winter night settles in."
+                "en": "Enjoy the breathtaking winter sunset beautifully reflecting on the still water from your car, then make sure to drive back safely as the dark winter night settles in.",
+                "fr": "Profitez du spectaculaire coucher de soleil hivernal se reflétant sur l'eau immobile depuis votre voiture, puis assurez-vous de rentrer en toute sécurité alors que la nuit hivernale sombre s'installe."
               }
             }
           ]

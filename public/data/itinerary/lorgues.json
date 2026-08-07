@@ -21,7 +21,8 @@
             "de": "Fassade der Templerherberge",
             "hu": "Templomosok fogadójának homlokzata",
             "ro": "Fațada hanului templierilor",
-            "en": "Façade of the Templars' Inn"
+            "en": "Façade of the Templars' Inn",
+            "fr": "Façade de l'Auberge des Templiers"
           },
           "coords": [
             6.360645,
@@ -36,7 +37,8 @@
             "de": "Bewundern Sie die steinernen Details dieser mittelalterlichen Templerfassade, die von der Geschichte der Kreuzritter zeugt, aber stellen Sie sich für das beste Foto auf die andere Straßenseite.",
             "hu": "Csodálja meg ennek a középkori templomos fogadónak a kőbe vésett részleteit, amely a keresztes lovagok korát idézi, de a legjobb fotóhoz álljon az utca túloldalára.",
             "ro": "Admirați detaliile din piatră ale acestei fațade medievale a templierilor, o dovadă a istoriei cruciaților, dar stați pe partea opusă a străzii înguste pentru cea mai bună fotografie.",
-            "en": "Admire the ancient stone details of this medieval Templar inn facade, a testament to Lorgues' crusader history, but stand across the narrow street for the best wide-angle photo."
+            "en": "Admire the ancient stone details of this medieval Templar inn facade, a testament to Lorgues' crusader history, but stand across the narrow street for the best wide-angle photo.",
+            "fr": "Admirez les anciens détails en pierre de cette façade médiévale d'auberge templière, témoin de l'histoire croisée de Lorgues ; tenez-vous de l'autre côté de la rue étroite pour la meilleure photo grand-angle."
           }
         },
         {
@@ -44,7 +46,8 @@
             "de": "Sarrasinentor",
             "hu": "Szaracén kapu",
             "ro": "Poarta Sarazină",
-            "en": "Sarrasine Gate"
+            "en": "Sarrasine Gate",
+            "fr": "Porte Sarrasine"
           },
           "coords": [
             6.362002,
@@ -59,7 +62,8 @@
             "de": "Passieren Sie dieses imposante historische Tor, das die Stadt einst vor Invasionen schützte, und achten Sie auf die noch sichtbaren Rillen des Fallgatters in den dicken Steinbögen.",
             "hu": "Haladjon át ezen az impozáns történelmi kapun, amely egykor a várost védte a betörésektől, és figyelje meg a vaskos kőívekben még mindig látható egykori ejtőrács nyomait.",
             "ro": "Treceți prin această poartă istorică impunătoare care proteja odinioară orașul de invazii și priviți cu atenție canelurile porții ghilotină încă vizibile în arcurile groase de piatră.",
-            "en": "Pass through this imposing historical gate that once protected the fortified town from invasions, and look closely at the portcullis grooves still visible in the thick stone arches."
+            "en": "Pass through this imposing historical gate that once protected the fortified town from invasions, and look closely at the portcullis grooves still visible in the thick stone arches.",
+            "fr": "Traversez cette imposante porte historique qui protégeait autrefois la ville fortifiée des invasions, et regardez de près les rainures de herse encore visibles dans les épais arcs de pierre."
           }
         },
         {
@@ -67,7 +71,8 @@
             "de": "Stiftskirche Saint-Martin",
             "hu": "Saint-Martin társaskáptalan",
             "ro": "Colegiata Saint-Martin",
-            "en": "Collégiale Saint-Martin"
+            "en": "Collégiale Saint-Martin",
+            "fr": "Collégiale Saint-Martin"
           },
           "coords": [
             6.363005,
@@ -82,7 +87,8 @@
             "de": "Betreten Sie diese riesige Stiftskirche, um die beeindruckende Akustik und den großen Altar zu erleben, aber achten Sie auf die Stille, die während der lokalen Gebetszeiten erbeten wird.",
             "hu": "Lépjen be ebbe a hatalmas társaskáptalani templomba, hogy megtapasztalja lenyűgöző akusztikáját, de tartsa tiszteletben a helyi imák alatt elvárt csendet.",
             "ro": "Pășiți în această biserică colegială masivă pentru a experimenta acustica sa uimitoare și altarul grandios, dar fiți atenți la liniștea cerută în timpul sesiunilor de rugăciune.",
-            "en": "Step inside this massive collegiate church to experience its striking acoustics and grand altar, but be mindful of the silence requested during the ongoing local prayer sessions."
+            "en": "Step inside this massive collegiate church to experience its striking acoustics and grand altar, but be mindful of the silence requested during the ongoing local prayer sessions.",
+            "fr": "Pénétrez dans cette vaste collégiale pour ressentir son acoustique saisissante et son maître-autel imposant, mais respectez le silence demandé pendant les offices locaux en cours."
           }
         },
         {
@@ -90,7 +96,8 @@
             "de": "St.-Anna-Kapelle",
             "hu": "Szent Anna kápolna",
             "ro": "Capela Sfânta Ana",
-            "en": "Chapelle Sainte-Anne"
+            "en": "Chapelle Sainte-Anne",
+            "fr": "Chapelle Sainte-Anne"
           },
           "coords": [
             6.364782,
@@ -105,7 +112,8 @@
             "de": "Besuchen Sie diese bescheidene, aber wunderschön erhaltene lokale Kapelle, die die provenzalische Architektur unterstreicht, und kommen Sie früh, um die harte Mittagssonne zu meiden.",
             "hu": "Látogasson el ebbe a szerény, mégis gyönyörűen megőrzött helyi kápolnába, amely a provence-i építészetet dicséri, és érkezzen korán, hogy elkerülje az erős déli napsütést.",
             "ro": "Vizitați această capelă locală modestă, dar frumos conservată, care evidențiază arhitectura provensală, și veniți devreme pentru a evita soarele puternic de la amiază.",
-            "en": "Visit this modest yet beautifully preserved local chapel that highlights traditional Provençal religious architecture, and come early to avoid the harsh midday sun on its simple facade."
+            "en": "Visit this modest yet beautifully preserved local chapel that highlights traditional Provençal religious architecture, and come early to avoid the harsh midday sun on its simple facade.",
+            "fr": "Visitez cette modeste mais magnifiquement préservée chapelle locale qui met en valeur l'architecture religieuse traditionnelle provençale, et venez tôt pour éviter le soleil écrasant de midi sur sa simple façade."
           }
         },
         {
@@ -113,7 +121,8 @@
             "de": "St.-Honorat-Kapelle",
             "hu": "Szent Honorat kápolna",
             "ro": "Capela Saint-Honorat",
-            "en": "Chapelle Saint-Honorat"
+            "en": "Chapelle Saint-Honorat",
+            "fr": "Chapelle Saint-Honorat"
           },
           "coords": [
             6.365808,
@@ -128,7 +137,8 @@
             "de": "Entdecken Sie dieses friedliche religiöse Heiligtum etwas abseits des geschäftigen Zentrums für einen Moment der Ruhe, und bringen Sie eigenes Wasser mit, da es keine Einrichtungen gibt.",
             "hu": "Fedezze fel ezt a nyüzsgő központtól kissé távolabb eső, békés vallási szentélyt, amely egy pillanatnyi nyugalmat hoz, és hozzon magával vizet, mivel a közelben nincs kút.",
             "ro": "Descoperiți acest sanctuar religios pașnic, ascuns de centrul plin de viață, aducând un moment de calm, și aduceți-vă propria apă, deoarece nu există facilități în apropiere.",
-            "en": "Discover this peaceful religious sanctuary tucked slightly away from the bustling center, bringing a moment of calm, and bring your own water as there are no nearby facilities."
+            "en": "Discover this peaceful religious sanctuary tucked slightly away from the bustling center, bringing a moment of calm, and bring your own water as there are no nearby facilities.",
+            "fr": "Découvrez ce paisible sanctuaire religieux légèrement éloigné du centre animé, qui offre un moment de calme ; apportez votre propre eau car il n'y a pas d'installations à proximité."
           }
         }
       ],
@@ -136,7 +146,8 @@
         "de": "Der Morgen beginnt im Herzen von Lorgues, wo Sie in die Geschichte der Templer und das imposante Sarrasinentor eintauchen. Der Mittag ist in die feierliche Anmut der Collégiale getaucht und bietet eine kühle Erholung von der Sonne. Der Nachmittag führt Sie auf einem sanften Spaziergang zur charmanten Kapelle Sainte-Anne, die lokale provenzalische Hingabe offenbart. Der Abend nähert sich, wenn Sie das ruhige Gelände von Saint-Honorat erreichen und diese Erkundungstour perfekt abschließen.",
         "hu": "A reggel Lorgues szívében indul, elmerülve a templomosok történetében és az impozáns Szaracén kapu látványában. A délidőt a hatalmas Collégiale hűvös és ünnepélyes békéje aranyozza be a melegedő mediterrán nap elől. A délután egy kellemes sétát kínál a bájos Sainte-Anne kápolnához, bemutatva a helyi vallási hagyományokat. Az este közeledtével a békés Saint-Honorat területére érkezik, tökéletesen lezárva ezen ősi kisváros gyalogos felfedezését.",
         "ro": "Dimineața începe în inima orașului Lorgues, explorând istoria profundă a prezenței templierilor și impunătoarea Poartă Sarazină. Amiaza este scăldată în grația solemnă a bisericii colegiale, oferind un răgaz răcoros din calea soarelui mediteranean. După-amiaza vă poartă într-o plimbare blândă către fermecătoarea capelă Sainte-Anne, dezvăluind devotamentul provensal. Seara se apropie odată cu atingerea terenurilor liniștite de la Saint-Honorat, încheind o explorare pietonală perfectă.",
-        "en": "Morning starts in the very heart of Lorgues, diving into the deep history of the Templar presence and the imposing Sarrasine Gate. Midday is bathed in the solemn grace of the Collégiale, offering a cool respite from the growing Mediterranean sun. The afternoon takes you on a gentle stroll to the charming Sainte-Anne chapel, revealing local Provençal devotion. Evening approaches as you reach the tranquil grounds of Saint-Honorat, wrapping up a perfect pedestrian exploration of this ancient town."
+        "en": "Morning starts in the very heart of Lorgues, diving into the deep history of the Templar presence and the imposing Sarrasine Gate. Midday is bathed in the solemn grace of the Collégiale, offering a cool respite from the growing Mediterranean sun. The afternoon takes you on a gentle stroll to the charming Sainte-Anne chapel, revealing local Provençal devotion. Evening approaches as you reach the tranquil grounds of Saint-Honorat, wrapping up a perfect pedestrian exploration of this ancient town.",
+        "fr": "La matinée commence au cœur de Lorgues, plongée dans l'histoire profonde de la présence templière et la imposante Porte Sarrasine. À midi, la collégiale baigne dans une grâce solennelle, offrant un frais répit face au soleil méditerranéen croissant. L'après-midi vous emmène pour une douce promenade jusqu'à la charmante chapelle Sainte-Anne, révélant la dévotion locale provençale. Le soir approche lorsque vous atteignez les terrains tranquilles de Saint-Honorat, concluant une parfaite exploration à pied de cette ville ancienne."
       },
       "variants": {
         "rainy": {
@@ -144,7 +155,8 @@
             "de": "Beginnen Sie Ihren regnerischen Spaziergang in Lorgues mit der historischen Fassade der Templer. Gegen Mittag bietet die Stiftskirche Schutz vor dem Regen, wo Sie die Architektur im Trockenen bewundern können. Am Nachmittag geht es vorsichtig über die nassen Pflastersteine zu den Kapellen am Stadtrand. Den feuchten Abend können Sie gemütlich in einer nahegelegenen überdachten Umgebung ausklingen lassen.",
             "hu": "Kezdje esős sétáját Lorgues-ban a történelmi Templomosok fogadójánál, ahol az esőcseppek különös hangulatot adnak a köveknek. Délben a monumentális társaskáptalan nyújt menedéket a záporok elől. Délután óvatosan lépkedjen a csúszós macskaköveken a város széli kápolnák felé, figyelve a lépteire. Az esős estét érdemes egy fedett, barátságos helyen zárni, átmelegedve.",
             "ro": "Începeți plimbarea ploioasă din Lorgues la fațada istorică a Templierilor. La prânz, impresionanta Colegiată vă oferă adăpost împotriva ploii, permițându-vă să-i admirați detaliile în liniște. După-amiaza, pășiți cu grijă pe piatra cubică alunecoasă spre capelele de la marginea orașului. Încheiați seara umedă într-un loc acoperit și primitor din apropiere.",
-            "en": "Start your rainy walk in Lorgues at the historic Templars' Inn facade. By midday, the impressive Collegiate Church provides a welcome shelter from the rain to admire its architecture. In the afternoon, tread carefully on the slippery cobblestones as you head towards the chapels on the outskirts. End the wet evening cozying up in a warm, sheltered spot nearby."
+            "en": "Start your rainy walk in Lorgues at the historic Templars' Inn facade. By midday, the impressive Collegiate Church provides a welcome shelter from the rain to admire its architecture. In the afternoon, tread carefully on the slippery cobblestones as you head towards the chapels on the outskirts. End the wet evening cozying up in a warm, sheltered spot nearby.",
+            "fr": "Commencez votre promenade pluvieuse à Lorgues par la façade historique de l'Auberge des Templiers. À midi, la collégiale impressionnante offre un abri bienvenu contre la pluie pour admirer son architecture. L'après-midi, marchez prudemment sur les pavés glissants en vous dirigeant vers les chapelles en périphérie. Terminez la soirée humide à l'abri, confortablement installé à proximité."
           },
           "stops": [
             {
@@ -152,13 +164,15 @@
                 "de": "Fassade der Templerherberge",
                 "hu": "Templomosok fogadójának homlokzata",
                 "ro": "Fațada hanului templierilor",
-                "en": "Façade of the Templars' Inn"
+                "en": "Façade of the Templars' Inn",
+                "fr": "Façade de l'Auberge des Templiers"
               },
               "tip_5lang": {
                 "de": "Betrachten Sie die alten Steine, die im Regen glänzen, aber denken Sie an einen guten Regenschirm, da es hier in der schmalen Straße keinen trockenen Unterstand gibt.",
                 "hu": "Figyelje meg a vizes kövek gyönyörű színjátékát, de hozzon stabil esernyőt, mert itt az utcán nincs közvetlen fedezék, ahová behúzódhatna a hirtelen zápor elől.",
                 "ro": "Observați culorile minunate ale pietrelor ude, dar asigurați-vă că aveți o umbrelă robustă, deoarece nu există adăpost pentru a vă ascunde de ploaia bruscă aici.",
-                "en": "Observe the ancient stones glistening beautifully in the rain, but make sure to carry a sturdy umbrella as there is no natural shelter to hide under here."
+                "en": "Observe the ancient stones glistening beautifully in the rain, but make sure to carry a sturdy umbrella as there is no natural shelter to hide under here.",
+                "fr": "Observez les pierres anciennes scintiller sous la pluie, mais veillez à emporter un parapluie solide car il n'y a pas d'abri naturel ici."
               }
             },
             {
@@ -166,13 +180,15 @@
                 "de": "Sarrasinentor",
                 "hu": "Szaracén kapu",
                 "ro": "Poarta Sarazină",
-                "en": "Sarrasine Gate"
+                "en": "Sarrasine Gate",
+                "fr": "Porte Sarrasine"
               },
               "tip_5lang": {
                 "de": "Gehen Sie vorsichtig durch dieses massive historische Tor; die nassen, alten Pflastersteine können bei Regenwetter extrem rutschig und tückisch für Fußgänger sein.",
                 "hu": "Óvatosan haladjon át a masszív történelmi kapun; a nedves, ősi macskakövek esős időben rendkívül csúszósak és megtévesztőek lehetnek a gyalogosok számára.",
                 "ro": "Treceți cu mare grijă prin această poartă istorică masivă; pietrele cubice vechi și umede pot fi extrem de alunecoase și periculoase pe timp de ploaie.",
-                "en": "Pass through this massive historic stone gate very carefully; the wet, ancient cobblestones can be extremely slippery and treacherous during rainy weather."
+                "en": "Pass through this massive historic stone gate very carefully; the wet, ancient cobblestones can be extremely slippery and treacherous during rainy weather.",
+                "fr": "Traversez très prudemment cette massive porte historique en pierre ; les pavés anciens et mouillés peuvent être extrêmement glissants et traîtres par temps de pluie."
               }
             },
             {
@@ -180,13 +196,15 @@
                 "de": "Stiftskirche Saint-Martin",
                 "hu": "Saint-Martin társaskáptalan",
                 "ro": "Colegiata Saint-Martin",
-                "en": "Collégiale Saint-Martin"
+                "en": "Collégiale Saint-Martin",
+                "fr": "Collégiale Saint-Martin"
               },
               "tip_5lang": {
                 "de": "Diese riesige Kirche dient als perfekter Zufluchtsort vor starken Regenschauern, wo Sie die atemberaubenden Kunstwerke im Inneren in aller Ruhe und völlig trocken bewundern können.",
                 "hu": "Ez a hatalmas templom tökéletes beltéri menedékként szolgál a heves záporok elől, lehetővé téve, hogy teljesen szárazon, békésen csodálja meg a lenyűgöző belső műalkotásokat.",
                 "ro": "Această biserică uriașă servește drept un refugiu interior perfect împotriva averselor, permițându-vă să admirați în liniște operele de artă în timp ce rămâneți complet uscat.",
-                "en": "This enormous church serves as the perfect indoor refuge from heavy rain showers, allowing you to peacefully admire its stunning interior artworks while staying completely dry."
+                "en": "This enormous church serves as the perfect indoor refuge from heavy rain showers, allowing you to peacefully admire its stunning interior artworks while staying completely dry.",
+                "fr": "Cette immense église constitue le refuge intérieur parfait contre de fortes averses, vous permettant d'admirer paisiblement ses magnifiques œuvres intérieures tout en restant complètement au sec."
               }
             },
             {
@@ -194,13 +212,15 @@
                 "de": "St.-Anna-Kapelle",
                 "hu": "Szent Anna kápolna",
                 "ro": "Capela Sfânta Ana",
-                "en": "Chapelle Sainte-Anne"
+                "en": "Chapelle Sainte-Anne",
+                "fr": "Chapelle Sainte-Anne"
               },
               "tip_5lang": {
                 "de": "Der unbefestigte Weg, der zur Kapelle führt, kann im Regen ziemlich schlammig werden. Wasserdichtes Schuhwerk ist daher dringend zu empfehlen, um diesen Weg zu genießen.",
                 "hu": "A kápolnához vezető burkolatlan ösvény esőben meglehetősen sárossá válhat, ezért masszív, vízálló lábbeli viselete erősen ajánlott ennek a békés szakasznak az élvezetéhez.",
                 "ro": "Poteca neasfaltată care duce spre capelă poate deveni destul de noroioasă pe ploaie, așa că purtarea unor încălțări impermeabile este recomandată pentru această scurtă plimbare.",
-                "en": "The unpaved path leading to the chapel can become quite muddy in the rain, so wearing sturdy waterproof footwear is highly recommended to enjoy this peaceful short stretch."
+                "en": "The unpaved path leading to the chapel can become quite muddy in the rain, so wearing sturdy waterproof footwear is highly recommended to enjoy this peaceful short stretch.",
+                "fr": "Le chemin non revêtu menant à la chapelle peut devenir très boueux sous la pluie, alors le port de chaussures imperméables et solides est fortement recommandé pour profiter de ce court trajet paisible."
               }
             },
             {
@@ -208,13 +228,15 @@
                 "de": "St.-Honorat-Kapelle",
                 "hu": "Szent Honorat kápolna",
                 "ro": "Capela Saint-Honorat",
-                "en": "Chapelle Saint-Honorat"
+                "en": "Chapelle Saint-Honorat",
+                "fr": "Chapelle Saint-Honorat"
               },
               "tip_5lang": {
                 "de": "Suchen Sie praktischen Schutz vor den fallenden Regentropfen unter dem Vordach des Gebäudes und genießen Sie die unglaublich friedliche, regnerische Atmosphäre dieses Ortes.",
                 "hu": "Keressen kényelmes menedéket a hulló esőcseppek elől az épület elülső kiugrója alatt, és szánjon egy percet e szent hely hihetetlenül békés, esős hangulatának élvezetére.",
                 "ro": "Căutați un adăpost convenabil de picăturile de ploaie sub streașina din fața clădirii și luați-vă un moment pentru a vă bucura de atmosfera incredibil de pașnică a acestui loc.",
-                "en": "Seek convenient shelter from the falling raindrops under the building's front overhang, and take a moment to enjoy the incredibly peaceful, rainy atmosphere of this sacred site."
+                "en": "Seek convenient shelter from the falling raindrops under the building's front overhang, and take a moment to enjoy the incredibly peaceful, rainy atmosphere of this sacred site.",
+                "fr": "Cherchez un abri pratique sous le auvent avant de la bâtisse pour échapper aux gouttes, et prenez un instant pour apprécier l'atmosphère incroyablement paisible et pluvieuse de ce lieu sacré."
               }
             }
           ]
@@ -224,7 +246,8 @@
             "de": "Ein Winterspaziergang in Lorgues beginnt frisch an der Fassade der Templerherberge, wo die klare Luft die Details hervorhebt. Mittags bietet die Stiftskirche einen kühlen, aber windgeschützten Ort der Besinnung. Der Nachmittagsspaziergang zu den Kapellen erfordert warme Kleidung, da die Temperaturen schnell sinken. Beenden Sie die Tour vor Einbruch der frühen Dunkelheit gegen 17:00 Uhr in der Stadt.",
             "hu": "A téli séta Lorgues-ban a Templomosok fogadójánál indul, ahol a csípős levegő frissítően hat. Délben a hatalmas társaskáptalan hűvös, de szélvédett teret kínál az elmélkedésre. A délutáni séta a kápolnákhoz meleg rétegeket igényel, ahogy a nap egyre lejjebb ereszkedik. Fejezze be az útvonalat a korai, 17:00 óra körüli sötétedés előtt, visszatérve a városközpontba.",
             "ro": "O plimbare de iarnă în Lorgues începe revigorant la fațada Templierilor, în aerul rece al dimineții. La prânz, Colegiata oferă un spațiu răcoros, dar ferit de vânt pentru reflecție. Plimbarea de după-amiază spre capele necesită haine groase, pe măsură ce soarele coboară. Încheiați turul înainte de lăsarea întunericului, în jurul orei 17:00, întorcându-vă în oraș.",
-            "en": "A winter walk in Lorgues begins briskly at the Templars' Inn facade, where the crisp air highlights its details. By midday, the Collegiate Church offers a cool but wind-protected space for reflection. The afternoon stroll to the chapels requires warm layers as the temperature drops. Finish your route before the early sunset around 17:00, heading back into the town center."
+            "en": "A winter walk in Lorgues begins briskly at the Templars' Inn facade, where the crisp air highlights its details. By midday, the Collegiate Church offers a cool but wind-protected space for reflection. The afternoon stroll to the chapels requires warm layers as the temperature drops. Finish your route before the early sunset around 17:00, heading back into the town center.",
+            "fr": "Une promenade hivernale à Lorgues commence vigoureusement à la façade de l'Auberge des Templiers, où l'air vif fait ressortir les détails. À midi, la collégiale offre un espace frais mais protégé du vent pour la réflexion. La balade de l'après-midi vers les chapelles nécessite des couches chaudes à mesure que la température baisse. Terminez votre circuit avant le coucher du soleil tôt vers 17:00 en retournant au centre-ville."
           },
           "stops": [
             {
@@ -232,13 +255,15 @@
                 "de": "Fassade der Templerherberge",
                 "hu": "Templomosok fogadójának homlokzata",
                 "ro": "Fațada hanului templierilor",
-                "en": "Façade of the Templars' Inn"
+                "en": "Façade of the Templars' Inn",
+                "fr": "Façade de l'Auberge des Templiers"
               },
               "tip_5lang": {
                 "de": "Bewundern Sie die architektonischen Details, die in der klaren Winterluft hervortreten, aber packen Sie sich warm ein, da der Morgenwind, der hier durchweht, bemerkenswert kühl ist.",
                 "hu": "Csodálja meg a téli levegőben élesen kirajzolódó homlokzati részleteket, de öltözzön vastag rétegekbe, mert az itt átsöprő reggeli szél kifejezetten csípős tud lenni.",
                 "ro": "Admirați detaliile complicate ale fațadei care ies în evidență în aerul de iarnă, dar asigurați-vă că vă îmbrăcați gros, deoarece vântul matinal care bate aici este foarte tăios.",
-                "en": "Admire the intricate facade details standing out clearly in the winter air, but be sure to bundle up in thick layers as the morning wind sweeping through here is remarkably crisp."
+                "en": "Admire the intricate facade details standing out clearly in the winter air, but be sure to bundle up in thick layers as the morning wind sweeping through here is remarkably crisp.",
+                "fr": "Admirez les détails complexes de la façade qui ressortent clairement dans l'air hivernal, mais couvrez-vous bien avec des couches épaisses car le vent matinal y est remarquablement vif."
               }
             },
             {
@@ -246,13 +271,15 @@
                 "de": "Sarrasinentor",
                 "hu": "Szaracén kapu",
                 "ro": "Poarta Sarazină",
-                "en": "Sarrasine Gate"
+                "en": "Sarrasine Gate",
+                "fr": "Porte Sarrasine"
               },
               "tip_5lang": {
                 "de": "Dieses massive historische Steintor wirkt im tiefen Winterlicht besonders imposant; treten Sie vorsichtig auf und achten Sie auf möglichen Morgenfrost auf den kalten Pflastersteinen.",
                 "hu": "Ez a masszív történelmi kőkapu különösen lenyűgöző az alacsony téli fényben fürdőzve; lépjen óvatosan, és ügyeljen a hideg macskaköveken esetlegesen kialakuló reggeli fagyra.",
                 "ro": "Această poartă istorică masivă din piatră pare deosebit de impunătoare în lumina joasă a iernii; pășiți cu grijă și fiți atenți la posibila brumă matinală pe pietrele reci.",
-                "en": "This massive historic stone gate looks especially imposing bathed in the low winter light; always step carefully and watch out for potential morning frost on the cold cobbles."
+                "en": "This massive historic stone gate looks especially imposing bathed in the low winter light; always step carefully and watch out for potential morning frost on the cold cobbles.",
+                "fr": "Cette massive porte historique en pierre paraît particulièrement imposante baignée par la faible lumière hivernale ; marchez toujours prudemment et méfiez-vous du gel matinal potentiel sur les pavés froids."
               }
             },
             {
@@ -260,13 +287,15 @@
                 "de": "Stiftskirche Saint-Martin",
                 "hu": "Saint-Martin társaskáptalan",
                 "ro": "Colegiata Saint-Martin",
-                "en": "Collégiale Saint-Martin"
+                "en": "Collégiale Saint-Martin",
+                "fr": "Collégiale Saint-Martin"
               },
               "tip_5lang": {
                 "de": "Das riesige Innere der Stiftskirche bleibt den ganzen Winter über bemerkenswert kalt; es ist sehr ratsam, den dicksten Mantel anzubehalten, während man den schönen Altar studiert.",
                 "hu": "A társaskáptalan hatalmas belseje egész télen figyelemreméltóan hideg marad; erősen ajánlott a legvastagabb kabátot magán tartani, miközben a gyönyörű főoltárt tanulmányozza.",
                 "ro": "Interiorul vast al bisericii colegiate rămâne remarcabil de rece pe tot parcursul iernii; este foarte recomandabil să păstrați haina groasă pe dumneavoastră în timp ce admirați altarul.",
-                "en": "The vast interior of the collegiate church remains remarkably cold throughout winter; it is highly advisable to keep your thickest coat on while studying its beautiful high altar."
+                "en": "The vast interior of the collegiate church remains remarkably cold throughout winter; it is highly advisable to keep your thickest coat on while studying its beautiful high altar.",
+                "fr": "Le vaste intérieur de la collégiale reste remarquablement froid tout l'hiver ; il est fortement conseillé de garder votre manteau le plus épais tout en observant son beau maître-autel."
               }
             },
             {
@@ -274,13 +303,15 @@
                 "de": "St.-Anna-Kapelle",
                 "hu": "Szent Anna kápolna",
                 "ro": "Capela Sfânta Ana",
-                "en": "Chapelle Sainte-Anne"
+                "en": "Chapelle Sainte-Anne",
+                "fr": "Chapelle Sainte-Anne"
               },
               "tip_5lang": {
                 "de": "Die langen Nachmittagsschatten fallen recht früh auf diese kleine Kapelle. Planen Sie Ihren Besuch also so, dass die schwache Wintersonne noch ein wenig tröstliche Wärme spendet.",
                 "hu": "A hosszú délutáni árnyékok meglehetősen korán rávetülnek erre a kis kápolnára, így próbálja úgy időzíteni a látogatást, hogy a gyenge téli nap még nyújtson egy kis megnyugtató meleget.",
                 "ro": "Umbrele lungi ale după-amiezii cad destul de devreme pe această mică capelă, așa că încercați să o vizitați în timp ce soarele slab de iarnă mai oferă o fărâmă de căldură reconfortantă.",
-                "en": "The long afternoon shadows fall quite early onto this small chapel, so try to time your visit nicely while the relatively weak winter sun still provides a tiny bit of comforting warmth."
+                "en": "The long afternoon shadows fall quite early onto this small chapel, so try to time your visit nicely while the relatively weak winter sun still provides a tiny bit of comforting warmth.",
+                "fr": "Les longues ombres de l'après-midi tombent assez tôt sur cette petite chapelle, alors essayez de programmer votre visite pendant que le faible soleil d'hiver procure encore un peu de chaleur réconfortante."
               }
             },
             {
@@ -288,13 +319,15 @@
                 "de": "St.-Honorat-Kapelle",
                 "hu": "Szent Honorat kápolna",
                 "ro": "Capela Saint-Honorat",
-                "en": "Chapelle Saint-Honorat"
+                "en": "Chapelle Saint-Honorat",
+                "fr": "Chapelle Saint-Honorat"
               },
               "tip_5lang": {
                 "de": "Genießen Sie die unglaublich ruhige, stille Winteratmosphäre rund um diese Kapelle und planen Sie Ihren Rückweg ins Zentrum unbedingt ein, bevor gegen 17:00 Uhr die frühe Dämmerung einsetzt.",
                 "hu": "Élvezze a kápolnát körülvevő hihetetlenül csendes, nyugodt téli hangulatot, és mindenképpen tervezze meg a sétát vissza a városközpontba a 17:00 óra körüli korai szürkület beállta előtt.",
                 "ro": "Bucurați-vă de atmosfera de iarnă incredibil de liniștită care înconjoară această capelă și planificați-vă întoarcerea spre centrul orașului cu mult înainte de amurgul de la ora 17:00.",
-                "en": "Fully enjoy the incredibly quiet, still winter atmosphere surrounding this chapel, and be sure to plan your walk back to the town center well before the early dusk sets in around 17:00."
+                "en": "Fully enjoy the incredibly quiet, still winter atmosphere surrounding this chapel, and be sure to plan your walk back to the town center well before the early dusk sets in around 17:00.",
+                "fr": "Profitez pleinement de l'atmosphère hivernale incroyablement calme et immobile qui entoure cette chapelle, et planifiez bien votre retour au centre-ville avant la tombée du crépuscule tôt vers 17:00."
               }
             }
           ]
@@ -314,7 +347,8 @@
             "de": "Fassade der Templerherberge",
             "hu": "Templomosok fogadójának homlokzata",
             "ro": "Fațada hanului templierilor",
-            "en": "Façade of the Templars' Inn"
+            "en": "Façade of the Templars' Inn",
+            "fr": "Façade de l'Auberge des Templiers"
           },
           "coords": [
             6.360645,
@@ -329,7 +363,8 @@
             "de": "Bewundern Sie die steinernen Details dieser mittelalterlichen Templerfassade, die von der Geschichte der Kreuzritter zeugt, aber stellen Sie sich für das beste Foto auf die andere Straßenseite.",
             "hu": "Csodálja meg ennek a középkori templomos fogadónak a kőbe vésett részleteit, amely a keresztes lovagok korát idézi, de a legjobb fotóhoz álljon az utca túloldalára.",
             "ro": "Admirați detaliile din piatră ale acestei fațade medievale a templierilor, o dovadă a istoriei cruciaților, dar stați pe partea opusă a străzii înguste pentru cea mai bună fotografie.",
-            "en": "Admire the ancient stone details of this medieval Templar inn facade, a testament to Lorgues' crusader history, but stand across the narrow street for the best wide-angle photo."
+            "en": "Admire the ancient stone details of this medieval Templar inn facade, a testament to Lorgues' crusader history, but stand across the narrow street for the best wide-angle photo.",
+            "fr": "Admirez les anciens détails en pierre de cette façade médiévale d'auberge templière, témoignage de l'histoire croisée de Lorgues ; placez-vous de l'autre côté de la rue étroite pour la meilleure photo grand-angle."
           }
         },
         {
@@ -337,7 +372,8 @@
             "de": "Stiftskirche Saint-Martin",
             "hu": "Saint-Martin társaskáptalan",
             "ro": "Colegiata Saint-Martin",
-            "en": "Collégiale Saint-Martin"
+            "en": "Collégiale Saint-Martin",
+            "fr": "Collégiale Saint-Martin"
           },
           "coords": [
             6.363005,
@@ -352,7 +388,8 @@
             "de": "Betreten Sie diese riesige Stiftskirche, um die beeindruckende Akustik und den großen Altar zu erleben, aber achten Sie auf die Stille, die während der lokalen Gebetszeiten erbeten wird.",
             "hu": "Lépjen be ebbe a hatalmas társaskáptalani templomba, hogy megtapasztalja lenyűgöző akusztikáját, de tartsa tiszteletben a helyi imák alatt elvárt csendet.",
             "ro": "Pășiți în această biserică colegială masivă pentru a experimenta acustica sa uimitoare și altarul grandios, dar fiți atenți la liniștea cerută în timpul sesiunilor de rugăciune.",
-            "en": "Step inside this massive collegiate church to experience its striking acoustics and grand altar, but be mindful of the silence requested during the ongoing local prayer sessions."
+            "en": "Step inside this massive collegiate church to experience its striking acoustics and grand altar, but be mindful of the silence requested during the ongoing local prayer sessions.",
+            "fr": "Pénétrez dans cette vaste collégiale pour ressentir son acoustique saisissante et son maître-autel imposant, mais respectez le silence demandé pendant les offices locaux en cours."
           }
         },
         {
@@ -360,7 +397,8 @@
             "de": "Sarrasinentor",
             "hu": "Szaracén kapu",
             "ro": "Poarta Sarazină",
-            "en": "Sarrasine Gate"
+            "en": "Sarrasine Gate",
+            "fr": "Porte Sarrasine"
           },
           "coords": [
             6.362002,
@@ -375,7 +413,8 @@
             "de": "Passieren Sie dieses imposante historische Tor, das die Stadt einst vor Invasionen schützte, und achten Sie auf die noch sichtbaren Rillen des Fallgatters in den dicken Steinbögen.",
             "hu": "Haladjon át ezen az impozáns történelmi kapun, amely egykor a várost védte a betörésektől, és figyelje meg a vaskos kőívekben még mindig látható egykori ejtőrács nyomait.",
             "ro": "Treceți prin această poartă istorică impunătoare care proteja odinioară orașul de invazii și priviți cu atenție canelurile porții ghilotină încă vizibile în arcurile groase de piatră.",
-            "en": "Pass through this imposing historical gate that once protected the fortified town from invasions, and look closely at the portcullis grooves still visible in the thick stone arches."
+            "en": "Pass through this imposing historical gate that once protected the fortified town from invasions, and look closely at the portcullis grooves still visible in the thick stone arches.",
+            "fr": "Traversez cette imposante porte historique qui protégeait autrefois la ville fortifiée des invasions, et observez de près les rainures de herse encore visibles dans les épais arcs de pierre."
           }
         },
         {
@@ -383,7 +422,8 @@
             "de": "St.-Honorat-Kapelle",
             "hu": "Szent Honorat kápolna",
             "ro": "Capela Saint-Honorat",
-            "en": "Chapelle Saint-Honorat"
+            "en": "Chapelle Saint-Honorat",
+            "fr": "Chapelle Saint-Honorat"
           },
           "coords": [
             6.365808,
@@ -398,7 +438,8 @@
             "de": "Entdecken Sie dieses friedliche religiöse Heiligtum etwas abseits des geschäftigen Zentrums für einen Moment der Ruhe, und bringen Sie eigenes Wasser mit, da es keine Einrichtungen gibt.",
             "hu": "Fedezze fel ezt a nyüzsgő központtól kissé távolabb eső, békés vallási szentélyt, amely egy pillanatnyi nyugalmat hoz, és hozzon magával vizet, mivel a közelben nincs kút.",
             "ro": "Descoperiți acest sanctuar religios pașnic, ascuns de centrul plin de viață, aducând un moment de calm, și aduceți-vă propria apă, deoarece nu există facilități în apropiere.",
-            "en": "Discover this peaceful religious sanctuary tucked slightly away from the bustling center, bringing a moment of calm, and bring your own water as there are no nearby facilities."
+            "en": "Discover this peaceful religious sanctuary tucked slightly away from the bustling center, bringing a moment of calm, and bring your own water as there are no nearby facilities.",
+            "fr": "Découvrez ce paisible sanctuaire religieux légèrement éloigné du centre animé, offrant un moment de calme ; apportez votre propre eau car il n'y a pas de services à proximité."
           }
         },
         {
@@ -406,7 +447,8 @@
             "de": "Einsiedelei Saint-Ferréol",
             "hu": "Saint-Ferréol remeteség",
             "ro": "Schitul Saint-Ferréol",
-            "en": "Hermitage of Saint-Ferréol"
+            "en": "Hermitage of Saint-Ferréol",
+            "fr": "Ermitage de Saint-Ferréol"
           },
           "coords": [
             6.372019,
@@ -421,7 +463,8 @@
             "de": "Erklimmen Sie den sanften Hügel zu dieser ruhigen Einsiedelei mit weitem Blick über die mediterrane Landschaft, die der perfekte Ort für ein ruhiges Picknick am späten Vormittag ist.",
             "hu": "Mássza meg az enyhe dombot, hogy elérje ezt a békés remeteséget, ahonnan pazar kilátás nyílik a tájra, így ez a tökéletes helyszín egy csendes délelőtti piknikhez.",
             "ro": "Urcați dealul blând pentru a ajunge la acest schit senin care oferă vederi panoramice peste peisajul mediteranean, făcându-l locul perfect pentru un picnic liniștit.",
-            "en": "Climb the gentle hill to reach this serene hermitage offering sweeping views over the Mediterranean landscape, making it the perfect spot for a quiet late-morning picnic break."
+            "en": "Climb the gentle hill to reach this serene hermitage offering sweeping views over the Mediterranean landscape, making it the perfect spot for a quiet late-morning picnic break.",
+            "fr": "Montez la colline douce pour atteindre cet ermitage serein offrant des vues panoramiques sur le paysage méditerranéen, en faisant l'endroit idéal pour un pique-nique tranquille en fin de matinée."
           }
         },
         {
@@ -429,7 +472,8 @@
             "de": "Sauveclare-Wasserfall",
             "hu": "Sauveclare-vízesés",
             "ro": "Cascada Sauveclare",
-            "en": "Cascade de Sauveclare"
+            "en": "Cascade de Sauveclare",
+            "fr": "Cascade de Sauveclare"
           },
           "coords": [
             6.389046,
@@ -444,7 +488,8 @@
             "de": "Machen Sie eine erfrischende Pause an diesem versteckten Wasserfall inmitten üppigen Grüns, und tragen Sie festes Schuhwerk, um sicher über die feuchten, moosbedeckten Felsen zu gehen.",
             "hu": "Tartson egy frissítő pihenőt ennél a buja növényzettel körülvett rejtett vízesésnél, de viseljen masszív cipőt, hogy biztonságosan mozoghasson a csúszós, mohás sziklákon.",
             "ro": "Luați o pauză răcoritoare la această cascadă locală ascunsă, înconjurată de verdeață luxuriantă, și purtați pantofi rezistenți pentru a naviga în siguranță pe rocile alunecoase.",
-            "en": "Take a refreshing break at this hidden local waterfall surrounded by lush greenery, and wear sturdy shoes to safely navigate the sometimes slippery and damp moss-covered rocks."
+            "en": "Take a refreshing break at this hidden local waterfall surrounded by lush greenery, and wear sturdy shoes to safely navigate the sometimes slippery and damp moss-covered rocks.",
+            "fr": "Faites une pause rafraîchissante à cette cascade locale cachée entourée d'une végétation luxuriante, et portez des chaussures solides pour circuler en toute sécurité sur les rochers parfois glissants et couverts de mousse."
           }
         }
       ],
@@ -452,7 +497,8 @@
         "de": "Machen Sie sich auf zwei Rädern auf den Weg, um die zentralen Wahrzeichen leicht mit den weiteren Landschaften zu verbinden. Nach der Erkundung der Templerfassade verspricht der Mittag eine leichte Fahrt an den Stadtrand. Der Nachmittag steigt stetig zur Einsiedelei Saint-Ferréol an, wo ein Panoramablick Ihre Mühen belohnt. Beenden Sie Ihre Radtour mit den erfrischenden Klängen des Sauveclare-Wasserfalls, während das Abendlicht durch die üppigen Bäume fällt.",
         "hu": "Két keréken induljon útnak, hogy könnyedén összekösse a központi történelmi látványosságokat Lorgues tágasabb tájaival. A központi templomos homlokzat és a templom után a délidő kényelmes tekerést kínál. A délután folyamatos emelkedést tartogat a Saint-Ferréol remeteséghez, ahol a panoráma kárpótol a fáradalmakért. Fejezze be kerékpáros útját a Sauveclare-vízesés frissítő hangjaival, ahogy az esti fény átszűrődik a fák sűrű lombjain.",
         "ro": "Porniți pe două roți pentru a conecta cu ușurință reperele istorice centrale cu peisajele mai largi din Lorgues. După explorarea fațadei templiere centrale, amiaza promite o plimbare ușoară spre periferie. După-amiaza urcă constant spre Schitul Saint-Ferréol, unde vederile panoramice vă răsplătesc efortul. Încheiați-vă călătoria cu sunetele răcoritoare ale cascadei Sauveclare, în timp ce lumina serii se filtrează prin copacii luxurianți.",
-        "en": "Set off on two wheels to easily connect the central historical landmarks with the wider landscapes of Lorgues. After exploring the central Templar facade and the towering church, midday promises an easy ride towards the outskirts. The afternoon climbs steadily to the Hermitage of Saint-Ferréol, where rewarding panoramic views await your effort. Finish your biking journey with the refreshing sounds of the Sauveclare waterfall as the evening light filters through the lush trees."
+        "en": "Set off on two wheels to easily connect the central historical landmarks with the wider landscapes of Lorgues. After exploring the central Templar facade and the towering church, midday promises an easy ride towards the outskirts. The afternoon climbs steadily to the Hermitage of Saint-Ferréol, where rewarding panoramic views await your effort. Finish your biking journey with the refreshing sounds of the Sauveclare waterfall as the evening light filters through the lush trees.",
+        "fr": "Partez à vélo pour relier facilement les monuments historiques centraux aux paysages plus larges de Lorgues. Après avoir exploré la façade templière centrale et la collégiale imposante, la mi-journée promet une balade facile vers la périphérie. L'après-midi monte progressivement vers l'Ermitage de Saint-Ferréol, où des vues panoramiques récompensent l'effort. Terminez votre parcours à vélo par les sons rafraîchissants de la cascade de Sauveclare alors que la lumière du soir filtre à travers les arbres luxuriants."
       },
       "variants": {
         "rainy": {
@@ -460,7 +506,8 @@
             "de": "Ihre regnerische Radtour durch Lorgues startet an der Templer-Fassade im leichten Nieselregen. Gegen Mittag erreichen Sie das alte Stadttor, wobei Sie auf den nassen Straßen besonders in den Kurven aufpassen müssen. Nachmittags radeln Sie durch feuchte Landschaften zur Einsiedelei, die im Regen mystisch wirkt. Die Tour endet am Wasserfall, der durch den Regenfall jetzt besonders kraftvoll und wild rauscht.",
             "hu": "Az esős biciklitúra Lorgues-ban a Templomosok homlokzatánál indul a szemerkélő esőben. Dél körül érkezik a régi városkapuhoz, ahol a nedves utakon fokozott óvatosság szükséges a kanyarokban. Délután a nedves tájon át teker a remeteséghez, amely esőben misztikus arcát mutatja. A túra a vízesésnél zárul, amely az esőzés miatt most különösen erőteljesen és vadul zuhatagol.",
             "ro": "Turul ploios cu bicicleta începe la fațada Templierilor, sub o ploaie măruntă. La prânz, ajungeți la vechea poartă a orașului, necesitând prudență pe drumurile umede, mai ales în curbe. După-amiaza, pedalați prin peisajul umed spre schit, care are un aer mistic pe ploaie. Turul se încheie la cascadă, care este acum deosebit de puternică și sălbatică din cauza precipitațiilor.",
-            "en": "Your rainy bike tour starts at the Templars' facade under a light drizzle. By midday, navigate the old city gate with extra caution on the wet, slippery roads, especially around corners. In the afternoon, cycle through the damp landscape to the hermitage, which looks mystical in the rain. The tour ends at the waterfall, which is roaring and exceptionally powerful due to the extra rainfall."
+            "en": "Your rainy bike tour starts at the Templars' facade under a light drizzle. By midday, navigate the old city gate with extra caution on the wet, slippery roads, especially around corners. In the afternoon, cycle through the damp landscape to the hermitage, which looks mystical in the rain. The tour ends at the waterfall, which is roaring and exceptionally powerful due to the extra rainfall.",
+            "fr": "Votre circuit à vélo sous la pluie commence à la façade des Templiers sous une bruine légère. À midi, franchissez la vieille porte de la ville avec une prudence accrue sur les routes mouillées et glissantes, surtout dans les virages. L'après-midi, pédalez à travers le paysage humide jusqu'à l'ermitage, qui prend un aspect mystique sous la pluie. La balade se termine à la cascade, qui rugit et est exceptionnellement puissante en raison des pluies supplémentaires."
           },
           "stops": [
             {
@@ -468,13 +515,15 @@
                 "de": "Fassade der Templerherberge",
                 "hu": "Templomosok fogadójának homlokzata",
                 "ro": "Fațada hanului templierilor",
-                "en": "Façade of the Templars' Inn"
+                "en": "Façade of the Templars' Inn",
+                "fr": "Façade de l'Auberge des Templiers"
               },
               "tip_5lang": {
                 "de": "Machen Sie einen kurzen Fotostopp im Regen am alten Gasthaus. Dies ist der perfekte Moment, um noch einmal zu überprüfen, ob Ihre Regenjacke richtig geschlossen und Ihre Ausrüstung sicher ist.",
                 "hu": "Tartson egy gyors festői fotószünetet az esőben a régi fogadónál; ez a tökéletes pillanat annak ellenőrzésére, hogy az esőkabátja teljesen be van-e húzva, és a felszerelése vízálló-e.",
                 "ro": "Faceți o scurtă oprire foto în ploaie la vechiul han; este momentul perfect pentru a verifica dacă geaca de ploaie este complet închisă și dacă echipamentul este bine impermeabilizat.",
-                "en": "Make a quick scenic photo stop in the rain at the old inn; this is the perfect moment to double-check that your rain jacket is fully zipped up and your gear is securely waterproofed."
+                "en": "Make a quick scenic photo stop in the rain at the old inn; this is the perfect moment to double-check that your rain jacket is fully zipped up and your gear is securely waterproofed.",
+                "fr": "Faites une rapide pause photo pittoresque sous la pluie devant la vieille auberge ; c'est le moment parfait pour vérifier que votre veste imperméable est bien fermée et que votre équipement est correctement protégé."
               }
             },
             {
@@ -482,13 +531,15 @@
                 "de": "Stiftskirche Saint-Martin",
                 "hu": "Saint-Martin társaskáptalan",
                 "ro": "Colegiata Saint-Martin",
-                "en": "Collégiale Saint-Martin"
+                "en": "Collégiale Saint-Martin",
+                "fr": "Collégiale Saint-Martin"
               },
               "tip_5lang": {
                 "de": "Nutzen Sie das massive steinerne Kirchenschiff als wunderbaren, trockenen Zufluchtsort, um sich kurz die Hände aufzuwärmen, bevor Sie sich mutig wieder auf Ihren nassen Fahrradsattel schwingen.",
                 "hu": "Használja a templom masszív kőhajóját csodálatos, száraz menedékként, ahol egy kicsit felmelegítheti a kezét, mielőtt bátran visszaülne az elkerülhetetlenül nedves kerékpárülésre.",
                 "ro": "Folosiți naosul masiv din piatră al bisericii ca un minunat refugiu uscat pentru a vă încălzi scurt mâinile, înainte de a vă urca curajos înapoi pe șaua inevitabil udă a bicicletei.",
-                "en": "Use the massive stone nave of the church as a wonderful dry refuge to warm up your hands briefly, before bravely getting back onto your inevitably wet bicycle seat for the next stretch."
+                "en": "Use the massive stone nave of the church as a wonderful dry refuge to warm up your hands briefly, before bravely getting back onto your inevitably wet bicycle seat for the next stretch.",
+                "fr": "Utilisez la massive nef en pierre de l'église comme un merveilleux refuge sec pour réchauffer brièvement vos mains, avant de remonter sur votre selle inévitablement mouillée pour la suite de l'étape."
               }
             },
             {
@@ -496,13 +547,15 @@
                 "de": "Sarrasinentor",
                 "hu": "Szaracén kapu",
                 "ro": "Poarta Sarazină",
-                "en": "Sarrasine Gate"
+                "en": "Sarrasine Gate",
+                "fr": "Porte Sarrasine"
               },
               "tip_5lang": {
                 "de": "Bremsen Sie unbedingt frühzeitig ab, bevor Sie durch das Tor fahren, da das völlig durchnässte historische Kopfsteinpflaster extrem rutschig und gefährlich für schmale Fahrradreifen ist.",
                 "hu": "Mindenképpen fékezzen időben, mielőtt áthajtana a kapun, mivel a teljesen átázott, történelmi macskaköves burkolat rendkívül csúszós és veszélyes a vékony kerékpárgumik számára.",
                 "ro": "Asigurați-vă că frânați devreme înainte de a trece prin poartă, deoarece pavajul istoric din piatră cubică complet îmbibat este extrem de alunecos și periculos pentru anvelopele subțiri.",
-                "en": "Make absolutely sure to brake early before riding through the gate, as the completely soaked historical cobblestone pavement is extremely slippery and hazardous for thin bicycle tires."
+                "en": "Make absolutely sure to brake early before riding through the gate, as the completely soaked historical cobblestone pavement is extremely slippery and hazardous for thin bicycle tires.",
+                "fr": "Assurez-vous absolument de freiner tôt avant de traverser la porte, car le pavé historique complètement trempé est extrêmement glissant et dangereux pour les pneus fins de vélo."
               }
             },
             {
@@ -510,13 +563,15 @@
                 "de": "St.-Honorat-Kapelle",
                 "hu": "Szent Honorat kápolna",
                 "ro": "Capela Saint-Honorat",
-                "en": "Chapelle Saint-Honorat"
+                "en": "Chapelle Saint-Honorat",
+                "fr": "Chapelle Saint-Honorat"
               },
               "tip_5lang": {
                 "de": "Die dichten, alten Bäume, die die rustikale Kapelle umgeben, bieten einen willkommenen Regenschutz. Ein idealer Ort, um sich kurz von der körperlich anstrengenden, nassen Radtour zu erholen.",
                 "hu": "A rusztikus kápolnát körülvevő sűrű öreg fák némi örvendetes esővédelmet nyújtanak, így ideális hely egy rövid pihenőre a fizikailag is megterhelő, nedves kerékpártúra során.",
                 "ro": "Copacii bătrâni și deși care înconjoară capela rustică oferă o protecție binevenită împotriva ploii, fiind locul ideal pentru o scurtă pauză de la traseul solicitant și umed pe bicicletă.",
-                "en": "The dense old trees naturally surrounding the rustic chapel offer some welcome rain protection, making it an ideal spot to take a short breather from your physically demanding wet bike ride."
+                "en": "The dense old trees naturally surrounding the rustic chapel offer some welcome rain protection, making it an ideal spot to take a short breather from your physically demanding wet bike ride.",
+                "fr": "Les vieux arbres denses entourant naturellement la chapelle rustique offrent une certaine protection contre la pluie, en faisant un endroit idéal pour reprendre brièvement son souffle pendant votre sortie à vélo humide et exigeante."
               }
             },
             {
@@ -524,13 +579,15 @@
                 "de": "Einsiedelei Saint-Ferréol",
                 "hu": "Saint-Ferréol remeteség",
                 "ro": "Schitul Saint-Ferréol",
-                "en": "Hermitage of Saint-Ferréol"
+                "en": "Hermitage of Saint-Ferréol",
+                "fr": "Ermitage de Saint-Ferréol"
               },
               "tip_5lang": {
                 "de": "Der malerische Waldweg, der hierher führt, wird bei starkem Regen spürbar schlammig. Richtige Schutzbleche am Fahrrad sind ein absolutes Muss, um diesen wunderschönen, mystischen Ort zu erreichen.",
                 "hu": "Az ide vezető festői erdei út heves esőzéskor észrevehetően sárossá válik; a megfelelő sárvédők felszerelése a kerékpárra abszolút elengedhetetlen ennek a gyönyörű, misztikus helynek az eléréséhez.",
                 "ro": "Poteca forestieră pitorească care duce aici devine vizibil noroioasă pe ploaie abundentă; aripile adecvate la bicicletă sunt absolut necesare pentru a ajunge la acest loc frumos și mistic.",
-                "en": "The scenic forest path leading up here gets noticeably muddy in heavy rain; installing proper mudguards on your bike is an absolute must-have for reaching this beautifully mystical spot."
+                "en": "The scenic forest path leading up here gets noticeably muddy in heavy rain; installing proper mudguards on your bike is an absolute must-have for reaching this beautifully mystical spot.",
+                "fr": "Le chemin forestier pittoresque qui mène ici devient nettement boueux par fortes pluies ; installer de véritables garde-boues sur votre vélo est absolument indispensable pour atteindre ce lieu magnifiquement mystique."
               }
             },
             {
@@ -538,13 +595,15 @@
                 "de": "Sauveclare-Wasserfall",
                 "hu": "Sauveclare-vízesés",
                 "ro": "Cascada Sauveclare",
-                "en": "Cascade de Sauveclare"
+                "en": "Cascade de Sauveclare",
+                "fr": "Cascade de Sauveclare"
               },
               "tip_5lang": {
                 "de": "Der rauschende Wasserfall ist nach starkem Regen besonders spektakulär und laut. Hüten Sie sich jedoch vor dem rutschigen und schlammigen Naturboden, auf dem Sie Ihr Fahrrad in der Nähe abstellen.",
                 "hu": "A rohanó vízesés heves esőzés után különösen látványos és hangos, de nagyon kell vigyáznia a rendkívül csúszós és sáros természetes talajra, ahol a kerékpárját a közelben leparkolja.",
                 "ro": "Cascada este deosebit de spectaculoasă și zgomotoasă imediat după ploi abundente, dar trebuie să fiți atenți la terenul natural extrem de alunecos și noroios unde vă parcați bicicleta.",
-                "en": "The rushing waterfall is especially spectacular and loud immediately after heavy rain, but you must beware of the exceptionally slippery and muddy natural ground where you park your bicycle nearby."
+                "en": "The rushing waterfall is especially spectacular and loud immediately after heavy rain, but you must beware of the exceptionally slippery and muddy natural ground where you park your bicycle nearby.",
+                "fr": "La cascade est particulièrement spectaculaire et bruyante juste après de fortes pluies, mais attention au sol naturel exceptionnellement glissant et boueux où vous garez votre vélo à proximité."
               }
             }
           ]
@@ -554,7 +613,8 @@
             "de": "Die winterliche Radtour in Lorgues erfordert gute Handschuhe, beginnend im frischen Morgenwind an der Templerherberge. Mittags wärmt Sie die Bewegung auf dem Weg zur Stiftskirche und zum historischen Tor. Am Nachmittag führt die Route in die ruhige, kahle Winternatur zur Einsiedelei, wo die klare Luft herrliche Ausblicke bietet. Erreichen Sie den Wasserfall unbedingt vor 16:30 Uhr, um ihn noch im Tageslicht zu bewundern.",
             "hu": "A téli lorgues-i kerékpártúrához jó kesztyű kell, a friss reggeli szélben a Templomosok fogadójától indulva. Délben a mozgás felmelegít a társaskáptalan és a történelmi kapu felé vezető úton. Délután az útvonal a csendes, kopár téli természetbe, a remeteséghez vezet, ahol a tiszta levegő remek kilátást nyújt. A vízeséshez mindenképp 16:30 előtt érjen, hogy még világosban láthassa.",
             "ro": "Turul de iarnă cu bicicleta în Lorgues necesită mănuși bune, pornind în vântul proaspăt al dimineții de la fațada Templierilor. La prânz, mișcarea vă încălzește pe drumul spre Colegiată și poarta istorică. După-amiaza, traseul duce în natura liniștită și golașă de iarnă spre schit, oferind priveliști clare. Asigurați-vă că ajungeți la cascadă înainte de ora 16:30 pentru a o vedea la lumina zilei.",
-            "en": "The winter bike tour in Lorgues requires warm gloves, starting in the crisp morning wind at the Templars' Inn. By midday, cycling warms you up on the way to the Collegiate Church and the historic gate. In the afternoon, the route takes you into the quiet, bare winter nature to the hermitage, offering clear views. Make sure to reach the waterfall before 16:30 to see it in daylight."
+            "en": "The winter bike tour in Lorgues requires warm gloves, starting in the crisp morning wind at the Templars' Inn. By midday, cycling warms you up on the way to the Collegiate Church and the historic gate. In the afternoon, the route takes you into the quiet, bare winter nature to the hermitage, offering clear views. Make sure to reach the waterfall before 16:30 to see it in daylight.",
+            "fr": "La randonnée à vélo hivernale à Lorgues nécessite des gants chauds, en partant dans le vent frisquet du matin depuis l'Auberge des Templiers. À midi, le vélo vous réchauffe en chemin vers la Collégiale et la porte historique. L'après‑midi, l'itinéraire vous mène dans la nature hivernale calme et dénudée jusqu'à l'ermitage, offrant des vues claires. Veillez à atteindre la cascade avant 16h30 pour la voir en plein jour."
           },
           "stops": [
             {
@@ -562,13 +622,15 @@
                 "de": "Fassade der Templerherberge",
                 "hu": "Templomosok fogadójának homlokzata",
                 "ro": "Fațada hanului templierilor",
-                "en": "Façade of the Templars' Inn"
+                "en": "Façade of the Templars' Inn",
+                "fr": "Façade de l'Auberge des Templiers"
               },
               "tip_5lang": {
                 "de": "Beginnen Sie Ihre Winterradtour in flottem Tempo, um sich aufzuwärmen, und bewundern Sie die alte Fassade, die von der scharfen, tiefstehenden Morgensonne wunderschön beleuchtet wird.",
                 "hu": "Kezdje a túrát élénk tempóban az izmok bemelegítéséhez, és szánjon egy percet az éles, alacsony téli reggeli napsütésben gyönyörűen megvilágított ősi homlokzat megcsodálására.",
                 "ro": "Începeți turul de iarnă cu bicicleta într-un ritm alert pentru a vă încălzi rapid, făcându-vă timp să admirați fațada veche frumos luminată de soarele puternic și jos al dimineții de iarnă.",
-                "en": "Start your winter cycling tour at a fairly brisk pace to warm up your muscles quickly, taking a moment to admire the old facade illuminated beautifully in the sharp, low winter morning sun."
+                "en": "Start your winter cycling tour at a fairly brisk pace to warm up your muscles quickly, taking a moment to admire the old facade illuminated beautifully in the sharp, low winter morning sun.",
+                "fr": "Commencez votre balade hivernale à vélo à un rythme assez soutenu pour réchauffer rapidement les muscles, en prenant un instant pour admirer la vieille façade magnifiquement éclairée par le soleil bas et vif du matin d'hiver."
               }
             },
             {
@@ -576,13 +638,15 @@
                 "de": "Stiftskirche Saint-Martin",
                 "hu": "Saint-Martin társaskáptalan",
                 "ro": "Colegiata Saint-Martin",
-                "en": "Collégiale Saint-Martin"
+                "en": "Collégiale Saint-Martin",
+                "fr": "Collégiale Saint-Martin"
               },
               "tip_5lang": {
                 "de": "Dies ist eine wirklich großartige Gelegenheit, sicher vom Fahrrad abzusteigen und die kalten, steifen Finger gründlich aufzuwärmen, bevor Sie die großartige Architektur der Kirche in Ruhe erkunden.",
                 "hu": "Ez egy igazán remek alkalom arra, hogy leszálljon a kerékpárról, és alaposan felmelegítse dermedt ujjait, mielőtt bemenne, hogy békésen felfedezze a templom lenyűgöző építészetét.",
                 "ro": "O oportunitate excelentă de a coborî de pe bicicletă și de a vă încălzi bine degetele amorțite înainte de a intra pentru a explora în liniște arhitectura grandioasă a bisericii.",
-                "en": "This is a truly great opportunity to safely dismount your bike and thoroughly warm up your cold, stiff fingers before heading inside to peacefully explore the grand architecture of the church."
+                "en": "This is a truly great opportunity to safely dismount your bike and thoroughly warm up your cold, stiff fingers before heading inside to peacefully explore the grand architecture of the church.",
+                "fr": "C'est une excellente occasion de descendre prudemment de votre vélo et de réchauffer soigneusement vos doigts froids et raides avant d'entrer pour explorer paisiblement la grande architecture de l'église."
               }
             },
             {
@@ -590,13 +654,15 @@
                 "de": "Sarrasinentor",
                 "hu": "Szaracén kapu",
                 "ro": "Poarta Sarazină",
-                "en": "Sarrasine Gate"
+                "en": "Sarrasine Gate",
+                "fr": "Porte Sarrasine"
               },
               "tip_5lang": {
                 "de": "Die blasse Wintersonne wirft wunderschön lange, dramatische Schatten durch das Tor; hüten Sie sich immer vor gefährlich versteckten, glatten Eisflächen in diesen kalten, schattigen Bereichen.",
                 "hu": "A sápadt téli nap gyönyörű, hosszú és drámai árnyékokat vet a kapun keresztül; mindig óvakodjon a veszélyesen megbúvó jégfoltoktól ezeken a hideg, árnyékos területeken.",
                 "ro": "Soarele palid de iarnă aruncă umbre lungi și dramatice prin poartă; fiți mereu atenți la peticele de gheață alunecoasă periculos de bine ascunse în acele zone reci și umbrite.",
-                "en": "The pale winter sun casts beautifully long, dramatic shadows entirely through the gate; always beware of dangerously hidden patches of slick ice in those cold shaded areas."
+                "en": "The pale winter sun casts beautifully long, dramatic shadows entirely through the gate; always beware of dangerously hidden patches of slick ice in those cold shaded areas.",
+                "fr": "Le pâle soleil d'hiver projette de longues ombres dramatiques à travers la porte ; méfiez‑vous toujours des plaques de verglas dangereusement dissimulées dans ces zones froides et ombragées."
               }
             },
             {
@@ -604,13 +670,15 @@
                 "de": "St.-Honorat-Kapelle",
                 "hu": "Szent Honorat kápolna",
                 "ro": "Capela Saint-Honorat",
-                "en": "Chapelle Saint-Honorat"
+                "en": "Chapelle Saint-Honorat",
+                "fr": "Chapelle Saint-Honorat"
               },
               "tip_5lang": {
                 "de": "Die völlig kahlen Bäume geben im Winter den Blick auf die abgelegene Kapelle viel besser frei; ziehen Sie Ihren Schal gegen den bemerkenswert kühlen Gegenwind hier deutlich fester zu.",
                 "hu": "A teljesen kopár fák télen sokkal tisztább kilátást engednek az elszigetelt kápolnára; húzza sokkal szorosabbra a sálját az itteni, figyelemreméltóan hűvös ellenszél miatt.",
                 "ro": "Copacii complet golași permit o vedere mult mai clară a capelei izolate iarna; strângeți-vă bine fularul pentru a vă proteja împotriva vântului frontal remarcabil de rece de aici.",
-                "en": "The completely bare trees allow a much clearer view of the isolated chapel in winter; securely pull your scarf much tighter against the remarkably chilly headwinds here."
+                "en": "The completely bare trees allow a much clearer view of the isolated chapel in winter; securely pull your scarf much tighter against the remarkably chilly headwinds here.",
+                "fr": "Les arbres entièrement dénudés permettent une vue beaucoup plus dégagée sur la chapelle isolée en hiver ; resserrez bien votre écharpe contre les vents remarquablement froids ici."
               }
             },
             {
@@ -618,13 +686,15 @@
                 "de": "Einsiedelei Saint-Ferréol",
                 "hu": "Saint-Ferréol remeteség",
                 "ro": "Schitul Saint-Ferréol",
-                "en": "Hermitage of Saint-Ferréol"
+                "en": "Hermitage of Saint-Ferréol",
+                "fr": "Ermitage de Saint-Ferréol"
               },
               "tip_5lang": {
                 "de": "Der körperliche Aufstieg hierher wird Sie zweifellos gut aufwärmen; die atemberaubend einsame Winterlandschaft ist einfach perfekt für eine kurze, tröstliche Pause mit einer heißen Thermoskanne.",
                 "hu": "A fizikai mászás idegesítően kellemesen felmelegíti majd; a lélegzetelállítóan magányos téli táj egyszerűen tökéletes egy gyors, megnyugtató szünetre egy forró termosszal.",
                 "ro": "Urcușul fizic până aici vă va încălzi cu siguranță foarte bine; peisajul de iarnă solitar, care îți taie respirația, este pur și simplu perfect pentru o pauză rapidă cu un termos fierbinte.",
-                "en": "The physical climb up here will undoubtedly warm you up nicely; the breathtakingly solitary winter landscape is simply perfect for a quick, comforting break with a hot thermos."
+                "en": "The physical climb up here will undoubtedly warm you up nicely; the breathtakingly solitary winter landscape is simply perfect for a quick, comforting break with a hot thermos.",
+                "fr": "La montée physique jusqu'ici vous réchauffera sans doute agréablement ; le paysage hivernal étonnamment solitaire est parfait pour une courte pause réconfortante autour d'un thermos chaud."
               }
             },
             {
@@ -632,13 +702,15 @@
                 "de": "Sauveclare-Wasserfall",
                 "hu": "Sauveclare-vízesés",
                 "ro": "Cascada Sauveclare",
-                "en": "Cascade de Sauveclare"
+                "en": "Cascade de Sauveclare",
+                "fr": "Cascade de Sauveclare"
               },
               "tip_5lang": {
                 "de": "Im tiefen Winter ist der Wasserfall sehr oft eiskalt und magisch kristallklar; bitte stellen Sie sicher, dass Sie den bewaldeten Ort sicher weit vor der bemerkenswert frühen Dämmerung verlassen.",
                 "hu": "Télen a lezúduló vízesés gyakran jéghideg és varázslatosan kristálytiszta; gondoskodjon arról, hogy a figyelemreméltóan korai szürkület előtt biztonságosan elhagyja az erdős helyszínt.",
                 "ro": "În miezul iernii, cascada este adesea rece ca gheața și magic de cristalină; asigurați-vă că părăsiți în siguranță zona împădurită cu mult înainte de amurgul remarcabil de timpuriu.",
-                "en": "In deep winter, the cascading waterfall is quite often ice-cold and magically crystal clear; please ensure you safely leave the forested site well before the remarkably early dusk."
+                "en": "In deep winter, the cascading waterfall is quite often ice-cold and magically crystal clear; please ensure you safely leave the forested site well before the remarkably early dusk.",
+                "fr": "En plein hiver, la cascade est souvent glacée et d'un cristal magique ; assurez‑vous de quitter le site forestier en toute sécurité bien avant le crépuscule remarquablement précoce."
               }
             }
           ]
@@ -658,7 +730,8 @@
             "de": "Kapelle Notre-Dame de Benva",
             "hu": "Notre-Dame de Benva kápolna",
             "ro": "Capela Notre-Dame de Benva",
-            "en": "Chapel of Notre-Dame de Benva"
+            "en": "Chapel of Notre-Dame de Benva",
+            "fr": "Chapelle Notre-Dame de Benva"
           },
           "coords": [
             6.336805,
@@ -673,7 +746,8 @@
             "de": "Bestaunen Sie die prächtigen mittelalterlichen Fresken im Inneren dieser Feldkapelle, aber denken Sie an eine kleine Taschenlampe, um die dunkleren bemalten Ecken richtig auszuleuchten.",
             "hu": "Csodálja meg a vidéki kápolna belsejét díszítő csodálatos középkori freskókat, de ne felejtsen el egy kis zseblámpát hozni, hogy a sötétebb festett sarkokat is megvilágíthassa.",
             "ro": "Minunați-vă de frescele medievale magnifice care decorează interiorul acestei capele rurale, dar nu uitați să aduceți o mică lanternă pentru a ilumina colțurile mai întunecate.",
-            "en": "Marvel at the magnificent medieval frescoes decorating the interior of this countryside chapel, but remember to bring a small flashlight to properly illuminate the darker painted corners."
+            "en": "Marvel at the magnificent medieval frescoes decorating the interior of this countryside chapel, but remember to bring a small flashlight to properly illuminate the darker painted corners.",
+            "fr": "Admirez les magnifiques fresques médiévales ornant l'intérieur de cette chapelle rurale, mais pensez à apporter une petite lampe de poche pour éclairer correctement les coins peints plus sombres."
           }
         },
         {
@@ -681,7 +755,8 @@
             "de": "Kapelle Saint-Jaume",
             "hu": "Saint-Jaume kápolna",
             "ro": "Capela Saint-Jaume",
-            "en": "Chapelle Saint-Jaume"
+            "en": "Chapelle Saint-Jaume",
+            "fr": "Chapelle Saint-Jaume"
           },
           "coords": [
             6.328532,
@@ -696,7 +771,8 @@
             "de": "Erkunden Sie diese rustikale Steinkapelle inmitten der Weinberge für ein echtes Stück ländlicher Provence, und parken Sie vorsichtig am staubigen Rand, um den Weg nicht zu blockieren.",
             "hu": "Fedezze fel ezt a szőlőültetvények között megbúvó rusztikus kőkápolnát a vidéki Provence igazi ízéért, és parkoljon óvatosan a poros útpadkán, hogy ne akadályozza a forgalmat.",
             "ro": "Explorați această capelă rustică din piatră ascunsă printre podgorii pentru un adevărat gust al regiunii Provence și parcați cu atenție pe marginea prăfuită pentru a nu bloca drumul.",
-            "en": "Explore this rustic stone chapel nestled among the vineyards for a true taste of rural Provence, and park carefully on the dusty shoulder to avoid blocking the narrow farming lane."
+            "en": "Explore this rustic stone chapel nestled among the vineyards for a true taste of rural Provence, and park carefully on the dusty shoulder to avoid blocking the narrow farming lane.",
+            "fr": "Explorez cette chapelle en pierre rustique nichée parmi les vignes pour un véritable goût de la Provence rurale, et garez‑vous soigneusement sur l'accotement poussiéreux pour éviter de bloquer la petite voie agricole."
           }
         },
         {
@@ -704,7 +780,8 @@
             "de": "Fassade der Templerherberge",
             "hu": "Templomosok fogadójának homlokzata",
             "ro": "Fațada hanului templierilor",
-            "en": "Façade of the Templars' Inn"
+            "en": "Façade of the Templars' Inn",
+            "fr": "Façade de l'Auberge des Templiers"
           },
           "coords": [
             6.360645,
@@ -719,7 +796,8 @@
             "de": "Bewundern Sie die steinernen Details dieser mittelalterlichen Templerfassade, die von der Geschichte der Kreuzritter zeugt, aber stellen Sie sich für das beste Foto auf die andere Straßenseite.",
             "hu": "Csodálja meg ennek a középkori templomos fogadónak a kőbe vésett részleteit, amely a keresztes lovagok korát idézi, de a legjobb fotóhoz álljon az utca túloldalára.",
             "ro": "Admirați detaliile din piatră ale acestei fațade medievale a templierilor, o dovadă a istoriei cruciaților, dar stați pe partea opusă a străzii înguste pentru cea mai bună fotografie.",
-            "en": "Admire the ancient stone details of this medieval Templar inn facade, a testament to Lorgues' crusader history, but stand across the narrow street for the best wide-angle photo."
+            "en": "Admire the ancient stone details of this medieval Templar inn facade, a testament to Lorgues' crusader history, but stand across the narrow street for the best wide-angle photo.",
+            "fr": "Admirez les anciens détails en pierre de la façade médiévale de cette auberge templière, témoignage de l'histoire des croisades à Lorgues, mais placez‑vous de l'autre côté de la rue étroite pour la meilleure photo grand angle."
           }
         },
         {
@@ -727,7 +805,8 @@
             "de": "Stiftskirche Saint-Martin",
             "hu": "Saint-Martin társaskáptalan",
             "ro": "Colegiata Saint-Martin",
-            "en": "Collégiale Saint-Martin"
+            "en": "Collégiale Saint-Martin",
+            "fr": "Collégiale Saint-Martin"
           },
           "coords": [
             6.363005,
@@ -742,7 +821,8 @@
             "de": "Betreten Sie diese riesige Stiftskirche, um die beeindruckende Akustik und den großen Altar zu erleben, aber achten Sie auf die Stille, die während der lokalen Gebetszeiten erbeten wird.",
             "hu": "Lépjen be ebbe a hatalmas társaskáptalani templomba, hogy megtapasztalja lenyűgöző akusztikáját, de tartsa tiszteletben a helyi imák alatt elvárt csendet.",
             "ro": "Pășiți în această biserică colegială masivă pentru a experimenta acustica sa uimitoare și altarul grandios, dar fiți atenți la liniștea cerută în timpul sesiunilor de rugăciune.",
-            "en": "Step inside this massive collegiate church to experience its striking acoustics and grand altar, but be mindful of the silence requested during the ongoing local prayer sessions."
+            "en": "Step inside this massive collegiate church to experience its striking acoustics and grand altar, but be mindful of the silence requested during the ongoing local prayer sessions.",
+            "fr": "Entrez dans cette vaste collégiale pour ressentir son acoustique frappante et son grand autel, mais respectez le silence demandé durant les offices et prières locales en cours."
           }
         },
         {
@@ -750,7 +830,8 @@
             "de": "Sarrasinentor",
             "hu": "Szaracén kapu",
             "ro": "Poarta Sarazină",
-            "en": "Sarrasine Gate"
+            "en": "Sarrasine Gate",
+            "fr": "Porte Sarrasine"
           },
           "coords": [
             6.362002,
@@ -765,7 +846,8 @@
             "de": "Passieren Sie dieses imposante historische Tor, das die Stadt einst vor Invasionen schützte, und achten Sie auf die noch sichtbaren Rillen des Fallgatters in den dicken Steinbögen.",
             "hu": "Haladjon át ezen az impozáns történelmi kapun, amely egykor a várost védte a betörésektől, és figyelje meg a vaskos kőívekben még mindig látható egykori ejtőrács nyomait.",
             "ro": "Treceți prin această poartă istorică impunătoare care proteja odinioară orașul de invazii și priviți cu atenție canelurile porții ghilotină încă vizibile în arcurile groase de piatră.",
-            "en": "Pass through this imposing historical gate that once protected the fortified town from invasions, and look closely at the portcullis grooves still visible in the thick stone arches."
+            "en": "Pass through this imposing historical gate that once protected the fortified town from invasions, and look closely at the portcullis grooves still visible in the thick stone arches.",
+            "fr": "Franchissez cette imposante porte historique qui protégeait autrefois la ville fortifiée des invasions, et observez de près les rainures de herse encore visibles dans les épaisses arches de pierre."
           }
         },
         {
@@ -773,7 +855,8 @@
             "de": "Einsiedelei Saint-Ferréol",
             "hu": "Saint-Ferréol remeteség",
             "ro": "Schitul Saint-Ferréol",
-            "en": "Hermitage of Saint-Ferréol"
+            "en": "Hermitage of Saint-Ferréol",
+            "fr": "Ermitage de Saint-Ferréol"
           },
           "coords": [
             6.372019,
@@ -788,7 +871,8 @@
             "de": "Erklimmen Sie den sanften Hügel zu dieser ruhigen Einsiedelei mit weitem Blick über die mediterrane Landschaft, die der perfekte Ort für ein ruhiges Picknick am späten Vormittag ist.",
             "hu": "Mássza meg az enyhe dombot, hogy elérje ezt a békés remeteséget, ahonnan pazar kilátás nyílik a tájra, így ez a tökéletes helyszín egy csendes délelőtti piknikhez.",
             "ro": "Urcați dealul blând pentru a ajunge la acest schit senin care oferă vederi panoramice peste peisajul mediteranean, făcându-l locul perfect pentru un picnic liniștit.",
-            "en": "Climb the gentle hill to reach this serene hermitage offering sweeping views over the Mediterranean landscape, making it the perfect spot for a quiet late-morning picnic break."
+            "en": "Climb the gentle hill to reach this serene hermitage offering sweeping views over the Mediterranean landscape, making it the perfect spot for a quiet late-morning picnic break.",
+            "fr": "Montez la douce colline pour atteindre cet ermitage serein offrant des vues panoramiques sur le paysage méditerranéen, en faisant l'endroit parfait pour un pique‑nique tranquille en fin de matinée."
           }
         },
         {
@@ -796,7 +880,8 @@
             "de": "Sauveclare-Wasserfall",
             "hu": "Sauveclare-vízesés",
             "ro": "Cascada Sauveclare",
-            "en": "Cascade de Sauveclare"
+            "en": "Cascade de Sauveclare",
+            "fr": "Cascade de Sauveclare"
           },
           "coords": [
             6.389046,
@@ -811,7 +896,8 @@
             "de": "Machen Sie eine erfrischende Pause an diesem versteckten Wasserfall inmitten üppigen Grüns, und tragen Sie festes Schuhwerk, um sicher über die feuchten, moosbedeckten Felsen zu gehen.",
             "hu": "Tartson egy frissítő pihenőt ennél a buja növényzettel körülvett rejtett vízesésnél, de viseljen masszív cipőt, hogy biztonságosan mozoghasson a csúszós, mohás sziklákon.",
             "ro": "Luați o pauză răcoritoare la această cascadă locală ascunsă, înconjurată de verdeață luxuriantă, și purtați pantofi rezistenți pentru a naviga în siguranță pe rocile alunecoase.",
-            "en": "Take a refreshing break at this hidden local waterfall surrounded by lush greenery, and wear sturdy shoes to safely navigate the sometimes slippery and damp moss-covered rocks."
+            "en": "Take a refreshing break at this hidden local waterfall surrounded by lush greenery, and wear sturdy shoes to safely navigate the sometimes slippery and damp moss-covered rocks.",
+            "fr": "Faites une pause rafraîchissante à cette cascade locale cachée entourée d'une végétation luxuriante, et portez des chaussures solides pour naviguer en toute sécurité sur les rochers parfois glissants et couverts de mousse."
           }
         }
       ],
@@ -819,7 +905,8 @@
         "de": "Eine Autotour ermöglicht es Ihnen, die versteckten Juwelen um Lorgues zu entdecken, beginnend mit den atemberaubenden Fresken. Mittags kehren Sie in das historische Stadtzentrum zurück, um die mittelalterlichen Tore zu bestaunen. Die Fahrt am Nachmittag führt Sie zur ruhigen Einsiedelei, die die atemberaubende regionale Topographie zeigt. Bei Einbruch der Dunkelheit bringt Sie eine kurze Fahrt zur kühlenden Oase des Sauveclare-Wasserfalls, wo Sie sich entspannen können.",
         "hu": "Egy autós túra lehetővé teszi, hogy felfedezze a Lorgues környékén elszórt rejtett gyöngyszemeket, kezdve a Notre-Dame de Benva lenyűgöző freskóival. Délre visszatér a történelmi városközpontba, hogy megcsodálja a középkori kapukat. A délutáni vezetés a békés remeteséghez visz, bemutatva a lenyűgöző regionális domborzatot. Ahogy leszáll az este, egy utolsó rövid út a Sauveclare-vízesés hűsítő oázisához vezet a teljes kikapcsolódáshoz.",
         "ro": "Un tur cu mașina vă permite să descoperiți bijuteriile ascunse din jurul orașului Lorgues, începând cu frescele uimitoare. Până la amiază, vă veți întoarce în centrul istoric al orașului pentru a admira porțile medievale. Plimbarea de după-amiază vă duce la schitul liniștit, prezentând topografia regională uimitoare. Odată cu lăsarea serii, o scurtă călătorie finală vă aduce la oaza răcoroasă a cascadei Sauveclare pentru a vă relaxa complet.",
-        "en": "A driving tour allows you to discover the hidden gems scattered around Lorgues, starting with the breathtaking frescoes of Notre-Dame de Benva. By midday, you'll transition back into the historic town center to marvel at the medieval gates and grand collegial church. The afternoon drive takes you up to the serene Hermitage, showcasing the stunning regional topography. As evening falls, a short final drive brings you to the cooling oasis of the Sauveclare waterfall to unwind completely."
+        "en": "A driving tour allows you to discover the hidden gems scattered around Lorgues, starting with the breathtaking frescoes of Notre-Dame de Benva. By midday, you'll transition back into the historic town center to marvel at the medieval gates and grand collegial church. The afternoon drive takes you up to the serene Hermitage, showcasing the stunning regional topography. As evening falls, a short final drive brings you to the cooling oasis of the Sauveclare waterfall to unwind completely.",
+        "fr": "Une visite en voiture vous permet de découvrir les trésors cachés autour de Lorgues, en commençant par les fresques époustouflantes de Notre‑Dame de Benva. À midi, revenez au centre historique pour admirer les portes médiévales et la grande collégiale. L'après‑midi, montez jusqu'à l'ermitage serein pour apprécier la topographie régionale. En soirée, une courte dernière balade vous mène à l'oasis rafraîchissante de la cascade de Sauveclare pour vous détendre complètement."
       },
       "variants": {
         "rainy": {
@@ -827,7 +914,8 @@
             "de": "Ihre verregnete Autotour durch Lorgues bietet den Komfort, zwischen den Zielen trocken zu bleiben. Beginnen Sie mit den Kapellen, die Sie aus der Nähe des Wagens betrachten können. Mittags erkunden Sie das Stadtzentrum, wo Sie immer wieder schnell ins Trockene huschen können, etwa in die große Stiftskirche. Am Nachmittag fahren Sie vorsichtig auf regennassen Landstraßen zum Wasserfall, der durch den Niederschlag ein beeindruckendes Naturschauspiel bietet.",
             "hu": "Az esős autós körút Lorgues-ban azt a kényelmet nyújtja, hogy a célpontok között száraz maradhat. Kezdje a kápolnákkal, amelyeket az autó közeléből is megcsodálhat. Délben fedezze fel a városközpontot, ahol gyorsan száraz helyre húzódhat, például a nagy társaskáptalanba. Délután óvatosan vezessen a csúszós vidéki utakon a vízesés felé, amely a csapadék miatt most lenyűgöző természeti látványt nyújt.",
             "ro": "Turul ploios cu mașina prin Lorgues vă oferă confortul de a rămâne uscat între destinații. Începeți cu capelele, pe care le puteți admira din apropierea mașinii. La prânz, explorați centrul, unde vă puteți adăposti rapid în locuri uscate, cum ar fi marea Colegiată. După-amiaza, conduceți prudent pe drumurile de țară ude spre cascadă, care oferă acum un spectacol natural impresionant datorită ploii.",
-            "en": "Your rainy car tour through Lorgues offers the comfort of staying dry between destinations. Start with the chapels, which you can easily admire from near the car. By midday, explore the town center, quickly ducking into dry shelters like the grand Collegiate Church. In the afternoon, drive carefully on wet country roads towards the waterfall, which puts on an impressive natural display thanks to the rainfall."
+            "en": "Your rainy car tour through Lorgues offers the comfort of staying dry between destinations. Start with the chapels, which you can easily admire from near the car. By midday, explore the town center, quickly ducking into dry shelters like the grand Collegiate Church. In the afternoon, drive carefully on wet country roads towards the waterfall, which puts on an impressive natural display thanks to the rainfall.",
+            "fr": "Votre circuit en voiture sous la pluie à travers Lorgues offre le confort de rester au sec entre les étapes. Commencez par les chapelles, que vous pouvez facilement admirer depuis près de la voiture. À midi, explorez le centre-ville en vous réfugiant rapidement dans des abris secs comme la grande Collégiale. L'après‑midi, conduisez prudemment sur les routes de campagne mouillées vers la cascade, qui offre un spectacle naturel impressionnant grâce aux précipitations."
           },
           "stops": [
             {
@@ -835,13 +923,15 @@
                 "de": "Kapelle Notre-Dame de Benva",
                 "hu": "Notre-Dame de Benva kápolna",
                 "ro": "Capela Notre-Dame de Benva",
-                "en": "Chapel of Notre-Dame de Benva"
+                "en": "Chapel of Notre-Dame de Benva",
+                "fr": "Chapelle Notre-Dame de Benva"
               },
               "tip_5lang": {
                 "de": "Sie können Ihr Auto bequem fast direkt davor parken, was bei starkem Regen absolut ideal ist, um die alten Außenfresken zu bewundern, ohne völlig durchnässt zu werden.",
                 "hu": "Autójával kényelmesen, szinte közvetlenül az épület előtt parkolhat, ami heves esőzés idején abszolút ideális az ősi külső freskók megcsodálására anélkül, hogy teljesen elázna.",
                 "ro": "Vă puteți parca mașina convenabil aproape direct în față, ceea ce este absolut ideal pe ploaie abundentă pentru a admira frescele exterioare antice fără a vă uda complet.",
-                "en": "You can conveniently park your car almost directly in front, which is absolutely ideal in the heavy rain for admiring the ancient exterior frescoes without getting completely soaked."
+                "en": "You can conveniently park your car almost directly in front, which is absolutely ideal in the heavy rain for admiring the ancient exterior frescoes without getting completely soaked.",
+                "fr": "Vous pouvez vous garer pratiquement juste devant, ce qui est idéal sous la forte pluie pour admirer les fresques extérieures sans être complètement trempé."
               }
             },
             {
@@ -849,13 +939,15 @@
                 "de": "Kapelle Saint-Jaume",
                 "hu": "Saint-Jaume kápolna",
                 "ro": "Capela Saint-Jaume",
-                "en": "Chapelle Saint-Jaume"
+                "en": "Chapelle Saint-Jaume",
+                "fr": "Chapelle Saint-Jaume"
               },
               "tip_5lang": {
                 "de": "Der ländliche Boden kann hier sehr schnell extrem schlammig werden; nutzen Sie Ihren großen Autoschirm und bleiben Sie strikt auf den befestigten Wegen direkt um die kleine Kapelle.",
                 "hu": "A vidéki talaj itt gyorsan rendkívül sárossá válhat; használja a nagy autós esernyőjét, és szigorúan maradjon a kis kápolna közvetlen közelében lévő kövezett ösvényeken.",
                 "ro": "Terenul rural de aici poate deveni rapid extrem de noroios; folosiți umbrela mare de mașină și rămâneți strict pe cărările pavate situate direct în jurul micii capele.",
-                "en": "The rural ground outside here can rapidly become extremely muddy; use your large car umbrella and stick strictly to the paved pathways directly around the small chapel."
+                "en": "The rural ground outside here can rapidly become extremely muddy; use your large car umbrella and stick strictly to the paved pathways directly around the small chapel.",
+                "fr": "Le sol rural à l'extérieur peut devenir rapidement extrêmement boueux ; utilisez votre grand parapluie de voiture et tenez‑vous strictement sur les chemins pavés autour de la petite chapelle."
               }
             },
             {
@@ -863,13 +955,15 @@
                 "de": "Fassade der Templerherberge",
                 "hu": "Templomosok fogadójának homlokzata",
                 "ro": "Fațada hanului templierilor",
-                "en": "Façade of the Templars' Inn"
+                "en": "Façade of the Templars' Inn",
+                "fr": "Façade de l'Auberge des Templiers"
               },
               "tip_5lang": {
                 "de": "Betrachten Sie die charmante, regennasse Fassade ganz in Ruhe aus dem trockenen Komfort Ihres beheizten Autos, bevor Sie vorsichtig zum zentralen Parkplatz der Stadt weiterfahren.",
                 "hu": "Lassan figyelje meg a bájos, esőtől csillogó homlokzatot egyenesen a fűtött autója száraz kényelméből, mielőtt óvatosan továbbhajtana a városközpont központi parkolójába.",
                 "ro": "Observați încet fațada fermecătoare, alunecoasă din cauza ploii, direct din confortul uscat al mașinii încălzite, înainte de a conduce cu grijă spre parcarea centrală a orașului.",
-                "en": "Slowly observe the charming rain-slicked facade straight from the dry comfort of your heated car before carefully driving on to the central town parking area."
+                "en": "Slowly observe the charming rain-slicked facade straight from the dry comfort of your heated car before carefully driving on to the central town parking area.",
+                "fr": "Observez lentement la charmante façade luisante de pluie depuis le confort sec et chauffé de votre voiture avant de reprendre prudemment la route vers le parking central."
               }
             },
             {
@@ -877,13 +971,15 @@
                 "de": "Stiftskirche Saint-Martin",
                 "hu": "Saint-Martin társaskáptalan",
                 "ro": "Colegiata Saint-Martin",
-                "en": "Collégiale Saint-Martin"
+                "en": "Collégiale Saint-Martin",
+                "fr": "Collégiale Saint-Martin"
               },
               "tip_5lang": {
                 "de": "Parken Sie in der Nähe und huschen Sie schnell hinein; die monumentale Kirche ist ein wunderbar trockener, architektonischer Zufluchtsort bei jedem plötzlichen, starken Regenguss.",
                 "hu": "Parkoljon viszonylag közel, és tegyen egy gyors, energikus sprintet befelé; a monumentális templom csodálatosan lenyűgöző, száraz építészeti menedék a hirtelen, heves felhőszakadások idején.",
                 "ro": "Parcați rezonabil de aproape și faceți un sprint rapid înăuntru; biserica monumentală este un refugiu arhitectural magnific și complet uscat în timpul oricăror averse bruște și puternice.",
-                "en": "Park reasonably nearby and make a quick, energetic dash inside; the monumental church is a wonderfully magnificent, dry architectural refuge during any sudden, heavy downpours."
+                "en": "Park reasonably nearby and make a quick, energetic dash inside; the monumental church is a wonderfully magnificent, dry architectural refuge during any sudden, heavy downpours.",
+                "fr": "Garez‑vous à une distance raisonnable et précipitez‑vous rapidement à l'intérieur ; la monumentale église est un refuge architectural sec et magnifique lors des fortes averses soudaines."
               }
             },
             {
@@ -891,13 +987,15 @@
                 "de": "Sarrasinentor",
                 "hu": "Szaracén kapu",
                 "ro": "Poarta Sarazină",
-                "en": "Sarrasine Gate"
+                "en": "Sarrasine Gate",
+                "fr": "Porte Sarrasine"
               },
               "tip_5lang": {
                 "de": "Ein recht kurzer Spaziergang mit einem Regenschirm vom Parkplatz reicht vollkommen aus, aber seien Sie beim Betreten des extrem rutschigen historischen Kopfsteinpflasters besonders vorsichtig.",
                 "hu": "Egy meglehetősen rövid, esernyős séta a parkolótól tökéletesen elegendő, de legyen kivételesen óvatos, amikor a rendkívül csúszós, történelmi macskakövekre lép.",
                 "ro": "O plimbare destul de scurtă cu umbrela de la parcare este perfect suficientă, dar fiți extrem de atenți când pășiți pe pietrele cubice istorice care devin foarte alunecoase.",
-                "en": "A rather short walk carrying an umbrella from the parking lot is perfectly enough, but be exceptionally careful stepping on the highly slippery historical cobblestones."
+                "en": "A rather short walk carrying an umbrella from the parking lot is perfectly enough, but be exceptionally careful stepping on the highly slippery historical cobblestones.",
+                "fr": "Une courte marche avec un parapluie depuis le parking suffit amplement, mais soyez exceptionnellement prudent en marchant sur les pavés historiques très glissants."
               }
             },
             {
@@ -905,13 +1003,15 @@
                 "de": "Einsiedelei Saint-Ferréol",
                 "hu": "Saint-Ferréol remeteség",
                 "ro": "Schitul Saint-Ferréol",
-                "en": "Hermitage of Saint-Ferréol"
+                "en": "Hermitage of Saint-Ferréol",
+                "fr": "Ermitage de Saint-Ferréol"
               },
               "tip_5lang": {
                 "de": "Die kurvige Zufahrtsstraße, die tief in den Wald führt, kann bei Regen überraschend rutschig sein; fahren Sie sehr langsam und genießen Sie die mystische, nasse Waldatmosphäre von drinnen.",
                 "hu": "A mély erdőbe ereszkedő, kanyargós bekötőút meglepően csúszós lehet esőben; vezessen nagyon lassan, és belülről élvezze a mélyen misztikus, nedves erdei hangulatot.",
                 "ro": "Drumul de acces curbat care coboară în pădurea adâncă poate fi surprinzător de alunecos pe ploaie; conduceți foarte încet și bucurați-vă de atmosfera mistică din interior.",
-                "en": "The curving access road diving into the deep forest can be surprisingly slippery in the rain; drive very slowly and fully enjoy the deeply mystical, wet woodland vibe from inside."
+                "en": "The curving access road diving into the deep forest can be surprisingly slippery in the rain; drive very slowly and fully enjoy the deeply mystical, wet woodland vibe from inside.",
+                "fr": "La route d'accès sinueuse plongeant dans la forêt profonde peut être étonnamment glissante sous la pluie ; conduisez très lentement et profitez pleinement de l'ambiance forestière humide et profondément mystique depuis l'intérieur du véhicule."
               }
             },
             {
@@ -919,13 +1019,15 @@
                 "de": "Sauveclare-Wasserfall",
                 "hu": "Sauveclare-vízesés",
                 "ro": "Cascada Sauveclare",
-                "en": "Cascade de Sauveclare"
+                "en": "Cascade de Sauveclare",
+                "fr": "Cascade de Sauveclare"
               },
               "tip_5lang": {
                 "de": "Der sehr kurze Fußweg, der von Ihrem geparkten Auto hinunter zum eigentlichen Wasserfall führt, ist nass und furchtbar schlammig. Sie müssen hierfür unbedingt wasserdichte Schuhe tragen.",
                 "hu": "A parkoló autótól a tényleges vízeséshez vezető, nagyon rövid gyalogút nedves és borzasztóan sáros, ezért ehhez a szakaszhoz feltétlenül megfelelő vízálló cipőt kell viselnie.",
                 "ro": "Scurta potecă pietonală care duce de la mașina parcată jos, la cascada propriu-zisă, este umedă și groaznic de noroioasă, așa că trebuie neapărat să purtați pantofi impermeabili adecvați.",
-                "en": "The very short walking path leading from your parked car down to the actual waterfall is wet and terribly muddy, so you definitely must wear proper waterproof shoes for this."
+                "en": "The very short walking path leading from your parked car down to the actual waterfall is wet and terribly muddy, so you definitely must wear proper waterproof shoes for this.",
+                "fr": "Le très court sentier piéton menant depuis votre voiture garée jusqu'à la cascade est humide et terriblement boueux, vous devez donc absolument porter des chaussures imperméables appropriées."
               }
             }
           ]
@@ -935,7 +1037,8 @@
             "de": "Eine winterliche Autotour in Lorgues ist sehr angenehm, da die Heizung Sie wärmt. Der Morgen beginnt frisch bei den abgelegenen Kapellen. Mittags parken Sie im Zentrum und genießen die klare Winterluft bei der Stiftskirche und dem alten Tor. Nachmittags fahren Sie durch die frostige Natur zur Einsiedelei. Da es im Winter bereits gegen 17:00 Uhr dunkel wird, sollten Sie den Wasserfall als letztes Highlight frühzeitig bei Tageslicht besuchen.",
             "hu": "A téli autós túra Lorgues-ban rendkívül kényelmes a kellemes fűtésnek köszönhetően. A reggel frissen indul a távolabbi kápolnáknál. Délben parkoljon le a központban, és élvezze a tiszta téli levegőt a társaskáptalannál és a régi kapunál. Délután a fagyos természeten át vezet az út a remeteséghez. Mivel télen már 17:00 körül sötétedik, a vízesést, mint utolsó látványosságot, még korán, nappali fénynél keresse fel.",
             "ro": "Un tur de iarnă cu mașina în Lorgues este foarte plăcut datorită căldurii din interior. Dimineața începe răcoros la capelele izolate. La prânz, parcați în centru și bucurați-vă de aerul curat la Colegiată și poarta veche. După-amiaza, conduceți prin natura înghețată spre schit. Deoarece iarna se întunecă în jur de ora 17:00, ar trebui să vizitați cascada, ca ultim punct de atracție, devreme pe lumina zilei.",
-            "en": "A winter car tour in Lorgues is very comfortable thanks to the warm heater. The morning starts briskly at the remote chapels. By midday, park in the center to enjoy the crisp winter air at the Collegiate Church and the old gate. In the afternoon, drive through the frosty nature to the hermitage. Since it gets dark around 17:00 in winter, be sure to visit the waterfall as your final highlight early in the daylight."
+            "en": "A winter car tour in Lorgues is very comfortable thanks to the warm heater. The morning starts briskly at the remote chapels. By midday, park in the center to enjoy the crisp winter air at the Collegiate Church and the old gate. In the afternoon, drive through the frosty nature to the hermitage. Since it gets dark around 17:00 in winter, be sure to visit the waterfall as your final highlight early in the daylight.",
+            "fr": "Une visite hivernale en voiture à Lorgues est très confortable grâce au chauffage. La matinée commence vigoureusement aux chapelles isolées. À midi, garez‑vous au centre pour profiter de l'air frais d'hiver à la Collégiale et à la vieille porte. L'après‑midi, traversez la nature givrée jusqu'à l'ermitage. Comme la nuit tombe vers 17h00 en hiver, assurez‑vous de visiter la cascade en dernier et tôt dans la journée."
           },
           "stops": [
             {
@@ -943,13 +1046,15 @@
                 "de": "Kapelle Notre-Dame de Benva",
                 "hu": "Notre-Dame de Benva kápolna",
                 "ro": "Capela Notre-Dame de Benva",
-                "en": "Chapel of Notre-Dame de Benva"
+                "en": "Chapel of Notre-Dame de Benva",
+                "fr": "Chapelle Notre-Dame de Benva"
               },
               "tip_5lang": {
                 "de": "Ein sehr kurzer, bewusst kühler Schritt aus Ihrem schön aufgewärmten Auto lohnt sich wirklich, um die alten Fresken völlig allein in der eisigen, ruhigen Winterluft aus der Nähe zu bewundern.",
                 "hu": "Egy nagyon rövid, szándékosan hűvös kilépés a kellemesen felmelegített autóból igazán megéri, hogy a fagyos, csendes téli levegőben teljesen egyedül, testközelből csodálja meg az ősi freskókat.",
                 "ro": "Un pas foarte scurt și intenționat de răcoros din mașina plăcut încălzită merită din plin pentru a admira îndeaproape frescele antice, complet singur, în aerul înghețat și liniștit de iarnă.",
-                "en": "A very short, deliberately chilly step out of your nicely warmed car is genuinely well worth it to intimately admire the ancient frescoes completely alone in the freezing, quiet winter air."
+                "en": "A very short, deliberately chilly step out of your nicely warmed car is genuinely well worth it to intimately admire the ancient frescoes completely alone in the freezing, quiet winter air.",
+                "fr": "Un très court pas délibérément froid hors de votre voiture bien chauffée vaut vraiment la peine pour admirer intimement les fresques anciennes, seul dans l'air glacé et silencieux de l'hiver."
               }
             },
             {
@@ -957,13 +1062,15 @@
                 "de": "Kapelle Saint-Jaume",
                 "hu": "Saint-Jaume kápolna",
                 "ro": "Capela Saint-Jaume",
-                "en": "Chapelle Saint-Jaume"
+                "en": "Chapelle Saint-Jaume",
+                "fr": "Chapelle Saint-Jaume"
               },
               "tip_5lang": {
                 "de": "Lassen Sie die komfortable Autoheizung ständig laufen, damit Sie sich nach einem ausgesprochen frostigen, malerischen Spaziergang rund um diese charmante kleine Kapelle schnell aufwärmen können.",
                 "hu": "Működtesse folyamatosan a kényelmes autófűtést, hogy azonnal gyorsan felmelegíthesse a testét, miután tett egy kifejezetten fagyos, festői sétát teljesen körbe ezen a bájos kis kápolnán.",
                 "ro": "Lăsați încălzirea confortabilă a mașinii să meargă constant pentru a vă asigura că vă puteți încălzi rapid corpul imediat după ce faceți o plimbare pitorească și geroasă în jurul acestei capele.",
-                "en": "Keep the comfortable car heater running constantly to ensure you can warm your body up rapidly right after taking a decidedly frosty scenic walk entirely around this charming little chapel."
+                "en": "Keep the comfortable car heater running constantly to ensure you can warm your body up rapidly right after taking a decidedly frosty scenic walk entirely around this charming little chapel.",
+                "fr": "Maintenez le chauffage confortable de la voiture en marche pour pouvoir vous réchauffer rapidement juste après une promenade décidément fraîche autour de cette charmante petite chapelle."
               }
             },
             {
@@ -971,13 +1078,15 @@
                 "de": "Fassade der Templerherberge",
                 "hu": "Templomosok fogadójának homlokzata",
                 "ro": "Fațada hanului templierilor",
-                "en": "Façade of the Templars' Inn"
+                "en": "Façade of the Templars' Inn",
+                "fr": "Façade de l'Auberge des Templiers"
               },
               "tip_5lang": {
                 "de": "Bleiben Sie in Ihrem Fahrzeug im Warmen, um die architektonischen Details zu bewundern, die durch den unglaublich flachen, durchdringenden Winkel der tiefen Wintersonne hervorgehoben werden.",
                 "hu": "Maradjon melegben a járművében, és csodálja meg a kiváló építészeti részleteket, amelyeket gyönyörűen és drámaian emel ki a télközépi nap hihetetlenül alacsony, átható és éles szöge.",
                 "ro": "Rămâneți la căldură în vehicul pentru a admira detaliile arhitecturale rafinate, care sunt frumos și dramatic evidențiate de unghiul incredibil de jos și pătrunzător al soarelui de iarnă de aici.",
-                "en": "Stay warm inside your vehicle to admire the exquisite architectural details, which are beautifully and dramatically highlighted by the incredibly low, piercing angle of the mid-winter sun here."
+                "en": "Stay warm inside your vehicle to admire the exquisite architectural details, which are beautifully and dramatically highlighted by the incredibly low, piercing angle of the mid-winter sun here.",
+                "fr": "Restez au chaud à l'intérieur de votre véhicule pour admirer les détails architecturaux exquis, magnifiquement et dramatiquement mis en valeur par l'angle incroyablement bas du soleil du plein hiver."
               }
             },
             {
@@ -985,13 +1094,15 @@
                 "de": "Stiftskirche Saint-Martin",
                 "hu": "Saint-Martin társaskáptalan",
                 "ro": "Colegiata Saint-Martin",
-                "en": "Collégiale Saint-Martin"
+                "en": "Collégiale Saint-Martin",
+                "fr": "Collégiale Saint-Martin"
               },
               "tip_5lang": {
                 "de": "Das außergewöhnlich weite, steinerne Innere der Stiftskirche fühlt sich fast wie ein Kühlschrank an; ziehen Sie unbedingt Ihren dicksten Wintermantel an, bevor Sie das Auto verlassen.",
                 "hu": "A társaskáptalan kivételesen hatalmas kőbelsője szinte pontosan olyan, mint egy hűtőszekrény; mindenképpen vegye fel a legvastagabb téli kabátját, mielőtt magabiztosan elhagyja a fűtött autót.",
                 "ro": "Interiorul din piatră excepțional de vast al bisericii colegiate se simte previzibil aproape exact ca un frigider; asigurați-vă că vă puneți cea mai groasă haină înainte de a părăsi mașina.",
-                "en": "The exceptionally vast stone interior of the collegiate church predictably feels almost exactly like a refrigerator; make sure to put on your thickest winter coat before confidently leaving the car."
+                "en": "The exceptionally vast stone interior of the collegiate church predictably feels almost exactly like a refrigerator; make sure to put on your thickest winter coat before confidently leaving the car.",
+                "fr": "L'intérieur exceptionnellement vaste en pierre de la collégiale donne presque l'impression d'un réfrigérateur ; assurez‑vous d'enfiler votre manteau d'hiver le plus épais avant de quitter le véhicule."
               }
             },
             {
@@ -999,13 +1110,15 @@
                 "de": "Sarrasinentor",
                 "hu": "Szaracén kapu",
                 "ro": "Poarta Sarazină",
-                "en": "Sarrasine Gate"
+                "en": "Sarrasine Gate",
+                "fr": "Porte Sarrasine"
               },
               "tip_5lang": {
                 "de": "Die massiven alten Steine strahlen aggressiv die tiefe Winterkälte aus; ein Fotostopp reicht absolut aus, bevor Sie sich in einem wunderbar gemütlichen, beheizten Café in der Nähe schnell aufwärmen.",
                 "hu": "A hatalmas ősi kövek ontják magukból a mély téli hideget; egy gyors fotószünet abszolút elegendő, mielőtt gyorsan felmelegedne egy csodálatosan hangulatos, fűtött közeli kávézóban.",
                 "ro": "Pietrele antice masive radiază puternic frigul iernii; o scurtă oprire foto este absolut suficientă înainte de a vă încălzi rapid într-o cafenea minunată, confortabilă și încălzită din apropiere.",
-                "en": "The massive ancient stones aggressively radiate the deep winter cold; a remarkably quick photo stop is absolutely enough before rapidly warming yourself up in a wonderfully cozy, heated nearby café."
+                "en": "The massive ancient stones aggressively radiate the deep winter cold; a remarkably quick photo stop is absolutely enough before rapidly warming yourself up in a wonderfully cozy, heated nearby café.",
+                "fr": "Les énormes pierres anciennes rayonnent profondément le froid hivernal ; un arrêt photo remarquablement bref suffit avant de vous réchauffer rapidement dans un café chauffé et accueillant à proximité."
               }
             },
             {
@@ -1013,13 +1126,15 @@
                 "de": "Einsiedelei Saint-Ferréol",
                 "hu": "Saint-Ferréol remeteség",
                 "ro": "Schitul Saint-Ferréol",
-                "en": "Hermitage of Saint-Ferréol"
+                "en": "Hermitage of Saint-Ferréol",
+                "fr": "Ermitage de Saint-Ferréol"
               },
               "tip_5lang": {
                 "de": "Der kurvige Waldweg kann im Winter unerwartet mit glattem Frost bedeckt sein; fahren Sie mit äußerster Vorsicht und öffnen Sie kurz ein Fenster, um die absolute, durchdringende Stille zu genießen.",
                 "hu": "A kanyargós erdei földutat mély télen váratlanul sűrű, csúszós zúzmara boríthatja; szigorúan extrém óvatossággal vezessen, és húzza le az ablakot, hogy igazán élvezze az abszolút, átható csendet.",
                 "ro": "Drumul forestier șerpuitor poate fi pe neașteptate acoperit de brumă alunecoasă iarna; conduceți cu extremă prudență și deschideți un geam pentru a vă bucura de liniștea absolută și pătrunzătoare.",
-                "en": "The winding forest dirt road may unexpectedly be heavily covered in slick frost in deep winter; strictly drive with extreme caution and roll down a window to truly enjoy the absolute, piercing silence."
+                "en": "The winding forest dirt road may unexpectedly be heavily covered in slick frost in deep winter; strictly drive with extreme caution and roll down a window to truly enjoy the absolute, piercing silence.",
+                "fr": "La route forestière sinueuse peut être recouverte de gel glissant en plein hiver ; conduisez avec une extrême prudence et baissez la fenêtre pour apprécier le silence absolu et perçant."
               }
             },
             {
@@ -1027,13 +1142,15 @@
                 "de": "Sauveclare-Wasserfall",
                 "hu": "Sauveclare-vízesés",
                 "ro": "Cascada Sauveclare",
-                "en": "Cascade de Sauveclare"
+                "en": "Cascade de Sauveclare",
+                "fr": "Cascade de Sauveclare"
               },
               "tip_5lang": {
                 "de": "Die blasse Wintersonne verschwindet hier recht früh hinter den hohen Bäumen; besuchen Sie den lauten Wasserfall unbedingt, bevor die tiefkalte Dämmerung für die lange Winternacht endgültig einsetzt.",
                 "hu": "A sápadt téli nap itt meglehetősen korán eltűnik a magas fák mögött; mindenképpen látogassa meg a hangos vízesést jóval azelőtt, hogy a mélyen fagyos szürkület végleg beállna a hosszú téli éjszakára.",
                 "ro": "Soarele palid de iarnă dispare destul de devreme în spatele copacilor înalți; asigurați-vă că vizitați cascada zgomotoasă cu mult înainte ca amurgul profund și rece să se instaleze pentru noaptea lungă.",
-                "en": "The pale winter sun disappears quite early behind the tall trees here; be absolutely sure to visit the loud waterfall well before the deeply chilling dusk permanently sets in for the lengthy winter night."
+                "en": "The pale winter sun disappears quite early behind the tall trees here; be absolutely sure to visit the loud waterfall well before the deeply chilling dusk permanently sets in for the lengthy winter night.",
+                "fr": "Le pâle soleil d'hiver disparaît assez tôt derrière les grands arbres ici ; soyez absolument sûr de visiter la cascade bruyante bien avant le crépuscule profondément glacial qui annonce la longue nuit d'hiver."
               }
             }
           ]

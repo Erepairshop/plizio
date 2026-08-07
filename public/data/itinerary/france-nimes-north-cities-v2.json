@@ -21,7 +21,8 @@
             "de": "Esplanade Charles-de-Gaulle",
             "hu": "Esplanade Charles-de-Gaulle",
             "ro": "Esplanade Charles-de-Gaulle",
-            "en": "Esplanade Charles-de-Gaulle"
+            "en": "Esplanade Charles-de-Gaulle",
+            "fr": "Esplanade Charles-de-Gaulle"
           },
           "coords": [
             4.363,
@@ -36,7 +37,8 @@
             "de": "Blick auf den Pradier-Brunnen.",
             "hu": "Nézd meg a Pradier-szökőkutat.",
             "ro": "Admirați fântâna Pradier.",
-            "en": "Check out the Pradier Fountain."
+            "en": "Check out the Pradier Fountain.",
+            "fr": "Admirez la fontaine Pradier."
           }
         },
         {
@@ -44,7 +46,8 @@
             "de": "Arènes de Nîmes",
             "hu": "Nîmes-i Aréna",
             "ro": "Amfiteatrul din Nîmes",
-            "en": "Arena of Nîmes"
+            "en": "Arena of Nîmes",
+            "fr": "Arènes de Nîmes"
           },
           "coords": [
             4.36,
@@ -59,7 +62,8 @@
             "de": "Holen Sie sich den Audioguide.",
             "hu": "Kérj audioguide-ot a bejáratnál.",
             "ro": "Luați un ghid audio la intrare.",
-            "en": "Get the audio guide at the entrance."
+            "en": "Get the audio guide at the entrance.",
+            "fr": "Prenez l'audio-guide à l'entrée."
           }
         },
         {
@@ -67,7 +71,8 @@
             "de": "Musée de la Romanité",
             "hu": "Római kori Múzeum",
             "ro": "Muzeul Romanității",
-            "en": "Musée de la Romanité"
+            "en": "Musée de la Romanité",
+            "fr": "Musée de la Romanité"
           },
           "coords": [
             4.361,
@@ -82,7 +87,8 @@
             "de": "Dachterrasse mit Stadtblick.",
             "hu": "Menj fel a tetőteraszra a panorámáért.",
             "ro": "Mergeți pe terasă pentru panoramă.",
-            "en": "Go to the roof terrace for the view."
+            "en": "Go to the roof terrace for the view.",
+            "fr": "Montez à la terrasse panoramique pour la vue."
           }
         },
         {
@@ -90,7 +96,8 @@
             "de": "Kathedrale Notre-Dame-et-Saint-Castor",
             "hu": "Szent Castor-székesegyház",
             "ro": "Catedrala Notre-Dame-et-Saint-Castor",
-            "en": "Cathedral of Saint Castor"
+            "en": "Cathedral of Saint Castor",
+            "fr": "Cathédrale Saint-Castor"
           },
           "coords": [
             4.359,
@@ -105,7 +112,8 @@
             "de": "Romanischer Fries an der Fassade.",
             "hu": "Keresd a román kori frízt a homlokzaton.",
             "ro": "Căutați friza romanică pe fațadă.",
-            "en": "Look for the Romanesque frieze on the facade."
+            "en": "Look for the Romanesque frieze on the facade.",
+            "fr": "Cherchez le frise romane sur la façade."
           }
         },
         {
@@ -113,7 +121,8 @@
             "de": "Maison Carrée",
             "hu": "Maison Carrée",
             "ro": "Maison Carrée",
-            "en": "Maison Carrée"
+            "en": "Maison Carrée",
+            "fr": "Maison Carrée"
           },
           "coords": [
             4.356,
@@ -128,7 +137,8 @@
             "de": "Besichtigung des inneren Films.",
             "hu": "Nézd meg a benti rövidfilmet.",
             "ro": "Urmăriți filmul scurt din interior.",
-            "en": "Watch the short film inside."
+            "en": "Watch the short film inside.",
+            "fr": "Regardez le court film à l'intérieur."
           }
         },
         {
@@ -136,7 +146,8 @@
             "de": "Jardins de la Fontaine",
             "hu": "Fontaine-kertek",
             "ro": "Grădinile Fontaine",
-            "en": "Jardins de la Fontaine"
+            "en": "Jardins de la Fontaine",
+            "fr": "Jardins de la Fontaine"
           },
           "coords": [
             4.35,
@@ -151,7 +162,8 @@
             "de": "Besuchen Sie den Diana-Tempel.",
             "hu": "Keresd meg a Diana-templomot a kertben.",
             "ro": "Vizitați Templul Dianei din grădină.",
-            "en": "Visit the Temple of Diana in the garden."
+            "en": "Visit the Temple of Diana in the garden.",
+            "fr": "Visitez le Temple de Diane dans le jardin."
           }
         },
         {
@@ -159,7 +171,8 @@
             "de": "Tour Magne",
             "hu": "Magne-torony",
             "ro": "Turnul Magne",
-            "en": "Tour Magne"
+            "en": "Tour Magne",
+            "fr": "Tour Magne"
           },
           "coords": [
             4.349,
@@ -174,7 +187,8 @@
             "de": "Höchster Punkt der Stadt.",
             "hu": "A város legmagasabb pontja.",
             "ro": "Cel mai înalt punct al orașului.",
-            "en": "Highest point in the city."
+            "en": "Highest point in the city.",
+            "fr": "Point culminant de la ville."
           }
         }
       ],
@@ -182,7 +196,8 @@
         "de": "Ihr Tag beginnt an der Esplanade, bevor Sie das majestätische Amphitheater und das moderne Museum der Romanik erkunden. Nach einem Mittagessen in der Altstadt besichtigen Sie die Kathedrale und die perfekt erhaltene Maison Carrée. Der Nachmittag gehört der Ruhe in den Fontaine-Gärten, gekrönt von der Aussicht vom Tour Magne. Ein Spaziergang voller Geschichte und mediterranem Charme.",
         "hu": "A nap az Esplanade-on indul, majd a lenyűgöző amfiteátrum és a modern Római kori Múzeum következik. Egy óvárosi ebéd után a székesegyház és a tökéletes állapotú Maison Carrée vár. A délutánt a Fontaine-kertek nyugalmában töltjük, végül felkapaszkodunk a Magne-toronyba a kilátásért. Történelmi séta mediterrán hangulatban.",
         "ro": "Ziua începe pe Esplanadă, urmată de amfiteatrul maiestuos și modernul Muzeu al Romanității. După un prânz în centrul vechi, vizitați catedrala și Maison Carrée, conservată impecabil. După-amiaza este dedicată liniștii din Grădinile Fontaine, culminând cu panorama de la Turnul Magne. O plimbare plină de istorie și farmec mediteranean.",
-        "en": "Your day starts at the Esplanade before exploring the majestic amphitheater and the modern Museum of Romanity. After lunch in the old town, visit the cathedral and the perfectly preserved Maison Carrée. Spend the afternoon in the peace of the Fontaine Gardens, crowned by the view from Tour Magne. A stroll full of history and Mediterranean charm."
+        "en": "Your day starts at the Esplanade before exploring the majestic amphitheater and the modern Museum of Romanity. After lunch in the old town, visit the cathedral and the perfectly preserved Maison Carrée. Spend the afternoon in the peace of the Fontaine Gardens, crowned by the view from Tour Magne. A stroll full of history and Mediterranean charm.",
+        "fr": "Votre journée commence à l'Esplanade avant d'explorer le majestueux amphithéâtre et le moderne Musée de la Romanité. Après le déjeuner dans la vieille ville, visitez la cathédrale et la parfaitement préservée Maison Carrée. Passez l'après-midi dans le calme des Jardins de la Fontaine, couronnés par la vue depuis la Tour Magne. Une promenade riche en histoire et en charme méditerranéen."
       },
       "gastro_picks": {
         "de": [
@@ -286,6 +301,11 @@
           "Comfortable shoes are a must for cobblestones.",
           "Get the Nîmes City Pass for discounts.",
           "Plan lunch in the area around Maison Carrée."
+        ],
+        "fr": [
+          "Des chaussures confortables sont indispensables pour les pavés.",
+          "Procurez-vous le Nîmes City Pass pour des réductions.",
+          "Prévoyez le déjeuner dans le quartier de la Maison Carrée."
         ]
       }
     },
@@ -302,7 +322,8 @@
             "de": "Esplanade",
             "hu": "Esplanade",
             "ro": "Esplanade",
-            "en": "Esplanade"
+            "en": "Esplanade",
+            "fr": "Esplanade"
           },
           "coords": [
             4.363,
@@ -317,7 +338,8 @@
             "de": "Startpunkt.",
             "hu": "Indulópont.",
             "ro": "Punct de start.",
-            "en": "Starting point."
+            "en": "Starting point.",
+            "fr": "Point de départ."
           }
         },
         {
@@ -325,7 +347,8 @@
             "de": "Arènes",
             "hu": "Aréna",
             "ro": "Arenă",
-            "en": "Arena"
+            "en": "Arena",
+            "fr": "Arène"
           },
           "coords": [
             4.36,
@@ -340,7 +363,8 @@
             "de": "Rad abstellen am Eingang.",
             "hu": "Lakatold le a biciklit a bejáratnál.",
             "ro": "Parcați bicicleta la intrare.",
-            "en": "Lock your bike at the entrance."
+            "en": "Lock your bike at the entrance.",
+            "fr": "Verrouillez votre vélo à l'entrée."
           }
         },
         {
@@ -348,7 +372,8 @@
             "de": "Musée de la Romanité",
             "hu": "Római Múzeum",
             "ro": "Muzeu Roman",
-            "en": "Roman Museum"
+            "en": "Roman Museum",
+            "fr": "Musée romain"
           },
           "coords": [
             4.361,
@@ -363,7 +388,8 @@
             "de": "Moderne Architektur.",
             "hu": "Modern építészet.",
             "ro": "Arhitectură modernă.",
-            "en": "Modern architecture."
+            "en": "Modern architecture.",
+            "fr": "Architecture moderne."
           }
         },
         {
@@ -371,7 +397,8 @@
             "de": "Maison Carrée",
             "hu": "Maison Carrée",
             "ro": "Maison Carrée",
-            "en": "Maison Carrée"
+            "en": "Maison Carrée",
+            "fr": "Maison Carrée"
           },
           "coords": [
             4.356,
@@ -386,7 +413,8 @@
             "de": "UNESCO Weltkulturerbe.",
             "hu": "UNESCO Világörökség.",
             "ro": "Patrimoniu UNESCO.",
-            "en": "UNESCO World Heritage."
+            "en": "UNESCO World Heritage.",
+            "fr": "Patrimoine mondial de l'UNESCO."
           }
         },
         {
@@ -394,7 +422,8 @@
             "de": "Kathedrale",
             "hu": "Székesegyház",
             "ro": "Catedrală",
-            "en": "Cathedral"
+            "en": "Cathedral",
+            "fr": "Cathédrale"
           },
           "coords": [
             4.359,
@@ -409,7 +438,8 @@
             "de": "Alte Innenstadt.",
             "hu": "Régi városközpont.",
             "ro": "Centru vechi.",
-            "en": "Old city center."
+            "en": "Old city center.",
+            "fr": "Centre-ville ancien."
           }
         },
         {
@@ -417,7 +447,8 @@
             "de": "Jardins de la Fontaine",
             "hu": "Fontaine-kertek",
             "ro": "Grădini",
-            "en": "Gardens"
+            "en": "Gardens",
+            "fr": "Jardins"
           },
           "coords": [
             4.35,
@@ -432,7 +463,8 @@
             "de": "Radfahren erlaubt.",
             "hu": "Biciklizhető utak.",
             "ro": "Permis cu bicicleta.",
-            "en": "Cycling allowed on paths."
+            "en": "Cycling allowed on paths.",
+            "fr": "Vélo autorisé sur les allées."
           }
         },
         {
@@ -440,7 +472,8 @@
             "de": "Temple de Diane",
             "hu": "Diana-templom",
             "ro": "Templul Dianei",
-            "en": "Temple of Diana"
+            "en": "Temple of Diana",
+            "fr": "Temple de Diane"
           },
           "coords": [
             4.348,
@@ -455,7 +488,8 @@
             "de": "Mystische Ruine.",
             "hu": "Misztikus rom.",
             "ro": "Ruină mistică.",
-            "en": "Mystical ruin."
+            "en": "Mystical ruin.",
+            "fr": "Ruine mystique."
           }
         },
         {
@@ -463,7 +497,8 @@
             "de": "Tour Magne",
             "hu": "Magne-torony",
             "ro": "Turnul Magne",
-            "en": "Tour Magne"
+            "en": "Tour Magne",
+            "fr": "Tour Magne"
           },
           "coords": [
             4.349,
@@ -478,7 +513,8 @@
             "de": "Steile Auffahrt.",
             "hu": "Meredek emelkedő.",
             "ro": "Urcare abruptă.",
-            "en": "Steep climb."
+            "en": "Steep climb.",
+            "fr": "Montée raide."
           }
         }
       ],
@@ -486,7 +522,8 @@
         "de": "Mit dem Rad erkunden Sie Nîmes effizient. Vom Zentrum geht es schnell zu den römischen Monumenten und dann durch die schattigen Alleen zu den Gärten. Der Aufstieg zum Tour Magne ist sportlich, belohnt aber mit der besten Aussicht.",
         "hu": "Biciklivel hatékonyan fedezheted fel Nîmes-t. A központból gyorsan elérhetők a római emlékek, majd az árnyas sugárutakon át a kertekbe tekerünk. A Magne-toronyhoz vezető út sportos, de a kilátás kárpótol.",
         "ro": "Cu bicicleta explorați Nîmes eficient. Din centru ajungeți rapid la monumentele romane, apoi prin bulevardele umbrite spre grădini. Urcarea la Turnul Magne este sportivă, dar panorama merită efortul.",
-        "en": "Explore Nîmes efficiently by bike. From the center, quickly reach the Roman monuments, then pedal through shaded avenues to the gardens. The climb to Tour Magne is sporty, but the view is worth it."
+        "en": "Explore Nîmes efficiently by bike. From the center, quickly reach the Roman monuments, then pedal through shaded avenues to the gardens. The climb to Tour Magne is sporty, but the view is worth it.",
+        "fr": "Explorez Nîmes efficacement à vélo. Depuis le centre, rejoignez rapidement les monuments romains, puis pédalez à travers des avenues ombragées jusqu'aux jardins. La montée à la Tour Magne est sportive, mais la vue en vaut la peine."
       },
       "gastro_picks": {
         "de": [
@@ -590,6 +627,11 @@
           "Use VéliT'N rental bikes.",
           "Watch out for one-way streets.",
           "Bring a water bottle."
+        ],
+        "fr": [
+          "Utilisez les vélos en location VéliT'N.",
+          "Attention aux rues à sens unique.",
+          "Apportez une bouteille d'eau."
         ]
       }
     },
@@ -606,7 +648,8 @@
             "de": "Esplanade (Cluster A)",
             "hu": "Esplanade (A klaszter)",
             "ro": "Esplanadă (Cluster A)",
-            "en": "Esplanade (Cluster A)"
+            "en": "Esplanade (Cluster A)",
+            "fr": "Esplanade (Cluster A)"
           },
           "coords": [
             4.363,
@@ -621,7 +664,8 @@
             "de": "Parkhaus Arena nutzen.",
             "hu": "Használd az Arena parkolóházat.",
             "ro": "Folosiți parcarea Arena.",
-            "en": "Use the Arena parking garage."
+            "en": "Use the Arena parking garage.",
+            "fr": "Utilisez le parking du Palais des Sports."
           }
         },
         {
@@ -629,7 +673,8 @@
             "de": "Arènes de Nîmes",
             "hu": "Nîmes-i Aréna",
             "ro": "Amfiteatru",
-            "en": "Arena"
+            "en": "Arena",
+            "fr": "Arène"
           },
           "coords": [
             4.36,
@@ -644,7 +689,8 @@
             "de": "Zu Fuß erreichbar.",
             "hu": "Gyalogosan elérhető.",
             "ro": "Accesibil pe jos.",
-            "en": "Walkable from parking."
+            "en": "Walkable from parking.",
+            "fr": "Accessible à pied depuis le parking."
           }
         },
         {
@@ -652,7 +698,8 @@
             "de": "Musée de la Romanité",
             "hu": "Római Múzeum",
             "ro": "Muzeu",
-            "en": "Museum"
+            "en": "Museum",
+            "fr": "Musée"
           },
           "coords": [
             4.361,
@@ -667,7 +714,8 @@
             "de": "Letzter Stopp in Cluster A.",
             "hu": "Az A klaszter utolsó állomása.",
             "ro": "Ultima oprire din Cluster A.",
-            "en": "Last stop in Cluster A."
+            "en": "Last stop in Cluster A.",
+            "fr": "Dernier arrêt du Cluster A."
           }
         },
         {
@@ -675,7 +723,8 @@
             "de": "Jardins de la Fontaine (Cluster B)",
             "hu": "Fontaine-kertek (B klaszter)",
             "ro": "Grădini (Cluster B)",
-            "en": "Gardens (Cluster B)"
+            "en": "Gardens (Cluster B)",
+            "fr": "Jardins (Cluster B)"
           },
           "coords": [
             4.35,
@@ -690,7 +739,8 @@
             "de": "Parken am Quai de la Fontaine.",
             "hu": "Parkolás a Quai de la Fontaine-nál.",
             "ro": "Parcare la Quai de la Fontaine.",
-            "en": "Park at Quai de la Fontaine."
+            "en": "Park at Quai de la Fontaine.",
+            "fr": "Garez-vous au Quai de la Fontaine."
           }
         },
         {
@@ -698,7 +748,8 @@
             "de": "Temple de Diane",
             "hu": "Diana-templom",
             "ro": "Templul Dianei",
-            "en": "Temple of Diane"
+            "en": "Temple of Diane",
+            "fr": "Temple de Diane"
           },
           "coords": [
             4.348,
@@ -713,7 +764,8 @@
             "de": "Spaziergang im Park.",
             "hu": "Séta a parkon át.",
             "ro": "Plimbare prin parc.",
-            "en": "Walk through the park."
+            "en": "Walk through the park.",
+            "fr": "Traversez le parc à pied."
           }
         },
         {
@@ -721,7 +773,8 @@
             "de": "Tour Magne",
             "hu": "Magne-torony",
             "ro": "Turnul Magne",
-            "en": "Tour Magne"
+            "en": "Tour Magne",
+            "fr": "Tour Magne"
           },
           "coords": [
             4.349,
@@ -736,7 +789,8 @@
             "de": "Zu Fuß vom Garten.",
             "hu": "Gyalog a kertből.",
             "ro": "Pe jos din grădină.",
-            "en": "Walk from the garden."
+            "en": "Walk from the garden.",
+            "fr": "Marche depuis le jardin."
           }
         }
       ],
@@ -744,7 +798,8 @@
         "de": "Zwei Haupt-Cluster minimieren den Parkstress. Zuerst erkunden Sie das römische Erbe rund um die Arena zu Fuß, dann fahren Sie zu den Fontaine-Gärten für einen entspannten Nachmittag im Grünen mit Besuch des Aussichtsturms.",
         "hu": "Két fő állomással minimalizáljuk a parkolási stresszt. Először gyalogosan fedezzük fel az Aréna környékét, majd átgurulunk a Fontaine-kertekbe egy nyugodt délutánra és a kilátóhoz.",
         "ro": "Două clustere principale minimizează stresul parcării. Întâi explorați pe jos moștenirea romană de lângă Arenă, apoi conduceți spre Grădinile Fontaine pentru o după-amiază relaxantă și turnul de observație.",
-        "en": "Two main clusters minimize parking stress. First, explore the Roman heritage around the Arena on foot, then drive to the Fontaine Gardens for a relaxed afternoon in the greenery and the lookout tower."
+        "en": "Two main clusters minimize parking stress. First, explore the Roman heritage around the Arena on foot, then drive to the Fontaine Gardens for a relaxed afternoon in the greenery and the lookout tower.",
+        "fr": "Deux principaux pôles réduisent le stress lié au stationnement. D'abord, explorez le patrimoine romain autour de l'Arène à pied, puis conduisez jusqu'aux Jardins de la Fontaine pour un après-midi détendu au vert et à la tour d'observation."
       },
       "gastro_picks": {
         "de": [
@@ -848,6 +903,11 @@
           "Use parking garages instead of street searching.",
           "Avoid rush hour.",
           "Look for shaded parking spots."
+        ],
+        "fr": [
+          "Privilégiez les parkings couverts plutôt que la recherche de places en rue.",
+          "Évitez les heures de pointe.",
+          "Cherchez des places ombragées."
         ]
       }
     },
@@ -864,7 +924,8 @@
             "de": "Esplanade",
             "hu": "Esplanade",
             "ro": "Esplanade",
-            "en": "Esplanade"
+            "en": "Esplanade",
+            "fr": "Esplanade"
           },
           "coords": [
             4.363,
@@ -879,7 +940,8 @@
             "de": "Knotenpunkt vieler Linien.",
             "hu": "Számos buszjárat csomópontja.",
             "ro": "Nod principal de transport.",
-            "en": "Hub for many bus lines."
+            "en": "Hub for many bus lines.",
+            "fr": "Nœud pour de nombreuses lignes de bus."
           }
         },
         {
@@ -887,7 +949,8 @@
             "de": "Arènes",
             "hu": "Aréna",
             "ro": "Arenă",
-            "en": "Arena"
+            "en": "Arena",
+            "fr": "Arène"
           },
           "coords": [
             4.36,
@@ -902,7 +965,8 @@
             "de": "Zentraler Stopp.",
             "hu": "Központi megálló.",
             "ro": "Stație centrală.",
-            "en": "Central stop."
+            "en": "Central stop.",
+            "fr": "Arrêt central."
           }
         },
         {
@@ -910,7 +974,8 @@
             "de": "Kathedrale",
             "hu": "Székesegyház",
             "ro": "Catedrală",
-            "en": "Cathedral"
+            "en": "Cathedral",
+            "fr": "Cathédrale"
           },
           "coords": [
             4.359,
@@ -925,7 +990,8 @@
             "de": "Gyalog a busztól.",
             "hu": "Séta a megállótól.",
             "ro": "Pe jos de la stație.",
-            "en": "Walk from bus stop."
+            "en": "Walk from bus stop.",
+            "fr": "Marche depuis l'arrêt de bus."
           }
         },
         {
@@ -933,7 +999,8 @@
             "de": "Maison Carrée",
             "hu": "Maison Carrée",
             "ro": "Maison Carrée",
-            "en": "Maison Carrée"
+            "en": "Maison Carrée",
+            "fr": "Maison Carrée"
           },
           "coords": [
             4.356,
@@ -948,7 +1015,8 @@
             "de": "Nahe der Buslinie T1.",
             "hu": "A T1-es vonal közelében.",
             "ro": "Lângă linia T1.",
-            "en": "Near T1 line."
+            "en": "Near T1 line.",
+            "fr": "Près de la ligne T1."
           }
         },
         {
@@ -956,7 +1024,8 @@
             "de": "Jardins de la Fontaine",
             "hu": "Fontaine-kertek",
             "ro": "Grădini",
-            "en": "Gardens"
+            "en": "Gardens",
+            "fr": "Jardins"
           },
           "coords": [
             4.35,
@@ -971,7 +1040,8 @@
             "de": "Haltestelle 'Jean Jaurès'.",
             "hu": "Jean Jaurès megálló.",
             "ro": "Stația Jean Jaurès.",
-            "en": "Jean Jaurès stop."
+            "en": "Jean Jaurès stop.",
+            "fr": "Arrêt Jean Jaurès."
           }
         },
         {
@@ -979,7 +1049,8 @@
             "de": "Temple de Diane",
             "hu": "Diana-templom",
             "ro": "Templul Dianei",
-            "en": "Temple of Diane"
+            "en": "Temple of Diane",
+            "fr": "Temple de Diane"
           },
           "coords": [
             4.348,
@@ -994,7 +1065,8 @@
             "de": "Zu Fuß im Park.",
             "hu": "Gyalog a parkban.",
             "ro": "Pe jos în parc.",
-            "en": "Walk in the park."
+            "en": "Walk in the park.",
+            "fr": "Promenade dans le parc."
           }
         },
         {
@@ -1002,7 +1074,8 @@
             "de": "Tour Magne",
             "hu": "Magne-torony",
             "ro": "Turnul Magne",
-            "en": "Tour Magne"
+            "en": "Tour Magne",
+            "fr": "Tour Magne"
           },
           "coords": [
             4.349,
@@ -1017,7 +1090,8 @@
             "de": "Schöner Spazierweg.",
             "hu": "Szép sétaút.",
             "ro": "Traseu frumos de mers.",
-            "en": "Nice walking path."
+            "en": "Nice walking path.",
+            "fr": "Beau sentier pédestre."
           }
         }
       ],
@@ -1025,7 +1099,8 @@
         "de": "Dank der Tram-Bus-Linien T1 und T2 gelangen Sie bequem zu allen Sehenswürdigkeiten. Beginnen Sie im antiken Zentrum und nutzen Sie den Bus, um zu den Fontaine-Gärten zu fahren, was Ihnen den Marsch durch die Sonne erspart.",
         "hu": "A T1 és T2 busz-villamos vonalaknak köszönhetően kényelmesen elérsz mindent. Kezdj az ókori központban, majd buszozz el a Fontaine-kertekig, így megspórolod a napsütésben való gyaloglást.",
         "ro": "Datorită liniilor de tram-bus T1 și T2, ajungeți confortabil la toate atracțiile. Începeți în centrul antic și folosiți autobuzul pentru a merge la Grădinile Fontaine, evitând mersul prin soare.",
-        "en": "Thanks to the T1 and T2 tram-bus lines, you can reach all sights comfortably. Start in the ancient center and take the bus to the Fontaine Gardens to save yourself the walk in the sun."
+        "en": "Thanks to the T1 and T2 tram-bus lines, you can reach all sights comfortably. Start in the ancient center and take the bus to the Fontaine Gardens to save yourself the walk in the sun.",
+        "fr": "Grâce aux lignes tram-bus T1 et T2, vous pouvez rejoindre tous les sites confortablement. Commencez au centre ancien et prenez le bus jusqu'aux Jardins de la Fontaine pour vous épargner la marche au soleil."
       },
       "gastro_picks": {
         "de": [
@@ -1129,6 +1204,11 @@
           "Download the Tango app.",
           "Day pass is worth it after 3 rides.",
           "T1 stops right at Maison Carrée."
+        ],
+        "fr": [
+          "Téléchargez l'application Tango.",
+          "Le pass journée vaut le coup après 3 trajets.",
+          "La T1 s'arrête juste à la Maison Carrée."
         ]
       }
     }

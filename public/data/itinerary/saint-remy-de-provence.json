@@ -32,7 +32,7 @@
             "hu": "Élvezze a kávét a hatalmas platánfák árnyékában a főtéren.",
             "ro": "Savurați o cafea la umbra platanilor în piața centrală.",
             "en": "Enjoy a coffee under the shade of giant plane trees in the main square.",
-            "fr": "Savourer un café à l'ombre des platanes géants sur la place principale."
+            "fr": "Savourez un café à l’ombre des platanes géants sur la place principale."
           }
         },
         {
@@ -51,7 +51,7 @@
             "hu": "Fedezze fel Van Gogh és a modern művészet közötti kapcsolatot.",
             "ro": "Descoperiți legătura dintre Van Gogh și arta modernă.",
             "en": "Discover the link between Van Gogh and modern art in this 18th-century mansion.",
-            "fr": "Découvrir le lien entre Van Gogh et l'art moderne dans cet hôtel particulier du XVIIIe siècle."
+            "fr": "Découvrez le lien entre Van Gogh et l’art moderne dans ce manoir du XVIIIe siècle."
           }
         },
         {
@@ -70,7 +70,7 @@
             "hu": "Keresse meg Nostradamus szülőházát a szűk sikátorok között.",
             "ro": "Căutați casa natală a lui Nostradamus printre străduțele înguste.",
             "en": "Find the birthplace of Nostradamus among the narrow winding streets.",
-            "fr": "Trouver la maison natale de Nostradamus au détour des ruelles sinueuses."
+            "fr": "Trouvez la maison natale de Nostradamus parmi les rues étroites et tortueuses."
           }
         },
         {
@@ -89,7 +89,7 @@
             "hu": "Csodálja meg a római kori mauzóleumot és a diadalívet.",
             "ro": "Admirați mausoleul și arcul de triumf din epoca romană.",
             "en": "Admire the Roman mausoleum and triumphal arch standing since antiquity.",
-            "fr": "Admirer le mausolée romain et l'arc de triomphe dressés depuis l'Antiquité."
+            "fr": "Admirez le mausolée romain et l’arc de triomphe qui tiennent depuis l’Antiquité."
           }
         },
         {
@@ -108,7 +108,7 @@
             "hu": "Fedezze fel az ókori város romjait az Alpilles lábánál.",
             "ro": "Explorați ruinele unui oraș antic la poalele munților Alpilles.",
             "en": "Explore the ruins of an ancient city at the foot of the Alpilles mountains.",
-            "fr": "Explorer les ruines d'une ville antique au pied des montagnes des Alpilles."
+            "fr": "Explorez les ruines d’une cité antique au pied des Alpilles."
           }
         },
         {
@@ -127,7 +127,7 @@
             "hu": "Látogassa meg a kolostort, ahol Van Gogh a Csillagos éjt festette.",
             "ro": "Vizitați mănăstirea unde Van Gogh a pictat Noaptea înstelată.",
             "en": "Visit the monastery and clinic where Van Gogh painted The Starry Night.",
-            "fr": "Visiter le monastère et la clinique où Van Gogh a peint La Nuit étoilée."
+            "fr": "Visitez le monastère et la clinique où Van Gogh a peint La Nuit étoilée."
           }
         }
       ],
@@ -136,7 +136,7 @@
         "hu": "A délelőttöt Saint-Rémy pezsgő központjában indítjuk, felfedezve az óváros szűk utcáit és a Musée Estrine kiállításait. Délben megkóstoljuk a helyi specialitásokat egy hangulatos teraszon, majd dél felé vesszük az irányt. Délután a római múlt emlékei, Les Antiques és Glanum romvárosa repítenek vissza az időben. Az estét a Saint-Paul-de-Mausole kolostor békés kertjében zárjuk, ahol Van Gogh legszebb műveit alkotta.",
         "ro": "Dimineața începe în centrul vibrant al orașului Saint-Rémy, explorând străduțele vechi și vizitând Muzeul Estrine. La prânz, savurați delicatese provensale în centrul istoric înainte de a porni spre sud. După-amiaza este dedicată istoriei romane, vizitând monumentele Les Antiques și situl arheologic Glanum. Încheiați ziua în liniștea mănăstirii Saint-Paul-de-Mausole, locul unde Van Gogh a găsit inspirație în timpul șederii sale.",
         "en": "Start your morning in the vibrant heart of Saint-Rémy, wandering through historic alleys and visiting the Musée Estrine. At midday, enjoy Provencal flavors in the old town before heading south. Your afternoon is dedicated to Roman history at Les Antiques and the impressive Glanum archaeological site. Finish the day in the peaceful cloisters of Saint-Paul-de-Mausole, the sanctuary where Van Gogh created some of his most famous masterpieces.",
-        "fr": "Commencez votre matinée au cœur vibrant de Saint-Rémy, en flânant dans les ruelles historiques et en visitant le musée Estrine. À midi, savourez les saveurs provençales dans la vieille ville avant de vous diriger vers le sud. Votre après-midi est dédié à l'histoire romaine aux Antiques et sur l'impressionnant site archéologique de Glanum. Terminez la journée dans le calme du cloître de Saint-Paul-de-Mausole, le sanctuaire où Van Gogh a créé certains de ses chefs-d'œuvre les plus célèbres."
+        "fr": "Commencez la matinée au cœur vibrant de Saint-Rémy, flânez dans les ruelles historiques et visitez le Musée Estrine. À midi, goûtez aux saveurs provençales dans la vieille ville avant de vous diriger vers le sud. L’après-midi est consacré à l’histoire romaine aux Antiques et au spectaculaire site archéologique de Glanum. Terminez la journée dans le paisible cloître de Saint-Paul-de-Mausole, le refuge où Van Gogh créa certaines de ses œuvres les plus célèbres."
       },
       "gastro_picks": {
         "de": [
@@ -375,10 +375,10 @@
           "Carry water when walking uphill towards the Glanum site."
         ],
         "fr": [
-          "Portez des chaussures confortables pour les sentiers de gravier à Glanum.",
-          "Le mercredi matin est très fréquenté ; le stationnement est difficile à cause du marché.",
-          "Réservez le musée Estrine à l'avance si votre emploi du temps est serré.",
-          "Prévoyez de l'eau pour la montée à pied vers le site de Glanum."
+          "Portez des chaussures confortables pour les chemins de gravier à Glanum.",
+          "Les mercredis matin sont chargés ; le stationnement est difficile à cause du marché.",
+          "Réservez le Musée Estrine à l’avance si votre emploi du temps est serré.",
+          "Emportez de l’eau pour la montée à pied vers le site de Glanum."
         ]
       },
       "variants": {
@@ -387,7 +387,8 @@
             "de": "Morgens tauchen Sie in das lebhafte Zentrum von Saint-Rémy ein, schlendern durch die Gassen und besuchen das Musée Estrine. Mittags genießen Sie provenzalische Köstlichkeiten in der Altstadt, bevor Sie sich auf den Weg nach Süden machen. Nachmittags erwarten Sie die monumentalen Zeugen der Römerzeit: Les Antiques und die Ausgrabungsstätte Glanum. Den Tag lassen Sie im friedlichen Kreuzgang von Saint-Paul-de-Mausole ausklingen, wo Van Gogh Inspiration fand.",
             "hu": "A délelőttöt Saint-Rémy pezsgő központjában indítjuk, felfedezve az óváros szűk utcáit és a Musée Estrine kiállításait. Délben megkóstoljuk a helyi specialitásokat egy hangulatos teraszon, majd dél felé vesszük az irányt. Délután a római múlt emlékei, Les Antiques és Glanum romvárosa repítenek vissza az időben. Az estét a Saint-Paul-de-Mausole kolostor békés kertjében zárjuk, ahol Van Gogh legszebb műveit alkotta.",
             "ro": "Dimineața începe în centrul vibrant al orașului Saint-Rémy, explorând străduțele vechi și vizitând Muzeul Estrine. La prânz, savurați delicatese provensale în centrul istoric înainte de a porni spre sud. După-amiaza este dedicată istoriei romane, vizitând monumentele Les Antiques și situl arheologic Glanum. Încheiați ziua în liniștea mănăstirii Saint-Paul-de-Mausole, locul unde Van Gogh a găsit inspirație în timpul șederii sale.",
-            "en": "Start your morning in the vibrant heart of Saint-Rémy, wandering through historic alleys and visiting the Musée Estrine. At midday, enjoy Provencal flavors in the old town before heading south. Your afternoon is dedicated to Roman history at Les Antiques and the impressive Glanum archaeological site. Finish the day in the peaceful cloisters of Saint-Paul-de-Mausole, the sanctuary where Van Gogh created some of his most famous masterpieces."
+            "en": "Start your morning in the vibrant heart of Saint-Rémy, wandering through historic alleys and visiting the Musée Estrine. At midday, enjoy Provencal flavors in the old town before heading south. Your afternoon is dedicated to Roman history at Les Antiques and the impressive Glanum archaeological site. Finish the day in the peaceful cloisters of Saint-Paul-de-Mausole, the sanctuary where Van Gogh created some of his most famous masterpieces.",
+            "fr": "Commencez la matinée au cœur vibrant de Saint-Rémy, flânez dans les ruelles historiques et visitez le Musée Estrine. À midi, goûtez aux saveurs provençales dans la vieille ville avant de vous diriger vers le sud. L’après-midi est consacré à l’histoire romaine aux Antiques et au spectaculaire site archéologique de Glanum. Terminez la journée dans le paisible cloître de Saint-Paul-de-Mausole, le refuge où Van Gogh créa certaines de ses œuvres les plus célèbres."
           },
           "stops": [
             {
@@ -396,7 +397,8 @@
                 "de": "Genießen Sie einen Kaffee im Schatten der Platanen auf dem Hauptplatz.",
                 "hu": "Élvezze a kávét a hatalmas platánfák árnyékában a főtéren.",
                 "ro": "Savurați o cafea la umbra platanilor în piața centrală.",
-                "en": "Enjoy a coffee under the shade of giant plane trees in the main square."
+                "en": "Enjoy a coffee under the shade of giant plane trees in the main square.",
+                "fr": "Savourez un café à l’ombre des platanes géants sur la place principale."
               }
             },
             {
@@ -405,7 +407,8 @@
                 "de": "Entdecken Sie die Verbindung zwischen Van Gogh und der modernen Kunst.",
                 "hu": "Fedezze fel Van Gogh és a modern művészet közötti kapcsolatot.",
                 "ro": "Descoperiți legătura dintre Van Gogh și arta modernă.",
-                "en": "Discover the link between Van Gogh and modern art in this 18th-century mansion."
+                "en": "Discover the link between Van Gogh and modern art in this 18th-century mansion.",
+                "fr": "Découvrez le lien entre Van Gogh et l’art moderne dans ce manoir du XVIIIe siècle."
               }
             },
             {
@@ -414,7 +417,8 @@
                 "de": "Suchen Sie das Geburtshaus von Nostradamus in den engen Gassen.",
                 "hu": "Keresse meg Nostradamus szülőházát a szűk sikátorok között.",
                 "ro": "Căutați casa natală a lui Nostradamus printre străduțele înguste.",
-                "en": "Find the birthplace of Nostradamus among the narrow winding streets."
+                "en": "Find the birthplace of Nostradamus among the narrow winding streets.",
+                "fr": "Trouvez la maison natale de Nostradamus parmi les rues étroites et tortueuses."
               }
             },
             {
@@ -423,7 +427,8 @@
                 "de": "Bewundern Sie das Mausoleum und den Ehrenbogen aus der Römerzeit.",
                 "hu": "Csodálja meg a római kori mauzóleumot és a diadalívet.",
                 "ro": "Admirați mausoleul și arcul de triumf din epoca romană.",
-                "en": "Admire the Roman mausoleum and triumphal arch standing since antiquity."
+                "en": "Admire the Roman mausoleum and triumphal arch standing since antiquity.",
+                "fr": "Admirez le mausolée romain et l’arc de triomphe qui tiennent depuis l’Antiquité."
               }
             },
             {
@@ -432,7 +437,8 @@
                 "de": "Erkunden Sie die Ruinen einer antiken Stadt am Fuße der Alpilles.",
                 "hu": "Fedezze fel az ókori város romjait az Alpilles lábánál.",
                 "ro": "Explorați ruinele unui oraș antic la poalele munților Alpilles.",
-                "en": "Explore the ruins of an ancient city at the foot of the Alpilles mountains."
+                "en": "Explore the ruins of an ancient city at the foot of the Alpilles mountains.",
+                "fr": "Explorez les ruines d’une cité antique au pied des Alpilles."
               }
             },
             {
@@ -441,7 +447,8 @@
                 "de": "Besuchen Sie das Kloster, in dem Van Gogh 'Die Sternennacht' malte.",
                 "hu": "Látogassa meg a kolostort, ahol Van Gogh a Csillagos éjt festette.",
                 "ro": "Vizitați mănăstirea unde Van Gogh a pictat Noaptea înstelată.",
-                "en": "Visit the monastery and clinic where Van Gogh painted The Starry Night."
+                "en": "Visit the monastery and clinic where Van Gogh painted The Starry Night.",
+                "fr": "Visitez le monastère et la clinique où Van Gogh a peint La Nuit étoilée."
               }
             }
           ],
@@ -639,6 +646,12 @@
               "Wednesday mornings are busy; parking is tough due to the market.",
               "Book Musée Estrine in advance if you are on a tight schedule.",
               "Carry water when walking uphill towards the Glanum site."
+            ],
+            "fr": [
+              "Portez des chaussures confortables pour les chemins de gravier à Glanum.",
+              "Les mercredis matin sont chargés ; le stationnement est difficile à cause du marché.",
+              "Réservez le Musée Estrine à l’avance si votre emploi du temps est serré.",
+              "Emportez de l’eau pour la montée à pied vers le site de Glanum."
             ]
           }
         },
@@ -648,7 +661,7 @@
             "hu": "Az esős reggel a Place de la République árkádjai alatt indul, menedéket keresve a provence-i zápor elől. Délben a Musée Estrine galériái nyújtanak száraz kulturális élményt. A délutáni Glanum látogatáshoz elengedhetetlen a vízálló ruházat, mivel a terület nyitott. Az este a történelmi óváros egyik hangulatos, fedett éttermében ér véget, miközben az eső kopog a macskaköveken.",
             "ro": "O dimineață ploioasă începe în Place de la République, sub protecția copacilor și a marchizelor. La prânz, galeriile de la Musée Estrine oferă o pauză culturală uscată. După-amiaza la Glanum necesită pelerine de ploaie, situl fiind în aer liber. Seara se încheie confortabil într-o braserie din centrul istoric, ascultând ploaia pe străzile înguste.",
             "en": "A rainy morning starts at Place de la République, seeking shelter under awnings. At midday, the galleries of Musée Estrine offer a dry cultural escape. The afternoon at Glanum requires sturdy waterproofs as the site is fully exposed. The evening ends cozily in one of the old town's sheltered bistros, watching the rain wash the limestone streets.",
-            "fr": "Une matinée pluvieuse débute place de la République, à l'abri des auvents. À midi, les galeries du musée Estrine offrent une parenthèse culturelle au sec. L'après-midi à Glanum nécessite de bons vêtements imperméables car le site est totalement exposé. La soirée s'achève confortablement dans l'un des bistros de la vieille ville, en regardant la pluie laver les rues en pierre calcaire."
+            "fr": "Une matinée pluvieuse commence à la Place de la République, en cherchant un abri sous les auvents. À midi, les galeries du Musée Estrine offrent une échappée culturelle au sec. L’après-midi à Glanum nécessite des vêtements imperméables robustes car le site est totalement exposé. La soirée se termine confortablement dans un des bistrots abrités de la vieille ville, en regardant la pluie laver les rues de calcaire."
           },
           "stops": [
             {
@@ -657,7 +670,8 @@
                 "de": "Suchen Sie Schutz unter den Platanen oder in den Cafés am Rand.",
                 "hu": "Keressen menedéket a platánfák alatt vagy a széli kávézókban.",
                 "ro": "Căutați adăpost sub platani sau în cafenelele de la margine.",
-                "en": "Find shelter under the plane trees or in the perimeter cafes."
+                "en": "Find shelter under the plane trees or in the perimeter cafes.",
+                "fr": "Trouvez refuge sous les platanes ou dans les cafés périphériques."
               }
             },
             {
@@ -666,7 +680,8 @@
                 "de": "Der perfekte Ort, um den stärksten Regen im Trockenen zu verbringen.",
                 "hu": "Tökéletes hely a legnagyobb eső szárazon történő átvészelésére.",
                 "ro": "Locul perfect pentru a petrece cea mai puternică ploaie la adăpost.",
-                "en": "The perfect spot to wait out the heaviest rain indoors."
+                "en": "The perfect spot to wait out the heaviest rain indoors.",
+                "fr": "L’endroit parfait pour attendre que la pluie la plus forte passe, à l’intérieur."
               }
             },
             {
@@ -675,7 +690,8 @@
                 "de": "Die engen Gassen bieten etwas Schutz vor schräg fallendem Regen.",
                 "hu": "A szűk utcák némi védelmet nyújtanak az oldalszélben hulló eső ellen.",
                 "ro": "Străzile înguste oferă puțină protecție împotriva ploii oblice.",
-                "en": "Narrow streets offer some protection from wind-blown rain."
+                "en": "Narrow streets offer some protection from wind-blown rain.",
+                "fr": "Les rues étroites offrent une certaine protection contre la pluie poussée par le vent."
               }
             },
             {
@@ -684,7 +700,8 @@
                 "de": "Vorsicht, die Steine rund um die Denkmäler können rutschig sein.",
                 "hu": "Vigyázat, az emlékművek körüli kövek csúszósak lehetnek.",
                 "ro": "Atenție, pietrele din jurul monumentelor pot fi alunecoase.",
-                "en": "Careful, the stones around the monuments can be slippery."
+                "en": "Careful, the stones around the monuments can be slippery.",
+                "fr": "Attention, les pierres autour des monuments peuvent être glissantes."
               }
             },
             {
@@ -693,7 +710,8 @@
                 "de": "Es gibt kaum Unterstände; ein stabiler Schirm ist hier Pflicht.",
                 "hu": "Alig van fedett rész; egy stabil esernyő itt kötelező.",
                 "ro": "Există puține adăposturi; o umbrelă solidă este obligatorie aici.",
-                "en": "Hardly any shelters; a sturdy umbrella is a must here."
+                "en": "Hardly any shelters; a sturdy umbrella is a must here.",
+                "fr": "Presque pas d’abris ; un parapluie solide est indispensable ici."
               }
             },
             {
@@ -702,7 +720,8 @@
                 "de": "Der Kreuzgang bietet Schutz und eine besondere Atmosphäre bei Regen.",
                 "hu": "A kolostorkeringő védelmet és különleges hangulatot áraszt esőben.",
                 "ro": "Cloastrul oferă adăpost și o atmosferă deosebită pe ploaie.",
-                "en": "The cloister offers shelter and a unique atmosphere in the rain."
+                "en": "The cloister offers shelter and a unique atmosphere in the rain.",
+                "fr": "Le cloître offre un abri et une atmosphère unique sous la pluie."
               }
             }
           ],
@@ -733,9 +752,9 @@
             ],
             "fr": [
               "Portez des chaussures de randonnée imperméables pour les sentiers vers Glanum.",
-              "Profitez du milieu de journée pour les musées, quand la pluie est généralement plus forte.",
-              "Certains pavés de la vieille ville deviennent très glissants lorsqu'ils sont mouillés.",
-              "Le site archéologique de Glanum n'est absolument pas protégé du vent et de la pluie."
+              "Profitez du milieu de journée pour visiter les musées lorsque la pluie est souvent la plus forte.",
+              "Certains pavés dans la vieille ville deviennent très glissants lorsqu’ils sont mouillés.",
+              "Le site archéologique de Glanum est entièrement exposé au vent et à la pluie."
             ]
           }
         },
@@ -745,7 +764,7 @@
             "hu": "Tiszta, hideg téli reggel indul a Place de la République-on. Délben a Musée Estrine-ben melegedhetünk fel, mielőtt a csendes óvárosban sétálnánk. A délután az Antiques-nél varázslatos az alacsony napállásban, de figyeljünk a korai, 17:00 órai naplementére. Az este egy forró ital mellett ér véget a Saint-Paul kolostor közelében.",
             "ro": "O dimineață de iarnă senină și rece începe în Place de la République. La prânz vă încălziți la Musée Estrine înainte de a explora centrul vechi liniștit. După-amiaza la Antiques este magică în lumina joasă, dar atenție la apusul devreme de la ora 17:00. Seara se încheie cu o băutură caldă lângă mănăstirea Saint-Paul.",
             "en": "A crisp, cold winter morning starts at Place de la République. At midday, warm up inside Musée Estrine before strolling through the quiet old town. The afternoon at the Antiques is magical in the low winter light, but be mindful of the early 5:00 PM sunset. The evening concludes with a hot drink near the Saint-Paul cloister.",
-            "fr": "Une matinée d'hiver vive et froide commence place de la République. À midi, réchauffez-vous au musée Estrine avant de flâner dans la vieille ville paisible. L'après-midi aux Antiques est magique sous la basse lumière hivernale, mais attention au coucher du soleil dès 17h00. La journée se termine par une boisson chaude près du cloître Saint-Paul."
+            "fr": "Une matinée hivernale fraîche commence à la Place de la République. À midi, réchauffez-vous à l’intérieur du Musée Estrine avant de vous promener dans la vieille ville calme. L’après-midi aux Antiques est magique dans la lumière basse de l’hiver, mais faites attention au coucher du soleil tôt, à 17h00. La soirée se conclut par une boisson chaude près du cloître de Saint-Paul."
           },
           "stops": [
             {
@@ -754,7 +773,8 @@
                 "de": "Die Cafés haben Heizstrahler für ein Frühstück im Freien.",
                 "hu": "A kávézók hősugárzókkal várják a szabadtéri reggelizőket.",
                 "ro": "Cafenelele au încălzitoare exterioare pentru micul dejun afară.",
-                "en": "Cafes have outdoor heaters for a cozy winter breakfast."
+                "en": "Cafes have outdoor heaters for a cozy winter breakfast.",
+                "fr": "Les cafés disposent de chauffages extérieurs pour un petit-déjeuner hivernal convivial."
               }
             },
             {
@@ -763,7 +783,8 @@
                 "de": "Gut beheizte Räume bieten eine Pause von der Winterkälte.",
                 "hu": "Jól fűtött termek kínálnak pihenőt a téli hideg elől.",
                 "ro": "Sălile bine încălzite oferă o pauză de la frigul iernii.",
-                "en": "Well-heated rooms provide a warm break from the winter chill."
+                "en": "Well-heated rooms provide a warm break from the winter chill.",
+                "fr": "Des salles bien chauffées offrent une pause chaude contre la fraîcheur hivernale."
               }
             },
             {
@@ -772,7 +793,8 @@
                 "de": "Genießen Sie die Ruhe ohne die sommerlichen Touristenmassen.",
                 "hu": "Élvezze a nyugalmat a nyári turistaáradat nélkül.",
                 "ro": "Bucurați-vă de liniște fără mulțimile de turiști din vară.",
-                "en": "Enjoy the peaceful streets without the summer tourist crowds."
+                "en": "Enjoy the peaceful streets without the summer tourist crowds.",
+                "fr": "Appréciez les rues paisibles sans les foules estivales de touristes."
               }
             },
             {
@@ -781,7 +803,8 @@
                 "de": "Das Licht am frühen Nachmittag ist ideal für Fotos.",
                 "hu": "A kora délutáni fények ideálisak a fotózáshoz.",
                 "ro": "Lumina de după-amiază devreme este ideală pentru fotografii.",
-                "en": "Early afternoon light is perfect for photography here."
+                "en": "Early afternoon light is perfect for photography here.",
+                "fr": "La lumière du début d’après-midi est parfaite pour la photographie ici."
               }
             },
             {
@@ -790,7 +813,8 @@
                 "de": "Achten Sie auf den Mistral-Wind, der hier sehr kalt wehen kann.",
                 "hu": "Figyeljen a Mistral szélre, amely itt nagyon hidegen fújhat.",
                 "ro": "Atenție la vântul Mistral, care poate sufla foarte rece aici.",
-                "en": "Watch out for the Mistral wind, which can feel very cold here."
+                "en": "Watch out for the Mistral wind, which can feel very cold here.",
+                "fr": "Surveillez le vent du Mistral, qui peut sembler très froid ici."
               }
             },
             {
@@ -799,7 +823,8 @@
                 "de": "Besuch vor 16:30 Uhr planen, da es früh dunkel wird.",
                 "hu": "Tervezze a látogatást 16:30 előtt, mert korán sötétedik.",
                 "ro": "Planificați vizita înainte de 16:30, deoarece se întunecă devreme.",
-                "en": "Plan your visit before 4:30 PM as it gets dark early."
+                "en": "Plan your visit before 4:30 PM as it gets dark early.",
+                "fr": "Planifiez votre visite avant 16h30 car l’obscurité arrive tôt."
               }
             }
           ],
@@ -829,10 +854,10 @@
               "Wear layers; it can be warm in the sun but very cold in the shade."
             ],
             "fr": [
-              "Le Mistral peut faire chuter considérablement la température ressentie.",
-              "Le soleil se couche dès 17h00 durant les mois d'hiver.",
-              "De nombreuses petites boutiques réduisent leurs horaires d'ouverture en basse saison.",
-              "Superposez les couches ; il peut faire bon au soleil mais très froid à l'ombre."
+              "Le vent du Mistral peut faire baisser significativement la température ressentie.",
+              "Le soleil se couche dès 17h00 pendant les mois d’hiver.",
+              "De nombreux petits commerces réduisent leurs horaires d’ouverture en basse saison.",
+              "Portez des couches ; il peut faire chaud au soleil mais très froid à l’ombre."
             ]
           }
         }
@@ -862,7 +887,7 @@
             "hu": "Az Alpilles körüli bringázás kiindulópontja.",
             "ro": "Punctul de plecare pentru turul cu bicicleta.",
             "en": "Start point for your cycling tour around the Alpilles.",
-            "fr": "Point de départ de votre circuit cycliste autour des Alpilles."
+            "fr": "Point de départ de votre circuit à vélo autour des Alpilles."
           }
         },
         {
@@ -881,7 +906,7 @@
             "hu": "Gyors megálló a római műemlékeknél.",
             "ro": "O oprire rapidă la monumentele romane.",
             "en": "A quick stop at the Roman monuments.",
-            "fr": "Un arrêt rapide devant les monuments romains."
+            "fr": "Un arrêt rapide aux monuments romains."
           }
         },
         {
@@ -900,7 +925,7 @@
             "hu": "Parkolja le biztonságosan a bringát a bejáratnál.",
             "ro": "Parcați bicicleta în siguranță la intrare.",
             "en": "Park your bike safely at the entrance.",
-            "fr": "Garez votre vélo en toute sécurité à l'entrée."
+            "fr": "Garez votre vélo en sécurité à l’entrée."
           }
         },
         {
@@ -919,7 +944,7 @@
             "hu": "A telephelyhez vezető út kissé meredek.",
             "ro": "Urcarea spre sit este ușor abruptă.",
             "en": "The approach to the site is slightly uphill.",
-            "fr": "L'approche du site est en légère montée."
+            "fr": "L’approche du site est légèrement en montée."
           }
         },
         {
@@ -966,7 +991,7 @@
         "hu": "Kerékpárral nemcsak a várost, hanem a környező olajfaligeteket is felfedezheti. A központból indulva érintjük a római emlékeket és a Van Gogh kolostort. Egy kis hurok az Alpilles lábánál csodás kilátást és friss levegőt kínál, mielőtt visszatérnénk pihenni a történelmi negyedbe.",
         "ro": "Cu bicicleta veți explora nu doar orașul, ci și livezile de măslini din jur. După plecarea din centru, vizitați monumentele romane și mănăstirea Van Gogh. O mică buclă prin poalele Alpilles oferă vederi superbe și aer curat înainte de a reveni în centrul istoric.",
         "en": "On a bike, you can explore not just the town but the surrounding olive groves as well. Starting from the center, head to the Roman monuments and the Van Gogh monastery. A short loop through the Alpilles foothills offers stunning views and fresh air before returning to the old town for relaxation.",
-        "fr": "À vélo, vous pouvez explorer non seulement la ville mais aussi les oliveraies environnantes. En partant du centre, dirigez-vous vers les monuments romains et le monastère de Van Gogh. Une petite boucle dans les contreforts des Alpilles offre des vues imprenables et un air frais avant de revenir se détendre dans la vieille ville."
+        "fr": "À vélo, vous pouvez explorer non seulement la ville mais aussi les oliveraies environnantes. En partant du centre, dirigez-vous vers les monuments romains et le monastère de Van Gogh. Une courte boucle dans les contreforts des Alpilles offre de superbes vues et de l’air pur avant de revenir vous détendre dans la vieille ville."
       },
       "gastro_picks": {
         "de": [
@@ -1107,8 +1132,8 @@
           "Watch out for the Mistral wind."
         ],
         "fr": [
-          "Louez un vélo électrique pour les sections vallonnées.",
-          "Attention au vent Mistral."
+          "Louez un vélo à assistance électrique pour les sections vallonnées.",
+          "Attention au vent du Mistral."
         ]
       },
       "variants": {
@@ -1117,7 +1142,8 @@
             "de": "Mit dem Fahrrad erkunden Sie nicht nur die Stadt, sondern auch die umliegenden Olivenhaine. Nach dem Start im Zentrum besuchen Sie die römischen Monumente und das Van-Gogh-Kloster. Eine kleine Schleife durch die Ausläufer der Alpilles bietet herrliche Ausblicke und frische Luft, bevor Sie zur Entspannung ins historische Viertel zurückkehren.",
             "hu": "Kerékpárral nemcsak a várost, hanem a környező olajfaligeteket is felfedezheti. A központból indulva érintjük a római emlékeket és a Van Gogh kolostort. Egy kis hurok az Alpilles lábánál csodás kilátást és friss levegőt kínál, mielőtt visszatérnénk pihenni a történelmi negyedbe.",
             "ro": "Cu bicicleta veți explora nu doar orașul, ci și livezile de măslini din jur. După plecarea din centru, vizitați monumentele romane și mănăstirea Van Gogh. O mică buclă prin poalele Alpilles oferă vederi superbe și aer curat înainte de a reveni în centrul istoric.",
-            "en": "On a bike, you can explore not just the town but the surrounding olive groves as well. Starting from the center, head to the Roman monuments and the Van Gogh monastery. A short loop through the Alpilles foothills offers stunning views and fresh air before returning to the old town for relaxation."
+            "en": "On a bike, you can explore not just the town but the surrounding olive groves as well. Starting from the center, head to the Roman monuments and the Van Gogh monastery. A short loop through the Alpilles foothills offers stunning views and fresh air before returning to the old town for relaxation.",
+            "fr": "À vélo, vous pouvez explorer non seulement la ville mais aussi les oliveraies environnantes. En partant du centre, dirigez-vous vers les monuments romains et le monastère de Van Gogh. Une courte boucle dans les contreforts des Alpilles offre de superbes vues et de l’air pur avant de revenir vous détendre dans la vieille ville."
           },
           "stops": [
             {
@@ -1126,7 +1152,8 @@
                 "de": "Startpunkt für die Radtour durch die Alpilles.",
                 "hu": "Az Alpilles körüli bringázás kiindulópontja.",
                 "ro": "Punctul de plecare pentru turul cu bicicleta.",
-                "en": "Start point for your cycling tour around the Alpilles."
+                "en": "Start point for your cycling tour around the Alpilles.",
+                "fr": "Point de départ de votre circuit à vélo autour des Alpilles."
               }
             },
             {
@@ -1135,7 +1162,8 @@
                 "de": "Ein schneller Stopp bei den römischen Monumenten.",
                 "hu": "Gyors megálló a római műemlékeknél.",
                 "ro": "O oprire rapidă la monumentele romane.",
-                "en": "A quick stop at the Roman monuments."
+                "en": "A quick stop at the Roman monuments.",
+                "fr": "Un arrêt rapide aux monuments romains."
               }
             },
             {
@@ -1144,7 +1172,8 @@
                 "de": "Parken Sie Ihr Rad sicher am Eingang.",
                 "hu": "Parkolja le biztonságosan a bringát a bejáratnál.",
                 "ro": "Parcați bicicleta în siguranță la intrare.",
-                "en": "Park your bike safely at the entrance."
+                "en": "Park your bike safely at the entrance.",
+                "fr": "Garez votre vélo en sécurité à l’entrée."
               }
             },
             {
@@ -1153,7 +1182,8 @@
                 "de": "Die Auffahrt zum Gelände ist leicht steil.",
                 "hu": "A telephelyhez vezető út kissé meredek.",
                 "ro": "Urcarea spre sit este ușor abruptă.",
-                "en": "The approach to the site is slightly uphill."
+                "en": "The approach to the site is slightly uphill.",
+                "fr": "L’approche du site est légèrement en montée."
               }
             },
             {
@@ -1162,7 +1192,8 @@
                 "de": "Genießen Sie die Fahrt durch Olivenhainfelder.",
                 "hu": "Élvezze a tekerést az olajfaligetek között.",
                 "ro": "Bucurați-vă de plimbarea printre livezile de măslini.",
-                "en": "Enjoy the ride through the olive groves."
+                "en": "Enjoy the ride through the olive groves.",
+                "fr": "Profitez de la balade à travers les oliveraies."
               }
             },
             {
@@ -1171,7 +1202,8 @@
                 "de": "Belohnen Sie sich mit einem Eis in der Altstadt.",
                 "hu": "Jutalmazza meg magát egy fagyival az óvárosban.",
                 "ro": "Răsplătiți-vă cu o înghețată în centrul vechi.",
-                "en": "Reward yourself with an ice cream in the old town."
+                "en": "Reward yourself with an ice cream in the old town.",
+                "fr": "Récompensez-vous avec une glace dans la vieille ville."
               }
             }
           ],
@@ -1289,6 +1321,10 @@
             "en": [
               "Rent an e-bike for the hilly sections.",
               "Watch out for the Mistral wind."
+            ],
+            "fr": [
+              "Louez un vélo à assistance électrique pour les sections vallonnées.",
+              "Attention au vent du Mistral."
             ]
           }
         },
@@ -1298,7 +1334,7 @@
             "hu": "A nap óvatosan indul a vizes utakon a Place de la République-ról. Az Antiques felé vezető szakasz koncentrációt igényel a csúszós részek miatt. Délben a Saint-Paul-de-Mausole kolostora nyújt száraz pihenőt. Az Alpilles-kört délután lerövidítjük, elkerülve a sárt a mellékutakon. A nap biztonságban ér véget a városközpontban.",
             "ro": "Ziua începe cu prudență pe străzile ude din Place de la République. Drumul spre Antiques necesită concentrare din cauza porțiunilor alunecoase. La prânz, Saint-Paul-de-Mausole oferă o pauză uscată sub cloastru. Bucla Alpilles este scurtată după-amiaza pentru a evita noroiul. Ziua se încheie în siguranță în centrul orașului.",
             "en": "The day starts cautiously on wet roads from Place de la République. The ride to the Antiques requires focus due to slippery patches. At midday, Saint-Paul-de-Mausole provides a dry respite under the cloister. The Alpilles loop is shortened in the afternoon to avoid mud on backroads. The day ends safely back in the town centre.",
-            "fr": "La journée commence prudemment sur les routes mouillées depuis la place de la République. Le trajet vers les Antiques demande de la concentration à cause des zones glissantes. À midi, Saint-Paul-de-Mausole offre un répit au sec sous le cloître. La boucle des Alpilles est écourtée l'après-midi pour éviter la boue sur les chemins de traverse. La journée se termine en toute sécurité au centre-ville."
+            "fr": "La journée commence prudemment sur des routes humides depuis la Place de la République. La route vers les Antiques demande de la concentration à cause de plaques glissantes. À midi, Saint-Paul-de-Mausole offre un répit sec sous le cloître. La boucle des Alpilles est raccourcie l’après-midi pour éviter la boue sur les chemins secondaires. La journée se termine en toute sécurité au centre-ville."
           },
           "stops": [
             {
@@ -1307,7 +1343,8 @@
                 "de": "Bremsen vor der Abfahrt auf Kopfsteinpflaster prüfen.",
                 "hu": "Indulás előtt ellenőrizze a fékeket a macskakövön.",
                 "ro": "Verificați frânele pe piatra cubică înainte de plecare.",
-                "en": "Check your brakes on the cobblestones before starting."
+                "en": "Check your brakes on the cobblestones before starting.",
+                "fr": "Vérifiez vos freins sur les pavés avant de démarrer."
               }
             },
             {
@@ -1316,7 +1353,8 @@
                 "de": "Vermeiden Sie das Fahren direkt über die glatten Steinplatten.",
                 "hu": "Kerülje a közvetlen ráhajtást a sima kőlapokra.",
                 "ro": "Evitați să circulați direct pe plăcile de piatră lucioase.",
-                "en": "Avoid cycling directly over the smooth stone slabs."
+                "en": "Avoid cycling directly over the smooth stone slabs.",
+                "fr": "Évitez de rouler directement sur les dalles de pierre lisses."
               }
             },
             {
@@ -1325,7 +1363,8 @@
                 "de": "Fahrräder am Haupteingang im geschützten Bereich abstellen.",
                 "hu": "A kerékpárokat a főbejáratnál, védett helyen parkolja le.",
                 "ro": "Parcați bicicletele într-o zonă protejată la intrarea principală.",
-                "en": "Park bikes in a sheltered area near the main entrance."
+                "en": "Park bikes in a sheltered area near the main entrance.",
+                "fr": "Garez les vélos dans une zone abritée près de l’entrée principale."
               }
             },
             {
@@ -1334,7 +1373,8 @@
                 "de": "Vorsicht beim Absteigen, der Boden kann schlammig sein.",
                 "hu": "Vigyázat a leszálláskor, a talaj sáros lehet.",
                 "ro": "Atenție la coborâre, solul poate fi noroios.",
-                "en": "Be careful when dismounting; the ground can be muddy."
+                "en": "Be careful when dismounting; the ground can be muddy.",
+                "fr": "Faites attention en descendant de vélo ; le sol peut être boueux."
               }
             },
             {
@@ -1343,7 +1383,8 @@
                 "de": "Bleiben Sie auf asphaltierten Straßen; Feldwege sind nun sehr weich.",
                 "hu": "Maradjon az aszfaltozott utakon; a földutak most nagyon puhák.",
                 "ro": "Rămâneți pe drumurile asfaltate; potecile sunt acum foarte moi.",
-                "en": "Stick to paved roads; dirt trails are now very soft."
+                "en": "Stick to paved roads; dirt trails are now very soft.",
+                "fr": "Restez sur les routes goudronnées ; les sentiers en terre sont maintenant très mous."
               }
             },
             {
@@ -1352,7 +1393,8 @@
                 "de": "Vorsicht in engen Kurven bei Nässe.",
                 "hu": "Vigyázat a szűk kanyarokban nedves időben.",
                 "ro": "Atenție în curbele strânse pe carosabil umed.",
-                "en": "Use caution in tight turns when the ground is wet."
+                "en": "Use caution in tight turns when the ground is wet.",
+                "fr": "Soyez prudent dans les virages serrés quand le sol est humide."
               }
             }
           ],
@@ -1383,9 +1425,9 @@
             ],
             "fr": [
               "Portez une veste de pluie haute visibilité pour plus de sécurité.",
-              "Évitez les flaques, elles peuvent être plus profondes qu'il n'y paraît.",
+              "Évitez les flaques car elles peuvent être plus profondes qu’elles n’en ont l’air.",
               "Réduisez légèrement la pression des pneus pour une meilleure adhérence sur sol mouillé.",
-              "Prévoyez plus de temps et de distance pour freiner sur l'asphalte humide."
+              "Prévoyez plus de temps et de distance pour freiner sur l’asphalte humide."
             ]
           }
         },
@@ -1395,7 +1437,7 @@
             "hu": "Fagyos indulás a Place de la République-ról kesztyűben és sapkában. A tekerés az Antiques felé frissítő a tiszta reggeli fényben. Délben élvezzük a napsütést az Alpilles-ben, de vigyázzunk a hideg széllel. Késő délután visszatérünk az óvárosba, mielőtt 16:30 után a hőmérséklet hirtelen leesik. A nap egy forró bor mellett ér véget.",
             "ro": "Un start înghețat în Place de la République cu mănuși și căciulă. Drumul spre Antiques este revigorant în lumina clară a dimineții. La prânz bucurați-vă de soare în Alpilles, dar atenție la vântul rece. După-amiaza târziu reveniți în oraș înainte ca temperaturile să scadă brusc după 16:30. Ziua se termină cu un vin fiert.",
             "en": "A frosty start at Place de la République with gloves and a hat. The ride to the Antiques is bracing in the clear morning light. At midday, enjoy the sun in the Alpilles, but watch out for the chilling wind. In the late afternoon, return to the old town before temperatures drop sharply after 4:30 PM. The day ends with a warm mulled wine.",
-            "fr": "Un départ givré place de la République avec gants et bonnet. La balade vers les Antiques est revigorante sous la lumière claire du matin. À midi, profitez du soleil dans les Alpilles, mais gare au vent glacial. En fin d'après-midi, regagnez la vieille ville avant que les températures ne chutent brusquement après 16h30. La journée se termine par un vin chaud."
+            "fr": "Un départ givré à la Place de la République avec gants et bonnet. La route vers les Antiques est vivifiante sous la lumière claire du matin. À midi, profitez du soleil dans les Alpilles, mais méfiez-vous du vent glacial. En fin d’après-midi, retournez en vieille ville avant que les températures chutent fortement après 16h30. La journée se termine par un vin chaud réconfortant."
           },
           "stops": [
             {
@@ -1404,7 +1446,8 @@
                 "de": "Handschuhe sind für die erste Etappe am Morgen unerlässlich.",
                 "hu": "A kesztyű elengedhetetlen a reggeli első szakaszhoz.",
                 "ro": "Mănușile sunt esențiale pentru prima etapă a dimineții.",
-                "en": "Gloves are essential for the first leg in the morning."
+                "en": "Gloves are essential for the first leg in the morning.",
+                "fr": "Les gants sont essentiels pour le premier tronçon le matin."
               }
             },
             {
@@ -1413,7 +1456,8 @@
                 "de": "Perfektes Fotolicht, aber Vorsicht vor Raureif auf dem Boden.",
                 "hu": "Tökéletes fotófények, de vigyázzon a dérrel a talajon.",
                 "ro": "Lumină perfectă pentru poze, dar atenție la chiciura de pe jos.",
-                "en": "Perfect photo light, but watch out for frost on the ground."
+                "en": "Perfect photo light, but watch out for frost on the ground.",
+                "fr": "Lumière parfaite pour les photos, mais attention au gel au sol."
               }
             },
             {
@@ -1422,7 +1466,8 @@
                 "de": "Eine Pause im sonnigen Garten wärmt die Glieder auf.",
                 "hu": "Egy pihenő a napsütötte kertben átmelegíti a végtagokat.",
                 "ro": "O pauză în grădina însorită vă va încălzi membrele.",
-                "en": "A break in the sunny garden helps warm up your limbs."
+                "en": "A break in the sunny garden helps warm up your limbs.",
+                "fr": "Une pause dans le jardin ensoleillé aide à réchauffer les membres."
               }
             },
             {
@@ -1431,7 +1476,8 @@
                 "de": "Im Schatten der Ruinen wird es sehr schnell kühl.",
                 "hu": "A romok árnyékában nagyon gyorsan lehűl a levegő.",
                 "ro": "Se face răcoare foarte repede la umbra ruinelor.",
-                "en": "It gets chilly very quickly in the shadow of the ruins."
+                "en": "It gets chilly very quickly in the shadow of the ruins.",
+                "fr": "Il fait très vite froid à l'ombre des ruines."
               }
             },
             {
@@ -1440,7 +1486,8 @@
                 "de": "Der Mistral kann auf freier Strecke ein harter Gegner sein.",
                 "hu": "A Mistral a nyílt szakaszokon kemény ellenfél lehet.",
                 "ro": "Mistralul poate fi un adversar dur pe porțiunile deschise.",
-                "en": "The Mistral wind can be a tough opponent on open stretches."
+                "en": "The Mistral wind can be a tough opponent on open stretches.",
+                "fr": "Le Mistral peut être un adversaire coriace sur les étendues découvertes."
               }
             },
             {
@@ -1449,7 +1496,8 @@
                 "de": "Viele Cafés schließen ihre Terrassen im Winter früher.",
                 "hu": "Sok kávézó télen korábban zárja be a teraszát.",
                 "ro": "Multe cafenele închid terasele mai devreme iarna.",
-                "en": "Many cafes close their terraces earlier in the winter."
+                "en": "Many cafes close their terraces earlier in the winter.",
+                "fr": "Beaucoup de cafés ferment leurs terrasses plus tôt en hiver."
               }
             }
           ],
@@ -1479,10 +1527,10 @@
               "Be wary of shaded forest paths where black ice might linger."
             ],
             "fr": [
-              "Portez des vêtements coupe-vent pour lutter contre le Mistral glacial.",
-              "Apportez un thermos de thé chaud pour vos pauses.",
-              "Vérifiez la pression des pneus ; elle chute souvent avec le froid.",
-              "Méfiez-vous des sentiers forestiers ombragés où le verglas peut persister."
+              "Portez des vêtements coupe-vent pour lutter contre le froid du Mistral.",
+              "Emportez une thermos de thé chaud pour vos pauses.",
+              "Vérifiez la pression des pneus ; elle baisse souvent par temps froid.",
+              "Méfiez-vous des chemins forestiers ombragés où le verglas peut subsister."
             ]
           }
         }
@@ -1512,7 +1560,7 @@
             "hu": "Parkoljon a de la Libération parkolóban.",
             "ro": "Parcați în parcarea de la Libération.",
             "en": "Park at the Libération parking lot.",
-            "fr": "Garez-vous au parking de la Libération."
+            "fr": "Garez-vous au parking Libération."
           }
         },
         {
@@ -1531,7 +1579,7 @@
             "hu": "Nagy parkoló közvetlenül a műemlékekkel szemben.",
             "ro": "Parcare mare direct vis-a-vis de monumente.",
             "en": "Large parking lot directly opposite the monuments.",
-            "fr": "Grand parking juste en face des monuments."
+            "fr": "Grand parking directement en face des monuments."
           }
         },
         {
@@ -1550,7 +1598,7 @@
             "hu": "Rövid autóút Glanumtól.",
             "ro": "Drum scurt cu mașina de la Glanum.",
             "en": "Short drive from Glanum.",
-            "fr": "Court trajet depuis Glanum."
+            "fr": "Courte route depuis Glanum."
           }
         },
         {
@@ -1569,7 +1617,7 @@
             "hu": "Látványos fényshow egy kőbányában (Les Baux mellett).",
             "ro": "Spectacol de lumini spectaculos într-o carieră (lângă Les Baux).",
             "en": "Spectacular light show in a limestone quarry (near Les Baux).",
-            "fr": "Spectacle de lumière spectaculaire dans une carrière de calcaire (près des Baux)."
+            "fr": "Spectacle lumineux spectaculaire dans une carrière de calcaire (près des Baux)."
           }
         },
         {
@@ -1588,7 +1636,7 @@
             "hu": "Franciaország egyik legszebb faluja egy sziklán.",
             "ro": "Unul dintre cele mai frumoase sate din Franța pe o stâncă.",
             "en": "One of the most beautiful villages in France perched on a rock.",
-            "fr": "L'un des plus beaux villages de France perché sur un rocher."
+            "fr": "Un des plus beaux villages de France perché sur un rocher."
           }
         },
         {
@@ -1607,7 +1655,7 @@
             "hu": "Vacsora a központban.",
             "ro": "Cina în centru.",
             "en": "Dinner in the center.",
-            "fr": "Dîner au centre-ville."
+            "fr": "Dîner au centre."
           }
         }
       ],
@@ -1616,7 +1664,7 @@
         "hu": "Autóval Saint-Rémy legfontosabb látnivalóit kombináljuk a látványos Les Baux-de-Provence faluval. Délelőtt Glanumot és a Van Gogh otthont keressük fel. Rövid panorámaút után az Alpilles-ben, digitális művészeti élményben lesz részünk a Carrières des Lumières-ben, majd felfedezzük Les Baux középkori várát, mielőtt visszatérnénk vacsorázni.",
         "ro": "Cu mașina combinați atracțiile din Saint-Rémy cu satul spectaculos Les Baux-de-Provence. Dimineața vizitați Glanum și azilul lui Van Gogh. După o scurtă călătorie panoramică prin Alpilles, experimentați arta digitală la Carrières des Lumières și explorați fortăreața medievală din Les Baux înainte de a reveni în Saint-Rémy.",
         "en": "By car, you can combine Saint-Rémy's highlights with the spectacular village of Les Baux-de-Provence. Spend the morning at Glanum and the Van Gogh asylum. After a short scenic drive through the Alpilles, experience digital art at Carrières des Lumières and explore the medieval fortress of Les Baux before heading back for dinner.",
-        "fr": "En voiture, combinez les incontournables de Saint-Rémy avec le village spectaculaire des Baux-de-Provence. Passez la matinée à Glanum et à l'asile de Van Gogh. Après un court trajet pittoresque dans les Alpilles, découvrez l'art numérique aux Carrières des Lumières et explorez la forteresse médiévale des Baux avant de rentrer pour dîner."
+        "fr": "En voiture, vous pouvez combiner les points forts de Saint-Rémy avec le spectaculaire village des Baux-de-Provence. Passez la matinée à Glanum et à l'asile de Van Gogh. Après une courte route panoramique à travers les Alpilles, découvrez l'art numérique aux Carrières des Lumières et explorez la forteresse médiévale des Baux avant de revenir pour le dîner."
       },
       "gastro_picks": {
         "de": [
@@ -1747,7 +1795,8 @@
             "de": "Mit dem Auto kombinieren Sie die Highlights von Saint-Rémy mit dem spektakulären Dorf Les Baux-de-Provence. Vormittags besuchen Sie Glanum und das Van-Gogh-Heim. Nach einer kurzen Panoramafahrt durch die Alpilles erleben Sie die digitale Kunst in den Carrières des Lumières und erkunden die mittelalterliche Festung von Les Baux, bevor Sie nach Saint-Rémy zurückkehren.",
             "hu": "Autóval Saint-Rémy legfontosabb látnivalóit kombináljuk a látványos Les Baux-de-Provence faluval. Délelőtt Glanumot és a Van Gogh otthont keressük fel. Rövid panorámaút után az Alpilles-ben, digitális művészeti élményben lesz részünk a Carrières des Lumières-ben, majd felfedezzük Les Baux középkori várát, mielőtt visszatérnénk vacsorázni.",
             "ro": "Cu mașina combinați atracțiile din Saint-Rémy cu satul spectaculos Les Baux-de-Provence. Dimineața vizitați Glanum și azilul lui Van Gogh. După o scurtă călătorie panoramică prin Alpilles, experimentați arta digitală la Carrières des Lumières și explorați fortăreața medievală din Les Baux înainte de a reveni în Saint-Rémy.",
-            "en": "By car, you can combine Saint-Rémy's highlights with the spectacular village of Les Baux-de-Provence. Spend the morning at Glanum and the Van Gogh asylum. After a short scenic drive through the Alpilles, experience digital art at Carrières des Lumières and explore the medieval fortress of Les Baux before heading back for dinner."
+            "en": "By car, you can combine Saint-Rémy's highlights with the spectacular village of Les Baux-de-Provence. Spend the morning at Glanum and the Van Gogh asylum. After a short scenic drive through the Alpilles, experience digital art at Carrières des Lumières and explore the medieval fortress of Les Baux before heading back for dinner.",
+            "fr": "En voiture, vous pouvez combiner les points forts de Saint-Rémy avec le spectaculaire village des Baux-de-Provence. Passez la matinée à Glanum et à l'asile de Van Gogh. Après une courte route panoramique à travers les Alpilles, découvrez l'art numérique aux Carrières des Lumières et explorez la forteresse médiévale des Baux avant de revenir pour le dîner."
           },
           "stops": [
             {
@@ -1756,7 +1805,8 @@
                 "de": "Parken Sie auf dem Parkplatz de la Libération.",
                 "hu": "Parkoljon a de la Libération parkolóban.",
                 "ro": "Parcați în parcarea de la Libération.",
-                "en": "Park at the Libération parking lot."
+                "en": "Park at the Libération parking lot.",
+                "fr": "Garez-vous au parking Libération."
               }
             },
             {
@@ -1765,7 +1815,8 @@
                 "de": "Großer Parkplatz direkt gegenüber den Monumenten.",
                 "hu": "Nagy parkoló közvetlenül a műemlékekkel szemben.",
                 "ro": "Parcare mare direct vis-a-vis de monumente.",
-                "en": "Large parking lot directly opposite the monuments."
+                "en": "Large parking lot directly opposite the monuments.",
+                "fr": "Grand parking directement en face des monuments."
               }
             },
             {
@@ -1774,7 +1825,8 @@
                 "de": "Kurze Fahrt von Glanum.",
                 "hu": "Rövid autóút Glanumtól.",
                 "ro": "Drum scurt cu mașina de la Glanum.",
-                "en": "Short drive from Glanum."
+                "en": "Short drive from Glanum.",
+                "fr": "Courte route depuis Glanum."
               }
             },
             {
@@ -1783,7 +1835,8 @@
                 "de": "Spektakuläre Lichtshow in einem Steinbruch (nahe Les Baux).",
                 "hu": "Látványos fényshow egy kőbányában (Les Baux mellett).",
                 "ro": "Spectacol de lumini spectaculos într-o carieră (lângă Les Baux).",
-                "en": "Spectacular light show in a limestone quarry (near Les Baux)."
+                "en": "Spectacular light show in a limestone quarry (near Les Baux).",
+                "fr": "Spectacle lumineux spectaculaire dans une carrière de calcaire (près des Baux)."
               }
             },
             {
@@ -1792,7 +1845,8 @@
                 "de": "Eines der schönsten Dörfer Frankreichs auf einem Felsen.",
                 "hu": "Franciaország egyik legszebb faluja egy sziklán.",
                 "ro": "Unul dintre cele mai frumoase sate din Franța pe o stâncă.",
-                "en": "One of the most beautiful villages in France perched on a rock."
+                "en": "One of the most beautiful villages in France perched on a rock.",
+                "fr": "Un des plus beaux villages de France perché sur un rocher."
               }
             },
             {
@@ -1801,7 +1855,8 @@
                 "de": "Abendessen im Zentrum.",
                 "hu": "Vacsora a központban.",
                 "ro": "Cina în centru.",
-                "en": "Dinner in the center."
+                "en": "Dinner in the center.",
+                "fr": "Dîner au centre."
               }
             }
           ],
@@ -1903,6 +1958,10 @@
             "en": [
               "Parking in Les Baux is expensive and limited in summer.",
               "Buy combination tickets for Glanum and Les Baux."
+            ],
+            "fr": [
+              "Le stationnement aux Baux est cher et limité en été.",
+              "Achetez des billets combinés pour Glanum et les Baux."
             ]
           }
         },
@@ -1912,7 +1971,7 @@
             "hu": "Nyugodt indulás az eső ellenére a Place de la République-ról. A Glanum felé vezető út rövid, a parkolók közel vannak a bejárathoz. Délben a Saint-Paul-de-Mausole nyújt védelmet. A délután fénypontja a Carrières des Lumières – egy óriási, száraz barlang fényshow-val. A nap Les Baux-ban és a kényelmes visszautazással ér véget.",
             "ro": "Un start relaxat în ciuda ploii din Place de la République. Drumul spre Glanum e scurt, parcările sunt aproape de intrare. La prânz, Saint-Paul oferă adăpost. Punctul culminant e după-amiaza la Carrières des Lumières – o peșteră uriașă și uscată cu spectacol de lumini. Ziua se încheie confortabil în Les Baux.",
             "en": "A relaxed start despite the rain at Place de la République. The drive to Glanum is short, with parking close to the entrance. At midday, Saint-Paul-de-Mausole provides cover. The highlight is the afternoon at Carrières des Lumières – a massive, dry cavern with a light show. The day ends comfortably in Les Baux before driving back.",
-            "fr": "Un départ détendu malgré la pluie place de la République. Le trajet vers Glanum est court, avec un parking proche de l'entrée. À midi, Saint-Paul-de-Mausole offre un abri. Le clou de la journée est l'après-midi aux Carrières des Lumières – une immense caverne au sec avec son spectacle de lumières. La journée s'achève confortablement aux Baux avant de reprendre la route."
+            "fr": "Un départ détendu malgré la pluie sur la Place de la République. La route vers Glanum est courte, avec un parking proche de l'entrée. À midi, Saint-Paul-de-Mausole offre un abri. Le point fort est l'après-midi aux Carrières des Lumières – une cavité immense et sèche avec un spectacle lumineux. La journée se termine confortablement aux Baux avant le retour en voiture."
           },
           "stops": [
             {
@@ -1921,7 +1980,8 @@
                 "de": "Parken Sie im Parkhaus 'Libération' für einen trockenen Weg.",
                 "hu": "Parkoljon a 'Libération' mélygarázsban a száraz út érdekében.",
                 "ro": "Parcați în garajul 'Libération' pentru a rămâne uscat.",
-                "en": "Park in the 'Libération' garage for a dry walk to the square."
+                "en": "Park in the 'Libération' garage for a dry walk to the square.",
+                "fr": "Garez-vous au garage « Libération » pour une promenade au sec jusqu'à la place."
               }
             },
             {
@@ -1930,7 +1990,8 @@
                 "de": "Direkt am Parkplatz gibt es einen kleinen Souvenirshop zum Unterstellen.",
                 "hu": "Közvetlenül a parkolónál van egy kis szuvenírbolt, ahol megpihenhet.",
                 "ro": "Există un mic magazin de suveniruri lângă parcare pentru adăpost.",
-                "en": "There's a small souvenir shop by the parking to take cover."
+                "en": "There's a small souvenir shop by the parking to take cover.",
+                "fr": "Il y a une petite boutique de souvenirs près du parking pour s'abriter."
               }
             },
             {
@@ -1939,7 +2000,8 @@
                 "de": "Der Parkplatz kann bei starkem Regen Pfützen bilden.",
                 "hu": "A parkolóban heves esőzéskor tócsák alakulhatnak ki.",
                 "ro": "Parcarea poate forma bălți mari în timpul ploilor torențiale.",
-                "en": "The parking area can develop large puddles during heavy rain."
+                "en": "The parking area can develop large puddles during heavy rain.",
+                "fr": "La zone de stationnement peut former de grandes flaques lors de fortes pluies."
               }
             },
             {
@@ -1948,7 +2010,8 @@
                 "de": "Bester Ort bei Regen; die gesamte Ausstellung ist unterirdisch.",
                 "hu": "Legjobb hely esőben; a teljes kiállítás föld alatt van.",
                 "ro": "Cel mai bun loc pe ploaie; întreaga expoziție este subterană.",
-                "en": "Best rainy day spot; the entire exhibition is underground."
+                "en": "Best rainy day spot; the entire exhibition is underground.",
+                "fr": "Meilleur endroit par temps de pluie ; toute l'exposition est souterraine."
               }
             },
             {
@@ -1957,7 +2020,8 @@
                 "de": "Das Kopfsteinpflaster im Dorf ist bei Nässe extrem glatt.",
                 "hu": "A falu macskakövei nedvesen rendkívül csúszósak.",
                 "ro": "Piatra cubică din sat este extrem de alunecoasă pe ud.",
-                "en": "The cobblestones in the village are extremely slick when wet."
+                "en": "The cobblestones in the village are extremely slick when wet.",
+                "fr": "Les pavés du village deviennent extrêmement glissants quand ils sont mouillés."
               }
             },
             {
@@ -1966,7 +2030,8 @@
                 "de": "Genießen Sie den Abend in einem Restaurant mit Kamin.",
                 "hu": "Élvezze az estét egy kandallós étteremben.",
                 "ro": "Bucurați-vă de seară într-un restaurant cu șemineu.",
-                "en": "Enjoy the evening in a restaurant with a fireplace."
+                "en": "Enjoy the evening in a restaurant with a fireplace.",
+                "fr": "Profitez de la soirée dans un restaurant avec cheminée."
               }
             }
           ],
@@ -1996,10 +2061,10 @@
               "Check your wipers; visibility can be poor in the dips of the road."
             ],
             "fr": [
-              "Les routes rurales peuvent subir des inondations localisées lors de fortes pluies.",
+              "Les routes rurales peuvent connaître des inondations localisées lors de fortes pluies.",
               "Utilisez les Carrières des Lumières comme refuge sûr pendant un orage.",
-              "Évitez de stationner sous les grands platanes en cas de vents violents.",
-              "Vérifiez vos essuie-glaces ; la visibilité peut être mauvaise dans les creux de la route."
+              "Évitez de vous garer sous de grands platanes en cas de risque de vents forts.",
+              "Vérifiez vos essuie-glaces ; la visibilité peut être mauvaise dans les creux de la route."
             ]
           }
         },
@@ -2009,7 +2074,7 @@
             "hu": "Ragyogó téli reggel a Place de la République-on. Az út az Alpilles-en keresztül látványos kilátást nyújt a kopár mészkősziklákra. Délben Saint-Paul csendes és elmélyült. Les Baux látogatása télen különösen kellemes, mert a vár szinte csak a miénk. A visszautazás Saint-Rémy-be a szürkületben történik.",
             "ro": "O dimineață de iarnă luminoasă în Place de la République. Drumul prin Alpilles oferă vederi spectaculoase asupra stâncilor calcaroase. La prânz, Saint-Paul e liniștit. Vizita la Les Baux este plăcută iarna, având cetatea aproape doar pentru voi. Întoarcerea la Saint-Rémy are loc la amurg.",
             "en": "A bright winter morning at Place de la République. The drive through the Alpilles offers spectacular views of the bare limestone crags. At midday, Saint-Paul is quiet and contemplative. Visiting Les Baux in winter is especially pleasant as you have the fortress almost to yourself. The return to Saint-Rémy happens at dusk.",
-            "fr": "Une lumineuse matinée d'hiver place de la République. La traversée des Alpilles offre des vues spectaculaires sur les crêtes de calcaire nu. À midi, Saint-Paul est calme et contemplatif. Visiter les Baux en hiver est particulièrement agréable car vous avez la forteresse presque pour vous seul. Le retour à Saint-Rémy se fait au crépuscule."
+            "fr": "Un matin d'hiver lumineux sur la Place de la République. La route à travers les Alpilles offre des vues spectaculaires sur les falaises calcaires dénudées. À midi, Saint-Paul est calme et contemplatif. Visiter les Baux en hiver est particulièrement agréable car vous avez presque la forteresse pour vous tout seul. Le retour à Saint-Rémy se fait au crépuscule."
           },
           "stops": [
             {
@@ -2018,7 +2083,8 @@
                 "de": "Nutzen Sie die Parkplätze im Zentrum, sie sind im Winter oft frei.",
                 "hu": "Használja a központi parkolókat, télen gyakran van szabad hely.",
                 "ro": "Folosiți parcările din centru, sunt adesea libere iarna.",
-                "en": "Use the central parking lots; they are often empty in winter."
+                "en": "Use the central parking lots; they are often empty in winter.",
+                "fr": "Utilisez les parkings centraux ; ils sont souvent vides en hiver."
               }
             },
             {
@@ -2027,7 +2093,8 @@
                 "de": "Die Sonne steht tief; Sonnenbrille beim Fahren nicht vergessen.",
                 "hu": "A nap alacsonyan jár; ne felejtse el a napszemüveget vezetéskor.",
                 "ro": "Soarele este jos; nu uitați ochelarii de soare la condus.",
-                "en": "The sun is low; don't forget your sunglasses while driving."
+                "en": "The sun is low; don't forget your sunglasses while driving.",
+                "fr": "Le soleil est bas ; n'oubliez pas vos lunettes de soleil en conduisant."
               }
             },
             {
@@ -2036,7 +2103,8 @@
                 "de": "Im Winter sind die Gärten weniger bunt, aber sehr friedlich.",
                 "hu": "Télen a kertek kevésbé színesek, de nagyon békések.",
                 "ro": "Iarna grădinile sunt mai puțin colorate, dar foarte liniștite.",
-                "en": "In winter, the gardens are less colorful but very peaceful."
+                "en": "In winter, the gardens are less colorful but very peaceful.",
+                "fr": "En hiver, les jardins sont moins colorés mais très paisibles."
               }
             },
             {
@@ -2045,7 +2113,8 @@
                 "de": "In der Höhle ist es kühl; behalten Sie Ihre Jacke an.",
                 "hu": "A barlangban hűvös van; hagyja magán a kabátját.",
                 "ro": "În peșteră este răcoare; păstrați-vă jacheta pe voi.",
-                "en": "It's chilly inside the cavern; keep your jacket on."
+                "en": "It's chilly inside the cavern; keep your jacket on.",
+                "fr": "Il fait frais à l'intérieur de la cavité ; gardez votre veste."
               }
             },
             {
@@ -2054,7 +2123,8 @@
                 "de": "Der Wind oben auf der Burg kann im Winter eisig sein.",
                 "hu": "A vár tetején a szél télen jéghideg lehet.",
                 "ro": "Vântul de sus de la cetate poate fi înghețat iarna.",
-                "en": "The wind up at the fortress can be icy in winter."
+                "en": "The wind up at the fortress can be icy in winter.",
+                "fr": "Le vent sur la forteresse peut être glacial en hiver."
               }
             },
             {
@@ -2063,7 +2133,8 @@
                 "de": "Achten Sie auf Wildwechsel in der Dämmerung auf den Landstraßen.",
                 "hu": "Figyeljen a vadakra a szürkületben az országutakon.",
                 "ro": "Atenție la animale sălbatice pe drumuri la amurg.",
-                "en": "Watch out for wildlife on the rural roads at dusk."
+                "en": "Watch out for wildlife on the rural roads at dusk.",
+                "fr": "Faites attention à la faune sur les routes rurales au crépuscule."
               }
             }
           ],
@@ -2093,10 +2164,10 @@
               "Plan your return trip before 5:30 PM to avoid driving in total darkness."
             ],
             "fr": [
-              "Le gel peut rendre les routes glissantes dans les zones ombragées des Alpilles.",
-              "Les tarifs de stationnement sont souvent plus bas ou gratuits en basse saison.",
-              "Les Carrières des Lumières ferment souvent pour entretien en janvier.",
-              "Prévoyez votre retour avant 17h30 pour éviter de conduire dans l'obscurité totale."
+              "Le gel peut rendre les routes glissantes dans les parties ombragées des Alpilles.",
+              "Les frais de stationnement sont souvent plus bas ou inexistants pendant la basse saison.",
+              "Les Carrières des Lumières ferment souvent pour maintenance en janvier.",
+              "Planifiez votre retour avant 17h30 pour éviter de conduire dans l'obscurité totale."
             ]
           }
         }
@@ -2126,7 +2197,7 @@
             "hu": "Regionális buszok csomópontja.",
             "ro": "Nod central pentru autobuzele regionale.",
             "en": "Central hub for regional buses.",
-            "fr": "Pôle central pour les bus régionaux."
+            "fr": "Nœud central des bus régionaux."
           }
         },
         {
@@ -2145,7 +2216,7 @@
             "hu": "Könnyen elérhető gyalog a buszállomástól.",
             "ro": "Ușor accesibil pe jos de la autogară.",
             "en": "Easy walk from the bus station.",
-            "fr": "À quelques minutes à pied de la gare routière."
+            "fr": "Facilement accessible à pied depuis la gare routière."
           }
         },
         {
@@ -2164,7 +2235,7 @@
             "hu": "Központi terület ebédeléshez.",
             "ro": "Zonă centrală pentru prânz.",
             "en": "Central area for lunch.",
-            "fr": "Zone centrale pour le déjeuner."
+            "fr": "Zone centrale pour déjeuner."
           }
         },
         {
@@ -2183,7 +2254,7 @@
             "hu": "Használja a helyi buszt (Navette) szezonban.",
             "ro": "Folosiți naveta locală în timpul sezonului.",
             "en": "Use the local shuttle (Navette) during the season.",
-            "fr": "Utilisez la navette locale durant la saison."
+            "fr": "Utilisez la navette locale (Navette) pendant la saison."
           }
         },
         {
@@ -2211,7 +2282,7 @@
         "hu": "Tömegközlekedéssel és a szezonális busszal Saint-Rémy jól bejárható. Délelőtt a múzeumokra és a történelmi központra koncentrálunk. Délután a busz elvisz a római ásatásokhoz és a Van Gogh otthonhoz, majd kényelmesen visszatérünk a kiindulópontra.",
         "ro": "Cu transportul public și naveta sezonieră, Saint-Rémy poate fi explorat ușor. Dimineața vă concentrați pe muzee și centrul istoric. După-amiaza, autobuzul sau naveta vă duce la situl roman și la azilul lui Van Gogh, înainte de a reveni la punctul de plecare.",
         "en": "Using public transport and the seasonal shuttle, Saint-Rémy is easily navigable. Spend your morning focusing on the museums and the historical center. In the afternoon, take the bus or shuttle to the Roman ruins and the Van Gogh asylum before returning conveniently to the main station.",
-        "fr": "Avec les transports publics et la navette saisonnière, Saint-Rémy est facile à parcourir. Consacrez votre matinée aux musées et au centre historique. L'après-midi, prenez le bus ou la navette vers les ruines romaines et l'asile de Van Gogh avant un retour pratique à la gare principale."
+        "fr": "En utilisant les transports publics et la navette saisonnière, Saint-Rémy est facilement navigable. Passez votre matinée dans les musées et le centre historique. L'après-midi, prenez le bus ou la navette jusqu'aux ruines romaines et à l'asile de Van Gogh avant de retourner commodément à la gare principale."
       },
       "gastro_picks": {
         "de": [
@@ -2332,8 +2403,8 @@
           "The Navette shuttle only runs during summer months."
         ],
         "fr": [
-          "Vérifiez les horaires de bus (Ligne 707) à l'avance.",
-          "La navette ne circule que durant les mois d'été."
+          "Vérifiez les horaires de bus (ligne 707) à l'avance.",
+          "La navette ne fonctionne que pendant les mois d'été."
         ]
       },
       "variants": {
@@ -2342,7 +2413,8 @@
             "de": "Mit dem öffentlichen Nahverkehr und dem saisonalen Shuttle lässt sich Saint-Rémy gut erkunden. Vormittags konzentrieren Sie sich auf die Museen und das historische Zentrum. Nachmittags bringt Sie der Bus oder Shuttle zu den römischen Ausgrabungen und dem Van-Gogh-Heim, bevor Sie bequem zum Ausgangspunkt zurückkehren.",
             "hu": "Tömegközlekedéssel és a szezonális busszal Saint-Rémy jól bejárható. Délelőtt a múzeumokra és a történelmi központra koncentrálunk. Délután a busz elvisz a római ásatásokhoz és a Van Gogh otthonhoz, majd kényelmesen visszatérünk a kiindulópontra.",
             "ro": "Cu transportul public și naveta sezonieră, Saint-Rémy poate fi explorat ușor. Dimineața vă concentrați pe muzee și centrul istoric. După-amiaza, autobuzul sau naveta vă duce la situl roman și la azilul lui Van Gogh, înainte de a reveni la punctul de plecare.",
-            "en": "Using public transport and the seasonal shuttle, Saint-Rémy is easily navigable. Spend your morning focusing on the museums and the historical center. In the afternoon, take the bus or shuttle to the Roman ruins and the Van Gogh asylum before returning conveniently to the main station."
+            "en": "Using public transport and the seasonal shuttle, Saint-Rémy is easily navigable. Spend your morning focusing on the museums and the historical center. In the afternoon, take the bus or shuttle to the Roman ruins and the Van Gogh asylum before returning conveniently to the main station.",
+            "fr": "En utilisant les transports publics et la navette saisonnière, Saint-Rémy est facilement navigable. Passez votre matinée dans les musées et le centre historique. L'après-midi, prenez le bus ou la navette jusqu'aux ruines romaines et à l'asile de Van Gogh avant de retourner commodément à la gare principale."
           },
           "stops": [
             {
@@ -2351,7 +2423,8 @@
                 "de": "Knotenpunkt für Regionalbusse.",
                 "hu": "Regionális buszok csomópontja.",
                 "ro": "Nod central pentru autobuzele regionale.",
-                "en": "Central hub for regional buses."
+                "en": "Central hub for regional buses.",
+                "fr": "Nœud central des bus régionaux."
               }
             },
             {
@@ -2360,7 +2433,8 @@
                 "de": "Leicht zu Fuß vom Busbahnhof erreichbar.",
                 "hu": "Könnyen elérhető gyalog a buszállomástól.",
                 "ro": "Ușor accesibil pe jos de la autogară.",
-                "en": "Easy walk from the bus station."
+                "en": "Easy walk from the bus station.",
+                "fr": "Facilement accessible à pied depuis la gare routière."
               }
             },
             {
@@ -2369,7 +2443,8 @@
                 "de": "Zentraler Bereich für Mittagessen.",
                 "hu": "Központi terület ebédeléshez.",
                 "ro": "Zonă centrală pentru prânz.",
-                "en": "Central area for lunch."
+                "en": "Central area for lunch.",
+                "fr": "Zone centrale pour déjeuner."
               }
             },
             {
@@ -2378,7 +2453,8 @@
                 "de": "Nutzen Sie den lokalen Shuttle (Navette) in der Saison.",
                 "hu": "Használja a helyi buszt (Navette) szezonban.",
                 "ro": "Folosiți naveta locală în timpul sezonului.",
-                "en": "Use the local shuttle (Navette) during the season."
+                "en": "Use the local shuttle (Navette) during the season.",
+                "fr": "Utilisez la navette locale (Navette) pendant la saison."
               }
             },
             {
@@ -2387,7 +2463,8 @@
                 "de": "In der Nähe der Haltestelle Les Antiques.",
                 "hu": "Les Antiques megálló közelében.",
                 "ro": "Aproape de stația Les Antiques.",
-                "en": "Near the Les Antiques stop."
+                "en": "Near the Les Antiques stop.",
+                "fr": "Près de l'arrêt Les Antiques."
               }
             }
           ],
@@ -2489,6 +2566,10 @@
             "en": [
               "Check bus schedules (Line 707) in advance.",
               "The Navette shuttle only runs during summer months."
+            ],
+            "fr": [
+              "Vérifiez les horaires de bus (ligne 707) à l'avance.",
+              "La navette ne fonctionne que pendant les mois d'été."
             ]
           }
         },
@@ -2498,7 +2579,7 @@
             "hu": "Indulás a Gare Routière fedett váróterméből. A helyi busz rövid útjai védenek az esőtől. Délben a Musée Estrine kulturális menedéket nyújt. A délutáni Glanum látogatást az időjárás miatt lerövidítjük. A nap a buszállomásra való visszatéréssel és egy rövid vágtával a legközelebbi kávézóig ér véget.",
             "ro": "Start de la Gare Routière sub copertină. Călătoriile scurte cu autobuzul local vă protejează de ploaie. La prânz, Musée Estrine este un refugiu cultural. După-amiaza la Glanum este scurtată din cauza vremii. Ziua se termină cu întoarcerea la autogară și un sprint spre cea mai apropiată cafenea.",
             "en": "Start at the Gare Routière under the shelter. Short trips on the local bus keep you out of the rain. At midday, Musée Estrine serves as a cultural haven. The afternoon at Glanum is cut short due to the weather. The day ends with a return to the bus station and a quick dash to the nearest cafe.",
-            "fr": "Départ à la gare routière à l'abri. De courts trajets en bus local vous permettent de rester hors de la pluie. À midi, le musée Estrine sert de refuge culturel. L'après-midi à Glanum est écourté à cause de la météo. La journée se termine par un retour à la gare routière et une course rapide vers le café le plus proche."
+            "fr": "Commencez à la Gare Routière sous l'abri. De courts trajets en bus local vous gardent à l'abri de la pluie. À midi, le Musée Estrine sert de havre culturel. L'après-midi à Glanum est écourté à cause du temps. La journée se termine par un retour à la gare routière et une course rapide jusqu'au café le plus proche."
           },
           "stops": [
             {
@@ -2507,7 +2588,8 @@
                 "de": "Warten Sie im kleinen Wartebereich, bis der Bus einfährt.",
                 "hu": "Várjon a kis váróteremben, amíg beáll a busz.",
                 "ro": "Așteptați în mica zonă de așteptare până sosește autobuzul.",
-                "en": "Wait in the small indoor area until the bus arrives."
+                "en": "Wait in the small indoor area until the bus arrives.",
+                "fr": "Attendez dans le petit espace intérieur jusqu'à l'arrivée du bus."
               }
             },
             {
@@ -2516,7 +2598,8 @@
                 "de": "Nutzen Sie den Museumsbesuch, um den Regen zu überbrücken.",
                 "hu": "Használja ki a múzeumlátogatást az eső elkerülésére.",
                 "ro": "Profitați de vizita la muzeu pentru a evita ploaia.",
-                "en": "Use the museum visit to bridge the rainy periods."
+                "en": "Use the museum visit to bridge the rainy periods.",
+                "fr": "Utilisez la visite du musée pour passer les périodes de pluie."
               }
             },
             {
@@ -2525,7 +2608,8 @@
                 "de": "Die Bushaltestellen im Zentrum haben oft keine Überdachung.",
                 "hu": "A belvárosi buszmegállóknak gyakran nincs fedelük.",
                 "ro": "Stațiile de autobuz din centru nu au adesea acoperiș.",
-                "en": "Bus stops in the center often lack shelters."
+                "en": "Bus stops in the center often lack shelters.",
+                "fr": "Les arrêts de bus du centre manquent souvent d'abris."
               }
             },
             {
@@ -2534,7 +2618,8 @@
                 "de": "Vom Busstop bis zum Eingang sind es ca. 5 Minuten Fußweg im Freien.",
                 "hu": "A buszmegállótól a bejáratig kb. 5 perc séta a szabadban.",
                 "ro": "De la stație la intrare sunt cca. 5 minute de mers pe jos afară.",
-                "en": "It's about a 5-minute walk from the stop to the entrance outdoors."
+                "en": "It's about a 5-minute walk from the stop to the entrance outdoors.",
+                "fr": "C'est à environ 5 minutes à pied de l'arrêt jusqu'à l'entrée extérieure."
               }
             },
             {
@@ -2543,7 +2628,8 @@
                 "de": "Prüfen Sie die Rückfahrzeiten genau, um langes Warten im Regen zu vermeiden.",
                 "hu": "Ellenőrizze pontosan a visszaindulást, elkerülve a várakozást az esőben.",
                 "ro": "Verificați orele de retur pentru a nu aștepta mult în ploaie.",
-                "en": "Check return times carefully to avoid waiting long in the rain."
+                "en": "Check return times carefully to avoid waiting long in the rain.",
+                "fr": "Vérifiez soigneusement les heures de retour pour éviter d'attendre longtemps sous la pluie."
               }
             }
           ],
@@ -2573,10 +2659,10 @@
               "Wear shoes with good grip for the walk to and from the bus stops."
             ],
             "fr": [
-              "Les horaires de bus peuvent être légèrement retardés par fortes pluies.",
-              "Préparez votre monnaie ou votre application mobile pour le ticket de bus.",
+              "Les horaires de bus peuvent être légèrement retardés lors de fortes pluies.",
+              "Ayez votre monnaie ou l'application mobile prête pour le ticket de bus.",
               "Évitez d'attendre aux arrêts non abrités si la pluie est forte.",
-              "Portez des chaussures avec une bonne adhérence pour marcher vers et depuis les arrêts."
+              "Portez des chaussures à bonne adhérence pour la marche vers et depuis les arrêts de bus."
             ]
           }
         },
@@ -2586,7 +2672,7 @@
             "hu": "Hűvös reggel a buszállomáson. Az út a Musée Estrine-hez rövid és meleg. Délben a történelmi központot fedezzük fel, majd busszal megyünk tovább az Antiques-hoz. A délutáni fények gyönyörűek, de a hideg gyorsan beköszönt. A nap korán, a visszautazással ér véget, még az esti fagy előtt.",
             "ro": "O dimineață răcoroasă la autogară. Drumul spre Musée Estrine e scurt și cald. La prânz explorați centrul istoric, apoi luați autobuzul spre Antiques. Lumina după-amiezii e superbă, dar frigul se instalează repede. Ziua se termină devreme cu drumul de întoarcere.",
             "en": "A chilly morning at the bus station. The ride to Musée Estrine is short and warm. At midday, explore the historic center before taking the bus further to the Antiques. The afternoon light is beautiful, but the cold sets in quickly. The day ends early with the return journey before the evening frost.",
-            "fr": "Une matinée fraîche à la gare routière. Le trajet vers le musée Estrine est court et chaud. À midi, explorez le centre historique avant de prendre le bus vers les Antiques. La lumière de l'après-midi est superbe, mais le froid s'installe vite. La journée finit tôt avec le trajet de retour avant le gel du soir."
+            "fr": "Un matin frais à la gare routière. Le trajet jusqu'au Musée Estrine est court et chaud. À midi, explorez le centre historique avant de prendre le bus jusqu'aux Antiques. La lumière de l'après-midi est belle, mais le froid s'installe vite. La journée se termine tôt avec le retour avant la gelée du soir."
           },
           "stops": [
             {
@@ -2595,7 +2681,8 @@
                 "de": "Der Wartebereich ist im Winter angenehm temperiert.",
                 "hu": "A váróterem télen kellemesen temperált.",
                 "ro": "Zona de așteptare este încălzită rezonabil iarna.",
-                "en": "The waiting area is kept at a comfortable temperature in winter."
+                "en": "The waiting area is kept at a comfortable temperature in winter.",
+                "fr": "L'aire d'attente est maintenue à une température confortable en hiver."
               }
             },
             {
@@ -2604,7 +2691,8 @@
                 "de": "Garderobe nutzen, um die schweren Winterjacken abzulegen.",
                 "hu": "Használja a ruhatárat a nehéz téli kabátok letételéhez.",
                 "ro": "Folosiți garderoba pentru a lăsa jachetele grele de iarnă.",
-                "en": "Use the cloakroom to store heavy winter coats during your visit."
+                "en": "Use the cloakroom to store heavy winter coats during your visit.",
+                "fr": "Utilisez le vestiaire pour laisser les lourds manteaux d'hiver pendant votre visite."
               }
             },
             {
@@ -2613,7 +2701,8 @@
                 "de": "Die Sonne erreicht die engen Gassen im Winter nur selten.",
                 "hu": "A nap télen ritkán éri el a szűk utcákat.",
                 "ro": "Soarele ajunge rar pe străzile înguste în timpul iernii.",
-                "en": "The sun rarely reaches the narrow streets in winter."
+                "en": "The sun rarely reaches the narrow streets in winter.",
+                "fr": "Le soleil atteint rarement les rues étroites en hiver."
               }
             },
             {
@@ -2622,7 +2711,8 @@
                 "de": "Letzter Bus zurück meist gegen 17:30 – nicht verpassen!",
                 "hu": "Az utolsó busz vissza általában 17:30 körül indul – ne késse le!",
                 "ro": "Ultimul autobuz înapoi e de obicei pe la 17:30 – nu-l ratați!",
-                "en": "Last bus back is usually around 5:30 PM – don't miss it!"
+                "en": "Last bus back is usually around 5:30 PM – don't miss it!",
+                "fr": "Le dernier bus du retour est généralement vers 17h30 – ne le manquez pas !"
               }
             },
             {
@@ -2631,7 +2721,8 @@
                 "de": "Bei Dunkelheit ist der Weg zur Haltestelle schlecht beleuchtet.",
                 "hu": "Sötétben a megállóhoz vezető út rosszul megvilágított.",
                 "ro": "Drumul spre stație este prost iluminat după lăsarea întunericului.",
-                "en": "The walk to the bus stop is poorly lit after dark."
+                "en": "The walk to the bus stop is poorly lit after dark.",
+                "fr": "Le chemin vers l'arrêt de bus est peu éclairé après la tombée de la nuit."
               }
             }
           ],
@@ -2661,10 +2752,10 @@
               "Sunset is around 5:00 PM; plan your return before it gets dark."
             ],
             "fr": [
-              "Les bus peuvent circuler moins fréquemment en hiver ; vérifiez les horaires à l'avance.",
+              "Les bus peuvent circuler moins fréquemment en hiver ; consultez l'horaire à l'avance.",
               "Les arrêts de bus à Glanum sont très exposés au vent.",
-              "Apportez une boisson chaude dans un mug isotherme pour le trajet en bus.",
-              "Le soleil se couche vers 17h00 ; prévoyez votre retour avant la tombée de la nuit."
+              "Emportez une boisson chaude dans une tasse thermos pour le trajet en bus.",
+              "Le coucher du soleil est vers 17h00 ; prévoyez votre retour avant la nuit."
             ]
           }
         }

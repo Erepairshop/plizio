@@ -31,7 +31,8 @@
             "de": "Bewundern Sie die Tunika Christi, eine der wichtigsten Reliquien Frankreichs.",
             "hu": "Csodálja meg Krisztus tunikáját, Franciaország egyik legfontosabb ereklyéjét.",
             "ro": "Admirați tunica lui Hristos, una dintre cele mai importante relicve din Franța.",
-            "en": "Admire the Tunic of Christ, one of the most important relics in France."
+            "en": "Admire the Tunic of Christ, one of the most important relics in France.",
+            "fr": "Admirez la Tunique du Christ, l'une des reliques les plus importantes de France."
           }
         },
         {
@@ -49,7 +50,8 @@
             "de": "Ein verstecktes Juwel romanischer Architektur im Schatten der Basilika.",
             "hu": "A román építészet rejtett ékköve a bazilika árnyékában.",
             "ro": "O bijuterie ascunsă a arhitecturii romanice în umbra basilicii.",
-            "en": "A hidden gem of Romanesque architecture in the shadow of the basilica."
+            "en": "A hidden gem of Romanesque architecture in the shadow of the basilica.",
+            "fr": "Un joyau caché de l'architecture romane à l'ombre de la basilique."
           }
         },
         {
@@ -67,7 +69,8 @@
             "de": "Erfahren Sie mehr über die lokale Geschichte und die Zeit der Impressionisten.",
             "hu": "Ismerje meg a helyi történelmet és az impresszionisták korszakát.",
             "ro": "Aflați mai multe despre istoria locală și epoca impresioniștilor.",
-            "en": "Learn more about local history and the era of the Impressionists."
+            "en": "Learn more about local history and the era of the Impressionists.",
+            "fr": "En savoir plus sur l'histoire locale et l'époque des impressionnistes."
           }
         },
         {
@@ -85,7 +88,8 @@
             "de": "Besuchen Sie das Haus, in dem Monet einige seiner berühmtesten Werke malte.",
             "hu": "Látogasson el a házba, ahol Monet leghíresebb művei közül többet festett.",
             "ro": "Vizitați casa unde Monet a pictat unele dintre cele mai celebre opere ale sale.",
-            "en": "Visit the house where Monet painted some of his most famous works."
+            "en": "Visit the house where Monet painted some of his most famous works.",
+            "fr": "Visitez la maison où Monet a peint quelques-unes de ses œuvres les plus célèbres."
           }
         },
         {
@@ -103,7 +107,8 @@
             "de": "Spazieren Sie am Seine-Ufer entlang, genau wie die Maler des 19. Jahrhunderts.",
             "hu": "Sétáljon a Szajna-parton, akárcsak a 19. századi festők.",
             "ro": "Plimbați-vă pe malul Senei, exact ca pictorii din secolul al XIX-lea.",
-            "en": "Stroll along the Seine banks, just like the 19th-century painters."
+            "en": "Stroll along the Seine banks, just like the 19th-century painters.",
+            "fr": "Promenez-vous le long des quais de la Seine, comme les peintres du XIXe siècle."
           }
         },
         {
@@ -121,7 +126,8 @@
             "de": "Ein Beispiel für moderne Sakralarchitektur im Herzen des Viertels.",
             "hu": "A modern szakrális építészet példája a negyed szívében.",
             "ro": "Un exemplu de arhitectură sacră modernă în inima cartierului.",
-            "en": "An example of modern sacred architecture in the heart of the district."
+            "en": "An example of modern sacred architecture in the heart of the district.",
+            "fr": "Un exemple d'architecture sacrée moderne au cœur du quartier."
           }
         }
       ],
@@ -129,7 +135,8 @@
         "de": "Beginnen Sie Ihren Tag im historischen Herzen von Argenteuil mit der Basilika Saint-Denys. Nach einem Besuch des lokalen Museums erkunden Sie das Erbe von Claude Monet in seinem ehemaligen Wohnhaus. Der Nachmittag lädt zu einem entspannten Spaziergang am Ufer der Seine ein, wo die Lichtverhältnisse schon die Impressionisten verzauberten. Den Abschluss bildet die moderne Kirche Sainte-Bernadette.",
         "hu": "Kezdje a napot Argenteuil történelmi szívében a Szent Dénes-bazilikával. A helyi múzeum megtekintése után fedezze fel Claude Monet örökségét egykori lakóházában. A délután pihentető sétára hív a Szajna-parton, ahol a fények egykor az impresszionistákat is megihlették. A napot a modern Szent Bernadette-templom látogatásával zárjuk.",
         "ro": "Începeți ziua în inima istorică a Argenteuil-ului cu Basilica Saint-Denys. După o vizită la muzeul local, explorați moștenirea lui Claude Monet în fosta sa casă. După-amiaza vă invită la o plimbare relaxantă pe malul Senei, unde jocurile de lumină i-au fermecat odinioară pe impresioniști. Încheiați cu vizitarea bisericii moderne Sainte-Bernadette.",
-        "en": "Start your day in the historical heart of Argenteuil with the Basilica of Saint-Denys. After visiting the local museum, explore Claude Monet's legacy in his former residence. The afternoon invites you for a relaxing stroll along the Seine banks, where the light once enchanted the Impressionists. Conclude your tour with the modern Sainte-Bernadette church."
+        "en": "Start your day in the historical heart of Argenteuil with the Basilica of Saint-Denys. After visiting the local museum, explore Claude Monet's legacy in his former residence. The afternoon invites you for a relaxing stroll along the Seine banks, where the light once enchanted the Impressionists. Conclude your tour with the modern Sainte-Bernadette church.",
+        "fr": "Commencez votre journée dans le cœur historique d'Argenteuil avec la basilique Saint-Denys. Après la visite du musée local, explorez l'héritage de Claude Monet dans son ancienne demeure. L'après-midi invite à une balade détendue le long des berges de la Seine, où la lumière a autrefois enchanté les impressionnistes. Concluez votre visite par l'église moderne Sainte-Bernadette."
       },
       "gastro_picks": {
         "de": [
@@ -273,6 +280,12 @@
           "The basilica is often closed during lunchtime.",
           "Book Monet's house in advance online.",
           "Look for the painting information boards along the river."
+        ],
+        "fr": [
+          "Portez des chaussures confortables pour le chemin au bord de l'eau.",
+          "La basilique est souvent fermée pendant la pause déjeuner.",
+          "Réservez la maison de Monet à l'avance en ligne.",
+          "Cherchez les panneaux d'information sur les peintures le long du fleuve."
         ]
       }
     },
@@ -299,7 +312,8 @@
             "de": "Fahrradständer direkt vor dem Haupteingang.",
             "hu": "Kerékpártároló közvetlenül a főbejáratnál.",
             "ro": "Suport de biciclete direct în fața intrării principale.",
-            "en": "Bike racks right in front of the main entrance."
+            "en": "Bike racks right in front of the main entrance.",
+            "fr": "Arceaux pour vélos juste devant l'entrée principale."
           }
         },
         {
@@ -317,7 +331,8 @@
             "de": "Kurzer Stopp im Stadtzentrum.",
             "hu": "Rövid megálló a városközpontban.",
             "ro": "Scurtă oprire în centrul orașului.",
-            "en": "Short stop in the city center."
+            "en": "Short stop in the city center.",
+            "fr": "Courte halte au centre-ville."
           }
         },
         {
@@ -335,7 +350,8 @@
             "de": "Der Anstieg lohnt sich für den Blick über Paris.",
             "hu": "A kaptató megéri a Párizsra nyíló kilátásért.",
             "ro": "Urcarea merită pentru vederea asupra Parisului.",
-            "en": "The climb is worth it for the view over Paris."
+            "en": "The climb is worth it for the view over Paris.",
+            "fr": "La montée vaut le coup pour la vue sur Paris."
           }
         },
         {
@@ -353,7 +369,8 @@
             "de": "Sichere Abstellmöglichkeiten im Hof.",
             "hu": "Biztonságos tárolás az udvarban.",
             "ro": "Posibilități sigure de parcare în curte.",
-            "en": "Safe parking options in the courtyard."
+            "en": "Safe parking options in the courtyard.",
+            "fr": "Options de stationnement sécurisées dans la cour."
           }
         },
         {
@@ -371,7 +388,8 @@
             "de": "Perfekte Radwege direkt am Wasser.",
             "hu": "Tökéletes kerékpárutak közvetlenül a vízparton.",
             "ro": "Piste de biciclete perfecte direct pe malul apei.",
-            "en": "Perfect bike paths right by the water."
+            "en": "Perfect bike paths right by the water.",
+            "fr": "Pistes cyclables parfaites au bord de l'eau."
           }
         }
       ],
@@ -379,7 +397,8 @@
         "de": "Mit dem Fahrrad erkunden Sie Argenteuil am effizientesten. Nach der Basilika führt der Weg hinauf zum Moulin d'Orgemont für ein Panorama über das Pariser Becken. Danach rollen Sie entspannt hinunter zum Monet-Haus und beenden die Tour auf den ausgebauten Radwegen entlang der Seine.",
         "hu": "Kerékpárral fedezheti fel a leghatékonyabban Argenteuilt. A bazilika után az út felvezet a Moulin d'Orgemont-hoz a párizsi medence panorámájáért. Ezután guruljon le a Monet-házhoz, és fejezze be a túrát a Szajna menti kiépített kerékpárutakon.",
         "ro": "Cu bicicleta explorați Argenteuil cel mai eficient. După basilică, drumul duce sus la Moulin d'Orgemont pentru o panoramă asupra bazinului parizian. Apoi coborâți relaxat spre casa lui Monet și încheiați turul pe pistele de biciclete amenajate de-a lungul Senei.",
-        "en": "Cycling is the most efficient way to explore Argenteuil. After the basilica, the path leads up to Moulin d'Orgemont for a panorama over the Paris basin. Then roll down to Monet's house and finish the tour on the well-developed bike paths along the Seine."
+        "en": "Cycling is the most efficient way to explore Argenteuil. After the basilica, the path leads up to Moulin d'Orgemont for a panorama over the Paris basin. Then roll down to Monet's house and finish the tour on the well-developed bike paths along the Seine.",
+        "fr": "Le vélo est le moyen le plus efficace pour explorer Argenteuil. Après la basilique, le chemin monte jusqu'au Moulin d'Orgemont pour un panorama sur le bassin parisien. Ensuite, descendez vers la maison de Monet et terminez la visite sur les pistes cyclables bien aménagées le long de la Seine."
       },
       "gastro_picks": {
         "de": [
@@ -479,6 +498,10 @@
         "en": [
           "Check your brakes before descending from the hill.",
           "The riverside path is flat and very pleasant."
+        ],
+        "fr": [
+          "Vérifiez vos freins avant la descente de la colline.",
+          "Le chemin riverain est plat et très agréable."
         ]
       }
     },
@@ -505,7 +528,8 @@
             "de": "Parken Sie im Parkhaus am Centre-Ville.",
             "hu": "Parkoljon a belvárosi parkolóházban.",
             "ro": "Parcați în parcarea etajată din centru.",
-            "en": "Park in the city center parking garage."
+            "en": "Park in the city center parking garage.",
+            "fr": "Garez-vous dans le parking souterrain du centre-ville."
           }
         },
         {
@@ -523,7 +547,8 @@
             "de": "Zu Fuß erreichbar vom Parkplatz der Basilika.",
             "hu": "Gyalogosan elérhető a bazilika parkolójától.",
             "ro": "Accesibil pe jos de la parcarea basilicii.",
-            "en": "Walkable from the basilica parking."
+            "en": "Walkable from the basilica parking.",
+            "fr": "Accessible à pied depuis le parking de la basilique."
           }
         },
         {
@@ -541,7 +566,8 @@
             "de": "Einfache Anfahrt über die Anhöhe.",
             "hu": "Könnyű megközelítés a dombtetőn keresztül.",
             "ro": "Acces facil prin partea de sus a dealului.",
-            "en": "Easy access via the hilltop."
+            "en": "Easy access via the hilltop.",
+            "fr": "Accès facile par le sommet de la colline."
           }
         },
         {
@@ -559,7 +585,8 @@
             "de": "Parken in der Nähe des Bahnhofs möglich.",
             "hu": "Parkolás a vasútállomás közelében lehetséges.",
             "ro": "Parcare posibilă în apropierea gării.",
-            "en": "Parking possible near the train station."
+            "en": "Parking possible near the train station.",
+            "fr": "Stationnement possible près de la gare."
           }
         },
         {
@@ -577,7 +604,8 @@
             "de": "Kurzer Stopp vor der Abfahrt.",
             "hu": "Rövid megálló az indulás előtt.",
             "ro": "Scurtă oprire înainte de plecare.",
-            "en": "Short stop before departure."
+            "en": "Short stop before departure.",
+            "fr": "Courte halte avant le départ."
           }
         }
       ],
@@ -585,7 +613,8 @@
         "de": "Die Autotour kombiniert das historische Zentrum mit den Außenbezirken. Cluster A umfasst die Basilika und das Museum. Danach fahren Sie zum Moulin d'Orgemont für den besten Ausblick, bevor Sie das Monet-Viertel im Süden besuchen.",
         "hu": "Az autós túra ötvözi a történelmi központot a külvárosi részekkel. Az A-csoport magában foglalja a bazilikát és a múzeumot. Ezután hajtson a Moulin d'Orgemont-hoz a legjobb kilátásért, mielőtt meglátogatná a déli Monet-negyedet.",
         "ro": "Turul cu mașina combină centrul istoric cu zonele periferice. Clusterul A cuprinde basilica și muzeul. Apoi conduceți la Moulin d'Orgemont pentru cea mai bună priveliște, înainte de a vizita cartierul Monet din sud.",
-        "en": "The car tour combines the historical center with the outskirts. Cluster A includes the basilica and the museum. Then drive to Moulin d'Orgemont for the best view before visiting the Monet district in the south."
+        "en": "The car tour combines the historical center with the outskirts. Cluster A includes the basilica and the museum. Then drive to Moulin d'Orgemont for the best view before visiting the Monet district in the south.",
+        "fr": "Le circuit en voiture combine le centre historique et la périphérie. Le groupe A inclut la basilique et le musée. Ensuite, conduisez jusqu'au Moulin d'Orgemont pour la meilleure vue avant de visiter le quartier Monet au sud."
       },
       "gastro_picks": {
         "de": [
@@ -685,6 +714,10 @@
         "en": [
           "Avoid rush hour traffic towards Paris.",
           "Use the Côté Seine parking for longer stays."
+        ],
+        "fr": [
+          "Évitez les heures de pointe en direction de Paris.",
+          "Utilisez le parking Côté Seine pour les séjours plus longs."
         ]
       }
     },
@@ -711,7 +744,8 @@
             "de": "Vom Bahnhof Argenteuil in 10 Min zu Fuß erreichbar.",
             "hu": "Az Argenteuil állomástól 10 perc gyalog.",
             "ro": "La 10 minute de mers pe jos de la gara Argenteuil.",
-            "en": "A 10-minute walk from Argenteuil station."
+            "en": "A 10-minute walk from Argenteuil station.",
+            "fr": "À 10 minutes à pied de la gare d'Argenteuil."
           }
         },
         {
@@ -729,7 +763,8 @@
             "de": "Fußweg im Zentrum.",
             "hu": "Gyalogút a központban.",
             "ro": "Traseu pietonal în centru.",
-            "en": "Walking path in the center."
+            "en": "Walking path in the center.",
+            "fr": "Sentier piétonnier au centre."
           }
         },
         {
@@ -747,7 +782,8 @@
             "de": "Direkt in der Nähe des Bahnhofs.",
             "hu": "Közvetlenül a vasútállomás közelében.",
             "ro": "Direct în apropierea gării.",
-            "en": "Right near the train station."
+            "en": "Right near the train station.",
+            "fr": "Juste à côté de la gare."
           }
         },
         {
@@ -765,7 +801,8 @@
             "de": "Buslinie 9 in Richtung Seine-Ufer.",
             "hu": "9-es busz a Szajna-part felé.",
             "ro": "Linia de autobuz 9 spre malul Senei.",
-            "en": "Bus line 9 towards the Seine banks."
+            "en": "Bus line 9 towards the Seine banks.",
+            "fr": "Ligne de bus 9 en direction des quais de la Seine."
           }
         },
         {
@@ -783,7 +820,8 @@
             "de": "Buslinie 4 bis 'Moulin'.",
             "hu": "4-es busz 'Moulin' megállóig.",
             "ro": "Linia de autobuz 4 până la 'Moulin'.",
-            "en": "Bus line 4 to 'Moulin'."
+            "en": "Bus line 4 to 'Moulin'.",
+            "fr": "Ligne de bus 4 vers « Moulin »."
           }
         }
       ],
@@ -791,7 +829,8 @@
         "de": "Nutzen Sie das dichte Busnetz und die gute Bahnanbindung. Starten Sie an der Basilika und besuchen Sie das Monet-Haus, bevor Sie mit dem Bus zum Moulin d'Orgemont fahren, um den Sonnenuntergang über Paris zu beobachten.",
         "hu": "Használja ki a sűrű buszhálózatot és a jó vasúti összeköttetést. Kezdje a bazilikánál, látogassa meg a Monet-házat, majd busszal menjen fel a Moulin d'Orgemont-hoz, hogy megtekintse a naplementét Párizs felett.",
         "ro": "Profită de rețeaua densă de autobuze și de legătura feroviară bună. Începe la basilică și vizitează casa lui Monet, înainte de a merge cu autobuzul la Moulin d'Orgemont pentru a vedea apusul peste Paris.",
-        "en": "Take advantage of the dense bus network and good rail connections. Start at the basilica and visit Monet's house before taking the bus up to Moulin d'Orgemont to watch the sunset over Paris."
+        "en": "Take advantage of the dense bus network and good rail connections. Start at the basilica and visit Monet's house before taking the bus up to Moulin d'Orgemont to watch the sunset over Paris.",
+        "fr": "Profitez du dense réseau de bus et des bonnes liaisons ferroviaires. Commencez à la basilique et visitez la maison de Monet avant de prendre le bus jusqu'au Moulin d'Orgemont pour regarder le coucher du soleil sur Paris."
       },
       "gastro_picks": {
         "de": [
@@ -891,6 +930,10 @@
         "en": [
           "Buy a day ticket for zone 4.",
           "Use the RATP app for real-time departures."
+        ],
+        "fr": [
+          "Achetez un ticket journée pour la zone 4.",
+          "Utilisez l'application RATP pour les départs en temps réel."
         ]
       }
     }

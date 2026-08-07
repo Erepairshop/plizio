@@ -31,7 +31,8 @@
             "de": "Bewundern Sie die hängenden Schlusssteine im gotischen Stil.",
             "hu": "Csodáld meg a gótikus stílusú függő záróköveket a mennyezeten.",
             "ro": "Admirați cheile de boltă suspendate în stil gotic.",
-            "en": "Admire the Gothic-style hanging keystones on the ceiling."
+            "en": "Admire the Gothic-style hanging keystones on the ceiling.",
+            "fr": "Admirez les clés pendantes de style gothique au plafond."
           }
         },
         {
@@ -49,7 +50,8 @@
             "de": "Eines der letzten italienischen Theater Frankreichs, schauen Sie auf die Fassade.",
             "hu": "Franciaország utolsó olasz stílusú színházainak egyike, nézd meg a homlokzatát.",
             "ro": "Unul dintre ultimele teatre italiene din Franța, priviți fațada.",
-            "en": "One of the last Italian-style theaters in France, check the facade."
+            "en": "One of the last Italian-style theaters in France, check the facade.",
+            "fr": "L'un des derniers théâtres de style italien en France, vérifiez la façade."
           }
         },
         {
@@ -67,7 +69,8 @@
             "de": "Entdecken Sie die Werke von Jean-François Millet, einem lokalen Genie.",
             "hu": "Fedezd fel Jean-François Millet, a helyi zseni műveit.",
             "ro": "Descoperiți lucrările lui Jean-François Millet, un geniu local.",
-            "en": "Discover the works of Jean-François Millet, a local genius."
+            "en": "Discover the works of Jean-François Millet, a local genius.",
+            "fr": "Découvrez les œuvres de Jean-François Millet, un génie local."
           }
         },
         {
@@ -85,7 +88,8 @@
             "de": "Probieren Sie frische Jakobsmuscheln mit Blick auf den Hafen.",
             "hu": "Kóstolj friss fésűkagylót kikötői kilátással.",
             "ro": "Gustați scoici proaspete cu vedere la port.",
-            "en": "Try fresh scallops with a view of the harbor."
+            "en": "Try fresh scallops with a view of the harbor.",
+            "fr": "Goûtez des coquilles Saint-Jacques fraîches avec vue sur le port."
           }
         },
         {
@@ -103,7 +107,8 @@
             "de": "Ein botanisches Juwel mit exotischen Pflanzen aus der ganzen Welt.",
             "hu": "Botanikai ékszerdoboz egzotikus növényekkel a világ minden tájáról.",
             "ro": "O bijuterie botanică cu plante exotice din întreaga lume.",
-            "en": "A botanical gem with exotic plants from all over the world."
+            "en": "A botanical gem with exotic plants from all over the world.",
+            "fr": "Un joyau botanique avec des plantes exotiques du monde entier."
           }
         },
         {
@@ -121,7 +126,8 @@
             "de": "Besuchen Sie das U-Boot Le Redoutable im ehemaligen Transatlantik-Terminal.",
             "hu": "Látogasd meg a Le Redoutable tengeralattjárót az egykori terminálban.",
             "ro": "Vizitați submarinul Le Redoutable în fostul terminal transatlantic.",
-            "en": "Visit the Le Redoutable submarine in the former transatlantic terminal."
+            "en": "Visit the Le Redoutable submarine in the former transatlantic terminal.",
+            "fr": "Visitez le sous-marin Le Redoutable dans l'ancien terminal transatlantique."
           }
         }
       ],
@@ -129,7 +135,8 @@
         "de": "Ihr Tag beginnt im historischen Herzen von Cherbourg an der prächtigen Basilika Sainte-Trinité. Nach einem kulturellen Vormittag mit Theaterarchitektur und bildender Kunst im Musée Thomas Henry genießen Sie Meeresfrüchte am Kai. Der Nachmittag führt Sie durch den exotischen Park Liais zur beeindruckenden Cité de la Mer, wo maritime Geschichte in einem Art-Déco-Gebäude lebendig wird.",
         "hu": "A napot Cherbourg történelmi szívében, a pompás Sainte-Trinité bazilikánál kezded. A színházi építészetet és a Musée Thomas Henry képzőművészeti kincseit érintő kulturális délelőtt után tengeri herkentyűket kóstolhatsz a rakparton. Délután az egzotikus Liais parkon keresztül az impozáns Cité de la Mer-hez sétálsz, ahol a tengeri történelem kel életre egy Art Deco terminálban.",
         "ro": "Ziua începe în inima istorică a orașului Cherbourg, la magnifica Bazilică Sainte-Trinité. După o dimineață culturală cu arhitectură de teatru și artă la Muzeul Thomas Henry, savurați fructe de mare pe chei. După-amiaza vă poartă prin parcul exotic Liais către impresionanta Cité de la Mer, unde istoria maritimă prinde viață într-o clădire Art Deco.",
-        "en": "Your day starts in the historic heart of Cherbourg at the magnificent Sainte-Trinité Basilica. After a cultural morning featuring theater architecture and fine arts at the Musée Thomas Henry, enjoy seafood by the quay. The afternoon takes you through the exotic Liais Park to the impressive Cité de la Mer, where maritime history comes alive in an Art Deco terminal."
+        "en": "Your day starts in the historic heart of Cherbourg at the magnificent Sainte-Trinité Basilica. After a cultural morning featuring theater architecture and fine arts at the Musée Thomas Henry, enjoy seafood by the quay. The afternoon takes you through the exotic Liais Park to the impressive Cité de la Mer, where maritime history comes alive in an Art Deco terminal.",
+        "fr": "Votre journée commence au cœur historique de Cherbourg à la magnifique basilique Sainte-Trinité. Après une matinée culturelle entre architecture théâtrale et beaux-arts au musée Thomas Henry, profitez d'un repas de fruits de mer sur le quai. L'après-midi vous mène au parc exotique de Liais puis à la remarquable Cité de la Mer, où l'histoire maritime prend vie dans un terminal Art déco."
       },
       "gastro_picks": {
         "de": [
@@ -289,6 +296,12 @@
           "The Cité de la Mer needs a lot of time, allow at least 3 hours.",
           "Weather can change quickly, an umbrella is a must-have.",
           "Museums are often closed on Mondays."
+        ],
+        "fr": [
+          "Cherbourg est très praticable à pied, portez des chaussures confortables.",
+          "La Cité de la Mer demande beaucoup de temps, prévoyez au moins 3 heures.",
+          "Le temps peut changer rapidement, un parapluie est indispensable.",
+          "Les musées sont souvent fermés le lundi."
         ]
       }
     },
@@ -315,7 +328,8 @@
             "de": "Parken Sie Ihr Fahrrad sicher am Eingang des Terminals.",
             "hu": "Zárd le a biciklit biztonságosan a terminál bejáratánál.",
             "ro": "Parcați bicicleta în siguranță la intrarea în terminal.",
-            "en": "Park your bike safely at the terminal entrance."
+            "en": "Park your bike safely at the terminal entrance.",
+            "fr": "Garez votre vélo en toute sécurité à l'entrée du terminal."
           }
         },
         {
@@ -333,7 +347,8 @@
             "de": "Radeln Sie entlang der längsten künstlichen Reede der Welt.",
             "hu": "Kerekezz a világ leghosszabb mesterséges kikötőgátja mentén.",
             "ro": "Pedalați de-a lungul celei mai lungi rade artificiale din lume.",
-            "en": "Cycle along the longest artificial roadstead in the world."
+            "en": "Cycle along the longest artificial roadstead in the world.",
+            "fr": "Parcourez la plus longue rade artificielle du monde à vélo."
           }
         },
         {
@@ -351,7 +366,8 @@
             "de": "Die Ruinen der Abtei bieten eine mystische Atmosphäre.",
             "hu": "Az apátság romjai misztikus hangulatot árasztanak.",
             "ro": "Ruinele abației oferă o atmosferă mistică.",
-            "en": "The ruins of the abbey offer a mystical atmosphere."
+            "en": "The ruins of the abbey offer a mystical atmosphere.",
+            "fr": "Les ruines de l'abbaye offrent une atmosphère mystique."
           }
         },
         {
@@ -369,7 +385,8 @@
             "de": "Ein gemütlicher Ort für lokale normannische Spezialitäten.",
             "hu": "Hangulatos hely helyi normandiai specialitásokkal.",
             "ro": "Un loc primitor pentru specialități locale normande.",
-            "en": "A cozy spot for local Norman specialties."
+            "en": "A cozy spot for local Norman specialties.",
+            "fr": "Un endroit cosy pour les spécialités normandes locales."
           }
         },
         {
@@ -387,7 +404,8 @@
             "de": "Stellen Sie Ihr Rad ab und spazieren Sie durch die Palmenalleen.",
             "hu": "Tedd le a gépet és sétálj a pálmafák között.",
             "ro": "Lăsați bicicleta și plimbați-vă printre palmieri.",
-            "en": "Park your bike and stroll through the palm avenues."
+            "en": "Park your bike and stroll through the palm avenues.",
+            "fr": "Garez votre vélo et promenez-vous dans les avenues de palmiers."
           }
         },
         {
@@ -405,7 +423,8 @@
             "de": "Ein steiler Anstieg, aber die Aussicht belohnt jede Anstrengung.",
             "hu": "Meredek emelkedő, de a kilátás kárpótol mindenért.",
             "ro": "O urcare abruptă, dar vederea răsplătește orice efort.",
-            "en": "A steep climb, but the view rewards every effort."
+            "en": "A steep climb, but the view rewards every effort.",
+            "fr": "Une montée raide, mais la vue récompense chaque effort."
           }
         }
       ],
@@ -413,7 +432,8 @@
         "de": "Erkunden Sie Cherbourg auf zwei Rädern, beginnend an der Cité de la Mer. Folgen Sie der Küstenlinie entlang der Reede, bevor Sie zur geschichtsträchtigen Abbaye du Vœu im Westen radeln. Nach einem herzhaften Mittagessen im Stadtzentrum erkunden Sie den Park Liais und fordern sich zum Abschluss mit dem Anstieg zum Fort du Roule für den ultimativen Panoramablick heraus.",
         "hu": "Fedezd fel Cherbourgot két keréken, a Cité de la Mer-től indulva. Kerekezz a part mentén a hatalmas kikötőgát mellett, majd irány nyugatnak a történelmi Abbaye du Vœu. Egy kiadós belvárosi ebéd után fedezd fel a Liais parkot, végül küzdd le a Fort du Roule emelkedőjét a tökéletes panorámáért.",
         "ro": "Explorați Cherbourg pe două roți, începând de la Cité de la Mer. Urmați linia țărmului pe lângă radă înainte de a pedala spre vest către istorica Abbaye du Vœu. După un prânz copios în centrul orașului, explorați Parcul Liais și finalizați cu provocarea urcării la Fort du Roule pentru cea mai bună panoramă.",
-        "en": "Explore Cherbourg on two wheels, starting at the Cité de la Mer. Follow the coastline along the roadstead before cycling west to the historic Abbaye du Vœu. After a hearty downtown lunch, explore Liais Park and finish by challenging yourself with the climb to Fort du Roule for the ultimate panoramic view."
+        "en": "Explore Cherbourg on two wheels, starting at the Cité de la Mer. Follow the coastline along the roadstead before cycling west to the historic Abbaye du Vœu. After a hearty downtown lunch, explore Liais Park and finish by challenging yourself with the climb to Fort du Roule for the ultimate panoramic view.",
+        "fr": "Explorez Cherbourg à vélo en partant de la Cité de la Mer. Suivez le littoral le long de la rade avant de pédaler vers l'ouest jusqu'à l'historique Abbaye du Vœu. Après un copieux déjeuner en centre-ville, découvrez le parc Liais et terminez en vous défiant sur la montée vers le Fort du Roule pour une vue panoramique ultime."
       },
       "gastro_picks": {
         "de": [
@@ -573,6 +593,12 @@
           "Cherbourg has many bike paths around the harbor area.",
           "Check the wind – it can be very strong on the coast.",
           "Bike rentals are available at Port Chantereyne."
+        ],
+        "fr": [
+          "Les promenades côtières sont plates, mais la ville comporte des zones vallonnées.",
+          "Cherbourg dispose de nombreuses pistes cyclables autour du port.",
+          "Vérifiez le vent – il peut être très fort sur la côte.",
+          "Des locations de vélos sont disponibles au Port Chantereyne."
         ]
       }
     },
@@ -599,7 +625,8 @@
             "de": "Großer kostenloser Parkplatz direkt am Eingang.",
             "hu": "Nagy ingyenes parkoló közvetlenül a bejáratnál.",
             "ro": "Parcare mare gratuită chiar la intrare.",
-            "en": "Large free parking lot right at the entrance."
+            "en": "Large free parking lot right at the entrance.",
+            "fr": "Grand parking gratuit juste à l'entrée."
           }
         },
         {
@@ -617,7 +644,8 @@
             "de": "Parken Sie am Cluster 1 und laufen Sie zum Aussichtspunkt.",
             "hu": "Parkolj le és sétálj ki a kilátóponthoz.",
             "ro": "Parcați la Clusterul 1 și mergeți pe jos la punctul de belvedere.",
-            "en": "Park at Cluster 1 and walk to the viewpoint."
+            "en": "Park at Cluster 1 and walk to the viewpoint.",
+            "fr": "Garez-vous au Cluster 1 et marchez jusqu'au belvédère."
           }
         },
         {
@@ -635,7 +663,8 @@
             "de": "Hervorragende Meeresfrüchte-Platten.",
             "hu": "Kiváló tenger gyümölcsei tálak.",
             "ro": "Platouri excelente cu fructe de mare.",
-            "en": "Excellent seafood platters."
+            "en": "Excellent seafood platters.",
+            "fr": "Excellents plateaux de fruits de mer."
           }
         },
         {
@@ -653,7 +682,8 @@
             "de": "Fahren Sie bis ganz nach oben zum Befreiungsmuseum.",
             "hu": "Hajts fel egészen a csúcsig a Felszabadulási Múzeumhoz.",
             "ro": "Conduceți până în vârf la Muzeul Eliberării.",
-            "en": "Drive all the way to the top to the Liberation Museum."
+            "en": "Drive all the way to the top to the Liberation Museum.",
+            "fr": "Montez jusqu'au sommet jusqu'au Musée de la Libération."
           }
         },
         {
@@ -671,7 +701,8 @@
             "de": "Kostenloses Parken in der Nähe der Ruinen möglich.",
             "hu": "Ingyenes parkolás a romok közelében.",
             "ro": "Parcare gratuită disponibilă lângă ruine.",
-            "en": "Free parking available near the ruins."
+            "en": "Free parking available near the ruins.",
+            "fr": "Parking gratuit disponible près des ruines."
           }
         }
       ],
@@ -679,7 +710,8 @@
         "de": "Mit dem Auto erreichen Sie bequem die verschiedenen Facetten von Cherbourg. Der Vormittag gehört dem Hafen und der Cité de la Mer. Nach einem entspannten Mittagessen am Yachtclub fahren Sie zum Fort du Roule, um die Stadt von oben zu überblicken. Den Tag beschließen Sie bei den friedlichen Ruinen der Abbaye du Vœu im westlichen Teil der Stadt.",
         "hu": "Autóval kényelmesen elérheted Cherbourg különböző arcait. A délelőtt a kikötőé és a Cité de la Mer-é. Egy pihentető ebéd után a Yacht Clubnál, hajts fel a Fort du Roule-hoz a városi panorámáért. A napot a város nyugati részén fekvő Abbaye du Vœu békés romjainál zárod.",
         "ro": "Cu mașina puteți ajunge confortabil la diferitele fațete ale orașului Cherbourg. Dimineața este dedicată portului și Cité de la Mer. După un prânz relaxat la Yacht Club, conduceți spre Fort du Roule pentru a vedea orașul de sus. Încheiați ziua la ruinele liniștite ale Abbaye du Vœu în partea de vest a orașului.",
-        "en": "By car, you can easily reach the different facets of Cherbourg. The morning is dedicated to the harbor and the Cité de la Mer. After a relaxed lunch at the Yacht Club, drive up to Fort du Roule to overlook the city. Finish the day at the peaceful ruins of Abbaye du Vœu in the western part of the city."
+        "en": "By car, you can easily reach the different facets of Cherbourg. The morning is dedicated to the harbor and the Cité de la Mer. After a relaxed lunch at the Yacht Club, drive up to Fort du Roule to overlook the city. Finish the day at the peaceful ruins of Abbaye du Vœu in the western part of the city.",
+        "fr": "En voiture, vous pouvez facilement atteindre les différentes facettes de Cherbourg. La matinée est consacrée au port et à la Cité de la Mer. Après un déjeuner détendu au Yacht Club, montez au Fort du Roule pour surplomber la ville. Terminez la journée aux ruines paisibles de l'Abbaye du Vœu, dans la partie ouest de la ville."
       },
       "gastro_picks": {
         "de": [
@@ -839,6 +871,12 @@
           "The road to Fort du Roule is narrow, drive carefully.",
           "In France, many gas stations are attached to supermarkets (cheaper).",
           "Pay attention to the tides if you go to the beach."
+        ],
+        "fr": [
+          "Le stationnement en centre-ville peut être difficile, utilisez les parkings P+R.",
+          "La route vers le Fort du Roule est étroite, conduisez prudemment.",
+          "En France, de nombreuses stations-service sont attenantes à des supermarchés (moins chères).",
+          "Faites attention aux marées si vous allez à la plage."
         ]
       }
     },
@@ -865,7 +903,8 @@
             "de": "Vom Bahnhof aus leicht mit der Buslinie 2 erreichbar.",
             "hu": "A vasútállomástól a 2-es busszal könnyen elérhető.",
             "ro": "Ușor de ajuns cu linia de autobuz 2 de la gară.",
-            "en": "Easily reachable by bus line 2 from the train station."
+            "en": "Easily reachable by bus line 2 from the train station.",
+            "fr": "Facilement accessible par la ligne de bus 2 depuis la gare."
           }
         },
         {
@@ -883,7 +922,8 @@
             "de": "Kurzer Fußweg vom Museum durch die Altstadt.",
             "hu": "Rövid séta a múzeumtól az óvároson át.",
             "ro": "Scurtă plimbare de la muzeu prin orașul vechi.",
-            "en": "Short walk from the museum through the old town."
+            "en": "Short walk from the museum through the old town.",
+            "fr": "Courte promenade depuis le musée à travers la vieille ville."
           }
         },
         {
@@ -901,7 +941,8 @@
             "de": "Hervorragende Tagesgerichte im Herzen der Stadt.",
             "hu": "Kiváló napi ajánlatok a város szívében.",
             "ro": "Meniuri de prânz excelente în inima orașului.",
-            "en": "Excellent lunch specials in the heart of the city."
+            "en": "Excellent lunch specials in the heart of the city.",
+            "fr": "Excellents menus déjeuner au cœur de la ville."
           }
         },
         {
@@ -919,7 +960,8 @@
             "de": "Nutzen Sie den Shuttle-Bus zum Terminal.",
             "hu": "Használd a transzferbuszt a terminálhoz.",
             "ro": "Folosiți autobuzul de transfer către terminal.",
-            "en": "Use the shuttle bus to the terminal."
+            "en": "Use the shuttle bus to the terminal.",
+            "fr": "Utilisez la navette pour rejoindre le terminal."
           }
         },
         {
@@ -937,7 +979,8 @@
             "de": "Busse halten am Fuße des Hügels, planen Sie einen Aufstieg ein.",
             "hu": "A buszok a domb alján állnak meg, számolj egy kis hegymenettel.",
             "ro": "Autobuzele opresc la baza dealului, planificați o urcare pe jos.",
-            "en": "Buses stop at the foot of the hill, plan for a walk up."
+            "en": "Buses stop at the foot of the hill, plan for a walk up.",
+            "fr": "Les bus s'arrêtent au pied de la colline, prévoyez une montée à pied."
           }
         }
       ],
@@ -945,7 +988,8 @@
         "de": "Nutzen Sie das Cap Cotentin Busnetz, um Cherbourg stressfrei zu erleben. Starten Sie kulturell im Musée Thomas Henry und der Basilika. Nach einem gemütlichen Mittagessen bringt Sie der Bus zur Cité de la Mer. Den Abschluss bildet der Ausblick vom Fort du Roule, den Sie nach einer kurzen Busfahrt und einem Spaziergang erreichen.",
         "hu": "Használd a Cap Cotentin buszhálózatot Cherbourg felfedezéséhez. Kezdj kulturálisan a Musée Thomas Henry-nél és a bazilikánál. Egy kellemes ebéd után a busz elvisz a Cité de la Mer-hez. A napot a Fort du Roule panorámája koronázza meg, amit egy rövid buszozás és séta után érhetsz el.",
         "ro": "Folosiți rețeaua de autobuze Cap Cotentin pentru a experimenta Cherbourg fără stres. Începeți cultural la Muzeul Thomas Henry și bazilică. După un prânz plăcut, autobuzul vă duce la Cité de la Mer. Finalul este marcat de vederea de la Fort du Roule, accesibilă după o scurtă călătorie cu autobuzul și o plimbare.",
-        "en": "Use the Cap Cotentin bus network to experience Cherbourg stress-free. Start culturally at the Musée Thomas Henry and the Basilica. After a pleasant lunch, the bus takes you to the Cité de la Mer. The finale is the view from Fort du Roule, reached after a short bus ride and a walk."
+        "en": "Use the Cap Cotentin bus network to experience Cherbourg stress-free. Start culturally at the Musée Thomas Henry and the Basilica. After a pleasant lunch, the bus takes you to the Cité de la Mer. The finale is the view from Fort du Roule, reached after a short bus ride and a walk.",
+        "fr": "Utilisez le réseau de bus Cap Cotentin pour visiter Cherbourg en toute sérénité. Commencez culturellement au Musée Thomas Henry et à la Basilique. Après un déjeuner agréable, le bus vous conduit à la Cité de la Mer. Le final offre la vue depuis le Fort du Roule, accessible après un court trajet en bus et une promenade."
       },
       "gastro_picks": {
         "de": [
@@ -1105,6 +1149,12 @@
           "The 'Cap Cotentin' app shows real-time departures.",
           "Buses run less frequently on Sundays.",
           "Wave to the bus driver so they stop at the station."
+        ],
+        "fr": [
+          "Achetez un ticket journée pour des trajets illimités.",
+          "L'application « Cap Cotentin » affiche les départs en temps réel.",
+          "Les bus circulent moins souvent le dimanche.",
+          "Faites signe au conducteur pour qu'il s'arrête à la station."
         ]
       }
     }

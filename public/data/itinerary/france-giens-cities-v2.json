@@ -21,7 +21,8 @@
             "de": "Église Saint-Pierre",
             "hu": "Église Saint-Pierre",
             "ro": "Église Saint-Pierre",
-            "en": "Église Saint-Pierre"
+            "en": "Église Saint-Pierre",
+            "fr": "Église Saint-Pierre"
           },
           "coords": [
             6.132043,
@@ -36,7 +37,8 @@
             "de": "Bewundern Sie die schlichte Architektur dieser Dorfkirche, die die lokale Seefahrtsgeschichte widerspiegelt, und kommen Sie früh für ruhige Fotos.",
             "hu": "Csodálja meg a központi templom egyszerű építészetét, amely a tengerészeti történelmet tükrözi, és érkezzen korán a nyugodt fotózáshoz.",
             "ro": "Admirați arhitectura fermecătoare a acestei biserici centrale, care reflectă istoria maritimă locală, și ajungeți devreme pentru fotografii liniștite.",
-            "en": "Admire the simple architecture of this central village church, which reflects local maritime history, and arrive early for quiet photography sessions."
+            "en": "Admire the simple architecture of this central village church, which reflects local maritime history, and arrive early for quiet photography sessions.",
+            "fr": "Admirez l'architecture simple de cette église du centre du village, reflet de l'histoire maritime locale, et arrivez tôt pour des séances photo tranquilles."
           }
         },
         {
@@ -44,7 +46,8 @@
             "de": "Maire Annexe de Giens",
             "hu": "Maire Annexe de Giens",
             "ro": "Maire Annexe de Giens",
-            "en": "Maire Annexe de Giens"
+            "en": "Maire Annexe de Giens",
+            "fr": "Maire Annexe de Giens"
           },
           "coords": [
             6.131037,
@@ -59,7 +62,8 @@
             "de": "Erkunden Sie dieses historische Verwaltungsgebäude, um das Erbe der Halbinsel zu verstehen, und bringen Sie einen Regenschirm mit, da Schatten selten ist.",
             "hu": "Fedezze fel ezt a történelmi épületet a polgári örökség megértéséhez, de hozzon napernyőt, mivel a téren az árnyék meglehetősen korlátozott.",
             "ro": "Explorați această clădire istorică pentru a înțelege moștenirea civică a peninsulei și aduceți o umbrelă, deoarece umbra este destul de limitată.",
-            "en": "Explore this historic administrative building to grasp the civic heritage of the peninsula, bringing an umbrella as shade in the square is quite limited."
+            "en": "Explore this historic administrative building to grasp the civic heritage of the peninsula, bringing an umbrella as shade in the square is quite limited.",
+            "fr": "Explorez ce bâtiment administratif historique pour comprendre le patrimoine civique de la presqu'île, prenez un parapluie car l'ombre sur la place est assez limitée."
           }
         },
         {
@@ -67,7 +71,8 @@
             "de": "Le château de Giens",
             "hu": "Le château de Giens",
             "ro": "Le château de Giens",
-            "en": "Le château de Giens"
+            "en": "Le château de Giens",
+            "fr": "Le château de Giens"
           },
           "coords": [
             6.130059,
@@ -82,7 +87,8 @@
             "de": "Steigen Sie zu den Ruinen dieser alten Burg hinauf, um einen Panoramablick zu genießen, und tragen Sie feste Schuhe für die unebenen Steine.",
             "hu": "Másszon fel ezen ősi vár romjaihoz a páratlan panorámáért a tengerre, és viseljen masszív cipőt az egyenetlen köveken való biztonságos járáshoz.",
             "ro": "Urcați la ruinele acestui castel antic pentru a vă bucura de vederi panoramice inegalabile, purtând pantofi rezistenți pentru pietrele inegale.",
-            "en": "Climb up to the ruins of this ancient castle to enjoy unparalleled panoramic views of the Mediterranean, wearing sturdy shoes to navigate uneven stones."
+            "en": "Climb up to the ruins of this ancient castle to enjoy unparalleled panoramic views of the Mediterranean, wearing sturdy shoes to navigate uneven stones.",
+            "fr": "Montez jusqu'aux ruines de ce vieux château pour profiter d'une vue panoramique incomparable sur la Méditerranée, en portant des chaussures solides pour franchir les pierres inégales."
           }
         },
         {
@@ -90,7 +96,8 @@
             "de": "Plage du Port du Niel",
             "hu": "Plage du Port du Niel",
             "ro": "Plage du Port du Niel",
-            "en": "Plage du Port du Niel"
+            "en": "Plage du Port du Niel",
+            "fr": "Plage du Port du Niel"
           },
           "coords": [
             6.127175,
@@ -105,7 +112,8 @@
             "de": "Entspannen Sie im Sand dieses geschützten Strandes mit seinem kristallklaren Wasser, wobei eine Ankunft am Mittag den wärmsten Platz garantiert.",
             "hu": "Pihenjen ezen a védett, kristálytiszta vizű strandon, amely tökéletes egy megmártózáshoz, bár az időbeni érkezés garantálja a legjobb helyet.",
             "ro": "Relaxați-vă pe nisipul acestei plaje adăpostite, care oferă ape cristaline perfecte pentru o baie, deși sosirea devreme garantează cel mai bun loc.",
-            "en": "Relax on the intimate sands of this sheltered beach offering crystal-clear waters for a quick dip, though arriving early guarantees the best spot."
+            "en": "Relax on the intimate sands of this sheltered beach offering crystal-clear waters for a quick dip, though arriving early guarantees the best spot.",
+            "fr": "Détendez-vous sur les sables intimes de cette plage abritée offrant des eaux cristallines pour un bain rapide ; arriver tôt garantit la meilleure place."
           }
         },
         {
@@ -113,7 +121,8 @@
             "de": "Port du Niel",
             "hu": "Port du Niel",
             "ro": "Port du Niel",
-            "en": "Port du Niel"
+            "en": "Port du Niel",
+            "fr": "Port du Niel"
           },
           "coords": [
             6.127585,
@@ -128,7 +137,8 @@
             "de": "Schlendern Sie entlang dieses malerischen kleinen Hafens, um Fischerboote zu sehen, und holen Sie sich einen frischen Kaffee in einem nahegelegenen Café.",
             "hu": "Sétáljon végig ezen a festői kis kikötőn az autentikus halászhajókért, és igyon egy friss kávét egy közeli, gyönyörű vízparti kávézóban.",
             "ro": "Plimbați-vă de-a lungul acestui mic port pitoresc pentru a vedea bărcile de pescari și savurați o cafea proaspătă la o cafenea din apropiere.",
-            "en": "Stroll along this picturesque small harbor to witness authentic fishing boats bobbing in the water, and grab a fresh coffee at a waterfront café."
+            "en": "Stroll along this picturesque small harbor to witness authentic fishing boats bobbing in the water, and grab a fresh coffee at a waterfront café.",
+            "fr": "Promenez-vous le long de ce petit port pittoresque pour voir de véritables bateaux de pêche se balancer sur l'eau et prenez un café frais dans un café en bord de mer."
           }
         }
       ],
@@ -136,7 +146,8 @@
         "de": "Der Morgen beginnt im Herzen von Giens mit einem Spaziergang durch das Zentrum und dem Besuch der Kirche. Mittags entdecken Sie das Erbe und steigen zu den alten Burgruinen hinauf. Der Nachmittag bringt einen sanften Abstieg zur Küste. Der Abend bricht herein, während Sie sich am Port du Niel entspannen und den Booten lauschen.",
         "hu": "A reggel Giens szívében kezdődik, átsétálva a faluközponton és meglátogatva a templomot. Délben felmászhat a várromokhoz a lenyűgöző kilátásért. A délután lágy ereszkedéssel folytatódik a déli part felé. Az este a festői Port du Nielben éri, ahol a színes halászhajók lágy ringatózását hallgathatja a nyugodt tengerparton.",
         "ro": "Dimineața începe în inima orașului Giens, rătăcind prin centru și vizitând biserica istorică. Până la prânz, veți urca la ruinele castelului pentru vederi panoramice. După-amiaza face tranziția către o coborâre ușoară spre coastă. Seara cade în timp ce vă relaxați în Port du Niel, ascultând legănarea blândă a bărcilor.",
-        "en": "Morning begins in the heart of Giens, wandering through the village center and visiting its historic church. By midday, you climb up to the ancient castle ruins for sweeping views. The afternoon transitions to a gentle descent toward the southern coast. Evening falls as you relax at Port du Niel, listening to the bobbing boats."
+        "en": "Morning begins in the heart of Giens, wandering through the village center and visiting its historic church. By midday, you climb up to the ancient castle ruins for sweeping views. The afternoon transitions to a gentle descent toward the southern coast. Evening falls as you relax at Port du Niel, listening to the bobbing boats.",
+        "fr": "La matinée commence au cœur de Giens, à déambuler dans le centre du village et visiter son église historique. À midi, vous montez aux ruines du château pour des vues panoramiques. L'après-midi descend doucement vers la côte sud. La soirée s'installe en vous relaxant au Port du Niel, à l'écoute des bateaux qui se balancent."
       },
       "variants": {
         "rainy": {
@@ -144,7 +155,8 @@
             "de": "Der Morgen beginnt unter dem Schutz der Église Saint-Pierre, während der Regen auf das Dach trommelt. Mittags bieten die Gassen des Dorfes relativen Windschutz auf dem Weg zum Rathaus. Am Nachmittag erleben Sie die Schlossruinen in einer mystischen, nebligen Atmosphäre. Der Abend klingt im Port du Niel aus, wo sich die Hafenlichter malerisch auf dem nassen Asphalt spiegeln.",
             "hu": "A reggel az Église Saint-Pierre falai között indul, menedéket keresve a kopogó eső elől. Délben a falu szűk utcái nyújtanak védelmet a szél ellen a városháza felé menet. Délután a várromok drámai és ködös panorámát kínálnak a viharos tenger felett. Az este a Port du Niel kikötőjében ér véget, ahol a lámpák fénye táncol a vizes köveken és a sötét hullámokon.",
             "ro": "Dimineața începe la adăpostul Église Saint-Pierre, ascultând ploaia pe acoperiș. La prânz, străzile înguste ale satului oferă protecție împotriva vântului în drum spre primărie. După-amiaza, ruinele castelului oferă o perspectivă mistică și cețoasă asupra coastei. Seara se încheie în Port du Niel, unde luminile portului se reflectă pitoresc pe asfaltul umed și pe valuri.",
-            "en": "The morning starts under the shelter of Église Saint-Pierre as rain drums on the roof. At noon, the village's narrow alleys provide relative wind protection on the way to the town hall. In the afternoon, the castle ruins offer a mystical, misty atmosphere overlooking the sea. The evening concludes at Port du Niel, where harbor lights reflect beautifully on the wet asphalt and waves."
+            "en": "The morning starts under the shelter of Église Saint-Pierre as rain drums on the roof. At noon, the village's narrow alleys provide relative wind protection on the way to the town hall. In the afternoon, the castle ruins offer a mystical, misty atmosphere overlooking the sea. The evening concludes at Port du Niel, where harbor lights reflect beautifully on the wet asphalt and waves.",
+            "fr": "La matinée commence à l'abri de l'Église Saint-Pierre pendant que la pluie tambourine sur le toit. À midi, les ruelles étroites du village offrent une protection relative contre le vent en direction de la mairie. L'après-midi, les ruines du château offrent une atmosphère mystique et brumeuse surplombant la mer. La soirée se termine au Port du Niel, où les lumières du port se reflètent joliment sur l'asphalte mouillé et les vagues."
           },
           "stops": [
             {
@@ -152,13 +164,15 @@
                 "de": "Église Saint-Pierre",
                 "hu": "Église Saint-Pierre",
                 "ro": "Église Saint-Pierre",
-                "en": "Église Saint-Pierre"
+                "en": "Église Saint-Pierre",
+                "fr": "Église Saint-Pierre"
               },
               "tip_5lang": {
                 "de": "Genießen Sie die Stille im Inneren der Kirche; die bunten Glasfenster leuchten bei grauem Regenwetter besonders intensiv und bieten einen trockenen Rückzugsort.",
                 "hu": "Élvezze a belső tér csendjét; a színes üvegablakok különösen intenzíven ragyognak a szürke esőben, miközben Ön szárazon pihenhet a padok között.",
                 "ro": "Bucurați-vă de liniștea din interiorul bisericii; vitraliile colorate strălucesc intens pe vreme gri, oferind un refugiu uscat și spiritual.",
-                "en": "Enjoy the silence inside the church; the colorful stained-glass windows glow intensely in the grey rain, providing a perfect dry sanctuary."
+                "en": "Enjoy the silence inside the church; the colorful stained-glass windows glow intensely in the grey rain, providing a perfect dry sanctuary.",
+                "fr": "Profitez du silence à l'intérieur de l'église ; les vitraux colorés brillent intensément sous la pluie grise, offrant un parfait sanctuaire sec."
               }
             },
             {
@@ -166,13 +180,15 @@
                 "de": "Maire Annexe de Giens",
                 "hu": "Maire Annexe de Giens",
                 "ro": "Maire Annexe de Giens",
-                "en": "Maire Annexe de Giens"
+                "en": "Maire Annexe de Giens",
+                "fr": "Maire Annexe de Giens"
               },
               "tip_5lang": {
                 "de": "Nutzen Sie den Dachvorsprung des historischen Gebäudes für eine kurze Pause; die Steinmauern wirken bei Nässe besonders markant und geschichtsträchtig.",
                 "hu": "Használja ki a történelmi épület ereszét egy rövid pihenőre; a nedves kőfalak ilyenkor még karakteresebbnek és patinásabbnak tűnnek a szemerkélő esőben.",
                 "ro": "Folosiți streașina clădirii istorice pentru o scurtă pauză; zidurile de piatră par mai impunătoare și pline de istorie atunci când sunt umede.",
-                "en": "Use the overhang of the historical building for a brief rest; the wet stone walls look particularly striking and full of character in the rain."
+                "en": "Use the overhang of the historical building for a brief rest; the wet stone walls look particularly striking and full of character in the rain.",
+                "fr": "Utilisez l'auvent du bâtiment historique pour une brève pause ; les murs de pierre mouillés sont particulièrement saisissants et pleins de caractère sous la pluie."
               }
             },
             {
@@ -180,13 +196,15 @@
                 "de": "Le château de Giens",
                 "hu": "Le château de Giens",
                 "ro": "Le château de Giens",
-                "en": "Le château de Giens"
+                "en": "Le château de Giens",
+                "fr": "Le château de Giens"
               },
               "tip_5lang": {
                 "de": "Vorsicht auf den rutschigen Stufen zu den Ruinen; der Blick auf das aufgewühlte Meer vom Schlossberg aus ist bei Regen besonders spektakulär und wild.",
                 "hu": "Vigyázzon a romokhoz vezető csúszós lépcsőkön; a várhegyről nyíló kilátás a felkorbácsolt tengerre esőben különösen látványos és vadregényes.",
                 "ro": "Atenție la treptele alunecoase spre ruine; vederea spre marea agitată de pe dealul castelului este spectaculoasă și sălbatică pe timp de ploaie.",
-                "en": "Watch out for slippery steps near the ruins; the view of the churning sea from the castle hill is particularly spectacular and wild in the rain."
+                "en": "Watch out for slippery steps near the ruins; the view of the churning sea from the castle hill is particularly spectacular and wild in the rain.",
+                "fr": "Attention aux marches glissantes près des ruines ; la vue sur la mer agitée depuis la colline du château est particulièrement spectaculaire et sauvage sous la pluie."
               }
             },
             {
@@ -194,13 +212,15 @@
                 "de": "Plage du Port du Niel",
                 "hu": "Plage du Port du Niel",
                 "ro": "Plage du Port du Niel",
-                "en": "Plage du Port du Niel"
+                "en": "Plage du Port du Niel",
+                "fr": "Plage du Port du Niel"
               },
               "tip_5lang": {
                 "de": "Ein Strandspaziergang im Regen hat seinen eigenen Charme; tragen Sie feste Schuhe, da der Sand am Ufer fester ist und das Meer dramatisch wirkt.",
                 "hu": "A tengerparti séta esőben is bájos; viseljen vízálló cipőt, mivel a homok ilyenkor keményebb, a tenger látványa pedig drámai erejű.",
                 "ro": "O plimbare pe plajă în ploaie are farmecul ei; purtați încălțăminte solidă, deoarece nisipul este mai tare la mal, iar marea pare dramatică.",
-                "en": "A beach walk in the rain has its own charm; wear sturdy waterproof shoes as the sand is firmer at the shore and the sea looks dramatic."
+                "en": "A beach walk in the rain has its own charm; wear sturdy waterproof shoes as the sand is firmer at the shore and the sea looks dramatic.",
+                "fr": "Une promenade sur la plage sous la pluie a son charme ; portez des chaussures étanches et solides car le sable est plus ferme au bord et la mer paraît dramatique."
               }
             },
             {
@@ -208,13 +228,15 @@
                 "de": "Port du Niel",
                 "hu": "Port du Niel",
                 "ro": "Port du Niel",
-                "en": "Port du Niel"
+                "en": "Port du Niel",
+                "fr": "Port du Niel"
               },
               "tip_5lang": {
                 "de": "Beobachten Sie die Fischerboote von einem geschützten Platz am Kai; die salzige Meeresluft ist bei Regen besonders frisch und belebend.",
                 "hu": "Figyelje a halászhajókat a móló egy szélvédett pontjáról; a sós tengeri levegő esőben különösen friss és élénkítő hatású.",
                 "ro": "Observați bărcile de pescuit dintr-un punct ferit de pe debarcader; aerul sărat al mării este deosebit de proaspăt și revigorant în timpul ploii.",
-                "en": "Watch the fishing boats from a sheltered spot on the quay; the salty sea air is particularly fresh and invigorating during the rain."
+                "en": "Watch the fishing boats from a sheltered spot on the quay; the salty sea air is particularly fresh and invigorating during the rain.",
+                "fr": "Observez les bateaux de pêche à partir d'un endroit abrité sur le quai ; l'air salin est particulièrement frais et vivifiant pendant la pluie."
               }
             }
           ]
@@ -224,7 +246,8 @@
             "de": "Am klaren Wintermorgen leuchten die Farben des Dorfes besonders hell. Mittags wärmt die tiefstehende Sonne die Steine der Église Saint-Pierre. Der Nachmittag lädt zu einer einsamen Wanderung entlang der Küste ein, wo das Licht weich und golden fällt. Da es gegen 17:00 Uhr dunkel wird, endet der Tag früh und gemütlich bei den sanften Lichtern des Hafens.",
             "hu": "A tiszta téli reggelen a falu színei különösen élénkek. Délben az alacsonyan járó nap melegíti az Église Saint-Pierre falait. A délután magányos parti sétára hív, ahol a fények lágyak és aranyszínűek. Mivel ötkor sötétedik, a nap korán véget ér a kikötő barátságos fényeinek társaságában.",
             "ro": "În dimineața senină de iarnă, culorile satului sunt deosebit de vii. La prânz, soarele blând încălzește zidurile Église Saint-Pierre. După-amiaza invită la o plimbare solitară pe coastă, unde lumina este caldă și aurie. Deoarece se întunecă în jur de ora 17:00, ziua se încheie devreme în port.",
-            "en": "On a clear winter morning, the village colors are especially bright. At noon, the low sun warms the stones of Église Saint-Pierre. The afternoon invites a solitary coastal walk where the light is soft and golden. Since it gets dark around 5:00 PM, the day ends early and cozy by the gentle harbor lights."
+            "en": "On a clear winter morning, the village colors are especially bright. At noon, the low sun warms the stones of Église Saint-Pierre. The afternoon invites a solitary coastal walk where the light is soft and golden. Since it gets dark around 5:00 PM, the day ends early and cozy by the gentle harbor lights.",
+            "fr": "Par une claire matinée d'hiver, les couleurs du village sont spécialement vives. À midi, le soleil bas réchauffe les pierres de l'Église Saint-Pierre. L'après-midi invite à une promenade côtière solitaire où la lumière est douce et dorée. Comme il fait nuit vers 17:00, la journée se termine tôt et au chaud près des douces lumières du port."
           },
           "stops": [
             {
@@ -232,13 +255,15 @@
                 "de": "Église Saint-Pierre",
                 "hu": "Église Saint-Pierre",
                 "ro": "Église Saint-Pierre",
-                "en": "Église Saint-Pierre"
+                "en": "Église Saint-Pierre",
+                "fr": "Église Saint-Pierre"
               },
               "tip_5lang": {
                 "de": "Bewundern Sie die Architektur im klaren Winterlicht; die Kirche ist im Winter oft weniger besucht, was eine besonders friedliche Atmosphäre schafft.",
                 "hu": "Csodálja meg az építészetet a tiszta téli fényben; a templom ilyenkor sokkal csendesebb, ami mélyen békés és meghitt hangulatot áraszt.",
                 "ro": "Admirați arhitectura în lumina clară de iarnă; biserica este mult mai puțin aglomerată acum, oferind o atmosferă deosebit de liniștită.",
-                "en": "Admire the architecture in the clear winter light; the church is much less crowded now, creating a particularly peaceful and serene atmosphere."
+                "en": "Admire the architecture in the clear winter light; the church is much less crowded now, creating a particularly peaceful and serene atmosphere.",
+                "fr": "Admirez l'architecture sous la claire lumière hivernale ; l'église est bien moins fréquentée maintenant, créant une ambiance particulièrement paisible et sereine."
               }
             },
             {
@@ -246,13 +271,15 @@
                 "de": "Maire Annexe de Giens",
                 "hu": "Maire Annexe de Giens",
                 "ro": "Maire Annexe de Giens",
-                "en": "Maire Annexe de Giens"
+                "en": "Maire Annexe de Giens",
+                "fr": "Maire Annexe de Giens"
               },
               "tip_5lang": {
                 "de": "Die Mittagssonne scheint direkt auf den Vorplatz; ein idealer Ort für eine Pause, um die Winterstrahlen in der windgeschützten Dorfatmosphäre zu genießen.",
                 "hu": "A déli nap közvetlenül az előteret süti; ideális hely egy megállóra, hogy kiélvezze a téli sugarakat a szélvédett falusi környezetben.",
                 "ro": "Soarele de prânz bate direct spre piațetă; este un loc ideal pentru o pauză, pentru a vă bucura de razele iernii în atmosfera ferită de vânt.",
-                "en": "The midday sun shines directly on the plaza; an ideal spot for a break to enjoy the winter rays in the wind-sheltered village atmosphere."
+                "en": "The midday sun shines directly on the plaza; an ideal spot for a break to enjoy the winter rays in the wind-sheltered village atmosphere.",
+                "fr": "Le soleil de midi brille directement sur la place ; un endroit idéal pour une pause et profiter des rayons d'hiver dans l'atmosphère abritée du village."
               }
             },
             {
@@ -260,13 +287,15 @@
                 "de": "Le château de Giens",
                 "hu": "Le château de Giens",
                 "ro": "Le château de Giens",
-                "en": "Le château de Giens"
+                "en": "Le château de Giens",
+                "fr": "Le château de Giens"
               },
               "tip_5lang": {
                 "de": "Tragen Sie eine warme Jacke gegen den Mistral; die Fernsicht bis zu den Inseln ist an kalten Wintertagen oft viel schärfer als im Sommer.",
                 "hu": "Viseljen meleg kabátot a Mistral szél ellen; a távoli kilátás a szigetek felé télen sokkal élesebb és tisztább, mint a nyári párában.",
                 "ro": "Purtați o jachetă groasă împotriva vântului Mistral; vizibilitatea spre insule este mult mai clară în zilele reci de iarnă decât vara.",
-                "en": "Wear a warm jacket against the Mistral wind; the distant view towards the islands is often much sharper on cold winter days than in summer."
+                "en": "Wear a warm jacket against the Mistral wind; the distant view towards the islands is often much sharper on cold winter days than in summer.",
+                "fr": "Portez une veste chaude contre le vent du Mistral ; la vue lointaine vers les îles est souvent bien plus nette les jours froids d'hiver que l'été."
               }
             },
             {
@@ -274,13 +303,15 @@
                 "de": "Plage du Port du Niel",
                 "hu": "Plage du Port du Niel",
                 "ro": "Plage du Port du Niel",
-                "en": "Plage du Port du Niel"
+                "en": "Plage du Port du Niel",
+                "fr": "Plage du Port du Niel"
               },
               "tip_5lang": {
                 "de": "Genießen Sie die absolute Stille am leeren Strand; die tiefstehende Wintersonne zaubert lange Schatten und ein wunderbares Fotolicht auf den Sand.",
                 "hu": "Élvezze a teljes csendet az üres strandon; az alacsonyan járó téli nap hosszú árnyékokat és csodás fotófényeket varázsol a homokos partra.",
                 "ro": "Bucurați-vă de liniștea deplină pe plaja goală; soarele jos de iarnă creează umbre lungi și o lumină perfectă pentru fotografii pe nisip.",
-                "en": "Enjoy the absolute silence on the empty beach; the low winter sun creates long shadows and wonderful photographic light on the sand."
+                "en": "Enjoy the absolute silence on the empty beach; the low winter sun creates long shadows and wonderful photographic light on the sand.",
+                "fr": "Appréciez le silence absolu sur la plage vide ; le soleil bas d'hiver crée de longues ombres et une lumière photographique magnifique sur le sable."
               }
             },
             {
@@ -288,13 +319,15 @@
                 "de": "Port du Niel",
                 "hu": "Port du Niel",
                 "ro": "Port du Niel",
-                "en": "Port du Niel"
+                "en": "Port du Niel",
+                "fr": "Port du Niel"
               },
               "tip_5lang": {
                 "de": "Der Hafen wirkt im Winter wie im Winterschlaf; machen Sie einen schnellen Rundgang, bevor die Dunkelheit gegen 17:00 Uhr die Bucht einhüllt.",
                 "hu": "A kikötő télen olyan, mintha aludna; tegyen egy gyors kört a mólón, mielőtt a sötétség délután öt körül beborítja az öblöt.",
                 "ro": "Portul pare adormit în timpul iernii; faceți o plimbare rapidă pe debarcader înainte ca întunericul să cuprindă golful în jurul orei 17:00.",
-                "en": "The harbor feels like it's hibernating in winter; take a quick stroll before darkness envelops the bay around 5:00 PM."
+                "en": "The harbor feels like it's hibernating in winter; take a quick stroll before darkness envelops the bay around 5:00 PM.",
+                "fr": "Le port semble en hibernation en hiver ; faites une courte promenade avant que l'obscurité n'enveloppe la baie vers 17:00."
               }
             }
           ]
@@ -314,7 +347,8 @@
             "de": "Le château de Giens",
             "hu": "Le château de Giens",
             "ro": "Le château de Giens",
-            "en": "Le château de Giens"
+            "en": "Le château de Giens",
+            "fr": "Le château de Giens"
           },
           "coords": [
             6.130059,
@@ -329,7 +363,8 @@
             "de": "Steigen Sie zu den Ruinen dieser alten Burg hinauf, um einen Panoramablick zu genießen, und tragen Sie feste Schuhe für die unebenen Steine.",
             "hu": "Másszon fel ezen ősi vár romjaihoz a páratlan panorámáért a tengerre, és viseljen masszív cipőt az egyenetlen köveken való biztonságos járáshoz.",
             "ro": "Urcați la ruinele acestui castel antic pentru a vă bucura de vederi panoramice inegalabile, purtând pantofi rezistenți pentru pietrele inegale.",
-            "en": "Climb up to the ruins of this ancient castle to enjoy unparalleled panoramic views of the Mediterranean, wearing sturdy shoes to navigate uneven stones."
+            "en": "Climb up to the ruins of this ancient castle to enjoy unparalleled panoramic views of the Mediterranean, wearing sturdy shoes to navigate uneven stones.",
+            "fr": "Montez jusqu'aux ruines de ce vieux château pour profiter d'une vue panoramique incomparable sur la Méditerranée, en portant des chaussures solides pour franchir les pierres inégales."
           }
         },
         {
@@ -337,7 +372,8 @@
             "de": "Église Saint-Pierre",
             "hu": "Église Saint-Pierre",
             "ro": "Église Saint-Pierre",
-            "en": "Église Saint-Pierre"
+            "en": "Église Saint-Pierre",
+            "fr": "Église Saint-Pierre"
           },
           "coords": [
             6.132043,
@@ -352,7 +388,8 @@
             "de": "Bewundern Sie die schlichte Architektur dieser Dorfkirche, die die lokale Seefahrtsgeschichte widerspiegelt, und kommen Sie früh für ruhige Fotos.",
             "hu": "Csodálja meg a központi templom egyszerű építészetét, amely a tengerészeti történelmet tükrözi, és érkezzen korán a nyugodt fotózáshoz.",
             "ro": "Admirați arhitectura fermecătoare a acestei biserici centrale, care reflectă istoria maritimă locală, și ajungeți devreme pentru fotografii liniștite.",
-            "en": "Admire the simple architecture of this central village church, which reflects local maritime history, and arrive early for quiet photography sessions."
+            "en": "Admire the simple architecture of this central village church, which reflects local maritime history, and arrive early for quiet photography sessions.",
+            "fr": "Admirez l'architecture simple de cette église du centre du village, reflet de l'histoire maritime locale, et arrivez tôt pour des séances photo tranquilles."
           }
         },
         {
@@ -360,7 +397,8 @@
             "de": "Plage La Polynésie",
             "hu": "Plage La Polynésie",
             "ro": "Plage La Polynésie",
-            "en": "Plage La Polynésie"
+            "en": "Plage La Polynésie",
+            "fr": "Plage La Polynésie"
           },
           "coords": [
             6.143906,
@@ -375,7 +413,8 @@
             "de": "Entdecken Sie dieses Küstenjuwel, das für unberührte Schönheit bekannt ist, und bringen Sie Schnorchelausrüstung für die Unterwasserwelt mit.",
             "hu": "Fedezze fel ezt a rejtett tengerparti gyöngyszemet, és hozza magával a sznorkelfelszerelését a víz alatti élővilág kényelmes felfedezéséhez.",
             "ro": "Descoperiți această bijuterie de coastă ascunsă, aducând propriul echipament de snorkeling pentru a explora viața marină subacvatică vibrantă.",
-            "en": "Discover this hidden coastal gem known for its pristine beauty, bringing your own snorkeling gear to comfortably explore the vibrant underwater marine life."
+            "en": "Discover this hidden coastal gem known for its pristine beauty, bringing your own snorkeling gear to comfortably explore the vibrant underwater marine life.",
+            "fr": "Découvrez ce joyau côtier caché connu pour sa beauté immaculée ; apportez votre équipement de snorkeling pour explorer confortablement la vie marine sous-marine vibrante."
           }
         },
         {
@@ -383,7 +422,8 @@
             "de": "Fort du Pradeau",
             "hu": "Fort du Pradeau",
             "ro": "Fort du Pradeau",
-            "en": "Fort du Pradeau"
+            "en": "Fort du Pradeau",
+            "fr": "Fort du Pradeau"
           },
           "coords": [
             6.15568,
@@ -398,7 +438,8 @@
             "de": "Tauchen Sie in diesem imposanten Küstenfort in die Geschichte der Region ein und prüfen Sie vorher die saisonalen Öffnungszeiten des Museums.",
             "hu": "Merüljön el a régió katonai történetében ebben a tengerparti erődben, de látogatás előtt ellenőrizze a múzeum szezonális nyitvatartását.",
             "ro": "Pătrundeți în istoria militară a regiunii la acest fort de coastă, amintindu-vă să verificați orele de deschidere sezoniere ale muzeului înainte.",
-            "en": "Delve into the military history of the region at this imposing coastal fort, remembering to check the museum's seasonal opening hours before your visit."
+            "en": "Delve into the military history of the region at this imposing coastal fort, remembering to check the museum's seasonal opening hours before your visit.",
+            "fr": "Plongez dans l'histoire militaire de la région dans cet imposant fort côtier, en pensant à vérifier les horaires d'ouverture saisonniers du musée avant votre visite."
           }
         },
         {
@@ -406,7 +447,8 @@
             "de": "Plage du Pradeau",
             "hu": "Plage du Pradeau",
             "ro": "Plage du Pradeau",
-            "en": "Plage du Pradeau"
+            "en": "Plage du Pradeau",
+            "fr": "Plage du Pradeau"
           },
           "coords": [
             6.150845,
@@ -421,7 +463,8 @@
             "de": "Entspannen Sie sich an diesem wunderschönen Küstenabschnitt in der Nähe des Forts, wo ein leichtes Picknick mit Blick auf die Wellen zu empfehlen ist.",
             "hu": "Kapcsolódjon ki ezen a partszakaszon a történelmi erőd közelében, ahol egy könnyű piknik ajánlott az óceán nyugtató hullámainak élvezete közben.",
             "ro": "Relaxați-vă pe această porțiune de țărm lângă fortul istoric, unde un picnic ușor este recomandat în timp ce vă bucurați de valurile oceanului.",
-            "en": "Unwind on this beautiful shoreline stretch right near the historic fort, where a light picnic is highly recommended while enjoying soothing ocean waves."
+            "en": "Unwind on this beautiful shoreline stretch right near the historic fort, where a light picnic is highly recommended while enjoying soothing ocean waves.",
+            "fr": "Détendez-vous sur ce beau littoral tout près du fort historique ; un léger pique-nique est vivement recommandé tout en profitant du clapotis apaisant des vagues."
           }
         },
         {
@@ -429,7 +472,8 @@
             "de": "Port du Niel",
             "hu": "Port du Niel",
             "ro": "Port du Niel",
-            "en": "Port du Niel"
+            "en": "Port du Niel",
+            "fr": "Port du Niel"
           },
           "coords": [
             6.127585,
@@ -444,7 +488,8 @@
             "de": "Schlendern Sie entlang dieses malerischen kleinen Hafens, um Fischerboote zu sehen, und holen Sie sich einen frischen Kaffee in einem nahegelegenen Café.",
             "hu": "Sétáljon végig ezen a festői kis kikötőn az autentikus halászhajókért, és igyon egy friss kávét egy közeli, gyönyörű vízparti kávézóban.",
             "ro": "Plimbați-vă de-a lungul acestui mic port pitoresc pentru a vedea bărcile de pescari și savurați o cafea proaspătă la o cafenea din apropiere.",
-            "en": "Stroll along this picturesque small harbor to witness authentic fishing boats bobbing in the water, and grab a fresh coffee at a waterfront café."
+            "en": "Stroll along this picturesque small harbor to witness authentic fishing boats bobbing in the water, and grab a fresh coffee at a waterfront café.",
+            "fr": "Promenez-vous le long de ce petit port pittoresque pour voir de véritables bateaux de pêche se balancer sur l'eau et prenez un café frais dans un café en bord de mer."
           }
         },
         {
@@ -452,7 +497,8 @@
             "de": "Plage des Darboussières",
             "hu": "Plage des Darboussières",
             "ro": "Plage des Darboussières",
-            "en": "Plage des Darboussières"
+            "en": "Plage des Darboussières",
+            "fr": "Plage des Darboussières"
           },
           "coords": [
             6.112469,
@@ -467,7 +513,8 @@
             "de": "Wandern Sie hinunter zu diesem Kieselstrand in wilder Natur, und tragen Sie gute Wanderschuhe, um den leicht schroffen Pfad zu meistern.",
             "hu": "Túrázzon le erre a vad természettel körülvett kavicsos strandra, és gondoskodjon megfelelő túracipőről a lefelé vezető út kényelmes megtételéhez.",
             "ro": "Coborâți spre această plajă cu pietriș înconjurată de natură sălbatică, purtând pantofi de mers adecvați pentru traseul ușor accidentat.",
-            "en": "Hike down to this secluded pebble beach surrounded by wild nature, ensuring you wear decent walking shoes to safely navigate the descending trail."
+            "en": "Hike down to this secluded pebble beach surrounded by wild nature, ensuring you wear decent walking shoes to safely navigate the descending trail.",
+            "fr": "Descendez vers cette plage de galets isolée entourée d'une nature sauvage ; portez de bonnes chaussures de marche pour naviguer en toute sécurité le sentier descendant."
           }
         }
       ],
@@ -475,7 +522,8 @@
         "de": "Beginnen Sie Ihren Radtag mit der Erkundung des Dorfes und genießen Sie Burgruinen. Mittags rollen Sie ostwärts zu den Küstenfestungen und Stränden. Am Nachmittag radeln Sie zurück nach Westen, erkunden den versteckten Hafen und entspannen an abgelegenen Ufern. Der Abend endet mit einer malerischen Rückfahrt von den westlichen Rändern.",
         "hu": "Kezdje a kerékpározást a falu magaslatainak felfedezésével és a várromokkal. Délben kelet felé haladva a tengerparti erődök és az érintetlen strandok felé veszi az irányt. Délután visszafelé teker nyugatnak, felfedezve a kikötőt és a félreeső partokat. Az estét egy festői utazás zárja a nyugati peremvidékről visszatérve.",
         "ro": "Începeți ziua de ciclism explorând înălțimile satului și ruinele castelului. La prânz vă îndreptați spre est către forturile de coastă și plajele curate. După-amiaza, pedalați înapoi spre vest, explorând portul ascuns și relaxându-vă pe țărmuri izolate. Seara se încheie cu o plimbare pitorească înapoi de la marginile vestice.",
-        "en": "Start your cycling day exploring the village heights and taking in the castle ruins. Midday takes you rolling eastward towards the coastal forts and pristine beaches. In the afternoon, you pedal back westwards, exploring the hidden port and relaxing on secluded shorelines. The evening concludes with a scenic ride back from the western edges."
+        "en": "Start your cycling day exploring the village heights and taking in the castle ruins. Midday takes you rolling eastward towards the coastal forts and pristine beaches. In the afternoon, you pedal back westwards, exploring the hidden port and relaxing on secluded shorelines. The evening concludes with a scenic ride back from the western edges.",
+        "fr": "Commencez votre journée à vélo en explorant les hauteurs du village et en admirant les ruines du château. À midi, vous roulez vers l'est en direction des forts côtiers et des plages immaculées. L'après-midi, vous pédalez vers l'ouest, explorez le port caché et vous détendez sur des rivages isolés. La soirée se conclut par une belle route de retour depuis les bords ouest."
       },
       "variants": {
         "rainy": {
@@ -483,7 +531,8 @@
             "de": "Die Radtour beginnt vorsichtig auf den glatten Wegen zum Schloss. Mittags bietet das Fort du Pradeau eine willkommene, trockene Pause mit Kultur. Am Nachmittag radeln Sie durch die duftende, feuchte Pinienlandschaft, wobei Regenponchos unerlässlich sind. Der Abend endet mit einer stimmungsvollen Fahrt entlang der Küstenstraße zurück zum Hafen.",
             "hu": "A kerékpártúra óvatosan indul a vár felé vezető csúszós utakon. Délben a Fort du Pradeau nyújt kulturális élményekkel teli, száraz pihenőt. Délután az illatos, esőáztatta fenyveseken át kerekezünk, az esőponcsó kötelező kellék. Az este hangulatos gurulással zárul a part menti úton, vissza a kikötő irányába.",
             "ro": "Turul cu bicicleta începe cu prudență pe drumurile alunecoase spre castel. La prânz, Fort du Pradeau oferă o pauză uscată plină de cultură. După-amiaza pedalați prin peisajul parfumat de pini umezi, pelerinele de ploaie fiind esențiale. Seara se încheie cu o plimbare atmosferică pe drumul de coastă înapoi spre port.",
-            "en": "The bike tour starts cautiously on the slippery paths to the castle. At noon, Fort du Pradeau offers a welcome dry break with culture. In the afternoon, cycle through the fragrant, damp pine landscape, where rain ponchos are essential. The evening ends with an atmospheric ride along the coastal road back towards the harbor."
+            "en": "The bike tour starts cautiously on the slippery paths to the castle. At noon, Fort du Pradeau offers a welcome dry break with culture. In the afternoon, cycle through the fragrant, damp pine landscape, where rain ponchos are essential. The evening ends with an atmospheric ride along the coastal road back towards the harbor.",
+            "fr": "La balade à vélo commence prudemment sur les chemins glissants menant au château. À midi, le Fort du Pradeau offre une pause sèche bienvenue avec de la culture. L'après-midi, circulez à travers les pins humides et parfumés, où les ponchos pluie sont indispensables. La soirée se termine par une ambiance particulière le long de la route côtière en revenant vers le port."
           },
           "stops": [
             {
@@ -491,13 +540,15 @@
                 "de": "Le château de Giens",
                 "hu": "Le château de Giens",
                 "ro": "Le château de Giens",
-                "en": "Le château de Giens"
+                "en": "Le château de Giens",
+                "fr": "Le château de Giens"
               },
               "tip_5lang": {
                 "de": "Achten Sie beim Abstieg mit dem Rad auf nasse Blätter und Kopfsteinpflaster; die Aussicht auf die graue See ist dennoch jede Mühe wert.",
                 "hu": "Figyeljen a nedves levelekre és a macskakőre a kerékpáros ereszkedéskor; a kilátás a szürke tengerre így is megéri a fáradságot.",
                 "ro": "Atenție la frunzele ude și pavaj la coborârea cu bicicleta; vederea asupra mării gri merită totuși efortul de a urca până aici.",
-                "en": "Watch out for wet leaves and cobblestones when descending by bike; the view of the grey sea is still worth every bit of effort."
+                "en": "Watch out for wet leaves and cobblestones when descending by bike; the view of the grey sea is still worth every bit of effort.",
+                "fr": "Attention aux feuilles mouillées et aux pavés lors de la descente à vélo ; la vue sur la mer grise vaut néanmoins tous les efforts."
               }
             },
             {
@@ -505,13 +556,15 @@
                 "de": "Église Saint-Pierre",
                 "hu": "Église Saint-Pierre",
                 "ro": "Église Saint-Pierre",
-                "en": "Église Saint-Pierre"
+                "en": "Église Saint-Pierre",
+                "fr": "Église Saint-Pierre"
               },
               "tip_5lang": {
                 "de": "Parken Sie Ihr Rad unter einem Baum oder Vordach und nutzen Sie die Kirche als trockenen Rückzugsort für eine kurze Meditationspause.",
                 "hu": "Parkolja le kerékpárját egy fa vagy előtető alatt, és használja a templomot száraz menedékként egy rövid, elmélyült pihenőre.",
                 "ro": "Parcați bicicleta sub un copac sau o streașină și folosiți biserica ca refugiu uscat pentru o scurtă pauză de meditație.",
-                "en": "Park your bike under a tree or overhang and use the church as a dry retreat for a short, meditative break away from the rain."
+                "en": "Park your bike under a tree or overhang and use the church as a dry retreat for a short, meditative break away from the rain.",
+                "fr": "Garez votre vélo sous un arbre ou un auvent et utilisez l'église comme refuge sec pour une courte pause méditative loin de la pluie."
               }
             },
             {
@@ -519,13 +572,15 @@
                 "de": "Plage La Polynésie",
                 "hu": "Plage La Polynésie",
                 "ro": "Plage La Polynésie",
-                "en": "Plage La Polynésie"
+                "en": "Plage La Polynésie",
+                "fr": "Plage La Polynésie"
               },
               "tip_5lang": {
                 "de": "Der Weg zum Strand kann bei Regen schlammig sein; genießen Sie das raue Küstenpanorama, bevor Sie zum geschützten Fort weiterfahren.",
                 "hu": "A strandhoz vezető út esőben sáros lehet; élvezze a nyers tengerparti panorámát, mielőtt továbbkerekezne a védett erőd felé.",
                 "ro": "Drumul spre plajă poate fi noroios pe ploaie; bucurați-vă de panorama aspră a coastei înainte de a continua spre fortul protejat.",
-                "en": "The path to the beach can be muddy in the rain; enjoy the raw coastal panorama before cycling on to the sheltered fort for cover."
+                "en": "The path to the beach can be muddy in the rain; enjoy the raw coastal panorama before cycling on to the sheltered fort for cover.",
+                "fr": "Le chemin vers la plage peut être boueux sous la pluie ; profitez du panorama côtier brut avant de vous diriger vers le fort abrité pour vous couvrir."
               }
             },
             {
@@ -533,13 +588,15 @@
                 "de": "Fort du Pradeau",
                 "hu": "Fort du Pradeau",
                 "ro": "Fort du Pradeau",
-                "en": "Fort du Pradeau"
+                "en": "Fort du Pradeau",
+                "fr": "Fort du Pradeau"
               },
               "tip_5lang": {
                 "de": "Dies ist der ideale Ort, um das Schlimmste des Regens im Inneren des Museums auszusitzen und dabei die Geschichte der Küste zu erkunden.",
                 "hu": "Ez az ideális hely, hogy a múzeum belsejében vészelje át a záport, miközben felfedezi a partvidék izgalmas történelmét.",
                 "ro": "Acesta este locul ideal pentru a aștepta trecerea ploii în interiorul muzeului, explorând în același timp istoria coastei.",
-                "en": "This is the ideal spot to wait out the worst of the rain inside the museum while exploring the fascinating history of the coastline."
+                "en": "This is the ideal spot to wait out the worst of the rain inside the museum while exploring the fascinating history of the coastline.",
+                "fr": "C'est l'endroit idéal pour attendre la fin de la pluie à l'intérieur du musée tout en explorant l'histoire fascinante du littoral."
               }
             },
             {
@@ -547,13 +604,15 @@
                 "de": "Plage du Pradeau",
                 "hu": "Plage du Pradeau",
                 "ro": "Plage du Pradeau",
-                "en": "Plage du Pradeau"
+                "en": "Plage du Pradeau",
+                "fr": "Plage du Pradeau"
               },
               "tip_5lang": {
                 "de": "Radeln Sie zügig am Ufer entlang; der feuchte Sand ist fest, aber achten Sie auf Pfützen auf den Wegen hinter dem Strand.",
                 "hu": "Kerekezzen tempósan a part mentén; a nedves homok kemény, de ügyeljen a strand mögötti utakon kialakuló tócsákra és sárra.",
                 "ro": "Pedalați rapid de-a lungul țărmului; nisipul umed este tare, dar fiți atenți la bălțile de pe potecile din spatele plajei.",
-                "en": "Cycle briskly along the shore; the damp sand is firm, but watch out for puddles on the paths behind the beach area."
+                "en": "Cycle briskly along the shore; the damp sand is firm, but watch out for puddles on the paths behind the beach area.",
+                "fr": "Pédalez d'un bon rythme le long du rivage ; le sable humide est ferme, mais attention aux flaques sur les chemins derrière la plage."
               }
             },
             {
@@ -561,13 +620,15 @@
                 "de": "Port du Niel",
                 "hu": "Port du Niel",
                 "ro": "Port du Niel",
-                "en": "Port du Niel"
+                "en": "Port du Niel",
+                "fr": "Port du Niel"
               },
               "tip_5lang": {
                 "de": "Fahren Sie vorsichtig auf den Hafenkais; die nassen Pflastersteine können sehr rutschig sein, wenn Sie die Boote aus der Nähe betrachten.",
                 "hu": "Hajtson óvatosan a kikötői mólón; a nedves macskakő nagyon csúszós lehet, miközben közelről figyeli a ringatózó hajókat.",
                 "ro": "Conduceți cu prudență pe cheiurile portului; pietrele umede pot fi foarte alunecoase când priviți bărcile de aproape.",
-                "en": "Ride carefully on the harbor quays; the wet cobblestones can be very slippery while you're observing the boats up close."
+                "en": "Ride carefully on the harbor quays; the wet cobblestones can be very slippery while you're observing the boats up close.",
+                "fr": "Roulez prudemment sur les quais du port ; les pavés mouillés peuvent être très glissants pendant que vous observez les bateaux de près."
               }
             },
             {
@@ -575,13 +636,15 @@
                 "de": "Plage des Darboussières",
                 "hu": "Plage des Darboussières",
                 "ro": "Plage des Darboussières",
-                "en": "Plage des Darboussières"
+                "en": "Plage des Darboussières",
+                "fr": "Plage des Darboussières"
               },
               "tip_5lang": {
                 "de": "Beenden Sie die Tour mit einem Blick auf die Gischt; die Kombination aus Regen und Wellen erzeugt eine dramatische Geräuschkulisse am Strand.",
                 "hu": "Zárja a túrát a habzó tenger látványával; az eső és a hullámok találkozása drámai hanghatást kelt ezen a vadregényes parton.",
                 "ro": "Încheiați turul cu o privire asupra spumei mării; combinația de ploaie și valuri creează un fundal sonor dramatic pe plajă.",
-                "en": "End the tour with a look at the sea spray; the combination of rain and waves creates a dramatic soundscape on this wild beach."
+                "en": "End the tour with a look at the sea spray; the combination of rain and waves creates a dramatic soundscape on this wild beach.",
+                "fr": "Terminez la balade en regardant les embruns ; la combinaison pluie-vagues crée un paysage sonore dramatique sur cette plage sauvage."
               }
             }
           ]
@@ -591,7 +654,8 @@
             "de": "Ein frischer Wintermorgen ist perfekt für den Anstieg zum Schloss. Mittags wärmt die Sonne die Dorfmitte, ideal für eine Pause an der Kirche. Am Nachmittag führt die Route durch stille Pinienwälder zum Fort du Pradeau, wobei das Licht weich über die Landschaft streicht. Gegen 17:00 Uhr kehren Sie im letzten Tageslicht zum Hafen zurück, bevor es spürbar kühler wird.",
             "hu": "A friss téli reggel tökéletes a várba vezető emelkedőhöz. Délben a nap melegíti a falu központját, ideális egy pihenőhöz a templomnál. Délután az út csendes fenyőerdőkön át vezet a Fort du Pradeau felé, lágy fények kíséretében. Délután öt körül, az utolsó fényekkel térünk vissza a kikötőbe, mielőtt érezhetően lehűl az idő.",
             "ro": "O dimineață răcoroasă de iarnă este perfectă pentru urcarea spre castel. La prânz, soarele încălzește centrul satului, ideal pentru o pauză la biserică. După-amiaza, traseul trece prin păduri de pini liniștite spre Fort du Pradeau. În jurul orei 17:00, vă întoarceți în port în ultima lumină a zilei, înainte de răcirea serii.",
-            "en": "A crisp winter morning is perfect for the climb to the castle. At noon, the sun warms the village center, ideal for a break by the church. In the afternoon, the route leads through quiet pine forests to Fort du Pradeau, with soft light over the landscape. Around 5:00 PM, return to the harbor in the last daylight before it gets noticeably cooler."
+            "en": "A crisp winter morning is perfect for the climb to the castle. At noon, the sun warms the village center, ideal for a break by the church. In the afternoon, the route leads through quiet pine forests to Fort du Pradeau, with soft light over the landscape. Around 5:00 PM, return to the harbor in the last daylight before it gets noticeably cooler.",
+            "fr": "Une fraîche matinée d'hiver est parfaite pour la montée au château. À midi, le soleil réchauffe le centre du village, idéal pour une pause près de l'église. L'après-midi, le trajet traverse des forêts de pins calmes jusqu'au Fort du Pradeau, avec une lumière douce sur le paysage. Vers 17:00, retournez au port dans la dernière lumière du jour avant qu'il ne fasse sensiblement plus frais."
           },
           "stops": [
             {
@@ -599,13 +663,15 @@
                 "de": "Le château de Giens",
                 "hu": "Le château de Giens",
                 "ro": "Le château de Giens",
-                "en": "Le château de Giens"
+                "en": "Le château de Giens",
+                "fr": "Le château de Giens"
               },
               "tip_5lang": {
                 "de": "Nutzen Sie den klaren Wintermorgen für weite Panoramafotos; die kühle Luft sorgt für eine außergewöhnliche Fernsicht über die gesamte Halbinsel.",
                 "hu": "Használja ki a tiszta téli reggelt panorámafotózáshoz; a hűvös levegő rendkívüli távlátszást biztosít az egész félsziget felett.",
                 "ro": "Folosiți dimineața senină de iarnă pentru fotografii panoramice; aerul rece oferă o vizibilitate extraordinară peste întreaga peninsulă.",
-                "en": "Take advantage of the clear winter morning for panoramic photos; the cool air provides extraordinary visibility across the entire peninsula."
+                "en": "Take advantage of the clear winter morning for panoramic photos; the cool air provides extraordinary visibility across the entire peninsula.",
+                "fr": "Profitez de la claire matinée d'hiver pour des photos panoramiques ; l'air frais offre une visibilité extraordinaire sur toute la presqu'île."
               }
             },
             {
@@ -613,13 +679,15 @@
                 "de": "Église Saint-Pierre",
                 "hu": "Église Saint-Pierre",
                 "ro": "Église Saint-Pierre",
-                "en": "Église Saint-Pierre"
+                "en": "Église Saint-Pierre",
+                "fr": "Église Saint-Pierre"
               },
               "tip_5lang": {
                 "de": "Ein kurzer Stopp in der Kirche bietet Schutz vor dem kühlen Wind und einen Moment der Ruhe in der sonst so belebten Ortsmitte.",
                 "hu": "Egy rövid megálló a templomban védelmet nyújt a hűvös szél ellen, és egy pillanatnyi csendet kínál a falu egyébként életteli központjában.",
                 "ro": "O scurtă oprire în biserică oferă protecție împotriva vântului rece și un moment de liniște în centrul altfel animat al satului.",
-                "en": "A short stop in the church offers protection from the cool wind and a moment of peace in the otherwise lively village center."
+                "en": "A short stop in the church offers protection from the cool wind and a moment of peace in the otherwise lively village center.",
+                "fr": "Un court arrêt dans l'église offre une protection contre le vent frais et un moment de paix dans le centre du village autrement animé."
               }
             },
             {
@@ -627,13 +695,15 @@
                 "de": "Plage La Polynésie",
                 "hu": "Plage La Polynésie",
                 "ro": "Plage La Polynésie",
-                "en": "Plage La Polynésie"
+                "en": "Plage La Polynésie",
+                "fr": "Plage La Polynésie"
               },
               "tip_5lang": {
                 "de": "Die leere Bucht strahlt im Winter eine unglaubliche Ruhe aus; ideal für eine kurze Radpause, um die tiefblaue Farbe des Meeres zu bewundern.",
                 "hu": "Az üres öböl télen hihetetlen nyugalmat áraszt; ideális egy rövid kerékpáros pihenőhöz, hogy megcsodálja a tenger mélykék színét.",
                 "ro": "Golful gol emană o liniște incredibilă iarna; ideal pentru o scurtă pauză de pedalat pentru a admira culoarea albastru închis a mării.",
-                "en": "The empty bay radiates an incredible calm in winter; ideal for a short cycling break to admire the deep blue color of the Mediterranean."
+                "en": "The empty bay radiates an incredible calm in winter; ideal for a short cycling break to admire the deep blue color of the Mediterranean.",
+                "fr": "La baie vide dégage un calme incroyable en hiver ; idéale pour une courte pause à vélo pour admirer le bleu profond de la Méditerranée."
               }
             },
             {
@@ -641,13 +711,15 @@
                 "de": "Fort du Pradeau",
                 "hu": "Fort du Pradeau",
                 "ro": "Fort du Pradeau",
-                "en": "Fort du Pradeau"
+                "en": "Fort du Pradeau",
+                "fr": "Fort du Pradeau"
               },
               "tip_5lang": {
                 "de": "Wärmen Sie sich bei einem Rundgang durch die Ausstellungen auf; das Fort ist im Winter ein gemütlicher Ort für Geschichtsinteressierte.",
                 "hu": "Melegedjen fel a kiállítások megtekintése közben; az erőd télen is barátságos és érdekes hely a történelem kedvelői számára.",
                 "ro": "Încălziți-vă în timpul unui tur al expozițiilor; fortul este un loc primitor și interesant pentru pasionații de istorie chiar și iarna.",
-                "en": "Warm up during a tour of the exhibits; the fort is a cozy and interesting place for history buffs even in the winter season."
+                "en": "Warm up during a tour of the exhibits; the fort is a cozy and interesting place for history buffs even in the winter season.",
+                "fr": "Réchauffez-vous en visitant les expositions ; le fort est un lieu confortable et intéressant pour les amateurs d'histoire, même en saison hivernale."
               }
             },
             {
@@ -655,13 +727,15 @@
                 "de": "Plage du Pradeau",
                 "hu": "Plage du Pradeau",
                 "ro": "Plage du Pradeau",
-                "en": "Plage du Pradeau"
+                "en": "Plage du Pradeau",
+                "fr": "Plage du Pradeau"
               },
               "tip_5lang": {
                 "de": "Die Wintersonne steht hier nachmittags perfekt; genießen Sie die letzten wärmenden Strahlen, bevor Sie die Rückfahrt antreten.",
                 "hu": "A téli nap itt délutánonként tökéletes szögben süt; élvezze az utolsó melengető sugarakat, mielőtt elindulna visszafelé.",
                 "ro": "Soarele de iarnă este perfect aici după-amiaza; bucurați-vă de ultimele raze calde înainte de a începe drumul de întoarcere.",
-                "en": "The winter sun hits perfectly here in the afternoon; enjoy the last warming rays before you start your ride back."
+                "en": "The winter sun hits perfectly here in the afternoon; enjoy the last warming rays before you start your ride back.",
+                "fr": "Le soleil d'hiver frappe parfaitement ici l'après-midi ; profitez des derniers rayons chauffants avant de commencer votre retour à vélo."
               }
             },
             {
@@ -669,13 +743,15 @@
                 "de": "Port du Niel",
                 "hu": "Port du Niel",
                 "ro": "Port du Niel",
-                "en": "Port du Niel"
+                "en": "Port du Niel",
+                "fr": "Port du Niel"
               },
               "tip_5lang": {
                 "de": "Gegen 16:30 Uhr beginnt das blaue Licht der Dämmerung; der Hafen wirkt dann besonders malerisch und friedlich im kühlen Abendwind.",
                 "hu": "Délután fél öt körül kezdődik az alkonyat kék órája; a kikötő ilyenkor különösen festői és békés a hűvös esti szélben.",
                 "ro": "În jur de ora 16:30 începe ora albastră a amurgului; portul arată atunci deosebit de pitoresc și liniștit în vântul rece de seară.",
-                "en": "Around 4:30 PM, the blue hour of twilight begins; the harbor looks especially picturesque and peaceful in the cool evening breeze."
+                "en": "Around 4:30 PM, the blue hour of twilight begins; the harbor looks especially picturesque and peaceful in the cool evening breeze.",
+                "fr": "Vers 16:30, l'heure bleue du crépuscule commence ; le port paraît particulièrement pittoresque et paisible dans la brise fraîche du soir."
               }
             },
             {
@@ -683,13 +759,15 @@
                 "de": "Plage des Darboussières",
                 "hu": "Plage des Darboussières",
                 "ro": "Plage des Darboussières",
-                "en": "Plage des Darboussières"
+                "en": "Plage des Darboussières",
+                "fr": "Plage des Darboussières"
               },
               "tip_5lang": {
                 "de": "Vorsicht vor schnellem Lichtverlust gegen 17:00 Uhr; stellen Sie sicher, dass Ihre Fahrradbeleuchtung für den Rückweg einwandfrei funktioniert.",
                 "hu": "Vigyázzon a gyors sötétedéssel délután öt körül; győződjön meg róla, hogy a kerékpár lámpái tökéletesen működnek a visszautashoz.",
                 "ro": "Atenție la pierderea rapidă a luminii în jurul orei 17:00; asigurați-vă că luminile bicicletei funcționează perfect pentru drumul de întoarcere.",
-                "en": "Be aware of the rapid light loss around 5:00 PM; ensure your bike lights are working perfectly for the ride back in the dark."
+                "en": "Be aware of the rapid light loss around 5:00 PM; ensure your bike lights are working perfectly for the ride back in the dark.",
+                "fr": "Soyez conscient de la perte rapide de lumière vers 17:00 ; assurez-vous que vos éclairages de vélo fonctionnent parfaitement pour le retour dans l'obscurité."
               }
             }
           ]
@@ -709,7 +787,8 @@
             "de": "Fort du Pradeau",
             "hu": "Fort du Pradeau",
             "ro": "Fort du Pradeau",
-            "en": "Fort du Pradeau"
+            "en": "Fort du Pradeau",
+            "fr": "Fort du Pradeau"
           },
           "coords": [
             6.15568,
@@ -724,7 +803,8 @@
             "de": "Tauchen Sie in diesem imposanten Küstenfort in die Geschichte der Region ein und prüfen Sie vorher die saisonalen Öffnungszeiten des Museums.",
             "hu": "Merüljön el a régió katonai történetében ebben a tengerparti erődben, de látogatás előtt ellenőrizze a múzeum szezonális nyitvatartását.",
             "ro": "Pătrundeți în istoria militară a regiunii la acest fort de coastă, amintindu-vă să verificați orele de deschidere sezoniere ale muzeului înainte.",
-            "en": "Delve into the military history of the region at this imposing coastal fort, remembering to check the museum's seasonal opening hours before your visit."
+            "en": "Delve into the military history of the region at this imposing coastal fort, remembering to check the museum's seasonal opening hours before your visit.",
+            "fr": "Plongez dans l'histoire militaire de la région dans cet imposant fort côtier, en pensant à vérifier les horaires d'ouverture saisonniers du musée avant votre visite."
           }
         },
         {
@@ -732,7 +812,8 @@
             "de": "Plage du Pradeau",
             "hu": "Plage du Pradeau",
             "ro": "Plage du Pradeau",
-            "en": "Plage du Pradeau"
+            "en": "Plage du Pradeau",
+            "fr": "Plage du Pradeau"
           },
           "coords": [
             6.150845,
@@ -747,7 +828,8 @@
             "de": "Entspannen Sie sich an diesem wunderschönen Küstenabschnitt in der Nähe des Forts, wo ein leichtes Picknick mit Blick auf die Wellen zu empfehlen ist.",
             "hu": "Kapcsolódjon ki ezen a partszakaszon a történelmi erőd közelében, ahol egy könnyű piknik ajánlott az óceán nyugtató hullámainak élvezete közben.",
             "ro": "Relaxați-vă pe această porțiune de țărm lângă fortul istoric, unde un picnic ușor este recomandat în timp ce vă bucurați de valurile oceanului.",
-            "en": "Unwind on this beautiful shoreline stretch right near the historic fort, where a light picnic is highly recommended while enjoying soothing ocean waves."
+            "en": "Unwind on this beautiful shoreline stretch right near the historic fort, where a light picnic is highly recommended while enjoying soothing ocean waves.",
+            "fr": "Détendez-vous sur ce magnifique littoral tout près du fort historique ; un léger pique-nique est fortement conseillé en écoutant les vagues apaisantes."
           }
         },
         {
@@ -755,7 +837,8 @@
             "de": "Maire Annexe de Giens",
             "hu": "Maire Annexe de Giens",
             "ro": "Maire Annexe de Giens",
-            "en": "Maire Annexe de Giens"
+            "en": "Maire Annexe de Giens",
+            "fr": "Mairie Annexe de Giens"
           },
           "coords": [
             6.131037,
@@ -770,7 +853,8 @@
             "de": "Erkunden Sie dieses historische Verwaltungsgebäude, um das Erbe der Halbinsel zu verstehen, und bringen Sie einen Regenschirm mit, da Schatten selten ist.",
             "hu": "Fedezze fel ezt a történelmi épületet a polgári örökség megértéséhez, de hozzon napernyőt, mivel a téren az árnyék meglehetősen korlátozott.",
             "ro": "Explorați această clădire istorică pentru a înțelege moștenirea civică a peninsulei și aduceți o umbrelă, deoarece umbra este destul de limitată.",
-            "en": "Explore this historic administrative building to grasp the civic heritage of the peninsula, bringing an umbrella as shade in the square is quite limited."
+            "en": "Explore this historic administrative building to grasp the civic heritage of the peninsula, bringing an umbrella as shade in the square is quite limited.",
+            "fr": "Explorez ce bâtiment administratif historique pour comprendre le patrimoine civique de la presqu’île ; apportez un parapluie car l’ombre sur la place est très limitée."
           }
         },
         {
@@ -778,7 +862,8 @@
             "de": "Le château de Giens",
             "hu": "Le château de Giens",
             "ro": "Le château de Giens",
-            "en": "Le château de Giens"
+            "en": "Le château de Giens",
+            "fr": "Le château de Giens"
           },
           "coords": [
             6.130059,
@@ -793,7 +878,8 @@
             "de": "Steigen Sie zu den Ruinen dieser alten Burg hinauf, um einen Panoramablick zu genießen, und tragen Sie feste Schuhe für die unebenen Steine.",
             "hu": "Másszon fel ezen ősi vár romjaihoz a páratlan panorámáért a tengerre, és viseljen masszív cipőt az egyenetlen köveken való biztonságos járáshoz.",
             "ro": "Urcați la ruinele acestui castel antic pentru a vă bucura de vederi panoramice inegalabile, purtând pantofi rezistenți pentru pietrele inegale.",
-            "en": "Climb up to the ruins of this ancient castle to enjoy unparalleled panoramic views of the Mediterranean, wearing sturdy shoes to navigate uneven stones."
+            "en": "Climb up to the ruins of this ancient castle to enjoy unparalleled panoramic views of the Mediterranean, wearing sturdy shoes to navigate uneven stones.",
+            "fr": "Montez jusqu’aux ruines de ce château ancien pour profiter d’une vue panoramique inégalée sur la Méditerranée ; portez des chaussures solides pour affronter les pierres irrégulières."
           }
         },
         {
@@ -801,7 +887,8 @@
             "de": "Port du Niel",
             "hu": "Port du Niel",
             "ro": "Port du Niel",
-            "en": "Port du Niel"
+            "en": "Port du Niel",
+            "fr": "Port du Niel"
           },
           "coords": [
             6.127585,
@@ -816,7 +903,8 @@
             "de": "Schlendern Sie entlang dieses malerischen kleinen Hafens, um Fischerboote zu sehen, und holen Sie sich einen frischen Kaffee in einem nahegelegenen Café.",
             "hu": "Sétáljon végig ezen a festői kis kikötőn az autentikus halászhajókért, és igyon egy friss kávét egy közeli, gyönyörű vízparti kávézóban.",
             "ro": "Plimbați-vă de-a lungul acestui mic port pitoresc pentru a vedea bărcile de pescari și savurați o cafea proaspătă la o cafenea din apropiere.",
-            "en": "Stroll along this picturesque small harbor to witness authentic fishing boats bobbing in the water, and grab a fresh coffee at a waterfront café."
+            "en": "Stroll along this picturesque small harbor to witness authentic fishing boats bobbing in the water, and grab a fresh coffee at a waterfront café.",
+            "fr": "Promenez-vous le long de ce petit port pittoresque pour voir des bateaux de pêche authentiques se balancer sur l’eau, et prenez un café fraîchement préparé dans un café en bord de mer."
           }
         },
         {
@@ -824,7 +912,8 @@
             "de": "Presqu'Île de Giens",
             "hu": "Presqu'Île de Giens",
             "ro": "Presqu'Île de Giens",
-            "en": "Presqu'Île de Giens"
+            "en": "Presqu'Île de Giens",
+            "fr": "Presqu’Île de Giens"
           },
           "coords": [
             6.103201,
@@ -839,7 +928,8 @@
             "de": "Tauchen Sie ein in die Küstenbiodiversität dieses Halbinselstreifens, halten Sie Ausschau nach Vögeln und nehmen Sie ausreichend Trinkwasser mit.",
             "hu": "Merüljön el ennek a keskeny félszigetnek a biológiai sokféleségében, tartsa szemmel a költöző madarakat, és vigyen magával bőséges ivóvizet.",
             "ro": "Cufundați-vă în biodiversitatea de coastă a acestei peninsule înguste, fiind cu ochii pe păsările migratoare și luând cu dvs multă apă potabilă.",
-            "en": "Immerse yourself in the breathtaking coastal biodiversity of this narrow peninsula strip, keeping an eye out for birds and carrying plenty of drinking water."
+            "en": "Immerse yourself in the breathtaking coastal biodiversity of this narrow peninsula strip, keeping an eye out for birds and carrying plenty of drinking water.",
+            "fr": "Plongez dans la biodiversité côtière spectaculaire de cette bande étroite de presqu’île ; surveillez les oiseaux et emportez suffisamment d’eau potable."
           }
         },
         {
@@ -847,7 +937,8 @@
             "de": "Calanque du Four à Chaux",
             "hu": "Calanque du Four à Chaux",
             "ro": "Calanque du Four à Chaux",
-            "en": "Calanque du Four à Chaux"
+            "en": "Calanque du Four à Chaux",
+            "fr": "Calanque du Four à Chaux"
           },
           "coords": [
             6.101432,
@@ -862,7 +953,8 @@
             "de": "Schwimmen Sie im türkisfarbenen Wasser dieser Bucht, aber seien Sie vorsichtig, da der Weg rutschig ist und Parkplätze im Sommer knapp sind.",
             "hu": "Ússzon ennek a sziklás öbölnek a türkizkék vizében, de óvatosan érkezzen, mivel az út csúszós lehet, és a parkolóhelyek száma hihetetlenül kevés.",
             "ro": "Înotați în apele turcoaz uimitoare ale acestui golf stâncos, dar coborâți cu atenție, deoarece poteca este alunecoasă, iar parcarea este foarte rară.",
-            "en": "Swim in the striking turquoise waters of this dramatic rocky inlet, but arrive carefully as the path can be slippery and parking nearby is incredibly scarce."
+            "en": "Swim in the striking turquoise waters of this dramatic rocky inlet, but arrive carefully as the path can be slippery and parking nearby is incredibly scarce.",
+            "fr": "Nagez dans les eaux turquoise remarquables de cette crique rocheuse dramatique, mais arrivez prudemment car le sentier peut être glissant et le stationnement à proximité est extrêmement rare."
           }
         }
       ],
@@ -870,7 +962,8 @@
         "de": "Ihre Fahrt beginnt an der Ostspitze, wo Sie das robuste Küstenfort entdecken. Mittags fahren Sie ins Herz des Dorfes, um das Zentrum und die Burghöhen zu erkunden. Am Nachmittag navigieren Sie hinunter zum Hafen und entlang der atemberaubenden Halbinsel. Der Tag endet perfekt an einer dramatischen, versteckten Calanque.",
         "hu": "A festői autózás a keleti csücsökben kezdődik, felfedezve az erődöt. Délben a faluközpontba hajt, hogy feltérképezze a közigazgatási központot és a vár magaslatait. Délután lefelé navigál a festői kikötőhöz és a lenyűgöző félsziget gerince mentén. A nap tökéletes befejezést nyer egy drámai, rejtett sziklás öbölben.",
         "ro": "Conducerea scenică începe est, descoperind fortul robust. Până la prânz, conduceți în inima satului Giens pentru a explora centrul de administrație și castelul. După-amiaza, veți naviga până la portul pitoresc și de-a lungul crestei peninsulei uimitoare. Ziua se termină perfect într-un golf dramatic, ascuns în stânci.",
-        "en": "Your scenic drive starts at the eastern tip, discovering the robust coastal fort and beaches. By midday, you drive into the village heart to explore the civic center and castle heights. During the afternoon, you navigate down to the port and along the stunning peninsula spine. The day ends perfectly at a dramatic, hidden calanque."
+        "en": "Your scenic drive starts at the eastern tip, discovering the robust coastal fort and beaches. By midday, you drive into the village heart to explore the civic center and castle heights. During the afternoon, you navigate down to the port and along the stunning peninsula spine. The day ends perfectly at a dramatic, hidden calanque.",
+        "fr": "Votre promenade panoramique commence à la pointe est, en découvrant le fort côtier robuste et les plages. À midi, vous entrez dans le cœur du village pour explorer le centre civique et les hauteurs du château. L’après-midi, vous descendez vers le port et longez l’épine spectaculaire de la presqu’île. La journée se termine parfaitement dans une calanque cachée et spectaculaire."
       },
       "variants": {
         "rainy": {
@@ -878,7 +971,8 @@
             "de": "Die Fahrt beginnt entspannt im Fort du Pradeau, einem perfekten Rückzugsort bei Regen. Mittags bietet das Auto Schutz, während Sie zwischen den Küstenstopps pendeln. Nachmittags erleben Sie das Schloss und den Hafen, wobei Sie immer nah am Ziel parken können. Der Tag endet sicher und trocken mit einer Panoramafahrt über die regennasse Halbinsel.",
             "hu": "Az autós túra a Fort du Pradeau-ban indul, amely tökéletes menedék eső esetén. Délben az autó kényelme védelmet nyújt, miközben a parti helyszínek között utazunk. Délután a várat és a kikötőt fedezzük fel, mindig közel parkolva a bejáratokhoz. A nap biztonságban és szárazon zárul egy panorámaúttal az esőáztatta félszigeten.",
             "ro": "Călătoria începe relaxat la Fort du Pradeau, un refugiu perfect pe ploaie. La prânz, mașina oferă protecție în timp ce faceți naveta între opririle de pe coastă. După-amiaza vizitați castelul și portul, putând parca mereu aproape de destinație. Ziua se încheie în siguranță și uscat cu o plimbare panoramică pe peninsula udă de ploaie.",
-            "en": "The drive starts relaxed at Fort du Pradeau, a perfect retreat during rain. At noon, the car provides shelter while commuting between coastal stops. In the afternoon, experience the castle and harbor, always being able to park close to your destination. The day ends safely and dry with a scenic drive across the rain-swept peninsula."
+            "en": "The drive starts relaxed at Fort du Pradeau, a perfect retreat during rain. At noon, the car provides shelter while commuting between coastal stops. In the afternoon, experience the castle and harbor, always being able to park close to your destination. The day ends safely and dry with a scenic drive across the rain-swept peninsula.",
+            "fr": "La route commence calmement au Fort du Pradeau, un refuge parfait par temps de pluie. À midi, la voiture offre un abri pendant les déplacements entre les arrêts côtiers. L’après-midi, vivez le château et le port, en pouvant toujours vous garer près de votre destination. La journée se termine au sec et en sécurité par une balade panoramique à travers la presqu’île arrosée par la pluie."
           },
           "stops": [
             {
@@ -886,13 +980,15 @@
                 "de": "Fort du Pradeau",
                 "hu": "Fort du Pradeau",
                 "ro": "Fort du Pradeau",
-                "en": "Fort du Pradeau"
+                "en": "Fort du Pradeau",
+                "fr": "Fort du Pradeau"
               },
               "tip_5lang": {
                 "de": "Parken Sie direkt am Eingang und verbringen Sie die regenreichste Zeit in den Ausstellungsräumen des Museums; perfekt für einen trockenen Start.",
                 "hu": "Parkoljon közvetlenül a bejáratnál, és töltse a legesősebb időszakot a múzeum kiállítótermeiben; tökéletes hely a száraz kezdéshez.",
                 "ro": "Parcați chiar la intrare și petreceți perioada cea mai ploioasă în sălile de expoziție ale muzeului; este startul perfect pentru o zi cu ploaie.",
-                "en": "Park right at the entrance and spend the rainiest period inside the museum's exhibition rooms; perfect for a dry start to your day."
+                "en": "Park right at the entrance and spend the rainiest period inside the museum's exhibition rooms; perfect for a dry start to your day.",
+                "fr": "Garez-vous juste à l’entrée et passez la période la plus pluvieuse dans les salles d’exposition du musée ; parfait pour commencer la journée au sec."
               }
             },
             {
@@ -900,13 +996,15 @@
                 "de": "Plage du Pradeau",
                 "hu": "Plage du Pradeau",
                 "ro": "Plage du Pradeau",
-                "en": "Plage du Pradeau"
+                "en": "Plage du Pradeau",
+                "fr": "Plage du Pradeau"
               },
               "tip_5lang": {
                 "de": "Genießen Sie den Blick auf die Wellen gemütlich aus dem trockenen Auto heraus; die Parkplätze bieten oft eine gute Sicht auf das aufgewühlte Meer.",
                 "hu": "Élvezze a hullámok látványát kényelmesen, a száraz autóból; a parkolók gyakran kiváló rálátást biztosítanak a felkorbácsolt tengerre.",
                 "ro": "Bucurați-vă de vederea valurilor din confortul mașinii uscate; parcările oferă adesea o perspectivă bună asupra mării agitate.",
-                "en": "Enjoy the view of the waves from the comfort of your dry car; the parking areas often offer a great vantage point of the stormy sea."
+                "en": "Enjoy the view of the waves from the comfort of your dry car; the parking areas often offer a great vantage point of the stormy sea.",
+                "fr": "Profitez de la vue des vagues depuis le confort de votre voiture sèche ; les emplacements de stationnement offrent souvent un superbe point de vue sur la mer agitée."
               }
             },
             {
@@ -914,13 +1012,15 @@
                 "de": "Maire Annexe de Giens",
                 "hu": "Maire Annexe de Giens",
                 "ro": "Maire Annexe de Giens",
-                "en": "Maire Annexe de Giens"
+                "en": "Maire Annexe de Giens",
+                "fr": "Mairie Annexe de Giens"
               },
               "tip_5lang": {
                 "de": "Achten Sie auf die Sichtverhältnisse beim Einparken in den engen Gassen; das Dorfzentrum wirkt im Regen besonders atmosphärisch und ruhig.",
                 "hu": "Ügyeljen a látási viszonyokra a szűk utcákban való parkoláskor; a falu központja esőben különösen hangulatos és csendes arcát mutatja.",
                 "ro": "Atenție la vizibilitate când parcați pe străzile înguste; centrul satului pare deosebit de atmosferic și liniștit în timpul ploii.",
-                "en": "Be careful with visibility when parking in the narrow streets; the village center shows a particularly atmospheric and quiet side in the rain."
+                "en": "Be careful with visibility when parking in the narrow streets; the village center shows a particularly atmospheric and quiet side in the rain.",
+                "fr": "Faites attention à la visibilité en vous garant dans les rues étroites ; le centre du village montre un aspect particulièrement atmosphérique et calme sous la pluie."
               }
             },
             {
@@ -928,13 +1028,15 @@
                 "de": "Le château de Giens",
                 "hu": "Le château de Giens",
                 "ro": "Le château de Giens",
-                "en": "Le château de Giens"
+                "en": "Le château de Giens",
+                "fr": "Le château de Giens"
               },
               "tip_5lang": {
                 "de": "Ein kurzer Sprint vom Auto zu den Ruinen lohnt sich für das dramatische Wolkenspiel über der Küste; halten Sie Ihren Regenschirm gut fest.",
                 "hu": "Egy rövid sprint az autótól a romokig megéri a látványért: drámai felhőjáték látható a part felett; tartsa erősen az esernyőjét.",
                 "ro": "Un scurt sprint de la mașină la ruine merită pentru jocul dramatic al norilor deasupra coastei; țineți bine umbrela din cauza vântului.",
-                "en": "A short sprint from the car to the ruins is worth it for the dramatic cloud play over the coast; hold your umbrella firmly against the wind."
+                "en": "A short sprint from the car to the ruins is worth it for the dramatic cloud play over the coast; hold your umbrella firmly against the wind.",
+                "fr": "Un court sprint depuis la voiture jusqu’aux ruines en vaut la peine pour le jeu dramatique des nuages au-dessus de la côte ; tenez fermement votre parapluie contre le vent."
               }
             },
             {
@@ -942,13 +1044,15 @@
                 "de": "Port du Niel",
                 "hu": "Port du Niel",
                 "ro": "Port du Niel",
-                "en": "Port du Niel"
+                "en": "Port du Niel",
+                "fr": "Port du Niel"
               },
               "tip_5lang": {
                 "de": "Die schmale Zufahrt zum Hafen erfordert bei Nässe erhöhte Vorsicht; genießen Sie das maritime Flair, ohne nass zu werden.",
                 "hu": "A kikötőhöz vezető szűk út nedvesen fokozott óvatosságot igényel; élvezze a tengeri hangulatot anélkül, hogy bőrig ázna.",
                 "ro": "Accesul îngust către port necesită prudență sporită pe timp de ploaie; bucurați-vă de atmosfera maritimă fără a vă uda complet.",
-                "en": "The narrow access road to the harbor requires extra caution when wet; enjoy the maritime flair without getting soaked to the bone."
+                "en": "The narrow access road to the harbor requires extra caution when wet; enjoy the maritime flair without getting soaked to the bone.",
+                "fr": "La route d’accès étroite au port demande une prudence accrue lorsqu’elle est mouillée ; profitez de l’ambiance maritime sans être trempé jusqu’aux os."
               }
             },
             {
@@ -956,13 +1060,15 @@
                 "de": "Presqu'Île de Giens",
                 "hu": "Presqu'Île de Giens",
                 "ro": "Presqu'Île de Giens",
-                "en": "Presqu'Île de Giens"
+                "en": "Presqu'Île de Giens",
+                "fr": "Presqu’Île de Giens"
               },
               "tip_5lang": {
                 "de": "Nutzen Sie die Scheibenwischer-Pause für Fotos aus dem Fenster; die dunstige Landschaft der Halbinsel wirkt im Regen fast wie ein Gemälde.",
                 "hu": "Használja ki az ablaktörlő-szüneteket egy-egy fotóra az ablakból; a félsziget párás tájai esőben szinte festményszerűnek tűnnek.",
                 "ro": "Folosiți pauzele ștergătoarelor pentru fotografii de pe geam; peisajul cețos al peninsulei pare aproape ca o pictură în timpul ploii.",
-                "en": "Use the windshield wiper pauses for photos from the window; the misty landscape of the peninsula looks almost like a painting in the rain."
+                "en": "Use the windshield wiper pauses for photos from the window; the misty landscape of the peninsula looks almost like a painting in the rain.",
+                "fr": "Profitez des pauses des essuie‑glaces pour faire des photos depuis la fenêtre ; le paysage brumeux de la presqu’île ressemble presque à une peinture sous la pluie."
               }
             },
             {
@@ -970,13 +1076,15 @@
                 "de": "Calanque du Four à Chaux",
                 "hu": "Calanque du Four à Chaux",
                 "ro": "Calanque du Four à Chaux",
-                "en": "Calanque du Four à Chaux"
+                "en": "Calanque du Four à Chaux",
+                "fr": "Calanque du Four à Chaux"
               },
               "tip_5lang": {
                 "de": "Beenden Sie den Tag mit einem Blick auf die Gischt der Brandung, bevor Sie die Heizung im Auto für den Rückweg voll aufdrehen.",
                 "hu": "Zárja a napot a tajtékzó tenger látványával, mielőtt feltekerné az autó fűtését a hazafelé vezető úthoz; a látvány esőben is lenyűgöző.",
                 "ro": "Încheiați ziua cu vederea spumei mării, înainte de a porni încălzirea în mașină pentru drumul de întoarcere; peisajul este uimitor.",
-                "en": "End the day with a look at the sea foam before turning up the car heater for the drive back; the view is stunning even in the rain."
+                "en": "End the day with a look at the sea foam before turning up the car heater for the drive back; the view is stunning even in the rain.",
+                "fr": "Terminez la journée en regardant l’écume de mer avant d’allumer le chauffage de la voiture pour le retour ; la vue est superbe même sous la pluie."
               }
             }
           ]
@@ -986,7 +1094,8 @@
             "de": "Ein sonniger Wintertag ist ideal für eine Rundfahrt zur Halbinsel. Mittags genießen Sie die Wärme im Auto, während Sie von den Aussichtspunkten zum Dorf Giens fahren. Am Nachmittag bietet die tiefe Sonne magische Lichtverhältnisse am Hafen. Da die Dunkelheit gegen 17:00 Uhr einbricht, planen Sie die letzte Panoramafahrt entlang der Küste rechtzeitig zum Sonnenuntergang ein.",
             "hu": "A napos téli idő tökéletes egy félszigeti körutazáshoz. Délben élvezze az autó melegét, miközben a kilátópontoktól Giens faluja felé tart. Délután az alacsony napállás mágikus fényeket teremt a kikötőnél. Mivel délután öt körül sötétedik, tervezze az utolsó panorámautat a part mentén pontosan a naplementéhez.",
             "ro": "O zi însorită de iarnă este ideală pentru un tur al peninsulei. La prânz, bucurați-vă de căldura mașinii în timp ce conduceți spre satul Giens. După-amiaza, soarele jos creează condiții de lumină magice în port. Deoarece întunericul cade în jur de ora 17:00, planificați ultima plimbare spre apus.",
-            "en": "A sunny winter day is ideal for a tour around the peninsula. At noon, enjoy the warmth of the car while driving from the viewpoints towards Giens village. In the afternoon, the low sun creates magical light conditions at the harbor. Since darkness falls around 5:00 PM, plan your last scenic drive along the coast in time for the sunset."
+            "en": "A sunny winter day is ideal for a tour around the peninsula. At noon, enjoy the warmth of the car while driving from the viewpoints towards Giens village. In the afternoon, the low sun creates magical light conditions at the harbor. Since darkness falls around 5:00 PM, plan your last scenic drive along the coast in time for the sunset.",
+            "fr": "Une journée d’hiver ensoleillée est idéale pour un tour autour de la presqu’île. À midi, appréciez la chaleur de la voiture en conduisant des points de vue vers le village de Giens. L’après-midi, le soleil bas crée des conditions lumineuses magiques au port. Comme la nuit tombe vers 17h00, prévoyez votre dernière balade côtière pour arriver à temps pour le coucher du soleil."
           },
           "stops": [
             {
@@ -994,13 +1103,15 @@
                 "de": "Fort du Pradeau",
                 "hu": "Fort du Pradeau",
                 "ro": "Fort du Pradeau",
-                "en": "Fort du Pradeau"
+                "en": "Fort du Pradeau",
+                "fr": "Fort du Pradeau"
               },
               "tip_5lang": {
                 "de": "Die klare Winterluft sorgt für perfekte Sicht auf das Fort; nutzen Sie die Parkplätze in der Nähe für einen schnellen, frostigen Spaziergang.",
                 "hu": "A tiszta téli levegő tökéletes rálátást biztosít az erődre; használja a közeli parkolókat egy gyors, frissítő sétához a hidegben.",
                 "ro": "Aerul curat de iarnă oferă o vizibilitate perfectă asupra fortului; folosiți parcările din apropiere pentru o plimbare scurtă și revigorantă.",
-                "en": "The clear winter air provides perfect visibility of the fort; use the nearby parking lots for a quick, refreshing stroll in the cold."
+                "en": "The clear winter air provides perfect visibility of the fort; use the nearby parking lots for a quick, refreshing stroll in the cold.",
+                "fr": "L’air clair d’hiver offre une visibilité parfaite sur le fort ; utilisez les parkings voisins pour une promenade rapide et revigorante dans le froid."
               }
             },
             {
@@ -1008,13 +1119,15 @@
                 "de": "Plage du Pradeau",
                 "hu": "Plage du Pradeau",
                 "ro": "Plage du Pradeau",
-                "en": "Plage du Pradeau"
+                "en": "Plage du Pradeau",
+                "fr": "Plage du Pradeau"
               },
               "tip_5lang": {
                 "de": "Im Winter finden Sie hier problemlos einen Parkplatz; genießen Sie die Einsamkeit des Strandes in der wärmenden Mittagssonne.",
                 "hu": "Télen itt gond nélkül talál parkolóhelyet; élvezze a tengerpart magányát és a melengető déli napsütést a homokos parton.",
                 "ro": "Iarna veți găsi cu ușurință un loc de parcare aici; bucurați-vă de singurătatea plajei în soarele cald de la amiază.",
-                "en": "In winter, you'll easily find a parking spot here; enjoy the solitude of the beach and the warming midday sun on the sand."
+                "en": "In winter, you'll easily find a parking spot here; enjoy the solitude of the beach and the warming midday sun on the sand.",
+                "fr": "En hiver, vous trouverez facilement une place de stationnement ici ; profitez de la solitude de la plage et du soleil tiédissant de midi sur le sable."
               }
             },
             {
@@ -1022,13 +1135,15 @@
                 "de": "Maire Annexe de Giens",
                 "hu": "Maire Annexe de Giens",
                 "ro": "Maire Annexe de Giens",
-                "en": "Maire Annexe de Giens"
+                "en": "Maire Annexe de Giens",
+                "fr": "Mairie Annexe de Giens"
               },
               "tip_5lang": {
                 "de": "Die tiefstehende Sonne beleuchtet die Fassaden im Dorf wunderschön; ideal für Fotos aus dem Auto oder bei einem kurzen Rundgang.",
                 "hu": "Az alacsonyan járó nap gyönyörűen világítja meg a falu homlokzatait; ideális fotózáshoz akár az autóból, akár egy rövid séta során.",
                 "ro": "Soarele jos luminează superb fațadele din sat; ideal pentru fotografii din mașină sau în timpul unei scurte plimbări prin centru.",
-                "en": "The low sun illuminates the village facades beautifully; ideal for photos either from the car or during a quick walk around the center."
+                "en": "The low sun illuminates the village facades beautifully; ideal for photos either from the car or during a quick walk around the center.",
+                "fr": "Le soleil bas illumine magnifiquement les façades du village ; idéal pour des photos depuis la voiture ou lors d’une courte promenade dans le centre."
               }
             },
             {
@@ -1036,13 +1151,15 @@
                 "de": "Le château de Giens",
                 "hu": "Le château de Giens",
                 "ro": "Le château de Giens",
-                "en": "Le château de Giens"
+                "en": "Le château de Giens",
+                "fr": "Le château de Giens"
               },
               "tip_5lang": {
                 "de": "Prüfen Sie die Fernsicht bis zu den Goldenen Inseln; an klaren Wintertagen ist der Horizont gestochen scharf und das Meer tiefblau.",
                 "hu": "Ellenőrizze a távlátszást az Arany-szigetekig; a tiszta téli napokon a horizont borotvaéles, a tenger pedig mély kék színben játszik.",
                 "ro": "Verificați vizibilitatea până la Insulele de Aur; în zilele senine de iarnă, orizontul este extrem de clar, iar marea este de un albastru profund.",
-                "en": "Check the distant view to the Golden Islands; on clear winter days, the horizon is razor-sharp and the sea displays a deep blue color."
+                "en": "Check the distant view to the Golden Islands; on clear winter days, the horizon is razor-sharp and the sea displays a deep blue color.",
+                "fr": "Contrôlez la vue vers les Îles d’Or au loin ; par temps clair d’hiver, l’horizon est d’un tranchant extraordinaire et la mer affiche un bleu profond."
               }
             },
             {
@@ -1050,13 +1167,15 @@
                 "de": "Port du Niel",
                 "hu": "Port du Niel",
                 "ro": "Port du Niel",
-                "en": "Port du Niel"
+                "en": "Port du Niel",
+                "fr": "Port du Niel"
               },
               "tip_5lang": {
                 "de": "Der Hafen ist im Winter fast menschenleer; genießen Sie die friedliche Stille, bevor Sie die Heizung für den nächsten Stopp aktivieren.",
                 "hu": "A kikötő télen szinte teljesen néptelen; élvezze a békés csendet, mielőtt visszaszállna a meleg autóba a következő állomáshoz.",
                 "ro": "Portul este aproape pustiu iarna; bucurați-vă de liniștea deplină înainte de a activa încălzirea în mașină pentru următoarea oprire.",
-                "en": "The harbor is almost deserted in winter; enjoy the peaceful silence before getting back into the warm car for the next stop."
+                "en": "The harbor is almost deserted in winter; enjoy the peaceful silence before getting back into the warm car for the next stop.",
+                "fr": "Le port est presque désert en hiver ; profitez du calme avant de retourner dans la voiture chaude pour la prochaine étape."
               }
             },
             {
@@ -1064,13 +1183,15 @@
                 "de": "Presqu'Île de Giens",
                 "hu": "Presqu'Île de Giens",
                 "ro": "Presqu'Île de Giens",
-                "en": "Presqu'Île de Giens"
+                "en": "Presqu'Île de Giens",
+                "fr": "Presqu’Île de Giens"
               },
               "tip_5lang": {
                 "de": "Die Panoramafahrt um die Halbinsel ist im Winter besonders entspannt, da kaum Verkehr herrscht und die Natur pur wirkt.",
                 "hu": "A félsziget körüli panorámaút télen különösen pihentető, mivel alig van forgalom, és a természet a legtisztább arcát mutatja.",
                 "ro": "Drumul panoramic în jurul peninsulei este deosebit de relaxant iarna, deoarece traficul este redus, iar natura pare pură.",
-                "en": "The scenic drive around the peninsula is especially relaxing in winter, as there is hardly any traffic and nature feels untouched."
+                "en": "The scenic drive around the peninsula is especially relaxing in winter, as there is hardly any traffic and nature feels untouched.",
+                "fr": "La route panoramique autour de la presqu’île est particulièrement relaxante en hiver, car il y a peu de trafic et la nature paraît intacte."
               }
             },
             {
@@ -1078,13 +1199,15 @@
                 "de": "Calanque du Four à Chaux",
                 "hu": "Calanque du Four à Chaux",
                 "ro": "Calanque du Four à Chaux",
-                "en": "Calanque du Four à Chaux"
+                "en": "Calanque du Four à Chaux",
+                "fr": "Calanque du Four à Chaux"
               },
               "tip_5lang": {
                 "de": "Beobachten Sie den Sonnenuntergang gegen 17:00 Uhr direkt von der Küstenstraße aus; die Farben am Winterhimmel sind oft spektakulär rot.",
                 "hu": "Nézze meg a naplementét délután öt körül közvetlenül a part menti útról; a téli égbolt színei ilyenkor gyakran látványos vörösek.",
                 "ro": "Urmăriți apusul de soare în jur de ora 17:00 direct de pe drumul de coastă; culorile cerului de iarnă sunt adesea spectaculoase.",
-                "en": "Watch the sunset around 5:00 PM directly from the coastal road; the colors of the winter sky are often spectacularly red and orange."
+                "en": "Watch the sunset around 5:00 PM directly from the coastal road; the colors of the winter sky are often spectacularly red and orange.",
+                "fr": "Regardez le coucher du soleil vers 17h00 directement depuis la route côtière ; les couleurs du ciel d’hiver sont souvent spectaculairement rouges et oranges."
               }
             }
           ]

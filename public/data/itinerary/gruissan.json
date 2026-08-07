@@ -21,7 +21,8 @@
             "de": "Barberousse-Turm",
             "hu": "Barberousse-torony",
             "ro": "Turnul Barberousse",
-            "en": "Barberousse Tower"
+            "en": "Barberousse Tower",
+            "fr": "Tour Barberousse"
           },
           "coords": [
             3.084444,
@@ -36,7 +37,8 @@
             "de": "Erklimmen Sie die Ruinen dieser Festung aus dem 12. Jahrhundert, um atemberaubende Panoramablicke zu genießen, und tragen Sie feste Schuhe für die unebenen Treppen.",
             "hu": "Mássza meg ennek a 12. századi erődnek a romjait a falu feletti látványos panorámáért, és viseljen masszív cipőt a kissé egyenetlen kőlépcsők miatt.",
             "ro": "Urcați pe ruinele acestei fortărețe din secolul al XII-lea pentru o vedere panoramică spectaculoasă asupra satului, purtând încălțăminte rezistentă pentru treptele de piatră.",
-            "en": "Climb the ruins of this 12th-century fortress for spectacular panoramic views over the village, and wear sturdy shoes for the uneven stone steps."
+            "en": "Climb the ruins of this 12th-century fortress for spectacular panoramic views over the village, and wear sturdy shoes for the uneven stone steps.",
+            "fr": "Grimpez dans les ruines de cette forteresse du XIIe siècle pour des vues panoramiques spectaculaires sur le village, et portez des chaussures solides pour les marches en pierre inégales."
           }
         },
         {
@@ -44,7 +46,8 @@
             "de": "Étang de Gruissan",
             "hu": "Étang de Gruissan",
             "ro": "Étang de Gruissan",
-            "en": "Étang de Gruissan"
+            "en": "Étang de Gruissan",
+            "fr": "Étang de Gruissan"
           },
           "coords": [
             3.080111,
@@ -59,7 +62,8 @@
             "de": "Spazieren Sie an den Ufern dieser ruhigen Lagune entlang, um lokale Vogelarten wie Flamingos zu beobachten, also bringen Sie ein Fernglas für das beste Erlebnis mit.",
             "hu": "Sétáljon ezen a nyugodt lagúna partján, hogy megfigyelhesse a helyi madárvilágot, köztük flamingókat, ezért hozzon magával távcsövet a legjobb élményért.",
             "ro": "Plimbați-vă pe malurile acestei lagune liniștite pentru a observa păsările locale, inclusiv flamingo, și aduceți un binoclu pentru o experiență optimă.",
-            "en": "Stroll along the edges of this serene lagoon to observe local birdlife, including flamingos, so bring binoculars for the best wildlife viewing experience."
+            "en": "Stroll along the edges of this serene lagoon to observe local birdlife, including flamingos, so bring binoculars for the best wildlife viewing experience.",
+            "fr": "Promenez‑vous le long des berges de cette lagune sereine pour observer la faune locale, notamment les flamants roses ; apportez des jumelles pour une meilleure observation."
           }
         },
         {
@@ -67,7 +71,8 @@
             "de": "Plage du Grazel",
             "hu": "Plage du Grazel",
             "ro": "Plage du Grazel",
-            "en": "Plage du Grazel"
+            "en": "Plage du Grazel",
+            "fr": "Plage du Grazel"
           },
           "coords": [
             3.110046,
@@ -82,7 +87,8 @@
             "de": "Entspannen Sie sich an diesem geschützten Strand direkt am Hafen, der mit seinen ruhigen Gewässern und nahegelegenen Cafés ideal für Familien auf der Suche nach Ruhe ist.",
             "hu": "Pihenjen ennek a védett, közvetlenül a kikötőben található strandnak a finom homokján, amely tökéletes a nyugodt vizet és közeli kávézókat kereső családoknak.",
             "ro": "Relaxați-vă pe nisipul fin al acestei plaje adăpostite, situată chiar în zona portului, ideală pentru familiile care caută ape calme și cafenele în apropiere.",
-            "en": "Relax on the fine sands of this sheltered beach located right in the harbor area, making it perfect for families seeking calm waters and nearby cafes."
+            "en": "Relax on the fine sands of this sheltered beach located right in the harbor area, making it perfect for families seeking calm waters and nearby cafes.",
+            "fr": "Détendez‑vous sur le sable fin de cette plage abritée située en plein port, parfaite pour les familles recherchant des eaux calmes et des cafés à proximité."
           }
         },
         {
@@ -90,7 +96,8 @@
             "de": "Yachthafen Gruissan",
             "hu": "Gruissan Kikötő",
             "ro": "Portul Gruissan",
-            "en": "Gruissan Marina"
+            "en": "Gruissan Marina",
+            "fr": "Port de Gruissan"
           },
           "coords": [
             3.145703,
@@ -105,7 +112,8 @@
             "de": "Schlendern Sie durch den belebten Yachthafen, bewundern Sie die Boote und wählen Sie ein Restaurant am Wasser für ein entspanntes Mittagessen mit frischen Meeresfrüchten.",
             "hu": "Sétáljon a nyüzsgő kikötőben, csodálja meg a kikötött hajókat, és válasszon egy vízparti éttermet egy pihentető tengeri ebédhez, friss tenger gyümölcseivel.",
             "ro": "Plimbați-vă prin portul plin de viață pentru a admira bărcile andocate și savurați fructe de mare proaspete alegând un restaurant pe malul apei pentru prânz.",
-            "en": "Wander around the bustling marina to admire the docked boats and enjoy fresh seafood, choosing a waterfront restaurant for a relaxing maritime lunch."
+            "en": "Wander around the bustling marina to admire the docked boats and enjoy fresh seafood, choosing a waterfront restaurant for a relaxing maritime lunch.",
+            "fr": "Flânez autour du port animé pour admirer les bateaux à quai et déguster des fruits de mer frais, en choisissant un restaurant en bord de quai pour un déjeuner maritime reposant."
           }
         },
         {
@@ -113,7 +121,8 @@
             "de": "Plage des Chalets",
             "hu": "Plage des Chalets",
             "ro": "Plage des Chalets",
-            "en": "Plage des Chalets"
+            "en": "Plage des Chalets",
+            "fr": "Plage des Chalets"
           },
           "coords": [
             3.11673,
@@ -128,7 +137,8 @@
             "de": "Bewundern Sie die ikonischen Holzpfahlbauten, die diesen Strand berühmt machen, und suchen Sie sich einen malerischen Platz in Strandnähe für großartige Fotos.",
             "hu": "Csodálja meg a strandot híressé tevő ikonikus fából készült cölöpházakat, és keressen egy festői helyet a víz közelében, hogy nagyszerű fényképeket készíthessen.",
             "ro": "Admirați casele iconice pe piloni de lemn care fac această plajă celebră și găsiți un loc pitoresc lângă apă pentru a face fotografii grozave.",
-            "en": "Admire the iconic wooden stilt houses that make this expansive beach famous, and find a picturesque spot near the water to capture some amazing photographs."
+            "en": "Admire the iconic wooden stilt houses that make this expansive beach famous, and find a picturesque spot near the water to capture some amazing photographs.",
+            "fr": "Admirez les célèbres cabanes sur pilotis qui font la renommée de cette vaste plage, et trouvez un endroit pittoresque près de l’eau pour prendre de superbes photographies."
           }
         }
       ],
@@ -136,7 +146,8 @@
         "de": "Wir beginnen unseren Rundgang im Herzen des Dorfes am historischen Barberousse-Turm, der einen weiten Blick über die Region bietet. Von dort aus machen wir einen kurzen Spaziergang zum Étang de Gruissan. Mittags erreichen wir den Plage du Grazel, einen herrlichen geschützten Strand, der sich perfekt für eine erholsame Pause eignet. Den Nachmittag verbringen wir damit, den lebhaften Yachthafen zu entdecken, gefolgt von einem krönenden Abschluss am legendären Plage des Chalets.",
         "hu": "Sétánkat a falu szívében, a történelmi Barberousse-toronynál kezdjük, ahonnan elsöprő kilátás nyílik a régióra. Innen egy rövid sétát teszünk a nyugodt Étang de Gruissan-hoz. A dél megérkezik velünk a Plage du Grazel-hez, egy csodálatos, védett strandhoz, amely tökéletes egy pihentető szünethez. A délutánt a nyüzsgő kikötő felfedezésével töltjük, majd egy jutalmazó finálé következik az ikonikus Plage des Chalets-nél.",
         "ro": "Ne începem turul pietonal în inima satului la Turnul Barberousse, oferind vederi panoramice asupra regiunii. De acolo, facem o scurtă plimbare până la seninul Étang de Gruissan pentru a admira apele lagunei. Amiaza ne aduce la Plage du Grazel, o plajă adăpostită, perfectă pentru o pauză relaxantă. După-amiaza este dedicată descoperirii portului plin de viață, urmată de un final memorabil la emblematica Plage des Chalets.",
-        "en": "We begin our walking tour in the heart of the village at the historic Barberousse Tower, offering sweeping views of the region. From there, we take a short stroll to the serene Étang de Gruissan to admire the peaceful lagoon waters. Midday brings us to Plage du Grazel, a wonderful sheltered beach perfect for a relaxing rest. The afternoon is spent discovering the vibrant Gruissan Marina, followed by a rewarding finale at the iconic Plage des Chalets."
+        "en": "We begin our walking tour in the heart of the village at the historic Barberousse Tower, offering sweeping views of the region. From there, we take a short stroll to the serene Étang de Gruissan to admire the peaceful lagoon waters. Midday brings us to Plage du Grazel, a wonderful sheltered beach perfect for a relaxing rest. The afternoon is spent discovering the vibrant Gruissan Marina, followed by a rewarding finale at the iconic Plage des Chalets.",
+        "fr": "Nous commençons notre visite à pied au cœur du village à la tour historique de Barberousse, offrant une vue panoramique sur la région. De là, nous nous rendons à pied à l’Étang de Gruissan pour admirer les eaux paisibles de la lagune. À midi, nous arrivons à la Plage du Grazel, une belle plage abritée idéale pour une pause détente. L’après‑midi est consacré à la découverte du dynamique port de Gruissan, suivi d’un final gratifiant à l’emblématique Plage des Chalets."
       },
       "variants": {
         "rainy": {
@@ -144,7 +155,8 @@
             "de": "Morgens bietet der Barberousse-Turm Schutz in seinen Ruinen, während Regenwolken über das Meer ziehen. Mittags spazieren wir am Étang, wo die Vögel im Schilf Deckung suchen. Nachmittags flüchten wir in die überdachten Passagen des Hafens von Gruissan. Abends beobachten wir den Regen von den Stelzenhäusern am Strand aus, ein mystischer Anblick bei grauem Himmel.",
             "hu": "Reggel a Barberousse-torony romjai közt keresünk menedéket a tenger felől érkező eső elől. Délben az Étang partján sétálunk, figyelve a nádasba bújó madarakat. Délután a Gruissan kikötő fedett teraszai és üzletei nyújtanak oltalmat. Este a Chalets-negyed cölöpházai között zárjuk a napot, ahol a viharos tenger látványa egészen misztikus a szürke égbolt alatt.",
             "ro": "Dimineața, Turnul Barberousse oferă adăpost printre ruine în timp ce norii de ploaie trec peste mare. La prânz ne plimbăm pe malul Étang, unde păsările se ascund în stuf. După-amiaza ne refugiem în pasajele acoperite ale portului Gruissan. Seara observăm ploaia de lângă casele pe piloni de pe plajă, o priveliște mistică sub cerul cenușiu.",
-            "en": "In the morning, the Barberousse Tower ruins provide shelter as rain clouds roll in from the sea. At noon, we walk along the Étang, watching birds seek cover in the reeds. In the afternoon, we take refuge in the covered terraces of the Gruissan Marina. We end the evening among the stilt houses of the Chalets beach, where the stormy sea looks mystical under the grey sky."
+            "en": "In the morning, the Barberousse Tower ruins provide shelter as rain clouds roll in from the sea. At noon, we walk along the Étang, watching birds seek cover in the reeds. In the afternoon, we take refuge in the covered terraces of the Gruissan Marina. We end the evening among the stilt houses of the Chalets beach, where the stormy sea looks mystical under the grey sky.",
+            "fr": "Le matin, les ruines de la tour de Barberousse servent d’abri alors que des nuages de pluie arrivent de la mer. À midi, nous longeons l’Étang, observant les oiseaux se mettre à l’abri dans les roseaux. L’après‑midi, nous trouvons refuge sous les terrasses couvertes du port de Gruissan. Nous terminons la soirée parmi les maisons sur pilotis de la Plage des Chalets, où la mer orageuse prend une allure mystique sous le ciel gris."
           },
           "stops": [
             {
@@ -152,13 +164,15 @@
                 "de": "Barberousse-Turm",
                 "hu": "Barberousse-torony",
                 "ro": "Turnul Barberousse",
-                "en": "Barberousse Tower"
+                "en": "Barberousse Tower",
+                "fr": "Tour de Barberousse"
               },
               "tip_5lang": {
                 "de": "Genießen Sie den dramatischen Ausblick auf die stürmische Küste von den Ruinen aus; seien Sie jedoch vorsichtig, da die alten Steinstufen bei Regen extrem rutschig werden.",
                 "hu": "Csodálja meg a viharos tengerparti kilátást a várromok közül, de legyen nagyon óvatos, mert az ősi kőlépcsők az esőben rendkívül csúszóssá válnak.",
                 "ro": "Admirați vederea dramatică asupra coastei furtunoase de printre ruine; fiți însă foarte atenți, deoarece treptele vechi de piatră devin extrem de alunecoase pe ploaie.",
-                "en": "Enjoy the dramatic view of the stormy coast from the ruins; however, be very careful as the ancient stone steps become extremely slippery in the rain."
+                "en": "Enjoy the dramatic view of the stormy coast from the ruins; however, be very careful as the ancient stone steps become extremely slippery in the rain.",
+                "fr": "Profitez de la vue spectaculaire sur la côte agitée depuis les ruines ; cependant, soyez très prudent car les vieilles marches de pierre deviennent extrêmement glissantes sous la pluie."
               }
             },
             {
@@ -166,13 +180,15 @@
                 "de": "Étang de Gruissan",
                 "hu": "Étang de Gruissan",
                 "ro": "Étang de Gruissan",
-                "en": "Étang de Gruissan"
+                "en": "Étang de Gruissan",
+                "fr": "Étang de Gruissan"
               },
               "tip_5lang": {
                 "de": "Die Lagune wirkt im Regen besonders friedlich; suchen Sie sich einen Platz unter den Bäumen am Uferweg, um die Wasservögel trocken beobachten zu können.",
                 "hu": "A lagúna esőben különösen békés arcát mutatja; keressen egy védett helyet a parti fák alatt, ahonnan szárazon figyelheti meg a vízimadarak mozgását.",
                 "ro": "Laguna pare deosebit de liniștită pe ploaie; găsiți un loc protejat sub copacii de pe poteca de coastă pentru a observa păsările de apă fără a vă uda.",
-                "en": "The lagoon looks especially peaceful in the rain; find a sheltered spot under the trees along the shore path to observe the water birds while staying dry."
+                "en": "The lagoon looks especially peaceful in the rain; find a sheltered spot under the trees along the shore path to observe the water birds while staying dry.",
+                "fr": "La lagune paraît particulièrement paisible sous la pluie ; trouvez un endroit abrité sous les arbres le long du sentier du bord pour observer les oiseaux d’eau tout en restant au sec."
               }
             },
             {
@@ -180,13 +196,15 @@
                 "de": "Plage du Grazel",
                 "hu": "Plage du Grazel",
                 "ro": "Plage du Grazel",
-                "en": "Plage du Grazel"
+                "en": "Plage du Grazel",
+                "fr": "Plage du Grazel"
               },
               "tip_5lang": {
                 "de": "Ein kurzer Strandspaziergang ist auch bei Regen erfrischend; wärmen Sie sich danach in einem der nahegelegenen Cafés mit Blick auf die Brandung auf.",
                 "hu": "Egy rövid parti séta esőben is frissítő élmény; utána melegedjen fel a közeli kávézók egyikében, ahonnan zavartalanul élvezheti a hullámverés látványát.",
                 "ro": "O scurtă plimbare pe plajă este revigorantă chiar și pe ploaie; după aceea, încălziți-vă într-una dintre cafenelele din apropiere cu vedere la valuri.",
-                "en": "A short walk on the beach is refreshing even in the rain; warm up afterwards in one of the nearby cafes with a direct view of the crashing waves."
+                "en": "A short walk on the beach is refreshing even in the rain; warm up afterwards in one of the nearby cafes with a direct view of the crashing waves.",
+                "fr": "Une courte promenade sur la plage est vivifiante même sous la pluie ; réchauffez‑vous ensuite dans l’un des cafés à proximité avec une vue directe sur les vagues qui se brisent."
               }
             },
             {
@@ -194,13 +212,15 @@
                 "de": "Yachthafen Gruissan",
                 "hu": "Gruissan Kikötő",
                 "ro": "Portul Gruissan",
-                "en": "Gruissan Marina"
+                "en": "Gruissan Marina",
+                "fr": "Port de Gruissan"
               },
               "tip_5lang": {
                 "de": "Der Hafen ist der ideale Ort bei Regen, da die Arkaden und zahlreichen Restaurants trockene Plätze bieten, um das maritime Treiben zu beobachten.",
                 "hu": "A kikötő ideális helyszín esős időben, mivel az árkádok és a számos étterem fedett helyet kínál a tengerparti nyüzsgés megfigyeléséhez.",
                 "ro": "Portul este locul ideal pe ploaie, deoarece arcadele și numeroasele restaurante oferă spații uscate pentru a observa activitatea maritimă.",
-                "en": "The marina is the ideal spot during rain, as the arcades and numerous restaurants offer dry places to watch the nautical activity."
+                "en": "The marina is the ideal spot during rain, as the arcades and numerous restaurants offer dry places to watch the nautical activity.",
+                "fr": "Le port est l’endroit idéal par temps de pluie, les arcades et les nombreux restaurants offrant des lieux secs pour observer l’activité nautique."
               }
             },
             {
@@ -208,13 +228,15 @@
                 "de": "Plage des Chalets",
                 "hu": "Plage des Chalets",
                 "ro": "Plage des Chalets",
-                "en": "Plage des Chalets"
+                "en": "Plage des Chalets",
+                "fr": "Plage des Chalets"
               },
               "tip_5lang": {
                 "de": "Besuchen Sie die berühmten Stelzenhäuser; der Regen verleiht dieser Kulisse eine melancholische Schönheit, die perfekt für stimmungsvolle Fotos ist.",
                 "hu": "Látogasson el a híres cölöpházakhoz; az eső melankolikus szépséget kölcsönöz a tájnak, ami tökéletes helyszín a hangulatos fotók készítéséhez.",
                 "ro": "Vizitați celebrele case pe piloni; ploaia conferă acestui decor o frumusețe melancolică, perfectă pentru fotografii pline de atmosferă.",
-                "en": "Visit the famous stilt houses; the rain gives this setting a melancholic beauty that is perfect for taking atmospheric and unique photos."
+                "en": "Visit the famous stilt houses; the rain gives this setting a melancholic beauty that is perfect for taking atmospheric and unique photos.",
+                "fr": "Visitez les célèbres cabanes sur pilotis ; la pluie donne à ce décor une beauté mélancolique parfaite pour des photos atmosphériques et uniques."
               }
             }
           ]
@@ -224,7 +246,8 @@
             "de": "Die Wintersonne beleuchtet den Barberousse-Turm am Morgen in goldenem Licht. Mittags sorgt der kühle Wind am Étang für frische Energie, bevor wir uns aufwärmen. Nachmittags ist es im Hafen ruhig und beschaulich, ideal für eine heiße Schokolade. Um 17:00 Uhr genießen wir den frühen Sonnenuntergang am Strand der Chalets, wenn die Lichter der Häuser sanft angehen.",
             "hu": "A téli nap reggel aranyszínben világítja meg a Barberousse-tornyot. Délben a hűvös szél az Étang partján frissítőleg hat, mielőtt betérnénk melegedni. Délután a kikötő csendes és nyugodt, ideális egy forró csokoládéhoz. 17:00 órakor a Chalets-strandnál csodáljuk meg a korai naplementét, amikor a házak fényei lassan kigyúlnak.",
             "ro": "Soarele de iarnă luminează Turnul Barberousse în nuanțe aurii dimineața. La prânz, vântul rece de pe Étang oferă energie proaspătă înainte de a ne încălzi. După-amiaza, portul este liniștit, ideal pentru o ciocolată caldă. La ora 17:00, savurăm apusul timpuriu la plaja Chalets, când luminile caselor se aprind ușor.",
-            "en": "The winter sun illuminates the Barberousse Tower in golden light this morning. At noon, the cool wind by the Étang provides fresh energy before we seek warmth. In the afternoon, the marina is quiet and peaceful, ideal for a hot chocolate. At 17:00, we enjoy the early sunset at the Chalets beach as the house lights softly turn on."
+            "en": "The winter sun illuminates the Barberousse Tower in golden light this morning. At noon, the cool wind by the Étang provides fresh energy before we seek warmth. In the afternoon, the marina is quiet and peaceful, ideal for a hot chocolate. At 17:00, we enjoy the early sunset at the Chalets beach as the house lights softly turn on.",
+            "fr": "Le soleil d’hiver illumine la tour de Barberousse d’une lumière dorée ce matin. À midi, le vent frais près de l’Étang apporte une énergie revigorante avant que nous cherchions de la chaleur. L’après‑midi, le port est calme et paisible, idéal pour un chocolat chaud. À 17:00, nous profitons du coucher de soleil précoce à la Plage des Chalets tandis que les lumières des maisons s’allument doucement."
           },
           "stops": [
             {
@@ -232,13 +255,15 @@
                 "de": "Barberousse-Turm",
                 "hu": "Barberousse-torony",
                 "ro": "Turnul Barberousse",
-                "en": "Barberousse Tower"
+                "en": "Barberousse Tower",
+                "fr": "Tour de Barberousse"
               },
               "tip_5lang": {
                 "de": "Tragen Sie eine winddichte Jacke, da es auf dem Turm im Winter sehr zugig sein kann, aber die klare Fernsicht bis zu den Pyrenäen ist die Kälte wert.",
                 "hu": "Viseljen szélálló kabátot, mert a toronyban télen nagyon erős lehet a huzat, de a tiszta kilátás a Pireneusokig megéri a fázást.",
                 "ro": "Purtați o jachetă rezistentă la vânt, deoarece în turn poate fi foarte curent iarna, dar vederea clară până la Pirinei merită frigul.",
-                "en": "Wear a windproof jacket as it can be very drafty on the tower in winter, but the clear distant views to the Pyrenees are worth the cold."
+                "en": "Wear a windproof jacket as it can be very drafty on the tower in winter, but the clear distant views to the Pyrenees are worth the cold.",
+                "fr": "Portez une veste coupe‑vent car il peut y avoir beaucoup de courant d’air sur la tour en hiver, mais la vue dégagée sur les Pyrénées lointaines vaut le froid."
               }
             },
             {
@@ -246,13 +271,15 @@
                 "de": "Étang de Gruissan",
                 "hu": "Étang de Gruissan",
                 "ro": "Étang de Gruissan",
-                "en": "Étang de Gruissan"
+                "en": "Étang de Gruissan",
+                "fr": "Étang de Gruissan"
               },
               "tip_5lang": {
                 "de": "Im Winter sind die rosa Flamingos oft noch in der Lagune zu sehen; bringen Sie ein Fernglas mit, um die Vögel aus der Distanz zu beobachten.",
                 "hu": "Télen a rózsaszín flamingók gyakran még láthatóak a lagúnában; hozzon magával távcsövet, hogy tisztes távolból is megfigyelhesse a madarakat.",
                 "ro": "Iarna, flamingii roz pot fi văzuți adesea în lagună; aduceți un binoclu pentru a observa păsările de la distanță fără a le deranja.",
-                "en": "In winter, pink flamingos can often still be seen in the lagoon; bring binoculars to observe the birds from a distance without disturbing them."
+                "en": "In winter, pink flamingos can often still be seen in the lagoon; bring binoculars to observe the birds from a distance without disturbing them.",
+                "fr": "En hiver, des flamants roses peuvent encore souvent être observés dans la lagune ; apportez des jumelles pour les admirer à distance sans les déranger."
               }
             },
             {
@@ -260,13 +287,15 @@
                 "de": "Plage du Grazel",
                 "hu": "Plage du Grazel",
                 "ro": "Plage du Grazel",
-                "en": "Plage du Grazel"
+                "en": "Plage du Grazel",
+                "fr": "Plage du Grazel"
               },
               "tip_5lang": {
                 "de": "Der Strand ist im Winter fast leer und lädt zu einem meditativen Spaziergang ein; die tiefstehende Sonne sorgt für ein wunderschönes Licht auf dem Sand.",
                 "hu": "A strand télen szinte üres, így tökéletes egy meditatív sétához; az alacsonyan járó nap gyönyörű fényekkel árasztja el a homokos partot.",
                 "ro": "Plaja este aproape goală iarna, invitând la o plimbare meditativă; soarele jos creează o lumină superbă pe nisipul fin al țărmului.",
-                "en": "The beach is almost empty in winter, inviting a meditative walk; the low-hanging sun creates beautiful light effects on the golden sand."
+                "en": "The beach is almost empty in winter, inviting a meditative walk; the low-hanging sun creates beautiful light effects on the golden sand.",
+                "fr": "La plage est presque vide en hiver, invitant à une promenade méditative ; le soleil bas crée de magnifiques effets de lumière sur le sable doré."
               }
             },
             {
@@ -274,13 +303,15 @@
                 "de": "Yachthafen Gruissan",
                 "hu": "Gruissan Kikötő",
                 "ro": "Portul Gruissan",
-                "en": "Gruissan Marina"
+                "en": "Gruissan Marina",
+                "fr": "Port de Gruissan"
               },
               "tip_5lang": {
                 "de": "Nutzen Sie die Nebensaison für einen entspannten Besuch in einem der Cafés; im Winter ist die Atmosphäre hier viel authentischer und ruhiger.",
                 "hu": "Használja ki az előszezont egy pihentető kávézáshoz; télen a kikötő hangulata sokkal hitelesebb és nyugodtabb, mint a nyári tömegben.",
                 "ro": "Profitați de extrasezon pentru o vizită relaxată la una dintre cafenele; iarna, atmosfera aici este mult mai autentică și mai liniștită.",
-                "en": "Take advantage of the off-season for a relaxed visit to one of the cafes; in winter, the atmosphere here is much more authentic and calm."
+                "en": "Take advantage of the off-season for a relaxed visit to one of the cafes; in winter, the atmosphere here is much more authentic and calm.",
+                "fr": "Profitez de la basse saison pour une visite détendue dans un des cafés ; en hiver, l’atmosphère y est beaucoup plus authentique et calme."
               }
             },
             {
@@ -288,13 +319,15 @@
                 "de": "Plage des Chalets",
                 "hu": "Plage des Chalets",
                 "ro": "Plage des Chalets",
-                "en": "Plage des Chalets"
+                "en": "Plage des Chalets",
+                "fr": "Plage des Chalets"
               },
               "tip_5lang": {
                 "de": "Der Sonnenuntergang findet bereits gegen 17:00 Uhr statt; die Silhouette der Pfahlbauten gegen den Abendhimmel ist ein unvergessliches Wintererlebnis.",
                 "hu": "A naplemente már 17:00 óra körül bekövetkezik; a cölöpházak sziluettje az esti égbolt előtt felejthetetlen téli élményt nyújt.",
                 "ro": "Apusul are loc deja în jurul orei 17:00; silueta caselor pe piloni pe fundalul cerului de seară este o experiență de iarnă de neuitat.",
-                "en": "Sunset occurs as early as 17:00; the silhouette of the stilt houses against the evening sky is an unforgettable winter experience."
+                "en": "Sunset occurs as early as 17:00; the silhouette of the stilt houses against the evening sky is an unforgettable winter experience.",
+                "fr": "Le coucher du soleil a lieu dès 17:00 ; la silhouette des cabanes sur pilotis contre le ciel du soir est une expérience hivernale inoubliable."
               }
             }
           ]
@@ -314,7 +347,8 @@
             "de": "Barberousse-Turm",
             "hu": "Barberousse-torony",
             "ro": "Turnul Barberousse",
-            "en": "Barberousse Tower"
+            "en": "Barberousse Tower",
+            "fr": "Tour de Barberousse"
           },
           "coords": [
             3.084444,
@@ -329,7 +363,8 @@
             "de": "Erklimmen Sie die Ruinen dieser Festung aus dem 12. Jahrhundert, um atemberaubende Panoramablicke zu genießen, und tragen Sie feste Schuhe für die unebenen Treppen.",
             "hu": "Mássza meg ennek a 12. századi erődnek a romjait a falu feletti látványos panorámáért, és viseljen masszív cipőt a kissé egyenetlen kőlépcsők miatt.",
             "ro": "Urcați pe ruinele acestei fortărețe din secolul al XII-lea pentru o vedere panoramică spectaculoasă asupra satului, purtând încălțăminte rezistentă pentru treptele de piatră.",
-            "en": "Climb the ruins of this 12th-century fortress for spectacular panoramic views over the village, and wear sturdy shoes for the uneven stone steps."
+            "en": "Climb the ruins of this 12th-century fortress for spectacular panoramic views over the village, and wear sturdy shoes for the uneven stone steps.",
+            "fr": "Grimpez dans les ruines de cette forteresse du XIIe siècle pour des vues panoramiques spectaculaires sur le village, et portez des chaussures robustes pour les marches inégales en pierre."
           }
         },
         {
@@ -337,7 +372,8 @@
             "de": "Plage des Chalets",
             "hu": "Plage des Chalets",
             "ro": "Plage des Chalets",
-            "en": "Plage des Chalets"
+            "en": "Plage des Chalets",
+            "fr": "Plage des Chalets"
           },
           "coords": [
             3.11673,
@@ -352,7 +388,8 @@
             "de": "Bewundern Sie die ikonischen Holzpfahlbauten, die diesen Strand berühmt machen, und kommen Sie früh, um einen guten Platz am Wasser für spannendes Kitesurfen zu ergattern.",
             "hu": "Csodálja meg a strandot híressé tevő ikonikus fából készült cölöpházakat, és érkezzen korán, hogy jó helyet biztosítson magának a víz mellett a kiteszörfözéshez.",
             "ro": "Admirați casele iconice pe piloni de lemn care fac această plajă celebră și ajungeți devreme pentru a prinde un loc bun lângă apă pentru kitesurfing.",
-            "en": "Admire the iconic wooden stilt houses that make this beach famous, and arrive early in the day to secure a good spot near the water for kite-surfing."
+            "en": "Admire the iconic wooden stilt houses that make this beach famous, and arrive early in the day to secure a good spot near the water for kite-surfing.",
+            "fr": "Admirez les emblématiques cabanes en bois sur pilotis qui font la renommée de cette plage, et arrivez tôt dans la journée pour vous assurer une bonne place près de l’eau pour le kitesurf."
           }
         },
         {
@@ -360,7 +397,8 @@
             "de": "Yachthafen Gruissan",
             "hu": "Gruissan Kikötő",
             "ro": "Portul Gruissan",
-            "en": "Gruissan Marina"
+            "en": "Gruissan Marina",
+            "fr": "Port de Gruissan"
           },
           "coords": [
             3.145703,
@@ -375,7 +413,8 @@
             "de": "Schlendern Sie durch den belebten Yachthafen, bewundern Sie die Boote und wählen Sie ein Restaurant am Wasser für ein entspanntes Mittagessen mit frischen Meeresfrüchten.",
             "hu": "Sétáljon a nyüzsgő kikötőben, csodálja meg a kikötött hajókat, és válasszon egy vízparti éttermet egy pihentető tengeri ebédhez, friss tenger gyümölcseivel.",
             "ro": "Plimbați-vă prin portul plin de viață pentru a admira bărcile andocate și savurați fructe de mare proaspete alegând un restaurant pe malul apei pentru prânz.",
-            "en": "Wander around the bustling marina to admire the docked boats and enjoy fresh seafood, choosing a waterfront restaurant for a relaxing maritime lunch."
+            "en": "Wander around the bustling marina to admire the docked boats and enjoy fresh seafood, choosing a waterfront restaurant for a relaxing maritime lunch.",
+            "fr": "Flânez dans le port animé pour admirer les bateaux amarrés et déguster des fruits de mer frais, en choisissant un restaurant sur le front de mer pour un déjeuner maritime relaxant."
           }
         },
         {
@@ -383,7 +422,8 @@
             "de": "Plage des Ayguades",
             "hu": "Plage des Ayguades",
             "ro": "Plage des Ayguades",
-            "en": "Plage des Ayguades"
+            "en": "Plage des Ayguades",
+            "fr": "Plage des Ayguades"
           },
           "coords": [
             3.135049,
@@ -398,7 +438,8 @@
             "de": "Genießen Sie einen friedlichen Nachmittag an diesem weitläufigen Sandstrand mit natürlichen Dünen und denken Sie an einen Sonnenschirm, da es kaum Schatten gibt.",
             "hu": "Élvezze a békés délutánt ezen a hatalmas, természetes dűnékkel szegélyezett homokos szakaszon, és ne felejtsen el napernyőt vinni, mivel alig van árnyék.",
             "ro": "Bucurați-vă de o după-amiază pașnică pe această plajă imensă flancată de dune, asigurându-vă că aduceți o umbrelă de soare, deoarece umbra naturală este rară.",
-            "en": "Enjoy a peaceful afternoon on this expansive sandy stretch backed by natural dunes, remembering to pack a parasol as natural shade is quite scarce here."
+            "en": "Enjoy a peaceful afternoon on this expansive sandy stretch backed by natural dunes, remembering to pack a parasol as natural shade is quite scarce here.",
+            "fr": "Profitez d’un après‑midi paisible sur cette vaste étendue de sable bordée de dunes naturelles, en n’oubliant pas d’emporter un parasol car l’ombre naturelle y est assez rare."
           }
         },
         {
@@ -406,7 +447,8 @@
             "de": "Massif de la Clape",
             "hu": "Massif de la Clape",
             "ro": "Massif de la Clape",
-            "en": "Massif de la Clape"
+            "en": "Massif de la Clape",
+            "fr": "Massif de la Clape"
           },
           "coords": [
             3.1,
@@ -421,7 +463,8 @@
             "de": "Wandern Sie durch dieses schroffe Kalksteingebirge, um versteckte Weinberge zu entdecken, und stellen Sie sicher, dass Sie ausreichend Trinkwasser dabei haben.",
             "hu": "Túrázzon végig ezen a zord mészkőhegységen, hogy felfedezze a rejtett szőlőültetvényeket és fenyőerdőket, és mindenképpen vigyen magával bőséges ivóvizet.",
             "ro": "Explorați pe jos acest masiv calcaros accidentat pentru a descoperi podgorii ascunse și păduri de pini aromate, luând cu dumneavoastră suficientă apă de băut.",
-            "en": "Hike through this rugged limestone mountain range to discover hidden vineyards and aromatic pine forests, ensuring you carry plenty of drinking water."
+            "en": "Hike through this rugged limestone mountain range to discover hidden vineyards and aromatic pine forests, ensuring you carry plenty of drinking water.",
+            "fr": "Randonnez à travers ce massif calcaire escarpé pour découvrir des vignobles cachés et des forêts de pins aromatiques, en veillant à emporter une grande quantité d’eau potable."
           }
         }
       ],
@@ -429,7 +472,8 @@
         "de": "Unser Fahrradabenteuer beginnt am beeindruckenden Barberousse-Turm, einer alten Ruine mit Blick auf das Dorf. Eine frische Fahrt nach Süden bringt uns zum Plage des Chalets mit seinen einzigartigen Pfahlbauten. Die Reise geht weiter zum belebten Yachthafen von Gruissan für eine lebhafte Mittagsatmosphäre. Am Nachmittag radeln wir zum Plage des Ayguades für eine Strandpause, bevor wir unseren Tag auf den Wegen des Massif de la Clape beenden.",
         "hu": "Kerékpáros kalandunk a lenyűgöző Barberousse-toronynál kezdődik, ahonnan kilátás nyílik a falura. Egy szellős déli tekerés elvisz minket a Plage des Chalets-hez, ahol megcsodálhatjuk az egyedi cölöpházakat. Az utazás a nyüzsgő kikötő felé folytatódik egy élénk déli hangulatért. Délután a Plage des Ayguades felé pedálozunk egy tengerparti szünetre, majd a Massif de la Clape ösvényein fejezzük be a napot.",
         "ro": "Aventura noastră cu bicicleta începe cu impresionantul Turn Barberousse, o ruină antică ce domină satul. O plimbare revigorantă spre sud ne duce la Plage des Chalets, unde putem admira casele pe piloni. Călătoria continuă spre portul plin de viață pentru o atmosferă de prânz animată. După-amiaza, pedalăm către Plage des Ayguades pentru o pauză pe plajă înainte de a ne încheia ziua pe traseele Masivului la Clape.",
-        "en": "Our cycling adventure starts with the impressive Barberousse Tower, an ancient ruin overlooking the village and surrounding lagoons. A breezy ride south takes us to Plage des Chalets, where we can marvel at the unique stilt houses. The journey continues to the bustling Gruissan Marina for a lively midday atmosphere and beautiful boat views. In the afternoon, we pedal to Plage des Ayguades for a beach break before finishing our day amidst the trails of Massif de la Clape."
+        "en": "Our cycling adventure starts with the impressive Barberousse Tower, an ancient ruin overlooking the village and surrounding lagoons. A breezy ride south takes us to Plage des Chalets, where we can marvel at the unique stilt houses. The journey continues to the bustling Gruissan Marina for a lively midday atmosphere and beautiful boat views. In the afternoon, we pedal to Plage des Ayguades for a beach break before finishing our day amidst the trails of Massif de la Clape.",
+        "fr": "Notre aventure à vélo commence par l’imposante tour de Barberousse, une vieille ruine surplombant le village et les lagunes environnantes. Une balade venteuse vers le sud nous mène à la Plage des Chalets, où nous pouvons admirer les cabanes sur pilotis uniques. Le parcours se poursuit jusqu’au dynamique port de Gruissan pour une ambiance animée à midi et de belles vues sur les bateaux. L’après‑midi, nous pédalons jusqu’à la Plage des Ayguades pour une pause plage avant de terminer la journée sur les sentiers du Massif de la Clape."
       },
       "variants": {
         "rainy": {
@@ -437,7 +481,8 @@
             "de": "Die Radtour beginnt am Barberousse-Turm, wo wir auf den rutschigen Wegen Vorsicht walten lassen. Mittags radeln wir schnell zu den Chalets, um dort Schutz zu suchen. Nachmittags erkunden wir den Hafen mit seinen überdachten Kaimauern. Trotz des Regens ist die Fahrt durch die Lagunenlandschaft der Ayguades erfrischend, bevor wir am kühlen Massif de la Clape enden.",
             "hu": "A kerékpártúra a Barberousse-toronynál indul, ahol óvatosan haladunk a csúszós utakon. Délben gyorsan a Chalets-hez tekerünk, hogy ott keressünk oltalmat. Délután a kikötő fedett rakpartjait fedezzük fel. Az eső ellenére az Ayguades lagúnái menti tekerés frissítő, mielőtt a túrát a hűvös Massif de la Clape lábánál zárnánk.",
             "ro": "Turul cu bicicleta începe la Turnul Barberousse, unde suntem atenți pe potecile alunecoase. La prânz pedalăm rapid spre Chalets pentru a căuta adăpost. După-amiaza explorăm portul cu cheiurile sale acoperite. În ciuda ploii, plimbarea prin peisajul Ayguades este revigorantă înainte de a termina la Massif de la Clape.",
-            "en": "The bike tour starts at the Barberousse Tower, where we take care on the slippery paths. At noon, we pedal quickly to the Chalets to seek shelter. In the afternoon, we explore the marina with its covered quays. Despite the rain, the ride through the Ayguades lagoon is refreshing before we end at the cool Massif de la Clape."
+            "en": "The bike tour starts at the Barberousse Tower, where we take care on the slippery paths. At noon, we pedal quickly to the Chalets to seek shelter. In the afternoon, we explore the marina with its covered quays. Despite the rain, the ride through the Ayguades lagoon is refreshing before we end at the cool Massif de la Clape.",
+            "fr": "La balade à vélo commence à la tour de Barberousse, où nous faisons attention sur les chemins glissants. À midi, nous pédalons rapidement vers les Chalets pour chercher un abri. L’après‑midi, nous explorons le port avec ses quais couverts. Malgré la pluie, la traversée de la lagune des Ayguades est vivifiante avant que nous ne finissions au frais Massif de la Clape."
           },
           "stops": [
             {
@@ -445,13 +490,15 @@
                 "de": "Barberousse-Turm",
                 "hu": "Barberousse-torony",
                 "ro": "Turnul Barberousse",
-                "en": "Barberousse Tower"
+                "en": "Barberousse Tower",
+                "fr": "Tour de Barberousse"
               },
               "tip_5lang": {
                 "de": "Parken Sie Ihr Rad an einem festen Ort und gehen Sie zu Fuß weiter, da die kopfsteingepflasterten Gassen um den Turm bei Nässe sehr glatt sind.",
                 "hu": "Parkolja le a bringát egy biztos helyen és gyalog menjen tovább, mert a torony körüli macskaköves utcák vizesen nagyon csúszósak.",
                 "ro": "Parcați bicicleta într-un loc sigur și continuați pe jos, deoarece străzile pietruite din jurul turnului sunt foarte alunecoase când sunt ude.",
-                "en": "Park your bike in a secure spot and continue on foot, as the cobblestone alleys around the tower are very slippery when wet."
+                "en": "Park your bike in a secure spot and continue on foot, as the cobblestone alleys around the tower are very slippery when wet.",
+                "fr": "Garez votre vélo dans un endroit sûr et continuez à pied, car les ruelles pavées autour de la tour sont très glissantes quand elles sont mouillées."
               }
             },
             {
@@ -459,13 +506,15 @@
                 "de": "Plage des Chalets",
                 "hu": "Plage des Chalets",
                 "ro": "Plage des Chalets",
-                "en": "Plage des Chalets"
+                "en": "Plage des Chalets",
+                "fr": "Plage des Chalets"
               },
               "tip_5lang": {
                 "de": "Nutzen Sie die breiten Wege zwischen den Pfahlbauten für eine schnelle Fahrt; bei Regen bieten die Vordächer der Häuser oft einen kurzen Unterschlupf.",
                 "hu": "Használja a cölöpházak közötti széles utakat a gyors haladáshoz; esőben a házak előtetői gyakran nyújtanak rövid menedéket a tekerés közben.",
                 "ro": "Folosiți potecile late dintre casele pe piloni pentru o plimbare rapidă; pe ploaie, streșinile caselor oferă adesea un scurt adăpost.",
-                "en": "Use the wide paths between the stilt houses for a quick ride; in the rain, the overhangs of the houses often provide a brief shelter."
+                "en": "Use the wide paths between the stilt houses for a quick ride; in the rain, the overhangs of the houses often provide a brief shelter.",
+                "fr": "Utilisez les larges allées entre les cabanes sur pilotis pour une balade rapide ; sous la pluie, les avancées des maisons offrent souvent un abri temporaire."
               }
             },
             {
@@ -473,13 +522,15 @@
                 "de": "Yachthafen Gruissan",
                 "hu": "Gruissan Kikötő",
                 "ro": "Portul Gruissan",
-                "en": "Gruissan Marina"
+                "en": "Gruissan Marina",
+                "fr": "Port de Gruissan"
               },
               "tip_5lang": {
                 "de": "Im Hafenbereich gibt es viele Fahrradständer unter überdachten Bereichen; ideal, um das Rad trocken abzustellen, während man einkehrt.",
                 "hu": "A kikötő környékén sok kerékpártároló található fedett részeken; ideális a bringa szárazon hagyására, amíg beülünk valahova melegedni.",
                 "ro": "În zona portului există multe suporturi de biciclete sub zone acoperite; ideal pentru a lăsa bicicleta la uscat în timp ce luați masa.",
-                "en": "There are many bike racks in covered areas around the marina; ideal for leaving your bike dry while you stop for a break."
+                "en": "There are many bike racks in covered areas around the marina; ideal for leaving your bike dry while you stop for a break.",
+                "fr": "Il y a de nombreux arceaux pour vélos dans des zones couvertes autour du port ; idéaux pour laisser votre vélo au sec pendant votre pause."
               }
             },
             {
@@ -487,13 +538,15 @@
                 "de": "Plage des Ayguades",
                 "hu": "Plage des Ayguades",
                 "ro": "Plage des Ayguades",
-                "en": "Plage des Ayguades"
+                "en": "Plage des Ayguades",
+                "fr": "Plage des Ayguades"
               },
               "tip_5lang": {
                 "de": "Achten Sie auf Pfützen auf dem Radweg entlang der Ayguades; Schutzbleche am Fahrrad sind bei diesem Wetter absolut empfehlenswert.",
                 "hu": "Ügyeljen a tócsákra az Ayguades menti kerékpárúton; a sárvédő használata ilyen időben kifejezetten ajánlott a kényelmes haladáshoz.",
                 "ro": "Atenție la bălțile de pe pista de biciclete de-a lungul Ayguades; apărătorile de noroi la bicicletă sunt recomandate pe această vreme.",
-                "en": "Watch out for puddles on the bike path along the Ayguades; mudguards on your bike are highly recommended in this weather."
+                "en": "Watch out for puddles on the bike path along the Ayguades; mudguards on your bike are highly recommended in this weather.",
+                "fr": "Faites attention aux flaques sur la piste cyclable le long des Ayguades ; des garde‑boue sur votre vélo sont fortement recommandés par ce temps."
               }
             },
             {
@@ -501,13 +554,15 @@
                 "de": "Massif de la Clape",
                 "hu": "Massif de la Clape",
                 "ro": "Massif de la Clape",
-                "en": "Massif de la Clape"
+                "en": "Massif de la Clape",
+                "fr": "Massif de la Clape"
               },
               "tip_5lang": {
                 "de": "Die unbefestigten Wege im Gebirge können bei Regen schlammig werden; wählen Sie die asphaltierten Straßen für eine sicherere Rückreise.",
                 "hu": "A hegységben a burkolatlan utak esőben sárosak lehetnek; válassza inkább az aszfaltozott utakat a biztonságosabb visszatéréshez.",
                 "ro": "Potecile neasfaltate din munți pot deveni noroioase pe ploaie; alegeți drumurile asfaltate pentru o întoarcere mai sigură.",
-                "en": "The unpaved paths in the massif can become muddy in the rain; choose the paved roads for a safer return journey."
+                "en": "The unpaved paths in the massif can become muddy in the rain; choose the paved roads for a safer return journey.",
+                "fr": "Les chemins non revêtus du massif peuvent devenir boueux sous la pluie ; choisissez les routes goudronnées pour un retour plus sûr."
               }
             }
           ]
@@ -517,7 +572,8 @@
             "de": "Eine belebende Winter-Radtour beginnt am historischen Turm. Wir fahren weiter zu den windigen Chalets, wo die salzige Luft uns wachrüttelt. Mittags kehren wir im ruhigen Hafen ein, um uns aufzuwärmen. Nachmittags erkunden wir die leeren Strände von Ayguades, bevor wir den Tag im goldenen Licht des Massif de la Clape vor Sonnenuntergang beenden.",
             "hu": "Egy élénkítő téli bringázás indul a történelmi toronytól. Továbbhaladunk a szeles Chalets-hez, ahol a sós levegő teljesen felfrissít. Délben a nyugodt kikötőben pihenünk meg és melegszünk fel. Délután Ayguades üres strandjait fedezzük fel, majd a napot a Massif de la Clape aranyló fényei közt zárjuk naplemente előtt.",
             "ro": "O tură revigorantă cu bicicleta iarna începe la turnul istoric. Continuăm spre Chalets, unde aerul sărat ne trezește. La prânz ne oprim în portul liniștit pentru a ne încălzi. După-amiaza explorăm plajele goale din Ayguades, înainte de a încheia ziua în lumina aurie a Massif de la Clape.",
-            "en": "An invigorating winter bike ride starts at the historic tower. We continue to the windy Chalets, where the salty air wakes us up. At noon, we stop at the quiet marina to warm up. In the afternoon, we explore the empty Ayguades beaches before ending the day in the golden light of the Massif de la Clape."
+            "en": "An invigorating winter bike ride starts at the historic tower. We continue to the windy Chalets, where the salty air wakes us up. At noon, we stop at the quiet marina to warm up. In the afternoon, we explore the empty Ayguades beaches before ending the day in the golden light of the Massif de la Clape.",
+            "fr": "Une vivifiante balade à vélo hivernale commence à la tour historique. Nous continuons jusqu’aux Chalets venteux, où l’air salé nous réveille. À midi, nous nous arrêtons au port tranquille pour nous réchauffer. L’après‑midi, nous explorons les plages désertes des Ayguades avant de terminer la journée dans la lumière dorée du Massif de la Clape."
           },
           "stops": [
             {
@@ -525,13 +581,15 @@
                 "de": "Barberousse-Turm",
                 "hu": "Barberousse-torony",
                 "ro": "Turnul Barberousse",
-                "en": "Barberousse Tower"
+                "en": "Barberousse Tower",
+                "fr": "Tour de Barberousse"
               },
               "tip_5lang": {
                 "de": "Tragen Sie Handschuhe beim Radfahren, da der Fahrtwind am Morgen sehr kalt sein kann; die Aussicht vom Turm ist im Winter besonders klar.",
                 "hu": "Viseljen kesztyűt a tekeréshez, mert a menetszél reggelente nagyon hideg lehet; a kilátás a toronyból télen különösen tiszta.",
                 "ro": "Purtați mănuși când mergeți cu bicicleta, deoarece vântul poate fi foarte rece dimineața; vederea de la turn este deosebit de clară iarna.",
-                "en": "Wear gloves while cycling as the wind can be very cold in the morning; the view from the tower is especially clear in winter."
+                "en": "Wear gloves while cycling as the wind can be very cold in the morning; the view from the tower is especially clear in winter.",
+                "fr": "Portez des gants en pédalant car le vent peut être très froid le matin ; la vue depuis la tour est particulièrement claire en hiver."
               }
             },
             {
@@ -539,13 +597,15 @@
                 "de": "Plage des Chalets",
                 "hu": "Plage des Chalets",
                 "ro": "Plage des Chalets",
-                "en": "Plage des Chalets"
+                "en": "Plage des Chalets",
+                "fr": "Plage des Chalets"
               },
               "tip_5lang": {
                 "de": "Genießen Sie die Ruhe am Strand; im Winter gehört Ihnen dieser ikonische Ort fast allein, was ideal für ungestörte Panoramaaufnahmen ist.",
                 "hu": "Élvezze a strand nyugalmát; télen ez az ikonikus hely szinte csak az Öné, ami ideális a zavartalan panorámafotók készítéséhez.",
                 "ro": "Bucurați-vă de liniștea de pe plajă; iarna, acest loc iconic este aproape doar al dumneavoastră, ideal pentru fotografii panoramice.",
-                "en": "Enjoy the peace on the beach; in winter, this iconic spot belongs almost exclusively to you, ideal for undisturbed panoramic shots."
+                "en": "Enjoy the peace on the beach; in winter, this iconic spot belongs almost exclusively to you, ideal for undisturbed panoramic shots.",
+                "fr": "Appréciez le calme sur la plage ; en hiver, ce lieu emblématique vous appartient presque exclusivement, idéal pour des panoramas sans gêne."
               }
             },
             {
@@ -553,13 +613,15 @@
                 "de": "Yachthafen Gruissan",
                 "hu": "Gruissan Kikötő",
                 "ro": "Portul Gruissan",
-                "en": "Gruissan Marina"
+                "en": "Gruissan Marina",
+                "fr": "Port de Gruissan"
               },
               "tip_5lang": {
                 "de": "Die Cafés am Hafen sind im Winter gemütliche Rückzugsorte; machen Sie eine Pause, um die gefrorenen Finger bei einem heißen Getränk zu wärmen.",
                 "hu": "A kikötő kávézói télen hangulatos menedékek; tartson szünetet és melegítse fel átfagyott ujjait egy forró ital mellett.",
                 "ro": "Cafenelele din port sunt refugii primitoare iarna; luați o pauză pentru a vă încălzi degetele înghețate cu o băutură fierbinte.",
-                "en": "The cafes at the marina are cozy retreats in winter; take a break to warm your frozen fingers with a delicious hot drink."
+                "en": "The cafes at the marina are cozy retreats in winter; take a break to warm your frozen fingers with a delicious hot drink.",
+                "fr": "Les cafés du port sont des refuges chaleureux en hiver ; faites une pause pour réchauffer vos doigts engourdis avec une boisson chaude délicieuse."
               }
             },
             {
@@ -567,13 +629,15 @@
                 "de": "Plage des Ayguades",
                 "hu": "Plage des Ayguades",
                 "ro": "Plage des Ayguades",
-                "en": "Plage des Ayguades"
+                "en": "Plage des Ayguades",
+                "fr": "Plage des Ayguades"
               },
               "tip_5lang": {
                 "de": "Die Radwege sind im Winter frei von Touristen; nutzen Sie die Gelegenheit für eine zügige Fahrt entlang der malerischen Küstenlinie.",
                 "hu": "A kerékpárutak télen mentesek a turistáktól; használja ki a lehetőséget egy tempósabb tekerésre a festői partvonal mentén.",
                 "ro": "Pistele de biciclete sunt libere de turiști iarna; profitați de ocazie pentru o plimbare rapidă de-a lungul liniei de coastă pitorești.",
-                "en": "The bike paths are free of tourists in winter; take the opportunity for a brisk ride along the picturesque and scenic coastline."
+                "en": "The bike paths are free of tourists in winter; take the opportunity for a brisk ride along the picturesque and scenic coastline.",
+                "fr": "Les pistes cyclables sont dépourvues de touristes en hiver ; profitez‑en pour une balade tonique le long d’un littoral pittoresque et panoramique."
               }
             },
             {
@@ -581,13 +645,15 @@
                 "de": "Massif de la Clape",
                 "hu": "Massif de la Clape",
                 "ro": "Massif de la Clape",
-                "en": "Massif de la Clape"
+                "en": "Massif de la Clape",
+                "fr": "Massif de la Clape"
               },
               "tip_5lang": {
                 "de": "Planen Sie Ihre Rückkehr vor 17:00 Uhr ein, da es im Waldgebiet des Massivs nach Sonnenuntergang sehr schnell dunkel und kalt wird.",
                 "hu": "Tervezze meg a visszatérést 17:00 előtt, mivel a hegység erdős részein a naplemente után nagyon gyorsan sötét és hideg lesz.",
                 "ro": "Planificați-vă întoarcerea înainte de ora 17:00, deoarece în zona împădurită a masivului se întunecă și se face frig foarte repede după apus.",
-                "en": "Plan your return before 17:00, as it gets dark and cold very quickly in the forested areas of the massif after sunset."
+                "en": "Plan your return before 17:00, as it gets dark and cold very quickly in the forested areas of the massif after sunset.",
+                "fr": "Prévoyez votre retour avant 17:00, car il fait rapidement sombre et froid dans les zones boisées du massif après le coucher du soleil."
               }
             }
           ]
@@ -607,7 +673,8 @@
             "de": "Kapelle Notre-Dame-des-Auzils",
             "hu": "Notre-Dame-des-Auzils Kápolna",
             "ro": "Capela Notre-Dame-des-Auzils",
-            "en": "Notre-Dame-des-Auzils Chapel"
+            "en": "Notre-Dame-des-Auzils Chapel",
+            "fr": "Chapelle Notre‑Dame‑des‑Auzils"
           },
           "coords": [
             3.092778,
@@ -622,7 +689,8 @@
             "de": "Besuchen Sie diese Seekapelle, die von einem ergreifenden Seemannsfriedhof umgeben ist, und nehmen Sie sich Zeit, die historischen Gedenktafeln zu lesen.",
             "hu": "Látogasson el ebbe a dombok között fekvő tengerészeti kápolnába a megható tengerésztemetővel, és szánjon időt a lenyűgöző történelmi emléktáblák elolvasására.",
             "ro": "Vizitați această capelă maritimă înconjurată de un cimitir marin emoționant în dealuri și acordați-vă timp pentru a citi plăcile memoriale istorice fascinante.",
-            "en": "Visit this maritime chapel surrounded by a poignant sailors' cemetery in the hills, and take your time reading the fascinating historical memorial plaques."
+            "en": "Visit this maritime chapel surrounded by a poignant sailors' cemetery in the hills, and take your time reading the fascinating historical memorial plaques.",
+            "fr": "Visitez cette chapelle maritime entourée d’un émouvant cimetière de marins dans les collines, et prenez le temps de lire les fascinantes plaques commémoratives historiques."
           }
         },
         {
@@ -630,7 +698,8 @@
             "de": "Massif de la Clape",
             "hu": "Massif de la Clape",
             "ro": "Massif de la Clape",
-            "en": "Massif de la Clape"
+            "en": "Massif de la Clape",
+            "fr": "Massif de la Clape"
           },
           "coords": [
             3.1,
@@ -645,7 +714,8 @@
             "de": "Erkunden Sie die wilde Schönheit dieses Naturschutzgebiets auf kurzen Wanderungen und vergessen Sie nicht, an heißen Tagen genügend Trinkwasser mitzuführen.",
             "hu": "Fedezze fel ennek a természetvédelmi területnek a vad szépségét rövid túrákon, és ne felejtsen el elegendő ivóvizet vinni a forró napokon.",
             "ro": "Explorați frumusețea sălbatică a acestei rezervații naturale în scurte drumeții și nu uitați să purtați cu dumneavoastră apă potabilă în zilele toride.",
-            "en": "Explore the wild beauty of this nature reserve on short scenic hikes, and do not forget to carry ample drinking water during hot summer days."
+            "en": "Explore the wild beauty of this nature reserve on short scenic hikes, and do not forget to carry ample drinking water during hot summer days.",
+            "fr": "Explorez la beauté sauvage de cette réserve naturelle lors de courtes randonnées panoramiques, et n’oubliez pas d’emporter suffisamment d’eau potable pendant les journées chaudes d’été."
           }
         },
         {
@@ -653,7 +723,8 @@
             "de": "Yachthafen Gruissan",
             "hu": "Gruissan Kikötő",
             "ro": "Portul Gruissan",
-            "en": "Gruissan Marina"
+            "en": "Gruissan Marina",
+            "fr": "Port de Gruissan"
           },
           "coords": [
             3.145703,
@@ -668,7 +739,8 @@
             "de": "Schlendern Sie durch den belebten Yachthafen, bewundern Sie die Boote und wählen Sie ein Restaurant am Wasser für ein entspanntes Mittagessen mit frischen Meeresfrüchten.",
             "hu": "Sétáljon a nyüzsgő kikötőben, csodálja meg a kikötött hajókat, és válasszon egy vízparti éttermet egy pihentető tengeri ebédhez, friss tenger gyümölcseivel.",
             "ro": "Plimbați-vă prin portul plin de viață pentru a admira bărcile andocate și savurați fructe de mare proaspete alegând un restaurant pe malul apei pentru prânz.",
-            "en": "Wander around the bustling marina to admire the docked boats and enjoy fresh seafood, choosing a waterfront restaurant for a relaxing maritime lunch."
+            "en": "Wander around the bustling marina to admire the docked boats and enjoy fresh seafood, choosing a waterfront restaurant for a relaxing maritime lunch.",
+            "fr": "Flânez dans le port animé pour admirer les bateaux amarrés et déguster des fruits de mer frais, en choisissant un restaurant en bord de mer pour un déjeuner maritime relaxant."
           }
         },
         {
@@ -676,7 +748,8 @@
             "de": "Plage des Chalets",
             "hu": "Plage des Chalets",
             "ro": "Plage des Chalets",
-            "en": "Plage des Chalets"
+            "en": "Plage des Chalets",
+            "fr": "Plage des Chalets"
           },
           "coords": [
             3.11673,
@@ -691,7 +764,8 @@
             "de": "Bewundern Sie die ikonischen Holzpfahlbauten, die diesen Strand berühmt machen, und kommen Sie früh, um einen guten Platz zum Fotografieren der Küste zu ergattern.",
             "hu": "Csodálja meg a strandot híressé tevő ikonikus fából készült cölöpházakat, és érkezzen korán, hogy jó helyet biztosítson magának a tengerpart fotózásához.",
             "ro": "Admirați casele iconice pe piloni de lemn care fac această plajă celebră și ajungeți devreme pentru a prinde un loc bun pentru fotografierea coastei.",
-            "en": "Admire the iconic wooden stilt houses that make this beach famous, and arrive early in the day to secure a great spot for taking coastal photographs."
+            "en": "Admire the iconic wooden stilt houses that make this beach famous, and arrive early in the day to secure a great spot for taking coastal photographs.",
+            "fr": "Admirez les emblématiques cabanes en bois sur pilotis qui font la renommée de cette plage, et arrivez tôt dans la journée pour vous assurer un excellent emplacement pour prendre des photos du littoral."
           }
         },
         {
@@ -699,7 +773,8 @@
             "de": "Étang de Bages",
             "hu": "Étang de Bages",
             "ro": "Étang de Bages",
-            "en": "Étang de Bages"
+            "en": "Étang de Bages",
+            "fr": "Étang de Bages"
           },
           "coords": [
             2.999547,
@@ -714,7 +789,8 @@
             "de": "Erleben Sie die Schönheit dieser weiten Küstenlagune mit ihren traditionellen Fischerbooten und planen Sie Ihren Besuch für den späten Nachmittag zum Sonnenuntergang.",
             "hu": "Tapasztalja meg e hatalmas, hagyományos halászhajókkal tarkított parti lagúna nyugodt szépségét, és időzítse látogatását késő délutánra egy lenyűgöző naplemente miatt.",
             "ro": "Experimentați frumusețea liniștită a acestei lagune de coastă cu bărci tradiționale de pescuit, programându-vă vizita după-amiaza târziu pentru un apus uimitor.",
-            "en": "Experience the tranquil beauty of this vast coastal lagoon dotted with traditional fishing boats, timing your visit for late afternoon to catch a stunning sunset."
+            "en": "Experience the tranquil beauty of this vast coastal lagoon dotted with traditional fishing boats, timing your visit for late afternoon to catch a stunning sunset.",
+            "fr": "Vivez la sérénité de cette vaste lagune côtière ponctuée de barques de pêche traditionnelles, en planifiant votre visite en fin d’après‑midi pour profiter d’un coucher de soleil splendide."
           }
         }
       ],
@@ -722,7 +798,8 @@
         "de": "Wir beginnen unsere Autotour an der ruhigen Kapelle Notre-Dame-des-Auzils in den Kalksteinhügeln. Als nächstes erkunden wir die wilde Schönheit des Massif de la Clape. Gegen Mittag erreichen wir den lebhaften Yachthafen von Gruissan, um am Wasser zu speisen und zwischen den Yachten zu schlendern. Unser Nachmittag umfasst einen Besuch der berühmten Pfahlbauten, der mit einem spektakulären Sonnenuntergang am Étang de Bages endet.",
         "hu": "Autós túránkat a mészkődombok között megbúvó békés Notre-Dame-des-Auzils kápolnánál kezdjük. Ezután felfedezzük a Massif de la Clape vad szépségét. Dél körül megérkezünk a nyüzsgő kikötőbe egy vízparti étkezésre és egy sétára a jachtok között. Délután meglátogatjuk a híres cölöpházakat a Plage des Chalets-nél, majd egy látványos naplementével zárunk az Étang de Bages-nél.",
         "ro": "Începem turul cu mașina la liniștita Capelă Notre-Dame-des-Auzils, ascunsă în dealurile calcaroase. Apoi, explorăm frumusețea sălbatică a Masivului la Clape. Până la amiază, ajungem în portul vibrant pentru a lua masa pe malul apei. După-amiaza include o vizită la faimoasele case pe piloni de la Plage des Chalets, încheindu-se cu un apus spectaculos de soare la Étang de Bages.",
-        "en": "We start our driving tour at the tranquil Notre-Dame-des-Auzils Chapel, a serene spot tucked into the limestone hills. Next, we explore the wild beauty of Massif de la Clape, perfect for nature lovers. By midday, we arrive at the vibrant Gruissan Marina for waterfront dining and a stroll among the yachts. Our afternoon features a visit to the famous stilt houses at Plage des Chalets, concluding with a spectacular sunset at Étang de Bages."
+        "en": "We start our driving tour at the tranquil Notre-Dame-des-Auzils Chapel, a serene spot tucked into the limestone hills. Next, we explore the wild beauty of Massif de la Clape, perfect for nature lovers. By midday, we arrive at the vibrant Gruissan Marina for waterfront dining and a stroll among the yachts. Our afternoon features a visit to the famous stilt houses at Plage des Chalets, concluding with a spectacular sunset at Étang de Bages.",
+        "fr": "Nous commençons notre circuit en voiture à la paisible chapelle Notre‑Dame‑des‑Auzils, un lieu serein niché dans les collines calcaires. Ensuite, nous explorons la beauté sauvage du Massif de la Clape, parfait pour les amoureux de la nature. À midi, nous arrivons au dynamique port de Gruissan pour déjeuner au bord de l’eau et flâner parmi les yachts. Notre après‑midi comprend une visite des célèbres cabanes sur pilotis à la Plage des Chalets, se terminant par un spectaculaire coucher de soleil à l’Étang de Bages."
       },
       "variants": {
         "rainy": {
@@ -730,7 +807,8 @@
             "de": "Mit dem Auto erkunden wir die Kapelle Notre-Dame-des-Auzils sicher vor dem Regen. Die Fahrt durch das Massif de la Clape bietet bei Wolken dramatische Ausblicke. Mittags parken wir am Hafen, um in einem gemütlichen Restaurant einzukehren. Nachmittags geht es zu den Chalets und schließlich zum Étang de Bages, wo das graue Licht die Lagune in Silber taucht.",
             "hu": "Autóval az esőtől védve fedezzük fel a Notre-Dame-des-Auzils kápolnát. A Massif de la Clape-en át vezető út drámai kilátást nyújt a felhős ég alatt. Délben a kikötőben parkolunk, hogy egy hangulatos étterembe térjünk be. Délután a Chalets-hez, végül az Étang de Bages-hoz hajtunk, ahol a szürke fények ezüstösbe vonják a lagúnát.",
             "ro": "Cu mașina explorăm capela Notre-Dame-des-Auzils protejați de ploaie. Drumul prin Massif de la Clape oferă vederi dramatice sub nori. La prânz parcăm în port pentru a intra într-un restaurant primitor. După-amiaza mergem la Chalets și în final la Étang de Bages, unde lumina gri scaldă laguna în argintiu.",
-            "en": "By car, we explore the Notre-Dame-des-Auzils Chapel protected from the rain. The drive through the Massif de la Clape offers dramatic views under the clouds. At noon, we park at the marina to dine in a cozy restaurant. In the afternoon, we head to the Chalets and finally to Étang de Bages, where grey light turns the lagoon silver."
+            "en": "By car, we explore the Notre-Dame-des-Auzils Chapel protected from the rain. The drive through the Massif de la Clape offers dramatic views under the clouds. At noon, we park at the marina to dine in a cozy restaurant. In the afternoon, we head to the Chalets and finally to Étang de Bages, where grey light turns the lagoon silver.",
+            "fr": "En voiture, nous visitons la chapelle Notre‑Dame‑des‑Auzils protégés de la pluie. La route à travers le Massif de la Clape offre des vues dramatiques sous les nuages. À midi, nous nous garons au port pour déjeuner dans un restaurant chaleureux. L’après‑midi, nous nous rendons aux Chalets puis enfin à l’Étang de Bages, où la lumière grise transforme la lagune en un miroir argenté."
           },
           "stops": [
             {
@@ -738,13 +816,15 @@
                 "de": "Kapelle Notre-Dame-des-Auzils",
                 "hu": "Notre-Dame-des-Auzils Kápolna",
                 "ro": "Capela Notre-Dame-des-Auzils",
-                "en": "Notre-Dame-des-Auzils Chapel"
+                "en": "Notre-Dame-des-Auzils Chapel",
+                "fr": "Chapelle Notre‑Dame‑des‑Auzils"
               },
               "tip_5lang": {
                 "de": "Der kurze Fußweg vom Parkplatz zur Kapelle kann bei Regen rutschig sein; genießen Sie drinnen die andächtige Stille und die maritimen Votivtafeln.",
                 "hu": "A parkolótól a kápolnáig tartó rövid séta esőben csúszós lehet; bent élvezze az áhítatos csendet és a tengerészek fogadalmi tábláit.",
                 "ro": "Scurta plimbare de la parcare la capelă poate fi alunecoasă pe ploaie; bucurați-vă de liniștea din interior și de plăcuțele votive maritime.",
-                "en": "The short walk from the parking lot to the chapel can be slippery in the rain; enjoy the prayerful silence and maritime votive plaques inside."
+                "en": "The short walk from the parking lot to the chapel can be slippery in the rain; enjoy the prayerful silence and maritime votive plaques inside.",
+                "fr": "La courte marche du parking à la chapelle peut être glissante sous la pluie ; profitez du silence de prière et des plaques votives maritimes à l’intérieur."
               }
             },
             {
@@ -752,13 +832,15 @@
                 "de": "Massif de la Clape",
                 "hu": "Massif de la Clape",
                 "ro": "Massif de la Clape",
-                "en": "Massif de la Clape"
+                "en": "Massif de la Clape",
+                "fr": "Massif de la Clape"
               },
               "tip_5lang": {
                 "de": "Nutzen Sie die Aussichtspunkte entlang der Straße; bei Regen bietet das Auto den perfekten Rahmen, um die zerklüftete Landschaft trocken zu bewundern.",
                 "hu": "Használja ki az út menti kilátópontokat; esőben az autó tökéletes helyszínt biztosít a szaggatott táj szárazon történő megcsodálásához.",
                 "ro": "Folosiți punctele de belvedere de-a lungul drumului; pe ploaie, mașina oferă cadrul perfect pentru a admira peisajul accidentat stând la uscat.",
-                "en": "Use the viewpoints along the road; in the rain, the car provides the perfect setting to admire the rugged landscape while staying dry."
+                "en": "Use the viewpoints along the road; in the rain, the car provides the perfect setting to admire the rugged landscape while staying dry.",
+                "fr": "Utilisez les points de vue le long de la route ; sous la pluie, la voiture offre le cadre parfait pour admirer le paysage escarpé tout en restant au sec."
               }
             },
             {
@@ -766,13 +848,15 @@
                 "de": "Yachthafen Gruissan",
                 "hu": "Gruissan Kikötő",
                 "ro": "Portul Gruissan",
-                "en": "Gruissan Marina"
+                "en": "Gruissan Marina",
+                "fr": "Port de Gruissan"
               },
               "tip_5lang": {
                 "de": "Es gibt ein großes Parkhaus in der Nähe des Hafens; parken Sie dort, um auf kurzem Weg die überdachten Restaurants und Geschäfte zu erreichen.",
                 "hu": "A kikötő közelében nagy parkolóház található; parkoljon ott, hogy rövid úton elérje a fedett éttermeket és üzleteket.",
                 "ro": "Există o parcare mare în apropierea portului; parcați acolo pentru a ajunge rapid la restaurantele și magazinele acoperite.",
-                "en": "There is a large parking garage near the marina; park there to reach the covered restaurants and shops via a very short walk."
+                "en": "There is a large parking garage near the marina; park there to reach the covered restaurants and shops via a very short walk.",
+                "fr": "Il y a un grand parking couvert près du port ; garez‑vous y pour rejoindre les restaurants et boutiques couverts via une très courte marche."
               }
             },
             {
@@ -780,13 +864,15 @@
                 "de": "Plage des Chalets",
                 "hu": "Plage des Chalets",
                 "ro": "Plage des Chalets",
-                "en": "Plage des Chalets"
+                "en": "Plage des Chalets",
+                "fr": "Plage des Chalets"
               },
               "tip_5lang": {
                 "de": "Fahren Sie mit dem Auto direkt bis zu den Chalets; der Anblick der Pfahlbauten im Regen ist aus dem trockenen Fahrzeuginneren besonders gemütlich.",
                 "hu": "Hajtson közvetlenül a Chalets-ig; a cölöpházak látványa az esőben a száraz autó belső teréből nézve kifejezetten hangulatos élmény.",
                 "ro": "Mergeți cu mașina direct până la Chalets; vederea caselor pe piloni în ploaie este deosebit de confortabilă din interiorul uscat al mașinii.",
-                "en": "Drive directly to the Chalets; the sight of the stilt houses in the rain is particularly cozy when viewed from the dry interior of your vehicle."
+                "en": "Drive directly to the Chalets; the sight of the stilt houses in the rain is particularly cozy when viewed from the dry interior of your vehicle.",
+                "fr": "Roulez directement jusqu’aux Chalets ; la vue des cabanes sur pilotis sous la pluie est particulièrement chaleureuse lorsqu’elle est observée depuis l’intérieur sec de votre véhicule."
               }
             },
             {
@@ -794,13 +880,15 @@
                 "de": "Étang de Bages",
                 "hu": "Étang de Bages",
                 "ro": "Étang de Bages",
-                "en": "Étang de Bages"
+                "en": "Étang de Bages",
+                "fr": "Étang de Bages"
               },
               "tip_5lang": {
                 "de": "Die Uferstraße bietet fantastische Fotomotive der regnerischen Lagune; bleiben Sie für einen Moment stehen und genießen Sie die melancholische Weite.",
                 "hu": "A parti út fantasztikus fotótémákat kínál az esős lagúnáról; álljon meg egy pillanatra és élvezze a táj melankolikus tágasságát.",
                 "ro": "Drumul de coastă oferă oportunități foto fantastice ale lagunei ploioase; opriți-vă pentru un moment și bucurați-vă de vastitatea melancolică.",
-                "en": "The coastal road offers fantastic photo opportunities of the rainy lagoon; stop for a moment and enjoy the melancholic expanse of the landscape."
+                "en": "The coastal road offers fantastic photo opportunities of the rainy lagoon; stop for a moment and enjoy the melancholic expanse of the landscape.",
+                "fr": "La route côtière offre d’excellentes opportunités photo de la lagune pluvieuse ; arrêtez‑vous un instant et savourez l’étendue mélancolique du paysage."
               }
             }
           ]
@@ -810,7 +898,8 @@
             "de": "An einem klaren Wintermorgen fahren wir zur Kapelle in den Hügeln. Das Massif de la Clape leuchtet in der tiefstehenden Sonne besonders intensiv. Mittags wärmen wir uns im belebten Hafen auf, bevor wir nachmittags die windigen Chalets besuchen. Den Tag beschließen wir am Étang de Bages, wo der Sonnenuntergang gegen 17:00 Uhr den Himmel in Purpur taucht.",
             "hu": "Egy tiszta téli reggelen a dombok között fekvő kápolnához hajtunk. A Massif de la Clape az alacsonyan járó napfényben különösen intenzíven ragyog. Délben a forgalmas kikötőben melegszünk fel, majd délután a szeles Chalets-hez látogatunk. A napot az Étang de Bages-nál zárjuk, ahol 17:00 körül a naplemente bíborba vonja az eget.",
             "ro": "Într-o dimineață senină de iarnă, conducem spre capela dintre dealuri. Massif de la Clape strălucește intens în lumina soarelui jos. La prânz ne încălzim în portul animat, înainte de a vizita Chalets după-amiaza. Încheiem ziua la Étang de Bages, unde apusul în jurul orei 17:00 colorează cerul în purpuriu.",
-            "en": "On a clear winter morning, we drive to the chapel nestled in the hills. The Massif de la Clape glows intensely in the low sun. At noon, we warm up in the busy marina before visiting the windy Chalets in the afternoon. We end the day at Étang de Bages, where the sunset around 17:00 paints the sky purple."
+            "en": "On a clear winter morning, we drive to the chapel nestled in the hills. The Massif de la Clape glows intensely in the low sun. At noon, we warm up in the busy marina before visiting the windy Chalets in the afternoon. We end the day at Étang de Bages, where the sunset around 17:00 paints the sky purple.",
+            "fr": "Par une claire matinée d’hiver, nous conduisons jusqu’à la chapelle nichée dans les collines. Le Massif de la Clape brille intensément sous le soleil bas. À midi, nous nous réchauffons dans le port animé avant de visiter les Chalets venteux l’après‑midi. Nous terminons la journée à l’Étang de Bages, où le coucher du soleil vers 17:00 peint le ciel en violet."
           },
           "stops": [
             {
@@ -818,13 +907,15 @@
                 "de": "Kapelle Notre-Dame-des-Auzils",
                 "hu": "Notre-Dame-des-Auzils Kápolna",
                 "ro": "Capela Notre-Dame-des-Auzils",
-                "en": "Notre-Dame-des-Auzils Chapel"
+                "en": "Notre-Dame-des-Auzils Chapel",
+                "fr": "Chapelle Notre‑Dame‑des‑Auzils"
               },
               "tip_5lang": {
                 "de": "Nutzen Sie die Standheizung Ihres Autos vor dem Aussteigen; die Kapelle ist im Winter recht kühl, aber die friedliche Atmosphäre ist einzigartig.",
                 "hu": "Használja az autó fűtését kiszállás előtt; a kápolna télen meglehetősen hűvös, de a békés hangulat ilyenkor egészen egyedülálló.",
                 "ro": "Folosiți încălzirea mașinii înainte de a coborî; capela este destul de răcoroasă iarna, dar atmosfera pașnică este unică în acest sezon.",
-                "en": "Use your car's heater before getting out; the chapel is quite cool in winter, but the peaceful atmosphere is unique during this season."
+                "en": "Use your car's heater before getting out; the chapel is quite cool in winter, but the peaceful atmosphere is unique during this season.",
+                "fr": "Utilisez le chauffage de votre voiture avant d’en sortir ; la chapelle est assez fraîche en hiver, mais l’atmosphère paisible est unique durant cette saison."
               }
             },
             {
@@ -832,13 +923,15 @@
                 "de": "Massif de la Clape",
                 "hu": "Massif de la Clape",
                 "ro": "Massif de la Clape",
-                "en": "Massif de la Clape"
+                "en": "Massif de la Clape",
+                "fr": "Massif de la Clape"
               },
               "tip_5lang": {
                 "de": "Die kurvigen Straßen bieten im Winter klare Sicht ohne das sommerliche Flimmern der Luft; ideal, um die weiten Ausblicke auf das Mittelmeer zu genießen.",
                 "hu": "A kanyargós utak télen tiszta kilátást nyújtanak a nyári hőség okozta pára nélkül; ideális a Földközi-tengerre nyíló tágas kilátás élvezetéhez.",
                 "ro": "Drumurile șerpuite oferă o vizibilitate clară iarna, fără tremurul aerului de vară; ideal pentru a savura vederile largi spre Marea Mediterană.",
-                "en": "The winding roads offer clear views in winter without the summer heat haze; ideal for enjoying the wide vistas of the Mediterranean Sea."
+                "en": "The winding roads offer clear views in winter without the summer heat haze; ideal for enjoying the wide vistas of the Mediterranean Sea.",
+                "fr": "Les routes sinueuses offrent des vues dégagées en hiver sans la brume de chaleur estivale ; idéal pour profiter des larges panoramas sur la mer Méditerranée."
               }
             },
             {
@@ -846,13 +939,15 @@
                 "de": "Yachthafen Gruissan",
                 "hu": "Gruissan Kikötő",
                 "ro": "Portul Gruissan",
-                "en": "Gruissan Marina"
+                "en": "Gruissan Marina",
+                "fr": "Port de Gruissan"
               },
               "tip_5lang": {
                 "de": "Parkplätze sind im Winter direkt am Hafen reichlich vorhanden; ein kurzer Spaziergang bringt Sie schnell zu einem heißen Tee in einem der Cafés.",
                 "hu": "Télen bőségesen található parkolóhely közvetlenül a kikötőben; egy rövid séta után már élvezheti is a forró teát az egyik hangulatos kávézóban.",
                 "ro": "Locurile de parcare sunt abundente iarna chiar lângă port; o scurtă plimbare vă duce rapid la un ceai fierbinte într-una dintre cafenele.",
-                "en": "Parking spaces are plentiful in winter right at the marina; a short walk will quickly bring you to a hot tea in one of the cozy cafes."
+                "en": "Parking spaces are plentiful in winter right at the marina; a short walk will quickly bring you to a hot tea in one of the cozy cafes.",
+                "fr": "Les places de parking sont nombreuses en hiver, juste au port ; une courte promenade vous mènera rapidement à un thé chaud dans l’un des cafés chaleureux."
               }
             },
             {
@@ -860,13 +955,15 @@
                 "de": "Plage des Chalets",
                 "hu": "Plage des Chalets",
                 "ro": "Plage des Chalets",
-                "en": "Plage des Chalets"
+                "en": "Plage des Chalets",
+                "fr": "Plage des Chalets"
               },
               "tip_5lang": {
                 "de": "Der Wind am Strand kann im Winter eisig sein; beobachten Sie den Sonnenuntergang bequem vom Auto aus, falls es draußen zu kalt wird.",
                 "hu": "A tengerparti szél télen jeges lehet; kényelmesen, az autóból is megcsodálhatja a naplementét, ha odakint túl hidegre fordulna az idő.",
                 "ro": "Vântul de pe plajă poate fi înghețat iarna; observați apusul confortabil din mașină, în cazul în care afară devine prea frig.",
-                "en": "The wind on the beach can be icy in winter; watch the sunset comfortably from your car if it gets too cold outside for a walk."
+                "en": "The wind on the beach can be icy in winter; watch the sunset comfortably from your car if it gets too cold outside for a walk.",
+                "fr": "Le vent sur la plage peut être glacial en hiver ; admirez le coucher de soleil confortablement depuis votre voiture si la promenade devient trop froide."
               }
             },
             {
@@ -874,13 +971,15 @@
                 "de": "Étang de Bages",
                 "hu": "Étang de Bages",
                 "ro": "Étang de Bages",
-                "en": "Étang de Bages"
+                "en": "Étang de Bages",
+                "fr": "Étang de Bages"
               },
               "tip_5lang": {
                 "de": "Die Abenddämmerung um 17:00 Uhr ist der Höhepunkt der Fahrt; das Licht bricht sich wunderbar auf der stillen Wasseroberfläche der Lagune.",
                 "hu": "A 17:00 órakor kezdődő szürkület a túra fénypontja; a fények csodálatosan törnek meg a lagúna mozdulatlan víztükrén.",
                 "ro": "Amurgul de la ora 17:00 este punctul culminant al drumului; lumina se reflectă minunat pe suprafața liniștită a apei lagunei.",
-                "en": "The dusk at 17:00 is the highlight of the drive; the light reflects beautifully on the still water surface of the lagoon."
+                "en": "The dusk at 17:00 is the highlight of the drive; the light reflects beautifully on the still water surface of the lagoon.",
+                "fr": "Le crépuscule à 17:00 est le point fort de la balade ; la lumière se reflète magnifiquement à la surface immobile de la lagune."
               }
             }
           ]

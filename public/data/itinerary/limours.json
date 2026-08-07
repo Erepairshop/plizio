@@ -21,7 +21,8 @@
             "de": "Rathaus Limours",
             "hu": "Limours Városháza",
             "ro": "Primăria Limours",
-            "en": "Limours Town Hall"
+            "en": "Limours Town Hall",
+            "fr": "Mairie de Limours"
           },
           "coords": [
             2.075912,
@@ -36,7 +37,8 @@
             "de": "Beginnen Sie Ihren Tag an diesem charmanten Zivilgebäude, um den lokalen Rhythmus zu spüren, und achten Sie auf die historischen Fassadendetails.",
             "hu": "Kezdje a napot ennél a bájos középületnél, hogy átérezze a helyi ritmust, miközben alaposan megfigyeli a történelmi homlokzat apró részleteit.",
             "ro": "Începeți ziua la această clădire civică fermecătoare pentru a simți ritmul local, fiind atenți la detaliile istorice ale fațadei sale deosebite.",
-            "en": "Begin your day at this charming civic building to grasp the local rhythm, keeping an eye out for the historic facade details before continuing."
+            "en": "Begin your day at this charming civic building to grasp the local rhythm, keeping an eye out for the historic facade details before continuing.",
+            "fr": "Commencez votre journée dans ce charmant bâtiment civique pour saisir le rythme local, en gardant un œil sur les détails de la façade historique avant de poursuivre."
           }
         },
         {
@@ -44,7 +46,8 @@
             "de": "St. Peter Kirche",
             "hu": "Szent Péter-templom",
             "ro": "Biserica Sf. Petru",
-            "en": "Saint-Pierre Church"
+            "en": "Saint-Pierre Church",
+            "fr": "Église Saint‑Pierre"
           },
           "coords": [
             2.07773,
@@ -59,7 +62,8 @@
             "de": "Bewundern Sie das friedliche Innere dieser historischen religiösen Stätte und nehmen Sie sich einen Moment Zeit für die farbenfrohen Fenster.",
             "hu": "Csodálja meg e történelmi vallási helyszín békés belső terét, és szánjon egy percet a gyönyörű ólomüveg ablakok részletes megtekintésére.",
             "ro": "Admirați interiorul pașnic al acestui sit religios istoric, luându-vă un moment pentru a vizualiza superbele vitralii colorate din naos.",
-            "en": "Admire the peaceful interior of this historic religious site that anchors the community, taking a moment to view the colorful stained glass windows."
+            "en": "Admire the peaceful interior of this historic religious site that anchors the community, taking a moment to view the colorful stained glass windows.",
+            "fr": "Admirez l'intérieur paisible de ce site religieux historique qui ancre la communauté, en prenant un moment pour contempler les vitraux colorés."
           }
         },
         {
@@ -67,7 +71,8 @@
             "de": "A l'Orée du Bois",
             "hu": "A l'Orée du Bois",
             "ro": "A l'Orée du Bois",
-            "en": "A l'Orée du Bois"
+            "en": "A l'Orée du Bois",
+            "fr": "A l'Orée du Bois"
           },
           "coords": [
             2.087263,
@@ -82,7 +87,8 @@
             "de": "Tauchen Sie in die kulturelle Atmosphäre dieses ruhigen Ortes ein und tragen Sie bequeme Schuhe, um die bewaldete Umgebung vollständig zu erkunden.",
             "hu": "Merüljön el ennek a nyugodt fás menedéknek a kulturális atmoszférájában, és viseljen kényelmes cipőt a közvetlen környezet felfedezéséhez.",
             "ro": "Lăsați-vă captivat de atmosfera culturală a acestui refugiu împădurit, purtând încălțăminte confortabilă pentru a explora împrejurimile imediate.",
-            "en": "Immerse yourself in the cultural atmosphere of this tranquil wooded retreat, and wear comfortable shoes to explore the immediate surroundings fully."
+            "en": "Immerse yourself in the cultural atmosphere of this tranquil wooded retreat, and wear comfortable shoes to explore the immediate surroundings fully.",
+            "fr": "Imprégnez‑vous de l'atmosphère culturelle de cette retraite boisée et tranquille, et portez des chaussures confortables pour explorer pleinement les environs immédiats."
           }
         },
         {
@@ -90,7 +96,8 @@
             "de": "Höchster Punkt von Essonne",
             "hu": "Essonne legmagasabb pontja",
             "ro": "Cel mai înalt punct din Essonne",
-            "en": "Highest Point of Essonne"
+            "en": "Highest Point of Essonne",
+            "fr": "Point culminant de l'Essonne"
           },
           "coords": [
             2.083848,
@@ -105,7 +112,8 @@
             "de": "Genießen Sie die weite Aussicht vom höchsten Punkt der Region Essonne und vergessen Sie nicht Ihre Kamera für spektakuläre Landschaftsaufnahmen.",
             "hu": "Élvezze a lenyűgöző kilátást az Essonne régió legmagasabb pontjáról, és feltétlenül hozzon magával fényképezőgépet a panorámás tájképekhez.",
             "ro": "Bucurați-vă de priveliștile ample din cel mai înalt punct al regiunii Essonne, amintindu-vă să aduceți aparatul foto pentru cadre spectaculoase.",
-            "en": "Enjoy sweeping views from the highest point in the Essonne region, remembering to bring your camera for spectacular panoramic landscape shots."
+            "en": "Enjoy sweeping views from the highest point in the Essonne region, remembering to bring your camera for spectacular panoramic landscape shots.",
+            "fr": "Profitez de vues panoramiques depuis le point le plus élevé du département de l'Essonne, n'oubliez pas votre appareil photo pour des prises de vue spectaculaires."
           }
         },
         {
@@ -113,7 +121,8 @@
             "de": "Château de Pivot",
             "hu": "Château de Pivot",
             "ro": "Château de Pivot",
-            "en": "Château de Pivot"
+            "en": "Château de Pivot",
+            "fr": "Château de Pivot"
           },
           "coords": [
             2.101223,
@@ -128,7 +137,8 @@
             "de": "Beenden Sie Ihren Spaziergang an diesem stattlichen Schloss inmitten von Grünanlagen und nehmen Sie sich Zeit für die klassische französische Architektur.",
             "hu": "Fejezze be sétáját ennél a buja növényzettel körülvett impozáns kastélynál, elegendő időt hagyva a klasszikus francia építészeti elemekre.",
             "ro": "Încheiați-vă plimbarea la acest castel impunător înconjurat de verdeață, alocând timp suficient pentru a aprecia elementele arhitecturale franceze.",
-            "en": "Conclude your walk at this stately castle surrounded by lush greenery, allowing ample time to appreciate the classic French architectural elements."
+            "en": "Conclude your walk at this stately castle surrounded by lush greenery, allowing ample time to appreciate the classic French architectural elements.",
+            "fr": "Concluez votre promenade à ce château élégant entouré d'une végétation luxuriante, en prévoyant suffisamment de temps pour apprécier les éléments classiques de l'architecture française."
           }
         }
       ],
@@ -136,7 +146,8 @@
         "de": "Der Morgen in Limours beginnt im Herzen der Stadt mit einem Spaziergang zwischen dem Rathaus und der historischen Kirche. Die Mittagszeit bringt einen kulturellen Spaziergang zum ruhigen A l'Orée du Bois. Am Nachmittag erreichen Sie den Höhepunkt mit weiten Ausblicken auf die Region am höchsten Punkt von Essonne. Der Ausflug endet mit einem entspannenden Besuch im eleganten Château de Pivot.",
         "hu": "A reggel Limours szívében kezdődik, a központ és a történelmi templom közötti sétával. A délben egy kulturális séta várja az A l'Orée du Bois nyugodt fái között. A délután csúcspontja a régió legmagasabb pontja, lenyűgöző kilátással. Az este egy pihentető látogatással zárul a lenyűgöző és elegáns Château de Pivot kastélynál, zöld környezetben.",
         "ro": "Dimineața în Limours începe în inima orașului, cu o plimbare între primărie și biserica istorică. Prânzul aduce o vizită culturală la refugiul liniștit A l'Orée du Bois. După-amiaza atinge apogeul cu vederi regionale panoramice la cel mai înalt punct din Essonne. Seara se încheie perfect cu o vizită relaxantă la elegantul Château de Pivot.",
-        "en": "Morning in Limours starts in the heart of town, walking between the civic center and the historic church. Midday brings a cultural stroll to the tranquil A l'Orée du Bois. The afternoon peaks with sweeping regional views at the highest point in Essonne. The trip concludes gracefully with a relaxing and immersive visit to the elegant Château de Pivot."
+        "en": "Morning in Limours starts in the heart of town, walking between the civic center and the historic church. Midday brings a cultural stroll to the tranquil A l'Orée du Bois. The afternoon peaks with sweeping regional views at the highest point in Essonne. The trip concludes gracefully with a relaxing and immersive visit to the elegant Château de Pivot.",
+        "fr": "La matinée à Limours commence au cœur de la ville, en marchant entre la mairie et l'église historique. Midi offre une promenade culturelle vers le paisible A l'Orée du Bois. L'après‑midi culmine par des vues panoramiques depuis le point culminant de l'Essonne. L'excursion se termine en beauté par une visite relaxante et immersive à l'élégant Château de Pivot."
       },
       "variants": {
         "rainy": {
@@ -144,7 +155,8 @@
             "de": "Der Morgen beginnt am Rathaus, wo der Regen die Steine glänzen lässt. Mittags bietet die Kirche einen trockenen Zufluchtsort. Nachmittags führen die Wege durch den feuchten Wald zum nebligen Gipfel. Der Abend endet am Schloss, dessen Mauern im grauen Licht besonders mystisch wirken, während man unter dem Schirm die Ruhe genießt.",
             "hu": "A reggel a városházánál indul, ahol az eső fényessé teszi a tereket. Délben a templom belső csendje nyújt menedéket a zápor elől. Délután a párás erdőn át jutunk fel a ködös dombtetőre, ahol elengedhetetlen az esernyő. Az este a kastélynál ér véget, melynek falai közt a szürke égbolt alatt is megelevenedik a történelem.",
             "ro": "Dimineața începe la primărie, unde ploaia face pavajul să strălucească. La prânz, biserica oferă un refugiu uscat și liniștit. După-amiaza, potecile prin pădure spre cel mai înalt punct necesită umbrele rezistente. Seara se încheie la castel, unde zidurile vechi capătă o aură mistică sub cerul plumburiu și umed.",
-            "en": "Morning starts at the Town Hall, where rain makes the square glisten. By noon, the church provides a dry sanctuary. In the afternoon, paths through the damp woods to the misty peak require a sturdy umbrella. The day concludes at the castle, whose ancient walls look particularly atmospheric under the grey, rainy sky."
+            "en": "Morning starts at the Town Hall, where rain makes the square glisten. By noon, the church provides a dry sanctuary. In the afternoon, paths through the damp woods to the misty peak require a sturdy umbrella. The day concludes at the castle, whose ancient walls look particularly atmospheric under the grey, rainy sky.",
+            "fr": "La matinée commence à la mairie, où la pluie fait briller la place. À midi, l'église offre un sanctuaire sec. L'après‑midi, les chemins à travers le bois humide jusqu'au sommet brumeux exigent un parapluie solide. La journée se conclut au château, dont les murs anciens sont particulièrement atmosphériques sous le ciel gris et pluvieux."
           },
           "stops": [
             {
@@ -152,13 +164,15 @@
                 "de": "Rathaus Limours",
                 "hu": "Limours Városháza",
                 "ro": "Primăria Limours",
-                "en": "Limours Town Hall"
+                "en": "Limours Town Hall",
+                "fr": "Mairie de Limours"
               },
               "tip_5lang": {
                 "de": "Bewundern Sie die Fassade von den Arkaden aus, um trocken zu bleiben; achten Sie auf das glatte Kopfsteinpflaster auf dem Platz.",
                 "hu": "Csodálja meg az épületet az ereszek alól, hogy száraz maradjon, és vigyázzon a téren a vizes, csúszós macskakövekre.",
                 "ro": "Admirați fațada de sub streșini pentru a rămâne uscat și aveți grijă la pavajul umed din piață care poate fi alunecos.",
-                "en": "Admire the facade from under the eaves to stay dry, and watch your step on the wet cobblestones which can be slippery."
+                "en": "Admire the facade from under the eaves to stay dry, and watch your step on the wet cobblestones which can be slippery.",
+                "fr": "Admirez la façade depuis l'avant‑toit pour rester au sec, et faites attention aux pavés mouillés qui peuvent être glissants."
               }
             },
             {
@@ -166,13 +180,15 @@
                 "de": "St. Peter Kirche",
                 "hu": "Szent Péter-templom",
                 "ro": "Biserica Sf. Petru",
-                "en": "Saint-Pierre Church"
+                "en": "Saint-Pierre Church",
+                "fr": "Église Saint‑Pierre"
               },
               "tip_5lang": {
                 "de": "Nutzen Sie den Aufenthalt für eine Besichtigung des Innenraums, während draußen der Regen gegen die alten bunten Fenster prasselt.",
                 "hu": "Használja ki az időt a belső tér felfedezésére, miközben kint az eső kopog a gyönyörű, régi színes üvegablakokon.",
                 "ro": "Profitați de moment pentru a vizita interiorul în timp ce ploaia bate în vitraliile vechi; este locul perfect pentru adăpost.",
-                "en": "Take the opportunity to explore the interior while the rain drums against the historic stained-glass windows outside."
+                "en": "Take the opportunity to explore the interior while the rain drums against the historic stained-glass windows outside.",
+                "fr": "Profitez de l'occasion pour explorer l'intérieur pendant que la pluie tambourine contre les vitraux historiques à l'extérieur."
               }
             },
             {
@@ -180,13 +196,15 @@
                 "de": "A l'Orée du Bois",
                 "hu": "A l'Orée du Bois",
                 "ro": "A l'Orée du Bois",
-                "en": "A l'Orée du Bois"
+                "en": "A l'Orée du Bois",
+                "fr": "A l'Orée du Bois"
               },
               "tip_5lang": {
                 "de": "Genießen Sie den frischen Duft des Waldes nach dem Regen, aber tragen Sie wasserfeste Schuhe für die potenziell matschigen Waldwege.",
                 "hu": "Élvezze az erdő friss illatát az eső után, de viseljen vízálló cipőt a helyenként sárossá váló erdei ösvények miatt.",
                 "ro": "Bucurați-vă de mirosul proaspăt al pădurii după ploaie, dar purtați încălțăminte impermeabilă pentru potecile care pot fi noroioase.",
-                "en": "Enjoy the fresh scent of the woods after the rain, but wear waterproof shoes for the forest paths that might get muddy."
+                "en": "Enjoy the fresh scent of the woods after the rain, but wear waterproof shoes for the forest paths that might get muddy.",
+                "fr": "Appréciez l'odeur fraîche des bois après la pluie, mais portez des chaussures imperméables car les sentiers forestiers peuvent devenir boueux."
               }
             },
             {
@@ -194,13 +212,15 @@
                 "de": "Höchster Punkt von Essonne",
                 "hu": "Essonne legmagasabb pontja",
                 "ro": "Cel mai înalt punct din Essonne",
-                "en": "Highest Point of Essonne"
+                "en": "Highest Point of Essonne",
+                "fr": "Point culminant de l'Essonne"
               },
               "tip_5lang": {
                 "de": "Bei Regen ist die Sicht oft neblig und mystisch; halten Sie sich an die befestigten Wege, da das Gras sehr rutschig sein kann.",
                 "hu": "Esőben a kilátás gyakran ködös és misztikus; maradjon a kijelölt utakon, mert a fű ilyenkor rendkívül csúszóssá válik.",
                 "ro": "În caz de ploaie, vederea este adesea cețoasă; rămâneți pe potecile marcate, deoarece iarba poate deveni foarte alunecoasă.",
-                "en": "During rain, the view is often misty and mystical; stick to the paved paths as the grass can become very slippery."
+                "en": "During rain, the view is often misty and mystical; stick to the paved paths as the grass can become very slippery.",
+                "fr": "Par temps de pluie, la vue est souvent brumeuse et mystique ; restez sur les chemins pavés car l'herbe peut devenir très glissante."
               }
             },
             {
@@ -208,13 +228,15 @@
                 "de": "Château de Pivot",
                 "hu": "Château de Pivot",
                 "ro": "Château de Pivot",
-                "en": "Château de Pivot"
+                "en": "Château de Pivot",
+                "fr": "Château de Pivot"
               },
               "tip_5lang": {
                 "de": "Das Schloss wirkt bei Regen besonders dramatisch; nutzen Sie die überdachten Bereiche am Eingang für Fotos ohne nass zu werden.",
                 "hu": "A kastély különösen drámai látványt nyújt esőben; fotózáshoz használja a bejárat közeli fedett részeket a beázás elkerülésére.",
                 "ro": "Castelul arată spectaculos în ploaie; folosiți zonele acoperite de la intrare pentru fotografii reușite fără a vă uda.",
-                "en": "The castle looks particularly dramatic in the rain; use the covered areas near the entrance for photos to stay dry."
+                "en": "The castle looks particularly dramatic in the rain; use the covered areas near the entrance for photos to stay dry.",
+                "fr": "Le château est particulièrement spectaculaire sous la pluie ; utilisez les parties couvertes près de l'entrée pour vos photos afin de rester au sec."
               }
             }
           ]
@@ -224,7 +246,8 @@
             "de": "Ein frostiger Morgen am Rathaus startet den Tag. Mittags bietet die Kirche eine besinnliche Pause in der Kälte. Nachmittags erreicht man den höchsten Punkt, wo der Winterwind kräftig wehen kann. Da die Sonne gegen 17:00 Uhr untergeht, erlebt man das Schloss in der blauen Stunde, bevor die Dunkelheit einkehrt.",
             "hu": "Zúzmarás reggel kezdődik a városházánál. Délben a templom csendes falaiba húzódunk a hideg elől. Délután a legmagasabb ponton a téli szél csípős lehet, így a réteges öltözet kötelező. Mivel a nap 17:00 körül nyugszik, a kastélyt már a kék óra fényeiben csodálhatjuk meg.",
             "ro": "O dimineață geroasă la primărie dă startul zilei. La prânz, biserica oferă o pauză liniștită departe de frigul de afară. După-amiaza, vântul de iarnă poate fi tăios la punctul de belvedere. Apusul fiind în jur de ora 17:00, veți vedea castelul în lumina albastră de dinaintea serii.",
-            "en": "A frosty morning at the Town Hall kicks off the day. At noon, the church offers a quiet break from the cold. In the afternoon, the winter wind can be sharp at the highest point. With sunset around 17:00, you will experience the castle during the blue hour before darkness sets in."
+            "en": "A frosty morning at the Town Hall kicks off the day. At noon, the church offers a quiet break from the cold. In the afternoon, the winter wind can be sharp at the highest point. With sunset around 17:00, you will experience the castle during the blue hour before darkness sets in.",
+            "fr": "Un matin givré à la mairie lance la journée. À midi, l'église offre une pause tranquille contre le froid. L'après-midi, le vent d'hiver peut être vif au point culminant. Le coucher du soleil vers 17:00 vous permettra de voir le château pendant l'heure bleue avant la tombée de la nuit."
           },
           "stops": [
             {
@@ -232,13 +255,15 @@
                 "de": "Rathaus Limours",
                 "hu": "Limours Városháza",
                 "ro": "Primăria Limours",
-                "en": "Limours Town Hall"
+                "en": "Limours Town Hall",
+                "fr": "Hôtel de ville de Limours"
               },
               "tip_5lang": {
                 "de": "Die Fassade sieht bei Frost wunderschön aus; tragen Sie Thermokleidung, da der offene Platz im Winter sehr zugig sein kann.",
                 "hu": "A homlokzat gyönyörű a téli fagyban; viseljen hőtartó ruházatot, mert a nyitott tér télen nagyon huzatos lehet.",
                 "ro": "Fațada arată superb în înghețul iernii; purtați haine termice, deoarece piața deschisă poate fi foarte vântoasă.",
-                "en": "The facade looks beautiful in the winter frost; wear thermal clothing as the open square can be very drafty in winter."
+                "en": "The facade looks beautiful in the winter frost; wear thermal clothing as the open square can be very drafty in winter.",
+                "fr": "La façade est belle sous le givre hivernal ; portez des vêtements thermiques car la place ouverte peut être très froide en hiver."
               }
             },
             {
@@ -246,13 +271,15 @@
                 "de": "St. Peter Kirche",
                 "hu": "Szent Péter-templom",
                 "ro": "Biserica Sf. Petru",
-                "en": "Saint-Pierre Church"
+                "en": "Saint-Pierre Church",
+                "fr": "Église Saint-Pierre"
               },
               "tip_5lang": {
                 "de": "In der Kirche ist es oft kälter als draußen; behalten Sie Ihren Mantel an, während Sie die religiöse Kunst im Inneren bestaunen.",
                 "hu": "A templomban gyakran hidegebb van, mint kint; tartsa magán a kabátját, miközben a belső vallási művészeti alkotásokat nézi.",
                 "ro": "În biserică este adesea mai frig decât afară; păstrați-vă haina pe dvs. în timp ce admirați arta religioasă din interior.",
-                "en": "It is often colder inside the church than outside; keep your coat on while admiring the religious art within."
+                "en": "It is often colder inside the church than outside; keep your coat on while admiring the religious art within.",
+                "fr": "Il fait souvent plus froid à l'intérieur de l'église qu'à l'extérieur ; gardez votre manteau en admirant les œuvres religieuses."
               }
             },
             {
@@ -260,13 +287,15 @@
                 "de": "A l'Orée du Bois",
                 "hu": "A l'Orée du Bois",
                 "ro": "A l'Orée du Bois",
-                "en": "A l'Orée du Bois"
+                "en": "A l'Orée du Bois",
+                "fr": "A l'Orée du Bois"
               },
               "tip_5lang": {
                 "de": "Die kahlen Bäume bieten weite Sichtachsen; feste Stiefel sind für den gefrorenen oder harten Boden im Wald unbedingt erforderlich.",
                 "hu": "A kopasz fák messzi kilátást engednek; a fagyott vagy kemény erdei talajhoz mindenképpen stabil bakancsra lesz szüksége.",
                 "ro": "Copacii golași oferă perspective largi; bocancii solizi sunt esențiali pentru solul înghețat sau tare din pădure.",
-                "en": "The bare trees offer wide views; sturdy boots are essential for the frozen or hard ground in the woods."
+                "en": "The bare trees offer wide views; sturdy boots are essential for the frozen or hard ground in the woods.",
+                "fr": "Les arbres dépouillés offrent de larges vues ; des bottes solides sont indispensables pour le sol gelé ou dur dans les bois."
               }
             },
             {
@@ -274,13 +303,15 @@
                 "de": "Höchster Punkt von Essonne",
                 "hu": "Essonne legmagasabb pontja",
                 "ro": "Cel mai înalt punct din Essonne",
-                "en": "Highest Point of Essonne"
+                "en": "Highest Point of Essonne",
+                "fr": "Point culminant de l'Essonne"
               },
               "tip_5lang": {
                 "de": "Der Panoramablick ist an klaren Wintertagen besonders weit; schützen Sie sich oben mit einer Mütze gegen den kalten Wind.",
                 "hu": "A panoráma a tiszta téli napokon különösen messzire ellát; a tetőn védekezzen sapkával a metsző téli szél ellen.",
                 "ro": "Panorama este foarte clară în zilele senine de iarnă; protejați-vă cu o căciulă împotriva vântului rece de pe culme.",
-                "en": "The panoramic view is exceptionally clear on winter days; protect yourself with a hat against the cold wind at the top."
+                "en": "The panoramic view is exceptionally clear on winter days; protect yourself with a hat against the cold wind at the top.",
+                "fr": "La vue panoramique est exceptionnellement claire les jours d'hiver ; protégez-vous avec un bonnet contre le vent froid au sommet."
               }
             },
             {
@@ -288,13 +319,15 @@
                 "de": "Château de Pivot",
                 "hu": "Château de Pivot",
                 "ro": "Château de Pivot",
-                "en": "Château de Pivot"
+                "en": "Château de Pivot",
+                "fr": "Château de Pivot"
               },
               "tip_5lang": {
                 "de": "Kommen Sie vor 16:30 Uhr an, um die Schlossmauern im letzten Tageslicht zu sehen, bevor es früh dunkel und merklich kühler wird.",
                 "hu": "Érkezzen 16:30 előtt, hogy az utolsó fényeknél lássa a falakat, mielőtt korán besötétedik és hirtelen lehűl a levegő.",
                 "ro": "Sosiți înainte de 16:30 pentru a vedea zidurile în ultima lumină a zilei, înainte de lăsarea serii și a frigului accentuat.",
-                "en": "Arrive before 16:30 to see the castle walls in the last daylight before it gets dark early and significantly colder."
+                "en": "Arrive before 16:30 to see the castle walls in the last daylight before it gets dark early and significantly colder.",
+                "fr": "Arrivez avant 16:30 pour voir les murs du château sous la dernière lumière du jour, car il fait nuit plus tôt et beaucoup plus froid."
               }
             }
           ]
@@ -314,7 +347,8 @@
             "de": "Rathaus Limours",
             "hu": "Limours Városháza",
             "ro": "Primăria Limours",
-            "en": "Limours Town Hall"
+            "en": "Limours Town Hall",
+            "fr": "Hôtel de ville de Limours"
           },
           "coords": [
             2.075912,
@@ -329,7 +363,8 @@
             "de": "Starten Sie Ihre Radtour am Rathaus, um das Stadtzentrum kennenzulernen, und überprüfen Sie Ihren Reifendruck vor der eigentlichen Abfahrt.",
             "hu": "Kezdje kerékpártúráját a városházánál, hogy megismerje a városközpontot, és indulás előtt mindenképpen ellenőrizze a guminyomást.",
             "ro": "Începeți traseul de biciclete la primărie pentru a vă familiariza cu centrul orașului, verificând presiunea anvelopelor înainte de a porni.",
-            "en": "Start your cycling journey at the town hall to familiarize yourself with the town center, checking your tire pressure before heading out."
+            "en": "Start your cycling journey at the town hall to familiarize yourself with the town center, checking your tire pressure before heading out.",
+            "fr": "Commencez votre parcours à vélo à la mairie pour vous familiariser avec le centre-ville, en vérifiant la pression des pneus avant de partir."
           }
         },
         {
@@ -337,7 +372,8 @@
             "de": "St. Peter Kirche",
             "hu": "Szent Péter-templom",
             "ro": "Biserica Sf. Petru",
-            "en": "Saint-Pierre Church"
+            "en": "Saint-Pierre Church",
+            "fr": "Église Saint-Pierre"
           },
           "coords": [
             2.07773,
@@ -352,7 +388,8 @@
             "de": "Unterbrechen Sie Ihre Fahrt, um dieses schöne religiöse Bauwerk zu bewundern, und schließen Sie Ihr Fahrrad sicher in der Nähe des Haupteingangs ab.",
             "hu": "Szakítsa meg útját e gyönyörű vallási épület megcsodálásához, és gondoskodjon arról, hogy kerékpárját biztonságosan lezárja a bejárat közelében.",
             "ro": "Faceți o pauză pentru a admira această structură religioasă superbă, asigurându-vă că legați bicicleta în siguranță lângă intrarea principală.",
-            "en": "Pause your ride to marvel at this beautiful religious structure, ensuring you lock your bike securely near the main entrance while exploring."
+            "en": "Pause your ride to marvel at this beautiful religious structure, ensuring you lock your bike securely near the main entrance while exploring.",
+            "fr": "Faites une pause pour admirer cette belle construction religieuse, en veillant à verrouiller solidement votre vélo près de l'entrée principale pendant la visite."
           }
         },
         {
@@ -360,7 +397,8 @@
             "de": "Höchster Punkt von Essonne",
             "hu": "Essonne legmagasabb pontja",
             "ro": "Cel mai înalt punct din Essonne",
-            "en": "Highest Point of Essonne"
+            "en": "Highest Point of Essonne",
+            "fr": "Point culminant de l'Essonne"
           },
           "coords": [
             2.083848,
@@ -375,7 +413,8 @@
             "de": "Fordern Sie sich mit einem sanften Aufstieg zum höchsten Punkt von Essonne heraus, wo eine kurze Trinkpause die weite Aussicht perfekt ergänzt.",
             "hu": "Tegye próbára magát egy enyhe emelkedővel Essonne legmagasabb pontjáig, ahol egy gyors vízszünet tökéletesen kiegészíti a pazar kilátást.",
             "ro": "Provocați-vă cu o urcare blândă către cel mai înalt punct din Essonne, unde o pauză scurtă de apă completează perfect priveliștile expansive.",
-            "en": "Challenge yourself with a gentle ascent to Essonne's highest elevation point, where a quick water break perfectly complements the expansive views."
+            "en": "Challenge yourself with a gentle ascent to Essonne's highest elevation point, where a quick water break perfectly complements the expansive views.",
+            "fr": "Relevez le défi d'une ascension douce jusqu'au point le plus élevé de l'Essonne, où une courte pause pour de l'eau complète parfaitement la vue étendue."
           }
         },
         {
@@ -383,7 +422,8 @@
             "de": "Véloscénie-Radweg",
             "hu": "Véloscénie kerékpárút",
             "ro": "Traseul de biciclete Véloscénie",
-            "en": "Véloscénie Cycle Route"
+            "en": "Véloscénie Cycle Route",
+            "fr": "Route cyclable Véloscénie"
           },
           "coords": [
             2.142849,
@@ -398,7 +438,8 @@
             "de": "Schließen Sie sich diesem berühmten Fernradweg an, um die besten Erholungswege der Region zu erleben, und bleiben Sie aus Sicherheitsgründen auf markierten Pfaden.",
             "hu": "Csatlakozzon ehhez a híres távolsági kerékpárúthoz, hogy megtapasztalja a régió legjobb ösvényeit, mindig a kijelölt utakon maradva a biztonságért.",
             "ro": "Alăturați-vă acestui faimos traseu de ciclism pe distanțe lungi, rămânând pe potecile marcate pentru a explora în siguranță frumusețea regiunii.",
-            "en": "Join this famous long-distance cycling route to experience the region's best recreational trails, sticking to the marked paths for optimal safety."
+            "en": "Join this famous long-distance cycling route to experience the region's best recreational trails, sticking to the marked paths for optimal safety.",
+            "fr": "Rejoignez cette célèbre route cyclable longue distance pour découvrir les meilleurs sentiers récréatifs de la région, en restant sur les chemins balisés pour votre sécurité."
           }
         },
         {
@@ -406,7 +447,8 @@
             "de": "Château de Pivot",
             "hu": "Château de Pivot",
             "ro": "Château de Pivot",
-            "en": "Château de Pivot"
+            "en": "Château de Pivot",
+            "fr": "Château de Pivot"
           },
           "coords": [
             2.101223,
@@ -421,7 +463,8 @@
             "de": "Ruhen Sie Ihre Beine auf diesem prächtigen, geschichtsträchtigen Anwesen aus und wandern Sie umher, um die gut erhaltenen Verteidigungsanlagen zu sehen.",
             "hu": "Pihentesse meg lábait ezen a helyi történelemmel átitatott fenséges birtokon, körbesétálva a jól megőrzött külső védelmi elemeket.",
             "ro": "Odihniți-vă picioarele la această moșie magnifică plină de istorie locală, rătăcind pe perimetru pentru a observa caracteristicile defensive.",
-            "en": "Rest your legs at this magnificent estate steeped in local history, wandering the perimeter to observe the well-preserved defensive features."
+            "en": "Rest your legs at this magnificent estate steeped in local history, wandering the perimeter to observe the well-preserved defensive features.",
+            "fr": "Reposez vos jambes dans ce magnifique domaine chargé d'histoire locale, en parcourant le périmètre pour observer les éléments défensifs bien préservés."
           }
         },
         {
@@ -429,7 +472,8 @@
             "de": "Stadtpark",
             "hu": "Városi park",
             "ro": "Parcul orașului",
-            "en": "City park"
+            "en": "City park",
+            "fr": "Parc municipal"
           },
           "coords": [
             2.099608,
@@ -444,7 +488,8 @@
             "de": "Beenden Sie Ihre Radtour entspannt in dieser familienfreundlichen Grünanlage und suchen Sie sich eine schattige Bank, um über die Reise nachzudenken.",
             "hu": "Fejezze be kerékpártúráját ebben a családbarát zöldterületen kikapcsolódva, és válasszon egy árnyékos padot a nap eseményeinek átgondolásához.",
             "ro": "Încheiați-vă turul cu bicicleta relaxându-vă în acest spațiu verde familial, alegând o bancă la umbră pentru a reflecta asupra călătoriei de azi.",
-            "en": "End your cycling tour unwinding in this family-friendly green space, picking a shaded bench near the center to reflect on the day's journey."
+            "en": "End your cycling tour unwinding in this family-friendly green space, picking a shaded bench near the center to reflect on the day's journey.",
+            "fr": "Terminez votre randonnée à vélo en vous relaxant dans cet espace vert familial, en choisissant un banc ombragé près du centre pour réfléchir sur votre journée."
           }
         }
       ],
@@ -452,7 +497,8 @@
         "de": "Der Morgen beginnt mit einer zügigen Radtour durch das historische Stadtzentrum. Mittags erwartet Sie ein energiegeladener Anstieg zum höchsten Punkt der Region, bevor Sie den berühmten Véloscénie-Weg erreichen. Den Nachmittag verbringen Sie damit, das historische Château de Pivot zu bestaunen. Der Abend bringt eine sanfte Abkühlungsfahrt zum friedlichen Stadtpark.",
         "hu": "A reggel egy lendületes kerékpározással indul a történelmi városközpontban. Délben egy energikus mászás vár a régió csúcsára, mielőtt csatlakozna a híres Véloscénie útvonalhoz. A délutánt a lenyűgöző múltú Château de Pivot kastélyának felfedezésével töltheti. Az este egy kellemes, levezető tekeréssel zárul a csendes városi park fái alatt.",
         "ro": "Dimineața debutează cu o plimbare revigorantă cu bicicleta prin centrul istoric. Prânzul oferă o urcare plină de energie către vârful regiunii înainte de a vă alătura traseului faimos Véloscénie. După-amiaza este petrecută admirând istoricul Château de Pivot. Seara aduce o cursă ușoară de relaxare către parcul pașnic al orașului.",
-        "en": "Morning kicks off with a brisk cycle through the historic town center. Midday offers an energetic climb to the region's peak before joining the famous Véloscénie trail. The afternoon is spent marveling at the historic architecture of Château de Pivot. Evening brings a gentle cooldown ride to relax completely in the peaceful city park."
+        "en": "Morning kicks off with a brisk cycle through the historic town center. Midday offers an energetic climb to the region's peak before joining the famous Véloscénie trail. The afternoon is spent marveling at the historic architecture of Château de Pivot. Evening brings a gentle cooldown ride to relax completely in the peaceful city park.",
+        "fr": "La matinée commence par une sortie à vélo tonique à travers le centre historique. À midi, une montée énergique mène au sommet de la région avant de rejoindre la célèbre Véloscénie. L'après-midi est consacré à l'admiration de l'architecture historique du Château de Pivot. Le soir, une balade de récupération vous mène au parc municipal pour une détente complète."
       },
       "variants": {
         "rainy": {
@@ -460,7 +506,8 @@
             "de": "Der Morgen auf dem Rad beginnt am Rathaus bei leichtem Nieselregen. Mittags bietet die Kirche Schutz. Nachmittags geht es auf dem Véloscénie-Radweg weiter, wo man auf nassen Untergrund achten muss. Der Abend klingt im Park aus, wobei man die frische, regnerische Luft und die Ruhe der Natur genießt.",
             "hu": "A kerékpáros reggel a városházánál indul szemerkélő esőben. Délben a templomnál tarthatunk pihenőt fedett helyen. Délután a Véloscénie útvonalon tekerve figyeljünk a csúszós szakaszokra. Az este a városi parkban zárul, ahol az eső utáni friss illat és a nyugalom vár ránk.",
             "ro": "Dimineața pe bicicletă începe la primărie sub o ploaie ușoară. La prânz, biserica oferă adăpost pentru o pauză. După-amiaza, pe traseul Véloscénie, atenția la drumul ud este esențială. Seara se încheie în parcul orașului, bucurându-vă de aerul curat de după ploaie.",
-            "en": "The morning on the bike starts at the Town Hall in light drizzle. At noon, the church offers shelter for a break. In the afternoon, cycling on the Véloscénie route requires extra caution on wet surfaces. The evening ends in the city park, enjoying the fresh air and the peaceful natural surroundings."
+            "en": "The morning on the bike starts at the Town Hall in light drizzle. At noon, the church offers shelter for a break. In the afternoon, cycling on the Véloscénie route requires extra caution on wet surfaces. The evening ends in the city park, enjoying the fresh air and the peaceful natural surroundings.",
+            "fr": "La matinée à vélo débute à la mairie sous une légère pluie fine. À midi, l'église offre un abri pour une pause. L'après-midi, la Véloscénie demande une vigilance accrue sur les surfaces mouillées. La soirée se termine au parc municipal, en profitant de l'air frais et du calme de la nature."
           },
           "stops": [
             {
@@ -468,13 +515,15 @@
                 "de": "Rathaus Limours",
                 "hu": "Limours Városháza",
                 "ro": "Primăria Limours",
-                "en": "Limours Town Hall"
+                "en": "Limours Town Hall",
+                "fr": "Hôtel de ville de Limours"
               },
               "tip_5lang": {
                 "de": "Stellen Sie Ihr Rad unter den Arkaden ab; prüfen Sie vor der Abfahrt Ihre Bremsen, da nasse Beläge die Bremswirkung verzögern.",
                 "hu": "Támassza le kerékpárját az ereszek alá; indulás előtt ellenőrizze a fékeket, mert a vizes felni lassabb fékezést eredményezhet.",
                 "ro": "Parcați bicicleta sub arcade; verificați frânele înainte de plecare, deoarece jantele umede pot reduce eficiența frânării.",
-                "en": "Park your bike under the eaves; check your brakes before departing as wet rims can delay braking response."
+                "en": "Park your bike under the eaves; check your brakes before departing as wet rims can delay braking response.",
+                "fr": "Garez votre vélo sous les avant-toits ; vérifiez vos freins avant de partir car les jantes mouillées peuvent allonger la distance de freinage."
               }
             },
             {
@@ -482,13 +531,15 @@
                 "de": "St. Peter Kirche",
                 "hu": "Szent Péter-templom",
                 "ro": "Biserica Sf. Petru",
-                "en": "Saint-Pierre Church"
+                "en": "Saint-Pierre Church",
+                "fr": "Église Saint-Pierre"
               },
               "tip_5lang": {
                 "de": "Ein idealer Ort für eine Regenpause; im Inneren finden Sie Ruhe, während Ihre Kleidung im Vorraum kurz abtropfen kann.",
                 "hu": "Ideális hely egy esőszünethez; bent nyugalmat talál, miközben a ruházata kicsit megszáradhat az előtérben.",
                 "ro": "Un loc ideal pentru o pauză de ploaie; în interior veți găsi liniște în timp ce hainele se pot scurge puțin în pridvor.",
-                "en": "An ideal spot for a rain break; find peace inside while your gear can briefly drip dry in the entrance area."
+                "en": "An ideal spot for a rain break; find peace inside while your gear can briefly drip dry in the entrance area.",
+                "fr": "Un endroit idéal pour une pause pluie ; trouvez la paix à l'intérieur pendant que votre équipement peut sécher légèrement dans le hall d'entrée."
               }
             },
             {
@@ -496,13 +547,15 @@
                 "de": "Höchster Punkt von Essonne",
                 "hu": "Essonne legmagasabb pontja",
                 "ro": "Cel mai înalt punct din Essonne",
-                "en": "Highest Point of Essonne"
+                "en": "Highest Point of Essonne",
+                "fr": "Point culminant de l'Essonne"
               },
               "tip_5lang": {
                 "de": "Fahren Sie bergauf vorsichtig, da feuchtes Laub auf dem Weg rutschig sein kann; die Aussicht ist auch bei Wolken lohnenswert.",
                 "hu": "Tekerjen óvatosan felfelé, mert a vizes levelek csúszóssá tehetik az utat; a kilátás a felhők közül is emlékezetes marad.",
                 "ro": "Urcați cu atenție deoarece frunzele umede pot fi alunecoase pe drum; vederea merită efortul chiar și prin nori.",
-                "en": "Cycle uphill carefully as wet leaves on the path can be slippery; the view is still rewarding even through the clouds."
+                "en": "Cycle uphill carefully as wet leaves on the path can be slippery; the view is still rewarding even through the clouds.",
+                "fr": "Montez prudemment à vélo car les feuilles mouillées sur le chemin peuvent être glissantes ; la vue vaut toujours le coup même à travers les nuages."
               }
             },
             {
@@ -510,13 +563,15 @@
                 "de": "Véloscénie-Radweg",
                 "hu": "Véloscénie kerékpárút",
                 "ro": "Traseul de biciclete Véloscénie",
-                "en": "Véloscénie Cycle Route"
+                "en": "Véloscénie Cycle Route",
+                "fr": "Route cyclable Véloscénie"
               },
               "tip_5lang": {
                 "de": "Verwenden Sie Schutzbleche, um sich vor Spritzwasser zu schützen; fahren Sie in Kurven langsamer, da der Asphalt glatt sein kann.",
                 "hu": "Használjon sárvédőt a felcsapódó víz ellen; kanyarokban lassítson, mert az aszfalt esőben rendkívül csúszós lehet.",
                 "ro": "Folosiți aripi de protecție împotriva stropilor; încetiniți în curbe deoarece asfaltul poate fi foarte alunecos pe ploaie.",
-                "en": "Use mudguards to protect against splashes; slow down in corners as the asphalt can be quite slippery when wet."
+                "en": "Use mudguards to protect against splashes; slow down in corners as the asphalt can be quite slippery when wet.",
+                "fr": "Utilisez des garde-boue pour vous protéger des éclaboussures ; ralentissez dans les virages car l'asphalte peut être très glissant quand il est mouillé."
               }
             },
             {
@@ -524,13 +579,15 @@
                 "de": "Château de Pivot",
                 "hu": "Château de Pivot",
                 "ro": "Château de Pivot",
-                "en": "Château de Pivot"
+                "en": "Château de Pivot",
+                "fr": "Château de Pivot"
               },
               "tip_5lang": {
                 "de": "Suchen Sie am Eingang Unterstand; die historischen Mauern bieten einen tollen Kontrast zum grauen Regenhimmel für Ihre Fotos.",
                 "hu": "Keressen fedett helyet a bejáratnál; a történelmi falak remek kontrasztot alkotnak a szürke esőfelhőkkel a fotókon.",
                 "ro": "Căutați adăpost la intrare; zidurile istorice oferă un contrast superb cu cerul gri de ploaie pentru fotografiile dvs.",
-                "en": "Look for shelter at the entrance; the historic walls provide a great contrast to the grey rain clouds for your photos."
+                "en": "Look for shelter at the entrance; the historic walls provide a great contrast to the grey rain clouds for your photos.",
+                "fr": "Cherchez un abri près de l'entrée ; les murs historiques offrent un beau contraste avec les nuages de pluie gris pour vos photos."
               }
             },
             {
@@ -538,13 +595,15 @@
                 "de": "Stadtpark",
                 "hu": "Városi park",
                 "ro": "Parcul orașului",
-                "en": "City park"
+                "en": "City park",
+                "fr": "Parc municipal"
               },
               "tip_5lang": {
                 "de": "Halten Sie sich an die asphaltierten Wege, um Matsch zu vermeiden; die Bäume bieten einen natürlichen Schutz vor leichtem Regen.",
                 "hu": "Maradjon az aszfaltozott utakon a sár elkerülése érdekében; a sűrűbb fák természetes védelmet nyújtanak a szemerkélő esőben.",
                 "ro": "Rămâneți pe aleile asfaltate pentru a evita noroiul; copacii oferă o protecție naturală împotriva ploii ușoare.",
-                "en": "Stick to the paved paths to avoid mud; the denser trees provide a natural shield against light drizzle."
+                "en": "Stick to the paved paths to avoid mud; the denser trees provide a natural shield against light drizzle.",
+                "fr": "Restez sur les chemins pavés pour éviter la boue ; les arbres plus denses offrent une protection naturelle contre la bruine légère."
               }
             }
           ]
@@ -554,7 +613,8 @@
             "de": "Der Wintermorgen startet frisch am Rathaus. Mittags wärmt man sich kurz in der Kirche auf. Nachmittags geht es über den Véloscénie-Radweg, wobei man auf Froststellen achten sollte. Da die Sonne bereits um 17:00 Uhr untergeht, erreicht man den Park in der Dämmerung, was eine ganz eigene Stille mit sich bringt.",
             "hu": "Friss téli reggel indul a városházánál. Délben a templomban találhatunk rövid felmelegedést. Délután a Véloscénie úton tekerve ügyeljünk a lefagyott szakaszokra. Mivel 17:00-kor már sötétedik, a parkba már szürkületben érkezünk, ami különleges, néma csendet áraszt a fák között.",
             "ro": "O dimineață de iarnă proaspătă începe la primărie. La prânz, biserica oferă un moment de încălzire. După-amiaza, pe traseul Véloscénie, atenție la porțiunile cu polei. Apusul fiind la ora 17:00, veți ajunge în parc la amurg, bucurându-vă de o liniște aparte.",
-            "en": "A fresh winter morning starts at the Town Hall. At noon, warm up briefly inside the church. In the afternoon, cycle along the Véloscénie route, watching out for icy patches. Since the sun sets by 17:00, you will reach the park at dusk, which brings a unique, hushed silence to the trees."
+            "en": "A fresh winter morning starts at the Town Hall. At noon, warm up briefly inside the church. In the afternoon, cycle along the Véloscénie route, watching out for icy patches. Since the sun sets by 17:00, you will reach the park at dusk, which brings a unique, hushed silence to the trees.",
+            "fr": "Une matinée d'hiver fraîche commence à la mairie. À midi, réchauffez-vous brièvement à l'intérieur de l'église. L'après-midi, empruntez la Véloscénie en surveillant les plaques de verglas. Comme le soleil se couche vers 17:00, vous atteindrez le parc au crépuscule, moment où les arbres plongent dans un silence particulier."
           },
           "stops": [
             {
@@ -562,13 +622,15 @@
                 "de": "Rathaus Limours",
                 "hu": "Limours Városháza",
                 "ro": "Primăria Limours",
-                "en": "Limours Town Hall"
+                "en": "Limours Town Hall",
+                "fr": "Hôtel de ville de Limours"
               },
               "tip_5lang": {
                 "de": "Tragen Sie warme Handschuhe, da der Fahrtwind am Morgen sehr kalt ist; der Platz kann bei Frost recht glatt sein.",
                 "hu": "Viseljen meleg kesztyűt, mert a menetszél reggel nagyon hideg; a tér burkolata fagy esetén csúszós lehet.",
                 "ro": "Purtați mănuși groase deoarece vântul de deplasare este rece; piața poate fi destul de alunecoasă în caz de îngheț.",
-                "en": "Wear warm gloves as the wind chill while riding is very cold; the square's surface can be slippery in frost."
+                "en": "Wear warm gloves as the wind chill while riding is very cold; the square's surface can be slippery in frost.",
+                "fr": "Portez des gants chauds car la sensation de froid en roulant est importante ; la surface de la place peut être glissante sous le gel."
               }
             },
             {
@@ -576,13 +638,15 @@
                 "de": "St. Peter Kirche",
                 "hu": "Szent Péter-templom",
                 "ro": "Biserica Sf. Petru",
-                "en": "Saint-Pierre Church"
+                "en": "Saint-Pierre Church",
+                "fr": "Église Saint-Pierre"
               },
               "tip_5lang": {
                 "de": "Nutzen Sie den Stopp, um die Finger aufzuwärmen; die dicken Mauern halten den Wind ab, auch wenn es innen kühl bleibt.",
                 "hu": "Használja ki a megállót az ujjai felmelegítésére; a vastag falak felfogják a szelet, még ha bent hűvös is marad az idő.",
                 "ro": "Folosiți oprirea pentru a vă încălzi degetele; zidurile groase opresc vântul, chiar dacă în interior rămâne răcoare.",
-                "en": "Use this stop to warm your fingers; the thick walls block the wind, even if it remains cool inside."
+                "en": "Use this stop to warm your fingers; the thick walls block the wind, even if it remains cool inside.",
+                "fr": "Profitez de cet arrêt pour réchauffer vos doigts ; les murs épais bloquent le vent, même si l'intérieur reste frais."
               }
             },
             {
@@ -590,13 +654,15 @@
                 "de": "Höchster Punkt von Essonne",
                 "hu": "Essonne legmagasabb pontja",
                 "ro": "Cel mai înalt punct din Essonne",
-                "en": "Highest Point of Essonne"
+                "en": "Highest Point of Essonne",
+                "fr": "Point culminant de l'Essonne"
               },
               "tip_5lang": {
                 "de": "Der Aufstieg hält warm, aber oben am Aussichtspunkt zieht es kalt; ziehen Sie für die Abfahrt eine winddichte Jacke über.",
                 "hu": "A felfelé tekerés melegen tart, de a kilátóponton hideg a szél; a lejtmenethez mindenképp húzzon fel szélálló dzsekit.",
                 "ro": "Urcarea vă va încălzi, dar sus la belvedere vântul este rece; puneți-vă o jachetă rezistentă la vânt pentru coborâre.",
-                "en": "The climb will keep you warm, but it's cold at the viewpoint; put on a windproof jacket for the descent."
+                "en": "The climb will keep you warm, but it's cold at the viewpoint; put on a windproof jacket for the descent.",
+                "fr": "La montée vous réchauffera, mais il fait froid au belvédère ; enfilez une veste coupe-vent pour la descente."
               }
             },
             {
@@ -604,13 +670,15 @@
                 "de": "Véloscénie-Radweg",
                 "hu": "Véloscénie kerékpárút",
                 "ro": "Traseul de biciclete Véloscénie",
-                "en": "Véloscénie Cycle Route"
+                "en": "Véloscénie Cycle Route",
+                "fr": "Route cyclable Véloscénie"
               },
               "tip_5lang": {
                 "de": "Achten Sie auf Raureif in schattigen Waldabschnitten; fahren Sie vorausschauend, da der Boden im Winter oft rutschiger ist.",
                 "hu": "Ügyeljen a dérre az árnyékos erdei szakaszokon; vezessen előrelátóan, mert a talaj télen gyakran csúszósabb az átlagosnál.",
                 "ro": "Atenție la chiciura din porțiunile umbrite de pădure; pedalați cu prudență, deoarece solul este adesea mai alunecos iarna.",
-                "en": "Watch out for hoarfrost in shaded forest sections; ride defensively as the ground is often more slippery in winter."
+                "en": "Watch out for hoarfrost in shaded forest sections; ride defensively as the ground is often more slippery in winter.",
+                "fr": "Attention au givre dans les sections forestières ombragées ; roulez en mode défensif car le sol est souvent plus glissant en hiver."
               }
             },
             {
@@ -618,13 +686,15 @@
                 "de": "Château de Pivot",
                 "hu": "Château de Pivot",
                 "ro": "Château de Pivot",
-                "en": "Château de Pivot"
+                "en": "Château de Pivot",
+                "fr": "Château de Pivot"
               },
               "tip_5lang": {
                 "de": "Das Schloss wirkt im harten Winterlicht besonders scharf; besuchen Sie es frühzeitig, um das Tageslicht optimal zu nutzen.",
                 "hu": "A kastély a kemény téli fényekben különösen élesen rajzolódik ki; látogassa meg korán, hogy kihasználja a kevés napfényt.",
                 "ro": "Castelul pare foarte impunător în lumina rece de iarnă; vizitați-l devreme pentru a profita de lumina naturală puțină.",
-                "en": "The castle appears especially sharp in the harsh winter light; visit early to make the most of the limited daylight."
+                "en": "The castle appears especially sharp in the harsh winter light; visit early to make the most of the limited daylight.",
+                "fr": "Le château apparaît particulièrement net sous la lumière hivernale vive ; visitez-le tôt pour profiter au mieux de la faible durée du jour."
               }
             },
             {
@@ -632,13 +702,15 @@
                 "de": "Stadtpark",
                 "hu": "Városi park",
                 "ro": "Parcul orașului",
-                "en": "City park"
+                "en": "City park",
+                "fr": "Parc municipal"
               },
               "tip_5lang": {
                 "de": "Bei Dämmerung ist eine gute Fahrradbeleuchtung im Park wichtig; genießen Sie die klare Winterluft vor der Rückfahrt.",
                 "hu": "Szürkületben elengedhetetlen a jó kerékpáros világítás a parkban; élvezze a tiszta téli levegőt a hazaút előtt.",
                 "ro": "La amurg, o iluminare bună a bicicletei este esențială în parc; bucurați-vă de aerul curat de iarnă înainte de plecare.",
-                "en": "At dusk, good bike lighting is essential in the park; enjoy the crisp winter air before your return journey."
+                "en": "At dusk, good bike lighting is essential in the park; enjoy the crisp winter air before your return journey.",
+                "fr": "Au crépuscule, un bon éclairage pour vélo est essentiel dans le parc ; profitez de l'air vif de l'hiver avant le retour."
               }
             }
           ]
@@ -658,7 +730,8 @@
             "de": "St. Medardus Kirche",
             "hu": "Szent Medárd-templom",
             "ro": "Biserica Sf. Medard",
-            "en": "Saint-Médard Church"
+            "en": "Saint-Médard Church",
+            "fr": "Église Saint-Médard"
           },
           "coords": [
             2.048995,
@@ -673,7 +746,8 @@
             "de": "Starten Sie Ihre Autotour an dieser ruhigen Dorfkirche, um ländliche Beschaulichkeit zu erleben, und nutzen Sie den kleinen Parkplatz nebenan.",
             "hu": "Kezdje autós túráját ennél a csendes falusi templomnál a vidéki nyugalomért, a szomszédos kis parkolót használva a stresszmentes látogatáshoz.",
             "ro": "Începeți turul auto la această biserică liniștită pentru a experimenta liniștea rurală, utilizând mica parcare adiacentă pentru o vizită calmă.",
-            "en": "Start your driving tour at this quiet village church to experience rural tranquility, utilizing the small adjacent parking lot for a stress-free visit."
+            "en": "Start your driving tour at this quiet village church to experience rural tranquility, utilizing the small adjacent parking lot for a stress-free visit.",
+            "fr": "Commencez votre circuit en voiture par cette église de village tranquille pour goûter à la sérénité rurale, en utilisant le petit parking adjacent pour une visite sans stress."
           }
         },
         {
@@ -681,7 +755,8 @@
             "de": "Rathaus Limours",
             "hu": "Limours Városháza",
             "ro": "Primăria Limours",
-            "en": "Limours Town Hall"
+            "en": "Limours Town Hall",
+            "fr": "Hôtel de ville de Limours"
           },
           "coords": [
             2.075912,
@@ -696,7 +771,8 @@
             "de": "Fahren Sie nach Limours, um das lebendige zivile Zentrum zu sehen, und achten Sie auf Marktzeiten, die die Parkplatzverfügbarkeit beeinflussen können.",
             "hu": "Vezessen Limours-ba, hogy megnézze nyüzsgő központját, figyelve a helyi piacok nyitvatartására, amelyek befolyásolhatják a parkolóhelyek számát.",
             "ro": "Conduceți în Limours pentru a vedea inima sa civică, acordând atenție programului pieței locale care ar putea afecta locurile de parcare pe stradă.",
-            "en": "Drive into Limours to see its bustling civic heart, paying attention to the local market schedules that might affect street parking availability."
+            "en": "Drive into Limours to see its bustling civic heart, paying attention to the local market schedules that might affect street parking availability.",
+            "fr": "Rendez-vous en voiture à Limours pour voir son cœur civique animé, en tenant compte des horaires du marché qui peuvent gêner le stationnement dans la rue."
           }
         },
         {
@@ -704,7 +780,8 @@
             "de": "St. Peter Kirche",
             "hu": "Szent Péter-templom",
             "ro": "Biserica Sf. Petru",
-            "en": "Saint-Pierre Church"
+            "en": "Saint-Pierre Church",
+            "fr": "Église Saint-Pierre"
           },
           "coords": [
             2.07773,
@@ -719,7 +796,8 @@
             "de": "Betreten Sie diese zentrale Kirche, um ihre historische Aufteilung zu bewundern, und nutzen Sie nahegelegene Parkplätze für eine kurze Platzbesichtigung.",
             "hu": "Lépjen be ebbe a központi templomba a történelmi elrendezés megcsodálásához, kihasználva a közeli parkolókat a főtér gyors felfedezésére.",
             "ro": "Pășiți în această biserică centrală pentru a-i admira structura istorică, profitând de parcarea stradală din apropiere pentru a explora piața.",
-            "en": "Step inside this central church to admire its historic layout, taking advantage of nearby street parking to briefly explore the town square."
+            "en": "Step inside this central church to admire its historic layout, taking advantage of nearby street parking to briefly explore the town square.",
+            "fr": "Entrez dans cette église centrale pour admirer son agencement historique, en profitant du stationnement de rue à proximité pour explorer brièvement la place."
           }
         },
         {
@@ -727,7 +805,8 @@
             "de": "Château de Pivot",
             "hu": "Château de Pivot",
             "ro": "Château de Pivot",
-            "en": "Château de Pivot"
+            "en": "Château de Pivot",
+            "fr": "Château de Pivot"
           },
           "coords": [
             2.101223,
@@ -742,7 +821,8 @@
             "de": "Fahren Sie etwas nach Osten zu diesem großen Schloss, und machen Sie ungestörte Fotos vom Haupttor aus, wo die Sicht am besten ist.",
             "hu": "Utazzon egy kicsit keletre ehhez a nagyszerű kastélyhoz, és készítsen fotókat a főkaputól, ahonnan a kilátás teljesen zavartalan.",
             "ro": "Călătoriți ușor spre est către acest castel grandios, făcând fotografii grozave de la poarta principală, unde vederea este neobstrucționată.",
-            "en": "Travel slightly east to this grand castle to appreciate its commanding presence, capturing photos from the main gate where the view is unobstructed."
+            "en": "Travel slightly east to this grand castle to appreciate its commanding presence, capturing photos from the main gate where the view is unobstructed.",
+            "fr": "Rendez-vous légèrement à l'est pour ce grand château afin d'apprécier sa présence imposante, en prenant des photos depuis la porte principale où la vue est dégagée."
           }
         },
         {
@@ -750,7 +830,8 @@
             "de": "Château de Forges-les-Bains",
             "hu": "Château de Forges-les-Bains",
             "ro": "Château de Forges-les-Bains",
-            "en": "Château de Forges-les-Bains"
+            "en": "Château de Forges-les-Bains",
+            "fr": "Château de Forges-les-Bains"
           },
           "coords": [
             2.098567,
@@ -765,7 +846,8 @@
             "de": "Fahren Sie nach Süden, um dieses prächtige, naturverbundene Schloss zu erkunden, und prüfen Sie bei Ankunft die Zeiten für geführte Touren.",
             "hu": "Induljon délre, hogy felfedezze ezt a természet lágy ölén fekvő kastélyt, érkezéskor ellenőrizve az információs táblát a vezetett túrákért.",
             "ro": "Îndreptați-vă spre sud pentru a explora acest castel magnific din mijlocul naturii, verificând panoul de informații pentru orele de vizitare.",
-            "en": "Head south to explore this magnificent castle set amidst nature, checking the visitor information board upon arrival for guided tour timings."
+            "en": "Head south to explore this magnificent castle set amidst nature, checking the visitor information board upon arrival for guided tour timings.",
+            "fr": "Dirigez-vous vers le sud pour explorer ce magnifique château au milieu de la nature, en consultant le panneau d'information à l'arrivée pour les horaires des visites guidées."
           }
         },
         {
@@ -773,7 +855,8 @@
             "de": "Mariä-Himmelfahrt-Kirche",
             "hu": "Szűz Mária Mennybemenetele templom",
             "ro": "Biserica Adormirea Maicii Domnului",
-            "en": "Church of the Assumption of the Virgin"
+            "en": "Church of the Assumption of the Virgin",
+            "fr": "Église de l'Assomption de la Vierge"
           },
           "coords": [
             2.098468,
@@ -788,7 +871,8 @@
             "de": "Besuchen Sie diese ruhige, der Jungfrau Maria gewidmete Kirche und beachten Sie die schönen Altardetails, die tiefe lokale Traditionen widerspiegeln.",
             "hu": "Látogasson el ebbe a Szűz Máriának szentelt békés templomba, megfigyelve az oltár gyönyörű részleteit, amelyek a mély helyi hagyományokat tükrözik.",
             "ro": "Vizitați această biserică senină dedicată Fecioarei Maria, remarcând detaliile frumoase ale altarului care reflectă tradiții religioase profunde.",
-            "en": "Visit this serene church dedicated to the Virgin Mary, noting the beautiful altar details that reflect deep-rooted local religious traditions."
+            "en": "Visit this serene church dedicated to the Virgin Mary, noting the beautiful altar details that reflect deep-rooted local religious traditions.",
+            "fr": "Visitez cette église sereine dédiée à la Vierge Marie, en notant les beaux détails de l'autel qui reflètent de profondes traditions religieuses locales."
           }
         },
         {
@@ -796,7 +880,8 @@
             "de": "Stadtpark",
             "hu": "Városi park",
             "ro": "Parcul orașului",
-            "en": "City park"
+            "en": "City park",
+            "fr": "Parc municipal"
           },
           "coords": [
             2.099608,
@@ -811,7 +896,8 @@
             "de": "Beenden Sie Ihren Roadtrip mit einem entspannenden Spaziergang durch den Park, nutzen Sie den großen Hauptparkplatz und suchen Sie sich einen ruhigen Ort.",
             "hu": "Zárja autós útját egy pihentető sétával a helyi parkban, a tágas fő parkolót használva, mielőtt keresne egy csendes helyet a naplementéhez.",
             "ro": "Încheiați-vă călătoria cu o plimbare relaxantă prin parcul local, utilizând parcarea principală spațioasă înainte de a găsi un loc liniștit.",
-            "en": "Conclude your road trip with a relaxing stroll through the local park, using the spacious main lot before finding a quiet spot to watch the sunset."
+            "en": "Conclude your road trip with a relaxing stroll through the local park, using the spacious main lot before finding a quiet spot to watch the sunset.",
+            "fr": "Concluez votre road trip par une promenade relaxante dans le parc local, en utilisant le grand parking principal avant de trouver un endroit tranquille pour regarder le coucher du soleil."
           }
         }
       ],
@@ -819,7 +905,8 @@
         "de": "Der Morgen beginnt mit einer landschaftlich reizvollen Fahrt zu den westlichen Dorfkirchen, bevor es zurück in den Kern von Limours geht. Mittags verlagert sich die Route nach Osten zum majestätischen Château de Pivot. Der Nachmittag bietet einen Ausflug in den Süden nach Forges-les-Bains und zu seinen Wahrzeichen. Der Abend klingt perfekt mit einem friedlichen Halt im Stadtpark aus.",
         "hu": "A reggel egy festői autózással indul a nyugati falu templomaihoz, majd visszatér Limours nyüzsgő központjába. Délben az út kelet felé, a fenséges Château de Pivot felé veszi az irányt. A délután egy déli kirándulást tartogat Forges-les-Bains-be és annak kiemelkedő nevezetességeihez. Az este a városi park békés zöldjében csendesedik el.",
         "ro": "Dimineața începe cu o plimbare pitorească spre bisericile din satele vestice înainte de a reveni în centrul Limours. Prânzul se mută spre est pentru a explora maiestuosul Château de Pivot. După-amiaza prezintă o excursie sudică la Forges-les-Bains și reperele sale remarcabile. Seara se încheie perfect cu o oprire pașnică la parcul orașului.",
-        "en": "Morning begins with a scenic drive to the western village churches before returning to the civic core of Limours. Midday shifts east to thoroughly explore the majestic Château de Pivot. The afternoon features a southern excursion to Forges-les-Bains and its remarkable local landmarks. Evening winds down perfectly with a peaceful stop at the local city park."
+        "en": "Morning begins with a scenic drive to the western village churches before returning to the civic core of Limours. Midday shifts east to thoroughly explore the majestic Château de Pivot. The afternoon features a southern excursion to Forges-les-Bains and its remarkable local landmarks. Evening winds down perfectly with a peaceful stop at the local city park.",
+        "fr": "La matinée commence par une route panoramique vers les églises du village occidental avant de revenir au cœur civique de Limours. À midi, on se dirige vers l'est pour explorer en profondeur le majestueux Château de Pivot. L'après-midi propose une excursion au sud vers Forges-les-Bains et ses sites remarquables. La soirée se termine idéalement par une halte paisible au parc municipal."
       },
       "variants": {
         "rainy": {
@@ -827,7 +914,8 @@
             "de": "Die Autotour beginnt morgens an der St. Medardus Kirche. Mittags steuern wir das Rathaus und die St. Peter Kirche an, wobei wir direkt in der Nähe parken können. Nachmittags geht es zu den Schlössern, die im Regen eine stolze Ruhe ausstrahlen. Der Abend endet im Stadtpark, wo man die regnerische Natur bequem vom Auto oder bei einem kurzen Gang genießen kann.",
             "hu": "Az autós túra reggel a Szent Medárd-templomnál indul. Délben a városháza és a Szent Péter-templom környékén parkolhatunk kényelmesen az eső elől. Délután a kastélyok következnek, melyek méltóságteljesen dacolnak az elemekkel. Az este a városi parkban zárul, ahol az autóból is gyönyörködhetünk a vizes tájban.",
             "ro": "Turul cu mașina începe dimineața la biserica Sf. Medard. La prânz, vizităm primăria și biserica Sf. Petru, cu parcare facilă aproape de intrare. După-amiaza este dedicată castelelor, care emană o liniște mândră în ploaie. Seara se încheie în parcul orașului, admirând peisajul ud din confortul mașinii.",
-            "en": "The car tour begins in the morning at Saint-Médard Church. At noon, we head to the Town Hall and Saint-Pierre Church, parking conveniently close by. In the afternoon, we visit the castles, which exude a proud calm in the rain. The evening concludes in the city park, where you can enjoy the rainy scenery from the comfort of your car."
+            "en": "The car tour begins in the morning at Saint-Médard Church. At noon, we head to the Town Hall and Saint-Pierre Church, parking conveniently close by. In the afternoon, we visit the castles, which exude a proud calm in the rain. The evening concludes in the city park, where you can enjoy the rainy scenery from the comfort of your car.",
+            "fr": "La visite en voiture commence le matin à l'église Saint-Médard. À midi, nous allons à la mairie et à l'église Saint-Pierre, en nous garant à proximité. L'après-midi, nous visitons les châteaux, qui dégagent un calme fier sous la pluie. La soirée se conclut au parc municipal, où vous pouvez profiter du paysage pluvieux depuis le confort de votre voiture."
           },
           "stops": [
             {
@@ -835,13 +923,15 @@
                 "de": "St. Medardus Kirche",
                 "hu": "Szent Medárd-templom",
                 "ro": "Biserica Sf. Medard",
-                "en": "Saint-Médard Church"
+                "en": "Saint-Médard Church",
+                "fr": "Église Saint-Médard"
               },
               "tip_5lang": {
                 "de": "Parken Sie nah am Eingang, um den Regenweg kurz zu halten; im Inneren finden Sie einen trockenen Ort für stille Besinnung.",
                 "hu": "Parkoljon minél közelebb a bejárathoz, hogy elkerülje az ázást; bent száraz és csendes helyet talál az elmélyüléshez.",
                 "ro": "Parcați aproape de intrare pentru a evita ploaia; în interior veți găsi un loc uscat și liniștit pentru meditație.",
-                "en": "Park close to the entrance to minimize time in the rain; inside you will find a dry and quiet place for reflection."
+                "en": "Park close to the entrance to minimize time in the rain; inside you will find a dry and quiet place for reflection.",
+                "fr": "Garez-vous près de l'entrée pour réduire le temps passé sous la pluie ; à l'intérieur vous trouverez un lieu sec et calme pour la réflexion."
               }
             },
             {
@@ -849,13 +939,15 @@
                 "de": "Rathaus Limours",
                 "hu": "Limours Városháza",
                 "ro": "Primăria Limours",
-                "en": "Limours Town Hall"
+                "en": "Limours Town Hall",
+                "fr": "Hôtel de ville de Limours"
               },
               "tip_5lang": {
                 "de": "Nutzen Sie die Parkplätze am Platz für einen schnellen Blick auf die Architektur; achten Sie beim Aussteigen auf Pfützen.",
                 "hu": "Használja a tér környéki parkolókat egy gyors építészeti szemléhez; kiszálláskor ügyeljen az összegyűlt tócsákra.",
                 "ro": "Folosiți locurile de parcare din piață pentru o vedere rapidă a arhitecturii; atenție la bălți când coborâți din mașină.",
-                "en": "Use the parking spots around the square for a quick look at the architecture; watch out for puddles when exiting the car."
+                "en": "Use the parking spots around the square for a quick look at the architecture; watch out for puddles when exiting the car.",
+                "fr": "Utilisez les places autour de la place pour un rapide aperçu de l'architecture ; faites attention aux flaques en sortant de la voiture."
               }
             },
             {
@@ -863,13 +955,15 @@
                 "de": "St. Peter Kirche",
                 "hu": "Szent Péter-templom",
                 "ro": "Biserica Sf. Petru",
-                "en": "Saint-Pierre Church"
+                "en": "Saint-Pierre Church",
+                "fr": "Église Saint-Pierre"
               },
               "tip_5lang": {
                 "de": "Ein schöner Stopp, um dem Regen für eine Weile zu entkommen; bewundern Sie die Details des Portals im Schutz Ihres Regenschirms.",
                 "hu": "Remek megálló, hogy egy időre elmeneküljön az eső elől; az esernyője alatt állva csodálja meg a kapu finom részleteit.",
                 "ro": "O oprire excelentă pentru a scăpa de ploaie; admirați detaliile portalului protejat de umbrelă în drum spre intrare.",
-                "en": "A great stop to escape the rain for a while; admire the portal's details protected by your umbrella on the way in."
+                "en": "A great stop to escape the rain for a while; admire the portal's details protected by your umbrella on the way in.",
+                "fr": "Un excellent arrêt pour échapper à la pluie un moment ; admirez les détails du portail protégés par votre parapluie en entrant."
               }
             },
             {
@@ -877,13 +971,15 @@
                 "de": "Château de Pivot",
                 "hu": "Château de Pivot",
                 "ro": "Château de Pivot",
-                "en": "Château de Pivot"
+                "en": "Château de Pivot",
+                "fr": "Château de Pivot"
               },
               "tip_5lang": {
                 "de": "Die Anfahrt bietet tolle Ausblicke auf das Schloss im Regen; halten Sie die Kamera bereit für stimmungsvolle Fotos vom Parkplatz aus.",
                 "hu": "Az autós megközelítés remek kilátást nyújt az eső áztatta kastélyra; készítse elő kameráját a hangulatos parkolóból lőtt fotókhoz.",
                 "ro": "Accesul cu mașina oferă vederi superbe asupra castelului în ploaie; pregătiți camera pentru fotografii de atmosferă din parcare.",
-                "en": "The approach by car offers great views of the rain-soaked castle; have your camera ready for atmospheric shots from the parking area."
+                "en": "The approach by car offers great views of the rain-soaked castle; have your camera ready for atmospheric shots from the parking area.",
+                "fr": "L'approche en voiture offre de belles vues sur le château trempé de pluie ; ayez votre appareil photo prêt pour des clichés atmosphériques depuis le parking."
               }
             },
             {
@@ -891,13 +987,15 @@
                 "de": "Château de Forges-les-Bains",
                 "hu": "Château de Forges-les-Bains",
                 "ro": "Château de Forges-les-Bains",
-                "en": "Château de Forges-les-Bains"
+                "en": "Château de Forges-les-Bains",
+                "fr": "Château de Forges-les-Bains"
               },
               "tip_5lang": {
                 "de": "Parken Sie bequem in der Nähe und genießen Sie den Anblick des imposanten Gebäudes, das auch bei schlechtem Wetter beeindruckt.",
                 "hu": "Parkoljon kényelmesen a közelben, és élvezze az impozáns épület látványát, amely rossz időben is tekintélyt parancsoló.",
                 "ro": "Parcați confortabil în apropiere și bucurați-vă de vederea clădirii impunătoare, care impresionează și pe vreme rea.",
-                "en": "Park comfortably nearby and enjoy the view of the imposing building, which remains impressive even in poor weather."
+                "en": "Park comfortably nearby and enjoy the view of the imposing building, which remains impressive even in poor weather.",
+                "fr": "Garez-vous confortablement à proximité et profitez de la vue sur l'imposant bâtiment, qui reste impressionnant même par mauvais temps."
               }
             },
             {
@@ -905,13 +1003,15 @@
                 "de": "Mariä-Himmelfahrt-Kirche",
                 "hu": "Szűz Mária Mennybemenetele templom",
                 "ro": "Biserica Adormirea Maicii Domnului",
-                "en": "Church of the Assumption of the Virgin"
+                "en": "Church of the Assumption of the Virgin",
+                "fr": "Église de l'Assomption de la Vierge"
               },
               "tip_5lang": {
                 "de": "Besuchen Sie diesen ruhigen Ort für eine Pause im Trockenen; die Akustik im Inneren ist bei Regen besonders beruhigend.",
                 "hu": "Látogassa meg ezt a csendes helyet egy száraz pihenőre; a belső akusztika esőben különösen megnyugtató élményt nyújt.",
                 "ro": "Vizitați acest loc liniștit pentru o pauză la uscat; acustica interioară este deosebit de calmantă când plouă afară.",
-                "en": "Visit this quiet spot for a dry break; the interior acoustics are particularly soothing while it's raining outside."
+                "en": "Visit this quiet spot for a dry break; the interior acoustics are particularly soothing while it's raining outside.",
+                "fr": "Visitez ce lieu calme pour une pause au sec ; l'acoustique intérieure est particulièrement apaisante pendant la pluie."
               }
             },
             {
@@ -919,13 +1019,15 @@
                 "de": "Stadtpark",
                 "hu": "Városi park",
                 "ro": "Parcul orașului",
-                "en": "City park"
+                "en": "City park",
+                "fr": "Parc municipal"
               },
               "tip_5lang": {
                 "de": "Genießen Sie das satte Grün des Parks vom Auto aus; bei einer kurzen Regenpause lohnt sich ein kleiner Gang auf den befestigten Wegen.",
                 "hu": "Élvezze a park harsány zöld színeit az autóból; az eső elálltakor tegyen egy rövid sétát a jól kiépített, szilárd utakon.",
                 "ro": "Admirați verdele crud al parcului din mașină; la o scurtă pauză de ploaie, merită o mică plimbare pe aleile pavate.",
-                "en": "Enjoy the park's lush green colors from the car; if the rain lets up, a short walk on the paved paths is worth it."
+                "en": "Enjoy the park's lush green colors from the car; if the rain lets up, a short walk on the paved paths is worth it.",
+                "fr": "Appréciez les couleurs vertes du parc depuis la voiture ; si la pluie faiblit, une courte promenade sur les chemins pavés en vaut la peine."
               }
             }
           ]
@@ -935,7 +1037,8 @@
             "de": "Ein klarer Wintermorgen beginnt an der St. Medardus Kirche. Mittags besuchen wir das Zentrum von Limours, wobei die Sitzheizung im Auto willkommen ist. Nachmittags geht es zu den historischen Schlössern in der frostigen Landschaft. Da es um 17:00 Uhr dunkel wird, bietet der Stadtpark einen stimmungsvollen Abschluss im Licht der Scheinwerfer.",
             "hu": "Tiszta téli reggel indul a Szent Medárd-templomnál. Délben Limours központját látogatjuk meg, ahol jól jön az autó fűtése a megállók között. Délután a fagyos tájban álló történelmi kastélyokat keressük fel. Mivel 17:00-kor sötétedik, a park látványa már az autó fényszóróinak fényében köszön el tőlünk.",
             "ro": "O dimineață senină de iarnă începe la biserica Sf. Medard. La prânz vizităm centrul orașului Limours, încălzirea din mașină fiind binevenită. După-amiaza mergem spre castelele istorice în peisajul înghețat. Apusul fiind la ora 17:00, parcul oferă un final atmosferic în lumina farurilor.",
-            "en": "A clear winter morning begins at Saint-Médard Church. At noon, we visit Limours center, where car heating is welcome between stops. In the afternoon, we head to the historic castles in the frosty landscape. With darkness falling at 17:00, the park provides an atmospheric conclusion in the glow of the headlights."
+            "en": "A clear winter morning begins at Saint-Médard Church. At noon, we visit Limours center, where car heating is welcome between stops. In the afternoon, we head to the historic castles in the frosty landscape. With darkness falling at 17:00, the park provides an atmospheric conclusion in the glow of the headlights.",
+            "fr": "Une claire matinée d'hiver commence à l'église Saint-Médard. À midi, nous visitons le centre de Limours, où le chauffage de la voiture est bienvenu entre les arrêts. L'après-midi, nous nous dirigeons vers les châteaux historiques dans le paysage givré. Avec la nuit qui tombe à 17:00, le parc offre une conclusion atmosphérique dans la lueur des phares."
           },
           "stops": [
             {
@@ -943,13 +1046,15 @@
                 "de": "St. Medardus Kirche",
                 "hu": "Szent Medárd-templom",
                 "ro": "Biserica Sf. Medard",
-                "en": "Saint-Médard Church"
+                "en": "Saint-Médard Church",
+                "fr": "Église Saint-Médard"
               },
               "tip_5lang": {
                 "de": "Achten Sie auf Parkplätze ohne Glatteis; im Inneren ist es kühl, daher sollten Sie für die Besichtigung warm angezogen bleiben.",
                 "hu": "Keressen jégmentes parkolót a közelben; bent hűvös az idő, így maradjon meleg öltözetben a templomlátogatás során is.",
                 "ro": "Căutați locuri de parcare fără gheață; în interior este răcoare, deci rămâneți bine îmbrăcat pe durata vizitei.",
-                "en": "Look for parking spots without ice; it's cool inside, so stay warmly dressed throughout your visit to the church."
+                "en": "Look for parking spots without ice; it's cool inside, so stay warmly dressed throughout your visit to the church.",
+                "fr": "Cherchez des places de parking sans verglas ; il fait frais à l'intérieur, donc restez bien couverts pendant toute la visite de l'église."
               }
             },
             {
@@ -957,13 +1062,15 @@
                 "de": "Rathaus Limours",
                 "hu": "Limours Városháza",
                 "ro": "Primăria Limours",
-                "en": "Limours Town Hall"
+                "en": "Limours Town Hall",
+                "fr": "Hôtel de ville de Limours"
               },
               "tip_5lang": {
                 "de": "Das Rathaus leuchtet schön in der Wintersonne; nutzen Sie den kurzen Weg vom Auto, um die Details der Fassade zu bewundern.",
                 "hu": "A városháza gyönyörűen csillog a téli napsütésben; használja ki a rövid sétát az autótól a homlokzat részleteinek megfigyelésére.",
                 "ro": "Primăria strălucește frumos în soarele de iarnă; profitați de drumul scurt de la mașină pentru a admira detaliile fațadei.",
-                "en": "The Town Hall glows beautifully in the winter sun; take advantage of the short walk from the car to admire the facade details."
+                "en": "The Town Hall glows beautifully in the winter sun; take advantage of the short walk from the car to admire the facade details.",
+                "fr": "L'hôtel de ville resplendit au soleil d'hiver ; profitez de la courte marche depuis la voiture pour admirer les détails de la façade."
               }
             },
             {
@@ -971,13 +1078,15 @@
                 "de": "St. Peter Kirche",
                 "hu": "Szent Péter-templom",
                 "ro": "Biserica Sf. Petru",
-                "en": "Saint-Pierre Church"
+                "en": "Saint-Pierre Church",
+                "fr": "Église Saint-Pierre"
               },
               "tip_5lang": {
                 "de": "Die dicken Steinmauern schützen vor dem Winterwind; parken Sie direkt am Rand des Platzes für den besten Zugang.",
                 "hu": "A vastag kőfalak jól védenek a téli szél ellen; parkoljon közvetlenül a tér szélén a legkönnyebb bejutás érdekében.",
                 "ro": "Zidurile groase de piatră protejează de vântul de iarnă; parcați direct la marginea pieței pentru cel mai facil acces.",
-                "en": "The thick stone walls protect against the winter wind; park directly at the edge of the square for the easiest access."
+                "en": "The thick stone walls protect against the winter wind; park directly at the edge of the square for the easiest access.",
+                "fr": "Les murs épais en pierre protègent du vent d'hiver ; garez-vous directement au bord de la place pour un accès facilité."
               }
             },
             {
@@ -985,13 +1094,15 @@
                 "de": "Château de Pivot",
                 "hu": "Château de Pivot",
                 "ro": "Château de Pivot",
-                "en": "Château de Pivot"
+                "en": "Château de Pivot",
+                "fr": "Château de Pivot"
               },
               "tip_5lang": {
                 "de": "Genießen Sie die winterliche Schlosslandschaft bequem durch die Autoscheiben, bevor Sie für einen kurzen Fotostopp aussteigen.",
                 "hu": "Élvezze a téli kastélytáj látványát az autó ablakából, mielőtt kiszállna egy rövid, frissítő fotószünetre a hidegben.",
                 "ro": "Bucurați-vă de peisajul de iarnă al castelului din mașină, înainte de a coborî pentru o scurtă sesiune foto în frig.",
-                "en": "Enjoy the winter castle landscape from the comfort of your car before stepping out for a quick photo stop in the cold."
+                "en": "Enjoy the winter castle landscape from the comfort of your car before stepping out for a quick photo stop in the cold.",
+                "fr": "Appréciez le paysage hivernal du château depuis le confort de votre voiture avant de sortir pour un arrêt photo rapide dans le froid."
               }
             },
             {
@@ -999,13 +1110,15 @@
                 "de": "Château de Forges-les-Bains",
                 "hu": "Château de Forges-les-Bains",
                 "ro": "Château de Forges-les-Bains",
-                "en": "Château de Forges-les-Bains"
+                "en": "Château de Forges-les-Bains",
+                "fr": "Château de Forges-les-Bains"
               },
               "tip_5lang": {
                 "de": "Die Anfahrt durch die kahlen Alleen ist im Winter besonders reizvoll; achten Sie auf mögliche Glätte auf den Zufahrtsstraßen.",
                 "hu": "A kopár fasorokon át vezető út télen különösen látványos; ügyeljen az esetleges jegesedésre a kastélyhoz vezető mellékutakon.",
                 "ro": "Drumul prin aleile golașe este deosebit de pitoresc iarna; atenție la posibilele porțiuni cu gheață pe drumul de acces.",
-                "en": "The drive through the bare avenues is particularly scenic in winter; watch out for possible ice on the access roads."
+                "en": "The drive through the bare avenues is particularly scenic in winter; watch out for possible ice on the access roads.",
+                "fr": "La route à travers les avenues dénudées est particulièrement pittoresque en hiver ; méfiez-vous du verglas possible sur les voies d'accès."
               }
             },
             {
@@ -1013,13 +1126,15 @@
                 "de": "Mariä-Himmelfahrt-Kirche",
                 "hu": "Szűz Mária Mennybemenetele templom",
                 "ro": "Biserica Adormirea Maicii Domnului",
-                "en": "Church of the Assumption of the Virgin"
+                "en": "Church of the Assumption of the Virgin",
+                "fr": "Église de l'Assomption de la Vierge"
               },
               "tip_5lang": {
                 "de": "Ein idealer Ort für eine besinnliche Pause in der Kälte; die Parkmöglichkeiten in der Nähe machen den Besuch sehr komfortabel.",
                 "hu": "Ideális hely egy csendes pihenőre a nagy hidegben; a közeli parkolási lehetőség kényelmessé teszi a látogatást.",
                 "ro": "Un loc ideal pentru o pauză liniștită în gerul iernii; posibilitatea de parcare în apropiere face vizita foarte confortabilă.",
-                "en": "An ideal spot for a quiet break in the deep cold; the nearby parking options make the visit very convenient."
+                "en": "An ideal spot for a quiet break in the deep cold; the nearby parking options make the visit very convenient.",
+                "fr": "Un endroit idéal pour une pause tranquille par grand froid ; les options de parking à proximité rendent la visite très pratique."
               }
             },
             {
@@ -1027,13 +1142,15 @@
                 "de": "Stadtpark",
                 "hu": "Városi park",
                 "ro": "Parcul orașului",
-                "en": "City park"
+                "en": "City park",
+                "fr": "Parc municipal"
               },
               "tip_5lang": {
                 "de": "Da es früh dunkel wird, ist die Abendstimmung im Park mit Scheinwerfern sehr besonders; genießen Sie die Ruhe vor der Heimfahrt.",
                 "hu": "Mivel korán sötétedik, a park esti hangulata az autó fényeivel különleges; élvezze a csendet a hazaindulás előtt.",
                 "ro": "Deoarece se întunecă devreme, atmosfera de seară din parc este specială; bucurați-vă de liniște înainte de plecare.",
-                "en": "Since it gets dark early, the park's evening atmosphere is special; enjoy the silence before your drive home."
+                "en": "Since it gets dark early, the park's evening atmosphere is special; enjoy the silence before your drive home.",
+                "fr": "Comme il fait nuit tôt, l'atmosphère du parc en soirée est particulière ; profitez du silence avant de reprendre la route."
               }
             }
           ]

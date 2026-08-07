@@ -21,7 +21,8 @@
             "de": "Théâtre du Gymnase",
             "hu": "Théâtre du Gymnase",
             "ro": "Théâtre du Gymnase",
-            "en": "Théâtre du Gymnase"
+            "en": "Théâtre du Gymnase",
+            "fr": "Théâtre du Gymnase"
           },
           "coords": [
             -2.13488,
@@ -36,7 +37,8 @@
             "de": "Bewundern Sie die kulturellen Vorführungen in diesem historischen Theater, das die lokale Kunstszene belebt, und buchen Sie Ihre Tickets unbedingt im Voraus online.",
             "hu": "Csodálja meg a helyi művészeti életet fellendítő történelmi színház kulturális előadásait, és mindenképpen jó előre foglalja le a jegyeket az interneten.",
             "ro": "Admirați spectacolele culturale din acest teatru istoric care însuflețește scena artistică locală și asigurați-vă că rezervați biletele online din timp.",
-            "en": "Admire the cultural performances in this historic theater that animates the local art scene, and be sure to book your tickets well in advance online."
+            "en": "Admire the cultural performances in this historic theater that animates the local art scene, and be sure to book your tickets well in advance online.",
+            "fr": "Admirez les représentations culturelles dans ce théâtre historique qui anime la scène artistique locale, et pensez à réserver vos billets en ligne bien à l’avance."
           }
         },
         {
@@ -44,7 +46,8 @@
             "de": "Amphithéâtre du Petit Bois",
             "hu": "Amphithéâtre du Petit Bois",
             "ro": "Amphithéâtre du Petit Bois",
-            "en": "Amphithéâtre du Petit Bois"
+            "en": "Amphithéâtre du Petit Bois",
+            "fr": "Amphithéâtre du Petit Bois"
           },
           "coords": [
             -2.138733,
@@ -59,7 +62,8 @@
             "de": "Erleben Sie Freilichtaufführungen in diesem bezaubernden Amphitheater inmitten der Natur, und bringen Sie ein Kissen mit, um auf den Steinstufen bequemer zu sitzen.",
             "hu": "Élvezze a szabadtéri előadásokat ebben az elbűvölő, természet lágy ölén fekvő amfiteátrumban, és hozzon magával egy párnát a kőlépcsők kényelmesebb használatához.",
             "ro": "Bucurați-vă de spectacole în aer liber în acest amfiteatru fermecător înconjurat de natură și aduceți o pernă pentru a sta mai confortabil pe treptele de piatră.",
-            "en": "Enjoy open-air performances in this charming amphitheater surrounded by nature, and bring a small cushion to sit more comfortably on the stone steps."
+            "en": "Enjoy open-air performances in this charming amphitheater surrounded by nature, and bring a small cushion to sit more comfortably on the stone steps.",
+            "fr": "Profitez des spectacles en plein air dans ce charmant amphithéâtre entouré par la nature, et apportez un petit coussin pour plus de confort sur les gradins de pierre."
           }
         },
         {
@@ -67,7 +71,8 @@
             "de": "Plage de Fromentine",
             "hu": "Plage de Fromentine",
             "ro": "Plage de Fromentine",
-            "en": "Plage de Fromentine"
+            "en": "Plage de Fromentine",
+            "fr": "Plage de Fromentine"
           },
           "coords": [
             -2.144683,
@@ -82,7 +87,8 @@
             "de": "Entspannen Sie an diesem malerischen Sandstrand mit herrlichem Blick auf den Ozean, und kommen Sie am frühen Nachmittag, um die besten Plätze nahe am Wasser zu ergattern.",
             "hu": "Pihenjen ezen a festői homokos strandon, ahonnan csodálatos kilátás nyílik az óceánra, és érkezzen kora délután, hogy a legjobb helyeket csíphesse meg a víz közelében.",
             "ro": "Relaxați-vă pe această plajă pitorească de nisip, cu vederi uimitoare la ocean, și veniți la începutul după-amiezii pentru a prinde cele mai bune locuri lângă apă.",
-            "en": "Relax on this picturesque sandy beach offering stunning ocean views, and arrive in the early afternoon to secure the very best spots right close to the gentle water."
+            "en": "Relax on this picturesque sandy beach offering stunning ocean views, and arrive in the early afternoon to secure the very best spots right close to the gentle water.",
+            "fr": "Détendez‑vous sur cette plage de sable pittoresque offrant de superbes vues sur l’océan ; arrivez en début d’après‑midi pour sécuriser les meilleurs emplacements près de l’eau."
           }
         },
         {
@@ -90,7 +96,8 @@
             "de": "Phare de Fromentine",
             "hu": "Phare de Fromentine",
             "ro": "Phare de Fromentine",
-            "en": "Phare de Fromentine"
+            "en": "Phare de Fromentine",
+            "fr": "Phare de Fromentine"
           },
           "coords": [
             -2.142392,
@@ -105,7 +112,8 @@
             "de": "Bestaunen Sie diesen ikonischen Leuchtturm, der seit Jahrzehnten den Seeleuten den Weg weist, und nutzen Sie das sanfte Nachmittagslicht für atemberaubende Urlaubsfotos.",
             "hu": "Csodálja meg ezt az ikonikus világítótornyot, amely évtizedek óta irányítja a tengerészeket, és használja ki a lágy délutáni fényeket a lélegzetelállító nyaralási fotókhoz.",
             "ro": "Admirați acest far iconic care a ghidat marinarii de zeci de ani și profitați de lumina blândă a după-amiezii pentru a surprinde fotografii uluitoare de vacanță.",
-            "en": "Marvel at this iconic lighthouse that has guided sailors for decades, and take full advantage of the soft afternoon light to capture truly breathtaking vacation photos."
+            "en": "Marvel at this iconic lighthouse that has guided sailors for decades, and take full advantage of the soft afternoon light to capture truly breathtaking vacation photos.",
+            "fr": "Admirez ce phare emblématique qui guide les marins depuis des décennies, et profitez de la douce lumière de l’après‑midi pour capturer de superbes photos de vacances."
           }
         },
         {
@@ -113,7 +121,8 @@
             "de": "Plage de la Grande Côte",
             "hu": "Plage de la Grande Côte",
             "ro": "Plage de la Grande Côte",
-            "en": "Plage de la Grande Côte"
+            "en": "Plage de la Grande Côte",
+            "fr": "Plage de la Grande Côte"
           },
           "coords": [
             -2.155671,
@@ -128,7 +137,8 @@
             "de": "Spazieren Sie entlang der weitläufigen Küste dieses naturbelassenen Strandes, der perfekte Ruhe bietet, und tragen Sie bequeme Schuhe für ausgedehnte Strandwanderungen.",
             "hu": "Sétáljon végig ennek a tökéletes nyugalmat kínáló természetes strandnak a kiterjedt partvonalán, és viseljen kényelmes cipőt a hosszú, pihentető tengerparti sétákhoz.",
             "ro": "Plimbați-vă de-a lungul coastei extinse a acestei plaje naturale care oferă liniște perfectă și purtați încălțăminte confortabilă pentru plimbări lungi pe țărmul mării.",
-            "en": "Stroll along the expansive coastline of this natural beach offering perfect tranquility, and wear comfortable walking shoes for extended walks along the beautiful shore."
+            "en": "Stroll along the expansive coastline of this natural beach offering perfect tranquility, and wear comfortable walking shoes for extended walks along the beautiful shore.",
+            "fr": "Promenez‑vous le long de cette vaste côte naturelle offrant une parfaite tranquillité ; portez des chaussures confortables pour de longues marches le long du rivage."
           }
         }
       ],
@@ -136,7 +146,8 @@
         "de": "Beginnen Sie Ihren Tag mit kulturellen Höhepunkten in den charmanten Theatern von Fromentine. Mittags lockt der zentrale Strand mit seinem sanften Wellenschlag und feinem Sand. Der Nachmittag steht im Zeichen maritimer Geschichte am majestätischen Leuchtturm. Lassen Sie den Abend bei einem entspannten Spaziergang an der ausgedehnten Küste ausklingen und genießen Sie die kühle Brise.",
         "hu": "Kezdje a napot Fromentine bájos színházainak kulturális érdekességeivel. Délben a központi strand vonzza a látogatókat lágy hullámaival és finom homokjával. A délután a tengerészeti történelem jegyében telik a fenséges világítótoronynál. Zárja az estét egy pihentető sétával a kiterjedt tengerparton, és élvezze a hűsítő, friss óceáni szellőt a naplemente lenyűgöző fényében.",
         "ro": "Începeți ziua cu atracții culturale în teatrele fermecătoare din Fromentine. La prânz, plaja centrală atrage vizitatorii cu valurile sale blânde și nisipul fin. După-amiaza este dedicată istoriei maritime la farul maiestuos. Încheiați seara cu o plimbare relaxantă de-a lungul coastei extinse și bucurați-vă de briza răcoroasă a oceanului în lumina uimitoare a apusului.",
-        "en": "Start your day with cultural highlights at the charming theaters of Fromentine. At noon, the central beach attracts visitors with its gentle waves and fine sand. The afternoon is dedicated to maritime history by the majestic lighthouse. Conclude your evening with a relaxing stroll along the expansive coastline, fully enjoying the cool ocean breeze under the breathtaking sunset light."
+        "en": "Start your day with cultural highlights at the charming theaters of Fromentine. At noon, the central beach attracts visitors with its gentle waves and fine sand. The afternoon is dedicated to maritime history by the majestic lighthouse. Conclude your evening with a relaxing stroll along the expansive coastline, fully enjoying the cool ocean breeze under the breathtaking sunset light.",
+        "fr": "Commencez la journée par les points culturels des charmants théâtres de Fromentine. À midi, la plage centrale attire les visiteurs avec ses vagues douces et son sable fin. L’après‑midi est consacré à l’histoire maritime près du majestueux phare. Concluez la soirée par une promenade relaxante le long de la Grande Côte, profitant pleinement de la brise marine fraîche sous la lumière du coucher de soleil."
       },
       "variants": {
         "rainy": {
@@ -144,7 +155,8 @@
             "de": "Der Morgen beginnt geschützt im Théâtre du Gymnase, wo die Akustik des Regens auf dem Dach eine besondere Atmosphäre schafft. Mittags bieten die Pinien am Amphithéâtre einen natürlichen Schirm gegen leichte Schauer. Nachmittags erleben Sie die dramatische, graue See an den Stränden, während der Leuchtturm im Nebel steht. Der Tag endet mit dem Rauschen der Brandung an der Grande Côte unter einem regnerischen Himmel.",
             "hu": "A reggelt a Théâtre du Gymnase fedett falai között indítjuk, elkerülve a záporokat. Délben a fenyvesek által védett amfiteátrumnál tartunk pihenőt, ahol az ágak felfogják az esőcseppeket. Délután a tengerpart ködös, drámai arcát fedezzük fel esernyővel, ügyelve a csúszós utakra a világítótoronynál. Az estét a Grande Côte vad hullámai zárják a párás, sós tengeri levegőben.",
             "ro": "Dimineața începe la adăpost în Théâtre du Gymnase, unde sunetul ploii pe acoperiș creează o atmosferă intimă. La prânz, pinii de la amfiteatru oferă o protecție naturală împotriva stropilor. După-amiaza explorăm plajele sub un cer dramatic, admirând farul prin ceață și purtând haine impermeabile. Ziua se încheie cu sunetul puternic al valurilor la Grande Côte, pe un fundal melancolic și ploios.",
-            "en": "Start the morning sheltered inside the Théâtre du Gymnase, enjoying the cozy acoustics of rain on the roof. At noon, the pines of the amphitheater provide natural cover from light showers. In the afternoon, experience the dramatic gray sea and the lighthouse shrouded in mist while wearing sturdy waterproofs. The day concludes with the roaring surf at Grande Côte under a heavy, rainy sky."
+            "en": "Start the morning sheltered inside the Théâtre du Gymnase, enjoying the cozy acoustics of rain on the roof. At noon, the pines of the amphitheater provide natural cover from light showers. In the afternoon, experience the dramatic gray sea and the lighthouse shrouded in mist while wearing sturdy waterproofs. The day concludes with the roaring surf at Grande Côte under a heavy, rainy sky.",
+            "fr": "Commencez la matinée à l’abri dans le Théâtre du Gymnase, en profitant de l’acoustique chaleureuse de la pluie sur le toit. À midi, les pins de l’amphithéâtre offrent un abri naturel contre les ondées. L’après‑midi, vivez la mer grise et dramatique et le phare dans la brume en portant des vêtements imperméables et robustes. La journée se termine avec le fracas des vagues à la Grande Côte sous un ciel pluvieux et lourd."
           },
           "stops": [
             {
@@ -152,13 +164,15 @@
                 "de": "Théâtre du Gymnase",
                 "hu": "Théâtre du Gymnase",
                 "ro": "Théâtre du Gymnase",
-                "en": "Théâtre du Gymnase"
+                "en": "Théâtre du Gymnase",
+                "fr": "Théâtre du Gymnase"
               },
               "tip_5lang": {
                 "de": "Nutzen Sie die überdachten Bereiche dieses historischen Theaters, um die Architektur im Trockenen zu bewundern; wasserfeste Schuhe für den Zugang sind ratsam.",
                 "hu": "Használja ki a történelmi színház fedett részeit az építészet megcsodálására a szárazon; a bejárathoz vízálló cipő ajánlott a tócsák miatt.",
                 "ro": "Profitați de zonele acoperite ale acestui teatru istoric pentru a admira arhitectura la uscat; încălțămintea impermeabilă este recomandată pentru acces.",
-                "en": "Take advantage of the covered sections of this historic theater to admire the architecture while staying dry; waterproof shoes are advised for the entrance."
+                "en": "Take advantage of the covered sections of this historic theater to admire the architecture while staying dry; waterproof shoes are advised for the entrance.",
+                "fr": "Profitez des sections couvertes de ce théâtre historique pour admirer l’architecture tout en restant au sec ; des chaussures imperméables sont conseillées pour l’entrée."
               }
             },
             {
@@ -166,13 +180,15 @@
                 "de": "Amphithéâtre du Petit Bois",
                 "hu": "Amphithéâtre du Petit Bois",
                 "ro": "Amphithéâtre du Petit Bois",
-                "en": "Amphithéâtre du Petit Bois"
+                "en": "Amphithéâtre du Petit Bois",
+                "fr": "Amphithéâtre du Petit Bois"
               },
               "tip_5lang": {
                 "de": "Die dichten Nadelbäume bieten hier guten Schutz vor Wind und Regen; ideal für eine kurze Pause unter dem natürlichen Blätterdach.",
                 "hu": "A sűrű fenyőfák jó védelmet nyújtanak a szél és az eső ellen; ideális helyszín egy rövid pihenőhöz a természetes lombkorona alatt.",
                 "ro": "Coniferele dese oferă aici o protecție bună împotriva vântului și ploii; este un loc ideal pentru o scurtă pauză sub baldachinul natural.",
-                "en": "The dense pine trees here offer good protection from wind and rain; an ideal spot for a short break under the natural canopy of branches."
+                "en": "The dense pine trees here offer good protection from wind and rain; an ideal spot for a short break under the natural canopy of branches.",
+                "fr": "Les pins denses offrent une bonne protection contre le vent et la pluie ; un endroit idéal pour une courte pause sous la canopée naturelle de branches."
               }
             },
             {
@@ -180,13 +196,15 @@
                 "de": "Plage de Fromentine",
                 "hu": "Plage de Fromentine",
                 "ro": "Plage de Fromentine",
-                "en": "Plage de Fromentine"
+                "en": "Plage de Fromentine",
+                "fr": "Plage de Fromentine"
               },
               "tip_5lang": {
                 "de": "Der nasse Sand ist fester zum Laufen, aber meiden Sie die Algenbereiche, da diese bei Regen extrem rutschig werden können.",
                 "hu": "A nedves homok keményebb és könnyebb rajta járni, de kerülje az algás területeket, mert esőben rendkívül csúszóssá válhatnak.",
                 "ro": "Nisipul umed este mai compact pentru mers, dar evitați zonele cu alge, deoarece acestea pot deveni extrem de alunecoase pe ploaie.",
-                "en": "The wet sand is firmer and easier to walk on, but avoid the seaweed patches as they can become extremely slippery in the rain."
+                "en": "The wet sand is firmer and easier to walk on, but avoid the seaweed patches as they can become extremely slippery in the rain.",
+                "fr": "Le sable mouillé est plus ferme et plus facile à marcher, mais évitez les nappes d’algues qui deviennent extrêmement glissantes sous la pluie."
               }
             },
             {
@@ -194,13 +212,15 @@
                 "de": "Phare de Fromentine",
                 "hu": "Phare de Fromentine",
                 "ro": "Phare de Fromentine",
-                "en": "Phare de Fromentine"
+                "en": "Phare de Fromentine",
+                "fr": "Phare de Fromentine"
               },
               "tip_5lang": {
                 "de": "Bewundern Sie das Leuchtfeuer aus sicherer Entfernung, da der Pier bei Gischt und Regen sehr glatt wird; ein Regencape ist hier Pflicht.",
                 "hu": "Csodálja meg a világítótornyot biztonságos távolságból, mert a móló a permettől és esőtől nagyon síkos; egy esőköpeny itt kötelező viselet.",
                 "ro": "Admirați farul de la o distanță sigură, deoarece digul devine foarte alunecos de la apă și ploaie; o pelerină este obligatorie aici.",
-                "en": "Admire the lighthouse from a safe distance as the pier becomes very slick from spray and rain; a raincoat is mandatory equipment here."
+                "en": "Admire the lighthouse from a safe distance as the pier becomes very slick from spray and rain; a raincoat is mandatory equipment here.",
+                "fr": "Admirez le phare à distance car la jetée devient très glissante à cause des embruns et de la pluie ; un imperméable est un équipement obligatoire ici."
               }
             },
             {
@@ -208,13 +228,15 @@
                 "de": "Plage de la Grande Côte",
                 "hu": "Plage de la Grande Côte",
                 "ro": "Plage de la Grande Côte",
-                "en": "Plage de la Grande Côte"
+                "en": "Plage de la Grande Côte",
+                "fr": "Plage de la Grande Côte"
               },
               "tip_5lang": {
                 "de": "Die Aussicht auf den stürmischen Ozean ist spektakulär; suchen Sie bei starken Böen Schutz hinter den Dünenbefestigungen.",
                 "hu": "A kilátás a viharos óceánra lenyűgöző; erős széllökések esetén keressen menedéket a dűnék menti védművek mögött.",
                 "ro": "Vederea asupra oceanului furtunos este spectaculoasă; în caz de rafale puternice, căutați adăpost în spatele fortificațiilor de dune.",
-                "en": "The view of the stormy ocean is spectacular; in case of strong gusts, seek shelter behind the dune reinforcements along the path."
+                "en": "The view of the stormy ocean is spectacular; in case of strong gusts, seek shelter behind the dune reinforcements along the path.",
+                "fr": "La vue sur l’océan en tempête est spectaculaire ; en cas de rafales fortes, cherchez un abri derrière les dunes renforcées le long du sentier."
               }
             }
           ]
@@ -224,7 +246,8 @@
             "de": "Ein erfrischender Wintermorgen beginnt im Théâtre, gefolgt von einem zügigen Marsch durch die kühle Waldluft zum Amphithéâtre. Mittags wärmt die tiefstehende Sonne den Strand von Fromentine, während der Wind vom Meer die Sinne belebt. Der Leuchtturm erstrahlt im goldenen Winterlicht, bevor wir um 17:00 Uhr den Sonnenuntergang an der Grande Côte erleben. Warme Kleidung ist für die Küstenbrise unerlässlich.",
             "hu": "Frissítő téli reggel kezdődik a színházban, majd élénk séta következik a hűvös erdei levegőn az amfiteátrum felé. Délben az alacsonyan járó nap sugarai világítják meg a partot, miközben a tengeri szél felfrissít. A világítótorony aranyló téli fényben fürdik, mielőtt 17:00-kor megcsodálnánk a naplementét a Grande Côte-on. A réteges öltözködés elengedhetetlen a parton.",
             "ro": "O dimineață răcoroasă de iarnă începe la teatru, urmată de o plimbare revigorantă prin aerul rece al pădurii spre amfiteatru. La prânz, soarele palid luminează plaja, în timp ce briza mării trezește simțurile. Farul strălucește în lumina aurie de iarnă înainte de a vedea apusul la Grande Côte în jurul orei 17:00. Hainele groase sunt esențiale pentru vântul de coastă.",
-            "en": "A refreshing winter morning starts at the theater, followed by a brisk walk through the cool forest air to the amphitheater. At noon, the low winter sun lights up the beach while the sea breeze invigorates the senses. The lighthouse glows in golden light before we experience the early sunset at Grande Côte around 17:00. Warm layers are essential for the coastal winds."
+            "en": "A refreshing winter morning starts at the theater, followed by a brisk walk through the cool forest air to the amphitheater. At noon, the low winter sun lights up the beach while the sea breeze invigorates the senses. The lighthouse glows in golden light before we experience the early sunset at Grande Côte around 17:00. Warm layers are essential for the coastal winds.",
+            "fr": "Une matinée d’hiver revigorante commence au théâtre, suivie d’une marche tonique à travers l’air frais de la forêt jusqu’à l’amphithéâtre. À midi, le bas soleil d’hiver illumine la plage tandis que la brise marine vivifie les sens. Le phare s’illumine de lumière dorée avant le coucher de soleil anticipé à la Grande Côte vers 17:00. Des couches chaudes sont essentielles contre les vents côtiers."
           },
           "stops": [
             {
@@ -232,13 +255,15 @@
                 "de": "Théâtre du Gymnase",
                 "hu": "Théâtre du Gymnase",
                 "ro": "Théâtre du Gymnase",
-                "en": "Théâtre du Gymnase"
+                "en": "Théâtre du Gymnase",
+                "fr": "Théâtre du Gymnase"
               },
               "tip_5lang": {
                 "de": "Genießen Sie die ruhige Winteratmosphäre in den geschützten Gängen; tragen Sie eine warme Mütze gegen den Zugwind in den offenen Bereichen.",
                 "hu": "Élvezze a csendes téli hangulatot a védett folyosókon; viseljen meleg sapkát a huzat ellen a nyitottabb részeken.",
                 "ro": "Bucurați-vă de atmosfera liniștită de iarnă în coridoarele protejate; purtați o căciulă călduroasă împotriva curentului în zonele deschise.",
-                "en": "Enjoy the quiet winter atmosphere in the protected corridors; wear a warm hat against the draft in the more open sections."
+                "en": "Enjoy the quiet winter atmosphere in the protected corridors; wear a warm hat against the draft in the more open sections.",
+                "fr": "Profitez de l’atmosphère hivernale paisible dans les couloirs protégés ; portez un bonnet chaud contre les courants d’air dans les sections plus ouvertes."
               }
             },
             {
@@ -246,13 +271,15 @@
                 "de": "Amphithéâtre du Petit Bois",
                 "hu": "Amphithéâtre du Petit Bois",
                 "ro": "Amphithéâtre du Petit Bois",
-                "en": "Amphithéâtre du Petit Bois"
+                "en": "Amphithéâtre du Petit Bois",
+                "fr": "Amphithéâtre du Petit Bois"
               },
               "tip_5lang": {
                 "de": "Im Winter sind die Sichtachsen durch die Bäume freier; bringen Sie eine Thermoskanne mit einem heißen Getränk für die Pause mit.",
                 "hu": "Télen a fák közötti kilátás sokkal tisztább; hozzon magával termoszt forró itallal a pihenőhöz a hideg padokon.",
                 "ro": "Iarna, vizibilitatea printre copaci este mult mai clară; aduceți un termos cu o băutură caldă pentru pauza pe băncile reci.",
-                "en": "In winter, the sightlines through the trees are much clearer; bring a thermos with a hot drink for the break on the cold benches."
+                "en": "In winter, the sightlines through the trees are much clearer; bring a thermos with a hot drink for the break on the cold benches.",
+                "fr": "En hiver, les lignes de vue à travers les arbres sont beaucoup plus claires ; apportez un thermos avec une boisson chaude pour la pause sur les bancs froids."
               }
             },
             {
@@ -260,13 +287,15 @@
                 "de": "Plage de Fromentine",
                 "hu": "Plage de Fromentine",
                 "ro": "Plage de Fromentine",
-                "en": "Plage de Fromentine"
+                "en": "Plage de Fromentine",
+                "fr": "Plage de Fromentine"
               },
               "tip_5lang": {
                 "de": "Die kalte Meeresluft ist sehr gesund; schützen Sie Ihre Haut mit einer reichhaltigen Creme vor dem austrocknenden Winterwind.",
                 "hu": "A hideg tengeri levegő nagyon egészséges; védje bőrét zsíros krémmel a kiszárító téli széllel szemben a parton.",
                 "ro": "Aerul rece de mare este foarte sănătos; protejați-vă pielea cu o cremă hidratantă împotriva vântului uscat de iarnă de pe plajă.",
-                "en": "The cold sea air is very healthy; protect your skin with a rich cream against the drying winter wind on the beach."
+                "en": "The cold sea air is very healthy; protect your skin with a rich cream against the drying winter wind on the beach.",
+                "fr": "L’air marin froid est très sain ; protégez votre peau avec une crème riche contre le vent hivernal desséchant sur la plage."
               }
             },
             {
@@ -274,13 +303,15 @@
                 "de": "Phare de Fromentine",
                 "hu": "Phare de Fromentine",
                 "ro": "Phare de Fromentine",
-                "en": "Phare de Fromentine"
+                "en": "Phare de Fromentine",
+                "fr": "Phare de Fromentine"
               },
               "tip_5lang": {
                 "de": "Das Licht ist kurz vor Sonnenuntergang am schönsten; achten Sie auf die Gezeiten, da der Wind das Wasser im Winter höher peitscht.",
                 "hu": "A fények közvetlenül naplemente előtt a legszebbek; ügyeljen az ár-apályra, mert a szél télen magasabbra korbácsolja a vizet.",
                 "ro": "Lumina este cea mai frumoasă chiar înainte de apus; fiți atenți la maree, deoarece vântul împinge apa mai sus în timpul iernii.",
-                "en": "The light is most beautiful just before sunset; watch the tides, as winter winds can whip the water much higher up the pier."
+                "en": "The light is most beautiful just before sunset; watch the tides, as winter winds can whip the water much higher up the pier.",
+                "fr": "La lumière est la plus belle juste avant le coucher du soleil ; surveillez les marées, car les vents d’hiver peuvent faire monter l’eau beaucoup plus haut sur la jetée."
               }
             },
             {
@@ -288,13 +319,15 @@
                 "de": "Plage de la Grande Côte",
                 "hu": "Plage de la Grande Côte",
                 "ro": "Plage de la Grande Côte",
-                "en": "Plage de la Grande Côte"
+                "en": "Plage de la Grande Côte",
+                "fr": "Plage de la Grande Côte"
               },
               "tip_5lang": {
                 "de": "Da die Sonne gegen 17:00 Uhr untergeht, sollten Sie diesen Stopp rechtzeitig erreichen, um das Farbspektakel am Horizont zu sehen.",
                 "hu": "Mivel a nap 17:00 körül nyugszik, érkezzen ide időben, hogy láthassa a horizont színes fényjátékát a hideg alkonyatban.",
                 "ro": "Deoarece soarele apune în jurul orei 17:00, ajungeți aici la timp pentru a vedea spectacolul de culori de la orizont.",
-                "en": "Since the sun sets around 17:00, aim to arrive here early to catch the spectacular colors on the horizon in the crisp dusk."
+                "en": "Since the sun sets around 17:00, aim to arrive here early to catch the spectacular colors on the horizon in the crisp dusk.",
+                "fr": "Puisque le soleil se couche vers 17:00, visez d’arriver tôt pour admirer les couleurs spectaculaires à l’horizon au crépuscule vif."
               }
             }
           ]
@@ -314,7 +347,8 @@
             "de": "Église Saint-Louis",
             "hu": "Église Saint-Louis",
             "ro": "Église Saint-Louis",
-            "en": "Église Saint-Louis"
+            "en": "Église Saint-Louis",
+            "fr": "Église Saint‑Louis"
           },
           "coords": [
             -2.118927,
@@ -329,7 +363,8 @@
             "de": "Entdecken Sie die spirituelle Ruhe dieser eleganten Kirche mit ihren wunderschönen Buntglasfenstern, und achten Sie beim Betreten auf angemessene und bedeckende Kleidung.",
             "hu": "Fedezze fel ennek az elegáns, gyönyörű ólomüveg ablakokkal rendelkező templomnak a lelki nyugalmát, és belépéskor ügyeljen a megfelelő, vállakat takaró ruházatra.",
             "ro": "Descoperiți liniștea spirituală a acestei biserici elegante, cu vitraliile sale superbe, și asigurați-vă că purtați o ținută respectuoasă, care acoperă umerii, la intrare.",
-            "en": "Discover the spiritual tranquility of this elegant church featuring gorgeous stained glass windows, and ensure you wear respectful clothing covering shoulders when entering."
+            "en": "Discover the spiritual tranquility of this elegant church featuring gorgeous stained glass windows, and ensure you wear respectful clothing covering shoulders when entering.",
+            "fr": "Découvrez la tranquillité spirituelle de cette élégante église dotée de magnifiques vitraux, et veillez à porter des vêtements respectueux couvrant les épaules lors de l’entrée."
           }
         },
         {
@@ -337,7 +372,8 @@
             "de": "Domaine de l'Opéra",
             "hu": "Domaine de l'Opéra",
             "ro": "Domaine de l'Opéra",
-            "en": "Domaine de l'Opéra"
+            "en": "Domaine de l'Opéra",
+            "fr": "Domaine de l'Opéra"
           },
           "coords": [
             -2.117574,
@@ -352,7 +388,8 @@
             "de": "Erkunden Sie dieses prächtige kulturelle Anwesen, das klassische Architektur bewahrt, und prüfen Sie vorab die Öffnungszeiten für exklusive, geführte historische Touren.",
             "hu": "Fedezze fel ezt a klasszikus építészetet megőrző csodálatos kulturális birtokot, és az exkluzív, vezetett történelmi túrákhoz előzetesen ellenőrizze a nyitvatartási időt.",
             "ro": "Explorați acest domeniu cultural magnific care conservă arhitectura clasică și verificați programul în prealabil pentru tururi istorice exclusive, cu ghid specializat.",
-            "en": "Explore this magnificent cultural estate preserving classical architecture, and check the schedule in advance to join one of the exclusive, fully guided historical tours."
+            "en": "Explore this magnificent cultural estate preserving classical architecture, and check the schedule in advance to join one of the exclusive, fully guided historical tours.",
+            "fr": "Explorez ce magnifique domaine culturel préservant l’architecture classique, et consultez le programme à l’avance pour participer à l’une des visites historiques guidées et exclusives."
           }
         },
         {
@@ -360,7 +397,8 @@
             "de": "Belvédère du Pey de la Blet",
             "hu": "Belvédère du Pey de la Blet",
             "ro": "Belvédère du Pey de la Blet",
-            "en": "Belvédère du Pey de la Blet"
+            "en": "Belvédère du Pey de la Blet",
+            "fr": "Belvédère du Pey de la Blet"
           },
           "coords": [
             -2.126392,
@@ -375,7 +413,8 @@
             "de": "Genießen Sie das atemberaubende Panorama von diesem hochgelegenen Aussichtspunkt über die Küste, und nehmen Sie ein Fernglas mit, um die vorbeifahrenden Schiffe zu beobachten.",
             "hu": "Élvezze a lélegzetelállító panorámát a tengerpartra ebből a magasan fekvő kilátóból, és vigyen magával egy távcsövet az elhaladó hajók és madarak kényelmes megfigyeléséhez.",
             "ro": "Bucurați-vă de panorama uluitoare a coastei din acest punct de belvedere înalt și luați cu voi un binoclu pentru a observa confortabil navele și păsările care trec.",
-            "en": "Enjoy the breathtaking panorama of the vast coastline from this elevated viewpoint, and bring along a pair of binoculars to comfortably observe passing ships and seabirds."
+            "en": "Enjoy the breathtaking panorama of the vast coastline from this elevated viewpoint, and bring along a pair of binoculars to comfortably observe passing ships and seabirds.",
+            "fr": "Profitez du panorama à couper le souffle sur la vaste côte depuis ce point de vue élevé, et apportez une paire de jumelles pour observer confortablement les navires et les oiseaux marins de passage."
           }
         },
         {
@@ -383,7 +422,8 @@
             "de": "Théâtre du Gymnase",
             "hu": "Théâtre du Gymnase",
             "ro": "Théâtre du Gymnase",
-            "en": "Théâtre du Gymnase"
+            "en": "Théâtre du Gymnase",
+            "fr": "Théâtre du Gymnase"
           },
           "coords": [
             -2.13488,
@@ -398,7 +438,8 @@
             "de": "Bewundern Sie die kulturellen Vorführungen in diesem historischen Theater, das die lokale Kunstszene belebt, und buchen Sie Ihre Tickets unbedingt im Voraus online.",
             "hu": "Csodálja meg a helyi művészeti életet fellendítő történelmi színház kulturális előadásait, és mindenképpen jó előre foglalja le a jegyeket az interneten.",
             "ro": "Admirați spectacolele culturale din acest teatru istoric care însuflețește scena artistică locală și asigurați-vă că rezervați biletele online din timp.",
-            "en": "Admire the cultural performances in this historic theater that animates the local art scene, and be sure to book your tickets well in advance online."
+            "en": "Admire the cultural performances in this historic theater that animates the local art scene, and be sure to book your tickets well in advance online.",
+            "fr": "Admirez les spectacles culturels dans ce théâtre historique qui anime la scène artistique locale, et pensez à réserver vos billets en ligne bien à l'avance."
           }
         },
         {
@@ -406,7 +447,8 @@
             "de": "Phare de Fromentine",
             "hu": "Phare de Fromentine",
             "ro": "Phare de Fromentine",
-            "en": "Phare de Fromentine"
+            "en": "Phare de Fromentine",
+            "fr": "Phare de Fromentine"
           },
           "coords": [
             -2.142392,
@@ -421,7 +463,8 @@
             "de": "Bestaunen Sie diesen ikonischen Leuchtturm, der seit Jahrzehnten den Seeleuten den Weg weist, und nutzen Sie das sanfte Nachmittagslicht für atemberaubende Urlaubsfotos.",
             "hu": "Csodálja meg ezt az ikonikus világítótornyot, amely évtizedek óta irányítja a tengerészeket, és használja ki a lágy délutáni fényeket a lélegzetelállító nyaralási fotókhoz.",
             "ro": "Admirați acest far iconic care a ghidat marinarii de zeci de ani și profitați de lumina blândă a după-amiezii pentru a surprinde fotografii uluitoare de vacanță.",
-            "en": "Marvel at this iconic lighthouse that has guided sailors for decades, and take full advantage of the soft afternoon light to capture truly breathtaking vacation photos."
+            "en": "Marvel at this iconic lighthouse that has guided sailors for decades, and take full advantage of the soft afternoon light to capture truly breathtaking vacation photos.",
+            "fr": "Émerveillez‑vous devant ce phare emblématique qui guide les marins depuis des décennies, et profitez de la douce lumière de l'après‑midi pour réaliser des photos de vacances vraiment époustouflantes."
           }
         },
         {
@@ -429,7 +472,8 @@
             "de": "Plage de Fromentine",
             "hu": "Plage de Fromentine",
             "ro": "Plage de Fromentine",
-            "en": "Plage de Fromentine"
+            "en": "Plage de Fromentine",
+            "fr": "Plage de Fromentine"
           },
           "coords": [
             -2.144683,
@@ -444,7 +488,8 @@
             "de": "Entspannen Sie an diesem malerischen Sandstrand mit herrlichem Blick auf den Ozean, und kommen Sie am frühen Nachmittag, um die besten Plätze nahe am Wasser zu ergattern.",
             "hu": "Pihenjen ezen a festői homokos strandon, ahonnan csodálatos kilátás nyílik az óceánra, és érkezzen kora délután, hogy a legjobb helyeket csíphesse meg a víz közelében.",
             "ro": "Relaxați-vă pe această plajă pitorească de nisip, cu vederi uimitoare la ocean, și veniți la începutul după-amiezii pentru a prinde cele mai bune locuri lângă apă.",
-            "en": "Relax on this picturesque sandy beach offering stunning ocean views, and arrive in the early afternoon to secure the very best spots right close to the gentle water."
+            "en": "Relax on this picturesque sandy beach offering stunning ocean views, and arrive in the early afternoon to secure the very best spots right close to the gentle water.",
+            "fr": "Détendez‑vous sur cette plage de sable pittoresque offrant de superbes vues sur l'océan, et arrivez en début d'après‑midi pour vous assurer les meilleurs emplacements près de l'eau calme."
           }
         },
         {
@@ -452,7 +497,8 @@
             "de": "Plage Des Boucholeurs",
             "hu": "Plage Des Boucholeurs",
             "ro": "Plage Des Boucholeurs",
-            "en": "Plage Des Boucholeurs"
+            "en": "Plage Des Boucholeurs",
+            "fr": "Plage Des Boucholeurs"
           },
           "coords": [
             -2.160149,
@@ -467,7 +513,8 @@
             "de": "Entdecken Sie diese charmante Strandbucht, die für ihre traditionelle Muschelzucht bekannt ist, und probieren Sie unbedingt die frischen Meeresfrüchte in den nahen Lokalen.",
             "hu": "Fedezze fel ezt a hagyományos kagylótenyésztéséről híres hangulatos tengerparti öblöt, és mindenképpen kóstolja meg a közeli éttermek kínálta friss, helyi tengeri gyümölcsöket.",
             "ro": "Descoperiți acest golf fermecător renumit pentru cultivarea tradițională a midiilor și asigurați-vă că gustați fructele de mare proaspete la restaurantele din apropiere.",
-            "en": "Discover this charming beach cove renowned for its traditional mussel farming, and make sure to taste the incredibly fresh local seafood at the nearby coastal establishments."
+            "en": "Discover this charming beach cove renowned for its traditional mussel farming, and make sure to taste the incredibly fresh local seafood at the nearby coastal establishments.",
+            "fr": "Découvrez cette anse de plage charmante réputée pour son mytiliculture traditionnelle, et n'oubliez pas de goûter les fruits de mer incroyablement frais dans les établissements côtiers proches."
           }
         }
       ],
@@ -475,7 +522,8 @@
         "de": "Radeln Sie morgens zur eleganten Kirche und erkunden Sie das kulturelle Erbe der Stadt. Später bietet der Aussichtspunkt unvergessliche Panoramablicke über die Region. Nachmittags geht es flott zurück ins Zentrum zum Theater und zum berühmten Leuchtturm. Ein Abstecher zu den ruhigen nördlichen Stränden rundet den perfekten Radtag an der frischen Meeresluft malerisch ab.",
         "hu": "Reggel kerékpározzon az elegáns templomhoz, és fedezze fel a város kulturális örökségét. Később a kilátó felejthetetlen panorámát kínál a régióra. Délután tekerjen vissza a központba, a színházhoz és a híres világítótoronyhoz. Az északi csendes strandokhoz tett kitérő festőien teszi teljessé a tökéletes, friss tengeri levegőn töltött kerékpáros napot.",
         "ro": "Dimineața, pedalați spre biserica elegantă și explorați moștenirea culturală a orașului. Mai târziu, punctul de belvedere oferă vederi panoramice de neuitat asupra regiunii. După-amiaza, întoarceți-vă rapid în centru, la teatru și la faimosul far. O excursie către plajele liniștite din nord completează pitoresc această zi perfectă de ciclism în aerul proaspăt al mării.",
-        "en": "In the morning, cycle to the elegant church and deeply explore the city's rich cultural heritage. Later, the high viewpoint offers unforgettable panoramic views across the region. In the afternoon, swiftly ride back to the center towards the theater and the famous lighthouse. A final detour to the quiet northern beaches beautifully completes this perfect cycling day in the fresh sea air."
+        "en": "In the morning, cycle to the elegant church and deeply explore the city's rich cultural heritage. Later, the high viewpoint offers unforgettable panoramic views across the region. In the afternoon, swiftly ride back to the center towards the theater and the famous lighthouse. A final detour to the quiet northern beaches beautifully completes this perfect cycling day in the fresh sea air.",
+        "fr": "Le matin, partez à vélo vers l'élégante église et explorez en profondeur le riche patrimoine culturel de la ville. Ensuite, le point de vue élevé offre des panoramas inoubliables sur la région. L'après‑midi, revenez rapidement vers le centre en passant par le théâtre et le phare célèbre. Une dernière escapade vers les plages tranquilles du nord complète magnifiquement cette journée parfaite à vélo dans l'air frais de la mer."
       },
       "variants": {
         "rainy": {
@@ -483,7 +531,8 @@
             "de": "Eine nasse Radtour beginnt an der Église Saint-Louis, die Schutz bietet. Weiter geht es zum Domaine de l'Opéra für einen trockenen Kulturstopp. Die Fahrt zum Aussichtspunkt erfordert Vorsicht auf rutschigen Waldwegen. Nachmittags radeln wir am Leuchtturm und den Stränden entlang, wobei gute Schutzbleche und Regenbekleidung unverzichtbar sind, um den Tag trotz der Nässe zu genießen.",
             "hu": "Vizes kerékpártúra kezdődik a Saint-Louis templomnál, amely menedéket nyújt. Folytatjuk az utat a Domaine de l'Opéra felé egy száraz kulturális pihenőre. A kilátóhoz vezető út óvatosságot igényel a csúszós erdei ösvényeken. Délután a világítótorony és a strandok mentén tekerünk, ahol a sárvédő és az esőruha elengedhetetlen a vizes táj élvezetéhez.",
             "ro": "O tură cu bicicleta pe ploaie începe la Église Saint-Louis, care oferă adăpost. Continuăm spre Domaine de l'Opéra pentru o oprire culturală uscată. Drumul spre belvedere necesită prudență pe potecile alunecoase din pădure. După-amiaza pedalăm pe lângă far și plaje, unde aripile bicicletei și hainele de ploaie sunt indispensabile pentru a savura peisajul.",
-            "en": "A wet cycling tour starts at Église Saint-Louis, providing a dry sanctuary. Continue to Domaine de l'Opéra for an indoor cultural break. The ride to the viewpoint requires caution on slippery forest paths. In the afternoon, cycle past the lighthouse and beaches, where mudguards and waterproof gear are essential to enjoy the day despite the dampness."
+            "en": "A wet cycling tour starts at Église Saint-Louis, providing a dry sanctuary. Continue to Domaine de l'Opéra for an indoor cultural break. The ride to the viewpoint requires caution on slippery forest paths. In the afternoon, cycle past the lighthouse and beaches, where mudguards and waterproof gear are essential to enjoy the day despite the dampness.",
+            "fr": "Une sortie à vélo humide commence à Église Saint‑Louis, offrant un sanctuaire sec. Continuez jusqu'au Domaine de l'Opéra pour une pause culturelle en intérieur. La montée vers le belvédère demande de la prudence sur les sentiers forestiers glissants. L'après‑midi, roulez près du phare et des plages, où garde‑boue et équipement imperméable sont essentiels pour profiter de la journée malgré l'humidité."
           },
           "stops": [
             {
@@ -491,13 +540,15 @@
                 "de": "Église Saint-Louis",
                 "hu": "Église Saint-Louis",
                 "ro": "Église Saint-Louis",
-                "en": "Église Saint-Louis"
+                "en": "Église Saint-Louis",
+                "fr": "Église Saint-Louis"
               },
               "tip_5lang": {
                 "de": "Nutzen Sie das Kirchenportal zum Unterstellen Ihres Rades; im Inneren finden Sie Ruhe und Schutz vor dem ersten Regenschauer.",
                 "hu": "Használja a templom bejáratát a kerékpár leállításához; a belső térben nyugalmat és védelmet talál az első záporok elől.",
                 "ro": "Folosiți portalul bisericii pentru a vă lăsa bicicleta; în interior veți găsi liniște și adăpost împotriva primei averse.",
-                "en": "Use the church portal to park your bike; inside you will find peace and shelter from the first rain showers of the day."
+                "en": "Use the church portal to park your bike; inside you will find peace and shelter from the first rain showers of the day.",
+                "fr": "Utilisez le portail de l'église pour garer votre vélo ; à l'intérieur vous trouverez paix et abri contre les premières averses de la journée."
               }
             },
             {
@@ -505,13 +556,15 @@
                 "de": "Domaine de l'Opéra",
                 "hu": "Domaine de l'Opéra",
                 "ro": "Domaine de l'Opéra",
-                "en": "Domaine de l'Opéra"
+                "en": "Domaine de l'Opéra",
+                "fr": "Domaine de l'Opéra"
               },
               "tip_5lang": {
                 "de": "Dieser kulturelle Ort bietet hervorragende Innenräume; parken Sie das Rad sicher und wärmen Sie sich kurz auf.",
                 "hu": "Ez a kulturális helyszín kiváló belső terekkel rendelkezik; parkolja le biztonságosan a biciklit, és melegedjen fel egy kicsit.",
                 "ro": "Acest loc cultural oferă spații interioare excelente; parcați bicicleta în siguranță și încălziți-vă puțin în interior.",
-                "en": "This cultural site offers excellent indoor spaces; park your bike securely and take a moment to warm up inside."
+                "en": "This cultural site offers excellent indoor spaces; park your bike securely and take a moment to warm up inside.",
+                "fr": "Ce site culturel offre d'excellents espaces intérieurs ; garez votre vélo en sécurité et profitez d'un moment pour vous réchauffer à l'intérieur."
               }
             },
             {
@@ -519,13 +572,15 @@
                 "de": "Belvédère du Pey de la Blet",
                 "hu": "Belvédère du Pey de la Blet",
                 "ro": "Belvédère du Pey de la Blet",
-                "en": "Belvédère du Pey de la Blet"
+                "en": "Belvédère du Pey de la Blet",
+                "fr": "Belvédère du Pey de la Blet"
               },
               "tip_5lang": {
                 "de": "Die Holztreppen zum Aussichtspunkt können bei Regen sehr glatt sein; steigen Sie vorsichtig und halten Sie sich am Geländer fest.",
                 "hu": "A kilátóhoz vezető fa lépcsők esőben nagyon csúszósak lehetnek; lépkedjen óvatosan, és kapaszkodjon erősen a korlátba.",
                 "ro": "Scările de lemn spre belvedere pot fi foarte alunecoase pe ploaie; urcați cu atenție și țineți-vă bine de balustradă.",
-                "en": "The wooden stairs to the viewpoint can be very slick in the rain; climb carefully and hold onto the handrails firmly."
+                "en": "The wooden stairs to the viewpoint can be very slick in the rain; climb carefully and hold onto the handrails firmly.",
+                "fr": "L'escalier en bois menant au belvédère peut être très glissant sous la pluie ; montez prudemment et tenez‑vous fermement aux mains courantes."
               }
             },
             {
@@ -533,13 +588,15 @@
                 "de": "Théâtre du Gymnase",
                 "hu": "Théâtre du Gymnase",
                 "ro": "Théâtre du Gymnase",
-                "en": "Théâtre du Gymnase"
+                "en": "Théâtre du Gymnase",
+                "fr": "Théâtre du Gymnase"
               },
               "tip_5lang": {
                 "de": "Ein idealer Ort, um die Regenkleidung kurz zu lüften; nutzen Sie die überdachte Vorhalle für einen Snack und Trinkpause.",
                 "hu": "Ideális hely az esőruházat rövid szellőztetésére; használja a fedett előcsarnokot egy gyors tízóraira vagy ivószünetre.",
                 "ro": "Un loc ideal pentru a vă aerisi puțin hainele de ploaie; folosiți vestibulul acoperit pentru o gustare și o pauză de apă.",
-                "en": "An ideal spot to briefly air out your rain gear; use the covered entrance hall for a snack and hydration break."
+                "en": "An ideal spot to briefly air out your rain gear; use the covered entrance hall for a snack and hydration break.",
+                "fr": "Un lieu idéal pour aérer brièvement votre équipement de pluie ; utilisez le hall d'entrée couvert pour une collation et une pause hydratation."
               }
             },
             {
@@ -547,13 +604,15 @@
                 "de": "Phare de Fromentine",
                 "hu": "Phare de Fromentine",
                 "ro": "Phare de Fromentine",
-                "en": "Phare de Fromentine"
+                "en": "Phare de Fromentine",
+                "fr": "Phare de Fromentine"
               },
               "tip_5lang": {
                 "de": "Bei starkem Seitenwind am Leuchtturm das Rad gut festhalten; der Boden am Pier kann durch Algenbewuchs sehr rutschig sein.",
                 "hu": "Erős oldalszélben a világítótoronynál fogja erősen a kormányt; a móló aljzata az algák miatt nagyon csúszós lehet.",
                 "ro": "În caz de vânt lateral puternic la far, țineți bine bicicleta; suprafața digului poate fi alunecoasă din cauza algelor.",
-                "en": "In strong side winds by the lighthouse, hold your bike firmly; the pier surface can be very slippery due to algae growth."
+                "en": "In strong side winds by the lighthouse, hold your bike firmly; the pier surface can be very slippery due to algae growth.",
+                "fr": "Par vents latéraux forts près du phare, tenez bien votre vélo ; la surface de la jetée peut être très glissante à cause des algues."
               }
             },
             {
@@ -561,13 +620,15 @@
                 "de": "Plage de Fromentine",
                 "hu": "Plage de Fromentine",
                 "ro": "Plage de Fromentine",
-                "en": "Plage de Fromentine"
+                "en": "Plage de Fromentine",
+                "fr": "Plage de Fromentine"
               },
               "tip_5lang": {
                 "de": "Fahren Sie mit dem Rad nicht zu nah ans Wasser, da der weiche Sand Ihre Reifen einsinken lässt und die Kette verschmutzt.",
                 "hu": "Ne menjen a kerékpárral túl közel a vízhez, mert a puha homokba belesüllyedhet a gumi, és a sós víz károsítja a láncot.",
                 "ro": "nu mergeți cu bicicleta prea aproape de apă, deoarece nisipul moale vă va bloca roțile, iar sarea dăunează lanțului.",
-                "en": "Do not ride your bike too close to the water, as the soft sand will sink your tires and salt spray damages the chain."
+                "en": "Do not ride your bike too close to the water, as the soft sand will sink your tires and salt spray damages the chain.",
+                "fr": "Ne roulez pas trop près de l'eau, le sable mou fera enfoncer vos pneus et les embruns salés abîment la chaîne."
               }
             },
             {
@@ -575,13 +636,15 @@
                 "de": "Plage Des Boucholeurs",
                 "hu": "Plage Des Boucholeurs",
                 "ro": "Plage Des Boucholeurs",
-                "en": "Plage Des Boucholeurs"
+                "en": "Plage Des Boucholeurs",
+                "fr": "Plage Des Boucholeurs"
               },
               "tip_5lang": {
                 "de": "Nach der Tour das Rad unbedingt mit klarem Wasser abspülen, um Salz und Sand zu entfernen, die durch den Regen überall haften.",
                 "hu": "A túra után mindenképpen öblítse le a kerékpárt tiszta vízzel, hogy eltávolítsa a sót és homokot, ami az esőben rátapadt.",
                 "ro": "După tură, clătiți neapărat bicicleta cu apă curată pentru a îndepărta sarea și nisipul care s-au lipit peste tot din cauza ploii.",
-                "en": "After the tour, be sure to rinse your bike with fresh water to remove salt and sand that stuck everywhere during the rainy ride."
+                "en": "After the tour, be sure to rinse your bike with fresh water to remove salt and sand that stuck everywhere during the rainy ride.",
+                "fr": "Après la sortie, pensez à rincer votre vélo à l'eau douce pour enlever le sel et le sable qui se sont déposés partout pendant la promenade humide."
               }
             }
           ]
@@ -591,7 +654,8 @@
             "de": "Eine winterliche Radtour durch die Pinienwälder beginnt frostig an der Kirche. Der Weg führt über den Aussichtspunkt, wo der Blick über die kahle Winterlandschaft besonders weit reicht. Mittags radeln wir am Meer entlang, wobei der kalte Wind dicke Handschuhe erfordert. Das goldene Licht am Leuchtturm entschädigt für die Kälte, bevor wir die Tour rechtzeitig vor der frühen Dunkelheit beenden.",
             "hu": "Téli kerékpártúra a fenyveseken át, amely fagyosan indul a templomnál. Az út a kilátón keresztül vezet, ahonnan messzire ellátni a kopár téli tájon. Délben a tenger mentén tekerünk, ahol a hideg szél miatt vastag kesztyűre lesz szükség. A világítótorony aranyló fénye kárpótol a hidegért, mielőtt még a korai sötétedés előtt befejeznénk a túrát.",
             "ro": "O tură de iarnă cu bicicleta prin păduri începe cu ger la biserică. Drumul trece pe la belvedere, unde vizibilitatea peste peisajul golaș este vastă. La prânz pedalăm pe malul mării, vântul rece impunând purtarea mănușilor groase. Lumina aurie de la far compensează frigul, înainte de a termina tura înainte de lăsarea întunericului.",
-            "en": "A winter bike tour through the pines starts frostily at the church. The path leads via the viewpoint, where views across the bare winter landscape are vast. At noon we cycle along the sea, where the cold wind makes thick gloves essential. The golden light at the lighthouse rewards the chill before we end the tour well before the early darkness."
+            "en": "A winter bike tour through the pines starts frostily at the church. The path leads via the viewpoint, where views across the bare winter landscape are vast. At noon we cycle along the sea, where the cold wind makes thick gloves essential. The golden light at the lighthouse rewards the chill before we end the tour well before the early darkness.",
+            "fr": "Une randonnée hivernale à vélo à travers les pins commence froidement à l'église. Le chemin passe par le belvédère, où les vues sur le paysage hivernal dénudé sont vastes. À midi, nous roulons le long de la mer, où le vent froid rend des gants épais indispensables. La lumière dorée au phare récompense la fraîcheur avant de terminer la sortie bien avant la tombée rapide de la nuit."
           },
           "stops": [
             {
@@ -599,13 +663,15 @@
                 "de": "Église Saint-Louis",
                 "hu": "Église Saint-Louis",
                 "ro": "Église Saint-Louis",
-                "en": "Église Saint-Louis"
+                "en": "Église Saint-Louis",
+                "fr": "Église Saint-Louis"
               },
               "tip_5lang": {
                 "de": "Prüfen Sie Ihren Reifendruck vor dem Start; kalte Luft lässt den Druck oft sinken, was das Treten auf harten Winterwegen erschwert.",
                 "hu": "Indulás előtt ellenőrizze a guminyomást; a hideg levegő miatt gyakran csökken a nyomás, ami nehezíti a tekerést a kemény utakon.",
                 "ro": "Verificați presiunea în pneuri înainte de start; aerul rece scade adesea presiunea, îngreunând pedalatul pe drumurile de iarnă.",
-                "en": "Check your tire pressure before starting; cold air often causes pressure to drop, making pedaling harder on firm winter paths."
+                "en": "Check your tire pressure before starting; cold air often causes pressure to drop, making pedaling harder on firm winter paths.",
+                "fr": "Vérifiez la pression de vos pneus avant de partir ; l'air froid provoque souvent une baisse de pression, rendant le pédalage plus difficile sur les chemins fermes d'hiver."
               }
             },
             {
@@ -613,13 +679,15 @@
                 "de": "Domaine de l'Opéra",
                 "hu": "Domaine de l'Opéra",
                 "ro": "Domaine de l'Opéra",
-                "en": "Domaine de l'Opéra"
+                "en": "Domaine de l'Opéra",
+                "fr": "Domaine de l'Opéra"
               },
               "tip_5lang": {
                 "de": "Nutzen Sie die Besichtigung für ein kurzes Aufwärmen der Hände und Füße; im Winter ist die Atmosphäre hier besonders besinnlich.",
                 "hu": "Használja ki a látogatást a kezek és lábak rövid felmelegítésére; télen az atmoszféra itt különösen meghitt és csendes.",
                 "ro": "Folosiți vizita pentru a vă încălzi puțin mâinile și picioarele; iarna, atmosfera de aici este deosebit de liniștită și primitoare.",
-                "en": "Use the visit to briefly warm up your hands and feet; in winter, the atmosphere here is particularly peaceful and cozy."
+                "en": "Use the visit to briefly warm up your hands and feet; in winter, the atmosphere here is particularly peaceful and cozy.",
+                "fr": "Profitez de la visite pour réchauffer brièvement vos mains et vos pieds ; en hiver, l'atmosphère y est particulièrement paisible et chaleureuse."
               }
             },
             {
@@ -627,13 +695,15 @@
                 "de": "Belvédère du Pey de la Blet",
                 "hu": "Belvédère du Pey de la Blet",
                 "ro": "Belvédère du Pey de la Blet",
-                "en": "Belvédère du Pey de la Blet"
+                "en": "Belvédère du Pey de la Blet",
+                "fr": "Belvédère du Pey de la Blet"
               },
               "tip_5lang": {
                 "de": "Oben weht oft ein scharfer Winterwind; ziehen Sie eine winddichte Jacke über, bevor Sie die Aussicht über den Wald genießen.",
                 "hu": "Fent gyakran metsző téli szél fúj; vegyen fel szélálló dzsekit, mielőtt megcsodálná a kilátást az erdő felett.",
                 "ro": "Sus bate adesea un vânt tăios de iarnă; puneți-vă o jachetă rezistentă la vânt înainte de a admira priveliștea peste pădure.",
-                "en": "A sharp winter wind often blows at the top; pull on a windproof jacket before enjoying the view over the forest canopy."
+                "en": "A sharp winter wind often blows at the top; pull on a windproof jacket before enjoying the view over the forest canopy.",
+                "fr": "Un vent d'hiver cinglant souffle souvent au sommet ; enfilez une veste coupe‑vent avant d'admirer la vue sur la canopée forestière."
               }
             },
             {
@@ -641,13 +711,15 @@
                 "de": "Théâtre du Gymnase",
                 "hu": "Théâtre du Gymnase",
                 "ro": "Théâtre du Gymnase",
-                "en": "Théâtre du Gymnase"
+                "en": "Théâtre du Gymnase",
+                "fr": "Théâtre du Gymnase"
               },
               "tip_5lang": {
                 "de": "Stellen Sie sicher, dass Ihre Fahrradbeleuchtung funktioniert, da das Licht im Wald am Nachmittag schnell schwächer wird.",
                 "hu": "Győződjön meg róla, hogy a kerékpáros világítás működik, mert az erdőben délután már gyorsan gyengülnek a fényviszonyok.",
                 "ro": "Asigurați-vă că luminile bicicletei funcționează, deoarece lumina din pădure scade rapid în intensitate după-amiaza.",
-                "en": "Ensure your bike lights are working, as visibility in the forest can drop quickly in the late afternoon winter light."
+                "en": "Ensure your bike lights are working, as visibility in the forest can drop quickly in the late afternoon winter light.",
+                "fr": "Assurez‑vous que les éclairages de votre vélo fonctionnent, car la visibilité en forêt peut chuter rapidement en fin d'après‑midi hivernal."
               }
             },
             {
@@ -655,13 +727,15 @@
                 "de": "Phare de Fromentine",
                 "hu": "Phare de Fromentine",
                 "ro": "Phare de Fromentine",
-                "en": "Phare de Fromentine"
+                "en": "Phare de Fromentine",
+                "fr": "Phare de Fromentine"
               },
               "tip_5lang": {
                 "de": "Das tiefstehende Sonnenlicht spiegelt sich herrlich im kalten Wasser; ein Schal schützt Sie vor der kalten Brise am offenen Pier.",
                 "hu": "Az alacsonyan járó nap fénye csodásan csillog a hideg vízen; egy sál megvédi a nyitott mólón fújó fagyos széltől.",
                 "ro": "Lumina soarelui se reflectă superb în apa rece; un fular vă va proteja de briza înghețată de pe digul deschis.",
-                "en": "The low sun reflects beautifully on the cold water; a scarf will protect you from the freezing breeze on the open pier."
+                "en": "The low sun reflects beautifully on the cold water; a scarf will protect you from the freezing breeze on the open pier.",
+                "fr": "Le soleil bas se reflète magnifiquement sur l'eau froide ; une écharpe vous protégera des courants glacés sur la jetée ouverte."
               }
             },
             {
@@ -669,13 +743,15 @@
                 "de": "Plage de Fromentine",
                 "hu": "Plage de Fromentine",
                 "ro": "Plage de Fromentine",
-                "en": "Plage de Fromentine"
+                "en": "Plage de Fromentine",
+                "fr": "Plage de Fromentine"
               },
               "tip_5lang": {
                 "de": "Die Luftfeuchtigkeit kann die Kälte verstärken; achten Sie auf trockene Kleidung, um beim Radfahren nicht auszukühlen.",
                 "hu": "A levegő páratartalma fokozhatja a hidegérzetet; ügyeljen a száraz ruházatra, hogy tekerés közben ne hűljön ki.",
                 "ro": "Umiditatea aerului poate accentua senzația de frig; asigurați-vă că aveți haine uscate pentru a nu îngheța în timp ce pedalați.",
-                "en": "The air humidity can intensify the feeling of cold; ensure your clothing stays dry so you don't chill while cycling."
+                "en": "The air humidity can intensify the feeling of cold; ensure your clothing stays dry so you don't chill while cycling.",
+                "fr": "L'humidité de l'air peut accentuer la sensation de froid ; veillez à ce que vos vêtements restent secs pour ne pas vous refroidir en roulant."
               }
             },
             {
@@ -683,13 +759,15 @@
                 "de": "Plage Des Boucholeurs",
                 "hu": "Plage Des Boucholeurs",
                 "ro": "Plage Des Boucholeurs",
-                "en": "Plage Des Boucholeurs"
+                "en": "Plage Des Boucholeurs",
+                "fr": "Plage Des Boucholeurs"
               },
               "tip_5lang": {
                 "de": "Gegen 16:00 Uhr beginnt die Dämmerung; schalten Sie Ihre Reflektoren ein und genießen Sie die blaue Stunde am Strand.",
                 "hu": "16:00 körül elkezdődik a szürkület; kapcsolja be a fényvisszaverőket, és élvezze a kék órát a tengerparton.",
                 "ro": "În jurul orei 16:00 începe amurgul; porniți elementele reflectorizante și bucurați-vă de ora albastră pe plajă.",
-                "en": "Twilight begins around 16:00; switch on your reflectors and enjoy the magical 'blue hour' by the beach."
+                "en": "Twilight begins around 16:00; switch on your reflectors and enjoy the magical 'blue hour' by the beach.",
+                "fr": "La tombée du jour commence vers 16:00 ; allumez vos réflecteurs et profitez de l'heure bleue magique au bord de la plage."
               }
             }
           ]
@@ -709,7 +787,8 @@
             "de": "Belvédère du Pey de la Blet",
             "hu": "Belvédère du Pey de la Blet",
             "ro": "Belvédère du Pey de la Blet",
-            "en": "Belvédère du Pey de la Blet"
+            "en": "Belvédère du Pey de la Blet",
+            "fr": "Belvédère du Pey de la Blet"
           },
           "coords": [
             -2.126392,
@@ -724,7 +803,8 @@
             "de": "Genießen Sie das atemberaubende Panorama von diesem hochgelegenen Aussichtspunkt über die Küste, und nehmen Sie ein Fernglas mit, um die vorbeifahrenden Schiffe zu beobachten.",
             "hu": "Élvezze a lélegzetelállító panorámát a tengerpartra ebből a magasan fekvő kilátóból, és vigyen magával egy távcsövet az elhaladó hajók és madarak kényelmes megfigyeléséhez.",
             "ro": "Bucurați-vă de panorama uluitoare a coastei din acest punct de belvedere înalt și luați cu voi un binoclu pentru a observa confortabil navele și păsările care trec.",
-            "en": "Enjoy the breathtaking panorama of the vast coastline from this elevated viewpoint, and bring along a pair of binoculars to comfortably observe passing ships and seabirds."
+            "en": "Enjoy the breathtaking panorama of the vast coastline from this elevated viewpoint, and bring along a pair of binoculars to comfortably observe passing ships and seabirds.",
+            "fr": "Profitez du panorama à couper le souffle sur la vaste côte depuis ce point de vue surélevé, et emportez une paire de jumelles pour observer confortablement les navires et les oiseaux marins de passage."
           }
         },
         {
@@ -732,7 +812,8 @@
             "de": "Plage de la Bergère",
             "hu": "Plage de la Bergère",
             "ro": "Plage de la Bergère",
-            "en": "Plage de la Bergère"
+            "en": "Plage de la Bergère",
+            "fr": "Plage de la Bergère"
           },
           "coords": [
             -2.152275,
@@ -747,7 +828,8 @@
             "de": "Erleben Sie die weite Dünenlandschaft dieses ruhigen Strandes abseits der Menschenmassen, und bringen Sie ausreichend Trinkwasser mit, da es hier keine Geschäfte gibt.",
             "hu": "Élvezze a tömegtől távol eső, csendes strand széles dűnéit, és hozzon magával elegendő ivóvizet, mivel ezen a természeti területen nincsenek közvetlen vásárlási lehetőségek.",
             "ro": "Experimentați peisajul vast de dune al acestei plaje liniștite, departe de aglomerație, și aduceți suficientă apă de băut, deoarece nu există magazine în această zonă.",
-            "en": "Experience the vast dune landscape of this quiet beach away from the typical crowds, and bring plenty of drinking water since there are no immediate shops in this wild area."
+            "en": "Experience the vast dune landscape of this quiet beach away from the typical crowds, and bring plenty of drinking water since there are no immediate shops in this wild area.",
+            "fr": "Découvrez le vaste paysage de dunes de cette plage tranquille, à l'écart des foules habituelles, et emportez suffisamment d'eau à boire car il n'y a pas de commerces immédiats dans cette zone sauvage."
           }
         },
         {
@@ -755,7 +837,8 @@
             "de": "Église Saint-Louis",
             "hu": "Église Saint-Louis",
             "ro": "Église Saint-Louis",
-            "en": "Église Saint-Louis"
+            "en": "Église Saint-Louis",
+            "fr": "Église Saint-Louis"
           },
           "coords": [
             -2.118927,
@@ -770,7 +853,8 @@
             "de": "Entdecken Sie die spirituelle Ruhe dieser eleganten Kirche mit ihren wunderschönen Buntglasfenstern, und achten Sie beim Betreten auf angemessene und bedeckende Kleidung.",
             "hu": "Fedezze fel ennek az elegáns, gyönyörű ólomüveg ablakokkal rendelkező templomnak a lelki nyugalmát, és belépéskor ügyeljen a megfelelő, vállakat takaró ruházatra.",
             "ro": "Descoperiți liniștea spirituală a acestei biserici elegante, cu vitraliile sale superbe, și asigurați-vă că purtați o ținută respectuoasă, care acoperă umerii, la intrare.",
-            "en": "Discover the spiritual tranquility of this elegant church featuring gorgeous stained glass windows, and ensure you wear respectful clothing covering shoulders when entering."
+            "en": "Discover the spiritual tranquility of this elegant church featuring gorgeous stained glass windows, and ensure you wear respectful clothing covering shoulders when entering.",
+            "fr": "Découvrez la tranquillité spirituelle de cette église élégante aux superbes vitraux, et veillez à porter des vêtements respectueux couvrant les épaules lors de l'entrée."
           }
         },
         {
@@ -778,7 +862,8 @@
             "de": "Domaine de l'Opéra",
             "hu": "Domaine de l'Opéra",
             "ro": "Domaine de l'Opéra",
-            "en": "Domaine de l'Opéra"
+            "en": "Domaine de l'Opéra",
+            "fr": "Domaine de l'Opéra"
           },
           "coords": [
             -2.117574,
@@ -793,7 +878,8 @@
             "de": "Erkunden Sie dieses prächtige kulturelle Anwesen, das klassische Architektur bewahrt, und prüfen Sie vorab die Öffnungszeiten für exklusive, geführte historische Touren.",
             "hu": "Fedezze fel ezt a klasszikus építészetet megőrző csodálatos kulturális birtokot, és az exkluzív, vezetett történelmi túrákhoz előzetesen ellenőrizze a nyitvatartási időt.",
             "ro": "Explorați acest domeniu cultural magnific care conservă arhitectura clasică și verificați programul în prealabil pentru tururi istorice exclusive, cu ghid specializat.",
-            "en": "Explore this magnificent cultural estate preserving classical architecture, and check the schedule in advance to join one of the exclusive, fully guided historical tours."
+            "en": "Explore this magnificent cultural estate preserving classical architecture, and check the schedule in advance to join one of the exclusive, fully guided historical tours.",
+            "fr": "Explorez ce magnifique domaine culturel préservant l'architecture classique, et consultez le programme à l'avance pour participer à l'une des visites historiques entièrement guidées."
           }
         },
         {
@@ -801,7 +887,8 @@
             "de": "Théâtre du Gymnase",
             "hu": "Théâtre du Gymnase",
             "ro": "Théâtre du Gymnase",
-            "en": "Théâtre du Gymnase"
+            "en": "Théâtre du Gymnase",
+            "fr": "Théâtre du Gymnase"
           },
           "coords": [
             -2.13488,
@@ -816,7 +903,8 @@
             "de": "Bewundern Sie die kulturellen Vorführungen in diesem historischen Theater, das die lokale Kunstszene belebt, und buchen Sie Ihre Tickets unbedingt im Voraus online.",
             "hu": "Csodálja meg a helyi művészeti életet fellendítő történelmi színház kulturális előadásait, és mindenképpen jó előre foglalja le a jegyeket az interneten.",
             "ro": "Admirați spectacolele culturale din acest teatru istoric care însuflețește scena artistică locală și asigurați-vă că rezervați biletele online din timp.",
-            "en": "Admire the cultural performances in this historic theater that animates the local art scene, and be sure to book your tickets well in advance online."
+            "en": "Admire the cultural performances in this historic theater that animates the local art scene, and be sure to book your tickets well in advance online.",
+            "fr": "Admirez les spectacles culturels dans ce théâtre historique qui anime la scène artistique locale, et pensez à réserver vos billets en ligne bien à l'avance."
           }
         },
         {
@@ -824,7 +912,8 @@
             "de": "Phare de Fromentine",
             "hu": "Phare de Fromentine",
             "ro": "Phare de Fromentine",
-            "en": "Phare de Fromentine"
+            "en": "Phare de Fromentine",
+            "fr": "Phare de Fromentine"
           },
           "coords": [
             -2.142392,
@@ -839,7 +928,8 @@
             "de": "Bestaunen Sie diesen ikonischen Leuchtturm, der seit Jahrzehnten den Seeleuten den Weg weist, und nutzen Sie das sanfte Nachmittagslicht für atemberaubende Urlaubsfotos.",
             "hu": "Csodálja meg ezt az ikonikus világítótornyot, amely évtizedek óta irányítja a tengerészeket, és használja ki a lágy délutáni fényeket a lélegzetelállító nyaralási fotókhoz.",
             "ro": "Admirați acest far iconic care a ghidat marinarii de zeci de ani și profitați de lumina blândă a după-amiezii pentru a surprinde fotografii uluitoare de vacanță.",
-            "en": "Marvel at this iconic lighthouse that has guided sailors for decades, and take full advantage of the soft afternoon light to capture truly breathtaking vacation photos."
+            "en": "Marvel at this iconic lighthouse that has guided sailors for decades, and take full advantage of the soft afternoon light to capture truly breathtaking vacation photos.",
+            "fr": "Émerveillez‑vous devant ce phare emblématique qui guide les marins depuis des décennies, et profitez de la douce lumière de l'après‑midi pour réaliser des photos de vacances vraiment époustouflantes."
           }
         },
         {
@@ -847,7 +937,8 @@
             "de": "Plage de la Grande Côte",
             "hu": "Plage de la Grande Côte",
             "ro": "Plage de la Grande Côte",
-            "en": "Plage de la Grande Côte"
+            "en": "Plage de la Grande Côte",
+            "fr": "Plage de la Grande Côte"
           },
           "coords": [
             -2.155671,
@@ -862,7 +953,8 @@
             "de": "Spazieren Sie entlang der weitläufigen Küste dieses naturbelassenen Strandes, der perfekte Ruhe bietet, und tragen Sie bequeme Schuhe für ausgedehnte Strandwanderungen.",
             "hu": "Sétáljon végig ennek a tökéletes nyugalmat kínáló természetes strandnak a kiterjedt partvonalán, és viseljen kényelmes cipőt a hosszú, pihentető tengerparti sétákhoz.",
             "ro": "Plimbați-vă de-a lungul coastei extinse a acestei plaje naturale care oferă liniște perfectă și purtați încălțăminte confortabilă pentru plimbări lungi pe țărmul mării.",
-            "en": "Stroll along the expansive coastline of this natural beach offering perfect tranquility, and wear comfortable walking shoes for extended walks along the beautiful shore."
+            "en": "Stroll along the expansive coastline of this natural beach offering perfect tranquility, and wear comfortable walking shoes for extended walks along the beautiful shore.",
+            "fr": "Promenez‑vous le long du littoral étendu de cette plage naturelle offrant une parfaite tranquillité, et portez des chaussures de marche confortables pour de longues balades le long du rivage."
           }
         },
         {
@@ -870,7 +962,8 @@
             "de": "Plage Des Boucholeurs",
             "hu": "Plage Des Boucholeurs",
             "ro": "Plage Des Boucholeurs",
-            "en": "Plage Des Boucholeurs"
+            "en": "Plage Des Boucholeurs",
+            "fr": "Plage Des Boucholeurs"
           },
           "coords": [
             -2.160149,
@@ -885,7 +978,8 @@
             "de": "Entdecken Sie diese charmante Strandbucht, die für ihre traditionelle Muschelzucht bekannt ist, und probieren Sie unbedingt die frischen Meeresfrüchte in den nahen Lokalen.",
             "hu": "Fedezze fel ezt a hagyományos kagylótenyésztéséről híres hangulatos tengerparti öblöt, és mindenképpen kóstolja meg a közeli éttermek kínálta friss, helyi tengeri gyümölcsöket.",
             "ro": "Descoperiți acest golf fermecător renumit pentru cultivarea tradițională a midiilor și asigurați-vă că gustați fructele de mare proaspete la restaurantele din apropiere.",
-            "en": "Discover this charming beach cove renowned for its traditional mussel farming, and make sure to taste the incredibly fresh local seafood at the nearby coastal establishments."
+            "en": "Discover this charming beach cove renowned for its traditional mussel farming, and make sure to taste the incredibly fresh local seafood at the nearby coastal establishments.",
+            "fr": "Découvrez cette anse de plage charmante réputée pour son mytiliculture traditionnelle, et n'oubliez pas de goûter les fruits de mer incroyablement frais dans les établissements côtiers proches."
           }
         }
       ],
@@ -893,7 +987,8 @@
         "de": "Starten Sie Ihre Fahrt mit einem Panoramablick vom erhöhten Aussichtspunkt. Die Route führt Sie vormittags weiter zu abgelegenen Dünen und historischen Kirchen. Nach dem Mittagessen entdecken Sie die kulturellen Schätze und den zentralen Leuchtturm der Stadt. Der Tag endet perfekt an den malerischen Stränden, wo die untergehende Sonne die Wellen in ein goldenes Licht taucht.",
         "hu": "Kezdje az utazást egy lenyűgöző panorámával a magaslati kilátóból. Az útvonal délelőtt a félreeső dűnékhez és a történelmi templomokhoz vezet. Ebéd után felfedezheti a város kulturális kincseit és a központi világítótornyot. A nap tökéletesen zárul a festői strandokon, ahol a lenyugvó nap arany fénybe vonja a szelíden morajló óceáni hullámokat.",
         "ro": "Începeți călătoria cu o vedere panoramică de la punctul de belvedere înalt. Traseul vă duce dimineața spre dunele izolate și bisericile istorice. După prânz, veți descoperi comorile culturale și farul central al orașului. Ziua se încheie perfect pe plajele pitorești, unde soarele la apus scaldă valurile oceanului într-o lumină aurie spectaculoasă și liniștitoare.",
-        "en": "Start your beautiful drive with a stunning panoramic view from the elevated viewpoint. The route takes you seamlessly to secluded dunes and historic churches in the morning. After a lovely lunch, discover the city's rich cultural treasures and the central lighthouse. The day ends perfectly on the picturesque beaches, where the setting sun casts a warm golden glow over the ocean waves."
+        "en": "Start your beautiful drive with a stunning panoramic view from the elevated viewpoint. The route takes you seamlessly to secluded dunes and historic churches in the morning. After a lovely lunch, discover the city's rich cultural treasures and the central lighthouse. The day ends perfectly on the picturesque beaches, where the setting sun casts a warm golden glow over the ocean waves.",
+        "fr": "Commencez votre belle promenade en voiture par une vue panoramique depuis le belvédère. L'itinéraire vous mène sans heurt vers des dunes isolées et des églises historiques le matin. Après un déjeuner agréable, découvrez les riches trésors culturels de la ville et le phare central. La journée se termine parfaitement sur les plages pittoresques, où le soleil couchant jette une chaude lueur dorée sur les vagues de l'océan."
       },
       "variants": {
         "rainy": {
@@ -901,7 +996,8 @@
             "de": "Ein komfortabler Regentag beginnt mit der Fahrt zum Pey de la Blet, wo Sie den Wald aus dem warmen Auto betrachten. Die Küstenstraße führt vorbei an stürmischen Stränden, während die Église Saint-Louis und das Domaine de l'Opéra ideale trockene Zwischenstopps bieten. Am Nachmittag bewundern Sie den Leuchtturm und die wilden Wellen der Grande Côte geschützt durch kurze Wege vom Parkplatz.",
             "hu": "Kényelmes esős nap indul a Pey de la Blet felé, ahol az autó melegéből csodálhatja az erdőt. A parti út viharos strandok mellett vezet, miközben a Saint-Louis templom és a Domaine de l'Opéra ideális száraz megállókat kínálnak. Délután a világítótorony és a Grande Côte vad hullámai következnek, amelyeket a közeli parkolókból, rövid sétával érhet el.",
             "ro": "O zi ploioasă confortabilă începe cu drumul spre Pey de la Blet, unde puteți admira pădurea din mașina caldă. Drumul de coastă trece pe lângă plaje furtunoase, în timp ce biserica și Domaine de l'Opéra oferă opriri uscate ideale. După-amiaza admirați farul și valurile sălbatice de la Grande Côte, profitând de distanțele scurte de la parcare.",
-            "en": "A comfortable rainy day starts with a drive to Pey de la Blet, admiring the forest from the warmth of your car. The coastal road leads past stormy beaches, with Église Saint-Louis and Domaine de l'Opéra providing perfect dry stops. In the afternoon, view the lighthouse and wild waves at Grande Côte, benefiting from short walks from the nearby parking spots."
+            "en": "A comfortable rainy day starts with a drive to Pey de la Blet, admiring the forest from the warmth of your car. The coastal road leads past stormy beaches, with Église Saint-Louis and Domaine de l'Opéra providing perfect dry stops. In the afternoon, view the lighthouse and wild waves at Grande Côte, benefiting from short walks from the nearby parking spots.",
+            "fr": "Une journée pluvieuse confortable commence par une voiture jusqu'au Pey de la Blet, admirant la forêt depuis la chaleur du véhicule. La route côtière longe des plages houleuses, avec Église Saint‑Louis et Domaine de l'Opéra offrant des arrêts secs parfaits. L'après‑midi, admirez le phare et les vagues sauvages à Grande Côte, en profitant de courtes promenades depuis les parkings proches."
           },
           "stops": [
             {
@@ -909,13 +1005,15 @@
                 "de": "Belvédère du Pey de la Blet",
                 "hu": "Belvédère du Pey de la Blet",
                 "ro": "Belvédère du Pey de la Blet",
-                "en": "Belvédère du Pey de la Blet"
+                "en": "Belvédère du Pey de la Blet",
+                "fr": "Belvédère du Pey de la Blet"
               },
               "tip_5lang": {
                 "de": "Parken Sie im Schatten der Bäume, um beim Ein- und Aussteigen weniger nass zu werden; der Weg zum Turm ist kurz, aber oft matschig.",
                 "hu": "Parkoljon a fák árnyékában, hogy be- és kiszálláskor kevésbé ázzon meg; a toronyhoz vezető út rövid, de gyakran sáros.",
                 "ro": "Parcați la umbra copacilor pentru a vă uda mai puțin la urcare și coborâre; drumul spre turn este scurt, dar adesea noroios.",
-                "en": "Park under the tree canopy to stay drier when getting in and out; the path to the tower is short but often muddy in the rain."
+                "en": "Park under the tree canopy to stay drier when getting in and out; the path to the tower is short but often muddy in the rain.",
+                "fr": "Garez‑vous sous la canopée des arbres pour rester plus sec en montant et descendant du véhicule ; le chemin vers la tour est court mais souvent boueux sous la pluie."
               }
             },
             {
@@ -923,13 +1021,15 @@
                 "de": "Plage de la Bergère",
                 "hu": "Plage de la Bergère",
                 "ro": "Plage de la Bergère",
-                "en": "Plage de la Bergère"
+                "en": "Plage de la Bergère",
+                "fr": "Plage de la Bergère"
               },
               "tip_5lang": {
                 "de": "Genießen Sie den Blick auf das graue Meer direkt aus dem Auto; der Parkplatz bietet eine gute Sicht auf die Dünen im Regen.",
                 "hu": "Élvezze a szürke tenger látványát közvetlenül az autóból; a parkolóból kiváló rálátás nyílik a dűnékre az esőben is.",
                 "ro": "Bucurați-vă de vederea mării cenușii direct din mașină; parcarea oferă o vizibilitate bună asupra dunelor pe ploaie.",
-                "en": "Enjoy the view of the gray sea directly from your car; the parking lot offers a great perspective of the dunes even in the rain."
+                "en": "Enjoy the view of the gray sea directly from your car; the parking lot offers a great perspective of the dunes even in the rain.",
+                "fr": "Profitez de la vue sur la mer grise directement depuis votre voiture ; le parking offre une excellente perspective sur les dunes même sous la pluie."
               }
             },
             {
@@ -937,13 +1037,15 @@
                 "de": "Église Saint-Louis",
                 "hu": "Église Saint-Louis",
                 "ro": "Église Saint-Louis",
-                "en": "Église Saint-Louis"
+                "en": "Église Saint-Louis",
+                "fr": "Église Saint-Louis"
               },
               "tip_5lang": {
                 "de": "Ein kurzer Sprint vom Parkplatz führt in das trockene Kirchenschiff; ideal, um den stärksten Regen bei einer Besichtigung abzuwarten.",
                 "hu": "Egy rövid sprint a parkolóból a száraz templomhajóba vezet; ideális helyszín kivárni a leghevesebb esőt a látogatás alatt.",
                 "ro": "Un scurt sprint din parcare vă duce în nava uscată a bisericii; este locul ideal pentru a aștepta trecerea ploii torențiale.",
-                "en": "A short sprint from the parking lot leads to the dry nave; ideal for waiting out the heaviest rain while exploring the interior."
+                "en": "A short sprint from the parking lot leads to the dry nave; ideal for waiting out the heaviest rain while exploring the interior.",
+                "fr": "Un court sprint depuis le parking mène à la nef sèche ; idéal pour attendre la grosse averse tout en explorant l'intérieur."
               }
             },
             {
@@ -951,13 +1053,15 @@
                 "de": "Domaine de l'Opéra",
                 "hu": "Domaine de l'Opéra",
                 "ro": "Domaine de l'Opéra",
-                "en": "Domaine de l'Opéra"
+                "en": "Domaine de l'Opéra",
+                "fr": "Domaine de l'Opéra"
               },
               "tip_5lang": {
                 "de": "Nutzen Sie den befestigten Parkplatz; die Gebäude bieten Schutz und interessante Ausstellungen fernab vom nassen Wetter.",
                 "hu": "Használja a szilárd burkolatú parkolót; az épületek védelmet és érdekes kiállításokat kínálnak a vizes időjárás elől.",
                 "ro": "Folosiți parcarea pavată; clădirile oferă adăpost și expoziții interesante, departe de vremea umedă de afară.",
-                "en": "Use the paved parking area; the buildings provide shelter and interesting exhibitions away from the wet weather outside."
+                "en": "Use the paved parking area; the buildings provide shelter and interesting exhibitions away from the wet weather outside.",
+                "fr": "Utilisez l'aire de stationnement goudronnée ; les bâtiments offrent abri et expositions intéressantes à l'écart du mauvais temps extérieur."
               }
             },
             {
@@ -965,13 +1069,15 @@
                 "de": "Théâtre du Gymnase",
                 "hu": "Théâtre du Gymnase",
                 "ro": "Théâtre du Gymnase",
-                "en": "Théâtre du Gymnase"
+                "en": "Théâtre du Gymnase",
+                "fr": "Théâtre du Gymnase"
               },
               "tip_5lang": {
                 "de": "Die Zufahrt kann bei Starkregen Pfützen bilden; fahren Sie vorsichtig und nutzen Sie den überdachten Eingangsbereich zum Aussteigen.",
                 "hu": "Heves esőben tócsák alakulhatnak ki a felhajtón; vezessen óvatosan, és használja a fedett bejáratot a kiszálláshoz.",
                 "ro": "Accesul poate avea bălți la ploi torențiale; conduceți cu atenție și folosiți zona de intrare acoperită pentru a coborî.",
-                "en": "The driveway may develop puddles during heavy rain; drive carefully and use the covered entrance area for dropping off passengers."
+                "en": "The driveway may develop puddles during heavy rain; drive carefully and use the covered entrance area for dropping off passengers.",
+                "fr": "L'allée peut former des flaques lors de fortes pluies ; conduisez prudemment et utilisez l'entrée couverte pour déposer des passagers."
               }
             },
             {
@@ -979,13 +1085,15 @@
                 "de": "Phare de Fromentine",
                 "hu": "Phare de Fromentine",
                 "ro": "Phare de Fromentine",
-                "en": "Phare de Fromentine"
+                "en": "Phare de Fromentine",
+                "fr": "Phare de Fromentine"
               },
               "tip_5lang": {
                 "de": "Lassen Sie das Fernlicht bei Nebel und Regen aus, um Eigenblendung zu vermeiden; der Leuchtturm ist vom Parkplatz gut sichtbar.",
                 "hu": "Köd és eső esetén ne használja a távolsági fényszórót a tükröződés miatt; a világítótorony a parkolóból is jól látható.",
                 "ro": "Nu folosiți faza lungă pe ceață și ploaie pentru a evita reflexia; farul este bine vizibil chiar și din zona de parcare.",
-                "en": "Avoid using high beams in fog and rain to prevent glare; the lighthouse remains clearly visible even from the parking area."
+                "en": "Avoid using high beams in fog and rain to prevent glare; the lighthouse remains clearly visible even from the parking area.",
+                "fr": "Évitez d'utiliser les feux de route dans le brouillard et la pluie pour prévenir l'éblouissement ; le phare reste bien visible depuis le parking."
               }
             },
             {
@@ -993,13 +1101,15 @@
                 "de": "Plage de la Grande Côte",
                 "hu": "Plage de la Grande Côte",
                 "ro": "Plage de la Grande Côte",
-                "en": "Plage de la Grande Côte"
+                "en": "Plage de la Grande Côte",
+                "fr": "Plage de la Grande Côte"
               },
               "tip_5lang": {
                 "de": "Die Gischt kann den Wagen mit Salz überziehen; eine kurze Autowäsche nach diesem Stopp schützt den Lack vor Korrosion.",
                 "hu": "A tengeri permet sóréteggel vonhatja be az autót; egy gyors mosás a megálló után megvédi a fényezést a korróziótól.",
                 "ro": "Briza sărată poate depune sare pe mașină; o scurtă spălare după această oprire va proteja vopseaua de coroziune.",
-                "en": "Sea spray can coat the car in salt; a quick car wash after this stop will protect the paintwork from coastal corrosion."
+                "en": "Sea spray can coat the car in salt; a quick car wash after this stop will protect the paintwork from coastal corrosion.",
+                "fr": "Les embruns peuvent recouvrir la voiture de sel ; un lavage rapide après cet arrêt protégera la peinture de la corrosion côtière."
               }
             },
             {
@@ -1007,13 +1117,15 @@
                 "de": "Plage Des Boucholeurs",
                 "hu": "Plage Des Boucholeurs",
                 "ro": "Plage Des Boucholeurs",
-                "en": "Plage Des Boucholeurs"
+                "en": "Plage Des Boucholeurs",
+                "fr": "Plage Des Boucholeurs"
               },
               "tip_5lang": {
                 "de": "Bei Regen sind die Parkplätze hier oft leerer; genießen Sie die Einsamkeit und das Schauspiel der Gezeiten vom Fahrersitz aus.",
                 "hu": "Esőben a parkolók általában üresebbek; élvezze a magányt és az árapály látványát kényelmesen, a vezetőülésből.",
                 "ro": "Pe ploaie, parcările sunt adesea mai goale; bucurați-vă de singurătate și de spectacolul mareei din confortul scaunului.",
-                "en": "In the rain, parking spots are often easier to find; enjoy the solitude and the tidal spectacle from the comfort of your seat."
+                "en": "In the rain, parking spots are often easier to find; enjoy the solitude and the tidal spectacle from the comfort of your seat.",
+                "fr": "Sous la pluie, les places de parking sont souvent plus faciles à trouver ; profitez de la solitude et du spectacle des marées depuis le confort de votre siège."
               }
             }
           ]
@@ -1023,7 +1135,8 @@
             "de": "Die Wintertour im Auto beginnt mit einer frostigen Aussicht am Pey de la Blet. Die Heizung sorgt für Wohlbefinden, während wir die Église Saint-Louis und das Domaine de l'Opéra besuchen. Mittags glitzert das Meer bei Fromentine in der tiefstehenden Sonne. Der Leuchtturm bietet ein tolles Fotomotiv im Winterlicht, bevor wir um 17:00 Uhr pünktlich zum Sonnenuntergang an der Grande Côte ankommen.",
             "hu": "A téli autós túra fagyos kilátással indul a Pey de la Blet-nél. Az utastér melege kényelmessé teszi a látogatást a templomnál és az operánál. Délben a tenger Fromentine-nél csillog az alacsonyan járó napfényben. A világítótorony remek fotótéma a téli fényekben, mielőtt pontosan 17:00-kor megérkeznénk a naplementéhez a Grande Côte-ra.",
             "ro": "Tura de iarnă cu mașina începe cu o priveliște înghețată la Pey de la Blet. Căldura din interior face vizita la biserică și operă foarte plăcută. La prânz, marea strălucește la Fromentine sub soarele palid. Farul oferă un cadru fotografic superb în lumina iernii, înainte de a ajunge la Grande Côte la fix pentru apusul de la ora 17:00.",
-            "en": "The winter car tour starts with a frosty view at Pey de la Blet. The car's heater ensures comfort while visiting the church and the opera site. At noon, the sea at Fromentine sparkles in the low winter sun. The lighthouse provides a great photo opportunity in the crisp light before arriving at Grande Côte exactly for the 17:00 sunset."
+            "en": "The winter car tour starts with a frosty view at Pey de la Blet. The car's heater ensures comfort while visiting the church and the opera site. At noon, the sea at Fromentine sparkles in the low winter sun. The lighthouse provides a great photo opportunity in the crisp light before arriving at Grande Côte exactly for the 17:00 sunset.",
+            "fr": "La visite hivernale en voiture commence par une vue givrée au Pey de la Blet. Le chauffage du véhicule assure le confort lors de la visite de l'église et du site de l'opéra. À midi, la mer à Fromentine scintille sous le faible soleil d'hiver. Le phare offre une belle opportunité photo dans la lumière fraîche avant d'arriver à Grande Côte juste pour le coucher du soleil de 17:00."
           },
           "stops": [
             {
@@ -1031,13 +1144,15 @@
                 "de": "Belvédère du Pey de la Blet",
                 "hu": "Belvédère du Pey de la Blet",
                 "ro": "Belvédère du Pey de la Blet",
-                "en": "Belvédère du Pey de la Blet"
+                "en": "Belvédère du Pey de la Blet",
+                "fr": "Belvédère du Pey de la Blet"
               },
               "tip_5lang": {
                 "de": "Achten Sie auf überfrierende Nässe auf der Zufahrtsstraße im Wald; die Parkplätze können im Schatten sehr glatt sein.",
                 "hu": "Ügyeljen a lefagyásokra az erdőbe vezető úton; az árnyékos parkolóhelyek télen nagyon csúszósak lehetnek.",
                 "ro": "Atenție la porțiunile de polei pe drumul de acces din pădure; parcările umbrite pot fi foarte alunecoase iarna.",
-                "en": "Watch out for black ice on the forest access road; parking spots in the shade can remain very slippery during winter."
+                "en": "Watch out for black ice on the forest access road; parking spots in the shade can remain very slippery during winter.",
+                "fr": "Attention au verglas noir sur la route d'accès forestière ; les places de stationnement à l'ombre peuvent rester très glissantes en hiver."
               }
             },
             {
@@ -1045,13 +1160,15 @@
                 "de": "Plage de la Bergère",
                 "hu": "Plage de la Bergère",
                 "ro": "Plage de la Bergère",
-                "en": "Plage de la Bergère"
+                "en": "Plage de la Bergère",
+                "fr": "Plage de la Bergère"
               },
               "tip_5lang": {
                 "de": "Die klare Winterluft sorgt für eine enorme Fernsicht; nutzen Sie ein Fernglas direkt aus dem Auto für die Vogelbeobachtung.",
                 "hu": "A tiszta téli levegő hatalmas látótávolságot biztosít; használjon távcsövet az autóból a dűnék madárvilágának megfigyeléséhez.",
                 "ro": "Aerul curat de iarnă oferă o vizibilitate enormă la distanță; folosiți un binoclu direct din mașină pentru a observa păsările.",
-                "en": "The clear winter air provides immense visibility; use binoculars from inside the car for birdwatching across the dunes."
+                "en": "The clear winter air provides immense visibility; use binoculars from inside the car for birdwatching across the dunes.",
+                "fr": "L'air clair d'hiver offre une visibilité immense ; utilisez des jumelles depuis l'intérieur de la voiture pour l'observation des oiseaux à travers les dunes."
               }
             },
             {
@@ -1059,13 +1176,15 @@
                 "de": "Église Saint-Louis",
                 "hu": "Église Saint-Louis",
                 "ro": "Église Saint-Louis",
-                "en": "Église Saint-Louis"
+                "en": "Église Saint-Louis",
+                "fr": "Église Saint-Louis"
               },
               "tip_5lang": {
                 "de": "Die Kirche ist im Winter oft kühler als draußen; lassen Sie die Jacke für die Besichtigung unbedingt an, um sich nicht zu erkälten.",
                 "hu": "A templom télen gyakran hűvösebb, mint a külső levegő; a látogatáshoz mindenképpen hagyja magán a kabátot a megfázás ellen.",
                 "ro": "Biserica este adesea mai răcoroasă iarna decât exteriorul; păstrați jacheta pe dvs. în timpul vizitei pentru a nu răci.",
-                "en": "The church interior is often cooler than the outside in winter; keep your coat on during the visit to stay warm inside."
+                "en": "The church interior is often cooler than the outside in winter; keep your coat on during the visit to stay warm inside.",
+                "fr": "L'intérieur de l'église est souvent plus frais qu'à l'extérieur en hiver ; gardez votre manteau pour rester au chaud pendant la visite."
               }
             },
             {
@@ -1073,13 +1192,15 @@
                 "de": "Domaine de l'Opéra",
                 "hu": "Domaine de l'Opéra",
                 "ro": "Domaine de l'Opéra",
-                "en": "Domaine de l'Opéra"
+                "en": "Domaine de l'Opéra",
+                "fr": "Domaine de l'Opéra"
               },
               "tip_5lang": {
                 "de": "Nutzen Sie die kurzen Wege zwischen den Gebäuden; die Wintersonne flutet die Innenhöfe am Vormittag mit einem sehr weichen Licht.",
                 "hu": "Használja ki az épületek közötti rövid távolságokat; a téli nap délelőtt nagyon lágy fénnyel árasztja el a belső udvarokat.",
                 "ro": "Profitați de distanțele scurte dintre clădiri; soarele de iarnă scaldă curțile interioare într-o lumină foarte caldă dimineața.",
-                "en": "Take advantage of the short walking distances between buildings; the winter sun floods the courtyards with soft light in the morning."
+                "en": "Take advantage of the short walking distances between buildings; the winter sun floods the courtyards with soft light in the morning.",
+                "fr": "Profitez des courtes distances à pied entre les bâtiments ; le soleil d'hiver inonde les cours d'une lumière douce le matin."
               }
             },
             {
@@ -1087,13 +1208,15 @@
                 "de": "Théâtre du Gymnase",
                 "hu": "Théâtre du Gymnase",
                 "ro": "Théâtre du Gymnase",
-                "en": "Théâtre du Gymnase"
+                "en": "Théâtre du Gymnase",
+                "fr": "Théâtre du Gymnase"
               },
               "tip_5lang": {
                 "de": "Lassen Sie den Motor nicht unnötig laufen, um die Umwelt zu schonen; die Sitzheizung speichert die Wärme auch bei kurzen Stopps.",
                 "hu": "Ne járassa feleslegesen a motort a környezet védelme érdekében; az ülésfűtés a rövid megállók alatt is jól tartja a meleget.",
                 "ro": "Nu lăsați motorul pornit inutil pentru a proteja mediul; încălzirea în scaune păstrează căldura și în timpul opririlor scurte.",
-                "en": "Avoid idling the engine unnecessarily; seat heaters will keep you warm enough during the short stops at this cultural site."
+                "en": "Avoid idling the engine unnecessarily; seat heaters will keep you warm enough during the short stops at this cultural site.",
+                "fr": "Évitez de laisser tourner le moteur inutilement ; les sièges chauffants vous garderont suffisamment au chaud lors des courts arrêts à ce site culturel."
               }
             },
             {
@@ -1101,13 +1224,15 @@
                 "de": "Phare de Fromentine",
                 "hu": "Phare de Fromentine",
                 "ro": "Phare de Fromentine",
-                "en": "Phare de Fromentine"
+                "en": "Phare de Fromentine",
+                "fr": "Phare de Fromentine"
               },
               "tip_5lang": {
                 "de": "Der Parkplatz ist im Winter ein idealer Ort für ein Picknick im Auto mit Blick auf den Leuchtturm und das eisige Meer.",
                 "hu": "A parkoló télen ideális hely egy autós piknikhez, miközben a világítótoronyban és a jeges tenger látványában gyönyörködik.",
                 "ro": "Parcarea este iarna un loc ideal pentru un picnic în mașină, cu vedere la far și la marea sclipitoare și rece.",
-                "en": "In winter, the parking area is an ideal spot for an in-car picnic with a view of the lighthouse and the icy coastal waters."
+                "en": "In winter, the parking area is an ideal spot for an in-car picnic with a view of the lighthouse and the icy coastal waters.",
+                "fr": "En hiver, l'aire de stationnement est un endroit idéal pour un pique-nique dans la voiture avec vue sur le phare et les eaux côtières glacées."
               }
             },
             {
@@ -1115,13 +1240,15 @@
                 "de": "Plage de la Grande Côte",
                 "hu": "Plage de la Grande Côte",
                 "ro": "Plage de la Grande Côte",
-                "en": "Plage de la Grande Côte"
+                "en": "Plage de la Grande Côte",
+                "fr": "Plage de la Grande Côte"
               },
               "tip_5lang": {
                 "de": "Da es um 17:00 Uhr dunkel wird, parken Sie so, dass Sie die Scheinwerfer als Orientierungshilfe für den Rückweg zum Auto haben.",
                 "hu": "Mivel 17:00-kor sötétedik, úgy parkoljon, hogy a fényszórók segítsenek az orientációban a partról való visszatéréskor.",
                 "ro": "Deoarece se întunecă la 17:00, parcați astfel încât farurile să vă servească drept reper pentru drumul de întoarcere la mașină.",
-                "en": "Since it gets dark at 17:00, park in a way that helps you find your way back from the beach using the car's silhouette as a guide."
+                "en": "Since it gets dark at 17:00, park in a way that helps you find your way back from the beach using the car's silhouette as a guide.",
+                "fr": "Comme il fait nuit à 17:00, garez-vous de manière à retrouver votre chemin depuis la plage en utilisant la silhouette de la voiture comme repère."
               }
             },
             {
@@ -1129,13 +1256,15 @@
                 "de": "Plage Des Boucholeurs",
                 "hu": "Plage Des Boucholeurs",
                 "ro": "Plage Des Boucholeurs",
-                "en": "Plage Des Boucholeurs"
+                "en": "Plage Des Boucholeurs",
+                "fr": "Plage Des Boucholeurs"
               },
               "tip_5lang": {
                 "de": "Achten Sie auf die Straßenglätte durch gefrierende Gischt am Abend; fahren Sie langsam zurück zur Unterkunft in Fromentine.",
                 "hu": "Ügyeljen az utakra rakódó fagyott permet okozta csúszósságra este; vezessen lassan vissza a szálláshelyére Fromentine-be.",
                 "ro": "Atenție la poleiul format de briza înghețată seara; conduceți încet înapoi spre unitatea de cazare din Fromentine.",
-                "en": "Watch out for road slipperiness caused by freezing spray in the evening; drive slowly back to your base in Fromentine."
+                "en": "Watch out for road slipperiness caused by freezing spray in the evening; drive slowly back to your base in Fromentine.",
+                "fr": "Attention à la glissance de la route due aux embruns gelés le soir ; retournez lentement à votre base à Fromentine."
               }
             }
           ]

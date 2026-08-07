@@ -21,7 +21,8 @@
             "de": "Ti Douar Alre",
             "hu": "Ti Douar Alre",
             "ro": "Ti Douar Alre",
-            "en": "Ti Douar Alre"
+            "en": "Ti Douar Alre",
+            "fr": "Ti Douar Alre"
           },
           "coords": [
             -3.006603,
@@ -36,7 +37,8 @@
             "de": "Entdecken Sie im Ti Douar Alre die reiche bretonische Kultur und Geschichte, und informieren Sie sich am Eingang über aktuelle Ausstellungen, um nichts zu verpassen.",
             "hu": "Fedezze fel a gazdag breton kultúrát és történelmet a Ti Douar Alre épületében, és a bejáratnál érdeklődjön az aktuális kiállításokról, hogy semmiről se maradjon le.",
             "ro": "Descoperiți bogata cultură și istorie bretonă la Ti Douar Alre și verificați expozițiile actuale la intrare pentru a nu rata detaliile importante.",
-            "en": "Discover the rich Breton culture and history at Ti Douar Alre, and check for current exhibitions at the entrance so you do not miss any highlights."
+            "en": "Discover the rich Breton culture and history at Ti Douar Alre, and check for current exhibitions at the entrance so you do not miss any highlights.",
+            "fr": "Découvrez la riche culture et l’histoire bretonnes à Ti Douar Alre, et consultez les expositions actuelles à l’entrée pour ne manquer aucun point fort."
           }
         },
         {
@@ -44,7 +46,8 @@
             "de": "Kirche Saint-Guigner",
             "hu": "Saint-Guigner templom",
             "ro": "Biserica Saint-Guigner",
-            "en": "Saint-Guigner Church"
+            "en": "Saint-Guigner Church",
+            "fr": "Église Saint‑Guigner"
           },
           "coords": [
             -3.010714,
@@ -59,7 +62,8 @@
             "de": "Bewundern Sie die beeindruckende Architektur der Kirche Saint-Guigner, die als spirituelles Herz der Stadt gilt, und besuchen Sie sie am besten vormittags für ideales Licht.",
             "hu": "Csodálja meg a város spirituális központjának számító Saint-Guigner templom lenyűgöző építészetét, és a legjobb fényviszonyok érdekében időzítse látogatását a délelőtti órákra.",
             "ro": "Admirați arhitectura impresionantă a Bisericii Saint-Guigner, considerată inima spirituală a orașului, și vizitați-o dimineața pentru a vă bucura de cea mai bună lumină.",
-            "en": "Admire the impressive architecture of Saint-Guigner Church, which serves as the spiritual heart of the city, and visit in the morning to enjoy the best natural light."
+            "en": "Admire the impressive architecture of Saint-Guigner Church, which serves as the spiritual heart of the city, and visit in the morning to enjoy the best natural light.",
+            "fr": "Admirez l’architecture impressionnante de l’église Saint‑Guigner, qui constitue le cœur spirituel de la ville, et venez le matin pour profiter du meilleur éclairage naturel."
           }
         },
         {
@@ -67,7 +71,8 @@
             "de": "Le StanG - Kulturzentrum",
             "hu": "Le StanG Kulturális Központ",
             "ro": "Centrul Cultural Le StanG",
-            "en": "Le StanG Cultural Center"
+            "en": "Le StanG Cultural Center",
+            "fr": "Centre culturel Le StanG"
           },
           "coords": [
             -3.00889,
@@ -82,7 +87,8 @@
             "de": "Besuchen Sie dieses moderne Kulturzentrum, das lokale Kunst und Veranstaltungen fördert, und überprüfen Sie vorab das Programm auf mögliche Abendvorstellungen.",
             "hu": "Látogasson el ebbe a modern kulturális központba, amely a helyi művészeteket és rendezvényeket népszerűsíti, és előzetesen ellenőrizze a programot az esetleges esti előadások miatt.",
             "ro": "Vizitați acest centru cultural modern care promovează arta și evenimentele locale, și verificați programul în avans pentru posibile spectacole de seară.",
-            "en": "Visit this modern cultural center that promotes local art and events, and check the program in advance to catch any potential evening performances."
+            "en": "Visit this modern cultural center that promotes local art and events, and check the program in advance to catch any potential evening performances.",
+            "fr": "Visitez ce centre culturel moderne qui promeut l’art et les événements locaux, et vérifiez le programme à l’avance pour assister à d’éventuelles performances en soirée."
           }
         },
         {
@@ -90,7 +96,8 @@
             "de": "Kapelle Saint-Guénaël",
             "hu": "Saint-Guénaël kápolna",
             "ro": "Capela Saint-Guénaël",
-            "en": "Chapelle Saint-Guénaël"
+            "en": "Chapelle Saint-Guénaël",
+            "fr": "Chapelle Saint‑Guénaël"
           },
           "coords": [
             -3.003097,
@@ -105,7 +112,8 @@
             "de": "Genießen Sie die ruhige Atmosphäre der historischen Kapelle Saint-Guénaël, ein wahres architektonisches Juwel, und tragen Sie bequeme Schuhe für den kurzen Spaziergang dorthin.",
             "hu": "Élvezze a történelmi Saint-Guénaël kápolna, ennek az igazi építészeti ékszerdoboznak a békés hangulatát, és viseljen kényelmes cipőt a rövid sétához.",
             "ro": "Bucurați-vă de atmosfera liniștită a istoricei Capele Saint-Guénaël, o adevărată bijuterie arhitecturală, și purtați încălțăminte comodă pentru scurta plimbare până acolo.",
-            "en": "Enjoy the peaceful atmosphere of the historic Chapelle Saint-Guénaël, a true architectural gem, and wear comfortable shoes for the short walk there."
+            "en": "Enjoy the peaceful atmosphere of the historic Chapelle Saint-Guénaël, a true architectural gem, and wear comfortable shoes for the short walk there.",
+            "fr": "Appréciez l’atmosphère paisible de la chapelle historique Saint‑Guénaël, véritable joyau architectural, et portez des chaussures confortables pour la courte marche jusqu’au site."
           }
         }
       ],
@@ -113,7 +121,8 @@
         "de": "Beginnen Sie Ihren Tag mit einem tiefen Einblick in die bretonische Kultur bei Ti Douar Alre. \n\nDanach führt der Weg zur beeindruckenden Kirche Saint-Guigner im Herzen von Pluvigner. \n\nAm Nachmittag bietet das moderne Kulturzentrum Le StanG spannende Ausstellungen und regionale Kunst. \n\nZum Abschluss spazieren Sie zur friedlichen Chapelle Saint-Guénaël, wo der Tag besinnlich ausklingt.",
         "hu": "Kezdje a napot a breton kultúra felfedezésével a Ti Douar Alre kulturális központban. \n\nEzt követően sétáljon el a város szívében található, lenyűgöző Saint-Guigner templomhoz. \n\nDélután a modern Le StanG várja Önt izgalmas regionális művészeti kiállításokkal és programokkal. \n\nZárja a napot egy kellemes sétával a békés Chapelle Saint-Guénaël kápolnához.",
         "ro": "Începeți ziua explorând cultura bretonă fascinantă la centrul cultural Ti Douar Alre. \n\nApoi, plimbați-vă spre impresionanta Biserică Saint-Guigner, inima spirituală a orașului. \n\nDupă-amiaza, descoperiți arta regională la modernul centru cultural Le StanG. \n\nÎncheiați ziua cu o scurtă plimbare către liniștita Capelă Saint-Guénaël pentru momente de relaxare.",
-        "en": "Start your day with a deep dive into Breton culture at the Ti Douar Alre cultural center. \n\nNext, take a short walk to the impressive Saint-Guigner Church in the heart of Pluvigner. \n\nIn the afternoon, explore exciting regional art and exhibitions at the modern Le StanG. \n\nFinish the day with a relaxing stroll to the peaceful Chapelle Saint-Guénaël for quiet reflection."
+        "en": "Start your day with a deep dive into Breton culture at the Ti Douar Alre cultural center. \n\nNext, take a short walk to the impressive Saint-Guigner Church in the heart of Pluvigner. \n\nIn the afternoon, explore exciting regional art and exhibitions at the modern Le StanG. \n\nFinish the day with a relaxing stroll to the peaceful Chapelle Saint-Guénaël for quiet reflection.",
+        "fr": "Commencez la journée par une immersion profonde dans la culture bretonne au centre culturel Ti Douar Alre.\n\nEnsuite, faites une courte promenade jusqu’à l’imposante église Saint‑Guigner au cœur de Pluvigner.\n\nL’après‑midi, explorez l’art régional et les expositions au moderne Le StanG.\n\nTerminez la journée par une promenade relaxante jusqu’à la paisible Chapelle Saint‑Guénaël pour un moment de recueillement."
       },
       "variants": {
         "rainy": {
@@ -121,7 +130,8 @@
             "de": "Der Morgen beginnt im Ti Douar Alre, um dem Regen zu entkommen. Mittags bieten Kirche und Le StanG trockene Kultur. Der Nachmittagsspaziergang zur Kapelle erfordert einen Regenschirm. Abends spiegeln nasse Straßen die Lichter.",
             "hu": "A reggel a Ti Douar Alre-ben indul, menedéket lelve az eső elől. Délben a templom és a Le StanG nyújt száraz kulturális élményt. A délutáni sétához a kápolnához esernyő kell. Este a vizes utcák visszatükrözik a város fényeit.",
             "ro": "Dimineața începe la Ti Douar Alre, scăpând de ploaie. La prânz, biserica și Le StanG oferă imersiune culturală uscată. Plimbarea de după-amiază spre capelă necesită umbrelă. Seara se încheie cu străzile ude reflectând luminile.",
-            "en": "Morning starts at Ti Douar Alre escaping the rain. Midday brings you to the church and Le StanG for dry cultural immersion. Afternoon stroll to the chapel requires an umbrella. Evening concludes as wet streets reflect town lights."
+            "en": "Morning starts at Ti Douar Alre escaping the rain. Midday brings you to the church and Le StanG for dry cultural immersion. Afternoon stroll to the chapel requires an umbrella. Evening concludes as wet streets reflect town lights.",
+            "fr": "La matinée débute à Ti Douar Alre pour échapper à la pluie. En milieu de journée, direction l’église et Le StanG pour une immersion culturelle à l’abri. La promenade de l’après‑midi vers la chapelle nécessite un parapluie. La soirée se termine tandis que les rues mouillées reflètent les lumières de la ville."
           },
           "stops": [
             {
@@ -129,13 +139,15 @@
                 "de": "Ti Douar Alre",
                 "hu": "Ti Douar Alre",
                 "ro": "Ti Douar Alre",
-                "en": "Ti Douar Alre"
+                "en": "Ti Douar Alre",
+                "fr": "Ti Douar Alre"
               },
               "tip_5lang": {
                 "de": "Entdecken Sie das lokale Erbe in diesem trockenen, einladenden Raum; lassen Sie Ihren nassen Schirm an der Tür und entspannen Sie.",
                 "hu": "Fedezze fel a helyi örökséget ebben a száraz, barátságos térben; hagyja a vizes esernyőjét az ajtónál és élvezze a kiállítást.",
                 "ro": "Explorați moștenirea locală în acest spațiu uscat și primitor; lăsați-vă umbrela udă la ușă și bucurați-vă de expoziții pe îndelete.",
-                "en": "Explore local heritage in this dry, welcoming space; leave your wet umbrella at the door and enjoy the exhibits comfortably."
+                "en": "Explore local heritage in this dry, welcoming space; leave your wet umbrella at the door and enjoy the exhibits comfortably.",
+                "fr": "Explorez le patrimoine local dans cet espace sec et accueillant ; laissez votre parapluie mouillé à l’entrée et profitez des expositions confortablement."
               }
             },
             {
@@ -143,13 +155,15 @@
                 "de": "Kirche Saint-Guigner",
                 "hu": "Saint-Guigner templom",
                 "ro": "Biserica Saint-Guigner",
-                "en": "Saint-Guigner Church"
+                "en": "Saint-Guigner Church",
+                "fr": "Église Saint‑Guigner"
               },
               "tip_5lang": {
                 "de": "Bewundern Sie die Buntglasfenster, die auch an trüben Tagen leuchten und perfekten Schutz vor plötzlichen Regenschauern bieten.",
                 "hu": "Csodálja meg az ólomüveg ablakokat, amelyek borús napokon is ragyognak, tökéletes menedéket adva a hirtelen záporok elől.",
                 "ro": "Admirați vitraliile care strălucesc chiar și în zilele mohorâte, oferind un adăpost perfect de aversele bruște și puternice.",
-                "en": "Admire the stained glass which glows even on gloomy days, offering perfect shelter from the sudden heavy showers outside."
+                "en": "Admire the stained glass which glows even on gloomy days, offering perfect shelter from the sudden heavy showers outside.",
+                "fr": "Admirez les vitraux qui s’illuminent même lors des journées maussades, offrant un abri parfait contre les fortes averses soudaines."
               }
             },
             {
@@ -157,13 +171,15 @@
                 "de": "Le StanG - Kulturzentrum",
                 "hu": "Le StanG Kulturális Központ",
                 "ro": "Centrul Cultural Le StanG",
-                "en": "Le StanG Cultural Center"
+                "en": "Le StanG Cultural Center",
+                "fr": "Centre culturel Le StanG"
               },
               "tip_5lang": {
                 "de": "Genießen Sie Ausstellungen in diesem Kulturzentrum, ein großartiger Zufluchtsort im Trockenen, wenn der Regen am Nachmittag zunimmt.",
                 "hu": "Élvezze a kiállításokat ebben a tágas kulturális központban, amely nagyszerű beltéri menedék, ha délután rázendít az eső.",
                 "ro": "Bucurați-vă de expoziții în acest centru cultural spațios, o evadare excelentă la interior când ploaia atinge maximul după-amiaza.",
-                "en": "Enjoy diverse exhibitions in this spacious cultural center, a great indoor escape when the afternoon rain reaches its peak."
+                "en": "Enjoy diverse exhibitions in this spacious cultural center, a great indoor escape when the afternoon rain reaches its peak.",
+                "fr": "Profitez de diverses expositions dans ce vaste centre culturel, une excellente échappée intérieure lorsque la pluie atteint son pic en après‑midi."
               }
             },
             {
@@ -171,13 +187,15 @@
                 "de": "Kapelle Saint-Guénaël",
                 "hu": "Saint-Guénaël kápolna",
                 "ro": "Capela Saint-Guénaël",
-                "en": "Chapelle Saint-Guénaël"
+                "en": "Chapelle Saint-Guénaël",
+                "fr": "Chapelle Saint‑Guénaël"
               },
               "tip_5lang": {
                 "de": "Die historischen Steine wirken im Regen dramatisch, aber tragen Sie wasserdichte Schuhe für den schlammigen Weg dorthin.",
                 "hu": "A történelmi kövek drámaian festenek az esőben, de mindenképp vízálló cipőt viseljen a saras, csúszós megközelítés miatt.",
                 "ro": "Pietrele istorice arată dramatic în ploaie, dar asigurați-vă că purtați încălțăminte impermeabilă pentru cărarea noroioasă.",
-                "en": "The historic stones look dramatic in the rain, but make sure to wear waterproof shoes for the muddy path approach."
+                "en": "The historic stones look dramatic in the rain, but make sure to wear waterproof shoes for the muddy path approach.",
+                "fr": "Les pierres historiques sont dramatiques sous la pluie, mais veillez à porter des chaussures imperméables pour le chemin boueux d’accès."
               }
             }
           ]
@@ -187,7 +205,8 @@
             "de": "Ein klarer Wintermorgen beginnt drinnen. Die Mittagssonne wärmt den Weg zu Kirche und Le StanG. Der Nachmittag zur Kapelle ist frisch. Kehren Sie zurück, bevor gegen 17:00 Uhr die frühe Dunkelheit einbricht.",
             "hu": "A csípős téli reggel beltéren indul. A déli nap felmelegíti a sétát a templomig és a Le StanG-ig. A délutáni séta a kápolnához frissítő. Térjen vissza a korai, 17:00 óra körüli sötétedés előtt.",
             "ro": "O dimineață de iarnă geroasă începe la interior. Soarele de prânz încălzește plimbarea spre biserică și Le StanG. Plimbarea de după-amiază e alertă. Întoarceți-vă înainte de întunericul devreme, pe la 17:00.",
-            "en": "A crisp winter morning begins indoors. Midday sun warms the walk to the church and Le StanG. The afternoon stroll to the chapel is brisk. Return before the early evening darkness sets in completely around 17:00."
+            "en": "A crisp winter morning begins indoors. Midday sun warms the walk to the church and Le StanG. The afternoon stroll to the chapel is brisk. Return before the early evening darkness sets in completely around 17:00.",
+            "fr": "Une matinée fraîche et claire commence à l’intérieur. Le soleil de midi réchauffe la marche vers l’église et Le StanG. La promenade de l’après‑midi vers la chapelle est tonique. Retournez avant que l’obscurité du début de soirée ne s’installe complètement vers 17:00."
           },
           "stops": [
             {
@@ -195,13 +214,15 @@
                 "de": "Ti Douar Alre",
                 "hu": "Ti Douar Alre",
                 "ro": "Ti Douar Alre",
-                "en": "Ti Douar Alre"
+                "en": "Ti Douar Alre",
+                "fr": "Ti Douar Alre"
               },
               "tip_5lang": {
                 "de": "Tauchen Sie in einer warmen Umgebung in die bretonische Kultur ein; ein perfekter, gemütlicher Start in den kalten Wintermorgen.",
                 "hu": "Merüljön el a breton kultúrában meleg környezetben; tökéletes, hangulatos kezdés egy csípős téli reggelen a városban.",
                 "ro": "Pătrundeți în cultura bretonă într-un mediu cald; un început perfect și confortabil pentru o dimineață rece de iarnă.",
-                "en": "Dive into Breton culture in a warm environment; a perfect, cozy start to a chilly winter morning exploration in town."
+                "en": "Dive into Breton culture in a warm environment; a perfect, cozy start to a chilly winter morning exploration in town.",
+                "fr": "Plongez dans la culture bretonne dans un environnement chaleureux ; une excellente manière de commencer une matinée froide et cosy en ville."
               }
             },
             {
@@ -209,13 +230,15 @@
                 "de": "Kirche Saint-Guigner",
                 "hu": "Saint-Guigner templom",
                 "ro": "Biserica Saint-Guigner",
-                "en": "Saint-Guigner Church"
+                "en": "Saint-Guigner Church",
+                "fr": "Église Saint‑Guigner"
               },
               "tip_5lang": {
                 "de": "Die ruhige Winteratmosphäre unterstreicht das historische Flair, auch wenn das steinerne Innere kalt sein kann; behalten Sie die Jacke an.",
                 "hu": "A csendes téli hangulat fokozza a történelmi érzést, de a kőbelső meglehetősen hideg lehet, tartsa magán a vastag kabátot.",
                 "ro": "Atmosfera liniștită de iarnă sporește aerul istoric, deși interiorul de piatră poate fi destul de rece, păstrați haina pe dvs.",
-                "en": "The quiet winter atmosphere enhances the historical vibe, though the stone interior can be quite cold, keep your thick coat on."
+                "en": "The quiet winter atmosphere enhances the historical vibe, though the stone interior can be quite cold, keep your thick coat on.",
+                "fr": "L’atmosphère calme de l’hiver renforce l’ambiance historique, mais l’intérieur en pierre peut être assez froid ; gardez votre manteau épais."
               }
             },
             {
@@ -223,13 +246,15 @@
                 "de": "Le StanG - Kulturzentrum",
                 "hu": "Le StanG Kulturális Központ",
                 "ro": "Centrul Cultural Le StanG",
-                "en": "Le StanG Cultural Center"
+                "en": "Le StanG Cultural Center",
+                "fr": "Centre culturel Le StanG"
               },
               "tip_5lang": {
                 "de": "Ein beheizter, gemütlicher Stopp, an dem Sie moderne Ausstellungen bequem und ohne schweren Wintermantel genießen können.",
                 "hu": "Fűtött, hívogató megálló, ahol kényelmesen élvezheti a modern kiállításokat, és egy kicsit leveheti a vastag télikabátot is.",
                 "ro": "O oprire încălzită și confortabilă unde vă puteți bucura de expoziții moderne fără a avea nevoie de haina groasă de iarnă.",
-                "en": "A heated, cozy stop where you can comfortably enjoy modern cultural displays without needing a heavy winter coat inside."
+                "en": "A heated, cozy stop where you can comfortably enjoy modern cultural displays without needing a heavy winter coat inside.",
+                "fr": "Une halte chauffée et confortable où vous pouvez profiter des expositions contemporaines sans avoir besoin d’un manteau d’hiver épais à l’intérieur."
               }
             },
             {
@@ -237,13 +262,15 @@
                 "de": "Kapelle Saint-Guénaël",
                 "hu": "Saint-Guénaël kápolna",
                 "ro": "Capela Saint-Guénaël",
-                "en": "Chapelle Saint-Guénaël"
+                "en": "Chapelle Saint-Guénaël",
+                "fr": "Chapelle Saint‑Guénaël"
               },
               "tip_5lang": {
                 "de": "Wunderschön vor dem strengen Winterhimmel, aber besuchen Sie sie vor dem frühen Sonnenuntergang um 17 Uhr für das beste natürliche Licht.",
                 "hu": "Gyönyörű a zord téli égbolt előtt, de próbáljon a korai, délután 5 órás naplemente előtt érkezni a legjobb természetes fényekért.",
                 "ro": "Frumoasă pe fundalul unui cer de iarnă, dar vizitați mult înainte de apusul de la ora 17:00 pentru cea mai bună lumină naturală.",
-                "en": "Beautiful against a stark winter sky, but aim to visit well before the early 5 PM sunset for the best natural light."
+                "en": "Beautiful against a stark winter sky, but aim to visit well before the early 5 PM sunset for the best natural light.",
+                "fr": "Magnifique sous un ciel hivernal dépouillé, mais visez une visite bien avant le coucher du soleil anticipé à 17:00 pour la meilleure lumière naturelle."
               }
             }
           ]
@@ -263,7 +290,8 @@
             "de": "Ti Douar Alre",
             "hu": "Ti Douar Alre",
             "ro": "Ti Douar Alre",
-            "en": "Ti Douar Alre"
+            "en": "Ti Douar Alre",
+            "fr": "Ti Douar Alre"
           },
           "coords": [
             -3.006603,
@@ -278,7 +306,8 @@
             "de": "Entdecken Sie im Ti Douar Alre die reiche bretonische Kultur und Geschichte, und informieren Sie sich am Eingang über aktuelle Ausstellungen, um nichts zu verpassen.",
             "hu": "Fedezze fel a gazdag breton kultúrát és történelmet a Ti Douar Alre épületében, és a bejáratnál érdeklődjön az aktuális kiállításokról, hogy semmiről se maradjon le.",
             "ro": "Descoperiți bogata cultură și istorie bretonă la Ti Douar Alre și verificați expozițiile actuale la intrare pentru a nu rata detaliile importante.",
-            "en": "Discover the rich Breton culture and history at Ti Douar Alre, and check for current exhibitions at the entrance so you do not miss any highlights."
+            "en": "Discover the rich Breton culture and history at Ti Douar Alre, and check for current exhibitions at the entrance so you do not miss any highlights.",
+            "fr": "Découvrez la riche culture et l’histoire bretonnes à Ti Douar Alre, et consultez les expositions actuelles à l’entrée pour ne manquer aucun point fort."
           }
         },
         {
@@ -286,7 +315,8 @@
             "de": "Kirche Saint-Guigner",
             "hu": "Saint-Guigner templom",
             "ro": "Biserica Saint-Guigner",
-            "en": "Saint-Guigner Church"
+            "en": "Saint-Guigner Church",
+            "fr": "Église Saint‑Guigner"
           },
           "coords": [
             -3.010714,
@@ -301,7 +331,8 @@
             "de": "Bewundern Sie die beeindruckende Architektur der Kirche Saint-Guigner, die als spirituelles Herz der Stadt gilt, und besuchen Sie sie am besten vormittags für ideales Licht.",
             "hu": "Csodálja meg a város spirituális központjának számító Saint-Guigner templom lenyűgöző építészetét, és a legjobb fényviszonyok érdekében időzítse látogatását a délelőtti órákra.",
             "ro": "Admirați arhitectura impresionantă a Bisericii Saint-Guigner, considerată inima spirituală a orașului, și vizitați-o dimineața pentru a vă bucura de cea mai bună lumină.",
-            "en": "Admire the impressive architecture of Saint-Guigner Church, which serves as the spiritual heart of the city, and visit in the morning to enjoy the best natural light."
+            "en": "Admire the impressive architecture of Saint-Guigner Church, which serves as the spiritual heart of the city, and visit in the morning to enjoy the best natural light.",
+            "fr": "Admirez l’architecture impressionnante de l’église Saint‑Guigner, qui constitue le cœur spirituel de la ville, et venez le matin pour profiter du meilleur éclairage naturel."
           }
         },
         {
@@ -309,7 +340,8 @@
             "de": "Le StanG - Kulturzentrum",
             "hu": "Le StanG Kulturális Központ",
             "ro": "Centrul Cultural Le StanG",
-            "en": "Le StanG Cultural Center"
+            "en": "Le StanG Cultural Center",
+            "fr": "Centre culturel Le StanG"
           },
           "coords": [
             -3.00889,
@@ -324,7 +356,8 @@
             "de": "Besuchen Sie dieses moderne Kulturzentrum, das lokale Kunst und Veranstaltungen fördert, und überprüfen Sie vorab das Programm auf mögliche Abendvorstellungen.",
             "hu": "Látogasson el ebbe a modern kulturális központba, amely a helyi művészeteket és rendezvényeket népszerűsíti, és előzetesen ellenőrizze a programot az esetleges esti előadások miatt.",
             "ro": "Vizitați acest centru cultural modern care promovează arta și evenimentele locale, și verificați programul în avans pentru posibile spectacole de seară.",
-            "en": "Visit this modern cultural center that promotes local art and events, and check the program in advance to catch any potential evening performances."
+            "en": "Visit this modern cultural center that promotes local art and events, and check the program in advance to catch any potential evening performances.",
+            "fr": "Visitez ce centre culturel moderne qui promeut l’art et les événements locaux, et vérifiez le programme à l’avance pour assister à d’éventuelles performances en soirée."
           }
         },
         {
@@ -332,7 +365,8 @@
             "de": "Kapelle Saint-Guénaël",
             "hu": "Saint-Guénaël kápolna",
             "ro": "Capela Saint-Guénaël",
-            "en": "Chapelle Saint-Guénaël"
+            "en": "Chapelle Saint-Guénaël",
+            "fr": "Chapelle Saint‑Guénaël"
           },
           "coords": [
             -3.003097,
@@ -347,7 +381,8 @@
             "de": "Genießen Sie die ruhige Atmosphäre der historischen Kapelle Saint-Guénaël, ein wahres architektonisches Juwel, und tragen Sie bequeme Schuhe für den kurzen Spaziergang dorthin.",
             "hu": "Élvezze a történelmi Saint-Guénaël kápolna, ennek az igazi építészeti ékszerdoboznak a békés hangulatát, és viseljen kényelmes cipőt a rövid sétához.",
             "ro": "Bucurați-vă de atmosfera liniștită a istoricei Capele Saint-Guénaël, o adevărată bijuterie arhitecturală, și purtați încălțăminte comodă pentru scurta plimbare până acolo.",
-            "en": "Enjoy the peaceful atmosphere of the historic Chapelle Saint-Guénaël, a true architectural gem, and wear comfortable shoes for the short walk there."
+            "en": "Enjoy the peaceful atmosphere of the historic Chapelle Saint-Guénaël, a true architectural gem, and wear comfortable shoes for the short walk there.",
+            "fr": "Appréciez l’atmosphère paisible de la chapelle historique Saint‑Guénaël, véritable joyau architectural, et portez des chaussures confortables pour la courte marche jusqu’au site."
           }
         },
         {
@@ -355,7 +390,8 @@
             "de": "Château de Keronic",
             "hu": "Château de Keronic",
             "ro": "Château de Keronic",
-            "en": "Château de Keronic"
+            "en": "Château de Keronic",
+            "fr": "Château de Keronic"
           },
           "coords": [
             -3.030484,
@@ -370,7 +406,8 @@
             "de": "Erkunden Sie die faszinierenden Anlagen des Château de Keronic, das von aristokratischer Geschichte zeugt, und machen Sie Fotos von der Hauptfassade am frühen Nachmittag.",
             "hu": "Fedezze fel a Château de Keronic arisztokratikus történelmet őrző lenyűgöző birtokát, és készítsen nagyszerű fotókat a főhomlokzatról a kora délutáni órákban.",
             "ro": "Explorați domeniul fascinant al Château de Keronic, care mărturisește istoria aristocratică, și faceți fotografii ale fațadei principale la începutul după-amiezii.",
-            "en": "Explore the fascinating grounds of Château de Keronic, which bears witness to aristocratic history, and take great photos of the main facade in the early afternoon."
+            "en": "Explore the fascinating grounds of Château de Keronic, which bears witness to aristocratic history, and take great photos of the main facade in the early afternoon.",
+            "fr": "Explorez le fascinant domaine du Château de Keronic, témoin de l’histoire aristocratique, et prenez de belles photos de la façade principale en début d’après‑midi."
           }
         },
         {
@@ -378,7 +415,8 @@
             "de": "Archäologische Stätte Talhouët",
             "hu": "Talhouëti régészeti lelőhely",
             "ro": "Situl arheologic Talhouët",
-            "en": "Site archéologique de Talhouët"
+            "en": "Site archéologique de Talhouët",
+            "fr": "Site archéologique de Talhouët"
           },
           "coords": [
             -3.018211,
@@ -393,7 +431,8 @@
             "de": "Tauchen Sie in die antike Vergangenheit ein an der archäologischen Stätte von Talhouët, wo Ruinen Geschichten erzählen, und bleiben Sie auf den markierten Wegen, um das Gebiet zu schützen.",
             "hu": "Merüljön el az ókori múltban a talhouëti régészeti lelőhelyen, ahol a romok történeteket mesélnek, és a terület védelme érdekében maradjon a kijelölt ösvényeken.",
             "ro": "Pătrundeți în trecutul antic la situl arheologic din Talhouët, unde ruinele spun povești străvechi, și rămâneți pe potecile marcate pentru a proteja zona.",
-            "en": "Delve into the ancient past at the archaeological site of Talhouët, where ruins tell ancient stories, and stay on the marked trails to help protect the fragile area."
+            "en": "Delve into the ancient past at the archaeological site of Talhouët, where ruins tell ancient stories, and stay on the marked trails to help protect the fragile area.",
+            "fr": "Plongez dans le passé ancien du site archéologique de Talhouët, où les ruines racontent d’anciens récits, et restez sur les sentiers balisés pour protéger cette zone fragile."
           }
         }
       ],
@@ -401,7 +440,8 @@
         "de": "Ihre Radtour startet kulturell bei Ti Douar Alre, gefolgt von der Kirche Saint-Guigner. \n\nZur Mittagszeit lockt das Le StanG mit moderner lokaler Kunst und kreativer Atmosphäre. \n\nNachmittags radeln Sie zur historischen Chapelle Saint-Guénaël und weiter zum imposanten Château de Keronic. \n\nDen Abend verbringen Sie mit antiken Entdeckungen an der archäologischen Stätte von Talhouët.",
         "hu": "Kerékpártúrája a Ti Douar Alre kulturális élményével indul, majd a Saint-Guigner templomot érinti. \n\nDélben a Le StanG modern helyi művészete és kreatív légköre várja Önt. \n\nDélután a Chapelle Saint-Guénaël érintésével tekerjen el az impozáns Château de Keronic kastélyhoz. \n\nAz estét a talhouëti régészeti lelőhely ősi titkainak felfedezésével töltheti.",
         "ro": "Turul pe bicicletă începe cultural la Ti Douar Alre, urmat de Biserica Saint-Guigner. \n\nLa prânz, centrul Le StanG vă atrage cu arta sa locală modernă și atmosfera creativă. \n\nDupă-amiaza, pedalați spre Capela Saint-Guénaël și apoi către impunătorul Château de Keronic. \n\nSeara o petreceți descoperind misterele antice la situl arheologic din Talhouët.",
-        "en": "Your bike tour starts with culture at Ti Douar Alre, followed by a stop at Saint-Guigner Church. \n\nAt midday, Le StanG invites you to explore modern local art in a highly creative atmosphere. \n\nIn the afternoon, cycle past the Chapelle Saint-Guénaël to the impressive Château de Keronic. \n\nSpend your evening uncovering ancient mysteries at the Talhouët archaeological site."
+        "en": "Your bike tour starts with culture at Ti Douar Alre, followed by a stop at Saint-Guigner Church. \n\nAt midday, Le StanG invites you to explore modern local art in a highly creative atmosphere. \n\nIn the afternoon, cycle past the Chapelle Saint-Guénaël to the impressive Château de Keronic. \n\nSpend your evening uncovering ancient mysteries at the Talhouët archaeological site.",
+        "fr": "Votre circuit à vélo commence par la culture à Ti Douar Alre, suivi d’un arrêt à l’église Saint‑Guigner.\n\nÀ midi, Le StanG vous invite à découvrir l’art local moderne dans une ambiance très créative.\n\nL’après‑midi, roulez jusqu’à la Chapelle Saint‑Guénaël puis jusqu’à l’imposant Château de Keronic.\n\nPassez la soirée à percer les mystères anciens du site archéologique de Talhouët."
       },
       "variants": {
         "rainy": {
@@ -409,7 +449,8 @@
             "de": "Regenkleidung ist für die nasse Morgenfahrt Pflicht. Mittags gibt es trockene Pausen. Die Fahrt zum Schloss erfordert Vorsicht auf rutschigen Wegen. Abends heißt es aufwärmen nach dem nebligen Abenteuer.",
             "hu": "Vegyen fel esőruhát a nedves reggeli tekeréshez. Délben a kulturális helyszíneken száradhat meg. A bringázás a kastélyhoz óvatosságot igényel a csúszós utakon. Este jöhet a megérdemelt szárítkozás.",
             "ro": "Puneți echipament de ploaie pentru o plimbare umedă. Prânzul oferă răgaz la interior. Ciclismul de după-amiază spre castel necesită atenție pe aleile alunecoase. Seara cere uscare după o aventură cețoasă.",
-            "en": "Don rain gear for a wet morning ride. Midday offers indoor respites at cultural spots. Afternoon cycling to the castle demands caution on slippery paths. Evening calls for drying off after a misty adventure."
+            "en": "Don rain gear for a wet morning ride. Midday offers indoor respites at cultural spots. Afternoon cycling to the castle demands caution on slippery paths. Evening calls for drying off after a misty adventure.",
+            "fr": "Enfilez des vêtements de pluie pour une matinée humide à vélo. Le midi offre des refuges intérieurs dans les lieux culturels. L’après‑midi, faites attention aux chemins glissants en approchant du château. Le soir, comptez vous sécher après une aventure brumeuse."
           },
           "stops": [
             {
@@ -417,13 +458,15 @@
                 "de": "Ti Douar Alre",
                 "hu": "Ti Douar Alre",
                 "ro": "Ti Douar Alre",
-                "en": "Ti Douar Alre"
+                "en": "Ti Douar Alre",
+                "fr": "Ti Douar Alre"
               },
               "tip_5lang": {
                 "de": "Beginnen Sie Ihre nasse Fahrt hier, um lokale Geschichten zu lernen und den Regen abzuschütteln, bevor Sie wieder in den Sattel steigen.",
                 "hu": "Kezdje itt a nedves túrát: ismerkedjen a helyi történelemmel, és rázza le magáról az esőt, mielőtt újra nyeregbe pattan.",
                 "ro": "Începeți plimbarea umedă aici pentru a afla istoria locală, scuturând ploaia înainte de a vă urca din nou în șa.",
-                "en": "Start your wet ride here to learn local lore, shaking off the rain before hitting the bicycle saddle once again."
+                "en": "Start your wet ride here to learn local lore, shaking off the rain before hitting the bicycle saddle once again.",
+                "fr": "Commencez votre sortie humide ici pour apprendre le folklore local, en vous délestant de la pluie avant de reprendre la selle."
               }
             },
             {
@@ -431,13 +474,15 @@
                 "de": "Kirche Saint-Guigner",
                 "hu": "Saint-Guigner templom",
                 "ro": "Biserica Saint-Guigner",
-                "en": "Saint-Guigner Church"
+                "en": "Saint-Guigner Church",
+                "fr": "Église Saint‑Guigner"
               },
               "tip_5lang": {
                 "de": "Ein ruhiger, trockener Stopp, um die Architektur zu bewundern und die schwersten morgendlichen Regengüsse sicher abzuwarten.",
                 "hu": "Békés, száraz megálló, ahol megcsodálhatja az építészetet, miközben biztonságban kivárja a leghevesebb reggeli felhőszakadás végét.",
                 "ro": "O oprire senină și uscată pentru a admira arhitectura în timp ce așteptați în siguranță trecerea celor mai grele ploi de dimineață.",
-                "en": "A serene, dry stop to admire the architecture while waiting out the heaviest morning downpours in complete safety."
+                "en": "A serene, dry stop to admire the architecture while waiting out the heaviest morning downpours in complete safety.",
+                "fr": "Un arrêt serein et sec pour admirer l’architecture en attendant que les fortes averses matinales se calment en toute sécurité."
               }
             },
             {
@@ -445,13 +490,15 @@
                 "de": "Le StanG - Kulturzentrum",
                 "hu": "Le StanG Kulturális Központ",
                 "ro": "Centrul Cultural Le StanG",
-                "en": "Le StanG Cultural Center"
+                "en": "Le StanG Cultural Center",
+                "fr": "Centre culturel Le StanG"
               },
               "tip_5lang": {
                 "de": "Parken Sie Ihr Fahrrad und trocknen Sie sich ab, während Sie die geräumigen Innenausstellungen dieses Kulturzentrums erkunden.",
                 "hu": "Parkolja le a bringát és szárítkozzon meg, miközben felfedezi ennek a modern kulturális központnak a tágas beltéri kiállításait.",
                 "ro": "Parcați bicicleta și uscați-vă în timp ce explorați expozițiile spațioase din interiorul acestui centru cultural modern.",
-                "en": "Park your bike and dry off while exploring the spacious indoor exhibitions of this modern and welcoming cultural hub."
+                "en": "Park your bike and dry off while exploring the spacious indoor exhibitions of this modern and welcoming cultural hub.",
+                "fr": "Garez votre vélo et séchez‑vous en explorant les vastes expositions intérieures de ce pôle culturel moderne et accueillant."
               }
             },
             {
@@ -459,13 +506,15 @@
                 "de": "Kapelle Saint-Guénaël",
                 "hu": "Saint-Guénaël kápolna",
                 "ro": "Capela Saint-Guénaël",
-                "en": "Chapelle Saint-Guénaël"
+                "en": "Chapelle Saint-Guénaël",
+                "fr": "Chapelle Saint‑Guénaël"
               },
               "tip_5lang": {
                 "de": "Die nasse Umgebung macht es mystisch, aber bremsen Sie sanft auf dem nassen Laub, wenn Sie sich der Kapelle nähern.",
                 "hu": "A nedves környezet misztikussá teszi, de óvatosan, finoman fékezzen a kápolnához vezető csúszós, vizes faleveleken.",
                 "ro": "Împrejurimile umede o fac mistică, dar frânați ușor pe frunzele ude și alunecoase când vă apropiați de capelă.",
-                "en": "The wet surroundings make it mystical, but brake gently on the slippery wet leaves approaching the chapel."
+                "en": "The wet surroundings make it mystical, but brake gently on the slippery wet leaves approaching the chapel.",
+                "fr": "L’environnement humide lui donne un aspect mystique, mais freinez doucement sur les feuilles mouillées et glissantes en approchant de la chapelle."
               }
             },
             {
@@ -473,13 +522,15 @@
                 "de": "Château de Keronic",
                 "hu": "Château de Keronic",
                 "ro": "Château de Keronic",
-                "en": "Château de Keronic"
+                "en": "Château de Keronic",
+                "fr": "Château de Keronic"
               },
               "tip_5lang": {
                 "de": "Die Schlosssilhouette ist im Nebel markant, aber Sie benötigen eine solide Regenjacke, um die Außenansicht zu genießen.",
                 "hu": "A kastély sziluettje lenyűgöző a ködben, de masszív esőkabátra lesz szüksége, hogy a nyeregből is élvezhesse a látványt.",
                 "ro": "Silueta castelului este izbitoare în ceață, deși veți avea nevoie de o pelerină solidă pentru a vă bucura de priveliștea exterioară.",
-                "en": "The castle silhouette is striking in the mist, though you'll need a solid raincoat to enjoy the outdoor view from your bike."
+                "en": "The castle silhouette is striking in the mist, though you'll need a solid raincoat to enjoy the outdoor view from your bike.",
+                "fr": "La silhouette du château est saisissante dans la brume, mais il vous faudra un imperméable solide pour profiter de la vue extérieure à vélo."
               }
             },
             {
@@ -487,13 +538,15 @@
                 "de": "Archäologische Stätte Talhouët",
                 "hu": "Talhouëti régészeti lelőhely",
                 "ro": "Situl arheologic Talhouët",
-                "en": "Site archéologique de Talhouët"
+                "en": "Site archéologique de Talhouët",
+                "fr": "Site archéologique de Talhouët"
               },
               "tip_5lang": {
                 "de": "Dieser exponierte Ort ist faszinierend, aber schlammig; tragen Sie Überschuhe und erkunden Sie ihn mit einem Regenschirm.",
                 "hu": "Ez a nyitott terület lenyűgöző, de nagyon saras; viseljen cipővédőt a tekeréshez, és esernyővel fedezze fel a romokat.",
                 "ro": "Acest loc expus este fascinant, dar noroios, așa că purtați huse pentru pantofi și explorați-l cu o umbrelă.",
-                "en": "This exposed site is fascinating but muddy, so wear overshoes for your bike ride and explore the ruins with an umbrella."
+                "en": "This exposed site is fascinating but muddy, so wear overshoes for your bike ride and explore the ruins with an umbrella.",
+                "fr": "Ce site découvert est fascinant mais boueux ; portez des surchaussures pour le vélo et explorez les ruines avec un parapluie."
               }
             }
           ]
@@ -503,7 +556,8 @@
             "de": "Frostige Morgenluft weckt Sie auf. Die Mittagssonne wärmt mild. Das Treten zum Schloss hält den Kreislauf in Schwung. Schalten Sie das Licht ein, wenn die Winterdämmerung um 17:00 Uhr hereinbricht.",
             "hu": "A fagyos reggeli levegő felébreszti tekerés közben. A déli nap enyhén melegít. A délutáni tekerés a kastélyhoz felpörgeti a vérkeringést. Kapcsolja be a lámpákat, ahogy 17:00 körül leszáll a sötétség.",
             "ro": "Aerul geros de dimineață vă trezește. Soarele de prânz oferă o căldură blândă. Pedalarea spre castel vă menține cald. Aprindeți farurile bicicletei la lăsarea întunericului de iarnă pe la 17:00.",
-            "en": "Frosty morning air wakes you up on the ride. Midday sun offers mild warmth. Afternoon pedaling to the castle keeps your blood pumping. Turn your bike lights on as early winter dusk falls around 17:00."
+            "en": "Frosty morning air wakes you up on the ride. Midday sun offers mild warmth. Afternoon pedaling to the castle keeps your blood pumping. Turn your bike lights on as early winter dusk falls around 17:00.",
+            "fr": "L’air matinal givré vous réveille sur le parcours. Le soleil de midi apporte une douce chaleur. L’après‑midi, les pédalages jusqu’au château font monter la température. Allumez vos lumières de vélo dès que le crépuscule hivernal tombe vers 17:00."
           },
           "stops": [
             {
@@ -511,13 +565,15 @@
                 "de": "Ti Douar Alre",
                 "hu": "Ti Douar Alre",
                 "ro": "Ti Douar Alre",
-                "en": "Ti Douar Alre"
+                "en": "Ti Douar Alre",
+                "fr": "Ti Douar Alre"
               },
               "tip_5lang": {
                 "de": "Wärmen Sie sich drinnen auf, nachdem Sie bei Frost losgefahren sind; dicke Handschuhe sind heute für das Fahrrad ein Muss.",
                 "hu": "Melegedjen fel a benti történelemmel egy élénkítő, fagyos rajt után; a vastag biciklis kesztyű ma kötelező darab.",
                 "ro": "Încălziți-vă înăuntru după un început geros și alert pe bicicletă; mănușile groase sunt absolut obligatorii astăzi.",
-                "en": "Warm up inside with local history after a brisk, frosty start on your bicycle; thick riding gloves are a must today."
+                "en": "Warm up inside with local history after a brisk, frosty start on your bicycle; thick riding gloves are a must today.",
+                "fr": "Réchauffez‑vous à l’intérieur en découvrant l’histoire locale après un départ vif et glacé à vélo ; des gants épais pour cycliste sont indispensables aujourd’hui."
               }
             },
             {
@@ -525,13 +581,15 @@
                 "de": "Kirche Saint-Guigner",
                 "hu": "Saint-Guigner templom",
                 "ro": "Biserica Saint-Guigner",
-                "en": "Saint-Guigner Church"
+                "en": "Saint-Guigner Church",
+                "fr": "Église Saint‑Guigner"
               },
               "tip_5lang": {
                 "de": "Nehmen Sie sich einen Moment in der friedlichen, aber kalten Steinkirche, bevor Sie Ihre frische Winter-Radtour fortsetzen.",
                 "hu": "Töltsön el egy percet a békés, bár hűvös kőhajóban, mielőtt folytatná az energiát adó téli kerékpáros útvonalat.",
                 "ro": "Luați-vă un moment în nava de piatră pașnică, deși rece, înainte de a continua traseul alert de ciclism de iarnă.",
-                "en": "Take a moment in the peaceful, albeit chilly, stone nave before continuing your brisk winter cycling route."
+                "en": "Take a moment in the peaceful, albeit chilly, stone nave before continuing your brisk winter cycling route.",
+                "fr": "Prenez un moment dans la nef paisible, quoique fraîche, avant de poursuivre votre itinéraire cycliste hivernal tonique."
               }
             },
             {
@@ -539,13 +597,15 @@
                 "de": "Le StanG - Kulturzentrum",
                 "hu": "Le StanG Kulturális Központ",
                 "ro": "Centrul Cultural Le StanG",
-                "en": "Le StanG Cultural Center"
+                "en": "Le StanG Cultural Center",
+                "fr": "Centre culturel Le StanG"
               },
               "tip_5lang": {
                 "de": "Genießen Sie eine angenehm beheizte Kulturpause, perfekt zum Auftauen Ihrer frierenden Finger vor der Weiterfahrt.",
                 "hu": "Élvezze a kényelmesen fűtött kulturális szünetet, amely tökéletes a fagyos ujjak kiolvasztására a továbbindulás előtt.",
                 "ro": "Bucurați-vă de o pauză culturală confortabil încălzită, perfectă pentru a vă dezgheța degetele înghețate înainte de a merge mai departe.",
-                "en": "Enjoy a comfortably heated cultural break, perfect for thawing your freezing fingers before riding onwards."
+                "en": "Enjoy a comfortably heated cultural break, perfect for thawing your freezing fingers before riding onwards.",
+                "fr": "Profitez d’une pause chauffée et confortable pour réchauffer vos doigts engourdis avant de repartir à vélo."
               }
             },
             {
@@ -553,13 +613,15 @@
                 "de": "Kapelle Saint-Guénaël",
                 "hu": "Saint-Guénaël kápolna",
                 "ro": "Capela Saint-Guénaël",
-                "en": "Chapelle Saint-Guénaël"
+                "en": "Chapelle Saint-Guénaël",
+                "fr": "Chapelle Saint‑Guénaël"
               },
               "tip_5lang": {
                 "de": "Kahle Winterbäume bieten freie Sicht, aber achten Sie auf gefährliche Eisflächen auf dem schattigen Anfahrtsweg.",
                 "hu": "A csupasz téli fák akadálytalan kilátást nyújtanak, de ügyeljen a veszélyes jégfoltokra az árnyékos megközelítés során.",
                 "ro": "Copacii goi de iarnă oferă vederi neobstrucționate, dar atenție la peticele de gheață periculoase pe aleea umbrită.",
-                "en": "Bare winter trees offer unobstructed views, but watch out for dangerous icy patches on the shaded approach to the chapel."
+                "en": "Bare winter trees offer unobstructed views, but watch out for dangerous icy patches on the shaded approach to the chapel.",
+                "fr": "Les arbres d’hiver dénudés offrent des vues dégagées, mais méfiez‑vous des plaques de verglas dangereuses sur l’approche ombragée de la chapelle."
               }
             },
             {
@@ -567,13 +629,15 @@
                 "de": "Château de Keronic",
                 "hu": "Château de Keronic",
                 "ro": "Château de Keronic",
-                "en": "Château de Keronic"
+                "en": "Château de Keronic",
+                "fr": "Château de Keronic"
               },
               "tip_5lang": {
                 "de": "Das Anwesen sieht im klaren Winterlicht majestätisch aus; treten Sie weiter kräftig in die Pedale, um warm zu bleiben.",
                 "hu": "A birtok fenségesen fest a tiszta téli fényben; tekerjen tovább folyamatosan a kerítés mentén, hogy melegen tartsa magát.",
                 "ro": "Măreața moșie arată maiestuos în lumina rece de iarnă; continuați să pedalați de-a lungul perimetrului pentru a vă menține cald.",
-                "en": "The grand estate looks majestic in the crisp winter light; keep pedaling around the perimeter to stay warm."
+                "en": "The grand estate looks majestic in the crisp winter light; keep pedaling around the perimeter to stay warm.",
+                "fr": "Le vaste domaine paraît majestueux sous la lumière hivernale cristalline ; continuez à pédaler autour du périmètre pour rester au chaud."
               }
             },
             {
@@ -581,13 +645,15 @@
                 "de": "Archäologische Stätte Talhouët",
                 "hu": "Talhouëti régészeti lelőhely",
                 "ro": "Situl arheologic Talhouët",
-                "en": "Site archéologique de Talhouët"
+                "en": "Site archéologique de Talhouët",
+                "fr": "Site archéologique de Talhouët"
               },
               "tip_5lang": {
                 "de": "Erkunden Sie diese alten Steine früh und stellen Sie sicher, dass Sie gutes Licht für die dunkle Rückfahrt um 17 Uhr haben.",
                 "hu": "Fedezze fel ezeket az ősi köveket még világosban, és gondoskodjon erős lámpáról a délután 5 órai sötét visszaúthoz.",
                 "ro": "Explorați devreme aceste pietre antice, asigurându-vă că aveți faruri puternice cu dinam pentru drumul întunecat de întoarcere de la ora 17:00.",
-                "en": "Explore these ancient stones early, making sure you have strong bicycle lights for the completely dark 5 PM ride back."
+                "en": "Explore these ancient stones early, making sure you have strong bicycle lights for the completely dark 5 PM ride back.",
+                "fr": "Explorez ces pierres anciennes tôt le matin, en vous assurant d’avoir de puissants éclairages de vélo pour le retour complètement noir à 17h."
               }
             }
           ]
@@ -607,7 +673,8 @@
             "de": "Kirche Saint-Guigner",
             "hu": "Saint-Guigner templom",
             "ro": "Biserica Saint-Guigner",
-            "en": "Saint-Guigner Church"
+            "en": "Saint-Guigner Church",
+            "fr": "Église Saint-Guigner"
           },
           "coords": [
             -3.010714,
@@ -622,7 +689,8 @@
             "de": "Bewundern Sie die beeindruckende Architektur der Kirche Saint-Guigner, die als spirituelles Herz der Stadt gilt, und besuchen Sie sie am besten vormittags für ideales Licht.",
             "hu": "Csodálja meg a város spirituális központjának számító Saint-Guigner templom lenyűgöző építészetét, és a legjobb fényviszonyok érdekében időzítse látogatását a délelőtti órákra.",
             "ro": "Admirați arhitectura impresionantă a Bisericii Saint-Guigner, considerată inima spirituală a orașului, și vizitați-o dimineața pentru a vă bucura de cea mai bună lumină.",
-            "en": "Admire the impressive architecture of Saint-Guigner Church, which serves as the spiritual heart of the city, and visit in the morning to enjoy the best natural light."
+            "en": "Admire the impressive architecture of Saint-Guigner Church, which serves as the spiritual heart of the city, and visit in the morning to enjoy the best natural light.",
+            "fr": "Admirez l’architecture impressionnante de l’église Saint-Guigner, qui est le cœur spirituel de la ville, et visitez-la le matin pour profiter de la meilleure lumière naturelle."
           }
         },
         {
@@ -630,7 +698,8 @@
             "de": "Le StanG - Kulturzentrum",
             "hu": "Le StanG Kulturális Központ",
             "ro": "Centrul Cultural Le StanG",
-            "en": "Le StanG Cultural Center"
+            "en": "Le StanG Cultural Center",
+            "fr": "Centre culturel Le StanG"
           },
           "coords": [
             -3.00889,
@@ -645,7 +714,8 @@
             "de": "Besuchen Sie dieses moderne Kulturzentrum, das lokale Kunst und Veranstaltungen fördert, und überprüfen Sie vorab das Programm auf mögliche Abendvorstellungen.",
             "hu": "Látogasson el ebbe a modern kulturális központba, amely a helyi művészeteket és rendezvényeket népszerűsíti, és előzetesen ellenőrizze a programot az esetleges esti előadások miatt.",
             "ro": "Vizitați acest centru cultural modern care promovează arta și evenimentele locale, și verificați programul în avans pentru posibile spectacole de seară.",
-            "en": "Visit this modern cultural center that promotes local art and events, and check the program in advance to catch any potential evening performances."
+            "en": "Visit this modern cultural center that promotes local art and events, and check the program in advance to catch any potential evening performances.",
+            "fr": "Visitez ce centre culturel moderne qui promeut l’art et les événements locaux, et consultez le programme à l’avance pour assister aux éventuelles représentations du soir."
           }
         },
         {
@@ -653,7 +723,8 @@
             "de": "Château de Keronic",
             "hu": "Château de Keronic",
             "ro": "Château de Keronic",
-            "en": "Château de Keronic"
+            "en": "Château de Keronic",
+            "fr": "Château de Keronic"
           },
           "coords": [
             -3.030484,
@@ -668,7 +739,8 @@
             "de": "Erkunden Sie die faszinierenden Anlagen des Château de Keronic, das von aristokratischer Geschichte zeugt, und machen Sie Fotos von der Hauptfassade am frühen Nachmittag.",
             "hu": "Fedezze fel a Château de Keronic arisztokratikus történelmet őrző lenyűgöző birtokát, és készítsen nagyszerű fotókat a főhomlokzatról a kora délutáni órákban.",
             "ro": "Explorați domeniul fascinant al Château de Keronic, care mărturisește istoria aristocratică, și faceți fotografii ale fațadei principale la începutul după-amiezii.",
-            "en": "Explore the fascinating grounds of Château de Keronic, which bears witness to aristocratic history, and take great photos of the main facade in the early afternoon."
+            "en": "Explore the fascinating grounds of Château de Keronic, which bears witness to aristocratic history, and take great photos of the main facade in the early afternoon.",
+            "fr": "Explorez les fascinants jardins du château de Keronic, témoin de l’histoire aristocratique, et prenez de belles photos de la façade principale en début d’après‑midi."
           }
         },
         {
@@ -676,7 +748,8 @@
             "de": "Kapelle Saint-Guy",
             "hu": "Saint-Guy kápolna",
             "ro": "Capela Saint-Guy",
-            "en": "Saint-Guy Chapel"
+            "en": "Saint-Guy Chapel",
+            "fr": "Chapelle Saint-Guy"
           },
           "coords": [
             -3.064113,
@@ -691,7 +764,8 @@
             "de": "Lassen Sie sich von der charmanten und abgelegenen Kapelle Saint-Guy verzaubern, die für ihre Schlichtheit bekannt ist, und nehmen Sie sich Zeit für einen Moment der Stille.",
             "hu": "Hagyja, hogy elvarázsolja az egyszerűségéről ismert, bájos és eldugott Saint-Guy kápolna, és szánjon egy kis időt a csendes elmélkedésre ezen a békés helyen.",
             "ro": "Lăsați-vă fermecați de fermecătoarea și izolata Capelă Saint-Guy, cunoscută pentru simplitatea sa, și acordați-vă timp pentru un moment de liniște.",
-            "en": "Let yourself be enchanted by the charming and secluded Saint-Guy Chapel, known for its simplicity, and take a moment to enjoy the peaceful silence."
+            "en": "Let yourself be enchanted by the charming and secluded Saint-Guy Chapel, known for its simplicity, and take a moment to enjoy the peaceful silence.",
+            "fr": "Laissez‑vous enchanter par la charmante et isolée chapelle Saint-Guy, connue pour sa simplicité, et prenez un moment pour apprécier le silence paisible."
           }
         },
         {
@@ -699,7 +773,8 @@
             "de": "Kapelle Notre-Dame d'Ortuay",
             "hu": "Notre-Dame d'Ortuay kápolna",
             "ro": "Capela Notre-Dame d'Ortuay",
-            "en": "Notre-Dame d'Ortuay Chapel"
+            "en": "Notre-Dame d'Ortuay Chapel",
+            "fr": "Chapelle Notre‑Dame d’Ortuay"
           },
           "coords": [
             -3.089468,
@@ -714,7 +789,8 @@
             "de": "Entdecken Sie die spirituelle Bedeutung der Kapelle Notre-Dame d'Ortuay tief im bretonischen Land, und achten Sie auf die kunstvollen Steinarbeiten rund um das Portal.",
             "hu": "Fedezze fel a breton vidék mélyén megbúvó Notre-Dame d'Ortuay kápolna spirituális jelentőségét, és figyelje meg a kapu körüli kidolgozott kőfaragásokat.",
             "ro": "Descoperiți semnificația spirituală a Capelei Notre-Dame d'Ortuay din inima regiunii bretone și acordați atenție sculpturilor detaliate în piatră din jurul portalului.",
-            "en": "Discover the spiritual significance of the Notre-Dame d'Ortuay Chapel deep in the Breton countryside, and pay attention to the detailed stonework around the portal."
+            "en": "Discover the spiritual significance of the Notre-Dame d'Ortuay Chapel deep in the Breton countryside, and pay attention to the detailed stonework around the portal.",
+            "fr": "Découvrez la signification spirituelle de la chapelle Notre‑Dame d’Ortuay au cœur de la campagne bretonne, et faites attention aux sculptures détaillées autour du portail."
           }
         },
         {
@@ -722,7 +798,8 @@
             "de": "Archäologische Stätte Talhouët",
             "hu": "Talhouëti régészeti lelőhely",
             "ro": "Situl arheologic Talhouët",
-            "en": "Site archéologique de Talhouët"
+            "en": "Site archéologique de Talhouët",
+            "fr": "Site archéologique de Talhouët"
           },
           "coords": [
             -3.018211,
@@ -737,7 +814,8 @@
             "de": "Tauchen Sie in die antike Vergangenheit ein an der archäologischen Stätte von Talhouët, wo Ruinen Geschichten erzählen, und bleiben Sie auf den markierten Wegen, um das Gebiet zu schützen.",
             "hu": "Merüljön el az ókori múltban a talhouëti régészeti lelőhelyen, ahol a romok történeteket mesélnek, és a terület védelme érdekében maradjon a kijelölt ösvényeken.",
             "ro": "Pătrundeți în trecutul antic la situl arheologic din Talhouët, unde ruinele spun povești străvechi, și rămâneți pe potecile marcate pentru a proteja zona.",
-            "en": "Delve into the ancient past at the archaeological site of Talhouët, where ruins tell ancient stories, and stay on the marked trails to help protect the fragile area."
+            "en": "Delve into the ancient past at the archaeological site of Talhouët, where ruins tell ancient stories, and stay on the marked trails to help protect the fragile area.",
+            "fr": "Plongez dans le passé ancien au site archéologique de Talhouët, où les ruines racontent d’antiques histoires, et restez sur les sentiers balisés pour aider à protéger cette zone fragile."
           }
         }
       ],
@@ -745,7 +823,8 @@
         "de": "Der Autotrip beginnt an der zentralen Kirche Saint-Guigner, gefolgt von lokaler Kunst im Le StanG. \n\nGegen Mittag fahren Sie zum Château de Keronic, um die prächtige Architektur zu bewundern. \n\nAm Nachmittag erkunden Sie die ländlichen Juwelen, beginnend mit der malerischen Kapelle Saint-Guy. \n\nNach der Kapelle Notre-Dame d'Ortuay endet der Tag an der historischen archäologischen Stätte von Talhouët.",
         "hu": "Az autós túra a központi Saint-Guigner templomnál kezdődik, majd a Le StanG művészetével folytatódik. \n\nDélben látogasson el a Château de Keronic kastélyhoz, és csodálja meg pompás építészetét. \n\nDélután vidéki ékszereket fedezhet fel, köztük a festői Saint-Guy és Notre-Dame d'Ortuay kápolnákat. \n\nA nap a talhouëti régészeti lelőhely ősi romjai között ér véget.",
         "ro": "Excursia cu mașina începe la Biserica Saint-Guigner, continuând cu arta de la Le StanG. \n\nLa prânz, conduceți spre Château de Keronic pentru a admira arhitectura sa magnifică. \n\nDupă-amiaza, explorați bijuteriile rurale, inclusiv pitoreștile capele Saint-Guy și Notre-Dame d'Ortuay. \n\nZiua se încheie cu descoperiri fascinante la situl arheologic istoric din Talhouët.",
-        "en": "Your driving tour begins at Saint-Guigner Church, followed by contemporary art at Le StanG. \n\nAround midday, drive to the Château de Keronic to admire its magnificent architecture and grounds. \n\nIn the afternoon, explore rural gems including the picturesque Saint-Guy and Notre-Dame d'Ortuay chapels. \n\nThe day concludes with fascinating discoveries at the historic archaeological site of Talhouët."
+        "en": "Your driving tour begins at Saint-Guigner Church, followed by contemporary art at Le StanG. \n\nAround midday, drive to the Château de Keronic to admire its magnificent architecture and grounds. \n\nIn the afternoon, explore rural gems including the picturesque Saint-Guy and Notre-Dame d'Ortuay chapels. \n\nThe day concludes with fascinating discoveries at the historic archaeological site of Talhouët.",
+        "fr": "Votre circuit en voiture commence à l’église Saint-Guigner, suivi de l’art contemporain au Le StanG. \n\nVers midi, rejoignez le château de Keronic pour admirer sa magnifique architecture et ses jardins. \n\nL’après‑midi, explorez des trésors ruraux dont les pittoresques chapelles Saint-Guy et Notre‑Dame d’Ortuay. \n\nLa journée se termine par des découvertes fascinantes au site archéologique historique de Talhouët."
       },
       "variants": {
         "rainy": {
@@ -753,7 +832,8 @@
             "de": "Genießen Sie eine trockene Morgenfahrt zur Kirche. Mittags gibt es kurze Sprints zum Schloss. Nachmittagsschauer begleiten die Fahrt zu den Kapellen. Die Rückkehr am Abend ist gemütlich im warmen Auto.",
             "hu": "Élvezze a száraz reggeli autózást a templomhoz. Délben csak gyorsan ki kell szaladni a kastélyhoz. A délutáni záporok elkísérik a kápolnákhoz. Az esti visszaút hangulatos a folyamatosan járó ablaktörlőkkel.",
             "ro": "Bucurați-vă de un drum uscat spre biserică. Prânzul permite fugi rapide spre castel. Aversele de după-amiază însoțesc drumul spre capele. Întoarcerea de seară e confortabilă, cu ștergătoarele mergând.",
-            "en": "Enjoy a dry morning drive to the church and center. Midday allows quick dashes to the castle. Afternoon showers accompany the drive to remote chapels. Evening return is cozy with the wipers going steadily."
+            "en": "Enjoy a dry morning drive to the church and center. Midday allows quick dashes to the castle. Afternoon showers accompany the drive to remote chapels. Evening return is cozy with the wipers going steadily.",
+            "fr": "Profitez d’une matinée sèche pour conduire jusqu’à l’église et au centre. À midi, de rapides escapades permettent d’atteindre le château. Des averses l’après‑midi accompagnent la route vers les chapelles isolées. Le retour du soir est douillet avec les essuie‑glaces en marche régulière."
           },
           "stops": [
             {
@@ -761,13 +841,15 @@
                 "de": "Kirche Saint-Guigner",
                 "hu": "Saint-Guigner templom",
                 "ro": "Biserica Saint-Guigner",
-                "en": "Saint-Guigner Church"
+                "en": "Saint-Guigner Church",
+                "fr": "Église Saint-Guigner"
               },
               "tip_5lang": {
                 "de": "Leicht erreichbar mit Parkplätzen in der Nähe, bietet sofortigen Schutz und eine schöne, melancholische Regentagsatmosphäre.",
                 "hu": "Könnyen megközelíthető a közeli parkolókból, azonnali menedéket és gyönyörű, komor esős napi hangulatot biztosít.",
                 "ro": "Ușor accesibilă, cu parcare în apropiere, oferind adăpost imediat și o ambianță frumos de sobră într-o zi ploioasă.",
-                "en": "Easily accessible with nearby parking, providing immediate shelter and a beautifully somber rainy-day ambiance."
+                "en": "Easily accessible with nearby parking, providing immediate shelter and a beautifully somber rainy-day ambiance.",
+                "fr": "Facilement accessible avec un parking à proximité, offrant un abri immédiat et une ambiance pluvieuse délicieusement sombre."
               }
             },
             {
@@ -775,13 +857,15 @@
                 "de": "Le StanG - Kulturzentrum",
                 "hu": "Le StanG Kulturális Központ",
                 "ro": "Centrul Cultural Le StanG",
-                "en": "Le StanG Cultural Center"
+                "en": "Le StanG Cultural Center",
+                "fr": "Centre culturel Le StanG"
               },
               "tip_5lang": {
                 "de": "Verbringen Sie eine Stunde drinnen mit lokaler Kunst, bleiben Sie während der heftigsten Regengüsse trocken und bequem.",
                 "hu": "Töltsön el egy órát beltéren a helyi művészetekkel, és maradjon teljesen száraz a leghevesebb felhőszakadások alatt is.",
                 "ro": "Petreceți o oră la interior explorând arta locală, rămânând perfect uscat și confortabil în timpul celor mai puternice averse.",
-                "en": "Spend an hour indoors exploring local arts, keeping perfectly dry and comfortable during the heaviest downpours."
+                "en": "Spend an hour indoors exploring local arts, keeping perfectly dry and comfortable during the heaviest downpours.",
+                "fr": "Passez une heure à l’intérieur à explorer les arts locaux, restant parfaitement au sec et confortable pendant les plus fortes averses."
               }
             },
             {
@@ -789,13 +873,15 @@
                 "de": "Château de Keronic",
                 "hu": "Château de Keronic",
                 "ro": "Château de Keronic",
-                "en": "Château de Keronic"
+                "en": "Château de Keronic",
+                "fr": "Château de Keronic"
               },
               "tip_5lang": {
                 "de": "Die imposanten Steinmauern sehen durch die regennasse Windschutzscheibe Ihres geparkten Autos sehr dramatisch aus.",
                 "hu": "Az impozáns kőfalak nagyon drámaian festenek a kényelmesen leparkolt autó esőáztatta szélvédőjén keresztül.",
                 "ro": "Impozantele ziduri de piatră arată extrem de dramatic prin parbrizul brăzdat de ploaie al mașinii parcate confortabil.",
-                "en": "The imposing stone walls look highly dramatic through the rain-streaked windshield of your comfortably parked car."
+                "en": "The imposing stone walls look highly dramatic through the rain-streaked windshield of your comfortably parked car.",
+                "fr": "Les imposants murs de pierre offrent un spectacle très dramatique vus à travers le pare‑brise strié de pluie de votre voiture confortablement garée."
               }
             },
             {
@@ -803,13 +889,15 @@
                 "de": "Kapelle Saint-Guy",
                 "hu": "Saint-Guy kápolna",
                 "ro": "Capela Saint-Guy",
-                "en": "Saint-Guy Chapel"
+                "en": "Saint-Guy Chapel",
+                "fr": "Chapelle Saint-Guy"
               },
               "tip_5lang": {
                 "de": "Ein kurzer Sprint mit dem Schirm vom Auto offenbart diese charmante Kapelle, ein friedliches und trockenes Heiligtum.",
                 "hu": "Egy gyors esernyős rohanás az autótól felfedi ezt a bájos kápolnát, amely békés és teljesen száraz szentélyt kínál.",
                 "ro": "O fugă rapidă cu umbrela de la mașină dezvăluie această capelă fermecătoare, oferind un sanctuar pașnic și complet uscat.",
-                "en": "A quick umbrella dash from the car reveals this charming chapel, offering a peaceful and completely dry sanctuary."
+                "en": "A quick umbrella dash from the car reveals this charming chapel, offering a peaceful and completely dry sanctuary.",
+                "fr": "Un court trajet sous parapluie depuis la voiture révèle cette charmante chapelle, offrant un sanctuaire paisible et totalement sec."
               }
             },
             {
@@ -817,13 +905,15 @@
                 "de": "Kapelle Notre-Dame d'Ortuay",
                 "hu": "Notre-Dame d'Ortuay kápolna",
                 "ro": "Capela Notre-Dame d'Ortuay",
-                "en": "Notre-Dame d'Ortuay Chapel"
+                "en": "Notre-Dame d'Ortuay Chapel",
+                "fr": "Chapelle Notre‑Dame d’Ortuay"
               },
               "tip_5lang": {
                 "de": "Fahren Sie vorsichtig auf nassen, schlammigen Landstraßen, um diesen abgelegenen, wunderschönen und regnerischen Ort zu erreichen.",
                 "hu": "Vezessen óvatosan a nedves, potenciálisan saras vidéki utakon, hogy elérje ezt a távoli, esőben melankolikusan szép helyet.",
                 "ro": "Conduceți cu grijă pe drumurile rurale umede și potențial noroioase pentru a ajunge la acest loc izolat și frumos de melancolic.",
-                "en": "Drive carefully on wet, potentially muddy rural roads to reach this remote, beautifully melancholic rainy spot."
+                "en": "Drive carefully on wet, potentially muddy rural roads to reach this remote, beautifully melancholic rainy spot.",
+                "fr": "Conduisez prudemment sur des routes rurales mouillées et potentiellement boueuses pour atteindre cet endroit reculé, belle et mélancolique sous la pluie."
               }
             },
             {
@@ -831,13 +921,15 @@
                 "de": "Archäologische Stätte Talhouët",
                 "hu": "Talhouëti régészeti lelőhely",
                 "ro": "Situl arheologic Talhouët",
-                "en": "Site archéologique de Talhouët"
+                "en": "Site archéologique de Talhouët",
+                "fr": "Site archéologique de Talhouët"
               },
               "tip_5lang": {
                 "de": "Betrachten Sie die Anlage kurz unter einem Schirm, da die unbefestigten Wege zum Gehen recht schlammig werden können.",
                 "hu": "Tekintse meg a romokat röviden egy esernyő alól, mivel a burkolatlan ösvények gyalogláshoz meglehetősen sarassá válhatnak.",
                 "ro": "Vizualizați așezarea arheologică pe scurt de sub o umbrelă, deoarece aleile neasfaltate pot deveni destul de noroioase pentru mers.",
-                "en": "View the archaeological layout briefly from under an umbrella, as the unpaved paths can get quite muddy for walking."
+                "en": "View the archaeological layout briefly from under an umbrella, as the unpaved paths can get quite muddy for walking.",
+                "fr": "Observez rapidement l’implantation archéologique sous un parapluie, car les chemins non revêtus peuvent devenir très boueux pour la marche."
               }
             }
           ]
@@ -847,7 +939,8 @@
             "de": "Eine frostige Fahrt mit Sitzheizung zur Kirche. Die Wintersonne beleuchtet das Schloss. Nachmittagsfahrten zu Kapellen bieten karge Landschaften. Fahren Sie zurück, bevor um 17:00 Uhr die Dunkelheit einbricht.",
             "hu": "Fagyos reggeli autózás fűthető ülésekkel a templomig. A téli nap kiemeli a kastélyt. A délutáni utak a kápolnákhoz zord tájakat kínálnak. Induljon vissza, ahogy a korai, 17:00 órás sötétség gyorsan leereszkedik.",
             "ro": "O plimbare gerosă de dimineață cu scaune încălzite spre biserică. Soarele de iarnă evidențiază castelul. Drumurile spre capele oferă peisaje austere. Întoarceți-vă când se lasă întunericul rapid pe la 17:00.",
-            "en": "A frosty morning drive with heated seats to the church. Midday winter sun highlights the castle. Afternoon drives to rural chapels offer stark landscapes. Head back as the early 17:00 darkness descends fast."
+            "en": "A frosty morning drive with heated seats to the church. Midday winter sun highlights the castle. Afternoon drives to rural chapels offer stark landscapes. Head back as the early 17:00 darkness descends fast.",
+            "fr": "Une matinée glacée en voiture avec sièges chauffants jusqu’à l’église. Le soleil de midi d’hiver met en valeur le château. Les trajets de l’après‑midi vers les chapelles rurales offrent des paysages dépouillés. Retournez‑vous car l’obscurité précoce de 17h descend vite."
           },
           "stops": [
             {
@@ -855,13 +948,15 @@
                 "de": "Kirche Saint-Guigner",
                 "hu": "Saint-Guigner templom",
                 "ro": "Biserica Saint-Guigner",
-                "en": "Saint-Guigner Church"
+                "en": "Saint-Guigner Church",
+                "fr": "Église Saint-Guigner"
               },
               "tip_5lang": {
                 "de": "Steigen Sie aus dem warmen Auto, um die klare, ruhige Winterpracht dieser historischen Pfarrei zu bewundern.",
                 "hu": "Szálljon ki a meleg autóból, hogy megcsodálja e történelmi plébánia tiszta, csendes téli szépségét, mielőtt túl hideg lenne.",
                 "ro": "Ieșiți din mașina caldă pentru a admira frumusețea clară și liniștită de iarnă a acestei parohii istorice înainte să se facă prea frig.",
-                "en": "Step out of your warm car to admire the crisp, quiet winter beauty of this historic parish before it gets too cold."
+                "en": "Step out of your warm car to admire the crisp, quiet winter beauty of this historic parish before it gets too cold.",
+                "fr": "Sortez de votre voiture chaude pour admirer la beauté hivernale nette et silencieuse de cette paroisse historique avant qu’il ne fasse trop froid."
               }
             },
             {
@@ -869,13 +964,15 @@
                 "de": "Le StanG - Kulturzentrum",
                 "hu": "Le StanG Kulturális Központ",
                 "ro": "Centrul Cultural Le StanG",
-                "en": "Le StanG Cultural Center"
+                "en": "Le StanG Cultural Center",
+                "fr": "Centre culturel Le StanG"
               },
               "tip_5lang": {
                 "de": "Ein beheizter kultureller Ort, der einen sehr komfortablen Zwischenstopp auf Ihrer frostigen Winterfahrt bietet.",
                 "hu": "Fűtött kulturális helyszín, amely nagyon kényelmes félúti megállót kínál a fagyos, festői téli autózás során.",
                 "ro": "Un spațiu cultural încălzit care oferă o oprire intermediară foarte confortabilă pe traseul dvs. geros și pitoresc de iarnă.",
-                "en": "A heated cultural venue providing a very comfortable midway stop on your frosty, scenic winter driving tour."
+                "en": "A heated cultural venue providing a very comfortable midway stop on your frosty, scenic winter driving tour.",
+                "fr": "Un lieu culturel chauffé offrant une halte très confortable à mi‑parcours de votre tour hivernal pittoresque."
               }
             },
             {
@@ -883,13 +980,15 @@
                 "de": "Château de Keronic",
                 "hu": "Château de Keronic",
                 "ro": "Château de Keronic",
-                "en": "Château de Keronic"
+                "en": "Château de Keronic",
+                "fr": "Château de Keronic"
               },
               "tip_5lang": {
                 "de": "Die kahle Winterlandschaft bietet vom Komfort Ihres beheizten Autos aus einen atemberaubenden Blick auf das Schloss.",
                 "hu": "A csupasz téli táj tiszta, lenyűgöző kilátást nyújt a kastélyra közvetlenül a fűtött autója kényelméből.",
                 "ro": "Peisajul golaș de iarnă oferă vederi clare și uimitoare ale castelului direct din confortul mașinii dvs. încălzite.",
-                "en": "The bare winter landscape provides clear, stunning views of the castle directly from the comfort of your heated car."
+                "en": "The bare winter landscape provides clear, stunning views of the castle directly from the comfort of your heated car.",
+                "fr": "Le paysage hivernal dépouillé offre des vues nettes et superbes du château directement depuis le confort de votre voiture chauffée."
               }
             },
             {
@@ -897,13 +996,15 @@
                 "de": "Kapelle Saint-Guy",
                 "hu": "Saint-Guy kápolna",
                 "ro": "Capela Saint-Guy",
-                "en": "Saint-Guy Chapel"
+                "en": "Saint-Guy Chapel",
+                "fr": "Chapelle Saint-Guy"
               },
               "tip_5lang": {
                 "de": "Das frostbedeckte Gelände um diese Kapelle ist ein magischer Fotostopp, aber ziehen Sie eine dicke Jacke an.",
                 "hu": "A félreeső kápolna körüli fagyos növényzet varázslatos fotómegálló, de vegyen fel egy igazán vastag kabátot a kiszálláshoz.",
                 "ro": "Terenul acoperit de brumă din jurul acestei capele izolate este perfect pentru o oprire magică de fotografii, dar purtați o haină groasă.",
-                "en": "The frost-covered grounds around this secluded chapel make for a magical photo stop, but wear a thick coat."
+                "en": "The frost-covered grounds around this secluded chapel make for a magical photo stop, but wear a thick coat.",
+                "fr": "Les terrains couverts de givre autour de cette chapelle isolée constituent un arrêt photo magique, mais portez un manteau épais."
               }
             },
             {
@@ -911,13 +1012,15 @@
                 "de": "Kapelle Notre-Dame d'Ortuay",
                 "hu": "Notre-Dame d'Ortuay kápolna",
                 "ro": "Capela Notre-Dame d'Ortuay",
-                "en": "Notre-Dame d'Ortuay Chapel"
+                "en": "Notre-Dame d'Ortuay Chapel",
+                "fr": "Chapelle Notre‑Dame d’Ortuay"
               },
               "tip_5lang": {
                 "de": "Winterlicht, das durch kahle Bäume fällt, macht diese Landkapelle atemberaubend; besuchen Sie sie weit vor der Abenddämmerung.",
                 "hu": "A csupasz fákon átszűrődő téli fény lélegzetelállítóvá teszi ezt a vidéki kápolnát; jóval a kora esti szürkület előtt látogassa meg.",
                 "ro": "Lumina de iarnă ce filtrează prin copacii goi face ca această capelă rurală să taie respirația; vizitați-o mult înainte de lăsarea întunericului.",
-                "en": "Winter light filtering through bare trees makes this rural chapel breathtaking; visit well before the early dusk."
+                "en": "Winter light filtering through bare trees makes this rural chapel breathtaking; visit well before the early dusk.",
+                "fr": "La lumière hivernale filtrant à travers les arbres nus rend cette chapelle rurale à couper le souffle ; visitez‑la bien avant la tombée précoce du soir."
               }
             },
             {
@@ -925,13 +1028,15 @@
                 "de": "Archäologische Stätte Talhouët",
                 "hu": "Talhouëti régészeti lelőhely",
                 "ro": "Situl arheologic Talhouët",
-                "en": "Site archéologique de Talhouët"
+                "en": "Site archéologique de Talhouët",
+                "fr": "Site archéologique de Talhouët"
               },
               "tip_5lang": {
                 "de": "Kommen Sie am Nachmittag an, um die Steine zu erkunden, bevor der Sonnenuntergang um 17 Uhr die Gegend in Dunkelheit hüllt.",
                 "hu": "Érkezzen meg a délután közepére, hogy felfedezze az ősi köveket, mielőtt a délután 5 órás naplemente sötétségbe borítja a területet.",
                 "ro": "Ajungeți pe la mijlocul după-amiezii pentru a explora pietrele antice înainte ca apusul de la 17:00 să cufunde zona rurală în întuneric.",
-                "en": "Arrive by mid-afternoon to explore the ancient stones before the 5 PM sunset plunges the rural area into darkness."
+                "en": "Arrive by mid-afternoon to explore the ancient stones before the 5 PM sunset plunges the rural area into darkness.",
+                "fr": "Arrivez en milieu d’après‑midi pour explorer les pierres anciennes avant que le coucher du soleil à 17h plonge la zone rurale dans l’obscurité."
               }
             }
           ]

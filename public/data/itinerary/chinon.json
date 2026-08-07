@@ -21,7 +21,8 @@
             "de": "Königliche Festung Chinon",
             "hu": "Chinoni királyi vár",
             "ro": "Cetatea Regală Chinon",
-            "en": "Royal Fortress of Chinon"
+            "en": "Royal Fortress of Chinon",
+            "fr": "Forteresse Royale de Chinon"
           },
           "coords": [
             0.2365,
@@ -37,7 +38,7 @@
             "hu": "HistoPad túra az árban.",
             "ro": "Tur HistoPad inclus.",
             "en": "HistoPad tour included.",
-            "fr": "Visite avec HistoPad incluse."
+            "fr": "Visite HistoPad incluse."
           }
         },
         {
@@ -45,7 +46,8 @@
             "de": "Vieux Chinon (Altstadt)",
             "hu": "Chinon óvárosa",
             "ro": "Centrul vechi Chinon",
-            "en": "Vieux Chinon (Old Town)"
+            "en": "Vieux Chinon (Old Town)",
+            "fr": "Vieux Chinon (vieille ville)"
           },
           "coords": [
             0.2385,
@@ -69,7 +71,8 @@
             "de": "Mittagessen am Place de l'Hôtel de Ville",
             "hu": "Ebéd a Városháza téren",
             "ro": "Prânz în Piața Primăriei",
-            "en": "Lunch at Place de l'Hôtel de Ville"
+            "en": "Lunch at Place de l'Hôtel de Ville",
+            "fr": "Déjeuner sur la Place de l'Hôtel de Ville"
           },
           "coords": [
             0.2395,
@@ -93,7 +96,8 @@
             "de": "Eglise Saint-Maurice",
             "hu": "Szent Móric-templom",
             "ro": "Biserica Sfântul Mauriciu",
-            "en": "Eglise Saint-Maurice"
+            "en": "Eglise Saint-Maurice",
+            "fr": "Église Saint-Maurice"
           },
           "coords": [
             0.241,
@@ -117,7 +121,8 @@
             "de": "Vienne-Uferpromenade",
             "hu": "Vienne-parti sétány",
             "ro": "Promenada de pe malul Viennei",
-            "en": "Vienne River Banks"
+            "en": "Vienne River Banks",
+            "fr": "Rives de la Vienne"
           },
           "coords": [
             0.2405,
@@ -133,7 +138,7 @@
             "hu": "Séta a folyó mentén.",
             "ro": "Plimbare pe malul râului.",
             "en": "Walk along the river.",
-            "fr": "Promenade le long de la rivière."
+            "fr": "Promenez-vous le long du fleuve."
           }
         },
         {
@@ -141,7 +146,8 @@
             "de": "Vienne-Brücke (Panorama)",
             "hu": "Vienne-híd (Kilátás)",
             "ro": "Podul peste Vienne",
-            "en": "Vienne Bridge (View)"
+            "en": "Vienne Bridge (View)",
+            "fr": "Pont sur la Vienne (vue)"
           },
           "coords": [
             0.238,
@@ -157,7 +163,7 @@
             "hu": "Legjobb kilátás a várra.",
             "ro": "Cea mai bună vedere la cetate.",
             "en": "Best view of the castle.",
-            "fr": "Meilleure vue sur le château."
+            "fr": "Meilleure vue sur la forteresse."
           }
         }
       ],
@@ -166,7 +172,7 @@
         "hu": "Chinon történelmet áraszt a Loire-völgy szívében. Kezdje a napot a hatalmas királyi várban, ahol Jeanne d’Arc találkozott a királlyal. Ereszkedjen le az óváros középkori utcáiba, és kóstolja meg a helyi borokat az ebéd mellé. Délután várja a gótikus Szent Móric-templom és a Vienne folyó nyugodt partja. A napot a hídról nyíló ikonikus panoráma koronázza meg.",
         "ro": "Chinon respiră istorie în inima Văii Loarei. Începeți sus, la marea Cetate Regală, unde Ioana d’Arc s-a întâlnit cu regele. Coborâți pe străzile medievale ale centrului vechi și bucurați-vă de un prânz local. După-amiaza, vizitați biserica gotică Sfântul Mauriciu și malurile relaxante ale Viennei. Ziua se încheie perfect cu vederea iconică de pe pod spre cetatea iluminată.",
         "en": "Chinon breathes history in the heart of the Loire Valley. Start at the top in the massive Royal Fortress, where Joan of Arc met the king. Descend into the medieval streets of the old town and enjoy a local lunch. In the afternoon, visit the Gothic Saint-Maurice church and the relaxing banks of the Vienne river. The day ends perfectly with the iconic view of the fortress from the bridge.",
-        "fr": "Chinon respire l'histoire au cœur de la vallée de la Loire. Commencez par le sommet, à l'imposante Forteresse Royale, où Jeanne d'Arc a rencontré le roi. Descendez dans les rues médiévales de la vieille ville pour un déjeuner local. L'après-midi, visitez l'église gothique Saint-Maurice et les berges apaisantes de la Vienne. La journée se termine parfaitement avec la vue emblématique de la forteresse depuis le pont."
+        "fr": "Chinon respire l'histoire au cœur de la Vallée de la Loire. Commencez au sommet dans la massive Forteresse Royale, où Jeanne d'Arc rencontra le roi. Descendez dans les rues médiévales de la vieille ville et profitez d'un déjeuner local. L'après-midi, visitez l'église gothique Saint-Maurice et les rives reposantes de la Vienne. La journée se termine parfaitement par la vue emblématique de la forteresse depuis le pont."
       },
       "gastro_picks": {
         "de": [
@@ -312,7 +318,7 @@
         ],
         "fr": [
           "Utilisez l'ascenseur entre le château et la vieille ville.",
-          "La forteresse est grande, prévoyez suffisamment de temps.",
+          "La forteresse est vaste, prévoyez beaucoup de temps.",
           "De nombreux restaurants sont fermés le lundi."
         ]
       }
@@ -330,7 +336,8 @@
             "de": "Chinon Bahnhof",
             "hu": "Chinon vasútállomás",
             "ro": "Gara Chinon",
-            "en": "Chinon Station"
+            "en": "Chinon Station",
+            "fr": "Gare de Chinon"
           },
           "coords": [
             0.245,
@@ -354,7 +361,8 @@
             "de": "Vienne-Radweg",
             "hu": "Vienne kerékpárút",
             "ro": "Pista de biciclete Vienne",
-            "en": "Vienne Bike Path"
+            "en": "Vienne Bike Path",
+            "fr": "Piste cyclable de la Vienne"
           },
           "coords": [
             0.2,
@@ -378,7 +386,8 @@
             "de": "Candes-Saint-Martin",
             "hu": "Candes-Saint-Martin",
             "ro": "Candes-Saint-Martin",
-            "en": "Candes-Saint-Martin"
+            "en": "Candes-Saint-Martin",
+            "fr": "Candes-Saint-Martin"
           },
           "coords": [
             0.0715,
@@ -394,7 +403,7 @@
             "hu": "Legszebb falu.",
             "ro": "Cel mai frumos sat.",
             "en": "Most beautiful village.",
-            "fr": "Plus beau village de France."
+            "fr": "Plus beau village."
           }
         },
         {
@@ -402,7 +411,8 @@
             "de": "Ebéd a Loire-nál",
             "hu": "Ebéd a Loire-nál",
             "ro": "Prânz la Loara",
-            "en": "Lunch by the Loire"
+            "en": "Lunch by the Loire",
+            "fr": "Déjeuner au bord de la Loire"
           },
           "coords": [
             0.07,
@@ -418,7 +428,7 @@
             "hu": "Halspecialitások.",
             "ro": "Specialități din pește.",
             "en": "Fish specialties.",
-            "fr": "Spécialités de poisson."
+            "fr": "Spécialités de poissons."
           }
         },
         {
@@ -426,7 +436,8 @@
             "de": "Rückkehr nach Chinon",
             "hu": "Visszatérés Chinonba",
             "ro": "Întoarcere în Chinon",
-            "en": "Return to Chinon"
+            "en": "Return to Chinon",
+            "fr": "Retour à Chinon"
           },
           "coords": [
             0.235,
@@ -442,7 +453,7 @@
             "hu": "Esti hangulat.",
             "ro": "Atmosferă de seară.",
             "en": "Evening vibes.",
-            "fr": "Ambiance de soirée."
+            "fr": "Ambiance du soir."
           }
         }
       ],
@@ -451,7 +462,7 @@
         "hu": "Kövesse a 'Loire à Vélo' útvonalat. Tekerjen a Vienne mentén a Loire torkolatáig Candes-Saint-Martin-be, amely Franciaország egyik legszebb faluja. Élvezze az ebédet a folyók összefolyásánál, majd a szőlőültetvényeken keresztül térjen vissza Chinonba.",
         "ro": "Urmați traseul 'Loire à Vélo'. Mergeți cu bicicleta de-a lungul Viennei până la vărsarea în Loara, la Candes-Saint-Martin, unul dintre cele mai frumoase sate din Franța. Savurați un prânz cu vedere la confluența râurilor și reveniți relaxat prin podgorii spre Chinon.",
         "en": "Follow the 'Loire à Vélo' path. Cycle along the Vienne to its confluence with the Loire at Candes-Saint-Martin, one of the most beautiful villages in France. Enjoy lunch with a view of the meeting rivers and return relaxed through the vineyards to Chinon.",
-        "fr": "Suivez l'itinéraire de la 'Loire à Vélo'. Pédalez le long de la Vienne jusqu'à sa confluence avec la Loire à Candes-Saint-Martin, l'un des plus beaux villages de France. Déjeunez avec vue sur la rencontre des deux fleuves et revenez détendu à travers les vignobles vers Chinon."
+        "fr": "Suivez la voie 'Loire à Vélo'. Pédalez le long de la Vienne jusqu'à sa confluence avec la Loire à Candes-Saint-Martin, l'un des plus beaux villages de France. Savourez un déjeuner avec vue sur la rencontre des rivières et retournez détendu à travers les vignobles vers Chinon."
       },
       "gastro_picks": {
         "de": [
@@ -576,9 +587,9 @@
           "Don't forget a bike lock."
         ],
         "fr": [
-          "Le parcours est principalement plat.",
-          "Prévoyez beaucoup d'eau.",
-          "N'oubliez pas d'antivol pour vos vélos."
+          "Le parcours est majoritairement plat.",
+          "Prenez beaucoup d'eau.",
+          "N'oubliez pas un antivol pour votre vélo."
         ]
       }
     },
@@ -595,7 +606,8 @@
             "de": "Festung Chinon",
             "hu": "Chinoni vár",
             "ro": "Cetatea Chinon",
-            "en": "Chinon Fortress"
+            "en": "Chinon Fortress",
+            "fr": "Forteresse de Chinon"
           },
           "coords": [
             0.2365,
@@ -619,7 +631,8 @@
             "de": "Château d'Ussé",
             "hu": "Ussé kastély",
             "ro": "Castelul Ussé",
-            "en": "Château d'Ussé"
+            "en": "Château d'Ussé",
+            "fr": "Château d'Ussé"
           },
           "coords": [
             0.2915,
@@ -635,7 +648,7 @@
             "hu": "Csipkerózsika vára.",
             "ro": "Castelul Frumoasei din Pădurea Adormită.",
             "en": "Sleeping Beauty's castle.",
-            "fr": "Château de la Belle au Bois Dormant."
+            "fr": "Le château de la Belle au Bois Dormant."
           }
         },
         {
@@ -643,7 +656,8 @@
             "de": "Ebéd Rigny-Ussé-ben",
             "hu": "Ebéd Rigny-Ussé-ben",
             "ro": "Prânz în Rigny-Ussé",
-            "en": "Lunch in Rigny-Ussé"
+            "en": "Lunch in Rigny-Ussé",
+            "fr": "Déjeuner à Rigny-Ussé"
           },
           "coords": [
             0.293,
@@ -667,7 +681,8 @@
             "de": "Azay-le-Rideau",
             "hu": "Azay-le-Rideau",
             "ro": "Azay-le-Rideau",
-            "en": "Azay-le-Rideau"
+            "en": "Azay-le-Rideau",
+            "fr": "Azay-le-Rideau"
           },
           "coords": [
             0.4658,
@@ -691,7 +706,8 @@
             "de": "Rückkehr nach Chinon",
             "hu": "Visszatérés Chinonba",
             "ro": "Întoarcere în Chinon",
-            "en": "Return to Chinon"
+            "en": "Return to Chinon",
+            "fr": "Retour à Chinon"
           },
           "coords": [
             0.235,
@@ -716,7 +732,7 @@
         "hu": "Ez a túra Touraine mesebeli kastélyaihoz kalauzolja. Chinon után látogassa meg az Ussé kastélyt, amely állítólag Perrault-t ihlette a Csipkerózsika megírására. Egy kellemes ebéd után csodálja meg a vízen lebegni látszó, elegáns Azay-le-Rideau kastélyt.",
         "ro": "Acest tur vă duce la castelele de poveste din Touraine. După Chinon, vizitați Castelul Ussé, care se spune că l-a inspirat pe Perrault pentru 'Frumoasa din Pădurea Adormită'. După un prânz plăcut, admirați elegantul Azay-le-Rideau, care pare să plutească pe apă.",
         "en": "This tour takes you to the fairytale castles of Touraine. After Chinon, visit the Château d'Ussé, said to have inspired Perrault's 'Sleeping Beauty'. After a pleasant lunch, admire the elegant Azay-le-Rideau, which seems to float on the water.",
-        "fr": "Ce circuit vous emmène vers les châteaux de contes de fées de Touraine. Après Chinon, visitez le Château d'Ussé, qui aurait inspiré 'La Belle au Bois Dormant' de Perrault. Après un agréable déjeuner, admirez l'élégant Azay-le-Rideau, qui semble flotter sur l'eau."
+        "fr": "Cette excursion vous mène aux châteaux de contes de Touraine. Après Chinon, visitez le Château d'Ussé, qui aurait inspiré Perrault pour 'La Belle au bois dormant'. Après un déjeuner agréable, admirez l'élégant Azay-le-Rideau, qui semble flotter sur l'eau."
       },
       "gastro_picks": {
         "de": [
@@ -842,7 +858,7 @@
         ],
         "fr": [
           "Utilisez des billets combinés pour les châteaux.",
-          "Réservez à l'avance en haute saison.",
+          "Réservez à l'avance pendant la haute saison.",
           "Le stationnement est majoritairement payant."
         ]
       }
@@ -860,7 +876,8 @@
             "de": "Bahnhof Chinon",
             "hu": "Vasútállomás Chinon",
             "ro": "Gara Chinon",
-            "en": "Chinon Station"
+            "en": "Chinon Station",
+            "fr": "Gare de Chinon"
           },
           "coords": [
             0.245,
@@ -876,7 +893,7 @@
             "hu": "Regionális vonatkapcsolat.",
             "ro": "Conexiune tren regional.",
             "en": "Regional train link.",
-            "fr": "Liaison train régional."
+            "fr": "Liaison TER régionale."
           }
         },
         {
@@ -884,7 +901,8 @@
             "de": "Chinon Zentrum",
             "hu": "Chinon központ",
             "ro": "Chinon centru",
-            "en": "Chinon Center"
+            "en": "Chinon Center",
+            "fr": "Centre de Chinon"
           },
           "coords": [
             0.2395,
@@ -908,7 +926,8 @@
             "de": "Ebéd az óvárosban",
             "hu": "Ebéd az óvárosban",
             "ro": "Prânz în centrul vechi",
-            "en": "Lunch in the Old Town"
+            "en": "Lunch in the Old Town",
+            "fr": "Déjeuner dans la vieille ville"
           },
           "coords": [
             0.239,
@@ -924,7 +943,7 @@
             "hu": "Nézze meg a napi menüt.",
             "ro": "Verificați meniul zilei.",
             "en": "Check daily menus.",
-            "fr": "Consultez les menus du jour."
+            "fr": "Vérifiez les menus du jour."
           }
         },
         {
@@ -932,7 +951,8 @@
             "de": "Forteresse Royale",
             "hu": "Királyi vár",
             "ro": "Cetatea Regală",
-            "en": "Royal Fortress"
+            "en": "Royal Fortress",
+            "fr": "Forteresse royale"
           },
           "coords": [
             0.2365,
@@ -956,7 +976,8 @@
             "de": "Abfahrt Bahnhof",
             "hu": "Indulás az állomásról",
             "ro": "Plecare din gară",
-            "en": "Station Departure"
+            "en": "Station Departure",
+            "fr": "Départ de la gare"
           },
           "coords": [
             0.245,
@@ -981,7 +1002,7 @@
         "hu": "Chinon ideálisan elérhető vonattal Tours felől. Az állomástól az egész városközpont és a vár is könnyen megközelíthető gyalog vagy az ingyenes lifttel. Élvezze a középkori hangulatot parkolási gondok nélkül.",
         "ro": "Chinon este ideal accesibil cu trenul din Tours. De la gară, întregul centru și cetatea sunt ușor accesibile pe jos sau cu liftul gratuit. Bucurați-vă de atmosfera medievală fără grija parcării.",
         "en": "Chinon is ideally accessible by train from Tours. From the station, the entire city center and the fortress are easily reachable on foot or via the free elevator. Enjoy the medieval atmosphere without parking worries.",
-        "fr": "Chinon est idéalement accessible en train depuis Tours. Depuis la gare, tout le centre-ville et la forteresse sont facilement accessibles à pied ou via l'ascenseur gratuit. Profitez de l'atmosphère médiévale sans soucis de stationnement."
+        "fr": "Chinon est idéalement accessible en train depuis Tours. Depuis la gare, tout le centre-ville et la forteresse sont facilement accessibles à pied ou via l'ascenseur gratuit. Profitez de l'atmosphère médiévale sans souci de stationnement."
       },
       "gastro_picks": {
         "de": [
@@ -1106,8 +1127,8 @@
           "Station is 10 min walk from center."
         ],
         "fr": [
-          "Les trains TER circulent régulièrement.",
-          "Achetez vos billets aux automates.",
+          "Les TER circulent régulièrement.",
+          "Achetez les billets au distributeur.",
           "La gare est à 10 min à pied du centre."
         ]
       }

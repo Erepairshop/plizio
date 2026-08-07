@@ -21,7 +21,8 @@
             "de": "Kapelle Sainte-Hélène",
             "hu": "Sainte-Hélène Kápolna",
             "ro": "Capela Sainte-Hélène",
-            "en": "Sainte-Hélène Chapel"
+            "en": "Sainte-Hélène Chapel",
+            "fr": "Chapelle Sainte‑Hélène"
           },
           "coords": [
             -4.325736,
@@ -36,7 +37,8 @@
             "de": "Besuchen Sie diese bezaubernde Kapelle mit ihren maritimen Votivgaben, die von einer tiefen Seefahrertradition zeugt, und achten Sie auf die ruhigen Morgenstunden für Fotos.",
             "hu": "Látogassa meg ezt a hangulatos tengerész kápolnát, amelynek fogadalmi tárgyai a helyi halászok történelmét őrzik, és érkezzen korán a legjobb fényképek elkészítéséhez.",
             "ro": "Vizitați această capelă fermecătoare plină de ex-voto-uri maritime care spun povestea pescarilor locali și veniți dimineața devreme pentru cele mai bune fotografii.",
-            "en": "Visit this charming maritime chapel filled with historical ex-votos detailing the lives of local fishermen, and arrive early to capture the best photographs in peace."
+            "en": "Visit this charming maritime chapel filled with historical ex-votos detailing the lives of local fishermen, and arrive early to capture the best photographs in peace.",
+            "fr": "Visitez cette charmante chapelle maritime remplie d’ex‑voto historiques relatant la vie des pêcheurs locaux, et arrivez tôt pour capturer les meilleures photos en toute tranquillité."
           }
         },
         {
@@ -44,7 +46,8 @@
             "de": "Port-Musée",
             "hu": "Port-Musée",
             "ro": "Port-Musée",
-            "en": "Port-Musée"
+            "en": "Port-Musée",
+            "fr": "Port‑Musée"
           },
           "coords": [
             -4.33444,
@@ -59,7 +62,8 @@
             "de": "Entdecken Sie im faszinierenden Port-Musée historische Schiffe hautnah und nehmen Sie sich genügend Zeit, um an Bord der schwimmenden Boote im Hafenbecken zu gehen.",
             "hu": "Fedezze fel a lenyűgöző kikötői múzeumot, ahol történelmi hajókat csodálhat meg, és mindenképpen szánjon időt arra, hogy felmenjen a vízen horgonyzó régi vitorlásokra.",
             "ro": "Explorați acest muzeu portuar fascinant unde puteți admira nave istorice impresionante și asigurați-vă că urcați la bordul bărcilor tradiționale ancorate în apă.",
-            "en": "Explore this fascinating port museum featuring a vast collection of historic vessels, and make sure to reserve enough time to step aboard the floating ships in the harbor."
+            "en": "Explore this fascinating port museum featuring a vast collection of historic vessels, and make sure to reserve enough time to step aboard the floating ships in the harbor.",
+            "fr": "Explorez ce fascinant musée du port présentant une vaste collection de navires historiques, et prévoyez suffisamment de temps pour monter à bord des bateaux flottants dans le port."
           }
         },
         {
@@ -67,7 +71,8 @@
             "de": "Strand von Pors Kad",
             "hu": "Pors Kad Strand",
             "ro": "Plaja Pors Kad",
-            "en": "Pors Kad Beach"
+            "en": "Pors Kad Beach",
+            "fr": "Plage de Pors Kad"
           },
           "coords": [
             -4.330591,
@@ -82,7 +87,8 @@
             "de": "Entspannen Sie sich an diesem malerischen Strand, der eine herrliche Aussicht auf die Bucht von Douarnenez bietet, und bringen Sie bequeme Schuhe für einen Strandspaziergang mit.",
             "hu": "Pihenjen meg ezen a festői strandon, amely gyönyörű kilátást nyújt a Douarnenez-öbölre, és hozzon magával kényelmes cipőt a partmenti sétákhoz a friss levegőn.",
             "ro": "Relaxați-vă pe această plajă pitorească care oferă o priveliște superbă asupra golfului Douarnenez și aduceți încălțăminte confortabilă pentru o plimbare revigorantă.",
-            "en": "Relax on this picturesque beach offering a magnificent view over the Bay of Douarnenez, and bring comfortable walking shoes to enjoy a refreshing stroll along the coastline."
+            "en": "Relax on this picturesque beach offering a magnificent view over the Bay of Douarnenez, and bring comfortable walking shoes to enjoy a refreshing stroll along the coastline.",
+            "fr": "Détendez‑vous sur cette plage pittoresque offrant une vue magnifique sur la baie de Douarnenez, et apportez des chaussures de marche confortables pour profiter d’une promenade rafraîchissante le long du littoral."
           }
         },
         {
@@ -90,7 +96,8 @@
             "de": "Strand der Damen",
             "hu": "Hölgyek Strandja",
             "ro": "Plaja Doamnelor",
-            "en": "Ladies Beach"
+            "en": "Ladies Beach",
+            "fr": "Plage des Dames"
           },
           "coords": [
             -4.332671,
@@ -105,7 +112,8 @@
             "de": "Genießen Sie die friedliche Atmosphäre an diesem historischen Strandabschnitt, der bei den Einheimischen sehr beliebt ist, und packen Sie unbedingt ein kleines Picknick ein.",
             "hu": "Élvezze a békés hangulatot ezen a történelmi, helyiek által is kedvelt tengerparti szakaszon, és mindenképpen hozzon magával egy kis piknikkosarat a tökéletes délutánhoz.",
             "ro": "Bucurați-vă de atmosfera liniștită de pe această plajă istorică îndrăgită de localnici și nu uitați să luați un mic pachet de picnic pentru o după-amiază perfectă.",
-            "en": "Enjoy the peaceful atmosphere at this historic stretch of beach that is beloved by locals, and be sure to pack a small picnic basket to complete your relaxing afternoon."
+            "en": "Enjoy the peaceful atmosphere at this historic stretch of beach that is beloved by locals, and be sure to pack a small picnic basket to complete your relaxing afternoon.",
+            "fr": "Profitez de l’atmosphère paisible de cet endroit historique apprécié des locaux, et pensez à emporter un petit panier‑repas pour parfaire votre après‑midi de détente."
           }
         },
         {
@@ -113,7 +121,8 @@
             "de": "Île Tristan",
             "hu": "Tristan-sziget",
             "ro": "Insula Tristan",
-            "en": "Tristan Island"
+            "en": "Tristan Island",
+            "fr": "Île Tristan"
           },
           "coords": [
             -4.337222,
@@ -128,7 +137,8 @@
             "de": "Unternehmen Sie bei Ebbe einen aufregenden Spaziergang zur Île Tristan, um verborgene Gärten zu entdecken, aber prüfen Sie unbedingt vorher den aktuellen Gezeitenkalender.",
             "hu": "Sétáljon át apálykor az izgalmas Tristan-szigetre, ahol rejtett kerteket fedezhet fel, de indulás előtt mindenképpen ellenőrizze a pontos árapály táblázatokat.",
             "ro": "Plimbați-vă spre fascinanta Insulă Tristan la reflux pentru a descoperi grădini ascunse, dar verificați întotdeauna cu mare atenție calendarul mareelor înainte de a pleca.",
-            "en": "Take a thrilling walk to Tristan Island at low tide to discover its beautifully hidden botanical gardens, but always remember to check the local tide tables before you set out."
+            "en": "Take a thrilling walk to Tristan Island at low tide to discover its beautifully hidden botanical gardens, but always remember to check the local tide tables before you set out.",
+            "fr": "Faites une balade palpitante vers l’île Tristan à marée basse pour découvrir ses superbes jardins botaniques cachés, mais n’oubliez jamais de vérifier les tables de marée locales avant de partir."
           }
         }
       ],
@@ -136,7 +146,8 @@
         "de": "Beginnen Sie Ihren Tag mit einem gemütlichen Spaziergang entlang der historischen Stätten und der charmanten Kapelle. Am Mittag tauchen Sie im Port-Musée in die reiche Seefahrtsgeschichte von Douarnenez ein. Der Nachmittag lädt zu entspannten Momenten an den malerischen Stränden und auf der mystischen Île Tristan ein. Lassen Sie den Abend bei einem herrlichen Sonnenuntergang am Meer ausklingen.",
         "hu": "Kezdje a napot egy kellemes sétával a történelmi emlékhelyek és a hangulatos kápolna körül. Délben merüljön el Douarnenez gazdag tengerészeti múltjában a lenyűgöző Port-Musée kiállításain. A délután tökéletes a festői strandok és a titokzatos Tristan-sziget felfedezésére. Este pedig lazítson a tengerparton, és csodálja meg az óceán felett lemenő nap gyönyörű, nyugtató színeit.",
         "ro": "Începeți ziua cu o plimbare plăcută pe la siturile istorice și fermecătoarea capelă locală. La prânz, scufundați-vă în istoria maritimă bogată a orașului vizitând Port-Musée. După-amiaza vă invită la relaxare pe plajele pitorești și la explorarea insulei mistice Tristan. Încheiați seara cu un apus de soare spectaculos la malul mării, bucurându-vă de briza răcoroasă a oceanului.",
-        "en": "Start your morning with a pleasant walk around the historical sites and the charming local chapel. At midday, dive deep into the rich maritime history of Douarnenez at the Port-Musée. The afternoon invites you to relax on the picturesque local beaches and explore the mystical Tristan Island. Conclude your evening with a spectacular seaside sunset, enjoying the fresh and cool ocean breeze."
+        "en": "Start your morning with a pleasant walk around the historical sites and the charming local chapel. At midday, dive deep into the rich maritime history of Douarnenez at the Port-Musée. The afternoon invites you to relax on the picturesque local beaches and explore the mystical Tristan Island. Conclude your evening with a spectacular seaside sunset, enjoying the fresh and cool ocean breeze.",
+        "fr": "Commencez la matinée par une agréable promenade autour des sites historiques et de la charmante chapelle locale. À midi, plongez dans la riche histoire maritime de Douarnenez au Port‑Musée. L’après‑midi vous invite à vous détendre sur les plages pittoresques et à explorer l’île Tristan mystique. Concluez la soirée par un spectaculaire coucher de soleil en bord de mer, en profitant de la brise fraîche et marine."
       },
       "variants": {
         "rainy": {
@@ -144,7 +155,8 @@
             "de": "Beginnen Sie den Tag in der schützenden Kapelle. Mittags bietet das Port-Musée umfangreiche Innenbereiche, um dem Regen zu entfliehen. Nachmittags ist die Atmosphäre an den Stränden rau und dramatisch, ideal für Sturmliebhaber in Regenkleidung. Abends spiegeln sich die Hafenlichter malerisch in den Pfützen der nassen Gassen.",
             "hu": "Kezdje a napot a kápolna védelmében. Délben a Port-Musée tágas belső terei nyújtanak menedéket a záporok elől. Délután a strandok vad és drámai arcukat mutatják, ami esőkabátban lenyűgöző látvány. Este a kikötő fényei festőien tükröződnek a vizes utcák pocsolyáiban, különleges hangulatot árasztva.",
             "ro": "Începeți ziua în interiorul protector al capelei. La prânz, Port-Musée oferă spații interioare vaste pentru a scăpa de ploaie. După-amiaza, atmosfera de pe plaje este aspră și dramatică, ideală pentru iubitorii de furtuni echipați cu pelerine. Seara, luminile portului se reflectă pitoresc în bălțile de pe străzile umede.",
-            "en": "Start your day in the protective chapel. At noon, Port-Musée offers extensive indoor areas to escape the rain. In the afternoon, the beaches show a wild and dramatic side, perfect for storm lovers in raincoats. In the evening, the harbor lights reflect picturesquely in the puddles of the wet streets."
+            "en": "Start your day in the protective chapel. At noon, Port-Musée offers extensive indoor areas to escape the rain. In the afternoon, the beaches show a wild and dramatic side, perfect for storm lovers in raincoats. In the evening, the harbor lights reflect picturesquely in the puddles of the wet streets.",
+            "fr": "Commencez la journée dans la chapelle protectrice. À midi, le Port‑Musée propose de vastes espaces intérieurs pour s’abriter de la pluie. L’après‑midi, les plages révèlent un côté sauvage et dramatique, parfait pour les amateurs d’orage en cirés. Le soir, les lumières du port se reflètent pittoresquement dans les flaques des rues mouillées."
           },
           "stops": [
             {
@@ -152,13 +164,15 @@
                 "de": "Kapelle Sainte-Hélène",
                 "hu": "Sainte-Hélène Kápolna",
                 "ro": "Capela Sainte-Hélène",
-                "en": "Sainte-Hélène Chapel"
+                "en": "Sainte-Hélène Chapel",
+                "fr": "Chapelle Sainte‑Hélène"
               },
               "tip_5lang": {
                 "de": "Bewundern Sie die bunten Glasfenster im Inneren, während draußen der Regen prasselt; nutzen Sie den überdachten Kircheneingang als kurzzeitigen Unterstand.",
                 "hu": "Csodálja meg a belső üvegablakokat, miközben kint kopog az eső; használja a fedett bejáratot ideiglenes menedékként, amíg eláll a hirtelen zápor.",
                 "ro": "Admirați vitraliile colorate din interior în timp ce ploaia bate în geamuri; folosiți intrarea acoperită ca adăpost temporar în caz de aversă bruscă.",
-                "en": "Admire the colorful stained glass windows inside while the rain patters outside; use the covered entrance as a brief shelter from sudden showers."
+                "en": "Admire the colorful stained glass windows inside while the rain patters outside; use the covered entrance as a brief shelter from sudden showers.",
+                "fr": "Admirez les vitraux colorés à l’intérieur pendant que la pluie crépite dehors ; utilisez le porche couvert comme abri bref en cas d’averses soudaines."
               }
             },
             {
@@ -166,13 +180,15 @@
                 "de": "Port-Musée",
                 "hu": "Port-Musée",
                 "ro": "Port-Musée",
-                "en": "Port-Musée"
+                "en": "Port-Musée",
+                "fr": "Port‑Musée"
               },
               "tip_5lang": {
                 "de": "Erkunden Sie die schwimmenden Schiffe und Innenausstellungen, die ideal für Regentage sind; halten Sie sich an die überdachten Stege beim Schiffsrundgang.",
                 "hu": "Fedezze fel a vízen lebegő hajókat és a belső kiállításokat, amelyek tökéletesek esős időben; használja a fedett pallókat a hajók közötti közlekedéshez.",
                 "ro": "Explorați navele plutitoare și expozițiile interioare ideale pentru zilele ploioase; rămâneți pe pasarelele acoperite în timpul turului ambarcațiunilor.",
-                "en": "Explore the floating ships and indoor exhibits that are ideal for rainy days; stick to the covered walkways during the boat tour to stay dry."
+                "en": "Explore the floating ships and indoor exhibits that are ideal for rainy days; stick to the covered walkways during the boat tour to stay dry.",
+                "fr": "Explorez les bateaux flottants et les expositions intérieures, idéales les jours de pluie ; restez sur les passages couverts lors de la visite des embarcations pour rester au sec."
               }
             },
             {
@@ -180,13 +196,15 @@
                 "de": "Strand von Pors Kad",
                 "hu": "Pors Kad Strand",
                 "ro": "Plaja Pors Kad",
-                "en": "Pors Kad Beach"
+                "en": "Pors Kad Beach",
+                "fr": "Plage de Pors Kad"
               },
               "tip_5lang": {
                 "de": "Beobachten Sie die schäumende Gischt der Brandung von der Ufermauer aus; tragen Sie rutschfeste Schuhe, da die nassen Felsen und Treppen sehr glatt sein können.",
                 "hu": "Figyelje meg a hullámverés habzó tajtékját a parti sétányról; viseljen csúszásmentes talpú cipőt, mert a vizes sziklák és lépcsők rendkívül síkosak lehetnek.",
                 "ro": "Observați spuma valurilor de pe digul de la malul mării; purtați încălțăminte antiderapantă, deoarece stâncile și scările umede pot fi foarte alunecoase.",
-                "en": "Watch the foaming surf from the sea wall; wear non-slip shoes as the wet rocks and stairs can be extremely slippery during and after the rain."
+                "en": "Watch the foaming surf from the sea wall; wear non-slip shoes as the wet rocks and stairs can be extremely slippery during and after the rain.",
+                "fr": "Regardez le ressac écumant depuis le mur de mer ; portez des chaussures antidérapantes car les rochers et escaliers mouillés peuvent être très glissants pendant et après la pluie."
               }
             },
             {
@@ -194,13 +212,15 @@
                 "de": "Strand der Damen",
                 "hu": "Hölgyek Strandja",
                 "ro": "Plaja Doamnelor",
-                "en": "Ladies Beach"
+                "en": "Ladies Beach",
+                "fr": "Plage des Dames"
               },
               "tip_5lang": {
                 "de": "Genießen Sie den Blick auf die Bucht unter einem stabilen Regenschirm; meiden Sie bei starkem Wind den direkten Wasserrand wegen unvorhersehbarer Wellen.",
                 "hu": "Élvezze az öböl látványát egy stabil esernyő alatt; erős szélben kerülje a közvetlen vízpartot a kiszámíthatatlan és felcsapó hullámok miatt.",
                 "ro": "Bucurați-vă de vederea spre golf sub o umbrelă rezistentă; în caz de vânt puternic, evitați marginea apei din cauza valurilor imprevizibile.",
-                "en": "Enjoy the view of the bay under a sturdy umbrella; in strong winds, avoid the direct water's edge due to unpredictable and splashing waves."
+                "en": "Enjoy the view of the bay under a sturdy umbrella; in strong winds, avoid the direct water's edge due to unpredictable and splashing waves.",
+                "fr": "Appréciez la vue sur la baie sous un parapluie solide ; par vents forts, évitez le bord immédiat de l’eau en raison des vagues imprévisibles et éclaboussantes."
               }
             },
             {
@@ -208,13 +228,15 @@
                 "de": "Île Tristan",
                 "hu": "Tristan-sziget",
                 "ro": "Insula Tristan",
-                "en": "Tristan Island"
+                "en": "Tristan Island",
+                "fr": "Île Tristan"
               },
               "tip_5lang": {
                 "de": "Erleben Sie die mystische Inselatmosphäre im Nebel; achten Sie genau auf die Gezeitenzeiten, da der Fluchtweg bei Regen oft noch schneller rutschig wird.",
                 "hu": "Élje át a sziget misztikus hangulatát a ködben; figyeljen oda az apály-dagály idejére, mert esőben az átkelő út még gyorsabban válik csúszóssá.",
                 "ro": "Experimentați atmosfera mistică a insulei prin ceață; verificați cu atenție orele mareei, deoarece drumul de acces devine alunecos rapid când plouă.",
-                "en": "Experience the mystical island atmosphere in the mist; pay close attention to tide times, as the path becomes slippery even faster in the rain."
+                "en": "Experience the mystical island atmosphere in the mist; pay close attention to tide times, as the path becomes slippery even faster in the rain.",
+                "fr": "Vivez l’atmosphère mystique de l’île dans la brume ; faites attention aux horaires des marées, car le sentier devient encore plus glissant sous la pluie."
               }
             }
           ]
@@ -224,7 +246,8 @@
             "de": "Die klare Winterluft sorgt für eine weite Sicht über die Bucht. Vormittags wärmt die tiefstehende Sonne die historischen Mauern. Da es bereits gegen 17:00 Uhr dunkel wird, konzentriert sich das Programm auf die hellen Stunden. Abends laden die beleuchteten Cafés am Hafen zu einer gemütlichen Pause in wohliger Wärme ein.",
             "hu": "A tiszta téli levegő messzi kilátást biztosít az öbölre. Délelőtt az alacsonyan járó nap melegen világítja meg a történelmi falakat. Mivel 17:00 körül sötétedik, a program a világos órákra összpontosul. Este a kikötő kivilágított kávézói hívogatnak egy forró italra a barátságos melegbe.",
             "ro": "Aerul curat de iarnă oferă o vizibilitate vastă asupra golfului. Dimineața, soarele jos încălzește zidurile istorice. Deoarece se întunecă în jurul orei 17:00, programul se concentrează pe orele cu lumină. Seara, cafenelele iluminate din port vă invită la o pauză caldă și primitoare.",
-            "en": "The crisp winter air provides a far-reaching view over the bay. In the morning, the low sun warms the historic walls. Since it gets dark around 17:00, the schedule focuses on the daylight hours. In the evening, the illuminated cafes at the harbor invite you for a cozy break in warm comfort."
+            "en": "The crisp winter air provides a far-reaching view over the bay. In the morning, the low sun warms the historic walls. Since it gets dark around 17:00, the schedule focuses on the daylight hours. In the evening, the illuminated cafes at the harbor invite you for a cozy break in warm comfort.",
+            "fr": "L’air vif d’hiver offre une vue lointaine sur la baie. Le matin, le soleil bas réchauffe les murs historiques. Comme il fait nuit vers 17:00, le programme se concentre sur les heures de jour. Le soir, les cafés illuminés du port invitent à une pause chaleureuse et confortable."
           },
           "stops": [
             {
@@ -232,13 +255,15 @@
                 "de": "Kapelle Sainte-Hélène",
                 "hu": "Sainte-Hélène Kápolna",
                 "ro": "Capela Sainte-Hélène",
-                "en": "Sainte-Hélène Chapel"
+                "en": "Sainte-Hélène Chapel",
+                "fr": "Chapelle Sainte‑Hélène"
               },
               "tip_5lang": {
                 "de": "Genießen Sie die Stille dieses spirituellen Ortes abseits der Sommermassen; tragen Sie eine warme Mütze gegen den kalten Wind, der oft vom Meer heraufweht.",
                 "hu": "Élvezze a spirituális hely csendjét a nyári tömeg nélkül; viseljen meleg sapkát a tenger felől érkező hideg szél ellen, amely a dombtetőn erősebb.",
                 "ro": "Bucurați-vă de liniștea acestui loc spiritual fără mulțimea de vară; purtați o căciulă călduroasă împotriva vântului rece care suflă adesea dinspre mare.",
-                "en": "Enjoy the silence of this spiritual place away from summer crowds; wear a warm hat against the cold wind that often blows up from the sea."
+                "en": "Enjoy the silence of this spiritual place away from summer crowds; wear a warm hat against the cold wind that often blows up from the sea.",
+                "fr": "Appréciez le silence de ce lieu spirituel à l’écart des foules estivales ; portez un bonnet chaud contre le vent froid qui souffle souvent de la mer."
               }
             },
             {
@@ -246,13 +271,15 @@
                 "de": "Port-Musée",
                 "hu": "Port-Musée",
                 "ro": "Port-Musée",
-                "en": "Port-Musée"
+                "en": "Port-Musée",
+                "fr": "Port‑Musée"
               },
               "tip_5lang": {
                 "de": "Nutzen Sie die beheizten Ausstellungsräume für eine längere Pause; prüfen Sie vorab die verkürzten Winteröffnungszeiten, um nicht vor verschlossenen Türen zu stehen.",
                 "hu": "Használja ki a fűtött kiállítótermeket egy hosszabb pihenőre; ellenőrizze előre a rövidített téli nyitvatartást, hogy elkerülje a zárt ajtókat.",
                 "ro": "Profitați de sălile de expoziție încălzite pentru o pauză mai lungă; verificați în avans programul redus de iarnă pentru a nu găsi ușile închise.",
-                "en": "Take advantage of the heated exhibition rooms for a long break; check the shortened winter opening hours in advance to avoid disappointment."
+                "en": "Take advantage of the heated exhibition rooms for a long break; check the shortened winter opening hours in advance to avoid disappointment.",
+                "fr": "Profitez des salles d’exposition chauffées pour une longue pause ; vérifiez à l’avance les horaires d’ouverture réduits en hiver pour éviter toute déception."
               }
             },
             {
@@ -260,13 +287,15 @@
                 "de": "Strand von Pors Kad",
                 "hu": "Pors Kad Strand",
                 "ro": "Plaja Pors Kad",
-                "en": "Pors Kad Beach"
+                "en": "Pors Kad Beach",
+                "fr": "Plage de Pors Kad"
               },
               "tip_5lang": {
                 "de": "Erleben Sie die raue Schönheit der bretonischen Küste im Winterlicht; eine Thermoskanne mit Tee macht das Verweilen an der frischen Luft deutlich angenehmer.",
                 "hu": "Tapasztalja meg a breton partvidék nyers szépségét a téli fényekben; egy termosz forró teával sokkal kellemesebb lesz az időtöltés a friss levegőn.",
                 "ro": "Experimentați frumusețea brută a coastei bretone în lumina iernii; un termos cu ceai fierbinte va face șederea la aer curat mult mai plăcută.",
-                "en": "Experience the raw beauty of the Breton coast in winter light; a thermos with hot tea makes staying out in the fresh air much more enjoyable."
+                "en": "Experience the raw beauty of the Breton coast in winter light; a thermos with hot tea makes staying out in the fresh air much more enjoyable.",
+                "fr": "Vivez la beauté brute du littoral breton sous la lumière hivernale ; un thermos de thé chaud rend le temps passé en plein air beaucoup plus agréable."
               }
             },
             {
@@ -274,13 +303,15 @@
                 "de": "Strand der Damen",
                 "hu": "Hölgyek Strandja",
                 "ro": "Plaja Doamnelor",
-                "en": "Ladies Beach"
+                "en": "Ladies Beach",
+                "fr": "Plage des Dames"
               },
               "tip_5lang": {
                 "de": "Machen Sie einen zügigen Spaziergang, um den Kreislauf in Schwung zu halten; nutzen Sie das goldene Licht kurz vor dem frühen Sonnenuntergang für Fotos.",
                 "hu": "Tegyen egy tempós sétát, hogy mozgásban tartsa vérkeringését; használja ki a korai naplemente előtti arany órákat a legszebb fotók készítéséhez.",
                 "ro": "Faceți o plimbare rapidă pentru a vă menține circulația activă; profitați de lumina aurie de dinaintea apusului timpuriu pentru fotografii reușite.",
-                "en": "Take a brisk walk to keep your circulation going; use the golden light just before the early sunset to capture the best coastal photos."
+                "en": "Take a brisk walk to keep your circulation going; use the golden light just before the early sunset to capture the best coastal photos.",
+                "fr": "Faites une promenade tonique pour garder la circulation ; utilisez la lumière dorée juste avant le coucher du soleil précoce pour réaliser les meilleures photos côtières."
               }
             },
             {
@@ -288,13 +319,15 @@
                 "de": "Île Tristan",
                 "hu": "Tristan-sziget",
                 "ro": "Insula Tristan",
-                "en": "Tristan Island"
+                "en": "Tristan Island",
+                "fr": "Île Tristan"
               },
               "tip_5lang": {
                 "de": "Besuchen Sie die Insel nur bei sicherem Wetter, da der Wind im Winter tückisch sein kann; kehren Sie rechtzeitig vor Einbruch der Dämmerung zum Festland zurück.",
                 "hu": "Csak biztonságos időben látogasson el a szigetre, mert a téli szél csalóka lehet; térjen vissza a szárazföldre még a szürkület beállta előtt.",
                 "ro": "Vizitați insula doar pe vreme sigură, deoarece vântul de iarnă poate fi perfid; reveniți pe continent cu mult înainte de lăsarea întunericului.",
-                "en": "Visit the island only in safe weather as winter winds can be treacherous; return to the mainland well before the early dusk sets in."
+                "en": "Visit the island only in safe weather as winter winds can be treacherous; return to the mainland well before the early dusk sets in.",
+                "fr": "Visitez l’île uniquement par temps sûr car les vents d’hiver peuvent être traîtres ; revenez sur le continent bien avant la tombée du crépuscule."
               }
             }
           ]
@@ -314,7 +347,8 @@
             "de": "Archäologische Stätte Plomarc'h",
             "hu": "Plomarc'h Régészeti Lelőhely",
             "ro": "Situl Arheologic Plomarc'h",
-            "en": "Plomarc'h Archaeological Site"
+            "en": "Plomarc'h Archaeological Site",
+            "fr": "Site archéologique de Plomarc’h"
           },
           "coords": [
             -4.321763,
@@ -329,7 +363,8 @@
             "de": "Bestaunen Sie die außergewöhnlich gut erhaltenen gallo-römischen Ruinen, wo früher Fischsauce hergestellt wurde, und folgen Sie dem malerischen Küstenpfad für beste Ausblicke.",
             "hu": "Csodálja meg a kiválóan megőrzött gall-római romokat, ahol egykor az ókori halszószt készítették, és kövesse a lenyűgöző parti ösvényt a legszebb panorámákért.",
             "ro": "Admirați ruinele galo-romane excepțional conservate unde se producea faimosul sos de pește și urmați poteca pitorească de coastă pentru cele mai bune priveliști.",
-            "en": "Marvel at the exceptionally well-preserved Gallo-Roman ruins where ancient garum fish sauce was once produced, and follow the scenic coastal path for the best scenic views."
+            "en": "Marvel at the exceptionally well-preserved Gallo-Roman ruins where ancient garum fish sauce was once produced, and follow the scenic coastal path for the best scenic views.",
+            "fr": "Admirez les ruines gallo‑romaines exceptionnellement bien préservées où l’on produisait autrefois le garum, et suivez le sentier côtier pour les plus beaux points de vue."
           }
         },
         {
@@ -337,7 +372,8 @@
             "de": "Kirche Saint-Herlé",
             "hu": "Saint-Herlé Templom",
             "ro": "Biserica Saint-Herlé",
-            "en": "Saint-Herlé Church"
+            "en": "Saint-Herlé Church",
+            "fr": "Église Saint‑Herlé"
           },
           "coords": [
             -4.321834,
@@ -352,7 +388,8 @@
             "de": "Bewundern Sie die beeindruckende Architektur dieser Kirche, deren markanter Turm das Stadtbild prägt, und achten Sie im Inneren auf die kunstvollen maritimen Details.",
             "hu": "Csodálja meg ennek a templomnak a lenyűgöző építészetét, amelynek tornya uralja a városképet, és figyeljen a belső tér finom tengerészeti és halászati díszítéseire.",
             "ro": "Admirați arhitectura impresionantă a acestei biserici al cărei turn marchează peisajul urban și căutați detaliile maritime fin lucrate din interiorul clădirii istorice.",
-            "en": "Admire the impressive architecture of this church, whose striking tower dominates the skyline, and look closely at the finely crafted maritime details inside the historic nave."
+            "en": "Admire the impressive architecture of this church, whose striking tower dominates the skyline, and look closely at the finely crafted maritime details inside the historic nave.",
+            "fr": "Admirez l’architecture impressionnante de cette église dont la tour remarquable domine l’horizon, et observez de près les détails maritimes finement travaillés à l’intérieur de la nef historique."
           }
         },
         {
@@ -360,7 +397,8 @@
             "de": "Port-Musée",
             "hu": "Port-Musée",
             "ro": "Port-Musée",
-            "en": "Port-Musée"
+            "en": "Port-Musée",
+            "fr": "Port‑Musée"
           },
           "coords": [
             -4.33444,
@@ -375,7 +413,8 @@
             "de": "Entdecken Sie im faszinierenden Port-Musée historische Schiffe hautnah und nehmen Sie sich genügend Zeit, um an Bord der schwimmenden Boote im Hafenbecken zu gehen.",
             "hu": "Fedezze fel a lenyűgöző kikötői múzeumot, ahol történelmi hajókat csodálhat meg, és mindenképpen szánjon időt arra, hogy felmenjen a vízen horgonyzó régi vitorlásokra.",
             "ro": "Explorați acest muzeu portuar fascinant unde puteți admira nave istorice impresionante și asigurați-vă că urcați la bordul bărcilor tradiționale ancorate în apă.",
-            "en": "Explore this fascinating port museum featuring a vast collection of historic vessels, and make sure to reserve enough time to step aboard the floating ships in the harbor."
+            "en": "Explore this fascinating port museum featuring a vast collection of historic vessels, and make sure to reserve enough time to step aboard the floating ships in the harbor.",
+            "fr": "Explorez ce fascinant musée du port présentant une vaste collection de navires historiques, et prévoyez suffisamment de temps pour monter à bord des bateaux flottants dans le port."
           }
         },
         {
@@ -383,7 +422,8 @@
             "de": "Strand der Damen",
             "hu": "Hölgyek Strandja",
             "ro": "Plaja Doamnelor",
-            "en": "Ladies Beach"
+            "en": "Ladies Beach",
+            "fr": "Plage des Dames"
           },
           "coords": [
             -4.332671,
@@ -398,7 +438,8 @@
             "de": "Genießen Sie die friedliche Atmosphäre an diesem historischen Strandabschnitt, der bei den Einheimischen sehr beliebt ist, und packen Sie unbedingt ein kleines Picknick ein.",
             "hu": "Élvezze a békés hangulatot ezen a történelmi, helyiek által is kedvelt tengerparti szakaszon, és mindenképpen hozzon magával egy kis piknikkosarat a tökéletes délutánhoz.",
             "ro": "Bucurați-vă de atmosfera liniștită de pe această plajă istorică îndrăgită de localnici și nu uitați să luați un mic pachet de picnic pentru o după-amiază perfectă.",
-            "en": "Enjoy the peaceful atmosphere at this historic stretch of beach that is beloved by locals, and be sure to pack a small picnic basket to complete your relaxing afternoon."
+            "en": "Enjoy the peaceful atmosphere at this historic stretch of beach that is beloved by locals, and be sure to pack a small picnic basket to complete your relaxing afternoon.",
+            "fr": "Profitez de l’atmosphère paisible de cet endroit historique apprécié des locaux, et pensez à emporter un petit panier‑repas pour parfaire votre après‑midi de détente."
           }
         },
         {
@@ -406,7 +447,8 @@
             "de": "Île Tristan",
             "hu": "Tristan-sziget",
             "ro": "Insula Tristan",
-            "en": "Tristan Island"
+            "en": "Tristan Island",
+            "fr": "Île Tristan"
           },
           "coords": [
             -4.337222,
@@ -421,7 +463,8 @@
             "de": "Unternehmen Sie bei Ebbe einen aufregenden Spaziergang zur Île Tristan, um verborgene Gärten zu entdecken, aber prüfen Sie unbedingt vorher den aktuellen Gezeitenkalender.",
             "hu": "Sétáljon át apálykor az izgalmas Tristan-szigetre, ahol rejtett kerteket fedezhet fel, de indulás előtt mindenképpen ellenőrizze a pontos árapály táblázatokat.",
             "ro": "Plimbați-vă spre fascinanta Insulă Tristan la reflux pentru a descoperi grădini ascunse, dar verificați întotdeauna cu mare atenție calendarul mareelor înainte de a pleca.",
-            "en": "Take a thrilling walk to Tristan Island at low tide to discover its beautifully hidden botanical gardens, but always remember to check the local tide tables before you set out."
+            "en": "Take a thrilling walk to Tristan Island at low tide to discover its beautifully hidden botanical gardens, but always remember to check the local tide tables before you set out.",
+            "fr": "Faites une balade palpitante vers l’île Tristan à marée basse pour découvrir ses superbes jardins botaniques cachés, mais n’oubliez jamais de vérifier les tables de marée locales avant de partir."
           }
         },
         {
@@ -429,7 +472,8 @@
             "de": "Pors Melenn",
             "hu": "Pors Melenn",
             "ro": "Pors Melenn",
-            "en": "Pors Melenn"
+            "en": "Pors Melenn",
+            "fr": "Pors Melenn"
           },
           "coords": [
             -4.342395,
@@ -444,7 +488,8 @@
             "de": "Erholen Sie sich in dieser kleinen und ruhigen Bucht, die sich perfekt für einen gemütlichen Stopp eignet, und lassen Sie sich vom sanften Rauschen der Wellen beruhigen.",
             "hu": "Pihenjen meg ebben a kis, nyugodt öbölben, amely tökéletes egy rövid megállóra, és hagyja, hogy a hullámok lágy morajlása teljesen ellazítsa a városnézés közben.",
             "ro": "Odihniți-vă în acest golf mic și liniștit, perfect pentru o pauză relaxantă, și lăsați sunetul blând al valurilor să vă calmeze după orele de explorare intensă.",
-            "en": "Rest in this small and tranquil cove that is perfect for a relaxing short break, and let the gentle sound of the lapping waves soothe you during your busy sightseeing tour."
+            "en": "Rest in this small and tranquil cove that is perfect for a relaxing short break, and let the gentle sound of the lapping waves soothe you during your busy sightseeing tour.",
+            "fr": "Reposez‑vous dans cette petite crique tranquille, parfaite pour une courte pause relaxante, et laissez le doux clapotis des vagues vous apaiser pendant votre visite."
           }
         },
         {
@@ -452,7 +497,8 @@
             "de": "Strand Sables Blancs",
             "hu": "Sables Blancs Strand",
             "ro": "Plaja Sables Blancs",
-            "en": "Sables Blancs Beach"
+            "en": "Sables Blancs Beach",
+            "fr": "Plage des Sables Blancs"
           },
           "coords": [
             -4.351749,
@@ -467,7 +513,8 @@
             "de": "Lassen Sie den Tag an diesem breiten, feinsandigen Strand entspannt ausklingen, der ideal für Wassersport ist, und genießen Sie hier einen spektakulären Sonnenuntergang.",
             "hu": "Zárja a napot ezen a széles, finomhomokos strandon, amely vízi sportokhoz is ideális, és élvezze a lenyűgöző naplementét a hűsítő esti tengerparti szellő kíséretében.",
             "ro": "Încheiați ziua pe această plajă largă cu nisip fin, ideală pentru sporturi nautice, și bucurați-vă de un apus spectaculos acompaniat de briza proaspătă a mării de seară.",
-            "en": "End your day at this wide, fine-sand beach that is highly popular for water sports, and enjoy a spectacular evening sunset accompanied by the refreshing coastal sea breeze."
+            "en": "End your day at this wide, fine-sand beach that is highly popular for water sports, and enjoy a spectacular evening sunset accompanied by the refreshing coastal sea breeze.",
+            "fr": "Terminez la journée sur cette large plage de sable fin très prisée pour les sports nautiques, et profitez d’un magnifique coucher de soleil accompagné de la brise marine rafraîchissante."
           }
         }
       ],
@@ -475,7 +522,8 @@
         "de": "Beginnen Sie Ihren Tag mit einem gemütlichen Spaziergang entlang der historischen Stätten und der charmanten Kapelle. Am Mittag tauchen Sie im Port-Musée in die reiche Seefahrtsgeschichte von Douarnenez ein. Der Nachmittag lädt zu entspannten Momenten an den malerischen Stränden und auf der mystischen Île Tristan ein. Lassen Sie den Abend bei einem herrlichen Sonnenuntergang am Meer ausklingen.",
         "hu": "Kezdje a napot egy kellemes sétával a történelmi emlékhelyek és a hangulatos kápolna körül. Délben merüljön el Douarnenez gazdag tengerészeti múltjában a lenyűgöző Port-Musée kiállításain. A délután tökéletes a festői strandok és a titokzatos Tristan-sziget felfedezésére. Este pedig lazítson a tengerparton, és csodálja meg az óceán felett lemenő nap gyönyörű, nyugtató színeit.",
         "ro": "Începeți ziua cu o plimbare plăcută pe la siturile istorice și fermecătoarea capelă locală. La prânz, scufundați-vă în istoria maritimă bogată a orașului vizitând Port-Musée. După-amiaza vă invită la relaxare pe plajele pitorești și la explorarea insulei mistice Tristan. Încheiați seara cu un apus de soare spectaculos la malul mării, bucurându-vă de briza răcoroasă a oceanului.",
-        "en": "Start your morning with a pleasant walk around the historical sites and the charming local chapel. At midday, dive deep into the rich maritime history of Douarnenez at the Port-Musée. The afternoon invites you to relax on the picturesque local beaches and explore the mystical Tristan Island. Conclude your evening with a spectacular seaside sunset, enjoying the fresh and cool ocean breeze."
+        "en": "Start your morning with a pleasant walk around the historical sites and the charming local chapel. At midday, dive deep into the rich maritime history of Douarnenez at the Port-Musée. The afternoon invites you to relax on the picturesque local beaches and explore the mystical Tristan Island. Conclude your evening with a spectacular seaside sunset, enjoying the fresh and cool ocean breeze.",
+        "fr": "Commencez la matinée par une agréable promenade autour des sites historiques et de la charmante chapelle locale. À midi, plongez dans la riche histoire maritime de Douarnenez au Port‑Musée. L’après‑midi vous invite à vous détendre sur les plages pittoresques et à explorer l’île Tristan mystique. Concluez la soirée par un spectaculaire coucher de soleil en bord de mer, en profitant de la brise fraîche et marine."
       },
       "variants": {
         "rainy": {
@@ -483,7 +531,8 @@
             "de": "Radfahren im Regen erfordert Vorsicht auf den Küstenwegen. Die archäologischen Stätten können matschig sein, bieten aber ein authentisches Erlebnis. Nutzen Sie die Stadtkirchen für trockene Pausen. Nachmittags ist die Sicht auf die Insel Tristan oft mystisch verschleiert. Planen Sie mehr Zeit für Bremsmanöver auf den glatten Straßen ein.",
             "hu": "Az esőben való biciklizés óvatosságot igényel a parti utakon. A régészeti lelőhelyek sárosak lehetnek, de hiteles élményt nyújtanak. Használja a városi templomokat száraz pihenőhelyként. Délután a Tristan-sziget látványa gyakran misztikus ködbe vész. Szánjon több időt a fékezésre a csúszós aszfalton.",
             "ro": "Mersul cu bicicleta pe ploaie necesită prudență pe drumurile de coastă. Siturile arheologice pot fi noroioase, dar oferă o experiență autentică. Folosiți bisericile din oraș pentru pauze uscate. După-amiaza, vederea insulei Tristan este adesea învăluită în ceață. Alocați mai mult timp pentru frânare pe drumurile umede.",
-            "en": "Cycling in the rain requires caution on coastal paths. Archaeological sites might be muddy but offer an authentic experience. Use town churches for dry breaks. In the afternoon, the view of Tristan Island is often mystically veiled. Allow extra time for braking on the slippery road surfaces."
+            "en": "Cycling in the rain requires caution on coastal paths. Archaeological sites might be muddy but offer an authentic experience. Use town churches for dry breaks. In the afternoon, the view of Tristan Island is often mystically veiled. Allow extra time for braking on the slippery road surfaces.",
+            "fr": "Le cyclisme sous la pluie demande prudence sur les chemins côtiers. Les sites archéologiques peuvent être boueux mais offrent une expérience authentique. Utilisez les églises de ville pour des pauses au sec. L’après‑midi, la vue sur l’île Tristan est souvent voilée de mystère. Prévoyez du temps supplémentaire pour freiner sur des routes glissantes."
           },
           "stops": [
             {
@@ -491,13 +540,15 @@
                 "de": "Archäologische Stätte Plomarc'h",
                 "hu": "Plomarc'h Régészeti Lelőhely",
                 "ro": "Situl Arheologic Plomarc'h",
-                "en": "Plomarc'h Archaeological Site"
+                "en": "Plomarc'h Archaeological Site",
+                "fr": "Site archéologique de Plomarc’h"
               },
               "tip_5lang": {
                 "de": "Achten Sie auf die rutschigen Pfade zwischen den Ruinen; Schutzbleche am Fahrrad sind hier unerlässlich, um Schlammspritzer auf der Kleidung zu vermeiden.",
                 "hu": "Ügyeljen a romok közötti csúszós ösvényekre; a kerékpáron a sárvédő itt elengedhetetlen, hogy elkerülje a felverődő sarat és vizet a ruháján.",
                 "ro": "Atenție la potecile alunecoase dintre ruine; apărătorile de noroi la bicicletă sunt esențiale aici pentru a evita stropirea hainelor cu noroi.",
-                "en": "Watch out for slippery paths between the ruins; mudguards on your bike are essential here to prevent mud splashes on your clothes."
+                "en": "Watch out for slippery paths between the ruins; mudguards on your bike are essential here to prevent mud splashes on your clothes.",
+                "fr": "Surveillez les sentiers glissants entre les ruines ; des garde‑boue sur votre vélo sont indispensables pour éviter les projections de boue sur vos vêtements."
               }
             },
             {
@@ -505,13 +556,15 @@
                 "de": "Kirche Saint-Herlé",
                 "hu": "Saint-Herlé Templom",
                 "ro": "Biserica Saint-Herlé",
-                "en": "Saint-Herlé Church"
+                "en": "Saint-Herlé Church",
+                "fr": "Église Saint‑Herlé"
               },
               "tip_5lang": {
                 "de": "Nutzen Sie den Kirchenbesuch, um Ihre Regenkleidung kurz zu lüften; stellen Sie Ihr Fahrrad an einem geschützten Ort nahe der Kirchenmauer ab.",
                 "hu": "Használja ki a templomlátogatást az esőruházat átszellőztetésére; parkoljon le a biciklivel egy szélvédettebb helyen a templomfal tövében.",
                 "ro": "Folosiți vizita la biserică pentru a vă aerisi puțin hainele de ploaie; parcați bicicleta într-un loc ferit, lângă zidul bisericii.",
-                "en": "Use the church visit to briefly air out your rain gear; park your bike in a sheltered spot near the church wall to keep it relatively dry."
+                "en": "Use the church visit to briefly air out your rain gear; park your bike in a sheltered spot near the church wall to keep it relatively dry.",
+                "fr": "Profitez de la visite de l’église pour aérer brièvement votre équipement de pluie ; garez votre vélo dans un endroit abrité près du mur de l’église pour le garder relativement sec."
               }
             },
             {
@@ -519,13 +572,15 @@
                 "de": "Port-Musée",
                 "hu": "Port-Musée",
                 "ro": "Port-Musée",
-                "en": "Port-Musée"
+                "en": "Port-Musée",
+                "fr": "Port‑Musée"
               },
               "tip_5lang": {
                 "de": "Das Museum bietet Fahrradständer und viel Zeit im Trockenen; verstauen Sie lose Taschen am Rad wasserdicht, während Sie die Schiffe besichtigen.",
                 "hu": "A múzeum rendelkezik kerékpártárolókkal és sok időt tölthet fedett helyen; a biciklin hagyott táskákat vízhatlanul rögzítse a hajók megtekintése alatt.",
                 "ro": "Muzeul oferă rastele pentru biciclete și mult timp la adăpost; asigurați-vă că bagajele rămase pe bicicletă sunt protejate de apă în timpul vizitei.",
-                "en": "The museum offers bike racks and plenty of indoor time; make sure any bags left on the bike are waterproofed while you tour the ships."
+                "en": "The museum offers bike racks and plenty of indoor time; make sure any bags left on the bike are waterproofed while you tour the ships.",
+                "fr": "Le musée propose des arceaux pour vélos et beaucoup de temps à l’intérieur ; assurez‑vous que les sacs laissés sur le vélo sont imperméabilisés pendant la visite des navires."
               }
             },
             {
@@ -533,13 +588,15 @@
                 "de": "Strand der Damen",
                 "hu": "Hölgyek Strandja",
                 "ro": "Plaja Doamnelor",
-                "en": "Ladies Beach"
+                "en": "Ladies Beach",
+                "fr": "Plage des Dames"
               },
               "tip_5lang": {
                 "de": "Die Zufahrtsstraße kann bei Regen glatt sein, fahren Sie vorsichtig bergab; genießen Sie die stürmische See kurz vom Schutz der Promenade aus.",
                 "hu": "A levezető út esőben csúszós lehet, óvatosan ereszkedjen le; élvezze a viharos tengert egy rövid ideig a sétány védettebb pontjáról.",
                 "ro": "Drumul de acces poate fi alunecos pe ploaie, coborâți cu grijă; admirați marea agitată pentru scurt timp din protecția promenadei.",
-                "en": "The access road can be slippery in the rain, go downhill carefully; enjoy the stormy sea briefly from the shelter of the promenade."
+                "en": "The access road can be slippery in the rain, go downhill carefully; enjoy the stormy sea briefly from the shelter of the promenade.",
+                "fr": "La route d’accès peut être glissante sous la pluie, descendez prudemment ; admirez brièvement la mer déchaînée depuis l’abri de la promenade."
               }
             },
             {
@@ -547,13 +604,15 @@
                 "de": "Île Tristan",
                 "hu": "Tristan-sziget",
                 "ro": "Insula Tristan",
-                "en": "Tristan Island"
+                "en": "Tristan Island",
+                "fr": "Île Tristan"
               },
               "tip_5lang": {
                 "de": "Prüfen Sie, ob die Überfahrt bei Regenwetter sicher ist; lassen Sie das Fahrrad am Hafen stehen, da der Inselboden bei Nässe sehr instabil ist.",
                 "hu": "Ellenőrizze, hogy esős időben is biztonságos-e az átkelés; hagyja a kerékpárt a kikötőben, mert a sziget talaja nedvesen nagyon bizonytalan.",
                 "ro": "Verificați dacă traversarea este sigură pe vreme ploioasă; lăsați bicicleta în port, deoarece solul insulei devine instabil când este ud.",
-                "en": "Check if the crossing is safe during rainy weather; leave your bike at the harbor as the island ground is very unstable when wet."
+                "en": "Check if the crossing is safe during rainy weather; leave your bike at the harbor as the island ground is very unstable when wet.",
+                "fr": "Vérifiez si la traversée est sûre par temps pluvieux ; laissez votre vélo au port car le sol de l’île devient très instable quand il est humide."
               }
             },
             {
@@ -561,13 +620,15 @@
                 "de": "Pors Melenn",
                 "hu": "Pors Melenn",
                 "ro": "Pors Melenn",
-                "en": "Pors Melenn"
+                "en": "Pors Melenn",
+                "fr": "Pors Melenn"
               },
               "tip_5lang": {
                 "de": "Diese kleine Bucht bietet kaum Unterstand, bleiben Sie also nur für einen schnellen Fotostopp; achten Sie auf Sand, der den Asphalt rutschig macht.",
                 "hu": "Ez a kis öböl alig kínál menedéket, így csak egy gyors fotóra álljon meg; ügyeljen a homokra, amely az esővel keveredve csúszóssá teszi az aszfaltot.",
                 "ro": "Această mică golfuleț oferă puțin adăpost, așa că opriți-vă doar pentru o poză rapidă; atenție la nisipul care face asfaltul alunecos.",
-                "en": "This small cove offers little shelter, so only stop for a quick photo; watch out for sand that makes the asphalt slippery when mixed with rain."
+                "en": "This small cove offers little shelter, so only stop for a quick photo; watch out for sand that makes the asphalt slippery when mixed with rain.",
+                "fr": "Cette petite crique offre peu d'abri : ne vous arrêtez que pour une rapide photo ; attention au sable qui rend l'asphalte glissant lorsqu'il est mêlé à la pluie."
               }
             },
             {
@@ -575,13 +636,15 @@
                 "de": "Strand Sables Blancs",
                 "hu": "Sables Blancs Strand",
                 "ro": "Plaja Sables Blancs",
-                "en": "Sables Blancs Beach"
+                "en": "Sables Blancs Beach",
+                "fr": "Plage des Sables Blancs"
               },
               "tip_5lang": {
                 "de": "Beenden Sie die Tour zügig, wenn der Regen zunimmt; nutzen Sie die nahegelegenen Gebäude am Strandrand, um sich kurz vor der Rückfahrt unterzustellen.",
                 "hu": "Fejezze be gyorsan a túrát, ha erősödik az eső; használja a strand szélén lévő épületeket, hogy meghúzza magát a visszaindulás előtt.",
                 "ro": "Încheiați turul rapid dacă ploaia se intensifică; folosiți clădirile din apropierea plajei pentru a vă adăposti înainte de drumul de întoarcere.",
-                "en": "Finish your tour quickly if the rain intensifies; use the nearby buildings at the beach edge to take shelter before the ride back."
+                "en": "Finish your tour quickly if the rain intensifies; use the nearby buildings at the beach edge to take shelter before the ride back.",
+                "fr": "Terminez rapidement votre visite si la pluie s'intensifie ; utilisez les bâtiments proches, en bord de plage, pour vous abriter avant le retour."
               }
             }
           ]
@@ -591,7 +654,8 @@
             "de": "Winterliches Radfahren in Douarnenez bietet leere Wege und erfrischendes Wetter. Die tiefstehende Sonne sorgt für lange Schatten und tolles Fotolicht. Achten Sie auf den kalten Seewind an den Küstenabschnitten. Das Tageslicht endet früh, daher ist eine funktionierende Beleuchtung am Rad ab 16:30 Uhr Pflicht für eine sichere Rückfahrt.",
             "hu": "A téli kerékpározás Douarnenezben üres utakat és frissítő időjárást kínál. Az alacsony napállás hosszú árnyékokat és kiváló fotófényeket eredményez. Ügyeljen a hideg tengeri szélre a part menti szakaszokon. A nappali fény korán véget ér, így 16:30-tól kötelező a jó világítás a biztonságos visszatéréshez.",
             "ro": "Mersul cu bicicleta iarna în Douarnenez oferă drumuri goale și vreme revigorantă. Soarele jos creează umbre lungi și o lumină excelentă pentru poze. Atenție la vântul rece de coastă. Lumina zilei se termină devreme, așa că iluminarea funcțională este obligatorie de la ora 16:30.",
-            "en": "Winter cycling in Douarnenez offers empty paths and refreshing weather. The low sun creates long shadows and great photo light. Watch out for the cold sea breeze on coastal sections. Daylight ends early, so functional bike lights are mandatory from 16:30 for a safe return journey."
+            "en": "Winter cycling in Douarnenez offers empty paths and refreshing weather. The low sun creates long shadows and great photo light. Watch out for the cold sea breeze on coastal sections. Daylight ends early, so functional bike lights are mandatory from 16:30 for a safe return journey.",
+            "fr": "Le vélo en hiver à Douarnenez offre des chemins déserts et un air vivifiant. Le soleil bas crée de longues ombres et une belle lumière pour les photos. Méfiez-vous de la brise marine froide sur les sections côtières. La lumière du jour se termine tôt : des éclairages vélo fonctionnels sont obligatoires dès 16h30 pour un retour en sécurité."
           },
           "stops": [
             {
@@ -599,13 +663,15 @@
                 "de": "Archäologische Stätte Plomarc'h",
                 "hu": "Plomarc'h Régészeti Lelőhely",
                 "ro": "Situl Arheologic Plomarc'h",
-                "en": "Plomarc'h Archaeological Site"
+                "en": "Plomarc'h Archaeological Site",
+                "fr": "Site archéologique de Plomarc'h"
               },
               "tip_5lang": {
                 "de": "Bewundern Sie die antiken Überreste in der Ruhe des Winters; tragen Sie Thermo-Handschuhe, da die Hände beim langsamen Fahren durch das Gelände schnell auskühlen.",
                 "hu": "Csodálja meg az ősi maradványokat a téli nyugalom közepette; viseljen hőszigetelt kesztyűt, mert a terepen való lassabb haladáskor a kezek gyorsan áthűlnek.",
                 "ro": "Admirați vestigiile antice în liniștea iernii; purtați mănuși termice, deoarece mâinile se răcesc rapid în timpul deplasării lente prin sit.",
-                "en": "Admire the ancient remains in the winter peace; wear thermal gloves as your hands cool down quickly while navigating slowly through the terrain."
+                "en": "Admire the ancient remains in the winter peace; wear thermal gloves as your hands cool down quickly while navigating slowly through the terrain.",
+                "fr": "Admirez les vestiges antiques dans le calme hivernal ; portez des gants thermiques car vos mains refroidissent vite en progressant lentement sur le terrain."
               }
             },
             {
@@ -613,13 +679,15 @@
                 "de": "Kirche Saint-Herlé",
                 "hu": "Saint-Herlé Templom",
                 "ro": "Biserica Saint-Herlé",
-                "en": "Saint-Herlé Church"
+                "en": "Saint-Herlé Church",
+                "fr": "Église Saint-Herlé"
               },
               "tip_5lang": {
                 "de": "Genießen Sie die moderate Wärme im Kircheninneren; achten Sie beim Absteigen auf eventuelle Froststellen auf dem Kopfsteinpflaster vor dem Eingang.",
                 "hu": "Élvezze a templombelső mérsékelt melegét; a kerékpárról való leszálláskor ügyeljen az esetleges fagyos foltokra a bejárat előtti macskaköveken.",
                 "ro": "Bucurați-vă de căldura moderată din interiorul bisericii; la coborârea de pe bicicletă, atenție la eventualele porțiuni înghețate de pe pavaj.",
-                "en": "Enjoy the moderate warmth inside the church; when dismounting your bike, watch out for potential frosty patches on the cobblestones near the entrance."
+                "en": "Enjoy the moderate warmth inside the church; when dismounting your bike, watch out for potential frosty patches on the cobblestones near the entrance.",
+                "fr": "Profitez de la chaleur modérée à l'intérieur de l'église ; en descendant de votre vélo, attention aux plaques de givre possibles sur les pavés près de l'entrée."
               }
             },
             {
@@ -627,13 +695,15 @@
                 "de": "Port-Musée",
                 "hu": "Port-Musée",
                 "ro": "Port-Musée",
-                "en": "Port-Musée"
+                "en": "Port-Musée",
+                "fr": "Port-Musée"
               },
               "tip_5lang": {
                 "de": "Ein idealer Ort, um sich bei einem Rundgang durch die geheizten Säle aufzuwärmen; parken Sie das Rad sicher, da der Wind im Hafenbecken oft kräftig weht.",
                 "hu": "Ideális hely a felmelegedésre a fűtött termek bejárása közben; parkolja le biztonságosan a biciklit, mert a kikötőben gyakran erős a szél.",
                 "ro": "Un loc ideal pentru a vă încălzi în timpul vizitei în sălile încălzite; parcați bicicleta în siguranță, deoarece vântul suflă adesea tare în port.",
-                "en": "An ideal place to warm up while touring the heated halls; park your bike securely as the wind in the harbor basin can often be quite strong."
+                "en": "An ideal place to warm up while touring the heated halls; park your bike securely as the wind in the harbor basin can often be quite strong.",
+                "fr": "Un lieu idéal pour se réchauffer en visitant les salles chauffées ; garez votre vélo solidement car le vent dans le bassin du port peut être souvent très fort."
               }
             },
             {
@@ -641,13 +711,15 @@
                 "de": "Strand der Damen",
                 "hu": "Hölgyek Strandja",
                 "ro": "Plaja Doamnelor",
-                "en": "Ladies Beach"
+                "en": "Ladies Beach",
+                "fr": "Plage des Dames"
               },
               "tip_5lang": {
                 "de": "Die klare Sicht ermöglicht tolle Panoramaaufnahmen der Bucht; bewegen Sie sich regelmäßig, um trotz der Meeresbrise nicht auszukühlen.",
                 "hu": "A tiszta látási viszonyok remek panorámafotókat tesznek lehetővé; mozogjon rendszeresen, hogy a tengeri szél ellenére se hűljön ki a teste.",
                 "ro": "Vizibilitatea clară permite fotografii panoramice superbe ale golfului; mișcați-vă constant pentru a nu vă răci din cauza brizelor marine.",
-                "en": "The clear visibility allows for great panoramic shots of the bay; keep moving regularly to avoid getting too cold from the sea breeze."
+                "en": "The clear visibility allows for great panoramic shots of the bay; keep moving regularly to avoid getting too cold from the sea breeze.",
+                "fr": "La visibilité claire permet de superbes panoramas sur la baie ; bougez régulièrement pour éviter d'avoir trop froid à cause de la brise marine."
               }
             },
             {
@@ -655,13 +727,15 @@
                 "de": "Île Tristan",
                 "hu": "Tristan-sziget",
                 "ro": "Insula Tristan",
-                "en": "Tristan Island"
+                "en": "Tristan Island",
+                "fr": "Île Tristan"
               },
               "tip_5lang": {
                 "de": "Beachten Sie, dass die Insel im Winter oft früher schließt; kalkulieren Sie genug Energie für die Rückfahrt gegen den kalten Gegenwind ein.",
                 "hu": "Vegye figyelembe, hogy a sziget télen gyakran korábban bezár; számoljon elegendő energiával a visszautashoz a hideg ellenszélben.",
                 "ro": "Rețineți că insula se închide adesea mai devreme iarna; rezervați-vă suficientă energie pentru drumul de întoarcere împotriva vântului rece.",
-                "en": "Note that the island often closes earlier in winter; budget enough energy for the ride back against the cold headwind."
+                "en": "Note that the island often closes earlier in winter; budget enough energy for the ride back against the cold headwind.",
+                "fr": "Notez que l'île ferme souvent plus tôt en hiver ; prévoyez assez d'énergie pour le retour contre le vent froid de face."
               }
             },
             {
@@ -669,13 +743,15 @@
                 "de": "Pors Melenn",
                 "hu": "Pors Melenn",
                 "ro": "Pors Melenn",
-                "en": "Pors Melenn"
+                "en": "Pors Melenn",
+                "fr": "Pors Melenn"
               },
               "tip_5lang": {
                 "de": "Genießen Sie die Einsamkeit an diesem Naturstrand; bleiben Sie wegen der Kälte nicht zu lange stehen und setzen Sie die Fahrt zügig fort.",
                 "hu": "Élvezze a magányt ezen a természetes strandon; a hideg miatt ne álljon meg túl hosszú időre, folytassa hamar az utat a testhőmérséklet megtartásáért.",
                 "ro": "Bucurați-vă de singurătate pe această plajă naturală; nu staționați prea mult din cauza frigului și continuați drumul pentru a vă menține calzi.",
-                "en": "Enjoy the solitude at this natural beach; don't stop for too long because of the cold, and continue your ride to keep your body temperature up."
+                "en": "Enjoy the solitude at this natural beach; don't stop for too long because of the cold, and continue your ride to keep your body temperature up.",
+                "fr": "Appréciez la solitude sur cette plage naturelle ; ne vous arrêtez pas trop longtemps à cause du froid et continuez votre trajet pour maintenir votre température corporelle."
               }
             },
             {
@@ -683,13 +759,15 @@
                 "de": "Strand Sables Blancs",
                 "hu": "Sables Blancs Strand",
                 "ro": "Plaja Sables Blancs",
-                "en": "Sables Blancs Beach"
+                "en": "Sables Blancs Beach",
+                "fr": "Plage des Sables Blancs"
               },
               "tip_5lang": {
                 "de": "Bewundern Sie das glitzernde Winterlicht auf dem Wasser; stellen Sie sicher, dass Ihre Fahrradlampe für den baldigen Sonnenuntergang einsatzbereit ist.",
                 "hu": "Csodálja meg a vízen megcsillanó téli fényeket; győződjön meg róla, hogy a kerékpár lámpája készen áll a hamarosan bekövetkező naplementére.",
                 "ro": "Admirați luminile iernii sclipind pe apă; asigurați-vă că farul bicicletei este gata de utilizare pentru apusul care va veni curând.",
-                "en": "Admire the sparkling winter light on the water; make sure your bike lights are ready for the sunset that will arrive very soon."
+                "en": "Admire the sparkling winter light on the water; make sure your bike lights are ready for the sunset that will arrive very soon.",
+                "fr": "Admirez la lumière hivernale scintillante sur l'eau ; assurez-vous que vos feux de vélo sont prêts pour le coucher du soleil qui arrivera très bientôt."
               }
             }
           ]
@@ -709,7 +787,8 @@
             "de": "Kirche Saint-Herlé",
             "hu": "Saint-Herlé Templom",
             "ro": "Biserica Saint-Herlé",
-            "en": "Saint-Herlé Church"
+            "en": "Saint-Herlé Church",
+            "fr": "Église Saint-Herlé"
           },
           "coords": [
             -4.321834,
@@ -724,7 +803,8 @@
             "de": "Bewundern Sie die beeindruckende Architektur dieser Kirche, deren markanter Turm das Stadtbild prägt, und achten Sie im Inneren auf die kunstvollen maritimen Details.",
             "hu": "Csodálja meg ennek a templomnak a lenyűgöző építészetét, amelynek tornya uralja a városképet, és figyeljen a belső tér finom tengerészeti és halászati díszítéseire.",
             "ro": "Admirați arhitectura impresionantă a acestei biserici al cărei turn marchează peisajul urban și căutați detaliile maritime fin lucrate din interiorul clădirii istorice.",
-            "en": "Admire the impressive architecture of this church, whose striking tower dominates the skyline, and look closely at the finely crafted maritime details inside the historic nave."
+            "en": "Admire the impressive architecture of this church, whose striking tower dominates the skyline, and look closely at the finely crafted maritime details inside the historic nave.",
+            "fr": "Admirez l'architecture impressionnante de cette église, dont la tour remarquable domine l'horizon, et observez de près les détails maritimes finement ouvragés à l'intérieur de la nef historique."
           }
         },
         {
@@ -732,7 +812,8 @@
             "de": "Archäologische Stätte Plomarc'h",
             "hu": "Plomarc'h Régészeti Lelőhely",
             "ro": "Situl Arheologic Plomarc'h",
-            "en": "Plomarc'h Archaeological Site"
+            "en": "Plomarc'h Archaeological Site",
+            "fr": "Site archéologique de Plomarc'h"
           },
           "coords": [
             -4.321763,
@@ -747,7 +828,8 @@
             "de": "Bestaunen Sie die außergewöhnlich gut erhaltenen gallo-römischen Ruinen, wo früher Fischsauce hergestellt wurde, und folgen Sie dem malerischen Küstenpfad für beste Ausblicke.",
             "hu": "Csodálja meg a kiválóan megőrzött gall-római romokat, ahol egykor az ókori halszószt készítették, és kövesse a lenyűgöző parti ösvényt a legszebb panorámákért.",
             "ro": "Admirați ruinele galo-romane excepțional conservate unde se producea faimosul sos de pește și urmați poteca pitorească de coastă pentru cele mai bune priveliști.",
-            "en": "Marvel at the exceptionally well-preserved Gallo-Roman ruins where ancient garum fish sauce was once produced, and follow the scenic coastal path for the best scenic views."
+            "en": "Marvel at the exceptionally well-preserved Gallo-Roman ruins where ancient garum fish sauce was once produced, and follow the scenic coastal path for the best scenic views.",
+            "fr": "Émerveillez-vous devant les ruines gallo-romaines exceptionnellement bien conservées où l'on produisait autrefois la sauce de poisson garum, et suivez le sentier côtier panoramique pour les meilleures vues."
           }
         },
         {
@@ -755,7 +837,8 @@
             "de": "Port-Musée",
             "hu": "Port-Musée",
             "ro": "Port-Musée",
-            "en": "Port-Musée"
+            "en": "Port-Musée",
+            "fr": "Port-Musée"
           },
           "coords": [
             -4.33444,
@@ -770,7 +853,8 @@
             "de": "Entdecken Sie im faszinierenden Port-Musée historische Schiffe hautnah und nehmen Sie sich genügend Zeit, um an Bord der schwimmenden Boote im Hafenbecken zu gehen.",
             "hu": "Fedezze fel a lenyűgöző kikötői múzeumot, ahol történelmi hajókat csodálhat meg, és mindenképpen szánjon időt arra, hogy felmenjen a vízen horgonyzó régi vitorlásokra.",
             "ro": "Explorați acest muzeu portuar fascinant unde puteți admira nave istorice impresionante și asigurați-vă că urcați la bordul bărcilor tradiționale ancorate în apă.",
-            "en": "Explore this fascinating port museum featuring a vast collection of historic vessels, and make sure to reserve enough time to step aboard the floating ships in the harbor."
+            "en": "Explore this fascinating port museum featuring a vast collection of historic vessels, and make sure to reserve enough time to step aboard the floating ships in the harbor.",
+            "fr": "Explorez ce fascinant musée du port qui présente une vaste collection de bâtiments maritimes historiques, et prévoyez suffisamment de temps pour monter à bord des navires flottants dans le port."
           }
         },
         {
@@ -778,7 +862,8 @@
             "de": "Île Tristan",
             "hu": "Tristan-sziget",
             "ro": "Insula Tristan",
-            "en": "Tristan Island"
+            "en": "Tristan Island",
+            "fr": "Île Tristan"
           },
           "coords": [
             -4.337222,
@@ -793,7 +878,8 @@
             "de": "Unternehmen Sie bei Ebbe einen aufregenden Spaziergang zur Île Tristan, um verborgene Gärten zu entdecken, aber prüfen Sie unbedingt vorher den aktuellen Gezeitenkalender.",
             "hu": "Sétáljon át apálykor az izgalmas Tristan-szigetre, ahol rejtett kerteket fedezhet fel, de indulás előtt mindenképpen ellenőrizze a pontos árapály táblázatokat.",
             "ro": "Plimbați-vă spre fascinanta Insulă Tristan la reflux pentru a descoperi grădini ascunse, dar verificați întotdeauna cu mare atenție calendarul mareelor înainte de a pleca.",
-            "en": "Take a thrilling walk to Tristan Island at low tide to discover its beautifully hidden botanical gardens, but always remember to check the local tide tables before you set out."
+            "en": "Take a thrilling walk to Tristan Island at low tide to discover its beautifully hidden botanical gardens, but always remember to check the local tide tables before you set out.",
+            "fr": "Faites une promenade excitante vers l'île Tristan à marée basse pour découvrir ses jardins botaniques magnifiquement cachés, mais pensez toujours à consulter les tables des marées locales avant de partir."
           }
         },
         {
@@ -801,7 +887,8 @@
             "de": "Strand Saint-Jean",
             "hu": "Saint-Jean Strand",
             "ro": "Plaja Saint-Jean",
-            "en": "Saint-Jean Beach"
+            "en": "Saint-Jean Beach",
+            "fr": "Plage Saint-Jean"
           },
           "coords": [
             -4.345385,
@@ -816,7 +903,8 @@
             "de": "Besuchen Sie diesen idyllischen Sandstrand am Rande der Stadt für einen ungestörten Moment am Meer und bringen Sie ein Buch mit, um hier in aller Ruhe zu lesen.",
             "hu": "Látogasson el erre az idilli homokos strandra a város szélén egy zavartalan tengerparti pillanatért, és hozzon magával egy könyvet a tökéletes kikapcsolódáshoz.",
             "ro": "Vizitați această plajă idilică de la marginea orașului pentru un moment de liniște netulburată lângă ocean și aduceți o carte bună pentru a vă relaxa în tihnă.",
-            "en": "Visit this idyllic sandy beach on the edge of the town for an undisturbed moment by the sea, and bring a good book to read while relaxing under the clear blue sky."
+            "en": "Visit this idyllic sandy beach on the edge of the town for an undisturbed moment by the sea, and bring a good book to read while relaxing under the clear blue sky.",
+            "fr": "Visitez cette plage de sable idyllique en bordure de la ville pour un moment de quiétude au bord de la mer, et apportez un bon livre à lire en vous relaxant sous le ciel bleu clair."
           }
         },
         {
@@ -824,7 +912,8 @@
             "de": "Strand Sables Blancs",
             "hu": "Sables Blancs Strand",
             "ro": "Plaja Sables Blancs",
-            "en": "Sables Blancs Beach"
+            "en": "Sables Blancs Beach",
+            "fr": "Plage des Sables Blancs"
           },
           "coords": [
             -4.351749,
@@ -839,7 +928,8 @@
             "de": "Lassen Sie den Tag an diesem breiten, feinsandigen Strand entspannt ausklingen, der ideal für Wassersport ist, und genießen Sie hier einen spektakulären Sonnenuntergang.",
             "hu": "Zárja a napot ezen a széles, finomhomokos strandon, amely vízi sportokhoz is ideális, és élvezze a lenyűgöző naplementét a hűsítő esti tengerparti szellő kíséretében.",
             "ro": "Încheiați ziua pe această plajă largă cu nisip fin, ideală pentru sporturi nautice, și bucurați-vă de un apus spectaculos acompaniat de briza proaspătă a mării de seară.",
-            "en": "End your day at this wide, fine-sand beach that is highly popular for water sports, and enjoy a spectacular evening sunset accompanied by the refreshing coastal sea breeze."
+            "en": "End your day at this wide, fine-sand beach that is highly popular for water sports, and enjoy a spectacular evening sunset accompanied by the refreshing coastal sea breeze.",
+            "fr": "Terminez votre journée sur cette large plage de sable fin très prisée pour les sports nautiques, et profitez d'un spectaculaire coucher de soleil accompagné de la fraîche brise marine."
           }
         }
       ],
@@ -847,7 +937,8 @@
         "de": "Beginnen Sie Ihren Tag mit einem gemütlichen Spaziergang entlang der historischen Stätten und der charmanten Kapelle. Am Mittag tauchen Sie im Port-Musée in die reiche Seefahrtsgeschichte von Douarnenez ein. Der Nachmittag lädt zu entspannten Momenten an den malerischen Stränden und auf der mystischen Île Tristan ein. Lassen Sie den Abend bei einem herrlichen Sonnenuntergang am Meer ausklingen.",
         "hu": "Kezdje a napot egy kellemes sétával a történelmi emlékhelyek és a hangulatos kápolna körül. Délben merüljön el Douarnenez gazdag tengerészeti múltjában a lenyűgöző Port-Musée kiállításain. A délután tökéletes a festői strandok és a titokzatos Tristan-sziget felfedezésére. Este pedig lazítson a tengerparton, és csodálja meg az óceán felett lemenő nap gyönyörű, nyugtató színeit.",
         "ro": "Începeți ziua cu o plimbare plăcută pe la siturile istorice și fermecătoarea capelă locală. La prânz, scufundați-vă în istoria maritimă bogată a orașului vizitând Port-Musée. După-amiaza vă invită la relaxare pe plajele pitorești și la explorarea insulei mistice Tristan. Încheiați seara cu un apus de soare spectaculos la malul mării, bucurându-vă de briza răcoroasă a oceanului.",
-        "en": "Start your morning with a pleasant walk around the historical sites and the charming local chapel. At midday, dive deep into the rich maritime history of Douarnenez at the Port-Musée. The afternoon invites you to relax on the picturesque local beaches and explore the mystical Tristan Island. Conclude your evening with a spectacular seaside sunset, enjoying the fresh and cool ocean breeze."
+        "en": "Start your morning with a pleasant walk around the historical sites and the charming local chapel. At midday, dive deep into the rich maritime history of Douarnenez at the Port-Musée. The afternoon invites you to relax on the picturesque local beaches and explore the mystical Tristan Island. Conclude your evening with a spectacular seaside sunset, enjoying the fresh and cool ocean breeze.",
+        "fr": "Commencez la matinée par une agréable promenade autour des sites historiques et de la charmante chapelle locale. À midi, plongez dans la riche histoire maritime de Douarnenez au Port-Musée. L'après‑midi vous invite à vous détendre sur les plages pittoresques et à explorer l'Île Tristan mystérieuse. Concluez la soirée par un spectaculaire coucher de soleil en bord de mer, en profitant de la brise océanique fraîche et vivifiante."
       },
       "variants": {
         "rainy": {
@@ -855,7 +946,8 @@
             "de": "Genießen Sie Douarnenez bequem und trocken vom Auto aus. Die Küstenstraßen bieten auch bei Regen fantastische Ausblicke auf die bewegte See. Parken Sie nahe an den Sehenswürdigkeiten, um Laufwege im Freien zu minimieren. Mittags ist das Port-Musée der perfekte Anlaufpunkt. Abends verleiht das Scheinwerferlicht den nassen Straßen einen besonderen Glanz.",
             "hu": "Élvezze Douarnenezt kényelmesen és szárazon az autóból. A parti utak esőben is fantasztikus kilátást nyújtanak a hullámzó tengerre. Parkoljon közel a látnivalókhoz, hogy minimalizálja a szabadban töltött időt. Délben a Port-Musée a tökéletes célpont. Este az autó fényszórói különleges csillogást kölcsönöznek a vizes utaknak.",
             "ro": "Bucurați-vă de Douarnenez confortabil și uscat din mașină. Drumurile de coastă oferă priveliști fantastice asupra mării agitate chiar și pe ploaie. Parcați aproape de obiective pentru a minimiza mersul pe jos prin ploaie. La prânz, Port-Musée este destinația perfectă. Seara, farurile dau o strălucire aparte drumurilor umede.",
-            "en": "Enjoy Douarnenez comfortably and dry from your car. The coastal roads offer fantastic views of the restless sea even in the rain. Park close to the sights to minimize walking outdoors. At noon, Port-Musée is the perfect place to visit. In the evening, the headlights give the wet streets a special glow."
+            "en": "Enjoy Douarnenez comfortably and dry from your car. The coastal roads offer fantastic views of the restless sea even in the rain. Park close to the sights to minimize walking outdoors. At noon, Port-Musée is the perfect place to visit. In the evening, the headlights give the wet streets a special glow.",
+            "fr": "Profitez de Douarnenez confortablement et au sec depuis votre voiture. Les routes côtières offrent des vues fantastiques sur la mer agitée même sous la pluie. Garez-vous près des sites pour limiter les déplacements à l'extérieur. À midi, le Port-Musée est l'endroit parfait à visiter. Le soir, les phares illuminent les rues humides d'une lueur particulière."
           },
           "stops": [
             {
@@ -863,13 +955,15 @@
                 "de": "Kirche Saint-Herlé",
                 "hu": "Saint-Herlé Templom",
                 "ro": "Biserica Saint-Herlé",
-                "en": "Saint-Herlé Church"
+                "en": "Saint-Herlé Church",
+                "fr": "Église Saint-Herlé"
               },
               "tip_5lang": {
                 "de": "Es gibt Parkmöglichkeiten in der Nähe, sodass Sie fast trocken bis zum Eingang gelangen; bewundern Sie das kunstvolle Interieur als Schutz vor dem Regen.",
                 "hu": "A közelben vannak parkolási lehetőségek, így szinte szárazon juthat el a bejáratig; csodálja meg a művészi belső teret az eső elől menekülve.",
                 "ro": "Există locuri de parcare în apropiere, astfel încât puteți ajunge aproape uscat la intrare; admirați interiorul artistic ca refugiu împotriva ploii.",
-                "en": "There are parking options nearby, so you can reach the entrance almost dry; admire the artistic interior while taking shelter from the rain."
+                "en": "There are parking options nearby, so you can reach the entrance almost dry; admire the artistic interior while taking shelter from the rain.",
+                "fr": "Il y a des possibilités de stationnement à proximité, vous pouvez donc atteindre l'entrée presque au sec ; admirez l'intérieur artistique tout en étant à l'abri de la pluie."
               }
             },
             {
@@ -877,13 +971,15 @@
                 "de": "Archäologische Stätte Plomarc'h",
                 "hu": "Plomarc'h Régészeti Lelőhely",
                 "ro": "Situl Arheologic Plomarc'h",
-                "en": "Plomarc'h Archaeological Site"
+                "en": "Plomarc'h Archaeological Site",
+                "fr": "Site archéologique de Plomarc'h"
               },
               "tip_5lang": {
                 "de": "Genießen Sie den Blick auf die Bucht zunächst aus dem warmen Auto; nutzen Sie Regenpausen für einen kurzen Gang zu den Fischsalzbecken.",
                 "hu": "Élvezze az öbölre nyíló kilátást először a meleg autóból; használja ki az esőszüneteket egy rövid sétára a halasózó medencékhez.",
                 "ro": "Bucurați-vă de priveliștea golfului mai întâi din mașina caldă; folosiți pauzele de ploaie pentru o scurtă plimbare până la bazinele de sărat pește.",
-                "en": "Enjoy the view of the bay first from the warm car; take advantage of breaks in the rain for a short walk to the fish salting tanks."
+                "en": "Enjoy the view of the bay first from the warm car; take advantage of breaks in the rain for a short walk to the fish salting tanks.",
+                "fr": "Profitez d'abord de la vue sur la baie depuis la voiture chauffée ; profitez des accalmies pour une courte balade jusqu'aux bassins de salaison du poisson."
               }
             },
             {
@@ -891,13 +987,15 @@
                 "de": "Port-Musée",
                 "hu": "Port-Musée",
                 "ro": "Port-Musée",
-                "en": "Port-Musée"
+                "en": "Port-Musée",
+                "fr": "Port-Musée"
               },
               "tip_5lang": {
                 "de": "Nutzen Sie den großen Parkplatz am Hafen; das Museum ist die beste Option für einen verregneten Vormittag mit viel Zeit in den Innenräumen.",
                 "hu": "Használja a kikötő melletti nagy parkolót; a múzeum a legjobb opció egy esős délelőttre, mivel sok időt tölthet a belső terekben.",
                 "ro": "Folosiți parcarea mare de lângă port; muzeul este cea mai bună opțiune pentru o dimineață ploioasă, având mult timp de petrecut în interior.",
-                "en": "Use the large parking lot near the harbor; the museum is the best option for a rainy morning with plenty of time spent in the indoor areas."
+                "en": "Use the large parking lot near the harbor; the museum is the best option for a rainy morning with plenty of time spent in the indoor areas.",
+                "fr": "Utilisez le grand parking près du port ; le musée est la meilleure option pour une matinée pluvieuse avec beaucoup de zones intérieures à visiter."
               }
             },
             {
@@ -905,13 +1003,15 @@
                 "de": "Île Tristan",
                 "hu": "Tristan-sziget",
                 "ro": "Insula Tristan",
-                "en": "Tristan Island"
+                "en": "Tristan Island",
+                "fr": "Île Tristan"
               },
               "tip_5lang": {
                 "de": "Stellen Sie das Auto sicher am Quai ab, bevor Sie zur Insel übersetzen; bei starkem Regen ist die Sicht vom Festland aus oft noch beeindruckender.",
                 "hu": "Állítsa le az autót biztonságosan a rakparton, mielőtt átkelne a szigetre; erős esőben a kilátás a szárazföldről gyakran még lenyűgözőbb.",
                 "ro": "Parcați mașina în siguranță pe chei înainte de a traversa spre insulă; pe ploaie puternică, vederea de pe uscat este adesea și mai impresionantă.",
-                "en": "Park the car securely on the quay before crossing to the island; in heavy rain, the view from the mainland is often even more impressive."
+                "en": "Park the car securely on the quay before crossing to the island; in heavy rain, the view from the mainland is often even more impressive.",
+                "fr": "Garez la voiture en sécurité sur le quai avant de traverser vers l'île ; par forte pluie, la vue depuis le continent est souvent encore plus impressionnante."
               }
             },
             {
@@ -919,13 +1019,15 @@
                 "de": "Strand Saint-Jean",
                 "hu": "Saint-Jean Strand",
                 "ro": "Plaja Saint-Jean",
-                "en": "Saint-Jean Beach"
+                "en": "Saint-Jean Beach",
+                "fr": "Plage Saint-Jean"
               },
               "tip_5lang": {
                 "de": "Beobachten Sie das Spiel der Wellen direkt durch die Windschutzscheibe; die Parkplätze bieten oft eine gute Sicht, ohne das Auto verlassen zu müssen.",
                 "hu": "Figyelje meg a hullámok játékát közvetlenül a szélvédőn keresztül; a parkolóhelyek gyakran jó kilátást nyújtanak anélkül, hogy ki kellene szállnia.",
                 "ro": "Observați jocul valurilor direct prin parbriz; locurile de parcare oferă adesea o vedere bună fără a fi nevoie să părăsiți mașina.",
-                "en": "Watch the play of the waves directly through the windshield; the parking spots often offer a good view without having to leave the car."
+                "en": "Watch the play of the waves directly through the windshield; the parking spots often offer a good view without having to leave the car.",
+                "fr": "Regardez le jeu des vagues directement à travers le pare-brise ; les emplacements de stationnement offrent souvent une bonne vue sans avoir à sortir de la voiture."
               }
             },
             {
@@ -933,13 +1035,15 @@
                 "de": "Strand Sables Blancs",
                 "hu": "Sables Blancs Strand",
                 "ro": "Plaja Sables Blancs",
-                "en": "Sables Blancs Beach"
+                "en": "Sables Blancs Beach",
+                "fr": "Plage des Sables Blancs"
               },
               "tip_5lang": {
                 "de": "Nutzen Sie die Strandnähe für einen schnellen Blick aufs Meer; achten Sie beim Einparken auf große Pfützen, die die Tiefe des Untergrunds verbergen.",
                 "hu": "Használja ki a strand közelségét egy gyors tengeri pillantásra; parkoláskor ügyeljen a nagy pocsolyákra, amelyek elrejthetik a talaj egyenetlenségeit.",
                 "ro": "Profitați de proximitatea plajei pentru o privire rapidă la mare; la parcare, atenție la bălțile mari care pot ascunde adâncimea gropilor.",
-                "en": "Take advantage of the proximity to the beach for a quick look at the sea; when parking, watch out for large puddles that hide the depth of the ground."
+                "en": "Take advantage of the proximity to the beach for a quick look at the sea; when parking, watch out for large puddles that hide the depth of the ground.",
+                "fr": "Profitez de la proximité de la plage pour un coup d'œil rapide à la mer ; en vous garant, faites attention aux grandes flaques qui cachent la profondeur du sol."
               }
             }
           ]
@@ -949,7 +1053,8 @@
             "de": "Eine winterliche Spritztour durch Douarnenez ist dank Sitzheizung besonders angenehm. Erleben Sie die dramatische Küstenlandschaft im klaren Winterlicht. Da die Sonne früh untergeht, bieten die Fahrten in der Dämmerung eine besondere Atmosphäre. Besuchen Sie die Museen in den hellen Stunden und genießen Sie abends die Fahrt durch das stimmungsvoll beleuchtete Hafenviertel.",
             "hu": "Egy téli autós kirándulás Douarnenezben az ülésfűtésnek köszönhetően különösen kellemes. Tapasztalja meg a drámai tengerparti tájat a tiszta téli fényben. Mivel a nap korán nyugszik, a szürkületi autózás különleges hangulatot áraszt. Látogassa meg a múzeumokat a világos órákban, este pedig autózzon a hangulatosan kivilágított kikötőben.",
             "ro": "O plimbare de iarnă prin Douarnenez este deosebit de plăcută datorită încălzirii în scaune. Experimentați peisajul de coastă dramatic în lumina clară a iernii. Deoarece soarele apune devreme, plimbările în amurg oferă o atmosferă specială. Vizitați muzeele în orele cu lumină și bucurați-vă de portul iluminat seara.",
-            "en": "A winter drive through Douarnenez is especially pleasant thanks to heated seats. Experience the dramatic coastal landscape in the clear winter light. Since the sun sets early, driving in the twilight offers a unique atmosphere. Visit the museums during the daylight hours and enjoy driving through the atmospherically lit harbor district in the evening."
+            "en": "A winter drive through Douarnenez is especially pleasant thanks to heated seats. Experience the dramatic coastal landscape in the clear winter light. Since the sun sets early, driving in the twilight offers a unique atmosphere. Visit the museums during the daylight hours and enjoy driving through the atmospherically lit harbor district in the evening.",
+            "fr": "Une balade hivernale en voiture à travers Douarnenez est particulièrement agréable grâce aux sièges chauffants. Découvrez le paysage côtier dramatique sous la lumière claire de l'hiver. Comme le soleil se couche tôt, conduire dans le crépuscule offre une atmosphère unique. Visitez les musées pendant les heures de jour et profitez en soirée du quartier du port illuminé et plein d'atmosphère."
           },
           "stops": [
             {
@@ -957,13 +1062,15 @@
                 "de": "Kirche Saint-Herlé",
                 "hu": "Saint-Herlé Templom",
                 "ro": "Biserica Saint-Herlé",
-                "en": "Saint-Herlé Church"
+                "en": "Saint-Herlé Church",
+                "fr": "Église Saint-Herlé"
               },
               "tip_5lang": {
                 "de": "Bewundern Sie die Architektur in der winterlichen Stille; lassen Sie den Motor nicht unnötig laufen, während Sie für Fotos kurz aussteigen.",
                 "hu": "Csodálja meg az építészetet a téli csendben; ne járassa feleslegesen a motort, amíg kiszáll egy-egy fotó erejéig a templom előtt.",
                 "ro": "Admirați arhitectura în liniștea iernii; nu lăsați motorul pornit inutil în timp ce coborâți scurt pentru a face fotografii.",
-                "en": "Admire the architecture in the winter silence; don't leave the engine running unnecessarily while you step out briefly for photos."
+                "en": "Admire the architecture in the winter silence; don't leave the engine running unnecessarily while you step out briefly for photos.",
+                "fr": "Admirez l'architecture dans le silence hivernal ; ne laissez pas le moteur tourner inutilement pendant que vous sortez brièvement pour des photos."
               }
             },
             {
@@ -971,13 +1078,15 @@
                 "de": "Archäologische Stätte Plomarc'h",
                 "hu": "Plomarc'h Régészeti Lelőhely",
                 "ro": "Situl Arheologic Plomarc'h",
-                "en": "Plomarc'h Archaeological Site"
+                "en": "Plomarc'h Archaeological Site",
+                "fr": "Site archéologique de Plomarc'h"
               },
               "tip_5lang": {
                 "de": "Genießen Sie den Panoramablick über die Bucht von den höher gelegenen Parkplätzen; halten Sie Ausschau nach möglichem Glatteis auf den schattigen Zufahrten.",
                 "hu": "Élvezze az öbölre nyíló panorámát a magasabban fekvő parkolókból; figyeljen az esetleges jegesedésre az árnyékosabb bekötőutakon.",
                 "ro": "Bucurați-vă de panorama golfului din parcările situate mai sus; fiți atenți la posibila gheață de pe drumurile de acces umbrite.",
-                "en": "Enjoy the panoramic view over the bay from the higher parking lots; look out for potential black ice on the shaded access roads."
+                "en": "Enjoy the panoramic view over the bay from the higher parking lots; look out for potential black ice on the shaded access roads.",
+                "fr": "Profitez de la vue panoramique sur la baie depuis les parkings en hauteur ; surveillez la présence éventuelle de verglas noir sur les voies d'accès ombragées."
               }
             },
             {
@@ -985,13 +1094,15 @@
                 "de": "Port-Musée",
                 "hu": "Port-Musée",
                 "ro": "Port-Musée",
-                "en": "Port-Musée"
+                "en": "Port-Musée",
+                "fr": "Port-Musée"
               },
               "tip_5lang": {
                 "de": "Das Museum bietet eine warme Zuflucht an kalten Tagen; nutzen Sie die kurzen Wege vom Parkplatz, um die Zeit an der kalten Seeluft zu begrenzen.",
                 "hu": "A múzeum meleg menedéket nyújt a hideg napokon; használja ki a parkolótól vezető rövid utat, hogy minimalizálja a hideg tengeri levegőn töltött időt.",
                 "ro": "Muzeul oferă un refugiu cald în zilele reci; profitați de distanța scurtă de la parcare pentru a limita timpul petrecut în aerul rece de mare.",
-                "en": "The museum offers a warm refuge on cold days; take advantage of the short walk from the parking lot to limit your time in the cold sea air."
+                "en": "The museum offers a warm refuge on cold days; take advantage of the short walk from the parking lot to limit your time in the cold sea air.",
+                "fr": "Le musée offre un refuge chaleureux par temps froid ; profitez de la courte distance à pied depuis le parking pour limiter votre temps dans l'air marin frais."
               }
             },
             {
@@ -999,13 +1110,15 @@
                 "de": "Île Tristan",
                 "hu": "Tristan-sziget",
                 "ro": "Insula Tristan",
-                "en": "Tristan Island"
+                "en": "Tristan Island",
+                "fr": "Île Tristan"
               },
               "tip_5lang": {
                 "de": "Prüfen Sie vor dem Parken am Kai die Windstärke, um Salzgischt auf dem Auto zu vermeiden; die Insel wirkt im Winterlicht besonders einsam und stolz.",
                 "hu": "Parkolás előtt ellenőrizze a szél erősségét a rakparton, hogy elkerülje a sós tengeri permetet az autón; a sziget télen különösen büszkének tűnik.",
                 "ro": "Verificați intensitatea vântului pe chei înainte de a parca pentru a evita depunerile de sare pe mașină; insula pare deosebit de solitară iarna.",
-                "en": "Check the wind strength on the quay before parking to avoid salt spray on your car; the island looks particularly solitary and proud in the winter light."
+                "en": "Check the wind strength on the quay before parking to avoid salt spray on your car; the island looks particularly solitary and proud in the winter light.",
+                "fr": "Vérifiez la force du vent sur le quai avant de vous garer pour éviter les embruns salés sur votre voiture ; l'île paraît particulièrement solitaire et fière sous la lumière hivernale."
               }
             },
             {
@@ -1013,13 +1126,15 @@
                 "de": "Strand Saint-Jean",
                 "hu": "Saint-Jean Strand",
                 "ro": "Plaja Saint-Jean",
-                "en": "Saint-Jean Beach"
+                "en": "Saint-Jean Beach",
+                "fr": "Plage Saint-Jean"
               },
               "tip_5lang": {
                 "de": "Nutzen Sie den Wagen als Aussichtsplattform für den frühen Sonnenuntergang; halten Sie eine Decke bereit, falls Sie bei abgestelltem Motor verweilen möchten.",
                 "hu": "Használja az autót kilátóként a korai naplementéhez; tartson készenlétben egy takarót, ha leállított motor mellett szeretné élvezni a látványt.",
                 "ro": "Folosiți mașina ca punct de observație pentru apusul timpuriu; aveți o pătură la îndemână dacă doriți să staționați cu motorul oprit.",
-                "en": "Use the car as a viewing platform for the early sunset; have a blanket ready if you want to stay for a while with the engine turned off."
+                "en": "Use the car as a viewing platform for the early sunset; have a blanket ready if you want to stay for a while with the engine turned off.",
+                "fr": "Utilisez la voiture comme plateforme d'observation pour le coucher du soleil précoce ; ayez une couverture prête si vous souhaitez rester un moment moteur coupé."
               }
             },
             {
@@ -1027,13 +1142,15 @@
                 "de": "Strand Sables Blancs",
                 "hu": "Sables Blancs Strand",
                 "ro": "Plaja Sables Blancs",
-                "en": "Sables Blancs Beach"
+                "en": "Sables Blancs Beach",
+                "fr": "Plage des Sables Blancs"
               },
               "tip_5lang": {
                 "de": "Genießen Sie den weiten Blick auf den Ozean aus dem geheizten Innenraum; achten Sie bei der Abfahrt auf Sandverwehungen, die die Fahrbahn glatt machen können.",
                 "hu": "Élvezze az óceánra nyíló tágas kilátást a fűtött utastérből; induláskor ügyeljen a homokátfúvásokra, amelyek csúszóssá tehetik az úttestet.",
                 "ro": "Bucurați-vă de vederea largă spre ocean din interiorul încălzit; la plecare, atenție la nisipul suflat de vânt care poate face drumul alunecos.",
-                "en": "Enjoy the wide view of the ocean from the heated interior; when leaving, watch out for sand drifts that can make the road surface slippery."
+                "en": "Enjoy the wide view of the ocean from the heated interior; when leaving, watch out for sand drifts that can make the road surface slippery.",
+                "fr": "Savourez la vaste vue sur l'océan depuis l'habitacle chauffé ; en partant, faites attention aux congères de sable qui peuvent rendre la chaussée glissante."
               }
             }
           ]

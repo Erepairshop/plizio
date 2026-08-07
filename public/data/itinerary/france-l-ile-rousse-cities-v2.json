@@ -21,7 +21,8 @@
             "de": "Markthalle",
             "hu": "Fedett piac",
             "ro": "Piața acoperită",
-            "en": "Covered Market"
+            "en": "Covered Market",
+            "fr": "Marché couvert"
           },
           "coords": [
             8.938315,
@@ -36,7 +37,8 @@
             "de": "Erkunden Sie diese lebhafte Markthalle mit ihren griechischen Säulen, um authentischen korsischen Käse zu probieren, aber kommen Sie früh für die beste Auswahl.",
             "hu": "Fedezze fel ezt a görög oszlopos, élettel teli fedett piacot, ahol megkóstolhatja a korzikai sajtokat, de érkezzen korán a legjobb friss árukért.",
             "ro": "Explorați această piață acoperită plină de viață cu coloane grecești pentru a gusta brânzeturi corsicane, dar ajungeți devreme pentru cele mai bune produse proaspete.",
-            "en": "Explore this lively covered market with its Greek-style columns to sample authentic Corsican cheeses, but arrive early to get the best fresh local produce."
+            "en": "Explore this lively covered market with its Greek-style columns to sample authentic Corsican cheeses, but arrive early to get the best fresh local produce.",
+            "fr": "Explorez ce marché couvert animé aux colonnes de style grec pour déguster des fromages corses authentiques, mais arrivez tôt pour obtenir les meilleurs produits locaux frais."
           }
         },
         {
@@ -44,7 +46,8 @@
             "de": "Kirche der Unbefleckten Empfängnis",
             "hu": "Szeplőtelen Fogantatás temploma",
             "ro": "Biserica Imaculata Concepție",
-            "en": "Church of the Immaculate Conception"
+            "en": "Church of the Immaculate Conception",
+            "fr": "Église de l’Immaculée‑Conception"
           },
           "coords": [
             8.937026,
@@ -59,7 +62,8 @@
             "de": "Bewundern Sie die elegante Fassade dieser Kirche aus dem 19. Jahrhundert, die das Erbe der Stadt symbolisiert; respektieren Sie die Stille und bedecken Sie die Schultern.",
             "hu": "Csodálja meg ennek a 19. századi templomnak az elegáns homlokzatát, amely a város örökségét szimbolizálja; tartsa tiszteletben a csendet és takarja el vállait.",
             "ro": "Admirați fațada elegantă a acestei biserici din secolul al XIX-lea, simbol al moștenirii orașului; respectați liniștea și aduceți o eșarfă pentru a vă acoperi umerii.",
-            "en": "Admire the elegant facade of this 19th-century church, which stands as a symbol of the town's heritage; respect the silence and bring a light scarf to cover shoulders."
+            "en": "Admire the elegant facade of this 19th-century church, which stands as a symbol of the town's heritage; respect the silence and bring a light scarf to cover shoulders.",
+            "fr": "Admirez la façade élégante de cette église du XIXe siècle, symbole du patrimoine de la ville ; respectez le silence et apportez un petit châle pour couvrir les épaules."
           }
         },
         {
@@ -67,7 +71,8 @@
             "de": "Barmherzigkeitskirche",
             "hu": "Irgalmasság temploma",
             "ro": "Biserica Milostivirii",
-            "en": "Church of Mercy"
+            "en": "Church of Mercy",
+            "fr": "Église de la Miséricorde"
           },
           "coords": [
             8.935855,
@@ -82,7 +87,8 @@
             "de": "Entdecken Sie diese kleinere, historisch bedeutsame religiöse Stätte mit wunderschönen Details, aber prüfen Sie die lokalen Aushänge, da die Öffnungszeiten variieren.",
             "hu": "Fedezze fel ezt a kisebb, történelmileg jelentős vallási helyszínt, de érdemes előre ellenőrizni a helyi hirdetőtáblákat, mivel a nyitvatartás elég változó lehet.",
             "ro": "Descoperiți acest lăcaș religios mai mic, cu detalii interioare frumoase, dar verificați panourile locale deoarece orele de vizitare pot fi destul de imprevizibile.",
-            "en": "Discover this smaller, historically significant religious site with beautiful internal details, but check local notice boards as visiting hours can be quite unpredictable."
+            "en": "Discover this smaller, historically significant religious site with beautiful internal details, but check local notice boards as visiting hours can be quite unpredictable.",
+            "fr": "Découvrez ce petit lieu de culte historiquement significatif aux beaux détails intérieurs, mais consultez les panneaux locaux car les horaires de visite peuvent être assez variables."
           }
         },
         {
@@ -90,7 +96,8 @@
             "de": "Überreste der Festungsmauer",
             "hu": "Erődítmény romjai",
             "ro": "Vestigiile Zidului Fortificat",
-            "en": "Remains of the Fortified Wall"
+            "en": "Remains of the Fortified Wall",
+            "fr": "Vestiges de l’enceinte fortifiée"
           },
           "coords": [
             8.937337,
@@ -105,7 +112,8 @@
             "de": "Spazieren Sie entlang dieser alten Festungsmauern, die die Stadt einst vor Invasionen schützten; tragen Sie festes Schuhwerk, da der Boden hier uneben sein kann.",
             "hu": "Sétáljon végig ezeken az ősi falakon, amelyek egykor a várost védték az invázióktól; viseljen kényelmes cipőt, mivel a történelmi romok körüli talaj egyenetlen.",
             "ro": "Plimbați-vă de-a lungul acestor ziduri fortificate antice care protejau orașul de invazii; purtați încălțăminte solidă, deoarece terenul din jurul ruinelor este denivelat.",
-            "en": "Walk along these ancient fortified walls that once protected the city from invasions; wear sturdy shoes as the ground around the historical ruins can be uneven."
+            "en": "Walk along these ancient fortified walls that once protected the city from invasions; wear sturdy shoes as the ground around the historical ruins can be uneven.",
+            "fr": "Parcourez ces anciennes murailles fortifiées qui protégeaient autrefois la ville des invasions ; portez des chaussures solides car le sol autour des ruines historiques peut être inégal."
           }
         },
         {
@@ -113,7 +121,8 @@
             "de": "Segway-Tour Ile Rousse",
             "hu": "Segway-túra Ile Rousse",
             "ro": "Tur cu Segway Ile Rousse",
-            "en": "Segway Tour Ile Rousse"
+            "en": "Segway Tour Ile Rousse",
+            "fr": "Visite en Segway Île‑Rousse"
           },
           "coords": [
             8.935436,
@@ -128,7 +137,8 @@
             "de": "Gleiten Sie auf einer geführten Segway-Tour mühelos durch die charmanten Straßen, aber buchen Sie Ihren Platz in den geschäftigen Sommermonaten unbedingt im Voraus.",
             "hu": "Guruljon könnyedén a hangulatos utcákon egy vezetett Segway-túrán, de a forgalmas nyári hónapokban mindenképpen foglalja le előre a helyét az interneten.",
             "ro": "Alunecați fără efort pe străzile fermecătoare într-un tur ghidat cu Segway-ul, dar asigurați-vă că rezervați locul în avans în timpul lunilor aglomerate de vară.",
-            "en": "Glide effortlessly through the charming streets on a guided Segway tour to cover more ground, but be sure to book your slot in advance during the busy summer months."
+            "en": "Glide effortlessly through the charming streets on a guided Segway tour to cover more ground, but be sure to book your slot in advance during the busy summer months.",
+            "fr": "Glissez sans effort dans les charmantes rues lors d’une visite guidée en Segway pour couvrir plus de terrain, mais pensez à réserver votre créneau à l’avance pendant les mois estivaux très fréquentés."
           }
         },
         {
@@ -136,7 +146,8 @@
             "de": "Leuchtturm von Pietra",
             "hu": "Pietra világítótorony",
             "ro": "Farul Pietra",
-            "en": "Pietra Lighthouse"
+            "en": "Pietra Lighthouse",
+            "fr": "Phare Pietra"
           },
           "coords": [
             8.932084,
@@ -151,7 +162,8 @@
             "de": "Wandern Sie zu diesem ikonischen Leuchtturm, um einen Panoramablick auf die roten Granitinseln zu genießen; besuchen Sie ihn am späten Nachmittag für die besten Fotos.",
             "hu": "Túrázzon fel ehhez az ikonikus világítótoronyhoz, ahonnan lenyűgöző panoráma nyílik a vörös gránitszigetekre; látogasson el késő délután a legjobb fényképekhez.",
             "ro": "Urcați la acest far emblematic pentru vederi panoramice spectaculoase asupra insulelor de granit roșu; vizitați-l după-amiaza târziu pentru cele mai bune fotografii.",
-            "en": "Hike up to this iconic lighthouse for spectacular panoramic views over the red granite islands; visit during the late afternoon for the most stunning golden hour photos."
+            "en": "Hike up to this iconic lighthouse for spectacular panoramic views over the red granite islands; visit during the late afternoon for the most stunning golden hour photos.",
+            "fr": "Montez jusqu’à ce phare emblématique pour des vues panoramiques spectaculaires sur les îles de granit rouge ; visitez-le en fin d’après‑midi pour des photos sublimes à l’heure dorée."
           }
         },
         {
@@ -159,7 +171,8 @@
             "de": "Strand Napoléon",
             "hu": "Napoléon strand",
             "ro": "Plaja Napoléon",
-            "en": "Napoléon Beach"
+            "en": "Napoléon Beach",
+            "fr": "Plage Napoléon"
           },
           "coords": [
             8.941385,
@@ -174,7 +187,8 @@
             "de": "Entspannen Sie an diesem gut zugänglichen Stadtstrand mit weichem, weißem Sand; mieten Sie einen Sonnenschirm, da es an der Küste kaum natürlichen Schatten gibt.",
             "hu": "Pihenjen ezen a könnyen megközelíthető városközponti strandon, ahol puha fehér homok várja; béreljen napernyőt a közelben, mivel a parton nagyon kevés az árnyék.",
             "ro": "Relaxați-vă pe această plajă accesibilă din centru, cu nisip alb și ape cristaline; închiriați o umbrelă, deoarece umbra naturală este extrem de limitată pe țărm.",
-            "en": "Relax on this easily accessible downtown beach with soft white sand and crystal-clear waters; rent a parasol nearby as natural shade is extremely limited along the shore."
+            "en": "Relax on this easily accessible downtown beach with soft white sand and crystal-clear waters; rent a parasol nearby as natural shade is extremely limited along the shore.",
+            "fr": "Détendez‑vous sur cette plage du centre‑ville facilement accessible, au sable blanc et aux eaux cristallines ; louez un parasol à proximité car l’ombre naturelle le long du rivage est très limitée."
           }
         }
       ],
@@ -182,7 +196,8 @@
         "de": "Beginnen Sie Ihren Morgen in der belebten Markthalle und genießen Sie authentische Aromen, bevor Sie die majestätischen Kirchen besuchen. Mittags wandern Sie durch die historischen Festungsruinen und machen eine Segway-Tour. Der Nachmittag belohnt Sie mit atemberaubenden Küstenpanoramen vom Leuchtturm Pietra. Lassen Sie den Tag entspannt am Plage Napoléon ausklingen.",
         "hu": "Kezdje a reggelt a nyüzsgő fedett piacon a helyi ízek élvezetével, mielőtt meglátogatná a fenséges templomokat. Délben sétáljon végig a történelmi romokon és vegyen részt egy szórakoztató Segway-túrán. A délután lélegzetelállító tengerparti panorámával jutalmazza a világítótoronyból. Zárja a napot a Plage Napoléon lágy hullámai mellett pihenve az este közeledtével.",
         "ro": "Începeți dimineața la piața acoperită plină de viață, bucurându-vă de arome locale, înainte de a vizita bisericile. La prânz, plimbați-vă prin ruinele fortificate și experimentați un tur distractiv cu Segway. După-amiaza vă răsplătește cu panorame de coastă uluitoare de la farul Pietra. Încheiați ziua relaxându-vă lângă valurile blânde de la Plage Napoléon odată cu lăsarea serii.",
-        "en": "Start your morning at the bustling covered market, enjoying the authentic local flavors, before visiting the majestic churches. By midday, wander through the historic fortified ruins and experience a fun Segway tour. The afternoon rewards you with breathtaking coastal panoramas from the Pietra lighthouse. Conclude your day relaxing by the gentle waves at Plage Napoléon as evening approaches."
+        "en": "Start your morning at the bustling covered market, enjoying the authentic local flavors, before visiting the majestic churches. By midday, wander through the historic fortified ruins and experience a fun Segway tour. The afternoon rewards you with breathtaking coastal panoramas from the Pietra lighthouse. Conclude your day relaxing by the gentle waves at Plage Napoléon as evening approaches.",
+        "fr": "Commencez la matinée au marché couvert animé pour goûter aux saveurs locales, puis visitez les majestueuses églises. À midi, flânez dans les ruines fortifiées historiques et profitez d’une amusante visite en Segway. L’après‑midi vous récompense par de superbes panoramas côtiers depuis le phare de Pietra. Concluez la journée en vous relaxant au bord des vagues à Plage Napoléon en fin de journée."
       },
       "variants": {
         "rainy": {
@@ -190,7 +205,8 @@
             "de": "Der Morgen beginnt geschützt unter den Säulen der Markthalle, wo man lokale Spezialitäten ohne nass zu werden entdecken kann. Mittags bieten die Kirchen der Altstadt einen trockenen und besinnlichen Rückzugsort vor den Regenschauern. Am Nachmittag führt der Weg entlang der Festungsmauern zum Leuchtturm, wo das stürmische Meer ein dramatisches Schauspiel bietet. Der Abend klingt bei einem Spaziergang am Napoléon-Strand aus, bevor man in einem der gemütlichen Cafés Zuflucht sucht.",
             "hu": "A reggel a fedett piac oszlopai alatt kezdődik, ahol a helyi finomságokat az esőtől védetten fedezhetjük fel. Délben az óváros templomai nyújtanak száraz és meghitt menedéket a záporok elől. Délután az erődítmény falai mentén a világítótoronyhoz megyünk, ahol a viharos tenger látványa drámai élményt nyújt. Az este a Napoléon-strandon tett sétával zárul, mielőtt egy közeli hangulatos kávézóban keresnénk oltalmat.",
             "ro": "Dimineața începe la adăpostul coloanelor pieței acoperite, unde puteți descoperi specialități locale fără a vă uda. La prânz, bisericile din orașul vechi oferă un refugiu uscat și liniștit în fața averselor. După-amiaza, drumul de-a lungul zidurilor cetății duce spre far, unde marea agitată oferă un spectacol dramatic. Seara se încheie cu o plimbare pe plaja Napoléon, înainte de a căuta adăpost într-o cafenea primitoare din apropiere.",
-            "en": "The morning begins protected under the columns of the covered market, where you can discover local specialties without getting wet. At noon, the churches of the old town provide a dry and peaceful refuge from the rain showers. In the afternoon, the path along the fortress walls leads to the lighthouse, where the stormy sea offers a dramatic spectacle. The evening ends with a stroll on Napoléon Beach before seeking shelter in a cozy nearby cafe."
+            "en": "The morning begins protected under the columns of the covered market, where you can discover local specialties without getting wet. At noon, the churches of the old town provide a dry and peaceful refuge from the rain showers. In the afternoon, the path along the fortress walls leads to the lighthouse, where the stormy sea offers a dramatic spectacle. The evening ends with a stroll on Napoléon Beach before seeking shelter in a cozy nearby cafe.",
+            "fr": "La matinée commence à l’abri sous les colonnes du marché couvert, où vous pouvez découvrir les spécialités locales sans vous mouiller. À midi, les églises de la vieille ville offrent un refuge sec et paisible contre les averses. L’après‑midi, le chemin le long des remparts mène au phare, où la mer agitée offre un spectacle dramatique. La soirée se termine par une promenade sur la Plage Napoléon avant de chercher un abri dans un café chaleureux à proximité."
           },
           "stops": [
             {
@@ -198,13 +214,15 @@
                 "de": "Markthalle",
                 "hu": "Fedett piac",
                 "ro": "Piața acoperită",
-                "en": "Covered Market"
+                "en": "Covered Market",
+                "fr": "Marché couvert"
               },
               "tip_5lang": {
                 "de": "Genießen Sie die Düfte korsischer Produkte unter dem schützenden Dach der historischen Säulen. Ein perfekter Ort, um den ersten Schauer bei einem Kaffee abzuwarten.",
                 "hu": "Élvezze a korzikai termékek illatát a történelmi oszlopok védelmező teteje alatt. Tökéletes hely az első zápor kivárására egy kávé mellett.",
                 "ro": "Bucurați-vă de aromele produselor corsicane sub acoperișul protector al coloanelor istorice. Un loc perfect pentru a aștepta trecerea primei averse la o cafea.",
-                "en": "Enjoy the aromas of Corsican products under the protective roof of the historic columns. A perfect place to wait out the first shower with a coffee."
+                "en": "Enjoy the aromas of Corsican products under the protective roof of the historic columns. A perfect place to wait out the first shower with a coffee.",
+                "fr": "Savourez les arômes des produits corses sous la toiture protectrice des colonnes historiques. Un endroit parfait pour attendre la première averse en prenant un café."
               }
             },
             {
@@ -212,13 +230,15 @@
                 "de": "Kirche der Unbefleckten Empfängnis",
                 "hu": "Szeplőtelen Fogantatás temploma",
                 "ro": "Biserica Imaculata Concepție",
-                "en": "Church of the Immaculate Conception"
+                "en": "Church of the Immaculate Conception",
+                "fr": "Église de l’Immaculée‑Conception"
               },
               "tip_5lang": {
                 "de": "Bewundern Sie die prächtige Innenausstattung, während draußen der Regen prasselt. Achten Sie auf die Stufen am Eingang, die bei Nässe rutschig sein können.",
                 "hu": "Csodálja meg a pompás belső teret, miközben kint kopog az eső. Ügyeljen a bejárati lépcsőkre, amelyek nedvesen csúszósak lehetnek.",
                 "ro": "Admirați interiorul splendid în timp ce afară răpăie ploaia. Atenție la treptele de la intrare, care pot fi alunecoase când sunt ude.",
-                "en": "Admire the splendid interior while the rain patters outside. Watch out for the entrance steps, which can be slippery when wet."
+                "en": "Admire the splendid interior while the rain patters outside. Watch out for the entrance steps, which can be slippery when wet.",
+                "fr": "Admirez le splendide intérieur pendant que la pluie tambourine dehors. Attention aux marches d’entrée, qui peuvent être glissantes lorsqu’elles sont mouillées."
               }
             },
             {
@@ -226,13 +246,15 @@
                 "de": "Barmherzigkeitskirche",
                 "hu": "Irgalmasság temploma",
                 "ro": "Biserica Milostivirii",
-                "en": "Church of Mercy"
+                "en": "Church of Mercy",
+                "fr": "Église de la Miséricorde"
               },
               "tip_5lang": {
                 "de": "Diese kleine Kirche bietet eine intime Atmosphäre für eine kurze Rast im Trockenen. Nutzen Sie die Zeit, um die feinen Details des Altars zu studieren.",
                 "hu": "Ez a kis templom meghitt hangulatot áraszt egy rövid, száraz pihenőhöz. Használja ki az időt az oltár finom részleteinek tanulmányozására.",
                 "ro": "Această biserică mică oferă o atmosferă intimă pentru un scurt popas la uscat. Folosiți timpul pentru a studia detaliile fine ale altarului.",
-                "en": "This small church offers an intimate atmosphere for a short rest in the dry. Use the time to study the fine details of the altar."
+                "en": "This small church offers an intimate atmosphere for a short rest in the dry. Use the time to study the fine details of the altar.",
+                "fr": "Cette petite église offre une atmosphère intime pour une courte pause au sec. Profitez‑en pour étudier les fins détails de l’autel."
               }
             },
             {
@@ -240,13 +262,15 @@
                 "de": "Überreste der Festungsmauer",
                 "hu": "Erődítmény romjai",
                 "ro": "Vestigiile Zidului Fortificat",
-                "en": "Remains of the Fortified Wall"
+                "en": "Remains of the Fortified Wall",
+                "fr": "Vestiges de la muraille fortifiée"
               },
               "tip_5lang": {
                 "de": "Die dunklen Steine der Ruinen wirken bei Regen besonders markant und geschichtsträchtig. Tragen Sie festes Schuhwerk, da das Pflaster hier uneben und glatt ist.",
                 "hu": "A romok sötét kövei esőben különösen karakteresek és történelmi hangulatúak. Viseljen stabil cipőt, mert az itteni burkolat egyenetlen és csúszik.",
                 "ro": "Pietrele întunecate ale ruinelor par deosebit de marcante și pline de istorie pe ploaie. Purtați încălțăminte stabilă, deoarece pavajul este denivelat și alunecos.",
-                "en": "The dark stones of the ruins look particularly striking and historic in the rain. Wear sturdy shoes as the pavement here is uneven and slick."
+                "en": "The dark stones of the ruins look particularly striking and historic in the rain. Wear sturdy shoes as the pavement here is uneven and slick.",
+                "fr": "Les pierres sombres des ruines paraissent particulièrement frappantes et chargées d’histoire sous la pluie. Portez des chaussures solides car le sol y est inégal et glissant."
               }
             },
             {
@@ -254,13 +278,15 @@
                 "de": "Segway-Tour Ile Rousse",
                 "hu": "Segway-túra Ile Rousse",
                 "ro": "Tur cu Segway Ile Rousse",
-                "en": "Segway Tour Ile Rousse"
+                "en": "Segway Tour Ile Rousse",
+                "fr": "Tour en Segway Ile Rousse"
               },
               "tip_5lang": {
                 "de": "Auch bei leichtem Regen ein Spaß, solange Sie die bereitgestellten Ponchos nutzen. Fahren Sie vorsichtig über Pfützen, um Spritzwasser zu vermeiden.",
                 "hu": "Enyhe esőben is élvezetes, amíg a biztosított esőköpenyt használja. Hajtson óvatosan a tócsák felett, hogy elkerülje a felfröccsenő vizet.",
                 "ro": "Distractiv chiar și pe ploaie ușoară, atâta timp cât folosiți pelerinele oferite. Conduceți cu atenție peste bălți pentru a evita stropirea.",
-                "en": "Fun even in light rain, as long as you use the provided ponchos. Drive carefully over puddles to avoid splashing water."
+                "en": "Fun even in light rain, as long as you use the provided ponchos. Drive carefully over puddles to avoid splashing water.",
+                "fr": "Amusant même sous une pluie légère, à condition d’utiliser les ponchos fournis. Roulez prudemment sur les flaques pour éviter les éclaboussures."
               }
             },
             {
@@ -268,13 +294,15 @@
                 "de": "Leuchtturm von Pietra",
                 "hu": "Pietra világítótorony",
                 "ro": "Farul Pietra",
-                "en": "Pietra Lighthouse"
+                "en": "Pietra Lighthouse",
+                "fr": "Phare de Pietra"
               },
               "tip_5lang": {
                 "de": "Das graue Wetter verleiht dem roten Felsen eine mystische Aura. Halten Sie sich von den Klippen fern, da der Wind bei Regen oft stark auffrischt.",
                 "hu": "A szürke idő misztikus aurát kölcsönöz a vörös szikláknak. Maradjon távol a sziklaszélektől, mert esőben a szél gyakran hirtelen felerősödik.",
                 "ro": "Vremea gri conferă stâncilor roșii o aură mistică. Stați departe de marginea stâncilor, deoarece vântul se întețește adesea brusc pe ploaie.",
-                "en": "The gray weather gives the red rocks a mystical aura. Stay away from the cliff edges, as the wind often picks up sharply during rain."
+                "en": "The gray weather gives the red rocks a mystical aura. Stay away from the cliff edges, as the wind often picks up sharply during rain.",
+                "fr": "Le temps gris donne aux rochers rouges une aura mystique. Éloignez‑vous des bords des falaises, car le vent se lève souvent brusquement pendant la pluie."
               }
             },
             {
@@ -282,13 +310,15 @@
                 "de": "Strand Napoléon",
                 "hu": "Napoléon strand",
                 "ro": "Plaja Napoléon",
-                "en": "Napoléon Beach"
+                "en": "Napoléon Beach",
+                "fr": "Plage Napoléon"
               },
               "tip_5lang": {
                 "de": "Ein kurzer Spaziergang am Meer ist erfrischend, wenn die Wellen höher schlagen. Ein großer Regenschirm schützt Sie vor dem seitlich peitschenden Wind.",
                 "hu": "Egy rövid tengerparti séta frissítő, amikor a hullámok magasabbra csapnak. Egy nagy esernyő megvédi az oldalról feltámadó szél ellen.",
                 "ro": "O scurtă plimbare pe malul mării este revigorantă când valurile sunt mari. O umbrelă mare vă va proteja de vântul care bate din lateral.",
-                "en": "A short walk by the sea is refreshing when the waves crash higher. A large umbrella will protect you against the lashing side winds."
+                "en": "A short walk by the sea is refreshing when the waves crash higher. A large umbrella will protect you against the lashing side winds.",
+                "fr": "Une courte promenade au bord de la mer est revigorante quand les vagues frappent plus fort. Un grand parapluie vous protégera des vents latéraux cinglants."
               }
             }
           ]
@@ -298,7 +328,8 @@
             "de": "An einem klaren Wintermorgen ist die Luft in Ile Rousse herrlich frisch und belebend. Vormittags laden die ruhigen Gassen und Kirchen zu einer entspannten Erkundung ohne die Sommermassen ein. Nachmittags bietet die Wanderung zum Leuchtturm die beste Fernsicht des Jahres, bevor die Sonne gegen 17:00 Uhr spektakulär untergeht. Der Abend wird in den beleuchteten Straßen des Zentrums verbracht, wo man die authentische korsische Winteratmosphäre spüren kann.",
             "hu": "Egy tiszta téli reggelen az idő Ile Rousse-ban csodálatosan friss és élénkítő. Délelőtt a csendes utcák és templomok nyugodt felfedezésre hívnak a nyári tömeg nélkül. Délután a világítótoronyhoz vezető túra az év legjobb kilátását kínálja, mielőtt a nap 17:00 körül látványosan lebukik. Az estét a központ kivilágított utcáin töltjük, ahol átérezhetjük az autentikus korzikai téli hangulatot.",
             "ro": "Într-o dimineață senină de iarnă, aerul din Ile Rousse este minunat de proaspăt și revigorant. Dimineața, străzile liniștite și bisericile vă invită la o explorare relaxată, fără mulțimile de vară. După-amiaza, drumeția spre far oferă cea mai bună vizibilitate din an, înainte ca soarele să apună spectaculos în jurul orei 17:00. Seara este petrecută pe străzile iluminate ale centrului, unde puteți simți atmosfera autentică de iarnă corsicană.",
-            "en": "On a clear winter morning, the air in Ile Rousse is wonderfully fresh and invigorating. In the morning, the quiet streets and churches invite a relaxed exploration without the summer crowds. In the afternoon, the hike to the lighthouse offers the best visibility of the year before the sun sets spectacularly around 5:00 PM. The evening is spent in the illuminated streets of the center, where you can feel the authentic Corsican winter atmosphere."
+            "en": "On a clear winter morning, the air in Ile Rousse is wonderfully fresh and invigorating. In the morning, the quiet streets and churches invite a relaxed exploration without the summer crowds. In the afternoon, the hike to the lighthouse offers the best visibility of the year before the sun sets spectacularly around 5:00 PM. The evening is spent in the illuminated streets of the center, where you can feel the authentic Corsican winter atmosphere.",
+            "fr": "Par une matinée d’hiver claire, l’air à Ile Rousse est merveilleusement frais et vivifiant. Le matin, les rues et les églises calmes invitent à une exploration détendue sans la foule estivale. L’après‑midi, la randonnée vers le phare offre la meilleure visibilité de l’année avant qu’un coucher de soleil spectaculaire n’ait lieu vers 17h00. La soirée se passe dans les rues éclairées du centre, où l’on ressent l’authentique atmosphère hivernale corse."
           },
           "stops": [
             {
@@ -306,13 +337,15 @@
                 "de": "Markthalle",
                 "hu": "Fedett piac",
                 "ro": "Piața acoperită",
-                "en": "Covered Market"
+                "en": "Covered Market",
+                "fr": "Marché couvert"
               },
               "tip_5lang": {
                 "de": "Beobachten Sie das lokale Leben beim Einkauf von Wintervorräten. Ziehen Sie sich warm an, da der Wind durch die offenen Arkaden wehen kann.",
                 "hu": "Figyelje meg a helyi életet a téli készletek beszerzése közben. Öltözzön rétegesen, mert a szél átfújhat a nyitott árkádok között.",
                 "ro": "Observați viața locală în timp ce faceți cumpărături pentru iarnă. Îmbrăcați-vă gros, deoarece vântul poate sufla prin arcadele deschise.",
-                "en": "Observe local life while shopping for winter supplies. Dress warmly as the wind can blow through the open arcades."
+                "en": "Observe local life while shopping for winter supplies. Dress warmly as the wind can blow through the open arcades.",
+                "fr": "Observez la vie locale tout en faisant des provisions d’hiver. Habillez‑vous chaudement car le vent peut traverser les arcades ouvertes."
               }
             },
             {
@@ -320,13 +353,15 @@
                 "de": "Kirche der Unbefleckten Empfängnis",
                 "hu": "Szeplőtelen Fogantatás temploma",
                 "ro": "Biserica Imaculata Concepție",
-                "en": "Church of the Immaculate Conception"
+                "en": "Church of the Immaculate Conception",
+                "fr": "Église de l’Immaculée‑Conception"
               },
               "tip_5lang": {
                 "de": "Die Kirche bietet eine angenehme Stille und Schutz vor der kühlen Brise. Nutzen Sie das milde Licht für Fotos der beeindruckenden Deckenmalereien.",
                 "hu": "A templom kellemes csendet és védelmet nyújt a hűvös szellő elől. Használja ki a lágy fényeket a lenyűgöző mennyezeti festmények fotózásához.",
                 "ro": "Biserica oferă o liniște plăcută și protecție împotriva adierii reci. Profitați de lumina blândă pentru a fotografia picturile impresionante de pe tavan.",
-                "en": "The church offers pleasant silence and protection from the cool breeze. Use the mild light for photos of the impressive ceiling paintings."
+                "en": "The church offers pleasant silence and protection from the cool breeze. Use the mild light for photos of the impressive ceiling paintings.",
+                "fr": "L’église offre un silence agréable et une protection contre la brise fraîche. Profitez de la lumière douce pour photographier les peintures impressionnantes du plafond."
               }
             },
             {
@@ -334,13 +369,15 @@
                 "de": "Barmherzigkeitskirche",
                 "hu": "Irgalmasság temploma",
                 "ro": "Biserica Milostivirii",
-                "en": "Church of Mercy"
+                "en": "Church of Mercy",
+                "fr": "Église de la Miséricorde"
               },
               "tip_5lang": {
                 "de": "Ein spiritueller Ort, der im Winter besonders friedlich wirkt. Ein kurzer Aufenthalt im Inneren hilft, die Hände für den weiteren Weg aufzuwärmen.",
                 "hu": "Spirituális hely, amely télen különösen békésnek tűnik. Egy rövid benti tartózkodás segít felmelegíteni a kezeket a további úthoz.",
                 "ro": "Un loc spiritual care pare deosebit de pașnic iarna. O scurtă ședere în interior ajută la încălzirea mâinilor pentru continuarea drumului.",
-                "en": "A spiritual place that feels especially peaceful in winter. A short stay inside helps warm up your hands for the rest of the journey."
+                "en": "A spiritual place that feels especially peaceful in winter. A short stay inside helps warm up your hands for the rest of the journey.",
+                "fr": "Un lieu spirituel qui paraît particulièrement paisible en hiver. Un court passage à l’intérieur aide à réchauffer les mains pour la suite du trajet."
               }
             },
             {
@@ -348,13 +385,15 @@
                 "de": "Überreste der Festungsmauer",
                 "hu": "Erődítmény romjai",
                 "ro": "Vestigiile Zidului Fortificat",
-                "en": "Remains of the Fortified Wall"
+                "en": "Remains of the Fortified Wall",
+                "fr": "Vestiges de la muraille fortifiée"
               },
               "tip_5lang": {
                 "de": "Ohne Laub und Hitze sind die historischen Strukturen besser erkennbar. Der Blick auf das tiefblaue Wintermeer von hier oben ist unvergleichlich.",
                 "hu": "Lombok és hőség nélkül a történelmi struktúrák jobban felismerhetők. A kilátás a mélykék téli tengerre innen fentről páratlan.",
                 "ro": "Fără frunziș și căldură, structurile istorice sunt mai ușor de recunoscut. Vederea spre marea albastru închis de iarnă de aici de sus este inegalabilă.",
-                "en": "Without foliage and heat, the historical structures are easier to recognize. The view of the deep blue winter sea from up here is incomparable."
+                "en": "Without foliage and heat, the historical structures are easier to recognize. The view of the deep blue winter sea from up here is incomparable.",
+                "fr": "Sans feuillage ni chaleur, les structures historiques sont plus faciles à discerner. La vue sur la mer d’un bleu profond en hiver depuis ici est incomparable."
               }
             },
             {
@@ -362,13 +401,15 @@
                 "de": "Segway-Tour Ile Rousse",
                 "hu": "Segway-túra Ile Rousse",
                 "ro": "Tur cu Segway Ile Rousse",
-                "en": "Segway Tour Ile Rousse"
+                "en": "Segway Tour Ile Rousse",
+                "fr": "Tour en Segway Ile Rousse"
               },
               "tip_5lang": {
                 "de": "Die kühle Fahrtwind macht Handschuhe und eine Mütze unter dem Helm unverzichtbar. Die leeren Promenaden erlauben eine entspannte Fahrt.",
                 "hu": "A hűvös menetszél miatt a kesztyű és a sisak alatti sapka elengedhetetlen. Az üres sétányok lehetővé teszik a nyugodt haladást.",
                 "ro": "Vântul rece generat de deplasare face ca mănușile și căciula sub cască să fie indispensabile. Promenada goală permite o plimbare relaxată.",
-                "en": "The cool wind from moving makes gloves and a hat under the helmet essential. The empty promenades allow for a very relaxed ride."
+                "en": "The cool wind from moving makes gloves and a hat under the helmet essential. The empty promenades allow for a very relaxed ride.",
+                "fr": "Le vent frais dû au déplacement rend gants et bonnet sous le casque indispensables. Les promenades vides permettent une balade très détendue."
               }
             },
             {
@@ -376,13 +417,15 @@
                 "de": "Leuchtturm von Pietra",
                 "hu": "Pietra világítótorony",
                 "ro": "Farul Pietra",
-                "en": "Pietra Lighthouse"
+                "en": "Pietra Lighthouse",
+                "fr": "Phare de Pietra"
               },
               "tip_5lang": {
                 "de": "Der perfekte Spot für den Sonnenuntergang um 17:00 Uhr. Bringen Sie eine Thermoskanne mit Tee mit, um die goldene Stunde warm zu genießen.",
                 "hu": "Tökéletes helyszín az 17:00 órai naplementéhez. Vigyen magával egy termosz teát, hogy melegen élvezhesse az aranyórát.",
                 "ro": "Locul perfect pentru apusul soarelui de la ora 17:00. Aduceți un termos cu ceai pentru a vă bucura la căldură de ora de aur.",
-                "en": "The perfect spot for the sunset at 5:00 PM. Bring a thermos with tea to enjoy the golden hour while staying warm."
+                "en": "The perfect spot for the sunset at 5:00 PM. Bring a thermos with tea to enjoy the golden hour while staying warm.",
+                "fr": "L’endroit parfait pour le coucher du soleil à 17h00. Apportez une thermos de thé pour profiter de l’heure dorée tout en restant au chaud."
               }
             },
             {
@@ -390,13 +433,15 @@
                 "de": "Strand Napoléon",
                 "hu": "Napoléon strand",
                 "ro": "Plaja Napoléon",
-                "en": "Napoléon Beach"
+                "en": "Napoléon Beach",
+                "fr": "Plage Napoléon"
               },
               "tip_5lang": {
                 "de": "Ein einsamer Strandspaziergang ist ideal, um den Tag Revue passieren zu lassen. Tragen Sie winddichte Kleidung, da es nach Sonnenuntergang schnell abkühlt.",
                 "hu": "Egy magányos tengerparti séta ideális a nap értékeléséhez. Viseljen szélálló ruhát, mert naplemente után gyorsan lehűl az idő.",
                 "ro": "O plimbare solitară pe plajă este ideală pentru a trece în revistă ziua. Purtați haine rezistente la vânt, deoarece se răcește repede după apus.",
-                "en": "A solitary beach walk is ideal for reflecting on the day. Wear windproof clothing as it cools down quickly after sunset."
+                "en": "A solitary beach walk is ideal for reflecting on the day. Wear windproof clothing as it cools down quickly after sunset.",
+                "fr": "Une promenade solitaire sur la plage est idéale pour réfléchir à la journée. Portez des vêtements coupe‑vent car il fait vite plus frais après le coucher du soleil."
               }
             }
           ]
@@ -416,7 +461,8 @@
             "de": "Markthalle",
             "hu": "Fedett piac",
             "ro": "Piața acoperită",
-            "en": "Covered Market"
+            "en": "Covered Market",
+            "fr": "Marché couvert"
           },
           "coords": [
             8.938315,
@@ -431,7 +477,8 @@
             "de": "Erkunden Sie diese lebhafte Markthalle mit ihren griechischen Säulen, um authentischen korsischen Käse zu probieren, aber kommen Sie früh für die beste Auswahl.",
             "hu": "Fedezze fel ezt a görög oszlopos, élettel teli fedett piacot, ahol megkóstolhatja a korzikai sajtokat, de érkezzen korán a legjobb friss árukért.",
             "ro": "Explorați această piață acoperită plină de viață cu coloane grecești pentru a gusta brânzeturi corsicane, dar ajungeți devreme pentru cele mai bune produse proaspete.",
-            "en": "Explore this lively covered market with its Greek-style columns to sample authentic Corsican cheeses, but arrive early to get the best fresh local produce."
+            "en": "Explore this lively covered market with its Greek-style columns to sample authentic Corsican cheeses, but arrive early to get the best fresh local produce.",
+            "fr": "Explorez ce marché couvert animé aux colonnes de style grec pour goûter des fromages corses authentiques, mais arrivez tôt pour obtenir les meilleurs produits frais locaux."
           }
         },
         {
@@ -439,7 +486,8 @@
             "de": "Alte Getreidemühle",
             "hu": "Régi búzamalom",
             "ro": "Vechea moară de grâu",
-            "en": "Old Wheat Mill"
+            "en": "Old Wheat Mill",
+            "fr": "Vieux moulin à blé"
           },
           "coords": [
             8.938774,
@@ -454,7 +502,8 @@
             "de": "Machen Sie eine Zeitreise in dieser historischen Getreidemühle; das Gelände ist teilweise von Pflanzen überwuchert, daher werden lange Hosen für die Erkundung empfohlen.",
             "hu": "Lépjen vissza az időben ennél a történelmi búzamalomnál; a terület részben benőtt, ezért hosszú nadrág viselése erősen ajánlott a környék alapos felfedezéséhez.",
             "ro": "Întoarceți-vă în timp la această moară istorică de grâu; situl este parțial acoperit de vegetație, așa că pantalonii lungi sunt recomandați pentru explorare.",
-            "en": "Step back in time at this historic wheat mill that highlights Corsica's agricultural past; the site is partially overgrown, so long trousers are recommended for exploring."
+            "en": "Step back in time at this historic wheat mill that highlights Corsica's agricultural past; the site is partially overgrown, so long trousers are recommended for exploring.",
+            "fr": "Faites un retour dans le passé à ce moulin à blé historique qui met en valeur le passé agricole de la Corse ; le site est partiellement envahi par la végétation, donc un pantalon long est recommandé pour l’exploration."
           }
         },
         {
@@ -462,7 +511,8 @@
             "de": "Semaphor von Ile Rousse",
             "hu": "Ile Rousse-i jelzőállomás",
             "ro": "Semaforul din Ile Rousse",
-            "en": "Ile Rousse Semaphore"
+            "en": "Ile Rousse Semaphore",
+            "fr": "Sémaphore de l’Île Rousse"
           },
           "coords": [
             8.922685,
@@ -477,7 +527,8 @@
             "de": "Genießen Sie einen ruhigen Spaziergang zu dieser maritimen Signalstation mit weitem Blick auf die Küste; vergessen Sie nicht Ihr Fernglas, um die Fähren zu beobachten.",
             "hu": "Élvezze a békés sétát ehhez a tengerészeti jelzőállomáshoz, ahonnan csodálatos kilátás nyílik; ne felejtse el a távcsövét, hogy megfigyelhesse a távoli kompokat.",
             "ro": "Bucurați-vă de o plimbare liniștită până la această stație de semnalizare maritimă; nu uitați binoclul pentru a observa feriboturile care trec în depărtare.",
-            "en": "Enjoy a peaceful walk up to this maritime signal station offering sweeping views of the coastline; don't forget your binoculars to spot passing ferries in the distance."
+            "en": "Enjoy a peaceful walk up to this maritime signal station offering sweeping views of the coastline; don't forget your binoculars to spot passing ferries in the distance.",
+            "fr": "Appréciez une promenade paisible jusqu’à cette station de signalisation maritime offrant des vues étendues sur la côte ; n’oubliez pas vos jumelles pour repérer les ferries au loin."
           }
         },
         {
@@ -485,7 +536,8 @@
             "de": "Strand von Bodri",
             "hu": "Bodri strand",
             "ro": "Plaja Bodri",
-            "en": "Bodri Beach"
+            "en": "Bodri Beach",
+            "fr": "Plage de Bodri"
           },
           "coords": [
             8.914334,
@@ -500,7 +552,8 @@
             "de": "Entfliehen Sie an diesen unberührten Strand, der für seinen feinen Sand bekannt ist; der Weg vom Parkplatz ist etwas steil, packen Sie also leicht für den Abstieg.",
             "hu": "Meneküljön el erre az érintetlen strandra, amely finom homokjáról híres; a parkolóból vezető út kissé meredek, ezért érdemes könnyű csomaggal elindulni lefelé.",
             "ro": "Evadați pe această plajă curată, cunoscută pentru nisipul fin și apa turcoaz; drumul de la parcare este oarecum abrupt, deci faceți bagaje ușoare pentru coborâre.",
-            "en": "Escape to this pristine beach known for its fine sand and vibrant turquoise water; the walk from the parking area is somewhat steep, so pack light for the journey down."
+            "en": "Escape to this pristine beach known for its fine sand and vibrant turquoise water; the walk from the parking area is somewhat steep, so pack light for the journey down.",
+            "fr": "Évadez‑vous vers cette plage préservée connue pour son sable fin et son eau turquoise vibrante ; la marche depuis le parking est assez raide, donc voyagez léger pour la descente."
           }
         },
         {
@@ -508,7 +561,8 @@
             "de": "Strand Caruchettu",
             "hu": "Caruchettu strand",
             "ro": "Plaja Caruchettu",
-            "en": "Caruchettu Beach"
+            "en": "Caruchettu Beach",
+            "fr": "Plage de Caruchettu"
           },
           "coords": [
             8.947139,
@@ -523,7 +577,8 @@
             "de": "Entspannen Sie sich an diesem schönen, leicht felsigen Strand, der sich hervorragend zum Schnorcheln eignet; bringen Sie Wasserschuhe mit, um bequem ins Wasser zu gehen.",
             "hu": "Kapcsolódjon ki ezen a sziklásabb strandon, amely kiváló sznorkelezési lehetőségeket kínál; mindenképpen hozzon magával vízicipőt a kavicsos részek kényelmes átlépéséhez.",
             "ro": "Relaxați-vă pe această plajă minunată, ușor stâncoasă, excelentă pentru snorkeling; asigurați-vă că aduceți pantofi de apă pentru a naviga confortabil secțiunile cu pietriș.",
-            "en": "Unwind at this lovely, slightly rocky beach that offers excellent snorkeling opportunities; be sure to bring water shoes to comfortably navigate the pebbly sections."
+            "en": "Unwind at this lovely, slightly rocky beach that offers excellent snorkeling opportunities; be sure to bring water shoes to comfortably navigate the pebbly sections.",
+            "fr": "Détendez‑vous sur cette jolie plage légèrement rocheuse qui offre d’excellentes possibilités de snorkeling ; pensez à apporter des chaussures d’eau pour circuler confortablement sur les sections de galets."
           }
         }
       ],
@@ -531,7 +586,8 @@
         "de": "Ihr Radtag beginnt am bunten Markt, bevor Sie in die Geschichte der alten Getreidemühle eintauchen. Mittags erreichen Sie den maritimen Semaphor für herrliche Küstenausblicke. Verbringen Sie den warmen Nachmittag mit Schwimmen im kristallklaren Wasser des Plage de Bodri. Radeln Sie gegen Abend zum Plage Caruchettu für einen ruhigen Abschluss Ihres schönen Abenteuers.",
         "hu": "A kerékpáros nap a színes piacon kezdődik, majd a régi búzamalom érdekes történetének felfedezésével folytatódik. Délben a tengerészeti jelzőállomáshoz ér, ahonnan csodás parti kilátás nyílik. Töltse a meleg délutánt a Plage de Bodri kristálytiszta vizében úszva. Estefelé tekerjen át a Plage Caruchettuhoz, hogy békésen fejezze be ezt a gyönyörű kalandot a szigeten.",
         "ro": "Ziua de ciclism începe la piața colorată înainte de a pedala pentru a descoperi istoria vechii mori de grâu. Prânzul vă aduce la semaforul maritim pentru vederi splendide de coastă. Petreceți după-amiaza caldă înotând în apele cristaline de la Plage de Bodri. Seara, pedalați spre Plage Caruchettu pentru un final senin al frumoasei dumneavoastră aventuri.",
-        "en": "Your cycling day starts at the colorful market before pedaling to uncover the intriguing history of the old wheat mill. Midday brings you to the maritime semaphore for splendid coastal views. Spend the warm afternoon swimming in the crystalline waters of Plage de Bodri. As evening draws near, cycle over to Plage Caruchettu for a serene end to your beautiful adventure."
+        "en": "Your cycling day starts at the colorful market before pedaling to uncover the intriguing history of the old wheat mill. Midday brings you to the maritime semaphore for splendid coastal views. Spend the warm afternoon swimming in the crystalline waters of Plage de Bodri. As evening draws near, cycle over to Plage Caruchettu for a serene end to your beautiful adventure.",
+        "fr": "Votre journée à vélo commence au marché coloré avant de pédaler pour découvrir l’histoire intrigante du vieux moulin à blé. À midi, rendez‑vous au sémaphore maritime pour de splendides vues côtières. Passez l’après‑midi à nager dans les eaux cristallines de la Plage de Bodri. À l’approche du soir, pédalez jusqu’à la Plage de Caruchettu pour une fin sereine de cette belle aventure."
       },
       "variants": {
         "rainy": {
@@ -539,7 +595,8 @@
             "de": "Trotz Regen bietet die Tour per Rad eine dynamische Perspektive auf die Küste. Der Morgen startet an der Markthalle, die Schutz für die erste Planung bietet. Mittags führt die Route zur alten Mühle, wobei man auf rutschigem Untergrund besonders vorsichtig fahren sollte. Nachmittags geht es zu den Stränden, wo der Regen die Landschaft in ein sanftes Grau taucht. Der Tag endet frühzeitig, da die Sichtverhältnisse bei Nässe und Dämmerung abnehmen.",
             "hu": "Az eső ellenére a kerékpáros túra dinamikus perspektívát kínál a partvonalra. A reggel a piacon indul, amely védelmet nyújt az első tervezéshez. Délben az út a régi malomhoz vezet, ahol a csúszós talajon különösen óvatosan kell haladni. Délután a strandok felé vesszük az irányt, ahol az eső lágy szürkére festi a tájat. A nap korán véget ér, mivel a látási viszonyok nedves időben és szürkületben romlanak.",
             "ro": "În ciuda ploii, turul cu bicicleta oferă o perspectivă dinamică asupra coastei. Dimineața începe la piață, care oferă adăpost pentru planificarea inițială. La prânz, traseul duce la vechea moară, unde trebuie condus cu mare atenție pe suprafețele alunecoase. După-amiaza mergem spre plaje, unde ploaia scaldă peisajul într-un gri suav. Ziua se încheie devreme, deoarece vizibilitatea scade pe carosabil umed și la amurg.",
-            "en": "Despite the rain, the bike tour offers a dynamic perspective on the coastline. The morning starts at the market, which provides shelter for initial planning. At noon, the route leads to the old mill, where you should ride particularly carefully on slippery ground. In the afternoon, head to the beaches where the rain paints the landscape in a soft gray. The day ends early as visibility decreases in wet conditions and twilight."
+            "en": "Despite the rain, the bike tour offers a dynamic perspective on the coastline. The morning starts at the market, which provides shelter for initial planning. At noon, the route leads to the old mill, where you should ride particularly carefully on slippery ground. In the afternoon, head to the beaches where the rain paints the landscape in a soft gray. The day ends early as visibility decreases in wet conditions and twilight.",
+            "fr": "Malgré la pluie, la sortie à vélo offre une perspective dynamique sur la côte. La matinée commence au marché, qui fournit un abri pour la planification initiale. À midi, la route mène au vieux moulin, où il faut rouler particulièrement prudemment sur les sols glissants. L’après‑midi, dirigez‑vous vers les plages où la pluie peint le paysage d’un doux gris. La journée se termine tôt car la visibilité diminue par temps humide et à la tombée du jour."
           },
           "stops": [
             {
@@ -547,13 +604,15 @@
                 "de": "Markthalle",
                 "hu": "Fedett piac",
                 "ro": "Piața acoperită",
-                "en": "Covered Market"
+                "en": "Covered Market",
+                "fr": "Marché couvert"
               },
               "tip_5lang": {
                 "de": "Beginnen Sie hier und prüfen Sie Ihre Bremsen im Trockenen. Ein heißes Getränk stärkt Sie für den Start in den Regen.",
                 "hu": "Kezdjen itt, és ellenőrizze a fékeket a szárazon. Egy forró ital erőt ad az esőben való induláshoz.",
                 "ro": "Începeți aici și verificați frânele la uscat. O băutură fierbinte vă va da energie pentru startul prin ploaie.",
-                "en": "Start here and check your brakes in the dry. A hot drink will strengthen you for the start into the rain."
+                "en": "Start here and check your brakes in the dry. A hot drink will strengthen you for the start into the rain.",
+                "fr": "Commencez ici et vérifiez vos freins au sec. Une boisson chaude vous renforcera pour l’entrée dans la pluie."
               }
             },
             {
@@ -561,13 +620,15 @@
                 "de": "Alte Getreidemühle",
                 "hu": "Régi búzamalom",
                 "ro": "Vechea moară de grâu",
-                "en": "Old Wheat Mill"
+                "en": "Old Wheat Mill",
+                "fr": "Vieux moulin à blé"
               },
               "tip_5lang": {
                 "de": "Die historischen Mauern bieten einen interessanten Stopp und etwas Windschutz. Achten Sie auf Matsch auf den unbefestigten Zufahrtswegen.",
                 "hu": "A történelmi falak érdekes megállót és némi szélvédelmet kínálnak. Ügyeljen a sárra a nem aszfaltozott bekötőutakon.",
                 "ro": "Zidurile istorice oferă un popas interesant și puțin adăpost împotriva vântului. Atenție la noroi pe drumurile de acces neasfaltate.",
-                "en": "The historic walls offer an interesting stop and some wind protection. Watch out for mud on the unpaved access paths."
+                "en": "The historic walls offer an interesting stop and some wind protection. Watch out for mud on the unpaved access paths.",
+                "fr": "Les murs historiques offrent un arrêt intéressant et une certaine protection contre le vent. Attention à la boue sur les chemins d’accès non revêtus."
               }
             },
             {
@@ -575,13 +636,15 @@
                 "de": "Semaphor von Ile Rousse",
                 "hu": "Ile Rousse-i jelzőállomás",
                 "ro": "Semaforul din Ile Rousse",
-                "en": "Ile Rousse Semaphore"
+                "en": "Ile Rousse Semaphore",
+                "fr": "Sémaphore de l’Île Rousse"
               },
               "tip_5lang": {
                 "de": "Die Auffahrt wärmt Sie auf, aber der Abstieg im Regen erfordert volle Konzentration. Tragen Sie eine Brille, um Regentropfen aus den Augen zu halten.",
                 "hu": "A felfelé menet felmelegíti, de az esőben való leereszkedés teljes koncentrációt igényel. Viseljen szemüveget az esőcseppek ellen.",
                 "ro": "Urcarea vă va încălzi, dar coborârea prin ploaie necesită concentrare maximă. Purtați ochelari pentru a ține picăturile de ploaie departe de ochi.",
-                "en": "The climb will warm you up, but the descent in the rain requires full concentration. Wear glasses to keep raindrops out of your eyes."
+                "en": "The climb will warm you up, but the descent in the rain requires full concentration. Wear glasses to keep raindrops out of your eyes.",
+                "fr": "La montée vous réchauffera, mais la descente sous la pluie exige une concentration totale. Portez des lunettes pour empêcher les gouttes d’entrer dans vos yeux."
               }
             },
             {
@@ -589,13 +652,15 @@
                 "de": "Strand von Bodri",
                 "hu": "Bodri strand",
                 "ro": "Plaja Bodri",
-                "en": "Bodri Beach"
+                "en": "Bodri Beach",
+                "fr": "Plage de Bodri"
               },
               "tip_5lang": {
                 "de": "Der Sand ist bei Regen fest, was das Schieben des Rades erleichtert. Genießen Sie die Einsamkeit und das Rauschen des Meeres unter der Kapuze.",
                 "hu": "A homok esőben kemény, ami megkönnyíti a bicikli tolását. Élvezze a magányt és a tenger zúgását a kapucni alatt.",
                 "ro": "Nisipul este tare pe ploaie, ceea ce face mai ușoară împingerea bicicletei. Bucurați-vă de singurătate și de sunetul mării sub glugă.",
-                "en": "The sand is firm in the rain, which makes pushing the bike easier. Enjoy the solitude and the sound of the sea under your hood."
+                "en": "The sand is firm in the rain, which makes pushing the bike easier. Enjoy the solitude and the sound of the sea under your hood.",
+                "fr": "Le sable est ferme sous la pluie, ce qui facilite le poussage du vélo. Profitez de la solitude et du bruit de la mer sous votre capuche."
               }
             },
             {
@@ -603,13 +668,15 @@
                 "de": "Strand Caruchettu",
                 "hu": "Caruchettu strand",
                 "ro": "Plaja Caruchettu",
-                "en": "Caruchettu Beach"
+                "en": "Caruchettu Beach",
+                "fr": "Plage de Caruchettu"
               },
               "tip_5lang": {
                 "de": "Ein letzter Stopp an der Küste, bevor es zurück ins Trockene geht. Prüfen Sie Ihre Beleuchtung für den Rückweg durch den grauen Nachmittag.",
                 "hu": "Egy utolsó megálló a parton, mielőtt visszatérne a szárazra. Ellenőrizze a világítást a szürke délutáni visszautazáshoz.",
                 "ro": "Un ultim popas pe coastă înainte de a reveni la uscat. Verificați luminile pentru drumul de întoarcere prin după-amiaza gri.",
-                "en": "A last stop on the coast before heading back to the dry. Check your lights for the ride back through the gray afternoon."
+                "en": "A last stop on the coast before heading back to the dry. Check your lights for the ride back through the gray afternoon.",
+                "fr": "Un dernier arrêt sur la côte avant de retourner au sec. Vérifiez vos éclairages pour le retour à travers l’après‑midi gris."
               }
             }
           ]
@@ -619,7 +686,8 @@
             "de": "Der Wintermorgen ist ideal für eine sportliche Radtour, wenn die kühle Luft den Geist klärt. Vormittags erkunden Sie die historische Mühle und genießen die Ruhe der Nebensaison. Mittags führt der Weg zum Semaphor, wo die Wintersonne die Küste in klares Licht taucht. Der Nachmittag gehört den einsamen Stränden von Bodri und Caruchettu, bevor Sie wegen der frühen Dunkelheit gegen 17:00 Uhr die Rückreise antreten. Warme Kleidung und Windschutz sind auf dem Rad unerlässlich.",
             "hu": "A téli reggel ideális egy sportos kerékpártúrához, amikor a hűvös levegő kitisztítja az elmét. Délelőtt a történelmi malmot fedezzük fel, élvezve az előszezon nyugalmát. Délben az út a jelzőállomáshoz vezet, ahol a téli nap tiszta fénnyel világítja meg a partot. A délután Bodri és Caruchettu magányos strandjaié, mielőtt a korai sötétedés miatt 17:00 körül elindulnánk vissza. Meleg ruházat és szélvédelem elengedhetetlen a bringán.",
             "ro": "Dimineața de iarnă este ideală pentru un tur sportiv cu bicicleta, când aerul rece limpezește mintea. Dimineața explorați moara istorică și vă bucurați de liniștea din extrasezon. La prânz, drumul duce spre semafor, unde soarele de iarnă scaldă coasta într-o lumină clară. După-amiaza aparține plajelor pustii Bodri și Caruchettu, înainte de a porni înapoi în jurul orei 17:00 din cauza întunericului timpuriu. Hainele groase și protecția împotriva vântului sunt esențiale pe bicicletă.",
-            "en": "The winter morning is ideal for a sporty bike tour when the cool air clears the mind. In the morning, explore the historic mill and enjoy the peace of the low season. At noon, the path leads to the semaphore, where the winter sun bathes the coast in clear light. The afternoon belongs to the lonely beaches of Bodri and Caruchettu before heading back around 5:00 PM due to the early darkness. Warm clothing and wind protection are essential on the bike."
+            "en": "The winter morning is ideal for a sporty bike tour when the cool air clears the mind. In the morning, explore the historic mill and enjoy the peace of the low season. At noon, the path leads to the semaphore, where the winter sun bathes the coast in clear light. The afternoon belongs to the lonely beaches of Bodri and Caruchettu before heading back around 5:00 PM due to the early darkness. Warm clothing and wind protection are essential on the bike.",
+            "fr": "La matinée d’hiver est idéale pour une sortie à vélo sportive lorsque l’air frais clarifie l’esprit. Le matin, explorez le moulin historique et profitez du calme de la basse saison. À midi, le chemin mène au sémaphore, où le soleil d’hiver baigne la côte d’une lumière claire. L’après‑midi est consacré aux plages solitaires de Bodri et Caruchettu avant de rentrer vers 17h00 en raison de la nuit précoce. Des vêtements chauds et une protection contre le vent sont essentiels à vélo."
           },
           "stops": [
             {
@@ -627,13 +695,15 @@
                 "de": "Markthalle",
                 "hu": "Fedett piac",
                 "ro": "Piața acoperită",
-                "en": "Covered Market"
+                "en": "Covered Market",
+                "fr": "Marché couvert"
               },
               "tip_5lang": {
                 "de": "Nutzen Sie den belebten Markt für ein zweites Frühstück, um Energie für die Kälte zu sammeln. Ein Halstuch schützt Sie beim Losfahren vor dem Fahrtwind.",
                 "hu": "Használja ki a nyüzsgő piacot egy második reggelire, hogy energiát gyűjtsön a hideg ellen. Egy sál megvédi a menetszéltől induláskor.",
                 "ro": "Profitați de piața animată pentru un al doilea mic dejun, colectând energie pentru frig. O eșarfă vă va proteja de vânt la plecare.",
-                "en": "Use the busy market for a second breakfast to gather energy for the cold. A neck gaiter will protect you from the wind when starting off."
+                "en": "Use the busy market for a second breakfast to gather energy for the cold. A neck gaiter will protect you from the wind when starting off.",
+                "fr": "Utilisez le marché animé pour un second petit‑déjeuner afin de récupérer de l’énergie pour le froid. Un tour de cou vous protégera du vent au départ."
               }
             },
             {
@@ -641,13 +711,15 @@
                 "de": "Alte Getreidemühle",
                 "hu": "Régi búzamalom",
                 "ro": "Vechea moară de grâu",
-                "en": "Old Wheat Mill"
+                "en": "Old Wheat Mill",
+                "fr": "Vieux moulin à blé"
               },
               "tip_5lang": {
                 "de": "Ein kurzer Stopp zu Fuß lockert die Beine auf. Die Steine der Mühle speichern im Winter keine Wärme, halten Sie den Aufenthalt daher kurz und aktiv.",
                 "hu": "Egy rövid gyalogos megálló ellazítja a lábakat. A malom kövei télen nem tárolják a hőt, ezért tartsa a látogatást röviden és aktívan.",
                 "ro": "Un scurt popas pe jos vă va relaxa picioarele. Pietrele morii nu rețin căldura iarna, așa că păstrați vizita scurtă și activă.",
-                "en": "A short stop on foot loosens up your legs. The stones of the mill don't store heat in winter, so keep the stay short and active."
+                "en": "A short stop on foot loosens up your legs. The stones of the mill don't store heat in winter, so keep the stay short and active.",
+                "fr": "Une courte halte à pied détend les jambes. Les pierres du moulin ne conservent pas la chaleur en hiver, gardez le séjour court et actif."
               }
             },
             {
@@ -655,13 +727,15 @@
                 "de": "Semaphor von Ile Rousse",
                 "hu": "Ile Rousse-i jelzőállomás",
                 "ro": "Semaforul din Ile Rousse",
-                "en": "Ile Rousse Semaphore"
+                "en": "Ile Rousse Semaphore",
+                "fr": "Sémaphore de l’Île Rousse"
               },
               "tip_5lang": {
                 "de": "Die Aussicht bei der klaren Winterluft ist fantastisch. Tragen Sie winddichte Handschuhe, da Ihre Finger beim Halten für Fotos schnell auskühlen.",
                 "hu": "A kilátás a tiszta téli levegőben fantasztikus. Viseljen szélálló kesztyűt, mert az ujjai fotózás közben gyorsan kihűlhetnek.",
                 "ro": "Vederea în aerul clar de iarnă este fantastică. Purtați mănuși rezistente la vânt, deoarece degetele vă vor îngheța repede când faceți poze.",
-                "en": "The view in the clear winter air is fantastic. Wear windproof gloves, as your fingers will cool down quickly when stopping for photos."
+                "en": "The view in the clear winter air is fantastic. Wear windproof gloves, as your fingers will cool down quickly when stopping for photos.",
+                "fr": "La vue dans l’air clair d’hiver est fantastique. Portez des gants coupe‑vent, car vos doigts refroidissent vite lors des arrêts pour photos."
               }
             },
             {
@@ -669,13 +743,15 @@
                 "de": "Strand von Bodri",
                 "hu": "Bodri strand",
                 "ro": "Plaja Bodri",
-                "en": "Bodri Beach"
+                "en": "Bodri Beach",
+                "fr": "Plage de Bodri"
               },
               "tip_5lang": {
                 "de": "Der Strandpfad ist im Winter fest und gut befahrbar. Genießen Sie die Stille ohne Badegäste, aber achten Sie auf die Zeit vor dem Sonnenuntergang.",
                 "hu": "A strandhoz vezető ösvény télen kemény és jól járható. Élvezze a csendet fürdőzők nélkül, de ügyeljen az időre a naplemente előtt.",
                 "ro": "Poteca spre plajă este tare și ușor de parcurs iarna. Bucurați-vă de liniște fără turiști la scăldat, dar fiți atenți la ora apusului.",
-                "en": "The beach path is firm and easy to ride in winter. Enjoy the silence without swimmers, but keep an eye on the time before sunset."
+                "en": "The beach path is firm and easy to ride in winter. Enjoy the silence without swimmers, but keep an eye on the time before sunset.",
+                "fr": "Le chemin de la plage est ferme et facile à rouler en hiver. Appréciez le silence sans baigneurs, mais surveillez l’heure avant le coucher du soleil."
               }
             },
             {
@@ -683,13 +759,15 @@
                 "de": "Strand Caruchettu",
                 "hu": "Caruchettu strand",
                 "ro": "Plaja Caruchettu",
-                "en": "Caruchettu Beach"
+                "en": "Caruchettu Beach",
+                "fr": "Plage de Caruchettu"
               },
               "tip_5lang": {
                 "de": "Perfekt für einen schnellen Blick aufs Meer, bevor die Kälte anzieht. Schalten Sie Ihr Rücklicht rechtzeitig ein, falls es dämmrig wird.",
                 "hu": "Tökéletes egy gyors pillantásra a tengerre, mielőtt beállna a hideg. Kapcsolja be időben a hátsó lámpát, ha kezd szürkülni.",
                 "ro": "Perfect pentru o privire rapidă spre mare înainte să se lase frigul. Aprindeți din timp lumina din spate dacă începe să se înnopteze.",
-                "en": "Perfect for a quick look at the sea before the cold sets in. Turn on your rear light in time if it starts to get dark."
+                "en": "Perfect for a quick look at the sea before the cold sets in. Turn on your rear light in time if it starts to get dark.",
+                "fr": "Parfaite pour un rapide coup d’œil à la mer avant que le froid ne s’installe. Allumez votre feu arrière à temps si l’obscurité commence à tomber."
               }
             }
           ]
@@ -709,7 +787,8 @@
             "de": "Leuchtturm von Pietra",
             "hu": "Pietra világítótorony",
             "ro": "Farul Pietra",
-            "en": "Pietra Lighthouse"
+            "en": "Pietra Lighthouse",
+            "fr": "Phare de Pietra"
           },
           "coords": [
             8.932084,
@@ -724,7 +803,8 @@
             "de": "Wandern Sie zu diesem ikonischen Leuchtturm, um einen Panoramablick auf die roten Granitinseln zu genießen; besuchen Sie ihn am späten Nachmittag für die besten Fotos.",
             "hu": "Túrázzon fel ehhez az ikonikus világítótoronyhoz, ahonnan lenyűgöző panoráma nyílik a vörös gránitszigetekre; látogasson el késő délután a legjobb fényképekhez.",
             "ro": "Urcați la acest far emblematic pentru vederi panoramice spectaculoase asupra insulelor de granit roșu; vizitați-l după-amiaza târziu pentru cele mai bune fotografii.",
-            "en": "Hike up to this iconic lighthouse for spectacular panoramic views over the red granite islands; visit during the late afternoon for the most stunning golden hour photos."
+            "en": "Hike up to this iconic lighthouse for spectacular panoramic views over the red granite islands; visit during the late afternoon for the most stunning golden hour photos.",
+            "fr": "Montez jusqu’à ce phare emblématique pour des vues panoramiques spectaculaires sur les îles de granit rouge ; visitez‑le en fin d’après‑midi pour des photos sublimes à l’heure dorée."
           }
         },
         {
@@ -732,7 +812,8 @@
             "de": "Überreste der Festungsmauer",
             "hu": "Erődítmény romjai",
             "ro": "Vestigiile Zidului Fortificat",
-            "en": "Remains of the Fortified Wall"
+            "en": "Remains of the Fortified Wall",
+            "fr": "Vestiges de la muraille fortifiée"
           },
           "coords": [
             8.937337,
@@ -747,7 +828,8 @@
             "de": "Spazieren Sie entlang dieser alten Festungsmauern, die die Stadt einst vor Invasionen schützten; tragen Sie festes Schuhwerk, da der Boden hier uneben sein kann.",
             "hu": "Sétáljon végig ezeken az ősi falakon, amelyek egykor a várost védték az invázióktól; viseljen kényelmes cipőt, mivel a történelmi romok körüli talaj egyenetlen.",
             "ro": "Plimbați-vă de-a lungul acestor ziduri fortificate antice care protejau orașul de invazii; purtați încălțăminte solidă, deoarece terenul din jurul ruinelor este denivelat.",
-            "en": "Walk along these ancient fortified walls that once protected the city from invasions; wear sturdy shoes as the ground around the historical ruins can be uneven."
+            "en": "Walk along these ancient fortified walls that once protected the city from invasions; wear sturdy shoes as the ground around the historical ruins can be uneven.",
+            "fr": "Promenez‑vous le long de ces anciennes murailles fortifiées qui protégeaient autrefois la ville des invasions ; portez des chaussures solides car le terrain autour des ruines historiques peut être inégal."
           }
         },
         {
@@ -755,7 +837,8 @@
             "de": "Alte Getreidemühle",
             "hu": "Régi búzamalom",
             "ro": "Vechea moară de grâu",
-            "en": "Old Wheat Mill"
+            "en": "Old Wheat Mill",
+            "fr": "Vieux moulin à blé"
           },
           "coords": [
             8.938774,
@@ -770,7 +853,8 @@
             "de": "Machen Sie eine Zeitreise in dieser historischen Getreidemühle; das Gelände ist teilweise von Pflanzen überwuchert, daher werden lange Hosen für die Erkundung empfohlen.",
             "hu": "Lépjen vissza az időben ennél a történelmi búzamalomnál; a terület részben benőtt, ezért hosszú nadrág viselése erősen ajánlott a környék alapos felfedezéséhez.",
             "ro": "Întoarceți-vă în timp la această moară istorică de grâu; situl este parțial acoperit de vegetație, așa că pantalonii lungi sunt recomandați pentru explorare.",
-            "en": "Step back in time at this historic wheat mill that highlights Corsica's agricultural past; the site is partially overgrown, so long trousers are recommended for exploring."
+            "en": "Step back in time at this historic wheat mill that highlights Corsica's agricultural past; the site is partially overgrown, so long trousers are recommended for exploring.",
+            "fr": "Faites un retour dans le passé à ce moulin à blé historique qui met en valeur le passé agricole de la Corse ; le site est partiellement envahi par la végétation, donc un pantalon long est recommandé pour l’exploration."
           }
         },
         {
@@ -778,7 +862,8 @@
             "de": "Ruinen von Urcica",
             "hu": "Urcica romjai",
             "ro": "Ruinele Urcica",
-            "en": "Ruins of Urcica"
+            "en": "Ruins of Urcica",
+            "fr": "Ruines d’Urcica"
           },
           "coords": [
             8.948979,
@@ -793,7 +878,8 @@
             "de": "Erkunden Sie diese faszinierenden antiken Ruinen, um die lokale Geschichte zu verstehen; der Weg ist schlecht markiert, daher ist das Herunterladen einer Offline-Karte hilfreich.",
             "hu": "Fedezze fel ezeket a lenyűgöző, tájba simuló ősi romokat; az ösvény rosszul van jelezve, így egy offline térkép letöltése rendkívül hasznos lehet a tájékozódásban.",
             "ro": "Explorați aceste ruine antice fascinante ascunse în peisaj pentru a înțelege istoria; traseul este slab marcat, deci descărcarea unei hărți offline este foarte utilă.",
-            "en": "Explore these fascinating ancient ruins nestled in the landscape to understand local history; the path is poorly marked, so downloading an offline map is very helpful."
+            "en": "Explore these fascinating ancient ruins nestled in the landscape to understand local history; the path is poorly marked, so downloading an offline map is very helpful.",
+            "fr": "Explorez ces fascinantes ruines anciennes nichées dans le paysage pour comprendre l’histoire locale ; le sentier est mal balisé, donc télécharger une carte hors‑ligne est très utile."
           }
         },
         {
@@ -801,7 +887,8 @@
             "de": "Alte Kirche San Quilico",
             "hu": "Régi San Quilico templom",
             "ro": "Vechea biserică San Quilico",
-            "en": "Old San Quilico Church"
+            "en": "Old San Quilico Church",
+            "fr": "Vielle église San Quilico"
           },
           "coords": [
             8.95349,
@@ -816,7 +903,8 @@
             "de": "Besuchen Sie die stimmungsvollen Überreste dieser alten Kirche; parken Sie am Fuße des Hügels, da der letzte Zugang nur zu Fuß über einen schmalen Pfad erreichbar ist.",
             "hu": "Látogasson el ennek a régi templomnak a hangulatos romjaihoz; parkoljon le a domb lábánál, mivel az utolsó szakasz kizárólag gyalogosan közelíthető meg biztonságosan.",
             "ro": "Vizitați rămășițele pline de atmosferă ale acestei biserici vechi; parcați la baza dealului, deoarece ultima parte a drumului este accesibilă doar pe jos.",
-            "en": "Visit the atmospheric remains of this old church offering a quiet, contemplative atmosphere; park at the base of the hill as the final approach is accessible only on foot."
+            "en": "Visit the atmospheric remains of this old church offering a quiet, contemplative atmosphere; park at the base of the hill as the final approach is accessible only on foot.",
+            "fr": "Visitez les restes atmosphériques de cette vieille église offrant une ambiance calme et contemplative ; garez‑vous au pied de la colline car l’approche finale n’est accessible qu’à pied."
           }
         },
         {
@@ -824,7 +912,8 @@
             "de": "Strand von Bodri",
             "hu": "Bodri strand",
             "ro": "Plaja Bodri",
-            "en": "Bodri Beach"
+            "en": "Bodri Beach",
+            "fr": "Plage de Bodri"
           },
           "coords": [
             8.914334,
@@ -839,7 +928,8 @@
             "de": "Entfliehen Sie an diesen unberührten Strand, der für seinen feinen Sand bekannt ist; der Weg vom Parkplatz ist etwas steil, packen Sie also leicht für den Abstieg.",
             "hu": "Meneküljön el erre az érintetlen strandra, amely finom homokjáról híres; a parkolóból vezető út kissé meredek, ezért érdemes könnyű csomaggal elindulni lefelé.",
             "ro": "Evadați pe această plajă curată, cunoscută pentru nisipul fin și apa turcoaz; drumul de la parcare este oarecum abrupt, deci faceți bagaje ușoare pentru coborâre.",
-            "en": "Escape to this pristine beach known for its fine sand and vibrant turquoise water; the walk from the parking area is somewhat steep, so pack light for the journey down."
+            "en": "Escape to this pristine beach known for its fine sand and vibrant turquoise water; the walk from the parking area is somewhat steep, so pack light for the journey down.",
+            "fr": "Évadez‑vous vers cette plage préservée connue pour son sable fin et son eau turquoise vibrante ; la marche depuis le parking est assez raide, donc voyagez léger pour la descente."
           }
         }
       ],
@@ -847,7 +937,8 @@
         "de": "Beginnen Sie Ihren Roadtrip mit weiten Ausblicken vom Leuchtturm Pietra, bevor Sie die Festungsruinen entdecken. Fahren Sie gegen Mittag hinaus, um die historische Getreidemühle zu besichtigen. Erkunden Sie nachmittags die faszinierenden archäologischen Ruinen und die versteckte Kirche San Quilico. Beenden Sie den Tag mit einem wohlverdienten, entspannenden Sonnenuntergang am Plage de Bodri.",
         "hu": "Indítsa autós túráját a Pietra világítótorony lenyűgöző kilátásával, mielőtt felfedezné az erődítmény romjait. Dél felé vezessen ki a történelmi búzamalom megtekintésére. Délután fedezze fel a lenyűgöző régészeti romokat és a dombok között megbúvó régi San Quilico templomot. Fejezze be a napot egy jól megérdemelt, pihentető naplemente-nézéssel a Plage de Bodri finom homokján.",
         "ro": "Începeți excursia cu mașina cu vederi ample de la farul Pietra înainte de a descoperi ruinele fortificate. Spre prânz, conduceți pentru a inspecta vechea moară istorică de grâu. După-amiaza, explorați ruinele arheologice fascinante și vechea biserică San Quilico ascunsă în dealuri. Terminați ziua cu o vizită relaxantă binemeritată la apus pe Plage de Bodri.",
-        "en": "Kick off your road trip with sweeping views from the Pietra lighthouse before discovering the town's fortified ruins. Towards midday, drive out to inspect the historical wheat mill. In the afternoon, explore the fascinating archaeological ruins and the old San Quilico church hidden in the hills. Finish the day with a well-deserved, relaxing sunset visit to Plage de Bodri."
+        "en": "Kick off your road trip with sweeping views from the Pietra lighthouse before discovering the town's fortified ruins. Towards midday, drive out to inspect the historical wheat mill. In the afternoon, explore the fascinating archaeological ruins and the old San Quilico church hidden in the hills. Finish the day with a well-deserved, relaxing sunset visit to Plage de Bodri.",
+        "fr": "Lancez votre road‑trip avec des vues panoramiques depuis le phare de Pietra avant de découvrir les ruines fortifiées de la ville. Vers midi, partez en voiture pour inspecter le moulin à blé historique. L’après‑midi, explorez les ruines archéologiques fascinantes et la vieille église San Quilico cachée dans les collines. Terminez la journée par une visite au coucher du soleil bien méritée à la Plage de Bodri."
       },
       "variants": {
         "rainy": {
@@ -855,7 +946,8 @@
             "de": "Das Auto ist an einem Regentag der ideale Begleiter, um Ile Rousse und seine Umgebung trocken zu erkunden. Morgens bietet die Fahrt zum Leuchtturm spektakuläre Ausblicke auf die Brandung aus der Sicherheit des Wagens. Mittags besuchen Sie geschichtsträchtige Ruinen und Kirchen, wobei Sie nur kurz dem Wetter ausgesetzt sind. Der Nachmittag führt zu versteckten Stränden, an denen Sie das graue Meer bewundern können. Der Abend endet entspannt in der Stadt, ohne dass Sie vom Regen durchnässt werden.",
             "hu": "Az autó esős napon ideális társ Ile Rousse és környéke száraz felfedezéséhez. Reggel a világítótoronyhoz vezető út látványos kilátást nyújt a hullámverésre a kocsi biztonságából. Napközben történelmi romokat és templomokat látogatunk meg, így csak rövid ideig kell az esőben lennünk. Délután rejtett strandokhoz autózunk, ahol a szürke tengert csodálhatjuk. Az este pihentetően zárul a városban, anélkül, hogy bőrig áznánk.",
             "ro": "Mașina este partenerul ideal într-o zi ploioasă pentru a explora Ile Rousse și împrejurimile sale la uscat. Dimineața, drumul spre far oferă vederi spectaculoase asupra valurilor din siguranța vehiculului. În timpul zilei vizităm ruine istorice și biserici, fiind expuși la ploaie doar pentru scurt timp. După-amiaza conducem spre plaje ascunse, unde putem admira marea gri. Seara se încheie relaxant în oraș, fără a fi udați de ploaie.",
-            "en": "The car is the ideal companion on a rainy day to explore Ile Rousse and its surroundings while staying dry. In the morning, the drive to the lighthouse offers spectacular views of the surf from the safety of the vehicle. During the day, visit historic ruins and churches, spending only short periods exposed to the weather. The afternoon leads to hidden beaches where you can admire the gray sea. The evening ends relaxingly in town without getting soaked."
+            "en": "The car is the ideal companion on a rainy day to explore Ile Rousse and its surroundings while staying dry. In the morning, the drive to the lighthouse offers spectacular views of the surf from the safety of the vehicle. During the day, visit historic ruins and churches, spending only short periods exposed to the weather. The afternoon leads to hidden beaches where you can admire the gray sea. The evening ends relaxingly in town without getting soaked.",
+            "fr": "La voiture est le compagnon idéal par un jour de pluie pour explorer Ile Rousse et ses environs tout en restant au sec. Le matin, la route vers le phare offre des vues spectaculaires sur le ressac depuis la sécurité du véhicule. Dans la journée, visitez ruines et églises historiques en restant peu exposé aux intempéries. L’après‑midi mène à des plages cachées où l’on peut admirer la mer grise. La soirée se termine agréablement en ville sans se faire tremper."
           },
           "stops": [
             {
@@ -863,13 +955,15 @@
                 "de": "Leuchtturm von Pietra",
                 "hu": "Pietra világítótorony",
                 "ro": "Farul Pietra",
-                "en": "Pietra Lighthouse"
+                "en": "Pietra Lighthouse",
+                "fr": "Phare de Pietra"
               },
               "tip_5lang": {
                 "de": "Parken Sie nah am Damm und beobachten Sie die Wellen. Ein Regenschirm ist wegen des starken Windes an der Küste oft weniger effektiv als eine Regenjacke.",
                 "hu": "Parkoljon a gát közelében és figyelje a hullámokat. Az esernyő az erős tengerparti szél miatt gyakran kevésbé hatékony, mint egy esőkabát.",
                 "ro": "Parcați aproape de dig și observați valurile. Din cauza vântului puternic de pe coastă, o umbrelă este adesea mai puțin eficientă decât o pelerină.",
-                "en": "Park close to the causeway and watch the waves. An umbrella is often less effective than a raincoat due to the strong coastal winds."
+                "en": "Park close to the causeway and watch the waves. An umbrella is often less effective than a raincoat due to the strong coastal winds.",
+                "fr": "Garez‑vous près du chaussée et regardez les vagues. Un imperméable est souvent plus efficace qu’un parapluie à cause des vents côtiers forts."
               }
             },
             {
@@ -877,13 +971,15 @@
                 "de": "Überreste der Festungsmauer",
                 "hu": "Erődítmény romjai",
                 "ro": "Vestigiile Zidului Fortificat",
-                "en": "Remains of the Fortified Wall"
+                "en": "Remains of the Fortified Wall",
+                "fr": "Vestiges de la muraille fortifiée"
               },
               "tip_5lang": {
                 "de": "Kurze Wege vom Parkplatz ermöglichen eine schnelle Besichtigung zwischen den Schauern. Die nassen Steine glänzen fotogen im diffusen Licht.",
                 "hu": "A parkolóból vezető rövid utak gyors megtekintést tesznek lehetővé a záporok között. A nedves kövek fotogén módon csillognak a szórt fényben.",
                 "ro": "Traseele scurte de la parcare permit o vizitare rapidă între averse. Pietrele umede strălucesc fotogenic în lumina difuză.",
-                "en": "Short paths from the parking lot allow for a quick visit between showers. The wet stones glisten photogenically in the diffuse light."
+                "en": "Short paths from the parking lot allow for a quick visit between showers. The wet stones glisten photogenically in the diffuse light.",
+                "fr": "De courts sentiers depuis le parking permettent une visite rapide entre les averses. Les pierres mouillées scintillent photogéniquement dans la lumière diffuse."
               }
             },
             {
@@ -891,13 +987,15 @@
                 "de": "Alte Getreidemühle",
                 "hu": "Régi búzamalom",
                 "ro": "Vechea moară de grâu",
-                "en": "Old Wheat Mill"
+                "en": "Old Wheat Mill",
+                "fr": "Ancien moulin à blé"
               },
               "tip_5lang": {
                 "de": "Nutzen Sie die Anfahrt durch die hügelige Landschaft. Seien Sie vorsichtig auf den schmalen Straßen, die bei Regen rutschig sein können.",
                 "hu": "Élvezze az utazást a dombos tájon keresztül. Legyen óvatos a szűk utakon, amelyek esőben csúszósak lehetnek.",
                 "ro": "Bucurați-vă de drumul prin peisajul deluros. Fiți atenți pe drumurile înguste, care pot fi alunecoase pe ploaie.",
-                "en": "Enjoy the drive through the hilly landscape. Be careful on the narrow roads, which can be slippery during rain."
+                "en": "Enjoy the drive through the hilly landscape. Be careful on the narrow roads, which can be slippery during rain.",
+                "fr": "Profitez de la route à travers le paysage vallonné. Faites attention sur les routes étroites, qui peuvent devenir glissantes par temps de pluie."
               }
             },
             {
@@ -905,13 +1003,15 @@
                 "de": "Ruinen von Urcica",
                 "hu": "Urcica romjai",
                 "ro": "Ruinele Urcica",
-                "en": "Ruins of Urcica"
+                "en": "Ruins of Urcica",
+                "fr": "Ruines d'Urcica"
               },
               "tip_5lang": {
                 "de": "Die verlassenen Ruinen wirken im Nebel besonders geheimnisvoll. Bleiben Sie auf befestigten Wegen, um nicht im nassen Untergrund einzusinken.",
                 "hu": "Az elhagyatott romok a ködben különösen titokzatosnak tűnnek. Maradjon a kijelölt utakon, hogy ne süllyedjen el a nedves talajon.",
                 "ro": "Ruinele părăsite par deosebit de misterioase în ceață. Rămâneți pe potecile amenajate pentru a nu vă scufunda în solul umed.",
-                "en": "The abandoned ruins look particularly mysterious in the mist. Stay on the paved paths to avoid sinking into the wet ground."
+                "en": "The abandoned ruins look particularly mysterious in the mist. Stay on the paved paths to avoid sinking into the wet ground.",
+                "fr": "Les ruines abandonnées paraissent particulièrement mystérieuses dans la brume. Restez sur les chemins pavés pour éviter de vous enfoncer dans le sol humide."
               }
             },
             {
@@ -919,13 +1019,15 @@
                 "de": "Alte Kirche San Quilico",
                 "hu": "Régi San Quilico templom",
                 "ro": "Vechea biserică San Quilico",
-                "en": "Old San Quilico Church"
+                "en": "Old San Quilico Church",
+                "fr": "Vieille église San Quilico"
               },
               "tip_5lang": {
                 "de": "Ein geschützter Ort voller Geschichte. Prüfen Sie vor dem Aussteigen die Bodenbeschaffenheit des Parkplatzes, der bei Regen matschig sein kann.",
                 "hu": "Történelemmel teli, védett hely. Kiszállás előtt ellenőrizze a parkoló talaját, amely esőben sáros lehet.",
                 "ro": "Un loc protejat plin de istorie. Înainte de a coborî, verificați starea solului din parcare, care poate fi noroios pe ploaie.",
-                "en": "A protected place full of history. Check the ground conditions of the parking area before getting out, as it can be muddy in the rain."
+                "en": "A protected place full of history. Check the ground conditions of the parking area before getting out, as it can be muddy in the rain.",
+                "fr": "Un lieu protégé chargé d'histoire. Vérifiez l'état du sol de l'aire de stationnement avant de sortir, car il peut être boueux sous la pluie."
               }
             },
             {
@@ -933,13 +1035,15 @@
                 "de": "Strand von Bodri",
                 "hu": "Bodri strand",
                 "ro": "Plaja Bodri",
-                "en": "Bodri Beach"
+                "en": "Bodri Beach",
+                "fr": "Plage de Bodri"
               },
               "tip_5lang": {
                 "de": "Vom Parkplatz aus ist es nur ein kurzer Sprint zum Meer. Genießen Sie den dramatischen Anblick der grauen Brandung vom geschützten Ufer aus.",
                 "hu": "A parkolótól csak egy rövid sprint a tengerpart. Élvezze a szürke hullámverés drámai látványát a védett partról.",
                 "ro": "De la parcare este doar un scurt sprint până la malul mării. Bucurați-vă de vederea dramatică a valurilor gri de pe malul protejat.",
-                "en": "It's just a short sprint from the parking lot to the shore. Enjoy the dramatic sight of the gray surf from the protected shoreline."
+                "en": "It's just a short sprint from the parking lot to the shore. Enjoy the dramatic sight of the gray surf from the protected shoreline.",
+                "fr": "C'est juste un court sprint du parking jusqu'au rivage. Admirez la vision dramatique de la houle grise depuis le littoral protégé."
               }
             }
           ]
@@ -949,7 +1053,8 @@
             "de": "Eine winterliche Spritztour mit dem Auto ermöglicht es, die weite Landschaft Korsikas komfortabel zu erleben. Morgens starten Sie am Leuchtturm, wo die Fernsicht bei klarer Winterluft am besten ist. Mittags erkunden Sie die historische Mühle und die Ruinen von Urcica, wobei Sie die Heizung des Wagens zwischen den Stopps genießen. Der Nachmittag führt zur abgelegenen Kirche San Quilico und zum Strand von Bodri, um den Sonnenuntergang gegen 17:00 Uhr zu erleben. Der Tag endet gemütlich im Stadtzentrum.",
             "hu": "Egy téli autós kirándulás lehetővé teszi Korzika tágas tájainak kényelmes felfedezését. Reggel a világítótoronynál kezdünk, ahol a tiszta téli levegőben a legjobb a kilátás. Napközben a történelmi malmot és Urcica romjait keressük fel, élvezve a kocsi fűtését a megállók között. Délután a távoli San Quilico templom és Bodri strandja következik, hogy 17:00 körül megnézzük a naplementét. A nap kellemesen ér véget a városközpontban.",
             "ro": "O excursie cu mașina iarna vă permite să experimentați confortabil peisajele vaste ale Corisicăi. Dimineața începeți la far, unde vizibilitatea este maximă în aerul clar de iarnă. În timpul zilei explorați moara istorică și ruinele Urcica, bucurându-vă de căldura mașinii între opriri. După-amiaza vizitați biserica izolată San Quilico și plaja Bodri pentru apusul de la ora 17:00. Ziua se încheie plăcut în centrul orașului.",
-            "en": "A winter road trip by car allows you to comfortably experience Corsica's wide landscapes. In the morning, start at the lighthouse, where visibility is best in the clear winter air. During the day, explore the historic mill and the ruins of Urcica, enjoying the car's heater between stops. The afternoon leads to the remote San Quilico church and Bodri beach to experience the sunset around 5:00 PM. The day ends cozily in the city center."
+            "en": "A winter road trip by car allows you to comfortably experience Corsica's wide landscapes. In the morning, start at the lighthouse, where visibility is best in the clear winter air. During the day, explore the historic mill and the ruins of Urcica, enjoying the car's heater between stops. The afternoon leads to the remote San Quilico church and Bodri beach to experience the sunset around 5:00 PM. The day ends cozily in the city center.",
+            "fr": "Une randonnée hivernale en voiture permet de profiter confortablement des vastes paysages de Corse. Le matin, commencez au phare, où la visibilité est meilleure dans l'air clair de l'hiver. Dans la journée, explorez le moulin historique et les ruines d'Urcica, en profitant du chauffage de la voiture entre les arrêts. L'après-midi mène à la reculée église San Quilico et à la plage de Bodri pour assister au coucher du soleil vers 17:00. La journée se termine au chaud dans le centre-ville."
           },
           "stops": [
             {
@@ -957,13 +1062,15 @@
                 "de": "Leuchtturm von Pietra",
                 "hu": "Pietra világítótorony",
                 "ro": "Farul Pietra",
-                "en": "Pietra Lighthouse"
+                "en": "Pietra Lighthouse",
+                "fr": "Phare de Pietra"
               },
               "tip_5lang": {
                 "de": "Die tiefstehende Wintersonne lässt den roten Felsen leuchten. Nutzen Sie das Auto als Windschutz beim Fotografieren des Panoramas.",
                 "hu": "Az alacsonyan járó téli nap megvilágítja a vörös sziklákat. Használja az autót szélvédőként a panoráma fotózásakor.",
                 "ro": "Soarele jos de iarnă face stâncile roșii să strălucească. Folosiți mașina ca paravan împotriva vântului când fotografiați panorama.",
-                "en": "The low winter sun makes the red rocks glow. Use the car as a windshield while photographing the panorama."
+                "en": "The low winter sun makes the red rocks glow. Use the car as a windshield while photographing the panorama.",
+                "fr": "Le soleil bas d'hiver fait briller les roches rouges. Utilisez la voiture comme pare-vent lors de la prise de photos du panorama."
               }
             },
             {
@@ -971,13 +1078,15 @@
                 "de": "Überreste der Festungsmauer",
                 "hu": "Erődítmény romjai",
                 "ro": "Vestigiile Zidului Fortificat",
-                "en": "Remains of the Fortified Wall"
+                "en": "Remains of the Fortified Wall",
+                "fr": "Vestiges du mur fortifié"
               },
               "tip_5lang": {
                 "de": "Parken Sie zentral und machen Sie einen kurzen, zügigen Rundgang, um warm zu bleiben. Das Licht ist am späten Vormittag besonders klar.",
                 "hu": "Parkoljon központilag, és tegyen egy rövid, tempós sétát, hogy melegen maradjon. A fények késő délelőtt különösen tiszták.",
                 "ro": "Parcați central și faceți o plimbare scurtă și rapidă pentru a vă menține căldura. Lumina este deosebit de clară spre sfârșitul dimineții.",
-                "en": "Park centrally and take a short, brisk walk to stay warm. The light is particularly clear in the late morning."
+                "en": "Park centrally and take a short, brisk walk to stay warm. The light is particularly clear in the late morning.",
+                "fr": "Garez-vous au centre et faites une courte marche vive pour rester au chaud. La lumière est particulièrement claire en fin de matinée."
               }
             },
             {
@@ -985,13 +1094,15 @@
                 "de": "Alte Getreidemühle",
                 "hu": "Régi búzamalom",
                 "ro": "Vechea moară de grâu",
-                "en": "Old Wheat Mill"
+                "en": "Old Wheat Mill",
+                "fr": "Ancien moulin à blé"
               },
               "tip_5lang": {
                 "de": "Die kühle Luft macht den historischen Stopp belebend. Die Fahrt durch die kahle Winterlandschaft bietet weite Ausblicke bis zu den Bergen.",
                 "hu": "A hűvös levegő élénkítővé teszi a történelmi megállót. Az utazás a kopár téli tájon át tágas kilátást nyújt egészen a hegyekig.",
                 "ro": "Aerul rece face popasul istoric revigorant. Drumul prin peisajul golaș de iarnă oferă vederi largi până spre munți.",
-                "en": "The cool air makes the historic stop invigorating. The drive through the bare winter landscape offers wide views as far as the mountains."
+                "en": "The cool air makes the historic stop invigorating. The drive through the bare winter landscape offers wide views as far as the mountains.",
+                "fr": "L'air frais rend cet arrêt historique vivifiant. La route à travers le paysage hivernal dépouillé offre de larges vues jusqu'aux montagnes."
               }
             },
             {
@@ -999,13 +1110,15 @@
                 "de": "Ruinen von Urcica",
                 "hu": "Urcica romjai",
                 "ro": "Ruinele Urcica",
-                "en": "Ruins of Urcica"
+                "en": "Ruins of Urcica",
+                "fr": "Ruines d'Urcica"
               },
               "tip_5lang": {
                 "de": "Erkunden Sie die Ruinen ohne die sommerliche Hitze und Insekten. Nehmen Sie eine Taschenlampe mit, falls Sie die schattigen Ecken genauer ansehen wollen.",
                 "hu": "Fedezze fel a romokat a nyári hőség és rovarok nélkül. Vigyen zseblámpát, ha az árnyékos sarkokat közelebbről is meg akarja nézni.",
                 "ro": "Explorați ruinele fără căldura verii și fără insecte. Luați o lanternă dacă doriți să vedeți mai de aproape colțurile umbrite.",
-                "en": "Explore the ruins without the summer heat and insects. Take a flashlight if you want to look closer at the shaded corners."
+                "en": "Explore the ruins without the summer heat and insects. Take a flashlight if you want to look closer at the shaded corners.",
+                "fr": "Explorez les ruines sans la chaleur et les insectes de l'été. Prenez une lampe de poche si vous voulez regarder de plus près les recoins ombragés."
               }
             },
             {
@@ -1013,13 +1126,15 @@
                 "de": "Alte Kirche San Quilico",
                 "hu": "Régi San Quilico templom",
                 "ro": "Vechea biserică San Quilico",
-                "en": "Old San Quilico Church"
+                "en": "Old San Quilico Church",
+                "fr": "Vieille église San Quilico"
               },
               "tip_5lang": {
                 "de": "Ein ruhiger Ort für Besinnung im Winter. Achten Sie auf die Zeit, da das Tageslicht in diesem abgelegenen Bereich am Nachmittag schnell schwindet.",
                 "hu": "Csendes hely az elmélkedéshez télen. Ügyeljen az időre, mert ezen a távoli részen a nappali fény délután gyorsan fogy.",
                 "ro": "Un loc liniștit pentru reflecție iarna. Atenție la oră, deoarece lumina zilei dispare repede după-amiaza în această zonă izolată.",
-                "en": "A quiet place for reflection in winter. Watch the time as daylight fades quickly in this remote area during the afternoon."
+                "en": "A quiet place for reflection in winter. Watch the time as daylight fades quickly in this remote area during the afternoon.",
+                "fr": "Un lieu calme pour la réflexion en hiver. Surveillez l'heure car la lumière du jour diminue rapidement dans cette zone reculée durant l'après-midi."
               }
             },
             {
@@ -1027,13 +1142,15 @@
                 "de": "Strand von Bodri",
                 "hu": "Bodri strand",
                 "ro": "Plaja Bodri",
-                "en": "Bodri Beach"
+                "en": "Bodri Beach",
+                "fr": "Plage de Bodri"
               },
               "tip_5lang": {
                 "de": "Erleben Sie den Sonnenuntergang um 17:00 Uhr vom Parkplatz oder dem Strand aus. Die Winterfarben des Himmels sind hier oft besonders intensiv.",
                 "hu": "Nézze meg az 17:00 órai naplementét a parkolóból vagy a strandról. Az égbolt téli színei itt gyakran különösen intenzívek.",
                 "ro": "Urmăriți apusul de la ora 17:00 din parcare sau de pe plajă. Culorile de iarnă ale cerului sunt adesea deosebit de intense aici.",
-                "en": "Experience the sunset at 5:00 PM from the parking lot or the beach. The winter colors of the sky are often particularly intense here."
+                "en": "Experience the sunset at 5:00 PM from the parking lot or the beach. The winter colors of the sky are often particularly intense here.",
+                "fr": "Admirez le coucher du soleil à 17:00 depuis le parking ou la plage. Les couleurs hivernales du ciel y sont souvent particulièrement intenses."
               }
             }
           ]

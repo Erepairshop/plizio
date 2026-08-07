@@ -32,7 +32,7 @@
             "hu": "Hozz magaddal üres palackot, hogy ingyen megkóstolhasd a friss forrásvizet.",
             "ro": "Aduceți o sticlă goală pentru a gusta apa proaspătă de izvor gratuit.",
             "en": "Bring an empty bottle to taste the fresh spring water for free.",
-            "fr": "Apportez une bouteille vide pour déguster gratuitement l'eau de source fraîche."
+            "fr": "Apportez une bouteille vide pour goûter gratuitement l’eau de source fraîche."
           }
         },
         {
@@ -51,7 +51,7 @@
             "hu": "Csodáld meg az egykori termálfürdő építészetét, amely ma kulturális központ.",
             "ro": "Admirați arhitectura fostelor băi termale, acum un centru cultural.",
             "en": "Admire the architecture of the former thermal baths, now a cultural center.",
-            "fr": "Admirez l'architecture des anciens thermes, devenus un centre culturel."
+            "fr": "Admirez l’architecture des anciens thermes, aujourd’hui transformés en centre culturel."
           }
         },
         {
@@ -89,7 +89,7 @@
             "hu": "Élvezd a virágágyásokat és a svájci Alpokra nyíló kilátást.",
             "ro": "Bucurați-vă de straturile de flori și de priveliștea spre Alpii Elvețieni.",
             "en": "Enjoy the flower beds and the view of the Swiss Alps.",
-            "fr": "Profitez des massifs fleuris et de la vue sur les Alpes suisses."
+            "fr": "Profitez des massifs floraux et de la vue sur les Alpes suisses."
           }
         },
         {
@@ -127,7 +127,7 @@
             "hu": "Látogass el a városházára, amely a Lumière fivérek egykori lakóházában van.",
             "ro": "Vizitați primăria, situată în fosta reședință a fraților Lumière.",
             "en": "Visit the town hall, located in the former residence of the Lumière brothers.",
-            "fr": "Visitez l'hôtel de ville, situé dans l'ancienne demeure des frères Lumière."
+            "fr": "Visitez la mairie, située dans l’ancienne résidence des frères Lumière."
           }
         },
         {
@@ -146,7 +146,7 @@
             "hu": "Tökéletes hely a nap lezárására a tóra nyíló kilátással.",
             "ro": "Locul perfect pentru a încheia ziua cu o priveliște superbă asupra lacului.",
             "en": "The perfect spot to end the day with a view over the lake.",
-            "fr": "L'endroit idéal pour terminer la journée avec une vue sur le lac."
+            "fr": "L’endroit idéal pour terminer la journée avec une vue sur le lac."
           }
         }
       ],
@@ -155,7 +155,7 @@
         "hu": "Kezdje a napot a Cachat-forrásnál, a híres víz szülőhelyén. Egy rövid séta elvezeti a pompás Palais Lumière-hez, ahol a művészet találkozik a Belle Époque építészetével. A tóparti ebéd után a sétány hívogat pihenésre. Délután a történelmi sikló repíti a magasba, mielőtt megcsodálná a fényűző Villa Lumière-t. Az este hangulatosan zárul a kikötőben egy pohár savoyai bor társaságában.",
         "ro": "Începeți ziua la Sursa Cachat, locul de naștere al celebrei ape minerale. O scurtă plimbare vă duce la magnificul Palais Lumière, unde arta întâlnește arhitectura Belle Époque. După un prânz cu vedere la lac, faleza vă invită la relaxare. După-amiaza, funicularul istoric vă poartă spre înălțimi, înainte de a admira opulenta Villa Lumière. Seara se încheie atmosferic în port, cu un pahar de vin de Savoia.",
         "en": "Start your day at the Cachat Source, the birthplace of the famous water. A short walk leads you to the magnificent Palais Lumière, where art meets Belle Époque architecture. After a lakeside lunch, the promenades invite you to relax. In the afternoon, the historic funicular carries you to the heights before you admire the opulent Villa Lumière. The evening ends atmospherically at the harbor with a glass of Savoy wine.",
-        "fr": "Commencez votre journée à la Source Cachat, le berceau de la célèbre eau. Une courte promenade vous mène au magnifique Palais Lumière, où l'art rencontre l'architecture de la Belle Époque. Après un déjeuner au bord du lac, les promenades vous invitent à la détente. L'après-midi, le funiculaire historique vous transporte sur les hauteurs avant d'admirer l'opulente Villa Lumière. La soirée se termine avec une atmosphère paisible au port, autour d'un verre de vin de Savoie."
+        "fr": "Commencez votre journée à la Source Cachat, lieu de naissance de la fameuse eau. Une courte promenade vous mène au magnifique Palais Lumière, où l’art rencontre l’architecture Belle Époque. Après un déjeuner au bord du lac, les promenades invitent à la détente. L’après-midi, le funiculaire historique vous porte sur les hauteurs avant d’admirer la somptueuse Villa Lumière. La soirée se termine de façon atmosphérique au port avec un verre de vin savoyard."
       },
       "gastro_picks": {
         "de": [
@@ -350,9 +350,9 @@
         ],
         "fr": [
           "Portez des chaussures confortables pour les rues escarpées de la ville haute.",
-          "Utilisez le funiculaire gratuit pour économiser votre énergie lors de la montée.",
-          "Réservez à l'avance pour les dîners au bord du lac.",
-          "La Source Cachat est accessible gratuitement 24h/24."
+          "Utilisez le funiculaire gratuit pour économiser vos forces dans la montée.",
+          "Réservez à l’avance pour les dîners au bord du lac.",
+          "La Source Cachat est accessible gratuitement 24 heures sur 24."
         ]
       },
       "variants": {
@@ -361,7 +361,8 @@
             "de": "Beginnen Sie Ihren Tag an der Cachat-Quelle, dem Geburtsort des berühmten Wassers. Ein kurzer Spaziergang führt Sie zum prachtvollen Palais Lumière, wo Kunst auf Belle-Époque-Architektur trifft. Nach einem Mittagessen mit Seeblick laden die Uferpromenaden zum Verweilen ein. Am Nachmittag bringt Sie die historische Standseilbahn in die Höhe, bevor Sie die opulente Villa Lumière bestaunen. Der Abend endet stimmungsvoll am Hafen bei einem Glas Savoyer Wein.",
             "hu": "Kezdje a napot a Cachat-forrásnál, a híres víz szülőhelyén. Egy rövid séta elvezeti a pompás Palais Lumière-hez, ahol a művészet találkozik a Belle Époque építészetével. A tóparti ebéd után a sétány hívogat pihenésre. Délután a történelmi sikló repíti a magasba, mielőtt megcsodálná a fényűző Villa Lumière-t. Az este hangulatosan zárul a kikötőben egy pohár savoyai bor társaságában.",
             "ro": "Începeți ziua la Sursa Cachat, locul de naștere al celebrei ape minerale. O scurtă plimbare vă duce la magnificul Palais Lumière, unde arta întâlnește arhitectura Belle Époque. După un prânz cu vedere la lac, faleza vă invită la relaxare. După-amiaza, funicularul istoric vă poartă spre înălțimi, înainte de a admira opulenta Villa Lumière. Seara se încheie atmosferic în port, cu un pahar de vin de Savoia.",
-            "en": "Start your day at the Cachat Source, the birthplace of the famous water. A short walk leads you to the magnificent Palais Lumière, where art meets Belle Époque architecture. After a lakeside lunch, the promenades invite you to relax. In the afternoon, the historic funicular carries you to the heights before you admire the opulent Villa Lumière. The evening ends atmospherically at the harbor with a glass of Savoy wine."
+            "en": "Start your day at the Cachat Source, the birthplace of the famous water. A short walk leads you to the magnificent Palais Lumière, where art meets Belle Époque architecture. After a lakeside lunch, the promenades invite you to relax. In the afternoon, the historic funicular carries you to the heights before you admire the opulent Villa Lumière. The evening ends atmospherically at the harbor with a glass of Savoy wine.",
+            "fr": "Commencez votre journée à la Source Cachat, lieu de naissance de la fameuse eau. Une courte promenade vous mène au magnifique Palais Lumière, où l’art rencontre l’architecture Belle Époque. Après un déjeuner au bord du lac, les promenades invitent à la détente. L’après-midi, le funiculaire historique vous porte sur les hauteurs avant d’admirer la somptueuse Villa Lumière. La soirée se termine de façon atmosphérique au port avec un verre de vin savoyard."
           },
           "stops": [
             {
@@ -370,7 +371,8 @@
                 "de": "Bringen Sie eine leere Flasche mit, um das frische Quellwasser kostenlos zu probieren.",
                 "hu": "Hozz magaddal üres palackot, hogy ingyen megkóstolhasd a friss forrásvizet.",
                 "ro": "Aduceți o sticlă goală pentru a gusta apa proaspătă de izvor gratuit.",
-                "en": "Bring an empty bottle to taste the fresh spring water for free."
+                "en": "Bring an empty bottle to taste the fresh spring water for free.",
+                "fr": "Apportez une bouteille vide pour goûter gratuitement l’eau de source fraîche."
               }
             },
             {
@@ -379,7 +381,8 @@
                 "de": "Bewundern Sie die Architektur der ehemaligen Thermen, heute ein Kulturzentrum.",
                 "hu": "Csodáld meg az egykori termálfürdő építészetét, amely ma kulturális központ.",
                 "ro": "Admirați arhitectura fostelor băi termale, acum un centru cultural.",
-                "en": "Admire the architecture of the former thermal baths, now a cultural center."
+                "en": "Admire the architecture of the former thermal baths, now a cultural center.",
+                "fr": "Admirez l’architecture des anciens thermes, aujourd’hui transformés en centre culturel."
               }
             },
             {
@@ -388,7 +391,8 @@
                 "de": "Probieren Sie die Barschfilets direkt aus dem Genfersee.",
                 "hu": "Kóstold meg a közvetlenül a Genfi-tóból fogott süllőfilét.",
                 "ro": "Gustați fileul de biban proaspăt pescuit direct din Lacul Geneva.",
-                "en": "Try the perch fillets caught directly from Lake Geneva."
+                "en": "Try the perch fillets caught directly from Lake Geneva.",
+                "fr": "Goûtez les filets de perche pêchés directement dans le lac Léman."
               }
             },
             {
@@ -397,7 +401,8 @@
                 "de": "Genießen Sie die Blumenbeete und den Blick auf die Schweizer Alpen.",
                 "hu": "Élvezd a virágágyásokat és a svájci Alpokra nyíló kilátást.",
                 "ro": "Bucurați-vă de straturile de flori și de priveliștea spre Alpii Elvețieni.",
-                "en": "Enjoy the flower beds and the view of the Swiss Alps."
+                "en": "Enjoy the flower beds and the view of the Swiss Alps.",
+                "fr": "Profitez des massifs floraux et de la vue sur les Alpes suisses."
               }
             },
             {
@@ -406,7 +411,8 @@
                 "de": "Diese historische Standseilbahn aus dem Jahr 1907 ist kostenlos.",
                 "hu": "Ez az 1907-ből származó történelmi sikló teljesen ingyenes.",
                 "ro": "Acest funicular istoric din 1907 este complet gratuit.",
-                "en": "This historic funicular from 1907 is completely free of charge."
+                "en": "This historic funicular from 1907 is completely free of charge.",
+                "fr": "Ce funiculaire historique de 1907 est entièrement gratuit."
               }
             },
             {
@@ -415,7 +421,8 @@
                 "de": "Besuchen Sie das Rathaus, das im ehemaligen Wohnhaus der Brüder Lumière untergebracht ist.",
                 "hu": "Látogass el a városházára, amely a Lumière fivérek egykori lakóházában van.",
                 "ro": "Vizitați primăria, situată în fosta reședință a fraților Lumière.",
-                "en": "Visit the town hall, located in the former residence of the Lumière brothers."
+                "en": "Visit the town hall, located in the former residence of the Lumière brothers.",
+                "fr": "Visitez la mairie, située dans l’ancienne résidence des frères Lumière."
               }
             },
             {
@@ -424,7 +431,8 @@
                 "de": "Der perfekte Ort, um den Tag mit Blick auf den See ausklingen zu lassen.",
                 "hu": "Tökéletes hely a nap lezárására a tóra nyíló kilátással.",
                 "ro": "Locul perfect pentru a încheia ziua cu o priveliște superbă asupra lacului.",
-                "en": "The perfect spot to end the day with a view over the lake."
+                "en": "The perfect spot to end the day with a view over the lake.",
+                "fr": "L’endroit idéal pour terminer la journée avec une vue sur le lac."
               }
             }
           ],
@@ -586,6 +594,12 @@
               "Use the free funicular to save energy on the climb.",
               "Book in advance for dinners on the lakeside.",
               "The Cachat Source is accessible for free 24 hours a day."
+            ],
+            "fr": [
+              "Portez des chaussures confortables pour les rues escarpées de la ville haute.",
+              "Utilisez le funiculaire gratuit pour économiser vos forces dans la montée.",
+              "Réservez à l’avance pour les dîners au bord du lac.",
+              "La Source Cachat est accessible gratuitement 24 heures sur 24."
             ]
           }
         },
@@ -595,7 +609,7 @@
             "hu": "Kezdje a napot a Source Cachat díszes teteje alatt, védve az esőtől. Délelőtt a Palais Lumière kiállításai nyújtanak menedéket a kultúra kedvelőinek. Ebédeljen kényelmesen a Jardin d'Eden étteremben, amíg eláll az égi áldás. Délután a siklóval (Funiculaire) szárazon juthat fel a város felső részébe, az estét pedig a kikötőben, a ködös Genfi-tó látványával zárhatja.",
             "ro": "Începeți ziua la adăpost sub pavilionul Source Cachat, ascultând ploaia pe acoperișul istoric. Dimineața, Palais Lumière oferă refugiul cultural perfect împotriva vremii umede. Savurați un prânz prelungit la Jardin d'Eden pentru a evita aversa. După-amiaza, folosiți funicularul pentru a urca uscat în partea de sus a orașului și încheiați ziua în port, admirând lacul Geneva sub cerul înnorat.",
             "en": "Start your day sheltered under the ornate roof of Source Cachat as rain taps on the historic structure. Spend your morning inside the Palais Lumière, a perfect cultural refuge from the wet weather. Enjoy a long lunch at Jardin d'Eden to wait out the showers. In the afternoon, take the funicular to stay dry while ascending the hill, and finish your day at the port, watching the atmospheric rain over Lake Geneva.",
-            "fr": "Commencez votre journée à l'abri sous le toit orné de la Source Cachat alors que la pluie crépite sur la structure historique. Passez votre matinée à l'intérieur du Palais Lumière, un refuge culturel parfait par temps humide. Profitez d'un long déjeuner au Jardin d'Éden en attendant que les averses passent. L'après-midi, prenez le funiculaire pour rester au sec tout en grimpant la colline, et finissez votre journée au port, en regardant la pluie tomber sur le lac Léman."
+            "fr": "Commencez la journée à l’abri sous la toiture ornée de la Source Cachat tandis que la pluie tambourine sur la structure historique. Passez la matinée à l’intérieur du Palais Lumière, parfait refuge culturel contre les intempéries. Profitez d’un long déjeuner au Jardin d’Eden pour attendre la fin des averses. L’après-midi, prenez le funiculaire pour rester au sec en montant la colline, puis terminez votre journée au port en regardant la pluie atmosphérique sur le lac Léman."
           },
           "stops": [
             {
@@ -605,7 +619,7 @@
                 "hu": "Az üvegtető kiváló védelmet nyújt a hirtelen záporok ellen vízkóstolás közben.",
                 "ro": "Acoperișul de sticlă oferă protecție excelentă împotriva ploii în timp ce gustați apa.",
                 "en": "The glass roof provides excellent shelter from sudden showers while tasting the water.",
-                "fr": "La verrière offre un excellent abri contre les averses soudaines pendant la dégustation."
+                "fr": "La verrière offre un excellent abri contre les averses soudaines pendant la dégustation de l’eau."
               }
             },
             {
@@ -615,7 +629,7 @@
                 "hu": "Ideális esős napokra: a ruhatárban kényelmesen elhelyezheti nedves kabátját.",
                 "ro": "Ideal pentru zile ploioase: garderoba are spațiu pentru haine umede și umbrele.",
                 "en": "Ideal for rainy days: the cloakroom has space for wet coats and umbrellas.",
-                "fr": "Idéal pour les jours de pluie : le vestiaire dispose d'un espace pour les manteaux et parapluies mouillés."
+                "fr": "Idéal par temps de pluie : le vestiaire dispose d’espace pour les manteaux et parapluies mouillés."
               }
             },
             {
@@ -625,7 +639,7 @@
                 "hu": "Kérjen asztalt beljebb, távol a huzatos bejárati ajtótól.",
                 "ro": "Cereți o masă în interior, departe de ușa de la intrare unde este curent.",
                 "en": "Ask for a table further inside, away from the drafty entrance door.",
-                "fr": "Demandez une table à l'intérieur, loin de la porte d'entrée sujette aux courants d'air."
+                "fr": "Demandez une table plus à l’intérieur, à l’écart de la porte d’entrée courante d’air."
               }
             },
             {
@@ -635,7 +649,7 @@
                 "hu": "A fák kevés védelmet nyújtanak; a tóparton elengedhetetlen egy erős esernyő.",
                 "ro": "Copacii oferă protecție limitată; o umbrelă rezistentă este esențială pe malul lacului.",
                 "en": "The trees offer limited cover; a sturdy umbrella is essential on the lakeside.",
-                "fr": "Les arbres offrent une couverture limitée ; un parapluie solide est essentiel sur le bord du lac."
+                "fr": "Les arbres offrent une couverture limitée ; un parapluie solide est indispensable au bord du lac."
               }
             },
             {
@@ -645,7 +659,7 @@
                 "hu": "A fedett kocsik a legszárazabb módot kínálják a meredek domb megmászására.",
                 "ro": "Vagoanele acoperite sunt cea mai uscată cale de a urca dealul abrupt.",
                 "en": "The covered carriages are the driest way to climb the steep hill.",
-                "fr": "Les voitures couvertes sont le moyen le plus sec de gravir la colline escarpée."
+                "fr": "Les voitures couvertes sont le moyen le plus sec de gravir la colline."
               }
             },
             {
@@ -655,7 +669,7 @@
                 "hu": "Csodálja meg a pompás belső teret, miközben odakint esik az eső.",
                 "ro": "Admirați interiorul somptuos în timp ce afară plouă torențial.",
                 "en": "Admire the magnificent interior while the rain pours outside.",
-                "fr": "Admirez le magnifique intérieur pendant que la pluie tombe à l'extérieur."
+                "fr": "Admirez l’intérieur magnifique pendant que la pluie tombe à l’extérieur."
               }
             },
             {
@@ -665,7 +679,7 @@
                 "hu": "Esőben gyakran drámai fényviszonyok alakulnak ki a tó felett, érdemes fotózni.",
                 "ro": "Pe ploaie, se creează adesea lumini dramatice peste lac, ideale pentru fotografii.",
                 "en": "Rainy weather often creates dramatic lighting over the lake, great for photos.",
-                "fr": "Le temps pluvieux crée souvent des lumières dramatiques sur le lac, idéales pour les photos."
+                "fr": "Le temps pluvieux crée souvent un éclairage dramatique sur le lac, idéal pour la photographie."
               }
             }
           ],
@@ -699,11 +713,11 @@
               "A sturdy compact umbrella is often more practical than a large one due to lake winds."
             ],
             "fr": [
-              "Portez des chaussures imperméables car les pavés de la vieille ville peuvent devenir glissants.",
-              "Utilisez le funiculaire comme option de transport gratuite et sèche entre les différents niveaux.",
-              "La Source Cachat est le meilleur endroit pour une pause sous la pluie tout en dégustant l'eau de source.",
-              "Planifiez votre visite du Palais Lumière pour le moment où la pluie est la plus forte.",
-              "Un parapluie compact et solide est souvent plus pratique qu'un grand en raison des vents du lac."
+              "Portez des chaussures imperméables car les pavés de la vieille ville peuvent devenir glissants quand ils sont mouillés.",
+              "Utilisez le funiculaire comme option de transport gratuite et sèche entre les différents niveaux de la ville.",
+              "La Source Cachat est l’endroit idéal pour une pause sous la pluie tout en dégustant de l’eau de source fraîche.",
+              "Planifiez votre visite du Palais Lumière pour les moments de pluies les plus fortes.",
+              "Un parapluie compact et solide est souvent plus pratique qu’un grand en raison des vents du lac."
             ]
           }
         },
@@ -713,7 +727,7 @@
             "hu": "Fedezze fel Évian téli báját, kezdve egy frissítő korty forrásvízzel a Source Cachat-nál. Délelőtt a Palais Lumière elegáns termeiben melegedhet fel művészetet csodálva. Ebédre válasszon kiadós savoyai ételeket a Jardin d'Edenben. Délután élvezze a kristálytiszta alpesi levegőt a tóparti sétányon, majd a történelmi siklóval menjen fel a kivilágított felsővárosba, végül nézze meg a korai naplementét a kikötőből.",
             "ro": "Descoperiți farmecul iernii în Évian, începând cu o gură de apă proaspătă la Source Cachat. Dimineața, încălziți-vă admirând arta în somptuosul Palais Lumière. La prânz, lăsați-vă tentați de specialitățile savoyarde consistente la Jardin d'Eden. După-amiaza, bucurați-vă de aerul curat de munte pe faleză, înainte de a urca cu funicularul în orașul luminat, admirând apusul timpuriu din port.",
             "en": "Experience the winter charm of Évian, starting with a refreshing sip of spring water at Source Cachat. In the morning, warm up while admiring art inside the magnificent Palais Lumière. For lunch, indulge in hearty Savoyard specialties at Jardin d'Eden. In the afternoon, enjoy the crisp Alpine air on the lakeside promenade before taking the historic funicular to the illuminated upper town for an early sunset at the port.",
-            "fr": "Découvrez le charme hivernal d'Évian, en commençant par une gorgée rafraîchissante d'eau de source à la Source Cachat. Le matin, réchauffez-vous en admirant l'art à l'intérieur du magnifique Palais Lumière. Pour le déjeuner, laissez-vous tenter par les copieuses spécialités savoyardes au Jardin d'Éden. L'après-midi, profitez de l'air vif des Alpes sur la promenade du lac avant de prendre le funiculaire historique vers la ville haute illuminée pour un coucher de soleil précoce au port."
+            "fr": "Vivez le charme hivernal d’Évian, en commençant par une gorgée revigorante de la Source Cachat. Le matin, réchauffez-vous en admirant l’art à l’intérieur du magnifique Palais Lumière. Pour le déjeuner, offrez-vous des spécialités savoyardes copieuses au Jardin d’Eden. L’après-midi, profitez de l’air vif alpin sur la promenade du lac avant de prendre le funiculaire historique vers la ville haute illuminée pour un coucher de soleil anticipé au port."
           },
           "stops": [
             {
@@ -723,7 +737,7 @@
                 "hu": "A forrásvíz egész évben állandó, frissítő 12 fokosan tör fel a föld alól.",
                 "ro": "Apa izvorăște la o temperatură constantă de 12 grade pe tot parcursul anului.",
                 "en": "The water flows at a constant 12 degrees Celsius all year round.",
-                "fr": "L'eau coule à une température constante de 12 degrés Celsius toute l'année."
+                "fr": "L’eau coule en permanence à 12 degrés Celsius tout au long de l’année."
               }
             },
             {
@@ -733,7 +747,7 @@
                 "hu": "Kiválóan fűtött helyszín, ahol pár órára elmenekülhet a kinti hideg elől.",
                 "ro": "Un loc bine încălzit unde puteți scăpa de frigul de afară pentru câteva ore.",
                 "en": "A beautifully heated venue to escape the outside cold for a few hours.",
-                "fr": "Un lieu magnifiquement chauffé pour échapper au froid extérieur pendant quelques heures."
+                "fr": "Un lieu joliment chauffé pour s’échapper du froid extérieur pendant quelques heures."
               }
             },
             {
@@ -743,7 +757,7 @@
                 "hu": "Télen mindenképpen kóstolja meg a hagyományos sajtfonduét vagy a tartiflette-et.",
                 "ro": "Iarna, nu ratați fondue-ul tradițional de brânză sau preparatul tartiflette.",
                 "en": "In winter, be sure to try the traditional cheese fondue or tartiflette.",
-                "fr": "En hiver, ne manquez pas de goûter la fondue au fromage traditionnelle ou la tartiflette."
+                "fr": "En hiver, pensez à goûter la fondue au fromage traditionnelle ou la tartiflette."
               }
             },
             {
@@ -753,7 +767,7 @@
                 "hu": "Öltözzön rétegesen; a tóról fújó hideg szél (Bise) metsző lehet ilyenkor.",
                 "ro": "Îmbrăcați-vă gros; vântul rece dinspre nord-est poate fi tăios pe malul lacului.",
                 "en": "Dress warmly; the 'Bise', a cold northeast wind, can be very sharp by the lake.",
-                "fr": "Habillez-vous chaudement ; la Bise, un vent froid du nord-est, peut être très cinglante au bord du lac."
+                "fr": "Habillez-vous chaudement ; la 'Bise', un vent froid du nord‑est, peut être très mordante au bord du lac."
               }
             },
             {
@@ -763,7 +777,7 @@
                 "hu": "Élvezze a kilátást a szemközti Svájci Alpok hófödte csúcsaira.",
                 "ro": "Bucurați-vă de vederea spre vârfurile înzăpezite ale Alpilor elvețieni de peste lac.",
                 "en": "Enjoy the view of the snow-capped Swiss Alpine peaks across the lake.",
-                "fr": "Profitez de la vue sur les sommets enneigés des Alpes suisses de l'autre côté du lac."
+                "fr": "Profitez de la vue sur les sommets alpins suisses enneigés de l’autre côté du lac."
               }
             },
             {
@@ -773,7 +787,7 @@
                 "hu": "A belső terek gazdag faborítása különösen meghitt hangulatot áraszt télen.",
                 "ro": "Lambriurile bogate de lemn din interior creează o atmosferă primitoare.",
                 "en": "The rich wood paneling inside creates a cozy atmosphere in winter.",
-                "fr": "Les riches boiseries intérieures créent une atmosphère chaleureuse en hiver."
+                "fr": "Le riche lambrissage en bois à l’intérieur crée une atmosphère chaleureuse en hiver."
               }
             },
             {
@@ -783,7 +797,7 @@
                 "hu": "A naplemente télen már 17:00 körül bekövetkezik, tervezzen időben.",
                 "ro": "Apusul are loc în jurul orei 17:00 iarna, deci planificați din timp.",
                 "en": "Sunset occurs around 5:00 PM in winter, so plan your visit accordingly.",
-                "fr": "Le coucher du soleil a lieu vers 17h00 en hiver, prévoyez donc votre visite en conséquence."
+                "fr": "Le coucher du soleil a lieu aux alentours de 17:00 en hiver, planifiez votre visite en conséquence."
               }
             }
           ],
@@ -817,11 +831,11 @@
               "The funicular may run on a slightly reduced schedule in winter, check the times."
             ],
             "fr": [
-              "En hiver, le soleil disparaît tôt derrière les montagnes et les températures chutent vite.",
-              "Visitez 'Le Fabuleux Village des Flottins' en décembre pour des sculptures magiques en bois flotté.",
-              "Buvez à la source ; l'eau à 12 degrés semble plus chaude que l'air extérieur glacial.",
-              "Des gants chauds sont essentiels pour votre promenade le long du lac.",
-              "Le funiculaire peut avoir des horaires légèrement réduits en hiver, vérifiez les heures."
+              "En hiver, le soleil disparaît tôt derrière les montagnes et les températures chutent rapidement.",
+              "Visitez « Le Fabuleux Village des Flottins » en décembre pour des sculptures magiques en bois flotté.",
+              "Buvez à la source ; l’eau à 12 degrés semble plus chaude que l’air glacial extérieur.",
+              "Des gants chauds sont indispensables pour votre promenade le long de la promenade du lac.",
+              "Le funiculaire peut circuler selon un horaire légèrement réduit en hiver, vérifiez les horaires."
             ]
           }
         }
@@ -851,7 +865,7 @@
             "hu": "Lapos útvonal a Genfi-tó mentén, ideális kerékpározáshoz.",
             "ro": "Un traseu plat de-a lungul Lacului Geneva, ideal pentru ciclism.",
             "en": "A flat path along Lake Geneva, ideal for cycling.",
-            "fr": "Un sentier plat le long du lac Léman, idéal pour le vélo."
+            "fr": "Un chemin plat le long du lac Léman, idéal pour le vélo."
           }
         },
         {
@@ -889,7 +903,7 @@
             "hu": "Nézd meg a vitorlásokat és a jachtokat.",
             "ro": "Priviți ambarcațiunile și iahturile din port.",
             "en": "Take a look at the sailboats and yachts in the harbor.",
-            "fr": "Jetez un œil aux voiliers et aux yachts dans le port."
+            "fr": "Admirez les voiliers et yachts dans le port."
           }
         },
         {
@@ -927,7 +941,7 @@
             "hu": "Egy lenyűgöző, fából készült koncertterem.",
             "ro": "O sală de concerte impresionantă, construită din lemn.",
             "en": "An impressive concert hall built entirely of wood.",
-            "fr": "Une salle de concert impressionnante entièrement construite en bois."
+            "fr": "Une salle de concert impressionnante entièrement en bois."
           }
         }
       ],
@@ -936,7 +950,7 @@
         "hu": "Fedezd fel a Genfi-tó partját két keréken. A virágos sétánytól indulva tekerj az éviani strandig egy frissítő pihenőre. Haladj tovább a modern jachtkikötő felé, és fedezd fel a rejtett építészeti gyöngyszemeket, mint a domboldalon lévő Grange au Lac. Ez a túra ötvözi a sportot a régió legszebb kilátópontjaival.",
         "ro": "Explorați malurile Lacului Geneva pe două roți. De la faleza plină de flori, pedalați spre plaja Évian pentru o pauză revigorantă. Continuați spre portul modern și descoperiți bijuterii arhitecturale ascunse, precum Grange au Lac de pe dealuri. Acest tur combină activitatea sportivă cu cele mai frumoase puncte de belvedere din regiune.",
         "en": "Explore the shores of Lake Geneva on two wheels. From the flower-lined promenade, cycle to the Évian beach for a refreshing break. Continue to the modern marina and discover hidden architectural gems like the Grange au Lac in the hills. This tour combines sports with the most beautiful viewpoints in the region.",
-        "fr": "Explorez les rives du lac Léman sur deux roues. Depuis la promenade fleurie, pédalez jusqu'à la plage d'Évian pour une pause rafraîchissante. Continuez vers la marina moderne et découvrez des joyaux architecturaux cachés comme la Grange au Lac dans les collines. Ce tour combine sport et les plus beaux points de vue de la région."
+        "fr": "Explorez les rives du lac Léman à deux roues. Depuis la promenade bordée de fleurs, rejoignez la plage d'Évian pour une pause rafraîchissante. Poursuivez jusqu'à la marina moderne et découvrez des trésors architecturaux cachés comme la Grange au Lac dans les collines. Cette boucle allie sport et les plus beaux panoramas de la région."
       },
       "gastro_picks": {
         "de": [
@@ -1061,9 +1075,9 @@
           "Helmets are mandatory in France for children under 12."
         ],
         "fr": [
-          "Louez un vélo électrique pour les sentiers plus raides au-dessus du lac.",
+          "Louez un vélo à assistance électrique pour les sentiers plus pentus au-dessus du lac.",
           "La promenade du bord du lac est très fréquentée le week-end ; roulez prudemment.",
-          "Le casque est obligatoire en France pour les enfants de moins de 12 ans."
+          "Le port du casque est obligatoire en France pour les enfants de moins de 12 ans."
         ]
       },
       "variants": {
@@ -1072,7 +1086,8 @@
             "de": "Erkunden Sie die Ufer des Genfersees auf zwei Rädern. Von der blumengeschmückten Promenade geht es zur Plage d'Évian für eine erfrischende Pause. Radeln Sie weiter zum modernen Jachthafen und entdecken Sie versteckte architektonische Juwelen wie die Grange au Lac in den Hügeln. Diese Tour verbindet sportliche Aktivität mit den schönsten Aussichtspunkten der Region.",
             "hu": "Fedezd fel a Genfi-tó partját két keréken. A virágos sétánytól indulva tekerj az éviani strandig egy frissítő pihenőre. Haladj tovább a modern jachtkikötő felé, és fedezd fel a rejtett építészeti gyöngyszemeket, mint a domboldalon lévő Grange au Lac. Ez a túra ötvözi a sportot a régió legszebb kilátópontjaival.",
             "ro": "Explorați malurile Lacului Geneva pe două roți. De la faleza plină de flori, pedalați spre plaja Évian pentru o pauză revigorantă. Continuați spre portul modern și descoperiți bijuterii arhitecturale ascunse, precum Grange au Lac de pe dealuri. Acest tur combină activitatea sportivă cu cele mai frumoase puncte de belvedere din regiune.",
-            "en": "Explore the shores of Lake Geneva on two wheels. From the flower-lined promenade, cycle to the Évian beach for a refreshing break. Continue to the modern marina and discover hidden architectural gems like the Grange au Lac in the hills. This tour combines sports with the most beautiful viewpoints in the region."
+            "en": "Explore the shores of Lake Geneva on two wheels. From the flower-lined promenade, cycle to the Évian beach for a refreshing break. Continue to the modern marina and discover hidden architectural gems like the Grange au Lac in the hills. This tour combines sports with the most beautiful viewpoints in the region.",
+            "fr": "Explorez les rives du lac Léman à deux roues. Depuis la promenade bordée de fleurs, rejoignez la plage d'Évian pour une pause rafraîchissante. Poursuivez jusqu'à la marina moderne et découvrez des trésors architecturaux cachés comme la Grange au Lac dans les collines. Cette boucle allie sport et les plus beaux panoramas de la région."
           },
           "stops": [
             {
@@ -1081,7 +1096,8 @@
                 "de": "Ein flacher Weg entlang des Genfersees, ideal zum Radfahren.",
                 "hu": "Lapos útvonal a Genfi-tó mentén, ideális kerékpározáshoz.",
                 "ro": "Un traseu plat de-a lungul Lacului Geneva, ideal pentru ciclism.",
-                "en": "A flat path along Lake Geneva, ideal for cycling."
+                "en": "A flat path along Lake Geneva, ideal for cycling.",
+                "fr": "Un chemin plat le long du lac Léman, idéal pour le vélo."
               }
             },
             {
@@ -1090,7 +1106,8 @@
                 "de": "Genießen Sie ein Bad im See oder den Poolbereich.",
                 "hu": "Élvezd a fürdőzést a tóban vagy a medence területén.",
                 "ro": "Bucurați-vă de o baie în lac sau de zona piscinelor.",
-                "en": "Enjoy a swim in the lake or the pool area."
+                "en": "Enjoy a swim in the lake or the pool area.",
+                "fr": "Profitez d'une baignade dans le lac ou dans l'espace piscine."
               }
             },
             {
@@ -1099,7 +1116,8 @@
                 "de": "Schauen Sie sich die Segelboote und Jachten an.",
                 "hu": "Nézd meg a vitorlásokat és a jachtokat.",
                 "ro": "Priviți ambarcațiunile și iahturile din port.",
-                "en": "Take a look at the sailboats and yachts in the harbor."
+                "en": "Take a look at the sailboats and yachts in the harbor.",
+                "fr": "Admirez les voiliers et yachts dans le port."
               }
             },
             {
@@ -1108,7 +1126,8 @@
                 "de": "Holen Sie sich lokale Spezialitäten für ein Picknick.",
                 "hu": "Vegyél helyi különlegességeket egy piknikhez.",
                 "ro": "Cumpărați specialități locale pentru un picnic.",
-                "en": "Pick up local specialties for a picnic."
+                "en": "Pick up local specialties for a picnic.",
+                "fr": "Achetez des spécialités locales pour un pique-nique."
               }
             },
             {
@@ -1117,7 +1136,8 @@
                 "de": "Ein beeindruckendes Konzerthaus aus Holz.",
                 "hu": "Egy lenyűgöző, fából készült koncertterem.",
                 "ro": "O sală de concerte impresionantă, construită din lemn.",
-                "en": "An impressive concert hall built entirely of wood."
+                "en": "An impressive concert hall built entirely of wood.",
+                "fr": "Une salle de concert impressionnante entièrement en bois."
               }
             }
           ],
@@ -1223,6 +1243,11 @@
               "Rent an e-bike for the steeper paths above the lake.",
               "The lakeside promenade is very busy on weekends; ride carefully.",
               "Helmets are mandatory in France for children under 12."
+            ],
+            "fr": [
+              "Louez un vélo à assistance électrique pour les sentiers plus pentus au-dessus du lac.",
+              "La promenade du bord du lac est très fréquentée le week-end ; roulez prudemment.",
+              "Le port du casque est obligatoire en France pour les enfants de moins de 12 ans."
             ]
           }
         },
@@ -1232,7 +1257,7 @@
             "hu": "Az esős bringázás Évianban jó felkészülést igényel. Kezdje óvatosan a Promenade du Lac-nál, ahol az aszfalt csúszós lehet. Délelőtt tekerjen el a Plage d'Évian felé, ahol a klubház nyújt menedéket. Egy kiadós E.Leclerc-nél tett megálló után látogasson el a Port de Plaisance-hoz. A napot a Grange au Lac zárja, melynek faépülete borús égbolt alatt is lenyűgöző.",
             "ro": "O zi ploioasă pe bicicletă în Évian necesită echipament adecvat. Începeți cu atenție pe Promenade du Lac, unde asfaltul poate fi alunecos. Dimineața, pedalați spre Plage d'Évian, unde vă puteți adăposti la club. După o pauză la E.Leclerc, vizitați Port de Plaisance. Finalul aparține sălii Grange au Lac, a cărei arhitectură impresionează chiar și sub cerul gri.",
             "en": "A rainy day on a bike in Évian requires proper preparation. Start carefully at the Promenade du Lac, where the asphalt can be slippery. In the morning, cycle to Plage d'Évian, where the clubhouse offers shelter. After a replenishing stop at E.Leclerc, visit the Port de Plaisance in the afternoon. The day ends at the Grange au Lac, whose architecture is stunning even under grey skies.",
-            "fr": "Une journée pluvieuse à vélo à Évian nécessite une bonne préparation. Commencez prudemment à la Promenade du Lac, où l'asphalte peut être glissant. Le matin, pédalez jusqu'à la Plage d'Évian, où le club-house offre un abri. Après une halte régénérante chez E.Leclerc, visitez le Port de Plaisance l'après-midi. La journée se termine à la Grange au Lac, dont l'architecture est magnifique même sous un ciel gris."
+            "fr": "Un jour de pluie à vélo à Évian demande une bonne préparation. Commencez prudemment sur la Promenade du Lac, où l'asphalte peut être glissant. Le matin, roulez jusqu'à Plage d'Évian, où le club-house offre un abri. Après un arrêt ravivant chez E.Leclerc, visitez le Port de Plaisance l'après-midi. La journée se termine à la Grange au Lac, dont l'architecture reste saisissante même sous un ciel gris."
           },
           "stops": [
             {
@@ -1242,7 +1267,7 @@
                 "hu": "Vigyázzon a nedves levelekre az úton; a kanyarok trükkösek lehetnek.",
                 "ro": "Atenție la frunzele ude de pe drum; virajele pot fi periculoase.",
                 "en": "Watch out for wet leaves on the path; the turns can be treacherous.",
-                "fr": "Attention aux feuilles mortes mouillées sur le chemin ; les virages peuvent être traîtres."
+                "fr": "Attention aux feuilles mouillées sur le chemin ; les virages peuvent être traîtres."
               }
             },
             {
@@ -1252,7 +1277,7 @@
                 "hu": "Használja a fedett bejárati részt az esővédő ruházat igazításához.",
                 "ro": "Folosiți zona de intrare acoperită pentru a vă ajusta echipamentul de ploaie.",
                 "en": "Use the covered entrance area to adjust your rain gear.",
-                "fr": "Utilisez l'entrée couverte pour ajuster votre tenue de pluie."
+                "fr": "Utilisez l'emmarchement couvert pour ajuster votre tenue de pluie."
               }
             },
             {
@@ -1272,7 +1297,7 @@
                 "hu": "Nagy parkoló, részben fedett kerékpártárolókkal a bejárat közelében.",
                 "ro": "Parcare mare cu zone parțial acoperite pentru biciclete disponibile.",
                 "en": "Large parking area with some covered sections for bikes available.",
-                "fr": "Grand parking avec quelques sections couvertes disponibles pour les vélos."
+                "fr": "Grand parking avec quelques sections couvertes pour vélos disponibles."
               }
             },
             {
@@ -1316,11 +1341,11 @@
               "Use the 'Météo-France' app for precise local rain radar data."
             ],
             "fr": [
-              "Évitez les manœuvres de freinage brusques sur le chemin humide du bord du lac.",
-              "Un équipement de pluie complet, incluant des sur-chaussures, est fortement recommandé.",
-              "Les toilettes publiques le long de la promenade sont de bons endroits pour se sécher rapidement.",
-              "Vérifiez vos plaquettes de frein avant de partir, car l'humidité réduit l'efficacité du freinage.",
-              "Utilisez l'application 'Météo-France' pour des données radar de pluie locales précises."
+              "Évitez les manoeuvres de freinage brusques sur la voie humide du bord du lac.",
+              "Une tenue de pluie complète, y compris couvre-chaussures, est fortement recommandée.",
+              "Les toilettes publiques le long de la promenade sont des endroits pratiques pour se sécher rapidement.",
+              "Vérifiez vos plaquettes de frein avant de partir, l'humidité réduit l'efficacité du freinage.",
+              "Utilisez l'application 'Météo-France' pour des données radar pluie locales précises."
             ]
           }
         },
@@ -1330,7 +1355,7 @@
             "hu": "A téli bringázás Évianban kristálytiszta kilátást kínál. Induljon jól felöltözve a Promenade du Lac-tól, érezve a friss szellőt. Délelőtt tekerjen a Plage d'Évian felé, amely télen melankolikus szépséget áraszt. Egy melegítő E.Leclerc megálló után fedezze fel a Port de Plaisance-t. Fejezze be a túrát a Grange au Lac-nál, ahol a rengeteg fa meleg kisugárzást ad a tájnak sötétedés előtt.",
             "ro": "Pedalatul iarna în Évian oferă panorame de cristal. Începeți bine echipat pe Promenade du Lac și simțiți briza proaspătă. Dimineața, mergeți spre Plage d'Évian, care iarna are o frumusețe melancolică. După o pauză de încălzire la E.Leclerc, explorați Port de Plaisance. Încheiați turul la Grange au Lac, unde lemnul masiv emană o aură caldă înainte de lăsarea serii.",
             "en": "Cycling in winter in Évian offers crystal-clear views. Start well-layered at the Promenade du Lac and feel the fresh breeze. In the morning, head to Plage d'Évian, which radiates a melancholic beauty in winter. After a warming stop at E.Leclerc, explore the Port de Plaisance. Finish your tour at the Grange au Lac, where the vast amount of wood gives off a warm aura before darkness falls.",
-            "fr": "Le vélo en hiver à Évian offre des vues cristallines. Commencez bien couvert sur la Promenade du Lac et sentez la brise fraîche. Le matin, dirigez-vous vers la Plage d'Évian, qui dégage une beauté mélancolique en hiver. Après une pause réchauffante chez E.Leclerc, explorez le Port de Plaisance. Terminez votre tour à la Grange au Lac, où le bois omniprésent dégage une aura chaleureuse avant la tombée de la nuit."
+            "fr": "Faire du vélo en hiver à Évian offre des vues d'une grande clarté. Débutez bien habillé par couches à la Promenade du Lac et sentez la brise fraîche. Le matin, dirigez-vous vers Plage d'Évian, qui dégage une beauté mélancolique en hiver. Après un arrêt réchauffant chez E.Leclerc, explorez le Port de Plaisance. Terminez votre tour à la Grange au Lac, où la grande quantité de bois dégage une aura chaleureuse avant la tombée de la nuit."
           },
           "stops": [
             {
@@ -1340,7 +1365,7 @@
                 "hu": "Ügyeljen a lefagyásokra az út árnyékosabb szakaszaiban.",
                 "ro": "Atenție la porțiunile cu polei în zonele umbrite ale drumului.",
                 "en": "Watch out for black ice in shaded areas of the path.",
-                "fr": "Attention au verglas dans les zones ombragées du parcours."
+                "fr": "Attention au verglas noir dans les zones ombragées du chemin."
               }
             },
             {
@@ -1350,7 +1375,7 @@
                 "hu": "A tavi szél itt különösen hideg; viseljen szélálló ruházatot.",
                 "ro": "Vântul de pe lac este deosebit de rece aici; purtați o jachetă anti-vânt.",
                 "en": "The wind from the lake is especially cold here; wear a windstopper.",
-                "fr": "Le vent du lac est particulièrement froid ici ; portez un coupe-vent."
+                "fr": "Le vent venant du lac est particulièrement froid ici ; portez un coupe-vent."
               }
             },
             {
@@ -1360,7 +1385,7 @@
                 "hu": "Télen itt nagyon nagy a nyugalom; élvezze a vízparti csendet.",
                 "ro": "Iarna este foarte liniște aici; bucurați-vă de tăcerea de lângă apă.",
                 "en": "It's very quiet here in winter; enjoy the silence by the water.",
-                "fr": "C'est très calme ici en hiver ; profitez du silence au bord de l'eau."
+                "fr": "Il règne une grande tranquillité ici en hiver ; profitez du silence au bord de l'eau."
               }
             },
             {
@@ -1370,7 +1395,7 @@
                 "hu": "Vigyen magával egy forró teát vagy kávét a visszaútra a felmelegedéshez.",
                 "ro": "Luați un ceai sau o cafea fierbinte pentru a vă încălzi pe drumul de întoarcere.",
                 "en": "Grab a hot tea or coffee to warm up for the ride back.",
-                "fr": "Prenez un thé ou un café chaud pour vous réchauffer avant le trajet du retour."
+                "fr": "Prenez un thé ou un café chaud pour vous réchauffer avant le retour."
               }
             },
             {
@@ -1380,7 +1405,7 @@
                 "hu": "A faépítészet különösen lenyűgöző a téli súrolófényekben.",
                 "ro": "Arhitectura din lemn pare deosebit de impresionantă în lumina iernii.",
                 "en": "The wooden architecture looks particularly impressive in the winter light.",
-                "fr": "L'architecture en bois est particulièrement impressionnante sous la lumière hivernale."
+                "fr": "L'architecture en bois est particulièrement impressionnante à la lumière hivernale."
               }
             }
           ],
@@ -1414,11 +1439,11 @@
               "Cold grease can make the gear shifts slightly stiffer than usual."
             ],
             "fr": [
-              "Des gants chauds et un bonnet sous le casque sont obligatoires par températures glaciales.",
-              "Les batteries des vélos électriques se vident plus vite dans le froid ; prévoyez des réserves.",
-              "L'air clair de l'hiver offre souvent les meilleures vues sur les Alpes suisses.",
-              "Prévoyez d'être de retour avant 17h00, car la nuit tombe très soudainement.",
-              "La graisse froide peut rendre les changements de vitesse légèrement plus raides que d'habitude."
+              "Gants chauds et bonnet sous le casque sont obligatoires par grand froid.",
+              "Les batteries des vélos à assistance électrique se déchargent plus vite par temps froid ; prévoyez des réserves supplémentaires.",
+              "L'air clair d'hiver offre souvent les meilleures vues sur les Alpes suisses.",
+              "Prévoyez d'être de retour avant 17:00, la nuit tombant très rapidement.",
+              "La graisse froide peut rendre les changements de vitesse légèrement plus rigides que d'habitude."
             ]
           }
         }
@@ -1467,7 +1492,7 @@
             "hu": "Látványos kilátás a Genfi-tóra a hegyekből.",
             "ro": "Vedere spectaculoasă asupra Lacului Geneva din munți.",
             "en": "Spectacular view of Lake Geneva from the mountains.",
-            "fr": "Vue spectaculaire sur le lac Léman depuis les montagnes."
+            "fr": "Vue spectaculaire sur le lac Léman depuis la montagne."
           }
         },
         {
@@ -1486,7 +1511,7 @@
             "hu": "Tipikus alpesi falu kiváló sajtüzemekkel.",
             "ro": "Un sat alpin tipic, cu brânzării excelente.",
             "en": "A typical Alpine village with excellent cheese dairies.",
-            "fr": "Un village alpin typique avec d'excellentes fromageries."
+            "fr": "Un village alpin typique avec d'excellentes fruitières à fromage."
           }
         },
         {
@@ -1533,7 +1558,7 @@
         "hu": "Autóval nemcsak Éviant, hanem a fenséges hátországot is felfedezheted. Vezess fel a Dent d'Oche-hoz a páratlan hegyi panorámáért. Látogass el a bájos Bernex faluba, hogy megkóstold az autentikus alpesi sajtot, mielőtt délután felfedeznéd a szomszédos Thonon-les-Bains-t és történelmi kastélyát. Tökéletes nap a tó és a csúcsok között.",
         "ro": "Cu mașina, explorați nu doar Évian, ci și hinterlandul maiestuos. Conduceți până la Dent d'Oche pentru o panoramă montană de neegalat. Vizitați satul fermecător Bernex pentru a gusta brânză alpină autentică, înainte de a explora după-amiaza orașul vecin Thonon-les-Bains și castelul său istoric. O zi perfectă între lac și vârfuri.",
         "en": "By car, you explore not only Évian but also the majestic hinterland. Drive up to Dent d'Oche for an unparalleled mountain panorama. Visit the charming village of Bernex to taste authentic Alpine cheese before exploring neighboring Thonon-les-Bains and its historic castle in the afternoon. A perfect day between lake and peaks.",
-        "fr": "En voiture, vous explorez non seulement Évian mais aussi l'arrière-pays majestueux. Montez jusqu'à la Dent d'Oche pour un panorama montagnard inégalé. Visitez le charmant village de Bernex pour déguster un authentique fromage alpin avant d'explorer la ville voisine de Thonon-les-Bains et son château historique dans l'après-midi. Une journée parfaite entre lac et sommets."
+        "fr": "En voiture, vous explorez non seulement Évian mais aussi l'arrière-pays majestueux. Montez jusqu'à la Dent d'Oche pour un panorama montagnard inégalé. Visitez le charmant village de Bernex pour goûter au fromage alpin authentique avant d'explorer la voisine Thonon-les-Bains et son château historique l'après-midi. Une journée parfaite entre lac et sommets."
       },
       "gastro_picks": {
         "de": [
@@ -1659,8 +1684,8 @@
         ],
         "fr": [
           "Les routes de montagne peuvent être étroites ; conduisez prudemment.",
-          "Le stationnement dans le centre d'Évian est limité ; utilisez les parkings couverts.",
-          "Une visite au Château de Ripaille nécessite souvent une réservation."
+          "Le stationnement au centre d'Évian est limité ; utilisez les parkings couverts.",
+          "Une visite du château de Ripaille nécessite souvent une réservation."
         ]
       },
       "variants": {
@@ -1669,7 +1694,8 @@
             "de": "Mit dem Auto erkunden Sie nicht nur Évian, sondern auch das majestätische Hinterland. Fahren Sie hinauf zum Dent d'Oche für ein unvergleichliches Bergpanorama. Besuchen Sie das charmante Dorf Bernex, um authentischen Alpkäse zu kosten, bevor Sie am Nachmittag das benachbarte Thonon-les-Bains und sein historisches Schloss erkunden. Ein perfekter Tag zwischen See und Gipfeln.",
             "hu": "Autóval nemcsak Éviant, hanem a fenséges hátországot is felfedezheted. Vezess fel a Dent d'Oche-hoz a páratlan hegyi panorámáért. Látogass el a bájos Bernex faluba, hogy megkóstold az autentikus alpesi sajtot, mielőtt délután felfedeznéd a szomszédos Thonon-les-Bains-t és történelmi kastélyát. Tökéletes nap a tó és a csúcsok között.",
             "ro": "Cu mașina, explorați nu doar Évian, ci și hinterlandul maiestuos. Conduceți până la Dent d'Oche pentru o panoramă montană de neegalat. Vizitați satul fermecător Bernex pentru a gusta brânză alpină autentică, înainte de a explora după-amiaza orașul vecin Thonon-les-Bains și castelul său istoric. O zi perfectă între lac și vârfuri.",
-            "en": "By car, you explore not only Évian but also the majestic hinterland. Drive up to Dent d'Oche for an unparalleled mountain panorama. Visit the charming village of Bernex to taste authentic Alpine cheese before exploring neighboring Thonon-les-Bains and its historic castle in the afternoon. A perfect day between lake and peaks."
+            "en": "By car, you explore not only Évian but also the majestic hinterland. Drive up to Dent d'Oche for an unparalleled mountain panorama. Visit the charming village of Bernex to taste authentic Alpine cheese before exploring neighboring Thonon-les-Bains and its historic castle in the afternoon. A perfect day between lake and peaks.",
+            "fr": "En voiture, vous explorez non seulement Évian mais aussi l'arrière-pays majestueux. Montez jusqu'à la Dent d'Oche pour un panorama montagnard inégalé. Visitez le charmant village de Bernex pour goûter au fromage alpin authentique avant d'explorer la voisine Thonon-les-Bains et son château historique l'après-midi. Une journée parfaite entre lac et sommets."
           },
           "stops": [
             {
@@ -1678,7 +1704,8 @@
                 "de": "Nutzen Sie die Tiefgarage am Palais Lumière.",
                 "hu": "Használd a Palais Lumière melletti mélygarázst.",
                 "ro": "Folosiți parcarea subterană de la Palais Lumière.",
-                "en": "Use the underground parking at Palais Lumière."
+                "en": "Use the underground parking at Palais Lumière.",
+                "fr": "Utilisez le parking souterrain du Palais Lumière."
               }
             },
             {
@@ -1687,7 +1714,8 @@
                 "de": "Spektakuläre Aussicht auf den Genfersee von den Bergen.",
                 "hu": "Látványos kilátás a Genfi-tóra a hegyekből.",
                 "ro": "Vedere spectaculoasă asupra Lacului Geneva din munți.",
-                "en": "Spectacular view of Lake Geneva from the mountains."
+                "en": "Spectacular view of Lake Geneva from the mountains.",
+                "fr": "Vue spectaculaire sur le lac Léman depuis la montagne."
               }
             },
             {
@@ -1696,7 +1724,8 @@
                 "de": "Ein typisches Alpendorf mit exzellenten Käsereien.",
                 "hu": "Tipikus alpesi falu kiváló sajtüzemekkel.",
                 "ro": "Un sat alpin tipic, cu brânzării excelente.",
-                "en": "A typical Alpine village with excellent cheese dairies."
+                "en": "A typical Alpine village with excellent cheese dairies.",
+                "fr": "Un village alpin typique avec d'excellentes fruitières à fromage."
               }
             },
             {
@@ -1705,7 +1734,8 @@
                 "de": "Besuchen Sie das Schloss Ripaille am Ufer.",
                 "hu": "Látogasd meg a Ripaille kastélyt a parton.",
                 "ro": "Vizitați Castelul Ripaille situat pe mal.",
-                "en": "Visit the Ripaille Castle on the shore."
+                "en": "Visit the Ripaille Castle on the shore.",
+                "fr": "Visitez le château de Ripaille sur la rive."
               }
             },
             {
@@ -1714,7 +1744,8 @@
                 "de": "Bequemer Zugang zum See für den Sonnenuntergang.",
                 "hu": "Kényelmes hozzáférés a tóhoz a naplementéhez.",
                 "ro": "Acces convenabil la lac pentru apusul soarelui.",
-                "en": "Convenient access to the lake for the sunset."
+                "en": "Convenient access to the lake for the sunset.",
+                "fr": "Accès pratique au lac pour le coucher du soleil."
               }
             }
           ],
@@ -1820,6 +1851,11 @@
               "Mountain roads can be narrow; drive carefully.",
               "Parking in the center of Évian is limited; use parking garages.",
               "A visit to Ripaille Castle often requires a reservation."
+            ],
+            "fr": [
+              "Les routes de montagne peuvent être étroites ; conduisez prudemment.",
+              "Le stationnement au centre d'Évian est limité ; utilisez les parkings couverts.",
+              "Une visite du château de Ripaille nécessite souvent une réservation."
             ]
           }
         },
@@ -1829,7 +1865,7 @@
             "hu": "Az esős idő lehetőséget ad Évian környékének kényelmes, autós felfedezésére. Kezdjen a központban, ahol a parkolóházak száraz kijutást biztosítanak. Délelőtt autózzon a Dent d'Oche lábához; esőben a csúcsok gyakran misztikus felhőkbe burkolóznak. Ebédeljen a hangulatos Bernex faluban. A délutánt töltse a történelmi Thonon-les-Bains-ben, majd a Quai de Blonay-nál az autóból nézze a naplementét.",
             "ro": "O zi ploioasă este ocazia perfectă pentru a explora împrejurimile orașului Évian confortabil cu mașina. Începeți în centru, unde parcările subterane oferă acces uscat. Dimineața, conduceți spre baza Dent d'Oche; pe ploaie, vârfurile sunt adesea învăluite mistic în nori. Luați prânzul în pitorescul Bernex. Petreceți după-amiaza în Thonon-les-Bains, apoi admirați apusul din mașină la Quai de Blonay.",
             "en": "A rainy day offers the chance to explore the surroundings of Évian comfortably by car. Start in the center, where parking garages provide dry access. In the morning, drive to the base of Dent d'Oche; in the rain, the peaks are often mystically shrouded in clouds. Have lunch in cozy Bernex. Spend the afternoon in historic Thonon-les-Bains before enjoying the sunset atmosphere from your car at Quai de Blonay.",
-            "fr": "Une journée pluvieuse offre l'occasion d'explorer les environs d'Évian confortablement en voiture. Commencez par le centre, où les parkings couverts offrent un accès au sec. Le matin, roulez jusqu'au pied de la Dent d'Oche ; sous la pluie, les sommets sont souvent mystiquement enveloppés de nuages. Déjeunez dans le village accueillant de Bernex. Passez l'après-midi dans le Thonon-les-Bains historique avant de profiter de l'atmosphère du coucher de soleil depuis votre voiture au Quai de Blonay."
+            "fr": "Un jour de pluie offre la possibilité d'explorer confortablement les environs d'Évian en voiture. Commencez au centre, où les parkings couverts permettent un accès au sec. Le matin, conduisez jusqu'à la base de la Dent d'Oche ; sous la pluie, les sommets sont souvent mystiquement enveloppés de nuages. Déjeunez dans le chaleureux Bernex. Passez l'après-midi dans la Thonon-les-Bains historique avant d'apprécier le coucher du soleil depuis votre voiture au Quai de Blonay."
           },
           "stops": [
             {
@@ -1839,7 +1875,7 @@
                 "hu": "Használja a 'Centre Urbain' parkolóházat, hogy teljesen szárazon jusson a városba.",
                 "ro": "Folosiți parcarea 'Centre Urbain' pentru un acces complet uscat în oraș.",
                 "en": "Use the 'Centre Urbain' parking garage for a completely dry entry into the city.",
-                "fr": "Utilisez le parking 'Centre Urbain' pour une entrée en ville complètement au sec."
+                "fr": "Utilisez le parking 'Centre Urbain' pour une entrée totalement à l'abri dans la ville."
               }
             },
             {
@@ -1849,7 +1885,7 @@
                 "hu": "A hegyi út heves esőzéskor csúszós lehet; vezessen óvatosan.",
                 "ro": "Drumul montan poate fi alunecos pe ploaie torențială; conduceți cu prudență.",
                 "en": "The mountain road can be slippery during heavy rain; drive carefully.",
-                "fr": "La route de montagne peut être glissante lors de fortes pluies ; conduisez prudemment."
+                "fr": "La route de montagne peut être glissante en cas de fortes pluies ; conduisez prudemment."
               }
             },
             {
@@ -1859,7 +1895,7 @@
                 "hu": "Sok étteremnek közvetlenül az ajtó előtt van parkolója, ami ideális esőben.",
                 "ro": "Multe restaurante au locuri de parcare chiar în față, ideal pe ploaie.",
                 "en": "Many restaurants have parking spots right in front, ideal for rainy weather.",
-                "fr": "De nombreux restaurants ont des places de parking juste devant, idéal par temps de pluie."
+                "fr": "Beauxcoup de restaurants disposent d'emplacements de stationnement juste devant, idéal par temps de pluie."
               }
             },
             {
@@ -1869,7 +1905,7 @@
                 "hu": "Látogassa meg a Ripaille kastélyt, ha odakint túl hevesen esik az eső.",
                 "ro": "Vizitați Castelul Ripaille dacă afară plouă prea tare.",
                 "en": "Visit the Château de Ripaille if it's raining too hard outside.",
-                "fr": "Visitez le Château de Ripaille s'il pleut trop fort à l'extérieur."
+                "fr": "Visitez le Château de Ripaille si la pluie est trop forte dehors."
               }
             },
             {
@@ -1879,7 +1915,7 @@
                 "hu": "A tóra nyíló kilátást közvetlenül a vezetőülésből is élvezheti.",
                 "ro": "Puteți savura vederea spre lac direct de pe scaunul șoferului.",
                 "en": "You can enjoy the view of the lake directly from the driver's seat.",
-                "fr": "Vous pouvez profiter de la vue sur le lac directement depuis votre siège conducteur."
+                "fr": "Vous pouvez profiter de la vue sur le lac directement depuis le siège du conducteur."
               }
             }
           ],
@@ -1915,9 +1951,9 @@
             "fr": [
               "Vérifiez l'état de vos essuie-glaces avant de partir en montagne.",
               "En altitude, la pluie peut rapidement se transformer en brouillard dense.",
-              "Utilisez les parkings du centre de Thonon pour rester au sec lors de vos courses.",
-              "Attention aux risques d'aquaplanage sur la route du lac lors de fortes averses.",
-              "Gardez un parapluie dans le coffre pour les courts trajets entre la voiture et vos visites."
+              "Utilisez les parkings couverts du centre de Thonon pour garder vos courses au sec.",
+              "Attention aux risques d'aquaplaning sur la route du bord du lac lors de fortes averses.",
+              "Gardez un parapluie dans le coffre pour les courts trajets vers et depuis la voiture."
             ]
           }
         },
@@ -1927,7 +1963,7 @@
             "hu": "A téli autózás a Chablais vidéken az Alpok legszebb arcát mutatja. Induljon Évian központjából, majd délelőtt hajtson fel a Dent d'Oche lábához, ahol gyakran már hó borítja a tájat. Élvezze a meleg ebédet Bernex hegyi falujában. Délután látogasson el az ünnepi díszbe öltözött Thonon-les-Bains-be. Zárja a napot a Quai de Blonay-nál, nézve a szemközti svájci partok fényeit a jéghideg vízben.",
             "ro": "O călătorie cu mașina iarna prin regiunea Chablais arată Alpii în toată splendoarea lor. Începeți în centrul orașului Évian și urcați dimineața spre baza Dent d'Oche, unde zăpada este adesea prezentă. Savurați un prânz cald în satul montan Bernex. După-amiaza, vizitați Thonon-les-Bains decorat festiv. Încheiați ziua la Quai de Blonay, unde luminile coastei elvețiene sclipesc în apa înghețată.",
             "en": "A winter drive through the Chablais region shows the Alps at their best. Start in central Évian and drive up to the base of Dent d'Oche in the morning, where snow is often already present. Enjoy a warm lunch in the mountain village of Bernex. In the afternoon, visit festively decorated Thonon-les-Bains. End the day at Quai de Blonay, where the lights of the Swiss shore sparkle in the icy water.",
-            "fr": "Une promenade hivernale à travers le Chablais montre les Alpes sous leur meilleur jour. Commencez au centre d'Évian et montez au pied de la Dent d'Oche le matin, où la neige est souvent déjà présente. Profitez d'un déjeuner chaud dans le village de montagne de Bernex. L'après-midi, visitez Thonon-les-Bains et ses décorations festives. Terminez la journée au Quai de Blonay, où les lumières de la rive suisse scintillent dans l'eau glacée."
+            "fr": "Une virée hivernale dans le Chablais montre les Alpes à leur meilleur. Commencez dans le centre d'Évian et montez jusqu'à la base de la Dent d'Oche le matin, où la neige est souvent déjà présente. Savourez un déjeuner chaud au village de montagne de Bernex. L'après-midi, visitez Thonon-les-Bains décorée pour les fêtes. Terminez la journée au Quai de Blonay, où les lumières de la rive suisse scintillent dans l'eau glacée."
           },
           "stops": [
             {
@@ -1937,7 +1973,7 @@
                 "hu": "Ügyeljen a csúszós felületekre a parkolóházak be- és kijáratainál.",
                 "ro": "Atenție la porțiunile alunecoase la intrările și ieșirile din parcări.",
                 "en": "Watch out for icy spots at the entrances and exits of parking garages.",
-                "fr": "Attention aux plaques de verglas aux entrées et sorties des parkings couverts."
+                "fr": "Attention aux plaques de verglas aux entrées et sorties des parkings souterrains."
               }
             },
             {
@@ -1947,7 +1983,7 @@
                 "hu": "Téli felszerelés (téli gumi/hólánc) kötelező erre a hegyi szakaszra.",
                 "ro": "Echipamentul de iarnă (anvelope/lanțuri) este obligatoriu pentru acest traseu montan.",
                 "en": "Winter equipment (winter tires/chains) is mandatory for this mountain route.",
-                "fr": "Les équipements d'hiver (pneus hiver/chaînes) sont obligatoires pour cet itinéraire de montagne."
+                "fr": "L'équipement hivernal (pneus neige/chaînes) est obligatoire pour cet itinéraire de montagne."
               }
             },
             {
@@ -1957,7 +1993,7 @@
                 "hu": "Bernex népszerű családi síközpont; a parkolók hétvégén hamar megtelhetnek.",
                 "ro": "Bernex este o stațiune de schi populară; parcările pot fi pline în weekend.",
                 "en": "Bernex is a popular family ski area; parking lots can be full on weekends.",
-                "fr": "Bernex est une station familiale populaire ; les parkings peuvent être complets le week-end."
+                "fr": "Bernex est une station familiale de ski prisée ; les parkings peuvent être pleins le week-end."
               }
             },
             {
@@ -1967,7 +2003,7 @@
                 "hu": "Élvezze a kilátást Thonon kikötőjére, amely télen gyakran ködbe vész.",
                 "ro": "Bucurați-vă de vederea spre portul Thonon, care iarna este adesea în ceață.",
                 "en": "Enjoy the view of Thonon harbor, which is often shrouded in fog in winter.",
-                "fr": "Admirez la vue sur le port de Thonon, souvent enveloppé de brume en hiver."
+                "fr": "Profitez de la vue sur le port de Thonon, souvent enveloppé de brouillard en hiver."
               }
             },
             {
@@ -1977,7 +2013,7 @@
                 "hu": "Ne járassa feleslegesen a motort, miközben a kilátásban gyönyörködik.",
                 "ro": "Nu lăsați motorul pornit inutil în timp ce admirați priveliștea.",
                 "en": "Do not leave the engine idling unnecessarily while enjoying the view.",
-                "fr": "Ne laissez pas le moteur tourner inutilement au ralenti pendant que vous profitez de la vue."
+                "fr": "Ne laissez pas le moteur tourner inutilement pendant que vous profitez du panorama."
               }
             }
           ],
@@ -2011,11 +2047,11 @@
               "Remember that battery performance can decrease in extreme cold."
             ],
             "fr": [
-              "Ayez toujours un grattoir à glace et du liquide lave-glace antigel dans votre voiture.",
-              "Vérifiez les prévisions météo pour les chutes de neige avant de partir en montagne.",
-              "Les routes de montagne sont déneigées mais peuvent rester glissantes tôt le matin.",
-              "Utilisez le frein moteur lors de la descente sur les routes enneigées.",
-              "N'oubliez pas que la performance de la batterie peut diminuer par grand froid."
+              "Ayez toujours un grattoir et du liquide lave-glace antigel dans votre voiture.",
+              "Consultez les prévisions de chute de neige avant de vous engager en montagne.",
+              "Les routes de montagne sont dégagées mais peuvent rester glissantes tôt le matin.",
+              "Utilisez le frein moteur en descendant les pentes sur routes enneigées.",
+              "Souvenez-vous que les performances de la batterie peuvent diminuer par grand froid."
             ]
           }
         }
@@ -2045,7 +2081,7 @@
             "hu": "Menj fel a legfelső állomásig a legjobb kilátásért.",
             "ro": "Mergeți până la ultima stație pentru cea mai bună vedere.",
             "en": "Go to the top station for the best view.",
-            "fr": "Rendez-vous à la station supérieure pour la meilleure vue."
+            "fr": "Montez jusqu'à la station d'altitude pour la meilleure vue."
           }
         },
         {
@@ -2064,7 +2100,7 @@
             "hu": "Szállj fel a CGN hajójára egy minikörutazáshoz.",
             "ro": "Luați barca CGN pentru o mini-croazieră.",
             "en": "Take the CGN boat for a mini-cruise.",
-            "fr": "Prenez le bateau de la CGN pour une mini-croisière."
+            "fr": "Prenez le bateau CGN pour une mini-croisière."
           }
         },
         {
@@ -2102,7 +2138,7 @@
             "hu": "A tópart legnagyobb kaszinója egy pompás épületben.",
             "ro": "Cel mai mare cazinou de pe malul lacului într-o clădire superbă.",
             "en": "The largest lakeside casino in a magnificent building.",
-            "fr": "Le plus grand casino au bord d'un lac dans un bâtiment magnifique."
+            "fr": "Le plus grand casino en bord de lac dans un bâtiment magnifique."
           }
         },
         {
@@ -2121,7 +2157,7 @@
             "hu": "Élvezz egy fagyit vagy süteményt közvetlenül a tóparton.",
             "ro": "Bucurați-vă de o înghețată sau de produse de patiserie chiar pe malul lacului.",
             "en": "Enjoy an ice cream or pastry right by the lake.",
-            "fr": "Dégustez une glace ou une pâtisserie au bord du lac."
+            "fr": "Prenez une glace ou une pâtisserie au bord du lac."
           }
         }
       ],
@@ -2130,7 +2166,7 @@
         "hu": "Használd ki Évian változatos közlekedési eszközeit. Kezdj a történelmi siklóval, amely könnyedén felvisz a felsővárosba. Később szállj át a kikötőben egy szolárhajóra, amely az egyedülálló Pré Curieux vízi kertbe repít. Ez az autómentes túra lehetővé teszi, hogy különböző perspektívákból tapasztald meg a tavat, a hegytől egészen a vízig.",
         "ro": "Profită de diversitatea mijloacelor de transport din Évian. Începeți cu funicularul istoric, care vă duce fără efort în orașul de sus. Mai târziu, urcați-vă în port într-o barcă solară care vă va duce la grădina acvatică unică Pré Curieux. Acest tur fără mașină vă oferă posibilitatea de a experimenta lacul din perspective diferite, de la munte până direct pe apă.",
         "en": "Take advantage of the variety of transport in Évian. Start with the historic funicular, which effortlessly takes you to the upper town. Later, switch to a solar boat at the harbor to visit the unique Pré Curieux water garden. This car-free tour allows you to experience the lake from different perspectives, from the mountain to directly on the water.",
-        "fr": "Profitez de la diversité des transports à Évian. Commencez par le funiculaire historique, qui vous emmène sans effort dans la ville haute. Plus tard, embarquez sur un bateau solaire au port pour visiter l'unique jardin d'eau du Pré Curieux. Ce circuit sans voiture vous permet de découvrir le lac sous différentes perspectives, de la montagne jusque sur l'eau."
+        "fr": "Profitez de la diversité des transports à Évian. Commencez par le funiculaire historique, qui vous mène sans effort en haut de la ville. Ensuite, changez pour un bateau solaire au port pour visiter l'unique jardin aquatique du Pré Curieux. Cette visite sans voiture vous permet de découvrir le lac sous différents angles, de la montagne jusqu'au niveau de l'eau."
       },
       "gastro_picks": {
         "de": [
@@ -2255,9 +2291,9 @@
           "Check the schedules of the ships to Lausanne for a short detour."
         ],
         "fr": [
-          "Le funiculaire fonctionne régulièrement de mai à septembre.",
-          "Les billets pour le jardin du Pré Curieux incluent le trajet en bateau.",
-          "Consultez les horaires des bateaux pour Lausanne pour une petite escapade."
+          "Le funiculaire circule régulièrement de mai à septembre.",
+          "Les billets pour le jardin du Pré Curieux incluent la traversée en bateau.",
+          "Vérifiez les horaires des bateaux pour Lausanne pour une courte escapade."
         ]
       },
       "variants": {
@@ -2266,7 +2302,8 @@
             "de": "Nutzen Sie die Vielfalt der Verkehrsmittel in Évian. Beginnen Sie mit der historischen Standseilbahn, die Sie mühelos in die Oberstadt bringt. Später steigen Sie am Hafen in ein Solarboot um, das Sie zum einzigartigen Wassergarten Pré Curieux führt. Diese autofreie Tour bietet Ihnen die Möglichkeit, den See aus verschiedenen Perspektiven zu erleben, vom Berg bis direkt aufs Wasser.",
             "hu": "Használd ki Évian változatos közlekedési eszközeit. Kezdj a történelmi siklóval, amely könnyedén felvisz a felsővárosba. Később szállj át a kikötőben egy szolárhajóra, amely az egyedülálló Pré Curieux vízi kertbe repít. Ez az autómentes túra lehetővé teszi, hogy különböző perspektívákból tapasztald meg a tavat, a hegytől egészen a vízig.",
             "ro": "Profită de diversitatea mijloacelor de transport din Évian. Începeți cu funicularul istoric, care vă duce fără efort în orașul de sus. Mai târziu, urcați-vă în port într-o barcă solară care vă va duce la grădina acvatică unică Pré Curieux. Acest tur fără mașină vă oferă posibilitatea de a experimenta lacul din perspective diferite, de la munte până direct pe apă.",
-            "en": "Take advantage of the variety of transport in Évian. Start with the historic funicular, which effortlessly takes you to the upper town. Later, switch to a solar boat at the harbor to visit the unique Pré Curieux water garden. This car-free tour allows you to experience the lake from different perspectives, from the mountain to directly on the water."
+            "en": "Take advantage of the variety of transport in Évian. Start with the historic funicular, which effortlessly takes you to the upper town. Later, switch to a solar boat at the harbor to visit the unique Pré Curieux water garden. This car-free tour allows you to experience the lake from different perspectives, from the mountain to directly on the water.",
+            "fr": "Profitez de la diversité des transports à Évian. Commencez par le funiculaire historique, qui vous mène sans effort en haut de la ville. Ensuite, changez pour un bateau solaire au port pour visiter l'unique jardin aquatique du Pré Curieux. Cette visite sans voiture vous permet de découvrir le lac sous différents angles, de la montagne jusqu'au niveau de l'eau."
           },
           "stops": [
             {
@@ -2275,7 +2312,8 @@
                 "de": "Fahren Sie bis zur obersten Station für die beste Aussicht.",
                 "hu": "Menj fel a legfelső állomásig a legjobb kilátásért.",
                 "ro": "Mergeți până la ultima stație pentru cea mai bună vedere.",
-                "en": "Go to the top station for the best view."
+                "en": "Go to the top station for the best view.",
+                "fr": "Montez à la station supérieure pour la meilleure vue."
               }
             },
             {
@@ -2284,7 +2322,8 @@
                 "de": "Nehmen Sie das Boot der CGN für eine Minikreuzfahrt.",
                 "hu": "Szállj fel a CGN hajójára egy minikörutazáshoz.",
                 "ro": "Luați barca CGN pentru o mini-croazieră.",
-                "en": "Take the CGN boat for a mini-cruise."
+                "en": "Take the CGN boat for a mini-cruise.",
+                "fr": "Prenez le bateau CGN pour une mini-croisière."
               }
             },
             {
@@ -2293,7 +2332,8 @@
                 "de": "Dieser Garten ist nur mit einem Elektroboot erreichbar.",
                 "hu": "Ez a kert csak elektromos hajóval érhető el.",
                 "ro": "Această grădină este accesibilă doar cu barca electrică.",
-                "en": "This garden is only accessible by electric boat."
+                "en": "This garden is only accessible by electric boat.",
+                "fr": "Ce jardin n'est accessible que par bateau électrique."
               }
             },
             {
@@ -2302,7 +2342,8 @@
                 "de": "Das größte Casino am See in einem prachtvollen Gebäude.",
                 "hu": "A tópart legnagyobb kaszinója egy pompás épületben.",
                 "ro": "Cel mai mare cazinou de pe malul lacului într-o clădire superbă.",
-                "en": "The largest lakeside casino in a magnificent building."
+                "en": "The largest lakeside casino in a magnificent building.",
+                "fr": "Le plus grand casino en bord de lac dans un bâtiment magnifique."
               }
             },
             {
@@ -2311,7 +2352,8 @@
                 "de": "Genießen Sie ein Eis oder Gebäck direkt am See.",
                 "hu": "Élvezz egy fagyit vagy süteményt közvetlenül a tóparton.",
                 "ro": "Bucurați-vă de o înghețată sau de produse de patiserie chiar pe malul lacului.",
-                "en": "Enjoy an ice cream or pastry right by the lake."
+                "en": "Enjoy an ice cream or pastry right by the lake.",
+                "fr": "Prenez une glace ou une pâtisserie au bord du lac."
               }
             }
           ],
@@ -2417,6 +2459,11 @@
               "The funicular runs regularly from May to September.",
               "Tickets for the Pré Curieux garden include the boat trip.",
               "Check the schedules of the ships to Lausanne for a short detour."
+            ],
+            "fr": [
+              "Le funiculaire circule régulièrement de mai à septembre.",
+              "Les billets pour le jardin du Pré Curieux incluent la traversée en bateau.",
+              "Vérifiez les horaires des bateaux pour Lausanne pour une courte escapade."
             ]
           }
         },
@@ -2426,7 +2473,7 @@
             "hu": "Tömegközlekedéssel esőben is kényelmesen bejárhatja Éviant. Kezdjen a siklóval, amely szárazon viszi fel a hegyoldalba. Délelőtt szálljon hajóra a kikötőben; a zárt fedélzetről remek kilátás nyílik a tóra. A vízi kertek meglátogatása után (ahol ernyőt is adnak) melegedjen fel a Casinóban. Zárja a napot egy kellemes vacsorával a Quai de Blonay mentén.",
             "ro": "Cu transportul public, puteți parcurge Évian confortabil chiar și pe ploaie. Începeți cu funicularul, care vă duce sus la adăpost. Dimineața, luați vaporul din port; punțile închise oferă o vedere excelentă spre lac. După vizitarea grădinilor acvatice (unde sunt disponibile umbrele), încălziți-vă la Casino. Încheiați ziua cu o cină plăcută pe Quai de Blonay.",
             "en": "Public transport allows you to navigate Évian easily even in the rain. Start with the funicular, which takes you uphill while staying dry. In the morning, take a boat from the port; the enclosed decks offer great views of the lake. After visiting the water gardens (where umbrellas are provided), warm up at the Casino. End the day with a cozy meal along Quai de Blonay.",
-            "fr": "Les transports publics vous permettent de parcourir Évian facilement même sous la pluie. Commencez par le funiculaire, qui vous emmène vers les hauteurs tout en restant au sec. Le matin, prenez le bateau au port ; les ponts couverts offrent de superbes vues sur le lac. Après avoir visité les jardins d'eau (où des parapluies sont fournis), réchauffez-vous au Casino. Terminez la journée avec un repas confortable le long du Quai de Blonay."
+            "fr": "Les transports publics vous permettent de circuler facilement à Évian même sous la pluie. Commencez par le funiculaire, qui vous monte à l'abri. Le matin, prenez un bateau depuis le port ; les aménagements fermés offrent de belles vues sur le lac. Après la visite des jardins aquatiques (où des parapluies sont fournis), réchauffez-vous au Casino. Terminez la journée par un repas convivial le long du Quai de Blonay."
           },
           "stops": [
             {
@@ -2436,7 +2483,7 @@
                 "hu": "Az állomások fedettek, így várakozás közben sem fog megázni.",
                 "ro": "Stațiile sunt acoperite, astfel încât nu vă veți uda în timp ce așteptați.",
                 "en": "The stations are covered, so you won't get wet while waiting.",
-                "fr": "Les stations sont couvertes, vous ne serez donc pas mouillé en attendant."
+                "fr": "Les stations sont couvertes, vous ne serez pas mouillé en attendant."
               }
             },
             {
@@ -2446,7 +2493,7 @@
                 "hu": "A CGN hajók fűtött és száraz belső szalonokkal rendelkeznek.",
                 "ro": "Vapoarele CGN au saloane interioare încălzite și uscate.",
                 "en": "The CGN boats feature heated and dry indoor salons.",
-                "fr": "Les bateaux de la CGN disposent de salons intérieurs chauffés et secs."
+                "fr": "Les bateaux CGN disposent de salons intérieurs chauffés et secs."
               }
             },
             {
@@ -2456,7 +2503,7 @@
                 "hu": "Eső esetén gyakran ingyenes kölcsönernyőket biztosítanak a körsétához.",
                 "ro": "Pe timp de ploaie, se oferă adesea umbrele gratuite pentru turul grădinii.",
                 "en": "In case of rain, free rental umbrellas are often provided for the tour.",
-                "fr": "En cas de pluie, des parapluies de location gratuite sont souvent fournis pour la visite."
+                "fr": "En cas de pluie, des parapluies de prêt sont souvent fournis pour la visite."
               }
             },
             {
@@ -2466,7 +2513,7 @@
                 "hu": "Tökéletes helyszín, hogy játékkal vagy italokkal felejtse el a rossz időt.",
                 "ro": "Un loc perfect pentru a uita de vremea rea cu jocuri sau băuturi.",
                 "en": "A perfect venue to forget the bad weather with games or drinks.",
-                "fr": "Un endroit parfait pour oublier le mauvais temps avec des jeux ou des boissons."
+                "fr": "Un lieu parfait pour oublier le mauvais temps autour de jeux ou d'un verre."
               }
             },
             {
@@ -2476,7 +2523,7 @@
                 "hu": "A 'Hôtel de Ville' buszmegálló közvetlenül az éttermek közelében található.",
                 "ro": "Stația de autobuz 'Hôtel de Ville' se află chiar lângă zona restaurantelor.",
                 "en": "The 'Hôtel de Ville' bus stop is located very close to the restaurants.",
-                "fr": "L'arrêt de bus 'Hôtel de Ville' est situé juste à côté des restaurants."
+                "fr": "L'arrêt de bus « Hôtel de Ville » se situe très près des restaurants."
               }
             }
           ],
@@ -2511,10 +2558,10 @@
             ],
             "fr": [
               "Le funiculaire est l'un des moyens les plus charmants d'échapper à la pluie.",
-              "Téléchargez l'application 'Leman Pass' pour les horaires et les billets.",
-              "Combinez trajets en bus et en bateau pour éviter de longues marches dehors.",
-              "Les zones d'attente aux embarcadères offrent une protection limitée contre la pluie.",
-              "Attention aux embruns du lac sur le port par temps de pluie venteux."
+              "Téléchargez l'application « Leman Pass » pour les horaires et les billets.",
+              "Combinez bus et bateau pour éviter de longues marches en plein air.",
+              "Les zones d'attente aux quais offrent une protection limitée contre la pluie.",
+              "Attention aux embruns du lac au port par temps de tempête ou de forte pluie."
             ]
           }
         },
@@ -2524,7 +2571,7 @@
             "hu": "Télen a helyi közlekedéssel felfedezni Éviant kényelmes és praktikus megoldás. Kezdjen a történelmi siklóval, élvezve a kocsik melegét. Délelőtt a hajóút egyedülálló kilátást nyújt a hófödte partvidékre. A kertek meglátogatása után (melyek télen csak részben látogathatók) melegedjen fel a pompás Casinóban. Az estét töltse a kikötő egyik fűtött éttermében.",
             "ro": "Explorarea orașului Évian iarna cu transportul public este confortabilă și practică. Începeți cu funicularul istoric și bucurați-vă de căldura din vagoane. Dimineața, traversarea cu vaporul oferă o perspectivă unică asupra coastei înzăpezite. După vizitarea grădinilor (parțial închise iarna), încălziți-vă la somptuosul Casino. Petreceți seara într-unul dintre restaurantele încălzite din port.",
             "en": "Exploring Évian in winter via public transit is cozy and practical. Start with the historic funicular and enjoy the warmth inside the carriages. In the morning, a boat trip offers a unique view of the snow-covered shoreline. After visiting the gardens (partially closed in winter), warm up in the magnificent Casino. Spend your evening in one of the heated restaurants at the port.",
-            "fr": "Explorer Évian en hiver via les transports en commun est confortable et pratique. Commencez par le funiculaire historique et profitez de la chaleur à l'intérieur des wagons. Le matin, une sortie en bateau offre une vue unique sur le rivage enneigé. Après avoir visité les jardins (partiellement fermés en hiver), réchauffez-vous dans le magnifique Casino. Passez votre soirée dans l'un des restaurants chauffés du port."
+            "fr": "Explorer Évian en hiver via les transports publics est cosy et pratique. Commencez par le funiculaire historique et profitez de la chaleur à l'intérieur des caisses. Le matin, une traversée en bateau offre une vue unique sur la côte enneigée. Après la visite des jardins (partiellement fermés en hiver), réchauffez-vous dans le magnifique Casino. Passez la soirée dans l'un des restaurants chauffés du port."
           },
           "stops": [
             {
@@ -2534,7 +2581,7 @@
                 "hu": "Történelmi élmény, amely megvédi Önt a metsző téli hidegtől.",
                 "ro": "O experiență istorică ce vă protejează de frigul tăios al iernii.",
                 "en": "A historic experience that shields you from the biting winter cold.",
-                "fr": "Une expérience historique qui vous protège du froid mordant de l'hiver."
+                "fr": "Une expérience historique qui vous protège du froid hivernal mordant."
               }
             },
             {
@@ -2544,7 +2591,7 @@
                 "hu": "Télen a hajók kevésbé zsúfoltak, könnyen találhat ablak melletti helyet.",
                 "ro": "Iarna vapoarele sunt mai libere; veți găsi ușor un loc la fereastră.",
                 "en": "Boats are less crowded in winter, so you'll easily find a window seat.",
-                "fr": "Les bateaux sont moins fréquentés en hiver, vous trouverez donc facilement une place côté fenêtre."
+                "fr": "Les bateaux sont moins fréquentés en hiver, vous trouverez facilement une place côté fenêtre."
               }
             },
             {
@@ -2554,7 +2601,7 @@
                 "hu": "Ellenőrizze a téli nyitvatartást, mivel a kertek gyakran téli szünetet tartanak.",
                 "ro": "Verificați programul de iarnă, deoarece grădinile sunt adesea închise sezonier.",
                 "en": "Check winter opening hours, as the gardens are often in seasonal hiatus.",
-                "fr": "Vérifiez les horaires d'ouverture hivernaux, car les jardins sont souvent en pause saisonnière."
+                "fr": "Vérifiez les horaires d'hiver, car les jardins sont souvent en pause saisonnière."
               }
             },
             {
@@ -2564,7 +2611,7 @@
                 "hu": "A Casino pompás kivilágítása varázslatos a korai sötétségben.",
                 "ro": "Iluminarea somptuoasă a cazinoului pare magică în întunericul timpuriu.",
                 "en": "The Casino's grand lighting looks magical in the early winter darkness.",
-                "fr": "Les superbes illuminations du Casino sont magiques dans l'obscurité précoce de l'hiver."
+                "fr": "Le grand éclairage du Casino est magique dans la pénombre hivernale précoce."
               }
             },
             {
@@ -2574,7 +2621,7 @@
                 "hu": "Sok hely kínál télen speciális, melengető ebédmenüket.",
                 "ro": "Multe localuri oferă iarna meniuri de prânz speciale și hrănitoare.",
                 "en": "Many venues offer special warming lunch menus during the winter.",
-                "fr": "De nombreux établissements proposent des menus de déjeuner réconfortants et chauds durant l'hiver."
+                "fr": "De nombreux établissements proposent des menus chauffants spéciaux au déjeuner pendant l'hiver."
               }
             }
           ],
@@ -2608,11 +2655,11 @@
               "Buy tickets online to avoid waiting at drafty ticket machines."
             ],
             "fr": [
-              "Le funiculaire est souvent illuminé jusque tard en soirée pendant l'hiver.",
+              "Le funiculaire est souvent illuminé tard le soir pendant l'hiver.",
               "Les bus sont bien chauffés et constituent une alternative confortable à la marche.",
-              "Vérifiez bien les horaires des bateaux CGN, car ils sont considérablement réduits en hiver.",
-              "Le quai du port peut être extrêmement glissant en cas de gel ; soyez prudent à l'embarquement.",
-              "Achetez vos billets en ligne pour éviter d'attendre aux distributeurs exposés aux courants d'air."
+              "Pensez à vérifier les horaires des bateaux CGN, fortement réduits en hiver.",
+              "La jetée du port peut être extrêmement glissante en cas de gel ; faites attention à l'embarquement.",
+              "Achetez vos billets en ligne pour éviter d'attendre aux distributeurs exposés au courant d'air."
             ]
           }
         }

@@ -21,7 +21,8 @@
             "de": "Palais de Justice",
             "hu": "Palais de Justice",
             "ro": "Palais de Justice",
-            "en": "Palais de Justice"
+            "en": "Palais de Justice",
+            "fr": "Palais de Justice"
           },
           "coords": [
             4.658074,
@@ -36,7 +37,8 @@
             "de": "Bewundern Sie die neoklassizistische Fassade des Justizpalastes als Zeugnis der Stadtgeschichte und machen Sie morgens Fotos, wenn das Licht auf den Stein fällt.",
             "hu": "Csodálja meg az Igazságügyi Palota neoklasszicista homlokzatát, a polgári történelem tanúját, és fotózza le a térről, amikor a reggeli fény a kövekre esik.",
             "ro": "Admirați fațada neoclasică a Palatului de Justiție, o mărturie a istoriei civice, și fotografiați clădirea din piață atunci când lumina dimineții atinge piatra.",
-            "en": "Admire the neoclassical facade of the Palais de Justice, a testament to civic history, and snap photos from the square when the morning light hits the stonework."
+            "en": "Admire the neoclassical facade of the Palais de Justice, a testament to civic history, and snap photos from the square when the morning light hits the stonework.",
+            "fr": "Admirez la façade néoclassique du Palais de Justice, témoignage de l'histoire civique, et prenez des photos depuis la place lorsque la lumière du matin frappe la pierre."
           }
         },
         {
@@ -44,7 +46,8 @@
             "de": "Souleiado Museum",
             "hu": "Souleiado Múzeum",
             "ro": "Muzeul Souleiado",
-            "en": "Souleiado Museum"
+            "en": "Souleiado Museum",
+            "fr": "Musée Souleiado"
           },
           "coords": [
             4.659593,
@@ -59,7 +62,8 @@
             "de": "Entdecken Sie die farbenfrohe Welt der traditionellen provenzalischen Textilien in diesem Museum, aber besuchen Sie unbedingt den Souvenirshop für echte Stoffe.",
             "hu": "Fedezze fel a hagyományos provence-i textilek vibráló világát ebben a színes múzeumban, de mindenképpen nézzen be az ajándékboltba is az eredeti szövetekért.",
             "ro": "Descoperiți lumea vibrantă a textilelor tradiționale provensale în acest muzeu colorat, dar nu uitați să vizitați magazinul de suveniruri pentru țesături autentice.",
-            "en": "Discover the vibrant world of traditional Provençal textiles at this colorful museum, but be sure to check the gift shop for authentic fabric souvenirs."
+            "en": "Discover the vibrant world of traditional Provençal textiles at this colorful museum, but be sure to check the gift shop for authentic fabric souvenirs.",
+            "fr": "Découvrez l'univers vibrant des textiles traditionnels provençaux dans ce musée coloré, mais n'oubliez pas de visiter la boutique pour des souvenirs en tissu authentiques."
           }
         },
         {
@@ -67,7 +71,8 @@
             "de": "Saint Martha Collegiate Church",
             "hu": "Szent Márta Társaskáptalan",
             "ro": "Biserica Colegiată Sfânta Marta",
-            "en": "Saint Martha Collegiate Church"
+            "en": "Saint Martha Collegiate Church",
+            "fr": "Collégiale Sainte-Marthe"
           },
           "coords": [
             4.655841,
@@ -82,7 +87,8 @@
             "de": "Betreten Sie diese romanisch-gotische Kirche, um die prächtige Krypta der Heiligen Martha zu besichtigen, wobei Sie sich bescheiden kleiden und leise sprechen sollten.",
             "hu": "Lépjen be ebbe a román-gótikus templomba, hogy megtekintse Szent Márta csodálatos kriptáját, emlékezve a szerény öltözködésre és a halk beszédre a látogatás során.",
             "ro": "Pășiți în această biserică romanico-gotică pentru a vedea cripta magnifică a Sfintei Marta, amintindu-vă să vă îmbrăcați modest și să vorbiți încet în timpul vizitei.",
-            "en": "Step inside this Romanesque-Gothic church to view the magnificent crypt of Saint Martha, remembering to dress modestly and speak softly during your visit."
+            "en": "Step inside this Romanesque-Gothic church to view the magnificent crypt of Saint Martha, remembering to dress modestly and speak softly during your visit.",
+            "fr": "Pénétrez dans cette église roman-gothique pour voir la magnifique crypte de Sainte-Marthe, en vous habillant modestement et en parlant doucement pendant votre visite."
           }
         },
         {
@@ -90,7 +96,8 @@
             "de": "Château du Roi René",
             "hu": "Château du Roi René",
             "ro": "Château du Roi René",
-            "en": "Château du Roi René"
+            "en": "Château du Roi René",
+            "fr": "Château du Roi René"
           },
           "coords": [
             4.655,
@@ -105,7 +112,8 @@
             "de": "Erkunden Sie diese unglaublich gut erhaltene mittelalterliche Festung mit Blick auf die Rhône und steigen Sie auf die oberste Terrasse für spektakuläre Ausblicke.",
             "hu": "Fedezze fel ezt a hihetetlenül jól megőrzött, Rhône folyóra néző középkori erődöt, és másszon fel a legfelső teraszra a völgyre nyíló látványos panorámáért.",
             "ro": "Explorați această fortăreață medievală incredibil de bine conservată cu vedere la râul Rhône și urcați pe terasa superioară pentru vederi panoramice spectaculoase.",
-            "en": "Explore this incredibly well-preserved medieval fortress overlooking the Rhône river, and climb to the very top terrace for spectacular panoramic views of the valley."
+            "en": "Explore this incredibly well-preserved medieval fortress overlooking the Rhône river, and climb to the very top terrace for spectacular panoramic views of the valley.",
+            "fr": "Explorez cette forteresse médiévale remarquablement bien conservée dominant le Rhône, et montez jusqu'à la terrasse sommitale pour des vues panoramiques spectaculaires sur la vallée."
           }
         },
         {
@@ -113,7 +121,8 @@
             "de": "Jardin des plantes",
             "hu": "Jardin des plantes",
             "ro": "Jardin des plantes",
-            "en": "Jardin des plantes"
+            "en": "Jardin des plantes",
+            "fr": "Jardin des plantes"
           },
           "coords": [
             4.656809,
@@ -128,7 +137,8 @@
             "de": "Entspannen Sie sich inmitten vielfältiger botanischer Arten in diesem friedlichen, familienfreundlichen Garten und bringen Sie lokale Snacks für die schattigen Bänke mit.",
             "hu": "Pihenjen a változatos botanikai fajok között ebben a békés, családbarát kertben, és hozzon magával néhány friss helyi rágcsálnivalót az árnyékos padokra.",
             "ro": "Relaxați-vă printre diversele specii botanice din această grădină pașnică, prietenoasă cu familiile, aducând gustări locale proaspete pentru băncile umbrite.",
-            "en": "Relax among diverse botanical species in this peaceful family-friendly garden, bringing along some fresh local snacks to enjoy on the shaded wooden benches."
+            "en": "Relax among diverse botanical species in this peaceful family-friendly garden, bringing along some fresh local snacks to enjoy on the shaded wooden benches.",
+            "fr": "Détendez-vous parmi des espèces botaniques variées dans ce jardin paisible et familial, en apportant quelques snacks locaux à déguster sur les bancs en bois à l'ombre."
           }
         },
         {
@@ -136,7 +146,8 @@
             "de": "Hôtel de Raoulx, dit aussi hôtel de Liman, de Seillons ou de Barberin",
             "hu": "Hôtel de Raoulx",
             "ro": "Hôtel de Raoulx",
-            "en": "Hôtel de Raoulx, dit aussi hôtel de Liman, de Seillons ou de Barberin"
+            "en": "Hôtel de Raoulx, dit aussi hôtel de Liman, de Seillons ou de Barberin",
+            "fr": "Hôtel de Raoulx, dit aussi hôtel de Liman, de Seillons ou de Barberin"
           },
           "coords": [
             4.660958,
@@ -151,7 +162,8 @@
             "de": "Betrachten Sie die eleganten architektonischen Details dieser historischen Adelsvilla von der Straße aus und achten Sie auf die kunstvollen Schmiedearbeiten.",
             "hu": "Figyelje meg ennek a történelmi arisztokrata kúriának az elegáns építészeti részleteit az utcáról, különös tekintettel a klasszikus francia bájt adó díszes vasmunkákra.",
             "ro": "Observați detaliile arhitecturale elegante ale acestui conac aristocratic istoric de pe stradă, remarcând feroneria ornamentată care îi definește farmecul clasic francez.",
-            "en": "Observe the elegant architectural details of this historic aristocratic mansion from the street, noticing the ornate ironwork that defines its classic French charm."
+            "en": "Observe the elegant architectural details of this historic aristocratic mansion from the street, noticing the ornate ironwork that defines its classic French charm.",
+            "fr": "Observez les élégants détails architecturaux de ce hôtel particulier historique depuis la rue, en remarquant la ferronnerie ornée qui définit son charme classique français."
           }
         }
       ],
@@ -159,7 +171,8 @@
         "de": "Beginnen Sie Ihren Morgen mit der Erkundung des bürgerlichen Herzens von Tarascon am großen Justizpalast. Am Mittag tauchen Sie im Souleiado-Museum in provenzalische Muster und die Krypta der Heiligen Martha ein. Verbringen Sie den Nachmittag mit einer Zeitreise im prächtigen Château du Roi René hoch über der Rhône. Beenden Sie Ihren gemütlichen Spaziergang im friedlichen Jardin des plantes, bevor Sie in der Abenddämmerung das Hôtel de Raoulx bewundern.",
         "hu": "Kezdje a reggelt Tarascon polgári központjának, az Igazságügyi Palotának a felfedezésével. Délben merüljön el a provence-i minták világában a Souleiado Múzeumban és Szent Márta kriptájában. A délutánt a csodálatos Château du Roi René kastélyában töltse, amely a Rhône-ra néz. Fejezze be kényelmes sétáját a Jardin des plantes békés zöldjében, majd az alkonyat közeledtével csodálja meg az arisztokratikus Hôtel de Raoulx épületét.",
         "ro": "Începeți dimineața explorând inima civică din Tarascon la Palatul de Justiție, stabilind un ton istoric. La prânz, scufundați-vă în modelele provensale la Muzeul Souleiado și în cripta Sfintei Marta. Petreceți-vă după-amiaza la magnificul Château du Roi René, cu vedere la Rhône. Încheiați-vă plimbarea relaxantă printre verdeața liniștită de la Jardin des plantes, înainte de a admira aristocraticul Hôtel de Raoulx la lăsarea serii.",
-        "en": "Start your morning exploring the civic heart of Tarascon at the grand Palais de Justice, setting a historic tone for the day. By midday, immerse yourself in vibrant Provençal patterns at the Souleiado Museum and the solemn crypt of Saint Martha. Spend your afternoon stepping back in time at the magnificent Château du Roi René, overlooking the rushing Rhône. Conclude your leisurely walk among the peaceful greenery of the Jardin des plantes before admiring the aristocratic Hôtel de Raoulx as dusk falls."
+        "en": "Start your morning exploring the civic heart of Tarascon at the grand Palais de Justice, setting a historic tone for the day. By midday, immerse yourself in vibrant Provençal patterns at the Souleiado Museum and the solemn crypt of Saint Martha. Spend your afternoon stepping back in time at the magnificent Château du Roi René, overlooking the rushing Rhône. Conclude your leisurely walk among the peaceful greenery of the Jardin des plantes before admiring the aristocratic Hôtel de Raoulx as dusk falls.",
+        "fr": "Commencez votre matinée en explorant le cœur civique de Tarascon au grand Palais de Justice, posant une tonalité historique pour la journée. À midi, plongez dans les motifs provençaux vibrants au Musée Souleiado et dans la crypte solennelle de Sainte-Marthe. Passez l'après-midi à remonter le temps au magnifique Château du Roi René, dominant le Rhône. Concluez votre promenade détendue parmi la verdure paisible du Jardin des plantes avant d'admirer l'aristocratique Hôtel de Raoulx au crépuscule."
       },
       "variants": {
         "rainy": {
@@ -167,7 +180,8 @@
             "de": "Beginnen Sie am Justizpalast, bevor der Regen zunimmt. Der Mittag ist perfekt für das Textilmuseum. Am Nachmittag bieten Kirche und Schloss trockene Zuflucht. Beenden Sie den nassen Tag mit Schirm in den Gärten.",
             "hu": "Kezdje a bíróságnál, mielőtt rákezdenek az esők. A dél tökéletes a fedett textilmúzeum felfedezésére. Délután a templom és a kastély nyújt menedéket a víz elől. Zárja a nedves napot a kertekben egy jó esernyővel.",
             "ro": "Începeți la tribunal înainte să plouă tare. Amiaza este perfectă pentru muzeul textil acoperit. După-amiaza, biserica și castelul vă oferă un refugiu uscat. Încheiați ziua umedă în grădini cu o umbrelă rezistentă.",
-            "en": "Start at the law court before rain gets heavy. Midday is perfect for the indoor textile museum. Afternoon takes you to the church and castle to stay dry. End the wet day at the gardens and historic hotel, bring an umbrella."
+            "en": "Start at the law court before rain gets heavy. Midday is perfect for the indoor textile museum. Afternoon takes you to the church and castle to stay dry. End the wet day at the gardens and historic hotel, bring an umbrella.",
+            "fr": "Commencez au palais de justice avant que la pluie ne s'intensifie. Midi est parfait pour le musée textile en intérieur. L'après-midi vous mène à l'église et au château pour rester au sec. Terminez la journée pluvieuse aux jardins et à l'hôtel historique, prenez un parapluie."
           },
           "stops": [
             {
@@ -175,13 +189,15 @@
                 "de": "Palais de Justice",
                 "hu": "Palais de Justice",
                 "ro": "Palais de Justice",
-                "en": "Palais de Justice"
+                "en": "Palais de Justice",
+                "fr": "Palais de Justice"
               },
               "tip_5lang": {
                 "de": "Bewundern Sie die steinerne Fassade; bringen Sie einen stabilen Regenschirm mit, um die klassische Architektur draußen geschützt vor dem Regen zu genießen.",
                 "hu": "Csodálja meg a lenyűgöző kőhomlokzatot; hozzon egy masszív esernyőt, hogy az eső elől védve, kint állva is maximálisan élvezhesse a klasszikus építészetet.",
                 "ro": "Admirați fațada grandioasă de piatră; aduceți o umbrelă rezistentă pentru a aprecia arhitectura clasică stând afară, complet protejat de ploaia deasă.",
-                "en": "Admire the grand stone facade; bring a sturdy umbrella as you stand outside to appreciate its classic architecture safely hidden from the falling rain."
+                "en": "Admire the grand stone facade; bring a sturdy umbrella as you stand outside to appreciate its classic architecture safely hidden from the falling rain.",
+                "fr": "Admirez la grande façade de pierre ; apportez un parapluie robuste en restant dehors pour apprécier son architecture classique à l'abri de la pluie."
               }
             },
             {
@@ -189,13 +205,15 @@
                 "de": "Souleiado Museum",
                 "hu": "Souleiado Múzeum",
                 "ro": "Muzeul Souleiado",
-                "en": "Souleiado Museum"
+                "en": "Souleiado Museum",
+                "fr": "Musée Souleiado"
               },
               "tip_5lang": {
                 "de": "Eine perfekte Zuflucht bei Regen! Erkunden Sie die bunten provenzalischen Textilien drinnen und nehmen Sie sich Zeit, um in den Galerien aufzuwärmen.",
                 "hu": "Tökéletes menedék esőben! Fedezze fel bent a vibráló provence-i textíliákat, és szánjon időt arra, hogy teljesen felmelegedjen a hangulatos termekben.",
                 "ro": "O evadare perfectă pe ploaie! Explorați textilele provensale vibrante în interior și luați-vă timp să vă încălziți complet în galeriile primitoare.",
-                "en": "A perfect rainy escape! Explore the vibrant Provencal textiles indoors and take your time to warm up and dry off completely in the cozy galleries."
+                "en": "A perfect rainy escape! Explore the vibrant Provencal textiles indoors and take your time to warm up and dry off completely in the cozy galleries.",
+                "fr": "Une escapade parfaite par temps de pluie ! Explorez les textiles provençaux vibrants à l'intérieur et prenez le temps de vous réchauffer et de sécher complètement dans les salles accueillantes."
               }
             },
             {
@@ -203,13 +221,15 @@
                 "de": "Saint Martha Collegiate Church",
                 "hu": "Szent Márta Társaskáptalan",
                 "ro": "Biserica Colegiată Sfânta Marta",
-                "en": "Saint Martha Collegiate Church"
+                "en": "Saint Martha Collegiate Church",
+                "fr": "Collégiale Sainte-Marthe"
               },
               "tip_5lang": {
                 "de": "Suchen Sie Schutz in der alten Krypta am Grab der Heiligen Martha und genießen Sie die ruhige, trockene Atmosphäre, während es draußen heftig regnet.",
                 "hu": "Keressen menedéket az ősi kriptában Szent Márta sírjánál, és élvezze a békés, száraz atmoszférát, miközben odakint heves esőzések mossák az utcákat.",
                 "ro": "Căutați adăpost în cripta antică la mormântul Sfintei Marta, bucurându-vă de atmosfera senină și uscată în timp ce afară plouă torențial fără oprire.",
-                "en": "Seek shelter inside the ancient crypt to see the famous tomb of Saint Martha, enjoying the serene and completely dry atmosphere while heavy rain falls outside."
+                "en": "Seek shelter inside the ancient crypt to see the famous tomb of Saint Martha, enjoying the serene and completely dry atmosphere while heavy rain falls outside.",
+                "fr": "Cherchez refuge dans la crypte ancienne pour voir le célèbre tombeau de Sainte-Marthe, profitant de l'atmosphère sereine et complètement sèche tandis que la pluie tombe dehors."
               }
             },
             {
@@ -217,13 +237,15 @@
                 "de": "Château du Roi René",
                 "hu": "Château du Roi René",
                 "ro": "Château du Roi René",
-                "en": "Château du Roi René"
+                "en": "Château du Roi René",
+                "fr": "Château du Roi René"
               },
               "tip_5lang": {
                 "de": "Erkunden Sie die majestätischen Innenräume und Gemächer des Königs; bleiben Sie völlig trocken, während Sie mittelalterliche Wandteppiche bewundern.",
                 "hu": "Fedezze fel a fenséges belső termeket és a királyi lakosztályokat, teljesen szárazon maradva, miközben megcsodálja a középkori, vastag kőfalakat.",
                 "ro": "Explorați sălile interioare maiestuoase și camerele regelui, rămânând complet uscat în timp ce vă minunați de tapiseriile medievale și zidurile groase.",
-                "en": "Explore the majestic indoor halls and the King's chambers, staying completely dry while marveling at the medieval tapestries and thick stone walls."
+                "en": "Explore the majestic indoor halls and the King's chambers, staying completely dry while marveling at the medieval tapestries and thick stone walls.",
+                "fr": "Explorez les majestueuses salles intérieures et les appartements du roi, en restant complètement au sec tout en admirant les tapisseries médiévales et les épais murs de pierre."
               }
             },
             {
@@ -231,13 +253,15 @@
                 "de": "Jardin des plantes",
                 "hu": "Jardin des plantes",
                 "ro": "Jardin des plantes",
-                "en": "Jardin des plantes"
+                "en": "Jardin des plantes",
+                "fr": "Jardin des plantes"
               },
               "tip_5lang": {
                 "de": "Die nassen Pflanzen duften herrlich frisch, aber die Wege werden matschig; tragen Sie wasserdichte Schuhe, um dieses regengewaschene Grün zu genießen.",
                 "hu": "A nedves növények illata csodálatos, de a földutak nagyon sarasak lehetnek; feltétlenül viseljen vízálló cipőt, hogy élvezze az eső áztatta zöldet.",
                 "ro": "Plantele ude miros incredibil de proaspăt, dar aleile pot fi noroioase; purtați neapărat încălțăminte impermeabilă pentru a savura verdeața spălată.",
-                "en": "The wet plants smell amazingly fresh, but the dirt paths can get quite muddy; be sure to wear waterproof shoes to enjoy this rain-washed greenery."
+                "en": "The wet plants smell amazingly fresh, but the dirt paths can get quite muddy; be sure to wear waterproof shoes to enjoy this rain-washed greenery.",
+                "fr": "Les plantes mouillées sentent incroyablement frais, mais les sentiers de terre peuvent devenir très boueux ; portez des chaussures imperméables pour profiter de cette verdure lavée par la pluie."
               }
             },
             {
@@ -245,13 +269,15 @@
                 "de": "Hôtel de Raoulx, dit aussi hôtel de Liman, de Seillons ou de Barberin",
                 "hu": "Hôtel de Raoulx",
                 "ro": "Hôtel de Raoulx",
-                "en": "Hôtel de Raoulx, dit aussi hôtel de Liman, de Seillons ou de Barberin"
+                "en": "Hôtel de Raoulx, dit aussi hôtel de Liman, de Seillons ou de Barberin",
+                "fr": "Hôtel de Raoulx, dit aussi hôtel de Liman, de Seillons ou de Barberin"
               },
               "tip_5lang": {
                 "de": "Bewundern Sie die feinen Steindetails dieses historischen Herrenhauses unter Ihrem Regenschirm, bevor Sie hineingehen, um sich komplett aufzuwärmen.",
                 "hu": "Csodálja meg ennek a történelmi kúriának a kőből faragott részleteit az esernyője alól, mielőtt bemenne a melegre, hogy teljesen megszárítkozzon.",
                 "ro": "Apreciați detaliile complicate din piatră ale acestui conac istoric de sub umbrelă, înainte de a intra înăuntru pentru a vă încălzi și a vă usca complet.",
-                "en": "Appreciate the intricate stone details of this historic mansion from under your umbrella before heading inside to warm up and dry off completely."
+                "en": "Appreciate the intricate stone details of this historic mansion from under your umbrella before heading inside to warm up and dry off completely.",
+                "fr": "Appréciez les détails de pierre finement ciselés de cet hôtel particulier depuis votre parapluie avant d'entrer pour vous réchauffer et sécher complètement."
               }
             }
           ]
@@ -261,7 +287,8 @@
             "de": "Ein frischer Morgen beginnt am Justizpalast. Wärmen Sie sich mittags im Textilmuseum auf. Der Nachmittag bietet die Kirche und die Burg. Beenden Sie den Spaziergang vor dem frühen Sonnenuntergang um 17 Uhr am historischen Herrenhaus.",
             "hu": "A csípős reggel a bíróságnál indul. Délben melegedjen fel a vibráló textilmúzeumban. A délután a templomé és a középkori királyi kastélyé. Zárja a sétát a korai, 5 órai sötétedés előtt a történelmi kúriánál és a téli kertekben.",
             "ro": "O dimineață geroasă începe la tribunal. Încălziți-vă la prânz în muzeul textil. După-amiaza este dedicată bisericii și castelului medieval. Încheiați plimbarea înainte de apusul timpuriu de la ora 17:00 la conacul istoric și grădini.",
-            "en": "A crisp morning begins at the law court. Warm up in the vibrant textile museum by noon. The afternoon features the grand church and the medieval royal castle. End your walk before the early 5 PM sunset at the historic mansion and winter gardens."
+            "en": "A crisp morning begins at the law court. Warm up in the vibrant textile museum by noon. The afternoon features the grand church and the medieval royal castle. End your walk before the early 5 PM sunset at the historic mansion and winter gardens.",
+            "fr": "Une matinée fraîche commence au palais de justice. Réchauffez-vous dans le musée textile vibrant à midi. L'après-midi présente la grande église et le château royal. Terminez votre balade avant le coucher du soleil prévu vers 17:00 à l'hôtel historique et aux jardins d'hiver."
           },
           "stops": [
             {
@@ -269,13 +296,15 @@
                 "de": "Palais de Justice",
                 "hu": "Palais de Justice",
                 "ro": "Palais de Justice",
-                "en": "Palais de Justice"
+                "en": "Palais de Justice",
+                "fr": "Palais de Justice"
               },
               "tip_5lang": {
                 "de": "Die Morgenluft ist frisch und kalt; packen Sie sich dick ein, während Sie die strengen Linien der großen Fassade bewundern, bevor es weitergeht.",
                 "hu": "A reggeli levegő csípős és hideg; burkolózzon vastag sálba, miközben a lenyűgöző homlokzat szigorú vonalait csodálja, mielőtt tovább indulna innen.",
                 "ro": "Aerul dimineții este rece; înfofoliți-vă cu un fular gros în timp ce admirați liniile austere ale fațadei grandioase înainte de a merge mai departe.",
-                "en": "The morning air is crisp and cold; bundle up with a thick scarf while admiring the austere lines of the grand facade before moving to your next stop."
+                "en": "The morning air is crisp and cold; bundle up with a thick scarf while admiring the austere lines of the grand facade before moving to your next stop.",
+                "fr": "L'air du matin est vif et froid ; emmitouflez-vous d'une grosse écharpe en admirant les lignes austères de la grande façade avant de passer à l'étape suivante."
               }
             },
             {
@@ -283,13 +312,15 @@
                 "de": "Souleiado Museum",
                 "hu": "Souleiado Múzeum",
                 "ro": "Muzeul Souleiado",
-                "en": "Souleiado Museum"
+                "en": "Souleiado Museum",
+                "fr": "Musée Souleiado"
               },
               "tip_5lang": {
                 "de": "Ein wunderbar gemütlicher Rückzugsort vor der Winterkälte! Bewundern Sie die hellen Stoffe, die einen Hauch von Sommer in den kühlen Tag bringen.",
                 "hu": "Csodálatosan hangulatos menedék a téli hideg elől! Töltsön több időt az élénk szövetek csodálásával, amelyek a nyár melegét hozzák a hűvös napba.",
                 "ro": "Un refugiu minunat de cald din calea frigului! Petreceți mai mult timp admirând țesăturile strălucitoare ce aduc o notă de vară într-o zi geroasă.",
-                "en": "A wonderfully cozy retreat from the winter cold! Spend extra time admiring the bright fabrics that bring a touch of warm summer to a chilly day."
+                "en": "A wonderfully cozy retreat from the winter cold! Spend extra time admiring the bright fabrics that bring a touch of warm summer to a chilly day.",
+                "fr": "Un refuge merveilleusement douillet contre le froid hivernal ! Passez plus de temps à admirer les tissus lumineux qui apportent une touche d'été chaud à une journée fraîche."
               }
             },
             {
@@ -297,13 +328,15 @@
                 "de": "Saint Martha Collegiate Church",
                 "hu": "Szent Márta Társaskáptalan",
                 "ro": "Biserica Colegiată Sfânta Marta",
-                "en": "Saint Martha Collegiate Church"
+                "en": "Saint Martha Collegiate Church",
+                "fr": "Collégiale Sainte-Marthe"
               },
               "tip_5lang": {
                 "de": "Die dicken Steinmauern halten es drinnen extrem kühl; lassen Sie Ihren Wintermantel geschlossen, während Sie die romanische Krypta besichtigen.",
                 "hu": "A vastag kőfalak miatt bent rendkívül hűvös van, ezért tartsa begombolva téli kabátját, miközben a lenyűgöző, történelmi román stílusú kriptát járja.",
                 "ro": "Zidurile groase de piatră mențin frigul în interior; țineți haina de iarnă închisă în timp ce vizitați fascinanta și istorica criptă romanică.",
-                "en": "The thick stone walls keep it extremely chilly inside, so keep your winter coat zipped up while visiting the fascinating and historic Romanesque crypt."
+                "en": "The thick stone walls keep it extremely chilly inside, so keep your winter coat zipped up while visiting the fascinating and historic Romanesque crypt.",
+                "fr": "Les murs épais en pierre gardent un froid intense à l'intérieur, gardez votre manteau d'hiver fermé en visitant la fascinante crypte romane et historique."
               }
             },
             {
@@ -311,13 +344,15 @@
                 "de": "Château du Roi René",
                 "hu": "Château du Roi René",
                 "ro": "Château du Roi René",
-                "en": "Château du Roi René"
+                "en": "Château du Roi René",
+                "fr": "Château du Roi René"
               },
               "tip_5lang": {
                 "de": "Steigen Sie auf die Terrasse für klare Winterblicke über die Rhône, aber hüten Sie sich vor dem beißenden Mistralwind – tragen Sie warme Kleidung!",
                 "hu": "Másszon fel a teraszra a tiszta téli kilátásért a Rhône folyóra, de óvakodjon a csípős Mistral széltől – viseljen meleg sapkát és szélálló dzsekit!",
                 "ro": "Urcați pe terasă pentru vederi clare de iarnă asupra Ronului, dar feriți-vă de vântul tăios Mistral - purtați o căciulă caldă și o geacă groasă!",
-                "en": "Climb to the terrace for clear winter views over the Rhône river, but beware of the biting Mistral wind—wear a warm hat and a thick windproof jacket!"
+                "en": "Climb to the terrace for clear winter views over the Rhône river, but beware of the biting Mistral wind—wear a warm hat and a thick windproof jacket!",
+                "fr": "Montez à la terrasse pour des vues d'hiver claires sur le Rhône, mais méfiez-vous du Mistral mordant : portez un bonnet chaud et une grosse veste coupe-vent !"
               }
             },
             {
@@ -325,13 +360,15 @@
                 "de": "Jardin des plantes",
                 "hu": "Jardin des plantes",
                 "ro": "Jardin des plantes",
-                "en": "Jardin des plantes"
+                "en": "Jardin des plantes",
+                "fr": "Jardin des plantes"
               },
               "tip_5lang": {
                 "de": "Der Wintergarten ist ruhig und kahl; ein Spaziergang ist hier sehr erfrischend, aber besuchen Sie ihn unbedingt vor dem frühen Sonnenuntergang.",
                 "hu": "A téli kert csendes és kopár; egy élénk séta itt nagyon frissítő, csak mindenképpen látogasson el ide a korai, délután 5 óra körüli naplemente előtt.",
                 "ro": "Grădina de iarnă este liniștită și austeră; o plimbare aici este revigorantă, dar asigurați-vă că o vizitați înainte de apusul timpuriu de la ora 17:00.",
-                "en": "The winter garden is quiet and stark; a brisk walk here is very refreshing, just be absolutely sure to visit before the early sunset around 5:00 PM."
+                "en": "The winter garden is quiet and stark; a brisk walk here is very refreshing, just be absolutely sure to visit before the early sunset around 5:00 PM.",
+                "fr": "Le jardin d'hiver est calme et dépouillé ; une promenade vivifiante y est très agréable, veillez simplement à visiter avant le coucher du soleil précoce vers 17:00."
               }
             },
             {
@@ -339,13 +376,15 @@
                 "de": "Hôtel de Raoulx, dit aussi hôtel de Liman, de Seillons ou de Barberin",
                 "hu": "Hôtel de Raoulx",
                 "ro": "Hôtel de Raoulx",
-                "en": "Hôtel de Raoulx, dit aussi hôtel de Liman, de Seillons ou de Barberin"
+                "en": "Hôtel de Raoulx, dit aussi hôtel de Liman, de Seillons ou de Barberin",
+                "fr": "Hôtel de Raoulx, dit aussi hôtel de Liman, de Seillons ou de Barberin"
               },
               "tip_5lang": {
                 "de": "Bewundern Sie die elegante Fassade im weichen, niedrigen Winterlicht, perfekt für stimmungsvolle Fotos, kurz bevor die kalte Nacht hereinbricht.",
                 "hu": "Csodálja meg az elegáns, 17. századi homlokzatot a lágy, alacsony téli fényben, amely tökéletes a hangulatos fotózáshoz, mielőtt beáll a hideg éjszaka.",
                 "ro": "Admirați fațada elegantă din secolul al XVII-lea în lumina blândă de iarnă, perfectă pentru fotografii de atmosferă înainte de lăsarea nopții reci.",
-                "en": "Admire the elegant 17th-century facade in the soft, low winter light, perfect for atmospheric photography just before the cold night finally sets in."
+                "en": "Admire the elegant 17th-century facade in the soft, low winter light, perfect for atmospheric photography just before the cold night finally sets in.",
+                "fr": "Admirez la façade élégante du XVIIe siècle dans la douce et basse lumière hivernale, parfaite pour une photographie atmosphérique juste avant que la nuit froide n'arrive."
               }
             }
           ]
@@ -365,7 +404,8 @@
             "de": "Hôtel de Raoulx, dit aussi hôtel de Liman, de Seillons ou de Barberin",
             "hu": "Hôtel de Raoulx",
             "ro": "Hôtel de Raoulx",
-            "en": "Hôtel de Raoulx, dit aussi hôtel de Liman, de Seillons ou de Barberin"
+            "en": "Hôtel de Raoulx, dit aussi hôtel de Liman, de Seillons ou de Barberin",
+            "fr": "Hôtel de Raoulx, dit aussi hôtel de Liman, de Seillons ou de Barberin"
           },
           "coords": [
             4.660958,
@@ -380,7 +420,8 @@
             "de": "Betrachten Sie die eleganten architektonischen Details dieser historischen Adelsvilla von der Straße aus und achten Sie auf die kunstvollen Schmiedearbeiten.",
             "hu": "Figyelje meg ennek a történelmi arisztokrata kúriának az elegáns építészeti részleteit az utcáról, különös tekintettel a klasszikus francia bájt adó díszes vasmunkákra.",
             "ro": "Observați detaliile arhitecturale elegante ale acestui conac aristocratic istoric de pe stradă, remarcând feroneria ornamentată care îi definește farmecul clasic francez.",
-            "en": "Observe the elegant architectural details of this historic aristocratic mansion from the street, noticing the ornate ironwork that defines its classic French charm."
+            "en": "Observe the elegant architectural details of this historic aristocratic mansion from the street, noticing the ornate ironwork that defines its classic French charm.",
+            "fr": "Observez les élégants détails architecturaux de ce hôtel particulier historique depuis la rue, en remarquant la ferronnerie ornée qui définit son charme classique français."
           }
         },
         {
@@ -388,7 +429,8 @@
             "de": "Souleiado Museum",
             "hu": "Souleiado Múzeum",
             "ro": "Muzeul Souleiado",
-            "en": "Souleiado Museum"
+            "en": "Souleiado Museum",
+            "fr": "Musée Souleiado"
           },
           "coords": [
             4.659593,
@@ -403,7 +445,8 @@
             "de": "Entdecken Sie die farbenfrohe Welt der traditionellen provenzalischen Textilien in diesem Museum, aber besuchen Sie unbedingt den Souvenirshop für echte Stoffe.",
             "hu": "Fedezze fel a hagyományos provence-i textilek vibráló világát ebben a színes múzeumban, de mindenképpen nézzen be az ajándékboltba is az eredeti szövetekért.",
             "ro": "Descoperiți lumea vibrantă a textilelor tradiționale provensale în acest muzeu colorat, dar nu uitați să vizitați magazinul de suveniruri pentru țesături autentice.",
-            "en": "Discover the vibrant world of traditional Provençal textiles at this colorful museum, but be sure to check the gift shop for authentic fabric souvenirs."
+            "en": "Discover the vibrant world of traditional Provençal textiles at this colorful museum, but be sure to check the gift shop for authentic fabric souvenirs.",
+            "fr": "Découvrez l'univers vibrant des textiles traditionnels provençaux dans ce musée coloré, mais n'oubliez pas de visiter la boutique pour des souvenirs en tissu authentiques."
           }
         },
         {
@@ -411,7 +454,8 @@
             "de": "Saint Martha Collegiate Church",
             "hu": "Szent Márta Társaskáptalan",
             "ro": "Biserica Colegiată Sfânta Marta",
-            "en": "Saint Martha Collegiate Church"
+            "en": "Saint Martha Collegiate Church",
+            "fr": "Collégiale Sainte-Marthe"
           },
           "coords": [
             4.655841,
@@ -426,7 +470,8 @@
             "de": "Betreten Sie diese romanisch-gotische Kirche, um die prächtige Krypta der Heiligen Martha zu besichtigen, wobei Sie sich bescheiden kleiden und leise sprechen sollten.",
             "hu": "Lépjen be ebbe a román-gótikus templomba, hogy megtekintse Szent Márta csodálatos kriptáját, emlékezve a szerény öltözködésre és a halk beszédre a látogatás során.",
             "ro": "Pășiți în această biserică romanico-gotică pentru a vedea cripta magnifică a Sfintei Marta, amintindu-vă să vă îmbrăcați modest și să vorbiți încet în timpul vizitei.",
-            "en": "Step inside this Romanesque-Gothic church to view the magnificent crypt of Saint Martha, remembering to dress modestly and speak softly during your visit."
+            "en": "Step inside this Romanesque-Gothic church to view the magnificent crypt of Saint Martha, remembering to dress modestly and speak softly during your visit.",
+            "fr": "Pénétrez dans cette église roman-gothique pour voir la magnifique crypte de Sainte-Marthe, en vous habillant modestement et en parlant doucement pendant votre visite."
           }
         },
         {
@@ -434,7 +479,8 @@
             "de": "Château du Roi René",
             "hu": "Château du Roi René",
             "ro": "Château du Roi René",
-            "en": "Château du Roi René"
+            "en": "Château du Roi René",
+            "fr": "Château du Roi René"
           },
           "coords": [
             4.655,
@@ -449,7 +495,8 @@
             "de": "Erkunden Sie diese unglaublich gut erhaltene mittelalterliche Festung mit Blick auf die Rhône und steigen Sie auf die oberste Terrasse für spektakuläre Ausblicke.",
             "hu": "Fedezze fel ezt a hihetetlenül jól megőrzött, Rhône folyóra néző középkori erődöt, és másszon fel a legfelső teraszra a völgyre nyíló látványos panorámáért.",
             "ro": "Explorați această fortăreață medievală incredibil de bine conservată cu vedere la râul Rhône și urcați pe terasa superioară pentru vederi panoramice spectaculoase.",
-            "en": "Explore this incredibly well-preserved medieval fortress overlooking the Rhône river, and climb to the very top terrace for spectacular panoramic views of the valley."
+            "en": "Explore this incredibly well-preserved medieval fortress overlooking the Rhône river, and climb to the very top terrace for spectacular panoramic views of the valley.",
+            "fr": "Explorez cette forteresse médiévale remarquablement bien conservée dominant le Rhône, et montez jusqu'à la terrasse sommitale pour des vues panoramiques spectaculaires sur la vallée."
           }
         },
         {
@@ -457,7 +504,8 @@
             "de": "Tarascon Castle",
             "hu": "Tarasconi vár",
             "ro": "Castelul Tarascon",
-            "en": "Tarascon Castle"
+            "en": "Tarascon Castle",
+            "fr": "Château de Tarascon"
           },
           "coords": [
             4.660196,
@@ -472,7 +520,8 @@
             "de": "Wandern Sie durch die antiken Ruinen dieser sekundären Verteidigungsanlage im Süden und tragen Sie festes Schuhwerk, um das unebene historische Gelände zu meistern.",
             "hu": "Barangoljon a déli megközelítést védő másodlagos védmű ősi romjai között, és viseljen erős cipőt az egyenetlen történelmi talajon való magabiztos sétához.",
             "ro": "Plimbați-vă prin ruinele antice ale acestei structuri defensive secundare din sud, purtând încălțăminte rezistentă pentru a naviga pe terenul istoric denivelat.",
-            "en": "Wander through the ancient ruins of this secondary defensive structure that guarded the southern approaches, wearing sturdy shoes to navigate the uneven historic grounds."
+            "en": "Wander through the ancient ruins of this secondary defensive structure that guarded the southern approaches, wearing sturdy shoes to navigate the uneven historic grounds.",
+            "fr": "Parcourez les ruines anciennes de cette structure défensive secondaire qui gardait les approches sud, en portant des chaussures solides pour naviguer sur le terrain historique irrégulier."
           }
         },
         {
@@ -480,7 +529,8 @@
             "de": "Château de Goubelet",
             "hu": "Château de Goubelet",
             "ro": "Château de Goubelet",
-            "en": "Château de Goubelet"
+            "en": "Château de Goubelet",
+            "fr": "Château de Goubelet"
           },
           "coords": [
             4.669528,
@@ -495,7 +545,8 @@
             "de": "Bestaunen Sie die abgeschiedene Pracht dieses weniger bekannten ländlichen Schlosses in der Landschaft und bringen Sie ein Zoomobjektiv für Außenaufnahmen mit.",
             "hu": "Csodálja meg ennek a tájban megbúvó, kevésbé ismert vidéki kastélynak a félreeső nagyszerűségét, és hozzon magával zoom objektívet a külső részletek megörökítéséhez.",
             "ro": "Minunați-vă de măreția izolată a acestui castel rural mai puțin cunoscut ascuns în peisaj și aduceți un obiectiv cu zoom pentru a surprinde exteriorul său detaliat.",
-            "en": "Marvel at the secluded grandeur of this lesser-known rural castle nestled in the landscape, and bring a zoom lens to capture its intricate exterior from afar."
+            "en": "Marvel at the secluded grandeur of this lesser-known rural castle nestled in the landscape, and bring a zoom lens to capture its intricate exterior from afar.",
+            "fr": "Admirez la grandeur discrète de ce château rural peu connu niché dans le paysage, et apportez un objectif à longue focale pour capturer son extérieur détaillé de loin."
           }
         }
       ],
@@ -503,7 +554,8 @@
         "de": "Beginnen Sie Ihre Radtour, indem Sie die klassische Eleganz des Hôtel de Raoulx in der Morgensonne bewundern. Radeln Sie zum Souleiado-Museum und besuchen Sie mittags die St. Martha Kirche. Am Nachmittag entführt Sie das hoch aufragende Château du Roi René in das Mittelalter, bevor Sie zur Burg von Tarascon weiterfahren. Beenden Sie Ihre abenteuerliche Fahrt am abgelegenen Château de Goubelet in der Landschaft.",
         "hu": "Kezdje a kerékpártúrát a Hôtel de Raoulx klasszikus eleganciájának megcsodálásával a reggeli napsütésben. Tekerjen el a Souleiado Múzeumba, majd álljon meg délben a lenyűgöző Szent Márta templomnál. Délután a magasba tornyosuló Château du Roi René repíti vissza a középkorba, mielőtt kilovagolna a tarasconi várhoz. Fejezze be kalandos útját a félreeső Château de Goubelet kastélynál, miközben a vidék ragyog.",
         "ro": "Începeți călătoria cu bicicleta admirând eleganța clasică a Hôtel de Raoulx în soarele dimineții. Pedați spre Muzeul Souleiado, apoi opriți-vă la prânz pentru a vizita impresionanta Biserică Sfânta Marta. După-amiaza, lăsați impunătorul Château du Roi René să vă transporte în Evul Mediu, înainte de a merge la Castelul Tarascon. Încheiați plimbarea la izolatul Château de Goubelet, în lumina caldă a peisajului rural.",
-        "en": "Kick off your cycling journey by admiring the classic elegance of Hôtel de Raoulx in the morning sun. Pedal gently to the Souleiado Museum to explore local textiles, then stop for a midday visit to the stunning Saint Martha Collegiate Church. In the afternoon, let the towering Château du Roi René transport you to the Middle Ages before riding out to the secondary Tarascon Castle. Finish your adventurous ride at the secluded Château de Goubelet as the countryside glows warmly."
+        "en": "Kick off your cycling journey by admiring the classic elegance of Hôtel de Raoulx in the morning sun. Pedal gently to the Souleiado Museum to explore local textiles, then stop for a midday visit to the stunning Saint Martha Collegiate Church. In the afternoon, let the towering Château du Roi René transport you to the Middle Ages before riding out to the secondary Tarascon Castle. Finish your adventurous ride at the secluded Château de Goubelet as the countryside glows warmly.",
+        "fr": "Commencez votre parcours à vélo en admirant l'élégance classique de l'Hôtel de Raoulx au soleil du matin. Pédalez doucement jusqu'au Musée Souleiado pour explorer les textiles locaux, puis arrêtez-vous à midi à la superbe Collégiale Sainte-Marthe. L'après-midi, laissez le majestueux Château du Roi René vous transporter au Moyen Âge avant de rouler jusqu'au Château de Tarascon. Terminez votre balade aventureuse au retiré Château de Goubelet alors que la campagne s'illumine chaleureusement."
       },
       "variants": {
         "rainy": {
@@ -511,7 +563,8 @@
             "de": "Die morgendliche Fahrt zum historischen Herrenhaus beginnt bei leichtem Regen. Suchen Sie Deckung im Textilmuseum. Nachmittags ist auf nassen Pflastersteinen zur Burg Vorsicht geboten. Beenden Sie den Tag mit einer vorsichtigen Fahrt.",
             "hu": "A történelmi kúriához vezető reggeli tekerés enyhe esőben indul. Keressen menedéket a textilmúzeumban. Délután a templomhoz és a kastélyhoz vezető nedves macskaköveken óvatosan haladjon. Zárja a napot egy óvatos utazással a külső várakhoz.",
             "ro": "Plimbarea matinală spre conacul istoric începe pe o ploaie măruntă. Adăpostiți-vă în muzeul textil. Pedalarea de după-amiază spre biserică și castel necesită prudență pe pietrele ude. Încheiați cu o cursă atentă spre castelele exterioare.",
-            "en": "Morning ride to the historic mansion starts in light rain. Take solid cover in the textile museum. Afternoon pedaling to the church and castle requires caution on wet cobbles. End with a careful ride to the outer castles as the rainy day closes."
+            "en": "Morning ride to the historic mansion starts in light rain. Take solid cover in the textile museum. Afternoon pedaling to the church and castle requires caution on wet cobbles. End with a careful ride to the outer castles as the rainy day closes.",
+            "fr": "Promenade matinale sous une pluie fine en partant de l'hôtel particulier. Trouvez un abri solide au musée textile. L'après-midi, prudence sur les pavés mouillés en direction de l'église et du château. Terminez par une arrivée prudente aux châteaux extérieurs alors que la journée pluvieuse se termine."
           },
           "stops": [
             {
@@ -519,13 +572,15 @@
                 "de": "Hôtel de Raoulx, dit aussi hôtel de Liman, de Seillons ou de Barberin",
                 "hu": "Hôtel de Raoulx",
                 "ro": "Hôtel de Raoulx",
-                "en": "Hôtel de Raoulx, dit aussi hôtel de Liman, de Seillons ou de Barberin"
+                "en": "Hôtel de Raoulx, dit aussi hôtel de Liman, de Seillons ou de Barberin",
+                "fr": "Hôtel de Raoulx, dit aussi hôtel de Liman, de Seillons ou de Barberin"
               },
               "tip_5lang": {
                 "de": "Starten Sie hier Ihre nasse Fahrt; das Mauerwerk wirkt bei Regen markant, aber achten Sie auf extrem rutschiges nasses Laub auf dem Radweg bei Ihrer Ankunft.",
                 "hu": "Kezdje itt a nedves tekerést; a kőműves munka feltűnő az esőben, de érkezéskor ügyeljen a kerékpárúton lévő rendkívül csúszós, nedves falevelekre.",
                 "ro": "Începeți cursa udă aici; piatra arată uimitor în ploaie, dar aveți grijă la frunzele ude extrem de alunecoase de pe pista de biciclete la sosire.",
-                "en": "Start your wet ride here; the stonework looks striking in the rain, but watch out for extremely slippery wet leaves on the cycle path as you arrive."
+                "en": "Start your wet ride here; the stonework looks striking in the rain, but watch out for extremely slippery wet leaves on the cycle path as you arrive.",
+                "fr": "Commencez votre sortie humide ici ; la pierre est saisissante sous la pluie, mais faites attention aux feuilles très glissantes sur la piste cyclable à votre arrivée."
               }
             },
             {
@@ -533,13 +588,15 @@
                 "de": "Souleiado Museum",
                 "hu": "Souleiado Múzeum",
                 "ro": "Muzeul Souleiado",
-                "en": "Souleiado Museum"
+                "en": "Souleiado Museum",
+                "fr": "Musée Souleiado"
               },
               "tip_5lang": {
                 "de": "Parken Sie Ihr Fahrrad sicher und treten Sie ein, um dem Regen zu entkommen, und genießen Sie bunte Stoffe in einem warmen und ganz trockenen Raum.",
                 "hu": "Parkolja le biztonságosan a kerékpárt, és lépjen be a felhőszakadás elől, élvezve a színes hagyományos szöveteket egy meleg és teljesen száraz helyen.",
                 "ro": "Parcați bicicleta în siguranță și intrați pentru a scăpa de ploaie, bucurându-vă de țesăturile tradiționale colorate într-un spațiu cald și uscat.",
-                "en": "Park your bike safely and step inside to escape the downpour, enjoying the colorful traditional fabrics in a wonderfully warm and completely dry space."
+                "en": "Park your bike safely and step inside to escape the downpour, enjoying the colorful traditional fabrics in a wonderfully warm and completely dry space.",
+                "fr": "Garez votre vélo en sécurité et entrez pour échapper à l'averse, en profitant des tissus traditionnels colorés dans un espace merveilleusement chaud et complètement sec."
               }
             },
             {
@@ -547,13 +604,15 @@
                 "de": "Saint Martha Collegiate Church",
                 "hu": "Szent Márta Társaskáptalan",
                 "ro": "Biserica Colegiată Sfânta Marta",
-                "en": "Saint Martha Collegiate Church"
+                "en": "Saint Martha Collegiate Church",
+                "fr": "Collégiale Sainte-Marthe"
               },
               "tip_5lang": {
                 "de": "Suchen Sie Zuflucht in der Krypta; seien Sie beim Parken Ihres Fahrrads draußen sehr vorsichtig, da der historische Steinplatz bei Nässe rutschig wird.",
                 "hu": "Keressen menedéket a kriptában; legyen nagyon óvatos, amikor kint parkolja le a kerékpárt, mert a történelmi kőtér figyelemre méltóan csúszós nedvesen.",
                 "ro": "Refugiați-vă în criptă; fiți foarte atenți când parcați bicicleta afară, deoarece piațeta istorică din piatră devine extrem de alunecoasă când este udă.",
-                "en": "Take refuge in the crypt; be very careful when parking your bike outside, as the historic stone plaza gets remarkably slick and slippery when soaking wet."
+                "en": "Take refuge in the crypt; be very careful when parking your bike outside, as the historic stone plaza gets remarkably slick and slippery when soaking wet.",
+                "fr": "Cherchez refuge dans la crypte ; soyez très prudent en stationnant votre vélo dehors, la place en pierre historique devient remarquablement glissante quand elle est trempée."
               }
             },
             {
@@ -561,13 +620,15 @@
                 "de": "Château du Roi René",
                 "hu": "Château du Roi René",
                 "ro": "Château du Roi René",
-                "en": "Château du Roi René"
+                "en": "Château du Roi René",
+                "fr": "Château du Roi René"
               },
               "tip_5lang": {
                 "de": "Erkunden Sie die weitläufigen Innenräume der Festung; halten Sie Ihre Regenkleidung für die offenen Hofübergänge zwischen den trockenen Bereichen bereit.",
                 "hu": "Fedezze fel az erőd kiterjedt belső termeit; tartsa kéznél vízálló esőruháját a száraz szakaszok közötti nyitott udvari, nedves átkelésekhez is.",
                 "ro": "Explorați sălile interioare ale fortăreței; țineți echipamentul de ploaie la îndemână pentru tranzițiile prin curtea deschisă între secțiunile uscate.",
-                "en": "Explore the extensive indoor rooms of this fortress; keep your waterproof rain gear handy for the open courtyard transitions between the dry sections."
+                "en": "Explore the extensive indoor rooms of this fortress; keep your waterproof rain gear handy for the open courtyard transitions between the dry sections.",
+                "fr": "Explorez les vastes salles intérieures de cette forteresse ; gardez votre équipement de pluie imperméable à portée de main pour les transitions entre les sections sèches et la cour ouverte."
               }
             },
             {
@@ -575,13 +636,15 @@
                 "de": "Tarascon Castle",
                 "hu": "Tarasconi vár",
                 "ro": "Castelul Tarascon",
-                "en": "Tarascon Castle"
+                "en": "Tarascon Castle",
+                "fr": "Château de Tarascon"
               },
               "tip_5lang": {
                 "de": "Die majestätischen Mauern wirken vor grauem Himmel imposant; radeln Sie vorsichtig auf der nassen Zufahrtsstraße und tragen Sie einen guten Regenponcho.",
                 "hu": "A fenséges falak impozánsan mutatnak a szürke égbolt előtt; nagyon óvatosan tekerjen a nedves bekötőúton, és mindenképpen viseljen minőségi esőponcsót.",
                 "ro": "Zidurile maiestuoase par impunătoare pe cerul gri; pedalați cu mare atenție pe drumul de acces ud și purtați neapărat un poncho de ploaie de calitate.",
-                "en": "The majestic walls look imposing against gray skies; cycle very carefully on the wet approach road and definitely wear a high-quality rain poncho."
+                "en": "The majestic walls look imposing against gray skies; cycle very carefully on the wet approach road and definitely wear a high-quality rain poncho.",
+                "fr": "Les murs majestueux paraissent imposants sous un ciel gris ; pédalez très prudemment sur la route d'approche mouillée et portez absolument une cape de pluie de qualité."
               }
             },
             {
@@ -589,13 +652,15 @@
                 "de": "Château de Goubelet",
                 "hu": "Château de Goubelet",
                 "ro": "Château de Goubelet",
-                "en": "Château de Goubelet"
+                "en": "Château de Goubelet",
+                "fr": "Château de Goubelet"
               },
               "tip_5lang": {
                 "de": "Eine malerische, aber sehr nasse letzte Fahrt; bremsen Sie früh auf feuchten Landstraßen und bewundern Sie die regengepeitschten Schlossgründe sicher.",
                 "hu": "Festői, de nagyon nedves utolsó út; fékezzen korán a nyirkos vidéki utakon, és csodálja meg a hangulatos, eső áztatta kastélykertet az út biztonságából.",
                 "ro": "O ultimă cursă pitorească, dar foarte udă; frânați devreme pe benzile rurale umede și admirați domeniul castelului măturat de ploaie de pe drumul sigur.",
-                "en": "A scenic but very wet final ride; brake early on the damp country lanes and admire the moody, rain-swept castle grounds from the relative safety of the road."
+                "en": "A scenic but very wet final ride; brake early on the damp country lanes and admire the moody, rain-swept castle grounds from the relative safety of the road.",
+                "fr": "Un trajet final pittoresque mais très humide ; freinez tôt sur les voies rurales humides et admirez l'atmosphère austère du château balayé par la pluie depuis la sécurité relative de la route."
               }
             }
           ]
@@ -605,7 +670,8 @@
             "de": "Eine flotte Morgenfahrt beginnt am Herrenhaus. Wärmen Sie sich vor dem Mittag im Museum auf. Der Nachmittag bietet Kirche und Schloss. Beenden Sie die Radtour an den äußeren Festungen sicher vor der frühen, eisigen Winterdämmerung.",
             "hu": "Frissítő reggeli tekerés indul a kúriától. Dél előtt melegedjen fel alaposan a múzeumban. A délután a templomé és a királyi kastélyé. Fejezze be kerékpártúráját a külső erődöknél biztonságosan, még a korai és fagyos téli szürkület előtt.",
             "ro": "O plimbare matinală alertă începe la conac. Încălziți-vă bine în muzeu înainte de prânz. După-amiaza vizitați biserica și castelul. Terminați turul cu bicicleta la fortărețele exterioare în siguranță înainte de crepusculul timpuriu și înghețat.",
-            "en": "A brisk morning ride starts at the mansion. Warm up thoroughly in the museum before noon. Afternoon features the grand church and royal castle. Finish your cycling tour at the outer fortresses safely before the early and freezing winter dusk."
+            "en": "A brisk morning ride starts at the mansion. Warm up thoroughly in the museum before noon. Afternoon features the grand church and royal castle. Finish your cycling tour at the outer fortresses safely before the early and freezing winter dusk.",
+            "fr": "Une sortie vélo tonique commence le matin à l'hôtel particulier. Réchauffez-vous bien au musée avant midi. L'après-midi présente la grande église et le château royal. Terminez votre circuit cycliste aux forteresses extérieures en toute sécurité avant la tombée de la nuit hivernale tôt et glaciale."
           },
           "stops": [
             {
@@ -613,13 +679,15 @@
                 "de": "Hôtel de Raoulx, dit aussi hôtel de Liman, de Seillons ou de Barberin",
                 "hu": "Hôtel de Raoulx",
                 "ro": "Hôtel de Raoulx",
-                "en": "Hôtel de Raoulx, dit aussi hôtel de Liman, de Seillons ou de Barberin"
+                "en": "Hôtel de Raoulx, dit aussi hôtel de Liman, de Seillons ou de Barberin",
+                "fr": "Hôtel de Raoulx, dit aussi hôtel de Liman, de Seillons ou de Barberin"
               },
               "tip_5lang": {
                 "de": "Packen Sie sich für die frische Morgenfahrt in Schichten ein und bewundern Sie die historische Architektur im klaren, scharfen und kalten Wintersonnenlicht.",
                 "hu": "Öltözzön rétegesen a csípős reggeli tekeréshez, és csodálja meg a történelmi építészetet, amely gyönyörűen ragyog a tiszta, éles és nagyon hideg téli napfényben.",
                 "ro": "Îmbrăcați-vă în straturi pentru cursa matinală rece și admirați arhitectura istorică strălucind frumos în lumina clară, tăioasă și foarte rece a soarelui.",
-                "en": "Bundle up in layers for the brisk morning ride and admire the historic architecture glowing beautifully in the clear, sharp, and very cold winter sunlight."
+                "en": "Bundle up in layers for the brisk morning ride and admire the historic architecture glowing beautifully in the clear, sharp, and very cold winter sunlight.",
+                "fr": "Emmitouflez-vous en couches pour la balade matinale vivifiante et admirez l'architecture historique qui brille magnifiquement dans la lumière hivernale claire, nette et très froide."
               }
             },
             {
@@ -627,13 +695,15 @@
                 "de": "Souleiado Museum",
                 "hu": "Souleiado Múzeum",
                 "ro": "Muzeul Souleiado",
-                "en": "Souleiado Museum"
+                "en": "Souleiado Museum",
+                "fr": "Musée Souleiado"
               },
               "tip_5lang": {
                 "de": "Tauen Sie Ihre frierenden Finger auf, während Sie die leuchtenden Muster provenzalischer Textilien drinnen, geschützt vor der Winterkälte, erkunden.",
                 "hu": "Engedje fel fagyos ujjait, miközben felfedezi a hagyományos provence-i textíliák vibráló, napfényes mintáit, tökéletesen védve a benti téli hideg ellen.",
                 "ro": "Dezghețați-vă degetele înghețate în timp ce explorați modelele vibrante ale textilelor provensale tradiționale, perfect adăpostiți de frigul iernii.",
-                "en": "Thaw your freezing fingers while exploring the vibrant, sunny patterns of traditional Provencal textiles perfectly sheltered indoors from the winter chill."
+                "en": "Thaw your freezing fingers while exploring the vibrant, sunny patterns of traditional Provencal textiles perfectly sheltered indoors from the winter chill.",
+                "fr": "Réchauffez vos doigts gelés en explorant les motifs vibrants et ensoleillés des tissus provençaux traditionnels, parfaitement abrités de la fraîcheur hivernale."
               }
             },
             {
@@ -641,13 +711,15 @@
                 "de": "Saint Martha Collegiate Church",
                 "hu": "Szent Márta Társaskáptalan",
                 "ro": "Biserica Colegiată Sfânta Marta",
-                "en": "Saint Martha Collegiate Church"
+                "en": "Saint Martha Collegiate Church",
+                "fr": "Collégiale Sainte-Marthe"
               },
               "tip_5lang": {
                 "de": "Treten Sie ein, um die alte Krypta zu sehen; die ruhige Winteratmosphäre wirkt mystisch, auch wenn die massiven alten Steine bitterkalt bleiben.",
                 "hu": "Lépjen be az ősi kriptába; a csendes téli atmoszféra misztikus hangulatot kölcsönöz a helynek, bár a hatalmas ősi kövek továbbra is keservesen hidegek.",
                 "ro": "Pășiți înăuntru pentru a vedea cripta antică; atmosfera liniștită de iarnă adaugă un aer mistic, deși pietrele masive antice rămân extrem de reci.",
-                "en": "Step strictly inside to see the ancient crypt; the quiet winter atmosphere adds a mystical feel, though the massive ancient stones remain bitterly cold."
+                "en": "Step strictly inside to see the ancient crypt; the quiet winter atmosphere adds a mystical feel, though the massive ancient stones remain bitterly cold.",
+                "fr": "Entrez impérativement pour voir la crypte ancienne ; l'atmosphère hivernale silencieuse ajoute une impression mystique, bien que les pierres massives restent âprement froides."
               }
             },
             {
@@ -655,13 +727,15 @@
                 "de": "Château du Roi René",
                 "hu": "Château du Roi René",
                 "ro": "Château du Roi René",
-                "en": "Château du Roi René"
+                "en": "Château du Roi René",
+                "fr": "Château du Roi René"
               },
               "tip_5lang": {
                 "de": "Das niedrige Winterlicht ist perfekt für Fotos; besteigen Sie den Turm, aber tragen Sie unbedingt eine Windjacke gegen die eisigen Böen vom Fluss.",
                 "hu": "Az alacsony téli fény tökéletes a lenyűgöző fotókhoz; másszon fel a toronyba, de feltétlenül viseljen széldzsekit a folyó felől fújó jeges széllökések ellen.",
                 "ro": "Lumina joasă de iarnă e perfectă pentru fotografii; urcați în turn, dar purtați obligatoriu o geacă de vânt împotriva rafalelor înghețate de pe râu.",
-                "en": "The low winter light is perfect for striking photos; climb the tower but strictly wear a windbreaker against the icy cold blasts blowing off the river."
+                "en": "The low winter light is perfect for striking photos; climb the tower but strictly wear a windbreaker against the icy cold blasts blowing off the river.",
+                "fr": "La faible lumière d'hiver est parfaite pour des photos saisissantes ; montez dans la tour mais portez impérativement un coupe-vent contre les rafales glaciales soufflant du fleuve."
               }
             },
             {
@@ -669,13 +743,15 @@
                 "de": "Tarascon Castle",
                 "hu": "Tarasconi vár",
                 "ro": "Castelul Tarascon",
-                "en": "Tarascon Castle"
+                "en": "Tarascon Castle",
+                "fr": "Château de Tarascon"
               },
               "tip_5lang": {
                 "de": "Radeln Sie kräftig, um sich auf dem Weg warm zu halten; die riesige Festung sieht vor der blassen, eisigen Weite des Winterhimmels absolut atemberaubend aus.",
                 "hu": "Tekerjen erőteljesen, hogy melegen tartsa magát az ideúton; a hatalmas erődítmény abszolút lenyűgözően mutat a drámai téli égbolt halvány, jeges kiterjedése előtt.",
                 "ro": "Pedalați viguros pentru a vă încălzi pe drum; fortăreața imensă arată absolut uimitor proiectată pe întinderea palidă și înghețată a cerului dramatic.",
-                "en": "Cycle vigorously to stay warm on your way here; the immense fortress looks absolutely stunning set against the pale, icy expanse of the dramatic winter sky."
+                "en": "Cycle vigorously to stay warm on your way here; the immense fortress looks absolutely stunning set against the pale, icy expanse of the dramatic winter sky.",
+                "fr": "Pédalez vigoureusement pour rester au chaud en vous y rendant ; l'immense forteresse est absolument saisissante dressée contre l'étendue pâle et glaciale du ciel d'hiver dramatique."
               }
             },
             {
@@ -683,13 +759,15 @@
                 "de": "Château de Goubelet",
                 "hu": "Château de Goubelet",
                 "ro": "Château de Goubelet",
-                "en": "Château de Goubelet"
+                "en": "Château de Goubelet",
+                "fr": "Château de Goubelet"
               },
               "tip_5lang": {
                 "de": "Behalten Sie die Zeit im Auge und kehren Sie vor 17 Uhr zurück; die offenen Landstraßen werden nach Sonnenuntergang schnell stockdunkel und eisig kalt.",
                 "hu": "Figyelje szorosan az időt, és induljon vissza 17:00 óra előtt; a nyílt vidéki utak naplemente után gyorsan teljesen sötétbe borulnak és fagyosra hűlnek.",
                 "ro": "Fiți cu ochii pe ceas și întoarceți-vă înainte de ora 17:00; drumurile rurale deschise devin complet întunecate și temperaturile scad rapid după apus.",
-                "en": "Keep a close eye on the time and head back before 5:00 PM; the open country roads get completely dark and drop to freezing temperatures rapidly after sunset."
+                "en": "Keep a close eye on the time and head back before 5:00 PM; the open country roads get completely dark and drop to freezing temperatures rapidly after sunset.",
+                "fr": "Surveillez bien l'heure et repartez avant 17:00 ; les routes de campagne ouvertes s'obscurcissent complètement et tombent rapidement à des températures glaciales après le coucher du soleil."
               }
             }
           ]
@@ -709,7 +787,8 @@
             "de": "Tarascon Castle",
             "hu": "Tarasconi vár",
             "ro": "Castelul Tarascon",
-            "en": "Tarascon Castle"
+            "en": "Tarascon Castle",
+            "fr": "Château de Tarascon"
           },
           "coords": [
             4.660196,
@@ -724,7 +803,8 @@
             "de": "Wandern Sie durch die antiken Ruinen dieser sekundären Verteidigungsanlage im Süden und tragen Sie festes Schuhwerk, um das unebene historische Gelände zu meistern.",
             "hu": "Barangoljon a déli megközelítést védő másodlagos védmű ősi romjai között, és viseljen erős cipőt az egyenetlen történelmi talajon való magabiztos sétához.",
             "ro": "Plimbați-vă prin ruinele antice ale acestei structuri defensive secundare din sud, purtând încălțăminte rezistentă pentru a naviga pe terenul istoric denivelat.",
-            "en": "Wander through the ancient ruins of this secondary defensive structure that guarded the southern approaches, wearing sturdy shoes to navigate the uneven historic grounds."
+            "en": "Wander through the ancient ruins of this secondary defensive structure that guarded the southern approaches, wearing sturdy shoes to navigate the uneven historic grounds.",
+            "fr": "Parcourez les ruines anciennes de cette structure défensive secondaire qui gardait les approches sud, en portant des chaussures solides pour naviguer sur le terrain historique irrégulier."
           }
         },
         {
@@ -732,7 +812,8 @@
             "de": "Château de Goubelet",
             "hu": "Château de Goubelet",
             "ro": "Château de Goubelet",
-            "en": "Château de Goubelet"
+            "en": "Château de Goubelet",
+            "fr": "Château de Goubelet"
           },
           "coords": [
             4.669528,
@@ -747,7 +828,8 @@
             "de": "Bestaunen Sie die abgeschiedene Pracht dieses weniger bekannten ländlichen Schlosses in der Landschaft und bringen Sie ein Zoomobjektiv für Außenaufnahmen mit.",
             "hu": "Csodálja meg ennek a tájban megbúvó, kevésbé ismert vidéki kastélynak a félreeső nagyszerűségét, és hozzon magával zoom objektívet a külső részletek megörökítéséhez.",
             "ro": "Minunați-vă de măreția izolată a acestui castel rural mai puțin cunoscut ascuns în peisaj și aduceți un obiectiv cu zoom pentru a surprinde exteriorul său detaliat.",
-            "en": "Marvel at the secluded grandeur of this lesser-known rural castle nestled in the landscape, and bring a zoom lens to capture its intricate exterior from afar."
+            "en": "Marvel at the secluded grandeur of this lesser-known rural castle nestled in the landscape, and bring a zoom lens to capture its intricate exterior from afar.",
+            "fr": "Admirez la grandeur discrète de ce château rural peu connu niché dans le paysage, et apportez un objectif à longue focale pour capturer son extérieur détaillé de loin."
           }
         },
         {
@@ -755,7 +837,8 @@
             "de": "Palais de Justice",
             "hu": "Palais de Justice",
             "ro": "Palais de Justice",
-            "en": "Palais de Justice"
+            "en": "Palais de Justice",
+            "fr": "Palais de Justice"
           },
           "coords": [
             4.658074,
@@ -770,7 +853,8 @@
             "de": "Bewundern Sie die neoklassizistische Fassade des Justizpalastes als Zeugnis der Stadtgeschichte und machen Sie morgens Fotos, wenn das Licht auf den Stein fällt.",
             "hu": "Csodálja meg az Igazságügyi Palota neoklasszicista homlokzatát, a polgári történelem tanúját, és fotózza le a térről, amikor a reggeli fény a kövekre esik.",
             "ro": "Admirați fațada neoclasică a Palatului de Justiție, o mărturie a istoriei civice, și fotografiați clădirea din piață atunci când lumina dimineții atinge piatra.",
-            "en": "Admire the neoclassical facade of the Palais de Justice, a testament to civic history, and snap photos from the square when the morning light hits the stonework."
+            "en": "Admire the neoclassical facade of the Palais de Justice, a testament to civic history, and snap photos from the square when the morning light hits the stonework.",
+            "fr": "Admirez la façade néoclassique du Palais de Justice, témoignage de l'histoire civique, et prenez des photos depuis la place lorsque la lumière du matin frappe la pierre."
           }
         },
         {
@@ -778,7 +862,8 @@
             "de": "Souleiado Museum",
             "hu": "Souleiado Múzeum",
             "ro": "Muzeul Souleiado",
-            "en": "Souleiado Museum"
+            "en": "Souleiado Museum",
+            "fr": "Musée Souleiado"
           },
           "coords": [
             4.659593,
@@ -793,7 +878,8 @@
             "de": "Entdecken Sie die farbenfrohe Welt der traditionellen provenzalischen Textilien in diesem Museum, aber besuchen Sie unbedingt den Souvenirshop für echte Stoffe.",
             "hu": "Fedezze fel a hagyományos provence-i textilek vibráló világát ebben a színes múzeumban, de mindenképpen nézzen be az ajándékboltba is az eredeti szövetekért.",
             "ro": "Descoperiți lumea vibrantă a textilelor tradiționale provensale în acest muzeu colorat, dar nu uitați să vizitați magazinul de suveniruri pentru țesături autentice.",
-            "en": "Discover the vibrant world of traditional Provençal textiles at this colorful museum, but be sure to check the gift shop for authentic fabric souvenirs."
+            "en": "Discover the vibrant world of traditional Provençal textiles at this colorful museum, but be sure to check the gift shop for authentic fabric souvenirs.",
+            "fr": "Découvrez l'univers coloré des textiles traditionnels provençaux dans ce musée haut en couleur, et n'oubliez pas de visiter la boutique pour des souvenirs en tissu authentiques."
           }
         },
         {
@@ -801,7 +887,8 @@
             "de": "Saint Martha Collegiate Church",
             "hu": "Szent Márta Társaskáptalan",
             "ro": "Biserica Colegiată Sfânta Marta",
-            "en": "Saint Martha Collegiate Church"
+            "en": "Saint Martha Collegiate Church",
+            "fr": "Collégiale Sainte-Marthe"
           },
           "coords": [
             4.655841,
@@ -816,7 +903,8 @@
             "de": "Betreten Sie diese romanisch-gotische Kirche, um die prächtige Krypta der Heiligen Martha zu besichtigen, wobei Sie sich bescheiden kleiden und leise sprechen sollten.",
             "hu": "Lépjen be ebbe a román-gótikus templomba, hogy megtekintse Szent Márta csodálatos kriptáját, emlékezve a szerény öltözködésre és a halk beszédre a látogatás során.",
             "ro": "Pășiți în această biserică romanico-gotică pentru a vedea cripta magnifică a Sfintei Marta, amintindu-vă să vă îmbrăcați modest și să vorbiți încet în timpul vizitei.",
-            "en": "Step inside this Romanesque-Gothic church to view the magnificent crypt of Saint Martha, remembering to dress modestly and speak softly during your visit."
+            "en": "Step inside this Romanesque-Gothic church to view the magnificent crypt of Saint Martha, remembering to dress modestly and speak softly during your visit.",
+            "fr": "Pénétrez dans cette église romane-gothique pour voir la magnifique crypte de Sainte Marthe ; pensez à vous habiller modestement et à parler doucement pendant votre visite."
           }
         },
         {
@@ -824,7 +912,8 @@
             "de": "Château du Roi René",
             "hu": "Château du Roi René",
             "ro": "Château du Roi René",
-            "en": "Château du Roi René"
+            "en": "Château du Roi René",
+            "fr": "Château du Roi René"
           },
           "coords": [
             4.655,
@@ -839,7 +928,8 @@
             "de": "Erkunden Sie diese unglaublich gut erhaltene mittelalterliche Festung mit Blick auf die Rhône und steigen Sie auf die oberste Terrasse für spektakuläre Ausblicke.",
             "hu": "Fedezze fel ezt a hihetetlenül jól megőrzött, Rhône folyóra néző középkori erődöt, és másszon fel a legfelső teraszra a völgyre nyíló látványos panorámáért.",
             "ro": "Explorați această fortăreață medievală incredibil de bine conservată cu vedere la râul Rhône și urcați pe terasa superioară pentru vederi panoramice spectaculoase.",
-            "en": "Explore this incredibly well-preserved medieval fortress overlooking the Rhône river, and climb to the very top terrace for spectacular panoramic views of the valley."
+            "en": "Explore this incredibly well-preserved medieval fortress overlooking the Rhône river, and climb to the very top terrace for spectacular panoramic views of the valley.",
+            "fr": "Explorez cette forteresse médiévale remarquablement bien préservée surplombant le Rhône, et montez jusqu'à la terrasse sommitale pour des vues panoramiques spectaculaires sur la vallée."
           }
         },
         {
@@ -847,7 +937,8 @@
             "de": "Jardin des plantes",
             "hu": "Jardin des plantes",
             "ro": "Jardin des plantes",
-            "en": "Jardin des plantes"
+            "en": "Jardin des plantes",
+            "fr": "Jardin des plantes"
           },
           "coords": [
             4.656809,
@@ -862,7 +953,8 @@
             "de": "Entspannen Sie sich inmitten vielfältiger botanischer Arten in diesem friedlichen, familienfreundlichen Garten und bringen Sie lokale Snacks für die schattigen Bänke mit.",
             "hu": "Pihenjen a változatos botanikai fajok között ebben a békés, családbarát kertben, és hozzon magával néhány friss helyi rágcsálnivalót az árnyékos padokra.",
             "ro": "Relaxați-vă printre diversele specii botanice din această grădină pașnică, prietenoasă cu familiile, aducând gustări locale proaspete pentru băncile umbrite.",
-            "en": "Relax among diverse botanical species in this peaceful family-friendly garden, bringing along some fresh local snacks to enjoy on the shaded wooden benches."
+            "en": "Relax among diverse botanical species in this peaceful family-friendly garden, bringing along some fresh local snacks to enjoy on the shaded wooden benches.",
+            "fr": "Détendez-vous parmi une diversité d'espèces botaniques dans ce jardin paisible et familial, en emportant quelques en-cas locaux frais à déguster sur les bancs en bois ombragés."
           }
         }
       ],
@@ -870,7 +962,8 @@
         "de": "Fahren Sie zuerst zu den südlichen Ruinen der Burg von Tarascon und genießen Sie die morgendliche Ruhe vor dem Château de Goubelet. Kehren Sie mittags ins Zentrum zurück, um den Justizpalast zu fotografieren und das Souleiado-Museum zu erkunden. Entdecken Sie am späten Nachmittag die St. Martha Kirche und das massive Château du Roi René am Flussufer. Beenden Sie Ihre umfassende Tour entspannt im üppigen Grün des Jardin des plantes.",
         "hu": "Először vezessen a tarasconi vár déli romjaihoz, majd élvezze a reggeli nyugalmat a fenséges Château de Goubelet-nél. Délben térjen vissza a városközpontba az Igazságügyi Palotához, és fedezze fel a Souleiado Múzeumot. A késő délutánt a Szent Márta templom és a folyóparton álló hatalmas Château du Roi René felfedezésével töltse. Fejezze be ezt az átfogó túrát a Jardin des plantes buja zöldjében pihenve.",
         "ro": "Conduceți mai întâi spre ruinele sudice ale Castelului Tarascon, bucurându-vă de liniștea dimineții la Château de Goubelet. La prânz, întoarceți-vă în centru pentru a fotografia Palatul de Justiție și a explora Muzeul Souleiado. Petreceți după-amiaza târziu descoperind Biserica Sfânta Marta și masivul Château du Roi René de pe malul râului. Încheiați-vă turul relaxându-vă în verdeața luxuriantă de la Jardin des plantes.",
-        "en": "Drive first to the southern ruins of Tarascon Castle, enjoying the morning quiet before heading to the majestic Château de Goubelet. By midday, return to the town center to photograph the grand Palais de Justice and explore the rich colors at the Souleiado Museum. Spend your late afternoon discovering the solemn Saint Martha Collegiate Church and the iconic, massive Château du Roi René on the riverbank. Wrap up your comprehensive tour relaxing in the lush greenery of the Jardin des plantes."
+        "en": "Drive first to the southern ruins of Tarascon Castle, enjoying the morning quiet before heading to the majestic Château de Goubelet. By midday, return to the town center to photograph the grand Palais de Justice and explore the rich colors at the Souleiado Museum. Spend your late afternoon discovering the solemn Saint Martha Collegiate Church and the iconic, massive Château du Roi René on the riverbank. Wrap up your comprehensive tour relaxing in the lush greenery of the Jardin des plantes.",
+        "fr": "Conduisez d'abord vers les ruines méridionales du château de Tarascon, profitez du calme matinal avant de vous rendre au majestueux Château de Goubelet. À la mi-journée, retournez au centre-ville pour photographier le grand Palais de Justice et explorer les riches couleurs du Musée Souleiado. Passez la fin d'après-midi à découvrir la solennelle Collégiale Sainte-Marthe et l'emblématique et imposant Château du Roi René au bord du fleuve. Terminez votre visite complète en vous relaxant dans la verdure du Jardin des plantes."
       },
       "variants": {
         "rainy": {
@@ -878,7 +971,8 @@
             "de": "Beginnen Sie Ihre regnerische Fahrt an den großen Festungen. Am späten Vormittag bieten Gericht und Museum drinnen Zuflucht. Der Nachmittag bringt Kirche und Schloss. Beenden Sie den nassen Abend mit einem kurzen Schirmspaziergang in den Gärten.",
             "hu": "Kezdje esős autózását a nagy erődöknél. Késő délelőtt a bíróság és a múzeum kínál benti menedéket. A délután a templomé és a királyi kastélyé. Zárja a napot egy gyors esernyős sétával a kertekben, ahogy a nedves este szép lassan közeledik.",
             "ro": "Începeți plimbarea ploioasă cu mașina la marile fortărețe. Spre prânz, tribunalul și muzeul vă oferă un refugiu interior. După-amiaza vizitați biserica și castelul. Încheiați cu o scurtă plimbare sub umbrelă în grădini la lăsarea serii umede.",
-            "en": "Start your rainy drive at the grand fortresses. Late morning brings you to the court and museum for an indoor refuge. Afternoon features the church and royal castle. Finish with a quick umbrella walk in the gardens as the wet evening sets in."
+            "en": "Start your rainy drive at the grand fortresses. Late morning brings you to the court and museum for an indoor refuge. Afternoon features the church and royal castle. Finish with a quick umbrella walk in the gardens as the wet evening sets in.",
+            "fr": "Commencez votre trajet pluvieux par les grandes forteresses. En fin de matinée, rendez-vous au palais de justice et au musée pour un refuge intérieur. L'après-midi est consacré à l'église et au château royal. Finissez par une rapide promenade sous parapluie dans les jardins alors que la soirée humide s'installe."
           },
           "stops": [
             {
@@ -886,13 +980,15 @@
                 "de": "Tarascon Castle",
                 "hu": "Tarasconi vár",
                 "ro": "Castelul Tarascon",
-                "en": "Tarascon Castle"
+                "en": "Tarascon Castle",
+                "fr": "Château de Tarascon"
               },
               "tip_5lang": {
                 "de": "Fahren Sie vorsichtig zum nassen Parkplatz; erkunden Sie die massiven Innenräume, um trocken zu bleiben und die mittelalterliche Geschichte zu lernen.",
                 "hu": "Vezessen óvatosan a nedves parkolóhoz; fedezze fel a hatalmas belső termeket, hogy teljesen száraz maradjon, miközben elmélyül a régió középkori történelmében.",
                 "ro": "Conduceți cu grijă spre parcarea udă; explorați sălile interioare masive pentru a rămâne complet uscat în timp ce aflați istoria medievală a regiunii.",
-                "en": "Drive carefully to the wet parking area; explore the massive indoor halls to stay completely dry while deeply learning about the region's medieval history."
+                "en": "Drive carefully to the wet parking area; explore the massive indoor halls to stay completely dry while deeply learning about the region's medieval history.",
+                "fr": "Conduisez prudemment jusqu'à l'aire de stationnement humide ; explorez les vastes salles intérieures pour rester parfaitement au sec tout en apprenant en profondeur l'histoire médiévale de la région."
               }
             },
             {
@@ -900,13 +996,15 @@
                 "de": "Château de Goubelet",
                 "hu": "Château de Goubelet",
                 "ro": "Château de Goubelet",
-                "en": "Château de Goubelet"
+                "en": "Château de Goubelet",
+                "fr": "Château de Goubelet"
               },
               "tip_5lang": {
                 "de": "Der starke Regen verleiht dem Anwesen eine sehr stimmungsvolle Atmosphäre; genießen Sie die Aussicht warm aus dem Auto vor einem schnellen Foto draußen.",
                 "hu": "A heves esőzés nagyon hangulatos atmoszférát kölcsönöz ennek a birtoknak; élvezze a látványt melegen az autójából, mielőtt egy gyors szabadtéri fotót készít.",
                 "ro": "Ploaia deasă adaugă o atmosferă foarte melancolică acestui domeniu; bucurați-vă de priveliște la căldură din mașină înainte de a face o poză rapidă afară.",
-                "en": "The heavy rain adds a very moody atmosphere to this grand estate; enjoy the spectacular view warmly from your car before taking a quick outdoor photo."
+                "en": "The heavy rain adds a very moody atmosphere to this grand estate; enjoy the spectacular view warmly from your car before taking a quick outdoor photo.",
+                "fr": "La forte pluie ajoute une atmosphère très mélancolique à ce grand domaine ; profitez chaleureusement de la vue spectaculaire depuis votre voiture avant de prendre une rapide photo extérieure."
               }
             },
             {
@@ -914,13 +1012,15 @@
                 "de": "Palais de Justice",
                 "hu": "Palais de Justice",
                 "ro": "Palais de Justice",
-                "en": "Palais de Justice"
+                "en": "Palais de Justice",
+                "fr": "Palais de Justice"
               },
               "tip_5lang": {
                 "de": "Parken Sie sicher in der Nähe und steigen Sie mit einem Regenschirm aus, um die klassische Fassade zu bewundern, bevor es zur nächsten Innenstation geht.",
                 "hu": "Parkoljon le biztonságosan a közelben, és ugorjon ki egy masszív esernyővel a klasszikus homlokzat megcsodálására, mielőtt a következő benti megállóhoz indul.",
                 "ro": "Parcați în siguranță în apropiere și ieșiți cu o umbrelă robustă pentru a admira fațada clasică înainte de a vă îndrepta spre următoarea oprire interioară.",
-                "en": "Park safely nearby and pop out with a sturdy umbrella to admire the classic facade before immediately heading to your next indoor, rain-free stop."
+                "en": "Park safely nearby and pop out with a sturdy umbrella to admire the classic facade before immediately heading to your next indoor, rain-free stop.",
+                "fr": "Garez-vous en toute sécurité à proximité et sortez avec un parapluie solide pour admirer la façade classique avant de vous diriger immédiatement vers votre prochain arrêt intérieur, à l'abri de la pluie."
               }
             },
             {
@@ -928,13 +1028,15 @@
                 "de": "Souleiado Museum",
                 "hu": "Souleiado Múzeum",
                 "ro": "Muzeul Souleiado",
-                "en": "Souleiado Museum"
+                "en": "Souleiado Museum",
+                "fr": "Musée Souleiado"
               },
               "tip_5lang": {
                 "de": "Eine absolut ideale Aktivität an Regentagen! Verbringen Sie ein paar Stunden gemütlich drinnen und entdecken Sie die Geschichte des provenzalischen Textildrucks.",
                 "hu": "Abszolút ideális esős napi program! Töltsön el pár órát kényelmesen a beltérben, felfedezve a helyi provence-i textilnyomtatás vibráló és gazdag történelmét.",
                 "ro": "O activitate absolut ideală pentru o zi ploioasă! Petreceți câteva ore confortabil în interior descoperind istoria vibrantă a imprimării textilelor provensale.",
-                "en": "An absolutely ideal rainy day activity! Spend a couple of hours comfortably indoors discovering the vibrant history of local Provencal textile printing."
+                "en": "An absolutely ideal rainy day activity! Spend a couple of hours comfortably indoors discovering the vibrant history of local Provencal textile printing.",
+                "fr": "Une activité absolument idéale par temps de pluie ! Passez quelques heures confortablement à l'intérieur à découvrir l'histoire vibrante de l'impression textile provençale locale."
               }
             },
             {
@@ -942,13 +1044,15 @@
                 "de": "Saint Martha Collegiate Church",
                 "hu": "Szent Márta Társaskáptalan",
                 "ro": "Biserica Colegiată Sfânta Marta",
-                "en": "Saint Martha Collegiate Church"
+                "en": "Saint Martha Collegiate Church",
+                "fr": "Collégiale Sainte-Marthe"
               },
               "tip_5lang": {
                 "de": "Suchen Sie schnell drinnen Schutz, um die schöne Krypta und das berühmte Grab zu bewundern und den großen Pfützen auf dem Vorplatz bequem auszuweichen.",
                 "hu": "Keressen gyorsan menedéket bent, hogy megcsodálja a gyönyörű kriptát és a híres sírt, könnyedén elkerülve a nyitott elülső téren kialakuló nagy tócsákat.",
                 "ro": "Căutați rapid adăpost înăuntru pentru a admira frumoasa criptă și celebrul mormânt, evitând cu ușurință bălțile mari care se formează în piațeta din față.",
-                "en": "Seek shelter inside quickly to admire the beautiful crypt and the famous tomb, easily avoiding the large puddles forming in the exposed front square."
+                "en": "Seek shelter inside quickly to admire the beautiful crypt and the famous tomb, easily avoiding the large puddles forming in the exposed front square.",
+                "fr": "Cherchez rapidement un abri à l'intérieur pour admirer la belle crypte et le célèbre tombeau, en évitant facilement les grandes flaques qui se forment sur la place avant exposée."
               }
             },
             {
@@ -956,13 +1060,15 @@
                 "de": "Château du Roi René",
                 "hu": "Château du Roi René",
                 "ro": "Château du Roi René",
-                "en": "Château du Roi René"
+                "en": "Château du Roi René",
+                "fr": "Château du Roi René"
               },
               "tip_5lang": {
                 "de": "Besichtigen Sie die majestätischen königlichen Gemächer komplett drinnen, was eine faszinierende, lehrreiche und trockene Flucht vor dem Dauerregen bietet.",
                 "hu": "Járja be a fenséges királyi lakosztályokat teljesen zárt térben, amely lenyűgöző, tanulságos és tökéletesen száraz menedéket nyújt a könyörtelen esőzés elől.",
                 "ro": "Vizitați apartamentele regale maiestuoase complet în interior, oferind o evadare fascinantă, educativă și perfect uscată din calea ploii torențiale.",
-                "en": "Tour the majestic royal apartments completely inside, which offer a fascinating, educational, and perfectly dry escape from the relentless pouring rain."
+                "en": "Tour the majestic royal apartments completely inside, which offer a fascinating, educational, and perfectly dry escape from the relentless pouring rain.",
+                "fr": "Visitez entièrement les appartements royaux intérieurs, qui offrent une escapade fascinante, instructive et parfaitement sèche face à la pluie battante."
               }
             },
             {
@@ -970,13 +1076,15 @@
                 "de": "Jardin des plantes",
                 "hu": "Jardin des plantes",
                 "ro": "Jardin des plantes",
-                "en": "Jardin des plantes"
+                "en": "Jardin des plantes",
+                "fr": "Jardin des plantes"
               },
               "tip_5lang": {
                 "de": "Die Feldwege können ziemlich matschig und überflutet sein; bringen Sie wasserdichte Stiefel mit, wenn Sie dem Regen für einen schnellen Spaziergang trotzen.",
                 "hu": "A földutak meglehetősen sarasak és vizesek lehetnek; hozzon masszív vízálló csizmát, ha ma mindenképpen dacolni akar az esővel egy gyors botanikai sétáért.",
                 "ro": "Aleile de pământ pot fi destul de noroioase și inundate; aduceți cizme impermeabile rezistente dacă vreți cu siguranță să înfruntați ploaia pentru o plimbare.",
-                "en": "The dirt paths may be quite muddy and flooded; bring sturdy waterproof boots if you definitely want to brave the rain for a quick botanical stroll today."
+                "en": "The dirt paths may be quite muddy and flooded; bring sturdy waterproof boots if you definitely want to brave the rain for a quick botanical stroll today.",
+                "fr": "Les allées en terre peuvent être très boueuses et inondées ; apportez des bottes imperméables solides si vous souhaitez braver la pluie pour une courte promenade botanique aujourd'hui."
               }
             }
           ]
@@ -986,7 +1094,8 @@
             "de": "Morgenfahrt zu den äußeren Burgen in frischer Luft. Wärmen Sie sich mittags bei Gericht und Museum auf. Der Nachmittag führt zur Kirche und zum königlichen Schloss. Beenden Sie Ihren Tag in den Wintergärten weit vor dem Sonnenuntergang.",
             "hu": "Reggeli autózás a külső kastélyokhoz a csípős levegőn. Délben melegedjen fel a bíróságon és a múzeumban. A délután biztonságosan elviszi a templomhoz és a kastélyhoz. Zárja napját a téli kertekben, jóval azelőtt, hogy a nap teljesen lenyugodna.",
             "ro": "Plimbare matinală cu mașina la castelele exterioare în aerul rece. Încălziți-vă la tribunal și muzeu la prânz. După-amiaza vizitați biserica și castelul regal. Încheiați ziua în grădinile de iarnă cu mult înainte ca soarele să apună complet.",
-            "en": "Morning drive to the outer castles in the crisp air. Warm up at the court and museum around noon. The afternoon safely takes you to the church and royal castle. End your day at the winter gardens well before the sun sets completely by late afternoon."
+            "en": "Morning drive to the outer castles in the crisp air. Warm up at the court and museum around noon. The afternoon safely takes you to the church and royal castle. End your day at the winter gardens well before the sun sets completely by late afternoon.",
+            "fr": "Conduite matinale vers les châteaux extérieurs dans l'air vif. Réchauffez-vous au palais de justice et au musée vers midi. L'après-midi vous conduit en toute sécurité à l'église et au château royal. Terminez votre journée aux serres d'hiver bien avant que le soleil ne se couche totalement en fin d'après-midi."
           },
           "stops": [
             {
@@ -994,13 +1103,15 @@
                 "de": "Tarascon Castle",
                 "hu": "Tarasconi vár",
                 "ro": "Castelul Tarascon",
-                "en": "Tarascon Castle"
+                "en": "Tarascon Castle",
+                "fr": "Château de Tarascon"
               },
               "tip_5lang": {
                 "de": "Die Autoheizung ist heute Ihr bester Freund! Steigen Sie kurz in die frische Luft aus, um die imposante Wintersilhouette der Festung zu bestaunen.",
                 "hu": "Az autófűtés ma a legjobb barátja! Lépjen ki gyorsan a csípős levegőre csak annyi időre, hogy megcsodálja az erődítmény lenyűgöző és masszív téli sziluettjét.",
                 "ro": "Căldura din mașină este cel mai bun prieten astăzi! Ieșiți scurt în aerul rece doar cât să admirați silueta impunătoare de iarnă a fortăreței masive.",
-                "en": "The car heater is your best friend today! Step out quickly into the crisp air just long enough to marvel at the fortress's imposing winter silhouette."
+                "en": "The car heater is your best friend today! Step out quickly into the crisp air just long enough to marvel at the fortress's imposing winter silhouette.",
+                "fr": "Le chauffage de la voiture est votre meilleur allié aujourd'hui ! Sortez rapidement dans l'air vif juste le temps d'admirer la silhouette hivernale imposante de la forteresse."
               }
             },
             {
@@ -1008,13 +1119,15 @@
                 "de": "Château de Goubelet",
                 "hu": "Château de Goubelet",
                 "ro": "Château de Goubelet",
-                "en": "Château de Goubelet"
+                "en": "Château de Goubelet",
+                "fr": "Château de Goubelet"
               },
               "tip_5lang": {
                 "de": "Genießen Sie auf der kurzen Fahrt die karge, außergewöhnlich schöne Winterlandschaft; das fehlende Laub gibt den Blick auf viel mehr klassische Architektur frei.",
                 "hu": "Élvezze a zord, kivételesen gyönyörű téli tájat a rövid idevezető úton; a lombozat teljes hiánya sokkal többet tár fel a klasszikus, elegáns építészetből.",
                 "ro": "Bucurați-vă de peisajul de iarnă auster și excepțional de frumos pe drumul scurt; lipsa totală a frunzișului dezvăluie mult mai mult din arhitectura clasică.",
-                "en": "Enjoy the stark, exceptionally beautiful winter landscape on the short drive here; the total lack of foliage reveals much more of the classic architecture."
+                "en": "Enjoy the stark, exceptionally beautiful winter landscape on the short drive here; the total lack of foliage reveals much more of the classic architecture.",
+                "fr": "Profitez du paysage hivernal sobre et particulièrement beau pendant le court trajet ; l'absence quasi totale de feuillage révèle davantage l'architecture classique."
               }
             },
             {
@@ -1022,13 +1135,15 @@
                 "de": "Palais de Justice",
                 "hu": "Palais de Justice",
                 "ro": "Palais de Justice",
-                "en": "Palais de Justice"
+                "en": "Palais de Justice",
+                "fr": "Palais de Justice"
               },
               "tip_5lang": {
                 "de": "Machen Sie einen sehr schnellen Fotostopp im scharfen Wintersonnenlicht; die kahlen Bäume bieten nun einen perfekten, freien Blick auf die große Fassade.",
                 "hu": "Tartson egy nagyon gyors fotószünetet az éles téli napfényben; a teljesen csupasz fák most tökéletes, akadálytalan kilátást nyújtanak a nagy kőhomlokzatra.",
                 "ro": "Faceți o scurtă oprire foto în lumina puternică de iarnă; copacii complet goi oferă acum o vedere perfectă și neobstrucționată a fațadei mari de piatră.",
-                "en": "Make a very quick photo stop in the sharp winter sunlight; the completely bare trees now provide a perfect, unobstructed view of the grand stone facade."
+                "en": "Make a very quick photo stop in the sharp winter sunlight; the completely bare trees now provide a perfect, unobstructed view of the grand stone facade.",
+                "fr": "Faites un arrêt photo très rapide sous le soleil hivernal éclatant ; les arbres complètement dénudés offrent désormais une vue parfaite et dégagée sur la grande façade de pierre."
               }
             },
             {
@@ -1036,13 +1151,15 @@
                 "de": "Souleiado Museum",
                 "hu": "Souleiado Múzeum",
                 "ro": "Muzeul Souleiado",
-                "en": "Souleiado Museum"
+                "en": "Souleiado Museum",
+                "fr": "Musée Souleiado"
               },
               "tip_5lang": {
                 "de": "Entfliehen Sie der beißenden Winterkälte in diesem gemütlichen Museum, wo die hellen provenzalischen Farben und historischen Stoffe Ihr Herz erwärmen werden.",
                 "hu": "Meneküljön a csípős téli hideg elől ebbe a hangulatos múzeumba, ahol a rendkívül élénk provence-i színek és történelmi szövetek gyorsan felmelegítik a lelkét.",
                 "ro": "Evadați de frigul tăios de iarnă în interiorul acestui muzeu confortabil, unde culorile provensale extrem de luminoase și țesăturile istorice vă vor încălzi.",
-                "en": "Escape the biting winter chill inside this cozy museum, where the exceedingly bright Provencal colors and historic fabrics will quickly warm your spirits."
+                "en": "Escape the biting winter chill inside this cozy museum, where the exceedingly bright Provencal colors and historic fabrics will quickly warm your spirits.",
+                "fr": "Échappez à la morsure du froid hivernal à l'intérieur de ce musée chaleureux, où les couleurs provençales très vives et les tissus historiques réchaufferont rapidement votre esprit."
               }
             },
             {
@@ -1050,13 +1167,15 @@
                 "de": "Saint Martha Collegiate Church",
                 "hu": "Szent Márta Társaskáptalan",
                 "ro": "Biserica Colegiată Sfânta Marta",
-                "en": "Saint Martha Collegiate Church"
+                "en": "Saint Martha Collegiate Church",
+                "fr": "Collégiale Sainte-Marthe"
               },
               "tip_5lang": {
                 "de": "Das alte Steininnere ist im Winter wirklich eiskalt, also lassen Sie Ihren Mantel sicher geschlossen, während Sie die historische romanische Krypta erkunden.",
                 "hu": "Az ősi kőbelső télen őszintén szólva fagyos, ezért tartsa biztonságosan begombolva a kabátját, miközben felfedezi a figyelemre méltóan történelmi román kriptát.",
                 "ro": "Interiorul antic din piatră este cu adevărat înghețat iarna, deci țineți haina bine închisă în timp ce explorați cripta romanică remarcabil de istorică.",
-                "en": "The ancient stone interior is genuinely freezing in winter, so securely keep your coat zipped up while exploring the remarkably historic Romanesque crypt."
+                "en": "The ancient stone interior is genuinely freezing in winter, so securely keep your coat zipped up while exploring the remarkably historic Romanesque crypt.",
+                "fr": "L'intérieur en pierre ancienne est véritablement glacial en hiver, gardez donc bien votre manteau fermé tout en explorant la crypte romane remarquablement historique."
               }
             },
             {
@@ -1064,13 +1183,15 @@
                 "de": "Château du Roi René",
                 "hu": "Château du Roi René",
                 "ro": "Château du Roi René",
-                "en": "Château du Roi René"
+                "en": "Château du Roi René",
+                "fr": "Château du Roi René"
               },
               "tip_5lang": {
                 "de": "Die hohe Dachterrasse bietet einen unglaublichen Winterblick auf die Rhône, aber machen Sie sich auf den eisigen Mistralwind gefasst, bevor Sie hinaustreten.",
                 "hu": "A magas tetőterasz egészen elképesztő téli kilátást nyújt a Rhône folyóra, de mielőtt kilépne, készüljön fel erősen a jéghideg és szeles Mistral viharokra.",
                 "ro": "Terasa înaltă de pe acoperiș oferă vederi de iarnă absolut incredibile asupra Ronului, dar pregătiți-vă ferm pentru vântul înghețat Mistral înainte de a ieși.",
-                "en": "The high rooftop terrace offers absolutely incredible winter views of the Rhône, but firmly brace yourself for the freezing Mistral wind before stepping out."
+                "en": "The high rooftop terrace offers absolutely incredible winter views of the Rhône, but firmly brace yourself for the freezing Mistral wind before stepping out.",
+                "fr": "La haute terrasse du toit offre des vues hivernales absolument incroyables sur le Rhône, mais préparez-vous fermement au vent glacial du Mistral avant d'y aller."
               }
             },
             {
@@ -1078,13 +1199,15 @@
                 "de": "Jardin des plantes",
                 "hu": "Jardin des plantes",
                 "ro": "Jardin des plantes",
-                "en": "Jardin des plantes"
+                "en": "Jardin des plantes",
+                "fr": "Jardin des plantes"
               },
               "tip_5lang": {
                 "de": "Machen Sie vor 17 Uhr einen erfrischenden Spaziergang; die Wintersonne geht früh unter und taucht die ruhigen Gartenwege schnell in tiefe, kalte Schatten.",
                 "hu": "Tegyen egy frissítő sétát még délután 5 óra előtt; a téli nap észrevehetően korán nyugszik, és gyorsan mély, hideg árnyékba borítja a nagyon csendes kerti utakat.",
                 "ro": "Faceți o plimbare revigorantă înainte de ora 17:00; soarele de iarnă apune devreme, cufundând rapid aleile foarte liniștite ale grădinii în umbre adânci.",
-                "en": "Take a brisk, refreshing stroll before 5:00 PM; the winter sun notably sets early, rapidly plunging the very quiet garden paths into deep, cold shadows."
+                "en": "Take a brisk, refreshing stroll before 5:00 PM; the winter sun notably sets early, rapidly plunging the very quiet garden paths into deep, cold shadows.",
+                "fr": "Faites une promenade vive et revigorante avant 17:00 ; le soleil d'hiver se couche notablement tôt, plongeant rapidement les chemins très calmes du jardin dans des ombres froides et profondes."
               }
             }
           ]

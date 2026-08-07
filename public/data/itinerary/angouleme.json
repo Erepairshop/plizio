@@ -21,7 +21,8 @@
             "de": "Rathaus von Angoulême",
             "hu": "Városháza (Angoulême)",
             "ro": "Primăria din Angoulême",
-            "en": "Angoulême Town Hall"
+            "en": "Angoulême Town Hall",
+            "fr": "Hôtel de ville d'Angoulême"
           },
           "coords": [
             0.1614,
@@ -36,7 +37,8 @@
             "de": "Besichtigen Sie den Garten im Innenhof des ehemaligen Schlosses.",
             "hu": "Nézze meg az egykori várudvar belső kertjét.",
             "ro": "Vizitați grădina interioară a fostului castel.",
-            "en": "Visit the interior garden of the former castle."
+            "en": "Visit the interior garden of the former castle.",
+            "fr": "Visitez le jardin intérieur de l'ancien château."
           }
         },
         {
@@ -44,7 +46,8 @@
             "de": "Kirche Saint-André",
             "hu": "Szent András-templom",
             "ro": "Biserica Saint-André",
-            "en": "Saint-André Church"
+            "en": "Saint-André Church",
+            "fr": "Église Saint-André"
           },
           "coords": [
             0.1625,
@@ -59,7 +62,8 @@
             "de": "Bewundern Sie die Ruhe in den Gassen rund um die Kirche.",
             "hu": "Csodálja meg a templom körüli utcák nyugalmát.",
             "ro": "Admirați liniștea de pe străduțele din jurul bisericii.",
-            "en": "Admire the quiet in the alleys around the church."
+            "en": "Admire the quiet in the alleys around the church.",
+            "fr": "Admirez le calme dans les ruelles autour de l'église."
           }
         },
         {
@@ -67,7 +71,8 @@
             "de": "Bemalte Wände (Rundgang)",
             "hu": "Festett falak (Képregény-útvonal)",
             "ro": "Zidurile pictate (Circuitul BD)",
-            "en": "Painted Walls (Comic Circuit)"
+            "en": "Painted Walls (Comic Circuit)",
+            "fr": "Murs Peints (Circuit BD)"
           },
           "coords": [
             0.1605,
@@ -82,7 +87,8 @@
             "de": "Halten Sie Ausschau nach der Lucky-Luke-Wand in der Nähe.",
             "hu": "Keresse a Lucky Luke-falfestményt a közelben.",
             "ro": "Căutați pictura murală Lucky Luke din apropiere.",
-            "en": "Look for the Lucky Luke mural nearby."
+            "en": "Look for the Lucky Luke mural nearby.",
+            "fr": "Cherchez la fresque Lucky Luke à proximité."
           }
         },
         {
@@ -90,7 +96,8 @@
             "de": "Museum von Angoulême",
             "hu": "Angoulême-i Múzeum",
             "ro": "Muzeul din Angoulême",
-            "en": "Angoulême Museum"
+            "en": "Angoulême Museum",
+            "fr": "Musée d'Angoulême"
           },
           "coords": [
             0.1585,
@@ -105,7 +112,8 @@
             "de": "Der Helm von Agris ist das absolute Highlight der Sammlung.",
             "hu": "Az agrisi sisak a gyűjtemény legfontosabb darabja.",
             "ro": "Casca de la Agris este piesa centrală a colecției.",
-            "en": "The helmet of Agris is the absolute highlight of the collection."
+            "en": "The helmet of Agris is the absolute highlight of the collection.",
+            "fr": "Le casque d'Agris est le point fort absolu de la collection."
           }
         },
         {
@@ -113,7 +121,8 @@
             "de": "Mittagessen in der Altstadt",
             "hu": "Ebéd az óvárosban",
             "ro": "Prânz în orașul vechi",
-            "en": "Lunch in the Old Town"
+            "en": "Lunch in the Old Town",
+            "fr": "Déjeuner dans la vieille ville"
           },
           "coords": [
             0.1595,
@@ -128,7 +137,8 @@
             "de": "Probieren Sie lokale Spezialitäten aus dem Charente-Tal.",
             "hu": "Kóstolja meg a Charente-völgy helyi specialitásait.",
             "ro": "Gustați specialitățile locale din valea Charente.",
-            "en": "Try local specialties from the Charente valley."
+            "en": "Try local specialties from the Charente valley.",
+            "fr": "Goûtez les spécialités locales de la vallée de la Charente."
           }
         },
         {
@@ -136,7 +146,8 @@
             "de": "Kathedrale Saint-Pierre",
             "hu": "Szent Péter-székesegyház",
             "ro": "Catedrala Saint-Pierre",
-            "en": "Saint-Pierre Cathedral"
+            "en": "Saint-Pierre Cathedral",
+            "fr": "Cathédrale Saint-Pierre"
           },
           "coords": [
             0.1578,
@@ -151,7 +162,8 @@
             "de": "Die romanische Fassade zeigt über 70 detaillierte Skulpturen.",
             "hu": "A román stílusú homlokzaton több mint 70 szobor látható.",
             "ro": "Fațada romanică prezintă peste 70 de sculpturi detaliate.",
-            "en": "The Romanesque facade features over 70 detailed sculptures."
+            "en": "The Romanesque facade features over 70 detailed sculptures.",
+            "fr": "La façade romane présente plus de 70 sculptures détaillées."
           }
         },
         {
@@ -159,7 +171,8 @@
             "de": "Die Stadtmauern (Ramparts)",
             "hu": "Városfalak (Ramparts)",
             "ro": "Zidurile cetății",
-            "en": "The City Walls (Ramparts)"
+            "en": "The City Walls (Ramparts)",
+            "fr": "Les Remparts (Murailles)"
           },
           "coords": [
             0.1565,
@@ -174,7 +187,8 @@
             "de": "Genießen Sie den weiten Blick über das Tal der Charente.",
             "hu": "Élvezze a kilátást a Charente folyó völgyére.",
             "ro": "Bucurați-vă de panorama asupra văii râului Charente.",
-            "en": "Enjoy the panoramic view over the Charente river valley."
+            "en": "Enjoy the panoramic view over the Charente river valley.",
+            "fr": "Profitez de la vue panoramique sur la vallée de la Charente."
           }
         }
       ],
@@ -182,7 +196,8 @@
         "de": "Morgens erkunden Sie das historische Plateau von Angoulême. Sie beginnen beim prachtvollen Rathaus, das in den Türmen des alten Schlosses untergebracht ist. Danach folgen Sie dem 'Circuit des Murs Peints', um die berühmten Comic-Wände zu entdecken. Der Nachmittag gehört der beeindruckenden romanischen Kathedrale und dem Museum, bevor Sie den Tag mit einem Spaziergang auf den historischen Stadtmauern bei Sonnenuntergang ausklingen lassen.",
         "hu": "Reggel Angoulême történelmi fennsíkját fedezheti fel. A régi vár tornyaiban berendezett városházától indulva a 'Festett falak' útvonalát követve ismerheti meg a képregények világát. Délután a lenyűgöző román stílusú székesegyház és a múzeum kincsei várják, majd a napot a városfalakon tett sétával zárhatja, ahonnan csodás kilátás nyílik a folyó völgyére.",
         "ro": "Dimineața este dedicată explorării platoului istoric din Angoulême. Începeți de la primăria spectaculoasă, situată în turnurile vechiului castel, apoi urmați circuitul zidurilor pictate pentru a descoperi legătura orașului cu benzile desenate. După-amiaza vizitați catedrala romanică și muzeul local, încheind ziua cu o plimbare pe fortificațiile orașului pentru o panoramă superbă asupra văii.",
-        "en": "In the morning, explore Angoulême's historic plateau. Start at the town hall, housed in the towers of the former castle, and follow the 'Circuit des Murs Peints' to discover the city's famous comic book murals. The afternoon is dedicated to the impressive Romanesque cathedral and the local museum, before ending your day with a walk along the historic ramparts as the sun sets over the valley."
+        "en": "In the morning, explore Angoulême's historic plateau. Start at the town hall, housed in the towers of the former castle, and follow the 'Circuit des Murs Peints' to discover the city's famous comic book murals. The afternoon is dedicated to the impressive Romanesque cathedral and the local museum, before ending your day with a walk along the historic ramparts as the sun sets over the valley.",
+        "fr": "Le matin, explorez le plateau historique d'Angoulême. Commencez à l'hôtel de ville, installé dans les tours de l'ancien château, et suivez le « Circuit des Murs Peints » pour découvrir les célèbres fresques de bande dessinée de la ville. L'après-midi est consacrée à l'impressionnante cathédrale romane et au musée local, avant de terminer la journée par une promenade le long des remparts historiques au coucher du soleil sur la vallée."
       },
       "gastro_picks": {
         "de": [
@@ -342,6 +357,12 @@
           "The tourist office offers maps for the comic book circuit.",
           "Look for lunch spots in the alleys around the town hall.",
           "Note the street signs, which are often shaped like speech bubbles."
+        ],
+        "fr": [
+          "Le plateau est escarpé ; portez des chaussures confortables pour les rues étroites.",
+          "L'office de tourisme propose des cartes pour le circuit BD.",
+          "Cherchez des endroits pour déjeuner dans les ruelles autour de l'hôtel de ville.",
+          "Notez les panneaux de rue, souvent en forme de bulles de bande dessinée."
         ]
       }
     },
@@ -358,7 +379,8 @@
             "de": "Stadtmauern-Rundfahrt",
             "hu": "Városfal-körút",
             "ro": "Circuitul zidurilor",
-            "en": "Ramparts Loop"
+            "en": "Ramparts Loop",
+            "fr": "Boucle des Remparts"
           },
           "coords": [
             0.156,
@@ -373,7 +395,8 @@
             "de": "Fahren Sie die gesamte Runde für Panoramablicke in alle Richtungen.",
             "hu": "Tekerjen végig a teljes körön a panorámás kilátásért.",
             "ro": "Parcurgeți întregul circuit pentru panorame în toate direcțiile.",
-            "en": "Ride the full loop for panoramic views in all directions."
+            "en": "Ride the full loop for panoramic views in all directions.",
+            "fr": "Parcourez la boucle complète pour des vues panoramiques dans toutes les directions."
           }
         },
         {
@@ -381,7 +404,8 @@
             "de": "Comic-Museum (Cité de la BD)",
             "hu": "Képregény-múzeum",
             "ro": "Muzeul Benzilor Desenate",
-            "en": "Comic Museum (Cité de la BD)"
+            "en": "Comic Museum (Cité de la BD)",
+            "fr": "Musée de la BD (Cité de la BD)"
           },
           "coords": [
             0.1532,
@@ -396,7 +420,8 @@
             "de": "Überqueren Sie die Fußgängerbrücke zum Museumskomplex.",
             "hu": "Menjen át a gyalogoshídon a múzeumkomplexumhoz.",
             "ro": "Traversați podul pietonal către complexul muzeal.",
-            "en": "Cross the pedestrian bridge to the museum complex."
+            "en": "Cross the pedestrian bridge to the museum complex.",
+            "fr": "Traversez la passerelle piétonne jusqu'au complexe muséal."
           }
         },
         {
@@ -404,7 +429,8 @@
             "de": "Le Nil (Papiermuseum)",
             "hu": "Le Nil (Papírmúzeum)",
             "ro": "Le Nil (Muzeul Hârtiei)",
-            "en": "Le Nil (Paper Museum)"
+            "en": "Le Nil (Paper Museum)",
+            "fr": "Le Nil (Musée du Papier)"
           },
           "coords": [
             0.1528,
@@ -419,7 +445,8 @@
             "de": "Erfahren Sie mehr über die Papierindustrie an der Charente.",
             "hu": "Ismerje meg a Charente-parti papírgyártás történetét.",
             "ro": "Aflați mai multe despre industria hârtiei de pe râul Charente.",
-            "en": "Learn about the history of the paper industry on the Charente."
+            "en": "Learn about the history of the paper industry on the Charente.",
+            "fr": "Apprenez l'histoire de l'industrie papetière sur la Charente."
           }
         },
         {
@@ -427,7 +454,8 @@
             "de": "Picknick am Flussufer",
             "hu": "Piknik a folyóparton",
             "ro": "Picnic pe malul râului",
-            "en": "Riverside Picnic"
+            "en": "Riverside Picnic",
+            "fr": "Pique-nique au bord de l'eau"
           },
           "coords": [
             0.1515,
@@ -442,7 +470,8 @@
             "de": "Genießen Sie die kühle Brise direkt am Wasser.",
             "hu": "Élvezze a hűvös szellőt közvetlenül a vízparton.",
             "ro": "Bucurați-vă de briza răcoroasă chiar lângă apă.",
-            "en": "Enjoy the cool breeze right by the water."
+            "en": "Enjoy the cool breeze right by the water.",
+            "fr": "Profitez de la brise fraîche au bord de l'eau."
           }
         },
         {
@@ -450,7 +479,8 @@
             "de": "Aufstieg zum Plateau",
             "hu": "Felkapaszkodás a fennsíkra",
             "ro": "Urcarea pe platou",
-            "en": "Climb to the Plateau"
+            "en": "Climb to the Plateau",
+            "fr": "Montez au Plateau"
           },
           "coords": [
             0.16,
@@ -465,7 +495,8 @@
             "de": "Nutzen Sie die Serpentinen für einen moderaten Aufstieg.",
             "hu": "Használja a szerpentineket a mérsékeltebb emelkedéshez.",
             "ro": "Folosiți serpentinele pentru o urcare mai moderată.",
-            "en": "Use the serpentines for a more moderate climb."
+            "en": "Use the serpentines for a more moderate climb.",
+            "fr": "Utilisez les serpentines pour une montée plus douce."
           }
         },
         {
@@ -473,7 +504,8 @@
             "de": "Kathedrale Saint-Pierre",
             "hu": "Szent Péter-székesegyház",
             "ro": "Catedrala Saint-Pierre",
-            "en": "Saint-Pierre Cathedral"
+            "en": "Saint-Pierre Cathedral",
+            "fr": "Cathédrale Saint-Pierre"
           },
           "coords": [
             0.1578,
@@ -488,7 +520,8 @@
             "de": "Stellen Sie Ihr Fahrrad vor dem Hauptportal sicher ab.",
             "hu": "Zárja le biztonságosan a biciklit a főbejárat előtt.",
             "ro": "Parcați bicicleta în siguranță în fața portalului principal.",
-            "en": "Park your bike securely in front of the main portal."
+            "en": "Park your bike securely in front of the main portal.",
+            "fr": "Garez votre vélo en sécurité devant le portail principal."
           }
         }
       ],
@@ -496,7 +529,8 @@
         "de": "Diese Radtour verbindet die Oberstadt mit dem charmanten Flussufer. Nach einer Panorama-Runde auf den Mauern fahren Sie hinunter zur Charente. Dort besuchen Sie das weltberühmte Comic-Museum und das Papiermuseum in einer alten Fabrik. Nach einem entspannten Picknick am Fluss bewältigen Sie den Aufstieg zurück zum Plateau, um die Architektur der Kathedrale zu bewundern.",
         "hu": "Ez a kerékpáros túra összeköti a felsővárost a hangulatos folyóparttal. A várfalakon tett panorámakör után legurulhat a Charente partjára. Itt meglátogathatja a világhírű képregény-múzeumot és a régi papírgyárban berendezett múzeumot. Egy folyóparti pihenő után következik a visszatérés a fennsíkra, ahol a székesegyház látványa várja.",
         "ro": "Acest tur cu bicicleta face legătura între orașul de sus și malul fermecător al râului. După un circuit panoramic pe ziduri, coborâți spre râul Charente. Aici veți vizita celebrul Muzeu al Benzilor Desenate și Muzeul Hârtiei, situat într-o veche fabrică. După un picnic relaxant pe mal, veți urca înapoi pe platou pentru a admira arhitectura catedralei.",
-        "en": "This bike tour connects the upper town with the charming riverbank. After a panoramic loop along the ramparts, ride down to the Charente river. There, visit the world-famous Comic Museum and the Paper Museum in an old factory. After a relaxed riverside picnic, tackle the climb back to the plateau to admire the cathedral's architecture."
+        "en": "This bike tour connects the upper town with the charming riverbank. After a panoramic loop along the ramparts, ride down to the Charente river. There, visit the world-famous Comic Museum and the Paper Museum in an old factory. After a relaxed riverside picnic, tackle the climb back to the plateau to admire the cathedral's architecture.",
+        "fr": "Cette boucle à vélo relie la ville haute à la charmante rive. Après une boucle panoramique le long des remparts, descendez jusqu'à la Charente. Là, visitez la célèbre Cité de la BD et Le Nil, musée du papier installé dans une ancienne usine. Après un pique-nique détendu au bord de l'eau, relevez la montée de retour au plateau pour admirer l'architecture de la cathédrale."
       },
       "gastro_picks": {
         "de": [
@@ -604,6 +638,12 @@
           "Use the 'Passerelle Magelis' bridge as a shortcut.",
           "The terrain along the Charente is flat and very pleasant.",
           "The city offers rental bikes at the station and in the center."
+        ],
+        "fr": [
+          "La descente vers la rivière est rapide, mais le retour demande un peu d'effort.",
+          "Utilisez la passerelle 'Passerelle Magelis' comme raccourci.",
+          "Le terrain le long de la Charente est plat et très agréable.",
+          "La ville propose des vélos en location à la gare et au centre."
         ]
       }
     },
@@ -620,7 +660,8 @@
             "de": "Plateau Cluster: Rathaus",
             "hu": "Fennsík negyed: Városháza",
             "ro": "Cluster Platou: Primăria",
-            "en": "Plateau Cluster: Town Hall"
+            "en": "Plateau Cluster: Town Hall",
+            "fr": "Pôle Plateau : Hôtel de Ville"
           },
           "coords": [
             0.1614,
@@ -635,7 +676,8 @@
             "de": "Parken Sie im Parkhaus 'Halles' für den Plateau-Besuch.",
             "hu": "Parkoljon a 'Halles' parkolóházban a fennsík meglátogatásához.",
             "ro": "Parcați în parcarea 'Halles' pentru a vizita platoul.",
-            "en": "Park in the 'Halles' parking garage for the plateau visit."
+            "en": "Park in the 'Halles' parking garage for the plateau visit.",
+            "fr": "Garez-vous au parking 'Halles' pour la visite du plateau."
           }
         },
         {
@@ -643,7 +685,8 @@
             "de": "Plateau Cluster: Kathedrale",
             "hu": "Fennsík negyed: Székesegyház",
             "ro": "Cluster Platou: Catedrala",
-            "en": "Plateau Cluster: Cathedral"
+            "en": "Plateau Cluster: Cathedral",
+            "fr": "Pôle Plateau : Cathédrale"
           },
           "coords": [
             0.1578,
@@ -658,7 +701,8 @@
             "de": "Zu Fuß vom Rathaus erreichbar (Walk-Hop).",
             "hu": "Gyalogosan elérhető a városházától.",
             "ro": "Accesibil pe jos de la primărie.",
-            "en": "Accessible on foot from the Town Hall."
+            "en": "Accessible on foot from the Town Hall.",
+            "fr": "Accessible à pied depuis l'Hôtel de Ville."
           }
         },
         {
@@ -666,7 +710,8 @@
             "de": "Mittagessen auf dem Plateau",
             "hu": "Ebéd a fennsíkon",
             "ro": "Prânz pe platou",
-            "en": "Lunch on the Plateau"
+            "en": "Lunch on the Plateau",
+            "fr": "Déjeuner sur le Plateau"
           },
           "coords": [
             0.1595,
@@ -681,7 +726,8 @@
             "de": "Wählen Sie ein Restaurant mit Aussichtsterrasse.",
             "hu": "Válasszon éttermet kilátással rendelkező terasszal.",
             "ro": "Alegeți un restaurant cu terasă panoramică.",
-            "en": "Choose a restaurant with a panoramic terrace."
+            "en": "Choose a restaurant with a panoramic terrace.",
+            "fr": "Choisissez un restaurant avec terrasse panoramique."
           }
         },
         {
@@ -689,7 +735,8 @@
             "de": "St. Cybard Cluster: Comic-Museum",
             "hu": "St. Cybard negyed: Képregény-múzeum",
             "ro": "Cluster St. Cybard: Muzeul BD",
-            "en": "St. Cybard Cluster: Comic Museum"
+            "en": "St. Cybard Cluster: Comic Museum",
+            "fr": "Pôle St. Cybard : Musée de la BD"
           },
           "coords": [
             0.1532,
@@ -704,7 +751,8 @@
             "de": "Fahrt zum Flussufer (Car-Hop). Parkplatz direkt vor Ort.",
             "hu": "Autózás a folyópartra. Parkoló közvetlenül a helyszínen.",
             "ro": "Drum spre malul râului. Parcare disponibilă la fața locului.",
-            "en": "Drive to the riverbank. Parking available on site."
+            "en": "Drive to the riverbank. Parking available on site.",
+            "fr": "Conduisez jusqu'à la rive. Parking disponible sur place."
           }
         },
         {
@@ -712,7 +760,8 @@
             "de": "St. Cybard Cluster: Le Nil",
             "hu": "St. Cybard negyed: Le Nil",
             "ro": "Cluster St. Cybard: Le Nil",
-            "en": "St. Cybard Cluster: Le Nil"
+            "en": "St. Cybard Cluster: Le Nil",
+            "fr": "Pôle St. Cybard : Le Nil"
           },
           "coords": [
             0.1528,
@@ -727,7 +776,8 @@
             "de": "Kurzer Spaziergang vom Comic-Museum aus.",
             "hu": "Rövid séta a képregény-múzeumtól.",
             "ro": "Scurtă plimbare de la Muzeul Benzilor Desenate.",
-            "en": "Short walk from the Comic Museum."
+            "en": "Short walk from the Comic Museum.",
+            "fr": "Courte promenade depuis la Cité de la BD."
           }
         },
         {
@@ -735,7 +785,8 @@
             "de": "Aussichtspunkt Saint-Michel",
             "hu": "Saint-Michel kilátópont",
             "ro": "Punctul de belvedere Saint-Michel",
-            "en": "Saint-Michel Viewpoint"
+            "en": "Saint-Michel Viewpoint",
+            "fr": "Point de vue Saint-Michel"
           },
           "coords": [
             0.115,
@@ -750,7 +801,8 @@
             "de": "Blick auf die Silhouette von Angoulême aus der Ferne.",
             "hu": "Kilátás Angoulême sziluettjére a távolból.",
             "ro": "Vedere asupra siluetei orașului Angoulême de la distanță.",
-            "en": "View of the Angoulême skyline from a distance."
+            "en": "View of the Angoulême skyline from a distance.",
+            "fr": "Vue du skyline d'Angoulême depuis la distance."
           }
         }
       ],
@@ -758,7 +810,8 @@
         "de": "Mit dem Auto kombinieren Sie das historische Zentrum auf dem Plateau mit dem modernen Museumsviertel am Fluss. Vormittags parken Sie in der Oberstadt, um Rathaus und Kathedrale zu Fuß zu erkunden. Nach dem Mittagessen fahren Sie hinunter zum Flussufer für die Cité de la BD. Zum Abschluss führt Sie eine kurze Fahrt zu einem Aussichtspunkt außerhalb, um die Stadt in ihrer ganzen Pracht von weitem zu sehen.",
         "hu": "Autóval kényelmesen összekötheti a fennsíkon található történelmi központot a folyóparti múzeumi negyeddel. Délelőtt a felsővárosban parkolva gyalog fedezheti fel a városházát és a székesegyházat. Ebéd után a folyópartra autózva látogathatja meg a képregények városát, végül egy rövid autózással egy külső kilátópontról csodálhatja meg a város sziluettjét.",
         "ro": "Cu mașina, puteți combina centrul istoric de pe platou cu cartierul modern al muzeelor de pe malul râului. Dimineața, parcați în orașul de sus pentru a explora pe jos primăria și catedrala. După prânz, conduceți spre malul apei pentru Cité de la BD. La final, o scurtă călătorie vă va duce la un punct de belvedere exterior pentru a vedea orașul în toată splendoarea sa.",
-        "en": "By car, you can combine the historic center on the plateau with the modern museum district by the river. In the morning, park in the upper town to explore the town hall and cathedral on foot. After lunch, drive down to the riverbank for the Cité de la BD. Finally, a short drive takes you to an outside viewpoint to see the city in all its glory from afar."
+        "en": "By car, you can combine the historic center on the plateau with the modern museum district by the river. In the morning, park in the upper town to explore the town hall and cathedral on foot. After lunch, drive down to the riverbank for the Cité de la BD. Finally, a short drive takes you to an outside viewpoint to see the city in all its glory from afar.",
+        "fr": "En voiture, vous pouvez combiner le centre historique sur le plateau avec le quartier muséal moderne au bord de la rivière. Le matin, garez-vous en ville haute pour explorer l'hôtel de ville et la cathédrale à pied. Après le déjeuner, descendez jusqu'à la rive pour la Cité de la BD. Enfin, une courte route vous mène à un belvédère extérieur pour voir la ville dans toute sa splendeur de loin."
       },
       "gastro_picks": {
         "de": [
@@ -866,6 +919,12 @@
           "Drive carefully in the narrow one-way streets of the Old Town.",
           "There are free parking spots available along the riverbank near Cité de la BD.",
           "Allow 10-15 minutes for the drive between the plateau and the river."
+        ],
+        "fr": [
+          "Les parkings sur le plateau sont souvent étroits ; utilisez 'Bouillaud' ou 'Halles'.",
+          "Conduisez prudemment dans les rues étroites à sens unique de la vieille ville.",
+          "Il y a des places de stationnement gratuites le long de la rive près de la Cité de la BD.",
+          "Prévoyez 10–15 minutes pour le trajet entre le plateau et la rivière."
         ]
       }
     },
@@ -882,7 +941,8 @@
             "de": "Hôtel de Ville (Plateau)",
             "hu": "Városháza (Fennsík)",
             "ro": "Primăria (Platou)",
-            "en": "Town Hall (Plateau)"
+            "en": "Town Hall (Plateau)",
+            "fr": "Hôtel de Ville (Plateau)"
           },
           "coords": [
             0.1614,
@@ -897,7 +957,8 @@
             "de": "Zentraler Knotenpunkt der STGA-Busse.",
             "hu": "Az STGA buszok központi csomópontja.",
             "ro": "Nod central pentru autobuzele STGA.",
-            "en": "Central hub for STGA buses."
+            "en": "Central hub for STGA buses.",
+            "fr": "Pôle central pour les bus STGA."
           }
         },
         {
@@ -905,7 +966,8 @@
             "de": "Bemalte Wände (Zentrum)",
             "hu": "Festett falak (Központ)",
             "ro": "Zidurile pictate (Centru)",
-            "en": "Painted Walls (Center)"
+            "en": "Painted Walls (Center)",
+            "fr": "Murs Peints (Centre)"
           },
           "coords": [
             0.1605,
@@ -920,7 +982,8 @@
             "de": "Vom Rathaus aus bequem zu Fuß erreichbar.",
             "hu": "A városházától kényelmesen elérhető gyalog.",
             "ro": "Accesibil ușor pe jos de la primărie.",
-            "en": "Easily accessible on foot from the Town Hall."
+            "en": "Easily accessible on foot from the Town Hall.",
+            "fr": "Facilement accessible à pied depuis l'Hôtel de Ville."
           }
         },
         {
@@ -928,7 +991,8 @@
             "de": "Kathedrale Saint-Pierre",
             "hu": "Szent Péter-székesegyház",
             "ro": "Catedrala Saint-Pierre",
-            "en": "Saint-Pierre Cathedral"
+            "en": "Saint-Pierre Cathedral",
+            "fr": "Cathédrale Saint-Pierre"
           },
           "coords": [
             0.1578,
@@ -943,7 +1007,8 @@
             "de": "Wichtiger Haltepunkt am Rande des Plateaus.",
             "hu": "Fontos megállóhely a fennsík szélén.",
             "ro": "Punct de oprire important la marginea platoului.",
-            "en": "Important stop at the edge of the plateau."
+            "en": "Important stop at the edge of the plateau.",
+            "fr": "Arrêt important au bord du plateau."
           }
         },
         {
@@ -951,7 +1016,8 @@
             "de": "Mittagessen Marktviertel",
             "hu": "Ebéd a piaci negyedben",
             "ro": "Prânz în zona pieței",
-            "en": "Lunch in the Market Area"
+            "en": "Lunch in the Market Area",
+            "fr": "Déjeuner dans le quartier du marché"
           },
           "coords": [
             0.1595,
@@ -966,7 +1032,8 @@
             "de": "Rund um Les Halles gibt es viele Bistros.",
             "hu": "A Les Halles környékén számos bisztró található.",
             "ro": "Există multe bistrouri în jurul Les Halles.",
-            "en": "There are many bistros around Les Halles."
+            "en": "There are many bistros around Les Halles.",
+            "fr": "Il y a de nombreux bistrots autour des Halles."
           }
         },
         {
@@ -974,7 +1041,8 @@
             "de": "Cité de la BD (Busfahrt)",
             "hu": "Cité de la BD (Buszos út)",
             "ro": "Cité de la BD (Călătorie cu autobuzul)",
-            "en": "Cité de la BD (Bus Trip)"
+            "en": "Cité de la BD (Bus Trip)",
+            "fr": "Cité de la BD (Trajet en bus)"
           },
           "coords": [
             0.1532,
@@ -989,7 +1057,8 @@
             "de": "Nutzen Sie die Linie BHNS A für eine schnelle Verbindung.",
             "hu": "Használja a BHNS A vonalat a gyors összeköttetéshez.",
             "ro": "Folosiți linia BHNS A pentru o conexiune rapidă.",
-            "en": "Use the BHNS A line for a quick connection."
+            "en": "Use the BHNS A line for a quick connection.",
+            "fr": "Prenez la ligne BHNS A pour une liaison rapide."
           }
         },
         {
@@ -997,7 +1066,8 @@
             "de": "Le Nil",
             "hu": "Le Nil",
             "ro": "Le Nil",
-            "en": "Le Nil"
+            "en": "Le Nil",
+            "fr": "Le Nil"
           },
           "coords": [
             0.1528,
@@ -1012,7 +1082,8 @@
             "de": "Kurzer Fußweg vom Museum aus.",
             "hu": "Rövid séta a múzeumtól.",
             "ro": "Scurtă plimbare de la muzeu.",
-            "en": "Short walk from the museum."
+            "en": "Short walk from the museum.",
+            "fr": "Courte promenade depuis le musée."
           }
         }
       ],
@@ -1020,7 +1091,8 @@
         "de": "Mit dem effizienten Bussystem STGA erkunden Sie Angoulême mühelos. Vormittags nutzen Sie die Haltestellen auf dem Plateau für das historische Zentrum. Ein Bus bringt Sie dann bequem hinunter zur Charente, um die Comic-Welt zu besuchen, ohne den steilen Aufstieg zu Fuß bewältigen zu müssen. Ideal, um die verschiedenen Ebenen der Stadt stressfrei zu erleben.",
         "hu": "Az STGA hatékony buszhálózatával könnyedén felfedezheti Angoulême-t. Délelőtt a fennsíkon lévő megállókat használva járhatja be a történelmi központot. Ezután egy busz kényelmesen leviszi a Charente partjára a képregények világához, így megkíméli magát a meredek gyaloglástól. Ideális a város különböző szintjeinek stresszmentes megismeréséhez.",
         "ro": "Cu sistemul eficient de autobuze STGA, explorați Angoulême fără efort. Dimineața, folosiți stațiile de pe platou pentru centrul istoric. Un autobuz vă va duce apoi confortabil jos, la râul Charente, pentru a vizita lumea benzilor desenate, evitând urcușul abrupt pe jos. Ideal pentru a experimenta diferitele niveluri ale orașului fără stres.",
-        "en": "With the efficient STGA bus system, you can explore Angoulême effortlessly. In the morning, use the stops on the plateau for the historic center. A bus will then take you comfortably down to the Charente river to visit the comic book world, saving you from the steep climb on foot. Ideal for experiencing the different levels of the city stress-free."
+        "en": "With the efficient STGA bus system, you can explore Angoulême effortlessly. In the morning, use the stops on the plateau for the historic center. A bus will then take you comfortably down to the Charente river to visit the comic book world, saving you from the steep climb on foot. Ideal for experiencing the different levels of the city stress-free.",
+        "fr": "Avec le système de bus STGA efficace, vous pouvez explorer Angoulême sans effort. Le matin, utilisez les arrêts sur le plateau pour le centre historique. Un bus vous descendra ensuite confortablement jusqu'à la Charente pour visiter l'univers de la bande dessinée, vous évitant la montée raide à pied. Idéal pour découvrir les différents niveaux de la ville sans stress."
       },
       "gastro_picks": {
         "de": [
@@ -1128,6 +1200,12 @@
           "Lines BHNS A and B are the main transit arteries of the city.",
           "Check the electronic displays at the bus stops.",
           "Buses run less frequently on weekends; check the timetable."
+        ],
+        "fr": [
+          "Achetez un ticket journée directement au chauffeur ou via l'application.",
+          "Les lignes BHNS A et B sont les principales artères de transport de la ville.",
+          "Vérifiez les écrans électroniques aux arrêts de bus.",
+          "Les bus sont moins fréquents le week-end ; consultez les horaires."
         ]
       }
     }

@@ -32,7 +32,7 @@
             "hu": "Kóstolja meg a helyi Pineau des Charentes-t közvetlenül a termelőtől.",
             "ro": "Gustați Pineau des Charentes local direct de la producător.",
             "en": "Try fresh Pineau des Charentes directly from the local producers.",
-            "fr": "Goûtez au Pineau des Charentes frais directement chez les producteurs locaux."
+            "fr": "Goûtez le Pineau des Charentes frais directement chez les producteurs locaux."
           }
         },
         {
@@ -51,7 +51,7 @@
             "hu": "Csodálja meg a belső tér pompás üvegablakait.",
             "ro": "Admirați vitraliile magnifice din interior.",
             "en": "Admire the magnificent stained glass windows inside.",
-            "fr": "Admirez les magnifiques vitraux à l'intérieur."
+            "fr": "Admirez les magnifiques vitraux à l’intérieur."
           }
         },
         {
@@ -70,7 +70,7 @@
             "hu": "Keressen régi kalóz-graffitiket a börtönfalakon.",
             "ro": "Căutați graffiti vechi lăsate de pirați pe pereții închisorii.",
             "en": "Look for old graffiti made by pirate prisoners on the walls.",
-            "fr": "Cherchez les vieux graffitis faits par les prisonniers pirates sur les murs."
+            "fr": "Cherchez les anciennes graffitis laissés par des prisonniers pirates sur les murs."
           }
         },
         {
@@ -108,7 +108,7 @@
             "hu": "Ne hagyja ki a cápák alatti üvegalagutat.",
             "ro": "Nu ratați tunelul subacvatic cu rechini.",
             "en": "Don't miss the underwater shark tunnel.",
-            "fr": "Ne manquez pas le tunnel sous-marin des requins."
+            "fr": "Ne manquez pas le tunnel sous‑marin aux requins."
           }
         },
         {
@@ -146,7 +146,7 @@
             "hu": "A legjobb hely fotózni az aranyló kikötői medencét.",
             "ro": "Cel mai bun loc pentru fotografii cu bazinul portuar auriu.",
             "en": "The best spot for photos of the golden harbor basin.",
-            "fr": "Le meilleur endroit pour photographier le bassin du port doré."
+            "fr": "Le meilleur endroit pour des photos du bassin doré du port."
           }
         }
       ],
@@ -155,7 +155,7 @@
         "hu": "Kezdje a napot a pezsgő Les Halles piacon, ahol az óceán illata helyi finomságokkal keveredik. Sétáljon végig a középkori utcákon a katedrálishoz, majd az impozáns Tour de la Lanterne-hez a tengerpart szélén.\n\nEbédidőben élvezze a tengerparti hangulatot a Quai Duperré-n friss tenger gyümölcseivel, miközben a Vieux Port ikonikus tornyait csodálja. Ez La Rochelle szíve, ahol a történelem és a modern élet találkozik.\n\nA délután a híres Akvárium víz alatti világáé, majd egy pihentető szünet következik a tágas Parc Charruyer-ben, amely zöld övként öleli körbe a várost.\n\nBefejezésül élvezze a naplementét a kikötőben, amikor a lenyugvó nap meleg, varázslatos fénybe vonja a mészkő homlokzatokat és a régi hajókat.",
         "ro": "Începeți ziua în piața vibrantă Les Halles, unde aromele oceanului se întâlnesc cu specialitățile locale. Plimbați-vă pe străzile medievale către catedrală și apoi către impresionantul Tour de la Lanterne de la marginea mării.\n\nLa prânz, bucurați-vă de atmosfera maritimă pe Quai Duperré cu fructe de mare proaspete, admirând turnurile emblematice din Vieux Port. Acesta este inima orașului La Rochelle, unde istoria se împletește cu modernitatea.\n\nDupă-amiaza este dedicată lumii subacvatice la celebrul Acvariu, urmată de o pauză relaxantă în vastul Parc Charruyer, care înconjoară orașul ca o centură verde.\n\nLa final, încheiați ziua în port, când soarele la apus scaldă fațadele de calcar și navele vechi într-o lumină caldă și magică.",
         "en": "Start your day at the vibrant Les Halles market, where ocean scents meet local delicacies. Walk through medieval streets to the cathedral and then to the impressive Lantern Tower at the sea's edge.\n\nAt midday, enjoy the maritime atmosphere at Quai Duperré with fresh seafood while admiring the iconic towers of the Old Port. This is the heart of La Rochelle, where history and modern life merge.\n\nThe afternoon is dedicated to the underwater world at the famous Aquarium, followed by a relaxing break in the extensive Parc Charruyer, which encircles the city like a green belt.\n\nTo wrap up, end the day at the harbor as the setting sun bathes the limestone facades and old ships in a warm, magical light.",
-        "fr": "Commencez votre journée au marché animé des Halles, où les senteurs de l'océan rencontrent les délices locaux. Promenez-vous dans les rues médiévales jusqu'à la cathédrale, puis dirigez-vous vers l'impressionnante tour de la Lanterne au bord de la mer.\n\nÀ la mi-journée, profitez de l'atmosphère maritime du quai Duperré avec des fruits de mer frais tout en admirant les tours emblématiques du Vieux Port. C'est le cœur de La Rochelle, où l'histoire et la vie moderne se rejoignent.\n\nL'après-midi est consacré au monde sous-marin au célèbre Aquarium, suivi d'une pause relaxante dans le vaste parc Charruyer, qui entoure la ville comme une ceinture verte.\n\nPour finir, terminez la journée au port alors que le soleil couchant baigne les façades en pierre calcaire et les vieux navires d'une lumière chaude et magique."
+        "fr": "Commencez votre journée au vibrant marché des Halles, où les senteurs de l’océan rencontrent les spécialités locales. Parcourez les rues médiévales jusqu’à la cathédrale, puis rejoignez l’imposante Tour de la Lanterne au bord de la mer.\n\nÀ midi, profitez de l’atmosphère maritime du Quai Duperré avec des fruits de mer frais tout en admirant les tours emblématiques du Vieux Port. C’est le cœur de La Rochelle, où histoire et vie moderne se rencontrent.\n\nL’après‑midi est consacré au monde sous‑marin au célèbre Aquarium, suivi d’une pause détente dans le vaste parc Charruyer, qui ceinture la ville comme une ceinture verte.\n\nPour conclure, terminez la journée au port tandis que le soleil couchant baigne les façades calcaires et les vieux navires d’une lumière chaude et magique."
       },
       "gastro_picks": {
         "de": [
@@ -350,8 +350,8 @@
         ],
         "fr": [
           "La Rochelle se découvre parfaitement à pied.",
-          "Les tours du port peuvent être visitées avec un billet combiné.",
-          "Évitez le milieu de journée pour l'aquarium le week-end.",
+          "Les tours du port peuvent se visiter avec un billet combiné.",
+          "Évitez la mi‑journée pour l’aquarium le week‑end.",
           "Portez des chaussures confortables pour les rues pavées."
         ]
       },
@@ -361,7 +361,8 @@
             "de": "Beginnen Sie Ihren Tag in der lebhaften Markthalle Les Halles, wo die Düfte des Ozeans auf lokale Spezialitäten treffen. Spazieren Sie durch die mittelalterlichen Gassen zur Kathedrale und weiter zur beeindruckenden Tour de la Lanterne am Rande des Meeres.\n\nMittags genießen Sie die maritime Atmosphäre am Quai Duperré mit frischen Meeresfrüchten, während Sie die ikonischen Türme des Vieux Port bewundern. Dies ist das Herz von La Rochelle, wo Geschichte und Moderne verschmelzen.\n\nDer Nachmittag gehört der Unterwasserwelt im berühmten Aquarium, gefolgt von einer entspannenden Pause im weitläufigen Parc Charruyer, der die Stadt wie ein grüner Gürtel umschließt.\n\nZum Abschluss lassen Sie den Tag am Hafen ausklingen, wenn die untergehende Sonne die Kalksteinfassaden und die alten Schiffe in ein warmes, magisches Licht taucht.",
             "hu": "Kezdje a napot a pezsgő Les Halles piacon, ahol az óceán illata helyi finomságokkal keveredik. Sétáljon végig a középkori utcákon a katedrálishoz, majd az impozáns Tour de la Lanterne-hez a tengerpart szélén.\n\nEbédidőben élvezze a tengerparti hangulatot a Quai Duperré-n friss tenger gyümölcseivel, miközben a Vieux Port ikonikus tornyait csodálja. Ez La Rochelle szíve, ahol a történelem és a modern élet találkozik.\n\nA délután a híres Akvárium víz alatti világáé, majd egy pihentető szünet következik a tágas Parc Charruyer-ben, amely zöld övként öleli körbe a várost.\n\nBefejezésül élvezze a naplementét a kikötőben, amikor a lenyugvó nap meleg, varázslatos fénybe vonja a mészkő homlokzatokat és a régi hajókat.",
             "ro": "Începeți ziua în piața vibrantă Les Halles, unde aromele oceanului se întâlnesc cu specialitățile locale. Plimbați-vă pe străzile medievale către catedrală și apoi către impresionantul Tour de la Lanterne de la marginea mării.\n\nLa prânz, bucurați-vă de atmosfera maritimă pe Quai Duperré cu fructe de mare proaspete, admirând turnurile emblematice din Vieux Port. Acesta este inima orașului La Rochelle, unde istoria se împletește cu modernitatea.\n\nDupă-amiaza este dedicată lumii subacvatice la celebrul Acvariu, urmată de o pauză relaxantă în vastul Parc Charruyer, care înconjoară orașul ca o centură verde.\n\nLa final, încheiați ziua în port, când soarele la apus scaldă fațadele de calcar și navele vechi într-o lumină caldă și magică.",
-            "en": "Start your day at the vibrant Les Halles market, where ocean scents meet local delicacies. Walk through medieval streets to the cathedral and then to the impressive Lantern Tower at the sea's edge.\n\nAt midday, enjoy the maritime atmosphere at Quai Duperré with fresh seafood while admiring the iconic towers of the Old Port. This is the heart of La Rochelle, where history and modern life merge.\n\nThe afternoon is dedicated to the underwater world at the famous Aquarium, followed by a relaxing break in the extensive Parc Charruyer, which encircles the city like a green belt.\n\nTo wrap up, end the day at the harbor as the setting sun bathes the limestone facades and old ships in a warm, magical light."
+            "en": "Start your day at the vibrant Les Halles market, where ocean scents meet local delicacies. Walk through medieval streets to the cathedral and then to the impressive Lantern Tower at the sea's edge.\n\nAt midday, enjoy the maritime atmosphere at Quai Duperré with fresh seafood while admiring the iconic towers of the Old Port. This is the heart of La Rochelle, where history and modern life merge.\n\nThe afternoon is dedicated to the underwater world at the famous Aquarium, followed by a relaxing break in the extensive Parc Charruyer, which encircles the city like a green belt.\n\nTo wrap up, end the day at the harbor as the setting sun bathes the limestone facades and old ships in a warm, magical light.",
+            "fr": "Commencez votre journée au vibrant marché des Halles, où les senteurs de l’océan rencontrent les spécialités locales. Parcourez les rues médiévales jusqu’à la cathédrale, puis rejoignez l’imposante Tour de la Lanterne au bord de la mer.\n\nÀ midi, profitez de l’atmosphère maritime du Quai Duperré avec des fruits de mer frais tout en admirant les tours emblématiques du Vieux Port. C’est le cœur de La Rochelle, où histoire et vie moderne se rencontrent.\n\nL’après‑midi est consacré au monde sous‑marin au célèbre Aquarium, suivi d’une pause détente dans le vaste parc Charruyer, qui ceinture la ville comme une ceinture verte.\n\nPour conclure, terminez la journée au port tandis que le soleil couchant baigne les façades calcaires et les vieux navires d’une lumière chaude et magique."
           },
           "stops": [
             {
@@ -370,7 +371,8 @@
                 "de": "Frischer Pineau des Charentes direkt vom Erzeuger probieren.",
                 "hu": "Kóstolja meg a helyi Pineau des Charentes-t közvetlenül a termelőtől.",
                 "ro": "Gustați Pineau des Charentes local direct de la producător.",
-                "en": "Try fresh Pineau des Charentes directly from the local producers."
+                "en": "Try fresh Pineau des Charentes directly from the local producers.",
+                "fr": "Goûtez le Pineau des Charentes frais directement chez les producteurs locaux."
               }
             },
             {
@@ -379,7 +381,8 @@
                 "de": "Bewundern Sie die prächtigen Glasmalereien im Inneren.",
                 "hu": "Csodálja meg a belső tér pompás üvegablakait.",
                 "ro": "Admirați vitraliile magnifice din interior.",
-                "en": "Admire the magnificent stained glass windows inside."
+                "en": "Admire the magnificent stained glass windows inside.",
+                "fr": "Admirez les magnifiques vitraux à l’intérieur."
               }
             },
             {
@@ -388,7 +391,8 @@
                 "de": "Alte Graffiti von gefangenen Piraten an den Wänden suchen.",
                 "hu": "Keressen régi kalóz-graffitiket a börtönfalakon.",
                 "ro": "Căutați graffiti vechi lăsate de pirați pe pereții închisorii.",
-                "en": "Look for old graffiti made by pirate prisoners on the walls."
+                "en": "Look for old graffiti made by pirate prisoners on the walls.",
+                "fr": "Cherchez les anciennes graffitis laissés par des prisonniers pirates sur les murs."
               }
             },
             {
@@ -397,7 +401,8 @@
                 "de": "Frische Austern mit Blick auf die Türme genießen.",
                 "hu": "Friss osztriga a kikötői tornyokra nyíló kilátással.",
                 "ro": "Savurați stridii proaspete cu vedere la turnurile portului.",
-                "en": "Enjoy fresh oysters with a view of the harbor towers."
+                "en": "Enjoy fresh oysters with a view of the harbor towers.",
+                "fr": "Dégustez des huîtres fraîches avec vue sur les tours du port."
               }
             },
             {
@@ -406,7 +411,8 @@
                 "de": "Nicht den Unterwasser-Tunnel der Haie verpassen.",
                 "hu": "Ne hagyja ki a cápák alatti üvegalagutat.",
                 "ro": "Nu ratați tunelul subacvatic cu rechini.",
-                "en": "Don't miss the underwater shark tunnel."
+                "en": "Don't miss the underwater shark tunnel.",
+                "fr": "Ne manquez pas le tunnel sous‑marin aux requins."
               }
             },
             {
@@ -415,7 +421,8 @@
                 "de": "Ein ruhiger Spaziergang entlang des kleinen Baches.",
                 "hu": "Csendes séta a kis patak mentén.",
                 "ro": "O plimbare liniștită de-a lungul micului pârâu.",
-                "en": "A quiet stroll along the small stream through the park."
+                "en": "A quiet stroll along the small stream through the park.",
+                "fr": "Une promenade tranquille le long du petit ruisseau à travers le parc."
               }
             },
             {
@@ -424,7 +431,8 @@
                 "de": "Der beste Ort für Fotos vom goldenen Hafenbecken.",
                 "hu": "A legjobb hely fotózni az aranyló kikötői medencét.",
                 "ro": "Cel mai bun loc pentru fotografii cu bazinul portuar auriu.",
-                "en": "The best spot for photos of the golden harbor basin."
+                "en": "The best spot for photos of the golden harbor basin.",
+                "fr": "Le meilleur endroit pour des photos du bassin doré du port."
               }
             }
           ],
@@ -586,6 +594,12 @@
               "The harbor towers can be visited with a combined ticket.",
               "Avoid midday for the aquarium on weekends.",
               "Wear comfortable shoes for the cobblestone streets."
+            ],
+            "fr": [
+              "La Rochelle se découvre parfaitement à pied.",
+              "Les tours du port peuvent se visiter avec un billet combiné.",
+              "Évitez la mi‑journée pour l’aquarium le week‑end.",
+              "Portez des chaussures confortables pour les rues pavées."
             ]
           }
         },
@@ -595,7 +609,7 @@
             "hu": "Kezdje a napot a fedett Les Halles piacon, ahol az eső elől menekülve kóstolhatja meg a helyi sajtokat és tenger gyümölcseit. Használja ki a város híres árkádjait, hogy szárazon jusson el a Saint-Louis katedrálisig.\r\nDélben a Tour de la Lanterne torony nyújt menedéket, ahonnan a borús időben is lenyűgöző látványt nyújt a haragos Atlanti-óceán.\r\nA délutánt töltse az Akváriumban, amely Franciaország egyik legjobb fedett látnivalója. Itt órákra elmerülhet a tengeri élővilágban, miközben kint esik.\r\nEste az ókikötő menti árkádok alatt sétálva csodálhatja meg a Tour Saint-Nicolas fényeit, amelyek gyönyörűen tükröződnek a nedves macskaköveken.",
             "ro": "Începeți ziua la piața acoperită Les Halles, locul perfect pentru a degusta delicatese locale feriți de ploaie. Folosiți faimoasele arcade ale orașului pentru a ajunge uscați la Catedrala Saint-Louis.\r\nLa prânz, Turnul Lanternei oferă adăpost și o perspectivă dramatică asupra Atlanticului învolburat, chiar și pe vreme închisă.\r\nDupă-amiaza este dedicată Acvariului, una dintre cele mai bune atracții de interior din Franța, unde puteți explora universul marin în timp ce afară plouă.\r\nSeara, plimbați-vă pe sub arcadele portului spre Turnul Saint-Nicolas, admirând reflexiile luminilor orașului în pavajul umed.",
             "en": "Start your day at the covered Les Halles market, the perfect place to sample local treats while staying dry. Take advantage of the city's famous 17th-century arcades to reach the Saint-Louis Cathedral without a wet umbrella.\r\nAt midday, the Tour de la Lanterne provides historic shelter and a dramatic view of the stormy Atlantic waves.\r\nSpend the afternoon at the Aquarium, one of France's premier indoor attractions, where you can immerse yourself in marine life while the rain pours outside.\r\nIn the evening, walk under the protective harbor arcades towards Tour Saint-Nicolas, enjoying the beautiful reflections of the illuminated towers on the wet cobblestones.",
-            "fr": "Commencez votre journée au marché couvert des Halles, l'endroit idéal pour goûter aux spécialités locales tout en restant au sec. Profitez des célèbres arcades du XVIIe siècle pour rejoindre la cathédrale Saint-Louis sans mouiller votre parapluie.\r\nÀ la mi-journée, la tour de la Lanterne offre un abri historique et une vue spectaculaire sur les vagues tempétueuses de l'Atlantique.\r\nPassez l'après-midi à l'Aquarium, l'une des principales attractions intérieures de France, où vous pourrez vous immerger dans la vie marine pendant qu'il pleut dehors.\r\nEn soirée, marchez sous les arcades protectrices du port vers la tour Saint-Nicolas, en profitant des magnifiques reflets des tours illuminées sur les pavés mouillés."
+            "fr": "Commencez votre journée au couvert marché des Halles, l’endroit parfait pour déguster des spécialités locales à l’abri. Profitez des célèbres arcades du XVIIe siècle pour rejoindre la cathédrale Saint‑Louis sans avoir à sortir votre parapluie.\r\nÀ midi, la Tour de la Lanterne offre un abri historique et une vue spectaculaire sur les vagues atlantiques déchaînées.\r\nPassez l’après‑midi à l’Aquarium, l’une des principales attractions intérieures de France, où vous pourrez vous immerger dans la vie marine pendant que la pluie tombe dehors.\r\nLe soir, marchez sous les arcades du port en direction de la Tour Saint‑Nicolas, en appréciant les belles reflets des tours illuminées sur les pavés mouillés."
           },
           "stops": [
             {
@@ -605,7 +619,7 @@
                 "hu": "Tökéletes esőhelyszín, mivel teljesen fedett. Kóstoljon osztrigát közvetlenül az árusoknál.",
                 "ro": "Locație ideală pe ploaie, fiind complet acoperită. Gustați stridii proaspete direct la stand.",
                 "en": "Perfect rainy day spot as it's fully covered. Try fresh oysters directly at the stalls.",
-                "fr": "Spot parfait par temps de pluie car entièrement couvert. Goûtez des huîtres fraîches directement aux étals."
+                "fr": "Endroit parfait les jours de pluie car entièrement couvert. Goûtez des huîtres fraîches directement aux étals."
               }
             },
             {
@@ -615,7 +629,7 @@
                 "hu": "Használja az árkádos Rue du Palais utcát, hogy szárazon érkezzen meg ide.",
                 "ro": "Folosiți strada Rue du Palais cu arcadele sale pentru a ajunge aici fără să vă udați.",
                 "en": "Use the arcaded Rue du Palais to reach the cathedral while staying dry.",
-                "fr": "Empruntez la rue du Palais et ses arcades pour rejoindre la cathédrale en restant au sec."
+                "fr": "Utilisez la rue du Palais à arcades pour rejoindre la cathédrale tout en restant au sec."
               }
             },
             {
@@ -625,7 +639,7 @@
                 "hu": "A vastag falak védelmet nyújtanak; a kilátóterasz részben fedett.",
                 "ro": "Zidurile groase oferă adăpost; galeria de belvedere este parțial acoperită.",
                 "en": "The thick walls provide shelter; the observation gallery is partially covered.",
-                "fr": "Les murs épais offrent un bon abri ; la galerie d'observation est partiellement couverte."
+                "fr": "Les murs épais offrent un abri ; la galerie d’observation est partiellement couverte."
               }
             },
             {
@@ -635,7 +649,7 @@
                 "hu": "Válasszon egy éttermet az árkádok alatt egy kellemes, száraz ebédhez.",
                 "ro": "Alegeți un restaurant sub arcade pentru un prânz relaxant la adăpost de ploaie.",
                 "en": "Choose a restaurant under the arcades for a cozy lunch away from the rain.",
-                "fr": "Choisissez un restaurant sous les arcades pour un déjeuner chaleureux à l'abri de la pluie."
+                "fr": "Choisissez un restaurant sous les arcades pour un déjeuner cosy à l’abri de la pluie."
               }
             },
             {
@@ -645,7 +659,7 @@
                 "hu": "Heves esőzés esetén töltsön itt több időt; a látnivaló teljesen fedett.",
                 "ro": "Alocați mai mult timp aici dacă plouă tare; este o atracție complet de interior.",
                 "en": "Plan extra time here during heavy rain; the entire attraction is indoors.",
-                "fr": "Prévoyez plus de temps ici en cas de forte pluie ; toute l'attraction est couverte."
+                "fr": "Prévoyez du temps supplémentaire ici en cas de forte pluie ; l’ensemble de l’attraction est en intérieur."
               }
             },
             {
@@ -655,7 +669,7 @@
                 "hu": "A park kevés menedéket nyújt, használja a nagy fákat természetes esernyőként.",
                 "ro": "Parcul oferă puțin adăpost, folosiți arborii mari ca umbrelă naturală.",
                 "en": "The park offers little shelter, use the large trees as a natural umbrella.",
-                "fr": "Le parc offre peu d'abri, utilisez les grands arbres comme parapluie naturel."
+                "fr": "Le parc offre peu d’abri, utilisez les grands arbres comme parapluie naturel."
               }
             },
             {
@@ -665,7 +679,7 @@
                 "hu": "Látogasson el a torony belső tereibe, ha az eső naplementekor is kitart.",
                 "ro": "Vizitați interiorul turnului dacă ploaia continuă la ora apusului.",
                 "en": "Visit the tower's interior rooms if the rain persists during sunset hours.",
-                "fr": "Visitez les salles intérieures de la tour si la pluie persiste au moment du coucher du soleil."
+                "fr": "Visitez les pièces intérieures de la tour si la pluie persiste pendant le coucher du soleil."
               }
             }
           ],
@@ -699,11 +713,11 @@
               "The towers host indoor exhibitions, allowing for dry sightseeing."
             ],
             "fr": [
-              "Profitez des arcades historiques qui couvrent une grande partie des rues de la vieille ville.",
-              "L'Aquarium est le refuge ultime en cas de pluie prolongée.",
-              "Portez des chaussures antidérapantes car les pavés du port deviennent glissants avec l'humidité.",
-              "De nombreux cafés du Vieux Port proposent des terrasses chauffées et couvertes.",
-              "Les tours abritent des expositions intérieures, permettant une visite au sec."
+              "Profitez des arcades historiques (les arcades) qui couvrent une grande partie des rues de la vieille ville.",
+              "L’Aquarium est le refuge ultime pendant de longues averses.",
+              "Portez des chaussures antidérapantes car les pavés du port deviennent glissants quand ils sont mouillés.",
+              "De nombreux cafés du Vieux Port proposent des terrasses couvertes et chauffées.",
+              "Les tours accueillent des expositions intérieures, permettant de visiter au sec."
             ]
           }
         },
@@ -713,7 +727,7 @@
             "hu": "Télen a reggel a Les Halles piacon kezdődik, friss sütemények és forró kávé illatával. A friss tengeri szellő élénkítő, miközben a katedrális felé sétál.\r\nAz ókikötőben elköltött ebédet a téli napsütés teszi kellemessé, amely alacsonyan jár az árbocok felett. A Tour de la Lanterne toronyból ilyenkor különösen tiszta a kilátás.\r\nKora délután melegedjen fel az Akváriumban. Mivel a naplemente télen már 17:15 körül beköszönt, a Parc Charruyer parkot érdemes még világosban bejárni.\r\nAz estét a Tour Saint-Nicolas-nál zárja, miközben a szürkület misztikus kék fénybe öltözteti a kikötőt, és kigyúlnak a város fényei.",
             "ro": "Iarna, dimineața începe la piața Les Halles cu miros de produse de patiserie proaspete și cafea fierbinte. Briza sărată este revigorantă în drum spre Catedrală.\r\nPrânzul în Portul Vechi este acompaniat de soarele blând de iarnă care stă jos deasupra catargelor. Vizita la Turnul Lanternei oferă o vizibilitate excelentă asupra coastei.\r\nDupă-amiaza devreme, încălziți-vă la Acvariu. Deoarece apusul vine în jur de ora 17:15 iarna, traversați Parcul Charruyer înainte de lăsarea întunericului.\r\nÎncheiați seara la Turnul Saint-Nicolas, în timp ce amurgul scaldă portul într-o lumină albastră mistică și luminile orașului încep să sclipească.",
             "en": "In winter, the morning starts at Les Halles market with the scent of fresh pastries and hot coffee. The crisp sea breeze is invigorating as you walk towards the Cathedral.\r\nLunch at the Vieux Port is sweetened by the low winter sun reflecting off the boat masts. A visit to the Tour de la Lanterne offers clear, long-distance views over the wintry coastline.\r\nWarm up in the Aquarium in the early afternoon. Since sunset occurs around 5:15 PM in winter, make sure to cross Parc Charruyer while there is still light.\r\nFinish your evening at Tour Saint-Nicolas as twilight drapes the harbor in a mystical blue glow and the city lights sparkle brightly.",
-            "fr": "En hiver, la matinée commence au marché des Halles avec l'odeur des pâtisseries fraîches et du café chaud. La brise marine vivifiante vous accompagne vers la cathédrale.\r\nLe déjeuner au Vieux Port est sublimé par le bas soleil d'hiver qui se reflète sur les mâts des bateaux. Une visite à la tour de la Lanterne offre des vues claires et lointaines sur le littoral hivernal.\r\nRéchauffez-vous à l'Aquarium en début d'après-midi. Comme le soleil se couche vers 17h15 en hiver, traversez le parc Charruyer tant qu'il fait jour.\r\nTerminez votre soirée à la tour Saint-Nicolas alors que le crépuscule drape le port d'une lueur bleue mystique et que les lumières de la ville scintillent."
+            "fr": "En hiver, la matinée commence au marché des Halles avec l’odeur des viennoiseries fraîches et du café chaud. La brise marine vivifiante vous accompagne jusqu’à la Cathédrale.\r\nLe déjeuner au Vieux Port est adouci par le soleil bas d’hiver qui se reflète sur les mâts des bateaux. Une visite à la Tour de la Lanterne offre des vues dégagées et lointaines sur la côte hivernale.\r\nRéchauffez‑vous à l’Aquarium en début d’après‑midi. Comme le soleil se couche vers 17h15 en hiver, assurez‑vous de traverser le Parc Charruyer tant qu’il fait encore jour.\r\nTerminez la soirée à la Tour Saint‑Nicolas tandis que le crépuscule drape le port d’un voile bleu mystique et que les lumières de la ville scintillent."
           },
           "stops": [
             {
@@ -723,7 +737,7 @@
                 "hu": "Vegyél egy zacskó sült gesztenyét, ez itt egy tipikus téli csemege.",
                 "ro": "Luați o pungă cu castane coapte, o gustare tipică de iarnă aici.",
                 "en": "Grab a bag of roasted chestnuts, a typical winter snack here.",
-                "fr": "Prenez un cornet de marrons chauds, une collation hivernale typique ici."
+                "fr": "Achetez un sachet de marrons grillés, une collation hivernale typique ici."
               }
             },
             {
@@ -733,7 +747,7 @@
                 "hu": "Csodálja meg a karácsonyi betlehemet, amelyet decemberben gyakran felállítanak odabent.",
                 "ro": "Admirați scena nașterii Domnului, amenajată adesea în interior în luna decembrie.",
                 "en": "Admire the Christmas nativity scene, often set up inside during December.",
-                "fr": "Admirez la crèche de Noël, souvent installée à l'intérieur en décembre."
+                "fr": "Admirez la crèche de Noël, souvent installée à l’intérieur en décembre."
               }
             },
             {
@@ -743,7 +757,7 @@
                 "hu": "Vigyázat: a kilátóteraszon a szél télen nagyon jeges lehet.",
                 "ro": "Atenție: sus pe galerie, vântul poate fi foarte tăios în timpul iernii.",
                 "en": "Warning: the wind can be very icy up on the gallery during winter.",
-                "fr": "Attention : le vent peut être très glacial sur la galerie pendant l'hiver."
+                "fr": "Attention : le vent peut être très glacial sur la galerie en hiver."
               }
             },
             {
@@ -753,7 +767,7 @@
                 "hu": "Kóstoljon meg egy forró csokoládét a tornyokra néző kávézók egyikében.",
                 "ro": "Savurați o ciocolată caldă la cafenelele cu vedere spre turnuri.",
                 "en": "Try a hot chocolate at the cafes overlooking the towers.",
-                "fr": "Dégustez un chocolat chaud dans les cafés surplombant les tours."
+                "fr": "Essayez un chocolat chaud dans les cafés surplombant les tours."
               }
             },
             {
@@ -763,7 +777,7 @@
                 "hu": "Tökéletes hely, hogy két órára elmeneküljön a téli hideg elől.",
                 "ro": "Locul perfect pentru a evada din frigul iernii timp de două ore.",
                 "en": "The perfect place to escape the winter cold for a couple of hours.",
-                "fr": "L'endroit idéal pour échapper au froid hivernal pendant quelques heures."
+                "fr": "L’endroit parfait pour échapper au froid hivernal pendant quelques heures."
               }
             },
             {
@@ -773,7 +787,7 @@
                 "hu": "Legkésőbb 16:30-kor induljon el innen, hogy lássa a naplementét a tengernél.",
                 "ro": "Plecarea de aici la cel târziu ora 16:30 pentru a prinde apusul la mare.",
                 "en": "Leave here by 4:30 PM at the latest to catch the sunset by the sea.",
-                "fr": "Quittez les lieux vers 16h30 au plus tard pour admirer le coucher du soleil au bord de la mer."
+                "fr": "Partez d’ici au plus tard à 16h30 pour assister au coucher du soleil au bord de la mer."
               }
             },
             {
@@ -783,7 +797,7 @@
                 "hu": "A naplemente télen különösen színes, mivel a levegő gyakran tisztább.",
                 "ro": "Apusul este deosebit de colorat iarna, deoarece aerul este adesea mai curat.",
                 "en": "Sunsets are particularly colorful in winter as the air is often clearer.",
-                "fr": "Les couchers de soleil sont particulièrement colorés en hiver car l'air est souvent plus pur."
+                "fr": "Les couchers de soleil sont particulièrement colorés en hiver car l’air est souvent plus pur."
               }
             }
           ],
@@ -817,11 +831,11 @@
               "Visit museums in the late afternoon as it gets dark outside."
             ],
             "fr": [
-              "Habillez-vous en couches superposées ; le vent de l'Atlantique peut refroidir considérablement la température ressentie.",
-              "Attention au coucher du soleil précoce vers 17h15.",
-              "La ville propose de magnifiques illuminations de Noël pendant le mois de décembre.",
-              "L'hiver est la haute saison des huîtres, et c'est maintenant qu'elles sont les meilleures.",
-              "Visitez les musées en fin d'après-midi quand l'obscurité tombe."
+              "Habillez-vous en couches ; le vent de l'Atlantique peut faire baisser fortement la température ressentie.",
+              "Attention au coucher du soleil tôt, vers 17h15.",
+              "La ville propose de magnifiques illuminations de Noël en décembre.",
+              "L'hiver est la pleine saison des huîtres, elles sont à leur meilleur en ce moment.",
+              "Visitez les musées en fin d'après-midi, car il fait déjà sombre dehors."
             ]
           }
         }
@@ -851,7 +865,7 @@
             "hu": "Yélo bérbiciklik mindenhol elérhetőek.",
             "ro": "Bicicletele Yélo sunt disponibile peste tot.",
             "en": "Yélo rental bikes are available everywhere.",
-            "fr": "Les vélos de location Yélo sont disponibles partout."
+            "fr": "Les vélos en libre-service Yélo sont disponibles partout."
           }
         },
         {
@@ -870,7 +884,7 @@
             "hu": "Biztonságos bicikliparkoló közvetlenül előtte.",
             "ro": "Parcare sigură pentru biciclete chiar în față.",
             "en": "Secure bike parking directly in front.",
-            "fr": "Parking à vélos sécurisé juste devant."
+            "fr": "Stationnement vélo sécurisé juste en face."
           }
         },
         {
@@ -889,7 +903,7 @@
             "hu": "Az Atlanti-óceán egyik legnagyobb jachtkikötője.",
             "ro": "Unul dintre cele mai mari porturi de iahturi de la Atlantic.",
             "en": "One of the largest marinas on the Atlantic coast.",
-            "fr": "L'une des plus grandes marinas de la côte atlantique."
+            "fr": "Une des plus grandes marines de la côte atlantique."
           }
         },
         {
@@ -946,7 +960,7 @@
             "hu": "Biciklizés a zöldellő fasorokon.",
             "ro": "Mersul pe bicicletă pe aleile înverzite.",
             "en": "Cycling through the lush green alleys.",
-            "fr": "Pédaler à travers les allées verdoyantes."
+            "fr": "Cyclisme à travers les allées verdoyantes."
           }
         }
       ],
@@ -955,7 +969,7 @@
         "hu": "Fedezze fel La Rochelle-t két keréken, az ikonikus Vieux Port-tól indulva. A város sík és kerékpárosbarát, így a rakpartok mentén tett út a híres akváriumhoz igazi élvezet.\n\nTekerjen tovább délre a Port des Minimes felé, ahol árbocok ezrei zúgnak a szélben. Itt érezheti át a város igazi tengeri kiterjedését, távol a központ szűk utcáitól.\n\nDélután a Minimes strand várja egy kis napozásra vagy frissítőre az Atlanti-óceánban, majd látogasson el a fotogén Phare du Bout du Monde-hoz, amely egy másik korból származó világítótoronynak tűnik.\n\nA visszaút a Parc Charruyer-en keresztül vezet, melynek széles útjai ideálisak a kerékpárosoknak, mielőtt visszaadná a biciklit a központban.",
         "ro": "Descoperiți La Rochelle pe două roți, începând din iconicul Vieux Port. Orașul este plat și prietenos cu bicicliștii, ceea ce face ca drumul de-a lungul cheiurilor către celebrul acvariu să fie o plăcere.\n\nPedalați mai departe spre sud către Port des Minimes, unde mii de catarge zornăie în vânt. Aici veți simți adevărata amploare maritimă a orașului, departe de străzile înguste ale centrului.\n\nDupă-amiaza, plaja Minimes vă așteaptă pentru plajă sau o răcorire în Atlantic, urmată de o vizită la fotogenicul Phare du Bout du Monde, un far care pare desprins dintr-o altă epocă.\n\nÎntoarcerea se face prin Parc Charruyer, ale cărui poteci late sunt ideale pentru bicicliști, înainte de a lăsa bicicleta înapoi în centru.",
         "en": "Discover La Rochelle on two wheels, starting from the iconic Old Port. The city is flat and bike-friendly, making the ride along the quays to the famous aquarium a true pleasure.\n\nPedal further south to Port des Minimes, where thousands of masts clatter in the wind. Here you can feel the city's true maritime scale, away from the narrow streets of the center.\n\nIn the afternoon, the Minimes beach awaits for sunbathing or a refreshing dip in the Atlantic, followed by a visit to the photogenic Phare du Bout du Monde, a lighthouse that looks like it's from another era.\n\nMake your way back through Parc Charruyer, whose wide paths are ideal for cyclists, before dropping off your bike back in the center.",
-        "fr": "Découvrez La Rochelle sur deux roues, en partant de l'emblématique Vieux Port. La ville est plate et adaptée aux vélos, faisant de la balade le long des quais jusqu'au célèbre aquarium un vrai plaisir.\n\nPédalez plus au sud vers le Port des Minimes, où des milliers de mâts s'entrechoquent au vent. Ici, vous ressentirez la véritable dimension maritime de la ville, loin des rues étroites du centre.\n\nL'après-midi, la plage des Minimes vous attend pour un bain de soleil ou un plongeon rafraîchissant dans l'Atlantique, suivi d'une visite au photogénique phare du Bout du Monde, un phare en bois qui semble d'une autre époque.\n\nRevenez par le parc Charruyer, dont les larges allées sont idéales pour les cyclistes, avant de rendre votre vélo dans le centre."
+        "fr": "Découvrez La Rochelle à vélo en partant de l'emblématique Vieux-Port. La ville est plate et adaptée aux cyclistes, rendant la promenade le long des quais jusqu'au célèbre aquarium très agréable.\n\nPédalez plus au sud jusqu'au Port des Minimes, où des milliers de mâts claquent au vent. Là, vous percevez l'ampleur maritime de la ville, loin des rues étroites du centre.\n\nL'après-midi, la plage des Minimes vous attend pour un bain de soleil ou une baignade rafraîchissante dans l'Atlantique, suivis d'une visite du photogénique Phare du Bout du Monde, un phare qui semble venir d'une autre époque.\n\nRetournez ensuite via le Parc Charruyer, dont les larges allées sont idéales pour les cyclistes, avant de rendre votre vélo au centre."
       },
       "gastro_picks": {
         "de": [
@@ -1131,8 +1145,8 @@
         "fr": [
           "Utilisez les pistes cyclables dédiées le long de la côte.",
           "Verrouillez toujours votre vélo en toute sécurité.",
-          "Le bateau-bus 'Bus-de-Mer' accepte les vélos.",
-          "Faites attention aux marées à la plage."
+          "Le « Bus-de-Mer », navette maritime, accepte les vélos.",
+          "Faites attention aux marées sur la plage."
         ]
       },
       "variants": {
@@ -1141,7 +1155,8 @@
             "de": "Entdecken Sie La Rochelle auf zwei Rädern, beginnend am ikonischen Vieux Port. Die Stadt ist flach und fahrradfreundlich, was die Fahrt zum berühmten Aquarium entlang der Kaianlagen zu einem Vergnügen macht.\n\nRadeln Sie weiter südlich zum Port des Minimes, wo Tausende von Masten im Wind klirren. Hier spüren Sie die wahre maritime Weite der Stadt, fernab der engen Gassen des Zentrums.\n\nNachmittags erwartet Sie der Strand von Minimes für ein Sonnenbad oder eine Erfrischung im Atlantik, gefolgt von einem Besuch beim fotogenen Phare du Bout du Monde, einem Leuchtturm, der wie aus einer anderen Zeit wirkt.\n\nDen Rückweg treten Sie durch den Parc Charruyer an, dessen breite Wege ideal für Radfahrer sind, bevor Sie Ihr Fahrrad wieder im Zentrum abstellen.",
             "hu": "Fedezze fel La Rochelle-t két keréken, az ikonikus Vieux Port-tól indulva. A város sík és kerékpárosbarát, így a rakpartok mentén tett út a híres akváriumhoz igazi élvezet.\n\nTekerjen tovább délre a Port des Minimes felé, ahol árbocok ezrei zúgnak a szélben. Itt érezheti át a város igazi tengeri kiterjedését, távol a központ szűk utcáitól.\n\nDélután a Minimes strand várja egy kis napozásra vagy frissítőre az Atlanti-óceánban, majd látogasson el a fotogén Phare du Bout du Monde-hoz, amely egy másik korból származó világítótoronynak tűnik.\n\nA visszaút a Parc Charruyer-en keresztül vezet, melynek széles útjai ideálisak a kerékpárosoknak, mielőtt visszaadná a biciklit a központban.",
             "ro": "Descoperiți La Rochelle pe două roți, începând din iconicul Vieux Port. Orașul este plat și prietenos cu bicicliștii, ceea ce face ca drumul de-a lungul cheiurilor către celebrul acvariu să fie o plăcere.\n\nPedalați mai departe spre sud către Port des Minimes, unde mii de catarge zornăie în vânt. Aici veți simți adevărata amploare maritimă a orașului, departe de străzile înguste ale centrului.\n\nDupă-amiaza, plaja Minimes vă așteaptă pentru plajă sau o răcorire în Atlantic, urmată de o vizită la fotogenicul Phare du Bout du Monde, un far care pare desprins dintr-o altă epocă.\n\nÎntoarcerea se face prin Parc Charruyer, ale cărui poteci late sunt ideale pentru bicicliști, înainte de a lăsa bicicleta înapoi în centru.",
-            "en": "Discover La Rochelle on two wheels, starting from the iconic Old Port. The city is flat and bike-friendly, making the ride along the quays to the famous aquarium a true pleasure.\n\nPedal further south to Port des Minimes, where thousands of masts clatter in the wind. Here you can feel the city's true maritime scale, away from the narrow streets of the center.\n\nIn the afternoon, the Minimes beach awaits for sunbathing or a refreshing dip in the Atlantic, followed by a visit to the photogenic Phare du Bout du Monde, a lighthouse that looks like it's from another era.\n\nMake your way back through Parc Charruyer, whose wide paths are ideal for cyclists, before dropping off your bike back in the center."
+            "en": "Discover La Rochelle on two wheels, starting from the iconic Old Port. The city is flat and bike-friendly, making the ride along the quays to the famous aquarium a true pleasure.\n\nPedal further south to Port des Minimes, where thousands of masts clatter in the wind. Here you can feel the city's true maritime scale, away from the narrow streets of the center.\n\nIn the afternoon, the Minimes beach awaits for sunbathing or a refreshing dip in the Atlantic, followed by a visit to the photogenic Phare du Bout du Monde, a lighthouse that looks like it's from another era.\n\nMake your way back through Parc Charruyer, whose wide paths are ideal for cyclists, before dropping off your bike back in the center.",
+            "fr": "Découvrez La Rochelle à vélo en partant de l'emblématique Vieux-Port. La ville est plate et adaptée aux cyclistes, rendant la promenade le long des quais jusqu'au célèbre aquarium très agréable.\n\nPédalez plus au sud jusqu'au Port des Minimes, où des milliers de mâts claquent au vent. Là, vous percevez l'ampleur maritime de la ville, loin des rues étroites du centre.\n\nL'après-midi, la plage des Minimes vous attend pour un bain de soleil ou une baignade rafraîchissante dans l'Atlantique, suivis d'une visite du photogénique Phare du Bout du Monde, un phare qui semble venir d'une autre époque.\n\nRetournez ensuite via le Parc Charruyer, dont les larges allées sont idéales pour les cyclistes, avant de rendre votre vélo au centre."
           },
           "stops": [
             {
@@ -1150,7 +1165,8 @@
                 "de": "Yélo-Leihräder sind überall verfügbar.",
                 "hu": "Yélo bérbiciklik mindenhol elérhetőek.",
                 "ro": "Bicicletele Yélo sunt disponibile peste tot.",
-                "en": "Yélo rental bikes are available everywhere."
+                "en": "Yélo rental bikes are available everywhere.",
+                "fr": "Les vélos en libre-service Yélo sont disponibles partout."
               }
             },
             {
@@ -1159,7 +1175,8 @@
                 "de": "Sichere Fahrradparkplätze direkt davor.",
                 "hu": "Biztonságos bicikliparkoló közvetlenül előtte.",
                 "ro": "Parcare sigură pentru biciclete chiar în față.",
-                "en": "Secure bike parking directly in front."
+                "en": "Secure bike parking directly in front.",
+                "fr": "Stationnement vélo sécurisé juste en face."
               }
             },
             {
@@ -1168,7 +1185,8 @@
                 "de": "Einer der größten Yachthäfen des Atlantiks.",
                 "hu": "Az Atlanti-óceán egyik legnagyobb jachtkikötője.",
                 "ro": "Unul dintre cele mai mari porturi de iahturi de la Atlantic.",
-                "en": "One of the largest marinas on the Atlantic coast."
+                "en": "One of the largest marinas on the Atlantic coast.",
+                "fr": "Une des plus grandes marines de la côte atlantique."
               }
             },
             {
@@ -1177,7 +1195,8 @@
                 "de": "Perfekt für eine Pause im Sand.",
                 "hu": "Tökéletes hely egy pihenőre a homokban.",
                 "ro": "Perfect pentru o pauză pe nisip.",
-                "en": "Perfect for a break on the sand."
+                "en": "Perfect for a break on the sand.",
+                "fr": "Parfait pour une pause sur le sable."
               }
             },
             {
@@ -1186,7 +1205,8 @@
                 "de": "Ein hölzerner Leuchtturm mitten im Wasser.",
                 "hu": "Egy fa világítótorony a víz közepén.",
                 "ro": "Un far din lemn în mijlocul apei.",
-                "en": "A wooden lighthouse sitting in the water."
+                "en": "A wooden lighthouse sitting in the water.",
+                "fr": "Un phare en bois posé dans l'eau."
               }
             },
             {
@@ -1195,7 +1215,8 @@
                 "de": "Radfahren auf den Alleen im Grünen.",
                 "hu": "Biciklizés a zöldellő fasorokon.",
                 "ro": "Mersul pe bicicletă pe aleile înverzite.",
-                "en": "Cycling through the lush green alleys."
+                "en": "Cycling through the lush green alleys.",
+                "fr": "Cyclisme à travers les allées verdoyantes."
               }
             }
           ],
@@ -1341,6 +1362,12 @@
               "Always lock your bike securely.",
               "The 'Bus-de-Mer' water bus takes bicycles.",
               "Pay attention to the tides at the beach."
+            ],
+            "fr": [
+              "Utilisez les pistes cyclables dédiées le long de la côte.",
+              "Verrouillez toujours votre vélo en toute sécurité.",
+              "Le « Bus-de-Mer », navette maritime, accepte les vélos.",
+              "Faites attention aux marées sur la plage."
             ]
           }
         },
@@ -1350,7 +1377,7 @@
             "hu": "Kezdje a biciklitúrát az ókikötőben vízhatlan ruházatban. Az eső misztikus hangulatot kölcsönöz a kikötőnek.\r\nAz Akvárium az első nagy megálló, ahol biztonságban leparkolhatja a bringát, és szárazon fedezheti fel a víz alatti világot.\r\nDélben tekerjen el a Port des Minimes kikötőbe. A parti út esőben üresebb, de vadregényes szépséget rejt.\r\nA délutánt a Phare du Bout du Monde világítótoronynál töltse, mielőtt visszatekerne a Parc Charruyer-n keresztül, ahol a fák némi védelmet nyújtanak.",
             "ro": "Începeți turul cu bicicleta din Portul Vechi echipat cu haine impermeabile. Ploaia oferă o atmosferă mistică portului.\r\nAcvariul este prima oprire importantă, unde puteți parca bicicletele în siguranță și explora lumea submarină la uscat.\r\nLa prânz, pedalați spre Port des Minimes. Drumul de coastă este mai liber pe ploaie, oferind o frumusețe sălbatică.\r\nPetreceți după-amiaza la Phare du Bout du Monde, înainte de a vă întoarce prin Parcul Charruyer, unde arborii oferă puțină protecție.",
             "en": "Start your bike tour at the Vieux Port equipped with waterproof gear. The rain adds a mystical atmosphere to the harbor.\r\nThe Aquarium is your first major stop, where you can park your bikes securely and explore the underwater world while dry.\r\nAt midday, cycle to Port des Minimes. The coastal path is quieter in the rain but offers a rugged beauty.\r\nSpend the afternoon at the Phare du Bout du Monde lighthouse before cycling back through Parc Charruyer, where the trees provide some shelter.",
-            "fr": "Commencez votre tour à vélo au Vieux Port équipé de vêtements imperméables. La pluie ajoute une atmosphère mystique au port.\r\nL'Aquarium est votre première étape majeure, où vous pourrez garer vos vélos en toute sécurité et explorer le monde sous-marin au sec.\r\nÀ la mi-journée, pédalez vers le Port des Minimes. Le sentier côtier est plus calme sous la pluie mais offre une beauté sauvage.\r\nPassez l'après-midi au phare du Bout du Monde avant de revenir par le parc Charruyer, où les arbres offrent un certain abri."
+            "fr": "Commencez votre circuit à vélo au Vieux-Port en étant équipé d'une tenue imperméable. La pluie ajoute une atmosphère mystique au port.\r\nL'Aquarium est votre première grande étape, où vous pouvez garer vos vélos en toute sécurité et explorer le monde sous-marin à l'abri.\r\nÀ midi, pédalez jusqu'au Port des Minimes. Le chemin côtier est plus calme sous la pluie mais offre une beauté sauvage.\r\nPassez l'après-midi au Phare du Bout du Monde avant de revenir en traversant le Parc Charruyer, où les arbres offrent un certain abri."
           },
           "stops": [
             {
@@ -1360,7 +1387,7 @@
                 "hu": "Ellenőrizze a fékeket; a kikötő környéki macskakő nedvesen nagyon csúszós.",
                 "ro": "Verificați frânele; pavajul din zona portului este foarte alunecos când e ud.",
                 "en": "Check your brakes; the cobblestones in the harbor area are very slippery when wet.",
-                "fr": "Vérifiez vos freins ; les pavés du port sont très glissants quand ils sont mouillés."
+                "fr": "Vérifiez vos freins ; les pavés du port sont très glissants quand ils sont mouillés."
               }
             },
             {
@@ -1370,7 +1397,7 @@
                 "hu": "Használja a bejárat közelében található fedett kerékpártárolókat.",
                 "ro": "Folosiți rastelele de biciclete acoperite din apropierea intrării.",
                 "en": "Use the covered bike racks located near the entrance.",
-                "fr": "Utilisez les range-vélos couverts situés près de l'entrée."
+                "fr": "Utilisez les arceaux vélos couverts situés près de l'entrée."
               }
             },
             {
@@ -1380,7 +1407,7 @@
                 "hu": "Óvatosan közlekedjen a fapallókon, mert tükörsimára csúszhatnak.",
                 "ro": "Circulați cu atenție pe pontoanele de lemn, pot fi extrem de alunecoase.",
                 "en": "Ride carefully on the wooden boardwalks; they can be incredibly slippery.",
-                "fr": "Roulez prudemment sur les passerelles en bois ; elles peuvent être incroyablement glissantes."
+                "fr": "Roulez prudemment sur les passerelles en bois ; elles peuvent être extrêmement glissantes."
               }
             },
             {
@@ -1390,7 +1417,7 @@
                 "hu": "Nem fürdőidő, de tökéletes a drámai hullámok fotózásához.",
                 "ro": "Nu este vreme de baie, dar e ideal pentru fotografii cu valurile dramatice.",
                 "en": "Not swimming weather, but perfect for photos of the dramatic waves.",
-                "fr": "Pas un temps pour la baignade, mais parfait pour des photos de vagues spectaculaires."
+                "fr": "Temps pas propice à la baignade, mais parfait pour des photos des vagues spectaculaires."
               }
             },
             {
@@ -1400,7 +1427,7 @@
                 "hu": "Erős szélben ez a nyílt pont nagyon barátságtalan, tartson távolságot a szélétől.",
                 "ro": "Pe vânt puternic, acest punct expus este inconfortabil, stați departe de margine.",
                 "en": "In strong winds, this exposed point is very unpleasant; stay back from the edge.",
-                "fr": "Par vent fort, ce point exposé est très désagréable ; restez à distance du bord."
+                "fr": "Par grand vent, ce promontoire exposé est très désagréable ; restez à l'écart du bord."
               }
             },
             {
@@ -1410,7 +1437,7 @@
                 "hu": "A kiépített utak jobban járhatók, mint a sáros füves területek.",
                 "ro": "Aleile pavate sunt mai ușor de parcurs decât zonele cu iarbă noroioasă.",
                 "en": "The paved paths are easier to ride on than the muddy grassy areas.",
-                "fr": "Les sentiers goudronnés sont plus faciles à pratiquer que les zones herbeuses boueuses."
+                "fr": "Les chemins pavés sont plus faciles à emprunter que les zones herbeuses boueuses."
               }
             }
           ],
@@ -1444,11 +1471,11 @@
               "Watch out for puddles that might hide deep potholes."
             ],
             "fr": [
-              "Évitez de freiner sur les marquages au sol mouillés.",
-              "Utilisez les vélos de location Yélo ; beaucoup sont équipés de garde-boue.",
-              "Arrêtez-vous dans les cafés du Port des Minimes pour vous réchauffer.",
-              "Un poncho de pluie est plus pratique qu'un parapluie à vélo.",
-              "Faites attention aux flaques d'eau qui pourraient cacher des nids-de-poule profonds."
+              "Évitez de freiner sur les marquages routiers mouillés.",
+              "Utilisez les vélos Yélo ; beaucoup sont équipés de garde-boue.",
+              "Faites une pause dans les cafés du Port des Minimes pour vous réchauffer.",
+              "Une cape de pluie est plus pratique qu'un parapluie à vélo.",
+              "Attention aux flaques qui peuvent cacher des nids-de-poule profonds."
             ]
           }
         },
@@ -1458,7 +1485,7 @@
             "hu": "A téli biciklizés La Rochelle-ben jó kesztyűt igényel a tengeri szél ellen. Kezdjen a hűvös ókikötőben.\r\nAz Akvárium kellemes melegedőhely délelőtt. A parti utak télen csodálatosan néptelenek.\r\nDélben éri el a Port des Minimes kikötőt, ahol az alacsonyan járó nap aranyló fénybe vonja a medencét.\r\nA világítótorony után tekerjen vissza, mielőtt 17:00-kor besötétedik. A Parc Charruyer a téli fényekben szinte mesebeli.",
             "ro": "O plimbare cu bicicleta iarna în La Rochelle necesită mănuși bune împotriva vântului marin. Începeți din Portul Vechi răcoros.\r\nAcvariul oferă o pauză binemeritată la căldură în timpul dimineții. Drumurile de coastă sunt superb de pustii iarna.\r\nLa prânz ajungeți în Port des Minimes, unde soarele jos scaldă bazinul portuar în lumină aurie.\r\nDupă o oprire la far, pedalați înapoi înainte de a se întuneca la ora 17:00. Parcul Charruyer pare aproape feeric în lumina iernii.",
             "en": "A winter bike ride in La Rochelle requires good gloves against the sea wind. Start at the chilly Vieux Port.\r\nThe Aquarium offers a welcome warm break in the morning. The coastal paths are wonderfully deserted in winter.\r\nAt midday, reach Port des Minimes, where the low sun bathes the harbor basin in golden light.\r\nAfter a stop at the lighthouse, cycle back before it gets dark at 5:00 PM. Parc Charruyer looks almost fairytale-like in the winter light.",
-            "fr": "Une balade hivernale à vélo à La Rochelle nécessite de bons gants contre le vent marin. Commencez au Vieux Port un peu friquet.\r\nL'Aquarium offre une pause chaleureuse bienvenue le matin. Les sentiers côtiers sont merveilleusement déserts en hiver.\r\nÀ la mi-journée, atteignez le Port des Minimes, où le soleil bas baigne le bassin du port d'une lumière dorée.\r\nAprès un arrêt au phare, revenez avant la tombée de la nuit à 17h00. Le parc Charruyer a un air de conte de fées sous la lumière hivernale."
+            "fr": "Une balade à vélo hivernale à La Rochelle exige de bons gants contre le vent de mer. Commencez au frais Vieux-Port.\r\nL'Aquarium offre une pause chaude bienvenue le matin. Les chemins côtiers sont merveilleusement déserts en hiver.\r\nÀ midi, arrivez au Port des Minimes, où le soleil bas baigne le bassin du port d'une lumière dorée.\r\nAprès un arrêt au phare, rentrez avant la tombée de la nuit vers 17h00. Le Parc Charruyer paraît presque féerique sous la lumière hivernale."
           },
           "stops": [
             {
@@ -1468,7 +1495,7 @@
                 "hu": "Mindenképpen viseljen szélálló ruhát; a kikötői szél télen metsző lehet.",
                 "ro": "Purtați neapărat haine rezistente la vânt; briza din port este tăioasă iarna.",
                 "en": "Make sure to wear windproof clothing; the harbor wind bites in winter.",
-                "fr": "Assurez-vous de porter des vêtements coupe-vent ; le vent du port mord en hiver."
+                "fr": "Veillez à porter des vêtements coupe-vent ; le vent du port mord en hiver."
               }
             },
             {
@@ -1478,7 +1505,7 @@
                 "hu": "Használja a ruhatárat a nehéz télikabátokhoz a látogatás idejére.",
                 "ro": "Folosiți vestiarul pentru hainele grele de iarnă în timpul vizitei.",
                 "en": "Use the lockers for your heavy winter coats during the visit.",
-                "fr": "Utilisez les casiers pour vos manteaux d'hiver lourds pendant la visite."
+                "fr": "Utilisez les consignes pour vos lourds manteaux d'hiver pendant la visite."
               }
             },
             {
@@ -1498,7 +1525,7 @@
                 "hu": "Tökéletes egy gyors, frissítő téli sétához a vízparton.",
                 "ro": "Perfect pentru o plimbare rapidă și revigorantă de iarnă pe malul apei.",
                 "en": "Perfect for a quick, refreshing winter walk along the shoreline.",
-                "fr": "Parfait pour une marche hivernale rapide et rafraîchissante le long du rivage."
+                "fr": "Parfait pour une promenade hivernale rapide et revigorante le long du littoral."
               }
             },
             {
@@ -1508,7 +1535,7 @@
                 "hu": "A világítótorony a tiszta téli fényben gyakran a legjobban mutat a fotókon.",
                 "ro": "Farul arată adesea cel mai bine în fotografii în lumina clară a iernii.",
                 "en": "The lighthouse often looks best in photos under the clear winter light.",
-                "fr": "Le phare est souvent plus photogénique sous la lumière claire de l'hiver."
+                "fr": "Le phare est souvent le plus photogénique sous la lumière claire d'hiver."
               }
             },
             {
@@ -1518,7 +1545,7 @@
                 "hu": "A kopasz fák közül jobban látszanak a villák építészeti részletei.",
                 "ro": "Copacii golași dezvăluie detalii arhitecturale ale vilelor din jur.",
                 "en": "The bare trees reveal architectural details of the surrounding villas.",
-                "fr": "Les arbres dénudés révèlent les détails architecturaux des villas environnantes."
+                "fr": "Les arbres nus révèlent les détails architecturaux des villas alentour."
               }
             }
           ],
@@ -1552,11 +1579,11 @@
               "Avoid cycling during storm warnings (Alerte Météo)."
             ],
             "fr": [
-              "Le coucher du soleil hivernal est vers 17h15 ; prévoyez votre retour à temps.",
-              "De bons gants sont essentiels pour pédaler le long de la côte.",
-              "Vérifiez si les stations Yélo sont opérationnelles pendant les mois d'hiver.",
-              "La lumière pour les photos est idéale entre 10h00 et 15h00.",
-              "Évitez de circuler en cas d'alerte météo ou de tempête."
+              "Le coucher du soleil hivernal se situe vers 17h15 ; prévoyez votre retour à temps.",
+              "De bons gants sont indispensables pour circuler le long de la côte.",
+              "Vérifiez si les stations Yélo sont pleinement opérationnelles pendant les mois d'hiver.",
+              "L'éclairage pour les photos est optimal entre 10h00 et 15h00.",
+              "Évitez de faire du vélo pendant les alertes de tempête (Alerte Météo)."
             ]
           }
         }
@@ -1586,7 +1613,7 @@
             "hu": "Használja a 'Vieux Port Ouest' parkolóházat.",
             "ro": "Folosiți parcarea 'Vieux Port Ouest'.",
             "en": "Use the 'Vieux Port Ouest' parking garage.",
-            "fr": "Utilisez le parking couvert 'Vieux Port Ouest'."
+            "fr": "Utilisez le parking « Vieux Port Ouest »."
           }
         },
         {
@@ -1605,7 +1632,7 @@
             "hu": "A kilátás fentről megfizethetetlen.",
             "ro": "Vederea de sus este de neprețuit.",
             "en": "The view from the top is priceless.",
-            "fr": "La vue d'en haut est inestimable."
+            "fr": "La vue du sommet est inestimable."
           }
         },
         {
@@ -1624,7 +1651,7 @@
             "hu": "Fizetős híd, nagyszerű építészet.",
             "ro": "Pod cu taxă, arhitectură deosebită.",
             "en": "Toll bridge with great architectural design.",
-            "fr": "Pont à péage au design architectural remarquable."
+            "fr": "Pont à péage avec un beau design architectural."
           }
         },
         {
@@ -1690,7 +1717,7 @@
         "hu": "Autóval szabadon felfedezheti La Rochelle belvárosát és a közeli Île de Ré szigetét is. Kezdje a reggelt a piacon, nézze meg a történelmi tornyokat, majd keljen át a látványos hídon a szigetre.\n\nEbédidőben sétáljon Saint-Martin-de-Ré bájos kikötőjében, a sziget szívében, amely erődítményeiről és hangulatos kávézóiról ismert. A sziget hangulata egyszerre pihentető és elegáns.\n\nDélután autózzon el a sziget legnyugatibb csücskébe a Phare des Baleines világítótoronyhoz. A megmászása jutalmaként lélegzetelállító kilátás nyílik az Atlanti-óceánra és a végtelen homokos strandokra.\n\nEste térjen vissza La Rochelle-be, és élvezze az utolsó vacsorát a modern Les Minimes negyedben, ahol kényelmesen parkolhat, és felidézheti a nap eseményeit.",
         "ro": "Cu mașina, aveți libertatea de a explora atât centrul orașului La Rochelle, cât și insula învecinată Île de Ré. Începeți dimineața la piață și vizitați turnurile istorice înainte de a traversa podul spectaculos către insulă.\n\nLa prânz, plimbați-vă prin portul fermecător din Saint-Martin-de-Ré, inima insulei, cunoscut pentru fortificațiile sale și cafenelele primitoare. Atmosfera de pe insulă este relaxată și elegantă în același timp.\n\nDupă-amiaza, conduceți până în cel mai vestict punct al insulei, la Phare des Baleines. Urcarea este răsplătită cu o vedere uluitoare peste Atlantic și plajele vaste de nisip.\n\nSeara, reveniți în La Rochelle și bucurați-vă de o ultimă cină în cartierul modern Les Minimes, unde puteți parca ușor și puteți trece în revistă evenimentele zilei.",
         "en": "By car, you have the freedom to explore both La Rochelle's city center and the nearby Île de Ré. Start your morning at the market and visit the historic towers before crossing the spectacular bridge to the island.\n\nAt midday, stroll through the charming harbor of Saint-Martin-de-Ré, the heart of the island, known for its fortifications and cozy cafes. The island atmosphere is relaxed and chic at the same time.\n\nIn the afternoon, drive to the westernmost tip of the island to the Phare des Baleines. Climbing it rewards you with a breathtaking view over the Atlantic and vast sandy beaches.\n\nReturn to La Rochelle in the evening and enjoy a final dinner in the modern Les Minimes district, where parking is easy and you can reflect on the day's highlights.",
-        "fr": "En voiture, vous avez la liberté d'explorer à la fois le centre de La Rochelle et l'île de Ré voisine. Commencez votre matinée au marché et visitez les tours historiques avant de traverser le pont spectaculaire vers l'île.\n\nÀ la mi-journée, flânez dans le charmant port de Saint-Martin-de-Ré, le cœur de l'île, connu pour ses fortifications et ses cafés accueillants. L'atmosphère de l'île est à la fois décontractée et chic.\n\nL'après-midi, roulez jusqu'à la pointe ouest de l'île vers le phare des Baleines. Y monter vous récompensera par une vue imprenable sur l'Atlantique et de vastes plages de sable.\n\nRevenez à La Rochelle le soir et profitez d'un dernier dîner dans le quartier moderne des Minimes, où le stationnement est facile et où vous pourrez repenser aux moments forts de la journée."
+        "fr": "En voiture, vous êtes libre d'explorer le centre-ville de La Rochelle et la proche Île de Ré. Commencez la matinée au marché et visitez les tours historiques avant de traverser le pont spectaculaire vers l'île.\n\nÀ midi, flânez dans le charmant port de Saint-Martin-de-Ré, cœur de l'île, connu pour ses fortifications et ses cafés conviviaux. L'atmosphère insulaire est à la fois détendue et chic.\n\nL'après-midi, conduisez jusqu'à l'extrémité ouest de l'île, au Phare des Baleines. L'ascension récompense par une vue imprenable sur l'Atlantique et de vastes plages de sable.\n\nRetournez à La Rochelle en soirée et savourez un dernier dîner dans le moderne quartier des Minimes, où le stationnement est aisé et vous pourrez revenir sur les moments forts de la journée."
       },
       "gastro_picks": {
         "de": [
@@ -1864,10 +1891,10 @@
           "Watch out for speed limits on the island."
         ],
         "fr": [
-          "Le passage du pont vers l'île de Ré est payant.",
+          "Le pont vers l'Île de Ré est payant.",
           "Se garer à Saint-Martin peut être difficile en été.",
           "Réservez les restaurants de l'île à l'avance.",
-          "Attention aux limitations de vitesse sur l'île."
+          "Faites attention aux limitations de vitesse sur l'île."
         ]
       },
       "variants": {
@@ -1876,7 +1903,8 @@
             "de": "Mit dem Auto haben Sie die Freiheit, sowohl das Stadtzentrum von La Rochelle als auch die nahegelegene Île de Ré zu erkunden. Beginnen Sie morgens am Markt und besuchen Sie die historischen Türme, bevor Sie die spektakuläre Brücke zur Insel überqueren.\n\nMittags schlendern Sie durch den charmanten Hafen von Saint-Martin-de-Ré, dem Herz der Insel, bekannt für seine Festungsanlagen und gemütlichen Cafés. Die Inselatmosphäre ist entspannt und chic zugleich.\n\nAm Nachmittag fahren Sie bis zur westlichsten Spitze der Insel zum Phare des Baleines. Der Aufstieg wird mit einem atemberaubenden Blick über den Atlantik und die weiten Sandstrände belohnt.\n\nKehren Sie am Abend nach La Rochelle zurück und genießen Sie ein letztes Abendessen im modernen Viertel Les Minimes, wo Sie bequem parken und den Tag Revue passieren lassen können.",
             "hu": "Autóval szabadon felfedezheti La Rochelle belvárosát és a közeli Île de Ré szigetét is. Kezdje a reggelt a piacon, nézze meg a történelmi tornyokat, majd keljen át a látványos hídon a szigetre.\n\nEbédidőben sétáljon Saint-Martin-de-Ré bájos kikötőjében, a sziget szívében, amely erődítményeiről és hangulatos kávézóiról ismert. A sziget hangulata egyszerre pihentető és elegáns.\n\nDélután autózzon el a sziget legnyugatibb csücskébe a Phare des Baleines világítótoronyhoz. A megmászása jutalmaként lélegzetelállító kilátás nyílik az Atlanti-óceánra és a végtelen homokos strandokra.\n\nEste térjen vissza La Rochelle-be, és élvezze az utolsó vacsorát a modern Les Minimes negyedben, ahol kényelmesen parkolhat, és felidézheti a nap eseményeit.",
             "ro": "Cu mașina, aveți libertatea de a explora atât centrul orașului La Rochelle, cât și insula învecinată Île de Ré. Începeți dimineața la piață și vizitați turnurile istorice înainte de a traversa podul spectaculos către insulă.\n\nLa prânz, plimbați-vă prin portul fermecător din Saint-Martin-de-Ré, inima insulei, cunoscut pentru fortificațiile sale și cafenelele primitoare. Atmosfera de pe insulă este relaxată și elegantă în același timp.\n\nDupă-amiaza, conduceți până în cel mai vestict punct al insulei, la Phare des Baleines. Urcarea este răsplătită cu o vedere uluitoare peste Atlantic și plajele vaste de nisip.\n\nSeara, reveniți în La Rochelle și bucurați-vă de o ultimă cină în cartierul modern Les Minimes, unde puteți parca ușor și puteți trece în revistă evenimentele zilei.",
-            "en": "By car, you have the freedom to explore both La Rochelle's city center and the nearby Île de Ré. Start your morning at the market and visit the historic towers before crossing the spectacular bridge to the island.\n\nAt midday, stroll through the charming harbor of Saint-Martin-de-Ré, the heart of the island, known for its fortifications and cozy cafes. The island atmosphere is relaxed and chic at the same time.\n\nIn the afternoon, drive to the westernmost tip of the island to the Phare des Baleines. Climbing it rewards you with a breathtaking view over the Atlantic and vast sandy beaches.\n\nReturn to La Rochelle in the evening and enjoy a final dinner in the modern Les Minimes district, where parking is easy and you can reflect on the day's highlights."
+            "en": "By car, you have the freedom to explore both La Rochelle's city center and the nearby Île de Ré. Start your morning at the market and visit the historic towers before crossing the spectacular bridge to the island.\n\nAt midday, stroll through the charming harbor of Saint-Martin-de-Ré, the heart of the island, known for its fortifications and cozy cafes. The island atmosphere is relaxed and chic at the same time.\n\nIn the afternoon, drive to the westernmost tip of the island to the Phare des Baleines. Climbing it rewards you with a breathtaking view over the Atlantic and vast sandy beaches.\n\nReturn to La Rochelle in the evening and enjoy a final dinner in the modern Les Minimes district, where parking is easy and you can reflect on the day's highlights.",
+            "fr": "En voiture, vous êtes libre d'explorer le centre-ville de La Rochelle et la proche Île de Ré. Commencez la matinée au marché et visitez les tours historiques avant de traverser le pont spectaculaire vers l'île.\n\nÀ midi, flânez dans le charmant port de Saint-Martin-de-Ré, cœur de l'île, connu pour ses fortifications et ses cafés conviviaux. L'atmosphère insulaire est à la fois détendue et chic.\n\nL'après-midi, conduisez jusqu'à l'extrémité ouest de l'île, au Phare des Baleines. L'ascension récompense par une vue imprenable sur l'Atlantique et de vastes plages de sable.\n\nRetournez à La Rochelle en soirée et savourez un dernier dîner dans le moderne quartier des Minimes, où le stationnement est aisé et vous pourrez revenir sur les moments forts de la journée."
           },
           "stops": [
             {
@@ -1885,7 +1913,8 @@
                 "de": "Parkhaus 'Vieux Port Ouest' nutzen.",
                 "hu": "Használja a 'Vieux Port Ouest' parkolóházat.",
                 "ro": "Folosiți parcarea 'Vieux Port Ouest'.",
-                "en": "Use the 'Vieux Port Ouest' parking garage."
+                "en": "Use the 'Vieux Port Ouest' parking garage.",
+                "fr": "Utilisez le parking « Vieux Port Ouest »."
               }
             },
             {
@@ -1894,7 +1923,8 @@
                 "de": "Der Blick von oben ist unbezahlbar.",
                 "hu": "A kilátás fentről megfizethetetlen.",
                 "ro": "Vederea de sus este de neprețuit.",
-                "en": "The view from the top is priceless."
+                "en": "The view from the top is priceless.",
+                "fr": "La vue du sommet est inestimable."
               }
             },
             {
@@ -1903,7 +1933,8 @@
                 "de": "Mautpflichtige Brücke, tolle Architektur.",
                 "hu": "Fizetős híd, nagyszerű építészet.",
                 "ro": "Pod cu taxă, arhitectură deosebită.",
-                "en": "Toll bridge with great architectural design."
+                "en": "Toll bridge with great architectural design.",
+                "fr": "Pont à péage avec un beau design architectural."
               }
             },
             {
@@ -1912,7 +1943,8 @@
                 "de": "UNESCO-Weltkulturerbe Zitadelle.",
                 "hu": "UNESCO Világörökség része, a citadella.",
                 "ro": "Citadela inclusă în patrimoniul UNESCO.",
-                "en": "UNESCO World Heritage citadel."
+                "en": "UNESCO World Heritage citadel.",
+                "fr": "Citadelle classée au patrimoine mondial de l'UNESCO."
               }
             },
             {
@@ -1921,7 +1953,8 @@
                 "de": "257 Stufen für ein 360-Grad-Panorama.",
                 "hu": "257 lépcső a 360 fokos panorámáért.",
                 "ro": "257 de trepte pentru o panoramă de 360 de grade.",
-                "en": "257 steps for a 360-degree panorama."
+                "en": "257 steps for a 360-degree panorama.",
+                "fr": "257 marches pour un panorama à 360 degrés."
               }
             },
             {
@@ -1930,7 +1963,8 @@
                 "de": "Abendessen mit Blick auf die Segelschiffe.",
                 "hu": "Vacsora kilátással a vitorlásokra.",
                 "ro": "Cină cu vedere la ambarcațiunile cu pânze.",
-                "en": "Dinner with a view of the sailing boats."
+                "en": "Dinner with a view of the sailing boats.",
+                "fr": "Dîner avec vue sur les voiliers."
               }
             }
           ],
@@ -2076,6 +2110,12 @@
               "Parking in Saint-Martin can be difficult in summer.",
               "Book island restaurants in advance.",
               "Watch out for speed limits on the island."
+            ],
+            "fr": [
+              "Le pont vers l'Île de Ré est payant.",
+              "Se garer à Saint-Martin peut être difficile en été.",
+              "Réservez les restaurants de l'île à l'avance.",
+              "Faites attention aux limitations de vitesse sur l'île."
             ]
           }
         },
@@ -2085,7 +2125,7 @@
             "hu": "Autóval az eső nem akadály La Rochelle-ben. Kezdjen szárazon a Les Halles piacnál, majd csodálja meg a tornyokat a kocsiból.\r\nAz Île de Ré hídján való átkelés esőben különösen drámai, amikor a tajték felcsap az útra.\r\nDélben fedezze fel Saint-Martin-de-Ré-t, ahol közvetlenül a kikötőben parkolhat, és gyorsan beugorhat egy hangulatos bisztróba.\r\nA délután a Phare des Baleines-nél vad természeti látványt nyújt, mielőtt visszatérne Port des Minimes-be, ahol közvetlenül az étteremnél állhat meg.",
             "ro": "Cu mașina, ploaia nu este un obstacol în La Rochelle. Începeți la adăpost la piața Les Halles, apoi admirați turnurile din autovehicul.\r\nTraversarea podului spre Île de Ré este spectaculoasă pe ploaie, cu valurile care se sparg dedesubt.\r\nLa prânz explorați Saint-Martin-de-Ré, unde puteți parca chiar în port și intra rapid într-un bistro primitor.\r\nDupă-amiaza la Phare des Baleines oferă un spectacol natural sălbatic înainte de a reveni în Port des Minimes, unde puteți parca direct lângă restaurant.",
             "en": "By car, the rain in La Rochelle is no obstacle. Start dry at the Les Halles market, then admire the towers from the comfort of your vehicle.\r\nThe drive across the Pont de l'Île de Ré is particularly dramatic in the rain as the spray whips up against the bridge.\r\nAt midday, explore Saint-Martin-de-Ré, where you can park right in the harbor and quickly duck into a cozy bistro.\r\nThe afternoon at Phare des Baleines offers a wild natural spectacle before returning to Port des Minimes, where you can park right by your dining spot.",
-            "fr": "En voiture, la pluie à La Rochelle n'est pas un obstacle. Commencez au sec au marché des Halles, puis admirez les tours depuis le confort de votre véhicule.\r\nLa traversée du pont de l'île de Ré est particulièrement impressionnante sous la pluie avec les embruns qui fouettent le pont.\r\nÀ la mi-journée, explorez Saint-Martin-de-Ré, où vous pourrez vous garer directement sur le port et vous réfugier rapidement dans un bistro chaleureux.\r\nL'après-midi au phare des Baleines offre un spectacle naturel sauvage avant de retourner au Port des Minimes, où vous pourrez vous garer juste devant votre restaurant."
+            "fr": "En voiture, la pluie à La Rochelle n'est pas un obstacle. Commencez au sec au marché des Halles, puis admirez les tours depuis le confort de votre véhicule.\r\nLa traversée du Pont de l'Île de Ré est particulièrement impressionnante sous la pluie, lorsque les embruns fouettent le pont.\r\nÀ midi, explorez Saint-Martin-de-Ré, où vous pouvez vous garer au bord du port et vous abriter rapidement dans un bistrot chaleureux.\r\nL'après-midi au Phare des Baleines offre un spectacle naturel sauvage avant de revenir au Port des Minimes, où vous pouvez vous garer juste à côté de votre restaurant."
           },
           "stops": [
             {
@@ -2095,7 +2135,7 @@
                 "hu": "Parkoljon a 'Vieux Port Ouest' parkolóházban a piac közeli, száraz megközelítéséhez.",
                 "ro": "Parcați în parcarea subterană 'Vieux Port Ouest' pentru un acces scurt și uscat la piață.",
                 "en": "Park in the 'Vieux Port Ouest' garage for a short, dry walk to the market.",
-                "fr": "Garez-vous au parking 'Vieux Port Ouest' pour une courte marche au sec jusqu'au marché."
+                "fr": "Garez-vous au garage « Vieux Port Ouest » pour une courte promenade au sec jusqu'au marché."
               }
             },
             {
@@ -2105,7 +2145,7 @@
                 "hu": "A tornyok jól láthatók a Quai Duperré-ről az autóból is.",
                 "ro": "Puteți vedea bine turnurile de pe Quai Duperré direct din mașină.",
                 "en": "You can get a great view of the towers from Quai Duperré without leaving the car.",
-                "fr": "Vous pouvez avoir une superbe vue sur les tours depuis le quai Duperré sans quitter la voiture."
+                "fr": "Vous pouvez obtenir une belle vue des tours depuis le Quai Duperré sans quitter la voiture."
               }
             },
             {
@@ -2115,7 +2155,7 @@
                 "hu": "Vigyázat az erős oldalszéllel a hídon; tartsa mindkét kezét a kormányon.",
                 "ro": "Atenție la vântul lateral puternic pe pod; țineți ambele mâini pe volan.",
                 "en": "Watch out for strong crosswinds on the bridge; keep both hands on the wheel.",
-                "fr": "Attention aux vents latéraux violents sur le pont ; gardez bien les deux mains sur le volant."
+                "fr": "Attention aux fortes rafales latérales sur le pont ; gardez les deux mains sur le volant."
               }
             },
             {
@@ -2125,7 +2165,7 @@
                 "hu": "Használja a kikötői parkolót (Parking du Port), hogy minimálisat kelljen gyalogolnia az esőben.",
                 "ro": "Folosiți parcarea din port (Parking du Port) pentru a merge cât mai puțin prin ploaie.",
                 "en": "Use the harbor parking lot (Parking du Port) to minimize walking in the rain.",
-                "fr": "Utilisez le parking du port pour minimiser la marche sous la pluie."
+                "fr": "Utilisez le parking du port (Parking du Port) pour minimiser la marche sous la pluie."
               }
             },
             {
@@ -2135,7 +2175,7 @@
                 "hu": "A világítótoronyba való feljutás esőben fárasztó, de a kilátás gyakran misztikus.",
                 "ro": "Urcarea în far este obositoare pe ploaie, dar priveliștea este adesea mistică.",
                 "en": "Climbing the lighthouse is tiring in the rain, but the view is often mystical.",
-                "fr": "Monter au phare est fatiguant sous la pluie, mais la vue est souvent mystique."
+                "fr": "Monter au phare est fatigant sous la pluie, mais la vue est souvent mystique."
               }
             },
             {
@@ -2145,7 +2185,7 @@
                 "hu": "Számos itteni étteremnek van ingyenes parkolója közvetlenül az ajtó előtt.",
                 "ro": "Multe restaurante de aici au locuri de parcare gratuite chiar în față.",
                 "en": "Many restaurants here have free parking right in front of the entrance.",
-                "fr": "De nombreux restaurants ici disposent de parkings gratuits juste devant l'entrée."
+                "fr": "Beaux nombreux restaurants disposent de places de parking gratuites juste devant l'entrée."
               }
             }
           ],
@@ -2179,11 +2219,11 @@
               "Do not drive across the Île de Ré bridge during storm warnings."
             ],
             "fr": [
-              "Utilisez les parkings couverts pour rester au sec en accédant au centre-ville.",
-              "Le péage du pont de l'île de Ré est moins cher en hiver qu'en saison estivale.",
-              "Attention aux flaques d'eau sur le quai ; l'eau salée n'est pas bonne pour votre carrosserie.",
-              "Saint-Martin-de-Ré est beaucoup plus calme et atmosphérique sous la pluie.",
-              "Ne traversez pas le pont de l'île de Ré en cas d'alerte tempête."
+              "Utilisez les parkings couverts pour rester au sec en entrant dans le centre-ville.",
+              "Le péage du pont vers l'Île de Ré est moins cher en hiver qu'en saison estivale.",
+              "Faites attention aux flaques sur le quai ; l'eau salée est néfaste pour votre voiture.",
+              "Saint-Martin-de-Ré est beaucoup plus calme et plus atmosphérique sous la pluie.",
+              "Ne traversez pas le pont de l'Île de Ré en cas d'alerte tempête."
             ]
           }
         },
@@ -2193,7 +2233,7 @@
             "hu": "A téli autós túra a Charente-Maritime tiszta levegőjén keresztül vezet. A Les Halles piac télen különösen hangulatos.\r\nAz Île de Ré hídján való átkelés télen fantasztikus kilátást nyújt a szárazföldre és a szigetre.\r\nDélben élvezze a nyugalmat Saint-Martin-de-Ré-ben, ahol a citadella a téli fényekben különösen impozáns.\r\nA Phare des Baleines-nél megtapasztalhatja a nyers atlanti levegőt, mielőtt felmelegedne az autóban, és visszatérne Port des Minimes-be egy forró vacsorára.",
             "ro": "Un tur cu mașina iarna vă poartă prin aerul curat al regiunii Charente-Maritime. Piața Les Halles este deosebit de primitoare iarna.\r\nTraversarea podului Île de Ré iarna oferă o vizibilitate fantastică asupra continentului și a insulei.\r\nLa prânz, bucurați-vă de liniștea din Saint-Martin-de-Ré, unde citadela pare impunătoare în lumina iernii.\r\nLa Phare des Baleines veți simți aerul tăios al Atlanticului înainte de a vă încălzi în mașină și a reveni în Port des Minimes pentru o cină caldă.",
             "en": "A winter car tour takes you through the crisp air of Charente-Maritime. The Les Halles market is especially cozy during the winter months.\r\nCrossing the Île de Ré bridge in winter offers fantastic long-distance views of both the mainland and the island.\r\nAt midday, enjoy the tranquility of Saint-Martin-de-Ré, where the citadel looks particularly imposing in the winter light.\r\nAt Phare des Baleines, experience the raw Atlantic air before warming up in the car and returning to Port des Minimes for a hearty dinner.",
-            "fr": "Un tour en voiture en hiver vous emmène dans l'air vif de la Charente-Maritime. Le marché des Halles est particulièrement chaleureux pendant les mois d'hiver.\r\nLa traversée du pont de l'île de Ré en hiver offre des vues lointaines fantastiques sur le continent et l'île.\r\nÀ la mi-journée, profitez de la tranquillité de Saint-Martin-de-Ré, où la citadelle est imposante sous la lumière hivernale.\r\nAu phare des Baleines, découvrez l'air pur de l'Atlantique avant de vous réchauffer dans la voiture et de retourner au Port des Minimes pour un dîner copieux."
+            "fr": "Une visite en voiture hivernale vous emmène dans l'air vif de la Charente-Maritime. Le marché des Halles est particulièrement chaleureux pendant les mois d'hiver.\r\nTraverser le pont de l'Île de Ré en hiver offre de fantastiques vues lointaines à la fois sur le continent et sur l'île.\r\nÀ midi, profitez de la tranquillité de Saint-Martin-de-Ré, où la citadelle paraît particulièrement imposante sous la lumière hivernale.\r\nAu Phare des Baleines, respirez l'air brut de l'Atlantique avant de vous réchauffer dans la voiture et de retourner au Port des Minimes pour un dîner copieux."
           },
           "stops": [
             {
@@ -2213,7 +2253,7 @@
                 "hu": "Télen a sorok jóval rövidebbek, mint a nyári időszakban.",
                 "ro": "Iarna, cozile sunt mult mai scurte decât în timpul verii.",
                 "en": "Wait times are significantly shorter in winter compared to the summer.",
-                "fr": "Les temps d'attente sont nettement plus courts en hiver par rapport à l'été."
+                "fr": "Les temps d'attente sont nettement plus courts en hiver qu'en été."
               }
             },
             {
@@ -2223,7 +2263,7 @@
                 "hu": "Az útdíj szeptember közepétől a téli tarifára csökken.",
                 "ro": "Taxa de trecere scade la tariful de iarnă începând cu mijlocul lunii septembrie.",
                 "en": "The toll drops to the winter rate starting in mid-September.",
-                "fr": "Le tarif du péage baisse au prix d'hiver à partir de la mi-septembre."
+                "fr": "Le péage passe au tarif hivernal à partir de la mi-septembre."
               }
             },
             {
@@ -2253,7 +2293,7 @@
                 "hu": "Számos étteremben van télen hangulatos kandalló vagy fűtés.",
                 "ro": "Multe restaurante au șeminee primitoare sau încălzire în timpul iernii.",
                 "en": "Many restaurants have cozy fireplaces or heating during the winter.",
-                "fr": "De nombreux restaurants disposent de cheminées ou de chauffages accueillants en hiver."
+                "fr": "Beaux restaurants disposent souvent de cheminées ou de chauffage en hiver."
               }
             }
           ],
@@ -2287,11 +2327,11 @@
               "Keep a blanket in the car if you plan to stay by the sea for a while."
             ],
             "fr": [
-              "Profitez du tarif hivernal pour le pont de l'île de Ré (environ 8€ au lieu de 16€).",
-              "Prévoyez votre retour de l'île avant le coucher du soleil (17h15).",
-              "Faites attention aux plaques de givre sur la route après des nuits glaciales.",
+              "Profitez du tarif hivernal du péage pour le pont de l'Île de Ré (env. 8€ au lieu de 16€).",
+              "Prévoyez votre retour de l'île avant le coucher du soleil (17:15).",
+              "Attention aux plaques de verglas sur la route après les nuits glacées.",
               "Les tarifs de stationnement à Saint-Martin sont souvent réduits pendant la saison hivernale.",
-              "Gardez une couverture dans la voiture si vous prévoyez de rester un moment au bord de la mer."
+              "Gardez une couverture dans la voiture si vous comptez rester un moment au bord de la mer."
             ]
           }
         }
@@ -2340,7 +2380,7 @@
             "hu": "Sok járat központi átszállópontja.",
             "ro": "Punct central de transfer pentru multe linii.",
             "en": "Central transfer point for many lines.",
-            "fr": "Point de transfert central pour de nombreuses lignes."
+            "fr": "Point de correspondance central pour de nombreuses lignes."
           }
         },
         {
@@ -2378,7 +2418,7 @@
             "hu": "Elektromos hajójárat Les Minimes-be.",
             "ro": "Feribot electric către Les Minimes.",
             "en": "Electric water bus to Les Minimes.",
-            "fr": "Bateau-bus électrique vers Les Minimes."
+            "fr": "Navette maritime électrique vers Les Minimes."
           }
         },
         {
@@ -2397,7 +2437,7 @@
             "hu": "'Plage' buszmegálló közvetlenül a strandon.",
             "ro": "Stația de autobuz 'Plage' chiar lângă plajă.",
             "en": "Bus stop 'Plage' is right by the beach.",
-            "fr": "L'arrêt de bus 'Plage' est juste à côté de la plage."
+            "fr": "L'arrêt de bus « Plage » est juste à côté de la plage."
           }
         },
         {
@@ -2416,7 +2456,7 @@
             "hu": "Az 'Aquarium' megálló sűrűn kiszolgált.",
             "ro": "Stația 'Aquarium' este deservită frecvent.",
             "en": "The 'Aquarium' stop is served frequently.",
-            "fr": "L'arrêt 'Aquarium' est desservi fréquemment."
+            "fr": "L'arrêt « Aquarium » est desservi fréquemment."
           }
         }
       ],
@@ -2425,7 +2465,7 @@
         "hu": "Használja a kiváló Yélo hálózatot La Rochelle stresszmentes felfedezéséhez. Kezdje a központban, a piacon, majd sétáljon el a Vieux Port-hoz, ahonnan felszállhat a Bus-de-Mer-re, az egyedülálló elektromos hajójáratra.\n\nEbédidőben a hajós átkelés pompás kilátást nyújt La Rochelle látképére és a tornyokra, mielőtt kikötne a modern Les Minimes negyedben. Ez a legpihentetőbb módja a jachtkikötőhöz való eljutásnak.\n\nA délután a napfényé és a tengeré a Minimes strandon, amely busszal vagy hajóval is kényelmesen elérhető. Élvezze a tengerparti hangulatot parkolási gondok nélkül.\n\nBefejezésül a busz közvetlenül az Akváriumhoz viszi, amely a város egyik fénypontja. Onnan már csak néhány lépés a történelmi központ, ahol egy ital mellett zárhatja az estét.",
         "ro": "Utilizați excelenta rețea Yélo pentru a explora La Rochelle fără stres. Începeți în centru, la piață, și plimbați-vă până în Vieux Port, de unde puteți lua Bus-de-Mer, un feribot electric unic.\n\nLa prânz, traversarea cu barca oferă o vedere superbă asupra liniei orizontului din La Rochelle și asupra turnurilor, înainte de a ancora în cartierul modern Les Minimes. Este cel mai relaxant mod de a parcurge distanța până la portul de iahturi.\n\nDupă-amiaza este dedicată soarelui și mării pe plaja Minimes, accesibilă ușor cu autobuzul sau barca. Bucurați-vă de atmosfera maritimă fără grija parcării.\n\nLa final, autobuzul vă duce direct la Acvariu, unul dintre punctele forte ale orașului. De acolo, sunteți la doar câțiva pași de centrul istoric, unde puteți încheia seara cu o băutură.",
         "en": "Use the excellent Yélo network to explore La Rochelle stress-free. Start in the center at the market and stroll to the Old Port, where you can board the Bus-de-Mer, a unique electric water bus.\n\nAt midday, the boat crossing offers a splendid view of the La Rochelle skyline and its towers before docking in the modern Les Minimes district. It's the most relaxing way to bridge the distance to the marina.\n\nIn the afternoon, enjoy the sun and sea at Minimes beach, easily reachable by bus or boat. Soak up the maritime flair without worrying about parking.\n\nTo wrap up, the bus takes you directly to the Aquarium, one of the city's highlights. From there, it's just a short walk back to the historic center, where you can end the evening with a drink.",
-        "fr": "Utilisez l'excellent réseau Yélo pour explorer La Rochelle sans stress. Commencez dans le centre au marché et flânez jusqu'au Vieux Port, où vous pourrez embarquer sur le Bus-de-Mer, un bateau-bus électrique unique.\n\nÀ la mi-journée, la traversée offre une vue splendide sur la silhouette de La Rochelle et ses tours avant d'accoster dans le quartier moderne des Minimes. C'est la façon la plus relaxante de rejoindre la marina.\n\nL'après-midi, profitez du soleil et de la mer à la plage des Minimes, facilement accessible en bus ou en bateau. Imprégnez-vous de l'ambiance maritime sans vous soucier du stationnement.\n\nPour finir, le bus vous emmène directement à l'Aquarium, l'un des points forts de la ville. De là, il ne reste qu'une courte marche pour rejoindre le centre historique et terminer la soirée avec un verre."
+        "fr": "Utilisez le excellent réseau Yélo pour explorer La Rochelle sans stress. Commencez au centre, au marché, puis promenez-vous jusqu'au Vieux Port où vous pouvez embarquer sur le Bus-de-Mer, une navette maritime électrique unique.\n\nÀ midi, la traversée en bateau offre une vue splendide sur la silhouette de La Rochelle et ses tours avant d'accoster dans le moderne quartier des Minimes. C'est le moyen le plus relaxant de relier le centre à la marina.\n\nL'après-midi, profitez du soleil et de la mer à la plage des Minimes, facilement accessible en bus ou en bateau. Profitez de l'ambiance maritime sans vous soucier du stationnement.\n\nPour conclure, le bus vous mène directement à l'Aquarium, l'un des points forts de la ville. De là, il ne reste qu'une courte promenade pour retourner au centre historique et terminer la soirée autour d'un verre."
       },
       "gastro_picks": {
         "de": [
@@ -2555,8 +2595,8 @@
         ],
         "fr": [
           "Achetez un pass journée pour le réseau Yélo.",
-          "Le bateau-bus est inclus dans le pass (ou avec un petit supplément).",
-          "Téléchargez l'application Yélo pour les informations en temps réel.",
+          "La navette maritime est incluse dans le pass (ou avec un petit supplément).",
+          "Téléchargez l'application Yélo pour des infos en temps réel.",
           "Les bus circulent très fréquemment dans le centre."
         ]
       },
@@ -2566,7 +2606,8 @@
             "de": "Nutzen Sie das ausgezeichnete Yélo-Netzwerk, um La Rochelle stressfrei zu erkunden. Beginnen Sie im Zentrum am Markt und schlendern Sie zum Vieux Port, von wo aus Sie den Bus-de-Mer, eine einzigartige Elektroboot-Fähre, nehmen.\n\nMittags bietet die Überfahrt mit dem Boot einen herrlichen Blick auf die Skyline von La Rochelle und die Türme, bevor Sie im modernen Viertel Les Minimes anlegen. Es ist die entspannteste Art, die Distanz zum Yachthafen zu überbrücken.\n\nDer Nachmittag steht im Zeichen von Sonne und Meer am Strand von Minimes, der bequem per Bus oder Boot erreichbar ist. Genießen Sie das maritime Flair, ohne sich um Parkplätze sorgen zu müssen.\n\nZum Abschluss bringt Sie der Bus direkt zum Aquarium, einem der Highlights der Stadt. Von dort sind es nur wenige Schritte zurück ins historische Zentrum, wo Sie den Abend bei einem Getränk ausklingen lassen können.",
             "hu": "Használja a kiváló Yélo hálózatot La Rochelle stresszmentes felfedezéséhez. Kezdje a központban, a piacon, majd sétáljon el a Vieux Port-hoz, ahonnan felszállhat a Bus-de-Mer-re, az egyedülálló elektromos hajójáratra.\n\nEbédidőben a hajós átkelés pompás kilátást nyújt La Rochelle látképére és a tornyokra, mielőtt kikötne a modern Les Minimes negyedben. Ez a legpihentetőbb módja a jachtkikötőhöz való eljutásnak.\n\nA délután a napfényé és a tengeré a Minimes strandon, amely busszal vagy hajóval is kényelmesen elérhető. Élvezze a tengerparti hangulatot parkolási gondok nélkül.\n\nBefejezésül a busz közvetlenül az Akváriumhoz viszi, amely a város egyik fénypontja. Onnan már csak néhány lépés a történelmi központ, ahol egy ital mellett zárhatja az estét.",
             "ro": "Utilizați excelenta rețea Yélo pentru a explora La Rochelle fără stres. Începeți în centru, la piață, și plimbați-vă până în Vieux Port, de unde puteți lua Bus-de-Mer, un feribot electric unic.\n\nLa prânz, traversarea cu barca oferă o vedere superbă asupra liniei orizontului din La Rochelle și asupra turnurilor, înainte de a ancora în cartierul modern Les Minimes. Este cel mai relaxant mod de a parcurge distanța până la portul de iahturi.\n\nDupă-amiaza este dedicată soarelui și mării pe plaja Minimes, accesibilă ușor cu autobuzul sau barca. Bucurați-vă de atmosfera maritimă fără grija parcării.\n\nLa final, autobuzul vă duce direct la Acvariu, unul dintre punctele forte ale orașului. De acolo, sunteți la doar câțiva pași de centrul istoric, unde puteți încheia seara cu o băutură.",
-            "en": "Use the excellent Yélo network to explore La Rochelle stress-free. Start in the center at the market and stroll to the Old Port, where you can board the Bus-de-Mer, a unique electric water bus.\n\nAt midday, the boat crossing offers a splendid view of the La Rochelle skyline and its towers before docking in the modern Les Minimes district. It's the most relaxing way to bridge the distance to the marina.\n\nIn the afternoon, enjoy the sun and sea at Minimes beach, easily reachable by bus or boat. Soak up the maritime flair without worrying about parking.\n\nTo wrap up, the bus takes you directly to the Aquarium, one of the city's highlights. From there, it's just a short walk back to the historic center, where you can end the evening with a drink."
+            "en": "Use the excellent Yélo network to explore La Rochelle stress-free. Start in the center at the market and stroll to the Old Port, where you can board the Bus-de-Mer, a unique electric water bus.\n\nAt midday, the boat crossing offers a splendid view of the La Rochelle skyline and its towers before docking in the modern Les Minimes district. It's the most relaxing way to bridge the distance to the marina.\n\nIn the afternoon, enjoy the sun and sea at Minimes beach, easily reachable by bus or boat. Soak up the maritime flair without worrying about parking.\n\nTo wrap up, the bus takes you directly to the Aquarium, one of the city's highlights. From there, it's just a short walk back to the historic center, where you can end the evening with a drink.",
+            "fr": "Utilisez le excellent réseau Yélo pour explorer La Rochelle sans stress. Commencez au centre, au marché, puis promenez-vous jusqu'au Vieux Port où vous pouvez embarquer sur le Bus-de-Mer, une navette maritime électrique unique.\n\nÀ midi, la traversée en bateau offre une vue splendide sur la silhouette de La Rochelle et ses tours avant d'accoster dans le moderne quartier des Minimes. C'est le moyen le plus relaxant de relier le centre à la marina.\n\nL'après-midi, profitez du soleil et de la mer à la plage des Minimes, facilement accessible en bus ou en bateau. Profitez de l'ambiance maritime sans vous soucier du stationnement.\n\nPour conclure, le bus vous mène directement à l'Aquarium, l'un des points forts de la ville. De là, il ne reste qu'une courte promenade pour retourner au centre historique et terminer la soirée autour d'un verre."
           },
           "stops": [
             {
@@ -2575,7 +2616,8 @@
                 "de": "Buslinie ILLICO 1 hält in der Nähe.",
                 "hu": "Az ILLICO 1 buszjárat a közelben áll meg.",
                 "ro": "Linia de autobuz ILLICO 1 oprește în apropiere.",
-                "en": "Bus line ILLICO 1 stops nearby."
+                "en": "Bus line ILLICO 1 stops nearby.",
+                "fr": "La ligne de bus ILLICO 1 s'arrête à proximité."
               }
             },
             {
@@ -2584,7 +2626,8 @@
                 "de": "Zentraler Umsteigepunkt für viele Linien.",
                 "hu": "Sok járat központi átszállópontja.",
                 "ro": "Punct central de transfer pentru multe linii.",
-                "en": "Central transfer point for many lines."
+                "en": "Central transfer point for many lines.",
+                "fr": "Point de correspondance central pour de nombreuses lignes."
               }
             },
             {
@@ -2593,7 +2636,8 @@
                 "de": "Vom Kai aus direkt erreichbar.",
                 "hu": "Közvetlenül elérhető a rakpartról.",
                 "ro": "Accesibil direct de pe chei.",
-                "en": "Directly accessible from the quay."
+                "en": "Directly accessible from the quay.",
+                "fr": "Directement accessible depuis le quai."
               }
             },
             {
@@ -2602,7 +2646,8 @@
                 "de": "Elektroboot-Fähre nach Les Minimes.",
                 "hu": "Elektromos hajójárat Les Minimes-be.",
                 "ro": "Feribot electric către Les Minimes.",
-                "en": "Electric water bus to Les Minimes."
+                "en": "Electric water bus to Les Minimes.",
+                "fr": "Navette maritime électrique vers Les Minimes."
               }
             },
             {
@@ -2611,7 +2656,8 @@
                 "de": "Bushaltestelle 'Plage' direkt am Strand.",
                 "hu": "'Plage' buszmegálló közvetlenül a strandon.",
                 "ro": "Stația de autobuz 'Plage' chiar lângă plajă.",
-                "en": "Bus stop 'Plage' is right by the beach."
+                "en": "Bus stop 'Plage' is right by the beach.",
+                "fr": "L'arrêt de bus « Plage » est juste à côté de la plage."
               }
             },
             {
@@ -2620,7 +2666,8 @@
                 "de": "Haltestelle 'Aquarium' wird oft bedient.",
                 "hu": "Az 'Aquarium' megálló sűrűn kiszolgált.",
                 "ro": "Stația 'Aquarium' este deservită frecvent.",
-                "en": "The 'Aquarium' stop is served frequently."
+                "en": "The 'Aquarium' stop is served frequently.",
+                "fr": "L'arrêt « Aquarium » est desservi fréquemment."
               }
             }
           ],
@@ -2730,6 +2777,12 @@
               "The water bus is included in the pass (or a small surcharge).",
               "Download the Yélo app for real-time info.",
               "Buses run very frequently in the center."
+            ],
+            "fr": [
+              "Achetez un pass journée pour le réseau Yélo.",
+              "La navette maritime est incluse dans le pass (ou avec un petit supplément).",
+              "Téléchargez l'application Yélo pour des infos en temps réel.",
+              "Les bus circulent très fréquemment dans le centre."
             ]
           }
         },
@@ -2739,7 +2792,7 @@
             "hu": "A Yélo hálózattal La Rochelle-ben esőben is mobilis maradhat. Kezdjen a Les Halles piacnál, és használja ki a rövid távolságokat az ókikötőig.\r\nA Bus-de-Mer (vízibusz) esőben is élmény: szárazon és védve kelhet át a kikötőn, miközben a cseppek az ablakon kopognak.\r\nDélben éri el a Plage des Minimes-t. A buszmegálló védelmet nyújt, mielőtt beülne egy étterembe.\r\nA délutánt az Akváriumban töltse, amely az ILLICO buszjáratokkal kiválóan megközelíthető, így alig kell az esőben várakoznia.",
             "ro": "Cu rețeaua Yélo, rămâneți mobil în La Rochelle chiar și pe ploaie. Începeți la piața Les Halles și profitați de distanțele scurte până în Portul Vechi.\r\nBus-de-Mer (autobuzul acvatic) este o experiență pe ploaie: traversați bazinul portuar la adăpost în timp ce stropii bat în geamuri.\r\nLa prânz ajungeți la Plage des Minimes. Stația de autobuz oferă adăpost înainte de a intra într-un restaurant.\r\nDupă-amiaza o petreceți la Acvariu, care este perfect conectat prin liniile de autobuz ILLICO, minimizând timpul petrecut în ploaie.",
             "en": "With the Yélo network, you stay mobile in La Rochelle even in the rain. Start at the Les Halles market and take advantage of the short transit links to the Vieux Port.\r\nThe Bus-de-Mer (water bus) is a great experience in the rain: you cross the harbor basin dry and protected while the drops drum against the windows.\r\nAt midday, reach Plage des Minimes. The bus shelter provides cover before you head into a restaurant.\r\nSpend the afternoon at the Aquarium, which is perfectly connected by ILLICO bus lines, so you barely have to stand in the rain.",
-            "fr": "Avec le réseau Yélo, vous restez mobile à La Rochelle même sous la pluie. Commencez au marché des Halles et profitez des liaisons rapides vers le Vieux Port.\r\nLe Bus-de-Mer est une excellente expérience sous la pluie : vous traversez le bassin du port à l'abri pendant que les gouttes tambourinent contre les vitres.\r\nÀ la mi-journée, atteignez la plage des Minimes. L'abri de bus vous protège avant de vous diriger vers un restaurant.\r\nPassez l'après-midi à l'Aquarium, qui est parfaitement desservi par les lignes de bus ILLICO, vous évitant ainsi de rester sous la pluie."
+            "fr": "Avec le réseau Yélo, vous restez mobile à La Rochelle même sous la pluie. Commencez aux Halles et profitez des courtes correspondances vers le Vieux Port.\r\nLe Bus-de-Mer (navette maritime) est une excellente expérience sous la pluie : vous traversez le bassin du port à l'abri et au sec pendant que les gouttes tambourinent contre les vitres.\r\nÀ midi, rejoignez la plage des Minimes. l'abri-bus offre une protection avant d'entrer au restaurant.\r\nPassez l'après-midi à l'Aquarium, parfaitement desservi par les lignes ILLICO, de sorte que vous n'ayez presque pas à attendre sous la pluie."
           },
           "stops": [
             {
@@ -2749,7 +2802,7 @@
                 "hu": "A 'Place du Marché' buszmegálló közvetlenül a piac bejáratánál található.",
                 "ro": "Stația de autobuz 'Place du Marché' se află chiar la intrarea în piață.",
                 "en": "The 'Place du Marché' bus stop is located right at the market entrance.",
-                "fr": "L'arrêt de bus 'Place du Marché' est situé juste à l'entrée du marché."
+                "fr": "L'arrêt de bus « Place du Marché » se situe juste à l'entrée du marché."
               }
             },
             {
@@ -2759,7 +2812,7 @@
                 "hu": "Használja a kikötői kioszkot a jegyvásárláshoz vagy feltöltéshez száraz helyen.",
                 "ro": "Folosiți chioșcul din port pentru a cumpăra sau reîncărca biletele la adăpost.",
                 "en": "Use the harbor kiosk to buy or top up your tickets while staying dry.",
-                "fr": "Utilisez le kiosque du port pour acheter ou recharger vos tickets en restant au sec."
+                "fr": "Utilisez le kiosque du port pour acheter ou recharger vos titres tout en restant au sec."
               }
             },
             {
@@ -2769,7 +2822,7 @@
                 "hu": "A buszmegálló mindössze 2 perc sétára van a toronytól.",
                 "ro": "Stația de autobuz este la doar 2 minute de mers pe jos de turn.",
                 "en": "The bus stop is only a 2-minute walk from the tower.",
-                "fr": "L'arrêt de bus n'est qu'à 2 minutes à pied de la tour."
+                "fr": "L'arrêt de bus est à seulement 2 minutes à pied de la tour."
               }
             },
             {
@@ -2779,7 +2832,7 @@
                 "hu": "Az utastér teljesen zárt, és remek kilátást nyújt az esős kikötőre.",
                 "ro": "Cabina este complet închisă și oferă o vedere excelentă asupra portului pe ploaie.",
                 "en": "The cabin is fully enclosed and offers a great view of the rain over the harbor.",
-                "fr": "La cabine est entièrement fermée et offre une vue imprenable sur la pluie sur le port."
+                "fr": "La cabine est entièrement fermée et offre une belle vue sur la pluie au-dessus du port."
               }
             },
             {
@@ -2799,7 +2852,7 @@
                 "hu": "Az ILLICO 3-as járat szinte közvetlenül az Akvárium előtt áll meg.",
                 "ro": "Linia ILLICO 3 oprește aproape direct în fața Acvariului.",
                 "en": "The ILLICO 3 line stops almost directly in front of the Aquarium.",
-                "fr": "La ligne ILLICO 3 s'arrête presque directement devant l'Aquarium."
+                "fr": "La ligne ILLICO 3 s'arrête presque juste devant l'Aquarium."
               }
             }
           ],
@@ -2833,11 +2886,11 @@
               "Be aware that the Bus-de-Mer may be suspended during very strong storms."
             ],
             "fr": [
-              "Utilisez l'application Yélo pour les infos en temps réel par temps pluvieux.",
-              "Le Bus-de-Mer est le moyen le plus sec de circuler entre le centre et Les Minimes.",
-              "Achetez un ticket journée pour changer de ligne autant que nécessaire pendant les averses.",
-              "Les lignes ILLICO ont une fréquence élevée, idéale en cas de mauvais temps.",
-              "Sachez que le Bus-de-Mer peut être suspendu lors de très fortes tempêtes."
+              "Utilisez l'application Yélo pour des informations en temps réel par temps de pluie.",
+              "Le Bus-de-Mer est le moyen le plus sec de relier le centre et Les Minimes.",
+              "Achetez un billet journée pour transférer entre les services autant que nécessaire pendant les averses.",
+              "Les lignes ILLICO ont une haute fréquence, idéales par mauvais temps.",
+              "Sachez que le Bus-de-Mer peut être suspendu en cas de tempêtes très violentes."
             ]
           }
         },
@@ -2847,7 +2900,7 @@
             "hu": "Télen használja La Rochelle jól fűtött buszait. A reggel a Les Halles piacon kezdődik, amely csak egy ugrásra van a központi megállóktól.\r\nA Bus-de-Mer utazás télen tiszta kilátást nyújt az üres rakpartokra és a téli tornyokra.\r\nDélben a busz gyorsan elviszi Les Minimes-be, ahol élvezheti a friss téli levegőt a strandon anélkül, hogy sokat kellene gyalogolnia.\r\nA délutánt a kellemes hőmérsékletű Akváriumban töltse, mielőtt a kivilágított esti busszal visszatérne a belvárosba.",
             "ro": "Iarna, folosiți autobuzele bine încălzite din La Rochelle. Dimineața începe la piața Les Halles, aflată la doar câțiva pași de stațiile centrale.\r\nO călătorie cu Bus-de-Mer iarna oferă o vedere clară asupra cheiurilor pustii și a turnurilor înzăpezite.\r\nLa prânz, autobuzul vă duce rapid în Les Minimes, unde puteți savura aerul curat de iarnă pe plajă fără a merge mult pe jos.\r\nPetreceți după-amiaza în Acvariul bine încălzit înainte de a lua autobuzul de seară iluminat înapoi spre centrul orașului.",
             "en": "In winter, make use of La Rochelle's well-heated buses. The morning starts at Les Halles market, just a short hop from the central transit hubs.\r\nA trip on the Bus-de-Mer in winter offers clear views of the empty quays and the wintry towers.\r\nAt midday, the bus quickly takes you to Les Minimes, where you can enjoy the crisp winter air on the beach without a long walk.\r\nSpend the afternoon in the comfortably warm Aquarium before taking the illuminated evening bus back to the city center.",
-            "fr": "En hiver, profitez des bus bien chauffés de La Rochelle. La matinée commence au marché des Halles, à quelques pas des centres de transit principaux.\r\nUn trajet en Bus-de-Mer en hiver offre des vues dégagées sur les quais vides et les tours hivernales.\r\nÀ la mi-journée, le bus vous emmène rapidement aux Minimes, où vous pourrez profiter de l'air frais de l'hiver sur la plage sans longue marche.\r\nPassez l'après-midi dans le confort douillet de l'Aquarium avant de reprendre le bus illuminé vers le centre-ville."
+            "fr": "En hiver, profitez des bus bien chauffés de La Rochelle. La matinée commence aux Halles, à quelques pas des principaux pôles de correspondance.\r\nUn trajet en Bus-de-Mer en hiver offre des vues dégagées sur les quais vides et les tours hivernales.\r\nÀ midi, le bus vous emmène rapidement aux Minimes, où vous pourrez profiter de l'air vif de l'hiver sur la plage sans longue marche.\r\nPassez l'après-midi dans le confort chauffé de l'Aquarium avant de reprendre le bus du soir, illuminé, pour rejoindre le centre-ville."
           },
           "stops": [
             {
@@ -2857,7 +2910,7 @@
                 "hu": "Vegyél egy forró kávét a piacon, mielőtt felszállnál a buszra.",
                 "ro": "Luați o cafea fierbinte de la piață înainte de a urca în autobuz.",
                 "en": "Grab a hot coffee at the market before boarding your bus.",
-                "fr": "Prenez un café chaud au marché avant de monter dans votre bus."
+                "fr": "Prenez un café bien chaud au marché avant de monter dans votre bus."
               }
             },
             {
@@ -2867,7 +2920,7 @@
                 "hu": "Télen a kikötő este ünnepi díszkivilágítást kap, remek látvány a busz ablakából.",
                 "ro": "Iarna, portul este iluminat festiv seara, o priveliște superbă de la fereastra autobuzului.",
                 "en": "In winter, the harbor is festively lit in the evenings, a great sight from the bus window.",
-                "fr": "En hiver, le port est illuminé de façon festive le soir, un spectacle magnifique depuis la fenêtre du bus."
+                "fr": "En hiver, le port est joliment illuminé le soir, un beau spectacle depuis la fenêtre du bus."
               }
             },
             {
@@ -2877,7 +2930,7 @@
                 "hu": "Várjon a 'Dames Blanches' megállóban, ez jól megvilágított.",
                 "ro": "Așteptați în stația 'Dames Blanches', este bine iluminată.",
                 "en": "Wait at the 'Dames Blanches' stop; it is well-lit.",
-                "fr": "Attendez à l'arrêt 'Dames Blanches' ; il est bien éclairé."
+                "fr": "Attendez à l'arrêt « Dames Blanches » ; il est bien éclairé."
               }
             },
             {
@@ -2887,7 +2940,7 @@
                 "hu": "A járatok télen ritkábbak, ellenőrizze a téli menetrendet (60 percenként).",
                 "ro": "Cursele sunt mai rare iarna, verificați orarul de iarnă (la fiecare 60 min).",
                 "en": "Trips are less frequent in winter; check the winter schedule (every 60 min).",
-                "fr": "Les trajets sont moins fréquents en hiver ; vérifiez les horaires (toutes les 60 min)."
+                "fr": "Les trajets sont moins fréquents en hiver ; consultez l'horaire hivernal (toutes les 60 min)."
               }
             },
             {
@@ -2897,7 +2950,7 @@
                 "hu": "Vegyék az ILLICO 4-es buszt a gyors visszajutáshoz a központba.",
                 "ro": "Luați autobuzul ILLICO 4 pentru o legătură rapidă înapoi spre centru.",
                 "en": "Take the ILLICO 4 bus for a quick connection back to the center.",
-                "fr": "Prenez la ligne ILLICO 4 pour un retour rapide vers le centre."
+                "fr": "Prenez le bus ILLICO 4 pour une correspondance rapide vers le centre."
               }
             },
             {
@@ -2907,7 +2960,7 @@
                 "hu": "A buszmegálló közvetlenül az Akvárium bejáratával szemben van.",
                 "ro": "Stația de autobuz este chiar vizavi de intrarea în Acvariu.",
                 "en": "The bus stop is directly opposite the Aquarium entrance.",
-                "fr": "L'arrêt de bus se trouve directement en face de l'entrée de l'Aquarium."
+                "fr": "L'arrêt de bus est directement en face de l'entrée de l'Aquarium."
               }
             }
           ],
@@ -2941,11 +2994,11 @@
               "Yélo tickets are valid for both buses and the water bus."
             ],
             "fr": [
-              "Vérifiez les horaires d'hiver car certaines lignes circulent moins fréquemment.",
-              "Le Bus-de-Mer ne circule souvent qu'une fois par heure pendant l'hiver.",
-              "Utilisez les salles d'attente chauffées de la gare si vous devez y faire une correspondance.",
-              "Les bus ILLICO sont les connexions les plus fiables pendant la saison hivernale.",
-              "Les tickets Yélo sont valables aussi bien pour les bus que pour le bateau-bus."
+              "Vérifiez l'horaire d'hiver car certaines lignes circulent moins fréquemment.",
+              "Le Bus-de-Mer circule souvent seulement une fois par heure en hiver.",
+              "Utilisez les salles d'attente chauffées de la gare si vous devez y transiter.",
+              "Les bus ILLICO sont les liaisons les plus fiables durant la saison hivernale.",
+              "Les titres Yélo sont valables aussi bien pour les bus que pour la navette maritime."
             ]
           }
         }

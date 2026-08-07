@@ -21,7 +21,8 @@
             "de": "Les Halles de Chambéry",
             "hu": "Chambéry Vásárcsarnok",
             "ro": "Halele din Chambéry",
-            "en": "Chambéry Market Hall"
+            "en": "Chambéry Market Hall",
+            "fr": "Chambéry Market Hall"
           },
           "coords": [
             5.9205,
@@ -36,7 +37,8 @@
             "de": "Frische regionale Käsesorten probieren.",
             "hu": "Kóstolja meg a helyi sajtokat a piacon.",
             "ro": "Gustați brânzeturile locale proaspete.",
-            "en": "Try fresh local cheeses at the market."
+            "en": "Try fresh local cheeses at the market.",
+            "fr": "Goûtez aux fromages locaux frais au marché."
           }
         },
         {
@@ -44,7 +46,8 @@
             "de": "Elefantenbrunnen",
             "hu": "Elefántos kút",
             "ro": "Fântâna Elefanților",
-            "en": "Elephants Fountain"
+            "en": "Elephants Fountain",
+            "fr": "Elephants Fountain"
           },
           "coords": [
             5.9222,
@@ -59,7 +62,8 @@
             "de": "Das Wahrzeichen der Stadt (les quatre sans cul).",
             "hu": "A város jelképe (négy feneketlen elefánt).",
             "ro": "Simbolul orașului, cunoscut local ca 'les quatre sans cul'.",
-            "en": "The city's landmark, known as 'les quatre sans cul'."
+            "en": "The city's landmark, known as 'les quatre sans cul'.",
+            "fr": "Le monument emblématique de la ville, connu sous le nom de « les quatre sans cul »."
           }
         },
         {
@@ -67,7 +71,8 @@
             "de": "Kathedrale Saint-François",
             "hu": "Szent Ferenc katedrális",
             "ro": "Catedrala Saint-François",
-            "en": "Saint-François Cathedral"
+            "en": "Saint-François Cathedral",
+            "fr": "Saint-François Cathedral"
           },
           "coords": [
             5.9228,
@@ -82,7 +87,8 @@
             "de": "Bewundern Sie die riesigen Trompe-l'œil-Malereien.",
             "hu": "Csodálja meg a hatalmas trompe-l'œil festményeket.",
             "ro": "Admirați picturile monumentale trompe-l'œil.",
-            "en": "Admire the massive trompe-l'œil paintings inside."
+            "en": "Admire the massive trompe-l'œil paintings inside.",
+            "fr": "Admirez les vastes peintures en trompe‑l'œil à l'intérieur."
           }
         },
         {
@@ -90,7 +96,8 @@
             "de": "Musée Savoisien",
             "hu": "Savoyai Múzeum",
             "ro": "Muzeul Savoisian",
-            "en": "Savoisien Museum"
+            "en": "Savoisien Museum",
+            "fr": "Savoisien Museum"
           },
           "coords": [
             5.9231,
@@ -105,7 +112,8 @@
             "de": "Erfahren Sie alles über die Geschichte Savoyens.",
             "hu": "Ismerje meg Savoya gazdag történelmét.",
             "ro": "Aflați totul despre istoria bogată a Savoiei.",
-            "en": "Learn all about the rich history of Savoy."
+            "en": "Learn all about the rich history of Savoy.",
+            "fr": "Apprenez tout sur la riche histoire de la Savoie."
           }
         },
         {
@@ -113,7 +121,8 @@
             "de": "Schloss der Herzöge von Savoyen",
             "hu": "Savoyai hercegi kastély",
             "ro": "Castelul Ducilor de Savoia",
-            "en": "Castle of the Dukes of Savoy"
+            "en": "Castle of the Dukes of Savoy",
+            "fr": "Castle of the Dukes of Savoy"
           },
           "coords": [
             5.9185,
@@ -128,7 +137,8 @@
             "de": "Besuchen Sie die Sainte-Chapelle im Schloss.",
             "hu": "Látogasson el a kastély Szent Kápolnájába.",
             "ro": "Vizitați Sainte-Chapelle din incinta castelului.",
-            "en": "Visit the Sainte-Chapelle inside the castle grounds."
+            "en": "Visit the Sainte-Chapelle inside the castle grounds.",
+            "fr": "Visitez la Sainte‑Chapelle à l'intérieur de l'enceinte du château."
           }
         },
         {
@@ -136,7 +146,8 @@
             "de": "Théâtre Charles Dullin",
             "hu": "Charles Dullin Színház",
             "ro": "Teatrul Charles Dullin",
-            "en": "Charles Dullin Theatre"
+            "en": "Charles Dullin Theatre",
+            "fr": "Charles Dullin Theatre"
           },
           "coords": [
             5.9232,
@@ -151,7 +162,8 @@
             "de": "Ein prächtiges Theater im italienischen Stil.",
             "hu": "Pompás olasz stílusú színházépület.",
             "ro": "Un teatru magnific în stil italian.",
-            "en": "A magnificent Italian-style theatre building."
+            "en": "A magnificent Italian-style theatre building.",
+            "fr": "Un magnifique bâtiment théâtral de style italien."
           }
         },
         {
@@ -159,7 +171,8 @@
             "de": "Carré Curial",
             "hu": "Carré Curial kulturális központ",
             "ro": "Carré Curial",
-            "en": "Carré Curial"
+            "en": "Carré Curial",
+            "fr": "Carré Curial"
           },
           "coords": [
             5.9248,
@@ -174,7 +187,8 @@
             "de": "Ehemalige Kaserne, heute das Herz des Nachtlebens.",
             "hu": "Egykori laktanya, ma a kulturális élet központja.",
             "ro": "Fostă cazarmă, astăzi inima vieții culturale.",
-            "en": "Former barracks, now the heart of cultural life."
+            "en": "Former barracks, now the heart of cultural life.",
+            "fr": "Anciennes casernes, aujourd'hui au cœur de la vie culturelle."
           }
         }
       ],
@@ -182,7 +196,8 @@
         "de": "Beginnen Sie Ihren Tag in der Markthalle von Chambéry, um lokale Spezialitäten zu entdecken. Ein kurzer Spaziergang führt Sie zum berühmten Elefantenbrunnen und zur Kathedrale. Nachmittags tauchen Sie im Musée Savoisien und im herzoglichen Schloss tief in die Geschichte Savoyens ein. Den Tag lassen Sie im Carré Curial ausklingen, wo sich Geschichte und modernes Stadtleben treffen.",
         "hu": "Kezdje a napot a vásárcsarnokban, ahol megkóstolhatja Savoya ízeit. Sétáljon el az Elefántos kúthoz és a katedrálishoz, majd merüljön el a múltban a Musée Savoisien falai között. A délután csúcspontja a hercegi kastély meglátogatása lesz. A napot a Carré Curial pezsgő kulturális negyedében zárhatja, amely egy egykori laktanyából alakult át közösségi térré.",
         "ro": "Începeți ziua la Halele din Chambéry pentru a descoperi deliciile locale. O scurtă plimbare vă duce la celebra Fântână a Elefanților și la Catedrală. După-amiaza, explorați istoria Savoiei la Muzeul Savoisian și la Castelul Ducilor. Încheiați ziua în Carré Curial, un spațiu vibrant unde istoria militară se întâlnește cu viața socială modernă și cultura locală.",
-        "en": "Start your day at Les Halles to discover local Savoyard flavors. A short walk brings you to the iconic Elephant Fountain and the Cathedral. In the afternoon, dive into the history of the region at the Musée Savoisien and the imposing Castle of the Dukes of Savoy. End your walk at Carré Curial, a former barracks turned into a lively cultural and social hub of the city."
+        "en": "Start your day at Les Halles to discover local Savoyard flavors. A short walk brings you to the iconic Elephant Fountain and the Cathedral. In the afternoon, dive into the history of the region at the Musée Savoisien and the imposing Castle of the Dukes of Savoy. End your walk at Carré Curial, a former barracks turned into a lively cultural and social hub of the city.",
+        "fr": "Commencez votre journée aux Halles pour découvrir les saveurs savoyardes locales. Une courte promenade vous mène à l'emblématique Fontaine aux Éléphants et à la Cathédrale. L'après‑midi, plongez dans l'histoire de la région au Musée Savoisien et dans l'imposant Château des Ducs de Savoie. Terminez votre balade au Carré Curial, d'anciennes casernes transformées en un vivier culturel et social de la ville."
       },
       "gastro_picks": {
         "de": [
@@ -302,6 +317,11 @@
           "The old town is very compact and best explored on foot.",
           "Look out for the hidden passages (traboules) between the streets.",
           "Most museums are closed on Mondays."
+        ],
+        "fr": [
+          "La vieille ville est très compacte et se visite mieux à pied.",
+          "Cherchez les passages cachés (traboules) entre les rues.",
+          "La plupart des musées sont fermés le lundi."
         ]
       }
     },
@@ -318,7 +338,8 @@
             "de": "Les Halles de Chambéry",
             "hu": "Chambéry Vásárcsarnok",
             "ro": "Halele din Chambéry",
-            "en": "Chambéry Market Hall"
+            "en": "Chambéry Market Hall",
+            "fr": "Chambéry Market Hall"
           },
           "coords": [
             5.9205,
@@ -333,7 +354,8 @@
             "de": "Startpunkt mit Frühstücksmöglichkeiten.",
             "hu": "Tökéletes kezdőpont egy gyors reggelihez.",
             "ro": "Punct de pornire ideal pentru micul dejun.",
-            "en": "Perfect starting point with breakfast options."
+            "en": "Perfect starting point with breakfast options.",
+            "fr": "Point de départ parfait avec options petit‑déjeuner."
           }
         },
         {
@@ -341,7 +363,8 @@
             "de": "Elefantenbrunnen",
             "hu": "Elefántos kút",
             "ro": "Fântâna Elefanților",
-            "en": "Elephants Fountain"
+            "en": "Elephants Fountain",
+            "fr": "Elephants Fountain"
           },
           "coords": [
             5.9222,
@@ -356,7 +379,8 @@
             "de": "Kurzer Fotostopp am Wahrzeichen.",
             "hu": "Gyors fotómegálló a város jelképénél.",
             "ro": "Oprire scurtă pentru poze la simbolul orașului.",
-            "en": "Quick photo stop at the city's icon."
+            "en": "Quick photo stop at the city's icon.",
+            "fr": "Arrêt photo rapide devant l'icône de la ville."
           }
         },
         {
@@ -364,7 +388,8 @@
             "de": "Schloss der Herzöge von Savoyen",
             "hu": "Savoyai hercegi kastély",
             "ro": "Castelul Ducilor de Savoia",
-            "en": "Castle of the Dukes of Savoy"
+            "en": "Castle of the Dukes of Savoy",
+            "fr": "Castle of the Dukes of Savoy"
           },
           "coords": [
             5.9185,
@@ -379,7 +404,8 @@
             "de": "Stellen Sie Ihr Fahrrad am Eingang sicher ab.",
             "hu": "A bringát a bejáratnál biztonságban lezárhatja.",
             "ro": "Parcați bicicleta în siguranță la intrare.",
-            "en": "Park your bike securely at the entrance."
+            "en": "Park your bike securely at the entrance.",
+            "fr": "Garez votre vélo en toute sécurité à l'entrée."
           }
         },
         {
@@ -387,7 +413,8 @@
             "de": "Parc de Buisson-Rond",
             "hu": "Buisson-Rond park",
             "ro": "Parcul Buisson-Rond",
-            "en": "Buisson-Rond Park"
+            "en": "Buisson-Rond Park",
+            "fr": "Buisson-Rond Park"
           },
           "coords": [
             5.9385,
@@ -402,7 +429,8 @@
             "de": "Besuchen Sie das Rosarium und das Schloss im Park.",
             "hu": "Nézze meg a rózsakertet és a parkbeli kastélyt.",
             "ro": "Vizitați rozariul și castelul din parc.",
-            "en": "Visit the rose garden and the castle in the park."
+            "en": "Visit the rose garden and the castle in the park.",
+            "fr": "Visitez le roseraie et le château du parc."
           }
         },
         {
@@ -410,7 +438,8 @@
             "de": "Carré Curial",
             "hu": "Carré Curial kulturális központ",
             "ro": "Carré Curial",
-            "en": "Carré Curial"
+            "en": "Carré Curial",
+            "fr": "Carré Curial"
           },
           "coords": [
             5.9248,
@@ -425,7 +454,8 @@
             "de": "Perfekt für eine Erfrischung nach der Fahrt.",
             "hu": "Tökéletes hely egy frissítőre tekerés után.",
             "ro": "Locul ideal pentru o băutură răcoritoare.",
-            "en": "Ideal spot for a refreshment after the ride."
+            "en": "Ideal spot for a refreshment after the ride.",
+            "fr": "Endroit idéal pour se rafraîchir après la balade."
           }
         },
         {
@@ -433,7 +463,8 @@
             "de": "Théâtre Charles Dullin",
             "hu": "Charles Dullin Színház",
             "ro": "Teatrul Charles Dullin",
-            "en": "Charles Dullin Theatre"
+            "en": "Charles Dullin Theatre",
+            "fr": "Charles Dullin Theatre"
           },
           "coords": [
             5.9232,
@@ -448,7 +479,8 @@
             "de": "Genießen Sie die Architektur des Stadtzentrums.",
             "hu": "Élvezze a belvárosi építészet látványát.",
             "ro": "Admirați arhitectura centrului orașului.",
-            "en": "Enjoy the architecture of the city center."
+            "en": "Enjoy the architecture of the city center.",
+            "fr": "Appréciez l'architecture du centre‑ville."
           }
         }
       ],
@@ -456,7 +488,8 @@
         "de": "Erkunden Sie Chambéry mit dem Fahrrad! Nach einem Marktbesuch und dem Schloss geht es zum weitläufigen Parc de Buisson-Rond im Osten der Stadt. Die Radwege machen den Weg zum Park angenehm und führen durch ruhigere Viertel. Nach der Entspannung im Grünen kehren Sie ins kulturelle Zentrum Carré Curial zurück, um die lebhafte Atmosphäre der Stadt zu genießen.",
         "hu": "Fedezze fel Chambéryt két keréken! A piaci látogatás és a kastély után tekerjen ki a várostól keletre fekvő tágas Buisson-Rond parkba. A jól kialakított kerékpárutak kényelmessé teszik az utat, miközben érintik a csendesebb lakónegyedeket is. A parkban tett pihenő után térjen vissza a Carré Curial kulturális negyedébe egy jól megérdemelt kávéra vagy frissítőre.",
         "ro": "Explorați Chambéry pe bicicletă! După o vizită la piață și la castel, pedalați spre est către vastul Parc de Buisson-Rond. Pistele de biciclete fac drumul plăcut și traversează cartiere liniștite. După o relaxare în natură, reveniți în centrul cultural Carré Curial pentru a simți pulsul orașului și a vă bucura de atmosfera vibrantă a teraselor locale.",
-        "en": "Explore Chambéry on two wheels! After visiting the market and the castle, cycle east to the spacious Parc de Buisson-Rond. The bike paths make the journey pleasant and lead through quieter neighborhoods. After relaxing in the park's rose garden, head back to the Carré Curial cultural hub to enjoy the lively city atmosphere and local cafe culture."
+        "en": "Explore Chambéry on two wheels! After visiting the market and the castle, cycle east to the spacious Parc de Buisson-Rond. The bike paths make the journey pleasant and lead through quieter neighborhoods. After relaxing in the park's rose garden, head back to the Carré Curial cultural hub to enjoy the lively city atmosphere and local cafe culture.",
+        "fr": "Explorez Chambéry à vélo ! Après avoir visité le marché et le château, prenez la direction est jusqu'au spacieux Parc de Buisson‑Rond. Les pistes cyclables rendent le trajet agréable et traversent des quartiers plus calmes. Après vous être détendu dans la roseraie du parc, retournez au pôle culturel du Carré Curial pour profiter de l'animation urbaine et de la culture des cafés locaux."
       },
       "gastro_picks": {
         "de": [
@@ -560,6 +593,11 @@
           "Chambéry has a great bike-sharing network called Vélostation.",
           "The route to Parc de Buisson-Rond is mostly flat and easy.",
           "Stick to the marked bike lanes in the city's 'Zone 30' areas."
+        ],
+        "fr": [
+          "Chambéry dispose d'un excellent réseau de vélos en libre‑service appelé Vélostation.",
+          "L'itinéraire vers le Parc de Buisson‑Rond est majoritairement plat et facile.",
+          "Restez sur les pistes cyclables balisées dans les secteurs en 'Zone 30' de la ville."
         ]
       }
     },
@@ -576,7 +614,8 @@
             "de": "Les Halles (Parkhaus)",
             "hu": "Vásárcsarnok parkoló",
             "ro": "Parcare Hale",
-            "en": "Les Halles Parking"
+            "en": "Les Halles Parking",
+            "fr": "Les Halles Parking"
           },
           "coords": [
             5.9205,
@@ -591,7 +630,8 @@
             "de": "Zentraler Parkplatz für den Cluster Altstadt.",
             "hu": "Központi parkoló az óvárosi sétához.",
             "ro": "Parcare centrală pentru clusterul centrului vechi.",
-            "en": "Central parking for the Old Town cluster."
+            "en": "Central parking for the Old Town cluster.",
+            "fr": "Parking central pour le quartier de la vieille ville."
           }
         },
         {
@@ -599,7 +639,8 @@
             "de": "Elefantenbrunnen",
             "hu": "Elefántos kút",
             "ro": "Fântâna Elefanților",
-            "en": "Elephants Fountain"
+            "en": "Elephants Fountain",
+            "fr": "Elephants Fountain"
           },
           "coords": [
             5.9222,
@@ -614,7 +655,8 @@
             "de": "Zu Fuß vom Parkhaus erreichbar.",
             "hu": "Gyalogosan elérhető a parkolótól.",
             "ro": "Accesibil la pas din parcare.",
-            "en": "Walking distance from the parking garage."
+            "en": "Walking distance from the parking garage.",
+            "fr": "À distance de marche du parking souterrain."
           }
         },
         {
@@ -622,7 +664,8 @@
             "de": "Kathedrale Saint-François",
             "hu": "Szent Ferenc katedrális",
             "ro": "Catedrala Saint-François",
-            "en": "Saint-François Cathedral"
+            "en": "Saint-François Cathedral",
+            "fr": "Saint-François Cathedral"
           },
           "coords": [
             5.9228,
@@ -637,7 +680,8 @@
             "de": "Besichtigung im Rahmen des Stadtrundgangs.",
             "hu": "Az óvárosi séta részeként látogatható.",
             "ro": "Vizită în cadrul turului pietonal.",
-            "en": "Visit as part of your walking tour."
+            "en": "Visit as part of your walking tour.",
+            "fr": "À visiter dans le cadre de votre circuit pédestre."
           }
         },
         {
@@ -645,7 +689,8 @@
             "de": "Schloss der Herzöge (Parkplatz am Schloss)",
             "hu": "Kastély parkoló",
             "ro": "Parcare Castel",
-            "en": "Castle Parking"
+            "en": "Castle Parking",
+            "fr": "Parking du château"
           },
           "coords": [
             5.9185,
@@ -660,7 +705,8 @@
             "de": "Parken Sie näher am Schloss für Cluster 2.",
             "hu": "Parkoljon közelebb a kastélyhoz a 2. egységhez.",
             "ro": "Parcați mai aproape de castel pentru clusterul 2.",
-            "en": "Move the car closer to the castle for cluster 2."
+            "en": "Move the car closer to the castle for cluster 2.",
+            "fr": "Rapprochez la voiture du château pour le groupe 2."
           }
         },
         {
@@ -668,7 +714,8 @@
             "de": "Musée Savoisien",
             "hu": "Savoyai Múzeum",
             "ro": "Muzeul Savoisian",
-            "en": "Savoisien Museum"
+            "en": "Savoisien Museum",
+            "fr": "Musée Savoisien"
           },
           "coords": [
             5.9231,
@@ -683,7 +730,8 @@
             "de": "Zu Fuß vom Schloss aus erreichbar.",
             "hu": "Gyalogosan a kastélytól pár percre.",
             "ro": "La câțiva pași de castel.",
-            "en": "A short walk from the castle."
+            "en": "A short walk from the castle.",
+            "fr": "À quelques minutes à pied du château."
           }
         },
         {
@@ -691,7 +739,8 @@
             "de": "Parc de Buisson-Rond",
             "hu": "Buisson-Rond park",
             "ro": "Parcul Buisson-Rond",
-            "en": "Buisson-Rond Park"
+            "en": "Buisson-Rond Park",
+            "fr": "Parc du Buisson-Rond"
           },
           "coords": [
             5.9385,
@@ -706,7 +755,8 @@
             "de": "Kostenloser Parkplatz direkt am Parkeingang.",
             "hu": "Ingyenes parkoló közvetlenül a bejáratnál.",
             "ro": "Parcare gratuită chiar la intrarea în parc.",
-            "en": "Free parking available at the park entrance."
+            "en": "Free parking available at the park entrance.",
+            "fr": "Parking gratuit disponible à l'entrée du parc."
           }
         }
       ],
@@ -714,7 +764,8 @@
         "de": "Nutzen Sie das Auto strategisch: Parken Sie zuerst im Zentrum für die Altstadt-Highlights wie den Elefantenbrunnen. Ein zweiter Stopp am herzoglichen Schloss spart Wege. Am Nachmittag fahren Sie zum etwas außerhalb gelegenen Parc de Buisson-Rond, der über reichlich Parkplätze verfügt. Diese Cluster-Strategie ermöglicht es Ihnen, die Stadtteile intensiv zu Fuß zu erkunden und dennoch komfortabel von Ort zu Ort zu kommen.",
         "hu": "Használja az autót okosan: parkoljon le a központban az óvárosi látnivalókhoz, mint a híres Elefántos kút. Ezután álljon meg közelebb a hercegi kastélyhoz a második blokkhoz. Délután hajtson ki a város szélén fekvő Buisson-Rond parkhoz, ahol bőséges parkolóhely áll rendelkezésre. Ez a 'cluster' stratégia lehetővé teszi a gyalogos felfedezést és a kényelmes közlekedést a távolabbi pontok között.",
         "ro": "Folosiți mașina strategic: parcați în centru pentru atracțiile din orașul vechi, cum ar fi Fântâna Elefanților. Ulterior, mutați mașina mai aproape de Castelul Ducilor. După-amiaza, conduceți spre Parcul Buisson-Rond de la marginea orașului, unde există parcare din abundență. Această strategie de cluster vă permite să explorați zonele la pas, beneficiind totodată de confortul deplasării între cartiere.",
-        "en": "Use your car strategically: park first in the center for the Old Town highlights. Later, move to the castle parking for the second cluster. In the afternoon, drive to the outskirts to visit Parc de Buisson-Rond, which has ample parking space. This cluster-walking strategy lets you immerse yourself in each neighborhood on foot while easily bridging the distance between the historic center and the greener areas."
+        "en": "Use your car strategically: park first in the center for the Old Town highlights. Later, move to the castle parking for the second cluster. In the afternoon, drive to the outskirts to visit Parc de Buisson-Rond, which has ample parking space. This cluster-walking strategy lets you immerse yourself in each neighborhood on foot while easily bridging the distance between the historic center and the greener areas.",
+        "fr": "Gérez votre voiture stratégiquement : garez-vous d'abord au centre pour les points d'intérêt de la vieille ville. Plus tard, déplacez-vous vers le parking du château pour le deuxième groupe. L'après‑midi, roulez jusqu'aux périphéries pour visiter le Parc du Buisson‑Rond, qui dispose d'un grand nombre de places. Cette stratégie de visite par grappes vous permet de vous imprégner à pied de chaque quartier tout en reliant facilement le centre historique aux espaces plus verts."
       },
       "gastro_picks": {
         "de": [
@@ -818,6 +869,11 @@
           "Use 'Q-Park' underground garages for secure parking in the center.",
           "Much of the city center is pedestrianized; watch for signs.",
           "Parking at Parc de Buisson-Rond is usually free of charge."
+        ],
+        "fr": [
+          "Utilisez les garages souterrains 'Q-Park' pour un stationnement sécurisé au centre.",
+          "Une grande partie du centre-ville est piétonne ; surveillez la signalisation.",
+          "Le stationnement au Parc du Buisson‑Rond est généralement gratuit."
         ]
       }
     },
@@ -834,7 +890,8 @@
             "de": "Les Halles (Zentrum)",
             "hu": "Vásárcsarnok (Központ)",
             "ro": "Hale (Centru)",
-            "en": "Les Halles (Center)"
+            "en": "Les Halles (Center)",
+            "fr": "Les Halles (Centre)"
           },
           "coords": [
             5.9205,
@@ -849,7 +906,8 @@
             "de": "Haupthaltestelle für den Altstadt-Cluster.",
             "hu": "Fő megálló az óvárosi látnivalókhoz.",
             "ro": "Stație principală pentru zona istorică.",
-            "en": "Main stop for the historic center cluster."
+            "en": "Main stop for the historic center cluster.",
+            "fr": "Arrêt principal pour la zone du centre historique."
           }
         },
         {
@@ -857,7 +915,8 @@
             "de": "Elefantenbrunnen",
             "hu": "Elefántos kút",
             "ro": "Fântâna Elefanților",
-            "en": "Elephants Fountain"
+            "en": "Elephants Fountain",
+            "fr": "Fontaine des Éléphants"
           },
           "coords": [
             5.9222,
@@ -872,7 +931,8 @@
             "de": "Vom Zentrum bequem zu Fuß erreichbar.",
             "hu": "Könnyű séta a központi megállótól.",
             "ro": "Plimbare ușoară de la stația centrală.",
-            "en": "Easy walk from the central transit stop."
+            "en": "Easy walk from the central transit stop.",
+            "fr": "Facilement accessible à pied depuis l'arrêt central des transports."
           }
         },
         {
@@ -880,7 +940,8 @@
             "de": "Kathedrale Saint-François",
             "hu": "Szent Ferenc katedrális",
             "ro": "Catedrala Saint-François",
-            "en": "Saint-François Cathedral"
+            "en": "Saint-François Cathedral",
+            "fr": "Cathédrale Saint‑François"
           },
           "coords": [
             5.9228,
@@ -895,7 +956,8 @@
             "de": "Ebenfalls im Fußgänger-Cluster Zentrum.",
             "hu": "Szintén a belvárosi gyalogos blokk része.",
             "ro": "Face parte din clusterul pietonal central.",
-            "en": "Also part of the central walking cluster."
+            "en": "Also part of the central walking cluster.",
+            "fr": "Fait aussi partie du circuit piéton central."
           }
         },
         {
@@ -903,7 +965,8 @@
             "de": "Carré Curial",
             "hu": "Carré Curial",
             "ro": "Carré Curial",
-            "en": "Carré Curial"
+            "en": "Carré Curial",
+            "fr": "Carré Curial"
           },
           "coords": [
             5.9248,
@@ -918,7 +981,8 @@
             "de": "Kurze Busfahrt zum Kulturviertel.",
             "hu": "Rövid buszozás a kulturális negyedbe.",
             "ro": "Scurtă călătorie cu autobuzul spre zona culturală.",
-            "en": "Short bus ride to the cultural district."
+            "en": "Short bus ride to the cultural district.",
+            "fr": "Court trajet en bus vers le quartier culturel."
           }
         },
         {
@@ -926,7 +990,8 @@
             "de": "Schloss der Herzöge",
             "hu": "Savoyai kastély",
             "ro": "Castelul Ducilor",
-            "en": "Castle of the Dukes"
+            "en": "Castle of the Dukes",
+            "fr": "Château des Ducs"
           },
           "coords": [
             5.9185,
@@ -941,7 +1006,8 @@
             "de": "Zu Fuß vom Carré Curial erreichbar.",
             "hu": "Gyalogosan elérhető a Carré Curial-tól.",
             "ro": "Accesibil la pas dinspre Carré Curial.",
-            "en": "Walkable distance from Carré Curial."
+            "en": "Walkable distance from Carré Curial.",
+            "fr": "À distance de marche du Carré Curial."
           }
         },
         {
@@ -949,7 +1015,8 @@
             "de": "Parc de Buisson-Rond",
             "hu": "Buisson-Rond park",
             "ro": "Parcul Buisson-Rond",
-            "en": "Buisson-Rond Park"
+            "en": "Buisson-Rond Park",
+            "fr": "Parc du Buisson-Rond"
           },
           "coords": [
             5.9385,
@@ -964,7 +1031,8 @@
             "de": "Buslinie C bringt Sie direkt zum Park.",
             "hu": "A C-vonalú busz közvetlenül a parkhoz visz.",
             "ro": "Linia de autobuz C vă duce direct la parc.",
-            "en": "Bus line C takes you directly to the park."
+            "en": "Bus line C takes you directly to the park.",
+            "fr": "La ligne de bus C vous y mène directement."
           }
         }
       ],
@@ -972,7 +1040,8 @@
         "de": "Mit dem effizienten Synchro-Busnetz von Chambéry erkunden Sie die Stadt stressfrei. Der erste Cluster im Zentrum umfasst Markt, Brunnen und Kathedrale. Ein kurzer Transfer bringt Sie zum kulturellen Carré Curial und dem Schloss. Nachmittags nutzen Sie die Linie C, um zum weitläufigen Parc de Buisson-Rond zu gelangen, einer grünen Oase am Stadtrand, bevor Sie bequem mit dem Bus zurück ins Zentrum fahren.",
         "hu": "Chambéry hatékony Synchro buszhálózatával stresszmentesen fedezheti fel a várost. Az első blokkban a piacot, a kutat és a katedrálist nézheti meg. Egy rövid buszos átszállással elérheti a Carré Curial negyedet és a kastélyt. Délután a C-vonalon utazzon ki a város szélén fekvő tágas Buisson-Rond parkba, amely tökéletes zárása a napnak, mielőtt visszatérne a központba.",
         "ro": "Explorați Chambéry fără stres folosind rețeaua eficientă de autobuze Synchro. Primul cluster din centru include piața, fântâna și catedrala. Un transfer scurt vă duce spre Carré Curial și castel. După-amiaza, utilizați linia C pentru a ajunge la vastul Parc Buisson-Rond, o oază de verdeață la marginea orașului, înainte de a reveni confortabil cu autobuzul în zona centrală.",
-        "en": "Navigate Chambéry stress-free with the efficient Synchro bus network. Start with the central cluster: the market, fountain, and cathedral. A short bus transfer brings you to the lively Carré Curial and the Castle. In the afternoon, take line C to the outskirts to visit Parc de Buisson-Rond, a lush green haven, before heading back to the city center for evening drinks."
+        "en": "Navigate Chambéry stress-free with the efficient Synchro bus network. Start with the central cluster: the market, fountain, and cathedral. A short bus transfer brings you to the lively Carré Curial and the Castle. In the afternoon, take line C to the outskirts to visit Parc de Buisson-Rond, a lush green haven, before heading back to the city center for evening drinks.",
+        "fr": "Parcourez Chambéry sans stress grâce au réseau de bus Synchro efficace. Commencez par la zone centrale : le marché, la fontaine et la cathédrale. Un court transfert en bus vous conduit au vivant Carré Curial et au Château. L'après‑midi, prenez la ligne C vers la périphérie pour visiter le Parc du Buisson‑Rond, un havre de verdure, avant de revenir au centre-ville pour un verre en soirée."
       },
       "gastro_picks": {
         "de": [
@@ -1076,6 +1145,11 @@
           "Buy a day ticket (Ticket Journée) for unlimited rides.",
           "Bus lines C and B are the most useful routes for visitors.",
           "Download the Synchro app for real-time bus tracking and schedules."
+        ],
+        "fr": [
+          "Achetez un ticket journée (Ticket Journée) pour des trajets illimités.",
+          "Les lignes de bus C et B sont les plus utiles pour les visiteurs.",
+          "Téléchargez l'application Synchro pour le suivi en temps réel et les horaires des bus."
         ]
       }
     }

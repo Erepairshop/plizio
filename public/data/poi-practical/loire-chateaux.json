@@ -3,55 +3,64 @@
     "de": "Château, 41250 Chambord (Zentraler Anlaufpunkt)",
     "hu": "Château, 41250 Chambord (központi találkozóhely)",
     "ro": "Château, 41250 Chambord (punct de reper central)",
-    "en": "Château, 41250 Chambord (central meeting point)"
+    "en": "Château, 41250 Chambord (central meeting point)",
+    "fr": "Château, 41250 Chambord (point de rendez‑vous central)"
   },
   "openingHours": {
     "de": "Täglich 09:00-18:00 (April-Oktober), sonst bis 17:00",
     "hu": "Naponta 09:00-18:00 (április-október), különben 17:00-ig",
     "ro": "Zilnic 09:00-18:00 (aprilie-octombrie), în rest până la 17:00",
-    "en": "Daily 09:00-18:00 (April-October), otherwise until 5 PM"
+    "en": "Daily 09:00-18:00 (April-October), otherwise until 5 PM",
+    "fr": "Tous les jours 09:00-18:00 (avril-octobre), sinon jusqu'à 17:00"
   },
   "entranceFee": {
     "de": "€16 Erwachsene, unter 26 (EU) kostenlos",
     "hu": "16 € felnőtt, 26 év alatt (EU) ingyenes",
     "ro": "16 € adulți, sub 26 ani (UE) gratuit",
-    "en": "€16 adult, under 26 (EU) free"
+    "en": "€16 adult, under 26 (EU) free",
+    "fr": "€16 adulte, moins de 26 ans (UE) gratuit"
   },
   "website": "https://www.chambord.org",
   "publicTransport": {
     "de": "Shuttle-Bus 'Navette Châteaux' ab Bahnhof Blois",
     "hu": "'Navette Châteaux' buszjárat Blois vasútállomástól",
     "ro": "Autobuz shuttle 'Navette Châteaux' din gara Blois",
-    "en": "'Navette Châteaux' shuttle bus from Blois station"
+    "en": "'Navette Châteaux' shuttle bus from Blois station",
+    "fr": "Navette 'Navette Châteaux' depuis la gare de Blois"
   },
   "parking": {
     "de": "Kostenpflichtig (€6/Tag) ca. 200m vom Schloss entfernt",
     "hu": "Fizetős (6 €/nap), kb. 200 méterre a kastélytól",
     "ro": "Cu plată (6 €/zi), aprox. 200m de castel",
-    "en": "Paid (€6/day) approx. 200m from the castle"
+    "en": "Paid (€6/day) approx. 200m from the castle",
+    "fr": "Stationnement payant (€6/jour) env. 200 m du château"
   },
   "accessibility": {
     "de": "Erdgeschoss barrierefrei; Doppelwendeltreppe nicht zugänglich (Aufzug vorhanden)",
     "hu": "A földszint akadálymentesített; kettős csigalépcső nem elérhető (lift van)",
     "ro": "Parterul este accesibil; scara dublă în spirală nu este accesibilă (lift disponibil)",
-    "en": "Ground floor accessible; double helix staircase not accessible (elevator available)"
+    "en": "Ground floor accessible; double helix staircase not accessible (elevator available)",
+    "fr": "Rez-de-chaussée accessible ; escalier à double hélice inaccessible (ascenseur disponible)"
   },
   "photoRules": {
     "de": "Erlaubt ohne Blitz; gewerbliche Nutzung braucht Genehmigung",
     "hu": "Vaku nélkül engedélyezett; kereskedelmi használathoz engedély szükséges",
     "ro": "Permis fără bliț; utilizarea comercială necesită aprobare",
-    "en": "Allowed without flash; commercial use requires authorization"
+    "en": "Allowed without flash; commercial use requires authorization",
+    "fr": "Autorisé sans flash ; usage commercial nécessite une autorisation"
   },
   "bestTimeToVisit": {
     "de": "Direkt bei Öffnung um 09:00, um die Massen im Treppenhaus zu vermeiden",
     "hu": "Közvetlenül nyitáskor, 09:00-kor, a lépcsőházi tömeg elkerülése érdekében",
     "ro": "Imediat la deschidere la ora 09:00, pentru a evita aglomerația de pe scări",
-    "en": "Right at opening time at 9 AM to avoid crowds on the staircase"
+    "en": "Right at opening time at 9 AM to avoid crowds on the staircase",
+    "fr": "Dès l'ouverture à 9h pour éviter la foule sur l'escalier"
   },
   "audioGuide": {
     "de": "HistoPad (Tablet mit Augmented Reality) in DE verfügbar",
     "hu": "HistoPad (kiterjesztett valóságú táblagép) német nyelven elérhető",
     "ro": "HistoPad (tabletă cu realitate augmentată) disponibil în DE",
-    "en": "HistoPad (augmented reality tablet) available in DE"
+    "en": "HistoPad (augmented reality tablet) available in DE",
+    "fr": "HistoPad (tablette de réalité augmentée) disponible en DE"
   }
 }

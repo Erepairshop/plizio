@@ -21,7 +21,8 @@
             "de": "Rathaus von Le Château-d'Oléron",
             "hu": "Le Château-d'Oléron Városháza",
             "ro": "Primăria din Le Château-d'Oléron",
-            "en": "Town Hall of Le Château-d'Oléron"
+            "en": "Town Hall of Le Château-d'Oléron",
+            "fr": "Mairie du Château-d'Oléron"
           },
           "coords": [
             -1.19516,
@@ -36,7 +37,8 @@
             "de": "Bewundern Sie die klassische Architektur dieses historischen Rathauses im Zentrum, das die lokale Geschichte prägt, und kommen Sie morgens, wenn das Licht ideal für Fotos ist.",
             "hu": "Csodálja meg a központban található történelmi városháza klasszikus építészetét, amely meghatározza a helyi történelmet, és érkezzen kora reggel a tökéletes fotók kedvéért.",
             "ro": "Admirați arhitectura clasică a acestei primării istorice din centru, care definește istoria locală, și veniți dimineața devreme, când lumina este ideală pentru fotografii.",
-            "en": "Admire the classic architecture of this historic town hall in the center, which defines local history, and arrive early in the morning when the lighting is perfect for photos."
+            "en": "Admire the classic architecture of this historic town hall in the center, which defines local history, and arrive early in the morning when the lighting is perfect for photos.",
+            "fr": "Admirez l'architecture classique de cette mairie historique au centre, qui marque l'histoire locale, et arrivez tôt le matin lorsque la lumière est parfaite pour les photos."
           }
         },
         {
@@ -44,7 +46,8 @@
             "de": "Kirche Mariä Himmelfahrt",
             "hu": "Nagyboldogasszony-templom",
             "ro": "Biserica Adormirea Maicii Domnului",
-            "en": "Church of Our Lady of the Assumption"
+            "en": "Church of Our Lady of the Assumption",
+            "fr": "Église Notre-Dame-de-l'Assomption"
           },
           "coords": [
             -1.196633,
@@ -59,7 +62,8 @@
             "de": "Besichtigen Sie diese charmante Kirche wegen ihrer wunderschönen Buntglasfenster und der friedlichen Atmosphäre, während Sie bei einem Spaziergang die feinen Details beachten.",
             "hu": "Látogassa meg ezt a bájos templomot a gyönyörű ólomüveg ablakai és a békés légköre miatt, miközben csendben sétálva megfigyeli a finom építészeti részleteket.",
             "ro": "Vizitați această biserică fermecătoare pentru vitraliile sale superbe și atmosfera pașnică, făcând o plimbare liniștită pentru a observa detaliile arhitecturale fine.",
-            "en": "Visit this charming church for its beautiful stained glass windows and peaceful atmosphere, taking a quiet walk around to observe the fine architectural details carefully."
+            "en": "Visit this charming church for its beautiful stained glass windows and peaceful atmosphere, taking a quiet walk around to observe the fine architectural details carefully.",
+            "fr": "Visitez cette charmante église pour ses beaux vitraux et son atmosphère paisible ; faites une promenade tranquille autour pour observer attentivement les détails architecturaux."
           }
         },
         {
@@ -67,7 +71,8 @@
             "de": "Bunte Austernfischerhütten",
             "hu": "Színes osztrigahalász-kunyhók",
             "ro": "Cabanele colorate ale pescarilor de stridii",
-            "en": "Colorful oyster farmer huts"
+            "en": "Colorful oyster farmer huts",
+            "fr": "Cabanes colorées des ostréiculteurs"
           },
           "coords": [
             -1.194541,
@@ -82,7 +87,8 @@
             "de": "Schlendern Sie durch die lebhaften, bunten Hütten, in denen lokale Künstler und Austernzüchter arbeiten, und probieren Sie unbedingt frische Austern in einem der kleinen Stände.",
             "hu": "Sétáljon végig az élénk, színes kunyhók között, ahol helyi művészek és osztrigatenyésztők dolgoznak, és mindenképpen kóstolja meg a friss osztrigát az egyik kis bódénál.",
             "ro": "Plimbați-vă printre cabanele vii și colorate unde lucrează artiști locali și cultivatori de stridii, și asigurați-vă că gustați stridii proaspete la unul dintre standuri.",
-            "en": "Stroll through the vibrant, colorful huts where local artists and oyster farmers work, and make sure to taste fresh oysters at one of the small authentic local stands."
+            "en": "Stroll through the vibrant, colorful huts where local artists and oyster farmers work, and make sure to taste fresh oysters at one of the small authentic local stands.",
+            "fr": "Flânez parmi les cabanes vibrantes et colorées où travaillent des artistes locaux et des ostréiculteurs, et n'oubliez pas de déguster des huîtres fraîches à l'un des petits stands authentiques du coin."
           }
         },
         {
@@ -90,7 +96,8 @@
             "de": "Zitadelle von Château d'Oléron",
             "hu": "Château d'Oléron fellegvára",
             "ro": "Citadela Château d'Oléron",
-            "en": "Citadel of Château d'Oléron"
+            "en": "Citadel of Château d'Oléron",
+            "fr": "Citadelle du Château d'Oléron"
           },
           "coords": [
             -1.189328,
@@ -105,7 +112,8 @@
             "de": "Erkunden Sie diese massive historische Festung, die atemberaubende Ausblicke auf den Ozean bietet, und tragen Sie bequeme Schuhe, da das Gelände oft uneben und weitläufig ist.",
             "hu": "Fedezze fel ezt a hatalmas történelmi erődítményt, amely lenyűgöző kilátást nyújt az óceánra, és viseljen kényelmes cipőt, mivel a terep gyakran egyenetlen és hatalmas.",
             "ro": "Explorați această fortăreață istorică masivă care oferă vederi uimitoare asupra oceanului și purtați încălțăminte confortabilă, deoarece terenul este adesea denivelat și vast.",
-            "en": "Explore this massive historic fortress that offers stunning ocean views, and wear comfortable walking shoes as the terrain is often uneven and quite expansive to navigate."
+            "en": "Explore this massive historic fortress that offers stunning ocean views, and wear comfortable walking shoes as the terrain is often uneven and quite expansive to navigate.",
+            "fr": "Explorez cette imposante forteresse historique offrant de superbes vues sur l'océan, et portez des chaussures de marche confortables car le terrain est souvent inégal et assez vaste à parcourir."
           }
         },
         {
@@ -113,7 +121,8 @@
             "de": "Abfahrt des kleinen Zuges",
             "hu": "A kisvonat indulási pontja",
             "ro": "Punctul de plecare al trenulețului",
-            "en": "Departure of the Little Train"
+            "en": "Departure of the Little Train",
+            "fr": "Départ du Petit Train"
           },
           "coords": [
             -1.19005,
@@ -128,7 +137,8 @@
             "de": "Genießen Sie eine entspannte Fahrt mit dem kleinen Zug, der Ihnen einen perfekten Überblick über die Stadt bietet, und kaufen Sie Ihr Ticket im Voraus, um lange Wartezeiten zu vermeiden.",
             "hu": "Élvezze a pihentető utazást a kisvonattal, amely tökéletes áttekintést nyújt a városról, és vásárolja meg a jegyét előre, hogy elkerülje a hosszú várakozási időt a főszezonban.",
             "ro": "Bucurați-vă de o plimbare relaxantă cu trenulețul, care vă oferă o privire de ansamblu perfectă asupra orașului, și cumpărați-vă biletul în avans pentru a evita cozile lungi.",
-            "en": "Enjoy a relaxing ride on the little train, which gives you a perfect overview of the town, and buy your ticket in advance to avoid long waiting times during the peak season."
+            "en": "Enjoy a relaxing ride on the little train, which gives you a perfect overview of the town, and buy your ticket in advance to avoid long waiting times during the peak season.",
+            "fr": "Profitez d'une balade détendue en petit train, qui vous offre un excellent aperçu de la ville, et achetez votre billet à l'avance pour éviter de longues files en haute saison."
           }
         },
         {
@@ -136,7 +146,8 @@
             "de": "Bunte Strandhütten",
             "hu": "Színes tengerparti kabinok",
             "ro": "Cabane colorate pe plajă",
-            "en": "Colorful beach cabins"
+            "en": "Colorful beach cabins",
+            "fr": "Cabanes de plage colorées"
           },
           "coords": [
             -1.195789,
@@ -151,7 +162,8 @@
             "de": "Entdecken Sie die farbenfrohen Strandhütten, die der Küste einen malerischen Charme verleihen, und nutzen Sie die Gelegenheit für ein Picknick direkt am nahegelegenen Strandbereich.",
             "hu": "Fedezze fel a tengerpart festői báját adó színes kabinokat, és használja ki a lehetőséget egy kellemes piknikre közvetlenül a közeli homokos strandterületen.",
             "ro": "Descoperiți cabanele colorate de pe plajă care adaugă un farmec pitoresc coastei și profitați de ocazie pentru un picnic chiar în zona de plajă din apropiere.",
-            "en": "Discover the colorful beach cabins that add a picturesque charm to the coastline, and take the opportunity to enjoy a lovely picnic right on the nearby sandy beach area."
+            "en": "Discover the colorful beach cabins that add a picturesque charm to the coastline, and take the opportunity to enjoy a lovely picnic right on the nearby sandy beach area.",
+            "fr": "Découvrez les cabanes de plage colorées qui donnent un charme pittoresque au littoral, et profitez-en pour organiser un joli pique-nique sur la plage de sable à proximité."
           }
         },
         {
@@ -159,7 +171,8 @@
             "de": "Strand Plage du Mail",
             "hu": "Plage du Mail tengerpart",
             "ro": "Plaja Plage du Mail",
-            "en": "Plage du Mail beach"
+            "en": "Plage du Mail beach",
+            "fr": "Plage du Mail"
           },
           "coords": [
             -1.198471,
@@ -174,7 +187,8 @@
             "de": "Entspannen Sie sich an diesem ruhigen Sandstrand, der ideal zum Schwimmen und Sonnenbaden ist, und bringen Sie Sonnencreme sowie Wasser mit, da es kaum Schattenplätze gibt.",
             "hu": "Pihenjen ezen a csendes homokos strandon, amely ideális úszáshoz és napozáshoz, és hozzon magával naptejet, valamint vizet, mivel a területen alig van árnyékos rész.",
             "ro": "Relaxați-vă pe această plajă liniștită cu nisip, ideală pentru înot și plajă, și aduceți cremă de protecție solară, precum și apă, deoarece locurile umbrite sunt destul de rare.",
-            "en": "Relax on this quiet sandy beach which is ideal for swimming and sunbathing, and bring sunscreen along with plenty of water since shaded spots are quite scarce in the area."
+            "en": "Relax on this quiet sandy beach which is ideal for swimming and sunbathing, and bring sunscreen along with plenty of water since shaded spots are quite scarce in the area.",
+            "fr": "Détendez-vous sur cette plage de sable tranquille, idéale pour la baignade et le bronzage ; apportez de la crème solaire et beaucoup d'eau car les zones ombragées sont plutôt rares."
           }
         }
       ],
@@ -182,7 +196,8 @@
         "de": "Beginnen Sie den Morgen am zentralen Rathaus und der Kirche, wo Sie die historische Atmosphäre des Stadtkerns aufsaugen. Mittags schlendern Sie zu den bunten Austernhütten für einen frischen Snack. Der Nachmittag gehört der gewaltigen Zitadelle und einer Fahrt mit dem kleinen Zug. Abends entspannen Sie an den bunten Strandhütten und am Plage du Mail bei einem Spaziergang im Sand.",
         "hu": "Kezdje a reggelt a központi városházánál és a templomnál, magába szívva a városközpont történelmi hangulatát. Délben sétáljon el a színes osztrigakunyhókhoz egy friss, tengeri harapnivalóért. A délután a hatalmas fellegváré és egy élvezetes kisvonatozásé. Este pihenjen meg a tengerparti színes kabinoknál és a Plage du Mail strandon egy kellemes, homokos sétával.",
         "ro": "Începeți dimineața la primăria centrală și la biserică, absorbind atmosfera istorică a centrului orașului. La prânz, plimbați-vă spre cabanele colorate de stridii pentru o gustare proaspătă. După-amiaza aparține citadelei masive și unei plimbări relaxante cu trenulețul. Seara, relaxați-vă la cabanele colorate de pe plajă și la Plage du Mail cu o plimbare pe nisip.",
-        "en": "Start your morning at the central town hall and the church, soaking up the historical atmosphere of the town center. At midday, stroll to the colorful oyster huts for a fresh seafood snack. The afternoon is dedicated to exploring the massive citadel and enjoying a ride on the little train. In the evening, relax by the colorful beach cabins and the Plage du Mail with a walk in the sand."
+        "en": "Start your morning at the central town hall and the church, soaking up the historical atmosphere of the town center. At midday, stroll to the colorful oyster huts for a fresh seafood snack. The afternoon is dedicated to exploring the massive citadel and enjoying a ride on the little train. In the evening, relax by the colorful beach cabins and the Plage du Mail with a walk in the sand.",
+        "fr": "Commencez la matinée à la mairie centrale et à l'église, en vous imprégnant de l'atmosphère historique du centre-ville. À midi, dirigez-vous vers les cabanes colorées des ostréiculteurs pour une collation de fruits de mer frais. L'après-midi est consacré à l'exploration de la citadelle imposante et à une balade en petit train. Le soir, détendez-vous près des cabanes de plage colorées et de la Plage du Mail en marchant sur le sable."
       },
       "variants": {
         "rainy": {
@@ -190,7 +205,8 @@
             "de": "Am Morgen bietet das Rathaus Schutz vor dem ersten Regen. Mittags ist die Kirche ein friedlicher Ort zum Aufwärmen und Trocknen. Am Nachmittag erkunden wir die Zitadelle, deren Mauern Geschichte im Regen erzählen. Abends leuchten die bunten Hütten am Strand trotz des grauen Himmels auf dem nassen Sand, während die salzige Meeresluft den Geist erfrischt.",
             "hu": "Reggel a Városháza környékén kezdünk, ahol a kőépületek védelmet nyújtanak. Délben a templom csendje tökéletes menedék az eső elől. Délután a fellegvár falai között kalandozunk, figyelve a csúszós kövekre. Este a tengerparti kabinok színei vidámítják meg a szürkeséget a nedves homokon, miközben a sós tengeri szél felfrissíti az elmét.",
             "ro": "Dimineața începe la Primărie, unde clădirile oferă adăpost împotriva primilor stropi. La prânz, biserica este refugiul perfect pentru a rămâne uscat. După-amiaza explorăm citadela, fiind atenți la pavajul alunecos. Seara, culorile vii ale cabanelor de pe plajă înveselesc atmosfera cenușie pe nisipul ud, în timp ce aerul sărat al mării împrospătează simțurile.",
-            "en": "In the morning, the Town Hall provides shelter from the first rain. At noon, the church is a peaceful place to warm up and dry off. In the afternoon we explore the citadel, whose walls tell history in the rain, being careful of slippery stones. In the evening, the colorful huts on the beach brighten the grey atmosphere on the wet sand, while the salty sea air refreshes the mind."
+            "en": "In the morning, the Town Hall provides shelter from the first rain. At noon, the church is a peaceful place to warm up and dry off. In the afternoon we explore the citadel, whose walls tell history in the rain, being careful of slippery stones. In the evening, the colorful huts on the beach brighten the grey atmosphere on the wet sand, while the salty sea air refreshes the mind.",
+            "fr": "Le matin, la mairie offre un abri contre la première pluie. À midi, l'église est un lieu paisible pour se réchauffer et se sécher. L'après-midi nous explorons la citadelle, dont les murs racontent l'histoire sous la pluie, en faisant attention aux pierres glissantes. Le soir, les cabanes colorées sur la plage illuminent l'atmosphère grise sur le sable humide, tandis que l'air marin salé rafraîchit l'esprit."
           },
           "stops": [
             {
@@ -198,13 +214,15 @@
                 "de": "Rathaus von Le Château-d'Oléron",
                 "hu": "Le Château-d'Oléron Városháza",
                 "ro": "Primăria din Le Château-d'Oléron",
-                "en": "Town Hall of Le Château-d'Oléron"
+                "en": "Town Hall of Le Château-d'Oléron",
+                "fr": "Mairie du Château-d'Oléron"
               },
               "tip_5lang": {
                 "de": "Bewundern Sie die Architektur im Schutz der Dachvorsprünge; die Steinfassade wirkt vor dem dunklen, regnerischen Himmel besonders dramatisch und atmosphärisch.",
                 "hu": "Csodálja meg az építészetet a városháza ereszei alatt; az idős kőhomlokzat különösen drámai és hangulatos látványt nyújt a sötét, esős égbolt előtt.",
                 "ro": "Admirați arhitectura sub streșinile primăriei; fațada de piatră arată deosebit de dramatic și atmosferic pe fundalul cerului întunecat și ploios.",
-                "en": "Admire the architecture while staying dry under the eaves; the stone facade looks particularly dramatic and atmospheric against the dark, rainy sky."
+                "en": "Admire the architecture while staying dry under the eaves; the stone facade looks particularly dramatic and atmospheric against the dark, rainy sky.",
+                "fr": "Admirez l'architecture tout en restant au sec sous les avant-toits ; la façade en pierre est particulièrement dramatique et atmosphérique sous le ciel gris et pluvieux."
               }
             },
             {
@@ -212,13 +230,15 @@
                 "de": "Kirche Mariä Himmelfahrt",
                 "hu": "Nagyboldogasszony-templom",
                 "ro": "Biserica Adormirea Maicii Domnului",
-                "en": "Church of Our Lady of the Assumption"
+                "en": "Church of Our Lady of the Assumption",
+                "fr": "Église Notre-Dame-de-l'Assomption"
               },
               "tip_5lang": {
                 "de": "Ein perfekter Zufluchtsort vor dem Regenguss; erkunden Sie das ruhige, stimmungsvolle Innere und warten Sie, bis der Regen nachlässt, bevor Sie weiterziehen.",
                 "hu": "Tökéletes menedék a felhőszakadás elől; fedezze fel a csendes, hangulatos belső teret, és várja meg, amíg az eső alábbhagy, mielőtt továbbindulna.",
                 "ro": "Un refugiu perfect în fața averselor; explorați interiorul liniștit și plin de atmosferă și așteptați ca ploaia să se domolească înainte de a pleca mai departe.",
-                "en": "A perfect refuge from the downpour; explore the quiet, atmospheric interior and wait for the rain to subside before continuing your journey further."
+                "en": "A perfect refuge from the downpour; explore the quiet, atmospheric interior and wait for the rain to subside before continuing your journey further.",
+                "fr": "Un refuge parfait contre l'averse ; explorez l'intérieur calme et atmosphérique et attendez que la pluie cesse avant de poursuivre votre visite."
               }
             },
             {
@@ -226,13 +246,15 @@
                 "de": "Bunte Austernfischerhütten",
                 "hu": "Színes osztrigahalász-kunyhók",
                 "ro": "Cabanele colorate ale pescarilor de stridii",
-                "en": "Colorful oyster farmer huts"
+                "en": "Colorful oyster farmer huts",
+                "fr": "Cabanes colorées des ostréiculteurs"
               },
               "tip_5lang": {
                 "de": "Die Farben leuchten auch unter grauem Himmel; seien Sie auf den nassen Holzstegen vorsichtig, da diese bei Regen sehr rutschig werden können.",
                 "hu": "A kunyhók színei még a szürke ég alatt is ragyognak; legyen rendkívül óvatos a nedves fapadlókon, mivel azok esőben nagyon csúszóssá válhatnak.",
                 "ro": "Culorile strălucesc chiar și sub cerul gri; fiți extrem de atenți pe podețele de lemn umede, deoarece pot deveni foarte alunecoase în timpul ploii.",
-                "en": "The colors glow even under grey skies; be extremely careful on the wet wooden walkways as they can become very slippery during heavy rainfall."
+                "en": "The colors glow even under grey skies; be extremely careful on the wet wooden walkways as they can become very slippery during heavy rainfall.",
+                "fr": "Les couleurs brillent même sous un ciel gris ; soyez très prudent sur les passerelles en bois mouillées car elles peuvent devenir très glissantes par forte pluie."
               }
             },
             {
@@ -240,13 +262,15 @@
                 "de": "Zitadelle von Château d'Oléron",
                 "hu": "Château d'Oléron fellegvára",
                 "ro": "Citadela Château d'Oléron",
-                "en": "Citadel of Château d'Oléron"
+                "en": "Citadel of Château d'Oléron",
+                "fr": "Citadelle du Château d'Oléron"
               },
               "tip_5lang": {
                 "de": "Erkunden Sie die Steinfestungen, die etwas Schutz bieten; die Kasematten sind ideal, um dem Regen zu entfliehen und maritime Geschichte zu erleben.",
                 "hu": "Fedezze fel a kőerődítményeket, amelyek némi menedéket nyújtanak; a kazamaták tökéletesek az eső elleni védekezésre a tengeri múlt megismerése közben.",
                 "ro": "Explorați fortificațiile de piatră care oferă adăpost; cazămatele sunt perfecte pentru a vă ascunde de ploaie în timp ce aflați istoria maritimă.",
-                "en": "Explore the stone fortifications which offer some shelter; the casemates are perfect to hide from the rain while absorbing the rich maritime history."
+                "en": "Explore the stone fortifications which offer some shelter; the casemates are perfect to hide from the rain while absorbing the rich maritime history.",
+                "fr": "Explorez les fortifications en pierre qui offrent un certain abri ; les casemates sont parfaites pour se protéger de la pluie tout en s'imprégnant de la riche histoire maritime."
               }
             },
             {
@@ -254,13 +278,15 @@
                 "de": "Abfahrt des kleinen Zuges",
                 "hu": "A kisvonat indulási pontja",
                 "ro": "Punctul de plecare al trenulețului",
-                "en": "Departure of the Little Train"
+                "en": "Departure of the Little Train",
+                "fr": "Départ du Petit Train"
               },
               "tip_5lang": {
                 "de": "Prüfen Sie, ob der Zug überdacht ist; das Prasseln des Regens auf dem Dach sorgt für eine gemütliche Atmosphäre während der Fahrt durch die Stadt.",
                 "hu": "Ellenőrizze, hogy a vonat fedett-e a száraz városnézéshez; a tetőn kopogó eső ritmusa barátságos hangulatot áraszt a városban haladva.",
                 "ro": "Verificați dacă trenulețul este acoperit; ritmul ploii pe acoperiș creează o atmosferă primitoare în timp ce parcurgeți orașul la adăpost.",
-                "en": "Check if the train is covered for a dry tour; the rhythm of the rain on the roof creates a cozy atmosphere as you glide through the town sheltered."
+                "en": "Check if the train is covered for a dry tour; the rhythm of the rain on the roof creates a cozy atmosphere as you glide through the town sheltered.",
+                "fr": "Vérifiez si le train est couvert pour une visite au sec ; le rythme de la pluie sur le toit crée une atmosphère cosy pendant que vous glissez à travers la ville à l'abri."
               }
             },
             {
@@ -268,13 +294,15 @@
                 "de": "Bunte Strandhütten",
                 "hu": "Színes tengerparti kabinok",
                 "ro": "Cabane colorate pe plajă",
-                "en": "Colorful beach cabins"
+                "en": "Colorful beach cabins",
+                "fr": "Cabanes de plage colorées"
               },
               "tip_5lang": {
                 "de": "Diese Farbtupfer hellen einen Regentag auf; die Wege können schlammig sein, bleiben Sie daher auf dem festen Untergrund in der Nähe der Hütten.",
                 "hu": "Ezek a színfoltok felvidítják az esős napot; az utak sárosak lehetnek, ezért maradjon a kabinok közelében lévő szilárdabb talajon.",
                 "ro": "Aceste pete de culoare înveselesc o zi ploioasă; potecile pot fi noroioase, așa că rămâneți pe terenul mai ferm din apropierea cabinelor.",
-                "en": "These bright spots cheer up a rainy day; the paths can be muddy, so stick to the firmer ground near the cabins to keep your footwear clean."
+                "en": "These bright spots cheer up a rainy day; the paths can be muddy, so stick to the firmer ground near the cabins to keep your footwear clean.",
+                "fr": "Ces touches colorées égayent une journée pluvieuse ; les chemins peuvent être boueux, restez donc sur le terrain plus ferme près des cabanes pour garder vos chaussures propres."
               }
             },
             {
@@ -282,13 +310,15 @@
                 "de": "Strand Plage du Mail",
                 "hu": "Plage du Mail tengerpart",
                 "ro": "Plaja Plage du Mail",
-                "en": "Plage du Mail beach"
+                "en": "Plage du Mail beach",
+                "fr": "Plage du Mail"
               },
               "tip_5lang": {
                 "de": "Der Strand wirkt im Regen wild; beobachten Sie die Wellen vom Rand des Sandes aus und achten Sie darauf, dass Ihre Regenkleidung gut geschlossen ist.",
                 "hu": "A tengerpart vad arcát mutatja esőben; figyelje a feltörő hullámokat a homok széléről, és győződjön meg róla, hogy az esővédője jól zár.",
                 "ro": "Plaja capătă un caracter sălbatic în ploaie; priviți valurile de la marginea nisipului și asigurați-vă că haina impermeabilă este bine închisă.",
-                "en": "The beach takes on a wild character in the rain; watch the waves from the edge of the sand and ensure your waterproof gear is tightly sealed."
+                "en": "The beach takes on a wild character in the rain; watch the waves from the edge of the sand and ensure your waterproof gear is tightly sealed.",
+                "fr": "La plage prend un caractère sauvage sous la pluie ; observez les vagues depuis le bord du sable et assurez-vous que votre équipement imperméable est bien fermé."
               }
             }
           ]
@@ -298,7 +328,8 @@
             "de": "Der Morgen beginnt erfrischend kühl am Rathausplatz. Mittags bietet die Kirche eine willkommene Pause in der Wärme. Am Nachmittag genießen wir die klare Sicht von der Zitadelle aus, bevor der Wind zu kalt wird. Abends endet der Tag am Strand, rechtzeitig vor dem frühen Sonnenuntergang gegen 17:00 Uhr und der einsetzenden Winterkälte am Meer.",
             "hu": "A reggel friss és csípős a Városházánál, öltözzön rétegesen. Délben a templom hűvös belső tere helyett a csend nyújt nyugalmat. Délután a fellegvár falain a tengeri szél metsző lehet, de a kilátás tiszta. Este a tengerparton ér minket a korai, 17:00 körüli naplemente, mielőtt a sötét és a hideg végleg átveszi az uralmat.",
             "ro": "Dimineața începe răcoros în piața Primăriei. La prânz, biserica oferă o pauză binemeritată la căldură. După-amiaza ne bucurăm de vizibilitatea clară de la citadelă, înainte ca vântul să devină prea tăios. Seara se încheie pe plajă, chiar înainte de apusul timpuriu de la ora 17:00 și de lăsarea frigului de iarnă.",
-            "en": "The morning starts refreshingly cool at the Town Hall square. At noon, the church offers a welcome break in the warmth. In the afternoon we enjoy the clear views from the citadel before the wind gets too cold. In the evening the day ends at the beach, just in time for the early sunset around 17:00 and the onset of the winter chill."
+            "en": "The morning starts refreshingly cool at the Town Hall square. At noon, the church offers a welcome break in the warmth. In the afternoon we enjoy the clear views from the citadel before the wind gets too cold. In the evening the day ends at the beach, just in time for the early sunset around 17:00 and the onset of the winter chill.",
+            "fr": "La matinée commence agréablement fraîche sur la place de la mairie. À midi, l'église offre une pause bienvenue au chaud. L'après-midi nous profitons des vues dégagées depuis la citadelle avant que le vent ne devienne trop froid. Le soir, la journée se termine à la plage, juste à temps pour le coucher du soleil anticipé vers 17:00 et l'arrivée du froid hivernal."
           },
           "stops": [
             {
@@ -306,13 +337,15 @@
                 "de": "Rathaus von Le Château-d'Oléron",
                 "hu": "Le Château-d'Oléron Városháza",
                 "ro": "Primăria din Le Château-d'Oléron",
-                "en": "Town Hall of Le Château-d'Oléron"
+                "en": "Town Hall of Le Château-d'Oléron",
+                "fr": "Mairie du Château-d'Oléron"
               },
               "tip_5lang": {
                 "de": "Der historische Platz ist im Winter friedlich; tragen Sie einen warmen Mantel, da die Meeresbrise hier recht beißend sein kann.",
                 "hu": "A történelmi tér télen békés; viseljen meleg kabátot, mivel a tengeri szellő itt elég metsző lehet ilyenkor.",
                 "ro": "Piața istorică este liniștită iarna; purtați o haină groasă, deoarece briza mării poate fi destul de tăioasă aici.",
-                "en": "The historic square is peaceful in winter; wear a warm coat as the sea breeze can be quite biting here during the morning hours."
+                "en": "The historic square is peaceful in winter; wear a warm coat as the sea breeze can be quite biting here during the morning hours.",
+                "fr": "La place historique est paisible en hiver ; portez un manteau chaud car la brise marine peut être assez pénétrante le matin."
               }
             },
             {
@@ -320,13 +353,15 @@
                 "de": "Kirche Mariä Himmelfahrt",
                 "hu": "Nagyboldogasszony-templom",
                 "ro": "Biserica Adormirea Maicii Domnului",
-                "en": "Church of Our Lady of the Assumption"
+                "en": "Church of Our Lady of the Assumption",
+                "fr": "Église Notre-Dame-de-l'Assomption"
               },
               "tip_5lang": {
                 "de": "Gehen Sie hinein, um der Winterkälte zu entfliehen; die friedliche Atmosphäre ist perfekt für einen Moment der Ruhe während Ihres Spaziergangs.",
                 "hu": "Lépjen be, hogy elmeneküljön a téli hideg elől; a békés légkör tökéletes egy pillanatnyi nyugalomhoz a séta során.",
                 "ro": "Intrați în interior pentru a scăpa de frigul iernii; atmosfera liniștită este perfectă pentru un moment de tihnă în timpul plimbării.",
-                "en": "Step inside to escape the winter chill; the peaceful atmosphere is perfect for a moment of quiet reflection during your brisk morning walk."
+                "en": "Step inside to escape the winter chill; the peaceful atmosphere is perfect for a moment of quiet reflection during your brisk morning walk.",
+                "fr": "Entrez pour échapper au froid hivernal ; l'atmosphère paisible est parfaite pour un moment de recueillement lors de votre promenade matinale vivifiante."
               }
             },
             {
@@ -334,13 +369,15 @@
                 "de": "Bunte Austernfischerhütten",
                 "hu": "Színes osztrigahalász-kunyhók",
                 "ro": "Cabanele colorate ale pescarilor de stridii",
-                "en": "Colorful oyster farmer huts"
+                "en": "Colorful oyster farmer huts",
+                "fr": "Cabanes colorées des ostréiculteurs"
               },
               "tip_5lang": {
                 "de": "Erleben Sie die authentische Seite des Hafens; die tiefstehende Wintersonne wirft lange, schöne Schatten auf das farbige Holz der Hütten.",
                 "hu": "Ismerje meg a kikötő hiteles oldalát; az alacsonyan járó téli nap hosszú, gyönyörű árnyékokat vet a kunyhók színes deszkáira.",
                 "ro": "Experimentați latura autentică a portului; soarele slab de iarnă proiectează umbre lungi și frumoase pe lemnul colorat al cabanelor.",
-                "en": "Experience the authentic side of the port; the low winter sun creates long, beautiful shadows on the colorful wooden planks of the huts."
+                "en": "Experience the authentic side of the port; the low winter sun creates long, beautiful shadows on the colorful wooden planks of the huts.",
+                "fr": "Vivez le côté authentique du port ; le faible soleil d'hiver crée de longues et belles ombres sur les planches colorées des cabanes."
               }
             },
             {
@@ -348,13 +385,15 @@
                 "de": "Zitadelle von Château d'Oléron",
                 "hu": "Château d'Oléron fellegvára",
                 "ro": "Citadela Château d'Oléron",
-                "en": "Citadel of Château d'Oléron"
+                "en": "Citadel of Château d'Oléron",
+                "fr": "Citadelle du Château d'Oléron"
               },
               "tip_5lang": {
                 "de": "Packen Sie sich warm ein; die Aussicht auf den Atlantik ist in der kalten Winterluft besonders klar und beeindruckend von den Wällen aus.",
                 "hu": "Öltözzön fel melegen; az Atlanti-óceánra nyíló kilátás különösen tiszta és lenyűgöző a bástyákról a hideg téli levegőben.",
                 "ro": "Îmbrăcați-vă bine; vederea spre Atlantic este deosebit de clară și impresionantă de pe bastioane în aerul rece de iarnă.",
-                "en": "Wrap up warm for the walk; the view of the Atlantic is stunningly clear and impressive from the ramparts in the cold winter air."
+                "en": "Wrap up warm for the walk; the view of the Atlantic is stunningly clear and impressive from the ramparts in the cold winter air.",
+                "fr": "Couvrez-vous bien pour la promenade ; la vue sur l'Atlantique est d'une clarté et d'une grandeur impressionnantes depuis les remparts dans l'air froid de l'hiver."
               }
             },
             {
@@ -362,13 +401,15 @@
                 "de": "Abfahrt des kleinen Zuges",
                 "hu": "A kisvonat indulási pontja",
                 "ro": "Punctul de plecare al trenulețului",
-                "en": "Departure of the Little Train"
+                "en": "Departure of the Little Train",
+                "fr": "Départ du Petit Train"
               },
               "tip_5lang": {
                 "de": "Eine windige, aber schöne Winterfahrt; ziehen Sie Handschuhe an, um die Aussicht zu genießen, bevor die frühe Dunkelheit einsetzt.",
                 "hu": "Szeles, de látványos téli utazás; viseljen kesztyűt, hogy élvezhesse a kilátást, mielőtt a korai sötétség beállna.",
                 "ro": "O plimbare de iarnă răcoroasă; puneți-vă mănușile pentru a admira coasta înainte ca întunericul să se lase devreme.",
-                "en": "A breezy but scenic winter ride; wrap up with warm gloves to enjoy the coastal views before the early darkness sets in around late afternoon."
+                "en": "A breezy but scenic winter ride; wrap up with warm gloves to enjoy the coastal views before the early darkness sets in around late afternoon.",
+                "fr": "Une balade hivernale venteuse mais panoramique ; pensez à des gants chauds pour profiter des vues côtières avant que l'obscurité ne tombe tôt en fin d'après-midi."
               }
             },
             {
@@ -376,13 +417,15 @@
                 "de": "Bunte Strandhütten",
                 "hu": "Színes tengerparti kabinok",
                 "ro": "Cabane colorate pe plajă",
-                "en": "Colorful beach cabins"
+                "en": "Colorful beach cabins",
+                "fr": "Cabanes de plage colorées"
               },
               "tip_5lang": {
                 "de": "Die verlassenen Strandhütten haben einen besonderen Charme; die Farben leuchten hell, auch wenn die Sommermassen längst verschwunden sind.",
                 "hu": "Az elhagyatott tengerparti kabinoknak különleges bájuk van; a színek élénkek maradnak akkor is, amikor a nyári tömeg már rég elment.",
                 "ro": "Cabanele pustii au un farmec aparte; culorile rămân vii chiar și după ce mulțimile de vară au dispărut de mult.",
-                "en": "The deserted beach cabins have a unique winter charm; the colors remain bright even when the summer crowds have long since disappeared."
+                "en": "The deserted beach cabins have a unique winter charm; the colors remain bright even when the summer crowds have long since disappeared.",
+                "fr": "Les cabanes de plage désertes ont un charme hivernal unique ; leurs couleurs restent vives même lorsque la foule estivale est depuis longtemps partie."
               }
             },
             {
@@ -390,13 +433,15 @@
                 "de": "Strand Plage du Mail",
                 "hu": "Plage du Mail tengerpart",
                 "ro": "Plaja Plage du Mail",
-                "en": "Plage du Mail beach"
+                "en": "Plage du Mail beach",
+                "fr": "Plage du Mail"
               },
               "tip_5lang": {
                 "de": "Genießen Sie die Stille am Winterstrand; beenden Sie Ihren Spaziergang bis 17:00 Uhr, bevor die Temperaturen nach Sonnenuntergang stark sinken.",
                 "hu": "Élvezze a téli tengerparti csendet; fejezze be a sétát 17:00-ig, mielőtt a hőmérséklet a naplemente után hirtelen lecsökkenne.",
                 "ro": "Bucurați-vă de liniștea plajei iarna; încheiați plimbarea până la ora 17:00, înainte ca temperaturile să scadă brusc după apus.",
-                "en": "Enjoy the serene isolation of the winter beach; be sure to conclude your walk by 17:00 before the temperature drops sharply after sunset."
+                "en": "Enjoy the serene isolation of the winter beach; be sure to conclude your walk by 17:00 before the temperature drops sharply after sunset.",
+                "fr": "Profitez de l'isolement serein de la plage d'hiver ; veillez à conclure votre promenade avant 17:00 avant que la température ne chute fortement après le coucher du soleil."
               }
             }
           ]
@@ -416,7 +461,8 @@
             "de": "Mühle Picotelle",
             "hu": "Picotelle szélmalom",
             "ro": "Moara Picotelle",
-            "en": "Picotelle Windmill"
+            "en": "Picotelle Windmill",
+            "fr": "Moulin à vent de Picotelle"
           },
           "coords": [
             -1.207164,
@@ -431,7 +477,8 @@
             "de": "Bewundern Sie diese gut erhaltene historische Windmühle, die ein großartiges Beispiel lokaler Handwerkskunst ist, und spazieren Sie bei Sonnenuntergang um das Gelände herum.",
             "hu": "Csodálja meg ezt a jól megőrzött történelmi szélmalmot, amely a helyi kézművesség nagyszerű példája, és sétáljon egyet a területen naplemente idején a szép fényekért.",
             "ro": "Admirați această moară de vânt istorică bine conservată, care este un exemplu excelent de meșteșug local, și faceți o plimbare în jurul sitului la apusul soarelui.",
-            "en": "Admire this well-preserved historic windmill which is a great example of local craftsmanship, and take a stroll around the site during sunset for the most beautiful lighting."
+            "en": "Admire this well-preserved historic windmill which is a great example of local craftsmanship, and take a stroll around the site during sunset for the most beautiful lighting.",
+            "fr": "Admirez ce moulin à vent historique bien préservé, excellent exemple du savoir-faire local, et faites une promenade sur le site au coucher du soleil pour la plus belle lumière."
           }
         },
         {
@@ -439,7 +486,8 @@
             "de": "Alte Mühle",
             "hu": "Régi szélmalom",
             "ro": "Moara veche",
-            "en": "Old Windmill"
+            "en": "Old Windmill",
+            "fr": "Vieux Moulin"
           },
           "coords": [
             -1.203671,
@@ -454,7 +502,8 @@
             "de": "Besichtigen Sie die alte Mühle als ein charmantes Relikt der landwirtschaftlichen Vergangenheit der Insel, und kombinieren Sie den Besuch mit einer kurzen Radtour in der Umgebung.",
             "hu": "Tekintse meg a régi szélmalmot, mint a sziget mezőgazdasági múltjának bájos emlékét, és kösse össze a látogatást egy rövid, kellemes kerékpártúrával a festői környéken.",
             "ro": "Vizitați vechea moară ca o relicvă fermecătoare a trecutului agricol al insulei, și combinați vizita cu o scurtă plimbare cu bicicleta în zona pitorească din jur.",
-            "en": "Visit the old windmill as a charming relic of the island's agricultural past, and combine your visit with a short, pleasant bike ride in the scenic surrounding countryside."
+            "en": "Visit the old windmill as a charming relic of the island's agricultural past, and combine your visit with a short, pleasant bike ride in the scenic surrounding countryside.",
+            "fr": "Visitez le vieux moulin, charmant vestige du passé agricole de l'île, et combinez la visite avec une courte et agréable balade à vélo dans la campagne environnante pittoresque."
           }
         },
         {
@@ -462,7 +511,8 @@
             "de": "Kirche Mariä Himmelfahrt",
             "hu": "Nagyboldogasszony-templom",
             "ro": "Biserica Adormirea Maicii Domnului",
-            "en": "Church of Our Lady of the Assumption"
+            "en": "Church of Our Lady of the Assumption",
+            "fr": "Église Notre-Dame-de-l'Assomption"
           },
           "coords": [
             -1.196633,
@@ -477,7 +527,8 @@
             "de": "Besichtigen Sie diese charmante Kirche wegen ihrer wunderschönen Buntglasfenster und der friedlichen Atmosphäre, während Sie bei einem Spaziergang die feinen Details beachten.",
             "hu": "Látogassa meg ezt a bájos templomot a gyönyörű ólomüveg ablakai és a békés légköre miatt, miközben csendben sétálva megfigyeli a finom építészeti részleteket.",
             "ro": "Vizitați această biserică fermecătoare pentru vitraliile sale superbe și atmosfera pașnică, făcând o plimbare liniștită pentru a observa detaliile arhitecturale fine.",
-            "en": "Visit this charming church for its beautiful stained glass windows and peaceful atmosphere, taking a quiet walk around to observe the fine architectural details carefully."
+            "en": "Visit this charming church for its beautiful stained glass windows and peaceful atmosphere, taking a quiet walk around to observe the fine architectural details carefully.",
+            "fr": "Visitez cette charmante église pour ses beaux vitraux et son atmosphère paisible ; faites une promenade tranquille autour pour observer attentivement les détails architecturaux."
           }
         },
         {
@@ -485,7 +536,8 @@
             "de": "Bunte Austernfischerhütten",
             "hu": "Színes osztrigahalász-kunyhók",
             "ro": "Cabanele colorate ale pescarilor de stridii",
-            "en": "Colorful oyster farmer huts"
+            "en": "Colorful oyster farmer huts",
+            "fr": "Cabanes colorées des ostréiculteurs"
           },
           "coords": [
             -1.194541,
@@ -500,7 +552,8 @@
             "de": "Schlendern Sie durch die lebhaften, bunten Hütten, in denen lokale Künstler und Austernzüchter arbeiten, und probieren Sie unbedingt frische Austern in einem der kleinen Stände.",
             "hu": "Sétáljon végig az élénk, színes kunyhók között, ahol helyi művészek és osztrigatenyésztők dolgoznak, és mindenképpen kóstolja meg a friss osztrigát az egyik kis bódénál.",
             "ro": "Plimbați-vă printre cabanele vii și colorate unde lucrează artiști locali și cultivatori de stridii, și asigurați-vă că gustați stridii proaspete la unul dintre standuri.",
-            "en": "Stroll through the vibrant, colorful huts where local artists and oyster farmers work, and make sure to taste fresh oysters at one of the small authentic local stands."
+            "en": "Stroll through the vibrant, colorful huts where local artists and oyster farmers work, and make sure to taste fresh oysters at one of the small authentic local stands.",
+            "fr": "Flânez parmi les cabanes vibrantes et colorées où travaillent des artistes locaux et des ostréiculteurs, et n'oubliez pas de déguster des huîtres fraîches à l'un des petits stands authentiques du coin."
           }
         },
         {
@@ -508,7 +561,8 @@
             "de": "Zitadelle von Château d'Oléron",
             "hu": "Château d'Oléron fellegvára",
             "ro": "Citadela Château d'Oléron",
-            "en": "Citadel of Château d'Oléron"
+            "en": "Citadel of Château d'Oléron",
+            "fr": "Citadelle du Château d'Oléron"
           },
           "coords": [
             -1.189328,
@@ -523,7 +577,8 @@
             "de": "Erkunden Sie diese massive historische Festung, die atemberaubende Ausblicke auf den Ozean bietet, und tragen Sie bequeme Schuhe, da das Gelände oft uneben und weitläufig ist.",
             "hu": "Fedezze fel ezt a hatalmas történelmi erődítményt, amely lenyűgöző kilátást nyújt az óceánra, és viseljen kényelmes cipőt, mivel a terep gyakran egyenetlen és hatalmas.",
             "ro": "Explorați această fortăreață istorică masivă care oferă vederi uimitoare asupra oceanului și purtați încălțăminte confortabilă, deoarece terenul este adesea denivelat și vast.",
-            "en": "Explore this massive historic fortress that offers stunning ocean views, and wear comfortable walking shoes as the terrain is often uneven and quite expansive to navigate."
+            "en": "Explore this massive historic fortress that offers stunning ocean views, and wear comfortable walking shoes as the terrain is often uneven and quite expansive to navigate.",
+            "fr": "Explorez cette imposante forteresse historique offrant de superbes vues sur l'océan, et portez des chaussures de marche confortables car le terrain est souvent inégal et assez vaste à parcourir."
           }
         },
         {
@@ -531,7 +586,8 @@
             "de": "Bunte Strandhütten",
             "hu": "Színes tengerparti kabinok",
             "ro": "Cabane colorate pe plajă",
-            "en": "Colorful beach cabins"
+            "en": "Colorful beach cabins",
+            "fr": "Cabanes de plage colorées"
           },
           "coords": [
             -1.195789,
@@ -546,7 +602,8 @@
             "de": "Entdecken Sie die farbenfrohen Strandhütten, die der Küste einen malerischen Charme verleihen, und nutzen Sie die Gelegenheit für ein Picknick direkt am nahegelegenen Strandbereich.",
             "hu": "Fedezze fel a tengerpart festői báját adó színes kabinokat, és használja ki a lehetőséget egy kellemes piknikre közvetlenül a közeli homokos strandterületen.",
             "ro": "Descoperiți cabanele colorate de pe plajă care adaugă un farmec pitoresc coastei și profitați de ocazie pentru un picnic chiar în zona de plajă din apropiere.",
-            "en": "Discover the colorful beach cabins that add a picturesque charm to the coastline, and take the opportunity to enjoy a lovely picnic right on the nearby sandy beach area."
+            "en": "Discover the colorful beach cabins that add a picturesque charm to the coastline, and take the opportunity to enjoy a lovely picnic right on the nearby sandy beach area.",
+            "fr": "Découvrez les cabanes de plage colorées qui donnent un charme pittoresque au littoral, et profitez-en pour organiser un joli pique-nique sur la plage de sable à proximité."
           }
         },
         {
@@ -554,7 +611,8 @@
             "de": "Strand Plage du Mail",
             "hu": "Plage du Mail tengerpart",
             "ro": "Plaja Plage du Mail",
-            "en": "Plage du Mail beach"
+            "en": "Plage du Mail beach",
+            "fr": "Plage du Mail"
           },
           "coords": [
             -1.198471,
@@ -569,7 +627,8 @@
             "de": "Entspannen Sie sich an diesem ruhigen Sandstrand, der ideal zum Schwimmen und Sonnenbaden ist, und bringen Sie Sonnencreme sowie Wasser mit, da es kaum Schattenplätze gibt.",
             "hu": "Pihenjen ezen a csendes homokos strandon, amely ideális úszáshoz és napozáshoz, és hozzon magával naptejet, valamint vizet, mivel a területen alig van árnyékos rész.",
             "ro": "Relaxați-vă pe această plajă liniștită cu nisip, ideală pentru înot și plajă, și aduceți cremă de protecție solară, precum și apă, deoarece locurile umbrite sunt destul de rare.",
-            "en": "Relax on this quiet sandy beach which is ideal for swimming and sunbathing, and bring sunscreen along with plenty of water since shaded spots are quite scarce in the area."
+            "en": "Relax on this quiet sandy beach which is ideal for swimming and sunbathing, and bring sunscreen along with plenty of water since shaded spots are quite scarce in the area.",
+            "fr": "Détendez-vous sur cette plage de sable tranquille, idéale pour la baignade et le bronzage ; apportez de la crème solaire et beaucoup d'eau car les zones ombragées sont plutôt rares."
           }
         }
       ],
@@ -577,7 +636,8 @@
         "de": "Der Morgen startet sportlich an den alten Windmühlen, bevor Sie zur zentralen Kirche radeln. Mittags erreichen Sie die malerischen Austernhütten für eine wohlverdiente Pause am Wasser. Am Nachmittag erkunden Sie die imposante Festungsanlage der Zitadelle in Ihrem eigenen Tempo. Zum Tagesabschluss fahren Sie entspannt zu den Strandhütten und lassen den Abend am Plage du Mail ausklingen.",
         "hu": "A reggel sportosan indul a régi szélmalmoknál, mielőtt a központi templomhoz kerekezne. Délben érje el a festői osztrigakunyhókat egy jól megérdemelt pihenőre a vízparton. Délután fedezze fel a fellegvár impozáns erődítményrendszerét a saját tempójában. A nap végén tekerjen el lazán a tengerparti kabinokhoz, és zárja az estét a Plage du Mail homokos partján.",
         "ro": "Dimineața începe sportiv la vechile mori de vânt înainte de a pedala spre biserica centrală. La prânz, ajungeți la cabanele pitorești de stridii pentru o pauză binemeritată la malul apei. După-amiaza, explorați fortificația impresionantă a citadelei în propriul ritm. La sfârșitul zilei, mergeți cu bicicleta la cabanele de pe plajă și încheiați seara la Plage du Mail.",
-        "en": "The morning starts actively at the old windmills before you cycle to the central church. At midday, reach the picturesque oyster huts for a well-deserved break by the water. In the afternoon, explore the impressive fortifications of the citadel at your own pace. To end the day, take a relaxing ride to the beach cabins and let the evening fade away at Plage du Mail."
+        "en": "The morning starts actively at the old windmills before you cycle to the central church. At midday, reach the picturesque oyster huts for a well-deserved break by the water. In the afternoon, explore the impressive fortifications of the citadel at your own pace. To end the day, take a relaxing ride to the beach cabins and let the evening fade away at Plage du Mail.",
+        "fr": "La matinée commence activement aux vieux moulins avant de pédaler jusqu'à l'église centrale. À midi, atteignez les cabanes d'ostréiculteurs pittoresques pour une pause bien méritée au bord de l'eau. L'après-midi, explorez à votre rythme les impressionnantes fortifications de la citadelle. Pour terminer la journée, faites une balade relaxante jusqu'aux cabanes de plage et laissez la soirée se fondre à la Plage du Mail."
       },
       "variants": {
         "rainy": {
@@ -585,7 +645,8 @@
             "de": "Radfahren auf nassen Wegen erfordert Vorsicht. Wir beginnen bei den Windmühlen, wo der Wind den Regen peitscht. Mittags bietet die Kirche eine trockene Pause für Mensch und Rad. Nachmittags erkunden wir die Zitadelle und die bunten Hütten im Hafen. Der Tag endet am Strand, wo die Wellen unter dem regnerischen Himmel wild gegen die Küste schlagen.",
             "hu": "A vizes utakon való kerékpározás óvatosságot igényel. A szélmalmoknál kezdünk, ahol a szél korbácsolja az esőt. Délben a templom száraz pihenőt kínál embernek és gépnek. Délután a fellegvárat és a kikötő színes kunyhóit fedezzük fel. A nap a tengerparton zárul, ahol a hullámok vadul csapkodják a partot az esős égbolt alatt.",
             "ro": "Ciclismul pe drumuri ude necesită prudență. Începem la morile de vânt, unde vântul biciuiește ploaia. La prânz, biserica oferă un popas uscat. După-amiaza explorăm citadela și cabanele colorate din port. Ziua se încheie la plajă, unde valurile se sparg cu putere de țărm sub cerul ploios și amenințător.",
-            "en": "Cycling on wet paths requires caution. We start at the windmills, where the wind whips the rain. At noon, the church offers a dry break for both rider and bike. In the afternoon we explore the citadel and the colorful huts in the port. The day ends at the beach, where the waves crash wildly against the coast under the rainy sky."
+            "en": "Cycling on wet paths requires caution. We start at the windmills, where the wind whips the rain. At noon, the church offers a dry break for both rider and bike. In the afternoon we explore the citadel and the colorful huts in the port. The day ends at the beach, where the waves crash wildly against the coast under the rainy sky.",
+            "fr": "Le vélo sur des chemins mouillés exige de la prudence. Nous commençons aux moulins, où le vent fouette la pluie. À midi, l'église offre une pause au sec pour le cycliste et le vélo. L'après-midi, nous explorons la citadelle et les cabanes colorées du port. La journée se termine à la plage, où les vagues frappent sauvagement la côte sous le ciel pluvieux."
           },
           "stops": [
             {
@@ -593,13 +654,15 @@
                 "de": "Mühle Picotelle",
                 "hu": "Picotelle szélmalom",
                 "ro": "Moara Picotelle",
-                "en": "Picotelle Windmill"
+                "en": "Picotelle Windmill",
+                "fr": "Moulin à vent de Picotelle"
               },
               "tip_5lang": {
                 "de": "Die Mühle trotzt dem Regen; fahren Sie vorsichtig auf den nassen, potenziell rutschigen Wegen, die zu diesem ikonischen Wahrzeichen führen.",
                 "hu": "A szélmalom dacol az esővel; közlekedjen óvatosan a vizes, helyenként csúszós ösvényeken, amelyek ehhez az ikonikus jelképhez vezetnek.",
                 "ro": "Moara domină peisajul în ploaie; pedalați cu atenție pe potecile umede și alunecoase care duc spre acest simbol local emblematic.",
-                "en": "The windmill stands tall against the rain; cycle carefully on the wet, potentially slippery paths leading up to this iconic local landmark today."
+                "en": "The windmill stands tall against the rain; cycle carefully on the wet, potentially slippery paths leading up to this iconic local landmark today.",
+                "fr": "Le moulin se dresse fièrement sous la pluie ; pédalez prudemment sur les chemins mouillés et potentiellement glissants menant à ce repère local emblématique aujourd'hui."
               }
             },
             {
@@ -607,13 +670,15 @@
                 "de": "Alte Mühle",
                 "hu": "Régi szélmalom",
                 "ro": "Moara veche",
-                "en": "Old Windmill"
+                "en": "Old Windmill",
+                "fr": "Vieux Moulin"
               },
               "tip_5lang": {
                 "de": "Bewundern Sie den rustikalen Charme der alten Mühle; bleiben Sie auf den befestigten Wegen, um den Schlamm nach den Regenfällen zu vermeiden.",
                 "hu": "Csodálja meg a régi malom rusztikus báját; maradjon az út burkolt szakaszain, hogy elkerülje a heves esőzések során kialakuló sarat.",
                 "ro": "Admirați farmecul rustic al vechii mori; rămâneți pe secțiunile pavate ale drumului pentru a evita noroiul format în timpul ploilor abundente.",
-                "en": "Admire the rustic charm of the old mill; stay on the paved sections of the path to avoid the mud that often forms during heavy rainfall."
+                "en": "Admire the rustic charm of the old mill; stay on the paved sections of the path to avoid the mud that often forms during heavy rainfall.",
+                "fr": "Admirez le charme rustique du vieux moulin ; restez sur les sections pavées du chemin pour éviter la boue qui se forme souvent lors de fortes pluies."
               }
             },
             {
@@ -621,13 +686,15 @@
                 "de": "Kirche Mariä Himmelfahrt",
                 "hu": "Nagyboldogasszony-templom",
                 "ro": "Biserica Adormirea Maicii Domnului",
-                "en": "Church of Our Lady of the Assumption"
+                "en": "Church of Our Lady of the Assumption",
+                "fr": "Église Notre-Dame-de-l'Assomption"
               },
               "tip_5lang": {
                 "de": "Nutzen Sie diesen Stopp, um sich abzutrocknen; es gibt in der Nähe überdachte Plätze, um Ihr Fahrrad während des Besuchs sicher abzustellen.",
                 "hu": "Használja ki ezt a megállót a megszárítkozásra; a közelben fedett helyek találhatók, ahol biztonságban leállíthatja kerékpárját a látogatás idejére.",
                 "ro": "Folosiți acest popas pentru a vă usca; există spații acoperite în apropiere pentru a vă parca bicicleta în siguranță pe durata vizitei.",
-                "en": "Use this stop to dry off; there are covered spaces nearby to park your bike safely while you enjoy the beautiful and dry religious interior."
+                "en": "Use this stop to dry off; there are covered spaces nearby to park your bike safely while you enjoy the beautiful and dry religious interior.",
+                "fr": "Profitez de cet arrêt pour vous sécher ; il y a des espaces couverts à proximité pour garer votre vélo en toute sécurité pendant que vous profitez de l'intérieur religieux beau et sec."
               }
             },
             {
@@ -635,13 +702,15 @@
                 "de": "Bunte Austernfischerhütten",
                 "hu": "Színes osztrigahalász-kunyhók",
                 "ro": "Cabanele colorate ale pescarilor de stridii",
-                "en": "Colorful oyster farmer huts"
+                "en": "Colorful oyster farmer huts",
+                "fr": "Cabanes colorées des ostréiculteurs"
               },
               "tip_5lang": {
                 "de": "Ein tolles Fotomotiv auch bei Regen; schieben Sie Ihr Rad auf den schmalen, rutschigen Holzstegen im Hafenbereich, um sicher zu gehen.",
                 "hu": "Nagyszerű fotótéma esőben is; tolja a kerékpárját a kikötő szűk, csúszós fapadlóin, hogy elkerülje az esetleges baleseteket a nedves felületen.",
                 "ro": "O oportunitate foto excelentă și pe ploaie; mergeți pe lângă bicicletă pe podețele înguste și alunecoase din port pentru siguranță.",
-                "en": "A great photo op even in the rain; walk your bike on the narrow, slippery wooden docks in the port area to ensure you stay safe and upright."
+                "en": "A great photo op even in the rain; walk your bike on the narrow, slippery wooden docks in the port area to ensure you stay safe and upright.",
+                "fr": "Un excellent sujet photo même sous la pluie ; poussez votre vélo sur les passerelles étroites et glissantes en bois du port pour rester en sécurité et garder l'équilibre."
               }
             },
             {
@@ -649,13 +718,15 @@
                 "de": "Zitadelle von Château d'Oléron",
                 "hu": "Château d'Oléron fellegvára",
                 "ro": "Citadela Château d'Oléron",
-                "en": "Citadel of Château d'Oléron"
+                "en": "Citadel of Château d'Oléron",
+                "fr": "Citadelle du Château d'Oléron"
               },
               "tip_5lang": {
                 "de": "Die dicken Steinmauern bieten Windschutz; erkunden Sie die Innenräume, um trocken zu bleiben, während Sie etwas über die Geschichte lernen.",
                 "hu": "A vastag kőfalak szélvédelmet nyújtanak; fedezze fel a belső tereket, hogy szárazon maradjon, miközben megismeri a helyi történelmet.",
                 "ro": "Zidurile groase de piatră oferă protecție contra vântului; explorați interiorul pentru a rămâne uscat în timp ce învățați despre istorie.",
-                "en": "The thick stone walls provide wind protection; explore the indoor areas to stay dry while learning about the fascinating local history."
+                "en": "The thick stone walls provide wind protection; explore the indoor areas to stay dry while learning about the fascinating local history.",
+                "fr": "Les épaisses murailles en pierre offrent une protection contre le vent ; explorez les espaces intérieurs pour rester au sec tout en découvrant l'histoire locale fascinante."
               }
             },
             {
@@ -663,13 +734,15 @@
                 "de": "Bunte Strandhütten",
                 "hu": "Színes tengerparti kabinok",
                 "ro": "Cabane colorate pe plajă",
-                "en": "Colorful beach cabins"
+                "en": "Colorful beach cabins",
+                "fr": "Cabanes de plage colorées"
               },
               "tip_5lang": {
                 "de": "Farbtupfer an einem grauen Tag; die Kieswege können nass tückisch sein, halten Sie also ein gleichmäßiges Tempo auf Ihrem Fahrrad.",
                 "hu": "Színfoltok egy szürke napon; a kavicsos utak vizesen trükkösek lehetnek, ezért tartson egyenletes tempót a kerékpárral a biztonságért.",
                 "ro": "Pete de culoare într-o zi gri; potecile cu pietriș pot fi înșelătoare când sunt ude, așa că mențineți un ritm constant pe bicicletă.",
-                "en": "A splash of color on a grey day; the gravel paths can be tricky when wet, so maintain a steady and careful pace on your bicycle."
+                "en": "A splash of color on a grey day; the gravel paths can be tricky when wet, so maintain a steady and careful pace on your bicycle.",
+                "fr": "Une touche de couleur par temps gris ; les chemins de gravier peuvent être délicats quand ils sont mouillés, maintenez donc un rythme régulier et prudent à vélo."
               }
             },
             {
@@ -677,13 +750,15 @@
                 "de": "Strand Plage du Mail",
                 "hu": "Plage du Mail tengerpart",
                 "ro": "Plaja Plage du Mail",
-                "en": "Plage du Mail beach"
+                "en": "Plage du Mail beach",
+                "fr": "Plage du Mail"
               },
               "tip_5lang": {
                 "de": "Der Endpunkt Ihrer nassen Fahrt; beobachten Sie die Wellen aus sicherer Entfernung und stellen Sie sicher, dass Ihre Ausrüstung gut verstaut ist.",
                 "hu": "A vizes túra végpontja; figyelje a hullámokat biztonságos távolságból, és győződjön meg róla, hogy a felszerelése jól el van csomagolva.",
                 "ro": "Punctul final al plimbării ude; priviți valurile de la o distanță sigură și asigurați-vă că echipamentul este bine protejat de umiditate.",
-                "en": "The end point of your wet ride; watch the waves from a safe distance and ensure your gear is well-sealed against the ocean spray."
+                "en": "The end point of your wet ride; watch the waves from a safe distance and ensure your gear is well-sealed against the ocean spray.",
+                "fr": "Le point final de votre balade sous la pluie ; observez les vagues à distance et assurez-vous que votre équipement est bien étanche face aux embruns."
               }
             }
           ]
@@ -693,7 +768,8 @@
             "de": "Kaltes, aber klares Radwetter erwartet uns. Wir besuchen die Windmühlen am frühen Morgen. Die Kirche bietet zwischendurch einen Moment der Wärme. Die Wälle der Zitadelle sind im Winterwind zugig, aber die Fernsicht ist grandios. Der Tag endet früh am Strand, bevor die Kälte nach dem Sonnenuntergang um 17:00 Uhr spürbar zunimmt.",
             "hu": "Hideg, de tiszta kerékpáros idő vár ránk. A szélmalmokat korán reggel látogatjuk meg. A templom közben egy kis meleget kínál. A fellegvár bástyái a téli szélben huzatosak, de a kilátás pazar. A nap korán ér véget a tengerparton, mielőtt a hideg a 17:00-s naplemente után jelentősen fokozódna.",
             "ro": "Vreme rece, dar senină pentru ciclism. Vizităm morile de vânt dimineața devreme. Biserica oferă un moment de căldură pe traseu. Bastioanele cetății sunt bântuite de vântul de iarnă, dar vizibilitatea este grandioasă. Ziua se încheie devreme la plajă, înainte ca gerul să se întețească după apusul de la ora 17:00.",
-            "en": "Cold but clear cycling weather awaits. We visit the windmills early in the morning. The church offers a moment of warmth in between. The citadel ramparts are breezy in the winter wind, but the views are grand. The day ends early at the beach before the cold increases significantly after the 17:00 sunset."
+            "en": "Cold but clear cycling weather awaits. We visit the windmills early in the morning. The church offers a moment of warmth in between. The citadel ramparts are breezy in the winter wind, but the views are grand. The day ends early at the beach before the cold increases significantly after the 17:00 sunset.",
+            "fr": "Un temps froid mais clair pour le vélo vous attend. Nous visitons les moulins tôt le matin. L'église offre un moment de chaleur entre deux. Les remparts de la citadelle sont venteux en hiver, mais les vues sont grandioses. La journée se termine tôt à la plage avant que le froid n'augmente sensiblement après le coucher du soleil à 17:00."
           },
           "stops": [
             {
@@ -701,13 +777,15 @@
                 "de": "Mühle Picotelle",
                 "hu": "Picotelle szélmalom",
                 "ro": "Moara Picotelle",
-                "en": "Picotelle Windmill"
+                "en": "Picotelle Windmill",
+                "fr": "Moulin à vent de Picotelle"
               },
               "tip_5lang": {
                 "de": "Das Winterlicht betont die Struktur; tragen Sie Handschuhe, da Ihre Hände beim Radfahren in der kalten Morgenluft schnell auskühlen.",
                 "hu": "A téli fény kiemeli az építmény szerkezetét; viseljen kesztyűt, mivel a kezei gyorsan lehűlnek a hideg reggeli levegőben való biciklizéskor.",
                 "ro": "Lumina de iarnă subliniază structura morii; purtați mănuși, deoarece mâinile vor îngheța rapid pedalând în aerul rece al dimineții.",
-                "en": "The winter light emphasizes the windmill's structure; wear gloves as your hands will get cold quickly while cycling in the crisp morning air."
+                "en": "The winter light emphasizes the windmill's structure; wear gloves as your hands will get cold quickly while cycling in the crisp morning air.",
+                "fr": "La lumière hivernale met en valeur la structure du moulin ; portez des gants car vos mains se refroidiront rapidement en pédalant dans l'air vif du matin."
               }
             },
             {
@@ -715,13 +793,15 @@
                 "de": "Alte Mühle",
                 "hu": "Régi szélmalom",
                 "ro": "Moara veche",
-                "en": "Old Windmill"
+                "en": "Old Windmill",
+                "fr": "Vieux Moulin"
               },
               "tip_5lang": {
                 "de": "Ein schöner Stopp in der dünnen Wintersonne; die umliegenden Felder wirken an besonders kalten Morgen oft wie mit Reif überzogen.",
                 "hu": "Szép megálló a bágyadt téli napsütésben; a környező mezők a különösen hideg reggeleken gyakran zúzmarásnak tűnnek.",
                 "ro": "Un popas frumos sub soarele slab de iarnă; câmpurile din jur par adesea acoperite de chiciură în diminețile deosebit de reci.",
-                "en": "A scenic stop in the thin winter sun; the surrounding fields often look frost-kissed on particularly cold and clear winter mornings."
+                "en": "A scenic stop in the thin winter sun; the surrounding fields often look frost-kissed on particularly cold and clear winter mornings.",
+                "fr": "Un arrêt panoramique sous le faible soleil d'hiver ; les champs alentours paraissent souvent givrés lors des matins d'hiver particulièrement froids et clairs."
               }
             },
             {
@@ -729,13 +809,15 @@
                 "de": "Kirche Mariä Himmelfahrt",
                 "hu": "Nagyboldogasszony-templom",
                 "ro": "Biserica Adormirea Maicii Domnului",
-                "en": "Church of Our Lady of the Assumption"
+                "en": "Church of Our Lady of the Assumption",
+                "fr": "Église Notre-Dame-de-l'Assomption"
               },
               "tip_5lang": {
                 "de": "Ein warmer Zufluchtsort während Ihrer Winterfahrt; nehmen Sie sich Zeit, die Architektur zu bewundern und etwas Wärme zu tanken.",
                 "hu": "Meleg menedék a téli kerékpározás során; szánjon időt az építészet megcsodálására és egy kis melegedésre a belső térben.",
                 "ro": "Un refugiu călduros în timpul plimbării de iarnă; acordați-vă timp pentru a admira arhitectura și pentru a vă încălzi puțin.",
-                "en": "A warm sanctuary during your winter ride; take a few minutes to appreciate the architecture and regain some vital warmth before heading out."
+                "en": "A warm sanctuary during your winter ride; take a few minutes to appreciate the architecture and regain some vital warmth before heading out.",
+                "fr": "Un sanctuaire chaleureux pendant votre balade hivernale ; prenez quelques minutes pour admirer l'architecture et reprendre des forces avant de repartir."
               }
             },
             {
@@ -743,13 +825,15 @@
                 "de": "Bunte Austernfischerhütten",
                 "hu": "Színes osztrigahalász-kunyhók",
                 "ro": "Cabanele colorate ale pescarilor de stridii",
-                "en": "Colorful oyster farmer huts"
+                "en": "Colorful oyster farmer huts",
+                "fr": "Cabines colorées des ostréiculteurs"
               },
               "tip_5lang": {
                 "de": "Der Hafen ist im Winter ruhig und stimmungsvoll; die Radfahrt hierher ist erfrischend, wenn Sie gut gegen den Wind geschützt sind.",
                 "hu": "A kikötő télen csendes és hangulatos; a kerékpározás idáig frissítő, ha megfelelően védve van a metsző tengeri szél ellen.",
                 "ro": "Portul este liniștit și plin de atmosferă iarna; plimbarea cu bicicleta aici este revigorantă dacă sunteți bine protejat contra vântului.",
-                "en": "The port is quiet and atmospheric in winter; the bike ride here is refreshing if you are well-layered against the sharp coastal wind."
+                "en": "The port is quiet and atmospheric in winter; the bike ride here is refreshing if you are well-layered against the sharp coastal wind.",
+                "fr": "Le port est calme et chargé d'atmosphère en hiver ; la balade à vélo y est revigorante si vous êtes bien emmitouflé contre le vent marin vif."
               }
             },
             {
@@ -757,13 +841,15 @@
                 "de": "Zitadelle von Château d'Oléron",
                 "hu": "Château d'Oléron fellegvára",
                 "ro": "Citadela Château d'Oléron",
-                "en": "Citadel of Château d'Oléron"
+                "en": "Citadel of Château d'Oléron",
+                "fr": "Citadelle du Château d'Oléron"
               },
               "tip_5lang": {
                 "de": "Die Aussicht vom Radweg ist im Winter weitläufig; seien Sie auf starke Böen vom Ozean her gefasst, wenn Sie die Wälle umrunden.",
                 "hu": "A kerékpárútról nyíló kilátás télen hatalmas; készüljön fel az óceán felől érkező erős széllökésekre, miközben megkerüli a bástyákat.",
                 "ro": "Vederea de pe pista de biciclete este vastă iarna; fiți pregătiți pentru rafale puternice dinspre ocean când înconjurați bastioanele.",
-                "en": "The views from the bike path are expansive in winter; be prepared for strong gusts from the ocean as you cycle around the ramparts."
+                "en": "The views from the bike path are expansive in winter; be prepared for strong gusts from the ocean as you cycle around the ramparts.",
+                "fr": "Les vues depuis la piste cyclable sont vastes en hiver ; préparez-vous à de fortes rafales venues de l'océan en contournant les remparts."
               }
             },
             {
@@ -771,13 +857,15 @@
                 "de": "Bunte Strandhütten",
                 "hu": "Színes tengerparti kabinok",
                 "ro": "Cabane colorate pe plajă",
-                "en": "Colorful beach cabins"
+                "en": "Colorful beach cabins",
+                "fr": "Cabines de plage colorées"
               },
               "tip_5lang": {
                 "de": "Die Hütten wirken vor dem Winterhimmel markant; ein friedlicher Ort für ein schnelles Foto, bevor es weiter zum nahen Strand geht.",
                 "hu": "A kabinok lenyűgözőek a téli égbolt előtt; békés hely egy gyors fotóhoz, mielőtt továbbindulna a közeli tengerpart felé.",
                 "ro": "Cabanele arată izbitor sub cerul de iarnă; un loc liniștit pentru o fotografie rapidă înainte de a merge spre plaja din apropiere.",
-                "en": "The cabins look striking against the winter sky; it is a peaceful spot for a quick photo before heading towards the nearby beach."
+                "en": "The cabins look striking against the winter sky; it is a peaceful spot for a quick photo before heading towards the nearby beach.",
+                "fr": "Les cabines tranchent joliment sur le ciel d'hiver ; c'est un endroit paisible pour une photo rapide avant de se diriger vers la plage voisine."
               }
             },
             {
@@ -785,13 +873,15 @@
                 "de": "Strand Plage du Mail",
                 "hu": "Plage du Mail tengerpart",
                 "ro": "Plaja Plage du Mail",
-                "en": "Plage du Mail beach"
+                "en": "Plage du Mail beach",
+                "fr": "Plage du Mail"
               },
               "tip_5lang": {
                 "de": "Ein letzter frischer Ritt an der Küste; planen Sie, bis 17:00 Uhr fertig zu sein, da die Temperatur nach Sonnenuntergang stark sinkt.",
                 "hu": "Az utolsó frissítő tekerés a parton; tervezze úgy, hogy 17:00-ig végezzen, mivel a hőmérséklet a naplemente után meredeken zuhan.",
                 "ro": "O ultimă pedalare revigorantă pe coastă; planificați să terminați până la 17:00, deoarece temperatura scade brusc după apus.",
-                "en": "A final brisk cycle along the coast; plan to be done by 17:00 as the temperature drops sharply and quickly after the early winter sunset."
+                "en": "A final brisk cycle along the coast; plan to be done by 17:00 as the temperature drops sharply and quickly after the early winter sunset.",
+                "fr": "Une ultime balade énergique le long du littoral ; prévoyez d'avoir fini pour 17:00 car la température chute vite après le coucher de soleil hivernal précoce."
               }
             }
           ]
@@ -811,7 +901,8 @@
             "de": "Zitadelle von Château d'Oléron",
             "hu": "Château d'Oléron fellegvára",
             "ro": "Citadela Château d'Oléron",
-            "en": "Citadel of Château d'Oléron"
+            "en": "Citadel of Château d'Oléron",
+            "fr": "Citadelle du Château d'Oléron"
           },
           "coords": [
             -1.189328,
@@ -826,7 +917,8 @@
             "de": "Erkunden Sie diese massive historische Festung, die atemberaubende Ausblicke auf den Ozean bietet, und tragen Sie bequeme Schuhe, da das Gelände oft uneben und weitläufig ist.",
             "hu": "Fedezze fel ezt a hatalmas történelmi erődítményt, amely lenyűgöző kilátást nyújt az óceánra, és viseljen kényelmes cipőt, mivel a terep gyakran egyenetlen és hatalmas.",
             "ro": "Explorați această fortăreață istorică masivă care oferă vederi uimitoare asupra oceanului și purtați încălțăminte confortabilă, deoarece terenul este adesea denivelat și vast.",
-            "en": "Explore this massive historic fortress that offers stunning ocean views, and wear comfortable walking shoes as the terrain is often uneven and quite expansive to navigate."
+            "en": "Explore this massive historic fortress that offers stunning ocean views, and wear comfortable walking shoes as the terrain is often uneven and quite expansive to navigate.",
+            "fr": "Explorez cette immense forteresse historique offrant de magnifiques vues sur l'océan, et portez des chaussures de marche confortables car le terrain est souvent inégal et très étendu."
           }
         },
         {
@@ -834,7 +926,8 @@
             "de": "Bunte Austernfischerhütten",
             "hu": "Színes osztrigahalász-kunyhók",
             "ro": "Cabanele colorate ale pescarilor de stridii",
-            "en": "Colorful oyster farmer huts"
+            "en": "Colorful oyster farmer huts",
+            "fr": "Cabines colorées des ostréiculteurs"
           },
           "coords": [
             -1.194541,
@@ -849,7 +942,8 @@
             "de": "Schlendern Sie durch die lebhaften, bunten Hütten, in denen lokale Künstler und Austernzüchter arbeiten, und probieren Sie unbedingt frische Austern in einem der kleinen Stände.",
             "hu": "Sétáljon végig az élénk, színes kunyhók között, ahol helyi művészek és osztrigatenyésztők dolgoznak, és mindenképpen kóstolja meg a friss osztrigát az egyik kis bódénál.",
             "ro": "Plimbați-vă printre cabanele vii și colorate unde lucrează artiști locali și cultivatori de stridii, și asigurați-vă că gustați stridii proaspete la unul dintre standuri.",
-            "en": "Stroll through the vibrant, colorful huts where local artists and oyster farmers work, and make sure to taste fresh oysters at one of the small authentic local stands."
+            "en": "Stroll through the vibrant, colorful huts where local artists and oyster farmers work, and make sure to taste fresh oysters at one of the small authentic local stands.",
+            "fr": "Flânez parmi les cabanes vibrantes et colorées où artistes locaux et ostréiculteurs travaillent, et n'oubliez pas de goûter des huîtres fraîches à l'un des petits stands authentiques."
           }
         },
         {
@@ -857,7 +951,8 @@
             "de": "Rathaus von Le Château-d'Oléron",
             "hu": "Le Château-d'Oléron Városháza",
             "ro": "Primăria din Le Château-d'Oléron",
-            "en": "Town Hall of Le Château-d'Oléron"
+            "en": "Town Hall of Le Château-d'Oléron",
+            "fr": "Hôtel de ville de Le Château-d'Oléron"
           },
           "coords": [
             -1.19516,
@@ -872,7 +967,8 @@
             "de": "Bewundern Sie die klassische Architektur dieses historischen Rathauses im Zentrum, das die lokale Geschichte prägt, und kommen Sie morgens, wenn das Licht ideal für Fotos ist.",
             "hu": "Csodálja meg a központban található történelmi városháza klasszikus építészetét, amely meghatározza a helyi történelmet, és érkezzen kora reggel a tökéletes fotók kedvéért.",
             "ro": "Admirați arhitectura clasică a acestei primării istorice din centru, care definește istoria locală, și veniți dimineața devreme, când lumina este ideală pentru fotografii.",
-            "en": "Admire the classic architecture of this historic town hall in the center, which defines local history, and arrive early in the morning when the lighting is perfect for photos."
+            "en": "Admire the classic architecture of this historic town hall in the center, which defines local history, and arrive early in the morning when the lighting is perfect for photos.",
+            "fr": "Admirez l'architecture classique de cet hôtel de ville historique en centre-ville, et arrivez tôt le matin quand la lumière est parfaite pour les photos."
           }
         },
         {
@@ -880,7 +976,8 @@
             "de": "Kirche Mariä Himmelfahrt",
             "hu": "Nagyboldogasszony-templom",
             "ro": "Biserica Adormirea Maicii Domnului",
-            "en": "Church of Our Lady of the Assumption"
+            "en": "Church of Our Lady of the Assumption",
+            "fr": "Église Notre-Dame-de-l'Assomption"
           },
           "coords": [
             -1.196633,
@@ -895,7 +992,8 @@
             "de": "Besichtigen Sie diese charmante Kirche wegen ihrer wunderschönen Buntglasfenster und der friedlichen Atmosphäre, während Sie bei einem Spaziergang die feinen Details beachten.",
             "hu": "Látogassa meg ezt a bájos templomot a gyönyörű ólomüveg ablakai és a békés légköre miatt, miközben csendben sétálva megfigyeli a finom építészeti részleteket.",
             "ro": "Vizitați această biserică fermecătoare pentru vitraliile sale superbe și atmosfera pașnică, făcând o plimbare liniștită pentru a observa detaliile arhitecturale fine.",
-            "en": "Visit this charming church for its beautiful stained glass windows and peaceful atmosphere, taking a quiet walk around to observe the fine architectural details carefully."
+            "en": "Visit this charming church for its beautiful stained glass windows and peaceful atmosphere, taking a quiet walk around to observe the fine architectural details carefully.",
+            "fr": "Visitez cette charmante église pour ses beaux vitraux et son atmosphère paisible, en vous promenant tranquillement pour observer les détails architecturaux."
           }
         },
         {
@@ -903,7 +1001,8 @@
             "de": "Mühle Picotelle",
             "hu": "Picotelle szélmalom",
             "ro": "Moara Picotelle",
-            "en": "Picotelle Windmill"
+            "en": "Picotelle Windmill",
+            "fr": "Moulin de Picotelle"
           },
           "coords": [
             -1.207164,
@@ -918,7 +1017,8 @@
             "de": "Bewundern Sie diese gut erhaltene historische Windmühle, die ein großartiges Beispiel lokaler Handwerkskunst ist, und spazieren Sie bei Sonnenuntergang um das Gelände herum.",
             "hu": "Csodálja meg ezt a jól megőrzött történelmi szélmalmot, amely a helyi kézművesség nagyszerű példája, és sétáljon egyet a területen naplemente idején a szép fényekért.",
             "ro": "Admirați această moară de vânt istorică bine conservată, care este un exemplu excelent de meșteșug local, și faceți o plimbare în jurul sitului la apusul soarelui.",
-            "en": "Admire this well-preserved historic windmill which is a great example of local craftsmanship, and take a stroll around the site during sunset for the most beautiful lighting."
+            "en": "Admire this well-preserved historic windmill which is a great example of local craftsmanship, and take a stroll around the site during sunset for the most beautiful lighting.",
+            "fr": "Admirez ce moulin historique bien conservé, exemple remarquable du savoir-faire local, et faites le tour du site au coucher du soleil pour la plus belle lumière."
           }
         },
         {
@@ -926,7 +1026,8 @@
             "de": "Bunte Strandhütten",
             "hu": "Színes tengerparti kabinok",
             "ro": "Cabane colorate pe plajă",
-            "en": "Colorful beach cabins"
+            "en": "Colorful beach cabins",
+            "fr": "Cabines de plage colorées"
           },
           "coords": [
             -1.195789,
@@ -941,7 +1042,8 @@
             "de": "Entdecken Sie die farbenfrohen Strandhütten, die der Küste einen malerischen Charme verleihen, und nutzen Sie die Gelegenheit für ein Picknick direkt am nahegelegenen Strandbereich.",
             "hu": "Fedezze fel a tengerpart festői báját adó színes kabinokat, és használja ki a lehetőséget egy kellemes piknikre közvetlenül a közeli homokos strandterületen.",
             "ro": "Descoperiți cabanele colorate de pe plajă care adaugă un farmec pitoresc coastei și profitați de ocazie pentru un picnic chiar în zona de plajă din apropiere.",
-            "en": "Discover the colorful beach cabins that add a picturesque charm to the coastline, and take the opportunity to enjoy a lovely picnic right on the nearby sandy beach area."
+            "en": "Discover the colorful beach cabins that add a picturesque charm to the coastline, and take the opportunity to enjoy a lovely picnic right on the nearby sandy beach area.",
+            "fr": "Découvrez les cabines colorées qui ajoutent un charme pittoresque au littoral, et profitez-en pour pique-niquer sur le sable tout proche."
           }
         },
         {
@@ -949,7 +1051,8 @@
             "de": "Strand Plage du Mail",
             "hu": "Plage du Mail tengerpart",
             "ro": "Plaja Plage du Mail",
-            "en": "Plage du Mail beach"
+            "en": "Plage du Mail beach",
+            "fr": "Plage du Mail"
           },
           "coords": [
             -1.198471,
@@ -964,7 +1067,8 @@
             "de": "Entspannen Sie sich an diesem ruhigen Sandstrand, der ideal zum Schwimmen und Sonnenbaden ist, und bringen Sie Sonnencreme sowie Wasser mit, da es kaum Schattenplätze gibt.",
             "hu": "Pihenjen ezen a csendes homokos strandon, amely ideális úszáshoz és napozáshoz, és hozzon magával naptejet, valamint vizet, mivel a területen alig van árnyékos rész.",
             "ro": "Relaxați-vă pe această plajă liniștită cu nisip, ideală pentru înot și plajă, și aduceți cremă de protecție solară, precum și apă, deoarece locurile umbrite sunt destul de rare.",
-            "en": "Relax on this quiet sandy beach which is ideal for swimming and sunbathing, and bring sunscreen along with plenty of water since shaded spots are quite scarce in the area."
+            "en": "Relax on this quiet sandy beach which is ideal for swimming and sunbathing, and bring sunscreen along with plenty of water since shaded spots are quite scarce in the area.",
+            "fr": "Détendez-vous sur cette plage de sable calme, idéale pour la baignade et le bronzage ; emportez de la crème solaire et beaucoup d'eau, les zones ombragées étant rares."
           }
         }
       ],
@@ -972,7 +1076,8 @@
         "de": "Beginnen Sie Ihren Tag an der gewaltigen Zitadelle und erkunden Sie die umfangreichen Verteidigungsanlagen. Mittags fahren Sie in den Ortskern, um die Kirche, das historische Rathaus und die Austernhütten zu besuchen. Der Nachmittag führt Sie zur charmanten Mühle Picotelle am Rande der Stadt. Abends parken Sie in der Nähe der bunten Strandhütten und genießen den Sonnenuntergang am Plage du Mail.",
         "hu": "Kezdje a napot a hatalmas fellegvárnál, és fedezze fel a kiterjedt védelmi rendszereket. Délben vezessen a városközpontba, hogy megnézze a templomot, a történelmi városházát és az osztrigakunyhókat. A délután a város szélén található bájos Picotelle szélmalomhoz vezet. Este parkoljon le a színes tengerparti kabinok közelében, és élvezze a naplementét a Plage du Mail strandon.",
         "ro": "Începeți ziua la citadela masivă și explorați sistemele de apărare extinse. La prânz, conduceți spre centrul orașului pentru a vizita biserica, primăria istorică și cabanele de stridii. După-amiaza vă conduce la fermecătoarea moară Picotelle de la marginea orașului. Seara, parcați lângă cabanele colorate de pe plajă și bucurați-vă de apusul soarelui la Plage du Mail.",
-        "en": "Start your day at the massive citadel and explore the extensive defensive systems. At midday, drive to the town center to visit the church, the historic town hall, and the vibrant oyster huts. The afternoon takes you to the charming Picotelle windmill on the edge of town. In the evening, park near the colorful beach cabins and enjoy the beautiful sunset at Plage du Mail."
+        "en": "Start your day at the massive citadel and explore the extensive defensive systems. At midday, drive to the town center to visit the church, the historic town hall, and the vibrant oyster huts. The afternoon takes you to the charming Picotelle windmill on the edge of town. In the evening, park near the colorful beach cabins and enjoy the beautiful sunset at Plage du Mail.",
+        "fr": "Commencez votre journée à la massive citadelle et explorez ses vastes systèmes défensifs. À midi, rejoignez le centre-ville pour visiter l'église, l'hôtel de ville historique et les cabanes d'ostréiculteurs animées. L'après-midi vous mène au charmant moulin de Picotelle en lisière de la ville. Le soir, garez-vous près des cabines de plage colorées et profitez du magnifique coucher de soleil à la Plage du Mail."
       },
       "variants": {
         "rainy": {
@@ -980,7 +1085,8 @@
             "de": "Fahren Sie gemütlich zwischen den Hauptsehenswürdigkeiten. Wir beginnen bei der Zitadelle, wo Parkplätze nah am Geschehen sind. Die bunten Hütten im Hafen sind nur einen kurzen Spurt durch den Regen entfernt. Rathaus und Kirche liegen nah beieinander im Zentrum. Der Tag endet am Strand, wo man das Meer auch geschützt vom Auto aus genießen kann.",
             "hu": "Autózzon kényelmesen a fő látnivalók között. A fellegvárnál kezdünk, ahol a parkolók közel vannak a látnivalókhoz. A kikötő színes kunyhói csak egy rövid sprintre vannak az esőben. A Városháza és a templom közel fekszik egymáshoz a központban. A nap a tengerparton zárul, ahol az autó védelméből is élvezheti a tenger látványát.",
             "ro": "Conduceți confortabil între principalele obiective. Începem la citadelă, unde parcările sunt aproape de intrare. Cabanele colorate din port sunt la doar un scurt sprint prin ploaie. Primăria și biserica sunt situate aproape una de alta în centru. Ziua se încheie la plajă, unde puteți admira marea din adăpostul mașinii.",
-            "en": "Drive comfortably between the main sights. We start at the citadel, where parking is close to the action. The colorful huts in the port are just a short sprint through the rain away. The Town Hall and church are located close to each other in the center. The day ends at the beach, where you can enjoy the view of the sea from the shelter of your car."
+            "en": "Drive comfortably between the main sights. We start at the citadel, where parking is close to the action. The colorful huts in the port are just a short sprint through the rain away. The Town Hall and church are located close to each other in the center. The day ends at the beach, where you can enjoy the view of the sea from the shelter of your car.",
+            "fr": "Conduisez confortablement entre les principaux sites. Nous commençons à la citadelle, où le parking est à proximité. Les cabanes colorées du port sont à une courte course, même sous la pluie. L'hôtel de ville et l'église sont proches l'un de l'autre au centre. La journée se termine à la plage, où vous pouvez admirer la mer depuis l'abri de votre voiture."
           },
           "stops": [
             {
@@ -988,13 +1094,15 @@
                 "de": "Zitadelle von Château d'Oléron",
                 "hu": "Château d'Oléron fellegvára",
                 "ro": "Citadela Château d'Oléron",
-                "en": "Citadel of Château d'Oléron"
+                "en": "Citadel of Château d'Oléron",
+                "fr": "Citadelle du Château d'Oléron"
               },
               "tip_5lang": {
                 "de": "Parken Sie nah und erkunden Sie die Innenbereiche; die massiven Befestigungen sind auch durch eine regennasse Scheibe beeindruckend.",
                 "hu": "Parkoljon a közelben, és fedezze fel a belső részeket; a hatalmas erődítmények még az eső áztatta ablakon keresztül is lenyűgözőek.",
                 "ro": "Parcați aproape și explorați zonele interioare; fortificațiile masive sunt impresionante chiar și prin geamul mașinii udat de ploaie.",
-                "en": "Park close and explore the indoor sections; the massive fortifications are impressive even when viewed through a rain-streaked window."
+                "en": "Park close and explore the indoor sections; the massive fortifications are impressive even when viewed through a rain-streaked window.",
+                "fr": "Garez-vous à proximité et explorez les espaces intérieurs ; les massives fortifications impressionnent même vues à travers une fenêtre striée de pluie."
               }
             },
             {
@@ -1002,13 +1110,15 @@
                 "de": "Bunte Austernfischerhütten",
                 "hu": "Színes osztrigahalász-kunyhók",
                 "ro": "Cabanele colorate ale pescarilor de stridii",
-                "en": "Colorful oyster farmer huts"
+                "en": "Colorful oyster farmer huts",
+                "fr": "Cabines colorées des ostréiculteurs"
               },
               "tip_5lang": {
                 "de": "Ein kurzer Weg vom Auto zu den bunten Hütten; die nassen Oberflächen lassen die Farben der Farbe noch lebendiger und kräftiger wirken.",
                 "hu": "Rövid séta az autótól a színes kunyhókig; a nedves felületek még élénkebbé és telítettebbé teszik a festett falak színeit.",
                 "ro": "O scurtă plimbare de la mașină la cabanele colorate; suprafețele umede fac culorile vopselei să pară și mai vii și mai intense.",
-                "en": "A short dash from the car to the colorful huts; the wet surfaces make the paint colors look even more vivid and vibrant under the grey sky."
+                "en": "A short dash from the car to the colorful huts; the wet surfaces make the paint colors look even more vivid and vibrant under the grey sky.",
+                "fr": "Une courte course depuis la voiture jusqu'aux cabanes colorées ; les surfaces mouillées rendent les couleurs de la peinture encore plus vives sous le ciel gris."
               }
             },
             {
@@ -1016,13 +1126,15 @@
                 "de": "Rathaus von Le Château-d'Oléron",
                 "hu": "Le Château-d'Oléron Városháza",
                 "ro": "Primăria din Le Château-d'Oléron",
-                "en": "Town Hall of Le Château-d'Oléron"
+                "en": "Town Hall of Le Château-d'Oléron",
+                "fr": "Hôtel de ville de Le Château-d'Oléron"
               },
               "tip_5lang": {
                 "de": "Parken Sie in der Nähe, um möglichst wenig Zeit im Regen zu verbringen; die Architektur ist auch durch Regentropfen ein schöner Anblick.",
                 "hu": "Parkoljon a közelben, hogy minél kevesebbet kelljen az esőben gyalogolnia; az építészet még az esőcseppeken keresztül is gyönyörű látvány.",
                 "ro": "Parcați în apropiere pentru a minimiza timpul petrecut în ploaie; arhitectura este o priveliște frumoasă chiar și prin picăturile de ploaie.",
-                "en": "Park your vehicle nearby to minimize exposure to the downpour; the architecture remains a beautiful sight even through the raindrops."
+                "en": "Park your vehicle nearby to minimize exposure to the downpour; the architecture remains a beautiful sight even through the raindrops.",
+                "fr": "Garez votre véhicule à proximité pour réduire l'exposition à l'averse ; l'architecture reste magnifique même à travers les gouttes de pluie."
               }
             },
             {
@@ -1030,13 +1142,15 @@
                 "de": "Kirche Mariä Himmelfahrt",
                 "hu": "Nagyboldogasszony-templom",
                 "ro": "Biserica Adormirea Maicii Domnului",
-                "en": "Church of Our Lady of the Assumption"
+                "en": "Church of Our Lady of the Assumption",
+                "fr": "Église Notre-Dame-de-l'Assomption"
               },
               "tip_5lang": {
                 "de": "Ein ruhiger und trockener Ort für einen Besuch; das Geräusch des Regens auf dem Dach verstärkt die feierliche, schöne Atmosphäre im Inneren.",
                 "hu": "Nyugodt és száraz hely a látogatáshoz; a tetőn kopogó eső hangja fokozza a belső tér ünnepélyes, gyönyörű hangulatát.",
                 "ro": "Un loc liniștit și uscat pentru vizită; sunetul ploii pe acoperiș sporește atmosfera solemnă și frumoasă din interior.",
-                "en": "A serene and dry location to visit; the sound of rain on the roof adds to the solemn, beautiful atmosphere inside the historic building."
+                "en": "A serene and dry location to visit; the sound of rain on the roof adds to the solemn, beautiful atmosphere inside the historic building.",
+                "fr": "Un lieu serein et sec à visiter ; le bruit de la pluie sur le toit ajoute à l'atmosphère solennelle et belle de l'édifice historique."
               }
             },
             {
@@ -1044,13 +1158,15 @@
                 "de": "Mühle Picotelle",
                 "hu": "Picotelle szélmalom",
                 "ro": "Moara Picotelle",
-                "en": "Picotelle Windmill"
+                "en": "Picotelle Windmill",
+                "fr": "Moulin de Picotelle"
               },
               "tip_5lang": {
                 "de": "Betrachten Sie dieses Wahrzeichen vom Auto aus; die regnerische Landschaft verleiht ihm eine traditionelle, fast malerische französische Note.",
                 "hu": "Tekintse meg ezt a nevezetességet az autóból; az esős táj hagyományos, szinte festői francia hangulatot kölcsönöz a malomnak.",
                 "ro": "Admirați acest simbol din mașină; peisajul ploios îi conferă o notă franceză tradițională, aproape pitorească, morii de vânt.",
-                "en": "View this landmark from the car; the rainy landscape gives it a traditional French feel that looks like a painting through the window."
+                "en": "View this landmark from the car; the rainy landscape gives it a traditional French feel that looks like a painting through the window.",
+                "fr": "Observez ce repère depuis la voiture ; le paysage pluvieux lui donne un aspect traditionnel français, comme un tableau vu à travers la vitre."
               }
             },
             {
@@ -1058,13 +1174,15 @@
                 "de": "Bunte Strandhütten",
                 "hu": "Színes tengerparti kabinok",
                 "ro": "Cabane colorate pe plajă",
-                "en": "Colorful beach cabins"
+                "en": "Colorful beach cabins",
+                "fr": "Cabines de plage colorées"
               },
               "tip_5lang": {
                 "de": "Die Hütten sind leicht erreichbar; ihre hellen Farben sind ein willkommener Anblick bei einer Fahrt an einem trüben, grauen Regentag.",
                 "hu": "A kabinok könnyen megközelíthetők; élénk színeik üdvözlendő látványt nyújtanak egy borús, szürke esős napon való autózás során.",
                 "ro": "Cabanele sunt ușor accesibile; culorile lor vii sunt o priveliște binevenită în timpul unei plimbări într-o zi de iarnă cenușie.",
-                "en": "The cabins are easily accessible; their bright colors are a welcome sight during a drive on a gloomy, grey rainy day along the coast."
+                "en": "The cabins are easily accessible; their bright colors are a welcome sight during a drive on a gloomy, grey rainy day along the coast.",
+                "fr": "Les cabines sont facilement accessibles ; leurs couleurs vives sont un réconfort lors d'une route côtière morne et pluvieuse."
               }
             },
             {
@@ -1072,13 +1190,15 @@
                 "de": "Strand Plage du Mail",
                 "hu": "Plage du Mail tengerpart",
                 "ro": "Plaja Plage du Mail",
-                "en": "Plage du Mail beach"
+                "en": "Plage du Mail beach",
+                "fr": "Plage du Mail"
               },
               "tip_5lang": {
                 "de": "Parken Sie mit Blick auf das Meer; genießen Sie die dramatische Küstenlinie bequem von Ihrem Fahrzeug aus oder bei einem ganz kurzen Gang.",
                 "hu": "Parkoljon kilátással a tengerre; élvezze a drámai tengerpartot kényelmesen a járművéből, vagy egy egészen rövid séta keretében.",
                 "ro": "Parcați cu vedere la mare; bucurați-vă de linia dramatică a coastei din confortul vehiculului sau dintr-o scurtă plimbare pe nisip.",
-                "en": "Park with a view of the sea; enjoy the dramatic rainy coastline from the comfort of your vehicle or during a very short walk to the edge."
+                "en": "Park with a view of the sea; enjoy the dramatic rainy coastline from the comfort of your vehicle or during a very short walk to the edge.",
+                "fr": "Garez-vous avec vue sur la mer ; profitez du littoral dramatique et pluvieux depuis le confort de votre véhicule ou après une très courte promenade jusqu'au bord."
               }
             }
           ]
@@ -1088,7 +1208,8 @@
             "de": "Genießen Sie eine gemütliche Fahrt über die Insel. Wir beginnen bei der Zitadelle im Schutz des warmen Autos. Mittags besuchen wir die Hütten und das Stadtzentrum, wo die Kirche Wärme spendet. Nachmittags stehen die Windmühlen und bunten Kabinen im klaren Winterlicht auf dem Plan. Der Tag endet am Strand beim Sonnenuntergang gegen 17:00 Uhr.",
             "hu": "Reggel kényelmesen kezdünk az erődnél, a fűtött autó védelmében. Délben a központban sétálunk, majd a templom csendjében melegszünk fel. Délután a szélmalmot és a színes kabinokat látogatjuk meg a tiszta téli fényben. Este a tengerparton csodáljuk meg a korai, 17:00-s naplementét, mielőtt a fagyos éjszaka beállna.",
             "ro": "Bucurați-vă de o plimbare confortabilă pe insulă. Începem la citadelă, la adăpostul mașinii calde. La prânz vizităm cabanele și centrul orașului, unde biserica oferă căldură. După-amiaza vizităm morile de vânt și cabanele colorate în lumina clară de iarnă. Ziua se încheie la plajă cu apusul de la ora 17:00.",
-            "en": "Enjoy a cozy drive across the island. We start at the citadel in the shelter of the warm car. At noon we visit the huts and the city center, where the church provides warmth. In the afternoon, the windmills and colorful cabins are on the agenda in the clear winter light. The day ends at the beach with the sunset around 17:00."
+            "en": "Enjoy a cozy drive across the island. We start at the citadel in the shelter of the warm car. At noon we visit the huts and the city center, where the church provides warmth. In the afternoon, the windmills and colorful cabins are on the agenda in the clear winter light. The day ends at the beach with the sunset around 17:00.",
+            "fr": "Profitez d'une agréable traversée de l'île au chaud dans la voiture. Nous commençons à la citadelle à l'abri. À midi, nous visitons les cabanes et le centre-ville, où l'église apporte chaleur. L'après-midi, les moulins et les cabines colorées sont au programme dans la lumière claire d'hiver. La journée se termine à la plage avec le coucher du soleil vers 17:00."
           },
           "stops": [
             {
@@ -1096,13 +1217,15 @@
                 "de": "Zitadelle von Château d'Oléron",
                 "hu": "Château d'Oléron fellegvára",
                 "ro": "Citadela Château d'Oléron",
-                "en": "Citadel of Château d'Oléron"
+                "en": "Citadel of Château d'Oléron",
+                "fr": "Citadelle du Château d'Oléron"
               },
               "tip_5lang": {
                 "de": "Erkunden Sie die historische Stätte in der frischen Luft; das Auto bietet eine warme Basis zwischen den Gängen auf den weitläufigen Wällen.",
                 "hu": "Fedezze fel a történelmi helyszínt a friss levegőn; az autó meleg bázist nyújt a kiterjedt bástyák közötti séták alkalmával.",
                 "ro": "Explorați situl istoric în aerul curat; mașina oferă o bază caldă între plimbările pe bastioanele întinse ale cetății.",
-                "en": "Explore the historic site in the crisp air; the car provides a warm base between walks around the extensive and windy stone ramparts."
+                "en": "Explore the historic site in the crisp air; the car provides a warm base between walks around the extensive and windy stone ramparts.",
+                "fr": "Explorez le site historique dans l'air vif ; la voiture sert de base chaude entre les promenades autour des vastes et venteux remparts de pierre."
               }
             },
             {
@@ -1110,13 +1233,15 @@
                 "de": "Bunte Austernfischerhütten",
                 "hu": "Színes osztrigahalász-kunyhók",
                 "ro": "Cabanele colorate ale pescarilor de stridii",
-                "en": "Colorful oyster farmer huts"
+                "en": "Colorful oyster farmer huts",
+                "fr": "Cabines colorées des ostréiculteurs"
               },
               "tip_5lang": {
                 "de": "Die Winteratmosphäre im Hafen ist sehr authentisch; genießen Sie die bunte Szenerie ohne die üblichen sommerlichen Touristenmassen.",
                 "hu": "A kikötő téli hangulata nagyon hiteles; élvezze a színes környezetet a szokásos nyári turistaáradat nélkül, csendesebb környezetben.",
                 "ro": "Atmosfera de iarnă în port este foarte autentică; bucurați-vă de peisajul colorat fără mulțimile obișnuite de turiști de vară.",
-                "en": "The winter atmosphere in the port is very authentic; enjoy the colorful scenery without the usual summer tourist crowds in a peaceful setting."
+                "en": "The winter atmosphere in the port is very authentic; enjoy the colorful scenery without the usual summer tourist crowds in a peaceful setting.",
+                "fr": "L'atmosphère hivernale dans le port est très authentique ; profitez du décor coloré sans les foules touristiques estivales habituelles."
               }
             },
             {
@@ -1124,13 +1249,15 @@
                 "de": "Rathaus von Le Château-d'Oléron",
                 "hu": "Le Château-d'Oléron Városháza",
                 "ro": "Primăria din Le Château-d'Oléron",
-                "en": "Town Hall of Le Château-d'Oléron"
+                "en": "Town Hall of Le Château-d'Oléron",
+                "fr": "Hôtel de ville de Le Château-d'Oléron"
               },
               "tip_5lang": {
                 "de": "Das Stadtzentrum ist im Winter wunderbar ruhig; ein kurzer Spaziergang vom Auto aus lässt Sie die Architektur in aller Ruhe bewundern.",
                 "hu": "A városközpont télen csodálatosan csendes; egy rövid séta az autótól lehetővé teszi, hogy teljes nyugalomban csodálja meg az építészetet.",
                 "ro": "Centrul orașului este minunat de liniștit iarna; o scurtă plimbare de la mașină vă permite să admirați arhitectura în toată liniștea.",
-                "en": "The town center is wonderfully quiet in winter; a short walk from the car will let you admire the architecture in peace and solitude."
+                "en": "The town center is wonderfully quiet in winter; a short walk from the car will let you admire the architecture in peace and solitude.",
+                "fr": "Le centre-ville est merveilleusement calme en hiver ; une courte promenade depuis la voiture vous permettra d'admirer l'architecture en toute tranquillité."
               }
             },
             {
@@ -1138,13 +1265,15 @@
                 "de": "Kirche Mariä Himmelfahrt",
                 "hu": "Nagyboldogasszony-templom",
                 "ro": "Biserica Adormirea Maicii Domnului",
-                "en": "Church of Our Lady of the Assumption"
+                "en": "Church of Our Lady of the Assumption",
+                "fr": "Église Notre-Dame-de-l'Assomption"
               },
               "tip_5lang": {
                 "de": "Halten Sie hier für einen friedlichen Moment der Wärme; das Innere bildet einen gemütlichen Kontrast zum kalten Winterwind draußen.",
                 "hu": "Álljon meg itt egy békés, meleg pillanatra; a belső tér hangulatos kontrasztot alkot a kinti hideg téli széllel.",
                 "ro": "Opriți-vă aici pentru un moment liniștit de căldură; interiorul oferă un contrast primitor față de vântul rece de iarnă de afară.",
-                "en": "Stop here for a peaceful moment of warmth; the interior is a cozy contrast to the cold winter wind blowing outside across the island."
+                "en": "Stop here for a peaceful moment of warmth; the interior is a cozy contrast to the cold winter wind blowing outside across the island.",
+                "fr": "Faites une halte pour un moment paisible et chaleureux ; l'intérieur contraste agréablement avec le vent froid d'hiver soufflant sur l'île."
               }
             },
             {
@@ -1152,13 +1281,15 @@
                 "de": "Mühle Picotelle",
                 "hu": "Picotelle szélmalom",
                 "ro": "Moara Picotelle",
-                "en": "Picotelle Windmill"
+                "en": "Picotelle Windmill",
+                "fr": "Moulin de Picotelle"
               },
               "tip_5lang": {
                 "de": "Leicht mit dem Auto erreichbar; die Mühle wirkt vor dem klaren, blauen Winterhimmel der Atlantikküste besonders ikonisch.",
                 "hu": "Autóval könnyen megközelíthető; a malom különösen ikonikusnak tűnik az atlanti partvidék tiszta, kék téli égboltja előtt.",
                 "ro": "Ușor de ajuns cu mașina; moara arată deosebit de emblematic pe fundalul cerului senin de iarnă de pe coasta Atlanticului.",
-                "en": "Easy to reach by car; the windmill looks iconic against the clear, blue winter sky of the Atlantic coast on a bright afternoon."
+                "en": "Easy to reach by car; the windmill looks iconic against the clear, blue winter sky of the Atlantic coast on a bright afternoon.",
+                "fr": "Facile d'accès en voiture ; le moulin se détache de manière emblématique sur le ciel d'hiver clair et bleu de la côte atlantique lors d'un après-midi ensoleillé."
               }
             },
             {
@@ -1166,13 +1297,15 @@
                 "de": "Bunte Strandhütten",
                 "hu": "Színes tengerparti kabinok",
                 "ro": "Cabane colorate pe plajă",
-                "en": "Colorful beach cabins"
+                "en": "Colorful beach cabins",
+                "fr": "Cabines de plage colorées"
               },
               "tip_5lang": {
                 "de": "Diese Hütten sind im tiefen Winterlicht sehr fotogen; der nahe Parkplatz macht es zu einem schnellen und unkomplizierten Stopp.",
                 "hu": "Ezek a kabinok nagyon fotogének az alacsony téli fényben; a közeli parkoló lehetővé teszi a gyors és egyszerű megállást.",
                 "ro": "Aceste cabane sunt foarte fotogenice în lumina joasă a iernii; parcarea din apropiere face oprirea rapidă și ușoară.",
-                "en": "These iconic huts are very photogenic in the low winter light; the parking nearby makes it a quick and easy stop during your tour."
+                "en": "These iconic huts are very photogenic in the low winter light; the parking nearby makes it a quick and easy stop during your tour.",
+                "fr": "Ces cabanes emblématiques sont très photogéniques sous la lumière basse de l'hiver ; le parking à proximité en fait une halte rapide et facile."
               }
             },
             {
@@ -1180,13 +1313,15 @@
                 "de": "Strand Plage du Mail",
                 "hu": "Plage du Mail tengerpart",
                 "ro": "Plaja Plage du Mail",
-                "en": "Plage du Mail beach"
+                "en": "Plage du Mail beach",
+                "fr": "Plage du Mail"
               },
               "tip_5lang": {
                 "de": "Beenden Sie Ihren Tag mit dem frühen Wintersonnenuntergang über dem Ozean; bleiben Sie warm im Auto, sobald das Licht schwindet.",
                 "hu": "Zárja a napot az óceán feletti korai téli naplemente megtekintésével; maradjon az autó melegében, amint a fény fogyni kezd.",
                 "ro": "Încheiați ziua admirând apusul timpuriu de iarnă peste ocean; rămâneți la căldură în mașină imediat ce lumina începe să dispară.",
-                "en": "End your day watching the early winter sunset over the ocean; stay warm in the car once the light fades and the frost sets in."
+                "en": "End your day watching the early winter sunset over the ocean; stay warm in the car once the light fades and the frost sets in.",
+                "fr": "Terminez la journée en regardant le coucher de soleil hivernal précoce sur l'océan ; restez au chaud dans la voiture une fois la lumière tombée et le givre installé."
               }
             }
           ]

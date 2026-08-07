@@ -3,55 +3,64 @@
     "de": "Avenue des Calanques, 13260 Cassis",
     "hu": "Avenue des Calanques, 13260 Cassis",
     "ro": "Avenue des Calanques, 13260 Cassis",
-    "en": "Avenue des Calanques, 13260 Cassis"
+    "en": "Avenue des Calanques, 13260 Cassis",
+    "fr": "Avenue des Calanques, 13260 Cassis"
   },
   "openingHours": {
     "de": "24/7",
     "hu": "0-24",
     "ro": "24/7",
-    "en": "24/7"
+    "en": "24/7",
+    "fr": "24/7"
   },
   "entranceFee": {
     "de": "kostenlos",
     "hu": "ingyenes",
     "ro": "gratuit",
-    "en": "free"
+    "en": "free",
+    "fr": "gratuit"
   },
   "website": "http://www.calanques-parcnational.fr",
   "publicTransport": {
     "de": "Bus M01 ab Marseille bis Cassis Gendarmerie",
     "hu": "M01-es busz Marseille felől Cassis Gendarmerie megállóig",
     "ro": "Autobuzul M01 din Marsilia până la Cassis Gendarmerie",
-    "en": "Bus M01 from Marseille to Cassis Gendarmerie"
+    "en": "Bus M01 from Marseille to Cassis Gendarmerie",
+    "fr": "Bus M01 de Marseille à Cassis Gendarmerie"
   },
   "parking": {
     "de": "Parkplatz Presqu'île, ca. €2.50/Std., im Sommer oft voll.",
     "hu": "Presqu'île parkoló, kb. 2.50€/óra, nyáron gyakran megtelik.",
     "ro": "Parcarea Presqu'île, aprox. 2.50€/oră, adesea plină vara.",
-    "en": "Presqu'île parking lot, approx. €2.50/hour, often full in summer."
+    "en": "Presqu'île parking lot, approx. €2.50/hour, often full in summer.",
+    "fr": "Parking Presqu'île, env. 2,50 €/heure, souvent plein en été."
   },
   "accessibility": {
     "de": "Sehr schwer zugänglich, steile Felspfade, nicht barrierefrei.",
     "hu": "Nagyon nehezen hozzáférhető, meredek sziklaösvények, nem akadálymentesített.",
     "ro": "Foarte greu accesibil, poteci stâncoase abrupte, nu este accesibil pentru persoane cu dizabilități.",
-    "en": "Very difficult to access, steep rocky paths, not wheelchair accessible."
+    "en": "Very difficult to access, steep rocky paths, not wheelchair accessible.",
+    "fr": "Très difficile d'accès, sentiers rocheux et raides, non accessible aux fauteuils roulants."
   },
   "photoRules": {
     "de": "Erlaubt, Drohnen streng verboten (Nationalpark).",
     "hu": "Megengedett, drónok használata szigorúan tilos (nemzeti park).",
     "ro": "Permis, dronele sunt strict interzise (parc național).",
-    "en": "Permitted, drones strictly forbidden (national park)."
+    "en": "Permitted, drones strictly forbidden (national park).",
+    "fr": "Autorisé, drones strictement interdits (parc national)."
   },
   "bestTimeToVisit": {
     "de": "Mai oder Juni, um Hitze und Massen zu vermeiden.",
     "hu": "Május vagy június, a hőség és a tömeg elkerülése érdekében.",
     "ro": "Mai sau iunie, pentru a evita căldura și aglomerația.",
-    "en": "May or June to avoid the heat and crowds."
+    "en": "May or June to avoid the heat and crowds.",
+    "fr": "Mai ou juin pour éviter la chaleur et la foule."
   },
   "audioGuide": {
     "de": "nein",
     "hu": "nincs",
     "ro": "nu",
-    "en": "no"
+    "en": "no",
+    "fr": "non"
   }
 }

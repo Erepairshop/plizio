@@ -31,7 +31,8 @@
             "de": "Das antike Tor zur Stadt am Ufer der Charente.",
             "hu": "Az ókori városkapu a Charente partján.",
             "ro": "Vechea poartă a orașului pe malul râului Charente.",
-            "en": "The ancient gateway to the city on the banks of the Charente."
+            "en": "The ancient gateway to the city on the banks of the Charente.",
+            "fr": "L'ancienne porte d'entrée de la ville sur les rives de la Charente."
           }
         },
         {
@@ -49,7 +50,8 @@
             "de": "Perfekt für einen Morgenspaziergang am Fluss.",
             "hu": "Tökéletes reggeli sétához a folyó mentén.",
             "ro": "Perfect pentru o plimbare de dimineață pe malul râului.",
-            "en": "Perfect for a morning stroll by the river."
+            "en": "Perfect for a morning stroll by the river.",
+            "fr": "Parfait pour une promenade matinale au bord de la rivière."
           }
         },
         {
@@ -67,7 +69,8 @@
             "de": "Schöne Kunstsammlung in einem historischen Gebäude.",
             "hu": "Szép művészeti gyűjtemény egy történelmi épületben.",
             "ro": "O colecție frumoasă de artă într-o clădire istorică.",
-            "en": "Beautiful art collection in a historical building."
+            "en": "Beautiful art collection in a historical building.",
+            "fr": "Belle collection d'art dans un bâtiment historique."
           }
         },
         {
@@ -85,7 +88,8 @@
             "de": "Bewundern Sie das gotische Portal und den unvollendeten Turm.",
             "hu": "Csodálja meg a gótikus kaput és a befejezetlen tornyot.",
             "ro": "Admirați portalul gotic și turnul neterminat.",
-            "en": "Admire the Gothic portal and the unfinished tower."
+            "en": "Admire the Gothic portal and the unfinished tower.",
+            "fr": "Admirez le portail gothique et la tour inachevée."
           }
         },
         {
@@ -103,7 +107,8 @@
             "de": "Probieren Sie lokale Pineau des Charentes.",
             "hu": "Kóstolja meg a helyi Pineau des Charentes likőrbort.",
             "ro": "Gustați faimosul Pineau des Charentes local.",
-            "en": "Taste the local Pineau des Charentes liqueur wine."
+            "en": "Taste the local Pineau des Charentes liqueur wine.",
+            "fr": "Goûtez le Pineau des Charentes local."
           }
         },
         {
@@ -121,7 +126,8 @@
             "de": "UNESCO-Weltkulturerbe mit einer beeindruckenden Krypta.",
             "hu": "UNESCO világörökség lenyűgöző kriptával.",
             "ro": "Patrimoniu UNESCO cu o criptă impresionantă.",
-            "en": "UNESCO World Heritage site with an impressive crypt."
+            "en": "UNESCO World Heritage site with an impressive crypt.",
+            "fr": "Site du patrimoine mondial de l'UNESCO avec une crypte impressionnante."
           }
         },
         {
@@ -139,7 +145,8 @@
             "de": "Eines der ältesten erhaltenen Arenen Galliens.",
             "hu": "Gallia egyik legrégebbi fennmaradt arénája.",
             "ro": "Una dintre cele mai vechi arene conservate din Galia.",
-            "en": "One of the oldest surviving arenas in Gaul."
+            "en": "One of the oldest surviving arenas in Gaul.",
+            "fr": "Une des plus anciennes arènes survivantes de Gaule."
           }
         }
       ],
@@ -147,7 +154,8 @@
         "de": "Beginnen Sie Ihren Tag am majestätischen Germanicusbogen und genießen Sie die Ruhe im Jardin Public. Nach einer Dosis Kunst im Museum de l'Échevinage erkunden wir die gotischen Details der Kathedrale. Der Nachmittag gehört der Spiritualität in der Basilika Saint-Eutrope, bevor wir den Tag in der monumentalen römischen Arena ausklingen lassen.",
         "hu": "Kezdje a napot a fenséges Germanicus-diadalívnél, majd élvezze a nyugalmat a Jardin Public parkban. Az Échevinage Múzeum művészeti élménye után felfedezzük a katedrális gótikus részleteit. A délután a Szent Eutropius-bazilika spirituális világáé, a napot pedig a monumentális római arénában zárjuk.",
         "ro": "Începeți ziua la maiestuosul Arc al lui Germanicus și bucurați-vă de liniște în Jardin Public. După o doză de artă la Muzeul Échevinage, explorăm detaliile gotice ale catedralei. După-amiaza aparține spiritualității din Bazilica Saint-Eutrope, înainte de a încheia ziua în monumentala arenă romană.",
-        "en": "Start your day at the majestic Arch of Germanicus and enjoy the peace of the Jardin Public. After a dose of art at the Échevinage Museum, we explore the Gothic details of the cathedral. The afternoon belongs to the spirituality of the Basilica of Saint-Eutrope, before ending the day in the monumental Roman arena."
+        "en": "Start your day at the majestic Arch of Germanicus and enjoy the peace of the Jardin Public. After a dose of art at the Échevinage Museum, we explore the Gothic details of the cathedral. The afternoon belongs to the spirituality of the Basilica of Saint-Eutrope, before ending the day in the monumental Roman arena.",
+        "fr": "Commencez votre journée à l'imposant Arc de Germanicus et profitez de la quiétude du Jardin Public. Après une dose d'art au musée de l'Échevinage, explorez les détails gothiques de la cathédrale. L'après-midi appartient à la spiritualité de la basilique Saint-Eutrope, avant de terminer la journée dans l'amphithéâtre romain monumental."
       },
       "gastro_picks": {
         "de": [
@@ -247,6 +255,10 @@
         "en": [
           "Saintes is quite hilly, wear comfortable shoes.",
           "Saint-Eutrope Basilica has two levels, don't miss the lower one."
+        ],
+        "fr": [
+          "Saintes est assez vallonnée, portez des chaussures confortables.",
+          "La basilique Saint-Eutrope a deux niveaux, ne manquez pas le niveau inférieur."
         ]
       }
     },
@@ -273,7 +285,8 @@
             "de": "Das Herz der Musik in Saintes.",
             "hu": "A zene szíve Saintes-ben.",
             "ro": "Inima muzicii din Saintes.",
-            "en": "The heart of music in Saintes."
+            "en": "The heart of music in Saintes.",
+            "fr": "Le cœur de la musique à Saintes."
           }
         },
         {
@@ -291,7 +304,8 @@
             "de": "Römische Pracht am Fluss.",
             "hu": "Római pompa a folyóparton.",
             "ro": "Splendoare romană pe malul râului.",
-            "en": "Roman splendor by the river."
+            "en": "Roman splendor by the river.",
+            "fr": "Splendeur romaine au bord de la rivière."
           }
         },
         {
@@ -309,7 +323,8 @@
             "de": "Radeln Sie durch die grünen Alleen.",
             "hu": "Kerékpározzon a zöld fasorok között.",
             "ro": "Pedalați prin aleile verzi.",
-            "en": "Cycle through the green avenues."
+            "en": "Cycle through the green avenues.",
+            "fr": "Parcourez les avenues verdoyantes à vélo."
           }
         },
         {
@@ -327,7 +342,8 @@
             "de": "Einblicke in das regionale Leben.",
             "hu": "Betekintés a régió életébe.",
             "ro": "O privire asupra vieții regionale.",
-            "en": "Insight into regional life."
+            "en": "Insight into regional life.",
+            "fr": "Aperçu de la vie régionale."
           }
         },
         {
@@ -345,7 +361,8 @@
             "de": "Gotisches Wahrzeichen der Stadt.",
             "hu": "A város gótikus jelképe.",
             "ro": "Simbolul gotic al orașului.",
-            "en": "Gothic landmark of the city."
+            "en": "Gothic landmark of the city.",
+            "fr": "Monument gothique de la ville."
           }
         },
         {
@@ -363,7 +380,8 @@
             "de": "Genießen Sie die Brise am Wasser.",
             "hu": "Élvezze a szellőt a vízparton.",
             "ro": "Bucurați-vă de briză pe malul apei.",
-            "en": "Enjoy the breeze by the water."
+            "en": "Enjoy the breeze by the water.",
+            "fr": "Profitez de la brise au bord de l'eau."
           }
         },
         {
@@ -381,7 +399,8 @@
             "de": "Romanisches Meisterwerk auf dem Hügel.",
             "hu": "Román stílusú remekmű a dombon.",
             "ro": "Capodoperă romanică pe deal.",
-            "en": "Romanesque masterpiece on the hill."
+            "en": "Romanesque masterpiece on the hill.",
+            "fr": "Chef-d'œuvre roman sur la colline."
           }
         },
         {
@@ -399,7 +418,8 @@
             "de": "Parken Sie Ihr Rad vor dem Eingang.",
             "hu": "Parkolja le a bringát a bejáratnál.",
             "ro": "Parcați bicicleta la intrare.",
-            "en": "Park your bike at the entrance."
+            "en": "Park your bike at the entrance.",
+            "fr": "Garez votre vélo à l'entrée."
           }
         }
       ],
@@ -407,7 +427,8 @@
         "de": "Diese Radtour verbindet die beiden Ufer der Charente. Wir starten bei der Abbaye aux Dames, überqueren den Fluss zum Germanicusbogen und dem Stadtgarten. Nach einem Besuch in der Kathedrale radeln wir am Ufer entlang, bevor wir die Basilika und schließlich das antike Amphitheater erreichen.",
         "hu": "Ez a kerékpáros túra összeköti a Charente két partját. Az Abbaye aux Dames-tól indulunk, átkelünk a folyón a Germanicus-diadalívhez és a városi kerthez. A katedrális után a folyóparton tekerünk, majd érintjük a bazilikát és végül az ókori amfiteátrumot.",
         "ro": "Acest tur cu bicicleta conectează cele două maluri ale râului Charente. Începem la Abbaye aux Dames, traversăm râul spre Arcul lui Germanicus și grădina publică. După o vizită la catedrală, pedalăm pe malul apei înainte de a ajunge la bazilică și, în final, la amfiteatrul antic.",
-        "en": "This bike tour connects the two banks of the Charente. We start at Abbaye aux Dames, cross the river to the Arch of Germanicus and the public garden. After a visit to the cathedral, we cycle along the banks before reaching the basilica and finally the ancient amphitheater."
+        "en": "This bike tour connects the two banks of the Charente. We start at Abbaye aux Dames, cross the river to the Arch of Germanicus and the public garden. After a visit to the cathedral, we cycle along the banks before reaching the basilica and finally the ancient amphitheater.",
+        "fr": "Cette boucle à vélo relie les deux rives de la Charente. Nous commençons à l'Abbaye aux Dames, traversons la rivière jusqu'à l'Arc de Germanicus et le jardin public. Après la visite de la cathédrale, nous pédalons le long des berges avant d'atteindre la basilique et enfin l'antique amphithéâtre."
       },
       "gastro_picks": {
         "de": [
@@ -507,6 +528,10 @@
         "en": [
           "Use the 'Passerelle' bridge for great views.",
           "The old town streets are narrow, watch out for pedestrians."
+        ],
+        "fr": [
+          "Utilisez la passerelle pour de superbes vues.",
+          "Les rues de la vieille ville sont étroites, surveillez les piétons."
         ]
       }
     },
@@ -547,7 +572,8 @@
             "de": "Parken Sie bei der Abbaye und gehen Sie zum Bogen.",
             "hu": "Parkoljon az apátságnál, és sétáljon a diadalívhez.",
             "ro": "Parcați la abație și mergeți pe jos la arc.",
-            "en": "Park at the abbey and walk to the arch."
+            "en": "Park at the abbey and walk to the arch.",
+            "fr": "Garez-vous à l'abbaye et marchez jusqu'à l'arc."
           }
         },
         {
@@ -579,7 +605,8 @@
             "de": "Zentrumsnah parken für Cluster 2.",
             "hu": "Parkoljon a központban a 2. klaszterhez.",
             "ro": "Parcați în centru pentru clusterul 2.",
-            "en": "Park in the center for cluster 2."
+            "en": "Park in the center for cluster 2.",
+            "fr": "Garez-vous au centre pour le cluster 2."
           }
         },
         {
@@ -624,7 +651,8 @@
             "de": "Cluster 3: Kurzer Spaziergang zwischen den Ruinen.",
             "hu": "3. klaszter: Rövid séta a romok között.",
             "ro": "Cluster 3: Scurtă plimbare între ruine.",
-            "en": "Cluster 3: Short walk between the ruins."
+            "en": "Cluster 3: Short walk between the ruins.",
+            "fr": "Cluster 3 : courte marche entre les ruines."
           }
         }
       ],
@@ -632,7 +660,8 @@
         "de": "Mit dem Auto erkunden wir Saintes in drei praktischen Clustern. Zuerst das rechte Ufer mit der Abtei und dem Bogen. Dann das historische Zentrum für die Kathedrale und ein gemütliches Mittagessen. Schließlich fahren wir zu den römischen Wundern im Westen der Stadt.",
         "hu": "Autóval három praktikus klaszterben fedezzük fel Saintes-t. Először a jobb partot az apátsággal és a diadalívvel. Majd a történelmi központot a katedrálissal és egy kellemes ebéddel. Végül a város nyugati részén található római csodákhoz hajtunk.",
         "ro": "Cu mașina, explorăm Saintes în trei clustere practice. Mai întâi malul drept cu abația și arcul. Apoi centrul istoric pentru catedrală și un prânz plăcut. În final, conducem spre minunile romane din vestul orașului.",
-        "en": "By car, we explore Saintes in three practical clusters. First, the right bank with the abbey and the arch. Then the historical center for the cathedral and a pleasant lunch. Finally, we drive to the Roman wonders in the west of the city."
+        "en": "By car, we explore Saintes in three practical clusters. First, the right bank with the abbey and the arch. Then the historical center for the cathedral and a pleasant lunch. Finally, we drive to the Roman wonders in the west of the city.",
+        "fr": "En voiture, nous explorons Saintes en trois clusters pratiques. D'abord la rive droite avec l'abbaye et l'arc. Ensuite le centre historique pour la cathédrale et un déjeuner agréable. Enfin, nous conduisons vers les merveilles romaines à l'ouest de la ville."
       },
       "gastro_picks": {
         "de": [
@@ -732,6 +761,10 @@
         "en": [
           "Use the 'Place du 11 Novembre' parking lot.",
           "Some districts are pedestrianized, plan for short walks."
+        ],
+        "fr": [
+          "Utilisez le parking 'Place du 11 Novembre'.",
+          "Certains quartiers sont piétonniers, prévoyez de courtes marches."
         ]
       }
     },
@@ -839,7 +872,8 @@
         "de": "Nutzen Sie das Buss-Netzwerk, um Saintes effizient zu erkunden. Wir verbinden die archäologischen Stätten mit dem Stadtzentrum durch gezielte Busfahrten und kurze Spaziergänge innerhalb der Viertel.",
         "hu": "Használja a Buss hálózatot Saintes hatékony felfedezéséhez. Az archeológiai lelőhelyeket célzott buszjáratokkal és rövid városrészi sétákkal kötjük össze a városközponttal.",
         "ro": "Folosiți rețeaua Buss pentru a explora eficient Saintes. Conectăm siturile arheologice cu centrul orașului prin călătorii cu autobuzul și scurte plimbări prin cartiere.",
-        "en": "Use the Buss network to explore Saintes efficiently. We connect the archaeological sites with the city center through targeted bus trips and short walks within the districts."
+        "en": "Use the Buss network to explore Saintes efficiently. We connect the archaeological sites with the city center through targeted bus trips and short walks within the districts.",
+        "fr": "Utilisez le réseau Buss pour explorer Saintes efficacement. Nous relions les sites archéologiques au centre-ville par des trajets ciblés en bus et de courtes promenades dans les quartiers."
       },
       "gastro_picks": {
         "de": [
@@ -939,6 +973,10 @@
         "en": [
           "Buy a day ticket directly from the driver.",
           "Lines A and B cover most of the sights."
+        ],
+        "fr": [
+          "Achetez un ticket journée directement auprès du conducteur.",
+          "Les lignes A et B desservent la plupart des sites."
         ]
       }
     }

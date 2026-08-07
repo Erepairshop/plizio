@@ -31,7 +31,8 @@
             "de": "Genießen Sie den Kaffee im Schatten der Platanen.",
             "hu": "Igyon egy kávét a platánfák hűs árnyékában.",
             "ro": "Savurați o cafea sub umbra platanilor bătrâni.",
-            "en": "Enjoy a coffee under the shade of the plane trees."
+            "en": "Enjoy a coffee under the shade of the plane trees.",
+            "fr": "Dégustez un café à l'ombre des platanes."
           }
         },
         {
@@ -49,7 +50,8 @@
             "de": "Ein herrlicher englischer Garten aus dem 19. Jahrhundert.",
             "hu": "Gyönyörű 19. századi angolkert szobrokkal.",
             "ro": "O grădină englezească superbă din secolul XIX.",
-            "en": "A beautiful 19th-century English-style garden."
+            "en": "A beautiful 19th-century English-style garden.",
+            "fr": "Un magnifique jardin de style anglais du XIXe siècle."
           }
         },
         {
@@ -67,7 +69,8 @@
             "de": "Probieren Sie die lokalen 'Petits Pâtés de Béziers'.",
             "hu": "Kóstolja meg a helyi húsos-édes pástétomot.",
             "ro": "Gustați faimoasele 'Petits Pâtés de Béziers'.",
-            "en": "Try the local sweet and savory 'Petits Pâtés'."
+            "en": "Try the local sweet and savory 'Petits Pâtés'.",
+            "fr": "Goûtez les 'Petits Pâtés' locaux sucrés et salés."
           }
         },
         {
@@ -85,7 +88,8 @@
             "de": "In zwei eleganten Stadthäusern untergebracht.",
             "hu": "Két elegáns városi palotában berendezett galéria.",
             "ro": "Găzduit în două conace elegante din centru.",
-            "en": "Housed in two elegant mansions in the city center."
+            "en": "Housed in two elegant mansions in the city center.",
+            "fr": "Installé dans deux élégantes demeures du centre-ville."
           }
         },
         {
@@ -103,7 +107,8 @@
             "de": "Besuchen Sie den Kreuzgang für die beste Aussicht.",
             "hu": "Látogasson el a kolostorkertbe a legjobb kilátásért.",
             "ro": "Vizitați claustrul pentru cea mai bună vedere.",
-            "en": "Visit the cloister for the best panoramic view."
+            "en": "Visit the cloister for the best panoramic view.",
+            "fr": "Visitez le cloître pour la meilleure vue panoramique."
           }
         },
         {
@@ -121,7 +126,8 @@
             "de": "Blick auf die Kathedrale, die die Stadt überragt.",
             "hu": "Fotózza le a város fölé magasodó katedrálist.",
             "ro": "Fotografiați catedrala care domină orașul.",
-            "en": "Great spot to photograph the cathedral above."
+            "en": "Great spot to photograph the cathedral above.",
+            "fr": "Super endroit pour photographier la cathédrale en hauteur."
           }
         },
         {
@@ -139,7 +145,8 @@
             "de": "Eine der ältesten romanischen Kirchen der Stadt.",
             "hu": "A város egyik legrégebbi román stílusú temploma.",
             "ro": "Una dintre cele mai vechi biserici romanice.",
-            "en": "One of the oldest Romanesque churches in town."
+            "en": "One of the oldest Romanesque churches in town.",
+            "fr": "Une des plus anciennes églises romanes de la ville."
           }
         }
       ],
@@ -147,7 +154,8 @@
         "de": "Béziers offenbart sich am besten zu Fuß. Der Morgen beginnt auf den Allées Paul Riquet, dem pulsierenden Herzen der Stadt, gefolgt von einem entspannenden Spaziergang im Plateau des Poètes. Nach dem Mittagessen in den Markthallen erkunden Sie die prächtige Kathedrale Saint-Nazaire, eine wahre Festung auf einem Felsen, bevor Sie zum mittelalterlichen Pont Vieux hinabsteigen.",
         "hu": "Béziers-t gyalogosan a legjobb felfedezni. A reggel az Allées Paul Riquet sétányon kezdődik, majd a Plateau des Poètes angolkertjében folytatódik. A vásárcsarnoki ebéd után a sziklára épült, erőd szerű Saint-Nazaire katedrális következik, végül pedig leereszkedünk az Orb-folyón átívelő középkori Öreg-hídhoz.",
         "ro": "Béziers se dezvăluie cel mai bine la pas. Dimineața începe pe Allées Paul Riquet, inima orașului, urmată de o plimbare relaxantă în Plateau des Poètes. După prânzul la hală, explorați impunătoarea Catedrală Saint-Nazaire, o adevărată fortăreață pe stâncă, înainte de a coborî spre medievalul Pont Vieux.",
-        "en": "Béziers is best explored on foot. Start your morning at Allées Paul Riquet, the city's pulse, followed by a stroll through the Plateau des Poètes. After lunch at the market hall, discover the fortress-like Saint-Nazaire Cathedral perched on its rock, before descending to the medieval Pont Vieux spanning the Orb river."
+        "en": "Béziers is best explored on foot. Start your morning at Allées Paul Riquet, the city's pulse, followed by a stroll through the Plateau des Poètes. After lunch at the market hall, discover the fortress-like Saint-Nazaire Cathedral perched on its rock, before descending to the medieval Pont Vieux spanning the Orb river.",
+        "fr": "Béziers se découvre mieux à pied. Commencez votre matinée aux Allées Paul Riquet, le pouls de la ville, puis flânez sur le Plateau des Poètes. Après le déjeuner au marché couvert, découvrez la cathédrale forteresse Saint‑Nazaire perchée sur son rocher, avant de descendre au Pont Vieux médiéval qui enjambe l'Orb."
       },
       "gastro_picks": {
         "de": [
@@ -263,6 +271,10 @@
         "en": [
           "Béziers is hilly, so wear comfortable walking shoes.",
           "The area around the cathedral is steep but worth the effort."
+        ],
+        "fr": [
+          "Béziers est vallonnée, portez donc des chaussures de marche confortables.",
+          "Le secteur autour de la cathédrale est raide mais en vaut la peine."
         ]
       }
     },
@@ -289,7 +301,8 @@
             "de": "Perfekter Start im Grünen.",
             "hu": "Tökéletes zöld kezdés a városban.",
             "ro": "Un început perfect în inima naturii.",
-            "en": "Perfect green start in the city."
+            "en": "Perfect green start in the city.",
+            "fr": "Parfait départ vert en ville."
           }
         },
         {
@@ -307,7 +320,8 @@
             "de": "Stellen Sie Ihr Fahrrad vor dem Eingang ab.",
             "hu": "Parkolja le a bringát a bejárat előtt.",
             "ro": "Parcați bicicleta în siguranță la intrare.",
-            "en": "Park your bike safely near the entrance."
+            "en": "Park your bike safely near the entrance.",
+            "fr": "Garez votre vélo en sécurité près de l'entrée."
           }
         },
         {
@@ -325,7 +339,8 @@
             "de": "Hervorragender Radweg entlang des Orb.",
             "hu": "Kiváló kerékpárút az Orb-folyó mentén.",
             "ro": "Pistă de biciclete excelentă de-a lungul râului.",
-            "en": "Excellent bike path along the Orb river."
+            "en": "Excellent bike path along the Orb river.",
+            "fr": "Excellent itinéraire cyclable le long de l'Orb."
           }
         },
         {
@@ -343,7 +358,8 @@
             "de": "Das Meisterwerk des Canal du Midi (UNESCO).",
             "hu": "A Canal du Midi UNESCO világörökségi mesterműve.",
             "ro": "Capodopera Canalului Midi, sit UNESCO.",
-            "en": "The masterpiece of the Canal du Midi (UNESCO)."
+            "en": "The masterpiece of the Canal du Midi (UNESCO).",
+            "fr": "Le chef-d'œuvre du Canal du Midi (UNESCO)."
           }
         },
         {
@@ -361,7 +377,8 @@
             "de": "Radeln Sie unter jahrhundertealten Platanen.",
             "hu": "Tekerjen évszázados platánok árnyékában.",
             "ro": "Pedalați sub platani seculari pe malul apei.",
-            "en": "Cycle under centuries-old plane trees."
+            "en": "Cycle under centuries-old plane trees.",
+            "fr": "Pédalez sous des platanes centenaires."
           }
         },
         {
@@ -379,7 +396,8 @@
             "de": "Ein Hauch von römischem Erbe.",
             "hu": "Egy kis római örökség a város szélén.",
             "ro": "O notă de moștenire romană în oraș.",
-            "en": "A touch of Roman heritage in the city."
+            "en": "A touch of Roman heritage in the city.",
+            "fr": "Une touche d'héritage romain en ville."
           }
         }
       ],
@@ -387,7 +405,8 @@
         "de": "Mit dem Fahrrad lässt sich Béziers und seine Umgebung herrlich erkunden. Nach der Altstadt führt der Weg zum Canal du Midi. Das Highlight ist die Treppe der Neun Schleusen von Fonseranes. Genießen Sie die Fahrt auf dem flachen Treidelpfad entlang des Kanals, bevor Sie zu den Arènes de Béziers zurückkehren.",
         "hu": "Kerékpárral Béziers és környéke is könnyen bejárható. Az óváros után az út a Canal du Midi-hez vezet. A csúcspont a Fonseranes-i kilenc zsilip látványa. Élvezze a tekerést a csatorna menti sík vontatóúton, mielőtt visszakanyarodna a városi arénához.",
         "ro": "Cu bicicleta, Béziers și împrejurimile sunt o plăcere. După centrul istoric, drumul duce spre Canal du Midi. Punctul culminant este scara celor nouă ecluze de la Fonseranes. Bucurați-vă de drumul plan de-a lungul canalului înainte de a reveni la arenele orașului.",
-        "en": "By bike, Béziers and its surroundings are a delight. After the historic center, head to the Canal du Midi. The highlight is the nine locks of Fonseranes. Enjoy cycling along the flat towpath of the canal before looping back to the city's arena."
+        "en": "By bike, Béziers and its surroundings are a delight. After the historic center, head to the Canal du Midi. The highlight is the nine locks of Fonseranes. Enjoy cycling along the flat towpath of the canal before looping back to the city's arena.",
+        "fr": "À vélo, Béziers et ses alentours sont un délice. Après le centre historique, dirigez-vous vers le Canal du Midi. Le point d'orgue est les neuf écluses de Fonseranes. Profitez de la route plate de la piste cyclable le long du canal avant de revenir vers l'arène de la ville."
       },
       "gastro_picks": {
         "de": [
@@ -487,6 +506,10 @@
         "en": [
           "The towpath is unpaved but easy to cycle on.",
           "Be careful if there's strong wind (Tramontane)."
+        ],
+        "fr": [
+          "La piste cyclable n'est pas goudronnée mais facile à parcourir à vélo.",
+          "Faites attention en cas de vent fort (Tramontane)."
         ]
       }
     },
@@ -513,7 +536,8 @@
             "de": "Parken Sie im Parkhaus 'Jean Jaurès'.",
             "hu": "Parkoljon a Jean Jaurès mélygarázsban.",
             "ro": "Parcați la garajul 'Jean Jaurès'.",
-            "en": "Park at the 'Jean Jaurès' parking garage."
+            "en": "Park at the 'Jean Jaurès' parking garage.",
+            "fr": "Garez-vous au parking 'Jean Jaurès'."
           }
         },
         {
@@ -531,7 +555,8 @@
             "de": "Zentraler Treffpunkt der Stadt.",
             "hu": "A város központi találkozóhelye.",
             "ro": "Punctul central de întâlnire al orașului.",
-            "en": "The central meeting point of the city."
+            "en": "The central meeting point of the city.",
+            "fr": "Le point de rencontre central de la ville."
           }
         },
         {
@@ -549,7 +574,8 @@
             "de": "Beeindruckende gotische Architektur.",
             "hu": "Lenyűgöző gótikus építészet.",
             "ro": "Arhitectură gotică impresionantă.",
-            "en": "Impressive Gothic architecture."
+            "en": "Impressive Gothic architecture.",
+            "fr": "Impressionnante architecture gothique."
           }
         },
         {
@@ -567,7 +593,8 @@
             "de": "Nutzen Sie den großen Parkplatz vor Ort.",
             "hu": "Használja a helyszíni nagy parkolót.",
             "ro": "Folosiți parcarea mare de la fața locului.",
-            "en": "Use the large on-site parking lot."
+            "en": "Use the large on-site parking lot.",
+            "fr": "Utilisez le grand parking sur place."
           }
         },
         {
@@ -585,7 +612,8 @@
             "de": "Antike Ausgrabungen und Blick auf den Étang de Montady.",
             "hu": "Antik romok és kilátás a Montady-tóra.",
             "ro": "Săpături antice și vedere spre Étang de Montady.",
-            "en": "Ancient ruins and view of the Montady pond."
+            "en": "Ancient ruins and view of the Montady pond.",
+            "fr": "Ruines antiques et vue sur l'étang de Montady."
           }
         },
         {
@@ -603,7 +631,8 @@
             "de": "Ein Hauch von Meeresbrise zum Abschluss.",
             "hu": "Egy kis tengeri szellő a nap végére.",
             "ro": "O briză marină pentru finalul zilei.",
-            "en": "A sea breeze to end the day."
+            "en": "A sea breeze to end the day.",
+            "fr": "Une brise marine pour terminer la journée."
           }
         }
       ],
@@ -611,7 +640,8 @@
         "de": "Mit dem Auto kombinieren Sie das historische Zentrum von Béziers mit den Highlights der Umgebung. Nach einem Rundgang durch die Altstadt fahren Sie zu den berühmten Neun Schleusen. Ein kurzer Ausflug führt Sie zum antiken Oppidum d'Ensérune mit seinem einzigartigen Panorama, bevor Sie den Tag am Sandstrand von Valras-Plage ausklingen lassen.",
         "hu": "Autóval Béziers történelmi belvárosát és a környék látnivalóit is kényelmesen elérheti. Az óvárosi séta után irány a híres kilenc zsilip. Egy rövid kitérővel megnézheti az Ensérune oppidumot és annak különleges kör alakú mezőit, a napot pedig a Valras-Plage homokos tengerpartján zárhatja.",
         "ro": "Cu mașina, combinați centrul istoric cu atracțiile din jur. După o plimbare prin orașul vechi, mergeți la celebrele nouă ecluze. O scurtă excursie vă duce la anticul Oppidum d'Ensérune cu panorama sa unică, înainte de a încheia ziua pe plaja cu nisip de la Valras-Plage.",
-        "en": "By car, you can combine Béziers' historic center with surrounding highlights. After a tour of the old town, drive to the famous nine locks. A short trip takes you to the ancient Oppidum d'Ensérune with its unique panorama, before ending the day at the sandy beach of Valras-Plage."
+        "en": "By car, you can combine Béziers' historic center with surrounding highlights. After a tour of the old town, drive to the famous nine locks. A short trip takes you to the ancient Oppidum d'Ensérune with its unique panorama, before ending the day at the sandy beach of Valras-Plage.",
+        "fr": "En voiture, vous pouvez combiner le centre historique de Béziers avec les points forts environnants. Après une visite de la vieille ville, conduisez jusqu'aux célèbres neuf écluses. Une courte escapade vous mène à l'ancien Oppidum d'Ensérune avec son panorama unique, avant de terminer la journée sur la plage de sable de Valras‑Plage."
       },
       "gastro_picks": {
         "de": [
@@ -711,6 +741,10 @@
         "en": [
           "In summer, parking near the cathedral can be difficult.",
           "The coastal road to Valras is quite scenic."
+        ],
+        "fr": [
+          "En été, se garer près de la cathédrale peut être difficile.",
+          "La route côtière vers Valras est assez pittoresque."
         ]
       }
     },
@@ -737,7 +771,8 @@
             "de": "Zentraler Busknotenpunkt 'De Gaulle'.",
             "hu": "A 'De Gaulle' központi buszcsomópont közelében.",
             "ro": "Nodul central de autobuze 'De Gaulle'.",
-            "en": "Near the 'De Gaulle' central bus hub."
+            "en": "Near the 'De Gaulle' central bus hub.",
+            "fr": "Près du pôle bus central 'De Gaulle'."
           }
         },
         {
@@ -755,7 +790,8 @@
             "de": "Kurzer Fußweg vom Stadtzentrum.",
             "hu": "Rövid séta a belvárosból.",
             "ro": "Scurtă plimbare din centrul orașului.",
-            "en": "Short walk from the city center."
+            "en": "Short walk from the city center.",
+            "fr": "Courte marche depuis le centre-ville."
           }
         },
         {
@@ -773,7 +809,8 @@
             "de": "Perfekt für ein schnelles Mittagessen.",
             "hu": "Tökéletes hely egy gyors ebédhez.",
             "ro": "Perfect pentru un prânz rapid.",
-            "en": "Perfect for a quick local lunch."
+            "en": "Perfect for a quick local lunch.",
+            "fr": "Parfait pour un déjeuner local rapide."
           }
         },
         {
@@ -791,7 +828,8 @@
             "de": "Nehmen Sie die Linie E nach Fonseranes.",
             "hu": "Vegyék az E jelű buszt Fonseranes felé.",
             "ro": "Luați linia E către Fonseranes.",
-            "en": "Take line E towards Fonseranes."
+            "en": "Take line E towards Fonseranes.",
+            "fr": "Prenez la ligne E en direction de Fonseranes."
           }
         },
         {
@@ -809,7 +847,8 @@
             "de": "Mit dem Bus zurück zum Flussufer.",
             "hu": "Busszal vissza a folyóparthoz.",
             "ro": "Înapoi cu autobuzul spre malul râului.",
-            "en": "Back by bus to the riverside."
+            "en": "Back by bus to the riverside.",
+            "fr": "Retour en bus vers les berges."
           }
         },
         {
@@ -827,7 +866,8 @@
             "de": "Direkt neben dem Bahnhof gelegen.",
             "hu": "Közvetlenül a vasútállomás mellett.",
             "ro": "Situat chiar lângă gară.",
-            "en": "Located right next to the train station."
+            "en": "Located right next to the train station.",
+            "fr": "Situé juste à côté de la gare."
           }
         }
       ],
@@ -835,7 +875,8 @@
         "de": "Mit dem Bussystem von Béziers (beeMob) erreichen Sie die wichtigsten Sehenswürdigkeiten bequem. Nach dem historischen Kern im Zentrum bringt Sie ein Bus direkt zum UNESCO-Weltkulturerbe der Schleusen von Fonseranes. Der Tag endet im malerischen Park Plateau des Poètes, nur wenige Schritte vom Bahnhof entfernt.",
         "hu": "Béziers buszhálózatával (beeMob) kényelmesen elérheti a főbb pontokat. A belvárosi történelmi mag felfedezése után busz viszi ki az UNESCO világörökségi zsiliprendszerhez. A nap a Plateau des Poètes festői parkjában zárul, amely kőhajításnyira van a vasútállomástól.",
         "ro": "Cu rețeaua de autobuze beeMob, puteți ajunge ușor la principalele obiective. După explorarea centrului istoric, un autobuz vă duce direct la ecluzele de la Fonseranes, sit UNESCO. Ziua se încheie în parcul Plateau des Poètes, situat la câțiva pași de gară.",
-        "en": "Using Béziers' bus network (beeMob), you can comfortably reach the key sites. After exploring the historic heart, a bus takes you directly to the UNESCO-listed Fonseranes locks. The day ends at the picturesque Plateau des Poètes park, just steps away from the train station."
+        "en": "Using Béziers' bus network (beeMob), you can comfortably reach the key sites. After exploring the historic heart, a bus takes you directly to the UNESCO-listed Fonseranes locks. The day ends at the picturesque Plateau des Poètes park, just steps away from the train station.",
+        "fr": "En utilisant le réseau de bus de Béziers (beeMob), vous pouvez atteindre confortablement les sites clés. Après avoir exploré le cœur historique, un bus vous emmène directement aux écluses de Fonseranes classées par l'UNESCO. La journée se termine au pittoresque parc du Plateau des Poètes, à deux pas de la gare."
       },
       "gastro_picks": {
         "de": [
@@ -935,6 +976,10 @@
         "en": [
           "Buy a day pass directly from the driver.",
           "The beeMob app shows real-time departures."
+        ],
+        "fr": [
+          "Achetez un pass journée directement auprès du conducteur.",
+          "L’application beeMob affiche les départs en temps réel."
         ]
       }
     }

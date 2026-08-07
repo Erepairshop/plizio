@@ -21,7 +21,8 @@
             "de": "Fontaines de Valence",
             "hu": "Valence-i szökőkutak",
             "ro": "Fântânile din Valence",
-            "en": "Fountains of Valence"
+            "en": "Fountains of Valence",
+            "fr": "Fontaines de Valence"
           },
           "coords": [
             4.892,
@@ -36,7 +37,8 @@
             "de": "Bewundern Sie das Lichtspiel am Morgen.",
             "hu": "Csodálja meg a reggeli fényjátékot.",
             "ro": "Admirați jocul de lumini dimineața.",
-            "en": "Admire the play of light in the morning."
+            "en": "Admire the play of light in the morning.",
+            "fr": "Admirez le jeu de lumière le matin."
           }
         },
         {
@@ -44,7 +46,8 @@
             "de": "Maison des Têtes",
             "hu": "Fejek háza",
             "ro": "Casa Capetelor",
-            "en": "House of Heads"
+            "en": "House of Heads",
+            "fr": "Maison des Têtes"
           },
           "coords": [
             4.891,
@@ -59,7 +62,8 @@
             "de": "Suchen Sie die Skulptur des Windes an der Fassade.",
             "hu": "Keresse meg a szél szobrát a homlokzaton.",
             "ro": "Căutați sculptura vântului pe fațadă.",
-            "en": "Look for the sculpture of the wind on the facade."
+            "en": "Look for the sculpture of the wind on the facade.",
+            "fr": "Cherchez la sculpture du vent sur la façade."
           }
         },
         {
@@ -67,7 +71,8 @@
             "de": "Kathedrale Saint-Apollinaire",
             "hu": "Szent Apollináris-székesegyház",
             "ro": "Catedrala Sfântul Apolinarie",
-            "en": "Saint-Apollinaire Cathedral"
+            "en": "Saint-Apollinaire Cathedral",
+            "fr": "Cathédrale Saint-Apollinaire"
           },
           "coords": [
             4.89,
@@ -82,7 +87,8 @@
             "de": "Besuchen Sie das Grabdenkmal von Papst Pius VI.",
             "hu": "Tekintse meg VI. Piusz pápa síremlékét.",
             "ro": "Vizitați monumentul funerar al Papei Pius al VI-lea.",
-            "en": "Visit the funeral monument of Pope Pius VI."
+            "en": "Visit the funeral monument of Pope Pius VI.",
+            "fr": "Visitez le monument funéraire du pape Pie VI."
           }
         },
         {
@@ -90,7 +96,8 @@
             "de": "Musée de Valence",
             "hu": "Valence-i Múzeum",
             "ro": "Muzeul din Valence",
-            "en": "Museum of Valence"
+            "en": "Museum of Valence",
+            "fr": "Musée de Valence"
           },
           "coords": [
             4.889,
@@ -105,7 +112,8 @@
             "de": "Die Terrasse bietet einen tollen Blick auf die Stadt.",
             "hu": "A teraszról remek kilátás nyílik a városra.",
             "ro": "Terasa oferă o vedere minunată asupra orașului.",
-            "en": "The terrace offers a great view of the city."
+            "en": "The terrace offers a great view of the city.",
+            "fr": "La terrasse offre une belle vue sur la ville."
           }
         },
         {
@@ -113,7 +121,8 @@
             "de": "Mittagessen in der Altstadt",
             "hu": "Ebéd az óvárosban",
             "ro": "Prânz în centrul vechi",
-            "en": "Lunch in the Old Town"
+            "en": "Lunch in the Old Town",
+            "fr": "Déjeuner dans la vieille ville"
           },
           "coords": [
             4.891,
@@ -128,7 +137,8 @@
             "de": "Probieren Sie die Ravioles du Dauphiné.",
             "hu": "Kóstolja meg a dauphiné-i raviolit.",
             "ro": "Gustați Ravioles du Dauphiné.",
-            "en": "Try the Ravioles du Dauphiné."
+            "en": "Try the Ravioles du Dauphiné.",
+            "fr": "Goûtez aux Ravioles du Dauphiné."
           }
         },
         {
@@ -136,7 +146,8 @@
             "de": "Kiosque Peynet",
             "hu": "Peynet-zenepavilon",
             "ro": "Chioșcul Peynet",
-            "en": "Peynet Kiosk"
+            "en": "Peynet Kiosk",
+            "fr": "Kiosque Peynet"
           },
           "coords": [
             4.888,
@@ -151,7 +162,8 @@
             "de": "Das Symbol der Verliebten in Valence.",
             "hu": "A szerelmesek szimbóluma Valence-ben.",
             "ro": "Simbolul îndrăgostiților din Valence.",
-            "en": "The symbol of lovers in Valence."
+            "en": "The symbol of lovers in Valence.",
+            "fr": "Le symbole des amoureux à Valence."
           }
         },
         {
@@ -159,7 +171,8 @@
             "de": "Parc Jouvet",
             "hu": "Jouvet park",
             "ro": "Parcul Jouvet",
-            "en": "Parc Jouvet"
+            "en": "Parc Jouvet",
+            "fr": "Parc Jouvet"
           },
           "coords": [
             4.886,
@@ -174,7 +187,8 @@
             "de": "Spazieren Sie zum Ufer der Rhône.",
             "hu": "Sétáljon le a Rhône partjához.",
             "ro": "Plimbați-vă până la malul Ronului.",
-            "en": "Walk down to the banks of the Rhône."
+            "en": "Walk down to the banks of the Rhône.",
+            "fr": "Descendez jusqu'aux rives du Rhône."
           }
         }
       ],
@@ -182,7 +196,8 @@
         "de": "Beginnen Sie Ihren Tag an den belebten Brunnen von Valence, bevor Sie die architektonischen Wunder der Renaissance im Maison des Têtes bestaunen. Der Mittag gehört der Geschichte in der Kathedrale und dem Museum, das in einem ehemaligen Bischofspalast untergebracht ist. Nach einem herzhaften lokalen Mittagessen spazieren Sie zum romantischen Kiosque Peynet und lassen den Tag im üppigen Parc Jouvet direkt an der Rhône ausklingen.",
         "hu": "Kezdje a napot Valence nyüzsgő szökőkútjainál, majd csodálja meg a Maison des Têtes reneszánsz építészeti remekeit. A délután a történelemé a székesegyházban és az egykori püspöki palotában működő múzeumban. Egy kiadós helyi ebéd után sétáljon el a romantikus Peynet-pavilonhoz, és zárja a napot a Rhône-parti Jouvet park buja zöldjében.",
         "ro": "Începeți ziua la fântânile pline de viață din Valence, înainte de a admira minunile arhitecturale ale Renașterii de la Maison des Têtes. Amiaza aparține istoriei la catedrală și la muzeul situat într-un fost palat episcopal. După un prânz local consistent, plimbați-vă spre romanticul chioșc Peynet și încheiați ziua în luxuriantul parc Jouvet, chiar pe malul Ronului.",
-        "en": "Start your day at the lively fountains of Valence before admiring the Renaissance architectural wonders at the Maison des Têtes. Midday belongs to history at the cathedral and the museum housed in a former bishop's palace. After a hearty local lunch, stroll to the romantic Peynet Kiosk and end your day in the lush Parc Jouvet right on the Rhône."
+        "en": "Start your day at the lively fountains of Valence before admiring the Renaissance architectural wonders at the Maison des Têtes. Midday belongs to history at the cathedral and the museum housed in a former bishop's palace. After a hearty local lunch, stroll to the romantic Peynet Kiosk and end your day in the lush Parc Jouvet right on the Rhône.",
+        "fr": "Commencez votre journée aux vivantes fontaines de Valence avant d'admirer les merveilles architecturales de la Renaissance à la Maison des Têtes. Midi est consacré à l'histoire à la cathédrale et au musée installé dans un ancien palais épiscopal. Après un copieux déjeuner local, promenez-vous jusqu'au romantique Kiosque Peynet et terminez votre journée dans le luxuriant Parc Jouvet au bord du Rhône."
       },
       "gastro_picks": {
         "de": [
@@ -326,6 +341,12 @@
           "Look out for the small canals that crisscross the city.",
           "Try Pogne, a local brioche pastry.",
           "Parc Jouvet offers great shade on hot summer days."
+        ],
+        "fr": [
+          "La vieille ville est compacte et se visite facilement à pied.",
+          "Soyez attentif aux petits canaux qui traversent la ville.",
+          "Essayez la Pogne, une brioche locale.",
+          "Le Parc Jouvet offre une excellente ombre lors des chaudes journées d'été."
         ]
       }
     },
@@ -342,7 +363,8 @@
             "de": "Pôle Bus Architektur",
             "hu": "Pôle Bus építészet",
             "ro": "Arhitectura Pôle Bus",
-            "en": "Pôle Bus Architecture"
+            "en": "Pôle Bus Architecture",
+            "fr": "Pôle Bus Architecture"
           },
           "coords": [
             4.895,
@@ -357,7 +379,8 @@
             "de": "Moderne Glasarchitektur von Wilmotte.",
             "hu": "Wilmotte modern üvegépítészete.",
             "ro": "Arhitectură modernă din sticlă de Wilmotte.",
-            "en": "Modern glass architecture by Wilmotte."
+            "en": "Modern glass architecture by Wilmotte.",
+            "fr": "Architecture moderne en verre par Wilmotte."
           }
         },
         {
@@ -365,7 +388,8 @@
             "de": "Maison des Têtes",
             "hu": "Fejek háza",
             "ro": "Casa Capetelor",
-            "en": "House of Heads"
+            "en": "House of Heads",
+            "fr": "Maison des Têtes"
           },
           "coords": [
             4.891,
@@ -380,7 +404,8 @@
             "de": "Stellen Sie Ihr Rad am Place des Clercs ab.",
             "hu": "Tegye le a biciklit a Place des Clercs-en.",
             "ro": "Lăsați bicicleta în Place des Clercs.",
-            "en": "Park your bike at Place des Clercs."
+            "en": "Park your bike at Place des Clercs.",
+            "fr": "Garez votre vélo à la Place des Clercs."
           }
         },
         {
@@ -388,7 +413,8 @@
             "de": "Kathedrale Saint-Apollinaire",
             "hu": "Szent Apollináris-székesegyház",
             "ro": "Catedrala Sfântul Apolinarie",
-            "en": "Saint-Apollinaire Cathedral"
+            "en": "Saint-Apollinaire Cathedral",
+            "fr": "Cathédrale Saint-Apollinaire"
           },
           "coords": [
             4.89,
@@ -403,7 +429,8 @@
             "de": "Bewundern Sie die romanische Schlichtheit.",
             "hu": "Csodálja meg a román stílusú egyszerűséget.",
             "ro": "Admirați simplitatea romanică.",
-            "en": "Admire the Romanesque simplicity."
+            "en": "Admire the Romanesque simplicity.",
+            "fr": "Admirez la simplicité romane."
           }
         },
         {
@@ -411,7 +438,8 @@
             "de": "Canal de la Bourne",
             "hu": "Bourne-csatorna",
             "ro": "Canalul de la Bourne",
-            "en": "Canal de la Bourne"
+            "en": "Canal de la Bourne",
+            "fr": "Canal de la Bourne"
           },
           "coords": [
             4.91,
@@ -426,7 +454,8 @@
             "de": "Radfahren entlang der grünen Kanäle.",
             "hu": "Kerékpározás a zöld csatornák mentén.",
             "ro": "Ciclism de-a lungul canalelor verzi.",
-            "en": "Cycling along the green canals."
+            "en": "Cycling along the green canals.",
+            "fr": "Cyclisme le long des canaux verts."
           }
         },
         {
@@ -434,7 +463,8 @@
             "de": "Parc Jouvet",
             "hu": "Jouvet park",
             "ro": "Parcul Jouvet",
-            "en": "Parc Jouvet"
+            "en": "Parc Jouvet",
+            "fr": "Parc Jouvet"
           },
           "coords": [
             4.886,
@@ -449,7 +479,8 @@
             "de": "Perfekter Ort für eine Pause im Grünen.",
             "hu": "Tökéletes hely egy pihenőhöz a zöldben.",
             "ro": "Locul perfect pentru o pauză în natură.",
-            "en": "Perfect spot for a break in the greenery."
+            "en": "Perfect spot for a break in the greenery.",
+            "fr": "Endroit parfait pour une pause au milieu de la verdure."
           }
         },
         {
@@ -457,7 +488,8 @@
             "de": "Kiosque Peynet",
             "hu": "Peynet-zenepavilon",
             "ro": "Chioșcul Peynet",
-            "en": "Peynet Kiosk"
+            "en": "Peynet Kiosk",
+            "fr": "Kiosque Peynet"
           },
           "coords": [
             4.888,
@@ -472,7 +504,8 @@
             "de": "Genießen Sie den Blick auf die Burg Crussol.",
             "hu": "Élvezze a kilátást Crussol várára.",
             "ro": "Bucurați-vă de vederea spre castelul Crussol.",
-            "en": "Enjoy the view of Crussol Castle."
+            "en": "Enjoy the view of Crussol Castle.",
+            "fr": "Profitez de la vue sur le château de Crussol."
           }
         }
       ],
@@ -480,7 +513,8 @@
         "de": "Erkunden Sie Valence auf zwei Rädern, beginnend mit der modernen Architektur des Pôle Bus. Fahren Sie dann in die Altstadt zu den historischen Monumenten. Ein Highlight ist die Tour entlang der grünen Kanäle von Valence, die eine kühle Brise bieten. Beenden Sie den Tag entspannt im Parc Jouvet und am berühmten Kiosque Peynet mit Blick auf die fernen Berge.",
         "hu": "Fedezze fel Valence-t két keréken, kezdve a Pôle Bus modern építészetével. Ezután tekerjen az óvárosba a történelmi műemlékekhez. A nap fénypontja a Valence zöld csatornái mentén tett túra, amely hűsítő fuvallatot áraszt. Zárja a napot pihentetően a Jouvet parkban és a híres Peynet-pavilonnál, kilátással a távoli hegyekre.",
         "ro": "Explorați Valence pe două roți, începând cu arhitectura modernă a Pôle Bus. Pedalați apoi spre centrul vechi pentru monumentele istorice. Un punct culminant este turul de-a lungul canalelor verzi din Valence, care oferă o briză răcoroasă. Încheiați ziua relaxat în Parcul Jouvet și la celebrul chioșc Peynet, cu vedere spre munții din depărtare.",
-        "en": "Explore Valence on two wheels, starting with the modern architecture of the Pôle Bus. Then cycle to the old town for historical monuments. A highlight is the tour along the green canals of Valence, offering a cool breeze. End the day relaxingly in Parc Jouvet and at the famous Peynet Kiosk with a view of the distant mountains."
+        "en": "Explore Valence on two wheels, starting with the modern architecture of the Pôle Bus. Then cycle to the old town for historical monuments. A highlight is the tour along the green canals of Valence, offering a cool breeze. End the day relaxingly in Parc Jouvet and at the famous Peynet Kiosk with a view of the distant mountains.",
+        "fr": "Parcourez Valence à vélo en commençant par l’architecture moderne du Pôle Bus. Ensuite, rejoignez la vieille ville pour ses monuments historiques. Un point fort est la balade le long des canaux verts de Valence, offrant une brise rafraîchissante. Terminez la journée en vous relaxant au Parc Jouvet et au célèbre Kiosque Peynet avec vue sur les montagnes lointaines."
       },
       "gastro_picks": {
         "de": [
@@ -588,6 +622,12 @@
           "Use the 'Libélo' rental bike system.",
           "The ViaRhôna route passes right by the city.",
           "In the old town, you may need to push your bike in some areas."
+        ],
+        "fr": [
+          "Valence compte plus de 17 km de canaux, parfaits pour le vélo.",
+          "Utilisez le système de vélos en libre-service « Libélo ».",
+          "La ViaRhôna passe juste à côté de la ville.",
+          "Dans la vieille ville, il se peut que vous deviez pousser votre vélo dans certains secteurs."
         ]
       }
     },
@@ -604,7 +644,8 @@
             "de": "Fontaines de Valence (Cluster A)",
             "hu": "Valence-i szökőkutak (A klaszter)",
             "ro": "Fântânile din Valence (Cluster A)",
-            "en": "Fountains of Valence (Cluster A)"
+            "en": "Fountains of Valence (Cluster A)",
+            "fr": "Fontaines de Valence (Groupe A)"
           },
           "coords": [
             4.892,
@@ -619,7 +660,8 @@
             "de": "Parken Sie im Parkhaus Q-Park Coeur de Ville.",
             "hu": "Parkoljon a Q-Park Coeur de Ville parkolóházban.",
             "ro": "Parcați în parcarea Q-Park Coeur de Ville.",
-            "en": "Park at Q-Park Coeur de Ville parking."
+            "en": "Park at Q-Park Coeur de Ville parking.",
+            "fr": "Garez-vous au parking Q-Park Cœur de Ville."
           }
         },
         {
@@ -627,7 +669,8 @@
             "de": "Maison des Têtes (Cluster A)",
             "hu": "Fejek háza (A klaszter)",
             "ro": "Casa Capetelor (Cluster A)",
-            "en": "House of Heads (Cluster A)"
+            "en": "House of Heads (Cluster A)",
+            "fr": "Maison des Têtes (Groupe A)"
           },
           "coords": [
             4.891,
@@ -643,7 +686,8 @@
             "de": "Kurzer Spaziergang vom Parkplatz.",
             "hu": "Rövid séta a parkolótól.",
             "ro": "Scurtă plimbare de la parcare.",
-            "en": "Short walk from the parking."
+            "en": "Short walk from the parking.",
+            "fr": "Courte promenade depuis le parking."
           }
         },
         {
@@ -651,7 +695,8 @@
             "de": "Kathedrale Saint-Apollinaire (Cluster A)",
             "hu": "Szent Apollináris-székesegyház (A klaszter)",
             "ro": "Catedrala Sfântul Apolinarie (Cluster A)",
-            "en": "Saint-Apollinaire Cathedral (Cluster A)"
+            "en": "Saint-Apollinaire Cathedral (Cluster A)",
+            "fr": "Cathédrale Saint-Apollinaire (Groupe A)"
           },
           "coords": [
             4.89,
@@ -667,7 +712,8 @@
             "de": "Das älteste Bauwerk der Stadt.",
             "hu": "A város legrégebbi építménye.",
             "ro": "Cea mai veche clădire din oraș.",
-            "en": "The oldest structure in the city."
+            "en": "The oldest structure in the city.",
+            "fr": "Le plus ancien édifice de la ville."
           }
         },
         {
@@ -675,7 +721,8 @@
             "de": "Musée de Valence (Cluster A)",
             "hu": "Valence-i Múzeum (A klaszter)",
             "ro": "Muzeul din Valence (Cluster A)",
-            "en": "Museum of Valence (Cluster A)"
+            "en": "Museum of Valence (Cluster A)",
+            "fr": "Musée de Valence (Groupe A)"
           },
           "coords": [
             4.889,
@@ -691,7 +738,8 @@
             "de": "Entdecken Sie römische Mosaike.",
             "hu": "Fedezze fel a római mozaikokat.",
             "ro": "Descoperiți mozaicurile romane.",
-            "en": "Discover Roman mosaics."
+            "en": "Discover Roman mosaics.",
+            "fr": "Découvrez des mosaïques romaines."
           }
         },
         {
@@ -699,7 +747,8 @@
             "de": "Crussol Burgruine (Cluster B)",
             "hu": "Crussol várrom (B klaszter)",
             "ro": "Ruinele Castelului Crussol (Cluster B)",
-            "en": "Crussol Castle Ruins (Cluster B)"
+            "en": "Crussol Castle Ruins (Cluster B)",
+            "fr": "Ruines du château de Crussol (Groupe B)"
           },
           "coords": [
             4.85,
@@ -715,7 +764,8 @@
             "de": "Spektakulärer Blick auf Valence von der anderen Rhône-Seite.",
             "hu": "Látványos kilátás Valence-re a Rhône túlpartjáról.",
             "ro": "Vedere spectaculoasă spre Valence de pe cealaltă parte a Ronului.",
-            "en": "Spectacular view of Valence from the other side of the Rhône."
+            "en": "Spectacular view of Valence from the other side of the Rhône.",
+            "fr": "Vue spectaculaire sur Valence depuis l’autre rive du Rhône."
           }
         },
         {
@@ -723,7 +773,8 @@
             "de": "Parc Jouvet (Cluster C)",
             "hu": "Jouvet park (C klaszter)",
             "ro": "Parcul Jouvet (Cluster C)",
-            "en": "Parc Jouvet (Cluster C)"
+            "en": "Parc Jouvet (Cluster C)",
+            "fr": "Parc Jouvet (Groupe C)"
           },
           "coords": [
             4.886,
@@ -739,7 +790,8 @@
             "de": "Parken Sie direkt am Parkeingang.",
             "hu": "Parkoljon közvetlenül a park bejáratánál.",
             "ro": "Parcați chiar la intrarea în parc.",
-            "en": "Park right at the park entrance."
+            "en": "Park right at the park entrance.",
+            "fr": "Garez-vous juste à l’entrée du parc."
           }
         },
         {
@@ -747,7 +799,8 @@
             "de": "Kiosque Peynet (Cluster C)",
             "hu": "Peynet-zenepavilon (C klaszter)",
             "ro": "Chioșcul Peynet (Cluster C)",
-            "en": "Peynet Kiosk (Cluster C)"
+            "en": "Peynet Kiosk (Cluster C)",
+            "fr": "Kiosque Peynet (Groupe C)"
           },
           "coords": [
             4.888,
@@ -763,7 +816,8 @@
             "de": "Ideal für ein Erinnerungsfoto.",
             "hu": "Ideális egy emlékfotóhoz.",
             "ro": "Ideal pentru o fotografie de amintire.",
-            "en": "Ideal for a souvenir photo."
+            "en": "Ideal for a souvenir photo.",
+            "fr": "Idéal pour une photo-souvenir."
           }
         }
       ],
@@ -771,7 +825,8 @@
         "de": "Mit dem Auto verbinden Sie das historische Zentrum von Valence mit den beeindruckenden Ruinen der Burg Crussol auf der gegenüberliegenden Flussseite. Starten Sie im Herzen der Stadt mit Architektur und Kunst, fahren Sie dann für einen Panorama-Ausblick über die Rhône und kehren Sie für einen entspannten Spaziergang im Parc Jouvet zurück. Diese Route bietet die perfekte Mischung aus Stadtkultur und Natur-Ausblicken.",
         "hu": "Autóval összekötheti Valence történelmi központját a folyó túloldalán lévő lenyűgöző Crussol várrommal. Kezdje a város szívében építészettel és művészettel, majd autózzon át a panorámás kilátásért a Rhône felett, és térjen vissza egy pihentető sétára a Jouvet parkba. Ez az útvonal a városi kultúra és a természeti kilátások tökéletes keverékét kínálja.",
         "ro": "Cu mașina, conectați centrul istoric al orașului Valence cu ruinele impresionante ale castelului Crussol de pe partea opusă a râului. Începeți în inima orașului cu arhitectură și artă, apoi conduceți pentru o vedere panoramică peste Ron și reveniți pentru o plimbare relaxantă în Parcul Jouvet. Acest traseu oferă amestecul perfect de cultură urbană și priveliști naturale.",
-        "en": "By car, you connect the historical center of Valence with the impressive ruins of Crussol Castle on the opposite side of the river. Start in the heart of the city with architecture and art, then drive for a panoramic view over the Rhône and return for a relaxing stroll in Parc Jouvet. This route offers the perfect mix of urban culture and natural vistas."
+        "en": "By car, you connect the historical center of Valence with the impressive ruins of Crussol Castle on the opposite side of the river. Start in the heart of the city with architecture and art, then drive for a panoramic view over the Rhône and return for a relaxing stroll in Parc Jouvet. This route offers the perfect mix of urban culture and natural vistas.",
+        "fr": "En voiture, vous reliez le centre historique de Valence aux impressionnantes ruines du château de Crussol sur l’autre rive. Commencez au cœur de la ville par l’architecture et l’art, puis conduisez jusqu’à un point de vue panoramique sur le Rhône et revenez pour une promenade relaxante au Parc Jouvet. Cet itinéraire offre le mélange parfait de culture urbaine et de panoramas naturels."
       },
       "gastro_picks": {
         "de": [
@@ -879,6 +934,12 @@
           "The drive to Crussol Castle takes only 15 minutes.",
           "Parking is often easier at Parc Jouvet than in the center.",
           "Avoid rush hour on the bridge over the Rhône."
+        ],
+        "fr": [
+          "Utilisez les parkings à l’entrée de la zone piétonne.",
+          "La route jusqu’au château de Crussol ne prend que 15 minutes.",
+          "Le stationnement est souvent plus facile au Parc Jouvet qu’au centre.",
+          "Évitez l’heure de pointe sur le pont au-dessus du Rhône."
         ]
       }
     },
@@ -895,7 +956,8 @@
             "de": "Pôle Bus (Gare Valence Ville)",
             "hu": "Pôle Bus (Valence Ville állomás)",
             "ro": "Pôle Bus (Gara Valence Ville)",
-            "en": "Pôle Bus (Gare Valence Ville)"
+            "en": "Pôle Bus (Gare Valence Ville)",
+            "fr": "Pôle Bus (Gare Valence Ville)"
           },
           "coords": [
             4.895,
@@ -910,7 +972,8 @@
             "de": "Zentraler Knotenpunkt aller Buslinien.",
             "hu": "Minden buszjárat központi csomópontja.",
             "ro": "Nodul central al tuturor liniilor de autobuz.",
-            "en": "Central hub for all bus lines."
+            "en": "Central hub for all bus lines.",
+            "fr": "Nœud central pour toutes les lignes de bus."
           }
         },
         {
@@ -918,7 +981,8 @@
             "de": "Fontaines de Valence",
             "hu": "Valence-i szökőkutak",
             "ro": "Fântânile din Valence",
-            "en": "Fountains of Valence"
+            "en": "Fountains of Valence",
+            "fr": "Fontaines de Valence"
           },
           "coords": [
             4.892,
@@ -934,7 +998,8 @@
             "de": "Kurzer Spaziergang vom Bahnhof.",
             "hu": "Rövid séta az állomástól.",
             "ro": "Scurtă plimbare de la gară.",
-            "en": "Short walk from the station."
+            "en": "Short walk from the station.",
+            "fr": "Courte promenade depuis la gare."
           }
         },
         {
@@ -942,7 +1007,8 @@
             "de": "Maison des Têtes",
             "hu": "Fejek háza",
             "ro": "Casa Capetelor",
-            "en": "House of Heads"
+            "en": "House of Heads",
+            "fr": "Maison des Têtes"
           },
           "coords": [
             4.891,
@@ -958,7 +1024,8 @@
             "de": "Ein Juwel der Spätgotik und Renaissance.",
             "hu": "A késő gótika és reneszánsz gyöngyszeme.",
             "ro": "O bijuterie a goticului târziu și a Renașterii.",
-            "en": "A gem of Late Gothic and Renaissance architecture."
+            "en": "A gem of Late Gothic and Renaissance architecture.",
+            "fr": "Un joyau de l’architecture gothique tardive et de la Renaissance."
           }
         },
         {
@@ -966,7 +1033,8 @@
             "de": "Kathedrale Saint-Apollinaire",
             "hu": "Szent Apollináris-székesegyház",
             "ro": "Catedrala Sfântul Apolinarie",
-            "en": "Saint-Apollinaire Cathedral"
+            "en": "Saint-Apollinaire Cathedral",
+            "fr": "Cathédrale Saint-Apollinaire"
           },
           "coords": [
             4.89,
@@ -982,7 +1050,8 @@
             "de": "Die Fassade wurde im 19. Jh. rekonstruiert.",
             "hu": "A homlokzatot a 19. században rekonstruálták.",
             "ro": "Fațada a fost reconstruită în secolul al XIX-lea.",
-            "en": "The facade was reconstructed in the 19th century."
+            "en": "The facade was reconstructed in the 19th century.",
+            "fr": "La façade a été reconstruite au XIXe siècle."
           }
         },
         {
@@ -990,7 +1059,8 @@
             "de": "Musée de Valence",
             "hu": "Valence-i Múzeum",
             "ro": "Muzeul din Valence",
-            "en": "Museum of Valence"
+            "en": "Museum of Valence",
+            "fr": "Musée de Valence"
           },
           "coords": [
             4.889,
@@ -1006,7 +1076,8 @@
             "de": "Montags geschlossen.",
             "hu": "Hétfőnként zárva.",
             "ro": "Închis lunea.",
-            "en": "Closed on Mondays."
+            "en": "Closed on Mondays.",
+            "fr": "Fermé le lundi."
           }
         },
         {
@@ -1014,7 +1085,8 @@
             "de": "Parc Jouvet",
             "hu": "Jouvet park",
             "ro": "Parcul Jouvet",
-            "en": "Parc Jouvet"
+            "en": "Parc Jouvet",
+            "fr": "Parc Jouvet"
           },
           "coords": [
             4.886,
@@ -1030,7 +1102,8 @@
             "de": "Nutzen Sie die Citéa-Busse.",
             "hu": "Használja a Citéa buszjáratokat.",
             "ro": "Folosiți autobuzele Citéa.",
-            "en": "Use the Citéa bus lines."
+            "en": "Use the Citéa bus lines.",
+            "fr": "Utilisez les lignes de bus Citéa."
           }
         },
         {
@@ -1038,7 +1111,8 @@
             "de": "Kiosque Peynet",
             "hu": "Peynet-zenepavilon",
             "ro": "Chioșcul Peynet",
-            "en": "Peynet Kiosk"
+            "en": "Peynet Kiosk",
+            "fr": "Kiosque Peynet"
           },
           "coords": [
             4.888,
@@ -1054,7 +1128,8 @@
             "de": "Blick auf den Champ de Mars.",
             "hu": "Kilátás a Champ de Mars-ra.",
             "ro": "Vedere spre Champ de Mars.",
-            "en": "View of the Champ de Mars."
+            "en": "View of the Champ de Mars.",
+            "fr": "Vue sur le Champ de Mars."
           }
         }
       ],
@@ -1062,7 +1137,8 @@
         "de": "Dank des effizienten Citéa-Busnetzes lässt sich Valence auch ohne Auto hervorragend erkunden. Starten Sie am architektonisch interessanten Pôle Bus direkt am Bahnhof. Von dort erreichen Sie schnell die historische Altstadt mit ihren Kirchen und Museen. Ein kurzer Bustransfer bringt Sie zum weitläufigen Parc Jouvet, dem grünen Herzen der Stadt, ideal für einen entspannten Ausklang.",
         "hu": "A hatékony Citéa buszhálózatnak köszönhetően Valence autó nélkül is kiválóan felfedezhető. Kezdje az építészetileg is érdekes Pôle Bus csomópontnál az állomás mellett. Innen gyorsan elérhető a történelmi óváros templomaival és múzeumaival. Egy rövid buszos utazás elviszi a Jouvet parkhoz, a város zöld szívéhez, amely ideális a nap pihentető lezárásához.",
         "ro": "Datorită rețelei eficiente de autobuze Citéa, Valence poate fi explorat excelent și fără mașină. Începeți la nodul Pôle Bus de lângă gară, interesant din punct de vedere arhitectural. De acolo, puteți ajunge rapid în centrul istoric cu bisericile și muzeele sale. Un scurt transfer cu autobuzul vă duce la Parcul Jouvet, inima verde a orașului, ideal pentru un final de zi relaxant.",
-        "en": "Thanks to the efficient Citéa bus network, Valence can be excellently explored without a car. Start at the architecturally interesting Pôle Bus right by the station. From there, you can quickly reach the historic old town with its churches and museums. A short bus transfer takes you to the sprawling Parc Jouvet, the green heart of the city, ideal for a relaxing conclusion."
+        "en": "Thanks to the efficient Citéa bus network, Valence can be excellently explored without a car. Start at the architecturally interesting Pôle Bus right by the station. From there, you can quickly reach the historic old town with its churches and museums. A short bus transfer takes you to the sprawling Parc Jouvet, the green heart of the city, ideal for a relaxing conclusion.",
+        "fr": "Grâce au réseau Citéa efficace, Valence se visite très bien sans voiture. Commencez au Pôle Bus, architecturally intéressant, juste à côté de la gare. De là, vous rejoindrez rapidement la vieille ville avec ses églises et musées. Un court trajet en bus vous mène au vaste Parc Jouvet, cœur vert de la ville, idéal pour conclure la journée en détente."
       },
       "gastro_picks": {
         "de": [
@@ -1170,6 +1246,12 @@
           "Lines 1, 2, and 3 connect the main points of interest.",
           "Significantly fewer buses run on Sundays.",
           "The 'Citéa' app helps with real-time route planning."
+        ],
+        "fr": [
+          "Le ticket journée Citéa est très abordable.",
+          "Les lignes 1, 2 et 3 relient les principaux points d’intérêt.",
+          "Beaucoup moins de bus circulent le dimanche.",
+          "L’application « Citéa » aide à planifier les trajets en temps réel."
         ]
       }
     }

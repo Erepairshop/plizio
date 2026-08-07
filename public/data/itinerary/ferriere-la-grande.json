@@ -21,7 +21,8 @@
             "de": "Kapelle Notre-Dame de Bon Vouloir",
             "hu": "Notre-Dame de Bon Vouloir Kápolna",
             "ro": "Capela Notre-Dame de Bon Vouloir",
-            "en": "Notre-Dame de Bon Vouloir Chapel"
+            "en": "Notre-Dame de Bon Vouloir Chapel",
+            "fr": "Chapelle Notre-Dame de Bon Vouloir"
           },
           "coords": [
             3.989946,
@@ -36,7 +37,8 @@
             "de": "Bewundern Sie die malerische Architektur dieser lokalen Kapelle, um den historischen Charme des Dorfes zu spüren, und treten Sie leise ein.",
             "hu": "Csodálja meg e helyi kápolna festői építészetét, hogy átérezze a falu történelmi báját, és lépjen be halkan, mivel ez ma is az elmélkedés helye.",
             "ro": "Admirați arhitectura pitorească a acestei capele pentru a simți farmecul istoric al satului și pășiți înăuntru în liniște, fiind un loc de reflecție.",
-            "en": "Admire the quaint architecture of this local chapel to feel the village's historic charm, and step inside quietly as it remains a place of reflection."
+            "en": "Admire the quaint architecture of this local chapel to feel the village's historic charm, and step inside quietly as it remains a place of reflection.",
+            "fr": "Admirez l'architecture pittoresque de cette chapelle locale pour sentir le charme historique du village, et entrez en silence puisqu'il s'agit toujours d'un lieu de recueillement."
           }
         },
         {
@@ -44,7 +46,8 @@
             "de": "Kirche Saint Amand",
             "hu": "Szent Amand templom",
             "ro": "Biserica Saint Amand",
-            "en": "Saint Amand Church"
+            "en": "Saint Amand Church",
+            "fr": "Église Saint-Amand"
           },
           "coords": [
             3.993158,
@@ -59,7 +62,8 @@
             "de": "Erkunden Sie dieses atemberaubende religiöse Bauwerk, das für sein Mauerwerk bekannt ist, aber denken Sie daran, sich vor dem Betreten bescheiden zu kleiden.",
             "hu": "Fedezze fel ezt a lenyűgöző vallási központot, amely robusztus téglafaláról ismert, de ne feledjen szerényen felöltözni, mielőtt belép az épületbe.",
             "ro": "Explorați această uimitoare capodoperă religioasă remarcată pentru zidăria sa robustă, dar amintiți-vă să vă îmbrăcați modest înainte de a intra.",
-            "en": "Explore this stunning religious centerpiece noted for its robust brickwork and serene atmosphere, but remember to dress modestly before entering."
+            "en": "Explore this stunning religious centerpiece noted for its robust brickwork and serene atmosphere, but remember to dress modestly before entering.",
+            "fr": "Explorez ce magnifique édifice religieux réputé pour sa maçonnerie robuste et son atmosphère sereine, mais pensez à vous habiller modestement avant d'entrer."
           }
         },
         {
@@ -67,7 +71,8 @@
             "de": "Voie Verte de l'Avesnois",
             "hu": "Voie Verte de l'Avesnois",
             "ro": "Voie Verte de l'Avesnois",
-            "en": "Voie Verte de l'Avesnois"
+            "en": "Voie Verte de l'Avesnois",
+            "fr": "Voie Verte de l'Avesnois"
           },
           "coords": [
             3.9999,
@@ -82,7 +87,8 @@
             "de": "Spazieren Sie entlang dieser ehemaligen Bahntrasse, die in einen grünen Weg umgewandelt wurde, und tragen Sie bequeme Wanderschuhe für diese Reise.",
             "hu": "Sétáljon végig ezen az egykori vasútvonalon, amelyet buja zöld úttá alakítottak át, és viseljen kényelmes sétacipőt a természetfotózáshoz ideális úton.",
             "ro": "Plimbați-vă de-a lungul acestei foste linii de cale ferată transformată într-o alee verde, perfectă pentru fotografii, deci purtați pantofi comozi.",
-            "en": "Stroll along this former railway line converted into a lush greenway, perfect for nature photography, so wear comfortable walking shoes for the journey."
+            "en": "Stroll along this former railway line converted into a lush greenway, perfect for nature photography, so wear comfortable walking shoes for the journey.",
+            "fr": "Promenez-vous le long de cette ancienne voie ferrée transformée en voie verte verdoyante, parfaite pour la photographie de nature ; portez des chaussures de marche confortables pour le parcours."
           }
         },
         {
@@ -90,7 +96,8 @@
             "de": "Kirche Saint-Waast",
             "hu": "Saint-Waast templom",
             "ro": "Biserica Saint-Waast",
-            "en": "Saint-Waast Church"
+            "en": "Saint-Waast Church",
+            "fr": "Église Saint-Waast"
           },
           "coords": [
             4.00521,
@@ -105,7 +112,8 @@
             "de": "Besuchen Sie diese charmante historische Kirche mit ihren aufwendigen Buntglasfenstern und versuchen Sie, in den Morgenstunden zu kommen.",
             "hu": "Látogassa meg ezt a bájos történelmi templomot, amely bonyolult ólomüveg ablakokkal büszkélkedhet, és jöjjön délelőtt a legjobb belső fényekért.",
             "ro": "Vizitați această biserică istorică fermecătoare, cu vitralii complicate, și încercați să mergeți dimineața pentru a prinde cea mai bună lumină.",
-            "en": "Visit this charming historic church featuring intricate stained glass windows, and try visiting during morning hours to catch the best interior lighting."
+            "en": "Visit this charming historic church featuring intricate stained glass windows, and try visiting during morning hours to catch the best interior lighting.",
+            "fr": "Visitez cette charmante église historique dotée de vitraux délicats, et essayez de venir le matin pour profiter du meilleur éclairage intérieur."
           }
         },
         {
@@ -113,7 +121,8 @@
             "de": "Kirche Saint-Pierre",
             "hu": "Saint-Pierre templom",
             "ro": "Biserica Saint-Pierre",
-            "en": "Saint-Pierre Church"
+            "en": "Saint-Pierre Church",
+            "fr": "Église Saint-Pierre"
           },
           "coords": [
             4.027789,
@@ -128,7 +137,8 @@
             "de": "Entdecken Sie das reiche regionale Erbe, das in dieser wunderschönen Steinkirche präsentiert wird, und prüfen Sie die Anschlagtafel auf Konzerte.",
             "hu": "Fedezze fel a régió gazdag örökségét, amelyet ez a gyönyörű kőtemplom mutat be, és ellenőrizze a kinti hirdetőtáblán a közelgő helyi koncerteket.",
             "ro": "Descoperiți bogata moștenire regională prezentată în această frumoasă biserică de piatră și verificați panoul exterior pentru concerte viitoare.",
-            "en": "Discover the rich regional heritage showcased in this beautiful stone church, and check the local board outside for any upcoming community concerts."
+            "en": "Discover the rich regional heritage showcased in this beautiful stone church, and check the local board outside for any upcoming community concerts.",
+            "fr": "Découvrez le riche patrimoine régional mis en valeur dans cette belle église de pierre, et consultez le panneau d'information local à l'extérieur pour d'éventuels concerts communautaires."
           }
         }
       ],
@@ -136,7 +146,8 @@
         "de": "Der Morgen beginnt im Herzen des Dorfes an der Kapelle und führt zum robusten Mauerwerk von Saint Amand. Mittags begeben Sie sich auf den entspannenden grünen Weg in die Natur. Am Nachmittag fahren Sie nach Norden, um die Glasfenster von Saint-Waast zu entdecken. Der Abend rückt näher, während Sie Saint-Pierre bewundern und Ihren Spaziergang abschließen.",
         "hu": "A reggel a falu szívében, a hangulatos kápolnánál kezdődik, majd a Saint Amand templom téglafalaihoz vezet. Délben a pihentető zöld úton sétálhat, amely tökéletes menekülés a természetbe. Délután északra indul, hogy felfedezze a Saint-Waast bájos ólomüvegét. Az este közeledtével a Saint-Pierre épületét csodálhatja meg, amivel le is zárul e túra.",
         "ro": "Dimineața începe în inima satului la capela pitorească, ducând la zidăria robustă a Bisericii Saint Amand. La amiază ajungeți pe aleea verde relaxantă. După-amiaza, vă veți îndrepta spre nord pentru a descoperi vitraliile fermecătoare de la Saint-Waast. Seara se apropie în timp ce admirați biserica Saint-Pierre la final de tur.",
-        "en": "Morning starts in the heart of the village at the quaint chapel, leading to the robust brickwork of Saint Amand Church. Midday takes you onto the relaxing greenway, a perfect escape into nature. In the afternoon, you will head north to discover the charming stained glass of Saint-Waast. Evening approaches as you admire Saint-Pierre, concluding your walking tour."
+        "en": "Morning starts in the heart of the village at the quaint chapel, leading to the robust brickwork of Saint Amand Church. Midday takes you onto the relaxing greenway, a perfect escape into nature. In the afternoon, you will head north to discover the charming stained glass of Saint-Waast. Evening approaches as you admire Saint-Pierre, concluding your walking tour.",
+        "fr": "La matinée commence au cœur du village à la chapelle pittoresque, puis mène aux robustes maçonneries de l'église Saint-Amand. À midi, vous empruntez la voie verte apaisante, une parfaite escapade dans la nature. L'après-midi, vous vous dirigerez vers le nord pour découvrir les charmants vitraux de Saint-Waast. Le soir, vous admirerez Saint-Pierre, concluant votre visite à pied."
       },
       "variants": {
         "rainy": {
@@ -144,7 +155,8 @@
             "de": "Ein regnerischer Morgen beginnt an der Kapelle, wo das Vordach Schutz bietet. Mittags führt der Weg zur Saint-Amand-Kirche, einem trockenen Hort der Stille. Nachmittags spazieren wir unter den Bäumen der Voie Verte, die den Regen etwas abfangen, bis zur Saint-Waast-Kirche. Der Tag endet sicher im Inneren der Saint-Pierre-Kirche, während draußen die Tropfen gegen die alten Fenster peitschen.",
             "hu": "A szemerkélő esőben a kápolna bejárata nyújt menedéket, mielőtt a Szent Amand templom száraz belső terébe érnénk. Délben a Voie Verte fasora némileg felfogja a záport, de a Saint-Waast templom vastag falai az igazi menedékek. Délután a Saint-Pierre templom szakrális csendjében pihenünk meg, miközben az esti szürkületben az eső áztatja a városka történelmi köveit.",
             "ro": "O dimineață ploioasă începe la capelă, unde pridvorul oferă un scurt refugiu. La prânz, biserica Saint-Amand devine un adăpost spiritual și uscat. După-amiaza, copacii de pe Voie Verte mai opresc din picături în drum spre Saint-Waast. Ziua se încheie în interiorul bisericii Saint-Pierre, ascultând ritmul ploii care bate în vitraliile vechi și oferă o atmosferă melancolică.",
-            "en": "A rainy morning starts at the chapel, with its entrance providing a quick dry spot. By noon, Saint Amand Church offers a warm, dry sanctuary from the downpour. In the afternoon, the trees along Voie Verte offer some canopy on the way to Saint-Waast. The walk concludes inside Saint-Pierre Church, where you can admire the interior while waiting for the evening rain to settle."
+            "en": "A rainy morning starts at the chapel, with its entrance providing a quick dry spot. By noon, Saint Amand Church offers a warm, dry sanctuary from the downpour. In the afternoon, the trees along Voie Verte offer some canopy on the way to Saint-Waast. The walk concludes inside Saint-Pierre Church, where you can admire the interior while waiting for the evening rain to settle.",
+            "fr": "Une matinée pluvieuse commence à la chapelle, dont l'entrée offre un abri rapide et sec. À midi, l'église Saint-Amand propose un sanctuaire chaud et sec contre l'averse. L'après-midi, les arbres le long de la Voie Verte offrent un peu de couvert sur le chemin vers Saint-Waast. La promenade se termine à l'intérieur de l'église Saint-Pierre, où vous pouvez admirer l'intérieur en attendant la fin de la pluie du soir."
           },
           "stops": [
             {
@@ -152,13 +164,15 @@
                 "de": "Kapelle Notre-Dame de Bon Vouloir",
                 "hu": "Notre-Dame de Bon Vouloir Kápolna",
                 "ro": "Capela Notre-Dame de Bon Vouloir",
-                "en": "Notre-Dame de Bon Vouloir Chapel"
+                "en": "Notre-Dame de Bon Vouloir Chapel",
+                "fr": "Chapelle Notre-Dame de Bon Vouloir"
               },
               "tip_5lang": {
                 "de": "Bewundern Sie die Votivtafeln im Inneren, während es draußen regnet; das kleine Portal schützt Sie beim Fotografieren vor der Nässe.",
                 "hu": "Nézze meg a belső fogadalmi táblákat, amíg kint esik; a kis belépő tető segít szárazon maradni a fotózás közben is.",
                 "ro": "Admirați plăcuțele votive din interior în timp ce afară plouă; micul portal vă protejează de umezeală în timp ce faceți poze.",
-                "en": "Admire the votive plaques inside while it rains outside; the small entrance porch keeps you dry while you take your photos."
+                "en": "Admire the votive plaques inside while it rains outside; the small entrance porch keeps you dry while you take your photos.",
+                "fr": "Admirez les plaques votives à l'intérieur pendant qu'il pleut dehors ; le petit porche d'entrée vous garde au sec pendant que vous prenez des photos."
               }
             },
             {
@@ -166,13 +180,15 @@
                 "de": "Kirche Saint Amand",
                 "hu": "Szent Amand templom",
                 "ro": "Biserica Saint Amand",
-                "en": "Saint Amand Church"
+                "en": "Saint Amand Church",
+                "fr": "Église Saint-Amand"
               },
               "tip_5lang": {
                 "de": "Nutzen Sie die Kirchenbänke für eine Pause im Trockenen; die Akustik des Regens auf dem Dach schafft eine meditative Atmosphäre.",
                 "hu": "Használja ki a templompadokat egy száraz pihenőre; a tetőn kopogó eső hangja különleges, meditatív hangulatot áraszt bent.",
                 "ro": "Folosiți băncile din biserică pentru o pauză la uscat; sunetul ploii pe acoperiș creează o atmosferă meditativă deosebită.",
-                "en": "Use the church pews for a dry rest; the sound of rain tapping on the roof creates a unique, meditative atmosphere inside."
+                "en": "Use the church pews for a dry rest; the sound of rain tapping on the roof creates a unique, meditative atmosphere inside.",
+                "fr": "Utilisez les bancs de l'église pour un repos au sec ; le bruit de la pluie sur le toit crée une atmosphère unique et méditative à l'intérieur."
               }
             },
             {
@@ -180,13 +196,15 @@
                 "de": "Voie Verte de l'Avesnois",
                 "hu": "Voie Verte de l'Avesnois",
                 "ro": "Voie Verte de l'Avesnois",
-                "en": "Voie Verte de l'Avesnois"
+                "en": "Voie Verte de l'Avesnois",
+                "fr": "Voie Verte de l'Avesnois"
               },
               "tip_5lang": {
                 "de": "Tragen Sie wasserfeste Schuhe, da der Weg stellenweise rutschig sein kann; die dichten Blätter wirken wie ein natürlicher Regenschirm.",
                 "hu": "Viseljen vízálló cipőt, mert az út néhol csúszós lehet; a sűrű lombok természetes esernyőként védenek a sétány egy részén.",
                 "ro": "Purtați încălțăminte impermeabilă, deoarece drumul poate fi alunecos; frunzișul des acționează ca o umbrelă naturală pe alocuri.",
-                "en": "Wear waterproof shoes as the path can be slippery; the dense foliage acts as a natural umbrella over parts of the walkway."
+                "en": "Wear waterproof shoes as the path can be slippery; the dense foliage acts as a natural umbrella over parts of the walkway.",
+                "fr": "Portez des chaussures imperméables car le chemin peut être glissant ; le feuillage dense fait office de parapluie naturel sur certaines parties de la promenade."
               }
             },
             {
@@ -194,13 +212,15 @@
                 "de": "Kirche Saint-Waast",
                 "hu": "Saint-Waast templom",
                 "ro": "Biserica Saint-Waast",
-                "en": "Saint-Waast Church"
+                "en": "Saint-Waast Church",
+                "fr": "Église Saint-Waast"
               },
               "tip_5lang": {
                 "de": "Dieser massive Bau ist der ideale Ort, um eine starke Schauer abzuwarten; achten Sie auf die Details der historischen Steinmetzearbeiten.",
                 "hu": "Ez a masszív épület ideális hely egy nagyobb zápor átvészelésére; figyelje meg a történelmi kőfaragások részleteit a szárazban.",
                 "ro": "Această clădire masivă este locul ideal pentru a aștepta trecerea unei averse; observați detaliile sculpturilor în piatră la adăpost.",
-                "en": "This massive building is the ideal place to wait out a heavy shower; observe the historical stonework details while staying dry."
+                "en": "This massive building is the ideal place to wait out a heavy shower; observe the historical stonework details while staying dry.",
+                "fr": "Cet édifice imposant est l'endroit idéal pour attendre la fin d'une forte averse ; observez les détails de la pierre historique tout en restant à l'abri."
               }
             },
             {
@@ -208,13 +228,15 @@
                 "de": "Kirche Saint-Pierre",
                 "hu": "Saint-Pierre templom",
                 "ro": "Biserica Saint-Pierre",
-                "en": "Saint-Pierre Church"
+                "en": "Saint-Pierre Church",
+                "fr": "Église Saint-Pierre"
               },
               "tip_5lang": {
                 "de": "Beenden Sie Ihre Tour im Schutz dieser Kirche; die gedämpften Lichtverhältnisse bei Regen lassen die Altäre besonders mystisch wirken.",
                 "hu": "Zárja a túrát a templom oltalmában; az esős idő miatti tompa fények különleges, misztikus hangulatot kölcsönöznek az oltároknak.",
                 "ro": "Încheiați turul sub protecția bisericii; lumina difuză din zilele ploioase oferă altarelor o aură mistică deosebită.",
-                "en": "End your tour under the protection of the church; the dim light from the rainy sky gives the altars a mystical appearance."
+                "en": "End your tour under the protection of the church; the dim light from the rainy sky gives the altars a mystical appearance.",
+                "fr": "Terminez votre visite sous la protection de l'église ; la lumière atténuée du ciel pluvieux donne aux autels une apparence mystique."
               }
             }
           ]
@@ -224,7 +246,8 @@
             "de": "Ein frostiger Wintermorgen beginnt an der Kapelle, umhüllt von klarem Weiß. Mittags wärmen wir uns in der Saint-Amand-Kirche auf, bevor wir die winterliche Voie Verte durchqueren. Die Saint-Waast-Kirche bietet Schutz vor dem kalten Wind. Da die Sonne bereits gegen 17:00 Uhr untergeht, genießen wir das goldene Licht an der Saint-Pierre-Kirche, bevor die abendliche Kälte einsetzt.",
             "hu": "A deres téli reggel a kápolnánál indul, ahol a friss levegő frissít fel. Délben a Szent Amand templom falaiba húzódunk a hideg elől, majd a Voie Verte zúzmarás fái alatt sétálunk tovább. A Saint-Waast templom óv meg a jeges széltől délután. Mivel 17:00 körül már sötétedik, a Saint-Pierre templomnál búcsúzunk a naptól a korai alkonyatban.",
             "ro": "O dimineață geroasă de iarnă începe la capelă, într-un peisaj alb și curat. La prânz, ne încălzim în biserica Saint-Amand înainte de a parcurge traseul înghețat de pe Voie Verte. Biserica Saint-Waast oferă adăpost împotriva vântului tăios. Deoarece soarele apune în jur de ora 17:00, admirăm lumina aurie la Saint-Pierre înainte de lăsarea frigului de seară.",
-            "en": "A frosty winter morning starts at the chapel, surrounded by crisp air. By noon, find warmth inside Saint Amand Church before crossing the winter scenery of Voie Verte. Saint-Waast Church protects you from the biting wind in the afternoon. Since the sun sets around 17:00, enjoy the golden hour at Saint-Pierre Church before the early evening chill takes over."
+            "en": "A frosty winter morning starts at the chapel, surrounded by crisp air. By noon, find warmth inside Saint Amand Church before crossing the winter scenery of Voie Verte. Saint-Waast Church protects you from the biting wind in the afternoon. Since the sun sets around 17:00, enjoy the golden hour at Saint-Pierre Church before the early evening chill takes over.",
+            "fr": "Une matinée hivernale givrée commence à la chapelle, entourée d'un air vif. À midi, trouvez de la chaleur à l'intérieur de l'église Saint-Amand avant de traverser les paysages hivernaux de la Voie Verte. L'église Saint-Waast vous protège du vent mordant l'après-midi. Comme le soleil se couche vers 17:00, profitez de l'heure dorée à l'église Saint-Pierre avant que la fraîcheur du soir ne s'installe."
           },
           "stops": [
             {
@@ -232,13 +255,15 @@
                 "de": "Kapelle Notre-Dame de Bon Vouloir",
                 "hu": "Notre-Dame de Bon Vouloir Kápolna",
                 "ro": "Capela Notre-Dame de Bon Vouloir",
-                "en": "Notre-Dame de Bon Vouloir Chapel"
+                "en": "Notre-Dame de Bon Vouloir Chapel",
+                "fr": "Chapelle Notre-Dame de Bon Vouloir"
               },
               "tip_5lang": {
                 "de": "Die Kapelle wirkt im Winterlicht besonders friedlich; tragen Sie warme Handschuhe für den kurzen Aufenthalt im Freien.",
                 "hu": "A kápolna a téli fényekben különösen békés; viseljen meleg kesztyűt a rövid kinti tartózkodáshoz és a fotózáshoz.",
                 "ro": "Capela pare extrem de liniștită în lumina iernii; purtați mănuși groase pentru scurta ședere în aer liber.",
-                "en": "The chapel looks particularly peaceful in winter light; wear warm gloves for the short outdoor stay and photography."
+                "en": "The chapel looks particularly peaceful in winter light; wear warm gloves for the short outdoor stay and photography.",
+                "fr": "La chapelle paraît particulièrement paisible sous la lumière hivernale ; portez des gants chauds pour le court séjour extérieur et la photographie."
               }
             },
             {
@@ -246,13 +271,15 @@
                 "de": "Kirche Saint Amand",
                 "hu": "Szent Amand templom",
                 "ro": "Biserica Saint Amand",
-                "en": "Saint Amand Church"
+                "en": "Saint Amand Church",
+                "fr": "Église Saint-Amand"
               },
               "tip_5lang": {
                 "de": "Die dicken Mauern halten die Kälte draußen; nutzen Sie die Stille für eine kurze Aufwärmpause im geschützten Kirchenschiff.",
                 "hu": "A vastag falak kint tartják a fagyos szelet; használja ki a csendet egy rövid melegedő szünetre a védett templomhajóban.",
                 "ro": "Zidurile groase țin frigul afară; profitați de liniște pentru o scurtă pauză de încălzire în naosul protejat.",
-                "en": "The thick walls keep the freezing wind out; take advantage of the silence for a short warm-up break in the nave."
+                "en": "The thick walls keep the freezing wind out; take advantage of the silence for a short warm-up break in the nave.",
+                "fr": "Les murs épais empêchent le vent glacial d'entrer ; profitez du calme pour une courte pause réchauffante dans la nef."
               }
             },
             {
@@ -260,13 +287,15 @@
                 "de": "Voie Verte de l'Avesnois",
                 "hu": "Voie Verte de l'Avesnois",
                 "ro": "Voie Verte de l'Avesnois",
-                "en": "Voie Verte de l'Avesnois"
+                "en": "Voie Verte de l'Avesnois",
+                "fr": "Voie Verte de l'Avesnois"
               },
               "tip_5lang": {
                 "de": "Achten Sie auf vereiste Stellen auf dem Asphalt; die klare Winterluft bietet weite Ausblicke über die umliegende Landschaft.",
                 "hu": "Ügyeljen a jeges foltokra az aszfalton; a tiszta téli levegőben messzebbre elláthat a sétány menti mezők felett.",
                 "ro": "Atenție la porțiunile înghețate de pe asfalt; aerul curat de iarnă oferă vederi largi peste câmpurile din jur.",
-                "en": "Watch out for icy patches on the asphalt; the clear winter air provides long-distance views over the surrounding fields."
+                "en": "Watch out for icy patches on the asphalt; the clear winter air provides long-distance views over the surrounding fields.",
+                "fr": "Prudence face aux plaques de verglas sur l'asphalte ; l'air clair d'hiver offre des vues lointaines sur les champs environnants."
               }
             },
             {
@@ -274,13 +303,15 @@
                 "de": "Kirche Saint-Waast",
                 "hu": "Saint-Waast templom",
                 "ro": "Biserica Saint-Waast",
-                "en": "Saint-Waast Church"
+                "en": "Saint-Waast Church",
+                "fr": "Église Saint-Waast"
               },
               "tip_5lang": {
                 "de": "Bewundern Sie die Architektur im weichen Licht des frühen Nachmittags; die Steine speichern die Kälte, bleiben Sie also in Bewegung.",
                 "hu": "Csodálja meg az építészetet a kora délutáni lágy fényben; a kövek tartják a hideget, így érdemes mozgásban maradni bent is.",
                 "ro": "Admirați arhitectura în lumina blândă a după-amiezii; pietrele rețin frigul, deci este bine să rămâneți în mișcare și în interior.",
-                "en": "Admire the architecture in the soft early afternoon light; the stones hold the cold, so keep moving while inside."
+                "en": "Admire the architecture in the soft early afternoon light; the stones hold the cold, so keep moving while inside.",
+                "fr": "Admirez l'architecture à la douce lumière du début d'après-midi ; les pierres gardent la fraîcheur, donc restez en mouvement pendant votre visite intérieure."
               }
             },
             {
@@ -288,13 +319,15 @@
                 "de": "Kirche Saint-Pierre",
                 "hu": "Saint-Pierre templom",
                 "ro": "Biserica Saint-Pierre",
-                "en": "Saint-Pierre Church"
+                "en": "Saint-Pierre Church",
+                "fr": "Église Saint-Pierre"
               },
               "tip_5lang": {
                 "de": "Erleben Sie den frühen Sonnenuntergang an der Fassade; kehren Sie zügig zurück, sobald die Dämmerung und die Kälte einsetzen.",
                 "hu": "Élje át a korai naplementét a templom homlokzatánál; induljon vissza időben, mielőtt a sötéttel együtt a fagy is megérkezik.",
                 "ro": "Experimentați apusul devreme la fațada bisericii; întoarceți-vă rapid odată ce se lasă amurgul și gerul serii.",
-                "en": "Experience the early sunset at the church facade; head back promptly once twilight and the evening frost arrive."
+                "en": "Experience the early sunset at the church facade; head back promptly once twilight and the evening frost arrive.",
+                "fr": "Vivez le coucher du soleil précoce sur la façade de l'église ; rentrez rapidement une fois le crépuscule et le gel du soir arrivés."
               }
             }
           ]
@@ -314,7 +347,8 @@
             "de": "Kirche Saint Amand",
             "hu": "Szent Amand templom",
             "ro": "Biserica Saint Amand",
-            "en": "Saint Amand Church"
+            "en": "Saint Amand Church",
+            "fr": "Église Saint-Amand"
           },
           "coords": [
             3.993158,
@@ -329,7 +363,8 @@
             "de": "Erkunden Sie dieses atemberaubende religiöse Bauwerk, das für sein Mauerwerk bekannt ist, aber denken Sie daran, sich vor dem Betreten bescheiden zu kleiden.",
             "hu": "Fedezze fel ezt a lenyűgöző vallási központot, amely robusztus téglafaláról ismert, de ne feledjen szerényen felöltözni, mielőtt belép az épületbe.",
             "ro": "Explorați această uimitoare capodoperă religioasă remarcată pentru zidăria sa robustă, dar amintiți-vă să vă îmbrăcați modest înainte de a intra.",
-            "en": "Explore this stunning religious centerpiece noted for its robust brickwork and serene atmosphere, but remember to dress modestly before entering."
+            "en": "Explore this stunning religious centerpiece noted for its robust brickwork and serene atmosphere, but remember to dress modestly before entering.",
+            "fr": "Explorez ce magnifique édifice religieux réputé pour sa maçonnerie robuste et son atmosphère sereine, mais pensez à vous habiller modestement avant d'entrer."
           }
         },
         {
@@ -337,7 +372,8 @@
             "de": "Voie Verte de l'Avesnois",
             "hu": "Voie Verte de l'Avesnois",
             "ro": "Voie Verte de l'Avesnois",
-            "en": "Voie Verte de l'Avesnois"
+            "en": "Voie Verte de l'Avesnois",
+            "fr": "Voie Verte de l'Avesnois"
           },
           "coords": [
             3.9999,
@@ -352,7 +388,8 @@
             "de": "Spazieren Sie entlang dieser ehemaligen Bahntrasse, die in einen grünen Weg umgewandelt wurde, und tragen Sie bequeme Wanderschuhe für diese Reise.",
             "hu": "Sétáljon végig ezen az egykori vasútvonalon, amelyet buja zöld úttá alakítottak át, és viseljen kényelmes sétacipőt a természetfotózáshoz ideális úton.",
             "ro": "Plimbați-vă de-a lungul acestei foste linii de cale ferată transformată într-o alee verde, perfectă pentru fotografii, deci purtați pantofi comozi.",
-            "en": "Stroll along this former railway line converted into a lush greenway, perfect for nature photography, so wear comfortable walking shoes for the journey."
+            "en": "Stroll along this former railway line converted into a lush greenway, perfect for nature photography, so wear comfortable walking shoes for the journey.",
+            "fr": "Promenez-vous le long de cette ancienne voie ferrée transformée en voie verte verdoyante, parfaite pour la photographie de nature ; portez des chaussures de marche confortables pour le parcours."
           }
         },
         {
@@ -360,7 +397,8 @@
             "de": "Kirche Saint-Waast",
             "hu": "Saint-Waast templom",
             "ro": "Biserica Saint-Waast",
-            "en": "Saint-Waast Church"
+            "en": "Saint-Waast Church",
+            "fr": "Église Saint-Waast"
           },
           "coords": [
             4.00521,
@@ -375,7 +413,8 @@
             "de": "Besuchen Sie diese charmante historische Kirche mit ihren aufwendigen Buntglasfenstern und versuchen Sie, in den Morgenstunden zu kommen.",
             "hu": "Látogassa meg ezt a bájos történelmi templomot, amely bonyolult ólomüveg ablakokkal büszkélkedhet, és jöjjön délelőtt a legjobb belső fényekért.",
             "ro": "Vizitați această biserică istorică fermecătoare, cu vitralii complicate, și încercați să mergeți dimineața pentru a prinde cea mai bună lumină.",
-            "en": "Visit this charming historic church featuring intricate stained glass windows, and try visiting during morning hours to catch the best interior lighting."
+            "en": "Visit this charming historic church featuring intricate stained glass windows, and try visiting during morning hours to catch the best interior lighting.",
+            "fr": "Visitez cette charmante église historique aux vitraux finement travaillés, et préférez venir le matin pour profiter du meilleur éclairage intérieur."
           }
         },
         {
@@ -383,7 +422,8 @@
             "de": "Kirche Saint-Pierre",
             "hu": "Saint-Pierre templom",
             "ro": "Biserica Saint-Pierre",
-            "en": "Saint-Pierre Church"
+            "en": "Saint-Pierre Church",
+            "fr": "Église Saint-Pierre"
           },
           "coords": [
             4.027789,
@@ -398,7 +438,8 @@
             "de": "Entdecken Sie das reiche regionale Erbe, das in dieser wunderschönen Steinkirche präsentiert wird, und prüfen Sie die Anschlagtafel auf Konzerte.",
             "hu": "Fedezze fel a régió gazdag örökségét, amelyet ez a gyönyörű kőtemplom mutat be, és ellenőrizze a kinti hirdetőtáblán a közelgő helyi koncerteket.",
             "ro": "Descoperiți bogata moștenire regională prezentată în această frumoasă biserică de piatră și verificați panoul exterior pentru concerte viitoare.",
-            "en": "Discover the rich regional heritage showcased in this beautiful stone church, and check the local board outside for any upcoming community concerts."
+            "en": "Discover the rich regional heritage showcased in this beautiful stone church, and check the local board outside for any upcoming community concerts.",
+            "fr": "Découvrez le riche patrimoine régional mis en valeur dans cette belle église en pierre, et consultez le panneau d'affichage extérieur pour d'éventuels concerts communautaires à venir."
           }
         },
         {
@@ -406,7 +447,8 @@
             "de": "Festungswerk Ferrière",
             "hu": "Ferrière-i erőd",
             "ro": "Fortificația Ferrière",
-            "en": "Ouvrage de Ferrière"
+            "en": "Ouvrage de Ferrière",
+            "fr": "Ouvrage de Ferrière"
           },
           "coords": [
             4.029654,
@@ -421,7 +463,8 @@
             "de": "Tauchen Sie in diesem Festungswerk der Maginot-Linie in die Geschichte ein und bringen Sie eine leichte Jacke mit, da die unterirdischen Tunnel kühl sind.",
             "hu": "Lépjen vissza az időben ezen a félelmetes Maginot-vonalbeli erődítményen, és hozzon magával könnyű kabátot, mivel a föld alatti alagutak hűvösek.",
             "ro": "Întoarceți-vă în timp la această formidabilă fortificație a Liniei Maginot și aduceți o jachetă subțire, deoarece tunelurile subterane sunt reci.",
-            "en": "Step back in time at this formidable Maginot Line fortification offering deep historical insights, and bring a light jacket as underground tunnels are chilly."
+            "en": "Step back in time at this formidable Maginot Line fortification offering deep historical insights, and bring a light jacket as underground tunnels are chilly.",
+            "fr": "Replongez dans le passé dans cette imposante fortification de la Ligne Maginot offrant de profondes leçons d'histoire, et prenez une veste légère car les galeries souterraines sont fraîches."
           }
         },
         {
@@ -429,7 +472,8 @@
             "de": "Museum Cour des Potiers",
             "hu": "Fazekasok Udvara Múzeum",
             "ro": "Muzeul Curtea Olarilor",
-            "en": "Cour des Potiers Museum"
+            "en": "Cour des Potiers Museum",
+            "fr": "Musée de la Cour des Potiers"
           },
           "coords": [
             4.020679,
@@ -444,7 +488,8 @@
             "de": "Tauchen Sie in diesem einzigartigen Museum in die lokale Industriegeschichte der Töpferei ein und verpassen Sie nicht die interaktive Tonwerkstatt.",
             "hu": "Merüljön el a helyi fazekasipar történetében ebben az egyedülálló múzeumban, és ne hagyja ki az interaktív agyagműhelyt a túra végén.",
             "ro": "Cufundați-vă în istoria industrială locală a olăritului în acest muzeu unic și nu ratați atelierul interactiv de lut de la sfârșitul turului.",
-            "en": "Immerse yourself in the local industrial history of pottery making in this unique museum, and don't miss the interactive clay workshop at the tour's end."
+            "en": "Immerse yourself in the local industrial history of pottery making in this unique museum, and don't miss the interactive clay workshop at the tour's end.",
+            "fr": "Plongez dans l'histoire industrielle locale de la poterie dans ce musée unique, et ne manquez pas l'atelier d'argile interactif à la fin de la visite."
           }
         },
         {
@@ -452,7 +497,8 @@
             "de": "Au Ptit-Cro Magnon",
             "hu": "Au Ptit-Cro Magnon",
             "ro": "Au Ptit-Cro Magnon",
-            "en": "Au Ptit-Cro Magnon"
+            "en": "Au Ptit-Cro Magnon",
+            "fr": "Au Ptit-Cro Magnon"
           },
           "coords": [
             4.016206,
@@ -467,7 +513,8 @@
             "de": "Bringen Sie die ganze Familie an diesen ansprechenden Erholungsort mit verspielten Ausstellungen und kommen Sie früh, um einen Picknicktisch zu sichern.",
             "hu": "Hozza el az egész családot erre a játékos kiállításokat kínáló vonzó pihenőhelyre, és érkezzen korán, hogy árnyékos piknikasztalt találjon.",
             "ro": "Aduceți toată familia în acest loc de recreere captivant, cu exponate jucăușe, și sosiți devreme pentru a prinde o masă de picnic la umbră.",
-            "en": "Bring the whole family to this engaging recreational spot featuring playful exhibits, and arrive early on weekends to secure a good shaded picnic table."
+            "en": "Bring the whole family to this engaging recreational spot featuring playful exhibits, and arrive early on weekends to secure a good shaded picnic table.",
+            "fr": "Amenez toute la famille dans cet espace récréatif attrayant aux expositions ludiques, et arrivez tôt le week-end pour vous assurer une bonne table de pique-nique à l'ombre."
           }
         }
       ],
@@ -475,7 +522,8 @@
         "de": "Ihre morgendliche Radtour beginnt an der Kirche Saint Amand, bevor Sie über den Weg Voie Verte gleiten. Mittags radeln Sie zwischen den historischen Pfarreien Saint-Waast und Saint-Pierre. Der Nachmittag rückt die beeindruckenden Verteidigungsanlagen der Maginot-Linie ins Rampenlicht. Am Abend erreichen Sie das Töpfermuseum, um sich auszuruhen.",
         "hu": "A reggeli kerékpározás a Saint Amand templomnál kezdődik, mielőtt végigsiklana a zöldellő Voie Verte ösvényen. Délben a Saint-Waast és Saint-Pierre történelmi egyházközségek között pedálozhat. A délután a Maginot-vonal lenyűgöző védelmi építményeire fókuszál. Estére eléri a fazekasmúzeumot és egy nagyszerű családi pihenőhelyet.",
         "ro": "Ciclismul de dimineață începe la Biserica Saint Amand, înainte de a aluneca de-a lungul potecii verzi. La amiază pedalați între parohiile istorice Saint-Waast și Saint-Pierre. După-amiaza mută accentul pe structurile defensive impresionante ale Liniei Maginot. Seara ajungeți la muzeul de olărit și la un loc de familie.",
-        "en": "Your morning cycling begins at the grand Saint Amand Church before gliding effortlessly along the verdant Voie Verte path. Midday sees you pedaling between the distinct historical parishes of Saint-Waast and Saint-Pierre. The afternoon shifts focus to the impressive defensive structures of the Maginot Line. By evening, you reach the pottery museum."
+        "en": "Your morning cycling begins at the grand Saint Amand Church before gliding effortlessly along the verdant Voie Verte path. Midday sees you pedaling between the distinct historical parishes of Saint-Waast and Saint-Pierre. The afternoon shifts focus to the impressive defensive structures of the Maginot Line. By evening, you reach the pottery museum.",
+        "fr": "Votre matinée à vélo commence à la grande église Saint Amand avant de glisser sans effort le long de la verdoyante Voie Verte. À midi, vous pédalez entre les paroisses historiques distinctes de Saint-Waast et Saint-Pierre. L'après-midi est consacré aux impressionnantes structures défensives de la Ligne Maginot. Le soir, vous atteignez le musée de la poterie."
       },
       "variants": {
         "rainy": {
@@ -483,7 +531,8 @@
             "de": "Trotz Regen bietet die Radtour reizvolle Kontraste. Wir starten an der Saint-Amand-Kirche und nutzen die Voie Verte, wo Pfützen den Weg säumen. Mittags bieten die Kirchen von Saint-Waast und Saint-Pierre festen Schutz. Der Nachmittag gehört dem Ouvrage de Ferrière und dem Museum, wo wir untertauchen können. Den Abschluss bildet das Au Ptit-Cro Magnon, ein perfekter Ort, um die nasse Kleidung zu vergessen.",
             "hu": "Az eső ellenére a kerékpártúra izgalmas kaland. A Szent Amand templomnál kezdünk, majd a Voie Verte tócsái között tekerünk tovább. Délben a Saint-Waast és Saint-Pierre templomok nyújtanak menedéket. A délutánt a Ferrière-i erődben és a múzeumban töltjük, ahol fedett helyen lehetünk. A napot az Au Ptit-Cro Magnon barátságos belső terében zárjuk a szárazban.",
             "ro": "În ciuda ploii, turul cu bicicleta oferă contraste fermecătoare. Începem la biserica Saint-Amand și continuăm pe Voie Verte, unde bălțile punctează drumul. La prânz, bisericile Saint-Waast și Saint-Pierre oferă adăpost sigur. După-amiaza aparține fortificației Ferrière și muzeului, unde ne putem ascunde de ploaie. Finalul la Au Ptit-Cro Magnon este perfect pentru a uita de hainele ude.",
-            "en": "Despite the rain, the cycling tour offers charming contrasts. We start at Saint Amand and head to Voie Verte, where puddles line the path. At noon, Saint-Waast and Saint-Pierre churches provide solid shelter. The afternoon is spent at Ouvrage de Ferrière and the museum, where you can hide underground or indoors. We finish at Au Ptit-Cro Magnon, the perfect spot to escape the wet weather."
+            "en": "Despite the rain, the cycling tour offers charming contrasts. We start at Saint Amand and head to Voie Verte, where puddles line the path. At noon, Saint-Waast and Saint-Pierre churches provide solid shelter. The afternoon is spent at Ouvrage de Ferrière and the museum, where you can hide underground or indoors. We finish at Au Ptit-Cro Magnon, the perfect spot to escape the wet weather.",
+            "fr": "Malgré la pluie, la randonnée à vélo offre des contrastes charmants. Nous partons de Saint Amand et rejoignons la Voie Verte, où des flaques bordent le chemin. À midi, les églises Saint-Waast et Saint-Pierre offrent un abri solide. L'après-midi se passe à l'Ouvrage de Ferrière et au musée, où vous pouvez vous abriter sous terre ou à l'intérieur. Nous terminons à Au Ptit-Cro Magnon, l'endroit parfait pour échapper au mauvais temps."
           },
           "stops": [
             {
@@ -491,13 +540,15 @@
                 "de": "Kirche Saint Amand",
                 "hu": "Szent Amand templom",
                 "ro": "Biserica Saint Amand",
-                "en": "Saint Amand Church"
+                "en": "Saint Amand Church",
+                "fr": "Église Saint Amand"
               },
               "tip_5lang": {
                 "de": "Prüfen Sie Ihre Bremsen vor der Abfahrt im Regen; die Kirche bietet einen trockenen Ort für die letzte Routenplanung.",
                 "hu": "Ellenőrizze a fékeket az esős indulás előtt; a templom bejárata száraz helyet biztosít az útvonal utolsó áttekintéséhez.",
                 "ro": "Verificați frânele înainte de plecare; intrarea bisericii oferă un loc uscat pentru ultima verificare a traseului.",
-                "en": "Check your brakes before starting in the rain; the church entrance provides a dry spot for a final route check."
+                "en": "Check your brakes before starting in the rain; the church entrance provides a dry spot for a final route check.",
+                "fr": "Vérifiez vos freins avant de partir sous la pluie ; l'entrée de l'église offre un endroit sec pour un dernier contrôle d'itinéraire."
               }
             },
             {
@@ -505,13 +556,15 @@
                 "de": "Voie Verte de l'Avesnois",
                 "hu": "Voie Verte de l'Avesnois",
                 "ro": "Voie Verte de l'Avesnois",
-                "en": "Voie Verte de l'Avesnois"
+                "en": "Voie Verte de l'Avesnois",
+                "fr": "Voie Verte de l'Avesnois"
               },
               "tip_5lang": {
                 "de": "Fahren Sie vorsichtig auf nassen Blättern; die Bäume schützen vor Wind, aber der Boden kann rutschig sein.",
                 "hu": "Tekerjen óvatosan a nedves leveleken; a fák védenek a széltől, de az út felülete csúszóssá válhat az esőben.",
                 "ro": "Pedalați cu atenție pe frunzele ude; copacii vă protejează de vânt, dar suprafața drumului poate deveni alunecoasă.",
-                "en": "Cycle carefully over wet leaves; the trees protect you from wind, but the surface can become slippery in the rain."
+                "en": "Cycle carefully over wet leaves; the trees protect you from wind, but the surface can become slippery in the rain.",
+                "fr": "Roulez prudemment sur les feuilles mouillées ; les arbres vous protègent du vent, mais la surface peut devenir glissante sous la pluie."
               }
             },
             {
@@ -519,13 +572,15 @@
                 "de": "Kirche Saint-Waast",
                 "hu": "Saint-Waast templom",
                 "ro": "Biserica Saint-Waast",
-                "en": "Saint-Waast Church"
+                "en": "Saint-Waast Church",
+                "fr": "Église Saint-Waast"
               },
               "tip_5lang": {
                 "de": "Ein kurzer Stopp hier hilft, die schlimmste Nässe loszuwerden; bewundern Sie die Innenausstattung, während Ihr Rad draußen parkt.",
                 "hu": "Egy rövid megálló itt segít megszabadulni a legrosszabb nedvességtől; csodálja meg a belsőt, amíg a bicikli kint pihen.",
                 "ro": "O scurtă oprire aici vă ajută să scăpați de cea mai rea umezeală; admirați interiorul în timp ce bicicleta stă afară.",
-                "en": "A short stop here helps you dry off from the worst of the rain; admire the interior while your bike is parked outside."
+                "en": "A short stop here helps you dry off from the worst of the rain; admire the interior while your bike is parked outside.",
+                "fr": "Un court arrêt ici vous aidera à vous sécher des pires effets de la pluie ; admirez l'intérieur pendant que votre vélo est garé dehors."
               }
             },
             {
@@ -533,13 +588,15 @@
                 "de": "Kirche Saint-Pierre",
                 "hu": "Saint-Pierre templom",
                 "ro": "Biserica Saint-Pierre",
-                "en": "Saint-Pierre Church"
+                "en": "Saint-Pierre Church",
+                "fr": "Église Saint-Pierre"
               },
               "tip_5lang": {
                 "de": "Nutzen Sie den überdachten Eingangsbereich zum Unterstellen; das stille Kircheninnere ist ein idealer Ruhepunkt vor der nächsten Etappe.",
                 "hu": "Használja a fedett bejáratot a várakozásra; a csendes templombelső ideális pihenőhely a túra következő szakasza előtt.",
                 "ro": "Folosiți zona de intrare acoperită pentru adăpost; interiorul liniștit este un punct de odihnă ideal înainte de următoarea etapă.",
-                "en": "Use the covered entrance area for shelter; the quiet church interior is an ideal resting point before the next stage."
+                "en": "Use the covered entrance area for shelter; the quiet church interior is an ideal resting point before the next stage.",
+                "fr": "Utilisez l'espace d'entrée couvert pour vous abriter ; l'intérieur calme de l'église est un point de repos idéal avant l'étape suivante."
               }
             },
             {
@@ -547,13 +604,15 @@
                 "de": "Festungswerk Ferrière",
                 "hu": "Ferrière-i erőd",
                 "ro": "Fortificația Ferrière",
-                "en": "Ouvrage de Ferrière"
+                "en": "Ouvrage de Ferrière",
+                "fr": "Ouvrage de Ferrière"
               },
               "tip_5lang": {
                 "de": "Die unterirdischen Gänge sind völlig regensicher; erkunden Sie die militärische Geschichte in einer völlig trockenen Umgebung.",
                 "hu": "A föld alatti folyosók teljesen esőbiztosak; fedezze fel a katonai történelmet egy teljesen száraz környezetben.",
                 "ro": "Galeriile subterane sunt complet ferite de ploaie; explorați istoria militară într-un mediu perfect uscat.",
-                "en": "The underground tunnels are completely rainproof; explore the military history in a perfectly dry environment."
+                "en": "The underground tunnels are completely rainproof; explore the military history in a perfectly dry environment.",
+                "fr": "Les galeries souterraines sont totalement étanches à la pluie ; explorez l'histoire militaire dans un environnement parfaitement sec."
               }
             },
             {
@@ -561,13 +620,15 @@
                 "de": "Museum Cour des Potiers",
                 "hu": "Fazekasok Udvara Múzeum",
                 "ro": "Muzeul Curtea Olarilor",
-                "en": "Cour des Potiers Museum"
+                "en": "Cour des Potiers Museum",
+                "fr": "Musée de la Cour des Potiers"
               },
               "tip_5lang": {
                 "de": "Das Museum ist ein Highlight an Regentagen; verbringen Sie viel Zeit im Inneren bei den faszinierenden Keramikausstellungen.",
                 "hu": "A múzeum igazi fénypont esős napokon; töltsön több időt a benti izgalmas kerámiakiállítások megtekintésével.",
                 "ro": "Muzeul este punctul culminant în zilele ploioase; petreceți mai mult timp vizitând expozițiile fascinante de ceramică.",
-                "en": "The museum is a real highlight on rainy days; spend extra time inside exploring the fascinating ceramic exhibits."
+                "en": "The museum is a real highlight on rainy days; spend extra time inside exploring the fascinating ceramic exhibits.",
+                "fr": "Le musée est un véritable point fort les jours de pluie ; passez plus de temps à l'intérieur pour découvrir les fascinantes collections de céramique."
               }
             },
             {
@@ -575,13 +636,15 @@
                 "de": "Au Ptit-Cro Magnon",
                 "hu": "Au Ptit-Cro Magnon",
                 "ro": "Au Ptit-Cro Magnon",
-                "en": "Au Ptit-Cro Magnon"
+                "en": "Au Ptit-Cro Magnon",
+                "fr": "Au Ptit-Cro Magnon"
               },
               "tip_5lang": {
                 "de": "Der perfekte Ort, um sich nach einer nassen Tour zu trocknen; genießen Sie die warme Gastfreundschaft, während es draußen stürmt.",
                 "hu": "A tökéletes hely a száradásra egy vizes túra után; élvezze a meleg vendégszeretetet, miközben kint szakad az eső.",
                 "ro": "Locul perfect pentru a vă usca după un tur ud; bucurați-vă de ospitalitatea caldă în timp ce afară plouă torențial.",
-                "en": "The perfect place to dry off after a wet tour; enjoy the warm hospitality while the rain pours down outside."
+                "en": "The perfect place to dry off after a wet tour; enjoy the warm hospitality while the rain pours down outside.",
+                "fr": "L'endroit parfait pour se sécher après une excursion humide ; profitez de l'accueil chaleureux pendant que la pluie tombe dehors."
               }
             }
           ]
@@ -591,7 +654,8 @@
             "de": "Winterliches Radeln erfordert gute Planung. Wir starten morgens an der Saint-Amand-Kirche bei klirrender Kälte. Die Voie Verte zeigt sich im Raureif, bevor wir Schutz in den Kirchen von Saint-Waast und Saint-Pierre suchen. Nachmittags bieten das Fort und das Museum willkommene Wärme und tiefere Einblicke. Wir beenden den Tag früh im Au Ptit-Cro Magnon, da die Dunkelheit bereits gegen 17:00 Uhr über die kalte Landschaft hereinbricht.",
             "hu": "A téli kerékpározás jó felkészülést igényel. Reggel a Szent Amand templomnál kezdünk a csípős hidegben. A Voie Verte zúzmarás tájai után a Saint-Waast és Saint-Pierre templomokban melegszünk fel. Délután az erőd és a múzeum kínál védett programot. A napot korán zárjuk az Au Ptit-Cro Magnonban, mert 17:00-kor már sötétség borul a fagyos tájra.",
             "ro": "Ciclismul de iarnă necesită o planificare bună. Începem dimineața la biserica Saint-Amand pe un frig pătrunzător. Voie Verte este acoperită de chiciură înainte de a căuta căldură în bisericile Saint-Waast și Saint-Pierre. După-amiaza, fortul și muzeul oferă adăpost binevenit. Încheiem ziua devreme la Au Ptit-Cro Magnon, deoarece întunericul coboară peste peisajul înghețat deja la ora 17:00.",
-            "en": "Winter cycling requires good preparation. We start in the morning at Saint Amand in the biting cold. Voie Verte shows off its frost before we seek warmth in Saint-Waast and Saint-Pierre churches. In the afternoon, the fort and museum offer welcome shelter and warmth. We end the day early at Au Ptit-Cro Magnon, as darkness falls over the frozen landscape by 17:00."
+            "en": "Winter cycling requires good preparation. We start in the morning at Saint Amand in the biting cold. Voie Verte shows off its frost before we seek warmth in Saint-Waast and Saint-Pierre churches. In the afternoon, the fort and museum offer welcome shelter and warmth. We end the day early at Au Ptit-Cro Magnon, as darkness falls over the frozen landscape by 17:00.",
+            "fr": "Le cyclisme hivernal demande une bonne préparation. Nous commençons le matin à Saint Amand dans un froid mordant. La Voie Verte exhibe son givre avant que nous cherchions la chaleur dans les églises de Saint-Waast et Saint-Pierre. L'après-midi, le fort et le musée offrent un abri et de la chaleur bienvenus. Nous finissons la journée tôt à Au Ptit-Cro Magnon, l'obscurité tombant sur le paysage gelé vers 17:00."
           },
           "stops": [
             {
@@ -599,13 +663,15 @@
                 "de": "Kirche Saint Amand",
                 "hu": "Szent Amand templom",
                 "ro": "Biserica Saint Amand",
-                "en": "Saint Amand Church"
+                "en": "Saint Amand Church",
+                "fr": "Église Saint Amand"
               },
               "tip_5lang": {
                 "de": "Wärmen Sie Ihre Hände im Inneren auf, bevor Sie die Fahrt fortsetzen; die dicken Mauern bieten Schutz vor dem schneidenden Wind.",
                 "hu": "Melegítse fel a kezeit bent, mielőtt tovább indulna; a vastag falak remek védelmet nyújtanak a metsző téli szél ellen.",
                 "ro": "Încălziți-vă mâinile în interior înainte de a porni la drum; zidurile groase oferă protecție excelentă împotriva vântului tăios.",
-                "en": "Warm up your hands inside before continuing your ride; the thick walls provide great protection against the biting winter wind."
+                "en": "Warm up your hands inside before continuing your ride; the thick walls provide great protection against the biting winter wind.",
+                "fr": "Réchauffez vos mains à l'intérieur avant de reprendre votre route ; les murs épais offrent une excellente protection contre le vent d'hiver mordant."
               }
             },
             {
@@ -613,13 +679,15 @@
                 "de": "Voie Verte de l'Avesnois",
                 "hu": "Voie Verte de l'Avesnois",
                 "ro": "Voie Verte de l'Avesnois",
-                "en": "Voie Verte de l'Avesnois"
+                "en": "Voie Verte de l'Avesnois",
+                "fr": "Voie Verte de l'Avesnois"
               },
               "tip_5lang": {
                 "de": "Tragen Sie thermische Kleidung; die Fahrt durch die offene Winterlandschaft kann durch den Fahrtwind sehr auskühlend sein.",
                 "hu": "Viseljen hőtartó ruházatot; a nyitott téli tájon való tekerés a menetszél miatt nagyon lehűtheti a testet.",
                 "ro": "Purtați îmbrăcăminte termică; pedalatul prin peisajul deschis de iarnă poate fi foarte răcoros din cauza vântului de mișcare.",
-                "en": "Wear thermal clothing; cycling through the open winter landscape can be very chilling due to the wind chill factor."
+                "en": "Wear thermal clothing; cycling through the open winter landscape can be very chilling due to the wind chill factor.",
+                "fr": "Portez des vêtements thermiques ; traverser le paysage hivernal ouvert à vélo peut être très glaçant à cause du refroidissement éolien."
               }
             },
             {
@@ -627,13 +695,15 @@
                 "de": "Kirche Saint-Waast",
                 "hu": "Saint-Waast templom",
                 "ro": "Biserica Saint-Waast",
-                "en": "Saint-Waast Church"
+                "en": "Saint-Waast Church",
+                "fr": "Église Saint-Waast"
               },
               "tip_5lang": {
                 "de": "Ein kurzer Stopp im geschützten Kirchenschiff hilft, die Körpertemperatur zu halten; bewundern Sie die Ruhe des winterlichen Ortes.",
                 "hu": "Egy rövid megálló a védett templomhajóban segít fenntartani a testhőt; élvezze a téli nyugalom csendjét bent.",
                 "ro": "O scurtă oprire în naosul protejat ajută la menținerea temperaturii corpului; bucurați-vă de liniștea iernii în interior.",
-                "en": "A short stop in the protected nave helps maintain body temperature; enjoy the quiet of the winter atmosphere inside."
+                "en": "A short stop in the protected nave helps maintain body temperature; enjoy the quiet of the winter atmosphere inside.",
+                "fr": "Un court arrêt dans la nef protégée aide à maintenir la température corporelle ; profitez du calme de l'atmosphère hivernale à l'intérieur."
               }
             },
             {
@@ -641,13 +711,15 @@
                 "de": "Kirche Saint-Pierre",
                 "hu": "Saint-Pierre templom",
                 "ro": "Biserica Saint-Pierre",
-                "en": "Saint-Pierre Church"
+                "en": "Saint-Pierre Church",
+                "fr": "Église Saint-Pierre"
               },
               "tip_5lang": {
                 "de": "Nutzen Sie das Tageslicht für Fotos; die tiefstehende Wintersonne lässt die alte Kirche in einem besonderen Glanz erstrahlen.",
                 "hu": "Használja ki a maradék nappali fényt a fotózáshoz; az alacsonyan járó téli nap különleges fénybe vonja az ódon templomot.",
                 "ro": "Profitați de lumina zilei pentru fotografii; soarele jos de iarnă scaldă vechea biserică într-o lumină aparte.",
-                "en": "Take advantage of the remaining daylight for photos; the low winter sun bathes the old church in a special glow."
+                "en": "Take advantage of the remaining daylight for photos; the low winter sun bathes the old church in a special glow.",
+                "fr": "Profitez des dernières heures de lumière pour des photos ; le soleil bas d'hiver baigne la vieille église d'une lueur particulière."
               }
             },
             {
@@ -655,13 +727,15 @@
                 "de": "Festungswerk Ferrière",
                 "hu": "Ferrière-i erőd",
                 "ro": "Fortificația Ferrière",
-                "en": "Ouvrage de Ferrière"
+                "en": "Ouvrage de Ferrière",
+                "fr": "Ouvrage de Ferrière"
               },
               "tip_5lang": {
                 "de": "Unter der Erde herrschen konstante Temperaturen; es ist oft wärmer als draußen im Frost, ideal für eine ausführliche Besichtigung.",
                 "hu": "A föld alatt állandó a hőmérséklet; gyakran melegebb van, mint kint a fagyban, ideális egy alapos látogatáshoz.",
                 "ro": "Sub pământ temperatura este constantă; este adesea mai cald decât afară în ger, ideal pentru o vizită detaliată.",
-                "en": "Temperatures underground are constant; it's often warmer than outside in the frost, ideal for an extensive visit."
+                "en": "Temperatures underground are constant; it's often warmer than outside in the frost, ideal for an extensive visit.",
+                "fr": "Les températures souterraines sont constantes ; c'est souvent plus chaud que dehors par grand froid, idéal pour une visite approfondie."
               }
             },
             {
@@ -669,13 +743,15 @@
                 "de": "Museum Cour des Potiers",
                 "hu": "Fazekasok Udvara Múzeum",
                 "ro": "Muzeul Curtea Olarilor",
-                "en": "Cour des Potiers Museum"
+                "en": "Cour des Potiers Museum",
+                "fr": "Musée de la Cour des Potiers"
               },
               "tip_5lang": {
                 "de": "Das Museum bietet einen wunderbaren, beheizten Zufluchtsort; die Keramiken strahlen in der gemütlichen Atmosphäre Wärme aus.",
                 "hu": "A múzeum csodálatos, fűtött menedéket nyújt; a kerámiák látványa a barátságos belsőben feledteti a kinti hideget.",
                 "ro": "Muzeul oferă un refugiu încălzit minunat; vederea ceramicilor în interiorul primitor vă face să uitați de frigul de afară.",
-                "en": "The museum provides a wonderful, heated retreat; the sight of the ceramics in the cozy interior makes you forget the cold."
+                "en": "The museum provides a wonderful, heated retreat; the sight of the ceramics in the cozy interior makes you forget the cold.",
+                "fr": "Le musée offre un merveilleux refuge chauffé ; la vue des céramiques dans l'intérieur douillet fait oublier le froid."
               }
             },
             {
@@ -683,13 +759,15 @@
                 "de": "Au Ptit-Cro Magnon",
                 "hu": "Au Ptit-Cro Magnon",
                 "ro": "Au Ptit-Cro Magnon",
-                "en": "Au Ptit-Cro Magnon"
+                "en": "Au Ptit-Cro Magnon",
+                "fr": "Au Ptit-Cro Magnon"
               },
               "tip_5lang": {
                 "de": "Beenden Sie die Tour hier bei einem warmen Getränk; der gemütliche Innenraum ist der perfekte Abschluss vor der Heimfahrt im Dunkeln.",
                 "hu": "Zárja itt a túrát egy meleg itallal; a barátságos belső tér tökéletes lezárás a sötétben való hazaindulás előtt.",
                 "ro": "Încheiați turul aici cu o băutură caldă; interiorul primitor este finalul perfect înainte de plecarea spre casă pe întuneric.",
-                "en": "End your tour here with a warm drink; the cozy interior is the perfect conclusion before heading home in the dark."
+                "en": "End your tour here with a warm drink; the cozy interior is the perfect conclusion before heading home in the dark.",
+                "fr": "Terminez votre visite ici autour d'une boisson chaude ; l'intérieur cosy est la conclusion parfaite avant de rentrer dans l'obscurité."
               }
             }
           ]
@@ -709,7 +787,8 @@
             "de": "Fort du Bourdiau",
             "hu": "Bourdiau Erőd",
             "ro": "Fortul Bourdiau",
-            "en": "Fort du Bourdiau"
+            "en": "Fort du Bourdiau",
+            "fr": "Fort du Bourdiau"
           },
           "coords": [
             3.975216,
@@ -724,7 +803,8 @@
             "de": "Erkunden Sie die faszinierenden Ruinen dieses historischen Verteidigungsbauwerks in der Landschaft und bleiben Sie auf den markierten Wegen.",
             "hu": "Fedezze fel e történelmi védelmi építmény lenyűgöző, tájban megbúvó romjait, és maradjon a kijelölt utakon, hogy elkerülje az egyenetlen talajt.",
             "ro": "Explorați ruinele fascinante ale acestei structuri defensive istorice ascunse în peisaj și rămâneți pe potecile marcate pentru a evita terenul accidentat.",
-            "en": "Explore the fascinating ruins of this historic defensive structure hidden in the landscape, and stick to the marked paths to avoid uneven, rocky ground."
+            "en": "Explore the fascinating ruins of this historic defensive structure hidden in the landscape, and stick to the marked paths to avoid uneven, rocky ground.",
+            "fr": "Explorez les ruines fascinantes de cette structure défensive historique cachée dans le paysage, et restez sur les sentiers balisés pour éviter les sols inégaux et rocheux."
           }
         },
         {
@@ -732,7 +812,8 @@
             "de": "Kapelle Notre-Dame de Bon Vouloir",
             "hu": "Notre-Dame de Bon Vouloir Kápolna",
             "ro": "Capela Notre-Dame de Bon Vouloir",
-            "en": "Notre-Dame de Bon Vouloir Chapel"
+            "en": "Notre-Dame de Bon Vouloir Chapel",
+            "fr": "Chapelle Notre-Dame de Bon Vouloir"
           },
           "coords": [
             3.989946,
@@ -747,7 +828,8 @@
             "de": "Bewundern Sie die malerische Architektur dieser lokalen Kapelle, um den historischen Charme des Dorfes zu spüren, und treten Sie leise ein.",
             "hu": "Csodálja meg e helyi kápolna festői építészetét, hogy átérezze a falu történelmi báját, és lépjen be halkan, mivel ez ma is az elmélkedés helye.",
             "ro": "Admirați arhitectura pitorească a acestei capele pentru a simți farmecul istoric al satului și pășiți înăuntru în liniște, fiind un loc de reflecție.",
-            "en": "Admire the quaint architecture of this local chapel to feel the village's historic charm, and step inside quietly as it remains a place of reflection."
+            "en": "Admire the quaint architecture of this local chapel to feel the village's historic charm, and step inside quietly as it remains a place of reflection.",
+            "fr": "Admirez l'architecture pittoresque de cette chapelle locale pour ressentir le charme historique du village, et entrez en silence car c'est un lieu de recueillement."
           }
         },
         {
@@ -755,7 +837,8 @@
             "de": "Kirche Saint Amand",
             "hu": "Szent Amand templom",
             "ro": "Biserica Saint Amand",
-            "en": "Saint Amand Church"
+            "en": "Saint Amand Church",
+            "fr": "Église Saint Amand"
           },
           "coords": [
             3.993158,
@@ -770,7 +853,8 @@
             "de": "Erkunden Sie dieses atemberaubende religiöse Bauwerk, das für sein Mauerwerk bekannt ist, aber denken Sie daran, sich vor dem Betreten bescheiden zu kleiden.",
             "hu": "Fedezze fel ezt a lenyűgöző vallási központot, amely robusztus téglafaláról ismert, de ne feledjen szerényen felöltözni, mielőtt belép az épületbe.",
             "ro": "Explorați această uimitoare capodoperă religioasă remarcată pentru zidăria sa robustă, dar amintiți-vă să vă îmbrăcați modest înainte de a intra.",
-            "en": "Explore this stunning religious centerpiece noted for its robust brickwork and serene atmosphere, but remember to dress modestly before entering."
+            "en": "Explore this stunning religious centerpiece noted for its robust brickwork and serene atmosphere, but remember to dress modestly before entering.",
+            "fr": "Explorez ce remarquable centre religieux réputé pour sa maçonnerie de briques robuste et son atmosphère sereine, mais souvenez-vous de vous habiller modestement avant d'entrer."
           }
         },
         {
@@ -778,7 +862,8 @@
             "de": "Kirche Saint-Waast",
             "hu": "Saint-Waast templom",
             "ro": "Biserica Saint-Waast",
-            "en": "Saint-Waast Church"
+            "en": "Saint-Waast Church",
+            "fr": "Église Saint-Waast"
           },
           "coords": [
             4.00521,
@@ -793,7 +878,8 @@
             "de": "Besuchen Sie diese charmante historische Kirche mit ihren aufwendigen Buntglasfenstern und versuchen Sie, in den Morgenstunden zu kommen.",
             "hu": "Látogassa meg ezt a bájos történelmi templomot, amely bonyolult ólomüveg ablakokkal büszkélkedhet, és jöjjön délelőtt a legjobb belső fényekért.",
             "ro": "Vizitați această biserică istorică fermecătoare, cu vitralii complicate, și încercați să mergeți dimineața pentru a prinde cea mai bună lumină.",
-            "en": "Visit this charming historic church featuring intricate stained glass windows, and try visiting during morning hours to catch the best interior lighting."
+            "en": "Visit this charming historic church featuring intricate stained glass windows, and try visiting during morning hours to catch the best interior lighting.",
+            "fr": "Visitez cette charmante église historique aux vitraux finement travaillés, et préférez venir le matin pour profiter du meilleur éclairage intérieur."
           }
         },
         {
@@ -801,7 +887,8 @@
             "de": "Kirche Saint-Pierre",
             "hu": "Saint-Pierre templom",
             "ro": "Biserica Saint-Pierre",
-            "en": "Saint-Pierre Church"
+            "en": "Saint-Pierre Church",
+            "fr": "Église Saint-Pierre"
           },
           "coords": [
             4.027789,
@@ -816,7 +903,8 @@
             "de": "Entdecken Sie das reiche regionale Erbe, das in dieser wunderschönen Steinkirche präsentiert wird, und prüfen Sie die Anschlagtafel auf Konzerte.",
             "hu": "Fedezze fel a régió gazdag örökségét, amelyet ez a gyönyörű kőtemplom mutat be, és ellenőrizze a kinti hirdetőtáblán a közelgő helyi koncerteket.",
             "ro": "Descoperiți bogata moștenire regională prezentată în această frumoasă biserică de piatră și verificați panoul exterior pentru concerte viitoare.",
-            "en": "Discover the rich regional heritage showcased in this beautiful stone church, and check the local board outside for any upcoming community concerts."
+            "en": "Discover the rich regional heritage showcased in this beautiful stone church, and check the local board outside for any upcoming community concerts.",
+            "fr": "Découvrez le riche patrimoine régional mis en valeur dans cette belle église en pierre, et consultez le panneau d'affichage extérieur pour d'éventuels concerts communautaires à venir."
           }
         },
         {
@@ -824,7 +912,8 @@
             "de": "Festungswerk Ferrière",
             "hu": "Ferrière-i erőd",
             "ro": "Fortificația Ferrière",
-            "en": "Ouvrage de Ferrière"
+            "en": "Ouvrage de Ferrière",
+            "fr": "Ouvrage de Ferrière"
           },
           "coords": [
             4.029654,
@@ -839,7 +928,8 @@
             "de": "Tauchen Sie in diesem Festungswerk der Maginot-Linie in die Geschichte ein und bringen Sie eine leichte Jacke mit, da die unterirdischen Tunnel kühl sind.",
             "hu": "Lépjen vissza az időben ezen a félelmetes Maginot-vonalbeli erődítményen, és hozzon magával könnyű kabátot, mivel a föld alatti alagutak hűvösek.",
             "ro": "Întoarceți-vă în timp la această formidabilă fortificație a Liniei Maginot și aduceți o jachetă subțire, deoarece tunelurile subterane sunt reci.",
-            "en": "Step back in time at this formidable Maginot Line fortification offering deep historical insights, and bring a light jacket as underground tunnels are chilly."
+            "en": "Step back in time at this formidable Maginot Line fortification offering deep historical insights, and bring a light jacket as underground tunnels are chilly.",
+            "fr": "Replongez dans le passé dans cette imposante fortification de la Ligne Maginot offrant de profondes leçons d'histoire, et prenez une veste légère car les galeries souterraines sont fraîches."
           }
         },
         {
@@ -847,7 +937,8 @@
             "de": "Museum Cour des Potiers",
             "hu": "Fazekasok Udvara Múzeum",
             "ro": "Muzeul Curtea Olarilor",
-            "en": "Cour des Potiers Museum"
+            "en": "Cour des Potiers Museum",
+            "fr": "Musée de la Cour des Potiers"
           },
           "coords": [
             4.020679,
@@ -862,7 +953,8 @@
             "de": "Tauchen Sie in diesem einzigartigen Museum in die lokale Industriegeschichte der Töpferei ein und verpassen Sie nicht die interaktive Tonwerkstatt.",
             "hu": "Merüljön el a helyi fazekasipar történetében ebben az egyedülálló múzeumban, és ne hagyja ki az interaktív agyagműhelyt a túra végén.",
             "ro": "Cufundați-vă în istoria industrială locală a olăritului în acest muzeu unic și nu ratați atelierul interactiv de lut de la sfârșitul turului.",
-            "en": "Immerse yourself in the local industrial history of pottery making in this unique museum, and don't miss the interactive clay workshop at the tour's end."
+            "en": "Immerse yourself in the local industrial history of pottery making in this unique museum, and don't miss the interactive clay workshop at the tour's end.",
+            "fr": "Plongez dans l'histoire industrielle locale de la poterie dans ce musée unique, et ne manquez pas l'atelier d'argile interactif à la fin de la visite."
           }
         },
         {
@@ -870,7 +962,8 @@
             "de": "Au Ptit-Cro Magnon",
             "hu": "Au Ptit-Cro Magnon",
             "ro": "Au Ptit-Cro Magnon",
-            "en": "Au Ptit-Cro Magnon"
+            "en": "Au Ptit-Cro Magnon",
+            "fr": "Au Ptit-Cro Magnon"
           },
           "coords": [
             4.016206,
@@ -885,7 +978,8 @@
             "de": "Bringen Sie die ganze Familie an diesen ansprechenden Erholungsort mit verspielten Ausstellungen und kommen Sie früh, um einen Picknicktisch zu sichern.",
             "hu": "Hozza el az egész családot erre a játékos kiállításokat kínáló vonzó pihenőhelyre, és érkezzen korán, hogy árnyékos piknikasztalt találjon.",
             "ro": "Aduceți toată familia în acest loc de recreere captivant, cu exponate jucăușe, și sosiți devreme pentru a prinde o masă de picnic la umbră.",
-            "en": "Bring the whole family to this engaging recreational spot featuring playful exhibits, and arrive early on weekends to secure a good shaded picnic table."
+            "en": "Bring the whole family to this engaging recreational spot featuring playful exhibits, and arrive early on weekends to secure a good shaded picnic table.",
+            "fr": "Amenez toute la famille dans cet espace récréatif attrayant aux expositions ludiques, et arrivez tôt le week-end pour vous assurer une bonne table de pique-nique à l'ombre."
           }
         }
       ],
@@ -893,7 +987,8 @@
         "de": "Beginnen Sie Ihren Morgen mit der Erkundung der Ruinen des Fort du Bourdiau im Westen, bevor Sie zu den zentralen Kapellen fahren. Die Mittagszeit ist ideal, um die kurzen Wege zwischen den Pfarreien zu bewältigen. Am Nachmittag entdecken Sie Militärgeschichte im Bunker der Maginot-Linie. Beenden Sie die Tour im Töpfermuseum und Park.",
         "hu": "Kezdje a reggelt a Fort du Bourdiau nyugati romjainak felfedezésével, mielőtt a központi kápolnákhoz és templomokhoz hajtana. A dél tökéletes a város fenséges plébániái közötti rövid távolságok megtételére. Délután fedezze fel a hadtörténetet a Maginot-vonal lenyűgöző bunkerében. Zárja a túrát a fazekasmúzeumban és a parkban.",
         "ro": "Începeți dimineața explorând ruinele vestice ale Fort du Bourdiau, înainte de a conduce spre capelele centrale. Amiaza este perfectă pentru a parcurge distanțele scurte dintre parohiile orașului. După-amiaza, descoperiți istoria militară la buncărul Liniei Maginot. Încheiați-vă turul la muzeul de olărit și în parcul relaxant.",
-        "en": "Start your morning exploring the fascinating western ruins of Fort du Bourdiau before driving to the central chapels and churches. Midday is perfect for navigating the short distances between the town's majestic parishes. During the afternoon, uncover military history at the formidable Maginot Line bunker. Conclude your driving tour at the engaging pottery museum."
+        "en": "Start your morning exploring the fascinating western ruins of Fort du Bourdiau before driving to the central chapels and churches. Midday is perfect for navigating the short distances between the town's majestic parishes. During the afternoon, uncover military history at the formidable Maginot Line bunker. Conclude your driving tour at the engaging pottery museum.",
+        "fr": "Commencez la matinée en explorant les fascinantes ruines occidentales du Fort du Bourdiau avant de conduire vers les chapelles et églises du centre. Midi est idéal pour parcourir les courtes distances entre les majestueuses paroisses de la ville. L'après-midi, découvrez l'histoire militaire dans le bunker imposant de la Ligne Maginot. Concluez votre circuit en voiture au musée de la poterie."
       },
       "variants": {
         "rainy": {
@@ -901,7 +996,8 @@
             "de": "Das Auto ist der ideale Begleiter für einen regnerischen Tag. Wir starten am Fort du Bourdiau und springen zwischen Kapellen und Kirchen wie Saint Amand und Saint-Waast hin und her, immer im Trockenen. Nachmittags erkunden wir das Festungswerk und das Museum, wo man den Regen völlig vergisst. Der Tag endet gemütlich im Au Ptit-Cro Magnon, während das Prasseln des Regens auf das Autodach die Rückfahrt begleitet.",
             "hu": "Az autó tökéletes választás egy esős napon. A Fort du Bourdiau-nál kezdünk, majd szárazon jutunk el a kápolnához és a templomokhoz, mint a Szent Amand vagy a Saint-Waast. Délután az erőd és a múzeum fedett kiállításai feledtetik a rossz időt. A napot az Au Ptit-Cro Magnonban zárjuk, miközben az eső kopogása az autó tetőjén kíséri a hazautat.",
             "ro": "Mașina este alegerea perfectă pentru o zi ploioasă. Începem la Fort du Bourdiau și mergem la capelă și la biserici precum Saint Amand sau Saint-Waast, rămânând mereu la uscat. După-amiaza, expozițiile acoperite de la fortificație și muzeu ne fac să uităm de vremea rea. Ziua se încheie la Au Ptit-Cro Magnon, în timp ce sunetul ploii pe plafonul mașinii însoțește drumul spre casă.",
-            "en": "The car is the perfect choice for a rainy day. We start at Fort du Bourdiau and hop between the chapel and churches like Saint Amand or Saint-Waast, staying dry throughout. In the afternoon, the covered exhibits of the fortress and museum make you forget the bad weather. The day ends at Au Ptit-Cro Magnon, with the sound of rain on the car roof accompanying the drive home."
+            "en": "The car is the perfect choice for a rainy day. We start at Fort du Bourdiau and hop between the chapel and churches like Saint Amand or Saint-Waast, staying dry throughout. In the afternoon, the covered exhibits of the fortress and museum make you forget the bad weather. The day ends at Au Ptit-Cro Magnon, with the sound of rain on the car roof accompanying the drive home.",
+            "fr": "La voiture est le choix parfait pour une journée pluvieuse. Nous commençons au Fort du Bourdiau et sautons entre la chapelle et les églises comme Saint Amand ou Saint-Waast, en restant au sec. L'après-midi, les espaces couverts de la forteresse et du musée font oublier le mauvais temps. La journée se termine à Au Ptit-Cro Magnon, avec le bruit de la pluie sur le toit de la voiture pour accompagner le retour."
           },
           "stops": [
             {
@@ -909,13 +1005,15 @@
                 "de": "Fort du Bourdiau",
                 "hu": "Bourdiau Erőd",
                 "ro": "Fortul Bourdiau",
-                "en": "Fort du Bourdiau"
+                "en": "Fort du Bourdiau",
+                "fr": "Fort du Bourdiau"
               },
               "tip_5lang": {
                 "de": "Parken Sie nah am Eingang, um nass zu werden; die massiven Ruinen bieten im Inneren einige trockene Stellen für Erkundungen.",
                 "hu": "Parkoljon közel a bejárathoz, hogy elkerülje az elázást; a masszív romok belül több száraz helyet kínálnak a felfedezéshez.",
                 "ro": "Parcați aproape de intrare pentru a evita ploaia; ruinele masive oferă în interior mai multe locuri uscate pentru explorare.",
-                "en": "Park close to the entrance to avoid the rain; the massive ruins offer several dry spots inside for exploration."
+                "en": "Park close to the entrance to avoid the rain; the massive ruins offer several dry spots inside for exploration.",
+                "fr": "Garez-vous près de l'entrée pour éviter la pluie ; les ruines massives offrent plusieurs endroits secs à explorer à l'intérieur."
               }
             },
             {
@@ -923,13 +1021,15 @@
                 "de": "Kapelle Notre-Dame de Bon Vouloir",
                 "hu": "Notre-Dame de Bon Vouloir Kápolna",
                 "ro": "Capela Notre-Dame de Bon Vouloir",
-                "en": "Notre-Dame de Bon Vouloir Chapel"
+                "en": "Notre-Dame de Bon Vouloir Chapel",
+                "fr": "Chapelle Notre-Dame de Bon Vouloir"
               },
               "tip_5lang": {
                 "de": "Ein kurzer Sprint vom Auto zur Kapelle lohnt sich; genießen Sie die Stille im Inneren, während der Regen draußen gegen die Wände schlägt.",
                 "hu": "Egy rövid sprint az autótól a kápolnáig megéri; élvezze a benti csendet, miközben kint az eső veri a falakat.",
                 "ro": "Un scurt sprint de la mașină la capelă merită; bucurați-vă de liniștea din interior în timp ce afară ploaia bate în ziduri.",
-                "en": "A short sprint from the car to the chapel is worth it; enjoy the silence inside while the rain beats against the walls outside."
+                "en": "A short sprint from the car to the chapel is worth it; enjoy the silence inside while the rain beats against the walls outside.",
+                "fr": "Un court sprint depuis la voiture jusqu'à la chapelle en vaut la peine ; profitez du silence à l'intérieur pendant que la pluie frappe les murs dehors."
               }
             },
             {
@@ -937,13 +1037,15 @@
                 "de": "Kirche Saint Amand",
                 "hu": "Szent Amand templom",
                 "ro": "Biserica Saint Amand",
-                "en": "Saint Amand Church"
+                "en": "Saint Amand Church",
+                "fr": "Église Saint Amand"
               },
               "tip_5lang": {
                 "de": "Nutzen Sie den Kirchenbesuch für eine längere Pause im Trockenen; die Architektur wirkt bei grauem Himmel besonders eindrucksvoll.",
                 "hu": "Használja ki a templomlátogatást egy hosszabb száraz pihenőre; az építészet a szürke égbolt alatt különösen hatásos.",
                 "ro": "Profitați de vizita la biserică pentru o pauză mai lungă la uscat; arhitectura este deosebit de impresionantă sub cerul gri.",
-                "en": "Take advantage of the church visit for a longer dry break; the architecture is particularly striking under the gray sky."
+                "en": "Take advantage of the church visit for a longer dry break; the architecture is particularly striking under the gray sky.",
+                "fr": "Profitez de la visite de l'église pour une longue pause au sec ; l'architecture est particulièrement saisissante sous le ciel gris."
               }
             },
             {
@@ -951,13 +1053,15 @@
                 "de": "Kirche Saint-Waast",
                 "hu": "Saint-Waast templom",
                 "ro": "Biserica Saint-Waast",
-                "en": "Saint-Waast Church"
+                "en": "Saint-Waast Church",
+                "fr": "Église Saint-Waast"
               },
               "tip_5lang": {
                 "de": "In der Nähe gibt es gute Parkmöglichkeiten; besichtigen Sie das historische Gebäude in Ruhe, ohne sich um das Wetter sorgen zu müssen.",
                 "hu": "A közelben jó parkolási lehetőségek vannak; látogassa meg az épületet nyugodtan, anélkül, hogy az időjárás miatt aggódna.",
                 "ro": "Există opțiuni bune de parcare în apropiere; vizitați clădirea istorică în liniște, fără să vă faceți griji pentru vreme.",
-                "en": "There are good parking options nearby; visit the historic building calmly without worrying about the weather."
+                "en": "There are good parking options nearby; visit the historic building calmly without worrying about the weather.",
+                "fr": "Il y a de bonnes options de stationnement à proximité ; visitez le bâtiment historique calmement sans vous soucier du temps."
               }
             },
             {
@@ -965,13 +1069,15 @@
                 "de": "Kirche Saint-Pierre",
                 "hu": "Saint-Pierre templom",
                 "ro": "Biserica Saint-Pierre",
-                "en": "Saint-Pierre Church"
+                "en": "Saint-Pierre Church",
+                "fr": "Église Saint-Pierre"
               },
               "tip_5lang": {
                 "de": "Das Auto bietet zwischen den Stopps einen warmen Rückzugsort; bewundern Sie die Innendetails dieser geschichtsträchtigen Kirche.",
                 "hu": "Az autó meleg menedéket nyújt a megállók között; csodálja meg ennek a történelemmel teli templomnak a belső részleteit.",
                 "ro": "Mașina oferă un refugiu cald între opriri; admirați detaliile interioare ale acestei biserici pline de istorie.",
-                "en": "The car provides a warm retreat between stops; admire the interior details of this history-filled church."
+                "en": "The car provides a warm retreat between stops; admire the interior details of this history-filled church.",
+                "fr": "La voiture offre un refuge chauffé entre les étapes ; admirez les détails intérieurs de cette église chargée d'histoire."
               }
             },
             {
@@ -979,13 +1085,15 @@
                 "de": "Festungswerk Ferrière",
                 "hu": "Ferrière-i erőd",
                 "ro": "Fortificația Ferrière",
-                "en": "Ouvrage de Ferrière"
+                "en": "Ouvrage de Ferrière",
+                "fr": "Ouvrage de Ferrière"
               },
               "tip_5lang": {
                 "de": "Perfekt für Regentage, da der Großteil der Besichtigung unterirdisch stattfindet; nehmen Sie sich Zeit für die militärischen Exponate.",
                 "hu": "Tökéletes esős napokra, mivel a látogatás nagy része a föld alatt zajlik; szánjon időt a katonai kiállítási tárgyakra.",
                 "ro": "Perfect pentru zilele ploioase, deoarece cea mai mare parte a vizitei are loc sub pământ; acordați timp exponatelor militare.",
-                "en": "Perfect for rainy days, as most of the visit takes place underground; take your time with the military exhibits."
+                "en": "Perfect for rainy days, as most of the visit takes place underground; take your time with the military exhibits.",
+                "fr": "Parfait pour les jours de pluie, car la majeure partie de la visite se déroule sous terre ; prenez votre temps pour les expositions militaires."
               }
             },
             {
@@ -993,13 +1101,15 @@
                 "de": "Museum Cour des Potiers",
                 "hu": "Fazekasok Udvara Múzeum",
                 "ro": "Muzeul Curtea Olarilor",
-                "en": "Cour des Potiers Museum"
+                "en": "Cour des Potiers Museum",
+                "fr": "Musée de la Cour des Potiers"
               },
               "tip_5lang": {
                 "de": "Ein absolut regensicheres Ziel; das Museum bietet eine faszinierende Reise durch die lokale Handwerkskunst in trockenem Ambiente.",
                 "hu": "Teljesen esőbiztos úticél; a múzeum izgalmas utazást kínál a helyi kézművesség világába, száraz és barátságos környezetben.",
                 "ro": "O destinație complet ferită de ploaie; muzeul oferă o călătorie fascinantă prin meșteșugul local într-un mediu uscat.",
-                "en": "A completely rainproof destination; the museum offers a fascinating journey through local craftsmanship in a dry setting."
+                "en": "A completely rainproof destination; the museum offers a fascinating journey through local craftsmanship in a dry setting.",
+                "fr": "Une destination totalement à l'abri de la pluie ; le musée propose un voyage fascinant à travers l'artisanat local dans un cadre sec."
               }
             },
             {
@@ -1007,13 +1117,15 @@
                 "de": "Au Ptit-Cro Magnon",
                 "hu": "Au Ptit-Cro Magnon",
                 "ro": "Au Ptit-Cro Magnon",
-                "en": "Au Ptit-Cro Magnon"
+                "en": "Au Ptit-Cro Magnon",
+                "fr": "Au Ptit-Cro Magnon"
               },
               "tip_5lang": {
                 "de": "Parken Sie direkt vor der Tür und genießen Sie den Abend im Warmen; der perfekte Abschluss für einen Autotrip an einem Regentag.",
                 "hu": "Parkoljon közvetlenül az ajtó előtt, és élvezze az estét a melegben; tökéletes zárása egy esős napon tett autós túrának.",
                 "ro": "Parcați chiar în fața ușii și bucurați-vă de seară la căldură; finalul perfect pentru un tur cu mașina într-o zi ploioasă.",
-                "en": "Park right in front of the door and enjoy the evening in the warm; the perfect ending to a car tour on a rainy day."
+                "en": "Park right in front of the door and enjoy the evening in the warm; the perfect ending to a car tour on a rainy day.",
+                "fr": "Garez-vous juste devant la porte et profitez de la soirée au chaud ; la fin parfaite d'une visite en voiture par temps pluvieux."
               }
             }
           ]
@@ -1023,7 +1135,8 @@
             "de": "Im Winter bietet das Auto den Komfort einer mobilen Heizung. Wir starten am Fort du Bourdiau in der frostigen Morgenluft und besuchen nacheinander die Kapelle und die Kirchen, wobei wir die Fahrt durch die verschneite Landschaft genießen. Nachmittags sind das Fort und das Museum gemütliche Orte der Entdeckung. Da es gegen 17:00 Uhr dunkel wird, lassen wir den Tag im Au Ptit-Cro Magnon ausklingen, bevor wir sicher durch die Winternacht fahren.",
             "hu": "Télen az autó a mobil fűtés kényelmét nyújtja. A Fort du Bourdiau-nál kezdünk a fagyos reggelen, majd sorra látogatjuk a kápolnát és a templomokat, élvezve a havas táj látványát az ablakból. Délután az erőd és a múzeum kínál védett programokat. Mivel 17:00 körül már sötétedik, a napot az Au Ptit-Cro Magnonban zárjuk a jeges éjszaka előtt.",
             "ro": "Iarna, mașina oferă confortul încălzirii mobile. Începem la Fort du Bourdiau în dimineața geroasă și vizităm capela și bisericile, bucurându-ne de peisajul înzăpezit de la fereastră. După-amiaza, fortul și muzeul oferă programe protejate. Deoarece se întunecă în jur de ora 17:00, încheiem ziua la Au Ptit-Cro Magnon înainte de noaptea înghețată.",
-            "en": "In winter, the car offers the comfort of mobile heating. We start at Fort du Bourdiau on a frosty morning and visit the chapel and churches, enjoying the snowy landscape from the window. In the afternoon, the fort and museum offer sheltered activities. Since it gets dark around 17:00, we end the day at Au Ptit-Cro Magnon before the icy night sets in."
+            "en": "In winter, the car offers the comfort of mobile heating. We start at Fort du Bourdiau on a frosty morning and visit the chapel and churches, enjoying the snowy landscape from the window. In the afternoon, the fort and museum offer sheltered activities. Since it gets dark around 17:00, we end the day at Au Ptit-Cro Magnon before the icy night sets in.",
+            "fr": "En hiver, la voiture offre le confort du chauffage mobile. Nous commençons au Fort du Bourdiau par une matinée glaciale et visitons la chapelle et les églises, profitant du paysage enneigé depuis la fenêtre. L'après-midi, le fort et le musée proposent des activités abritées. Comme la nuit tombe vers 17:00, nous terminons la journée à Au Ptit-Cro Magnon avant que la nuit glacée ne s'installe."
           },
           "stops": [
             {
@@ -1031,13 +1144,15 @@
                 "de": "Fort du Bourdiau",
                 "hu": "Bourdiau Erőd",
                 "ro": "Fortul Bourdiau",
-                "en": "Fort du Bourdiau"
+                "en": "Fort du Bourdiau",
+                "fr": "Fort du Bourdiau"
               },
               "tip_5lang": {
                 "de": "Die frostigen Ruinen wirken im Winterlicht majestätisch; tragen Sie feste Schuhe für den kurzen Gang vom Parkplatz zu den Mauern.",
                 "hu": "A fagyos romok fenségesen mutatnak a téli fényben; viseljen bakancsot a parkolótól a falakig tartó rövid sétához a hidegben.",
                 "ro": "Ruinele înghețate arată maiestuos în lumina iernii; purtați bocanci pentru scurta plimbare de la parcare la ziduri în frig.",
-                "en": "The frosty ruins look majestic in winter light; wear sturdy boots for the short walk from the parking lot to the walls in the cold."
+                "en": "The frosty ruins look majestic in winter light; wear sturdy boots for the short walk from the parking lot to the walls in the cold.",
+                "fr": "Les ruines givrées sont majestueuses à la lumière hivernale ; portez des bottes solides pour la courte marche du parking aux murailles dans le froid."
               }
             },
             {
@@ -1045,13 +1160,15 @@
                 "de": "Kapelle Notre-Dame de Bon Vouloir",
                 "hu": "Notre-Dame de Bon Vouloir Kápolna",
                 "ro": "Capela Notre-Dame de Bon Vouloir",
-                "en": "Notre-Dame de Bon Vouloir Chapel"
+                "en": "Notre-Dame de Bon Vouloir Chapel",
+                "fr": "Chapelle Notre-Dame de Bon Vouloir"
               },
               "tip_5lang": {
                 "de": "Die kleine Kapelle bietet einen kurzen, friedlichen Moment der Besinnung; die warme Luft im Auto empfängt Sie danach sofort wieder.",
                 "hu": "A kis kápolna békés pillanatokat kínál az elmélyüléshez; az autó meleg levegője azonnal visszavárja Önt a látogatás után.",
                 "ro": "Mica capelă oferă momente de liniște pentru reflecție; aerul cald din mașină vă așteaptă imediat după vizită.",
-                "en": "The small chapel offers a peaceful moment for reflection; the warm air in the car welcomes you back immediately after the visit."
+                "en": "The small chapel offers a peaceful moment for reflection; the warm air in the car welcomes you back immediately after the visit.",
+                "fr": "La petite chapelle offre un moment paisible de recueillement ; l'air chaud de la voiture vous accueille immédiatement après la visite."
               }
             },
             {
@@ -1059,13 +1176,15 @@
                 "de": "Kirche Saint Amand",
                 "hu": "Szent Amand templom",
                 "ro": "Biserica Saint Amand",
-                "en": "Saint Amand Church"
+                "en": "Saint Amand Church",
+                "fr": "Église Saint Amand"
               },
               "tip_5lang": {
                 "de": "Ein idealer Ort, um die Stille des Winters zu genießen; die dicken Kirchenwände schützen vor dem beißenden Wind im Freien.",
                 "hu": "Ideális hely a téli csend élvezetéhez; a vastag templomfalak hatékonyan védenek a kinti metsző szél ellen a megálló során.",
                 "ro": "Un loc ideal pentru a vă bucura de liniștea iernii; zidurile groase ale bisericii vă protejează de vântul tăios de afară.",
-                "en": "An ideal place to enjoy the winter silence; the thick church walls effectively protect against the biting wind outside."
+                "en": "An ideal place to enjoy the winter silence; the thick church walls effectively protect against the biting wind outside.",
+                "fr": "Un lieu idéal pour apprécier le silence hivernal ; les murs épais de l'église protègent efficacement du vent mordant extérieur."
               }
             },
             {
@@ -1073,13 +1192,15 @@
                 "de": "Kirche Saint-Waast",
                 "hu": "Saint-Waast templom",
                 "ro": "Biserica Saint-Waast",
-                "en": "Saint-Waast Church"
+                "en": "Saint-Waast Church",
+                "fr": "Église Saint-Waast"
               },
               "tip_5lang": {
                 "de": "Das weiche Winterlicht am Nachmittag betont die gotischen Details; nutzen Sie die kurzen Wege vom Auto für eine entspannte Besichtigung.",
                 "hu": "A délutáni lágy téli fény kiemeli a gótikus részleteket; használja ki a rövid utat az autótól a nyugodt megtekintéshez.",
                 "ro": "Lumina blândă de iarnă de după-amiază subliniază detaliile gotice; profitați de drumul scurt de la mașină pentru vizitare.",
-                "en": "The soft afternoon winter light highlights the Gothic details; take advantage of the short walk from the car for a relaxed visit."
+                "en": "The soft afternoon winter light highlights the Gothic details; take advantage of the short walk from the car for a relaxed visit.",
+                "fr": "La douce lumière hivernale de l'après-midi met en valeur les détails gothiques ; profitez de la courte marche depuis la voiture pour une visite détendue."
               }
             },
             {
@@ -1087,13 +1208,15 @@
                 "de": "Kirche Saint-Pierre",
                 "hu": "Saint-Pierre templom",
                 "ro": "Biserica Saint-Pierre",
-                "en": "Saint-Pierre Church"
+                "en": "Saint-Pierre Church",
+                "fr": "Église Saint-Pierre"
               },
               "tip_5lang": {
                 "de": "Bewundern Sie die Architektur, bevor die Dämmerung einsetzt; im Auto können Sie sich zwischen den historischen Highlights aufwärmen.",
                 "hu": "Csodálja meg az építészetet, mielőtt beállna az alkonyat; az autóban bármikor felmelegedhet a történelmi látnivalók között.",
                 "ro": "Admirați arhitectura înainte de lăsarea amurgului; în mașină vă puteți încălzi oricând între obiectivele istorice.",
-                "en": "Admire the architecture before twilight sets in; you can warm up in the car anytime between the historical highlights."
+                "en": "Admire the architecture before twilight sets in; you can warm up in the car anytime between the historical highlights.",
+                "fr": "Admirez l'architecture avant que le crépuscule n'arrive ; vous pouvez vous réchauffer dans la voiture entre les points d'intérêt historiques."
               }
             },
             {
@@ -1101,13 +1224,15 @@
                 "de": "Festungswerk Ferrière",
                 "hu": "Ferrière-i erőd",
                 "ro": "Fortificația Ferrière",
-                "en": "Ouvrage de Ferrière"
+                "en": "Ouvrage de Ferrière",
+                "fr": "Ouvrage de Ferrière"
               },
               "tip_5lang": {
                 "de": "Die unterirdische Tour ist im Winter besonders angenehm, da sie vor Frost schützt; entdecken Sie die Geschichte im geschützten Bereich.",
                 "hu": "A föld alatti túra télen különösen kellemes, mert véd a fagy elől; fedezze fel a történelmet ebben a védett környezetben.",
                 "ro": "Turul subteran este deosebit de plăcut iarna, deoarece protejează de ger; descoperiți istoria în acest mediu protejat.",
-                "en": "The underground tour is especially pleasant in winter as it protects from frost; discover history in this sheltered environment."
+                "en": "The underground tour is especially pleasant in winter as it protects from frost; discover history in this sheltered environment.",
+                "fr": "La visite souterraine est particulièrement agréable en hiver car elle protège du gel ; découvrez l'histoire dans cet environnement abrité."
               }
             },
             {
@@ -1115,13 +1240,15 @@
                 "de": "Museum Cour des Potiers",
                 "hu": "Fazekasok Udvara Múzeum",
                 "ro": "Muzeul Curtea Olarilor",
-                "en": "Cour des Potiers Museum"
+                "en": "Cour des Potiers Museum",
+                "fr": "Musée de la Cour des Potiers"
               },
               "tip_5lang": {
                 "de": "Verweilen Sie in der beheizten Ausstellung und genießen Sie die Handwerkskunst; die warme Atmosphäre lässt den Winter draußen vergessen.",
                 "hu": "Időzzön a fűtött kiállításon és élvezze a kézműves remekeket; a meleg környezet segít elfelejteni a kinti téli hideget.",
                 "ro": "Zăboviți la expoziția încălzită și bucurați-vă de piesele de artizanat; ambianța caldă vă face să uitați de gerul de afară.",
-                "en": "Linger in the heated exhibition and enjoy the craft masterpieces; the warm environment helps you forget the winter cold outside."
+                "en": "Linger in the heated exhibition and enjoy the craft masterpieces; the warm environment helps you forget the winter cold outside.",
+                "fr": "Flânez dans l'exposition chauffée et admirez les chefs-d'œuvre de l'artisanat ; l'atmosphère chaude vous fait oublier le froid hivernal à l'extérieur."
               }
             },
             {
@@ -1129,13 +1256,15 @@
                 "de": "Au Ptit-Cro Magnon",
                 "hu": "Au Ptit-Cro Magnon",
                 "ro": "Au Ptit-Cro Magnon",
-                "en": "Au Ptit-Cro Magnon"
+                "en": "Au Ptit-Cro Magnon",
+                "fr": "Au Ptit-Cro Magnon"
               },
               "tip_5lang": {
                 "de": "Der ideale Ort, um sich vor der Rückfahrt im Dunkeln zu stärken; genießen Sie die wohlige Wärme und die familiäre Umgebung.",
                 "hu": "Ideális hely a feltöltődésre a sötétben való visszaindulás előtt; élvezze a barátságos meleget és a családias környezetet.",
                 "ro": "Locul ideal pentru reîncărcare înainte de plecarea pe întuneric; bucurați-vă de căldura primitoare și de mediul familial.",
-                "en": "The ideal place to recharge before heading back in the dark; enjoy the welcoming warmth and the family-friendly environment."
+                "en": "The ideal place to recharge before heading back in the dark; enjoy the welcoming warmth and the family-friendly environment.",
+                "fr": "Le lieu idéal pour se recharger avant de repartir dans la nuit ; profitez de la chaleur accueillante et de l'ambiance familiale."
               }
             }
           ]

@@ -21,7 +21,8 @@
             "de": "Bassin de Takis",
             "hu": "Takis-medence",
             "ro": "Bassin de Takis",
-            "en": "Bassin de Takis"
+            "en": "Bassin de Takis",
+            "fr": "Bassin de Takis"
           },
           "coords": [
             2.245,
@@ -36,7 +37,8 @@
             "de": "Perfekter Ort für Fotos der Spiegelungen.",
             "hu": "Tökéletes hely a felhőkarcolók tükröződéséhez.",
             "ro": "Locul perfect pentru fotografii cu reflexii.",
-            "en": "Perfect spot for skyscraper reflection photos."
+            "en": "Perfect spot for skyscraper reflection photos.",
+            "fr": "Endroit parfait pour des photos de reflets de gratte‑ciel."
           }
         },
         {
@@ -44,7 +46,8 @@
             "de": "Tour First",
             "hu": "Tour First torony",
             "ro": "Tour First",
-            "en": "Tour First"
+            "en": "Tour First",
+            "fr": "Tour First"
           },
           "coords": [
             2.251,
@@ -59,7 +62,8 @@
             "de": "Frankreichs höchster Wolkenkratzer.",
             "hu": "Franciaország legmagasabb felhőkarcolója.",
             "ro": "Cel mai înalt zgârie-nori din Franța.",
-            "en": "The tallest skyscraper in France."
+            "en": "The tallest skyscraper in France.",
+            "fr": "Le plus haut gratte‑ciel de France."
           }
         },
         {
@@ -67,7 +71,8 @@
             "de": "Fontaine Agam",
             "hu": "Agam-szökőkút",
             "ro": "Fontaine Agam",
-            "en": "Fontaine Agam"
+            "en": "Fontaine Agam",
+            "fr": "Fontaine Agam"
           },
           "coords": [
             2.242,
@@ -82,7 +87,8 @@
             "de": "Warten Sie auf das Wasserspiel zur vollen Stunde.",
             "hu": "Várja meg a vízijátékot minden egész órakor.",
             "ro": "Așteptați spectacolul de apă la oră fixă.",
-            "en": "Wait for the water show on the hour."
+            "en": "Wait for the water show on the hour.",
+            "fr": "Attendez le spectacle d'eau à l'heure juste."
           }
         },
         {
@@ -90,7 +96,8 @@
             "de": "Le Pouce",
             "hu": "A Hüvelykujj (Le Pouce)",
             "ro": "Le Pouce (Degetul Mare)",
-            "en": "Le Pouce (The Thumb)"
+            "en": "Le Pouce (The Thumb)",
+            "fr": "Le Pouce (The Thumb)"
           },
           "coords": [
             2.24,
@@ -105,7 +112,8 @@
             "de": "Césars berühmte 12 Meter hohe Skulptur.",
             "hu": "César híres 12 méter magas szobra.",
             "ro": "Celebra sculptură de 12 metri a lui César.",
-            "en": "César's famous 12-meter high sculpture."
+            "en": "César's famous 12-meter high sculpture.",
+            "fr": "La célèbre sculpture de César, haute de 12 mètres."
           }
         },
         {
@@ -113,7 +121,8 @@
             "de": "Grande Arche",
             "hu": "Grande Arche",
             "ro": "Marele Arc",
-            "en": "Grande Arche"
+            "en": "Grande Arche",
+            "fr": "Grande Arche"
           },
           "coords": [
             2.236,
@@ -128,7 +137,8 @@
             "de": "Ein fast perfekter hohler Würfel aus Marmor.",
             "hu": "Egy szinte tökéletes, márványból készült üreges kocka.",
             "ro": "Un cub gol aproape perfect din marmură.",
-            "en": "An almost perfect hollow cube made of marble."
+            "en": "An almost perfect hollow cube made of marble.",
+            "fr": "Un cube creux presque parfait en marbre."
           }
         },
         {
@@ -136,7 +146,8 @@
             "de": "Les Quatre Temps",
             "hu": "Les Quatre Temps bevásárlóközpont",
             "ro": "Les Quatre Temps",
-            "en": "Les Quatre Temps"
+            "en": "Les Quatre Temps",
+            "fr": "Les Quatre Temps"
           },
           "coords": [
             2.238,
@@ -151,7 +162,8 @@
             "de": "Ideal für ein Mittagessen in der obersten Etage.",
             "hu": "Ideális ebédhez a legfelső szinten.",
             "ro": "Ideal pentru prânz la ultimul etaj.",
-            "en": "Ideal for lunch on the top floor."
+            "en": "Ideal for lunch on the top floor.",
+            "fr": "Idéal pour déjeuner au dernier étage."
           }
         },
         {
@@ -159,7 +171,8 @@
             "de": "Morettis Schornstein",
             "hu": "Moretti-kémény",
             "ro": "Le Cheminée de Moretti",
-            "en": "Moretti's Chimney"
+            "en": "Moretti's Chimney",
+            "fr": "Moretti's Chimney"
           },
           "coords": [
             2.253,
@@ -174,7 +187,8 @@
             "de": "Mit 672 bunten Glasröhren verkleidet.",
             "hu": "672 színes üvegcsővel borított építmény.",
             "ro": "Acoperit cu 672 de tuburi de sticlă colorate.",
-            "en": "Covered with 672 colorful glass tubes."
+            "en": "Covered with 672 colorful glass tubes.",
+            "fr": "Recouverte de 672 tubes de verre colorés."
           }
         }
       ],
@@ -182,7 +196,8 @@
         "de": "Beginnen Sie Ihren Morgen am Bassin de Takis mit Blick auf den Eiffelturm in der Ferne. Spazieren Sie entlang der Esplanade zu den Wolkenkratzern. Mittags erkunden Sie die monumentale Grande Arche und genießen eine Pause im Einkaufszentrum Quatre Temps. Den Nachmittag verbringen Sie zwischen moderner Kunst und farbenfrohen Skulpturen.",
         "hu": "Kezdje a reggelt a Takis-medencénél, ahonnan távolról az Eiffel-torony is látszik. Sétáljon végig az esplanádon a felhőkarcolók között. Délben fedezze fel a monumentális Grande Arche-ot, és tartson szünetet a Quatre Temps bevásárlóközpontban. A délutánt modern művészeti alkotások és színes szobrok felfedezésével töltheti.",
         "ro": "Începeți dimineața la Bassin de Takis, cu vedere spre Turnul Eiffel în depărtare. Plimbați-vă de-a lungul esplanadei printre zgârie-nori. La prânz, explorați monumentalul Mare Arc și bucurați-vă de o pauză în centrul comercial Quatre Temps. Petreceți după-amiaza descoperind arta modernă și sculpturile colorate.",
-        "en": "Start your morning at the Bassin de Takis with a view of the Eiffel Tower in the distance. Stroll along the esplanade among the skyscrapers. At noon, explore the monumental Grande Arche and enjoy a break in the Quatre Temps shopping mall. Spend the afternoon discovering modern art and colorful sculptures."
+        "en": "Start your morning at the Bassin de Takis with a view of the Eiffel Tower in the distance. Stroll along the esplanade among the skyscrapers. At noon, explore the monumental Grande Arche and enjoy a break in the Quatre Temps shopping mall. Spend the afternoon discovering modern art and colorful sculptures.",
+        "fr": "Commencez votre matinée au Bassin de Takis avec vue sur la Tour Eiffel au loin. Promenez‑vous le long de l'esplanade entre les gratte‑ciel. À midi, explorez la monumentale Grande Arche et faites une pause au centre commercial Les Quatre Temps. Passez l'après‑midi à découvrir l'art moderne et les sculptures colorées."
       },
       "gastro_picks": {
         "de": [
@@ -342,6 +357,12 @@
           "Visit the district on weekdays for a true business vibe.",
           "The Grande Arche observation deck is often reserved for events, check ahead.",
           "Use Metro line 1 to Esplanade de la Défense for the best starting point."
+        ],
+        "fr": [
+          "Portez des chaussures confortables car l'esplanade est immense.",
+          "Visitez le quartier en semaine pour une vraie ambiance d'affaires.",
+          "Le belvédère de la Grande Arche est souvent réservé pour des événements, renseignez‑vous à l'avance.",
+          "Prenez la ligne 1 du métro jusqu'à Esplanade de la Défense pour le meilleur point de départ."
         ]
       }
     },
@@ -358,7 +379,8 @@
             "de": "Bassin de Takis",
             "hu": "Takis-medence",
             "ro": "Bassin de Takis",
-            "en": "Bassin de Takis"
+            "en": "Bassin de Takis",
+            "fr": "Bassin de Takis"
           },
           "coords": [
             2.245,
@@ -373,7 +395,8 @@
             "de": "Startpunkt an der Esplanade.",
             "hu": "Kiindulópont az esplanádon.",
             "ro": "Punct de pornire pe esplanadă.",
-            "en": "Starting point on the esplanade."
+            "en": "Starting point on the esplanade.",
+            "fr": "Point de départ sur l'esplanade."
           }
         },
         {
@@ -381,7 +404,8 @@
             "de": "Morettis Schornstein",
             "hu": "Moretti-kémény",
             "ro": "Le Cheminée de Moretti",
-            "en": "Moretti's Chimney"
+            "en": "Moretti's Chimney",
+            "fr": "Moretti's Chimney"
           },
           "coords": [
             2.253,
@@ -396,7 +420,8 @@
             "de": "Bunte Säule am östlichen Ende.",
             "hu": "Színes oszlop a keleti végen.",
             "ro": "Coloană colorată la capătul estic.",
-            "en": "Colorful column at the eastern end."
+            "en": "Colorful column at the eastern end.",
+            "fr": "Colonne colorée à l'extrémité est."
           }
         },
         {
@@ -404,7 +429,8 @@
             "de": "Tour First",
             "hu": "Tour First torony",
             "ro": "Tour First",
-            "en": "Tour First"
+            "en": "Tour First",
+            "fr": "Tour First"
           },
           "coords": [
             2.251,
@@ -419,7 +445,8 @@
             "de": "Gigant aus Glas und Stahl.",
             "hu": "Üveg és acél óriás.",
             "ro": "Gigant din sticlă și oțel.",
-            "en": "Giant of glass and steel."
+            "en": "Giant of glass and steel.",
+            "fr": "Géant de verre et d'acier."
           }
         },
         {
@@ -427,7 +454,8 @@
             "de": "Fontaine Agam",
             "hu": "Agam-szökőkút",
             "ro": "Fontaine Agam",
-            "en": "Fontaine Agam"
+            "en": "Fontaine Agam",
+            "fr": "Fontaine Agam"
           },
           "coords": [
             2.242,
@@ -442,7 +470,8 @@
             "de": "Kinetische Kunst mit Wasser.",
             "hu": "Kinetikus művészet vízzel.",
             "ro": "Artă cinetică cu apă.",
-            "en": "Kinetic art with water."
+            "en": "Kinetic art with water.",
+            "fr": "Art cinétique avec de l'eau."
           }
         },
         {
@@ -450,7 +479,8 @@
             "de": "Cœur Défense",
             "hu": "Cœur Défense",
             "ro": "Cœur Défense",
-            "en": "Cœur Défense"
+            "en": "Cœur Défense",
+            "fr": "Cœur Défense"
           },
           "coords": [
             2.241,
@@ -465,7 +495,8 @@
             "de": "Europas größtes Bürogebäude.",
             "hu": "Európa legnagyobb irodaépülete.",
             "ro": "Cea mai mare clădire de birouri din Europa.",
-            "en": "Europe's largest office building."
+            "en": "Europe's largest office building.",
+            "fr": "Le plus grand immeuble de bureaux d'Europe."
           }
         },
         {
@@ -473,7 +504,8 @@
             "de": "Le Pouce",
             "hu": "Le Pouce szobor",
             "ro": "Le Pouce",
-            "en": "Le Pouce"
+            "en": "Le Pouce",
+            "fr": "Le Pouce"
           },
           "coords": [
             2.24,
@@ -488,7 +520,8 @@
             "de": "Das Wahrzeichen hinter dem CNIT.",
             "hu": "Jellegzetes szobor a CNIT mögött.",
             "ro": "Simbolul din spatele CNIT.",
-            "en": "The landmark behind CNIT."
+            "en": "The landmark behind CNIT.",
+            "fr": "Le monument derrière le CNIT."
           }
         },
         {
@@ -496,7 +529,8 @@
             "de": "Grande Arche",
             "hu": "Grande Arche",
             "ro": "Marele Arc",
-            "en": "Grande Arche"
+            "en": "Grande Arche",
+            "fr": "Grande Arche"
           },
           "coords": [
             2.236,
@@ -511,7 +545,8 @@
             "de": "Endpunkt der historischen Achse.",
             "hu": "A történelmi tengely végpontja.",
             "ro": "Punctul final al axei istorice.",
-            "en": "End point of the historical axis."
+            "en": "End point of the historical axis.",
+            "fr": "Point d'arrivée de l'axe historique."
           }
         },
         {
@@ -519,7 +554,8 @@
             "de": "Les Quatre Temps",
             "hu": "Les Quatre Temps",
             "ro": "Les Quatre Temps",
-            "en": "Les Quatre Temps"
+            "en": "Les Quatre Temps",
+            "fr": "Les Quatre Temps"
           },
           "coords": [
             2.238,
@@ -534,7 +570,8 @@
             "de": "Entspannung nach der Tour.",
             "hu": "Kikapcsolódás a túra után.",
             "ro": "Relaxare după tur.",
-            "en": "Relaxation after the tour."
+            "en": "Relaxation after the tour.",
+            "fr": "Détente après la visite."
           }
         }
       ],
@@ -542,7 +579,8 @@
         "de": "Erkunden Sie La Défense auf dem Fahrrad entlang der breiten Esplanade. Starten Sie im Osten und fahren Sie an beeindruckenden Kunstwerken wie dem Fontaine Agam vorbei bis zur Grande Arche. Die flache, autofreie Zone ist ideal für eine entspannte Tour zwischen den Glasriesen.",
         "hu": "Fedezze fel a La Défense-t kerékpárral a széles esplanádon keresztül. Kezdje keleten, és tekerjen el az olyan lenyűgöző alkotások mellett, mint az Agam-szökőkút, egészen a Grande Arche-ig. A sík, autómentes zóna ideális egy kényelmes túrához az üvegóriások között.",
         "ro": "Explorați La Défense cu bicicleta de-a lungul esplanadei largi. Începeți din est și pedalați pe lângă opere de artă impresionante, cum ar fi Fontaine Agam, până la Marele Arc. Zona plată, fără mașini, este ideală pentru un tur relaxat printre giganții de sticlă.",
-        "en": "Explore La Défense by bike along the wide esplanade. Start in the east and ride past impressive artworks like the Fontaine Agam all the way to the Grande Arche. The flat, car-free zone is ideal for a relaxed tour among the glass giants."
+        "en": "Explore La Défense by bike along the wide esplanade. Start in the east and ride past impressive artworks like the Fontaine Agam all the way to the Grande Arche. The flat, car-free zone is ideal for a relaxed tour among the glass giants.",
+        "fr": "Explorez La Défense à vélo le long de la large esplanade. Commencez à l'est et passez devant des œuvres impressionnantes comme la Fontaine Agam jusqu'à la Grande Arche. La zone plate et sans voitures est idéale pour une balade détendue parmi les géants de verre."
       },
       "gastro_picks": {
         "de": [
@@ -666,6 +704,12 @@
           "Stay on the marked paths, even if the esplanade is wide.",
           "Watch out for pedestrian crowds during lunch break.",
           "Ride to the end of the Arche for a view of the suburbs."
+        ],
+        "fr": [
+          "Utilisez les stations Vélib sur l'esplanade.",
+          "Restez sur les chemins balisés, même si l'esplanade est vaste.",
+          "Faites attention aux foules de piétons pendant la pause déjeuner.",
+          "Pédalez jusqu'au bout de l'Arche pour une vue sur la banlieue."
         ]
       }
     },
@@ -682,7 +726,8 @@
             "de": "Bassin de Takis",
             "hu": "Takis-medence",
             "ro": "Bassin de Takis",
-            "en": "Bassin de Takis"
+            "en": "Bassin de Takis",
+            "fr": "Bassin de Takis"
           },
           "coords": [
             2.245,
@@ -698,7 +743,8 @@
             "de": "Parken Sie im Parkhaus Saisons.",
             "hu": "Parkoljon a Saisons parkolóházban.",
             "ro": "Parcați în parcarea Saisons.",
-            "en": "Park in the Saisons parking lot."
+            "en": "Park in the Saisons parking lot.",
+            "fr": "Garez-vous au parking Saisons."
           }
         },
         {
@@ -706,7 +752,8 @@
             "de": "Tour First",
             "hu": "Tour First torony",
             "ro": "Tour First",
-            "en": "Tour First"
+            "en": "Tour First",
+            "fr": "Tour First"
           },
           "coords": [
             2.251,
@@ -722,7 +769,8 @@
             "de": "Kurzer Fußweg vom Takis-Bassin.",
             "hu": "Rövid séta a Takis-medencétől.",
             "ro": "Scurtă plimbare de la Bassin de Takis.",
-            "en": "Short walk from Bassin de Takis."
+            "en": "Short walk from Bassin de Takis.",
+            "fr": "Courte marche depuis le Bassin de Takis."
           }
         },
         {
@@ -730,7 +778,8 @@
             "de": "Morettis Schornstein",
             "hu": "Moretti-kémény",
             "ro": "Le Cheminée de Moretti",
-            "en": "Moretti's Chimney"
+            "en": "Moretti's Chimney",
+            "fr": "Cheminée de Moretti"
           },
           "coords": [
             2.253,
@@ -746,7 +795,8 @@
             "de": "Farbklecks zwischen Glasfassaden.",
             "hu": "Színfolt az üveghomlokzatok között.",
             "ro": "O pată de culoare între fațadele de sticlă.",
-            "en": "A splash of color between glass facades."
+            "en": "A splash of color between glass facades.",
+            "fr": "Une touche de couleur entre façades en verre."
           }
         },
         {
@@ -754,7 +804,8 @@
             "de": "Fontaine Agam",
             "hu": "Agam-szökőkút",
             "ro": "Fontaine Agam",
-            "en": "Fontaine Agam"
+            "en": "Fontaine Agam",
+            "fr": "Fontaine Agam"
           },
           "coords": [
             2.242,
@@ -770,7 +821,8 @@
             "de": "Fahren Sie zum Parkhaus Centre.",
             "hu": "Hajtson a Centre parkolóházba.",
             "ro": "Mergeți la parcarea Centre.",
-            "en": "Drive to the Centre parking lot."
+            "en": "Drive to the Centre parking lot.",
+            "fr": "Dirigez-vous vers le parking Centre en voiture."
           }
         },
         {
@@ -778,7 +830,8 @@
             "de": "Grande Arche",
             "hu": "Grande Arche",
             "ro": "Marele Arc",
-            "en": "Grande Arche"
+            "en": "Grande Arche",
+            "fr": "Grande Arche"
           },
           "coords": [
             2.236,
@@ -794,7 +847,8 @@
             "de": "Das Zentrum von La Défense.",
             "hu": "La Défense központja.",
             "ro": "Centrul districtului La Défense.",
-            "en": "The heart of La Défense."
+            "en": "The heart of La Défense.",
+            "fr": "Le cœur de La Défense."
           }
         },
         {
@@ -802,7 +856,8 @@
             "de": "Le Pouce",
             "hu": "Le Pouce szobor",
             "ro": "Le Pouce",
-            "en": "Le Pouce"
+            "en": "Le Pouce",
+            "fr": "Le Pouce"
           },
           "coords": [
             2.24,
@@ -818,7 +873,8 @@
             "de": "Überraschendes Fotomotiv.",
             "hu": "Meglepő fotótéma.",
             "ro": "Subiect foto surprinzător.",
-            "en": "Surprising photo subject."
+            "en": "Surprising photo subject.",
+            "fr": "Sujet photo surprenant."
           }
         },
         {
@@ -826,7 +882,8 @@
             "de": "Les Quatre Temps",
             "hu": "Les Quatre Temps",
             "ro": "Les Quatre Temps",
-            "en": "Les Quatre Temps"
+            "en": "Les Quatre Temps",
+            "fr": "Les Quatre Temps"
           },
           "coords": [
             2.238,
@@ -842,7 +899,8 @@
             "de": "Mittagessen und Shopping vor der Abfahrt.",
             "hu": "Ebéd és vásárlás az indulás előtt.",
             "ro": "Prânz și cumpărături înainte de plecare.",
-            "en": "Lunch and shopping before departure."
+            "en": "Lunch and shopping before departure.",
+            "fr": "Déjeuner et shopping avant le départ."
           }
         }
       ],
@@ -850,7 +908,8 @@
         "de": "Nutzen Sie die Parkhäuser unter der Esplanade, um die verschiedenen Bereiche von La Défense zu erkunden. Beginnen Sie im Sektor Saisons für die Aussichtspunkte im Osten und fahren Sie dann zum Zentrum für die Grande Arche. Das Viertel ist perfekt für Cluster-Besuche geeignet.",
         "hu": "Használja az esplanád alatti parkolóházakat La Défense különböző részeinek felfedezéséhez. Kezdje a Saisons szektorban a keleti kilátópontokért, majd hajtson a központba a Grande Arche-hoz. A negyed tökéletesen alkalmas a csoportosított látogatásokra.",
         "ro": "Folosiți parcările de sub esplanadă pentru a explora diferitele sectoare din La Défense. Începeți în sectorul Saisons pentru punctele de observație din est, apoi mergeți spre centru pentru Marele Arc. Districtul este ideal pentru vizite pe clustere.",
-        "en": "Use the underground parking lots to explore the various sectors of La Défense. Start in the Saisons sector for the eastern viewpoints, then drive to the center for the Grande Arche. The district is perfectly suited for cluster visits."
+        "en": "Use the underground parking lots to explore the various sectors of La Défense. Start in the Saisons sector for the eastern viewpoints, then drive to the center for the Grande Arche. The district is perfectly suited for cluster visits.",
+        "fr": "Utilisez les parkings souterrains pour explorer les différents secteurs de La Défense. Commencez par le secteur des Saisons pour les points de vue est, puis allez au centre pour la Grande Arche. Le quartier se prête parfaitement aux visites groupées."
       },
       "gastro_picks": {
         "de": [
@@ -958,6 +1017,12 @@
           "Parking fees are high, use flat-rate offers if possible.",
           "Avoid rush hour (08:00-09:30 and 17:00-19:00) on the Boulevard Circulaire.",
           "Navigation in the tunnel under La Défense can disrupt GPS signals."
+        ],
+        "fr": [
+          "Suivez les panneaux « La Défense » puis le secteur de parking souhaité.",
+          "Les tarifs de stationnement sont élevés, utilisez les offres forfaitaires si possible.",
+          "Évitez les heures de pointe (08:00-09:30 et 17:00-19:00) sur le Boulevard Circulaire.",
+          "La navigation dans le tunnel sous La Défense peut perturber les signaux GPS."
         ]
       }
     },
@@ -974,7 +1039,8 @@
             "de": "Bassin de Takis",
             "hu": "Takis-medence",
             "ro": "Bassin de Takis",
-            "en": "Bassin de Takis"
+            "en": "Bassin de Takis",
+            "fr": "Bassin de Takis"
           },
           "coords": [
             2.245,
@@ -990,7 +1056,8 @@
             "de": "Haltestelle Esplanade de la Défense (M1).",
             "hu": "Esplanade de la Défense megálló (M1).",
             "ro": "Stația Esplanade de la Défense (M1).",
-            "en": "Esplanade de la Défense station (M1)."
+            "en": "Esplanade de la Défense station (M1).",
+            "fr": "Station Esplanade de la Défense (M1)."
           }
         },
         {
@@ -998,7 +1065,8 @@
             "de": "Tour First",
             "hu": "Tour First torony",
             "ro": "Tour First",
-            "en": "Tour First"
+            "en": "Tour First",
+            "fr": "Tour First"
           },
           "coords": [
             2.251,
@@ -1014,7 +1082,8 @@
             "de": "Markantes Gebäude am Eingang.",
             "hu": "Jellegzetes épület a bejáratnál.",
             "ro": "Clădire distinctivă la intrare.",
-            "en": "Distinctive building at the entrance."
+            "en": "Distinctive building at the entrance.",
+            "fr": "Immeuble distinctif à l'entrée."
           }
         },
         {
@@ -1022,7 +1091,8 @@
             "de": "Fontaine Agam",
             "hu": "Agam-szökőkút",
             "ro": "Fontaine Agam",
-            "en": "Fontaine Agam"
+            "en": "Fontaine Agam",
+            "fr": "Fontaine Agam"
           },
           "coords": [
             2.242,
@@ -1038,7 +1108,8 @@
             "de": "Ein Spiel aus Farben und Wasser.",
             "hu": "Színek és víz játéka.",
             "ro": "Un joc de culori și apă.",
-            "en": "A play of colors and water."
+            "en": "A play of colors and water.",
+            "fr": "Un jeu de couleurs et d'eau."
           }
         },
         {
@@ -1046,7 +1117,8 @@
             "de": "Grande Arche",
             "hu": "Grande Arche",
             "ro": "Marele Arc",
-            "en": "Grande Arche"
+            "en": "Grande Arche",
+            "fr": "Grande Arche"
           },
           "coords": [
             2.236,
@@ -1062,7 +1134,8 @@
             "de": "Haltestelle La Défense Grande Arche (M1/RER A).",
             "hu": "La Défense Grande Arche megálló (M1/RER A).",
             "ro": "Stația La Défense Grande Arche (M1/RER A).",
-            "en": "La Défense Grande Arche station (M1/RER A)."
+            "en": "La Défense Grande Arche station (M1/RER A).",
+            "fr": "Station La Défense Grande Arche (M1/RER A)."
           }
         },
         {
@@ -1070,7 +1143,8 @@
             "de": "Le Pouce",
             "hu": "Le Pouce szobor",
             "ro": "Le Pouce",
-            "en": "Le Pouce"
+            "en": "Le Pouce",
+            "fr": "Le Pouce"
           },
           "coords": [
             2.24,
@@ -1086,7 +1160,8 @@
             "de": "Berühren Sie den Daumen für Glück.",
             "hu": "Érintse meg a hüvelykujjat a szerencséért.",
             "ro": "Atingeți degetul pentru noroc.",
-            "en": "Touch the thumb for good luck."
+            "en": "Touch the thumb for good luck.",
+            "fr": "Touchez le pouce pour porter bonheur."
           }
         },
         {
@@ -1094,7 +1169,8 @@
             "de": "Les Quatre Temps",
             "hu": "Les Quatre Temps",
             "ro": "Les Quatre Temps",
-            "en": "Les Quatre Temps"
+            "en": "Les Quatre Temps",
+            "fr": "Les Quatre Temps"
           },
           "coords": [
             2.238,
@@ -1110,7 +1186,8 @@
             "de": "Direkter Zugang vom Metrobahnhof.",
             "hu": "Közvetlen bejárat a metróállomásról.",
             "ro": "Acces direct din stația de metrou.",
-            "en": "Direct access from the metro station."
+            "en": "Direct access from the metro station.",
+            "fr": "Accès direct depuis la station de métro."
           }
         }
       ],
@@ -1118,7 +1195,8 @@
         "de": "Nutzen Sie die Metrolinie 1, um schnell zwischen den beiden Enden der Esplanade zu wechseln. Steigen Sie an der 'Esplanade' aus, um die östlichen Kunstwerke zu sehen, und fahren Sie eine Station weiter zur 'Grande Arche' für das Hauptereignis. Perfekt für einen effizienten Besuch.",
         "hu": "Használja az 1-es metróvonalat, hogy gyorsan váltson az esplanád két vége között. Szálljon le az 'Esplanade' megállónál a keleti műalkotásokért, majd utazzon egy megállót a 'Grande Arche'-ig a fő látnivalóért. Tökéletes választás egy hatékony látogatáshoz.",
         "ro": "Folosiți linia 1 de metrou pentru a schimba rapid între cele două capete ale esplanadei. Coborâți la stația 'Esplanade' pentru operele de artă din est, apoi mergeți o stație până la 'Grande Arche' pentru atracția principală. Perfect pentru o vizită eficientă.",
-        "en": "Use metro line 1 to quickly switch between the two ends of the esplanade. Get off at 'Esplanade' for the eastern artworks, then go one stop to 'Grande Arche' for the main attraction. Perfect for an efficient visit."
+        "en": "Use metro line 1 to quickly switch between the two ends of the esplanade. Get off at 'Esplanade' for the eastern artworks, then go one stop to 'Grande Arche' for the main attraction. Perfect for an efficient visit.",
+        "fr": "Prenez la ligne 1 du métro pour passer rapidement d'un bout à l'autre de l'esplanade. Descendez à « Esplanade » pour les œuvres de l'est, puis une station plus loin à « Grande Arche » pour l'attraction principale. Parfait pour une visite efficace."
       },
       "gastro_picks": {
         "de": [
@@ -1226,6 +1304,12 @@
           "Buy a day ticket (Mobilis Zone 1-3) for full flexibility.",
           "RER A is often very crowded, prefer metro line 1 for short distances.",
           "Exits are labeled by sector, follow the signposts."
+        ],
+        "fr": [
+          "La ligne 1 est automatique et offre une belle vue depuis l'avant.",
+          "Achetez un ticket journée (Mobilis Zone 1-3) pour une flexibilité totale.",
+          "Le RER A est souvent très chargé, préférez la ligne 1 du métro pour les courtes distances.",
+          "Les sorties sont indiquées par secteur, suivez la signalisation."
         ]
       }
     }

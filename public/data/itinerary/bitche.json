@@ -21,7 +21,8 @@
             "de": "Straßburger Tor",
             "hu": "Strasbourgi kapu",
             "ro": "Poarta Strasbourg",
-            "en": "Strasbourg Gate"
+            "en": "Strasbourg Gate",
+            "fr": "Porte de Strasbourg"
           },
           "coords": [
             7.428129,
@@ -36,7 +37,8 @@
             "de": "Bewundern Sie die robuste Architektur dieses historischen Tores als Eingang zur alten Festungsstadt und achten Sie auf die fein geschnitzten Steinmetzarbeiten am Bogen.",
             "hu": "Csodálja meg a régi erődített város bejáratát jelző történelmi kapu robusztus építészetét, és mindenképpen szánjon egy percet a bonyolultan faragott kőműves munkákra.",
             "ro": "Admirați arhitectura robustă a acestei porți istorice care marchează intrarea în vechiul oraș fortificat și acordați-vă un moment pentru a observa sculpturile în piatră.",
-            "en": "Admire the robust architecture of this historic gateway marking the entrance to the old fortified town, and take a moment to notice the intricately carved stonework."
+            "en": "Admire the robust architecture of this historic gateway marking the entrance to the old fortified town, and take a moment to notice the intricately carved stonework.",
+            "fr": "Admirez l’architecture robuste de cette porte historique marquant l’entrée de la vieille ville fortifiée, et prenez un moment pour observer les sculptures de pierre finement ciselées."
           }
         },
         {
@@ -44,7 +46,8 @@
             "de": "Kirche Sainte-Catherine",
             "hu": "Sainte-Catherine templom",
             "ro": "Biserica Sainte-Catherine",
-            "en": "Église Sainte-Catherine"
+            "en": "Église Sainte-Catherine",
+            "fr": "Église Sainte-Catherine"
           },
           "coords": [
             7.426289,
@@ -59,7 +62,8 @@
             "de": "Betreten Sie diese wunderschöne Kirche, um die friedliche Atmosphäre und die atemberaubenden Buntglasfenster zu erleben, die im hellen Vormittagslicht am besten wirken.",
             "hu": "Lépjen be ebbe a gyönyörű templomba, hogy megtapasztalja annak nyugodt légkörét és lenyűgöző ólomüveg ablakait, amelyeket a ragyogó délelőtti napfényben érdemes megnézni.",
             "ro": "Pășiți în această biserică frumoasă pentru a experimenta atmosfera sa senină și vitraliile uimitoare, cel mai bine de observat în lumina strălucitoare a dimineții.",
-            "en": "Step inside this beautiful church to experience its serene atmosphere and stunning stained glass windows, best viewed during the bright mid-morning sunlight."
+            "en": "Step inside this beautiful church to experience its serene atmosphere and stunning stained glass windows, best viewed during the bright mid-morning sunlight.",
+            "fr": "Pénétrez dans cette belle église pour en ressentir l’atmosphère sereine et admirer les superbes vitraux, visibles au mieux en fin de matinée ensoleillée."
           }
         },
         {
@@ -67,7 +71,8 @@
             "de": "Zitadelle von Bitche",
             "hu": "Bitche Citadella",
             "ro": "Cetatea Bitche",
-            "en": "Bitche Citadel"
+            "en": "Bitche Citadel",
+            "fr": "Citadelle de Bitche"
           },
           "coords": [
             7.425851,
@@ -82,7 +87,8 @@
             "de": "Erkunden Sie diese massive Festung, die die Region jahrhundertelang verteidigt hat, und tragen Sie bequeme Schuhe, um die weitläufigen unterirdischen Gänge zu besichtigen.",
             "hu": "Fedezze fel ezt a masszív erődítményt, amely évszázadokon át védte a régiót, és viseljen kényelmes cipőt, hogy biztonságosan bejárhassa a kiterjedt földalatti járatokat.",
             "ro": "Explorați această cetate masivă care a apărat regiunea timp de secole și asigurați-vă că purtați încălțăminte confortabilă pentru a parcurge pasajele subterane extinse.",
-            "en": "Explore this massive fortress that defended the region for centuries, and make sure to wear comfortable shoes to navigate the extensive underground passages safely."
+            "en": "Explore this massive fortress that defended the region for centuries, and make sure to wear comfortable shoes to navigate the extensive underground passages safely.",
+            "fr": "Explorez cette imposante forteresse qui a défendu la région pendant des siècles, et n’oubliez pas de porter des chaussures confortables pour circuler en sécurité dans les vasts passages souterrains."
           }
         },
         {
@@ -90,7 +96,8 @@
             "de": "Kapuzinerkloster",
             "hu": "Kapucinus kolostor",
             "ro": "Mănăstirea Capucinilor",
-            "en": "Couvent des Capucins"
+            "en": "Couvent des Capucins",
+            "fr": "Couvent des Capucins"
           },
           "coords": [
             7.428311,
@@ -105,7 +112,8 @@
             "de": "Machen Sie einen ruhigen Spaziergang über das Gelände dieses ehemaligen Klosters, das das religiöse Erbe der Stadt widerspiegelt, ideal für einen Moment der Besinnung.",
             "hu": "Tegyen egy békés sétát ennek az egykori kolostornak a területén, amely a város vallási örökségét tükrözi, és tökéletes egy csendes délutáni elmélkedéshez.",
             "ro": "Faceți o plimbare pașnică pe domeniul acestei foste mănăstiri care reflectă moștenirea religioasă, perfectă pentru un moment de reflecție liniștită în timpul după-amiezii.",
-            "en": "Take a peaceful walk around the grounds of this former monastery which reflects the town's religious heritage, perfect for a moment of quiet reflection in the afternoon."
+            "en": "Take a peaceful walk around the grounds of this former monastery which reflects the town's religious heritage, perfect for a moment of quiet reflection in the afternoon.",
+            "fr": "Faites une promenade paisible autour de l’ancien monastère qui reflète le patrimoine religieux de la ville, parfait pour un moment de calme et de recueillement l’après‑midi."
           }
         },
         {
@@ -113,7 +121,8 @@
             "de": "Kapelle Saint-Louis",
             "hu": "Saint-Louis kápolna",
             "ro": "Capela Saint-Louis",
-            "en": "Chapelle Saint-Louis"
+            "en": "Chapelle Saint-Louis",
+            "fr": "Chapelle Saint‑Louis"
           },
           "coords": [
             7.430809,
@@ -128,7 +137,8 @@
             "de": "Entdecken Sie diese charmante und intime Kapelle im Stadtzentrum und informieren Sie sich vorab über die Öffnungszeiten, da hier oft kleine Gemeindeveranstaltungen stattfinden.",
             "hu": "Fedezze fel ezt a városközpontban megbúvó bájos és meghitt kápolnát, de előzetesen ellenőrizze a nyitvatartást, mivel gyakran ad otthont kisebb közösségi eseményeknek.",
             "ro": "Descoperiți această capelă fermecătoare și intimă ascunsă în centrul orașului, verificând programul în avans, deoarece găzduiește adesea evenimente comunitare mici.",
-            "en": "Discover this charming and intimate chapel tucked away in the town center, checking the local schedule in advance as it often hosts small community events or services."
+            "en": "Discover this charming and intimate chapel tucked away in the town center, checking the local schedule in advance as it often hosts small community events or services.",
+            "fr": "Découvrez cette charmante et intime chapelle nichée au centre-ville ; consultez le programme local à l’avance car elle accueille souvent de petits événements ou offices communautaires."
           }
         }
       ],
@@ -136,7 +146,8 @@
         "de": "Beginnen Sie Ihren Morgen am historischen Straßburger Tor und bewundern Sie die Überreste der Festungsvergangenheit von Bitche. Besuchen Sie danach die friedliche Kirche Sainte-Catherine. Mittags erreichen Sie das Juwel der Stadt, die imposante Zitadelle von Bitche, um ihre historischen Wurzeln zu erkunden. Beenden Sie den Nachmittag mit einem Spaziergang zum Kloster und zur Kapelle.",
         "hu": "Kezdje a reggelt a történelmi Strasbourgi kapunál, megcsodálva Bitche erődített múltjának maradványait. Nem sokkal ezután térjen be a békés Église Sainte-Catherine-be. A délidő elhozza Önt a város ékkövéhez, az impozáns Bitche Citadellához, ahol mély történelmi gyökereket fedezhet fel. Zárja a délutánt a békés Couvent és a Chapelle Saint-Louis melletti pihentető sétával a központban.",
         "ro": "Începeți dimineața la Poarta istorică Strasbourg, admirând rămășițele trecutului fortificat. Curând după, intrați în pașnica biserică Sainte-Catherine. La amiază ajungeți la bijuteria orașului, impunătoarea Cetate Bitche, unde puteți explora rădăcini istorice adânci. Încheiați după-amiaza plimbându-vă pe lângă liniștitul Couvent și Capela Saint-Louis din inima orașului.",
-        "en": "Begin your morning at the historic Strasbourg Gate, admiring the remnants of Bitche's fortified past. Soon after, step into the peaceful Église Sainte-Catherine to see its beautiful interior details. Midday brings you to the crown jewel, the imposing Bitche Citadel, where you can explore deep historical roots. Conclude your afternoon strolling by the serene Couvent and Chapelle Saint-Louis."
+        "en": "Begin your morning at the historic Strasbourg Gate, admiring the remnants of Bitche's fortified past. Soon after, step into the peaceful Église Sainte-Catherine to see its beautiful interior details. Midday brings you to the crown jewel, the imposing Bitche Citadel, where you can explore deep historical roots. Conclude your afternoon strolling by the serene Couvent and Chapelle Saint-Louis.",
+        "fr": "Commencez la matinée à la porte historique de Strasbourg, en admirant les vestiges du passé fortifié de Bitche. Ensuite, entrez dans la paisible Église Sainte‑Catherine pour voir ses beaux détails intérieurs. À midi, rendez‑vous à la pièce maîtresse, la imposante citadelle de Bitche, où vous pourrez explorer des racines historiques profondes. Concluez l’après‑midi par une promenade près du serein Couvent et de la Chapelle Saint‑Louis."
       },
       "variants": {
         "rainy": {
@@ -144,7 +155,8 @@
             "de": "Der Tag beginnt am Stadttor im sanften Regen. Mittags bietet die Kirche Wärme und Trockenheit. Am Nachmittag erkunden Sie die wetterfesten unterirdischen Gänge der Zitadelle, ein perfekter Zufluchtsort vor dem Guss. Der Abend klingt ruhig im Schutze der Kapelle Saint-Louis aus. Ein stabiler Regenschirm und wasserfeste Schuhe sind heute Ihre wichtigsten Begleiter auf den glatten Wegen.",
             "hu": "A nap a városkapu vizes kövei közt indul. Délelőtt a templom belső tere nyújt száraz menedéket. Délután a Citadella kiterjedt földalatti folyosórendszerét fedezzük fel, ahol az eső nem zavarja a látogatást. Az estét a Saint-Louis kápolna békéje zárja. A vízálló öltözet és a csúszásmentes talp ma elengedhetetlen a biztonságos városnézéshez a csúszós macskaköveken.",
             "ro": "Ziua începe la poarta orașului sub o ploaie ușoară. La prânz, biserica oferă căldură și adăpost. După-amiaza explorăm galeriile subterane ale Citadelei, locul perfect pentru a rămâne uscat în timpul averselor. Seara se încheie liniștit sub protecția Capelei Saint-Louis. O umbrelă rezistentă și încălțăminte impermeabilă sunt esențiale astăzi pe trotuarele alunecoase.",
-            "en": "The day starts at the city gate in gentle rain. At noon, the church provides warmth and dryness. In the afternoon, explore the weather-proof underground passages of the Citadel, a perfect refuge from the downpour. The evening ends quietly in the shelter of Saint-Louis Chapel. A sturdy umbrella and waterproof shoes are your most important companions today on the slippery paths."
+            "en": "The day starts at the city gate in gentle rain. At noon, the church provides warmth and dryness. In the afternoon, explore the weather-proof underground passages of the Citadel, a perfect refuge from the downpour. The evening ends quietly in the shelter of Saint-Louis Chapel. A sturdy umbrella and waterproof shoes are your most important companions today on the slippery paths.",
+            "fr": "La journée commence à la porte de la ville sous une pluie fine. À midi, l’église offre chaleur et sécheresse. L’après‑midi, explorez les passages souterrains étanches de la citadelle, parfaits pour se mettre à l’abri des averses. La soirée se termine calmement dans l’abri de la Chapelle Saint‑Louis. Un parapluie robuste et des chaussures imperméables sont vos compagnons les plus importants aujourd’hui sur les sentiers glissants."
           },
           "stops": [
             {
@@ -152,13 +164,15 @@
                 "de": "Straßburger Tor",
                 "hu": "Strasbourgi kapu",
                 "ro": "Poarta Strasbourg",
-                "en": "Strasbourg Gate"
+                "en": "Strasbourg Gate",
+                "fr": "Porte de Strasbourg"
               },
               "tip_4lang": {
                 "de": "Bewundern Sie die Architektur unter dem Schutz des Torbogens; der Sandstein ist bei Nässe sehr rutschig, gehen Sie daher besonders vorsichtig.",
                 "hu": "Csodáld meg az építészetet a kapuív védelme alatt; a homokkő esőben nagyon csúszós lehet, ezért óvatosan lépkedj a burkolaton.",
                 "ro": "Admirați arhitectura sub protecția arcadei porții; gresia este foarte alunecoasă când este udă, așa că mergeți cu mare atenție.",
-                "en": "Admire the architecture while seeking shelter under the gate's arch; the sandstone is very slippery when wet, so walk with extra care."
+                "en": "Admire the architecture while seeking shelter under the gate's arch; the sandstone is very slippery when wet, so walk with extra care.",
+                "fr": "Admirez l’architecture tout en cherchant un abri sous l’arche de la porte ; le grès devient très glissant quand il est mouillé, marchez donc avec prudence."
               }
             },
             {
@@ -166,13 +180,15 @@
                 "de": "Kirche Sainte-Catherine",
                 "hu": "Sainte-Catherine templom",
                 "ro": "Biserica Sainte-Catherine",
-                "en": "Église Sainte-Catherine"
+                "en": "Église Sainte-Catherine",
+                "fr": "Église Sainte‑Catherine"
               },
               "tip_4lang": {
                 "de": "Nutzen Sie die Stille im Inneren für eine trockene Pause; bewundern Sie die Details der Altäre, während draußen der Regen gegen die Fenster trommelt.",
                 "hu": "Használd ki a belső csendet egy száraz pihenőre; csodáld meg az oltárok részleteit, miközben odakint az eső dobol az ablakokon.",
                 "ro": "Folosiți liniștea din interior pentru o pauză uscată; admirați detaliile altarelor în timp ce afară ploaia bate în ferestre.",
-                "en": "Use the silence inside for a dry break; admire the details of the altars while the rain drums against the windows outside."
+                "en": "Use the silence inside for a dry break; admire the details of the altars while the rain drums against the windows outside.",
+                "fr": "Profitez du silence intérieur pour une pause au sec ; admirez les détails des autels pendant que la pluie tambourine contre les vitres."
               }
             },
             {
@@ -180,13 +196,15 @@
                 "de": "Zitadelle von Bitche",
                 "hu": "Bitche Citadella",
                 "ro": "Cetatea Bitche",
-                "en": "Bitche Citadel"
+                "en": "Bitche Citadel",
+                "fr": "Citadelle de Bitche"
               },
               "tip_4lang": {
                 "de": "Besuchen Sie den Multimedia-Rundgang in den unterirdischen Gängen; hier bleiben Sie garantiert trocken und erleben Geschichte hautnah.",
                 "hu": "Vegyen részt a multimédiás körúton a földalatti járatokban; itt garantáltan szárazon marad, miközben testközelből ismeri meg a történelmet.",
                 "ro": "Vizitați turul multimedia din galeriile subterane; aici veți rămâne garantat uscat în timp ce experimentați istoria de aproape.",
-                "en": "Take the multimedia tour in the underground galleries; here you are guaranteed to stay dry while experiencing history up close."
+                "en": "Take the multimedia tour in the underground galleries; here you are guaranteed to stay dry while experiencing history up close.",
+                "fr": "Faites la visite multimédia dans les galeries souterraines ; ici vous êtes assuré de rester au sec tout en vivant l’histoire de près."
               }
             },
             {
@@ -194,13 +212,15 @@
                 "de": "Kapuzinerkloster",
                 "hu": "Kapucinus kolostor",
                 "ro": "Mănăstirea Capucinilor",
-                "en": "Couvent des Capucins"
+                "en": "Couvent des Capucins",
+                "fr": "Couvent des Capucins"
               },
               "tip_4lang": {
                 "de": "Die dicken Mauern bieten hervorragenden Schutz vor dem Wind; besichtigen Sie die Kapelle und genießen Sie die spirituelle Ruhe im Trockenen.",
                 "hu": "A vastag falak kiváló védelmet nyújtanak a szél ellen; látogassa meg a kápolnát és élvezze a spirituális nyugalmat a szárazban.",
                 "ro": "Zidurile groase oferă o protecție excelentă împotriva vântului; vizitați capela și bucurați-vă de liniștea spirituală la adăpost.",
-                "en": "The thick walls provide excellent protection from the wind; visit the chapel and enjoy the spiritual peace in the dry interior."
+                "en": "The thick walls provide excellent protection from the wind; visit the chapel and enjoy the spiritual peace in the dry interior.",
+                "fr": "Les murs épais offrent une excellente protection contre le vent ; visitez la chapelle et profitez de la paix spirituelle de l’intérieur sec."
               }
             },
             {
@@ -208,13 +228,15 @@
                 "de": "Kapelle Saint-Louis",
                 "hu": "Saint-Louis kápolna",
                 "ro": "Capela Saint-Louis",
-                "en": "Chapelle Saint-Louis"
+                "en": "Chapelle Saint-Louis",
+                "fr": "Chapelle Saint‑Louis"
               },
               "tip_4lang": {
                 "de": "Beenden Sie den Tag im nahegelegenen Kristallmuseum; die gläsernen Kunstwerke funkeln bei grauem Regenwetter besonders stimmungsvoll.",
                 "hu": "Zárja a napot a közeli kristálymúzeumban; az üvegalkotások különösen hangulatosan csillognak a szürke esős időben.",
                 "ro": "Încheiați ziua la muzeul de cristal din apropiere; operele de artă din sticlă sclipesc deosebit de frumos pe vreme ploioasă.",
-                "en": "End the day at the nearby crystal museum; the glass artworks sparkle with a special atmosphere during grey rainy weather."
+                "en": "End the day at the nearby crystal museum; the glass artworks sparkle with a special atmosphere during grey rainy weather.",
+                "fr": "Terminez la journée au musée du cristal tout proche ; les œuvres en verre scintillent d’une atmosphère particulière par beau temps gris et pluvieux."
               }
             }
           ]
@@ -224,7 +246,8 @@
             "de": "Ein frostiger Morgen am Tor führt Sie zur warmen Kirche. Mittags bietet die Zitadelle dramatische Ausblicke auf die verschneite Nordvogesen-Landschaft. Da es bereits gegen 17:00 Uhr dunkel wird, nutzen Sie die hellen Stunden für die Außenanlagen und ziehen Sie sich am späten Nachmittag in die beheizten Museen zurück. Warme Kleidung in Schichten ist für die windigen Festungsmauern Pflicht.",
             "hu": "A fagyos reggel a városkapunál kezdődik, majd a templom melegében folytatódik. Délben a Citadella drámai kilátást nyújt a havas Észak-Vogézekre. Mivel 17:00 körül sötétedik, a világos órákat töltsük a várfalakon, majd húzódjunk be a fűtött múzeumba. A réteges, meleg öltözet kötelező, mert a vár bástyáin metsző szél fújhat.",
             "ro": "O dimineață geroasă la poartă vă conduce spre biserica încălzită. La prânz, Citadela oferă vederi dramatice asupra peisajului înzăpezit al Vosgilor de Nord. Deoarece se întunecă în jurul orei 17:00, folosiți orele de lumină pentru exterior și retrageți-vă în muzeele încălzite după-amiaza. Hainele groase în straturi sunt obligatorii pentru zidurile vântoase.",
-            "en": "A frosty morning at the gate leads you to the warm church. At noon, the Citadel offers dramatic views of the snowy Northern Vosges landscape. Since it gets dark around 17:00, use the daylight hours for the outdoor areas and retreat to the heated museums in the late afternoon. Warm layered clothing is mandatory for the windy fortress walls."
+            "en": "A frosty morning at the gate leads you to the warm church. At noon, the Citadel offers dramatic views of the snowy Northern Vosges landscape. Since it gets dark around 17:00, use the daylight hours for the outdoor areas and retreat to the heated museums in the late afternoon. Warm layered clothing is mandatory for the windy fortress walls.",
+            "fr": "Un matin glacé à la porte vous conduit à l’église chauffée. À midi, la citadelle offre des vues dramatiques sur le paysage enneigé des Vosges du Nord. Comme il fait déjà sombre vers 17:00, profitez des heures de lumière pour les espaces extérieurs et retirez‑vous dans les musées chauffés en fin d’après‑midi. Des vêtements chauds en couches sont indispensables pour les murs venteux de la forteresse."
           },
           "stops": [
             {
@@ -232,13 +255,15 @@
                 "de": "Straßburger Tor",
                 "hu": "Strasbourgi kapu",
                 "ro": "Poarta Strasbourg",
-                "en": "Strasbourg Gate"
+                "en": "Strasbourg Gate",
+                "fr": "Porte de Strasbourg"
               },
               "tip_4lang": {
                 "de": "Der Boden kann gefroren sein; achten Sie auf glatte Stellen an den Schattenseiten des historischen Sandsteingebäudes.",
                 "hu": "A talaj fagyos lehet; ügyeljen a jeges foltokra a történelmi homokkő épület árnyékos oldalainál.",
                 "ro": "Solul poate fi înghețat; atenție la porțiunile alunecoase de pe laturile umbrite ale clădirii istorice din gresie.",
-                "en": "The ground may be frozen; watch out for icy patches on the shaded sides of the historical sandstone building."
+                "en": "The ground may be frozen; watch out for icy patches on the shaded sides of the historical sandstone building.",
+                "fr": "Le sol peut être gelé ; attention aux plaques de verglas sur les côtés ombragés du bâtiment historique en grès."
               }
             },
             {
@@ -246,13 +271,15 @@
                 "de": "Kirche Sainte-Catherine",
                 "hu": "Sainte-Catherine templom",
                 "ro": "Biserica Sainte-Catherine",
-                "en": "Église Sainte-Catherine"
+                "en": "Église Sainte-Catherine",
+                "fr": "Église Sainte‑Catherine"
               },
               "tip_4lang": {
                 "de": "Nutzen Sie die angenehme Innentemperatur zum Aufwärmen, bevor Sie den Aufstieg zur zugigen Zitadelle antreten.",
                 "hu": "Használja ki a kellemes belső hőmérsékletet a bemelegítésre, mielőtt elindulna a huzatos Citadella felé.",
                 "ro": "Profități de temperatura plăcută din interior pentru a vă încălzi înainte de a urca spre Citadela unde bate vântul.",
-                "en": "Take advantage of the pleasant indoor temperature to warm up before starting the climb to the breezy Citadel."
+                "en": "Take advantage of the pleasant indoor temperature to warm up before starting the climb to the breezy Citadel.",
+                "fr": "Profitez de la température agréable à l’intérieur pour vous réchauffer avant d’entamer la montée vers la citadelle exposée au vent."
               }
             },
             {
@@ -260,13 +287,15 @@
                 "de": "Zitadelle von Bitche",
                 "hu": "Bitche Citadella",
                 "ro": "Cetatea Bitche",
-                "en": "Bitche Citadel"
+                "en": "Bitche Citadel",
+                "fr": "Citadelle de Bitche"
               },
               "tip_4lang": {
                 "de": "Tragen Sie eine winddichte Jacke; auf den hohen Mauern ist es deutlich kälter als im Ort, aber die Fernsicht ist im Winter oft klarer.",
                 "hu": "Viseljen szélálló kabátot; a magas várfalakon jóval hidegebb van, mint a városban, de a kilátás télen gyakran tisztább.",
                 "ro": "Purtați o jachetă rezistentă la vânt; pe zidurile înalte este mult mai frig decât în oraș, dar vizibilitatea este adesea mai clară iarna.",
-                "en": "Wear a windproof jacket; it is much colder on the high walls than in town, but the view is often clearer in winter."
+                "en": "Wear a windproof jacket; it is much colder on the high walls than in town, but the view is often clearer in winter.",
+                "fr": "Portez une veste coupe‑vent ; il fait bien plus froid sur les hauts remparts qu’en ville, mais la vue est souvent plus nette en hiver."
               }
             },
             {
@@ -274,13 +303,15 @@
                 "de": "Kapuzinerkloster",
                 "hu": "Kapucinus kolostor",
                 "ro": "Mănăstirea Capucinilor",
-                "en": "Couvent des Capucins"
+                "en": "Couvent des Capucins",
+                "fr": "Couvent des Capucins"
               },
               "tip_4lang": {
                 "de": "Genießen Sie die frühe Dämmerung in der Kapelle; das Kerzenlicht sorgt für eine besonders besinnliche Winteratmosphäre.",
                 "hu": "Élvezze a korai szürkületet a kápolnában; a gyertyafény különlegesen meghitt téli hangulatot áraszt.",
                 "ro": "Bucurați-vă de amurgul timpuriu în capelă; lumina lumânărilor creează o atmosferă de iarnă deosebit de meditativă.",
-                "en": "Enjoy the early twilight in the chapel; the candlelight creates a particularly contemplative winter atmosphere."
+                "en": "Enjoy the early twilight in the chapel; the candlelight creates a particularly contemplative winter atmosphere.",
+                "fr": "Appréciez le crépuscule précoce dans la chapelle ; la lumière des bougies crée une atmosphère hivernale particulièrement contemplative."
               }
             },
             {
@@ -288,13 +319,15 @@
                 "de": "Kapelle Saint-Louis",
                 "hu": "Saint-Louis kápolna",
                 "ro": "Capela Saint-Louis",
-                "en": "Chapelle Saint-Louis"
+                "en": "Chapelle Saint-Louis",
+                "fr": "Chapelle Saint‑Louis"
               },
               "tip_4lang": {
                 "de": "Da es um 17:00 Uhr bereits dunkel ist, ist dies der ideale Ort für einen stimmungsvollen Abschluss des Tages im Warmen.",
                 "hu": "Mivel 17:00-kor már sötét van, ez az ideális helyszín a nap hangulatos és meleg lezárásához.",
                 "ro": "Deoarece la ora 17:00 este deja întuneric, acesta este locul ideal pentru un final de zi atmosferic la căldură.",
-                "en": "Since it is already dark by 17:00, this is the ideal location for an atmospheric and warm conclusion to the day."
+                "en": "Since it is already dark by 17:00, this is the ideal location for an atmospheric and warm conclusion to the day.",
+                "fr": "Puisqu’il fait déjà nuit à 17:00, c’est l’endroit idéal pour une conclusion de journée chaleureuse et atmosphérique."
               }
             }
           ]
@@ -314,7 +347,8 @@
             "de": "Kapelle des Collège Saint-Augustin",
             "hu": "Saint-Augustin Kollégium kápolnája",
             "ro": "Capela Colegiului Saint-Augustin",
-            "en": "Chapelle du Collège Saint-Augustin"
+            "en": "Chapelle du Collège Saint-Augustin",
+            "fr": "Chapelle du Collège Saint‑Augustin"
           },
           "coords": [
             7.42486,
@@ -329,7 +363,8 @@
             "de": "Bestaunen Sie die klassische Eleganz dieser Stiftskapelle mit ihrem beeindruckenden Bildungserbe und kommen Sie früh, um den ruhigen Innenhof vor dem Trubel zu genießen.",
             "hu": "Csodálja meg ennek a kollégiumi kápolnának a klasszikus eleganciáját és lenyűgöző oktatási örökségét, érkezzen korán, hogy élvezhesse a csendes udvart a diákok előtt.",
             "ro": "Minunați-vă de eleganța clasică a acestei capele colegiale cu moștenirea sa educațională impresionantă, sosind devreme pentru a vă bucura de curtea liniștită.",
-            "en": "Marvel at the classical elegance of this collegiate chapel with its impressive educational legacy, arriving early to enjoy the quiet courtyard before students fill the area."
+            "en": "Marvel at the classical elegance of this collegiate chapel with its impressive educational legacy, arriving early to enjoy the quiet courtyard before students fill the area.",
+            "fr": "Émerveillez‑vous devant l’élégance classique de cette chapelle collégiale au riche héritage éducatif ; arrivez tôt pour profiter du calme de la cour avant que les étudiants n’investissent les lieux."
           }
         },
         {
@@ -337,7 +372,8 @@
             "de": "Straßburger Tor",
             "hu": "Strasbourgi kapu",
             "ro": "Poarta Strasbourg",
-            "en": "Strasbourg Gate"
+            "en": "Strasbourg Gate",
+            "fr": "Porte de Strasbourg"
           },
           "coords": [
             7.428129,
@@ -352,7 +388,8 @@
             "de": "Bewundern Sie die robuste Architektur dieses historischen Tores als Eingang zur alten Festungsstadt und achten Sie auf die fein geschnitzten Steinmetzarbeiten am Bogen.",
             "hu": "Csodálja meg a régi erődített város bejáratát jelző történelmi kapu robusztus építészetét, és mindenképpen szánjon egy percet a bonyolultan faragott kőműves munkákra.",
             "ro": "Admirați arhitectura robustă a acestei porți istorice care marchează intrarea în vechiul oraș fortificat și acordați-vă un moment pentru a observa sculpturile în piatră.",
-            "en": "Admire the robust architecture of this historic gateway marking the entrance to the old fortified town, and take a moment to notice the intricately carved stonework."
+            "en": "Admire the robust architecture of this historic gateway marking the entrance to the old fortified town, and take a moment to notice the intricately carved stonework.",
+            "fr": "Admirez l’architecture robuste de cette porte historique marquant l’entrée de la vieille ville fortifiée, et prenez un moment pour observer les sculptures de pierre finement ciselées."
           }
         },
         {
@@ -360,7 +397,8 @@
             "de": "Zitadelle von Bitche",
             "hu": "Bitche Citadella",
             "ro": "Cetatea Bitche",
-            "en": "Bitche Citadel"
+            "en": "Bitche Citadel",
+            "fr": "Citadelle de Bitche"
           },
           "coords": [
             7.425851,
@@ -375,7 +413,8 @@
             "de": "Erkunden Sie diese massive Festung, die die Region jahrhundertelang verteidigt hat, und tragen Sie bequeme Schuhe, um die weitläufigen unterirdischen Gänge zu besichtigen.",
             "hu": "Fedezze fel ezt a masszív erődítményt, amely évszázadokon át védte a régiót, és viseljen kényelmes cipőt, hogy biztonságosan bejárhassa a kiterjedt földalatti járatokat.",
             "ro": "Explorați această cetate masivă care a apărat regiunea timp de secole și asigurați-vă că purtați încălțăminte confortabilă pentru a parcurge pasajele subterane extinse.",
-            "en": "Explore this massive fortress that defended the region for centuries, and make sure to wear comfortable shoes to navigate the extensive underground passages safely."
+            "en": "Explore this massive fortress that defended the region for centuries, and make sure to wear comfortable shoes to navigate the extensive underground passages safely.",
+            "fr": "Explorez cette massive forteresse qui a défendu la région pendant des siècles, et veillez à porter des chaussures confortables pour naviguer en sécurité dans les vastes passages souterrains."
           }
         },
         {
@@ -383,7 +422,8 @@
             "de": "Kirche Sainte-Catherine",
             "hu": "Sainte-Catherine templom",
             "ro": "Biserica Sainte-Catherine",
-            "en": "Église Sainte-Catherine"
+            "en": "Église Sainte-Catherine",
+            "fr": "Église Sainte‑Catherine"
           },
           "coords": [
             7.426289,
@@ -398,7 +438,8 @@
             "de": "Betreten Sie diese wunderschöne Kirche, um die friedliche Atmosphäre und die atemberaubenden Buntglasfenster zu erleben, die im hellen Vormittagslicht am besten wirken.",
             "hu": "Lépjen be ebbe a gyönyörű templomba, hogy megtapasztalja annak nyugodt légkörét és lenyűgöző ólomüveg ablakait, amelyeket a ragyogó délelőtti napfényben érdemes megnézni.",
             "ro": "Pășiți în această biserică frumoasă pentru a experimenta atmosfera sa senină și vitraliile uimitoare, cel mai bine de observat în lumina strălucitoare a dimineții.",
-            "en": "Step inside this beautiful church to experience its serene atmosphere and stunning stained glass windows, best viewed during the bright mid-morning sunlight."
+            "en": "Step inside this beautiful church to experience its serene atmosphere and stunning stained glass windows, best viewed during the bright mid-morning sunlight.",
+            "fr": "Pénétrez dans cette belle église pour ressentir son atmosphère sereine et admirer ses vitraux magnifiques, mieux vus pendant le lumineux milieu de matinée."
           }
         },
         {
@@ -406,7 +447,8 @@
             "de": "Hasselfurther Weiher",
             "hu": "Hasselfurth-tó",
             "ro": "Iazul Hasselfurth",
-            "en": "Hasselfurth Pond"
+            "en": "Hasselfurth Pond",
+            "fr": "Étang d’Hasselfurth"
           },
           "coords": [
             7.441107,
@@ -421,7 +463,8 @@
             "de": "Entspannen Sie sich am ruhigen Wasser dieses malerischen, von Wald umgebenen Teiches und mieten Sie vielleicht ein kleines Boot für einen idyllischen Ausflug in die Natur.",
             "hu": "Pihenjen ennek a festői, buja erdővel körülvett tónak a nyugodt vizeinél, és érdemes csónakot bérelni vagy végigsétálni a kikövezett ösvényen a lenyűgöző látványért.",
             "ro": "Relaxați-vă pe malul apelor liniștite ale acestui iaz pitoresc înconjurat de pădure și luați în considerare închirierea unei bărci pentru o evadare pitorească în natură.",
-            "en": "Relax by the tranquil waters of this picturesque pond surrounded by lush forest, and consider renting a small boat or walking the paved path for a scenic nature escape."
+            "en": "Relax by the tranquil waters of this picturesque pond surrounded by lush forest, and consider renting a small boat or walking the paved path for a scenic nature escape.",
+            "fr": "Détendez‑vous au bord des eaux tranquilles de cet étang pittoresque entouré d’une forêt luxuriante ; pensez à louer une petite barque ou à emprunter le chemin pavé pour une escapade nature agréable."
           }
         }
       ],
@@ -429,7 +472,8 @@
         "de": "Beginnen Sie Ihre Radtour an der eleganten Kapelle des Collège Saint-Augustin. Eine kurze Fahrt führt zum historischen Straßburger Tor. Am späten Vormittag steigen Sie zur Zitadelle von Bitche auf. Nach einem kurzen Halt an der Église Sainte-Catherine radeln Sie ins Grüne zum Hasselfurther Weiher und verbringen einen entspannten, von Natur geprägten Nachmittag am friedlichen Wasser.",
         "hu": "Kezdje kerékpáros útvonalát az elegáns Chapelle du Collège Saint-Augustin-nél. Egy gyors tekerés a történelmi Strasbourgi kapuhoz vezet. Késő délelőtt emelkedjen fel a Bitche Citadellához, majd egy rövid megálló után a Sainte-Catherine templomnál, pedálozzon ki a Hasselfurth-tó körüli buja növényzetbe, egy pihentető, természettel teli délutáni pihenéshez a csodás vízparton.",
         "ro": "Începeți traseul cu bicicleta la eleganta Capelă a Colegiului Saint-Augustin. O scurtă plimbare duce la Poarta istorică Strasbourg. Mai târziu, urcați la Cetatea Bitche pentru o lecție de istorie. După o scurtă oprire la Biserica Sainte-Catherine, pedalați spre verdeața luxuriantă din jurul iazului Hasselfurth pentru o după-amiază relaxantă și plină de natură lângă apă.",
-        "en": "Start your cycling route at the elegant Chapelle du Collège Saint-Augustin. A quick ride leads to the historic Strasbourg Gate. By late morning, ascend to the Bitche Citadel for a deep dive into military history. After a brief stop at Église Sainte-Catherine, pedal outwards into the lush greenery surrounding Hasselfurth Pond for a relaxing, nature-filled afternoon by the water."
+        "en": "Start your cycling route at the elegant Chapelle du Collège Saint-Augustin. A quick ride leads to the historic Strasbourg Gate. By late morning, ascend to the Bitche Citadel for a deep dive into military history. After a brief stop at Église Sainte-Catherine, pedal outwards into the lush greenery surrounding Hasselfurth Pond for a relaxing, nature-filled afternoon by the water.",
+        "fr": "Commencez votre itinéraire cycliste à la élégante Chapelle du Collège Saint‑Augustin. Une courte balade mène à la porte historique de Strasbourg. En fin de matinée, montez à la Citadelle de Bitche pour une plongée dans l’histoire militaire. Après un bref arrêt à l’Église Sainte‑Catherine, pédalez vers la verdure environnante de l’Étang d’Hasselfurth pour un après‑midi relaxant au bord de l’eau."
       },
       "variants": {
         "rainy": {
@@ -437,7 +481,8 @@
             "de": "Ein regnerischer Radtag beginnt an der geschützten Kapelle Saint-Augustin. Die Fahrt durch Bitche erfordert bei Nässe Vorsicht, besonders auf dem Kopfsteinpflaster am Stadttor. Mittags bietet die Zitadelle einen trockenen Stopp für eine Besichtigung. Den Nachmittag verbringen wir am mystischen, verregneten Hasselfurther Weiher. Achten Sie auf gute Bremsen und wasserdichte Packtaschen.",
             "hu": "Az esős kerékpáros nap a védett Saint-Augustin kápolnánál indul. A városi tekerés óvatosságot igényel a nedves macskaköveken a kapunál. Délben a Citadella kínál száraz pihenőt a látogatáshoz. A délutánt a misztikus, eső áztatta Hasselfurth-tónál töltjük. Ügyeljen a jó fékekre és a vízálló táskákra a felszerelés védelme érdekében.",
             "ro": "O zi ploioasă cu bicicleta începe la capela protejată Saint-Augustin. Pedalarea prin Bitche necesită prudență pe pavajul umed de la poartă. La prânz, Citadela oferă o oprire uscată pentru vizitare. După-amiaza o petrecem la lacul Hasselfurth, plin de mister sub ploaie. Asigurați-vă că aveți frâne bune și genți impermeabile.",
-            "en": "A rainy cycling day starts at the sheltered Saint-Augustin chapel. Riding through Bitche requires caution on wet cobblestones near the gate. At noon, the Citadel offers a dry stop for a visit. Spend the afternoon at the mystical, rain-soaked Hasselfurth Pond. Ensure you have good brakes and waterproof panniers to protect your gear."
+            "en": "A rainy cycling day starts at the sheltered Saint-Augustin chapel. Riding through Bitche requires caution on wet cobblestones near the gate. At noon, the Citadel offers a dry stop for a visit. Spend the afternoon at the mystical, rain-soaked Hasselfurth Pond. Ensure you have good brakes and waterproof panniers to protect your gear.",
+            "fr": "Une journée cycliste pluvieuse commence à l’abri de la chapelle Saint‑Augustin. Rouler à travers Bitche exige de la prudence sur les pavés mouillés près de la porte. À midi, la citadelle offre une halte au sec pour une visite. Passez l’après‑midi au mystérieux étang d’Hasselfurth, trempé par la pluie. Assurez‑vous d’avoir de bons freins et des sacoches imperméables pour protéger votre équipement."
           },
           "stops": [
             {
@@ -445,13 +490,15 @@
                 "de": "Kapelle des Collège Saint-Augustin",
                 "hu": "Saint-Augustin Kollégium kápolnája",
                 "ro": "Capela Colegiului Saint-Augustin",
-                "en": "Chapelle du Collège Saint-Augustin"
+                "en": "Chapelle du Collège Saint-Augustin",
+                "fr": "Chapelle du Collège Saint‑Augustin"
               },
               "tip_4lang": {
                 "de": "Nutzen Sie das Vordach, um Ihre Regenausrüstung final zu prüfen, bevor Sie in die Pedale treten.",
                 "hu": "Használja az előtetőt az esőfelszerelés utolsó ellenőrzésére, mielőtt útnak indulna.",
                 "ro": "Folosiți copertina pentru a verifica final echipamentul de ploaie înainte de a începe să pedalați.",
-                "en": "Use the porch to perform a final check on your rain gear before you start pedaling."
+                "en": "Use the porch to perform a final check on your rain gear before you start pedaling.",
+                "fr": "Utilisez le porche pour vérifier une dernière fois votre équipement de pluie avant de vous mettre en selle."
               }
             },
             {
@@ -459,13 +506,15 @@
                 "de": "Straßburger Tor",
                 "hu": "Strasbourgi kapu",
                 "ro": "Poarta Strasbourg",
-                "en": "Strasbourg Gate"
+                "en": "Strasbourg Gate",
+                "fr": "Porte de Strasbourg"
               },
               "tip_4lang": {
                 "de": "Fahren Sie hier besonders langsam; die nassen Pflastersteine unter dem Tor sind extrem rutschig für schmale Reifen.",
                 "hu": "Itt tekerjen különösen lassan; a kapu alatti nedves macskakövek rendkívül csúszósak a keskeny gumiabroncsoknak.",
                 "ro": "Pedalați foarte încet aici; pavajul umed de sub poartă este extrem de alunecos pentru anvelopele înguste.",
-                "en": "Ride extra slowly here; the wet cobblestones under the gate are extremely slippery for narrow bike tires."
+                "en": "Ride extra slowly here; the wet cobblestones under the gate are extremely slippery for narrow bike tires.",
+                "fr": "Roulez très lentement ici ; les pavés mouillés sous la porte sont extrêmement glissants pour les pneus étroits des vélos."
               }
             },
             {
@@ -473,13 +522,15 @@
                 "de": "Zitadelle von Bitche",
                 "hu": "Bitche Citadella",
                 "ro": "Cetatea Bitche",
-                "en": "Bitche Citadel"
+                "en": "Bitche Citadel",
+                "fr": "Citadelle de Bitche"
               },
               "tip_4lang": {
                 "de": "Stellen Sie Ihr Rad am Eingang unter und nutzen Sie die Zeit für den trockenen Museumsbesuch in der Festung.",
                 "hu": "Parkolja le kerékpárját az entrance-nál fedett helyen, és használja ki az időt a vár száraz múzeumi látogatására.",
                 "ro": "Parcați bicicleta la intrare sub adăpost și folosiți timpul pentru vizitarea muzeului uscat din interiorul cetății.",
-                "en": "Park your bike under cover at the entrance and spend the time visiting the dry museum inside the fortress."
+                "en": "Park your bike under cover at the entrance and spend the time visiting the dry museum inside the fortress.",
+                "fr": "Garez votre vélo sous abri à l’entrée et profitez-en pour visiter le musée sec à l’intérieur de la forteresse."
               }
             },
             {
@@ -487,13 +538,15 @@
                 "de": "Kirche Sainte-Catherine",
                 "hu": "Sainte-Catherine templom",
                 "ro": "Biserica Sainte-Catherine",
-                "en": "Église Sainte-Catherine"
+                "en": "Église Sainte-Catherine",
+                "fr": "Église Sainte‑Catherine"
               },
               "tip_4lang": {
                 "de": "Ein idealer Ort, um die nassen Handschuhe kurz auszuziehen und sich in der Stille der Kirche aufzuwärmen.",
                 "hu": "Ideális hely a vizes kesztyűk rövid levételére és a templom csendjében való bemelegítésre.",
                 "ro": "Un loc ideal pentru a vă scoate scurt mănușile ude și a vă încălzi în liniștea bisericii.",
-                "en": "An ideal spot to briefly take off wet gloves and warm up in the quiet of the church."
+                "en": "An ideal spot to briefly take off wet gloves and warm up in the quiet of the church.",
+                "fr": "Un endroit idéal pour retirer brièvement des gants mouillés et se réchauffer dans le silence de l’église."
               }
             },
             {
@@ -501,13 +554,15 @@
                 "de": "Hasselfurther Weiher",
                 "hu": "Hasselfurth-tó",
                 "ro": "Iazul Hasselfurth",
-                "en": "Hasselfurth Pond"
+                "en": "Hasselfurth Pond",
+                "fr": "Étang d’Hasselfurth"
               },
               "tip_4lang": {
                 "de": "Achten Sie auf dem Waldweg auf rutschige Wurzeln und Schlamm; Schutzbleche sind bei diesem Wetter unverzichtbar.",
                 "hu": "Figyeljen a csúszós gyökerekre és sárra az erdei úton; a sárvédő ebben az időben nélkülözhetetlen.",
                 "ro": "Atenție la rădăcinile alunecoase și noroi pe poteca din pădure; apărătorile de noroi sunt indispensabile pe această vreme.",
-                "en": "Watch out for slippery roots and mud on the forest path; mudguards are indispensable in this weather."
+                "en": "Watch out for slippery roots and mud on the forest path; mudguards are indispensable in this weather.",
+                "fr": "Attention aux racines glissantes et à la boue sur le sentier forestier ; des garde‑boue sont indispensables par ce temps."
               }
             }
           ]
@@ -517,7 +572,8 @@
             "de": "Eine Wintertour per Rad durch Bitche verlangt gute Handschuhe gegen den eisigen Fahrtwind. Nach dem Start an der Kapelle wärmen wir uns mittags in der Kirche auf. Die Zitadelle bietet klare Sicht, aber der Aufstieg kann frostig sein. Am Nachmittag radeln wir zum zugefrorenen Hasselfurther Weiher. Planen Sie das Ende der Tour vor 17:00 Uhr ein, bevor die Kälte bei Dunkelheit stark zunimmt.",
             "hu": "A téli kerékpározás Bitche-ben komoly kesztyűt igényel a jeges menetszél ellen. A kápolnától indulva délben a templomban melegszünk fel. A Citadella tiszta kilátást kínál, de a felfelé vezető út fagyos lehet. Délután a befagyott Hasselfurth-tóhoz tekerünk. Tervezzük a túra végét 17:00 előttre, mielőtt a sötétedéssel hirtelen lehűlne a levegő.",
             "ro": "O tură de iarnă cu bicicleta prin Bitche necesită mănuși bune împotriva vântului înghețat. După startul la capelă, ne încălzim la prânz în biserică. Citadela oferă vederi clare, dar urcarea poate fi geroasă. După-amiaza pedalăm spre lacul Hasselfurth înghețat. Planificați finalul turei înainte de ora 17:00, înainte ca frigul să se intensifice.",
-            "en": "A winter bike tour through Bitche demands good gloves against the icy wind. Starting at the chapel, we warm up at noon in the church. The Citadel offers clear views, but the climb can be frosty. In the afternoon, cycle to the frozen Hasselfurth Pond. Plan to end your tour before 17:00, before the cold intensifies with the darkness."
+            "en": "A winter bike tour through Bitche demands good gloves against the icy wind. Starting at the chapel, we warm up at noon in the church. The Citadel offers clear views, but the climb can be frosty. In the afternoon, cycle to the frozen Hasselfurth Pond. Plan to end your tour before 17:00, before the cold intensifies with the darkness.",
+            "fr": "Une randonnée à vélo hivernale à travers Bitche exige de bons gants contre le vent glacé. En partant de la chapelle, on se réchauffe à midi dans l’église. La citadelle offre des vues nettes, mais la montée peut être givrée. L’après‑midi, roulez jusqu’à l’étang gelé d’Hasselfurth. Prévoyez de terminer votre tour avant 17:00, avant que le froid n’augmente avec l’obscurité."
           },
           "stops": [
             {
@@ -525,13 +581,15 @@
                 "de": "Kapelle des Collège Saint-Augustin",
                 "hu": "Saint-Augustin Kollégium kápolnája",
                 "ro": "Capela Colegiului Saint-Augustin",
-                "en": "Chapelle du Collège Saint-Augustin"
+                "en": "Chapelle du Collège Saint-Augustin",
+                "fr": "Chapelle du Collège Saint‑Augustin"
               },
               "tip_4lang": {
                 "de": "Starten Sie ruhig und prüfen Sie den Luftdruck Ihrer Reifen; bei Kälte sinkt dieser oft leicht ab.",
                 "hu": "Kezdje nyugodtan, és ellenőrizze a gumiabroncsok nyomását; hidegben ez gyakran kismértékben lecsökken.",
                 "ro": "Începeți liniștit și verificați presiunea din anvelope; la frig, aceasta scade adesea ușor.",
-                "en": "Start calmly and check your tire pressure; it often drops slightly in cold temperatures."
+                "en": "Start calmly and check your tire pressure; it often drops slightly in cold temperatures.",
+                "fr": "Commencez calmement et vérifiez la pression de vos pneus ; elle baisse souvent légèrement par temps froid."
               }
             },
             {
@@ -539,13 +597,15 @@
                 "de": "Straßburger Tor",
                 "hu": "Strasbourgi kapu",
                 "ro": "Poarta Strasbourg",
-                "en": "Strasbourg Gate"
+                "en": "Strasbourg Gate",
+                "fr": "Porte de Strasbourg"
               },
               "tip_4lang": {
                 "de": "Vorsicht vor gefrorenem Tauwasser unter dem Bogen; schattige Pflasterstellen können tückisch glatt sein.",
                 "hu": "Vigyázzon az ív alatt megfagyott páralecsapódással; az árnyékos macskaköves részek csalókán csúszósak lehetnek.",
                 "ro": "Atenție la condensul înghețat de sub arcadă; porțiunile umbrite cu pavaj pot fi înșelător de alunecoase.",
-                "en": "Beware of frozen condensation under the arch; shaded cobblestone areas can be treacherously slippery."
+                "en": "Beware of frozen condensation under the arch; shaded cobblestone areas can be treacherously slippery.",
+                "fr": "Méfiez‑vous de la condensation gelée sous l’arche ; les zones pavées à l’ombre peuvent être traîtreusement glissantes."
               }
             },
             {
@@ -553,13 +613,15 @@
                 "de": "Zitadelle von Bitche",
                 "hu": "Bitche Citadella",
                 "ro": "Cetatea Bitche",
-                "en": "Bitche Citadel"
+                "en": "Bitche Citadel",
+                "fr": "Citadelle de Bitche"
               },
               "tip_4lang": {
                 "de": "Der Anstieg bringt Sie ins Schwitzen, aber oben weht ein eisiger Wind; eine winddichte Weste ist hier Gold wert.",
                 "hu": "A felfelé vezető út megizzasztja, de fent jeges szél fúj; egy szélálló mellény itt aranyat ér.",
                 "ro": "Urcarea vă va face să transpirați, dar sus bate un vânt înghețat; o vestă rezistentă la vânt valorează aur aici.",
-                "en": "The climb will make you sweat, but an icy wind blows at the top; a windproof vest is worth its weight in gold here."
+                "en": "The climb will make you sweat, but an icy wind blows at the top; a windproof vest is worth its weight in gold here.",
+                "fr": "La montée vous fera transpirer, mais un vent glacial souffle au sommet ; un gilet coupe‑vent vaut son pesant d’or ici."
               }
             },
             {
@@ -567,13 +629,15 @@
                 "de": "Kirche Sainte-Catherine",
                 "hu": "Sainte-Catherine templom",
                 "ro": "Biserica Sainte-Catherine",
-                "en": "Église Sainte-Catherine"
+                "en": "Église Sainte-Catherine",
+                "fr": "Église Sainte‑Catherine"
               },
               "tip_4lang": {
                 "de": "Gönnen Sie Ihren Fingern eine Pause von der Kälte und genießen Sie die spirituelle Wärme des Innenraums.",
                 "hu": "Adjon ujjainak egy kis pihenőt a hidegtől, és élvezze a belső tér spirituális melegét.",
                 "ro": "Oferiți degetelor o pauză de la frig și bucurați-vă de căldura spirituală a interiorului.",
-                "en": "Give your fingers a break from the cold and enjoy the spiritual warmth of the interior."
+                "en": "Give your fingers a break from the cold and enjoy the spiritual warmth of the interior.",
+                "fr": "Donnez un repos à vos doigts engourdis par le froid et profitez de la chaleur spirituelle de l’intérieur."
               }
             },
             {
@@ -581,13 +645,15 @@
                 "de": "Hasselfurther Weiher",
                 "hu": "Hasselfurth-tó",
                 "ro": "Iazul Hasselfurth",
-                "en": "Hasselfurth Pond"
+                "en": "Hasselfurth Pond",
+                "fr": "Étang d’Hasselfurth"
               },
               "tip_4lang": {
                 "de": "Der Waldweg kann im Winter gefroren sein; fahren Sie vorausschauend und meiden Sie vereiste Pfützen.",
                 "hu": "Az erdei út télen fagyos lehet; tekerjen előrelátóan és kerülje a jeges tócsákat.",
                 "ro": "Poteca din pădure poate fi înghețată iarna; pedalați preventiv și evitați bălțile înghețate.",
-                "en": "The forest path may be frozen in winter; ride proactively and avoid icy puddles."
+                "en": "The forest path may be frozen in winter; ride proactively and avoid icy puddles.",
+                "fr": "Le sentier forestier peut être gelé en hiver ; roulez prudemment et évitez les flaques verglacées."
               }
             }
           ]
@@ -607,7 +673,8 @@
             "de": "Kapelle Sainte-Thérèse",
             "hu": "Sainte-Thérèse kápolna",
             "ro": "Capela Sainte-Thérèse",
-            "en": "Chapelle Sainte-Thérèse"
+            "en": "Chapelle Sainte-Thérèse",
+            "fr": "Chapelle Sainte‑Thérèse"
           },
           "coords": [
             7.402511,
@@ -622,7 +689,8 @@
             "de": "Besuchen Sie diese malerische Kapelle, die einen friedlichen Start in den Tag bietet, und bewundern Sie das rustikale Mauerwerk der traditionellen ländlichen Architektur.",
             "hu": "Látogasson el ebbe a különleges kápolnába, amely békés kezdést kínál utazásának, és értékelje a régió hagyományos vidéki építészetét jellemző rusztikus kőműves munkát.",
             "ro": "Vizitați această capelă pitorească de la periferie care oferă un început pașnic călătoriei și apreciați zidăria rustică ce caracterizează arhitectura tradițională locală.",
-            "en": "Visit this quaint peripheral chapel offering a peaceful start to your journey, and appreciate the rustic stonework that characterizes the region's traditional rural architecture."
+            "en": "Visit this quaint peripheral chapel offering a peaceful start to your journey, and appreciate the rustic stonework that characterizes the region's traditional rural architecture.",
+            "fr": "Visitez cette charmante chapelle périphérique offrant un départ paisible à votre parcours, et appréciez la maçonnerie rustique qui caractérise l’architecture rurale traditionnelle de la région."
           }
         },
         {
@@ -630,7 +698,8 @@
             "de": "Zitadelle von Bitche",
             "hu": "Bitche Citadella",
             "ro": "Cetatea Bitche",
-            "en": "Bitche Citadel"
+            "en": "Bitche Citadel",
+            "fr": "Citadelle de Bitche"
           },
           "coords": [
             7.425851,
@@ -645,7 +714,8 @@
             "de": "Erkunden Sie diese massive Festung, die die Region jahrhundertelang verteidigt hat, und tragen Sie bequeme Schuhe, um die weitläufigen unterirdischen Gänge zu besichtigen.",
             "hu": "Fedezze fel ezt a masszív erődítményt, amely évszázadokon át védte a régiót, és viseljen kényelmes cipőt, hogy biztonságosan bejárhassa a kiterjedt földalatti járatokat.",
             "ro": "Explorați această cetate masivă care a apărat regiunea timp de secole și asigurați-vă că purtați încălțăminte confortabilă pentru a parcurge pasajele subterane extinse.",
-            "en": "Explore this massive fortress that defended the region for centuries, and make sure to wear comfortable shoes to navigate the extensive underground passages safely."
+            "en": "Explore this massive fortress that defended the region for centuries, and make sure to wear comfortable shoes to navigate the extensive underground passages safely.",
+            "fr": "Explorez cette massive forteresse qui a défendu la région pendant des siècles, et veillez à porter des chaussures confortables pour naviguer en sécurité dans les vastes passages souterrains."
           }
         },
         {
@@ -653,7 +723,8 @@
             "de": "Straßburger Tor",
             "hu": "Strasbourgi kapu",
             "ro": "Poarta Strasbourg",
-            "en": "Strasbourg Gate"
+            "en": "Strasbourg Gate",
+            "fr": "Porte de Strasbourg"
           },
           "coords": [
             7.428129,
@@ -668,7 +739,8 @@
             "de": "Bewundern Sie die robuste Architektur dieses historischen Tores als Eingang zur alten Festungsstadt und achten Sie auf die fein geschnitzten Steinmetzarbeiten am Bogen.",
             "hu": "Csodálja meg a régi erődített város bejáratát jelző történelmi kapu robusztus építészetét, és mindenképpen szánjon egy percet a bonyolultan faragott kőműves munkákra.",
             "ro": "Admirați arhitectura robustă a acestei porți istorice care marchează intrarea în vechiul oraș fortificat și acordați-vă un moment pentru a observa sculpturile în piatră.",
-            "en": "Admire the robust architecture of this historic gateway marking the entrance to the old fortified town, and take a moment to notice the intricately carved stonework."
+            "en": "Admire the robust architecture of this historic gateway marking the entrance to the old fortified town, and take a moment to notice the intricately carved stonework.",
+            "fr": "Admirez l’architecture robuste de cette porte historique marquant l’entrée de la vieille ville fortifiée, et prenez un moment pour observer les sculptures de pierre finement ciselées."
           }
         },
         {
@@ -676,7 +748,8 @@
             "de": "Hasselfurther Weiher",
             "hu": "Hasselfurth-tó",
             "ro": "Iazul Hasselfurth",
-            "en": "Hasselfurth Pond"
+            "en": "Hasselfurth Pond",
+            "fr": "Étang d’Hasselfurth"
           },
           "coords": [
             7.441107,
@@ -691,7 +764,8 @@
             "de": "Entspannen Sie sich am ruhigen Wasser dieses malerischen, von Wald umgebenen Teiches und mieten Sie vielleicht ein kleines Boot für einen idyllischen Ausflug in die Natur.",
             "hu": "Pihenjen ennek a festői, buja erdővel körülvett tónak a nyugodt vizeinél, és érdemes csónakot bérelni vagy végigsétálni a kikövezett ösvényen a lenyűgöző látványért.",
             "ro": "Relaxați-vă pe malul apelor liniștite ale acestui iaz pitoresc înconjurat de pădure și luați în considerare închirierea unei bărci pentru o evadare pitorească în natură.",
-            "en": "Relax by the tranquil waters of this picturesque pond surrounded by lush forest, and consider renting a small boat or walking the paved path for a scenic nature escape."
+            "en": "Relax by the tranquil waters of this picturesque pond surrounded by lush forest, and consider renting a small boat or walking the paved path for a scenic nature escape.",
+            "fr": "Détendez‑vous au bord des eaux tranquilles de cet étang pittoresque entouré d’une forêt luxuriante ; pensez à louer une petite barque ou à emprunter le chemin pavé pour une escapade nature agréable."
           }
         },
         {
@@ -699,7 +773,8 @@
             "de": "Étang d'Haspelschiedt",
             "hu": "Haspelschiedt-tó",
             "ro": "Iazul Haspelschiedt",
-            "en": "Étang d'Haspelschiedt"
+            "en": "Étang d'Haspelschiedt",
+            "fr": "Étang d’Haspelschiedt"
           },
           "coords": [
             7.497823,
@@ -714,7 +789,8 @@
             "de": "Beenden Sie Ihren Tag an diesem weitläufigen Freizeitsee, der ein Paradies für die Vogelwelt ist, und bringen Sie ein Fernglas mit, um verschiedene Arten am Ufer zu beobachten.",
             "hu": "Fejezze be a napját ennél a hatalmas rekreációs tónál, amely a helyi madárvilág menedékhelye, és hozzon magával távcsövet, hogy megfigyelhesse a fészkelő fajokat a parton.",
             "ro": "Încheiați-vă ziua la acest lac de agrement expansiv, un refugiu pentru păsările locale, aducând binoclul pentru a observa diverse specii care cuibăresc de-a lungul țărmului.",
-            "en": "End your day at this expansive recreational lake which is a haven for local birdlife, bringing binoculars to spot various species nesting along the pristine shorelines."
+            "en": "End your day at this expansive recreational lake which is a haven for local birdlife, bringing binoculars to spot various species nesting along the pristine shorelines.",
+            "fr": "Terminez votre journée à ce vaste lac de loisirs, refuge pour l’avifaune locale ; apportez des jumelles pour repérer les différentes espèces nichant le long des rives préservées."
           }
         }
       ],
@@ -722,7 +798,8 @@
         "de": "Ihre Fahrt beginnt an der malerischen Kapelle Sainte-Thérèse am Stadtrand. Bald erreichen Sie die monumentale Zitadelle von Bitche, um die Militärarchitektur zu entdecken. Halten Sie danach am nahen Straßburger Tor. Der Nachmittag ist der Natur gewidmet; fahren Sie zum malerischen Hasselfurther Weiher und genießen Sie schließlich einen ruhigen Sonnenuntergang am Étang d'Haspelschiedt.",
         "hu": "Az autózás a külvárosi bájos Chapelle Sainte-Thérèse-nél kezdődik. Hamarosan eléri a monumentális Bitche Citadellát, hogy felfedezze az évszázados katonai építészetet. Ezután álljon meg a közeli Strasbourgi kapunál. A délutánt a természetnek szenteljük; vezessen a festői Hasselfurth-tóhoz, és végül élvezze a békés naplementét az Étang d'Haspelschiedt kiterjedt vizei felett a parton.",
         "ro": "Plimbarea cu mașina începe la capela pitorească Sainte-Thérèse de la periferie. În curând, veți ajunge la monumentala Cetate Bitche pentru a descoperi arhitectura sa militară. După aceea, opriți la Poarta Strasbourg. După-amiaza este dedicată naturii; conduceți până la pitorescul iaz Hasselfurth și, în final, bucurați-vă de un apus de soare pe apele lacului Haspelschiedt.",
-        "en": "Your drive begins at the quaint Chapelle Sainte-Thérèse on the outskirts. Soon, you will reach the monumental Bitche Citadel to uncover centuries of military architecture. Afterward, pause at the nearby Strasbourg Gate. The afternoon is dedicated to nature; drive to the scenic Hasselfurth Pond, and finally, enjoy a serene sunset view over the expansive waters of Étang d'Haspelschiedt."
+        "en": "Your drive begins at the quaint Chapelle Sainte-Thérèse on the outskirts. Soon, you will reach the monumental Bitche Citadel to uncover centuries of military architecture. Afterward, pause at the nearby Strasbourg Gate. The afternoon is dedicated to nature; drive to the scenic Hasselfurth Pond, and finally, enjoy a serene sunset view over the expansive waters of Étang d'Haspelschiedt.",
+        "fr": "Votre trajet commence à la pittoresque Chapelle Sainte‑Thérèse en périphérie. Bientôt, vous atteindrez la monumentale Citadelle de Bitche pour découvrir des siècles d’architecture militaire. Ensuite, faites une pause à la Porte de Strasbourg toute proche. L’après‑midi est dédié à la nature ; dirigez‑vous vers l’étang pittoresque d’Hasselfurth, et enfin profitez d’un coucher de soleil serein sur les vastes eaux de l’Étang d’Haspelschiedt."
       },
       "variants": {
         "rainy": {
@@ -730,7 +807,8 @@
             "de": "Bei Regen ist das Auto die bequemste Wahl für Bitche. Vormittags besuchen wir die Kapelle Sainte-Thérèse, bevor es zur Zitadelle geht, wo wir im Trockenen parken und die Museen besichtigen können. Mittags kurzer Stopp am Stadttor für Fotos. Der Nachmittag führt uns zu den Seen, die im Regen eine mystische Ruhe ausstrahlen. Genießen Sie die Aussicht durch die Wischerblätter bei angenehmer Heizung.",
             "hu": "Esőben az autó a legkényelmesebb választás Bitche felfedezéséhez. Délelőtt a Sainte-Thérèse kápolnát keressük fel, majd a Citadellánál parkolunk, ahol szárazon juthatunk be a múzeumba. Délben egy gyors fotóstop a városkapunál. A délután a tavakhoz vezet, melyek az esőben különös nyugalmat árasztanak. Élvezze a kilátást a fűtött utastérből, miközben az ablaktörlők dolgoznak.",
             "ro": "Pe ploaie, mașina este cea mai confortabilă alegere pentru Bitche. Dimineața vizităm capela Sainte-Thérèse, apoi parcăm la Citadelă, unde putem vizita muzeele la adăpost. La prânz, o scurtă oprire la poarta orașului. După-amiaza ne conduce spre lacuri, care emană o liniște mistică sub ploaie. Bucurați-vă de priveliște din interiorul încălzit în timp ce ștergătoarele lucrează.",
-            "en": "In the rain, the car is the most comfortable choice for exploring Bitche. In the morning, visit Sainte-Thérèse chapel before heading to the Citadel, where you can park under cover and visit the museums. At noon, a quick photo stop at the city gate. The afternoon leads to the lakes, which exude a mystical calm in the rain. Enjoy the view through the wipers from the comfort of your heated car."
+            "en": "In the rain, the car is the most comfortable choice for exploring Bitche. In the morning, visit Sainte-Thérèse chapel before heading to the Citadel, where you can park under cover and visit the museums. At noon, a quick photo stop at the city gate. The afternoon leads to the lakes, which exude a mystical calm in the rain. Enjoy the view through the wipers from the comfort of your heated car.",
+            "fr": "Sous la pluie, la voiture est le choix le plus confortable pour explorer Bitche. Le matin, visitez la chapelle Sainte‑Thérèse avant de vous rendre à la citadelle, où vous pouvez vous garer à l’abri et visiter les musées. À midi, un arrêt photo rapide à la porte de la ville. L’après‑midi mène aux lacs, qui dégagent un calme mystique sous la pluie. Savourez la vue à travers les essuie‑glaces depuis le confort de votre voiture chauffée."
           },
           "stops": [
             {
@@ -738,13 +816,15 @@
                 "de": "Kapelle Sainte-Thérèse",
                 "hu": "Sainte-Thérèse kápolna",
                 "ro": "Capela Sainte-Thérèse",
-                "en": "Chapelle Sainte-Thérèse"
+                "en": "Chapelle Sainte-Thérèse",
+                "fr": "Chapelle Sainte‑Thérèse"
               },
               "tip_4lang": {
                 "de": "Parken Sie nah am Eingang, um den kurzen Weg durch den Regen trocken zu überstehen.",
                 "hu": "Parkoljon közel a bejárathoz, hogy a rövid utat az esőben szárazon tehesse meg.",
                 "ro": "Parcați aproape de intrare pentru a parcurge drumul scurt prin ploaie fără să vă udați.",
-                "en": "Park close to the entrance to manage the short walk through the rain without getting wet."
+                "en": "Park close to the entrance to manage the short walk through the rain without getting wet.",
+                "fr": "Garez‑vous près de l’entrée pour gérer la courte marche sous la pluie sans vous mouiller."
               }
             },
             {
@@ -752,13 +832,15 @@
                 "de": "Zitadelle von Bitche",
                 "hu": "Bitche Citadella",
                 "ro": "Cetatea Bitche",
-                "en": "Bitche Citadel"
+                "en": "Bitche Citadel",
+                "fr": "Citadelle de Bitche"
               },
               "tip_4lang": {
                 "de": "Nutzen Sie den offiziellen Parkplatz direkt oben; von dort sind es nur wenige Schritte ins schützende Innere der Festung.",
                 "hu": "Használja a közvetlenül fent található hivatalos parkolót; onnan csak néhány lépés a vár védelmet nyújtó belső tere.",
                 "ro": "Folosiți parcarea oficială direct sus; de acolo sunt doar câțiva pași până în interiorul protector al cetății.",
-                "en": "Use the official parking lot directly at the top; from there, it is only a few steps into the protective interior of the fortress."
+                "en": "Use the official parking lot directly at the top; from there, it is only a few steps into the protective interior of the fortress.",
+                "fr": "Utilisez le parking officiel situé directement au sommet ; de là, ce n’est qu’à quelques pas jusqu’à l’intérieur protecteur de la forteresse."
               }
             },
             {
@@ -766,13 +848,15 @@
                 "de": "Straßburger Tor",
                 "hu": "Strasbourgi kapu",
                 "ro": "Poarta Strasbourg",
-                "en": "Strasbourg Gate"
+                "en": "Strasbourg Gate",
+                "fr": "Porte de Strasbourg"
               },
               "tip_4lang": {
                 "de": "Ein kurzer Stopp reicht für Fotos; achten Sie beim Aussteigen auf den dichten Verkehr bei schlechter Sicht.",
                 "hu": "Egy rövid megálló elég a fotókhoz; kiszálláskor ügyeljen a sűrű forgalomra a rossz látási viszonyok mellett.",
                 "ro": "O scurtă oprire este suficientă pentru fotografii; atenție la traficul dens și vizibilitatea redusă când coborâți.",
-                "en": "A brief stop is enough for photos; watch out for heavy traffic and poor visibility when getting out of the car."
+                "en": "A brief stop is enough for photos; watch out for heavy traffic and poor visibility when getting out of the car.",
+                "fr": "Un bref arrêt suffit pour des photos ; attention à la circulation dense et à la mauvaise visibilité en sortant de la voiture."
               }
             },
             {
@@ -780,13 +864,15 @@
                 "de": "Hasselfurther Weiher",
                 "hu": "Hasselfurth-tó",
                 "ro": "Iazul Hasselfurth",
-                "en": "Hasselfurth Pond"
+                "en": "Hasselfurth Pond",
+                "fr": "Étang d’Hasselfurth"
               },
               "tip_4lang": {
                 "de": "Bleiben Sie bei starkem Guss im Auto und genießen Sie den Blick auf das Wasser von der Parkbucht aus.",
                 "hu": "Heves esőzés esetén maradjon az autóban, és élvezze a vízre nyíló kilátást a parkolóból.",
                 "ro": "În caz de ploaie torențială, rămâneți în mașină și bucurați-vă de vederea spre apă din parcare.",
-                "en": "If it pours heavily, stay in the car and enjoy the view of the water from the parking area."
+                "en": "If it pours heavily, stay in the car and enjoy the view of the water from the parking area.",
+                "fr": "S’il pleut des cordes, restez dans la voiture et profitez de la vue sur l’eau depuis l’aire de stationnement."
               }
             },
             {
@@ -794,13 +880,15 @@
                 "de": "Étang d'Haspelschiedt",
                 "hu": "Haspelschiedt-tó",
                 "ro": "Iazul Haspelschiedt",
-                "en": "Étang d'Haspelschiedt"
+                "en": "Étang d'Haspelschiedt",
+                "fr": "Étang d’Haspelschiedt"
               },
               "tip_4lang": {
                 "de": "Die Anfahrt über die Landstraße ist bei Regen kurvenreich; fahren Sie vorsichtig wegen Aquaplaning-Gefahr.",
                 "hu": "Az országúton való megközelítés esőben kanyargós; vezessen óvatosan az aquaplaning veszélye miatt.",
                 "ro": "Accesul pe drumul național este sinuos pe ploaie; conduceți cu atenție din cauza riscului de acvaplanare.",
-                "en": "The approach via the country road is winding in the rain; drive carefully due to the risk of aquaplaning."
+                "en": "The approach via the country road is winding in the rain; drive carefully due to the risk of aquaplaning.",
+                "fr": "L’approche par la route de campagne est sinueuse sous la pluie ; conduisez prudemment en raison du risque d’aquaplaning."
               }
             }
           ]
@@ -810,7 +898,8 @@
             "de": "Die winterliche Autotour beginnt an der Kapelle Sainte-Thérèse. Mittags erkunden wir die frostige Zitadelle, deren Mauern im Winter besonders beeindruckend wirken. Nach einem Stopp am Stadttor fahren wir durch die verschneiten Wälder zum Hasselfurther Weiher und weiter nach Haspelschiedt. Achten Sie auf Winterreifen und beenden Sie die Fahrt gegen 17:00 Uhr, bevor Wildwechsel bei Dunkelheit gefährlich wird.",
             "hu": "A téli autós túra a Sainte-Thérèse kápolnánál indul. Délben a fagyos Citadellát fedezzük fel, melynek falai télen különösen impozánsak. A városkapu után a havas erdőkön át a Hasselfurth-tóhoz, majd Haspelschiedt felé autózunk. Ügyeljen a téli gumikra, és fejezze be az utat 17:00 körül, mielőtt a sötétben a vadveszély fokozódna az erdei utakon.",
             "ro": "Turul de iarnă cu mașina începe la capela Sainte-Thérèse. La prânz explorăm Citadela geroasă, ale cărei ziduri par deosebit de impresionante iarna. După o oprire la poartă, conducem prin pădurile înzăpezite spre lacul Hasselfurth. Asigurați-vă că aveți anvelope de iarnă și încheiați drumul în jurul orei 17:00, înainte ca vizibilitatea redusă să devină periculoasă.",
-            "en": "The winter car tour starts at Sainte-Thérèse chapel. At noon, explore the frosty Citadel, whose walls look particularly impressive in winter. After a stop at the gate, drive through the snowy forests to Hasselfurth Pond and on to Haspelschiedt. Ensure you have winter tires and finish the drive around 17:00, before wildlife becomes a hazard in the dark."
+            "en": "The winter car tour starts at Sainte-Thérèse chapel. At noon, explore the frosty Citadel, whose walls look particularly impressive in winter. After a stop at the gate, drive through the snowy forests to Hasselfurth Pond and on to Haspelschiedt. Ensure you have winter tires and finish the drive around 17:00, before wildlife becomes a hazard in the dark.",
+            "fr": "La balade en voiture hivernale commence à la chapelle Sainte‑Thérèse. À midi, explorez la citadelle givrée, dont les murs apparaissent particulièrement impressionnants en hiver. Après un arrêt à la porte, traversez les forêts enneigées jusqu’à l’étang d’Hasselfurth puis jusqu’à Haspelschiedt. Veillez à avoir des pneus hiver et terminez le trajet vers 17:00, avant que la faune ne devienne un danger dans l’obscurité."
           },
           "stops": [
             {
@@ -818,13 +907,15 @@
                 "de": "Kapelle Sainte-Thérèse",
                 "hu": "Sainte-Thérèse kápolna",
                 "ro": "Capela Sainte-Thérèse",
-                "en": "Chapelle Sainte-Thérèse"
+                "en": "Chapelle Sainte-Thérèse",
+                "fr": "Chapelle Sainte‑Thérèse"
               },
               "tip_4lang": {
                 "de": "Prüfen Sie vor der Abfahrt die Straßenbedingungen; die kleinen Nebenstraßen zur Kapelle werden oft erst spät geräumt.",
                 "hu": "Indulás előtt ellenőrizze az útviszonyokat; a kápolnához vezető kis mellékutakat gyakran csak későn takarítják le.",
                 "ro": "Verificați starea drumurilor înainte de plecare; drumurile secundare spre capelă sunt adesea curățate mai târziu.",
-                "en": "Check road conditions before starting; the small side roads to the chapel are often cleared late in the morning."
+                "en": "Check road conditions before starting; the small side roads to the chapel are often cleared late in the morning.",
+                "fr": "Vérifiez l’état des routes avant de partir ; les petites routes secondaires menant à la chapelle sont souvent déneigées tard dans la matinée."
               }
             },
             {
@@ -832,13 +923,15 @@
                 "de": "Zitadelle von Bitche",
                 "hu": "Bitche Citadella",
                 "ro": "Cetatea Bitche",
-                "en": "Bitche Citadel"
+                "en": "Bitche Citadel",
+                "fr": "Citadelle de Bitche"
               },
               "tip_4lang": {
                 "de": "Der Parkplatz oben kann vereist sein; parken Sie vorsichtig und nutzen Sie den befestigten Weg zum Eingang.",
                 "hu": "A fenti parkoló jeges lehet; parkoljon óvatosan, és használja a kiépített utat a bejáratig.",
                 "ro": "Parcarea de sus poate fi înghețată; parcați cu atenție și folosiți drumul amenajat spre intrare.",
-                "en": "The parking lot at the top may be icy; park carefully and use the paved path to the entrance."
+                "en": "The parking lot at the top may be icy; park carefully and use the paved path to the entrance.",
+                "fr": "Le parking au sommet peut être verglacé ; garez-vous avec prudence et empruntez le chemin pavé jusqu’à l’entrée."
               }
             },
             {
@@ -846,13 +939,15 @@
                 "de": "Straßburger Tor",
                 "hu": "Strasbourgi kapu",
                 "ro": "Poarta Strasbourg",
-                "en": "Strasbourg Gate"
+                "en": "Strasbourg Gate",
+                "fr": "Porte de Strasbourg"
               },
               "tip_4lang": {
                 "de": "Achten Sie auf Passanten, die auf den glatten Gehwegen in der Nähe des Tores unterwegs sind.",
                 "hu": "Ügyeljen a gyalogosokra, akik a kapu közelében lévő csúszós járdákon közlekednek.",
                 "ro": "Atenție la pietonii care circulă pe trotuarele alunecoase din apropierea porții.",
-                "en": "Watch out for pedestrians navigating the slippery sidewalks near the gate area."
+                "en": "Watch out for pedestrians navigating the slippery sidewalks near the gate area.",
+                "fr": "Attention aux piétons qui circulent sur les trottoirs glissants près de la porte."
               }
             },
             {
@@ -860,13 +955,15 @@
                 "de": "Hasselfurther Weiher",
                 "hu": "Hasselfurth-tó",
                 "ro": "Iazul Hasselfurth",
-                "en": "Hasselfurth Pond"
+                "en": "Hasselfurth Pond",
+                "fr": "Étang Hasselfurth"
               },
               "tip_4lang": {
                 "de": "Die Waldstraße kann im Winter tückisch sein; fahren Sie langsam und achten Sie auf Eis unter dem Schnee.",
                 "hu": "Az erdei út télen csalóka lehet; vezessen lassan, és ügyeljen a hó alatti jégre.",
                 "ro": "Drumul prin pădure poate fi înșelător iarna; conduceți încet și atenție la gheața de sub zăpadă.",
-                "en": "The forest road can be treacherous in winter; drive slowly and watch out for ice under the snow."
+                "en": "The forest road can be treacherous in winter; drive slowly and watch out for ice under the snow.",
+                "fr": "La route forestière peut être traîtresse en hiver ; conduisez lentement et méfiez-vous de la glace sous la neige."
               }
             },
             {
@@ -874,13 +971,15 @@
                 "de": "Étang d'Haspelschiedt",
                 "hu": "Haspelschiedt-tó",
                 "ro": "Iazul Haspelschiedt",
-                "en": "Étang d'Haspelschiedt"
+                "en": "Étang d'Haspelschiedt",
+                "fr": "Étang d'Haspelschiedt"
               },
               "tip_4lang": {
                 "de": "Nutzen Sie das letzte Tageslicht vor 17:00 Uhr für einen kurzen Blick auf den See, bevor es dunkel wird.",
                 "hu": "Használja ki az utolsó nappali fényt 17:00 előtt egy gyors pillantásra a tóra, mielőtt teljesen besötétedik.",
                 "ro": "Folosiți ultima lumină a zilei înainte de ora 17:00 pentru o privire scurtă spre lac înainte de a se întuneca.",
-                "en": "Use the last daylight before 17:00 for a quick look at the lake before it gets completely dark."
+                "en": "Use the last daylight before 17:00 for a quick look at the lake before it gets completely dark.",
+                "fr": "Profitez des derniers instants de jour avant 17:00 pour un rapide coup d’œil au lac avant qu’il ne fasse complètement noir."
               }
             }
           ]

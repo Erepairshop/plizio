@@ -21,7 +21,8 @@
             "de": "Ritterturm",
             "hu": "Lovagok tornya",
             "ro": "Turnul Cavalerilor",
-            "en": "Knight's Tower"
+            "en": "Knight's Tower",
+            "fr": "Tour du Chevalier"
           },
           "coords": [
             7.7875,
@@ -36,7 +37,8 @@
             "de": "Bewundern Sie die mittelalterliche Architektur dieses alten Tores, das einst die Stadtmauern schützte, und machen Sie früh morgens die besten Fotos.",
             "hu": "Csodálja meg a középkori építészetet ennél az ősi kapunál, amely egykor a városfalakat védte, és fotózzon kora reggel a legjobb fényviszonyokért.",
             "ro": "Admirați arhitectura medievală a acestei porți antice, care apăra odinioară zidurile orașului, și faceți poze dimineața devreme pentru lumină optimă.",
-            "en": "Admire the medieval architecture of this ancient gateway, which once defended the city walls, and take photos early to avoid harsh midday sunlight."
+            "en": "Admire the medieval architecture of this ancient gateway, which once defended the city walls, and take photos early to avoid harsh midday sunlight.",
+            "fr": "Admirez l’architecture médiévale de cette ancienne porte, qui défendait autrefois les remparts de la ville, et prenez vos photos tôt pour éviter la lumière forte de midi."
           }
         },
         {
@@ -44,7 +46,8 @@
             "de": "Hopfenhalle",
             "hu": "Komlócsarnok",
             "ro": "Hala Hameiului",
-            "en": "Halle aux Houblons"
+            "en": "Halle aux Houblons",
+            "fr": "Halle aux Houblons"
           },
           "coords": [
             7.790959,
@@ -59,7 +62,8 @@
             "de": "Erkunden Sie die historische Hopfenhalle, die von der reichen Agrarvergangenheit zeugt, und besuchen Sie sie an Tagen mit einem lebhaften Markt.",
             "hu": "Fedezze fel ezt a történelmi komlópiacot, amely Haguenau gazdag mezőgazdasági múltját tükrözi, és nézze meg a helyi termelői piacok menetrendjét.",
             "ro": "Explorați această clădire istorică a pieței de hamei, ce reflectă trecutul agricol bogat, și verificați programul pentru a prinde o piață locală.",
-            "en": "Explore this historic hop market building, reflecting Haguenau's rich agricultural past, and check local schedules as it often hosts vibrant markets."
+            "en": "Explore this historic hop market building, reflecting Haguenau's rich agricultural past, and check local schedules as it often hosts vibrant markets.",
+            "fr": "Explorez ce bâtiment historique du marché au houblon, reflétant le riche passé agricole d’Haguenau, et consultez les horaires locaux car il accueille souvent des marchés animés."
           }
         },
         {
@@ -67,7 +71,8 @@
             "de": "Elsässisches Museum",
             "hu": "Elzászi Múzeum",
             "ro": "Muzeul Alsacian",
-            "en": "Alsatian Museum"
+            "en": "Alsatian Museum",
+            "fr": "Musée Alsacien"
           },
           "coords": [
             7.789714,
@@ -82,7 +87,8 @@
             "de": "Entdecken Sie faszinierende lokale Traditionen, Trachten und Handwerkskunst in diesem Museum und planen Sie mindestens eine Stunde für den Besuch ein.",
             "hu": "Fedezze fel a lenyűgöző helyi hagyományokat, jelmezeket és kézműves termékeket, és szánjon legalább egy órát a kiállítások alapos megtekintésére.",
             "ro": "Descoperiți tradiții, costume și meșteșuguri locale fascinante în acest muzeu autentic, alocând cel puțin o oră pentru a aprecia pe deplin expozițiile.",
-            "en": "Discover fascinating local traditions, costumes, and crafts in this authentic museum, and allocate at least an hour to fully appreciate the exhibits."
+            "en": "Discover fascinating local traditions, costumes, and crafts in this authentic museum, and allocate at least an hour to fully appreciate the exhibits.",
+            "fr": "Découvrez les traditions locales fascinantes, les costumes et les savoir-faire dans ce musée authentique, et prévoyez au moins une heure pour apprécier pleinement les expositions."
           }
         },
         {
@@ -90,7 +96,8 @@
             "de": "Stadttheater",
             "hu": "Városi Színház",
             "ro": "Teatrul Municipal",
-            "en": "Municipal Theater"
+            "en": "Municipal Theater",
+            "fr": "Théâtre municipal"
           },
           "coords": [
             7.788884,
@@ -105,7 +112,8 @@
             "de": "Bewundern Sie die elegante Fassade dieses kulturellen Zentrums aus dem 19. Jahrhundert und buchen Sie im Voraus, um eine Abendvorstellung zu erleben.",
             "hu": "Csodálja meg ennek a tizenkilencedik századi kulturális központnak az elegáns homlokzatát, és foglaljon előre jegyet, ha esti előadást szeretne látni.",
             "ro": "Admirați fațada elegantă a acestui centru cultural din secolul al XIX-lea și încercați să rezervați bilete din timp pentru un spectacol de seară.",
-            "en": "Marvel at the elegant facade of this 19th-century cultural hub, and try to book tickets in advance if you want to enjoy an evening performance here."
+            "en": "Marvel at the elegant facade of this 19th-century cultural hub, and try to book tickets in advance if you want to enjoy an evening performance here.",
+            "fr": "Admirez la façade élégante de ce centre culturel du XIXe siècle, et essayez de réserver des billets à l’avance si vous souhaitez assister à une représentation en soirée."
           }
         },
         {
@@ -113,7 +121,8 @@
             "de": "Historisches Museum",
             "hu": "Történeti Múzeum",
             "ro": "Muzeul de Istorie",
-            "en": "Historical Museum"
+            "en": "Historical Museum",
+            "fr": "Musée historique"
           },
           "coords": [
             7.79162,
@@ -128,7 +137,8 @@
             "de": "Tauchen Sie durch umfangreiche Sammlungen tief in die abwechslungsreiche Geschichte der Region ein und fragen Sie nach einem praktischen Audioguide.",
             "hu": "Merüljön el a régió hosszú és változatos történelmében a kiterjedt gyűjteményeken keresztül, és kérjen audioguide-ot a még több információhoz.",
             "ro": "Pătrundeți în istoria lungă și variată a regiunii prin colecții extinse și cereți un ghid audio la recepție pentru a afla și mai multe detalii.",
-            "en": "Dive deep into the long and varied history of the region through extensive collections, and ask the front desk for an audio guide to learn even more."
+            "en": "Dive deep into the long and varied history of the region through extensive collections, and ask the front desk for an audio guide to learn even more.",
+            "fr": "Plongez dans la longue et riche histoire de la région grâce à des collections étendues, et demandez un audioguide à l’accueil pour en apprendre davantage."
           }
         },
         {
@@ -136,7 +146,8 @@
             "de": "Kinderspielplatz",
             "hu": "Gyermekjátszótér",
             "ro": "Loc de joacă pentru copii",
-            "en": "Children's Playground"
+            "en": "Children's Playground",
+            "fr": "Aire de jeux pour enfants"
           },
           "coords": [
             7.784108,
@@ -151,7 +162,8 @@
             "de": "Lassen Sie die Kinder auf diesem gut ausgestatteten Spielplatz im Zentrum toben, der viele sichere Aktivitäten und bequeme Sitzgelegenheiten bietet.",
             "hu": "Hagyja, hogy a gyerekek levezessék az energiájukat ezen a jól felszerelt játszótéren, amely sok biztonságos játékot és ülőhelyet kínál a szülőknek.",
             "ro": "Lăsați copiii să-și consume energia la acest loc de joacă bine echipat din centru, care oferă numeroase activități sigure și bănci pentru părinți.",
-            "en": "Let the kids burn off some energy at this well-equipped playground in the city center, which offers plenty of safe activities and seating for parents."
+            "en": "Let the kids burn off some energy at this well-equipped playground in the city center, which offers plenty of safe activities and seating for parents.",
+            "fr": "Laissez les enfants se dépenser sur cette aire de jeux bien équipée au centre-ville, qui offre de nombreuses activités sécurisées et des bancs pour les parents."
           }
         }
       ],
@@ -159,7 +171,8 @@
         "de": "Unser Rundgang beginnt mit einem tiefen Einblick in Hagenaus Geschichte am beeindruckenden Ritterturm. Danach schlendern wir zur ikonischen Hopfenhalle, wo wir die landwirtschaftlichen Wurzeln und die lebhafte Marktatmosphäre entdecken.\n\nAm Mittag besuchen wir das faszinierende Elsässische Museum, in dem die regionale Kultur lebendig wird. Anschließend bewundern wir die schöne Fassade des Stadttheaters, ein stolzes Symbol für die Eleganz und darstellende Kunst des 19. Jahrhunderts.\n\nAm Nachmittag tauchen wir im Historischen Museum in die lokalen Artefakte ein. Der kurze Fußweg zwischen diesen zentralen Sehenswürdigkeiten ermöglicht uns ein sehr entspanntes und gemütliches Tempo im historischen Stadtkern.\n\nWir beenden unseren Tag an einem lebhaften Spielplatz, ein großartiger Ort zum Entspannen. Wenn die Sonne über Haguenau untergeht, können Sie einen gelungenen Tag im kulturellen Herzen dieser charmanten Stadt in Ruhe ausklingen lassen.",
         "hu": "Sétánk Haguenau történelmének mélyreható felfedezésével kezdődik a lenyűgöző Lovagok tornyánál. Ezután a híres Komlócsarnokhoz sétálunk, ahol megismerjük a város mezőgazdasági gyökereit és nyüzsgő piaci hangulatát a reggeli órákban.\n\nDélben az Elzászi Múzeumba látogatunk, ahol életre kel a regionális kultúra. Később megcsodáljuk a Városi Színház gyönyörű homlokzatát, amely a tizenkilencedik századi elegancia és az előadóművészetek büszke szimbólumaként áll a központban.\n\nDélután a Történeti Múzeumban merülünk el a helyi leletekben, bőséges időt töltve a kiállítások között. A központi látnivalók közötti rövid séta tökéletes egy kényelmes tempójú, fáradságmentes történelmi barangoláshoz.\n\nA napot egy nyüzsgő helyi játszótéren zárjuk, ami nagyszerű hely a kikapcsolódásra. Ahogy lemenőben van a nap Haguenau felett, visszatekinthetünk a bájos város kulturális szívében eltöltött gazdag és emlékezetes napunkra.",
         "ro": "Turul nostru pietonal începe cu o incursiune în istoria orașului Haguenau la impresionantul Turn al Cavalerilor. Apoi, ne plimbăm spre iconica Hală a Hameiului, descoperind rădăcinile agricole și atmosfera vibrantă a pieței.\n\nLa prânz ajungem la fascinantul Muzeu Alsacian, unde cultura regională prinde viață. După aceea, vom admira fațada frumoasă a Teatrului Municipal, un simbol mândru al eleganței și artelor spectacolului din secolul al XIX-lea.\n\nDupă-amiaza, ne cufundăm în artefactele locale la Muzeul de Istorie. Distanța scurtă dintre aceste repere centrale face din această plimbare o experiență relaxantă, perfectă pentru un ritm lejer și descoperiri culturale profunde.\n\nNe încheiem ziua la un loc de joacă local animat, excelent pentru relaxare. Pe măsură ce soarele apune peste Haguenau, puteți reflecta la o zi minunată petrecută explorând inima istorică a acestui oraș fermecător.",
-        "en": "Our walking tour starts with a deep dive into Haguenau's history at the impressive Knight's Tower. Then, we stroll down to the iconic Halle aux Houblons, discovering the city's rich agricultural roots and vibrant market atmosphere.\n\nMidday brings us to the fascinating Alsatian Museum, where regional culture comes alive. Afterward, we will admire the beautiful facade of the Municipal Theater, standing as a proud symbol of 19th-century elegance and performing arts.\n\nIn the afternoon, we immerse ourselves in local artifacts at the Historical Museum, spending ample time wandering through the exhibits. The walk between these central landmarks is short, making it perfect for a leisurely pace.\n\nWe conclude our day at a lively local playground, a great spot to relax or let children play. As the sun sets over Haguenau, you can reflect on a day well spent exploring the historic and cultural heart of this charming city."
+        "en": "Our walking tour starts with a deep dive into Haguenau's history at the impressive Knight's Tower. Then, we stroll down to the iconic Halle aux Houblons, discovering the city's rich agricultural roots and vibrant market atmosphere.\n\nMidday brings us to the fascinating Alsatian Museum, where regional culture comes alive. Afterward, we will admire the beautiful facade of the Municipal Theater, standing as a proud symbol of 19th-century elegance and performing arts.\n\nIn the afternoon, we immerse ourselves in local artifacts at the Historical Museum, spending ample time wandering through the exhibits. The walk between these central landmarks is short, making it perfect for a leisurely pace.\n\nWe conclude our day at a lively local playground, a great spot to relax or let children play. As the sun sets over Haguenau, you can reflect on a day well spent exploring the historic and cultural heart of this charming city.",
+        "fr": "Notre promenade commence par une immersion dans l’histoire d’Haguenau à la imposante Tour du Chevalier. Ensuite, nous descendons jusqu’à l’iconique Halle aux Houblons, découvrant les racines agricoles de la ville et l’animation de son marché.\n\nÀ midi, nous visitons le captivant Musée Alsacien où la culture régionale prend vie. Puis, nous admirerons la belle façade du Théâtre municipal, symbole fier de l’élégance et des arts du spectacle du XIXe siècle.\n\nL’après-midi, nous nous immergeons dans les objets locaux au Musée historique, en prenant le temps de déambuler dans les collections. Les distances entre ces sites centraux sont courtes, idéales pour un rythme détendu.\n\nNous terminons la journée dans une aire de jeux animée, un bel endroit pour se détendre ou laisser jouer les enfants. Au coucher du soleil sur Haguenau, vous pourrez repenser à une journée bien remplie au cœur historique et culturel de cette charmante ville."
       },
       "variants": {
         "rainy": {
@@ -167,7 +180,8 @@
             "de": "Morgens erkunden wir die historischen Türme unter grauem Himmel. Mittags bietet die Hopfenhalle idealen Schutz vor dem Regen, während wir die Architektur bewundern. Am Nachmittag tauchen wir in die trockene Wärme der Museen ein, um elsässische Kultur zu erleben. Abends beenden wir die Tour mit einem kurzen, erfrischenden Spaziergang; festes Schuhwerk ist wegen der rutschigen Pflastersteine ratsam.",
             "hu": "Reggel az eső áztatta ódon falak között kezdjük a felfedezést. Délben a Hopfenhalle hatalmas tetőszerkezete nyújt biztos menedéket a zápor elől. Délután a múzeumok belső tereiben kalandozunk, elkerülve a vizet. Este a városi fények megcsillannak a vizes aszfalton; az utolsó megállóhoz mindenképp vigyünk esernyőt, mert a kövek csúszósak lehetnek.",
             "ro": "Dimineața începe printre turnurile vechi sub cerul plumburiu. La prânz, Hopfenhalle oferă adăpostul perfect împotriva ploii în timp ce admirăm detaliile clădirii. După-amiaza este dedicată muzeelor călduroase, ferindu-ne de umezeală. Seara se încheie cu o plimbare scurtă prin oraș; atenție la pavajul alunecos și nu uitați pelerina de ploaie.",
-            "en": "Morning starts with medieval history under drizzling skies. At noon, the expansive roof of the Hopfenhalle provides a dry haven to admire the local architecture. Afternoon is spent inside cozy museum halls, escaping the damp weather. The evening ends with a brisk walk; waterproof shoes are essential as the cobblestones can be quite slippery when wet."
+            "en": "Morning starts with medieval history under drizzling skies. At noon, the expansive roof of the Hopfenhalle provides a dry haven to admire the local architecture. Afternoon is spent inside cozy museum halls, escaping the damp weather. The evening ends with a brisk walk; waterproof shoes are essential as the cobblestones can be quite slippery when wet.",
+            "fr": "La matinée commence par l’histoire médiévale sous une bruine persistante. À midi, la vaste toiture de la Halle aux Houblons offre un abri sec pour admirer l’architecture locale. L’après-midi se passe dans des musées chaleureux, à l’abri de l’humidité. La soirée se conclut par une marche tonique ; des chaussures imperméables sont essentielles car les pavés peuvent être très glissants lorsqu’ils sont mouillés."
           },
           "stops": [
             {
@@ -175,13 +189,15 @@
                 "de": "Ritterturm",
                 "hu": "Lovagok tornya",
                 "ro": "Turnul Cavalerilor",
-                "en": "Knight's Tower"
+                "en": "Knight's Tower",
+                "fr": "Tour du Chevalier"
               },
               "tip_5lang": {
                 "de": "Bewundern Sie die massiven Mauern vom Schutz der Torbögen aus und achten Sie auf die nassen, glatten Stufen beim Aufstieg.",
                 "hu": "Csodálja meg a masszív falakat az boltívek alól, és vigyázzon a vizes, csúszós lépcsőfokokra a torony bejáratánál.",
                 "ro": "Admirați zidurile masive de la adăpostul arcadelor și aveți grijă la treptele umede și alunecoase de la intrare.",
-                "en": "Admire the massive stone walls from the shelter of the archways and watch your step on the wet, slippery entrance stairs."
+                "en": "Admire the massive stone walls from the shelter of the archways and watch your step on the wet, slippery entrance stairs.",
+                "fr": "Admirez les massives murailles depuis l’abri des arches et faites attention aux marches d’entrée mouillées et glissantes."
               }
             },
             {
@@ -189,13 +205,15 @@
                 "de": "Hopfenhalle",
                 "hu": "Komlócsarnok",
                 "ro": "Hala Hameiului",
-                "en": "Halle aux Houblons"
+                "en": "Halle aux Houblons",
+                "fr": "Halle aux Houblons"
               },
               "tip_5lang": {
                 "de": "Nutzen Sie dieses imposante Gebäude als trockenen Treffpunkt, um die feinen Details der Eisenkonstruktion ohne Regenschirm zu studieren.",
                 "hu": "Használja ezt az impozáns épületet száraz találkahelyként, ahol esernyő nélkül tanulmányozhatja a vaskonstrukció finom részleteit.",
                 "ro": "Folosiți această clădire impunătoare ca punct de întâlnire uscat, unde puteți studia detaliile structurii de fier fără umbrelă.",
-                "en": "Use this impressive building as a dry meeting point to study the fine details of the iron construction without an umbrella."
+                "en": "Use this impressive building as a dry meeting point to study the fine details of the iron construction without an umbrella.",
+                "fr": "Utilisez ce bâtiment imposant comme point de rendez‑vous sec pour étudier les détails de la construction métallique sans parapluie."
               }
             },
             {
@@ -203,13 +221,15 @@
                 "de": "Elsässisches Museum",
                 "hu": "Elzászi Múzeum",
                 "ro": "Muzeul Alsacian",
-                "en": "Alsatian Museum"
+                "en": "Alsatian Museum",
+                "fr": "Musée Alsacien"
               },
               "tip_5lang": {
                 "de": "Ein perfekter Ort, um der Nässe zu entfliehen und in die gemütliche Atmosphäre traditioneller elsässischer Stuben einzutauchen.",
                 "hu": "Tökéletes hely, hogy elmeneküljön a nyirkosság elől, és elmerüljön a hagyományos elzászi szobák otthonos hangulatában.",
                 "ro": "Un loc perfect pentru a scăpa de umezeală și pentru a te cufunda în atmosfera primitoare a camerelor tradiționale alsaciene.",
-                "en": "A perfect place to escape the dampness and immerse yourself in the cozy atmosphere of traditional Alsatian living rooms."
+                "en": "A perfect place to escape the dampness and immerse yourself in the cozy atmosphere of traditional Alsatian living rooms.",
+                "fr": "Un lieu idéal pour échapper à l’humidité et s’immerger dans l’atmosphère chaleureuse des intérieurs traditionnels alsaciens."
               }
             },
             {
@@ -217,13 +237,15 @@
                 "de": "Stadttheater",
                 "hu": "Városi Színház",
                 "ro": "Teatrul Municipal",
-                "en": "Municipal Theater"
+                "en": "Municipal Theater",
+                "fr": "Théâtre municipal"
               },
               "tip_5lang": {
                 "de": "Betrachten Sie die prachtvolle Fassade aus der Ferne unter einem Vordach; der Regen verleiht dem Sandstein eine besondere Farbtiefe.",
                 "hu": "Tekintse meg a pompás homlokzatot távolról, egy eresz alól; az eső különleges színmélységet kölcsönöz a homokkőnek.",
                 "ro": "Priviți fațada splendidă de la distanță, sub o streașină; ploaia oferă o profunzime cromatică deosebită gresiei clădirii.",
-                "en": "View the splendid facade from a distance under a ledge; the rain gives the sandstone a unique depth of color."
+                "en": "View the splendid facade from a distance under a ledge; the rain gives the sandstone a unique depth of color.",
+                "fr": "Contemplez la splendide façade à distance sous un auvent ; la pluie donne une profondeur de couleur particulière au grès."
               }
             },
             {
@@ -231,13 +253,15 @@
                 "de": "Historisches Museum",
                 "hu": "Történeti Múzeum",
                 "ro": "Muzeul de Istorie",
-                "en": "Historical Museum"
+                "en": "Historical Museum",
+                "fr": "Musée historique"
               },
               "tip_5lang": {
                 "de": "Verbringen Sie hier reichlich Zeit im Trockenen, um die archäologischen Schätze ohne Zeitdruck durch das schlechte Wetter zu erkunden.",
                 "hu": "Töltsön itt bőséges időt szárazon, hogy az időjárás miatti sürgetés nélkül fedezhesse fel a régészeti kincseket.",
                 "ro": "Petreceți aici mult timp la adăpost pentru a explora comorile arheologice fără graba impusă de vremea rea de afară.",
-                "en": "Spend plenty of time here in the dry to explore archaeological treasures without the pressure of the bad weather outside."
+                "en": "Spend plenty of time here in the dry to explore archaeological treasures without the pressure of the bad weather outside.",
+                "fr": "Prévoyez suffisamment de temps ici lorsqu'il fait sec pour explorer les trésors archéologiques sans la contrainte du mauvais temps extérieur."
               }
             },
             {
@@ -245,13 +269,15 @@
                 "de": "Kinderspielplatz",
                 "hu": "Gyermekjátszótér",
                 "ro": "Loc de joacă pentru copii",
-                "en": "Children's Playground"
+                "en": "Children's Playground",
+                "fr": "Aire de jeux pour enfants"
               },
               "tip_5lang": {
                 "de": "Wählen Sie nur die überdachten Spielgeräte aus und tragen Sie wasserfeste Hosen, da die Sitzflächen der Schaukeln nass sein werden.",
                 "hu": "Csak a fedett játékelemeket válasszák, és viseljenek vízhatlan nadrágot, mivel a hinták ülőkéi biztosan vizesek lesznek.",
                 "ro": "Alegeți doar elementele de joacă acoperite și purtați pantaloni impermeabili, deoarece șezuturile leagănelor vor fi umede.",
-                "en": "Choose only the covered play equipment and wear waterproof trousers, as the swing seats are bound to be wet."
+                "en": "Choose only the covered play equipment and wear waterproof trousers, as the swing seats are bound to be wet.",
+                "fr": "Choisissez uniquement les jeux couverts et portez un pantalon imperméable, car les sièges des balançoires seront forcément mouillés."
               }
             }
           ]
@@ -261,7 +287,8 @@
             "de": "Morgens weht ein frischer Wind durch die Gassen, was den Besuch der alten Türme besonders belebend macht. Mittags suchen wir Schutz in den zugigen, aber beeindruckenden Hallen der Stadt. Am Nachmittag genießen wir die wohlige Wärme in den Museen, während draußen der Frost klirrt. Da die Sonne bereits gegen 17:00 Uhr untergeht, planen wir den Tag kompakt und enden bei stimmungsvoller Dämmerung.",
             "hu": "Reggel friss, jeges szél fúj az utcákon, ami különösen élénkítővé teszi az ódon tornyok megtekintését. Délben a város hatalmas csarnokaiban keresünk rövid pihenőt a hideg elől. Délután a múzeumok hívogató melegében töltődünk fel. Mivel a nap már 17:00 körül nyugovóra tér, a programot tömören alakítjuk, és a hangulatos alkonyatban fejezzük be a sétát.",
             "ro": "Dimineața, un vânt rece suflă pe străzi, făcând vizita la turnurile vechi foarte revigorantă. La prânz, căutăm scurte momente de respiro în halele impunătoare ale orașului. După-amiaza ne bucurăm de căldura muzeelor, în timp ce afară îngheață. Deoarece soarele apune deja în jurul orei 17:00, planificăm ziua compact și încheiem plimbarea în amurgul sclipitor.",
-            "en": "Morning brings a crisp, icy breeze through the streets, making the visit to the old towers quite invigorating. At noon, we take a short break in the city's grand halls to hide from the chill. Afternoon is spent in the comforting warmth of the museums. As the sun sets around 17:00, we keep the schedule compact and finish our walk in the atmospheric twilight."
+            "en": "Morning brings a crisp, icy breeze through the streets, making the visit to the old towers quite invigorating. At noon, we take a short break in the city's grand halls to hide from the chill. Afternoon is spent in the comforting warmth of the museums. As the sun sets around 17:00, we keep the schedule compact and finish our walk in the atmospheric twilight.",
+            "fr": "Le matin apporte une brise froide et glaciale dans les rues, rendant la visite des vieilles tours très vivifiante. À midi, nous faisons une courte pause dans les grandes salles de la ville pour nous abriter du froid. L'après‑midi se passe dans la chaleur réconfortante des musées. Au coucher du soleil vers 17:00, nous maintenons un programme compact et terminons notre promenade dans le crépuscule atmosphérique."
           },
           "stops": [
             {
@@ -269,13 +296,15 @@
                 "de": "Ritterturm",
                 "hu": "Lovagok tornya",
                 "ro": "Turnul Cavalerilor",
-                "en": "Knight's Tower"
+                "en": "Knight's Tower",
+                "fr": "Tour du Chevalier"
               },
               "tip_5lang": {
                 "de": "Machen Sie ein schnelles Foto bei tiefstehender Wintersonne und halten Sie die Handschuhe bereit, da der Stein eiskalt ist.",
                 "hu": "Készítsen egy gyors fotót az alacsonyan járó téli napsütésben, és tartsa készenlétben a kesztyűjét, mert a kőfalak jéghidegek.",
                 "ro": "Faceți o fotografie rapidă în lumina joasă a soarelui de iarnă și pregătiți mănușile, deoarece piatra este extrem de rece.",
-                "en": "Take a quick photo in the low winter sunlight and keep your gloves ready, as the stone walls are freezing cold."
+                "en": "Take a quick photo in the low winter sunlight and keep your gloves ready, as the stone walls are freezing cold.",
+                "fr": "Prenez une photo rapide dans la faible lumière hivernale et gardez vos gants à portée de main, car les murs de pierre sont glacés."
               }
             },
             {
@@ -283,13 +312,15 @@
                 "de": "Hopfenhalle",
                 "hu": "Komlócsarnok",
                 "ro": "Hala Hameiului",
-                "en": "Halle aux Houblons"
+                "en": "Halle aux Houblons",
+                "fr": "Halle aux Houblons"
               },
               "tip_5lang": {
                 "de": "Tragen Sie einen warmen Schal, da die offene Architektur der Halle im Winter recht zugig sein kann, aber tolles Licht bietet.",
                 "hu": "Viseljen meleg sálat, mivel a csarnok nyitott szerkezete télen elég huzatos lehet, bár a fények ilyenkor is gyönyörűek.",
                 "ro": "Purtați un fular gros, deoarece structura deschisă a halei poate fi destul de curentată iarna, deși lumina este superbă.",
-                "en": "Wear a warm scarf, as the open structure of the hall can be quite drafty in winter, though the light is beautiful."
+                "en": "Wear a warm scarf, as the open structure of the hall can be quite drafty in winter, though the light is beautiful.",
+                "fr": "Portez une écharpe chaude, car la structure ouverte de la halle peut être assez courante en hiver, bien que la lumière y soit belle."
               }
             },
             {
@@ -297,13 +328,15 @@
                 "de": "Elsässisches Museum",
                 "hu": "Elzászi Múzeum",
                 "ro": "Muzeul Alsacian",
-                "en": "Alsatian Museum"
+                "en": "Alsatian Museum",
+                "fr": "Musée alsacien"
               },
               "tip_5lang": {
                 "de": "Nutzen Sie die Garderobe für Ihre schwere Winterkleidung, damit Sie die geheizten Ausstellungsräume entspannt genießen können.",
                 "hu": "Használja a ruhatárat a nehéz téli kabátokhoz, hogy felszabadultan élvezhesse a fűtött kiállítóterek kényelmét.",
                 "ro": "Folosiți garderoba pentru hainele groase de iarnă, astfel încât să vă puteți bucura relaxat de spațiile expoziționale încălzite.",
-                "en": "Use the cloakroom for your heavy winter coats so you can freely enjoy the heated exhibition spaces in comfort."
+                "en": "Use the cloakroom for your heavy winter coats so you can freely enjoy the heated exhibition spaces in comfort.",
+                "fr": "Utilisez le vestiaire pour vos lourds manteaux d'hiver afin de profiter librement des espaces d'exposition chauffés."
               }
             },
             {
@@ -311,13 +344,15 @@
                 "de": "Stadttheater",
                 "hu": "Városi Színház",
                 "ro": "Teatrul Municipal",
-                "en": "Municipal Theater"
+                "en": "Municipal Theater",
+                "fr": "Théâtre municipal"
               },
               "tip_5lang": {
                 "de": "Bewundern Sie das beleuchtete Theater in der frühen Dämmerung; die gelben Lichter bilden einen schönen Kontrast zum blauen Winterhimmel.",
                 "hu": "Csodálja meg a kivilágított színházat a kora esti szürkületben; a sárga fények szép kontrasztot alkotnak a kék téli éggel.",
                 "ro": "Admirați teatrul iluminat în amurgul timpuriu; luminile galbene creează un contrast frumos cu cerul albastru de iarnă.",
-                "en": "Admire the illuminated theater in the early twilight; the yellow lights create a beautiful contrast with the blue winter sky."
+                "en": "Admire the illuminated theater in the early twilight; the yellow lights create a beautiful contrast with the blue winter sky.",
+                "fr": "Admirez le théâtre illuminé au crépuscule ; les lumières jaunes créent un beau contraste avec le ciel bleu hivernal."
               }
             },
             {
@@ -325,13 +360,15 @@
                 "de": "Historisches Museum",
                 "hu": "Történeti Múzeum",
                 "ro": "Muzeul de Istorie",
-                "en": "Historical Museum"
+                "en": "Historical Museum",
+                "fr": "Musée historique"
               },
               "tip_5lang": {
                 "de": "Wärmen Sie sich hier gründlich auf, bevor Sie den letzten Teil des Weges in der kalten Abendluft antreten.",
                 "hu": "Melegedjen fel itt alaposan, mielőtt elindulna az út utolsó szakaszára a hideg esti levegőben.",
                 "ro": "Încălziți-vă bine aici înainte de a porni pe ultima etapă a drumului în aerul rece de seară.",
-                "en": "Warm up thoroughly here before starting the final leg of your journey in the cold evening air."
+                "en": "Warm up thoroughly here before starting the final leg of your journey in the cold evening air.",
+                "fr": "Réchauffez‑vous bien ici avant d'entamer le dernier tronçon de votre parcours dans l'air froid du soir."
               }
             },
             {
@@ -339,13 +376,15 @@
                 "de": "Kinderspielplatz",
                 "hu": "Gyermekjátszótér",
                 "ro": "Loc de joacă pentru copii",
-                "en": "Children's Playground"
+                "en": "Children's Playground",
+                "fr": "Aire de jeux pour enfants"
               },
               "tip_5lang": {
                 "de": "Planen Sie diesen Stopp kurz vor 17:00 Uhr ein, da es danach schnell dunkel wird und die Metallrutschen sehr kalt sind.",
                 "hu": "Ezt a megállót 17:00 előttre tervezze, mert utána gyorsan sötétedik, és a fém csúszdák ilyenkor már nagyon hidegek.",
                 "ro": "Planificați această oprire înainte de ora 17:00, deoarece se întunecă repede, iar toboganele de metal sunt foarte reci.",
-                "en": "Plan this stop before 17:00, as it gets dark quickly after that and the metal slides are very cold by then."
+                "en": "Plan this stop before 17:00, as it gets dark quickly after that and the metal slides are very cold by then.",
+                "fr": "Planifiez cet arrêt avant 17:00, car il fait rapidement sombre après et les toboggans métalliques sont alors très froids."
               }
             }
           ]
@@ -365,7 +404,8 @@
             "de": "Ritterturm",
             "hu": "Lovagok tornya",
             "ro": "Turnul Cavalerilor",
-            "en": "Knight's Tower"
+            "en": "Knight's Tower",
+            "fr": "Tour du Chevalier"
           },
           "coords": [
             7.7875,
@@ -380,7 +420,8 @@
             "de": "Bewundern Sie die mittelalterliche Architektur dieses alten Tores, das einst die Stadtmauern schützte, und machen Sie früh morgens die besten Fotos.",
             "hu": "Csodálja meg a középkori építészetet ennél az ősi kapunál, amely egykor a városfalakat védte, és fotózzon kora reggel a legjobb fényviszonyokért.",
             "ro": "Admirați arhitectura medievală a acestei porți antice, care apăra odinioară zidurile orașului, și faceți poze dimineața devreme pentru lumină optimă.",
-            "en": "Admire the medieval architecture of this ancient gateway, which once defended the city walls, and take photos early to avoid harsh midday sunlight."
+            "en": "Admire the medieval architecture of this ancient gateway, which once defended the city walls, and take photos early to avoid harsh midday sunlight.",
+            "fr": "Admirez l'architecture médiévale de cette ancienne porte qui défendait autrefois les remparts, et prenez des photos tôt pour éviter la lumière dure de midi."
           }
         },
         {
@@ -388,7 +429,8 @@
             "de": "Hopfenhalle",
             "hu": "Komlócsarnok",
             "ro": "Hala Hameiului",
-            "en": "Halle aux Houblons"
+            "en": "Halle aux Houblons",
+            "fr": "Halle aux Houblons"
           },
           "coords": [
             7.790959,
@@ -403,7 +445,8 @@
             "de": "Erkunden Sie die historische Hopfenhalle, die von der reichen Agrarvergangenheit zeugt, und besuchen Sie sie an Tagen mit einem lebhaften Markt.",
             "hu": "Fedezze fel ezt a történelmi komlópiacot, amely Haguenau gazdag mezőgazdasági múltját tükrözi, és nézze meg a helyi termelői piacok menetrendjét.",
             "ro": "Explorați această clădire istorică a pieței de hamei, ce reflectă trecutul agricol bogat, și verificați programul pentru a prinde o piață locală.",
-            "en": "Explore this historic hop market building, reflecting Haguenau's rich agricultural past, and check local schedules as it often hosts vibrant markets."
+            "en": "Explore this historic hop market building, reflecting Haguenau's rich agricultural past, and check local schedules as it often hosts vibrant markets.",
+            "fr": "Explorez ce bâtiment historique du marché au houblon, reflet du riche passé agricole de Haguenau, et consultez les horaires locaux car il accueille souvent des marchés animés."
           }
         },
         {
@@ -411,7 +454,8 @@
             "de": "Elsässisches Museum",
             "hu": "Elzászi Múzeum",
             "ro": "Muzeul Alsacian",
-            "en": "Alsatian Museum"
+            "en": "Alsatian Museum",
+            "fr": "Musée alsacien"
           },
           "coords": [
             7.789714,
@@ -426,7 +470,8 @@
             "de": "Entdecken Sie faszinierende lokale Traditionen, Trachten und Handwerkskunst in diesem Museum und planen Sie mindestens eine Stunde für den Besuch ein.",
             "hu": "Fedezze fel a lenyűgöző helyi hagyományokat, jelmezeket és kézműves termékeket, és szánjon legalább egy órát a kiállítások alapos megtekintésére.",
             "ro": "Descoperiți tradiții, costume și meșteșuguri locale fascinante în acest muzeu autentic, alocând cel puțin o oră pentru a aprecia pe deplin expozițiile.",
-            "en": "Discover fascinating local traditions, costumes, and crafts in this authentic museum, and allocate at least an hour to fully appreciate the exhibits."
+            "en": "Discover fascinating local traditions, costumes, and crafts in this authentic museum, and allocate at least an hour to fully appreciate the exhibits.",
+            "fr": "Découvrez des traditions locales fascinantes, des costumes et des métiers dans ce musée authentique, et prévoyez au moins une heure pour apprécier pleinement les expositions."
           }
         },
         {
@@ -434,7 +479,8 @@
             "de": "Historisches Museum",
             "hu": "Történeti Múzeum",
             "ro": "Muzeul de Istorie",
-            "en": "Historical Museum"
+            "en": "Historical Museum",
+            "fr": "Musée historique"
           },
           "coords": [
             7.79162,
@@ -449,7 +495,8 @@
             "de": "Tauchen Sie durch umfangreiche Sammlungen tief in die abwechslungsreiche Geschichte der Region ein und fragen Sie nach einem praktischen Audioguide.",
             "hu": "Merüljön el a régió hosszú és változatos történelmében a kiterjedt gyűjteményeken keresztül, és kérjen audioguide-ot a még több információhoz.",
             "ro": "Pătrundeți în istoria lungă și variată a regiunii prin colecții extinse și cereți un ghid audio la recepție pentru a afla și mai multe detalii.",
-            "en": "Dive deep into the long and varied history of the region through extensive collections, and ask the front desk for an audio guide to learn even more."
+            "en": "Dive deep into the long and varied history of the region through extensive collections, and ask the front desk for an audio guide to learn even more.",
+            "fr": "Plongez au cœur de l'histoire longue et variée de la région grâce à des collections étendues, et demandez à l'accueil un audioguide pour en apprendre encore plus."
           }
         },
         {
@@ -457,7 +504,8 @@
             "de": "Étang du Nonnenhof",
             "hu": "Étang du Nonnenhof",
             "ro": "Iazul Nonnenhof",
-            "en": "Étang du Nonnenhof"
+            "en": "Étang du Nonnenhof",
+            "fr": "Étang du Nonnenhof"
           },
           "coords": [
             7.826991,
@@ -472,7 +520,8 @@
             "de": "Entspannen Sie an diesem ruhigen Teich, der eine perfekte Flucht aus der Stadt bietet, und bringen Sie ein Mittagessen für ein Picknick in der Natur mit.",
             "hu": "Pihenjen ennél a nyugodt tónál, amely tökéletes természetes menedéket nyújt a városból, és hozzon magával csomagolt ebédet egy piknikhez.",
             "ro": "Relaxați-vă lângă acest iaz liniștit care oferă o evadare naturală perfectă din oraș și aduceți un prânz la pachet pentru a face un picnic pitoresc.",
-            "en": "Relax by this tranquil pond that provides a perfect natural escape from the city, and bring a packed lunch to enjoy at one of the scenic picnic spots."
+            "en": "Relax by this tranquil pond that provides a perfect natural escape from the city, and bring a packed lunch to enjoy at one of the scenic picnic spots.",
+            "fr": "Détendez‑vous près de cet étang paisible qui offre une parfaite escapade naturelle hors de la ville, et apportez un pique‑nique à déguster sur l'un des beaux emplacements."
           }
         },
         {
@@ -480,7 +529,8 @@
             "de": "Regenrückhaltebecken",
             "hu": "Viharvíz-tározó",
             "ro": "Bazinul de retenție",
-            "en": "Stormwater Basin"
+            "en": "Stormwater Basin",
+            "fr": "Bassin d'orage"
           },
           "coords": [
             7.789826,
@@ -495,7 +545,8 @@
             "de": "Machen Sie einen ruhigen Spaziergang um dieses Becken, das zu einem Zufluchtsort für Tiere geworden ist, und halten Sie Ausschau nach Wasservögeln.",
             "hu": "Tegyen egy békés sétát ezen a viharvíz-tározón, amely mára vadvilági menedékké vált, és figyelje meg a vízparton pihenő helyi madárfajokat.",
             "ro": "Faceți o plimbare liniștită în jurul acestui bazin care a devenit un refugiu pentru fauna sălbatică și priviți după păsările locale care se odihnesc aici.",
-            "en": "Take a peaceful stroll around this stormwater basin that has become a wildlife haven, and keep your eyes peeled for local birds resting by the water."
+            "en": "Take a peaceful stroll around this stormwater basin that has become a wildlife haven, and keep your eyes peeled for local birds resting by the water.",
+            "fr": "Faites une promenade paisible autour de ce bassin d'orage devenu un refuge pour la faune, et ouvrez l'œil pour repérer les oiseaux locaux posés près de l'eau."
           }
         }
       ],
@@ -503,7 +554,8 @@
         "de": "Wir beginnen unser Fahrradabenteuer am historischen Ritterturm im Stadtzentrum. Ein kurzes Stück führt uns zur Hopfenhalle, wo wir die lokale Marktatmosphäre aufsaugen können, bevor wir wieder in die Pedale treten.\n\nBis zum Mittag erkunden wir zwei unglaubliche Kulturstätten: das Elsässische Museum und das Historische Museum. Wenn wir unsere Fahrräder sicher abstellen, können wir vollständig in das reiche Erbe von Haguenau eintauchen.\n\nAm Nachmittag fahren wir hinaus zum Étang du Nonnenhof. Diese malerische Fahrt weg vom städtischen Zentrum belohnt uns mit einem friedlichen Naturrückzugsort, der sich perfekt für eine erfrischende Pause eignet.\n\nUnser letztes Stück führt zum Bassin d'orage, einem weiteren ruhigen Ort in der Natur. Die Rückfahrt bei Anbruch des Abends bietet einen sanften, luftigen Abschluss eines Tages, der Stadtgeschichte und Landschaften perfekt in Einklang bringt.",
         "hu": "Kerékpáros kalandunkat a városközpontban található történelmi Lovagok tornyánál kezdjük. Egy rövid tekerés a Komlócsarnokhoz vezet, ahol magunkba szívhatjuk a helyi piac hangulatát, mielőtt újra útnak indulnánk a városban.\n\nDélben két hihetetlen kulturális helyszínt fedezünk fel: az Elzászi Múzeumot és a Történeti Múzeumot. Kerékpárjainkat biztonságban letéve teljesen elmerülhetünk Haguenau gazdag örökségében és lenyűgöző kiállításaiban.\n\nA délután folyamán a természet felé vesszük az irányt, és az Étang du Nonnenhofhoz kerekezünk. Ez a festői, várostól távolabbi útvonal egy békés természetközeli élménnyel jutalmaz minket a frissítő szünet során.\n\nUtolsó szakaszunk a Bassin d'orage-hoz vezet, egy újabb csendes helyhez a természetben. Az esti kerékpározás hazafelé kellemes, szellős lezárása lesz ennek a napnak, amely tökéletesen egyensúlyozta a várost és a tájat.",
         "ro": "Ne începem aventura pe bicicletă la istoricul Turn al Cavalerilor din centru. O pedalare scurtă ne duce la Hala Hameiului, unde ne putem bucura de atmosfera pieței locale înainte de a porni din nou la drum prin oraș.\n\nPână la prânz, explorăm două situri culturale incredibile: Muzeul Alsacian și Muzeul de Istorie. Lăsându-ne bicicletele parcate în siguranță, ne putem cufunda complet în moștenirea bogată a orașului Haguenau și în expoziții.\n\nDupă-amiaza schimbăm decorul și pedalăm spre Étang du Nonnenhof. Această plimbare pitorească departe de centrul urban ne recompensează cu un refugiu natural pașnic, perfect pentru o pauză reconfortantă.\n\nUltima porțiune ne conduce la Bassin d'orage, un alt loc liniștit pentru a ne conecta cu natura. Întoarcerea pe bicicletă odată cu lăsarea serii oferă o încheiere plăcută și răcoroasă a unei zile echilibrate perfect.",
-        "en": "We kick off our cycling adventure at the historic Knight's Tower in the city center. A short pedal takes us to the Halle aux Houblons, where we can soak in the local market vibes before hitting the road again.\n\nBy midday, we explore two incredible cultural sites: the Alsatian Museum and the Historical Museum. Leaving our bikes safely parked, we can fully immerse ourselves in Haguenau's rich heritage and fascinating exhibits.\n\nThe afternoon shifts gears as we cycle out to the Étang du Nonnenhof. This scenic ride away from the urban center rewards us with a peaceful natural retreat, perfect for a refreshing break and some wildlife spotting.\n\nOur final stretch leads to the Bassin d'orage, another quiet spot to connect with nature. Cycling back as the evening approaches offers a gentle, breezy conclusion to a day that perfectly balanced city history and green landscapes."
+        "en": "We kick off our cycling adventure at the historic Knight's Tower in the city center. A short pedal takes us to the Halle aux Houblons, where we can soak in the local market vibes before hitting the road again.\n\nBy midday, we explore two incredible cultural sites: the Alsatian Museum and the Historical Museum. Leaving our bikes safely parked, we can fully immerse ourselves in Haguenau's rich heritage and fascinating exhibits.\n\nThe afternoon shifts gears as we cycle out to the Étang du Nonnenhof. This scenic ride away from the urban center rewards us with a peaceful natural retreat, perfect for a refreshing break and some wildlife spotting.\n\nOur final stretch leads to the Bassin d'orage, another quiet spot to connect with nature. Cycling back as the evening approaches offers a gentle, breezy conclusion to a day that perfectly balanced city history and green landscapes.",
+        "fr": "Nous commençons notre aventure à vélo à la historic Tour du Chevalier au centre‑ville. Une courte pédalée nous mène à la Halle aux Houblons, où nous pouvons profiter de l'ambiance du marché local avant de reprendre la route.\n\nÀ midi, nous explorons deux sites culturels remarquables : le Musée alsacien et le Musée historique. Laissant nos vélos bien garés, nous pouvons nous immerger pleinement dans le riche patrimoine et les expositions fascinantes de Haguenau.\n\nL'après‑midi change d'ambiance lorsque nous roulons jusqu'à l'Étang du Nonnenhof. Cette balade pittoresque hors du centre urbain nous récompense par une retraite naturelle paisible, idéale pour une pause revigorante et de l'observation de la faune.\n\nNotre dernier tronçon mène au Bassin d'orage, un autre lieu tranquille pour se reconnecter avec la nature. Le retour à vélo en fin de journée offre une conclusion douce et venteuse à une journée qui a parfaitement équilibré histoire urbaine et paysages verts."
       },
       "variants": {
         "rainy": {
@@ -511,7 +563,8 @@
             "de": "Regnerische Tage erfordern auf dem Rad volle Konzentration und gute Ausrüstung. Morgens radeln wir vorsichtig über glitschiges Kopfsteinpflaster zu den historischen Sehenswürdigkeiten. Mittags nutzen wir die Museen als ideale Pausenstationen, um die Kleidung zu trocknen. Am Nachmittag führt der Weg entlang der Kanäle; achten Sie auf Pfützen und schlammige Wege an den Teichen, während die Brise den Regen peitscht.",
             "hu": "Az esős napok teljes koncentrációt és jó felszerelést igényelnek a bringán. Reggel óvatosan tekerünk a csúszós macskaköveken a történelmi látnivalók felé. Délben a múzeumokat használjuk pihenőként, hogy megszárítsuk a ruháinkat. Délután a csatornák mentén haladunk; figyeljünk a tóparti tócsákra és a saras utakra, miközben a szél az arcunkba hordja az esőt.",
             "ro": "Zilele ploioase necesită concentrare maximă și echipament bun pe bicicletă. Dimineața pedalăm cu grijă pe pavajul alunecos spre atracțiile istorice. La prânz folosim muzeele ca puncte de oprire ideale pentru a ne usca hainele. După-amiaza drumul ne poartă de-a lungul canalelor; atenție la bălți și drumuri noroioase lângă iazuri.",
-            "en": "Rainy days require full concentration and good gear on the bike. In the morning, we cycle cautiously over slippery cobblestones toward the historic sites. At noon, we use the museums as perfect pit stops to dry our clothes. In the afternoon, the route takes us along the canals; watch out for puddles and muddy paths near the ponds as the wind whips the rain."
+            "en": "Rainy days require full concentration and good gear on the bike. In the morning, we cycle cautiously over slippery cobblestones toward the historic sites. At noon, we use the museums as perfect pit stops to dry our clothes. In the afternoon, the route takes us along the canals; watch out for puddles and muddy paths near the ponds as the wind whips the rain.",
+            "fr": "Les jours de pluie exigent une concentration totale et du bon équipement à vélo. Le matin, nous roulons prudemment sur des pavés glissants vers les sites historiques. À midi, nous utilisons les musées comme parfaits refuges pour sécher nos vêtements. L'après‑midi, l'itinéraire longe les canaux ; attention aux flaques et aux chemins boueux près des étangs lorsque le vent soulève la pluie."
           },
           "stops": [
             {
@@ -519,13 +572,15 @@
                 "de": "Ritterturm",
                 "hu": "Lovagok tornya",
                 "ro": "Turnul Cavalerilor",
-                "en": "Knight's Tower"
+                "en": "Knight's Tower",
+                "fr": "Tour du Chevalier"
               },
               "tip_5lang": {
                 "de": "Parken Sie Ihr Rad an einem sicheren Ort und achten Sie beim Absteigen auf den rutschigen Untergrund direkt am Turm.",
                 "hu": "Parkolja le a bringát biztonságos helyen, és leszálláskor figyeljen a torony melletti csúszós talajra.",
                 "ro": "Parcați bicicleta într-un loc sigur și fiți atenți la solul alunecos de lângă turn atunci când coborâți.",
-                "en": "Park your bike in a safe spot and watch out for the slippery ground right by the tower when dismounting."
+                "en": "Park your bike in a safe spot and watch out for the slippery ground right by the tower when dismounting.",
+                "fr": "Garez votre vélo en lieu sûr et attention au sol glissant juste à côté de la tour en descendant de selle."
               }
             },
             {
@@ -533,13 +588,15 @@
                 "de": "Hopfenhalle",
                 "hu": "Komlócsarnok",
                 "ro": "Hala Hameiului",
-                "en": "Halle aux Houblons"
+                "en": "Halle aux Houblons",
+                "fr": "Halle aux Houblons"
               },
               "tip_5lang": {
                 "de": "Die Halle bietet genug Platz, um das Rad kurz unterzustellen und die Regenjacke auszuschütteln, während man die Halle besichtigt.",
                 "hu": "A csarnok elég tágas ahhoz, hogy rövid időre fedett helyre tegyük a gépet, és lerázzuk az esőt a kabátunkról nézelődés közben.",
                 "ro": "Hala oferă suficient spațiu pentru a lăsa bicicleta la adăpost scurt timp și pentru a scutura pelerina de ploaie în timp ce vizitați.",
-                "en": "The hall offers enough space to briefly shelter your bike and shake off your rain jacket while you take a look around."
+                "en": "The hall offers enough space to briefly shelter your bike and shake off your rain jacket while you take a look around.",
+                "fr": "La halle offre suffisamment d'espace pour abriter brièvement votre vélo et secouer votre veste de pluie pendant votre visite."
               }
             },
             {
@@ -547,13 +604,15 @@
                 "de": "Elsässisches Museum",
                 "hu": "Elzászi Múzeum",
                 "ro": "Muzeul Alsacian",
-                "en": "Alsatian Museum"
+                "en": "Alsatian Museum",
+                "fr": "Musée alsacien"
               },
               "tip_5lang": {
                 "de": "Nutzen Sie die Zeit im Museum für eine längere Aufwärmpause und prüfen Sie Ihre Bremsen nach der Fahrt durch die Nässe.",
                 "hu": "Használja ki a múzeumi időt egy hosszabb melegedőre, és ellenőrizze a fékeket a vizes utakon való tekerés után.",
                 "ro": "Folosiți timpul petrecut în muzeu pentru o pauză mai lungă de încălzire și verificați frânele după mersul prin umezeală.",
-                "en": "Use the time in the museum for a longer warm-up break and check your brakes after cycling through the wet conditions."
+                "en": "Use the time in the museum for a longer warm-up break and check your brakes after cycling through the wet conditions.",
+                "fr": "Profitez du temps au musée pour une pause de remise en chaleur plus longue et vérifiez vos freins après avoir roulé sous la pluie."
               }
             },
             {
@@ -561,13 +620,15 @@
                 "de": "Historisches Museum",
                 "hu": "Történeti Múzeum",
                 "ro": "Muzeul de Istorie",
-                "en": "Historical Museum"
+                "en": "Historical Museum",
+                "fr": "Musée historique"
               },
               "tip_5lang": {
                 "de": "Sichern Sie Ihr Rad gut und verstauen Sie lose Taschen wasserdicht, bevor Sie das Museum für längere Zeit betreten.",
                 "hu": "Zárja le biztonságosan a bringát, és pakolja el vízhatlanul a táskáit, mielőtt hosszabb időre bemenne a múzeumba.",
                 "ro": "Asigurați bine bicicleta și depozitați gențile în mod impermeabil înainte de a intra în muzeu pentru o perioadă mai lungă.",
-                "en": "Secure your bike well and store any loose bags in a waterproof way before entering the museum for an extended period."
+                "en": "Secure your bike well and store any loose bags in a waterproof way before entering the museum for an extended period.",
+                "fr": "Sécurisez bien votre vélo et rangez les sacs détachables de façon étanche avant d'entrer pour une visite prolongée."
               }
             },
             {
@@ -575,13 +636,15 @@
                 "de": "Étang du Nonnenhof",
                 "hu": "Étang du Nonnenhof",
                 "ro": "Iazul Nonnenhof",
-                "en": "Étang du Nonnenhof"
+                "en": "Étang du Nonnenhof",
+                "fr": "Étang du Nonnenhof"
               },
               "tip_5lang": {
                 "de": "Achten Sie auf dem unbefestigten Weg zum Teich auf tiefe Pfützen und weichen Schlamm, der die Reifen einsinken lässt.",
                 "hu": "A tóhoz vezető kiépítetlen úton figyeljen a mély tócsákra és a puha sárra, amibe könnyen belesüllyedhet a kerék.",
                 "ro": "Pe drumul neamenajat spre iaz, aveți grijă la bălțile adânci și noroiul moale care poate bloca roțile bicicletei.",
-                "en": "On the unpaved path to the pond, watch out for deep puddles and soft mud that can cause the tires to sink in."
+                "en": "On the unpaved path to the pond, watch out for deep puddles and soft mud that can cause the tires to sink in.",
+                "fr": "Sur le chemin non revêtu vers l'étang, attention aux flaques profondes et à la boue molle qui peuvent faire enfoncer les pneus."
               }
             },
             {
@@ -589,13 +652,15 @@
                 "de": "Regenrückhaltebecken",
                 "hu": "Viharvíz-tározó",
                 "ro": "Bazinul de retenție",
-                "en": "Stormwater Basin"
+                "en": "Stormwater Basin",
+                "fr": "Bassin d'orage"
               },
               "tip_5lang": {
                 "de": "Beobachten Sie, wie das Becken bei Regen seinen Zweck erfüllt, aber bleiben Sie wegen der rutschigen Graskanten auf dem Asphalt.",
                 "hu": "Nézze meg, hogyan tölti be funkcióját a tározó esőben, de a csúszós füves szegélyek miatt maradjon végig az aszfalton.",
                 "ro": "Observați cum bazinul își îndeplinește rolul pe ploaie, dar rămâneți pe asfalt din cauza marginilor de iarbă alunecoase.",
-                "en": "Watch how the basin fulfills its purpose in the rain, but stay on the asphalt due to the slippery grassy edges."
+                "en": "Watch how the basin fulfills its purpose in the rain, but stay on the asphalt due to the slippery grassy edges.",
+                "fr": "Observez comment le bassin remplit sa fonction sous la pluie, mais restez sur l'asphalte à cause des bords herbeux glissants."
               }
             }
           ]
@@ -605,7 +670,8 @@
             "de": "Winterliches Radfahren in Haguenau ist erfrischend, erfordert aber warme Handschuhe gegen den Fahrtwind. Morgens gleiten wir durch die stille, frostige Stadt zu den historischen Türmen. Mittags wärmen wir uns in den geschützten Bereichen auf, bevor wir die kulturellen Highlights ansteuern. Der Nachmittag führt uns in die Natur; wir müssen die Zeit gut nutzen, da die Sonne bereits um 17:00 Uhr untergeht und es schlagartig kälter wird.",
             "hu": "A téli bringázás Haguenau-ban frissítő, de meleg kesztyűt igényel a menetszél ellen. Reggel a csendes, deres városon keresztül gurulunk az ódon tornyokhoz. Délben a szélvédettebb helyeken pihenünk, mielőtt a kulturális pontok felé vennénk az irányt. Délután a természetbe tekerünk; jól kell gazdálkodnunk az idővel, mert 17:00-kor lemegy a nap és hirtelen lehűl a levegő.",
             "ro": "Mersul pe bicicletă iarna în Haguenau este revigorant, dar necesită mănuși groase împotriva vântului. Dimineața traversăm orașul înghețat spre turnurile istorice. La prânz ne odihnim în locuri ferite de vânt înainte de a vizita punctele culturale. După-amiaza pedalăm în natură; trebuie să gestionăm bine timpul, deoarece soarele apune la 17:00 și se face brusc foarte frig.",
-            "en": "Winter cycling in Haguenau is refreshing but requires warm gloves against the wind chill. In the morning, we glide through the quiet, frosty city toward the historic towers. At noon, we rest in sheltered spots before heading to cultural highlights. The afternoon takes us into nature; we must manage our time well as the sun sets at 17:00 and the temperature drops sharply."
+            "en": "Winter cycling in Haguenau is refreshing but requires warm gloves against the wind chill. In the morning, we glide through the quiet, frosty city toward the historic towers. At noon, we rest in sheltered spots before heading to cultural highlights. The afternoon takes us into nature; we must manage our time well as the sun sets at 17:00 and the temperature drops sharply.",
+            "fr": "Le vélo en hiver à Haguenau est vivifiant mais réclame des gants chauds contre le froid du vent. Le matin, nous glissons à travers la ville calme et givrée vers les tours historiques. À midi, nous nous reposons dans des endroits abrités avant de rejoindre les points culturels. L'après‑midi nous mène en pleine nature ; il faut bien gérer le temps car le soleil se couche à 17:00 et la température baisse fortement."
           },
           "stops": [
             {
@@ -613,13 +679,15 @@
                 "de": "Ritterturm",
                 "hu": "Lovagok tornya",
                 "ro": "Turnul Cavalerilor",
-                "en": "Knight's Tower"
+                "en": "Knight's Tower",
+                "fr": "Tour du Chevalier"
               },
               "tip_5lang": {
                 "de": "Die tiefstehende Sonne bietet wunderbare Fotomotive; achten Sie beim Parken auf gefrorene Pfützen im Schatten des Turms.",
                 "hu": "Az alacsony napállás remek fotótémát kínál; parkoláskor ügyeljen a torony árnyékában lévő fagyott tócsákra.",
                 "ro": "Soarele jos oferă oportunități foto superbe; aveți grijă la bălțile înghețate din umbra turnului când parcați.",
-                "en": "The low sun offers wonderful photo opportunities; watch out for frozen puddles in the tower's shadow when parking."
+                "en": "The low sun offers wonderful photo opportunities; watch out for frozen puddles in the tower's shadow when parking.",
+                "fr": "Le soleil bas offre de magnifiques opportunités photo ; méfiez‑vous des flaques gelées dans l'ombre de la tour lorsque vous garez."
               }
             },
             {
@@ -627,13 +695,15 @@
                 "de": "Hopfenhalle",
                 "hu": "Komlócsarnok",
                 "ro": "Hala Hameiului",
-                "en": "Halle aux Houblons"
+                "en": "Halle aux Houblons",
+                "fr": "Halle aux Houblons"
               },
               "tip_5lang": {
                 "de": "Diese Halle ist im Winter ein herrlicher Ort für eine kurze Pause; die Eisenstruktur wirkt im kalten Licht besonders grafisch.",
                 "hu": "Ez a csarnok télen remek hely egy rövid pihenőre; a vasszerkezet a hideg fényben különösen látványos és grafikus hatású.",
                 "ro": "Această hală este un loc minunat pentru o scurtă pauză iarna; structura de fier pare foarte grafică în lumina rece.",
-                "en": "This hall is a wonderful spot for a short break in winter; the iron structure looks particularly graphic in the cold light."
+                "en": "This hall is a wonderful spot for a short break in winter; the iron structure looks particularly graphic in the cold light.",
+                "fr": "Cette halle est un endroit idéal pour une courte pause en hiver ; la structure métallique a un rendu particulièrement graphique dans la lumière froide."
               }
             },
             {
@@ -641,13 +711,15 @@
                 "de": "Elsässisches Museum",
                 "hu": "Elzászi Múzeum",
                 "ro": "Muzeul Alsacian",
-                "en": "Alsatian Museum"
+                "en": "Alsatian Museum",
+                "fr": "Musée alsacien"
               },
               "tip_5lang": {
                 "de": "Wärmen Sie Ihre Hände an den Heizkörpern auf und genießen Sie die weihnachtliche Dekoration, die hier im Winter oft zu finden ist.",
                 "hu": "Melegítse fel a kezeit a radiátoroknál, és élvezze a karácsonyi dekorációt, ami télen gyakran díszíti a múzeum belső tereit.",
                 "ro": "Încălziți-vă mâinile la calorifere și bucurați-vă de decorațiunile de Crăciun care împodobesc adesea interiorul muzeului iarna.",
-                "en": "Warm your hands by the radiators and enjoy the Christmas decorations that often adorn the museum's interior in winter."
+                "en": "Warm your hands by the radiators and enjoy the Christmas decorations that often adorn the museum's interior in winter.",
+                "fr": "Réchauffez‑vous les mains près des radiateurs et profitez des décorations de Noël qui ornent souvent l'intérieur du musée en hiver."
               }
             },
             {
@@ -655,13 +727,15 @@
                 "de": "Historisches Museum",
                 "hu": "Történeti Múzeum",
                 "ro": "Muzeul de Istorie",
-                "en": "Historical Museum"
+                "en": "Historical Museum",
+                "fr": "Musée historique"
               },
               "tip_5lang": {
                 "de": "Nutzen Sie diesen warmen Stopp, um Energie für die Weiterfahrt in die Außenbezirke zu tanken; im Winter ist hier weniger Betrieb.",
                 "hu": "Használja ki ezt a meleg megállót, hogy energiát gyűjtsön a külvárosi tekeréshez; télen itt általában kisebb a tömeg.",
                 "ro": "Folosiți această oprire călduroasă pentru a prinde puteri pentru drumul spre periferie; iarna este mai puțină aglomerație aici.",
-                "en": "Take advantage of this warm stop to recharge for the ride to the outskirts; it's usually less crowded here in winter."
+                "en": "Take advantage of this warm stop to recharge for the ride to the outskirts; it's usually less crowded here in winter.",
+                "fr": "Profitez de cet arrêt chaleureux pour reprendre des forces avant la sortie vers la périphérie ; il y a généralement moins de monde en hiver."
               }
             },
             {
@@ -669,13 +743,15 @@
                 "de": "Étang du Nonnenhof",
                 "hu": "Étang du Nonnenhof",
                 "ro": "Iazul Nonnenhof",
-                "en": "Étang du Nonnenhof"
+                "en": "Étang du Nonnenhof",
+                "fr": "Étang du Nonnenhof"
               },
               "tip_5lang": {
                 "de": "Genießen Sie den Blick auf das vielleicht gefrorene Wasser, aber meiden Sie die ufernahen Wege, die oft vereist und glatt sind.",
                 "hu": "Élvezze a kilátást az esetleg befagyott tóra, de kerülje a közvetlen parti utakat, amik gyakran jegesek és csúszósak.",
                 "ro": "Bucurați-vă de priveliștea iazului eventual înghețat, dar evitați potecile de pe mal care sunt adesea acoperite de gheață.",
-                "en": "Enjoy the view of the possibly frozen pond, but avoid the immediate shore paths which are often icy and slick."
+                "en": "Enjoy the view of the possibly frozen pond, but avoid the immediate shore paths which are often icy and slick.",
+                "fr": "Appréciez la vue de l'étang éventuellement gelé, mais évitez les sentiers immédiats au bord qui sont souvent verglacés et glissants."
               }
             },
             {
@@ -683,13 +759,15 @@
                 "de": "Regenrückhaltebecken",
                 "hu": "Viharvíz-tározó",
                 "ro": "Bazinul de retenție",
-                "en": "Stormwater Basin"
+                "en": "Stormwater Basin",
+                "fr": "Bassin d'orage"
               },
               "tip_5lang": {
                 "de": "Ein kurzer Stopp reicht hier aus, bevor die Dunkelheit einsetzt; stellen Sie sicher, dass Ihr Fahrradlicht für den Rückweg funktioniert.",
                 "hu": "Egy rövid megálló elég itt a sötétedés előtt; győződjön meg róla, hogy a kerékpárlámpa jól működik a hazafelé úton.",
                 "ro": "O scurtă oprire este suficientă aici înainte de întuneric; asigurați-vă că luminile bicicletei funcționează pentru drumul de întors.",
-                "en": "A short stop is enough here before dark; make sure your bike lights are working properly for the journey back."
+                "en": "A short stop is enough here before dark; make sure your bike lights are working properly for the journey back.",
+                "fr": "Un court arrêt suffit ici avant la tombée de la nuit ; assurez‑vous que vos éclairages de vélo fonctionnent correctement pour le retour."
               }
             }
           ]
@@ -709,7 +787,8 @@
             "de": "Georgskirche",
             "hu": "Szent György-templom",
             "ro": "Biserica Saint-Georges",
-            "en": "Saint-Georges Church"
+            "en": "Saint-Georges Church",
+            "fr": "Église Saint‑Georges"
           },
           "coords": [
             7.699234,
@@ -724,7 +803,8 @@
             "de": "Bewundern Sie die beeindruckenden Buntglasfenster dieser Kirche und denken Sie daran, sich angemessen zu kleiden und leise zu sprechen.",
             "hu": "Csodálja meg ennek a nagyszerű templomnak a lenyűgöző ólomüvegeit és román stílusú elemeit, és ne feledjen visszafogottan öltözni a látogatás során.",
             "ro": "Admirați vitraliile uimitoare și elementele romanice ale acestei biserici grandioase și amintiți-vă să vă îmbrăcați modest și să vorbiți încet.",
-            "en": "Admire the stunning stained glass and Romanesque elements of this grand church, and remember to dress modestly and speak softly during your visit inside."
+            "en": "Admire the stunning stained glass and Romanesque elements of this grand church, and remember to dress modestly and speak softly during your visit inside.",
+            "fr": "Admirez les vitraux splendides et les éléments romans de cette grande église, et pensez à vous habiller modestement et à parler à voix basse pendant la visite intérieure."
           }
         },
         {
@@ -732,7 +812,8 @@
             "de": "Ritterturm",
             "hu": "Lovagok tornya",
             "ro": "Turnul Cavalerilor",
-            "en": "Knight's Tower"
+            "en": "Knight's Tower",
+            "fr": "Tour du Chevalier"
           },
           "coords": [
             7.7875,
@@ -747,7 +828,8 @@
             "de": "Bewundern Sie die mittelalterliche Architektur dieses alten Tores, das einst die Stadtmauern schützte, und machen Sie früh morgens die besten Fotos.",
             "hu": "Csodálja meg a középkori építészetet ennél az ősi kapunál, amely egykor a városfalakat védte, és fotózzon kora reggel a legjobb fényviszonyokért.",
             "ro": "Admirați arhitectura medievală a acestei porți antice, care apăra odinioară zidurile orașului, și faceți poze dimineața devreme pentru lumină optimă.",
-            "en": "Admire the medieval architecture of this ancient gateway, which once defended the city walls, and take photos early to avoid harsh midday sunlight."
+            "en": "Admire the medieval architecture of this ancient gateway, which once defended the city walls, and take photos early to avoid harsh midday sunlight.",
+            "fr": "Admirez l'architecture médiévale de cette ancienne porte qui défendait autrefois les remparts, et prenez des photos tôt pour éviter la lumière dure de midi."
           }
         },
         {
@@ -755,7 +837,8 @@
             "de": "Hopfenhalle",
             "hu": "Komlócsarnok",
             "ro": "Hala Hameiului",
-            "en": "Halle aux Houblons"
+            "en": "Halle aux Houblons",
+            "fr": "Halle aux Houblons"
           },
           "coords": [
             7.790959,
@@ -770,7 +853,8 @@
             "de": "Erkunden Sie die historische Hopfenhalle, die von der reichen Agrarvergangenheit zeugt, und besuchen Sie sie an Tagen mit einem lebhaften Markt.",
             "hu": "Fedezze fel ezt a történelmi komlópiacot, amely Haguenau gazdag mezőgazdasági múltját tükrözi, és nézze meg a helyi termelői piacok menetrendjét.",
             "ro": "Explorați această clădire istorică a pieței de hamei, ce reflectă trecutul agricol bogat, și verificați programul pentru a prinde o piață locală.",
-            "en": "Explore this historic hop market building, reflecting Haguenau's rich agricultural past, and check local schedules as it often hosts vibrant markets."
+            "en": "Explore this historic hop market building, reflecting Haguenau's rich agricultural past, and check local schedules as it often hosts vibrant markets.",
+            "fr": "Explorez ce bâtiment historique du marché au houblon, reflet du riche passé agricole de Haguenau, et consultez les horaires locaux car il accueille souvent des marchés animés."
           }
         },
         {
@@ -778,7 +862,8 @@
             "de": "Historisches Museum",
             "hu": "Történeti Múzeum",
             "ro": "Muzeul de Istorie",
-            "en": "Historical Museum"
+            "en": "Historical Museum",
+            "fr": "Musée historique"
           },
           "coords": [
             7.79162,
@@ -793,7 +878,8 @@
             "de": "Tauchen Sie durch umfangreiche Sammlungen tief in die abwechslungsreiche Geschichte der Region ein und fragen Sie nach einem praktischen Audioguide.",
             "hu": "Merüljön el a régió hosszú és változatos történelmében a kiterjedt gyűjteményeken keresztül, és kérjen audioguide-ot a még több információhoz.",
             "ro": "Pătrundeți în istoria lungă și variată a regiunii prin colecții extinse și cereți un ghid audio la recepție pentru a afla și mai multe detalii.",
-            "en": "Dive deep into the long and varied history of the region through extensive collections, and ask the front desk for an audio guide to learn even more."
+            "en": "Dive deep into the long and varied history of the region through extensive collections, and ask the front desk for an audio guide to learn even more.",
+            "fr": "Plongez au cœur de l'histoire longue et variée de la région grâce à des collections étendues, et demandez à l'accueil un audioguide pour en apprendre encore plus."
           }
         },
         {
@@ -801,7 +887,8 @@
             "de": "Haguenauer Wald",
             "hu": "Haguenau-i erdő",
             "ro": "Pădurea Haguenau",
-            "en": "Haguenau Forest"
+            "en": "Haguenau Forest",
+            "fr": "Forêt de Haguenau"
           },
           "coords": [
             7.883333,
@@ -816,7 +903,8 @@
             "de": "Erkunden Sie die weiten, bezaubernden Pfade dieses monumentalen Waldes und tragen Sie dabei unbedingt feste Wanderschuhe und ausreichend Wasser.",
             "hu": "Fedezze fel a régiót borító hatalmas, varázslatos erdő ösvényeit, és viseljen kényelmes túracipőt, miközben bőséges ivóvizet is visz magával.",
             "ro": "Explorați traseele vaste și încântătoare ale acestei păduri monumentale și purtați încălțăminte de drumeție robustă, aducând cu voi multă apă potabilă.",
-            "en": "Explore the vast, enchanting trails of this monumental forest covering the region, and wear sturdy walking shoes while carrying plenty of drinking water."
+            "en": "Explore the vast, enchanting trails of this monumental forest covering the region, and wear sturdy walking shoes while carrying plenty of drinking water.",
+            "fr": "Explorez les vastes et envoûtants sentiers de cette forêt monumentale qui couvre la région, et portez des chaussures de marche solides tout en emportant suffisamment d'eau."
           }
         },
         {
@@ -824,7 +912,8 @@
             "de": "Étang de Gruendel",
             "hu": "Étang de Gruendel",
             "ro": "Iazul Gruendel",
-            "en": "Étang de Gruendel"
+            "en": "Étang de Gruendel",
+            "fr": "Étang de Gruendel"
           },
           "coords": [
             7.785632,
@@ -839,7 +928,8 @@
             "de": "Genießen Sie einen entspannten Nachmittag an diesem ruhigen Gewässer und bleiben Sie bis zur Dämmerung, um atemberaubende Sonnenuntergänge zu fotografieren.",
             "hu": "Élvezze a pihentető késő délutánt ezen a békés vízparton, és maradjon sötétedésig, hogy lenyűgöző fotókat készíthessen a vízen tükröződő naplementéről.",
             "ro": "Bucurați-vă de o după-amiază relaxantă lângă acest corp de apă senin și rămâneți până la amurg pentru a surprinde fotografii uimitoare cu apusul soarelui.",
-            "en": "Enjoy a relaxing late afternoon near this serene body of water, and stay until dusk to capture stunning photographs of the sunset reflecting beautifully."
+            "en": "Enjoy a relaxing late afternoon near this serene body of water, and stay until dusk to capture stunning photographs of the sunset reflecting beautifully.",
+            "fr": "Profitez d'une fin d'après‑midi relaxante près de ce plan d'eau serein, et restez jusqu'au crépuscule pour capturer de superbes photos du coucher de soleil se reflétant sur l'eau."
           }
         }
       ],
@@ -847,7 +937,8 @@
         "de": "Unsere Autotour beginnt etwas außerhalb des Zentrums an der prächtigen Georgskirche. Nachdem wir die Architektur bewundert haben, fahren wir ins Herz von Haguenau, um den alten Ritterturm hoch aufragen zu sehen.\n\nAm Mittag parken wir zentral, um die berühmte Hopfenhalle und das Historische Museum zu Fuß zu erkunden. Diese Ansammlung von Sehenswürdigkeiten vermittelt ein tiefes Verständnis für die Entwicklung der Region.\n\nDer Nachmittag führt uns auf einer malerischen Fahrt zum Haguenauer Wald. Diese riesige Naturfläche eignet sich perfekt für einen flotten Waldspaziergang, wobei wir mit dem Auto die besten Wanderwege erreichen.\n\nWir beenden unseren Tagesausflug, indem wir zum Étang de Gruendel fahren, um einen ruhigen Abend am Wasser zu verbringen. Die Bequemlichkeit eines Autos macht diese abwechslungsreiche Tour völlig mühelos und entspannt.",
         "hu": "Autós túránk kissé a központon kívül, a nagyszerű Szent György-templomnál kezdődik. Miután megcsodáltuk építészetét, Haguenau szívébe hajtunk, hogy megnézzük a magasan tornyosuló ősi Lovagok tornyát.\n\nDélben a központban parkolunk le, hogy gyalogosan fedezzük fel a híres Komlócsarnokot és a Történeti Múzeumot. Ezek a látnivalók gazdag betekintést nyújtanak a régió kereskedelmi és kulturális fejlődésébe.\n\nA délután egy festői utazásra visz minket a Haguenaui erdőbe. Ez a hatalmas természeti terület tökéletes egy frissítő erdei sétához, kihasználva az autó előnyeit a távolabbi ösvények eléréséhez.\n\nNapunkat úgy zárjuk, hogy az Étang de Gruendelhez vezetünk egy békés esti vízparti pihenésre. Az autó nyújtotta kényelem ezt a széleskörű, városi és természeti szépségeket bemutató túrát teljesen erőfeszítésmentessé teszi.",
         "ro": "Traseul nostru auto începe puțin în afara centrului, la grandioasa Biserică Saint-Georges. După ce admirăm arhitectura sa, conducem în inima orașului Haguenau pentru a vedea vechiul Turn al Cavalerilor.\n\nLa prânz, parcăm central pentru a explora faimoasa Hală a Hameiului și Muzeul de Istorie pe jos. Acest grup de atracții oferă o înțelegere profundă a evoluției comerciale și culturale din regiunea Alsaciei.\n\nDupă-amiaza ne poartă într-o plimbare pitorească cu mașina până la Pădurea Haguenau. Această vastă întindere naturală este perfectă pentru o plimbare revigorantă, profitând de mașină pentru a ajunge departe.\n\nNe încheiem excursia de o zi conducând până la Étang de Gruendel pentru o seară senină lângă apă. Confortul unei mașini face ca acest tur amplu al atracțiilor urbane și naturale să fie complet lipsit de efort.",
-        "en": "Our driving itinerary begins slightly outside the center at the grand Saint-Georges Church. After admiring its architecture, we drive into the heart of Haguenau to see the ancient Knight's Tower standing tall.\n\nAt midday, we park centrally to explore the famous Halle aux Houblons and the Historical Museum on foot. This cluster of sights provides a rich understanding of the region's commercial and cultural evolution.\n\nThe afternoon takes us on a scenic drive to the Haguenau Forest. This vast natural expanse is perfect for a brisk woodland walk, taking advantage of our car to reach the best and most remote trailheads.\n\nWe finish our day trip by driving up to the Étang de Gruendel for a serene evening by the water. The convenience of a car makes this wide-ranging tour of Haguenau's urban and natural highlights completely effortless."
+        "en": "Our driving itinerary begins slightly outside the center at the grand Saint-Georges Church. After admiring its architecture, we drive into the heart of Haguenau to see the ancient Knight's Tower standing tall.\n\nAt midday, we park centrally to explore the famous Halle aux Houblons and the Historical Museum on foot. This cluster of sights provides a rich understanding of the region's commercial and cultural evolution.\n\nThe afternoon takes us on a scenic drive to the Haguenau Forest. This vast natural expanse is perfect for a brisk woodland walk, taking advantage of our car to reach the best and most remote trailheads.\n\nWe finish our day trip by driving up to the Étang de Gruendel for a serene evening by the water. The convenience of a car makes this wide-ranging tour of Haguenau's urban and natural highlights completely effortless.",
+        "fr": "Notre itinéraire en voiture commence un peu en dehors du centre à la grande Église Saint‑Georges. Après en avoir admiré l'architecture, nous rejoignons le cœur de Haguenau pour voir la vieille Tour du Chevalier se dresser.\n\nÀ midi, nous nous garons au centre pour explorer à pied la célèbre Halle aux Houblons et le Musée historique. Ce regroupement de sites offre une compréhension riche de l'évolution commerciale et culturelle de la région.\n\nL'après‑midi nous mène en voiture dans la Forêt de Haguenau. Cette vaste étendue naturelle est parfaite pour une marche vivifiante en sous‑bois, la voiture permettant d'atteindre les meilleurs départs de sentiers les plus reculés.\n\nNous terminons notre excursion en montant jusqu'à l'Étang de Gruendel pour une soirée sereine au bord de l'eau. Le confort de la voiture rend cette visite étendue des attractions urbaines et naturelles de Haguenau parfaitement aisée."
       },
       "variants": {
         "rainy": {
@@ -855,7 +946,8 @@
             "de": "Im Auto ist der Regen kein Hindernis für die Erkundung der Umgebung. Morgens besuchen wir die majestätischen Kirchen und Türme, bequem von Parkplatz zu Parkplatz springend. Mittags bleiben wir trocken in der Stadtmitte. Nachmittags fahren wir hinaus in die Wälder; die Bäume bieten zwar etwas Schutz, aber die Waldwege können sehr matschig sein, sodass wir vor allem die Ausblicke aus dem Wagen genießen.",
             "hu": "Autóval az eső nem akadály a környék felfedezésében. Reggel a fenséges templomokat és tornyokat látogatjuk meg, kényelmesen ugrálva a parkolók között. Délben a belvárosban maradunk szárazon. Délután kihajtunk az erdők közé; a fák nyújtanak némi védelmet, de az utak sárosak lehetnek, így főleg a kocsi ablakából gyönyörködünk a tájban.",
             "ro": "Cu mașina, ploaia nu este un obstacol în explorarea împrejurimilor. Dimineața vizităm bisericile și turnurile maiestuoase, trecând confortabil de la o parcare la alta. La prânz rămânem la adăpost în centrul orașului. După-amiaza conducem spre păduri; copacii oferă protecție, dar drumurile pot fi noroioase, așa că admirăm peisajul mai mult din mașină.",
-            "en": "By car, the rain is no obstacle to exploring the surroundings. In the morning, we visit majestic churches and towers, comfortably hopping from one parking spot to another. At noon, we stay dry in the city center. In the afternoon, we drive out to the forests; while the trees offer some shelter, the paths can be very muddy, so we mostly enjoy the views from the vehicle."
+            "en": "By car, the rain is no obstacle to exploring the surroundings. In the morning, we visit majestic churches and towers, comfortably hopping from one parking spot to another. At noon, we stay dry in the city center. In the afternoon, we drive out to the forests; while the trees offer some shelter, the paths can be very muddy, so we mostly enjoy the views from the vehicle.",
+            "fr": "En voiture, la pluie n'est pas un obstacle pour explorer les environs. Le matin, nous visitons des églises et des tours majestueuses, passant confortablement d'une place de parking à l'autre. À midi, nous restons au sec au centre‑ville. L'après‑midi, nous prenons la route vers les forêts ; bien que les arbres offrent un certain abri, les chemins peuvent être très boueux, aussi profitons‑nous surtout des vues depuis le véhicule."
           },
           "stops": [
             {
@@ -863,13 +955,15 @@
                 "de": "Georgskirche",
                 "hu": "Szent György-templom",
                 "ro": "Biserica Saint-Georges",
-                "en": "Saint-Georges Church"
+                "en": "Saint-Georges Church",
+                "fr": "Église Saint‑Georges"
               },
               "tip_5lang": {
                 "de": "Parken Sie so nah wie möglich am Eingang und nutzen Sie die ruhige, regnerische Atmosphäre für eine besinnliche Besichtigung.",
                 "hu": "Parkoljon a lehető legközelebb a bejárathoz, és használja ki a csendes, esős hangulatot egy elmélyült látogatáshoz.",
                 "ro": "Parcați cât mai aproape de intrare și profitați de atmosfera liniștită și ploioasă pentru o vizită contemplativă.",
-                "en": "Park as close to the entrance as possible and take advantage of the quiet, rainy atmosphere for a reflective visit."
+                "en": "Park as close to the entrance as possible and take advantage of the quiet, rainy atmosphere for a reflective visit.",
+                "fr": "Garez‑vous au plus près de l'entrée et profitez de l'atmosphère calme et pluvieuse pour une visite contemplative."
               }
             },
             {
@@ -877,13 +971,15 @@
                 "de": "Ritterturm",
                 "hu": "Lovagok tornya",
                 "ro": "Turnul Cavalerilor",
-                "en": "Knight's Tower"
+                "en": "Knight's Tower",
+                "fr": "Tour du Chevalier"
               },
               "tip_5lang": {
                 "de": "Ein kurzer Sprint vom Auto zum Turm lohnt sich; das dunkle Gestein wirkt im Regen besonders historisch und geheimnisvoll.",
                 "hu": "Egy rövid sprint a kocsitól a toronyig megéri; a sötét kőfalak az esőben különösen történelminek és titokzatosnak tűnnek.",
                 "ro": "Un scurt sprint de la mașină la turn merită; piatra întunecată pare deosebit de istorică și misterioasă în ploaie.",
-                "en": "A short sprint from the car to the tower is worth it; the dark stone looks especially historic and mysterious in the rain."
+                "en": "A short sprint from the car to the tower is worth it; the dark stone looks especially historic and mysterious in the rain.",
+                "fr": "Un court sprint depuis la voiture jusqu'à la tour en vaut la peine ; la pierre sombre paraît particulièrement historique et mystérieuse sous la pluie."
               }
             },
             {
@@ -891,13 +987,15 @@
                 "de": "Hopfenhalle",
                 "hu": "Komlócsarnok",
                 "ro": "Hala Hameiului",
-                "en": "Halle aux Houblons"
+                "en": "Halle aux Houblons",
+                "fr": "Halle aux Houblons"
               },
               "tip_5lang": {
                 "de": "Nutzen Sie den überdachten Raum der Halle, um sich kurz die Beine zu vertreten, ohne nass zu werden, bevor Sie weiterfahren.",
                 "hu": "Használja ki a csarnok fedett terét egy rövid lábnyújtóztatásra anélkül, hogy megázna, mielőtt továbbhajtana a következő helyszínre.",
                 "ro": "Folosiți spațiul acoperit al halei pentru a vă dezmorți picioarele fără a vă uda, înainte de a conduce mai departe.",
-                "en": "Use the covered space of the hall to stretch your legs briefly without getting wet before driving on."
+                "en": "Use the covered space of the hall to stretch your legs briefly without getting wet before driving on.",
+                "fr": "Utilisez l'espace couvert de la halle pour vous dégourdir les jambes sans vous mouiller avant de reprendre la route."
               }
             },
             {
@@ -905,13 +1003,15 @@
                 "de": "Historisches Museum",
                 "hu": "Történeti Múzeum",
                 "ro": "Muzeul de Istorie",
-                "en": "Historical Museum"
+                "en": "Historical Museum",
+                "fr": "Musée historique"
               },
               "tip_5lang": {
                 "de": "Lassen Sie Ihren Regenschirm im Auto-Halter, da der Weg vom Parkplatz zum Museumseingang meist sehr kurz ist.",
                 "hu": "Hagyja az esernyőt a kocsiban, mivel a parkolótól a múzeum bejáratáig tartó út általában nagyon rövid és gyors.",
                 "ro": "Lăsați umbrela în mașină, deoarece drumul de la parcare la intrarea în muzeu este de obicei foarte scurt și rapid.",
-                "en": "Leave your umbrella in the car, as the walk from the parking lot to the museum entrance is usually very short."
+                "en": "Leave your umbrella in the car, as the walk from the parking lot to the museum entrance is usually very short.",
+                "fr": "Laissez votre parapluie dans la voiture, car la marche depuis le parking jusqu'à l'entrée du musée est généralement très courte."
               }
             },
             {
@@ -919,13 +1019,15 @@
                 "de": "Haguenauer Wald",
                 "hu": "Haguenau-i erdő",
                 "ro": "Pădurea Haguenau",
-                "en": "Haguenau Forest"
+                "en": "Haguenau Forest",
+                "fr": "Forêt de Haguenau"
               },
               "tip_5lang": {
                 "de": "Fahren Sie langsam auf den Waldwegen und bleiben Sie für die besten Ausblicke im Wagen, falls der Regen zu stark wird.",
                 "hu": "Vezessen lassan az erdei utakon, és maradjon inkább a kocsiban a legjobb kilátásért, ha az eső túlságosan eleredne.",
                 "ro": "Conduceți încet pe drumurile forestiere și rămâneți în mașină pentru cele mai bune vederi dacă ploaia devine prea puternică.",
-                "en": "Drive slowly on the forest roads and stay in the car for the best views if the rain becomes too heavy."
+                "en": "Drive slowly on the forest roads and stay in the car for the best views if the rain becomes too heavy.",
+                "fr": "Roulez lentement sur les pistes forestières et restez dans la voiture pour profiter des vues si la pluie devient trop forte."
               }
             },
             {
@@ -933,13 +1035,15 @@
                 "de": "Étang de Gruendel",
                 "hu": "Étang de Gruendel",
                 "ro": "Iazul Gruendel",
-                "en": "Étang de Gruendel"
+                "en": "Étang de Gruendel",
+                "fr": "Étang de Gruendel"
               },
               "tip_5lang": {
                 "de": "Genießen Sie die melancholische Stimmung des Teichs im Regen direkt vom Parkplatz aus, um die Schuhe sauber zu halten.",
                 "hu": "Élvezze a tó melankolikus hangulatát esőben közvetlenül a parkolóból, hogy tisztán tarthassa a cipőjét.",
                 "ro": "Bucurați-vă de atmosfera melancolică a iazului pe ploaie direct din parcare, pentru a vă păstra încălțămintea curată.",
-                "en": "Enjoy the melancholic mood of the pond in the rain directly from the parking area to keep your shoes clean."
+                "en": "Enjoy the melancholic mood of the pond in the rain directly from the parking area to keep your shoes clean.",
+                "fr": "Profitez de l'ambiance mélancolique de l'étang sous la pluie depuis l'aire de stationnement pour garder vos chaussures propres."
               }
             }
           ]
@@ -949,7 +1053,8 @@
             "de": "Winterliche Autofahrten rund um Haguenau bieten gemütlichen Komfort zwischen den frostigen Sehenswürdigkeiten. Morgens besuchen wir die festlich beleuchteten Sakralbauten und Türme. Mittags genießen wir die städtischen Museen als warme Rückzugsorte. Am Nachmittag führt uns die Fahrt durch den tief verschneiten oder frostigen Wald; wir kehren rechtzeitig vor Sonnenuntergang um 17:00 Uhr in die Stadt zurück, bevor die Straßen glatt werden.",
             "hu": "A téli autós túra Haguenau környékén meleg kényelmet nyújt a deres látnivalók között. Reggel a fényárban úszó templomokat és tornyokat látogatjuk meg. Délben a városi múzeumok nyújtanak meleg menedéket a hideg ellen. Délután a zúzmarás erdőkön keresztül autózunk; 17:00-kor, naplemente előtt érünk vissza a városba, mielőtt az utak jegesedni kezdenének.",
             "ro": "Excursia cu mașina iarna în jurul Haguenau oferă confort termic între atracțiile înghețate. Dimineața vizităm bisericile și turnurile iluminate festiv. La prânz, muzeele orașului sunt refugii calde împotriva frigului. După-amiaza conducem prin pădurea brumată; revenim în oraș înainte de apusul de la ora 17:00, pentru a evita poleiul.",
-            "en": "Winter car trips around Haguenau offer cozy comfort between the frosty sights. In the morning, we visit the festively lit religious buildings and towers. At noon, the city's museums serve as warm retreats from the cold. In the afternoon, we drive through the frosted woods; we return to the city by sunset at 17:00 before the roads start to get icy."
+            "en": "Winter car trips around Haguenau offer cozy comfort between the frosty sights. In the morning, we visit the festively lit religious buildings and towers. At noon, the city's museums serve as warm retreats from the cold. In the afternoon, we drive through the frosted woods; we return to the city by sunset at 17:00 before the roads start to get icy.",
+            "fr": "Les trajets en voiture en hiver autour de Haguenau offrent un confort douillet entre les sites givrés. Le matin, nous visitons les édifices religieux et les tours illuminés de fêtes. À midi, les musées de la ville servent de refuges chauffés contre le froid. L'après‑midi, nous traversons les bois givrés ; nous revenons en ville au coucher du soleil à 17:00 avant que les routes ne deviennent verglacées."
           },
           "stops": [
             {
@@ -957,13 +1062,15 @@
                 "de": "Georgskirche",
                 "hu": "Szent György-templom",
                 "ro": "Biserica Saint-Georges",
-                "en": "Saint-Georges Church"
+                "en": "Saint-Georges Church",
+                "fr": "Église Saint‑Georges"
               },
               "tip_5lang": {
                 "de": "Achten Sie auf eventuell glatte Stufen am Kircheneingang und genießen Sie die Stille des beheizten Innenraums.",
                 "hu": "Ügyeljen az esetlegesen jeges lépcsőkre a templom bejáratánál, és élvezze a fűtött belső tér áhítatos csendjét.",
                 "ro": "Aveți grijă la treptele eventual înghețate de la intrarea în biserică și bucurați-vă de liniștea interiorului încălzit.",
-                "en": "Watch out for potentially icy steps at the church entrance and enjoy the peaceful silence of the heated interior."
+                "en": "Watch out for potentially icy steps at the church entrance and enjoy the peaceful silence of the heated interior.",
+                "fr": "Attention aux marches potentiellement verglacées à l'entrée de l'église et profitez du silence paisible de l'intérieur chauffé."
               }
             },
             {
@@ -971,13 +1078,15 @@
                 "de": "Ritterturm",
                 "hu": "Lovagok tornya",
                 "ro": "Turnul Cavalerilor",
-                "en": "Knight's Tower"
+                "en": "Knight's Tower",
+                "fr": "Tour du Chevalier"
               },
               "tip_5lang": {
                 "de": "Lassen Sie den Motor kurz abkühlen und machen Sie ein schnelles Foto, bevor die Kälte durch die Winterjacke dringt.",
                 "hu": "Hagyja hűlni a motort, és készítsen egy gyors fotót, mielőtt a hideg átjárná a téli kabátját a torony tövében.",
                 "ro": "Lăsați motorul să se răcească puțin și faceți o poză rapidă înainte ca frigul să pătrundă prin haina de iarnă.",
-                "en": "Let the engine cool for a bit and take a quick photo before the cold seeps through your winter coat by the tower."
+                "en": "Let the engine cool for a bit and take a quick photo before the cold seeps through your winter coat by the tower.",
+                "fr": "Laissez le moteur refroidir un peu et prenez une photo rapide avant que le froid ne traverse votre manteau d'hiver près de la tour."
               }
             },
             {
@@ -985,13 +1094,15 @@
                 "de": "Hopfenhalle",
                 "hu": "Komlócsarnok",
                 "ro": "Hala Hameiului",
-                "en": "Halle aux Houblons"
+                "en": "Halle aux Houblons",
+                "fr": "Halle aux Houblons"
               },
               "tip_5lang": {
                 "de": "Die Halle ist im Winter meist menschenleer; nutzen Sie das klare Licht für architektonische Aufnahmen vom Parkplatz aus.",
                 "hu": "A csarnok télen általában néptelen; használja ki a tiszta fényeket az építészeti fotókhoz közvetlenül a parkolóból.",
                 "ro": "Hala este de obicei pustie iarna; profitați de lumina clară pentru fotografii arhitecturale chiar din parcare.",
-                "en": "The hall is usually deserted in winter; take advantage of the clear light for architectural shots right from the parking lot."
+                "en": "The hall is usually deserted in winter; take advantage of the clear light for architectural shots right from the parking lot.",
+                "fr": "La halle est généralement déserte en hiver ; profitez de la lumière dégagée pour des prises architecturales depuis le parking."
               }
             },
             {
@@ -999,13 +1110,15 @@
                 "de": "Historisches Museum",
                 "hu": "Történeti Múzeum",
                 "ro": "Muzeul de Istorie",
-                "en": "Historical Museum"
+                "en": "Historical Museum",
+                "fr": "Musée historique"
               },
               "tip_5lang": {
                 "de": "Ein idealer Ort, um die Zeit bis zur frühen Dämmerung im Warmen zu verbringen, während draußen die Temperatur sinkt.",
                 "hu": "Ideális hely, hogy a korai sötétedésig a melegben töltse az időt, miközben odakint folyamatosan süllyed a hőmérséklet.",
                 "ro": "Un loc ideal pentru a petrece timpul la căldură până la amurgul timpuriu, în timp ce afară temperatura scade constant.",
-                "en": "An ideal place to spend time in the warm until the early twilight, while the temperature drops outside."
+                "en": "An ideal place to spend time in the warm until the early twilight, while the temperature drops outside.",
+                "fr": "Un lieu idéal pour rester au chaud jusqu'au crépuscule, pendant que la température baisse dehors."
               }
             },
             {
@@ -1013,13 +1126,15 @@
                 "de": "Haguenauer Wald",
                 "hu": "Haguenau-i erdő",
                 "ro": "Pădurea Haguenau",
-                "en": "Haguenau Forest"
+                "en": "Haguenau Forest",
+                "fr": "Forêt de Haguenau"
               },
               "tip_5lang": {
                 "de": "Prüfen Sie vor der Einfahrt in den Wald die Straßenverhältnisse und genießen Sie die winterliche Stille der Bäume vom Wagen aus.",
                 "hu": "Az erdőbe hajtás előtt ellenőrizze az útviszonyokat, és élvezze a fák téli csendjét a biztonságos, meleg kocsiból.",
                 "ro": "Verificați starea drumului înainte de a intra în pădure și bucurați-vă de liniștea de iarnă a copacilor din mașina caldă.",
-                "en": "Check road conditions before entering the forest and enjoy the winter silence of the trees from your warm car."
+                "en": "Check road conditions before entering the forest and enjoy the winter silence of the trees from your warm car.",
+                "fr": "Vérifiez l'état des routes avant d'entrer dans la forêt et profitez du silence hivernal des arbres depuis votre voiture chaude."
               }
             },
             {
@@ -1027,13 +1142,15 @@
                 "de": "Étang de Gruendel",
                 "hu": "Étang de Gruendel",
                 "ro": "Iazul Gruendel",
-                "en": "Étang de Gruendel"
+                "en": "Étang de Gruendel",
+                "fr": "Étang de Gruendel"
               },
               "tip_5lang": {
                 "de": "Beobachten Sie das Eis auf dem Teich durch das Autofenster; nach 17:00 Uhr können die Waldstraßen schnell überfrieren.",
                 "hu": "Nézze meg a tó jegét a kocsi ablakából; 17:00 után az erdei utak gyorsan lefagyhatnak, ezért induljon vissza időben.",
                 "ro": "Observați gheața de pe iaz de la fereastra mașinii; după ora 17:00, drumurile forestiere pot îngheța rapid.",
-                "en": "Watch the ice on the pond from the car window; after 17:00, forest roads can freeze over quickly, so head back in time."
+                "en": "Watch the ice on the pond from the car window; after 17:00, forest roads can freeze over quickly, so head back in time.",
+                "fr": "Regardez la glace sur l'étang depuis la fenêtre de la voiture ; après 17:00, les chemins forestiers peuvent geler rapidement, rentrez à temps."
               }
             }
           ]

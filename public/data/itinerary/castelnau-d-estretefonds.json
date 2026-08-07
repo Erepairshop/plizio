@@ -21,7 +21,8 @@
             "de": "Castelnau Town Hall",
             "hu": "Castelnau Town Hall",
             "ro": "Castelnau Town Hall",
-            "en": "Castelnau Town Hall"
+            "en": "Castelnau Town Hall",
+            "fr": "Hôtel de ville de Castelnau"
           },
           "coords": [
             1.362247,
@@ -36,7 +37,8 @@
             "de": "Bewundern Sie die klassische bürgerliche Architektur des Rathauses und werfen Sie einen Blick auf die Aushänge, um lokale Wochenendmärkte nicht zu verpassen.",
             "hu": "Csodálja meg a Városháza klasszikus polgári építészetét az út megkezdése előtt, és nézze meg a hirdetőtáblákat a helyi hétvégi piacok és események miatt.",
             "ro": "Admirați arhitectura civică clasică a Primăriei înainte de a vă începe călătoria și verificați panourile informative pentru eventualele piețe locale de weekend.",
-            "en": "Admire the classic civic architecture of the Town Hall before starting your journey, and check the notice boards for any local weekend markets or events."
+            "en": "Admire the classic civic architecture of the Town Hall before starting your journey, and check the notice boards for any local weekend markets or events.",
+            "fr": "Admirez l'architecture civique classique de l'hôtel de ville avant de commencer votre visite, et consultez les panneaux d'affichage pour les marchés ou événements locaux du week-end."
           }
         },
         {
@@ -44,7 +46,8 @@
             "de": "Saint Martin Church",
             "hu": "Saint Martin Church",
             "ro": "Saint Martin Church",
-            "en": "Saint Martin Church"
+            "en": "Saint Martin Church",
+            "fr": "Église Saint-Martin"
           },
           "coords": [
             1.359283,
@@ -59,7 +62,8 @@
             "de": "Betreten Sie diese historische Kirche, um die wunderschönen Buntglasfenster zu bewundern, aber verhalten Sie sich ruhig, da sie noch immer aktiv genutzt wird.",
             "hu": "Lépjen be ebbe a történelmi templomba, hogy megcsodálja az ólomüveg ablakokat, de maradjon csendben, mivel ez még mindig aktív istentiszteleti hely a helyieknek.",
             "ro": "Intrați în această biserică istorică pentru a admira vitraliile sale, dar păstrați liniștea deoarece rămâne un lăcaș de cult activ pentru comunitatea locală.",
-            "en": "Step inside this historic church to appreciate its stained glass windows, but remember to maintain silence as it remains an active place of worship for locals."
+            "en": "Step inside this historic church to appreciate its stained glass windows, but remember to maintain silence as it remains an active place of worship for locals.",
+            "fr": "Pénétrez dans cette église historique pour apprécier ses vitraux, mais souvenez-vous de garder le silence car c'est toujours un lieu de culte actif pour les habitants."
           }
         },
         {
@@ -67,7 +71,8 @@
             "de": "Castelnau-d'Estrétefonds Castle",
             "hu": "Castelnau-d'Estrétefonds Castle",
             "ro": "Castelnau-d'Estrétefonds Castle",
-            "en": "Castelnau-d'Estrétefonds Castle"
+            "en": "Castelnau-d'Estrétefonds Castle",
+            "fr": "Château de Castelnau-d'Estrétefonds"
           },
           "coords": [
             1.359089,
@@ -82,7 +87,8 @@
             "de": "Erkunden Sie die imposanten Ruinen der Burg Castelnau-d'Estrétefonds, um die mittelalterliche Vergangenheit der Region zu spüren, und tragen Sie festes Schuhwerk.",
             "hu": "Fedezze fel a Castelnau-d'Estrétefonds kastély impozáns romjait a középkori múlt megismeréséhez, és viseljen erős cipőt az egyenetlen kőutakon való sétához.",
             "ro": "Explorați ruinele impunătoare ale Castelului Castelnau-d'Estrétefonds pentru a înțelege trecutul medieval al regiunii, purtând încălțăminte adecvată pe aleile din piatră.",
-            "en": "Explore the imposing ruins of the Castelnau-d'Estrétefonds Castle to grasp the region's medieval past, wearing sturdy shoes to navigate the uneven stone paths."
+            "en": "Explore the imposing ruins of the Castelnau-d'Estrétefonds Castle to grasp the region's medieval past, wearing sturdy shoes to navigate the uneven stone paths.",
+            "fr": "Explorez les imposantes ruines du château de Castelnau-d'Estrétefonds pour comprendre le passé médiéval de la région, en portant des chaussures robustes pour parcourir les sentiers de pierre inégaux."
           }
         },
         {
@@ -90,7 +96,8 @@
             "de": "Le lac de la Gargasses",
             "hu": "Le lac de la Gargasses",
             "ro": "Le lac de la Gargasses",
-            "en": "Le lac de la Gargasses"
+            "en": "Le lac de la Gargasses",
+            "fr": "Le lac de la Gargasses"
           },
           "coords": [
             1.315395,
@@ -105,7 +112,8 @@
             "de": "Machen Sie einen entspannten Spaziergang um die ruhigen Gewässer dieses malerischen Sees und bringen Sie einen Picknickkorb für ein Mittagessen in der Natur mit.",
             "hu": "Tegyen egy pihentető sétát a festői helyi tó nyugodt vize körül, és hozzon magával egy kis piknikkosarat, hogy a természet lágy ölén élvezhesse az ebédet.",
             "ro": "Faceți o plimbare relaxantă în jurul apelor liniștite ale acestui pitoresc lac local, aducând un coș de picnic pentru a savura un prânz în mijlocul naturii.",
-            "en": "Take a relaxing stroll around the tranquil waters of this picturesque local lake, bringing a small picnic basket to enjoy a quiet lunch surrounded by nature."
+            "en": "Take a relaxing stroll around the tranquil waters of this picturesque local lake, bringing a small picnic basket to enjoy a quiet lunch surrounded by nature.",
+            "fr": "Faites une promenade relaxante autour des eaux paisibles de ce lac pittoresque, en apportant un petit panier pique-nique pour déjeuner au calme entouré par la nature."
           }
         },
         {
@@ -113,7 +121,8 @@
             "de": "Petit lac de Juliasse",
             "hu": "Petit lac de Juliasse",
             "ro": "Petit lac de Juliasse",
-            "en": "Petit lac de Juliasse"
+            "en": "Petit lac de Juliasse",
+            "fr": "Petit lac de Juliasse"
           },
           "coords": [
             1.299328,
@@ -128,7 +137,8 @@
             "de": "Beobachten Sie heimische Wasservögel am friedlichen Ufer dieses kleineren Sees und halten Sie Ihre Kamera bereit, falls Tiere im hohen Schilf auftauchen.",
             "hu": "Figyelje meg a helyi vízimadarakat e kisebb tó békés partján sétálva, és tartsa készenlétben a fényképezőgépét, ha a magas nádasban vadvilág bukkanna fel.",
             "ro": "Observați păsările acvatice locale în timp ce vă plimbați pe malurile pașnice ale acestui lac mai mic, având mereu camera pregătită pentru a surprinde fauna.",
-            "en": "Spot local waterfowl as you walk along the peaceful shores of this smaller lake, keeping your camera ready for sudden wildlife appearances in the tall reeds."
+            "en": "Spot local waterfowl as you walk along the peaceful shores of this smaller lake, keeping your camera ready for sudden wildlife appearances in the tall reeds.",
+            "fr": "Repérez les oiseaux aquatiques locaux en longeant les rives tranquilles de ce petit lac, en gardant votre appareil photo prêt pour les apparitions soudaines de la faune dans les hautes herbes."
           }
         }
       ],
@@ -136,7 +146,8 @@
         "de": "Beginnen Sie im Herzen von Castelnau-d'Estrétefonds, bewundern Sie das Rathaus und besuchen Sie die ruhige Kirche Saint Martin für eine morgendliche Reflexion.\n\nErkunden Sie die faszinierenden mittelalterlichen Überreste der Burg Castelnau-d'Estrétefonds und tauchen Sie in die Geschichte ein, bevor Sie zu den Seen wandern.\n\nDer Weg führt Sie durch die ruhige Landschaft zum Lac de la Gargasses, einem perfekten Rückzugsort in der Natur, um sich auszuruhen und ein Picknick zu genießen.\n\nBeenden Sie Ihre Wanderung am Petit lac de Juliasse, wo das ruhige Wasser und die rustikalen Pfade einen beruhigenden Abschluss eines Tages voller Kultur und Natur bieten.",
         "hu": "Kezdje a napot Castelnau-d'Estrétefonds szívében, csodálja meg a Városháza történelmi hangulatát, majd térjen be a békés Saint Martin templomba egy kis reggeli elmélkedésre.\n\nFedezze fel a Castelnau-d'Estrétefonds kastély lenyűgöző középkori maradványait, elmerülve a régió gazdag történelmében, mielőtt egy kellemes túrára indulna a közeli tavakhoz.\n\nA séta a nyugodt vidéken keresztül a Le lac de la Gargasses-hoz vezet, amely tökéletes természeti menedéket kínál a lábak pihentetésére és egy vízparti piknikre.\n\nFejezze be gyalogos útját a Petit lac de Juliasse-nál, ahol a csendes vizek és a rusztikus ösvények megnyugtató lezárást nyújtanak a kultúra és a természet között egyensúlyozó napnak.",
         "ro": "Începeți în inima orașului Castelnau-d'Estrétefonds, admirând atmosfera istorică a Primăriei înainte de a păși în senina Biserică Saint Martin pentru o reflecție matinală.\n\nExplorați rămășițele medievale fascinante ale Castelului Castelnau-d'Estrétefonds, scufundându-vă în istoria bogată a regiunii înainte de a începe o drumeție plăcută.\n\nPlimbarea vă poartă prin zona rurală liniștită până la Le lac de la Gargasses, oferind o retragere perfectă în natură pentru a vă odihni și a savura un picnic.\n\nÎncheiați-vă călătoria pe jos la Petit lac de Juliasse, unde apele calme și potecile rustice oferă un final liniștitor pentru o zi echilibrată între cultură și natură.",
-        "en": "Start at the heart of Castelnau-d'Estrétefonds, taking in the historical ambiance of the Town Hall before stepping into the serene Saint Martin Church for a peaceful morning reflection.\n\nMidday explores the fascinating medieval remnants of the Castelnau-d'Estrétefonds Castle, immersing yourself in the region's rich history before beginning a pleasant hike towards the nearby lakes.\n\nThe afternoon walk leads you through the tranquil countryside to Le lac de la Gargasses, offering a perfect natural retreat to rest your legs and enjoy a leisurely waterside picnic.\n\nConclude your walking journey at the Petit lac de Juliasse, where the calm waters and rustic trails provide a soothing end to a day beautifully balanced between culture and nature."
+        "en": "Start at the heart of Castelnau-d'Estrétefonds, taking in the historical ambiance of the Town Hall before stepping into the serene Saint Martin Church for a peaceful morning reflection.\n\nMidday explores the fascinating medieval remnants of the Castelnau-d'Estrétefonds Castle, immersing yourself in the region's rich history before beginning a pleasant hike towards the nearby lakes.\n\nThe afternoon walk leads you through the tranquil countryside to Le lac de la Gargasses, offering a perfect natural retreat to rest your legs and enjoy a leisurely waterside picnic.\n\nConclude your walking journey at the Petit lac de Juliasse, where the calm waters and rustic trails provide a soothing end to a day beautifully balanced between culture and nature.",
+        "fr": "Commencez au cœur de Castelnau-d'Estrétefonds en prenant l'atmosphère historique de la Mairie avant d'entrer dans la sereine église Saint-Martin pour une réflexion matinale paisible.\n\nÀ la mi-journée, explorez les fascinants vestiges médiévaux du château de Castelnau-d'Estrétefonds, vous immergeant dans la riche histoire de la région avant d'entamer une agréable randonnée vers les lacs voisins.\n\nLa promenade de l'après-midi vous mène à travers la campagne tranquille jusqu'au lac de la Gargasses, offrant une retraite naturelle parfaite pour reposer vos jambes et profiter d'un pique-nique au bord de l'eau.\n\nConcluez votre parcours pédestre au Petit lac de Juliasse, où les eaux calmes et les sentiers rustiques offrent une fin apaisante à une journée magnifiquement équilibrée entre culture et nature."
       },
       "variants": {
         "rainy": {
@@ -144,7 +155,8 @@
             "de": "Beginnen Sie den nassen Morgen im Rathaus und in der Kirche als Zufluchtsort. Mittags erkunden Sie das Schloss mit einem guten Regenschirm. Der Nachmittagsspaziergang zu den Seen ist matschig, aber friedlich. Beenden Sie den Tag früh, da die Wege rutschig werden.",
             "hu": "Kezdje az esős reggelt a Városházán és a Templomban, védve az elemektől. Délben esernyővel fedezze fel a kastélyt. A délutáni séta a tavakhoz sáros, de békés az esőben. Este fejezze be korán a napot, mert az utak csúszóssá válnak.",
             "ro": "Începeți dimineața ploioasă la Primărie și Biserică pentru a vă adăposti. La prânz, luați o umbrelă robustă pentru a explora Castelul. Plimbarea de după-amiază spre lacuri este noroioasă, dar liniștită. Încheiați ziua devreme, deoarece potecile devin alunecoase.",
-            "en": "Start your wet morning at the Town Hall and Church for indoor refuge. By midday, bring a sturdy umbrella to explore the Castle grounds. The afternoon walk to the lakes is muddy but peaceful in the rain. End your day early as paths become slippery and dark."
+            "en": "Start your wet morning at the Town Hall and Church for indoor refuge. By midday, bring a sturdy umbrella to explore the Castle grounds. The afternoon walk to the lakes is muddy but peaceful in the rain. End your day early as paths become slippery and dark.",
+            "fr": "Commencez votre matinée humide à la Mairie et à l'église pour vous abriter. En milieu de journée, prenez un parapluie solide pour explorer l'enceinte du château. La promenade de l'après-midi vers les lacs est boueuse mais paisible sous la pluie. Raccourcissez votre journée car les chemins deviennent glissants et sombres."
           },
           "stops": [
             {
@@ -152,13 +164,15 @@
                 "de": "Castelnau Town Hall",
                 "hu": "Castelnau Town Hall",
                 "ro": "Castelnau Town Hall",
-                "en": "Castelnau Town Hall"
+                "en": "Castelnau Town Hall",
+                "fr": "Mairie de Castelnau"
               },
               "tip_5lang": {
                 "de": "Bewundern Sie die Architektur, während Sie unter den Dachüberständen Schutz vor dem Regen suchen. Nehmen Sie eine gute Regenjacke mit.",
                 "hu": "Csodálja meg az építészetet, miközben menedéket keres az eső elől a párkányok alatt. Vigyen magával jó esőkabátot a rövid kinti sétához.",
                 "ro": "Admirați arhitectura în timp ce vă adăpostiți de ploaie sub streșini. Asigurați-vă că aveți o pelerină bună pentru scurta plimbare afară.",
-                "en": "Admire the civic architecture while taking shelter from the rain under its eaves. Ensure you have a good raincoat for the short walk outside."
+                "en": "Admire the civic architecture while taking shelter from the rain under its eaves. Ensure you have a good raincoat for the short walk outside.",
+                "fr": "Admirez l'architecture municipale tout en vous abritant de la pluie sous ses auvents. Assurez-vous d'avoir un bon imperméable pour la courte marche à l'extérieur."
               }
             },
             {
@@ -166,13 +180,15 @@
                 "de": "Saint Martin Church",
                 "hu": "Saint Martin Church",
                 "ro": "Saint Martin Church",
-                "en": "Saint Martin Church"
+                "en": "Saint Martin Church",
+                "fr": "Église Saint-Martin"
               },
               "tip_5lang": {
                 "de": "Treten Sie ein, um den schönen Altar zu sehen und dem Regen zu entkommen. Der ruhige Innenraum ist ein perfekter trockener Zufluchtsort.",
                 "hu": "Lépjen be, hogy megnézze a gyönyörű oltárt és elmeneküljön a zápor elől. A csendes belső tér tökéletes száraz menedék a nedves út során.",
                 "ro": "Intrați pentru a vedea altarul frumos și a scăpa de ploaie. Interiorul liniștit este un refugiu uscat perfect înainte de a continua drumul.",
-                "en": "Step inside to see the beautiful altar and escape the downpour. The quiet interior is a perfect dry haven before continuing your wet journey."
+                "en": "Step inside to see the beautiful altar and escape the downpour. The quiet interior is a perfect dry haven before continuing your wet journey.",
+                "fr": "Entrez pour voir le bel autel et échapper à l'averse. L'intérieur calme est un parfait refuge sec avant de poursuivre votre parcours humide."
               }
             },
             {
@@ -180,13 +196,15 @@
                 "de": "Castelnau-d'Estrétefonds Castle",
                 "hu": "Castelnau-d'Estrétefonds Castle",
                 "ro": "Castelnau-d'Estrétefonds Castle",
-                "en": "Castelnau-d'Estrétefonds Castle"
+                "en": "Castelnau-d'Estrétefonds Castle",
+                "fr": "Château de Castelnau-d'Estrétefonds"
               },
               "tip_5lang": {
                 "de": "Die imposante Burgruine wirkt vor dem grauen, regnerischen Himmel dramatisch. Tragen Sie wasserdichte Stiefel gegen den tiefen Matsch.",
                 "hu": "Az impozáns várromok különösen drámaian festenek a szürke, esős égbolt alatt. Viseljen vízálló csizmát, mert a környék nagyon sáros lesz.",
                 "ro": "Ruinele impunătoare ale castelului arată deosebit de dramatic pe un cer ploios. Purtați cizme impermeabile, deoarece terenul devine noroios.",
-                "en": "The imposing castle ruins look especially dramatic against gray, rainy skies. Wear waterproof boots, as the surrounding grounds get very muddy."
+                "en": "The imposing castle ruins look especially dramatic against gray, rainy skies. Wear waterproof boots, as the surrounding grounds get very muddy.",
+                "fr": "Les imposantes ruines du château sont particulièrement dramatiques sous un ciel gris et pluvieux. Portez des bottes imperméables, car les abords deviennent très boueux."
               }
             },
             {
@@ -194,13 +212,15 @@
                 "de": "Le lac de la Gargasses",
                 "hu": "Le lac de la Gargasses",
                 "ro": "Le lac de la Gargasses",
-                "en": "Le lac de la Gargasses"
+                "en": "Le lac de la Gargasses",
+                "fr": "Le lac de la Gargasses"
               },
               "tip_5lang": {
                 "de": "Erleben Sie die ruhige Atmosphäre der Regentropfen auf dem See. Die Wege sind bei Regen sehr rutschig, also gehen Sie hier äußerst vorsichtig.",
                 "hu": "Tapasztalja meg a tó felszínét verő esőcseppek nyugodt hangulatát. Az utak nagyon csúszósak esőben, ezért lépkedjen óvatosan.",
                 "ro": "Experimentați atmosfera senină a picăturilor de ploaie pe lac. Potecile sunt foarte alunecoase în ploaie, așa că mergeți cu mare grijă.",
-                "en": "Experience the serene atmosphere of raindrops hitting the lake's surface. Paths are highly slippery in the rain, so tread carefully on foot."
+                "en": "Experience the serene atmosphere of raindrops hitting the lake's surface. Paths are highly slippery in the rain, so tread carefully on foot.",
+                "fr": "Vivez l'atmosphère sereine des gouttes de pluie tombant à la surface du lac. Les sentiers sont très glissants sous la pluie, marchez donc prudemment."
               }
             },
             {
@@ -208,13 +228,15 @@
                 "de": "Petit lac de Juliasse",
                 "hu": "Petit lac de Juliasse",
                 "ro": "Petit lac de Juliasse",
-                "en": "Petit lac de Juliasse"
+                "en": "Petit lac de Juliasse",
+                "fr": "Petit lac de Juliasse"
               },
               "tip_5lang": {
                 "de": "Dieser kleinere See wirkt bei starkem Regen sehr abgeschieden und stimmungsvoll. Behalten Sie Ihre Kapuze auf, da Unterstände rar sind.",
                 "hu": "Ez a kisebb tó mélyen elzártnak és komornak tűnik heves záporok idején. Tartsa fenn a vízálló kapucnit, mivel a természetes menedék kevés.",
                 "ro": "Acest lac mai mic se simte foarte izolat și sumbru în timpul ploilor abundente. Țineți gluga pusă, adăposturile naturale sunt limitate.",
-                "en": "This smaller lake feels deeply secluded and moody during heavy rain showers. Keep your waterproof hood up, as natural shelters are very limited here."
+                "en": "This smaller lake feels deeply secluded and moody during heavy rain showers. Keep your waterproof hood up, as natural shelters are very limited here.",
+                "fr": "Ce petit lac paraît profondément isolé et mélancolique pendant les fortes averses. Gardez votre capuche imperméable relevée, car les abris naturels y sont très limités."
               }
             }
           ]
@@ -224,7 +246,8 @@
             "de": "Ein klarer Wintermorgen beginnt im historischen Zentrum. Mittags bietet das Schloss blassen Sonnenschein, warme Kleidung ist nötig. Nachmittagsspaziergänge zu den Seen sind frostig, aber schön. Kehren Sie vor 17:00 Uhr zurück, bevor der Sonnenuntergang Kälte bringt.",
             "hu": "A csípős téli reggel a történelmi központban indul. Délben a kastélynál a halvány napsütésben is kell a meleg réteg. A délutáni séta a tavakhoz fagyos, de gyönyörű. Induljon vissza 17:00 óra előtt, mielőtt a korai sötétedés fagyot hoz.",
             "ro": "O dimineață de iarnă geroasă începe în centrul istoric. La prânz, soarele palid de la Castel necesită haine groase. Plimbările de după-amiază spre lacuri sunt reci, dar frumoase. Întoarceți-vă înainte de 17:00, deoarece apusul devreme aduce temperaturi de îngheț.",
-            "en": "A crisp winter morning starts at the historic center. Midday offers pale sunshine at the Castle grounds, requiring warm layers. Afternoon walks to the lakes are chilly but beautiful in the frost. Head back by 17:00 before the early sunset brings freezing temperatures."
+            "en": "A crisp winter morning starts at the historic center. Midday offers pale sunshine at the Castle grounds, requiring warm layers. Afternoon walks to the lakes are chilly but beautiful in the frost. Head back by 17:00 before the early sunset brings freezing temperatures.",
+            "fr": "Un matin d'hiver vif commence au centre historique. À la mi-journée, un pâle soleil éclaire l'enceinte du château, prévoyez des couches chaudes. Les promenades de l'après-midi vers les lacs sont froides mais belles sous le givre. Retournez avant 17:00, car le coucher du soleil précoce amène des températures glaciales."
           },
           "stops": [
             {
@@ -232,13 +255,15 @@
                 "de": "Castelnau Town Hall",
                 "hu": "Castelnau Town Hall",
                 "ro": "Castelnau Town Hall",
-                "en": "Castelnau Town Hall"
+                "en": "Castelnau Town Hall",
+                "fr": "Mairie de Castelnau"
               },
               "tip_5lang": {
                 "de": "Sehen Sie die historische Fassade in der klaren Morgenluft. Kleiden Sie sich warm, da es auf dem offenen Platz im Winter ziemlich windig wird.",
                 "hu": "Nézze meg a történelmi homlokzatot a csípős reggeli levegőn. Öltözzön meleg rétegekbe, mert a nyitott tér meglehetősen szeles lehet télen.",
                 "ro": "Vedeți fațada istorică în aerul proaspăt al dimineții. Îmbrăcați-vă în straturi groase, deoarece piața deschisă devine destul de vântoasă.",
-                "en": "See the historic facade in the crisp morning air; its stone details stand out. Dress in warm layers as the open square gets quite windy."
+                "en": "See the historic facade in the crisp morning air; its stone details stand out. Dress in warm layers as the open square gets quite windy.",
+                "fr": "Admirez la façade historique dans l'air vif du matin ; les détails de pierre ressortent. Habillez-vous en couches chaudes car la place ouverte est assez venteuse."
               }
             },
             {
@@ -246,13 +271,15 @@
                 "de": "Saint Martin Church",
                 "hu": "Saint Martin Church",
                 "ro": "Saint Martin Church",
-                "en": "Saint Martin Church"
+                "en": "Saint Martin Church",
+                "fr": "Église Saint-Martin"
               },
               "tip_5lang": {
                 "de": "Erkunden Sie das friedliche Kirchenschiff, das einen wärmeren Rückzugsort vor dem Frost bietet. Die Buntglasfenster wirken im Winterlicht atemberaubend.",
                 "hu": "Fedezze fel a békés hajót, amely melegebb menedéket nyújt a téli fagy elől. Az ólomüveg lenyűgöző a halvány téli fényben.",
                 "ro": "Explorați nava liniștită care oferă o retragere mai caldă din gerul iernii. Vitraliile arată uimitor în lumina palidă a iernii.",
-                "en": "Explore the peaceful nave which offers a slightly warmer retreat from the winter frost. The stained glass looks stunning in the pale winter light."
+                "en": "Explore the peaceful nave which offers a slightly warmer retreat from the winter frost. The stained glass looks stunning in the pale winter light.",
+                "fr": "Explorez la nef paisible qui offre un refuge légèrement plus chaud contre le gel hivernal. Les vitraux sont magnifiques dans la pâle lumière d'hiver."
               }
             },
             {
@@ -260,13 +287,15 @@
                 "de": "Castelnau-d'Estrétefonds Castle",
                 "hu": "Castelnau-d'Estrétefonds Castle",
                 "ro": "Castelnau-d'Estrétefonds Castle",
-                "en": "Castelnau-d'Estrétefonds Castle"
+                "en": "Castelnau-d'Estrétefonds Castle",
+                "fr": "Château de Castelnau-d'Estrétefonds"
               },
               "tip_5lang": {
                 "de": "Spazieren Sie an den historischen Mauern entlang und genießen Sie die freie Wintersicht. Packen Sie sich warm ein, da der Wind hier kalt weht.",
                 "hu": "Sétáljon a történelmi falak mentén, és élvezze a zavartalan téli kilátást. Öltözzön fel jól, mert a magaslati fekvés miatt hideg szelek fújnak.",
                 "ro": "Plimbați-vă pe perimetrul istoric și bucurați-vă de priveliști de iarnă prin copacii goi. Îmbrăcați-vă gros, vântul rece bate pe colină.",
-                "en": "Walk the historic perimeter and enjoy unobstructed winter views through the bare trees. Wrap up tightly, as the elevated position catches cold winds."
+                "en": "Walk the historic perimeter and enjoy unobstructed winter views through the bare trees. Wrap up tightly, as the elevated position catches cold winds.",
+                "fr": "Parcourez le périmètre historique et profitez de vues dégagées en hiver à travers les arbres dépouillés. Couvrez-vous bien, car la position surélevée capte les vents froids."
               }
             },
             {
@@ -274,13 +303,15 @@
                 "de": "Le lac de la Gargasses",
                 "hu": "Le lac de la Gargasses",
                 "ro": "Le lac de la Gargasses",
-                "en": "Le lac de la Gargasses"
+                "en": "Le lac de la Gargasses",
+                "fr": "Le lac de la Gargasses"
               },
               "tip_5lang": {
                 "de": "Die frostbedeckten Ufer des Sees bieten eine magische Winterlandschaft. Tragen Sie dicke Handschuhe, da die Temperaturen am Wasser sinken.",
                 "hu": "A tó dérlepte szélei varázslatos, csendes téli tájat kínálnak. Viseljen vastag kesztyűt és sapkát, mert a víz közelében csökken a hőmérséklet.",
                 "ro": "Marginile acoperite de gheață ale lacului oferă un peisaj magic de iarnă. Purtați mănuși groase, deoarece temperaturile scad lângă apă.",
-                "en": "The frost-covered edges of the lake offer a magical, quiet winter landscape. Wear thick gloves and a hat, as temperatures drop near the water."
+                "en": "The frost-covered edges of the lake offer a magical, quiet winter landscape. Wear thick gloves and a hat, as temperatures drop near the water.",
+                "fr": "Les rives couvertes de givre du lac offrent un paysage hivernal magique et calme. Portez des gants épais et un bonnet, car les températures chutent près de l'eau."
               }
             },
             {
@@ -288,13 +319,15 @@
                 "de": "Petit lac de Juliasse",
                 "hu": "Petit lac de Juliasse",
                 "ro": "Petit lac de Juliasse",
-                "en": "Petit lac de Juliasse"
+                "en": "Petit lac de Juliasse",
+                "fr": "Petit lac de Juliasse"
               },
               "tip_5lang": {
                 "de": "Die kahlen Bäume um den gefrorenen Teich schaffen eine schöne Winterszene. Achten Sie auf die frühe Dämmerung um 17:00 Uhr und kehren Sie um.",
                 "hu": "A befagyott tavacska körüli kopasz fák gyönyörű téli jelenetet alkotnak. Ügyeljen a korai, 17:00-s szürkületre, és még világosban induljon vissza.",
                 "ro": "Copacii goi din jurul iazului înghețat creează o scenă frumoasă de iarnă. Atenție la amurgul devreme de la 17:00, întoarceți-vă pe lumină.",
-                "en": "The bare trees around the frozen pond create a stark, beautiful winter scene. Be aware of early dusk at 17:00 and head back while it's still light."
+                "en": "The bare trees around the frozen pond create a stark, beautiful winter scene. Be aware of early dusk at 17:00 and head back while it's still light.",
+                "fr": "Les arbres dépouillés autour de l'étang gelé créent une scène hivernale austère et magnifique. Soyez attentif au crépuscule précoce à 17:00 et revenez pendant qu'il fait encore jour."
               }
             }
           ]
@@ -314,7 +347,8 @@
             "de": "Castelnau Town Hall",
             "hu": "Castelnau Town Hall",
             "ro": "Castelnau Town Hall",
-            "en": "Castelnau Town Hall"
+            "en": "Castelnau Town Hall",
+            "fr": "Mairie de Castelnau"
           },
           "coords": [
             1.362247,
@@ -329,7 +363,8 @@
             "de": "Bewundern Sie die klassische bürgerliche Architektur des Rathauses und werfen Sie einen Blick auf die Aushänge, um lokale Wochenendmärkte nicht zu verpassen.",
             "hu": "Csodálja meg a Városháza klasszikus polgári építészetét az út megkezdése előtt, és nézze meg a hirdetőtáblákat a helyi hétvégi piacok és események miatt.",
             "ro": "Admirați arhitectura civică clasică a Primăriei înainte de a vă începe călătoria și verificați panourile informative pentru eventualele piețe locale de weekend.",
-            "en": "Admire the classic civic architecture of the Town Hall before starting your journey, and check the notice boards for any local weekend markets or events."
+            "en": "Admire the classic civic architecture of the Town Hall before starting your journey, and check the notice boards for any local weekend markets or events.",
+            "fr": "Admirez la classique architecture municipale de la Mairie avant de commencer votre parcours, et consultez les panneaux d'affichage pour tout marché local ou événement du week-end."
           }
         },
         {
@@ -337,7 +372,8 @@
             "de": "Saint Martin Church",
             "hu": "Saint Martin Church",
             "ro": "Saint Martin Church",
-            "en": "Saint Martin Church"
+            "en": "Saint Martin Church",
+            "fr": "Église Saint-Martin"
           },
           "coords": [
             1.359283,
@@ -352,7 +388,8 @@
             "de": "Betreten Sie diese historische Kirche, um die wunderschönen Buntglasfenster zu bewundern, aber verhalten Sie sich ruhig, da sie noch immer aktiv genutzt wird.",
             "hu": "Lépjen be ebbe a történelmi templomba, hogy megcsodálja az ólomüveg ablakokat, de maradjon csendben, mivel ez még mindig aktív istentiszteleti hely a helyieknek.",
             "ro": "Intrați în această biserică istorică pentru a admira vitraliile sale, dar păstrați liniștea deoarece rămâne un lăcaș de cult activ pentru comunitatea locală.",
-            "en": "Step inside this historic church to appreciate its stained glass windows, but remember to maintain silence as it remains an active place of worship for locals."
+            "en": "Step inside this historic church to appreciate its stained glass windows, but remember to maintain silence as it remains an active place of worship for locals.",
+            "fr": "Entrez dans cette église historique pour apprécier ses vitraux, mais n'oubliez pas de rester silencieux car elle demeure un lieu de culte actif pour les habitants."
           }
         },
         {
@@ -360,7 +397,8 @@
             "de": "Castelnau-d'Estrétefonds Castle",
             "hu": "Castelnau-d'Estrétefonds Castle",
             "ro": "Castelnau-d'Estrétefonds Castle",
-            "en": "Castelnau-d'Estrétefonds Castle"
+            "en": "Castelnau-d'Estrétefonds Castle",
+            "fr": "Château de Castelnau-d'Estrétefonds"
           },
           "coords": [
             1.359089,
@@ -375,7 +413,8 @@
             "de": "Erkunden Sie die imposanten Ruinen der Burg Castelnau-d'Estrétefonds, um die mittelalterliche Vergangenheit der Region zu spüren, und tragen Sie festes Schuhwerk.",
             "hu": "Fedezze fel a Castelnau-d'Estrétefonds kastély impozáns romjait a középkori múlt megismeréséhez, és viseljen erős cipőt az egyenetlen kőutakon való sétához.",
             "ro": "Explorați ruinele impunătoare ale Castelului Castelnau-d'Estrétefonds pentru a înțelege trecutul medieval al regiunii, purtând încălțăminte adecvată pe aleile din piatră.",
-            "en": "Explore the imposing ruins of the Castelnau-d'Estrétefonds Castle to grasp the region's medieval past, wearing sturdy shoes to navigate the uneven stone paths."
+            "en": "Explore the imposing ruins of the Castelnau-d'Estrétefonds Castle to grasp the region's medieval past, wearing sturdy shoes to navigate the uneven stone paths.",
+            "fr": "Explorez les imposantes ruines du château de Castelnau-d'Estrétefonds pour comprendre le passé médiéval de la région, en portant des chaussures robustes pour parcourir les sentiers de pierre inégaux."
           }
         },
         {
@@ -383,7 +422,8 @@
             "de": "Le lac de la Gargasses",
             "hu": "Le lac de la Gargasses",
             "ro": "Le lac de la Gargasses",
-            "en": "Le lac de la Gargasses"
+            "en": "Le lac de la Gargasses",
+            "fr": "Le lac de la Gargasses"
           },
           "coords": [
             1.315395,
@@ -398,7 +438,8 @@
             "de": "Machen Sie einen entspannten Spaziergang um die ruhigen Gewässer dieses malerischen Sees und bringen Sie einen Picknickkorb für ein Mittagessen in der Natur mit.",
             "hu": "Tegyen egy pihentető sétát a festői helyi tó nyugodt vize körül, és hozzon magával egy kis piknikkosarat, hogy a természet lágy ölén élvezhesse az ebédet.",
             "ro": "Faceți o plimbare relaxantă în jurul apelor liniștite ale acestui pitoresc lac local, aducând un coș de picnic pentru a savura un prânz în mijlocul naturii.",
-            "en": "Take a relaxing stroll around the tranquil waters of this picturesque local lake, bringing a small picnic basket to enjoy a quiet lunch surrounded by nature."
+            "en": "Take a relaxing stroll around the tranquil waters of this picturesque local lake, bringing a small picnic basket to enjoy a quiet lunch surrounded by nature.",
+            "fr": "Faites une promenade relaxante autour des eaux paisibles de ce lac pittoresque, en apportant un petit panier pique-nique pour déjeuner au calme entouré par la nature."
           }
         },
         {
@@ -406,7 +447,8 @@
             "de": "Petit lac de Juliasse",
             "hu": "Petit lac de Juliasse",
             "ro": "Petit lac de Juliasse",
-            "en": "Petit lac de Juliasse"
+            "en": "Petit lac de Juliasse",
+            "fr": "Petit lac de Juliasse"
           },
           "coords": [
             1.299328,
@@ -421,7 +463,8 @@
             "de": "Beobachten Sie heimische Wasservögel am friedlichen Ufer dieses kleineren Sees und halten Sie Ihre Kamera bereit, falls Tiere im hohen Schilf auftauchen.",
             "hu": "Figyelje meg a helyi vízimadarakat e kisebb tó békés partján sétálva, és tartsa készenlétben a fényképezőgépét, ha a magas nádasban vadvilág bukkanna fel.",
             "ro": "Observați păsările acvatice locale în timp ce vă plimbați pe malurile pașnice ale acestui lac mai mic, având mereu camera pregătită pentru a surprinde fauna.",
-            "en": "Spot local waterfowl as you walk along the peaceful shores of this smaller lake, keeping your camera ready for sudden wildlife appearances in the tall reeds."
+            "en": "Spot local waterfowl as you walk along the peaceful shores of this smaller lake, keeping your camera ready for sudden wildlife appearances in the tall reeds.",
+            "fr": "Repérez les oiseaux aquatiques locaux en longeant les rives tranquilles de ce petit lac, en gardant votre appareil photo prêt pour les apparitions soudaines de la faune dans les hautes herbes."
           }
         },
         {
@@ -429,7 +472,8 @@
             "de": "Grand lac de Juliasse",
             "hu": "Grand lac de Juliasse",
             "ro": "Grand lac de Juliasse",
-            "en": "Grand lac de Juliasse"
+            "en": "Grand lac de Juliasse",
+            "fr": "Grand lac de Juliasse"
           },
           "coords": [
             1.297028,
@@ -444,7 +488,8 @@
             "de": "Beenden Sie Ihre Naturtour an diesem weitläufigen See mit herrlichem Blick auf den Sonnenuntergang, und vergessen Sie nicht das Mückenspray an warmen Abenden.",
             "hu": "Zárja természetjáró túráját ennél a kiterjedt tónál, amely lenyűgöző naplemente kilátást nyújt, de ne felejtse el a szúnyogriasztót a meleg nyári estéken.",
             "ro": "Încheiați-vă turul în natură la acest lac extins cu vederi panoramice la apus, asigurându-vă că folosiți un repelent împotriva țânțarilor în serile de vară.",
-            "en": "Conclude your nature tour at this expansive lake with sweeping sunset views, ensuring you apply mosquito repellent during the warmer summer evening hours."
+            "en": "Conclude your nature tour at this expansive lake with sweeping sunset views, ensuring you apply mosquito repellent during the warmer summer evening hours.",
+            "fr": "Concluez votre excursion nature à ce lac étendu offrant de larges vues au coucher du soleil ; pensez à appliquer un répulsif anti-moustiques pendant les chaudes soirées d'été."
           }
         }
       ],
@@ -452,7 +497,8 @@
         "de": "Radeln Sie in das lebhafte Stadtzentrum, um das historische Rathaus und die ruhige Kirche Saint Martin zu bewundern und den kulturellen Grundstein zu legen.\n\nFahren Sie zur Burg Castelnau-d'Estrétefonds hinauf, erkunden Sie die alten Mauern und rollen Sie dann über die windigen ländlichen Wege zum Lac de la Gargasses hinab.\n\nIhre Radtour führt Sie weiter nach Norden zum Juliasse-Seensystem, wo Sie an den Ufern des Petit lac de Juliasse entlangfahren und die lokale Vogelwelt beobachten können.\n\nKommen Sie bei Sonnenuntergang am weitläufigen Grand lac de Juliasse an und genießen Sie eine wohlverdiente Pause am Wasser, bevor Sie Ihr Radabenteuer abschließen.",
         "hu": "Kerékpározzon be a nyüzsgő városközpontba, hogy megcsodálja a történelmi Városházát és a csendes Saint Martin templomot, kulturális alaphangot adva az aktív napnak.\n\nKerekezzen fel a Castelnau-d'Estrétefonds kastélyhoz, fedezze fel ősi falait, majd guruljon le a festői vidéken keresztül a Le lac de la Gargasses tavához.\n\nKerékpártúrája észak felé folytatódik a Juliasse tórendszerhez, ahol a Petit lac de Juliasse csillogó partjain tekerhet végig, élénk helyi madárvilággal körülvéve.\n\nÉrkezzen meg a hatalmas Grand lac de Juliasse-hoz naplemente idején, és élvezze a jól megérdemelt pihenést a vízparton, mielőtt befejezné a frissítő kerékpáros kalandot.",
         "ro": "Pedalați în centrul plin de viață al orașului pentru a admira Primăria istorică și liniștea Bisericii Saint Martin, stabilind un ton cultural pentru ziua activă.\n\nUrcați cu bicicleta la Castelul Castelnau-d'Estrétefonds, explorați zidurile antice, apoi coborâți spre peisajul rural pitoresc către Le lac de la Gargasses.\n\nCălătoria continuă spre nord către sistemul de lacuri Juliasse, unde puteți pedala de-a lungul malurilor strălucitoare ale Petit lac de Juliasse.\n\nAjungeți la vastul Grand lac de Juliasse pe măsură ce soarele începe să apună, bucurându-vă de o odihnă binemeritată la malul apei înainte de a încheia aventura.",
-        "en": "Cycle into the bustling town center to admire the historic Town Hall and the quiet sanctity of Saint Martin Church, setting a cultural tone for your active day on two wheels.\n\nPedal up to the Castelnau-d'Estrétefonds Castle to explore its ancient walls, then coast down towards the scenic countryside, navigating the breezy rural paths to Le lac de la Gargasses.\n\nYour bike journey continues northbound to the Juliasse lake system, where you can ride along the shimmering shores of Petit lac de Juliasse, surrounded by vibrant local birdlife.\n\nArrive at the expansive Grand lac de Juliasse as the sun begins to set, enjoying a well-deserved rest by the water before concluding your invigorating cycling adventure."
+        "en": "Cycle into the bustling town center to admire the historic Town Hall and the quiet sanctity of Saint Martin Church, setting a cultural tone for your active day on two wheels.\n\nPedal up to the Castelnau-d'Estrétefonds Castle to explore its ancient walls, then coast down towards the scenic countryside, navigating the breezy rural paths to Le lac de la Gargasses.\n\nYour bike journey continues northbound to the Juliasse lake system, where you can ride along the shimmering shores of Petit lac de Juliasse, surrounded by vibrant local birdlife.\n\nArrive at the expansive Grand lac de Juliasse as the sun begins to set, enjoying a well-deserved rest by the water before concluding your invigorating cycling adventure.",
+        "fr": "Parcourez le centre-ville animé à vélo pour admirer la Mairie historique et la paisible église Saint-Martin, donnant le ton culturel à votre journée active sur deux roues.\n\nPédalez jusqu'au château de Castelnau-d'Estrétefonds pour explorer ses murailles anciennes, puis laissez-vous descendre vers la campagne pittoresque en empruntant les chemins ruraux venteux jusqu'au lac de la Gargasses.\n\nVotre parcours à vélo se poursuit vers le nord jusqu'au système des lacs de Juliasse, où vous roulerez le long des rives étincelantes du Petit lac de Juliasse, entouré d'une faune aviaire locale vive.\n\nArrivez au vaste Grand lac de Juliasse au moment du coucher du soleil, profitez d'un repos bien mérité au bord de l'eau avant de conclure votre aventure cycliste revigorante."
       },
       "variants": {
         "rainy": {
@@ -460,7 +506,8 @@
             "de": "Fahren Sie morgens vorsichtig auf nassen Straßen zu den historischen Stätten. Die Mittagsfahrt zum Schloss erfordert Schutzbleche. Das Radfahren am Nachmittag auf rutschigen Seewegen erfordert Vorsicht. Der Abend naht schnell, prüfen Sie Ihr Fahrradlicht.",
             "hu": "Óvatosan tekerjen a vizes reggeli utcákon a műemlékekhez. A déli út a kastélyhoz és a tavakhoz sárvédőt és esőruhát igényel. A délutáni kerékpározás a csúszós tóparton óvatosságot kér. Az este gyorsan jön, győződjön meg a lámpák működéséről.",
             "ro": "Navigați cu atenție pe străzile umede dimineața spre siturile istorice. Plimbările de prânz la Castel și lacuri necesită apărători de noroi. Ciclismul de după-amiază pe potecile alunecoase cere prudență. Seara vine repede, asigurați-vă că aveți lumini bune.",
-            "en": "Carefully navigate wet morning streets to the historic sites. Midday rides to the Castle and lakes demand mudguards and rain gear. Afternoon cycling on slippery lake paths requires caution but offers solitude. Evening approaches quickly, so ensure your bike lights work."
+            "en": "Carefully navigate wet morning streets to the historic sites. Midday rides to the Castle and lakes demand mudguards and rain gear. Afternoon cycling on slippery lake paths requires caution but offers solitude. Evening approaches quickly, so ensure your bike lights work.",
+            "fr": "Naviguez prudemment dans les rues mouillées du matin jusqu'aux sites historiques. Les trajets de midi vers le château et les lacs exigent garde-boue et équipement de pluie. L'après-midi, rouler sur des chemins glissants au bord des lacs demande de la vigilance mais offre solitude. La soirée arrivant vite, vérifiez le bon fonctionnement des éclairages de votre vélo."
           },
           "stops": [
             {
@@ -468,13 +515,15 @@
                 "de": "Castelnau Town Hall",
                 "hu": "Castelnau Town Hall",
                 "ro": "Castelnau Town Hall",
-                "en": "Castelnau Town Hall"
+                "en": "Castelnau Town Hall",
+                "fr": "Mairie de Castelnau"
               },
               "tip_5lang": {
                 "de": "Bewundern Sie die Architektur, während Sie unter den Dachüberständen Schutz vor dem Regen suchen. Nehmen Sie eine gute Regenjacke mit.",
                 "hu": "Csodálja meg az építészetet, miközben menedéket keres az eső elől a párkányok alatt. Vigyen magával jó esőkabátot a rövid kinti sétához.",
                 "ro": "Admirați arhitectura în timp ce vă adăpostiți de ploaie sub streșini. Asigurați-vă că aveți o pelerină bună pentru scurta plimbare afară.",
-                "en": "Admire the civic architecture while taking shelter from the rain under its eaves. Ensure you have a good raincoat for the short walk outside."
+                "en": "Admire the civic architecture while taking shelter from the rain under its eaves. Ensure you have a good raincoat for the short walk outside.",
+                "fr": "Admirez l'architecture municipale tout en vous abritant de la pluie sous ses auvents. Assurez-vous d'avoir un bon imperméable pour la courte marche à l'extérieur."
               }
             },
             {
@@ -482,13 +531,15 @@
                 "de": "Saint Martin Church",
                 "hu": "Saint Martin Church",
                 "ro": "Saint Martin Church",
-                "en": "Saint Martin Church"
+                "en": "Saint Martin Church",
+                "fr": "Église Saint-Martin"
               },
               "tip_5lang": {
                 "de": "Treten Sie ein, um den schönen Altar zu sehen und dem Regen zu entkommen. Der ruhige Innenraum ist ein perfekter trockener Zufluchtsort.",
                 "hu": "Lépjen be, hogy megnézze a gyönyörű oltárt és elmeneküljön a zápor elől. A csendes belső tér tökéletes száraz menedék a nedves út során.",
                 "ro": "Intrați pentru a vedea altarul frumos și a scăpa de ploaie. Interiorul liniștit este un refugiu uscat perfect înainte de a continua drumul.",
-                "en": "Step inside to see the beautiful altar and escape the downpour. The quiet interior is a perfect dry haven before continuing your wet journey."
+                "en": "Step inside to see the beautiful altar and escape the downpour. The quiet interior is a perfect dry haven before continuing your wet journey.",
+                "fr": "Entrez pour voir le bel autel et échapper à l'averse. L'intérieur calme est un parfait refuge sec avant de poursuivre votre parcours humide."
               }
             },
             {
@@ -496,13 +547,15 @@
                 "de": "Castelnau-d'Estrétefonds Castle",
                 "hu": "Castelnau-d'Estrétefonds Castle",
                 "ro": "Castelnau-d'Estrétefonds Castle",
-                "en": "Castelnau-d'Estrétefonds Castle"
+                "en": "Castelnau-d'Estrétefonds Castle",
+                "fr": "Château de Castelnau-d'Estrétefonds"
               },
               "tip_5lang": {
                 "de": "Die imposante Burgruine wirkt vor dem grauen, regnerischen Himmel dramatisch. Tragen Sie wasserdichte Stiefel gegen den tiefen Matsch.",
                 "hu": "Az impozáns várromok különösen drámaian festenek a szürke, esős égbolt alatt. Viseljen vízálló cipőt, mert a környék nagyon sáros lesz.",
                 "ro": "Ruinele impunătoare ale castelului arată deosebit de dramatic pe un cer ploios. Purtați încălțăminte impermeabilă, terenul devine noroios.",
-                "en": "The imposing castle ruins look especially dramatic against gray, rainy skies. Wear waterproof shoes, as the surrounding grounds get very muddy."
+                "en": "The imposing castle ruins look especially dramatic against gray, rainy skies. Wear waterproof shoes, as the surrounding grounds get very muddy.",
+                "fr": "Les imposantes ruines du château sont particulièrement dramatiques sous un ciel gris et pluvieux. Portez des chaussures imperméables, car les abords deviennent très boueux."
               }
             },
             {
@@ -510,13 +563,15 @@
                 "de": "Le lac de la Gargasses",
                 "hu": "Le lac de la Gargasses",
                 "ro": "Le lac de la Gargasses",
-                "en": "Le lac de la Gargasses"
+                "en": "Le lac de la Gargasses",
+                "fr": "Le lac de la Gargasses"
               },
               "tip_5lang": {
                 "de": "Erleben Sie die ruhige Atmosphäre der Regentropfen auf dem See. Die Wege sind bei Regen sehr rutschig, also fahren Sie hier äußerst vorsichtig.",
                 "hu": "Tapasztalja meg a tó felszínét verő esőcseppek nyugodt hangulatát. Az utak nagyon csúszósak esőben, ezért tekerjen különösen óvatosan.",
                 "ro": "Experimentați atmosfera senină a picăturilor de ploaie pe lac. Potecile sunt foarte alunecoase în ploaie, așa că pedalați cu mare grijă.",
-                "en": "Experience the serene atmosphere of raindrops hitting the lake's surface. Paths are highly slippery in the rain, so cycle very carefully."
+                "en": "Experience the serene atmosphere of raindrops hitting the lake's surface. Paths are highly slippery in the rain, so cycle very carefully.",
+                "fr": "Vivez l'atmosphère sereine des gouttes de pluie tombant à la surface du lac. Les sentiers sont très glissants sous la pluie, pédalez donc très prudemment."
               }
             },
             {
@@ -524,13 +579,15 @@
                 "de": "Petit lac de Juliasse",
                 "hu": "Petit lac de Juliasse",
                 "ro": "Petit lac de Juliasse",
-                "en": "Petit lac de Juliasse"
+                "en": "Petit lac de Juliasse",
+                "fr": "Petit lac de Juliasse"
               },
               "tip_5lang": {
                 "de": "Dieser kleinere See wirkt bei starkem Regen sehr abgeschieden und stimmungsvoll. Behalten Sie Ihre Kapuze auf, da Unterstände rar sind.",
                 "hu": "Ez a kisebb tó mélyen elzártnak és komornak tűnik heves záporok idején. Tartsa fenn a vízálló kapucnit, mivel a természetes menedék kevés.",
                 "ro": "Acest lac mai mic se simte foarte izolat și sumbru în timpul ploilor abundente. Țineți gluga pusă, adăposturile naturale sunt limitate.",
-                "en": "This smaller lake feels deeply secluded and moody during heavy rain showers. Keep your waterproof hood up, as natural shelters are very limited here."
+                "en": "This smaller lake feels deeply secluded and moody during heavy rain showers. Keep your waterproof hood up, as natural shelters are very limited here.",
+                "fr": "Ce petit lac paraît profondément isolé et mélancolique pendant les fortes averses. Gardez votre capuche imperméable relevée, car les abris naturels y sont très limités."
               }
             },
             {
@@ -538,13 +595,15 @@
                 "de": "Grand lac de Juliasse",
                 "hu": "Grand lac de Juliasse",
                 "ro": "Grand lac de Juliasse",
-                "en": "Grand lac de Juliasse"
+                "en": "Grand lac de Juliasse",
+                "fr": "Grand lac de Juliasse"
               },
               "tip_5lang": {
                 "de": "Das graue Wasser verschmilzt mit dem regnerischen Himmel zu einem melancholischen Bild. Bleiben Sie auf befestigten Wegen, um tiefen Matsch zu meiden.",
                 "hu": "A szürke víz egybeolvad az esős éggel, melankolikus látványt nyújtva. Maradjon a burkolt részeken, hogy elkerülje a part menti mély sarat.",
                 "ro": "Apa gri se contopește cu cerul ploios pentru o vedere melancolică. Rămâneți pe zonele pavate pentru a evita noroiul adânc de lângă maluri.",
-                "en": "The expansive gray water merges with the rainy sky for a melancholic view. Ensure you cycle on paved areas to avoid the deep mud near the banks."
+                "en": "The expansive gray water merges with the rainy sky for a melancholic view. Ensure you cycle on paved areas to avoid the deep mud near the banks.",
+                "fr": "Les eaux grises et étendues se confondent avec le ciel pluvieux pour un panorama mélancolique. Veillez à circuler sur les zones pavées pour éviter la boue profonde près des berges."
               }
             }
           ]
@@ -554,7 +613,8 @@
             "de": "Beginnen Sie Ihre frostige Morgenfahrt in Thermokleidung zum Stadtzentrum. Das Treten am Mittag hält Sie auf dem Weg zum Schloss warm. Der Nachmittagswind an den Seen ist eisig, schützen Sie Ihr Gesicht. Beenden Sie die Route bis 17:00 Uhr wegen Dunkelheit.",
             "hu": "Kezdje a fagyos reggelt termoruházatban a központ felé. A déli tekerés melegen tart a kastély felé vezető úton. A tavak körüli délutáni szél csípős, védje az arcát. Fejezze be az utat 17:00-ig, hogy elkerülje a jeges utakat és a sötétet.",
             "ro": "Începeți plimbarea geroasă de dimineață în haine termice spre centru. Pedalarea de prânz vă menține cald pe drumul spre Castel. Vântul de după-amiază de la lacuri este tăios, protejați-vă fața. Terminați traseul până la 17:00 pentru a evita drumurile înghețate.",
-            "en": "Start your frosty morning ride wrapped in thermals to visit the town center. Midday pedaling keeps you warm en route to the Castle. Afternoon winds around the lakes are biting, so keep your face protected. Finish your route by 17:00 to avoid icy roads and darkness."
+            "en": "Start your frosty morning ride wrapped in thermals to visit the town center. Midday pedaling keeps you warm en route to the Castle. Afternoon winds around the lakes are biting, so keep your face protected. Finish your route by 17:00 to avoid icy roads and darkness.",
+            "fr": "Commencez votre balade matinale glacée enroulé dans des thermiques pour visiter le centre-ville. Le pédalage de midi vous garde au chaud en route vers le château. Les vents de l'après-midi autour des lacs sont mordants, protégez votre visage. Terminez votre itinéraire avant 17:00 pour éviter les routes verglacées et l'obscurité."
           },
           "stops": [
             {
@@ -562,13 +622,15 @@
                 "de": "Castelnau Town Hall",
                 "hu": "Castelnau Town Hall",
                 "ro": "Castelnau Town Hall",
-                "en": "Castelnau Town Hall"
+                "en": "Castelnau Town Hall",
+                "fr": "Mairie de Castelnau"
               },
               "tip_5lang": {
                 "de": "Sehen Sie die historische Fassade in der klaren Morgenluft. Kleiden Sie sich warm, da es auf dem offenen Platz im Winter ziemlich windig wird.",
                 "hu": "Nézze meg a történelmi homlokzatot a csípős reggeli levegőn. Öltözzön meleg rétegekbe, mert a nyitott tér meglehetősen szeles lehet télen.",
                 "ro": "Vedeți fațada istorică în aerul proaspăt al dimineții. Îmbrăcați-vă în straturi groase, deoarece piața deschisă devine destul de vântoasă.",
-                "en": "See the historic facade in the crisp morning air; its stone details stand out. Dress in warm layers as the open square gets quite windy."
+                "en": "See the historic facade in the crisp morning air; its stone details stand out. Dress in warm layers as the open square gets quite windy.",
+                "fr": "Voyez la façade historique dans l'air vif du matin ; ses détails de pierre ressortent. Habillez-vous en couches chaudes car la place ouverte est assez venteuse."
               }
             },
             {
@@ -576,13 +638,15 @@
                 "de": "Saint Martin Church",
                 "hu": "Saint Martin Church",
                 "ro": "Saint Martin Church",
-                "en": "Saint Martin Church"
+                "en": "Saint Martin Church",
+                "fr": "Église Saint-Martin"
               },
               "tip_5lang": {
                 "de": "Erkunden Sie das friedliche Kirchenschiff, das einen wärmeren Rückzugsort vor dem Frost bietet. Die Buntglasfenster wirken im Winterlicht atemberaubend.",
                 "hu": "Fedezze fel a békés hajót, amely melegebb menedéket nyújt a téli fagy elől. Az ólomüveg lenyűgöző a halvány téli fényben.",
                 "ro": "Explorați nava liniștită care oferă o retragere mai caldă din gerul iernii. Vitraliile arată uimitor în lumina palidă a iernii.",
-                "en": "Explore the peaceful nave which offers a slightly warmer retreat from the winter frost. The stained glass looks stunning in the pale winter light."
+                "en": "Explore the peaceful nave which offers a slightly warmer retreat from the winter frost. The stained glass looks stunning in the pale winter light.",
+                "fr": "Explorez la nef paisible qui offre un refuge légèrement plus chaud contre le gel hivernal. Les vitraux sont magnifiques dans la pâle lumière d'hiver."
               }
             },
             {
@@ -590,13 +654,15 @@
                 "de": "Castelnau-d'Estrétefonds Castle",
                 "hu": "Castelnau-d'Estrétefonds Castle",
                 "ro": "Castelnau-d'Estrétefonds Castle",
-                "en": "Castelnau-d'Estrétefonds Castle"
+                "en": "Castelnau-d'Estrétefonds Castle",
+                "fr": "Château de Castelnau-d'Estrétefonds"
               },
               "tip_5lang": {
                 "de": "Spazieren Sie an den historischen Mauern entlang und genießen Sie die freie Wintersicht. Packen Sie sich warm ein, da der Wind hier kalt weht.",
                 "hu": "Sétáljon a történelmi falak mentén, és élvezze a zavartalan téli kilátást. Öltözzön fel jól, mert a magaslati fekvés miatt hideg szelek fújnak.",
                 "ro": "Plimbați-vă pe perimetrul istoric și bucurați-vă de priveliști de iarnă prin copacii goi. Îmbrăcați-vă gros, vântul rece bate pe colină.",
-                "en": "Walk the historic perimeter and enjoy unobstructed winter views through the bare trees. Wrap up tightly, as the elevated position catches cold winds."
+                "en": "Walk the historic perimeter and enjoy unobstructed winter views through the bare trees. Wrap up tightly, as the elevated position catches cold winds.",
+                "fr": "Parcourez le périmètre historique et profitez de vues dégagées en hiver à travers les arbres dépouillés. Couvrez-vous bien, car la position surélevée capte les vents froids."
               }
             },
             {
@@ -604,13 +670,15 @@
                 "de": "Le lac de la Gargasses",
                 "hu": "Le lac de la Gargasses",
                 "ro": "Le lac de la Gargasses",
-                "en": "Le lac de la Gargasses"
+                "en": "Le lac de la Gargasses",
+                "fr": "Le lac de la Gargasses"
               },
               "tip_5lang": {
                 "de": "Die frostbedeckten Ufer des Sees bieten eine magische Winterlandschaft. Tragen Sie dicke Handschuhe beim Radfahren, da es kalt wird.",
                 "hu": "A tó dérlepte szélei varázslatos, csendes téli tájat kínálnak. Viseljen vastag kesztyűt a biciklizéshez, mert a víz közelében hideg van.",
                 "ro": "Marginile acoperite de gheață ale lacului oferă un peisaj magic de iarnă. Purtați mănuși groase, deoarece temperaturile scad lângă apă.",
-                "en": "The frost-covered edges of the lake offer a magical, quiet winter landscape. Wear thick gloves while cycling, as temperatures drop near the water."
+                "en": "The frost-covered edges of the lake offer a magical, quiet winter landscape. Wear thick gloves while cycling, as temperatures drop near the water.",
+                "fr": "Les rives couvertes de givre du lac offrent un paysage hivernal magique et calme. Portez des gants épais en pédalant, car les températures chutent près de l'eau."
               }
             },
             {
@@ -618,13 +686,15 @@
                 "de": "Petit lac de Juliasse",
                 "hu": "Petit lac de Juliasse",
                 "ro": "Petit lac de Juliasse",
-                "en": "Petit lac de Juliasse"
+                "en": "Petit lac de Juliasse",
+                "fr": "Petit lac de Juliasse"
               },
               "tip_5lang": {
                 "de": "Die kahlen Bäume um den gefrorenen Teich schaffen eine schöne Winterszene. Achten Sie auf die frühe Dämmerung um 17:00 Uhr und kehren Sie um.",
                 "hu": "A befagyott tavacska körüli kopasz fák gyönyörű téli jelenetet alkotnak. Ügyeljen a korai, 17:00-s szürkületre, és még világosban induljon vissza.",
                 "ro": "Copacii goi din jurul iazului înghețat creează o scenă frumoasă de iarnă. Atenție la amurgul devreme de la 17:00, întoarceți-vă pe lumină.",
-                "en": "The bare trees around the frozen pond create a stark, beautiful winter scene. Be aware of early dusk at 17:00 and head back while it's still light."
+                "en": "The bare trees around the frozen pond create a stark, beautiful winter scene. Be aware of early dusk at 17:00 and head back while it's still light.",
+                "fr": "Les arbres dépouillés autour de l'étang gelé créent une scène hivernale austère et magnifique. Soyez attentif au crépuscule précoce à 17:00 et revenez pendant qu'il fait encore jour."
               }
             },
             {
@@ -632,13 +702,15 @@
                 "de": "Grand lac de Juliasse",
                 "hu": "Grand lac de Juliasse",
                 "ro": "Grand lac de Juliasse",
-                "en": "Grand lac de Juliasse"
+                "en": "Grand lac de Juliasse",
+                "fr": "Grand lac de Juliasse"
               },
               "tip_5lang": {
                 "de": "Genießen Sie die eisige Landschaft, während die Wintersonne tiefer sinkt. Brechen Sie bis 17:00 Uhr auf, bevor die Wege vereisen.",
                 "hu": "Élvezze a kiterjedt jeges tájat, ahogy a téli nap lemenni készül. Induljon el 17:00 óráig, mielőtt a hőmérséklet lezuhan és az utak eljegesednek.",
                 "ro": "Bucurați-vă de peisajul de gheață în timp ce soarele de iarnă coboară. Plecați până la 17:00 înainte ca temperaturile să scadă brusc.",
-                "en": "Enjoy the sprawling icy landscape as the winter sun begins to dip low. Depart by 17:00 before the temperature plummets and paths become icy."
+                "en": "Enjoy the sprawling icy landscape as the winter sun begins to dip low. Depart by 17:00 before the temperature plummets and paths become icy.",
+                "fr": "Appréciez l'étendue glacée alors que le soleil d'hiver commence à décliner. Partez avant 17:00 avant que la température chute et que les sentiers deviennent verglacés."
               }
             }
           ]
@@ -658,7 +730,8 @@
             "de": "Castelnau Town Hall",
             "hu": "Castelnau Town Hall",
             "ro": "Castelnau Town Hall",
-            "en": "Castelnau Town Hall"
+            "en": "Castelnau Town Hall",
+            "fr": "Mairie de Castelnau"
           },
           "coords": [
             1.362247,
@@ -673,7 +746,8 @@
             "de": "Bewundern Sie die klassische bürgerliche Architektur des Rathauses und werfen Sie einen Blick auf die Aushänge, um lokale Wochenendmärkte nicht zu verpassen.",
             "hu": "Csodálja meg a Városháza klasszikus polgári építészetét az út megkezdése előtt, és nézze meg a hirdetőtáblákat a helyi hétvégi piacok és események miatt.",
             "ro": "Admirați arhitectura civică clasică a Primăriei înainte de a vă începe călătoria și verificați panourile informative pentru eventualele piețe locale de weekend.",
-            "en": "Admire the classic civic architecture of the Town Hall before starting your journey, and check the notice boards for any local weekend markets or events."
+            "en": "Admire the classic civic architecture of the Town Hall before starting your journey, and check the notice boards for any local weekend markets or events.",
+            "fr": "Admirez la classique architecture municipale de la Mairie avant de commencer votre parcours, et consultez les panneaux d'affichage pour tout marché local ou événement du week-end."
           }
         },
         {
@@ -681,7 +755,8 @@
             "de": "Saint Martin Church",
             "hu": "Saint Martin Church",
             "ro": "Saint Martin Church",
-            "en": "Saint Martin Church"
+            "en": "Saint Martin Church",
+            "fr": "Église Saint-Martin"
           },
           "coords": [
             1.359283,
@@ -696,7 +771,8 @@
             "de": "Betreten Sie diese historische Kirche, um die wunderschönen Buntglasfenster zu bewundern, aber verhalten Sie sich ruhig, da sie noch immer aktiv genutzt wird.",
             "hu": "Lépjen be ebbe a történelmi templomba, hogy megcsodálja az ólomüveg ablakokat, de maradjon csendben, mivel ez még mindig aktív istentiszteleti hely a helyieknek.",
             "ro": "Intrați în această biserică istorică pentru a admira vitraliile sale, dar păstrați liniștea deoarece rămâne un lăcaș de cult activ pentru comunitatea locală.",
-            "en": "Step inside this historic church to appreciate its stained glass windows, but remember to maintain silence as it remains an active place of worship for locals."
+            "en": "Step inside this historic church to appreciate its stained glass windows, but remember to maintain silence as it remains an active place of worship for locals.",
+            "fr": "Entrez dans cette église historique pour apprécier ses vitraux, mais n'oubliez pas de rester silencieux car elle demeure un lieu de culte actif pour les habitants."
           }
         },
         {
@@ -704,7 +780,8 @@
             "de": "Castelnau-d'Estrétefonds Castle",
             "hu": "Castelnau-d'Estrétefonds Castle",
             "ro": "Castelnau-d'Estrétefonds Castle",
-            "en": "Castelnau-d'Estrétefonds Castle"
+            "en": "Castelnau-d'Estrétefonds Castle",
+            "fr": "Château de Castelnau-d'Estrétefonds"
           },
           "coords": [
             1.359089,
@@ -719,7 +796,8 @@
             "de": "Erkunden Sie die imposanten Ruinen der Burg Castelnau-d'Estrétefonds, um die mittelalterliche Vergangenheit der Region zu spüren, und tragen Sie festes Schuhwerk.",
             "hu": "Fedezze fel a Castelnau-d'Estrétefonds kastély impozáns romjait a középkori múlt megismeréséhez, és viseljen erős cipőt az egyenetlen kőutakon való sétához.",
             "ro": "Explorați ruinele impunătoare ale Castelului Castelnau-d'Estrétefonds pentru a înțelege trecutul medieval al regiunii, purtând încălțăminte adecvată pe aleile din piatră.",
-            "en": "Explore the imposing ruins of the Castelnau-d'Estrétefonds Castle to grasp the region's medieval past, wearing sturdy shoes to navigate the uneven stone paths."
+            "en": "Explore the imposing ruins of the Castelnau-d'Estrétefonds Castle to grasp the region's medieval past, wearing sturdy shoes to navigate the uneven stone paths.",
+            "fr": "Explorez les imposantes ruines du château de Castelnau-d'Estrétefonds pour comprendre le passé médiéval de la région, en portant des chaussures robustes pour parcourir les sentiers de pierre inégaux."
           }
         },
         {
@@ -727,7 +805,8 @@
             "de": "Le lac de la Gargasses",
             "hu": "Le lac de la Gargasses",
             "ro": "Le lac de la Gargasses",
-            "en": "Le lac de la Gargasses"
+            "en": "Le lac de la Gargasses",
+            "fr": "Le lac de la Gargasses"
           },
           "coords": [
             1.315395,
@@ -742,7 +821,8 @@
             "de": "Machen Sie einen entspannten Spaziergang um die ruhigen Gewässer dieses malerischen Sees und bringen Sie einen Picknickkorb für ein Mittagessen in der Natur mit.",
             "hu": "Tegyen egy pihentető sétát a festői helyi tó nyugodt vize körül, és hozzon magával egy kis piknikkosarat, hogy a természet lágy ölén élvezhesse az ebédet.",
             "ro": "Faceți o plimbare relaxantă în jurul apelor liniștite ale acestui pitoresc lac local, aducând un coș de picnic pentru a savura un prânz în mijlocul naturii.",
-            "en": "Take a relaxing stroll around the tranquil waters of this picturesque local lake, bringing a small picnic basket to enjoy a quiet lunch surrounded by nature."
+            "en": "Take a relaxing stroll around the tranquil waters of this picturesque local lake, bringing a small picnic basket to enjoy a quiet lunch surrounded by nature.",
+            "fr": "Faites une promenade relaxante autour des eaux paisibles de ce lac pittoresque, en apportant un petit panier pique-nique pour déjeuner au calme entouré par la nature."
           }
         },
         {
@@ -750,7 +830,8 @@
             "de": "Lac de Pompignan",
             "hu": "Lac de Pompignan",
             "ro": "Lac de Pompignan",
-            "en": "Lac de Pompignan"
+            "en": "Lac de Pompignan",
+            "fr": "Lac de Pompignan"
           },
           "coords": [
             1.311504,
@@ -765,7 +846,8 @@
             "de": "Genießen Sie die unberührte Umgebung dieses klaren Sees, der sich ideal zur Vogelbeobachtung eignet, und nutzen Sie ein Fernglas für ungestörte Tierbeobachtungen.",
             "hu": "Élvezze e tiszta vizű tó érintetlen környezetét, amely ideális madármegfigyeléshez, távcsövet használva a ritka fajok felfedezéséhez anélkül, hogy megzavarná őket.",
             "ro": "Bucurați-vă de mediul curat al acestui lac limpede ideal pentru observarea păsărilor, folosind binoclul pentru a vedea specii rare fără a le perturba habitatul.",
-            "en": "Enjoy the pristine environment of this clear lake ideal for birdwatching, using binoculars to spot rare species without disturbing their natural habitat."
+            "en": "Enjoy the pristine environment of this clear lake ideal for birdwatching, using binoculars to spot rare species without disturbing their natural habitat.",
+            "fr": "Profitez du cadre préservé de ce lac clair, idéal pour l'observation des oiseaux ; utilisez des jumelles pour repérer les espèces rares sans perturber leur habitat naturel."
           }
         },
         {
@@ -773,7 +855,8 @@
             "de": "Petit lac de Juliasse",
             "hu": "Petit lac de Juliasse",
             "ro": "Petit lac de Juliasse",
-            "en": "Petit lac de Juliasse"
+            "en": "Petit lac de Juliasse",
+            "fr": "Petit lac de Juliasse"
           },
           "coords": [
             1.299328,
@@ -788,7 +871,8 @@
             "de": "Beobachten Sie heimische Wasservögel am friedlichen Ufer dieses kleineren Sees und halten Sie Ihre Kamera bereit, falls Tiere im hohen Schilf auftauchen.",
             "hu": "Figyelje meg a helyi vízimadarakat e kisebb tó békés partján sétálva, és tartsa készenlétben a fényképezőgépét, ha a magas nádasban vadvilág bukkanna fel.",
             "ro": "Observați păsările acvatice locale în timp ce vă plimbați pe malurile pașnice ale acestui lac mai mic, având mereu camera pregătită pentru a surprinde fauna.",
-            "en": "Spot local waterfowl as you walk along the peaceful shores of this smaller lake, keeping your camera ready for sudden wildlife appearances in the tall reeds."
+            "en": "Spot local waterfowl as you walk along the peaceful shores of this smaller lake, keeping your camera ready for sudden wildlife appearances in the tall reeds.",
+            "fr": "Repérez les oiseaux aquatiques locaux en longeant les rives tranquilles de ce petit lac, en gardant votre appareil photo prêt pour les apparitions soudaines de la faune dans les hautes herbes."
           }
         },
         {
@@ -796,7 +880,8 @@
             "de": "Grand lac de Juliasse",
             "hu": "Grand lac de Juliasse",
             "ro": "Grand lac de Juliasse",
-            "en": "Grand lac de Juliasse"
+            "en": "Grand lac de Juliasse",
+            "fr": "Grand lac de Juliasse"
           },
           "coords": [
             1.297028,
@@ -811,7 +896,8 @@
             "de": "Beenden Sie Ihre Naturtour an diesem weitläufigen See mit herrlichem Blick auf den Sonnenuntergang, und vergessen Sie nicht das Mückenspray an warmen Abenden.",
             "hu": "Zárja természetjáró túráját ennél a kiterjedt tónál, amely lenyűgöző naplemente kilátást nyújt, de ne felejtse el a szúnyogriasztót a meleg nyári estéken.",
             "ro": "Încheiați-vă turul în natură la acest lac extins cu vederi panoramice la apus, asigurându-vă că folosiți un repelent împotriva țânțarilor în serile de vară.",
-            "en": "Conclude your nature tour at this expansive lake with sweeping sunset views, ensuring you apply mosquito repellent during the warmer summer evening hours."
+            "en": "Conclude your nature tour at this expansive lake with sweeping sunset views, ensuring you apply mosquito repellent during the warmer summer evening hours.",
+            "fr": "Concluez votre excursion nature à ce lac étendu offrant de larges vues au coucher du soleil ; pensez à appliquer un répulsif anti-moustiques pendant les chaudes soirées d'été."
           }
         }
       ],
@@ -819,7 +905,8 @@
         "de": "Fahren Sie in den historischen Kern von Castelnau-d'Estrétefonds, parken Sie bequem am eleganten Rathaus und besuchen Sie die charmante Kirche Saint Martin.\n\nMachen Sie eine kurze Fahrt zur Burg Castelnau-d'Estrétefonds für einen tiefen Einblick in das lokale Erbe und fahren Sie dann zum Lac de la Gargasses für ein Picknick.\n\nFahren Sie auf den malerischen Routen, die die Seen der Region verbinden, und halten Sie am Lac de Pompignan und Petit lac de Juliasse, um die Natur zu erleben.\n\nBeenden Sie Ihre Fahrt am riesigen Grand lac de Juliasse und beobachten Sie das abendliche Licht auf dem Wasser – ein ruhiger Abschluss eines ereignisreichen Tages.",
         "hu": "Vezessen be Castelnau-d'Estrétefonds történelmi központjába, parkoljon le az elegáns Városháza közelében, és látogassa meg a bájos Saint Martin templomot a tömeg előtt.\n\nTegyen egy rövid utat a Castelnau-d'Estrétefonds kastélyhoz a helyi örökség felfedezéséhez, majd induljon el a Le lac de la Gargasses felé egy vízparti ebédre.\n\nAutózzon végig a régió tavait összekötő festői útvonalakon, álljon meg a Lac de Pompignan és a Petit lac de Juliasse tavaknál, hogy megtapasztalja a helyi ökoszisztémákat.\n\nFejezze be autós túráját a hatalmas Grand lac de Juliasse-nál, figyelve, ahogy az esti fény megcsillan a vízen, nyugodt befejezést kínálva egy eseménydús napnak.",
         "ro": "Conduceți în centrul istoric din Castelnau-d'Estrétefonds, parcând ușor lângă Primăria elegantă și vizitând fermecătoarea Biserică Saint Martin înaintea aglomerației.\n\nFaceți o scurtă plimbare cu mașina până la Castelul Castelnau-d'Estrétefonds pentru istoria locală, apoi îndreptați-vă spre Le lac de la Gargasses pentru un prânz pitoresc.\n\nCălătoriți pe rutele scenice ce conectează lacurile, oprindu-vă la Lac de Pompignan și Petit lac de Juliasse pentru a experimenta diversele ecosisteme naturale.\n\nÎncheiați turul la vastul Grand lac de Juliasse, privind lumina serii reflectându-se pe apă, oferind o concluzie confortabilă și senină unei zile pline.",
-        "en": "Drive into the historic core of Castelnau-d'Estrétefonds, easily parking near the elegant Town Hall and visiting the charming Saint Martin Church before the midday crowds arrive.\n\nTake a short drive up to the Castelnau-d'Estrétefonds Castle for a deep dive into local heritage, then head out to Le lac de la Gargasses to enjoy a picturesque waterside lunch.\n\nCruise through the scenic routes connecting the region's lakes, stopping at Lac de Pompignan and Petit lac de Juliasse to experience the diverse natural ecosystems of the area.\n\nFinish your driving tour at the vast Grand lac de Juliasse, watching the evening light reflect off the water, offering a serene and comfortable conclusion to a packed day."
+        "en": "Drive into the historic core of Castelnau-d'Estrétefonds, easily parking near the elegant Town Hall and visiting the charming Saint Martin Church before the midday crowds arrive.\n\nTake a short drive up to the Castelnau-d'Estrétefonds Castle for a deep dive into local heritage, then head out to Le lac de la Gargasses to enjoy a picturesque waterside lunch.\n\nCruise through the scenic routes connecting the region's lakes, stopping at Lac de Pompignan and Petit lac de Juliasse to experience the diverse natural ecosystems of the area.\n\nFinish your driving tour at the vast Grand lac de Juliasse, watching the evening light reflect off the water, offering a serene and comfortable conclusion to a packed day.",
+        "fr": "Conduisez jusqu'au cœur historique de Castelnau-d'Estrétefonds, garez-vous facilement près de la jolie Mairie et visitez la charmante église Saint-Martin avant l'arrivée des foules de midi.\n\nMontez en voiture jusqu'au château de Castelnau-d'Estrétefonds pour plonger dans le patrimoine local, puis dirigez-vous vers le lac de la Gargasses pour profiter d'un déjeuner pittoresque au bord de l'eau.\n\nParcourez les routes panoramiques reliant les lacs de la région, en vous arrêtant au lac de Pompignan et au Petit lac de Juliasse pour découvrir les divers écosystèmes naturels du secteur.\n\nTerminez votre circuit en voiture au vaste Grand lac de Juliasse, en regardant la lumière du soir se refléter sur l'eau, offrant une conclusion sereine et confortable à une journée bien remplie."
       },
       "variants": {
         "rainy": {
@@ -827,7 +914,8 @@
             "de": "Fahren Sie sicher zum Rathaus und zur Kirche und entfliehen Sie dem morgendlichen Regen. Genießen Sie mittags den stimmungsvollen Blick auf das Schloss aus dem Auto. Das Seen-Hopping am Nachmittag bleibt dank Heizung gemütlich. Achten Sie abends auf Pfützen.",
             "hu": "Vezessen biztonságosan a központba, könnyedén elmenekülve a reggeli záporok elől. Élvezze a kastély komor déli látványát a fűtött autóból. A délutáni tónéző túra kényelmes marad a kocsiban. Az esti vezetés hangulatos, de ügyeljen a nagy tócsákra.",
             "ro": "Conduceți în siguranță la Primărie și Biserică, scăpând de aversele dimineții. Bucurați-vă la prânz de priveliștile Castelului din confortul mașinii. Vizitarea lacurilor după-amiaza rămâne confortabilă cu căldura pornită. Seara, atenție la bălțile mari.",
-            "en": "Drive safely to the Town Hall and Church, easily escaping the morning downpours. Enjoy the moody midday views of the Castle from the comfort of your car. Afternoon lake hopping remains cozy with the heater on. Evening drives are atmospheric, but watch for large puddles."
+            "en": "Drive safely to the Town Hall and Church, easily escaping the morning downpours. Enjoy the moody midday views of the Castle from the comfort of your car. Afternoon lake hopping remains cozy with the heater on. Evening drives are atmospheric, but watch for large puddles.",
+            "fr": "Conduisez prudemment jusqu'à la Mairie et à l'église pour échapper facilement aux fortes averses matinales. Profitez des vues mélancoliques du château depuis le confort de votre voiture à la mi-journée. L'après-midi, la visite des lacs reste confortable avec le chauffage allumé. Les trajets du soir sont atmosphériques, mais méfiez-vous des grandes flaques."
           },
           "stops": [
             {
@@ -835,13 +923,15 @@
                 "de": "Castelnau Town Hall",
                 "hu": "Castelnau Town Hall",
                 "ro": "Castelnau Town Hall",
-                "en": "Castelnau Town Hall"
+                "en": "Castelnau Town Hall",
+                "fr": "Mairie de Castelnau"
               },
               "tip_5lang": {
                 "de": "Bewundern Sie die Architektur, während Sie unter den Dachüberständen Schutz vor dem Regen suchen. Nehmen Sie eine gute Regenjacke mit.",
                 "hu": "Csodálja meg az építészetet, miközben menedéket keres az eső elől a párkányok alatt. Vigyen magával jó esőkabátot a rövid kinti sétához.",
                 "ro": "Admirați arhitectura în timp ce vă adăpostiți de ploaie sub streșini. Asigurați-vă că aveți o pelerină bună pentru scurta plimbare afară.",
-                "en": "Admire the civic architecture while taking shelter from the rain under its eaves. Ensure you have a good raincoat for the short walk outside."
+                "en": "Admire the civic architecture while taking shelter from the rain under its eaves. Ensure you have a good raincoat for the short walk outside.",
+                "fr": "Admirez l'architecture municipale tout en vous abritant de la pluie sous ses auvents. Assurez-vous d'avoir un bon imperméable pour la courte marche à l'extérieur."
               }
             },
             {
@@ -849,13 +939,15 @@
                 "de": "Saint Martin Church",
                 "hu": "Saint Martin Church",
                 "ro": "Saint Martin Church",
-                "en": "Saint Martin Church"
+                "en": "Saint Martin Church",
+                "fr": "Église Saint-Martin"
               },
               "tip_5lang": {
                 "de": "Treten Sie ein, um den schönen Altar zu sehen und dem Regen zu entkommen. Der ruhige Innenraum ist ein perfekter trockener Zufluchtsort.",
                 "hu": "Lépjen be, hogy megnézze a gyönyörű oltárt és elmeneküljön a zápor elől. A csendes belső tér tökéletes száraz menedék a nedves út során.",
                 "ro": "Intrați pentru a vedea altarul frumos și a scăpa de ploaie. Interiorul liniștit este un refugiu uscat perfect înainte de a continua drumul.",
-                "en": "Step inside to see the beautiful altar and escape the downpour. The quiet interior is a perfect dry haven before continuing your wet journey."
+                "en": "Step inside to see the beautiful altar and escape the downpour. The quiet interior is a perfect dry haven before continuing your wet journey.",
+                "fr": "Entrez pour admirer le bel autel et vous abriter de l'averse. L'intérieur calme est un refuge sec idéal avant de poursuivre votre parcours mouillé."
               }
             },
             {
@@ -863,13 +955,15 @@
                 "de": "Castelnau-d'Estrétefonds Castle",
                 "hu": "Castelnau-d'Estrétefonds Castle",
                 "ro": "Castelnau-d'Estrétefonds Castle",
-                "en": "Castelnau-d'Estrétefonds Castle"
+                "en": "Castelnau-d'Estrétefonds Castle",
+                "fr": "Château de Castelnau-d'Estrétefonds"
               },
               "tip_5lang": {
                 "de": "Die imposante Burgruine wirkt vor dem grauen, regnerischen Himmel dramatisch. Tragen Sie wasserdichte Stiefel gegen den tiefen Matsch.",
                 "hu": "Az impozáns várromok különösen drámaian festenek a szürke, esős égbolt alatt. Viseljen vízálló csizmát, mert a környék nagyon sáros lesz.",
                 "ro": "Ruinele impunătoare ale castelului arată deosebit de dramatic pe un cer ploios. Purtați cizme impermeabile, deoarece terenul devine noroios.",
-                "en": "The imposing castle ruins look especially dramatic against gray, rainy skies. Wear waterproof boots, as the surrounding grounds get very muddy."
+                "en": "The imposing castle ruins look especially dramatic against gray, rainy skies. Wear waterproof boots, as the surrounding grounds get very muddy.",
+                "fr": "Les imposantes ruines du château sont particulièrement dramatiques sous un ciel gris et pluvieux. Portez des bottes imperméables, les abords étant très boueux."
               }
             },
             {
@@ -877,13 +971,15 @@
                 "de": "Le lac de la Gargasses",
                 "hu": "Le lac de la Gargasses",
                 "ro": "Le lac de la Gargasses",
-                "en": "Le lac de la Gargasses"
+                "en": "Le lac de la Gargasses",
+                "fr": "Le lac de la Gargasses"
               },
               "tip_5lang": {
                 "de": "Erleben Sie die ruhige Atmosphäre der Regentropfen auf dem See. Die Wege sind bei Regen sehr rutschig, also gehen Sie hier äußerst vorsichtig.",
                 "hu": "Tapasztalja meg a tó felszínét verő esőcseppek nyugodt hangulatát. Az utak nagyon csúszósak esőben, ezért lépkedjen óvatosan a kocsiból kiszállva.",
                 "ro": "Experimentați atmosfera senină a picăturilor de ploaie pe lac. Potecile sunt foarte alunecoase în ploaie, așa că mergeți cu mare grijă.",
-                "en": "Experience the serene atmosphere of raindrops hitting the lake's surface. Paths are highly slippery in the rain, so tread carefully on foot."
+                "en": "Experience the serene atmosphere of raindrops hitting the lake's surface. Paths are highly slippery in the rain, so tread carefully on foot.",
+                "fr": "Vivez l'atmosphère sereine des gouttes de pluie frappant la surface du lac. Les chemins deviennent très glissants sous la pluie, avancez donc prudemment à pied."
               }
             },
             {
@@ -891,13 +987,15 @@
                 "de": "Lac de Pompignan",
                 "hu": "Lac de Pompignan",
                 "ro": "Lac de Pompignan",
-                "en": "Lac de Pompignan"
+                "en": "Lac de Pompignan",
+                "fr": "Lac de Pompignan"
               },
               "tip_5lang": {
                 "de": "Parken Sie und beobachten Sie den Regen über dem Wasser aus dem trockenen Auto. Ein Regenschirm ist bei plötzlichen Böen unerlässlich.",
                 "hu": "Parkoljon le, és nézze a száraz autóból, ahogy az eső végigsöpör a vízen. Ha kiszáll, egy esernyő elengedhetetlen a hirtelen széllökések ellen.",
                 "ro": "Parcați și priviți ploaia pe apa întinsă din mașina uscată. Dacă ieșiți, o umbrelă este esențială împotriva rafalelor bruște.",
-                "en": "Park nearby and watch the rain sweep across the expansive water from your dry car. If venturing out, an umbrella is essential against sudden gusts."
+                "en": "Park nearby and watch the rain sweep across the expansive water from your dry car. If venturing out, an umbrella is essential against sudden gusts.",
+                "fr": "Garez-vous à proximité et regardez la pluie balayer l'étendue d'eau depuis votre voiture au sec. Si vous sortez, un parapluie est essentiel contre les rafales soudaines."
               }
             },
             {
@@ -905,13 +1003,15 @@
                 "de": "Petit lac de Juliasse",
                 "hu": "Petit lac de Juliasse",
                 "ro": "Petit lac de Juliasse",
-                "en": "Petit lac de Juliasse"
+                "en": "Petit lac de Juliasse",
+                "fr": "Petit lac de Juliasse"
               },
               "tip_5lang": {
                 "de": "Dieser kleinere See wirkt bei starkem Regen sehr abgeschieden und stimmungsvoll. Behalten Sie Ihre Kapuze auf, da Unterstände rar sind.",
                 "hu": "Ez a kisebb tó mélyen elzártnak és komornak tűnik heves záporok idején. Tartsa fenn a vízálló kapucnit, mivel a természetes menedék kevés.",
                 "ro": "Acest lac mai mic se simte foarte izolat și sumbru în timpul ploilor abundente. Țineți gluga pusă, adăposturile naturale sunt limitate.",
-                "en": "This smaller lake feels deeply secluded and moody during heavy rain showers. Keep your waterproof hood up, as natural shelters are very limited here."
+                "en": "This smaller lake feels deeply secluded and moody during heavy rain showers. Keep your waterproof hood up, as natural shelters are very limited here.",
+                "fr": "Ce petit lac paraît profondément isolé et mélancolique lors de fortes averses. Gardez votre capuche imperméable relevée, les abris naturels y étant très limités."
               }
             },
             {
@@ -919,13 +1019,15 @@
                 "de": "Grand lac de Juliasse",
                 "hu": "Grand lac de Juliasse",
                 "ro": "Grand lac de Juliasse",
-                "en": "Grand lac de Juliasse"
+                "en": "Grand lac de Juliasse",
+                "fr": "Grand lac de Juliasse"
               },
               "tip_5lang": {
                 "de": "Das graue Wasser verschmilzt mit dem regnerischen Himmel zu einem melancholischen Bild. Bleiben Sie auf befestigten Wegen, um tiefen Matsch zu meiden.",
                 "hu": "A szürke víz egybeolvad az esős éggel, melankolikus látványt nyújtva. Maradjon a burkolt részeken, hogy elkerülje a part menti mély sarat.",
                 "ro": "Apa gri se contopește cu cerul ploios pentru o vedere melancolică. Rămâneți pe zonele pavate pentru a evita noroiul adânc de lângă maluri.",
-                "en": "The expansive gray water merges with the rainy sky for a melancholic view. Ensure you stay on paved areas to avoid the deep mud near the banks."
+                "en": "The expansive gray water merges with the rainy sky for a melancholic view. Ensure you stay on paved areas to avoid the deep mud near the banks.",
+                "fr": "L'eau grise et étendue se confond avec le ciel pluvieux pour une vue mélancolique. Restez sur les zones pavées pour éviter la boue profonde près des berges."
               }
             }
           ]
@@ -935,7 +1037,8 @@
             "de": "Wärmen Sie das Auto für eine kalte Morgenfahrt zu den historischen Denkmälern auf. Mittags haben Sie einen klaren, frostigen Blick auf das Schloss. Fahren Sie nachmittags zwischen den zugefrorenen Seen und bleiben Sie im Warmen. Genießen Sie den Sonnenuntergang um 17:00 Uhr.",
             "hu": "Melegítse be az autót a hideg reggeli útra a műemlékekhez. Délben tiszta, fagyos kilátás nyílik a kastélyra, könnyű parkolással. Vezessen a befagyott tavak között délután, melegben maradva. Nézze meg a korai, 17:00 órás naplementét a fűtött járműből.",
             "ro": "Încălziți mașina pentru un drum rece de dimineață spre monumentele istorice. Prânzul oferă o vedere clară, geroasă a Castelului. Conduceți între lacurile înghețate după-amiaza, stând la căldură. Urmăriți apusul devreme la 17:00 din vehiculul încălzit.",
-            "en": "Warm up the car for a cold morning drive to the historic monuments. Midday offers clear, frosty views of the Castle with easy parking. Drive between the frozen lakes in the afternoon, staying toasty inside. Watch the early 17:00 sunset from your heated vehicle."
+            "en": "Warm up the car for a cold morning drive to the historic monuments. Midday offers clear, frosty views of the Castle with easy parking. Drive between the frozen lakes in the afternoon, staying toasty inside. Watch the early 17:00 sunset from your heated vehicle.",
+            "fr": "Réchauffez la voiture pour un trajet matinal froid vers les monuments historiques. À midi, profitez de vues claires et givrées du château avec un stationnement facile. L'après-midi, conduisez entre les lacs gelés en restant bien au chaud à l'intérieur. Contemplez le coucher du soleil tôt vers 17:00 depuis votre véhicule chauffé."
           },
           "stops": [
             {
@@ -943,13 +1046,15 @@
                 "de": "Castelnau Town Hall",
                 "hu": "Castelnau Town Hall",
                 "ro": "Castelnau Town Hall",
-                "en": "Castelnau Town Hall"
+                "en": "Castelnau Town Hall",
+                "fr": "Mairie de Castelnau"
               },
               "tip_5lang": {
                 "de": "Sehen Sie die historische Fassade in der klaren Morgenluft. Kleiden Sie sich warm, da es auf dem offenen Platz im Winter ziemlich windig wird.",
                 "hu": "Nézze meg a történelmi homlokzatot a csípős reggeli levegőn. Öltözzön meleg rétegekbe, mert a nyitott tér meglehetősen szeles lehet télen.",
                 "ro": "Vedeți fațada istorică în aerul proaspăt al dimineții. Îmbrăcați-vă în straturi groase, deoarece piața deschisă devine destul de vântoasă.",
-                "en": "See the historic facade in the crisp morning air; its stone details stand out. Dress in warm layers as the open square gets quite windy."
+                "en": "See the historic facade in the crisp morning air; its stone details stand out. Dress in warm layers as the open square gets quite windy.",
+                "fr": "Admirez la façade historique dans l'air matinal vif ; les détails en pierre ressortent bien. Habillez-vous chaudement car la place ouverte est très exposée au vent."
               }
             },
             {
@@ -957,13 +1062,15 @@
                 "de": "Saint Martin Church",
                 "hu": "Saint Martin Church",
                 "ro": "Saint Martin Church",
-                "en": "Saint Martin Church"
+                "en": "Saint Martin Church",
+                "fr": "Église Saint-Martin"
               },
               "tip_5lang": {
                 "de": "Erkunden Sie das friedliche Kirchenschiff, das einen wärmeren Rückzugsort vor dem Frost bietet. Die Buntglasfenster wirken im Winterlicht atemberaubend.",
                 "hu": "Fedezze fel a békés hajót, amely melegebb menedéket nyújt a téli fagy elől. Az ólomüveg lenyűgöző a halvány téli fényben.",
                 "ro": "Explorați nava liniștită care oferă o retragere mai caldă din gerul iernii. Vitraliile arată uimitor în lumina palidă a iernii.",
-                "en": "Explore the peaceful nave which offers a slightly warmer retreat from the winter frost. The stained glass looks stunning in the pale winter light."
+                "en": "Explore the peaceful nave which offers a slightly warmer retreat from the winter frost. The stained glass looks stunning in the pale winter light.",
+                "fr": "Explorez la nef paisible qui offre un abri un peu plus chaud contre le gel hivernal. Les vitraux sont splendides dans la pâle lumière d'hiver."
               }
             },
             {
@@ -971,13 +1078,15 @@
                 "de": "Castelnau-d'Estrétefonds Castle",
                 "hu": "Castelnau-d'Estrétefonds Castle",
                 "ro": "Castelnau-d'Estrétefonds Castle",
-                "en": "Castelnau-d'Estrétefonds Castle"
+                "en": "Castelnau-d'Estrétefonds Castle",
+                "fr": "Château de Castelnau-d'Estrétefonds"
               },
               "tip_5lang": {
                 "de": "Spazieren Sie an den historischen Mauern entlang und genießen Sie die freie Wintersicht. Packen Sie sich warm ein, da der Wind hier kalt weht.",
                 "hu": "Sétáljon a történelmi falak mentén, és élvezze a zavartalan téli kilátást. Öltözzön fel jól, mert a magaslati fekvés miatt hideg szelek fújnak.",
                 "ro": "Plimbați-vă pe perimetrul istoric și bucurați-vă de priveliști de iarnă prin copacii goi. Îmbrăcați-vă gros, vântul rece bate pe colină.",
-                "en": "Walk the historic perimeter and enjoy unobstructed winter views through the bare trees. Wrap up tightly, as the elevated position catches cold winds."
+                "en": "Walk the historic perimeter and enjoy unobstructed winter views through the bare trees. Wrap up tightly, as the elevated position catches cold winds.",
+                "fr": "Parcourez le périmètre historique et profitez des vues hivernales dégagées à travers les arbres dénudés. Couvrez-vous bien, la position élevée étant balayée par des vents froids."
               }
             },
             {
@@ -985,13 +1094,15 @@
                 "de": "Le lac de la Gargasses",
                 "hu": "Le lac de la Gargasses",
                 "ro": "Le lac de la Gargasses",
-                "en": "Le lac de la Gargasses"
+                "en": "Le lac de la Gargasses",
+                "fr": "Le lac de la Gargasses"
               },
               "tip_5lang": {
                 "de": "Die frostbedeckten Ufer des Sees bieten eine magische Winterlandschaft. Tragen Sie dicke Handschuhe, da die Temperaturen am Wasser sinken.",
                 "hu": "A tó dérlepte szélei varázslatos, csendes téli tájat kínálnak. Viseljen vastag kesztyűt és sapkát, mert a víz közelében csökken a hőmérséklet.",
                 "ro": "Marginile acoperite de gheață ale lacului oferă un peisaj magic de iarnă. Purtați mănuși groase, deoarece temperaturile scad lângă apă.",
-                "en": "The frost-covered edges of the lake offer a magical, quiet winter landscape. Wear thick gloves and a hat, as temperatures drop near the water."
+                "en": "The frost-covered edges of the lake offer a magical, quiet winter landscape. Wear thick gloves and a hat, as temperatures drop near the water.",
+                "fr": "Les berges couvertes de givre offrent un paysage hivernal magique et tranquille. Portez des gants épais et un bonnet, les températures chutant près de l'eau."
               }
             },
             {
@@ -999,13 +1110,15 @@
                 "de": "Lac de Pompignan",
                 "hu": "Lac de Pompignan",
                 "ro": "Lac de Pompignan",
-                "en": "Lac de Pompignan"
+                "en": "Lac de Pompignan",
+                "fr": "Lac de Pompignan"
               },
               "tip_5lang": {
                 "de": "Bewundern Sie die eisige Weite des Sees, die die Wintersonne spiegelt. Nutzen Sie die Autoheizung zum Aufwärmen nach einem frostigen Spaziergang.",
                 "hu": "Gyönyörködjön a tó jeges felszínében, amely csodásan tükrözi a téli napot. Használja az autó fűtését egy rövid, fagyos séta után.",
                 "ro": "Admirați întinderea înghețată a lacului care reflectă soarele de iarnă. Folosiți încălzirea mașinii pentru a vă încălzi după o scurtă plimbare.",
-                "en": "Take in the icy expanse of the lake which reflects the pale winter sun beautifully. Use the car heater to warm up after a brief, frosty walk."
+                "en": "Take in the icy expanse of the lake which reflects the pale winter sun beautifully. Use the car heater to warm up after a brief, frosty walk.",
+                "fr": "Admirez l'étendue glacée du lac qui reflète magnifiquement le pâle soleil d'hiver. Utilisez le chauffage de la voiture pour vous réchauffer après une brève promenade glaciale."
               }
             },
             {
@@ -1013,13 +1126,15 @@
                 "de": "Petit lac de Juliasse",
                 "hu": "Petit lac de Juliasse",
                 "ro": "Petit lac de Juliasse",
-                "en": "Petit lac de Juliasse"
+                "en": "Petit lac de Juliasse",
+                "fr": "Petit lac de Juliasse"
               },
               "tip_5lang": {
                 "de": "Die kahlen Bäume um den gefrorenen Teich schaffen eine schöne Winterszene. Achten Sie auf die frühe Dämmerung um 17:00 Uhr und kehren Sie um.",
                 "hu": "A befagyott tavacska körüli kopasz fák gyönyörű téli jelenetet alkotnak. Ügyeljen a korai, 17:00-s szürkületre, és még világosban induljon vissza.",
                 "ro": "Copacii goi din jurul iazului înghețat creează o scenă frumoasă de iarnă. Atenție la amurgul devreme de la 17:00, întoarceți-vă pe lumină.",
-                "en": "The bare trees around the frozen pond create a stark, beautiful winter scene. Be aware of early dusk at 17:00 and head back while it's still light."
+                "en": "The bare trees around the frozen pond create a stark, beautiful winter scene. Be aware of early dusk at 17:00 and head back while it's still light.",
+                "fr": "Les arbres dénudés autour de l'étang gelé créent une scène hivernale austère et belle. Attention à la tombée rapide de la nuit vers 17:00 et revenez tant qu'il fait encore jour."
               }
             },
             {
@@ -1027,13 +1142,15 @@
                 "de": "Grand lac de Juliasse",
                 "hu": "Grand lac de Juliasse",
                 "ro": "Grand lac de Juliasse",
-                "en": "Grand lac de Juliasse"
+                "en": "Grand lac de Juliasse",
+                "fr": "Grand lac de Juliasse"
               },
               "tip_5lang": {
                 "de": "Genießen Sie die eisige Landschaft, während die Wintersonne tiefer sinkt. Brechen Sie bis 17:00 Uhr auf, bevor die Wege vereisen.",
                 "hu": "Élvezze a kiterjedt jeges tájat, ahogy a téli nap lemenni készül. Induljon el 17:00 óráig, mielőtt a hőmérséklet lezuhan és az utak eljegesednek.",
                 "ro": "Bucurați-vă de peisajul de gheață în timp ce soarele de iarnă coboară. Plecați până la 17:00 înainte ca temperaturile să scadă brusc.",
-                "en": "Enjoy the sprawling icy landscape as the winter sun begins to dip low. Depart by 17:00 before the temperature plummets and paths become icy."
+                "en": "Enjoy the sprawling icy landscape as the winter sun begins to dip low. Depart by 17:00 before the temperature plummets and paths become icy.",
+                "fr": "Profitez du vaste paysage glacé alors que le soleil hivernal commence à baisser. Repartez avant 17:00 avant que la température ne chute et que les sentiers ne deviennent verglacés."
               }
             }
           ]

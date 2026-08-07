@@ -21,7 +21,8 @@
             "de": "Place d'Armes",
             "hu": "Főtér (Place d'Armes)",
             "ro": "Place d'Armes",
-            "en": "Place d'Armes"
+            "en": "Place d'Armes",
+            "fr": "Place d'Armes"
           },
           "coords": [
             50.3582,
@@ -36,7 +37,8 @@
             "de": "Bewundern Sie das Rathaus mit seiner kunstvollen Fassade.",
             "hu": "Csodálja meg a városháza díszes homlokzatát a téren.",
             "ro": "Admirați primăria cu fațada sa elaborată.",
-            "en": "Admire the ornate facade of the Town Hall on the square."
+            "en": "Admire the ornate facade of the Town Hall on the square.",
+            "fr": "Admirez la façade ornée de l’Hôtel de Ville sur la place."
           }
         },
         {
@@ -44,7 +46,8 @@
             "de": "Maison Espagnole",
             "hu": "Spanyol Ház",
             "ro": "Maison Espagnole",
-            "en": "Maison Espagnole"
+            "en": "Maison Espagnole",
+            "fr": "Maison Espagnole"
           },
           "coords": [
             50.3591,
@@ -59,7 +62,8 @@
             "de": "Eines der wenigen erhaltenen Fachwerkhäuser der Stadt.",
             "hu": "A város kevés megmaradt favázas házainak egyike.",
             "ro": "Una dintre puținele case cu paiantă rămase în oraș.",
-            "en": "One of the few remaining half-timbered houses in the city."
+            "en": "One of the few remaining half-timbered houses in the city.",
+            "fr": "Une des rares maisons à colombages restantes dans la ville."
           }
         },
         {
@@ -67,7 +71,8 @@
             "de": "Église Saint-Géry",
             "hu": "Szent Gellért templom",
             "ro": "Biserica Saint-Géry",
-            "en": "Saint-Géry Church"
+            "en": "Saint-Géry Church",
+            "fr": "Église Saint-Géry"
           },
           "coords": [
             50.3575,
@@ -82,7 +87,8 @@
             "de": "Besuchen Sie den ältesten Sakralbau von Valenciennes.",
             "hu": "Látogasson el Valenciennes legrégebbi egyházi épületébe.",
             "ro": "Vizitați cel mai vechi edificiu religios din Valenciennes.",
-            "en": "Visit the oldest religious building in Valenciennes."
+            "en": "Visit the oldest religious building in Valenciennes.",
+            "fr": "Visitez le plus ancien édifice religieux de Valenciennes."
           }
         },
         {
@@ -90,7 +96,8 @@
             "de": "Musée des Beaux-Arts",
             "hu": "Szépművészeti Múzeum",
             "ro": "Muzeul de Arte Frumoase",
-            "en": "Fine Arts Museum"
+            "en": "Fine Arts Museum",
+            "fr": "Musée des Beaux-Arts"
           },
           "coords": [
             50.3545,
@@ -105,7 +112,8 @@
             "de": "Heimat der Werke von Rubens und Watteau.",
             "hu": "Rubens és Watteau műveinek ad otthont.",
             "ro": "Găzduiește lucrări de Rubens și Watteau.",
-            "en": "Home to works by Rubens and Watteau."
+            "en": "Home to works by Rubens and Watteau.",
+            "fr": "Abritant des œuvres de Rubens et Watteau."
           }
         },
         {
@@ -113,7 +121,8 @@
             "de": "Parc de la Rhonelle",
             "hu": "Rhonelle park",
             "ro": "Parcul de la Rhonelle",
-            "en": "Parc de la Rhonelle"
+            "en": "Parc de la Rhonelle",
+            "fr": "Parc de la Rhonelle"
           },
           "coords": [
             50.3498,
@@ -128,7 +137,8 @@
             "de": "Ein englischer Garten mit vielen Skulpturen lokaler Künstler.",
             "hu": "Angolkert számos helyi művész szobrával díszítve.",
             "ro": "O grădină englezească cu multe sculpturi ale artiștilor locali.",
-            "en": "An English garden decorated with sculptures by local artists."
+            "en": "An English garden decorated with sculptures by local artists.",
+            "fr": "Un jardin anglais décoré de sculptures d’artistes locaux."
           }
         },
         {
@@ -136,7 +146,8 @@
             "de": "Basilique Notre-Dame du Saint-Cordon",
             "hu": "Szent-Cordon Miasszonyunk bazilika",
             "ro": "Basilica Notre-Dame du Saint-Cordon",
-            "en": "Basilique Notre-Dame du Saint-Cordon"
+            "en": "Basilique Notre-Dame du Saint-Cordon",
+            "fr": "Basilique Notre-Dame du Saint-Cordon"
           },
           "coords": [
             50.3558,
@@ -151,7 +162,8 @@
             "de": "Ein wichtiger Wallfahrtsort mit neugotischer Architektur.",
             "hu": "Fontos zarándokhely neogótikus építészettel.",
             "ro": "Un loc important de pelerinaj cu arhitectură neogotică.",
-            "en": "An important pilgrimage site with neo-Gothic architecture."
+            "en": "An important pilgrimage site with neo-Gothic architecture.",
+            "fr": "Un lieu de pèlerinage important au style néo‑gothique."
           }
         }
       ],
@@ -159,7 +171,8 @@
         "de": "Ihr Tag beginnt auf dem majestätischen Place d'Armes, dem sozialen Herzstück der Stadt. Nach einem Blick auf das historische Maison Espagnole tauchen Sie in die sakrale Stille der Saint-Géry-Kirche ein. Der Nachmittag gehört der Kunst im weltberühmten Musée des Beaux-Arts, gefolgt von einem entspannten Spaziergang durch den Parc de la Rhonelle. Den Abschluss bildet die imposante Basilika, ein Zeugnis tiefer lokaler Tradition.",
         "hu": "A napot a fenséges Place d'Armes-on kezdjük, amely a város közösségi szíve. A történelmi Spanyol Ház megtekintése után a Szent Gellért templom szakrális csendjében merülhetünk el. A délután a művészeté a világhírű Szépművészeti Múzeumban, majd pihentető séta következik a Rhonelle parkban. A napot az impozáns bazilika zárja, amely a mély helyi hagyományok őrzője.",
         "ro": "Ziua începe în maiestuoasa Place d'Armes, inima socială a orașului. După o vizită la istorica Maison Espagnole, vă veți cufunda în liniștea sacră a bisericii Saint-Géry. După-amiaza este dedicată artei la celebrul Muzeu de Arte Frumoase, urmată de o plimbare relaxantă în Parcul Rhonelle. Finalul este marcat de bazilica impunătoare, o dovadă a tradițiilor locale profunde.",
-        "en": "Your day begins at the majestic Place d'Armes, the social heart of the city. After a look at the historical Maison Espagnole, immerse yourself in the sacred silence of Saint-Géry Church. The afternoon is dedicated to art at the world-renowned Fine Arts Museum, followed by a relaxing stroll through Parc de la Rhonelle. The day concludes at the imposing Basilica, a testament to deep local traditions."
+        "en": "Your day begins at the majestic Place d'Armes, the social heart of the city. After a look at the historical Maison Espagnole, immerse yourself in the sacred silence of Saint-Géry Church. The afternoon is dedicated to art at the world-renowned Fine Arts Museum, followed by a relaxing stroll through Parc de la Rhonelle. The day concludes at the imposing Basilica, a testament to deep local traditions.",
+        "fr": "Votre journée commence sur la majestueuse Place d'Armes, cœur social de la ville. Après un coup d’œil à la Maison Espagnole historique, imprégnez‑vous du silence sacré de l'église Saint‑Géry. L'après‑midi est consacré à l'art au renommé Musée des Beaux‑Arts, suivi d'une promenade relaxante dans le Parc de la Rhonelle. La journée se termine à la imposante Basilique, témoignage de profondes traditions locales."
       },
       "gastro_picks": {
         "de": [
@@ -319,6 +332,12 @@
           "Look out for the numerous statues scattered across the city.",
           "Most sights are concentrated around Place d'Armes.",
           "Consider booking lunch in advance near the center."
+        ],
+        "fr": [
+          "Le centre‑ville est plat et très facile à explorer à pied.",
+          "Soyez attentif aux nombreuses statues disséminées dans la ville.",
+          "La plupart des sites sont concentrés autour de la Place d'Armes.",
+          "Envisagez de réserver votre déjeuner à l'avance près du centre."
         ]
       }
     },
@@ -335,7 +354,8 @@
             "de": "Place d'Armes",
             "hu": "Főtér",
             "ro": "Place d'Armes",
-            "en": "Place d'Armes"
+            "en": "Place d'Armes",
+            "fr": "Place d'Armes"
           },
           "coords": [
             50.3582,
@@ -350,7 +370,8 @@
             "de": "Idealer Startpunkt mit Fahrradstellplätzen.",
             "hu": "Ideális kiindulópont kerékpárparkolókkal.",
             "ro": "Punct de plecare ideal cu locuri de parcare pentru biciclete.",
-            "en": "Ideal starting point with bicycle parking."
+            "en": "Ideal starting point with bicycle parking.",
+            "fr": "Point de départ idéal avec stationnement pour vélos."
           }
         },
         {
@@ -358,7 +379,8 @@
             "de": "Le Phénix",
             "hu": "Le Phénix kulturális központ",
             "ro": "Le Phénix",
-            "en": "Le Phénix"
+            "en": "Le Phénix",
+            "fr": "Le Phénix"
           },
           "coords": [
             50.3662,
@@ -373,7 +395,8 @@
             "de": "Eine moderne nationale Bühne mit markanter Architektur.",
             "hu": "Modern nemzeti színház jellegzetes építészettel.",
             "ro": "O scenă națională modernă cu o arhitectură distinctivă.",
-            "en": "A modern national stage with striking architecture."
+            "en": "A modern national stage with striking architecture.",
+            "fr": "Scène nationale moderne à l'architecture frappante."
           }
         },
         {
@@ -381,7 +404,8 @@
             "de": "Basilique Notre-Dame",
             "hu": "Bazilika",
             "ro": "Bazilica",
-            "en": "Basilica"
+            "en": "Basilica",
+            "fr": "Basilique"
           },
           "coords": [
             50.3558,
@@ -396,7 +420,8 @@
             "de": "Nutzen Sie den Radweg entlang der Allee.",
             "hu": "Használja a sugárút menti kerékpárutat.",
             "ro": "Folosiți pista de biciclete de-a lungul bulevardului.",
-            "en": "Use the bike path along the avenue."
+            "en": "Use the bike path along the avenue.",
+            "fr": "Empruntez la piste cyclable le long de l'avenue."
           }
         },
         {
@@ -404,7 +429,8 @@
             "de": "Musée des Beaux-Arts",
             "hu": "Szépművészeti Múzeum",
             "ro": "Muzeul de Arte Frumoase",
-            "en": "Fine Arts Museum"
+            "en": "Fine Arts Museum",
+            "fr": "Musée des Beaux‑Arts"
           },
           "coords": [
             50.3545,
@@ -419,7 +445,8 @@
             "de": "Sichere Abstellmöglichkeiten vor dem Museum.",
             "hu": "Biztonságos tárolók a múzeum előtt.",
             "ro": "Locuri de depozitare sigure în fața muzeului.",
-            "en": "Safe storage available in front of the museum."
+            "en": "Safe storage available in front of the museum.",
+            "fr": "Consigne sécurisée disponible devant le musée."
           }
         },
         {
@@ -427,7 +454,8 @@
             "de": "Parc de la Rhonelle",
             "hu": "Rhonelle park",
             "ro": "Parcul de la Rhonelle",
-            "en": "Parc de la Rhonelle"
+            "en": "Parc de la Rhonelle",
+            "fr": "Parc de la Rhonelle"
           },
           "coords": [
             50.3498,
@@ -442,7 +470,8 @@
             "de": "Radfahren ist auf den Hauptwegen erlaubt.",
             "hu": "A főutakon megengedett a kerékpározás.",
             "ro": "Ciclismul este permis pe aleile principale.",
-            "en": "Cycling is allowed on the main paths."
+            "en": "Cycling is allowed on the main paths.",
+            "fr": "Le vélo est autorisé sur les allées principales."
           }
         },
         {
@@ -450,7 +479,8 @@
             "de": "Monument à Watteau",
             "hu": "Watteau emlékmű",
             "ro": "Monumentul lui Watteau",
-            "en": "Monument to Watteau"
+            "en": "Monument to Watteau",
+            "fr": "Monument à Watteau"
           },
           "coords": [
             50.3565,
@@ -465,7 +495,8 @@
             "de": "Huldigen Sie dem berühmtesten Maler der Stadt.",
             "hu": "Adózzon tisztelettel a város leghíresebb festőjének.",
             "ro": "Aduceți un omagiu celui mai faimos pictor al orașului.",
-            "en": "Pay tribute to the city's most famous painter."
+            "en": "Pay tribute to the city's most famous painter.",
+            "fr": "Rendez hommage au peintre le plus célèbre de la ville."
           }
         },
         {
@@ -473,7 +504,8 @@
             "de": "Schelde-Ufer",
             "hu": "Schelde-part",
             "ro": "Malul râului Escaut",
-            "en": "Scheldt riverfront"
+            "en": "Scheldt riverfront",
+            "fr": "Quai de l'Escaut"
           },
           "coords": [
             50.365,
@@ -488,7 +520,8 @@
             "de": "Schöner Weg entlang des Kanals.",
             "hu": "Szép útvonal a csatorna mentén.",
             "ro": "Traseu frumos de-a lungul canalului.",
-            "en": "Beautiful path along the canal."
+            "en": "Beautiful path along the canal.",
+            "fr": "Belle promenade le long du canal."
           }
         }
       ],
@@ -496,7 +529,8 @@
         "de": "Mit dem Rad erkunden Sie Valenciennes weitläufiger. Vom Zentrum geht es zum modernen Le Phénix und dann südlich zur Basilika. Nach dem Kunstgenuss im Museum bietet der Parc de la Rhonelle eine grüne Lunge, bevor Sie am Monument à Watteau vorbeifahren und die Tour entspannt am Ufer der Schelde (Escaut) ausklingen lassen.",
         "hu": "Kerékpárral tágabb körben fedezhetjük fel Valenciennes-t. A központból a modern Le Phénix felé indulunk, majd délre a bazilikához. A múzeumi művészeti élmény után a Rhonelle park nyújt felfrissülést, mielőtt eltekernénk a Watteau emlékmű mellett, és a túrát a Schelde (Escaut) partján zárnánk.",
         "ro": "Cu bicicleta veți explora Valenciennes mai pe larg. Din centru mergeți spre modernul Le Phénix și apoi spre sud către bazilică. După experiența artistică de la muzeu, Parcul Rhonelle oferă o oază de verdeață, înainte de a trece pe lângă Monumentul lui Watteau și de a încheia turul relaxat pe malul râului Escaut.",
-        "en": "By bike, you can explore Valenciennes more extensively. From the center, head to the modern Le Phénix and then south to the Basilica. After the art experience at the museum, Parc de la Rhonelle offers a green lung before cycling past the Watteau Monument and ending the tour relaxed on the banks of the Scheldt (Escaut)."
+        "en": "By bike, you can explore Valenciennes more extensively. From the center, head to the modern Le Phénix and then south to the Basilica. After the art experience at the museum, Parc de la Rhonelle offers a green lung before cycling past the Watteau Monument and ending the tour relaxed on the banks of the Scheldt (Escaut).",
+        "fr": "À vélo, vous pouvez explorer Valenciennes plus largement. Depuis le centre, dirigez‑vous vers le moderne Le Phénix puis au sud vers la Basilique. Après l'expérience artistique au musée, le Parc de la Rhonelle offre un poumon vert avant de passer devant le Monument à Watteau et de terminer la balade détendu sur les berges de l'Escaut (Scheldt)."
       },
       "gastro_picks": {
         "de": [
@@ -604,6 +638,12 @@
           "The Scheldt riverfront paths are ideal for cyclists.",
           "Avoid cobblestone streets in some old town alleys.",
           "Always park your bike at official stands."
+        ],
+        "fr": [
+          "Utilisez le système de vélos en libre‑service de la ville.",
+          "Les voies du quai de l'Escaut sont idéales pour les cyclistes.",
+          "Évitez les rues pavées dans certains ruelles de la vieille ville.",
+          "Garez toujours votre vélo sur les arceaux officiels."
         ]
       }
     },
@@ -620,7 +660,8 @@
             "de": "Altstadt-Cluster (Place d'Armes)",
             "hu": "Óváros (Place d'Armes)",
             "ro": "Centrul vechi",
-            "en": "Old Town Cluster"
+            "en": "Old Town Cluster",
+            "fr": "Quartier de la Vieille Ville"
           },
           "coords": [
             50.3582,
@@ -635,7 +676,8 @@
             "de": "Parken Sie im Parkhaus Place d'Armes.",
             "hu": "Parkoljon a Place d'Armes parkolóházban.",
             "ro": "Parcați în parcarea Place d'Armes.",
-            "en": "Park in the Place d'Armes parking garage."
+            "en": "Park in the Place d'Armes parking garage.",
+            "fr": "Garez‑vous dans le parking souterrain de la Place d'Armes."
           }
         },
         {
@@ -643,7 +685,8 @@
             "de": "Maison Espagnole",
             "hu": "Spanyol Ház",
             "ro": "Maison Espagnole",
-            "en": "Maison Espagnole"
+            "en": "Maison Espagnole",
+            "fr": "Maison Espagnole"
           },
           "coords": [
             50.3591,
@@ -658,7 +701,8 @@
             "de": "Zu Fuß vom Place d'Armes erreichbar.",
             "hu": "Gyalogosan elérhető a főtérről.",
             "ro": "Accesibil pe jos din Place d'Armes.",
-            "en": "Accessible on foot from Place d'Armes."
+            "en": "Accessible on foot from Place d'Armes.",
+            "fr": "Accessible à pied depuis la Place d'Armes."
           }
         },
         {
@@ -666,7 +710,8 @@
             "de": "Musée des Beaux-Arts",
             "hu": "Szépművészeti Múzeum",
             "ro": "Muzeul de Arte Frumoase",
-            "en": "Fine Arts Museum"
+            "en": "Fine Arts Museum",
+            "fr": "Musée des Beaux‑Arts"
           },
           "coords": [
             50.3545,
@@ -681,7 +726,8 @@
             "de": "Eigener Parkplatz vor Ort vorhanden.",
             "hu": "Saját parkoló a helyszínen.",
             "ro": "Parcare proprie disponibilă la fața locului.",
-            "en": "On-site parking available."
+            "en": "On-site parking available.",
+            "fr": "Stationnement sur place disponible."
           }
         },
         {
@@ -689,7 +735,8 @@
             "de": "Parc de la Rhonelle",
             "hu": "Rhonelle park",
             "ro": "Parcul de la Rhonelle",
-            "en": "Parc de la Rhonelle"
+            "en": "Parc de la Rhonelle",
+            "fr": "Parc de la Rhonelle"
           },
           "coords": [
             50.3498,
@@ -704,7 +751,8 @@
             "de": "Kurzer Spaziergang vom Museum aus.",
             "hu": "Rövid séta a múzeumtól.",
             "ro": "Scurtă plimbare de la muzeu.",
-            "en": "Short walk from the museum."
+            "en": "Short walk from the museum.",
+            "fr": "À quelques minutes à pied du musée."
           }
         },
         {
@@ -712,7 +760,8 @@
             "de": "Le Phénix",
             "hu": "Le Phénix",
             "ro": "Le Phénix",
-            "en": "Le Phénix"
+            "en": "Le Phénix",
+            "fr": "Le Phénix"
           },
           "coords": [
             50.3662,
@@ -727,7 +776,8 @@
             "de": "Großer Parkplatz hinter dem Gebäude.",
             "hu": "Nagy parkoló az épület mögött.",
             "ro": "Parcare mare în spatele clădirii.",
-            "en": "Large parking lot behind the building."
+            "en": "Large parking lot behind the building.",
+            "fr": "Grand parking derrière le bâtiment."
           }
         },
         {
@@ -735,7 +785,8 @@
             "de": "Basilique Notre-Dame",
             "hu": "Bazilika",
             "ro": "Bazilica",
-            "en": "Basilica"
+            "en": "Basilica",
+            "fr": "Basilique"
           },
           "coords": [
             50.3558,
@@ -750,7 +801,8 @@
             "de": "Parken Sie direkt auf dem Vorplatz.",
             "hu": "Parkoljon közvetlenül a bazilika előtti téren.",
             "ro": "Parcați direct în piața din fața bazilicii.",
-            "en": "Park directly in the square in front."
+            "en": "Park directly in the square in front.",
+            "fr": "Garez‑vous directement sur la place frontale."
           }
         }
       ],
@@ -758,7 +810,8 @@
         "de": "Diese Auto-Tour nutzt Cluster, um Stress zu vermeiden. Parken Sie zuerst im Zentrum für den Place d'Armes und das Maison Espagnole. Dann fahren Sie zum Kunst-Cluster beim Musée des Beaux-Arts, von wo aus Sie bequem zum Rhonelle-Park laufen. Am Nachmittag besuchen Sie den kulturellen Pol beim Le Phénix und beenden den Tag an der monumentalen Basilika.",
         "hu": "Ez az autós túra csoportosított megállókat használ a stressz elkerülésére. Parkoljon először a központban a főtér és a Spanyol Ház megtekintéséhez. Ezután hajtson a művészeti negyedbe a múzeumhoz, ahonnan kényelmesen átsétálhat a Rhonelle parkba. Délután látogasson el a Le Phénix kulturális központhoz, majd zárja a napot a monumentális bazilikánál.",
         "ro": "Acest tur auto folosește clustere pentru a evita stresul. Parcați mai întâi în centru pentru Place d'Armes și Maison Espagnole. Apoi mergeți la clusterul de artă de la Muzeul de Arte Frumoase, de unde puteți merge pe jos până în Parcul Rhonelle. După-amiaza vizitați polul cultural de la Le Phénix și încheiați ziua la basilică.",
-        "en": "This car tour uses clusters to avoid stress. First park in the center for Place d'Armes and Maison Espagnole. Then drive to the art cluster at the Fine Arts Museum, from where you can easily walk to Rhonelle Park. In the afternoon, visit the cultural pole at Le Phénix and end the day at the monumental Basilica."
+        "en": "This car tour uses clusters to avoid stress. First park in the center for Place d'Armes and Maison Espagnole. Then drive to the art cluster at the Fine Arts Museum, from where you can easily walk to Rhonelle Park. In the afternoon, visit the cultural pole at Le Phénix and end the day at the monumental Basilica.",
+        "fr": "Cette visite en voiture utilise des pôles pour éviter le stress. Garez‑vous d'abord au centre pour la Place d'Armes et la Maison Espagnole. Ensuite, conduisez vers le pôle artistique du Musée des Beaux‑Arts, d'où vous pouvez facilement marcher jusqu'au Parc de la Rhonelle. L'après‑midi, visitez le pôle culturel du Phénix et terminez la journée à la Basilique monumentale."
       },
       "gastro_picks": {
         "de": [
@@ -866,6 +919,12 @@
           "Traffic can be heavy around the center during rush hour.",
           "The city is compact, leave the car parked as much as possible.",
           "Watch out for one-way streets in the old town."
+        ],
+        "fr": [
+          "Utilisez les parkings couverts du centre pour éviter les contraventions.",
+          "La circulation peut être dense autour du centre aux heures de pointe.",
+          "La ville est compacte, laissez la voiture stationnée autant que possible.",
+          "Attention aux sens uniques dans la vieille ville."
         ]
       }
     },
@@ -882,7 +941,8 @@
             "de": "Place d'Armes",
             "hu": "Főtér",
             "ro": "Place d'Armes",
-            "en": "Place d'Armes"
+            "en": "Place d'Armes",
+            "fr": "Place d'Armes"
           },
           "coords": [
             50.3582,
@@ -897,7 +957,8 @@
             "de": "Tramstation 'Hôtel de Ville' direkt am Platz.",
             "hu": "A 'Hôtel de Ville' villamosmegálló közvetlenül a téren van.",
             "ro": "Stația de tramvai 'Hôtel de Ville' chiar în piață.",
-            "en": "Tram station 'Hôtel de Ville' right on the square."
+            "en": "Tram station 'Hôtel de Ville' right on the square.",
+            "fr": "Station de tram 'Hôtel de Ville' directement sur la place."
           }
         },
         {
@@ -905,7 +966,8 @@
             "de": "Église Saint-Géry",
             "hu": "Szent Gellért templom",
             "ro": "Biserica Saint-Géry",
-            "en": "Saint-Géry Church"
+            "en": "Saint-Géry Church",
+            "fr": "Église Saint‑Géry"
           },
           "coords": [
             50.3575,
@@ -920,7 +982,8 @@
             "de": "Ein kurzer Fußweg vom Place d'Armes.",
             "hu": "Rövid séta a főtértől.",
             "ro": "O scurtă plimbare de la Place d'Armes.",
-            "en": "A short walk from Place d'Armes."
+            "en": "A short walk from Place d'Armes.",
+            "fr": "À une courte distance à pied de la Place d'Armes."
           }
         },
         {
@@ -928,7 +991,8 @@
             "de": "Le Phénix",
             "hu": "Le Phénix",
             "ro": "Le Phénix",
-            "en": "Le Phénix"
+            "en": "Le Phénix",
+            "fr": "Le Phénix"
           },
           "coords": [
             50.3662,
@@ -943,7 +1007,8 @@
             "de": "Tram Linie T1 Richtung Condé.",
             "hu": "T1-es villamos Condé irányába.",
             "ro": "Tramvai linia T1 spre Condé.",
-            "en": "Tram line T1 towards Condé."
+            "en": "Tram line T1 towards Condé.",
+            "fr": "Ligne de tram T1 en direction de Condé."
           }
         },
         {
@@ -951,7 +1016,8 @@
             "de": "Musée des Beaux-Arts",
             "hu": "Szépművészeti Múzeum",
             "ro": "Muzeul de Arte Frumoase",
-            "en": "Fine Arts Museum"
+            "en": "Fine Arts Museum",
+            "fr": "Musée des Beaux‑Arts"
           },
           "coords": [
             50.3545,
@@ -966,7 +1032,8 @@
             "de": "Bus Linie 1 oder Tram T1/T2.",
             "hu": "1-es busz vagy T1/T2 villamos.",
             "ro": "Autobuz linia 1 sau tramvai T1/T2.",
-            "en": "Bus line 1 or tram T1/T2."
+            "en": "Bus line 1 or tram T1/T2.",
+            "fr": "Ligne de bus 1 ou tram T1/T2."
           }
         },
         {
@@ -974,7 +1041,8 @@
             "de": "Parc de la Rhonelle",
             "hu": "Rhonelle park",
             "ro": "Parcul de la Rhonelle",
-            "en": "Parc de la Rhonelle"
+            "en": "Parc de la Rhonelle",
+            "fr": "Parc de la Rhonelle"
           },
           "coords": [
             50.3498,
@@ -989,7 +1057,8 @@
             "de": "Zu Fuß vom Museum aus erreichbar.",
             "hu": "Gyalogosan elérhető a múzeumtól.",
             "ro": "Accesibil pe jos de la muzeu.",
-            "en": "Accessible on foot from the museum."
+            "en": "Accessible on foot from the museum.",
+            "fr": "Accessible à pied depuis le musée."
           }
         },
         {
@@ -997,7 +1066,8 @@
             "de": "Basilique Notre-Dame",
             "hu": "Bazilika",
             "ro": "Bazilica",
-            "en": "Basilica"
+            "en": "Basilica",
+            "fr": "Basilique"
           },
           "coords": [
             50.3558,
@@ -1012,7 +1082,8 @@
             "de": "Nahe der Tramstation 'Sous-Préfecture'.",
             "hu": "A 'Sous-Préfecture' villamosmegálló közelében.",
             "ro": "Aproape de stația de tramvai 'Sous-Préfecture'.",
-            "en": "Near the 'Sous-Préfecture' tram station."
+            "en": "Near the 'Sous-Préfecture' tram station.",
+            "fr": "Proche de la station de tram 'Sous‑Préfecture'."
           }
         }
       ],
@@ -1020,7 +1091,8 @@
         "de": "Dank des modernen Tram-Systems ist Valenciennes leicht mit Öffentlichen zu erkunden. Starten Sie im Zentrum (Hôtel de Ville), fahren Sie nach Norden zum kulturellen Phénix und kehren Sie dann zurück, um den künstlerischen Süden mit dem Museum und dem Rhonelle-Park zu entdecken. Die Basilika bildet den krönenden Abschluss, bequem erreichbar mit der Tram oder dem Bus.",
         "hu": "A modern villamoshálózatnak köszönhetően Valenciennes könnyen felfedezhető tömegközlekedéssel. Kezdjen a központban (Hôtel de Ville), utazzon északra a kulturális Phénix-hez, majd térjen vissza, hogy felfedezze a déli művészeti negyedet a múzeummal és a Rhonelle parkkal. A bazilika teszi fel a koronát a napra, kényelmesen elérhető villamossal vagy busszal.",
         "ro": "Datorită sistemului modern de tramvai, Valenciennes este ușor de explorat cu transportul public. Începeți în centru (Hôtel de Ville), mergeți spre nord la centrul cultural Phénix și apoi reveniți pentru a descoperi sudul artistic cu muzeul și parcul Rhonelle. Bazilica reprezintă finalul perfect, fiind ușor accesibilă cu tramvaiul sau autobuzul.",
-        "en": "Thanks to the modern tram system, Valenciennes is easy to explore by public transport. Start in the center (Hôtel de Ville), travel north to the cultural Phénix, and then return to discover the artistic south with the museum and Rhonelle Park. The Basilica is the crowning glory, conveniently accessible by tram or bus."
+        "en": "Thanks to the modern tram system, Valenciennes is easy to explore by public transport. Start in the center (Hôtel de Ville), travel north to the cultural Phénix, and then return to discover the artistic south with the museum and Rhonelle Park. The Basilica is the crowning glory, conveniently accessible by tram or bus.",
+        "fr": "Grâce au tramway moderne, Valenciennes se découvre facilement en transports en commun. Commencez au centre (Hôtel de Ville), allez au nord vers le pôle culturel Le Phénix, puis revenez pour découvrir le sud artistique avec le musée et le Parc de la Rhonelle. La Basilique est l'apogée, facilement accessible en tram ou en bus."
       },
       "gastro_picks": {
         "de": [
@@ -1128,6 +1200,12 @@
           "Trams T1 and T2 cover most tourist attractions.",
           "Validate your ticket at every boarding.",
           "The 'Transvilles' app provides real-time schedules."
+        ],
+        "fr": [
+          "Achetez un pass journée pour le réseau Transvilles.",
+          "Les trams T1 et T2 desservent la plupart des sites touristiques.",
+          "Validez votre titre de transport à chaque montée à bord.",
+          "L'application 'Transvilles' fournit les horaires en temps réel."
         ]
       }
     }

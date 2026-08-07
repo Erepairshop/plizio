@@ -3,55 +3,64 @@
     "de": "Route d'Omaha Beach, 14710 Colleville-sur-Mer (US Cemetery)",
     "hu": "Route d'Omaha Beach, 14710 Colleville-sur-Mer (US temető)",
     "ro": "Route d'Omaha Beach, 14710 Colleville-sur-Mer (Cimitirul SUA)",
-    "en": "Route d'Omaha Beach, 14710 Colleville-sur-Mer (US Cemetery)"
+    "en": "Route d'Omaha Beach, 14710 Colleville-sur-Mer (US Cemetery)",
+    "fr": "Route d'Omaha Beach, 14710 Colleville-sur-Mer (Cimetière américain)"
   },
   "openingHours": {
     "de": "Friedhof täglich 09:00-18:00; Strände 24/7",
     "hu": "Temető naponta 09:00-18:00; strandok 24/7",
     "ro": "Cimitir zilnic 09:00-18:00; plaje 24/7",
-    "en": "Cemetery daily 09:00-18:00; beaches 24/7"
+    "en": "Cemetery daily 09:00-18:00; beaches 24/7",
+    "fr": "Cimetière tous les jours 09:00‑18:00 ; plages 24/7"
   },
   "entranceFee": {
     "de": "Friedhöfe und Strände kostenlos; Museen variieren (€8-€15)",
     "hu": "A temetők és a strandok ingyenesek; múzeumok díja változó (€8-€15)",
     "ro": "Cimitirele și plajele sunt gratuite; taxele pentru muzee variază (€8-€15)",
-    "en": "Cemeteries and beaches are free; museums vary (€8-€15)"
+    "en": "Cemeteries and beaches are free; museums vary (€8-€15)",
+    "fr": "Cimetières et plages gratuits ; musées variables (€8‑€15)"
   },
   "website": "https://www.beaches-normandy.com",
   "publicTransport": {
     "de": "Mietwagen empfohlen; Bus Verts Linie 70 ab Bayeux begrenzt",
     "hu": "Autókölcsönzés ajánlott; a Bus Verts 70-es vonala Bayeux-ből korlátozott",
     "ro": "Închirierea unei mașini este recomandată; linia Bus Verts 70 din Bayeux este limitată",
-    "en": "Car rental recommended; Bus Verts line 70 from Bayeux is limited"
+    "en": "Car rental recommended; Bus Verts line 70 from Bayeux is limited",
+    "fr": "Location de voiture recommandée ; ligne de bus Verts 70 depuis Bayeux limitée"
   },
   "parking": {
     "de": "Kostenlose Parkplätze an fast allen Sehenswürdigkeiten",
     "hu": "Ingyenes parkolás szinte az összes látnivalónál",
     "ro": "Parcări gratuite la aproape toate atracțiile",
-    "en": "Free parking at almost all sights"
+    "en": "Free parking at almost all sights",
+    "fr": "Parking gratuit à presque tous les sites"
   },
   "accessibility": {
     "de": "Friedhöfe barrierefrei; Bunkeranlagen oft nur über unebene Pfade",
     "hu": "A temetők akadálymentesek; a bunkerek gyakran csak egyenetlen ösvényeken érhetők el",
     "ro": "Cimitirele sunt accesibile; complexele de buncăre sunt adesea accesibile doar prin poteci denivelate",
-    "en": "Cemeteries are accessible; bunker complexes often reachable only via uneven paths"
+    "en": "Cemeteries are accessible; bunker complexes often reachable only via uneven paths",
+    "fr": "Les cimetières sont accessibles ; les complexes de bunkers parfois seulement via des sentiers irréguliers"
   },
   "photoRules": {
     "de": "Respektvolles Fotografieren erlaubt; keine Drohnen über Friedhöfen",
     "hu": "Tiszteletteljes fényképezés megengedett; drónok használata tilos a temetők felett",
     "ro": "Fotografiere respectuoasă permisă; fără drone deasupra cimitirelor",
-    "en": "Respectful photography permitted; no drones over cemeteries"
+    "en": "Respectful photography permitted; no drones over cemeteries",
+    "fr": "Photographie respectueuse permise ; drones interdits au‑dessus des cimetières"
   },
   "bestTimeToVisit": {
     "de": "Juni für Gedenkveranstaltungen; September für weniger Trubel",
     "hu": "Június az emlékünnepségek miatt; szeptember a kevesebb tömeg miatt",
     "ro": "Iunie pentru comemorări; septembrie pentru mai puțină aglomerație",
-    "en": "June for commemorative events; September for fewer crowds"
+    "en": "June for commemorative events; September for fewer crowds",
+    "fr": "Juin pour les commémorations ; septembre pour moins de foule"
   },
   "audioGuide": {
     "de": "Apps wie 'D-Day Normandy' bieten GPS-gestützte Infos",
     "hu": "Az alkalmazások, mint a 'D-Day Normandy', GPS-alapú információkat kínálnak",
     "ro": "Aplicații precum 'D-Day Normandy' oferă informații bazate pe GPS",
-    "en": "Apps like 'D-Day Normandy' offer GPS-based information"
+    "en": "Apps like 'D-Day Normandy' offer GPS-based information",
+    "fr": "Des applis comme 'D‑Day Normandy' offrent des informations GPS"
   }
 }

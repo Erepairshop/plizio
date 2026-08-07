@@ -21,7 +21,8 @@
             "de": "Mairie de Montceau-les-Mines",
             "hu": "Mairie de Montceau-les-Mines",
             "ro": "Mairie de Montceau-les-Mines",
-            "en": "Mairie de Montceau-les-Mines"
+            "en": "Mairie de Montceau-les-Mines",
+            "fr": "Mairie de Montceau‑les‑Mines"
           },
           "coords": [
             4.362968,
@@ -36,7 +37,8 @@
             "de": "Bewundern Sie die elegante Architektur des Rathauses im historischen Zentrum und kommen Sie früh, um den administrativen Trubel zur Mittagszeit zu meiden.",
             "hu": "Csodálja meg a történelmi központban található városháza elegáns építészetét, és érkezzen korán, hogy elkerülje a déli hivatali nyüzsgést.",
             "ro": "Admirați arhitectura elegantă a primăriei din centrul istoric și sosiți devreme pentru a evita aglomerația administrativă din timpul prânzului.",
-            "en": "Admire the elegant architecture of the town hall located in the historic center, and visit early to avoid the bustling midday administrative crowds."
+            "en": "Admire the elegant architecture of the town hall located in the historic center, and visit early to avoid the bustling midday administrative crowds.",
+            "fr": "Admirez l'élégante architecture de la mairie située dans le centre historique, et visitez‑la tôt pour éviter l'affluence administrative de midi."
           }
         },
         {
@@ -44,7 +46,8 @@
             "de": "Church of Notre-Dame de l'Assomption",
             "hu": "Church of Notre-Dame de l'Assomption",
             "ro": "Church of Notre-Dame de l'Assomption",
-            "en": "Church of Notre-Dame de l'Assomption"
+            "en": "Church of Notre-Dame de l'Assomption",
+            "fr": "Église Notre‑Dame de l'Assomption"
           },
           "coords": [
             4.364873,
@@ -59,7 +62,8 @@
             "de": "Erleben Sie die ruhige Atmosphäre und die atemberaubenden Buntglasfenster dieser historischen Kirche, wobei auf angemessene Kleidung zu achten ist.",
             "hu": "Tapasztalja meg a történelmi templom nyugodt légkörét és lenyűgöző ólomüveg ablakait, ügyelve a szerény és megfelelő öltözködésre a belépéshez.",
             "ro": "Experimentați atmosfera liniștită și vitraliile uimitoare ale acestei biserici istorice, asigurându-vă că sunteți îmbrăcați decent pentru a intra.",
-            "en": "Experience the tranquil atmosphere and stunning stained glass windows of this historic church, ensuring you dress modestly to enter the sanctuary."
+            "en": "Experience the tranquil atmosphere and stunning stained glass windows of this historic church, ensuring you dress modestly to enter the sanctuary.",
+            "fr": "Vivez l'atmosphère tranquille et les superbes vitraux de cette église historique ; veillez à vous habiller modestement pour entrer dans le sanctuaire."
           }
         },
         {
@@ -67,7 +71,8 @@
             "de": "Parc Maugrand",
             "hu": "Parc Maugrand",
             "ro": "Parc Maugrand",
-            "en": "Parc Maugrand"
+            "en": "Parc Maugrand",
+            "fr": "Parc Maugrand"
           },
           "coords": [
             4.353937,
@@ -82,7 +87,8 @@
             "de": "Machen Sie einen erfrischenden Spaziergang durch diese riesige Grünfläche mit malerischen Wegen, und bringen Sie bequeme Schuhe für die Erkundung mit.",
             "hu": "Tegyen egy frissítő sétát ezen a festői ösvényeket kínáló hatalmas zöldterületen, és hozzon kényelmes cipőt a kiterjedt útvonalak felfedezéséhez.",
             "ro": "Faceți o plimbare revigorantă prin acest vast spațiu verde care oferă poteci pitorești și aduceți încălțăminte confortabilă pentru a explora.",
-            "en": "Take a refreshing stroll through this vast green space which offers scenic walking paths, and bring comfortable shoes for exploring its extensive trails."
+            "en": "Take a refreshing stroll through this vast green space which offers scenic walking paths, and bring comfortable shoes for exploring its extensive trails.",
+            "fr": "Faites une promenade revigorante dans ce vaste espace vert qui offre de beaux sentiers, et prenez des chaussures confortables pour explorer ses longs chemins."
           }
         },
         {
@@ -90,7 +96,8 @@
             "de": "Plage Roger Lagrot",
             "hu": "Plage Roger Lagrot",
             "ro": "Plage Roger Lagrot",
-            "en": "Plage Roger Lagrot"
+            "en": "Plage Roger Lagrot",
+            "fr": "Plage Roger Lagrot"
           },
           "coords": [
             4.384196,
@@ -105,7 +112,8 @@
             "de": "Entspannen Sie sich am Wasser an diesem schönen Seestrand, der sich perfekt für Picknicks eignet, aber vergessen Sie Ihren eigenen Sonnenschutz nicht.",
             "hu": "Pihenjen a vízparton ezen a bájos tóparti strandon, amely tökéletes családi piknikezéshez, de ne felejtse el saját napvédőjét, mert az árnyék korlátozott.",
             "ro": "Relaxați-vă pe această plajă minunată de pe malul lacului, perfectă pentru un picnic, dar nu uitați protecția solară deoarece umbra este limitată.",
-            "en": "Relax by the water at this lovely lakeside beach perfect for family picnics, but remember to bring your own sun protection as shade is limited here."
+            "en": "Relax by the water at this lovely lakeside beach perfect for family picnics, but remember to bring your own sun protection as shade is limited here.",
+            "fr": "Détendez‑vous au bord de l'eau sur cette charmante plage du lac, idéale pour les pique‑niques en famille ; pensez à apporter votre protection solaire car l'ombre y est limitée."
           }
         },
         {
@@ -113,7 +121,8 @@
             "de": "Centre nautique",
             "hu": "Centre nautique",
             "ro": "Centre nautique",
-            "en": "Centre nautique"
+            "en": "Centre nautique",
+            "fr": "Centre nautique"
           },
           "coords": [
             4.384749,
@@ -128,7 +137,8 @@
             "de": "Genießen Sie einen unterhaltsamen Nachmittag in diesem modernen Schwimmzentrum, und überprüfen Sie den Zeitplan für die reservierten Bahnen.",
             "hu": "Élvezze a vidám délutánt ebben a több medencével rendelkező modern vízi központban, és ellenőrizze a napi beosztást a sávos úszási idők miatt.",
             "ro": "Bucurați-vă de o după-amiază plină de distracție la acest centru acvatic modern și verificați programul zilnic pentru orele de înot pe culoare.",
-            "en": "Enjoy a fun-filled afternoon at this modern aquatic center featuring multiple pools, and check the daily schedule for dedicated lane swimming times."
+            "en": "Enjoy a fun-filled afternoon at this modern aquatic center featuring multiple pools, and check the daily schedule for dedicated lane swimming times.",
+            "fr": "Profitez d'un après‑midi ludique dans ce centre aquatique moderne disposant de plusieurs bassins, et consultez le planning quotidien pour les créneaux de nage en ligne."
           }
         }
       ],
@@ -136,7 +146,8 @@
         "de": "Beginnen Sie Ihren Tag in Montceau-les-Mines mit der Erkundung des bürgerlichen Herzens und der architektonischen Wahrzeichen. Der Morgen offenbart einen ruhigen Charme auf historischen Plätzen und an Gebäuden.\nTauchen Sie mittags in das reiche religiöse Erbe und die wunderschönen Heiligtümer ein. Die Atmosphäre bietet einen harmonischen Rückzugsort, an dem Sie die handwerkliche Kunst bewundern können.\nAm Nachmittag richten Sie Ihren Fokus auf die weiten Grünflächen. Ein ausgedehnter Spaziergang durch die üppigen Parks gleicht die architektonischen Höhepunkte aus und sorgt für viel Entspannung.\nBeenden Sie Ihre Reise am entspannenden Wasser und genießen Sie das Licht des späten Nachmittags. Egal, ob am Strand oder im Schwimmzentrum, der Abend schließt diesen erlebnisreichen Tag wunderbar ab.",
         "hu": "Kezdje a napot Montceau-les-Mines polgári központjának és építészeti nevezetességeinek felfedezésével. A délelőtt csendes bájt áraszt, miközben végigsétál a történelmi tereken és az elegáns épületek között.\nDélben merüljön el a gazdag vallási örökségben és a gyönyörű szentélyekben. A nyugodt légkör békés menedéket kínál, ahol megcsodálhatja a helyi kézműves mesterséget és a harmonikus környezetet.\nDélután váltson a hatalmas zöldterületekre és a rekreációs helyszínekre. A buja parkokban tett hosszú séta tökéletesen egyensúlyba hozza a korábbi építészeti élményeket, friss levegőt és pihenést nyújtva.\nZárja utazását a vízparton, élvezve a késő délutáni fényeket. Legyen szó a strandról vagy a modern vízi létesítményekről, az este tökéletesen lezárja ezt a nyüzsgő és igazán emlékezetes kirándulást.",
         "ro": "Începeți ziua explorând Montceau-les-Mines, descoperind centrul civic și reperele arhitecturale. Dimineața dezvăluie un farmec liniștit în timp ce vă plimbați prin piețe istorice și clădiri elegante.\nPână la prânz, scufundați-vă în bogata moștenire religioasă și în sanctuarele superbe. Atmosfera de aici oferă o evadare senină, permițându-vă să apreciați măiestria locală și împrejurimile liniștite.\nDupă-amiaza, schimbați accentul pe vastele spații verzi și pe zonele de agrement. O plimbare lungă prin parcurile luxuriante echilibrează perfect atracțiile anterioare, oferind aer proaspăt și relaxare.\nÎncheiați călătoria pe malul apei, bucurându-vă de lumina după-amiezii târzii. Fie că vă bucurați de plajă sau de facilitățile moderne, seara închide această zi vibrantă cu priveliști liniștitoare.",
-        "en": "Start your day exploring Montceau-les-Mines by discovering its civic heart and architectural landmarks. The morning reveals a quiet charm as you walk through historic squares and observe elegant civic structures.\nBy midday, immerse yourself in the rich religious heritage and beautiful sanctuaries. The atmosphere here offers a serene escape, letting you appreciate intricate local artisanship and peaceful surroundings.\nIn the afternoon, shift your focus to the vast green spaces and recreational areas. A long stroll through lush parks perfectly balances the earlier architectural highlights, providing fresh air and relaxation.\nEnd your journey by the relaxing waterfront, soaking in the late afternoon glow. Whether enjoying the beach or modern aquatic facilities, the evening closes your vibrant day out with tranquil waterside views."
+        "en": "Start your day exploring Montceau-les-Mines by discovering its civic heart and architectural landmarks. The morning reveals a quiet charm as you walk through historic squares and observe elegant civic structures.\nBy midday, immerse yourself in the rich religious heritage and beautiful sanctuaries. The atmosphere here offers a serene escape, letting you appreciate intricate local artisanship and peaceful surroundings.\nIn the afternoon, shift your focus to the vast green spaces and recreational areas. A long stroll through lush parks perfectly balances the earlier architectural highlights, providing fresh air and relaxation.\nEnd your journey by the relaxing waterfront, soaking in the late afternoon glow. Whether enjoying the beach or modern aquatic facilities, the evening closes your vibrant day out with tranquil waterside views.",
+        "fr": "Commencez votre journée à Montceau‑les‑Mines en découvrant son cœur civique et ses monuments architecturaux. Le matin révèle un charme paisible en vous promenant dans les places historiques et en observant les élégantes structures municipales.\nÀ midi, imprégnez‑vous du riche patrimoine religieux et des beaux sanctuaires. L'ambiance offre une échappée sereine, vous permettant d'apprécier le travail minutieux des artisans locaux et la quiétude des lieux.\nL'après‑midi, concentrez‑vous sur les vastes espaces verts et les zones récréatives. Une longue promenade dans les parcs luxuriants équilibre parfaitement les points d'intérêt architecturaux, apportant air frais et détente.\nTerminez votre parcours au bord de l'eau, en profitant de la lueur de fin d'après‑midi. Que vous préféreriez la plage ou les installations aquatiques modernes, la soirée clôture votre journée animée par des vues paisibles sur le rivage."
       },
       "variants": {
         "rainy": {
@@ -144,7 +155,8 @@
             "de": "Beginnen Sie Ihren Morgen mit einem Regenschirm am Rathaus. Mittags bietet die große Kirche einen perfekten, trockenen Unterschlupf vor dem Regen. Am Nachmittag sollten Sie auf den nassen Wegen des Parc Maugrand vorsichtig sein, da diese rutschig werden können. Beenden Sie den Tag in den Innenbecken des Schwimmbads, um dem trüben Wetter zu entfliehen.",
             "hu": "Esernyővel indítsd a reggelt a városháza környékén. Délben érdemes behúzódni az impozáns templom falai közé a záporok elől. Délután óvatosan sétálj a Parc Maugrand csúszós, nedves ösvényein. Késő délután az uszoda fedett medencéi tökéletes menedéket nyújtanak a kinti zord és esős időjárás elől.",
             "ro": "Începeți dimineața cu o umbrelă lângă primărie. La prânz, biserica impunătoare oferă un adăpost uscat excelent împotriva ploii. După-amiaza, plimbați-vă cu multă grijă pe aleile umede și alunecoase din Parc Maugrand. Seara, centrul nautic vă așteaptă cu piscinele sale interioare, perfecte pentru a scăpa de vremea rea.",
-            "en": "Start your morning with an umbrella as you visit the town hall. By noon, the rain might intensify, so taking shelter in the grand church is ideal. In the afternoon, navigate the wet paths of Parc Maugrand carefully to avoid slipping. Finish your day at the indoor pools of the aquatic center, escaping the gloomy weather outside."
+            "en": "Start your morning with an umbrella as you visit the town hall. By noon, the rain might intensify, so taking shelter in the grand church is ideal. In the afternoon, navigate the wet paths of Parc Maugrand carefully to avoid slipping. Finish your day at the indoor pools of the aquatic center, escaping the gloomy weather outside.",
+            "fr": "Commencez la matinée avec un parapluie en visitant la mairie. À midi, la pluie pourrait s'intensifier ; abritez‑vous dans la grande église. L'après‑midi, circulez prudemment sur les sentiers mouillés du Parc Maugrand pour éviter de glisser. Terminez votre journée aux piscines intérieures du centre nautique pour échapper au temps morose."
           },
           "stops": [
             {
@@ -152,13 +164,15 @@
                 "de": "Mairie de Montceau-les-Mines",
                 "hu": "Mairie de Montceau-les-Mines",
                 "ro": "Mairie de Montceau-les-Mines",
-                "en": "Mairie de Montceau-les-Mines"
+                "en": "Mairie de Montceau-les-Mines",
+                "fr": "Mairie de Montceau‑les‑Mines"
               },
               "tip_5lang": {
                 "de": "Bewundern Sie das Rathaus unter Ihrem Regenschirm; suchen Sie bei einem plötzlichen Schauer schnell Schutz in einem der nahegelegenen Cafés.",
                 "hu": "Csodáld meg a városházát az esernyőd alól; ha hirtelen rákezdeni az eső, a közeli árkádok alatt gyors menedéket találhatsz.",
                 "ro": "Admirați primăria de sub umbrelă; dacă ploaia se întețește brusc, puteți găsi rapid adăpost sub arcadele din apropiere sau într-o cafenea.",
-                "en": "Admire the Mairie's facade from beneath your umbrella; keep an eye out for nearby cafes if you need quick shelter from a sudden downpour."
+                "en": "Admire the Mairie's facade from beneath your umbrella; keep an eye out for nearby cafes if you need quick shelter from a sudden downpour.",
+                "fr": "Admirez la façade de la mairie sous votre parapluie ; repérez les cafés à proximité si vous cherchez un abri rapide contre une averse soudaine."
               }
             },
             {
@@ -166,13 +180,15 @@
                 "de": "Church of Notre-Dame de l'Assomption",
                 "hu": "Church of Notre-Dame de l'Assomption",
                 "ro": "Church of Notre-Dame de l'Assomption",
-                "en": "Church of Notre-Dame de l'Assomption"
+                "en": "Church of Notre-Dame de l'Assomption",
+                "fr": "Église Notre‑Dame de l'Assomption"
               },
               "tip_5lang": {
                 "de": "Trocknen Sie sich im Inneren ab und bewundern Sie die Buntglasfenster; bei Regen herrscht hier eine besonders friedliche Atmosphäre.",
                 "hu": "Szárkózz fel odabent, és csodáld meg az ólomüveg ablakokat; az eső kopogása különösen békés hangulatot teremt a falak között.",
                 "ro": "Uscați-vă înăuntru și admirați vitraliile; interiorul este liniștit și oferă o atmosferă de pace în timpul ploii de afară.",
-                "en": "Dry off inside and admire the beautiful stained glass windows; the interior is peacefully quiet while the rain falls outside."
+                "en": "Dry off inside and admire the beautiful stained glass windows; the interior is peacefully quiet while the rain falls outside.",
+                "fr": "Séchez‑vous à l'intérieur et admirez les beaux vitraux ; l'intérieur est paisible pendant que la pluie tombe dehors."
               }
             },
             {
@@ -180,13 +196,15 @@
                 "de": "Parc Maugrand",
                 "hu": "Parc Maugrand",
                 "ro": "Parc Maugrand",
-                "en": "Parc Maugrand"
+                "en": "Parc Maugrand",
+                "fr": "Parc Maugrand"
               },
               "tip_5lang": {
                 "de": "Der Park hat bei Regen einen melancholischen Charme. Tragen Sie wasserfeste Schuhe, da die unbefestigten Wege schnell schlammig werden können.",
                 "hu": "A parknak esőben is van egy melankolikus varázsa. Mindenképp vízálló cipőt viselj, mert a földes ösvények hamar sárossá válhatnak.",
                 "ro": "Parcul are un farmec melancolic pe ploaie. Purtați încălțăminte impermeabilă, deoarece aleile de pământ pot deveni noroioase.",
-                "en": "The park has a moody charm in the rain. Make sure to wear waterproof shoes, as the dirt paths can get quite muddy and slippery."
+                "en": "The park has a moody charm in the rain. Make sure to wear waterproof shoes, as the dirt paths can get quite muddy and slippery.",
+                "fr": "Le parc a un charme mélancolique sous la pluie. Portez des chaussures imperméables, car les sentiers de terre peuvent devenir boueux et glissants."
               }
             },
             {
@@ -194,13 +212,15 @@
                 "de": "Plage Roger Lagrot",
                 "hu": "Plage Roger Lagrot",
                 "ro": "Plage Roger Lagrot",
-                "en": "Plage Roger Lagrot"
+                "en": "Plage Roger Lagrot",
+                "fr": "Plage Roger Lagrot"
               },
               "tip_5lang": {
                 "de": "Der Strandbereich ist bei Regen ruhig. Werfen Sie aus der Ferne einen Blick auf den See und sparen Sie sich längere Aufenthalte im Freien.",
                 "hu": "A part esőben csendes és kihalt. Csak vess egy pillantást a tóra a fák alól, majd indulj tovább a fedett programok felé.",
                 "ro": "Zona plajei este liniștită pe ploaie. Aruncați o scurtă privire spre lac de sub umbrelă, fără a zăbovi prea mult în aer liber.",
-                "en": "The beach area is very quiet in the rain; just take a brief look at the lake from a sheltered spot before moving on to indoor activities."
+                "en": "The beach area is very quiet in the rain; just take a brief look at the lake from a sheltered spot before moving on to indoor activities.",
+                "fr": "La plage est très calme sous la pluie ; contentez‑vous d'un bref regard sur le lac depuis un abri avant de poursuivre vers des activités en intérieur."
               }
             },
             {
@@ -208,13 +228,15 @@
                 "de": "Centre nautique",
                 "hu": "Centre nautique",
                 "ro": "Centre nautique",
-                "en": "Centre nautique"
+                "en": "Centre nautique",
+                "fr": "Centre nautique"
               },
               "tip_5lang": {
                 "de": "Vermeiden Sie die Kälte draußen und genießen Sie stattdessen die beheizten Innenpools – der perfekte Rückzugsort an einem nassen Tag.",
                 "hu": "Hagyd hátra a kinti hideget, és élvezd a fűtött beltéri medencéket, amely tökéletes menedék egy esős, borongós napon.",
                 "ro": "Evitați frigul de afară și bucurați-vă de piscinele interioare încălzite, refugiul perfect pentru o zi ploioasă și mohorâtă.",
-                "en": "Skip the outdoor cold and completely relax in the heated indoor pools, the ultimate comforting retreat on a rainy, gloomy day."
+                "en": "Skip the outdoor cold and completely relax in the heated indoor pools, the ultimate comforting retreat on a rainy, gloomy day.",
+                "fr": "Évitez le froid extérieur et détendez‑vous complètement dans les bassins intérieurs chauffés, le refuge idéal par une journée pluvieuse et morose."
               }
             }
           ]
@@ -224,7 +246,8 @@
             "de": "Packen Sie sich warm ein für den morgendlichen Spaziergang zum Rathaus. Mittags taucht das weiche Winterlicht die Kirche in eine schöne Atmosphäre. Nachmittags werden die Schatten im Parc Maugrand schnell länger. Da die Sonne bereits gegen 17:00 Uhr untergeht, bietet das beheizte Schwimmbad am Abend einen warmen und entspannenden Tagesabschluss.",
             "hu": "Öltözz melegen a csípős reggeli sétához a városháza felé. Délben a téli fények gyönyörűen megvilágítják a templomot. Délután a Parc Maugrand fái között hamar nyúlnak az árnyékok. Mivel délután ötkor már sötétedik, a napot a fűtött uszodában érdemes zárni, kellemesen felmelegedve a kinti hideg után.",
             "ro": "Îmbrăcați-vă gros pentru plimbarea matinală spre primărie. La prânz, lumina blândă de iarnă luminează frumos biserica. După-amiaza, umbrele se lungesc rapid în Parc Maugrand. Deoarece soarele apune devreme pe la 17:00, centrul nautic încălzit oferă un final de zi relaxant și foarte călduros.",
-            "en": "Wrap up warm for a crisp morning walk to the town hall. Midday offers soft winter light perfectly illuminating the historic church. Afternoon shadows lengthen quickly in Parc Maugrand. By evening, as the sun sets early around 17:00, the indoor aquatic center provides a warm and relaxing finish to your chilly day."
+            "en": "Wrap up warm for a crisp morning walk to the town hall. Midday offers soft winter light perfectly illuminating the historic church. Afternoon shadows lengthen quickly in Parc Maugrand. By evening, as the sun sets early around 17:00, the indoor aquatic center provides a warm and relaxing finish to your chilly day.",
+            "fr": "Couvrez‑vous bien pour une promenade matinale vivifiante jusqu'à la mairie. Midi offre une douce lumière hivernale illuminant parfaitement l'église historique. Les ombres s'allongent rapidement dans l'après‑midi au Parc Maugrand. En soirée, le soleil se couche tôt vers 17:00 ; le centre nautique intérieur offre une fin chaleureuse et relaxante à votre journée fraîche."
           },
           "stops": [
             {
@@ -232,13 +255,15 @@
                 "de": "Mairie de Montceau-les-Mines",
                 "hu": "Mairie de Montceau-les-Mines",
                 "ro": "Mairie de Montceau-les-Mines",
-                "en": "Mairie de Montceau-les-Mines"
+                "en": "Mairie de Montceau-les-Mines",
+                "fr": "Mairie de Montceau‑les‑Mines"
               },
               "tip_5lang": {
                 "de": "Der Rathausplatz ist im Winter oft frostig. Tragen Sie eine warme Mütze, während Sie die architektonischen Details des Gebäudes betrachten.",
                 "hu": "A városháza tere télen gyakran fagyos szeles. Viselj meleg sapkát és sálat, miközben az épület homlokzatának részleteit vizsgálod.",
                 "ro": "Piața primăriei este adesea înghețată iarna. Purtați o căciulă călduroasă în timp ce admirați detaliile arhitecturale ale clădirii.",
-                "en": "The town hall square can be quite frosty in winter. Wear a warm hat and scarf while taking in the architectural details of the facade."
+                "en": "The town hall square can be quite frosty in winter. Wear a warm hat and scarf while taking in the architectural details of the facade.",
+                "fr": "La place de la mairie peut être assez givrée en hiver. Portez un bonnet et une écharpe chauds en admirant les détails architecturaux de la façade."
               }
             },
             {
@@ -246,13 +271,15 @@
                 "de": "Church of Notre-Dame de l'Assomption",
                 "hu": "Church of Notre-Dame de l'Assomption",
                 "ro": "Church of Notre-Dame de l'Assomption",
-                "en": "Church of Notre-Dame de l'Assomption"
+                "en": "Church of Notre-Dame de l'Assomption",
+                "fr": "Église Notre‑Dame de l'Assomption"
               },
               "tip_5lang": {
                 "de": "Nutzen Sie den Besuch, um sich im Inneren aufzuwärmen. Das tief stehende Winterlicht lässt die Fenster in besonderen Farben erstrahlen.",
                 "hu": "Használd ki a látogatást egy kis felmelegedésre a vastag falak között. Az alacsonyan járó téli nap különlegesen világítja meg az ablakokat.",
                 "ro": "Profitați de vizită pentru a vă încălzi în interior. Lumina joasă a soarelui de iarnă face ca vitraliile să strălucească în culori unice.",
-                "en": "Take advantage of the stop to warm up inside. The low winter sun coming through the stained glass windows creates a magical atmosphere."
+                "en": "Take advantage of the stop to warm up inside. The low winter sun coming through the stained glass windows creates a magical atmosphere.",
+                "fr": "Profitez de l'arrêt pour vous réchauffer à l'intérieur. Le faible soleil d'hiver traversant les vitraux crée une atmosphère magique."
               }
             },
             {
@@ -260,13 +287,15 @@
                 "de": "Parc Maugrand",
                 "hu": "Parc Maugrand",
                 "ro": "Parc Maugrand",
-                "en": "Parc Maugrand"
+                "en": "Parc Maugrand",
+                "fr": "Parc Maugrand"
               },
               "tip_5lang": {
                 "de": "Die kahlen Bäume bieten weite Ausblicke, aber achten Sie auf gefrorene Pfützen. Ein zügiger Spaziergang hält Sie in der Kälte warm.",
                 "hu": "A kopasz fák miatt messzire ellátni, de ügyelj a befagyott tócsákra. Egy tempós séta segít melegen tartani a hideg, ropogós levegőn.",
                 "ro": "Copacii golași oferă priveliști largi, dar atenție la bălțile înghețate. O plimbare în pas vioi vă va menține cald în aerul rece.",
-                "en": "Bare trees offer open views, but watch out for hidden ice patches. A brisk walk will help you stay warm in the crisp, cold air."
+                "en": "Bare trees offer open views, but watch out for hidden ice patches. A brisk walk will help you stay warm in the crisp, cold air.",
+                "fr": "Les arbres dénudés offrent des vues dégagées, mais méfiez‑vous des plaques de verglas cachées. Une marche énergique vous aidera à rester chaud dans l'air vif et froid."
               }
             },
             {
@@ -274,13 +303,15 @@
                 "de": "Plage Roger Lagrot",
                 "hu": "Plage Roger Lagrot",
                 "ro": "Plage Roger Lagrot",
-                "en": "Plage Roger Lagrot"
+                "en": "Plage Roger Lagrot",
+                "fr": "Plage Roger Lagrot"
               },
               "tip_5lang": {
                 "de": "Der gefrorene Rand des Sees ist ein tolles Fotomotiv. Da der Wind hier oft stark weht, sollten Sie Ihre Jacke gut verschließen.",
                 "hu": "A tó befagyott széle remek fotótéma. Mivel a part mentén gyakran fúj a jeges szél, húzd össze jól a kabátod cipzárját.",
                 "ro": "Marginea înghețată a lacului este perfectă pentru fotografii. Deoarece vântul suflă des aici, asigurați-vă că geaca este bine închisă.",
-                "en": "The frozen edges of the lake make for great photos. The wind sweeping across the water can be biting, so keep your coat zipped up."
+                "en": "The frozen edges of the lake make for great photos. The wind sweeping across the water can be biting, so keep your coat zipped up.",
+                "fr": "Les bords gelés du lac offrent de belles photos. Le vent balayant l'eau peut être mordant, gardez votre manteau bien fermé."
               }
             },
             {
@@ -288,13 +319,15 @@
                 "de": "Centre nautique",
                 "hu": "Centre nautique",
                 "ro": "Centre nautique",
-                "en": "Centre nautique"
+                "en": "Centre nautique",
+                "fr": "Centre nautique"
               },
               "tip_5lang": {
                 "de": "Wenn es draußen um 17:00 Uhr dunkel und eiskalt wird, gibt es nichts Besseres als die wohlige Wärme der Innenbecken dieses Zentrums.",
                 "hu": "Amikor kint már ötkor besötétedik és lehűl a levegő, semmi sem esik jobban, mint az uszoda belső, fűtött medencéinek kényeztető melege.",
                 "ro": "Când se întunecă și devine foarte frig afară la ora 17:00, nimic nu este mai bun decât căldura relaxantă a piscinelor interioare.",
-                "en": "As darkness falls and temperatures drop sharply around 17:00, the comforting warmth of the indoor pools here is an absolute blessing."
+                "en": "As darkness falls and temperatures drop sharply around 17:00, the comforting warmth of the indoor pools here is an absolute blessing.",
+                "fr": "Quand l'obscurité tombe et que les températures chutent fortement vers 17:00, la chaleur réconfortante des bassins intérieurs est un vrai bonheur."
               }
             }
           ]
@@ -314,7 +347,8 @@
             "de": "Lavoir des Chavannes",
             "hu": "Lavoir des Chavannes",
             "ro": "Lavoir des Chavannes",
-            "en": "Lavoir des Chavannes"
+            "en": "Lavoir des Chavannes",
+            "fr": "Lavoir des Chavannes"
           },
           "coords": [
             4.3436,
@@ -329,7 +363,8 @@
             "de": "Entdecken Sie diese monumentale Kohleaufbereitungsanlage, die an das Bergbauerbe der Region erinnert und im Morgenlicht am besten fotografiert wird.",
             "hu": "Fedezze fel ezt a monumentális szénelőkészítő üzemet, amely a régió bányászati örökségére emlékeztet, és reggeli fényben a legszebb fotózni.",
             "ro": "Descoperiți această fabrică monumentală de preparare a cărbunelui, un memento al patrimoniului minier, care se fotografiază cel mai bine dimineața.",
-            "en": "Discover this monumental coal preparation plant that stands as a stark reminder of the region's mining heritage, best photographed in morning light."
+            "en": "Discover this monumental coal preparation plant that stands as a stark reminder of the region's mining heritage, best photographed in morning light.",
+            "fr": "Découvrez cette imposante centrale de préparation du charbon qui témoigne du patrimoine minier de la région, idéale à photographier à la lumière du matin."
           }
         },
         {
@@ -337,7 +372,8 @@
             "de": "Mairie de Montceau-les-Mines",
             "hu": "Mairie de Montceau-les-Mines",
             "ro": "Mairie de Montceau-les-Mines",
-            "en": "Mairie de Montceau-les-Mines"
+            "en": "Mairie de Montceau-les-Mines",
+            "fr": "Mairie de Montceau‑les‑Mines"
           },
           "coords": [
             4.362968,
@@ -352,7 +388,8 @@
             "de": "Bewundern Sie die elegante Architektur des Rathauses im historischen Zentrum und kommen Sie früh, um den administrativen Trubel zur Mittagszeit zu meiden.",
             "hu": "Csodálja meg a történelmi központban található városháza elegáns építészetét, és érkezzen korán, hogy elkerülje a déli hivatali nyüzsgést.",
             "ro": "Admirați arhitectura elegantă a primăriei din centrul istoric și sosiți devreme pentru a evita aglomerația administrativă din timpul prânzului.",
-            "en": "Admire the elegant architecture of the town hall located in the historic center, and visit early to avoid the bustling midday administrative crowds."
+            "en": "Admire the elegant architecture of the town hall located in the historic center, and visit early to avoid the bustling midday administrative crowds.",
+            "fr": "Admirez l'élégante architecture de la mairie située dans le centre historique, et visitez‑la tôt pour éviter l'affluence administrative de midi."
           }
         },
         {
@@ -360,7 +397,8 @@
             "de": "Church of Notre-Dame de l'Assomption",
             "hu": "Church of Notre-Dame de l'Assomption",
             "ro": "Church of Notre-Dame de l'Assomption",
-            "en": "Church of Notre-Dame de l'Assomption"
+            "en": "Church of Notre-Dame de l'Assomption",
+            "fr": "Église Notre‑Dame de l'Assomption"
           },
           "coords": [
             4.364873,
@@ -375,7 +413,8 @@
             "de": "Erleben Sie die ruhige Atmosphäre und die atemberaubenden Buntglasfenster dieser historischen Kirche, wobei auf angemessene Kleidung zu achten ist.",
             "hu": "Tapasztalja meg a történelmi templom nyugodt légkörét és lenyűgöző ólomüveg ablakait, ügyelve a szerény és megfelelő öltözködésre a belépéshez.",
             "ro": "Experimentați atmosfera liniștită și vitraliile uimitoare ale acestei biserici istorice, asigurându-vă că sunteți îmbrăcați decent pentru a intra.",
-            "en": "Experience the tranquil atmosphere and stunning stained glass windows of this historic church, ensuring you dress modestly to enter the sanctuary."
+            "en": "Experience the tranquil atmosphere and stunning stained glass windows of this historic church, ensuring you dress modestly to enter the sanctuary.",
+            "fr": "Vivez l'atmosphère tranquille et les superbes vitraux de cette église historique ; veillez à vous habiller modestement pour entrer dans le sanctuaire."
           }
         },
         {
@@ -383,7 +422,8 @@
             "de": "Parc Maugrand",
             "hu": "Parc Maugrand",
             "ro": "Parc Maugrand",
-            "en": "Parc Maugrand"
+            "en": "Parc Maugrand",
+            "fr": "Parc Maugrand"
           },
           "coords": [
             4.353937,
@@ -398,7 +438,8 @@
             "de": "Machen Sie einen erfrischenden Spaziergang durch diese riesige Grünfläche mit malerischen Wegen, und bringen Sie bequeme Schuhe für die Erkundung mit.",
             "hu": "Tegyen egy frissítő sétát ezen a festői ösvényeket kínáló hatalmas zöldterületen, és hozzon kényelmes cipőt a kiterjedt útvonalak felfedezéséhez.",
             "ro": "Faceți o plimbare revigorantă prin acest vast spațiu verde care oferă poteci pitorești și aduceți încălțăminte confortabilă pentru a explora.",
-            "en": "Take a refreshing stroll through this vast green space which offers scenic walking paths, and bring comfortable shoes for exploring its extensive trails."
+            "en": "Take a refreshing stroll through this vast green space which offers scenic walking paths, and bring comfortable shoes for exploring its extensive trails.",
+            "fr": "Faites une promenade revigorante dans ce vaste espace vert qui offre de beaux sentiers, et prenez des chaussures confortables pour explorer ses longs chemins."
           }
         },
         {
@@ -406,7 +447,8 @@
             "de": "Plage Roger Lagrot",
             "hu": "Plage Roger Lagrot",
             "ro": "Plage Roger Lagrot",
-            "en": "Plage Roger Lagrot"
+            "en": "Plage Roger Lagrot",
+            "fr": "Plage Roger Lagrot"
           },
           "coords": [
             4.384196,
@@ -421,7 +463,8 @@
             "de": "Entspannen Sie sich am Wasser an diesem schönen Seestrand, der sich perfekt für Picknicks eignet, aber vergessen Sie Ihren eigenen Sonnenschutz nicht.",
             "hu": "Pihenjen a vízparton ezen a bájos tóparti strandon, amely tökéletes családi piknikezéshez, de ne felejtse el saját napvédőjét, mert az árnyék korlátozott.",
             "ro": "Relaxați-vă pe această plajă minunată de pe malul lacului, perfectă pentru un picnic, dar nu uitați protecția solară deoarece umbra este limitată.",
-            "en": "Relax by the water at this lovely lakeside beach perfect for family picnics, but remember to bring your own sun protection as shade is limited here."
+            "en": "Relax by the water at this lovely lakeside beach perfect for family picnics, but remember to bring your own sun protection as shade is limited here.",
+            "fr": "Détendez‑vous au bord de l'eau sur cette charmante plage du lac, idéale pour les pique‑niques en famille ; pensez à apporter votre protection solaire car l'ombre y est limitée."
           }
         }
       ],
@@ -429,7 +472,8 @@
         "de": "Beginnen Sie Ihren Tag in Montceau-les-Mines mit der Erkundung des bürgerlichen Herzens und der architektonischen Wahrzeichen. Der Morgen offenbart einen ruhigen Charme auf historischen Plätzen und an Gebäuden.\nTauchen Sie mittags in das reiche religiöse Erbe und die wunderschönen Heiligtümer ein. Die Atmosphäre bietet einen harmonischen Rückzugsort, an dem Sie die handwerkliche Kunst bewundern können.\nAm Nachmittag richten Sie Ihren Fokus auf die weiten Grünflächen. Ein ausgedehnter Spaziergang durch die üppigen Parks gleicht die architektonischen Höhepunkte aus und sorgt für viel Entspannung.\nBeenden Sie Ihre Reise am entspannenden Wasser und genießen Sie das Licht des späten Nachmittags. Egal, ob am Strand oder im Schwimmzentrum, der Abend schließt diesen erlebnisreichen Tag wunderbar ab.",
         "hu": "Kezdje a napot Montceau-les-Mines polgári központjának és építészeti nevezetességeinek felfedezésével. A délelőtt csendes bájt áraszt, miközben végigsétál a történelmi tereken és az elegáns épületek között.\nDélben merüljön el a gazdag vallási örökségben és a gyönyörű szentélyekben. A nyugodt légkör békés menedéket kínál, ahol megcsodálhatja a helyi kézműves mesterséget és a harmonikus környezetet.\nDélután váltson a hatalmas zöldterületekre és a rekreációs helyszínekre. A buja parkokban tett hosszú séta tökéletesen egyensúlyba hozza a korábbi építészeti élményeket, friss levegőt és pihenést nyújtva.\nZárja utazását a vízparton, élvezve a késő délutáni fényeket. Legyen szó a strandról vagy a modern vízi létesítményekről, az este tökéletesen lezárja ezt a nyüzsgő és igazán emlékezetes kirándulást.",
         "ro": "Începeți ziua explorând Montceau-les-Mines, descoperind centrul civic și reperele arhitecturale. Dimineața dezvăluie un farmec liniștit în timp ce vă plimbați prin piețe istorice și clădiri elegante.\nPână la prânz, scufundați-vă în bogata moștenire religioasă și în sanctuarele superbe. Atmosfera de aici oferă o evadare senină, permițându-vă să apreciați măiestria locală și împrejurimile liniștite.\nDupă-amiaza, schimbați accentul pe vastele spații verzi și pe zonele de agrement. O plimbare lungă prin parcurile luxuriante echilibrează perfect atracțiile anterioare, oferind aer proaspăt și relaxare.\nÎncheiați călătoria pe malul apei, bucurându-vă de lumina după-amiezii târzii. Fie că vă bucurați de plajă sau de facilitățile moderne, seara închide această zi vibrantă cu priveliști liniștitoare.",
-        "en": "Start your day exploring Montceau-les-Mines by discovering its civic heart and architectural landmarks. The morning reveals a quiet charm as you walk through historic squares and observe elegant civic structures.\nBy midday, immerse yourself in the rich religious heritage and beautiful sanctuaries. The atmosphere here offers a serene escape, letting you appreciate intricate local artisanship and peaceful surroundings.\nIn the afternoon, shift your focus to the vast green spaces and recreational areas. A long stroll through lush parks perfectly balances the earlier architectural highlights, providing fresh air and relaxation.\nEnd your journey by the relaxing waterfront, soaking in the late afternoon glow. Whether enjoying the beach or modern aquatic facilities, the evening closes your vibrant day out with tranquil waterside views."
+        "en": "Start your day exploring Montceau-les-Mines by discovering its civic heart and architectural landmarks. The morning reveals a quiet charm as you walk through historic squares and observe elegant civic structures.\nBy midday, immerse yourself in the rich religious heritage and beautiful sanctuaries. The atmosphere here offers a serene escape, letting you appreciate intricate local artisanship and peaceful surroundings.\nIn the afternoon, shift your focus to the vast green spaces and recreational areas. A long stroll through lush parks perfectly balances the earlier architectural highlights, providing fresh air and relaxation.\nEnd your journey by the relaxing waterfront, soaking in the late afternoon glow. Whether enjoying the beach or modern aquatic facilities, the evening closes your vibrant day out with tranquil waterside views.",
+        "fr": "Commencez votre journée à Montceau‑les‑Mines en découvrant son cœur civique et ses monuments architecturaux. Le matin révèle un charme paisible en vous promenant dans les places historiques et en observant les élégantes structures municipales.\nÀ midi, imprégnez‑vous du riche patrimoine religieux et des beaux sanctuaires. L'ambiance offre une échappée sereine, vous permettant d'apprécier le travail minutieux des artisans locaux et la quiétude des lieux.\nL'après‑midi, concentrez‑vous sur les vastes espaces verts et les zones récréatives. Une longue promenade dans les parcs luxuriants équilibre parfaitement les points d'intérêt architecturaux, apportant air frais et détente.\nTerminez votre parcours au bord de l'eau, en profitant de la lueur de fin d'après‑midi. Que vous préféreriez la plage ou les installations aquatiques modernes, la soirée clôture votre journée animée par des vues paisibles sur le rivage."
       },
       "variants": {
         "rainy": {
@@ -437,7 +481,8 @@
             "de": "Beginnen Sie Ihre nasse Fahrt zu den Industrieruinen, stellen Sie sicher, dass Ihr Rad gute Schutzbleche hat. Navigieren Sie mittags vorsichtig auf den rutschigen Straßen zum Zentrum. Nachmittags werden die Parkwege schlammig sein, bremsen Sie also sanft. Beenden Sie die Tour vor Einbruch der Dunkelheit und meiden Sie tiefe Pfützen.",
             "hu": "Indítsd az esős reggelt az ipari romoknál, és ellenőrizd, hogy van-e sárvédőd. Délben óvatosan tekerj a csúszós városi utakon a központ felé. Délután a park ösvényei sarasak lehetnek, így fékezz finoman, nehogy megcsússz. Zárd a túrát még szürkület előtt, elkerülve az útmenti nagy tócsákat.",
             "ro": "Începeți traseul umed spre ruinele industriale, asigurându-vă că bicicleta are apărători bune. La prânz, pedalați cu grijă pe străzile alunecoase spre centru. După-amiaza, aleile din parc vor fi noroioase, deci frânați ușor. Încheiați plimbarea înainte de amurg, evitând bălțile adânci.",
-            "en": "Start your wet morning ride to the industrial ruins, ensuring your bike has good mudguards. By noon, navigate the slick city streets towards the center carefully. In the afternoon, the park's paths will be muddy, so always brake gently. End the ride safely before dusk, avoiding deep puddles."
+            "en": "Start your wet morning ride to the industrial ruins, ensuring your bike has good mudguards. By noon, navigate the slick city streets towards the center carefully. In the afternoon, the park's paths will be muddy, so always brake gently. End the ride safely before dusk, avoiding deep puddles.",
+            "fr": "Commencez votre sortie pluvieuse vers les ruines industrielles, en veillant à ce que votre vélo soit équipé de bons garde‑boue. À midi, circulez prudemment dans les rues glissantes du centre. L'après‑midi, les chemins du parc seront boueux, freinez toujours en douceur. Terminez la balade en toute sécurité avant la tombée de la nuit, en évitant les flaques profondes."
           },
           "stops": [
             {
@@ -445,13 +490,15 @@
                 "de": "Lavoir des Chavannes",
                 "hu": "Lavoir des Chavannes",
                 "ro": "Lavoir des Chavannes",
-                "en": "Lavoir des Chavannes"
+                "en": "Lavoir des Chavannes",
+                "fr": "Lavoir des Chavannes"
               },
               "tip_5lang": {
                 "de": "Die Industrieruinen wirken im Regen besonders dramatisch. Seien Sie beim Absteigen vorsichtig, da nasse Metallteile extrem rutschig sind.",
                 "hu": "Az ipari romok különösen drámaian festenek az esőben. Leszálláskor nagyon vigyázz, mert a nedves fémfelületek és sínek rendkívül csúszósak.",
                 "ro": "Ruinele industriale par dramatice pe ploaie. Aveți grijă la coborârea de pe bicicletă, suprafețele metalice umede sunt foarte alunecoase.",
-                "en": "The industrial ruins look especially dramatic in the rain. Be careful when dismounting, as wet metal grates and stones are extremely slippery."
+                "en": "The industrial ruins look especially dramatic in the rain. Be careful when dismounting, as wet metal grates and stones are extremely slippery.",
+                "fr": "Les ruines industrielles sont particulièrement dramatiques sous la pluie. Faites attention en descendant de vélo, les grilles métalliques et les pierres mouillées sont extrêmement glissantes."
               }
             },
             {
@@ -459,13 +506,15 @@
                 "de": "Mairie de Montceau-les-Mines",
                 "hu": "Mairie de Montceau-les-Mines",
                 "ro": "Mairie de Montceau-les-Mines",
-                "en": "Mairie de Montceau-les-Mines"
+                "en": "Mairie de Montceau-les-Mines",
+                "fr": "Mairie de Montceau-les-Mines"
               },
               "tip_5lang": {
                 "de": "Parken Sie Ihr Fahrrad in der Nähe und stellen Sie sich kurz unter, falls der Regen stärker wird. Ein Poncho hält Sie hier gut trocken.",
                 "hu": "Támaszd le a biciklit, és húzódj be egy közeli eresz alá, ha rákezdené. Egy jó esőponcsó aranyat ér ezen a nyitott téren.",
                 "ro": "Parcați bicicleta și adăpostiți-vă scurt dacă ploaia se întețește. O pelerină de ploaie vă va menține uscat în această zonă deschisă.",
-                "en": "Park your bike safely and take a quick shelter if the rain gets heavy. A good rain poncho is highly recommended for this open square."
+                "en": "Park your bike safely and take a quick shelter if the rain gets heavy. A good rain poncho is highly recommended for this open square.",
+                "fr": "Garez votre vélo en sécurité et mettez-vous rapidement à l'abri si la pluie se renforce. Une bonne cape de pluie est fortement recommandée pour cette place ouverte."
               }
             },
             {
@@ -473,13 +522,15 @@
                 "de": "Church of Notre-Dame de l'Assomption",
                 "hu": "Church of Notre-Dame de l'Assomption",
                 "ro": "Church of Notre-Dame de l'Assomption",
-                "en": "Church of Notre-Dame de l'Assomption"
+                "en": "Church of Notre-Dame de l'Assomption",
+                "fr": "Église Notre-Dame de l'Assomption"
               },
               "tip_5lang": {
                 "de": "Ein perfekter Stopp, um sich vom Regen zu erholen. Lassen Sie nasse Ausrüstung draußen und genießen Sie die Stille im Trockenen.",
                 "hu": "Tökéletes megálló, hogy egy kicsit megszáradj. A vizes felszerelést hagyd a bejáratnál, és élvezd a templom száraz békéjét.",
                 "ro": "O oprire perfectă pentru a lua o pauză de la ploaie. Lăsați echipamentul ud la intrare și bucurați-vă de liniștea din interior.",
-                "en": "A perfect stop to catch a break from the rain. Leave any dripping wet gear near the entrance and enjoy the dry, peaceful interior."
+                "en": "A perfect stop to catch a break from the rain. Leave any dripping wet gear near the entrance and enjoy the dry, peaceful interior.",
+                "fr": "Une halte parfaite pour se mettre à l'abri de la pluie. Laissez tout équipement trempé près de l'entrée et profitez de l'intérieur sec et paisible."
               }
             },
             {
@@ -487,13 +538,15 @@
                 "de": "Parc Maugrand",
                 "hu": "Parc Maugrand",
                 "ro": "Parc Maugrand",
-                "en": "Parc Maugrand"
+                "en": "Parc Maugrand",
+                "fr": "Parc Maugrand"
               },
               "tip_5lang": {
                 "de": "Fahren Sie auf den Parkwegen besonders langsam, da feuchtes Laub und Schlamm das Vorderrad schnell wegrutschen lassen können.",
                 "hu": "A park ösvényein tekerj sokkal lassabban, mert a nedves avar és a felázott talaj miatt könnyen kicsúszhat az első kereked.",
                 "ro": "Pedalați foarte încet pe aleile din parc, deoarece frunzele umede și noroiul pot face roata din față să alunece rapid.",
-                "en": "Ride at a much slower pace on the park trails; wet fallen leaves and muddy patches can easily cause your front wheel to wash out."
+                "en": "Ride at a much slower pace on the park trails; wet fallen leaves and muddy patches can easily cause your front wheel to wash out.",
+                "fr": "Roulez beaucoup plus lentement sur les sentiers du parc ; les feuilles mouillées et les zones boueuses peuvent facilement provoquer un dérobement de la roue avant."
               }
             },
             {
@@ -501,13 +554,15 @@
                 "de": "Plage Roger Lagrot",
                 "hu": "Plage Roger Lagrot",
                 "ro": "Plage Roger Lagrot",
-                "en": "Plage Roger Lagrot"
+                "en": "Plage Roger Lagrot",
+                "fr": "Plage Roger Lagrot"
               },
               "tip_5lang": {
                 "de": "Der Strand ist menschenleer. Machen Sie in Ihrem Regenmantel schnell ein Foto vom trüben See und treten Sie dann den Heimweg an.",
                 "hu": "A part ilyenkor teljesen kihalt. Készíts gyorsan egy fotót az eső áztatta tóról az esőkabátodban, majd indulj visszafelé.",
                 "ro": "Plaja este pustie. Faceți rapid o fotografie a lacului mohorât în pelerina de ploaie, apoi pregătiți-vă de întoarcere.",
-                "en": "The beach will be deserted. Snap a quick photo of the rain-battered lake from under your hood, then start heading back safely."
+                "en": "The beach will be deserted. Snap a quick photo of the rain-battered lake from under your hood, then start heading back safely.",
+                "fr": "La plage sera déserte. Prenez rapidement une photo du lac battu par la pluie sous votre capuche, puis rentrez prudemment."
               }
             }
           ]
@@ -517,7 +572,8 @@
             "de": "Nutzen Sie Thermo-Handschuhe für die kalte Fahrt zu den historischen Stätten. Mittags wärmt die Sonne Sie auf dem Weg zum Rathaus etwas auf. Im Park sorgt die klare Winterluft am Nachmittag für Erfrischung. Da es um 17:00 Uhr bereits dunkel ist, schalten Sie rechtzeitig Ihre Fahrradlichter ein, besonders auf dem Rückweg vom See.",
             "hu": "A történelmi helyszínek felé vezető hideg úton viselj termokesztyűt. Délben a sápadt napfény ad némi meleget a központ felé haladva. A parkban a kristálytiszta téli levegő frissít fel délután. Mivel ötkor sötétedik, időben kapcsold fel a kerékpár lámpáit, különösen a tótól visszafelé tartó szakaszon.",
             "ro": "Folosiți mănuși termice pentru traseul rece spre siturile istorice. La prânz, soarele vă va încălzi puțin pe drumul spre centru. În parc, aerul curat de iarnă vă va revigora după-amiaza. Deoarece se întunecă devreme pe la 17:00, porniți luminile bicicletei din timp, mai ales la întoarcere.",
-            "en": "Use thermal gloves for the freezing morning ride to the historic sites. Midday sun offers slight warmth as you cycle towards the town hall. The park's crisp winter air is refreshing in the afternoon. Since sunset is around 17:00, ensure your bike lights are fully charged and turned on for the ride back."
+            "en": "Use thermal gloves for the freezing morning ride to the historic sites. Midday sun offers slight warmth as you cycle towards the town hall. The park's crisp winter air is refreshing in the afternoon. Since sunset is around 17:00, ensure your bike lights are fully charged and turned on for the ride back.",
+            "fr": "Utilisez des gants thermiques pour la balade matinale glaciale vers les sites historiques. Le soleil de midi offre une légère chaleur lorsque vous cyclerez vers la mairie. L'air vif du parc est revigorant l'après-midi. Comme le coucher du soleil est vers 17:00, assurez-vous que vos éclairages de vélo sont complètement chargés et allumés pour le retour."
           },
           "stops": [
             {
@@ -525,13 +581,15 @@
                 "de": "Lavoir des Chavannes",
                 "hu": "Lavoir des Chavannes",
                 "ro": "Lavoir des Chavannes",
-                "en": "Lavoir des Chavannes"
+                "en": "Lavoir des Chavannes",
+                "fr": "Lavoir des Chavannes"
               },
               "tip_5lang": {
                 "de": "Die massiven Ruinen sehen mit Morgenfrost bedeckt toll aus. Tragen Sie dicke Handschuhe, da der Fahrtwind hier besonders eisig ist.",
                 "hu": "A hatalmas ipari romok lenyűgözőek a reggeli zúzmarában. Húzz vastag kesztyűt, mert a menetszél a nyílt terepen metszően hideg.",
                 "ro": "Ruinele masive arată uimitor acoperite de bruma dimineții. Purtați mănuși groase, deoarece vântul este foarte rece în această zonă.",
-                "en": "The massive industrial ruins look stunning covered in morning frost. Wear thick thermal gloves, as the wind chill is biting here."
+                "en": "The massive industrial ruins look stunning covered in morning frost. Wear thick thermal gloves, as the wind chill is biting here.",
+                "fr": "Les immenses ruines industrielles sont magnifiques recouvertes de givre matinal. Portez des gants thermiques épais, le ressenti de froid y est mordant."
               }
             },
             {
@@ -539,13 +597,15 @@
                 "de": "Mairie de Montceau-les-Mines",
                 "hu": "Mairie de Montceau-les-Mines",
                 "ro": "Mairie de Montceau-les-Mines",
-                "en": "Mairie de Montceau-les-Mines"
+                "en": "Mairie de Montceau-les-Mines",
+                "fr": "Mairie de Montceau-les-Mines"
               },
               "tip_5lang": {
                 "de": "Achten Sie beim Absteigen auf überfrorene Stellen auf dem Pflaster. Ein warmes Getränk aus einem nahen Café weckt die Lebensgeister.",
                 "hu": "Leszálláskor ügyelj a letaposott, olykor lefagyott burkolatra a téren. Egy forró ital a szomszédos kávézóból csodákat tehet.",
                 "ro": "La coborâre, atenție la zonele înghețate de pe pavaj. O băutură caldă de la o cafenea din apropiere vă va încălzi rapid.",
-                "en": "Watch out for sneaky ice patches on the paving stones when dismounting. Grab a hot drink from a nearby cafe to quickly warm your hands."
+                "en": "Watch out for sneaky ice patches on the paving stones when dismounting. Grab a hot drink from a nearby cafe to quickly warm your hands.",
+                "fr": "Attention aux plaques de verglas sournoises sur les pavés en descendant de vélo. Prenez une boisson chaude dans un café à proximité pour réchauffer rapidement vos mains."
               }
             },
             {
@@ -553,13 +613,15 @@
                 "de": "Church of Notre-Dame de l'Assomption",
                 "hu": "Church of Notre-Dame de l'Assomption",
                 "ro": "Church of Notre-Dame de l'Assomption",
-                "en": "Church of Notre-Dame de l'Assomption"
+                "en": "Church of Notre-Dame de l'Assomption",
+                "fr": "Église Notre-Dame de l'Assomption"
               },
               "tip_5lang": {
                 "de": "Treten Sie ein, um sich vom eisigen Fahrtwind zu erholen. Die dicken Steinwände halten die Kälte erstaunlich gut draußen.",
                 "hu": "Lépj be, hogy kicsit felengedj a fagyos menetszél után. A vastag kőfalak bent meglepően kellemes klímát biztosítanak télen is.",
                 "ro": "Intrați pentru a vă recupera de la vântul înghețat. Zidurile groase de piatră mențin frigul afară în mod surprinzător de bine.",
-                "en": "Step inside to take a brief break from the freezing wind chill on your bike. The thick walls offer surprisingly good insulation."
+                "en": "Step inside to take a brief break from the freezing wind chill on your bike. The thick walls offer surprisingly good insulation.",
+                "fr": "Entrez un instant pour vous abriter du vent glacial. Les murs épais offrent une isolation étonnamment efficace."
               }
             },
             {
@@ -567,13 +629,15 @@
                 "de": "Parc Maugrand",
                 "hu": "Parc Maugrand",
                 "ro": "Parc Maugrand",
-                "en": "Parc Maugrand"
+                "en": "Parc Maugrand",
+                "fr": "Parc Maugrand"
               },
               "tip_5lang": {
                 "de": "Der Boden ist oft hart gefroren, was das Radfahren erleichtert, aber meiden Sie vereiste Pfützen, um Stürze zu verhindern.",
                 "hu": "A föld sokszor keményre fagyott, ami megkönnyíti a tekerést, de a jégfoltokat kerüld el messzire egy esetleges esés elkerülése végett.",
                 "ro": "Pământul este adesea înghețat tun, facilitând pedalarea, dar evitați bălțile de gheață pentru a preveni căzăturile periculoase.",
-                "en": "The dirt paths are often frozen solid, making for easy pedaling, but steer completely clear of icy puddles to avoid nasty slips."
+                "en": "The dirt paths are often frozen solid, making for easy pedaling, but steer completely clear of icy puddles to avoid nasty slips.",
+                "fr": "Les chemins de terre sont souvent gelés et facilitent le pédalage, mais évitez complètement les flaques glacées pour prévenir les chutes."
               }
             },
             {
@@ -581,13 +645,15 @@
                 "de": "Plage Roger Lagrot",
                 "hu": "Plage Roger Lagrot",
                 "ro": "Plage Roger Lagrot",
-                "en": "Plage Roger Lagrot"
+                "en": "Plage Roger Lagrot",
+                "fr": "Plage Roger Lagrot"
               },
               "tip_5lang": {
                 "de": "Da die Dämmerung schnell hereinbricht, genießen Sie die frostige See-Aussicht nur kurz und schalten Sie rechtzeitig Ihr Licht ein.",
                 "hu": "Mivel gyorsan ereszkedik le az este, csak röviden gyönyörködj a fagyos tó látványában, majd feltétlenül kapcsold fel a kerékpár lámpáit.",
                 "ro": "Deoarece amurgul se lasă repede, admirați priveliștea înghețată a lacului doar scurt și aprindeți luminile bicicletei la timp.",
-                "en": "With dusk falling rapidly, enjoy the frosty view of the lake just briefly, and ensure your bike lights are fully switched on for safety."
+                "en": "With dusk falling rapidly, enjoy the frosty view of the lake just briefly, and ensure your bike lights are fully switched on for safety.",
+                "fr": "Avec la tombée rapide du crépuscule, profitez brièvement de la vue glacée sur le lac et assurez-vous que vos éclairages de vélo sont bien allumés pour la sécurité."
               }
             }
           ]
@@ -607,7 +673,8 @@
             "de": "Église du Magny",
             "hu": "Église du Magny",
             "ro": "Église du Magny",
-            "en": "Église du Magny"
+            "en": "Église du Magny",
+            "fr": "Église du Magny"
           },
           "coords": [
             4.330344,
@@ -622,7 +689,8 @@
             "de": "Bewundern Sie die einzigartige lokale Geschichte dieser malerischen Pfarrkirche und spazieren Sie durch die ruhigen umliegenden Wohnstraßen.",
             "hu": "Csodálja meg az ehhez a festői plébániatemplomhoz kötődő egyedi helyi történelmet, és szánjon egy percet a csendes lakóutcák bejárására is.",
             "ro": "Admirați istoria locală unică atașată acestei biserici parohiale pitorești și acordați-vă un moment pentru a vă plimba pe străzile rezidențiale.",
-            "en": "Marvel at the unique local history attached to this quaint parish church, and take a moment to walk around the quiet surrounding residential streets."
+            "en": "Marvel at the unique local history attached to this quaint parish church, and take a moment to walk around the quiet surrounding residential streets.",
+            "fr": "Admirez l'histoire locale unique liée à cette charmante église paroissiale et prenez un moment pour vous promener dans les rues résidentielles calmes qui l'entourent."
           }
         },
         {
@@ -630,7 +698,8 @@
             "de": "Lavoir des Chavannes",
             "hu": "Lavoir des Chavannes",
             "ro": "Lavoir des Chavannes",
-            "en": "Lavoir des Chavannes"
+            "en": "Lavoir des Chavannes",
+            "fr": "Lavoir des Chavannes"
           },
           "coords": [
             4.3436,
@@ -645,7 +714,8 @@
             "de": "Entdecken Sie diese monumentale Kohleaufbereitungsanlage, die an das Bergbauerbe der Region erinnert und im Morgenlicht am besten fotografiert wird.",
             "hu": "Fedezze fel ezt a monumentális szénelőkészítő üzemet, amely a régió bányászati örökségére emlékeztet, és reggeli fényben a legszebb fotózni.",
             "ro": "Descoperiți această fabrică monumentală de preparare a cărbunelui, un memento al patrimoniului minier, care se fotografiază cel mai bine dimineața.",
-            "en": "Discover this monumental coal preparation plant that stands as a stark reminder of the region's mining heritage, best photographed in morning light."
+            "en": "Discover this monumental coal preparation plant that stands as a stark reminder of the region's mining heritage, best photographed in morning light.",
+            "fr": "Découvrez cette énorme usine de préparation du charbon, rappel saisissant du passé minier de la région, idéale à photographier à la lumière du matin."
           }
         },
         {
@@ -653,7 +723,8 @@
             "de": "Église Saint-Joseph",
             "hu": "Église Saint-Joseph",
             "ro": "Église Saint-Joseph",
-            "en": "Église Saint-Joseph"
+            "en": "Église Saint-Joseph",
+            "fr": "Église Saint-Joseph"
           },
           "coords": [
             4.346007,
@@ -668,7 +739,8 @@
             "de": "Besuchen Sie dieses beeindruckende Gotteshaus, das für seine markanten Linien bekannt ist, und achten Sie auf die aufwendigen Details der Fassade.",
             "hu": "Látogasson el ebbe az építészeti vonalairól ismert lenyűgöző imahelyre, és feltétlenül figyelje meg a grandiózus homlokzat bonyolult részleteit.",
             "ro": "Vizitați acest lăcaș de cult impresionant, remarcat pentru liniile sale arhitecturale și asigurați-vă că observați detaliile fațadei sale grandioase.",
-            "en": "Visit this impressive place of worship noted for its striking architectural lines, making sure to observe the intricate details of its grand facade."
+            "en": "Visit this impressive place of worship noted for its striking architectural lines, making sure to observe the intricate details of its grand facade.",
+            "fr": "Visitez ce lieu de culte impressionnant, remarquable pour ses lignes architecturales frappantes, en prenant soin d'observer les détails complexes de sa grande façade."
           }
         },
         {
@@ -676,7 +748,8 @@
             "de": "Mairie de Montceau-les-Mines",
             "hu": "Mairie de Montceau-les-Mines",
             "ro": "Mairie de Montceau-les-Mines",
-            "en": "Mairie de Montceau-les-Mines"
+            "en": "Mairie de Montceau-les-Mines",
+            "fr": "Mairie de Montceau-les-Mines"
           },
           "coords": [
             4.362968,
@@ -691,7 +764,8 @@
             "de": "Bewundern Sie die elegante Architektur des Rathauses im historischen Zentrum und kommen Sie früh, um den administrativen Trubel zur Mittagszeit zu meiden.",
             "hu": "Csodálja meg a történelmi központban található városháza elegáns építészetét, és érkezzen korán, hogy elkerülje a déli hivatali nyüzsgést.",
             "ro": "Admirați arhitectura elegantă a primăriei din centrul istoric și sosiți devreme pentru a evita aglomerația administrativă din timpul prânzului.",
-            "en": "Admire the elegant architecture of the town hall located in the historic center, and visit early to avoid the bustling midday administrative crowds."
+            "en": "Admire the elegant architecture of the town hall located in the historic center, and visit early to avoid the bustling midday administrative crowds.",
+            "fr": "Admirez l'élégante architecture de la mairie située au centre historique et visitez-la tôt pour éviter l'affluence administrative de midi."
           }
         },
         {
@@ -699,7 +773,8 @@
             "de": "Church of Notre-Dame de l'Assomption",
             "hu": "Church of Notre-Dame de l'Assomption",
             "ro": "Church of Notre-Dame de l'Assomption",
-            "en": "Church of Notre-Dame de l'Assomption"
+            "en": "Church of Notre-Dame de l'Assomption",
+            "fr": "Église Notre-Dame de l'Assomption"
           },
           "coords": [
             4.364873,
@@ -714,7 +789,8 @@
             "de": "Erleben Sie die ruhige Atmosphäre und die atemberaubenden Buntglasfenster dieser historischen Kirche, wobei auf angemessene Kleidung zu achten ist.",
             "hu": "Tapasztalja meg a történelmi templom nyugodt légkörét és lenyűgöző ólomüveg ablakait, ügyelve a szerény és megfelelő öltözködésre a belépéshez.",
             "ro": "Experimentați atmosfera liniștită și vitraliile uimitoare ale acestei biserici istorice, asigurându-vă că sunteți îmbrăcați decent pentru a intra.",
-            "en": "Experience the tranquil atmosphere and stunning stained glass windows of this historic church, ensuring you dress modestly to enter the sanctuary."
+            "en": "Experience the tranquil atmosphere and stunning stained glass windows of this historic church, ensuring you dress modestly to enter the sanctuary.",
+            "fr": "Vivez l'atmosphère tranquille et les superbes vitraux de cette église historique ; veillez à vous habiller de manière modeste pour entrer dans le sanctuaire."
           }
         },
         {
@@ -722,7 +798,8 @@
             "de": "Église Notre-Dame de Bellevue",
             "hu": "Église Notre-Dame de Bellevue",
             "ro": "Église Notre-Dame de Bellevue",
-            "en": "Église Notre-Dame de Bellevue"
+            "en": "Église Notre-Dame de Bellevue",
+            "fr": "Église Notre-Dame de Bellevue"
           },
           "coords": [
             4.377006,
@@ -737,7 +814,8 @@
             "de": "Treten Sie ein in dieses friedliche Heiligtum, das etwas erhöht vom Stadtzentrum liegt und einen perfekten Ort für ruhige Reflexionen bietet.",
             "hu": "Lépjen be ebbe a városközponttól kissé magasabban fekvő, békés szentélybe, amely tökéletes helyet kínál a csendes elmélkedéshez az indulás előtt.",
             "ro": "Pășiți în acest sanctuar pașnic, situat ușor ridicat față de centrul orașului, oferind un loc perfect pentru o reflecție liniștită înainte de plecare.",
-            "en": "Step inside this peaceful sanctuary located slightly elevated from the town center, providing a perfect spot for quiet reflection before moving on."
+            "en": "Step inside this peaceful sanctuary located slightly elevated from the town center, providing a perfect spot for quiet reflection before moving on.",
+            "fr": "Pénétrez dans ce sanctuaire paisible légèrement surélevé par rapport au centre-ville, un endroit parfait pour la réflexion avant de poursuivre."
           }
         },
         {
@@ -745,7 +823,8 @@
             "de": "Plage Roger Lagrot",
             "hu": "Plage Roger Lagrot",
             "ro": "Plage Roger Lagrot",
-            "en": "Plage Roger Lagrot"
+            "en": "Plage Roger Lagrot",
+            "fr": "Plage Roger Lagrot"
           },
           "coords": [
             4.384196,
@@ -760,7 +839,8 @@
             "de": "Entspannen Sie sich am Wasser an diesem schönen Seestrand, der sich perfekt für Picknicks eignet, aber vergessen Sie Ihren eigenen Sonnenschutz nicht.",
             "hu": "Pihenjen a vízparton ezen a bájos tóparti strandon, amely tökéletes családi piknikezéshez, de ne felejtse el saját napvédőjét, mert az árnyék korlátozott.",
             "ro": "Relaxați-vă pe această plajă minunată de pe malul lacului, perfectă pentru un picnic, dar nu uitați protecția solară deoarece umbra este limitată.",
-            "en": "Relax by the water at this lovely lakeside beach perfect for family picnics, but remember to bring your own sun protection as shade is limited here."
+            "en": "Relax by the water at this lovely lakeside beach perfect for family picnics, but remember to bring your own sun protection as shade is limited here.",
+            "fr": "Détendez-vous au bord de l'eau sur cette agréable plage idéale pour les pique-niques en famille, mais pensez à apporter votre propre protection solaire car l'ombre y est limitée."
           }
         }
       ],
@@ -768,7 +848,8 @@
         "de": "Beginnen Sie Ihren Tag in Montceau-les-Mines mit der Erkundung des bürgerlichen Herzens und der architektonischen Wahrzeichen. Der Morgen offenbart einen ruhigen Charme auf historischen Plätzen und an Gebäuden.\nTauchen Sie mittags in das reiche religiöse Erbe und die wunderschönen Heiligtümer ein. Die Atmosphäre bietet einen harmonischen Rückzugsort, an dem Sie die handwerkliche Kunst bewundern können.\nAm Nachmittag richten Sie Ihren Fokus auf die weiten Grünflächen. Ein ausgedehnter Spaziergang durch die üppigen Parks gleicht die architektonischen Höhepunkte aus und sorgt für viel Entspannung.\nBeenden Sie Ihre Reise am entspannenden Wasser und genießen Sie das Licht des späten Nachmittags. Egal, ob am Strand oder im Schwimmzentrum, der Abend schließt diesen erlebnisreichen Tag wunderbar ab.",
         "hu": "Kezdje a napot Montceau-les-Mines polgári központjának és építészeti nevezetességeinek felfedezésével. A délelőtt csendes bájt áraszt, miközben végigsétál a történelmi tereken és az elegáns épületek között.\nDélben merüljön el a gazdag vallási örökségben és a gyönyörű szentélyekben. A nyugodt légkör békés menedéket kínál, ahol megcsodálhatja a helyi kézműves mesterséget és a harmonikus környezetet.\nDélután váltson a hatalmas zöldterületekre és a rekreációs helyszínekre. A buja parkokban tett hosszú séta tökéletesen egyensúlyba hozza a korábbi építészeti élményeket, friss levegőt és pihenést nyújtva.\nZárja utazását a vízparton, élvezve a késő délutáni fényeket. Legyen szó a strandról vagy a modern vízi létesítményekről, az este tökéletesen lezárja ezt a nyüzsgő és igazán emlékezetes kirándulást.",
         "ro": "Începeți ziua explorând Montceau-les-Mines, descoperind centrul civic și reperele arhitecturale. Dimineața dezvăluie un farmec liniștit în timp ce vă plimbați prin piețe istorice și clădiri elegante.\nPână la prânz, scufundați-vă în bogata moștenire religioasă și în sanctuarele superbe. Atmosfera de aici oferă o evadare senină, permițându-vă să apreciați măiestria locală și împrejurimile liniștite.\nDupă-amiaza, schimbați accentul pe vastele spații verzi și pe zonele de agrement. O plimbare lungă prin parcurile luxuriante echilibrează perfect atracțiile anterioare, oferind aer proaspăt și relaxare.\nÎncheiați călătoria pe malul apei, bucurându-vă de lumina după-amiezii târzii. Fie că vă bucurați de plajă sau de facilitățile moderne, seara închide această zi vibrantă cu priveliști liniștitoare.",
-        "en": "Start your day exploring Montceau-les-Mines by discovering its civic heart and architectural landmarks. The morning reveals a quiet charm as you walk through historic squares and observe elegant civic structures.\nBy midday, immerse yourself in the rich religious heritage and beautiful sanctuaries. The atmosphere here offers a serene escape, letting you appreciate intricate local artisanship and peaceful surroundings.\nIn the afternoon, shift your focus to the vast green spaces and recreational areas. A long stroll through lush parks perfectly balances the earlier architectural highlights, providing fresh air and relaxation.\nEnd your journey by the relaxing waterfront, soaking in the late afternoon glow. Whether enjoying the beach or modern aquatic facilities, the evening closes your vibrant day out with tranquil waterside views."
+        "en": "Start your day exploring Montceau-les-Mines by discovering its civic heart and architectural landmarks. The morning reveals a quiet charm as you walk through historic squares and observe elegant civic structures.\nBy midday, immerse yourself in the rich religious heritage and beautiful sanctuaries. The atmosphere here offers a serene escape, letting you appreciate intricate local artisanship and peaceful surroundings.\nIn the afternoon, shift your focus to the vast green spaces and recreational areas. A long stroll through lush parks perfectly balances the earlier architectural highlights, providing fresh air and relaxation.\nEnd your journey by the relaxing waterfront, soaking in the late afternoon glow. Whether enjoying the beach or modern aquatic facilities, the evening closes your vibrant day out with tranquil waterside views.",
+        "fr": "Commencez votre journée à Montceau-les-Mines en découvrant son cœur civique et ses monuments architecturaux. Le matin révèle un charme paisible en traversant les places historiques et en observant les élégantes constructions publiques.\nÀ midi, plongez dans le riche patrimoine religieux et les beaux sanctuaires. L'atmosphère offre une échappée sereine pour apprécier le savoir-faire local et la quiétude des lieux.\nL'après-midi, orientez-vous vers les vastes espaces verts et les zones de loisirs. Une longue promenade dans les parcs luxuriants équilibre parfaitement les visites architecturales du matin, apportant air frais et détente.\nTerminez votre journée au bord de l'eau, en profitant de la lumière du soir. Que vous savouriez la plage ou les équipements aquatiques modernes, la soirée conclut votre journée vivante par des vues tranquilles au bord du lac."
       },
       "variants": {
         "rainy": {
@@ -776,7 +857,8 @@
             "de": "Nutzen Sie Ihre Scheibenwischer auf dem Weg zu den Kirchen am Morgen. Mittags können Sie die Ruinen bei starkem Regen bequem aus dem warmen Auto betrachten. Nachmittags fahren Sie vorsichtig durch die nassen Stadtstraßen. Da Sie trocken bleiben wollen, parken Sie so nah wie möglich an den Sehenswürdigkeiten und nehmen für kurze Wege stets einen Schirm mit.",
             "hu": "Járasd az ablaktörlőt a reggeli templomlátogatások során. Délben, ha nagyon zuhog, az ipari romokat kényelmesen, a meleg autóból is szemlélheted. Délután óvatosan vezess a csúszós, vizes utakon a központ felé. Hogy száraz maradj, próbálj a bejáratokhoz minél közelebb parkolni, és a rövid sétákhoz is tarts magadnál esernyőt.",
             "ro": "Folosiți ștergătoarele pe drumul spre biserici dimineața. La prânz, dacă plouă tare, puteți admira ruinele din confortul mașinii. După-amiaza, conduceți cu prudență pe străzile umede din oraș. Pentru a rămâne uscat, parcați cât mai aproape de obiective și folosiți mereu o umbrelă pentru distanțele scurte.",
-            "en": "Keep the wipers on for your morning drive between historic churches. Midday, you can admire the industrial ruins from the dry comfort of your car if the rain is heavy. In the afternoon, navigate the slick town roads cautiously. To stay perfectly dry, try parking as close to the entrances as possible and always carry an umbrella."
+            "en": "Keep the wipers on for your morning drive between historic churches. Midday, you can admire the industrial ruins from the dry comfort of your car if the rain is heavy. In the afternoon, navigate the slick town roads cautiously. To stay perfectly dry, try parking as close to the entrances as possible and always carry an umbrella.",
+            "fr": "Gardez les essuie-glaces en marche pour votre trajet matinal entre les églises historiques. À midi, vous pouvez admirer les ruines industrielles depuis le confort sec de votre voiture si la pluie est forte. L'après-midi, circulez prudemment sur les routes glissantes de la ville. Pour rester parfaitement sec, garez-vous le plus près possible des entrées et emportez toujours un parapluie."
           },
           "stops": [
             {
@@ -784,13 +866,15 @@
                 "de": "Église du Magny",
                 "hu": "Église du Magny",
                 "ro": "Église du Magny",
-                "en": "Église du Magny"
+                "en": "Église du Magny",
+                "fr": "Église du Magny"
               },
               "tip_5lang": {
                 "de": "Parken Sie nah am Eingang. Die Kirche bietet an einem trüben, verregneten Morgen einen friedlichen und trockenen Zufluchtsort.",
                 "hu": "Parkolj minél közelebb a bejárathoz. A templom csendes és teljesen száraz menedéket nyújt egy borongós, esős reggelen.",
                 "ro": "Parcați cât mai aproape de intrare. Biserica oferă un refugiu pașnic și uscat într-o dimineață ploioasă și mohorâtă.",
-                "en": "Park close to the entrance. The historic church offers a remarkably peaceful and dry sanctuary on a gloomy, rainy morning."
+                "en": "Park close to the entrance. The historic church offers a remarkably peaceful and dry sanctuary on a gloomy, rainy morning.",
+                "fr": "Garez-vous près de l'entrée. L'église historique offre un refuge remarquablement paisible et sec un matin pluvieux et gris."
               }
             },
             {
@@ -798,13 +882,15 @@
                 "de": "Lavoir des Chavannes",
                 "hu": "Lavoir des Chavannes",
                 "ro": "Lavoir des Chavannes",
-                "en": "Lavoir des Chavannes"
+                "en": "Lavoir des Chavannes",
+                "fr": "Lavoir des Chavannes"
               },
               "tip_5lang": {
                 "de": "Sie können die schiere Größe der Ruinen bequem vom Auto aus bewundern. Wenn Sie aussteigen, achten Sie auf rutschige nasse Steine.",
                 "hu": "A romok lenyűgöző méreteit kényelmesen, az autóból is megcsodálhatod. Ha kiszállsz, vigyázz a csúszós vizes kövekkel a lábad alatt.",
                 "ro": "Puteți admira scara impresionantă a ruinelor din mașină. Dacă ieșiți, aveți mare grijă la pietrele umede foarte alunecoase.",
-                "en": "You can admire the sheer scale of the ruins from the comfort of your car. If stepping out, be highly cautious of slippery wet stones."
+                "en": "You can admire the sheer scale of the ruins from the comfort of your car. If stepping out, be highly cautious of slippery wet stones.",
+                "fr": "Vous pouvez admirer l'ampleur des ruines depuis le confort de votre voiture. Si vous sortez, soyez très prudent avec les pierres mouillées et glissantes."
               }
             },
             {
@@ -812,13 +898,15 @@
                 "de": "Église Saint-Joseph",
                 "hu": "Église Saint-Joseph",
                 "ro": "Église Saint-Joseph",
-                "en": "Église Saint-Joseph"
+                "en": "Église Saint-Joseph",
+                "fr": "Église Saint-Joseph"
               },
               "tip_5lang": {
                 "de": "Ein kurzer Sprint vom Auto reicht oft, um hineinzukommen. Die Akustik des Regens auf dem Dach ist hier im Inneren besonders schön.",
                 "hu": "Egy rövid futás az autótól elég a bejáratig. Odabent különlegesen szépen rezonál a tetőn doboló esőcseppek hangja.",
                 "ro": "Un scurt sprint de la mașină este suficient. Acustica ploii care bate în acoperiș este deosebit de frumoasă în interior.",
-                "en": "A quick dash from your parked car will get you inside. The acoustics of the heavy rain drumming on the roof are beautiful here."
+                "en": "A quick dash from your parked car will get you inside. The acoustics of the heavy rain drumming on the roof are beautiful here.",
+                "fr": "Une courte course depuis votre voiture vous mènera à l'abri à l'intérieur. L'acoustique de la pluie battant le toit est très belle ici."
               }
             },
             {
@@ -826,13 +914,15 @@
                 "de": "Mairie de Montceau-les-Mines",
                 "hu": "Mairie de Montceau-les-Mines",
                 "ro": "Mairie de Montceau-les-Mines",
-                "en": "Mairie de Montceau-les-Mines"
+                "en": "Mairie de Montceau-les-Mines",
+                "fr": "Mairie de Montceau-les-Mines"
               },
               "tip_5lang": {
                 "de": "Achten Sie auf tiefe Pfützen rund um den Rathausplatz. Nehmen Sie auf jeden Fall Ihren Regenschirm mit, wenn Sie aus dem Auto steigen.",
                 "hu": "Figyelj a mély tócsákra a városháza körüli parkolókban. Mindenképpen vidd magaddal az esernyőt, amikor kiszállsz az autóból.",
                 "ro": "Atenție la bălțile adânci din jurul primăriei. Luați neapărat umbrela cu dumneavoastră când ieșiți din vehicul.",
-                "en": "Watch out for deep puddles in the parking spaces around the town hall. Definitely grab your umbrella before exiting the vehicle."
+                "en": "Watch out for deep puddles in the parking spaces around the town hall. Definitely grab your umbrella before exiting the vehicle.",
+                "fr": "Attention aux grandes flaques sur les places de stationnement autour de la mairie. Prenez impérativement votre parapluie avant de sortir du véhicule."
               }
             },
             {
@@ -840,13 +930,15 @@
                 "de": "Church of Notre-Dame de l'Assomption",
                 "hu": "Church of Notre-Dame de l'Assomption",
                 "ro": "Church of Notre-Dame de l'Assomption",
-                "en": "Church of Notre-Dame de l'Assomption"
+                "en": "Church of Notre-Dame de l'Assomption",
+                "fr": "Église Notre-Dame de l'Assomption"
               },
               "tip_5lang": {
                 "de": "Eine weitere gute Gelegenheit, sich im Trockenen aufzuhalten. Lassen Sie den nassen Schirm im Eingangsbereich stehen.",
                 "hu": "Újabb remek alkalom arra, hogy fedett helyen legyél. A csuromvizes esernyőt hagyd nyugodtan a bejáratnál kialakított tartóban.",
                 "ro": "O altă ocazie excelentă de a sta la adăpost. Lăsați umbrela udă la intrare și explorați interiorul liniștit.",
-                "en": "Another great opportunity to stay completely dry indoors. Leave your dripping umbrella near the main entrance while you explore."
+                "en": "Another great opportunity to stay completely dry indoors. Leave your dripping umbrella near the main entrance while you explore.",
+                "fr": "Une autre excellente occasion de rester complètement au sec à l'intérieur. Laissez votre parapluie dégoulinant près de l'entrée principale pendant votre visite."
               }
             },
             {
@@ -854,13 +946,15 @@
                 "de": "Église Notre-Dame de Bellevue",
                 "hu": "Église Notre-Dame de Bellevue",
                 "ro": "Église Notre-Dame de Bellevue",
-                "en": "Église Notre-Dame de Bellevue"
+                "en": "Église Notre-Dame de Bellevue",
+                "fr": "Église Notre-Dame de Bellevue"
               },
               "tip_5lang": {
                 "de": "Die Straßen hierhin können bei Regen rutschig sein. Die Kirche ist oft ruhig, ideal, um dem stürmischen Wetter zu entkommen.",
                 "hu": "Az idevezető utak esőben csúszósak lehetnek, vezess lassan. A templom csendes, ideális hely kiszakadni a viharos időjárásból.",
                 "ro": "Drumurile până aici pot fi alunecoase. Biserica este adesea liniștită, ideală pentru a scăpa de vremea furtunoasă de afară.",
-                "en": "The roads leading here can be slick in the rain. The church is typically very quiet, making it an ideal escape from stormy weather."
+                "en": "The roads leading here can be slick in the rain. The church is typically very quiet, making it an ideal escape from stormy weather.",
+                "fr": "Les routes menant ici peuvent être glissantes sous la pluie. L'église est généralement très calme, un excellent refuge contre la tempête."
               }
             },
             {
@@ -868,13 +962,15 @@
                 "de": "Plage Roger Lagrot",
                 "hu": "Plage Roger Lagrot",
                 "ro": "Plage Roger Lagrot",
-                "en": "Plage Roger Lagrot"
+                "en": "Plage Roger Lagrot",
+                "fr": "Plage Roger Lagrot"
               },
               "tip_5lang": {
                 "de": "Bleiben Sie im warmen Auto sitzen und beobachten Sie, wie die Regentropfen auf die Seeoberfläche treffen – sehr entspannend.",
                 "hu": "Maradj a fűtött, kényelmes autóban, és figyeld, ahogy az esőcseppek felkavarják a tó vizét – rendkívül megnyugtató látvány.",
                 "ro": "Rămâneți în mașina caldă și priviți cum picăturile de ploaie lovesc suprafața lacului – o priveliște foarte relaxantă.",
-                "en": "Stay cozy inside your warm car and simply watch the heavy rain hitting the surface of the lake – it is a surprisingly relaxing view."
+                "en": "Stay cozy inside your warm car and simply watch the heavy rain hitting the surface of the lake – it is a surprisingly relaxing view.",
+                "fr": "Restez bien au chaud dans votre voiture et regardez simplement la pluie tambouriner à la surface du lac — c'est une vue étonnamment relaxante."
               }
             }
           ]
@@ -884,7 +980,8 @@
             "de": "Wärmen Sie das Auto früh auf, um die Scheiben vor dem ersten Halt zu enteisen. Mittags begleitet Sie eine helle, aber kalte Wintersonne auf der Fahrt durch die Stadt. Nachmittags ist die Autoheizung Ihr bester Freund zwischen den kurzen Ausstiegen an den Sehenswürdigkeiten. Da die Sonne bereits gegen 17:00 Uhr untergeht, können Sie die beleuchteten Straßen auf der Rückfahrt genießen.",
             "hu": "Melegítsd be korán az autót, hogy leolvadjon a szélvédő az első megálló előtt. Délben világos, de fogcsikorgatóan hideg téli napfény kísér a városon át. Délután az autó fűtése lesz a legjobb barátod a rövid szabadtéri séták között. Mivel ötkor sötétedik, a nap végén hangulatos esti, kivilágított utakon autózhatsz vissza.",
             "ro": "Încălziți mașina devreme pentru a dezgheța geamurile înaintea primei opriri. La prânz, soarele strălucitor, dar rece, vă însoțește prin oraș. După-amiaza, căldura din mașină este cel mai bun prieten între plimbările scurte. Deoarece apune pe la 17:00, vă veți bucura de străzi frumos luminate la întoarcere.",
-            "en": "Warm up the car early to thoroughly defrost the windows before your first stop. Midday brings bright but freezing winter sun as you drive through town. In the afternoon, the car's heater will be your best friend between short outdoor walks. Since sunset hits early around 17:00, expect a cozy twilight drive at the end."
+            "en": "Warm up the car early to thoroughly defrost the windows before your first stop. Midday brings bright but freezing winter sun as you drive through town. In the afternoon, the car's heater will be your best friend between short outdoor walks. Since sunset hits early around 17:00, expect a cozy twilight drive at the end.",
+            "fr": "Réchauffez la voiture tôt pour bien dégivrer les vitres avant votre première étape. À midi, le soleil hivernal est franc mais glacial lorsque vous traversez la ville. L'après-midi, le chauffage de la voiture sera votre meilleur allié entre de courtes sorties. Comme le coucher du soleil est tôt vers 17:00, prévoyez un trajet crépusculaire confortable en fin de journée."
           },
           "stops": [
             {
@@ -892,13 +989,15 @@
                 "de": "Église du Magny",
                 "hu": "Église du Magny",
                 "ro": "Église du Magny",
-                "en": "Église du Magny"
+                "en": "Église du Magny",
+                "fr": "Église du Magny"
               },
               "tip_5lang": {
                 "de": "Der Morgenfrost sieht auf den alten Mauern wunderschön aus. Lassen Sie die Heizung kurz laufen, damit Sie in ein warmes Auto zurückkehren.",
                 "hu": "A reggeli zúzmara gyönyörűen mutat az öreg falakon. Hagyj egy kis fűtést az autóban, hogy kellemes melegbe térhess vissza a fagyos levegőről.",
                 "ro": "Bruma dimineții arată superb pe zidurile vechi. Lăsați căldura pornită scurt timp, pentru a vă întoarce într-o cabină caldă.",
-                "en": "The morning frost looks absolutely beautiful on the stone walls. Blast the heater briefly so you return to a warm cabin from the crisp air."
+                "en": "The morning frost looks absolutely beautiful on the stone walls. Blast the heater briefly so you return to a warm cabin from the crisp air.",
+                "fr": "Le givre matinal est absolument beau sur les murs de pierre. Montez brièvement le chauffage pour retrouver une cabine chaude après l'air vif."
               }
             },
             {
@@ -906,13 +1005,15 @@
                 "de": "Lavoir des Chavannes",
                 "hu": "Lavoir des Chavannes",
                 "ro": "Lavoir des Chavannes",
-                "en": "Lavoir des Chavannes"
+                "en": "Lavoir des Chavannes",
+                "fr": "Lavoir des Chavannes"
               },
               "tip_5lang": {
                 "de": "Vorsicht bei vereisten Flächen rund um die Industrieanlage. Der kalte Wind pfeift hier stark, eine dicke Jacke ist Pflicht.",
                 "hu": "Vigyázz a jeges foltokkal az ipari terület körül. A hideg szél akadálytalanul fúj át a romok között, a vastag télikabát kötelező.",
                 "ro": "Atenție la zonele înghețate din jurul sitului industrial. Vântul rece suflă puternic aici, o geacă groasă este obligatorie.",
-                "en": "Be highly cautious of icy patches around the industrial grounds. The wind chill is harsh here, so a thick winter coat is mandatory."
+                "en": "Be highly cautious of icy patches around the industrial grounds. The wind chill is harsh here, so a thick winter coat is mandatory.",
+                "fr": "Soyez très vigilant face aux plaques de verglas autour du site industriel. Le ressenti de froid y est rude, un manteau d'hiver épais est indispensable."
               }
             },
             {
@@ -920,13 +1021,15 @@
                 "de": "Église Saint-Joseph",
                 "hu": "Église Saint-Joseph",
                 "ro": "Église Saint-Joseph",
-                "en": "Église Saint-Joseph"
+                "en": "Église Saint-Joseph",
+                "fr": "Église Saint-Joseph"
               },
               "tip_5lang": {
                 "de": "Das Innere bietet Schutz vor dem bissigen Winterwind. Die kalte Steinarchitektur wirkt im Winterlicht besonders eindrucksvoll.",
                 "hu": "A belső tér menedéket nyújt a csípős téli szél elől. A rideg kőépítészet a téli napfényben különösen lenyűgöző hatást kelt.",
                 "ro": "Interiorul oferă protecție împotriva vântului tăios de iarnă. Arhitectura rece de piatră este impresionantă în lumina iernii.",
-                "en": "The interior provides excellent shelter from the biting winter wind. The cold stone architecture looks especially striking in winter light."
+                "en": "The interior provides excellent shelter from the biting winter wind. The cold stone architecture looks especially striking in winter light.",
+                "fr": "L'intérieur offre un excellent abri contre le vent hivernal mordant. L'architecture en pierre froide est particulièrement saisissante sous la lumière d'hiver."
               }
             },
             {
@@ -934,13 +1037,15 @@
                 "de": "Mairie de Montceau-les-Mines",
                 "hu": "Mairie de Montceau-les-Mines",
                 "ro": "Mairie de Montceau-les-Mines",
-                "en": "Mairie de Montceau-les-Mines"
+                "en": "Mairie de Montceau-les-Mines",
+                "fr": "Mairie de Montceau-les-Mines"
               },
               "tip_5lang": {
                 "de": "Das Rathaus ist im Winter oft weihnachtlich geschmückt. Achten Sie auf Glatteis beim Ein- und Aussteigen auf dem Parkplatz.",
                 "hu": "A városháza környéke télen sokszor ünnepi díszbe öltözik. Nagyon ügyelj a jégfoltokra a parkolóban, amikor ki- vagy beszállsz.",
                 "ro": "Primăria are adesea decorațiuni de iarnă. Fiți atenți la gheața neagră din parcare atunci când urcați și coborâți din mașină.",
-                "en": "The town hall is often nicely decorated in winter. Keep a very close eye out for black ice in the parking lot as you exit the vehicle."
+                "en": "The town hall is often nicely decorated in winter. Keep a very close eye out for black ice in the parking lot as you exit the vehicle.",
+                "fr": "La mairie est souvent joliment décorée en hiver. Surveillez attentivement le verglas noir sur le parking en sortant du véhicule."
               }
             },
             {
@@ -948,13 +1053,15 @@
                 "de": "Church of Notre-Dame de l'Assomption",
                 "hu": "Church of Notre-Dame de l'Assomption",
                 "ro": "Church of Notre-Dame de l'Assomption",
-                "en": "Church of Notre-Dame de l'Assomption"
+                "en": "Church of Notre-Dame de l'Assomption",
+                "fr": "Église Notre-Dame de l'Assomption"
               },
               "tip_5lang": {
                 "de": "Wärmen Sie sich nach dem kurzen Spaziergang vom Auto hier drinnen auf. Die dicken Mauern isolieren gut gegen den Frost.",
                 "hu": "A rövid séta után melegedj fel idebent. A vastag falak meglepően jól szigetelnek a kinti dermesztő fagy ellen.",
                 "ro": "Încălziți-vă aici după scurta plimbare de la mașină. Zidurile groase izolează foarte bine împotriva înghețului de afară.",
-                "en": "Warm yourself up inside after the short brisk walk from your car. The extremely thick walls insulate surprisingly well against the frost."
+                "en": "Warm yourself up inside after the short brisk walk from your car. The extremely thick walls insulate surprisingly well against the frost.",
+                "fr": "Réchauffez-vous à l'intérieur après la courte marche vive depuis votre voiture. Les murs très épais isolent étonnamment bien du gel."
               }
             },
             {
@@ -962,13 +1069,15 @@
                 "de": "Église Notre-Dame de Bellevue",
                 "hu": "Église Notre-Dame de Bellevue",
                 "ro": "Église Notre-Dame de Bellevue",
-                "en": "Église Notre-Dame de Bellevue"
+                "en": "Église Notre-Dame de Bellevue",
+                "fr": "Église Notre-Dame de Bellevue"
               },
               "tip_5lang": {
                 "de": "Gegen späten Nachmittag wird es bereits dunkel. Die beleuchtete Fassade der Kirche sieht in der winterlichen Dämmerung wunderschön aus.",
                 "hu": "Késő délutánra már sötétedik. A templom kivilágított homlokzata csodálatos látványt nyújt a kékórás, téli szürkületben.",
                 "ro": "După-amiaza târziu se întunecă deja. Fațada iluminată a bisericii arată minunat în amurgul rece de iarnă.",
-                "en": "By late afternoon, it is already getting dark. The illuminated facade of the church looks absolutely beautiful in the winter twilight."
+                "en": "By late afternoon, it is already getting dark. The illuminated facade of the church looks absolutely beautiful in the winter twilight.",
+                "fr": "En fin d'après-midi, il fait déjà sombre. La façade éclairée de l'église est absolument belle dans le crépuscule hivernal."
               }
             },
             {
@@ -976,13 +1085,15 @@
                 "de": "Plage Roger Lagrot",
                 "hu": "Plage Roger Lagrot",
                 "ro": "Plage Roger Lagrot",
-                "en": "Plage Roger Lagrot"
+                "en": "Plage Roger Lagrot",
+                "fr": "Plage Roger Lagrot"
               },
               "tip_5lang": {
                 "de": "Ein kurzer, eiskalter Stopp am Seeufer. Drehen Sie die Autoheizung hoch, während Sie die gefrorene Landschaft aus dem Fenster betrachten.",
                 "hu": "Egy rövid, jéghideg megálló a tóparton. Tekerd fel a fűtést a kocsiban, és nézd a befagyott, kietlen tájat az ablakon keresztül.",
                 "ro": "O oprire scurtă, înghețată, pe malul lacului. Porniți căldura mașinii în timp ce admirați peisajul înghețat pe fereastră.",
-                "en": "A short, freezing stop by the lakeside. Crank up the car heater high while you view the desolate, frozen landscape through the windows."
+                "en": "A short, freezing stop by the lakeside. Crank up the car heater high while you view the desolate, frozen landscape through the windows.",
+                "fr": "Un court arrêt glacé au bord du lac. Montez fortement le chauffage de la voiture en regardant le paysage désolé et gelé à travers les vitres."
               }
             }
           ]

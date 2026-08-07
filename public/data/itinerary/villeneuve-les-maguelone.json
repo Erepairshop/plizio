@@ -21,7 +21,8 @@
             "de": "Arnel Pond",
             "hu": "Arnel Pond",
             "ro": "Arnel Pond",
-            "en": "Arnel Pond"
+            "en": "Arnel Pond",
+            "fr": "Étang d'Arnel"
           },
           "coords": [
             3.889998,
@@ -36,7 +37,8 @@
             "de": "Bewundern Sie den ruhigen Étang de l'Arnel, ein Paradies für Rosa Flamingos und Zugvögel, also bringen Sie unbedingt Ihr Fernglas für die beste Vogelbeobachtung mit.",
             "hu": "Csodálja meg a nyugodt Arnel-tavat, amely a rózsás flamingók és vándormadarak menedéke, ezért mindenképpen hozzon magával távcsövet a legjobb madármegfigyeléshez.",
             "ro": "Admirați liniștitul Iaz Arnel, un refugiu pentru păsările flamingo și alte specii migratoare, deci aduceți-vă binoclul pentru cea mai bună experiență de observare.",
-            "en": "Admire the tranquil Arnel Pond, a haven for pink flamingos and migratory birds, so bring your binoculars for the best early morning birdwatching experience."
+            "en": "Admire the tranquil Arnel Pond, a haven for pink flamingos and migratory birds, so bring your binoculars for the best early morning birdwatching experience.",
+            "fr": "Admirez le paisible Étang d'Arnel, refuge pour les flamants roses et les oiseaux migrateurs ; emportez vos jumelles pour une observation matinale optimale."
           }
         },
         {
@@ -44,7 +46,8 @@
             "de": "Pilou Footbridge",
             "hu": "Pilou Footbridge",
             "ro": "Pilou Footbridge",
-            "en": "Pilou Footbridge"
+            "en": "Pilou Footbridge",
+            "fr": "Passerelle du Pilou"
           },
           "coords": [
             3.880629,
@@ -59,7 +62,8 @@
             "de": "Überqueren Sie die ikonische Pilou-Fußgängerbrücke, die das Festland mit dem Küstenstreifen verbindet und großartige Fotomotive der umliegenden ruhigen Gewässer bietet.",
             "hu": "Keljen át az ikonikus Pilou gyaloghídon, amely elegánsan köti össze a szárazföldet a partszakasszal, így nagyszerű fotózási lehetőségeket kínál a nyugodt vizekről.",
             "ro": "Traversați faimoasa Pasarelă Pilou, care conectează elegant continentul de fâșia de coastă, oferind oportunități excelente de fotografiere a apelor liniștite.",
-            "en": "Cross the iconic Pilou Footbridge which elegantly connects the mainland to the coastal strip, offering great photo opportunities of the surrounding calm waters."
+            "en": "Cross the iconic Pilou Footbridge which elegantly connects the mainland to the coastal strip, offering great photo opportunities of the surrounding calm waters.",
+            "fr": "Traversez la emblématique Passerelle du Pilou qui relie élégamment le continent à la bande côtière, offrant de belles opportunités photo des eaux calmes environnantes."
           }
         },
         {
@@ -67,7 +71,8 @@
             "de": "Maguelone Cathedral",
             "hu": "Maguelone Cathedral",
             "ro": "Maguelone Cathedral",
-            "en": "Maguelone Cathedral"
+            "en": "Maguelone Cathedral",
+            "fr": "Cathédrale de Maguelone"
           },
           "coords": [
             3.883611,
@@ -82,7 +87,8 @@
             "de": "Erkunden Sie die majestätische romanische Kathedrale von Maguelone inmitten üppiger Weinberge, aber überprüfen Sie vorher die saisonal wechselnden Öffnungszeiten.",
             "hu": "Fedezze fel a fenséges román stílusú Maguelone-katedrálist a buja szőlőültetvények között, de indulás előtt ellenőrizze a szezonálisan változó nyitvatartási időt.",
             "ro": "Explorați maiestuoasa Catedrală romanică Maguelone înconjurată de podgorii luxuriante, dar nu uitați să verificați în prealabil programul de vizitare care variază.",
-            "en": "Explore the majestic Romanesque Maguelone Cathedral surrounded by lush vineyards, but remember to check the opening hours beforehand as they change seasonally."
+            "en": "Explore the majestic Romanesque Maguelone Cathedral surrounded by lush vineyards, but remember to check the opening hours beforehand as they change seasonally.",
+            "fr": "Explorez la majestueuse cathédrale romane de Maguelone entourée de vignobles luxuriants, mais pensez à vérifier les heures d'ouverture car elles varient selon la saison."
           }
         },
         {
@@ -90,7 +96,8 @@
             "de": "Plage de Maguelone",
             "hu": "Plage de Maguelone",
             "ro": "Plage de Maguelone",
-            "en": "Plage de Maguelone"
+            "en": "Plage de Maguelone",
+            "fr": "Plage de Maguelone"
           },
           "coords": [
             3.882348,
@@ -105,7 +112,8 @@
             "de": "Entspannen Sie am unberührten Plage de Maguelone, einem perfekten Naturstrand zum Schwimmen, also packen Sie ausreichend Sonnencreme ein, da der Schatten begrenzt ist.",
             "hu": "Pihenjen a festői Maguelone strandon, amely tökéletes egy kis úszáshoz, ezért csomagoljon bőségesen naptejet és vizet, mivel az árnyék meglehetősen korlátozott.",
             "ro": "Relaxați-vă pe Plaja Maguelone, o întindere naturală perfectă pentru înot, așa că luați cu dumneavoastră multă cremă de soare deoarece zonele cu umbră sunt limitate.",
-            "en": "Relax on the pristine Plage de Maguelone, an unspoiled natural beach perfect for swimming, so pack plenty of sunscreen and water as shade is quite limited here."
+            "en": "Relax on the pristine Plage de Maguelone, an unspoiled natural beach perfect for swimming, so pack plenty of sunscreen and water as shade is quite limited here.",
+            "fr": "Détendez‑vous sur la Plage de Maguelone, une plage naturelle immaculée parfaite pour la baignade ; prévoyez beaucoup d'écran solaire et d'eau car l'ombre y est très limitée."
           }
         },
         {
@@ -113,7 +121,8 @@
             "de": "Pilou Beach",
             "hu": "Pilou Beach",
             "ro": "Pilou Beach",
-            "en": "Pilou Beach"
+            "en": "Pilou Beach",
+            "fr": "Plage du Pilou"
           },
           "coords": [
             3.88916,
@@ -128,7 +137,8 @@
             "de": "Entspannen Sie am wunderschönen Pilou-Strand, wo das Mittelmeer auf die Lagunen trifft, was ihn ideal für einen späten Nachmittagsspaziergang in der Meeresbrise macht.",
             "hu": "Kapcsolódjon ki a gyönyörű Pilou strandon, ahol a Földközi-tenger találkozik a lagúnákkal, így ideális helyszín egy késő délutáni sétához a lágy tengeri szellőben.",
             "ro": "Destindeți-vă pe frumoasa Plajă Pilou, unde Marea Mediterană întâlnește lagunele de coastă, fiind locul ideal pentru o plimbare de după-amiază în briza mării.",
-            "en": "Unwind at the beautiful Pilou Beach where the Mediterranean meets the coastal lagoons, making it ideal for a late afternoon stroll in the gentle sea breeze."
+            "en": "Unwind at the beautiful Pilou Beach where the Mediterranean meets the coastal lagoons, making it ideal for a late afternoon stroll in the gentle sea breeze.",
+            "fr": "Reposez‑vous sur la belle Plage du Pilou où la Méditerranée rencontre les lagunes côtières, idéale pour une promenade en fin d'après‑midi dans la douce brise marine."
           }
         }
       ],
@@ -136,7 +146,8 @@
         "de": "Beginnen Sie Ihren Morgen mit einem ruhigen Spaziergang um den Étang de l'Arnel und genießen Sie die Natur. Überqueren Sie am Mittag die malerische Pilou-Fußgängerbrücke und tauchen Sie in die Geschichte der Kathedrale von Maguelone ein. Verbringen Sie den Nachmittag entspannt am unberührten Strand von Maguelone. Beenden Sie Ihre Reise am Abend mit einem sanften Spaziergang am Pilou-Strand.",
         "hu": "Kezdje a reggelt egy nyugodt sétával az Arnel-tó körül, élvezve a természeti szépségeket. Délben keljen át a festői Pilou gyaloghídon, és merüljön el a Maguelone-katedrális történetében. Töltse a délutánt pihenéssel a Maguelone strand érintetlen homokján. Az este közeledtével zárja utazását egy megnyugtató sétával a gyönyörű Pilou strandon a naplementében.",
         "ro": "Începeți dimineața cu o plimbare liniștită în jurul Iazului Arnel, bucurându-vă de natură. La amiază, traversați pitoreasca Pasarelă Pilou și descoperiți istoria Catedralei Maguelone. Petreceți-vă după-amiaza relaxându-vă pe nisipul virgin de la Plaja Maguelone. Pe măsură ce se lasă seara, încheiați-vă călătoria cu o plimbare reconfortantă pe minunata Plajă Pilou.",
-        "en": "Begin your morning with a tranquil walk around the Arnel Pond, embracing the natural beauty and birdlife. By midday, cross the picturesque Pilou Footbridge and immerse yourself in the history of the Maguelone Cathedral. Spend your afternoon relaxing on the pristine sands of Plage de Maguelone. As evening approaches, conclude your journey with a soothing stroll along Pilou Beach."
+        "en": "Begin your morning with a tranquil walk around the Arnel Pond, embracing the natural beauty and birdlife. By midday, cross the picturesque Pilou Footbridge and immerse yourself in the history of the Maguelone Cathedral. Spend your afternoon relaxing on the pristine sands of Plage de Maguelone. As evening approaches, conclude your journey with a soothing stroll along Pilou Beach.",
+        "fr": "Commencez la matinée par une promenade tranquille autour de l'Étang d'Arnel, en profitant de la beauté naturelle et de la faune. À la mi‑journée, traversez la pittoresque Passerelle du Pilou et imprégnez‑vous de l'histoire de la Cathédrale de Maguelone. Passez l'après‑midi à vous détendre sur les sables immaculés de la Plage de Maguelone. En soirée, terminez votre parcours par une paisible promenade le long de la Plage du Pilou."
       },
       "variants": {
         "rainy": {
@@ -144,7 +155,8 @@
             "de": "Der Morgen beginnt mit einem nebligen Blick auf die Lagunen; die Vögel bleiben aktiv und die Natur wirkt unter dem Regen besonders intensiv. Mittags bieten die dicken Mauern der Kathedrale den perfekten Schutz vor schweren Güssen, ideal für eine ruhige Besichtigung. Am Nachmittag frischt der Seewind auf, weshalb wasserfeste Kleidung in den Dünen absolut unerlässlich ist. Abends kehren wir nach dem Blick auf die stürmischen Wellen in die Stadt zurück und suchen Wärme in einem Café.",
             "hu": "Reggel a lagúnák ködös látványa kísér; az eső áztatja a mocsarat, de a madarak ilyenkor is aktívak, különleges hangulatot árasztva. Délben a katedrális vastag falai nyújtanak tökéletes menedéket a zivatar elől, érdemes bent megpihenni és felfedezni a történelmet. Délután a tengerparti szél felerősödik, a homokos dűnék között az esőkabát elengedhetetlen a sós pára ellen. Este a sötétszürke hullámok látványa után a városka fényeibe húzódunk vissza egy meleg italra.",
             "ro": "Dimineața începe cu o priveliște cețoasă peste lagune; păsările rămân active, iar natura pare intensă sub ploaia măruntă. La prânz, zidurile groase ale catedralei oferă refugiul perfect împotriva averselor, fiind ideale pentru o vizită liniștită. După-amiaza, vântul mării se intensifică, făcând echipamentul impermeabil absolut esențial printre dunele de nisip. Seara, după ce admirăm valurile furtunoase, ne retragem spre luminile orașului pentru o băutură caldă.",
-            "en": "The morning begins with a misty view of the lagoons; birds remain active and nature feels particularly intense under the drizzle. At noon, the cathedral's thick walls offer the perfect sanctuary from heavy showers, ideal for a quiet indoor exploration. In the afternoon, the sea wind picks up, making waterproof gear essential among the dunes under a dramatic sky. By evening, after watching the stormy waves, we retreat to the town's lights in search of a warm drink."
+            "en": "The morning begins with a misty view of the lagoons; birds remain active and nature feels particularly intense under the drizzle. At noon, the cathedral's thick walls offer the perfect sanctuary from heavy showers, ideal for a quiet indoor exploration. In the afternoon, the sea wind picks up, making waterproof gear essential among the dunes under a dramatic sky. By evening, after watching the stormy waves, we retreat to the town's lights in search of a warm drink.",
+            "fr": "La matinée s'ouvre sur une vue brumeuse des lagunes ; les oiseaux sont actifs et la nature se ressent intensément sous la bruine. À midi, les murs épais de la cathédrale offrent un refuge idéal contre les fortes averses, parfait pour une exploration calme à l'intérieur. L'après‑midi, le vent marin se lève, rendant les équipements imperméables essentiels parmi les dunes sous un ciel dramatique. En soirée, après avoir contemplé les vagues orageuses, nous regagnons les lumières de la ville à la recherche d'une boisson chaude."
           },
           "stops": [
             {
@@ -152,13 +164,15 @@
                 "de": "Arnel Pond",
                 "hu": "Arnel Pond",
                 "ro": "Arnel Pond",
-                "en": "Arnel Pond"
+                "en": "Arnel Pond",
+                "fr": "Étang d'Arnel"
               },
               "tip_5lang": {
                 "de": "Die Vogelbeobachtungshütten bieten einen trockenen Unterschlupf; nutzen Sie diese, um Flamingos auch bei Regen in Ruhe beobachten zu können.",
                 "hu": "A madármegfigyelő kunyhók remek fedett helyszínt biztosítanak; használja ezeket, hogy szárazon láthassa a flamingókat az esős időben is.",
                 "ro": "Adăposturile pentru observarea păsărilor oferă un refugiu uscat; folosiți-le pentru a vedea flamingo în liniște, chiar și atunci când plouă.",
-                "en": "The bird-watching hides provide a dry shelter; use them to observe flamingos peacefully even while it's raining outside."
+                "en": "The bird-watching hides provide a dry shelter; use them to observe flamingos peacefully even while it's raining outside.",
+                "fr": "Les observatoires d'ornithologie offrent un abri sec ; utilisez‑les pour observer paisiblement les flamants même sous la pluie."
               }
             },
             {
@@ -166,13 +180,15 @@
                 "de": "Pilou Footbridge",
                 "hu": "Pilou Footbridge",
                 "ro": "Pilou Footbridge",
-                "en": "Pilou Footbridge"
+                "en": "Pilou Footbridge",
+                "fr": "Passerelle du Pilou"
               },
               "tip_5lang": {
                 "de": "Die Brücke kann bei Nässe rutschig sein; halten Sie sich am Geländer fest und genießen Sie das Muster der Regentropfen auf der Lagune.",
                 "hu": "A híd ilyenkor csúszós lehet; kapaszkodjon erősen és figyelje, ahogy az esőcseppek különleges mintákat rajzolnak a lagúna szürke vizére.",
                 "ro": "Podul poate fi alunecos când este ud; țineți-vă de balustradă și admirați modelul picăturilor de ploaie pe suprafața lagunei.",
-                "en": "The bridge can be slippery when wet; hold onto the railing and enjoy the patterns of raindrops dancing on the lagoon's surface."
+                "en": "The bridge can be slippery when wet; hold onto the railing and enjoy the patterns of raindrops dancing on the lagoon's surface.",
+                "fr": "La passerelle peut être glissante quand elle est mouillée ; tenez‑vous à la main courante et admirez les motifs des gouttes de pluie dansant sur la surface de la lagune."
               }
             },
             {
@@ -180,13 +196,15 @@
                 "de": "Maguelone Cathedral",
                 "hu": "Maguelone Cathedral",
                 "ro": "Maguelone Cathedral",
-                "en": "Maguelone Cathedral"
+                "en": "Maguelone Cathedral",
+                "fr": "Cathédrale de Maguelone"
               },
               "tip_5lang": {
                 "de": "Dies ist der beste Ort, um den Regen abzuwarten; die massiven Mauern garantieren Stille und Trockenheit während es draußen stürmt.",
                 "hu": "Ez a legjobb helyszín az eső kivárására; a masszív falak között csend és szárazság honol, miközben kint dörög az ég és szakad az eső.",
                 "ro": "Acesta este cel mai bun loc pentru a aștepta oprirea ploii; zidurile masive garantează liniște și uscăciune în timp ce afară este furtună.",
-                "en": "This is the best place to wait out the rain; the massive walls guarantee silence and dryness while the storm rages outside."
+                "en": "This is the best place to wait out the rain; the massive walls guarantee silence and dryness while the storm rages outside.",
+                "fr": "C'est l'endroit idéal pour attendre la fin de la pluie ; les murs massifs garantissent silence et sécheresse pendant que la tempête fait rage dehors."
               }
             },
             {
@@ -194,13 +212,15 @@
                 "de": "Plage de Maguelone",
                 "hu": "Plage de Maguelone",
                 "ro": "Plage de Maguelone",
-                "en": "Plage de Maguelone"
+                "en": "Plage de Maguelone",
+                "fr": "Plage de Maguelone"
               },
               "tip_5lang": {
                 "de": "Die stürmische See ist beeindruckend, aber bleiben Sie auf den Wegen, da der nasse Sand tief und schwer begehbar sein kann.",
                 "hu": "A viharos tenger látványa lenyűgöző; maradjon a kijelölt úton, mert a vizes homok mély és meglepően nehezen járható ilyenkor.",
                 "ro": "Marea furtunoasă este impresionantă, dar rămâneți pe poteci, deoarece nisipul ud poate fi adânc și greu de parcurs pe jos.",
-                "en": "The stormy sea is impressive, but stay on the designated paths as the wet sand can be deep and surprisingly difficult to walk on."
+                "en": "The stormy sea is impressive, but stay on the designated paths as the wet sand can be deep and surprisingly difficult to walk on.",
+                "fr": "La mer agitée est impressionnante, mais restez sur les sentiers balisés car le sable mouillé peut être profond et étonnamment difficile à traverser."
               }
             },
             {
@@ -208,13 +228,15 @@
                 "de": "Pilou Beach",
                 "hu": "Pilou Beach",
                 "ro": "Pilou Beach",
-                "en": "Pilou Beach"
+                "en": "Pilou Beach",
+                "fr": "Plage du Pilou"
               },
               "tip_5lang": {
                 "de": "In den Dünen ist man dem Wind schutzlos ausgeliefert; eine hochwertige Regenjacke ist Pflicht, um die salzige Meeresluft zu genießen.",
                 "hu": "A parti dűnék között az esőben is érezni a tenger illatát; egy vízálló kabát nélkül ne induljon el a teljesen nyílt terepre.",
                 "ro": "În dune sunteți expus vântului; o jachetă impermeabilă de calitate este obligatorie pentru a vă bucura de aerul sărat al mării.",
-                "en": "In the dunes, you are exposed to the wind; a high-quality raincoat is mandatory to enjoy the salty sea air without getting soaked."
+                "en": "In the dunes, you are exposed to the wind; a high-quality raincoat is mandatory to enjoy the salty sea air without getting soaked.",
+                "fr": "Dans les dunes, vous êtes exposé au vent ; un imperméable de qualité est indispensable pour profiter de l'air salin sans être trempé."
               }
             }
           ]
@@ -224,7 +246,8 @@
             "de": "Die Morgenluft ist an den Teichen beißend kalt; frostbedecktes Schilf bildet eine stille, glitzernde Winterlandschaft. Mittags suchen wir eine sonnengeschützte Ecke in den Gärten der Kathedrale, um die blasse Wärme der Dezembersonne zu genießen. Im Laufe des Nachmittags wird der Strand zu einem einsamen, mystischen Ort mit herrlich frischer Luft. Der Abend bricht bereits gegen 17:00 Uhr herein; es ist Zeit, für ein heißes Getränk zurückzukehren, da die Temperaturen rapide sinken.",
             "hu": "Reggel csípős hideg fogad a tavak partján; a dér borította nádas különleges, csendes és csillogó téli hangulatot áraszt. Délben a gyér napsütésben a katedrális szélvédettebb sarkaiban keresünk egy kis enyhülést a fagyos szél elől. Délután a korai szürkületben a tengerpart magányos és misztikus; a sós levegő ilyenkor is rendkívül frissítő. Este 17 óra után már sötétedik, így a parti séta után érdemes gyorsan fűtött beltérbe vonulni.",
             "ro": "Aerul dimineții este tăios lângă iazuri; trestiile acoperite de brumă creează un peisaj de iarnă tăcut și sclipitor. La prânz, căutăm un colț însorit și ferit de vânt în grădinile catedralei pentru a ne bucura de căldura slabă a soarelui. Pe măsură ce după-amiaza înaintează, plaja devine un loc singuratic și mistic, cu aer proaspăt. Seara sosește devreme, în jurul orei 17:00; este timpul să ne întoarcem pentru o băutură fierbinte pe măsură ce temperatura scade.",
-            "en": "The morning air is biting cold near the ponds; frost-covered reeds create a silent, sparkling winter landscape. At noon, find a sun-drenched, wind-sheltered corner in the cathedral gardens to enjoy the pale warmth of the winter sun. As the afternoon progresses, the beach becomes a lonely, mystical place with bracingly fresh air. Evening arrives early around 17:00; it's time to head back for a hot drink as temperatures drop rapidly after sunset."
+            "en": "The morning air is biting cold near the ponds; frost-covered reeds create a silent, sparkling winter landscape. At noon, find a sun-drenched, wind-sheltered corner in the cathedral gardens to enjoy the pale warmth of the winter sun. As the afternoon progresses, the beach becomes a lonely, mystical place with bracingly fresh air. Evening arrives early around 17:00; it's time to head back for a hot drink as temperatures drop rapidly after sunset.",
+            "fr": "L'air du matin est glacial près des étangs ; des roseaux couverts de gel créent un paysage hivernal silencieux et étincelant. À midi, trouvez un coin ensoleillé et abrité dans les jardins de la cathédrale pour profiter de la douce chaleur hivernale. L'après‑midi, la plage devient un lieu solitaire et mystique avec un air vif. Le soir arrive tôt vers 17:00 ; il est temps de rentrer pour une boisson chaude car les températures chutent rapidement après le coucher du soleil."
           },
           "stops": [
             {
@@ -232,13 +255,15 @@
                 "de": "Arnel Pond",
                 "hu": "Arnel Pond",
                 "ro": "Arnel Pond",
-                "en": "Arnel Pond"
+                "en": "Arnel Pond",
+                "fr": "Étang d'Arnel"
               },
               "tip_5lang": {
                 "de": "Der Teich wirkt im Winternebel mystisch; tragen Sie winddichte Kleidung, da die feuchte Kälte hier besonders tief in die Knochen zieht.",
                 "hu": "A téli reggeleken a pára misztikussá teszi a tavat; öltözzön rétegesen, mert a víz felől érkező szél ilyenkor metszően hideg.",
                 "ro": "Iazul pare mistic în ceața de iarnă; purtați haine rezistente la vânt, deoarece frigul umed de aici este foarte pătrunzător.",
-                "en": "The pond looks mystical in the winter fog; wear windproof clothing as the damp cold here bites particularly hard into your bones."
+                "en": "The pond looks mystical in the winter fog; wear windproof clothing as the damp cold here bites particularly hard into your bones.",
+                "fr": "L'étang prend un air mystique dans le brouillard hivernal ; portez des vêtements coupe‑vent car l'humidité froide pénètre particulièrement jusqu'aux os."
               }
             },
             {
@@ -246,13 +271,15 @@
                 "de": "Pilou Footbridge",
                 "hu": "Pilou Footbridge",
                 "ro": "Pilou Footbridge",
-                "en": "Pilou Footbridge"
+                "en": "Pilou Footbridge",
+                "fr": "Passerelle du Pilou"
               },
               "tip_5lang": {
                 "de": "In der Winterbrise ist die Überquerung eine Herausforderung; der Blick auf die erstarrte Landschaft entschädigt jedoch für die Kälte.",
                 "hu": "A téli szélben a hídon való átkelés próbára teszi a kitartást, de a befagyottnak tűnő táj látványa megéri a fagyoskodást.",
                 "ro": "Traversarea în briza iernii este o provocare; totuși, priveliștea peisajului încremenit compensează efortul și frigul îndurat.",
-                "en": "Crossing in the winter breeze is a challenge; however, the view of the frozen-looking landscape compensates for the biting cold."
+                "en": "Crossing in the winter breeze is a challenge; however, the view of the frozen-looking landscape compensates for the biting cold.",
+                "fr": "La traversée dans la brise hivernale est exigeante ; toutefois, la vue du paysage presque gelé compense le froid mordant."
               }
             },
             {
@@ -260,13 +287,15 @@
                 "de": "Maguelone Cathedral",
                 "hu": "Maguelone Cathedral",
                 "ro": "Maguelone Cathedral",
-                "en": "Maguelone Cathedral"
+                "en": "Maguelone Cathedral",
+                "fr": "Cathédrale de Maguelone"
               },
               "tip_5lang": {
                 "de": "Das Innere ist im Winter kühl; verweilen Sie im windgeschützten Innenhof, wo die tiefstehende Sonne oft für angenehme Wärme sorgt.",
                 "hu": "A templom belső tere télen hűvös; inkább a szélvédett belső kertben időzzön, ahol a téli napsütésben is kellemes perceket tölthet.",
                 "ro": "Interiorul este răcoros iarna; zăboviți în curtea interioară ferită de vânt, unde soarele adesea oferă o căldură plăcută.",
-                "en": "The interior is cool in winter; linger in the wind-sheltered courtyard, where the low sun often provides pleasant warmth."
+                "en": "The interior is cool in winter; linger in the wind-sheltered courtyard, where the low sun often provides pleasant warmth.",
+                "fr": "L'intérieur est frais en hiver ; attardez‑vous dans la cour abritée du vent, où le soleil bas apporte souvent une agréable chaleur résiduelle."
               }
             },
             {
@@ -274,13 +303,15 @@
                 "de": "Plage de Maguelone",
                 "hu": "Plage de Maguelone",
                 "ro": "Plage de Maguelone",
-                "en": "Plage de Maguelone"
+                "en": "Plage de Maguelone",
+                "fr": "Plage de Maguelone"
               },
               "tip_5lang": {
                 "de": "Der Strand ist nun völlig leer und friedlich; der frühe Sonnenuntergang färbt den Horizont über den eiskalten Wellen in leuchtendes Orange.",
                 "hu": "A part ilyenkor teljesen üres és békés; a korai naplemente narancssárgára festi a horizontot a jéghideg, sötét habok felett.",
                 "ro": "Plaja este acum complet goală și liniștită; apusul timpuriu colorează orizontul în portocaliu vibrant deasupra valurilor înghețate.",
-                "en": "The beach is now completely empty and peaceful; the early sunset paints the horizon in bright orange over the ice-cold waves."
+                "en": "The beach is now completely empty and peaceful; the early sunset paints the horizon in bright orange over the ice-cold waves.",
+                "fr": "La plage est désormais complètement vide et paisible ; le coucher de soleil précoce peint l'horizon d'un orange vif au‑dessus des vagues glaciales."
               }
             },
             {
@@ -288,13 +319,15 @@
                 "de": "Pilou Beach",
                 "hu": "Pilou Beach",
                 "ro": "Pilou Beach",
-                "en": "Pilou Beach"
+                "en": "Pilou Beach",
+                "fr": "Plage du Pilou"
               },
               "tip_5lang": {
                 "de": "Beachten Sie die frühe Dunkelheit gegen 17 Uhr; danach sinken die Temperaturen schnell und der Rückweg sollte gut beleuchtet sein.",
                 "hu": "Készüljön fel a korai sötétedésre; 17 óra után a strand elnéptelenedik és a hőmérséklet nagyon gyorsan a fagypont közelébe esik.",
                 "ro": "Aveți în vedere întunericul ce se lasă devreme, în jur de ora 17; după aceea, temperaturile scad rapid spre pragul de îngheț.",
-                "en": "Be mindful of the early darkness around 5 PM; temperatures drop quickly afterwards, and the walk back should be started in time."
+                "en": "Be mindful of the early darkness around 5 PM; temperatures drop quickly afterwards, and the walk back should be started in time.",
+                "fr": "Soyez attentif à l'obscurité précoce autour de 17:00 ; les températures chutent rapidement ensuite, et la marche de retour doit être entamée à temps."
               }
             }
           ]
@@ -314,7 +347,8 @@
             "de": "Villeneuve Salt Marshes",
             "hu": "Villeneuve Salt Marshes",
             "ro": "Villeneuve Salt Marshes",
-            "en": "Villeneuve Salt Marshes"
+            "en": "Villeneuve Salt Marshes",
+            "fr": "Marais salants de Villeneuve"
           },
           "coords": [
             3.848401,
@@ -329,7 +363,8 @@
             "de": "Entdecken Sie die faszinierenden Salinen von Villeneuve mit ihrer ökologischen Vielfalt und tragen Sie bequeme Wanderschuhe, um die rustikalen Wege leicht zu meistern.",
             "hu": "Fedezze fel a lenyűgöző Villeneuve sólepárlókat és azok egyedülálló ökológiai sokszínűségét, és viseljen kényelmes cipőt a rusztikus földutak könnyű bejárásához.",
             "ro": "Descoperiți fascinantele Mlaștini Sărate Villeneuve cu diversitatea lor ecologică unică și purtați încălțăminte confortabilă pentru a parcurge ușor potecile rustice.",
-            "en": "Discover the fascinating Villeneuve Salt Marshes with their unique ecological diversity, and wear comfortable walking shoes to navigate the rustic dirt pathways easily."
+            "en": "Discover the fascinating Villeneuve Salt Marshes with their unique ecological diversity, and wear comfortable walking shoes to navigate the rustic dirt pathways easily.",
+            "fr": "Découvrez les fascinants Marais salants de Villeneuve avec leur diversité écologique unique, et portez des chaussures de marche confortables pour circuler aisément sur les chemins de terre rustiques."
           }
         },
         {
@@ -337,7 +372,8 @@
             "de": "Arnel Pond",
             "hu": "Arnel Pond",
             "ro": "Arnel Pond",
-            "en": "Arnel Pond"
+            "en": "Arnel Pond",
+            "fr": "Étang d'Arnel"
           },
           "coords": [
             3.889998,
@@ -352,7 +388,8 @@
             "de": "Bewundern Sie den ruhigen Étang de l'Arnel, ein Paradies für Rosa Flamingos und Zugvögel, also bringen Sie unbedingt Ihr Fernglas für die beste Vogelbeobachtung mit.",
             "hu": "Csodálja meg a nyugodt Arnel-tavat, amely a rózsás flamingók és vándormadarak menedéke, ezért mindenképpen hozzon magával távcsövet a legjobb madármegfigyeléshez.",
             "ro": "Admirați liniștitul Iaz Arnel, un refugiu pentru păsările flamingo și alte specii migratoare, deci aduceți-vă binoclul pentru cea mai bună experiență de observare.",
-            "en": "Admire the tranquil Arnel Pond, a haven for pink flamingos and migratory birds, so bring your binoculars for the best early morning birdwatching experience."
+            "en": "Admire the tranquil Arnel Pond, a haven for pink flamingos and migratory birds, so bring your binoculars for the best early morning birdwatching experience.",
+            "fr": "Admirez le paisible Étang d'Arnel, refuge pour les flamants roses et les oiseaux migrateurs ; emportez vos jumelles pour une observation matinale optimale."
           }
         },
         {
@@ -360,7 +397,8 @@
             "de": "Pilou Footbridge",
             "hu": "Pilou Footbridge",
             "ro": "Pilou Footbridge",
-            "en": "Pilou Footbridge"
+            "en": "Pilou Footbridge",
+            "fr": "Passerelle du Pilou"
           },
           "coords": [
             3.880629,
@@ -375,7 +413,8 @@
             "de": "Überqueren Sie die ikonische Pilou-Fußgängerbrücke, die das Festland mit dem Küstenstreifen verbindet und großartige Fotomotive der umliegenden ruhigen Gewässer bietet.",
             "hu": "Keljen át az ikonikus Pilou gyaloghídon, amely elegánsan köti össze a szárazföldet a partszakasszal, így nagyszerű fotózási lehetőségeket kínál a nyugodt vizekről.",
             "ro": "Traversați faimoasa Pasarelă Pilou, care conectează elegant continentul de fâșia de coastă, oferind oportunități excelente de fotografiere a apelor liniștite.",
-            "en": "Cross the iconic Pilou Footbridge which elegantly connects the mainland to the coastal strip, offering great photo opportunities of the surrounding calm waters."
+            "en": "Cross the iconic Pilou Footbridge which elegantly connects the mainland to the coastal strip, offering great photo opportunities of the surrounding calm waters.",
+            "fr": "Traversez la emblématique Passerelle du Pilou qui relie élégamment le continent à la bande côtière, offrant de belles opportunités photo des eaux calmes environnantes."
           }
         },
         {
@@ -383,7 +422,8 @@
             "de": "Maguelone Cathedral",
             "hu": "Maguelone Cathedral",
             "ro": "Maguelone Cathedral",
-            "en": "Maguelone Cathedral"
+            "en": "Maguelone Cathedral",
+            "fr": "Cathédrale de Maguelone"
           },
           "coords": [
             3.883611,
@@ -398,7 +438,8 @@
             "de": "Erkunden Sie die majestätische romanische Kathedrale von Maguelone inmitten üppiger Weinberge, aber überprüfen Sie vorher die saisonal wechselnden Öffnungszeiten.",
             "hu": "Fedezze fel a fenséges román stílusú Maguelone-katedrálist a buja szőlőültetvények között, de indulás előtt ellenőrizze a szezonálisan változó nyitvatartási időt.",
             "ro": "Explorați maiestuoasa Catedrală romanică Maguelone înconjurată de podgorii luxuriante, dar nu uitați să verificați în prealabil programul de vizitare care variază.",
-            "en": "Explore the majestic Romanesque Maguelone Cathedral surrounded by lush vineyards, but remember to check the opening hours beforehand as they change seasonally."
+            "en": "Explore the majestic Romanesque Maguelone Cathedral surrounded by lush vineyards, but remember to check the opening hours beforehand as they change seasonally.",
+            "fr": "Explorez la majestueuse cathédrale romane de Maguelone entourée de vignobles luxuriants, mais pensez à vérifier les heures d'ouverture car elles varient selon la saison."
           }
         },
         {
@@ -406,7 +447,8 @@
             "de": "Plage de Maguelone",
             "hu": "Plage de Maguelone",
             "ro": "Plage de Maguelone",
-            "en": "Plage de Maguelone"
+            "en": "Plage de Maguelone",
+            "fr": "Plage de Maguelone"
           },
           "coords": [
             3.882348,
@@ -421,7 +463,8 @@
             "de": "Entspannen Sie am unberührten Plage de Maguelone, einem perfekten Naturstrand zum Schwimmen, also packen Sie ausreichend Sonnencreme ein, da der Schatten begrenzt ist.",
             "hu": "Pihenjen a festői Maguelone strandon, amely tökéletes egy kis úszáshoz, ezért csomagoljon bőségesen naptejet és vizet, mivel az árnyék meglehetősen korlátozott.",
             "ro": "Relaxați-vă pe Plaja Maguelone, o întindere naturală perfectă pentru înot, așa că luați cu dumneavoastră multă cremă de soare deoarece zonele cu umbră sunt limitate.",
-            "en": "Relax on the pristine Plage de Maguelone, an unspoiled natural beach perfect for swimming, so pack plenty of sunscreen and water as shade is quite limited here."
+            "en": "Relax on the pristine Plage de Maguelone, an unspoiled natural beach perfect for swimming, so pack plenty of sunscreen and water as shade is quite limited here.",
+            "fr": "Détendez‑vous sur la Plage de Maguelone, une plage naturelle immaculée parfaite pour la baignade ; prévoyez beaucoup d'écran solaire et d'eau car l'ombre y est très limitée."
           }
         },
         {
@@ -429,7 +472,8 @@
             "de": "Étang de Pierre Blanche",
             "hu": "Étang de Pierre Blanche",
             "ro": "Étang de Pierre Blanche",
-            "en": "Étang de Pierre Blanche"
+            "en": "Étang de Pierre Blanche",
+            "fr": "Étang de Pierre Blanche"
           },
           "coords": [
             3.860825,
@@ -444,7 +488,8 @@
             "de": "Genießen Sie die Aussicht am Étang de Pierre Blanche, einem friedlichen Naturschutzgebiet, und besuchen Sie es während der goldenen Stunde für atemberaubende Fotos.",
             "hu": "Élvezze a festői kilátást az Étang de Pierre Blanche békés természetvédelmi területén, és próbáljon az aranyórában érkezni a legszebb tájképek elkészítéséhez.",
             "ro": "Bucurați-vă de priveliștile pitorești la Étang de Pierre Blanche, o rezervație naturală pașnică, și încercați să o vizitați la apus pentru fotografii uluitoare.",
-            "en": "Enjoy the scenic views at Étang de Pierre Blanche, a peaceful natural reserve, and try visiting during the golden hour for the most breathtaking landscape photos."
+            "en": "Enjoy the scenic views at Étang de Pierre Blanche, a peaceful natural reserve, and try visiting during the golden hour for the most breathtaking landscape photos.",
+            "fr": "Profitez des vues pittoresques à l'Étang de Pierre Blanche, une réserve naturelle paisible ; tentez d'y aller pendant l'heure dorée pour les photos de paysage les plus saisissantes."
           }
         }
       ],
@@ -452,7 +497,8 @@
         "de": "Starten Sie Ihr Radabenteuer auf den malerischen Wegen der Salinen von Villeneuve. Fahren Sie zum Étang de l'Arnel und überqueren Sie gegen Mittag die Pilou-Brücke. Verbringen Sie den frühen Nachmittag mit der Erkundung der Kathedrale von Maguelone und entspannen Sie am Plage de Maguelone. Beenden Sie den Tag mit einer Fahrt zum Étang de Pierre Blanche in den schönen Abendfarben.",
         "hu": "Kezdje kerékpáros kalandját a Villeneuve sólepárlók festői ösvényein. Kerekezzen az Arnel-tó felé, majd dél körül keljen át a Pilou gyaloghídon. Kora délután fedezze fel a csodálatos Maguelone-katedrálist, és pihenjen egyet a Maguelone strandon. Fejezze be a napot az Étang de Pierre Blanche felé haladva, gyönyörködve az esti égbolt lenyűgöző színeiben.",
         "ro": "Începeți aventura pe bicicletă explorând traseele Mlaștinilor Sărate Villeneuve. Pedalați spre Iazul Arnel, apoi traversați Pasarela Pilou în jurul prânzului. Petreceți începutul după-amiezii explorând Catedrala Maguelone și odihnindu-vă la Plaja Maguelone. Încheiați ziua mergând spre Étang de Pierre Blanche, bucurându-vă de culorile superbe ale serii de pe coastă.",
-        "en": "Start your cycling adventure navigating the scenic trails of the Villeneuve Salt Marshes. Ride towards Arnel Pond to enjoy the vibrant wildlife before crossing the Pilou Footbridge around noon. Spend your early afternoon exploring the magnificent Maguelone Cathedral and resting at Plage de Maguelone. Finish your day biking towards Étang de Pierre Blanche, soaking in the beautiful evening hues."
+        "en": "Start your cycling adventure navigating the scenic trails of the Villeneuve Salt Marshes. Ride towards Arnel Pond to enjoy the vibrant wildlife before crossing the Pilou Footbridge around noon. Spend your early afternoon exploring the magnificent Maguelone Cathedral and resting at Plage de Maguelone. Finish your day biking towards Étang de Pierre Blanche, soaking in the beautiful evening hues.",
+        "fr": "Commencez votre aventure à vélo en empruntant les sentiers pittoresques des Marais salants de Villeneuve. Roulez vers l'Étang d'Arnel pour observer la faune avant de traverser la Passerelle du Pilou vers midi. Passez le début d'après‑midi à explorer la magnifique Cathédrale de Maguelone et à vous reposer sur la Plage de Maguelone. Terminez la journée en pédalant vers l'Étang de Pierre Blanche, en profitant des belles teintes du soir."
       },
       "variants": {
         "rainy": {
@@ -460,7 +506,8 @@
             "de": "Das Radfahren im Regen erfordert Vorsicht auf den teils schlammigen Wegen entlang der Salzwiesen. Am Vormittag wirkt die Landschaft silbern und weit. Mittags dient die Kathedrale als idealer Rastplatz, um die Kleidung zu trocknen. Nachmittags fordern Pfützen und nasser Asphalt Ihre volle Aufmerksamkeit, belohnen aber mit frischer Luft. Abends erreichen wir das Ziel und freuen uns auf eine warme Dusche nach der nassen Tour.",
             "hu": "A kerékpározás esőben óvatosságot igényel a mocsár menti utakon; a táj ilyenkor ezüstös színekben játszik. Délelőtt a szél és az eső frissítő, délben pedig a katedrális nyújt menedéket a pihenéshez. Délután a pocsolyák és a csúszós aszfalt miatt figyelni kell a kanyarokban. Este, a túra végén a meleg zuhany és egy forró ital lesz a legjobb jutalom a kitartásunkért.",
             "ro": "Ciclismul pe ploaie necesită prudență pe drumurile parțial noroioase de-a lungul mlaștinilor sărate. Dimineața, peisajul pare argintiu și vast. La prânz, catedrala servește ca loc de odihnă ideal pentru a vă usca hainele. După-amiaza, bălțile și asfaltul ud vă solicită atenția, dar vă răsplătesc cu aer proaspăt. Seara ajungem la destinație, bucurându-ne de un duș cald după turul umed.",
-            "en": "Cycling in the rain requires caution on the partly muddy paths along the salt marshes. In the morning, the landscape looks silvery and vast. At noon, the cathedral serves as an ideal rest stop to dry your clothes. In the afternoon, puddles and wet asphalt demand your full attention but reward you with fresh air. By evening, we reach our goal, looking forward to a warm shower after the wet tour."
+            "en": "Cycling in the rain requires caution on the partly muddy paths along the salt marshes. In the morning, the landscape looks silvery and vast. At noon, the cathedral serves as an ideal rest stop to dry your clothes. In the afternoon, puddles and wet asphalt demand your full attention but reward you with fresh air. By evening, we reach our goal, looking forward to a warm shower after the wet tour.",
+            "fr": "Le cyclisme sous la pluie exige de la prudence sur les chemins partiellement boueux des marais salants. Le matin, le paysage paraît argenté et vaste. À midi, la cathédrale est une halte idéale pour sécher vos vêtements. L'après‑midi, les flaques et l'asphalte mouillé demandent toute votre attention mais offrent un air revigorant. En soirée, nous atteignons notre but, impatients d'une douche chaude après la sortie humide."
           },
           "stops": [
             {
@@ -468,13 +515,15 @@
                 "de": "Villeneuve Salt Marshes",
                 "hu": "Villeneuve Salt Marshes",
                 "ro": "Villeneuve Salt Marshes",
-                "en": "Villeneuve Salt Marshes"
+                "en": "Villeneuve Salt Marshes",
+                "fr": "Marais salants de Villeneuve"
               },
               "tip_5lang": {
                 "de": "Die Regenwolken über den Salzwiesen wirken dramatisch; fahren Sie vorsichtig, da die Wege bei Nässe sehr rutschig werden können.",
                 "hu": "Az esőfelhők drámai látványt nyújtanak a mocsár felett; lassítson a kanyarokban, mert az út felülete ilyenkor rendkívül csúszós.",
                 "ro": "Norii de ploaie peste mlaștinile sărate par dramatici; pedalați cu prudență, deoarece potecile pot deveni foarte alunecoase când sunt ude.",
-                "en": "The rain clouds over the salt marshes look dramatic; ride carefully as the paths can become very slippery when wet."
+                "en": "The rain clouds over the salt marshes look dramatic; ride carefully as the paths can become very slippery when wet.",
+                "fr": "Les nuages de pluie sur les marais salants sont spectaculaires ; roulez prudemment car les sentiers peuvent devenir très glissants quand ils sont mouillés."
               }
             },
             {
@@ -482,13 +531,15 @@
                 "de": "Arnel Pond",
                 "hu": "Arnel Pond",
                 "ro": "Arnel Pond",
-                "en": "Arnel Pond"
+                "en": "Arnel Pond",
+                "fr": "Étang d'Arnel"
               },
               "tip_5lang": {
                 "de": "Nutzen Sie die überdachten Beobachtungspunkte für eine kurze Pause; so bleiben Sie trocken, während Sie die Tierwelt im Regen beobachten.",
                 "hu": "Használja a fedett megfigyelőpontokat egy rövid pihenőre; így szárazon maradhat, miközben az esőben ázó madárvilágot figyeli.",
                 "ro": "Folosiți punctele de observare acoperite pentru o scurtă pauză; astfel veți rămâne uscat în timp ce priviți fauna în ploaie.",
-                "en": "Use the covered observation points for a short break; this way you stay dry while watching the wildlife in the rain."
+                "en": "Use the covered observation points for a short break; this way you stay dry while watching the wildlife in the rain.",
+                "fr": "Utilisez les points d'observation couverts pour une courte pause ; ainsi vous restez au sec tout en observant la faune sous la pluie."
               }
             },
             {
@@ -496,13 +547,15 @@
                 "de": "Pilou Footbridge",
                 "hu": "Pilou Footbridge",
                 "ro": "Pilou Footbridge",
-                "en": "Pilou Footbridge"
+                "en": "Pilou Footbridge",
+                "fr": "Passerelle du Pilou"
               },
               "tip_5lang": {
                 "de": "Steigen Sie bei starkem Wind auf der Brücke lieber ab; die Kombination aus Nässe und Seitenwind kann das Gleichgewicht stören.",
                 "hu": "Erős szélben érdemes leszállni a nyeregről a hídon; a víz és az oldalszél kombinációja könnyen kibillentheti az egyensúlyából.",
                 "ro": "În caz de vânt puternic, este mai bine să coborâți de pe bicicletă pe pod; combinația de umezeală și vânt lateral vă poate dezechilibra.",
-                "en": "In case of strong winds, it's better to dismount on the bridge; the combination of wetness and crosswinds can affect your balance."
+                "en": "In case of strong winds, it's better to dismount on the bridge; the combination of wetness and crosswinds can affect your balance.",
+                "fr": "En cas de vents forts, il vaut mieux descendre de vélo sur la passerelle ; la combinaison de l'humidité et des vents latéraux peut nuire à l'équilibre."
               }
             },
             {
@@ -510,13 +563,15 @@
                 "de": "Maguelone Cathedral",
                 "hu": "Maguelone Cathedral",
                 "ro": "Maguelone Cathedral",
-                "en": "Maguelone Cathedral"
+                "en": "Maguelone Cathedral",
+                "fr": "Cathédrale de Maguelone"
               },
               "tip_5lang": {
                 "de": "Die Kathedrale bietet einen sicheren Abstellplatz und Schutz; nutzen Sie die Zeit für eine ausführliche Innenbesichtigung im Trockenen.",
                 "hu": "A katedrális biztonságos menedéket nyújt; használja ki az időt egy alapos benti körútra, amíg kint elvonul a leghevesebb esőzés.",
                 "ro": "Catedrala oferă un adăpost sigur; profitați de timp pentru o vizită detaliată a interiorului, ferit de ploaia de afară.",
-                "en": "The cathedral offers safe shelter; use the time for a detailed indoor tour while waiting for the heaviest rain to pass."
+                "en": "The cathedral offers safe shelter; use the time for a detailed indoor tour while waiting for the heaviest rain to pass.",
+                "fr": "La cathédrale offre un abri sûr ; profitez‑en pour une visite intérieure détaillée en attendant que la pluie la plus forte cesse."
               }
             },
             {
@@ -524,13 +579,15 @@
                 "de": "Plage de Maguelone",
                 "hu": "Plage de Maguelone",
                 "ro": "Plage de Maguelone",
-                "en": "Plage de Maguelone"
+                "en": "Plage de Maguelone",
+                "fr": "Plage de Maguelone"
               },
               "tip_5lang": {
                 "de": "Vermeiden Sie das Fahren direkt im lockeren Sand; bei Regen wird dieser extrem schwerfällig und kann die Kette Ihres Rades verschmutzen.",
                 "hu": "Kerülje a laza homokban való tekerést; esőben a homok rátapad a láncra és a kerekekre, ami nehezíti a haladást és rontja a váltót.",
                 "ro": "Evitați să pedalați direct prin nisipul afânat; când plouă, acesta devine extrem de greoi și poate murdări lanțul bicicletei.",
-                "en": "Avoid riding directly through loose sand; when it rains, it becomes extremely heavy and can foul your bike's chain and gears."
+                "en": "Avoid riding directly through loose sand; when it rains, it becomes extremely heavy and can foul your bike's chain and gears.",
+                "fr": "Évitez de rouler directement dans le sable meuble ; lorsqu'il pleut, il devient extrêmement lourd et peut encrasser la chaîne et les dérailleurs."
               }
             },
             {
@@ -538,13 +595,15 @@
                 "de": "Étang de Pierre Blanche",
                 "hu": "Étang de Pierre Blanche",
                 "ro": "Étang de Pierre Blanche",
-                "en": "Étang de Pierre Blanche"
+                "en": "Étang de Pierre Blanche",
+                "fr": "Étang de Pierre Blanche"
               },
               "tip_5lang": {
                 "de": "Das Ufer kann schlammig sein; bleiben Sie auf den befestigten Abschnitten, um nicht mit blockierten Rädern im Matsch stecken zu bleiben.",
                 "hu": "A tópart ilyenkor sáros lehet; maradjon a kövezett szakaszokon, hogy elkerülje a kerekek elakadását a mély parti sárban.",
                 "ro": "Malul poate fi noroios; rămâneți pe secțiunile pavate pentru a evita să rămâneți blocat în noroi cu roțile bicicletei.",
-                "en": "The lakeshore can be muddy; stay on the paved sections to avoid getting stuck in the mud with blocked wheels."
+                "en": "The lakeshore can be muddy; stay on the paved sections to avoid getting stuck in the mud with blocked wheels.",
+                "fr": "Le bord du lac peut être boueux ; restez sur les sections pavées pour éviter de vous enliser avec des roues bloquées."
               }
             }
           ]
@@ -554,7 +613,8 @@
             "de": "Im Winter erfordert das Radfahren gute Handschuhe gegen den schneidenden Fahrtwind. Am Morgen glitzert der Reif auf den Wegen der Salzwiesen. Mittags wärmen wir uns kurz in der Kathedrale auf, bevor wir die klare Seeluft weiter genießen. Der Nachmittag bietet spektakuläre Lichtspiele über den Lagunen bei tiefstehender Sonne. Wegen der frühen Dunkelheit beenden wir die Tour vor 17 Uhr, um sicher und warm zurückzukehren.",
             "hu": "Télen a kerékpározáshoz elengedhetetlen a jó kesztyű a metsző menetszél ellen. Reggel a dér csillog a mocsár menti utakon, a táj néma és tiszta. Délben rövid pihenőt tartunk a katedrálisnál, hogy felmelegedjünk a továbbindulás előtt. Délután a lemenő nap fénye aranyba vonja a lagúnákat. A korai sötétedés miatt 17 óra előtt befejezzük a túrát, hogy még világosban hazaérjünk.",
             "ro": "Iarna, ciclismul necesită mănuși bune împotriva vântului tăios de rulare. Dimineața, bruma sclipeste pe potecile mlaștinilor. La prânz, ne încălzim scurt în catedrală înainte de a continua să ne bucurăm de aerul curat al mării. După-amiaza oferă jocuri spectaculoase de lumină peste lagune. Din cauza întunericului timpuriu, încheiem turul înainte de ora 17 pentru a ne întoarce în siguranță.",
-            "en": "In winter, cycling requires good gloves against the biting wind. In the morning, frost sparkles on the paths of the salt marshes. At noon, we warm up briefly in the cathedral before continuing to enjoy the clear sea air. The afternoon offers spectacular light displays over the lagoons with the low sun. Due to the early darkness, we end the tour before 5 PM to return safely and warmly."
+            "en": "In winter, cycling requires good gloves against the biting wind. In the morning, frost sparkles on the paths of the salt marshes. At noon, we warm up briefly in the cathedral before continuing to enjoy the clear sea air. The afternoon offers spectacular light displays over the lagoons with the low sun. Due to the early darkness, we end the tour before 5 PM to return safely and warmly.",
+            "fr": "En hiver, le vélo nécessite de bons gants contre le vent mordant. Le matin, le gel scintille sur les chemins des marais salants. À midi, nous nous réchauffons brièvement dans la cathédrale avant de continuer à profiter de l'air marin clair. L'après‑midi offre des lumières spectaculaires sur les lagunes avec le soleil bas. À cause de l'obscurité précoce, nous terminons la sortie avant 17:00 pour rentrer en toute sécurité et au chaud."
           },
           "stops": [
             {
@@ -562,13 +622,15 @@
                 "de": "Villeneuve Salt Marshes",
                 "hu": "Villeneuve Salt Marshes",
                 "ro": "Villeneuve Salt Marshes",
-                "en": "Villeneuve Salt Marshes"
+                "en": "Villeneuve Salt Marshes",
+                "fr": "Marais salants de Villeneuve"
               },
               "tip_5lang": {
                 "de": "Die Farben der Marschlandschaft sind im Winter pastellartig; tragen Sie winddichte Kleidung, da der Fahrtwind hier besonders auskühlt.",
                 "hu": "A mocsárvilág színei télen pasztellé válnak; viseljen szélálló öltözetet, mert a nyílt terepen a menetszél nagyon hamar lehűti a testet.",
                 "ro": "Culorile mlaștinii sunt pastelate iarna; purtați haine rezistente la vânt, deoarece curentul de aer vă poate răci foarte repede aici.",
-                "en": "The colors of the marshland are pastel-like in winter; wear windproof clothing as the riding wind cools you down very quickly here."
+                "en": "The colors of the marshland are pastel-like in winter; wear windproof clothing as the riding wind cools you down very quickly here.",
+                "fr": "Les couleurs des marais sont pastel en hiver ; portez des vêtements coupe‑vent car le vent de la route refroidit très rapidement."
               }
             },
             {
@@ -576,13 +638,15 @@
                 "de": "Arnel Pond",
                 "hu": "Arnel Pond",
                 "ro": "Arnel Pond",
-                "en": "Arnel Pond"
+                "en": "Arnel Pond",
+                "fr": "Étang d'Arnel"
               },
               "tip_5lang": {
                 "de": "Die feuchte Kälte am Wasser ist intensiv; eine Thermoskanne mit Tee in der Packtasche ist ein wertvoller Begleiter für die Beobachtungspause.",
                 "hu": "A vízparti hideg ilyenkor intenzív; egy termosz meleg tea a táskában sokat segít, hogy tovább élvezhesse a téli madármegfigyelést.",
                 "ro": "Frigul umed de lângă apă este intens; un termos cu ceai în geanta de bicicletă este un companion valoros pentru pauzele de observare.",
-                "en": "The damp cold by the water is intense; a thermos with tea in your bike bag is a valuable companion for observation breaks."
+                "en": "The damp cold by the water is intense; a thermos with tea in your bike bag is a valuable companion for observation breaks.",
+                "fr": "Le froid humide au bord de l'eau est intense ; une thermos de thé dans votre sac à vélo est un compagnon précieux pour les pauses d'observation."
               }
             },
             {
@@ -590,13 +654,15 @@
                 "de": "Pilou Footbridge",
                 "hu": "Pilou Footbridge",
                 "ro": "Pilou Footbridge",
-                "en": "Pilou Footbridge"
+                "en": "Pilou Footbridge",
+                "fr": "Passerelle du Pilou"
               },
               "tip_5lang": {
                 "de": "Achten Sie auf mögliche Glätte auf der Holzkonstruktion; fahren Sie langsam und vorausschauend über die Brücke in die Lagune hinein.",
                 "hu": "Ügyeljen az esetleges jegesedésre a fa szerkezeten; lassítson le a hídon, mert a pára miatt a felület váratlanul csúszós lehet.",
                 "ro": "Atenție la posibila polei pe structura de lemn; traversați podul încet și cu prudență pentru a intra în siguranță în lagună.",
-                "en": "Watch out for potential frost or ice on the wooden structure; ride slowly and carefully across the bridge into the lagoon area."
+                "en": "Watch out for potential frost or ice on the wooden structure; ride slowly and carefully across the bridge into the lagoon area.",
+                "fr": "Attention au gel ou à la glace possible sur la structure en bois ; traversez lentement et prudemment à vélo."
               }
             },
             {
@@ -604,13 +670,15 @@
                 "de": "Maguelone Cathedral",
                 "hu": "Maguelone Cathedral",
                 "ro": "Maguelone Cathedral",
-                "en": "Maguelone Cathedral"
+                "en": "Maguelone Cathedral",
+                "fr": "Cathédrale de Maguelone"
               },
               "tip_5lang": {
                 "de": "Nutzen Sie den windgeschützten Garten für eine Rast in der Mittagssonne; die alten Mauern speichern oft ein wenig Restwärme.",
                 "hu": "Használja a szélvédett belső kertet a déli napsütésben; a régi kőfalak gyakran tárolnak némi hőt, ami jól esik a biciklizés után.",
                 "ro": "Folosiți grădina ferită de vânt pentru o pauză în soarele amiezii; zidurile vechi păstrează adesea puțină căldură reziduală.",
-                "en": "Use the wind-sheltered garden for a rest in the midday sun; the old walls often store a bit of residual heat which feels great."
+                "en": "Use the wind-sheltered garden for a rest in the midday sun; the old walls often store a bit of residual heat which feels great.",
+                "fr": "Utilisez le jardin abrité du vent pour vous reposer au soleil de midi ; les vieux murs retiennent souvent un peu de chaleur résiduelle agréable."
               }
             },
             {
@@ -618,13 +686,15 @@
                 "de": "Plage de Maguelone",
                 "hu": "Plage de Maguelone",
                 "ro": "Plage de Maguelone",
-                "en": "Plage de Maguelone"
+                "en": "Plage de Maguelone",
+                "fr": "Plage de Maguelone"
               },
               "tip_5lang": {
                 "de": "Die klare Winterluft bietet weite Sichten bis zum Horizont; stellen Sie sicher, dass Ihre Fahrradbeleuchtung für den Rückweg funktioniert.",
                 "hu": "A tiszta téli levegőben messzire ellátni; ellenőrizze a kerékpár világítását a visszautazáshoz, mert hamarosan sötétedni kezd.",
                 "ro": "Aerul clar de iarnă oferă vederi largi până la orizont; asigurați-vă că luminile bicicletei funcționează pentru drumul de întoarcere.",
-                "en": "The clear winter air offers wide views to the horizon; ensure your bike lights are working for the return trip as dusk falls fast."
+                "en": "The clear winter air offers wide views to the horizon; ensure your bike lights are working for the return trip as dusk falls fast.",
+                "fr": "L'air clair d'hiver offre de larges perspectives jusqu'à l'horizon ; vérifiez le fonctionnement de vos lumières de vélo pour le retour car le crépuscule tombe vite."
               }
             },
             {
@@ -632,13 +702,15 @@
                 "de": "Étang de Pierre Blanche",
                 "hu": "Étang de Pierre Blanche",
                 "ro": "Étang de Pierre Blanche",
-                "en": "Étang de Pierre Blanche"
+                "en": "Étang de Pierre Blanche",
+                "fr": "Étang de Pierre Blanche"
               },
               "tip_5lang": {
                 "de": "Der eisige Wind am Seeufer kann die Fahrt erschweren; planen Sie den Rückweg so, dass Sie keinem starken Gegenwind ausgesetzt sind.",
                 "hu": "A tóparti jeges szél megnehezítheti a haladást; úgy tervezze a visszautat, hogy ne kelljen hosszú ideig erős szembeszélben tekernie.",
                 "ro": "Vântul înghețat de pe malul lacului poate îngreuna deplasarea; planificați drumul de întoarcere pentru a evita vântul puternic din față.",
-                "en": "The icy wind at the lakeshore can make riding difficult; plan your return route to avoid being exposed to strong headwinds for long."
+                "en": "The icy wind at the lakeshore can make riding difficult; plan your return route to avoid being exposed to strong headwinds for long.",
+                "fr": "Le vent glacial au bord du lac peut rendre la route difficile ; planifiez votre itinéraire de retour pour éviter d'être exposé longtemps à des vents de face violents."
               }
             }
           ]
@@ -658,7 +730,8 @@
             "de": "Les Rochers de Maguelone - Explor’parc",
             "hu": "Les Rochers de Maguelone - Explor’parc",
             "ro": "Les Rochers de Maguelone - Explor’parc",
-            "en": "Les Rochers de Maguelone - Explor’parc"
+            "en": "Les Rochers de Maguelone - Explor’parc",
+            "fr": "Les Rochers de Maguelone - Explor’parc"
           },
           "coords": [
             3.829077,
@@ -673,7 +746,8 @@
             "de": "Besuchen Sie mit der Familie den Explor'parc für ein aufregendes Abenteuer in den Bäumen, aber buchen Sie Ihre Tickets im Voraus online, um Wartezeiten zu vermeiden.",
             "hu": "Hozza el a családot az Explor'parcba egy izgalmas fák közötti kalandra, de mindenképpen foglalja le előre online a jegyeit a kívánt időpont biztosítása érdekében.",
             "ro": "Aduceți familia la Explor'parc pentru o aventură palpitantă printre copaci, dar asigurați-vă că rezervați biletele online în avans pentru a vă asigura locul preferat.",
-            "en": "Bring the family to Explor’parc for a thrilling adventure among the trees, but make sure to book your tickets in advance online to secure your preferred time slot."
+            "en": "Bring the family to Explor’parc for a thrilling adventure among the trees, but make sure to book your tickets in advance online to secure your preferred time slot.",
+            "fr": "Amenez la famille à Explor’parc pour une aventure palpitante dans les arbres, mais pensez à réserver vos billets en ligne à l'avance pour garantir le créneau souhaité."
           }
         },
         {
@@ -681,7 +755,8 @@
             "de": "Les Rochers de Maguelone - Accro’parc",
             "hu": "Les Rochers de Maguelone - Accro’parc",
             "ro": "Les Rochers de Maguelone - Accro’parc",
-            "en": "Les Rochers de Maguelone - Accro’parc"
+            "en": "Les Rochers de Maguelone - Accro’parc",
+            "fr": "Les Rochers de Maguelone - Accro’parc"
           },
           "coords": [
             3.827765,
@@ -696,7 +771,8 @@
             "de": "Fordern Sie sich auf den Seilgärten im Accro'parc in wunderschöner Naturkulisse heraus und tragen Sie flexible Kleidung, um die sportlichen Hindernisse zu meistern.",
             "hu": "Tegye próbára magát az Accro'parc kötélpályáin egy gyönyörű természeti környezetben, és viseljen rugalmas ruházatot, hogy maximálisan élvezze az akadályokat.",
             "ro": "Provocați-vă pe traseele cu frânghii suspendate de la Accro'parc într-un cadru natural minunat și purtați haine flexibile pentru a vă bucura de toate obstacolele.",
-            "en": "Challenge yourself on the elevated rope courses at Accro’parc in a beautiful natural setting, and wear flexible clothing to fully enjoy the athletic obstacles."
+            "en": "Challenge yourself on the elevated rope courses at Accro’parc in a beautiful natural setting, and wear flexible clothing to fully enjoy the athletic obstacles.",
+            "fr": "Mettez‑vous au défi sur les parcours accrobranche d'Accro’parc dans un cadre naturel magnifique, et portez des vêtements souples pour profiter pleinement des obstacles athlétiques."
           }
         },
         {
@@ -704,7 +780,8 @@
             "de": "Étang de Vic",
             "hu": "Étang de Vic",
             "ro": "Étang de Vic",
-            "en": "Étang de Vic"
+            "en": "Étang de Vic",
+            "fr": "Étang de Vic"
           },
           "coords": [
             3.835036,
@@ -719,7 +796,8 @@
             "de": "Erleben Sie die Weite des Étang de Vic, einer Lagune mit reichem Meeresleben, und halten Sie Ausschau nach traditionellen Fischerbooten, die sanft über das Wasser gleiten.",
             "hu": "Gyönyörködjön a tengeri élőlényekben gazdag Étang de Vic kiterjedt parti lagúnájában, és figyelje a vízen lágyan sikló hagyományos halászhajók romantikus látványát.",
             "ro": "Admirați imensitatea Étang de Vic, o lagună de coastă plină de viață marină, și căutați bărcile tradiționale de pescuit care alunecă lin pe suprafața apei liniștite.",
-            "en": "Take in the vastness of Étang de Vic, an expansive coastal lagoon rich in marine life, and look out for traditional fishing boats gliding smoothly across the water."
+            "en": "Take in the vastness of Étang de Vic, an expansive coastal lagoon rich in marine life, and look out for traditional fishing boats gliding smoothly across the water.",
+            "fr": "Admirez l'immensité de l'Étang de Vic, une vaste lagune côtière riche en vie marine, et guettez les barques de pêche traditionnelles glissant paisiblement sur l'eau."
           }
         },
         {
@@ -727,7 +805,8 @@
             "de": "Villeneuve Salt Marshes",
             "hu": "Villeneuve Salt Marshes",
             "ro": "Villeneuve Salt Marshes",
-            "en": "Villeneuve Salt Marshes"
+            "en": "Villeneuve Salt Marshes",
+            "fr": "Marais salants de Villeneuve"
           },
           "coords": [
             3.848401,
@@ -742,7 +821,8 @@
             "de": "Entdecken Sie die faszinierenden Salinen von Villeneuve mit ihrer ökologischen Vielfalt und tragen Sie bequeme Wanderschuhe, um die rustikalen Wege leicht zu meistern.",
             "hu": "Fedezze fel a lenyűgöző Villeneuve sólepárlókat és azok egyedülálló ökológiai sokszínűségét, és viseljen kényelmes cipőt a rusztikus földutak könnyű bejárásához.",
             "ro": "Descoperiți fascinantele Mlaștini Sărate Villeneuve cu diversitatea lor ecologică unică și purtați încălțăminte confortabilă pentru a parcurge ușor potecile rustice.",
-            "en": "Discover the fascinating Villeneuve Salt Marshes with their unique ecological diversity, and wear comfortable walking shoes to navigate the rustic dirt pathways easily."
+            "en": "Discover the fascinating Villeneuve Salt Marshes with their unique ecological diversity, and wear comfortable walking shoes to navigate the rustic dirt pathways easily.",
+            "fr": "Découvrez les fascinants marais salants de Villeneuve avec leur diversité écologique unique, et portez des chaussures de marche confortables pour emprunter aisément les sentiers de terre rustiques."
           }
         },
         {
@@ -750,7 +830,8 @@
             "de": "Pilou Footbridge",
             "hu": "Pilou Footbridge",
             "ro": "Pilou Footbridge",
-            "en": "Pilou Footbridge"
+            "en": "Pilou Footbridge",
+            "fr": "Passerelle du Pilou"
           },
           "coords": [
             3.880629,
@@ -765,7 +846,8 @@
             "de": "Überqueren Sie die ikonische Pilou-Fußgängerbrücke, die das Festland mit dem Küstenstreifen verbindet und großartige Fotomotive der umliegenden ruhigen Gewässer bietet.",
             "hu": "Keljen át az ikonikus Pilou gyaloghídon, amely elegánsan köti össze a szárazföldet a partszakasszal, így nagyszerű fotózási lehetőségeket kínál a nyugodt vizekről.",
             "ro": "Traversați faimoasa Pasarelă Pilou, care conectează elegant continentul de fâșia de coastă, oferind oportunități excelente de fotografiere a apelor liniștite.",
-            "en": "Cross the iconic Pilou Footbridge which elegantly connects the mainland to the coastal strip, offering great photo opportunities of the surrounding calm waters."
+            "en": "Cross the iconic Pilou Footbridge which elegantly connects the mainland to the coastal strip, offering great photo opportunities of the surrounding calm waters.",
+            "fr": "Traversez la passerelle emblématique du Pilou qui relie élégamment le continent à la bande côtière, offrant d'excellentes opportunités de photos des eaux calmes environnantes."
           }
         },
         {
@@ -773,7 +855,8 @@
             "de": "Maguelone Cathedral",
             "hu": "Maguelone Cathedral",
             "ro": "Maguelone Cathedral",
-            "en": "Maguelone Cathedral"
+            "en": "Maguelone Cathedral",
+            "fr": "Cathédrale de Maguelone"
           },
           "coords": [
             3.883611,
@@ -788,7 +871,8 @@
             "de": "Erkunden Sie die majestätische romanische Kathedrale von Maguelone inmitten üppiger Weinberge, aber überprüfen Sie vorher die saisonal wechselnden Öffnungszeiten.",
             "hu": "Fedezze fel a fenséges román stílusú Maguelone-katedrálist a buja szőlőültetvények között, de indulás előtt ellenőrizze a szezonálisan változó nyitvatartási időt.",
             "ro": "Explorați maiestuoasa Catedrală romanică Maguelone înconjurată de podgorii luxuriante, dar nu uitați să verificați în prealabil programul de vizitare care variază.",
-            "en": "Explore the majestic Romanesque Maguelone Cathedral surrounded by lush vineyards, but remember to check the opening hours beforehand as they change seasonally."
+            "en": "Explore the majestic Romanesque Maguelone Cathedral surrounded by lush vineyards, but remember to check the opening hours beforehand as they change seasonally.",
+            "fr": "Explorez la majestueuse cathédrale romane de Maguelone entourée de vignes luxuriantes, mais pensez à vérifier les horaires d'ouverture à l'avance car ils varient selon la saison."
           }
         },
         {
@@ -796,7 +880,8 @@
             "de": "Plage de Maguelone",
             "hu": "Plage de Maguelone",
             "ro": "Plage de Maguelone",
-            "en": "Plage de Maguelone"
+            "en": "Plage de Maguelone",
+            "fr": "Plage de Maguelone"
           },
           "coords": [
             3.882348,
@@ -811,7 +896,8 @@
             "de": "Entspannen Sie am unberührten Plage de Maguelone, einem perfekten Naturstrand zum Schwimmen, also packen Sie ausreichend Sonnencreme ein, da der Schatten begrenzt ist.",
             "hu": "Pihenjen a festői Maguelone strandon, amely tökéletes egy kis úszáshoz, ezért csomagoljon bőségesen naptejet és vizet, mivel az árnyék meglehetősen korlátozott.",
             "ro": "Relaxați-vă pe Plaja Maguelone, o întindere naturală perfectă pentru înot, așa că luați cu dumneavoastră multă cremă de soare deoarece zonele cu umbră sunt limitate.",
-            "en": "Relax on the pristine Plage de Maguelone, an unspoiled natural beach perfect for swimming, so pack plenty of sunscreen and water as shade is quite limited here."
+            "en": "Relax on the pristine Plage de Maguelone, an unspoiled natural beach perfect for swimming, so pack plenty of sunscreen and water as shade is quite limited here.",
+            "fr": "Détendez-vous sur la plage préservée de Maguelone, un lieu naturel intact idéal pour la baignade ; emportez beaucoup de crème solaire et d'eau car l'ombre y est limitée."
           }
         }
       ],
@@ -819,7 +905,8 @@
         "de": "Beginnen Sie den Tag mit Familienspaß im Explor'parc und Accro'parc in üppiger Waldumgebung. Fahren Sie zum Étang de Vic für spektakuläre Mittagsaussichten und dann zu den Salinen von Villeneuve. Parken Sie nachmittags nahe der Pilou-Brücke, um zur historischen Kathedrale zu spazieren. Beenden Sie Ihr Abenteuer mit einem friedlichen Abend am Plage de Maguelone.",
         "hu": "Indítsa a napot családi szórakozással az Explor'parc és Accro'parc erdei környezetében. Vezessen el az Étang de Vic lagúnához, majd látogasson el a Villeneuve sólepárlókhoz. Délután parkoljon le a Pilou gyaloghíd közelében, hogy elsétáljon a történelmi Maguelone-katedrálishoz. Zárja kalandos napját egy békés esti pihenéssel a festői Maguelone strandon.",
         "ro": "Începeți ziua cu distracție în familie la Explor'parc și Accro'parc. Conduceți spre Étang de Vic pentru vederi spectaculoase, apoi vizitați Mlaștinile Sărate Villeneuve. După-amiaza, parcați lângă Pasarela Pilou pentru a merge pe jos până la Catedrala istorică Maguelone. Încheiați aventura cu o seară liniștită și relaxantă ascultând valurile la Plaja Maguelone.",
-        "en": "Kick off the day with family fun at Explor’parc and Accro’parc, enjoying the lush forest environment. Drive out to Étang de Vic for spectacular midday views over the lagoon, then head to the Villeneuve Salt Marshes. In the afternoon, park near the Pilou Footbridge to walk towards the historic Maguelone Cathedral. Conclude your adventure with a peaceful evening relaxing at Plage de Maguelone."
+        "en": "Kick off the day with family fun at Explor’parc and Accro’parc, enjoying the lush forest environment. Drive out to Étang de Vic for spectacular midday views over the lagoon, then head to the Villeneuve Salt Marshes. In the afternoon, park near the Pilou Footbridge to walk towards the historic Maguelone Cathedral. Conclude your adventure with a peaceful evening relaxing at Plage de Maguelone.",
+        "fr": "Commencez la journée en famille à Explor’parc et Accro’parc, dans le cadre boisé. Roulez jusqu'à l'Étang de Vic pour des vues spectaculaires sur la lagune à midi, puis dirigez-vous vers les marais salants de Villeneuve. L'après-midi, garez-vous près de la passerelle du Pilou pour marcher vers la cathédrale historique de Maguelone. Terminez l'aventure par une soirée paisible à la Plage de Maguelone."
       },
       "variants": {
         "rainy": {
@@ -827,7 +914,8 @@
             "de": "Das Auto ist bei Regen die komfortabelste Wahl für diese Küstentour. Vormittags besuchen wir den Erlebnispark, wo das Blätterdach erste Tropfen abhält. Mittags parken wir nahe der Kathedrale und nutzen kurze Regenpausen für Besichtigungen. Nachmittags genießen wir den Blick auf die stürmischen Lagunen aus dem trockenen Fahrzeug. Der Abend klingt gemütlich aus, während der Regen gegen die Scheiben trommelt.",
             "hu": "Az autó a legkényelmesebb választás az esős tengerparti túrához. Délelőtt az élményparkban a fák lombjai felfogják az eső egy részét. Délben a katedrálishoz közel parkolunk, kihasználva a szüneteket a rövid sétákhoz. Délután a fűtött utastérből csodáljuk a viharos lagúnák látványát. Az este békésen telik a városban, miközben hallgatjuk az ablakon kopogó eső nyugtató hangját.",
             "ro": "Mașina este cea mai confortabilă alegere pentru acest tur de coastă pe ploaie. Dimineața vizităm parcul de aventură, unde coronamentul copacilor oprește primele picături. La prânz parcăm aproape de catedrală și profităm de pauzele scurte de ploaie. După-amiaza admirăm lagunele furtunoase din interiorul uscat al vehiculului. Seara se încheie plăcut, în timp ce ploaia bate în parbriz.",
-            "en": "The car is the most comfortable choice for this coastal tour in the rain. In the morning, we visit the adventure park where the canopy holds off the first drops. At noon, we park near the cathedral and use short breaks in the rain for sightseeing. In the afternoon, we enjoy the view of the stormy lagoons from the dry vehicle. The evening ends cozily while the rain drums against the windows."
+            "en": "The car is the most comfortable choice for this coastal tour in the rain. In the morning, we visit the adventure park where the canopy holds off the first drops. At noon, we park near the cathedral and use short breaks in the rain for sightseeing. In the afternoon, we enjoy the view of the stormy lagoons from the dry vehicle. The evening ends cozily while the rain drums against the windows.",
+            "fr": "La voiture est le choix le plus confortable pour cette balade côtière sous la pluie. Le matin, nous visitons le parc d'aventure où la canopée retarde les premières gouttes. À midi, nous nous garons près de la cathédrale et profitons des accalmies pour les visites. L'après-midi, nous contemplons les lagunes orageuses depuis le véhicule sec. La soirée se termine au chaud pendant que la pluie tambourine contre les vitres."
           },
           "stops": [
             {
@@ -835,13 +923,15 @@
                 "de": "Les Rochers de Maguelone - Explor’parc",
                 "hu": "Les Rochers de Maguelone - Explor’parc",
                 "ro": "Les Rochers de Maguelone - Explor’parc",
-                "en": "Les Rochers de Maguelone - Explor’parc"
+                "en": "Les Rochers de Maguelone - Explor’parc",
+                "fr": "Les Rochers de Maguelone - Explor’parc"
               },
               "tip_5lang": {
                 "de": "Die Waldwege sind im Regen stimmungsvoll, aber achten Sie auf rutschige Wurzeln beim kurzen Gang vom Parkplatz zum Info-Point.",
                 "hu": "Az erdei ösvények hangulatosak az esőben; figyeljen a csúszós gyökerekre és kövekre a parkolótól az információs pontig tartó úton.",
                 "ro": "Potecile din pădure sunt pitorești pe ploaie, dar atenție la rădăcinile alunecoase în timpul scurtului drum de la parcare la info-point.",
-                "en": "The forest paths are atmospheric in the rain, but watch out for slippery roots during the short walk from the parking lot to the info point."
+                "en": "The forest paths are atmospheric in the rain, but watch out for slippery roots during the short walk from the parking lot to the info point.",
+                "fr": "Les sentiers forestiers sont atmosphériques sous la pluie, mais attention aux racines glissantes lors de la courte promenade depuis le parking jusqu'au point d'information."
               }
             },
             {
@@ -849,13 +939,15 @@
                 "de": "Les Rochers de Maguelone - Accro’parc",
                 "hu": "Les Rochers de Maguelone - Accro’parc",
                 "ro": "Les Rochers de Maguelone - Accro’parc",
-                "en": "Les Rochers de Maguelone - Accro’parc"
+                "en": "Les Rochers de Maguelone - Accro’parc",
+                "fr": "Les Rochers de Maguelone - Accro’parc"
               },
               "tip_5lang": {
                 "de": "Bei starkem Regen können Kletterparcours geschlossen sein; prüfen Sie Alternativen im Park, die unter dem Blätterdach geschützt liegen.",
                 "hu": "Heves esőben a mászópályák lezárhatnak; válassza a fák alatt védettebb sétányokat, és készüljön vízálló lábbelivel a sár miatt.",
                 "ro": "În caz de ploaie torențială, traseele de cățărare pot fi închise; căutați alternative în parc care sunt protejate sub coronamentul copacilor.",
-                "en": "In heavy rain, climbing courses may be closed; check for alternatives in the park that are better protected under the tree canopy."
+                "en": "In heavy rain, climbing courses may be closed; check for alternatives in the park that are better protected under the tree canopy.",
+                "fr": "Par fortes pluies, les parcours d'accrobranche peuvent être fermés ; renseignez-vous sur des alternatives dans le parc mieux protégées sous la canopée."
               }
             },
             {
@@ -863,13 +955,15 @@
                 "de": "Étang de Vic",
                 "hu": "Étang de Vic",
                 "ro": "Étang de Vic",
-                "en": "Étang de Vic"
+                "en": "Étang de Vic",
+                "fr": "Étang de Vic"
               },
               "tip_5lang": {
                 "de": "Bewundern Sie die stürmische Lagune direkt aus dem Auto; an den Aussichtspunkten sollten Sie nur kurz aussteigen, da der Wind sehr böig ist.",
                 "hu": "Csodálja a viharos lagúnát az autó kényelméből; a kilátópontoknál csak rövid időre szálljon ki a hirtelen felerősödő széllökések miatt.",
                 "ro": "Admirați laguna furtunoasă direct din mașină; coborâți doar scurt la punctele de belvedere, deoarece vântul poate fi foarte puternic.",
-                "en": "Admire the stormy lagoon directly from the car; only get out briefly at the viewpoints, as the wind can be very gusty and unpredictable."
+                "en": "Admire the stormy lagoon directly from the car; only get out briefly at the viewpoints, as the wind can be very gusty and unpredictable.",
+                "fr": "Admirez la lagune agitée directement depuis la voiture ; ne sortez que brièvement aux points de vue, car le vent peut être très rafraîchissant et imprévisible."
               }
             },
             {
@@ -877,13 +971,15 @@
                 "de": "Villeneuve Salt Marshes",
                 "hu": "Villeneuve Salt Marshes",
                 "ro": "Villeneuve Salt Marshes",
-                "en": "Villeneuve Salt Marshes"
+                "en": "Villeneuve Salt Marshes",
+                "fr": "Marais salants de Villeneuve"
               },
               "tip_5lang": {
                 "de": "Die Zufahrtswege können Pfützen aufweisen; fahren Sie langsam, um Schlammspritzer zu vermeiden und die Aussicht im Regen zu genießen.",
                 "hu": "A bekötőutakon nagy pocsolyák lehetnek; hajtson lassan a sáros szakaszokon, hogy tisztán tartsa az autót és élvezze a tájat.",
                 "ro": "Drumurile de acces pot avea bălți mari; conduceți încet pentru a evita stropirea cu noroi și pentru a vă bucura de peisaj pe ploaie.",
-                "en": "The access roads may have large puddles; drive slowly to avoid mud splashes and to enjoy the unique marshland views in the rain."
+                "en": "The access roads may have large puddles; drive slowly to avoid mud splashes and to enjoy the unique marshland views in the rain.",
+                "fr": "Les chemins d'accès peuvent former de grandes flaques ; conduisez lentement pour éviter les projections de boue et profiter des vues marécageuses sous la pluie."
               }
             },
             {
@@ -891,13 +987,15 @@
                 "de": "Pilou Footbridge",
                 "hu": "Pilou Footbridge",
                 "ro": "Pilou Footbridge",
-                "en": "Pilou Footbridge"
+                "en": "Pilou Footbridge",
+                "fr": "Passerelle du Pilou"
               },
               "tip_5lang": {
                 "de": "Parken Sie windabgewandt und nutzen Sie einen stabilen Regenschirm für den kurzen Weg zur Brücke, da der Wind hier oft stark weht.",
                 "hu": "Parkoljon szélvédett helyen és használjon masszív esernyőt a hídhoz vezető rövid úton, mert a nyílt terepen erős a szél.",
                 "ro": "Parcați ferit de vânt și folosiți o umbrelă rezistentă pentru drumul scurt până la pod, deoarece vântul suflă adesea cu putere aici.",
-                "en": "Park facing away from the wind and use a sturdy umbrella for the short walk to the bridge, as the wind is often very strong here."
+                "en": "Park facing away from the wind and use a sturdy umbrella for the short walk to the bridge, as the wind is often very strong here.",
+                "fr": "Garez-vous dos au vent et utilisez un parapluie solide pour la courte marche jusqu'à la passerelle, le vent étant souvent très fort ici."
               }
             },
             {
@@ -905,13 +1003,15 @@
                 "de": "Maguelone Cathedral",
                 "hu": "Maguelone Cathedral",
                 "ro": "Maguelone Cathedral",
-                "en": "Maguelone Cathedral"
+                "en": "Maguelone Cathedral",
+                "fr": "Cathédrale de Maguelone"
               },
               "tip_5lang": {
                 "de": "Nutzen Sie den Parkplatz so nah wie möglich am Eingang; im Inneren der Kathedrale finden Sie eine trockene und andächtige Atmosphäre.",
                 "hu": "Használja a bejárathoz legközelebbi parkolóhelyet; a katedrális falai között száraz és meghitt hangulat várja, távol a vihartól.",
                 "ro": "Folosiți parcarea cât mai aproape de intrare; în interiorul catedralei veți găsi o atmosferă uscată și pioasă, departe de ploaie.",
-                "en": "Use the parking area as close to the entrance as possible; inside the cathedral, you'll find a dry and peaceful atmosphere away from the storm."
+                "en": "Use the parking area as close to the entrance as possible; inside the cathedral, you'll find a dry and peaceful atmosphere away from the storm.",
+                "fr": "Utilisez le parking le plus proche de l'entrée ; à l'intérieur de la cathédrale, vous trouverez une atmosphère sèche et paisible à l'abri de la tempête."
               }
             },
             {
@@ -919,13 +1019,15 @@
                 "de": "Plage de Maguelone",
                 "hu": "Plage de Maguelone",
                 "ro": "Plage de Maguelone",
-                "en": "Plage de Maguelone"
+                "en": "Plage de Maguelone",
+                "fr": "Plage de Maguelone"
               },
               "tip_5lang": {
                 "de": "Der Blick auf die Brandung aus dem trockenen Auto ist entspannend; vermeiden Sie das Parken in tiefen Sandkuhlen, die sich mit Wasser füllen.",
                 "hu": "A hullámverés látványa a fűtött autóból rendkívül megnyugtató; ne parkoljon mélyebb homokos mélyedésekbe, mert azok megtelhetnek vízzel.",
                 "ro": "Priveliștea valurilor din mașina uscată este relaxantă; evitați parcarea în adânciturile de nisip care se pot umple rapid cu apă.",
-                "en": "Watching the surf from the dry car is relaxing; avoid parking in deep sandy hollows that can quickly fill with rainwater."
+                "en": "Watching the surf from the dry car is relaxing; avoid parking in deep sandy hollows that can quickly fill with rainwater.",
+                "fr": "Contempler la houle depuis la voiture est reposant ; évitez de vous garer dans des dépressions de sable profondes qui peuvent rapidement se remplir d'eau de pluie."
               }
             }
           ]
@@ -935,7 +1037,8 @@
             "de": "Eine Wintertour mit dem Auto bietet Wärme und Flexibilität an der rauen Küste. Vormittags erkunden wir die kargen Felsenparks bei klarer Luft. Mittags nutzen wir die Heizung des Wagens, während wir zwischen den Lagunen wechseln. Die Kathedrale wirkt im Winterlicht besonders erhaben. Am Nachmittag genießen wir den frühen Sonnenuntergang am Strand, bevor wir uns bei Einbruch der Dunkelheit gegen 17 Uhr auf den gemütlichen Rückweg machen.",
             "hu": "A téli autós túra meleget és rugalmasságot kínál a zord tengerparton. Délelőtt a sziklás parkokat fedezzük fel a friss, tiszta levegőn. Délben élvezzük az autó fűtését, miközben a lagúnák között autózunk. A katedrális a téli fényben különösen fenséges látványt nyújt. Délután megcsodáljuk a korai naplementét a parton, majd a 17 órakor beköszöntő sötétség előtt elindulunk a városba.",
             "ro": "Un tur de iarnă cu mașina oferă căldură și flexibilitate pe coasta aspră. Dimineața explorăm parcurile stâncoase în aerul curat. La prânz folosim încălzirea mașinii în timp ce ne deplasăm între lagune. Catedrala pare deosebit de grandioasă în lumina iernii. După-amiaza ne bucurăm de apusul timpuriu pe plajă, înainte de a porni spre casă la lăsarea întunericului, în jur de ora 17.",
-            "en": "A winter car tour offers warmth and flexibility along the rugged coast. In the morning, we explore the stark rocky parks in the clear air. At noon, we enjoy the car's heating while traveling between the lagoons. The cathedral looks particularly grand in the winter light. In the afternoon, we enjoy the early sunset at the beach before heading back as darkness falls around 5 PM."
+            "en": "A winter car tour offers warmth and flexibility along the rugged coast. In the morning, we explore the stark rocky parks in the clear air. At noon, we enjoy the car's heating while traveling between the lagoons. The cathedral looks particularly grand in the winter light. In the afternoon, we enjoy the early sunset at the beach before heading back as darkness falls around 5 PM.",
+            "fr": "Une excursion en voiture hivernale offre chaleur et flexibilité le long de la côte sauvage. Le matin, nous explorons les parcs rocheux dans l'air clair. À midi, nous profitons du chauffage en roulant entre les lagunes. La cathédrale paraît particulièrement majestueuse sous la lumière d'hiver. L'après-midi, nous admirons le coucher de soleil anticipé sur la plage avant de rentrer, la nuit tombant vers 17:00."
           },
           "stops": [
             {
@@ -943,13 +1046,15 @@
                 "de": "Les Rochers de Maguelone - Explor’parc",
                 "hu": "Les Rochers de Maguelone - Explor’parc",
                 "ro": "Les Rochers de Maguelone - Explor’parc",
-                "en": "Les Rochers de Maguelone - Explor’parc"
+                "en": "Les Rochers de Maguelone - Explor’parc",
+                "fr": "Les Rochers de Maguelone - Explor’parc"
               },
               "tip_5lang": {
                 "de": "Die Felsen wirken in der Wintersonne monumentaler; ziehen Sie sich warm an, da die Temperatur im Wald tiefer liegt als im offenen Gelände.",
                 "hu": "A sziklák monumentálisabbnak tűnnek a téli napfényben; öltözzön melegen, mert az erdő mélyén a hőmérséklet alacsonyabb, mint a nyílt terepen.",
                 "ro": "Stâncile par mai monumentale în soarele de iarnă; îmbrăcați-vă gros, deoarece temperatura în pădure este mai mică decât în câmp deschis.",
-                "en": "The rocks look more monumental in the winter sun; dress warmly as the temperature in the forest is lower than in the open areas."
+                "en": "The rocks look more monumental in the winter sun; dress warmly as the temperature in the forest is lower than in the open areas.",
+                "fr": "Les rochers paraissent plus monumentaux sous le soleil hivernal ; habillez-vous chaudement car la température dans la forêt est plus basse que dans les espaces ouverts."
               }
             },
             {
@@ -957,13 +1062,15 @@
                 "de": "Les Rochers de Maguelone - Accro’parc",
                 "hu": "Les Rochers de Maguelone - Accro’parc",
                 "ro": "Les Rochers de Maguelone - Accro’parc",
-                "en": "Les Rochers de Maguelone - Accro’parc"
+                "en": "Les Rochers de Maguelone - Accro’parc",
+                "fr": "Les Rochers de Maguelone - Accro’parc"
               },
               "tip_5lang": {
                 "de": "Prüfen Sie im Winter die eingeschränkten Öffnungszeiten; ein kurzer Spaziergang durch die frostige Waldluft ist jedoch immer erfrischend.",
                 "hu": "Télen ellenőrizze a korlátozott nyitvatartást; egy rövid séta a fagyos erdei levegőn azonban ilyenkor is rendkívül frissítő és élénkítő.",
                 "ro": "Verificați programul redus de iarnă; totuși, o scurtă plimbare prin aerul înghețat al pădurii este întotdeauna revigorantă și plăcută.",
-                "en": "Check for restricted opening hours in winter; however, a short walk through the frosty forest air is always refreshing and invigorating."
+                "en": "Check for restricted opening hours in winter; however, a short walk through the frosty forest air is always refreshing and invigorating.",
+                "fr": "Vérifiez les horaires restreints en hiver ; toutefois, une courte promenade dans l'air frais et givré de la forêt reste revigorante."
               }
             },
             {
@@ -971,13 +1078,15 @@
                 "de": "Étang de Vic",
                 "hu": "Étang de Vic",
                 "ro": "Étang de Vic",
-                "en": "Étang de Vic"
+                "en": "Étang de Vic",
+                "fr": "Étang de Vic"
               },
               "tip_5lang": {
                 "de": "Der Blick auf das gefroren wirkende Schilf ist vom Auto aus herrlich; halten Sie kurz an den Parkbuchten für ein schnelles Foto im Kalten.",
                 "hu": "A befagyott szélű nádas látványa az autóból is lenyűgöző; álljon meg a pihenőhelyeken egy gyors fotóra, de ne felejtse el a kabátját.",
                 "ro": "Priveliștea trestiilor ce par înghețate este superbă din mașină; opriți scurt în refugii pentru o fotografie rapidă în frigul de afară.",
-                "en": "The view of the frozen-looking reeds is superb from the car; stop briefly at the parking bays for a quick photo in the cold air."
+                "en": "The view of the frozen-looking reeds is superb from the car; stop briefly at the parking bays for a quick photo in the cold air.",
+                "fr": "La vue des roseaux figés est superbe depuis la voiture ; arrêtez-vous brièvement aux aires de stationnement pour une photo rapide dans l'air froid."
               }
             },
             {
@@ -985,13 +1094,15 @@
                 "de": "Villeneuve Salt Marshes",
                 "hu": "Villeneuve Salt Marshes",
                 "ro": "Villeneuve Salt Marshes",
-                "en": "Villeneuve Salt Marshes"
+                "en": "Villeneuve Salt Marshes",
+                "fr": "Marais salants de Villeneuve"
               },
               "tip_5lang": {
                 "de": "Die Wintervögel lassen sich gut aus dem Auto beobachten; nutzen Sie das Fahrzeug als Ansitz, um die Tiere nicht durch Kälte und Bewegung zu stören.",
                 "hu": "A téli madárvilág jól megfigyelhető az autóból; használja a járművet lesként, így nem zavarja az állatokat és Ön is melegben maradhat.",
                 "ro": "Păsările de iarnă pot fi observate bine din mașină; folosiți vehiculul ca adăpost pentru a nu deranja fauna și pentru a sta la căldură.",
-                "en": "Winter birds can be observed well from the car; use the vehicle as a blind so you don't disturb the wildlife while staying warm inside."
+                "en": "Winter birds can be observed well from the car; use the vehicle as a blind so you don't disturb the wildlife while staying warm inside.",
+                "fr": "Les oiseaux d'hiver s'observent bien depuis la voiture ; utilisez le véhicule comme affût pour ne pas déranger la faune tout en restant au chaud."
               }
             },
             {
@@ -999,13 +1110,15 @@
                 "de": "Pilou Footbridge",
                 "hu": "Pilou Footbridge",
                 "ro": "Pilou Footbridge",
-                "en": "Pilou Footbridge"
+                "en": "Pilou Footbridge",
+                "fr": "Passerelle du Pilou"
               },
               "tip_5lang": {
                 "de": "Der Parkplatz ist im Winter oft leer; genießen Sie die Einsamkeit, aber achten Sie auf die rutschige Fahrbahn bei Frosttemperaturen.",
                 "hu": "A parkoló télen gyakran teljesen üres; élvezze a magányt, de ügyeljen a jeges útfelületre, ha a hőmérséklet fagypont alá süllyed.",
                 "ro": "Parcarea este adesea goală iarna; bucurați-vă de singurătate, dar fiți atenți la carosabilul alunecos dacă temperaturile sunt scăzute.",
-                "en": "The parking lot is often empty in winter; enjoy the solitude, but be careful of slippery road surfaces if temperatures drop below freezing."
+                "en": "The parking lot is often empty in winter; enjoy the solitude, but be careful of slippery road surfaces if temperatures drop below freezing.",
+                "fr": "Le parking est souvent vide en hiver ; profitez de la solitude, mais méfiez-vous des chaussées glissantes si les températures descendent sous zéro."
               }
             },
             {
@@ -1013,13 +1126,15 @@
                 "de": "Maguelone Cathedral",
                 "hu": "Maguelone Cathedral",
                 "ro": "Maguelone Cathedral",
-                "en": "Maguelone Cathedral"
+                "en": "Maguelone Cathedral",
+                "fr": "Cathédrale de Maguelone"
               },
               "tip_5lang": {
                 "de": "Das beheizte Auto wartet direkt draußen auf Sie; nutzen Sie die Besichtigung für einen kulturellen Stopp in der kühlen Stille der Mauern.",
                 "hu": "A fűtött autó a bejárat közelében várja; használja ki a látogatást egy kulturális megállóra a falak hűvös, de békés csendjében.",
                 "ro": "Mașina încălzită vă așteaptă chiar afară; profitați de vizită pentru o oprire culturală în liniștea răcoroasă a zidurilor vechi.",
-                "en": "The heated car waits for you right outside; use the visit for a cultural stop in the cool but peaceful silence of the ancient walls."
+                "en": "The heated car waits for you right outside; use the visit for a cultural stop in the cool but peaceful silence of the ancient walls.",
+                "fr": "La voiture chauffée vous attend juste à l'extérieur ; profitez de la visite comme d'une pause culturelle dans le calme frais des murs anciens."
               }
             },
             {
@@ -1027,13 +1142,15 @@
                 "de": "Plage de Maguelone",
                 "hu": "Plage de Maguelone",
                 "ro": "Plage de Maguelone",
-                "en": "Plage de Maguelone"
+                "en": "Plage de Maguelone",
+                "fr": "Plage de Maguelone"
               },
               "tip_5lang": {
                 "de": "Die Wintersonne geht hier spektakulär unter; bleiben Sie im Auto und genießen Sie das Farbspiel, wenn die Heizung für Wohlbehagen sorgt.",
                 "hu": "A téli naplemente látványa itt lenyűgöző; maradjon az autóban és élvezze a színek játékát, miközben a fűtés biztosítja a kényelmet.",
                 "ro": "Apusul de iarnă este spectaculos aici; rămâneți în mașină și bucurați-vă de jocul de culori în timp ce căldura vă oferă confort.",
-                "en": "The winter sunset is spectacular here; stay in the car and enjoy the display of colors while the heater keeps you cozy and warm."
+                "en": "The winter sunset is spectacular here; stay in the car and enjoy the display of colors while the heater keeps you cozy and warm.",
+                "fr": "Le coucher de soleil hivernal y est spectaculaire ; restez dans la voiture et profitez du spectacle de couleurs pendant que le chauffage vous garde au chaud."
               }
             }
           ]

@@ -21,7 +21,8 @@
             "de": "Chapelle Notre-Dame de la Délivrance",
             "hu": "Notre-Dame de la Délivrance kápolna",
             "ro": "Capela Notre-Dame de la Délivrance",
-            "en": "Chapelle Notre-Dame de la Délivrance"
+            "en": "Chapelle Notre-Dame de la Délivrance",
+            "fr": "Chapelle Notre-Dame de la Délivrance"
           },
           "coords": [
             -1.175403,
@@ -36,7 +37,8 @@
             "de": "Bewundern Sie die wunderschönen Buntglasfenster, die die Stadtgeschichte erzählen, aber kommen Sie frühmorgens, um das beste Licht zu genießen.",
             "hu": "Csodálja meg a város történelmét bemutató gyönyörű ólomüveg ablakokat, de érkezzen kora reggel, amikor a keleti napfény a legszebben ragyog be.",
             "ro": "Admirați vitraliile superbe care detaliază istoria orașului, dar vizitați-o dimineața devreme când lumina estică creează cea mai bună strălucire.",
-            "en": "Admire the beautiful stained glass detailing the town's history, but visit early morning when the eastern sunlight creates the best interior glow."
+            "en": "Admire the beautiful stained glass detailing the town's history, but visit early morning when the eastern sunlight creates the best interior glow.",
+            "fr": "Admirez les magnifiques vitraux retraçant l'histoire de la ville, mais visitez tôt le matin lorsque la lumière du levant crée la meilleure ambiance intérieure."
           }
         },
         {
@@ -44,7 +46,8 @@
             "de": "Kunstschmiede",
             "hu": "Művészeti Kovácsműhely",
             "ro": "Fierăriile de Artă",
-            "en": "Forges de l'Art"
+            "en": "Forges de l'Art",
+            "fr": "Forges de l'Art"
           },
           "coords": [
             -1.177656,
@@ -59,7 +62,8 @@
             "de": "Stöbern Sie durch die filigranen Metallarbeiten der lokalen Kunsthandwerker und bitten Sie den Schmied unbedingt um eine kurze Vorführung.",
             "hu": "Böngésszen a helyi kézművesek által készített bonyolult fémmunkák között, és mindenképpen kérjen egy rövid bemutatót a helyi kovácsmestertől.",
             "ro": "Explorați prelucrarea metalelor realizată de artizanii locali și nu uitați să-i cereți fierarului rezident o scurtă demonstrație de forjare.",
-            "en": "Browse the intricate metalwork produced by local artisans here, and be sure to ask the resident blacksmith for a quick forging demonstration."
+            "en": "Browse the intricate metalwork produced by local artisans here, and be sure to ask the resident blacksmith for a quick forging demonstration.",
+            "fr": "Parcourez les ouvrages métalliques complexes produits par les artisans locaux ici, et n'hésitez pas à demander au forgeron résident une brève démonstration de forge."
           }
         },
         {
@@ -67,7 +71,8 @@
             "de": "Schloss Ancenis",
             "hu": "Ancenis kastélya",
             "ro": "Castelul Ancenis",
-            "en": "Ancenis Castle"
+            "en": "Ancenis Castle",
+            "fr": "Ancenis Castle"
           },
           "coords": [
             -1.176978,
@@ -82,7 +87,8 @@
             "de": "Erkunden Sie diese Festung mit Blick auf die Loire und achten Sie auf die Renaissance-Fassade, aber tragen Sie feste Schuhe für den unebenen Hof.",
             "hu": "Fedezze fel a Loire folyóra néző erődöt, különös figyelmet fordítva a reneszánsz homlokzatra, de viseljen masszív cipőt az egyenetlen udvar miatt.",
             "ro": "Explorați această fortăreață cu vedere la Loara, acordând o atenție deosebită fațadei renascentiste, dar purtați încălțăminte robustă pentru curte.",
-            "en": "Explore this fortress overlooking the Loire, paying special attention to the Renaissance façade, but wear sturdy shoes for the uneven courtyard."
+            "en": "Explore this fortress overlooking the Loire, paying special attention to the Renaissance façade, but wear sturdy shoes for the uneven courtyard.",
+            "fr": "Explorez cette forteresse surplombant la Loire, en accordant une attention particulière à la façade de la Renaissance, mais portez des chaussures solides pour la cour inégale."
           }
         },
         {
@@ -90,7 +96,8 @@
             "de": "Brücke von Ancenis",
             "hu": "Ancenis híd",
             "ro": "Podul din Ancenis",
-            "en": "Ancenis Bridge"
+            "en": "Ancenis Bridge",
+            "fr": "Ancenis Bridge"
           },
           "coords": [
             -1.179249,
@@ -105,7 +112,8 @@
             "de": "Gehen Sie bis zur Mitte dieser eleganten Hängebrücke für spektakuläre Panoramablicke auf den Fluss, aber achten Sie auf schnelle Radfahrer.",
             "hu": "Sétáljon el az elegáns függőhíd közepéig a látványos folyami panorámáért, miközben ügyel a gyorsan elhaladó helyi kerékpárosokra.",
             "ro": "Mergeți până la jumătatea acestui pod suspendat elegant pentru vederi panoramice spectaculoase, fiind atenți la bicicliștii locali care trec rapid.",
-            "en": "Walk halfway across this elegant suspension bridge for spectacular panoramic river views, keeping an eye out for speeding local cyclists."
+            "en": "Walk halfway across this elegant suspension bridge for spectacular panoramic river views, keeping an eye out for speeding local cyclists.",
+            "fr": "Marchez jusqu'à la moitié de ce pont suspendu élégant pour des vues panoramiques spectaculaires sur le fleuve, en faisant attention aux cyclistes locaux qui roulent vite."
           }
         },
         {
@@ -113,7 +121,8 @@
             "de": "Dolmen de la Pierre Couvretière",
             "hu": "Pierre Couvretière Dolmen",
             "ro": "Dolmen de la Pierre Couvretière",
-            "en": "Dolmen de la Pierre Couvretière"
+            "en": "Dolmen de la Pierre Couvretière",
+            "fr": "Dolmen de la Pierre Couvretière"
           },
           "coords": [
             -1.172736,
@@ -128,7 +137,8 @@
             "de": "Berühren Sie die massiven antiken Steine dieses erstaunlich stadtnah gelegenen Megalithgrabes und nutzen Sie die nahe Wiese für eine Pause.",
             "hu": "Érintse meg ennek a városhoz meglepően közel fekvő megalitikus sírnak a hatalmas ősi köveit, és használja a közeli füves részt egy kis pihenésre.",
             "ro": "Atingeți pietrele masive ale acestui mormânt megalitic situat surprinzător de aproape de oraș, folosind pajiștea din apropiere pentru odihnă.",
-            "en": "Touch the massive ancient stones of this megalithic tomb nestled surprisingly close to town, using the nearby grassy patch for a quiet rest."
+            "en": "Touch the massive ancient stones of this megalithic tomb nestled surprisingly close to town, using the nearby grassy patch for a quiet rest.",
+            "fr": "Touchez les énormes pierres anciennes de ce tombeau mégalithique étonnamment proche de la ville, et utilisez la pelouse voisine pour une pause calme."
           }
         }
       ],
@@ -136,7 +146,8 @@
         "de": "Beginnen Sie spirituell an der Kapelle, bevor Sie durch die lokalen Schmieden schlendern. Verbringen Sie den Vormittag an der mittelalterlichen Burg an der Loire. Nach dem Mittagessen schlendern Sie über die Hängebrücke für einen herrlichen Blick. Beenden Sie den Nachmittag am mystischen Dolmen.",
         "hu": "Kezdje a napot a kápolna csendjében, mielőtt végigsétálna a helyi kovácsműhelyeken. A délelőttöt a Loire menti középkori várnál töltheti. Ebéd után a függőhídon átkelve csodás folyami panorámában gyönyörködhet. Délután fejezze be sétáját a közeli, ősi dolmennél.",
         "ro": "Începeți cu spiritualitate la capelă înainte de a rătăci prin fierăriile artizanale. Petreceți dimineața târzie la castelul medieval impresionant chiar pe Loara. După prânz, traversați podul suspendat pentru panorame magnifice. Terminați-vă după-amiaza descoperind vechiul Dolmen.",
-        "en": "Start with spirituality at the chapel before wandering through the local artisan metal forges. Spend the late morning at the impressive medieval castle right along the Loire. After lunch, stroll across the suspension bridge for magnificent panoramas of the river. Finish your afternoon by uncovering the ancient Dolmen."
+        "en": "Start with spirituality at the chapel before wandering through the local artisan metal forges. Spend the late morning at the impressive medieval castle right along the Loire. After lunch, stroll across the suspension bridge for magnificent panoramas of the river. Finish your afternoon by uncovering the ancient Dolmen.",
+        "fr": "Commencez par la spiritualité à la chapelle avant de vous promener dans les forges d'artisanat local. Passez la fin de matinée au château médiéval impressionnant en bord de Loire. Après le déjeuner, traversez le pont suspendu pour des panoramas magnifiques du fleuve. Terminez l'après-midi en découvrant l'ancien dolmen."
       },
       "variants": {
         "rainy": {
@@ -144,7 +155,8 @@
             "de": "Der Morgen beginnt geschützt in der Kapelle, während der Regen gegen die alten Fenster trommelt. Mittags bietet die Kunstschmiede ein trockenes Refugium voller Handwerkskunst. Am Nachmittag erkunden wir das Schloss, dessen dicke Mauern den Wind abhalten. Der Abend schließt trotz grauer Wolken mit einem mystischen Spaziergang zum Dolmen ab, wobei die nassen Steine im fahlen Licht glänzen.",
             "hu": "A reggel a kápolna csendes menedékében indul, távol a kopogó esőtől. Délben a kovácsműhely fedett falai között bújhatunk el az időjárás elől a művészet világába. Délután a vár vastag falai adnak biztonságot a szél ellen, míg a Loire partja drámai látványt nyújt. Estére, ahogy a fények megcsillannak a vizes köveken, a dolmen misztikus látványa zárja a hangulatos, esős városnézést.",
             "ro": "Dimineața începe la adăpost în capelă, în timp ce ploaia bate în ferestrele vechi. La prânz, fierăria de artă oferă un refugiu uscat, plin de măiestrie. După-amiaza explorăm castelul, ale cărui ziduri groase opresc vântul rece. Seara se încheie cu o plimbare mistică la dolmen, în ciuda norilor cenușii, unde pietrele umede strălucesc fascinant în lumina slabă a amurgului.",
-            "en": "The morning begins sheltered in the chapel as rain drums against the ancient windows. At noon, the art forge provides a dry refuge filled with craftsmanship. In the afternoon, we explore the castle, whose thick walls shield us from the wind. The evening concludes with a mystical walk to the dolmen despite grey clouds, where the wet stones glisten beautifully in the fading light."
+            "en": "The morning begins sheltered in the chapel as rain drums against the ancient windows. At noon, the art forge provides a dry refuge filled with craftsmanship. In the afternoon, we explore the castle, whose thick walls shield us from the wind. The evening concludes with a mystical walk to the dolmen despite grey clouds, where the wet stones glisten beautifully in the fading light.",
+            "fr": "La matinée commence à l'abri dans la chapelle tandis que la pluie tambourine contre les vieilles fenêtres. À midi, la forge d'art offre un refuge sec rempli de savoir-faire. L'après-midi, nous explorons le château dont les murs épais nous protègent du vent. La soirée se conclut par une marche mystique vers le dolmen malgré les nuages gris, où les pierres humides scintillent magnifiquement dans la lumière déclinante."
           },
           "stops": [
             {
@@ -152,13 +164,15 @@
                 "de": "Chapelle Notre-Dame de la Délivrance",
                 "hu": "Notre-Dame de la Délivrance kápolna",
                 "ro": "Capela Notre-Dame de la Délivrance",
-                "en": "Chapelle Notre-Dame de la Délivrance"
+                "en": "Chapelle Notre-Dame de la Délivrance",
+                "fr": "Chapelle Notre-Dame de la Délivrance"
               },
               "tip_5lang": {
                 "de": "Nutzen Sie das schützende Portal dieser Kapelle, um die Architektur im Trockenen zu bewundern; die graue Lichtstimmung verleiht den alten Steinen eine besondere Tiefe.",
                 "hu": "Használja ki a kápolna védett bejáratát, hogy szárazon csodálhassa meg az építészetet; a szürke fények különleges mélységet és áhítatot kölcsönöznek a köveknek.",
                 "ro": "Folosiți portalul protector al acestei capele pentru a admira arhitectura la adăpost; lumina cenușie oferă pietrelor vechi o profunzime și o atmosferă aparte.",
-                "en": "Use the protective portal of this chapel to admire the architecture while staying dry; the grey lighting adds a special depth and solemnity to the ancient stones."
+                "en": "Use the protective portal of this chapel to admire the architecture while staying dry; the grey lighting adds a special depth and solemnity to the ancient stones.",
+                "fr": "Utilisez le portail protecteur de cette chapelle pour admirer l'architecture tout en restant au sec ; l'éclairage gris ajoute une profondeur et une solennité particulières aux pierres anciennes."
               }
             },
             {
@@ -166,13 +180,15 @@
                 "de": "Kunstschmiede",
                 "hu": "Művészeti Kovácsműhely",
                 "ro": "Fierăriile de Artă",
-                "en": "Forges de l'Art"
+                "en": "Forges de l'Art",
+                "fr": "Forges de l'Art"
               },
               "tip_5lang": {
                 "de": "Diese Werkstatt ist der perfekte Ort, um dem Regen zu entkommen und das Feuer der Schmiede zu spüren; achten Sie auf die filigranen Details der ausgestellten Werke.",
                 "hu": "Ez a műhely tökéletes hely az eső elől való menekülésre, ahol érezhető a kovácstűz melege; figyelje meg a kiállított fémművek finom és aprólékos részleteit.",
                 "ro": "Acest atelier este locul perfect pentru a scăpa de ploaie și a simți căldura focului; observați detaliile filigranate ale lucrărilor din metal expuse la interior.",
-                "en": "This workshop is the perfect place to escape the rain and feel the warmth of the forge; pay attention to the intricate details of the metalwork on display."
+                "en": "This workshop is the perfect place to escape the rain and feel the warmth of the forge; pay attention to the intricate details of the metalwork on display.",
+                "fr": "Cet atelier est l'endroit idéal pour échapper à la pluie et ressentir la chaleur de la forge ; prêtez attention aux détails fins des pièces métalliques exposées."
               }
             },
             {
@@ -180,13 +196,15 @@
                 "de": "Schloss Ancenis",
                 "hu": "Ancenis kastélya",
                 "ro": "Castelul Ancenis",
-                "en": "Ancenis Castle"
+                "en": "Ancenis Castle",
+                "fr": "Ancenis Castle"
               },
               "tip_5lang": {
                 "de": "Erkunden Sie die überdachten Bereiche der Schlossanlage, um die Geschichte der Loire-Festung zu erleben; festes Schuhwerk ist für die teils rutschigen Innenhöfe ratsam.",
                 "hu": "Fedezze fel a kastélyegyüttes fedett részeit, hogy megismerje a Loire menti erőd történetét; a néhol csúszós belső udvarok miatt stabil lábbeli viselése ajánlott.",
                 "ro": "Explorați zonele acoperite ale complexului castelului pentru a afla istoria fortăreței de pe Loara; se recomandă încălțăminte stabilă pentru curțile interioare alunecoase.",
-                "en": "Explore the covered sections of the castle complex to learn the history of this Loire fortress; sturdy footwear is advised for the sometimes slippery courtyards."
+                "en": "Explore the covered sections of the castle complex to learn the history of this Loire fortress; sturdy footwear is advised for the sometimes slippery courtyards.",
+                "fr": "Explorez les sections couvertes du complexe du château pour découvrir l'histoire de cette forteresse de la Loire ; des chaussures solides sont conseillées pour les cours parfois glissantes."
               }
             },
             {
@@ -194,13 +212,15 @@
                 "de": "Brücke von Ancenis",
                 "hu": "Ancenis híd",
                 "ro": "Podul din Ancenis",
-                "en": "Ancenis Bridge"
+                "en": "Ancenis Bridge",
+                "fr": "Ancenis Bridge"
               },
               "tip_5lang": {
                 "de": "Die Aussicht auf den angeschwollenen Fluss ist bei Regen spektakulär, aber halten Sie sich am Geländer fest, da der Weg durch Gischt und Nässe rutschig sein kann.",
                 "hu": "A megáradt folyó látványa esőben lenyűgöző a hídról, de kapaszkodjon erősen a korlátba, mert az aszfalt a párától és a víztől rendkívül csúszóssá válhat.",
                 "ro": "Vederea râului umflat este spectaculoasă pe ploaie, dar țineți-vă bine de balustradă, deoarece drumul poate fi alunecos din cauza vaporilor și a umezelii constante.",
-                "en": "The view of the swollen river is spectacular in the rain, but hold onto the railing firmly as the path can be very slippery from the mist and constant wetness."
+                "en": "The view of the swollen river is spectacular in the rain, but hold onto the railing firmly as the path can be very slippery from the mist and constant wetness.",
+                "fr": "La vue sur le fleuve en crue est spectaculaire sous la pluie, mais tenez-vous fermement à la rambarde car le passage peut être très glissant à cause de la brume et de l'humidité constante."
               }
             },
             {
@@ -208,13 +228,15 @@
                 "de": "Dolmen de la Pierre Couvretière",
                 "hu": "Pierre Couvretière Dolmen",
                 "ro": "Dolmen de la Pierre Couvretière",
-                "en": "Dolmen de la Pierre Couvretière"
+                "en": "Dolmen de la Pierre Couvretière",
+                "fr": "Dolmen de la Pierre Couvretière"
               },
               "tip_5lang": {
                 "de": "Die dunklen, nassen Megalithen wirken bei Regen besonders kraftvoll; bringen Sie einen großen Schirm mit, da es hier im offenen Gelände kaum Unterstellmöglichkeiten gibt.",
                 "hu": "A sötét, nedves megalitok esőben különösen erőteljesnek tűnnek; hozzon egy nagy esernyőt, mert ezen a nyílt területen alig található bármilyen fedett menedék.",
                 "ro": "Megaliții întunecați și umezi par deosebit de puternici pe ploaie; aduceți o umbrelă mare, deoarece există puține locuri de adăpost în acest teren deschis.",
-                "en": "The dark, wet megaliths look particularly powerful in the rain; bring a large umbrella as there are very few places to take shelter in this open area."
+                "en": "The dark, wet megaliths look particularly powerful in the rain; bring a large umbrella as there are very few places to take shelter in this open area.",
+                "fr": "Les mégalithes sombres et mouillés paraissent particulièrement puissants sous la pluie ; apportez un grand parapluie car il y a très peu d'abris dans cet espace ouvert."
               }
             }
           ]
@@ -224,7 +246,8 @@
             "de": "Ein frostiger Morgen führt uns zur Kapelle, wo die Kälte die Stille vertieft. Mittags wärmen wir uns in der Kunstschmiede am glühenden Metall auf. Am Nachmittag taucht die tiefstehende Wintersonne das Schloss in ein goldenes, klares Licht. Da die Sonne bereits um 17:00 Uhr untergeht, erreichen wir den Dolmen rechtzeitig, um die magische Blaue Stunde in klirrender Kälte zu erleben.",
             "hu": "A fagyos reggel a kápolnához vezet, ahol a hideg elmélyíti a csendet. Délben a kovácsműhely izzó fémjei mellett melegedhetünk fel egy kicsit. Délután az alacsonyan járó téli nap arany fénybe vonja a várfalakat. Mivel 17:00-kor már sötétedik, időben el kell érnünk a dolment, hogy még a kék órában, a csípős hidegben megcsodálhassuk az ősi köveket.",
             "ro": "O dimineață geroasă ne duce la capelă, unde frigul accentuează liniștea locului. La prânz, ne încălzim lângă metalul incandescent din fierăria de artă. După-amiaza, soarele jos de iarnă scaldă castelul într-o lumină aurie clară. Deoarece soarele apune deja la ora 17:00, ajungem la dolmen la timp pentru a experimenta ora albastră în frigul pătrunzător.",
-            "en": "A frosty morning leads us to the chapel, where the cold deepens the surrounding silence. At noon, we warm up by the glowing metal in the art forge. In the afternoon, the low winter sun bathes the castle in a clear, golden light. As the sun sets by 17:00, we reach the dolmen just in time to experience the magic blue hour in the biting winter cold."
+            "en": "A frosty morning leads us to the chapel, where the cold deepens the surrounding silence. At noon, we warm up by the glowing metal in the art forge. In the afternoon, the low winter sun bathes the castle in a clear, golden light. As the sun sets by 17:00, we reach the dolmen just in time to experience the magic blue hour in the biting winter cold.",
+            "fr": "Une matinée glaciale nous conduit à la chapelle, où le froid accentue le silence environnant. À midi, nous nous réchauffons près du métal incandescent dans la forge d'art. L'après-midi, le soleil bas d'hiver baigne le château d'une lumière dorée claire. Au coucher du soleil à 17:00, nous atteignons le dolmen juste à temps pour vivre l'heure bleue magique dans le froid mordant de l'hiver."
           },
           "stops": [
             {
@@ -232,13 +255,15 @@
                 "de": "Chapelle Notre-Dame de la Délivrance",
                 "hu": "Notre-Dame de la Délivrance kápolna",
                 "ro": "Capela Notre-Dame de la Délivrance",
-                "en": "Chapelle Notre-Dame de la Délivrance"
+                "en": "Chapelle Notre-Dame de la Délivrance",
+                "fr": "Chapelle Notre-Dame de la Délivrance"
               },
               "tip_5lang": {
                 "de": "Die Kapelle bietet einen windstillen Ort für Besinnung; achten Sie auf die prächtigen Details der Altäre, die im kalten Winterlicht besonders scharf konturiert wirken.",
                 "hu": "A kápolna szélvédett helyet kínál az elmélyüléshez; figyelje meg az oltárok díszes részleteit, amelyek a hideg téli fényben különösen éles kontúrokkal látszanak.",
                 "ro": "Capela oferă un loc ferit de vânt pentru reflecție; observați detaliile somptuoase ale altarelor, care par deosebit de clare în lumina rece a iernii.",
-                "en": "The chapel offers a wind-sheltered spot for reflection; notice the splendid details of the altars, which appear particularly sharp in the cold winter light."
+                "en": "The chapel offers a wind-sheltered spot for reflection; notice the splendid details of the altars, which appear particularly sharp in the cold winter light.",
+                "fr": "La chapelle offre un endroit abrité du vent pour la réflexion ; remarquez les splendides détails des autels, qui paraissent particulièrement nets dans la froide lumière hivernale."
               }
             },
             {
@@ -246,13 +271,15 @@
                 "de": "Kunstschmiede",
                 "hu": "Művészeti Kovácsműhely",
                 "ro": "Fierăriile de Artă",
-                "en": "Forges de l'Art"
+                "en": "Forges de l'Art",
+                "fr": "Forges de l'Art"
               },
               "tip_5lang": {
                 "de": "Genießen Sie die wohlige Wärme der Esse und beobachten Sie das traditionelle Handwerk; ein idealer Zwischenstopp, um die eingefrorenen Finger wieder aufzuwärmen.",
                 "hu": "Élvezze a kohó kellemes melegét és figyelje a hagyományos mesterséget; ideális megálló, hogy a városi séta közben átfagyott ujjait újra felmelegíthesse.",
                 "ro": "Bucurați-vă de căldura plăcută a forjei și observați meșteșugul tradițional; un popas ideal pentru a vă reîncălzi degetele înghețate în timpul plimbării.",
-                "en": "Enjoy the cozy warmth of the hearth and observe the traditional craft; an ideal stop to warm up frozen fingers during your winter exploration of the town."
+                "en": "Enjoy the cozy warmth of the hearth and observe the traditional craft; an ideal stop to warm up frozen fingers during your winter exploration of the town.",
+                "fr": "Profitez de la chaleur accueillante du foyer et observez l'artisanat traditionnel ; un arrêt idéal pour réchauffer des doigts gelés lors de votre exploration hivernale de la ville."
               }
             },
             {
@@ -260,13 +287,15 @@
                 "de": "Schloss Ancenis",
                 "hu": "Ancenis kastélya",
                 "ro": "Castelul Ancenis",
-                "en": "Ancenis Castle"
+                "en": "Ancenis Castle",
+                "fr": "Ancenis Castle"
               },
               "tip_5lang": {
                 "de": "Die kahlen Bäume im Schlosspark ermöglichen freie Sichtachsen auf die Befestigung; ziehen Sie sich warm an, da der Wind von der Loire hier besonders kühl weht.",
                 "hu": "A kastélypark kopár fái tiszta rálátást biztosítanak az erődítményekre; öltözzön melegen, mert a Loire felől fújó szél itt különösen hűvös és metsző lehet.",
                 "ro": "Copacii goi din parcul castelului permit vederi clare asupra fortificațiilor; îmbrăcați-vă gros, deoarece vântul de pe Loara suflă deosebit de rece în această zonă.",
-                "en": "The bare trees in the castle park allow clear views of the fortifications; dress warmly as the wind from the Loire can be particularly chilly and biting here."
+                "en": "The bare trees in the castle park allow clear views of the fortifications; dress warmly as the wind from the Loire can be particularly chilly and biting here.",
+                "fr": "Les arbres dénudés du parc du château permettent une vue claire sur les fortifications ; habillez-vous chaudement car le vent venant de la Loire peut être particulièrement froid et cinglant ici."
               }
             },
             {
@@ -274,13 +303,15 @@
                 "de": "Brücke von Ancenis",
                 "hu": "Ancenis híd",
                 "ro": "Podul din Ancenis",
-                "en": "Ancenis Bridge"
+                "en": "Ancenis Bridge",
+                "fr": "Ancenis Bridge"
               },
               "tip_5lang": {
                 "de": "Bewundern Sie das weite Panorama der Loire im Winternebel; tragen Sie eine winddichte Mütze, da die Brücke dem eisigen Flusswind schutzlos ausgesetzt ist.",
                 "hu": "Csodálja meg a Loire téli ködbe burkolózó panorámáját; viseljen szélálló sapkát, mivel a híd teljesen védtelen a folyó felől érkező jeges széllökésekkel szemben.",
                 "ro": "Admirați panorama Loarei învăluită în ceața de iarnă; purtați o căciulă rezistentă la vânt, deoarece podul este expus direct rafalelor înghețate de pe râu.",
-                "en": "Admire the panorama of the Loire shrouded in winter mist; wear a windproof hat as the bridge is completely exposed to the icy gusts coming off the river."
+                "en": "Admire the panorama of the Loire shrouded in winter mist; wear a windproof hat as the bridge is completely exposed to the icy gusts coming off the river.",
+                "fr": "Admirez le panorama de la Loire enveloppée de brume hivernale ; portez un bonnet coupe-vent car le pont est totalement exposé aux rafales glaciales venant du fleuve."
               }
             },
             {
@@ -288,13 +319,15 @@
                 "de": "Dolmen de la Pierre Couvretière",
                 "hu": "Pierre Couvretière Dolmen",
                 "ro": "Dolmen de la Pierre Couvretière",
-                "en": "Dolmen de la Pierre Couvretière"
+                "en": "Dolmen de la Pierre Couvretière",
+                "fr": "Dolmen de la Pierre Couvretière"
               },
               "tip_5lang": {
                 "de": "Besuchen Sie diesen Ort kurz vor Einbruch der Dunkelheit um 17:00 Uhr für eine mystische Atmosphäre; wasserfeste Stiefel schützen vor dem gefrorenen Boden.",
                 "hu": "Látogasson el ide nem sokkal a 17:00 órai sötétedés előtt a misztikus hangulatért; a vízálló bakancs megvédi lábát a fagyott vagy sáros talajtól.",
                 "ro": "Vizitați acest loc cu puțin timp înainte de lăsarea întunericului, la ora 17:00, pentru o atmosferă mistică; cizmele impermeabile vă protejează de solul înghețat.",
-                "en": "Visit this site shortly before darkness falls at 17:00 for a mystical atmosphere; waterproof boots will protect your feet from the frozen or muddy ground."
+                "en": "Visit this site shortly before darkness falls at 17:00 for a mystical atmosphere; waterproof boots will protect your feet from the frozen or muddy ground.",
+                "fr": "Visitez ce site peu avant la tombée de la nuit à 17:00 pour une atmosphère mystique ; des bottes imperméables protégeront vos pieds du sol gelé ou boueux."
               }
             }
           ]
@@ -314,7 +347,8 @@
             "de": "Schloss Ancenis",
             "hu": "Ancenis kastélya",
             "ro": "Castelul Ancenis",
-            "en": "Ancenis Castle"
+            "en": "Ancenis Castle",
+            "fr": "Ancenis Castle"
           },
           "coords": [
             -1.176978,
@@ -329,7 +363,8 @@
             "de": "Erkunden Sie diese Festung mit Blick auf die Loire und achten Sie auf die Renaissance-Fassade, aber tragen Sie feste Schuhe für den unebenen Hof.",
             "hu": "Fedezze fel a Loire folyóra néző erődöt, különös figyelmet fordítva a reneszánsz homlokzatra, de viseljen masszív cipőt az egyenetlen udvar miatt.",
             "ro": "Explorați această fortăreață cu vedere la Loara, acordând o atenție deosebită fațadei renascentiste, dar purtați încălțăminte robustă pentru curte.",
-            "en": "Explore this fortress overlooking the Loire, paying special attention to the Renaissance façade, but wear sturdy shoes for the uneven courtyard."
+            "en": "Explore this fortress overlooking the Loire, paying special attention to the Renaissance façade, but wear sturdy shoes for the uneven courtyard.",
+            "fr": "Explorez cette forteresse surplombant la Loire, en accordant une attention particulière à la façade de la Renaissance, mais portez des chaussures solides pour la cour inégale."
           }
         },
         {
@@ -337,7 +372,8 @@
             "de": "Freilichtbühne",
             "hu": "Szabadtéri Színház",
             "ro": "Teatrul în Aer Liber",
-            "en": "Théâtre de Verdure"
+            "en": "Théâtre de Verdure",
+            "fr": "Théâtre de Verdure"
           },
           "coords": [
             -1.186042,
@@ -352,7 +388,8 @@
             "de": "Genießen Sie die Freiluftatmosphäre dieses grünen Amphitheaters am Fluss, aber bringen Sie eine leichte Jacke für die Nachmittagsbrise mit.",
             "hu": "Élvezze ennek a folyóparti zöld amfiteátrumnak a szabadtéri hangulatát, de hozzon magával egy könnyű kabátot a délutáni hűvösebb szél miatt.",
             "ro": "Bucurați-vă de ambianța în aer liber a acestui amfiteatru verde de lângă râu, aducând o jachetă ușoară deoarece briza se intensifică după-amiaza.",
-            "en": "Enjoy the open-air ambiance of this green amphitheater beside the river, bringing a light jacket as the riverside breeze picks up in the afternoon."
+            "en": "Enjoy the open-air ambiance of this green amphitheater beside the river, bringing a light jacket as the riverside breeze picks up in the afternoon.",
+            "fr": "Profitez de l'ambiance en plein air de cet amphithéâtre verdoyant au bord du fleuve, en emportant une veste légère car la brise du bord de l'eau se lève l'après-midi."
           }
         },
         {
@@ -360,7 +397,8 @@
             "de": "Theater Quartier Libre",
             "hu": "Quartier Libre Színház",
             "ro": "Teatrul Quartier Libre",
-            "en": "Quartier Libre Theatre"
+            "en": "Quartier Libre Theatre",
+            "fr": "Quartier Libre Theatre"
           },
           "coords": [
             -1.188798,
@@ -375,7 +413,8 @@
             "de": "Betrachten Sie die moderne Architektur als Kontrast zur Altstadt und prüfen Sie die Plakatwand draußen für abendliche Aufführungen während Ihres Aufenthalts.",
             "hu": "Tekintse meg a történelmi várossal kontrasztot alkotó modern építészetet, és böngéssze át a kinti hirdetőtáblát az esti előadások miatt.",
             "ro": "Admirați arhitectura modernă ce contrastează cu orașul istoric și verificați panoul exterior pentru spectacolele de seară din timpul șederii.",
-            "en": "Check out the modern architecture contrasting the historic town, and scan the local billboard outside for evening performances during your stay."
+            "en": "Check out the modern architecture contrasting the historic town, and scan the local billboard outside for evening performances during your stay.",
+            "fr": "Découvrez l'architecture moderne contrastant avec la ville historique, et consultez le panneau d'affichage local à l'extérieur pour les représentations du soir pendant votre séjour."
           }
         },
         {
@@ -383,7 +422,8 @@
             "de": "Schloss L'Écochère",
             "hu": "L'Écochère kastélya",
             "ro": "Castelul Écochère",
-            "en": "Château de l'Écochère"
+            "en": "Château de l'Écochère",
+            "fr": "Château de l'Écochère"
           },
           "coords": [
             -1.204679,
@@ -398,7 +438,8 @@
             "de": "Entdecken Sie den Charme dieses Anwesens aus dem 19. Jahrhundert und holen Sie sich am Eingang eine Karte, um durch die großen Weinberge zu navigieren.",
             "hu": "Fedezze fel a völgy felett magasodó 19. századi birtok varázsát, és mindenképpen kérjen egy térképet a bejáratnál a hatalmas szőlőültetvényekhez.",
             "ro": "Descoperiți farmecul acestui domeniu din secolul al XIX-lea cocoțat deasupra văii, luând o hartă la intrare pentru a naviga prin vastele sale podgorii.",
-            "en": "Discover the charm of this 19th-century estate perched above the valley, making sure to grab a map at the entrance to navigate its vast vineyards."
+            "en": "Discover the charm of this 19th-century estate perched above the valley, making sure to grab a map at the entrance to navigate its vast vineyards.",
+            "fr": "Découvrez le charme de ce domaine du XIXe siècle perché au-dessus de la vallée, en prenant bien une carte à l'entrée pour vous repérer dans ses vastes vignobles."
           }
         },
         {
@@ -406,7 +447,8 @@
             "de": "Kirche Notre-Dame",
             "hu": "Notre-Dame templom",
             "ro": "Biserica Notre-Dame",
-            "en": "Église Notre-Dame"
+            "en": "Église Notre-Dame",
+            "fr": "Église Notre-Dame"
           },
           "coords": [
             -1.164342,
@@ -421,7 +463,8 @@
             "de": "Bewundern Sie die friedliche Atmosphäre und die traditionellen Steinarbeiten in dieser charmanten Kirche, aber treten Sie leise ein, falls ein Gottesdienst stattfindet.",
             "hu": "Csodálja meg a békés hangulatot és a hagyományos kőművesmunkát e bájos templom belsejében, csendben lépkedve, ha éppen istentisztelet zajlik.",
             "ro": "Minunați-vă de atmosfera pașnică și zidăria tradițională din interiorul acestei biserici fermecătoare, pășind încet dacă are loc o slujbă.",
-            "en": "Marvel at the peaceful atmosphere and traditional stonework inside this charming church, stepping quietly if a local service is currently underway."
+            "en": "Marvel at the peaceful atmosphere and traditional stonework inside this charming church, stepping quietly if a local service is currently underway.",
+            "fr": "Émerveillez-vous de l'atmosphère paisible et de la maçonnerie traditionnelle à l'intérieur de cette église charmante, et marchez doucement si un office local a lieu."
           }
         },
         {
@@ -429,7 +472,8 @@
             "de": "Grée Sumpf",
             "hu": "Grée mocsár",
             "ro": "Mlaștina Grée",
-            "en": "Grée Marsh"
+            "en": "Grée Marsh",
+            "fr": "Grée Marsh"
           },
           "coords": [
             -1.15919,
@@ -444,7 +488,8 @@
             "de": "Bringen Sie Ihr Fernglas mit, um seltene Zugvögel in diesem Schutzgebiet zu beobachten, und bleiben Sie unbedingt auf den markierten Holzstegen.",
             "hu": "Hozzon magával távcsövet a ritka vándormadarak megfigyeléséhez ebben a védett vizes élőhelyen, és szigorúan maradjon a kijelölt fapallókon a növényzet védelmében.",
             "ro": "Aduceți binoclul pentru a observa păsările migratoare rare în acest ecosistem protejat, rămânând strict pe pasarelele marcate pentru a proteja flora.",
-            "en": "Bring your binoculars to spot rare migratory birds in this protected wetland ecosystem, sticking strictly to the marked boardwalks to protect the flora."
+            "en": "Bring your binoculars to spot rare migratory birds in this protected wetland ecosystem, sticking strictly to the marked boardwalks to protect the flora.",
+            "fr": "Apportez vos jumelles pour observer des oiseaux migrateurs rares dans cet écosystème de zones humides protégé, en restant strictement sur les passerelles balisées pour protéger la flore."
           }
         }
       ],
@@ -452,7 +497,8 @@
         "de": "Treten Sie in die Pedale und erkunden Sie morgens das historische Schloss Ancenis. Gleiten Sie am idyllischen Théâtre de Verdure vorbei zum modernen Theater Quartier Libre. Fahren Sie hinaus zum prachtvollen Château de l'Écochère und der schönen Kirche. Beenden Sie die Tour am ruhigen Grée Sumpf.",
         "hu": "Reggel tekerjen el a történelmi Ancenis kastélyhoz, a Loire ékszerdobozához. Haladjon el a festői szabadtéri színház mellett a modern Quartier Libre színház felé. Bringázzon ki a nagyszerű Écochère kastélyhoz és a templomhoz. Zárja a kerékpározást a természetben, a csendes Grée mocsárnál.",
         "ro": "Pedalați dimineața explorând Castelul istoric Ancenis, bijuteria de pe Loara. Treceți pe lângă scenicul Teatru în aer liber către modernul Teatru Quartier Libre. Călătoriți până la mărețul Castel Écochère și frumoasa Biserică. Încheiați cursa în natură la liniștita mlaștină Grée.",
-        "en": "Pedal off your morning exploring the historic Ancenis Castle, the jewel of the Loire. Glide past the scenic outdoor Théâtre de Verdure towards the striking modern Quartier Libre Theatre. Ride out to the grand Château de l'Écochère and the beautiful Église Notre-Dame. Conclude the ride in nature at the serene Grée Marsh."
+        "en": "Pedal off your morning exploring the historic Ancenis Castle, the jewel of the Loire. Glide past the scenic outdoor Théâtre de Verdure towards the striking modern Quartier Libre Theatre. Ride out to the grand Château de l'Écochère and the beautiful Église Notre-Dame. Conclude the ride in nature at the serene Grée Marsh.",
+        "fr": "Partez à vélo le matin pour explorer le château historique d'Ancenis, le joyau de la Loire. Roulez devant le pittoresque Théâtre de Verdure en plein air vers le saisissant Quartier Libre Theatre. Poussez jusque'au grand Château de l'Écochère et la belle Église Notre-Dame. Concluez la balade en pleine nature au paisible marais de la Grée."
       },
       "variants": {
         "rainy": {
@@ -460,7 +506,8 @@
             "de": "Trotz Regenschauern starten wir am Schloss, wo die nassen Steine glänzen. Die Fahrt geht weiter zum Théâtre de Verdure, das im Regen eine melancholische Ruhe ausstrahlt. Mittags suchen wir Schutz im Quartier Libre, bevor wir zum Château de l'Écochère weiterradeln. Der Nachmittag führt uns zur Kirche und schließlich zum Sumpf, wo die Wege bei Nässe Vorsicht und gute Schutzbleche erfordern.",
             "hu": "Az eső ellenére a várnál kezdünk, ahol a vizes kövek csillognak. Utunk a Théâtre de Verdure felé folytatódik, amely melankolikus nyugalmat áraszt. Délben a Quartier Libre színházban keresünk menedéket, majd az Écochère kastély felé tekerünk. Délután a templom után a mocsárhoz érünk, ahol a vizes ösvények óvatosságot és jó sárvédőt igényelnek a sár miatt.",
             "ro": "În ciuda ploii, începem la castel, unde pietrele umede strălucesc sub nori. Continuăm spre Théâtre de Verdure, care emană o liniște melancolică. La prânz căutăm adăpost la Quartier Libre, înainte de a pedala spre Château de l'Écochère. După-amiaza ne duce la biserică și în final la mlaștină, unde potecile umede necesită prudență și aripi bune la bicicletă.",
-            "en": "Despite the rain showers, we start at the castle where the wet stones glisten. The ride continues to the Théâtre de Verdure, radiating a melancholy calm. At noon, we seek shelter at Quartier Libre before cycling towards Château de l'Écochère. The afternoon leads us to the church and finally to the marsh, where wet paths require caution and good mudguards against the mud."
+            "en": "Despite the rain showers, we start at the castle where the wet stones glisten. The ride continues to the Théâtre de Verdure, radiating a melancholy calm. At noon, we seek shelter at Quartier Libre before cycling towards Château de l'Écochère. The afternoon leads us to the church and finally to the marsh, where wet paths require caution and good mudguards against the mud.",
+            "fr": "Malgré les averses, nous commençons au château où les pierres mouillées scintillent. La balade continue vers le Théâtre de Verdure, qui dégage un calme mélancolique. À midi, nous cherchons un abri au Quartier Libre avant de pédaler vers le Château de l'Écochère. L'après-midi nous mène à l'église et enfin au marais, où les sentiers humides demandent prudence et bons garde-boue contre la boue."
           },
           "stops": [
             {
@@ -468,13 +515,15 @@
                 "de": "Schloss Ancenis",
                 "hu": "Ancenis kastélya",
                 "ro": "Castelul Ancenis",
-                "en": "Ancenis Castle"
+                "en": "Ancenis Castle",
+                "fr": "Ancenis Castle"
               },
               "tip_5lang": {
                 "de": "Die Schlossmauern bieten stellenweise Schutz vor Wind; prüfen Sie Ihren Reifendruck, da das Kopfsteinpflaster im Eingangsbereich bei Nässe sehr rutschig wird.",
                 "hu": "A várfalak helyenként védelmet nyújtanak a szél ellen; ellenőrizze a guminyomást, mivel a bejáratnál lévő macskakő esőben rendkívül csúszóssá válik.",
                 "ro": "Zidurile castelului oferă pe alocuri protecție împotriva vântului; verificați presiunea pneurilor, deoarece pavajul de la intrare devine foarte alunecos pe ploaie.",
-                "en": "The castle walls offer some protection from the wind; check your tire pressure as the cobblestones at the entrance become very slippery when wet."
+                "en": "The castle walls offer some protection from the wind; check your tire pressure as the cobblestones at the entrance become very slippery when wet.",
+                "fr": "Les murs du château offrent une certaine protection contre le vent ; vérifiez la pression de vos pneus car les pavés à l'entrée deviennent très glissants lorsqu'ils sont mouillés."
               }
             },
             {
@@ -482,13 +531,15 @@
                 "de": "Freilichtbühne",
                 "hu": "Szabadtéri Színház",
                 "ro": "Teatrul în Aer Liber",
-                "en": "Théâtre de Verdure"
+                "en": "Théâtre de Verdure",
+                "fr": "Théâtre de Verdure"
               },
               "tip_5lang": {
                 "de": "Ein kurzer Stopp im Regen zeigt die Natur von ihrer grünen Seite; nutzen Sie die überdachten Bühnenteile für eine kurze Pause im Trockenen.",
                 "hu": "Egy rövid megálló az esőben megmutatja a természet üde arcát; használja a színpad fedett részeit egy rövid, száraz pihenőre a továbbtekerés előtt.",
                 "ro": "O scurtă oprire în ploaie arată natura în toată splendoarea ei verde; folosiți părțile acoperite ale scenei pentru o scurtă pauză la uscat.",
-                "en": "A short stop in the rain reveals nature's lush green side; use the covered sections of the stage for a brief dry break before continuing your ride."
+                "en": "A short stop in the rain reveals nature's lush green side; use the covered sections of the stage for a brief dry break before continuing your ride.",
+                "fr": "Un court arrêt sous la pluie révèle le côté luxuriant de la nature ; utilisez les sections couvertes de la scène pour une brève pause au sec avant de reprendre la balade."
               }
             },
             {
@@ -496,13 +547,15 @@
                 "de": "Theater Quartier Libre",
                 "hu": "Quartier Libre Színház",
                 "ro": "Teatrul Quartier Libre",
-                "en": "Quartier Libre Theatre"
+                "en": "Quartier Libre Theatre",
+                "fr": "Quartier Libre Theatre"
               },
               "tip_5lang": {
                 "de": "Dieses moderne Theater ist der ideale Ort, um sich kurz aufzuwärmen; parken Sie Ihr Fahrrad in der Nähe des Eingangs unter dem schützenden Vordach.",
                 "hu": "Ez a modern színház ideális hely egy rövid bemelegedéshez; parkolja le kerékpárját a bejárat közelében, a védelmet nyújtó előtető alatt.",
                 "ro": "Acest teatru modern este locul ideal pentru o scurtă încălzire; parcați bicicleta lângă intrare, sub copertina protectoare, pentru a o feri de ploaie.",
-                "en": "This modern theatre is an ideal spot for a quick warm-up; park your bike near the entrance under the protective canopy to keep it dry."
+                "en": "This modern theatre is an ideal spot for a quick warm-up; park your bike near the entrance under the protective canopy to keep it dry.",
+                "fr": "Ce théâtre moderne est un endroit idéal pour une rapide remise en chaleur ; garez votre vélo près de l'entrée sous le auvent protecteur pour le garder au sec."
               }
             },
             {
@@ -510,13 +563,15 @@
                 "de": "Schloss L'Écochère",
                 "hu": "L'Écochère kastélya",
                 "ro": "Castelul Écochère",
-                "en": "Château de l'Écochère"
+                "en": "Château de l'Écochère",
+                "fr": "Château de l'Écochère"
               },
               "tip_5lang": {
                 "de": "Die Anfahrt durch die Allee ist auch bei Regen malerisch; tragen Sie eine wasserdichte Regenhose, da das Spritzwasser auf den unbefestigten Wegen zunimmt.",
                 "hu": "A kastélyhoz vezető fasor esőben is festői; viseljen vízálló nadrágot, mivel a burkolatlan utakon a felcsapódó víz és sár jelentősen megnő.",
                 "ro": "Aleea de acces este pitorească chiar și pe ploaie; purtați pantaloni impermeabili, deoarece apa și noroiul împroșcate pe drumurile neasfaltate cresc.",
-                "en": "The approach through the avenue is picturesque even in rain; wear waterproof trousers as spray and mud increase on the unpaved paths."
+                "en": "The approach through the avenue is picturesque even in rain; wear waterproof trousers as spray and mud increase on the unpaved paths.",
+                "fr": "L'approche par l'allée est pittoresque même sous la pluie ; portez un pantalon imperméable car les projections et la boue augmentent sur les chemins non revêtus."
               }
             },
             {
@@ -524,13 +579,15 @@
                 "de": "Kirche Notre-Dame",
                 "hu": "Notre-Dame templom",
                 "ro": "Biserica Notre-Dame",
-                "en": "Église Notre-Dame"
+                "en": "Église Notre-Dame",
+                "fr": "Église Notre-Dame"
               },
               "tip_5lang": {
                 "de": "Die Kirche bietet einen trockenen Ort für eine spirituelle Pause; wischen Sie den Sattel vor der Weiterfahrt gründlich trocken, um Komfort zu bewahren.",
                 "hu": "A templom száraz helyet kínál egy rövid lelki pihenőhöz; a kényelem érdekében alaposan törölje szárazra a nyerget, mielőtt tovább indulna az esőben.",
                 "ro": "Biserica oferă un loc uscat pentru o pauză spirituală; ștergeți bine șaua înainte de a pleca mai departe pentru a vă păstra confortul pe bicicletă.",
-                "en": "The church provides a dry spot for a spiritual break; wipe your saddle thoroughly dry before continuing to maintain comfort in the rain."
+                "en": "The church provides a dry spot for a spiritual break; wipe your saddle thoroughly dry before continuing to maintain comfort in the rain.",
+                "fr": "L'église offre un endroit sec pour une pause spirituelle ; essuyez soigneusement votre selle avant de repartir pour conserver du confort sous la pluie."
               }
             },
             {
@@ -538,13 +595,15 @@
                 "de": "Grée Sumpf",
                 "hu": "Grée mocsár",
                 "ro": "Mlaștina Grée",
-                "en": "Grée Marsh"
+                "en": "Grée Marsh",
+                "fr": "Grée Marsh"
               },
               "tip_5lang": {
                 "de": "Das Sumpfgebiet wirkt im Regen sehr ursprünglich, aber die Wege sind extrem schlammig; wasserdichte Überschuhe sind hier für Radfahrer unverzichtbar.",
                 "hu": "A mocsárvidék esőben rendkívül ősi és vad arcát mutatja, de az utak nagyon sárosak; a vízálló cipővédő itt elengedhetetlen a kerékpárosoknak.",
                 "ro": "Zona mlaștinii pare foarte sălbatică pe ploaie, dar drumurile sunt extrem de noroioase; protecțiile impermeabile pentru încălțăminte sunt indispensabile.",
-                "en": "The marshland looks very primal in the rain, but the paths get extremely muddy; waterproof overshoes are indispensable for cyclists here."
+                "en": "The marshland looks very primal in the rain, but the paths get extremely muddy; waterproof overshoes are indispensable for cyclists here.",
+                "fr": "Le marais paraît très primitif sous la pluie, mais les sentiers deviennent extrêmement boueux ; des surchaussures imperméables sont indispensables pour les cyclistes ici."
               }
             }
           ]
@@ -554,7 +613,8 @@
             "de": "Ein kalter Wintertag auf dem Rad beginnt am Schloss. Wir radeln durch die klare Luft zum Théâtre de Verdure, wo Reif auf den Gräsern liegt. Mittags bietet das Theater Quartier Libre eine willkommene Aufwärmpause. Nach dem Château de l'Écochère erreichen wir die Kirche im sanften Abendlicht. Da es um 17:00 Uhr dunkel wird, beenden wir unsere Tour im Grée Sumpf genau zum stimmungsvollen Sonnenuntergang.",
             "hu": "A hideg téli nap a nyeregben a várnál kezdődik. A friss levegőn tekerünk a Théâtre de Verdure felé, ahol zúzmara fedi a füvet. Délben a Quartier Libre színház nyújt meleg pihenőt. Az Écochère kastély után a templomot már a lágy esti fényekben érjük el. Mivel 17:00-kor sötétedik, a Grée mocsárnál fejezzük be a túrát, pont a hangulatos naplementekor.",
             "ro": "O zi rece de iarnă pe bicicletă începe la castel. Pedalăm prin aerul curat spre Théâtre de Verdure, unde bruma acoperă iarba. La prânz, teatrul Quartier Libre oferă o pauză binemeritată de încălzire. După Château de l'Écochère, ajungem la biserică în lumina blândă a serii. Deoarece se întunecă la 17:00, încheiem turul în mlaștina Grée chiar la apus.",
-            "en": "A cold winter day on the bike starts at the castle. We cycle through the crisp air to the Théâtre de Verdure, where frost covers the grass. At noon, the Quartier Libre theatre offers a welcome warm-up break. After Château de l'Écochère, we reach the church in the soft evening light. As it gets dark by 17:00, we finish our tour at the Grée Marsh exactly at sunset."
+            "en": "A cold winter day on the bike starts at the castle. We cycle through the crisp air to the Théâtre de Verdure, where frost covers the grass. At noon, the Quartier Libre theatre offers a welcome warm-up break. After Château de l'Écochère, we reach the church in the soft evening light. As it gets dark by 17:00, we finish our tour at the Grée Marsh exactly at sunset.",
+            "fr": "Une froide journée d'hiver à vélo commence au château. Nous pédalons dans l'air vif jusqu'au Théâtre de Verdure, où le givre recouvre l'herbe. À midi, le Quartier Libre offre une bienvenue pause chauffée. Après le Château de l'Écochère, nous atteignons l'église à la douce lumière du soir. Comme il fait nuit à 17:00, nous terminons la visite au marais de la Grée exactement au coucher du soleil."
           },
           "stops": [
             {
@@ -562,13 +622,15 @@
                 "de": "Schloss Ancenis",
                 "hu": "Ancenis kastélya",
                 "ro": "Castelul Ancenis",
-                "en": "Ancenis Castle"
+                "en": "Ancenis Castle",
+                "fr": "Ancenis Castle"
               },
               "tip_5lang": {
                 "de": "Die kalte Luft macht die Fernsicht vom Schlossgelände besonders klar; tragen Sie gefütterte Handschuhe, um beim Fotografieren der Anlage nicht auszukühlen.",
                 "hu": "A hideg levegő miatt a kilátás különösen tiszta a vár területéről; viseljen bélelt kesztyűt, hogy ne fagyjanak meg az ujjai a vár fotózása közben.",
                 "ro": "Aerul rece face ca vizibilitatea de la castel să fie deosebit de clară; purtați mănuși căptușite pentru a nu îngheța în timp ce faceți fotografii.",
-                "en": "The cold air makes the distant views from the castle grounds exceptionally clear; wear lined gloves to keep your hands warm while taking photos."
+                "en": "The cold air makes the distant views from the castle grounds exceptionally clear; wear lined gloves to keep your hands warm while taking photos.",
+                "fr": "L'air froid rend les vues lointaines depuis les terrains du château exceptionnellement claires ; portez des gants doublés pour garder les mains chaudes en prenant des photos."
               }
             },
             {
@@ -576,13 +638,15 @@
                 "de": "Freilichtbühne",
                 "hu": "Szabadtéri Színház",
                 "ro": "Teatrul în Aer Liber",
-                "en": "Théâtre de Verdure"
+                "en": "Théâtre de Verdure",
+                "fr": "Théâtre de Verdure"
               },
               "tip_5lang": {
                 "de": "Die gefrorene Vegetation bildet ein schönes Fotomotiv; halten Sie den Stopp kurz, um durch die Bewegung auf dem Rad die Körperwärme konstant zu halten.",
                 "hu": "A fagyott növényzet gyönyörű fotótémát kínál; tartsa röviden a megállót, hogy a kerékpáros mozgással folyamatosan fenntartsa a testhőmérsékletét.",
                 "ro": "Vegetația înghețată oferă un subiect fotografic superb; păstrați oprirea scurtă pentru a menține temperatura corpului prin mișcarea pe bicicletă.",
-                "en": "The frozen vegetation provides a beautiful photo subject; keep the stop short to maintain your body heat through continuous cycling movement."
+                "en": "The frozen vegetation provides a beautiful photo subject; keep the stop short to maintain your body heat through continuous cycling movement.",
+                "fr": "La végétation gelée constitue un beau sujet photo ; gardez l'arrêt court pour préserver votre chaleur corporelle en continuant de pédaler."
               }
             },
             {
@@ -590,13 +654,15 @@
                 "de": "Theater Quartier Libre",
                 "hu": "Quartier Libre Színház",
                 "ro": "Teatrul Quartier Libre",
-                "en": "Quartier Libre Theatre"
+                "en": "Quartier Libre Theatre",
+                "fr": "Quartier Libre Theatre"
               },
               "tip_5lang": {
                 "de": "Nutzen Sie das Foyer für eine kurze Aufwärmpause im Inneren; warme Getränke sind hier ein Muss, bevor es wieder in den kalten Fahrtwind geht.",
                 "hu": "Használja ki az előcsarnokot egy rövid belső melegedésre; egy meleg ital elengedhetetlen itt, mielőtt újra kimenne a hideg menetszélbe.",
                 "ro": "Folosiți foierul pentru o scurtă pauză de încălzire la interior; o băutură caldă este obligatorie înainte de a ieși din nou în vântul rece de pedalare.",
-                "en": "Use the foyer for a quick indoor warm-up break; a warm drink is a must here before heading back out into the cold riding wind."
+                "en": "Use the foyer for a quick indoor warm-up break; a warm drink is a must here before heading back out into the cold riding wind.",
+                "fr": "Utilisez le foyer pour une rapide remise en chaleur intérieure ; une boisson chaude est indispensable ici avant de repartir dans le vent froid."
               }
             },
             {
@@ -604,13 +670,15 @@
                 "de": "Schloss L'Écochère",
                 "hu": "L'Écochère kastélya",
                 "ro": "Castelul Écochère",
-                "en": "Château de l'Écochère"
+                "en": "Château de l'Écochère",
+                "fr": "Château de l'Écochère"
               },
               "tip_5lang": {
                 "de": "Die Architektur wirkt im harten Winterlicht besonders imposant; achten Sie auf glatte Stellen auf den schattigen Abschnitten des Zufahrtsweges.",
                 "hu": "Az építészet a kemény téli fényben különösen impozánsnak tűnik; ügyeljen a jeges foltokra a bekötőút árnyékosabb, fagyzugosabb szakaszain.",
                 "ro": "Arhitectura pare deosebit de impunătoare în lumina aspră a iernii; atenție la porțiunile cu gheață de pe secțiunile umbrite ale drumului de acces.",
-                "en": "The architecture looks particularly imposing in the harsh winter light; watch out for icy patches on the shaded sections of the access road."
+                "en": "The architecture looks particularly imposing in the harsh winter light; watch out for icy patches on the shaded sections of the access road.",
+                "fr": "L'architecture paraît particulièrement imposante sous la lumière hivernale dure ; attention aux plaques de verglas sur les sections ombragées de la route d'accès."
               }
             },
             {
@@ -618,13 +686,15 @@
                 "de": "Kirche Notre-Dame",
                 "hu": "Notre-Dame templom",
                 "ro": "Biserica Notre-Dame",
-                "en": "Église Notre-Dame"
+                "en": "Église Notre-Dame",
+                "fr": "Église Notre-Dame"
               },
               "tip_5lang": {
                 "de": "Die stille Atmosphäre im Inneren lädt zum Verweilen ein; prüfen Sie Ihre Beleuchtung am Fahrrad, da die Dämmerung im Winter sehr schnell einsetzt.",
                 "hu": "A belső tér csendes hangulata hosszasabb maradásra hív; ellenőrizze a kerékpár világítását, mert télen a szürkület váratlanul gyorsan beköszönt.",
                 "ro": "Atmosfera liniștită din interior vă invită să zăboviți; verificați luminile bicicletei, deoarece amurgul se lasă foarte repede pe timp de iarnă.",
-                "en": "The quiet atmosphere inside invites you to linger for a while; check your bike lights, as twilight sets in very quickly during the winter months."
+                "en": "The quiet atmosphere inside invites you to linger for a while; check your bike lights, as twilight sets in very quickly during the winter months.",
+                "fr": "L'atmosphère paisible à l'intérieur invite à la détente ; vérifiez vos éclairages de vélo, car le crépuscule tombe très vite en hiver."
               }
             },
             {
@@ -632,13 +702,15 @@
                 "de": "Grée Sumpf",
                 "hu": "Grée mocsár",
                 "ro": "Mlaștina Grée",
-                "en": "Grée Marsh"
+                "en": "Grée Marsh",
+                "fr": "Grée Marsh"
               },
               "tip_5lang": {
                 "de": "Die gefrorenen Wasserflächen bieten ein einmaliges Naturschauspiel; verlassen Sie das Gebiet vor 17:00 Uhr, um im hellen Tageslicht sicher zurückzuradeln.",
                 "hu": "A befagyott vízfelületek egyedülálló természeti látványt nyújtanak; hagyja el a területet 17:00 előtt, hogy még világosban, biztonságban visszatekerhessen.",
                 "ro": "Suprafețele de apă înghețate oferă un spectacol natural unic; părăsiți zona înainte de ora 17:00 pentru a pedala înapoi în siguranță pe lumină.",
-                "en": "The frozen water surfaces offer a unique natural spectacle; leave the area before 17:00 to cycle back safely while there is still daylight."
+                "en": "The frozen water surfaces offer a unique natural spectacle; leave the area before 17:00 to cycle back safely while there is still daylight.",
+                "fr": "Les surfaces d'eau gelées offrent un spectacle naturel unique ; quittez la zone avant 17:00 pour rentrer à vélo en toute sécurité tant qu'il y a encore de la lumière du jour."
               }
             }
           ]
@@ -658,7 +730,8 @@
             "de": "Dolmen de la Pierre Couvretière",
             "hu": "Pierre Couvretière Dolmen",
             "ro": "Dolmen de la Pierre Couvretière",
-            "en": "Dolmen de la Pierre Couvretière"
+            "en": "Dolmen de la Pierre Couvretière",
+            "fr": "Dolmen de la Pierre Couvretière"
           },
           "coords": [
             -1.172736,
@@ -673,7 +746,8 @@
             "de": "Berühren Sie die massiven antiken Steine dieses erstaunlich stadtnah gelegenen Megalithgrabes und nutzen Sie die nahe Wiese für eine Pause.",
             "hu": "Érintse meg ennek a városhoz meglepően közel fekvő megalitikus sírnak a hatalmas ősi köveit, és használja a közeli füves részt egy kis pihenésre.",
             "ro": "Atingeți pietrele masive ale acestui mormânt megalitic situat surprinzător de aproape de oraș, folosind pajiștea din apropiere pentru odihnă.",
-            "en": "Touch the massive ancient stones of this megalithic tomb nestled surprisingly close to town, using the nearby grassy patch for a quiet rest."
+            "en": "Touch the massive ancient stones of this megalithic tomb nestled surprisingly close to town, using the nearby grassy patch for a quiet rest.",
+            "fr": "Touchez les énormes pierres anciennes de ce tombeau mégalithique étonnamment proche de la ville, et utilisez la pelouse voisine pour une pause calme."
           }
         },
         {
@@ -681,7 +755,8 @@
             "de": "Kunstschmiede",
             "hu": "Művészeti Kovácsműhely",
             "ro": "Fierăriile de Artă",
-            "en": "Forges de l'Art"
+            "en": "Forges de l'Art",
+            "fr": "Forges de l'Art"
           },
           "coords": [
             -1.177656,
@@ -696,7 +771,8 @@
             "de": "Stöbern Sie durch die filigranen Metallarbeiten der lokalen Kunsthandwerker und bitten Sie den Schmied unbedingt um eine kurze Vorführung.",
             "hu": "Böngésszen a helyi kézművesek által készített bonyolult fémmunkák között, és mindenképpen kérjen egy rövid bemutatót a helyi kovácsmestertől.",
             "ro": "Explorați prelucrarea metalelor realizată de artizanii locali și nu uitați să-i cereți fierarului rezident o scurtă demonstrație de forjare.",
-            "en": "Browse the intricate metalwork produced by local artisans here, and be sure to ask the resident blacksmith for a quick forging demonstration."
+            "en": "Browse the intricate metalwork produced by local artisans here, and be sure to ask the resident blacksmith for a quick forging demonstration.",
+            "fr": "Parcourez les ouvrages métalliques complexes produits par les artisans locaux ici, et n'hésitez pas à demander au forgeron résident une brève démonstration de forge."
           }
         },
         {
@@ -704,7 +780,8 @@
             "de": "Schloss Ancenis",
             "hu": "Ancenis kastélya",
             "ro": "Castelul Ancenis",
-            "en": "Ancenis Castle"
+            "en": "Ancenis Castle",
+            "fr": "Ancenis Castle"
           },
           "coords": [
             -1.176978,
@@ -719,7 +796,8 @@
             "de": "Erkunden Sie diese Festung mit Blick auf die Loire und achten Sie auf die Renaissance-Fassade, aber tragen Sie feste Schuhe für den unebenen Hof.",
             "hu": "Fedezze fel a Loire folyóra néző erődöt, különös figyelmet fordítva a reneszánsz homlokzatra, de viseljen masszív cipőt az egyenetlen udvar miatt.",
             "ro": "Explorați această fortăreață cu vedere la Loara, acordând o atenție deosebită fațadei renascentiste, dar purtați încălțăminte robustă pentru curte.",
-            "en": "Explore this fortress overlooking the Loire, paying special attention to the Renaissance façade, but wear sturdy shoes for the uneven courtyard."
+            "en": "Explore this fortress overlooking the Loire, paying special attention to the Renaissance façade, but wear sturdy shoes for the uneven courtyard.",
+            "fr": "Explorez cette forteresse surplombant la Loire, en accordant une attention particulière à la façade de la Renaissance, mais portez des chaussures solides pour la cour inégale."
           }
         },
         {
@@ -727,7 +805,8 @@
             "de": "Schloss L'Écochère",
             "hu": "L'Écochère kastélya",
             "ro": "Castelul Écochère",
-            "en": "Château de l'Écochère"
+            "en": "Château de l'Écochère",
+            "fr": "Château de l'Écochère"
           },
           "coords": [
             -1.204679,
@@ -742,7 +821,8 @@
             "de": "Entdecken Sie den Charme dieses Anwesens aus dem 19. Jahrhundert und holen Sie sich am Eingang eine Karte, um durch die großen Weinberge zu navigieren.",
             "hu": "Fedezze fel a völgy felett magasodó 19. századi birtok varázsát, és mindenképpen kérjen egy térképet a bejáratnál a hatalmas szőlőültetvényekhez.",
             "ro": "Descoperiți farmecul acestui domeniu din secolul al XIX-lea cocoțat deasupra văii, luând o hartă la intrare pentru a naviga prin vastele sale podgorii.",
-            "en": "Discover the charm of this 19th-century estate perched above the valley, making sure to grab a map at the entrance to navigate its vast vineyards."
+            "en": "Discover the charm of this 19th-century estate perched above the valley, making sure to grab a map at the entrance to navigate its vast vineyards.",
+            "fr": "Découvrez le charme de ce domaine du XIXe siècle perché au-dessus de la vallée, en prenant bien une carte à l'entrée pour vous repérer dans ses vastes vignobles."
           }
         },
         {
@@ -750,7 +830,8 @@
             "de": "Grée Sumpf",
             "hu": "Grée mocsár",
             "ro": "Mlaștina Grée",
-            "en": "Grée Marsh"
+            "en": "Grée Marsh",
+            "fr": "Marais de la Grée"
           },
           "coords": [
             -1.15919,
@@ -765,7 +846,8 @@
             "de": "Bringen Sie Ihr Fernglas mit, um seltene Zugvögel in diesem Schutzgebiet zu beobachten, und bleiben Sie unbedingt auf den markierten Holzstegen.",
             "hu": "Hozzon magával távcsövet a ritka vándormadarak megfigyeléséhez ebben a védett vizes élőhelyen, és szigorúan maradjon a kijelölt fapallókon a növényzet védelmében.",
             "ro": "Aduceți binoclul pentru a observa păsările migratoare rare în acest ecosistem protejat, rămânând strict pe pasarelele marcate pentru a proteja flora.",
-            "en": "Bring your binoculars to spot rare migratory birds in this protected wetland ecosystem, sticking strictly to the marked boardwalks to protect the flora."
+            "en": "Bring your binoculars to spot rare migratory birds in this protected wetland ecosystem, sticking strictly to the marked boardwalks to protect the flora.",
+            "fr": "Emportez vos jumelles pour observer les oiseaux migrateurs rares dans cet écosystème de zones humides protégé, en restant strictement sur les passerelles balisées pour protéger la flore."
           }
         }
       ],
@@ -773,7 +855,8 @@
         "de": "Beginnen Sie mit einer Zeitreise am mysteriösen Dolmen, gefolgt von lokaler Handwerkskunst. Fahren Sie hoch zum ikonischen Schloss Ancenis, um die Mauern zu bewundern. Begeben Sie sich danach zum weitläufigen Château de l'Écochère. Lassen Sie den Tag entspannt im Grée Sumpf ausklingen.",
         "hu": "Kezdje a napot az évezredekkel ezelőtti rejtélyes dolmennél, majd nézze meg a helyi kézműveseket. Hajtson fel a híres Ancenis kastélyhoz a magas reneszánsz falak megcsodálásához. Látogasson el a kiterjedt Écochère kastélyhoz. A napot a védett Grée mocsár megnyugtató környezetében zárja.",
         "ro": "Începeți călătorind mii de ani în urmă la misteriosul Dolmen, urmat de artizanatul local de la fierării. Conduceți până la iconicul Castel Ancenis pentru a-i aprecia zidurile. Aventurați-vă în afara centrului spre vastul Castel Écochère. Încheiați ziua relaxându-vă în mlaștinile Grée.",
-        "en": "Begin by stepping back thousands of years at the mysterious Dolmen, followed by local craftsmanship at the forges. Drive up to the iconic Ancenis Castle to appreciate its towering Renaissance walls. Venture outside the immediate town center to the sprawling Château de l'Écochère. End your day relaxing in the protected Grée Marsh wetlands."
+        "en": "Begin by stepping back thousands of years at the mysterious Dolmen, followed by local craftsmanship at the forges. Drive up to the iconic Ancenis Castle to appreciate its towering Renaissance walls. Venture outside the immediate town center to the sprawling Château de l'Écochère. End your day relaxing in the protected Grée Marsh wetlands.",
+        "fr": "Commencez par remonter des milliers d'années au mystérieux Dolmen, suivi de l'artisanat local aux forges. Montez jusqu'à l'emblématique château d'Ancenis pour apprécier ses imposants remparts Renaissance. Aventurez-vous hors du centre-ville pour visiter le vaste Château de l'Écochère. Terminez la journée en vous relaxant dans les zones humides protégées du Marais de la Grée."
       },
       "variants": {
         "rainy": {
@@ -781,7 +864,8 @@
             "de": "Ein verregneter Tag lässt sich im Auto entspannt genießen. Wir starten am Dolmen, wo der Regen auf das Dach trommelt. Weiter geht es zur Kunstschmiede und zum Schloss, wobei wir zwischen den Stopps immer wieder im trockenen Fahrzeug aufwärmen können. Der Nachmittag führt uns zum Château de l'Écochère und zum Grée Sumpf, wo wir die Landschaft geschützt aus dem Fenster betrachten.",
             "hu": "Egy esős napot az autóban is kényelmesen élvezhetünk. A dolmennél kezdünk, ahol az eső kopog a tetőn. Továbbhaladunk a kovácsműhelyhez és a várhoz, a megállók között pedig mindig visszatérhetünk a száraz utastérbe. Délután az Écochère kastély és a Grée mocsár következik, ahol a tájat az autó ablakának védelméből, szárazon is megcsodálhatjuk.",
             "ro": "O zi ploioasă poate fi savurată relaxat din mașină. Începem la dolmen, unde ploaia bate în plafon. Continuăm spre fierăria de artă și castel, având posibilitatea de a ne încălzi în vehicul între opriri. După-amiaza ne duce la Château de l'Écochère și la mlaștina Grée, unde admirăm peisajul la adăpost, prin geamurile mașinii.",
-            "en": "A rainy day can be enjoyed comfortably from the car. We start at the dolmen, with rain drumming on the roof. We continue to the art forge and the castle, always able to warm up in the dry vehicle between stops. The afternoon leads us to Château de l'Écochère and the Grée Marsh, where we can admire the landscape from the window's protection."
+            "en": "A rainy day can be enjoyed comfortably from the car. We start at the dolmen, with rain drumming on the roof. We continue to the art forge and the castle, always able to warm up in the dry vehicle between stops. The afternoon leads us to Château de l'Écochère and the Grée Marsh, where we can admire the landscape from the window's protection.",
+            "fr": "Une journée pluvieuse peut être agréablement vécue depuis la voiture. Nous commençons au dolmen, sous le tambourinement de la pluie sur le toit. Nous continuons vers la forge d'art et le château, pouvant toujours nous réchauffer dans le véhicule sec entre les arrêts. L'après-midi nous mène au Château de l'Écochère et au Marais de la Grée, où l'on peut admirer le paysage à l'abri des vitres."
           },
           "stops": [
             {
@@ -789,13 +873,15 @@
                 "de": "Dolmen de la Pierre Couvretière",
                 "hu": "Pierre Couvretière Dolmen",
                 "ro": "Dolmen de la Pierre Couvretière",
-                "en": "Dolmen de la Pierre Couvretière"
+                "en": "Dolmen de la Pierre Couvretière",
+                "fr": "Dolmen de la Pierre Couvretière"
               },
               "tip_5lang": {
                 "de": "Parken Sie so nah wie möglich, um den Dolmen bei kurzen Regenpausen zu besichtigen; der Boden um die Steine kann bei Nässe sehr weich und schlammig sein.",
                 "hu": "Parkoljon a lehető legközelebb, hogy az esőszünetekben gyorsan megnézhesse a dolment; a kövek körüli talaj esőben nagyon felázhat és sáros lehet.",
                 "ro": "Parcați cât mai aproape pentru a vizita dolmenul în scurte pauze de ploaie; solul din jurul pietrelor poate fi foarte moale și noroios când este ud.",
-                "en": "Park as close as possible to visit the dolmen during short breaks in the rain; the ground around the stones can be very soft and muddy when wet."
+                "en": "Park as close as possible to visit the dolmen during short breaks in the rain; the ground around the stones can be very soft and muddy when wet.",
+                "fr": "Garez-vous le plus près possible pour visiter le dolmen lors de courtes accalmies ; le sol autour des pierres peut être très meuble et boueux par temps humide."
               }
             },
             {
@@ -803,13 +889,15 @@
                 "de": "Kunstschmiede",
                 "hu": "Művészeti Kovácsműhely",
                 "ro": "Fierăriile de Artă",
-                "en": "Forges de l'Art"
+                "en": "Forges de l'Art",
+                "fr": "Forges de l'Art"
               },
               "tip_5lang": {
                 "de": "Ein idealer Ort für einen längeren Aufenthalt bei starkem Regen; nutzen Sie die Zeit, um die Details der Schmiedekunst im trockenen Innenraum zu studieren.",
                 "hu": "Ideális hely egy hosszabb tartózkodásra heves esőzés idején; használja ki az időt a kovácsművészet részleteinek tanulmányozására a száraz belső térben.",
                 "ro": "Un loc ideal pentru o ședere mai lungă în caz de ploaie torențială; folosiți timpul pentru a studia detaliile fierăriei în interiorul uscat al atelierului.",
-                "en": "An ideal spot for a longer stay during heavy rain; take your time to study the details of the blacksmith's art in the dry interior of the workshop."
+                "en": "An ideal spot for a longer stay during heavy rain; take your time to study the details of the blacksmith's art in the dry interior of the workshop.",
+                "fr": "Un endroit idéal pour une longue pause par forte pluie ; prenez le temps d'étudier les détails de l'art du forgeron à l'intérieur sec de l'atelier."
               }
             },
             {
@@ -817,13 +905,15 @@
                 "de": "Schloss Ancenis",
                 "hu": "Ancenis kastélya",
                 "ro": "Castelul Ancenis",
-                "en": "Ancenis Castle"
+                "en": "Ancenis Castle",
+                "fr": "Château d'Ancenis"
               },
               "tip_5lang": {
                 "de": "Nutzen Sie den nahegelegenen Parkplatz, um trockenen Fußes zum Schlosseingang zu gelangen; die Regenrinnen der alten Mauern bieten oft spektakuläre Wasserspiele.",
                 "hu": "Használja a közeli parkolót, hogy száraz lábbal érjen a várbejárathoz; a régi falak vízköpői esőben gyakran látványos vízi játékot produkálnak.",
                 "ro": "Folosiți parcarea din apropiere pentru a ajunge la intrarea castelului cu picioarele uscate; jgheaburile zidurilor vechi oferă adesea spectacole de apă.",
-                "en": "Use the nearby parking to reach the castle entrance with dry feet; the rain spouts of the old walls often create spectacular water displays in the rain."
+                "en": "Use the nearby parking to reach the castle entrance with dry feet; the rain spouts of the old walls often create spectacular water displays in the rain.",
+                "fr": "Utilisez le parking à proximité pour atteindre l'entrée du château sans vous mouiller les pieds ; les gargouilles des vieux murs créent souvent des jeux d'eau spectaculaires sous la pluie."
               }
             },
             {
@@ -831,13 +921,15 @@
                 "de": "Schloss L'Écochère",
                 "hu": "L'Écochère kastélya",
                 "ro": "Castelul Écochère",
-                "en": "Château de l'Écochère"
+                "en": "Château de l'Écochère",
+                "fr": "Château de l'Écochère"
               },
               "tip_5lang": {
                 "de": "Die Zufahrt bietet einen tollen Blick auf das Schloss, auch ohne auszusteigen; achten Sie auf Aquaplaning auf der schmalen Straße zum Anwesen.",
                 "hu": "A bekötőút remek kilátást nyújt a kastélyra anélkül is, hogy kiszállna; ügyeljen a vízenúszás veszélyére a birtokhoz vezető keskeny és vizes aszfalton.",
                 "ro": "Drumul de acces oferă o vedere excelentă asupra castelului chiar și fără a coborî; atenție la acvaplanare pe drumul îngust care duce spre proprietate.",
-                "en": "The access road offers a great view of the castle even without getting out; watch out for aquaplaning on the narrow, wet road leading to the estate."
+                "en": "The access road offers a great view of the castle even without getting out; watch out for aquaplaning on the narrow, wet road leading to the estate.",
+                "fr": "La route d'accès offre une belle vue sur le château sans sortir du véhicule ; attention à l'aquaplaning sur la route étroite et mouillée menant au domaine."
               }
             },
             {
@@ -845,13 +937,15 @@
                 "de": "Grée Sumpf",
                 "hu": "Grée mocsár",
                 "ro": "Mlaștina Grée",
-                "en": "Grée Marsh"
+                "en": "Grée Marsh",
+                "fr": "Marais de la Grée"
               },
               "tip_5lang": {
                 "de": "Erkunden Sie die Ränder des Sumpfgebiets bequem vom Auto aus; die vogelreiche Natur lässt sich durch die Scheiben auch bei Regen gut beobachten.",
                 "hu": "Fedezze fel a mocsárvidék szélét kényelmesen az autóból; a madárvilág az ablakokon keresztül, szárazon is remekül megfigyelhető még esős időben is.",
                 "ro": "Explorați marginile mlaștinii confortabil din mașină; natura bogată în păsări poate fi observată bine prin geamuri chiar și atunci când plouă afară.",
-                "en": "Explore the edges of the marshland comfortably from your car; the bird-rich nature can be well observed through the windows even during a downpour."
+                "en": "Explore the edges of the marshland comfortably from your car; the bird-rich nature can be well observed through the windows even during a downpour.",
+                "fr": "Explorez le pourtour des marais confortablement depuis votre voiture ; la nature riche en oiseaux peut être bien observée à travers les vitres même sous une forte pluie."
               }
             }
           ]
@@ -861,7 +955,8 @@
             "de": "Ein klarer, kalter Wintertag beginnt am Dolmen, den wir im ersten Licht besuchen. Die Fahrt führt uns weiter zur warmen Kunstschmiede und zum Schloss, wobei die Heizung im Auto für Komfort sorgt. Am Nachmittag bewundern wir das Château de l'Écochère im goldenen Licht, bevor wir pünktlich zum Sonnenuntergang um 17:00 Uhr die weite Landschaft des Grée Sumpfes erreichen.",
             "hu": "Egy tiszta, hideg téli nap a dolmennél kezdődik, amit az első fényeknél látogatunk meg. Utunk a meleg kovácsműhelyhez és a várhoz vezet, miközben az autó fűtése kényelmet biztosít. Délután az Écochère kastélyt csodáljuk meg az arany fényben, majd pontosan a 17:00 órai naplementére érünk a Grée mocsár tágas tájaira.",
             "ro": "O zi senină și rece de iarnă începe la dolmen, pe care îl vizităm la prima lumină. Drumul ne duce spre fierăria caldă și castel, în timp ce încălzirea din mașină asigură confortul. După-amiaza admirăm Château de l'Écochère în lumina aurie, înainte de a ajunge în peisajul vast al mlaștinii Grée fix la apus, ora 17:00.",
-            "en": "A clear, cold winter day starts at the dolmen, visited in the first light. The drive leads us to the warm art forge and the castle, with the car's heater providing comfort. In the afternoon, we admire Château de l'Écochère in the golden light before reaching the vast landscape of the Grée Marsh exactly for the 17:00 sunset."
+            "en": "A clear, cold winter day starts at the dolmen, visited in the first light. The drive leads us to the warm art forge and the castle, with the car's heater providing comfort. In the afternoon, we admire Château de l'Écochère in the golden light before reaching the vast landscape of the Grée Marsh exactly for the 17:00 sunset.",
+            "fr": "Une journée claire et froide d'hiver commence au dolmen, visité à la première lumière. La route nous mène à la forge d'art chauffée et au château, le chauffage de la voiture apportant du confort. L'après-midi, nous admirons le Château de l'Écochère dans la lumière dorée avant d'atteindre l'immense paysage du Marais de la Grée juste pour le coucher du soleil à 17:00."
           },
           "stops": [
             {
@@ -869,13 +964,15 @@
                 "de": "Dolmen de la Pierre Couvretière",
                 "hu": "Pierre Couvretière Dolmen",
                 "ro": "Dolmen de la Pierre Couvretière",
-                "en": "Dolmen de la Pierre Couvretière"
+                "en": "Dolmen de la Pierre Couvretière",
+                "fr": "Dolmen de la Pierre Couvretière"
               },
               "tip_5lang": {
                 "de": "Kommen Sie früh am Morgen, wenn der Reif die Steine bedeckt; die klare Winterluft ermöglicht gestochen scharfe Fotos dieses prähistorischen Ortes.",
                 "hu": "Érkezzen korán reggel, amikor a zúzmara befedi a köveket; a tiszta téli levegő tűéles fotókat tesz lehetővé erről a különleges őskori helyszínről.",
                 "ro": "Veniți dimineața devreme, când bruma acoperă pietrele; aerul clar de iarnă permite fotografii extrem de clare ale acestui sit preistoric fascinant.",
-                "en": "Arrive early in the morning when frost covers the stones; the clear winter air allows for razor-sharp photos of this remarkable prehistoric site."
+                "en": "Arrive early in the morning when frost covers the stones; the clear winter air allows for razor-sharp photos of this remarkable prehistoric site.",
+                "fr": "Arrivez tôt le matin lorsque le givre recouvre les pierres ; l'air hivernal clair permet des photos d'une netteté remarquable de ce site préhistorique."
               }
             },
             {
@@ -883,13 +980,15 @@
                 "de": "Kunstschmiede",
                 "hu": "Művészeti Kovácsműhely",
                 "ro": "Fierăriile de Artă",
-                "en": "Forges de l'Art"
+                "en": "Forges de l'Art",
+                "fr": "Forges de l'Art"
               },
               "tip_5lang": {
                 "de": "Ein wunderbarer Zwischenstopp, um die Kälte draußen zu vergessen; parken Sie direkt davor, um die Zeit im eisigen Wind so kurz wie möglich zu halten.",
                 "hu": "Csodálatos köztes megálló, hogy elfelejtse a kinti hideget; parkoljon közvetlenül előtte, hogy a jeges szélben töltött időt a lehető legrövidebbre fogja.",
                 "ro": "Un popas minunat pentru a uita de frigul de afară; parcați chiar în față pentru a reduce la minimum timpul petrecut în vântul înghețat de iarnă.",
-                "en": "A wonderful stopover to forget the cold outside; park directly in front to keep the time spent in the icy wind as short as possible between visits."
+                "en": "A wonderful stopover to forget the cold outside; park directly in front to keep the time spent in the icy wind as short as possible between visits.",
+                "fr": "Une merveilleuse étape pour oublier le froid extérieur ; garez-vous directement devant pour réduire au maximum le temps passé dans le vent glacial entre les visites."
               }
             },
             {
@@ -897,13 +996,15 @@
                 "de": "Schloss Ancenis",
                 "hu": "Ancenis kastélya",
                 "ro": "Castelul Ancenis",
-                "en": "Ancenis Castle"
+                "en": "Ancenis Castle",
+                "fr": "Château d'Ancenis"
               },
               "tip_5lang": {
                 "de": "Die Parkplätze am Flussufer bieten einen tollen Blick auf die Festung; im Winter ist es hier weniger überlaufen, was entspannte Aufnahmen ermöglicht.",
                 "hu": "A folyóparti parkolók remek kilátást nyújtanak az erődre; télen itt sokkal kisebb a tömeg, ami nyugodt és zavartalan fényképezést tesz lehetővé.",
                 "ro": "Parcările de pe malul râului oferă o vedere excelentă asupra fortăreței; iarna este mai puțin aglomerat, ceea ce permite realizarea unor fotografii relaxate.",
-                "en": "The riverside parking spots offer a great view of the fortress; it is less crowded in winter, allowing for relaxed and undisturbed photography."
+                "en": "The riverside parking spots offer a great view of the fortress; it is less crowded in winter, allowing for relaxed and undisturbed photography.",
+                "fr": "Les emplacements de stationnement en bord de rivière offrent une belle vue sur la forteresse ; il y a moins de monde en hiver, ce qui permet des photos détendues et sans gêne."
               }
             },
             {
@@ -911,13 +1012,15 @@
                 "de": "Schloss L'Écochère",
                 "hu": "L'Écochère kastélya",
                 "ro": "Castelul Écochère",
-                "en": "Château de l'Écochère"
+                "en": "Château de l'Écochère",
+                "fr": "Château de l'Écochère"
               },
               "tip_5lang": {
                 "de": "Genießen Sie den Anblick des Schlosses im warmen Licht der tiefstehenden Sonne; prüfen Sie vor der Abfahrt den Frostschutz in Ihrer Scheibenwaschanlage.",
                 "hu": "Élvezze a kastély látványát az alacsonyan járó nap meleg fényében; indulás előtt mindenképpen ellenőrizze a fagyállót a szélvédőmosó folyadékban.",
                 "ro": "Bucurați-vă de vederea castelului în lumina caldă a soarelui de iarnă; verificați antigelul din instalația de spălare a parbrizului înainte de plecare.",
-                "en": "Enjoy the view of the castle in the warm light of the low winter sun; be sure to check the antifreeze in your windshield washer system before setting off."
+                "en": "Enjoy the view of the castle in the warm light of the low winter sun; be sure to check the antifreeze in your windshield washer system before setting off.",
+                "fr": "Profitez de la vue sur le château sous la lumière chaude du soleil bas d'hiver ; pensez à vérifier l'antigel du lave-glace avant de partir."
               }
             },
             {
@@ -925,13 +1028,15 @@
                 "de": "Grée Sumpf",
                 "hu": "Grée mocsár",
                 "ro": "Mlaștina Grée",
-                "en": "Grée Marsh"
+                "en": "Grée Marsh",
+                "fr": "Marais de la Grée"
               },
               "tip_5lang": {
                 "de": "Beobachten Sie den Sonnenuntergang um 17:00 Uhr direkt aus dem beheizten Auto; die weite, frostige Ebene bietet ein spektakuläres Farbspiel am Himmel.",
                 "hu": "Figyelje a 17:00 órai naplementét közvetlenül a fűtött autóból; a tágas, fagyos síkság felett az égbolt látványos játékkal búcsúztatja a téli napot.",
                 "ro": "Observați apusul soarelui la ora 17:00 direct din mașina încălzită; câmpia vastă și înghețată oferă un joc spectaculos de culori pe cerul serii.",
-                "en": "Watch the 17:00 sunset directly from your heated car; the vast, frosty plain offers a spectacular display of colors in the winter evening sky."
+                "en": "Watch the 17:00 sunset directly from your heated car; the vast, frosty plain offers a spectacular display of colors in the winter evening sky.",
+                "fr": "Regardez le coucher du soleil à 17:00 directement depuis votre voiture chauffée ; la vaste plaine givrée offre un spectacle de couleurs spectaculaire dans le ciel du soir d'hiver."
               }
             }
           ]

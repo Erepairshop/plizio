@@ -21,7 +21,8 @@
             "de": "Place de la Réunion",
             "hu": "Place de la Réunion",
             "ro": "Place de la Réunion",
-            "en": "Place de la Réunion"
+            "en": "Place de la Réunion",
+            "fr": "Place de la Réunion"
           },
           "coords": [
             7.339,
@@ -36,7 +37,8 @@
             "de": "Bewundern Sie die bunten Fassaden am frühen Morgen.",
             "hu": "Csodálja meg a színes homlokzatokat a kora reggeli órákban.",
             "ro": "Admirați fațadele colorate la primele ore ale dimineții.",
-            "en": "Admire the colorful facades in the early morning light."
+            "en": "Admire the colorful facades in the early morning light.",
+            "fr": "Admirez les façades colorées au lever du jour."
           }
         },
         {
@@ -44,7 +46,8 @@
             "de": "Temple Saint-Étienne",
             "hu": "Szent István-templom",
             "ro": "Templul Saint-Étienne",
-            "en": "Temple Saint-Étienne"
+            "en": "Temple Saint-Étienne",
+            "fr": "Temple Saint-Étienne"
           },
           "coords": [
             7.338,
@@ -59,7 +62,8 @@
             "de": "Die Glasfenster aus dem 14. Jahrhundert sind spektakulär.",
             "hu": "A 14. századi üvegablakok látványa lenyűgöző.",
             "ro": "Vitraliile din secolul al XIV-lea sunt spectaculoase.",
-            "en": "The 14th-century stained glass windows are spectacular."
+            "en": "The 14th-century stained glass windows are spectacular.",
+            "fr": "Les vitraux du XIVe siècle sont spectaculaires."
           }
         },
         {
@@ -67,7 +71,8 @@
             "de": "Hôtel de Ville",
             "hu": "Városháza",
             "ro": "Primăria (Hôtel de Ville)",
-            "en": "Hôtel de Ville"
+            "en": "Hôtel de Ville",
+            "fr": "Hôtel de Ville"
           },
           "coords": [
             7.339,
@@ -82,7 +87,8 @@
             "de": "Das Gebäude beherbergt das Historische Museum.",
             "hu": "Az épületben található a Történeti Múzeum.",
             "ro": "Clădirea găzduiește Muzeul de Istorie.",
-            "en": "The building houses the Historical Museum."
+            "en": "The building houses the Historical Museum.",
+            "fr": "Le bâtiment abrite le musée historique."
           }
         },
         {
@@ -90,7 +96,8 @@
             "de": "Musée de l'Impression sur Étoffes",
             "hu": "Textilnyomtatási Múzeum",
             "ro": "Muzeul Imprimeurilor pe Țesături",
-            "en": "Museum of Printed Textiles"
+            "en": "Museum of Printed Textiles",
+            "fr": "Musée des Tissus Imprimés"
           },
           "coords": [
             7.338,
@@ -105,7 +112,8 @@
             "de": "Entdecken Sie die reiche Textilgeschichte von Mulhouse.",
             "hu": "Fedezze fel Mulhouse gazdag textilipari múltját.",
             "ro": "Descoperiți istoria bogată a textilelor din Mulhouse.",
-            "en": "Discover the rich textile history of Mulhouse."
+            "en": "Discover the rich textile history of Mulhouse.",
+            "fr": "Découvrez la riche histoire textile de Mulhouse."
           }
         },
         {
@@ -113,7 +121,8 @@
             "de": "Tour de l'Europe",
             "hu": "Európa-torony",
             "ro": "Turnul Europei",
-            "en": "Tour de l'Europe"
+            "en": "Tour de l'Europe",
+            "fr": "Tour de l'Europe"
           },
           "coords": [
             7.341,
@@ -128,7 +137,8 @@
             "de": "Genießen Sie den Panoramablick über die Stadt bis zum Schwarzwald.",
             "hu": "Élvezze a panorámát a városra és a Fekete-erdőre.",
             "ro": "Bucurați-vă de panorama asupra orașului până la Pădurea Neagră.",
-            "en": "Enjoy the panoramic view of the city and the Black Forest."
+            "en": "Enjoy the panoramic view of the city and the Black Forest.",
+            "fr": "Profitez de la vue panoramique sur la ville et la Forêt-Noire."
           }
         }
       ],
@@ -136,7 +146,8 @@
         "de": "Beginnen Sie Ihren Tag im historischen Herzen von Mulhouse auf der Place de la Réunion. Nach der Besichtigung des prächtigen Temple Saint-Étienne und des bemalten Rathauses tauchen Sie in die industrielle Eleganz des Textilmuseums ein. Der Spaziergang endet mit einem weiten Blick vom Tour de l'Europe, der die moderne Seite der Stadt zeigt.",
         "hu": "Kezdje a napot Mulhouse történelmi szívében, a Place de la Réunion téren. A pompás Szent István-templom és a festett városháza megtekintése után merüljön el a Textilnyomtatási Múzeum ipari eleganciájában. A séta az Európa-toronynál zárul, ahonnan remek kilátás nyílik a város modern arcára és a távolabbi hegyekre.",
         "ro": "Începeți ziua în inima istorică a orașului Mulhouse, în Place de la Réunion. După vizitarea magnificului Templu Saint-Étienne și a primăriei pictate, scufundați-vă în eleganța industrială a Muzeului Textilelor. Plimbarea se încheie cu o priveliște largă de la Turnul Europei, care dezvăluie latura modernă a orașului.",
-        "en": "Start your day in the historical heart of Mulhouse at Place de la Réunion. After visiting the magnificent Temple Saint-Étienne and the painted Town Hall, dive into the industrial elegance of the Textile Museum. The walk concludes with a wide view from the Tour de l'Europe, showcasing the modern side of the city and the distant mountains."
+        "en": "Start your day in the historical heart of Mulhouse at Place de la Réunion. After visiting the magnificent Temple Saint-Étienne and the painted Town Hall, dive into the industrial elegance of the Textile Museum. The walk concludes with a wide view from the Tour de l'Europe, showcasing the modern side of the city and the distant mountains.",
+        "fr": "Commencez votre journée au cœur historique de Mulhouse sur la Place de la Réunion. Après avoir visité le magnifique Temple Saint-Étienne et l'Hôtel de Ville peint, plongez dans l'élégance industrielle du Musée des Tissus. La promenade se termine par une vaste vue depuis la Tour de l'Europe, montrant le côté moderne de la ville et les montagnes lointaines."
       },
       "gastro_picks": {
         "de": [
@@ -256,6 +267,11 @@
           "The old town is compact and perfect for exploring on foot.",
           "Keep an eye out for the Trompe-l'œil paintings on the Town Hall.",
           "Comfortable shoes are advised for the cobblestone streets."
+        ],
+        "fr": [
+          "La vieille ville est compacte et parfaite pour être explorée à pied.",
+          "Ouvrez l'œil pour les peintures en trompe-l'œil sur l'Hôtel de Ville.",
+          "Des chaussures confortables sont recommandées pour les rues pavées."
         ]
       }
     },
@@ -272,7 +288,8 @@
             "de": "Place de la Réunion",
             "hu": "Place de la Réunion",
             "ro": "Place de la Réunion",
-            "en": "Place de la Réunion"
+            "en": "Place de la Réunion",
+            "fr": "Place de la Réunion"
           },
           "coords": [
             7.339,
@@ -287,7 +304,8 @@
             "de": "Startpunkt im Zentrum.",
             "hu": "Központi kiindulópont.",
             "ro": "Punct de plecare central.",
-            "en": "Central starting point."
+            "en": "Central starting point.",
+            "fr": "Point de départ central."
           }
         },
         {
@@ -295,7 +313,8 @@
             "de": "Cité de l'Automobile",
             "hu": "Autómúzeum",
             "ro": "Muzeul Automobilului",
-            "en": "Cité de l'Automobile"
+            "en": "Cité de l'Automobile",
+            "fr": "Cité de l'Automobile"
           },
           "coords": [
             7.33,
@@ -310,7 +329,8 @@
             "de": "Die Sammlung Schlumpf ist weltberühmt.",
             "hu": "A Schlumpf-gyűjtemény világhírű.",
             "ro": "Colecția Schlumpf este faimoasă în întreaga lume.",
-            "en": "The Schlumpf collection is world-famous."
+            "en": "The Schlumpf collection is world-famous.",
+            "fr": "La collection Schlumpf est connue mondialement."
           }
         },
         {
@@ -318,7 +338,8 @@
             "de": "Musée de l'Impression sur Étoffes",
             "hu": "Textilnyomtatási Múzeum",
             "ro": "Muzeul Textilelor",
-            "en": "Museum of Printed Textiles"
+            "en": "Museum of Printed Textiles",
+            "fr": "Musée des Tissus Imprimés"
           },
           "coords": [
             7.338,
@@ -333,7 +354,8 @@
             "de": "Schöne Radwege entlang des Kanals.",
             "hu": "Szép kerékpárutak a csatorna mentén.",
             "ro": "Piste frumoase de biciclete de-a lungul canalului.",
-            "en": "Beautiful bike paths along the canal."
+            "en": "Beautiful bike paths along the canal.",
+            "fr": "De belles pistes cyclables le long du canal."
           }
         },
         {
@@ -341,7 +363,8 @@
             "de": "Zoo de Mulhouse",
             "hu": "Mulhouse-i Állatkert",
             "ro": "Grădina Zoologică",
-            "en": "Mulhouse Zoo"
+            "en": "Mulhouse Zoo",
+            "fr": "Zoo de Mulhouse"
           },
           "coords": [
             7.348,
@@ -356,7 +379,8 @@
             "de": "Auch ein botanischer Garten.",
             "hu": "Egyben botanikus kert is.",
             "ro": "Este și o grădină botanică.",
-            "en": "Also functions as a botanical garden."
+            "en": "Also functions as a botanical garden.",
+            "fr": "Fonctionne également comme jardin botanique."
           }
         },
         {
@@ -364,7 +388,8 @@
             "de": "Tour de l'Europe",
             "hu": "Európa-torony",
             "ro": "Turnul Europei",
-            "en": "Tour de l'Europe"
+            "en": "Tour de l'Europe",
+            "fr": "Tour de l'Europe"
           },
           "coords": [
             7.341,
@@ -379,7 +404,8 @@
             "de": "Abschluss mit Ausblick.",
             "hu": "Zárás kilátással.",
             "ro": "Final cu vedere panoramică.",
-            "en": "Finish with a view."
+            "en": "Finish with a view.",
+            "fr": "Terminez par une vue."
           }
         }
       ],
@@ -387,7 +413,8 @@
         "de": "Entdecken Sie Mulhouse auf zwei Rädern! Von der Altstadt radeln Sie zum beeindruckenden Automobilmuseum. Danach führt der Weg entlang der Kanäle zum Textilmuseum und hinauf zum Zoo und botanischen Garten. Den Tag beschließen Sie mit einem Panoramablick vom Tour de l'Europe.",
         "hu": "Fedezze fel Mulhouse-t két keréken! Az óvárosból indulva tekerjen el a lenyűgöző Autómúzeumig. Ezután a csatornák mentén haladva érintse a Textilmúzeumot, majd kapaszkodjon fel az állat- és botanikus kerthez. A napot az Európa-toronynál zárhatja, pazar kilátással.",
         "ro": "Descoperiți Mulhouse pe două roți! Din centrul vechi, pedalați până la impresionantul Muzeu al Automobilului. Apoi, drumul continuă pe lângă canale spre Muzeul Textilelor și urcă spre Grădina Zoologică. Încheiați ziua cu o vedere panoramică de la Turnul Europei.",
-        "en": "Explore Mulhouse on two wheels! From the old town, cycle to the impressive Automobile Museum. Then, the path leads along the canals to the Textile Museum and up to the Zoo and Botanical Garden. End your day with a panoramic view from the Tour de l'Europe."
+        "en": "Explore Mulhouse on two wheels! From the old town, cycle to the impressive Automobile Museum. Then, the path leads along the canals to the Textile Museum and up to the Zoo and Botanical Garden. End your day with a panoramic view from the Tour de l'Europe.",
+        "fr": "Explorez Mulhouse à vélo ! Depuis la vieille ville, pédalez jusqu'à l'impressionnant Musée de l'Automobile. Ensuite, la piste longe les canaux jusqu'au Musée des Tissus puis mène au zoo et au jardin botanique. Terminez votre journée par une vue panoramique depuis la Tour de l'Europe."
       },
       "gastro_picks": {
         "de": [
@@ -491,6 +518,11 @@
           "Mulhouse is very bike-friendly.",
           "Use the canal paths for traffic-free routes.",
           "The terrain towards the zoo is slightly uphill."
+        ],
+        "fr": [
+          "Mulhouse est très adaptée aux vélos.",
+          "Utilisez les voies le long du canal pour des trajets sans circulation.",
+          "Le terrain vers le zoo est légèrement en montée."
         ]
       }
     },
@@ -507,7 +539,8 @@
             "de": "Place de la Réunion (Cluster Center)",
             "hu": "Place de la Réunion (Központi klaszter)",
             "ro": "Place de la Réunion (Cluster Centru)",
-            "en": "Place de la Réunion (Center Cluster)"
+            "en": "Place de la Réunion (Center Cluster)",
+            "fr": "Place de la Réunion (Centre)"
           },
           "coords": [
             7.339,
@@ -522,7 +555,8 @@
             "de": "Parken Sie im Parkhaus 'Réunion'.",
             "hu": "Parkoljon a 'Réunion' parkolóházban.",
             "ro": "Parcați în parcarea 'Réunion'.",
-            "en": "Park in the 'Réunion' parking garage."
+            "en": "Park in the 'Réunion' parking garage.",
+            "fr": "Garez-vous dans le parking « Réunion »."
           }
         },
         {
@@ -530,7 +564,8 @@
             "de": "Temple Saint-Étienne",
             "hu": "Szent István-templom",
             "ro": "Templul Saint-Étienne",
-            "en": "Temple Saint-Étienne"
+            "en": "Temple Saint-Étienne",
+            "fr": "Temple Saint-Étienne"
           },
           "coords": [
             7.338,
@@ -545,7 +580,8 @@
             "de": "Zu Fuß erreichbar vom Parkplatz.",
             "hu": "Gyalogosan elérhető a parkolóból.",
             "ro": "Accesibil pe jos din parcare.",
-            "en": "Walking distance from the parking spot."
+            "en": "Walking distance from the parking spot.",
+            "fr": "À distance de marche du parking."
           }
         },
         {
@@ -553,7 +589,8 @@
             "de": "Cité de l'Automobile (Cluster North)",
             "hu": "Autómúzeum (Északi klaszter)",
             "ro": "Muzeul Automobilului (Cluster Nord)",
-            "en": "Cité de l'Automobile (North Cluster)"
+            "en": "Cité de l'Automobile (North Cluster)",
+            "fr": "Cité de l'Automobile (Secteur Nord)"
           },
           "coords": [
             7.33,
@@ -568,7 +605,8 @@
             "de": "Großer Besucherparkplatz vorhanden.",
             "hu": "Nagy látogatói parkoló áll rendelkezésre.",
             "ro": "Parcare mare disponibilă pentru vizitatori.",
-            "en": "Large visitor parking available."
+            "en": "Large visitor parking available.",
+            "fr": "Grand parking visiteurs disponible."
           }
         },
         {
@@ -576,7 +614,8 @@
             "de": "Cité du Train (Cluster West)",
             "hu": "Vasútmúzeum (Nyugati klaszter)",
             "ro": "Muzeul Trenului (Cluster Vest)",
-            "en": "Cité du Train (West Cluster)"
+            "en": "Cité du Train (West Cluster)",
+            "fr": "Cité du Train (Secteur Ouest)"
           },
           "coords": [
             7.291,
@@ -591,7 +630,8 @@
             "de": "Das größte Eisenbahnmuseum Europas.",
             "hu": "Európa legnagyobb vasúti múzeuma.",
             "ro": "Cel mai mare muzeu feroviar din Europa.",
-            "en": "The largest railway museum in Europe."
+            "en": "The largest railway museum in Europe.",
+            "fr": "Le plus grand musée ferroviaire d'Europe."
           }
         },
         {
@@ -599,7 +639,8 @@
             "de": "Zoo de Mulhouse",
             "hu": "Mulhouse-i Állatkert",
             "ro": "Grădina Zoologică",
-            "en": "Mulhouse Zoo"
+            "en": "Mulhouse Zoo",
+            "fr": "Zoo de Mulhouse"
           },
           "coords": [
             7.348,
@@ -614,7 +655,8 @@
             "de": "Gut erreichbar mit dem Auto.",
             "hu": "Autóval könnyen megközelíthető.",
             "ro": "Ușor de accesat cu mașina.",
-            "en": "Easy to reach by car."
+            "en": "Easy to reach by car.",
+            "fr": "Facilement accessible en voiture."
           }
         },
         {
@@ -622,7 +664,8 @@
             "de": "Tour de l'Europe",
             "hu": "Európa-torony",
             "ro": "Turnul Europei",
-            "en": "Tour de l'Europe"
+            "en": "Tour de l'Europe",
+            "fr": "Tour de l'Europe"
           },
           "coords": [
             7.341,
@@ -637,7 +680,8 @@
             "de": "Kurzer Stopp für das Panorama.",
             "hu": "Rövid megálló a panoráma kedvéért.",
             "ro": "Oprire scurtă pentru panoramă.",
-            "en": "Short stop for the panorama."
+            "en": "Short stop for the panorama.",
+            "fr": "Arrêt court pour le panorama."
           }
         }
       ],
@@ -645,7 +689,8 @@
         "de": "Diese Autotour kombiniert das historische Zentrum mit den weltberühmten Technikmuseen von Mulhouse. Sie starten im Zentrum, fahren dann zum Nationalen Automobilmuseum und weiter zur Cité du Train. Den Nachmittag verbringen Sie entspannt im Zoo, bevor Sie den Tag am Tour de l'Europe ausklingen lassen.",
         "hu": "Ez az autós túra ötvözi a történelmi belvárost Mulhouse világhírű technikai múzeumaival. Kezdjen a központban, majd látogasson el a Nemzeti Autómúzeumba és a Cité du Train vasúti múzeumba. A délutánt töltse az állatkertben, mielőtt az Európa-toronynál befejezné a napot.",
         "ro": "Acest tur auto combină centrul istoric cu faimoasele muzee tehnice din Mulhouse. Începeți în centru, apoi vizitați Muzeul Național al Automobilului și Cité du Train. Petreceți după-amiaza la grădina zoologică, înainte de a încheia ziua la Turnul Europei.",
-        "en": "This car tour combines the historical center with Mulhouse's world-famous technical museums. Start in the center, then visit the National Automobile Museum and the Cité du Train. Spend the afternoon at the zoo before wrapping up your day at the Tour de l'Europe."
+        "en": "This car tour combines the historical center with Mulhouse's world-famous technical museums. Start in the center, then visit the National Automobile Museum and the Cité du Train. Spend the afternoon at the zoo before wrapping up your day at the Tour de l'Europe.",
+        "fr": "Cette visite en voiture combine le centre historique avec les musées techniques de renommée mondiale de Mulhouse. Commencez au centre, puis visitez le Musée National de l'Automobile et la Cité du Train. Passez l'après-midi au zoo avant de conclure votre journée à la Tour de l'Europe."
       },
       "gastro_picks": {
         "de": [
@@ -749,6 +794,11 @@
           "Use P+R parking if you plan to stay long in the center.",
           "The museums have large and affordable parking lots.",
           "Avoid rush hours in the city center."
+        ],
+        "fr": [
+          "Utilisez les parkings P+R si vous prévoyez de rester longtemps au centre.",
+          "Les musées disposent de grands parkings à prix abordable.",
+          "Évitez les heures de pointe dans le centre-ville."
         ]
       }
     },
@@ -765,7 +815,8 @@
             "de": "Place de la Réunion",
             "hu": "Place de la Réunion",
             "ro": "Place de la Réunion",
-            "en": "Place de la Réunion"
+            "en": "Place de la Réunion",
+            "fr": "Place de la Réunion"
           },
           "coords": [
             7.339,
@@ -780,7 +831,8 @@
             "de": "Zentraler Knotenpunkt der Straßenbahn.",
             "hu": "A villamoshálózat központi csomópontja.",
             "ro": "Nod central al rețelei de tramvai.",
-            "en": "Central hub of the tram network."
+            "en": "Central hub of the tram network.",
+            "fr": "Nœud central du réseau de tram."
           }
         },
         {
@@ -788,7 +840,8 @@
             "de": "Temple Saint-Étienne",
             "hu": "Szent István-templom",
             "ro": "Templul Saint-Étienne",
-            "en": "Temple Saint-Étienne"
+            "en": "Temple Saint-Étienne",
+            "fr": "Temple Saint-Étienne"
           },
           "coords": [
             7.338,
@@ -803,7 +856,8 @@
             "de": "Nur wenige Schritte von der Tramhaltestelle.",
             "hu": "Csak pár lépésre a villamosmegállótól.",
             "ro": "La doar câțiva pași de stația de tramvai.",
-            "en": "Just a few steps from the tram stop."
+            "en": "Just a few steps from the tram stop.",
+            "fr": "À quelques pas de l'arrêt de tram."
           }
         },
         {
@@ -811,7 +865,8 @@
             "de": "Cité de l'Automobile",
             "hu": "Autómúzeum",
             "ro": "Muzeul Automobilului",
-            "en": "Cité de l'Automobile"
+            "en": "Cité de l'Automobile",
+            "fr": "Cité de l'Automobile"
           },
           "coords": [
             7.33,
@@ -826,7 +881,8 @@
             "de": "Tram Linie 1 bis Haltestelle 'Musée de l'Auto'.",
             "hu": "1-es villamos a 'Musée de l'Auto' megállóig.",
             "ro": "Tramvaiul linia 1 până la stația 'Musée de l'Auto'.",
-            "en": "Tram line 1 to 'Musée de l'Auto' stop."
+            "en": "Tram line 1 to 'Musée de l'Auto' stop.",
+            "fr": "Ligne de tram 1 jusqu'à l'arrêt « Musée de l'Auto »."
           }
         },
         {
@@ -834,7 +890,8 @@
             "de": "Zoo de Mulhouse",
             "hu": "Mulhouse-i Állatkert",
             "ro": "Grădina Zoologică",
-            "en": "Mulhouse Zoo"
+            "en": "Mulhouse Zoo",
+            "fr": "Zoo de Mulhouse"
           },
           "coords": [
             7.348,
@@ -849,7 +906,8 @@
             "de": "Tram Linie 1 bis Hauptbahnhof, dann Bus 10/11.",
             "hu": "1-es villamos a főpályaudvarig, majd 10/11-es busz.",
             "ro": "Linia 1 până la gară, apoi autobuzul 10/11.",
-            "en": "Line 1 to main station, then bus 10/11."
+            "en": "Line 1 to main station, then bus 10/11.",
+            "fr": "Ligne 1 jusqu'à la gare principale, puis bus 10/11."
           }
         },
         {
@@ -857,7 +915,8 @@
             "de": "Tour de l'Europe",
             "hu": "Európa-torony",
             "ro": "Turnul Europei",
-            "en": "Tour de l'Europe"
+            "en": "Tour de l'Europe",
+            "fr": "Tour de l'Europe"
           },
           "coords": [
             7.341,
@@ -872,7 +931,8 @@
             "de": "Haltestelle 'Porte Jeune' ist ganz nah.",
             "hu": "A 'Porte Jeune' megálló nagyon közel van.",
             "ro": "Stația 'Porte Jeune' este foarte aproape.",
-            "en": "The 'Porte Jeune' stop is very close."
+            "en": "The 'Porte Jeune' stop is very close.",
+            "fr": "L'arrêt « Porte Jeune » est tout proche."
           }
         }
       ],
@@ -880,7 +940,8 @@
         "de": "Nutzen Sie das effiziente Straßenbahnnetz von Mulhouse! Vom historischen Zentrum gelangen Sie schnell zum Automobilmuseum. Mit Umsteigen am Bahnhof erreichen Sie den Zoo und botanischen Garten. Der Tag endet bequem im modernen Stadtviertel am Tour de l'Europe.",
         "hu": "Használja Mulhouse hatékony villamoshálózatát! A történelmi központból gyorsan eljuthat az Autómúzeumba. A vasútállomásnál átszállva elérheti az állatkertet is. A nap az Európa-torony modern környékén ér véget, kényelmes közlekedéssel.",
         "ro": "Folosiți rețeaua eficientă de tramvaie din Mulhouse! Din centrul istoric ajungeți rapid la Muzeul Automobilului. Cu o schimbare la gară, puteți ajunge la grădina zoologică. Ziua se încheie confortabil în cartierul modern de lângă Turnul Europei.",
-        "en": "Use Mulhouse's efficient tram network! From the historical center, you can quickly reach the Automobile Museum. By changing at the main station, you can reach the zoo and botanical garden. The day ends conveniently in the modern district by the Tour de l'Europe."
+        "en": "Use Mulhouse's efficient tram network! From the historical center, you can quickly reach the Automobile Museum. By changing at the main station, you can reach the zoo and botanical garden. The day ends conveniently in the modern district by the Tour de l'Europe.",
+        "fr": "Utilisez l'efficace réseau de tram de Mulhouse ! Depuis le centre historique, vous pouvez rejoindre rapidement le Musée de l'Automobile. En changeant à la gare principale, vous pouvez atteindre le zoo et le jardin botanique. La journée se termine facilement dans le quartier moderne près de la Tour de l'Europe."
       },
       "gastro_picks": {
         "de": [
@@ -984,6 +1045,11 @@
           "Buy a 24-hour pass for unlimited travel.",
           "Trams run frequently.",
           "Look out for the Tram-Train, which also goes to the surrounding areas."
+        ],
+        "fr": [
+          "Achetez un pass 24 heures pour des trajets illimités.",
+          "Les trams circulent fréquemment.",
+          "Surveillez le Tram-Train, qui dessert aussi les environs."
         ]
       }
     }

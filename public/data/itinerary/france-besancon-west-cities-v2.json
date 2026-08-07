@@ -21,7 +21,8 @@
             "de": "Zitadelle von Besançon",
             "hu": "Besançoni fellegvár",
             "ro": "Citadela din Besançon",
-            "en": "Citadel of Besançon"
+            "en": "Citadel of Besançon",
+            "fr": "Citadelle de Besançon"
           },
           "coords": [
             6.031,
@@ -36,7 +37,8 @@
             "de": "Besuchen Sie den Zoo innerhalb der Mauern.",
             "hu": "Nézze meg az erőd falai közt lévő állatkertet is.",
             "ro": "Vizitați grădina zoologică din interiorul zidurilor.",
-            "en": "Visit the zoo located within the fortress walls."
+            "en": "Visit the zoo located within the fortress walls.",
+            "fr": "Visitez le zoo situé à l'intérieur des remparts."
           }
         },
         {
@@ -44,7 +46,8 @@
             "de": "Kathedrale Saint-Jean & Astronomische Uhr",
             "hu": "Szent János katedrális és csillagászati óra",
             "ro": "Catedrala Saint-Jean și Ceasul Astronomic",
-            "en": "Saint-Jean Cathedral & Astronomical Clock"
+            "en": "Saint-Jean Cathedral & Astronomical Clock",
+            "fr": "Cathédrale Saint-Jean & horloge astronomique"
           },
           "coords": [
             6.0305,
@@ -59,7 +62,8 @@
             "de": "Die Uhr zeigt 30.000 Teile und 57 Zifferblätter.",
             "hu": "Az óra 30 000 alkatrészből és 57 számlapból áll.",
             "ro": "Ceasul are 30.000 de piese și 57 de cadranuri.",
-            "en": "The clock features 30,000 parts and 57 dials."
+            "en": "The clock features 30,000 parts and 57 dials.",
+            "fr": "L'horloge comporte 30 000 pièces et 57 cadrans."
           }
         },
         {
@@ -67,7 +71,8 @@
             "de": "Porte Noire",
             "hu": "Fekete-kapu",
             "ro": "Porte Noire",
-            "en": "Porte Noire"
+            "en": "Porte Noire",
+            "fr": "Porte Noire"
           },
           "coords": [
             6.0302,
@@ -82,7 +87,8 @@
             "de": "Ein römisches Ehrentor aus dem 2. Jahrhundert.",
             "hu": "Egy római diadalív a 2. századból.",
             "ro": "Un arc de triumf roman din secolul al II-lea.",
-            "en": "A Roman triumphal arch from the 2nd century."
+            "en": "A Roman triumphal arch from the 2nd century.",
+            "fr": "Un arc de triomphe romain du IIe siècle."
           }
         },
         {
@@ -90,7 +96,8 @@
             "de": "Geburtshaus von Victor Hugo",
             "hu": "Victor Hugo szülőháza",
             "ro": "Casa natală a lui Victor Hugo",
-            "en": "Victor Hugo's Birthplace"
+            "en": "Victor Hugo's Birthplace",
+            "fr": "Maison natale de Victor Hugo"
           },
           "coords": [
             6.0321,
@@ -105,7 +112,8 @@
             "de": "Interessante Ausstellung über Hugos politisches Engagement.",
             "hu": "Érdekes kiállítás Hugo politikai szerepvállalásáról.",
             "ro": "Expoziție interesantă despre angajamentul politic al lui Hugo.",
-            "en": "Interesting exhibit on Hugo's political commitment."
+            "en": "Interesting exhibit on Hugo's political commitment.",
+            "fr": "Exposition intéressante sur l'engagement politique de Hugo."
           }
         },
         {
@@ -113,7 +121,8 @@
             "de": "Musée du Temps",
             "hu": "Az Idő Múzeuma",
             "ro": "Muzeul Timpului",
-            "en": "Museum of Time"
+            "en": "Museum of Time",
+            "fr": "Musée du Temps"
           },
           "coords": [
             6.0265,
@@ -128,7 +137,8 @@
             "de": "Im Palais Granvelle untergebracht, tolle Uhrensammlung.",
             "hu": "A Palais Granvelle-ben található, pazar óragyűjtemény.",
             "ro": "Găzduit în Palais Granvelle, o colecție superbă de ceasuri.",
-            "en": "Housed in Palais Granvelle, superb clock collection."
+            "en": "Housed in Palais Granvelle, superb clock collection.",
+            "fr": "Installé au Palais Granvelle, superbe collection d'horlogerie."
           }
         },
         {
@@ -136,7 +146,8 @@
             "de": "Musée des Beaux-Arts et d'Archéologie",
             "hu": "Szépművészeti és Régészeti Múzeum",
             "ro": "Muzeul de Arte Frumoase și Arheologie",
-            "en": "Museum of Fine Arts and Archaeology"
+            "en": "Museum of Fine Arts and Archaeology",
+            "fr": "Musée des Beaux-Arts et d'Archéologie"
           },
           "coords": [
             6.0225,
@@ -151,7 +162,8 @@
             "de": "Eines der ältesten öffentlichen Museen Frankreichs.",
             "hu": "Franciaország egyik legrégebbi nyilvános múzeuma.",
             "ro": "Unul dintre cele mai vechi muzee publice din Franța.",
-            "en": "One of the oldest public museums in France."
+            "en": "One of the oldest public museums in France.",
+            "fr": "L'un des plus anciens musées publics de France."
           }
         },
         {
@@ -159,7 +171,8 @@
             "de": "Parc Micaud",
             "hu": "Micaud park",
             "ro": "Parcul Micaud",
-            "en": "Parc Micaud"
+            "en": "Parc Micaud",
+            "fr": "Parc Micaud"
           },
           "coords": [
             6.0325,
@@ -174,7 +187,8 @@
             "de": "Genießen Sie den Blick auf den Fluss Doubs.",
             "hu": "Élvezze a Doubs folyóra nyíló kilátást.",
             "ro": "Bucurați-vă de vederea spre râul Doubs.",
-            "en": "Enjoy the view over the Doubs river."
+            "en": "Enjoy the view over the Doubs river.",
+            "fr": "Profitez de la vue sur le Doubs."
           }
         }
       ],
@@ -182,7 +196,8 @@
         "de": "Der Vormittag steht im Zeichen der mächtigen Zitadelle, die hoch über der Stadt thront. Mittags steigen wir hinab zur Kathedrale und bewundern die astronomische Präzision der berühmten Uhr. Der Nachmittag führt uns durch die reiche Geschichte der Stadt, vom römischen Erbe an der Porte Noire bis hin zum Geburtsort von Victor Hugo. Wir beschließen den Tag mit Kunst im ältesten Museum des Landes und einem entspannten Spaziergang am Flussufer im Micaud-Park.",
         "hu": "A délelőtt a város fölé magasodó hatalmas fellegvár felfedezésével telik. Délben leereszkedünk a katedrálishoz, hogy megcsodáljuk a híres csillagászati óra pontosságát. A délután a város gazdag történelmén vezet keresztül, a római örökségtől Victor Hugo szülőházáig. A napot az ország legrégebbi múzeumának műkincseivel és egy kellemes folyóparti sétával zárjuk a Micaud parkban.",
         "ro": "Dimineața este dedicată explorării citadelei impunătoare care domină orașul. La prânz coborâm la catedrală pentru a admira precizia astronomică a faimosului ceas. După-amiaza ne poartă prin istoria bogată a orașului, de la moștenirea romană de la Porte Noire până la casa natală a lui Victor Hugo. Încheiem ziua cu artă în cel mai vechi muzeu din țară și o plimbare relaxantă pe malul râului în Parcul Micaud.",
-        "en": "The morning is dedicated to exploring the massive citadel towering over the city. At midday, we descend to the cathedral to admire the astronomical precision of the famous clock. The afternoon leads us through the city's rich history, from the Roman heritage at Porte Noire to Victor Hugo's birthplace. We conclude the day with art in the country's oldest museum and a relaxing riverside stroll in Parc Micaud."
+        "en": "The morning is dedicated to exploring the massive citadel towering over the city. At midday, we descend to the cathedral to admire the astronomical precision of the famous clock. The afternoon leads us through the city's rich history, from the Roman heritage at Porte Noire to Victor Hugo's birthplace. We conclude the day with art in the country's oldest museum and a relaxing riverside stroll in Parc Micaud.",
+        "fr": "La matinée est consacrée à la visite de la vaste citadelle dominant la ville. À midi, nous redescendons à la cathédrale pour admirer la précision astronomique de la célèbre horloge. L'après-midi nous mène à travers l'histoire riche de la ville, du patrimoine romain de la Porte Noire à la maison natale de Victor Hugo. Nous concluons la journée par les arts dans le plus ancien musée du pays et une promenade relaxante au bord du Doubs au Parc Micaud."
       },
       "gastro_picks": {
         "de": [
@@ -342,6 +357,12 @@
           "Reaching the Citadel requires a steep walk uphill.",
           "The astronomical clock has fixed show times; check them in advance.",
           "Many shops on Grand Rue are closed on Sundays."
+        ],
+        "fr": [
+          "Besançon est vallonnée, portez des chaussures confortables.",
+          "Rejoindre la Citadelle implique une montée raide à pied.",
+          "L'horloge astronomique a des heures de spectacle fixes ; vérifiez-les à l'avance.",
+          "De nombreuses boutiques de la Grande Rue sont fermées le dimanche."
         ]
       }
     },
@@ -358,7 +379,8 @@
             "de": "Parc Micaud",
             "hu": "Micaud park",
             "ro": "Parcul Micaud",
-            "en": "Parc Micaud"
+            "en": "Parc Micaud",
+            "fr": "Parc Micaud"
           },
           "coords": [
             6.0325,
@@ -373,7 +395,8 @@
             "de": "Perfekter Startpunkt für eine Radtour am Fluss.",
             "hu": "Tökéletes kiindulópont egy folyóparti tekeréshez.",
             "ro": "Punct de plecare perfect pentru o tură de bicicletă pe râu.",
-            "en": "Perfect starting point for a river bike ride."
+            "en": "Perfect starting point for a river bike ride.",
+            "fr": "Point de départ parfait pour une balade à vélo le long du fleuve."
           }
         },
         {
@@ -381,7 +404,8 @@
             "de": "Zitadelle von Besançon",
             "hu": "Besançoni fellegvár",
             "ro": "Citadela din Besançon",
-            "en": "Citadel of Besançon"
+            "en": "Citadel of Besançon",
+            "fr": "Citadelle de Besançon"
           },
           "coords": [
             6.031,
@@ -396,7 +420,8 @@
             "de": "Der Anstieg ist anstrengend, aber die Aussicht lohnt sich.",
             "hu": "Az emelkedő izzasztó, de a kilátás kárpótol.",
             "ro": "Urcarea este obositoare, dar priveliștea merită.",
-            "en": "The climb is tough, but the view is worth it."
+            "en": "The climb is tough, but the view is worth it.",
+            "fr": "La montée est difficile, mais la vue en vaut la peine."
           }
         },
         {
@@ -404,7 +429,8 @@
             "de": "Kathedrale Saint-Jean",
             "hu": "Szent János katedrális",
             "ro": "Catedrala Saint-Jean",
-            "en": "Saint-Jean Cathedral"
+            "en": "Saint-Jean Cathedral",
+            "fr": "Cathédrale Saint-Jean"
           },
           "coords": [
             6.0305,
@@ -419,7 +445,8 @@
             "de": "Schließen Sie Ihr Rad sicher am Eingang ab.",
             "hu": "Zárja le biztonságosan a biciklit a bejáratnál.",
             "ro": "Încuiați bine bicicleta la intrare.",
-            "en": "Lock your bike securely at the entrance."
+            "en": "Lock your bike securely at the entrance.",
+            "fr": "Verrouillez votre vélo soigneusement à l'entrée."
           }
         },
         {
@@ -427,7 +454,8 @@
             "de": "Musée du Temps",
             "hu": "Az Idő Múzeuma",
             "ro": "Muzeul Timpului",
-            "en": "Museum of Time"
+            "en": "Museum of Time",
+            "fr": "Musée du Temps"
           },
           "coords": [
             6.0265,
@@ -442,7 +470,8 @@
             "de": "Das Palais Granvelle ist ein Juwel der Renaissance.",
             "hu": "A Palais Granvelle a reneszánsz építészet ékköve.",
             "ro": "Palais Granvelle este o bijuterie a Renașterii.",
-            "en": "Palais Granvelle is a Renaissance gem."
+            "en": "Palais Granvelle is a Renaissance gem.",
+            "fr": "Le Palais Granvelle est un joyau de la Renaissance."
           }
         },
         {
@@ -450,7 +479,8 @@
             "de": "Musée des Beaux-Arts",
             "hu": "Szépművészeti Múzeum",
             "ro": "Muzeul de Arte Frumoase",
-            "en": "Museum of Fine Arts"
+            "en": "Museum of Fine Arts",
+            "fr": "Musée des Beaux-Arts"
           },
           "coords": [
             6.0225,
@@ -465,7 +495,8 @@
             "de": "Moderne Architektur im historischen Kern.",
             "hu": "Modern építészet a történelmi magban.",
             "ro": "Arhitectură modernă în centrul istoric.",
-            "en": "Modern architecture within the historic core."
+            "en": "Modern architecture within the historic core.",
+            "fr": "Architecture moderne au sein du cœur historique."
           }
         }
       ],
@@ -473,7 +504,8 @@
         "de": "Mit dem Fahrrad erkunden wir die grüne Lunge von Besançon entlang des Doubs und erklimmen die Zitadelle für den besten Ausblick. Wir fahren durch die Renaissance-Gassen zum Uhrenmuseum und genießen die Flexibilität auf zwei Rädern im historischen Zentrum.",
         "hu": "Biciklivel fedezzük fel Besançon zöld tüdejét a Doubs mentén, majd feltekerünk a fellegvárba a legjobb kilátásért. Reneszánsz utcákon át gurulunk az óramúzeumig, kihasználva a két kerék nyújtotta szabadságot a történelmi központban.",
         "ro": "Cu bicicleta explorăm plămânul verde al orașului de-a lungul râului Doubs și urcăm la citadelă pentru cea mai bună vedere. Pedalăm prin străzile renascentiste până la muzeul ceasului, profitând de flexibilitatea pe două roți.",
-        "en": "By bike, we explore Besançon's green lung along the Doubs and climb to the citadel for the best view. We cycle through Renaissance streets to the watch museum, enjoying the flexibility of two wheels in the historic center."
+        "en": "By bike, we explore Besançon's green lung along the Doubs and climb to the citadel for the best view. We cycle through Renaissance streets to the watch museum, enjoying the flexibility of two wheels in the historic center.",
+        "fr": "À vélo, nous explorons le poumon vert de Besançon le long du Doubs et gravissons la Citadelle pour la meilleure vue. Nous roulons dans des rues Renaissance jusqu'au musée de l'horlogerie, profitant de la flexibilité de la bicyclette dans le centre historique."
       },
       "gastro_picks": {
         "de": [
@@ -573,6 +605,10 @@
         "en": [
           "Use the 'VéloCité' bike-sharing system.",
           "Be careful in pedestrian zones: walking speed only."
+        ],
+        "fr": [
+          "Utilisez le système de vélos en libre-service 'VéloCité'.",
+          "Attention dans les zones piétonnes : uniquement au pas."
         ]
       }
     },
@@ -589,7 +625,8 @@
             "de": "Cluster Zitadelle (Parkplatz)",
             "hu": "Fellegvár klaszter (parkoló)",
             "ro": "Cluster Citadela (parcare)",
-            "en": "Citadel Cluster (Parking)"
+            "en": "Citadel Cluster (Parking)",
+            "fr": "Zone Citadelle (Parking)"
           },
           "coords": [
             6.033,
@@ -604,7 +641,8 @@
             "de": "Parken Sie hier für den ganzen Vormittag.",
             "hu": "Parkoljon itt egész délelőttre.",
             "ro": "Parcați aici pentru întreaga dimineață.",
-            "en": "Park here for the entire morning."
+            "en": "Park here for the entire morning.",
+            "fr": "Garez-vous ici pour toute la matinée."
           }
         },
         {
@@ -612,7 +650,8 @@
             "de": "Kathedrale Saint-Jean",
             "hu": "Szent János katedrális",
             "ro": "Catedrala Saint-Jean",
-            "en": "Saint-Jean Cathedral"
+            "en": "Saint-Jean Cathedral",
+            "fr": "Cathédrale Saint-Jean"
           },
           "coords": [
             6.0305,
@@ -628,7 +667,8 @@
             "de": "Zu Fuß von der Zitadelle erreichbar.",
             "hu": "Gyalogosan elérhető a fellegvártól.",
             "ro": "Accesibil pe jos de la citadelă.",
-            "en": "Accessible on foot from the Citadel."
+            "en": "Accessible on foot from the Citadel.",
+            "fr": "Accessible à pied depuis la Citadelle."
           }
         },
         {
@@ -636,7 +676,8 @@
             "de": "Cluster Zentrum (Parkhaus Beaux-Arts)",
             "hu": "Központ klaszter (Beaux-Arts parkolóház)",
             "ro": "Cluster Centru (parcare Beaux-Arts)",
-            "en": "Center Cluster (Beaux-Arts Parking)"
+            "en": "Center Cluster (Beaux-Arts Parking)",
+            "fr": "Zone Centre (Parking Beaux-Arts)"
           },
           "coords": [
             6.022,
@@ -652,7 +693,8 @@
             "de": "Zentrale Basis für die Museen im Kern.",
             "hu": "Központi bázis a belvárosi múzeumokhoz.",
             "ro": "Bază centrală pentru muzeele din centru.",
-            "en": "Central base for the downtown museums."
+            "en": "Central base for the downtown museums.",
+            "fr": "Base centrale pour les musées du centre-ville."
           }
         },
         {
@@ -660,7 +702,8 @@
             "de": "Musée du Temps",
             "hu": "Az Idő Múzeuma",
             "ro": "Muzeul Timpului",
-            "en": "Museum of Time"
+            "en": "Museum of Time",
+            "fr": "Musée du Temps"
           },
           "coords": [
             6.0265,
@@ -676,7 +719,8 @@
             "de": "Kurzer Spaziergang vom Parkhaus.",
             "hu": "Rövid séta a parkolótól.",
             "ro": "Scurtă plimbare de la parcare.",
-            "en": "Short walk from the parking garage."
+            "en": "Short walk from the parking garage.",
+            "fr": "À quelques minutes à pied du parking couvert."
           }
         },
         {
@@ -684,7 +728,8 @@
             "de": "Parc Micaud",
             "hu": "Micaud park",
             "ro": "Parcul Micaud",
-            "en": "Parc Micaud"
+            "en": "Parc Micaud",
+            "fr": "Parc Micaud"
           },
           "coords": [
             6.0325,
@@ -700,7 +745,8 @@
             "de": "Parken am Bahnhof Viotte möglich.",
             "hu": "Parkolás a Viotte pályaudvarnál lehetséges.",
             "ro": "Parcare posibilă la gara Viotte.",
-            "en": "Parking available near Viotte station."
+            "en": "Parking available near Viotte station.",
+            "fr": "Stationnement disponible près de la gare Viotte."
           }
         }
       ],
@@ -708,7 +754,8 @@
         "de": "Mit dem Auto erreichen wir bequem die verschiedenen Höhenstufen von Besançon. Wir parken an der Zitadelle für den historischen Teil, wechseln dann ins Zentrum für die Museen und beenden die Tour im grünen Micaud-Park.",
         "hu": "Autóval kényelmesen érhetjük el Besançon különböző szintjeit. A fellegvárnál parkolunk a történelmi részhez, majd a központba hajtunk a múzeumokhoz, végül a Micaud park zöldjében zárjuk a napot.",
         "ro": "Cu mașina ajungem ușor la diferitele niveluri ale orașului. Parcăm la citadelă pentru partea istorică, apoi mergem în centru pentru muzee și încheiem turul în verdele Parcului Micaud.",
-        "en": "By car, we easily navigate the different levels of Besançon. We park at the Citadel for the historic part, then move to the center for the museums, ending the tour in the greenery of Parc Micaud."
+        "en": "By car, we easily navigate the different levels of Besançon. We park at the Citadel for the historic part, then move to the center for the museums, ending the tour in the greenery of Parc Micaud.",
+        "fr": "En voiture, nous naviguons facilement les différents niveaux de Besançon. Nous nous garons à la Citadelle pour la partie historique, puis nous rendons au centre pour les musées, en terminant la visite dans la verdure du Parc Micaud."
       },
       "gastro_picks": {
         "de": [
@@ -808,6 +855,10 @@
         "en": [
           "Downtown parking is expensive; use parking garages.",
           "Old town streets are very narrow."
+        ],
+        "fr": [
+          "Le stationnement en centre-ville est cher ; utilisez les parkings couverts.",
+          "Les rues de la vieille ville sont très étroites."
         ]
       }
     },
@@ -824,7 +875,8 @@
             "de": "Zitadelle (Ginko Bus G1)",
             "hu": "Fellegvár (Ginko busz G1)",
             "ro": "Citadela (Autobuz Ginko G1)",
-            "en": "Citadel (Ginko Bus G1)"
+            "en": "Citadel (Ginko Bus G1)",
+            "fr": "Citadelle (Bus Ginko G1)"
           },
           "coords": [
             6.031,
@@ -839,7 +891,8 @@
             "de": "Die Linie G1 fährt direkt nach oben.",
             "hu": "A G1-es járat közvetlenül felvisz.",
             "ro": "Linia G1 urcă direct.",
-            "en": "The G1 line goes directly up."
+            "en": "The G1 line goes directly up.",
+            "fr": "La ligne G1 monte directement."
           }
         },
         {
@@ -847,7 +900,8 @@
             "de": "Place de la Révolution (Tram)",
             "hu": "Forradalom tere (Villamos)",
             "ro": "Place de la Révolution (Tramvai)",
-            "en": "Place de la Révolution (Tram)"
+            "en": "Place de la Révolution (Tram)",
+            "fr": "Place de la Révolution (Tram)"
           },
           "coords": [
             6.0225,
@@ -863,7 +917,8 @@
             "de": "Zentraler Umsteigepunkt für Tram und Bus.",
             "hu": "Központi átszállópont villamosra és buszra.",
             "ro": "Punct central de transfer pentru tramvai și autobuz.",
-            "en": "Central transfer point for tram and bus."
+            "en": "Central transfer point for tram and bus.",
+            "fr": "Point de correspondance central tram/bus."
           }
         },
         {
@@ -871,7 +926,8 @@
             "de": "Musée du Temps",
             "hu": "Az Idő Múzeuma",
             "ro": "Muzeul Timpului",
-            "en": "Museum of Time"
+            "en": "Museum of Time",
+            "fr": "Musée du Temps"
           },
           "coords": [
             6.0265,
@@ -887,7 +943,8 @@
             "de": "Nur wenige Minuten von der Tramstation.",
             "hu": "Csak pár percre a villamosmegállótól.",
             "ro": "La doar câteva minute de stația de tramvai.",
-            "en": "Just a few minutes from the tram station."
+            "en": "Just a few minutes from the tram station.",
+            "fr": "À seulement quelques minutes de la station de tram."
           }
         },
         {
@@ -895,7 +952,8 @@
             "de": "Parc Micaud",
             "hu": "Micaud park",
             "ro": "Parcul Micaud",
-            "en": "Parc Micaud"
+            "en": "Parc Micaud",
+            "fr": "Parc Micaud"
           },
           "coords": [
             6.0325,
@@ -911,7 +969,8 @@
             "de": "Direkt an der Tramstation Micaud.",
             "hu": "Közvetlenül a Micaud villamosmegállónál.",
             "ro": "Chiar la stația de tramvai Micaud.",
-            "en": "Right at the Micaud tram station."
+            "en": "Right at the Micaud tram station.",
+            "fr": "Juste à la station de tram Micaud."
           }
         }
       ],
@@ -919,7 +978,8 @@
         "de": "Das effiziente Ginko-Netzwerk verbindet die Zitadelle mit der Innenstadt. Wir nutzen den Bus für den Aufstieg und die moderne Tram für die Wege zwischen den Museen und dem Park.",
         "hu": "Az effektív Ginko hálózat összeköti a fellegvárat a belvárossal. Busszal megyünk fel az erődbe, majd a modern villamost használjuk a múzeumok és a park közötti közlekedéshez.",
         "ro": "Rețeaua eficientă Ginko conectează citadela cu centrul orașului. Folosim autobuzul pentru urcare și tramvaiul modern pentru deplasarea între muzee și parc.",
-        "en": "The efficient Ginko network connects the Citadel with the city center. We use the bus to ascend and the modern tram to move between the museums and the park."
+        "en": "The efficient Ginko network connects the Citadel with the city center. We use the bus to ascend and the modern tram to move between the museums and the park.",
+        "fr": "Le réseau efficace Ginko relie la Citadelle au centre-ville. Nous prenons le bus pour monter et le tram moderne pour nous déplacer entre les musées et le parc."
       },
       "gastro_picks": {
         "de": [
@@ -1019,6 +1079,10 @@
         "en": [
           "Buy a 24-hour transit pass.",
           "Download the Ginko Mobilités app."
+        ],
+        "fr": [
+          "Achetez un titre de transport 24 heures.",
+          "Téléchargez l’application Ginko Mobilités."
         ]
       }
     }

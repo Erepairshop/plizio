@@ -21,7 +21,8 @@
             "de": "Rathaus von Ondres",
             "hu": "Ondres Városháza",
             "ro": "Primăria din Ondres",
-            "en": "Ondres Town Hall"
+            "en": "Ondres Town Hall",
+            "fr": "Mairie d'Ondres"
           },
           "coords": [
             -1.448352,
@@ -36,7 +37,8 @@
             "de": "Bewundern Sie die traditionelle baskische Architektur des lokalen Verwaltungszentrums und achten Sie auf die charmante Fassade, bevor Sie Ihren Spaziergang beginnen.",
             "hu": "Csodálja meg a helyi közigazgatási központ hagyományos baszk építészetét, és a séta megkezdése előtt feltétlenül vegye szemügyre a hangulatos homlokzatát.",
             "ro": "Admirați arhitectura tradițională bască a centrului administrativ local, asigurându-vă că observați fațada sa fermecătoare înainte de a începe plimbarea.",
-            "en": "Admire the traditional Basque architecture of the local administration hub, making sure to notice its charming facade before starting your walk."
+            "en": "Admire the traditional Basque architecture of the local administration hub, making sure to notice its charming facade before starting your walk.",
+            "fr": "Admirez l’architecture basque traditionnelle du centre administratif local, en prenant soin de remarquer sa façade charmante avant de commencer votre promenade."
           }
         },
         {
@@ -44,7 +46,8 @@
             "de": "Kirche Saint-Pierre",
             "hu": "Saint-Pierre Templom",
             "ro": "Biserica Saint-Pierre",
-            "en": "Saint-Pierre Church"
+            "en": "Saint-Pierre Church",
+            "fr": "Église Saint-Pierre"
           },
           "coords": [
             -1.447568,
@@ -59,7 +62,8 @@
             "de": "Treten Sie in diese malerische Steinkirche ein, um ihre friedliche Atmosphäre zu erleben, aber denken Sie daran, sich während der Gottesdienstzeiten ruhig zu verhalten.",
             "hu": "Lépjen be ebbe a festői kőtemplomba, hogy megtapasztalja annak békés légkörét, de ügyeljen arra, hogy a misék alatt csendben maradjon.",
             "ro": "Pășiți în această biserică pitorească de piatră pentru a experimenta atmosfera sa pașnică, dar nu uitați să păstrați liniștea în timpul slujbelor.",
-            "en": "Step inside this quaint stone church to experience its peaceful atmosphere, but remember to keep your voice down during service hours."
+            "en": "Step inside this quaint stone church to experience its peaceful atmosphere, but remember to keep your voice down during service hours.",
+            "fr": "Entrez dans cette petite église de pierre pour en ressentir l’atmosphère paisible, mais pensez à garder la voix basse pendant les heures de culte."
           }
         },
         {
@@ -67,7 +71,8 @@
             "de": "Étang de la Strada",
             "hu": "Étang de la Strada",
             "ro": "Étang de la Strada",
-            "en": "Étang de la Strada"
+            "en": "Étang de la Strada",
+            "fr": "Étang de la Strada"
           },
           "coords": [
             -1.443529,
@@ -82,7 +87,8 @@
             "de": "Schlendern Sie um diesen ruhigen, versteckten Teich, der sich perfekt zur Vogelbeobachtung eignet, und bringen Sie Mückenschutz mit, wenn Sie in der Dämmerung kommen.",
             "hu": "Sétáljon körbe ezen a nyugodt, rejtett tavon, amely tökéletes a madármegfigyeléshez, és hozzon magával szúnyogriasztót, ha szürkületkor látogat ide.",
             "ro": "Plimbați-vă în jurul acestui iaz calm și ascuns, perfect pentru observarea păsărilor, și aduceți spray împotriva țânțarilor dacă vizitați spre seară.",
-            "en": "Stroll around this calm, hidden pond which is perfect for birdwatching, and bring some mosquito repellent if you visit near dusk."
+            "en": "Stroll around this calm, hidden pond which is perfect for birdwatching, and bring some mosquito repellent if you visit near dusk.",
+            "fr": "Promenez-vous autour de ce paisible étang caché, parfait pour l’observation des oiseaux, et apportez un répulsif anti-moustiques si vous visitez vers le crépuscule."
           }
         },
         {
@@ -90,7 +96,8 @@
             "de": "Lac de Turc",
             "hu": "Lac de Turc",
             "ro": "Lac de Turc",
-            "en": "Lac de Turc"
+            "en": "Lac de Turc",
+            "fr": "Lac de Turc"
           },
           "coords": [
             -1.455947,
@@ -105,7 +112,8 @@
             "de": "Entspannen Sie sich an den ruhigen Gewässern dieses kleinen Sees, der hervorragende schattige Plätze für ein ruhiges Picknick unter den Bäumen bietet.",
             "hu": "Pihenjen e kis tó nyugodt vize mellett, amely kiváló árnyékos helyeket kínál egy csendes délelőtti piknikhez a fák alatt.",
             "ro": "Relaxați-vă pe malul apelor liniștite ale acestui mic lac, care oferă locuri umbrite excelente pentru un picnic de prânz sub copaci.",
-            "en": "Relax by the tranquil waters of this small lake, which offers excellent shaded spots for a quiet morning picnic under the trees."
+            "en": "Relax by the tranquil waters of this small lake, which offers excellent shaded spots for a quiet morning picnic under the trees.",
+            "fr": "Détendez-vous au bord des eaux tranquilles de ce petit lac, qui offre d’excellents coins ombragés pour un pique-nique matinal au calme sous les arbres."
           }
         },
         {
@@ -113,7 +121,8 @@
             "de": "Wald von Landes",
             "hu": "Landes-erdő",
             "ro": "Pădurea Landes",
-            "en": "Landes Forest"
+            "en": "Landes Forest",
+            "fr": "Forêt des Landes"
           },
           "coords": [
             -1.465314,
@@ -128,7 +137,8 @@
             "de": "Atmen Sie den Pinienduft ein, während Sie das weite Netz an Naturpfaden erkunden, und halten Sie eine Karte bereit, um sich nicht zu verirren.",
             "hu": "Szívja magába a fenyőillatot, miközben felfedezi a természetjáró ösvények hatalmas hálózatát, és tartson magánál térképet, hogy ne tévedjen el.",
             "ro": "Respirați parfumul de pin în timp ce explorați rețeaua vastă de trasee naturale, păstrând o hartă la îndemână pentru a nu vă rătăci în pădurea deasă.",
-            "en": "Breathe in the scent of pine as you explore the vast network of nature trails, keeping a map handy so you don't get lost in the dense woods."
+            "en": "Breathe in the scent of pine as you explore the vast network of nature trails, keeping a map handy so you don't get lost in the dense woods.",
+            "fr": "Respirez l’odeur des pins en explorant le vaste réseau de sentiers naturels, en gardant une carte à portée de main pour ne pas vous perdre dans les bois denses."
           }
         }
       ],
@@ -136,7 +146,8 @@
         "de": "Ihr Morgen beginnt im malerischen Zentrum von Ondres, wo Sie den städtischen Charme und die historische Kirche erkunden. Mittags erreichen Sie die ruhigen Teiche, die etwas außerhalb des Hauptortes liegen. Den Nachmittag verbringen Sie in der entspannten Atmosphäre des Lac de Turc. Sie beenden Ihre Tour, indem Sie die frische Luft des weiten Landes-Waldes genießen.",
         "hu": "A délelőtt Ondres festői központjában indul, ahol felfedezheti a helyi közigazgatási bájt és a történelmi templomot. Délben a város szélén megbúvó csendes tavakhoz érkezik. A délutánt a Lac de Turc tóparti, nyugodt atmoszférájában töltheti. A sétát a hatalmas Landes-erdő friss fenyőillatának belélegzésével zárja.",
         "ro": "Dimineața dumneavoastră începe în centrul pitoresc al orașului Ondres, explorând farmecul municipal local și biserica istorică. La amiază ajungeți la iazurile liniștite situate chiar la marginea orașului. După-amiaza este petrecută bucurându-vă de atmosfera senină de pe malul Lac de Turc. Vă încheiați turul inspirând aerul proaspăt din vasta Pădure Landes.",
-        "en": "Your morning starts in the quaint center of Ondres, exploring the local municipal charm and the historic church. Midday brings you to the quiet ponds nestled just outside the main town area. The afternoon is spent enjoying the serene lakeside atmosphere of Lac de Turc. You conclude your walking tour breathing in the fresh pine scent of the vast Landes Forest."
+        "en": "Your morning starts in the quaint center of Ondres, exploring the local municipal charm and the historic church. Midday brings you to the quiet ponds nestled just outside the main town area. The afternoon is spent enjoying the serene lakeside atmosphere of Lac de Turc. You conclude your walking tour breathing in the fresh pine scent of the vast Landes Forest.",
+        "fr": "Votre matinée commence dans le centre pittoresque d’Ondres, en explorant le charme municipal local et l’église historique. À midi, vous rejoignez les étangs calmes nichés juste à l’extérieur de la ville. L’après-midi est consacré à la sérénité au bord du Lac de Turc. Vous concluez votre balade en respirant l’air frais parfumé par les pins de la vaste Forêt des Landes."
       },
       "variants": {
         "rainy": {
@@ -144,7 +155,8 @@
             "de": "Beginnen Sie den Morgen am Rathaus, dessen Vordach Schutz bietet. Mittags dient die Kirche als trockener Rückzugsort vor den Schauern. Am Nachmittag offenbaren die Seen im Regen eine mystische, neblige Atmosphäre, wobei wasserfeste Stiefel für die schlammigen Wege unerlässlich sind. Der Tag endet im Wald, wo das dichte Blätterdach den Regen dämpft und die Luft herrlich erfrischt.",
             "hu": "Kezdje a reggelt a városházánál, ahol az eresz alatt tervezheti meg a napot. Délben a templom belső csendje nyújt tökéletes menedéket a záporok elől. Délután a tavak mentén a ködös táj misztikus hangulatot áraszt, de a sár miatt vízálló bakancs mindenképp javasolt. Az este az erdőben zárul, ahol a fák koronája felfogja az esőcseppek nagy részét és friss illat tölti be a levegőt.",
             "ro": "Începeți dimineața la primărie, folosind pridvorul pentru a vă adăposti. La prânz, biserica oferă un refugiu uscat și liniștit în timpul ploii. După-amiaza, lacurile capătă o atmosferă mistică prin ceață, dar aveți nevoie de cizme impermeabile pentru potecile noroioase. Seara se încheie în pădure, unde coronamentul copacilor oferă o protecție naturală împotriva stropilor și împrospătează aerul.",
-            "en": "Start the morning at the Town Hall, using its porch to plan your route. At noon, the church provides a dry, quiet sanctuary from the showers. In the afternoon, the lakes take on a mystical atmosphere in the mist, though waterproof boots are essential for the muddy paths. The day ends in the forest, where the canopy offers some natural shelter and the rain brings out fresh earthy scents."
+            "en": "Start the morning at the Town Hall, using its porch to plan your route. At noon, the church provides a dry, quiet sanctuary from the showers. In the afternoon, the lakes take on a mystical atmosphere in the mist, though waterproof boots are essential for the muddy paths. The day ends in the forest, where the canopy offers some natural shelter and the rain brings out fresh earthy scents.",
+            "fr": "Commencez la matinée à la Mairie, en utilisant son porche pour planifier votre itinéraire. À midi, l’église offre un sanctuaire sec et tranquille contre les averses. L’après-midi, les lacs prennent une atmosphère mystique dans la brume, bien que des bottes imperméables soient essentielles pour les sentiers boueux. La journée se termine dans la forêt, où la canopée offre un abri naturel et où la pluie révèle des senteurs terreuses fraîches."
           },
           "stops": [
             {
@@ -152,13 +164,15 @@
                 "de": "Rathaus von Ondres",
                 "hu": "Ondres Városháza",
                 "ro": "Primăria din Ondres",
-                "en": "Ondres Town Hall"
+                "en": "Ondres Town Hall",
+                "fr": "Mairie d'Ondres"
               },
               "tip_5lang": {
                 "de": "Bewundern Sie die Fassade vom überdachten Eingang aus und nutzen Sie die Schaukästen, um sich über lokale Indoor-Veranstaltungen bei Regen zu informieren.",
                 "hu": "Csodálja meg az épületet a fedett bejárat alól, és nézze meg a hirdetőtáblán az aktuális beltéri programokat, amik jó alternatívák lehetnek esőben.",
                 "ro": "Admirați arhitectura de la intrarea adăpostită și consultați avizierul pentru evenimente locale în interior, ideale pentru a evita ploaia de afară.",
-                "en": "Admire the architecture from the sheltered entrance and check the notice board for local indoor events that serve as great rainy-day alternatives."
+                "en": "Admire the architecture from the sheltered entrance and check the notice board for local indoor events that serve as great rainy-day alternatives.",
+                "fr": "Admirez l’architecture depuis l’entrée abritée et consultez le panneau d’affichage pour des événements locaux en intérieur qui constituent d’excellentes alternatives les jours de pluie."
               }
             },
             {
@@ -166,13 +180,15 @@
                 "de": "Kirche Saint-Pierre",
                 "hu": "Saint-Pierre Templom",
                 "ro": "Biserica Saint-Pierre",
-                "en": "Saint-Pierre Church"
+                "en": "Saint-Pierre Church",
+                "fr": "Église Saint-Pierre"
               },
               "tip_5lang": {
                 "de": "Die Kirche bietet einen idealen trockenen Ort zur Besinnung; achten Sie auf die bunten Lichtreflexe der Fenster, die bei grauem Himmel besonders wirken.",
                 "hu": "A templom ideális száraz menedék a pihenéshez; figyelje meg, hogyan ragyognak a színes üvegablakok még a szürke, esős égbolt mellett is.",
                 "ro": "Biserica este un loc uscat ideal pentru reflecție; observați cum vitraliile colorate ies în evidență chiar și atunci când cerul este gri și plouă.",
-                "en": "The church is an ideal dry spot for reflection; observe how the stained glass windows glow even when the sky is grey and the rain is falling."
+                "en": "The church is an ideal dry spot for reflection; observe how the stained glass windows glow even when the sky is grey and the rain is falling.",
+                "fr": "L’église est un lieu sec idéal pour la réflexion ; observez comment les vitraux s’illuminent même quand le ciel est gris et que la pluie tombe."
               }
             },
             {
@@ -180,13 +196,15 @@
                 "de": "Étang de la Strada",
                 "hu": "Étang de la Strada",
                 "ro": "Étang de la Strada",
-                "en": "Étang de la Strada"
+                "en": "Étang de la Strada",
+                "fr": "Étang de la Strada"
               },
               "tip_5lang": {
                 "de": "Der Holzsteg am Wasser kann bei Nässe sehr rutschig sein; tragen Sie Schuhe mit gutem Profil und genießen Sie den Anblick der Regentropfen auf dem See.",
                 "hu": "A víz menti fapallók vizesen nagyon csúszósak lehetnek; viseljen bordázott talpú cipőt, és élvezze a tavon táncoló esőcseppek látványát.",
                 "ro": "Puntea de lemn de lângă apă poate fi foarte alunecoasă când este udă; purtați încălțăminte cu aderență bună și admirați ploaia pe suprafața lacului.",
-                "en": "The wooden boardwalk near the water can be very slippery when wet; wear shoes with good grip and enjoy the rhythmic sight of rain on the lake."
+                "en": "The wooden boardwalk near the water can be very slippery when wet; wear shoes with good grip and enjoy the rhythmic sight of rain on the lake.",
+                "fr": "La passerelle en bois près de l’eau peut être très glissante lorsqu’elle est humide ; portez des chaussures à bonne adhérence et appréciez le spectacle rythmique de la pluie sur le lac."
               }
             },
             {
@@ -194,13 +212,15 @@
                 "de": "Lac de Turc",
                 "hu": "Lac de Turc",
                 "ro": "Lac de Turc",
-                "en": "Lac de Turc"
+                "en": "Lac de Turc",
+                "fr": "Lac de Turc"
               },
               "tip_5lang": {
                 "de": "Nutzen Sie den Beobachtungsposten als Unterstand, um die Wasservögel zu beobachten, die bei Regen oft besonders aktiv in Ufernähe sind.",
                 "hu": "Használja a madármegfigyelő pontot fedett lesként, és figyelje meg a vízimadarakat, amik esőben gyakran egészen közel merészkednek a parthoz.",
                 "ro": "Folosiți foișorul de observație ca adăpost pentru a urmări păsările acvatice, care în timpul ploii sunt adesea mai active aproape de malul lacului.",
-                "en": "Use the observation point as a covered shelter to watch the waterfowl, which are often quite active near the shore during light rain showers."
+                "en": "Use the observation point as a covered shelter to watch the waterfowl, which are often quite active near the shore during light rain showers.",
+                "fr": "Utilisez le belvédère comme abri couvert pour observer les oiseaux d’eau, souvent très actifs près du rivage lors de petites averses."
               }
             },
             {
@@ -208,13 +228,15 @@
                 "de": "Wald von Landes",
                 "hu": "Landes-erdő",
                 "ro": "Pădurea Landes",
-                "en": "Landes Forest"
+                "en": "Landes Forest",
+                "fr": "Forêt des Landes"
               },
               "tip_5lang": {
                 "de": "Wandern Sie unter den Pinien, die einen natürlichen Schirm bilden; meiden Sie bei starkem Wind jedoch die exponierten Waldränder wegen herabfallender Äste.",
                 "hu": "Sétáljon a fenyők alatt, amelyek természetes esernyőként funkcionálnak; erős szélben azonban kerülje a szélső fákat a leeső ágak veszélye miatt.",
                 "ro": "Plimbați-vă sub pinii care formează o umbrelă naturală; totuși, pe vânt puternic, evitați marginile pădurii din cauza riscului de cădere a ramurilor.",
-                "en": "Walk beneath the pines which act as a natural umbrella; however, avoid the exposed edges during high winds due to the risk of falling branches."
+                "en": "Walk beneath the pines which act as a natural umbrella; however, avoid the exposed edges during high winds due to the risk of falling branches.",
+                "fr": "Marchez sous les pins qui font office de parapluie naturel ; toutefois, évitez les bords exposés par grand vent en raison du risque de branches tombantes."
               }
             }
           ]
@@ -224,7 +246,8 @@
             "de": "Ein klarer Wintermorgen beginnt frisch im Dorfzentrum. Mittags wärmt die Sonne die Ufer der Seen, was einen Spaziergang trotz Kälte angenehm macht. Da die Sonne bereits gegen 17:00 Uhr untergeht, sollten Sie den Wald am frühen Nachmittag besuchen, um das goldene Licht zwischen den Pinien zu erleben. Der Abend klingt gemütlich in der Nähe der beleuchteten Kirche aus.",
             "hu": "A friss téli reggel a falu központjában indul, ahol a hideg levegő felfrissíti az embert. Délben a tavak partján a téli napsütésben érdemes sétálni, ami kellemes meleget ad. Mivel 17:00 körül már sötétedik, az erdei szakaszt kora délutánra időzítse a szép fények miatt. Az este a kivilágított templom környékén, meghitt hangulatban zárul.",
             "ro": "O dimineață răcoroasă de iarnă începe în centrul satului. La prânz, soarele blând încălzește malurile lacurilor, făcând plimbarea foarte plăcută în ciuda frigului. Deoarece soarele apune în jur de ora 17:00, vizitați pădurea devreme pentru a prinde lumina aurie. Seara se încheie confortabil lângă biserica iluminată festiv.",
-            "en": "A crisp winter morning starts fresh in the village center. At noon, the low sun warms the lake shores, making the walk pleasant despite the cold. Since sunset is around 17:00, time your forest visit for early afternoon to catch the golden light through the pines. The evening ends cozily near the beautifully lit church area."
+            "en": "A crisp winter morning starts fresh in the village center. At noon, the low sun warms the lake shores, making the walk pleasant despite the cold. Since sunset is around 17:00, time your forest visit for early afternoon to catch the golden light through the pines. The evening ends cozily near the beautifully lit church area.",
+            "fr": "Un matin d'hiver vif commence frais au centre du village. À midi, le soleil bas réchauffe les rives du lac, rendant la promenade agréable malgré le froid. Le coucher du soleil ayant lieu vers 17:00, prévoyez votre visite en forêt en début d'après‑midi pour surprendre la lumière dorée à travers les pins. La soirée se termine au coin d’un feu près de la belle zone éclairée de l'église."
           },
           "stops": [
             {
@@ -232,13 +255,15 @@
                 "de": "Rathaus von Ondres",
                 "hu": "Ondres Városháza",
                 "ro": "Primăria din Ondres",
-                "en": "Ondres Town Hall"
+                "en": "Ondres Town Hall",
+                "fr": "Hôtel de ville d'Ondres"
               },
               "tip_5lang": {
                 "de": "Bewundern Sie die winterliche Dekoration des Platzes; ziehen Sie sich warm an, da der Wind in den offenen Gassen des Zentrums recht schneidig sein kann.",
                 "hu": "Csodálja meg a főtér téli díszítését; öltözzön rétegesen, mert a központ nyitott utcáin a téli szél meglehetősen metsző és hideg lehet.",
                 "ro": "Admirați decorațiunile de iarnă din piață; îmbrăcați-vă bine, deoarece vântul poate fi destul de tăios pe străzile deschise ale centrului localității.",
-                "en": "Admire the winter decorations in the square; dress in warm layers as the wind can be quite biting in the open streets of the town center."
+                "en": "Admire the winter decorations in the square; dress in warm layers as the wind can be quite biting in the open streets of the town center.",
+                "fr": "Admirez les décorations hivernales sur la place ; habillez‑vous en couches chaudes car le vent peut être très mordant dans les rues ouvertes du centre."
               }
             },
             {
@@ -246,13 +271,15 @@
                 "de": "Kirche Saint-Pierre",
                 "hu": "Saint-Pierre Templom",
                 "ro": "Biserica Saint-Pierre",
-                "en": "Saint-Pierre Church"
+                "en": "Saint-Pierre Church",
+                "fr": "Église Saint‑Pierre"
               },
               "tip_5lang": {
                 "de": "Besuchen Sie die Kirche am späten Vormittag, um sich kurz aufzuwärmen und die Ruhe des festlich geschmückten Innenraums in aller Stille zu genießen.",
                 "hu": "Látogasson el a templomba délelőtt, hogy kicsit felmelegedjen, és élvezze az ünnepi díszbe öltöztetett belső tér nyugalmát és csendjét.",
                 "ro": "Vizitați biserica spre sfârșitul dimineții pentru a vă încălzi puțin și pentru a savura liniștea interiorului decorat festiv în această perioadă.",
-                "en": "Visit the church in the late morning to warm up briefly and enjoy the peaceful silence of the festively decorated interior during the season."
+                "en": "Visit the church in the late morning to warm up briefly and enjoy the peaceful silence of the festively decorated interior during the season.",
+                "fr": "Visitez l'église en fin de matinée pour vous réchauffer brièvement et profiter du silence paisible de l'intérieur décoré pour la saison."
               }
             },
             {
@@ -260,13 +287,15 @@
                 "de": "Étang de la Strada",
                 "hu": "Étang de la Strada",
                 "ro": "Étang de la Strada",
-                "en": "Étang de la Strada"
+                "en": "Étang de la Strada",
+                "fr": "Étang de la Strada"
               },
               "tip_5lang": {
                 "de": "Genießen Sie die klare Winterluft am Wasser; bei Frost bilden sich oft faszinierende Eiskristalle am Schilf, die im Sonnenlicht wunderschön glitzern.",
                 "hu": "Élvezze a kristálytiszta téli levegőt a vízparton; fagyos reggeleken a nádasokon képződő jégkristályok csodásan csillognak a téli napsütésben.",
                 "ro": "Bucurați-vă de aerul curat de iarnă de lângă apă; în zilele de îngheț, cristalele de gheață formate pe stuf sclipesc superb în lumina soarelui.",
-                "en": "Enjoy the crystal-clear winter air by the water; on frosty mornings, ice crystals on the reeds glitter beautifully in the low winter sunlight."
+                "en": "Enjoy the crystal-clear winter air by the water; on frosty mornings, ice crystals on the reeds glitter beautifully in the low winter sunlight.",
+                "fr": "Profitez de l'air d'hiver cristallin près de l'eau ; par matinées givrées, les cristaux de glace sur les roseaux scintillent magnifiquement dans le faible soleil d'hiver."
               }
             },
             {
@@ -274,13 +303,15 @@
                 "de": "Lac de Turc",
                 "hu": "Lac de Turc",
                 "ro": "Lac de Turc",
-                "en": "Lac de Turc"
+                "en": "Lac de Turc",
+                "fr": "Lac de Turc"
               },
               "tip_5lang": {
                 "de": "Beobachten Sie die überwinternden Zugvögel vom Ufer aus; ein Fernglas hilft, die Arten im klaren, staubfreien Winterlicht besser zu identifizieren.",
                 "hu": "Figyelje meg az áttelelő költözőmadarakat a partról; egy távcső sokat segít, hogy a tiszta téli fényben felismerje a különféle vízi fajokat.",
                 "ro": "Observați păsările migratoare care iernează aici; un binoclu vă va ajuta să identificați speciile mai ușor în lumina clară a amiezei de iarnă.",
-                "en": "Observe the overwintering migratory birds from the shore; binoculars will help you identify species in the clear, dust-free winter light."
+                "en": "Observe the overwintering migratory birds from the shore; binoculars will help you identify species in the clear, dust-free winter light.",
+                "fr": "Observez les oiseaux migrateurs hivernants depuis la rive ; des jumelles vous aideront à identifier les espèces dans la lumière d'hiver claire et sans poussière."
               }
             },
             {
@@ -288,13 +319,15 @@
                 "de": "Wald von Landes",
                 "hu": "Landes-erdő",
                 "ro": "Pădurea Landes",
-                "en": "Landes Forest"
+                "en": "Landes Forest",
+                "fr": "Forêt des Landes"
               },
               "tip_5lang": {
                 "de": "Suchen Sie Schutz vor dem kalten Seewind zwischen den hohen Pinien; kehren Sie vor Einbruch der frühen Dämmerung um 17:00 Uhr zum Ort zurück.",
                 "hu": "Keressen menedéket a hideg tengeri szél elől a magas fenyők között; a korai, 17:00 óra körüli sötétedés előtt mindenképp térjen vissza a városba.",
                 "ro": "Căutați adăpost de vântul rece al mării printre pinii înalți; asigurați-vă că vă întoarceți spre oraș înainte de amurgul devreme de la ora 17:00.",
-                "en": "Seek shelter from the cold sea wind among the tall pines; ensure you head back toward town before the early winter dusk begins around 17:00."
+                "en": "Seek shelter from the cold sea wind among the tall pines; ensure you head back toward town before the early winter dusk begins around 17:00.",
+                "fr": "Cherchez refuge contre le vent marin froid parmi les hauts pins ; assurez‑vous de retourner en direction de la ville avant la tombée précoce du crépuscule vers 17:00."
               }
             }
           ]
@@ -314,7 +347,8 @@
             "de": "Rathaus von Ondres",
             "hu": "Ondres Városháza",
             "ro": "Primăria din Ondres",
-            "en": "Ondres Town Hall"
+            "en": "Ondres Town Hall",
+            "fr": "Hôtel de ville d'Ondres"
           },
           "coords": [
             -1.448352,
@@ -329,7 +363,8 @@
             "de": "Bewundern Sie die traditionelle baskische Architektur des lokalen Verwaltungszentrums und achten Sie auf die charmante Fassade, bevor Sie aufs Fahrrad steigen.",
             "hu": "Csodálja meg a helyi közigazgatási központ hagyományos baszk építészetét, és a kerékpározás megkezdése előtt vegye szemügyre a hangulatos homlokzatát.",
             "ro": "Admirați arhitectura tradițională bască a centrului administrativ local, asigurându-vă că observați fațada sa fermecătoare înainte de a începe plimbarea pe bicicletă.",
-            "en": "Admire the traditional Basque architecture of the local administration hub, making sure to notice its charming facade before starting your ride."
+            "en": "Admire the traditional Basque architecture of the local administration hub, making sure to notice its charming facade before starting your ride.",
+            "fr": "Admirez l'architecture basque traditionnelle du siège de l'administration locale, en veillant à remarquer sa façade charmante avant de commencer votre balade."
           }
         },
         {
@@ -337,7 +372,8 @@
             "de": "Kirche Saint-Pierre",
             "hu": "Saint-Pierre Templom",
             "ro": "Biserica Saint-Pierre",
-            "en": "Saint-Pierre Church"
+            "en": "Saint-Pierre Church",
+            "fr": "Église Saint‑Pierre"
           },
           "coords": [
             -1.447568,
@@ -352,7 +388,8 @@
             "de": "Treten Sie in diese malerische Steinkirche ein, um ihre friedliche Atmosphäre zu erleben, aber denken Sie daran, sich während der Gottesdienstzeiten ruhig zu verhalten.",
             "hu": "Lépjen be ebbe a festői kőtemplomba, hogy megtapasztalja annak békés légkörét, de ügyeljen arra, hogy a misék alatt csendben maradjon.",
             "ro": "Pășiți în această biserică pitorească de piatră pentru a experimenta atmosfera sa pașnică, dar nu uitați să păstrați liniștea în timpul slujbelor.",
-            "en": "Step inside this quaint stone church to experience its peaceful atmosphere, but remember to keep your voice down during service hours."
+            "en": "Step inside this quaint stone church to experience its peaceful atmosphere, but remember to keep your voice down during service hours.",
+            "fr": "Entrez dans cette charmante église de pierre pour en ressentir l'atmosphère paisible, mais pensez à parler à voix basse pendant les offices."
           }
         },
         {
@@ -360,7 +397,8 @@
             "de": "Wald von Landes",
             "hu": "Landes-erdő",
             "ro": "Pădurea Landes",
-            "en": "Landes Forest"
+            "en": "Landes Forest",
+            "fr": "Forêt des Landes"
           },
           "coords": [
             -1.465314,
@@ -375,7 +413,8 @@
             "de": "Radeln Sie durch die duftenden Pinienwälder und nutzen Sie die gut gepflegten Radwege, um sicher und entspannt die Natur zu genießen.",
             "hu": "Kerékpározzon a jó illatú fenyőerdőkön keresztül, és használja a jól karbantartott kerékpárutakat a biztonságos, pihentető természetjáráshoz.",
             "ro": "Pedalați prin pădurile parfumate de pin, folosind pistele de biciclete bine întreținute pentru a vă bucura de natură în siguranță și relaxare.",
-            "en": "Cycle through the fragrant pine forests, taking advantage of the well-maintained bike paths to enjoy nature safely and comfortably."
+            "en": "Cycle through the fragrant pine forests, taking advantage of the well-maintained bike paths to enjoy nature safely and comfortably.",
+            "fr": "Faites du vélo à travers les forêts de pins parfumées, en profitant des pistes cyclables bien entretenues pour apprécier la nature en toute sécurité et confort."
           }
         },
         {
@@ -383,7 +422,8 @@
             "de": "Mini-Golf",
             "hu": "Minigolf",
             "ro": "Mini-Golf",
-            "en": "Mini-Golf"
+            "en": "Mini-Golf",
+            "fr": "Mini‑golf"
           },
           "coords": [
             -1.470768,
@@ -398,7 +438,8 @@
             "de": "Genießen Sie einen lockeren Familienwettbewerb auf diesem gepflegten Platz in der Nähe der Pinien und kommen Sie früh, um dem Mittagstrubel zu entgehen.",
             "hu": "Élvezze a könnyed családi versengést ezen a fenyők közelében fekvő, gondozott pályán, és próbáljon meg korán érkezni a déli tömeg elkerülése végett.",
             "ro": "Bucurați-vă de o competiție de familie pe acest teren bine întreținut din apropierea pinilor și încercați să ajungeți devreme pentru a evita aglomerația de la prânz.",
-            "en": "Enjoy some lighthearted family competition on this well-kept course nestled near the pines, and try to arrive early to beat the midday crowds."
+            "en": "Enjoy some lighthearted family competition on this well-kept course nestled near the pines, and try to arrive early to beat the midday crowds.",
+            "fr": "Profitez d'une compétition familiale légère sur ce parcours bien entretenu niché près des pins, et essayez d'arriver tôt pour éviter la foule de midi."
           }
         },
         {
@@ -406,7 +447,8 @@
             "de": "Safe Ocean",
             "hu": "Safe Ocean",
             "ro": "Safe Ocean",
-            "en": "Safe Ocean"
+            "en": "Safe Ocean",
+            "fr": "Océan Sûr"
           },
           "coords": [
             -1.486231,
@@ -421,7 +463,8 @@
             "de": "Informieren Sie sich an diesem familiären Ort über maritime Bedingungen, was eine hervorragende Vorbereitung für das Schwimmen im Ozean darstellt.",
             "hu": "Ismerkedjen meg a tengeri viszonyokkal ezen az oktatási célú családi helyszínen, amely nagyszerű előkészítője az óceánban való fürdőzésnek.",
             "ro": "Aflați despre condițiile maritime locale la acest loc educațional pentru familii, care este o pregătire excelentă înainte de a intra în valuri.",
-            "en": "Learn about local maritime conditions and safety at this educational family spot, which is a great precursor to actually hitting the waves."
+            "en": "Learn about local maritime conditions and safety at this educational family spot, which is a great precursor to actually hitting the waves.",
+            "fr": "Renseignez‑vous sur les conditions maritimes locales et la sécurité dans cet espace éducatif familial, un excellent préalable avant d'aller réellement à l'eau."
           }
         },
         {
@@ -429,7 +472,8 @@
             "de": "Strand von Ondres",
             "hu": "Ondres Strand",
             "ro": "Plaja Ondres",
-            "en": "Ondres Beach"
+            "en": "Ondres Beach",
+            "fr": "Plage d'Ondres"
           },
           "coords": [
             -1.487833,
@@ -444,7 +488,8 @@
             "de": "Spüren Sie den Sand an diesem weiten Atlantikstrand zwischen Ihren Zehen, schwimmen Sie jedoch immer innerhalb der beflaggten und bewachten Zonen.",
             "hu": "Érezze a homokot a lábujjai között ezen a hatalmas atlanti partvidéken, de mindig a zászlókkal jelölt zónákban ússzon, ahol vízimentők teljesítenek szolgálatot.",
             "ro": "Simțiți nisipul pe această coastă atlantică întinsă, dar înotați întotdeauna între zonele marcate cu steaguri unde salvamarii sunt la datorie.",
-            "en": "Feel the sand between your toes on this expansive Atlantic coastline, but always swim between the flagged zones where lifeguards are on duty."
+            "en": "Feel the sand between your toes on this expansive Atlantic coastline, but always swim between the flagged zones where lifeguards are on duty.",
+            "fr": "Sentez le sable sous vos orteils sur cette vaste côte atlantique, mais nagez toujours entre les zones balisées où les sauveteurs sont en poste."
           }
         }
       ],
@@ -452,7 +497,8 @@
         "de": "Beginnen Sie Ihr Radabenteuer am Rathaus und der historischen Kirche im Zentrum von Ondres. Wenn es wärmer wird, radeln Sie in den kühlen Schatten des weitläufigen Pinienwaldes. Der Nachmittag ist perfekt für Familienspaß mit einer Runde Minigolf und maritimer Bildung. Ihre Tour endet spektakulär, wenn Sie den goldenen Sand des Hauptstrandes erreichen.",
         "hu": "Kezdje kerékpáros kalandját Ondres központjában, a városházánál és a történelmi templomnál. Ahogy a nap melegszik, tekerjen a hatalmas fenyőerdő hűs árnyékába. A délután tökéletes a családi szórakozáshoz egy kör minigolffal és tengeri ismeretek elsajátításával. Útja lenyűgöző módon ér véget, amint egy pihentető estére megérkezik a fő strand aranyhomokjához.",
         "ro": "Începeți aventura pe bicicletă la primărie și biserica istorică din centrul orașului Ondres. Pe măsură ce ziua se încălzește, pedalați în umbra răcoroasă a pădurii de pini. După-amiaza este perfectă pentru distracție în familie cu o rundă de mini-golf și educație maritimă. Plimbarea se termină spectaculos când ajungeți pe nisipul auriu al plajei principale.",
-        "en": "Begin your cycling adventure at the town hall and historic church in the center of Ondres. As the day warms up, ride into the cool shade of the sprawling pine forest. The afternoon is perfect for family fun with a round of mini-golf and maritime learning. Your ride ends spectacularly as you reach the golden sands of the main beach for a relaxing evening."
+        "en": "Begin your cycling adventure at the town hall and historic church in the center of Ondres. As the day warms up, ride into the cool shade of the sprawling pine forest. The afternoon is perfect for family fun with a round of mini-golf and maritime learning. Your ride ends spectacularly as you reach the golden sands of the main beach for a relaxing evening.",
+        "fr": "Commencez votre aventure cycliste à l'hôtel de ville et à l'église historique du centre d'Ondres. Au fur et à mesure que la journée se réchauffe, roulez vers l'ombre fraîche de la vaste forêt de pins. L'après‑midi est parfait pour des activités familiales avec une partie de mini‑golf et une découverte maritime. Votre parcours se termine de façon spectaculaire lorsque vous atteignez les sables dorés de la plage principale pour une soirée détendue."
       },
       "variants": {
         "rainy": {
@@ -460,7 +506,8 @@
             "de": "Trotz Regen ist eine Radtour in Ondres reizvoll. Starten Sie vorsichtig am Rathaus und nutzen Sie die Kirche für eine trockene Pause. Die Fahrt durch den Wald bietet natürlichen Schutz, doch Vorsicht auf den sandigen Wegen. Am Nachmittag ist die Küste rau und windig, was ein echtes Naturerlebnis garantiert. Den Tag beenden Sie am besten mit einem Blick auf den stürmischen Ozean.",
             "hu": "Az eső ellenére a biciklizés Ondres-ben különleges élmény. Kezdjen óvatosan a városházánál, és tartson pihenőt a templom fedett részén. Az erdei utak természetes védelmet adnak, de vigyázzon a felázott talajon. Délután a tengerpart szeles és vad, ami igazi kalandot ígér. A napot a viharos óceán látványával zárja, mielőtt visszatekerne a szállására.",
             "ro": "În ciuda ploii, o tură cu bicicleta în Ondres este plină de farmec. Începeți cu prudență de la primărie și folosiți biserica pentru o pauză uscată. Traseul prin pădure oferă adăpost natural, dar atenție la potecile nisipoase. După-amiaza, coasta este vântoasă și sălbatică, garantând o experiență autentică. Încheiați ziua admirând oceanul furtunos.",
-            "en": "Despite the rain, cycling in Ondres is a unique experience. Start carefully at the Town Hall and use the church for a dry break. The forest ride provides natural shelter, but be cautious on the wet, sandy paths. In the afternoon, the coast is windy and wild, promising a true adventure. End your day by watching the stormy Atlantic before heading back."
+            "en": "Despite the rain, cycling in Ondres is a unique experience. Start carefully at the Town Hall and use the church for a dry break. The forest ride provides natural shelter, but be cautious on the wet, sandy paths. In the afternoon, the coast is windy and wild, promising a true adventure. End your day by watching the stormy Atlantic before heading back.",
+            "fr": "Malgré la pluie, faire du vélo à Ondres est une expérience unique. Commencez prudemment à l'hôtel de ville et utilisez l'église pour une pause au sec. La traversée de la forêt offre un abri naturel, mais soyez prudent sur les sentiers mouillés et sablonneux. L'après‑midi, la côte est venteuse et sauvage, promettant une véritable aventure. Terminez votre journée en regardant l'Atlantique orageux avant de rentrer."
           },
           "stops": [
             {
@@ -468,13 +515,15 @@
                 "de": "Rathaus von Ondres",
                 "hu": "Ondres Városháza",
                 "ro": "Primăria din Ondres",
-                "en": "Ondres Town Hall"
+                "en": "Ondres Town Hall",
+                "fr": "Hôtel de ville d'Ondres"
               },
               "tip_5lang": {
                 "de": "Prüfen Sie Ihre Bremsen vor dem Start; die gepflasterten Flächen rund um das Rathaus können bei Nässe für Fahrradreifen sehr rutschig sein.",
                 "hu": "Indulás előtt ellenőrizze a fékeket; a városháza körüli kövezett felületek vizesen nagyon csúszósak lehetnek a vékonyabb kerékpárgumik számára.",
                 "ro": "Verificați frânele înainte de plecare; suprafețele pavate din jurul primăriei pot fi foarte alunecoase pentru anvelopele de bicicletă când sunt ude.",
-                "en": "Check your brakes before starting; the paved surfaces around the Town Hall can be very slippery for bike tires when wet from the rain."
+                "en": "Check your brakes before starting; the paved surfaces around the Town Hall can be very slippery for bike tires when wet from the rain.",
+                "fr": "Vérifiez vos freins avant de partir ; les surfaces pavées autour de l'hôtel de ville peuvent être très glissantes pour les pneus de vélo lorsqu'elles sont humides."
               }
             },
             {
@@ -482,13 +531,15 @@
                 "de": "Kirche Saint-Pierre",
                 "hu": "Saint-Pierre Templom",
                 "ro": "Biserica Saint-Pierre",
-                "en": "Saint-Pierre Church"
+                "en": "Saint-Pierre Church",
+                "fr": "Église Saint‑Pierre"
               },
               "tip_5lang": {
                 "de": "Nutzen Sie den überdachten Bereich am Kircheneingang, um Ihre Regenbekleidung zu richten, bevor Sie die längere Fahrt in den Wald antreten.",
                 "hu": "Használja a templom bejárata melletti fedett részt az esőruha igazítására, mielőtt nekivágna a hosszabb, erdei szakasznak a kerékpárúton.",
                 "ro": "Folosiți zona acoperită de la intrarea în biserică pentru a vă aranja costumul de ploaie înainte de a porni pe segmentul mai lung prin pădure.",
-                "en": "Use the covered area by the church entrance to adjust your rain gear before embarking on the longer forest segment of the cycling path."
+                "en": "Use the covered area by the church entrance to adjust your rain gear before embarking on the longer forest segment of the cycling path.",
+                "fr": "Utilisez l'abri couvert près de l'entrée de l'église pour ajuster votre tenue de pluie avant d'entamer le long tronçon forestier du parcours cyclable."
               }
             },
             {
@@ -496,13 +547,15 @@
                 "de": "Wald von Landes",
                 "hu": "Landes-erdő",
                 "ro": "Pădurea Landes",
-                "en": "Landes Forest"
+                "en": "Landes Forest",
+                "fr": "Forêt des Landes"
               },
               "tip_5lang": {
                 "de": "Fahren Sie mittig auf den Wegen, um tiefen Pfützen auszuweichen; das Kiefernnadelbett bietet oft besseren Grip als der reine Sandboden bei Regen.",
                 "hu": "Hajtson az út közepén, hogy elkerülje a mély tócsákat; a fenyőtűkkel borított talaj gyakran jobb tapadást biztosít esőben, mint a puszta homok.",
                 "ro": "Circulați pe mijlocul potecii pentru a evita bălțile adânci; stratul de ace de pin oferă adesea o aderență mai bună decât nisipul ud în timpul ploii.",
-                "en": "Ride in the middle of the path to avoid deep puddles; the layer of pine needles often provides better grip than bare sand during a rain shower."
+                "en": "Ride in the middle of the path to avoid deep puddles; the layer of pine needles often provides better grip than bare sand during a rain shower.",
+                "fr": "Roulez au milieu du chemin pour éviter les flaques profondes ; la couche d'aiguilles de pin offre souvent une meilleure adhérence que le sable nu pendant une averse."
               }
             },
             {
@@ -510,13 +563,15 @@
                 "de": "Mini-Golf",
                 "hu": "Minigolf",
                 "ro": "Mini-Golf",
-                "en": "Mini-Golf"
+                "en": "Mini-Golf",
+                "fr": "Mini‑golf"
               },
               "tip_5lang": {
                 "de": "Das Spiel ist bei Regen meist unterbrochen, aber der Platz bietet oft einen Kiosk oder Unterstand für eine kurze Trinkpause im Trockenen.",
                 "hu": "A játék esőben szünetel, de a pálya mellett gyakran találunk fedett kioszkot vagy esőbeállót egy rövid, száraz frissítő pihenőhöz.",
                 "ro": "Jocul este de obicei întrerupt pe ploaie, dar locația oferă adesea un chioșc sau un adăpost pentru o scurtă pauză de hidratare la uscat.",
-                "en": "Mini-golf is usually paused during rain, but the site often has a kiosk or shelter for a quick, dry hydration break before continuing your ride."
+                "en": "Mini-golf is usually paused during rain, but the site often has a kiosk or shelter for a quick, dry hydration break before continuing your ride.",
+                "fr": "Le mini‑golf est généralement interrompu sous la pluie, mais le site dispose souvent d'un kiosque ou d'un abri pour une courte pause au sec et une hydratation avant de poursuivre votre balade."
               }
             },
             {
@@ -524,13 +579,15 @@
                 "de": "Safe Ocean",
                 "hu": "Safe Ocean",
                 "ro": "Safe Ocean",
-                "en": "Safe Ocean"
+                "en": "Safe Ocean",
+                "fr": "Océan Sûr"
               },
               "tip_5lang": {
                 "de": "Vermeiden Sie es, bei Gewitter oder starkem Wind zu nah an die Brandung zu fahren; beobachten Sie die Wellen sicher vom befestigten Weg aus.",
                 "hu": "Viharos szélben ne menjen túl közel a vízpermethez a biciklivel; figyelje a hullámokat biztonságos távolságból, a kiépített aszfaltozott útról.",
                 "ro": "Evitați să vă apropiați prea mult de valuri pe vânt puternic; observați spectacolul oceanului de la distanță sigură, de pe drumul asfaltat.",
-                "en": "Avoid getting too close to the spray during high winds; observe the dramatic waves from a safe distance on the paved coastal bicycle path."
+                "en": "Avoid getting too close to the spray during high winds; observe the dramatic waves from a safe distance on the paved coastal bicycle path.",
+                "fr": "Évitez de vous approcher trop près des embruns pendant les vents forts ; observez les vagues spectaculaires à distance en toute sécurité sur la piste cyclable côtière goudronnée."
               }
             },
             {
@@ -538,13 +595,15 @@
                 "de": "Strand von Ondres",
                 "hu": "Ondres Strand",
                 "ro": "Plaja Ondres",
-                "en": "Ondres Beach"
+                "en": "Ondres Beach",
+                "fr": "Plage d'Ondres"
               },
               "tip_5lang": {
                 "de": "Genießen Sie den weiten Blick auf den Ozean im Regen; die Strandpavillons bieten oft Schutz, um das Naturschauspiel trocken zu verfolgen.",
                 "hu": "Élvezze az óceán végtelen látványát esőben is; a parti pavilonok védelmet nyújtanak, így szárazon nézheti a felkorbácsolt hullámokat.",
                 "ro": "Bucurați-vă de vederea oceanului pe timp de ploaie; pavilioanele de pe plajă oferă adăpost pentru a privi valurile fără a vă uda complet.",
-                "en": "Enjoy the vast view of the ocean even in the rain; beach pavilions offer shelter so you can watch the crashing waves without getting soaked."
+                "en": "Enjoy the vast view of the ocean even in the rain; beach pavilions offer shelter so you can watch the crashing waves without getting soaked.",
+                "fr": "Appréciez la vaste vue sur l'océan même sous la pluie ; les pavillons de plage offrent un abri pour regarder les vagues déferler sans être trempé."
               }
             }
           ]
@@ -554,7 +613,8 @@
             "de": "Eine Winter-Radtour erfordert warme Kleidung und Handschuhe gegen den Seewind. Starten Sie im ruhigen Zentrum und radeln Sie durch den stillen Wald, der im Winter besonders friedlich wirkt. Da es bereits gegen 17:00 Uhr dunkelt, sollten Sie die Küstenabschnitte mittags befahren, wenn die Sonne am höchsten steht. Der Tag endet mit einem herrlichen Sonnenuntergang am Strand, bevor die Kälte anzieht.",
             "hu": "A téli biciklizéshez elengedhetetlen a meleg ruha és a kesztyű a tengeri szél ellen. Kezdjen a csendes központban, majd tekerjen át a békés téli erdőn. Mivel 17:00 körül már sötétedik, a parti szakaszt délre időzítse, amikor a legmelegebb a napsütés. A napot a strandon zárja egy csodás naplementével, mielőtt a hőmérséklet hirtelen leesne.",
             "ro": "O tură de iarnă cu bicicleta necesită haine groase și mănuși împotriva vântului marin. Începeți în centrul liniștit, apoi pedalați prin pădurea tăcută. Deoarece se întunecă în jur de ora 17:00, parcurgeți segmentul de coastă la prânz. Ziua se încheie cu un apus superb pe plajă, înainte ca gerul serii să se lase.",
-            "en": "Winter cycling requires warm layers and gloves against the brisk sea breeze. Start in the quiet center, then pedal through the peaceful winter forest. Since it gets dark around 17:00, aim to reach the coast by noon when the sun is warmest. End your ride with a stunning sunset at the beach before the evening chill sets in."
+            "en": "Winter cycling requires warm layers and gloves against the brisk sea breeze. Start in the quiet center, then pedal through the peaceful winter forest. Since it gets dark around 17:00, aim to reach the coast by noon when the sun is warmest. End your ride with a stunning sunset at the beach before the evening chill sets in.",
+            "fr": "Le cyclisme hivernal nécessite des couches chaudes et des gants contre la brise marine vive. Commencez dans le centre paisible, puis pédalez à travers la forêt d'hiver silencieuse. Comme la nuit tombe vers 17:00, visez d'atteindre la côte à midi lorsque le soleil est le plus chaud. Terminez votre parcours par un superbe coucher de soleil sur la plage avant que le froid du soir ne s'installe."
           },
           "stops": [
             {
@@ -562,13 +622,15 @@
                 "de": "Rathaus von Ondres",
                 "hu": "Ondres Városháza",
                 "ro": "Primăria din Ondres",
-                "en": "Ondres Town Hall"
+                "en": "Ondres Town Hall",
+                "fr": "Hôtel de ville d'Ondres"
               },
               "tip_5lang": {
                 "de": "Tragen Sie winddichte Kleidung; die Temperatur im Zentrum kann durch den Windchill-Effekt deutlich kühler wirken, als das Thermometer anzeigt.",
                 "hu": "Viseljen szélálló ruházatot; a központban a hőérzet a szél miatt sokkal alacsonyabb lehet, mint amit a hőmérő valójában mutat.",
                 "ro": "Purtați haine rezistente la vânt; în centru, temperatura resimțită poate fi mult mai scăzută decât cea indicată de termometru din cauza brizei.",
-                "en": "Wear windproof clothing; the perceived temperature in the center can be much lower than the actual reading due to the winter wind-chill factor."
+                "en": "Wear windproof clothing; the perceived temperature in the center can be much lower than the actual reading due to the winter wind-chill factor.",
+                "fr": "Portez des vêtements coupe‑vent ; la température ressentie au centre peut être bien inférieure à la lecture réelle à cause du facteur vent glacial d'hiver."
               }
             },
             {
@@ -576,13 +638,15 @@
                 "de": "Kirche Saint-Pierre",
                 "hu": "Saint-Pierre Templom",
                 "ro": "Biserica Saint-Pierre",
-                "en": "Saint-Pierre Church"
+                "en": "Saint-Pierre Church",
+                "fr": "Église Saint‑Pierre"
               },
               "tip_5lang": {
                 "de": "Machen Sie eine kurze Pause im Inneren, um Ihre Hände aufzuwärmen; die dicken Mauern der Kirche halten die Kälte des Winters ein wenig ab.",
                 "hu": "Tartson egy rövid szünetet bent, hogy felmelegítse a kezeit; a templom vastag falai télen valamennyire távol tartják a kinti fagyos levegőt.",
                 "ro": "Faceți o scurtă pauză în interior pentru a vă încălzi mâinile; zidurile groase ale bisericii oferă o barieră naturală împotriva frigului de afară.",
-                "en": "Take a short break inside to warm up your hands; the thick stone walls of the church provide a natural barrier against the freezing winter air."
+                "en": "Take a short break inside to warm up your hands; the thick stone walls of the church provide a natural barrier against the freezing winter air.",
+                "fr": "Faites une courte pause à l'intérieur pour réchauffer vos mains ; les épaisses murs de pierre de l'église forment une barrière naturelle contre l'air hivernal glacial."
               }
             },
             {
@@ -590,13 +654,15 @@
                 "de": "Wald von Landes",
                 "hu": "Landes-erdő",
                 "ro": "Pădurea Landes",
-                "en": "Landes Forest"
+                "en": "Landes Forest",
+                "fr": "Forêt des Landes"
               },
               "tip_5lang": {
                 "de": "Der Waldboden kann bei Frost hart und holprig sein; reduzieren Sie Ihr Tempo auf den unbefestigten Wegen, um Stürze auf Eisplatten zu vermeiden.",
                 "hu": "A fagyos erdei talaj kemény és rázós lehet; lassítson a nem aszfaltozott utakon, hogy elkerülje az esetleges jeges foltokon való elcsúszást.",
                 "ro": "Solul înghețat al pădurii poate fi dur și accidentat; reduceți viteza pe poteci pentru a evita căzăturile pe eventualele porțiuni cu gheață.",
-                "en": "The frozen forest ground can be hard and bumpy; reduce your speed on unpaved paths to avoid slipping on potential patches of black ice."
+                "en": "The frozen forest ground can be hard and bumpy; reduce your speed on unpaved paths to avoid slipping on potential patches of black ice.",
+                "fr": "Le sol gelé de la forêt peut être dur et bosselé ; réduisez votre vitesse sur les chemins non revêtus pour éviter de glisser sur d'éventuelles plaques de verglas noir."
               }
             },
             {
@@ -604,13 +670,15 @@
                 "de": "Mini-Golf",
                 "hu": "Minigolf",
                 "ro": "Mini-Golf",
-                "en": "Mini-Golf"
+                "en": "Mini-Golf",
+                "fr": "Mini‑golf"
               },
               "tip_5lang": {
                 "de": "In der Nebensaison oft geschlossen, bietet der Ort dennoch eine gute Landmarke für eine kurze Trinkpause aus der mitgebrachten Thermoskanne.",
                 "hu": "A holtszezonban gyakran zárva van, de kiváló tájékozódási pont egy rövid pihenőhöz, ahol előveheti a hazulról hozott meleg teás termoszt.",
                 "ro": "Adesea închis în extrasezon, locația rămâne un punct de reper bun pentru o scurtă pauză de ceai cald din termosul adus de acasă.",
-                "en": "Often closed in the off-season, the site still serves as a good landmark for a short break to enjoy a warm drink from your thermos."
+                "en": "Often closed in the off-season, the site still serves as a good landmark for a short break to enjoy a warm drink from your thermos.",
+                "fr": "Souvent fermé hors saison, le site sert néanmoins de bon repère pour une courte pause et pour déguster une boisson chaude de votre thermos."
               }
             },
             {
@@ -618,13 +686,15 @@
                 "de": "Safe Ocean",
                 "hu": "Safe Ocean",
                 "ro": "Safe Ocean",
-                "en": "Safe Ocean"
+                "en": "Safe Ocean",
+                "fr": "Océan Sûr"
               },
               "tip_5lang": {
                 "de": "Der Küstenwind ist hier im Winter am stärksten; schützen Sie Ihr Gesicht mit einem Schal oder einer Sturmhaube vor der beißenden Kälte.",
                 "hu": "A tengerparti szél itt a legerősebb télen; védje arcát sállal vagy maszkkal a metsző hideg ellen, miközben a téli óceánt csodálja.",
                 "ro": "Vântul de coastă este cel mai puternic aici iarna; protejați-vă fața cu un fular împotriva frigului pătrunzător în timp ce admirați oceanul.",
-                "en": "The coastal wind is strongest here in winter; protect your face with a scarf or mask against the biting cold while admiring the winter ocean."
+                "en": "The coastal wind is strongest here in winter; protect your face with a scarf or mask against the biting cold while admiring the winter ocean.",
+                "fr": "Le vent côtier est le plus fort ici en hiver ; protégez votre visage avec une écharpe ou un masque contre le froid mordant tout en admirant l'océan hivernal."
               }
             },
             {
@@ -632,13 +702,15 @@
                 "de": "Strand von Ondres",
                 "hu": "Ondres Strand",
                 "ro": "Plaja Ondres",
-                "en": "Ondres Beach"
+                "en": "Ondres Beach",
+                "fr": "Plage d'Ondres"
               },
               "tip_5lang": {
                 "de": "Beobachten Sie den frühen Sonnenuntergang gegen 17:00 Uhr; das Licht ist im Winter oft klarer und sorgt für besonders intensive Farben am Horizont.",
                 "hu": "Figyelje meg a korai, 17:00 óra körüli naplementét; télen a levegő tisztább, így a horizont színei gyakran sokkal intenzívebbek és szebbek.",
                 "ro": "Urmăriți apusul devreme, în jur de ora 17:00; aerul este adesea mai clar iarna, oferind culori extrem de intense la orizontul mării.",
-                "en": "Watch the early sunset around 17:00; the air is often clearer in winter, providing exceptionally intense and beautiful colors on the horizon."
+                "en": "Watch the early sunset around 17:00; the air is often clearer in winter, providing exceptionally intense and beautiful colors on the horizon.",
+                "fr": "Regardez le coucher du soleil tôt, vers 17:00 ; l'air est souvent plus clair en hiver, offrant des couleurs exceptionnellement intenses et magnifiques à l'horizon."
               }
             }
           ]
@@ -658,7 +730,8 @@
             "de": "Kirche Saint-Pierre",
             "hu": "Saint-Pierre Templom",
             "ro": "Biserica Saint-Pierre",
-            "en": "Saint-Pierre Church"
+            "en": "Saint-Pierre Church",
+            "fr": "Église Saint‑Pierre"
           },
           "coords": [
             -1.447568,
@@ -673,7 +746,8 @@
             "de": "Treten Sie in diese malerische Steinkirche ein, um ihre friedliche Atmosphäre zu erleben, und nutzen Sie den kostenlosen Parkplatz in der Nähe.",
             "hu": "Lépjen be ebbe a festői kőtemplomba, hogy megtapasztalja annak békés légkörét, és használja a közeli ingyenes parkolót.",
             "ro": "Pășiți în această biserică pitorească de piatră pentru a experimenta atmosfera sa pașnică, profitând de parcarea gratuită din apropiere.",
-            "en": "Step inside this quaint stone church to experience its peaceful atmosphere, making use of the free parking available nearby to start your drive."
+            "en": "Step inside this quaint stone church to experience its peaceful atmosphere, making use of the free parking available nearby to start your drive.",
+            "fr": "Entrez dans cette charmante église de pierre pour en ressentir l'atmosphère paisible, en profitant du parking gratuit disponible à proximité pour commencer votre trajet."
           }
         },
         {
@@ -681,7 +755,8 @@
             "de": "Accrobranche Parc Robinson",
             "hu": "Accrobranche Parc Robinson",
             "ro": "Accrobranche Parc Robinson",
-            "en": "Accrobranche Parc Robinson"
+            "en": "Accrobranche Parc Robinson",
+            "fr": "Accrobranche Parc Robinson"
           },
           "coords": [
             -1.454192,
@@ -696,7 +771,8 @@
             "de": "Testen Sie Ihre Geschicklichkeit auf den aufregenden Baumkronen-Hindernisparcours für alle Altersgruppen und tragen Sie dabei festes, geschlossenes Schuhwerk.",
             "hu": "Tegye próbára ügyességét a minden korosztály számára tervezett izgalmas lombkorona akadálypályákon, és viseljen stabil, zárt cipőt a jobb tapadás érdekében.",
             "ro": "Testați-vă agilitatea pe traseele captivante din vârfurile copacilor destinate tuturor vârstelor, purtând pantofi rezistenți, închiși, pentru o mai bună aderență.",
-            "en": "Test your agility on the exhilarating treetop obstacle courses designed for all ages, wearing sturdy, closed-toe shoes for better grip."
+            "en": "Test your agility on the exhilarating treetop obstacle courses designed for all ages, wearing sturdy, closed-toe shoes for better grip.",
+            "fr": "Testez votre agilité sur les parcours d'obstacles exaltants dans la cime des arbres conçus pour tous les âges, en portant des chaussures fermées et solides pour une meilleure adhérence."
           }
         },
         {
@@ -704,7 +780,8 @@
             "de": "Canal du Boudigau",
             "hu": "Boudigau-csatorna",
             "ro": "Canalul Boudigau",
-            "en": "Boudigau Canal"
+            "en": "Boudigau Canal",
+            "fr": "Canal du Boudigau"
           },
           "coords": [
             -1.388356,
@@ -719,7 +796,8 @@
             "de": "Schlendern Sie entlang dieser friedlichen Wasserstraße, die die Küstenseen verbindet und an einem hellen Nachmittag eine fantastische Kulisse zum Fotografieren bietet.",
             "hu": "Sétáljon végig ezen a békés vízi úton, amely összeköti a part menti tavakat, és ragyogó délutánokon fantasztikus hátteret biztosít a fotózáshoz.",
             "ro": "Plimbați-vă de-a lungul acestei căi navigabile pașnice care conectează lacurile de coastă, oferind un fundal fantastic pentru fotografie într-o după-amiază senină.",
-            "en": "Wander along this peaceful waterway that connects the coastal lakes, offering a fantastic backdrop for photography on a bright afternoon."
+            "en": "Wander along this peaceful waterway that connects the coastal lakes, offering a fantastic backdrop for photography on a bright afternoon.",
+            "fr": "Flânez le long de cette voie d'eau paisible qui relie les lacs côtiers, offrant un cadre fantastique pour la photographie lors d'un après‑midi ensoleillé."
           }
         },
         {
@@ -727,7 +805,8 @@
             "de": "Strand von Ondres",
             "hu": "Ondres Strand",
             "ro": "Plaja Ondres",
-            "en": "Ondres Beach"
+            "en": "Ondres Beach",
+            "fr": "Plage d'Ondres"
           },
           "coords": [
             -1.487833,
@@ -742,7 +821,8 @@
             "de": "Spüren Sie den Sand an diesem weiten Atlantikstrand zwischen Ihren Zehen, schwimmen Sie jedoch immer innerhalb der beflaggten Zonen.",
             "hu": "Érezze a homokot a lábujjai között ezen a hatalmas atlanti partvidéken, de mindig a zászlókkal jelölt zónákban ússzon.",
             "ro": "Simțiți nisipul pe această coastă atlantică întinsă, dar înotați întotdeauna între zonele marcate cu steaguri unde salvamarii sunt la datorie.",
-            "en": "Feel the sand between your toes on this expansive Atlantic coastline, but always swim between the flagged zones where lifeguards are on duty."
+            "en": "Feel the sand between your toes on this expansive Atlantic coastline, but always swim between the flagged zones where lifeguards are on duty.",
+            "fr": "Sentez le sable sous vos orteils sur cette vaste côte atlantique, mais nagez toujours entre les zones balisées où les sauveteurs sont en poste."
           }
         },
         {
@@ -750,7 +830,8 @@
             "de": "Plage du Métro",
             "hu": "Plage du Métro",
             "ro": "Plage du Métro",
-            "en": "Plage du Métro"
+            "en": "Plage du Métro",
+            "fr": "Plage du Métro"
           },
           "coords": [
             -1.500722,
@@ -765,7 +846,8 @@
             "de": "Entfliehen Sie an diesen etwas wilderen, schönen Strandabschnitt, der von Surfern bevorzugt wird, achten Sie aber auf die starken Meeresströmungen.",
             "hu": "Meneküljön el erre a kissé vadabb, gyönyörű partszakaszra, amelyet a szörfösök kedvelnek, de ügyeljen az erős óceáni áramlatokra a vízben.",
             "ro": "Evadați pe această porțiune de plajă puțin mai sălbatică și frumoasă, preferată de surferi, dar fiți atenți la curenții puternici ai oceanului.",
-            "en": "Escape to this slightly wilder, beautiful stretch of beach favored by surfers, though be mindful of the strong ocean currents when wading in."
+            "en": "Escape to this slightly wilder, beautiful stretch of beach favored by surfers, though be mindful of the strong ocean currents when wading in.",
+            "fr": "Évadez‑vous sur cette étendue de plage légèrement plus sauvage et belle, prisée des surfeurs, mais faites attention aux courants forts en vous avançant dans l'eau."
           }
         },
         {
@@ -773,7 +855,8 @@
             "de": "Plage de la Petite Barre",
             "hu": "Plage de la Petite Barre",
             "ro": "Plage de la Petite Barre",
-            "en": "Plage de la Petite Barre"
+            "en": "Plage de la Petite Barre",
+            "fr": "Plage de la Petite Barre"
           },
           "coords": [
             -1.523268,
@@ -788,7 +871,8 @@
             "de": "Beobachten Sie den Sonnenuntergang über dem Ozean an diesem malerischen und weniger überlaufenen Sandstrand und beenden Sie Ihren Tagesausflug mit einer unvergesslichen Aussicht.",
             "hu": "Nézze meg a naplementét az óceán felett erről a festői és kevésbé zsúfolt homokos visszavonulóhelyről, és egy felejthetetlen kilátással tegye teljessé egynapos kirándulását.",
             "ro": "Priviți apusul de soare peste ocean din această retragere de nisip pitorească și mai puțin aglomerată, completându-vă excursia de o zi cu o priveliște de neuitat.",
-            "en": "Watch the sun set over the ocean from this picturesque and less crowded sandy retreat, completing your day trip with an unforgettable view."
+            "en": "Watch the sun set over the ocean from this picturesque and less crowded sandy retreat, completing your day trip with an unforgettable view.",
+            "fr": "Regardez le soleil se coucher sur l'océan depuis ce refuge sablonneux pittoresque et moins fréquenté, complétant votre excursion d'une vue inoubliable."
           }
         }
       ],
@@ -796,7 +880,8 @@
         "de": "Fahren Sie zur charmanten Stadtkirche, um Ihre Erkundung zu beginnen, bevor Sie Richtung Norden zu Nervenkitzel in den Baumwipfeln aufbrechen. Gegen Mittag können Sie einen friedlichen Spaziergang entlang des malerischen örtlichen Kanals genießen. Am Nachmittag fahren Sie die Atlantikküste hinunter und machen Halt am beliebten Hauptstrand und den rauen Surfspots. Der Abend endet an einem abgelegenen, ruhigen Sandstrand.",
         "hu": "Vezessen el a hangulatos városi templomhoz, hogy megkezdje a felfedezést, mielőtt észak felé venné az irányt az izgalmas lombkoronapályákhoz. Délben élvezheti a békés sétát a festői helyi csatorna mentén. Délután az Atlanti-óceán partján cirkálhat, megállva a népszerű fő strandon és a vad szörfös helyeken. Az este egy eldugott, nyugodt homokos szakaszon ér véget.",
         "ro": "Conduceți spre biserica fermecătoare din oraș pentru a vă începe explorarea, înainte de a vă îndrepta spre nord pentru senzații tari în copaci. La amiază, vă veți bucura de o plimbare pașnică de-a lungul pitorescului canal local. După-amiaza, veți coborî pe coasta Atlanticului, oprindu-vă la plaja principală populară și la locurile accidentate de surf. Seara se încheie pe o întindere izolată și liniștită de nisip.",
-        "en": "Drive to the charming town church to kick off your exploration before heading north for treetop thrills. By midday, you'll be enjoying a peaceful walk along the scenic local canal. In the afternoon, you'll cruise down the Atlantic coast, stopping at the popular main beach and the rugged surfer spots. The evening concludes at a secluded, tranquil stretch of sand."
+        "en": "Drive to the charming town church to kick off your exploration before heading north for treetop thrills. By midday, you'll be enjoying a peaceful walk along the scenic local canal. In the afternoon, you'll cruise down the Atlantic coast, stopping at the popular main beach and the rugged surfer spots. The evening concludes at a secluded, tranquil stretch of sand.",
+        "fr": "Conduisez jusqu'à l'église de la charmante ville pour débuter votre exploration avant de filer vers le nord pour les sensations en hauteur. À midi, vous profiterez d'une promenade paisible le long du canal local pittoresque. L'après‑midi, vous longerez la côte atlantique, en vous arrêtant à la plage principale populaire et aux spots de surf plus sauvages. La soirée se termine sur une étendue de sable isolée et tranquille."
       },
       "variants": {
         "rainy": {
@@ -804,7 +889,8 @@
             "de": "Mit dem Auto erkunden Sie Ondres bei Regen besonders komfortabel. Starten Sie an der Kirche, einem perfekten Ort für einen trockenen Aufenthalt. Mittags führt die Fahrt zum Abenteuerpark, wo die Bäume leichten Schutz bieten. Besuchen Sie nachmittags den Kanal und die Strände, die Sie bequem vom Auto aus beobachten können. Der Tag endet sicher und trocken, während der Regen gegen die Scheiben prasselt.",
             "hu": "Autóval a legkényelmesebb Ondres felfedezése esős időben is. Kezdjen a templomnál, ami tökéletes helyszín a száraz nézelődéshez. Délben az élménypark felé vegye az irányt, ahol a fák némi védelmet nyújtanak. Délután a csatorna és a strandok következnek, amiket akár az autóból is megcsodálhat. A nap biztonságban és szárazon ér véget, miközben az eső a szélvédőn kopog.",
             "ro": "Cu mașina, explorarea orașului Ondres pe timp de ploaie este foarte confortabilă. Începeți la biserică, un loc perfect pentru o vizită la adăpost. La prânz, mergeți spre parcul de aventură, unde copacii oferă o baretă naturală. După-amiaza, vizitați canalul și plajele, pe care le puteți admira chiar din mașină. Ziua se încheie la căldură, în timp ce ploaia bate în parbriz.",
-            "en": "Exploring Ondres by car is the most comfortable way to see the sights during rain. Start at the church, a perfect spot for staying dry. At noon, head to the adventure park where the trees provide some shelter. In the afternoon, visit the canal and beaches, which you can conveniently observe from your car. The day ends safely and dry while the rain drums on the windshield."
+            "en": "Exploring Ondres by car is the most comfortable way to see the sights during rain. Start at the church, a perfect spot for staying dry. At noon, head to the adventure park where the trees provide some shelter. In the afternoon, visit the canal and beaches, which you can conveniently observe from your car. The day ends safely and dry while the rain drums on the windshield.",
+            "fr": "Explorer Ondres en voiture est la manière la plus confortable de voir les sites sous la pluie. Commencez à l'église, un endroit parfait pour rester au sec. À midi, dirigez‑vous vers le parc d'aventure où les arbres offrent un certain abri. L'après‑midi, visitez le canal et les plages, que vous pouvez observer commodément depuis votre véhicule. La journée se termine au sec et en sécurité tandis que la pluie tambourine sur le pare‑brise."
           },
           "stops": [
             {
@@ -812,13 +898,15 @@
                 "de": "Kirche Saint-Pierre",
                 "hu": "Saint-Pierre Templom",
                 "ro": "Biserica Saint-Pierre",
-                "en": "Saint-Pierre Church"
+                "en": "Saint-Pierre Church",
+                "fr": "Église Saint‑Pierre"
               },
               "tip_5lang": {
                 "de": "Nutzen Sie den nahen Parkplatz, um schnell ins Trockene zu gelangen; im Inneren können Sie in Ruhe die religiöse Kunst bewundern, während es draußen regnet.",
                 "hu": "Használja a közeli parkolót, hogy gyorsan beérjen a szárazba; bent nyugodtan megcsodálhatja a vallási művészeti alkotásokat, amíg kint esik az eső.",
                 "ro": "Folosiți parcarea din apropiere pentru a ajunge rapid la adăpost; în interior puteți admira arta religioasă în liniște, în timp ce afară plouă.",
-                "en": "Use the nearby parking to get indoors quickly; inside, you can admire the religious artwork in peace while the rain falls steadily outside."
+                "en": "Use the nearby parking to get indoors quickly; inside, you can admire the religious artwork in peace while the rain falls steadily outside.",
+                "fr": "Utilisez le parking à proximité pour entrer rapidement ; à l'intérieur, vous pouvez admirer les œuvres religieuses en paix pendant que la pluie tombe dehors."
               }
             },
             {
@@ -826,13 +914,15 @@
                 "de": "Accrobranche Parc Robinson",
                 "hu": "Accrobranche Parc Robinson",
                 "ro": "Accrobranche Parc Robinson",
-                "en": "Accrobranche Parc Robinson"
+                "en": "Accrobranche Parc Robinson",
+                "fr": "Accrobranche Parc Robinson"
               },
               "tip_5lang": {
                 "de": "Bei starkem Regen kann der Kletterbetrieb eingestellt werden; rufen Sie vorher an oder genießen Sie einen kurzen Waldspaziergang unter den schützenden Kronen.",
                 "hu": "Heves esőben a mászás szünetelhet; hívja fel őket előre, vagy tegyen csak egy rövid erdei sétát a védelmet nyújtó fák sűrű lombjai alatt.",
                 "ro": "Activitățile de cățărare pot fi suspendate pe ploaie torențială; sunați înainte sau bucurați-vă de o scurtă plimbare sub coronamentul protector.",
-                "en": "Climbing activities may be suspended during heavy rain; call ahead or simply enjoy a short forest walk under the protective tree canopy instead."
+                "en": "Climbing activities may be suspended during heavy rain; call ahead or simply enjoy a short forest walk under the protective tree canopy instead.",
+                "fr": "Les activités d'escalade peuvent être suspendues sous une forte pluie ; appelez avant ou contentez‑vous d'une courte promenade en forêt sous la canopée protectrice des arbres."
               }
             },
             {
@@ -840,13 +930,15 @@
                 "de": "Canal du Boudigau",
                 "hu": "Boudigau-csatorna",
                 "ro": "Canalul Boudigau",
-                "en": "Boudigau Canal"
+                "en": "Boudigau Canal",
+                "fr": "Canal du Boudigau"
               },
               "tip_5lang": {
                 "de": "Parken Sie an den Aussichtspunkten entlang des Kanals; beobachten Sie die Reiher und Enten direkt vom Auto aus, um bei Schauern nicht nass zu werden.",
                 "hu": "Parkoljon le a csatorna menti kilátópontoknál; figyelje meg a gémeket és kacsákat közvetlenül az autóból, így nem ázik meg a hirtelen záporokban.",
                 "ro": "Parcați la punctele de belvedere de-a lungul canalului; observați stârcii și rațele direct din mașină pentru a nu vă uda în timpul averselor.",
-                "en": "Park at the viewpoints along the canal; observe the herons and ducks directly from your car to avoid getting soaked during sudden rain showers."
+                "en": "Park at the viewpoints along the canal; observe the herons and ducks directly from your car to avoid getting soaked during sudden rain showers.",
+                "fr": "Garez‑vous aux points de vue le long du canal ; observez hérons et canards directement depuis votre voiture pour éviter d'être trempé lors d'averses soudaines."
               }
             },
             {
@@ -854,13 +946,15 @@
                 "de": "Strand von Ondres",
                 "hu": "Ondres Strand",
                 "ro": "Plaja Ondres",
-                "en": "Ondres Beach"
+                "en": "Ondres Beach",
+                "fr": "Plage d'Ondres"
               },
               "tip_5lang": {
                 "de": "Der große Strandparkplatz ermöglicht einen Panoramablick auf den Ozean; genießen Sie die wilde Brandung gemütlich vom Fahrersitz aus bei laufender Heizung.",
                 "hu": "A nagy strandparkoló panorámás kilátást nyújt az óceánra; élvezze a vad hullámzást kényelmesen a vezetőülésből, bekapcsolt fűtés mellett.",
                 "ro": "Parcarea mare de la plajă permite o vedere panoramică asupra oceanului; admirați valurile sălbatice din confortul mașinii, cu încălzirea pornită.",
-                "en": "The large beach parking lot allows for a panoramic ocean view; enjoy the wild surf comfortably from the driver's seat with the heater running."
+                "en": "The large beach parking lot allows for a panoramic ocean view; enjoy the wild surf comfortably from the driver's seat with the heater running.",
+                "fr": "Le grand parking de la plage permet une vue panoramique sur l'océan ; appréciez la houle sauvage confortablement depuis le siège du conducteur avec le chauffage allumé."
               }
             },
             {
@@ -868,13 +962,15 @@
                 "de": "Plage du Métro",
                 "hu": "Plage du Métro",
                 "ro": "Plage du Métro",
-                "en": "Plage du Métro"
+                "en": "Plage du Métro",
+                "fr": "Plage du Métro"
               },
               "tip_5lang": {
                 "de": "Die Zufahrtsstraße kann bei starkem Regen Pfützen bilden; fahren Sie vorsichtig und nutzen Sie die erhöhten Haltepunkte für Fotos der Küste im Regen.",
                 "hu": "A bekötőúton heves esőben nagyobb tócsák alakulhatnak ki; vezessen óvatosan, és használja a magasabb megállóhelyeket a parti fotózáshoz.",
                 "ro": "Drumul de acces poate avea bălți mari după ploaie; conduceți cu atenție și folosiți punctele de oprire mai înalte pentru fotografii de coastă.",
-                "en": "The access road may develop large puddles during heavy rain; drive cautiously and use the elevated stopping points for coastal photography."
+                "en": "The access road may develop large puddles during heavy rain; drive cautiously and use the elevated stopping points for coastal photography.",
+                "fr": "La route d'accès peut présenter de grandes flaques en cas de fortes pluies ; conduisez prudemment et utilisez les points d'arrêt surélevés pour la photographie côtière."
               }
             },
             {
@@ -882,13 +978,15 @@
                 "de": "Plage de la Petite Barre",
                 "hu": "Plage de la Petite Barre",
                 "ro": "Plage de la Petite Barre",
-                "en": "Plage de la Petite Barre"
+                "en": "Plage de la Petite Barre",
+                "fr": "Plage de la Petite Barre"
               },
               "tip_5lang": {
                 "de": "Das Ende der Straße bietet einen tollen Blick auf die Mündung; bleiben Sie bei Sturm im Fahrzeug, da der Wind hier besonders heftig wehen kann.",
                 "hu": "Az út vége remek kilátást nyújt a torkolatra; viharos időben maradjon a járműben, mert a szél itt különösen hevesen és erősen fújhat.",
                 "ro": "Capătul drumului oferă o vedere excelentă spre estuar; pe furtună, rămâneți în vehicul, deoarece vântul poate fi extrem de puternic aici.",
-                "en": "The end of the road offers a great view of the estuary; stay inside your vehicle during storms as the wind can be exceptionally fierce here."
+                "en": "The end of the road offers a great view of the estuary; stay inside your vehicle during storms as the wind can be exceptionally fierce here.",
+                "fr": "La fin de la route offre une belle vue sur l'estuaire ; restez dans votre véhicule pendant les tempêtes car le vent peut y être exceptionnellement violent."
               }
             }
           ]
@@ -898,7 +996,8 @@
             "de": "Eine winterliche Spritztour durch Ondres ist ideal, um die weite Küste ohne Massen zu erleben. Beginnen Sie an der festlich geschmückten Kirche. Mittags führt die Route zum Kanal, wo die Wintersonne tief steht und für dramatisches Licht sorgt. Da es um 17:00 Uhr bereits dunkel ist, sollten Sie die Strandstopps für den frühen Nachmittag planen. Der Tag endet mit einer malerischen Fahrt entlang der Küstenlinie.",
             "hu": "A téli autózás Ondres környékén ideális, hogy tömeg nélkül élvezze a végtelen partokat. Kezdjen az ünnepi díszbe öltözött templomnál. Délben a csatorna mentén haladjon, ahol az alacsonyan járó nap drámai fényeket vet a tájra. Mivel 17:00 körül már sötétedik, a strandokat kora délutánra időzítse. A nap egy festői tengerparti autózással zárul a dűnék mentén.",
             "ro": "O plimbare de iarnă cu mașina prin Ondres este ideală pentru a vedea coasta fără mulțimi. Începeți la biserica decorată de sărbătoare. La prânz, urmați traseul de-a lungul canalului sub soarele blând de iarnă. Deoarece se întunecă la ora 17:00, planificați vizitele la plajă devreme. Ziua se încheie cu o plimbare pitorească pe șoseaua de coastă.",
-            "en": "A winter drive through Ondres is ideal for enjoying the vast coastline without the crowds. Start at the festively decorated church. At noon, follow the route along the canal where the low winter sun creates dramatic lighting. Since it gets dark by 17:00, plan your beach stops for the early afternoon. The day ends with a scenic drive along the coastal dunes."
+            "en": "A winter drive through Ondres is ideal for enjoying the vast coastline without the crowds. Start at the festively decorated church. At noon, follow the route along the canal where the low winter sun creates dramatic lighting. Since it gets dark by 17:00, plan your beach stops for the early afternoon. The day ends with a scenic drive along the coastal dunes.",
+            "fr": "Une balade hivernale en voiture à travers Ondres est idéale pour profiter de la vaste côte sans la foule. Commencez par l'église décorée pour les fêtes. À midi, suivez la route le long du canal où le soleil d'hiver bas crée un éclairage dramatique. Comme la nuit tombe vers 17:00, planifiez vos arrêts plage en début d'après‑midi. La journée se termine par une route panoramique le long des dunes côtières."
           },
           "stops": [
             {
@@ -906,13 +1005,15 @@
                 "de": "Kirche Saint-Pierre",
                 "hu": "Saint-Pierre Templom",
                 "ro": "Biserica Saint-Pierre",
-                "en": "Saint-Pierre Church"
+                "en": "Saint-Pierre Church",
+                "fr": "Église Saint‑Pierre"
               },
               "tip_5lang": {
                 "de": "Genießen Sie die Ruhe im Inneren; die dicken Mauern bieten eine gute Isolierung gegen die winterliche Kälte, ideal für einen Moment der Stille.",
                 "hu": "Élvezze a benti nyugalmat; a vastag falak remekül szigetelnek a téli hideg ellen, így ez a helyszín tökéletes egy rövid, csendes elmélyülésre.",
                 "ro": "Bucurați-vă de liniștea din interior; zidurile groase oferă o izolare bună împotriva frigului de iarnă, fiind un loc ideal pentru reculegere.",
-                "en": "Enjoy the peacefulness inside; the thick walls provide good insulation against the winter cold, making it a perfect spot for a quiet moment."
+                "en": "Enjoy the peacefulness inside; the thick walls provide good insulation against the winter cold, making it a perfect spot for a quiet moment.",
+                "fr": "Appréciez le calme à l'intérieur ; les murs épais offrent une bonne isolation contre le froid hivernal, en faisant un endroit parfait pour un moment de tranquillité."
               }
             },
             {
@@ -920,13 +1021,15 @@
                 "de": "Accrobranche Parc Robinson",
                 "hu": "Accrobranche Parc Robinson",
                 "ro": "Accrobranche Parc Robinson",
-                "en": "Accrobranche Parc Robinson"
+                "en": "Accrobranche Parc Robinson",
+                "fr": "Accrobranche Parc Robinson"
               },
               "tip_5lang": {
                 "de": "Der Park kann im Winter geschlossen sein; nutzen Sie den Waldparkplatz für einen kurzen Spaziergang an der frischen, klaren Winterluft zwischen den Pinien.",
                 "hu": "A park télen zárva tarthat; használja az erdei parkolót egy rövid sétához a friss, tiszta téli levegőn a hatalmas fenyőfák oltalmazó sűrűjében.",
                 "ro": "Parcul poate fi închis iarna; folosiți parcarea din pădure pentru o scurtă plimbare în aerul curat de iarnă printre pinii maiestuoși.",
-                "en": "The park might be closed in winter; use the forest parking lot for a short walk in the fresh, clear winter air among the majestic pine trees."
+                "en": "The park might be closed in winter; use the forest parking lot for a short walk in the fresh, clear winter air among the majestic pine trees.",
+                "fr": "Le parc peut être fermé en hiver ; utilisez le parking forestier pour une courte promenade dans l'air d'hiver frais et clair parmi les majestueux pins."
               }
             },
             {
@@ -934,13 +1037,15 @@
                 "de": "Canal du Boudigau",
                 "hu": "Boudigau-csatorna",
                 "ro": "Canalul Boudigau",
-                "en": "Boudigau Canal"
+                "en": "Boudigau Canal",
+                "fr": "Canal du Boudigau"
               },
               "tip_5lang": {
                 "de": "Das tiefe Sonnenlicht spiegelt sich im Winter herrlich im Wasser; halten Sie an den ausgewiesenen Parkbuchten für tolle Fotos der ruhigen Kanallandschaft.",
                 "hu": "Az alacsony téli napfény csodásan tükröződik a vízen; álljon meg a kijelölt parkolóhelyeken, hogy fotókat készítsen a nyugodt csatornáról.",
                 "ro": "Lumina joasă a soarelui se reflectă superb în apă iarna; opriți în locurile de parcare amenajate pentru fotografii reușite cu peisajul canalului.",
-                "en": "The low winter sunlight reflects beautifully on the water; stop at the designated parking bays for great photos of the calm canal landscape."
+                "en": "The low winter sunlight reflects beautifully on the water; stop at the designated parking bays for great photos of the calm canal landscape.",
+                "fr": "Le faible soleil d'hiver se reflète magnifiquement sur l'eau ; arrêtez‑vous aux emplacements de stationnement désignés pour de belles photos du paysage canal calme."
               }
             },
             {
@@ -948,13 +1053,15 @@
                 "de": "Strand von Ondres",
                 "hu": "Ondres Strand",
                 "ro": "Plaja Ondres",
-                "en": "Ondres Beach"
+                "en": "Ondres Beach",
+                "fr": "Plage d'Ondres"
               },
               "tip_5lang": {
                 "de": "Ziehen Sie sich warm an für einen kurzen Gang zum Wasser; die frische Meeresbrise ist im Winter belebend, kann aber sehr schneidig und kalt sein.",
                 "hu": "Öltözzön fel melegen egy rövid parti sétához; a tengeri szellő télen rendkívül frissítő, de meglehetősen metsző és hideg is lehet.",
                 "ro": "Îmbrăcați-vă gros pentru o scurtă plimbare spre apă; briza mării este revigorantă iarna, dar poate fi foarte tăioasă și rece pe plajă.",
-                "en": "Dress warmly for a short walk to the water; the sea breeze is invigorating in winter but can be very biting and cold on the open beach."
+                "en": "Dress warmly for a short walk to the water; the sea breeze is invigorating in winter but can be very biting and cold on the open beach.",
+                "fr": "Habillez‑vous chaudement pour une courte marche jusqu'à l'eau ; la brise marine est vivifiante en hiver mais peut être très mordante et froide sur la plage ouverte."
               }
             },
             {
@@ -962,13 +1069,15 @@
                 "de": "Plage du Métro",
                 "hu": "Plage du Métro",
                 "ro": "Plage du Métro",
-                "en": "Plage du Métro"
+                "en": "Plage du Métro",
+                "fr": "Plage du Métro"
               },
               "tip_5lang": {
                 "de": "Genießen Sie die Einsamkeit des Strandes; im Winter haben Sie die weite Aussicht fast für sich allein, ideal für Naturbeobachtungen vom Auto aus.",
                 "hu": "Élvezze a strand magányát; télen szinte teljesen egyedül gyönyörködhet a kilátásban, ami az autóból is tökéletes természetközeli élmény.",
                 "ro": "Bucurați-vă de singurătatea plajei; iarna aveți vederea panoramică aproape doar pentru dumneavoastră, ideal pentru a privi natura din mașină.",
-                "en": "Enjoy the solitude of the beach; in winter, you'll have the vast view almost to yourself, ideal for nature watching from the warmth of your car."
+                "en": "Enjoy the solitude of the beach; in winter, you'll have the vast view almost to yourself, ideal for nature watching from the warmth of your car.",
+                "fr": "Profitez de la solitude de la plage ; en hiver, la vue vaste est presque pour vous seul, idéale pour observer la nature depuis la chaleur de votre voiture."
               }
             },
             {
@@ -976,13 +1085,15 @@
                 "de": "Plage de la Petite Barre",
                 "hu": "Plage de la Petite Barre",
                 "ro": "Plage de la Petite Barre",
-                "en": "Plage de la Petite Barre"
+                "en": "Plage de la Petite Barre",
+                "fr": "Plage de la Petite Barre"
               },
               "tip_5lang": {
                 "de": "Beobachten Sie das Spiel der Gezeiten und den Sonnenuntergang gegen 17:00 Uhr; die Farben am Winterhorizont sind oft besonders klar und intensiv.",
                 "hu": "Figyelje meg az árapály játékát és a korai, 17:00 óra körüzi naplementét; a téli horizont színei ilyenkor gyakran tiszta és élénk árnyalatokat öltenek.",
                 "ro": "Observați fluxul și refluxul, precum și apusul de la ora 17:00; culorile orizontului de iarnă sunt adesea extrem de clare și intense aici.",
-                "en": "Observe the tide cycles and the sunset around 17:00; the colors on the winter horizon are often exceptionally clear and intense at this spot."
+                "en": "Observe the tide cycles and the sunset around 17:00; the colors on the winter horizon are often exceptionally clear and intense at this spot.",
+                "fr": "Observez les cycles de marée et le coucher du soleil vers 17:00 ; les couleurs à l'horizon hivernal sont souvent exceptionnellement nettes et intenses à cet endroit."
               }
             }
           ]

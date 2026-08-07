@@ -21,7 +21,8 @@
             "de": "Fleurance Town Hall",
             "hu": "Fleurance Town Hall",
             "ro": "Fleurance Town Hall",
-            "en": "Fleurance Town Hall"
+            "en": "Fleurance Town Hall",
+            "fr": "Fleurance Town Hall"
           },
           "coords": [
             0.663153,
@@ -36,7 +37,8 @@
             "de": "Bewundern Sie die schöne Architektur dieses historischen Verwaltungszentrums am Platz, und achten Sie auf die Statuen der vier Jahreszeiten an den Ecken.",
             "hu": "Csodálja meg a történelmi városháza gyönyörű építészetét a főtéren, és figyelje meg a sarkainál található, a négy évszakot ábrázoló szobrokat.",
             "ro": "Admirați arhitectura frumoasă a acestui centru civic istoric din piața principală și observați statuile ce reprezintă cele patru anotimpuri pe colțuri.",
-            "en": "Admire the beautiful architecture of this historic civic center in the bastide square, and notice the statues representing the four seasons on its corners."
+            "en": "Admire the beautiful architecture of this historic civic center in the bastide square, and notice the statues representing the four seasons on its corners.",
+            "fr": "Admirez la belle architecture de ce centre civique historique sur la place bastide, et remarquez les statues représentant les quatre saisons à ses coins."
           }
         },
         {
@@ -44,7 +46,8 @@
             "de": "Le Méridional",
             "hu": "Le Méridional",
             "ro": "Le Méridional",
-            "en": "Le Méridional"
+            "en": "Le Méridional",
+            "fr": "Le Méridional"
           },
           "coords": [
             0.661976,
@@ -59,7 +62,8 @@
             "de": "Entdecken Sie die lokale Kultur an diesem einladenden Treffpunkt, bei dem es sich empfiehlt, vor dem Besuch den aktuellen Ausstellungsplan zu prüfen.",
             "hu": "Fedezze fel a helyi kultúrát ebben a barátságos közösségi térben, ahol mindenképpen érdemes előzetesen tájékozódni az aktuális kiállítások menetrendjéről.",
             "ro": "Descoperiți cultura locală la acest centru comunitar primitor, unde se recomandă să verificați programul expozițiilor actuale înainte de a merge.",
-            "en": "Discover local culture and events at this welcoming community hub, where checking the current exhibition schedule before visiting is highly recommended."
+            "en": "Discover local culture and events at this welcoming community hub, where checking the current exhibition schedule before visiting is highly recommended.",
+            "fr": "Découvrez la culture locale et les événements dans ce lieu communautaire accueillant ; il est fortement recommandé de vérifier le programme des expositions avant de vous rendre sur place."
           }
         },
         {
@@ -67,7 +71,8 @@
             "de": "Saint-Laurent Church",
             "hu": "Saint-Laurent Church",
             "ro": "Saint-Laurent Church",
-            "en": "Saint-Laurent Church"
+            "en": "Saint-Laurent Church",
+            "fr": "Saint-Laurent Church"
           },
           "coords": [
             0.664627,
@@ -82,7 +87,8 @@
             "de": "Betreten Sie diese Kirche im südfranzösischen gotischen Stil mit atemberaubenden Buntglasfenstern, die am besten im morgendlichen Licht zur Geltung kommen.",
             "hu": "Lépjen be ebbe a lenyűgöző dél-francia gótikus stílusú templomba a gyönyörű ólomüveg ablakokért, és látogasson el délelőtt a legjobb természetes fényért.",
             "ro": "Pășiți în această biserică gotică impresionantă pentru vitraliile uimitoare, fiind ideal să o vizitați dimineața devreme pentru cea mai bună lumină naturală.",
-            "en": "Step inside this magnificent Southern Gothic style church to see the breathtaking stained-glass windows, and visit in the morning for the best natural light."
+            "en": "Step inside this magnificent Southern Gothic style church to see the breathtaking stained-glass windows, and visit in the morning for the best natural light.",
+            "fr": "Pénétrez dans cette magnifique église de style gothique méridional pour voir ses vitraux à couper le souffle ; visitez‑la le matin pour la meilleure lumière naturelle."
           }
         },
         {
@@ -90,7 +96,8 @@
             "de": "Temple Protestant de Fleurance",
             "hu": "Temple Protestant de Fleurance",
             "ro": "Temple Protestant de Fleurance",
-            "en": "Temple Protestant de Fleurance"
+            "en": "Temple Protestant de Fleurance",
+            "fr": "Temple Protestant de Fleurance"
           },
           "coords": [
             0.664672,
@@ -105,7 +112,8 @@
             "de": "Erleben Sie die friedliche Atmosphäre dieses protestantischen Tempels als wichtiges Zeugnis lokaler Geschichte, und nehmen Sie sich Zeit für stille Reflexion.",
             "hu": "Tapasztalja meg ennek a protestáns templomnak a békés hangulatát, amely a helyi vallástörténet része, és szánjon egy percet az elmélyülésre a csendes belső térben.",
             "ro": "Experimentați atmosfera senină a acestui templu protestant, o parte importantă a istoriei locale, și luați-vă un moment de reflecție în interiorul său liniștit.",
-            "en": "Experience the serene atmosphere of this Protestant temple, an important piece of local religious history, and take a moment to reflect in its quiet interior."
+            "en": "Experience the serene atmosphere of this Protestant temple, an important piece of local religious history, and take a moment to reflect in its quiet interior.",
+            "fr": "Vivez l’atmosphère sereine de ce temple protestant, un élément important de l’histoire religieuse locale, et prenez un moment pour réfléchir dans son intérieur calme."
           }
         },
         {
@@ -113,7 +121,8 @@
             "de": "Église Saint-André",
             "hu": "Église Saint-André",
             "ro": "Église Saint-André",
-            "en": "Église Saint-André"
+            "en": "Église Saint-André",
+            "fr": "Église Saint-André"
           },
           "coords": [
             0.684513,
@@ -128,7 +137,8 @@
             "de": "Besuchen Sie diese charmante historische Kirche etwas außerhalb des Zentrums, die einen friedlichen Rückzugsort und Einblicke in ländliche Bautraditionen bietet.",
             "hu": "Látogasson el ebbe a központtól kicsit távolabb eső bájos templomba, amely békés menedéket és bepillantást nyújt a vidéki építészeti hagyományokba.",
             "ro": "Vizitați această biserică fermecătoare situată puțin în afara centrului, oferind un refugiu pașnic și o privire asupra tradițiilor arhitecturale rurale.",
-            "en": "Visit this charming historic church situated slightly outside the main center, offering a peaceful retreat and a glimpse into rural architectural traditions."
+            "en": "Visit this charming historic church situated slightly outside the main center, offering a peaceful retreat and a glimpse into rural architectural traditions.",
+            "fr": "Visitez cette charmante église historique située légèrement en dehors du centre, offrant un refuge paisible et un aperçu des traditions architecturales rurales."
           }
         }
       ],
@@ -136,7 +146,8 @@
         "de": "Beginnen Sie Ihren Morgen im Herzen der Bastide an der historischen Markthalle und gehen Sie dann kurz zum Le Méridional. Mittags erreichen Sie die imposante Kirche Saint-Laurent mit ihren gotischen Linien. Nach dem Mittagessen schlendern Sie für einen ruhigen Moment zum Temple Protestant. Beenden Sie Ihren gemütlichen Spaziergang am späten Nachmittag an der idyllischen Église Saint-André.",
         "hu": "Kezdje a reggelt a városka szívében, a városháza épületének megcsodálásával, majd sétáljon át a Le Méridionalba. Délben a lenyűgöző, gótikus Saint-Laurent templom várja Önt. Ebéd után tegyen egy rövid sétát a protestáns templomhoz, ahol csendes elmélkedésre nyílik alkalom. A napot a késő délutáni órákban a bájos Église Saint-André felfedezésével és megnyugtató sétával zárhatja.",
         "ro": "Începeți dimineața în inima orașului, admirând detaliile Primăriei înainte de a merge la Le Méridional. La prânz veți ajunge la biserica Saint-Laurent, dominând orizontul cu stilul său gotic. După prânz, plimbați-vă către Templul Protestant pentru un moment de liniște și reflexie. Încheiați-vă plimbarea relaxantă la frumoasa Église Saint-André în orele târzii ale după-amiezii.",
-        "en": "Begin your morning in the heart of the bastide, admiring the architectural details of the Town Hall before a short walk to Le Méridional. Midday brings you to the imposing Saint-Laurent Church, its Southern Gothic lines dominating the skyline. After lunch, stroll over to the Temple Protestant for a quiet moment of reflection. Conclude your leisurely walk at Église Saint-André in the late afternoon."
+        "en": "Begin your morning in the heart of the bastide, admiring the architectural details of the Town Hall before a short walk to Le Méridional. Midday brings you to the imposing Saint-Laurent Church, its Southern Gothic lines dominating the skyline. After lunch, stroll over to the Temple Protestant for a quiet moment of reflection. Conclude your leisurely walk at Église Saint-André in the late afternoon.",
+        "fr": "Commencez votre matinée au cœur de la bastide, en admirant les détails architecturaux de la mairie avant une courte promenade jusqu’au Méridional. À midi, rendez‑vous à l’imposante église Saint‑Laurent, dont les lignes gothiques méridionales dominent la silhouette. Après le déjeuner, promenez‑vous jusqu’au Temple Protestant pour un moment de recueillement. Concluez votre balade tranquille à l’Église Saint‑André en fin d’après‑midi."
       },
       "variants": {
         "rainy": {
@@ -144,7 +155,8 @@
             "de": "Beginnen Sie den Morgen unter den schützenden Bögen des Rathauses, bevor der Regen einsetzt. Mittags können Sie sich im Le Méridional und in der Kirche Saint-Laurent vor den Schauern verstecken. Verbringen Sie den Nachmittag damit, die Details des protestantischen Tempels im Trockenen zu bewundern. Beenden Sie den nassen Tag an der Église Saint-André mit einem griffbereiten Regenschirm.",
             "hu": "Kezdje a reggelt a Városháza védett árkádjai alatt, mielőtt rákezdené az eső. A dél jelentős részét a Le Méridional és a Saint-Laurent templom száraz belső tereiben töltheti. Délután a Protestáns Templom zárt falai nyújtanak menedéket a záporok elől. Zárja a nedves napot a Saint-André templomnál, de az esernyőjét végig tartsa kéznél a rövid séták során.",
             "ro": "Începeți dimineața sub arcadele protectoare ale Primăriei înainte să înceapă ploaia. La prânz, adăpostiți-vă de averse în Le Méridional și în Biserica Saint-Laurent. Petreceți după-amiaza admirând detaliile Templului Protestant. Încheiați ziua umedă la Église Saint-André, păstrând umbrela la îndemână pentru scurtele plimbări dintre aceste sanctuare acoperite.",
-            "en": "Start your morning under the protective arches of the Town Hall before the rain sets in. Midday is perfect for ducking into Le Méridional and Saint-Laurent Church to escape the showers. Spend your afternoon admiring the Protestant Temple's indoor details. End the wet day at Église Saint-André, keeping your umbrella handy for short walks between these covered sanctuaries."
+            "en": "Start your morning under the protective arches of the Town Hall before the rain sets in. Midday is perfect for ducking into Le Méridional and Saint-Laurent Church to escape the showers. Spend your afternoon admiring the Protestant Temple's indoor details. End the wet day at Église Saint-André, keeping your umbrella handy for short walks between these covered sanctuaries.",
+            "fr": "Commencez la matinée sous les arcades protectrices de la mairie avant l’arrivée de la pluie. Midi est parfait pour se réfugier au Méridional et à l’église Saint‑Laurent pour échapper aux averses. Passez l’après‑midi à admirer les détails intérieurs du Temple Protestant. Terminez cette journée humide à l’Église Saint‑André, en gardant votre parapluie à portée de main pour les courts trajets entre ces sanctuaires couverts."
           },
           "stops": [
             {
@@ -152,13 +164,15 @@
                 "de": "Fleurance Town Hall",
                 "hu": "Fleurance Town Hall",
                 "ro": "Fleurance Town Hall",
-                "en": "Fleurance Town Hall"
+                "en": "Fleurance Town Hall",
+                "fr": "Fleurance Town Hall"
               },
               "tip_5lang": {
                 "de": "Bewundern Sie die markante Fassade und suchen Sie bei einem plötzlichen Regenguss Schutz unter den historischen und breiten Arkaden des Rathauses.",
                 "hu": "Csodálja meg a Városháza lenyűgöző homlokzatát, és húzódjon be a történelmi árkádok alá, ha hirtelen leszakadna az ég a reggeli séta során.",
                 "ro": "Admirați fațada impresionantă a Primăriei și adăpostiți-vă sub arcadele sale istorice dacă începe o ploaie torențială bruscă în timpul plimbării.",
-                "en": "Admire the striking facade of the Town Hall and take shelter under its historic arcades if a sudden downpour begins during your morning stroll."
+                "en": "Admire the striking facade of the Town Hall and take shelter under its historic arcades if a sudden downpour begins during your morning stroll.",
+                "fr": "Admirez la façade frappante de la mairie et abritez‑vous sous ses arcades historiques si une averse soudaine survient pendant votre promenade matinale."
               }
             },
             {
@@ -166,13 +180,15 @@
                 "de": "Le Méridional",
                 "hu": "Le Méridional",
                 "ro": "Le Méridional",
-                "en": "Le Méridional"
+                "en": "Le Méridional",
+                "fr": "Le Méridional"
               },
               "tip_5lang": {
                 "de": "Erkunden Sie die Ausstellungen dieses kulturellen Zentrums, das einen perfekten und spannenden Rückzugsort bietet, während der Regen draußen fällt.",
                 "hu": "Fedezze fel ennek a kulturális központnak a kiállításait, amely tökéletes és érdekes beltéri menedéket nyújt, amíg kint esik az eső.",
                 "ro": "Explorați expozițiile acestui centru cultural, oferind un refugiu interior perfect și captivant în timp ce ploaia cade neîncetat afară.",
-                "en": "Explore this cultural hub's exhibitions, providing a perfect and engaging indoor retreat while the heavy rain falls steadily outside."
+                "en": "Explore this cultural hub's exhibitions, providing a perfect and engaging indoor retreat while the heavy rain falls steadily outside.",
+                "fr": "Explorez les expositions de ce centre culturel, offrant un excellent refuge intérieur et intéressant pendant que la pluie tombe dehors."
               }
             },
             {
@@ -180,13 +196,15 @@
                 "de": "Saint-Laurent Church",
                 "hu": "Saint-Laurent Church",
                 "ro": "Saint-Laurent Church",
-                "en": "Saint-Laurent Church"
+                "en": "Saint-Laurent Church",
+                "fr": "Saint-Laurent Church"
               },
               "tip_5lang": {
                 "de": "Treten Sie ein und bestaunen Sie die prächtigen Buntglasfenster, die trotz des grauen, regnerischen Himmels draußen warm und einladend leuchten.",
                 "hu": "Lépjen be, és csodálja meg a pompás ólomüveg ablakokat, amelyek a kinti szürke, esős égbolt ellenére is melegen és hívogatóan világítanak.",
                 "ro": "Pășiți înăuntru pentru a vă minuna de vitraliile magnifice care strălucesc cald în contrast cu cerul gri și ploios de afară.",
-                "en": "Step inside to marvel at the magnificent stained glass windows that glow warmly against the gloomy, grey, and rainy sky outside."
+                "en": "Step inside to marvel at the magnificent stained glass windows that glow warmly against the gloomy, grey, and rainy sky outside.",
+                "fr": "Entrez pour admirer les magnifiques vitraux qui brillent chaleureusement face au ciel gris et pluvieux."
               }
             },
             {
@@ -194,13 +212,15 @@
                 "de": "Temple Protestant de Fleurance",
                 "hu": "Temple Protestant de Fleurance",
                 "ro": "Temple Protestant de Fleurance",
-                "en": "Temple Protestant de Fleurance"
+                "en": "Temple Protestant de Fleurance",
+                "fr": "Temple Protestant de Fleurance"
               },
               "tip_5lang": {
                 "de": "Entdecken Sie das ruhige Holzinterieur des Tempels, das ein leises und völlig trockenes Heiligtum abseits des nassen Kopfsteinpflasters bietet.",
                 "hu": "Fedezze fel a templom békés famennyezetét, amely csendes és teljesen száraz menedéket kínál a nedves macskaköves utcák zaja elől.",
                 "ro": "Descoperiți interiorul liniștit din lemn al templului, oferind un sanctuar tăcut și complet uscat, departe de pietrele cubice umede.",
-                "en": "Discover the serene wooden interior of the temple, offering a quiet and completely dry sanctuary from the wet and slippery cobblestones."
+                "en": "Discover the serene wooden interior of the temple, offering a quiet and completely dry sanctuary from the wet and slippery cobblestones.",
+                "fr": "Découvrez l’intérieur en bois serein du temple, offrant un sanctuaire calme et parfaitement sec contre les pavés mouillés et glissants."
               }
             },
             {
@@ -208,13 +228,15 @@
                 "de": "Église Saint-André",
                 "hu": "Église Saint-André",
                 "ro": "Église Saint-André",
-                "en": "Église Saint-André"
+                "en": "Église Saint-André",
+                "fr": "Église Saint-André"
               },
               "tip_5lang": {
                 "de": "Betrachten Sie den beeindruckenden Altar in dieser historischen Kirche. Tragen Sie wasserdichte Schuhe, da die Eingangsstufen rutschig sein können.",
                 "hu": "Tekintse meg a lenyűgöző oltárt ebben a történelmi templomban. Viseljen vízálló cipőt, mivel a bejárati lépcsők nagyon csúszósak lehetnek.",
                 "ro": "Vedeți altarul impresionant din această biserică istorică, asigurându-vă că purtați încălțăminte impermeabilă, deoarece treptele pot fi alunecoase.",
-                "en": "View the impressive altar in this historic church, ensuring you wear waterproof shoes as the exterior entrance steps can become very slippery."
+                "en": "View the impressive altar in this historic church, ensuring you wear waterproof shoes as the exterior entrance steps can become very slippery.",
+                "fr": "Contemplez le maître‑autel impressionnant de cette église historique ; portez des chaussures imperméables car les marches d’entrée extérieures peuvent devenir très glissantes."
               }
             }
           ]
@@ -224,7 +246,8 @@
             "de": "Packen Sie sich warm ein, um Ihren klaren Wintermorgen am Rathaus zu beginnen. Wärmen Sie sich mittags im Le Méridional und in der historischen Kirche Saint-Laurent auf. Der kühle Nachmittag lädt zu einem gemütlichen Besuch des protestantischen Tempels ein. Beenden Sie Ihren Spaziergang bis 16:30 Uhr an der Église Saint-André, um die letzten Sonnenstrahlen vor dem frühen Sonnenuntergang einzufangen.",
             "hu": "Öltözzön melegen a fagyos téli reggelen a Városháza felfedezéséhez. Délben melegedjen át a Le Méridional és a történelmi Saint-Laurent templom falai között. A csípős délután tökéletes a Protestáns Templom békés meglátogatására. Fejezze be sétáját 16:30 körül a Saint-André templomnál, hogy még elcsípje a korai naplemente előtti utolsó fénysugarakat.",
             "ro": "Îmbrăcați-vă călduros pentru a începe dimineața geroasă la Primărie. La prânz, încălziți-vă în Le Méridional și în istorica Biserică Saint-Laurent. După-amiaza rece invită la o vizită confortabilă la Templul Protestant. Terminați plimbarea până la ora 16:30 la Église Saint-André pentru a prinde ultimele raze de lumină înainte de apusul devreme.",
-            "en": "Wrap up warmly to start your crisp winter morning at the Town Hall. At midday, warm up inside Le Méridional and the historic Saint-Laurent Church. The chilly afternoon invites a cozy visit to the Protestant Temple. Finish your walk by 4:30 PM at Église Saint-André to catch the last rays of winter light before the early sunset."
+            "en": "Wrap up warmly to start your crisp winter morning at the Town Hall. At midday, warm up inside Le Méridional and the historic Saint-Laurent Church. The chilly afternoon invites a cozy visit to the Protestant Temple. Finish your walk by 4:30 PM at Église Saint-André to catch the last rays of winter light before the early sunset.",
+            "fr": "Habillez‑vous chaudement pour commencer votre matinée hivernale fraîche à la mairie. À midi, réchauffez‑vous à l’intérieur du Méridional et de l’historique église Saint‑Laurent. L’après‑midi frais invite à une visite cocooning au Temple Protestant. Terminez votre balade avant 16:30 à l’Église Saint‑André pour profiter des derniers rayons de lumière hivernale avant le coucher du soleil précoce."
           },
           "stops": [
             {
@@ -232,13 +255,15 @@
                 "de": "Fleurance Town Hall",
                 "hu": "Fleurance Town Hall",
                 "ro": "Fleurance Town Hall",
-                "en": "Fleurance Town Hall"
+                "en": "Fleurance Town Hall",
+                "fr": "Fleurance Town Hall"
               },
               "tip_5lang": {
                 "de": "Bewundern Sie die Architektur in der klaren Winterluft, aber tragen Sie dicke Handschuhe, um Ihre Hände beim Fotografieren warm zu halten.",
                 "hu": "Csodálja meg a városháza építészetét a fagyos téli levegőben, de mindenképpen viseljen vastag kesztyűt, hogy melegen tartsa a kezét.",
                 "ro": "Admirați arhitectura civică în aerul proaspăt de iarnă, dar asigurați-vă că purtați mănuși groase pentru a vă menține mâinile calde.",
-                "en": "Marvel at the civic architecture in the crisp winter air, but make sure to wear thick gloves to keep your hands warm while taking pictures."
+                "en": "Marvel at the civic architecture in the crisp winter air, but make sure to wear thick gloves to keep your hands warm while taking pictures.",
+                "fr": "Admirez l’architecture civique dans l’air vif de l’hiver, mais pensez à porter des gants épais pour garder vos mains au chaud lors des photos."
               }
             },
             {
@@ -246,13 +271,15 @@
                 "de": "Le Méridional",
                 "hu": "Le Méridional",
                 "ro": "Le Méridional",
-                "en": "Le Méridional"
+                "en": "Le Méridional",
+                "fr": "Le Méridional"
               },
               "tip_5lang": {
                 "de": "Verbringen Sie Zeit damit, die lokale Kultur zu erkunden, und genießen Sie diesen gut beheizten Rückzugsort vor den eisigen Außentemperaturen.",
                 "hu": "Töltsön időt a helyi kultúra felfedezésével odabent, amely kellemesen fűtött menedéket nyújt a kinti fagypont alatti hőmérsékletek elől.",
                 "ro": "Petreceți timp explorând cultura locală în interior, oferind o evadare bine încălzită de la temperaturile extrem de scăzute de afară.",
-                "en": "Spend time reading and exploring the local culture inside, offering a well-heated escape from the freezing winter temperatures outdoors."
+                "en": "Spend time reading and exploring the local culture inside, offering a well-heated escape from the freezing winter temperatures outdoors.",
+                "fr": "Passez du temps à lire et à découvrir la culture locale à l’intérieur, offrant un échappatoire bien chauffé aux températures hivernales glaciales extérieures."
               }
             },
             {
@@ -260,13 +287,15 @@
                 "de": "Saint-Laurent Church",
                 "hu": "Saint-Laurent Church",
                 "ro": "Saint-Laurent Church",
-                "en": "Saint-Laurent Church"
+                "en": "Saint-Laurent Church",
+                "fr": "Église Saint-Laurent"
               },
               "tip_5lang": {
                 "de": "Suchen Sie Zuflucht im friedlichen Kirchenschiff, wo die dicken Steinmauern eine hervorragende Isolierung gegen den kalten Winterwind bieten.",
                 "hu": "Keressen menedéket a békés templomhajóban, ahol a vastag kőfalak kiváló szigetelést és szélcsendet biztosítanak a hideg téli szél ellen.",
                 "ro": "Refugiați-vă în naosul liniștit al bisericii, unde pereții groși de piatră oferă o izolare excelentă împotriva vântului rece de iarnă.",
-                "en": "Take refuge in the church’s peaceful nave, where the massive, thick stone walls provide excellent insulation against the biting winter wind."
+                "en": "Take refuge in the church’s peaceful nave, where the massive, thick stone walls provide excellent insulation against the biting winter wind.",
+                "fr": "Recherchez refuge dans la nef paisible de l’église, où les murs massifs en pierre offrent une excellente isolation contre le vent hivernal mordant."
               }
             },
             {
@@ -274,13 +303,15 @@
                 "de": "Temple Protestant de Fleurance",
                 "hu": "Temple Protestant de Fleurance",
                 "ro": "Temple Protestant de Fleurance",
-                "en": "Temple Protestant de Fleurance"
+                "en": "Temple Protestant de Fleurance",
+                "fr": "Temple Protestant de Fleurance"
               },
               "tip_5lang": {
                 "de": "Beachten Sie die schlichte architektonische Schönheit der Halle, die während Ihres Winterspaziergangs eine ruhige, zugluftfreie Umgebung bietet.",
                 "hu": "Figyelje meg a csarnok letisztult építészeti szépségét, amely csendes, huzatmentes környezetet biztosít a délutáni téli séta során.",
                 "ro": "Observați frumusețea arhitecturală simplistă a sălii, care oferă un mediu liniștit și fără curenți de aer în timpul plimbării de iarnă.",
-                "en": "Notice the simplistic architectural beauty of the hall, providing a quiet, draft-free environment during your chilly afternoon winter stroll."
+                "en": "Notice the simplistic architectural beauty of the hall, providing a quiet, draft-free environment during your chilly afternoon winter stroll.",
+                "fr": "Remarquez la simplicité architecturale de la salle, offrant un environnement calme et sans courants d’air lors de votre promenade hivernale l’après-midi."
               }
             },
             {
@@ -288,13 +319,15 @@
                 "de": "Église Saint-André",
                 "hu": "Église Saint-André",
                 "ro": "Église Saint-André",
-                "en": "Église Saint-André"
+                "en": "Église Saint-André",
+                "fr": "Église Saint-André"
               },
               "tip_5lang": {
                 "de": "Besuchen Sie diese prächtige Kirche vor dem frühen Einbruch der Dunkelheit und achten Sie auf den potenziell frostigen Außenwegen auf Ihre Schritte.",
                 "hu": "Látogasson el ebbe a csodálatos templomba a korai sötétedés előtt, és ügyeljen a lépéseire a potenciálisan fagyos, jeges külső utakon.",
                 "ro": "Vizitați această biserică magnifică înainte de lăsarea întunericului devreme și aveți grijă la pașii pe căile exterioare potențial înghețate.",
-                "en": "Visit this magnificent church before the early dusk sets in, and watch your step carefully on the potentially frosty exterior pathways."
+                "en": "Visit this magnificent church before the early dusk sets in, and watch your step carefully on the potentially frosty exterior pathways.",
+                "fr": "Visitez cette magnifique église avant que le crépuscule précoce ne tombe, et faites attention où vous marchez sur les chemins extérieurs potentiellement glacés."
               }
             }
           ]
@@ -314,7 +347,8 @@
             "de": "Fleurance Town Hall",
             "hu": "Fleurance Town Hall",
             "ro": "Fleurance Town Hall",
-            "en": "Fleurance Town Hall"
+            "en": "Fleurance Town Hall",
+            "fr": "Hôtel de Ville de Fleurance"
           },
           "coords": [
             0.663153,
@@ -329,7 +363,8 @@
             "de": "Bewundern Sie die schöne Architektur dieses historischen Verwaltungszentrums am Platz, und achten Sie auf die Statuen der vier Jahreszeiten an den Ecken.",
             "hu": "Csodálja meg a történelmi városháza gyönyörű építészetét a főtéren, és figyelje meg a sarkainál található, a négy évszakot ábrázoló szobrokat.",
             "ro": "Admirați arhitectura frumoasă a acestui centru civic istoric din piața principală și observați statuile ce reprezintă cele patru anotimpuri pe colțuri.",
-            "en": "Admire the beautiful architecture of this historic civic center in the bastide square, and notice the statues representing the four seasons on its corners."
+            "en": "Admire the beautiful architecture of this historic civic center in the bastide square, and notice the statues representing the four seasons on its corners.",
+            "fr": "Admirez la belle architecture de ce centre civique historique sur la place bastide, et observez les statues représentant les quatre saisons à ses coins."
           }
         },
         {
@@ -337,7 +372,8 @@
             "de": "Saint-Laurent Church",
             "hu": "Saint-Laurent Church",
             "ro": "Saint-Laurent Church",
-            "en": "Saint-Laurent Church"
+            "en": "Saint-Laurent Church",
+            "fr": "Église Saint-Laurent"
           },
           "coords": [
             0.664627,
@@ -352,7 +388,8 @@
             "de": "Betreten Sie diese Kirche im südfranzösischen gotischen Stil mit atemberaubenden Buntglasfenstern, die am besten im morgendlichen Licht zur Geltung kommen.",
             "hu": "Lépjen be ebbe a lenyűgöző dél-francia gótikus stílusú templomba a gyönyörű ólomüveg ablakokért, és látogasson el délelőtt a legjobb természetes fényért.",
             "ro": "Pășiți în această biserică gotică impresionantă pentru vitraliile uimitoare, fiind ideal să o vizitați dimineața devreme pentru cea mai bună lumină naturală.",
-            "en": "Step inside this magnificent Southern Gothic style church to see the breathtaking stained-glass windows, and visit in the morning for the best natural light."
+            "en": "Step inside this magnificent Southern Gothic style church to see the breathtaking stained-glass windows, and visit in the morning for the best natural light.",
+            "fr": "Entrez dans cette magnifique église de style gothique méridional pour voir les vitraux époustouflants; venez le matin pour la meilleure lumière naturelle."
           }
         },
         {
@@ -360,7 +397,8 @@
             "de": "Église Saint-André",
             "hu": "Église Saint-André",
             "ro": "Église Saint-André",
-            "en": "Église Saint-André"
+            "en": "Église Saint-André",
+            "fr": "Église Saint-André"
           },
           "coords": [
             0.684513,
@@ -375,7 +413,8 @@
             "de": "Besuchen Sie diese charmante historische Kirche etwas außerhalb des Zentrums, die einen friedlichen Rückzugsort und Einblicke in ländliche Bautraditionen bietet.",
             "hu": "Látogasson el ebbe a központtól kicsit távolabb eső bájos templomba, amely békés menedéket és bepillantást nyújt a vidéki építészeti hagyományokba.",
             "ro": "Vizitați această biserică fermecătoare situată puțin în afara centrului, oferind un refugiu pașnic și o privire asupra tradițiilor arhitecturale rurale.",
-            "en": "Visit this charming historic church situated slightly outside the main center, offering a peaceful retreat and a glimpse into rural architectural traditions."
+            "en": "Visit this charming historic church situated slightly outside the main center, offering a peaceful retreat and a glimpse into rural architectural traditions.",
+            "fr": "Visitez cette charmante église historique située un peu à l’écart du centre, offrant un refuge paisible et un aperçu des traditions architecturales rurales."
           }
         },
         {
@@ -383,7 +422,8 @@
             "de": "Musée des Anciens Combattants pour la Liberté",
             "hu": "Musée des Anciens Combattants pour la Liberté",
             "ro": "Musée des Anciens Combattants pour la Liberté",
-            "en": "Musée des Anciens Combattants pour la Liberté"
+            "en": "Musée des Anciens Combattants pour la Liberté",
+            "fr": "Musée des Anciens Combattants pour la Liberté"
           },
           "coords": [
             0.697441,
@@ -398,7 +438,8 @@
             "de": "Erkunden Sie die nachdenklich stimmenden Ausstellungen zu Ehren der Freiheitskämpfer, und fragen Sie das Personal unbedingt nach persönlichen Geschichten.",
             "hu": "Fedezze fel a szabadságharcosoknak szentelt elgondolkodtató kiállításokat, és feltétlenül kérdezze meg az önkénteseket a tárgyak mögött rejlő személyes történetekről.",
             "ro": "Explorați expozițiile dedicate veteranilor libertății și asigurați-vă că întrebați personalul voluntar despre poveștile personale din spatele artefactelor expuse.",
-            "en": "Explore thought-provoking exhibits dedicated to veterans of freedom, and be sure to ask the passionate volunteer staff for personal stories behind the artifacts."
+            "en": "Explore thought-provoking exhibits dedicated to veterans of freedom, and be sure to ask the passionate volunteer staff for personal stories behind the artifacts.",
+            "fr": "Explorez des expositions qui font réfléchir consacrées aux vétérans de la liberté, et n’hésitez pas à demander aux bénévoles passionnés des récits personnels derrière les artefacts."
           }
         },
         {
@@ -406,7 +447,8 @@
             "de": "Château du Bosc",
             "hu": "Château du Bosc",
             "ro": "Château du Bosc",
-            "en": "Château du Bosc"
+            "en": "Château du Bosc",
+            "fr": "Château du Bosc"
           },
           "coords": [
             0.645224,
@@ -421,7 +463,8 @@
             "de": "Spazieren Sie durch die eleganten Anlagen dieses historischen Schlosses mit gut erhaltener Fassade, und tragen Sie bequeme Schuhe für die Erkundung des Anwesens.",
             "hu": "Sétáljon végig ennek a történelmi kastélynak az elegáns kertjén, csodálja meg a homlokzatot, és viseljen kényelmes cipőt a birtok felfedezéséhez.",
             "ro": "Plimbați-vă prin domeniul elegant al acestui castel istoric, remarcând fațada frumos conservată, și purtați încălțăminte comodă pentru explorarea proprietății.",
-            "en": "Wander through the elegant grounds of this historic chateau, noting the beautifully preserved facade, and wear comfortable shoes for exploring the surrounding estate."
+            "en": "Wander through the elegant grounds of this historic chateau, noting the beautifully preserved facade, and wear comfortable shoes for exploring the surrounding estate.",
+            "fr": "Parcourez les élégants jardins de ce château historique, en notant la façade magnifiquement préservée, et portez des chaussures confortables pour explorer le domaine environnant."
           }
         },
         {
@@ -429,7 +472,8 @@
             "de": "Lac des Trois Vallées",
             "hu": "Lac des Trois Vallées",
             "ro": "Lac des Trois Vallées",
-            "en": "Lac des Trois Vallées"
+            "en": "Lac des Trois Vallées",
+            "fr": "Lac des Trois Vallées"
           },
           "coords": [
             0.648685,
@@ -444,7 +488,8 @@
             "de": "Entspannen Sie an diesem malerischen See, der ideal für Aktivitäten im Freien ist, und bringen Sie ein Picknick mit, das Sie am Nachmittag am Ufer genießen können.",
             "hu": "Pihenjen e festői természetes tó partján, amely tökéletes szabadtéri programokhoz, és vigyen magával piknikkosarat, hogy a füves parton fogyassza el ebédjét.",
             "ro": "Relaxați-vă la acest lac pitoresc, perfect pentru activități în aer liber, și luați un picnic pentru a vă bucura de el pe malurile înverzite după-amiaza.",
-            "en": "Relax by this scenic natural lake perfect for outdoor activities, and consider packing a picnic to enjoy on the grassy banks during the warm afternoon hours."
+            "en": "Relax by this scenic natural lake perfect for outdoor activities, and consider packing a picnic to enjoy on the grassy banks during the warm afternoon hours.",
+            "fr": "Détendez-vous au bord de ce lac naturel pittoresque parfait pour les activités de plein air, et pensez à emporter un pique-nique à savourer sur les berges herbeuses pendant les heures chaudes de l’après-midi."
           }
         }
       ],
@@ -452,7 +497,8 @@
         "de": "Starten Sie Ihre Radtour zentral am Rathaus und der nahen Kirche Saint-Laurent. Mittags radeln Sie zur Église Saint-André und genießen die ländliche Ruhe außerhalb des Zentrums. Der Nachmittag bietet eine malerische Fahrt zum Veteranenmuseum und zum wunderschönen Château du Bosc. Lassen Sie den Abend am friedlichen Ufer des Lac des Trois Vallées entspannt ausklingen.",
         "hu": "Kezdje a kerékpáros napot a központban a városházánál és a közeli templomnál. Délre tekerjen ki az Église Saint-André-hoz, és szívja magába a nyugodt vidéki hangulatot. A délután egy hosszabb, festői utat kínál a veteránok múzeumához és a gyönyörű Château du Bosc kastélyhoz. Este pedig kapcsolódjon ki és pihenjen meg a Lac des Trois Vallées csendes vizének partján.",
         "ro": "Începeți ziua de ciclism central, la Primărie și biserica Saint-Laurent din apropiere. La prânz, pedalați spre Église Saint-André și bucurați-vă de atmosfera rurală. După-amiaza vă oferă o plimbare pitorească către muzeul veteranilor și frumosul Château du Bosc. Seara, relaxați-vă în tihnă pe malurile liniștite ale lacului natural Lac des Trois Vallées.",
-        "en": "Start your cycling day centrally at the Town Hall and the nearby Saint-Laurent Church. By midday, pedal out to Église Saint-André and absorb the tranquil rural atmosphere just outside the center. The afternoon offers a longer, scenic ride to the poignant veterans' museum and the beautiful Château du Bosc. Wind down in the evening by the peaceful waters of Lac des Trois Vallées."
+        "en": "Start your cycling day centrally at the Town Hall and the nearby Saint-Laurent Church. By midday, pedal out to Église Saint-André and absorb the tranquil rural atmosphere just outside the center. The afternoon offers a longer, scenic ride to the poignant veterans' museum and the beautiful Château du Bosc. Wind down in the evening by the peaceful waters of Lac des Trois Vallées.",
+        "fr": "Commencez votre journée cycliste au centre, à l’Hôtel de Ville et près de l’Église Saint-Laurent. À la mi-journée, pédalez jusqu’à l’Église Saint-André et imprégnez-vous de l’atmosphère rurale tranquille à la périphérie. L’après-midi propose une plus longue balade panoramique jusqu’au poignant musée des anciens combattants et au beau Château du Bosc. Terminez la soirée au bord des eaux paisibles du Lac des Trois Vallées."
       },
       "variants": {
         "rainy": {
@@ -460,7 +506,8 @@
             "de": "Beginnen Sie Ihren nassen Radtag am Rathaus mit guter Regenkleidung. Navigieren Sie gegen Mittag sicher über rutschige Straßen zu den zentralen Kirchen und zum Militärmuseum. Die nachmittägliche Fahrt zum Château du Bosc erfordert Vorsicht auf schlammigen Wegen. Enden Sie am Lac des Trois Vallées und genießen Sie die dramatische Sicht.",
             "hu": "Kezdje az esős kerékpározást a Városházánál jó vízálló felszerelésben. Dél körül óvatosan tekerjen a csúszós utcákon a központi templomok és a katonai múzeum felé. A Château du Bosc-hoz vezető délutáni út saras lehet, ezért lassítson. Zárja a napot a Lac des Trois Vallées-nél, ahol a ködös tó drámai látványt nyújt az esti eső előtt.",
             "ro": "Începeți ziua ploioasă de ciclism la Primărie purtând echipament impermeabil. La prânz, navigați cu grijă pe străzile alunecoase spre bisericile centrale și muzeul militar. Cursa de după-amiază spre Château du Bosc necesită prudență pe drumurile noroioase. Terminați la Lac des Trois Vallées, bucurându-vă de priveliștea dramatică a lacului cețos.",
-            "en": "Start your wet cycling day at the Town Hall wearing good rain gear. Around noon, safely navigate slick streets to the central churches and the military museum. The afternoon ride to Château du Bosc requires caution on muddy paths. End at Lac des Trois Vallées, enjoying the dramatic, misty lake views before the evening rain intensifies."
+            "en": "Start your wet cycling day at the Town Hall wearing good rain gear. Around noon, safely navigate slick streets to the central churches and the military museum. The afternoon ride to Château du Bosc requires caution on muddy paths. End at Lac des Trois Vallées, enjoying the dramatic, misty lake views before the evening rain intensifies.",
+            "fr": "Commencez votre journée cycliste humide à l’Hôtel de Ville en portant un bon équipement de pluie. Vers midi, naviguez prudemment sur les rues glissantes jusqu’aux églises centrales et au musée militaire. La balade de l’après-midi vers le Château du Bosc nécessite de la prudence sur les chemins boueux. Finissez au Lac des Trois Vallées en profitant des vues lacustres brumeuses et dramatiques avant que la pluie du soir ne s’intensifie."
           },
           "stops": [
             {
@@ -468,13 +515,15 @@
                 "de": "Fleurance Town Hall",
                 "hu": "Fleurance Town Hall",
                 "ro": "Fleurance Town Hall",
-                "en": "Fleurance Town Hall"
+                "en": "Fleurance Town Hall",
+                "fr": "Hôtel de Ville de Fleurance"
               },
               "tip_5lang": {
                 "de": "Überprüfen Sie Ihre Fahrradbremsen unter dem Vorbau des Rathauses, bevor Sie losfahren, da das Kopfsteinpflaster bei Nässe sehr rutschig ist.",
                 "hu": "Indulás előtt ellenőrizze a fékeket a Városháza előteteje alatt, mivel a vizes macskaköves utcák rendkívül csúszósak lehetnek.",
                 "ro": "Verificați frânele bicicletei sub copertina Primăriei înainte de a pleca, deoarece pietrele cubice vor fi foarte alunecoase când sunt ude.",
-                "en": "Check your bike brakes under the Town Hall's awning before heading out, as the cobblestones will be quite slippery when completely wet."
+                "en": "Check your bike brakes under the Town Hall's awning before heading out, as the cobblestones will be quite slippery when completely wet.",
+                "fr": "Vérifiez les freins de votre vélo sous le auvent de l’Hôtel de Ville avant de partir, car les pavés seront très glissants une fois complètement mouillés."
               }
             },
             {
@@ -482,13 +531,15 @@
                 "de": "Saint-Laurent Church",
                 "hu": "Saint-Laurent Church",
                 "ro": "Saint-Laurent Church",
-                "en": "Saint-Laurent Church"
+                "en": "Saint-Laurent Church",
+                "fr": "Église Saint-Laurent"
               },
               "tip_5lang": {
                 "de": "Bewundern Sie das große gotische Portal unter Ihrem Regencape, bevor Sie eintreten, um sich im weitläufigen, ruhigen Kirchenschiff abzutrocknen.",
                 "hu": "Csodálja meg a gótikus portált az esőköpenyéből, mielőtt belépne, hogy megszáradjon a tágas, csendes és védett templomhajóban.",
                 "ro": "Admirați portalul gotic de sub pelerina de ploaie înainte de a intra pentru a vă usca în naosul expansiv, liniștit și complet ferit de ploaie.",
-                "en": "Admire the grand Gothic portal from under your rain cape before stepping inside to dry off in the expansive, quiet, and sheltered nave."
+                "en": "Admire the grand Gothic portal from under your rain cape before stepping inside to dry off in the expansive, quiet, and sheltered nave.",
+                "fr": "Admirez le grand portail gothique sous votre cape de pluie avant d’entrer pour vous sécher dans la nef vaste, calme et abritée."
               }
             },
             {
@@ -496,13 +547,15 @@
                 "de": "Église Saint-André",
                 "hu": "Église Saint-André",
                 "ro": "Église Saint-André",
-                "en": "Église Saint-André"
+                "en": "Église Saint-André",
+                "fr": "Église Saint-André"
               },
               "tip_5lang": {
                 "de": "Schließen Sie Ihr Fahrrad an einem geschützten Ort ab und treten Sie ein, um dem unerbittlichen Nieselregen zu entkommen und den Altar zu bewundern.",
                 "hu": "Zárja le kerékpárját egy védett helyen a közelben, és lépjen be, hogy elmeneküljön a szitáló eső elől, miközben a gyönyörű oltárt csodálja.",
                 "ro": "Legați-vă bicicleta într-un loc adăpostit din apropiere și intrați pentru a scăpa de burnița neîncetată admirând altarul impresionant.",
-                "en": "Lock your bike securely in a sheltered spot nearby and step inside to escape the relentless drizzle while admiring the remarkably fine altar."
+                "en": "Lock your bike securely in a sheltered spot nearby and step inside to escape the relentless drizzle while admiring the remarkably fine altar.",
+                "fr": "Attachez votre vélo en lieu sûr à l’abri à proximité et entrez pour échapper à la bruine persistante tout en admirant le remarquable autel."
               }
             },
             {
@@ -510,13 +563,15 @@
                 "de": "Musée des Anciens Combattants pour la Liberté",
                 "hu": "Musée des Anciens Combattants pour la Liberté",
                 "ro": "Musée des Anciens Combattants pour la Liberté",
-                "en": "Musée des Anciens Combattants pour la Liberté"
+                "en": "Musée des Anciens Combattants pour la Liberté",
+                "fr": "Musée des Anciens Combattants pour la Liberté"
               },
               "tip_5lang": {
                 "de": "Tauchen Sie in die lokale Kriegsgeschichte ein, während das Museum während der stärksten Mittagsschauer als hervorragender trockener Rückzugsort dient.",
                 "hu": "Mélyedjen el a helyi hadtörténetben ebben a múzeumban, amely kiváló száraz menedéket nyújt a leghevesebb déli záporok idején.",
                 "ro": "Aprofundați istoria războiului local în acest muzeu, care servește drept un refugiu excelent și uscat în timpul celor mai puternice ploi de prânz.",
-                "en": "Delve into local wartime history in this engaging museum, serving as an excellent dry refuge during the heaviest midday torrential downpours."
+                "en": "Delve into local wartime history in this engaging museum, serving as an excellent dry refuge during the heaviest midday torrential downpours.",
+                "fr": "Plongez dans l’histoire locale de guerre dans ce musée passionnant, qui constitue un excellent refuge sec pendant les fortes averses de midi."
               }
             },
             {
@@ -524,13 +579,15 @@
                 "de": "Château du Bosc",
                 "hu": "Château du Bosc",
                 "ro": "Château du Bosc",
-                "en": "Château du Bosc"
+                "en": "Château du Bosc",
+                "fr": "Château du Bosc"
               },
               "tip_5lang": {
                 "de": "Nähern Sie sich diesem majestätischen Schloss langsam, da die ländlichen Zufahrtswege bei starkem Regen extrem rutschig und schlammig werden.",
                 "hu": "Lassan közelítse meg ezt a fenséges kastélyt, mivel a vidéki bekötőutak heves esőzések idején rendkívül csúszóssá és sarassá válnak.",
                 "ro": "Apropiați-vă încet de acest castel maiestuos, deoarece drumurile de acces rurale devin extrem de alunecoase și noroioase pe ploaie puternică.",
-                "en": "Approach this majestic castle slowly, as the rural approaching paths become extremely slick and heavy with mud during intense rainfalls."
+                "en": "Approach this majestic castle slowly, as the rural approaching paths become extremely slick and heavy with mud during intense rainfalls.",
+                "fr": "Approchez ce château majestueux lentement, car les chemins d’accès ruraux deviennent extrêmement glissants et boueux lors de pluies intenses."
               }
             },
             {
@@ -538,13 +595,15 @@
                 "de": "Lac des Trois Vallées",
                 "hu": "Lac des Trois Vallées",
                 "ro": "Lac des Trois Vallées",
-                "en": "Lac des Trois Vallées"
+                "en": "Lac des Trois Vallées",
+                "fr": "Lac des Trois Vallées"
               },
               "tip_5lang": {
                 "de": "Genießen Sie die nebelverhangene Oberfläche des Sees, aber bleiben Sie auf gepflasterten Wegen, damit Ihr Fahrrad nicht im tiefen Schlamm stecken bleibt.",
                 "hu": "Gyönyörködjön a tó ködös, drámai felszínében, de maradjon a burkolt utakon, hogy a kerékpárja ne akadjon el a mély sárban.",
                 "ro": "Admirați suprafața cețoasă a lacului, dar rămâneți pe cărările pavate pentru a evita blocarea bicicletei în noroiul adânc și lipicios.",
-                "en": "Take in the moody, fog-covered surface of the lake, but ensure you stay on paved paths to avoid getting your bike stuck in deep, wet mud."
+                "en": "Take in the moody, fog-covered surface of the lake, but ensure you stay on paved paths to avoid getting your bike stuck in deep, wet mud.",
+                "fr": "Contemplez la surface du lac couverte de brume, mais assurez-vous de rester sur les chemins pavés pour éviter d’enliser votre vélo dans la boue profonde et humide."
               }
             }
           ]
@@ -554,7 +613,8 @@
             "de": "Ziehen Sie sich für eine frostige Morgenfahrt ab dem Rathaus warm an. Mittags hält die Fahrt zu den historischen Kirchen und zum Museum Ihre Körpertemperatur hoch. Die nachmittägliche Radtour zum Château du Bosc bietet eine karge, schöne Winterlandschaft. Kommen Sie vor 16 Uhr am Lac des Trois Vallées an, da die Temperaturen fallen.",
             "hu": "Öltözzön rétegesen a Városházától induló fagyos reggeli tekeréshez. Délre a történelmi templomokhoz és a múzeumhoz vezető kerékpározás segít bemelegedni. A Château du Bosc-hoz vezető délutáni út gyönyörű, kopár téli tájat kínál. Érjen a Lac des Trois Vallées-hez 16:00 előtt, mert a korai sötétedéssel a hőmérséklet drasztikusan lezuhan.",
             "ro": "Îmbrăcați-vă în straturi pentru o cursă matinală geroasă de la Primărie. La prânz, pedalatul spre bisericile istorice și muzeu vă va menține temperatura ridicată. Ciclismul de după-amiază spre Château du Bosc oferă peisaje de iarnă superbe și aspre. Ajungeți la Lac des Trois Vallées înainte de ora 16:00, deoarece temperaturile scad brusc.",
-            "en": "Layer up for a frosty morning ride starting at the Town Hall. By midday, pedaling to the historical churches and the museum will keep your body temperature up. The afternoon cycle to Château du Bosc offers stark, beautiful winter landscapes. Arrive at Lac des Trois Vallées before 4 PM, as temperatures drop sharply with the early sunset."
+            "en": "Layer up for a frosty morning ride starting at the Town Hall. By midday, pedaling to the historical churches and the museum will keep your body temperature up. The afternoon cycle to Château du Bosc offers stark, beautiful winter landscapes. Arrive at Lac des Trois Vallées before 4 PM, as temperatures drop sharply with the early sunset.",
+            "fr": "Superposez les couches pour une balade matinale glaciale en partant de l’Hôtel de Ville. À la mi-journée, pédaler vers les églises historiques et le musée aidera à maintenir votre température corporelle. La sortie de l’après-midi vers le Château du Bosc offre des paysages hivernaux d’une beauté austère. Arrivez au Lac des Trois Vallées avant 16h, car les températures chutent rapidement avec le coucher du soleil précoce."
           },
           "stops": [
             {
@@ -562,13 +622,15 @@
                 "de": "Fleurance Town Hall",
                 "hu": "Fleurance Town Hall",
                 "ro": "Fleurance Town Hall",
-                "en": "Fleurance Town Hall"
+                "en": "Fleurance Town Hall",
+                "fr": "Hôtel de Ville de Fleurance"
               },
               "tip_5lang": {
                 "de": "Beginnen Sie hier Ihre frostige Fahrt und bewundern Sie die Architektur, während Sie Ihre winddichten Radhandschuhe und Thermoschichten anpassen.",
                 "hu": "Kezdje itt a fagyos utat, megcsodálva az építészetet, miközben megigazítja szélálló kerékpáros kesztyűjét és a meleg termo rétegeket.",
                 "ro": "Începeți cursa geroasă aici, admirând arhitectura în timp ce vă ajustați mănușile de ciclism rezistente la vânt și straturile termice.",
-                "en": "Start your frosty ride here, admiring the striking architecture while adjusting your windproof cycling gloves and warm thermal layers."
+                "en": "Start your frosty ride here, admiring the striking architecture while adjusting your windproof cycling gloves and warm thermal layers.",
+                "fr": "Commencez votre balade glaciale ici, en admirant l’architecture frappante tout en ajustant vos gants coupe-vent de cyclisme et vos couches thermiques chaudes."
               }
             },
             {
@@ -576,13 +638,15 @@
                 "de": "Saint-Laurent Church",
                 "hu": "Saint-Laurent Church",
                 "ro": "Saint-Laurent Church",
-                "en": "Saint-Laurent Church"
+                "en": "Saint-Laurent Church",
+                "fr": "Église Saint-Laurent"
               },
               "tip_5lang": {
                 "de": "Wärmen Sie Ihre tauben Finger im Inneren dieser historischen Kirche auf und nehmen Sie sich einen Moment Zeit, um die friedliche Atmosphäre zu genießen.",
                 "hu": "Melegítse fel zsibbadt ujjait a gyönyörű történelmi templom belsejében, és szánjon egy percet a békés és visszhangzó atmoszféra befogadására.",
                 "ro": "Încălziți-vă degetele amorțite în interiorul acestei biserici istorice, luându-vă un moment pentru a aprecia atmosfera senină și ecoul.",
-                "en": "Warm your numb fingers inside this beautiful historic church, taking a moment to appreciate the serene and quietly echoing atmosphere."
+                "en": "Warm your numb fingers inside this beautiful historic church, taking a moment to appreciate the serene and quietly echoing atmosphere.",
+                "fr": "Réchauffez vos doigts engourdis à l’intérieur de cette belle église historique, en prenant un moment pour apprécier l’atmosphère sereine et les échos feutrés."
               }
             },
             {
@@ -590,13 +654,15 @@
                 "de": "Église Saint-André",
                 "hu": "Église Saint-André",
                 "ro": "Église Saint-André",
-                "en": "Église Saint-André"
+                "en": "Église Saint-André",
+                "fr": "Église Saint-André"
               },
               "tip_5lang": {
                 "de": "Nutzen Sie diesen Stopp als notwendige beheizte Pause, um den beißenden Winterwind zu bekämpfen, während Sie das wunderschöne Innere erkunden.",
                 "hu": "Fedezze fel a gyönyörű belső teret, és használja ezt a megállót egy szükséges fűtött pihenőként a metsző téli széllel szemben.",
                 "ro": "Explorați interiorul frumos conservat, folosind această oprire ca o pauză încălzită necesară pentru a combate vântul tăios de iarnă.",
-                "en": "Explore the beautifully preserved interior, using this stop as a necessary heated break to combat the biting and freezing winter wind."
+                "en": "Explore the beautifully preserved interior, using this stop as a necessary heated break to combat the biting and freezing winter wind.",
+                "fr": "Explorez l’intérieur magnifiquement préservé, utilisant cet arrêt comme une pause chauffée nécessaire pour combattre le vent hivernal mordant et glacial."
               }
             },
             {
@@ -604,13 +670,15 @@
                 "de": "Musée des Anciens Combattants pour la Liberté",
                 "hu": "Musée des Anciens Combattants pour la Liberté",
                 "ro": "Musée des Anciens Combattants pour la Liberté",
-                "en": "Musée des Anciens Combattants pour la Liberté"
+                "en": "Musée des Anciens Combattants pour la Liberté",
+                "fr": "Musée des Anciens Combattants pour la Liberté"
               },
               "tip_5lang": {
                 "de": "Tauchen Sie tief in die Militärgeschichte ein und genießen Sie das Heizsystem des Museums während des kältesten Teils Ihrer Radtour.",
                 "hu": "Merüljön el a megrendítő hadtörténetben, miközben élvezi a múzeum fűtési rendszerét a kerékpártúra leghidegebb kora délutáni szakaszán.",
                 "ro": "Aprofundați istoria militară emoționantă în timp ce vă bucurați de sistemul de încălzire al muzeului în cea mai rece parte a călătoriei.",
-                "en": "Dive deep into poignant military history while fully enjoying the museum's heating system during the coldest part of your cycling trip."
+                "en": "Dive deep into poignant military history while fully enjoying the museum's heating system during the coldest part of your cycling trip.",
+                "fr": "Plongez dans une histoire militaire poignante tout en profitant du chauffage du musée pendant la partie la plus froide de votre excursion cycliste."
               }
             },
             {
@@ -618,13 +686,15 @@
                 "de": "Château du Bosc",
                 "hu": "Château du Bosc",
                 "ro": "Château du Bosc",
-                "en": "Château du Bosc"
+                "en": "Château du Bosc",
+                "fr": "Château du Bosc"
               },
               "tip_5lang": {
                 "de": "Bestaunen Sie die imposante Silhouette des Schlosses vor dem blassen Winterhimmel, aber achten Sie auf Glatteis auf den Zufahrtsstraßen.",
                 "hu": "Csodálja meg a kastély impozáns sziluettjét a halvány téli égbolt előtt, de nagyon vigyázzon a bekötőutakon kialakuló alattomos tükörjégre.",
                 "ro": "Minunați-vă de silueta impunătoare a castelului pe cerul palid de iarnă, dar aveți grijă la peticele de gheață neagră de pe drumurile de acces.",
-                "en": "Marvel at the castle's imposing silhouette against the pale winter sky, but carefully watch out for patches of black ice on the access roads."
+                "en": "Marvel at the castle's imposing silhouette against the pale winter sky, but carefully watch out for patches of black ice on the access roads.",
+                "fr": "Admirez la silhouette imposante du château contre le ciel hivernal pâle, mais faites très attention aux plaques de verglas sur les voies d’accès."
               }
             },
             {
@@ -632,13 +702,15 @@
                 "de": "Lac des Trois Vallées",
                 "hu": "Lac des Trois Vallées",
                 "ro": "Lac des Trois Vallées",
-                "en": "Lac des Trois Vallées"
+                "en": "Lac des Trois Vallées",
+                "fr": "Lac des Trois Vallées"
               },
               "tip_5lang": {
                 "de": "Genießen Sie die zugefrorenen Ränder des Sees und stellen Sie sicher, dass Ihr Fahrrad für die dunkle, eiskalte Rückfahrt richtig beleuchtet ist.",
                 "hu": "Élvezze a tó nyugodt, befagyott széleit, és gondoskodjon róla, hogy kerékpárja megfelelő világítással rendelkezzen a sötét, fagyos visszaúthoz.",
                 "ro": "Bucurați-vă de marginile înghețate ale lacului, asigurându-vă că bicicleta este echipată cu lumini pentru drumul întunecat și înghețat de întoarcere.",
-                "en": "Enjoy the tranquil, frozen edges of the lake, ensuring your bike has proper lights equipped for the dark, freezing evening ride back to town."
+                "en": "Enjoy the tranquil, frozen edges of the lake, ensuring your bike has proper lights equipped for the dark, freezing evening ride back to town.",
+                "fr": "Appréciez les berges tranquilles et gelées du lac, en veillant à ce que votre vélo soit équipé de bonnes lumières pour le retour sombre et glacé en ville."
               }
             }
           ]
@@ -658,7 +730,8 @@
             "de": "Fleurance Town Hall",
             "hu": "Fleurance Town Hall",
             "ro": "Fleurance Town Hall",
-            "en": "Fleurance Town Hall"
+            "en": "Fleurance Town Hall",
+            "fr": "Hôtel de Ville de Fleurance"
           },
           "coords": [
             0.663153,
@@ -673,7 +746,8 @@
             "de": "Bewundern Sie die schöne Architektur dieses historischen Verwaltungszentrums am Platz, und achten Sie auf die Statuen der vier Jahreszeiten an den Ecken.",
             "hu": "Csodálja meg a történelmi városháza gyönyörű építészetét a főtéren, és figyelje meg a sarkainál található, a négy évszakot ábrázoló szobrokat.",
             "ro": "Admirați arhitectura frumoasă a acestui centru civic istoric din piața principală și observați statuile ce reprezintă cele patru anotimpuri pe colțuri.",
-            "en": "Admire the beautiful architecture of this historic civic center in the bastide square, and notice the statues representing the four seasons on its corners."
+            "en": "Admire the beautiful architecture of this historic civic center in the bastide square, and notice the statues representing the four seasons on its corners.",
+            "fr": "Admirez la belle architecture de ce centre civique historique sur la place bastide, et observez les statues représentant les quatre saisons à ses coins."
           }
         },
         {
@@ -681,7 +755,8 @@
             "de": "Saint-Laurent Church",
             "hu": "Saint-Laurent Church",
             "ro": "Saint-Laurent Church",
-            "en": "Saint-Laurent Church"
+            "en": "Saint-Laurent Church",
+            "fr": "Église Saint-Laurent"
           },
           "coords": [
             0.664627,
@@ -696,7 +771,8 @@
             "de": "Betreten Sie diese Kirche im südfranzösischen gotischen Stil mit atemberaubenden Buntglasfenstern, die am besten im morgendlichen Licht zur Geltung kommen.",
             "hu": "Lépjen be ebbe a lenyűgöző dél-francia gótikus stílusú templomba a gyönyörű ólomüveg ablakokért, és látogasson el délelőtt a legjobb természetes fényért.",
             "ro": "Pășiți în această biserică gotică impresionantă pentru vitraliile uimitoare, fiind ideal să o vizitați dimineața devreme pentru cea mai bună lumină naturală.",
-            "en": "Step inside this magnificent Southern Gothic style church to see the breathtaking stained-glass windows, and visit in the morning for the best natural light."
+            "en": "Step inside this magnificent Southern Gothic style church to see the breathtaking stained-glass windows, and visit in the morning for the best natural light.",
+            "fr": "Entrez dans cette magnifique église de style gothique méridional pour voir les vitraux époustouflants; venez le matin pour la meilleure lumière naturelle."
           }
         },
         {
@@ -704,7 +780,8 @@
             "de": "Château du Bosc",
             "hu": "Château du Bosc",
             "ro": "Château du Bosc",
-            "en": "Château du Bosc"
+            "en": "Château du Bosc",
+            "fr": "Château du Bosc"
           },
           "coords": [
             0.645224,
@@ -719,7 +796,8 @@
             "de": "Spazieren Sie durch die eleganten Anlagen dieses historischen Schlosses mit gut erhaltener Fassade, und tragen Sie bequeme Schuhe für die Erkundung des Anwesens.",
             "hu": "Sétáljon végig ennek a történelmi kastélynak az elegáns kertjén, csodálja meg a homlokzatot, és viseljen kényelmes cipőt a birtok felfedezéséhez.",
             "ro": "Plimbați-vă prin domeniul elegant al acestui castel istoric, remarcând fațada frumos conservată, și purtați încălțăminte comodă pentru explorarea proprietății.",
-            "en": "Wander through the elegant grounds of this historic chateau, noting the beautifully preserved facade, and wear comfortable shoes for exploring the surrounding estate."
+            "en": "Wander through the elegant grounds of this historic chateau, noting the beautifully preserved facade, and wear comfortable shoes for exploring the surrounding estate.",
+            "fr": "Parcourez les élégants jardins de ce château historique, en notant la façade magnifiquement préservée, et portez des chaussures confortables pour explorer le domaine environnant."
           }
         },
         {
@@ -727,7 +805,8 @@
             "de": "Lac des Trois Vallées",
             "hu": "Lac des Trois Vallées",
             "ro": "Lac des Trois Vallées",
-            "en": "Lac des Trois Vallées"
+            "en": "Lac des Trois Vallées",
+            "fr": "Lac des Trois Vallées"
           },
           "coords": [
             0.648685,
@@ -742,7 +821,8 @@
             "de": "Entspannen Sie an diesem malerischen See, der ideal für Aktivitäten im Freien ist, und bringen Sie ein Picknick mit, das Sie am Nachmittag am Ufer genießen können.",
             "hu": "Pihenjen e festői természetes tó partján, amely tökéletes szabadtéri programokhoz, és vigyen magával piknikkosarat, hogy a füves parton fogyassza el ebédjét.",
             "ro": "Relaxați-vă la acest lac pitoresc, perfect pentru activități în aer liber, și luați un picnic pentru a vă bucura de el pe malurile înverzite după-amiaza.",
-            "en": "Relax by this scenic natural lake perfect for outdoor activities, and consider packing a picnic to enjoy on the grassy banks during the warm afternoon hours."
+            "en": "Relax by this scenic natural lake perfect for outdoor activities, and consider packing a picnic to enjoy on the grassy banks during the warm afternoon hours.",
+            "fr": "Détendez-vous au bord de ce lac naturel pittoresque parfait pour les activités de plein air, et pensez à emporter un pique-nique à savourer sur les berges herbeuses pendant les heures chaudes de l’après-midi."
           }
         },
         {
@@ -750,7 +830,8 @@
             "de": "Musée des Anciens Combattants pour la Liberté",
             "hu": "Musée des Anciens Combattants pour la Liberté",
             "ro": "Musée des Anciens Combattants pour la Liberté",
-            "en": "Musée des Anciens Combattants pour la Liberté"
+            "en": "Musée des Anciens Combattants pour la Liberté",
+            "fr": "Musée des Anciens Combattants pour la Liberté"
           },
           "coords": [
             0.697441,
@@ -765,7 +846,8 @@
             "de": "Erkunden Sie die nachdenklich stimmenden Ausstellungen zu Ehren der Freiheitskämpfer, und fragen Sie das Personal unbedingt nach persönlichen Geschichten.",
             "hu": "Fedezze fel a szabadságharcosoknak szentelt elgondolkodtató kiállításokat, és feltétlenül kérdezze meg az önkénteseket a tárgyak mögött rejlő személyes történetekről.",
             "ro": "Explorați expozițiile dedicate veteranilor libertății și asigurați-vă că întrebați personalul voluntar despre poveștile personale din spatele artefactelor expuse.",
-            "en": "Explore thought-provoking exhibits dedicated to veterans of freedom, and be sure to ask the passionate volunteer staff for personal stories behind the artifacts."
+            "en": "Explore thought-provoking exhibits dedicated to veterans of freedom, and be sure to ask the passionate volunteer staff for personal stories behind the artifacts.",
+            "fr": "Explorez des expositions qui font réfléchir consacrées aux vétérans de la liberté, et n’hésitez pas à demander aux bénévoles passionnés des récits personnels derrière les artefacts."
           }
         },
         {
@@ -773,7 +855,8 @@
             "de": "Église Saint-André",
             "hu": "Église Saint-André",
             "ro": "Église Saint-André",
-            "en": "Église Saint-André"
+            "en": "Église Saint-André",
+            "fr": "Église Saint-André"
           },
           "coords": [
             0.684513,
@@ -788,7 +871,8 @@
             "de": "Besuchen Sie diese charmante historische Kirche etwas außerhalb des Zentrums, die einen friedlichen Rückzugsort und Einblicke in ländliche Bautraditionen bietet.",
             "hu": "Látogasson el ebbe a központtól kicsit távolabb eső bájos templomba, amely békés menedéket és bepillantást nyújt a vidéki építészeti hagyományokba.",
             "ro": "Vizitați această biserică fermecătoare situată puțin în afara centrului, oferind un refugiu pașnic și o privire asupra tradițiilor arhitecturale rurale.",
-            "en": "Visit this charming historic church situated slightly outside the main center, offering a peaceful retreat and a glimpse into rural architectural traditions."
+            "en": "Visit this charming historic church situated slightly outside the main center, offering a peaceful retreat and a glimpse into rural architectural traditions.",
+            "fr": "Visitez cette charmante église historique située un peu à l’écart du centre, offrant un refuge paisible et un aperçu des traditions architecturales rurales."
           }
         }
       ],
@@ -796,7 +880,8 @@
         "de": "Ihre Fahrt beginnt im historischen Zentrum mit dem Rathaus und der Kirche Saint-Laurent. Mittags fahren Sie zum eleganten Château du Bosc und zum malerischen Lac des Trois Vallées. Verbringen Sie den Nachmittag mit tiefen Einblicken in die Geschichte im Veteranenmuseum, bevor Sie den Tag mit einem letzten, friedlichen Halt an der Église Saint-André langsam ausklingen lassen.",
         "hu": "Az autós túra a történelmi központban indul a városházával és a Saint-Laurent templommal. Délben egy rövid úttal a Château du Bosc elegáns birtokára és a festői tóhoz érkezik. A délutánt a veteránok múzeumában található történelmi emlékek felfedezésével töltheti, majd a naplementéhez közeledve egy utolsó, békés megállót tehet a hangulatos Église Saint-André-nál.",
         "ro": "Excursia cu mașina începe în centrul istoric, explorând Primăria și biserica Saint-Laurent. La prânz, un scurt drum vă duce la domeniul elegant al Château du Bosc și la pitorescul lac. Petreceți după-amiaza descoperind istoria la muzeul veteranilor, urmată de o ultimă oprire plină de pace la Église Saint-André, în timp ce ziua dumneavoastră se apropie încet de sfârșit.",
-        "en": "Your drive begins in the historic bastide center, exploring the Town Hall and Saint-Laurent Church before the crowds arrive. Midday takes you on a short drive to the elegant grounds of Château du Bosc and the serene Lac des Trois Vallées. Spend your afternoon diving into history at the veterans' museum, followed by a final, peaceful stop at Église Saint-André as the day winds to a close."
+        "en": "Your drive begins in the historic bastide center, exploring the Town Hall and Saint-Laurent Church before the crowds arrive. Midday takes you on a short drive to the elegant grounds of Château du Bosc and the serene Lac des Trois Vallées. Spend your afternoon diving into history at the veterans' museum, followed by a final, peaceful stop at Église Saint-André as the day winds to a close.",
+        "fr": "Votre trajet commence dans le centre bastide historique, en explorant l’Hôtel de Ville et l’Église Saint-Laurent avant l’arrivée des foules. À midi, dirigez-vous en voiture vers les élégants jardins du Château du Bosc et le serein Lac des Trois Vallées. Passez l’après-midi à plonger dans l’histoire au musée des anciens combattants, puis terminez par un dernier arrêt paisible à l’Église Saint-André à la fin de la journée."
       },
       "variants": {
         "rainy": {
@@ -804,7 +889,8 @@
             "de": "Fahren Sie an einem regnerischen Morgen bequem zum Rathaus und halten Sie einen Regenschirm bereit. Flitzen Sie mittags vom geparkten Auto nach Saint-Laurent und zum Château du Bosc. Verbringen Sie den nassen Nachmittag damit, den stimmungsvollen See vom Fenster aus zu genießen, und besuchen Sie dann das Museum. Beenden Sie den Abend an der Église Saint-André.",
             "hu": "Vezessen kényelmesen a Városházához az esős reggelen, és tartson esernyőt az autóban. Délben gyorsan szaladjon át a parkolóból a Saint-Laurent templomba és a Château du Bosc-ba. A nedves délutánt a tó melletti autózással és a fedett katonai múzeum meglátogatásával töltheti. Az estét a Saint-André templomnál zárja, biztonságban az esőtől.",
             "ro": "Conduceți confortabil la Primărie într-o dimineață ploioasă, ținând o umbrelă în mașină. La prânz, grăbiți-vă de la mașina parcată la Saint-Laurent și Château du Bosc. Petreceți după-amiaza ploioasă bucurându-vă de lacul melancolic din mașină, apoi vizitați muzeul militar. Încheiați seara la Église Saint-André, feriți de ploaie.",
-            "en": "Drive comfortably to the Town Hall on a rainy morning, keeping an umbrella in the car. At midday, dash from your parked car to Saint-Laurent and Château du Bosc to stay dry. Spend the wet afternoon enjoying the moody lake from your window, then visit the indoor military museum. End the evening at Église Saint-André safely out of the rain."
+            "en": "Drive comfortably to the Town Hall on a rainy morning, keeping an umbrella in the car. At midday, dash from your parked car to Saint-Laurent and Château du Bosc to stay dry. Spend the wet afternoon enjoying the moody lake from your window, then visit the indoor military museum. End the evening at Église Saint-André safely out of the rain.",
+            "fr": "Conduisez confortablement jusqu’à l’Hôtel de Ville lors d’une matinée pluvieuse, en gardant un parapluie dans la voiture. À midi, courez de votre voiture garée à Saint-Laurent et au Château du Bosc pour rester au sec. Passez l’après-midi pluvieux à admirer le lac depuis la fenêtre, puis visitez le musée militaire couvert. Terminez la soirée à l’Église Saint-André, à l’abri de la pluie."
           },
           "stops": [
             {
@@ -812,13 +898,15 @@
                 "de": "Fleurance Town Hall",
                 "hu": "Fleurance Town Hall",
                 "ro": "Fleurance Town Hall",
-                "en": "Fleurance Town Hall"
+                "en": "Fleurance Town Hall",
+                "fr": "Hôtel de Ville de Fleurance"
               },
               "tip_5lang": {
                 "de": "Parken Sie in der Nähe, um die prächtige Fassade zu sehen, und flüchten Sie unter die großen Arkaden, wenn die starken Schauer beginnen.",
                 "hu": "Parkoljon a közelben, hogy megcsodálja a pompás homlokzatot, és szaladjon a hatalmas, védelmet nyújtó árkádok alá, ha heves zápor kezdődik.",
                 "ro": "Parcați aproape pentru a vedea fațada magnifică și fugiți sub arcadele mari și protectoare când încep aversele puternice de ploaie.",
-                "en": "Park close by to view the magnificent facade and dash quickly under the large, protective arcades when the heavy morning showers begin."
+                "en": "Park close by to view the magnificent facade and dash quickly under the large, protective arcades when the heavy morning showers begin.",
+                "fr": "Garez-vous à proximité pour voir la façade magnifique et réfugiez-vous rapidement sous les larges arcades protectrices lorsque les fortes averses matinales commencent."
               }
             },
             {
@@ -826,13 +914,15 @@
                 "de": "Saint-Laurent Church",
                 "hu": "Saint-Laurent Church",
                 "ro": "Saint-Laurent Church",
-                "en": "Saint-Laurent Church"
+                "en": "Saint-Laurent Church",
+                "fr": "Église Saint-Laurent"
               },
               "tip_5lang": {
                 "de": "Genießen Sie die atemberaubenden Buntglasfenster, die den trüben Tag erhellen, und nutzen Sie die nahe gelegenen Parkplätze für kurze Wege.",
                 "hu": "Élvezze a borús napot megvilágító lenyűgöző ólomüvegeket, kihasználva a közeli kényelmes parkolást, hogy minimálisra csökkentse az esőben töltött időt.",
                 "ro": "Bucurați-vă de vitraliile uimitoare care luminează ziua mohorâtă, utilizând parcarea convenabilă din apropiere pentru a minimiza timpul în ploaie.",
-                "en": "Enjoy the stunning stained glass lighting up the gloomy day, utilizing the convenient nearby parking to strictly minimize your time out in the rain."
+                "en": "Enjoy the stunning stained glass lighting up the gloomy day, utilizing the convenient nearby parking to strictly minimize your time out in the rain.",
+                "fr": "Appréciez les vitraux illuminant la journée sombre, en utilisant le stationnement pratique à proximité pour minimiser strictement votre temps sous la pluie."
               }
             },
             {
@@ -840,13 +930,15 @@
                 "de": "Château du Bosc",
                 "hu": "Château du Bosc",
                 "ro": "Château du Bosc",
-                "en": "Château du Bosc"
+                "en": "Château du Bosc",
+                "fr": "Château du Bosc"
               },
               "tip_5lang": {
                 "de": "Erkunden Sie die majestätischen Räume dieses Anwesens, die als riesiger und faszinierender Innenrückzugsort vor dem schlammigen Wetter dienen.",
                 "hu": "Fedezze fel ennek a birtoknak a fenséges szobáit, amely hatalmas és lenyűgöző fedett menedékként szolgál a kinti sáros, vidéki időjárás elől.",
                 "ro": "Explorați camerele maiestuoase ale acestei moșii, servind drept un vast și fascinant refugiu interior departe de vremea noroioasă din mediul rural.",
-                "en": "Explore the majestic rooms of this estate, serving as a vast and fascinating indoor retreat safely away from the muddy countryside weather."
+                "en": "Explore the majestic rooms of this estate, serving as a vast and fascinating indoor retreat safely away from the muddy countryside weather.",
+                "fr": "Explorez les pièces majestueuses de ce domaine, servant de vaste et fascinant refuge intérieur à l’abri des intempéries boueuses de la campagne."
               }
             },
             {
@@ -854,13 +946,15 @@
                 "de": "Lac des Trois Vallées",
                 "hu": "Lac des Trois Vallées",
                 "ro": "Lac des Trois Vallées",
-                "en": "Lac des Trois Vallées"
+                "en": "Lac des Trois Vallées",
+                "fr": "Lac des Trois Vallées"
               },
               "tip_5lang": {
                 "de": "Parken Sie sicher in Ufernähe, um vom gemütlichen, trockenen Komfort Ihres beheizten Fahrzeugs aus den Regen auf der Wasseroberfläche zu beobachten.",
                 "hu": "Parkoljon biztonságosan a part közelében, és figyelje, ahogy az esőcseppek táncolnak a vízen, a fűtött járműve hangulatos és száraz kényelméből.",
                 "ro": "Parcați în siguranță lângă țărm pentru a urmări dansul ploii pe suprafața apei din confortul cald și uscat al vehiculului dumneavoastră.",
-                "en": "Park safely near the shore to intuitively watch the rain dance across the water's surface from the cozy, dry comfort of your heated vehicle."
+                "en": "Park safely near the shore to intuitively watch the rain dance across the water's surface from the cozy, dry comfort of your heated vehicle.",
+                "fr": "Garez-vous en sécurité près du rivage pour observer la pluie danser à la surface de l’eau depuis le confort sec et chauffé de votre véhicule."
               }
             },
             {
@@ -868,13 +962,15 @@
                 "de": "Musée des Anciens Combattants pour la Liberté",
                 "hu": "Musée des Anciens Combattants pour la Liberté",
                 "ro": "Musée des Anciens Combattants pour la Liberté",
-                "en": "Musée des Anciens Combattants pour la Liberté"
+                "en": "Musée des Anciens Combattants pour la Liberté",
+                "fr": "Musée des Anciens Combattants pour la Liberté"
               },
               "tip_5lang": {
                 "de": "Lernen Sie in dieser umfangreichen Innenausstellung lokale Helden kennen, ein perfekter trockener und lehrreicher Halt während der Regengüsse.",
                 "hu": "Ismerje meg a helyi hősöket ebben a kiterjedt beltéri kiállításban, amely tökéletes száraz és tanulságos megálló a délutáni felhőszakadások idején.",
                 "ro": "Aflați despre eroii locali în această expoziție interioară amplă, o oprire uscată și educativă perfectă în timpul ploilor torențiale de după-amiază.",
-                "en": "Learn about local heroes in this extensive indoor exhibition, serving as a perfect dry and highly educational stop during the afternoon downpours."
+                "en": "Learn about local heroes in this extensive indoor exhibition, serving as a perfect dry and highly educational stop during the afternoon downpours.",
+                "fr": "Renseignez-vous sur les héros locaux dans cette vaste exposition intérieure, parfaite comme halte sèche et très instructive pendant les averses de l’après-midi."
               }
             },
             {
@@ -882,13 +978,15 @@
                 "de": "Église Saint-André",
                 "hu": "Église Saint-André",
                 "ro": "Église Saint-André",
-                "en": "Église Saint-André"
+                "en": "Église Saint-André",
+                "fr": "Église Saint-André"
               },
               "tip_5lang": {
                 "de": "Sehen Sie sich die religiösen Artefakte im warmen Kirchenschiff an, aber behalten Sie Ihren Regenmantel an, da die Eingangstreppe rutschig ist.",
                 "hu": "Tekintse meg a lenyűgöző vallási tárgyakat ebben a meleg templomhajóban, de tartsa magán az esőkabátot, mivel a bejárati lépcsők nagyon csúszósak.",
                 "ro": "Vedeți artefactele religioase din acest naos cald, păstrând pelerina de ploaie pe dumneavoastră deoarece scările de la intrare pot fi alunecoase.",
-                "en": "View the impressive religious artifacts inside this warm nave, keeping your raincoat on as the exterior entrance stairs can be very slick."
+                "en": "View the impressive religious artifacts inside this warm nave, keeping your raincoat on as the exterior entrance stairs can be very slick.",
+                "fr": "Contemplez les impressionnants objets religieux à l’intérieur de cette nef chauffée, en gardant votre imperméable car les marches d’entrée extérieures peuvent être très glissantes."
               }
             }
           ]
@@ -898,7 +996,8 @@
             "de": "Genießen Sie Ihr beheiztes Auto an einem frostigen Morgen auf der Fahrt zum Rathaus. Mittags können Sie bequem zwischen der Kirche Saint-Laurent und dem historischen Château du Bosc wechseln. Der Nachmittag bietet einen schnellen Blick auf den Lac des Trois Vallées, bevor es ins warme Militärmuseum geht. Schließen Sie an der Église Saint-André ab, bevor es dunkel wird.",
             "hu": "Élvezze a fűtött autót a fagyos reggeli úton a Városháza felé. Délben kényelmesen utazhat a Saint-Laurent templom és a történelmi Château du Bosc között. A csípős délutánon vessen egy pillantást a Lac des Trois Vallées-re, majd melegedjen fel a katonai múzeumban. Zárja a napot a Saint-André templomnál, mielőtt 17:00 órakor beáll a sötétség.",
             "ro": "Bucurați-vă de mașina încălzită într-o dimineață geroasă spre Primărie. La prânz, săriți cu ușurință între Biserica Saint-Laurent și istoricul Château du Bosc. După-amiaza aspră permite o priveliște pitorească rapidă la Lac des Trois Vallées înainte de a intra în muzeul cald. Încheiați la Église Saint-André chiar înainte de lăsarea întunericului.",
-            "en": "Enjoy your heated car on a frosty morning drive to the Town Hall. By midday, easily hop between Saint-Laurent Church and the historic Château du Bosc. The brisk afternoon allows for a quick scenic view at Lac des Trois Vallées before heading into the warm military museum. Conclude at Église Saint-André just before the 5 PM darkness sets in."
+            "en": "Enjoy your heated car on a frosty morning drive to the Town Hall. By midday, easily hop between Saint-Laurent Church and the historic Château du Bosc. The brisk afternoon allows for a quick scenic view at Lac des Trois Vallées before heading into the warm military museum. Conclude at Église Saint-André just before the 5 PM darkness sets in.",
+            "fr": "Profitez de la chaleur de votre voiture lors d’une matinée glaciale pour rejoindre l’Hôtel de Ville. À midi, faites facilement la navette entre l’Église Saint-Laurent et le Château du Bosc. L’après-midi vif permet un rapide panorama au Lac des Trois Vallées avant d’entrer dans le musée militaire chauffé. Concluez à l’Église Saint-André juste avant que l’obscurité de 17h n’envahisse les routes."
           },
           "stops": [
             {
@@ -906,13 +1005,15 @@
                 "de": "Fleurance Town Hall",
                 "hu": "Fleurance Town Hall",
                 "ro": "Fleurance Town Hall",
-                "en": "Fleurance Town Hall"
+                "en": "Fleurance Town Hall",
+                "fr": "Hôtel de Ville de Fleurance"
               },
               "tip_5lang": {
                 "de": "Bewundern Sie die architektonische Schönheit in der klaren Morgenluft, in dem Wissen, dass Ihr beheiztes Auto nur wenige frostige Schritte entfernt ist.",
                 "hu": "Csodálja meg a polgári szépséget a csípős reggeli levegőben, tudva, hogy a fűtött autója csak néhány fagyos lépésre van a központi parkolóban.",
                 "ro": "Admirați frumusețea civică în aerul curat al dimineții, știind că mașina dumneavoastră încălzită este la doar câțiva pași geroși distanță.",
-                "en": "Admire the civic beauty in the crisp morning air, knowing your thoroughly heated car is just a few frosty steps away in the central parking."
+                "en": "Admire the civic beauty in the crisp morning air, knowing your thoroughly heated car is just a few frosty steps away in the central parking.",
+                "fr": "Admirez la beauté civique dans l’air frais du matin, sachant que votre voiture bien chauffée se trouve à quelques pas glacés au parking central."
               }
             },
             {
@@ -920,13 +1021,15 @@
                 "de": "Saint-Laurent Church",
                 "hu": "Saint-Laurent Church",
                 "ro": "Saint-Laurent Church",
-                "en": "Saint-Laurent Church"
+                "en": "Saint-Laurent Church",
+                "fr": "Église Saint-Laurent"
               },
               "tip_5lang": {
                 "de": "Treten Sie in die massiven Steinmauern ein, um die Winterruhe zu betrachten, und genießen Sie die kurze Distanz zum Auto im eisigen Wind.",
                 "hu": "Lépjen be a masszív kőfalak közé, és tekintse meg a téli nyugalmat, élvezve a tényt, hogy nem kell sokat gyalogolnia a fagyos szélben a kocsijától.",
                 "ro": "Pășiți între zidurile masive de piatră pentru a vedea liniștea iernii, bucurându-vă că nu trebuie să mergeți mult în vântul înghețat.",
-                "en": "Step inside the massive stone walls to view its winter tranquility, enjoying the ultimate fact you do not have to walk far in the freezing wind."
+                "en": "Step inside the massive stone walls to view its winter tranquility, enjoying the ultimate fact you do not have to walk far in the freezing wind.",
+                "fr": "Entrez dans les murs massifs de pierre pour contempler la tranquillité hivernale, en profitant du fait que vous n’avez pas à marcher loin dans le vent glacial."
               }
             },
             {
@@ -934,13 +1037,15 @@
                 "de": "Château du Bosc",
                 "hu": "Château du Bosc",
                 "ro": "Château du Bosc",
-                "en": "Château du Bosc"
+                "en": "Château du Bosc",
+                "fr": "Château du Bosc"
               },
               "tip_5lang": {
                 "de": "Entdecken Sie die reiche Geschichte dieses Anwesens, aber fahren Sie vorsichtig auf den ländlichen Zufahrtsstraßen, die verstecktes Glatteis haben können.",
                 "hu": "Fedezze fel ennek a nemesi birtoknak a gazdag történetét, de vezessen rendkívül óvatosan a vidéki bekötőutakon, ahol rejtett tükörjég lehet.",
                 "ro": "Descoperiți istoria bogată a acestei moșii, dar conduceți cu atenție pe drumurile rurale de acces, care pot avea gheață neagră ascunsă.",
-                "en": "Discover the rich history of this noble estate, but drive very carefully on the rural approaching roads which may have dangerous hidden black ice."
+                "en": "Discover the rich history of this noble estate, but drive very carefully on the rural approaching roads which may have dangerous hidden black ice.",
+                "fr": "Découvrez la riche histoire de ce domaine noble, mais conduisez très prudemment sur les routes d’accès rurales qui peuvent présenter des plaques de verglas dangereuses."
               }
             },
             {
@@ -948,13 +1053,15 @@
                 "de": "Lac des Trois Vallées",
                 "hu": "Lac des Trois Vallées",
                 "ro": "Lac des Trois Vallées",
-                "en": "Lac des Trois Vallées"
+                "en": "Lac des Trois Vallées",
+                "fr": "Lac des Trois Vallées"
               },
               "tip_5lang": {
                 "de": "Machen Sie einen kurzen Spaziergang, um die gefrorenen Ränder des Sees zu sehen, bevor Sie sich schnell in die wohlige Heizung Ihres Autos zurückziehen.",
                 "hu": "Tegyen egy rövid sétát, és nézze meg a festői tó befagyott széleit, mielőtt gyorsan visszavonulna az autója kényelmes, meleg fűtésébe.",
                 "ro": "Faceți o scurtă plimbare pentru a vedea marginile înghețate ale lacului înainte de a vă retrage rapid la încălzirea confortabilă a mașinii.",
-                "en": "Take a brief walk to see the beautifully frozen edges of the picturesque lake before retreating quickly to your car’s deeply comforting heater."
+                "en": "Take a brief walk to see the beautifully frozen edges of the picturesque lake before retreating quickly to your car’s deeply comforting heater.",
+                "fr": "Faites une courte promenade pour voir les berges magnifiquement gelées du lac pittoresque avant de retourner rapidement au confort chauffant de votre voiture."
               }
             },
             {
@@ -962,13 +1069,15 @@
                 "de": "Musée des Anciens Combattants pour la Liberté",
                 "hu": "Musée des Anciens Combattants pour la Liberté",
                 "ro": "Musée des Anciens Combattants pour la Liberté",
-                "en": "Musée des Anciens Combattants pour la Liberté"
+                "en": "Musée des Anciens Combattants pour la Liberté",
+                "fr": "Musée des Anciens Combattants pour la Liberté"
               },
               "tip_5lang": {
                 "de": "Nehmen Sie die Geschichte in diesem angenehm beheizten Gebäude in sich auf, ein idealer Halt, wenn die Wintersonne tief am Himmel steht.",
                 "hu": "Szívja magába a helyi történelmet ebben a kellemesen fűtött épületben, ami ideális megálló, amikor a téli nap már alacsonyan jár az égen.",
                 "ro": "Absorbiți istoria locală profundă în această clădire confortabil încălzită, o oprire ideală pe măsură ce soarele de iarnă coboară pe cer.",
-                "en": "Absorb the profound local history within this comfortably heated building, an ideal stop as the pale winter sun begins to dip low in the sky."
+                "en": "Absorb the profound local history within this comfortably heated building, an ideal stop as the pale winter sun begins to dip low in the sky.",
+                "fr": "Imprégnez-vous de l’histoire locale profonde dans ce bâtiment confortablement chauffé, arrêt idéal alors que le pâle soleil hivernal commence à baisser."
               }
             },
             {
@@ -976,13 +1085,15 @@
                 "de": "Église Saint-André",
                 "hu": "Église Saint-André",
                 "ro": "Église Saint-André",
-                "en": "Église Saint-André"
+                "en": "Église Saint-André",
+                "fr": "Église Saint-André"
               },
               "tip_5lang": {
                 "de": "Besuchen Sie diese atemberaubende Kirche und zielen Sie darauf ab, Ihre Tour zu beenden, bevor die winterliche Dunkelheit die Stadtstraßen einhüllt.",
                 "hu": "Látogasson el ebbe a lenyűgöző templomba, és próbálja meg befejezni a túrát, mielőtt a téli sötétség teljesen elnyeli a városi utakat.",
                 "ro": "Vizitați această biserică uimitoare și altarul ei, cu scopul de a termina turul înainte ca întunericul de iarnă să cuprindă complet drumurile.",
-                "en": "Visit this stunning church and its intricate altar, aiming to finish your tour completely before the winter darkness fully engulfs the city roads."
+                "en": "Visit this stunning church and its intricate altar, aiming to finish your tour completely before the winter darkness fully engulfs the city roads.",
+                "fr": "Visitez cette superbe église et son autel élaboré, en visant à terminer votre visite complètement avant que l’obscurité hivernale n’envahisse complètement les routes de la ville."
               }
             }
           ]

@@ -21,7 +21,8 @@
             "de": "Amphitheater von Fréjus",
             "hu": "Fréjus-i amfiteátrum",
             "ro": "Amfiteatrul din Fréjus",
-            "en": "Fréjus Amphitheatre"
+            "en": "Fréjus Amphitheatre",
+            "fr": "Fréjus Amphitheatre"
           },
           "coords": [
             6.728,
@@ -45,7 +46,8 @@
             "de": "Kathedrale Saint-Léonce",
             "hu": "Saint-Léonce katedrális",
             "ro": "Catedrala Saint-Léonce",
-            "en": "Saint-Léonce Cathedral"
+            "en": "Saint-Léonce Cathedral",
+            "fr": "Saint-Léonce Cathedral"
           },
           "coords": [
             6.736,
@@ -69,7 +71,8 @@
             "de": "Altstadt Mittagessen",
             "hu": "Óvárosi ebéd",
             "ro": "Prânz în centrul vechi",
-            "en": "Old Town Lunch"
+            "en": "Old Town Lunch",
+            "fr": "Old Town Lunch"
           },
           "coords": [
             6.737,
@@ -93,7 +96,8 @@
             "de": "Archäologisches Museum",
             "hu": "Régészeti Múzeum",
             "ro": "Muzeul de Arheologie",
-            "en": "Archaeological Museum"
+            "en": "Archaeological Museum",
+            "fr": "Archaeological Museum"
           },
           "coords": [
             6.738,
@@ -109,7 +113,7 @@
             "hu": "Csodálja meg a kétarcú Hermész-szobrot.",
             "ro": "Admirați statuia lui Hermes cu două fețe.",
             "en": "Admire the double-faced Hermes statue.",
-            "fr": "Admirez la statue d'Hermès à deux visages."
+            "fr": "Admirez la statue d’Hermès à deux visages."
           }
         },
         {
@@ -117,7 +121,8 @@
             "de": "Port Fréjus",
             "hu": "Port Fréjus kikötő",
             "ro": "Port Fréjus",
-            "en": "Port Fréjus"
+            "en": "Port Fréjus",
+            "fr": "Port Fréjus"
           },
           "coords": [
             6.749,
@@ -133,7 +138,7 @@
             "hu": "Kellemes hely egy sétához a jachtok között.",
             "ro": "Un loc plăcut pentru o plimbare printre iahturi.",
             "en": "A pleasant place for a stroll among the yachts.",
-            "fr": "Un endroit agréable pour flâner parmi les yachts."
+            "fr": "Un endroit agréable pour se promener parmi les yachts."
           }
         },
         {
@@ -141,7 +146,8 @@
             "de": "Strand von Fréjus",
             "hu": "Fréjus-i strand",
             "ro": "Plaja din Fréjus",
-            "en": "Fréjus Beach"
+            "en": "Fréjus Beach",
+            "fr": "Fréjus Beach"
           },
           "coords": [
             6.755,
@@ -157,7 +163,7 @@
             "hu": "Tökéletes egy késő délutáni mártózáshoz.",
             "ro": "Perfect pentru o baie după-amiaza târziu.",
             "en": "Perfect for a late afternoon dip.",
-            "fr": "Parfait pour une baignade en fin d'après-midi."
+            "fr": "Parfait pour une baignade en fin d’après-midi."
           }
         }
       ],
@@ -166,7 +172,7 @@
         "hu": "Kezdje a napot az ókori római arénában, majd merüljön el a város középkori szívében. Egy provence-i ebéd után fedezze fel a múzeum régészeti kincseit. A délután a modern Port Fréjus jachtkikötőbe vezet, amelyet egy pihentető este követ a Côte d'Azur széles homokos strandján.",
         "ro": "Începeți ziua la arena romană antică, înainte de a pătrunde în inima medievală a orașului. După un prânz provensal, explorați comorile arheologice din muzeu. După-amiaza vă conduce la portul modern Port Fréjus, urmată de o seară relaxantă pe plaja lungă de nisip de pe Coasta de Azur.",
         "en": "Start your day at the ancient Roman arena before diving into the medieval heart of the city. After a Provençal lunch, explore the archaeological treasures in the museum. The afternoon leads you to the modern Port Fréjus marina, followed by a relaxing evening on the wide sandy beach of the Côte d'Azur.",
-        "fr": "Commencez votre journée aux arènes romaines antiques avant de plonger dans le cœur médiéval de la ville. Après un déjeuner provençal, explorez les trésors archéologiques du musée. L'après-midi vous mène à la marina moderne de Port Fréjus, suivie d'une soirée relaxante sur la large plage de sable de la Côte d'Azur."
+        "fr": "Commencez votre journée à l’antique arène romaine avant de plonger dans le cœur médiéval de la ville. Après un déjeuner provençal, explorez les trésors archéologiques du musée. L’après-midi vous mène à la marina moderne de Port Fréjus, suivie d’une soirée relaxante sur la large plage de sable de la Côte d’Azur."
       },
       "gastro_picks": {
         "de": [
@@ -341,7 +347,7 @@
         ],
         "fr": [
           "La ville se visite facilement à pied, mais portez des chaussures confortables.",
-          "Visitez le marché les mercredis ou samedis matins.",
+          "Visitez le marché le mercredi ou le samedi matin.",
           "Les ruines romaines sont dispersées dans toute la ville.",
           "Évitez le soleil de midi sur la plage."
         ]
@@ -352,7 +358,8 @@
             "de": "Beginnen Sie Ihren Tag in der antiken römischen Arena, bevor Sie in das mittelalte Herz der Stadt eintauchen. Nach einem provenzalischen Mittagessen erkunden Sie die archäologischen Schätze im Museum. Der Nachmittag führt Sie zum modernen Yachthafen Port Fréjus, gefolgt von einem entspannten Abend am breiten Sandstrand der Côte d'Azur.",
             "hu": "Kezdje a napot az ókori római arénában, majd merüljön el a város középkori szívében. Egy provence-i ebéd után fedezze fel a múzeum régészeti kincseit. A délután a modern Port Fréjus jachtkikötőbe vezet, amelyet egy pihentető este követ a Côte d'Azur széles homokos strandján.",
             "ro": "Începeți ziua la arena romană antică, înainte de a pătrunde în inima medievală a orașului. După un prânz provensal, explorați comorile arheologice din muzeu. După-amiaza vă conduce la portul modern Port Fréjus, urmată de o seară relaxantă pe plaja lungă de nisip de pe Coasta de Azur.",
-            "en": "Start your day at the ancient Roman arena before diving into the medieval heart of the city. After a Provençal lunch, explore the archaeological treasures in the museum. The afternoon leads you to the modern Port Fréjus marina, followed by a relaxing evening on the wide sandy beach of the Côte d'Azur."
+            "en": "Start your day at the ancient Roman arena before diving into the medieval heart of the city. After a Provençal lunch, explore the archaeological treasures in the museum. The afternoon leads you to the modern Port Fréjus marina, followed by a relaxing evening on the wide sandy beach of the Côte d'Azur.",
+            "fr": "Commencez votre journée à l’antique arène romaine avant de plonger dans le cœur médiéval de la ville. Après un déjeuner provençal, explorez les trésors archéologiques du musée. L’après-midi vous mène à la marina moderne de Port Fréjus, suivie d’une soirée relaxante sur la large plage de sable de la Côte d’Azur."
           },
           "stops": [
             {
@@ -360,13 +367,15 @@
                 "de": "Amphitheater von Fréjus",
                 "hu": "Fréjus-i amfiteátrum",
                 "ro": "Amfiteatrul din Fréjus",
-                "en": "Fréjus Amphitheatre"
+                "en": "Fréjus Amphitheatre",
+                "fr": "Fréjus Amphitheatre"
               },
               "tip_5lang": {
                 "de": "Früh kommen, um die Hitze zu vermeiden.",
                 "hu": "Érkezz korán, hogy elkerüld a hőséget.",
                 "ro": "Veniți devreme pentru a evita căldura.",
-                "en": "Arrive early to avoid the heat."
+                "en": "Arrive early to avoid the heat.",
+                "fr": "Arrivez tôt pour éviter la chaleur."
               }
             },
             {
@@ -374,13 +383,15 @@
                 "de": "Kathedrale Saint-Léonce",
                 "hu": "Saint-Léonce katedrális",
                 "ro": "Catedrala Saint-Léonce",
-                "en": "Saint-Léonce Cathedral"
+                "en": "Saint-Léonce Cathedral",
+                "fr": "Saint-Léonce Cathedral"
               },
               "tip_5lang": {
                 "de": "Besuchen Sie unbedingt den Kreuzgang aus dem 12. Jahrhundert.",
                 "hu": "Ne hagyja ki a 12. századi kolostort.",
                 "ro": "Nu ratați mănăstirea din secolul al XII-lea.",
-                "en": "Don't miss the 12th-century cloister."
+                "en": "Don't miss the 12th-century cloister.",
+                "fr": "Ne manquez pas le cloître du XIIe siècle."
               }
             },
             {
@@ -388,13 +399,15 @@
                 "de": "Altstadt Mittagessen",
                 "hu": "Óvárosi ebéd",
                 "ro": "Prânz în centrul vechi",
-                "en": "Old Town Lunch"
+                "en": "Old Town Lunch",
+                "fr": "Old Town Lunch"
               },
               "tip_5lang": {
                 "de": "Probieren Sie eine lokale Socca auf dem Markt.",
                 "hu": "Kóstoljon meg egy helyi soccát a piacon.",
                 "ro": "Gustați o socca locală în piață.",
-                "en": "Try a local socca at the market."
+                "en": "Try a local socca at the market.",
+                "fr": "Goûtez une socca locale au marché."
               }
             },
             {
@@ -402,13 +415,15 @@
                 "de": "Archäologisches Museum",
                 "hu": "Régészeti Múzeum",
                 "ro": "Muzeul de Arheologie",
-                "en": "Archaeological Museum"
+                "en": "Archaeological Museum",
+                "fr": "Archaeological Museum"
               },
               "tip_5lang": {
                 "de": "Bewundern Sie die Statue des zweigesichtigen Hermes.",
                 "hu": "Csodálja meg a kétarcú Hermész-szobrot.",
                 "ro": "Admirați statuia lui Hermes cu două fețe.",
-                "en": "Admire the double-faced Hermes statue."
+                "en": "Admire the double-faced Hermes statue.",
+                "fr": "Admirez la statue d’Hermès à deux visages."
               }
             },
             {
@@ -416,13 +431,15 @@
                 "de": "Port Fréjus",
                 "hu": "Port Fréjus kikötő",
                 "ro": "Port Fréjus",
-                "en": "Port Fréjus"
+                "en": "Port Fréjus",
+                "fr": "Port Fréjus"
               },
               "tip_5lang": {
                 "de": "Ein schöner Ort für einen Spaziergang zwischen den Yachten.",
                 "hu": "Kellemes hely egy sétához a jachtok között.",
                 "ro": "Un loc plăcut pentru o plimbare printre iahturi.",
-                "en": "A pleasant place for a stroll among the yachts."
+                "en": "A pleasant place for a stroll among the yachts.",
+                "fr": "Un endroit agréable pour se promener parmi les yachts."
               }
             },
             {
@@ -430,13 +447,15 @@
                 "de": "Strand von Fréjus",
                 "hu": "Fréjus-i strand",
                 "ro": "Plaja din Fréjus",
-                "en": "Fréjus Beach"
+                "en": "Fréjus Beach",
+                "fr": "Fréjus Beach"
               },
               "tip_5lang": {
                 "de": "Perfekt für ein Bad am späten Nachmittag.",
                 "hu": "Tökéletes egy késő délutáni mártózáshoz.",
                 "ro": "Perfect pentru o baie după-amiaza târziu.",
-                "en": "Perfect for a late afternoon dip."
+                "en": "Perfect for a late afternoon dip.",
+                "fr": "Parfait pour une baignade en fin d’après-midi."
               }
             }
           ],
@@ -582,6 +601,12 @@
               "Visit the market on Wednesday or Saturday mornings.",
               "The Roman ruins are scattered across the city.",
               "Avoid the midday sun on the beach."
+            ],
+            "fr": [
+              "La ville se visite facilement à pied, mais portez des chaussures confortables.",
+              "Visitez le marché le mercredi ou le samedi matin.",
+              "Les ruines romaines sont dispersées dans toute la ville.",
+              "Évitez le soleil de midi sur la plage."
             ]
           }
         },
@@ -591,7 +616,7 @@
             "hu": "A reggel a római amfiteátrum védő ívei alatt indul, miközben az eső a régi köveken dobog. \n\nDélben a katedrális kerengője kínál száraz és meditatív menedéket az időjárás elől. \n\nDélután a Régészeti Múzeum termei hívogatnak a történelem elmélyült, fedett felfedezésére. \n\nEste a viharos tengert figyelhetjük egy pohár bor mellett a kikötő egyik hangulatos kávézójának ablakából.",
             "ro": "Dimineața începe sub arcadele protectoare ale amfiteatrului roman, în timp ce ploaia bate în pietrele vechi. \n\nLa prânz, claustrul catedralei oferă un refugiu uscat și meditativ departe de intemperii. \n\nDupă-amiaza, sălile Muzeului Arheologic vă invită să aprofundați istoria la adăpost. \n\nSeara, marea agitată poate fi admirată cu un pahar de vin dintr-o cafenea primitoare din port.",
             "en": "The morning begins under the protective arches of the Roman amphitheatre as rain drums on the ancient stones. \n\nAt noon, the cathedral cloisters provide a dry and meditative retreat from the weather. \n\nIn the afternoon, the halls of the Archaeological Museum invite you to explore history in the dry. \n\nIn the evening, watch the stormy sea with a glass of wine from one of the cozy cafes at the port.",
-            "fr": "La matinée commence sous les arches protectrices de l'amphithéâtre romain alors que la pluie tambourine sur les pierres anciennes. \n\nÀ midi, le cloître de la cathédrale offre une retraite sèche et méditative loin des intempéries. \n\nL'après-midi, les salles du Musée archéologique vous invitent à explorer l'histoire à l'abri. \n\nLe soir, observez la mer agitée avec un verre de vin dans l'un des cafés accueillants du port."
+            "fr": "La matinée commence sous les arches protectrices de l’amphithéâtre romain tandis que la pluie tambourine sur les pierres anciennes.\n\nÀ midi, le cloître de la cathédrale offre un refuge sec et méditatif contre les intempéries.\n\nL’après-midi, les salles du Musée Archéologique vous invitent à explorer l’histoire à l’abri.\n\nLe soir, regardez la mer agitée en dégustant un verre de vin dans l’un des cafés cosy du port."
           },
           "stops": [
             {
@@ -601,7 +626,7 @@
                 "hu": "Keressen menedéket a masszív római kőívek alatt.",
                 "ro": "Căutați adăpost sub arcadele masive de piatră romană.",
                 "en": "Seek shelter under the massive Roman stone arches.",
-                "fr": "Cherchez refuge sous les massives arches romaines en pierre."
+                "fr": "Cherchez un abri sous les massives arches de pierre romaines."
               }
             },
             {
@@ -611,7 +636,7 @@
                 "hu": "A fedett kerengő ideális egy száraz sétához.",
                 "ro": "Cloastrul acoperit este ideal pentru o vizită la adăpost.",
                 "en": "The covered cloister is ideal for a walk in the dry.",
-                "fr": "Le cloître couvert est idéal pour une promenade au sec."
+                "fr": "Le cloître couvert est idéal pour une promenade à l’abri."
               }
             },
             {
@@ -631,7 +656,7 @@
                 "hu": "Tökéletes hely az időtöltésre egy zápor alatt.",
                 "ro": "Locul perfect pentru a petrece timpul în timpul unei averse.",
                 "en": "Perfect place to spend time during a rain shower.",
-                "fr": "Lieu parfait pour passer du temps pendant une averse."
+                "fr": "Endroit parfait pour attendre pendant une averse."
               }
             },
             {
@@ -651,7 +676,7 @@
                 "hu": "Élvezze a drámai kilátást a szürke tengerre.",
                 "ro": "Bucurați-vă de vederea dramatică a mării cenușii.",
                 "en": "Enjoy the dramatic view of the grey sea.",
-                "fr": "Appréciez la vue spectaculaire sur la mer grise."
+                "fr": "Profitez de la vue dramatique sur la mer grise."
               }
             }
           ],
@@ -687,9 +712,9 @@
             "fr": [
               "Un parapluie solide est essentiel avec les vents côtiers.",
               "Portez des chaussures imperméables pour les pavés glissants.",
-              "Utilisez les nombreux musées comme points de repère au sec.",
+              "Utilisez les nombreux musées comme étapes sèches.",
               "Les ruelles de la vieille ville offrent une protection naturelle contre les vents latéraux.",
-              "Cherchez les petites galeries pour des pauses spontanées."
+              "Cherchez de petites galeries pour des pauses improvisées."
             ]
           }
         },
@@ -699,7 +724,7 @@
             "hu": "Az amfiteátrum ragyog a tiszta, hideg reggeli levegőben a téli napsütésben. \n\nDélben az óvárosban egy tipikus provence-i levessel melegedhetünk fel. \n\nDélután a múzeum nyújt menedéket a hűvös tengeri szellő elől és betekintést az ókorba. \n\nEste látványos naplementét élhetünk át a kikötőben, mielőtt korán besötétedne.",
             "ro": "Amfiteatrul strălucește în aerul limpede și rece al dimineții sub soarele de iarnă. \n\nLa prânz, vă puteți încălzi în orașul vechi cu o supă tipic provensală. \n\nDupă-amiaza, muzeul oferă adăpost împotriva brizei răcoroase a mării și o incursiune în antichitate. \n\nSpre seară, veți vedea un apus spectaculos în port, înainte ca întunericul să se lase devreme.",
             "en": "The amphitheatre shines in the clear, cold morning air under the winter sun. \n\nAt noon, warm up in the old town with a typical Provencal soup. \n\nIn the afternoon, the museum offers shelter from the cool sea breeze and insights into antiquity. \n\nTowards evening, experience a spectacular sunset at the port before it gets dark early.",
-            "fr": "L'amphithéâtre brille dans l'air matinal clair et froid sous le soleil d'hiver. \n\nÀ midi, réchauffez-vous dans la vieille ville avec une soupe provençale typique. \n\nL'après-midi, le musée offre un abri contre la brise marine fraîche et des aperçus de l'Antiquité. \n\nVers le soir, vivez un coucher de soleil spectaculaire au port avant que l'obscurité ne tombe tôt."
+            "fr": "L’amphithéâtre brille dans l’air clair et froid du matin sous le soleil d’hiver.\n\nÀ midi, réchauffez-vous en ville avec une soupe provençale typique.\n\nL’après-midi, le musée offre un abri contre la brise fraîche de mer et des éclairages sur l’Antiquité.\n\nEn fin de journée, admirez un spectaculaire coucher de soleil au port avant la tombée précoce de la nuit."
           },
           "stops": [
             {
@@ -709,7 +734,7 @@
                 "hu": "Remek fények a fotózáshoz, de vigyázzon a hideg huzattal.",
                 "ro": "Lumină excelentă pentru fotografii, dar atenție la curentul rece.",
                 "en": "Great photo light, but watch out for cold drafts.",
-                "fr": "Excellente lumière pour les photos, mais attention aux courants d'air froid."
+                "fr": "Excellente lumière pour les photos, mais attention aux courants d'air froids."
               }
             },
             {
@@ -749,7 +774,7 @@
                 "hu": "Korai naplemente 17:00 körül, tervezzen időben.",
                 "ro": "Apus de soare devreme în jur de 17:00, planificați din timp.",
                 "en": "Early sunset around 17:00; plan ahead.",
-                "fr": "Coucher de soleil précoce vers 17h00 ; prévoyez à l'avance."
+                "fr": "Coucher du soleil tôt vers 17:00 ; planifiez à l'avance."
               }
             },
             {
@@ -759,7 +784,7 @@
                 "hu": "Egy gyors séta a tiszta téli levegőben felfrissít.",
                 "ro": "O plimbare rapidă în aerul curat de iarnă este revigorantă.",
                 "en": "A brisk walk in the clear winter air is invigorating.",
-                "fr": "Une marche rapide dans l'air pur de l'hiver est revigorante."
+                "fr": "Une marche vive dans l'air clair d'hiver est revigorante."
               }
             }
           ],
@@ -793,11 +818,11 @@
               "A hot cocoa in the old town helps against the cold."
             ],
             "fr": [
-              "Des vêtements superposés protègent du Mistral.",
+              "Les vêtements en couches protègent du vent du Mistral.",
               "Le soleil d'hiver est fort ; n'oubliez pas la protection UV.",
-              "De nombreux cafés ferment plus tôt en hiver ; vérifiez les horaires.",
-              "Profitez des heures de midi pour les visites en extérieur.",
-              "Un chocolat chaud dans la vieille ville aide à lutter contre le froid."
+              "Beaucoup de cafés ferment plus tôt en hiver ; vérifiez les horaires d'ouverture.",
+              "Profitez des heures de midi pour visiter en extérieur.",
+              "Un chocolat chaud dans la vieille ville aide contre le froid."
             ]
           }
         }
@@ -816,7 +841,8 @@
             "de": "Amphitheater",
             "hu": "Amfiteátrum",
             "ro": "Amfiteatru",
-            "en": "Amphitheatre"
+            "en": "Amphitheatre",
+            "fr": "Amphithéâtre"
           },
           "coords": [
             6.728,
@@ -832,7 +858,7 @@
             "hu": "Biztonságos kerékpártároló a közelben.",
             "ro": "Parcare sigură pentru biciclete în apropiere.",
             "en": "Secure bike parking nearby.",
-            "fr": "Parking vélo sécurisé à proximité."
+            "fr": "Parking sécurisé pour vélos à proximité."
           }
         },
         {
@@ -840,7 +866,8 @@
             "de": "Pagode Hong Hien",
             "hu": "Hong Hien pagoda",
             "ro": "Pagoda Hong Hien",
-            "en": "Hong Hien Pagoda"
+            "en": "Hong Hien Pagoda",
+            "fr": "Pagode Hong Hien"
           },
           "coords": [
             6.752,
@@ -864,7 +891,8 @@
             "de": "Port Fréjus",
             "hu": "Port Fréjus",
             "ro": "Port Fréjus",
-            "en": "Port Fréjus"
+            "en": "Port Fréjus",
+            "fr": "Port Fréjus"
           },
           "coords": [
             6.749,
@@ -880,7 +908,7 @@
             "hu": "Kerekezzen végig a rakpartokon.",
             "ro": "Pedalați de-a lungul cheiurilor.",
             "en": "Cycle along the quays.",
-            "fr": "Pédalez le long des quais."
+            "fr": "Roulez le long des quais."
           }
         },
         {
@@ -888,7 +916,8 @@
             "de": "Saint-Raphaël Promenade",
             "hu": "Saint-Raphaël sétány",
             "ro": "Promenada Saint-Raphaël",
-            "en": "Saint-Raphaël Promenade"
+            "en": "Saint-Raphaël Promenade",
+            "fr": "Promenade de Saint-Raphaël"
           },
           "coords": [
             6.767,
@@ -904,7 +933,7 @@
             "hu": "Élvezze a tengeri kilátást tekerés közben.",
             "ro": "Bucurați-vă de vederea la mare în timp ce pedalați.",
             "en": "Enjoy the sea view while riding.",
-            "fr": "Profitez de la vue sur la mer en roulant."
+            "fr": "Profitez de la vue sur la mer en pédalant."
           }
         },
         {
@@ -912,7 +941,8 @@
             "de": "Base Nature",
             "hu": "Base Nature szabadidőpark",
             "ro": "Base Nature",
-            "en": "Base Nature"
+            "en": "Base Nature",
+            "fr": "Base Nature"
           },
           "coords": [
             6.745,
@@ -936,7 +966,8 @@
             "de": "Sunset Strandpause",
             "hu": "Naplementés strandolás",
             "ro": "Pauză de plajă la apus",
-            "en": "Sunset Beach Break"
+            "en": "Sunset Beach Break",
+            "fr": "Pause plage au coucher du soleil"
           },
           "coords": [
             6.755,
@@ -961,7 +992,7 @@
         "hu": "Fedezze fel Fréjus-t és a szomszédos Saint-Raphaël-t két keréken. A római romoktól az egzotikus Hong Hien pagodáig vezet az út, majd le a tengerhez. Élvezze a part menti sík kerékpárutakat, haladjon át a Base Nature parkon, és zárja a napot egy kellemes naplementés tekeréssel a parton.",
         "ro": "Explorați Fréjus și orașul vecin Saint-Raphaël pe două roți. De la ruinele romane, drumul vă duce la pagoda exotică Hong Hien și apoi jos la mare. Bucurați-vă de pistele plate de biciclete de-a lungul coastei, traversați parcul Base Nature și încheiați ziua cu o plimbare ușoară la apus pe țărm.",
         "en": "Explore Fréjus and neighboring Saint-Raphaël on two wheels. From the Roman ruins, the path leads to the exotic Hong Hien Pagoda and then down to the sea. Enjoy the flat bike paths along the coast, pass through the Base Nature park, and end the day with a gentle sunset ride by the shore.",
-        "fr": "Explorez Fréjus et la ville voisine de Saint-Raphaël sur deux roues. Des ruines romaines, le chemin mène à l'exotique pagode Hong Hien, puis descend vers la mer. Profitez des pistes cyclables plates le long de la côte, traversez le parc de la Base Nature et terminez la journée par une douce balade au coucher du soleil au bord du rivage."
+        "fr": "Explorez Fréjus et la voisine Saint-Raphaël à vélo. Des ruines romaines, le chemin mène à l'exotique Pagode Hong Hien puis jusqu'à la mer. Profitez des pistes cyclables plates le long de la côte, traversez le parc Base Nature et terminez la journée par une douce balade au coucher du soleil au bord de l'eau."
       },
       "gastro_picks": {
         "de": [
@@ -1135,8 +1166,8 @@
           "Always lock your bike."
         ],
         "fr": [
-          "Louez un vélo électrique si vous voulez vous aventurer plus loin dans les terres.",
-          "Faites attention aux piétons sur la promenade.",
+          "Louez un VAE si vous voulez vous aventurer plus à l'intérieur des terres.",
+          "Attention aux piétons sur la promenade.",
           "Portez toujours un casque.",
           "Verrouillez toujours votre vélo."
         ]
@@ -1147,7 +1178,8 @@
             "de": "Erkunden Sie Fréjus und das benachbarte Saint-Raphaël auf zwei Rädern. Von den römischen Ruinen führt Sie der Weg zur exotischen Pagode Hong Hien und dann hinunter zum Meer. Genießen Sie die flachen Radwege entlang der Küste, durchqueren Sie die Base Nature und beenden Sie den Tag mit einer sanften Fahrt bei Sonnenuntergang am Ufer.",
             "hu": "Fedezze fel Fréjus-t és a szomszédos Saint-Raphaël-t két keréken. A római romoktól az egzotikus Hong Hien pagodáig vezet az út, majd le a tengerhez. Élvezze a part menti sík kerékpárutakat, haladjon át a Base Nature parkon, és zárja a napot egy kellemes naplementés tekeréssel a parton.",
             "ro": "Explorați Fréjus și orașul vecin Saint-Raphaël pe două roți. De la ruinele romane, drumul vă duce la pagoda exotică Hong Hien și apoi jos la mare. Bucurați-vă de pistele plate de biciclete de-a lungul coastei, traversați parcul Base Nature și încheiați ziua cu o plimbare ușoară la apus pe țărm.",
-            "en": "Explore Fréjus and neighboring Saint-Raphaël on two wheels. From the Roman ruins, the path leads to the exotic Hong Hien Pagoda and then down to the sea. Enjoy the flat bike paths along the coast, pass through the Base Nature park, and end the day with a gentle sunset ride by the shore."
+            "en": "Explore Fréjus and neighboring Saint-Raphaël on two wheels. From the Roman ruins, the path leads to the exotic Hong Hien Pagoda and then down to the sea. Enjoy the flat bike paths along the coast, pass through the Base Nature park, and end the day with a gentle sunset ride by the shore.",
+            "fr": "Explorez Fréjus et la voisine Saint-Raphaël à vélo. Des ruines romaines, le chemin mène à l'exotique Pagode Hong Hien puis jusqu'à la mer. Profitez des pistes cyclables plates le long de la côte, traversez le parc Base Nature et terminez la journée par une douce balade au coucher du soleil au bord de l'eau."
           },
           "stops": [
             {
@@ -1155,13 +1187,15 @@
                 "de": "Amphitheater",
                 "hu": "Amfiteátrum",
                 "ro": "Amfiteatru",
-                "en": "Amphitheatre"
+                "en": "Amphitheatre",
+                "fr": "Amphithéâtre"
               },
               "tip_5lang": {
                 "de": "Sicherer Fahrradabstellplatz in der Nähe.",
                 "hu": "Biztonságos kerékpártároló a közelben.",
                 "ro": "Parcare sigură pentru biciclete în apropiere.",
-                "en": "Secure bike parking nearby."
+                "en": "Secure bike parking nearby.",
+                "fr": "Parking sécurisé pour vélos à proximité."
               }
             },
             {
@@ -1169,13 +1203,15 @@
                 "de": "Pagode Hong Hien",
                 "hu": "Hong Hien pagoda",
                 "ro": "Pagoda Hong Hien",
-                "en": "Hong Hien Pagoda"
+                "en": "Hong Hien Pagoda",
+                "fr": "Pagode Hong Hien"
               },
               "tip_5lang": {
                 "de": "Ein Hauch von Asien in der Provence.",
                 "hu": "Egy csipetnyi Ázsia Provence-ban.",
                 "ro": "O notă de Asia în Provence.",
-                "en": "A touch of Asia in Provence."
+                "en": "A touch of Asia in Provence.",
+                "fr": "Une touche d'Asie en Provence."
               }
             },
             {
@@ -1183,13 +1219,15 @@
                 "de": "Port Fréjus",
                 "hu": "Port Fréjus",
                 "ro": "Port Fréjus",
-                "en": "Port Fréjus"
+                "en": "Port Fréjus",
+                "fr": "Port Fréjus"
               },
               "tip_5lang": {
                 "de": "Fahren Sie entlang der Kais.",
                 "hu": "Kerekezzen végig a rakpartokon.",
                 "ro": "Pedalați de-a lungul cheiurilor.",
-                "en": "Cycle along the quays."
+                "en": "Cycle along the quays.",
+                "fr": "Roulez le long des quais."
               }
             },
             {
@@ -1197,13 +1235,15 @@
                 "de": "Saint-Raphaël Promenade",
                 "hu": "Saint-Raphaël sétány",
                 "ro": "Promenada Saint-Raphaël",
-                "en": "Saint-Raphaël Promenade"
+                "en": "Saint-Raphaël Promenade",
+                "fr": "Promenade de Saint-Raphaël"
               },
               "tip_5lang": {
                 "de": "Genießen Sie den Blick auf das Meer während der Fahrt.",
                 "hu": "Élvezze a tengeri kilátást tekerés közben.",
                 "ro": "Bucurați-vă de vederea la mare în timp ce pedalați.",
-                "en": "Enjoy the sea view while riding."
+                "en": "Enjoy the sea view while riding.",
+                "fr": "Profitez de la vue sur la mer en pédalant."
               }
             },
             {
@@ -1211,13 +1251,15 @@
                 "de": "Base Nature",
                 "hu": "Base Nature szabadidőpark",
                 "ro": "Base Nature",
-                "en": "Base Nature"
+                "en": "Base Nature",
+                "fr": "Base Nature"
               },
               "tip_5lang": {
                 "de": "Ein riesiger Park mit Radwegen.",
                 "hu": "Hatalmas park kerékpárutakkal.",
                 "ro": "Un parc imens cu piste pentru biciclete.",
-                "en": "A huge park with bike paths."
+                "en": "A huge park with bike paths.",
+                "fr": "Un immense parc avec des pistes cyclables."
               }
             },
             {
@@ -1225,13 +1267,15 @@
                 "de": "Sunset Strandpause",
                 "hu": "Naplementés strandolás",
                 "ro": "Pauză de plajă la apus",
-                "en": "Sunset Beach Break"
+                "en": "Sunset Beach Break",
+                "fr": "Pause plage au coucher du soleil"
               },
               "tip_5lang": {
                 "de": "Der perfekte Abschluss für eine Radtour.",
                 "hu": "A tökéletes befejezés egy kerékpártúrához.",
                 "ro": "Finalul perfect pentru o tură cu bicicleta.",
-                "en": "The perfect end to a bike tour."
+                "en": "The perfect end to a bike tour.",
+                "fr": "La fin parfaite d'une balade à vélo."
               }
             }
           ],
@@ -1377,6 +1421,12 @@
               "Watch out for pedestrians on the promenade.",
               "Always wear a helmet.",
               "Always lock your bike."
+            ],
+            "fr": [
+              "Louez un VAE si vous voulez vous aventurer plus à l'intérieur des terres.",
+              "Attention aux piétons sur la promenade.",
+              "Portez toujours un casque.",
+              "Verrouillez toujours votre vélo."
             ]
           }
         },
@@ -1386,7 +1436,7 @@
             "hu": "Az út óvatosan indul az amfiteátrumnál a nedves aszfalton. \n\nDélben a pagoda a csend pillanatát és védelmet nyújt az előtetők alatt. \n\nDélután gyorsan tekerünk a kikötő mentén, ahol a kávézók száraz szüneteket biztosítanak. \n\nA nap hűvös szellővel zárul a Base Nature-nél, mielőtt a melegbe vonulnánk.",
             "ro": "Călătoria începe cu prudență la amfiteatru pe asfaltul umed. \n\nLa prânz, pagoda oferă un moment de liniște și adăpost sub streșini. \n\nDupă-amiaza, pedalați rapid de-a lungul portului, unde cafenelele permit pauze uscate. \n\nZiua se încheie cu o briză răcoroasă la Base Nature, înainte de a vă retrage la căldură.",
             "en": "The ride starts cautiously at the amphitheatre on wet asphalt. \n\nAt noon, the pagoda offers a moment of silence and shelter under its eaves. \n\nIn the afternoon, cycle quickly along the port, where cafes allow for dry breaks. \n\nThe day ends with a cool breeze at Base Nature before retreating to warmth.",
-            "fr": "La balade commence prudemment à l'amphithéâtre sur l'asphalte mouillé. \n\nÀ midi, la pagode offre un moment de silence et un abri sous ses avant-toits. \n\nL'après-midi, pédalez rapidement le long du port, où les cafés permettent des pauses au sec. \n\nLa journée se termine par une brise fraîche à la Base Nature avant de se retirer au chaud."
+            "fr": "La sortie commence prudemment à l'amphithéâtre sur bitume humide.\n\nÀ midi, la pagode offre un moment de silence et un abri sous ses toits.\n\nL'après-midi, pédalez rapidement le long du port, où les cafés permettent des pauses au sec.\n\nLa journée se termine par une brise fraîche à Base Nature avant de retrouver la chaleur."
           },
           "stops": [
             {
@@ -1396,7 +1446,7 @@
                 "hu": "Vigyázzon a csúszós kövekre a leszálláskor.",
                 "ro": "Atenție la pietrele alunecoase când coborâți de pe bicicletă.",
                 "en": "Watch out for slippery stones when dismounting.",
-                "fr": "Attention aux pierres glissantes en descendant de vélo."
+                "fr": "Attention aux pierres glissantes en descendant du vélo."
               }
             },
             {
@@ -1406,7 +1456,7 @@
                 "hu": "Parkolja a biciklit a fák alá a némi esővédelemért.",
                 "ro": "Parcați bicicleta sub copaci pentru puțină protecție contra ploii.",
                 "en": "Park your bike under the trees for some rain protection.",
-                "fr": "Garez votre vélo sous les arbres pour une certaine protection contre la pluie."
+                "fr": "Garez votre vélo sous les arbres pour une protection contre la pluie."
               }
             },
             {
@@ -1426,7 +1476,7 @@
                 "hu": "Ügyeljen a tócsákra a közvetlenül a tenger melletti úton.",
                 "ro": "Atenție la bălți pe pista de biciclete direct de pe malul mării.",
                 "en": "Watch out for puddles on the bike path right by the sea.",
-                "fr": "Attention aux flaques d'eau sur la piste cyclable en bord de mer."
+                "fr": "Attention aux flaques sur la piste cyclable au bord de la mer."
               }
             },
             {
@@ -1446,7 +1496,7 @@
                 "hu": "Rövid megálló a fotóhoz, aztán irány a száraz hely.",
                 "ro": "Oprire scurtă pentru fotografie, apoi direcția spre uscat.",
                 "en": "Short stop for the photo, then head to a dry place.",
-                "fr": "Arrêt rapide pour la photo, puis direction un endroit sec."
+                "fr": "Courte pause pour la photo, puis rejoignez un endroit sec."
               }
             }
           ],
@@ -1480,11 +1530,11 @@
               "Always wipe the saddle dry before continuing your ride."
             ],
             "fr": [
-              "Des garde-boue sur le vélo évitent de mouiller les vêtements.",
-              "Évitez les manœuvres de freinage brusques sur l'asphalte mouillé.",
-              "Une veste de pluie avec une capuche sous le casque est idéale.",
+              "Des garde-boue sur le vélo évitent les vêtements mouillés.",
+              "Évitez les freinages brusques sur le bitume mouillé.",
+              "Une veste imperméable avec capuche sous le casque est idéale.",
               "Allumez les lumières car il fait plus sombre quand il pleut.",
-              "Essuyez toujours la selle avant de continuer votre route."
+              "Essuyez toujours la selle avant de reprendre votre route."
             ]
           }
         },
@@ -1494,7 +1544,7 @@
             "hu": "Biciklivel vágunk át a friss reggeli levegőben az amfiteátrum mellett. \n\nDélben a nap megmelegíti a pagodát, ami ideális hely egy rövid pihenőhöz. \n\nA délután a kikötőben élénkítő, amíg mozgásban maradunk a szélben. \n\nEste a Base Nature-ön tekerünk keresztül, miközben a nap korán eltűnik a dombok mögött.",
             "ro": "Cu bicicleta treceți prin aerul curat al dimineții pe lângă amfiteatru. \n\nLa prânz, soarele încălzește pagoda, un loc ideal pentru un scurt popas. \n\nDupă-amiaza în port este revigorantă, atâta timp cât rămâneți în mișcare. \n\nSpre seară, pedalați prin Base Nature, în timp ce soarele dispare devreme în spatele dealurilor.",
             "en": "Cycle through the fresh morning air past the amphitheatre. \n\nAt noon, the sun warms the pagoda, an ideal spot for a short rest. \n\nThe afternoon at the port is invigorating as long as you stay moving in the wind. \n\nTowards evening, cycle through Base Nature as the sun disappears early behind the hills.",
-            "fr": "Pédalez dans l'air frais du matin en passant devant l'amphithéâtre. \n\nÀ midi, le soleil réchauffe la pagode, un endroit idéal pour un court repos. \n\nL'après-midi au port est revigorant tant que vous restez en mouvement dans le vent. \n\nVers le soir, traversez la Base Nature alors que le soleil disparaît tôt derrière les collines."
+            "fr": "Parcourez l'air frais du matin à vélo devant l'amphithéâtre.\n\nÀ midi, le soleil réchauffe la pagode, un endroit idéal pour une courte pause.\n\nL'après-midi au port est vivifiant tant que vous restez en mouvement face au vent.\n\nEn soirée, traversez Base Nature à vélo alors que le soleil disparaît tôt derrière les collines."
           },
           "stops": [
             {
@@ -1504,7 +1554,7 @@
                 "hu": "Viseljen kesztyűt a hideg menetszél ellen.",
                 "ro": "Purtați mănuși împotriva vântului rece de deplasare.",
                 "en": "Wear gloves against the cold wind while riding.",
-                "fr": "Portez des gants contre le vent froid en roulant."
+                "fr": "Portez des gants contre le vent froid pendant la balade."
               }
             },
             {
@@ -1514,7 +1564,7 @@
                 "hu": "Használja a legnaposabb pontot egy melegítő szünethez.",
                 "ro": "Folosiți cel mai însorit punct pentru o pauză de încălzire.",
                 "en": "Use the sunniest spot for a warm-up break.",
-                "fr": "Utilisez l'endroit le plus ensoleillé pour une pause réchauffante."
+                "fr": "Utilisez l'endroit le plus ensoleillé pour une pause de réchauffement."
               }
             },
             {
@@ -1524,7 +1574,7 @@
                 "hu": "A kikötői szél télen nagyon metsző lehet.",
                 "ro": "Vântul din port poate fi foarte tăios iarna.",
                 "en": "The wind in the port can be very biting in winter.",
-                "fr": "Le vent sur le port peut être très mordant en hiver."
+                "fr": "Le vent au port peut être très mordant en hiver."
               }
             },
             {
@@ -1534,7 +1584,7 @@
                 "hu": "Jó kilátás az Esterel-hegyekre a tiszta téli levegőben.",
                 "ro": "Vizibilitate bună asupra munților Esterel în aerul curat de iarnă.",
                 "en": "Good visibility of the Esterel mountains in the clear winter air.",
-                "fr": "Belle visibilité sur les montagnes de l'Esterel dans l'air clair de l'hiver."
+                "fr": "Bonne visibilité des montagnes de l'Estérel dans l'air clair d'hiver."
               }
             },
             {
@@ -1544,7 +1594,7 @@
                 "hu": "Nagy terület, ideális a mozgással való melegen maradáshoz.",
                 "ro": "Zonă mare, ideală pentru a vă menține cald prin mișcare.",
                 "en": "Large area, ideal for staying warm through movement.",
-                "fr": "Grande zone, idéale pour rester au chaud grâce au mouvement."
+                "fr": "Grande étendue, idéale pour rester au chaud en bougeant."
               }
             },
             {
@@ -1554,7 +1604,7 @@
                 "hu": "A kerékpáros világítás 16:30-tól kötelező.",
                 "ro": "Luminile la bicicletă sunt obligatorii după ora 16:30.",
                 "en": "Bike lights are mandatory from 16:30.",
-                "fr": "L'éclairage du vélo est obligatoire à partir de 16h30."
+                "fr": "Les éclairages de vélo sont obligatoires à partir de 16:30."
               }
             }
           ],
@@ -1588,11 +1638,11 @@
               "Apply lip balm against the cold wind."
             ],
             "fr": [
-              "Des vêtements coupe-vent sont plus importants qu'un rembourrage épais.",
-              "Vérifiez la pression des pneus ; elle chute souvent avec le froid.",
+              "Un vêtement coupe-vent est plus important qu'un épais rembourrage.",
+              "Vérifiez la pression des pneus ; elle baisse souvent par temps froid.",
               "Emportez une boisson chaude dans un thermos.",
-              "Prévoyez l'itinéraire pour être de retour avant la nuit.",
-              "Appliquez du baume à lèvres contre le vent froid."
+              "Planifiez l'itinéraire pour être de retour avant la nuit.",
+              "Appliquez un baume à lèvres contre le vent froid."
             ]
           }
         }
@@ -1611,7 +1661,8 @@
             "de": "Barrage de Malpasset",
             "hu": "Malpasset-gát romjai",
             "ro": "Barajul Malpasset",
-            "en": "Malpasset Dam Ruins"
+            "en": "Malpasset Dam Ruins",
+            "fr": "Ruines du barrage de Malpasset"
           },
           "coords": [
             6.758,
@@ -1635,7 +1686,8 @@
             "de": "Römischer Aquädukt",
             "hu": "Római vízvezeték",
             "ro": "Apeductul roman",
-            "en": "Roman Aqueduct"
+            "en": "Roman Aqueduct",
+            "fr": "Aqueduc romain"
           },
           "coords": [
             6.745,
@@ -1651,7 +1703,7 @@
             "hu": "Az ókori vízellátás maradványai.",
             "ro": "Rămășițele alimentării antice cu apă.",
             "en": "Remains of the ancient water supply.",
-            "fr": "Vestiges de l'ancien approvisionnement en eau."
+            "fr": "Vestiges de l'alimentation en eau antique."
           }
         },
         {
@@ -1659,7 +1711,8 @@
             "de": "Mittagessen in der Stadt",
             "hu": "Városi ebéd",
             "ro": "Prânz în oraș",
-            "en": "Lunch in the City"
+            "en": "Lunch in the City",
+            "fr": "Déjeuner en ville"
           },
           "coords": [
             6.737,
@@ -1675,7 +1728,7 @@
             "hu": "Parkoljon a 'Porte d'Orée' parkolóházban.",
             "ro": "Parcați în parcarea 'Porte d'Orée'.",
             "en": "Park in the 'Porte d'Orée' parking garage.",
-            "fr": "Garez-vous dans le parking 'Porte d'Orée'."
+            "fr": "Garez-vous au parking 'Porte d'Orée'."
           }
         },
         {
@@ -1683,7 +1736,8 @@
             "de": "Massif de l'Esterel (Aussichtspunkt)",
             "hu": "Esterel-hegység (kilátópont)",
             "ro": "Masivul Esterel (punct panoramic)",
-            "en": "Esterel Massif (Viewpoint)"
+            "en": "Esterel Massif (Viewpoint)",
+            "fr": "Massif de l'Estérel (Belvédère)"
           },
           "coords": [
             6.85,
@@ -1707,7 +1761,8 @@
             "de": "Strand von Saint-Aygulf",
             "hu": "Saint-Aygulf strandja",
             "ro": "Plaja Saint-Aygulf",
-            "en": "Saint-Aygulf Beach"
+            "en": "Saint-Aygulf Beach",
+            "fr": "Plage de Saint-Aygulf"
           },
           "coords": [
             6.72,
@@ -1723,7 +1778,7 @@
             "hu": "Széles strandok könnyű parkolással.",
             "ro": "Plaje largi cu parcare facilă.",
             "en": "Wide beaches with easy parking.",
-            "fr": "Plages larges avec parking facile."
+            "fr": "Plages étendues avec stationnement facile."
           }
         }
       ],
@@ -1732,7 +1787,7 @@
         "hu": "Autóval elérheti Fréjus távolabbi csodáit is. Kezdje a Malpasset-gát tragikus történetével, mielőtt meglátogatná a római vízvezetéket. Ebéd után egy festői autózás vezet az Esterel-hegységbe, annak jellegzetes vörös szikláihoz, a nap pedig Saint-Aygulf tágas strandjain ér véget.",
         "ro": "Cu mașina, puteți ajunge la minunile mai îndepărtate ale Fréjus-ului. Începeți cu istoria tragică a barajului Malpasset, înainte de a vizita apeductul roman. După prânz, o plimbare pitorească vă duce în masivul Esterel, cu stâncile sale roșii distinctive, și se încheie cu o după-amiază relaxantă pe plajele întinse din Saint-Aygulf.",
         "en": "By car, you can reach the more remote wonders of Fréjus. Start with the tragic history of the Malpasset Dam before visiting the Roman aqueduct. After lunch, a scenic drive leads you into the Esterel Massif with its striking red rocks, ending with a relaxing afternoon at the sprawling beaches of Saint-Aygulf.",
-        "fr": "En voiture, vous pouvez atteindre les merveilles plus reculées de Fréjus. Commencez par l'histoire tragique du barrage de Malpasset avant de visiter l'aqueduc romain. Après le déjeuner, une route panoramique vous mène dans le massif de l'Esterel avec ses roches rouges frappantes, pour finir par un après-midi de détente sur les vastes plages de Saint-Aygulf."
+        "fr": "En voiture, vous pouvez atteindre les merveilles plus isolées de Fréjus. Commencez par l'histoire tragique du barrage de Malpasset avant de visiter l'aqueduc romain. Après le déjeuner, une route panoramique vous mène dans le massif de l'Estérel avec ses roches rouges saisissantes, pour finir par un après-midi relaxant sur les vastes plages de Saint-Aygulf."
       },
       "gastro_picks": {
         "de": [
@@ -1907,9 +1962,9 @@
         ],
         "fr": [
           "Réservez le parking à l'avance si possible.",
-          "Les routes de l'Esterel peuvent être étroites.",
+          "Les routes dans l'Estérel peuvent être étroites.",
           "Évitez les heures de pointe entre Fréjus et Saint-Raphaël.",
-          "Faites attention aux sangliers près de la forêt."
+          "Attention aux sangliers près de la forêt."
         ]
       },
       "variants": {
@@ -1918,7 +1973,8 @@
             "de": "Mit dem Auto erreichen Sie die abgelegeneren Wunder von Fréjus. Beginnen Sie mit der tragischen Geschichte der Malpasset-Talsperre, bevor Sie den römischen Aquädukt besuchen. Nach dem Mittagessen führt Sie eine malerische Fahrt in das Esterel-Massiv mit seinen markanten roten Felsen und endet mit einem entspannten Nachmittag an den weitläufigen Stränden von Saint-Aygulf.",
             "hu": "Autóval elérheti Fréjus távolabbi csodáit is. Kezdje a Malpasset-gát tragikus történetével, mielőtt meglátogatná a római vízvezetéket. Ebéd után egy festői autózás vezet az Esterel-hegységbe, annak jellegzetes vörös szikláihoz, a nap pedig Saint-Aygulf tágas strandjain ér véget.",
             "ro": "Cu mașina, puteți ajunge la minunile mai îndepărtate ale Fréjus-ului. Începeți cu istoria tragică a barajului Malpasset, înainte de a vizita apeductul roman. După prânz, o plimbare pitorească vă duce în masivul Esterel, cu stâncile sale roșii distinctive, și se încheie cu o după-amiază relaxantă pe plajele întinse din Saint-Aygulf.",
-            "en": "By car, you can reach the more remote wonders of Fréjus. Start with the tragic history of the Malpasset Dam before visiting the Roman aqueduct. After lunch, a scenic drive leads you into the Esterel Massif with its striking red rocks, ending with a relaxing afternoon at the sprawling beaches of Saint-Aygulf."
+            "en": "By car, you can reach the more remote wonders of Fréjus. Start with the tragic history of the Malpasset Dam before visiting the Roman aqueduct. After lunch, a scenic drive leads you into the Esterel Massif with its striking red rocks, ending with a relaxing afternoon at the sprawling beaches of Saint-Aygulf.",
+            "fr": "En voiture, vous pouvez atteindre les merveilles plus isolées de Fréjus. Commencez par l'histoire tragique du barrage de Malpasset avant de visiter l'aqueduc romain. Après le déjeuner, une route panoramique vous mène dans le massif de l'Estérel avec ses roches rouges saisissantes, pour finir par un après-midi relaxant sur les vastes plages de Saint-Aygulf."
           },
           "stops": [
             {
@@ -1926,13 +1982,15 @@
                 "de": "Barrage de Malpasset",
                 "hu": "Malpasset-gát romjai",
                 "ro": "Barajul Malpasset",
-                "en": "Malpasset Dam Ruins"
+                "en": "Malpasset Dam Ruins",
+                "fr": "Ruines du barrage de Malpasset"
               },
               "tip_5lang": {
                 "de": "Beeindruckende Ruinen einer Katastrophe von 1959.",
                 "hu": "Egy 1959-es katasztrófa lenyűgöző romjai.",
                 "ro": "Ruine impresionante ale unei catastrofe din 1959.",
-                "en": "Impressive ruins of a 1959 disaster."
+                "en": "Impressive ruins of a 1959 disaster.",
+                "fr": "Impressionnantes ruines d’une catastrophe de 1959."
               }
             },
             {
@@ -1940,13 +1998,15 @@
                 "de": "Römischer Aquädukt",
                 "hu": "Római vízvezeték",
                 "ro": "Apeductul roman",
-                "en": "Roman Aqueduct"
+                "en": "Roman Aqueduct",
+                "fr": "Aqueduc romain"
               },
               "tip_5lang": {
                 "de": "Überreste der antiken Wasserversorgung.",
                 "hu": "Az ókori vízellátás maradványai.",
                 "ro": "Rămășițele alimentării antice cu apă.",
-                "en": "Remains of the ancient water supply."
+                "en": "Remains of the ancient water supply.",
+                "fr": "Vestiges de l’ancien approvisionnement en eau."
               }
             },
             {
@@ -1954,13 +2014,15 @@
                 "de": "Mittagessen in der Stadt",
                 "hu": "Városi ebéd",
                 "ro": "Prânz în oraș",
-                "en": "Lunch in the City"
+                "en": "Lunch in the City",
+                "fr": "Déjeuner en ville"
               },
               "tip_5lang": {
                 "de": "Parken Sie im Parkhaus 'Porte d'Orée'.",
                 "hu": "Parkoljon a 'Porte d'Orée' parkolóházban.",
                 "ro": "Parcați în parcarea 'Porte d'Orée'.",
-                "en": "Park in the 'Porte d'Orée' parking garage."
+                "en": "Park in the 'Porte d'Orée' parking garage.",
+                "fr": "Garez-vous dans le parking 'Porte d'Orée'."
               }
             },
             {
@@ -1968,13 +2030,15 @@
                 "de": "Massif de l'Esterel (Aussichtspunkt)",
                 "hu": "Esterel-hegység (kilátópont)",
                 "ro": "Masivul Esterel (punct panoramic)",
-                "en": "Esterel Massif (Viewpoint)"
+                "en": "Esterel Massif (Viewpoint)",
+                "fr": "Massif de l’Estérel (Belvédère)"
               },
               "tip_5lang": {
                 "de": "Rote Felsen und azurblaues Meer.",
                 "hu": "Vörös sziklák és azúrkék tenger.",
                 "ro": "Stânci roșii și marea azurie.",
-                "en": "Red rocks and azure sea."
+                "en": "Red rocks and azure sea.",
+                "fr": "Rochers rouges et mer azur."
               }
             },
             {
@@ -1982,13 +2046,15 @@
                 "de": "Strand von Saint-Aygulf",
                 "hu": "Saint-Aygulf strandja",
                 "ro": "Plaja Saint-Aygulf",
-                "en": "Saint-Aygulf Beach"
+                "en": "Saint-Aygulf Beach",
+                "fr": "Plage de Saint-Aygulf"
               },
               "tip_5lang": {
                 "de": "Breite Strände mit einfachen Parkmöglichkeiten.",
                 "hu": "Széles strandok könnyű parkolással.",
                 "ro": "Plaje largi cu parcare facilă.",
-                "en": "Wide beaches with easy parking."
+                "en": "Wide beaches with easy parking.",
+                "fr": "Plages larges avec stationnement facile."
               }
             }
           ],
@@ -2134,6 +2200,12 @@
               "The roads in the Esterel can be narrow.",
               "Avoid rush hour between Fréjus and Saint-Raphaël.",
               "Watch out for wild boars near the forest."
+            ],
+            "fr": [
+              "Réservez le parking à l’avance si possible.",
+              "Les routes dans l’Estérel peuvent être étroites.",
+              "Évitez l’heure de pointe entre Fréjus et Saint-Raphaël.",
+              "Attention aux sangliers près de la forêt."
             ]
           }
         },
@@ -2143,7 +2215,7 @@
             "hu": "A túra reggel a Malpasset drámai romjaihoz vezet, ahol az eső érezhetővé teszi a történelmet. \n\nDélben a vízvezeték gyors fotómegállót kínál az autóból. \n\nA délután az Esterel-hegységben misztikusnak tűnik a ködben, mielőtt biztonságosan visszatérnénk a völgybe. \n\nEste a felcsapó hullámok látványát élvezhetjük kényelmesen a száraz járműből.",
             "ro": "Turul duce dimineața la ruinele dramatice de la Malpasset, unde ploaia face istoria palpabilă. \n\nLa prânz, apeductul oferă o oprire rapidă pentru fotografii din mașină. \n\nDupă-amiaza în Munții Esterel pare mistică în ceață, înainte de a reveni în siguranță în vale. \n\nSeara, vă puteți bucura de vederea valurilor puternice confortabil din vehiculul uscat.",
             "en": "The tour leads in the morning to the dramatic ruins of Malpasset, where the rain makes history tangible. \n\nAt noon, the aqueduct offers a quick photo stop from the car. \n\nThe afternoon in the Esterel Mountains looks mystical in the fog before safely driving back to the valley. \n\nIn the evening, enjoy the view of the lashing waves comfortably from your dry vehicle.",
-            "fr": "Le circuit mène le matin aux ruines dramatiques de Malpasset, où la pluie rend l'histoire tangible. \n\nÀ midi, l'aqueduc offre un arrêt photo rapide depuis la voiture. \n\nL'après-midi dans les montagnes de l'Esterel semble mystique dans le brouillard avant de redescendre en toute sécurité vers la vallée. \n\nLe soir, profitez de la vue sur les vagues déferlantes confortablement depuis votre véhicule au sec."
+            "fr": "La visite mène le matin aux ruines dramatiques de Malpasset, où la pluie rend l’histoire palpable. \n\nÀ midi, l’aqueduc offre un arrêt photo rapide depuis la voiture. \n\nL’après-midi dans le massif de l’Estérel paraît mystique dans le brouillard avant de redescendre en toute sécurité dans la vallée. \n\nLe soir, profitez du spectacle des vagues depuis le confort de votre véhicule au sec."
           },
           "stops": [
             {
@@ -2153,7 +2225,7 @@
                 "hu": "Vigyázzon a nem aszfaltozott utakon, nagyon csúszósak lehetnek.",
                 "ro": "Atenție pe drumurile neasfaltate, pot fi foarte alunecoase.",
                 "en": "Watch out on the unpaved paths; they can be very slippery.",
-                "fr": "Attention sur les sentiers non goudronnés ; ils peuvent être très glissants."
+                "fr": "Attention aux chemins non revêtus ; ils peuvent être très glissants."
               }
             },
             {
@@ -2163,7 +2235,7 @@
                 "hu": "Jól látható a parkolóból, alig kell kiszállni.",
                 "ro": "Se vede bine din parcare, abia dacă trebuie să coborâți.",
                 "en": "Good view from the parking lot; you hardly need to get out.",
-                "fr": "Bonne vue depuis le parking ; vous n'avez presque pas besoin de sortir."
+                "fr": "Belle vue depuis le parking ; vous avez à peine besoin de sortir."
               }
             },
             {
@@ -2183,7 +2255,7 @@
                 "hu": "Köd és eső esetén vezessen különösen óvatosan a kanyarokban.",
                 "ro": "Conduceți cu mare atenție în curbe pe timp de ceață și ploaie.",
                 "en": "Drive especially carefully in the curves during fog and rain.",
-                "fr": "Conduisez avec prudence dans les virages en cas de brouillard et de pluie."
+                "fr": "Conduisez particulièrement prudemment dans les virages en cas de brouillard et de pluie."
               }
             },
             {
@@ -2193,7 +2265,7 @@
                 "hu": "Parkoljon a tengerre nézve egy autósmozi élményért.",
                 "ro": "Parcați cu fața spre mare pentru o experiență de cinema din mașină.",
                 "en": "Park facing the sea for a 'car cinema' experience.",
-                "fr": "Garez-vous face à la mer pour une expérience 'ciné-voiture'."
+                "fr": "Garez-vous face à la mer pour une expérience de « cinéma voiture »."
               }
             }
           ],
@@ -2227,11 +2299,11 @@
               "Use the air conditioning to prevent the windows from fogging up."
             ],
             "fr": [
-              "Vérifiez l'état des essuie-glaces avant de partir.",
-              "Évitez les flaques d'eau profondes sur les routes secondaires vers l'Esterel.",
-              "Gardez vos distances car les distances de freinage sont plus longues sur l'asphalte mouillé.",
+              "Vérifiez l’état des essuie-glaces avant le départ.",
+              "Évitez les flaques profondes sur les routes secondaires de l’Estérel.",
+              "Gardez vos distances car les distances de freinage sont plus longues sur l’asphalte mouillé.",
               "Allumez les feux pour améliorer la visibilité sous la pluie grise.",
-              "Utilisez la climatisation pour éviter que les vitres ne s'embuent."
+              "Utilisez la climatisation pour éviter que les vitres ne s’embuent."
             ]
           }
         },
@@ -2241,7 +2313,7 @@
             "hu": "Reggel kényelmesen indulunk a Malpasset-romokhoz, amik a tiszta téli levegőben szinte kézzelfoghatónak tűnnek. \n\nDélben a vízvezetéket a legjobb fényeknél fotózhatjuk. \n\nA délután az Esterel-hegységben tűéles kilátást kínál a tengerig, mielőtt a nap a vörös sziklák mögé süllyed. \n\nAz estét Saint-Aygulf partján zárjuk, ahol a téli nyugalom különösen érezhető.",
             "ro": "Dimineața, mergeți relaxat spre ruinele Malpasset, care par aproape palpabile în aerul curat de iarnă. \n\nLa prânz, apeductul poate fi fotografiat în cea mai bună lumină. \n\nDupă-amiaza în Esterel oferă vederi extrem de clare până la mare, înainte ca soarele să apună în spatele stâncilor roșii. \n\nÎncheiați seara pe coasta Saint-Aygulf, unde liniștea iernii este deosebit de resimțită.",
             "en": "In the morning, drive relaxed to the Malpasset ruins, which seem almost tangible in the clear winter air. \n\nAt noon, the aqueduct can be photographed in the best light. \n\nThe afternoon in Esterel offers razor-sharp distant views to the sea before the sun sinks behind the red rocks. \n\nConclude the evening on the coast of Saint-Aygulf, where the winter tranquility is particularly palpable.",
-            "fr": "Le matin, conduisez détendu jusqu'aux ruines de Malpasset, qui semblent presque tangibles dans l'air clair de l'hiver. \n\nÀ midi, l'aqueduc peut être photographié sous la meilleure lumière. \n\nL'après-midi dans l'Esterel offre des vues lointaines nettes jusqu'à la mer avant que le soleil ne sombre derrière les roches rouges. \n\nConcluez la soirée sur la côte de Saint-Aygulf, où la tranquillité hivernale est particulièrement palpable."
+            "fr": "Le matin, roulez tranquillement jusqu’aux ruines de Malpasset, qui semblent presque tangibles dans l’air hivernal clair. \n\nÀ midi, l’aqueduc se photographie à la meilleure lumière. \n\nL’après-midi dans l’Estérel offre des vues lointaines d’une netteté incroyable sur la mer avant que le soleil ne se couche derrière les roches rouges. \n\nTerminez la soirée sur la côte de Saint-Aygulf, où la tranquillité hivernale est particulièrement perceptible."
           },
           "stops": [
             {
@@ -2251,7 +2323,7 @@
                 "hu": "Ideális látogatási idő a tiszta fotókhoz hőségvibrálás nélkül.",
                 "ro": "Timp ideal de vizită pentru fotografii clare fără trepidații de căldură.",
                 "en": "Ideal visiting time for clear photos without heat shimmer.",
-                "fr": "Moment de visite idéal pour des photos nettes sans scintillement dû à la chaleur."
+                "fr": "Moment idéal pour des photos nettes sans mirage thermique."
               }
             },
             {
@@ -2261,7 +2333,7 @@
                 "hu": "Az alacsony téli fény kiemeli a római építészetet.",
                 "ro": "Lumina joasă de iarnă scoate în evidență arhitectura romană.",
                 "en": "The low winter light emphasizes the Roman architecture.",
-                "fr": "La lumière basse de l'hiver souligne l'architecture romaine."
+                "fr": "La faible lumière hivernale met en valeur l’architecture romaine."
               }
             },
             {
@@ -2281,7 +2353,7 @@
                 "hu": "Vigyen magával kabátot, fent jóval szelesebb az idő.",
                 "ro": "Luați o jachetă, sus este mult mai vânt.",
                 "en": "Take a jacket; it is much windier at the top.",
-                "fr": "Prenez une veste ; il y a beaucoup plus de vent au sommet."
+                "fr": "Prenez une veste ; il y a beaucoup plus de vent en hauteur."
               }
             },
             {
@@ -2291,7 +2363,7 @@
                 "hu": "Élvezze a csendet, mielőtt 17 órakor besötétedik.",
                 "ro": "Bucurați-vă de liniște înainte de a se întuneca la ora 17.",
                 "en": "Enjoy the silence before it gets dark at 17:00.",
-                "fr": "Appréciez le silence avant la tombée de la nuit à 17h00."
+                "fr": "Profitez du silence avant la tombée de la nuit à 17:00."
               }
             }
           ],
@@ -2325,11 +2397,11 @@
               "Enjoy the clear distant views that only exist in winter."
             ],
             "fr": [
-              "Profitez des routes vides pour une conduite panoramique relaxante.",
-              "Vérifiez la pression des pneus avant de monter en montagne.",
+              "Profitez des routes vides pour une balade panoramique détendue.",
+              "Vérifiez la pression des pneus avant d’entrer en montagne.",
               "Le soleil bas peut être éblouissant ; prenez des lunettes de soleil.",
-              "Les performances de la batterie peuvent être moindres par temps froid.",
-              "Profitez des vues lointaines et dégagées qui n'existent qu'en hiver."
+              "Les performances de la batterie peuvent être réduites par le froid.",
+              "Appréciez les vues lointaines claires qui n’existent qu’en hiver."
             ]
           }
         }
@@ -2348,7 +2420,8 @@
             "de": "Bahnhof Fréjus",
             "hu": "Fréjus vasútállomás",
             "ro": "Gara Fréjus",
-            "en": "Fréjus Train Station"
+            "en": "Fréjus Train Station",
+            "fr": "Gare de Fréjus"
           },
           "coords": [
             6.733,
@@ -2372,7 +2445,8 @@
             "de": "Amphitheater (Bus 1/4)",
             "hu": "Amfiteátrum (1/4-es busz)",
             "ro": "Amfiteatru (autobuz 1/4)",
-            "en": "Amphitheatre (Bus 1/4)"
+            "en": "Amphitheatre (Bus 1/4)",
+            "fr": "Arènes (Bus 1/4)"
           },
           "coords": [
             6.728,
@@ -2388,7 +2462,7 @@
             "hu": "Használja az 'Agglobus' alkalmazást.",
             "ro": "Utilizați aplicația 'Agglobus'.",
             "en": "Use the 'Agglobus' app.",
-            "fr": "Utilisez l'application 'Agglobus'."
+            "fr": "Utilisez l’application 'Agglobus'."
           }
         },
         {
@@ -2396,7 +2470,8 @@
             "de": "Altstadt & Kathedrale",
             "hu": "Óváros és katedrális",
             "ro": "Centrul vechi și Catedrala",
-            "en": "Old Town & Cathedral"
+            "en": "Old Town & Cathedral",
+            "fr": "Vieille ville & Cathédrale"
           },
           "coords": [
             6.736,
@@ -2412,7 +2487,7 @@
             "hu": "Az amfiteátrumtól busszal könnyen elérhető.",
             "ro": "Ușor accesibil cu autobuzul de la amfiteatru.",
             "en": "Easily accessible by bus from the amphitheatre.",
-            "fr": "Facilement accessible en bus depuis l'amphithéâtre."
+            "fr": "Facilement accessible en bus depuis les arènes."
           }
         },
         {
@@ -2420,7 +2495,8 @@
             "de": "Port Fréjus (Bus 4)",
             "hu": "Port Fréjus (4-es busz)",
             "ro": "Port Fréjus (autobuz 4)",
-            "en": "Port Fréjus (Bus 4)"
+            "en": "Port Fréjus (Bus 4)",
+            "fr": "Port de Fréjus (Bus 4)"
           },
           "coords": [
             6.749,
@@ -2436,7 +2512,7 @@
             "hu": "A busz közvetlenül a kikötőnél áll meg.",
             "ro": "Autobuzul oprește chiar lângă port.",
             "en": "The bus stops right by the harbor.",
-            "fr": "Le bus s'arrête juste à côté du port."
+            "fr": "Le bus s’arrête juste au niveau du port."
           }
         },
         {
@@ -2444,7 +2520,8 @@
             "de": "Plage de Fréjus",
             "hu": "Fréjus-i strand",
             "ro": "Plaja Fréjus",
-            "en": "Fréjus Beach"
+            "en": "Fréjus Beach",
+            "fr": "Plage de Fréjus"
           },
           "coords": [
             6.755,
@@ -2469,7 +2546,7 @@
         "hu": "Használja a hatékony Agglobus hálózatot Fréjus stresszmentes felfedezéséhez. Kezdje a vasútállomáson, majd utazzon az amfiteátrumhoz. Merüljön el az óváros történelmében, mielőtt busszal a modern kikötőbe menne. Zárja a napot a strandon, ahonnan könnyen visszatérhet kiindulópontjához.",
         "ro": "Utilizați rețeaua eficientă Agglobus pentru a explora Fréjus fără stres. Începeți de la gară și mergeți la amfiteatru. Pătrundeți în istoria centrului vechi înainte de a lua autobuzul către portul modern. Încheiați ziua pe plajă, de unde vă puteți întoarce ușor la punctul de plecare.",
         "en": "Use the efficient Agglobus network to explore Fréjus stress-free. Start at the train station and travel to the amphitheatre. Immerse yourself in the history of the old town before taking the bus to the modern harbor. End your day at the beach, from where you can easily return to your starting point.",
-        "fr": "Utilisez le réseau efficace Agglobus pour explorer Fréjus sans stress. Commencez à la gare et rendez-vous à l'amphithéâtre. Immergez-vous dans l'histoire de la vieille ville avant de prendre le bus vers le port moderne. Terminez votre journée à la plage, d'où vous pourrez facilement revenir à votre point de départ."
+        "fr": "Utilisez le réseau Agglobus efficace pour explorer Fréjus sans stress. Commencez à la gare et rejoignez les arènes. Imprégnez-vous de l’histoire de la vieille ville avant de prendre le bus pour le port moderne. Terminez votre journée à la plage, d’où vous pouvez facilement revenir à votre point de départ."
       },
       "gastro_picks": {
         "de": [
@@ -2643,10 +2720,10 @@
           "Ask the driver about the stop."
         ],
         "fr": [
-          "Achetez un ticket journée pour économiser.",
+          "Achetez un ticket journée pour faire des économies.",
           "Les bus circulent moins fréquemment le dimanche.",
-          "Validez votre ticket en montant.",
-          "Demandez l'arrêt au chauffeur."
+          "Validez votre titre de transport en montant à bord.",
+          "Demandez au conducteur où se trouve l’arrêt."
         ]
       },
       "variants": {
@@ -2655,7 +2732,8 @@
             "de": "Nutzen Sie das effiziente Agglobus-Netzwerk, um Fréjus stressfrei zu erkunden. Beginnen Sie am Bahnhof und fahren Sie zum Amphitheater. Tauchen Sie in die Geschichte der Altstadt ein, bevor Sie den Bus zum modernen Hafen nehmen. Beenden Sie Ihren Tag am Strand, von wo aus Sie leicht wieder zu Ihrem Ausgangspunkt zurückkehren können.",
             "hu": "Használja a hatékony Agglobus hálózatot Fréjus stresszmentes felfedezéséhez. Kezdje a vasútállomáson, majd utazzon az amfiteátrumhoz. Merüljön el az óváros történelmében, mielőtt busszal a modern kikötőbe menne. Zárja a napot a strandon, ahonnan könnyen visszatérhet kiindulópontjához.",
             "ro": "Utilizați rețeaua eficientă Agglobus pentru a explora Fréjus fără stres. Începeți de la gară și mergeți la amfiteatru. Pătrundeți în istoria centrului vechi înainte de a lua autobuzul către portul modern. Încheiați ziua pe plajă, de unde vă puteți întoarce ușor la punctul de plecare.",
-            "en": "Use the efficient Agglobus network to explore Fréjus stress-free. Start at the train station and travel to the amphitheatre. Immerse yourself in the history of the old town before taking the bus to the modern harbor. End your day at the beach, from where you can easily return to your starting point."
+            "en": "Use the efficient Agglobus network to explore Fréjus stress-free. Start at the train station and travel to the amphitheatre. Immerse yourself in the history of the old town before taking the bus to the modern harbor. End your day at the beach, from where you can easily return to your starting point.",
+            "fr": "Utilisez le réseau Agglobus efficace pour explorer Fréjus sans stress. Commencez à la gare et rejoignez les arènes. Imprégnez-vous de l’histoire de la vieille ville avant de prendre le bus pour le port moderne. Terminez votre journée à la plage, d’où vous pouvez facilement revenir à votre point de départ."
           },
           "stops": [
             {
@@ -2663,13 +2741,15 @@
                 "de": "Bahnhof Fréjus",
                 "hu": "Fréjus vasútállomás",
                 "ro": "Gara Fréjus",
-                "en": "Fréjus Train Station"
+                "en": "Fréjus Train Station",
+                "fr": "Gare de Fréjus"
               },
               "tip_5lang": {
                 "de": "Zentraler Ausgangspunkt für Busse.",
                 "hu": "Központi kiindulópont a buszokhoz.",
                 "ro": "Punct central de plecare pentru autobuze.",
-                "en": "Central starting point for buses."
+                "en": "Central starting point for buses.",
+                "fr": "Point de départ central pour les bus."
               }
             },
             {
@@ -2677,13 +2757,15 @@
                 "de": "Amphitheater (Bus 1/4)",
                 "hu": "Amfiteátrum (1/4-es busz)",
                 "ro": "Amfiteatru (autobuz 1/4)",
-                "en": "Amphitheatre (Bus 1/4)"
+                "en": "Amphitheatre (Bus 1/4)",
+                "fr": "Arènes (Bus 1/4)"
               },
               "tip_5lang": {
                 "de": "Nutzen Sie die 'Agglobus' App.",
                 "hu": "Használja az 'Agglobus' alkalmazást.",
                 "ro": "Utilizați aplicația 'Agglobus'.",
-                "en": "Use the 'Agglobus' app."
+                "en": "Use the 'Agglobus' app.",
+                "fr": "Utilisez l’application 'Agglobus'."
               }
             },
             {
@@ -2691,13 +2773,15 @@
                 "de": "Altstadt & Kathedrale",
                 "hu": "Óváros és katedrális",
                 "ro": "Centrul vechi și Catedrala",
-                "en": "Old Town & Cathedral"
+                "en": "Old Town & Cathedral",
+                "fr": "Vieille ville & Cathédrale"
               },
               "tip_5lang": {
                 "de": "Vom Amphitheater aus leicht mit dem Bus erreichbar.",
                 "hu": "Az amfiteátrumtól busszal könnyen elérhető.",
                 "ro": "Ușor accesibil cu autobuzul de la amfiteatru.",
-                "en": "Easily accessible by bus from the amphitheatre."
+                "en": "Easily accessible by bus from the amphitheatre.",
+                "fr": "Facilement accessible en bus depuis les arènes."
               }
             },
             {
@@ -2705,13 +2789,15 @@
                 "de": "Port Fréjus (Bus 4)",
                 "hu": "Port Fréjus (4-es busz)",
                 "ro": "Port Fréjus (autobuz 4)",
-                "en": "Port Fréjus (Bus 4)"
+                "en": "Port Fréjus (Bus 4)",
+                "fr": "Port de Fréjus (Bus 4)"
               },
               "tip_5lang": {
                 "de": "Der Bus hält direkt am Hafen.",
                 "hu": "A busz közvetlenül a kikötőnél áll meg.",
                 "ro": "Autobuzul oprește chiar lângă port.",
-                "en": "The bus stops right by the harbor."
+                "en": "The bus stops right by the harbor.",
+                "fr": "Le bus s’arrête juste au niveau du port."
               }
             },
             {
@@ -2719,13 +2805,15 @@
                 "de": "Plage de Fréjus",
                 "hu": "Fréjus-i strand",
                 "ro": "Plaja Fréjus",
-                "en": "Fréjus Beach"
+                "en": "Fréjus Beach",
+                "fr": "Plage de Fréjus"
               },
               "tip_5lang": {
                 "de": "Gute Anbindung zurück zum Bahnhof.",
                 "hu": "Jó összeköttetés vissza a vasútállomásra.",
                 "ro": "Conexiune bună înapoi la gară.",
-                "en": "Good connection back to the train station."
+                "en": "Good connection back to the train station.",
+                "fr": "Bonne connexion de retour vers la gare."
               }
             }
           ],
@@ -2871,6 +2959,12 @@
               "Buses run less frequently on Sundays.",
               "Validate your ticket when boarding.",
               "Ask the driver about the stop."
+            ],
+            "fr": [
+              "Achetez un ticket journée pour faire des économies.",
+              "Les bus circulent moins fréquemment le dimanche.",
+              "Validez votre titre de transport en montant à bord.",
+              "Demandez au conducteur où se trouve l’arrêt."
             ]
           }
         },
@@ -2880,7 +2974,7 @@
             "hu": "A nap szárazon indul az állomás épületében, mielőtt busszal mennénk az amfiteátrumhoz. \n\nDélben a buszmegállók közelsége az óvároshoz megkímél a hosszú esőben való gyaloglástól. \n\nDélután a kikötőbe tartó út a meleg buszban üdvözlendő szünetet nyújt. \n\nA nap csendesen zárul, miközben a busz eső áztatta ablakain át figyeljük a város fényeit.",
             "ro": "Ziua începe la uscat în clădirea gării, înainte de a lua autobuzul spre amfiteatru. \n\nLa prânz, proximitatea stațiilor de autobuz de orașul vechi vă scutește de mersul prin ploaie. \n\nDupă-amiaza, călătoria spre port în autobuzul cald oferă o pauză binevenită. \n\nSeara se încheie liniștit, în timp ce observați luminile orașului prin geamurile plouate ale autobuzului.",
             "en": "The day starts dry in the station building before taking the bus to the amphitheatre. \n\nAt noon, the proximity of the bus stops to the old town saves you from long walks in the rain. \n\nIn the afternoon, the ride to the port in the warm bus offers a welcome break. \n\nThe evening ends quietly while watching the city lights through the rain-streaked bus windows.",
-            "fr": "La journée commence au sec dans le bâtiment de la gare avant de prendre le bus pour l'amphithéâtre. \n\nÀ midi, la proximité des arrêts de bus avec la vieille ville vous épargne de longues marches sous la pluie. \n\nL'après-midi, le trajet vers le port dans le bus chauffé offre une pause bienvenue. \n\nLa soirée se termine tranquillement en regardant les lumières de la ville à travers les vitres du bus striées par la pluie."
+            "fr": "La journée commence au sec dans le bâtiment de la gare avant de prendre le bus pour les arènes. \n\nÀ midi, la proximité des arrêts avec la vieille ville vous évite de longues marches sous la pluie. \n\nL’après-midi, le trajet vers le port dans le bus chauffé offre une pause bienvenue. \n\nLa soirée se termine calmement en regardant les lumières de la ville à travers les vitres du bus striées de pluie."
           },
           "stops": [
             {
@@ -2890,7 +2984,7 @@
                 "hu": "Használja a várótermet a következő buszcsatlakozás ellenőrzéséhez.",
                 "ro": "Folosiți sala de așteptare pentru a verifica următoarea legătură de autobuz.",
                 "en": "Use the waiting room to check the next bus connection.",
-                "fr": "Utilisez la salle d'attente pour vérifier la prochaine correspondance."
+                "fr": "Utilisez la salle d’attente pour vérifier la prochaine correspondance de bus."
               }
             },
             {
@@ -2900,7 +2994,7 @@
                 "hu": "A megálló közel van, de heves esőben nem védett.",
                 "ro": "Stația este aproape, dar neprotejată în caz de ploaie torențială.",
                 "en": "The stop is close but unprotected during heavy rain.",
-                "fr": "L'arrêt est proche mais non protégé en cas de forte pluie."
+                "fr": "L’arrêt est proche mais non abrité en cas de fortes pluies."
               }
             },
             {
@@ -2920,7 +3014,7 @@
                 "hu": "A 4-es busz közvetlenül a kikötőnél áll meg, minimalizálja a gyaloglást.",
                 "ro": "Autobuzul 4 oprește direct în port, minimizați timpul de mers.",
                 "en": "Bus 4 stops directly at the port; minimize walking time.",
-                "fr": "Le bus 4 s'arrête directement au port ; minimisez le temps de marche."
+                "fr": "Le Bus 4 s’arrête directement au port ; minimisez le temps de marche."
               }
             },
             {
@@ -2930,7 +3024,7 @@
                 "hu": "Ellenőrizze a menetrendet a hazaúthoz, hogy ne várjon az esőben.",
                 "ro": "Verificați programul pentru întoarcere pentru a evita așteptarea în ploaie.",
                 "en": "Check the return schedule to avoid waiting in the rain.",
-                "fr": "Vérifiez les horaires de retour pour éviter d'attendre sous la pluie."
+                "fr": "Vérifiez l’horaire de retour pour éviter d’attendre sous la pluie."
               }
             }
           ],
@@ -2964,11 +3058,11 @@
               "Line 4 connects the main points in a rain-safe way."
             ],
             "fr": [
-              "Utilisez l'application Zou! pour des infos en temps réel sur les retards.",
-              "Ayez de la monnaie ou votre carte prête pour l'achat du ticket.",
-              "Les bus sont souvent plus bondés sous la pluie ; prévoyez plus de temps.",
-              "Certains arrêts n'ont que de petits abris.",
-              "La ligne 4 relie les points principaux à l'abri de la pluie."
+              "Utilisez l’application Zou! pour des infos en temps réel sur les retards de bus.",
+              "Ayez de la petite monnaie ou votre carte prête pour l’achat du ticket.",
+              "Les bus sont souvent plus remplis sous la pluie ; prévoyez un peu plus de temps.",
+              "Certains arrêts n’ont que de petits abris.",
+              "La ligne 4 relie les points principaux de manière à l’abri de la pluie."
             ]
           }
         },
@@ -2978,7 +3072,7 @@
             "hu": "Az állomás reggel szélvédett indítást kínál a naphoz. \n\nDélben a napsütötte Fréjuson keresztüli út a fűtött buszban nagyon kellemes. \n\nA délutáni városnézés rugalmasan alakítható, mivel a buszok rendszeresen járnak. \n\nEste pont időben érünk a partra a fényjátékhoz, mielőtt a busz gyorsan visszavisz a központba.",
             "ro": "Gara oferă dimineața un start al zilei ferit de vânt. \n\nLa prânz, călătoria prin Fréjus-ul însorit în autobuzul încălzit este foarte plăcută. \n\nVizitarea orașului după-amiaza poate fi flexibilă, deoarece autobuzele circulă regulat. \n\nSpre seară, ajungeți la plajă la timp pentru spectacolul de lumini, înainte ca autobuzul să vă ducă rapid înapoi în centru.",
             "en": "The station offers a wind-protected start to the day in the morning. \n\nAt noon, the ride through sunny Fréjus in the heated bus is very pleasant. \n\nIn the afternoon, the city tour can be flexible as the buses run regularly. \n\nTowards evening, you reach the beach just in time for the light show before the bus quickly takes you back to the center.",
-            "fr": "La gare offre un début de journée protégé du vent le matin. \n\nÀ midi, le trajet à travers Fréjus ensoleillé dans le bus chauffé est très agréable. \n\nL'après-midi, la visite de la ville peut être flexible car les bus circulent régulièrement. \n\nVers le soir, vous atteignez la plage juste à temps pour le spectacle de lumière avant que le bus ne vous ramène rapidement au centre."
+            "fr": "La gare offre un départ à l’abri du vent le matin. \n\nÀ midi, la traversée d’un Fréjus ensoleillé dans le bus chauffé est très agréable. \n\nL’après-midi, la visite de la ville peut être flexible car les bus circulent régulièrement. \n\nEn soirée, vous atteignez la plage juste à temps pour le spectacle de lumière avant que le bus ne vous ramène rapidement au centre."
           },
           "stops": [
             {
@@ -2988,7 +3082,7 @@
                 "hu": "Központi csomópont, télen kevésbé zsúfolt.",
                 "ro": "Nod central, mai puțin aglomerat iarna.",
                 "en": "Central hub, less crowded in winter.",
-                "fr": "Plaque tournante centrale, moins bondée en hiver."
+                "fr": "Nœud central, moins fréquenté en hiver."
               }
             },
             {
@@ -3008,7 +3102,7 @@
                 "hu": "Világos téli fények az utcákon, ideális fotózáshoz.",
                 "ro": "Lumină clară de iarnă pe străzi, ideală pentru fotografii.",
                 "en": "Bright winter light in the alleys, ideal for photos.",
-                "fr": "Lumière d'hiver vive dans les ruelles, idéale pour les photos."
+                "fr": "Lumière hivernale vive dans les ruelles, idéale pour les photos."
               }
             },
             {
@@ -3018,7 +3112,7 @@
                 "hu": "Jó kiindulópont egy szeles, de napos sétához.",
                 "ro": "Punct de plecare bun pentru o plimbare cu vânt, dar însorită.",
                 "en": "Good starting point for a windy but sunny walk.",
-                "fr": "Bon point de départ pour une promenade venteuse mais ensoleillée."
+                "fr": "Bon point de départ pour une balade venteuse mais ensoleillée."
               }
             },
             {
@@ -3028,7 +3122,7 @@
                 "hu": "Az utolsó buszok gyakran naplemente után indulnak, nézze a tervet.",
                 "ro": "Ultimele autobuze pleacă adesea după apus, verificați planul.",
                 "en": "Last buses often leave shortly after sunset; check the schedule.",
-                "fr": "Les derniers bus partent souvent peu après le coucher du soleil ; vérifiez les horaires."
+                "fr": "Les dernières lignes partent souvent peu après le coucher du soleil ; vérifiez les horaires."
               }
             }
           ],
@@ -3064,9 +3158,9 @@
             "fr": [
               "Les horaires en hiver peuvent différer de la saison estivale.",
               "Les bus sont bien chauffés, idéal pour se réchauffer.",
-              "Utilisez des tickets journée pour une flexibilité maximale.",
-              "Le soir, les intervalles sont souvent plus longs ; soyez prudent avec la planification.",
-              "Les places près des fenêtres offrent de superbes vues sur les sommets de l'Esterel."
+              "Utilisez des billets journaliers pour une flexibilité maximale.",
+              "Le soir, les intervalles sont souvent plus longs ; soyez prudent dans votre planification.",
+              "Les sièges côté fenêtre offrent de superbes vues sur les sommets de l'Esterel."
             ]
           }
         }

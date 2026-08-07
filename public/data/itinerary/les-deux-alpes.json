@@ -21,7 +21,8 @@
             "de": "Maison de la Montagne",
             "hu": "Hegyi Ház",
             "ro": "Casa Muntelui",
-            "en": "Maison de la Montagne"
+            "en": "Maison de la Montagne",
+            "fr": "Maison de la Montagne"
           },
           "coords": [
             6.124,
@@ -37,7 +38,7 @@
             "hu": "Kérj információt a helyi túraútvonalakról.",
             "ro": "Obțineți informații despre traseele locale.",
             "en": "Get information about local hiking trails.",
-            "fr": "Renseignez-vous sur les sentiers de randonnée locaux."
+            "fr": "Obtenez des informations sur les sentiers de randonnée locaux."
           }
         },
         {
@@ -45,7 +46,8 @@
             "de": "Lac de la Buissonnière",
             "hu": "Buissonnière-tó",
             "ro": "Lacul Buissonnière",
-            "en": "Lac de la Buissonnière"
+            "en": "Lac de la Buissonnière",
+            "fr": "Lac de la Buissonnière"
           },
           "coords": [
             6.128,
@@ -61,7 +63,7 @@
             "hu": "Szép mesterséges tó a kikapcsolódáshoz.",
             "ro": "Un lac artificial frumos pentru relaxare.",
             "en": "A beautiful artificial lake for relaxing.",
-            "fr": "Un magnifique lac artificiel pour se détendre."
+            "fr": "Un beau lac artificiel pour se détendre."
           }
         },
         {
@@ -69,7 +71,8 @@
             "de": "Musée Chasal Lento",
             "hu": "Musée Chasal Lento",
             "ro": "Muzeul Chasal Lento",
-            "en": "Musée Chasal Lento"
+            "en": "Musée Chasal Lento",
+            "fr": "Musée Chasal Lento"
           },
           "coords": [
             6.1235,
@@ -85,7 +88,7 @@
             "hu": "Ismerd meg az alpesi falu történelmét.",
             "ro": "Aflați despre istoria satului alpin.",
             "en": "Learn about the history of the alpine village.",
-            "fr": "Découvrez l'histoire de ce village alpin."
+            "fr": "Découvrez l’histoire du village alpin."
           }
         },
         {
@@ -93,7 +96,8 @@
             "de": "Chapelle Saint-Benoît",
             "hu": "Szent Benedek-kápolna",
             "ro": "Capela Sfântul Benoit",
-            "en": "Chapelle Saint-Benoît"
+            "en": "Chapelle Saint-Benoît",
+            "fr": "Chapelle Saint-Benoît"
           },
           "coords": [
             6.122,
@@ -109,7 +113,7 @@
             "hu": "Békés hely szép kilátással.",
             "ro": "Un loc liniștit cu o priveliște frumoasă.",
             "en": "A peaceful place with a beautiful view.",
-            "fr": "Un lieu paisible avec une vue magnifique."
+            "fr": "Un lieu paisible avec une belle vue."
           }
         },
         {
@@ -117,7 +121,8 @@
             "de": "Les Deux Alpes Hauptstraße",
             "hu": "Les Deux Alpes főutca",
             "ro": "Strada principală Les Deux Alpes",
-            "en": "Les Deux Alpes main street"
+            "en": "Les Deux Alpes main street",
+            "fr": "Rue principale des Deux Alpes"
           },
           "coords": [
             6.1228,
@@ -133,7 +138,7 @@
             "hu": "Sok üzlet és kávézó hívogat pihenésre.",
             "ro": "Multe magazine și cafenele vă invită să zăboviți.",
             "en": "Many shops and cafes invite you to linger.",
-            "fr": "De nombreux magasins et cafés invitent à la flânerie."
+            "fr": "Nombreux commerces et cafés invitent à la flânerie."
           }
         },
         {
@@ -141,7 +146,8 @@
             "de": "Belvédère de la Muzelle",
             "hu": "Muzelle-kilátó",
             "ro": "Belvederea Muzelle",
-            "en": "Muzelle viewpoint"
+            "en": "Muzelle viewpoint",
+            "fr": "Belvédère Muzelle"
           },
           "coords": [
             6.12,
@@ -157,7 +163,7 @@
             "hu": "Tökéletes hely az esti fényekhez.",
             "ro": "Locul perfect pentru lumina serii.",
             "en": "Perfect spot for the evening light.",
-            "fr": "L'endroit idéal pour profiter de la lumière du soir."
+            "fr": "Endroit parfait pour la lumière du soir."
           }
         }
       ],
@@ -166,7 +172,7 @@
         "hu": "Fedezze fel Les Deux Alpes üdülőhelyét gyalogosan, és merüljön el hegyi világában. Kezdje a Hegyi Házban (Maison de la Montagne), hogy megismerje a környéket. Egy séta a Buissonnière-tóhoz tiszta kikapcsolódást nyújt a vízparton. Délben látogasson el a Chasal Lento Múzeumba, hogy többet megtudjon a hegyi gazdák nehéz életéről a turisztikai bumm előtt. A bájos Szent Benedek-kápolna megtekintése után sétáljon végig a nyüzsgő főutcán, majd zárja a napot a fenséges Muzelle-csúcsra nyíló kilátással.",
         "ro": "Descoperiți stațiunea Les Deux Alpes la pas și cufundați-vă în lumea sa montană. Începeți la Casa Muntelui pentru a simți atmosfera zonei. O plimbare până la lacul Buissonnière oferă relaxare pură lângă apă. La prânz, vizitați Muzeul Chasal Lento pentru a afla mai multe despre viața aspră a fermierilor montani înainte de boom-ul turistic. După o vizită la fermecătoarea capelă Saint-Benoît, plimbați-vă pe strada principală animată și încheiați ziua cu o privire asupra maiestuosului vârf Muzelle.",
         "en": "Discover the resort of Les Deux Alpes on foot and immerse yourself in its mountain world. Start at the Maison de la Montagne to get a feel for the surroundings. A stroll to Lac de la Buissonnière offers pure relaxation by the water. At midday, visit the Musée Chasal Lento to learn more about the harsh life of mountain farmers before the tourism boom. After a visit to the charming Saint-Benoît chapel, stroll along the lively main street and end the day with a view of the majestic Muzelle peak.",
-        "fr": "Découvrez la station des Deux Alpes à pied et imprégnez-vous de son univers montagnard. Commencez par la Maison de la Montagne pour vous imprégner de l'ambiance des lieux. Une promenade vers le lac de la Buissonnière offre une pure détente au bord de l'eau. À midi, visitez le musée Chasal Lento pour en apprendre davantage sur la vie rude des paysans de montagne avant l'essor du tourisme. Après une visite de la charmante chapelle Saint-Benoît, flânez sur l'avenue principale animée et terminez la journée avec une vue sur le majestueux sommet de la Muzelle."
+        "fr": "Découvrez la station des Deux Alpes à pied et plongez dans son univers montagnard. Commencez à la Maison de la Montagne pour vous imprégner des lieux. Une balade jusqu’au Lac de la Buissonnière offre une pure détente au bord de l’eau. À midi, visitez le Musée Chasal Lento pour en savoir plus sur la vie rude des paysans de montagne avant le développement touristique. Après la visite de la charmante chapelle Saint‑Benoît, promenez‑vous le long de la rue principale animée et terminez la journée avec la vue sur le majestueux sommet de la Muzelle."
       },
       "gastro_picks": {
         "de": [
@@ -311,9 +317,9 @@
           "It cools down quickly in the evening, take a jacket."
         ],
         "fr": [
-          "Le village est très étendu, utilisez la navette gratuite.",
-          "Le soleil tape fort à cette altitude, protégez-vous.",
-          "Les soirées se rafraîchissent vite, prévoyez une veste."
+          "Le village est très allongé, utilisez la navette.",
+          "Le soleil est très fort à cette altitude.",
+          "Il refroidit rapidement le soir, prenez une veste."
         ]
       }
     },
@@ -330,7 +336,8 @@
             "de": "Zentrum Les Deux Alpes",
             "hu": "Les Deux Alpes központ",
             "ro": "Centrul Les Deux Alpes",
-            "en": "Les Deux Alpes center"
+            "en": "Les Deux Alpes center",
+            "fr": "Centre des Deux Alpes"
           },
           "coords": [
             6.1228,
@@ -346,7 +353,7 @@
             "hu": "Számos kerékpártúra gyülekezőpontja.",
             "ro": "Punct de întâlnire pentru multe tururi cicliste.",
             "en": "Meeting point for many bike tours.",
-            "fr": "Point de ralliement pour de nombreux circuits à vélo."
+            "fr": "Point de rendez‑vous pour de nombreuses sorties à vélo."
           }
         },
         {
@@ -354,7 +361,8 @@
             "de": "Village de Venosc (Gondelstation)",
             "hu": "Venosc falu (felvonóállomás)",
             "ro": "Satul Venosc (stația de gondolă)",
-            "en": "Village de Venosc (Gondola station)"
+            "en": "Village de Venosc (Gondola station)",
+            "fr": "Village de Venosc (station de la gondole)"
           },
           "coords": [
             6.115,
@@ -370,7 +378,7 @@
             "hu": "Utazzon le a felvonóval Venosc-ba.",
             "ro": "Coborâți cu telecabina în Venosc.",
             "en": "Take the gondola down to Venosc.",
-            "fr": "Empruntez la télécabine pour descendre à Venosc."
+            "fr": "Prenez la gondole pour descendre à Venosc."
           }
         },
         {
@@ -378,7 +386,8 @@
             "de": "Chapelle Saint-Benoît de Venosc",
             "hu": "Venosc-i Szent Benedek-kápolna",
             "ro": "Capela Sfântul Benoit din Venosc",
-            "en": "Chapelle Saint-Benoît de Venosc"
+            "en": "Chapelle Saint-Benoît de Venosc",
+            "fr": "Chapelle Saint-Benoît de Venosc"
           },
           "coords": [
             6.114,
@@ -394,7 +403,7 @@
             "hu": "Az alpesi egyházművészet kis ékköve.",
             "ro": "O bijuterie a artei bisericești alpine.",
             "en": "A small gem of alpine church art.",
-            "fr": "Un petit joyau de l'art religieux alpin."
+            "fr": "Un petit bijou de l’art religieux alpin."
           }
         },
         {
@@ -402,7 +411,8 @@
             "de": "Guisane Radweg (Venosc)",
             "hu": "Guisane kerékpárút (Venosc)",
             "ro": "Pista de biciclete Guisane",
-            "en": "Guisane bike path (Venosc)"
+            "en": "Guisane bike path (Venosc)",
+            "fr": "Piste cyclable de la Guisane (Venosc)"
           },
           "coords": [
             6.11,
@@ -418,7 +428,7 @@
             "hu": "Árnyas út a folyópart mentén.",
             "ro": "O potecă umbrită pe malul râului.",
             "en": "A shaded path along the riverbank.",
-            "fr": "Un sentier ombragé le long de la rivière."
+            "fr": "Un chemin ombragé le long de la rivière."
           }
         },
         {
@@ -426,7 +436,8 @@
             "de": "Lac de la Buissonnière",
             "hu": "Buissonnière-tó",
             "ro": "Lacul Buissonnière",
-            "en": "Lac de la Buissonnière"
+            "en": "Lac de la Buissonnière",
+            "fr": "Lac de la Buissonnière"
           },
           "coords": [
             6.128,
@@ -442,7 +453,7 @@
             "hu": "Frissítő célpont a felfelé vezető út után.",
             "ro": "O destinație revigorantă după urcare.",
             "en": "A refreshing destination after the climb.",
-            "fr": "Une destination rafraîchissante après l'ascension."
+            "fr": "Une destination rafraîchissante après la montée."
           }
         }
       ],
@@ -451,7 +462,7 @@
         "hu": "Tapasztalja meg a modern üdülőhely és a hagyományos Venosc hegyi falu közötti kontrasztot. Kezdje a központban, és használja a felvonót egy látványos leereszkedéshez Venosc-ba. Odaérve fedezze fel a szűk utcákat és a történelmi Szent Benedek-kápolnát kerékpárral. Tekerjen a Vénéon folyó mentén a völgyben, és élvezze a hűvös szellőt. A visszaút vagy felvonóval, vagy a kihívást jelentő szerpentines úton vezet vissza a Buissonnière-tóhoz, ahol kényelmesen zárhatja a napot.",
         "ro": "Experimentați contrastul dintre stațiunea modernă și satul montan tradițional Venosc. Începeți în centru și folosiți telecabina pentru o coborâre spectaculoasă în Venosc. Odată ajunși acolo, explorați străzile înguste și capela istorică Sfântul Benoit cu bicicleta. Pedalați de-a lungul râului Vénéon în vale și bucurați-vă de briza răcoroasă. Drumul de întoarcere vă duce fie cu telecabina, fie pe drumul provocator cu serpentine înapoi la lacul Buissonnière, unde vă puteți încheia ziua relaxat.",
         "en": "Experience the contrast between the modern resort and the traditional mountain village of Venosc. Start in the center and use the gondola for a spectacular descent to Venosc. Once there, explore the narrow streets and the historic Saint-Benoît chapel by bike. Cycle along the Vénéon river in the valley and enjoy the cool breeze. The return journey takes you either by gondola or via the challenging serpentine road back to Lac de la Buissonnière, where you can end the day comfortably.",
-        "fr": "Découvrez le contraste entre la station moderne et le village de montagne traditionnel de Venosc. Partez du centre et empruntez la télécabine pour une descente spectaculaire vers Venosc. Une fois sur place, explorez à vélo les ruelles étroites et l'historique chapelle Saint-Benoît. Pédalez le long du Vénéon dans la vallée et profitez de la brise fraîche. Le retour se fait soit par la télécabine, soit par la route sinueuse et exigeante qui remonte vers le lac de la Buissonnière, où vous pourrez terminer la journée en douceur."
+        "fr": "Vivez le contraste entre la station moderne et le village montagnard traditionnel de Venosc. Commencez au centre et utilisez la gondole pour une descente spectaculaire vers Venosc. Une fois sur place, explorez les ruelles étroites et la chapelle historique Saint‑Benoît à vélo. Roulez le long de la rivière Vénéon dans la vallée et profitez de la brise fraîche. Le retour se fait soit en gondole, soit par la route sinueuse et exigeante jusqu’au Lac de la Buissonnière, où vous pourrez terminer la journée confortablement."
       },
       "gastro_picks": {
         "de": [
@@ -596,8 +607,8 @@
           "The descent to Venosc is very steep."
         ],
         "fr": [
-          "Les vélos sont souvent autorisés dans la télécabine de Venosc.",
-          "Faites attention aux randonneurs sur les sentiers partagés.",
+          "Emmenez votre vélo dans la gondole de Venosc (souvent autorisé).",
+          "Faites attention aux randonneurs sur les chemins partagés.",
           "La descente vers Venosc est très raide."
         ]
       }
@@ -615,7 +626,8 @@
             "de": "Station Les Deux Alpes",
             "hu": "Les Deux Alpes állomás",
             "ro": "Stația Les Deux Alpes",
-            "en": "Les Deux Alpes station"
+            "en": "Les Deux Alpes station",
+            "fr": "Gare des Deux Alpes"
           },
           "coords": [
             6.1228,
@@ -631,7 +643,7 @@
             "hu": "Központi parkoló a falu bejáratánál.",
             "ro": "Parcare centrală la intrarea în localitate.",
             "en": "Central parking at the village entrance.",
-            "fr": "Parking central à l'entrée du village."
+            "fr": "Parking central à l’entrée du village."
           }
         },
         {
@@ -639,7 +651,8 @@
             "de": "Jandri Express (Gletscherzugang)",
             "hu": "Jandri Express (gleccser-elérés)",
             "ro": "Jandri Express (acces ghețar)",
-            "en": "Jandri Express (Glacier access)"
+            "en": "Jandri Express (Glacier access)",
+            "fr": "Jandri Express (accès au glacier)"
           },
           "coords": [
             6.1245,
@@ -655,7 +668,7 @@
             "hu": "Parkolj a felvonóállomás közelében.",
             "ro": "Parcați lângă stația de telecabină.",
             "en": "Park near the gondola station.",
-            "fr": "Garez-vous à proximité de la station de la télécabine."
+            "fr": "Garez‑vous près de la station de la gondole."
           }
         },
         {
@@ -663,7 +676,8 @@
             "de": "Glacier du Mont de Lans",
             "hu": "Mont de Lans-gleccser",
             "ro": "Ghețarul Mont de Lans",
-            "en": "Glacier du Mont de Lans"
+            "en": "Glacier du Mont de Lans",
+            "fr": "Glacier du Mont de Lans"
           },
           "coords": [
             6.18,
@@ -679,7 +693,7 @@
             "hu": "Elérhető a Jandri Express-szel 3200 m-ig.",
             "ro": "Accesibil cu Jandri Express până la 3200 m.",
             "en": "Accessible via Jandri Express up to 3200m.",
-            "fr": "Accessible via le Jandri Express jusqu'à 3200 m."
+            "fr": "Accessible via le Jandri Express jusqu’à 3200 m."
           }
         },
         {
@@ -687,7 +701,8 @@
             "de": "Grotte de Glace",
             "hu": "Jégbarlang",
             "ro": "Peștera de Gheață",
-            "en": "Grotte de Glace"
+            "en": "Grotte de Glace",
+            "fr": "Grotte de Glace"
           },
           "coords": [
             6.185,
@@ -703,7 +718,7 @@
             "hu": "Jégszobrok a gleccser belsejében.",
             "ro": "Sculpturi de gheață în interiorul ghețarului.",
             "en": "Ice sculptures inside the glacier.",
-            "fr": "Sculptures de glace à l'intérieur du glacier."
+            "fr": "Sculptures de glace à l’intérieur du glacier."
           }
         },
         {
@@ -711,7 +726,8 @@
             "de": "Belvédère des Écrins",
             "hu": "Écrins-kilátó",
             "ro": "Belvederea Écrins",
-            "en": "Belvédère des Écrins"
+            "en": "Belvédère des Écrins",
+            "fr": "Belvédère des Écrins"
           },
           "coords": [
             6.19,
@@ -727,7 +743,7 @@
             "hu": "Lélegzetelállító kilátás a Meije-csúcsra.",
             "ro": "Vedere uluitoare spre vârful Meije.",
             "en": "Breathtaking view of the Meije peak.",
-            "fr": "Vue imprenable sur le sommet de la Meije."
+            "fr": "Vue à couper le souffle sur le sommet de la Meije."
           }
         },
         {
@@ -735,7 +751,8 @@
             "de": "Village de Mont de Lans",
             "hu": "Mont de Lans falu",
             "ro": "Satul Mont de Lans",
-            "en": "Mont de Lans village"
+            "en": "Mont de Lans village",
+            "fr": "Village de Mont de Lans"
           },
           "coords": [
             6.13,
@@ -751,7 +768,7 @@
             "hu": "Látogasson el a Chasal Lento Múzeumba.",
             "ro": "Vizitați Muzeul Chasal Lento.",
             "en": "Visit the Chasal Lento Museum.",
-            "fr": "Visitez le musée Chasal Lento."
+            "fr": "Visitez le Musée Chasal Lento."
           }
         }
       ],
@@ -760,7 +777,7 @@
         "hu": "Ez a túra az alpesi magasságokat kombinálja a falusi idillel. A faluban történő parkolás után a Jandri Express közvetlenül a Mont de Lans-gleccserhez viszi. Csodálja meg az örök jég világát, és látogassa meg a lenyűgöző jégbarlangot szobraival. Délben élvezze a panorámát az Écrins-kilátóból, mielőtt visszatérne a völgybe. A délutánt a csendes Mont de Lans faluban tölti, ahol meglátogatja a Chasal Lento Múzeumot, és megismeri a hagyományos alpesi életmódot, mielőtt megtenné a rövid utat vissza.",
         "ro": "Acest tur combină înălțimile alpine cu idila satului. După parcarea în stațiune, Jandri Express vă duce direct pe ghețarul Mont de Lans. Admirați lumea ghețurilor eterne și vizitați fascinanta peșteră de gheață cu sculpturile sale. La prânz, bucurați-vă de panorama de la Belvédère des Écrins înainte de a coborî cu gondola înapoi în vale. După-amiaza o petreceți în satul liniștit Mont de Lans, unde vizitați Muzeul Chasal Lento și învățați despre modul de viață tradițional alpin înainte de scurta călătorie de întoarcere.",
         "en": "This tour combines alpine heights with village idyll. After parking in the resort, the Jandri Express takes you directly to the Mont de Lans glacier. Marvel at the world of eternal ice and visit the fascinating ice grotto with its sculptures. At midday, enjoy the panorama from the Belvédère des Écrins before gliding back down to the valley. Spend the afternoon in the quiet village of Mont de Lans, where you will visit the Chasal Lento Museum and learn about the traditional alpine way of life before starting the short drive back.",
-        "fr": "Ce circuit combine les sommets alpins et l'idylle villageoise. Après vous être garé dans la station, le Jandri Express vous emmène directement au glacier du Mont de Lans. Émerveillez-vous devant l'univers des glaces éternelles et visitez la fascinante grotte de glace et ses sculptures. À midi, profitez du panorama depuis le Belvédère des Écrins avant de redescendre dans la vallée. Passez l'après-midi dans le village paisible de Mont de Lans, où vous visiterez le musée Chasal Lento pour découvrir le mode de vie alpin traditionnel."
+        "fr": "Cette visite combine les hauteurs alpines et l’idylle du village. Après vous être garé dans la station, le Jandri Express vous emmène directement au glacier du Mont de Lans. Admirez le monde de la neige éternelle et visitez la fascinante grotte de glace avec ses sculptures. À midi, profitez du panorama depuis le Belvédère des Écrins avant de redescendre dans la vallée. Passez l’après‑midi dans le village paisible de Mont de Lans, où vous visiterez le Musée Chasal Lento et découvrirez la vie alpine traditionnelle avant de reprendre la courte route du retour."
       },
       "gastro_picks": {
         "de": [
@@ -905,9 +922,9 @@
           "Pay attention to the last descent of the Jandri Express."
         ],
         "fr": [
-          "Il fait froid sur le glacier, même en été, prévoyez une veste.",
+          "Il fait froid sur le glacier même en été, prenez une veste.",
           "Les lunettes de soleil sont indispensables sur la neige.",
-          "Faites attention à l'heure de la dernière descente du Jandri Express."
+          "Faites attention à la dernière descente du Jandri Express."
         ]
       }
     },
@@ -924,7 +941,8 @@
             "de": "Shuttle-Haltestelle Station",
             "hu": "Ingajárat megálló",
             "ro": "Stație Shuttle stațiune",
-            "en": "Shuttle stop station"
+            "en": "Shuttle stop station",
+            "fr": "Arrêt de la navette"
           },
           "coords": [
             6.1228,
@@ -948,7 +966,8 @@
             "de": "Gondelstation Venosc",
             "hu": "Venosc felvonóállomás",
             "ro": "Stația de gondolă Venosc",
-            "en": "Venosc gondola station"
+            "en": "Venosc gondola station",
+            "fr": "Station de la gondole de Venosc"
           },
           "coords": [
             6.121,
@@ -972,7 +991,8 @@
             "de": "Village de Venosc",
             "hu": "Venosc falu",
             "ro": "Satul Venosc",
-            "en": "Village de Venosc"
+            "en": "Village de Venosc",
+            "fr": "Village de Venosc"
           },
           "coords": [
             6.115,
@@ -988,7 +1008,7 @@
             "hu": "Történelmi ékszerdoboz az Oisans-völgyben.",
             "ro": "O bijuterie istorică în Valea Oisans.",
             "en": "A historic gem in the Oisans valley.",
-            "fr": "Un joyau historique dans la vallée de l'Oisans."
+            "fr": "Un bijou historique de la vallée de l’Oisans."
           }
         },
         {
@@ -996,7 +1016,8 @@
             "de": "Chapelle Saint-Benoît",
             "hu": "Szent Benedek-kápolna",
             "ro": "Capela Sfântul Benoit",
-            "en": "Chapelle Saint-Benoît"
+            "en": "Chapelle Saint-Benoît",
+            "fr": "Chapelle Saint-Benoît"
           },
           "coords": [
             6.114,
@@ -1020,7 +1041,8 @@
             "de": "Lac de la Buissonnière (per Shuttle)",
             "hu": "Buissonnière-tó (ingajárattal)",
             "ro": "Lacul Buissonnière (cu shuttle)",
-            "en": "Lac de la Buissonnière (via shuttle)"
+            "en": "Lac de la Buissonnière (via shuttle)",
+            "fr": "Lac de la Buissonnière (via navette)"
           },
           "coords": [
             6.128,
@@ -1036,7 +1058,7 @@
             "hu": "Az ingajárat közvetlenül a tónál áll meg.",
             "ro": "Shuttle-ul oprește chiar lângă lac.",
             "en": "The shuttle stops right by the lake.",
-            "fr": "La navette s'arrête juste à côté du lac."
+            "fr": "La navette s’arrête juste à côté du lac."
           }
         }
       ],
@@ -1045,7 +1067,7 @@
         "hu": "Használja Les Deux Alpes kiváló közlekedési kapcsolatait a környék stresszmentes felfedezéséhez. Az ingyenes helyi busz kényelmesen elviszi a Venosc felvonóhoz, amellyel leereszkedhet a történelmi völgybe. Délben merüljön el Venosc autentikus világában, látogasson el a kézművesekhez és a bájos Szent Benedek-kápolnához. A felvonóval való visszatérés után az ingajárat közvetlenül a falu másik végén lévő Buissonnière-tóhoz viszi. Élvezze ott a délutánt a vízparton, mielőtt a busz visszavinné a szállodájába vagy a kiindulóponthoz.",
         "ro": "Folosiți conexiunile excelente de transport din Les Deux Alpes pentru a explora zona relaxat. Autobuzul local gratuit vă duce confortabil la gondola Venosc, cu care coborâți în valea istorică. La prânz, cufundați-vă în lumea autentică a Venosc-ului, vizitați artizanii și fermecătoarea capelă Sfântul Benoit. După întoarcerea cu telecabina, shuttle-ul vă duce direct la lacul Buissonnière, la celălalt capăt al stațiunii. Bucurați-vă acolo de după-amiază pe malul apei, înainte ca autobuzul să vă ducă înapoi la hotel sau la punctul de plecare.",
         "en": "Use Les Deux Alpes' excellent transport links to explore the area in a relaxed way. The free local bus takes you comfortably to the Venosc gondola, with which you glide down into the historic valley. At midday, immerse yourself in the authentic world of Venosc, visit artisans and the charming Saint-Benoît chapel. After returning by cable car, the shuttle takes you directly to Lac de la Buissonnière at the other end of the resort. Enjoy the afternoon there by the water before the bus takes you back to your hotel or starting point.",
-        "fr": "Utilisez les excellentes liaisons de transport des Deux Alpes pour explorer la région en toute sérénité. La navette gratuite vous emmène confortablement jusqu'à la télécabine de Venosc, qui vous plonge dans la vallée historique. À midi, imprégnez-vous de l'univers authentique de Venosc, allez à la rencontre des artisans et découvrez la charmante chapelle Saint-Benoît. Après être remonté par la télécabine, la navette vous conduit directement au lac de la Buissonnière, à l'autre extrémité de la station. Profitez-en pour vous détendre au bord de l'eau."
+        "fr": "Utilisez les excellentes liaisons de transport des Deux Alpes pour explorer la région sereinement. Le bus local gratuit vous conduit confortablement à la gondole de Venosc, avec laquelle vous descendez dans la vallée historique. À midi, imprégnez‑vous du monde authentique de Venosc, visitez des artisans et la charmante chapelle Saint‑Benoît. Après le retour en téléphérique, la navette vous amène directement au Lac de la Buissonnière à l’autre bout de la station. Profitez de l’après‑midi au bord de l’eau avant que le bus ne vous ramène à votre hôtel ou point de départ."
       },
       "gastro_picks": {
         "de": [
@@ -1190,8 +1212,8 @@
           "The transit to Venosc takes about 10 minutes."
         ],
         "fr": [
-          "La navette est gratuite pour tout le monde.",
-          "Vérifiez les horaires d'ouverture de la télécabine de Venosc (selon la saison).",
+          "Le bus Navette est gratuit pour tous.",
+          "Vérifiez les horaires d’exploitation de la gondole de Venosc (selon la saison).",
           "Le trajet vers Venosc dure environ 10 minutes."
         ]
       }

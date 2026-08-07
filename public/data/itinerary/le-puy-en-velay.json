@@ -32,7 +32,7 @@
             "hu": "Igyon egy kávét a színes házak gyűrűjében.",
             "ro": "Beți o cafea lângă casele colorate.",
             "en": "Enjoy a coffee surrounded by colorful historical houses.",
-            "fr": "Savourez un café entouré de maisons historiques colorées."
+            "fr": "Dégustez un café entouré de maisons historiques colorées."
           }
         },
         {
@@ -51,7 +51,7 @@
             "hu": "Nézze meg a csodálatos román kori kolostort.",
             "ro": "Vizitați superba mănăstire în stil romanic.",
             "en": "Don't miss the stunning Romanesque cloister.",
-            "fr": "Ne manquez pas le superbe cloître roman."
+            "fr": "Ne manquez pas le magnifique cloître roman."
           }
         },
         {
@@ -70,7 +70,7 @@
             "hu": "A kilátás a szobor tetejéről lélegzetelállító.",
             "ro": "Priveliștea de pe statuie este spectaculoasă.",
             "en": "The panoramic view from the top is breathtaking.",
-            "fr": "La vue panoramique depuis le sommet est époustouflante."
+            "fr": "La vue panoramique depuis le sommet est à couper le souffle."
           }
         },
         {
@@ -108,7 +108,7 @@
             "hu": "Készüljön fel a 268 lépcsőfok megmászására.",
             "ro": "Pregătiți-vă să urcați cele 268 de trepte.",
             "en": "Prepare for a climb of 268 stairs for incredible views.",
-            "fr": "Préparez-vous à une ascension de 268 marches pour des vues incroyables."
+            "fr": "Préparez-vous à monter 268 marches pour des vues incroyables."
           }
         }
       ],
@@ -117,7 +117,7 @@
         "hu": "Kezdje a napot a nyüzsgő Place du Plot téren, majd emelkedjen fel a fenséges katedrálishoz. Délben másszon fel a Rocher Corneille-re a vulkanikus táj panorámájáért. A délutánt töltse kulturális felfedezéssel a Musée Crozatier falai között. A napot a vulkáni kúpon trónoló Saint-Michel kápolna mágikus látványával zárja.",
         "ro": "Începeți ziua în vibranta Piață du Plot, apoi urcați spre catedrala maiestuoasă. La prânz, cuceriți Rocher Corneille pentru o panoramă asupra peisajului vulcanic. După-amiaza este dedicată culturii la Muzeul Crozatier și relaxării în grădina Henri Vinay. Încheiați cu ascensiunea magică spre capela Saint-Michel, cocoțată pe un coș vulcanic.",
         "en": "Start your day at the lively Place du Plot before ascending to the majestic cathedral. At midday, climb Rocher Corneille for a panorama of the volcanic Velay region. Spend the afternoon exploring culture at the Musée Crozatier. Conclude your tour with the magical ascent to the Saint-Michel chapel, perched high on a volcanic plug.",
-        "fr": "Commencez votre journée sur la vivante Place du Plot avant de monter vers la majestueuse cathédrale. À midi, grimpez au Rocher Corneille pour un panorama sur la région volcanique du Velay. Passez l'après-midi à explorer la culture au Musée Crozatier. Concluez votre visite par l'ascension magique vers la chapelle Saint-Michel, perchée sur un piton volcanique."
+        "fr": "Commencez la journée à la vivante Place du Plot avant de monter à la cathédrale majestueuse. À midi, grimpez Rocher Corneille pour un panorama de la région volcanique du Velay. Passez l'après-midi à explorer la culture au Musée Crozatier. Concluez votre visite par l'ascension magique vers la chapelle Saint-Michel, perchée au sommet d'un neck volcanique."
       },
       "gastro_picks": {
         "de": [
@@ -311,8 +311,8 @@
           "Look for the shells marking the start of the Santiago Way."
         ],
         "fr": [
-          "Portez des chaussures de marche confortables pour les rues escarpées en pavés.",
-          "La cathédrale est gratuite, mais le cloître nécessite un billet d'entrée.",
+          "Portez des chaussures de marche confortables pour les rues pavées et pentues.",
+          "La cathédrale est gratuite, mais le cloître nécessite un droit d'entrée.",
           "Prévoyez l'ascension de Saint-Michel en fin d'après-midi.",
           "Cherchez les coquilles marquant le début du chemin de Saint-Jacques."
         ]
@@ -323,7 +323,8 @@
             "de": "Beginnen Sie Ihren Tag auf dem belebten Place du Plot, bevor Sie zur majestätischen Kathedrale hinaufsteigen. Mittags erklimmen Sie den Rocher Corneille für ein Panorama über das vulkanische Velay. Der Nachmittag gehört der Kultur im Musée Crozatier und dem Garten von Henri Vinay. Den Abschluss bildet der magische Aufstieg zur Kapelle Saint-Michel, die auf einem vulkanischen Schlot thront.",
             "hu": "Kezdje a napot a nyüzsgő Place du Plot téren, majd emelkedjen fel a fenséges katedrálishoz. Délben másszon fel a Rocher Corneille-re a vulkanikus táj panorámájáért. A délutánt töltse kulturális felfedezéssel a Musée Crozatier falai között. A napot a vulkáni kúpon trónoló Saint-Michel kápolna mágikus látványával zárja.",
             "ro": "Începeți ziua în vibranta Piață du Plot, apoi urcați spre catedrala maiestuoasă. La prânz, cuceriți Rocher Corneille pentru o panoramă asupra peisajului vulcanic. După-amiaza este dedicată culturii la Muzeul Crozatier și relaxării în grădina Henri Vinay. Încheiați cu ascensiunea magică spre capela Saint-Michel, cocoțată pe un coș vulcanic.",
-            "en": "Start your day at the lively Place du Plot before ascending to the majestic cathedral. At midday, climb Rocher Corneille for a panorama of the volcanic Velay region. Spend the afternoon exploring culture at the Musée Crozatier. Conclude your tour with the magical ascent to the Saint-Michel chapel, perched high on a volcanic plug."
+            "en": "Start your day at the lively Place du Plot before ascending to the majestic cathedral. At midday, climb Rocher Corneille for a panorama of the volcanic Velay region. Spend the afternoon exploring culture at the Musée Crozatier. Conclude your tour with the magical ascent to the Saint-Michel chapel, perched high on a volcanic plug.",
+            "fr": "Commencez la journée à la vivante Place du Plot avant de monter à la cathédrale majestueuse. À midi, grimpez Rocher Corneille pour un panorama de la région volcanique du Velay. Passez l'après-midi à explorer la culture au Musée Crozatier. Concluez votre visite par l'ascension magique vers la chapelle Saint-Michel, perchée au sommet d'un neck volcanique."
           },
           "stops": [
             {
@@ -332,7 +333,8 @@
                 "de": "Trinken Sie einen Kaffee in der Nähe der bunten Häuser.",
                 "hu": "Igyon egy kávét a színes házak gyűrűjében.",
                 "ro": "Beți o cafea lângă casele colorate.",
-                "en": "Enjoy a coffee surrounded by colorful historical houses."
+                "en": "Enjoy a coffee surrounded by colorful historical houses.",
+                "fr": "Dégustez un café entouré de maisons historiques colorées."
               }
             },
             {
@@ -341,7 +343,8 @@
                 "de": "Besuchen Sie den wunderschönen romanischen Kreuzgang.",
                 "hu": "Nézze meg a csodálatos román kori kolostort.",
                 "ro": "Vizitați superba mănăstire în stil romanic.",
-                "en": "Don't miss the stunning Romanesque cloister."
+                "en": "Don't miss the stunning Romanesque cloister.",
+                "fr": "Ne manquez pas le magnifique cloître roman."
               }
             },
             {
@@ -350,7 +353,8 @@
                 "de": "Die Aussicht von der Spitze der Statue ist atemberaubend.",
                 "hu": "A kilátás a szobor tetejéről lélegzetelállító.",
                 "ro": "Priveliștea de pe statuie este spectaculoasă.",
-                "en": "The panoramic view from the top is breathtaking."
+                "en": "The panoramic view from the top is breathtaking.",
+                "fr": "La vue panoramique depuis le sommet est à couper le souffle."
               }
             },
             {
@@ -359,7 +363,8 @@
                 "de": "Entdecken Sie die berühmten Klöppelspitzen der Region.",
                 "hu": "Fedezze fel a régió híres vert csipkéit.",
                 "ro": "Descoperiți faimoasa dantelă locală.",
-                "en": "Discover the region's famous handmade lace collections."
+                "en": "Discover the region's famous handmade lace collections.",
+                "fr": "Découvrez les célèbres collections de dentelle faite main de la région."
               }
             },
             {
@@ -368,7 +373,8 @@
                 "de": "Bereiten Sie sich auf den Aufstieg über 268 Stufen vor.",
                 "hu": "Készüljön fel a 268 lépcsőfok megmászására.",
                 "ro": "Pregătiți-vă să urcați cele 268 de trepte.",
-                "en": "Prepare for a climb of 268 stairs for incredible views."
+                "en": "Prepare for a climb of 268 stairs for incredible views.",
+                "fr": "Préparez-vous à monter 268 marches pour des vues incroyables."
               }
             }
           ],
@@ -530,6 +536,12 @@
               "The cathedral is free, but the cloister requires an entry fee.",
               "Schedule the Saint-Michel climb for the late afternoon.",
               "Look for the shells marking the start of the Santiago Way."
+            ],
+            "fr": [
+              "Portez des chaussures de marche confortables pour les rues pavées et pentues.",
+              "La cathédrale est gratuite, mais le cloître nécessite un droit d'entrée.",
+              "Prévoyez l'ascension de Saint-Michel en fin d'après-midi.",
+              "Cherchez les coquilles marquant le début du chemin de Saint-Jacques."
             ]
           }
         },
@@ -539,7 +551,7 @@
             "hu": "Esős délelőtt a Place du Plot-on, ahol a színes árkádok nyújtanak menedéket. A katedrális tökéletes hely a zápor átvészelésére, mielőtt felkapaszkodnánk a Rocher Corneille-re. Délután a Musée Crozatier falai között maradunk szárazon. A napot a misztikus Saint-Michel sziklánál zárjuk, melynek sziluettje a ködben különösen drámai.",
             "ro": "O dimineață ploioasă în Place du Plot, unde arcadele colorate oferă adăpost. Catedrala este locul perfect pentru a scăpa de aversă înainte de a urca pe Rocher Corneille. La prânz, Muzeul Crozatier oferă un răgaz cultural uscat. Încheiem ziua la stânca mistică Saint-Michel, a cărei siluetă în ceață pare deosebit de dramatică.",
             "en": "A rainy morning at Place du Plot, where colorful arcades provide shelter. The Cathedral is the perfect spot to escape the downpour before climbing Rocher Corneille. In the afternoon, stay dry inside Musée Crozatier. We end the day at the mystical Saint-Michel rock, whose silhouette appears especially dramatic in the mist.",
-            "fr": "Une matinée pluvieuse sur la Place du Plot, où les arcades colorées offrent un abri. La Cathédrale est l'endroit parfait pour échapper à l'averse avant de monter au Rocher Corneille. L'après-midi, restez au sec à l'intérieur du Musée Crozatier. Nous terminons la journée au rocher mystique de Saint-Michel, dont la silhouette paraît particulièrement spectaculaire dans la brume."
+            "fr": "Matin pluvieux à la Place du Plot, où les arcades colorées offrent un abri. La cathédrale est l'endroit idéal pour échapper à l'averse avant de grimper Rocher Corneille. L'après-midi, restez au sec à l'intérieur du Musée Crozatier. Nous terminons la journée au mystique rocher Saint-Michel, dont la silhouette paraît particulièrement dramatique dans la brume."
           },
           "stops": [
             {
@@ -549,7 +561,7 @@
                 "hu": "Használja a kávézók árkádjait egy száraz kávézáshoz.",
                 "ro": "Folosiți arcadele cafenelelor pentru o cafea la adăpost.",
                 "en": "Use the cafe arcades for a dry coffee break.",
-                "fr": "Profitez des arcades des cafés pour une pause café au sec."
+                "fr": "Utilisez les arcades des cafés pour une pause-café à l'abri."
               }
             },
             {
@@ -569,7 +581,7 @@
                 "hu": "Vigyázat a lépcsőkön; esőben csúszósak lehetnek.",
                 "ro": "Atenție pe trepte; pot fi alunecoase când sunt ude.",
                 "en": "Caution on the steps; they can be slippery when wet.",
-                "fr": "Attention aux marches ; elles peuvent être glissantes lorsqu'elles sont mouillées."
+                "fr": "Attention aux marches ; elles peuvent être glissantes sous la pluie."
               }
             },
             {
@@ -589,7 +601,7 @@
                 "hu": "A feljutás meredek; esőben a stabil lábbeli kötelező.",
                 "ro": "Urcarea este abruptă; încălțămintea stabilă este obligatorie pe ploaie.",
                 "en": "The climb is steep; sturdy footwear is mandatory in the rain.",
-                "fr": "La montée est raide ; des chaussures robustes sont obligatoires sous la pluie."
+                "fr": "L'ascension est raide ; des chaussures solides sont indispensables sous la pluie."
               }
             }
           ],
@@ -619,10 +631,10 @@
               "The Cathedral and museum are perfect retreats during heavy rain."
             ],
             "fr": [
-              "Portez des chaussures avec une bonne adhérence pour les pavés mouillés.",
-              "Un parapluie compact est plus pratique dans les rues étroites.",
-              "Les points de vue sont souvent venteux, un imperméable est conseillé.",
-              "La Cathédrale et le musée sont des refuges parfaits lors de fortes pluies."
+              "Portez des chaussures à bonne adhérence pour les pavés mouillés.",
+              "Un parapluie compact est plus pratique dans les ruelles étroites.",
+              "Les points de vue sont souvent venteux ; un imperméable est conseillé.",
+              "La cathédrale et le musée sont des retraites parfaites lors de fortes pluies."
             ]
           }
         },
@@ -632,7 +644,7 @@
             "hu": "Tiszta téli nap a hűvös felsővárosban. A katedrális után a Rocher Corneille-re való feljutás a hideg ellenére messzi kilátást nyújt. Délben a Musée Crozatier-ben melegszünk fel. Mivel a nap 17:00 körül nyugszik, az aranyló fényeket a Rocher Saint-Michel-nél épp a szürkület beálltakor élvezzük.",
             "ro": "O zi senină de iarnă în orașul de sus. După catedrală, urcarea pe Rocher Corneille oferă o priveliște vastă în ciuda frigului. La prânz ne încălzim la Muzeul Crozatier. Deoarece soarele apune în jur de ora 17:00, savurăm lumina aurie la Rocher Saint-Michel exact la căderea serii.",
             "en": "A crisp winter day begins in the cool upper town. After the Cathedral, climbing Rocher Corneille offers far-reaching views despite the cold. We warm up at Musée Crozatier in the afternoon. Since the sun sets around 17:00, we enjoy the golden light at Rocher Saint-Michel just as dusk falls.",
-            "fr": "Une journée d'hiver revigorante commence dans la ville haute fraîche. Après la Cathédrale, monter au Rocher Corneille offre des vues lointaines malgré le froid. Nous nous réchauffons au Musée Crozatier l'après-midi. Le soleil se couchant vers 17h00, nous profitons de la lumière dorée au Rocher Saint-Michel juste à la tombée de la nuit."
+            "fr": "Une journée hivernale vive commence dans la fraîche haute ville. Après la cathédrale, la montée du Rocher Corneille offre des vues lointaines malgré le froid. Nous nous réchauffons au Musée Crozatier l'après-midi. Comme le soleil se couche vers 17:00, nous profitons de la lumière dorée au Rocher Saint-Michel alors que le crépuscule tombe."
           },
           "stops": [
             {
@@ -642,7 +654,7 @@
                 "hu": "Élvezzen egy forró csokoládét az egyik fűtött kávézóban.",
                 "ro": "Savurați o ciocolată caldă într-una dintre cafenelele încălzite.",
                 "en": "Enjoy a hot chocolate in one of the heated cafes.",
-                "fr": "Savourez un chocolat chaud dans l'un des cafés chauffés."
+                "fr": "Dégustez un chocolat chaud dans un des cafés chauffés."
               }
             },
             {
@@ -662,7 +674,7 @@
                 "hu": "Fent nagyon szeles az idő; a sapka és kesztyű fontos.",
                 "ro": "Sus este foarte vânt; căciula și mănușile sunt importante.",
                 "en": "It is very windy at the top; hat and gloves are essential.",
-                "fr": "Il y a beaucoup de vent au sommet ; bonnet et gants sont essentiels."
+                "fr": "Il souffle très fort au sommet ; bonnet et gants sont indispensables."
               }
             },
             {
@@ -682,7 +694,7 @@
                 "hu": "Látogasson el a sziklához 16:30 előtt a nappali fény miatt.",
                 "ro": "Vizitați stânca înainte de 16:30 pentru a profita de lumina zilei.",
                 "en": "Visit the rock before 16:30 to make the most of the daylight.",
-                "fr": "Visitez le rocher avant 16h30 pour profiter au maximum de la lumière du jour."
+                "fr": "Visitez le rocher avant 16:30 pour profiter au maximum de la lumière du jour."
               }
             }
           ],
@@ -712,10 +724,10 @@
               "Many cafes close earlier in winter than in summer."
             ],
             "fr": [
-              "Superposer vos vêtements aide contre le vent piquant.",
-              "Le soleil se couche tôt, prévoyez vos visites aux points de vue à temps.",
-              "Attention aux plaques de verglas sur les escaliers escarpés.",
-              "De nombreux cafés ferment plus tôt en hiver qu'en été."
+              "Superposer les couches de vêtements aide à lutter contre le vent mordant.",
+              "Le soleil se couche tôt, planifiez vos visites des panoramas en conséquence.",
+              "Surveillez les plaques de verglas sur les escaliers raides.",
+              "Beaucoup de cafés ferment plus tôt en hiver qu'en été."
             ]
           }
         }
@@ -764,7 +776,7 @@
             "hu": "Szép kerékpárút a Borne folyó mentén.",
             "ro": "O pistă de biciclete frumoasă de-a lungul râului Borne.",
             "en": "Enjoy a scenic ride along the Borne river.",
-            "fr": "Profitez d'une balade pittoresque le long de la rivière Borne."
+            "fr": "Profitez d'une agréable balade le long de la rivière Borne."
           }
         },
         {
@@ -783,7 +795,7 @@
             "hu": "Fedezze fel a borászok kerek kőkunyhóit.",
             "ro": "Descoperiți colibele de piatră ale viticultorilor.",
             "en": "Discover the unique dry-stone shelters of vine growers.",
-            "fr": "Découvrez les abris en pierre sèche uniques des vignerons."
+            "fr": "Découvrez les uniques abris en pierre sèche des vignerons."
           }
         },
         {
@@ -802,7 +814,7 @@
             "hu": "Árnyék és nyugalom a tekerés után.",
             "ro": "Umbră și liniște după plimbarea cu bicicleta.",
             "en": "Shade and peace after your cycling loop.",
-            "fr": "Ombre et paix après votre boucle à vélo."
+            "fr": "Ombre et tranquillité après votre boucle cycliste."
           }
         }
       ],
@@ -811,7 +823,7 @@
         "hu": "Ez a kerékpáros túra ötvözi a felsőváros történelmi örökségét a zöld környezettel. Az Hôtel-Dieu látogatása után kövesse a Borne-völgy lankás útjait. Délben fedezze fel a Chibotte-okat, a különleges kőépítményeket a valsi szőlőhegyen, majd térjen vissza a városi parkon keresztül.",
         "ro": "Acest tur pe bicicletă combină moștenirea istorică a orașului vechi cu împrejurimile verzi. După vizita la Hôtel-Dieu, urmați valea râului Borne pe poteci line. La prânz, descoperiți 'les chibottes', construcții de piatră fascinante în viile din Vals, înainte de a reveni prin parcul orașului.",
         "en": "This cycling tour combines the upper town's heritage with the green surroundings. After visiting Hôtel-Dieu, follow the Borne valley on gentle paths. At midday, discover the Chibottes, fascinating dry-stone shelters in the Vals vineyards, before returning through the lush city park.",
-        "fr": "Ce tour à vélo combine le patrimoine de la ville haute avec les environs verdoyants. Après avoir visité l'Hôtel-Dieu, suivez la vallée de la Borne sur des sentiers doux. À midi, découvrez les Chibottes, de fascinants abris en pierre sèche dans les vignobles de Vals, avant de revenir par le parc luxuriant de la ville."
+        "fr": "Cette boucle cycliste combine le patrimoine de la haute ville avec les environs verdoyants. Après la visite de l'Hôtel-Dieu, suivez la vallée de la Borne sur des pistes douces. À midi, découvrez les Chibottes, fascinants abris en pierre sèche dans les vignobles de Vals, avant de revenir par le parc urbain luxuriant."
       },
       "gastro_picks": {
         "de": [
@@ -940,10 +952,10 @@
           "Watch out for pedestrians in the narrow old town streets."
         ],
         "fr": [
-          "La ville haute est très escarpée ; utilisez un vélo électrique si possible.",
-          "La 'Voie Verte' commence en périphérie et est très plate.",
-          "Emportez assez d'eau pour la montée vers Vals.",
-          "Faites attention aux piétons dans les rues étroites de la vieille ville."
+          "La haute ville est très pentue ; utilisez un VAE si possible.",
+          "La 'Voie Verte' démarre en périphérie et est très plate.",
+          "Emportez suffisamment d'eau pour la montée vers Vals.",
+          "Faites attention aux piétons dans les ruelles étroites de la vieille ville."
         ]
       },
       "variants": {
@@ -952,7 +964,8 @@
             "de": "Diese Radtour kombiniert das historische Erbe der Oberstadt mit der grünen Umgebung. Nach einem Besuch des Hôtel-Dieu folgen Sie dem Borne-Tal auf sanften Wegen. Am Mittag entdecken Sie die Chibottes, faszinierende Steinbauten in den Weinbergen von Vals, bevor Sie entspannt durch den Stadtpark zurückkehren.",
             "hu": "Ez a kerékpáros túra ötvözi a felsőváros történelmi örökségét a zöld környezettel. Az Hôtel-Dieu látogatása után kövesse a Borne-völgy lankás útjait. Délben fedezze fel a Chibotte-okat, a különleges kőépítményeket a valsi szőlőhegyen, majd térjen vissza a városi parkon keresztül.",
             "ro": "Acest tur pe bicicletă combină moștenirea istorică a orașului vechi cu împrejurimile verzi. După vizita la Hôtel-Dieu, urmați valea râului Borne pe poteci line. La prânz, descoperiți 'les chibottes', construcții de piatră fascinante în viile din Vals, înainte de a reveni prin parcul orașului.",
-            "en": "This cycling tour combines the upper town's heritage with the green surroundings. After visiting Hôtel-Dieu, follow the Borne valley on gentle paths. At midday, discover the Chibottes, fascinating dry-stone shelters in the Vals vineyards, before returning through the lush city park."
+            "en": "This cycling tour combines the upper town's heritage with the green surroundings. After visiting Hôtel-Dieu, follow the Borne valley on gentle paths. At midday, discover the Chibottes, fascinating dry-stone shelters in the Vals vineyards, before returning through the lush city park.",
+            "fr": "Cette randonnée à vélo mêle le patrimoine de la haute ville à son écrin de verdure. Après la visite de l’Hôtel-Dieu, suivez la vallée de la Borne sur des pistes douces. À midi, découvrez les chibottes, fascinants abris en pierres sèches dans les vignobles de Vals, avant de revenir par le parc urbain luxuriant."
           },
           "stops": [
             {
@@ -961,7 +974,8 @@
                 "de": "Bewundern Sie die Architektur des alten Krankenhauses.",
                 "hu": "Csodálja meg a régi kórház építészetét.",
                 "ro": "Admirați arhitectura vechiului spital.",
-                "en": "Admire the architecture of the ancient hospital."
+                "en": "Admire the architecture of the ancient hospital.",
+                "fr": "Admirez l’architecture de l’ancien hôpital."
               }
             },
             {
@@ -970,7 +984,8 @@
                 "de": "Ein schöner Radweg entlang des Flusses Borne.",
                 "hu": "Szép kerékpárút a Borne folyó mentén.",
                 "ro": "O pistă de biciclete frumoasă de-a lungul râului Borne.",
-                "en": "Enjoy a scenic ride along the Borne river."
+                "en": "Enjoy a scenic ride along the Borne river.",
+                "fr": "Profitez d’une balade panoramique le long de la rivière Borne."
               }
             },
             {
@@ -979,7 +994,8 @@
                 "de": "Entdecken Sie die runden Steinhütten der Weinbauern.",
                 "hu": "Fedezze fel a borászok kerek kőkunyhóit.",
                 "ro": "Descoperiți colibele de piatră ale viticultorilor.",
-                "en": "Discover the unique dry-stone shelters of vine growers."
+                "en": "Discover the unique dry-stone shelters of vine growers.",
+                "fr": "Découvrez les abris en pierres sèches uniques des vignerons."
               }
             },
             {
@@ -988,7 +1004,8 @@
                 "de": "Schatten und Ruhe nach der Radtour.",
                 "hu": "Árnyék és nyugalom a tekerés után.",
                 "ro": "Umbră și liniște după plimbarea cu bicicleta.",
-                "en": "Shade and peace after your cycling loop."
+                "en": "Shade and peace after your cycling loop.",
+                "fr": "Ombre et tranquillité après votre boucle à vélo."
               }
             }
           ],
@@ -1098,6 +1115,12 @@
               "The 'Voie Verte' starts on the outskirts and is very flat.",
               "Carry enough water for the climb towards Vals.",
               "Watch out for pedestrians in the narrow old town streets."
+            ],
+            "fr": [
+              "La haute ville est très pentue ; utilisez un VAE si possible.",
+              "La 'Voie Verte' commence en périphérie et est très plate.",
+              "Emportez suffisamment d’eau pour la montée vers Vals.",
+              "Attention aux piétons dans les ruelles étroites de la vieille ville."
             ]
           }
         },
@@ -1107,7 +1130,7 @@
             "hu": "Frissítő kerékpártúra a Borne-völgyben az eső ellenére. Az Hôtel-Dieu-től indulunk, óvatosan tekerve a vizes utakon a Borne völgy felé. Délben érjük el a Chibottes de Vals-t, ahol a talaj sáros lehet. A napot a Musée Crozatier parkjában zárjuk, miközben az eső lassan eláll.",
             "ro": "O tură revigorantă cu bicicleta prin valea Borne, în ciuda ploii. Pornim de la Hôtel-Dieu și pedalăm cu atenție pe drumurile ude spre Valea Borne. La prânz ajungem la Chibottes de Vals, unde solul poate fi noroios. Încheiem cu o tură relaxată prin parcul Muzeului Crozatier, în timp ce ploaia se domolește.",
             "en": "A refreshing bike ride through the Borne valley despite the rain. Starting at Hôtel-Dieu, we cycle carefully on wet paths towards Borne Tal. By midday, we reach Chibottes de Vals, where the ground might be muddy. We finish with a relaxed loop through the Musée Crozatier park as the rain slowly subsides.",
-            "fr": "Une balade à vélo rafraîchissante à travers la vallée de la Borne malgré la pluie. En partant de l'Hôtel-Dieu, nous pédalons prudemment sur les sentiers mouillés vers la vallée de la Borne. À midi, nous atteignons les Chibottes de Vals, où le sol peut être boueux. Nous terminons par une boucle détendue dans le parc du Musée Crozatier alors que la pluie s'apaise lentement."
+            "fr": "Une balade à vélo rafraîchissante dans la vallée de la Borne malgré la pluie. En partant de l’Hôtel-Dieu, nous roulons prudemment sur des chemins mouillés vers la vallée de la Borne. À midi, nous atteignons les Chibottes de Vals, où le sol peut être boueux. Nous terminons par une boucle détendue dans le parc du Musée Crozatier alors que la pluie s’atténue progressivement."
           },
           "stops": [
             {
@@ -1117,7 +1140,7 @@
                 "hu": "Ellenőrizze a fékeket, mielőtt a vizes macskakőre hajtana.",
                 "ro": "Verificați frânele înainte de a intra pe piatra cubică udă.",
                 "en": "Check your brakes before heading onto wet cobblestones.",
-                "fr": "Vérifiez vos freins avant de vous engager sur les pavés mouillés."
+                "fr": "Vérifiez vos freins avant d’emprunter des pavés mouillés."
               }
             },
             {
@@ -1127,7 +1150,7 @@
                 "hu": "A parti utakon tócsák lehetnek; a sárvédő ajánlott.",
                 "ro": "Potecile de pe mal pot avea bălți; aripile sunt recomandate.",
                 "en": "Riverbank paths may have puddles; mudguards are advisable.",
-                "fr": "Les sentiers de bord de rivière peuvent avoir des flaques ; des garde-boues sont conseillés."
+                "fr": "Les chemins en bord de rivière peuvent comporter des flaques ; des garde-boue sont conseillés."
               }
             },
             {
@@ -1137,7 +1160,7 @@
                 "hu": "Vigyázat a nem szilárd utakon; csúszásveszély sárban.",
                 "ro": "Atenție pe drumurile neasfaltate; risc de alunecare în noroi.",
                 "en": "Caution on unpaved paths; risk of slipping in the mud.",
-                "fr": "Attention sur les chemins non goudronnés ; risque de glisser dans la boue."
+                "fr": "Prudence sur les chemins non revêtus ; risque de glissade dans la boue."
               }
             },
             {
@@ -1147,7 +1170,7 @@
                 "hu": "Kanyarodjon lassan a vizes aszfalton.",
                 "ro": "Luați curbele încet pe asfaltul ud.",
                 "en": "Take corners slowly on the wet asphalt.",
-                "fr": "Prenez les virages lentement sur l'asphalte mouillé."
+                "fr": "Prenez les virages lentement sur l’asphalte mouillé."
               }
             }
           ],
@@ -1177,9 +1200,9 @@
               "A cloth to wipe the saddle is very helpful."
             ],
             "fr": [
-              "Un équipement de pluie complet incluant des couvre-chaussures est recommandé.",
-              "Évitez les freinages brusques sur les surfaces mouillées.",
-              "Gardez vos distances avec les autres usagers de la route en cas de mauvaise visibilité.",
+              "Un équipement pluie complet, y compris des couvre-chaussures, est recommandé.",
+              "Évitez les freinages brusques sur surfaces mouillées.",
+              "Gardez vos distances avec les autres usagers en cas de faible visibilité.",
               "Un chiffon pour essuyer la selle est très utile."
             ]
           }
@@ -1190,7 +1213,7 @@
             "hu": "Téli kerékpártúra a hűvös Auvergne-ben. Jól felöltözve indulunk az Hôtel-Dieu-től. A Borne-völgyi tekerés frissítő, de a lehetséges zúzmara miatt koncentrációt igényel. A Chibottes de Vals-nál élvezzük a téli csendet, majd visszatérünk a városba melegedni, és a parkban zárjuk a napot.",
             "ro": "O tură cu bicicleta prin Auvergne-ul răcoros de iarnă. Pornim bine echipați de la Hôtel-Dieu. Drumul prin Valea Borne este revigorant, dar necesită concentrare din cauza posibilei chiciuri. La Chibottes de Vals ne bucurăm de liniștea iernii, înainte de a ne întoarce în oraș pentru a ne încălzi.",
             "en": "A wintry bike ride through cool Auvergne. We start well-layered from Hôtel-Dieu. The ride through Borne valley is refreshing but requires focus due to potential frost. At Chibottes de Vals, we enjoy the winter silence before returning to town to warm up and ending the day in the park.",
-            "fr": "Une balade hivernale à vélo à travers l'Auvergne fraîche. Nous partons bien couverts depuis l'Hôtel-Dieu. Le trajet à travers la vallée de la Borne est rafraîchissant mais demande de la concentration à cause du givre potentiel. Aux Chibottes de Vals, nous profitons du silence hivernal avant de retourner en ville pour nous réchauffer et finir la journée dans le parc."
+            "fr": "Une sortie à vélo hivernale dans une Auvergne fraîche. Nous partons bien couverts de l’Hôtel-Dieu. La traversée de la vallée de la Borne est vivifiante mais demande concentration à cause du gel possible. Aux Chibottes de Vals, nous profitons du silence hivernal avant de revenir en ville pour nous réchauffer et terminer la journée dans le parc."
           },
           "stops": [
             {
@@ -1210,7 +1233,7 @@
                 "hu": "Ügyeljen az árnyékos szakaszokra, amelyek jegesek lehetnek.",
                 "ro": "Atenție la porțiunile umbrite care pot fi înghețate.",
                 "en": "Watch out for shaded sections that might be icy.",
-                "fr": "Faites attention aux sections ombragées qui pourraient être verglacées."
+                "fr": "Attention aux sections ombragées qui peuvent être verglacées."
               }
             },
             {
@@ -1220,7 +1243,7 @@
                 "hu": "Tartson egy rövid sétát, hogy melegen tartsa a lábait.",
                 "ro": "Faceți o scurtă pauză de mers pe jos pentru a vă menține picioarele calde.",
                 "en": "Take a short walking break to keep your feet warm.",
-                "fr": "Faites une courte pause en marchant pour garder vos pieds au chaud."
+                "fr": "Faites une courte pause à pied pour réchauffer vos pieds."
               }
             },
             {
@@ -1230,7 +1253,7 @@
                 "hu": "Fejezze be a túrát sötétedés előtt.",
                 "ro": "Încheiați tura înainte de lăsarea întunericului.",
                 "en": "Finish the tour before darkness falls.",
-                "fr": "Terminez le tour avant la tombée de la nuit."
+                "fr": "Terminez la balade avant la tombée de la nuit."
               }
             }
           ],
@@ -1261,9 +1284,9 @@
             ],
             "fr": [
               "Un thermos de thé chaud est indispensable en hiver.",
-              "Assurez-vous que l'éclairage de votre vélo fonctionne parfaitement.",
-              "Protégez votre visage du vent froid avec une écharpe en roulant.",
-              "Prévoyez des étapes plus courtes, car l'énergie baisse plus vite dans le froid."
+              "Assurez-vous que l’éclairage de votre vélo fonctionne parfaitement.",
+              "Protégez votre visage avec un tour de cou contre le vent froid lors de la roulade.",
+              "Prévoyez des étapes plus courtes, l’énergie baisse plus vite par le froid."
             ]
           }
         }
@@ -1312,7 +1335,7 @@
             "hu": "Bevethetetlen erőd egy vulkáni fennsíkon.",
             "ro": "O cetate inexpugnabilă pe un platou vulcanic.",
             "en": "An impregnable fortress set on a volcanic plateau.",
-            "fr": "Une forteresse imprenable située sur un plateau volcanique."
+            "fr": "Une forteresse imprenable perchée sur un plateau volcanique."
           }
         },
         {
@@ -1359,7 +1382,7 @@
         "hu": "Autóval felfedezheti Le Puy környékének legszebb pontjait. A Saint-Michel kápolna után hajtson Polignac impozáns erődjéhez. Délután a vadregényes Beaume-vízesés várja az erdő mélyén. A napot a Pagès lepárlóban zárja, ahol megismerheti a Velay vidékének folyékony aranyát.",
         "ro": "Cu mașina veți descoperi locurile emblematice din jurul orașului. După capela Saint-Michel, conduceți spre impunătoarea cetate Polignac. După-amiaza vă duce spre cascada Beaume, ascunsă în mijlocul naturii sălbatice. Încheiați ziua la distileria Pagès pentru a descoperi lichiorul tradițional local.",
         "en": "By car, you can easily explore the landmarks surrounding Le Puy. After the Saint-Michel chapel, drive to the imposing Fortress of Polignac. In the afternoon, head to the hidden Beaume waterfall in the wild countryside. Complete your day with a visit to the Pagès distillery to discover the region's famous herbal liqueur.",
-        "fr": "En voiture, vous pouvez facilement explorer les sites entourant Le Puy. Après la chapelle Saint-Michel, conduisez jusqu'à l'imposante forteresse de Polignac. L'après-midi, dirigez-vous vers la cascade cachée de la Beaume dans la campagne sauvage. Terminez votre journée par une visite à la distillerie Pagès pour découvrir la célèbre liqueur aux herbes de la région."
+        "fr": "En voiture, vous pouvez facilement explorer les sites autour du Puy. Après la chapelle Saint-Michel, rejoignez la imposante forteresse de Polignac. L’après‑midi, rendez-vous à la dissimulée cascade de la Beaume en pleine nature. Terminez la journée par la visite de la distillerie Pagès pour découvrir la célèbre liqueur aux plantes de la région."
       },
       "gastro_picks": {
         "de": [
@@ -1488,9 +1511,9 @@
           "Polignac is usually less crowded in the morning."
         ],
         "fr": [
-          "Utilisez le grand parking de la Place de la Libération.",
-          "Le trajet jusqu'à la cascade de la Beaume dure environ 20 minutes.",
-          "Soyez prudent avec les virages étroits dans les vallées volcaniques.",
+          "Utilisez le grand parking de la 'Place de la Libération'.",
+          "Le trajet jusqu’à la cascade de la Beaume prend environ 20 minutes.",
+          "Soyez vigilant dans les courbes étroites des vallées volcaniques.",
           "Polignac est généralement moins fréquenté le matin."
         ]
       },
@@ -1500,7 +1523,8 @@
             "de": "Mit dem Auto entdecken Sie die Highlights rund um Le Puy. Nach der Kapelle Saint-Michel fahren Sie zur imposanten Festung Polignac. Am Nachmittag führt Sie die Fahrt zum versteckten Wasserfall Beaume inmitten wilder Natur. Den Abschluss bildet ein Besuch der Pagès-Destillerie, um das flüssige Gold des Velay zu entdecken.",
             "hu": "Autóval felfedezheti Le Puy környékének legszebb pontjait. A Saint-Michel kápolna után hajtson Polignac impozáns erődjéhez. Délután a vadregényes Beaume-vízesés várja az erdő mélyén. A napot a Pagès lepárlóban zárja, ahol megismerheti a Velay vidékének folyékony aranyát.",
             "ro": "Cu mașina veți descoperi locurile emblematice din jurul orașului. După capela Saint-Michel, conduceți spre impunătoarea cetate Polignac. După-amiaza vă duce spre cascada Beaume, ascunsă în mijlocul naturii sălbatice. Încheiați ziua la distileria Pagès pentru a descoperi lichiorul tradițional local.",
-            "en": "By car, you can easily explore the landmarks surrounding Le Puy. After the Saint-Michel chapel, drive to the imposing Fortress of Polignac. In the afternoon, head to the hidden Beaume waterfall in the wild countryside. Complete your day with a visit to the Pagès distillery to discover the region's famous herbal liqueur."
+            "en": "By car, you can easily explore the landmarks surrounding Le Puy. After the Saint-Michel chapel, drive to the imposing Fortress of Polignac. In the afternoon, head to the hidden Beaume waterfall in the wild countryside. Complete your day with a visit to the Pagès distillery to discover the region's famous herbal liqueur.",
+            "fr": "En voiture, vous pouvez facilement explorer les sites autour du Puy. Après la chapelle Saint-Michel, rejoignez la imposante forteresse de Polignac. L’après‑midi, rendez-vous à la dissimulée cascade de la Beaume en pleine nature. Terminez la journée par la visite de la distillerie Pagès pour découvrir la célèbre liqueur aux plantes de la région."
           },
           "stops": [
             {
@@ -1509,7 +1533,8 @@
                 "de": "Parken Sie am Fuße des Felsens.",
                 "hu": "Parkoljon a szikla lábánál.",
                 "ro": "Parcați la baza stâncii.",
-                "en": "Park at the base of the rock for easy access."
+                "en": "Park at the base of the rock for easy access.",
+                "fr": "Garez-vous au pied du rocher pour un accès facile."
               }
             },
             {
@@ -1518,7 +1543,8 @@
                 "de": "Eine uneinnehmbare Festung auf einem Vulkantisch.",
                 "hu": "Bevethetetlen erőd egy vulkáni fennsíkon.",
                 "ro": "O cetate inexpugnabilă pe un platou vulcanic.",
-                "en": "An impregnable fortress set on a volcanic plateau."
+                "en": "An impregnable fortress set on a volcanic plateau.",
+                "fr": "Une forteresse imprenable perchée sur un plateau volcanique."
               }
             },
             {
@@ -1527,7 +1553,8 @@
                 "de": "Ein spektakulärer Wasserfall im Wald.",
                 "hu": "Látványos vízesés az erdő mélyén.",
                 "ro": "O cascadă spectaculoasă în pădure.",
-                "en": "A spectacular waterfall tucked in the forest."
+                "en": "A spectacular waterfall tucked in the forest.",
+                "fr": "Une cascade spectaculaire nichée dans la forêt."
               }
             },
             {
@@ -1536,7 +1563,8 @@
                 "de": "Besuchen Sie die Produktion des berühmten Likörs.",
                 "hu": "Látogassa meg a híres likőrgyárat.",
                 "ro": "Vizitați locul de producție al faimosului lichior.",
-                "en": "Visit the distillery of the famous local liqueur."
+                "en": "Visit the distillery of the famous local liqueur.",
+                "fr": "Visitez la distillerie de la célèbre liqueur locale."
               }
             }
           ],
@@ -1646,6 +1674,12 @@
               "The drive to Beaume waterfall takes about 20 minutes.",
               "Be careful with narrow curves in the volcanic valleys.",
               "Polignac is usually less crowded in the morning."
+            ],
+            "fr": [
+              "Utilisez le grand parking de la 'Place de la Libération'.",
+              "Le trajet jusqu’à la cascade de la Beaume prend environ 20 minutes.",
+              "Soyez vigilant dans les courbes étroites des vallées volcaniques.",
+              "Polignac est généralement moins fréquenté le matin."
             ]
           }
         },
@@ -1655,7 +1689,7 @@
             "hu": "Kényelmes nap az autóban, védve az esőtől. A Saint-Michel kápolnánál kezdünk, ahol a vizes város látványa lenyűgöző. Polignac erődje esőben különösen zordnak tűnik. Délben a Cascade de la Beaume vízesést nézzük meg, amely a záporok után különösen erőteljes, majd a napot a meleg Pagès lepárlóban zárjuk.",
             "ro": "O zi relaxată în mașină, protejați de ploaie. Începem la capela Saint-Michel, unde vederea asupra orașului ud este fascinantă. Cetatea Polignac pare deosebit de impunătoare pe ploaie. La prânz vizităm Cascade de la Beaume, care este foarte puternică după ploi, înainte de a încheia ziua la distileria Pagès.",
             "en": "A relaxed day by car, protected from the rain. We start at Saint-Michel chapel, where the view of the wet city is fascinating. The Fortress of Polignac looks particularly imposing in the rain. In the afternoon, we visit Cascade de la Beaume, which is exceptionally powerful after the downpours, before ending at the warm Pagès Distillery.",
-            "fr": "Une journée détendue en voiture, à l'abri de la pluie. Nous commençons par la chapelle Saint-Michel, d'où la vue sur la ville mouillée est fascinante. La forteresse de Polignac semble particulièrement imposante sous la pluie. L'après-midi, nous visitons la Cascade de la Beaume, exceptionnellement puissante après les averses, avant de finir à la chaleureuse distillerie Pagès."
+            "fr": "Une journée détendue en voiture, à l’abri de la pluie. Nous commençons à la chapelle Saint-Michel, d’où la vue sur la ville mouillée est fascinante. La forteresse de Polignac paraît particulièrement imposante sous la pluie. L’après‑midi, nous visitons la Cascade de la Beaume, exceptionnellement puissante après les averses, avant de terminer à la chaleureuse distillerie Pagès."
           },
           "stops": [
             {
@@ -1665,7 +1699,7 @@
                 "hu": "Parkoljon közel a bejárathoz, hogy lerövidítse az utat az esőben.",
                 "ro": "Parcați aproape de intrare pentru a scurta drumul prin ploaie.",
                 "en": "Park close to the entrance to keep the walk in the rain short.",
-                "fr": "Garez-vous près de l'entrée pour raccourcir la marche sous la pluie."
+                "fr": "Garez‑vous près de l’entrée pour réduire la marche sous la pluie."
               }
             },
             {
@@ -1695,7 +1729,7 @@
                 "hu": "Tökéletes hely egy látogatásra és kóstolásra szárazon.",
                 "ro": "Locul perfect pentru o vizită și o degustare la adăpost.",
                 "en": "Perfect spot for a tour and tasting while staying dry.",
-                "fr": "Endroit parfait pour une visite et une dégustation tout en restant au sec."
+                "fr": "Endroit parfait pour une visite et une dégustation à l’abri."
               }
             }
           ],
@@ -1725,10 +1759,10 @@
               "The waterfalls are a true highlight after rainfall."
             ],
             "fr": [
-              "Un parapluie dans la voiture est indispensable pour les marches vers les sites.",
-              "Évitez les parkings non goudronnés pendant les fortes pluies.",
-              "La visibilité dans les montagnes autour du Puy peut être limitée par la brume.",
-              "Les cascades sont un véritable spectacle après la pluie."
+              "Un parapluie dans la voiture est indispensable pour les trajets jusqu’aux sites.",
+              "Évitez les parkings non stabilisés lors de fortes pluies.",
+              "La visibilité en montagne autour du Puy peut être limitée par la brume.",
+              "Les cascades sont un vrai spectacle après les pluies."
             ]
           }
         },
@@ -1738,7 +1772,7 @@
             "hu": "Téli autós kirándulás Le Puy környékén. A Saint-Michel kápolnánál kezdünk, melynek vulkanikus szikláit gyakran zúzmara borítja. Polignac erődje tiszta kilátást nyújt a téli tájra. A jeges Cascade de la Beaume megtekintése után a Pagès lepárlóban melegszünk fel.",
             "ro": "O plimbare de iarnă cu mașina în jurul Le Puy. Începem la capela Saint-Michel, ale cărei stânci vulcanice sunt adesea acoperite de chiciură. Cetatea Polignac oferă o vedere clară asupra peisajului hibernal. După o vizită la cascada înghețată de la Beaume, ne încălzim la distileria Pagès.",
             "en": "A wintry drive around Le Puy. We start at Saint-Michel chapel, whose volcanic rocks are often coated in frost. The Fortress of Polignac offers clear views over the winter landscape. After visiting the frozen Cascade de la Beaume, we warm up with a tour of the Pagès Distillery.",
-            "fr": "Une virée hivernale autour du Puy. Nous commençons à la chapelle Saint-Michel, dont les roches volcaniques sont souvent couvertes de givre. La forteresse de Polignac offre des vues dégagées sur le paysage hivernal. Après avoir visité la Cascade de la Beaume gelée, nous nous réchauffons avec une visite de la distillerie Pagès."
+            "fr": "Une balade hivernale en voiture autour du Puy. Nous commençons à la chapelle Saint-Michel, dont les roches volcaniques sont souvent givrées. La forteresse de Polignac offre des vues dégagées sur le paysage hivernal. Après la visite de la Cascade de la Beaume gelée, nous nous réchauffons avec une visite de la distillerie Pagès."
           },
           "stops": [
             {
@@ -1748,7 +1782,7 @@
                 "hu": "Ellenőrizze, hogy a lépcsők járhatóak-e a jegesedés miatt.",
                 "ro": "Verificați dacă scările sunt accesibile în caz de polei.",
                 "en": "Check if the stairs are accessible in case of ice.",
-                "fr": "Vérifiez si les escaliers sont accessibles en cas de glace."
+                "fr": "Vérifiez si les escaliers sont praticables en cas de verglas."
               }
             },
             {
@@ -1768,7 +1802,7 @@
                 "hu": "Télen gyakran részben befagyott és meseszép látvány.",
                 "ro": "Iarna este adesea parțial înghețată și arată ca în povești.",
                 "en": "Often partially frozen in winter and looks like a fairytale.",
-                "fr": "Souvent partiellement gelée en hiver, elle ressemble à un décor de conte de fées."
+                "fr": "Souvent partiellement gelée en hiver, elle ressemble à un conte de fées."
               }
             },
             {
@@ -1778,7 +1812,7 @@
                 "hu": "Egy gyógynövénylikőr felmelegít a vízeséshez tett túra után.",
                 "ro": "Un lichior de plante vă va încălzi după drumeția la cascadă.",
                 "en": "An herbal liqueur will warm you up after the hike to the falls.",
-                "fr": "Une liqueur aux herbes vous réchauffera après la randonnée jusqu'aux chutes."
+                "fr": "Une liqueur aux plantes vous réchauffera après la marche jusqu’à la cascade."
               }
             }
           ],
@@ -1808,10 +1842,10 @@
               "Polignac Fortress has limited opening hours in winter."
             ],
             "fr": [
-              "Pneus hiver ou chaînes à neige sont obligatoires dans cette région.",
-              "Attention au verglas on les petites routes de montagne.",
+              "Pneus hiver ou chaînes sont obligatoires dans cette région.",
+              "Attention au verglas noir sur les petites routes de montagne.",
               "Emportez une couverture et des boissons chaudes pour les urgences.",
-              "La forteresse de Polignac a des horaires d'ouverture limités en hiver."
+              "La forteresse de Polignac a des horaires réduits en hiver."
             ]
           }
         }
@@ -1841,7 +1875,7 @@
             "hu": "Minden buszjárat központi csomópontja.",
             "ro": "Nod central pentru toate liniile de autobuz.",
             "en": "Central hub for all local bus lines.",
-            "fr": "Pôle central pour toutes les lignes de bus locales."
+            "fr": "Nœud central de toutes les lignes de bus locales."
           }
         },
         {
@@ -1860,7 +1894,7 @@
             "hu": "A buszok pár perces sétára állnak meg a katedrálistól.",
             "ro": "Autobuzele opresc la câteva minute de mers pe jos.",
             "en": "Buses stop just a few minutes' walk below the cathedral.",
-            "fr": "Les bus s'arrêtent à quelques minutes à pied en contrebas de la cathédrale."
+            "fr": "Les bus s’arrêtent à quelques minutes à pied de la cathédrale."
           }
         },
         {
@@ -1879,7 +1913,7 @@
             "hu": "Modern kiállítóterek a város szívében.",
             "ro": "Spații de expoziție moderne în centrul orașului.",
             "en": "Modern exhibition spaces in the heart of the city.",
-            "fr": "Espaces d'exposition modernes au cœur de la ville."
+            "fr": "Espaces d’exposition modernes au cœur de la ville."
           }
         },
         {
@@ -1898,7 +1932,7 @@
             "hu": "Szép pihenőhely a város szélén.",
             "ro": "Un loc frumos de relaxare la marginea orașului.",
             "en": "A beautiful relaxation spot on the outskirts.",
-            "fr": "Un bel endroit de détente en périphérie."
+            "fr": "Un bel espace de détente en périphérie."
           }
         }
       ],
@@ -1907,7 +1941,7 @@
         "hu": "Használja a 'Tudip' hálózatot Le Puy kényelmes felfedezéséhez. A vasútállomástól gyorsan elérheti a felsővárost és a katedrálist. Délben látogasson el modern kulturális terekbe, majd buszozzon el Brives-Charensacba, ahol a Loire és a Borne partján pihenhet.",
         "ro": "Utilizați rețeaua 'Tudip' pentru a explora orașul confortabil. De la gară ajungeți rapid în orașul de sus și la catedrală. La prânz vizitați spații culturale moderne, apoi luați autobuzul spre Brives-Charensac pentru relaxare pe malul Loarei.",
         "en": "Use the 'Tudip' transit network to explore Le Puy with ease. From the station, quickly reach the upper town and cathedral. In the midday, visit modern cultural hubs before taking a bus to Brives-Charensac to relax by the banks of the Loire and Borne rivers.",
-        "fr": "Utilisez le réseau de transport 'Tudip' pour explorer Le Puy en toute simplicité. Depuis la gare, rejoignez rapidement la ville haute et la cathédrale. À la mi-journée, visitez les centres culturels modernes avant de prendre un bus pour Brives-Charensac pour vous détendre sur les bords de la Loire et de la Borne."
+        "fr": "Utilisez le réseau de transport 'Tudip' pour explorer Le Puy facilement. Depuis la gare, rejoignez rapidement la haute ville et la cathédrale. À midi, visitez des pôles culturels modernes avant de prendre un bus pour Brives-Charensac et vous détendre sur les rives de la Loire et de la Borne."
       },
       "gastro_picks": {
         "de": [
@@ -2036,9 +2070,9 @@
           "The train station is the best starting point for transit users."
         ],
         "fr": [
-          "Achetez vos tickets auprès du chauffeur ou via l'application mobile.",
+          "Achetez vos tickets auprès du conducteur ou via l’application mobile.",
           "Les bus circulent moins fréquemment le samedi ; vérifiez les horaires.",
-          "Utilisez la navette électrique pour le centre historique.",
+          "Utilisez la navette électrique 'Navette' pour le centre historique.",
           "La gare est le meilleur point de départ pour les usagers des transports."
         ]
       },
@@ -2048,7 +2082,8 @@
             "de": "Nutzen Sie das 'Tudip'-Netzwerk, um Le Puy bequem zu erkunden. Vom Bahnhof gelangen Sie schnell zur Oberstadt und zur Kathedrale. Mittags besuchen Sie moderne Kulturräume, bevor Sie mit dem Bus nach Brives-Charensac fahren, um an den Ufern der Loire und der Borne zu entspannen.",
             "hu": "Használja a 'Tudip' hálózatot Le Puy kényelmes felfedezéséhez. A vasútállomástól gyorsan elérheti a felsővárost és a katedrálist. Délben látogasson el modern kulturális terekbe, majd buszozzon el Brives-Charensacba, ahol a Loire és a Borne partján pihenhet.",
             "ro": "Utilizați rețeaua 'Tudip' pentru a explora orașul confortabil. De la gară ajungeți rapid în orașul de sus și la catedrală. La prânz vizitați spații culturale moderne, apoi luați autobuzul spre Brives-Charensac pentru relaxare pe malul Loarei.",
-            "en": "Use the 'Tudip' transit network to explore Le Puy with ease. From the station, quickly reach the upper town and cathedral. In the midday, visit modern cultural hubs before taking a bus to Brives-Charensac to relax by the banks of the Loire and Borne rivers."
+            "en": "Use the 'Tudip' transit network to explore Le Puy with ease. From the station, quickly reach the upper town and cathedral. In the midday, visit modern cultural hubs before taking a bus to Brives-Charensac to relax by the banks of the Loire and Borne rivers.",
+            "fr": "Utilisez le réseau de transport 'Tudip' pour explorer Le Puy facilement. Depuis la gare, rejoignez rapidement la haute ville et la cathédrale. À midi, visitez des pôles culturels modernes avant de prendre un bus pour Brives-Charensac et vous détendre sur les rives de la Loire et de la Borne."
           },
           "stops": [
             {
@@ -2057,7 +2092,8 @@
                 "de": "Zentraler Knotenpunkt für alle Buslinien.",
                 "hu": "Minden buszjárat központi csomópontja.",
                 "ro": "Nod central pentru toate liniile de autobuz.",
-                "en": "Central hub for all local bus lines."
+                "en": "Central hub for all local bus lines.",
+                "fr": "Nœud central de toutes les lignes de bus locales."
               }
             },
             {
@@ -2066,7 +2102,8 @@
                 "de": "Die Busse halten nur wenige Gehminuten unterhalb.",
                 "hu": "A buszok pár perces sétára állnak meg a katedrálistól.",
                 "ro": "Autobuzele opresc la câteva minute de mers pe jos.",
-                "en": "Buses stop just a few minutes' walk below the cathedral."
+                "en": "Buses stop just a few minutes' walk below the cathedral.",
+                "fr": "Les bus s’arrêtent à quelques minutes à pied de la cathédrale."
               }
             },
             {
@@ -2075,7 +2112,8 @@
                 "de": "Moderne Ausstellungsräume im Herzen der Stadt.",
                 "hu": "Modern kiállítóterek a város szívében.",
                 "ro": "Spații de expoziție moderne în centrul orașului.",
-                "en": "Modern exhibition spaces in the heart of the city."
+                "en": "Modern exhibition spaces in the heart of the city.",
+                "fr": "Espaces d’exposition modernes au cœur de la ville."
               }
             },
             {
@@ -2084,7 +2122,8 @@
                 "de": "Ein schöner Erholungsort am Stadtrand.",
                 "hu": "Szép pihenőhely a város szélén.",
                 "ro": "Un loc frumos de relaxare la marginea orașului.",
-                "en": "A beautiful relaxation spot on the outskirts."
+                "en": "A beautiful relaxation spot on the outskirts.",
+                "fr": "Un bel espace de détente en périphérie."
               }
             }
           ],
@@ -2194,6 +2233,12 @@
               "Buses run less frequently on Saturdays; check the schedule.",
               "Use the electric 'Navette' shuttle for the historic center.",
               "The train station is the best starting point for transit users."
+            ],
+            "fr": [
+              "Achetez vos tickets auprès du conducteur ou via l’application mobile.",
+              "Les bus circulent moins fréquemment le samedi ; vérifiez les horaires.",
+              "Utilisez la navette électrique 'Navette' pour le centre historique.",
+              "La gare est le meilleur point de départ pour les usagers des transports."
             ]
           }
         },
@@ -2203,7 +2248,7 @@
             "hu": "Busszal az esős Le Puy-ben. A pályaudvarról indulunk, és gyorsan elérjük a katedrálist, ahol elkerüljük az esőt. Délben az Espace Pagezy nyújt száraz kulturális programot. A délutánt Brives-Charensac-ban töltjük, élvezve a megáradt Borne látványát egy barátságos brasserie-ből.",
             "ro": "Cu autobuzul prin Le Puy-ul ploios. Pornim de la gară și ajungem rapid la catedrală, unde scăpăm de ploaie. La prânz, Espace Pagezy oferă un program cultural uscat. Petrecem după-amiaza în Brives-Charensac, admirând râul Borne umflat dintr-o braserie primitoare.",
             "en": "By bus through rainy Le Puy. We start at the station and quickly reach the Cathedral, escaping the rain. At midday, Espace Pagezy offers a dry cultural program. We spend the afternoon in Brives-Charensac, enjoying the view of the swollen Borne river from a cozy brasserie.",
-            "fr": "En bus à travers Le Puy pluvieux. Nous commençons à la gare et rejoignons rapidement la Cathédrale, échappant à la pluie. À midi, l'Espace Pagezy propose un programme culturel au sec. Nous passons l'après-midi à Brives-Charensac, profitant de la vue sur la Borne en crue depuis une brasserie chaleureuse."
+            "fr": "En bus dans un Puy pluvieux. Nous partons de la gare et atteignons rapidement la cathédrale, à l’abri de la pluie. À midi, l’Espace Pagezy propose une programmation culturelle au sec. Nous passons l’après‑midi à Brives-Charensac, profitant de la vue sur la Borne en crue depuis une brasserie cosy."
           },
           "stops": [
             {
@@ -2223,7 +2268,7 @@
                 "hu": "A buszmegálló rendelkezik esőbeállóval.",
                 "ro": "Stația de autobuz are adăpost împotriva ploii.",
                 "en": "The bus stop provides a shelter from the rain.",
-                "fr": "L'arrêt de bus offre un abri contre la pluie."
+                "fr": "L’arrêt de bus offre un abri contre la pluie."
               }
             },
             {
@@ -2233,7 +2278,7 @@
                 "hu": "Ideális kiállításokhoz, amikor kint ömlik az eső.",
                 "ro": "Ideal pentru expoziții când afară plouă torențial.",
                 "en": "Ideal for exhibitions when it is pouring outside.",
-                "fr": "Idéal pour les expositions quand il pleut dehors."
+                "fr": "Idéal pour les expositions quand il pleut à verse dehors."
               }
             },
             {
@@ -2273,10 +2318,10 @@
               "The Michelet stop is centrally located for many attractions."
             ],
             "fr": [
-              "Utilisez l'application pour les infos en temps réel afin de minimiser l'attente sous la pluie.",
-              "Les bus sont souvent plus bondés en hiver et sous la pluie ; prévoyez du temps supplémentaire.",
-              "Gardez votre ticket ou téléphone prêt pour éviter de chercher sous la pluie.",
-              "L'arrêt Michelet est central pour de nombreuses attractions."
+              "Utilisez l’application pour obtenir des informations en temps réel afin de réduire le temps d’attente sous la pluie.",
+              "Les bus sont souvent plus remplis en hiver et par temps de pluie ; prévoyez du temps supplémentaire.",
+              "Gardez votre billet ou votre téléphone à portée de main pour éviter de chercher sous la pluie.",
+              "L’arrêt Michelet est situé au centre et dessert de nombreuses attractions."
             ]
           }
         },
@@ -2286,7 +2331,7 @@
             "hu": "Téli nap tömegközlekedéssel. A pályaudvarról indulunk, és busszal megyünk a katedrálishoz. Délben az Espace Pagezy kiállításain melegszünk fel. Brives-Charensac-ban a téli folyóparti tájat csodáljuk meg, majd a meleg busszal sötétedés előtt visszatérünk a városba.",
             "ro": "O zi de iarnă cu transportul public. Pornim de la gară și luăm autobuzul spre catedrală. La prânz ne încălzim la expozițiile de la Espace Pagezy. În Brives-Charensac admirăm peisajul hibernal de pe malul râului, apoi ne întoarcem în oraș cu autobuzul cald înainte de lăsarea serii.",
             "en": "A winter day using public transport. We start at the station and take the bus to the Cathedral. At midday, we warm up at the exhibitions in Espace Pagezy. In Brives-Charensac, we admire the winter riverside landscape before returning to the city by warm bus just before dark.",
-            "fr": "Une journée d'hiver en utilisant les transports en commun. Nous commençons à la gare et prenons le bus vers la Cathédrale. À midi, nous nous réchauffons aux expositions de l'Espace Pagezy. À Brives-Charensac, nous admirons le paysage hivernal au bord de l'eau avant de retourner en ville dans un bus chauffé juste avant la nuit."
+            "fr": "Une journée d’hiver en transports en commun. Nous commençons à la gare et prenons le bus jusqu’à la Cathédrale. À midi, nous nous réchauffons aux expositions de l’Espace Pagezy. À Brives-Charensac, nous admirons le paysage hivernal au bord de la rivière avant de retourner en ville en bus chauffé juste avant la tombée de la nuit."
           },
           "stops": [
             {
@@ -2296,7 +2341,7 @@
                 "hu": "Vegyen egy forró kávét a várakozási időre.",
                 "ro": "Luați o cafea caldă pentru timpul de așteptare.",
                 "en": "Grab a hot coffee for the waiting time.",
-                "fr": "Prenez un café chaud pour le temps d'attente."
+                "fr": "Prenez un café chaud pour le temps d’attente."
               }
             },
             {
@@ -2306,7 +2351,7 @@
                 "hu": "A buszok jól fűtöttek, kellemes pihenőt nyújtanak a hideg után.",
                 "ro": "Autobuzele sunt bine încălzite și oferă o pauză binemeritată de la frig.",
                 "en": "The buses are well-heated and provide a welcome break from the cold.",
-                "fr": "Les bus sont bien chauffés et offrent une pause bienvenue contre le froid."
+                "fr": "Les bus sont bien chauffés et offrent une agréable pause loin du froid."
               }
             },
             {
@@ -2326,7 +2371,7 @@
                 "hu": "Ügyeljen a téli menetrendre a visszautazáshoz.",
                 "ro": "Atenție la orarul de iarnă pentru drumul de întoarcere.",
                 "en": "Check the winter schedules for the return trip.",
-                "fr": "Vérifiez les horaires d'hiver pour le voyage de retour."
+                "fr": "Vérifiez les horaires hivernaux pour le trajet de retour."
               }
             }
           ],
@@ -2356,10 +2401,10 @@
               "The TUDIP app shows the position of the buses in real-time."
             ],
             "fr": [
-              "Les horaires peuvent varier légèrement en hiver selon les conditions météo.",
-              "Le crépuscule commence tôt, profitez des bus de l'après-midi.",
-              "Des vêtements chauds sont essentiels pour la marche vers et depuis l'arrêt.",
-              "L'application TUDIP montre la position des bus en temps réel."
+              "Les horaires peuvent légèrement varier en hiver en raison des conditions météorologiques.",
+              "La tombée de la nuit commence tôt, profitez des bus de l’après-midi.",
+              "Des vêtements chauds sont essentiels pour la marche jusqu’à l’arrêt et depuis celui-ci.",
+              "L’application TUDIP affiche la position des bus en temps réel."
             ]
           }
         }

@@ -21,7 +21,8 @@
             "de": "Amphitheater von Arles",
             "hu": "Arles-i amfiteátrum",
             "ro": "Amfiteatrul din Arles",
-            "en": "Arles Amphitheatre"
+            "en": "Arles Amphitheatre",
+            "fr": "Arènes d'Arles"
           },
           "coords": [
             4.631,
@@ -37,7 +38,7 @@
             "hu": "Menj fel a legfelső szintekre a legjobb városi kilátásért.",
             "ro": "Urcați la nivelurile superioare pentru cea mai bună vedere asupra orașului.",
             "en": "Go to the top tiers for the best view of the city.",
-            "fr": "Montez aux derniers gradins pour la meilleure vue sur la ville."
+            "fr": "Montez aux gradins supérieurs pour la meilleure vue sur la ville."
           }
         },
         {
@@ -45,7 +46,8 @@
             "de": "Antikes Theater",
             "hu": "Antik Színház",
             "ro": "Teatrul Antic",
-            "en": "Ancient Theatre"
+            "en": "Ancient Theatre",
+            "fr": "Théâtre antique"
           },
           "coords": [
             4.6305,
@@ -61,7 +63,7 @@
             "hu": "Keresd a 'Két Gráciát', a megmaradt márványoszlopokat.",
             "ro": "Căutați 'Cele două Grații', coloanele de marmură rămase.",
             "en": "Look for the 'Two Graces', the remaining marble columns.",
-            "fr": "Cherchez les 'Deux Grâces', les colonnes de marbre restantes."
+            "fr": "Cherchez les « Deux Grâces », les colonnes en marbre restantes."
           }
         },
         {
@@ -69,7 +71,8 @@
             "de": "Place de la République & Saint-Trophime",
             "hu": "Place de la République és Szent Trophime-templom",
             "ro": "Place de la République și Biserica Saint-Trophime",
-            "en": "Place de la République & Saint-Trophime"
+            "en": "Place de la République & Saint-Trophime",
+            "fr": "Place de la République & Saint-Trophime"
           },
           "coords": [
             4.6275,
@@ -85,7 +88,7 @@
             "hu": "Csodáld meg a román stílusú kaput a bibliai jelenetekkel.",
             "ro": "Admirați portalul romanic cu scene biblice.",
             "en": "Admire the Romanesque portal with biblical scenes.",
-            "fr": "Admirez le portail roman avec ses scènes bibliques."
+            "fr": "Admirez le portail roman avec des scènes bibliques."
           }
         },
         {
@@ -93,7 +96,8 @@
             "de": "Espace Van Gogh",
             "hu": "Espace Van Gogh",
             "ro": "Espace Van Gogh",
-            "en": "Espace Van Gogh"
+            "en": "Espace Van Gogh",
+            "fr": "Espace Van Gogh"
           },
           "coords": [
             4.6265,
@@ -117,7 +121,8 @@
             "de": "Luma Arles & Der Turm",
             "hu": "Luma Arles és a Frank Gehry torony",
             "ro": "Luma Arles și Turnul Frank Gehry",
-            "en": "Luma Arles & The Tower"
+            "en": "Luma Arles & The Tower",
+            "fr": "Luma Arles & La Tour"
           },
           "coords": [
             4.634,
@@ -133,7 +138,7 @@
             "hu": "A rozsdamentes acélpanelek visszaverik Provence fényeit.",
             "ro": "Panourile din oțel inoxidabil reflectă lumina Provencei.",
             "en": "The stainless steel panels reflect the light of Provence.",
-            "fr": "Les panneaux en acier inoxydable reflètent la lumière de la Provence."
+            "fr": "Les panneaux en acier inoxydable reflètent la lumière de Provence."
           }
         },
         {
@@ -141,7 +146,8 @@
             "de": "Rhone-Ufer Promenade",
             "hu": "Rhône-parti sétány",
             "ro": "Promenada de pe malul Ronului",
-            "en": "Rhône Riverbank Promenade"
+            "en": "Rhône Riverbank Promenade",
+            "fr": "Promenade sur les quais du Rhône"
           },
           "coords": [
             4.624,
@@ -157,7 +163,7 @@
             "hu": "Tökéletes hely a folyó feletti naplementéhez.",
             "ro": "Perfect pentru apusul soarelui peste râu.",
             "en": "Perfect for sunset over the river.",
-            "fr": "Parfait pour le coucher du soleil sur le fleuve."
+            "fr": "Parfait pour le coucher de soleil sur le fleuve."
           }
         }
       ],
@@ -166,7 +172,7 @@
         "hu": "Kezdje a reggelt a hatalmas római amfiteátrumban, amely a város legépebben maradt műemléke. Ezután fedezze fel a közeli antik színházat, ahol egykor Arles polgárai szórakoztak. Délben a Place de la République és a Szent Trophime-templom díszes kapuja várja.\n\nEgy platánok alatti pihenő után látogasson el az Espace Van Gogh-ba, az egykori kórházba, ahol a festőt kezelték. A színes virágokkal teli udvar ma is pontosan úgy fest, mint Van Gogh híres festményén.\n\nDélután a modern művészeté a főszerep: a Frank Gehry által tervezett Luma-torony futurisztikus acéllemezei látványos kontrasztot alkotnak az ókori romokkal. Itt a legfrissebb kortárs tárlatokat tekintheti meg.\n\nZárja a napot egy sétával a Rhône partján. Ahogy a nap alacsonyan jár és aranyba vonja a folyót, megértheti, miért ragadta meg ez a fény Van Goghot. Egy pohár provence-i rozé a parton tökéletes befejezés.",
         "ro": "Începeți dimineața în uriașa arenă romană, cel mai bine conservat monument al orașului. Apoi explorați teatrul antic din apropiere, unde odinioară mii de cetățeni se bucurau de cultură. La prânz, Place de la République vă așteaptă cu superba catedrală Saint-Trophime.\n\nDupă o pauză la umbra platanilor, vizitați Espace Van Gogh, fostul spital în care a fost tratat pictorul. Simțiți inspirația în curtea interioară plină de culori, restaurată conform tablourilor sale.\n\nDupă-amiaza este dedicată modernității: turnul futurist Luma, proiectat de Frank Gehry, oferă un contrast spectaculos cu zidurile antice. Descoperiți aici expoziții de artă contemporană de nivel mondial.\n\nÎncheiați ziua cu o plimbare pe malul Ronului. Când soarele coboară și apa strălucește auriu, veți înțelege de ce Van Gogh a iubit atât de mult acest oraș. Un pahar de rosé pe malul râului completează experiența.",
         "en": "Start your morning at the massive Roman Amphitheatre, the city's best-preserved monument. Then explore the nearby Ancient Theatre, where Arles' citizens once gathered for entertainment. Midday brings you to Place de la République with the magnificent Saint-Trophime Church.\n\nAfter a break under the plane trees, visit Espace Van Gogh, the former hospital where the painter was treated. Feel the inspiration in the colorful courtyard, replanted to match his famous paintings.\n\nThe afternoon focuses on modernity: Frank Gehry's futuristic Luma Tower creates a spectacular contrast with the ancient city walls. Explore world-class contemporary art installations here.\n\nEnd the day with a stroll along the Rhône. As the sun sets and the water glows gold, you will understand why Van Gogh was so captivated by this light. A glass of Provençal rosé by the river is the perfect finish.",
-        "fr": "Commencez votre matinée par l'imposant Amphithéâtre romain, le monument le mieux préservé de la ville. Explorez ensuite le Théâtre antique tout proche, où les citoyens d'Arles se rassemblaient autrefois pour se divertir. Le milieu de journée vous mène à la Place de la République avec la magnifique église Saint-Trophime.\n\nAprès une pause sous les platanes, visitez l'Espace Van Gogh, l'ancien hôpital où le peintre a été soigné. Ressentez l'inspiration dans la cour colorée, replantée pour correspondre à ses célèbres tableaux.\n\nL'après-midi est consacré à la modernité : la tour futuriste Luma de Frank Gehry crée un contraste spectaculaire avec les anciens remparts de la ville. Explorez ici des installations d'art contemporain de classe mondiale.\n\nTerminez la journée par une promenade le long du Rhône. Alors que le soleil se couche et que l'eau brille d'un éclat doré, vous comprendrez pourquoi Van Gogh était si captivé par cette lumière. Un verre de rosé provençal au bord du fleuve est la conclusion parfaite."
+        "fr": "Commencez la matinée aux immenses Arènes romaines, le monument le mieux conservé de la ville. Ensuite, explorez le Théâtre antique tout proche, où les Arlésiens se rassemblaient autrefois pour se divertir. À midi, rendez-vous à la Place de la République avec la magnifique église Saint-Trophime.\n\nAprès une pause sous les platanes, visitez l'Espace Van Gogh, l'ancien hôpital où le peintre a été soigné. Ressentez l'inspiration dans la cour colorée, replantée pour correspondre à ses célèbres tableaux.\n\nL'après-midi est consacré à la modernité : la Tour Luma de Frank Gehry crée un contraste spectaculaire avec les murailles antiques. Découvrez ici des installations d'art contemporain de classe mondiale.\n\nTerminez la journée par une promenade le long du Rhône. Au coucher du soleil, quand l'eau devient or, vous comprendrez pourquoi Van Gogh était si captivé par cette lumière. Un verre de rosé provençal au bord du fleuve est la touche finale parfaite."
       },
       "gastro_picks": {
         "de": [
@@ -361,9 +367,9 @@
         ],
         "fr": [
           "Achetez le Pass Monument si vous prévoyez de visiter plusieurs sites romains.",
-          "Portez des chaussures confortables pour les rues pavées de la vieille ville.",
-          "Le déjeuner est généralement servi entre 12h00 et 14h00, la réservation est recommandée.",
-          "La chaleur estivale peut être intense, alors profitez au maximum des premières heures de la matinée."
+          "Portez des chaussures confortables pour les rues pavées du centre historique.",
+          "Le déjeuner est généralement servi entre 12:00 et 14:00, la réservation est recommandée.",
+          "La chaleur estivale peut être intense, profitez donc des premières heures du matin."
         ]
       },
       "variants": {
@@ -372,7 +378,8 @@
             "de": "Beginnen Sie den Morgen in der gewaltigen römischen Arena, dem am besten erhaltenen Monument der Stadt. Danach erkunden Sie das nahe gelegene antike Theater, wo einst tausende Bürger Arles' Kultur genossen. Mittags erwartet Sie die Place de la République mit der prächtigen Kathedrale Saint-Trophime.\n\nNach einer Pause im Schatten der Platanen besuchen Sie den Espace Van Gogh, das ehemalige Krankenhaus, in dem der Maler behandelt wurde. Spüren Sie die Inspiration in dem farbenfrohen Innenhof.\n\nDer Nachmittag steht im Zeichen der Moderne: Der futuristische Luma-Turm von Frank Gehry bildet einen spektakulären Kontrast zur antiken Stadtmauer. Erfahren Sie hier mehr über zeitgenössische Kunst.\n\nBeenden Sie den Tag mit einem Spaziergang entlang der Rhone. Wenn die Sonne tief steht und das Wasser golden glänzt, verstehen Sie, warum Van Gogh diese Stadt so liebte. Ein Glas Rosé am Ufer rundet das Erlebnis ab.",
             "hu": "Kezdje a reggelt a hatalmas római amfiteátrumban, amely a város legépebben maradt műemléke. Ezután fedezze fel a közeli antik színházat, ahol egykor Arles polgárai szórakoztak. Délben a Place de la République és a Szent Trophime-templom díszes kapuja várja.\n\nEgy platánok alatti pihenő után látogasson el az Espace Van Gogh-ba, az egykori kórházba, ahol a festőt kezelték. A színes virágokkal teli udvar ma is pontosan úgy fest, mint Van Gogh híres festményén.\n\nDélután a modern művészeté a főszerep: a Frank Gehry által tervezett Luma-torony futurisztikus acéllemezei látványos kontrasztot alkotnak az ókori romokkal. Itt a legfrissebb kortárs tárlatokat tekintheti meg.\n\nZárja a napot egy sétával a Rhône partján. Ahogy a nap alacsonyan jár és aranyba vonja a folyót, megértheti, miért ragadta meg ez a fény Van Goghot. Egy pohár provence-i rozé a parton tökéletes befejezés.",
             "ro": "Începeți dimineața în uriașa arenă romană, cel mai bine conservat monument al orașului. Apoi explorați teatrul antic din apropiere, unde odinioară mii de cetățeni se bucurau de cultură. La prânz, Place de la République vă așteaptă cu superba catedrală Saint-Trophime.\n\nDupă o pauză la umbra platanilor, vizitați Espace Van Gogh, fostul spital în care a fost tratat pictorul. Simțiți inspirația în curtea interioară plină de culori, restaurată conform tablourilor sale.\n\nDupă-amiaza este dedicată modernității: turnul futurist Luma, proiectat de Frank Gehry, oferă un contrast spectaculos cu zidurile antice. Descoperiți aici expoziții de artă contemporană de nivel mondial.\n\nÎncheiați ziua cu o plimbare pe malul Ronului. Când soarele coboară și apa strălucește auriu, veți înțelege de ce Van Gogh a iubit atât de mult acest oraș. Un pahar de rosé pe malul râului completează experiența.",
-            "en": "Start your morning at the massive Roman Amphitheatre, the city's best-preserved monument. Then explore the nearby Ancient Theatre, where Arles' citizens once gathered for entertainment. Midday brings you to Place de la République with the magnificent Saint-Trophime Church.\n\nAfter a break under the plane trees, visit Espace Van Gogh, the former hospital where the painter was treated. Feel the inspiration in the colorful courtyard, replanted to match his famous paintings.\n\nThe afternoon focuses on modernity: Frank Gehry's futuristic Luma Tower creates a spectacular contrast with the ancient city walls. Explore world-class contemporary art installations here.\n\nEnd the day with a stroll along the Rhône. As the sun sets and the water glows gold, you will understand why Van Gogh was so captivated by this light. A glass of Provençal rosé by the river is the perfect finish."
+            "en": "Start your morning at the massive Roman Amphitheatre, the city's best-preserved monument. Then explore the nearby Ancient Theatre, where Arles' citizens once gathered for entertainment. Midday brings you to Place de la République with the magnificent Saint-Trophime Church.\n\nAfter a break under the plane trees, visit Espace Van Gogh, the former hospital where the painter was treated. Feel the inspiration in the colorful courtyard, replanted to match his famous paintings.\n\nThe afternoon focuses on modernity: Frank Gehry's futuristic Luma Tower creates a spectacular contrast with the ancient city walls. Explore world-class contemporary art installations here.\n\nEnd the day with a stroll along the Rhône. As the sun sets and the water glows gold, you will understand why Van Gogh was so captivated by this light. A glass of Provençal rosé by the river is the perfect finish.",
+            "fr": "Commencez la matinée aux immenses Arènes romaines, le monument le mieux conservé de la ville. Ensuite, explorez le Théâtre antique tout proche, où les Arlésiens se rassemblaient autrefois pour se divertir. À midi, rendez-vous à la Place de la République avec la magnifique église Saint-Trophime.\n\nAprès une pause sous les platanes, visitez l'Espace Van Gogh, l'ancien hôpital où le peintre a été soigné. Ressentez l'inspiration dans la cour colorée, replantée pour correspondre à ses célèbres tableaux.\n\nL'après-midi est consacré à la modernité : la Tour Luma de Frank Gehry crée un contraste spectaculaire avec les murailles antiques. Découvrez ici des installations d'art contemporain de classe mondiale.\n\nTerminez la journée par une promenade le long du Rhône. Au coucher du soleil, quand l'eau devient or, vous comprendrez pourquoi Van Gogh était si captivé par cette lumière. Un verre de rosé provençal au bord du fleuve est la touche finale parfaite."
           },
           "stops": [
             {
@@ -380,13 +387,15 @@
                 "de": "Amphitheater von Arles",
                 "hu": "Arles-i amfiteátrum",
                 "ro": "Amfiteatrul din Arles",
-                "en": "Arles Amphitheatre"
+                "en": "Arles Amphitheatre",
+                "fr": "Arènes d'Arles"
               },
               "tip_5lang": {
                 "de": "Gehen Sie in die obersten Ränge für den besten Blick auf die Stadt.",
                 "hu": "Menj fel a legfelső szintekre a legjobb városi kilátásért.",
                 "ro": "Urcați la nivelurile superioare pentru cea mai bună vedere asupra orașului.",
-                "en": "Go to the top tiers for the best view of the city."
+                "en": "Go to the top tiers for the best view of the city.",
+                "fr": "Montez aux gradins supérieurs pour la meilleure vue sur la ville."
               }
             },
             {
@@ -394,13 +403,15 @@
                 "de": "Antikes Theater",
                 "hu": "Antik Színház",
                 "ro": "Teatrul Antic",
-                "en": "Ancient Theatre"
+                "en": "Ancient Theatre",
+                "fr": "Théâtre antique"
               },
               "tip_5lang": {
                 "de": "Suchen Sie die 'Zwei Grazien', die markanten Marmorsäulen.",
                 "hu": "Keresd a 'Két Gráciát', a megmaradt márványoszlopokat.",
                 "ro": "Căutați 'Cele două Grații', coloanele de marmură rămase.",
-                "en": "Look for the 'Two Graces', the remaining marble columns."
+                "en": "Look for the 'Two Graces', the remaining marble columns.",
+                "fr": "Cherchez les « Deux Grâces », les colonnes en marbre restantes."
               }
             },
             {
@@ -408,13 +419,15 @@
                 "de": "Place de la République & Saint-Trophime",
                 "hu": "Place de la République és Szent Trophime-templom",
                 "ro": "Place de la République și Biserica Saint-Trophime",
-                "en": "Place de la République & Saint-Trophime"
+                "en": "Place de la République & Saint-Trophime",
+                "fr": "Place de la République & Saint-Trophime"
               },
               "tip_5lang": {
                 "de": "Bewundern Sie das romanische Portal mit biblischen Szenen.",
                 "hu": "Csodáld meg a román stílusú kaput a bibliai jelenetekkel.",
                 "ro": "Admirați portalul romanic cu scene biblice.",
-                "en": "Admire the Romanesque portal with biblical scenes."
+                "en": "Admire the Romanesque portal with biblical scenes.",
+                "fr": "Admirez le portail roman avec des scènes bibliques."
               }
             },
             {
@@ -422,13 +435,15 @@
                 "de": "Espace Van Gogh",
                 "hu": "Espace Van Gogh",
                 "ro": "Espace Van Gogh",
-                "en": "Espace Van Gogh"
+                "en": "Espace Van Gogh",
+                "fr": "Espace Van Gogh"
               },
               "tip_5lang": {
                 "de": "Der Garten ist exakt so bepflanzt, wie Van Gogh ihn malte.",
                 "hu": "A kertet pontosan úgy ültették be, ahogy Van Gogh megfestette.",
                 "ro": "Grădina este plantată exact așa cum a pictat-o Van Gogh.",
-                "en": "The garden is planted exactly as Van Gogh painted it."
+                "en": "The garden is planted exactly as Van Gogh painted it.",
+                "fr": "Le jardin est planté exactement comme Van Gogh l'a peint."
               }
             },
             {
@@ -436,13 +451,15 @@
                 "de": "Luma Arles & Der Turm",
                 "hu": "Luma Arles és a Frank Gehry torony",
                 "ro": "Luma Arles și Turnul Frank Gehry",
-                "en": "Luma Arles & The Tower"
+                "en": "Luma Arles & The Tower",
+                "fr": "Luma Arles & La Tour"
               },
               "tip_5lang": {
                 "de": "Die Edelstahlpaneele reflektieren das Licht der Provence.",
                 "hu": "A rozsdamentes acélpanelek visszaverik Provence fényeit.",
                 "ro": "Panourile din oțel inoxidabil reflectă lumina Provencei.",
-                "en": "The stainless steel panels reflect the light of Provence."
+                "en": "The stainless steel panels reflect the light of Provence.",
+                "fr": "Les panneaux en acier inoxydable reflètent la lumière de Provence."
               }
             },
             {
@@ -450,13 +467,15 @@
                 "de": "Rhone-Ufer Promenade",
                 "hu": "Rhône-parti sétány",
                 "ro": "Promenada de pe malul Ronului",
-                "en": "Rhône Riverbank Promenade"
+                "en": "Rhône Riverbank Promenade",
+                "fr": "Promenade sur les quais du Rhône"
               },
               "tip_5lang": {
                 "de": "Perfekt für den Sonnenuntergang über dem Fluss.",
                 "hu": "Tökéletes hely a folyó feletti naplementéhez.",
                 "ro": "Perfect pentru apusul soarelui peste râu.",
-                "en": "Perfect for sunset over the river."
+                "en": "Perfect for sunset over the river.",
+                "fr": "Parfait pour le coucher de soleil sur le fleuve."
               }
             }
           ],
@@ -618,6 +637,12 @@
               "Wear comfortable shoes for the cobblestone streets of the old town.",
               "Lunch is usually served between 12:00 and 14:00, booking is recommended.",
               "Summer heat can be intense, so make the most of the early morning hours."
+            ],
+            "fr": [
+              "Achetez le Pass Monument si vous prévoyez de visiter plusieurs sites romains.",
+              "Portez des chaussures confortables pour les rues pavées du centre historique.",
+              "Le déjeuner est généralement servi entre 12:00 et 14:00, la réservation est recommandée.",
+              "La chaleur estivale peut être intense, profitez donc des premières heures du matin."
             ]
           }
         },
@@ -627,7 +652,7 @@
             "hu": "Reggel az amfiteátrum hatalmas kőívei nyújtanak menedéket a zápor elől. Délben a Saint-Trophime kolostor fedett kerengőjébe húzódunk a Place de la République-en. Délután az Espace Van Gogh belső tereit és a futurisztikus Luma-torony kiállításait fedezzük fel. Este esernyővel sétálunk a Rhône-parton, ahol a város fényei megcsillannak a vizes aszfalton.",
             "ro": "Dimineața, amfiteatrul oferă adăpost sub arcadele sale masive de piatră. La prânz, ne refugiem în claustrul acoperit de la Saint-Trophime din Place de la République. După-amiaza explorăm interiorul colorat de la Espace Van Gogh și turnul futurist Luma. Seara ne plimbăm cu umbrela pe malul Ronului, admirând reflexiile luminilor orașului în apă.",
             "en": "Morning finds us under the massive stone arches of the Amphitheatre, shielding us from the rain. At noon, we retreat to the covered cloisters of Saint-Trophime at Place de la République. The afternoon is spent inside the colorful Espace Van Gogh and the futuristic Luma Tower. In the evening, a walk along the Rhône with an umbrella reveals beautiful reflections on the wet pavement.",
-            "fr": "Le matin nous trouve sous les massives arches de pierre de l'Amphithéâtre, nous protégeant de la pluie. À midi, nous nous retirons dans les cloîtres couverts de Saint-Trophime sur la Place de la République. L'après-midi se passe à l'intérieur de l'Espace Van Gogh coloré et de la tour futuriste Luma. Le soir, une promenade le long du Rhône avec un parapluie révèle de magnifiques reflets sur le pavé mouillé."
+            "fr": "Le matin nous trouve sous les immenses arches de pierre des Arènes, à l'abri de la pluie. À midi, nous nous réfugions dans les cloîtres couverts de Saint-Trophime sur la Place de la République. L'après-midi se passe à l'intérieur du coloré Espace Van Gogh et de la futuriste Tour Luma. Le soir, une promenade le long du Rhône avec un parapluie révèle de beaux reflets sur le pavé mouillé."
           },
           "stops": [
             {
@@ -637,7 +662,7 @@
                 "hu": "Használja a belső folyosókat, hogy száraz maradjon.",
                 "ro": "Folosiți coridoarele interioare pentru a rămâne uscați.",
                 "en": "Use the internal corridors to stay dry during your visit.",
-                "fr": "Utilisez les couloirs internes pour rester au sec pendant votre visite."
+                "fr": "Utilisez les corridors intérieurs pour rester au sec pendant votre visite."
               }
             },
             {
@@ -647,7 +672,7 @@
                 "hu": "Vigyázat, az antik lépcsők nedvesen nagyon csúszósak.",
                 "ro": "Atenție, treptele antice sunt foarte alunecoase pe ploaie.",
                 "en": "Caution: the ancient stones are very slippery when wet.",
-                "fr": "Attention : les pierres anciennes sont très glissantes lorsqu'elles sont mouillées."
+                "fr": "Attention : les pierres antiques sont très glissantes lorsqu'elles sont mouillées."
               }
             },
             {
@@ -657,7 +682,7 @@
                 "hu": "A kolostor kerengője tökéletes, fedett búvóhely.",
                 "ro": "Claustrul este un refugiu perfect și uscat.",
                 "en": "The cloister is a perfect, dry sanctuary during rain.",
-                "fr": "Le cloître est un sanctuaire parfait et sec pendant la pluie."
+                "fr": "Le cloître est un sanctuaire parfaitement sec par temps de pluie."
               }
             },
             {
@@ -667,7 +692,7 @@
                 "hu": "Élvezze a kert látványát az emeleti árkádok védelméből.",
                 "ro": "Admirați grădina de la adăpostul arcadelor.",
                 "en": "Enjoy the garden views from the safety of the arcades.",
-                "fr": "Profitez de la vue sur le jardin depuis la sécurité des arcades."
+                "fr": "Profitez des vues sur le jardin depuis la sécurité des arcades."
               }
             },
             {
@@ -677,7 +702,7 @@
                 "hu": "Ideális esőben: modern művészet Frank Gehry tornyában.",
                 "ro": "Ideal pentru ploaie: artă modernă în turnul lui Frank Gehry.",
                 "en": "Ideal for rain: modern art inside Frank Gehry's tower.",
-                "fr": "Idéal pour la pluie : l'art moderne à l'intérieur de la tour de Frank Gehry."
+                "fr": "Idéal quand il pleut : l'art moderne à l'intérieur de la tour de Frank Gehry."
               }
             },
             {
@@ -721,11 +746,11 @@
               "Invest in a sturdy umbrella that can withstand the local wind."
             ],
             "fr": [
-              "Portez des chaussures avec une bonne adhérence car le dallage en calcaire devient très glissant.",
+              "Portez des chaussures à bonne adhérence car le pavage calcaire devient très glissant.",
               "L'arcade de la Place de la République offre une bonne protection contre le vent.",
-              "Utilisez la bibliothèque Luma comme zone d'attente au chaud entre les arrêts.",
-              "La visite du Museon Arlaten est une excellente alternative en intérieur.",
-              "Investissez dans un parapluie robuste capable de résister au vent local."
+              "Utilisez la bibliothèque Luma comme espace chauffé d'attente entre deux arrêts.",
+              "La visite du Museon Arlaten est une excellente alternative intérieure.",
+              "Investissez dans un parapluie solide capable de résister au vent local."
             ]
           }
         },
@@ -735,7 +760,7 @@
             "hu": "A tiszta téli reggel alacsonyan járó napfénnyel világítja meg az amfiteátrumot. Délben egy kávézóban melegszünk fel a Place de la République környékén. Délután a Luma negyed szélvédett sarkaiban csodáljuk a modern építészetet. Mivel a nap korán nyugszik, 17:00 körül a Rhône-parti hideg, de kristálytiszta látvánnyal zárjuk a napot.",
             "ro": "O dimineață senină de iarnă luminează amfiteatrul cu un soare blând. La prânz, ne încălzim într-o cafenea din apropierea Place de la République. După-amiaza căutăm colțurile ferite de vânt din zona Luma pentru arhitectură modernă. Deoarece soarele apune devreme, încheiem ziua la 17:00 cu o vedere rece, dar clară asupra Ronului.",
             "en": "A crisp winter morning illuminates the Amphitheatre with low-hanging sun. At noon, we warm up in a cozy café near Place de la République. The afternoon is spent finding wind-sheltered spots at Luma to admire the architecture. As the sun sets early, we conclude our day around 5:00 PM with a cold but crystal-clear view of the Rhône.",
-            "fr": "Une matinée d'hiver fraîche illumine l'Amphithéâtre avec un soleil bas. À midi, nous nous réchauffons dans un café confortable près de la Place de la République. L'après-midi est consacré à trouver des endroits abrités du vent à Luma pour admirer l'architecture. Alors que le soleil se couche tôt, nous terminons notre journée vers 17h00 avec une vue froide mais cristalline sur le Rhône."
+            "fr": "Une matinée d'hiver vive illumine les Arènes d'un soleil bas. À midi, nous nous réchauffons dans un café cosy près de la Place de la République. L'après-midi se passe à chercher des abris au vent à Luma pour admirer l'architecture. Le soleil se couchant tôt, nous concluons la journée vers 17:00 avec une vue froide mais cristalline sur le Rhône."
           },
           "stops": [
             {
@@ -745,7 +770,7 @@
                 "hu": "Élvezze a tiszta kilátást a szokásos turistahadak nélkül.",
                 "ro": "Bucurați-vă de vederea clară fără mulțimile de turiști.",
                 "en": "Enjoy the clear views without the usual tourist crowds.",
-                "fr": "Profitez des vues dégagées sans les foules touristiques habituelles."
+                "fr": "Appréciez les vues dégagées sans la foule touristique habituelle."
               }
             },
             {
@@ -755,7 +780,7 @@
                 "hu": "Vigyázzon a Misztrál szélre, amely itt gyakran erősen fúj.",
                 "ro": "Atenție la vântul Mistral care suflă adesea puternic aici.",
                 "en": "Watch out for the Mistral wind, which often blows hard here.",
-                "fr": "Attention au mistral, qui souffle souvent fort ici."
+                "fr": "Méfiez-vous du Mistral, qui souffle souvent fort ici."
               }
             },
             {
@@ -775,7 +800,7 @@
                 "hu": "A belső udvar télen gyakran meglepően enyhe.",
                 "ro": "Curtea interioară este adesea surprinzător de blândă iarna.",
                 "en": "The inner courtyard is often surprisingly mild in winter.",
-                "fr": "La cour intérieure est souvent étonnamment clémente en hiver."
+                "fr": "La cour intérieure est souvent étonnamment douce en hiver."
               }
             },
             {
@@ -785,7 +810,7 @@
                 "hu": "A torony téli fényben különösen látványosan csillog.",
                 "ro": "Turnul strălucește spectaculos în lumina rece de iarnă.",
                 "en": "The tower glimmers impressively in the crisp winter light.",
-                "fr": "La tour scintille de manière impressionnante dans la lumière vive de l'hiver."
+                "fr": "La tour scintille de façon impressionnante sous la lumière hivernale claire."
               }
             },
             {
@@ -795,7 +820,7 @@
                 "hu": "Korai napnyugta 17:15 körül – meleg kabát kötelező!",
                 "ro": "Apus devreme în jur de 17:15 – aveți nevoie de o haină groasă!",
                 "en": "Early sunset around 5:15 PM – a warm jacket is essential!",
-                "fr": "Coucher de soleil précoce vers 17h15 – une veste chaude est essentielle !"
+                "fr": "Coucher du soleil tôt vers 17:15 – une veste chaude est indispensable !"
               }
             }
           ],
@@ -829,11 +854,11 @@
               "Take advantage of the midday light for photos; it's especially soft."
             ],
             "fr": [
-              "Le mistral peut faire chuter considérablement la température ressentie.",
-              "Des vêtements superposés sont fortement recommandés pour lutter contre le refroidissement éolien.",
-              "De nombreux cafés conservent des terrasses extérieures chauffées même en hiver.",
-              "Visitez le festival 'Drôles de Noëls' à la fin du mois de décembre.",
-              "Profitez de la lumière de la mi-journée pour les photos ; elle est particulièrement douce."
+              "Le Mistral peut faire baisser sensiblement la température ressentie.",
+              "Il est fortement recommandé de porter des vêtements en couches pour lutter contre la sensation de froid due au vent.",
+              "De nombreux cafés maintiennent des terrasses extérieures chauffées même en hiver.",
+              "Assistez au festival « Drôles de Noëls » à la fin décembre.",
+              "Profitez de la lumière de midi pour les photos ; elle est particulièrement douce."
             ]
           }
         }
@@ -852,7 +877,8 @@
             "de": "Alyscamps",
             "hu": "Alyscamps",
             "ro": "Alyscamps",
-            "en": "Alyscamps"
+            "en": "Alyscamps",
+            "fr": "Alyscamps"
           },
           "coords": [
             4.636,
@@ -876,7 +902,8 @@
             "de": "Luma Arles",
             "hu": "Luma Arles",
             "ro": "Luma Arles",
-            "en": "Luma Arles"
+            "en": "Luma Arles",
+            "fr": "Luma Arles"
           },
           "coords": [
             4.634,
@@ -892,7 +919,7 @@
             "hu": "Sok kerékpártároló van a bejáratnál.",
             "ro": "Există multe rastele pentru biciclete la intrare.",
             "en": "There are many bike racks at the entrance.",
-            "fr": "Il y a de nombreux porte-vélos à l'entrée."
+            "fr": "Il y a de nombreux arceaux vélo à l'entrée."
           }
         },
         {
@@ -900,7 +927,8 @@
             "de": "Musée de l'Arles Antique",
             "hu": "Arles-i Antik Múzeum",
             "ro": "Muzeul Arles Antic",
-            "en": "Arles Antique Museum"
+            "en": "Arles Antique Museum",
+            "fr": "Arles Antique Museum"
           },
           "coords": [
             4.616,
@@ -916,7 +944,7 @@
             "hu": "Nézd meg a római kori folyami hajó roncsait.",
             "ro": "Vedeți epava barjei romane.",
             "en": "See the Roman river barge wreck.",
-            "fr": "Découvrez l'épave d'un chaland romain."
+            "fr": "Voyez l'épave d'une barge romaine du fleuve."
           }
         },
         {
@@ -924,7 +952,8 @@
             "de": "Pont Van Gogh (Langlois-Brücke)",
             "hu": "Van Gogh-híd (Langlois-híd)",
             "ro": "Podul Van Gogh",
-            "en": "Van Gogh Bridge"
+            "en": "Van Gogh Bridge",
+            "fr": "Pont Van Gogh"
           },
           "coords": [
             4.621,
@@ -940,7 +969,7 @@
             "hu": "Van Gogh festményeiről ismert híd rekonstrukciója.",
             "ro": "Reconstrucția podului din picturile lui Van Gogh.",
             "en": "Reconstruction of the bridge from Van Gogh's paintings.",
-            "fr": "Reconstruction du pont d'après les tableaux de Van Gogh."
+            "fr": "Reconstruction du pont des tableaux de Van Gogh."
           }
         },
         {
@@ -948,7 +977,8 @@
             "de": "Rhone-Damm Radweg",
             "hu": "Rhône-gát kerékpárút",
             "ro": "Pista de biciclete de pe digul Ronului",
-            "en": "Rhône Dam Cycle Path"
+            "en": "Rhône Dam Cycle Path",
+            "fr": "Piste cyclable du barrage du Rhône"
           },
           "coords": [
             4.623,
@@ -964,7 +994,7 @@
             "hu": "Sík útvonal kilátással a folyóra és a városra.",
             "ro": "Traseu plat cu vedere la râu și la oraș.",
             "en": "Flat path with views of the river and the city.",
-            "fr": "Sentier plat avec vue sur le fleuve et la ville."
+            "fr": "Piste plate avec vues sur le fleuve et la ville."
           }
         }
       ],
@@ -973,7 +1003,7 @@
         "hu": "Arles remekül felfedezhető két keréken. Kezdjen az Alyscamps-nál, majd tekerjen a modern Luma negyedbe. Kövesse a csatorna partját a városon kívüli híres Van Gogh-hídhoz.\n\nAz Antik Múzeum megtekintése után élvezze a tekerést a Rhône gátján. A Camargue sík vidéke közvetlenül a város kapui előtt kezdődik.",
         "ro": "Arles poate fi explorat minunat cu bicicleta. Începeți la Alyscamps, apoi pedalați spre zona modernă Luma. Urmați canalul până la faimosul pod Van Gogh din afara centrului.\n\nDupă o oprire culturală la Muzeul Arles Antic, bucurați-vă de plimbarea pe digurile Ronului. Peisajul plat al Camargue începe chiar la porțile orașului.",
         "en": "Arles is wonderful to explore by bike. Start at Alyscamps and then cycle to the modern Luma site. Follow the canal to the famous Van Gogh Bridge outside the center.\n\nAfter a cultural stop at the Arles Antique Museum, enjoy the ride along the Rhône dams. The flat Camargue landscape begins right outside the city gates.",
-        "fr": "Arles est merveilleuse à explorer à vélo. Commencez aux Alyscamps puis pédalez jusqu'au site moderne de Luma. Suivez le canal jusqu'au célèbre Pont Van Gogh à l'extérieur du centre.\n\nAprès une étape culturelle au Musée de l'Arles antique, profitez de la balade le long des digues du Rhône. Le paysage plat de la Camargue commence juste aux portes de la ville."
+        "fr": "Arles se découvre merveilleusement à vélo. Commencez aux Alyscamps puis pédalez jusqu'au site moderne de Luma. Suivez le canal jusqu'au célèbre Pont Van Gogh hors du centre.\n\nAprès un arrêt culturel au Musée d'Arles Antique, profitez de la balade le long des barrages du Rhône. Le paysage plat de la Camargue commence juste aux portes de la ville."
       },
       "gastro_picks": {
         "de": [
@@ -1094,8 +1124,8 @@
           "Watch out for the Mistral wind, which can make pedaling difficult."
         ],
         "fr": [
-          "Suivez les panneaux 'Via Rhôna'.",
-          "Attention au mistral, qui peut rendre le pédalage difficile."
+          "Suivez les panneaux « ViaRhôna ».",
+          "Méfiez-vous du Mistral, qui peut rendre le pédalage difficile."
         ]
       },
       "variants": {
@@ -1104,7 +1134,8 @@
             "de": "Arles lässt sich wunderbar mit dem Fahrrad erkunden. Starten Sie bei Alyscamps und radeln Sie dann zum modernen Luma-Gelände. Folgen Sie dem Kanal zum berühmten Pont Van Gogh außerhalb des Zentrums.\n\nNach einem kulturellen Stopp im Musée de l'Arles Antique genießen Sie die Fahrt entlang der Rhone-Dämme. Die flache Landschaft der Camargue beginnt direkt vor den Toren der Stadt.",
             "hu": "Arles remekül felfedezhető két keréken. Kezdjen az Alyscamps-nál, majd tekerjen a modern Luma negyedbe. Kövesse a csatorna partját a városon kívüli híres Van Gogh-hídhoz.\n\nAz Antik Múzeum megtekintése után élvezze a tekerést a Rhône gátján. A Camargue sík vidéke közvetlenül a város kapui előtt kezdődik.",
             "ro": "Arles poate fi explorat minunat cu bicicleta. Începeți la Alyscamps, apoi pedalați spre zona modernă Luma. Urmați canalul până la faimosul pod Van Gogh din afara centrului.\n\nDupă o oprire culturală la Muzeul Arles Antic, bucurați-vă de plimbarea pe digurile Ronului. Peisajul plat al Camargue începe chiar la porțile orașului.",
-            "en": "Arles is wonderful to explore by bike. Start at Alyscamps and then cycle to the modern Luma site. Follow the canal to the famous Van Gogh Bridge outside the center.\n\nAfter a cultural stop at the Arles Antique Museum, enjoy the ride along the Rhône dams. The flat Camargue landscape begins right outside the city gates."
+            "en": "Arles is wonderful to explore by bike. Start at Alyscamps and then cycle to the modern Luma site. Follow the canal to the famous Van Gogh Bridge outside the center.\n\nAfter a cultural stop at the Arles Antique Museum, enjoy the ride along the Rhône dams. The flat Camargue landscape begins right outside the city gates.",
+            "fr": "Arles se découvre merveilleusement à vélo. Commencez aux Alyscamps puis pédalez jusqu'au site moderne de Luma. Suivez le canal jusqu'au célèbre Pont Van Gogh hors du centre.\n\nAprès un arrêt culturel au Musée d'Arles Antique, profitez de la balade le long des barrages du Rhône. Le paysage plat de la Camargue commence juste aux portes de la ville."
           },
           "stops": [
             {
@@ -1112,13 +1143,15 @@
                 "de": "Alyscamps",
                 "hu": "Alyscamps",
                 "ro": "Alyscamps",
-                "en": "Alyscamps"
+                "en": "Alyscamps",
+                "fr": "Alyscamps"
               },
               "tip_5lang": {
                 "de": "Radeln Sie entlang der schattigen Allee.",
                 "hu": "Tekerj végig az árnyas fasoron.",
                 "ro": "Pedalați de-a lungul aleii umbrite.",
-                "en": "Cycle along the shaded avenue."
+                "en": "Cycle along the shaded avenue.",
+                "fr": "Pédalez le long de l'avenue ombragée."
               }
             },
             {
@@ -1126,13 +1159,15 @@
                 "de": "Luma Arles",
                 "hu": "Luma Arles",
                 "ro": "Luma Arles",
-                "en": "Luma Arles"
+                "en": "Luma Arles",
+                "fr": "Luma Arles"
               },
               "tip_5lang": {
                 "de": "Es gibt viele Fahrradabstellplätze am Eingang.",
                 "hu": "Sok kerékpártároló van a bejáratnál.",
                 "ro": "Există multe rastele pentru biciclete la intrare.",
-                "en": "There are many bike racks at the entrance."
+                "en": "There are many bike racks at the entrance.",
+                "fr": "Il y a de nombreux arceaux vélo à l'entrée."
               }
             },
             {
@@ -1140,13 +1175,15 @@
                 "de": "Musée de l'Arles Antique",
                 "hu": "Arles-i Antik Múzeum",
                 "ro": "Muzeul Arles Antic",
-                "en": "Arles Antique Museum"
+                "en": "Arles Antique Museum",
+                "fr": "Arles Antique Museum"
               },
               "tip_5lang": {
                 "de": "Sehen Sie das römische Lastkahn-Wrack.",
                 "hu": "Nézd meg a római kori folyami hajó roncsait.",
                 "ro": "Vedeți epava barjei romane.",
-                "en": "See the Roman river barge wreck."
+                "en": "See the Roman river barge wreck.",
+                "fr": "Voyez l'épave d'une barge romaine du fleuve."
               }
             },
             {
@@ -1154,13 +1191,15 @@
                 "de": "Pont Van Gogh (Langlois-Brücke)",
                 "hu": "Van Gogh-híd (Langlois-híd)",
                 "ro": "Podul Van Gogh",
-                "en": "Van Gogh Bridge"
+                "en": "Van Gogh Bridge",
+                "fr": "Pont Van Gogh"
               },
               "tip_5lang": {
                 "de": "Rekonstruktion der Brücke aus Van Goghs Gemälden.",
                 "hu": "Van Gogh festményeiről ismert híd rekonstrukciója.",
                 "ro": "Reconstrucția podului din picturile lui Van Gogh.",
-                "en": "Reconstruction of the bridge from Van Gogh's paintings."
+                "en": "Reconstruction of the bridge from Van Gogh's paintings.",
+                "fr": "Reconstruction du pont des peintures de Van Gogh."
               }
             },
             {
@@ -1168,13 +1207,15 @@
                 "de": "Rhone-Damm Radweg",
                 "hu": "Rhône-gát kerékpárút",
                 "ro": "Pista de biciclete de pe digul Ronului",
-                "en": "Rhône Dam Cycle Path"
+                "en": "Rhône Dam Cycle Path",
+                "fr": "Piste cyclable du barrage du Rhône"
               },
               "tip_5lang": {
                 "de": "Flacher Weg mit Blick auf den Fluss und die Stadt.",
                 "hu": "Sík útvonal kilátással a folyóra és a városra.",
                 "ro": "Traseu plat cu vedere la râu și la oraș.",
-                "en": "Flat path with views of the river and the city."
+                "en": "Flat path with views of the river and the city.",
+                "fr": "Sentier plat offrant des vues sur la rivière et la ville."
               }
             }
           ],
@@ -1276,6 +1317,10 @@
             "en": [
               "Follow the 'Via Rhona' signs.",
               "Watch out for the Mistral wind, which can make pedaling difficult."
+            ],
+            "fr": [
+              "Suivez les panneaux « Via Rhona ».",
+              "Attention au Mistral, qui peut rendre le pédalage difficile."
             ]
           }
         },
@@ -1285,7 +1330,7 @@
             "hu": "Reggel gyorsan az Alyscamps-hoz tekerünk, ahol a magas fák adnak némi védelmet. Délben sok időt töltünk a száraz Luma központban. Délután az Antik Múzeum a cél, ami tökéletes hely a hosszú esős órákra. Később a Rhône-gát aszfaltozott kerékpárútjait használjuk, elkerülve az óvárosi tócsákat.",
             "ro": "Dimineața pedalăm rapid spre Alyscamps, unde copacii înalți oferă protecție. La prânz petrecem mult timp în centrul uscat Luma. După-amiaza destinația este Muzeul de Antichități, loc perfect pentru orele lungi de ploaie. Mai târziu folosim pistele asfaltate de pe digul Ronului pentru a evita bălțile din centru.",
             "en": "In the morning, we cycle swiftly to Alyscamps where tall trees offer some cover. Midday is spent in the dry Luma complex. The afternoon destination is the Antique Museum, perfect for long rainy hours. Later, we use the paved cycle paths on the Rhône dam to avoid the puddles of the old town.",
-            "fr": "Le matin, nous pédalons rapidement vers les Alyscamps où les grands arbres offrent un certain abri. Le midi est passé dans le complexe sec de Luma. La destination de l'après-midi est le Musée de l'Arles antique, parfait pour les longues heures de pluie. Plus tard, nous utilisons les pistes cyclables goudronnées sur la digue du Rhône pour éviter les flaques de la vieille ville."
+            "fr": "Le matin, nous roulons rapidement jusqu’aux Alyscamps où de grands arbres offrent un peu d’abri. À midi, nous passons du temps dans le complexe sec de Luma. L’après-midi, destination le Musée des Antiquités, parfait pour les longues heures de pluie. Plus tard, nous empruntons les pistes cyclables goudronnées sur le barrage du Rhône pour éviter les flaques du centre-ville."
           },
           "stops": [
             {
@@ -1295,7 +1340,7 @@
                 "hu": "A nyárfasor természetes védelmet nyújt szemerkélő esőben.",
                 "ro": "Aleea cu plopi oferă protecție naturală contra ploii ușoare.",
                 "en": "The poplar alley provides natural shelter from light rain.",
-                "fr": "L'allée de peupliers offre un abri naturel contre la pluie légère."
+                "fr": "L’allée de peupliers offre un abri naturel contre la pluie fine."
               }
             },
             {
@@ -1305,7 +1350,7 @@
                 "hu": "Biztonságos biciklitárolók közvetlenül a park bejáratánál.",
                 "ro": "Rafturi de biciclete sigure chiar la intrarea în parc.",
                 "en": "Secure bike racks are located right at the park entrance.",
-                "fr": "Des porte-vélos sécurisés sont situés juste à l'entrée du parc."
+                "fr": "Des arceaux à vélos sécurisés se trouvent juste à l’entrée du parc."
               }
             },
             {
@@ -1315,7 +1360,7 @@
                 "hu": "Tervezzen több időt, hogy bent várja meg az eső végét.",
                 "ro": "Planificați mai mult timp pentru a aștepta oprirea ploii.",
                 "en": "Plan extra time to wait out the rain inside the museum.",
-                "fr": "Prévoyez du temps supplémentaire pour attendre la fin de la pluie à l'intérieur du musée."
+                "fr": "Prévoyez du temps supplémentaire pour attendre la fin de la pluie à l’intérieur du musée."
               }
             },
             {
@@ -1325,7 +1370,7 @@
                 "hu": "Legyen óvatos a hídfőhöz vezető föutakon eső után.",
                 "ro": "Atenție la drumul neasfaltat către pod pe timp de ploaie.",
                 "en": "Be careful on the unpaved paths leading to the bridge.",
-                "fr": "Soyez prudent sur les sentiers non balisés menant au pont."
+                "fr": "Faites attention aux chemins non goudronnés menant au pont."
               }
             },
             {
@@ -1335,7 +1380,7 @@
                 "hu": "Sima aszfalt, de vigyázzon a vízparti széllökésekre.",
                 "ro": "Asfalt neted, dar atenție la rafalele de vânt de lângă apă.",
                 "en": "Smooth pavement, but watch out for wind gusts by the water.",
-                "fr": "Revêtement lisse, mais attention aux rafales de vent au bord de l'eau."
+                "fr": "Revêtement lisse, mais attention aux rafales de vent près de l’eau."
               }
             }
           ],
@@ -1370,10 +1415,10 @@
             ],
             "fr": [
               "Vérifiez si votre vélo de location est équipé de garde-boue.",
-              "Évitez les ruelles pavées car elles deviennent dangereusement glissantes.",
-              "Portez une veste de pluie haute visibilité pour être mieux vu dans la circulation.",
-              "Les distances de freinage augmentent considérablement sur chaussée mouillée.",
-              "Utilisez la station vélo près de la gare pour les petites réparations."
+              "Évitez les ruelles pavées ; elles deviennent dangereusement glissantes.",
+              "Portez une veste de pluie haute visibilité pour mieux être vu dans la circulation.",
+              "Les distances de freinage augmentent considérablement sur revêtement mouillé.",
+              "Utilisez la station vélo près de la gare pour de petites réparations."
             ]
           }
         },
@@ -1383,7 +1428,7 @@
             "hu": "Reggel frissen tekerünk át az Alyscamps-on a tiszta téli fényben. Délben a Luma negyedben állunk meg felmelegedni. A délután az Antik Múzeumban tökéletes, amikor a hideg fokozódik. Naplemente előtt érjük el a Van Gogh-hidat, amely varázslatos a téli világításban. A napot a Rhône-gát sík útjain zárjuk.",
             "ro": "Dimineața pedalăm energic prin Alyscamps în lumina clară de iarnă. La prânz ne oprim la Luma pentru a ne încălzi. După-amiaza la Muzeul de Antichități este perfectă când se lasă frigul. Înainte de apus ajungem la Podul Van Gogh, care arată magic. Încheiem ziua pe drumurile plane de pe digul Ronului.",
             "en": "Morning finds us cycling through Alyscamps in the crisp winter light. At noon, we stop at Luma to warm up indoors. The afternoon at the Antique Museum is perfect as the temperature drops. Before sunset, we reach the Van Gogh Bridge, which looks magical in winter light. We end the day on the flat paths of the Rhône dam.",
-            "fr": "Le matin nous trouve à vélo à travers les Alyscamps dans la lumière vive de l'hiver. À midi, nous nous arrêtons à Luma pour nous réchauffer à l'intérieur. L'après-midi au Musée de l'Arles antique est parfait alors que la température baisse. Avant le coucher du soleil, nous atteignons le Pont Van Gogh, qui semble magique sous la lumière hivernale. Nous terminons la journée sur les sentiers plats de la digue du Rhône."
+            "fr": "Le matin, nous traversons les Alyscamps sous la lumière hivernale claire. À midi, nous nous arrêtons à Luma pour nous réchauffer à l’intérieur. L’après-midi au Musée des Antiquités est parfait lorsque la température baisse. Avant le coucher du soleil, nous atteignons le pont Van Gogh, qui paraît magique dans la lumière d’hiver. Nous terminons la journée sur les chemins plats du barrage du Rhône."
           },
           "stops": [
             {
@@ -1393,7 +1438,7 @@
                 "hu": "A fák kopaszok, ami tágas látóteret enged a fotózáshoz.",
                 "ro": "Copacii sunt desfrunziți, permițând vederi panoramice.",
                 "en": "The trees are bare, allowing for wide viewing angles.",
-                "fr": "Les arbres sont nus, permettant des angles de vue larges."
+                "fr": "Les arbres sont dénudés, offrant de larges angles de vue."
               }
             },
             {
@@ -1403,7 +1448,7 @@
                 "hu": "Bent kellemes a hőmérséklet, ideális egy kis pihenőre.",
                 "ro": "Interiorul este bine încălzit, ideal pentru o pauză.",
                 "en": "The interior is well-heated, ideal for a short break.",
-                "fr": "L'intérieur est bien chauffé, idéal pour une courte pause."
+                "fr": "L’intérieur est bien chauffé, idéal pour une courte pause."
               }
             },
             {
@@ -1413,7 +1458,7 @@
                 "hu": "Ingyenes ruhatár áll rendelkezésre a vastag kabátoknak.",
                 "ro": "Garderobă gratuită disponibilă pentru hainele de iarnă.",
                 "en": "Free cloakroom available for bulky winter jackets.",
-                "fr": "Vestiaire gratuit disponible pour les vestes d'hiver encombrantes."
+                "fr": "Vestiaire gratuit disponible pour les gros manteaux d’hiver."
               }
             },
             {
@@ -1423,7 +1468,7 @@
                 "hu": "Különösen fotogén az alacsonyan járó téli napfényben.",
                 "ro": "Foarte fotogenic în lumina soarelui de iarnă.",
                 "en": "Extremely photogenic in the low winter sunlight.",
-                "fr": "Extrêmement photogénique sous la lumière basse de l'hiver."
+                "fr": "Extrêmement photogénique sous la faible lumière hivernale."
               }
             },
             {
@@ -1433,7 +1478,7 @@
                 "hu": "Vigyázzon az erős északi szembe szélre (Misztrál).",
                 "ro": "Atenție la vântul puternic din față (Mistral) dinspre nord.",
                 "en": "Watch out for strong headwinds (Mistral) from the north.",
-                "fr": "Attention aux vents de face puissants (Mistral) venant du nord."
+                "fr": "Attention aux violents vents de face (Mistral) venant du nord."
               }
             }
           ],
@@ -1467,11 +1512,11 @@
               "The Mistral wind can make cycling against it extremely difficult."
             ],
             "fr": [
-              "Portez des gants coupe-vent pour la balade le long de la digue.",
+              "Portez des gants coupe-vent pour la traversée le long du barrage.",
               "Le soleil disparaît derrière les collines avant 17h00.",
-              "Vérifiez que vos éclairages de vélo fonctionnent avant de partir.",
-              "Le chocolat chaud à la cantine Luma est vivement recommandé.",
-              "Le mistral peut rendre le cyclisme contre le vent extrêmement difficile."
+              "Vérifiez le fonctionnement de vos éclairages avant de partir.",
+              "Le chocolat chaud à la cantine de Luma est fortement recommandé.",
+              "Le Mistral peut rendre la progression à vélo très difficile."
             ]
           }
         }
@@ -1490,7 +1535,8 @@
             "de": "Amphitheater (Zentrum)",
             "hu": "Amfiteátrum (központ)",
             "ro": "Amfiteatru (centru)",
-            "en": "Amphitheatre (center)"
+            "en": "Amphitheatre (center)",
+            "fr": "Amphithéâtre (centre)"
           },
           "coords": [
             4.631,
@@ -1506,7 +1552,7 @@
             "hu": "Parkoljon a Centre parkolóházban.",
             "ro": "Parcați în parcarea etajată Centre.",
             "en": "Park in the Centre parking garage.",
-            "fr": "Garez-vous dans le parking couvert du Centre."
+            "fr": "Garez-vous au parking Centre."
           }
         },
         {
@@ -1514,7 +1560,8 @@
             "de": "Luma Arles",
             "hu": "Luma Arles",
             "ro": "Luma Arles",
-            "en": "Luma Arles"
+            "en": "Luma Arles",
+            "fr": "Luma Arles"
           },
           "coords": [
             4.634,
@@ -1530,7 +1577,7 @@
             "hu": "Nézze meg a kiállításokat a Parc des Ateliers-ben.",
             "ro": "Vizitați expozițiile din Parc des Ateliers.",
             "en": "Visit the exhibitions in the Parc des Ateliers.",
-            "fr": "Visitez les expositions au Parc des Ateliers."
+            "fr": "Visitez les expositions du Parc des Ateliers."
           }
         },
         {
@@ -1538,7 +1585,8 @@
             "de": "Abbaye de Montmajour",
             "hu": "Montmajour-apátság",
             "ro": "Abația Montmajour",
-            "en": "Montmajour Abbey"
+            "en": "Montmajour Abbey",
+            "fr": "Abbaye de Montmajour"
           },
           "coords": [
             4.664,
@@ -1554,7 +1602,7 @@
             "hu": "Középkori apátság egy sziklán a mocsár felett.",
             "ro": "Abație medievală pe o stâncă deasupra mlaștinii.",
             "en": "Medieval abbey on a rock above the marshes.",
-            "fr": "Abbaye médiévale sur un rocher au-dessus des marais."
+            "fr": "Abbaye médiévale sur un rocher au‑dessus des marais."
           }
         },
         {
@@ -1562,7 +1610,8 @@
             "de": "Musée de l'Arles Antique",
             "hu": "Arles-i Antik Múzeum",
             "ro": "Muzeul Arles Antic",
-            "en": "Arles Antique Museum"
+            "en": "Arles Antique Museum",
+            "fr": "Musée des Antiquités d’Arles"
           },
           "coords": [
             4.616,
@@ -1586,7 +1635,8 @@
             "de": "Alyscamps",
             "hu": "Alyscamps",
             "ro": "Alyscamps",
-            "en": "Alyscamps"
+            "en": "Alyscamps",
+            "fr": "Alyscamps"
           },
           "coords": [
             4.636,
@@ -1602,7 +1652,7 @@
             "hu": "Séta az ókori holtak városában.",
             "ro": "Plimbare prin orașul antic al morților.",
             "en": "Stroll through the ancient city of the dead.",
-            "fr": "Promenez-vous dans l'ancienne cité des morts."
+            "fr": "Flânez dans l’antique cité des morts."
           }
         }
       ],
@@ -1611,7 +1661,7 @@
         "hu": "Autóval az Arles közvetlen közelében lévő kincseket is elérheti. A központi amfiteátrum után látogasson el a lenyűgöző Montmajour-apátsághoz. A napot az Antik Múzeum értékes római leletei zárják.",
         "ro": "Cu mașina puteți ajunge și la comorile aflate chiar în afara orașului Arles. După arena din centru, conduceți către impresionanta Abație Montmajour. Ziua se încheie la Muzeul Antic cu valoroasele sale descoperiri romane.",
         "en": "By car, you can also reach the treasures just outside Arles. After visiting the arena in the center, drive to the impressive Montmajour Abbey. The day ends at the Antique Museum with its precious Roman finds.",
-        "fr": "En voiture, vous pouvez également atteindre les trésors juste à l'extérieur d'Arles. Après avoir visité les arènes au centre, conduisez jusqu'à l'impressionnante Abbaye de Montmajour. La journée se termine au Musée de l'Arles antique avec ses précieuses découvertes romaines."
+        "fr": "En voiture, vous pouvez aussi rejoindre les trésors situés juste à l’extérieur d’Arles. Après la visite de l’arène au centre, rendez‑vous à la imposante abbaye de Montmajour. La journée se termine au Musée des Antiquités avec ses précieux vestiges romains."
       },
       "gastro_picks": {
         "de": [
@@ -1732,8 +1782,8 @@
           "Finding parking during the Saturday market is nearly impossible."
         ],
         "fr": [
-          "Évitez le centre en voiture, utilisez les parkings P+R à la place.",
-          "Trouver une place de parking pendant le marché du samedi est presque impossible."
+          "Évitez le centre en voiture, utilisez plutôt les parkings P+R.",
+          "Trouver une place pendant le marché du samedi est presque impossible."
         ]
       },
       "variants": {
@@ -1742,7 +1792,8 @@
             "de": "Mit dem Auto erreichen Sie auch die Schätze knapp außerhalb von Arles. Nach der Arena im Zentrum fahren Sie zur beeindruckenden Abbaye de Montmajour. Der Tag endet im Antik-Museum mit seinen wertvollen römischen Funden.",
             "hu": "Autóval az Arles közvetlen közelében lévő kincseket is elérheti. A központi amfiteátrum után látogasson el a lenyűgöző Montmajour-apátsághoz. A napot az Antik Múzeum értékes római leletei zárják.",
             "ro": "Cu mașina puteți ajunge și la comorile aflate chiar în afara orașului Arles. După arena din centru, conduceți către impresionanta Abație Montmajour. Ziua se încheie la Muzeul Antic cu valoroasele sale descoperiri romane.",
-            "en": "By car, you can also reach the treasures just outside Arles. After visiting the arena in the center, drive to the impressive Montmajour Abbey. The day ends at the Antique Museum with its precious Roman finds."
+            "en": "By car, you can also reach the treasures just outside Arles. After visiting the arena in the center, drive to the impressive Montmajour Abbey. The day ends at the Antique Museum with its precious Roman finds.",
+            "fr": "En voiture, vous pouvez aussi rejoindre les trésors situés juste à l’extérieur d’Arles. Après la visite de l’arène au centre, rendez‑vous à la imposante abbaye de Montmajour. La journée se termine au Musée des Antiquités avec ses précieux vestiges romains."
           },
           "stops": [
             {
@@ -1750,13 +1801,15 @@
                 "de": "Amphitheater (Zentrum)",
                 "hu": "Amfiteátrum (központ)",
                 "ro": "Amfiteatru (centru)",
-                "en": "Amphitheatre (center)"
+                "en": "Amphitheatre (center)",
+                "fr": "Amphithéâtre (centre)"
               },
               "tip_5lang": {
                 "de": "Parken Sie im Parkhaus Centre.",
                 "hu": "Parkoljon a Centre parkolóházban.",
                 "ro": "Parcați în parcarea etajată Centre.",
-                "en": "Park in the Centre parking garage."
+                "en": "Park in the Centre parking garage.",
+                "fr": "Garez‑vous au parking Centre."
               }
             },
             {
@@ -1764,13 +1817,15 @@
                 "de": "Luma Arles",
                 "hu": "Luma Arles",
                 "ro": "Luma Arles",
-                "en": "Luma Arles"
+                "en": "Luma Arles",
+                "fr": "Luma Arles"
               },
               "tip_5lang": {
                 "de": "Besuchen Sie die Ausstellungen im Parc des Ateliers.",
                 "hu": "Nézze meg a kiállításokat a Parc des Ateliers-ben.",
                 "ro": "Vizitați expozițiile din Parc des Ateliers.",
-                "en": "Visit the exhibitions in the Parc des Ateliers."
+                "en": "Visit the exhibitions in the Parc des Ateliers.",
+                "fr": "Visitez les expositions du Parc des Ateliers."
               }
             },
             {
@@ -1778,13 +1833,15 @@
                 "de": "Abbaye de Montmajour",
                 "hu": "Montmajour-apátság",
                 "ro": "Abația Montmajour",
-                "en": "Montmajour Abbey"
+                "en": "Montmajour Abbey",
+                "fr": "Abbaye de Montmajour"
               },
               "tip_5lang": {
                 "de": "Mittelalterliche Abtei auf einem Felsen über dem Sumpf.",
                 "hu": "Középkori apátság egy sziklán a mocsár felett.",
                 "ro": "Abație medievală pe o stâncă deasupra mlaștinii.",
-                "en": "Medieval abbey on a rock above the marshes."
+                "en": "Medieval abbey on a rock above the marshes.",
+                "fr": "Abbaye médiévale sur un rocher au‑dessus des marais."
               }
             },
             {
@@ -1792,13 +1849,15 @@
                 "de": "Musée de l'Arles Antique",
                 "hu": "Arles-i Antik Múzeum",
                 "ro": "Muzeul Arles Antic",
-                "en": "Arles Antique Museum"
+                "en": "Arles Antique Museum",
+                "fr": "Musée des Antiquités d’Arles"
               },
               "tip_5lang": {
                 "de": "Großer kostenloser Parkplatz direkt davor.",
                 "hu": "Nagy ingyenes parkoló közvetlenül előtte.",
                 "ro": "Parcare mare gratuită chiar în față.",
-                "en": "Large free parking lot right in front."
+                "en": "Large free parking lot right in front.",
+                "fr": "Grand parking gratuit juste devant."
               }
             },
             {
@@ -1806,13 +1865,15 @@
                 "de": "Alyscamps",
                 "hu": "Alyscamps",
                 "ro": "Alyscamps",
-                "en": "Alyscamps"
+                "en": "Alyscamps",
+                "fr": "Alyscamps"
               },
               "tip_5lang": {
                 "de": "Spaziergang durch die antike Totenstadt.",
                 "hu": "Séta az ókori holtak városában.",
                 "ro": "Plimbare prin orașul antic al morților.",
-                "en": "Stroll through the ancient city of the dead."
+                "en": "Stroll through the ancient city of the dead.",
+                "fr": "Flânez dans l’antique cité des morts."
               }
             }
           ],
@@ -1914,6 +1975,10 @@
             "en": [
               "Avoid the center by car, use P+R parking instead.",
               "Finding parking during the Saturday market is nearly impossible."
+            ],
+            "fr": [
+              "Évitez le centre en voiture, utilisez plutôt les parkings P+R.",
+              "Trouver une place pendant le marché du samedi est presque impossible."
             ]
           }
         },
@@ -1923,7 +1988,7 @@
             "hu": "Reggel kényelmesen leparkolunk a Centre parkolóházban az amfiteátrum mellett. Délben a Luma negyedbe hajtunk, ahol közvetlenül a bejáratnál állunk meg. Délután a Montmajour apátsághoz autózunk, amely misztikus az esőben. Később az Antik Múzeumot nézzük meg, majd az Alyscamps-nál zárunk, mindig közel az autóhoz.",
             "ro": "Dimineața parcăm comod în garajul Centre lângă amfiteatru. La prânz conducem spre Luma, unde putem parca chiar la intrare. După-amiaza mergem la Abația Montmajour, care arată mistic pe ploaie. Mai târziu vizităm Muzeul de Antichități și Alyscamps, rămânând mereu aproape de mașină.",
             "en": "In the morning, we park conveniently in the Centre garage near the Amphitheatre. Midday, we drive to Luma and park right by the entrance. The afternoon takes us to Montmajour Abbey, which looks mystical in the rain. Later, we visit the Antique Museum and end at Alyscamps, always staying close to the car.",
-            "fr": "Le matin, nous nous garons commodément dans le parking du Centre près de l'Amphithéâtre. À midi, nous conduisons jusqu'à Luma et nous garons juste à l'entrée. L'après-midi nous emmène à l'Abbaye de Montmajour, qui semble mystique sous la pluie. Plus tard, nous visitons le Musée de l'Arles antique et terminons aux Alyscamps, en restant toujours à proximité de la voiture."
+            "fr": "Le matin, nous nous garons commodément au garage Centre près de l’Amphithéâtre. À midi, nous prenons la voiture pour Luma et nous garons juste à l’entrée. L’après-midi nous conduit à l’abbaye de Montmajour, qui paraît mystique sous la pluie. Plus tard, nous visitons le Musée des Antiquités et finissons aux Alyscamps, toujours en restant près de la voiture."
           },
           "stops": [
             {
@@ -1933,7 +1998,7 @@
                 "hu": "Használja a 'Parking des Lices' parkolót a rövid sétaútért.",
                 "ro": "Folosiți parcarea 'Parking des Lices' pentru acces rapid.",
                 "en": "Use the 'Parking des Lices' garage for the shortest walk.",
-                "fr": "Utilisez le parking 'Parking des Lices' pour la marche la plus courte."
+                "fr": "Utilisez le garage « Parking des Lices » pour la marche la plus courte."
               }
             },
             {
@@ -1943,7 +2008,7 @@
                 "hu": "Fedett útvonalak vezetnek a P6 parkolótól a toronyig.",
                 "ro": "Căi acoperite duc de la parcarea P6 către turn.",
                 "en": "Covered walkways lead from parking P6 to the tower.",
-                "fr": "Des passages couverts mènent du parking P6 à la tour."
+                "fr": "Des passages couverts relient le parking P6 à la tour."
               }
             },
             {
@@ -1953,7 +2018,7 @@
                 "hu": "A parkoló közel van, de az apátsághoz vezető út nyitott.",
                 "ro": "Parcarea e aproape, dar drumul spre abație e neprotejat.",
                 "en": "Parking is close, but the path to the abbey is exposed.",
-                "fr": "Le parking est proche, mais le chemin vers l'abbaye est exposé."
+                "fr": "Le parking est proche, mais le chemin vers l’abbaye est exposé."
               }
             },
             {
@@ -1963,7 +2028,7 @@
                 "hu": "Nagy, ingyenes parkoló közvetlenül a bejárat előtt.",
                 "ro": "Parcare mare și gratuită chiar în fața intrării.",
                 "en": "Large free parking lot right in front of the entrance.",
-                "fr": "Grand parking gratuit juste devant l'entrée."
+                "fr": "Grand parking gratuit juste devant l’entrée."
               }
             },
             {
@@ -1973,7 +2038,7 @@
                 "hu": "Parkoljon az Avenue des Alyscamps mentén.",
                 "ro": "Parcați de-a lungul Avenue des Alyscamps.",
                 "en": "Park along the Avenue des Alyscamps for easy access.",
-                "fr": "Garez-vous le long de l'Avenue des Alyscamps pour un accès facile."
+                "fr": "Garez-vous le long de l’Avenue des Alyscamps pour un accès facile."
               }
             }
           ],
@@ -2007,11 +2072,11 @@
               "The train station parking is a good backup if the center is full."
             ],
             "fr": [
-              "Ne laissez jamais d'objets de valeur visibles à l'intérieur de votre voiture garée.",
-              "Certaines rues de la vieille ville peuvent paraître très étroites lors de fortes pluies.",
-              "Utilisez l'application 'Flowbird' pour gérer et payer votre stationnement.",
-              "L'Abbaye de Montmajour peut restreindre l'accès extérieur lors d'averses violentes.",
-              "Le parking de la gare est une bonne solution de secours si le centre est complet."
+              "Ne laissez jamais d’objets de valeur visibles dans votre voiture garée.",
+              "Certaines rues de la vieille ville peuvent sembler très étroites lors de fortes pluies.",
+              "Utilisez l’application « Flowbird » pour gérer et payer le stationnement.",
+              "L’abbaye de Montmajour peut restreindre l’accès extérieur en cas d’averses importantes.",
+              "Le parking de la gare est une bonne solution de secours si le centre est plein."
             ]
           }
         },
@@ -2021,7 +2086,7 @@
             "hu": "Reggel a tiszta téli fényben érünk az amfiteátrumhoz, ahol ilyenkor könnyű parkolni. Délben az autó fűtése melenget minket a Luma felé menet. Délután a magányos Montmajour apátságot látogatjuk meg, mielőtt az Antik Múzeumba hajtanánk. A napot az Alyscamps-nál zárjuk, ahogy korán leszáll az alkony.",
             "ro": "Dimineața ajungem la amfiteatru în lumina clară de iarnă, găsind ușor parcare. La prânz, căldura din mașină ne prinde bine în drum spre Luma. După-amiaza vizităm Abația Montmajour înainte de a merge la Muzeul de Antichități. Încheiem ziua la Alyscamps, pe măsură ce se înserează devreme.",
             "en": "Morning finds us at the Amphitheatre in crisp winter light with easy parking. At noon, the car's heater warms us up on the way to Luma. The afternoon is for the quiet Montmajour Abbey before driving to the Antique Museum. We conclude the day at Alyscamps just as the early dusk begins to fall.",
-            "fr": "Le matin nous trouve à l'Amphithéâtre dans la lumière vive de l'hiver avec un stationnement facile. À midi, le chauffage de la voiture nous réchauffe sur le chemin de Luma. L'après-midi est consacré à la tranquille Abbaye de Montmajour avant de conduire vers le Musée de l'Arles antique. Nous concluons la journée aux Alyscamps juste au moment où le crépuscule précoce commence à tomber."
+            "fr": "Le matin, nous sommes à l’Amphithéâtre sous une lumière hivernale cristalline avec un parking facile. À midi, le chauffage de la voiture nous réchauffe en route pour Luma. L’après‑midi est consacré à la paisible abbaye de Montmajour avant de reprendre la voiture pour le Musée des Antiquités. Nous concluons la journée aux Alyscamps juste au moment où le crépuscule précoce commence à tomber."
           },
           "stops": [
             {
@@ -2031,7 +2096,7 @@
                 "hu": "Télen a parkolási díjak gyakran alacsonyabbak vagy elmaradnak.",
                 "ro": "Iarna taxele de parcare sunt adesea mai mici sau inexistente.",
                 "en": "Parking fees are often lower or waived during the winter months.",
-                "fr": "Les frais de stationnement sont souvent réduits ou supprimés pendant les mois d'hiver."
+                "fr": "Les tarifs de stationnement sont souvent plus bas ou annulés pendant les mois d’hiver."
               }
             },
             {
@@ -2051,7 +2116,7 @@
                 "hu": "Szeles! A nyitott elhelyezkedés miatt télen nagyon hideg.",
                 "ro": "Vânt puternic! Locația expusă o face foarte rece iarna.",
                 "en": "Windy! The exposed location makes it very cold in winter.",
-                "fr": "Venteux ! L'emplacement exposé rend l'endroit très froid en hiver."
+                "fr": "Venteux ! L’emplacement exposé le rend très froid en hiver."
               }
             },
             {
@@ -2061,7 +2126,7 @@
                 "hu": "A jól fűtött termek hosszú nézelődésre hívogatnak.",
                 "ro": "Sălile bine încălzite vă invită la o vizită lungă.",
                 "en": "The well-heated galleries invite a long, leisurely visit.",
-                "fr": "Les galeries bien chauffées invitent à une longue visite tranquille."
+                "fr": "Les galeries bien chauffées invitent à une visite longue et détendue."
               }
             },
             {
@@ -2071,7 +2136,7 @@
                 "hu": "A helyszín télen már 17:00 órakor bezár.",
                 "ro": "Situl se închide deja la ora 17:00 în timpul iernii.",
                 "en": "The site closes as early as 5:00 PM during the winter season.",
-                "fr": "Le site ferme dès 17h00 pendant la saison d'hiver."
+                "fr": "Le site ferme parfois dès 17h00 pendant la saison hivernale."
               }
             }
           ],
@@ -2105,11 +2170,11 @@
               "Some remote parking lots are poorly lit during winter evenings."
             ],
             "fr": [
-              "Évitez de vous garer sous les platanes à cause des fientes d'oiseaux.",
-              "Le pare-brise peut être givré par les matins froids d'hiver.",
-              "Conduisez prudemment lorsque le mistral crée de forts vents de travers.",
-              "Profitez des courtes marches entre votre voiture et les sites.",
-              "Certains parkings excentrés sont mal éclairés lors des soirées d'hiver."
+              "Évitez de vous garer sous les platanes à cause des déjections d’oiseaux.",
+              "Le pare‑brise peut être gelé par temps froid le matin.",
+              "Conduisez prudemment lorsque le Mistral provoque de fortes rafales latérales.",
+              "Profitez des courtes distances à pied entre votre voiture et les sites.",
+              "Certains parkings éloignés sont mal éclairés pendant les soirées d’hiver."
             ]
           }
         }
@@ -2128,7 +2193,8 @@
             "de": "Bahnhof Arles",
             "hu": "Arles vasútállomás",
             "ro": "Gara Arles",
-            "en": "Arles Train Station"
+            "en": "Arles Train Station",
+            "fr": "Gare d’Arles"
           },
           "coords": [
             4.63,
@@ -2152,7 +2218,8 @@
             "de": "Arles Amphitheater",
             "hu": "Arles-i amfiteátrum",
             "ro": "Amfiteatrul din Arles",
-            "en": "Arles Amphitheatre"
+            "en": "Arles Amphitheatre",
+            "fr": "Amphithéâtre d’Arles"
           },
           "coords": [
             4.631,
@@ -2168,7 +2235,7 @@
             "hu": "Használja a 'Navia A' ingajáratot.",
             "ro": "Folosiți naveta 'Navia A'.",
             "en": "Use the 'Navia A' shuttle.",
-            "fr": "Utilisez la navette 'Navia A'."
+            "fr": "Utilisez la navette « Navia A »."
           }
         },
         {
@@ -2176,7 +2243,8 @@
             "de": "Luma Arles",
             "hu": "Luma Arles",
             "ro": "Luma Arles",
-            "en": "Luma Arles"
+            "en": "Luma Arles",
+            "fr": "Luma Arles"
           },
           "coords": [
             4.634,
@@ -2192,7 +2260,7 @@
             "hu": "A 'Luma' megálló közvetlenül a bejáratnál van.",
             "ro": "Stația 'Luma' chiar lângă incintă.",
             "en": "The 'Luma' stop is right by the site.",
-            "fr": "L'arrêt 'Luma' se trouve juste à côté du site."
+            "fr": "L’arrêt « Luma » se trouve juste à côté du site."
           }
         },
         {
@@ -2200,7 +2268,8 @@
             "de": "Musée de l'Arles Antique",
             "hu": "Arles-i Antik Múzeum",
             "ro": "Muzeul Arles Antic",
-            "en": "Arles Antique Museum"
+            "en": "Arles Antique Museum",
+            "fr": "Musée des Antiquités d’Arles"
           },
           "coords": [
             4.616,
@@ -2224,7 +2293,8 @@
             "de": "Place de la République",
             "hu": "Place de la République",
             "ro": "Place de la République",
-            "en": "Place de la République"
+            "en": "Place de la République",
+            "fr": "Place de la République"
           },
           "coords": [
             4.6275,
@@ -2240,7 +2310,7 @@
             "hu": "Központi tér, sok busz megáll a közelben.",
             "ro": "Piață centrală, multe autobuze opresc în apropiere.",
             "en": "Central square, many buses stop nearby.",
-            "fr": "Place centrale, de nombreux bus s'y arrêtent."
+            "fr": "Place centrale, de nombreux bus y marquent l’arrêt."
           }
         }
       ],
@@ -2249,7 +2319,7 @@
         "hu": "Az Arles-i buszhálózat (Envia) kényelmesen összeköti a főbb látnivalókat. Kezdjen a vasútállomáson, és használja a kis elektromos buszokat a szűk belvárosban. Látogasson el az Antik Múzeumba és a Lumához parkolási gondok nélkül.",
         "ro": "Sistemul de autobuze din Arles, Envia, conectează confortabil principalele obiective. Începeți de la gară și folosiți micile navete electrice pentru centrul îngust. Vizitați Muzeul Antic și Luma fără grija parcării.",
         "en": "Arles' bus system, Envia, conveniently connects the major sights. Start at the train station and use the small electric shuttles for the narrow center. Visit the Antique Museum and Luma comfortably without parking worries.",
-        "fr": "Le réseau de bus d'Arles, Envia, relie commodément les principaux sites touristiques. Commencez à la gare et utilisez les petites navettes électriques pour le centre étroit. Visitez le Musée de l'Arles antique et Luma confortablement sans soucis de stationnement."
+        "fr": "Le réseau de bus d’Arles, Envia, relie commodément les principaux sites. Commencez à la gare et utilisez les petites navettes électriques pour le centre étroit. Visitez le Musée Antique et Luma sans soucis de stationnement."
       },
       "gastro_picks": {
         "de": [
@@ -2370,8 +2440,8 @@
           "Buy 10-ride tickets for better value."
         ],
         "fr": [
-          "Téléchargez l'application Envia pour les horaires en temps réel.",
-          "Achetez des carnets de 10 tickets pour un meilleur tarif."
+          "Téléchargez l’application Envia pour les horaires en temps réel.",
+          "Achetez des tickets de 10 trajets pour un meilleur rapport qualité-prix."
         ]
       },
       "variants": {
@@ -2380,7 +2450,8 @@
             "de": "Das Bussystem von Arles, Envia, verbindet die wichtigsten Sehenswürdigkeiten bequem. Starten Sie am Bahnhof und nutzen Sie die kleinen Elektroshuttles für das enge Zentrum. Besuchen Sie das Antik-Museum und Luma bequem ohne Parkplatzsorgen.",
             "hu": "Az Arles-i buszhálózat (Envia) kényelmesen összeköti a főbb látnivalókat. Kezdjen a vasútállomáson, és használja a kis elektromos buszokat a szűk belvárosban. Látogasson el az Antik Múzeumba és a Lumához parkolási gondok nélkül.",
             "ro": "Sistemul de autobuze din Arles, Envia, conectează confortabil principalele obiective. Începeți de la gară și folosiți micile navete electrice pentru centrul îngust. Vizitați Muzeul Antic și Luma fără grija parcării.",
-            "en": "Arles' bus system, Envia, conveniently connects the major sights. Start at the train station and use the small electric shuttles for the narrow center. Visit the Antique Museum and Luma comfortably without parking worries."
+            "en": "Arles' bus system, Envia, conveniently connects the major sights. Start at the train station and use the small electric shuttles for the narrow center. Visit the Antique Museum and Luma comfortably without parking worries.",
+            "fr": "Le réseau de bus d’Arles, Envia, relie commodément les principaux sites. Commencez à la gare et utilisez les petites navettes électriques pour le centre étroit. Visitez le Musée Antique et Luma sans soucis de stationnement."
           },
           "stops": [
             {
@@ -2388,13 +2459,15 @@
                 "de": "Bahnhof Arles",
                 "hu": "Arles vasútállomás",
                 "ro": "Gara Arles",
-                "en": "Arles Train Station"
+                "en": "Arles Train Station",
+                "fr": "Gare d’Arles"
               },
               "tip_5lang": {
                 "de": "Startpunkt für die Stadtbusse.",
                 "hu": "A helyi buszok indulási pontja.",
                 "ro": "Punct de plecare pentru autobuzele locale.",
-                "en": "Starting point for city buses."
+                "en": "Starting point for city buses.",
+                "fr": "Point de départ des bus urbains."
               }
             },
             {
@@ -2402,13 +2475,15 @@
                 "de": "Arles Amphitheater",
                 "hu": "Arles-i amfiteátrum",
                 "ro": "Amfiteatrul din Arles",
-                "en": "Arles Amphitheatre"
+                "en": "Arles Amphitheatre",
+                "fr": "Arènes d’Arles"
               },
               "tip_5lang": {
                 "de": "Nutzen Sie den Shuttle 'Navia A'.",
                 "hu": "Használja a 'Navia A' ingajáratot.",
                 "ro": "Folosiți naveta 'Navia A'.",
-                "en": "Use the 'Navia A' shuttle."
+                "en": "Use the 'Navia A' shuttle.",
+                "fr": "Prenez la navette « Navia A »."
               }
             },
             {
@@ -2416,13 +2491,15 @@
                 "de": "Luma Arles",
                 "hu": "Luma Arles",
                 "ro": "Luma Arles",
-                "en": "Luma Arles"
+                "en": "Luma Arles",
+                "fr": "Luma Arles"
               },
               "tip_5lang": {
                 "de": "Haltestelle 'Luma' direkt am Gelände.",
                 "hu": "A 'Luma' megálló közvetlenül a bejáratnál van.",
                 "ro": "Stația 'Luma' chiar lângă incintă.",
-                "en": "The 'Luma' stop is right by the site."
+                "en": "The 'Luma' stop is right by the site.",
+                "fr": "L’arrêt « Luma » se trouve juste à côté du site."
               }
             },
             {
@@ -2430,13 +2507,15 @@
                 "de": "Musée de l'Arles Antique",
                 "hu": "Arles-i Antik Múzeum",
                 "ro": "Muzeul Arles Antic",
-                "en": "Arles Antique Museum"
+                "en": "Arles Antique Museum",
+                "fr": "Musée Antique d’Arles"
               },
               "tip_5lang": {
                 "de": "Buslinie 4 verbindet das Museum mit dem Zentrum.",
                 "hu": "A 4-es busz köti össze a múzeumot a központtal.",
                 "ro": "Linia 4 de autobuz leagă muzeul de centru.",
-                "en": "Bus line 4 connects the museum with the center."
+                "en": "Bus line 4 connects the museum with the center.",
+                "fr": "La ligne 4 relie le musée au centre."
               }
             },
             {
@@ -2444,13 +2523,15 @@
                 "de": "Place de la République",
                 "hu": "Place de la République",
                 "ro": "Place de la République",
-                "en": "Place de la République"
+                "en": "Place de la République",
+                "fr": "Place de la République"
               },
               "tip_5lang": {
                 "de": "Zentraler Platz, viele Busse halten in der Nähe.",
                 "hu": "Központi tér, sok busz megáll a közelben.",
                 "ro": "Piață centrală, multe autobuze opresc în apropiere.",
-                "en": "Central square, many buses stop nearby."
+                "en": "Central square, many buses stop nearby.",
+                "fr": "Place centrale, de nombreux bus s’y arrêtent à proximité."
               }
             }
           ],
@@ -2552,6 +2633,10 @@
             "en": [
               "Download the Envia app for real-time schedules.",
               "Buy 10-ride tickets for better value."
+            ],
+            "fr": [
+              "Téléchargez l’application Envia pour les horaires en temps réel.",
+              "Achetez des tickets de 10 trajets pour un meilleur rapport qualité-prix."
             ]
           }
         },
@@ -2561,7 +2646,7 @@
             "hu": "Reggel szárazon érkezünk a vasútállomásra, majd busszal megyünk a központba az amfiteátrumhoz. Délben az A jelzésű busz visz minket a Luma negyedbe. Délután a tömegközlekedést használjuk az Antik Múzeumhoz, elkerülve az esőt. A napot a Place de la République-en zárjuk, ahol közel van egy fedett buszmegálló.",
             "ro": "Dimineața ajungem la gară și luăm autobuzul spre centru la amfiteatru. La prânz linia A ne duce direct în zona Luma. După-amiaza folosim transportul public spre Muzeul de Antichități pentru a evita ploaia. Încheiem ziua în Place de la République, unde găsim o stație acoperită.",
             "en": "Morning arrives at the station dry, and we take the bus to the center for the Amphitheatre. Midday, line A takes us directly to the Luma area. In the afternoon, we use public transit to reach the Antique Museum to avoid the rain. We end the day at Place de la République near a sheltered bus stop.",
-            "fr": "Le matin arrive à la gare au sec, et nous prenons le bus vers le centre pour l'Amphithéâtre. À midi, la ligne A nous emmène directement au quartier Luma. L'après-midi, nous utilisons les transports en commun pour rejoindre le Musée de l'Arles antique afin d'éviter la pluie. Nous terminons la journée à la Place de la République près d'un arrêt de bus abrité."
+            "fr": "Le matin, on arrive à la gare à l’abri et on prend le bus pour le centre jusqu’aux Arènes. À midi, la ligne A nous conduit directement vers Luma. L’après-midi, nous utilisons les transports publics pour rejoindre le Musée Antique afin d’éviter la pluie. Nous terminons la journée à la Place de la République près d’un arrêt de bus abrité."
           },
           "stops": [
             {
@@ -2571,7 +2656,7 @@
                 "hu": "Várjon a vasútállomás várótermében a csatlakozó buszra.",
                 "ro": "Așteptați autobuzul de legătură în holul gării.",
                 "en": "Wait inside the station hall for your connecting bus.",
-                "fr": "Attendez votre correspondance à l'intérieur du hall de la gare."
+                "fr": "Attendez à l’intérieur du hall de la gare pour votre correspondance de bus."
               }
             },
             {
@@ -2581,7 +2666,7 @@
                 "hu": "A 'Lices' buszmegálló mindössze 3 percre található.",
                 "ro": "Stația de autobuz 'Lices' este la doar 3 minute distanță.",
                 "en": "The 'Lices' bus stop is just a 3-minute walk away.",
-                "fr": "L'arrêt de bus 'Lices' n'est qu'à 3 minutes à pied."
+                "fr": "L’arrêt « Lices » se trouve à seulement 3 minutes à pied."
               }
             },
             {
@@ -2591,7 +2676,7 @@
                 "hu": "A 'Victor Hugo' megálló fedett, védelmet nyújt az esőtől.",
                 "ro": "Stația 'Victor Hugo' este acoperită, oferind protecție.",
                 "en": "The 'Victor Hugo' stop is sheltered from the rain.",
-                "fr": "L'arrêt 'Victor Hugo' est abrité de la pluie."
+                "fr": "L’arrêt « Victor Hugo » est abrité de la pluie."
               }
             },
             {
@@ -2601,7 +2686,7 @@
                 "hu": "A busz szinte közvetlenül a múzeum bejárata előtt áll meg.",
                 "ro": "Autobuzul oprește aproape direct în fața intrării muzeului.",
                 "en": "The bus stops almost directly in front of the museum entry.",
-                "fr": "Le bus s'arrête presque directement devant l'entrée du musée."
+                "fr": "Le bus s’arrête presque directement devant l’entrée du musée."
               }
             },
             {
@@ -2611,7 +2696,7 @@
                 "hu": "Ideális hely, hogy átszálljon egy száraz kávézóba.",
                 "ro": "Loc ideal pentru a intra într-o cafenea uscată.",
                 "en": "An ideal spot to transition into a dry, warm café.",
-                "fr": "Un endroit idéal pour passer dans un café chaud et sec."
+                "fr": "Un endroit idéal pour se rendre dans un café sec et chaleureux."
               }
             }
           ],
@@ -2645,11 +2730,11 @@
               "Buy your tickets from the driver using exact change."
             ],
             "fr": [
-              "Téléchargez l'application 'Envia' pour les horaires de bus en temps réel.",
-              "Les bus subissent souvent de légers retards lors de fortes pluies.",
-              "Un pass journalier vaut particulièrement le coup par mauvais temps.",
-              "Sachez que de nombreux arrêts de bus de la vieille ville ne sont pas abrités.",
-              "Achetez vos tickets auprès du chauffeur en faisant l'appoint."
+              "Téléchargez l’application « Envia » pour les horaires de bus en temps réel.",
+              "Les bus subissent souvent de légers retards en cas de fortes pluies.",
+              "Un pass journalier vaut particulièrement la peine par mauvais temps.",
+              "Sachez que de nombreux arrêts dans la vieille ville ne sont pas abrités.",
+              "Achetez vos tickets auprès du chauffeur en ayant l’appoint."
             ]
           }
         },
@@ -2659,7 +2744,7 @@
             "hu": "Reggel a világos téli fényben érünk a vasútállomásra, és a meleg buszra szállunk a központ felé. Délben tömegközlekedéssel megyünk a Lumához, elkerülve a kinti hideget. Délután az Antik Múzeum a fűtött célpontunk. A korai sötétedés előtt a Place de la République-en zárunk, és az utolsó kényelmes busszal indulunk vissza.",
             "ro": "Dimineața ajungem la gară în lumina clară și luăm autobuzul încălzit spre centru. La prânz folosim transportul public spre Luma pentru a evita frigul. După-amiaza, Muzeul de Antichități este destinația noastră caldă. Înainte de întunericul timpuriu, încheiem ziua în Place de la République.",
             "en": "Morning sees us at the station in bright winter light, boarding a warm bus to the center. At noon, we use transit to reach Luma, avoiding the outside cold. The afternoon is spent at the heated Antique Museum. Before the early darkness, we finish at Place de la République and catch a comfortable bus back.",
-            "fr": "Le matin nous voit à la gare sous une lumière d'hiver éclatante, montant dans un bus chaud vers le centre. À midi, nous utilisons les transports pour rejoindre Luma, évitant le froid extérieur. L'après-midi est passé au Musée de l'Arles antique, bien chauffé. Avant l'obscurité précoce, nous terminons à la Place de la République et reprenons un bus confortable."
+            "fr": "Le matin nous voyons la gare dans une lumière hivernale claire et montons dans un bus chauffé pour le centre. À midi, nous prenons les transports pour rejoindre Luma et éviter le froid extérieur. L’après-midi se passe au Musée Antique chauffé. Avant l’obscurité précoce, nous terminons à la Place de la République et prenons un bus confortable pour le retour."
           },
           "stops": [
             {
@@ -2669,7 +2754,7 @@
                 "hu": "A vasúti ügyfélszolgálat segít a téli menetrendváltozásoknál.",
                 "ro": "Serviciul gării vă ajută cu modificările de orar iarna.",
                 "en": "Station staff can assist with winter schedule changes.",
-                "fr": "Le personnel de la gare peut aider pour les changements d'horaires d'hiver."
+                "fr": "Le personnel de la gare peut aider pour les modifications d’horaires hivernaux."
               }
             },
             {
@@ -2689,7 +2774,7 @@
                 "hu": "Használja a 'Navette Star' buszt a közvetlen eljutáshoz.",
                 "ro": "Luați autobuzul 'Navette Star' pentru un drum direct.",
                 "en": "Take the 'Navette Star' shuttle for a direct connection.",
-                "fr": "Prenez la navette 'Navette Star' pour une connexion directe."
+                "fr": "Prenez la navette « Navette Star » pour une liaison directe."
               }
             },
             {
@@ -2699,7 +2784,7 @@
                 "hu": "A megálló várakozóhelye télen nagyon huzatos.",
                 "ro": "Zona de așteptare din stație e foarte expusă la vânt.",
                 "en": "The waiting area at the bus stop is very drafty in winter.",
-                "fr": "La zone d'attente à l'arrêt de bus est très exposée aux courants d'air en hiver."
+                "fr": "La zone d’attente à l’arrêt de bus est très traversante en hiver."
               }
             },
             {
@@ -2709,7 +2794,7 @@
                 "hu": "17:00 óra után a buszok gyakran erősebben fűtöttek.",
                 "ro": "După ora 17:00, autobuzele sunt adesea mai bine încălzite.",
                 "en": "Buses are often more heavily heated after 5:00 PM.",
-                "fr": "Les bus sont souvent plus chauffés après 17h00."
+                "fr": "Les bus sont souvent davantage chauffés après 17:00."
               }
             }
           ],
@@ -2743,11 +2828,11 @@
               "Buy a 10-ticket 'Carnet' to save money for the whole group."
             ],
             "fr": [
-              "Attention aux horaires réduits pendant les périodes de vacances.",
+              "Sachez que les horaires sont raccourcis pendant les périodes de fêtes.",
               "Les bus sont un excellent endroit pour se réchauffer entre deux visites.",
-              "Les navettes urbaines 'Navette' sont petites et très agiles.",
-              "Pendant le mistral, attendez le bus à l'intérieur des boutiques voisines.",
-              "Achetez un carnet de 10 tickets pour économiser de l'argent pour tout le groupe."
+              "Les navettes « Navette » de la ville sont petites et très agiles.",
+              "En cas de Mistral, attendez le bus à l’intérieur des boutiques voisines.",
+              "Achetez un carnet de 10 tickets pour faire des économies pour tout le groupe."
             ]
           }
         }

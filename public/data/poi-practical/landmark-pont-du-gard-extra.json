@@ -3,55 +3,64 @@
     "de": "400 Route du Pont du Gard, 30210 Vers-Pont-du-Gard",
     "hu": "400 Route du Pont du Gard, 30210 Vers-Pont-du-Gard",
     "ro": "400 Route du Pont du Gard, 30210 Vers-Pont-du-Gard",
-    "en": "400 Route du Pont du Gard, 30210 Vers-Pont-du-Gard"
+    "en": "400 Route du Pont du Gard, 30210 Vers-Pont-du-Gard",
+    "fr": "400 Route du Pont du Gard, 30210 Vers-Pont-du-Gard"
   },
   "openingHours": {
     "de": "Gelände täglich 08:00-00:00; Museum/Shop 09:00-18:00",
     "hu": "A terület naponta 08:00-00:00; Múzeum/bolt 09:00-18:00",
     "ro": "Terenul zilnic 08:00-00:00; Muzeu/magazin 09:00-18:00",
-    "en": "Site daily 08:00-00:00; museum/shop 09:00-18:00"
+    "en": "Site daily 08:00-00:00; museum/shop 09:00-18:00",
+    "fr": "Site tous les jours 08:00-00:00 ; musée/boutique 09:00-18:00"
   },
   "entranceFee": {
     "de": "€9.50 Erwachsene (inkl. Parken, Museum und Brückenzugang)",
     "hu": "9,50 € felnőtt (tartalmazza a parkolást, múzeumot és hídhozzáférést)",
     "ro": "9,50 € adulți (incl. parcare, muzeu și acces pe pod)",
-    "en": "€9.50 adults (incl. parking, museum, and bridge access)"
+    "en": "€9.50 adults (incl. parking, museum, and bridge access)",
+    "fr": "€9,50 adultes (incl. parking, musée et accès au pont)"
   },
   "website": "https://www.pontdugard.fr",
   "publicTransport": {
     "de": "Bus Linie 121 ab Nîmes oder Linie 115 ab Avignon",
     "hu": "121-es busz Nîmes-ből vagy 115-ös Avignonból",
     "ro": "Autobuz linia 121 din Nîmes sau linia 115 din Avignon",
-    "en": "Bus line 121 from Nîmes or line 115 from Avignon"
+    "en": "Bus line 121 from Nîmes or line 115 from Avignon",
+    "fr": "Ligne de bus 121 depuis Nîmes ou ligne 115 depuis Avignon"
   },
   "parking": {
     "de": "Große bewachte Parkplätze auf beiden Seiten (im Ticketpreis enthalten)",
     "hu": "Nagy őrzött parkolók mindkét oldalon (a jegyár tartalmazza)",
     "ro": "Parcări mari păzite pe ambele părți (incluse în prețul biletului)",
-    "en": "Large guarded parking lots on both sides (included in ticket price)"
+    "en": "Large guarded parking lots on both sides (included in ticket price)",
+    "fr": "Grands parkings gardés de chaque côté (inclus dans le prix du billet)"
   },
   "accessibility": {
     "de": "Hauptwege sind asphaltiert und barrierefrei; oberste Ebene nur via Treppe",
     "hu": "A főutak aszfaltozottak és akadálymentesek; a legfelső szint csak lépcsőn",
     "ro": "Căile principale sunt asfaltate și accesibile; nivelul superior doar pe scări",
-    "en": "Main paths are paved and accessible; top level via stairs only"
+    "en": "Main paths are paved and accessible; top level via stairs only",
+    "fr": "Les cheminements principaux sont pavés et accessibles ; niveau supérieur uniquement par escaliers"
   },
   "photoRules": {
     "de": "Erlaubt; abends oft illuminierte Lichtshow (Saison)",
     "hu": "Engedélyezett; este esténként gyakran fényjáték (szezonális)",
     "ro": "Permis; seara adesea spectacol de lumini (sezonier)",
-    "en": "Allowed; evenings often have illuminated light show (seasonal)"
+    "en": "Allowed; evenings often have illuminated light show (seasonal)",
+    "fr": "Autorisé ; soirées souvent agrémentées d'un spectacle lumineux (saisonnier)"
   },
   "bestTimeToVisit": {
     "de": "Am späten Nachmittag zum Baden im Fluss unter der Brücke",
     "hu": "Késő délután, úszáshoz a híd alatti folyóban",
     "ro": "După-amiaza târziu pentru înot în râul de sub pod",
-    "en": "Late afternoon for swimming in the river under the bridge"
+    "en": "Late afternoon for swimming in the river under the bridge",
+    "fr": "Fin d'après-midi pour se baigner dans la rivière sous le pont"
   },
   "audioGuide": {
     "de": "Smartphone-App verfügbar",
     "hu": "Okostelefonos alkalmazás elérhető",
     "ro": "Aplicație smartphone disponibilă",
-    "en": "Smartphone app available"
+    "en": "Smartphone app available",
+    "fr": "Application smartphone disponible"
   }
 }

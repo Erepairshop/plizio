@@ -21,7 +21,8 @@
             "de": "Place Masséna",
             "hu": "Place Masséna",
             "ro": "Piața Masséna",
-            "en": "Place Masséna"
+            "en": "Place Masséna",
+            "fr": "Place Masséna"
           },
           "coords": [
             7.2689,
@@ -37,7 +38,7 @@
             "hu": "Nézze meg a hét térdeplő szobrot, amelyek az éjszakai fényben is gyönyörűek.",
             "ro": "Admirați cele șapte statui suspendate care reprezintă continentele.",
             "en": "Check out the seven 'kneeling' statues representing the continents.",
-            "fr": "Admirez les sept statues « agenouillées » représentant les continents."
+            "fr": "Découvrez les sept statues « à genoux » représentant les continents."
           }
         },
         {
@@ -45,7 +46,8 @@
             "de": "Cours Saleya Markt",
             "hu": "Cours Saleya piac",
             "ro": "Piața Cours Saleya",
-            "en": "Cours Saleya Market"
+            "en": "Cours Saleya Market",
+            "fr": "Cours Saleya Market"
           },
           "coords": [
             7.2725,
@@ -61,7 +63,7 @@
             "hu": "Kóstolja meg a helyi palacsintát, a soccát frissen a standnál.",
             "ro": "Încercați celebra socca, o clătită din năut, servită caldă.",
             "en": "Try fresh Socca, the local chickpea pancake, straight from the stall.",
-            "fr": "Goûtez la Socca fraîche, la galette de pois chiche locale, directement au stand."
+            "fr": "Goûtez la Socca fraîche, la galette de pois chiches locale, directement au stand."
           }
         },
         {
@@ -69,7 +71,8 @@
             "de": "Kathedrale Sainte-Réparate",
             "hu": "Sainte-Réparate-székesegyház",
             "ro": "Catedrala Sainte-Réparate",
-            "en": "Sainte-Réparate Cathedral"
+            "en": "Sainte-Réparate Cathedral",
+            "fr": "Sainte-Réparate Cathedral"
           },
           "coords": [
             7.2755,
@@ -85,7 +88,7 @@
             "hu": "Csodálja meg a barokk belsőt és a szíves kupolát.",
             "ro": "Admirați interiorul baroc spectaculos și cupola cu plăci colorate.",
             "en": "Admire the baroque interior and the colorful tiled dome.",
-            "fr": "Admirez l'intérieur baroque et le dôme aux tuiles colorées."
+            "fr": "Admirez l’intérieur baroque et le dôme carrelé coloré."
           }
         },
         {
@@ -93,7 +96,8 @@
             "de": "Schlossberg (Colline du Château)",
             "hu": "Várhegy (Colline du Château)",
             "ro": "Dealul Castelului",
-            "en": "Castle Hill (Colline du Château)"
+            "en": "Castle Hill (Colline du Château)",
+            "fr": "Castle Hill (Colline du Château)"
           },
           "coords": [
             7.28,
@@ -117,7 +121,8 @@
             "de": "Mittagessen im Vieux Nice",
             "hu": "Ebéd az óvárosban",
             "ro": "Prânz în Orașul Vechi",
-            "en": "Lunch in Vieux Nice"
+            "en": "Lunch in Vieux Nice",
+            "fr": "Lunch in Vieux Nice"
           },
           "coords": [
             7.275,
@@ -133,7 +138,7 @@
             "hu": "Keressen kis bisztrókat a szűk utcákban a főútvonalakon kívül.",
             "ro": "Căutați bistrouri mici ascunse pe străduțele înguste.",
             "en": "Look for small bistros in the narrow alleys for authentic food.",
-            "fr": "Cherchez les petits bistros dans les ruelles étroites pour une cuisine authentique."
+            "fr": "Cherchez de petits bistrots dans les ruelles étroites pour une cuisine authentique."
           }
         },
         {
@@ -141,7 +146,8 @@
             "de": "Promenade des Anglais",
             "hu": "Promenade des Anglais",
             "ro": "Promenade des Anglais",
-            "en": "Promenade des Anglais"
+            "en": "Promenade des Anglais",
+            "fr": "Promenade des Anglais"
           },
           "coords": [
             7.26,
@@ -157,7 +163,7 @@
             "hu": "Üljön le a híres kék székekre és élvezze a tenger látványát.",
             "ro": "Relaxați-vă pe celebrele scaune albastre în fața Mediteranei.",
             "en": "Sit on the iconic blue chairs and enjoy the Mediterranean breeze.",
-            "fr": "Asseyez-vous sur les emblématiques chaises bleues et profitez de la brise méditerranéenne."
+            "fr": "Asseyez-vous sur les chaises bleues emblématiques et profitez de la brise méditerranéenne."
           }
         },
         {
@@ -165,7 +171,8 @@
             "de": "Musée Masséna",
             "hu": "Masséna Múzeum",
             "ro": "Muzeul Masséna",
-            "en": "Musée Masséna"
+            "en": "Musée Masséna",
+            "fr": "Musée Masséna"
           },
           "coords": [
             7.258,
@@ -181,7 +188,7 @@
             "hu": "Ismerje meg Nizza történelmét ebben a pompás villában.",
             "ro": "Descoperiți istoria orașului Nisa în această vilă Belle Époque.",
             "en": "Explore Nice's history inside this magnificent Belle Époque villa.",
-            "fr": "Explorez l'histoire de Nice à l'intérieur de cette magnifique villa Belle Époque."
+            "fr": "Explorez l’histoire de Nice à l’intérieur de cette magnifique villa Belle Époque."
           }
         },
         {
@@ -189,7 +196,8 @@
             "de": "Quai des États-Unis (Sonnenuntergang)",
             "hu": "Quai des États-Unis (Naplemente)",
             "ro": "Quai des États-Unis (Apus)",
-            "en": "Quai des États-Unis (Sunset)"
+            "en": "Quai des États-Unis (Sunset)",
+            "fr": "Quai des États-Unis (Sunset)"
           },
           "coords": [
             7.276,
@@ -205,7 +213,7 @@
             "hu": "Tökéletes hely a nap lezárásához egy pohár rozé mellett.",
             "ro": "Locul ideal pentru a încheia ziua cu un pahar de rosé local.",
             "en": "The ideal spot to end your day with a glass of local rosé.",
-            "fr": "L'endroit idéal pour terminer votre journée avec un verre de rosé local."
+            "fr": "L’endroit idéal pour terminer la journée avec un verre de rosé local."
           }
         }
       ],
@@ -214,7 +222,7 @@
         "hu": "Kezdje a napot az elegáns Place Masséna téren, Nizza lüktető szívében. Egy rövid séta elvezeti a színes Cours Saleya piacra, ahol friss virágok és provence-i fűszerek illata tölti be a levegőt.\n\nDélben merüljön el az óváros (Vieux Nice) szűk utcáiban. Fedezze fel a barokk kincseket, mint a Sainte-Réparate-székesegyházat, majd másszon fel a Várhegyre a panorámáért.\n\nDélután a világhírű Promenade des Anglais várja. Sétáljon az azúrkék tenger mentén, és látogasson el a Masséna Múzeumba, hogy átélje a Belle Époque korszak fényűzését.\n\nBefejezésül élvezze a naplementét a Quai des États-Unis partján. A vízben tükröződő arany fények tökéletes hátteret biztosítanak egy tipikus nizzai vacsorához.",
         "ro": "Începeți ziua în eleganta Piață Masséna, inima vibrantă a Nisei. O scurtă plimbare vă duce la colorata piață Cours Saleya, unde parfumul florilor proaspete și al condimentelor provensale umple aerul.\n\nLa prânz, pierdeți-vă pe străduțele înguste din Orașul Vechi. Descoperiți comori baroce precum Catedrala Sainte-Réparate, apoi urcați pe Dealul Castelului pentru o vedere panoramică asupra Golfului Îngerilor.\n\nDupă-amiaza aparține celebrei Promenade des Anglais. Flanați de-a lungul mării de azur și vizitați Muzeul Masséna pentru a retrăi strălucirea epocii Belle Époque.\n\nLa final, bucurați-vă de apusul soarelui pe Quai des États-Unis. Luminile aurii care se reflectă în apă oferă cadrul perfect pentru o cină tipică niseană.",
         "en": "Start your day at the elegant Place Masséna, the beating heart of Nice. A short walk leads you to the colorful Cours Saleya market, where the scent of fresh flowers and Provençal spices fills the air.\n\nAt midday, dive into the narrow streets of Vieux Nice. Discover baroque treasures like the Sainte-Réparate Cathedral, then climb Castle Hill for a breathtaking view of the Baie des Anges.\n\nAfternoon is for the world-famous Promenade des Anglais. Stroll along the azure sea and visit the Musée Masséna to experience the glamour of the Belle Époque era.\n\nTo wrap up, enjoy the sunset at Quai des États-Unis. The golden lights reflecting in the water provide the perfect backdrop for a typical Niçoise dinner.",
-        "fr": "Commencez votre journée à l'élégante Place Masséna, le cœur battant de Nice. Une courte promenade vous mène au marché coloré du Cours Saleya, où les parfums de fleurs fraîches et d'épices provençales embaument l'air.\n\nÀ la mi-journée, plongez dans les ruelles étroites du Vieux Nice. Découvrez des trésors baroques comme la Cathédrale Sainte-Réparate, puis montez à la Colline du Château pour une vue imprenable sur la Baie des Anges.\n\nL'après-midi est consacré à la célèbre Promenade des Anglais. Flânez le long de la mer azur et visitez le Musée Masséna pour revivre le glamour de la Belle Époque.\n\nPour finir, profitez du coucher de soleil au Quai des États-Unis. Les lumières dorées se reflétant dans l'eau offrent le cadre parfait pour un dîner niçois typique."
+        "fr": "Commencez votre journée à l’élégante Place Masséna, le cœur battant de Nice. Une courte promenade vous mène au coloré marché du Cours Saleya, où l’odeur des fleurs fraîches et des épices provençales emplit l’air.\n\nÀ midi, plongez dans les ruelles de Vieux Nice. Découvrez des trésors baroques comme la cathédrale Sainte-Réparate, puis montez à la Colline du Château pour une vue imprenable sur la Baie des Anges.\n\nL’après-midi est consacré à la célèbre Promenade des Anglais. Promenez-vous le long de la mer azur et visitez le Musée Masséna pour ressentir le glamour de la Belle Époque.\n\nPour conclure, profitez du coucher du soleil au Quai des États-Unis. Les lumières dorées se reflétant dans l’eau offrent le décor parfait pour un dîner typiquement niçois."
       },
       "gastro_picks": {
         "de": [
@@ -408,10 +416,10 @@
           "Watch out for pickpockets in crowded market areas."
         ],
         "fr": [
-          "Des chaussures confortables sont essentielles pour les pavés du Vieux Nice.",
-          "Utilisez l'ascenseur de la Colline du Château si vous voulez éviter les escaliers.",
-          "Restez hydraté, surtout lors des marches estivales sur la Promenade.",
-          "Attention aux pickpockets dans les zones de marché bondées."
+          "Des chaussures confortables sont essentielles pour les pavés de Vieux Nice.",
+          "Utilisez l’ascenseur de la Colline du Château si vous voulez éviter les escaliers.",
+          "Restez hydraté, surtout lors des promenades estivales sur la Promenade.",
+          "Faites attention aux pickpockets dans les zones de marché fréquentées."
         ]
       },
       "variants": {
@@ -421,7 +429,7 @@
             "hu": "Reggel: Kezdje a Place Masséna árkádjai alatt, hogy szárazon maradva csodálhassa meg a szökőkutakat. Délben: Merüljön el az Óváros szűk utcáiban és látogassa meg a Cours Saleya piacot. Délután: Keressen menedéket a katedrálisban, majd vegye igénybe a várliftet a kilátásért. Este: Zárja a napot egy szeles sétával a Promenade des Anglais partján, esernyővel felszerelkezve.",
             "ro": "Dimineața: Începeți sub arcadele din Place Masséna pentru a rămâne uscați în timp ce admirați statuile. La prânz: Intrați pe străzile înguste din Vieux Nice și vizitați piața Cours Saleya. După-amiaza: Adăpostiți-vă în Catedrala Sainte-Réparate și folosiți liftul pentru a urca pe Dealul Castelului. Seara: Încheiați ziua cu o plimbare vântoasă pe faleză, protejați de o umbrelă solidă.",
             "en": "Morning: Start under the arcades of Place Masséna to stay dry while admiring the iconic statues. Noon: Deep dive into the narrow alleys of Vieux Nice and browse the covered stalls of Cours Saleya. Afternoon: Seek shelter in the Sainte-Réparate Cathedral, then take the elevator up Castle Hill. Evening: End the day with a brisk walk on the Promenade des Anglais, braving the sea wind.",
-            "fr": "Matin : Commencez sous les arcades de la Place Masséna pour rester au sec tout en admirant les statues emblématiques. Midi : Plongez dans les ruelles du Vieux Nice et parcourez les étals couverts du Cours Saleya. Après-midi : Réfugiez-vous dans la Cathédrale Sainte-Réparate, puis prenez l'ascenseur jusqu'à la Colline du Château. Soirée : Terminez la journée par une marche dynamique sur la Promenade des Anglais, en bravant le vent marin."
+            "fr": "Matin : Commencez sous les arcades de la Place Masséna pour rester au sec tout en admirant les statues emblématiques. Midi : Plongez dans les ruelles de Vieux Nice et parcourez les étals couverts du Cours Saleya. Après-midi : Cherchez refuge dans la cathédrale Sainte-Réparate, puis prenez l’ascenseur jusqu’à la Colline du Château. Soir : Terminez la journée par une marche tonique sur la Promenade des Anglais, en affrontant la brise marine."
           },
           "stops": [
             {
@@ -441,7 +449,7 @@
                 "hu": "Vigyázzon a csúszós macskaköveken.",
                 "ro": "Atenție la pavajul alunecos din piatră cubică.",
                 "en": "Be careful on the slippery cobblestone streets.",
-                "fr": "Soyez prudent sur les rues pavées glissantes."
+                "fr": "Faites attention aux rues pavées glissantes."
               }
             },
             {
@@ -451,7 +459,7 @@
                 "hu": "Keressen menedéket a kávézók napellenzői alatt.",
                 "ro": "Căutați adăpost sub copertinele cafenelelor.",
                 "en": "Find shelter under the large cafe awnings.",
-                "fr": "Trouvez refuge sous les grands stores des cafés."
+                "fr": "Trouvez un abri sous les grandes toiles des cafés."
               }
             },
             {
@@ -471,7 +479,7 @@
                 "hu": "Használja a liftet a vizes lépcsők helyett.",
                 "ro": "Folosiți liftul în locul scărilor ude.",
                 "en": "Take the elevator instead of the wet stairs.",
-                "fr": "Prenez l'ascenseur au lieu des escaliers mouillés."
+                "fr": "Prenez l’ascenseur plutôt que les escaliers mouillés."
               }
             },
             {
@@ -481,7 +489,7 @@
                 "hu": "Erős szélben fogja szorosan az esernyőjét.",
                 "ro": "Țineți umbrela strâns în cazul vântului puternic.",
                 "en": "Hold your umbrella firmly against the sea breeze.",
-                "fr": "Tenez fermement votre parapluie face à la brise marine."
+                "fr": "Tenez fermement votre parapluie contre la brise marine."
               }
             }
           ],
@@ -515,11 +523,11 @@
               "The Promenade can be closed during heavy storms; check for local warnings."
             ],
             "fr": [
-              "Les arcades de la Place Masséna offrent un abri parfait lors des averses soudaines.",
-              "Portez des chaussures avec une bonne adhérence, car les sols en calcaire de la vieille ville deviennent très glissants.",
-              "L'ascenseur du Château est le meilleur moyen de monter sous la pluie.",
-              "De nombreux cafés du Vieux Nice proposent des terrasses chauffées sous des stores robustes.",
-              "La Promenade peut être fermée lors de tempêtes violentes ; vérifiez les alertes locales."
+              "Les arcades de la Place Masséna offrent un abri parfait lors d’averses soudaines.",
+              "Portez des chaussures antidérapantes car les sols en calcaire de la vieille ville deviennent très glissants.",
+              "L’ascenseur de la Colline du Château (Ascenseur du Château) est le meilleur moyen de monter sous la pluie.",
+              "De nombreux cafés de Vieux Nice proposent des espaces extérieurs chauffés sous de solides auvents.",
+              "La Promenade peut être fermée pendant de fortes tempêtes ; vérifiez les avis locaux."
             ]
           }
         },
@@ -529,7 +537,7 @@
             "hu": "Reggel: Élvezze az enyhe téli napsütést a Place Masséna téren. Délben: Fedezze fel az Óvárost és kóstoljon forró soccát a piacon. Délután: Látogasson el a katedrálisba, majd nézze meg a korai naplementét a Várhegyről. Este: Sétáljon a kivilágított Promenade des Anglais mentén.",
             "ro": "Dimineața: Bucurați-vă de soarele blând de iarnă în Place Masséna. La prânz: Explorați orașul vechi și gustați Socca fierbinte în piață. După-amiaza: Vizitați catedrala și admirați apusul devreme de pe Dealul Castelului. Seara: Plimbați-vă pe faleza iluminată festiv.",
             "en": "Morning: Enjoy the mild winter sun on the bright red buildings of Place Masséna. Noon: Wander through the Old Town and try hot Socca at the market. Afternoon: Visit the Cathedral and catch the early sunset from the top of Castle Hill. Evening: Take a peaceful stroll along the beautifully lit Promenade des Anglais.",
-            "fr": "Matin : Profitez du doux soleil d'hiver sur les bâtiments rouge vif de la Place Masséna. Midi : Flânez dans la Vieille Ville et goûtez une Socca chaude au marché. Après-midi : Visitez la Cathédrale et admirez le coucher de soleil précoce depuis le sommet de la Colline du Château. Soirée : Promenez-vous paisiblement le long de la Promenade des Anglais magnifiquement illuminée."
+            "fr": "Matin : Profitez du doux soleil d’hiver sur les façades rouge vif de la Place Masséna. Midi : Flânez dans la vieille ville et goûtez la Socca chaude au marché. Après-midi : Visitez la cathédrale et admirez le coucher de soleil anticipé depuis le sommet de la Colline du Château. Soir : Promenez-vous paisiblement le long de la Promenade des Anglais joliment illuminée."
           },
           "stops": [
             {
@@ -539,7 +547,7 @@
                 "hu": "A téli napfény ragyogóvá teszi a vörös homlokzatokat.",
                 "ro": "Soarele de iarnă face fațadele roșii să strălucească.",
                 "en": "The winter sun makes the red facades glow beautifully.",
-                "fr": "Le soleil d'hiver fait magnifiquement briller les façades rouges."
+                "fr": "Le soleil d’hiver fait magnifiquement rayonner les façades rouges."
               }
             },
             {
@@ -549,7 +557,7 @@
                 "hu": "A szűk utcákban gyakran melegebb van, mint a parton.",
                 "ro": "Pe străzile înguste este adesea mai cald decât la mare.",
                 "en": "It is often warmer in the narrow alleys than by the sea.",
-                "fr": "Il fait souvent plus chaud dans les ruelles étroites qu'au bord de la mer."
+                "fr": "Il fait souvent plus chaud dans les ruelles étroites que près de la mer."
               }
             },
             {
@@ -559,7 +567,7 @@
                 "hu": "Kóstolja meg a szezonális kandírozott gyümölcsöket.",
                 "ro": "Gustați fructele confiate, specifice sezonului de iarnă.",
                 "en": "Try seasonal winter treats like candied fruits.",
-                "fr": "Goûtez aux friandises hivernales saisonnières comme les fruits confits."
+                "fr": "Goûtez aux gourmandises hivernales de saison comme les fruits confits."
               }
             },
             {
@@ -569,7 +577,7 @@
                 "hu": "Csodálja meg a barokk építészetet a téli nyugalomban.",
                 "ro": "Admirați arhitectura barocă în liniștea iernii.",
                 "en": "Admire the Baroque architecture in the winter quiet.",
-                "fr": "Admirez l'architecture baroque dans le calme de l'hiver."
+                "fr": "Admirez l’architecture baroque dans le calme hivernal."
               }
             },
             {
@@ -579,7 +587,7 @@
                 "hu": "Télen a naplemente már 17:00 óra körül bekövetkezik.",
                 "ro": "Apusul de soare are loc deja în jurul orei 17:00.",
                 "en": "Sunset occurs as early as 5:00 PM in the winter.",
-                "fr": "Le coucher de soleil a lieu dès 17h00 en hiver."
+                "fr": "Le coucher du soleil peut survenir dès 17:00 en hiver."
               }
             },
             {
@@ -589,7 +597,7 @@
                 "hu": "A tengeri levegő frissítő, öltözzön fel rétegesen.",
                 "ro": "Aerul mării este revigorant; îmbrăcați-vă gros.",
                 "en": "The sea air is crisp and refreshing; dress in layers.",
-                "fr": "L'air marin est vif et rafraîchissant ; habillez-vous avec plusieurs couches."
+                "fr": "L’air marin est vif et rafraîchissant ; habillez-vous en couches."
               }
             }
           ],
@@ -623,11 +631,11 @@
               "Check opening hours as many sites close earlier during the winter season."
             ],
             "fr": [
-              "Le soleil se couche vers 17h00, prévoyez donc votre visite du Château en fin d'après-midi.",
-              "En décembre, ne manquez pas le charmant marché de Noël sur la Place Masséna.",
-              "Attendez-vous à des températures douces (8-15°C), mais prévoyez un vêtement contre la brise marine fraîche.",
-              "L'hiver offre les vues les plus claires sur les Alpes enneigées au loin.",
-              "Vérifiez les horaires d'ouverture, car de nombreux sites ferment plus tôt pendant la saison hivernale."
+              "Le coucher du soleil est vers 17:00, planifiez votre visite de la Colline du Château en fin d’après-midi.",
+              "En décembre, repérez le charmant marché de Noël sur la Place Masséna.",
+              "Attendez-vous à des températures douces (8-15°C), mais prévoyez une brise marine fraîche.",
+              "L’hiver offre les vues les plus nettes sur les Alpes enneigées au loin.",
+              "Vérifiez les horaires d’ouverture car de nombreux sites ferment plus tôt en saison hivernale."
             ]
           }
         }
@@ -646,7 +654,8 @@
             "de": "Hafen von Nizza",
             "hu": "Nizzai kikötő",
             "ro": "Portul Nisa",
-            "en": "Port of Nice"
+            "en": "Port of Nice",
+            "fr": "Port of Nice"
           },
           "coords": [
             7.285,
@@ -670,7 +679,8 @@
             "de": "Promenade des Anglais (Bike path)",
             "hu": "Promenade des Anglais kerékpárút",
             "ro": "Pista de biciclete Promenade",
-            "en": "Promenade des Anglais Cycle Path"
+            "en": "Promenade des Anglais Cycle Path",
+            "fr": "Promenade des Anglais Cycle Path"
           },
           "coords": [
             7.24,
@@ -686,7 +696,7 @@
             "hu": "Élvezze a tekerést közvetlenül a tenger mellett.",
             "ro": "Bucurați-vă de drumul direct pe malul mării.",
             "en": "Enjoy the smooth ride right along the sea.",
-            "fr": "Profitez d'un trajet fluide juste au bord de la mer."
+            "fr": "Profitez d’une balade fluide le long de la mer."
           }
         },
         {
@@ -694,7 +704,8 @@
             "de": "Phoenix Park",
             "hu": "Parc Phoenix",
             "ro": "Parcul Phoenix",
-            "en": "Phoenix Park"
+            "en": "Phoenix Park",
+            "fr": "Phoenix Park"
           },
           "coords": [
             7.218,
@@ -710,7 +721,7 @@
             "hu": "Látogassa meg a hatalmas üvegházat.",
             "ro": "Vizitați sera gigantică cu plante exotice.",
             "en": "Visit the giant greenhouse with exotic plants.",
-            "fr": "Visitez la serre géante avec des plantes exotiques."
+            "fr": "Visitez la grande serre aux plantes exotiques."
           }
         },
         {
@@ -718,7 +729,8 @@
             "de": "Mittagessen am Meer",
             "hu": "Ebéd a tengerparton",
             "ro": "Prânz la malul mării",
-            "en": "Beachside Lunch"
+            "en": "Beachside Lunch",
+            "fr": "Beachside Lunch"
           },
           "coords": [
             7.245,
@@ -734,7 +746,7 @@
             "hu": "Friss halétel kilátással a tengerre.",
             "ro": "Pește proaspăt cu vedere la valuri.",
             "en": "Fresh seafood with a view of the surf.",
-            "fr": "Des fruits de mer frais avec vue sur les vagues."
+            "fr": "Fruits de mer frais avec vue sur les vagues."
           }
         },
         {
@@ -742,7 +754,8 @@
             "de": "Musée Marc Chagall",
             "hu": "Marc Chagall Múzeum",
             "ro": "Muzeul Marc Chagall",
-            "en": "Marc Chagall Museum"
+            "en": "Marc Chagall Museum",
+            "fr": "Marc Chagall Museum"
           },
           "coords": [
             7.27,
@@ -758,7 +771,7 @@
             "hu": "Pompás mozaikok és bibliai ciklusok.",
             "ro": "Mozaicuri superbe și teme biblice.",
             "en": "Stunning mosaics and biblical themes.",
-            "fr": "Superbes mosaïques et thèmes bibliques."
+            "fr": "Mosaïques saisissantes et thèmes bibliques."
           }
         }
       ],
@@ -767,7 +780,7 @@
         "hu": "Nizza felfedezése kerékpárral igazi élmény. Tekerjen végig a Promenade des Anglais teljes hosszában, és érezze a tengeri szellőt. Egy kitérő a Parc Phoenix-be természetközeli élményt nyújt.\n\nDélután tekerjen fel a Marc Chagall Múzeumhoz. Az útvonal bepillantást enged Nizza csendesebb lakónegyedeibe, mielőtt a napot a kikötőben, a halászhajók között zárná.",
         "ro": "Explorarea Nisei cu bicicleta este o plăcere. Pedalați pe toată lungimea Promenadei des Anglais și simțiți briza mării. O oprire în Parcul Phoenix oferă natură pură înainte de întoarcerea în centru.\n\nDupă-amiaza, pedalați spre Muzeul Marc Chagall. Traseul oferă o perspectivă asupra cartierelor rezidențiale liniștite, înainte de a încheia ziua în port, printre bărcile de pescuit.",
         "en": "Exploring Nice by bike is a treat. Ride the full length of the Promenade des Anglais and feel the sea breeze. A detour to Phoenix Park offers pure nature before heading back to the city center.\n\nIn the afternoon, cycle up to the Marc Chagall Museum. The route gives you a glimpse into Nice's quieter residential neighborhoods before ending your day at the harbor among the fishing boats.",
-        "fr": "Explorer Nice à vélo est un régal. Parcourez toute la longueur de la Promenade des Anglais et ressentez la brise marine. Un détour par le Parc Phoenix offre une parenthèse de nature avant de retourner vers le centre-ville.\n\nL'après-midi, pédalez jusqu'au Musée Marc Chagall. L'itinéraire vous donne un aperçu des quartiers résidentiels plus calmes de Nice avant de terminer votre journée au port parmi les bateaux de pêche."
+        "fr": "Explorer Nice à vélo est un plaisir. Parcourez tout le long de la Promenade des Anglais et sentez la brise marine. Un détour par le Parc Phoenix offre une immersion dans la nature avant de retourner au centre-ville.\n\nL'après‑midi, grimpez jusqu'au Musée Marc Chagall. L'itinéraire vous fait découvrir les quartiers résidentiels plus calmes de Nice avant de terminer la journée au port parmi les bateaux de pêche."
       },
       "gastro_picks": {
         "de": [
@@ -899,7 +912,7 @@
           "Restez sur les pistes cyclables balisées.",
           "Faites attention aux piétons sur la Promenade.",
           "Le port du casque est recommandé.",
-          "Attachez toujours votre vélo solidement."
+          "Verrouillez toujours votre vélo solidement."
         ]
       },
       "variants": {
@@ -909,7 +922,7 @@
             "hu": "Reggel: Kerékpározzon óvatosan a Promenade mentén. Délben: Tartson szünetet a Port Lympia kikötőben egy kávézóban. Délután: Fedezze fel a Mont Boron parkot a hűvösebb időben. Este: Térjen vissza a Place Garibaldihoz és használja az árkádok védelmét.",
             "ro": "Dimineața: Pedalați cu atenție pe faleză. La prânz: Luați o pauză în Port Lympia și căutați o cafenea. După-amiaza: Explorați Parcul Mont Boron în aerul răcoros. Seara: Reveniți în Place Garibaldi și folosiți protecția arcadelor.",
             "en": "Morning: Cycle carefully along the Promenade des Anglais. Noon: Take a break at Port Lympia and find a cozy harbor-side cafe. Afternoon: Explore Mont Boron Park in the fresh, rainy air. Evening: Return to Place Garibaldi and park under the protective porticos.",
-            "fr": "Matin : Pédalez prudemment le long de la Promenade des Anglais. Midi : Faites une pause au Port Lympia et trouvez un café confortable au bord de l'eau. Après-midi : Explorez le parc du Mont Boron dans l'air frais et pluvieux. Soirée : Retournez à la Place Garibaldi et garez-vous sous les portiques protecteurs."
+            "fr": "Matin : Roulez prudemment le long de la Promenade des Anglais. Midi : Faites une pause à Port Lympia et trouvez un café agréable au bord du port. Après‑midi : Explorez le parc du Mont Boron dans l'air frais et pluvieux. Soir : Retournez à la Place Garibaldi et garez‑vous sous les portiques protecteurs."
           },
           "stops": [
             {
@@ -919,7 +932,7 @@
                 "hu": "Kerülje a fehér útburkolati jeleket, mert csúsznak.",
                 "ro": "Evitați marcajele albe de pe asfalt, sunt foarte alunecoase.",
                 "en": "Avoid riding on the white floor markings; they get slippery.",
-                "fr": "Évitez de rouler sur les marquages au sol blancs ; ils deviennent glissants."
+                "fr": "Évitez de rouler sur les marquages blancs au sol ; ils deviennent glissants."
               }
             },
             {
@@ -929,7 +942,7 @@
                 "hu": "Ügyeljen a vizes fapadlókra a kikötő mellett.",
                 "ro": "Atenție la pontoanele de lemn ude din port.",
                 "en": "Watch out for wet wooden boardwalks around the harbor.",
-                "fr": "Attention aux pontons en bois mouillés autour du port."
+                "fr": "Faites attention aux planches en bois mouillées autour du port."
               }
             },
             {
@@ -993,10 +1006,10 @@
               "The coastal road to Villefranche requires extra caution on wet bends."
             ],
             "fr": [
-              "Les pistes cyclables à Nice deviennent très glissantes lorsqu'elles sont mouillées, surtout les lignes peintes.",
-              "Apportez une petite serviette pour sécher la selle de votre vélo de location.",
-              "Évitez les montées raides vers le Mont Boron si la visibilité est faible à cause de la pluie.",
-              "Portez un équipement imperméable haute visibilité pour rester en sécurité dans le trafic.",
+              "Les pistes cyclables à Nice deviennent très glissantes quand elles sont mouillées, surtout les lignes peintes.",
+              "Apportez une petite serviette pour sécher la selle du vélo de location.",
+              "Évitez les montées raides vers Mont Boron si la visibilité est réduite par la pluie.",
+              "Portez des vêtements imperméables haute visibilité pour rester en sécurité dans la circulation.",
               "La route côtière vers Villefranche nécessite une prudence accrue dans les virages mouillés."
             ]
           }
@@ -1007,7 +1020,7 @@
             "hu": "Reggel: Kerékpározzon a tiszta téli levegőben a tengerparton. Délben: Élvezze a napsütést a Port Lympia kikötőben. Délután: Használja ki a jó fényeket fotózáshoz a Mont Boron parkban. Este: Egy rövid megálló Villefranche-ban, mielőtt sötétben visszatérne.",
             "ro": "Dimineața: Pedalați în aerul curat de iarnă de-a lungul mării. La prânz: Bucurați-vă de soare în Port Lympia. După-amiaza: Folosiți lumina bună pentru fotografii în Parcul Mont Boron. Seara: O scurtă oprire în Villefranche înainte de întoarcerea pe întuneric.",
             "en": "Morning: Cycle along the coast in the crisp, refreshing winter air. Noon: Soak up the sun at the colorful Port Lympia harbor. Afternoon: Take advantage of the clear winter light for photos in Mont Boron Park. Evening: A quick stop in Villefranche before heading back as dusk falls.",
-            "fr": "Matin : Pédalez le long de la côte dans l'air hivernal vif et revigorant. Midi : Profitez du soleil sur le port coloré de Lympia. Après-midi : Profitez de la lumière claire de l'hiver pour prendre des photos dans le parc du Mont Boron. Soirée : Un arrêt rapide à Villefranche avant de rentrer à la tombée de la nuit."
+            "fr": "Matin : Roulez le long de la côte dans l'air vif et rafraîchissant de l'hiver. Midi : Profitez du soleil au coloré port Lympia. Après‑midi : Profitez de la lumière claire de l'hiver pour des photos au parc du Mont Boron. Soir : Une halte rapide à Villefranche avant de revenir à la tombée du jour."
           },
           "stops": [
             {
@@ -1017,7 +1030,7 @@
                 "hu": "A hűvös tengeri szél miatt viseljen szélálló ruhát.",
                 "ro": "Vântul rece al mării necesită haine rezistente la vânt.",
                 "en": "The cool sea breeze requires windproof clothing.",
-                "fr": "La brise marine fraîche nécessite des vêtements coupe-vent."
+                "fr": "La fraîche brise marine nécessite des vêtements coupe‑vent."
               }
             },
             {
@@ -1037,7 +1050,7 @@
                 "hu": "Ilyenkor a legjobb a kilátás a havas Alpokra.",
                 "ro": "Cea mai bună vizibilitate asupra Alpilor înzăpeziți.",
                 "en": "Best views of the snow-capped Alps in the distance.",
-                "fr": "Les meilleures vues sur les Alpes enneigées au loin."
+                "fr": "Meilleurs panoramas sur les Alpes enneigées au loin."
               }
             },
             {
@@ -1047,7 +1060,7 @@
                 "hu": "A kisebb forgalom miatt a tengerparti út biztonságosabb.",
                 "ro": "Traficul redus face drumul de coastă mai sigur.",
                 "en": "Less traffic makes the coastal road much safer for bikes.",
-                "fr": "Moins de trafic rend la route côtière beaucoup plus sûre pour les vélos."
+                "fr": "Le trafic réduit rend la route côtière bien plus sûre pour les vélos."
               }
             },
             {
@@ -1057,7 +1070,7 @@
                 "hu": "Keressen egy napsütötte helyet a téren.",
                 "ro": "Căutați un loc însorit în piață.",
                 "en": "Find a sun-drenched spot in the square for a break.",
-                "fr": "Trouvez un endroit ensoleillé sur la place pour une pause."
+                "fr": "Trouvez un coin ensoleillé sur la place pour faire une pause."
               }
             }
           ],
@@ -1091,11 +1104,11 @@
               "There are significantly fewer tourists on the cycle paths in winter."
             ],
             "fr": [
-              "L'air hivernal est très pur, ce qui est parfait pour les vues panoramiques lointaines.",
-              "Portez des gants, car la brise marine peut être très froide à vélo.",
-              "Le soleil se couche tôt (vers 17h), assurez-vous que vos éclairages fonctionnent.",
-              "Grimper vous réchauffera ; utilisez des couches de vêtements faciles à enlever.",
-              "Il y a nettement moins de touristes sur les pistes cyclables en hiver."
+              "L'air d'hiver est très pur, idéal pour des vues panoramiques lointaines.",
+              "Portez des gants, car la brise marine peut sembler très froide en pédalant.",
+              "Le coucher du soleil est tôt (vers 17 h), vérifiez donc le bon fonctionnement de vos feux de vélo.",
+              "La montée vous réchauffera ; utilisez des couches faciles à enlever ou ajouter.",
+              "Il y a beaucoup moins de touristes sur les pistes cyclables en hiver."
             ]
           }
         }
@@ -1114,7 +1127,8 @@
             "de": "Place Masséna (Parken)",
             "hu": "Place Masséna (Parkoló)",
             "ro": "Piața Masséna (Parcare)",
-            "en": "Place Masséna (Parking)"
+            "en": "Place Masséna (Parking)",
+            "fr": "Place Masséna (Parking)"
           },
           "coords": [
             7.2689,
@@ -1130,7 +1144,7 @@
             "hu": "Használja a tér alatti parkolóházat.",
             "ro": "Folosiți parcarea subterană din piață.",
             "en": "Use the underground parking lot at the square.",
-            "fr": "Utilisez le parking souterrain sous la place."
+            "fr": "Utilisez le parking souterrain de la place."
           }
         },
         {
@@ -1138,7 +1152,8 @@
             "de": "Vieux Nice & Markt",
             "hu": "Óváros és piac",
             "ro": "Orașul Vechi și Piața",
-            "en": "Vieux Nice & Market"
+            "en": "Vieux Nice & Market",
+            "fr": "Vieux Nice & Marché"
           },
           "coords": [
             7.275,
@@ -1162,7 +1177,8 @@
             "de": "Cimiez Viertel",
             "hu": "Cimiez negyed",
             "ro": "Cartierul Cimiez",
-            "en": "Cimiez District"
+            "en": "Cimiez District",
+            "fr": "Quartier de Cimiez"
           },
           "coords": [
             7.276,
@@ -1186,7 +1202,8 @@
             "de": "Matisse Museum",
             "hu": "Matisse Múzeum",
             "ro": "Muzeul Matisse",
-            "en": "Matisse Museum"
+            "en": "Matisse Museum",
+            "fr": "Musée Matisse"
           },
           "coords": [
             7.2765,
@@ -1202,7 +1219,7 @@
             "hu": "Hagyja az autót a romok közelében.",
             "ro": "Lăsați mașina parcată lângă ruine.",
             "en": "Keep the car parked near the ruins.",
-            "fr": "Gardez la voiture garée près des ruines."
+            "fr": "Laissez la voiture près des ruines."
           }
         },
         {
@@ -1210,7 +1227,8 @@
             "de": "Villefranche-sur-Mer",
             "hu": "Villefranche-sur-Mer",
             "ro": "Villefranche-sur-Mer",
-            "en": "Villefranche-sur-Mer"
+            "en": "Villefranche-sur-Mer",
+            "fr": "Villefranche‑sur‑Mer"
           },
           "coords": [
             7.311,
@@ -1226,7 +1244,7 @@
             "hu": "Gyönyörű halászfalu közvetlenül Nizza mellett.",
             "ro": "Sat pescăresc superb chiar lângă Nisa.",
             "en": "Beautiful fishing village right next to Nice.",
-            "fr": "Magnifique village de pêcheurs juste à côté de Nice."
+            "fr": "Charmant village de pêcheurs juste à côté de Nice."
           }
         }
       ],
@@ -1235,7 +1253,7 @@
         "hu": "Autóval könnyedén elérheti Nizza magasabban fekvő kincseit. Kezdjen a központban, majd hajtson fel az arisztokratikus Cimiez-dombra, hogy átélje a római történelmet és Matisse művészetét.\n\nDélután a városon kívülre, a Basse Corniche mentén a festői Villefranche-sur-Merbe látogatunk. Az út során látványos kilátás nyílik a Földközi-tengerre.",
         "ro": "Cu mașina puteți ajunge fără efort la punctele înalte ale Nisei. Începeți în centru, apoi urcați pe dealul aristocrat Cimiez pentru istoria romană și arta lui Matisse.\n\nDupă-amiaza vă scoate din oraș pe Basse Corniche către pitorescul Villefranche-sur-Mer. Drumul oferă vederi spectaculoase asupra Mediteranei.",
         "en": "By car, you can effortlessly reach Nice's hilltop treasures. Start in the center before driving up to the aristocratic Cimiez hill to experience Roman history and the art of Matisse.\n\nAfternoon takes you out of the city along the Basse Corniche to picturesque Villefranche-sur-Mer. The drive offers spectacular Mediterranean views that are hard to reach on foot.",
-        "fr": "En voiture, vous pouvez atteindre sans effort les trésors des collines de Nice. Commencez par le centre avant de monter sur la colline aristocratique de Cimiez pour découvrir l'histoire romaine et l'art de Matisse.\n\nL'après-midi vous emmène hors de la ville le long de la Basse Corniche jusqu'à la pittoresque Villefranche-sur-Mer. Le trajet offre des vues spectaculaires sur la Méditerranée, difficiles d'accès à pied."
+        "fr": "En voiture, vous pouvez atteindre aisément les trésors perchés de Nice. Commencez au centre avant de monter jusqu'à la colline aristocratique de Cimiez pour découvrir l'histoire romaine et l'art de Matisse.\n\nL'après‑midi vous emmène hors de la ville le long de la Basse Corniche jusqu'à la pittoresque Villefranche‑sur‑Mer. La route offre des vues méditerranéennes spectaculaires difficiles d'accès à pied."
       },
       "gastro_picks": {
         "de": [
@@ -1365,8 +1383,8 @@
         ],
         "fr": [
           "Le stationnement peut être coûteux, utilisez les parkings souterrains.",
-          "Évitez les heures de pointe dans le centre-ville.",
-          "Les routes côtières sont magnifiques mais étroites.",
+          "Évitez les heures de pointe au centre‑ville.",
+          "Les routes côtières sont belles mais étroites.",
           "Un système de navigation est fortement recommandé."
         ]
       },
@@ -1377,7 +1395,7 @@
             "hu": "Reggel: Vezessen óvatosan a Grande Corniche úton a ködveszély miatt. Délben: Fedezze fel a középkori Èze falut az esőben. Délután: Látogassa meg Saint-Jean-Cap-Ferrat-t és az Ephrussi villát. Este: Térjen vissza a Place Masséna alatti parkolóba.",
             "ro": "Dimineața: Conduceți cu prudență pe Grande Corniche, atenție la ceață. La prânz: Explorați satul medieval Èze pe ploaie. După-amiaza: Vizitați Saint-Jean-Cap-Ferrat și Villa Ephrussi. Seara: Reveniți pentru parcare în zona Place Masséna.",
             "en": "Morning: Drive carefully up to the Grande Corniche; watch for low visibility. Noon: Explore the medieval streets of Èze Village between showers. Afternoon: Visit the lush Saint-Jean-Cap-Ferrat and the indoor Villa Ephrussi. Evening: Return to Nice and park in the underground lots near Place Masséna.",
-            "fr": "Matin : Montez prudemment vers la Grande Corniche ; attention à la faible visibilité. Midi : Explorez les rues médiévales d'Èze Village entre deux averses. Après-midi : Visitez le luxuriant Saint-Jean-Cap-Ferrat et l'intérieur de la Villa Ephrussi. Soirée : Retournez à Nice et garez-vous dans les parkings souterrains près de la Place Masséna."
+            "fr": "Matin : Montez prudemment jusqu'à la Grande Corniche ; surveillez la faible visibilité. Midi : Explorez les rues médiévales du village d'Èze entre les éclaircies. Après‑midi : Visitez le luxuriant Saint‑Jean‑Cap‑Ferrat et la Villa Ephrussi à l'intérieur. Soir : Retournez à Nice et garez‑vous dans les parkings souterrains près de la Place Masséna."
           },
           "stops": [
             {
@@ -1387,7 +1405,7 @@
                 "hu": "Heves esőben a látótávolság jelentősen lecsökkenhet.",
                 "ro": "În caz de ploaie torențială, vizibilitatea poate fi redusă.",
                 "en": "Visibility can be very limited during heavy rain or mist.",
-                "fr": "La visibilité peut être très limitée lors de fortes pluies ou de brume."
+                "fr": "La visibilité peut être très limitée en cas de fortes pluies ou de brouillard."
               }
             },
             {
@@ -1397,7 +1415,7 @@
                 "hu": "A meredek ösvények vizesen nagyon csúszósak.",
                 "ro": "Cărările abrupte sunt foarte alunecoase când sunt ude.",
                 "en": "The steep paths are very slippery when wet; wear boots.",
-                "fr": "Les sentiers escarpés sont très glissants lorsqu'ils sont mouillés ; portez des bottes."
+                "fr": "Les sentiers raides sont très glissants quand ils sont mouillés ; portez des bottes."
               }
             },
             {
@@ -1407,7 +1425,7 @@
                 "hu": "Látogassa meg az Ephrussi villát, ami jó esőnapra.",
                 "ro": "Vizitați Villa Ephrussi ca opțiune protejată de ploaie.",
                 "en": "Visit Villa Ephrussi de Rothschild for an indoor alternative.",
-                "fr": "Visitez la Villa Ephrussi de Rothschild pour une alternative en intérieur."
+                "fr": "Visitez la Villa Ephrussi de Rothschild comme alternative intérieure."
               }
             },
             {
@@ -1417,7 +1435,7 @@
                 "hu": "Ügyeljen a nagy tócsákra az úttesten.",
                 "ro": "Atenție la bălțile mari de pe carosabil.",
                 "en": "Watch out for large puddles on the main roadway.",
-                "fr": "Attention aux grandes flaques d'eau sur la chaussée principale."
+                "fr": "Faites attention aux grandes flaques sur la chaussée principale."
               }
             },
             {
@@ -1461,11 +1479,11 @@
               "Avoid parking under trees during high wind warnings."
             ],
             "fr": [
-              "Les routes de la Corniche sont délicates sous la pluie ; conduisez lentement dans les virages.",
+              "Les routes de la Corniche sont difficiles sous la pluie ; roulez lentement dans les virages.",
               "Les parkings souterrains (Masséna, Saleya) sont le meilleur moyen de rester au sec en ville.",
-              "Passez les points de vue de la Grande Corniche si les nuages sont trop bas.",
-              "Les jours de pluie sont parfaits pour visiter les villas historiques du Cap-Ferrat.",
-              "Évitez de vous garer sous les arbres lors des alertes de vent fort."
+              "Évitez les points de vue sur la Grande Corniche si les nuages sont trop bas.",
+              "Les jours de pluie sont parfaits pour visiter les villas historiques du Cap‑Ferrat.",
+              "Évitez de vous garer sous les arbres en cas d'alerte vents violents."
             ]
           }
         },
@@ -1475,7 +1493,7 @@
             "hu": "Reggel: Élvezze a tiszta kilátást a Grande Corniche útról. Délben: Fedezze fel a csendes Èze falut a nyári tömeg nélkül. Délután: Egy nyugodt autózás a Cap-Ferrat körül. Este: Csodálja meg a karácsonyi fényeket a Place Masséna téren.",
             "ro": "Dimineața: Bucurați-vă de vederea clară de pe Grande Corniche. La prânz: Explorați satul Èze, mult mai liniștit iarna. După-amiaza: O plimbare relaxantă cu mașina în jurul Cap-Ferrat. Seara: Admirați luminile de sărbătoare din Place Masséna.",
             "en": "Morning: Enjoy the crystal-clear panoramic views from the Grande Corniche. Noon: Explore the peaceful Èze Village without the summer crowds. Afternoon: Take a relaxed drive around the scenic loop of Saint-Jean-Cap-Ferrat. Evening: Experience the festive winter lights around Place Masséna.",
-            "fr": "Matin : Profitez des vues panoramiques cristallines depuis la Grande Corniche. Midi : Explorez le paisible village d'Èze sans les foules estivales. Après-midi : Faites une promenade relaxante en voiture autour de la boucle panoramique de Saint-Jean-Cap-Ferrat. Soirée : Découvrez les illuminations festives d'hiver autour de la Place Masséna."
+            "fr": "Matin : Profitez des vues panoramiques cristallines depuis la Grande Corniche. Midi : Explorez le paisible village d'Èze sans la foule estivale. Après‑midi : Faites une promenade détendue autour de la boucle pittoresque de Saint‑Jean‑Cap‑Ferrat. Soir : Admirez les illuminations festives d'hiver autour de la Place Masséna."
           },
           "stops": [
             {
@@ -1485,7 +1503,7 @@
                 "hu": "A téli fények gyakran tisztábbak a távoli kilátáshoz.",
                 "ro": "Lumina de iarnă este adesea mai clară pentru vederi la distanță.",
                 "en": "Winter light is often clearer for long-distance views.",
-                "fr": "La lumière hivernale est souvent plus claire pour les vues lointaines."
+                "fr": "La lumière d'hiver est souvent plus claire pour les vues lointaines."
               }
             },
             {
@@ -1505,7 +1523,7 @@
                 "hu": "Az Ephrussi villa kertjei télen is részben virágoznak.",
                 "ro": "Grădinile Vilei Ephrussi sunt frumoase și pe timp de iarnă.",
                 "en": "Villa Ephrussi's gardens are still beautiful in winter.",
-                "fr": "Les jardins de la Villa Ephrussi sont toujours magnifiques en hiver."
+                "fr": "Les jardins de la Villa Ephrussi sont encore beaux en hiver."
               }
             },
             {
@@ -1525,7 +1543,7 @@
                 "hu": "A karácsonyi kivilágítás november végétől látható.",
                 "ro": "Luminile de Crăciun sunt aprinse de la sfârșitul lui noiembrie.",
                 "en": "Festive lights are visible from late November onwards.",
-                "fr": "Les illuminations de fête sont visibles à partir de fin novembre."
+                "fr": "Les illuminations festives sont visibles à partir de fin novembre."
               }
             }
           ],
@@ -1559,11 +1577,11 @@
               "Car rental prices are significantly lower during the off-season."
             ],
             "fr": [
-              "L'hiver est la meilleure période pour parcourir les Corniches en raison du faible trafic.",
-              "Le stationnement à Èze est bien plus facile que pendant les mois d'été frénétiques.",
-              "Attention au givre en altitude tôt le matin.",
-              "Utilisez la climatisation pour désembuer rapidement vos vitres par temps frais et humide.",
-              "Les prix de location de voitures sont nettement plus bas pendant la basse saison."
+              "L'hiver est la meilleure période pour conduire les Corniches en raison du faible trafic.",
+              "Se garer à Èze est bien plus facile qu'aux mois d'été agités.",
+              "Faites attention au gel en altitude tôt le matin.",
+              "Utilisez la climatisation pour dégivrer rapidement vos vitres par temps frais et humide.",
+              "Les tarifs de location de voiture sont nettement plus bas en basse saison."
             ]
           }
         }
@@ -1582,7 +1600,8 @@
             "de": "Place Masséna",
             "hu": "Place Masséna",
             "ro": "Piața Masséna",
-            "en": "Place Masséna"
+            "en": "Place Masséna",
+            "fr": "Place Masséna"
           },
           "coords": [
             7.2689,
@@ -1598,7 +1617,7 @@
             "hu": "A két villamosvonal találkozási pontja.",
             "ro": "Nodul celor două linii de tramvai.",
             "en": "Hub for both tram lines.",
-            "fr": "Plaque tournante pour les deux lignes de tramway."
+            "fr": "Nœud pour les deux lignes de tram."
           }
         },
         {
@@ -1606,7 +1625,8 @@
             "de": "Cathédrale Sainte-Réparate",
             "hu": "Sainte-Réparate-székesegyház",
             "ro": "Catedrala Sainte-Réparate",
-            "en": "Sainte-Réparate Cathedral"
+            "en": "Sainte-Réparate Cathedral",
+            "fr": "Cathédrale Sainte‑Réparate"
           },
           "coords": [
             7.2755,
@@ -1622,7 +1642,7 @@
             "hu": "Rövid séta a Cathédrale villamosmegállótól.",
             "ro": "Scurtă plimbare de la stația de tramvai.",
             "en": "Short walk from the Cathédrale tram stop.",
-            "fr": "À quelques pas de l'arrêt de tram Cathédrale."
+            "fr": "Courte marche depuis l'arrêt Cathédrale du tram."
           }
         },
         {
@@ -1630,7 +1650,8 @@
             "de": "Musée d'Art Moderne (MAMAC)",
             "hu": "MAMAC Múzeum",
             "ro": "Muzeul MAMAC",
-            "en": "MAMAC Museum"
+            "en": "MAMAC Museum",
+            "fr": "Musée MAMAC"
           },
           "coords": [
             7.278,
@@ -1646,7 +1667,7 @@
             "hu": "A T1 villamossal Hôpital Pasteur felé.",
             "ro": "Cu tramvaiul T1 spre Hôpital Pasteur.",
             "en": "Take tram T1 towards Hôpital Pasteur.",
-            "fr": "Prenez le tram T1 en direction de l'Hôpital Pasteur."
+            "fr": "Prenez le tram T1 en direction de Hôpital Pasteur."
           }
         },
         {
@@ -1654,7 +1675,8 @@
             "de": "Liberation Markt",
             "hu": "Libération piac",
             "ro": "Piața Libération",
-            "en": "Liberation Market"
+            "en": "Liberation Market",
+            "fr": "Marché du Libération"
           },
           "coords": [
             7.262,
@@ -1679,7 +1701,7 @@
         "hu": "Nizza modern villamoshálózata hatékony és tiszta. Kezdjen a központban, és használja az 1-es vonalat a lenyűgöző MAMAC Múzeum eléréséhez. Ezután folytassa útját a Libération piacra, ahol turistatömegek nélkül találhat helyi különlegességeket.\n\nA tömegközlekedés lehetővé teszi, hogy úgy élje meg Nizzát, mint egy helyi, könnyedén mozogva a különböző negyedek között.",
         "ro": "Rețeaua modernă de tramvai din Nisa este eficientă și curată. Începeți în centru și folosiți linia 1 pentru a ajunge la impresionantul muzeu MAMAC. Apoi continuați spre piața Libération pentru specialități locale.\n\nTurul cu transportul public vă oferă șansa de a trăi Nisa ca un localnic, deplasându-vă fără efort între diversele cartiere ale orașului.",
         "en": "Nice's modern tram network is efficient and clean. Start in the center and use Line 1 to reach the impressive MAMAC Museum. Then, continue to the Libération market, where you can find local specialties without the tourist crowds.\n\nThe transit tour gives you the chance to experience Nice like a local, moving effortlessly between different neighborhoods from the historic core to modern cultural centers.",
-        "fr": "Le réseau de tramway moderne de Nice est efficace et propre. Commencez dans le centre et utilisez la Ligne 1 pour rejoindre l'impressionnant musée MAMAC. Continuez ensuite vers le marché de la Libération, où vous trouverez des spécialités locales loin des foules de touristes.\n\nCe circuit en transports vous permet de vivre Nice comme un habitant, en vous déplaçant sans effort entre les différents quartiers, du cœur historique aux centres culturels modernes."
+        "fr": "Le réseau moderne de tramway de Nice est efficace et propre. Commencez au centre et prenez la Ligne 1 pour rejoindre l'imposant MAMAC. Ensuite, continuez jusqu'au marché du Libération, où vous trouverez des spécialités locales sans la foule touristique.\n\nLa visite en transport permet de découvrir Nice comme un habitant, en vous déplaçant facilement entre différents quartiers, du cœur historique aux centres culturels modernes."
       },
       "gastro_picks": {
         "de": [
@@ -1808,9 +1830,9 @@
           "Download the 'Lignes d'Azur' app for schedules."
         ],
         "fr": [
-          "Achetez un pass d'un jour pour des trajets illimités.",
-          "La ligne 2 du tramway relie l'aéroport au centre-ville.",
-          "Validez toujours votre ticket lors de la montée.",
+          "Achetez un pass journée pour des trajets illimités.",
+          "La Ligne 2 du tram relie l'aéroport au centre‑ville.",
+          "Validez toujours votre titre de transport en montant à bord.",
           "Téléchargez l'application « Lignes d'Azur » pour les horaires."
         ]
       },
@@ -1821,7 +1843,7 @@
             "hu": "Reggel: Használja a buszt a Chagall múzeumhoz. Délben: Folytassa az utat a Matisse múzeumba, ami ideális esőben. Délután: Rövid megálló a romoknál, majd utazás az orosz katedrálishoz. Este: Visszatérés a Place Massénához villamossal.",
             "ro": "Dimineața: Luați autobuzul către Muzeul Chagall. La prânz: Continuați spre Muzeul Matisse, ideal pe timp de ploaie. După-amiaza: O scurtă vizită la ruine și drumul spre Catedrala Rusă. Seara: Revenire în Place Masséna cu tramvaiul.",
             "en": "Morning: Take the bus directly to the Marc Chagall Museum to stay dry. Noon: Continue to the Matisse Museum in Cimiez, a perfect indoor retreat. Afternoon: A quick look at the Roman ruins before heading to the Russian Cathedral. Evening: Return to the city center via the modern tramway.",
-            "fr": "Matin : Prenez le bus directement pour le Musée Marc Chagall pour rester au sec. Midi : Continuez vers le Musée Matisse à Cimiez, un refuge intérieur parfait. Après-midi : Un coup d'œil rapide aux ruines romaines avant de vous diriger vers la Cathédrale Russe. Soirée : Retournez au centre-ville via le tramway moderne."
+            "fr": "Matin : Prenez le bus directement jusqu'au Musée Marc Chagall pour rester au sec. Midi : Continuez vers le Musée Matisse à Cimiez, un parfait refuge intérieur. Après‑midi : Un rapide passage par les ruines romaines avant de rejoindre la Cathédrale russe. Soir : Retournez au centre‑ville via le tramway moderne."
           },
           "stops": [
             {
@@ -1831,7 +1853,7 @@
                 "hu": "Tökéletes hely az eső elől való menekülésre órákon át.",
                 "ro": "Un loc perfect pentru a scăpa de ploaie timp de câteva ore.",
                 "en": "A perfect indoor spot to escape the rain for hours.",
-                "fr": "Un endroit intérieur parfait pour échapper à la pluie pendant des heures."
+                "fr": "Un parfait endroit intérieur pour échapper à la pluie pendant des heures."
               }
             },
             {
@@ -1841,7 +1863,7 @@
                 "hu": "A buszmegálló közvetlenül a park előtt található.",
                 "ro": "Stația de autobuz este chiar în fața parcului.",
                 "en": "The bus stop is located right in front of the park area.",
-                "fr": "L'arrêt de bus est situé juste en face de la zone du parc."
+                "fr": "L'arrêt de bus se situe juste devant l'espace du parc."
               }
             },
             {
@@ -1851,7 +1873,7 @@
                 "hu": "Heves esőben ez a kültéri megálló kevésbé ajánlott.",
                 "ro": "Pe ploaie torențială, această oprire în aer liber este neplăcută.",
                 "en": "This outdoor stop is less pleasant during heavy rain.",
-                "fr": "Cet arrêt extérieur est moins agréable lors de fortes pluies."
+                "fr": "Cet arrêt extérieur est moins agréable en cas de fortes pluies."
               }
             },
             {
@@ -1861,7 +1883,7 @@
                 "hu": "A vasútállomástól mindössze 10 perc séta.",
                 "ro": "Sunt doar 10 minute de mers pe jos de la gară.",
                 "en": "It is only a 10-minute walk from the main train station.",
-                "fr": "C'est à seulement 10 minutes à pied de la gare principale."
+                "fr": "Il se trouve à seulement 10 minutes à pied de la gare principale."
               }
             },
             {
@@ -1871,7 +1893,7 @@
                 "hu": "Az L1-es villamos szárazon juttatja be a központba.",
                 "ro": "Tramvaiul L1 vă aduce în centru fără să vă udați.",
                 "en": "The L1 tram is the best way to reach the center while dry.",
-                "fr": "Le tram L1 est le meilleur moyen de rejoindre le centre en restant au sec."
+                "fr": "Le tram L1 est le meilleur moyen de rejoindre le centre à l'abri de la pluie."
               }
             }
           ],
@@ -1905,11 +1927,11 @@
               "Many buses to Cimiez depart directly from the central hubs."
             ],
             "fr": [
-              "Les musées du quartier de Cimiez sont de parfaites options intérieures en cas de pluie.",
+              "Les musées du quartier de Cimiez sont d'excellentes options intérieures par temps de pluie.",
               "Utilisez l'application « Lignes d'Azur » pour suivre les arrivées de bus en temps réel.",
-              "Les trams sont très fréquentés quand il pleut ; prévoyez un temps de trajet supplémentaire.",
-              "Achetez vos tickets aux automates des arrêts de tram pour rester à l'abri.",
-              "De nombreux bus vers Cimiez partent directement des pôles centraux."
+              "Les trams sont très encombrés quand il pleut ; prévoyez plus de temps de trajet.",
+              "Achetez vos billets aux distributeurs des arrêts de tram pour rester à l'abri.",
+              "De nombreux bus pour Cimiez partent directement des pôles centraux."
             ]
           }
         },
@@ -1919,7 +1941,7 @@
             "hu": "Reggel: Látogassa meg a Chagall múzeumot a csendes utószezonban. Délben: Utazás tovább Cimiez-be a Matisse múzeumhoz. Délután: Séta a Cimiez-i olajfaligetekben. Este: Az orosz katedrális megtekintése, majd visszatérés a központba.",
             "ro": "Dimineața: Vizitați Muzeul Chagall în extrasezonul liniștit. La prânz: Mergeți mai departe spre Cimiez la Muzeul Matisse. După-amiaza: O plimbare prin livezile de măslini din Cimiez. Seara: Vizitarea Catedralei Ruse și întoarcerea în centru.",
             "en": "Morning: Visit the Marc Chagall Museum during the quiet off-season. Noon: Take the bus up to Cimiez for the Matisse Museum. Afternoon: Enjoy a crisp walk through the ancient olive groves near the ruins. Evening: Admire the Russian Cathedral before returning to the city center.",
-            "fr": "Matin : Visitez le Musée Marc Chagall pendant la basse saison plus calme. Midi : Prenez le bus pour Cimiez et le Musée Matisse. Après-midi : Profitez d'une promenade vivifiante dans les oliveraies antiques près des ruines. Soirée : Admirez la Cathédrale Russe avant de retourner au centre-ville."
+            "fr": "Matin : Visitez le Musée Marc Chagall pendant la saison calme. Midi : Prenez le bus pour Cimiez et visitez le Musée Matisse. Après-midi : Profitez d’une balade vivifiante parmi les anciens oliviers près des ruines. Soir : Admirez la Cathédrale russe avant de retourner au centre-ville."
           },
           "stops": [
             {
@@ -1929,7 +1951,7 @@
                 "hu": "Télen kevés a látogató, így intenzívebb az élmény.",
                 "ro": "Puțini vizitatori iarna, ceea ce permite o experiență liniștită.",
                 "en": "Fewer crowds in winter allow for a more intimate experience.",
-                "fr": "Moins de monde en hiver permet une expérience plus intime."
+                "fr": "Moins de foule en hiver pour une expérience plus intime."
               }
             },
             {
@@ -1939,7 +1961,7 @@
                 "hu": "A vörös épület szépen mutat a téli napsütésben.",
                 "ro": "Clădirea roșie strălucește frumos în soarele de iarnă.",
                 "en": "The red villa glows beautifully in the crisp winter sun.",
-                "fr": "La villa rouge brille magnifiquement sous le soleil vif de l'hiver."
+                "fr": "La villa rouge rayonne magnifiquement au soleil vif de l’hiver."
               }
             },
             {
@@ -1949,7 +1971,7 @@
                 "hu": "Télen csodálatosan nyugodt hely egy sétához.",
                 "ro": "Iarna este un loc minunat de liniștit pentru o plimbare.",
                 "en": "It is wonderfully peaceful here for a stroll in winter.",
-                "fr": "C'est merveilleusement paisible ici pour une promenade en hiver."
+                "fr": "Il est merveilleusement paisible ici pour une promenade en hiver."
               }
             },
             {
@@ -1959,7 +1981,7 @@
                 "hu": "A hagymakupolák különösen szépek a tiszta téli fényben.",
                 "ro": "Cupolele strălucesc spectaculos în lumina clară de iarnă.",
                 "en": "The onion domes shine brightly in the clear winter light.",
-                "fr": "Les bulbes brillent intensément dans la lumière claire de l'hiver."
+                "fr": "Les bulbes en forme d’oignon brillent intensément dans la lumière claire de l’hiver."
               }
             },
             {
@@ -2003,11 +2025,11 @@
               "The tramway remains the most reliable transit option in any weather."
             ],
             "fr": [
-              "La fréquence des bus vers Cimiez peut être légèrement réduite en hiver.",
-              "Visitez les deux musées de Cimiez en un seul voyage pour gagner du temps.",
-              "Les jardins de Cimiez offrent une escapade sereine même pendant les mois les plus froids.",
-              "La Cathédrale Russe est beaucoup plus calme et facile à photographier en hiver.",
-              "Le tramway reste l'option de transport la plus fiable quelle que soit la météo."
+              "La fréquence des bus pour Cimiez peut être légèrement réduite en hiver.",
+              "Visitez les deux musées de Cimiez en une seule sortie pour gagner du temps de trajet.",
+              "Les jardins de Cimiez offrent une escapade sereine même par temps froid.",
+              "La Cathédrale russe est beaucoup plus calme et plus facile à photographier en hiver.",
+              "Le tramway reste l’option de transport la plus fiable par tous les temps."
             ]
           }
         }

@@ -21,7 +21,8 @@
             "de": "Place Gordaine",
             "hu": "Place Gordaine",
             "ro": "Place Gordaine",
-            "en": "Place Gordaine"
+            "en": "Place Gordaine",
+            "fr": "Place Gordaine"
           },
           "coords": [
             2.3934,
@@ -36,7 +37,8 @@
             "de": "Bewundern Sie die Fachwerkhäuser bei einem morgendlichen Espresso.",
             "hu": "Csodáld meg a favázas házakat egy reggeli eszpresszó mellett.",
             "ro": "Admirați casele cu bârne de lemn la un espresso de dimineață.",
-            "en": "Admire the timber-framed houses over a morning espresso."
+            "en": "Admire the timber-framed houses over a morning espresso.",
+            "fr": "Admirez les maisons à colombages autour d'un espresso matinal."
           }
         },
         {
@@ -44,7 +46,8 @@
             "de": "Palais Jacques Cœur",
             "hu": "Jacques Cœur palota",
             "ro": "Palatul Jacques Cœur",
-            "en": "Palais Jacques Cœur"
+            "en": "Palais Jacques Cœur",
+            "fr": "Palais Jacques Cœur"
           },
           "coords": [
             2.3924,
@@ -59,7 +62,8 @@
             "de": "Ein Meisterwerk der spätgotischen Zivilarchitektur des 15. Jahrhunderts.",
             "hu": "A 15. századi késő gótikus polgári építészet remekműve.",
             "ro": "O capodoperă a arhitecturii civile gotice târzii din secolul al XV-lea.",
-            "en": "A masterpiece of 15th-century late Gothic civil architecture."
+            "en": "A masterpiece of 15th-century late Gothic civil architecture.",
+            "fr": "Un chef‑d'œuvre de l'architecture civile gothique flamboyante du XVe siècle."
           }
         },
         {
@@ -67,7 +71,8 @@
             "de": "Musée du Berry",
             "hu": "Berry Múzeum",
             "ro": "Muzeul Berry",
-            "en": "Musée du Berry"
+            "en": "Musée du Berry",
+            "fr": "Musée du Berry"
           },
           "coords": [
             2.3931,
@@ -82,7 +87,8 @@
             "de": "Das Hôtel Cujas beherbergt bedeutende archäologische Sammlungen.",
             "hu": "Az Hôtel Cujas épülete jelentős régészeti gyűjteményeknek ad otthont.",
             "ro": "Hôtel Cujas găzduiește colecții arheologice importante.",
-            "en": "Hôtel Cujas houses significant archaeological collections."
+            "en": "Hôtel Cujas houses significant archaeological collections.",
+            "fr": "L'Hôtel Cujas abrite des collections archéologiques importantes."
           }
         },
         {
@@ -90,7 +96,8 @@
             "de": "Place de la Cathédrale (Mittagessen)",
             "hu": "Katedrális tér (Ebéd)",
             "ro": "Place de la Cathédrale (Prânz)",
-            "en": "Place de la Cathédrale (Lunch)"
+            "en": "Place de la Cathédrale (Lunch)",
+            "fr": "Place de la Cathédrale (Lunch)"
           },
           "coords": [
             2.3985,
@@ -105,7 +112,8 @@
             "de": "Probieren Sie Galette aux pommes de terre in einem lokalen Bistro.",
             "hu": "Kóstold meg a helyi burgonyás lepényt (galette) egy bisztróban.",
             "ro": "Încercați galette aux pommes de terre la un bistro local.",
-            "en": "Try galette aux pommes de terre at a local bistro."
+            "en": "Try galette aux pommes de terre at a local bistro.",
+            "fr": "Goûtez la galette aux pommes de terre dans un bistro local."
           }
         },
         {
@@ -113,7 +121,8 @@
             "de": "Cathédrale Saint-Étienne",
             "hu": "Szent István-székesegyház",
             "ro": "Catedrala Sfântul Ștefan",
-            "en": "Cathédrale Saint-Étienne"
+            "en": "Cathédrale Saint-Étienne",
+            "fr": "Cathédrale Saint-Étienne"
           },
           "coords": [
             2.3992,
@@ -128,7 +137,8 @@
             "de": "UNESCO-Weltkulturerbe, berühmt für seine Glasmalereien aus dem 13. Jahrhundert.",
             "hu": "UNESCO világörökség, híres a 13. századi üvegablakairól.",
             "ro": "Patrimoniu UNESCO, celebră pentru vitraliile sale din secolul al XIII-lea.",
-            "en": "UNESCO World Heritage site, famous for its 13th-century stained glass."
+            "en": "UNESCO World Heritage site, famous for its 13th-century stained glass.",
+            "fr": "Site UNESCO, célèbre pour ses vitraux du XIIIe siècle."
           }
         },
         {
@@ -136,7 +146,8 @@
             "de": "Jardin de l'Archevêché",
             "hu": "Érseki kert",
             "ro": "Grădina Arhiepiscopiei",
-            "en": "Jardin de l'Archevêché"
+            "en": "Jardin de l'Archevêché",
+            "fr": "Jardin de l'Archevêché"
           },
           "coords": [
             2.4012,
@@ -151,7 +162,8 @@
             "de": "Ein von Le Nôtre entworfener Garten mit Blick auf die Kathedrale.",
             "hu": "Le Nôtre által tervezett kert, kilátással a székesegyházra.",
             "ro": "O grădină proiectată de Le Nôtre, cu vedere spre catedrală.",
-            "en": "A garden designed by Le Nôtre with views of the cathedral."
+            "en": "A garden designed by Le Nôtre with views of the cathedral.",
+            "fr": "Un jardin conçu par Le Nôtre avec vue sur la cathédrale."
           }
         },
         {
@@ -159,7 +171,8 @@
             "de": "Hôtel Lallemant",
             "hu": "Hôtel Lallemant",
             "ro": "Hôtel Lallemant",
-            "en": "Hôtel Lallemant"
+            "en": "Hôtel Lallemant",
+            "fr": "Hôtel Lallemant"
           },
           "coords": [
             2.3955,
@@ -174,7 +187,8 @@
             "de": "Ein Renaissance-Palais mit Kuriositätenkabinett und Alchemie-Symbolen.",
             "hu": "Reneszánsz palota különlegességek gyűjteményével és alkímiai szimbólumokkal.",
             "ro": "Un palat renascentist cu un cabinet de curiozități și simboluri alchimice.",
-            "en": "A Renaissance mansion with a cabinet of curiosities and alchemy symbols."
+            "en": "A Renaissance mansion with a cabinet of curiosities and alchemy symbols.",
+            "fr": "Un hôtel particulier de la Renaissance avec un cabinet de curiosités et des symboles d'alchimie."
           }
         }
       ],
@@ -182,7 +196,8 @@
         "de": "Ihr Tag beginnt am Place Gordaine, dem mittelalterlichen Herz von Bourges, umgeben von schiefen Fachwerkhäusern. Nach der Besichtigung des prächtigen Palais Jacques Cœur tauchen Sie im Musée du Berry in die gallo-römische Geschichte ein. Der Nachmittag gehört der monumentalen Kathedrale Saint-Étienne, deren fünf Portale und die fehlende Querschiff-Struktur einzigartig sind. Den Abschluss bildet ein entspannter Spaziergang durch die geometrischen Alleen des Jardin de l'Archevêché.",
         "hu": "A napot a Place Gordaine-en kezdi, Bourges középkori szívében, görbe favázas házak között. A pazar Jacques Cœur palota megtekintése után a Berry Múzeumban merülhet el a gall-római történelemben. A délután a monumentális Szent István-székesegyházé, amelynek öt portálja és kereszthajó nélküli szerkezete egyedülálló. A napot az Érseki kert mértani sétányain tett pihentető séta zárja, ahonnan remek rálátás nyílik a katedrális apszisára.",
         "ro": "Ziua începe în Place Gordaine, inima medievală a orașului Bourges, înconjurată de case pitorești cu bârne. După vizitarea somptuosului Palat Jacques Cœur, explorați istoria galo-romană la Muzeul Berry. După-amiaza este dedicată monumentalei Catedrale Sfântul Ștefan, ale cărei cinci portaluri și absența transeptului sunt unice în lume. Încheiați cu o plimbare relaxantă pe aleile geometrice ale Grădinii Arhiepiscopiei, admirând arhitectura gotică.",
-        "en": "Start your day at Place Gordaine, the medieval heart of Bourges, surrounded by leaning timber-framed houses. After exploring the opulent Palais Jacques Cœur, delve into Gallo-Roman history at the Musée du Berry. The afternoon is dedicated to the monumental Saint-Étienne Cathedral, unique for its five portals and lack of a transept. Conclude with a relaxing stroll through the geometric paths of the Jardin de l'Archevêché, offering grand views of the cathedral's apse."
+        "en": "Start your day at Place Gordaine, the medieval heart of Bourges, surrounded by leaning timber-framed houses. After exploring the opulent Palais Jacques Cœur, delve into Gallo-Roman history at the Musée du Berry. The afternoon is dedicated to the monumental Saint-Étienne Cathedral, unique for its five portals and lack of a transept. Conclude with a relaxing stroll through the geometric paths of the Jardin de l'Archevêché, offering grand views of the cathedral's apse.",
+        "fr": "Commencez votre journée à la Place Gordaine, le cœur médiéval de Bourges, entouré de maisons à colombages penchées. Après avoir exploré l'opulent Palais Jacques Cœur, plongez dans l'histoire gallo‑romaine au Musée du Berry. L'après‑midi est consacré à la monumentale cathédrale Saint‑Étienne, unique par ses cinq portails et l'absence de transept. Concluez par une promenade relaxante dans les allées géométriques du Jardin de l'Archevêché, offrant de larges vues sur l'abside de la cathédrale."
       },
       "gastro_picks": {
         "de": [
@@ -326,6 +341,12 @@
           "The cathedral is often open for visits during lunchtime.",
           "The cathedral crypt is worth the extra entry fee.",
           "Pick up a free city map at the Tourist Office next to the Palais."
+        ],
+        "fr": [
+          "Portez des chaussures confortables pour les pavés.",
+          "La cathédrale est souvent ouverte aux visites pendant la pause déjeuner.",
+          "La crypte de la cathédrale vaut le supplément d'entrée.",
+          "Prenez un plan de la ville gratuit à l'Office de Tourisme à côté du Palais."
         ]
       }
     },
@@ -342,7 +363,8 @@
             "de": "Place Gordaine",
             "hu": "Place Gordaine",
             "ro": "Place Gordaine",
-            "en": "Place Gordaine"
+            "en": "Place Gordaine",
+            "fr": "Place Gordaine"
           },
           "coords": [
             2.3934,
@@ -357,7 +379,8 @@
             "de": "Startpunkt im historischen Zentrum.",
             "hu": "Kiindulópont a történelmi központban.",
             "ro": "Punct de plecare în centrul istoric.",
-            "en": "Starting point in the historic center."
+            "en": "Starting point in the historic center.",
+            "fr": "Point de départ au centre historique."
           }
         },
         {
@@ -365,7 +388,8 @@
             "de": "Les Marais de Bourges",
             "hu": "Bourgesi mocsarak",
             "ro": "Mlaștinile din Bourges",
-            "en": "Les Marais de Bourges"
+            "en": "Les Marais de Bourges",
+            "fr": "Les Marais de Bourges"
           },
           "coords": [
             2.4085,
@@ -380,7 +404,8 @@
             "de": "Radfahren durch die 135 Hektar großen Gärten.",
             "hu": "Kerékpározás a 135 hektáros konyhakertek között.",
             "ro": "Ciclism prin cele 135 de hectare de grădini.",
-            "en": "Cycling through the 135 hectares of allotment gardens."
+            "en": "Cycling through the 135 hectares of allotment gardens.",
+            "fr": "Balade à vélo à travers les 135 hectares de jardins ouvriers."
           }
         },
         {
@@ -388,7 +413,8 @@
             "de": "Canal de Berry",
             "hu": "Berry-csatorna",
             "ro": "Canalul Berry",
-            "en": "Canal de Berry"
+            "en": "Canal de Berry",
+            "fr": "Canal de Berry"
           },
           "coords": [
             2.3855,
@@ -403,7 +429,8 @@
             "de": "Flacher Radweg entlang des ehemaligen Treppelpfads.",
             "hu": "Sík kerékpárút az egykori vontatóúton.",
             "ro": "Pistă plată de biciclete de-a lungul fostului drum de halaj.",
-            "en": "Flat bike path along the former towpath."
+            "en": "Flat bike path along the former towpath.",
+            "fr": "Piste cyclable plate le long de l'ancienne chemin de halage."
           }
         },
         {
@@ -411,7 +438,8 @@
             "de": "Musée des MOF",
             "hu": "MOF Múzeum",
             "ro": "Muzeul MOF",
-            "en": "Musée des MOF"
+            "en": "Musée des MOF",
+            "fr": "Musée des MOF"
           },
           "coords": [
             2.3985,
@@ -426,7 +454,8 @@
             "de": "Meisterwerke der besten Handwerker Frankreichs.",
             "hu": "Franciaország legjobb kézműveseinek remekművei.",
             "ro": "Capodopere ale celor mai buni artizani din Franța.",
-            "en": "Masterpieces by the best craftsmen of France."
+            "en": "Masterpieces by the best craftsmen of France.",
+            "fr": "Chef‑d'œuvres des meilleurs artisans de France."
           }
         },
         {
@@ -434,7 +463,8 @@
             "de": "Cathédrale Saint-Étienne",
             "hu": "Szent István-székesegyház",
             "ro": "Catedrala Sfântul Ștefan",
-            "en": "Cathédrale Saint-Étienne"
+            "en": "Cathédrale Saint-Étienne",
+            "fr": "Cathédrale Saint-Étienne"
           },
           "coords": [
             2.3992,
@@ -449,7 +479,8 @@
             "de": "Fahrradständer am Fuße der Kathedrale vorhanden.",
             "hu": "Kerékpártárolók a katedrális lábánál.",
             "ro": "Suporturi de biciclete disponibile la baza catedralei.",
-            "en": "Bike racks available at the foot of the cathedral."
+            "en": "Bike racks available at the foot of the cathedral.",
+            "fr": "Arceaux pour vélos disponibles au pied de la cathédrale."
           }
         },
         {
@@ -457,7 +488,8 @@
             "de": "Jardin de l'Archevêché",
             "hu": "Érseki kert",
             "ro": "Grădina Arhiepiscopiei",
-            "en": "Jardin de l'Archevêché"
+            "en": "Jardin de l'Archevêché",
+            "fr": "Jardin de l'Archevêché"
           },
           "coords": [
             2.4012,
@@ -472,7 +504,8 @@
             "de": "Entspannter Ausklang im Park.",
             "hu": "Pihentető befejezés a parkban.",
             "ro": "Final relaxant în parc.",
-            "en": "Relaxing finish in the park."
+            "en": "Relaxing finish in the park.",
+            "fr": "Fin relaxante dans le parc."
           }
         }
       ],
@@ -480,7 +513,8 @@
         "de": "Diese Route kombiniert das historische Erbe mit der Natur. Von der Place Gordaine radeln Sie zu den 'Marais', einem Labyrinth aus Wasserwegen und Gärten direkt am Stadtrand. Danach folgen Sie dem Canal de Berry für eine ruhige Fahrt am Wasser. Nach dem Besuch des Handwerksmuseums MOF kehren Sie zur Kathedrale zurück, um das UNESCO-Erbe zu bewundern, und beenden die Tour im schattigen Jardin de l'Archevêché.",
         "hu": "Ez az útvonal ötvözi a történelmi örökséget a természettel. A Place Gordaine-től a 'Marais'-hoz kerekezik, amely vízi utak és kertek labirintusa a város szélén. Ezután a Berry-csatornát követi egy nyugodt vízparti tekeréshez. A MOF kézműves múzeum meglátogatása után visszatér a katedrálishoz, hogy megcsodálja az UNESCO örökséget, majd az Érseki kert árnyas fái alatt zárja a túrát.",
         "ro": "Acest traseu combină patrimoniul istoric cu natura. De la Place Gordaine, pedalați spre 'Marais', un labirint de canale și grădini chiar la marginea orașului. Urmați apoi Canalul Berry pentru o plimbare liniștită pe malul apei. După vizitarea muzeului de meșteșuguri MOF, reveniți la catedrală pentru a admira situl UNESCO și încheiați turul în Grădina Arhiepiscopiei.",
-        "en": "This route combines historic heritage with nature. From Place Gordaine, cycle to the 'Marais', a labyrinth of waterways and gardens right on the city's edge. Then follow the Canal de Berry for a peaceful ride by the water. After visiting the MOF craft museum, return to the cathedral to admire the UNESCO heritage and finish your tour in the shaded Jardin de l'Archevêché."
+        "en": "This route combines historic heritage with nature. From Place Gordaine, cycle to the 'Marais', a labyrinth of waterways and gardens right on the city's edge. Then follow the Canal de Berry for a peaceful ride by the water. After visiting the MOF craft museum, return to the cathedral to admire the UNESCO heritage and finish your tour in the shaded Jardin de l'Archevêché.",
+        "fr": "Cet itinéraire combine patrimoine historique et nature. Depuis la Place Gordaine, roulez jusqu'aux Marais, un labyrinthe de canaux et de jardins en bordure de la ville. Ensuite, suivez le Canal de Berry pour une balade paisible au bord de l'eau. Après la visite du musée des MOF, revenez à la cathédrale pour admirer le site UNESCO et terminez votre tour dans l'ombragé Jardin de l'Archevêché."
       },
       "gastro_picks": {
         "de": [
@@ -588,6 +622,12 @@
           "Watch out for pedestrians in the Marshes.",
           "The paths along the canal are flat and easy.",
           "A lock is essential for museum visits."
+        ],
+        "fr": [
+          "Louez un vélo à la gare (Cap'Vélo).",
+          "Attention aux piétons dans les Marais.",
+          "Les chemins le long du canal sont plats et faciles.",
+          "Un antivol est indispensable pour les visites de musée."
         ]
       }
     },
@@ -604,7 +644,8 @@
             "de": "Cathédrale Saint-Étienne",
             "hu": "Szent István-székesegyház",
             "ro": "Catedrala Sfântul Ștefan",
-            "en": "Cathédrale Saint-Étienne"
+            "en": "Cathédrale Saint-Étienne",
+            "fr": "Cathédrale Saint-Étienne"
           },
           "coords": [
             2.3992,
@@ -619,7 +660,8 @@
             "de": "Parken Sie im Parkhaus 'Hôtel de Ville'.",
             "hu": "Parkolj a Városháza melletti mélygarázsban.",
             "ro": "Parcați în parcarea 'Hôtel de Ville'.",
-            "en": "Park in the 'Hôtel de Ville' parking garage."
+            "en": "Park in the 'Hôtel de Ville' parking garage.",
+            "fr": "Garez‑vous au parking 'Hôtel de Ville'."
           }
         },
         {
@@ -627,7 +669,8 @@
             "de": "Palais Jacques Cœur",
             "hu": "Jacques Cœur palota",
             "ro": "Palatul Jacques Cœur",
-            "en": "Palais Jacques Cœur"
+            "en": "Palais Jacques Cœur",
+            "fr": "Palais Jacques Cœur"
           },
           "coords": [
             2.3924,
@@ -642,7 +685,8 @@
             "de": "Kurzer Fußweg vom Parkhaus durch die Altstadt.",
             "hu": "Rövid séta a parkolótól az óvároson át.",
             "ro": "Scurtă plimbare de la parcare prin centrul vechi.",
-            "en": "Short walk from the parking through the old town."
+            "en": "Short walk from the parking through the old town.",
+            "fr": "Courte marche depuis le parking à travers la vieille ville."
           }
         },
         {
@@ -650,7 +694,8 @@
             "de": "Les Marais de Bourges",
             "hu": "Bourgesi mocsarak",
             "ro": "Mlaștinile din Bourges",
-            "en": "Les Marais de Bourges"
+            "en": "Les Marais de Bourges",
+            "fr": "Les Marais de Bourges"
           },
           "coords": [
             2.4085,
@@ -665,7 +710,8 @@
             "de": "Kostenloser Parkplatz am Quai de l'Yèvre.",
             "hu": "Ingyenes parkoló a Quai de l'Yèvre-nél.",
             "ro": "Parcare gratuită pe Quai de l'Yèvre.",
-            "en": "Free parking at Quai de l'Yèvre."
+            "en": "Free parking at Quai de l'Yèvre.",
+            "fr": "Parking gratuit au Quai de l'Yèvre."
           }
         },
         {
@@ -673,7 +719,8 @@
             "de": "Menetou-Salon (Weinberg-Ausflug)",
             "hu": "Menetou-Salon (borvidéki kitérő)",
             "ro": "Menetou-Salon (excursie viticolă)",
-            "en": "Menetou-Salon (Vineyard detour)"
+            "en": "Menetou-Salon (Vineyard detour)",
+            "fr": "Menetou-Salon (Détour vignoble)"
           },
           "coords": [
             2.4855,
@@ -688,7 +735,8 @@
             "de": "Besuchen Sie ein Weingut für eine AOC-Verkostung.",
             "hu": "Látogass el egy borászatba AOC borkóstolóra.",
             "ro": "Vizitați o cramă pentru o degustare AOC.",
-            "en": "Visit a winery for an AOC wine tasting."
+            "en": "Visit a winery for an AOC wine tasting.",
+            "fr": "Visitez un domaine pour une dégustation de vins AOC."
           }
         },
         {
@@ -696,7 +744,8 @@
             "de": "Château de Menetou-Salon",
             "hu": "Menetou-Salon kastély",
             "ro": "Castelul Menetou-Salon",
-            "en": "Château de Menetou-Salon"
+            "en": "Château de Menetou-Salon",
+            "fr": "Château de Menetou-Salon"
           },
           "coords": [
             2.4885,
@@ -711,7 +760,8 @@
             "de": "Ein neugotisches Schloss im Besitz der Familie Arenberg.",
             "hu": "Neogótikus kastély az Arenberg család tulajdonában.",
             "ro": "Un castel neogotic deținut de familia Arenberg.",
-            "en": "A Neo-Gothic chateau owned by the Arenberg family."
+            "en": "A Neo-Gothic chateau owned by the Arenberg family.",
+            "fr": "Un château néo‑gothique appartenant à la famille Arenberg."
           }
         },
         {
@@ -719,7 +769,8 @@
             "de": "Bourges Altstadt (Abendessen)",
             "hu": "Bourges óváros (Vacsora)",
             "ro": "Centrul vechi Bourges (Cină)",
-            "en": "Bourges Old Town (Dinner)"
+            "en": "Bourges Old Town (Dinner)",
+            "fr": "Vieux Bourges (Dîner)"
           },
           "coords": [
             2.3934,
@@ -734,7 +785,8 @@
             "de": "Letzter Stopp für lokale Spezialitäten.",
             "hu": "Utolsó megálló helyi specialitásokhoz.",
             "ro": "Ultima oprire pentru specialități locale.",
-            "en": "Final stop for local specialties."
+            "en": "Final stop for local specialties.",
+            "fr": "Dernier arrêt pour les spécialités locales."
           }
         }
       ],
@@ -742,7 +794,8 @@
         "de": "Diese Autotour kombiniert die Highlights von Bourges mit dem umliegenden Weinland. Nach dem Besuch der Kathedrale und des Palais Jacques Cœur im Zentrum fahren Sie zu den Marais für Natur pur. Am Nachmittag verlassen Sie die Stadt für eine kurze Fahrt nach Menetou-Salon, bekannt für seine exzellenten Weißweine und sein prächtiges neugotisches Schloss, bevor Sie für den Abend nach Bourges zurückkehren.",
         "hu": "Ez az autós túra ötvözi Bourges nevezetességeit a környező borvidékkel. A központi katedrális és a Jacques Cœur palota megtekintése után a mocsarakhoz hajt, hogy élvezze a természetet. Délután elhagyja a várost egy rövid autózásra Menetou-Salon felé, amely kiváló fehérborairól és pompás neogótikus kastélyáról híres, majd este visszatér Bourges-ba.",
         "ro": "Acest tur auto combină atracțiile din Bourges cu zona viticolă înconjurătoare. După vizitarea catedralei și a Palatului Jacques Cœur din centru, mergeți la mlaștini pentru natură. După-amiaza, părăsiți orașul pentru o scurtă călătorie spre Menetou-Salon, renumit pentru vinurile sale albe excelente și castelul său neogotic superb, înainte de a reveni în Bourges pentru seară.",
-        "en": "This car tour combines the highlights of Bourges with the surrounding wine country. After visiting the central cathedral and Palais Jacques Cœur, drive to the Marshes for a touch of nature. In the afternoon, head out of town for a short drive to Menetou-Salon, famous for its excellent white wines and its magnificent Neo-Gothic chateau, before returning to Bourges for the evening."
+        "en": "This car tour combines the highlights of Bourges with the surrounding wine country. After visiting the central cathedral and Palais Jacques Cœur, drive to the Marshes for a touch of nature. In the afternoon, head out of town for a short drive to Menetou-Salon, famous for its excellent white wines and its magnificent Neo-Gothic chateau, before returning to Bourges for the evening.",
+        "fr": "Ce circuit en voiture combine les incontournables de Bourges avec le vignoble environnant. Après la visite de la cathédrale centrale et du Palais Jacques Cœur, roulez vers les Marais pour une touche de nature. L'après‑midi, sortez de la ville pour un court trajet jusqu'à Menetou‑Salon, réputé pour ses excellents vins blancs et son magnifique château néo‑gothique, avant de revenir à Bourges pour la soirée."
       },
       "gastro_picks": {
         "de": [
@@ -850,6 +903,12 @@
           "Drink responsibly during wine tastings.",
           "Chateau Menetou-Salon has seasonal opening hours.",
           "Use P+R parking lots on the outskirts."
+        ],
+        "fr": [
+          "Le stationnement en centre‑ville peut être difficile le samedi.",
+          "Buvez avec modération lors des dégustations de vin.",
+          "Le Château de Menetou‑Salon a des horaires d'ouverture saisonniers.",
+          "Utilisez les parkings P+R en périphérie."
         ]
       }
     },
@@ -866,7 +925,8 @@
             "de": "Gare de Bourges (Bahnhof)",
             "hu": "Bourges vasútállomás",
             "ro": "Gara Bourges",
-            "en": "Bourges Railway Station"
+            "en": "Bourges Railway Station",
+            "fr": "Gare de Bourges"
           },
           "coords": [
             2.3895,
@@ -881,7 +941,8 @@
             "de": "Startpunkt für Busse ins Zentrum (Linie A/B).",
             "hu": "Indulási pont a központba tartó buszokhoz (A/B vonal).",
             "ro": "Punct de plecare pentru autobuzele spre centru (Liniile A/B).",
-            "en": "Starting point for buses to the center (Lines A/B)."
+            "en": "Starting point for buses to the center (Lines A/B).",
+            "fr": "Point de départ pour les bus vers le centre (lignes A/B)."
           }
         },
         {
@@ -889,7 +950,8 @@
             "de": "Place Gordaine",
             "hu": "Place Gordaine",
             "ro": "Place Gordaine",
-            "en": "Place Gordaine"
+            "en": "Place Gordaine",
+            "fr": "Place Gordaine"
           },
           "coords": [
             2.3934,
@@ -904,7 +966,8 @@
             "de": "Haltestelle 'Planchat' nutzen.",
             "hu": "Használd a 'Planchat' megállót.",
             "ro": "Folosiți stația 'Planchat'.",
-            "en": "Use the 'Planchat' bus stop."
+            "en": "Use the 'Planchat' bus stop.",
+            "fr": "Utilisez l'arrêt de bus 'Planchat'."
           }
         },
         {
@@ -912,7 +975,8 @@
             "de": "Palais Jacques Cœur",
             "hu": "Jacques Cœur palota",
             "ro": "Palatul Jacques Cœur",
-            "en": "Palais Jacques Cœur"
+            "en": "Palais Jacques Cœur",
+            "fr": "Palais Jacques Cœur"
           },
           "coords": [
             2.3924,
@@ -927,7 +991,8 @@
             "de": "Kurzer Fußweg von der Bushaltestelle.",
             "hu": "Rövid séta a buszmegállótól.",
             "ro": "Scurtă plimbare de la stația de autobuz.",
-            "en": "Short walk from the bus stop."
+            "en": "Short walk from the bus stop.",
+            "fr": "Courte marche depuis l'arrêt de bus."
           }
         },
         {
@@ -935,7 +1000,8 @@
             "de": "Cathédrale Saint-Étienne",
             "hu": "Szent István-székesegyház",
             "ro": "Catedrala Sfântul Ștefan",
-            "en": "Cathédrale Saint-Étienne"
+            "en": "Cathédrale Saint-Étienne",
+            "fr": "Cathédrale Saint-Étienne"
           },
           "coords": [
             2.3992,
@@ -950,7 +1016,8 @@
             "de": "Buslinie 1 bis Haltestelle 'Cujas' oder 'Mairie'.",
             "hu": "1-es busz a 'Cujas' vagy 'Mairie' megállóig.",
             "ro": "Linia 1 până la stația 'Cujas' sau 'Mairie'.",
-            "en": "Bus Line 1 to 'Cujas' or 'Mairie' stop."
+            "en": "Bus Line 1 to 'Cujas' or 'Mairie' stop.",
+            "fr": "Ligne de bus 1 jusqu'aux arrêts 'Cujas' ou 'Mairie'."
           }
         },
         {
@@ -958,7 +1025,8 @@
             "de": "Musée du Berry",
             "hu": "Berry Múzeum",
             "ro": "Muzeul Berry",
-            "en": "Musée du Berry"
+            "en": "Musée du Berry",
+            "fr": "Musée du Berry"
           },
           "coords": [
             2.3931,
@@ -973,7 +1041,8 @@
             "de": "Im historischen Zentrum gelegen.",
             "hu": "A történelmi központban található.",
             "ro": "Situat în centrul istoric.",
-            "en": "Located in the historic center."
+            "en": "Located in the historic center.",
+            "fr": "Situé dans le centre historique."
           }
         },
         {
@@ -981,7 +1050,8 @@
             "de": "Jardin de l'Archevêché",
             "hu": "Érseki kert",
             "ro": "Grădina Arhiepiscopiei",
-            "en": "Jardin de l'Archevêché"
+            "en": "Jardin de l'Archevêché",
+            "fr": "Jardin de l'Archevêché"
           },
           "coords": [
             2.4012,
@@ -996,7 +1066,8 @@
             "de": "Rückfahrt zum Bahnhof ab 'Mairie'.",
             "hu": "Visszautazás az állomásra a 'Mairie' megállótól.",
             "ro": "Întoarcere la gară de la stația 'Mairie'.",
-            "en": "Return to station from 'Mairie' stop."
+            "en": "Return to station from 'Mairie' stop.",
+            "fr": "Retour à la gare depuis l'arrêt 'Mairie'."
           }
         }
       ],
@@ -1004,7 +1075,8 @@
         "de": "Nutzen Sie das effiziente Bussystem von Bourges, um die Stadt stressfrei zu erkunden. Vom Bahnhof gelangen Sie schnell in das historische Viertel um die Place Gordaine. Nach der Besichtigung der architektonischen Schätze wie dem Palais Jacques Cœur und der Kathedrale bringt Sie der Bus bequem zu den Museen und Gärten der Oberstadt, bevor Sie am Abend wieder den Hauptbahnhof erreichen.",
         "hu": "Használd Bourges hatékony buszhálózatát a város stresszmentes felfedezéséhez. A vasútállomástól gyorsan elérheted a Place Gordaine körüli történelmi negyedet. Az építészeti kincsek, mint a Jacques Cœur palota és a katedrális megtekintése után a busz kényelmesen elvisz a felsőváros múzeumaiba és kertjeibe, majd este visszatérhetsz a főpályaudvarra.",
         "ro": "Folosiți sistemul eficient de autobuze din Bourges pentru a explora orașul fără stres. De la gară, ajungeți rapid în cartierul istoric din jurul Place Gordaine. După vizitarea comorilor arhitecturale precum Palatul Jacques Cœur și catedrala, autobuzul vă duce confortabil la muzeele și grădinile din orașul de sus, înainte de a reveni seara la gara centrală.",
-        "en": "Use Bourges' efficient bus network to explore the city stress-free. From the railway station, quickly reach the historic district around Place Gordaine. After visiting architectural treasures like Palais Jacques Cœur and the cathedral, the bus takes you conveniently to the museums and gardens of the upper town, before returning to the main station in the evening."
+        "en": "Use Bourges' efficient bus network to explore the city stress-free. From the railway station, quickly reach the historic district around Place Gordaine. After visiting architectural treasures like Palais Jacques Cœur and the cathedral, the bus takes you conveniently to the museums and gardens of the upper town, before returning to the main station in the evening.",
+        "fr": "Utilisez le réseau de bus efficace de Bourges pour explorer la ville sans stress. Depuis la gare, rejoignez rapidement le quartier historique autour de la Place Gordaine. Après la visite de trésors architecturaux comme le Palais Jacques Cœur et la cathédrale, le bus vous conduit commodément aux musées et jardins de la haute ville, avant de revenir à la gare principale en soirée."
       },
       "gastro_picks": {
         "de": [
@@ -1112,6 +1184,12 @@
           "The 'Navette gratuite' serves the city center for free.",
           "Watch out for reduced schedules on Sundays.",
           "The 'Nation' stop is the central transfer point."
+        ],
+        "fr": [
+          "Achetez vos tickets auprès du conducteur ou via l'application (Agglobus).",
+          "La 'Navette gratuite' dessert le centre‑ville gratuitement.",
+          "Attention aux horaires réduits le dimanche.",
+          "L'arrêt 'Nation' est le point central d'échange."
         ]
       }
     }

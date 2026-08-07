@@ -21,7 +21,8 @@
             "de": "Hôtel Dorléans",
             "hu": "Hôtel Dorléans",
             "ro": "Hôtel Dorléans",
-            "en": "Hôtel Dorléans"
+            "en": "Hôtel Dorléans",
+            "fr": "Hôtel Dorléans"
           },
           "coords": [
             -1.471831,
@@ -36,7 +37,8 @@
             "de": "Beginnen Sie Ihren Tag an diesem eleganten Adelssitz aus dem 18. Jahrhundert und achten Sie auf die aufwendigen Steinmetzarbeiten, bevor Sie das Morgenlicht im Innenhof genießen.",
             "hu": "Kezdje a napot ennél az elegáns, 18. századi arisztokrata rezidenciánál, figyelve a bonyolult kőfaragásokra, mielőtt megcsodálná a reggeli fényeket a tágas belső udvarban.",
             "ro": "Începeți ziua la această elegantă reședință aristocratică din secolul al XVIII-lea, admirând detaliile sculpturilor în piatră înainte de a vă bucura de lumina dimineții în curte.",
-            "en": "Begin your day at this elegant aristocratic residence from the 18th century, paying attention to the intricate stonework before enjoying the morning light in its courtyard."
+            "en": "Begin your day at this elegant aristocratic residence from the 18th century, paying attention to the intricate stonework before enjoying the morning light in its courtyard.",
+            "fr": "Commencez la journée dans cette élégante résidence aristocratique du XVIIIe siècle, en prêtant attention aux sculptures de pierre avant de profiter de la lumière du matin dans sa cour."
           }
         },
         {
@@ -44,7 +46,8 @@
             "de": "Kirche Saint-Malo",
             "hu": "Saint-Malo templom",
             "ro": "Biserica Saint-Malo",
-            "en": "Saint-Malo Church"
+            "en": "Saint-Malo Church",
+            "fr": "Église Saint-Malo"
           },
           "coords": [
             -1.469385,
@@ -59,7 +62,8 @@
             "de": "Bewundern Sie die beeindruckende gotische Architektur und die wunderschön restaurierten Buntglasfenster dieser historischen Kirche, aber nehmen Sie Rücksicht auf laufende Gottesdienste.",
             "hu": "Csodálja meg a történelmi templom lenyűgöző gótikus építészetét és gyönyörűen felújított ólomüveg ablakait, de látogatásakor legyen tekintettel a folyamatban lévő istentiszteletekre.",
             "ro": "Admirați arhitectura gotică impresionantă și vitraliile frumos restaurate ale acestei biserici istorice, dar asigurați-vă că respectați slujbele în desfășurare în timpul vizitei.",
-            "en": "Admire the impressive Gothic architecture and the beautifully restored stained glass windows of this historic church, but remember to respect ongoing services during your visit."
+            "en": "Admire the impressive Gothic architecture and the beautifully restored stained glass windows of this historic church, but remember to respect ongoing services during your visit.",
+            "fr": "Admirez l'impressionnante architecture gothique et les vitraux magnifiquement restaurés de cette église historique, mais pensez à respecter les offices en cours lors de votre visite."
           }
         },
         {
@@ -67,7 +71,8 @@
             "de": "Hôtel de Thieuville",
             "hu": "Hôtel de Thieuville",
             "ro": "Hôtel de Thieuville",
-            "en": "Hôtel de Thieuville"
+            "en": "Hôtel de Thieuville",
+            "fr": "Hôtel de Thieuville"
           },
           "coords": [
             -1.469083,
@@ -82,7 +87,8 @@
             "de": "Erkunden Sie die majestätischen Fassaden dieses bemerkenswerten Herrenhauses, das die große Vergangenheit von Valognes widerspiegelt, und bringen Sie ein Weitwinkelobjektiv mit.",
             "hu": "Fedezze fel ennek a figyelemre méltó kúriának a fenséges homlokzatát, amely Valognes normandiai Versailles-ként ismert múltját tükrözi, és hozzon magával nagylátószögű objektívet.",
             "ro": "Explorați fațadele maiestuoase ale acestui conac remarcabil care reflectă trecutul grandios al orașului Valognes, aducând o lentilă cu unghi larg pentru a-i surprinde adevărata amploare.",
-            "en": "Explore the majestic facades of this notable mansion which reflects Valognes' grand past as the Versailles of Normandy, bringing a wide-angle lens to capture its true scale."
+            "en": "Explore the majestic facades of this notable mansion which reflects Valognes' grand past as the Versailles of Normandy, bringing a wide-angle lens to capture its true scale.",
+            "fr": "Explorez les façades majestueuses de ce manoir remarquable qui reflète le grand passé de Valognes en tant que Versailles de Normandie, apportez un objectif grand-angle pour en capturer l'échelle réelle."
           }
         },
         {
@@ -90,7 +96,8 @@
             "de": "Hôtel de Grandval-Caligny",
             "hu": "Hôtel de Grandval-Caligny",
             "ro": "Hôtel de Grandval-Caligny",
-            "en": "Hôtel de Grandval-Caligny"
+            "en": "Hôtel de Grandval-Caligny",
+            "fr": "Hôtel de Grandval-Caligny"
           },
           "coords": [
             -1.467238,
@@ -105,7 +112,8 @@
             "de": "Nehmen Sie sich einen Moment Zeit für die klassische französische Architektur dieses geschichtsträchtigen Gebäudes und prüfen Sie die Zeiten für den Zugang zu den verborgenen Gärten.",
             "hu": "Szánjon egy percet az épület klasszikus francia építészeti eleganciájának értékelésére, és ellenőrizze a látogatóközpont nyitvatartását a rejtett belső kertek megtekintéséhez.",
             "ro": "Luați-vă un moment pentru a aprecia eleganța arhitecturală clasică a acestei clădiri și verificați programul centrului de vizitare pentru acces la grădinile sale interioare ascunse.",
-            "en": "Take a moment to appreciate the classic French architectural elegance of this storied building, and check the local visitor center schedule for access to its hidden inner gardens."
+            "en": "Take a moment to appreciate the classic French architectural elegance of this storied building, and check the local visitor center schedule for access to its hidden inner gardens.",
+            "fr": "Prenez un moment pour apprécier l'élégance architecturale française classique de ce bâtiment historique, et consultez le centre d'information local pour l'accès à ses jardins intérieurs cachés."
           }
         },
         {
@@ -113,7 +121,8 @@
             "de": "Hôtel de Beaumont",
             "hu": "Hôtel de Beaumont",
             "ro": "Hôtel de Beaumont",
-            "en": "Hôtel de Beaumont"
+            "en": "Hôtel de Beaumont",
+            "fr": "Hôtel de Beaumont"
           },
           "coords": [
             -1.4703,
@@ -128,7 +137,8 @@
             "de": "Bestaunen Sie die monumentale Treppe und die üppigen Innenräume dieses prächtigen Stadtpalais und nehmen Sie an einer Führung teil, um seine aristokratische Geschichte zu verstehen.",
             "hu": "Csodálja meg a csodálatos városi palota monumentális lépcsőházát és pazar belső tereit, és feltétlenül csatlakozzon egy tárlatvezetéshez, hogy megismerje arisztokratikus történetét.",
             "ro": "Minunați-vă de scara monumentală grandioasă și de interioarele somptuoase ale acestui palat magnific, asigurându-vă că participați la un tur ghidat pentru a-i înțelege istoria.",
-            "en": "Marvel at the grand monumental staircase and lavish interiors of this magnificent town mansion, making sure to join a guided tour to fully understand its aristocratic history."
+            "en": "Marvel at the grand monumental staircase and lavish interiors of this magnificent town mansion, making sure to join a guided tour to fully understand its aristocratic history.",
+            "fr": "Émerveillez-vous devant le grand escalier monumental et les intérieurs somptueux de cet hôtel particulier magnifique, pensez à participer à une visite guidée pour comprendre pleinement son histoire aristocratique."
           }
         },
         {
@@ -136,7 +146,8 @@
             "de": "Abtei Notre-Dame-de-Protection",
             "hu": "Notre-Dame-de-Protection apátság",
             "ro": "Abația Notre-Dame-de-Protection",
-            "en": "Notre-Dame-de-Protection Abbey"
+            "en": "Notre-Dame-de-Protection Abbey",
+            "fr": "Abbaye Notre-Dame-de-Protection"
           },
           "coords": [
             -1.464486,
@@ -151,7 +162,8 @@
             "de": "Erleben Sie die ruhige Atmosphäre dieser aktiven Benediktinerabtei bei einem Spaziergang durch die Innenhöfe und erwägen Sie den Kauf handgefertigter Produkte aus dem Klosterladen.",
             "hu": "Tapasztalja meg az aktív bencés apátság nyugodt atmoszféráját a békés udvarokon sétálva, és fontolja meg az apácák által készített kézműves termékek vásárlását az ajándékboltban.",
             "ro": "Experimentați atmosfera liniștită a acestei abații benedictine active plimbându-vă prin curțile sale pașnice și luați în considerare achiziționarea de obiecte realizate manual.",
-            "en": "Experience the tranquil atmosphere of this active Benedictine abbey by quietly walking through its peaceful courtyards, and consider purchasing handmade items from the nuns' shop."
+            "en": "Experience the tranquil atmosphere of this active Benedictine abbey by quietly walking through its peaceful courtyards, and consider purchasing handmade items from the nuns' shop.",
+            "fr": "Vivez l'atmosphère tranquille de cette abbaye bénédictine active en vous promenant discrètement dans ses paisibles cours, et pensez à acheter des articles faits main à la boutique des religieuses."
           }
         }
       ],
@@ -159,7 +171,8 @@
         "de": "Beginnen Sie den Morgen in Valognes und entdecken Sie den aristokratischen Charme des Hôtel Dorléans und die Anmut der Kirche Saint-Malo. Tauchen Sie mittags in die Erhabenheit des Hôtel de Thieuville und des Hôtel de Grandval-Caligny ein. Der Nachmittag ist dem spektakulären Hôtel de Beaumont und dem ruhigen Klostergelände der Abtei Notre-Dame vorbehalten. Verbringen Sie den Abend mit einem entspannten normannischen Abendessen und reflektieren Sie die reiche Geschichte.",
         "hu": "Kezdje a reggelt Valognes-ban barangolva, felfedezve a Hôtel Dorléans arisztokratikus varázsát és a Saint-Malo templom csendes eleganciáját. Délben merüljön el a Hôtel de Thieuville nagyszerűségében és a Hôtel de Grandval-Caligny klasszikus vonalaiban. A délutánt a látványos Hôtel de Beaumont és a Notre-Dame-de-Protection apátság nyugodt kolostori területének tartogassa. Az estét egy nyugodt normandiai vacsora mellett töltse, átgondolva a város gazdag örökségét.",
         "ro": "Începeți dimineața rătăcind prin Valognes, descoperind farmecul aristocratic al Hôtel Dorléans și eleganța liniștită a Bisericii Saint-Malo. La prânz, cufundați-vă în grandoarea Hôtel de Thieuville și liniile clasice ale Hôtel de Grandval-Caligny. După-amiaza este rezervată spectaculosului Hôtel de Beaumont și terenurilor monahale senine ale Abației Notre-Dame. Petreceți-vă seara reflectând asupra moștenirii bogate a orașului în timpul unei cine relaxate normande.",
-        "en": "Start your morning wandering through Valognes, uncovering the aristocratic charm of Hôtel Dorléans and the quiet grace of Saint-Malo Church. At midday, immerse yourself in the grandeur of Hôtel de Thieuville and the classic lines of Hôtel de Grandval-Caligny. The afternoon is reserved for the spectacular Hôtel de Beaumont and the serene monastic grounds of Notre-Dame-de-Protection Abbey. Spend your evening reflecting on the city's rich heritage over a relaxed local Norman dinner."
+        "en": "Start your morning wandering through Valognes, uncovering the aristocratic charm of Hôtel Dorléans and the quiet grace of Saint-Malo Church. At midday, immerse yourself in the grandeur of Hôtel de Thieuville and the classic lines of Hôtel de Grandval-Caligny. The afternoon is reserved for the spectacular Hôtel de Beaumont and the serene monastic grounds of Notre-Dame-de-Protection Abbey. Spend your evening reflecting on the city's rich heritage over a relaxed local Norman dinner.",
+        "fr": "Commencez votre matinée à déambuler dans Valognes, découvrant le charme aristocratique de l'Hôtel Dorléans et la grâce tranquille de l'église Saint-Malo. À midi, imprégnez-vous de la grandeur de l'Hôtel de Thieuville et des lignes classiques de l'Hôtel de Grandval-Caligny. L'après-midi est réservé au spectaculaire Hôtel de Beaumont et aux paisibles terrains monastiques de l'abbaye Notre-Dame-de-Protection. Passez votre soirée à réfléchir au riche patrimoine de la ville autour d'un dîner normand tranquille."
       },
       "variants": {
         "rainy": {
@@ -167,7 +180,8 @@
             "de": "Beginnen Sie Ihren regnerischen Morgen am eleganten Hôtel Dorléans und suchen Sie Zuflucht in der Kirche Saint-Malo. Spazieren Sie mittags mit einem großen Regenschirm vorbei am Hôtel de Thieuville und Hôtel de Grandval-Caligny. Verbringen Sie den nassen Nachmittag im Hôtel de Beaumont und der friedlichen Abtei. Beenden Sie den Tag bei einem gemütlichen Abendessen im Trockenen.",
             "hu": "Kezdje esős reggelét a lenyűgöző Hôtel Dorléans-nál, majd keressen menedéket a hatalmas Saint-Malo templomban. Délben masszív esernyővel sétáljon el a történelmi Hôtel de Thieuville és Hôtel de Grandval-Caligny mellett. A nedves délutánt a csodás Hôtel de Beaumont és a békés apátság falai között töltheti. Zárja a napot egy hangulatos beltéri vacsorával.",
             "ro": "Începeți dimineața ploioasă la elegantul Hôtel Dorléans, apoi adăpostiți-vă în măreața Biserică Saint-Malo. La prânz, treceți cu o umbrelă pe lângă istoricele Hôtel de Thieuville și Hôtel de Grandval-Caligny. Petreceți după-amiaza admirând interioarele Hôtel de Beaumont și pașnica Abație. Încheiați ziua cu o cină caldă, la adăpost de vremea rea.",
-            "en": "Start your rainy morning exploring the elegant Hôtel Dorléans, then seek shelter inside the grand Saint-Malo Church. By noon, wander past the historic Hôtel de Thieuville and Hôtel de Grandval-Caligny with a sturdy umbrella. Spend the wet afternoon admiring the interiors of Hôtel de Beaumont and the peaceful Abbey. Wrap up with a warm evening meal indoors."
+            "en": "Start your rainy morning exploring the elegant Hôtel Dorléans, then seek shelter inside the grand Saint-Malo Church. By noon, wander past the historic Hôtel de Thieuville and Hôtel de Grandval-Caligny with a sturdy umbrella. Spend the wet afternoon admiring the interiors of Hôtel de Beaumont and the peaceful Abbey. Wrap up with a warm evening meal indoors.",
+            "fr": "Commencez votre matinée pluvieuse en explorant l'élégant Hôtel Dorléans, puis mettez-vous à l'abri dans la grande église Saint-Malo. À midi, promenez-vous devant les historiques Hôtel de Thieuville et Hôtel de Grandval-Caligny avec un parapluie solide. Passez l'après-midi humide à admirer les intérieurs de l'Hôtel de Beaumont et de l'abbaye paisible. Terminez par un dîner chaleureux à l'intérieur."
           },
           "stops": [
             {
@@ -175,13 +189,15 @@
                 "de": "Hôtel Dorléans",
                 "hu": "Hôtel Dorléans",
                 "ro": "Hôtel Dorléans",
-                "en": "Hôtel Dorléans"
+                "en": "Hôtel Dorléans",
+                "fr": "Hôtel Dorléans"
               },
               "tip_5lang": {
                 "de": "Bewundern Sie die markante Fassade dieses eleganten Stadthauses und nutzen Sie einen stabilen Regenschirm im nassen, historischen Innenhof.",
                 "hu": "Csodálja meg e főúri palota elegáns homlokzatát, és használjon egy masszív esernyőt, miközben felfedezi az esőtől áztatott, történelmi udvart.",
                 "ro": "Admirați fațada impresionantă a acestui palat aristocratic elegant și folosiți o umbrelă rezistentă în curtea sa istorică spălată de ploaie.",
-                "en": "Admire the striking facade of this elegant aristocratic townhouse, and use a sturdy umbrella as you explore its rain-washed, historic courtyard."
+                "en": "Admire the striking facade of this elegant aristocratic townhouse, and use a sturdy umbrella as you explore its rain-washed, historic courtyard.",
+                "fr": "Admirez la façade saisissante de cet élégant hôtel particulier aristocratique, et utilisez un parapluie solide en explorant sa cour historique lavée par la pluie."
               }
             },
             {
@@ -189,13 +205,15 @@
                 "de": "Kirche Saint-Malo",
                 "hu": "Saint-Malo templom",
                 "ro": "Biserica Saint-Malo",
-                "en": "Saint-Malo Church"
+                "en": "Saint-Malo Church",
+                "fr": "Église Saint-Malo"
               },
               "tip_5lang": {
                 "de": "Suchen Sie im Inneren Zuflucht vor dem Regen und bewundern Sie die beeindruckenden Kreuzrippengewölbe sowie die prächtigen Buntglasfenster.",
                 "hu": "Keressen menedéket az eső elől, és csodálja meg a lenyűgöző bordás boltozatokat, valamint a borút megtörő, gyönyörű ólomüveg ablakokat.",
                 "ro": "Căutați refugiu în interior pentru a admira bolțile impresionante cu nervuri și vitraliile magnifice care luminează atmosfera întunecată.",
-                "en": "Seek refuge from the rain inside to marvel at the impressive ribbed vaults and stunning stained glass windows illuminating the ambient gloom."
+                "en": "Seek refuge from the rain inside to marvel at the impressive ribbed vaults and stunning stained glass windows illuminating the ambient gloom.",
+                "fr": "Mettez-vous à l'abri de la pluie pour admirer les impressionnantes voûtes nervurées et les vitraux éblouissants qui illuminent la pénombre ambiante."
               }
             },
             {
@@ -203,13 +221,15 @@
                 "de": "Hôtel de Thieuville",
                 "hu": "Hôtel de Thieuville",
                 "ro": "Hôtel de Thieuville",
-                "en": "Hôtel de Thieuville"
+                "en": "Hôtel de Thieuville",
+                "fr": "Hôtel de Thieuville"
               },
               "tip_5lang": {
                 "de": "Beachten Sie die eleganten architektonischen Details dieses Herrenhauses, aber achten Sie auf Ihre Schritte auf dem nassen Kopfsteinpflaster.",
                 "hu": "Figyelje meg e történelmi kúria elegáns építészeti részleteit, de nagyon ügyeljen a lépéseire a csúszós, nedves macskaköves utcákon.",
                 "ro": "Observați detaliile arhitecturale elegante ale acestui conac istoric, dar aveți mare grijă la pașii dumneavoastră pe piatra cubică umedă.",
-                "en": "Notice the elegant architectural details of this historic mansion, but be very careful and watch your step on the wet, slippery cobblestones."
+                "en": "Notice the elegant architectural details of this historic mansion, but be very careful and watch your step on the wet, slippery cobblestones.",
+                "fr": "Remarquez les détails architecturaux élégants de ce manoir historique, mais soyez très prudent et surveillez vos pas sur les pavés mouillés et glissants."
               }
             },
             {
@@ -217,13 +237,15 @@
                 "de": "Hôtel de Grandval-Caligny",
                 "hu": "Hôtel de Grandval-Caligny",
                 "ro": "Hôtel de Grandval-Caligny",
-                "en": "Hôtel de Grandval-Caligny"
+                "en": "Hôtel de Grandval-Caligny",
+                "fr": "Hôtel de Grandval-Caligny"
               },
               "tip_5lang": {
                 "de": "Betrachten Sie das raffinierte Äußere dieser Residenz und halten Sie Ihre wasserdichte Jacke für plötzliche Regengüsse stets griffbereit.",
                 "hu": "Nézze meg ennek a korábbi nemesi rezidenciának a kifinomult külsejét, és tartsa kéznél vízálló kabátját a hirtelen jövő záporok esetére.",
                 "ro": "Priviți exteriorul rafinat al acestei foste reședințe nobiliare, păstrându-vă jacheta impermeabilă la îndemână pentru aversele bruște.",
-                "en": "View the refined exterior of this former noble residence, always keeping your waterproof jacket handy for sudden, unexpected heavy downpours."
+                "en": "View the refined exterior of this former noble residence, always keeping your waterproof jacket handy for sudden, unexpected heavy downpours.",
+                "fr": "Contemplez l'extérieur raffiné de cette ancienne résidence noble, en gardant toujours votre veste imperméable à portée de main pour les averses soudaines et intenses."
               }
             },
             {
@@ -231,13 +253,15 @@
                 "de": "Hôtel de Beaumont",
                 "hu": "Hôtel de Beaumont",
                 "ro": "Hôtel de Beaumont",
-                "en": "Hôtel de Beaumont"
+                "en": "Hôtel de Beaumont",
+                "fr": "Hôtel de Beaumont"
               },
               "tip_5lang": {
                 "de": "Treten Sie ein, um die luxuriös eingerichteten Räume zu entdecken – ein perfekter, trockener Rückzugsort vor dem anhaltenden Nachmittagsregen.",
                 "hu": "Lépjen be, hogy felfedezze a gazdagon díszített szobákat; ez a kúria tökéletes, száraz menedéket nyújt a kitartó délutáni esőzés elől.",
                 "ro": "Pășiți înăuntru pentru a descoperi camerele somptuos decorate, o evadare uscată perfectă din calea ploii persistente de după-amiază.",
-                "en": "Step inside to discover the lavishly decorated rooms of this mansion, serving as a perfect, completely dry escape from the afternoon drizzle."
+                "en": "Step inside to discover the lavishly decorated rooms of this mansion, serving as a perfect, completely dry escape from the afternoon drizzle.",
+                "fr": "Entrez pour découvrir les pièces richement décorées de cet hôtel particulier, parfait refuge totalement sec contre la bruine de l'après-midi."
               }
             },
             {
@@ -245,13 +269,15 @@
                 "de": "Abtei Notre-Dame-de-Protection",
                 "hu": "Notre-Dame-de-Protection apátság",
                 "ro": "Abația Notre-Dame-de-Protection",
-                "en": "Notre-Dame-de-Protection Abbey"
+                "en": "Notre-Dame-de-Protection Abbey",
+                "fr": "Abbaye Notre-Dame-de-Protection"
               },
               "tip_5lang": {
                 "de": "Finden Sie Frieden in dieser Abtei; die überdachten Kreuzgänge bieten hervorragenden Schutz vor dem ungemütlichen Küstenregen der Normandie.",
                 "hu": "Találjon békére ebben az apátságban; a fedett kerengők kiváló védelmet és menedéket nyújtanak a kellemetlen normandiai parti esőzés ellen.",
                 "ro": "Găsiți liniște în această abație; mănăstirile acoperite oferă un adăpost excelent împotriva ploii de coastă persistente din Normandia.",
-                "en": "Find absolute peace in this abbey; the beautiful covered cloisters offer excellent shelter from the persistent, chilly coastal rain of Normandy."
+                "en": "Find absolute peace in this abbey; the beautiful covered cloisters offer excellent shelter from the persistent, chilly coastal rain of Normandy.",
+                "fr": "Trouvez une paix absolue dans cette abbaye ; les beaux cloîtres couverts offrent un excellent abri contre la pluie côtière persistante et fraîche de Normandie."
               }
             }
           ]
@@ -261,7 +287,8 @@
             "de": "Genießen Sie den frostigen Morgen am Hôtel Dorléans und wärmen Sie sich in der Kirche Saint-Malo auf. Packen Sie sich mittags warm ein, um das Hôtel de Thieuville und das Hôtel de Grandval-Caligny zu erkunden. Der Nachmittag ist ideal für die Innenräume des Hôtel de Beaumont und die Abtei Notre-Dame-de-Protection. Beenden Sie die Tour vor dem frühen Sonnenuntergang um 17:00 Uhr.",
             "hu": "Élvezze a csípős téli reggelt a Hôtel Dorléans-nál, majd melegedjen fel a lenyűgöző Saint-Malo templomban. Délben öltözzön rétegesen a Hôtel de Thieuville és a Hôtel de Grandval-Caligny felfedezéséhez. A hűvös délután tökéletes a Hôtel de Beaumont és a csendes Notre-Dame-de-Protection apátság megtekintésére. Zárja a sétát a korai, 17:00 körüli naplemente előtt.",
             "ro": "Bucurați-vă de o dimineață geroasă la Hôtel Dorléans înainte de a vă încălzi în Biserica Saint-Malo. La prânz, îmbrăcați-vă gros pentru a explora Hôtel de Thieuville și Hôtel de Grandval-Caligny. După-amiaza rece este perfectă pentru interioarele primitoare de la Hôtel de Beaumont și pașnica Abație Notre-Dame-de-Protection. Finalizați traseul înaintea apusului timpuriu de la ora 17:00.",
-            "en": "Enjoy a crisp winter morning admiring Hôtel Dorléans before warming up inside the magnificent Saint-Malo Church. At noon, bundle up to explore the grand Hôtel de Thieuville and the stately Hôtel de Grandval-Caligny. The chilly afternoon is perfect for the cozy interiors of Hôtel de Beaumont and the quiet Notre-Dame-de-Protection Abbey. Finish before the early sunset around 5 PM."
+            "en": "Enjoy a crisp winter morning admiring Hôtel Dorléans before warming up inside the magnificent Saint-Malo Church. At noon, bundle up to explore the grand Hôtel de Thieuville and the stately Hôtel de Grandval-Caligny. The chilly afternoon is perfect for the cozy interiors of Hôtel de Beaumont and the quiet Notre-Dame-de-Protection Abbey. Finish before the early sunset around 5 PM.",
+            "fr": "Profitez d'une matinée hivernale fraîche en admirant l'Hôtel Dorléans avant de vous réchauffer dans la magnifique église Saint-Malo. À midi, emmitouflez-vous pour explorer le grand Hôtel de Thieuville et le noble Hôtel de Grandval-Caligny. L'après-midi frais est parfait pour les intérieurs douillets de l'Hôtel de Beaumont et le calme de l'abbaye Notre-Dame-de-Protection. Terminez avant le coucher du soleil anticipé vers 17:00."
           },
           "stops": [
             {
@@ -269,13 +296,15 @@
                 "de": "Hôtel Dorléans",
                 "hu": "Hôtel Dorléans",
                 "ro": "Hôtel Dorléans",
-                "en": "Hôtel Dorléans"
+                "en": "Hôtel Dorléans",
+                "fr": "Hôtel Dorléans"
               },
               "tip_5lang": {
                 "de": "Fotografieren Sie die Architektur im weichen Winterlicht und tragen Sie dicke Handschuhe gegen die eiskalte Brise der Normandie.",
                 "hu": "Fotózza le az elegáns építészetet a lágy téli fényben, és viseljen vastag kesztyűt a csípős normandiai szél elleni védekezésképpen.",
                 "ro": "Fotografiați arhitectura elegantă în lumina blândă de iarnă, asigurându-vă că purtați mănuși groase împotriva brizei reci din Normandia.",
-                "en": "Take photos of the elegant architecture bathed in soft winter light, ensuring you wear thick gloves against the cold, biting Normandy breeze."
+                "en": "Take photos of the elegant architecture bathed in soft winter light, ensuring you wear thick gloves against the cold, biting Normandy breeze.",
+                "fr": "Prenez des photos de l'architecture élégante baignée d'une douce lumière hivernale, en vous assurant de porter des gants épais contre la brise normande froide et mordante."
               }
             },
             {
@@ -283,13 +312,15 @@
                 "de": "Kirche Saint-Malo",
                 "hu": "Saint-Malo templom",
                 "ro": "Biserica Saint-Malo",
-                "en": "Saint-Malo Church"
+                "en": "Saint-Malo Church",
+                "fr": "Église Saint-Malo"
               },
               "tip_5lang": {
                 "de": "Treten Sie in das riesige Kirchenschiff ein, um dem eisigen Wind zu entkommen und das wunderschöne Mauerwerk in der Winterstimmung zu bewundern.",
                 "hu": "Lépjen be a hatalmas hajóba, hogy elmeneküljön a fagyos szél elől, és megcsodálja a téli homályban is feltűnő, gyönyörű kőfaragásokat.",
                 "ro": "Intrați în nava vastă pentru a scăpa de vântul tăios și admirați frumoasa lucrare în piatră care iese în evidență în întunericul iernii.",
-                "en": "Step inside the vast nave to escape the biting winter wind and fully admire the beautiful stonework that stands out in the seasonal gloom."
+                "en": "Step inside the vast nave to escape the biting winter wind and fully admire the beautiful stonework that stands out in the seasonal gloom.",
+                "fr": "Pénétrez dans la vaste nef pour échapper au vent mordant de l'hiver et admirer pleinement le beau travail de pierre qui ressort dans la pénombre saisonnière."
               }
             },
             {
@@ -297,13 +328,15 @@
                 "de": "Hôtel de Thieuville",
                 "hu": "Hôtel de Thieuville",
                 "ro": "Hôtel de Thieuville",
-                "en": "Hôtel de Thieuville"
+                "en": "Hôtel de Thieuville",
+                "fr": "Hôtel de Thieuville"
               },
               "tip_5lang": {
                 "de": "Schätzen Sie die klassische Fassade aus dem 18. Jahrhundert und wickeln Sie Ihren Schal fest um, während Sie durch die frostigen Straßen gehen.",
                 "hu": "Értékelje a klasszikus 18. századi homlokzatot, és tekerje szorosan a nyaka köré a sálját, miközben a történelmi, fagyos utcákon sétál.",
                 "ro": "Apreciați fațada clasică din secolul al XVIII-lea, ținându-vă fularul strâns înfășurat în timp ce vă plimbați pe străzile istorice geroase.",
-                "en": "Appreciate the classic 18th-century facade, making sure to keep your scarf wrapped tightly while walking the historic, frosty city streets."
+                "en": "Appreciate the classic 18th-century facade, making sure to keep your scarf wrapped tightly while walking the historic, frosty city streets.",
+                "fr": "Appréciez la façade classique du XVIIIe siècle, en veillant à garder votre écharpe bien serrée en parcourant les rues historiques et glacées."
               }
             },
             {
@@ -311,13 +344,15 @@
                 "de": "Hôtel de Grandval-Caligny",
                 "hu": "Hôtel de Grandval-Caligny",
                 "ro": "Hôtel de Grandval-Caligny",
-                "en": "Hôtel de Grandval-Caligny"
+                "en": "Hôtel de Grandval-Caligny",
+                "fr": "Hôtel de Grandval-Caligny"
               },
               "tip_5lang": {
                 "de": "Beobachten Sie den majestätischen Eingang dieses markanten Herrenhauses und nutzen Sie die ruhige Wintersaison für eine menschenleere Besichtigung.",
                 "hu": "Figyelje meg ennek a kiemelkedő kúriának a fenséges bejáratát, kihasználva a csendes téli szezont a tömegmentes, nyugodt városnézéshez.",
                 "ro": "Observați intrarea maiestuoasă a acestui conac proeminent, profitând de sezonul liniștit de iarnă pentru o vizionare fără aglomerație.",
-                "en": "Observe the majestic entrance of this prominent mansion, taking full advantage of the quiet winter season for a peaceful, crowd-free viewing."
+                "en": "Observe the majestic entrance of this prominent mansion, taking full advantage of the quiet winter season for a peaceful, crowd-free viewing.",
+                "fr": "Observez l'entrée majestueuse de cette demeure de prestige, profitant pleinement de la saison hivernale tranquille pour une visite paisible sans foule."
               }
             },
             {
@@ -325,13 +360,15 @@
                 "de": "Hôtel de Beaumont",
                 "hu": "Hôtel de Beaumont",
                 "ro": "Hôtel de Beaumont",
-                "en": "Hôtel de Beaumont"
+                "en": "Hôtel de Beaumont",
+                "fr": "Hôtel de Beaumont"
               },
               "tip_5lang": {
                 "de": "Ziehen Sie sich in dieses luxuriöse historische Haus zurück, um sich aufzuwärmen und in den Wintermonaten mehr über Valognes' Vergangenheit zu erfahren.",
                 "hu": "Húzódjon be ebbe a pazar történelmi otthonba, hogy felmelegedjen, miközben megismeri Valognes gazdag, arisztokratikus múltját a téli hónapokban.",
                 "ro": "Retrageți-vă în această casă istorică somptuoasă pentru a vă încălzi în timp ce aflați despre bogatul trecut aristocratic din Valognes pe timp de iarnă.",
-                "en": "Retreat inside this lavish historical home to warm up comfortably while learning about Valognes' rich aristocratic past during the cold winter."
+                "en": "Retreat inside this lavish historical home to warm up comfortably while learning about Valognes' rich aristocratic past during the cold winter.",
+                "fr": "Retirez-vous à l'intérieur de cette somptueuse maison historique pour vous réchauffer confortablement tout en découvrant le riche passé aristocratique de Valognes durant le froid hivernal."
               }
             },
             {
@@ -339,13 +376,15 @@
                 "de": "Abtei Notre-Dame-de-Protection",
                 "hu": "Notre-Dame-de-Protection apátság",
                 "ro": "Abația Notre-Dame-de-Protection",
-                "en": "Notre-Dame-de-Protection Abbey"
+                "en": "Notre-Dame-de-Protection Abbey",
+                "fr": "Abbaye Notre-Dame-de-Protection"
               },
               "tip_5lang": {
                 "de": "Spazieren Sie warm eingepackt durch das ruhige Abteigelände und genießen Sie die friedlichen, frostbedeckten klösterlichen Gärten.",
                 "hu": "Sétáljon végig a nyugodt apátsági területen egy meleg kabátba burkolózva, és élvezze a békés, dérrel borított gyönyörű kolostorkerteket.",
                 "ro": "Plimbați-vă prin domeniul senin al abației înfofolit într-o haină caldă, bucurându-vă de grădinile monahale pașnice, acoperite de brumă.",
-                "en": "Walk through the serene abbey grounds completely wrapped up in a warm coat, enjoying the peaceful, beautifully frost-covered monastic gardens."
+                "en": "Walk through the serene abbey grounds completely wrapped up in a warm coat, enjoying the peaceful, beautifully frost-covered monastic gardens.",
+                "fr": "Parcourez les jardins sereins de l'abbaye bien emmitouflé dans un manteau chaud, en profitant des magnifiques jardins monastiques couverts de givre."
               }
             }
           ]
@@ -365,7 +404,8 @@
             "de": "Hôtel Dorléans",
             "hu": "Hôtel Dorléans",
             "ro": "Hôtel Dorléans",
-            "en": "Hôtel Dorléans"
+            "en": "Hôtel Dorléans",
+            "fr": "Hôtel Dorléans"
           },
           "coords": [
             -1.471831,
@@ -380,7 +420,8 @@
             "de": "Beginnen Sie Ihren Tag an diesem eleganten Adelssitz aus dem 18. Jahrhundert und achten Sie auf die aufwendigen Steinmetzarbeiten, bevor Sie das Morgenlicht im Innenhof genießen.",
             "hu": "Kezdje a napot ennél az elegáns, 18. századi arisztokrata rezidenciánál, figyelve a bonyolult kőfaragásokra, mielőtt megcsodálná a reggeli fényeket a tágas belső udvarban.",
             "ro": "Începeți ziua la această elegantă reședință aristocratică din secolul al XVIII-lea, admirând detaliile sculpturilor în piatră înainte de a vă bucura de lumina dimineții în curte.",
-            "en": "Begin your day at this elegant aristocratic residence from the 18th century, paying attention to the intricate stonework before enjoying the morning light in its courtyard."
+            "en": "Begin your day at this elegant aristocratic residence from the 18th century, paying attention to the intricate stonework before enjoying the morning light in its courtyard.",
+            "fr": "Commencez votre journée dans cette élégante résidence aristocratique du XVIIIe siècle, en observant les sculptures de pierre finement travaillées avant d'apprécier la lumière matinale dans sa cour."
           }
         },
         {
@@ -388,7 +429,8 @@
             "de": "Kirche Saint-Malo",
             "hu": "Saint-Malo templom",
             "ro": "Biserica Saint-Malo",
-            "en": "Saint-Malo Church"
+            "en": "Saint-Malo Church",
+            "fr": "Église Saint-Malo"
           },
           "coords": [
             -1.469385,
@@ -403,7 +445,8 @@
             "de": "Bewundern Sie die beeindruckende gotische Architektur und die wunderschön restaurierten Buntglasfenster dieser historischen Kirche, aber nehmen Sie Rücksicht auf laufende Gottesdienste.",
             "hu": "Csodálja meg a történelmi templom lenyűgöző gótikus építészetét és gyönyörűen felújított ólomüveg ablakait, de látogatásakor legyen tekintettel a folyamatban lévő istentiszteletekre.",
             "ro": "Admirați arhitectura gotică impresionantă și vitraliile frumos restaurate ale acestei biserici istorice, dar asigurați-vă că respectați slujbele în desfășurare în timpul vizitei.",
-            "en": "Admire the impressive Gothic architecture and the beautifully restored stained glass windows of this historic church, but remember to respect ongoing services during your visit."
+            "en": "Admire the impressive Gothic architecture and the beautifully restored stained glass windows of this historic church, but remember to respect ongoing services during your visit.",
+            "fr": "Admirez l'impressionnante architecture gothique et les vitraux magnifiquement restaurés de cette église historique, en veillant à respecter les offices en cours pendant votre visite."
           }
         },
         {
@@ -411,7 +454,8 @@
             "de": "Hôtel de Beaumont",
             "hu": "Hôtel de Beaumont",
             "ro": "Hôtel de Beaumont",
-            "en": "Hôtel de Beaumont"
+            "en": "Hôtel de Beaumont",
+            "fr": "Hôtel de Beaumont"
           },
           "coords": [
             -1.4703,
@@ -426,7 +470,8 @@
             "de": "Bestaunen Sie die monumentale Treppe und die üppigen Innenräume dieses prächtigen Stadtpalais und nehmen Sie an einer Führung teil, um seine aristokratische Geschichte zu verstehen.",
             "hu": "Csodálja meg a csodálatos városi palota monumentális lépcsőházát és pazar belső tereit, és feltétlenül csatlakozzon egy tárlatvezetéshez, hogy megismerje arisztokratikus történetét.",
             "ro": "Minunați-vă de scara monumentală grandioasă și de interioarele somptuoase ale acestui palat magnific, asigurându-vă că participați la un tur ghidat pentru a-i înțelege istoria.",
-            "en": "Marvel at the grand monumental staircase and lavish interiors of this magnificent town mansion, making sure to join a guided tour to fully understand its aristocratic history."
+            "en": "Marvel at the grand monumental staircase and lavish interiors of this magnificent town mansion, making sure to join a guided tour to fully understand its aristocratic history.",
+            "fr": "Émerveillez-vous devant le grand escalier monumental et les intérieurs somptueux de cette magnifique demeure urbaine, en prenant soin de participer à une visite guidée pour comprendre pleinement son histoire aristocratique."
           }
         },
         {
@@ -434,7 +479,8 @@
             "de": "Abtei Notre-Dame-de-Protection",
             "hu": "Notre-Dame-de-Protection apátság",
             "ro": "Abația Notre-Dame-de-Protection",
-            "en": "Notre-Dame-de-Protection Abbey"
+            "en": "Notre-Dame-de-Protection Abbey",
+            "fr": "Abbaye Notre-Dame-de-Protection"
           },
           "coords": [
             -1.464486,
@@ -449,7 +495,8 @@
             "de": "Erleben Sie die ruhige Atmosphäre dieser aktiven Benediktinerabtei bei einem Spaziergang durch die Innenhöfe und erwägen Sie den Kauf handgefertigter Produkte aus dem Klosterladen.",
             "hu": "Tapasztalja meg az aktív bencés apátság nyugodt atmoszféráját a békés udvarokon sétálva, és fontolja meg az apácák által készített kézműves termékek vásárlását az ajándékboltban.",
             "ro": "Experimentați atmosfera liniștită a acestei abații benedictine active plimbându-vă prin curțile sale pașnice și luați în considerare achiziționarea de obiecte realizate manual.",
-            "en": "Experience the tranquil atmosphere of this active Benedictine abbey by quietly walking through its peaceful courtyards, and consider purchasing handmade items from the nuns' shop."
+            "en": "Experience the tranquil atmosphere of this active Benedictine abbey by quietly walking through its peaceful courtyards, and consider purchasing handmade items from the nuns' shop.",
+            "fr": "Vivez l'atmosphère tranquille de cette abbaye bénédictine active en vous promenant silencieusement dans ses paisibles cours, et pensez à acheter des objets artisanaux à la boutique des religieuses."
           }
         },
         {
@@ -457,7 +504,8 @@
             "de": "Thermes antiques d'Alauna",
             "hu": "Thermes antiques d'Alauna",
             "ro": "Thermes antiques d'Alauna",
-            "en": "Thermes antiques d'Alauna"
+            "en": "Thermes antiques d'Alauna",
+            "fr": "Thermes antiques d'Alauna"
           },
           "coords": [
             -1.45521,
@@ -472,7 +520,8 @@
             "de": "Machen Sie eine Zeitreise zu diesen faszinierenden römischen Badehausruinen, die historische Wurzeln offenbaren, und tragen Sie festes Schuhwerk für das unebene Gelände.",
             "hu": "Lépjen vissza az időben a lenyűgöző ókori római fürdőromoknál, amelyek feltárják a régió mély történelmi gyökereit, és viseljen masszív cipőt az egyenetlen füves terep miatt.",
             "ro": "Întoarceți-vă în timp la aceste fascinante ruine ale băilor romane antice care dezvăluie rădăcinile istorice, purtând încălțăminte robustă pentru a naviga în siguranță pe teren.",
-            "en": "Step back in time at these fascinating ancient Roman bathhouse ruins that reveal the region's deep historical roots, wearing sturdy shoes to safely navigate the uneven grassy terrain."
+            "en": "Step back in time at these fascinating ancient Roman bathhouse ruins that reveal the region's deep historical roots, wearing sturdy shoes to safely navigate the uneven grassy terrain.",
+            "fr": "Faites un bond dans le passé sur le site fascinant des ruines des thermes romains qui révèlent les profondes racines historiques de la région, en chaussant des souliers solides pour circuler en sécurité sur le terrain herbeux inégal."
           }
         },
         {
@@ -480,7 +529,8 @@
             "de": "Manoir du Quesnay",
             "hu": "Manoir du Quesnay",
             "ro": "Manoir du Quesnay",
-            "en": "Manoir du Quesnay"
+            "en": "Manoir du Quesnay",
+            "fr": "Manoir du Quesnay"
           },
           "coords": [
             -1.476768,
@@ -495,7 +545,8 @@
             "de": "Entdecken Sie den rustikalen Charme dieses befestigten Herrenhauses in der normannischen Landschaft und nähern Sie sich vorsichtig über die engen Landstraßen, um das Privatland zu respektieren.",
             "hu": "Fedezze fel ennek a normandiai vidéken megbúvó erődített udvarháznak a rusztikus varázsát, a szűk vidéki sávokon óvatosan haladva, tiszteletben tartva a környező magánterületeket.",
             "ro": "Descoperiți farmecul rustic al acestui conac fortificat amplasat în mediul rural normand, apropiindu-vă cu atenție pe benzile înguste de țară pentru a respecta terenurile private.",
-            "en": "Discover the rustic charm of this fortified manor house nestled in the Norman countryside, approaching carefully via the narrow country lanes to respect the surrounding private lands."
+            "en": "Discover the rustic charm of this fortified manor house nestled in the Norman countryside, approaching carefully via the narrow country lanes to respect the surrounding private lands.",
+            "fr": "Découvrez le charme rustique de ce manoir fortifié niché dans la campagne normande, en y accédant prudemment par les étroites voies rurales pour respecter les terres privées environnantes."
           }
         }
       ],
@@ -503,7 +554,8 @@
         "de": "Radeln Sie durch den Morgennebel zum Hôtel Dorléans und zur zentralen Kirche Saint-Malo und genießen Sie die frische normannische Luft. Gegen Mittag führt Sie Ihre Fahrt vorbei am opulenten Hôtel de Beaumont zur friedlichen Abtei Notre-Dame. Nachmittags radeln Sie zu den faszinierenden Thermes d'Alauna und dem rustikalen Manoir du Quesnay. Am Abend kehren Sie ins historische Zentrum zurück, um sich bei lokalem Cidre auszuruhen.",
         "hu": "Reggel tekerjen át a párán a Hôtel Dorléans és a központi Saint-Malo templom felé, élvezve a friss normandiai levegőt. Délben útja az opulens Hôtel de Beaumont mellett a békés Notre-Dame apátság felé vezet. Délután kerékpározzon el a lenyűgöző Thermes antiques d'Alauna és a rusztikus Manoir du Quesnay felé. Ahogy leszáll az este, térjen vissza a történelmi központba, hogy pihentesse lábait és megkóstoljon egy kis helyi almabort.",
         "ro": "Pedați prin ceața dimineții pentru a vizita Hôtel Dorléans și Biserica Saint-Malo centrală, bucurându-vă de aerul proaspăt normand. La prânz, plimbarea vă duce pe lângă opulentul Hôtel de Beaumont spre liniștita Abație Notre-Dame. După-amiaza, mergeți cu bicicleta la fascinantele Thermes d'Alauna și rusticul Manoir du Quesnay. Odată cu lăsarea serii, întoarceți-vă în centrul istoric pentru a vă odihni picioarele și a savura un cidru local.",
-        "en": "Pedal through the morning mist to visit Hôtel Dorléans and the central Saint-Malo Church, enjoying the brisk Norman air. By midday, your ride takes you past the opulent Hôtel de Beaumont towards the peaceful Notre-Dame-de-Protection Abbey. In the afternoon, cycle out to the fascinating Thermes antiques d'Alauna and the rustic Manoir du Quesnay. As evening falls, return to the historic center to rest your legs and enjoy some local cider."
+        "en": "Pedal through the morning mist to visit Hôtel Dorléans and the central Saint-Malo Church, enjoying the brisk Norman air. By midday, your ride takes you past the opulent Hôtel de Beaumont towards the peaceful Notre-Dame-de-Protection Abbey. In the afternoon, cycle out to the fascinating Thermes antiques d'Alauna and the rustic Manoir du Quesnay. As evening falls, return to the historic center to rest your legs and enjoy some local cider.",
+        "fr": "Pédalez à travers la brume matinale pour visiter l'Hôtel Dorléans et l'église centrale Saint-Malo, en profitant de l'air vif normand. À midi, votre parcours vous mène devant l'opulent Hôtel de Beaumont en direction de la paisible abbaye Notre-Dame-de-Protection. L'après-midi, longez jusqu'aux fascinants Thermes antiques d'Alauna et au rustique Manoir du Quesnay. Le soir venu, retournez au centre historique pour reposer vos jambes et déguster un cidre local."
       },
       "variants": {
         "rainy": {
@@ -511,7 +563,8 @@
             "de": "Radeln Sie an diesem regnerischen Morgen vorsichtig zum Hôtel Dorléans und suchen Sie Schutz in der Kirche Saint-Malo. Fahren Sie mittags mit Schutzblechen am Hôtel de Beaumont und der Abtei Notre-Dame-de-Protection vorbei. Navigieren Sie nachmittags behutsam zu den römischen Thermen von Alauna und dem Manoir du Quesnay. Trocknen Sie sich abends bei einem heißen Getränk.",
             "hu": "Óvatosan tekerjen esőben a Hôtel Dorléans-hoz, majd keressen menedéket a Saint-Malo templomban. Délben sárvédővel haladjon a Hôtel de Beaumont és a Notre-Dame-de-Protection apátság felé. Délután óvatosan közelítse meg az Alauna fürdőket és a Manoir du Quesnay-t a nedves utakon. Fejezze be korán a napot, és szárátkozzon meg egy forró ital mellett.",
             "ro": "Bicicliți cu prudență spre Hôtel Dorléans în această dimineață ploioasă, apoi adăpostiți-vă în Biserica Saint-Malo. La prânz, mergeți cu apărători de noroi pe lângă Hôtel de Beaumont și Abația Notre-Dame-de-Protection. După-amiaza, navigați atent spre termele Alauna și Manoir du Quesnay. Încheiați devreme și uscați-vă seara cu o băutură caldă la interior.",
-            "en": "Cycle cautiously to Hôtel Dorléans this rainy morning, then take shelter in Saint-Malo Church. By noon, ride with mudguards past Hôtel de Beaumont to the peaceful Notre-Dame-de-Protection Abbey. In the afternoon, navigate carefully to the Roman baths of Alauna and Manoir du Quesnay. Finish early and dry off with a hot drink indoors as evening sets in."
+            "en": "Cycle cautiously to Hôtel Dorléans this rainy morning, then take shelter in Saint-Malo Church. By noon, ride with mudguards past Hôtel de Beaumont to the peaceful Notre-Dame-de-Protection Abbey. In the afternoon, navigate carefully to the Roman baths of Alauna and Manoir du Quesnay. Finish early and dry off with a hot drink indoors as evening sets in.",
+            "fr": "Roulez prudemment jusqu'à l'Hôtel Dorléans ce matin pluvieux, puis abritez-vous dans l'église Saint-Malo. À midi, traversez, équipé d'un garde-boue, devant l'Hôtel de Beaumont jusqu'à la paisible abbaye Notre-Dame-de-Protection. L'après-midi, gagnez avec précaution les thermes d'Alauna et le Manoir du Quesnay. Terminez tôt et réchauffez-vous avec une boisson chaude à l'intérieur en fin de journée."
           },
           "stops": [
             {
@@ -519,13 +572,15 @@
                 "de": "Hôtel Dorléans",
                 "hu": "Hôtel Dorléans",
                 "ro": "Hôtel Dorléans",
-                "en": "Hôtel Dorléans"
+                "en": "Hôtel Dorléans",
+                "fr": "Hôtel Dorléans"
               },
               "tip_5lang": {
                 "de": "Bewundern Sie das Herrenhaus, aber bremsen Sie sanft auf dem nassen Kopfsteinpflaster und tragen Sie eine gut sichtbare Regenjacke.",
                 "hu": "Csodálja meg a palotát, de fékezzen nagyon óvatosan a nedves macskaköveken, és mindenképpen viseljen vízálló, jól látható kerékpáros kabátot.",
                 "ro": "Admirați conacul, dar frânați ușor pe piatra cubică umedă și asigurați-vă că purtați o jachetă impermeabilă de înaltă vizibilitate.",
-                "en": "Admire this grand mansion, but remember to brake gently on the wet cobblestones and wear a high-visibility, fully waterproof cycling jacket."
+                "en": "Admire this grand mansion, but remember to brake gently on the wet cobblestones and wear a high-visibility, fully waterproof cycling jacket.",
+                "fr": "Admirez cette grande demeure, mais pensez à freiner doucement sur les pavés mouillés et portez une veste de cyclisme haute visibilité et totalement imperméable."
               }
             },
             {
@@ -533,13 +588,15 @@
                 "de": "Kirche Saint-Malo",
                 "hu": "Saint-Malo templom",
                 "ro": "Biserica Saint-Malo",
-                "en": "Saint-Malo Church"
+                "en": "Saint-Malo Church",
+                "fr": "Église Saint-Malo"
               },
               "tip_5lang": {
                 "de": "Steigen Sie vom Fahrrad und gehen Sie hinein, um sich abzutrocknen, während Sie die majestätischen Buntglasfenster bewundern.",
                 "hu": "Szálljon le a kerékpárról, és menjen be megszáradni, miközben megcsodálja a templom fenséges kupoláját és lenyűgöző ólomüveg ablakait.",
                 "ro": "Coborâți de pe bicicletă și intrați pentru a vă usca în timp ce admirați cupola maiestuoasă și vitraliile impresionante ale bisericii.",
-                "en": "Step off your bike and head strictly inside to dry off while admiring the church's majestic rebuilt dome and deeply impressive stained glass."
+                "en": "Step off your bike and head strictly inside to dry off while admiring the church's majestic rebuilt dome and deeply impressive stained glass.",
+                "fr": "Descendez de votre vélo et entrez strictement à l'intérieur pour vous sécher tout en admirant le dôme reconstruit de l'église et les vitraux profondément impressionnants."
               }
             },
             {
@@ -547,13 +604,15 @@
                 "de": "Hôtel de Beaumont",
                 "hu": "Hôtel de Beaumont",
                 "ro": "Hôtel de Beaumont",
-                "en": "Hôtel de Beaumont"
+                "en": "Hôtel de Beaumont",
+                "fr": "Hôtel de Beaumont"
               },
               "tip_5lang": {
                 "de": "Schließen Sie Ihr Fahrrad im Regen sicher ab und erkunden Sie die Räume, um dem anhaltenden Nieselregen der Normandie zu entgehen.",
                 "hu": "Zárja le biztonságosan kerékpárját az esőben, és fedezze fel a gyönyörűen berendezett szobákat, hogy elmeneküljön a szitáló eső elől.",
                 "ro": "Încuiați-vă bine bicicleta în ploaie și explorați camerele frumos mobilate pentru a scăpa de burnița persistentă din Normandia.",
-                "en": "Lock your bike securely in the rain and explore the beautifully furnished rooms to fully escape the persistent, chilly Normandy drizzle."
+                "en": "Lock your bike securely in the rain and explore the beautifully furnished rooms to fully escape the persistent, chilly Normandy drizzle.",
+                "fr": "Bloquez solidement votre vélo sous la pluie et explorez les pièces richement meublées pour échapper complètement à la bruine normande persistante et glaciale."
               }
             },
             {
@@ -561,13 +620,15 @@
                 "de": "Abtei Notre-Dame-de-Protection",
                 "hu": "Notre-Dame-de-Protection apátság",
                 "ro": "Abația Notre-Dame-de-Protection",
-                "en": "Notre-Dame-de-Protection Abbey"
+                "en": "Notre-Dame-de-Protection Abbey",
+                "fr": "Abbaye Notre-Dame-de-Protection"
               },
               "tip_5lang": {
                 "de": "Betrachten Sie diesen ruhigen Klosterkomplex und halten Sie einen Poncho bereit, wenn Sie zwischen den Kreuzgängen und Ihrem Rad wechseln.",
                 "hu": "Tekintse meg a nyugodt kolostort, és tartson kéznél egy esőponcsót, amikor a védett kerengők és a leparkolt kerékpárja között mozog.",
                 "ro": "Priviți acest complex monahal senin, ținând un poncho la îndemână în timp ce faceți tranziția între mănăstirile adăpostite și bicicletă.",
-                "en": "View this serene monastic complex, closely keeping a poncho handy as you transition quickly between the sheltered cloisters and your bicycle."
+                "en": "View this serene monastic complex, closely keeping a poncho handy as you transition quickly between the sheltered cloisters and your bicycle.",
+                "fr": "Découvrez ce paisible ensemble monastique en gardant un poncho à portée de main pendant vos transitions rapides entre les cloîtres abrités et votre bicyclette."
               }
             },
             {
@@ -575,13 +636,15 @@
                 "de": "Thermes antiques d'Alauna",
                 "hu": "Thermes antiques d'Alauna",
                 "ro": "Thermes antiques d'Alauna",
-                "en": "Thermes antiques d'Alauna"
+                "en": "Thermes antiques d'Alauna",
+                "fr": "Thermes antiques d'Alauna"
               },
               "tip_5lang": {
                 "de": "Erkunden Sie die Ruinen vorsichtig; die alten Steine sind bei Nässe extrem rutschig, tragen Sie daher rutschfeste Fahrradschuhe.",
                 "hu": "Óvatosan fedezze fel a romokat; az ősi kövek nedvesen rendkívül csúszósak, ezért mindenképpen viseljen csúszásmentes kerékpáros cipőt.",
                 "ro": "Explorați cu atenție ruinele; pietrele antice sunt extrem de alunecoase când sunt umede, deci purtați pantofi de ciclism antiderapanți.",
-                "en": "Explore these Roman ruins carefully; the ancient stones are extremely slippery when wet, so you must wear sturdy, non-slip cycling shoes."
+                "en": "Explore these Roman ruins carefully; the ancient stones are extremely slippery when wet, so you must wear sturdy, non-slip cycling shoes.",
+                "fr": "Explorez ces ruines romaines avec précaution ; les pierres antiques sont extrêmement glissantes lorsqu'elles sont mouillées, vous devez donc porter des chaussures de cyclisme robustes et antidérapantes."
               }
             },
             {
@@ -589,13 +652,15 @@
                 "de": "Manoir du Quesnay",
                 "hu": "Manoir du Quesnay",
                 "ro": "Manoir du Quesnay",
-                "en": "Manoir du Quesnay"
+                "en": "Manoir du Quesnay",
+                "fr": "Manoir du Quesnay"
               },
               "tip_5lang": {
                 "de": "Beobachten Sie dieses Herrenhaus aus der Ferne; bleiben Sie auf asphaltierten Straßen, damit Ihr Fahrrad nicht im tiefen Schlamm stecken bleibt.",
                 "hu": "Távolról figyelje meg ezt a történelmi kúriát; maradjon a burkolt utakon, hogy elkerülje a kerékpár mély sárban való elakadását a környéken.",
                 "ro": "Observați acest conac istoric de la distanță; rămâneți pe drumurile pavate din apropiere pentru a evita blocarea bicicletei în noroi adânc.",
-                "en": "Observe this historic manor from a distance; strictly stick to the paved roads nearby to avoid getting your bicycle stuck in the deep mud."
+                "en": "Observe this historic manor from a distance; strictly stick to the paved roads nearby to avoid getting your bicycle stuck in the deep mud.",
+                "fr": "Observez ce manoir historique à distance ; tenez-vous strictement aux routes pavées à proximité pour éviter d'enrayer votre bicyclette dans la boue profonde."
               }
             }
           ]
@@ -605,7 +670,8 @@
             "de": "Packen Sie sich für die morgendliche Fahrt zum Hôtel Dorléans warm ein und wärmen Sie sich in der Kirche Saint-Malo auf. Radeln Sie mittags zügig am Hôtel de Beaumont und der Abtei Notre-Dame-de-Protection vorbei. Erkunden Sie nachmittags die frostigen Ruinen von Alauna und das Manoir du Quesnay. Sorgen Sie für gutes Licht, da es um 17:00 Uhr dunkel wird.",
             "hu": "Öltözzön fel melegen a reggeli tekeréshez a Hôtel Dorléans-hoz, majd melegedjen át a Saint-Malo templomban. Délben tekerjen gyorsan a Hôtel de Beaumont és a Notre-Dame-de-Protection apátság felé. Délután fedezze fel a fagyos Alauna romokat és a Manoir du Quesnay-t. Legyen jó kerékpárlámpája, mert a nap 17:00 körül korán lenyugszik.",
             "ro": "Îmbrăcați-vă gros pentru cursa matinală spre Hôtel Dorléans și încălziți-vă în Biserica Saint-Malo. La prânz, pedalați iute pe lângă Hôtel de Beaumont spre pașnica Abație Notre-Dame-de-Protection. După-amiaza, explorați ruinele înghețate Alauna și Manoir du Quesnay. Asigurați-vă că aveți lumini bune la bicicletă, deoarece soarele apune la 17:00.",
-            "en": "Bundle up for a crisp morning ride to Hôtel Dorléans and warm up inside Saint-Malo Church. At noon, cycle briskly past Hôtel de Beaumont to the quiet Notre-Dame-de-Protection Abbey. Spend the afternoon exploring the frosty ruins of Alauna and the beautiful Manoir du Quesnay. Ensure you have good bike lights, as the sun sets early around 5 PM."
+            "en": "Bundle up for a crisp morning ride to Hôtel Dorléans and warm up inside Saint-Malo Church. At noon, cycle briskly past Hôtel de Beaumont to the quiet Notre-Dame-de-Protection Abbey. Spend the afternoon exploring the frosty ruins of Alauna and the beautiful Manoir du Quesnay. Ensure you have good bike lights, as the sun sets early around 5 PM.",
+            "fr": "Enfilez des couches chaudes pour une balade matinale vive jusqu'à l'Hôtel Dorléans et réchauffez-vous à l'intérieur de l'église Saint-Malo. À midi, pédalez rapidement devant l'Hôtel de Beaumont jusqu'à la tranquille abbaye Notre-Dame-de-Protection. Passez l'après-midi à explorer les ruines givrées d'Alauna et le beau Manoir du Quesnay. Assurez-vous d'avoir de bons éclairages de vélo, car le soleil se couche tôt vers 17 h."
           },
           "stops": [
             {
@@ -613,13 +679,15 @@
                 "de": "Hôtel Dorléans",
                 "hu": "Hôtel Dorléans",
                 "ro": "Hôtel Dorléans",
-                "en": "Hôtel Dorléans"
+                "en": "Hôtel Dorléans",
+                "fr": "Hôtel Dorléans"
               },
               "tip_5lang": {
                 "de": "Beginnen Sie Ihre kühle Fahrt an diesem Juwel; tragen Sie isolierte Radhandschuhe, um Ihre Hände vor dem beißenden Morgenfrost zu schützen.",
                 "hu": "Kezdje a hűvös tekerést ennél az építészeti gyöngyszemnél; viseljen szigetelt kesztyűt, hogy megvédje kezét a csípős reggeli fagytól.",
                 "ro": "Începeți cursa rece la această bijuterie arhitecturală; purtați mănuși de ciclism izolate pentru a vă proteja mâinile de înghețul matinal.",
-                "en": "Start your chilly ride at this architectural gem; always wear insulated cycling gloves to protect your hands from the biting morning frost."
+                "en": "Start your chilly ride at this architectural gem; always wear insulated cycling gloves to protect your hands from the biting morning frost.",
+                "fr": "Commencez votre balade fraîche à cet édifice architectural ; portez toujours des gants de cyclisme isolants pour protéger vos mains du gel matinal mordant."
               }
             },
             {
@@ -627,13 +695,15 @@
                 "de": "Kirche Saint-Malo",
                 "hu": "Saint-Malo templom",
                 "ro": "Biserica Saint-Malo",
-                "en": "Saint-Malo Church"
+                "en": "Saint-Malo Church",
+                "fr": "Église Saint-Malo"
               },
               "tip_5lang": {
                 "de": "Machen Sie eine Pause in dieser großen Kirche, um Ihre Finger aufzutauen und die filigranen Gewölbedecken in Ruhe zu bewundern.",
                 "hu": "Tartson szünetet a templomban, hogy felengedjenek az ujjai, miközben nyugodtan megcsodálja a bonyolult boltozatokat és a békés hajót.",
                 "ro": "Luați o pauză în interiorul acestei mari biserici pentru a vă dezgheța degetele în timp ce admirați tavanele boltite complicate și nava pașnică.",
-                "en": "Take a needed break inside this grand church to thaw your freezing fingers while closely admiring the intricate vaulted ceilings and nave."
+                "en": "Take a needed break inside this grand church to thaw your freezing fingers while closely admiring the intricate vaulted ceilings and nave.",
+                "fr": "Faites une pause nécessaire à l'intérieur de cette grande église pour réchauffer vos doigts gelés tout en admirant de près les voûtes et la nef aux sculptures délicates."
               }
             },
             {
@@ -641,13 +711,15 @@
                 "de": "Hôtel de Beaumont",
                 "hu": "Hôtel de Beaumont",
                 "ro": "Hôtel de Beaumont",
-                "en": "Hôtel de Beaumont"
+                "en": "Hôtel de Beaumont",
+                "fr": "Hôtel de Beaumont"
               },
               "tip_5lang": {
                 "de": "Genießen Sie die imposante Fassade dieses Hauses und tragen Sie eine thermische Basisschicht, um während der kurzen Fahrt warm zu bleiben.",
                 "hu": "Élvezze ennek az arisztokratikus háznak a homlokzatát, és viseljen hőtartó aláöltözetet, hogy kényelmesen érezze magát a rövid utakon is.",
                 "ro": "Bucurați-vă de fațada impunătoare a acestei case, purtând un strat de bază termic pentru a rămâne confortabil în timpul călătoriei scurte.",
-                "en": "Enjoy the imposing facade of this aristocratic house, deliberately wearing a thermal base layer to stay fully comfortable during the ride."
+                "en": "Enjoy the imposing facade of this aristocratic house, deliberately wearing a thermal base layer to stay fully comfortable during the ride.",
+                "fr": "Appréciez la façade imposante de cette maison aristocratique, en portant délibérément une couche de base thermique pour rester parfaitement confortable pendant la promenade."
               }
             },
             {
@@ -655,13 +727,15 @@
                 "de": "Abtei Notre-Dame-de-Protection",
                 "hu": "Notre-Dame-de-Protection apátság",
                 "ro": "Abația Notre-Dame-de-Protection",
-                "en": "Notre-Dame-de-Protection Abbey"
+                "en": "Notre-Dame-de-Protection Abbey",
+                "fr": "Abbaye Notre-Dame-de-Protection"
               },
               "tip_5lang": {
                 "de": "Die winterliche Stille unterstreicht die Gelassenheit der Abtei; halten Sie Ihren Hals beim Radeln mit einem Buff warm.",
                 "hu": "A téli csend fokozza az apátság nyugalmát; tartsa melegen a nyakát egy csősállal, miközben a történelmi, fagyos utcákon teker tovább.",
                 "ro": "Liniștea iernii sporește seninătatea acestei abații; mențineți-vă gâtul cald cu un fular tubular în timp ce pedalați pe străzile istorice.",
-                "en": "The winter stillness vastly enhances the serenity of this abbey; clearly keep your neck warm with a buff while cycling the historic streets."
+                "en": "The winter stillness vastly enhances the serenity of this abbey; clearly keep your neck warm with a buff while cycling the historic streets.",
+                "fr": "La quiétude hivernale accentue grandement la sérénité de cette abbaye ; pensez à bien garder le cou au chaud avec un tour de cou en pédalant dans les rues historiques."
               }
             },
             {
@@ -669,13 +743,15 @@
                 "de": "Thermes antiques d'Alauna",
                 "hu": "Thermes antiques d'Alauna",
                 "ro": "Thermes antiques d'Alauna",
-                "en": "Thermes antiques d'Alauna"
+                "en": "Thermes antiques d'Alauna",
+                "fr": "Thermes antiques d'Alauna"
               },
               "tip_5lang": {
                 "de": "Die Ruinen sehen mit Frost bedeckt fantastisch aus; achten Sie auf Eisflächen auf den Wegen und steigen Sie bei Bedarf ab.",
                 "hu": "A római romok lenyűgözően néznek ki dérrel borítva; ügyeljen a helyszínhez vezető utakon lévő jégfoltokra, és szükség esetén szálljon le.",
                 "ro": "Ruinele romane arată impresionant acoperite de gheață; atenție la peticele de gheață de pe căile de acces și descălecați dacă este necesar.",
-                "en": "The Roman ruins look striking covered in frost; actively watch out for ice patches on the paths leading to the site and dismount if needed."
+                "en": "The Roman ruins look striking covered in frost; actively watch out for ice patches on the paths leading to the site and dismount if needed.",
+                "fr": "Les ruines romaines sont saisissantes couvertes de givre ; surveillez activement les plaques de verglas sur les sentiers menant au site et descendez de vélo si nécessaire."
               }
             },
             {
@@ -683,13 +759,15 @@
                 "de": "Manoir du Quesnay",
                 "hu": "Manoir du Quesnay",
                 "ro": "Manoir du Quesnay",
-                "en": "Manoir du Quesnay"
+                "en": "Manoir du Quesnay",
+                "fr": "Manoir du Quesnay"
               },
               "tip_5lang": {
                 "de": "Bewundern Sie dieses ländliche Herrenhaus, bevor Sie zurückkehren; schalten Sie das Radlicht früh ein, da es schnell dunkel wird.",
                 "hu": "Csodálja meg ezt a gyönyörű vidéki kúriát, mielőtt visszaindul; kapcsolja be korán a kerékpárlámpát, mivel a téli délután gyorsan sötétedik.",
                 "ro": "Admirați acest conac rural frumos înainte de a vă întoarce; aprindeți luminile bicicletei devreme, deoarece după-amiaza de iarnă se întunecă rapid.",
-                "en": "Admire this beautiful rural manor before heading back; crucially turn on your bike lights early as the winter afternoon quickly turns dark."
+                "en": "Admire this beautiful rural manor before heading back; crucially turn on your bike lights early as the winter afternoon quickly turns dark.",
+                "fr": "Admirez ce beau manoir rural avant de rentrer ; allumez impérativement vos éclairages de vélo tôt car l'après-midi hivernal devient vite sombre."
               }
             }
           ]
@@ -709,7 +787,8 @@
             "de": "Hôtel Dorléans",
             "hu": "Hôtel Dorléans",
             "ro": "Hôtel Dorléans",
-            "en": "Hôtel Dorléans"
+            "en": "Hôtel Dorléans",
+            "fr": "Hôtel Dorléans"
           },
           "coords": [
             -1.471831,
@@ -724,7 +803,8 @@
             "de": "Beginnen Sie Ihren Tag an diesem eleganten Adelssitz aus dem 18. Jahrhundert und achten Sie auf die aufwendigen Steinmetzarbeiten, bevor Sie das Morgenlicht im Innenhof genießen.",
             "hu": "Kezdje a napot ennél az elegáns, 18. századi arisztokrata rezidenciánál, figyelve a bonyolult kőfaragásokra, mielőtt megcsodálná a reggeli fényeket a tágas belső udvarban.",
             "ro": "Începeți ziua la această elegantă reședință aristocratică din secolul al XVIII-lea, admirând detaliile sculpturilor în piatră înainte de a vă bucura de lumina dimineții în curte.",
-            "en": "Begin your day at this elegant aristocratic residence from the 18th century, paying attention to the intricate stonework before enjoying the morning light in its courtyard."
+            "en": "Begin your day at this elegant aristocratic residence from the 18th century, paying attention to the intricate stonework before enjoying the morning light in its courtyard.",
+            "fr": "Commencez votre journée dans cette élégante résidence aristocratique du XVIIIe siècle, en observant les sculptures de pierre finement travaillées avant d'apprécier la lumière matinale dans sa cour."
           }
         },
         {
@@ -732,7 +812,8 @@
             "de": "Kirche Saint-Malo",
             "hu": "Saint-Malo templom",
             "ro": "Biserica Saint-Malo",
-            "en": "Saint-Malo Church"
+            "en": "Saint-Malo Church",
+            "fr": "Église Saint-Malo"
           },
           "coords": [
             -1.469385,
@@ -747,7 +828,8 @@
             "de": "Bewundern Sie die beeindruckende gotische Architektur und die wunderschön restaurierten Buntglasfenster dieser historischen Kirche, aber nehmen Sie Rücksicht auf laufende Gottesdienste.",
             "hu": "Csodálja meg a történelmi templom lenyűgöző gótikus építészetét és gyönyörűen felújított ólomüveg ablakait, de látogatásakor legyen tekintettel a folyamatban lévő istentiszteletekre.",
             "ro": "Admirați arhitectura gotică impresionantă și vitraliile frumos restaurate ale acestei biserici istorice, dar asigurați-vă că respectați slujbele în desfășurare în timpul vizitei.",
-            "en": "Admire the impressive Gothic architecture and the beautifully restored stained glass windows of this historic church, but remember to respect ongoing services during your visit."
+            "en": "Admire the impressive Gothic architecture and the beautifully restored stained glass windows of this historic church, but remember to respect ongoing services during your visit.",
+            "fr": "Admirez l'impressionnante architecture gothique et les vitraux magnifiquement restaurés de cette église historique, en veillant à respecter les offices en cours pendant votre visite."
           }
         },
         {
@@ -755,7 +837,8 @@
             "de": "Hôtel de Beaumont",
             "hu": "Hôtel de Beaumont",
             "ro": "Hôtel de Beaumont",
-            "en": "Hôtel de Beaumont"
+            "en": "Hôtel de Beaumont",
+            "fr": "Hôtel de Beaumont"
           },
           "coords": [
             -1.4703,
@@ -770,7 +853,8 @@
             "de": "Bestaunen Sie die monumentale Treppe und die üppigen Innenräume dieses prächtigen Stadtpalais und nehmen Sie an einer Führung teil, um seine aristokratische Geschichte zu verstehen.",
             "hu": "Csodálja meg a csodálatos városi palota monumentális lépcsőházát és pazar belső tereit, és feltétlenül csatlakozzon egy tárlatvezetéshez, hogy megismerje arisztokratikus történetét.",
             "ro": "Minunați-vă de scara monumentală grandioasă și de interioarele somptuoase ale acestui palat magnific, asigurându-vă că participați la un tur ghidat pentru a-i înțelege istoria.",
-            "en": "Marvel at the grand monumental staircase and lavish interiors of this magnificent town mansion, making sure to join a guided tour to fully understand its aristocratic history."
+            "en": "Marvel at the grand monumental staircase and lavish interiors of this magnificent town mansion, making sure to join a guided tour to fully understand its aristocratic history.",
+            "fr": "Émerveillez-vous devant le grand escalier monumental et les intérieurs somptueux de cette magnifique demeure urbaine, en prenant soin de participer à une visite guidée pour comprendre pleinement son histoire aristocratique."
           }
         },
         {
@@ -778,7 +862,8 @@
             "de": "Thermes antiques d'Alauna",
             "hu": "Thermes antiques d'Alauna",
             "ro": "Thermes antiques d'Alauna",
-            "en": "Thermes antiques d'Alauna"
+            "en": "Thermes antiques d'Alauna",
+            "fr": "Thermes antiques d'Alauna"
           },
           "coords": [
             -1.45521,
@@ -793,7 +878,8 @@
             "de": "Machen Sie eine Zeitreise zu diesen faszinierenden römischen Badehausruinen, die historische Wurzeln offenbaren, und tragen Sie festes Schuhwerk für das unebene Gelände.",
             "hu": "Lépjen vissza az időben a lenyűgöző ókori római fürdőromoknál, amelyek feltárják a régió mély történelmi gyökereit, és viseljen masszív cipőt az egyenetlen füves terep miatt.",
             "ro": "Întoarceți-vă în timp la aceste fascinante ruine ale băilor romane antice care dezvăluie rădăcinile istorice, purtând încălțăminte robustă pentru a naviga în siguranță pe teren.",
-            "en": "Step back in time at these fascinating ancient Roman bathhouse ruins that reveal the region's deep historical roots, wearing sturdy shoes to safely navigate the uneven grassy terrain."
+            "en": "Step back in time at these fascinating ancient Roman bathhouse ruins that reveal the region's deep historical roots, wearing sturdy shoes to safely navigate the uneven grassy terrain.",
+            "fr": "Faites un bond dans le passé sur le site fascinant des ruines des thermes romains qui révèlent les profondes racines historiques de la région, en chaussant des souliers solides pour circuler en sécurité sur le terrain herbeux inégal."
           }
         },
         {
@@ -801,7 +887,8 @@
             "de": "Manoir du Quesnay",
             "hu": "Manoir du Quesnay",
             "ro": "Manoir du Quesnay",
-            "en": "Manoir du Quesnay"
+            "en": "Manoir du Quesnay",
+            "fr": "Manoir du Quesnay"
           },
           "coords": [
             -1.476768,
@@ -816,7 +903,8 @@
             "de": "Entdecken Sie den rustikalen Charme dieses befestigten Herrenhauses in der normannischen Landschaft und nähern Sie sich vorsichtig über die engen Landstraßen, um das Privatland zu respektieren.",
             "hu": "Fedezze fel ennek a normandiai vidéken megbúvó erődített udvarháznak a rusztikus varázsát, a szűk vidéki sávokon óvatosan haladva, tiszteletben tartva a környező magánterületeket.",
             "ro": "Descoperiți farmecul rustic al acestui conac fortificat amplasat în mediul rural normand, apropiindu-vă cu atenție pe benzile înguste de țară pentru a respecta terenurile private.",
-            "en": "Discover the rustic charm of this fortified manor house nestled in the Norman countryside, approaching carefully via the narrow country lanes to respect the surrounding private lands."
+            "en": "Discover the rustic charm of this fortified manor house nestled in the Norman countryside, approaching carefully via the narrow country lanes to respect the surrounding private lands.",
+            "fr": "Découvrez le charme rustique de ce manoir fortifié niché dans la campagne normande, en y accédant prudemment par les étroites voies rurales pour respecter les terres privées environnantes."
           }
         },
         {
@@ -824,7 +912,8 @@
             "de": "Château de Servigny",
             "hu": "Château de Servigny",
             "ro": "Château de Servigny",
-            "en": "Château de Servigny"
+            "en": "Château de Servigny",
+            "fr": "Château de Servigny"
           },
           "coords": [
             -1.496892,
@@ -839,7 +928,8 @@
             "de": "Beenden Sie Ihre Erkundung auf diesem historisch bedeutsamen Schloss, in dem wichtige Verträge des Zweiten Weltkriegs unterzeichnet wurden, und buchen Sie für Innenbesichtigungen im Voraus.",
             "hu": "Zárja felfedezését ennél a történelmi jelentőségű kastélynál, ahol fontos második világháborús szerződéseket írtak alá, és feltétlenül foglaljon előre, ha szeretné látni a belső tereket.",
             "ro": "Încheiați-vă explorarea la acest castel istoric semnificativ unde au fost semnate tratate importante din al Doilea Război Mondial, asigurându-vă că rezervați din timp pentru interioare.",
-            "en": "Conclude your exploration at this historically significant chateau where important World War II treaties were signed, ensuring you book ahead if you wish to see the interior rooms."
+            "en": "Conclude your exploration at this historically significant chateau where important World War II treaties were signed, ensuring you book ahead if you wish to see the interior rooms.",
+            "fr": "Concluez votre exploration à ce château d'importance historique où furent signés d'importants traités de la Seconde Guerre mondiale, en veillant à réserver à l'avance si vous souhaitez visiter les pièces intérieures."
           }
         }
       ],
@@ -847,7 +937,8 @@
         "de": "Fahren Sie bequem zum Hôtel Dorléans und zur berühmten Kirche Saint-Malo und setzen Sie einen eleganten Ton für den Tag. Mittags erkunden Sie die architektonische Pracht des Hôtel de Beaumont und die römischen Überreste der Thermes d'Alauna. Die malerische Nachmittagsfahrt führt Sie aufs Land zum Manoir du Quesnay und zum historischen Château de Servigny. Verbringen Sie den Abend wieder in der Stadt und genießen Sie die kulturelle Tiefe der Normandie bei einem feinen Essen.",
         "hu": "Vezessen kényelmesen a Hôtel Dorléans és az ikonikus Saint-Malo templom felé, amely elegáns alaphangot ad az utazásnak. A dél hívogatja, hogy felfedezze a Hôtel de Beaumont építészeti pompáját és a Thermes d'Alauna ókori római maradványait. A délutáni festői autózás a vidékre viszi, hogy megcsodálja a Manoir du Quesnay-t és a történelmi Château de Servigny-t. Az estét a városban töltse, értékelve Normandia kulturális mélységét egy finom étkezés mellett.",
         "ro": "Conduceți confortabil spre Hôtel Dorléans și emblematica Biserică Saint-Malo, dând un ton elegant excursiei. Prânzul vă invită să explorați splendoarea Hôtel de Beaumont și rămășițele romane la Thermes d'Alauna. Conducerea pitorească de după-amiază vă duce la țară pentru a admira Manoir du Quesnay și istoricul Château de Servigny. Petreceți seara înapoi în oraș, apreciind profunzimea culturală a Normandiei cu o masă rafinată.",
-        "en": "Drive comfortably to start your day at Hôtel Dorléans and the iconic Saint-Malo Church, setting an elegant tone for the trip. Midday invites you to explore the architectural splendor of Hôtel de Beaumont and the ancient Roman remnants at Thermes antiques d'Alauna. The afternoon scenic drive takes you to the countryside to admire Manoir du Quesnay and the historic Château de Servigny. Spend the evening back in town, appreciating Normandy's cultural depth over a fine meal."
+        "en": "Drive comfortably to start your day at Hôtel Dorléans and the iconic Saint-Malo Church, setting an elegant tone for the trip. Midday invites you to explore the architectural splendor of Hôtel de Beaumont and the ancient Roman remnants at Thermes antiques d'Alauna. The afternoon scenic drive takes you to the countryside to admire Manoir du Quesnay and the historic Château de Servigny. Spend the evening back in town, appreciating Normandy's cultural depth over a fine meal.",
+        "fr": "Conduisez confortablement pour commencer la journée à l'Hôtel Dorléans et à l'emblématique église Saint-Malo, donnant un ton élégant au voyage. À midi, laissez-vous inviter par l'architecture splendide de l'Hôtel de Beaumont et par les vestiges romains des Thermes antiques d'Alauna. L'après-midi, la route panoramique vous mène en campagne pour admirer le Manoir du Quesnay et le château historique de Servigny. Passez la soirée en ville à apprécier la profondeur culturelle de la Normandie autour d'un bon repas."
       },
       "variants": {
         "rainy": {
@@ -855,7 +946,8 @@
             "de": "Fahren Sie an diesem regnerischen Morgen bequem zum Hôtel Dorléans und bleiben Sie in der Kirche Saint-Malo trocken. Parken Sie mittags am Hôtel de Beaumont für einen Besuch im Warmen, gefolgt von einem kurzen Stopp an den Alauna-Ruinen mit Schirm. Verbringen Sie den nassen Nachmittag am Manoir du Quesnay und dem Château de Servigny. Genießen Sie den Abend drinnen.",
             "hu": "Vezessen kényelmesen a Hôtel Dorléans-hoz egy esős reggelen, majd maradjon szárazon a lenyűgöző Saint-Malo templomban. Délben parkoljon a Hôtel de Beaumont közelében egy beltéri sétához, majd esernyővel nézze meg az Alauna romokat. A nedves délutánt a Manoir du Quesnay és a Château de Servigny felfedezésével töltheti. Élvezze a meleg, benti estét.",
             "ro": "Conduceți confortabil spre Hôtel Dorléans într-o dimineață ploioasă, apoi intrați în magnifica Biserică Saint-Malo pentru a sta la uscat. La prânz, parcați lângă Hôtel de Beaumont pentru o vizită la interior, urmată de o oprire scurtă la ruinele Alauna. Petreceți după-amiaza vizitând Manoir du Quesnay și Château de Servigny. Bucurați-vă de o seară caldă la interior.",
-            "en": "Drive comfortably to Hôtel Dorléans on a rainy morning, then step inside the magnificent Saint-Malo Church to stay dry. By noon, park near Hôtel de Beaumont for an indoor visit, followed by a quick, umbrella-shielded stop at the Alauna ruins. Spend the wet afternoon exploring Manoir du Quesnay and the grand Château de Servigny. Enjoy a cozy evening indoors."
+            "en": "Drive comfortably to Hôtel Dorléans on a rainy morning, then step inside the magnificent Saint-Malo Church to stay dry. By noon, park near Hôtel de Beaumont for an indoor visit, followed by a quick, umbrella-shielded stop at the Alauna ruins. Spend the wet afternoon exploring Manoir du Quesnay and the grand Château de Servigny. Enjoy a cozy evening indoors.",
+            "fr": "Conduisez confortablement jusqu'à l'Hôtel Dorléans un matin pluvieux, puis abritez-vous dans la magnifique église Saint-Malo. À midi, garez-vous près de l'Hôtel de Beaumont pour une visite intérieure, suivie d'un arrêt rapide protégé par un parapluie aux ruines d'Alauna. Passez l'après-midi humide à explorer le Manoir du Quesnay et le grand Château de Servigny. Profitez d'une soirée douillette à l'intérieur."
           },
           "stops": [
             {
@@ -863,13 +955,15 @@
                 "de": "Hôtel Dorléans",
                 "hu": "Hôtel Dorléans",
                 "ro": "Hôtel Dorléans",
-                "en": "Hôtel Dorléans"
+                "en": "Hôtel Dorléans",
+                "fr": "Hôtel Dorléans"
               },
               "tip_5lang": {
                 "de": "Fahren Sie zu diesem eleganten Herrenhaus vor; halten Sie einen Regenschirm im Auto bereit, um bequem vom Parkplatz dorthin zu laufen.",
                 "hu": "Hajtson oda ehhez az elegáns 18. századi kúriához; tartson esernyőt az autóban, hogy kényelmesen és szárazon sétálhasson a parkolótól.",
                 "ro": "Conduceți până la acest conac elegant din secolul al XVIII-lea; păstrați o umbrelă în mașină pentru a merge confortabil de la locul de parcare.",
-                "en": "Drive straight up to this elegant 18th-century mansion; securely keep an umbrella in the car to walk comfortably from your parking spot."
+                "en": "Drive straight up to this elegant 18th-century mansion; securely keep an umbrella in the car to walk comfortably from your parking spot.",
+                "fr": "Garez-vous directement devant cette élégante demeure du XVIIIe siècle ; gardez impérativement un parapluie dans la voiture pour marcher confortablement depuis votre place de stationnement."
               }
             },
             {
@@ -877,13 +971,15 @@
                 "de": "Kirche Saint-Malo",
                 "hu": "Saint-Malo templom",
                 "ro": "Biserica Saint-Malo",
-                "en": "Saint-Malo Church"
+                "en": "Saint-Malo Church",
+                "fr": "Église Saint-Malo"
               },
               "tip_5lang": {
                 "de": "Nutzen Sie den nahegelegenen Parkplatz und rennen Sie hinein, um dem Platzregen zu entgehen und die gotische Architektur zu bestaunen.",
                 "hu": "Használja a közeli parkolót, és siessen befelé, hogy elmeneküljön a felhőszakadás elől, majd csodálja meg a gótikus stílusú építészetet.",
                 "ro": "Folosiți parcarea din apropiere și fugiți înăuntru pentru a scăpa de ploaia torențială, minunându-vă de arhitectura în stil gotic și de cor.",
-                "en": "Use the nearby parking and physically run inside to escape the downpour, safely marveling at the gothic-style architecture and stunning choir."
+                "en": "Use the nearby parking and physically run inside to escape the downpour, safely marveling at the gothic-style architecture and stunning choir.",
+                "fr": "Utilisez le parking à proximité et courez à l'intérieur pour échapper à l'averse, en admirant en toute sécurité l'architecture de style gothique et le chœur spectaculaire."
               }
             },
             {
@@ -891,13 +987,15 @@
                 "de": "Hôtel de Beaumont",
                 "hu": "Hôtel de Beaumont",
                 "ro": "Hôtel de Beaumont",
-                "en": "Hôtel de Beaumont"
+                "en": "Hôtel de Beaumont",
+                "fr": "Hôtel de Beaumont"
               },
               "tip_5lang": {
                 "de": "Ein perfekter Stopp für Regentage; erkunden Sie die luxuriösen Innenräume dieses historischen Denkmals völlig trocken und angenehm warm.",
                 "hu": "Tökéletes megálló esős napokra; fedezze fel ennek a történelmi emlékműnek a fényűző belső tereit, miközben teljesen száraz és meleg marad.",
                 "ro": "O oprire perfectă pentru zilele ploioase; explorați interioarele luxoase ale acestui monument istoric, rămânând complet uscat și la căldură.",
-                "en": "A perfect rainy-day stop; thoroughly explore the luxurious interiors of this historic monument while comfortably staying completely dry and warm."
+                "en": "A perfect rainy-day stop; thoroughly explore the luxurious interiors of this historic monument while comfortably staying completely dry and warm.",
+                "fr": "Un arrêt parfait pour un jour de pluie ; explorez à fond les intérieurs luxueux de ce monument historique tout en restant au sec et au chaud."
               }
             },
             {
@@ -905,13 +1003,15 @@
                 "de": "Thermes antiques d'Alauna",
                 "hu": "Thermes antiques d'Alauna",
                 "ro": "Thermes antiques d'Alauna",
-                "en": "Thermes antiques d'Alauna"
+                "en": "Thermes antiques d'Alauna",
+                "fr": "Thermes antiques d'Alauna"
               },
               "tip_5lang": {
                 "de": "Behalten Sie Ihren Regenmantel für diesen schnellen Stopp im Freien an; die Ruinen sind faszinierend, bieten aber absolut keinen Schutz.",
                 "hu": "Tartsa magán esőkabátját ennél a gyors szabadtéri megállónál; a római fürdőromok lenyűgözőek, de egyáltalán nem nyújtanak menedéket.",
                 "ro": "Păstrați-vă pelerina de ploaie pentru această oprire rapidă în aer liber; ruinele băilor romane sunt fascinante, dar nu oferă niciun adăpost.",
-                "en": "Keep your heavy raincoat on for this quick outdoor stop; the Roman bath ruins are fascinating but offer absolutely no shelter from the weather."
+                "en": "Keep your heavy raincoat on for this quick outdoor stop; the Roman bath ruins are fascinating but offer absolutely no shelter from the weather.",
+                "fr": "Gardez votre lourd imperméable pour cet arrêt rapide en plein air ; les ruines des thermes romains sont fascinantes mais n'offrent absolument aucun abri contre les intempéries."
               }
             },
             {
@@ -919,13 +1019,15 @@
                 "de": "Manoir du Quesnay",
                 "hu": "Manoir du Quesnay",
                 "ro": "Manoir du Quesnay",
-                "en": "Manoir du Quesnay"
+                "en": "Manoir du Quesnay",
+                "fr": "Manoir du Quesnay"
               },
               "tip_5lang": {
                 "de": "Fahren Sie vorsichtig auf den nassen Landstraßen zu diesem Herrenhaus; bewundern Sie die Architektur bequem aus Ihrem warmen Auto heraus.",
                 "hu": "Vezessen óvatosan a nedves vidéki utakon a kúriához; csodálja meg annak jellegzetes védelmi építészetét autója melegéből és kényelméből.",
                 "ro": "Conduceți cu atenție pe drumurile rurale umede pentru a ajunge la acest conac; admirați arhitectura sa defensivă din confortul mașinii.",
-                "en": "Drive very carefully on the wet rural roads to reach this manor; deeply admire its defensive architecture from the comfort of your car."
+                "en": "Drive very carefully on the wet rural roads to reach this manor; deeply admire its defensive architecture from the comfort of your car.",
+                "fr": "Conduisez très prudemment sur les routes rurales mouillées pour atteindre ce manoir ; admirez profondément son architecture défensive depuis le confort de votre voiture."
               }
             },
             {
@@ -933,13 +1035,15 @@
                 "de": "Château de Servigny",
                 "hu": "Château de Servigny",
                 "ro": "Château de Servigny",
-                "en": "Château de Servigny"
+                "en": "Château de Servigny",
+                "fr": "Château de Servigny"
               },
               "tip_5lang": {
                 "de": "Genießen Sie die malerische Fahrt zu diesem prächtigen Schloss; achten Sie auf große und tiefe Pfützen im unbefestigten Parkbereich.",
                 "hu": "Élvezze a festői utazást ehhez a pompás kastélyhoz, amely tökéletes finálé; nagyon ügyeljen a parkolóban kialakult mély, nagy tócsákra.",
                 "ro": "Bucurați-vă de drumul pitoresc spre acest castel splendid, perfect pentru un final grandios; atenție la bălțile mari din zona de parcare.",
-                "en": "Enjoy the scenic drive to this splendid, massive castle, perfect for a grand finale; strictly watch out for large puddles in the parking area."
+                "en": "Enjoy the scenic drive to this splendid, massive castle, perfect for a grand finale; strictly watch out for large puddles in the parking area.",
+                "fr": "Appréciez la route pittoresque jusqu'à ce splendide et massif château, parfait pour une conclusion grandiose ; faites très attention aux grandes flaques sur l'aire de stationnement."
               }
             }
           ]
@@ -949,7 +1053,8 @@
             "de": "Fahren Sie an einem frostigen Wintermorgen mit Heizung zum Hôtel Dorléans und zur Kirche Saint-Malo. Besuchen Sie mittags das Hôtel de Beaumont und trotzen Sie der Kälte für einen Blick auf die Alauna-Ruinen. Fahren Sie am kühlen Nachmittag zum malerischen Manoir du Quesnay und zum majestätischen Château de Servigny, bevor die Sonne um 17:00 Uhr untergeht.",
             "hu": "Egy fagyos téli reggelen bekapcsolt fűtéssel vezessen a Hôtel Dorléans-hoz és a Saint-Malo templomhoz. Délben látogassa meg a Hôtel de Beaumont-t, és dacoljon a hideggel az Alauna romoknál. A hűvös délután folyamán még sötétedés, azaz 17:00 óra előtt hajtson el a festői Manoir du Quesnay-hez és a fenséges Château de Servigny-hez.",
             "ro": "Într-o dimineață geroasă, conduceți cu căldura pornită spre Hôtel Dorléans și Biserica Saint-Malo. La prânz, vizitați impozantul Hôtel de Beaumont și înfruntați frigul la ruinele Alauna. În după-amiaza rece, conduceți spre pitorescul Manoir du Quesnay și maiestuosul Château de Servigny înainte ca soarele să apună în jur de ora 17:00.",
-            "en": "On a frosty winter morning, drive with the heater on to Hôtel Dorléans and the grand Saint-Malo Church. At noon, visit the stately Hôtel de Beaumont and brave the cold for a quick look at the Alauna ruins. During the chilly afternoon, drive to the picturesque Manoir du Quesnay and the majestic Château de Servigny before the sun sets around 5 PM."
+            "en": "On a frosty winter morning, drive with the heater on to Hôtel Dorléans and the grand Saint-Malo Church. At noon, visit the stately Hôtel de Beaumont and brave the cold for a quick look at the Alauna ruins. During the chilly afternoon, drive to the picturesque Manoir du Quesnay and the majestic Château de Servigny before the sun sets around 5 PM.",
+            "fr": "Par un matin d'hiver givré, conduisez le chauffage allumé jusqu'à l'Hôtel Dorléans et la grande église Saint-Malo. À midi, visitez le majestueux Hôtel de Beaumont et bravez le froid pour un rapide coup d'œil aux ruines d'Alauna. Durant l'après-midi frais, rendez-vous au pittoresque Manoir du Quesnay et au majestueux Château de Servigny avant que le soleil ne se couche vers 17 h."
           },
           "stops": [
             {
@@ -957,13 +1062,15 @@
                 "de": "Hôtel Dorléans",
                 "hu": "Hôtel Dorléans",
                 "ro": "Hôtel Dorléans",
-                "en": "Hôtel Dorléans"
+                "en": "Hôtel Dorléans",
+                "fr": "Hôtel Dorléans"
               },
               "tip_5lang": {
                 "de": "Bestaunen Sie die Architektur in der klaren Winterluft; stellen Sie sicher, dass die Windschutzscheibe Ihres Autos vollständig enteist ist.",
                 "hu": "Csodálja meg az arisztokratikus építészetet a friss téli levegőn; indulás előtt győződjön meg arról, hogy autója szélvédője teljesen leolvadt.",
                 "ro": "Minunați-vă de arhitectura aristocratică în aerul curat de iarnă; asigurați-vă că parbrizul mașinii este complet dezghețat înainte de a porni.",
-                "en": "Marvel at the aristocratic architecture in the crisp winter air; ensure your car's windshield is fully defrosted before setting off safely."
+                "en": "Marvel at the aristocratic architecture in the crisp winter air; ensure your car's windshield is fully defrosted before setting off safely.",
+                "fr": "Admirez l'architecture aristocratique dans l'air vif de l'hiver ; assurez-vous que le pare-brise de votre voiture est complètement dégivré avant de partir en toute sécurité."
               }
             },
             {
@@ -971,13 +1078,15 @@
                 "de": "Kirche Saint-Malo",
                 "hu": "Saint-Malo templom",
                 "ro": "Biserica Saint-Malo",
-                "en": "Saint-Malo Church"
+                "en": "Saint-Malo Church",
+                "fr": "Église Saint-Malo"
               },
               "tip_5lang": {
                 "de": "Entfliehen Sie der Winterkälte, indem Sie diese riesige Kirche betreten, um die restaurierten Buntglasfenster und Steinsäulen zu bewundern.",
                 "hu": "Meneküljön el a téli hideg elől ebbe a hatalmas templomba, és csodálja meg a gyönyörűen felújított ólomüveg ablakokat és kőoszlopokat.",
                 "ro": "Scăpați de frigul iernii intrând în această biserică vastă pentru a admira vitraliile frumos restaurate și stâlpii masivi de piatră.",
-                "en": "Escape the harsh winter chill by stepping strictly inside this vast church to admire its beautifully restored stained glass and stone pillars."
+                "en": "Escape the harsh winter chill by stepping strictly inside this vast church to admire its beautifully restored stained glass and stone pillars.",
+                "fr": "Échappez au rude froid hivernal en entrant strictement à l'intérieur de cette vaste église pour admirer ses vitraux et ses piliers de pierre magnifiquement restaurés."
               }
             },
             {
@@ -985,13 +1094,15 @@
                 "de": "Hôtel de Beaumont",
                 "hu": "Hôtel de Beaumont",
                 "ro": "Hôtel de Beaumont",
-                "en": "Hôtel de Beaumont"
+                "en": "Hôtel de Beaumont",
+                "fr": "Hôtel de Beaumont"
               },
               "tip_5lang": {
                 "de": "Besichtigen Sie die opulenten Räume dieses Herrenhauses, um warm zu bleiben und gleichzeitig mehr über die reiche Geschichte zu erfahren.",
                 "hu": "Járja be ennek a 18. századi palotának a pazar termeit, hogy melegen maradjon, miközben megismeri a régió gazdag, arisztokratikus történelmét.",
                 "ro": "Vizitați camerele opulente ale acestui conac pentru a rămâne la căldură în timp ce învățați despre istoria bogată a regiunii în timpul iernii.",
-                "en": "Tour the absolutely opulent rooms of this 18th-century mansion to stay warm while comfortably learning about the region's rich history."
+                "en": "Tour the absolutely opulent rooms of this 18th-century mansion to stay warm while comfortably learning about the region's rich history.",
+                "fr": "Visitez les pièces absolument opulentes de cette demeure du XVIIIe siècle pour rester au chaud tout en apprenant confortablement l'histoire riche de la région."
               }
             },
             {
@@ -999,13 +1110,15 @@
                 "de": "Thermes antiques d'Alauna",
                 "hu": "Thermes antiques d'Alauna",
                 "ro": "Thermes antiques d'Alauna",
-                "en": "Thermes antiques d'Alauna"
+                "en": "Thermes antiques d'Alauna",
+                "fr": "Thermes antiques d'Alauna"
               },
               "tip_5lang": {
                 "de": "Ziehen Sie sich für diesen Stopp dick an; die antiken römischen Bäder sind den eisigen Winterwinden der Normandie völlig schutzlos ausgesetzt.",
                 "hu": "Öltözzön fel vastagon ehhez a gyors megállóhoz; az ősi római fürdők teljesen ki vannak téve a fagyos, süvítő normandiai téli szeleknek.",
                 "ro": "Îmbrăcați-vă în straturi groase pentru această oprire; băile romane antice sunt expuse vânturilor înghețate de iarnă din Normandia.",
-                "en": "Dress in heavy layers for this very quick stop; the ancient Roman baths are completely exposed to the freezing winter winds of Normandy."
+                "en": "Dress in heavy layers for this very quick stop; the ancient Roman baths are completely exposed to the freezing winter winds of Normandy.",
+                "fr": "Habillez-vous en couches épaisses pour cet arrêt très rapide ; les anciens thermes romains sont complètement exposés aux vents glacés de l'hiver normand."
               }
             },
             {
@@ -1013,13 +1126,15 @@
                 "de": "Manoir du Quesnay",
                 "hu": "Manoir du Quesnay",
                 "ro": "Manoir du Quesnay",
-                "en": "Manoir du Quesnay"
+                "en": "Manoir du Quesnay",
+                "fr": "Manoir du Quesnay"
               },
               "tip_5lang": {
                 "de": "Genießen Sie die malerische Winterfahrt durch die Landschaft zu diesem Herrenhaus; achten Sie auf Glatteis auf den kleinen Landstraßen.",
                 "hu": "Élvezze a festői téli autózást a vidéken át ehhez a történelmi kúriához; nagyon vigyázzon a fekete jégre az eldugott vidéki utakon.",
                 "ro": "Bucurați-vă de condusul pitoresc de iarnă prin mediul rural spre acest conac istoric; fiți precauți la gheața neagră de pe drumurile rurale.",
-                "en": "Enjoy the highly scenic winter drive through the countryside to this historic manor; always be extremely cautious of black ice on rural roads."
+                "en": "Enjoy the highly scenic winter drive through the countryside to this historic manor; always be extremely cautious of black ice on rural roads.",
+                "fr": "Appréciez la splendide route hivernale à travers la campagne jusqu’à ce manoir historique ; soyez toujours extrêmement vigilant·e au verglas sur les routes rurales."
               }
             },
             {
@@ -1027,13 +1142,15 @@
                 "de": "Château de Servigny",
                 "hu": "Château de Servigny",
                 "ro": "Château de Servigny",
-                "en": "Château de Servigny"
+                "en": "Château de Servigny",
+                "fr": "Château de Servigny"
               },
               "tip_5lang": {
                 "de": "Kommen Sie vor 17:00 Uhr an, um die wunderschöne Fassade dieses prächtigen Schlosses zu genießen, bevor die frühe Winterdämmerung einsetzt.",
                 "hu": "Érkezzen ehhez a lenyűgöző kastélyhoz még 17:00 óra előtt, hogy megcsodálhassa gyönyörű homlokzatát a korai téli szürkület beállta előtt.",
                 "ro": "Ajungeți la acest castel magnific înainte de ora 17:00 pentru a-i aprecia fațada frumoasă înainte ca amurgul timpuriu de iarnă să se stingă.",
-                "en": "Arrive at this magnificent castle strictly before 5 PM to fully appreciate its beautiful facade before the early winter twilight completely fades."
+                "en": "Arrive at this magnificent castle strictly before 5 PM to fully appreciate its beautiful facade before the early winter twilight completely fades.",
+                "fr": "Arrivez à ce magnifique château impérativement avant 17h pour apprécier pleinement sa belle façade avant que le crépuscule hivernal précoce ne s’éteigne."
               }
             }
           ]

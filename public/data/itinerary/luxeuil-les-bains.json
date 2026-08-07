@@ -21,7 +21,8 @@
             "de": "Saint-Colomban Abbey",
             "hu": "Saint-Colomban Abbey",
             "ro": "Saint-Colomban Abbey",
-            "en": "Saint-Colomban Abbey"
+            "en": "Saint-Colomban Abbey",
+            "fr": "Abbaye Saint-Colomban"
           },
           "coords": [
             6.381061,
@@ -36,7 +37,8 @@
             "de": "Bewundern Sie die beeindruckende Klosterarchitektur der Abtei Saint-Colomban und erkunden Sie den friedlichen Kreuzgang, wo das Licht am Morgen am besten ist.",
             "hu": "Csodálja meg a Saint-Colomban apátság lenyűgöző kolostori építészetét, és fedezze fel a békés kerengőt, amely a kora reggeli fényben a legszebb.",
             "ro": "Admirați arhitectura monastică impresionantă a Abației Saint-Colomban înainte de a explora claustrul său pașnic, ideal de vizitat în lumina blândă a dimineții.",
-            "en": "Admire the striking monastic architecture of Saint-Colomban Abbey before heading inside to explore its peaceful cloister where early morning light is best."
+            "en": "Admire the striking monastic architecture of Saint-Colomban Abbey before heading inside to explore its peaceful cloister where early morning light is best.",
+            "fr": "Admirez la remarquable architecture monastique de l'abbaye Saint-Colomban avant de pénétrer à l'intérieur pour explorer son cloître paisible où la lumière du matin est la plus belle."
           }
         },
         {
@@ -44,7 +46,8 @@
             "de": "Musée de la Tour des échevins",
             "hu": "Musée de la Tour des échevins",
             "ro": "Musée de la Tour des échevins",
-            "en": "Musée de la Tour des échevins"
+            "en": "Musée de la Tour des échevins",
+            "fr": "Musée de la Tour des échevins"
           },
           "coords": [
             6.380367,
@@ -59,7 +62,8 @@
             "de": "Steigen Sie auf die Spitze dieses historischen Schöffenturms, um galloromanische Artefakte zu entdecken und den Panoramablick auf die Vogesen zu genießen.",
             "hu": "Másszon fel erre a történelmi tanácsnoki toronyra, hogy felfedezze az ősi gall-római leleteket, és élvezze a Vogézekre nyíló panorámát a felső teraszról.",
             "ro": "Urcați în turnul istoric al consilierilor pentru a descoperi artefacte galo-romane antice și pentru a vă bucura de priveliști panoramice de pe terasa superioară.",
-            "en": "Climb to the top of this historic aldermen's tower to discover ancient Gallo-Roman artifacts and enjoy panoramic views of the Vosges from the upper terrace."
+            "en": "Climb to the top of this historic aldermen's tower to discover ancient Gallo-Roman artifacts and enjoy panoramic views of the Vosges from the upper terrace.",
+            "fr": "Montez au sommet de cette tour historique des échevins pour découvrir des vestiges gallo-romains et profiter d'une vue panoramique sur les Vosges depuis la terrasse supérieure."
           }
         },
         {
@@ -67,7 +71,8 @@
             "de": "Luxeuil-les-Bains Thermal Baths",
             "hu": "Luxeuil-les-Bains Thermal Baths",
             "ro": "Luxeuil-les-Bains Thermal Baths",
-            "en": "Luxeuil-les-Bains Thermal Baths"
+            "en": "Luxeuil-les-Bains Thermal Baths",
+            "fr": "Thermes de Luxeuil-les-Bains"
           },
           "coords": [
             6.377093,
@@ -82,7 +87,8 @@
             "de": "Entspannen Sie im historischen Thermalwasser, das Luxeuil seit der Römerzeit berühmt gemacht hat, aber bringen Sie ein eigenes Handtuch und Badeschuhe mit.",
             "hu": "Pihenjen a történelmi termálvizekben, amelyek a római kor óta híressé tették Luxeuilt, de a legjobb élmény érdekében hozzon magával saját törölközőt és papucsot.",
             "ro": "Relaxați-vă în apele termale istorice care au făcut orașul celebru încă din epoca romană, dar nu uitați să vă aduceți propriul prosop și șlapi pentru confort.",
-            "en": "Relax in the historic thermal waters that have made Luxeuil famous since Roman times, but remember to bring your own towel and flip-flops for the best experience."
+            "en": "Relax in the historic thermal waters that have made Luxeuil famous since Roman times, but remember to bring your own towel and flip-flops for the best experience.",
+            "fr": "Détendez-vous dans les eaux thermales historiques qui font la renommée de Luxeuil depuis l'époque romaine, mais pensez à apporter votre propre serviette et des tongs pour profiter au mieux de l'expérience."
           }
         },
         {
@@ -90,7 +96,8 @@
             "de": "EHPAD Château Grammont",
             "hu": "EHPAD Château Grammont",
             "ro": "EHPAD Château Grammont",
-            "en": "EHPAD Château Grammont"
+            "en": "EHPAD Château Grammont",
+            "fr": "EHPAD Château Grammont"
           },
           "coords": [
             6.379621,
@@ -105,7 +112,8 @@
             "de": "Betrachten Sie die elegante Fassade des Château Grammont vom umliegenden Gelände aus, da es als Pflegeheim dient und die Innenräume daher nicht zugänglich sind.",
             "hu": "Figyelje meg a Château Grammont elegáns homlokzatát a környező parkból, szem előtt tartva, hogy az idősek otthonaként működik, így a belső terek nem látogathatók.",
             "ro": "Observați fațada elegantă a Château Grammont de pe terenul înconjurător, ținând cont de faptul că funcționează ca un cămin, deci interioarele nu pot fi vizitate.",
-            "en": "Observe the elegant facade of the Château Grammont from the surrounding grounds, keeping in mind that it operates as a care home so interiors are restricted."
+            "en": "Observe the elegant facade of the Château Grammont from the surrounding grounds, keeping in mind that it operates as a care home so interiors are restricted.",
+            "fr": "Observez la façade élégante du Château Grammont depuis les abords, en gardant à l'esprit qu'il fonctionne comme maison de retraite et que l'accès aux intérieurs est restreint."
           }
         },
         {
@@ -113,7 +121,8 @@
             "de": "Atelier de potiers du Chatigny",
             "hu": "Atelier de potiers du Chatigny",
             "ro": "Atelier de potiers du Chatigny",
-            "en": "Atelier de potiers du Chatigny"
+            "en": "Atelier de potiers du Chatigny",
+            "fr": "Atelier de potiers du Chatigny"
           },
           "coords": [
             6.382277,
@@ -128,7 +137,8 @@
             "de": "Besuchen Sie diese traditionelle Töpferwerkstatt, um lokalen Handwerkern bei der Arbeit zuzusehen, und kaufen Sie ein einzigartiges handgemachtes Souvenir.",
             "hu": "Lépjen be ebbe a hagyományos fazekasműhelybe, nézze meg a helyi kézművesek munkáját, és vásároljon egy egyedi, kézzel készített kerámiát szuvenírként.",
             "ro": "Intrați în acest atelier tradițional de olărit pentru a urmări artizanii locali la lucru și luați în considerare achiziționarea unei piese unice ca suvenir.",
-            "en": "Step into this traditional pottery workshop to watch local artisans craft beautiful ceramics, and consider purchasing a unique handmade piece as a souvenir."
+            "en": "Step into this traditional pottery workshop to watch local artisans craft beautiful ceramics, and consider purchasing a unique handmade piece as a souvenir.",
+            "fr": "Entrez dans cet atelier de poterie traditionnel pour regarder des artisans locaux façonner de belles céramiques, et envisagez d'acheter une pièce unique faite main en souvenir."
           }
         }
       ],
@@ -136,7 +146,8 @@
         "de": "Beginnen Sie Ihren Morgen mit der Erkundung des alten klösterlichen Herzens von Luxeuil-les-Bains in der Abtei Saint-Colomban. Danach tauchen Sie in die lokale Geschichte ein. Entspannen Sie mittags in den berühmten römischen Thermalbädern, um neue Energie zu tanken. Verbringen Sie den Nachmittag am Château Grammont und entdecken Sie das Töpferhandwerk.",
         "hu": "Kezdje a reggelt Luxeuil-les-Bains ősi kolostori központjának felfedezésével a Saint-Colomban apátságban. Ezután merüljön el a helyi történelemben a múzeumban. Délben lazítson a híres római termálfürdőkben, hogy felfrissüljön. Délután csodálja meg a Château Grammont külsejét, és fedezze fel a helyi kézművességet a fazekasműhelyben.",
         "ro": "Începeți dimineața explorând inima monastică a orașului Luxeuil-les-Bains la Abația Saint-Colomban. Apoi, scufundați-vă în istoria locală la Muzeul Tour des échevins. La amiază, relaxați-vă în faimoasele băi termale romane. Petreceți după-amiaza admirând exteriorul Château Grammont și finalizați prin a descoperi meșteșugurile la atelierul de olărit.",
-        "en": "Start your morning exploring the ancient monastic heart of Luxeuil-les-Bains at the Saint-Colomban Abbey. Afterward, dive into local history at the Tour des échevins. Midday, relax in the famous Roman thermal baths to rejuvenate. Spend your afternoon admiring the exterior of Château Grammont and finish by discovering local craftsmanship at the pottery workshop."
+        "en": "Start your morning exploring the ancient monastic heart of Luxeuil-les-Bains at the Saint-Colomban Abbey. Afterward, dive into local history at the Tour des échevins. Midday, relax in the famous Roman thermal baths to rejuvenate. Spend your afternoon admiring the exterior of Château Grammont and finish by discovering local craftsmanship at the pottery workshop.",
+        "fr": "Commencez la matinée en explorant le cœur monastique ancien de Luxeuil-les-Bains à l'abbaye Saint-Colomban. Ensuite, plongez dans l'histoire locale à la Tour des échevins. À midi, détendez-vous dans les célèbres thermes romains pour vous ressourcer. Passez l'après-midi à admirer l'extérieur du Château Grammont et terminez en découvrant l'artisanat local à l'atelier de potiers."
       },
       "variants": {
         "rainy": {
@@ -144,7 +155,8 @@
             "de": "Beginnen Sie den Morgen mit einem Regenschirm in der alten Abtei. Suchen Sie mittags Schutz im Museum und den Thermalbädern. Trotzen Sie am Nachmittag dem Nieselregen beim Schloss und der Töpferwerkstatt. Der regnerische Abend lädt zu einem gemütlichen, trockenen Rückzugsort im Stadtzentrum ein.",
             "hu": "Kezdje a reggelt az ősi apátságban egy stabil esernyővel. Délben keressen menedéket a múzeumban és a híres termálfürdőben. Délután dacoljon a szitáló esővel a kastélynál és a fazekasműhelynél. Az esős este egy hangulatos, száraz pihenőt kíván a városközpontban.",
             "ro": "Începeți dimineața explorând vechea abație cu o umbrelă rezistentă. La prânz, adăpostiți-vă în muzeu și în faimoasele băi termale. După-amiaza, înfruntați burnița pentru a admira castelul și atelierul de ceramică. Seara ploioasă cere o retragere confortabilă și uscată în centru.",
-            "en": "Start the morning exploring the ancient abbey with a sturdy umbrella. By midday, take shelter in the museum and the famous thermal baths. In the afternoon, brave the drizzle to admire the castle and pottery workshop. The rainy evening calls for a cozy, dry retreat in the town center."
+            "en": "Start the morning exploring the ancient abbey with a sturdy umbrella. By midday, take shelter in the museum and the famous thermal baths. In the afternoon, brave the drizzle to admire the castle and pottery workshop. The rainy evening calls for a cozy, dry retreat in the town center.",
+            "fr": "Commencez la matinée par la visite de l'abbaye ancienne avec un parapluie solide. À midi, abritez-vous au musée et dans les thermes célèbres. L'après-midi, bravez la bruine pour admirer le château et l'atelier de poterie. La soirée pluvieuse appelle un refuge confortable et sec au centre-ville."
           },
           "stops": [
             {
@@ -152,13 +164,15 @@
                 "de": "Saint-Colomban Abbey",
                 "hu": "Saint-Colomban Abbey",
                 "ro": "Saint-Colomban Abbey",
-                "en": "Saint-Colomban Abbey"
+                "en": "Saint-Colomban Abbey",
+                "fr": "Abbaye Saint-Colomban"
               },
               "tip_5lang": {
                 "de": "Bewundern Sie die Architektur aus dem Schutz des Kirchenschiffs; halten Sie Ihren Regenschirm für den Weg zum Eingang bereit.",
                 "hu": "Csodálja meg az építészetet a főhajó menedékéből; tartsa kéznél esernyőjét a bejáratig tartó rövid sétához az esőben.",
                 "ro": "Admirați arhitectura impresionantă din adăpostul naosului său; țineți umbrela la îndemână pentru scurta plimbare până la intrare.",
-                "en": "Admire the impressive architecture from the shelter of its nave; keep your umbrella handy for the short walk to the entrance."
+                "en": "Admire the impressive architecture from the shelter of its nave; keep your umbrella handy for the short walk to the entrance.",
+                "fr": "Admirez l'architecture imposante depuis l'abri de la nef ; gardez votre parapluie à portée de main pour la courte marche jusqu'à l'entrée."
               }
             },
             {
@@ -166,13 +180,15 @@
                 "de": "Musée de la Tour des échevins",
                 "hu": "Musée de la Tour des échevins",
                 "ro": "Musée de la Tour des échevins",
-                "en": "Musée de la Tour des échevins"
+                "en": "Musée de la Tour des échevins",
+                "fr": "Musée de la Tour des échevins"
               },
               "tip_5lang": {
                 "de": "Ein perfekter Zufluchtsort mit lokaler Geschichte. Legen Sie nasse Sachen am Eingang ab und genießen Sie die trockenen Ausstellungen.",
                 "hu": "Tökéletes beltéri menedék a helyi történelemmel; tegye le vizes holmiját a bejáratnál, és élvezze a száraz, lenyűgöző kiállításokat.",
                 "ro": "Un refugiu perfect ce prezintă istoria locală; lăsați echipamentul ud la intrare și bucurați-vă de exponatele uscate și fascinante.",
-                "en": "A perfect indoor refuge showcasing local history; stow your wet gear at the entrance and enjoy the dry, fascinating exhibits."
+                "en": "A perfect indoor refuge showcasing local history; stow your wet gear at the entrance and enjoy the dry, fascinating exhibits.",
+                "fr": "Un refuge intérieur parfait mettant en valeur l'histoire locale ; rangez votre équipement humide à l'entrée et profitez des expositions sèches et fascinantes."
               }
             },
             {
@@ -180,13 +196,15 @@
                 "de": "Luxeuil-les-Bains Thermal Baths",
                 "hu": "Luxeuil-les-Bains Thermal Baths",
                 "ro": "Luxeuil-les-Bains Thermal Baths",
-                "en": "Luxeuil-les-Bains Thermal Baths"
+                "en": "Luxeuil-les-Bains Thermal Baths",
+                "fr": "Thermes de Luxeuil-les-Bains"
               },
               "tip_5lang": {
                 "de": "Es gibt an einem Regentag nichts Besseres, als in die dampfenden Mineralwässer einzutauchen und dem Regen zuzuhören.",
                 "hu": "Esős napokon nincs is jobb, mint elmerülni a gőzölgő ásványvízben, miközben hallgatja, ahogy az eső dobol a tetőn.",
                 "ro": "Nu este nimic mai bun într-o zi ploioasă decât să te scufunzi în apele minerale aburinde ascultând ploaia afară.",
-                "en": "There is nothing better on a rainy day than sinking into the steaming mineral waters while listening to the rain drum outside."
+                "en": "There is nothing better on a rainy day than sinking into the steaming mineral waters while listening to the rain drum outside.",
+                "fr": "Rien de tel par temps de pluie que de s'immerger dans les eaux minérales fumantes en écoutant la pluie tomber dehors."
               }
             },
             {
@@ -194,13 +212,15 @@
                 "de": "EHPAD Château Grammont",
                 "hu": "EHPAD Château Grammont",
                 "ro": "EHPAD Château Grammont",
-                "en": "EHPAD Château Grammont"
+                "en": "EHPAD Château Grammont",
+                "fr": "EHPAD Château Grammont"
               },
               "tip_5lang": {
                 "de": "Betrachten Sie die Schlossfassade unter Ihrem Regenschirm; die Wege können schlammig sein, wasserdichtes Schuhwerk wird empfohlen.",
                 "hu": "Csodálja meg a kastély homlokzatát esernyője alól; az ösvények sarasak lehetnek, ezért strapabíró, vízálló lábbeli viselése ajánlott.",
                 "ro": "Priviți fațada castelului de sub umbrelă; aleile pot deveni noroioase, așa că se recomandă încălțăminte impermeabilă și rezistentă.",
-                "en": "View the classic castle facade from under your umbrella; the paths can get muddy, so sturdy waterproof footwear is recommended."
+                "en": "View the classic castle facade from under your umbrella; the paths can get muddy, so sturdy waterproof footwear is recommended.",
+                "fr": "Contemplez la façade classique du château sous votre parapluie ; les chemins peuvent devenir boueux, donc des chaussures étanches et solides sont recommandées."
               }
             },
             {
@@ -208,13 +228,15 @@
                 "de": "Atelier de potiers du Chatigny",
                 "hu": "Atelier de potiers du Chatigny",
                 "ro": "Atelier de potiers du Chatigny",
-                "en": "Atelier de potiers du Chatigny"
+                "en": "Atelier de potiers du Chatigny",
+                "fr": "Atelier de potiers du Chatigny"
               },
               "tip_5lang": {
                 "de": "Beobachten Sie die Töpferscheibe in dieser trockenen Werkstatt, ein wunderbarer Rückzugsort, wenn das Wetter draußen ungemütlich ist.",
                 "hu": "Nézze meg a fazekaskorong forgását ebben a hangulatos műhelyben, amely csodálatos beltéri menedék, ha kint zordra fordul az idő.",
                 "ro": "Urmăriți roata olarului în acest atelier uscat și confortabil, fiind o evadare minunată în interior când vremea este urâtă.",
-                "en": "Watch the potter's wheel spin in this cozy, dry workshop, making it a wonderful indoor escape when the weather turns miserable."
+                "en": "Watch the potter's wheel spin in this cozy, dry workshop, making it a wonderful indoor escape when the weather turns miserable.",
+                "fr": "Regardez le tour de potier tourner dans cet atelier chaleureux et sec, en faisant un merveilleux refuge intérieur lorsque le temps se gâte."
               }
             }
           ]
@@ -224,7 +246,8 @@
             "de": "Ziehen Sie sich warm an für einen Spaziergang um die Abtei. Mittags können Sie sich im Museum und den Thermalbädern aufwärmen. Der Nachmittagsspaziergang zum Schloss und zur Töpferwerkstatt ist erfrischend. Rechnen Sie mit früher Dämmerung gegen 17:00 Uhr für einen ruhigen Abend.",
             "hu": "Öltözzön melegen a csípős reggeli sétához a történelmi apátság körül. A dél tökéletes alkalmat kínál a felmelegedésre a múzeumban és a termálfürdőben. A délutáni séta a kastélyhoz frissítő lesz. Számítson korai sötétedésre 17:00 körül, ami gyönyörűvé teszi az estét.",
             "ro": "Îmbrăcați-vă gros pentru o plimbare matinală pe lângă abația istorică. Prânzul oferă șansa perfectă de a vă încălzi în muzeu și în băile termale. Plimbarea de după-amiază spre castel este revigorantă. Așteptați-vă la un amurg devreme, pe la 17:00, lăsând o seară senină.",
-            "en": "Wrap up warmly for a crisp morning walk around the historic abbey. Midday offers a perfect chance to thaw out in the museum and the soothing thermal baths. The afternoon stroll to the castle and pottery workshop is brisk. Expect early twilight by 17:00, making the evening beautifully serene."
+            "en": "Wrap up warmly for a crisp morning walk around the historic abbey. Midday offers a perfect chance to thaw out in the museum and the soothing thermal baths. The afternoon stroll to the castle and pottery workshop is brisk. Expect early twilight by 17:00, making the evening beautifully serene.",
+            "fr": "Couvrez-vous bien pour une promenade matinale fraîche autour de l'abbaye historique. À midi, profitez d'une occasion parfaite pour vous réchauffer au musée et dans les thermes apaisants. La promenade de l'après-midi vers le château et l'atelier de poterie est vive. Attendez-vous à un crépuscule précoce vers 17:00, rendant la soirée délicieusement sereine."
           },
           "stops": [
             {
@@ -232,13 +255,15 @@
                 "de": "Saint-Colomban Abbey",
                 "hu": "Saint-Colomban Abbey",
                 "ro": "Saint-Colomban Abbey",
-                "en": "Saint-Colomban Abbey"
+                "en": "Saint-Colomban Abbey",
+                "fr": "Abbaye Saint-Colomban"
               },
               "tip_5lang": {
                 "de": "Die massiven Steinwände können eiskalt sein. Tragen Sie eine zusätzliche Schicht, während Sie die historischen Ruinen in der Winterluft erkunden.",
                 "hu": "A masszív kőfalak jéghidegek lehetnek, így viseljen extra réteget, miközben felfedezi a történelmi romokat a csípős téli levegőben.",
                 "ro": "Zidurile de piatră pot fi înghețate, purtați un strat în plus explorând ruinele istorice în aerul rece de iarnă.",
-                "en": "The massive stone walls can be freezing, so wear an extra layer while exploring the historic ruins in the crisp winter air."
+                "en": "The massive stone walls can be freezing, so wear an extra layer while exploring the historic ruins in the crisp winter air.",
+                "fr": "Les murs de pierre massifs peuvent être glacés, donc portez une couche supplémentaire en explorant les ruines historiques par l'air hivernal piquant."
               }
             },
             {
@@ -246,13 +271,15 @@
                 "de": "Musée de la Tour des échevins",
                 "hu": "Musée de la Tour des échevins",
                 "ro": "Musée de la Tour des échevins",
-                "en": "Musée de la Tour des échevins"
+                "en": "Musée de la Tour des échevins",
+                "fr": "Musée de la Tour des échevins"
               },
               "tip_5lang": {
                 "de": "Entfliehen Sie der Winterkälte in diesem historischen Turm. Das Museum bietet ein gemütliches Eintauchen in die Vergangenheit.",
                 "hu": "Meneküljön a téli hideg elől ebbe a lenyűgöző történelmi toronyba; a múzeum hangulatos elmerülést kínál a régió múltjában.",
                 "ro": "Scăpați de frigul iernii în acest turn istoric fascinant; muzeul oferă o incursiune confortabilă în trecutul bogat al regiunii.",
-                "en": "Escape the winter chill inside this fascinating historical tower; the museum offers a cozy, deep dive into the region's rich past."
+                "en": "Escape the winter chill inside this fascinating historical tower; the museum offers a cozy, deep dive into the region's rich past.",
+                "fr": "Échappez au froid hivernal à l'intérieur de cette tour historique fascinante ; le musée offre une immersion chaleureuse et passionnante dans le riche passé de la région."
               }
             },
             {
@@ -260,13 +287,15 @@
                 "de": "Luxeuil-les-Bains Thermal Baths",
                 "hu": "Luxeuil-les-Bains Thermal Baths",
                 "ro": "Luxeuil-les-Bains Thermal Baths",
-                "en": "Luxeuil-les-Bains Thermal Baths"
+                "en": "Luxeuil-les-Bains Thermal Baths",
+                "fr": "Thermes de Luxeuil-les-Bains"
               },
               "tip_5lang": {
                 "de": "Wärmen Sie Ihre Knochen in den heißen Quellen auf, ein perfekter und entspannender Kontrast zu den eisigen Wintertemperaturen draußen.",
                 "hu": "Melegítse fel csontjait a híres hőforrásokban, amely tökéletes és pihentető kontrasztot nyújt a kinti fagyos téli hőmérséklettel szemben.",
                 "ro": "Încălziți-vă oasele în renumitele izvoare termale, oferind un contrast perfect și relaxant cu temperaturile scăzute de iarnă de afară.",
-                "en": "Warm your bones in the renowned hot springs, providing a perfect and relaxing contrast to the freezing winter temperatures outside."
+                "en": "Warm your bones in the renowned hot springs, providing a perfect and relaxing contrast to the freezing winter temperatures outside.",
+                "fr": "Réchauffez vos os dans les sources chaudes renommées, offrant un contraste parfait et relaxant avec les températures hivernales glacialement basses à l'extérieur."
               }
             },
             {
@@ -274,13 +303,15 @@
                 "de": "EHPAD Château Grammont",
                 "hu": "EHPAD Château Grammont",
                 "ro": "EHPAD Château Grammont",
-                "en": "EHPAD Château Grammont"
+                "en": "EHPAD Château Grammont",
+                "fr": "EHPAD Château Grammont"
               },
               "tip_5lang": {
                 "de": "Die Schlossanlage ist atemberaubend unter Frost; kleiden Sie sich warm, da der offene Innenhof die kalten Winterwinde einfängt.",
                 "hu": "A történelmi kastély kertje lenyűgöző a fagyban; öltözzön melegen, mivel a nyitott udvar felfogja a hideg, metsző téli szeleket.",
                 "ro": "Terenurile castelului sunt uimitoare sub îngheț; îmbrăcați-vă gros, deoarece curtea deschisă prinde vânturile reci de iarnă.",
-                "en": "The historic castle grounds are stunning under frost; dress warmly as the open courtyard catches the cold, biting winter winds."
+                "en": "The historic castle grounds are stunning under frost; dress warmly as the open courtyard catches the cold, biting winter winds.",
+                "fr": "Les jardins du château historique sont superbes sous le givre ; habillez-vous chaudement car la cour ouverte capte les vents hivernaux froids et mordants."
               }
             },
             {
@@ -288,13 +319,15 @@
                 "de": "Atelier de potiers du Chatigny",
                 "hu": "Atelier de potiers du Chatigny",
                 "ro": "Atelier de potiers du Chatigny",
-                "en": "Atelier de potiers du Chatigny"
+                "en": "Atelier de potiers du Chatigny",
+                "fr": "Atelier de potiers du Chatigny"
               },
               "tip_5lang": {
                 "de": "Die laufenden Öfen sorgen in diesem Laden für eine angenehme Wärme; ein toller Halt, um sich am Winternachmittag aufzuwärmen.",
                 "hu": "A működő kemencék kellemes meleget árasztanak ebben a bájos boltban; nagyszerű megálló a téli délutáni felmelegedéshez.",
                 "ro": "Cuptoarele de lucru oferă o căldură plăcută în acest magazin fermecător; o oprire excelentă pentru a vă încălzi după-amiaza.",
-                "en": "The working kilns provide a lovely burst of ambient heat in this charming shop; a great stop to warm up during the winter afternoon."
+                "en": "The working kilns provide a lovely burst of ambient heat in this charming shop; a great stop to warm up during the winter afternoon.",
+                "fr": "Les fours en fonctionnement procurent une agréable chaleur d'ambiance dans cette boutique charmante ; une excellente halte pour se réchauffer pendant l'après-midi d'hiver."
               }
             }
           ]
@@ -314,7 +347,8 @@
             "de": "Saint-Colomban Abbey",
             "hu": "Saint-Colomban Abbey",
             "ro": "Saint-Colomban Abbey",
-            "en": "Saint-Colomban Abbey"
+            "en": "Saint-Colomban Abbey",
+            "fr": "Abbaye Saint-Colomban"
           },
           "coords": [
             6.381061,
@@ -329,7 +363,8 @@
             "de": "Bewundern Sie die beeindruckende Klosterarchitektur der Abtei Saint-Colomban und erkunden Sie den friedlichen Kreuzgang, wo das Licht am Morgen am besten ist.",
             "hu": "Csodálja meg a Saint-Colomban apátság lenyűgöző kolostori építészetét, és fedezze fel a békés kerengőt, amely a kora reggeli fényben a legszebb.",
             "ro": "Admirați arhitectura monastică impresionantă a Abației Saint-Colomban înainte de a explora claustrul său pașnic, ideal de vizitat în lumina blândă a dimineții.",
-            "en": "Admire the striking monastic architecture of Saint-Colomban Abbey before heading inside to explore its peaceful cloister where early morning light is best."
+            "en": "Admire the striking monastic architecture of Saint-Colomban Abbey before heading inside to explore its peaceful cloister where early morning light is best.",
+            "fr": "Admirez la remarquable architecture monastique de l'abbaye Saint-Colomban avant de pénétrer à l'intérieur pour explorer son cloître paisible où la lumière du matin est la plus belle."
           }
         },
         {
@@ -337,7 +372,8 @@
             "de": "Musée de la Tour des échevins",
             "hu": "Musée de la Tour des échevins",
             "ro": "Musée de la Tour des échevins",
-            "en": "Musée de la Tour des échevins"
+            "en": "Musée de la Tour des échevins",
+            "fr": "Musée de la Tour des échevins"
           },
           "coords": [
             6.380367,
@@ -352,7 +388,8 @@
             "de": "Steigen Sie auf die Spitze dieses historischen Schöffenturms, um galloromanische Artefakte zu entdecken und den Panoramablick auf die Vogesen zu genießen.",
             "hu": "Másszon fel erre a történelmi tanácsnoki toronyra, hogy felfedezze az ősi gall-római leleteket, és élvezze a Vogézekre nyíló panorámát a felső teraszról.",
             "ro": "Urcați în turnul istoric al consilierilor pentru a descoperi artefacte galo-romane antice și pentru a vă bucura de priveliști panoramice de pe terasa superioară.",
-            "en": "Climb to the top of this historic aldermen's tower to discover ancient Gallo-Roman artifacts and enjoy panoramic views of the Vosges from the upper terrace."
+            "en": "Climb to the top of this historic aldermen's tower to discover ancient Gallo-Roman artifacts and enjoy panoramic views of the Vosges from the upper terrace.",
+            "fr": "Montez au sommet de cette tour historique des échevins pour découvrir des vestiges gallo-romains et profiter d'une vue panoramique sur les Vosges depuis la terrasse supérieure."
           }
         },
         {
@@ -360,7 +397,8 @@
             "de": "Luxeuil-les-Bains Thermal Baths",
             "hu": "Luxeuil-les-Bains Thermal Baths",
             "ro": "Luxeuil-les-Bains Thermal Baths",
-            "en": "Luxeuil-les-Bains Thermal Baths"
+            "en": "Luxeuil-les-Bains Thermal Baths",
+            "fr": "Thermes de Luxeuil-les-Bains"
           },
           "coords": [
             6.377093,
@@ -375,7 +413,8 @@
             "de": "Entspannen Sie im historischen Thermalwasser, das Luxeuil seit der Römerzeit berühmt gemacht hat, aber bringen Sie ein eigenes Handtuch und Badeschuhe mit.",
             "hu": "Pihenjen a történelmi termálvizekben, amelyek a római kor óta híressé tették Luxeuilt, de a legjobb élmény érdekében hozzon magával saját törölközőt és papucsot.",
             "ro": "Relaxați-vă în apele termale istorice care au făcut orașul celebru încă din epoca romană, dar nu uitați să vă aduceți propriul prosop și șlapi pentru confort.",
-            "en": "Relax in the historic thermal waters that have made Luxeuil famous since Roman times, but remember to bring your own towel and flip-flops for the best experience."
+            "en": "Relax in the historic thermal waters that have made Luxeuil famous since Roman times, but remember to bring your own towel and flip-flops for the best experience.",
+            "fr": "Détendez-vous dans les eaux thermales historiques qui font la renommée de Luxeuil depuis l'époque romaine, mais pensez à apporter votre propre serviette et des tongs pour profiter au mieux de l'expérience."
           }
         },
         {
@@ -383,7 +422,8 @@
             "de": "EHPAD Château Grammont",
             "hu": "EHPAD Château Grammont",
             "ro": "EHPAD Château Grammont",
-            "en": "EHPAD Château Grammont"
+            "en": "EHPAD Château Grammont",
+            "fr": "EHPAD Château Grammont"
           },
           "coords": [
             6.379621,
@@ -398,7 +438,8 @@
             "de": "Betrachten Sie die elegante Fassade des Château Grammont vom umliegenden Gelände aus, da es als Pflegeheim dient und die Innenräume daher nicht zugänglich sind.",
             "hu": "Figyelje meg a Château Grammont elegáns homlokzatát a környező parkból, szem előtt tartva, hogy az idősek otthonaként működik, így a belső terek nem látogathatók.",
             "ro": "Observați fațada elegantă a Château Grammont de pe terenul înconjurător, ținând cont de faptul că funcționează ca un cămin, deci interioarele nu pot fi vizitate.",
-            "en": "Observe the elegant facade of the Château Grammont from the surrounding grounds, keeping in mind that it operates as a care home so interiors are restricted."
+            "en": "Observe the elegant facade of the Château Grammont from the surrounding grounds, keeping in mind that it operates as a care home so interiors are restricted.",
+            "fr": "Observez la façade élégante du Château Grammont depuis les abords, en gardant à l'esprit qu'il fonctionne comme maison de retraite et que l'accès aux intérieurs est restreint."
           }
         },
         {
@@ -406,7 +447,8 @@
             "de": "Atelier de potiers du Chatigny",
             "hu": "Atelier de potiers du Chatigny",
             "ro": "Atelier de potiers du Chatigny",
-            "en": "Atelier de potiers du Chatigny"
+            "en": "Atelier de potiers du Chatigny",
+            "fr": "Atelier de potiers du Chatigny"
           },
           "coords": [
             6.382277,
@@ -421,7 +463,8 @@
             "de": "Besuchen Sie diese traditionelle Töpferwerkstatt, um lokalen Handwerkern bei der Arbeit zuzusehen, und kaufen Sie ein einzigartiges handgemachtes Souvenir.",
             "hu": "Lépjen be ebbe a hagyományos fazekasműhelybe, nézze meg a helyi kézművesek munkáját, és vásároljon egy egyedi, kézzel készített kerámiát szuvenírként.",
             "ro": "Intrați în acest atelier tradițional de olărit pentru a urmări artizanii locali la lucru și luați în considerare achiziționarea unei piese unice ca suvenir.",
-            "en": "Step into this traditional pottery workshop to watch local artisans craft beautiful ceramics, and consider purchasing a unique handmade piece as a souvenir."
+            "en": "Step into this traditional pottery workshop to watch local artisans craft beautiful ceramics, and consider purchasing a unique handmade piece as a souvenir.",
+            "fr": "Entrez dans cet atelier de poterie traditionnel pour regarder des artisans locaux façonner de belles céramiques, et envisagez d'acheter une pièce unique faite main en souvenir."
           }
         },
         {
@@ -429,7 +472,8 @@
             "de": "Chapelle du Messier",
             "hu": "Chapelle du Messier",
             "ro": "Chapelle du Messier",
-            "en": "Chapelle du Messier"
+            "en": "Chapelle du Messier",
+            "fr": "Chapelle du Messier"
           },
           "coords": [
             6.361589,
@@ -444,7 +488,8 @@
             "de": "Spazieren Sie zu dieser malerischen, etwas abseits gelegenen Kapelle und tragen Sie festes Schuhwerk, um die unebenen Wege in der Umgebung bequem zu bewältigen.",
             "hu": "Sétáljon el ehhez a központtól kicsit távolabb eső, festői kápolnához, és viseljen kényelmes cipőt, hogy biztonságosan haladhasson a környező egyenetlen utakon.",
             "ro": "Faceți o plimbare până la această capelă pitorească situată puțin mai departe de centru, purtând încălțăminte confortabilă pentru a naviga pe potecile inegale.",
-            "en": "Walk out to this small, picturesque religious chapel set slightly away from the center, wearing sturdy shoes to comfortably navigate the surrounding uneven paths."
+            "en": "Walk out to this small, picturesque religious chapel set slightly away from the center, wearing sturdy shoes to comfortably navigate the surrounding uneven paths.",
+            "fr": "Rejoignez cette petite chapelle pittoresque située un peu à l'écart du centre ; portez des chaussures solides pour circuler confortablement sur les sentiers inégaux environnants."
           }
         },
         {
@@ -452,7 +497,8 @@
             "de": "Église Sainte-Trinité",
             "hu": "Église Sainte-Trinité",
             "ro": "Église Sainte-Trinité",
-            "en": "Église Sainte-Trinité"
+            "en": "Église Sainte-Trinité",
+            "fr": "Église Sainte-Trinité"
           },
           "coords": [
             6.384632,
@@ -467,7 +513,8 @@
             "de": "Bewundern Sie die aufwendigen Steinmetzarbeiten dieser Kirche im Süden und versuchen Sie, sie zu besuchen, wenn die Nachmittagssonne die Buntglasfenster erhellt.",
             "hu": "Csodálja meg a déli templomot díszítő bonyolult kőfaragásokat, és próbáljon meg akkor érkezni, amikor a késő délutáni napfény megvilágítja az ólomüveg ablakokat.",
             "ro": "Admirați sculpturile în piatră complicate care decorează această biserică grandioasă și vizitați-o când soarele de după-amiază târziu îi luminează vitraliile.",
-            "en": "Marvel at the intricate stone carvings decorating this grand southern church, and try to visit when the late afternoon sun illuminates the stained glass windows."
+            "en": "Marvel at the intricate stone carvings decorating this grand southern church, and try to visit when the late afternoon sun illuminates the stained glass windows.",
+            "fr": "Admirez les sculptures de pierre élaborées qui décorent cette grande église du sud, et essayez de la visiter quand le soleil de fin d'après‑midi illumine les vitraux."
           }
         }
       ],
@@ -475,7 +522,8 @@
         "de": "Radeln Sie durch das historische Zentrum, beginnend an der Abtei, bevor Sie das lokale Museum besuchen. Machen Sie mittags eine Pause in den Thermalbädern, gefolgt von einem Stopp am Château Grammont. Am Nachmittag radeln Sie an der Töpferwerkstatt vorbei zur ruhigen Chapelle du Messier und beenden die Tour an der grandiosen Église Sainte-Trinité.",
         "hu": "Kerékpározzon át a történelmi központon, az apátságtól indulva, majd látogasson el a helyi múzeumba. Délben tartson pihenőt a híres termálfürdőben, amelyet a Château Grammont követ. Délután tekerjen el a fazekasműhely mellett a csendes Chapelle du Messier-hez, végül pedig fejezze be a napot az impozáns Église Sainte-Trinité templomnál.",
         "ro": "Pedalați prin centrul istoric, începând de la abație înainte de a vizita muzeul local. Faceți o pauză la amiază la renumitele băi termale, urmată de o oprire la elegantul Château Grammont. După-amiaza, mergeți pe lângă atelierul de olărit până la liniștita Chapelle du Messier, terminând la grandioasa Église Sainte-Trinité.",
-        "en": "Pedal through the historic center, beginning at the majestic Abbey before visiting the local museum for panoramic views. Take a midday pause at the renowned thermal baths, followed by a quick stop at the elegant Château Grammont. In the afternoon, cycle past the pottery workshop out to the serene Chapelle du Messier, finishing at the grand Église Sainte-Trinité."
+        "en": "Pedal through the historic center, beginning at the majestic Abbey before visiting the local museum for panoramic views. Take a midday pause at the renowned thermal baths, followed by a quick stop at the elegant Château Grammont. In the afternoon, cycle past the pottery workshop out to the serene Chapelle du Messier, finishing at the grand Église Sainte-Trinité.",
+        "fr": "Parcourez le centre historique à vélo, en commençant par la majestueuse abbaye avant de visiter le musée local pour des vues panoramiques. Faites une pause déjeuner aux thermes réputés, puis un arrêt rapide au élégant Château Grammont. L'après‑midi, pédalez devant l'atelier de potiers jusqu'à la sereine Chapelle du Messier, et terminez à la grande Église Sainte‑Trinité."
       },
       "variants": {
         "rainy": {
@@ -483,7 +531,8 @@
             "de": "Radeln Sie morgens vorsichtig zur Abtei und tragen Sie gute Regenkleidung. Mittags finden Sie Schutz im Museum und im Thermalbad. Die Nachmittagsfahrt zu den Kapellen erfordert Vorsicht auf rutschigen Wegen. Beenden Sie die nasse Fahrt sicher vor dem Abend.",
             "hu": "Óvatosan tekerjen a reggeli esőben az apátsághoz, viseljen jó vízálló felszerelést. A dél beltéri felüdülést hoz a múzeumban és a fürdőben. A délutáni bringázás a kápolnákhoz óvatosságot igényel a csúszós utakon. Fejezze be a nedves utat még sötétedés előtt.",
             "ro": "Bicicliți cu grijă prin ploaia matinală spre abație, purtând echipament impermeabil. Prânzul aduce alinare în muzeu și la băi. Mersul de după-amiază spre castel și capele necesită prudență pe frunzele umede. Încheiați călătoria în siguranță înainte de lăsarea serii.",
-            "en": "Cycle carefully through the morning rain to the abbey, wearing good waterproof gear. Midday brings indoor relief at the museum and thermal baths. Afternoon riding to the castle and chapels requires caution on slippery wet leaves. Conclude the wet journey safely before evening falls."
+            "en": "Cycle carefully through the morning rain to the abbey, wearing good waterproof gear. Midday brings indoor relief at the museum and thermal baths. Afternoon riding to the castle and chapels requires caution on slippery wet leaves. Conclude the wet journey safely before evening falls.",
+            "fr": "Pédalez prudemment sous la pluie matinale jusqu'à l'abbaye, en portant un bon équipement imperméable. Midi apporte le réconfort intérieur au musée et aux thermes. La route de l'après‑midi vers le château et les chapelles requiert de la vigilance sur les feuilles mouillées et glissantes. Concluez le trajet humide en sécurité avant la tombée du soir."
           },
           "stops": [
             {
@@ -491,13 +540,15 @@
                 "de": "Saint-Colomban Abbey",
                 "hu": "Saint-Colomban Abbey",
                 "ro": "Saint-Colomban Abbey",
-                "en": "Saint-Colomban Abbey"
+                "en": "Saint-Colomban Abbey",
+                "fr": "Abbaye Saint‑Colomban"
               },
               "tip_5lang": {
                 "de": "Bewundern Sie die Architektur aus dem Schutz des Kirchenschiffs; halten Sie Ihren Regenschirm für den Weg zum Eingang bereit.",
                 "hu": "Csodálja meg az építészetet a főhajó menedékéből; tartsa kéznél esernyőjét a bejáratig tartó rövid sétához az esőben.",
                 "ro": "Admirați arhitectura impresionantă din adăpostul naosului său; țineți umbrela la îndemână pentru scurta plimbare până la intrare.",
-                "en": "Admire the impressive architecture from the shelter of its nave; keep your umbrella handy for the short walk to the entrance."
+                "en": "Admire the impressive architecture from the shelter of its nave; keep your umbrella handy for the short walk to the entrance.",
+                "fr": "Admirez l'architecture impressionnante depuis l'abri de la nef ; gardez votre parapluie à portée de main pour la courte marche jusqu'à l'entrée."
               }
             },
             {
@@ -505,13 +556,15 @@
                 "de": "Musée de la Tour des échevins",
                 "hu": "Musée de la Tour des échevins",
                 "ro": "Musée de la Tour des échevins",
-                "en": "Musée de la Tour des échevins"
+                "en": "Musée de la Tour des échevins",
+                "fr": "Musée de la Tour des échevins"
               },
               "tip_5lang": {
                 "de": "Ein perfekter Zufluchtsort mit lokaler Geschichte. Legen Sie nasse Sachen am Eingang ab und genießen Sie die trockenen Ausstellungen.",
                 "hu": "Tökéletes beltéri menedék a helyi történelemmel; tegye le vizes holmiját a bejáratnál, és élvezze a száraz, lenyűgöző kiállításokat.",
                 "ro": "Un refugiu perfect ce prezintă istoria locală; lăsați echipamentul ud la intrare și bucurați-vă de exponatele uscate și fascinante.",
-                "en": "A perfect indoor refuge showcasing local history; stow your wet gear at the entrance and enjoy the dry, fascinating exhibits."
+                "en": "A perfect indoor refuge showcasing local history; stow your wet gear at the entrance and enjoy the dry, fascinating exhibits.",
+                "fr": "Un refuge intérieur parfait présentant l'histoire locale ; rangez votre équipement humide à l'entrée et profitez des expositions sèches et passionnantes."
               }
             },
             {
@@ -519,13 +572,15 @@
                 "de": "Luxeuil-les-Bains Thermal Baths",
                 "hu": "Luxeuil-les-Bains Thermal Baths",
                 "ro": "Luxeuil-les-Bains Thermal Baths",
-                "en": "Luxeuil-les-Bains Thermal Baths"
+                "en": "Luxeuil-les-Bains Thermal Baths",
+                "fr": "Thermes de Luxeuil‑les‑Bains"
               },
               "tip_5lang": {
                 "de": "Es gibt an einem Regentag nichts Besseres, als in die dampfenden Mineralwässer einzutauchen und dem Regen zuzuhören.",
                 "hu": "Esős napokon nincs is jobb, mint elmerülni a gőzölgő ásványvízben, miközben hallgatja, ahogy az eső dobol a tetőn.",
                 "ro": "Nu este nimic mai bun într-o zi ploioasă decât să te scufunzi în apele minerale aburinde ascultând ploaia afară.",
-                "en": "There is nothing better on a rainy day than sinking into the steaming mineral waters while listening to the rain drum outside."
+                "en": "There is nothing better on a rainy day than sinking into the steaming mineral waters while listening to the rain drum outside.",
+                "fr": "Il n'y a rien de mieux un jour de pluie que de s'immerger dans les eaux minérales fumantes en écoutant la pluie tambouriner dehors."
               }
             },
             {
@@ -533,13 +588,15 @@
                 "de": "EHPAD Château Grammont",
                 "hu": "EHPAD Château Grammont",
                 "ro": "EHPAD Château Grammont",
-                "en": "EHPAD Château Grammont"
+                "en": "EHPAD Château Grammont",
+                "fr": "EHPAD Château Grammont"
               },
               "tip_5lang": {
                 "de": "Betrachten Sie die Schlossfassade unter Ihrem Regenschirm; die Wege können schlammig sein, wasserdichtes Schuhwerk wird empfohlen.",
                 "hu": "Csodálja meg a kastély homlokzatát esernyője alól; az ösvények sarasak lehetnek, ezért strapabíró, vízálló lábbeli viselése ajánlott.",
                 "ro": "Priviți fațada castelului de sub umbrelă; aleile pot deveni noroioase, așa că se recomandă încălțăminte impermeabilă și rezistentă.",
-                "en": "View the classic castle facade from under your umbrella; the paths can get muddy, so sturdy waterproof footwear is recommended."
+                "en": "View the classic castle facade from under your umbrella; the paths can get muddy, so sturdy waterproof footwear is recommended.",
+                "fr": "Contemplez la façade classique du château sous votre parapluie ; les chemins peuvent devenir boueux, donc des chaussures étanches et robustes sont recommandées."
               }
             },
             {
@@ -547,13 +604,15 @@
                 "de": "Atelier de potiers du Chatigny",
                 "hu": "Atelier de potiers du Chatigny",
                 "ro": "Atelier de potiers du Chatigny",
-                "en": "Atelier de potiers du Chatigny"
+                "en": "Atelier de potiers du Chatigny",
+                "fr": "Atelier de potiers du Chatigny"
               },
               "tip_5lang": {
                 "de": "Beobachten Sie die Töpferscheibe in dieser trockenen Werkstatt, ein wunderbarer Rückzugsort, wenn das Wetter draußen ungemütlich ist.",
                 "hu": "Nézze meg a fazekaskorong forgását ebben a hangulatos műhelyben, amely csodálatos beltéri menedék, ha kint zordra fordul az idő.",
                 "ro": "Urmăriți roata olarului în acest atelier uscat și confortabil, fiind o evadare minunată în interior când vremea este urâtă.",
-                "en": "Watch the potter's wheel spin in this cozy, dry workshop, making it a wonderful indoor escape when the weather turns miserable."
+                "en": "Watch the potter's wheel spin in this cozy, dry workshop, making it a wonderful indoor escape when the weather turns miserable.",
+                "fr": "Regardez le tour de potier tourner dans cet atelier chaleureux et sec, ce qui en fait une excellente échappée intérieure quand le temps devient horrible."
               }
             },
             {
@@ -561,13 +620,15 @@
                 "de": "Chapelle du Messier",
                 "hu": "Chapelle du Messier",
                 "ro": "Chapelle du Messier",
-                "en": "Chapelle du Messier"
+                "en": "Chapelle du Messier",
+                "fr": "Chapelle du Messier"
               },
               "tip_5lang": {
                 "de": "Diese Kapelle bietet ein kurzes Heiligtum. Achten Sie beim Abstellen Ihres Fahrrads auf rutschige Stufen am Eingang.",
                 "hu": "Ez a furcsa kápolna rövid menedéket nyújt; vigyázzon a bejárathoz vezető csúszós lépcsőkkel a kerékpár parkolásakor.",
                 "ro": "Această capelă oferă un scurt sanctuar; atenție la treptele alunecoase de la intrare când parcați bicicleta.",
-                "en": "This quaint chapel offers a brief sanctuary; beware of slippery steps leading to the entrance when parking your bike or walking."
+                "en": "This quaint chapel offers a brief sanctuary; beware of slippery steps leading to the entrance when parking your bike or walking.",
+                "fr": "Cette chapelle pittoresque offre un bref sanctuaire ; méfiez‑vous des marches glissantes menant à l'entrée lorsque vous garez votre vélo ou marchez."
               }
             },
             {
@@ -575,13 +636,15 @@
                 "de": "Église Sainte-Trinité",
                 "hu": "Église Sainte-Trinité",
                 "ro": "Église Sainte-Trinité",
-                "en": "Église Sainte-Trinité"
+                "en": "Église Sainte-Trinité",
+                "fr": "Église Sainte-Trinité"
               },
               "tip_5lang": {
                 "de": "Treten Sie ein, um dem Regen zu entkommen und das Innere zu bewundern. Das umliegende Steinpflaster kann bei Nässe rutschig sein.",
                 "hu": "Lépjen be, hogy megcsodálja a gyönyörű belső teret, miközben menekül az eső elől; a környező kőburkolat nedvesen elég csúszós lehet.",
                 "ro": "Intrați pentru a admira interioarele frumoase în timp ce scăpați de ploaie; pavajul de piatră din jur poate fi alunecos când e ud.",
-                "en": "Step inside to admire the beautiful interiors while escaping the rain; the surrounding stone pavement can be quite slick when wet."
+                "en": "Step inside to admire the beautiful interiors while escaping the rain; the surrounding stone pavement can be quite slick when wet.",
+                "fr": "Entrez pour admirer les beaux intérieurs tout en échappant à la pluie ; le dallage de pierre alentour peut être très glissant lorsqu'il est mouillé."
               }
             }
           ]
@@ -591,7 +654,8 @@
             "de": "Trotzen Sie der frostigen Morgenluft und radeln Sie mit dicken Handschuhen zur Abtei. Wärmen Sie Ihre Hände mittags im Museum und in den Thermalbädern. Die Fahrt zu den Kapellen am Nachmittag hält Sie aktiv. Beenden Sie die Route, wenn die Wintersonne früh gegen 17:00 Uhr untergeht.",
             "hu": "Dacoljon a fagyos reggeli levegővel vastag kesztyűben az apátság felé. Melegítse fel kezeit délben a múzeumban és a termálfürdőben. A délutáni tekerés a kastély és a kápolnák felé aktívan tartja. Fejezze be az utat, ahogy a téli nap korán, 17:00 körül lenyugszik.",
             "ro": "Înfruntați aerul geros al dimineții pedalând spre abație cu mănuși groase. Încălziți-vă mâinile la prânz în muzeu și la băile termale. Cursa de după-amiază pe lângă capele vă menține activ. Terminați traseul când soarele de iarnă apune devreme, în jur de 17:00.",
-            "en": "Brave the frosty morning air cycling to the grand abbey with thick gloves. Thaw your hands at midday inside the museum and the welcoming thermal baths. The brisk afternoon ride past the castle and chapels keeps you active. Finish the route as the winter sun sets early around 17:00."
+            "en": "Brave the frosty morning air cycling to the grand abbey with thick gloves. Thaw your hands at midday inside the museum and the welcoming thermal baths. The brisk afternoon ride past the castle and chapels keeps you active. Finish the route as the winter sun sets early around 17:00.",
+            "fr": "Affrontez l'air glacial du matin en pédalant vers la grande abbaye avec des gants épais. Réchauffez-vous à midi à l'intérieur du musée et aux thermes accueillants. La balade vive de l'après‑midi devant le château et les chapelles vous garde actif. Terminez l'itinéraire alors que le soleil d'hiver se couche tôt vers 17:00."
           },
           "stops": [
             {
@@ -599,13 +663,15 @@
                 "de": "Saint-Colomban Abbey",
                 "hu": "Saint-Colomban Abbey",
                 "ro": "Saint-Colomban Abbey",
-                "en": "Saint-Colomban Abbey"
+                "en": "Saint-Colomban Abbey",
+                "fr": "Abbaye Saint‑Colomban"
               },
               "tip_5lang": {
                 "de": "Die massiven Steinwände können eiskalt sein. Tragen Sie eine zusätzliche Schicht, während Sie die historischen Ruinen in der Winterluft erkunden.",
                 "hu": "A masszív kőfalak jéghidegek lehetnek, így viseljen extra réteget, miközben felfedezi a történelmi romokat a csípős téli levegőben.",
                 "ro": "Zidurile de piatră pot fi înghețate, purtați un strat în plus explorând ruinele istorice în aerul rece de iarnă.",
-                "en": "The massive stone walls can be freezing, so wear an extra layer while exploring the historic ruins in the crisp winter air."
+                "en": "The massive stone walls can be freezing, so wear an extra layer while exploring the historic ruins in the crisp winter air.",
+                "fr": "Les murs massifs de pierre peuvent être glacials, alors portez une couche supplémentaire en explorant les ruines historiques dans l'air vif de l'hiver."
               }
             },
             {
@@ -613,13 +679,15 @@
                 "de": "Musée de la Tour des échevins",
                 "hu": "Musée de la Tour des échevins",
                 "ro": "Musée de la Tour des échevins",
-                "en": "Musée de la Tour des échevins"
+                "en": "Musée de la Tour des échevins",
+                "fr": "Musée de la Tour des échevins"
               },
               "tip_5lang": {
                 "de": "Entfliehen Sie der Winterkälte in diesem historischen Turm. Das Museum bietet ein gemütliches Eintauchen in die Vergangenheit.",
                 "hu": "Meneküljön a téli hideg elől ebbe a lenyűgöző történelmi toronyba; a múzeum hangulatos elmerülést kínál a régió múltjában.",
                 "ro": "Scăpați de frigul iernii în acest turn istoric fascinant; muzeul oferă o incursiune confortabilă în trecutul bogat al regiunii.",
-                "en": "Escape the winter chill inside this fascinating historical tower; the museum offers a cozy, deep dive into the region's rich past."
+                "en": "Escape the winter chill inside this fascinating historical tower; the museum offers a cozy, deep dive into the region's rich past.",
+                "fr": "Échappez à la morsure de l'hiver à l'intérieur de cette tour historique fascinante ; le musée offre une plongée chaleureuse et approfondie dans le riche passé de la région."
               }
             },
             {
@@ -627,13 +695,15 @@
                 "de": "Luxeuil-les-Bains Thermal Baths",
                 "hu": "Luxeuil-les-Bains Thermal Baths",
                 "ro": "Luxeuil-les-Bains Thermal Baths",
-                "en": "Luxeuil-les-Bains Thermal Baths"
+                "en": "Luxeuil-les-Bains Thermal Baths",
+                "fr": "Thermes de Luxeuil‑les‑Bains"
               },
               "tip_5lang": {
                 "de": "Wärmen Sie Ihre Knochen in den heißen Quellen auf, ein perfekter und entspannender Kontrast zu den eisigen Wintertemperaturen draußen.",
                 "hu": "Melegítse fel csontjait a híres hőforrásokban, amely tökéletes és pihentető kontrasztot nyújt a kinti fagyos téli hőmérséklettel szemben.",
                 "ro": "Încălziți-vă oasele în renumitele izvoare termale, oferind un contrast perfect și relaxant cu temperaturile scăzute de iarnă de afară.",
-                "en": "Warm your bones in the renowned hot springs, providing a perfect and relaxing contrast to the freezing winter temperatures outside."
+                "en": "Warm your bones in the renowned hot springs, providing a perfect and relaxing contrast to the freezing winter temperatures outside.",
+                "fr": "Réchauffez vos os dans les sources chaudes renommées, offrant un contraste parfait et relaxant aux températures glaciales extérieures."
               }
             },
             {
@@ -641,13 +711,15 @@
                 "de": "EHPAD Château Grammont",
                 "hu": "EHPAD Château Grammont",
                 "ro": "EHPAD Château Grammont",
-                "en": "EHPAD Château Grammont"
+                "en": "EHPAD Château Grammont",
+                "fr": "EHPAD Château Grammont"
               },
               "tip_5lang": {
                 "de": "Die Schlossanlage ist atemberaubend unter Frost; kleiden Sie sich warm, da der offene Innenhof die kalten Winterwinde einfängt.",
                 "hu": "A történelmi kastély kertje lenyűgöző a fagyban; öltözzön melegen, mivel a nyitott udvar felfogja a hideg, metsző téli szeleket.",
                 "ro": "Terenurile castelului sunt uimitoare sub îngheț; îmbrăcați-vă gros, deoarece curtea deschisă prinde vânturile reci de iarnă.",
-                "en": "The historic castle grounds are stunning under frost; dress warmly as the open courtyard catches the cold, biting winter winds."
+                "en": "The historic castle grounds are stunning under frost; dress warmly as the open courtyard catches the cold, biting winter winds.",
+                "fr": "Les jardins historiques du château sont magnifiques sous le givre ; habillez‑vous chaudement car la cour ouverte capte les vents d'hiver froids et mordants."
               }
             },
             {
@@ -655,13 +727,15 @@
                 "de": "Atelier de potiers du Chatigny",
                 "hu": "Atelier de potiers du Chatigny",
                 "ro": "Atelier de potiers du Chatigny",
-                "en": "Atelier de potiers du Chatigny"
+                "en": "Atelier de potiers du Chatigny",
+                "fr": "Atelier de potiers du Chatigny"
               },
               "tip_5lang": {
                 "de": "Die laufenden Öfen sorgen in diesem Laden für eine angenehme Wärme; ein toller Halt, um sich am Winternachmittag aufzuwärmen.",
                 "hu": "A működő kemencék kellemes meleget árasztanak ebben a bájos boltban; nagyszerű megálló a téli délutáni felmelegedéshez.",
                 "ro": "Cuptoarele de lucru oferă o căldură plăcută în acest magazin fermecător; o oprire excelentă pentru a vă încălzi după-amiaza.",
-                "en": "The working kilns provide a lovely burst of ambient heat in this charming shop; a great stop to warm up during the winter afternoon."
+                "en": "The working kilns provide a lovely burst of ambient heat in this charming shop; a great stop to warm up during the winter afternoon.",
+                "fr": "Les fours en activité diffusent une agréable chaleur d'appoint dans cette boutique charmante ; un excellent arrêt pour se réchauffer lors d'un après‑midi d'hiver."
               }
             },
             {
@@ -669,13 +743,15 @@
                 "de": "Chapelle du Messier",
                 "hu": "Chapelle du Messier",
                 "ro": "Chapelle du Messier",
-                "en": "Chapelle du Messier"
+                "en": "Chapelle du Messier",
+                "fr": "Chapelle du Messier"
               },
               "tip_5lang": {
                 "de": "In der kleinen Kapelle wird es früh dunkel. Besuchen Sie sie bei Tageslicht, bevor um 17:00 Uhr der Sonnenuntergang beginnt.",
                 "hu": "A kis kápolnában korán sötétedik; mindenképpen látogassa meg, amíg még van nappali fény a 17:00 órás téli naplemente előtt.",
                 "ro": "Capela se întunecă devreme; vizitați cât încă mai este lumină de zi, înainte să înceapă apusul de iarnă la ora 17:00.",
-                "en": "The small chapel gets dark early; make sure to visit while there is still daylight before the 17:00 winter sunset begins."
+                "en": "The small chapel gets dark early; make sure to visit while there is still daylight before the 17:00 winter sunset begins.",
+                "fr": "La petite chapelle s'assombrit tôt ; assurez‑vous de la visiter tant qu'il y a encore de la lumière du jour avant le coucher du soleil d'hiver à 17:00."
               }
             },
             {
@@ -683,13 +759,15 @@
                 "de": "Église Sainte-Trinité",
                 "hu": "Église Sainte-Trinité",
                 "ro": "Église Sainte-Trinité",
-                "en": "Église Sainte-Trinité"
+                "en": "Église Sainte-Trinité",
+                "fr": "Église Sainte‑Trinité"
               },
               "tip_5lang": {
                 "de": "Die feierliche Atmosphäre wird durch die Winterstille verstärkt. Ziehen Sie sich warm an, da das alte Steininnere kaum beheizt wird.",
                 "hu": "Az ünnepélyes hangulatot felerősíti a téli csend; öltözzön be jól, mivel az ősi kőbelső nincs erősen fűtve.",
                 "ro": "Atmosfera solemnă e amplificată de tăcerea iernii; îmbrăcați-vă gros, interiorul antic din piatră nefiind foarte încălzit.",
-                "en": "The solemn atmosphere is amplified by the winter silence; bundle up as the ancient stone interior isn't heavily heated."
+                "en": "The solemn atmosphere is amplified by the winter silence; bundle up as the ancient stone interior isn't heavily heated.",
+                "fr": "L'atmosphère solennelle est amplifiée par le silence hivernal ; emmitouflez‑vous car l'intérieur de pierre ancien n'est pas fortement chauffé."
               }
             }
           ]
@@ -709,7 +787,8 @@
             "de": "Saint-Colomban Abbey",
             "hu": "Saint-Colomban Abbey",
             "ro": "Saint-Colomban Abbey",
-            "en": "Saint-Colomban Abbey"
+            "en": "Saint-Colomban Abbey",
+            "fr": "Abbaye Saint‑Colomban"
           },
           "coords": [
             6.381061,
@@ -724,7 +803,8 @@
             "de": "Bewundern Sie die beeindruckende Klosterarchitektur der Abtei Saint-Colomban und erkunden Sie den friedlichen Kreuzgang, wo das Licht am Morgen am besten ist.",
             "hu": "Csodálja meg a Saint-Colomban apátság lenyűgöző kolostori építészetét, és fedezze fel a békés kerengőt, amely a kora reggeli fényben a legszebb.",
             "ro": "Admirați arhitectura monastică impresionantă a Abației Saint-Colomban înainte de a explora claustrul său pașnic, ideal de vizitat în lumina blândă a dimineții.",
-            "en": "Admire the striking monastic architecture of Saint-Colomban Abbey before heading inside to explore its peaceful cloister where early morning light is best."
+            "en": "Admire the striking monastic architecture of Saint-Colomban Abbey before heading inside to explore its peaceful cloister where early morning light is best.",
+            "fr": "Admirez l'architecture monastique saisissante de l'abbaye Saint‑Colomban avant de pénétrer dans son paisible cloître, où la lumière du matin est la plus belle."
           }
         },
         {
@@ -732,7 +812,8 @@
             "de": "Musée de la Tour des échevins",
             "hu": "Musée de la Tour des échevins",
             "ro": "Musée de la Tour des échevins",
-            "en": "Musée de la Tour des échevins"
+            "en": "Musée de la Tour des échevins",
+            "fr": "Musée de la Tour des échevins"
           },
           "coords": [
             6.380367,
@@ -747,7 +828,8 @@
             "de": "Steigen Sie auf die Spitze dieses historischen Schöffenturms, um galloromanische Artefakte zu entdecken und den Panoramablick auf die Vogesen zu genießen.",
             "hu": "Másszon fel erre a történelmi tanácsnoki toronyra, hogy felfedezze az ősi gall-római leleteket, és élvezze a Vogézekre nyíló panorámát a felső teraszról.",
             "ro": "Urcați în turnul istoric al consilierilor pentru a descoperi artefacte galo-romane antice și pentru a vă bucura de priveliști panoramice de pe terasa superioară.",
-            "en": "Climb to the top of this historic aldermen's tower to discover ancient Gallo-Roman artifacts and enjoy panoramic views of the Vosges from the upper terrace."
+            "en": "Climb to the top of this historic aldermen's tower to discover ancient Gallo-Roman artifacts and enjoy panoramic views of the Vosges from the upper terrace.",
+            "fr": "Montez au sommet de cette tour historique des échevins pour découvrir des artefacts gallo‑romains et profiter des vues panoramiques sur les Vosges depuis la terrasse supérieure."
           }
         },
         {
@@ -755,7 +837,8 @@
             "de": "Luxeuil-les-Bains Thermal Baths",
             "hu": "Luxeuil-les-Bains Thermal Baths",
             "ro": "Luxeuil-les-Bains Thermal Baths",
-            "en": "Luxeuil-les-Bains Thermal Baths"
+            "en": "Luxeuil-les-Bains Thermal Baths",
+            "fr": "Thermes de Luxeuil‑les‑Bains"
           },
           "coords": [
             6.377093,
@@ -770,7 +853,8 @@
             "de": "Entspannen Sie im historischen Thermalwasser, das Luxeuil seit der Römerzeit berühmt gemacht hat, aber bringen Sie ein eigenes Handtuch und Badeschuhe mit.",
             "hu": "Pihenjen a történelmi termálvizekben, amelyek a római kor óta híressé tették Luxeuilt, de a legjobb élmény érdekében hozzon magával saját törölközőt és papucsot.",
             "ro": "Relaxați-vă în apele termale istorice care au făcut orașul celebru încă din epoca romană, dar nu uitați să vă aduceți propriul prosop și șlapi pentru confort.",
-            "en": "Relax in the historic thermal waters that have made Luxeuil famous since Roman times, but remember to bring your own towel and flip-flops for the best experience."
+            "en": "Relax in the historic thermal waters that have made Luxeuil famous since Roman times, but remember to bring your own towel and flip-flops for the best experience.",
+            "fr": "Détendez‑vous dans les eaux thermales historiques qui ont fait la renommée de Luxeuil depuis l'époque romaine, mais pensez à apporter votre serviette et vos tongs pour une meilleure expérience."
           }
         },
         {
@@ -778,7 +862,8 @@
             "de": "EHPAD Château Grammont",
             "hu": "EHPAD Château Grammont",
             "ro": "EHPAD Château Grammont",
-            "en": "EHPAD Château Grammont"
+            "en": "EHPAD Château Grammont",
+            "fr": "EHPAD Château Grammont"
           },
           "coords": [
             6.379621,
@@ -793,7 +878,8 @@
             "de": "Betrachten Sie die elegante Fassade des Château Grammont vom umliegenden Gelände aus, da es als Pflegeheim dient und die Innenräume daher nicht zugänglich sind.",
             "hu": "Figyelje meg a Château Grammont elegáns homlokzatát a környező parkból, szem előtt tartva, hogy az idősek otthonaként működik, így a belső terek nem látogathatók.",
             "ro": "Observați fațada elegantă a Château Grammont de pe terenul înconjurător, ținând cont de faptul că funcționează ca un cămin, deci interioarele nu pot fi vizitate.",
-            "en": "Observe the elegant facade of the Château Grammont from the surrounding grounds, keeping in mind that it operates as a care home so interiors are restricted."
+            "en": "Observe the elegant facade of the Château Grammont from the surrounding grounds, keeping in mind that it operates as a care home so interiors are restricted.",
+            "fr": "Observez la façade élégante du Château Grammont depuis les jardins environnants, en gardant à l'esprit qu'il fonctionne comme maison de retraite et que l'accès intérieur est restreint."
           }
         },
         {
@@ -801,7 +887,8 @@
             "de": "Atelier de potiers du Chatigny",
             "hu": "Atelier de potiers du Chatigny",
             "ro": "Atelier de potiers du Chatigny",
-            "en": "Atelier de potiers du Chatigny"
+            "en": "Atelier de potiers du Chatigny",
+            "fr": "Atelier de potiers du Chatigny"
           },
           "coords": [
             6.382277,
@@ -816,7 +903,8 @@
             "de": "Besuchen Sie diese traditionelle Töpferwerkstatt, um lokalen Handwerkern bei der Arbeit zuzusehen, und kaufen Sie ein einzigartiges handgemachtes Souvenir.",
             "hu": "Lépjen be ebbe a hagyományos fazekasműhelybe, nézze meg a helyi kézművesek munkáját, és vásároljon egy egyedi, kézzel készített kerámiát szuvenírként.",
             "ro": "Intrați în acest atelier tradițional de olărit pentru a urmări artizanii locali la lucru și luați în considerare achiziționarea unei piese unice ca suvenir.",
-            "en": "Step into this traditional pottery workshop to watch local artisans craft beautiful ceramics, and consider purchasing a unique handmade piece as a souvenir."
+            "en": "Step into this traditional pottery workshop to watch local artisans craft beautiful ceramics, and consider purchasing a unique handmade piece as a souvenir.",
+            "fr": "Pénétrez dans cet atelier de poterie traditionnel pour regarder des artisans locaux façonner de belles céramiques, et pensez à acheter une pièce unique faite main en souvenir."
           }
         },
         {
@@ -824,7 +912,8 @@
             "de": "Chapelle du Messier",
             "hu": "Chapelle du Messier",
             "ro": "Chapelle du Messier",
-            "en": "Chapelle du Messier"
+            "en": "Chapelle du Messier",
+            "fr": "Chapelle du Messier"
           },
           "coords": [
             6.361589,
@@ -839,7 +928,8 @@
             "de": "Spazieren Sie zu dieser malerischen, etwas abseits gelegenen Kapelle und tragen Sie festes Schuhwerk, um die unebenen Wege in der Umgebung bequem zu bewältigen.",
             "hu": "Sétáljon el ehhez a központtól kicsit távolabb eső, festői kápolnához, és viseljen kényelmes cipőt, hogy biztonságosan haladhasson a környező egyenetlen utakon.",
             "ro": "Faceți o plimbare până la această capelă pitorească situată puțin mai departe de centru, purtând încălțăminte confortabilă pentru a naviga pe potecile inegale.",
-            "en": "Walk out to this small, picturesque religious chapel set slightly away from the center, wearing sturdy shoes to comfortably navigate the surrounding uneven paths."
+            "en": "Walk out to this small, picturesque religious chapel set slightly away from the center, wearing sturdy shoes to comfortably navigate the surrounding uneven paths.",
+            "fr": "Rejoignez cette petite chapelle pittoresque située un peu à l'écart du centre ; portez des chaussures solides pour circuler confortablement sur les sentiers inégaux environnants."
           }
         },
         {
@@ -847,7 +937,8 @@
             "de": "Église Sainte-Trinité",
             "hu": "Église Sainte-Trinité",
             "ro": "Église Sainte-Trinité",
-            "en": "Église Sainte-Trinité"
+            "en": "Église Sainte-Trinité",
+            "fr": "Église Sainte‑Trinité"
           },
           "coords": [
             6.384632,
@@ -862,7 +953,8 @@
             "de": "Bewundern Sie die aufwendigen Steinmetzarbeiten dieser Kirche im Süden und versuchen Sie, sie zu besuchen, wenn die Nachmittagssonne die Buntglasfenster erhellt.",
             "hu": "Csodálja meg a déli templomot díszítő bonyolult kőfaragásokat, és próbáljon meg akkor érkezni, amikor a késő délutáni napfény megvilágítja az ólomüveg ablakokat.",
             "ro": "Admirați sculpturile în piatră complicate care decorează această biserică grandioasă și vizitați-o când soarele de după-amiază târziu îi luminează vitraliile.",
-            "en": "Marvel at the intricate stone carvings decorating this grand southern church, and try to visit when the late afternoon sun illuminates the stained glass windows."
+            "en": "Marvel at the intricate stone carvings decorating this grand southern church, and try to visit when the late afternoon sun illuminates the stained glass windows.",
+            "fr": "Admirez les sculptures de pierre élaborées qui décorent cette grande église du sud, et essayez de la visiter quand le soleil de fin d'après‑midi illumine les vitraux."
           }
         },
         {
@@ -870,7 +962,8 @@
             "de": "Église de la Sainte-Trinité",
             "hu": "Église de la Sainte-Trinité",
             "ro": "Église de la Sainte-Trinité",
-            "en": "Église de la Sainte-Trinité"
+            "en": "Église de la Sainte-Trinité",
+            "fr": "Église de la Sainte‑Trinité"
           },
           "coords": [
             6.416503,
@@ -885,7 +978,8 @@
             "de": "Fahren Sie ein kurzes Stück nach Osten, um diese zweite historische Kirche der Heiligen Dreifaltigkeit zu besuchen und den ruhigen Friedhof daneben zu erkunden.",
             "hu": "Tegyen egy rövid utat kelet felé, hogy meglátogassa ezt a Szentháromság nevét viselő második történelmi templomot, és fedezze fel a közvetlenül mellette lévő temetőt.",
             "ro": "Faceți o scurtă plimbare spre est pentru a vizita această a doua biserică istorică a Sfintei Treimi, făcându-vă timp să explorați și cimitirul liniștit din apropiere.",
-            "en": "Take a short drive eastward to visit this second historic church bearing the Holy Trinity name, taking time to explore the quiet cemetery right next to the building."
+            "en": "Take a short drive eastward to visit this second historic church bearing the Holy Trinity name, taking time to explore the quiet cemetery right next to the building.",
+            "fr": "Faites une courte route vers l'est pour visiter cette seconde église historique portant le nom de la Sainte‑Trinité, en prenant le temps d'explorer le cimetière paisible juste à côté du bâtiment."
           }
         }
       ],
@@ -893,7 +987,8 @@
         "de": "Fahren Sie bequem zwischen Luxeuils Sehenswürdigkeiten, beginnend mit der zentralen Abtei und dem faszinierenden Tour des échevins. Verbringen Sie den Mittag in den Thermalbädern und springen Sie dann zum Château Grammont. Ihr Auto macht es einfach, am späten Nachmittag die äußeren religiösen Stätten zu besuchen und mit den Dreifaltigkeitskirchen abzuschließen.",
         "hu": "Vezessen könnyedén Luxeuil látnivalói között, kezdve a központi apátsággal és a Tour des échevins múzeummal. Délben pihenjen a termálfürdőben, majd ugorjon át a Château Grammont-hoz. Az autója megkönnyíti a külső vallási helyszínek meglátogatását a késő délutáni órákban, és a napot a két Szentháromság-templommal zárhatja.",
         "ro": "Conduceți fără efort între atracțiile din Luxeuil, începând cu Abația centrală și fascinantul Tour des échevins. Petreceți amiaza relaxându-vă la băile termale, apoi vizitați Château Grammont. Mașina vă permite să vizitați cu ușurință siturile religioase periferice spre seară, încheind turul cu ambele biserici ale Sfintei Treimi.",
-        "en": "Drive effortlessly between Luxeuil's top sights, starting with the central Abbey and the fascinating Tour des échevins. Spend midday relaxing in the thermal baths, then easily hop to the Château Grammont and local pottery workshop. Your car makes it simple to visit the outer religious sites in the late afternoon, concluding with both Holy Trinity churches."
+        "en": "Drive effortlessly between Luxeuil's top sights, starting with the central Abbey and the fascinating Tour des échevins. Spend midday relaxing in the thermal baths, then easily hop to the Château Grammont and local pottery workshop. Your car makes it simple to visit the outer religious sites in the late afternoon, concluding with both Holy Trinity churches.",
+        "fr": "Parcourez facilement les principaux sites de Luxeuil en voiture, en commençant par l'abbaye centrale et la fascinante Tour des échevins. Passez le midi à vous détendre aux thermes, puis gagnez rapidement le Château Grammont et l'atelier de potiers local. Votre voiture facilite la visite des sites religieux périphériques en fin d'après‑midi, pour conclure avec les deux églises Sainte‑Trinité."
       },
       "variants": {
         "rainy": {
@@ -901,7 +996,8 @@
             "de": "Fahren Sie an einem regnerischen Morgen zur Abtei, halten Sie einen Regenschirm bereit. Der Mittag ist ideal, um das trockene Museum und die Thermalbäder zu erkunden. Fahren Sie nachmittags sicher im Regen zu den Kapellen. Die abendliche Rückfahrt ist komfortabel.",
             "hu": "Vezessen az ősi apátsághoz egy esős reggelen, tartson kéznél esernyőt a rövid sétákhoz. A dél tökéletes a száraz múzeum felfedezésére és a termálfürdőre. Vezessen óvatosan a kastélyhoz és a kápolnákhoz a délutáni esőben. Az esti visszaút kényelmes és védett.",
             "ro": "Conduceți spre vechea abație într-o dimineață ploioasă, ținând o umbrelă la îndemână. Prânzul este perfect pentru muzeul uscat și băile termale. Conduceți în siguranță spre castel și capele în ploaia de după-amiază. Drumul de seară înapoi este confortabil și protejat.",
-            "en": "Drive to the ancient abbey on a rainy morning, keeping an umbrella handy for short walks. Midday is perfect for exploring the dry museum and soaking in the thermal baths. Drive safely to the castle and chapels in the afternoon rain. The evening drive back is comfortable and sheltered."
+            "en": "Drive to the ancient abbey on a rainy morning, keeping an umbrella handy for short walks. Midday is perfect for exploring the dry museum and soaking in the thermal baths. Drive safely to the castle and chapels in the afternoon rain. The evening drive back is comfortable and sheltered.",
+            "fr": "Conduisez jusqu'à l'abbaye ancienne par une matinée pluvieuse, en gardant un parapluie pour les courtes promenades. Midi est parfait pour explorer le musée sec et profiter des thermes. Roulez prudemment vers le château et les chapelles sous la pluie de l'après‑midi. Le trajet du retour en soirée est confortable et abrité."
           },
           "stops": [
             {
@@ -909,13 +1005,15 @@
                 "de": "Saint-Colomban Abbey",
                 "hu": "Saint-Colomban Abbey",
                 "ro": "Saint-Colomban Abbey",
-                "en": "Saint-Colomban Abbey"
+                "en": "Saint-Colomban Abbey",
+                "fr": "Abbaye Saint‑Colomban"
               },
               "tip_5lang": {
                 "de": "Bewundern Sie die Architektur aus dem Schutz des Kirchenschiffs; halten Sie Ihren Regenschirm für den Weg zum Eingang bereit.",
                 "hu": "Csodálja meg az építészetet a főhajó menedékéből; tartsa kéznél esernyőjét a bejáratig tartó rövid sétához az esőben.",
                 "ro": "Admirați arhitectura impresionantă din adăpostul naosului său; țineți umbrela la îndemână pentru scurta plimbare până la intrare.",
-                "en": "Admire the impressive architecture from the shelter of its nave; keep your umbrella handy for the short walk to the entrance."
+                "en": "Admire the impressive architecture from the shelter of its nave; keep your umbrella handy for the short walk to the entrance.",
+                "fr": "Admirez l'architecture impressionnante depuis l'abri de la nef ; gardez votre parapluie à portée de main pour la courte marche jusqu'à l'entrée."
               }
             },
             {
@@ -923,13 +1021,15 @@
                 "de": "Musée de la Tour des échevins",
                 "hu": "Musée de la Tour des échevins",
                 "ro": "Musée de la Tour des échevins",
-                "en": "Musée de la Tour des échevins"
+                "en": "Musée de la Tour des échevins",
+                "fr": "Musée de la Tour des échevins"
               },
               "tip_5lang": {
                 "de": "Ein perfekter Zufluchtsort mit lokaler Geschichte. Legen Sie nasse Sachen am Eingang ab und genießen Sie die trockenen Ausstellungen.",
                 "hu": "Tökéletes beltéri menedék a helyi történelemmel; tegye le vizes holmiját a bejáratnál, és élvezze a száraz, lenyűgöző kiállításokat.",
                 "ro": "Un refugiu perfect ce prezintă istoria locală; lăsați echipamentul ud la intrare și bucurați-vă de exponatele uscate și fascinante.",
-                "en": "A perfect indoor refuge showcasing local history; stow your wet gear at the entrance and enjoy the dry, fascinating exhibits."
+                "en": "A perfect indoor refuge showcasing local history; stow your wet gear at the entrance and enjoy the dry, fascinating exhibits.",
+                "fr": "Un refuge intérieur parfait présentant l'histoire locale ; rangez votre équipement humide à l'entrée et profitez des expositions sèches et passionnantes."
               }
             },
             {
@@ -937,13 +1037,15 @@
                 "de": "Luxeuil-les-Bains Thermal Baths",
                 "hu": "Luxeuil-les-Bains Thermal Baths",
                 "ro": "Luxeuil-les-Bains Thermal Baths",
-                "en": "Luxeuil-les-Bains Thermal Baths"
+                "en": "Luxeuil-les-Bains Thermal Baths",
+                "fr": "Thermes de Luxeuil‑les‑Bains"
               },
               "tip_5lang": {
                 "de": "Es gibt an einem Regentag nichts Besseres, als in die dampfenden Mineralwässer einzutauchen und dem Regen zuzuhören.",
                 "hu": "Esős napokon nincs is jobb, mint elmerülni a gőzölgő ásványvízben, miközben hallgatja, ahogy az eső dobol a tetőn.",
                 "ro": "Nu este nimic mai bun într-o zi ploioasă decât să te scufunzi în apele minerale aburinde ascultând ploaia afară.",
-                "en": "There is nothing better on a rainy day than sinking into the steaming mineral waters while listening to the rain drum outside."
+                "en": "There is nothing better on a rainy day than sinking into the steaming mineral waters while listening to the rain drum outside.",
+                "fr": "Il n'y a rien de mieux un jour de pluie que de s'immerger dans les eaux minérales fumantes en écoutant la pluie tambouriner dehors."
               }
             },
             {
@@ -951,13 +1053,15 @@
                 "de": "EHPAD Château Grammont",
                 "hu": "EHPAD Château Grammont",
                 "ro": "EHPAD Château Grammont",
-                "en": "EHPAD Château Grammont"
+                "en": "EHPAD Château Grammont",
+                "fr": "EHPAD Château Grammont"
               },
               "tip_5lang": {
                 "de": "Betrachten Sie die Schlossfassade unter Ihrem Regenschirm; die Wege können schlammig sein, wasserdichtes Schuhwerk wird empfohlen.",
                 "hu": "Csodálja meg a kastély homlokzatát esernyője alól; az ösvények sarasak lehetnek, ezért strapabíró, vízálló lábbeli viselése ajánlott.",
                 "ro": "Priviți fațada castelului de sub umbrelă; aleile pot deveni noroioase, așa că se recomandă încălțăminte impermeabilă și rezistentă.",
-                "en": "View the classic castle facade from under your umbrella; the paths can get muddy, so sturdy waterproof footwear is recommended."
+                "en": "View the classic castle facade from under your umbrella; the paths can get muddy, so sturdy waterproof footwear is recommended.",
+                "fr": "Contemplez la façade classique du château sous votre parapluie ; les chemins peuvent devenir boueux, donc des chaussures étanches et robustes sont recommandées."
               }
             },
             {
@@ -965,13 +1069,15 @@
                 "de": "Atelier de potiers du Chatigny",
                 "hu": "Atelier de potiers du Chatigny",
                 "ro": "Atelier de potiers du Chatigny",
-                "en": "Atelier de potiers du Chatigny"
+                "en": "Atelier de potiers du Chatigny",
+                "fr": "Atelier de potiers du Chatigny"
               },
               "tip_5lang": {
                 "de": "Beobachten Sie die Töpferscheibe in dieser trockenen Werkstatt, ein wunderbarer Rückzugsort, wenn das Wetter draußen ungemütlich ist.",
                 "hu": "Nézze meg a fazekaskorong forgását ebben a hangulatos műhelyben, amely csodálatos beltéri menedék, ha kint zordra fordul az idő.",
                 "ro": "Urmăriți roata olarului în acest atelier uscat și confortabil, fiind o evadare minunată în interior când vremea este urâtă.",
-                "en": "Watch the potter's wheel spin in this cozy, dry workshop, making it a wonderful indoor escape when the weather turns miserable."
+                "en": "Watch the potter's wheel spin in this cozy, dry workshop, making it a wonderful indoor escape when the weather turns miserable.",
+                "fr": "Regardez le tour de potier tourner dans cet atelier chaleureux et sec, ce qui en fait une excellente échappée intérieure quand le temps devient horrible."
               }
             },
             {
@@ -979,13 +1085,15 @@
                 "de": "Chapelle du Messier",
                 "hu": "Chapelle du Messier",
                 "ro": "Chapelle du Messier",
-                "en": "Chapelle du Messier"
+                "en": "Chapelle du Messier",
+                "fr": "Chapelle du Messier"
               },
               "tip_5lang": {
                 "de": "Diese Kapelle bietet ein kurzes Heiligtum. Achten Sie beim Abstellen Ihres Fahrrads auf rutschige Stufen am Eingang.",
                 "hu": "Ez a furcsa kápolna rövid menedéket nyújt; vigyázzon a bejárathoz vezető csúszós lépcsőkkel a kerékpár parkolásakor.",
                 "ro": "Această capelă oferă un scurt sanctuar; atenție la treptele alunecoase de la intrare când parcați bicicleta.",
-                "en": "This quaint chapel offers a brief sanctuary; beware of slippery steps leading to the entrance when parking your bike or walking."
+                "en": "This quaint chapel offers a brief sanctuary; beware of slippery steps leading to the entrance when parking your bike or walking.",
+                "fr": "Cette chapelle pittoresque offre un bref sanctuaire ; méfiez‑vous des marches glissantes menant à l'entrée lorsque vous garez votre vélo ou marchez."
               }
             },
             {
@@ -993,13 +1101,15 @@
                 "de": "Église Sainte-Trinité",
                 "hu": "Église Sainte-Trinité",
                 "ro": "Église Sainte-Trinité",
-                "en": "Église Sainte-Trinité"
+                "en": "Église Sainte-Trinité",
+                "fr": "Église Sainte‑Trinité"
               },
               "tip_5lang": {
                 "de": "Treten Sie ein, um dem Regen zu entkommen und das Innere zu bewundern. Das umliegende Steinpflaster kann bei Nässe rutschig sein.",
                 "hu": "Lépjen be, hogy megcsodálja a gyönyörű belső teret, miközben menekül az eső elől; a környező kőburkolat nedvesen elég csúszós lehet.",
                 "ro": "Intrați pentru a admira interioarele frumoase în timp ce scăpați de ploaie; pavajul de piatră din jur poate fi alunecos când e ud.",
-                "en": "Step inside to admire the beautiful interiors while escaping the rain; the surrounding stone pavement can be quite slick when wet."
+                "en": "Step inside to admire the beautiful interiors while escaping the rain; the surrounding stone pavement can be quite slick when wet.",
+                "fr": "Entrez pour admirer les beaux intérieurs tout en échappant à la pluie ; le dallage de pierre alentour peut être très glissant lorsqu'il est mouillé."
               }
             },
             {
@@ -1007,13 +1117,15 @@
                 "de": "Église de la Sainte-Trinité",
                 "hu": "Église de la Sainte-Trinité",
                 "ro": "Église de la Sainte-Trinité",
-                "en": "Église de la Sainte-Trinité"
+                "en": "Église de la Sainte-Trinité",
+                "fr": "Église de la Sainte‑Trinité"
               },
               "tip_5lang": {
                 "de": "Parken Sie nah am Eingang, um dem Regenguss zu entgehen. Die Buntglasfenster wirken vor dem grauen Himmel wunderbar stimmungsvoll.",
                 "hu": "Parkoljon közel a bejárathoz, hogy elkerülje a felhőszakadást; az ólomüveg csodálatosan hangulatos a szürke esős éggel szemben.",
                 "ro": "Parcați aproape de intrare pentru a evita ploaia; vitraliile complexe arată minunat pe fundalul cerului cenușiu și ploios.",
-                "en": "Park close to the entrance to avoid the downpour; the intricate stained glass looks wonderfully moody against the gray, rainy skies."
+                "en": "Park close to the entrance to avoid the downpour; the intricate stained glass looks wonderfully moody against the gray, rainy skies.",
+                "fr": "Garez‑vous près de l'entrée pour éviter l'averse ; les vitraux finement travaillés prennent une atmosphère merveilleusement sombre sous un ciel gris et pluvieux."
               }
             }
           ]
@@ -1023,7 +1135,8 @@
             "de": "Beginnen Sie den Wintermorgen mit einer Fahrt zur Abtei und genießen Sie die Heizung. Mittags laden das warme Museum und die dampfenden Thermalbäder ein. Die Fahrt zwischen Schloss und Kirchen ist gemütlich. Um 17:00 Uhr wird Ihre Fahrt durch die Dämmerung wunderschön.",
             "hu": "Kezdje a téli reggelt az apátsághoz hajtva, élvezve az autó fűtését. A dél a meleg múzeumba és a gőzölgő termálfürdőbe csábít. A délutáni autózás a kastély és a templomok között hangulatos. 17:00 órára a korai szürkület gyönyörű esti autózássá változtatja az utat.",
             "ro": "Începeți dimineața de iarnă conducând spre abație, bucurându-vă de căldura mașinii. Prânzul vă invită în muzeul cald și în băile termale aburinde. Plimbarea cu mașina printre biserici este confortabilă. Pe la 17:00, amurgul transformă călătoria într-o seară frumoasă.",
-            "en": "Start your winter morning driving to the abbey, enjoying the car's heater. Midday invites you into the warm museum and the steaming thermal baths. The afternoon drive between the castle and multiple churches is cozy. By 17:00, early twilight turns your journey into a beautiful evening drive."
+            "en": "Start your winter morning driving to the abbey, enjoying the car's heater. Midday invites you into the warm museum and the steaming thermal baths. The afternoon drive between the castle and multiple churches is cozy. By 17:00, early twilight turns your journey into a beautiful evening drive.",
+            "fr": "Commencez votre matinée d'hiver en conduisant vers l'abbaye, en profitant du chauffage de la voiture. Midi vous invite dans le musée chaleureux et aux thermes fumants. Les trajets de l'après‑midi entre le château et les différentes églises sont confortables. Vers 17:00, le crépuscule précoce transforme votre parcours en une belle promenade en voiture du soir."
           },
           "stops": [
             {
@@ -1031,13 +1144,15 @@
                 "de": "Saint-Colomban Abbey",
                 "hu": "Saint-Colomban Abbey",
                 "ro": "Saint-Colomban Abbey",
-                "en": "Saint-Colomban Abbey"
+                "en": "Saint-Colomban Abbey",
+                "fr": "Abbaye Saint‑Colomban"
               },
               "tip_5lang": {
                 "de": "Die massiven Steinwände können eiskalt sein. Tragen Sie eine zusätzliche Schicht, während Sie die historischen Ruinen in der Winterluft erkunden.",
                 "hu": "A masszív kőfalak jéghidegek lehetnek, így viseljen extra réteget, miközben felfedezi a történelmi romokat a csípős téli levegőben.",
                 "ro": "Zidurile de piatră pot fi înghețate, purtați un strat în plus explorând ruinele istorice în aerul rece de iarnă.",
-                "en": "The massive stone walls can be freezing, so wear an extra layer while exploring the historic ruins in the crisp winter air."
+                "en": "The massive stone walls can be freezing, so wear an extra layer while exploring the historic ruins in the crisp winter air.",
+                "fr": "Les murs massifs de pierre peuvent être glacials, alors portez une couche supplémentaire en explorant les ruines historiques dans l'air vif de l'hiver."
               }
             },
             {
@@ -1045,13 +1160,15 @@
                 "de": "Musée de la Tour des échevins",
                 "hu": "Musée de la Tour des échevins",
                 "ro": "Musée de la Tour des échevins",
-                "en": "Musée de la Tour des échevins"
+                "en": "Musée de la Tour des échevins",
+                "fr": "Musée de la Tour des échevins"
               },
               "tip_5lang": {
                 "de": "Entfliehen Sie der Winterkälte in diesem historischen Turm. Das Museum bietet ein gemütliches Eintauchen in die Vergangenheit.",
                 "hu": "Meneküljön a téli hideg elől ebbe a lenyűgöző történelmi toronyba; a múzeum hangulatos elmerülést kínál a régió múltjában.",
                 "ro": "Scăpați de frigul iernii în acest turn istoric fascinant; muzeul oferă o incursiune confortabilă în trecutul bogat al regiunii.",
-                "en": "Escape the winter chill inside this fascinating historical tower; the museum offers a cozy, deep dive into the region's rich past."
+                "en": "Escape the winter chill inside this fascinating historical tower; the museum offers a cozy, deep dive into the region's rich past.",
+                "fr": "Échappez à la morsure de l'hiver à l'intérieur de cette tour historique fascinante ; le musée offre une plongée chaleureuse et approfondie dans le riche passé de la région."
               }
             },
             {
@@ -1059,13 +1176,15 @@
                 "de": "Luxeuil-les-Bains Thermal Baths",
                 "hu": "Luxeuil-les-Bains Thermal Baths",
                 "ro": "Luxeuil-les-Bains Thermal Baths",
-                "en": "Luxeuil-les-Bains Thermal Baths"
+                "en": "Luxeuil-les-Bains Thermal Baths",
+                "fr": "Thermes de Luxeuil‑les‑Bains"
               },
               "tip_5lang": {
                 "de": "Wärmen Sie Ihre Knochen in den heißen Quellen auf, ein perfekter und entspannender Kontrast zu den eisigen Wintertemperaturen draußen.",
                 "hu": "Melegítse fel csontjait a híres hőforrásokban, amely tökéletes és pihentető kontrasztot nyújt a kinti fagyos téli hőmérséklettel szemben.",
                 "ro": "Încălziți-vă oasele în renumitele izvoare termale, oferind un contrast perfect și relaxant cu temperaturile scăzute de iarnă de afară.",
-                "en": "Warm your bones in the renowned hot springs, providing a perfect and relaxing contrast to the freezing winter temperatures outside."
+                "en": "Warm your bones in the renowned hot springs, providing a perfect and relaxing contrast to the freezing winter temperatures outside.",
+                "fr": "Réchauffez vos os dans les sources chaudes renommées, offrant un contraste parfait et relaxant aux températures glaciales extérieures."
               }
             },
             {
@@ -1073,13 +1192,15 @@
                 "de": "EHPAD Château Grammont",
                 "hu": "EHPAD Château Grammont",
                 "ro": "EHPAD Château Grammont",
-                "en": "EHPAD Château Grammont"
+                "en": "EHPAD Château Grammont",
+                "fr": "EHPAD Château Grammont"
               },
               "tip_5lang": {
                 "de": "Die Schlossanlage ist atemberaubend unter Frost; kleiden Sie sich warm, da der offene Innenhof die kalten Winterwinde einfängt.",
                 "hu": "A történelmi kastély kertje lenyűgöző a fagyban; öltözzön melegen, mivel a nyitott udvar felfogja a hideg, metsző téli szeleket.",
                 "ro": "Terenurile castelului sunt uimitoare sub îngheț; îmbrăcați-vă gros, deoarece curtea deschisă prinde vânturile reci de iarnă.",
-                "en": "The historic castle grounds are stunning under frost; dress warmly as the open courtyard catches the cold, biting winter winds."
+                "en": "The historic castle grounds are stunning under frost; dress warmly as the open courtyard catches the cold, biting winter winds.",
+                "fr": "Les jardins historiques du château sont magnifiques sous le givre ; habillez‑vous chaudement car la cour ouverte capte les vents d'hiver froids et mordants."
               }
             },
             {
@@ -1087,13 +1208,15 @@
                 "de": "Atelier de potiers du Chatigny",
                 "hu": "Atelier de potiers du Chatigny",
                 "ro": "Atelier de potiers du Chatigny",
-                "en": "Atelier de potiers du Chatigny"
+                "en": "Atelier de potiers du Chatigny",
+                "fr": "Atelier de potiers du Chatigny"
               },
               "tip_5lang": {
                 "de": "Die laufenden Öfen sorgen in diesem Laden für eine angenehme Wärme; ein toller Halt, um sich am Winternachmittag aufzuwärmen.",
                 "hu": "A működő kemencék kellemes meleget árasztanak ebben a bájos boltban; nagyszerű megálló a téli délutáni felmelegedéshez.",
                 "ro": "Cuptoarele de lucru oferă o căldură plăcută în acest magazin fermecător; o oprire excelentă pentru a vă încălzi după-amiaza.",
-                "en": "The working kilns provide a lovely burst of ambient heat in this charming shop; a great stop to warm up during the winter afternoon."
+                "en": "The working kilns provide a lovely burst of ambient heat in this charming shop; a great stop to warm up during the winter afternoon.",
+                "fr": "Les fours en activité diffusent une agréable chaleur d'appoint dans cette boutique charmante ; un excellent arrêt pour se réchauffer lors d'un après‑midi d'hiver."
               }
             },
             {
@@ -1101,13 +1224,15 @@
                 "de": "Chapelle du Messier",
                 "hu": "Chapelle du Messier",
                 "ro": "Chapelle du Messier",
-                "en": "Chapelle du Messier"
+                "en": "Chapelle du Messier",
+                "fr": "Chapelle du Messier"
               },
               "tip_5lang": {
                 "de": "In der kleinen Kapelle wird es früh dunkel. Besuchen Sie sie bei Tageslicht, bevor um 17:00 Uhr der Sonnenuntergang beginnt.",
                 "hu": "A kis kápolnában korán sötétedik; mindenképpen látogassa meg, amíg még van nappali fény a 17:00 órás téli naplemente előtt.",
                 "ro": "Capela se întunecă devreme; vizitați cât încă mai este lumină de zi, înainte să înceapă apusul de iarnă la ora 17:00.",
-                "en": "The small chapel gets dark early; make sure to visit while there is still daylight before the 17:00 winter sunset begins."
+                "en": "The small chapel gets dark early; make sure to visit while there is still daylight before the 17:00 winter sunset begins.",
+                "fr": "La petite chapelle s'assombrit tôt ; assurez‑vous de la visiter tant qu'il y a encore de la lumière du jour avant le coucher du soleil d'hiver à 17:00."
               }
             },
             {
@@ -1115,13 +1240,15 @@
                 "de": "Église Sainte-Trinité",
                 "hu": "Église Sainte-Trinité",
                 "ro": "Église Sainte-Trinité",
-                "en": "Église Sainte-Trinité"
+                "en": "Église Sainte-Trinité",
+                "fr": "Église Sainte‑Trinité"
               },
               "tip_5lang": {
                 "de": "Die feierliche Atmosphäre wird durch die Winterstille verstärkt. Ziehen Sie sich warm an, da das alte Steininnere kaum beheizt wird.",
                 "hu": "Az ünnepélyes hangulatot felerősíti a téli csend; öltözzön be jól, mivel az ősi kőbelső nincs erősen fűtve.",
                 "ro": "Atmosfera solemnă e amplificată de tăcerea iernii; îmbrăcați-vă gros, interiorul antic din piatră nefiind foarte încălzit.",
-                "en": "The solemn atmosphere is amplified by the winter silence; bundle up as the ancient stone interior isn't heavily heated."
+                "en": "The solemn atmosphere is amplified by the winter silence; bundle up as the ancient stone interior isn't heavily heated.",
+                "fr": "L'atmosphère solennelle est amplifiée par le silence hivernal ; emmitouflez‑vous car l'intérieur de pierre ancien n'est pas fortement chauffé."
               }
             },
             {
@@ -1129,13 +1256,15 @@
                 "de": "Église de la Sainte-Trinité",
                 "hu": "Église de la Sainte-Trinité",
                 "ro": "Église de la Sainte-Trinité",
-                "en": "Église de la Sainte-Trinité"
+                "en": "Église de la Sainte-Trinité",
+                "fr": "Église de la Sainte‑Trinité"
               },
               "tip_5lang": {
                 "de": "Wenn Sie diese letzte Kirche mit dem Auto erreichen, bleiben Sie warm. Bewundern Sie die Architektur vor dem Einbruch der Dunkelheit um 17:00.",
                 "hu": "Kényelmesen, az autóban melegedve érheti el ezt az utolsó templomot; csodálja meg az építészetet a 17:00 órás sötétedés előtt.",
                 "ro": "Ajungând cu mașina vă mențineți la căldură; admirați arhitectura exterioară chiar înainte ca noaptea de iarnă să se lase la 17:00.",
-                "en": "Reaching this final church by car keeps you warm; admire the architecture from outside just before the 17:00 winter night fully sets in."
+                "en": "Reaching this final church by car keeps you warm; admire the architecture from outside just before the 17:00 winter night fully sets in.",
+                "fr": "Atteindre cette dernière église en voiture vous réchauffe ; admirez l’architecture depuis l’extérieur juste avant que la nuit hivernale ne tombe complètement à 17:00."
               }
             }
           ]

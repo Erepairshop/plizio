@@ -21,7 +21,8 @@
             "de": "Église Saint-Pierre et Saint-Paul",
             "hu": "Église Saint-Pierre et Saint-Paul",
             "ro": "Église Saint-Pierre et Saint-Paul",
-            "en": "Église Saint-Pierre et Saint-Paul"
+            "en": "Église Saint-Pierre et Saint-Paul",
+            "fr": "Église Saint-Pierre et Saint-Paul"
           },
           "coords": [
             -3.608251,
@@ -36,7 +37,8 @@
             "de": "Bewundern Sie die wunderschönen Buntglasfenster und die filigrane Steinmetzarbeit dieser historischen Kirche, ein Symbol des Erbes von Gourin, aber prüfen Sie vorab die Messezeiten.",
             "hu": "Csodálja meg e történelmi templom gyönyörű ólomüveg ablakait és bonyolult kőfaragásait, Gourin örökségének szimbólumát, de a belső látogatás előtt ellenőrizze a misék rendjét.",
             "ro": "Admirați vitraliile frumoase și sculpturile în piatră ale acestei biserici istorice, un simbol al moștenirii din Gourin, dar verificați programul slujbelor înainte de a intra.",
-            "en": "Admire the beautiful stained glass and intricate stonework of this historic church, a symbol of Gourin's heritage, but check the mass schedule before visiting inside."
+            "en": "Admire the beautiful stained glass and intricate stonework of this historic church, a symbol of Gourin's heritage, but check the mass schedule before visiting inside.",
+            "fr": "Admirez les beaux vitraux et la pierre finement travaillée de cette église historique, symbole du patrimoine de Gourin, mais vérifiez l’horaire des messes avant de visiter l’intérieur."
           }
         },
         {
@@ -44,7 +46,8 @@
             "de": "Étang de Gourin",
             "hu": "Étang de Gourin",
             "ro": "Étang de Gourin",
-            "en": "Étang de Gourin"
+            "en": "Étang de Gourin",
+            "fr": "Étang de Gourin"
           },
           "coords": [
             -3.60322,
@@ -59,7 +62,8 @@
             "de": "Genießen Sie einen friedlichen Spaziergang um diesen malerischen Natursee, in dem sich der Himmel spiegelt, und vergessen Sie nicht, ein Picknick für die Bänke am Ufer einzupacken.",
             "hu": "Élvezze a békés sétát e festői természetes tó körül, amely gyönyörűen tükrözi az eget, és ne felejtsen el egy kis pikniket csomagolni a tóparti padok egyikére.",
             "ro": "Bucurați-vă de o plimbare liniștită în jurul acestui lac natural pitoresc ce reflectă cerul și nu uitați să împachetați un mic picnic pentru a-l savura pe băncile de pe mal.",
-            "en": "Enjoy a peaceful stroll around this scenic natural lake which reflects the sky beautifully, and don't forget to pack a small picnic to enjoy on one of the lakeside benches."
+            "en": "Enjoy a peaceful stroll around this scenic natural lake which reflects the sky beautifully, and don't forget to pack a small picnic to enjoy on one of the lakeside benches.",
+            "fr": "Profitez d’une promenade paisible autour de ce lac naturel pittoresque qui reflète magnifiquement le ciel, et n’oubliez pas d’emporter un petit pique-nique pour profiter d’un banc au bord de l’eau."
           }
         },
         {
@@ -67,7 +71,8 @@
             "de": "Chapelle Saint-Philibert",
             "hu": "Chapelle Saint-Philibert",
             "ro": "Chapelle Saint-Philibert",
-            "en": "Chapelle Saint-Philibert"
+            "en": "Chapelle Saint-Philibert",
+            "fr": "Chapelle Saint-Philibert"
           },
           "coords": [
             -3.590935,
@@ -82,7 +87,8 @@
             "de": "Entdecken Sie diese charmante Steinkapelle inmitten einer ruhigen Landschaft, um die friedliche Atmosphäre zu genießen, und betrachten Sie die alten Schnitzereien an den Außenmauern.",
             "hu": "Fedezze fel ezt a bájos kőkápolnát a nyugodt vidéki tájban, hogy élvezze annak csendes atmoszféráját, és szánjon egy pillanatot a külső falakon található ősi faragások megtekintésére.",
             "ro": "Descoperiți această capelă fermecătoare de piatră din mediul rural pentru a-i aprecia atmosfera liniștită, luându-vă un moment pentru a privi sculpturile vechi de pe zidurile exterioare.",
-            "en": "Discover this charming stone chapel nestled in the serene countryside to appreciate its quiet atmosphere, taking a moment to view the ancient carvings on the outer walls."
+            "en": "Discover this charming stone chapel nestled in the serene countryside to appreciate its quiet atmosphere, taking a moment to view the ancient carvings on the outer walls.",
+            "fr": "Découvrez cette charmante chapelle en pierre nichée dans la campagne paisible pour apprécier son atmosphère tranquille, en prenant un moment pour admirer les anciennes sculptures sur les murs extérieurs."
           }
         },
         {
@@ -90,7 +96,8 @@
             "de": "Théâtre de Tronjoly",
             "hu": "Théâtre de Tronjoly",
             "ro": "Théâtre de Tronjoly",
-            "en": "Théâtre de Tronjoly"
+            "en": "Théâtre de Tronjoly",
+            "fr": "Théâtre de Tronjoly"
           },
           "coords": [
             -3.608716,
@@ -105,7 +112,8 @@
             "de": "Tauchen Sie in diesem Freiluft-Veranstaltungsort neben dem Schloss in die lokale Kunstszene ein und informieren Sie sich vorab über das Programm für faszinierende Nachmittagsvorstellungen.",
             "hu": "Merüljön el a helyi előadóművészeti életben ezen a kastély melletti szabadtéri kulturális helyszínen, előre ellenőrizve a programjukat bármilyen lenyűgöző délutáni műsor kapcsán.",
             "ro": "Pătrundeți în scena artelor spectacolului la această locație culturală în aer liber de lângă castel, verificând programul în avans pentru orice spectacole fascinante de după-amiază.",
-            "en": "Immerse yourself in the local performing arts scene at this open-air cultural venue right next to the château, checking their schedule in advance for any fascinating afternoon shows."
+            "en": "Immerse yourself in the local performing arts scene at this open-air cultural venue right next to the château, checking their schedule in advance for any fascinating afternoon shows.",
+            "fr": "Imprégnez-vous de la scène artistique locale dans ce lieu culturel en plein air juste à côté du château, en vérifiant leur programme à l’avance pour d’éventuels spectacles d’après-midi fascinants."
           }
         },
         {
@@ -113,7 +121,8 @@
             "de": "Château de Tronjoly",
             "hu": "Château de Tronjoly",
             "ro": "Château de Tronjoly",
-            "en": "Château de Tronjoly"
+            "en": "Château de Tronjoly",
+            "fr": "Château de Tronjoly"
           },
           "coords": [
             -3.60977,
@@ -128,7 +137,8 @@
             "de": "Erkunden Sie das weitläufige Gelände und die Architektur dieses historischen Schlosses, in dem lokale Kulturveranstaltungen stattfinden, und nehmen Sie sich Zeit für die üppigen Gärten.",
             "hu": "Fedezze fel e történelmi kastély hatalmas birtokát és építészetét, amely helyi kulturális eseményeknek ad otthont, elegendő időt hagyva a buja, gondozott kertekben való sétára.",
             "ro": "Explorați domeniul vast și arhitectura acestui castel istoric care găzduiește evenimente culturale locale, lăsând suficient timp pentru a vă plimba prin grădinile luxuriante și îngrijite.",
-            "en": "Explore the sprawling grounds and majestic architecture of this historic castle that hosts local cultural events, leaving enough time to wander through the lush, well-kept gardens."
+            "en": "Explore the sprawling grounds and majestic architecture of this historic castle that hosts local cultural events, leaving enough time to wander through the lush, well-kept gardens.",
+            "fr": "Explorez les vastes terrains et l’architecture majestueuse de ce château historique qui accueille des événements culturels locaux, en prévoyant suffisamment de temps pour flâner dans les jardins luxuriants et bien entretenus."
           }
         }
       ],
@@ -136,7 +146,8 @@
         "de": "Beginnen Sie Ihren Tag mit der Erkundung des spirituellen Herzens von Gourin in der zentralen Kirche, bevor die friedliche Atmosphäre des Sees einen entspannten Ton für den Morgen setzt.\nZur Mittagszeit können Sie die charmante ländliche Steinkapelle entdecken, die ihre ganz eigene, stille Geschichte von Hingabe und Tradition in der malerischen bretonischen Landschaft erzählt.\nDer Nachmittag widmet sich der Pracht von Tronjoly; spazieren Sie durch die herrlichen Schlossanlagen und stellen Sie sich die großen Veranstaltungen im benachbarten Freilufttheater vor.\nBeenden Sie Ihre Reise, während das späte Nachmittagslicht weicher wird, und lassen Sie einen gut verbrachten Tag inmitten der Denkmäler und üppigen grünen Landschaften der Bretagne Revue passieren.",
         "hu": "Kezdje a napot Gourin szellemi központjának felfedezésével a központi templomban, mielőtt a helyi tó békés atmoszférája nyugodt alaphangot adna az egész délelőttnek.\nDélben merészkedjen egy kicsit kijjebb, és fedezze fel a breton vidéket pettyező bájos, vidéki kőkápolnát, amely a történelemről és az őszinte áhítatról mesél.\nA délután Tronjoly nagyszerűségének van szentelve; sétáljon végig a csodálatos kastélykertben, és képzelje el a szomszédos szabadtéri színházban megrendezett nagyszabású eseményeket.\nZárja utazását a késő délutáni fények lágyulásával, visszagondolva az ezen autentikus breton város történelmi műemlékei és buja zöldellő tájai között eltöltött csodálatos napra.",
         "ro": "Începeți ziua explorând inima spirituală a orașului Gourin la biserica centrală, înainte ca atmosfera pașnică a lacului local să stabilească un ton relaxant pentru prima parte a dimineții.\nLa amiază, aventurați-vă ușor spre exterior pentru a descoperi fermecătoarea capelă rurală de piatră care presară peisajul breton, spunând propria poveste de istorie și devotament.\nDupă-amiaza este dedicată măreției domeniului Tronjoly; plimbați-vă prin terenurile magnifice ale castelului și imaginați-vă marile evenimente de la teatrul în aer liber din vecinătate.\nÎncheiați-vă călătoria pe măsură ce lumina se domolește, reflectând la o zi bine petrecută printre monumentele istorice și peisajele verzi și luxuriante ale acestui oraș breton autentic.",
-        "en": "Start your day exploring the spiritual heart of Gourin by visiting the central church, before letting the peaceful atmosphere of the local lake set a relaxing tone for the morning.\nBy midday, venture slightly outwards to discover the charming rural stone chapel that dots the Breton countryside, telling its own quiet story of history and regional devotion.\nThe afternoon is dedicated to the grandeur of Tronjoly; walk through its magnificent castle grounds and picture the grand events that take place at the neighboring open-air theatre.\nConclude your journey as the late afternoon light softens, reflecting on a day well spent amidst the historical monuments and lush, green landscapes of this authentic Breton town."
+        "en": "Start your day exploring the spiritual heart of Gourin by visiting the central church, before letting the peaceful atmosphere of the local lake set a relaxing tone for the morning.\nBy midday, venture slightly outwards to discover the charming rural stone chapel that dots the Breton countryside, telling its own quiet story of history and regional devotion.\nThe afternoon is dedicated to the grandeur of Tronjoly; walk through its magnificent castle grounds and picture the grand events that take place at the neighboring open-air theatre.\nConclude your journey as the late afternoon light softens, reflecting on a day well spent amidst the historical monuments and lush, green landscapes of this authentic Breton town.",
+        "fr": "Commencez votre journée en explorant le cœur spirituel de Gourin en visitant l’église centrale, puis laissez l’atmosphère paisible du lac local donner un ton relaxant à votre matinée.\nÀ midi, aventurez-vous un peu à l’extérieur pour découvrir la charmante chapelle rurale en pierre qui ponctue la campagne bretonne, racontant sa propre histoire tranquille d’histoire et de dévotion régionale.\nL’après-midi est dédié à la grandeur de Tronjoly ; parcourez ses magnifiques terrains de château et imaginez les grands événements qui ont lieu au théâtre en plein air voisin.\nConcluez votre journée alors que la lumière du soir s’adoucit, en réfléchissant à une journée bien remplie parmi les monuments historiques et les paysages verts et luxuriants de cette authentique ville bretonne."
       },
       "variants": {
         "rainy": {
@@ -144,7 +155,8 @@
             "de": "Beginnen Sie den Morgen unter den schützenden Bögen der Hauptkirche von Gourin. Mittags folgt ein Spaziergang um den See, bei dem ein robuster Regenschirm unerlässlich ist. Nachmittags bieten die lokalen Kapellen eine ruhige Zuflucht vor dem Regen. Beenden Sie den Tag in den trockenen, kulturellen Räumen des Anwesens Tronjoly.",
             "hu": "Kezdje a reggelt Gourin főtemplomának védelmet nyújtó boltívei alatt. Délben egy ködös séta következik a tó körül, ahol elengedhetetlen egy jó esernyő. Délután a helyi kápolnák csendes menedéket nyújtanak az eső elől. Zárja a napot a Tronjoly birtok fedett, kulturális tereiben, melegben és szárazon.",
             "ro": "Începeți dimineața sub arcadele protectoare ale bisericii principale din Gourin. La prânz, faceți o plimbare cețoasă în jurul lacului, unde o umbrelă este esențială. După-amiaza, capelele locale oferă un adăpost liniștit împotriva ploii. Încheiați ziua bucurându-vă de spațiile culturale interioare ale domeniului Tronjoly.",
-            "en": "Start your morning under the protective arches of Gourin's main church. Midday brings a misty stroll around the lake where a good umbrella is essential. In the afternoon, the local chapels offer quiet shelter from the rain. End your day enjoying the indoor cultural spaces of the Tronjoly estate, keeping warm and dry."
+            "en": "Start your morning under the protective arches of Gourin's main church. Midday brings a misty stroll around the lake where a good umbrella is essential. In the afternoon, the local chapels offer quiet shelter from the rain. End your day enjoying the indoor cultural spaces of the Tronjoly estate, keeping warm and dry.",
+            "fr": "Commencez votre matinée sous les arches protectrices de l’église principale de Gourin. À midi, promenez-vous dans la brume autour du lac où un bon parapluie est essentiel. L’après-midi, les chapelles locales offrent un abri calme contre la pluie. Terminez votre journée en profitant des espaces culturels intérieurs du domaine de Tronjoly pour rester au chaud et au sec."
           },
           "stops": [
             {
@@ -152,13 +164,15 @@
                 "de": "Église Saint-Pierre et Saint-Paul",
                 "hu": "Église Saint-Pierre et Saint-Paul",
                 "ro": "Église Saint-Pierre et Saint-Paul",
-                "en": "Église Saint-Pierre et Saint-Paul"
+                "en": "Église Saint-Pierre et Saint-Paul",
+                "fr": "Église Saint-Pierre et Saint-Paul"
               },
               "tip_5lang": {
                 "de": "Entdecken Sie die beeindruckende Innenarchitektur und finden Sie Zuflucht vor dem Regen. Vorsicht am Eingang, der nasse Steinboden kann ziemlich rutschig sein.",
                 "hu": "Fedezze fel a templom lenyűgöző belső építészetét, miközben menedéket talál az eső elől. A vizes kőpadló csúszhat, ezért óvatosan lépkedjen a bejárat környékén.",
                 "ro": "Explorați arhitectura interioară impresionantă în timp ce găsiți un adăpost uscat. Aveți grijă la intrare, deoarece podeaua de piatră umedă poate fi alunecoasă.",
-                "en": "Explore the stunning interior architecture while finding a dry shelter from the rain. Be careful as the wet stone floor near the entrance can be quite slippery."
+                "en": "Explore the stunning interior architecture while finding a dry shelter from the rain. Be careful as the wet stone floor near the entrance can be quite slippery.",
+                "fr": "Explorez l’architecture intérieure magnifique tout en trouvant un abri sec contre la pluie. Faites attention car le sol en pierre humide près de l’entrée peut être très glissant."
               }
             },
             {
@@ -166,13 +180,15 @@
                 "de": "Étang de Gourin",
                 "hu": "Étang de Gourin",
                 "ro": "Étang de Gourin",
-                "en": "Étang de Gourin"
+                "en": "Étang de Gourin",
+                "fr": "Étang de Gourin"
               },
               "tip_5lang": {
                 "de": "Die vernebelte Atmosphäre am See ist magisch, bietet aber kaum Schutz. Tragen Sie wasserfeste Schuhe, da die Uferwege bei starkem Regen schnell matschig werden.",
                 "hu": "A tó ködös hangulata varázslatos, de nem sok fedezéket nyújt. Viseljen vízálló cipőt, mivel a parti ösvények a heves esőzések során gyorsan sarassá válhatnak.",
                 "ro": "Atmosfera cețoasă de la lac este magică, dar oferă puțin adăpost. Purtați încălțăminte impermeabilă, deoarece potecile devin rapid noroioase pe ploaie.",
-                "en": "The misty atmosphere by the lake is magical but offers little shelter. Wear waterproof shoes as the lakeside paths can quickly become muddy during heavy rainfall."
+                "en": "The misty atmosphere by the lake is magical but offers little shelter. Wear waterproof shoes as the lakeside paths can quickly become muddy during heavy rainfall.",
+                "fr": "L’atmosphère brumeuse au bord du lac est magique mais offre peu d’abri. Portez des chaussures imperméables car les sentiers au bord du lac peuvent rapidement devenir boueux lors de fortes pluies."
               }
             },
             {
@@ -180,13 +196,15 @@
                 "de": "Chapelle Saint-Philibert",
                 "hu": "Chapelle Saint-Philibert",
                 "ro": "Chapelle Saint-Philibert",
-                "en": "Chapelle Saint-Philibert"
+                "en": "Chapelle Saint-Philibert",
+                "fr": "Chapelle Saint-Philibert"
               },
               "tip_5lang": {
                 "de": "Ein wunderschöner und ruhiger Rückzugsort bei plötzlichen Schauern. Der kurze Zugangspfad zur Kapelle erfordert bei Nässe etwas Vorsicht wegen tiefer Pfützen.",
                 "hu": "Gyönyörű és békés menedék hirtelen lezúduló záporok esetén. A kápolnához vezető rövid ösvényen érdemes vigyázni, mert a mélyebb tócsákat nehéz kikerülni.",
                 "ro": "Un refugiu frumos și liniștit în timpul ploilor bruște. Calea scurtă de acces către capelă necesită puțină atenție din cauza bălților adânci pe vreme umedă.",
-                "en": "A beautiful and peaceful retreat during sudden rain showers. The short access path to the chapel requires a bit of caution due to deep puddles when it is wet."
+                "en": "A beautiful and peaceful retreat during sudden rain showers. The short access path to the chapel requires a bit of caution due to deep puddles when it is wet.",
+                "fr": "Un beau et paisible refuge pendant les averses soudaines. Le court chemin d’accès à la chapelle nécessite un peu de prudence en raison des grandes flaques lorsqu’il est mouillé."
               }
             },
             {
@@ -194,13 +212,15 @@
                 "de": "Théâtre de Tronjoly",
                 "hu": "Théâtre de Tronjoly",
                 "ro": "Théâtre de Tronjoly",
-                "en": "Théâtre de Tronjoly"
+                "en": "Théâtre de Tronjoly",
+                "fr": "Théâtre de Tronjoly"
               },
               "tip_5lang": {
                 "de": "Genießen Sie die lokale Kultur in den angenehm warmen und trockenen Innenräumen. Dies ist der perfekte Ort, um einen anhaltenden Regenschauer abzuwarten.",
                 "hu": "Élvezze a helyi kultúrát a kellemesen meleg és teljesen száraz belső terekben. Ez a legtökéletesebb helyszín arra, hogy kényelmesen átvészeljen egy tartós záport.",
                 "ro": "Bucurați-vă de cultura locală în interioarele plăcut de calde și uscate. Acesta este locul perfect pentru a aștepta trecerea unei ploi prelungite și reci.",
-                "en": "Enjoy the local culture in the pleasantly warm and completely dry interiors. This is the absolute perfect spot to comfortably wait out a prolonged rain shower."
+                "en": "Enjoy the local culture in the pleasantly warm and completely dry interiors. This is the absolute perfect spot to comfortably wait out a prolonged rain shower.",
+                "fr": "Profitez de la culture locale dans des intérieurs agréablement chauds et complètement secs. C’est l’endroit idéal pour attendre confortablement qu’une pluie prolongée cesse."
               }
             },
             {
@@ -208,13 +228,15 @@
                 "de": "Château de Tronjoly",
                 "hu": "Château de Tronjoly",
                 "ro": "Château de Tronjoly",
-                "en": "Château de Tronjoly"
+                "en": "Château de Tronjoly",
+                "fr": "Château de Tronjoly"
               },
               "tip_5lang": {
                 "de": "Bewundern Sie die Fassade des Schlosses von außen unter Ihrem Schirm. Die gepflasterten Wege im Park können bei nassem Wetter unangenehm rutschig werden.",
                 "hu": "Csodálja meg a kastély lenyűgöző homlokzatát az esernyője alól. A park kövezett útjai és lépcsői nedves időben meglehetősen csúszóssá és veszélyessé válhatnak.",
                 "ro": "Admirați fațada impresionantă a castelului de sub umbrela dumneavoastră. Aleile pietruite și treptele din parc pot deveni destul de alunecoase pe vreme umedă.",
-                "en": "Admire the impressive facade of the castle from safely under your umbrella. The paved paths and steps in the park can become quite slippery in wet weather conditions."
+                "en": "Admire the impressive facade of the castle from safely under your umbrella. The paved paths and steps in the park can become quite slippery in wet weather conditions.",
+                "fr": "Admirez la façade imposante du château en toute sécurité sous votre parapluie. Les allées pavées et les marches du parc peuvent devenir assez glissantes par temps humide."
               }
             }
           ]
@@ -224,7 +246,8 @@
             "de": "Beginnen Sie den klaren Wintermorgen im historischen Herzen von Gourin. Mittags genießen Sie einen Spaziergang um den See in warmen Schichten. Das Nachmittagslicht beleuchtet die alten Steinkapellen wunderschön. Wenn gegen 17 Uhr die Sonne untergeht, ziehen Sie sich in die gemütlichen Hallen von Tronjoly zurück.",
             "hu": "Kezdje a csípős téli reggelt Gourin történelmi központjának felfedezésével. Délben tegyen egy séta a tó körül, meleg rétegekbe öltözve. A délutáni fény gyönyörűen megvilágítja a régi kőkápolnákat. Amikor 17 óra körül lemegy a nap, vonuljon vissza a Tronjoly birtok hangulatos, kivilágított termeibe.",
             "ro": "Începeți dimineața de iarnă explorând inima istorică a orașului Gourin. La prânz, bucurați-vă de o plimbare revigorantă în jurul lacului, purtând haine groase. Lumina după-amiezii luminează frumos vechile capele. Odată cu apusul din jurul orei 17:00, retrageți-vă în sălile domeniului Tronjoly.",
-            "en": "Begin the crisp winter morning exploring the historic heart of Gourin. By noon, enjoy a brisk walk around the lake, bundled up in warm layers. The afternoon light beautifully illuminates the old stone chapels. As the early sunset arrives around 5 PM, retreat to the cozy halls of the Tronjoly estate."
+            "en": "Begin the crisp winter morning exploring the historic heart of Gourin. By noon, enjoy a brisk walk around the lake, bundled up in warm layers. The afternoon light beautifully illuminates the old stone chapels. As the early sunset arrives around 5 PM, retreat to the cozy halls of the Tronjoly estate.",
+            "fr": "Commencez la fraîche matinée d’hiver en explorant le cœur historique de Gourin. À midi, profitez d’une marche tonique autour du lac, emmitouflé dans des couches chaudes. La lumière de l’après-midi illumine magnifiquement les anciennes chapelles en pierre. À la tombée précoce du soir vers 17h, retirez-vous dans les salles douillettes du domaine de Tronjoly."
           },
           "stops": [
             {
@@ -232,13 +255,15 @@
                 "de": "Église Saint-Pierre et Saint-Paul",
                 "hu": "Église Saint-Pierre et Saint-Paul",
                 "ro": "Église Saint-Pierre et Saint-Paul",
-                "en": "Église Saint-Pierre et Saint-Paul"
+                "en": "Église Saint-Pierre et Saint-Paul",
+                "fr": "Église Saint-Pierre et Saint-Paul"
               },
               "tip_5lang": {
                 "de": "Genießen Sie die wunderbar friedliche Atmosphäre im Inneren. Ziehen Sie sich unbedingt warm an, da die dicken Steinwände der Kirche die winterliche Kälte speichern.",
                 "hu": "Élvezze a benti csodálatosan békés légkört. Mindenképpen öltözzön fel melegen, mivel a templom vastag kőfalai magukba zárják a fagyos téli hideget.",
                 "ro": "Bucurați-vă de atmosfera minunat de pașnică din interior. Îmbrăcați-vă neapărat gros, deoarece pereții groși de piatră ai bisericii rețin frigul aspru al iernii.",
-                "en": "Enjoy the wonderfully peaceful atmosphere inside. Be sure to dress warmly, as the thick stone walls of the church trap and hold the freezing winter cold."
+                "en": "Enjoy the wonderfully peaceful atmosphere inside. Be sure to dress warmly, as the thick stone walls of the church trap and hold the freezing winter cold.",
+                "fr": "Appréciez l’atmosphère merveilleusement paisible à l’intérieur. Veillez à vous habiller chaudement, car les murs épais en pierre de l’église retiennent et conservent le froid hivernal glacial."
               }
             },
             {
@@ -246,13 +271,15 @@
                 "de": "Étang de Gourin",
                 "hu": "Étang de Gourin",
                 "ro": "Étang de Gourin",
-                "en": "Étang de Gourin"
+                "en": "Étang de Gourin",
+                "fr": "Étang de Gourin"
               },
               "tip_5lang": {
                 "de": "Die frostige Uferlandschaft bietet fantastische Fotomotive in der Wintersonne. Ein dicker Schal ist wichtig, um sich vor dem eisigen Wind am offenen Wasser zu schützen.",
                 "hu": "A deres partvidék fantasztikus fotótémákat kínál a téli napsütésben. Egy vastag sál fontos, hogy megvédje magát a nyílt víz felől fújó jeges széllel szemben.",
                 "ro": "Peisajul înghețat oferă motive foto fantastice în soarele de iarnă. Un fular gros este important pentru a vă proteja de vântul înghețat de lângă apa deschisă.",
-                "en": "The frosty shoreline offers fantastic photo opportunities in the winter sun. A thick scarf is important to protect yourself from the icy wind off the open water."
+                "en": "The frosty shoreline offers fantastic photo opportunities in the winter sun. A thick scarf is important to protect yourself from the icy wind off the open water.",
+                "fr": "La rive gelée offre de fantastiques opportunités photo sous le soleil d’hiver. Une grosse écharpe est importante pour vous protéger du vent glacé venant de l’eau ouverte."
               }
             },
             {
@@ -260,13 +287,15 @@
                 "de": "Chapelle Saint-Philibert",
                 "hu": "Chapelle Saint-Philibert",
                 "ro": "Chapelle Saint-Philibert",
-                "en": "Chapelle Saint-Philibert"
+                "en": "Chapelle Saint-Philibert",
+                "fr": "Chapelle Saint-Philibert"
               },
               "tip_5lang": {
                 "de": "Die alte Steinfassade leuchtet besonders schön im tief stehenden Winterlicht. Tragen Sie dicke Socken, da der historische Boden im Innenraum eiskalt ist.",
                 "hu": "A régi kőhomlokzat különösen szépen ragyog az alacsonyan járó téli napfényben. Viseljen vastag zoknit, mivel a történelmi padlózat a belső térben jéghideg.",
                 "ro": "Vechea fațadă de piatră strălucește deosebit de frumos în lumina joasă a iernii. Purtați șosete groase, deoarece podeaua istorică din interior este rece ca gheața.",
-                "en": "The old stone facade glows beautifully in the low-angled winter sunlight. Wear thick socks as the historic floor inside the building is literally ice-cold."
+                "en": "The old stone facade glows beautifully in the low-angled winter sunlight. Wear thick socks as the historic floor inside the building is literally ice-cold.",
+                "fr": "La vieille façade en pierre s’illumine magnifiquement sous le soleil bas d’hiver. Portez des chaussettes épaisses car le sol ancien à l’intérieur du bâtiment est littéralement glacé."
               }
             },
             {
@@ -274,13 +303,15 @@
                 "de": "Théâtre de Tronjoly",
                 "hu": "Théâtre de Tronjoly",
                 "ro": "Théâtre de Tronjoly",
-                "en": "Théâtre de Tronjoly"
+                "en": "Théâtre de Tronjoly",
+                "fr": "Théâtre de Tronjoly"
               },
               "tip_5lang": {
                 "de": "Die gut beheizten Räumlichkeiten sind nach einem Spaziergang eine echte Wohltat. Ein idealer Rückzugsort für den späten Nachmittag, wenn es draußen dunkel und kalt wird.",
                 "hu": "A jól fűtött termek igazi felüdülést nyújtanak egy hosszú téli séta után. Ideális menedék a késő délutáni órákban, amikor kint már sötét és nagyon hideg van.",
                 "ro": "Camerele bine încălzite sunt o adevărată binecuvântare după o plimbare lungă. O retragere ideală după-amiaza târziu, când afară devine întuneric și foarte frig.",
-                "en": "The well-heated rooms are a true blessing after a long winter walk outside. An ideal retreat for the late afternoon when it gets dark and very cold outdoors."
+                "en": "The well-heated rooms are a true blessing after a long winter walk outside. An ideal retreat for the late afternoon when it gets dark and very cold outdoors.",
+                "fr": "Les salles bien chauffées sont une vraie bénédiction après une longue promenade hivernale. Un refuge idéal pour la fin d’après-midi lorsque l’obscurité et le froid deviennent très présents dehors."
               }
             },
             {
@@ -288,13 +319,15 @@
                 "de": "Château de Tronjoly",
                 "hu": "Château de Tronjoly",
                 "ro": "Château de Tronjoly",
-                "en": "Château de Tronjoly"
+                "en": "Château de Tronjoly",
+                "fr": "Château de Tronjoly"
               },
               "tip_5lang": {
                 "de": "Das imposante Schloss wirkt im klaren Winterzauber noch edler. Der Wind im offenen Park kann extrem kalt werden, ziehen Sie Ihre Mütze tief ins Gesicht.",
                 "hu": "Az impozáns kastély a tiszta téli varázslatban még nemesebbnek hat. A nyílt parkban a szél rendkívül csípős lehet, érdemes a sapkát mélyen az arcába húznia.",
                 "ro": "Castelul impunător pare și mai nobil în farmecul clar al iernii. Vântul din parcul deschis poate fi extrem de rece, trageți-vă bine căciula pe frunte.",
-                "en": "The imposing castle looks even more noble in the clear magic of winter. The wind in the open park can be extremely sharp, so pull your hat down tight."
+                "en": "The imposing castle looks even more noble in the clear magic of winter. The wind in the open park can be extremely sharp, so pull your hat down tight.",
+                "fr": "L’imposant château paraît encore plus noble dans la clarté magique de l’hiver. Le vent dans le parc ouvert peut être extrêmement vif, alors rabattez bien votre bonnet."
               }
             }
           ]
@@ -314,7 +347,8 @@
             "de": "Église Saint-Pierre et Saint-Paul",
             "hu": "Église Saint-Pierre et Saint-Paul",
             "ro": "Église Saint-Pierre et Saint-Paul",
-            "en": "Église Saint-Pierre et Saint-Paul"
+            "en": "Église Saint-Pierre et Saint-Paul",
+            "fr": "Église Saint-Pierre et Saint-Paul"
           },
           "coords": [
             -3.608251,
@@ -329,7 +363,8 @@
             "de": "Bewundern Sie die wunderschönen Buntglasfenster und die filigrane Steinmetzarbeit dieser historischen Kirche, ein Symbol des Erbes von Gourin, aber prüfen Sie vorab die Messezeiten.",
             "hu": "Csodálja meg e történelmi templom gyönyörű ólomüveg ablakait és bonyolult kőfaragásait, Gourin örökségének szimbólumát, de a belső látogatás előtt ellenőrizze a misék rendjét.",
             "ro": "Admirați vitraliile frumoase și sculpturile în piatră ale acestei biserici istorice, un simbol al moștenirii din Gourin, dar verificați programul slujbelor înainte de a intra.",
-            "en": "Admire the beautiful stained glass and intricate stonework of this historic church, a symbol of Gourin's heritage, but check the mass schedule before visiting inside."
+            "en": "Admire the beautiful stained glass and intricate stonework of this historic church, a symbol of Gourin's heritage, but check the mass schedule before visiting inside.",
+            "fr": "Admirez les beaux vitraux et la pierre finement travaillée de cette église historique, symbole du patrimoine de Gourin, mais vérifiez l’horaire des messes avant de visiter l’intérieur."
           }
         },
         {
@@ -337,7 +372,8 @@
             "de": "Chapelle Saint-Philibert",
             "hu": "Chapelle Saint-Philibert",
             "ro": "Chapelle Saint-Philibert",
-            "en": "Chapelle Saint-Philibert"
+            "en": "Chapelle Saint-Philibert",
+            "fr": "Chapelle Saint-Philibert"
           },
           "coords": [
             -3.590935,
@@ -352,7 +388,8 @@
             "de": "Entdecken Sie diese charmante Steinkapelle inmitten einer ruhigen Landschaft, um die friedliche Atmosphäre zu genießen, und betrachten Sie die alten Schnitzereien an den Außenmauern.",
             "hu": "Fedezze fel ezt a bájos kőkápolnát a nyugodt vidéki tájban, hogy élvezze annak csendes atmoszféráját, és szánjon egy pillanatot a külső falakon található ősi faragások megtekintésére.",
             "ro": "Descoperiți această capelă fermecătoare de piatră din mediul rural pentru a-i aprecia atmosfera liniștită, luându-vă un moment pentru a privi sculpturile vechi de pe zidurile exterioare.",
-            "en": "Discover this charming stone chapel nestled in the serene countryside to appreciate its quiet atmosphere, taking a moment to view the ancient carvings on the outer walls."
+            "en": "Discover this charming stone chapel nestled in the serene countryside to appreciate its quiet atmosphere, taking a moment to view the ancient carvings on the outer walls.",
+            "fr": "Découvrez cette charmante chapelle en pierre nichée dans la campagne paisible pour apprécier son atmosphère tranquille, en prenant un moment pour admirer les anciennes sculptures sur les murs extérieurs."
           }
         },
         {
@@ -360,7 +397,8 @@
             "de": "Chapelle Saint-Guénolé",
             "hu": "Chapelle Saint-Guénolé",
             "ro": "Chapelle Saint-Guénolé",
-            "en": "Chapelle Saint-Guénolé"
+            "en": "Chapelle Saint-Guénolé",
+            "fr": "Chapelle Saint-Guénolé"
           },
           "coords": [
             -3.586375,
@@ -375,7 +413,8 @@
             "de": "Machen Sie eine Zeitreise an diesem bescheidenen, aber historisch bedeutsamen Ort, der tolle Fotomotive bietet, besonders wenn das Morgenlicht auf die rustikale Fassade fällt.",
             "hu": "Lépjen vissza az időben ezen a szerény, mégis történelmileg jelentős vallási helyszínen, amely nagyszerű fotózási lehetőségeket kínál, különösen amikor a reggeli fény éri a homlokzatot.",
             "ro": "Pășiți înapoi în timp la acest sit religios modest, dar semnificativ din punct de vedere istoric, care oferă oportunități foto excelente la primele ore ale dimineții.",
-            "en": "Step back in time at this modest yet historically significant religious site that offers great photo opportunities, especially when the morning light hits the rustic facade."
+            "en": "Step back in time at this modest yet historically significant religious site that offers great photo opportunities, especially when the morning light hits the rustic facade.",
+            "fr": "Faites un saut dans le passé à ce modeste mais historiquement significatif lieu de culte qui offre de superbes opportunités photo, surtout lorsque la lumière du matin frappe la façade rustique."
           }
         },
         {
@@ -383,7 +422,8 @@
             "de": "Étang de Gourin",
             "hu": "Étang de Gourin",
             "ro": "Étang de Gourin",
-            "en": "Étang de Gourin"
+            "en": "Étang de Gourin",
+            "fr": "Étang de Gourin"
           },
           "coords": [
             -3.60322,
@@ -398,7 +438,8 @@
             "de": "Genießen Sie einen friedlichen Spaziergang um diesen malerischen Natursee, in dem sich der Himmel spiegelt, und vergessen Sie nicht, ein Picknick für die Bänke am Ufer einzupacken.",
             "hu": "Élvezze a békés sétát e festői természetes tó körül, amely gyönyörűen tükrözi az eget, és ne felejtsen el egy kis pikniket csomagolni a tóparti padok egyikére.",
             "ro": "Bucurați-vă de o plimbare liniștită în jurul acestui lac natural pitoresc ce reflectă cerul și nu uitați să împachetați un mic picnic pentru a-l savura pe băncile de pe mal.",
-            "en": "Enjoy a peaceful stroll around this scenic natural lake which reflects the sky beautifully, and don't forget to pack a small picnic to enjoy on one of the lakeside benches."
+            "en": "Enjoy a peaceful stroll around this scenic natural lake which reflects the sky beautifully, and don't forget to pack a small picnic to enjoy on one of the lakeside benches.",
+            "fr": "Profitez d’une promenade paisible autour de ce lac naturel pittoresque qui reflète magnifiquement le ciel, et n’oubliez pas d’emporter un petit pique-nique pour profiter d’un banc au bord de l’eau."
           }
         },
         {
@@ -406,7 +447,8 @@
             "de": "Château de Tronjoly",
             "hu": "Château de Tronjoly",
             "ro": "Château de Tronjoly",
-            "en": "Château de Tronjoly"
+            "en": "Château de Tronjoly",
+            "fr": "Château de Tronjoly"
           },
           "coords": [
             -3.60977,
@@ -421,7 +463,8 @@
             "de": "Erkunden Sie das weitläufige Gelände und die Architektur dieses historischen Schlosses, in dem lokale Kulturveranstaltungen stattfinden, und nehmen Sie sich Zeit für die üppigen Gärten.",
             "hu": "Fedezze fel e történelmi kastély hatalmas birtokát és építészetét, amely helyi kulturális eseményeknek ad otthont, elegendő időt hagyva a buja, gondozott kertekben való sétára.",
             "ro": "Explorați domeniul vast și arhitectura acestui castel istoric care găzduiește evenimente culturale locale, lăsând suficient timp pentru a vă plimba prin grădinile luxuriante și îngrijite.",
-            "en": "Explore the sprawling grounds and majestic architecture of this historic castle that hosts local cultural events, leaving enough time to wander through the lush, well-kept gardens."
+            "en": "Explore the sprawling grounds and majestic architecture of this historic castle that hosts local cultural events, leaving enough time to wander through the lush, well-kept gardens.",
+            "fr": "Explorez les vastes terrains et l’architecture majestueuse de ce château historique qui accueille des événements culturels locaux, en prévoyant suffisamment de temps pour flâner dans les jardins luxuriants et bien entretenus."
           }
         },
         {
@@ -429,7 +472,8 @@
             "de": "Théâtre de Tronjoly",
             "hu": "Théâtre de Tronjoly",
             "ro": "Théâtre de Tronjoly",
-            "en": "Théâtre de Tronjoly"
+            "en": "Théâtre de Tronjoly",
+            "fr": "Théâtre de Tronjoly"
           },
           "coords": [
             -3.608716,
@@ -444,7 +488,8 @@
             "de": "Tauchen Sie in diesem Freiluft-Veranstaltungsort neben dem Schloss in die lokale Kunstszene ein und informieren Sie sich vorab über das Programm für faszinierende Nachmittagsvorstellungen.",
             "hu": "Merüljön el a helyi előadóművészeti életben ezen a kastély melletti szabadtéri kulturális helyszínen, előre ellenőrizve a programjukat bármilyen lenyűgöző délutáni műsor kapcsán.",
             "ro": "Pătrundeți în scena artelor spectacolului la această locație culturală în aer liber de lângă castel, verificând programul în avans pentru orice spectacole fascinante de după-amiază.",
-            "en": "Immerse yourself in the local performing arts scene at this open-air cultural venue right next to the château, checking their schedule in advance for any fascinating afternoon shows."
+            "en": "Immerse yourself in the local performing arts scene at this open-air cultural venue right next to the château, checking their schedule in advance for any fascinating afternoon shows.",
+            "fr": "Imprégnez-vous de la scène artistique locale dans ce lieu culturel en plein air juste à côté du château, en vérifiant leur programme à l’avance pour d’éventuels spectacles d’après-midi fascinants."
           }
         },
         {
@@ -452,7 +497,8 @@
             "de": "Saint-Jean Baptiste",
             "hu": "Saint-Jean Baptiste",
             "ro": "Saint-Jean Baptiste",
-            "en": "Saint-Jean Baptiste"
+            "en": "Saint-Jean Baptiste",
+            "fr": "Saint-Jean Baptiste"
           },
           "coords": [
             -3.618502,
@@ -467,7 +513,8 @@
             "de": "Halten Sie an diesem bekannten, Johannes dem Täufer gewidmeten Denkmal an, um das Mauerwerk zu bewundern, und fotografieren Sie die Statue von unten für eine majestätische Wirkung.",
             "hu": "Álljon meg ennél a Keresztelő Jánosnak szentelt emlékműnél, hogy megcsodálja a finom falazatot, és próbálja alacsony szögből fotózni a szobrot fenséges arányainak kiemeléséhez.",
             "ro": "Opriți-vă la acest monument proeminent dedicat Sfântului Ioan Botezătorul pentru a admira zidăria delicată și încercați să surprindeți statuia dintr-un unghi inferior.",
-            "en": "Pause at this prominent monument dedicated to John the Baptist to admire the delicate masonry, and try capturing the statue from a low angle to highlight its majestic proportions."
+            "en": "Pause at this prominent monument dedicated to John the Baptist to admire the delicate masonry, and try capturing the statue from a low angle to highlight its majestic proportions.",
+            "fr": "Faites une pause devant ce monument dédié à Jean-Baptiste pour admirer la délicate maçonnerie, et essayez de capturer la statue en contre-plongée pour en souligner les proportions majestueuses."
           }
         }
       ],
@@ -475,7 +522,8 @@
         "de": "Beginnen Sie Ihren Tag mit der Erkundung des spirituellen Herzens von Gourin in der zentralen Kirche, bevor Sie mit dem Rad in die Umgebung aufbrechen.\nZur Mittagszeit können Sie die charmanten ländlichen Steinkapellen der bretonischen Landschaft entdecken, gefolgt von einem entspannenden Aufenthalt am malerischen Natursee.\nDer Nachmittag widmet sich der Pracht von Tronjoly; radeln Sie zu den herrlichen Schlossanlagen und bestaunen Sie die großen Veranstaltungen im benachbarten Freilufttheater.\nBeenden Sie Ihre Reise am markanten Johannes-Denkmal, während das späte Nachmittagslicht eine ruhige Atmosphäre auf die üppigen grünen Landschaften der Region wirft.",
         "hu": "Kezdje a napot Gourin szellemi központjának felfedezésével a központi templomban, mielőtt két kerékre pattanva bejárná a környéket.\nDélben merészkedjen kijjebb, és fedezze fel a breton vidéket pettyező vidéki kőkápolnákat, majd pihenjen meg egy kicsit a festői természetes tó partján.\nA délután Tronjoly nagyszerűségének van szentelve; tekerjen el a csodálatos kastélykertbe, és képzelje el a szabadtéri színházban megrendezett nagy eseményeket.\nZárja utazását a Keresztelő János emlékműnél, élvezve, ahogy a késő délutáni fények finoman megvilágítják ezen autentikus breton város buja tájait.",
         "ro": "Începeți ziua explorând inima spirituală a orașului Gourin la biserica centrală, înainte de a pedala prin împrejurimi pentru un aer proaspăt de dimineață.\nLa amiază, aventurați-vă spre exterior pentru a descoperi fermecătoarele capele de piatră care presară peisajul breton, urmate de o oprire relaxantă la lacul natural pitoresc.\nDupă-amiaza este dedicată măreției domeniului Tronjoly; mergeți cu bicicleta la terenurile magnifice ale castelului și explorați teatrul în aer liber din vecinătate.\nÎncheiați-vă călătoria la impresionantul monument dedicat Sfântului Ioan, în timp ce lumina caldă a după-amiezii reflectă farmecul istoric al acestui oraș breton.",
-        "en": "Start your day exploring the spiritual heart of Gourin by visiting the central church, before hopping on your bike to explore the surrounding countryside.\nBy midday, venture slightly outwards to discover the charming rural stone chapels that dot the Breton landscape, followed by a relaxing pause at the scenic natural lake.\nThe afternoon is dedicated to the grandeur of Tronjoly; cycle over to its magnificent castle grounds and picture the grand events taking place at the open-air theatre.\nConclude your journey at the striking Saint John monument as the late afternoon light softens, reflecting on a day of cultural discovery amidst the greenery."
+        "en": "Start your day exploring the spiritual heart of Gourin by visiting the central church, before hopping on your bike to explore the surrounding countryside.\nBy midday, venture slightly outwards to discover the charming rural stone chapels that dot the Breton landscape, followed by a relaxing pause at the scenic natural lake.\nThe afternoon is dedicated to the grandeur of Tronjoly; cycle over to its magnificent castle grounds and picture the grand events taking place at the open-air theatre.\nConclude your journey at the striking Saint John monument as the late afternoon light softens, reflecting on a day of cultural discovery amidst the greenery.",
+        "fr": "Commencez votre journée en explorant le cœur spirituel de Gourin en visitant l’église centrale, puis montez sur votre vélo pour parcourir la campagne environnante.\nÀ midi, aventurez-vous un peu à l’extérieur pour découvrir les charmantes chapelles rurales en pierre qui ponctuent le paysage breton, suivies d’une pause relaxante au paisible lac naturel.\nL’après-midi est consacrée à la grandeur de Tronjoly ; pédalez jusqu’à ses magnifiques terrains de château et imaginez les grands événements qui ont lieu au théâtre en plein air.\nConcluez votre parcours au remarquable monument Saint-Jean alors que la lumière du soir s’adoucit, en réfléchissant à une journée de découvertes culturelles au milieu de la verdure."
       },
       "variants": {
         "rainy": {
@@ -483,7 +531,8 @@
             "de": "Starten Sie vorsichtig in diesen nassen Morgen zur Hauptkirche und achten Sie auf rutschiges Kopfsteinpflaster. Mittags radeln Sie zu ruhigen Kapellen und dem See in wasserfester Kleidung. Nachmittagsschauer erfordern kürzere Stopps und mehr Zeit im Anwesen. Fahren Sie vor Einbruch der Dunkelheit sicher zurück.",
             "hu": "Induljon óvatosan ezen a nedves reggelen a főtemplomhoz, ügyelve a csúszós macskakövekre. Délben a nyugodt kápolnákhoz és a tóhoz teker, amihez vízálló felszerelés szükséges. A záporok rövidebb kinti megállókat és több benti időt jelentenek. Tekerjen vissza biztonságosan szürkület előtt.",
             "ro": "Porniți cu atenție în această dimineață umedă spre biserica principală, ferindu-vă de pavajul alunecos. Ciclismul de la prânz vă duce spre capele și lac, necesitând echipament impermeabil. Ploile înseamnă opriri mai scurte la exterior. Întoarceți-vă în siguranță înainte de lăsarea întunericului.",
-            "en": "Set out carefully this wet morning to see the main church, keeping an eye on slippery cobblestones. Midday cycling connects you to tranquil chapels and the lake, requiring waterproof gear. Afternoon showers mean shorter outdoor stops and more time inside. Ride safely back before dusk falls."
+            "en": "Set out carefully this wet morning to see the main church, keeping an eye on slippery cobblestones. Midday cycling connects you to tranquil chapels and the lake, requiring waterproof gear. Afternoon showers mean shorter outdoor stops and more time inside. Ride safely back before dusk falls.",
+            "fr": "Partez prudemment ce matin humide pour voir l’église principale, en gardant un œil sur les pavés glissants. Le cyclisme de midi vous relie à des chapelles tranquilles et au lac, nécessitant un équipement imperméable. Les averses de l’après-midi signifient des arrêts extérieurs plus courts et plus de temps à l’intérieur. Rentrez en toute sécurité avant la tombée du crépuscule."
           },
           "stops": [
             {
@@ -491,13 +540,15 @@
                 "de": "Église Saint-Pierre et Saint-Paul",
                 "hu": "Église Saint-Pierre et Saint-Paul",
                 "ro": "Église Saint-Pierre et Saint-Paul",
-                "en": "Église Saint-Pierre et Saint-Paul"
+                "en": "Église Saint-Pierre et Saint-Paul",
+                "fr": "Église Saint-Pierre et Saint-Paul"
               },
               "tip_5lang": {
                 "de": "Parken Sie Ihr Fahrrad sicher und trocknen Sie sich im ruhigen Kirchenschiff ab. Das Kopfsteinpflaster rund um die Kirche ist bei Nässe extrem rutschig für Zweiräder.",
                 "hu": "Parkolja le biztonságosan a kerékpárját, és szárátkozzon meg a csendes templomhajóban. A templom körüli macskakő nedvesen rendkívül csúszós a kétkerekűek számára.",
                 "ro": "Parcați bicicleta în siguranță și uscați-vă în naosul liniștit. Pavajul din jurul bisericii este extrem de alunecos pentru vehiculele cu două roți pe vreme umedă.",
-                "en": "Park your bike safely and dry off inside the quiet nave. The cobblestones immediately surrounding the church are extremely slippery for two-wheelers when wet."
+                "en": "Park your bike safely and dry off inside the quiet nave. The cobblestones immediately surrounding the church are extremely slippery for two-wheelers when wet.",
+                "fr": "Garez votre vélo en lieu sûr et séchez-vous à l’intérieur de la nef silencieuse. Les pavés entourant immédiatement l’église sont extrêmement glissants pour les deux-roues lorsqu’ils sont mouillés."
               }
             },
             {
@@ -505,13 +556,15 @@
                 "de": "Chapelle Saint-Philibert",
                 "hu": "Chapelle Saint-Philibert",
                 "ro": "Chapelle Saint-Philibert",
-                "en": "Chapelle Saint-Philibert"
+                "en": "Chapelle Saint-Philibert",
+                "fr": "Chapelle Saint-Philibert"
               },
               "tip_5lang": {
                 "de": "Die Bäume bieten beim Absteigen etwas Schutz vor dem Regen. Der unbefestigte Weg zur Kapelle verwandelt sich bei Dauerregen schnell in eine rutschige Matschpiste.",
                 "hu": "A fák némi menedéket nyújtanak az eső ellen a leszálláskor. A kápolnához vezető burkolatlan út tartós esőzés esetén gyorsan csúszós sártengerré változhat.",
                 "ro": "Copacii oferă o oarecare protecție împotriva ploii la coborâre. Drumul neasfaltat către capelă se transformă rapid într-o pistă noroioasă pe ploaie continuă.",
-                "en": "The trees offer some shelter from the rain as you dismount. The unpaved path to the chapel quickly turns into a slippery, muddy track during continuous rain."
+                "en": "The trees offer some shelter from the rain as you dismount. The unpaved path to the chapel quickly turns into a slippery, muddy track during continuous rain.",
+                "fr": "Les arbres offrent un certain abri de la pluie lorsque vous descendez de votre selle. Le chemin non revêtu vers la chapelle se transforme rapidement en piste boueuse et glissante lors de pluies continues."
               }
             },
             {
@@ -519,13 +572,15 @@
                 "de": "Chapelle Saint-Guénolé",
                 "hu": "Chapelle Saint-Guénolé",
                 "ro": "Chapelle Saint-Guénolé",
-                "en": "Chapelle Saint-Guénolé"
+                "en": "Chapelle Saint-Guénolé",
+                "fr": "Chapelle Saint-Guénolé"
               },
               "tip_5lang": {
                 "de": "Eine gute Gelegenheit, kurz ins Trockene zu flüchten und die Details zu bewundern. Die Bremswege auf den umliegenden Landstraßen verlängern sich bei Nässe spürbar.",
                 "hu": "Kiváló alkalom, hogy rövid időre a szárazra meneküljön és megcsodálja a részleteket. A környező vidéki utakon a fékutak nedves időben érezhetően megnőnek.",
                 "ro": "O oportunitate bună de a scăpa la uscat și de a admira detaliile. Distanțele de frânare pe drumurile de țară din jur cresc vizibil în condiții de umezeală.",
-                "en": "A great opportunity to briefly escape to the dry and admire the historic details. Braking distances on the surrounding country lanes increase noticeably when wet."
+                "en": "A great opportunity to briefly escape to the dry and admire the historic details. Braking distances on the surrounding country lanes increase noticeably when wet.",
+                "fr": "Une belle occasion de s’échapper brièvement au sec et d’admirer les détails historiques. Les distances de freinage sur les routes de campagne environnantes augmentent sensiblement par temps humide."
               }
             },
             {
@@ -533,13 +588,15 @@
                 "de": "Étang de Gourin",
                 "hu": "Étang de Gourin",
                 "ro": "Étang de Gourin",
-                "en": "Étang de Gourin"
+                "en": "Étang de Gourin",
+                "fr": "Étang de Gourin"
               },
               "tip_5lang": {
                 "de": "Radeln Sie vorsichtig am Ufer entlang, da nasse Blätter eine Rutschgefahr darstellen. Ein Regencape über der normalen Kleidung ist hier draußen am Wasser unerlässlich.",
                 "hu": "Tekerjen óvatosan a part mentén, mivel a nedves levelek csúszásveszélyt jelentenek. Egy jó minőségű esőköpeny elengedhetetlen itt kint, a nyílt vízfelület mellett.",
                 "ro": "Ciclati cu atenție de-a lungul malului, frunzele umede fiind un pericol. O pelerină de ploaie peste hainele normale este esențială aici, afară, lângă apă.",
-                "en": "Cycle carefully along the shoreline as wet leaves pose a serious slipping hazard. A good rain cape over your clothes is essential out here near the open water."
+                "en": "Cycle carefully along the shoreline as wet leaves pose a serious slipping hazard. A good rain cape over your clothes is essential out here near the open water.",
+                "fr": "Roulez prudemment le long du rivage car les feuilles mouillées représentent un risque sérieux de glissade. Une bonne cape de pluie par-dessus vos vêtements est indispensable ici près de l’eau ouverte."
               }
             },
             {
@@ -547,13 +604,15 @@
                 "de": "Château de Tronjoly",
                 "hu": "Château de Tronjoly",
                 "ro": "Château de Tronjoly",
-                "en": "Château de Tronjoly"
+                "en": "Château de Tronjoly",
+                "fr": "Château de Tronjoly"
               },
               "tip_5lang": {
                 "de": "Bewundern Sie das Schloss vom Sattel aus oder schieben Sie das Rad. Nasses Laub auf den Hauptwegen des Parks erfordert erhöhte Aufmerksamkeit beim Lenken.",
                 "hu": "Csodálja meg a kastélyt a nyeregből, vagy tolja a kerékpárt. A park főbb útjain felgyülemlett nedves avar fokozott figyelmet követel a kormányzás során.",
                 "ro": "Admirați castelul din șa sau împingeți bicicleta. Frunzele umede de pe aleile principale ale parcului necesită o atenție sporită atunci când virați.",
-                "en": "Admire the castle from the saddle or safely push your bike along. Wet foliage on the main paths of the park requires heightened attention when steering."
+                "en": "Admire the castle from the saddle or safely push your bike along. Wet foliage on the main paths of the park requires heightened attention when steering.",
+                "fr": "Admirez le château en selle ou poussez votre vélo en sécurité le long des allées. La végétation humide sur les principaux chemins du parc nécessite une attention accrue au guidon."
               }
             },
             {
@@ -561,13 +620,15 @@
                 "de": "Théâtre de Tronjoly",
                 "hu": "Théâtre de Tronjoly",
                 "ro": "Théâtre de Tronjoly",
-                "en": "Théâtre de Tronjoly"
+                "en": "Théâtre de Tronjoly",
+                "fr": "Théâtre de Tronjoly"
               },
               "tip_5lang": {
                 "de": "Stellen Sie das Rad ab und wärmen Sie sich in den Ausstellungsräumen auf. Ein trockener Sattelüberzug ist Gold wert, wenn Sie später Ihre Tour fortsetzen.",
                 "hu": "Tegye le a kerékpárt, és melegedjen fel a benti kiállítótermekben. Egy vízhatlan, száraz nyereghuzat aranyat ér, amikor később folytatja az esős túrát.",
                 "ro": "Lăsați bicicleta și încălziți-vă în sălile de expoziție. O husă uscată pentru șa valorează greutatea ei în aur atunci când vă continuați turul mai târziu.",
-                "en": "Park your bike and warm up thoroughly inside the exhibition rooms. A dry, waterproof saddle cover is worth its weight in gold when you resume your tour later."
+                "en": "Park your bike and warm up thoroughly inside the exhibition rooms. A dry, waterproof saddle cover is worth its weight in gold when you resume your tour later.",
+                "fr": "Garez votre vélo et réchauffez-vous bien à l'intérieur des salles d'exposition. Une housse de selle sèche et imperméable vaut son pesant d'or lorsque vous reprendrez votre tour plus tard."
               }
             },
             {
@@ -575,13 +636,15 @@
                 "de": "Saint-Jean Baptiste",
                 "hu": "Saint-Jean Baptiste",
                 "ro": "Saint-Jean Baptiste",
-                "en": "Saint-Jean Baptiste"
+                "en": "Saint-Jean Baptiste",
+                "fr": "Saint-Jean Baptiste"
               },
               "tip_5lang": {
                 "de": "Ein kurzer, lohnenswerter Stopp am Denkmal, bevor der Regen wieder stärker wird. Achten Sie auf die Pfützen, die sich rund um den Steinsockel bilden können.",
                 "hu": "Egy rövid, érdemes megálló az emlékműnél, mielőtt az eső újra rázendít. Ügyeljen a mélyebb tócsákra, amelyek a kőtalapzat körül gyorsan kialakulhatnak.",
                 "ro": "O oprire scurtă, utilă la monument, înainte ca ploaia să se întețească. Aveți grijă la bălțile care se pot forma rapid în jurul soclului de piatră.",
-                "en": "A short, worthwhile stop at the monument before the rain gets heavier again. Watch out for the deep puddles that can quickly form around the stone base."
+                "en": "A short, worthwhile stop at the monument before the rain gets heavier again. Watch out for the deep puddles that can quickly form around the stone base.",
+                "fr": "Un court arrêt qui vaut la peine au monument avant que la pluie ne s'intensifie. Méfiez-vous des grandes flaques qui peuvent rapidement se former autour de la base en pierre."
               }
             }
           ]
@@ -591,7 +654,8 @@
             "de": "Beginnen Sie Ihre frische Winterfahrt an der Hauptkirche mit warmen Radhandschuhen. Mittags bietet sich klare, kalte Luft, während Sie zwischen Kapellen und dem See radeln. Erkunden Sie nachmittags das Anwesen Tronjoly, wenn die Temperatur sinkt. Beenden Sie Ihre Route vor 16:30 Uhr, bevor es ganz dunkel wird.",
             "hu": "Kezdje a frissítő téli biciklizést a főtemplomnál, termál kerékpáros kesztyűt viselve. A dél tiszta levegőt kínál, miközben a kápolnák és a deres tó között teker. Délután fedezze fel a Tronjoly birtokot, ahogy a hőmérséklet csökken. Fejezze be az utat 16:30 előtt, mielőtt a téli sötétség leszáll.",
             "ro": "Începeți plimbarea revigorantă de iarnă la biserica principală, asigurându-vă că aveți mănuși de ciclism. Prânzul oferă aer curat între capele și lac. După-amiaza, explorați domeniul Tronjoly pe măsură ce se răcește. Terminați traseul înainte de 16:30, înainte să se întunece.",
-            "en": "Start your brisk winter ride at the main church, ensuring you have thermal cycling gloves. Midday offers clear, cold air as you pedal between historic chapels and the frosty lake. In the afternoon, explore the Tronjoly estate as the temperature drops. Finish your route by 4:30 PM before darkness sets in."
+            "en": "Start your brisk winter ride at the main church, ensuring you have thermal cycling gloves. Midday offers clear, cold air as you pedal between historic chapels and the frosty lake. In the afternoon, explore the Tronjoly estate as the temperature drops. Finish your route by 4:30 PM before darkness sets in.",
+            "fr": "Commencez votre sortie hivernale tonique à l'église principale, en vous assurant d'avoir des gants de cyclisme thermiques. À midi l'air est clair et froid tandis que vous pédalez entre les chapelles historiques et le lac givré. L'après-midi, explorez le domaine de Tronjoly à mesure que la température baisse. Terminez votre itinéraire avant 16h30, avant que l'obscurité ne s'installe."
           },
           "stops": [
             {
@@ -599,13 +663,15 @@
                 "de": "Église Saint-Pierre et Saint-Paul",
                 "hu": "Église Saint-Pierre et Saint-Paul",
                 "ro": "Église Saint-Pierre et Saint-Paul",
-                "en": "Église Saint-Pierre et Saint-Paul"
+                "en": "Église Saint-Pierre et Saint-Paul",
+                "fr": "Église Saint-Pierre et Saint-Paul"
               },
               "tip_5lang": {
                 "de": "Wärmen Sie sich nach den ersten Kilometern im Inneren etwas auf. Beachten Sie, dass Raureif die Steinstufen am Eingang am frühen Morgen sehr glatt macht.",
                 "hu": "Melegedjen fel egy kicsit a belső térben az első kilométerek megtétele után. Vegye figyelembe, hogy a zúzmara kora reggel nagyon csúszóssá teszi a kőlépcsőket.",
                 "ro": "Încălziți-vă puțin în interior după primii kilometri. Rețineți că bruma face ca treptele de piatră de la intrare să fie foarte alunecoase dimineața devreme.",
-                "en": "Warm up a little inside after completing the first few kilometers. Note that early morning frost makes the stone steps at the entrance extremely slippery."
+                "en": "Warm up a little inside after completing the first few kilometers. Note that early morning frost makes the stone steps at the entrance extremely slippery.",
+                "fr": "Réchauffez-vous un peu à l'intérieur après les premiers kilomètres. Sachez que le gel matinal rend les marches en pierre de l'entrée extrêmement glissantes."
               }
             },
             {
@@ -613,13 +679,15 @@
                 "de": "Chapelle Saint-Philibert",
                 "hu": "Chapelle Saint-Philibert",
                 "ro": "Chapelle Saint-Philibert",
-                "en": "Chapelle Saint-Philibert"
+                "en": "Chapelle Saint-Philibert",
+                "fr": "Chapelle Saint-Philibert"
               },
               "tip_5lang": {
                 "de": "Die winterliche Ruhe hier ist fantastisch, aber der Schattenwurf macht es sehr kalt. Tragen Sie winddichte Kleidung, wenn Sie mit dem Rad wieder losfahren.",
                 "hu": "A téli nyugalom itt fantasztikus, de a fák árnyékában nagyon hideg lehet. Viseljen szélálló ruházatot, amikor újra nyeregbe pattan és felgyorsít.",
                 "ro": "Liniștea de iarnă aici este fantastică, dar umbra face să fie foarte frig. Purtați haine rezistente la vânt când vă urcați din nou pe bicicletă.",
-                "en": "The winter tranquility here is fantastic, but the shadows make it very cold. Wear completely windproof clothing when you get back on your bike and speed up."
+                "en": "The winter tranquility here is fantastic, but the shadows make it very cold. Wear completely windproof clothing when you get back on your bike and speed up.",
+                "fr": "La tranquillité hivernale ici est fantastique, mais les ombres rendent l'endroit très froid. Portez des vêtements totalement coupe-vent quand vous remontez sur votre vélo et augmentez la vitesse."
               }
             },
             {
@@ -627,13 +695,15 @@
                 "de": "Chapelle Saint-Guénolé",
                 "hu": "Chapelle Saint-Guénolé",
                 "ro": "Chapelle Saint-Guénolé",
-                "en": "Chapelle Saint-Guénolé"
+                "en": "Chapelle Saint-Guénolé",
+                "fr": "Chapelle Saint-Guénolé"
               },
               "tip_5lang": {
                 "de": "Eine charmante kleine Kapelle in der klaren Winterluft. Achten Sie auf den Landstraßen auf überfrierende Nässe an schattigen Waldrändern.",
                 "hu": "Egy bájos kis kápolna a kristálytiszta téli levegőben. A vidéki utakon tekerve fokozottan ügyeljen az árnyékos erdőszéleken kialakuló jégbordákra.",
                 "ro": "O mică capelă fermecătoare în aerul curat de iarnă. Acordați atenție umezelii înghețate de pe marginile umbrite ale pădurii de pe drumurile rurale.",
-                "en": "A charming little chapel standing in the crisp winter air. Pay close attention to black ice forming on the shaded forest edges along the country lanes."
+                "en": "A charming little chapel standing in the crisp winter air. Pay close attention to black ice forming on the shaded forest edges along the country lanes.",
+                "fr": "Une charmante petite chapelle dans l'air vif de l'hiver. Faites très attention au verglas formant sur les lisières ombragées des forêts le long des voies rurales."
               }
             },
             {
@@ -641,13 +711,15 @@
                 "de": "Étang de Gourin",
                 "hu": "Étang de Gourin",
                 "ro": "Étang de Gourin",
-                "en": "Étang de Gourin"
+                "en": "Étang de Gourin",
+                "fr": "Étang de Gourin"
               },
               "tip_5lang": {
                 "de": "Der zugefrorene See glitzert herrlich, aber der Fahrtwind am Wasser kühlt stark aus. Thermohandschuhe und eine Mütze unter dem Helm sind hier absolute Pflicht.",
                 "hu": "A befagyott tó gyönyörűen csillog, de a víz melletti menetszél erősen hűt. A termálkesztyű és a sisak alatti meleg sapka itt elengedhetetlen kellék.",
                 "ro": "Lacul înghețat strălucește frumos, dar vântul vă răcește rapid. Mănușile termice și o căciulă sub cască sunt absolut obligatorii aici, lângă apă.",
-                "en": "The frozen lake sparkles beautifully, but the riding wind by the water chills rapidly. Thermal gloves and a warm cap under your helmet are mandatory here."
+                "en": "The frozen lake sparkles beautifully, but the riding wind by the water chills rapidly. Thermal gloves and a warm cap under your helmet are mandatory here.",
+                "fr": "Le lac gelé scintille magnifiquement, mais le vent qui vient de l'eau refroidit rapidement. Gants thermiques et bonnet chaud sous le casque sont obligatoires ici."
               }
             },
             {
@@ -655,13 +727,15 @@
                 "de": "Château de Tronjoly",
                 "hu": "Château de Tronjoly",
                 "ro": "Château de Tronjoly",
-                "en": "Château de Tronjoly"
+                "en": "Château de Tronjoly",
+                "fr": "Château de Tronjoly"
               },
               "tip_5lang": {
                 "de": "Das Schlossgelände wirkt im Winter sehr friedlich. Seien Sie vorsichtig auf den Schotterwegen, gefrorene Pfützen machen das Lenken schwer berechenbar.",
                 "hu": "A kastély területe télen nagyon békésnek és elhagyatottnak tűnik. Legyen óvatos a kavicsos utakon, a megfagyott tócsák kiszámíthatatlanná teszik a kormányzást.",
                 "ro": "Terenul castelului pare foarte pașnic în timpul iernii. Aveți grijă pe drumurile cu pietriș, bălțile înghețate fac direcția greu de prevăzut.",
-                "en": "The castle grounds seem very peaceful and deserted in winter. Be careful on the gravel paths; hidden frozen puddles make steering highly unpredictable."
+                "en": "The castle grounds seem very peaceful and deserted in winter. Be careful on the gravel paths; hidden frozen puddles make steering highly unpredictable.",
+                "fr": "Le parc du château paraît très paisible et désert en hiver. Prudence sur les chemins de gravier ; des flaques gelées cachées rendent la direction très imprévisible."
               }
             },
             {
@@ -669,13 +743,15 @@
                 "de": "Théâtre de Tronjoly",
                 "hu": "Théâtre de Tronjoly",
                 "ro": "Théâtre de Tronjoly",
-                "en": "Théâtre de Tronjoly"
+                "en": "Théâtre de Tronjoly",
+                "fr": "Théâtre de Tronjoly"
               },
               "tip_5lang": {
                 "de": "Nutzen Sie den längeren Stopp, um Ihre kalten Finger in den Innenräumen aufzuwärmen. Ein idealer Ort, um die sinkende Wintersonne geschützt zu beobachten.",
                 "hu": "Használja ki a hosszabb megállót, hogy a belső terekben felmelegítse fagyos ujjait. Ideális helyszín a lenyugvó téli nap védett, meleg helyről történő megfigyelésére.",
                 "ro": "Profitați de oprirea mai lungă pentru a vă încălzi degetele reci în interior. Un loc ideal pentru a privi soarele de iarnă apunând dintr-un loc protejat.",
-                "en": "Use this longer stop to thoroughly warm your freezing fingers indoors. An ideal location to watch the setting winter sun from a protected, warm vantage point."
+                "en": "Use this longer stop to thoroughly warm your freezing fingers indoors. An ideal location to watch the setting winter sun from a protected, warm vantage point.",
+                "fr": "Profitez de cet arrêt plus long pour réchauffer soigneusement vos doigts gelés à l'intérieur. Un lieu idéal pour regarder le soleil d'hiver se coucher depuis un point de vue abrité et chaud."
               }
             },
             {
@@ -683,13 +759,15 @@
                 "de": "Saint-Jean Baptiste",
                 "hu": "Saint-Jean Baptiste",
                 "ro": "Saint-Jean Baptiste",
-                "en": "Saint-Jean Baptiste"
+                "en": "Saint-Jean Baptiste",
+                "fr": "Saint-Jean Baptiste"
               },
               "tip_5lang": {
                 "de": "Ein schöner Abschluss in der frühen Abenddämmerung. Schalten Sie jetzt unbedingt Ihre Fahrradbeleuchtung ein, da es im Winter sehr rasant dunkel wird.",
                 "hu": "Gyönyörű befejezés a kora esti, fagyos szürkületben. Most már mindenképpen kapcsolja be a kerékpárlámpáit, mivel télen nagyon hirtelen sötétedik be.",
                 "ro": "O concluzie frumoasă la amurgul de la începutul serii. Asigurați-vă că porniți luminile bicicletei acum, deoarece se întunecă foarte repede iarna.",
-                "en": "A beautiful conclusion to your ride in the early evening dusk. Make sure to turn on your bike lights now, as darkness falls extremely rapidly in winter."
+                "en": "A beautiful conclusion to your ride in the early evening dusk. Make sure to turn on your bike lights now, as darkness falls extremely rapidly in winter.",
+                "fr": "Une belle conclusion de votre sortie dans le crépuscule du début de soirée. Veillez à allumer vos lumières de vélo maintenant, car l'obscurité tombe extrêmement vite en hiver."
               }
             }
           ]
@@ -709,7 +787,8 @@
             "de": "Église Saint-Pierre et Saint-Paul",
             "hu": "Église Saint-Pierre et Saint-Paul",
             "ro": "Église Saint-Pierre et Saint-Paul",
-            "en": "Église Saint-Pierre et Saint-Paul"
+            "en": "Église Saint-Pierre et Saint-Paul",
+            "fr": "Église Saint-Pierre et Saint-Paul"
           },
           "coords": [
             -3.608251,
@@ -724,7 +803,8 @@
             "de": "Bewundern Sie die wunderschönen Buntglasfenster und die filigrane Steinmetzarbeit dieser historischen Kirche, ein Symbol des Erbes von Gourin, aber prüfen Sie vorab die Messezeiten.",
             "hu": "Csodálja meg e történelmi templom gyönyörű ólomüveg ablakait és bonyolult kőfaragásait, Gourin örökségének szimbólumát, de a belső látogatás előtt ellenőrizze a misék rendjét.",
             "ro": "Admirați vitraliile frumoase și sculpturile în piatră ale acestei biserici istorice, un simbol al moștenirii din Gourin, dar verificați programul slujbelor înainte de a intra.",
-            "en": "Admire the beautiful stained glass and intricate stonework of this historic church, a symbol of Gourin's heritage, but check the mass schedule before visiting inside."
+            "en": "Admire the beautiful stained glass and intricate stonework of this historic church, a symbol of Gourin's heritage, but check the mass schedule before visiting inside.",
+            "fr": "Admirez les magnifiques vitraux et l'ouvrage de pierre complexe de cette église historique, symbole du patrimoine de Gourin, mais vérifiez les horaires de messe avant de visiter l'intérieur."
           }
         },
         {
@@ -732,7 +812,8 @@
             "de": "Étang de Gourin",
             "hu": "Étang de Gourin",
             "ro": "Étang de Gourin",
-            "en": "Étang de Gourin"
+            "en": "Étang de Gourin",
+            "fr": "Étang de Gourin"
           },
           "coords": [
             -3.60322,
@@ -747,7 +828,8 @@
             "de": "Genießen Sie einen friedlichen Spaziergang um diesen malerischen Natursee, in dem sich der Himmel spiegelt, und vergessen Sie nicht, ein Picknick für die Bänke am Ufer einzupacken.",
             "hu": "Élvezze a békés sétát e festői természetes tó körül, amely gyönyörűen tükrözi az eget, és ne felejtsen el egy kis pikniket csomagolni a tóparti padok egyikére.",
             "ro": "Bucurați-vă de o plimbare liniștită în jurul acestui lac natural pitoresc ce reflectă cerul și nu uitați să împachetați un mic picnic pentru a-l savura pe băncile de pe mal.",
-            "en": "Enjoy a peaceful stroll around this scenic natural lake which reflects the sky beautifully, and don't forget to pack a small picnic to enjoy on one of the lakeside benches."
+            "en": "Enjoy a peaceful stroll around this scenic natural lake which reflects the sky beautifully, and don't forget to pack a small picnic to enjoy on one of the lakeside benches.",
+            "fr": "Profitez d'une promenade paisible autour de ce lac naturel pittoresque qui reflète magnifiquement le ciel, et n'oubliez pas d'emporter un petit pique-nique à déguster sur un des bancs au bord du lac."
           }
         },
         {
@@ -755,7 +837,8 @@
             "de": "Chapelle Saint-Philibert",
             "hu": "Chapelle Saint-Philibert",
             "ro": "Chapelle Saint-Philibert",
-            "en": "Chapelle Saint-Philibert"
+            "en": "Chapelle Saint-Philibert",
+            "fr": "Chapelle Saint-Philibert"
           },
           "coords": [
             -3.590935,
@@ -770,7 +853,8 @@
             "de": "Entdecken Sie diese charmante Steinkapelle inmitten einer ruhigen Landschaft, um die friedliche Atmosphäre zu genießen, und betrachten Sie die alten Schnitzereien an den Außenmauern.",
             "hu": "Fedezze fel ezt a bájos kőkápolnát a nyugodt vidéki tájban, hogy élvezze annak csendes atmoszféráját, és szánjon egy pillanatot a külső falakon található ősi faragások megtekintésére.",
             "ro": "Descoperiți această capelă fermecătoare de piatră din mediul rural pentru a-i aprecia atmosfera liniștită, luându-vă un moment pentru a privi sculpturile vechi de pe zidurile exterioare.",
-            "en": "Discover this charming stone chapel nestled in the serene countryside to appreciate its quiet atmosphere, taking a moment to view the ancient carvings on the outer walls."
+            "en": "Discover this charming stone chapel nestled in the serene countryside to appreciate its quiet atmosphere, taking a moment to view the ancient carvings on the outer walls.",
+            "fr": "Découvrez cette charmante chapelle en pierre nichée dans la campagne sereine pour apprécier son atmosphère tranquille, en prenant un moment pour observer les anciennes sculptures des murs extérieurs."
           }
         },
         {
@@ -778,7 +862,8 @@
             "de": "Chapelle Saint-Guénolé",
             "hu": "Chapelle Saint-Guénolé",
             "ro": "Chapelle Saint-Guénolé",
-            "en": "Chapelle Saint-Guénolé"
+            "en": "Chapelle Saint-Guénolé",
+            "fr": "Chapelle Saint-Guénolé"
           },
           "coords": [
             -3.586375,
@@ -793,7 +878,8 @@
             "de": "Machen Sie eine Zeitreise an diesem bescheidenen, aber historisch bedeutsamen Ort, der tolle Fotomotive bietet, besonders wenn das Morgenlicht auf die rustikale Fassade fällt.",
             "hu": "Lépjen vissza az időben ezen a szerény, mégis történelmileg jelentős vallási helyszínen, amely nagyszerű fotózási lehetőségeket kínál, különösen amikor a reggeli fény éri a homlokzatot.",
             "ro": "Pășiți înapoi în timp la acest sit religios modest, dar semnificativ din punct de vedere istoric, care oferă oportunități foto excelente la primele ore ale dimineții.",
-            "en": "Step back in time at this modest yet historically significant religious site that offers great photo opportunities, especially when the morning light hits the rustic facade."
+            "en": "Step back in time at this modest yet historically significant religious site that offers great photo opportunities, especially when the morning light hits the rustic facade.",
+            "fr": "Remontez le temps à ce modeste mais important site religieux qui offre de belles opportunités photographiques, surtout quand la lumière du matin frappe la façade rustique."
           }
         },
         {
@@ -801,7 +887,8 @@
             "de": "Chapelle Saint-Hervé",
             "hu": "Chapelle Saint-Hervé",
             "ro": "Chapelle Saint-Hervé",
-            "en": "Chapelle Saint-Hervé"
+            "en": "Chapelle Saint-Hervé",
+            "fr": "Chapelle Saint-Hervé"
           },
           "coords": [
             -3.57447,
@@ -816,7 +903,8 @@
             "de": "Besuchen Sie dieses abgeschiedene, von dichten Bäumen umgebene religiöse Kleinod, das sich perfekt zur Besinnung eignet, aber tragen Sie festes Schuhwerk für den holprigen Pfad.",
             "hu": "Látogasson el ehhez a sűrű fákkal körülvett, eldugott vallási gyöngyszemhez, amely tökéletes hely a csendes elmélkedésre, de viseljen erős cipőt, mert az ösvény egyenetlen lehet.",
             "ro": "Vizitați această bijuterie religioasă izolată, înconjurată de copaci deși, ideală pentru reflecție, dar purtați încălțăminte robustă, deoarece poteca poate fi uneori noroioasă.",
-            "en": "Visit this secluded religious gem surrounded by dense trees, which provides a perfect setting for reflection, but wear sturdy shoes as the path can be slightly uneven and muddy."
+            "en": "Visit this secluded religious gem surrounded by dense trees, which provides a perfect setting for reflection, but wear sturdy shoes as the path can be slightly uneven and muddy.",
+            "fr": "Visitez ce trésor religieux isolé entouré d'arbres denses, qui offre un cadre parfait pour la réflexion, mais portez des chaussures robustes car le chemin peut être légèrement inégal et boueux."
           }
         },
         {
@@ -824,7 +912,8 @@
             "de": "Saint-Jean Baptiste",
             "hu": "Saint-Jean Baptiste",
             "ro": "Saint-Jean Baptiste",
-            "en": "Saint-Jean Baptiste"
+            "en": "Saint-Jean Baptiste",
+            "fr": "Saint-Jean Baptiste"
           },
           "coords": [
             -3.618502,
@@ -839,7 +928,8 @@
             "de": "Halten Sie an diesem bekannten, Johannes dem Täufer gewidmeten Denkmal an, um das Mauerwerk zu bewundern, und fotografieren Sie die Statue von unten für eine majestätische Wirkung.",
             "hu": "Álljon meg ennél a Keresztelő Jánosnak szentelt emlékműnél, hogy megcsodálja a finom falazatot, és próbálja alacsony szögből fotózni a szobrot fenséges arányainak kiemeléséhez.",
             "ro": "Opriți-vă la acest monument proeminent dedicat Sfântului Ioan Botezătorul pentru a admira zidăria delicată și încercați să surprindeți statuia dintr-un unghi inferior.",
-            "en": "Pause at this prominent monument dedicated to John the Baptist to admire the delicate masonry, and try capturing the statue from a low angle to highlight its majestic proportions."
+            "en": "Pause at this prominent monument dedicated to John the Baptist to admire the delicate masonry, and try capturing the statue from a low angle to highlight its majestic proportions.",
+            "fr": "Faites une pause à ce monument important dédié à Jean Baptiste pour admirer la maçonnerie délicate, et essayez de photographier la statue en contre-plongée pour en souligner les proportions majestueuses."
           }
         },
         {
@@ -847,7 +937,8 @@
             "de": "Château de Tronjoly",
             "hu": "Château de Tronjoly",
             "ro": "Château de Tronjoly",
-            "en": "Château de Tronjoly"
+            "en": "Château de Tronjoly",
+            "fr": "Château de Tronjoly"
           },
           "coords": [
             -3.60977,
@@ -862,7 +953,8 @@
             "de": "Erkunden Sie das weitläufige Gelände und die Architektur dieses historischen Schlosses, in dem lokale Kulturveranstaltungen stattfinden, und nehmen Sie sich Zeit für die üppigen Gärten.",
             "hu": "Fedezze fel e történelmi kastély hatalmas birtokát és építészetét, amely helyi kulturális eseményeknek ad otthont, elegendő időt hagyva a buja, gondozott kertekben való sétára.",
             "ro": "Explorați domeniul vast și arhitectura acestui castel istoric care găzduiește evenimente culturale locale, lăsând suficient timp pentru a vă plimba prin grădinile luxuriante și îngrijite.",
-            "en": "Explore the sprawling grounds and majestic architecture of this historic castle that hosts local cultural events, leaving enough time to wander through the lush, well-kept gardens."
+            "en": "Explore the sprawling grounds and majestic architecture of this historic castle that hosts local cultural events, leaving enough time to wander through the lush, well-kept gardens.",
+            "fr": "Explorez les vastes jardins et l'architecture majestueuse de ce château historique qui accueille des manifestations culturelles locales, en prévoyant suffisamment de temps pour flâner dans les jardins luxuriants et bien entretenus."
           }
         },
         {
@@ -870,7 +962,8 @@
             "de": "Théâtre de Tronjoly",
             "hu": "Théâtre de Tronjoly",
             "ro": "Théâtre de Tronjoly",
-            "en": "Théâtre de Tronjoly"
+            "en": "Théâtre de Tronjoly",
+            "fr": "Théâtre de Tronjoly"
           },
           "coords": [
             -3.608716,
@@ -885,7 +978,8 @@
             "de": "Tauchen Sie in diesem Freiluft-Veranstaltungsort neben dem Schloss in die lokale Kunstszene ein und informieren Sie sich vorab über das Programm für faszinierende Nachmittagsvorstellungen.",
             "hu": "Merüljön el a helyi előadóművészeti életben ezen a kastély melletti szabadtéri kulturális helyszínen, előre ellenőrizve a programjukat bármilyen lenyűgöző délutáni műsor kapcsán.",
             "ro": "Pătrundeți în scena artelor spectacolului la această locație culturală în aer liber de lângă castel, verificând programul în avans pentru orice spectacole fascinante de după-amiază.",
-            "en": "Immerse yourself in the local performing arts scene at this open-air cultural venue right next to the château, checking their schedule in advance for any fascinating afternoon shows."
+            "en": "Immerse yourself in the local performing arts scene at this open-air cultural venue right next to the château, checking their schedule in advance for any fascinating afternoon shows.",
+            "fr": "Plongez dans la scène artistique locale à ce lieu culturel en plein air situé juste à côté du château, en consultant son programme à l'avance pour d'éventuels spectacles d'après-midi intéressants."
           }
         }
       ],
@@ -893,7 +987,8 @@
         "de": "Beginnen Sie Ihren Tag im spirituellen Herzen von Gourin an der zentralen Kirche und fahren Sie dann gemütlich zum malerischen See, um die friedliche Morgenatmosphäre zu genießen.\nAm Mittag können Sie mit dem Auto die weiter entfernten historischen Steinkapellen ansteuern, die verborgen in den Wäldern und auf den weiten Feldern der bretonischen Landschaft liegen.\nDer Nachmittag führt Sie zum beeindruckenden Johannes-Denkmal und schließlich zur Pracht von Tronjoly, wo Sie die herrlichen Schlossanlagen und das benachbarte Freilufttheater erkunden können.\nBeenden Sie Ihre bequeme Tour durch diese bretonische Perle, während das schwindende Licht die jahrhundertealte Architektur in warme, goldene Farbtöne taucht.",
         "hu": "Kezdje a napot Gourin szellemi központjában a központi templomnál, majd tegyen egy rövid utat a festői tóhoz, hogy élvezze a békés reggeli atmoszférát.\nDélben autóval könnyedén elérheti a távolabbi történelmi kőkápolnákat is, amelyek a breton vidék kiterjedt erdeiben és mezőin bújnak meg, csendes áhítatot árasztva.\nA délután a lenyűgöző Keresztelő János emlékműhöz, majd Tronjoly nagyszerűségéhez vezeti Önt, ahol felfedezheti a kastély csodás kertjeit és a szomszédos szabadtéri színházat.\nZárja ezt a kényelmes utazást, miközben a lemenő nap fénye meleg, arany árnyalatokkal vonja be e breton városka évszázados építészetét.",
         "ro": "Începeți ziua în inima spirituală a orașului Gourin la biserica centrală, apoi conduceți scurt până la lacul pitoresc pentru a vă bucura de atmosfera pașnică a dimineții.\nLa amiază, mașina vă permite să ajungeți cu ușurință la capelele istorice de piatră mai îndepărtate, ascunse în pădurile și câmpurile vaste ale peisajului breton.\nDupă-amiaza vă poartă spre impresionantul monument dedicat Sfântului Ioan, urmat de măreția domeniului Tronjoly, unde puteți explora grădinile castelului și teatrul în aer liber.\nÎncheiați acest tur confortabil pe măsură ce lumina difuză a apusului îmbracă arhitectura seculară a acestui oraș breton în nuanțe calde, aurii.",
-        "en": "Start your day in the spiritual heart of Gourin at the central church, then take a short drive to the scenic local lake to soak in the peaceful morning atmosphere.\nBy midday, your car allows you to easily reach the more distant historic stone chapels, tucked away in the woods and open fields of the picturesque Breton countryside.\nThe afternoon leads you to the striking Saint John monument, followed by the grandeur of Tronjoly, where you can explore the castle's beautiful grounds and adjacent open-air theatre.\nConclude this comfortable journey as the fading light coats the centuries-old architecture of this authentic Breton town in warm, golden hues."
+        "en": "Start your day in the spiritual heart of Gourin at the central church, then take a short drive to the scenic local lake to soak in the peaceful morning atmosphere.\nBy midday, your car allows you to easily reach the more distant historic stone chapels, tucked away in the woods and open fields of the picturesque Breton countryside.\nThe afternoon leads you to the striking Saint John monument, followed by the grandeur of Tronjoly, where you can explore the castle's beautiful grounds and adjacent open-air theatre.\nConclude this comfortable journey as the fading light coats the centuries-old architecture of this authentic Breton town in warm, golden hues.",
+        "fr": "Commencez votre journée au cœur spirituel de Gourin à l'église centrale, puis faites une courte voiture jusqu'au lac local pittoresque pour profiter de l'atmosphère paisible du matin. À midi, votre voiture vous permet d'atteindre facilement les chapelles en pierre plus éloignées, nichées dans les bois et les champs ouverts de la campagne bretonne pittoresque. L'après-midi vous mène au saisissant monument Saint-Jean, suivi par la grandeur de Tronjoly, où vous pourrez explorer les beaux jardins du château et le théâtre en plein air adjacent. Concluez ce parcours confortable alors que la lumière déclinante baigne l'architecture séculaire de cette authentique ville bretonne de teintes chaudes et dorées."
       },
       "variants": {
         "rainy": {
@@ -901,7 +996,8 @@
             "de": "Ihre regnerische Fahrt beginnt mit einem bequemen Stopp an der Hauptkirche. Mittags bieten sich szenische Blicke auf den See und kurze Sprints in die historischen Kapellen. Der Nachmittag eignet sich perfekt für den Innenkomfort des Anwesens Tronjoly. Fahren Sie am Abend vorsichtig auf den nassen Landstraßen.",
             "hu": "Az esős autózás egy kényelmes megállóval kezdődik a főtemplomnál. Délben festői kilátás nyílik az ablaktörlők mögül a tóra, és rövid sprintek a történelmi kápolnákba. A délután tökéletesen alkalmas a Tronjoly birtok benti kényelmére. Az este közeledtével vezessen óvatosan a nedves vidéki utakon.",
             "ro": "Călătoria ploioasă începe cu o oprire convenabilă la biserica principală. La prânz, aveți vederi pitorești prin parbriz asupra lacului și scurte opriri la capelele istorice. După-amiaza este perfectă pentru confortul interior al domeniului Tronjoly. Conduceți prudent pe drumurile de țară umede.",
-            "en": "Your rainy drive begins with a convenient stop at the main church. Midday brings scenic, wiper-cleared views of the lake and short dashes into the historic chapels. The afternoon is perfectly suited for the indoor comfort of the Tronjoly estate. Drive safely on the wet country roads as evening approaches."
+            "en": "Your rainy drive begins with a convenient stop at the main church. Midday brings scenic, wiper-cleared views of the lake and short dashes into the historic chapels. The afternoon is perfectly suited for the indoor comfort of the Tronjoly estate. Drive safely on the wet country roads as evening approaches.",
+            "fr": "Votre trajet pluvieux commence par un arrêt pratique à l'église principale. À midi vous profitez de vues balayées par les essuie-glaces sur le lac et de brèves incursions dans les chapelles historiques. L'après-midi se prête parfaitement au confort intérieur du domaine de Tronjoly. Conduisez prudemment sur les routes de campagne mouillées à l'approche du soir."
           },
           "stops": [
             {
@@ -909,13 +1005,15 @@
                 "de": "Église Saint-Pierre et Saint-Paul",
                 "hu": "Église Saint-Pierre et Saint-Paul",
                 "ro": "Église Saint-Pierre et Saint-Paul",
-                "en": "Église Saint-Pierre et Saint-Paul"
+                "en": "Église Saint-Pierre et Saint-Paul",
+                "fr": "Église Saint-Pierre et Saint-Paul"
               },
               "tip_5lang": {
                 "de": "Parken Sie nahe der Kirche, um trocken hineinzukommen. Die großen Fenster wirken bei regnerischem, grauem Licht besonders atmosphärisch und beruhigend.",
                 "hu": "Parkoljon közel a templomhoz, hogy szárazon be tudjon jutni. A hatalmas üvegablakok esős, szürke fényben különösen hangulatosak és megnyugtatóak.",
                 "ro": "Parcați aproape de biserică pentru a intra uscat. Ferestrele mari sunt deosebit de atmosferice și liniștitoare în lumina ploioasă și gri.",
-                "en": "Park close to the church so you can get inside while staying dry. The large stained windows look particularly atmospheric and calming in the gray rainy light."
+                "en": "Park close to the church so you can get inside while staying dry. The large stained windows look particularly atmospheric and calming in the gray rainy light.",
+                "fr": "Garez-vous près de l'église pour pouvoir entrer tout en restant au sec. Les larges vitraux sont particulièrement atmosphériques et apaisants sous la lumière grise et pluvieuse."
               }
             },
             {
@@ -923,13 +1021,15 @@
                 "de": "Étang de Gourin",
                 "hu": "Étang de Gourin",
                 "ro": "Étang de Gourin",
-                "en": "Étang de Gourin"
+                "en": "Étang de Gourin",
+                "fr": "Étang de Gourin"
               },
               "tip_5lang": {
                 "de": "Genießen Sie den Blick auf das regengepeitschte Wasser bequem aus dem warmen Auto. Wenn Sie aussteigen, ist ein breiter Regenschirm hier sehr ratsam.",
                 "hu": "Élvezze az eső áztatta vízfelület látványát kényelmesen a meleg autóból. Ha kiszáll egy rövid sétára, egy széles, erős esernyő nagyon ajánlott.",
                 "ro": "Bucurați-vă de vederea apei bătute de ploaie din confortul mașinii calde. Dacă ieșiți, o umbrelă mare și robustă este foarte recomandată aici.",
-                "en": "Enjoy the view of the rain-swept water comfortably from inside your warm car. If you step out, a wide, sturdy umbrella is highly advisable in this open area."
+                "en": "Enjoy the view of the rain-swept water comfortably from inside your warm car. If you step out, a wide, sturdy umbrella is highly advisable in this open area.",
+                "fr": "Appréciez la vue de l'eau battue par la pluie confortablement depuis l'intérieur de votre voiture chaude. Si vous sortez, un grand parapluie solide est fortement conseillé dans cet espace ouvert."
               }
             },
             {
@@ -937,13 +1037,15 @@
                 "de": "Chapelle Saint-Philibert",
                 "hu": "Chapelle Saint-Philibert",
                 "ro": "Chapelle Saint-Philibert",
-                "en": "Chapelle Saint-Philibert"
+                "en": "Chapelle Saint-Philibert",
+                "fr": "Chapelle Saint-Philibert"
               },
               "tip_5lang": {
                 "de": "Fahren Sie vorsichtig auf dem schmalen Zufahrtsweg, der bei Regen oft schlammig wird. Die Kapelle bietet einen exzellenten, trockenen Schutz für eine Pause.",
                 "hu": "Vezessen óvatosan a keskeny bekötőúton, amely esőben gyakran sárossá válik. Maga a kápolna kiváló, száraz menedéket nyújt egy rövid, csendes pihenőhöz.",
                 "ro": "Conduceți cu atenție pe drumul de acces îngust, care devine adesea noroios pe ploaie. Capela oferă un adăpost excelent și uscat pentru o pauză scurtă.",
-                "en": "Drive carefully on the narrow access road which often gets muddy in the rain. The chapel itself provides an excellent, dry shelter for a quiet, short break."
+                "en": "Drive carefully on the narrow access road which often gets muddy in the rain. The chapel itself provides an excellent, dry shelter for a quiet, short break.",
+                "fr": "Conduisez prudemment sur la route d'accès étroite qui devient souvent boueuse sous la pluie. La chapelle elle-même offre un excellent abri sec pour une courte pause tranquille."
               }
             },
             {
@@ -951,13 +1053,15 @@
                 "de": "Chapelle Saint-Guénolé",
                 "hu": "Chapelle Saint-Guénolé",
                 "ro": "Chapelle Saint-Guénolé",
-                "en": "Chapelle Saint-Guénolé"
+                "en": "Chapelle Saint-Guénolé",
+                "fr": "Chapelle Saint-Guénolé"
               },
               "tip_5lang": {
                 "de": "Ein malerischer Stopp. Legen Sie Gummimatten ins Auto, falls Ihre Schuhe auf dem kurzen, regennassen Weg zur Kapellentür etwas schmutzig werden.",
                 "hu": "Festői megálló. Érdemes gumiszőnyegeket tartani az autóban, ha a cipője kissé sáros lenne a kápolna ajtajához vezető rövid, eső áztatta ösvényen.",
                 "ro": "O oprire pitorească. Puneți covorașe de cauciuc în mașină, în caz că pantofii se murdăresc pe drumul scurt și ud de ploaie spre ușa capelei.",
-                "en": "A picturesque stop. Consider having rubber mats in the car in case your shoes get a bit muddy on the short, rain-soaked path up to the chapel doors."
+                "en": "A picturesque stop. Consider having rubber mats in the car in case your shoes get a bit muddy on the short, rain-soaked path up to the chapel doors.",
+                "fr": "Un arrêt pittoresque. Pensez à avoir des tapis en caoutchouc dans la voiture au cas où vos chaussures seraient un peu boueuses sur le court chemin détrempé menant aux portes de la chapelle."
               }
             },
             {
@@ -965,13 +1069,15 @@
                 "de": "Chapelle Saint-Hervé",
                 "hu": "Chapelle Saint-Hervé",
                 "ro": "Chapelle Saint-Hervé",
-                "en": "Chapelle Saint-Hervé"
+                "en": "Chapelle Saint-Hervé",
+                "fr": "Chapelle Saint-Hervé"
               },
               "tip_5lang": {
                 "de": "Der etwas abgelegene Ort hat im Regen etwas sehr Mystisches. Parken Sie mit Bedacht, da weiche Bankette neben der Landstraße bei Dauerregen tückisch sind.",
                 "hu": "A kissé eldugott helyszín az esőben nagyon misztikus hangulatot áraszt. Parkoljon körültekintően, mert az út menti puha padkák tartós esőben beszakadhatnak.",
                 "ro": "Locația oarecum îndepărtată are un aer mistic în ploaie. Parcați cu grijă, deoarece acostamentele moi de lângă drum sunt înșelătoare pe ploaie continuă.",
-                "en": "This somewhat remote spot feels very mystical in the rain. Park with great care, as the soft shoulders beside the country road can be treacherous when wet."
+                "en": "This somewhat remote spot feels very mystical in the rain. Park with great care, as the soft shoulders beside the country road can be treacherous when wet.",
+                "fr": "Cet endroit quelque peu isolé paraît très mystique sous la pluie. Garez-vous avec beaucoup de précaution, car les accotements mous le long de la route de campagne peuvent être traîtres quand ils sont humides."
               }
             },
             {
@@ -979,13 +1085,15 @@
                 "de": "Saint-Jean Baptiste",
                 "hu": "Saint-Jean Baptiste",
                 "ro": "Saint-Jean Baptiste",
-                "en": "Saint-Jean Baptiste"
+                "en": "Saint-Jean Baptiste",
+                "fr": "Saint-Jean Baptiste"
               },
               "tip_5lang": {
                 "de": "Ein schneller Fotostopp aus dem Autofenster ist bei Starkregen völlig ausreichend. Die Statue wirkt vor dem grauen, wolkenverhangenen Himmel sehr erhaben.",
                 "hu": "Szakadó esőben egy gyors fotómegálló az autó lehúzott ablakából is tökéletesen elegendő. A szobor fenségesen mutat a szürke, felhős, viharos égbolt előtt.",
                 "ro": "O scurtă oprire foto pe geamul mașinii este suficientă pe ploaie torențială. Statuia pare foarte sublimă pe cerul gri și înnorat.",
-                "en": "A quick photo stop by just rolling down the car window is perfectly fine in heavy rain. The statue looks quite sublime against the gray, overcast sky."
+                "en": "A quick photo stop by just rolling down the car window is perfectly fine in heavy rain. The statue looks quite sublime against the gray, overcast sky.",
+                "fr": "Un arrêt photo rapide en baissant simplement la fenêtre de la voiture convient parfaitement sous une forte pluie. La statue paraît assez sublime sur fond de ciel gris et couvert."
               }
             },
             {
@@ -993,13 +1101,15 @@
                 "de": "Château de Tronjoly",
                 "hu": "Château de Tronjoly",
                 "ro": "Château de Tronjoly",
-                "en": "Château de Tronjoly"
+                "en": "Château de Tronjoly",
+                "fr": "Château de Tronjoly"
               },
               "tip_5lang": {
                 "de": "Betrachten Sie die romantische Architektur des Schlosses. Der Parkplatz kann große Pfützen haben, schauen Sie genau hin, bevor Sie die Autotür öffnen.",
                 "hu": "Szemlélje meg a kastély romantikus építészetét. A parkolóban meglehetősen nagy tócsák alakulhatnak ki, ezért jól nézze meg, hová lép kiszálláskor.",
                 "ro": "Priviți arhitectura romantică a castelului. Parcarea poate avea bălți mari, așa că uitați-vă cu atenție înainte de a deschide ușa mașinii.",
-                "en": "Observe the romantic architecture of the castle. The main parking lot can develop large puddles, so look closely at the ground before opening your car door."
+                "en": "Observe the romantic architecture of the castle. The main parking lot can develop large puddles, so look closely at the ground before opening your car door.",
+                "fr": "Observez l'architecture romantique du château. Le parking principal peut présenter de grandes flaques, donc regardez bien le sol avant d'ouvrir votre portière."
               }
             },
             {
@@ -1007,13 +1117,15 @@
                 "de": "Théâtre de Tronjoly",
                 "hu": "Théâtre de Tronjoly",
                 "ro": "Théâtre de Tronjoly",
-                "en": "Théâtre de Tronjoly"
+                "en": "Théâtre de Tronjoly",
+                "fr": "Théâtre de Tronjoly"
               },
               "tip_5lang": {
                 "de": "Die Indoor-Räumlichkeiten sind das absolute Highlight bei schlechtem Wetter. Schütteln Sie Ihren Schirm im Vorraum aus und genießen Sie die trockene Kultur.",
                 "hu": "A benti termek jelentik az abszolút fénypontot zord, esős időjárás esetén. Rázza ki az esernyőjét az előtérben, és élvezze kényelmesen a száraz kultúrát.",
                 "ro": "Spațiile interioare sunt atracția absolută pe vreme rea. Scuturați-vă umbrela în hol și bucurați-vă de cultura uscată din interior.",
-                "en": "The indoor spaces are the absolute highlight when the weather is miserable. Shake out your umbrella in the vestibule and enjoy the completely dry culture."
+                "en": "The indoor spaces are the absolute highlight when the weather is miserable. Shake out your umbrella in the vestibule and enjoy the completely dry culture.",
+                "fr": "Les espaces intérieurs sont le point fort absolu quand le temps est mauvais. Secouez votre parapluie dans le vestibule et profitez d'une culture complètement à l'abri."
               }
             }
           ]
@@ -1023,7 +1135,8 @@
             "de": "Starten Sie Ihren Winter-Roadtrip an der beeindruckenden Zentralkirche, während die Autoheizung läuft. Mittags können Sie bequem den frostigen See und entlegene Kapellen in der kalten Landschaft abfahren. Nachmittags schwindet das Licht am Anwesen Tronjoly schnell. Beenden Sie die Tour vor 17 Uhr wegen möglicher Eisglätte.",
             "hu": "Kezdje a téli autós túrát a lenyűgöző központi templomnál, bekapcsolva tartva a fűtést. A déli vezetés lehetővé teszi a deres tó és a kápolnák kényelmes bejárását a hideg tájban. A délutáni fény gyorsan elhalványul a Tronjoly birtokon. Fejezze be az utat 17 óra előtt, mivel az utakon jeges foltok alakulhatnak ki.",
             "ro": "Începeți excursia de iarnă vizitând biserica centrală, menținând căldura în mașină. Conducerea la prânz vă permite să vizitați confortabil lacul înghețat și capelele îndepărtate. Lumina după-amiezii dispare rapid în jurul domeniului Tronjoly. Încheiați traseul înainte de 17:00 din cauza gheții.",
-            "en": "Start your winter road trip visiting the impressive central church, keeping the car heater on. Midday driving lets you comfortably tour the frosty lake and distant chapels in the cold landscape. Afternoon light fades quickly around the Tronjoly estate. Conclude your tour before 5 PM as icy patches may form on the roads."
+            "en": "Start your winter road trip visiting the impressive central church, keeping the car heater on. Midday driving lets you comfortably tour the frosty lake and distant chapels in the cold landscape. Afternoon light fades quickly around the Tronjoly estate. Conclude your tour before 5 PM as icy patches may form on the roads.",
+            "fr": "Commencez votre road-trip hivernal en visitant l'impressionnante église centrale, en gardant le chauffage de la voiture allumé. La conduite de midi vous permet de visiter confortablement le lac givré et les chapelles éloignées dans le paysage froid. La lumière de l'après-midi décline rapidement autour du domaine de Tronjoly. Concluez votre tour avant 17h car des plaques de verglas peuvent se former sur les routes."
           },
           "stops": [
             {
@@ -1031,13 +1144,15 @@
                 "de": "Église Saint-Pierre et Saint-Paul",
                 "hu": "Église Saint-Pierre et Saint-Paul",
                 "ro": "Église Saint-Pierre et Saint-Paul",
-                "en": "Église Saint-Pierre et Saint-Paul"
+                "en": "Église Saint-Pierre et Saint-Paul",
+                "fr": "Église Saint-Pierre et Saint-Paul"
               },
               "tip_5lang": {
                 "de": "Die Architektur ist atemberaubend, aber die dicken Mauern sind eiskalt. Lassen Sie Ihre Winterjacke unbedingt an, wenn Sie vom warmen Auto in die Kirche wechseln.",
                 "hu": "Az építészet lélegzetelállító, de a vastag falak jéghidegek. Mindenképpen tartsa magán a téli kabátját, amikor a meleg autóból átlép a hűvös templomba.",
                 "ro": "Arhitectura este uluitoare, dar pereții groși sunt sloi de gheață. Asigurați-vă că vă lăsați geaca de iarnă pe dumneavoastră când treceți din mașina caldă în biserică.",
-                "en": "The architecture is breathtaking, but the thick walls are freezing cold. Be sure to keep your winter coat on when moving from the warm car into the church."
+                "en": "The architecture is breathtaking, but the thick walls are freezing cold. Be sure to keep your winter coat on when moving from the warm car into the church.",
+                "fr": "L'architecture est à couper le souffle, mais les murs épais sont glacialement froids. Veillez à garder votre manteau d'hiver lorsque vous passez de la voiture chaude à l'église."
               }
             },
             {
@@ -1045,13 +1160,15 @@
                 "de": "Étang de Gourin",
                 "hu": "Étang de Gourin",
                 "ro": "Étang de Gourin",
-                "en": "Étang de Gourin"
+                "en": "Étang de Gourin",
+                "fr": "Étang de Gourin"
               },
               "tip_5lang": {
                 "de": "Ein kurzer, knackig-kalter Spaziergang am gefrorenen Ufer ist herrlich belebend. Die Autoheizung wärmt Sie danach bei der Weiterfahrt schnell wieder auf.",
                 "hu": "Egy rövid, ropogósan hideg séta a befagyott parton csodálatosan frissítő. Az autó fűtése utána pillanatok alatt ismét kellemesen felmelegíti a továbbutazáshoz.",
                 "ro": "O plimbare scurtă și rece pe malul înghețat este minunat de revigorantă. Încălzirea mașinii vă va încălzi rapid din nou în timp ce conduceți mai departe.",
-                "en": "A short, crisp and cold walk on the frozen shore is wonderfully invigorating. The car heater will quickly warm you up again as you continue your drive."
+                "en": "A short, crisp and cold walk on the frozen shore is wonderfully invigorating. The car heater will quickly warm you up again as you continue your drive.",
+                "fr": "Une courte marche fraîche et vivifiante sur la rive gelée est merveilleusement revigorante. Le chauffage de la voiture vous réchauffera rapidement avant de reprendre la route."
               }
             },
             {
@@ -1059,13 +1176,15 @@
                 "de": "Chapelle Saint-Philibert",
                 "hu": "Chapelle Saint-Philibert",
                 "ro": "Chapelle Saint-Philibert",
-                "en": "Chapelle Saint-Philibert"
+                "en": "Chapelle Saint-Philibert",
+                "fr": "Chapelle Saint-Philibert"
               },
               "tip_5lang": {
                 "de": "Der Boden rund um diese historische Stätte kann im Winter steinhart und gefroren sein. Tragen Sie festes Schuhwerk für den kurzen Weg vom Parkplatz.",
                 "hu": "A történelmi helyszín körüli talaj télen kőkemény és teljesen fagyott lehet. Viseljen nagyon masszív, meleg lábbelit a parkolótól vezető rövid sétához.",
                 "ro": "Terenul din jurul acestui sit istoric poate fi tare ca piatra și înghețat iarna. Purtați încălțăminte rezistentă pentru scurta plimbare de la parcare.",
-                "en": "The ground around this historic site can be rock-hard and completely frozen in winter. Wear sturdy footwear for the short walk from your parking spot."
+                "en": "The ground around this historic site can be rock-hard and completely frozen in winter. Wear sturdy footwear for the short walk from your parking spot.",
+                "fr": "Le sol autour de ce site historique peut être dur comme la pierre et complètement gelé en hiver. Portez des chaussures robustes pour la courte marche depuis votre stationnement."
               }
             },
             {
@@ -1073,13 +1192,15 @@
                 "de": "Chapelle Saint-Guénolé",
                 "hu": "Chapelle Saint-Guénolé",
                 "ro": "Chapelle Saint-Guénolé",
-                "en": "Chapelle Saint-Guénolé"
+                "en": "Chapelle Saint-Guénolé",
+                "fr": "Chapelle Saint-Guénolé"
               },
               "tip_5lang": {
                 "de": "Genießen Sie die Stille fernab des Verkehrs. Wenn Schnee liegt, parken Sie das Auto so, dass Sie auf dem ländlichen Weg problemlos wieder anfahren können.",
                 "hu": "Élvezze a forgalomtól távoli, mély csendet. Ha esett a hó, úgy parkolja le az autót, hogy ezen a vidéki, elhagyatott úton gond nélkül el tudjon indulni.",
                 "ro": "Bucurați-vă de liniștea departe de trafic. Dacă este zăpadă, parcați mașina în așa fel încât să puteți porni din nou fără probleme pe drumul rural.",
-                "en": "Enjoy the deep silence far away from traffic. If there is snow, park the car carefully so you can easily pull away on this quiet, rural road without slipping."
+                "en": "Enjoy the deep silence far away from traffic. If there is snow, park the car carefully so you can easily pull away on this quiet, rural road without slipping.",
+                "fr": "Appréciez le profond silence, loin de la circulation. S'il y a de la neige, garez la voiture avec soin pour pouvoir repartir facilement sur cette route rurale calme sans glisser."
               }
             },
             {
@@ -1087,13 +1208,15 @@
                 "de": "Chapelle Saint-Hervé",
                 "hu": "Chapelle Saint-Hervé",
                 "ro": "Chapelle Saint-Hervé",
-                "en": "Chapelle Saint-Hervé"
+                "en": "Chapelle Saint-Hervé",
+                "fr": "Chapelle Saint-Hervé"
               },
               "tip_5lang": {
                 "de": "Die Anfahrt durch die kahle Winterlandschaft ist landschaftlich sehr reizvoll. Vorsicht vor Glatteis in den schattigen Kurven kurz vor der Kapelle.",
                 "hu": "A kopár téli tájon keresztül vezető út tájképileg rendkívül vonzó. Fokozottan vigyázzon a fekete jégre a kápolna előtti, fákkal árnyékolt kanyarokban.",
                 "ro": "Călătoria prin peisajul golaș de iarnă este foarte pitorească. Atenție la gheața neagră din curbele umbrite chiar înainte de a ajunge la capelă.",
-                "en": "The drive through the barren winter landscape is very scenic. Beware of extremely dangerous black ice in the shaded curves just before reaching the chapel."
+                "en": "The drive through the barren winter landscape is very scenic. Beware of extremely dangerous black ice in the shaded curves just before reaching the chapel.",
+                "fr": "La route à travers le paysage hivernal dépouillé est très pittoresque. Méfiez-vous du verglas extrêmement dangereux dans les courbes ombragées juste avant d'atteindre la chapelle."
               }
             },
             {
@@ -1101,13 +1224,15 @@
                 "de": "Saint-Jean Baptiste",
                 "hu": "Saint-Jean Baptiste",
                 "ro": "Saint-Jean Baptiste",
-                "en": "Saint-Jean Baptiste"
+                "en": "Saint-Jean Baptiste",
+                "fr": "Saint-Jean Baptiste"
               },
               "tip_5lang": {
                 "de": "Halten Sie kurz an, um das Denkmal im weichen Nachmittagslicht zu fotografieren. Die Sonne steht im Winter sehr tief, was lange, dramatische Schatten wirft.",
                 "hu": "Álljon meg egy pillanatra, és fotózza le az emlékművet a lágy délutáni fényben. A téli nap nagyon alacsonyan jár, ami hosszú, drámai árnyékokat vet.",
                 "ro": "Opriți scurt pentru a fotografia monumentul în lumina moale a după-amiezii. Soarele este foarte jos iarna, ceea ce aruncă umbre lungi și dramatice.",
-                "en": "Stop briefly to photograph the monument in the soft afternoon light. The sun is very low in winter, which casts long, dramatic, and beautiful shadows."
+                "en": "Stop briefly to photograph the monument in the soft afternoon light. The sun is very low in winter, which casts long, dramatic, and beautiful shadows.",
+                "fr": "Arrêtez-vous brièvement pour photographier le monument sous la lumière douce de l'après-midi. Le soleil est très bas en hiver, ce qui projette de longues ombres dramatiques et belles."
               }
             },
             {
@@ -1115,13 +1240,15 @@
                 "de": "Château de Tronjoly",
                 "hu": "Château de Tronjoly",
                 "ro": "Château de Tronjoly",
-                "en": "Château de Tronjoly"
+                "en": "Château de Tronjoly",
+                "fr": "Château de Tronjoly"
               },
               "tip_5lang": {
                 "de": "Das Schlossgelände wirkt in der winterlichen Dämmerung fast märchenhaft. Schalten Sie das Abblendlicht ein, wenn Sie auf dem dunklen Parkplatz manövrieren.",
                 "hu": "A kastély területe a fagyos téli szürkületben szinte mesebelinek tűnik. Mindenképpen kapcsolja be a tompított fényszórót, amikor a sötét parkolóban manőverezik.",
                 "ro": "Terenul castelului pare aproape de basm în amurgul de iarnă. Porniți faza scurtă atunci când manevrați în parcarea întunecată și puțin luminată.",
-                "en": "The castle grounds look almost fairytale-like in the freezing winter dusk. Make sure to turn on your low beams when maneuvering in the dark parking lot."
+                "en": "The castle grounds look almost fairytale-like in the freezing winter dusk. Make sure to turn on your low beams when maneuvering in the dark parking lot.",
+                "fr": "Le parc du château paraît presque féerique dans le crépuscule hivernal glacé. Pensez à allumer vos feux de croisement en manœuvrant dans le parking sombre."
               }
             },
             {
@@ -1129,13 +1256,15 @@
                 "de": "Théâtre de Tronjoly",
                 "hu": "Théâtre de Tronjoly",
                 "ro": "Théâtre de Tronjoly",
-                "en": "Théâtre de Tronjoly"
+                "en": "Théâtre de Tronjoly",
+                "fr": "Théâtre de Tronjoly"
               },
               "tip_5lang": {
                 "de": "Der perfekte Abschluss des Tages in den geheizten Innenräumen. Wenn Sie später heimfahren, achten Sie auf überfrierende Nässe bei sinkenden Temperaturen.",
                 "hu": "A nap legtökéletesebb lezárása a jól fűtött belső terekben. Amikor később hazavezet, nagyon ügyeljen a süllyedő hőmérséklet miatti felfagyásokra az utakon.",
                 "ro": "Finalul perfect al zilei în spațiile interioare încălzite. Când conduceți spre casă mai târziu, aveți grijă la îngheț pe măsură ce temperaturile scad abrupt.",
-                "en": "The absolutely perfect end to the day inside the heated rooms. When driving home later, watch out carefully for black ice as evening temperatures plummet."
+                "en": "The absolutely perfect end to the day inside the heated rooms. When driving home later, watch out carefully for black ice as evening temperatures plummet.",
+                "fr": "La fin de journée parfaite à l'intérieur des salles chauffées. En rentrant plus tard, soyez très attentif au verglas alors que les températures nocturnes chutent."
               }
             }
           ]

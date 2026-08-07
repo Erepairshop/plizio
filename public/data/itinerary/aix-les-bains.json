@@ -70,7 +70,7 @@
             "hu": "Franciaország második legnagyobb Rodin-gyűjteménye.",
             "ro": "A doua cea mai mare colecție Rodin din Franța.",
             "en": "France's second-largest Rodin collection.",
-            "fr": "La deuxième plus grande collection Rodin de France."
+            "fr": "La deuxième plus grande collection de Rodin en France."
           }
         },
         {
@@ -89,7 +89,7 @@
             "hu": "Árnyas hely egy délutáni pihenőhöz.",
             "ro": "Un loc umbrit pentru o pauză de după-amiază.",
             "en": "A shady spot for an afternoon break.",
-            "fr": "Un coin ombragé pour une pause l'après-midi."
+            "fr": "Un endroit ombragé pour une pause l'après-midi."
           }
         },
         {
@@ -108,7 +108,7 @@
             "hu": "Séta kilátással a Lac du Bourget-ra.",
             "ro": "Plimbare cu vedere la Lac du Bourget.",
             "en": "Stroll with views of Lac du Bourget.",
-            "fr": "Promenez-vous avec vue sur le Lac du Bourget."
+            "fr": "Promenez-vous avec vue sur le lac du Bourget."
           }
         },
         {
@@ -136,7 +136,7 @@
         "hu": "Aix-les-Bains gyalogosan egy utazás a Belle Époque és az alpesi panoráma között. Kezdj a pompás Casinóban, fedezd fel az antik termálfürdőket, és csodáld meg Rodin szobrait a Musée Faure-ban. Egy pihentető parki séta után az út a Lac du Bourget partjára vezet, ahol a tóparti szellő mellett zárhatod a napot.",
         "ro": "Aix-les-Bains la pas este o călătorie între Belle Époque și panorama alpină. Începe la somptuosul Casino, descoperă termele antice și admiră sculpturile lui Rodin la Musée Faure. După o plimbare relaxantă prin Parc de Verdure, drumul te duce la malul Lacului Bourget, unde poți încheia ziua cu briza lacului.",
         "en": "Aix-les-Bains on foot is a journey between Belle Époque and Alpine panoramas. Start at the grand Casino, discover the ancient thermal baths, and admire Rodin's sculptures at the Musée Faure. After a relaxing walk through the Parc de Verdure, the path leads to the shores of Lac du Bourget, where you can end the day with the lake breeze.",
-        "fr": "Aix-les-Bains à pied est un voyage entre Belle Époque et panoramas alpins. Commencez au grand Casino, découvrez les anciens thermes et admirez les sculptures de Rodin au Musée Faure. Après une promenade relaxante dans le Parc de Verdure, le chemin mène aux rives du Lac du Bourget, où vous pourrez terminer la journée avec la brise du lac."
+        "fr": "Aix-les-Bains à pied est un voyage entre Belle Époque et panoramas alpins. Commencez au grand Casino, découvrez les anciens thermes, et admirez les sculptures de Rodin au Musée Faure. Après une promenade relaxante dans le Parc de Verdure, le chemin mène aux rives du lac du Bourget, où vous pouvez terminer la journée avec la brise lacustre."
       },
       "gastro_picks": {
         "de": [
@@ -330,9 +330,9 @@
           "Book your museum ticket in advance."
         ],
         "fr": [
-          "Portez des chaussures confortables pour la marche vers le lac.",
-          "Le Casino exige une tenue correcte pour les visites.",
-          "Utilisez les fontaines d'eau potable dans la ville.",
+          "Portez des chaussures confortables pour la marche jusqu'au lac.",
+          "Le Casino exige une tenue smart-casual pour les visites.",
+          "Utilisez les fontaines d'eau réparties en ville.",
           "Réservez votre billet de musée à l'avance."
         ]
       }
@@ -361,7 +361,7 @@
             "hu": "Tiszta kikötői hangulat reggel.",
             "ro": "Atmosferă de port dimineața.",
             "en": "Pure harbor atmosphere in the morning.",
-            "fr": "Atmosphère de port pure le matin."
+            "fr": "Ambiance pure de port le matin."
           }
         },
         {
@@ -380,7 +380,7 @@
             "hu": "Tökéletes hely egy hosszabb strandoláshoz.",
             "ro": "Locul perfect pentru o pauză lungă de baie.",
             "en": "Perfect spot for a longer swimming break.",
-            "fr": "Endroit parfait pour une pause baignade prolongée."
+            "fr": "Endroit parfait pour une longue baignade."
           }
         },
         {
@@ -399,7 +399,7 @@
             "hu": "Piknik a Dent du Chat hegyre nyíló kilátással.",
             "ro": "Picnic cu vedere spre muntele Dent du Chat.",
             "en": "Picnic with views of the Dent du Chat mountain.",
-            "fr": "Pique-nique avec vue sur la montagne de la Dent du Chat."
+            "fr": "Pique-nique avec vue sur la Dent du Chat."
           }
         },
         {
@@ -418,7 +418,7 @@
             "hu": "Élvezz egy kávét közvetlenül a víznél.",
             "ro": "Bucurați-vă de o cafea chiar pe malul apei.",
             "en": "Enjoy a coffee right by the water.",
-            "fr": "Savourez un café juste au bord de l'eau."
+            "fr": "Savourez un café au bord de l'eau."
           }
         },
         {
@@ -437,7 +437,7 @@
             "hu": "A kerékpártúra szép lezárása.",
             "ro": "Un final frumos al turului cu bicicleta.",
             "en": "A beautiful end to the bike tour.",
-            "fr": "Une belle conclusion pour la randonnée à vélo."
+            "fr": "Une belle fin pour la balade à vélo."
           }
         }
       ],
@@ -446,7 +446,7 @@
         "hu": "Fedezd fel Franciaország legnagyobb természetes tavát kerékpárral. A part mentén tekerve a Grand Porttól a Plage du Rowingig jutsz, ahol frissítő strandolás vár. A délután a tágas Esplanade-on át vezet az északi part hangulatos kávézóihoz. A sík tóparti szakasz ideális a kikapcsolódáshoz, folyamatos kilátással a Savoyai-Alpokra.",
         "ro": "Descoperă cel mai mare lac natural din Franța cu bicicleta. Pedalând de-a lungul malului de la Grand Port la Plage du Rowing, te așteaptă o baie revigorantă. După-amiaza te poartă prin Esplanadă spre cafenelele cochete de pe malul nordic. Traseul plat de lângă lac este ideal pentru relaxare și oferă vederi constante spre Alpii de Savoia.",
         "en": "Discover France's largest natural lake by bike. Cycling along the shore from Grand Port to Plage du Rowing, a refreshing swimming break awaits. The afternoon leads you via the wide Esplanade to cozy cafes on the northern shore. The flat lakeside path is ideal for leisure and offers constant views of the Savoie Alps.",
-        "fr": "Découvrez le plus grand lac naturel de France à vélo. En pédalant le long de la rive, du Grand Port à la Plage du Rowing, une pause baignade rafraîchissante vous attend. L'après-midi vous mène via la large Esplanade vers des cafés accueillants sur la rive nord. Le sentier plat au bord du lac est idéal pour la détente et offre des vues constantes sur les Alpes de Savoie."
+        "fr": "Découvrez à vélo le plus grand lac naturel de France. En longeant la rive de Grand Port à la Plage du Rowing, une pause baignade rafraîchissante vous attend. L'après-midi, la large esplanade vous mène à des cafés cosy sur la rive nord. La piste plate au bord du lac est idéale pour les loisirs et offre des vues constantes sur les Alpes savoyardes."
       },
       "gastro_picks": {
         "de": [
@@ -621,9 +621,9 @@
         ],
         "fr": [
           "Louez votre vélo à la 'Vélostation' près de la gare.",
-          "La promenade au bord du lac est fréquentée le week-end, roulez prudemment.",
+          "La promenade du lac est très fréquentée le week-end, roulez prudemment.",
           "Un cadenas est indispensable pour la pause baignade.",
-          "L'itinéraire est complètement plat."
+          "L'itinéraire est totalement plat."
         ]
       }
     },
@@ -651,7 +651,7 @@
             "hu": "Látványos kilátás a tóra a Skywalkról.",
             "ro": "Vedere spectaculoasă asupra lacului de pe Skywalk.",
             "en": "Spectacular view over the lake from the Skywalk.",
-            "fr": "Vue spectaculaire sur le lac depuis le Skywalk."
+            "fr": "Vue spectaculaire sur le lac depuis la passerelle panoramique."
           }
         },
         {
@@ -670,7 +670,7 @@
             "hu": "A Savoyai-ház hercegeinek sírhelye a tóparton.",
             "ro": "Locul de mormânt al prinților de Savoia pe malul lacului.",
             "en": "Burial place of the Princes of Savoy on the lakeshore.",
-            "fr": "Lieu de sépulture des princes de Savoie au bord du lac."
+            "fr": "Lieu de sépulture des princes de Savoie sur la rive du lac."
           }
         },
         {
@@ -689,7 +689,7 @@
             "hu": "Savoyai Velencéje a csatorna partján.",
             "ro": "Veneția de Savoia de pe malul canalului.",
             "en": "The 'Venice of Savoie' along the canal.",
-            "fr": "La 'Venise savoyarde' le long du canal."
+            "fr": "La « Venise de Savoie » le long du canal."
           }
         },
         {
@@ -727,7 +727,7 @@
             "hu": "A központi parkolóházak jól ki vannak táblázva.",
             "ro": "Parcările centrale sunt bine semnalizate.",
             "en": "Central parking garages are well signposted.",
-            "fr": "Les parkings centraux sont bien signalés."
+            "fr": "Les parkings centraux sont bien indiqués."
           }
         }
       ],
@@ -736,7 +736,7 @@
         "hu": "Autóval Savoyai magasságaiba és rejtett zugaiba juthatsz el. Kezdj a Mont Revard lélegzetelállító panorámájával. Ezután kerüld meg a tavat a misztikus Hautecombe-apátságig. A festői Chanaz falucska meglátogatása kötelező program, mielőtt kilátópontokon keresztül térnél vissza, hogy a napot egy finom vacsorával zárd Aix-les-Bains-ben.",
         "ro": "Cu mașina vei descoperi înălțimile și locurile ascunse din Savoia. Începe cu panorama spectaculoasă de pe Mont Revard. Apoi înconjoară lacul până la mistica Abație Hautecombe. Vizitarea satului pitoresc Chanaz este obligatorie, înainte de a reveni prin puncte de belvedere pentru a încheia ziua culinar în centrul orașului Aix-les-Bains.",
         "en": "By car, you will explore the heights and hidden corners of Savoie. Start with the breathtaking panorama from Mont Revard. Then circle the lake to the mystical Hautecombe Abbey. A visit to the picturesque canal village of Chanaz is a must, before returning via scenic viewpoints to end the evening with a dinner in the center of Aix-les-Bains.",
-        "fr": "En voiture, vous explorerez les hauteurs et les coins cachés de la Savoie. Commencez par le panorama époustouflant du Mont Revard. Faites ensuite le tour du lac jusqu'à la mystique Abbaye d'Hautecombe. Une visite du pittoresque village-canal de Chanaz est incontournable, avant de revenir par des points de vue panoramiques pour terminer la soirée avec un dîner au centre d'Aix-les-Bains."
+        "fr": "En voiture, explorez les hauteurs et les recoins cachés de la Savoie. Commencez par le panorama à couper le souffle du Mont Revard. Puis faites le tour du lac jusqu'à la mystérieuse abbaye d'Hautecombe. Une visite du village canal pittoresque de Chanaz est incontournable, avant de revenir via des points de vue pour terminer la soirée par un dîner au centre d'Aix-les-Bains."
       },
       "gastro_picks": {
         "de": [
@@ -911,7 +911,7 @@
         ],
         "fr": [
           "La route vers le Mont Revard est sinueuse.",
-          "Le stationnement à l'Abbaye est limité, arrivez tôt.",
+          "Le stationnement à l'abbaye est limité, arrivez tôt.",
           "Un parking gratuit est disponible à l'entrée de Chanaz.",
           "Attention aux motards sur les routes de montagne."
         ]
@@ -960,7 +960,7 @@
             "hu": "Modern termálfürdő remek hegyi kilátással.",
             "ro": "Terme moderne cu vedere minunată la munte.",
             "en": "Modern thermal baths with great mountain views.",
-            "fr": "Thermes modernes avec de superbes vues sur la montagne."
+            "fr": "Bains thermaux modernes avec une belle vue sur les montagnes."
           }
         },
         {
@@ -998,7 +998,7 @@
             "hu": "Hajókirándulások indulópontja a tavon.",
             "ro": "Punct de pornire pentru croaziere pe lac.",
             "en": "Starting point for boat cruises on the lake.",
-            "fr": "Point de départ pour des croisières en bateau sur le lac."
+            "fr": "Point de départ des croisières sur le lac."
           }
         },
         {
@@ -1026,7 +1026,7 @@
         "hu": "Az Ondéa buszhálózatnak köszönhetően Aix-les-Bains stresszmentesen felfedezhető. Az állomásról irány a Chevalley termálfürdő a teljes ellazulásért. Ezután térj vissza a központba a történelmi Casinóhoz, mielőtt a busz levivő a Grand Porthoz. Élvezd a tóparti szellőt, majd térj vissza a nyüzsgő bevásárlóutcákba. Kényelmes és hatékony megoldás parkolási gondok nélkül.",
         "ro": "Datorită rețelei de autobuze Ondéa, Aix-les-Bains poate fi explorat fără stres. De la gară mergi direct la termele Chevalley pentru relaxare totală. Apoi revino în centru la cazinoul istoric, înainte ca autobuzul să te ducă la Grand Port. Bucură-te de briza lacului și revino pe străzile comerciale animate. Confortabil și eficient, fără grija parcării.",
         "en": "Thanks to the Ondéa bus network, Aix-les-Bains can be explored stress-free. From the station, head directly to the Chevalley thermal baths for total relaxation. Then return to the center for the historic Casino, before the bus takes you to Grand Port. Enjoy the lake breeze and return to the busy shopping streets for the evening. Comfortable and efficient without parking worries.",
-        "fr": "Grâce au réseau de bus Ondéa, Aix-les-Bains se découvre sans stress. Depuis la gare, dirigez-vous directement vers les thermes Chevalley pour une relaxation totale. Revenez ensuite au centre pour l'historique Casino, avant que le bus ne vous emmène au Grand Port. Profitez de la brise du lac et revenez vers les rues commerçantes animées pour la soirée. Confortable et efficace sans soucis de stationnement."
+        "fr": "Grâce au réseau de bus Ondéa, Aix-les-Bains se visite sans stress. Depuis la gare, rendez-vous directement aux thermes Chevalley pour une détente totale. Puis revenez au centre pour le Casino historique, avant que le bus ne vous mène au Grand Port. Profitez de la brise du lac et retournez dans les rues commerçantes animées pour la soirée. Confortable et efficace, sans souci de stationnement."
       },
       "gastro_picks": {
         "de": [
@@ -1155,10 +1155,10 @@
           "Validate your ticket upon boarding."
         ],
         "fr": [
-          "Procurez-vous un plan du réseau à l'office de tourisme.",
-          "Les bus vers le lac passent toutes les 15 minutes en été.",
+          "Récupérez un plan du réseau à l'office de tourisme.",
+          "Les bus vers le lac circulent toutes les 15 minutes en été.",
           "Votre carte d'hôte permet souvent de voyager gratuitement en bus.",
-          "Validez votre ticket lors de la montée."
+          "Validez votre titre de transport en montant à bord."
         ]
       }
     }

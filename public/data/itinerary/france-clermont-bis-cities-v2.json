@@ -21,7 +21,8 @@
             "de": "Place de Jaude",
             "hu": "Place de Jaude",
             "ro": "Place de Jaude",
-            "en": "Place de Jaude"
+            "en": "Place de Jaude",
+            "fr": "Place de Jaude"
           },
           "coords": [
             3.0818,
@@ -36,7 +37,8 @@
             "de": "Bewundern Sie die Statue von Vercingetorix.",
             "hu": "Csodáld meg Vercingetorix lovasszobrát.",
             "ro": "Admirați statuia ecvestră a lui Vercingétorix.",
-            "en": "Admire the equestrian statue of Vercingetorix."
+            "en": "Admire the equestrian statue of Vercingetorix.",
+            "fr": "Admirez la statue équestre de Vercingétorix."
           }
         },
         {
@@ -44,7 +46,8 @@
             "de": "Kathedrale Notre-Dame-de-l'Assomption",
             "hu": "Notre-Dame-de-l'Assomption katedrális",
             "ro": "Catedrala Notre-Dame-de-l'Assomption",
-            "en": "Cathédrale Notre-Dame-de-l'Assomption"
+            "en": "Cathédrale Notre-Dame-de-l'Assomption",
+            "fr": "Cathédrale Notre-Dame-de-l'Assomption"
           },
           "coords": [
             3.0853,
@@ -59,7 +62,8 @@
             "de": "Einzigartig durch den schwarzen Lavastein.",
             "hu": "Egyedülálló fekete lávakőből épült templom.",
             "ro": "Unică prin piatra de lavă neagră vulcanică.",
-            "en": "Unique cathedral built from black lava stone."
+            "en": "Unique cathedral built from black lava stone.",
+            "fr": "Cathédrale unique construite en pierre de lave noire."
           }
         },
         {
@@ -67,7 +71,8 @@
             "de": "Basilika Notre-Dame-du-Port",
             "hu": "Notre-Dame-du-Port bazilika",
             "ro": "Bazilica Notre-Dame-du-Port",
-            "en": "Basilique Notre-Dame-du-Port"
+            "en": "Basilique Notre-Dame-du-Port",
+            "fr": "Basilique Notre-Dame-du-Port"
           },
           "coords": [
             3.0898,
@@ -82,7 +87,8 @@
             "de": "UNESCO-Weltkulturerbe der Romanik.",
             "hu": "UNESCO világörökségi román stílusú ékszer.",
             "ro": "Bijuterie romanică înscrisă în UNESCO.",
-            "en": "Romanesque masterpiece listed by UNESCO."
+            "en": "Romanesque masterpiece listed by UNESCO.",
+            "fr": "Chef-d'œuvre roman inscrit par l'UNESCO."
           }
         },
         {
@@ -90,7 +96,8 @@
             "de": "Mittagessen in der Altstadt",
             "hu": "Ebéd az óvárosban",
             "ro": "Prânz în centrul vechi",
-            "en": "Lunch in the Old Town"
+            "en": "Lunch in the Old Town",
+            "fr": "Déjeuner dans la vieille ville"
           },
           "coords": [
             3.087,
@@ -105,7 +112,8 @@
             "de": "Probieren Sie Truffade aus der Auvergne.",
             "hu": "Kóstold meg az auvergne-i Truffade-ot.",
             "ro": "Gustați Truffade, specialitatea din Auvergne.",
-            "en": "Try Truffade, a local Auvergne specialty."
+            "en": "Try Truffade, a local Auvergne specialty.",
+            "fr": "Goûtez la Truffade, spécialité locale d'Auvergne."
           }
         },
         {
@@ -113,7 +121,8 @@
             "de": "Jardin Lecoq",
             "hu": "Jardin Lecoq",
             "ro": "Jardin Lecoq",
-            "en": "Jardin Lecoq"
+            "en": "Jardin Lecoq",
+            "fr": "Jardin Lecoq"
           },
           "coords": [
             3.0865,
@@ -128,7 +137,8 @@
             "de": "Ein schöner Ort für eine Kaffeepause.",
             "hu": "Gyönyörű hely egy délutáni kávéhoz.",
             "ro": "Un loc superb pentru o pauză de cafea.",
-            "en": "A beautiful spot for a coffee break."
+            "en": "A beautiful spot for a coffee break.",
+            "fr": "Un bel endroit pour une pause café."
           }
         },
         {
@@ -136,7 +146,8 @@
             "de": "Statue von Vercingétorix",
             "hu": "Vercingétorix szobra",
             "ro": "Statuia lui Vercingétorix",
-            "en": "Statue de Vercingétorix"
+            "en": "Statue de Vercingétorix",
+            "fr": "Statue de Vercingétorix"
           },
           "coords": [
             3.0818,
@@ -151,7 +162,8 @@
             "de": "Bartholdis Meisterwerk auf der Jaude.",
             "hu": "Bartholdi mesterműve a Jaude téren.",
             "ro": "Capodopera lui Bartholdi din Piața Jaude.",
-            "en": "Bartholdi's masterpiece on Place Jaude."
+            "en": "Bartholdi's masterpiece on Place Jaude.",
+            "fr": "Chef-d'œuvre de Bartholdi sur la Place de Jaude."
           }
         }
       ],
@@ -159,7 +171,8 @@
         "de": "Beginnen Sie Ihren Tag im Herzen der Stadt auf der Place de Jaude. Bestaunen Sie die schwarze Kathedrale, die aus Vulkangestein erbaut wurde, und die romanische Basilika. Nach einem herzhaften Mittagessen mit lokalem Käse spazieren Sie durch den Jardin Lecoq, um die entspannte Atmosphäre zu genießen.",
         "hu": "Kezdje a napot a város szívében, a Place de Jaude téren. Csodálja meg a vulkáni kőből épült fekete székesegyházat és a román stílusú bazilikát. Egy kiadós helyi sajtos ebéd után sétáljon a Jardin Lecoq parkban, élvezve a nyugodt környezetet.",
         "ro": "Începeți ziua în inima orașului, în Place de Jaude. Admirați catedrala neagră construită din piatră vulcanică și basilică romanică. După un prânz copios cu brânzeturi locale, plimbați-vă prin Jardin Lecoq pentru a vă bucura de atmosfera relaxată.",
-        "en": "Start your day in the heart of the city at Place de Jaude. Marvel at the black cathedral built from volcanic stone and the Romanesque basilica. After a hearty lunch with local cheese, stroll through Jardin Lecoq to enjoy the relaxed atmosphere."
+        "en": "Start your day in the heart of the city at Place de Jaude. Marvel at the black cathedral built from volcanic stone and the Romanesque basilica. After a hearty lunch with local cheese, stroll through Jardin Lecoq to enjoy the relaxed atmosphere.",
+        "fr": "Commencez la journée au cœur de la ville à la Place de Jaude. Émerveillez-vous devant la cathédrale noire en pierre volcanique et la basilique romane. Après un copieux déjeuner au fromage local, promenez-vous dans le Jardin Lecoq pour profiter de l'ambiance détendue."
       },
       "gastro_picks": {
         "de": [
@@ -275,6 +288,10 @@
         "en": [
           "Wear comfortable shoes for the cobblestone streets.",
           "The cathedral often closes briefly during lunchtime."
+        ],
+        "fr": [
+          "Portez des chaussures confortables pour les rues pavées.",
+          "La cathédrale ferme souvent brièvement pendant la pause déjeuner."
         ]
       }
     },
@@ -291,7 +308,8 @@
             "de": "Place de Jaude",
             "hu": "Place de Jaude",
             "ro": "Place de Jaude",
-            "en": "Place de Jaude"
+            "en": "Place de Jaude",
+            "fr": "Place de Jaude"
           },
           "coords": [
             3.0818,
@@ -306,7 +324,8 @@
             "de": "Startpunkt mit viel Platz.",
             "hu": "Tágas kiindulópont.",
             "ro": "Punct de plecare spațios.",
-            "en": "Spacious starting point."
+            "en": "Spacious starting point.",
+            "fr": "Point de départ spacieux."
           }
         },
         {
@@ -314,7 +333,8 @@
             "de": "Kathedrale",
             "hu": "Katedrális",
             "ro": "Catedrala",
-            "en": "Cathedral"
+            "en": "Cathedral",
+            "fr": "Cathédrale"
           },
           "coords": [
             3.0853,
@@ -329,7 +349,8 @@
             "de": "Fahrrad draußen sicher anschließen.",
             "hu": "Zárd le biztonságosan a biciklit.",
             "ro": "Încuiați bicicleta în siguranță afară.",
-            "en": "Lock your bike securely outside."
+            "en": "Lock your bike securely outside.",
+            "fr": "Verrouillez soigneusement votre vélo à l'extérieur."
           }
         },
         {
@@ -337,7 +358,8 @@
             "de": "L'Aventure Michelin",
             "hu": "Michelin Kaland",
             "ro": "L'Aventure Michelin",
-            "en": "L'Aventure Michelin"
+            "en": "L'Aventure Michelin",
+            "fr": "L'Aventure Michelin"
           },
           "coords": [
             3.1065,
@@ -352,7 +374,8 @@
             "de": "Interaktives Museum über Reifen.",
             "hu": "Interaktív múzeum a gumigyártásról.",
             "ro": "Muzeu interactiv despre anvelope.",
-            "en": "Interactive museum about tires."
+            "en": "Interactive museum about tires.",
+            "fr": "Musée interactif sur le pneumatique."
           }
         },
         {
@@ -360,7 +383,8 @@
             "de": "Musée d'Art Roger-Quilliot",
             "hu": "Roger-Quilliot Művészeti Múzeum",
             "ro": "Musée d'Art Roger-Quilliot",
-            "en": "Musée d'Art Roger-Quilliot"
+            "en": "Musée d'Art Roger-Quilliot",
+            "fr": "Musée d'Art Roger-Quilliot"
           },
           "coords": [
             3.115,
@@ -375,7 +399,8 @@
             "de": "In einem alten Kloster gelegen.",
             "hu": "Egy régi kolostorban található.",
             "ro": "Situat într-o fostă mănăstire.",
-            "en": "Located in a former convent."
+            "en": "Located in a former convent.",
+            "fr": "Situé dans un ancien couvent."
           }
         },
         {
@@ -383,7 +408,8 @@
             "de": "Gastro-Pause",
             "hu": "Gasztro szünet",
             "ro": "Pauză gastro",
-            "en": "Gastro break"
+            "en": "Gastro break",
+            "fr": "Pause gastro"
           },
           "coords": [
             3.11,
@@ -398,7 +424,8 @@
             "de": "Energieschub für den Anstieg.",
             "hu": "Energialöket a hegyi szakasz előtt.",
             "ro": "Energie pentru urcarea spre parc.",
-            "en": "Energy boost for the climb."
+            "en": "Energy boost for the climb.",
+            "fr": "Recharge d'énergie pour la montée."
           }
         },
         {
@@ -406,7 +433,8 @@
             "de": "Parc de Montjuzet",
             "hu": "Montjuzet park",
             "ro": "Parcul Montjuzet",
-            "en": "Parc de Montjuzet"
+            "en": "Parc de Montjuzet",
+            "fr": "Parc de Montjuzet"
           },
           "coords": [
             3.0655,
@@ -421,7 +449,8 @@
             "de": "Bester Panoramablick auf die Stadt.",
             "hu": "A legjobb panoráma a városra.",
             "ro": "Cea mai bună panoramă asupra orașului.",
-            "en": "Best panoramic view of the city."
+            "en": "Best panoramic view of the city.",
+            "fr": "Meilleure vue panoramique sur la ville."
           }
         },
         {
@@ -429,7 +458,8 @@
             "de": "Abschluss im Park",
             "hu": "Zárás a parkban",
             "ro": "Final în parc",
-            "en": "Park finale"
+            "en": "Park finale",
+            "fr": "Finale au parc"
           },
           "coords": [
             3.065,
@@ -444,7 +474,8 @@
             "de": "Genießen Sie den Sonnenuntergang.",
             "hu": "Élvezd a naplementét.",
             "ro": "Bucurați-vă de apus.",
-            "en": "Enjoy the sunset."
+            "en": "Enjoy the sunset.",
+            "fr": "Profitez du coucher de soleil."
           }
         }
       ],
@@ -452,7 +483,8 @@
         "de": "Diese Radtour verbindet das historische Zentrum mit der Industriegeschichte von Michelin. Nach dem Besuch der Museen im Norden erwartet Sie ein sportlicher Anstieg zum Parc de Montjuzet, der Sie mit einem atemberaubenden Blick auf die Vulkankette belohnt.",
         "hu": "Ez a kerékpáros túra összeköti a történelmi központot a Michelin ipari múltjával. Az északi múzeumok látogatása után egy sportos emelkedő vár a Montjuzet parkba, amely lélegzetelállító kilátással kárpótol a vulkánokra.",
         "ro": "Acest tur cu bicicleta îmbină centrul istoric cu istoria industrială a Michelin. După vizitarea muzeelor din nord, vă așteaptă o urcare sportivă spre Parcul Montjuzet, care vă va răsplăti cu o vedere uluitoare spre vulcani.",
-        "en": "This bike tour connects the historic center with Michelin's industrial heritage. After visiting the northern museums, a sporty climb awaits you to Parc de Montjuzet, rewarding you with a breathtaking view of the volcanoes."
+        "en": "This bike tour connects the historic center with Michelin's industrial heritage. After visiting the northern museums, a sporty climb awaits you to Parc de Montjuzet, rewarding you with a breathtaking view of the volcanoes.",
+        "fr": "Cette boucle à vélo relie le centre historique à l'héritage industriel de Michelin. Après la visite des musées du nord, une montée sportive vous attend jusqu'au Parc de Montjuzet, qui récompense par une vue imprenable sur les volcans."
       },
       "gastro_picks": {
         "de": [
@@ -552,6 +584,10 @@
         "en": [
           "Check your brakes before the Montjuzet descent.",
           "Use the C.Vélo bike-sharing system."
+        ],
+        "fr": [
+          "Vérifiez vos freins avant la descente de Montjuzet.",
+          "Utilisez le système de vélos en libre-service C.Vélo."
         ]
       }
     },
@@ -568,7 +604,8 @@
             "de": "Place de Jaude (Parken)",
             "hu": "Place de Jaude (Parkoló)",
             "ro": "Place de Jaude (Parcare)",
-            "en": "Place de Jaude (Parking)"
+            "en": "Place de Jaude (Parking)",
+            "fr": "Place de Jaude (Parking)"
           },
           "coords": [
             3.0818,
@@ -583,7 +620,8 @@
             "de": "Nutzen Sie das unterirdische Parkhaus.",
             "hu": "Használd a földalatti parkolóházat.",
             "ro": "Folosiți parcarea subterană.",
-            "en": "Use the underground parking garage."
+            "en": "Use the underground parking garage.",
+            "fr": "Utilisez le parking souterrain."
           }
         },
         {
@@ -591,7 +629,8 @@
             "de": "Kathedrale (Cluster Zentrum)",
             "hu": "Katedrális (Belvárosi séta)",
             "ro": "Catedrala (Cluster Centru)",
-            "en": "Cathedral (Center Cluster)"
+            "en": "Cathedral (Center Cluster)",
+            "fr": "Cathédrale (Centre)"
           },
           "coords": [
             3.0853,
@@ -606,7 +645,8 @@
             "de": "Zu Fuß vom Parkplatz Jaude.",
             "hu": "Gyalog a Jaude parkolótól.",
             "ro": "Pe jos de la parcarea Jaude.",
-            "en": "On foot from Jaude parking."
+            "en": "On foot from Jaude parking.",
+            "fr": "À pied depuis le parking Jaude."
           }
         },
         {
@@ -614,7 +654,8 @@
             "de": "Basilika Notre-Dame-du-Port",
             "hu": "Notre-Dame-du-Port bazilika",
             "ro": "Bazilica Notre-Dame-du-Port",
-            "en": "Basilique Notre-Dame-du-Port"
+            "en": "Basilique Notre-Dame-du-Port",
+            "fr": "Basilique Notre-Dame-du-Port"
           },
           "coords": [
             3.0898,
@@ -629,7 +670,8 @@
             "de": "Spaziergang durch die Altstadt.",
             "hu": "Séta az óvároson keresztül.",
             "ro": "Plimbare prin centrul vechi.",
-            "en": "Walk through the old town."
+            "en": "Walk through the old town.",
+            "fr": "Traversez la vieille ville à pied."
           }
         },
         {
@@ -637,7 +679,8 @@
             "de": "L'Aventure Michelin (Cluster Nord)",
             "hu": "Michelin Kaland (Északi cluster)",
             "ro": "L'Aventure Michelin (Cluster Nord)",
-            "en": "L'Aventure Michelin (North Cluster)"
+            "en": "L'Aventure Michelin (North Cluster)",
+            "fr": "L'Aventure Michelin (Pôle Nord)"
           },
           "coords": [
             3.1065,
@@ -652,7 +695,8 @@
             "de": "Eigener großer Parkplatz vorhanden.",
             "hu": "Saját nagy parkolóval rendelkezik.",
             "ro": "Dispune de parcare proprie mare.",
-            "en": "Has its own large parking lot."
+            "en": "Has its own large parking lot.",
+            "fr": "Dispose d'un grand parking."
           }
         },
         {
@@ -660,7 +704,8 @@
             "de": "Regionales Mittagessen",
             "hu": "Regionális ebéd",
             "ro": "Prânz regional",
-            "en": "Regional Lunch"
+            "en": "Regional Lunch",
+            "fr": "Déjeuner régional"
           },
           "coords": [
             3.108,
@@ -675,7 +720,8 @@
             "de": "Restaurants in der Nähe des Stadions.",
             "hu": "Éttermek a stadion közelében.",
             "ro": "Restaurante lângă stadion.",
-            "en": "Restaurants near the stadium."
+            "en": "Restaurants near the stadium.",
+            "fr": "Restaurants près du stade."
           }
         },
         {
@@ -683,7 +729,8 @@
             "de": "Parc de Montjuzet (Panorama)",
             "hu": "Montjuzet park (Kilátó)",
             "ro": "Parcul Montjuzet (Panoramă)",
-            "en": "Parc de Montjuzet (Viewpoint)"
+            "en": "Parc de Montjuzet (Viewpoint)",
+            "fr": "Parc de Montjuzet (Point de vue)"
           },
           "coords": [
             3.0655,
@@ -698,7 +745,8 @@
             "de": "Kostenloses Parken am Parkeingang.",
             "hu": "Ingyenes parkolás a bejáratnál.",
             "ro": "Parcare gratuită la intrare.",
-            "en": "Free parking at the entrance."
+            "en": "Free parking at the entrance.",
+            "fr": "Parking gratuit à l'entrée."
           }
         },
         {
@@ -706,7 +754,8 @@
             "de": "Abschluss-Blick",
             "hu": "Búcsú kilátás",
             "ro": "Vedere finală",
-            "en": "Final View"
+            "en": "Final View",
+            "fr": "Vue finale"
           },
           "coords": [
             3.065,
@@ -721,7 +770,8 @@
             "de": "Perfekter Ort für Fotos.",
             "hu": "Tökéletes hely a fotózáshoz.",
             "ro": "Loc perfect pentru fotografii.",
-            "en": "Perfect spot for photos."
+            "en": "Perfect spot for photos.",
+            "fr": "Endroit parfait pour des photos."
           }
         }
       ],
@@ -729,7 +779,8 @@
         "de": "Nutzen Sie das Auto, um bequem zwischen dem Stadtzentrum und den Außenbezirken zu wechseln. Besuchen Sie zuerst den historischen Kern zu Fuß, fahren Sie dann zum beeindruckenden Michelin-Museum und beenden Sie den Tag auf dem Montjuzet-Hügel mit Blick auf die Chaîne des Puys.",
         "hu": "Használja az autót a városközpont és a külső negyedek közötti kényelmes közlekedéshez. Fedezze fel gyalog a történelmi magot, majd hajtson el a lenyűgöző Michelin múzeumba, végül zárja a napot a Montjuzet-dombon, kilátással a vulkánokra.",
         "ro": "Folosiți mașina pentru a schimba comod între centrul orașului și cartierele exterioare. Explorați pe jos nucleul istoric, apoi conduceți spre impresionantul muzeu Michelin și încheiați ziua pe dealul Montjuzet cu vedere spre vulcani.",
-        "en": "Use the car to comfortably move between the city center and the outer districts. Explore the historic core on foot, then drive to the impressive Michelin museum, and end the day on Montjuzet hill with a view of the volcanoes."
+        "en": "Use the car to comfortably move between the city center and the outer districts. Explore the historic core on foot, then drive to the impressive Michelin museum, and end the day on Montjuzet hill with a view of the volcanoes.",
+        "fr": "Utilisez la voiture pour vous déplacer confortablement entre le centre-ville et les quartiers périphériques. Explorez le cœur historique à pied, puis conduisez jusqu'à l'impressionnant musée Michelin, et terminez la journée sur la colline de Montjuzet avec vue sur les volcans."
       },
       "gastro_picks": {
         "de": [
@@ -829,6 +880,10 @@
         "en": [
           "Avoid rush hour around Place de Jaude.",
           "Parking garages are more convenient in the center than street spots."
+        ],
+        "fr": [
+          "Évitez l'heure de pointe autour de la Place de Jaude.",
+          "Les parkings souterrains sont plus pratiques au centre que les places de rue."
         ]
       }
     },
@@ -845,7 +900,8 @@
             "de": "Place de Jaude (Tram A)",
             "hu": "Place de Jaude (Villamos A)",
             "ro": "Place de Jaude (Tramvai A)",
-            "en": "Place de Jaude (Tram A)"
+            "en": "Place de Jaude (Tram A)",
+            "fr": "Place de Jaude (Tram A)"
           },
           "coords": [
             3.0818,
@@ -860,7 +916,8 @@
             "de": "Die Tram auf Gummireifen ist ikonisch.",
             "hu": "A gumikerekű villamos igazi ikon.",
             "ro": "Tramvaiul pe anvelope este iconic.",
-            "en": "The rubber-tired tram is iconic."
+            "en": "The rubber-tired tram is iconic.",
+            "fr": "Le tram à pneumatiques est emblématique."
           }
         },
         {
@@ -868,7 +925,8 @@
             "de": "Kathedrale (Cluster Zentrum)",
             "hu": "Katedrális (Központi cluster)",
             "ro": "Catedrala (Cluster Centru)",
-            "en": "Cathedral (Center Cluster)"
+            "en": "Cathedral (Center Cluster)",
+            "fr": "Cathédrale (Centre)"
           },
           "coords": [
             3.0853,
@@ -883,7 +941,8 @@
             "de": "Nur ein kurzer Spaziergang von der Tram.",
             "hu": "Rövid séta a villamostól.",
             "ro": "O scurtă plimbare de la tramvai.",
-            "en": "A short walk from the tram stop."
+            "en": "A short walk from the tram stop.",
+            "fr": "À quelques pas de l'arrêt de tram."
           }
         },
         {
@@ -891,7 +950,8 @@
             "de": "Musée d'Art Roger-Quilliot",
             "hu": "Művészeti Múzeum",
             "ro": "Musée d'Art Roger-Quilliot",
-            "en": "Musée d'Art Roger-Quilliot"
+            "en": "Musée d'Art Roger-Quilliot",
+            "fr": "Musée d'Art Roger-Quilliot"
           },
           "coords": [
             3.115,
@@ -906,7 +966,8 @@
             "de": "Tram A Richtung Champratel.",
             "hu": "A villamos Champratel irányába.",
             "ro": "Tramvaiul A spre Champratel.",
-            "en": "Tram A towards Champratel."
+            "en": "Tram A towards Champratel.",
+            "fr": "Tram A en direction de Champratel."
           }
         },
         {
@@ -914,7 +975,8 @@
             "de": "Mittagessen in Montferrand",
             "hu": "Ebéd Montferrand-ban",
             "ro": "Prânz în Montferrand",
-            "en": "Lunch in Montferrand"
+            "en": "Lunch in Montferrand",
+            "fr": "Déjeuner à Montferrand"
           },
           "coords": [
             3.116,
@@ -929,7 +991,8 @@
             "de": "Das mittelalterliche Viertel genießen.",
             "hu": "Élvezd a középkori negyed hangulatát.",
             "ro": "Bucurați-vă de cartierul medieval.",
-            "en": "Enjoy the medieval district vibes."
+            "en": "Enjoy the medieval district vibes.",
+            "fr": "Profitez de l'atmosphère du quartier médiéval."
           }
         },
         {
@@ -937,7 +1000,8 @@
             "de": "L'Aventure Michelin",
             "hu": "Michelin Kaland",
             "ro": "L'Aventure Michelin",
-            "en": "L'Aventure Michelin"
+            "en": "L'Aventure Michelin",
+            "fr": "L'Aventure Michelin"
           },
           "coords": [
             3.1065,
@@ -952,7 +1016,8 @@
             "de": "Haltestelle 'Stade Marcel Michelin'.",
             "hu": "'Stade Marcel Michelin' megálló.",
             "ro": "Stația 'Stade Marcel Michelin'.",
-            "en": "Stop 'Stade Marcel Michelin'."
+            "en": "Stop 'Stade Marcel Michelin'.",
+            "fr": "Arrêt « Stade Marcel Michelin »."
           }
         },
         {
@@ -960,7 +1025,8 @@
             "de": "Rückkehr zur Jaude",
             "hu": "Visszatérés a Jaude-ra",
             "ro": "Revenire la Jaude",
-            "en": "Return to Jaude"
+            "en": "Return to Jaude",
+            "fr": "Retour à Jaude"
           },
           "coords": [
             3.0815,
@@ -975,7 +1041,8 @@
             "de": "Abschluss im Herzen der Stadt.",
             "hu": "Befejezés a város szívében.",
             "ro": "Final în inima orașului.",
-            "en": "Finish in the heart of the city."
+            "en": "Finish in the heart of the city.",
+            "fr": "Terminez au cœur de la ville."
           }
         }
       ],
@@ -983,7 +1050,8 @@
         "de": "Dank der hochmodernen Tramlinie A lässt sich Clermont-Ferrand perfekt ohne Auto erkunden. Verbinden Sie das moderne Stadtzentrum mit dem mittelalterlichen Montferrand und tauchen Sie in die Welt von Michelin ein, bevor Sie den Abend auf der belebten Place de Jaude ausklingen lassen.",
         "hu": "A modern A villamosvonalnak köszönhetően Clermont-Ferrand tökéletesen felfedezhető autó nélkül is. Kösse össze a modern belvárost a középkori Montferrand negyeddel, és merüljön el a Michelin világában, mielőtt az estét a pezsgő Place de Jaude téren zárná.",
         "ro": "Datorită liniei moderne de tramvai A, Clermont-Ferrand poate fi explorat perfect fără mașină. Conectați centrul modern cu cartierul medieval Montferrand și scufundați-vă în lumea Michelin, înainte de a încheia seara în efervescenta Piață Jaude.",
-        "en": "Thanks to the modern Tram A line, Clermont-Ferrand can be perfectly explored without a car. Connect the modern city center with the medieval Montferrand district and dive into the world of Michelin before ending the evening at the lively Place de Jaude."
+        "en": "Thanks to the modern Tram A line, Clermont-Ferrand can be perfectly explored without a car. Connect the modern city center with the medieval Montferrand district and dive into the world of Michelin before ending the evening at the lively Place de Jaude.",
+        "fr": "Grâce à la moderne ligne de Tram A, Clermont-Ferrand se visite parfaitement sans voiture. Reliez le centre-ville moderne au quartier médiéval de Montferrand et plongez dans l'univers Michelin avant de finir la soirée sur la vivante Place de Jaude."
       },
       "gastro_picks": {
         "de": [
@@ -1083,6 +1151,10 @@
         "en": [
           "Buy a day ticket at the machine.",
           "The tram runs every 6-8 minutes."
+        ],
+        "fr": [
+          "Achetez un billet journée au distributeur.",
+          "Le tram passe toutes les 6–8 minutes."
         ]
       }
     }

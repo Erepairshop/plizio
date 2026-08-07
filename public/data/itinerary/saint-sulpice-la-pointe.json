@@ -21,7 +21,8 @@
             "de": "Jean Jaurès Platz",
             "hu": "Jean Jaurès tér",
             "ro": "Piața Jean Jaurès",
-            "en": "Jean Jaurès Square"
+            "en": "Jean Jaurès Square",
+            "fr": "Place Jean Jaurès"
           },
           "coords": [
             1.686129,
@@ -36,7 +37,8 @@
             "de": "Beginnen Sie Ihren Tag im lebhaften Zentrum der Stadt, ideal für einen schnellen Kaffee, bevor Sie die historischen Sehenswürdigkeiten erkunden.",
             "hu": "Kezdje a napot a város nyüzsgő központjában, amely tökéletes egy gyors kávéra és az emberek megfigyelésére a történelmi nevezetességek felfedezése előtt.",
             "ro": "Începeți ziua în centrul vibrant al orașului, locul perfect pentru o cafea rapidă și o pauză relaxantă înainte de a explora atracțiile istorice.",
-            "en": "Start your day at the vibrant heart of the city, perfect for a quick coffee and people-watching before exploring the local historical sights."
+            "en": "Start your day at the vibrant heart of the city, perfect for a quick coffee and people-watching before exploring the local historical sights.",
+            "fr": "Commencez votre journée au cœur vibrant de la ville, idéal pour un café rapide et observer les passants avant d'explorer les sites historiques locaux."
           }
         },
         {
@@ -44,7 +46,8 @@
             "de": "Kirche Saint-Sulpice",
             "hu": "Saint-Sulpice templom",
             "ro": "Biserica Saint-Sulpice",
-            "en": "Église Saint-Sulpice"
+            "en": "Église Saint-Sulpice",
+            "fr": "Église Saint-Sulpice"
           },
           "coords": [
             1.686543,
@@ -59,7 +62,8 @@
             "de": "Bewundern Sie die markante Architektur dieser Kirche und überprüfen Sie die Öffnungszeiten an der Tür, da diese wochentags variieren können.",
             "hu": "Csodálja meg ennek a kiemelkedő templomnak a lenyűgöző építészetét, és mindenképpen ellenőrizze az ajtón lévő nyitvatartási időt, mivel az változhat.",
             "ro": "Admirați arhitectura remarcabilă a acestei biserici proeminente și asigurați-vă că verificați orarul pe ușă, deoarece poate varia în timpul săptămânii.",
-            "en": "Admire the striking architecture of this prominent church, and be sure to check the opening times on the door as they can vary during weekdays."
+            "en": "Admire the striking architecture of this prominent church, and be sure to check the opening times on the door as they can vary during weekdays.",
+            "fr": "Admirez l'architecture saisissante de cette église emblématique, et n'oubliez pas de vérifier les horaires d'ouverture sur la porte car ils peuvent varier en semaine."
           }
         },
         {
@@ -67,7 +71,8 @@
             "de": "Castela",
             "hu": "Castela",
             "ro": "Castela",
-            "en": "Castela"
+            "en": "Castela",
+            "fr": "Castela"
           },
           "coords": [
             1.688214,
@@ -82,7 +87,8 @@
             "de": "Erkunden Sie die faszinierenden unterirdischen Gänge dieser mittelalterlichen Burgruine, aber denken Sie an festes Schuhwerk für das unebene Gelände.",
             "hu": "Fedezze fel e középkori várrom lenyűgöző földalatti folyosóit, de ne felejtsen el masszív cipőt viselni, mivel a talaj helyenként meglehetősen egyenetlen.",
             "ro": "Explorați pasajele subterane fascinante ale acestei ruine medievale, dar nu uitați să purtați încălțăminte rezistentă, deoarece terenul este accidentat.",
-            "en": "Explore the fascinating underground passages of this medieval castle ruin, but remember to wear sturdy shoes as the terrain can be uneven."
+            "en": "Explore the fascinating underground passages of this medieval castle ruin, but remember to wear sturdy shoes as the terrain can be uneven.",
+            "fr": "Explorez les fascinants passages souterrains de cette ruine de château médiéval, mais pensez à porter des chaussures solides car le terrain peut être irrégulier."
           }
         },
         {
@@ -90,7 +96,8 @@
             "de": "Saint-Sulpice Kirche",
             "hu": "Saint-Sulpice-templom",
             "ro": "Biserica Saint-Sulpice",
-            "en": "Saint-Sulpice Church"
+            "en": "Saint-Sulpice Church",
+            "fr": "Église Saint-Sulpice"
           },
           "coords": [
             1.683568,
@@ -105,7 +112,8 @@
             "de": "Treten Sie ein, um die friedliche Atmosphäre und die schönen Buntglasfenster zu genießen, die diesen Ort zu einem ruhigen Rückzugsort machen.",
             "hu": "Lépjen be, hogy értékelje a békés légkört és a gyönyörű ólomüveg ablakokat, amelyek ezt a helyet a városközpont nyugodt menedékévé teszik.",
             "ro": "Pășiți înăuntru pentru a aprecia atmosfera pașnică și vitraliile superbe, transformând acest loc într-un refugiu liniștit departe de centrul aglomerat.",
-            "en": "Step inside to appreciate the peaceful atmosphere and beautiful stained glass windows, making it a quiet retreat from the busy city center."
+            "en": "Step inside to appreciate the peaceful atmosphere and beautiful stained glass windows, making it a quiet retreat from the busy city center.",
+            "fr": "Entrez pour apprécier l'atmosphère paisible et les magnifiques vitraux, un paisible refuge loin de l'animation du centre-ville."
           }
         },
         {
@@ -113,7 +121,8 @@
             "de": "Spénale Park",
             "hu": "Spénale park",
             "ro": "Parcul Spénale",
-            "en": "Spénale Park"
+            "en": "Spénale Park",
+            "fr": "Spénale Park"
           },
           "coords": [
             1.682807,
@@ -128,7 +137,8 @@
             "de": "Machen Sie einen gemütlichen Spaziergang oder ein entspanntes Picknick in diesem gepflegten Park, der viele schattige Bänke für eine Pause bietet.",
             "hu": "Tegyen egy kényelmes sétát vagy élvezze a pihentető pikniket ebben a gyönyörűen karbantartott parkban, amely rengeteg árnyékos padot kínál.",
             "ro": "Faceți o plimbare relaxantă sau bucurați-vă de un picnic în acest parc frumos întreținut, care oferă numeroase bănci umbrite pentru o pauză binemeritată.",
-            "en": "Take a leisurely stroll or enjoy a relaxing picnic in this beautifully maintained park, which offers plenty of shaded benches for a restful break."
+            "en": "Take a leisurely stroll or enjoy a relaxing picnic in this beautifully maintained park, which offers plenty of shaded benches for a restful break.",
+            "fr": "Faites une balade tranquille ou profitez d'un pique-nique relaxant dans ce parc magnifiquement entretenu, qui offre de nombreux bancs ombragés pour une pause reposante."
           }
         }
       ],
@@ -136,7 +146,8 @@
         "de": "Beginnen Sie Ihren Morgen am Jean Jaurès Platz und genießen Sie die lokale Atmosphäre.\n\nErkunden Sie mittags das religiöse Erbe der Église Saint-Sulpice und die Burgruine Castela.\n\nGenießen Sie am Nachmittag einen friedlichen Besuch der Saint-Sulpice Kirche.\n\nBeenden Sie Ihren Tag mit einem entspannten Abendspaziergang durch den üppigen Spénale Park.",
         "hu": "Kezdje a reggelt a Jean Jaurès téren, magába szívva a helyi hangulatot.\n\nDélben fedezze fel az Église Saint-Sulpice vallási örökségét és a Castela középkori romjait.\n\nDélután élvezze a békés látogatást a Saint-Sulpice templomban.\n\nZárja a napot egy pihentető esti sétával a buja Spénale parkban, amely tökéletes levezetése a városnézésnek.",
         "ro": "Începeți dimineața în Piața Jean Jaurès, bucurându-vă de atmosfera locală.\n\nLa prânz, explorați moștenirea religioasă la Église Saint-Sulpice și ruinele medievale Castela.\n\nDupă-amiaza, bucurați-vă de o vizită liniștită la Biserica Saint-Sulpice.\n\nÎncheiați-vă ziua cu o plimbare relaxantă de seară prin frumosul și verdele Parc Spénale.",
-        "en": "Start your morning at Jean Jaurès Square, soaking in the local atmosphere.\n\nBy midday, explore the religious heritage at Église Saint-Sulpice and the medieval ruins of Castela.\n\nIn the afternoon, enjoy a peaceful visit to Saint-Sulpice Church.\n\nConclude your day with a relaxing evening stroll through the lush Spénale Park."
+        "en": "Start your morning at Jean Jaurès Square, soaking in the local atmosphere.\n\nBy midday, explore the religious heritage at Église Saint-Sulpice and the medieval ruins of Castela.\n\nIn the afternoon, enjoy a peaceful visit to Saint-Sulpice Church.\n\nConclude your day with a relaxing evening stroll through the lush Spénale Park.",
+        "fr": "Commencez votre matinée à la place Jean Jaurès, en vous imprégnant de l'atmosphère locale.\n\nÀ midi, explorez le patrimoine religieux à l'Église Saint-Sulpice et les ruines médiévales de Castela.\n\nL'après-midi, profitez d'une visite paisible à l'église Saint-Sulpice.\n\nConcluez votre journée par une promenade du soir relaxante à travers le luxuriant parc Spénale."
       },
       "variants": {
         "rainy": {
@@ -144,7 +155,8 @@
             "de": "Beginnen Sie den regnerischen Morgen am Jean Jaurès Platz mit einem Schirm. Suchen Sie mittags Zuflucht in der Castela-Ruine. Der Nachmittag bietet schützende Kirchengewölbe, bevor Sie den regennassen Spénale Park erreichen. Ein gemütlicher Abend rundet den Tag ab.",
             "hu": "Kezdje az esős reggelt egy esernyővel a Jean Jaurès téren. Délben keressen menedéket a Castela fedett részein. A délután folyamán a történelmi templomok nyújtanak száraz menedéket, mielőtt átsétálna az esőáztatta Spénale parkon. Az este már békés, beltéri pihenést tartogat.",
             "ro": "Începeți dimineața ploioasă în Piața Jean Jaurès cu o umbrelă. La prânz, căutați adăpost în ruinele Castela. După-amiaza oferă sanctuare uscate în bisericile istorice, urmate de o plimbare scurtă prin Parcul Spénale umed. Seara aduce o relaxare binemeritată la interior.",
-            "en": "Start your rainy morning at Jean Jaurès Square with an umbrella. At noon, seek shelter around the Castela ruins. The afternoon offers dry sanctuary inside historic churches before a brisk walk through the wet Spénale Park. The evening calls for cozy indoor relaxation."
+            "en": "Start your rainy morning at Jean Jaurès Square with an umbrella. At noon, seek shelter around the Castela ruins. The afternoon offers dry sanctuary inside historic churches before a brisk walk through the wet Spénale Park. The evening calls for cozy indoor relaxation.",
+            "fr": "Commencez votre matinée pluvieuse à la place Jean Jaurès avec un parapluie. À midi, abritez-vous autour des ruines de Castela. L'après-midi offre un refuge sec à l'intérieur des églises historiques avant une marche vive à travers le parc Spénale mouillé. Le soir, détendez-vous à l'intérieur."
           },
           "stops": [
             {
@@ -152,13 +164,15 @@
                 "de": "Jean Jaurès Platz",
                 "hu": "Jean Jaurès tér",
                 "ro": "Piața Jean Jaurès",
-                "en": "Jean Jaurès Square"
+                "en": "Jean Jaurès Square",
+                "fr": "Place Jean Jaurès"
               },
               "tip_5lang": {
                 "de": "Bewundern Sie die zentrale Architektur des Platzes, aber tragen Sie unbedingt wasserfeste Schuhe, um den Pfützen auszuweichen.",
                 "hu": "Csodálja meg a tér központi építészetét, de mindenképpen viseljen vízálló cipőt a pocsolyák kényelmes elkerülése érdekében.",
                 "ro": "Admirați arhitectura centrală a pieței, dar asigurați-vă că purtați încălțăminte impermeabilă pentru a evita confortabil bălțile.",
-                "en": "Admire the central architecture of the square, but make sure to wear waterproof boots to navigate the puddles comfortably."
+                "en": "Admire the central architecture of the square, but make sure to wear waterproof boots to navigate the puddles comfortably.",
+                "fr": "Admirez l'architecture centrale de la place, mais assurez-vous de porter des bottes imperméables pour traverser les flaques confortablement."
               }
             },
             {
@@ -166,13 +180,15 @@
                 "de": "Kirche Saint-Sulpice",
                 "hu": "Saint-Sulpice templom",
                 "ro": "Biserica Saint-Sulpice",
-                "en": "Église Saint-Sulpice"
+                "en": "Église Saint-Sulpice",
+                "fr": "Église Saint-Sulpice"
               },
               "tip_5lang": {
                 "de": "Treten Sie ein, um die atemberaubenden Buntglasfenster zu bewundern, die eine perfekte trockene Zuflucht vor dem Morgenregen bieten.",
                 "hu": "Lépjen be, hogy megcsodálja a lenyűgöző ólomüveg ablakokat, melyek tökéletes száraz menedéket nyújtanak a reggeli zápor elől.",
                 "ro": "Pășiți înăuntru pentru a aprecia vitraliile uimitoare, care oferă o evadare uscată perfectă din ploaia grea de dimineață.",
-                "en": "Step inside to appreciate the stunning stained glass windows, which offer a perfect dry escape from the heavy morning rain outside."
+                "en": "Step inside to appreciate the stunning stained glass windows, which offer a perfect dry escape from the heavy morning rain outside.",
+                "fr": "Entrez pour apprécier les superbes vitraux, qui offrent une excellente échappée au sec face à la forte pluie du matin."
               }
             },
             {
@@ -180,13 +196,15 @@
                 "de": "Castela",
                 "hu": "Castela",
                 "ro": "Castela",
-                "en": "Castela"
+                "en": "Castela",
+                "fr": "Castela"
               },
               "tip_5lang": {
                 "de": "Erkunden Sie diese faszinierenden mittelalterlichen Ruinen; die unterirdischen Teile bleiben völlig trocken, ideal für regnerische Tage.",
                 "hu": "Fedezze fel ezeket a lenyűgöző középkori romokat; a földalatti részek teljesen szárazak maradnak, ideális esős napi programot nyújtva.",
                 "ro": "Explorați aceste ruine medievale fascinante; părțile subterane rămân complet uscate, fiind o oprire istorică ideală pe timp de ploaie.",
-                "en": "Explore these fascinating medieval ruins; the subterranean parts remain completely dry, making it an ideal rainy day historical stop."
+                "en": "Explore these fascinating medieval ruins; the subterranean parts remain completely dry, making it an ideal rainy day historical stop.",
+                "fr": "Explorez ces fascinantes ruines médiévales ; les parties souterraines restent complètement sèches, en faisant un arrêt historique idéal pour les jours de pluie."
               }
             },
             {
@@ -194,13 +212,15 @@
                 "de": "Saint-Sulpice Kirche",
                 "hu": "Saint-Sulpice-templom",
                 "ro": "Biserica Saint-Sulpice",
-                "en": "Saint-Sulpice Church"
+                "en": "Saint-Sulpice Church",
+                "fr": "Église Saint-Sulpice"
               },
               "tip_5lang": {
                 "de": "Beachten Sie die feinen Altardetails in dieser friedlichen Kirche, ein großartiger Ort, um vorbeiziehende Schauer abzuwarten.",
                 "hu": "Figyelje meg a békés templom bonyolult oltárrészleteit, kiváló hely kivárni a múló záporokat, miközben élvezi a helyi történelmet.",
                 "ro": "Observați detaliile complicate ale altarului din această biserică liniștită, un loc excelent pentru a aștepta trecerea averselor scurte.",
-                "en": "Notice the intricate altar details inside this peaceful church, a great place to wait out passing showers while enjoying local history."
+                "en": "Notice the intricate altar details inside this peaceful church, a great place to wait out passing showers while enjoying local history.",
+                "fr": "Remarquez les détails complexes de l'autel à l'intérieur de cette église paisible, un excellent endroit pour attendre la fin d'une averse tout en profitant de l'histoire locale."
               }
             },
             {
@@ -208,13 +228,15 @@
                 "de": "Spénale Park",
                 "hu": "Spénale park",
                 "ro": "Parcul Spénale",
-                "en": "Spénale Park"
+                "en": "Spénale Park",
+                "fr": "Parc Spénale"
               },
               "tip_5lang": {
                 "de": "Machen Sie einen kurzen Spaziergang durch den nebligen Park, aber bleiben Sie auf den gepflasterten Wegen, um tiefen Schlamm zu vermeiden.",
                 "hu": "Tegyen egy rövid sétát a ködös parkban az esőáztatta lombozatért, de maradjon a burkolt ösvényeken a sár elkerülése végett.",
                 "ro": "Faceți o scurtă plimbare prin parcul cețos pentru a vedea frunzișul proaspăt, dar rămâneți pe aleile pavate pentru a evita noroiul.",
-                "en": "Take a short stroll through the misty park to see the vibrant rain-washed foliage, but stick to the paved paths to avoid thick mud."
+                "en": "Take a short stroll through the misty park to see the vibrant rain-washed foliage, but stick to the paved paths to avoid thick mud.",
+                "fr": "Faites une courte promenade dans le parc brumeux pour voir le feuillage vif lavé par la pluie, mais restez sur les chemins pavés pour éviter la boue épaisse."
               }
             }
           ]
@@ -224,7 +246,8 @@
             "de": "Ein frostiger Morgen am Jean Jaurès Platz verlangt nach warmer Kleidung. Mittags wärmt Sie ein zügiger Spaziergang zur Castela auf. Genießen Sie nachmittags die Stille der Kirchen, bevor die Sonne früh über dem Spénale Park untergeht. Der Abend wird gemütlich drinnen verbracht.",
             "hu": "A fagyos reggel a Jean Jaurès téren vastag, meleg ruházatot kíván. Délben egy lendületes séta a Castela felé felmelegíti. Délután élvezze a templomok csendjét, mielőtt a nap korán, 17 óra körül lenyugszik a Spénale park felett. Az estét töltse egy meleg, belső térben.",
             "ro": "O dimineață geroasă în Piața Jean Jaurès necesită haine groase. La prânz, o plimbare vioaie către Castela vă va încălzi. După-amiaza, bucurați-vă de liniștea bisericilor înainte ca soarele să apună devreme, în jur de 17:00, peste Parcul Spénale. Seara trebuie petrecută confortabil înăuntru.",
-            "en": "A frosty morning at Jean Jaurès Square demands warm layers. At noon, a brisk walk to the Castela will warm you up. In the afternoon, enjoy the quiet of the churches before the sun sets early around 5 PM over Spénale Park. Spend your winter evening relaxing indoors."
+            "en": "A frosty morning at Jean Jaurès Square demands warm layers. At noon, a brisk walk to the Castela will warm you up. In the afternoon, enjoy the quiet of the churches before the sun sets early around 5 PM over Spénale Park. Spend your winter evening relaxing indoors.",
+            "fr": "Une matinée glaciale à la place Jean Jaurès impose des couches chaudes. À midi, une marche vive jusqu'à Castela vous réchauffera. L'après-midi, profitez du calme des églises avant que le soleil ne se couche tôt vers 17h au-dessus du parc Spénale. Passez votre soirée d'hiver à vous détendre à l'intérieur."
           },
           "stops": [
             {
@@ -232,13 +255,15 @@
                 "de": "Jean Jaurès Platz",
                 "hu": "Jean Jaurès tér",
                 "ro": "Piața Jean Jaurès",
-                "en": "Jean Jaurès Square"
+                "en": "Jean Jaurès Square",
+                "fr": "Place Jean Jaurès"
               },
               "tip_5lang": {
                 "de": "Genießen Sie den ruhigen Charme des Stadtzentrums, aber tragen Sie unbedingt Thermokleidung und Handschuhe gegen den strengen Morgenfrost.",
                 "hu": "Élvezze a városközpont csendes báját, de mindenképpen viseljen termó rétegeket és kesztyűt, mert a reggeli fagy igen csípős lehet.",
                 "ro": "Admirați farmecul liniștit al centrului orașului, asigurându-vă că purtați straturi termice și mănuși, deoarece gerul de dimineață este tăios.",
-                "en": "Take in the quiet charm of the town center, ensuring you wear thermal layers and gloves as the morning frost can be quite biting."
+                "en": "Take in the quiet charm of the town center, ensuring you wear thermal layers and gloves as the morning frost can be quite biting.",
+                "fr": "Appréciez le charme tranquille du centre-ville, en veillant à porter des couches thermiques et des gants car le givre matinal peut être mordant."
               }
             },
             {
@@ -246,13 +271,15 @@
                 "de": "Kirche Saint-Sulpice",
                 "hu": "Saint-Sulpice templom",
                 "ro": "Biserica Saint-Sulpice",
-                "en": "Église Saint-Sulpice"
+                "en": "Église Saint-Sulpice",
+                "fr": "Église Saint-Sulpice"
               },
               "tip_5lang": {
                 "de": "Die dicken Steinmauern bieten eine hervorragende Isolierung gegen den kalten Wind, sodass Sie die historischen Fresken friedlich bewundern können.",
                 "hu": "A vastag kőfalak kiváló szigetelést nyújtanak a hideg szél ellen, így békésen megcsodálhatja a belső, történelmi freskókat.",
                 "ro": "Pereții groși de piatră oferă o izolație excelentă împotriva vântului rece, permițându-vă să admirați în liniște frescele istorice interioare.",
-                "en": "The thick stone walls provide excellent insulation against the cold wind, allowing you to peacefully admire the historic frescoes inside."
+                "en": "The thick stone walls provide excellent insulation against the cold wind, allowing you to peacefully admire the historic frescoes inside.",
+                "fr": "Les épais murs de pierre offrent une excellente isolation contre le vent froid, vous permettant d'admirer paisiblement les fresques historiques à l'intérieur."
               }
             },
             {
@@ -260,13 +287,15 @@
                 "de": "Castela",
                 "hu": "Castela",
                 "ro": "Castela",
-                "en": "Castela"
+                "en": "Castela",
+                "fr": "Castela"
               },
               "tip_5lang": {
                 "de": "Die unterirdischen Gänge dieser Ruine bieten ein überraschend mildes Klima und schützen Sie vor der rauen Winterbrise draußen.",
                 "hu": "E romok földalatti átjárói meglepően enyhe klímát kínálnak, megvédve Önt a zord téli szellőktől a felfedezés során.",
                 "ro": "Pasajele subterane ale acestei ruine oferă un climat surprinzător de temperat, protejându-vă de briza aspră a iernii de afară.",
-                "en": "The underground passages of this ruin offer a surprisingly temperate climate, shielding you from the harsh winter breeze outside."
+                "en": "The underground passages of this ruin offer a surprisingly temperate climate, shielding you from the harsh winter breeze outside.",
+                "fr": "Les passages souterrains de cette ruine offrent un climat étonnamment tempéré, vous protégeant des vents d'hiver rudes à l'extérieur."
               }
             },
             {
@@ -274,13 +303,15 @@
                 "de": "Saint-Sulpice Kirche",
                 "hu": "Saint-Sulpice-templom",
                 "ro": "Biserica Saint-Sulpice",
-                "en": "Saint-Sulpice Church"
+                "en": "Saint-Sulpice Church",
+                "fr": "Église Saint-Sulpice"
               },
               "tip_5lang": {
                 "de": "Ein ruhiger Ort zum Nachdenken; das Winterlicht durch das Buntglas ist wunderschön, aber behalten Sie den Mantel an, da es kühl bleibt.",
                 "hu": "Csendes menedék az elmélkedésre; az ólomüvegen átszűrődő téli fény gyönyörű, de tartsa magán a kabátját, mert hűvös van bent.",
                 "ro": "Un sanctuar liniștit pentru reflecție; lumina de iarnă ce trece prin vitralii este superbă, dar țineți paltonul pe voi, fiindcă e răcoare.",
-                "en": "A quiet sanctuary to reflect in; the winter light filtering through the stained glass is beautiful, but keep your coat on as it stays chilly."
+                "en": "A quiet sanctuary to reflect in; the winter light filtering through the stained glass is beautiful, but keep your coat on as it stays chilly.",
+                "fr": "Un sanctuaire tranquille pour la réflexion ; la lumière hivernale filtrant à travers les vitraux est belle, mais gardez votre manteau car il reste frais."
               }
             },
             {
@@ -288,13 +319,15 @@
                 "de": "Spénale Park",
                 "hu": "Spénale park",
                 "ro": "Parcul Spénale",
-                "en": "Spénale Park"
+                "en": "Spénale Park",
+                "fr": "Parc Spénale"
               },
               "tip_5lang": {
                 "de": "Genießen Sie die frostige Schönheit der ruhenden Bäume vor dem frühen Sonnenuntergang um 17 Uhr, bevor es Zeit für heiße Schokolade drinnen wird.",
                 "hu": "Élvezze a szunnyadó fák fagyos szépségét a korai, délután 5 órai naplemente előtt, amely jelzi, hogy ideje bent forró csokit inni.",
                 "ro": "Bucurați-vă de frumusețea înghețată a copacilor adormiți înainte ca apusul timpuriu de la ora 17:00 să anunțe retragerea la o ciocolată caldă.",
-                "en": "Enjoy the stark, frosty beauty of the dormant trees before the early 5 PM sunset signals it's time to head indoors for hot cocoa."
+                "en": "Enjoy the stark, frosty beauty of the dormant trees before the early 5 PM sunset signals it's time to head indoors for hot cocoa.",
+                "fr": "Appréciez la beauté austère et givrée des arbres en dormance avant que le coucher du soleil précoce à 17h ne vous invite à rentrer pour un chocolat chaud."
               }
             }
           ]
@@ -314,7 +347,8 @@
             "de": "Jean Jaurès Platz",
             "hu": "Jean Jaurès tér",
             "ro": "Piața Jean Jaurès",
-            "en": "Jean Jaurès Square"
+            "en": "Jean Jaurès Square",
+            "fr": "Place Jean Jaurès"
           },
           "coords": [
             1.686129,
@@ -329,7 +363,8 @@
             "de": "Beginnen Sie Ihren Tag im lebhaften Zentrum der Stadt, ideal für einen schnellen Kaffee, bevor Sie die historischen Sehenswürdigkeiten erkunden.",
             "hu": "Kezdje a napot a város nyüzsgő központjában, amely tökéletes egy gyors kávéra és az emberek megfigyelésére a történelmi nevezetességek felfedezése előtt.",
             "ro": "Începeți ziua în centrul vibrant al orașului, locul perfect pentru o cafea rapidă și o pauză relaxantă înainte de a explora atracțiile istorice.",
-            "en": "Start your day at the vibrant heart of the city, perfect for a quick coffee and people-watching before exploring the local historical sights."
+            "en": "Start your day at the vibrant heart of the city, perfect for a quick coffee and people-watching before exploring the local historical sights.",
+            "fr": "Commencez votre journée au cœur vibrant de la ville, parfait pour un café rapide et du people-watching avant d'explorer les sites historiques locaux."
           }
         },
         {
@@ -337,7 +372,8 @@
             "de": "Kirche Saint-Sulpice",
             "hu": "Saint-Sulpice templom",
             "ro": "Biserica Saint-Sulpice",
-            "en": "Église Saint-Sulpice"
+            "en": "Église Saint-Sulpice",
+            "fr": "Église Saint-Sulpice"
           },
           "coords": [
             1.686543,
@@ -352,7 +388,8 @@
             "de": "Bewundern Sie die markante Architektur dieser Kirche und überprüfen Sie die Öffnungszeiten an der Tür, da diese wochentags variieren können.",
             "hu": "Csodálja meg ennek a kiemelkedő templomnak a lenyűgöző építészetét, és mindenképpen ellenőrizze az ajtón lévő nyitvatartási időt, mivel az változhat.",
             "ro": "Admirați arhitectura remarcabilă a acestei biserici proeminente și asigurați-vă că verificați orarul pe ușă, deoarece poate varia în timpul săptămânii.",
-            "en": "Admire the striking architecture of this prominent church, and be sure to check the opening times on the door as they can vary during weekdays."
+            "en": "Admire the striking architecture of this prominent church, and be sure to check the opening times on the door as they can vary during weekdays.",
+            "fr": "Admirez l'architecture saisissante de cette église emblématique, et n'oubliez pas de vérifier les horaires d'ouverture sur la porte car ils peuvent varier en semaine."
           }
         },
         {
@@ -360,7 +397,8 @@
             "de": "Castela",
             "hu": "Castela",
             "ro": "Castela",
-            "en": "Castela"
+            "en": "Castela",
+            "fr": "Castela"
           },
           "coords": [
             1.688214,
@@ -375,7 +413,8 @@
             "de": "Erkunden Sie die faszinierenden unterirdischen Gänge dieser mittelalterlichen Burgruine, aber denken Sie an festes Schuhwerk für das unebene Gelände.",
             "hu": "Fedezze fel e középkori várrom lenyűgöző földalatti folyosóit, de ne felejtsen el masszív cipőt viselni, mivel a talaj helyenként meglehetősen egyenetlen.",
             "ro": "Explorați pasajele subterane fascinante ale acestei ruine medievale, dar nu uitați să purtați încălțăminte rezistentă, deoarece terenul este accidentat.",
-            "en": "Explore the fascinating underground passages of this medieval castle ruin, but remember to wear sturdy shoes as the terrain can be uneven."
+            "en": "Explore the fascinating underground passages of this medieval castle ruin, but remember to wear sturdy shoes as the terrain can be uneven.",
+            "fr": "Explorez les fascinants passages souterrains de cette ruine de château médiéval, mais pensez à porter des chaussures solides car le terrain peut être irrégulier."
           }
         },
         {
@@ -383,7 +422,8 @@
             "de": "Spénale Park",
             "hu": "Spénale park",
             "ro": "Parcul Spénale",
-            "en": "Spénale Park"
+            "en": "Spénale Park",
+            "fr": "Parc Spénale"
           },
           "coords": [
             1.682807,
@@ -398,7 +438,8 @@
             "de": "Machen Sie einen gemütlichen Spaziergang oder ein entspanntes Picknick in diesem gepflegten Park, der viele schattige Bänke für eine Pause bietet.",
             "hu": "Tegyen egy kényelmes sétát vagy élvezze a pihentető pikniket ebben a gyönyörűen karbantartott parkban, amely rengeteg árnyékos padot kínál.",
             "ro": "Faceți o plimbare relaxantă sau bucurați-vă de un picnic în acest parc frumos întreținut, care oferă numeroase bănci umbrite pentru o pauză binemeritată.",
-            "en": "Take a leisurely stroll or enjoy a relaxing picnic in this beautifully maintained park, which offers plenty of shaded benches for a restful break."
+            "en": "Take a leisurely stroll or enjoy a relaxing picnic in this beautifully maintained park, which offers plenty of shaded benches for a restful break.",
+            "fr": "Faites une balade tranquille ou profitez d'un pique-nique relaxant dans ce parc magnifiquement entretenu, qui offre de nombreux bancs ombragés pour une pause reposante."
           }
         },
         {
@@ -406,7 +447,8 @@
             "de": "Kirche Saint-Vaast",
             "hu": "Saint-Vaast templom",
             "ro": "Biserica Saint-Vaast",
-            "en": "Église Saint-Vaast"
+            "en": "Église Saint-Vaast",
+            "fr": "Église Saint-Vaast"
           },
           "coords": [
             1.716285,
@@ -421,7 +463,8 @@
             "de": "Radeln Sie etwas außerhalb des Zentrums zu dieser charmanten Landkirche und genießen Sie die malerische Route durch die schöne Landschaft.",
             "hu": "Kerékpározzon kicsit kijjebb a központból ehhez a bájos vidéki templomhoz, és élvezze a régió gyönyörű tájait bemutató festői útvonalat.",
             "ro": "Mergeți cu bicicleta la marginea orașului pentru a vizita această biserică fermecătoare, bucurându-vă de un traseu pitoresc prin peisajul rural.",
-            "en": "Cycle slightly out of the center to visit this charming rural church, and enjoy the scenic route that showcases the region's beautiful countryside."
+            "en": "Cycle slightly out of the center to visit this charming rural church, and enjoy the scenic route that showcases the region's beautiful countryside.",
+            "fr": "Enfourchez votre vélo un peu hors du centre pour visiter cette charmante église rurale, et profitez de l'itinéraire pittoresque qui met en valeur la belle campagne de la région."
           }
         }
       ],
@@ -429,7 +472,8 @@
         "de": "Beginnen Sie Ihre Radtour am Jean Jaurès Platz für einen erfrischenden Start.\n\nMittags fahren Sie durch das Zentrum, um die Église Saint-Sulpice und das historische Castela zu sehen.\n\nVerbringen Sie den Nachmittag entspannt im Grünen des Spénale Parks.\n\nWenn der Abend naht, radeln Sie zur malerischen Église Saint-Vaast, um den Sonnenuntergang zu beobachten.",
         "hu": "Kezdje kerékpáros túráját a Jean Jaurès téren egy frissítő reggeli induláshoz.\n\nDélben a városközponton keresztül tekerjen az Église Saint-Sulpice és a történelmi Castela felé.\n\nTöltse a délutánt pihenéssel a Spénale park buja növényzete között.\n\nAhogy közeledik az este, pedálozzon ki a festői Église Saint-Vaast-hoz, és nézze meg a naplementét.",
         "ro": "Începeți turul cu bicicleta în Piața Jean Jaurès pentru o dimineață revigorantă.\n\nLa prânz, traversați centrul pentru a vedea Église Saint-Sulpice și istoricul Castela.\n\nPetreceți după-amiaza relaxându-vă în mijlocul verdeții din Parcul Spénale.\n\nSpre seară, pedalați spre pitoreasca Église Saint-Vaast pentru a admira apusul de soare.",
-        "en": "Kick off your cycling tour at Jean Jaurès Square for a refreshing morning start.\n\nMidday takes you through the heart of town to see Église Saint-Sulpice and the historic Castela.\n\nSpend your afternoon unwinding amidst the greenery of Spénale Park.\n\nAs evening approaches, pedal out to the picturesque Église Saint-Vaast to watch the sunset over the countryside."
+        "en": "Kick off your cycling tour at Jean Jaurès Square for a refreshing morning start.\n\nMidday takes you through the heart of town to see Église Saint-Sulpice and the historic Castela.\n\nSpend your afternoon unwinding amidst the greenery of Spénale Park.\n\nAs evening approaches, pedal out to the picturesque Église Saint-Vaast to watch the sunset over the countryside.",
+        "fr": "Commencez votre circuit à vélo à la place Jean Jaurès pour un réveil matinal revigorant.\n\nÀ midi, traversez le centre pour voir l'Église Saint-Sulpice et le Castela historique.\n\nPassez votre après-midi à vous détendre au milieu de la verdure du parc Spénale.\n\nEn soirée, pédalez jusqu'à la pittoresque Église Saint-Vaast pour regarder le coucher du soleil sur la campagne."
       },
       "variants": {
         "rainy": {
@@ -437,7 +481,8 @@
             "de": "Radeln Sie morgens vorsichtig zum Jean Jaurès Platz. Mittags bietet die Castela Schutz vor dem Regen. Nachmittags fahren Sie auf nassen Wegen durch den Spénale Park zur Kirche Saint-Vaast. Passen Sie abends auf rutschige Straßen auf und ruhen Sie sich aus.",
             "hu": "Reggel óvatosan tekerjen a Jean Jaurès térre. Délben a Castela nyújt menedéket az eső elől. Délután vizes utakon halad át a Spénale parkon a Saint-Vaast templom felé. Este vigyázzon a csúszós utakon és pihenjen le egy fárasztó nap után.",
             "ro": "Pedalați cu grijă dimineața spre Piața Jean Jaurès. La prânz, Castela oferă un adăpost de ploaie. După-amiaza, mergeți pe cărările umede din Parcul Spénale până la biserica Saint-Vaast. Seara, aveți grijă la drumurile alunecoase și relaxați-vă la interior.",
-            "en": "Bike carefully to Jean Jaurès Square in the morning. At noon, the Castela provides shelter from the rain. The afternoon takes you through wet paths in Spénale Park to Saint-Vaast Church. In the evening, watch out for slippery roads and enjoy some rest."
+            "en": "Bike carefully to Jean Jaurès Square in the morning. At noon, the Castela provides shelter from the rain. The afternoon takes you through wet paths in Spénale Park to Saint-Vaast Church. In the evening, watch out for slippery roads and enjoy some rest.",
+            "fr": "Pédalez prudemment jusqu'à la place Jean Jaurès le matin. À midi, le Castela offre un abri contre la pluie. L'après-midi vous mène sur des sentiers humides du parc Spénale jusqu'à l'église Saint-Vaast. Le soir, méfiez-vous des routes glissantes et reposez-vous."
           },
           "stops": [
             {
@@ -445,13 +490,15 @@
                 "de": "Jean Jaurès Platz",
                 "hu": "Jean Jaurès tér",
                 "ro": "Piața Jean Jaurès",
-                "en": "Jean Jaurès Square"
+                "en": "Jean Jaurès Square",
+                "fr": "Place Jean Jaurès"
               },
               "tip_5lang": {
                 "de": "Radeln Sie ins historische Zentrum. Achten Sie auf gute Schutzbleche und bremsen Sie frühzeitig auf dem rutschigen Kopfsteinpflaster.",
                 "hu": "Tekerjen be a történelmi központba, ügyelve arra, hogy legyen sárvédője és korán fékezzen a csúszós macskaköveken.",
                 "ro": "Ciclism spre centrul istoric, asigurându-vă că aveți apărători de noroi bune și frânați din timp pe pietrele cubice alunecoase.",
-                "en": "Cycle into the historic center, ensuring you have good mudguards and use your brakes early on the slick cobblestones."
+                "en": "Cycle into the historic center, ensuring you have good mudguards and use your brakes early on the slick cobblestones.",
+                "fr": "Pédalez jusqu'au centre historique, en vous assurant d'avoir de bons garde-boues et d'actionner vos freins plus tôt sur les pavés glissants."
               }
             },
             {
@@ -459,13 +506,15 @@
                 "de": "Kirche Saint-Sulpice",
                 "hu": "Saint-Sulpice templom",
                 "ro": "Biserica Saint-Sulpice",
-                "en": "Église Saint-Sulpice"
+                "en": "Église Saint-Sulpice",
+                "fr": "Église Saint-Sulpice"
               },
               "tip_5lang": {
                 "de": "Parken Sie Ihr Fahrrad unter den Bäumen und treten Sie ein, um die gotischen Bögen zu bewundern, während Sie ein wenig trocknen.",
                 "hu": "Parkolja le kerékpárját egy közeli lombkorona alatt, és lépjen be a gótikus boltívek megcsodálására, miközben megszárad egy kicsit.",
                 "ro": "Parcați bicicleta sub copacii din apropiere și intrați pentru a admira arcadele gotice în timp ce vă uscați după plimbare.",
-                "en": "Park your bike under a nearby tree canopy and step inside to admire the gothic arches while drying off from the ride."
+                "en": "Park your bike under a nearby tree canopy and step inside to admire the gothic arches while drying off from the ride.",
+                "fr": "Garez votre vélo sous un auvent d'arbres à proximité et entrez pour admirer les arcs gothiques tout en vous séchant de la balade."
               }
             },
             {
@@ -473,13 +522,15 @@
                 "de": "Castela",
                 "hu": "Castela",
                 "ro": "Castela",
-                "en": "Castela"
+                "en": "Castela",
+                "fr": "Castela"
               },
               "tip_5lang": {
                 "de": "Die unterirdischen Ruinen sind perfekt, um einem Schauer zu entgehen. Schließen Sie Ihr Rad an einem gut sichtbaren, geschützten Ort ab.",
                 "hu": "A földalatti romok tökéletesek a záporok elől való menekülésre; kerékpárját látható, némileg védett helyen lakatolja le.",
                 "ro": "Ruinele subterane sunt perfecte pentru a scăpa de ploaie; asigurați-vă că bicicleta este blocată într-un loc vizibil și ușor protejat.",
-                "en": "The underground ruins are perfect for escaping a downpour; make sure your bike is securely locked in a visible, slightly sheltered spot."
+                "en": "The underground ruins are perfect for escaping a downpour; make sure your bike is securely locked in a visible, slightly sheltered spot.",
+                "fr": "Les ruines souterraines sont parfaites pour échapper à une averse ; assurez-vous que votre vélo est bien verrouillé dans un endroit visible et légèrement abrité."
               }
             },
             {
@@ -487,13 +538,15 @@
                 "de": "Spénale Park",
                 "hu": "Spénale park",
                 "ro": "Parcul Spénale",
-                "en": "Spénale Park"
+                "en": "Spénale Park",
+                "fr": "Parc Spénale"
               },
               "tip_5lang": {
                 "de": "Fahren Sie vorsichtig durch den nebligen Park. Vermeiden Sie scharfe Kurven auf dem nassen Laub, um nicht wegzurutschen.",
                 "hu": "Óvatosan tekerjen át a ködös park ösvényein; kerülje az éles kanyarokat a nedves lehullott leveleken a csúszásveszély miatt.",
                 "ro": "Pedalați cu atenție prin parcul cețos; evitați virajele strânse pe frunzele umede căzute pentru a preveni alunecările bruște.",
-                "en": "Bike carefully through the misty park trails; avoid making sharp turns on the wet fallen leaves to prevent sudden slips."
+                "en": "Bike carefully through the misty park trails; avoid making sharp turns on the wet fallen leaves to prevent sudden slips.",
+                "fr": "Vélopatez prudemment sur les sentiers brumeux du parc ; évitez les virages serrés sur les feuilles mouillées pour prévenir les glissades soudaines."
               }
             },
             {
@@ -501,13 +554,15 @@
                 "de": "Kirche Saint-Vaast",
                 "hu": "Saint-Vaast templom",
                 "ro": "Biserica Saint-Vaast",
-                "en": "Église Saint-Vaast"
+                "en": "Église Saint-Vaast",
+                "fr": "Église Saint-Vaast"
               },
               "tip_5lang": {
                 "de": "Beenden Sie Ihre Tour an diesem architektonischen Juwel, ein hervorragender Ort, um sich aufzuwärmen und Ihre Regenkleidung zu trocknen.",
                 "hu": "Zárja túráját ennél a lenyűgöző építészeti gyöngyszemnél, amely kiváló hely felmelegedni és megszárítani az esőruházatot a hazatérés előtt.",
                 "ro": "Încheiați traseul la această bijuterie arhitecturală impresionantă, un loc excelent pentru a vă încălzi și a usca echipamentul de ploaie.",
-                "en": "End your cycling route at this striking architectural gem, an excellent place to warm up and dry your rain gear before heading home."
+                "en": "End your cycling route at this striking architectural gem, an excellent place to warm up and dry your rain gear before heading home.",
+                "fr": "Terminez votre itinéraire cycliste à ce splendide chef-d'œuvre architectural, un excellent endroit pour vous réchauffer et sécher votre équipement de pluie avant de rentrer."
               }
             }
           ]
@@ -517,7 +572,8 @@
             "de": "Ziehen Sie sich morgens warm an für die Fahrt zum Jean Jaurès Platz. Mittags bringt Sie die Strecke zur Castela ins Schwitzen. Nachmittags radeln Sie durch den gefrorenen Spénale Park zur Kirche Saint-Vaast. Schalten Sie abends Ihr Licht ein, da es früh dunkel wird.",
             "hu": "Öltözzön melegen a reggeli tekeréshez a Jean Jaurès térre. Délben a Castela felé vezető út kicsit megizzasztja. Délután áthalad a fagyos Spénale parkon a Saint-Vaast templomhoz. Este ne felejtse el felkapcsolni a lámpákat, mert korán, 17 óra körül sötétedik.",
             "ro": "Îmbrăcați-vă gros dimineața pentru drumul spre Piața Jean Jaurès. La prânz, traseul spre Castela vă va pune sângele în mișcare. După-amiaza, pedalați prin Parcul Spénale înghețat până la biserica Saint-Vaast. Seara, aprindeți luminile din cauza întunericului timpuriu.",
-            "en": "Bundle up in the morning for the ride to Jean Jaurès Square. At noon, the route to the Castela will get your blood pumping. In the afternoon, bike through the frozen Spénale Park to Saint-Vaast Church. In the evening, turn on your lights as darkness falls early around 5 PM."
+            "en": "Bundle up in the morning for the ride to Jean Jaurès Square. At noon, the route to the Castela will get your blood pumping. In the afternoon, bike through the frozen Spénale Park to Saint-Vaast Church. In the evening, turn on your lights as darkness falls early around 5 PM.",
+            "fr": "Couvrez-vous le matin pour la balade jusqu'à la place Jean Jaurès. À midi, la route vers Castela fera monter la température. L'après-midi, traversez le parc Spénale gelé pour rejoindre l'église Saint-Vaast. En soirée, allumez vos lumières car la nuit tombe tôt vers 17h."
           },
           "stops": [
             {
@@ -525,13 +581,15 @@
                 "de": "Jean Jaurès Platz",
                 "hu": "Jean Jaurès tér",
                 "ro": "Piața Jean Jaurès",
-                "en": "Jean Jaurès Square"
+                "en": "Jean Jaurès Square",
+                "fr": "Place Jean Jaurès"
               },
               "tip_5lang": {
                 "de": "Starten Sie Ihre Fahrt in der klaren Winterluft. Dicke Handschuhe sind unerlässlich, um Ihre Finger an den Bremshebeln beweglich zu halten.",
                 "hu": "Kezdje útját a csípős téli levegőn; a vastag kesztyű elengedhetetlen, hogy ujjai mozgékonyak maradjanak a fékkarokon.",
                 "ro": "Începeți plimbarea în aerul proaspăt de iarnă; mănușile groase sunt absolut esențiale pentru a menține degetele agile pe frâne.",
-                "en": "Start your ride in the crisp winter air; thick gloves are absolutely essential to keep your fingers nimble on the brake levers."
+                "en": "Start your ride in the crisp winter air; thick gloves are absolutely essential to keep your fingers nimble on the brake levers.",
+                "fr": "Commencez votre sortie dans l'air vif de l'hiver ; des gants épais sont essentiels pour garder vos doigts agiles sur les leviers de frein."
               }
             },
             {
@@ -539,13 +597,15 @@
                 "de": "Kirche Saint-Sulpice",
                 "hu": "Saint-Sulpice templom",
                 "ro": "Biserica Saint-Sulpice",
-                "en": "Église Saint-Sulpice"
+                "en": "Église Saint-Sulpice",
+                "fr": "Église Saint-Sulpice"
               },
               "tip_5lang": {
                 "de": "Machen Sie eine kurze Pause, um die große Fassade zu bewundern, und treten Sie ein, um der beißenden Kälte für einen Moment zu entkommen.",
                 "hu": "Tartson egy rövid szünetet a nagyszerű homlokzat megcsodálására, egy pillanatra belépve, hogy a fagyos levegő kiürüljön tüdejéből.",
                 "ro": "Faceți o scurtă pauză pentru a admira fațada grandioasă, intrând un moment pentru a lăsa frigul să vă iasă din plămâni.",
-                "en": "Take a short break to admire the grand facade, stepping inside momentarily to let the lingering cold clear from your lungs."
+                "en": "Take a short break to admire the grand facade, stepping inside momentarily to let the lingering cold clear from your lungs.",
+                "fr": "Faites une courte pause pour admirer la grande façade, en entrant momentanément pour laisser le froid se dissiper de vos poumons."
               }
             },
             {
@@ -553,13 +613,15 @@
                 "de": "Castela",
                 "hu": "Castela",
                 "ro": "Castela",
-                "en": "Castela"
+                "en": "Castela",
+                "fr": "Castela"
               },
               "tip_5lang": {
                 "de": "Steigen Sie ab und gehen Sie um die Ruinen herum; die körperliche Aktivität wird Sie trotz der sinkenden Wintertemperaturen warm halten.",
                 "hu": "Szálljon le és sétálja körbe a romokat; a fizikai aktivitás melegen tartja a zuhanó téli hőmérséklet ellenére is.",
                 "ro": "Descălecați și mergeți pe jos pe perimetrul ruinelor; activitatea fizică vă va încălzi în ciuda temperaturilor scăzute de iarnă.",
-                "en": "Dismount and walk the perimeter of the ruins; the physical activity will keep you warm despite the plummeting winter temperatures."
+                "en": "Dismount and walk the perimeter of the ruins; the physical activity will keep you warm despite the plummeting winter temperatures.",
+                "fr": "Descendez de votre vélo et parcourez le périmètre des ruines à pied ; l'activité physique vous réchauffera malgré les températures hivernales en chute libre."
               }
             },
             {
@@ -567,13 +629,15 @@
                 "de": "Spénale Park",
                 "hu": "Spénale park",
                 "ro": "Parcul Spénale",
-                "en": "Spénale Park"
+                "en": "Spénale Park",
+                "fr": "Parc Spénale"
               },
               "tip_5lang": {
                 "de": "Fahren Sie am frostbedeckten Gras vorbei und achten Sie auf eisige Stellen, die sich auf den schattigen Betonwegen bilden können.",
                 "hu": "Tekerjen el a dérrel borított fű és a kopasz fák mellett, figyelve az árnyékos betonutakon kialakuló jeges foltokra.",
                 "ro": "Pedalați pe lângă iarba acoperită de brumă și copacii goi, fiind atenți la porțiunile de gheață care se formează pe aleile umbrite.",
-                "en": "Cycle past the frost-covered grass and bare trees, keeping an eye out for icy patches forming on the shaded concrete paths."
+                "en": "Cycle past the frost-covered grass and bare trees, keeping an eye out for icy patches forming on the shaded concrete paths.",
+                "fr": "Pédalez devant les herbes couvertes de givre et les arbres nus, en faisant attention aux plaques de verglas qui se forment sur les chemins concrets ombragés."
               }
             },
             {
@@ -581,13 +645,15 @@
                 "de": "Kirche Saint-Vaast",
                 "hu": "Saint-Vaast templom",
                 "ro": "Biserica Saint-Vaast",
-                "en": "Église Saint-Vaast"
+                "en": "Église Saint-Vaast",
+                "fr": "Église Saint-Vaast"
               },
               "tip_5lang": {
                 "de": "Genießen Sie die monumentale Architektur kurz vor Sonnenuntergang. Stellen Sie sicher, dass Ihre Lichter für die dunkle Rückfahrt voll sind.",
                 "hu": "Értékelje a monumentális építészetet naplemente előtt; győződjön meg róla, hogy lámpái fel vannak töltve a sötét, fagyos visszaúthoz.",
                 "ro": "Apreciați arhitectura monumentală chiar înainte de apus; asigurați-vă că luminile bicicletei sunt încărcate pentru drumul întunecat și rece.",
-                "en": "Appreciate the monumental architecture just before sunset; ensure your bike lights are fully charged for the dark, freezing ride back."
+                "en": "Appreciate the monumental architecture just before sunset; ensure your bike lights are fully charged for the dark, freezing ride back.",
+                "fr": "Appréciez l'architecture monumentale juste avant le coucher du soleil ; assurez-vous que les lumières de votre vélo sont complètement chargées pour le retour dans le froid et l'obscurité."
               }
             }
           ]
@@ -607,7 +673,8 @@
             "de": "Jean Jaurès Platz",
             "hu": "Jean Jaurès tér",
             "ro": "Piața Jean Jaurès",
-            "en": "Jean Jaurès Square"
+            "en": "Jean Jaurès Square",
+            "fr": "Place Jean Jaurès"
           },
           "coords": [
             1.686129,
@@ -622,7 +689,8 @@
             "de": "Beginnen Sie Ihren Tag im lebhaften Zentrum der Stadt, ideal für einen schnellen Kaffee, bevor Sie die historischen Sehenswürdigkeiten erkunden.",
             "hu": "Kezdje a napot a város nyüzsgő központjában, amely tökéletes egy gyors kávéra és az emberek megfigyelésére a történelmi nevezetességek felfedezése előtt.",
             "ro": "Începeți ziua în centrul vibrant al orașului, locul perfect pentru o cafea rapidă și o pauză relaxantă înainte de a explora atracțiile istorice.",
-            "en": "Start your day at the vibrant heart of the city, perfect for a quick coffee and people-watching before exploring the local historical sights."
+            "en": "Start your day at the vibrant heart of the city, perfect for a quick coffee and people-watching before exploring the local historical sights.",
+            "fr": "Commencez votre journée au cœur vibrant de la ville, parfait pour un café rapide et du people-watching avant d'explorer les sites historiques locaux."
           }
         },
         {
@@ -630,7 +698,8 @@
             "de": "Castela",
             "hu": "Castela",
             "ro": "Castela",
-            "en": "Castela"
+            "en": "Castela",
+            "fr": "Castela"
           },
           "coords": [
             1.688214,
@@ -645,7 +714,8 @@
             "de": "Erkunden Sie die faszinierenden unterirdischen Gänge dieser mittelalterlichen Burgruine, aber denken Sie an festes Schuhwerk für das unebene Gelände.",
             "hu": "Fedezze fel e középkori várrom lenyűgöző földalatti folyosóit, de ne felejtsen el masszív cipőt viselni, mivel a talaj helyenként meglehetősen egyenetlen.",
             "ro": "Explorați pasajele subterane fascinante ale acestei ruine medievale, dar nu uitați să purtați încălțăminte rezistentă, deoarece terenul este accidentat.",
-            "en": "Explore the fascinating underground passages of this medieval castle ruin, but remember to wear sturdy shoes as the terrain can be uneven."
+            "en": "Explore the fascinating underground passages of this medieval castle ruin, but remember to wear sturdy shoes as the terrain can be uneven.",
+            "fr": "Explorez les fascinants passages souterrains de cette ruine de château médiéval, mais pensez à porter des chaussures solides car le terrain peut être irrégulier."
           }
         },
         {
@@ -653,7 +723,8 @@
             "de": "Saint-Sulpice Kirche",
             "hu": "Saint-Sulpice-templom",
             "ro": "Biserica Saint-Sulpice",
-            "en": "Saint-Sulpice Church"
+            "en": "Saint-Sulpice Church",
+            "fr": "Église Saint-Sulpice"
           },
           "coords": [
             1.683568,
@@ -668,7 +739,8 @@
             "de": "Treten Sie ein, um die friedliche Atmosphäre und die schönen Buntglasfenster zu genießen, die diesen Ort zu einem ruhigen Rückzugsort machen.",
             "hu": "Lépjen be, hogy értékelje a békés légkört és a gyönyörű ólomüveg ablakokat, amelyek ezt a helyet a városközpont nyugodt menedékévé teszik.",
             "ro": "Pășiți înăuntru pentru a aprecia atmosfera pașnică și vitraliile superbe, transformând acest loc într-un refugiu liniștit departe de centrul aglomerat.",
-            "en": "Step inside to appreciate the peaceful atmosphere and beautiful stained glass windows, making it a quiet retreat from the busy city center."
+            "en": "Step inside to appreciate the peaceful atmosphere and beautiful stained glass windows, making it a quiet retreat from the busy city center.",
+            "fr": "Entrez pour apprécier l'atmosphère paisible et les magnifiques vitraux, un paisible refuge loin de l'animation du centre-ville."
           }
         },
         {
@@ -676,7 +748,8 @@
             "de": "Spénale Park",
             "hu": "Spénale park",
             "ro": "Parcul Spénale",
-            "en": "Spénale Park"
+            "en": "Spénale Park",
+            "fr": "Parc Spénale"
           },
           "coords": [
             1.682807,
@@ -691,7 +764,8 @@
             "de": "Machen Sie einen gemütlichen Spaziergang oder ein entspanntes Picknick in diesem gepflegten Park, der viele schattige Bänke für eine Pause bietet.",
             "hu": "Tegyen egy kényelmes sétát vagy élvezze a pihentető pikniket ebben a gyönyörűen karbantartott parkban, amely rengeteg árnyékos padot kínál.",
             "ro": "Faceți o plimbare relaxantă sau bucurați-vă de un picnic în acest parc frumos întreținut, care oferă numeroase bănci umbrite pentru o pauză binemeritată.",
-            "en": "Take a leisurely stroll or enjoy a relaxing picnic in this beautifully maintained park, which offers plenty of shaded benches for a restful break."
+            "en": "Take a leisurely stroll or enjoy a relaxing picnic in this beautifully maintained park, which offers plenty of shaded benches for a restful break.",
+            "fr": "Faites une balade tranquille ou profitez d'un pique-nique relaxant dans ce parc magnifiquement entretenu, qui offre de nombreux bancs ombragés pour une pause reposante."
           }
         },
         {
@@ -699,7 +773,8 @@
             "de": "Kirche Notre-Dame",
             "hu": "Notre-Dame templom",
             "ro": "Biserica Notre-Dame",
-            "en": "Église Notre-Dame"
+            "en": "Église Notre-Dame",
+            "fr": "Église Notre-Dame"
           },
           "coords": [
             1.669989,
@@ -714,7 +789,8 @@
             "de": "Entdecken Sie den historischen Charme dieser etwas abgelegenen Kirche und nutzen Sie die ruhige Umgebung für beeindruckende Architekturfotos.",
             "hu": "Fedezze fel ennek a kissé félreeső templomnak a történelmi varázsát, és használja ki a csendes környezetet lenyűgöző építészeti fotók készítésére.",
             "ro": "Descoperiți farmecul istoric al acestei biserici retrase și profitați de împrejurimile liniștite pentru a surprinde câteva fotografii arhitecturale uimitoare.",
-            "en": "Discover the historical charm of this slightly secluded church, and take advantage of the quiet surroundings to snap some stunning architectural photos."
+            "en": "Discover the historical charm of this slightly secluded church, and take advantage of the quiet surroundings to snap some stunning architectural photos.",
+            "fr": "Découvrez le charme historique de cette église légèrement isolée, et profitez du calme alentour pour prendre de superbes photos architecturales."
           }
         },
         {
@@ -722,7 +798,8 @@
             "de": "Schloss von Mézens",
             "hu": "Mézens kastélya",
             "ro": "Castelul din Mézens",
-            "en": "Château de Mézens"
+            "en": "Château de Mézens",
+            "fr": "Château de Mézens"
           },
           "coords": [
             1.67131,
@@ -737,7 +814,8 @@
             "de": "Beenden Sie Ihren Ausflug an diesem prächtigen Schloss mit einer Führung, um sein reiches Erbe zu verstehen, aber buchen Sie Tickets im Voraus.",
             "hu": "Zárja kirándulását ebben a csodálatos kastélyban egy vezetett túrával, hogy teljes mértékben megértse gazdag örökségét, de foglaljon jegyet előre.",
             "ro": "Încheiați-vă călătoria la acest castel magnific printr-un tur ghidat pentru a înțelege patrimoniul său bogat, dar rezervați biletele în avans.",
-            "en": "Conclude your trip at this magnificent castle by taking a guided tour to fully understand its rich heritage, but book your tickets in advance."
+            "en": "Conclude your trip at this magnificent castle by taking a guided tour to fully understand its rich heritage, but book your tickets in advance.",
+            "fr": "Concluez votre visite à ce magnifique château en faisant une visite guidée pour bien comprendre son riche patrimoine, mais réservez vos billets à l'avance."
           }
         }
       ],
@@ -745,7 +823,8 @@
         "de": "Beginnen Sie Ihre Autotour mit einem kurzen morgendlichen Halt am zentralen Jean Jaurès Platz.\n\nMittags ist perfekt, um im Castela in die Geschichte einzutauchen und die Kirche zu besuchen.\n\nEntspannen Sie am Nachmittag im Spénale Park, bevor Sie zur Église Notre-Dame fahren.\n\nBeenden Sie Ihren Tag mit einem beeindruckenden Besuch des Château de Mézens.",
         "hu": "Kezdje autós túráját egy gyors reggeli megállóval a központi Jean Jaurès téren.\n\nA délidő tökéletes a Castela történelmének felfedezésére és a közeli templom meglátogatására.\n\nDélután pihenjen a Spénale parkban, mielőtt az Église Notre-Dame-hoz hajtana.\n\nFejezze be a napot a fenséges Château de Mézens lenyűgöző esti látogatásával.",
         "ro": "Începeți turul cu mașina cu o scurtă oprire matinală în Piața centrală Jean Jaurès.\n\nPrânzul este perfect pentru a explora istoria la Castela și a vizita Biserica Saint-Sulpice.\n\nDupă-amiaza, relaxați-vă în Parcul Spénale înainte de a conduce spre Église Notre-Dame.\n\nÎncheiați-vă ziua cu o vizită impresionantă de seară la maiestuosul Château de Mézens.",
-        "en": "Start your driving tour with a quick morning stop at the central Jean Jaurès Square.\n\nMidday is perfect for diving into history at Castela and visiting the nearby Saint-Sulpice Church.\n\nIn the afternoon, relax at Spénale Park before driving out to Église Notre-Dame.\n\nFinish your day with an impressive evening visit to the majestic Château de Mézens."
+        "en": "Start your driving tour with a quick morning stop at the central Jean Jaurès Square.\n\nMidday is perfect for diving into history at Castela and visiting the nearby Saint-Sulpice Church.\n\nIn the afternoon, relax at Spénale Park before driving out to Église Notre-Dame.\n\nFinish your day with an impressive evening visit to the majestic Château de Mézens.",
+        "fr": "Commencez votre circuit en voiture par un rapide arrêt matinal à la place centrale Jean Jaurès.\n\nMidi est parfait pour plonger dans l'histoire au Castela et visiter la voisine Église Saint-Sulpice.\n\nL'après-midi, détendez-vous au parc Spénale avant de reprendre la route vers l'Église Notre-Dame.\n\nTerminez votre journée par une impressionnante visite en soirée du majestueux Château de Mézens."
       },
       "variants": {
         "rainy": {
@@ -753,7 +832,8 @@
             "de": "Fahren Sie morgens bei Regen entspannt zum Jean Jaurès Platz. Mittags bietet die Castela einen trockenen Ort zum Erkunden. Nachmittags fahren Sie vom nassen Spénale Park zur Notre-Dame und zum Schloss von Mézens. Genießen Sie abends eine warme Fahrt nach Hause.",
             "hu": "Reggel esőben is kényelmesen elautózhat a Jean Jaurès térre. Délben a Castela száraz helyet kínál a felfedezésre. Délután a vizes Spénale parkból a Notre-Dame és a Mézens kastély felé vegye az irányt. Este élvezze a fűtött autót a hazaúton.",
             "ro": "Conduceți relaxat dimineața spre Piața Jean Jaurès, chiar și pe ploaie. La prânz, Castela oferă un loc uscat de explorat. După-amiaza, vizitați Parcul Spénale umed, apoi Notre-Dame și Castelul din Mézens. Seara, bucurați-vă de drumul cald spre casă.",
-            "en": "Drive comfortably to Jean Jaurès Square on a rainy morning. At noon, the Castela offers a dry place to explore. The afternoon takes you from the wet Spénale Park to Notre-Dame and the Château de Mézens. Enjoy a warm, heated drive back home in the evening."
+            "en": "Drive comfortably to Jean Jaurès Square on a rainy morning. At noon, the Castela offers a dry place to explore. The afternoon takes you from the wet Spénale Park to Notre-Dame and the Château de Mézens. Enjoy a warm, heated drive back home in the evening.",
+            "fr": "Conduisez confortablement jusqu'à la place Jean Jaurès lors d'une matinée pluvieuse. À midi, le Castela offre un endroit sec à explorer. L'après-midi vous mène du parc Spénale mouillé à Notre-Dame et au Château de Mézens. Profitez d'un trajet de retour chauffé et agréable le soir."
           },
           "stops": [
             {
@@ -761,13 +841,15 @@
                 "de": "Jean Jaurès Platz",
                 "hu": "Jean Jaurès tér",
                 "ro": "Piața Jean Jaurès",
-                "en": "Jean Jaurès Square"
+                "en": "Jean Jaurès Square",
+                "fr": "Place Jean Jaurès"
               },
               "tip_5lang": {
                 "de": "Parken Sie in der Nähe des Platzes, um die Zeit im Regen zu minimieren. Halten Sie einen Schirm bereit, um die Architektur zu bewundern.",
                 "hu": "Parkoljon a térhez közel, hogy kevesebb időt töltsön az esőben, de tartson kéznél esernyőt az építészet kényelmes megtekintéséhez.",
                 "ro": "Parcați aproape de piață pentru a minimiza timpul petrecut în ploaie, având o umbrelă la îndemână pentru a vizualiza arhitectura.",
-                "en": "Park close to the square to minimize time in the rain, keeping an umbrella handy to view the architecture before retreating indoors."
+                "en": "Park close to the square to minimize time in the rain, keeping an umbrella handy to view the architecture before retreating indoors.",
+                "fr": "Garez-vous près de la place pour minimiser le temps sous la pluie, en gardant un parapluie à portée de main pour voir l'architecture avant de vous replier à l'intérieur."
               }
             },
             {
@@ -775,13 +857,15 @@
                 "de": "Castela",
                 "hu": "Castela",
                 "ro": "Castela",
-                "en": "Castela"
+                "en": "Castela",
+                "fr": "Castela"
               },
               "tip_5lang": {
                 "de": "Der kurze Weg vom Parkplatz lohnt sich, um die überdachten, unterirdischen historischen Tiefen dieser beeindruckenden Ruine zu erkunden.",
                 "hu": "A rövid séta a parkolótól megéri, hogy felfedezze e lenyűgöző rom fedett, földalatti történelmi mélységeit anélkül, hogy elázna.",
                 "ro": "Scurta plimbare de la parcare merită pentru a explora adâncimile istorice subterane și acoperite ale acestei ruine impresionante.",
-                "en": "The short walk from the parking lot is worth it to explore the covered, underground historical depths of this impressive ruin."
+                "en": "The short walk from the parking lot is worth it to explore the covered, underground historical depths of this impressive ruin.",
+                "fr": "La courte marche depuis le parking vaut la peine pour explorer les profondeurs historiques couvertes et souterraines de cette impressionnante ruine."
               }
             },
             {
@@ -789,13 +873,15 @@
                 "de": "Saint-Sulpice Kirche",
                 "hu": "Saint-Sulpice-templom",
                 "ro": "Biserica Saint-Sulpice",
-                "en": "Saint-Sulpice Church"
+                "en": "Saint-Sulpice Church",
+                "fr": "Église Saint-Sulpice"
               },
               "tip_5lang": {
                 "de": "Eine wunderschöne religiöse Stätte, die vollen Schutz vor den Schauern bietet. Perfekt, um Buntglas im stimmungsvollen Licht zu bewundern.",
                 "hu": "Gyönyörű vallási helyszín, amely teljes menedéket nyújt a folyamatos záporok elől, tökéletes az ólomüvegek hangulatos fényben való megtekintéséhez.",
                 "ro": "Un loc religios frumos, care oferă adăpost complet de ploile continue, perfect pentru a admira vitraliile într-o lumină atmosferică.",
-                "en": "A beautiful religious site offering complete shelter from the continuous showers, perfect for admiring stained glass in atmospheric light."
+                "en": "A beautiful religious site offering complete shelter from the continuous showers, perfect for admiring stained glass in atmospheric light.",
+                "fr": "Un beau lieu religieux offrant un abri complet contre les averses continues, parfait pour admirer les vitraux dans une lumière d'ambiance."
               }
             },
             {
@@ -803,13 +889,15 @@
                 "de": "Spénale Park",
                 "hu": "Spénale park",
                 "ro": "Parcul Spénale",
-                "en": "Spénale Park"
+                "en": "Spénale Park",
+                "fr": "Parc Spénale"
               },
               "tip_5lang": {
                 "de": "Beobachten Sie das üppige, regennasse Grün bequem von Ihrem Auto aus, falls der Schauer während Ihres geplanten Stopps zu stark wird.",
                 "hu": "Figyelje meg a buja, esőáztatta zöldnövényzetet autója kényelméből, ha a zápor túl heves lenne a tervezett parki megálló során.",
                 "ro": "Observați verdeața luxuriantă, îmbibată de ploaie, din confortul mașinii, dacă aversa devine prea puternică în timpul opririi planificate.",
-                "en": "Observe the lush, rain-soaked greenery from the comfort of your car if the downpour gets too heavy during your planned stop."
+                "en": "Observe the lush, rain-soaked greenery from the comfort of your car if the downpour gets too heavy during your planned stop.",
+                "fr": "Admirez la végétation luxuriante et gorgée de pluie depuis le confort de votre voiture si l’averse devient trop forte pendant votre arrêt prévu."
               }
             },
             {
@@ -817,13 +905,15 @@
                 "de": "Kirche Notre-Dame",
                 "hu": "Notre-Dame templom",
                 "ro": "Biserica Notre-Dame",
-                "en": "Église Notre-Dame"
+                "en": "Église Notre-Dame",
+                "fr": "Église Notre-Dame"
               },
               "tip_5lang": {
                 "de": "Laufen Sie vom Auto in diese historische Kirche, wo das trockene, hallende Innere einen starken Kontrast zu den Pfützen draußen bildet.",
                 "hu": "Szaladjon be az autójából ebbe a történelmi templomba, ahol a száraz, visszhangzó belső tér éles kontrasztot alkot a kinti pocsolyákkal.",
                 "ro": "Fugiți din mașină în această biserică istorică, unde interiorul uscat și plin de ecou oferă un contrast puternic cu bălțile de afară.",
-                "en": "Dash from your car into this historic church, where the dry, echoing interior provides a stark contrast to the splashing puddles outside."
+                "en": "Dash from your car into this historic church, where the dry, echoing interior provides a stark contrast to the splashing puddles outside.",
+                "fr": "Courez de votre voiture jusqu’à cette église historique, où l’intérieur sec et résonnant contraste fortement avec les flaques éclaboussantes à l’extérieur."
               }
             },
             {
@@ -831,13 +921,15 @@
                 "de": "Schloss von Mézens",
                 "hu": "Mézens kastélya",
                 "ro": "Castelul din Mézens",
-                "en": "Château de Mézens"
+                "en": "Château de Mézens",
+                "fr": "Château de Mézens"
               },
               "tip_5lang": {
                 "de": "Beenden Sie Ihren Tag in diesem majestätischen Schloss; viele Säle sind drinnen, sodass das Regenwetter Ihre Erkundung nicht trübt.",
                 "hu": "Zárja a napot e fenséges kastély bejárásával; sok nagyterem zárt térben van, így az esős idő nem rontja el a történelmi felfedezést.",
                 "ro": "Încheiați ziua vizitând acest castel maiestuos; multe camere mari sunt în interior, asigurându-vă că vremea ploioasă nu vă va strica explorarea.",
-                "en": "End your day touring this majestic castle; many grand rooms are indoors, ensuring the rainy weather won't dampen your historical exploration."
+                "en": "End your day touring this majestic castle; many grand rooms are indoors, ensuring the rainy weather won't dampen your historical exploration.",
+                "fr": "Terminez votre journée par la visite de ce château majestueux ; de nombreuses pièces somptueuses sont à l’intérieur, garantissant que la pluie n’altérera pas votre exploration historique."
               }
             }
           ]
@@ -847,7 +939,8 @@
             "de": "Morgens wärmt die Autoheizung auf dem Weg zum Jean Jaurès Platz. Mittags erreichen Sie die Castela bequem. Nachmittags fahren Sie vom kühlen Spénale Park zur Notre-Dame und zum Schloss von Mézens, bevor es gegen 17 Uhr dunkel wird. Ein gemütlicher Abend rundet die Tour ab.",
             "hu": "Reggel az autó fűtése felmelegíti a Jean Jaurès tér felé vezető úton. Délben kényelmesen eléri a Castelát. Délután a hűvös Spénale parkból a Notre-Dame és a Mézens kastély felé autózik, mielőtt 17 óra körül besötétedik. Egy meghitt este zárja a túrát.",
             "ro": "Dimineața, încălzirea mașinii este perfectă spre Piața Jean Jaurès. La prânz, ajungeți confortabil la Castela. După-amiaza, conduceți de la Parcul Spénale cel răcoros spre Notre-Dame și Castelul din Mézens, înainte să se întunece la 17:00. O seară confortabilă încheie turul.",
-            "en": "In the morning, the car heater warms you on the way to Jean Jaurès Square. At noon, easily reach the Castela. The afternoon sees you driving from the chilly Spénale Park to Notre-Dame and Château de Mézens before it gets dark around 5 PM. End the tour with a cozy evening."
+            "en": "In the morning, the car heater warms you on the way to Jean Jaurès Square. At noon, easily reach the Castela. The afternoon sees you driving from the chilly Spénale Park to Notre-Dame and Château de Mézens before it gets dark around 5 PM. End the tour with a cozy evening.",
+            "fr": "Le matin, le chauffage de la voiture vous réchauffe en route vers la place Jean Jaurès. À midi, rejoignez facilement le Castela. L’après-midi, vous conduisez du frais parc Spénale à Notre-Dame et au Château de Mézens avant la tombée de la nuit vers 17:00. Terminez la visite par une soirée cocooning."
           },
           "stops": [
             {
@@ -855,13 +948,15 @@
                 "de": "Jean Jaurès Platz",
                 "hu": "Jean Jaurès tér",
                 "ro": "Piața Jean Jaurès",
-                "en": "Jean Jaurès Square"
+                "en": "Jean Jaurès Square",
+                "fr": "Place Jean Jaurès"
               },
               "tip_5lang": {
                 "de": "Steigen Sie aus dem beheizten Auto aus, um das frostige Morgenlicht des Platzes zu bewundern. Halten Sie einen dicken Schal gegen die Kälte bereit.",
                 "hu": "Szálljon ki a fűtött autóból, hogy megcsodálja a tér fagyos reggeli fényét, de tartson kéznél egy vastag sálat és sapkát a harapós hideg ellen.",
                 "ro": "Ieșiți din mașina încălzită pentru a admira strălucirea geroasă de dimineață a pieței, dar păstrați o eșarfă groasă și o căciulă la îndemână.",
-                "en": "Step out of the heated car to admire the square's frosty morning glow, but keep a thick scarf and hat handy against the biting cold."
+                "en": "Step out of the heated car to admire the square's frosty morning glow, but keep a thick scarf and hat handy against the biting cold.",
+                "fr": "Sortez de la voiture chauffée pour admirer la lueur matinale givrée de la place, mais gardez une grosse écharpe et un bonnet à portée de main contre le froid mordant."
               }
             },
             {
@@ -869,13 +964,15 @@
                 "de": "Castela",
                 "hu": "Castela",
                 "ro": "Castela",
-                "en": "Castela"
+                "en": "Castela",
+                "fr": "Castela"
               },
               "tip_5lang": {
                 "de": "Die Ruinen bieten eine malerische Schönheit in der Winterlandschaft. Tragen Sie dicke Schichten für die Abschnitte im Freien.",
                 "hu": "A romok zord, festői szépséget kínálnak a téli tájban; öltözzön vastag rétegekbe a túra szabadtéri szakaszaihoz a hideg miatt.",
                 "ro": "Ruinele oferă o frumusețe austeră, pitorească în peisajul de iarnă; îmbrăcați-vă în straturi groase pentru porțiunile în aer liber ale turului.",
-                "en": "The ruins offer a stark, picturesque beauty in the winter landscape; dress in heavy layers for the outdoor portions of the tour."
+                "en": "The ruins offer a stark, picturesque beauty in the winter landscape; dress in heavy layers for the outdoor portions of the tour.",
+                "fr": "Les ruines offrent une beauté saisissante et pittoresque dans le paysage hivernal ; habillez-vous en couches épaisses pour les portions extérieures de la visite."
               }
             },
             {
@@ -883,13 +980,15 @@
                 "de": "Saint-Sulpice Kirche",
                 "hu": "Saint-Sulpice-templom",
                 "ro": "Biserica Saint-Sulpice",
-                "en": "Saint-Sulpice Church"
+                "en": "Saint-Sulpice Church",
+                "fr": "Église Saint-Sulpice"
               },
               "tip_5lang": {
                 "de": "Nutzen Sie diese wunderschöne, stille Kirche, um den sinkenden Mittagstemperaturen zu entfliehen und die Kunst fernab des eisigen Windes zu schätzen.",
                 "hu": "Használja ezt a gyönyörű, csendes templomot, hogy elmeneküljön a csökkenő déli hőmérséklet elől, élvezve a művészetet a jeges széltől távol.",
                 "ro": "Folosiți această biserică tăcută pentru a scăpa de temperaturile scăzute de la prânz, apreciind arta departe de vântul de gheață.",
-                "en": "Use this beautifully silent church to escape the dropping midday temperatures, appreciating the artistry away from the icy wind."
+                "en": "Use this beautifully silent church to escape the dropping midday temperatures, appreciating the artistry away from the icy wind.",
+                "fr": "Utilisez cette église silencieuse et magnifique pour échapper aux températures qui chutent à midi, et appréciez l’art loin du vent glacial."
               }
             },
             {
@@ -897,13 +996,15 @@
                 "de": "Spénale Park",
                 "hu": "Spénale park",
                 "ro": "Parcul Spénale",
-                "en": "Spénale Park"
+                "en": "Spénale Park",
+                "fr": "Parc Spénale"
               },
               "tip_5lang": {
                 "de": "Genießen Sie einen kurzen, flotten Spaziergang zwischen den kahlen, frostbedeckten Bäumen, bevor Sie sich in die Wärme Ihres Fahrzeugs zurückziehen.",
                 "hu": "Élvezze a rövid, élénkítő sétát a kopasz, zúzmarás fák között, mielőtt visszavonulna járműve kellemes, fűtött melegébe.",
                 "ro": "Bucurați-vă de o scurtă plimbare vioaie printre copacii goi, acoperiți de brumă, înainte de a vă retrage înapoi în căldura vehiculului.",
-                "en": "Enjoy a brief, brisk walk among the bare, frost-tipped trees before retreating back into the warmth of your vehicle."
+                "en": "Enjoy a brief, brisk walk among the bare, frost-tipped trees before retreating back into the warmth of your vehicle.",
+                "fr": "Profitez d’une courte promenade tonique parmi les arbres nus aux pointes givrés avant de regagner la chaleur de votre véhicule."
               }
             },
             {
@@ -911,13 +1012,15 @@
                 "de": "Kirche Notre-Dame",
                 "hu": "Notre-Dame templom",
                 "ro": "Biserica Notre-Dame",
-                "en": "Église Notre-Dame"
+                "en": "Église Notre-Dame",
+                "fr": "Église Notre-Dame"
               },
               "tip_5lang": {
                 "de": "Ein kurzer Architekturstopp. Die untergehende Sonne wirft lange Winterchatten und lässt das Mauerwerk besonders dramatisch wirken.",
                 "hu": "Egy gyors építészeti megálló; a lemenő nap hosszú téli árnyékokat kezd vetni, ami a külső kőművesmunkát kivételesen drámaivá teszi.",
                 "ro": "O scurtă oprire arhitecturală; soarele la apus începe să arunce umbre lungi de iarnă, făcând piatra exterioară să pară deosebit de dramatică.",
-                "en": "A quick architectural stop; the setting sun begins to cast long winter shadows, making the exterior stonework look exceptionally dramatic."
+                "en": "A quick architectural stop; the setting sun begins to cast long winter shadows, making the exterior stonework look exceptionally dramatic.",
+                "fr": "Un arrêt architectural rapide ; le soleil couchant commence à projeter de longues ombres hivernales, rendant la pierre extérieure particulièrement dramatique."
               }
             },
             {
@@ -925,13 +1028,15 @@
                 "de": "Schloss von Mézens",
                 "hu": "Mézens kastélya",
                 "ro": "Castelul din Mézens",
-                "en": "Château de Mézens"
+                "en": "Château de Mézens",
+                "fr": "Château de Mézens"
               },
               "tip_5lang": {
                 "de": "Versuchen Sie, vor 17 Uhr anzukommen, um das Schloss im frühen Zwielicht beleuchtet zu sehen – ein magischer Abschluss Ihrer Wintertour.",
                 "hu": "Próbáljon 17 óra előtt érkezni, hogy lássa a korai szürkületben kivilágított kastélyt, varázslatos befejezést adva téli autós túrájának.",
                 "ro": "Încercați să ajungeți înainte de ora 17:00 pentru a vedea castelul iluminat pe fundalul amurgului timpuriu, oferind un final magic turului dumneavoastră.",
-                "en": "Try to arrive before 5 PM to see the castle illuminated against the early twilight, providing a magical end to your winter driving tour."
+                "en": "Try to arrive before 5 PM to see the castle illuminated against the early twilight, providing a magical end to your winter driving tour.",
+                "fr": "Essayez d’arriver avant 17:00 pour voir le château illuminé contre le crépuscule naissant, offrant une fin magique à votre circuit hivernal en voiture."
               }
             }
           ]

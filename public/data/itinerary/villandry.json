@@ -51,7 +51,7 @@
             "hu": "Nézze meg a keleti stílusú mennyezetet odabenn.",
             "ro": "Vizitați tavanul oriental din interior.",
             "en": "Visit the Oriental ceiling inside.",
-            "fr": "Visitez le plafond oriental à l'intérieur."
+            "fr": "Visitez le plafond d’Orient à l’intérieur."
           }
         },
         {
@@ -89,7 +89,7 @@
             "hu": "Ideális egy csendes meditációhoz a víznél.",
             "ro": "Ideal pentru o meditație liniștită lângă apă.",
             "en": "Ideal for a quiet meditation by the water.",
-            "fr": "Idéal pour une méditation tranquille au bord de l'eau."
+            "fr": "Idéal pour une méditation tranquille au bord de l’eau."
           }
         },
         {
@@ -127,7 +127,7 @@
             "hu": "A legjobb kilátás az egész kertrendszerre.",
             "ro": "Cea mai bună vedere asupra întregului sistem de grădini.",
             "en": "Best view over the entire garden system.",
-            "fr": "La meilleure vue sur l'ensemble des jardins."
+            "fr": "Meilleure vue sur l’ensemble du système de jardins."
           }
         }
       ],
@@ -136,7 +136,7 @@
         "hu": "Kezdje a napot a faluban a Szent István-templom megtekintésével. Ezután merüljön el a Villandry-kastély történetében, amely a Loire-menti nagy reneszánsz kastélyok utolsó tagja.\n\nDélben sétáljon végig a híres díszkonyhakerten, ahol a szimmetria találkozik a természettel. Élvezze a káposztákból, tökökből és fűszerekből alkotott mértani mintákat.\n\nDélután találja meg a nyugalmat a vízikertben, vagy vesszen el a gyertyánból készült játékos labirintusban. Az itteni légkör különösen békés és időtlen.\n\nZárja a napot a kilátónál, ahonnan megcsodálhatja a naplementét a tökéletesen gondozott teraszok felett. Varázslatos befejezése ennek a botanikai kirándulásnak.",
         "ro": "Începeți ziua în sat vizitând Biserica Saint-Étienne. Apoi scufundați-vă în istoria Castelului Villandry, ultimul dintre marile castele renascentiste de pe Valea Loarei.\n\nLa prânz, plimbați-vă prin celebra grădină de legume decorativă, unde simetria întâlnește natura. Bucurați-vă de modelele geometrice create din varză, dovleci și ierburi.\n\nDupă-amiaza, găsiți liniștea în grădina de apă sau pierdeți-vă în labirintul jucăuș din carpen. Atmosfera de aici este deosebit de pașnică și atemporală.\n\nÎncheiați ziua la belvedere, de unde puteți admira apusul peste terasele perfect îngrijite. O încheiere magică pentru această excursie botanică.",
         "en": "Start your day in the village by visiting the Saint-Étienne Church. Then immerse yourself in the history of the Château de Villandry, the last of the great Renaissance castles on the Loire.\n\nAt noon, stroll through the famous decorative kitchen garden, where symmetry meets nature. Enjoy the geometric patterns created from cabbages, pumpkins, and herbs.\n\nIn the afternoon, find peace in the water garden or get lost in the playful hornbeam labyrinth. The atmosphere here is particularly peaceful and timeless.\n\nEnd the day at the belvedere, where you can admire the sunset over the perfectly manicured terraces. A magical ending to this botanical excursion.",
-        "fr": "Commencez votre journée au village par la visite de l'église Saint-Étienne. Plongez ensuite dans l'histoire du château de Villandry, le dernier des grands châteaux de la Loire de la Renaissance.\n\nÀ midi, flânez dans le célèbre potager décoratif, où la symétrie rencontre la nature. Admirez les motifs géométriques créés par les choux, les citrouilles et les herbes aromatiques.\n\nL'après-midi, trouvez la paix dans le jardin d'eau ou perdez-vous dans le ludique labyrinthe de charmilles. L'atmosphère y est particulièrement paisible et hors du temps.\n\nTerminez la journée au belvédère, d'où vous pourrez admirer le coucher du soleil sur les terrasses parfaitement entretenues. Une fin magique à cette excursion botanique."
+        "fr": "Commencez la journée au village par la visite de l’église Saint‑Étienne. Plongez ensuite dans l’histoire du Château de Villandry, le dernier des grands châteaux de la Renaissance sur la Loire.\n\nÀ midi, flânez dans le célèbre potager décoratif, où la symétrie rencontre la nature. Appréciez les motifs géométriques créés par les choux, les courges et les herbes.\n\nL’après‑midi, trouvez la paix dans le jardin d’eau ou perdez‑vous dans le labyrinthe de charmes. L’atmosphère y est particulièrement paisible et hors du temps.\n\nTerminez la journée au belvédère, où vous pourrez admirer le coucher du soleil sur les terrasses parfaitement entretenues. Une fin magique à cette excursion botanique."
       },
       "gastro_picks": {
         "de": [
@@ -311,8 +311,8 @@
         ],
         "fr": [
           "Arrivez tôt pour photographier les jardins sans la foule.",
-          "Le billet pour les jardins est moins cher que celui du château.",
-          "Des chaussures confortables sont essentielles pour les nombreux sentiers gravillonnés.",
+          "Le billet pour les jardins est moins cher que celui pour le château.",
+          "Des chaussures confortables sont essentielles pour les nombreux chemins de gravier.",
           "Consultez le calendrier saisonnier pour les récoltes du potager."
         ]
       }
@@ -341,7 +341,7 @@
             "hu": "Használja a kerékpártárolókat közvetlenül a bejáratnál.",
             "ro": "Folosiți parcarea pentru biciclete chiar la intrare.",
             "en": "Use the bike racks right at the entrance.",
-            "fr": "Utilisez les porte-vélos situés juste à l'entrée."
+            "fr": "Utilisez les arceaux à vélos juste à l’entrée."
           }
         },
         {
@@ -398,7 +398,7 @@
             "hu": "Föld alatti barlangok bizarr mészkőformációkkal.",
             "ro": "Peșteri subterane cu formațiuni calcaroase bizare.",
             "en": "Underground caves with bizarre limestone formations.",
-            "fr": "Grottes souterraines avec des formations calcaires bizarres."
+            "fr": "Grottes souterraines aux formations calcaires étranges."
           }
         },
         {
@@ -417,7 +417,7 @@
             "hu": "Ahol két hatalmas folyó találkozik.",
             "ro": "Unde se întâlnesc două râuri puternice.",
             "en": "Where two mighty rivers meet.",
-            "fr": "Le point de rencontre de deux fleuves puissants."
+            "fr": "Où se rencontrent deux puissants cours d’eau."
           }
         }
       ],
@@ -426,7 +426,7 @@
         "hu": "Kezdje a napot a Villandry-kertek alapos bejárásával. Ezután pattanjon nyeregbe és kövesse a 'Loire à Vélo' útvonalat kelet felé.\n\nDélben érkezzen meg Savonnières-be, a bájos hajósfaluba. Tartson pihenőt a folyóparton és élvezze a nyugodt légkört.\n\nDélután fedezze fel a savonnières-i megkövült barlangokat, mielőtt továbbrepedne a Cher és a Loire torkolatához.\n\nA visszaút sík mezőkön és nyárfasorokon keresztül vezet vissza Villandryba, miközben a délutáni nap aranyba vonja a tájat.",
         "ro": "Începeți ziua cu o vizită amănunțită a grădinilor din Villandry. Apoi urcați-vă pe bicicletă și urmați traseul „Loire à Vélo” spre est.\n\nLa prânz, ajungeți în Savonnières, un sat fermecător de navigatori. Faceți o pauză pe malul râului și bucurați-vă de atmosfera relaxată.\n\nDupă-amiaza, explorați fascinantele peșteri petrificate din Savonnières înainte de a continua spre gura de vărsare a râului Cher în Loara.\n\nDrumul de întoarcere vă duce prin câmpuri plane și alei de plopi înapoi la Villandry, în timp ce soarele după-amiezii colorează peisajul în auriu.",
         "en": "Start the day with a thorough visit to the gardens of Villandry. Then hop on your bike and follow the 'Loire à Vélo' route eastwards.\n\nAt noon, arrive in Savonnières, a charming boating village. Take a break on the riverbank and enjoy the relaxed atmosphere.\n\nIn the afternoon, explore the fascinating petrified caves of Savonnières before continuing to the confluence of the Cher and the Loire.\n\nThe ride back takes you through flat fields and poplar alleys back to Villandry as the afternoon sun turns the landscape golden.",
-        "fr": "Commencez la journée par une visite approfondie des jardins de Villandry. Enfourchez ensuite votre vélo et suivez l'itinéraire de la 'Loire à Vélo' vers l'est.\n\nÀ midi, arrivez à Savonnières, un charmant village de bateliers. Faites une pause sur les bords du fleuve et profitez de l'ambiance détendée.\n\nL'après-midi, explorez les fascinantes grottes pétrifiantes de Savonnières avant de poursuivre jusqu'au confluent du Cher et de la Loire.\n\nLe trajet de retour vous emmène à travers des champs plats et des allées de peupliers jusqu'à Villandry, alors que le soleil couchant dore le paysage."
+        "fr": "Commencez la journée par une visite approfondie des jardins de Villandry. Ensuite, enfourchez votre vélo et suivez la route « Loire à Vélo » vers l’est.\n\nÀ midi, arrivez à Savonnières, un charmant village de bateliers. Faites une pause sur la rive et profitez de l’atmosphère détendue.\n\nL’après‑midi, explorez les fascinantes grottes pétrifiées de Savonnières avant de poursuivre vers la confluence du Cher et de la Loire.\n\nLe retour vous ramène à Villandry à travers des champs plats et des allées de peupliers, tandis que le soleil de l’après‑midi dore le paysage."
       },
       "gastro_picks": {
         "de": [
@@ -556,9 +556,9 @@
         ],
         "fr": [
           "Le parcours est presque entièrement plat et très sûr.",
-          "Louez votre vélo à l'avance dans le village de Villandry.",
-          "Prenez suffisamment d'eau, il y a peu d'ombre.",
-          "Un détour par le vieux pont de Savonnières en vaut la peine."
+          "Louez votre vélo au village de Villandry à l’avance.",
+          "Emportez suffisamment d’eau, il y a peu d’ombre.",
+          "Un détour par le vieux pont de Savonnières vaut le coup."
         ]
       }
     },
@@ -586,7 +586,7 @@
             "hu": "Parkoljon az ingyenes főparkolóban.",
             "ro": "Parcați în parcarea principală gratuită.",
             "en": "Park in the free main parking lot.",
-            "fr": "Garez-vous sur le parking principal gratuit."
+            "fr": "Garez‑vous sur le parking principal gratuit."
           }
         },
         {
@@ -605,7 +605,7 @@
             "hu": "A reneszánsz ékköve, amely mintha a vízen lebegne.",
             "ro": "O bijuterie a Renașterii care pare să plutească pe apă.",
             "en": "A Renaissance jewel that seems to float on the water.",
-            "fr": "Un joyau de la Renaissance qui semble flotter sur l'eau."
+            "fr": "Un joyau de la Renaissance qui semble flotter sur l’eau."
           }
         },
         {
@@ -624,7 +624,7 @@
             "hu": "Tökéletes egy hangulatos ebédszünethez.",
             "ro": "Perfect pentru o pauză de prânz primitoare.",
             "en": "Perfect for a cozy lunch break.",
-            "fr": "Parfait pour une pause déjeuner conviviale."
+            "fr": "Parfait pour une pause déjeuner cosy."
           }
         },
         {
@@ -643,7 +643,7 @@
             "hu": "Rodin és Camille Claudel szerelmi fészke.",
             "ro": "Locul de dragoste al lui Rodin și Camille Claudel.",
             "en": "The love nest of Rodin and Camille Claudel.",
-            "fr": "Le nid d'amour de Rodin et Camille Claudel."
+            "fr": "Le nid d’amour de Rodin et Camille Claudel."
           }
         },
         {
@@ -662,7 +662,7 @@
             "hu": "Rövid megálló a végső panorámáért.",
             "ro": "Scurtă oprire pentru panorama finală.",
             "en": "Short stop for the final panorama.",
-            "fr": "Arrêt rapide pour le panorama final."
+            "fr": "Arrêt court pour le panorama final."
           }
         }
       ],
@@ -671,7 +671,7 @@
         "hu": "Kezdje a délelőttöt a Villandry-kertekben. Ezután autózzon délre az Azay-le-Rideau kastélyhoz, amely a francia reneszánsz egyik remekműve.\n\nDélben fedezze fel Azay-le-Rideau utcáit és kóstolja meg a környék Touraine borait.\n\nA délután a kevésbé ismert l'Islette kastélyhoz kalauzolja, amely romantikus történetével és az Indre folyó partján fekvő idilli helyszínével hódít.\n\nEste felé térjen vissza Villandryba, hogy a napot a völgy feletti dombokról nyíló kilátással zárja.",
         "ro": "Începeți dimineața în grădinile din Villandry. Apoi conduceți spre sud către Castelul Azay-le-Rideau, o capodoperă a Renașterii franceze.\n\nLa prânz, explorați străzile din Azay-le-Rideau și degustați vinurile Touraine din regiune.\n\nDupă-amiaza vă poartă la Castelul l'Islette, mai puțin cunoscut, care captivează prin istoria sa romantică și locația idilică pe malul râului Indre.\n\nSpre seară, întoarceți-vă la Villandry pentru a încheia ziua cu o priveliște de pe dealurile de deasupra văii.",
         "en": "Start the morning in the Villandry gardens. Then drive south to the Château d'Azay-le-Rideau, a masterpiece of the French Renaissance.\n\nAt noon, explore the streets of Azay-le-Rideau and taste the Touraine wines of the region.\n\nThe afternoon takes you to the lesser-known Château de l'Islette, which charms with its romantic history and idyllic location on the banks of the river Indre.\n\nTowards evening, return to Villandry to end the day with a view from the hills above the valley.",
-        "fr": "Commencez la matinée dans les jardins de Villandry. Prenez ensuite la route vers le sud jusqu'au château d'Azay-le-Rideau, un chef-d'œuvre de la Renaissance française.\n\nÀ midi, explorez les rues d'Azay-le-Rideau et dégustez les vins de Touraine de la région.\n\nL'après-midi vous emmène au château de l'Islette, moins connu, qui charme par son histoire romantique et son emplacement idyllique sur les bords de l'Indre.\n\nVers le soir, retournez à Villandry pour terminer la journée avec une vue depuis les collines surplombant la vallée."
+        "fr": "Commencez la matinée dans les jardins de Villandry. Puis prenez la route vers le sud jusqu’au Château d’Azay‑le‑Rideau, chef‑d’œuvre de la Renaissance française.\n\nÀ midi, parcourez les rues d’Azay‑le‑Rideau et goûtez aux vins de Touraine de la région.\n\nL’après‑midi vous mène au moins connu Château de l’Islette, qui charme par son histoire romantique et son emplacement idyllique sur les bords de l’Indre.\n\nEn fin de journée, retournez à Villandry pour terminer la journée avec une vue depuis les collines surplombant la vallée."
       },
       "gastro_picks": {
         "de": [
@@ -800,10 +800,10 @@
           "Watch out for one-way streets in Villandry village."
         ],
         "fr": [
-          "Réservez vos billets pour Azay-le-Rideau en ligne pour éviter les files d'attente.",
-          "Les parkings à Azay sont souvent complets en été.",
-          "Le trajet entre les châteaux est très pittoresque.",
-          "Attention aux rues à sens unique dans le village de Villandry."
+          "Réservez vos billets pour Azay‑le‑Rideau en ligne pour éviter les files d’attente.",
+          "Les parkings à Azay sont souvent pleins en été.",
+          "La route entre les châteaux est très pittoresque.",
+          "Faites attention aux sens uniques dans le village de Villandry."
         ]
       }
     },
@@ -831,7 +831,7 @@
             "hu": "A Fil Bleu V vonalának központi megállója.",
             "ro": "Stația centrală pentru linia V a Fil Bleu.",
             "en": "Central stop for the Fil Bleu Line V.",
-            "fr": "Arrêt central pour la ligne V de Fil Bleu."
+            "fr": "Arrêt central pour la ligne Fil Bleu V."
           }
         },
         {
@@ -869,7 +869,7 @@
             "hu": "Lenyűgöző gótikus üvegablakok.",
             "ro": "Vitralii gotice impresionante.",
             "en": "Impressive Gothic stained glass.",
-            "fr": "Impressionnants vitraux gothiques."
+            "fr": "Imposants vitraux gothiques."
           }
         },
         {
@@ -888,7 +888,7 @@
             "hu": "Vacsora a faluban a visszautazás előtt.",
             "ro": "Cină în sat înainte de plecare.",
             "en": "Dinner in the village before the return journey.",
-            "fr": "Dîner au village avant le trajet de retour."
+            "fr": "Dînez au village avant le retour."
           }
         }
       ],
@@ -897,7 +897,7 @@
         "hu": "Használja a 'Fil Bleu' ingajáratot Villandry és Tours között. Kezdje a reggelt a pompás kertek megtekintésével.\n\nDélben a busz Tours szívébe viszi, ahol a Place Plumereau-n, favázas házak között ebédelhet.\n\nDélután tekintsék meg az impozáns Saint-Gatien katedrálist, mielőtt visszabuszolnának Villandry vidéki nyugalmába.\n\nAz este Villandry faluban ér véget, távol Tours város nyüzsgésétől.",
         "ro": "Folosiți autobuzul 'Fil Bleu' pentru a face naveta între Villandry și Tours. Începeți dimineața vizitând grădinile splendide.\n\nLa prânz, autobuzul vă duce în inima orașului Tours, unde puteți mânca în Place Plumereau, printre case cu structură de lemn.\n\nDupă-amiaza, vizitați catedrala impunătoare Saint-Gatien înainte de a lua autobuzul înapoi spre liniștea rurală din Villandry.\n\nSeara se încheie în satul Villandry, departe de agitația orașului Tours.",
         "en": "Use the 'Fil Bleu' shuttle bus to commute between Villandry and Tours. Start the morning by visiting the magnificent gardens.\n\nAt noon, the bus takes you to the heart of Tours, where you can eat in Place Plumereau surrounded by half-timbered houses.\n\nIn the afternoon, visit the imposing Saint-Gatien Cathedral before taking the bus back to the rural peace of Villandry.\n\nThe evening ends in the village of Villandry, far from the hustle and bustle of Tours.",
-        "fr": "Utilisez la navette 'Fil Bleu' pour faire la liaison entre Villandry et Tours. Commencez la matinée en visitant les magnifiques jardins.\n\nÀ midi, le bus vous emmène au cœur de Tours, où vous pourrez déjeuner sur la place Plumereau, entourée de maisons à colombages.\n\nL'après-midi, visitez l'imposante cathédrale Saint-Gatien avant de reprendre le bus pour retrouver le calme rural de Villandry.\n\nLa soirée se termine dans le village de Villandry, loin de l'agitation de Tours."
+        "fr": "Utilisez la navette « Fil Bleu » pour aller de Villandry à Tours. Commencez la matinée par la visite des magnifiques jardins.\n\nÀ midi, le bus vous dépose au cœur de Tours, où vous pourrez déjeuner sur la place Plumereau entourée de maisons à colombages.\n\nL’après‑midi, visitez l’imposante cathédrale Saint‑Gatien avant de reprendre le bus pour retrouver la quiétude rurale de Villandry.\n\nLa soirée se termine au village de Villandry, loin de l’agitation de Tours."
       },
       "gastro_picks": {
         "de": [
@@ -1026,10 +1026,10 @@
           "Be sure to check the time of the last return bus."
         ],
         "fr": [
-          "La navette Bus V ne circule régulièrement qu'en haute saison.",
-          "Achetez votre billet directement auprès du chauffeur ou via l'application.",
+          "Le bus V ne circule régulièrement qu’en haute saison.",
+          "Achetez votre titre directement auprès du conducteur ou via l’application.",
           "Le trajet dure environ 30 à 40 minutes.",
-          "Vérifiez bien l'heure du dernier bus de retour."
+          "Vérifiez bien l’horaire du dernier bus de retour."
         ]
       }
     }

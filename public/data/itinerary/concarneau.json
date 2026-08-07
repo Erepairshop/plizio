@@ -21,7 +21,8 @@
             "de": "Ville Close (Altstadt)",
             "hu": "Ville Close (erődített város)",
             "ro": "Ville Close (orașul fortificat)",
-            "en": "Ville Close (Walled Town)"
+            "en": "Ville Close (Walled Town)",
+            "fr": "Ville Close (Cité fortifiée)"
           },
           "coords": [
             -3.9188,
@@ -37,7 +38,7 @@
             "hu": "Sétáljon körbe a várfalon a legjobb reggeli fényekért.",
             "ro": "Plimbați-vă pe zidurile cetății pentru cea mai bună lumină.",
             "en": "Walk the ramparts early morning for the best light.",
-            "fr": "Marchez sur les remparts tôt le matin pour la meilleure lumière."
+            "fr": "Parcourez les remparts à l'aube pour la meilleure lumière."
           }
         },
         {
@@ -45,7 +46,8 @@
             "de": "Fischereimuseum",
             "hu": "Halászati Múzeum",
             "ro": "Muzeul Pescuitului",
-            "en": "Fishing Museum"
+            "en": "Fishing Museum",
+            "fr": "Musée de la Pêche"
           },
           "coords": [
             -3.9195,
@@ -61,7 +63,7 @@
             "hu": "Nézze meg az igazi 'Hémérica' vonóhálós hajót a szárazdokkban.",
             "ro": "Vizitați traulerul real 'Hémérica' aflat în docul uscat.",
             "en": "Visit the real 'Hémérica' trawler in the dry dock.",
-            "fr": "Visitez le véritable chalutier 'Hémérica' en cale sèche."
+            "fr": "Visitez le véritable chalutier « Hémérica » en cale sèche."
           }
         },
         {
@@ -69,7 +71,8 @@
             "de": "Jachthafen",
             "hu": "Jachtkikötő",
             "ro": "Portul de Agrement",
-            "en": "Port de Plaisance"
+            "en": "Port de Plaisance",
+            "fr": "Port de Plaisance"
           },
           "coords": [
             -3.917,
@@ -85,7 +88,7 @@
             "hu": "Figyelje a vitorlások nyüzsgését a kikötőben.",
             "ro": "Observați agitația ambarcațiunilor cu pânze.",
             "en": "Watch the bustling activity of the sailboats.",
-            "fr": "Observez l'activité animée des voiliers."
+            "fr": "Observez l'animation des voiliers."
           }
         },
         {
@@ -93,7 +96,8 @@
             "de": "Lokales Bistro",
             "hu": "Helyi bisztró",
             "ro": "Bistro Local",
-            "en": "Local Bistro"
+            "en": "Local Bistro",
+            "fr": "Bistrot local"
           },
           "coords": [
             -3.916,
@@ -109,7 +113,7 @@
             "hu": "Kóstolja meg a kagylót sült krumplival és breton ciderrel.",
             "ro": "Încercați scoicile cu cartofi prăjiți și cidru breton.",
             "en": "Try the moules-frites with local Breton cider.",
-            "fr": "Goûtez les moules-frites avec du cidre breton local."
+            "fr": "Goûtez les moules‑frites accompagnées du cidre breton local."
           }
         },
         {
@@ -117,7 +121,8 @@
             "de": "Marinarium",
             "hu": "Marinárium",
             "ro": "Marinarium",
-            "en": "Marinarium"
+            "en": "Marinarium",
+            "fr": "Marinarium"
           },
           "coords": [
             -3.912,
@@ -133,7 +138,7 @@
             "hu": "Fedezze fel a tengerbiológiát a világ legrégebbi marináriumában.",
             "ro": "Descoperiți biologia marină în cel mai vechi marinarium din lume.",
             "en": "Discover marine biology in the world's oldest marinarium.",
-            "fr": "Découvrez la biologie marine dans le plus vieux marinarium du monde."
+            "fr": "Découvrez la biologie marine dans le plus ancien marinarium du monde."
           }
         },
         {
@@ -141,7 +146,8 @@
             "de": "Corniche-Promenade",
             "hu": "Corniche sétány",
             "ro": "Promenada Corniche",
-            "en": "Corniche Promenade"
+            "en": "Corniche Promenade",
+            "fr": "Promenade de la Corniche"
           },
           "coords": [
             -3.915,
@@ -157,7 +163,7 @@
             "hu": "Tökéletes hely a naplementéhez az Atlanti-óceán felett.",
             "ro": "Locul perfect pentru apusul peste Oceanul Atlantic.",
             "en": "Perfect spot for sunset over the Atlantic Ocean.",
-            "fr": "Endroit parfait pour le coucher du soleil sur l'océan Atlantique."
+            "fr": "Endroit parfait pour le coucher de soleil sur l'océan Atlantique."
           }
         }
       ],
@@ -166,7 +172,7 @@
         "hu": "A reggel a Ville Close-ban indul, az erődített szigetvárosban, amely tele van történelemmel. Ezután a Halászati Múzeumban elmerülhet Bretagne tengeri lelkében. Ebédre friss tenger gyümölcseit kóstolhat a kikötőben. A délután a tudományé a Marináriumban, majd egy pihentető séta következik a Corniche mentén a naplementében.",
         "ro": "Dimineața începe în Ville Close, un oraș insular fortificat plin de istorie. Apoi, vă scufundați în sufletul maritim al Bretaniei la Muzeul Pescuitului. La prânz, savurați fructe de mare proaspete în port. După-amiaza este dedicată științei la Marinarium, urmată de o plimbare relaxantă de-a lungul falezei Corniche la apus.",
         "en": "Morning starts in the Ville Close, a fortified island town full of history. Then, dive into Brittany's maritime soul at the Fishing Museum. At lunch, enjoy fresh seafood at the harbor. The afternoon is dedicated to science at the Marinarium, followed by a relaxing stroll along the Corniche at sunset.",
-        "fr": "La matinée commence dans la Ville Close, une cité fortifiée insulaire chargée d'histoire. Plongez ensuite dans l'âme maritime de la Bretagne au Musée de la Pêche. Au déjeuner, savourez des fruits de mer frais au port. L'après-midi est dédié à la science au Marinarium, suivi d'une promenade relaxante le long de la Corniche au coucher du soleil."
+        "fr": "La matinée commence dans la Ville Close, une cité insulaire fortifiée pleine d'histoire. Ensuite, plongez dans l'âme maritime de Bretagne au Musée de la Pêche. À midi, dégustez des fruits de mer frais au port. L'après-midi est dédié à la science au Marinarium, suivi d'une promenade relaxante le long de la Corniche au coucher du soleil."
       },
       "gastro_picks": {
         "de": [
@@ -360,9 +366,9 @@
           "Book your Marinarium ticket in advance."
         ],
         "fr": [
-          "Utilisez le 'Bac', le plus petit ferry du monde, comme raccourci.",
+          "Utilisez le « Bac », le plus petit ferry du monde, comme raccourci.",
           "Portez des chaussures confortables pour les rues pavées.",
-          "Vérifiez l'annuaire des marées pour les promenades sur la plage.",
+          "Consultez les horaires des marées pour les promenades sur la plage.",
           "Réservez votre billet pour le Marinarium à l'avance."
         ]
       }
@@ -380,7 +386,8 @@
             "de": "Ville Close",
             "hu": "Ville Close",
             "ro": "Ville Close",
-            "en": "Ville Close"
+            "en": "Ville Close",
+            "fr": "Ville Close"
           },
           "coords": [
             -3.9188,
@@ -404,7 +411,8 @@
             "de": "Plage des Sables Blancs",
             "hu": "Sables Blancs strand",
             "ro": "Plaja Sables Blancs",
-            "en": "Sables Blancs Beach"
+            "en": "Sables Blancs Beach",
+            "fr": "Plage des Sables Blancs"
           },
           "coords": [
             -3.925,
@@ -420,7 +428,7 @@
             "hu": "Egy csobbanás a vízben felfrissíti.",
             "ro": "O baie în mare vă va răcori.",
             "en": "A dip in the water will refresh you.",
-            "fr": "Une baignade dans l'eau vous rafraîchira."
+            "fr": "Une baignade vous rafraîchira."
           }
         },
         {
@@ -428,7 +436,8 @@
             "de": "Château de Kériolet",
             "hu": "Kériolet kastély",
             "ro": "Castelul Kériolet",
-            "en": "Kériolet Castle"
+            "en": "Kériolet Castle",
+            "fr": "Château de Kériolet"
           },
           "coords": [
             -3.91,
@@ -444,7 +453,7 @@
             "hu": "Gyönyörű neogótikus építészet.",
             "ro": "Arhitectură neogotică superbă.",
             "en": "Beautiful neo-Gothic architecture.",
-            "fr": "Magnifique architecture néo-gothique."
+            "fr": "Magnifique architecture néo‑gothique."
           }
         },
         {
@@ -452,7 +461,8 @@
             "de": "Le Lanriec",
             "hu": "Le Lanriec",
             "ro": "Le Lanriec",
-            "en": "Le Lanriec"
+            "en": "Le Lanriec",
+            "fr": "Le Lanriec"
           },
           "coords": [
             -3.905,
@@ -476,7 +486,8 @@
             "de": "Hafeneinfahrt",
             "hu": "Kikötőbejárat",
             "ro": "Intrarea în port",
-            "en": "Harbor Entrance"
+            "en": "Harbor Entrance",
+            "fr": "Entrée du port"
           },
           "coords": [
             -3.915,
@@ -492,7 +503,7 @@
             "hu": "Figyelje a befutó hajókat.",
             "ro": "Observați bărcile care intră în port.",
             "en": "Watch the incoming boats.",
-            "fr": "Regardez les bateaux entrer au port."
+            "fr": "Surveillez l'arrivée des bateaux."
           }
         }
       ],
@@ -501,7 +512,7 @@
         "hu": "Kerékpárral fedezheti fel a partot és a hátországot. A történelmi óváros után a Sables Blancs fehér homokos strandjához tekerhet. Egy hosszú pihenő után felfelé vezet az út a mesebeli Kériolet kastélyhoz. A visszaút Lanriec csendes ösvényein keresztül vezet a kikötőhöz.",
         "ro": "Cu bicicleta veți explora coasta și împrejurimile. După orașul vechi istoric, pedalați spre plaja cu nisip alb Sables Blancs. După o pauză lungă, drumul urcă spre castelul de basm Kériolet. Întoarcerea se face prin potecile liniștite din Lanriec înapoi în port.",
         "en": "By bike, you'll explore the coast and the hinterland. After the historic old town, cycle to the white sandy beach of Sables Blancs. After a long break, head uphill to the fairytale Kériolet Castle. The return trip takes you through the quiet paths of Lanriec back to the harbor.",
-        "fr": "À vélo, vous explorerez la côte et l'arrière-pays. Après la vieille ville historique, pédalez jusqu'à la plage de sable blanc des Sables Blancs. Après une longue pause, montez vers le château de Kériolet, digne d'un conte de fées. Le retour se fait par les sentiers tranquilles de Lanriec jusqu'au port."
+        "fr": "À vélo, vous explorerez la côte et l'arrière-pays. Après la vieille ville historique, roulez jusqu'à la plage de Sables Blancs. Après une longue pause, montez jusqu'au château de Kériolet, semblable à un conte de fées. Le retour se fait par les sentiers tranquilles de Lanriec jusqu'au port."
       },
       "gastro_picks": {
         "de": [
@@ -650,10 +661,10 @@
           "Always lock your bike."
         ],
         "fr": [
-          "Louez un vélo électrique pour la montée vers le château.",
-          "Utilisez la piste cyclable côtière.",
+          "Louez un vélo à assistance électrique pour la montée au château.",
+          "Empruntez la piste cyclable côtière.",
           "Faites attention aux piétons sur la promenade.",
-          "Attachez toujours votre vélo."
+          "Verrouillez toujours votre vélo."
         ]
       }
     },
@@ -670,7 +681,8 @@
             "de": "Château de Kériolet",
             "hu": "Kériolet kastély",
             "ro": "Castelul Kériolet",
-            "en": "Kériolet Castle"
+            "en": "Kériolet Castle",
+            "fr": "Château de Kériolet"
           },
           "coords": [
             -3.91,
@@ -694,7 +706,8 @@
             "de": "Ville Close Parkplatz",
             "hu": "Ville Close parkoló",
             "ro": "Parcare Ville Close",
-            "en": "Ville Close Parking"
+            "en": "Ville Close Parking",
+            "fr": "Parking Ville Close"
           },
           "coords": [
             -3.919,
@@ -710,7 +723,7 @@
             "hu": "Nagy parkoló a Place du Champ de Foire-on.",
             "ro": "Parcare mare în Place du Champ de Foire.",
             "en": "Large parking at Place du Champ de Foire.",
-            "fr": "Grand parking sur la Place du Champ de Foire."
+            "fr": "Grand parking à la Place du Champ de Foire."
           }
         },
         {
@@ -718,7 +731,8 @@
             "de": "Pointe du Cabellou",
             "hu": "Cabellou-fok",
             "ro": "Pointe du Cabellou",
-            "en": "Pointe du Cabellou"
+            "en": "Pointe du Cabellou",
+            "fr": "Pointe du Cabellou"
           },
           "coords": [
             -3.9,
@@ -742,7 +756,8 @@
             "de": "Le Cabellou Strand",
             "hu": "Le Cabellou strand",
             "ro": "Plaja Le Cabellou",
-            "en": "Le Cabellou Beach"
+            "en": "Le Cabellou Beach",
+            "fr": "Plage du Cabellou"
           },
           "coords": [
             -3.895,
@@ -758,7 +773,7 @@
             "hu": "Ideális kisgyermekes családoknak.",
             "ro": "Ideal pentru familiile cu copii.",
             "en": "Ideal for families with children.",
-            "fr": "Idéal pour les familles avec enfants."
+            "fr": "Idéale pour les familles avec enfants."
           }
         },
         {
@@ -766,7 +781,8 @@
             "de": "Marinarium",
             "hu": "Marinárium",
             "ro": "Marinarium",
-            "en": "Marinarium"
+            "en": "Marinarium",
+            "fr": "Marinarium"
           },
           "coords": [
             -3.912,
@@ -791,7 +807,7 @@
         "hu": "Autóval Concarneau távolabbi kincseit is elérheti. A pompás Kériolet kastélynál kezd. Ezután a központba, a Ville Close-ba indul. A délutánt a Cabellou-félszigeten tölti, amely kis öbleiről és régi erődjéről ismert. Befejezésül látogasson el a Marináriumba.",
         "ro": "Cu mașina puteți ajunge la comorile mai îndepărtate din Concarneau. Începeți la splendidul Castel Kériolet. Apoi mergeți în centru la Ville Close. După-amiaza o petreceți în peninsula Cabellou, cunoscută pentru micile sale golfuri și vechiul fort. La final, vizitați Marinarium.",
         "en": "By car, you can reach the more remote treasures of Concarneau. Start at the magnificent Kériolet Castle. Then head to the center to the Ville Close. Spend the afternoon on the Cabellou peninsula, known for its small coves and old fort. To finish, visit the Marinarium.",
-        "fr": "En voiture, vous pouvez atteindre les trésors plus isolés de Concarneau. Commencez par le magnifique château de Kériolet. Dirigez-vous ensuite vers le centre pour la Ville Close. Passez l'après-midi sur la presqu'île du Cabellou, connue pour ses petites criques et son vieux fort. Pour finir, visitez le Marinarium."
+        "fr": "En voiture, vous pouvez atteindre les trésors plus reculés de Concarneau. Commencez par le magnifique château de Kériolet. Ensuite, rejoignez le centre et la Ville Close. Passez l'après-midi sur la presqu'île du Cabellou, connue pour ses petites criques et son vieux fort. Pour finir, visitez le Marinarium."
       },
       "gastro_picks": {
         "de": [
@@ -921,9 +937,9 @@
         ],
         "fr": [
           "Garez-vous à l'extérieur de la Ville Close.",
-          "Les rues du Cabellou sont étroites.",
-          "Utilisez des applications de stationnement.",
-          "Conduisez prudemment en cas de vents côtiers."
+          "Les rues de Cabellou sont étroites.",
+          "Utilisez des applications de parking.",
+          "Conduisez prudemment par vents côtiers."
         ]
       }
     },
@@ -940,7 +956,8 @@
             "de": "Ville Close",
             "hu": "Ville Close",
             "ro": "Ville Close",
-            "en": "Ville Close"
+            "en": "Ville Close",
+            "fr": "Ville Close"
           },
           "coords": [
             -3.9188,
@@ -964,7 +981,8 @@
             "de": "Hafenviertel",
             "hu": "Kikötőnegyed",
             "ro": "Cartierul portului",
-            "en": "Harbor Area"
+            "en": "Harbor Area",
+            "fr": "Quartier du port"
           },
           "coords": [
             -3.917,
@@ -980,7 +998,7 @@
             "hu": "A vásárlás és kávézók központja.",
             "ro": "Centrul pentru cumpărături și cafenele.",
             "en": "Center for shopping and cafes.",
-            "fr": "Centre pour le shopping et les cafés."
+            "fr": "Centre commercial avec cafés."
           }
         },
         {
@@ -988,7 +1006,8 @@
             "de": "Marinarium",
             "hu": "Marinárium",
             "ro": "Marinarium",
-            "en": "Marinarium"
+            "en": "Marinarium",
+            "fr": "Marinarium"
           },
           "coords": [
             -3.912,
@@ -1012,7 +1031,8 @@
             "de": "Plage des Sables Blancs",
             "hu": "Sables Blancs strand",
             "ro": "Plaja Sables Blancs",
-            "en": "Sables Blancs Beach"
+            "en": "Sables Blancs Beach",
+            "fr": "Plage des Sables Blancs"
           },
           "coords": [
             -3.925,
@@ -1036,7 +1056,8 @@
             "de": "Quai de l'Aiguillon",
             "hu": "Quai de l'Aiguillon",
             "ro": "Quai de l'Aiguillon",
-            "en": "Quai de l'Aiguillon"
+            "en": "Quai de l'Aiguillon",
+            "fr": "Quai de l'Aiguillon"
           },
           "coords": [
             -3.918,
@@ -1052,7 +1073,7 @@
             "hu": "Jó hely egy fagyira a hazaindulás előtt.",
             "ro": "Loc bun pentru o înghețată înainte de plecare.",
             "en": "Good spot for ice cream before heading back.",
-            "fr": "Bon endroit pour une glace avant de repartir."
+            "fr": "Bon endroit pour une glace avant le retour."
           }
         }
       ],
@@ -1061,7 +1082,7 @@
         "hu": "A 'Coralie' buszhálózat összeköti a város főbb pontjait. A Ville Close-ban kezd, majd a kikötőnegyedben barangol. Ezután a busz elviszi a Marináriumba. Délután a Sables Blancs strandon élvezheti a napsütést, mielőtt visszatérne a központba egy kis harapnivalóra.",
         "ro": "Rețeaua de autobuze 'Coralie' conectează principalele puncte ale orașului. Începeți în Ville Close și apoi vă plimbați prin zona portului. Ulterior, autobuzul vă duce la Marinarium. După-amiaza vă bucurați de soare pe plaja Sables Blancs, înainte de a reveni în centru pentru o gustare.",
         "en": "The 'Coralie' bus network connects the city's main points. Start in the Ville Close and then stroll through the harbor district. Then the bus takes you to the Marinarium. In the afternoon, enjoy the sun at Sables Blancs beach before returning to the center for a snack.",
-        "fr": "Le réseau de bus 'Coralie' relie les principaux points de la ville. Commencez par la Ville Close puis flânez dans le quartier du port. Le bus vous emmène ensuite au Marinarium. L'après-midi, profitez du soleil à la plage des Sables Blancs avant de revenir au centre pour un goûter."
+        "fr": "Le réseau de bus « Coralie » relie les principaux points de la ville. Commencez dans la Ville Close puis flânez dans le quartier du port. Ensuite le bus vous emmène au Marinarium. L'après‑midi, profitez du soleil à la plage des Sables Blancs avant de retourner au centre pour un encas."
       },
       "gastro_picks": {
         "de": [
@@ -1190,10 +1211,10 @@
           "Get a network map at the harbor."
         ],
         "fr": [
-          "Achetez un ticket à la journée.",
+          "Achetez un ticket journalier.",
           "Faites attention aux horaires d'été.",
-          "Les bus circulent ponctuellement.",
-          "Procurez-vous un plan du réseau au port."
+          "Les bus sont ponctuels.",
+          "Obtenez un plan du réseau au port."
         ]
       }
     }

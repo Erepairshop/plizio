@@ -21,7 +21,8 @@
             "de": "Square des Marais",
             "hu": "Square des Marais",
             "ro": "Square des Marais",
-            "en": "Square des Marais"
+            "en": "Square des Marais",
+            "fr": "Square des Marais"
           },
           "coords": [
             1.819963,
@@ -36,7 +37,8 @@
             "de": "Beginnen Sie Ihren Tag an diesem friedlichen städtischen Platz mit malerischer Landschaftsgestaltung und holen Sie sich vorher einen Kaffee in der Nähe.",
             "hu": "Kezdje a napot ezen a békés, festői parkosítással rendelkező városi téren, és igyon egy friss kávét a közeli kávézóban, mielőtt tovább indulna felfedezni.",
             "ro": "Începeți ziua în această piațetă urbană liniștită, cu peisaje pitorești, și luați o cafea proaspătă de la o cafenea din apropiere înainte de a continua.",
-            "en": "Start your day gracefully in this peaceful urban square featuring quaint landscaping, and grab a fresh coffee from a nearby café before you continue exploring."
+            "en": "Start your day gracefully in this peaceful urban square featuring quaint landscaping, and grab a fresh coffee from a nearby café before you continue exploring.",
+            "fr": "Commencez votre journée en douceur dans cette paisible place urbaine agrémentée d'un aménagement pittoresque, et prenez un café fraîchement préparé dans un café à proximité avant de poursuivre votre visite."
           }
         },
         {
@@ -44,7 +46,8 @@
             "de": "Jardin de la Motte",
             "hu": "Jardin de la Motte",
             "ro": "Jardin de la Motte",
-            "en": "Jardin de la Motte"
+            "en": "Jardin de la Motte",
+            "fr": "Jardin de la Motte"
           },
           "coords": [
             1.819288,
@@ -59,7 +62,8 @@
             "de": "Genießen Sie einen entspannenden Morgenspaziergang durch diesen gepflegten öffentlichen Garten voller saisonaler Blumen, der sich ideal für schöne Fotos eignet.",
             "hu": "Élvezze a pihentető reggeli sétát ebben a szezonális virágokkal teli, gondozott közkertben, amely tökéletes helyszín néhány gyönyörű fénykép elkészítéséhez.",
             "ro": "Bucurați-vă de o plimbare matinală relaxantă prin această grădină publică plină de flori de sezon, fiind un loc perfect pentru a face câteva fotografii superbe.",
-            "en": "Enjoy a relaxing morning walk through this well-maintained public garden full of seasonal flowers, making it a perfect spot to take some beautiful photos."
+            "en": "Enjoy a relaxing morning walk through this well-maintained public garden full of seasonal flowers, making it a perfect spot to take some beautiful photos.",
+            "fr": "Profitez d'une promenade matinale relaxante dans ce jardin public bien entretenu, paré de fleurs saisonnières — un endroit idéal pour prendre de belles photos."
           }
         },
         {
@@ -67,7 +71,8 @@
             "de": "Schloss Rambouillet",
             "hu": "Rambouillet-kastély",
             "ro": "Castelul Rambouillet",
-            "en": "Rambouillet Castle"
+            "en": "Rambouillet Castle",
+            "fr": "Rambouillet Castle"
           },
           "coords": [
             1.817778,
@@ -82,7 +87,8 @@
             "de": "Bewundern Sie die historische Architektur, in der einst französische Präsidenten residierten, und buchen Sie Ihre Führung frühzeitig, um Menschenmassen zu meiden.",
             "hu": "Csodálja meg a történelmi építészetet, ahol egykor francia elnökök laktak, és foglaljon korán tárlatvezetést, hogy elkerülje a délutáni nagyobb tömeget.",
             "ro": "Admirați arhitectura istorică unde au locuit cândva președinții francezi și rezervați turul ghidat devreme pentru a evita aglomerația de după-amiază.",
-            "en": "Admire the exquisite historic architecture where French presidents once resided, and make sure to book your guided tour early to avoid the afternoon crowds."
+            "en": "Admire the exquisite historic architecture where French presidents once resided, and make sure to book your guided tour early to avoid the afternoon crowds.",
+            "fr": "Admirez l'architecture historique exquise où ont résidé des présidents français, et pensez à réserver votre visite guidée à l'avance pour éviter la foule de l'après-midi."
           }
         },
         {
@@ -90,7 +96,8 @@
             "de": "Rambolitrain Museum",
             "hu": "Rambolitrain Múzeum",
             "ro": "Muzeul Rambolitrain",
-            "en": "Rambolitrain Museum"
+            "en": "Rambolitrain Museum",
+            "fr": "Rambolitrain Museum"
           },
           "coords": [
             1.824173,
@@ -105,7 +112,8 @@
             "de": "Entdecken Sie eine unglaubliche Sammlung von Miniaturzügen und historischem Spielzeug, aber beachten Sie die Mittagspause bei der Planung Ihres Besuchs.",
             "hu": "Fedezze fel a miniatűr vonatok és vintage játékok elképesztő gyűjteményét, de mindenképp ellenőrizze a nyitvatartást, mert ebédszünetben általában zárva tartanak.",
             "ro": "Explorați o colecție incredibilă de trenulețe și jucării de epocă, dar verificați programul de funcționare deoarece se închide mereu în timpul prânzului.",
-            "en": "Explore an incredible collection of miniature trains and vintage toys that delight all ages, but check the operating hours as they close during lunch."
+            "en": "Explore an incredible collection of miniature trains and vintage toys that delight all ages, but check the operating hours as they close during lunch.",
+            "fr": "Découvrez une collection incroyable de trains miniatures et de jouets anciens qui ravissent tous les âges ; vérifiez toutefois les heures d'ouverture car ils ferment à l'heure du déjeuner."
           }
         },
         {
@@ -113,7 +121,8 @@
             "de": "Wald von Rambouillet",
             "hu": "Rambouillet-erdő",
             "ro": "Pădurea Rambouillet",
-            "en": "Rambouillet Forest"
+            "en": "Rambouillet Forest",
+            "fr": "Rambouillet Forest"
           },
           "coords": [
             1.844367,
@@ -128,7 +137,8 @@
             "de": "Schlendern Sie durch die schattigen Wege dieses riesigen Naturschutzgebietes zur Tierbeobachtung und tragen Sie dabei unbedingt bequeme Wanderschuhe.",
             "hu": "Sétáljon végig az árnyékos ösvényeken ebben a hatalmas természetvédelmi területen, és viseljen kényelmes túracipőt a vadon élő állatok megfigyeléséhez.",
             "ro": "Plimbați-vă pe cărările umbrite ale acestei rezervații naturale vaste, excelentă pentru observarea faunei, așa că purtați neapărat încălțăminte confortabilă.",
-            "en": "Stroll along the shaded pathways of this vast natural reserve which offers excellent wildlife spotting, so wear comfortable walking shoes for the varied terrain."
+            "en": "Stroll along the shaded pathways of this vast natural reserve which offers excellent wildlife spotting, so wear comfortable walking shoes for the varied terrain.",
+            "fr": "Promenez-vous le long des sentiers ombragés de cette vaste réserve naturelle qui offre d'excellentes possibilités d'observation de la faune — portez des chaussures de marche confortables pour le terrain varié."
           }
         }
       ],
@@ -136,7 +146,8 @@
         "de": "Beginnen Sie Ihr Wanderabenteuer in der frischen Morgenluft am ruhigen Square des Marais und schlendern Sie zum bunten Jardin de la Motte, um Ihre Sinne zu wecken. Diese üppigen Grünflächen geben einen wunderbaren, entspannenden Ton für die spannende historische Reise vor, die heute noch vor Ihnen liegt.\n\nWenn die Sonne höher steht, erreichen Sie das beeindruckende Schloss Rambouillet und tauchen tief in die französische Geschichte ein. Danach können Sie im Rambolitrain Museum in Nostalgie schwelgen, wo unzählige Miniaturzüge mit ihren Details sowohl junge als auch jung gebliebene Besucher begeistern.\n\nNachdem Sie den städtischen Charme hinter sich gelassen haben, lädt der Nachmittag zu einem erfrischenden Spaziergang in den Wald von Rambouillet ein. Das weitläufige Blätterdach spendet kühlenden Schatten, während Sie die rohe, unberührte natürliche Schönheit der umgebenden Region intensiv erleben.\n\nIhr aufregender Erkundungstag endet friedlich unter den majestätischen Bäumen des Waldes von Rambouillet. Nutzen Sie diese letzte Stunde, um die frische, erdige Luft tief einzuatmen und dem sanften Rauschen der Blätter zuzuhören. Es ist der perfekte, ruhige Abschluss einer abwechslungsreichen Tour.",
         "hu": "Kezdje a gyalogos kalandot a friss reggeli levegőn a békés Square des Marais-n, majd sétáljon le a színes Jardin de la Motte-hoz, hogy felébressze érzékeit. Ezek a buja, hívogató zöldterületek csodálatos és pihentető alaphangot adnak az Ön előtt álló izgalmas történelmi utazásnak a mai napra.\n\nAhogy a nap egyre magasabbra hág, megérkezik a csodálatos Rambouillet-kastélyhoz, ahol elmerülhet a francia elnöki történelemben. Ezt követően adja át magát a nosztalgiának a Rambolitrain Múzeumban, ahol számtalan miniatűr vonat nyűgözi le a fiatalokat és az idősebbeket hihetetlen részletgazdagságával.\n\nA városi bájt maga mögött hagyva, a délután egy hosszú, frissítő sétára invitál az ikonikus Rambouillet-erdő felé. A kiterjedt lombkorona hűsítő árnyékot ad, miközben a gondozott múzeumi ösvényekről a vadonba lép át, átölelve a környező francia régió nyers és lenyűgöző természeti szépségét.\n\nA felfedezéssel töltött napja a Rambouillet-erdő hatalmas fái alatt ér véget. Használja ki ezt az utolsó órát arra, hogy belélegezze a friss, földillatú levegőt, és hallgassa a levelek lágy zizegését. Ez a tökéletes, csendes befejezése egy mélyen jutalmazó és változatos gyalogos túrának a városban.",
         "ro": "Începeți aventura pe jos în aerul proaspăt al dimineții la liniștita Square des Marais, apoi plimbați-vă spre colorata Jardin de la Motte. Aceste spații verzi luxuriante și primitoare stabilesc un ton minunat și relaxant pentru călătoria istorică captivantă care vă stă în față pe parcursul zilei de astăzi.\n\nPe măsură ce soarele urcă, veți ajunge la magnificul Castel Rambouillet, plonjând în istoria prezidențială franceză. Apoi, cufundați-vă în nostalgie la Muzeul Rambolitrain, unde nenumărate trenulețe în miniatură captivează atât tinerii, cât și pe cei cu inima tânără prin detaliile lor incredibile.\n\nLăsând în urmă farmecul urban, după-amiaza vă invită la o plimbare lungă și răcoritoare spre emblematica Pădure Rambouillet. Coroana vastă a copacilor oferă o umbră răcoroasă pe măsură ce treceți de la aleile îngrijite ale muzeului la sălbăticie, îmbrățișând frumusețea naturală brută a regiunii.\n\nZiua dumneavoastră de explorare se încheie sub copacii măreți ai Pădurii Rambouillet. Profitați de această ultimă oră pentru a respira aerul curat, cu miros de pământ, și a asculta foșnetul blând al frunzelor. Este finalul perfect, liniștit, pentru un tur pe jos extrem de plin de satisfacții și variat.",
-        "en": "Begin your walking adventure in the fresh morning air at the tranquil Square des Marais, then meander down to the colorful Jardin de la Motte to awaken your senses. These lush, inviting green spaces set a wonderful and relaxing tone for the exciting historical journey that lies ahead of you today.\n\nAs the sun climbs higher, you will arrive at the magnificent Rambouillet Castle, diving deep into French presidential history. Afterward, immerse yourself in nostalgia at the Rambolitrain Museum, where countless miniature trains captivate both the young and the young at heart with their incredible detail.\n\nLeaving the urban charm behind, the afternoon invites you to take a long, refreshing walk towards the iconic Rambouillet Forest. The sprawling canopy provides a cooling shade as you transition from the manicured museum paths into the wild, embracing the raw natural beauty of the surrounding region.\n\nYour day of exploration concludes beneath the grand trees of the Rambouillet Forest. Take this final hour to breathe in the crisp, earthy air and listen to the gentle rustling of the leaves. It is the perfect, quiet ending to a deeply rewarding and varied walking tour through the heart of Rambouillet."
+        "en": "Begin your walking adventure in the fresh morning air at the tranquil Square des Marais, then meander down to the colorful Jardin de la Motte to awaken your senses. These lush, inviting green spaces set a wonderful and relaxing tone for the exciting historical journey that lies ahead of you today.\n\nAs the sun climbs higher, you will arrive at the magnificent Rambouillet Castle, diving deep into French presidential history. Afterward, immerse yourself in nostalgia at the Rambolitrain Museum, where countless miniature trains captivate both the young and the young at heart with their incredible detail.\n\nLeaving the urban charm behind, the afternoon invites you to take a long, refreshing walk towards the iconic Rambouillet Forest. The sprawling canopy provides a cooling shade as you transition from the manicured museum paths into the wild, embracing the raw natural beauty of the surrounding region.\n\nYour day of exploration concludes beneath the grand trees of the Rambouillet Forest. Take this final hour to breathe in the crisp, earthy air and listen to the gentle rustling of the leaves. It is the perfect, quiet ending to a deeply rewarding and varied walking tour through the heart of Rambouillet.",
+        "fr": "Commencez votre aventure pédestre dans l'air frais du matin au paisible Square des Marais, puis promenez-vous jusqu'au coloré Jardin de la Motte pour éveiller vos sens. Ces espaces verts luxuriants et accueillants donnent le ton pour la journée historique et reposante qui vous attend.\n\nAu fur et à mesure que le soleil monte, vous arriverez au magnifique Rambouillet Castle pour plonger dans l'histoire présidentielle française. Ensuite, imprégnez-vous de nostalgie au Rambolitrain Museum, où d'innombrables trains miniatures captivent les petits comme les grands par leur incroyable précision.\n\nQuittez le charme urbain et, l'après-midi, profitez d'une longue et rafraîchissante balade vers l'emblématique Rambouillet Forest. La canopée étendue offre une ombre bienvenue pendant que vous passez des allées soignées des musées à la nature sauvage, accueillant la beauté naturelle brute de la région.\n\nVotre journée d'exploration se conclut sous les grands arbres de la Rambouillet Forest. Prenez cette dernière heure pour respirer l'air frais et terreux et écouter le doux bruissement des feuilles — la fin parfaite, calme et reposante, d'une randonnée pédestre variée et enrichissante au cœur de Rambouillet."
       },
       "variants": {
         "rainy": {
@@ -144,7 +155,8 @@
             "de": "Morgens erleben Sie den Square des Marais im sanften Regen, der die Farben der Natur intensiviert. Mittags bietet das Schloss Rambouillet einen prunkvollen und trockenen Zufluchtsort voller Geschichte. Nachmittags fasziniert das Rambolitrain Museum mit seinen Miniaturen, während es draußen prasselt. Abends sorgt der Wald von Rambouillet mit seiner frischen, feuchten Luft für einen klaren Kopf.",
             "hu": "Reggel a ködös Square des Marais parkban kezdünk, ahol az eső illata frissíti fel a tájat. Délben a kastély falai között lelünk menedéket, megcsodálva a történelmi belső tereket. Délután a Rambolitrain Múzeum makettvilága nyújt fedett szórakozást minden korosztálynak. Az estét az erdő párás ösvényein zárjuk, ahol a fák koronája óv meg a nagyobb zuhéktól, misztikus hangulatot árasztva.",
             "ro": "Dimineața începe în Square des Marais, unde ploaia măruntă creează o atmosferă melancolică și verde. La prânz, Castelul Rambouillet oferă adăpost regal și o incursiune fascinantă în istoria Franței. După-amiaza este dedicată Muzeului Rambolitrain, un spațiu acoperit perfect pentru a evita intemperiile. Seara, pădurea Rambouillet emană un aer proaspăt, ideal pentru o plimbare scurtă sub umbrelă.",
-            "en": "Morning starts at Square des Marais, where the rain brings out the vivid greens of the park. At noon, Rambouillet Castle provides a grand, dry sanctuary filled with royal history. Afternoon is spent at the Rambolitrain Museum, a perfect indoor escape to admire intricate models. Evening concludes in the forest, where the damp earth and misty trees create a uniquely serene, atmospheric walk."
+            "en": "Morning starts at Square des Marais, where the rain brings out the vivid greens of the park. At noon, Rambouillet Castle provides a grand, dry sanctuary filled with royal history. Afternoon is spent at the Rambolitrain Museum, a perfect indoor escape to admire intricate models. Evening concludes in the forest, where the damp earth and misty trees create a uniquely serene, atmospheric walk.",
+            "fr": "La matinée commence au Square des Marais, où la pluie fait ressortir le vert vif du parc. À midi, le Rambouillet Castle offre un grand refuge sec rempli d'histoire royale. L'après-midi se passe au Rambolitrain Museum, une parfaite escapade intérieure pour admirer des maquettes détaillées. La soirée se termine dans la forêt, où la terre humide et les arbres embrumés créent une promenade sereine et atmosphérique."
           },
           "stops": [
             {
@@ -152,13 +164,15 @@
                 "de": "Square des Marais",
                 "hu": "Square des Marais",
                 "ro": "Square des Marais",
-                "en": "Square des Marais"
+                "en": "Square des Marais",
+                "fr": "Square des Marais"
               },
               "tip_5lang": {
                 "de": "Genießen Sie die Ruhe im Regen; die asphaltierten Wege sind gut begehbar, aber ein großer Regenschirm ist für die offenen Flächen unerlässlich.",
                 "hu": "Élvezze a park nyugalmát esőben is; az aszfaltozott utak jól járhatóak, de a nyitott részek miatt egy nagyobb esernyő mindenképpen szükséges.",
                 "ro": "Bucurați-vă de liniștea parcului pe ploaie; aleile asfaltate sunt ușor de parcurs, dar o umbrelă mare este esențială pentru zonele deschise.",
-                "en": "Enjoy the park's tranquility in the rain; the paved paths are easy to walk, but a large umbrella is essential for the open areas."
+                "en": "Enjoy the park's tranquility in the rain; the paved paths are easy to walk, but a large umbrella is essential for the open areas.",
+                "fr": "Appréciez la quiétude du parc sous la pluie ; les allées pavées sont faciles à parcourir, mais un grand parapluie est indispensable pour les zones découvertes."
               }
             },
             {
@@ -166,13 +180,15 @@
                 "de": "Jardin de la Motte",
                 "hu": "Jardin de la Motte",
                 "ro": "Jardin de la Motte",
-                "en": "Jardin de la Motte"
+                "en": "Jardin de la Motte",
+                "fr": "Jardin de la Motte"
               },
               "tip_5lang": {
                 "de": "Der Garten wirkt im Regen mystisch; nutzen Sie die Baumgruppen als natürlichen Schutz und tragen Sie wasserfeste Schuhe für die Rasenkanten.",
                 "hu": "A kert misztikus arcát mutatja esőben; használja a facsoportokat természetes óvóhelyként, és viseljen vízálló cipőt a fűszegélyek mentén.",
                 "ro": "Grădina pare mistică în ploaie; folosiți grupurile de copaci ca adăpost natural și purtați încălțăminte impermeabilă pentru marginile cu iarbă.",
-                "en": "The garden looks mystical in the rain; use the groves as natural shelter and wear waterproof shoes for the grassy edges."
+                "en": "The garden looks mystical in the rain; use the groves as natural shelter and wear waterproof shoes for the grassy edges.",
+                "fr": "Le jardin paraît mystique sous la pluie ; utilisez les bosquets comme abri naturel et portez des chaussures imperméables pour les lisières herbeuses."
               }
             },
             {
@@ -180,13 +196,15 @@
                 "de": "Schloss Rambouillet",
                 "hu": "Rambouillet-kastély",
                 "ro": "Castelul Rambouillet",
-                "en": "Rambouillet Castle"
+                "en": "Rambouillet Castle",
+                "fr": "Rambouillet Castle"
               },
               "tip_5lang": {
                 "de": "Dies ist der ideale Ort, um dem Regen zu entkommen; bewundern Sie die Holztäfelungen und planen Sie Zeit für die Muschelgrotte ein.",
                 "hu": "Ez a legjobb hely az eső elől; csodálja meg a gazdag faburkolatokat, és szánjon időt a különleges Kagylógrotte megtekintésére is.",
                 "ro": "Acesta este locul ideal pentru a scăpa de ploaie; admirați panourile de lemn și rezervați timp pentru Grota cu Scoici.",
-                "en": "This is the ideal place to escape the rain; admire the ornate woodwork and make sure to visit the unique Shell Grotto."
+                "en": "This is the ideal place to escape the rain; admire the ornate woodwork and make sure to visit the unique Shell Grotto.",
+                "fr": "C'est l'endroit idéal pour échapper à la pluie ; admirez les boiseries ornées et n'oubliez pas de visiter la grotte aux coquillages unique."
               }
             },
             {
@@ -194,13 +212,15 @@
                 "de": "Rambolitrain Museum",
                 "hu": "Rambolitrain Múzeum",
                 "ro": "Muzeul Rambolitrain",
-                "en": "Rambolitrain Museum"
+                "en": "Rambolitrain Museum",
+                "fr": "Rambolitrain Museum"
               },
               "tip_5lang": {
                 "de": "Ein Paradies im Trockenen; bestaunen Sie die tausenden Modelleisenbahnen und lassen Sie sich von der nostalgischen Atmosphäre verzaubern.",
                 "hu": "Igazi fedett paradicsom; ámuljon el a több ezer vasútmodellen, és hagyja, hogy elvarázsolja a nosztalgikus belső hangulat.",
                 "ro": "Un paradis la adăpost; admirați mii de trenulețe miniaturale și lăsați-vă fermecați de atmosfera nostalgică de la interior.",
-                "en": "A dry paradise for all; marvel at the thousands of model trains and let the nostalgic indoor atmosphere enchant you."
+                "en": "A dry paradise for all; marvel at the thousands of model trains and let the nostalgic indoor atmosphere enchant you.",
+                "fr": "Un paradis sec pour tous ; émerveillez-vous devant des milliers de trains miniatures et laissez l'ambiance intérieure nostalgique vous enchanter."
               }
             },
             {
@@ -208,13 +228,15 @@
                 "de": "Wald von Rambouillet",
                 "hu": "Rambouillet-erdő",
                 "ro": "Pădurea Rambouillet",
-                "en": "Rambouillet Forest"
+                "en": "Rambouillet Forest",
+                "fr": "Rambouillet Forest"
               },
               "tip_5lang": {
                 "de": "Der Wald duftet nach Regen wunderbar; bleiben Sie auf den Hauptwegen, da die Nebenpfade sehr schlammig und rutschig sein können.",
                 "hu": "Az erdő illata csodás eső után; maradjon a főutakon, mivel a mellékösvények ilyenkor nagyon sárosak és csúszósak lehetnek.",
                 "ro": "Pădurea miroase minunat după ploaie; rămâneți pe drumurile principale, deoarece potecile secundare pot fi foarte noroioase.",
-                "en": "The forest smells wonderful after rain; stick to the main paths as the side trails can become very muddy and slippery."
+                "en": "The forest smells wonderful after rain; stick to the main paths as the side trails can become very muddy and slippery.",
+                "fr": "La forêt dégage un merveilleux parfum après la pluie ; tenez-vous aux sentiers principaux car les chemins secondaires peuvent devenir très boueux et glissants."
               }
             }
           ]
@@ -224,7 +246,8 @@
             "de": "Am Morgen glitzert der Frost im Square des Marais unter der tiefstehenden Wintersonne. Mittags wärmen Sie sich in den prachtvollen Sälen des Schlosses Rambouillet auf, während draußen die Kälte klirrt. Nachmittags bietet das Rambolitrain Museum wohlige Wärme und faszinierende Details. Da die Sonne gegen 17:00 Uhr sinkt, erleben Sie die blaue Stunde im winterlichen Wald.",
             "hu": "Reggel a zúzmarás Square des Marais fogadja, ahol a téli napsütés különleges fényt ad a tájnak. Délben a kastély fűtött termeiben melegedhetünk fel, elmerülve a királyi pompában. Délután a Rambolitrain Múzeum barátságos belső tere várja a látogatókat. Mivel 17 óra körül sötétedik, az erdő látogatását időzítse korábbra a biztonság érdekében.",
             "ro": "Dimineața, bruma strălucește în Square des Marais sub soarele palid de iarnă. La prânz, vă puteți încălzi în sălile somptuoase ale Castelului Rambouillet, admirând decorul regal. După-amiaza, Muzeul Rambolitrain oferă un refugiu primitor și călduros. Deoarece soarele apune în jurul orei 17:00, planificați plimbarea în pădure mai devreme.",
-            "en": "In the morning, frost glistens at Square des Marais under the crisp winter sky. At noon, warm up inside the grand halls of Rambouillet Castle while admiring its regal interiors. Afternoon brings cozy exploration at the Rambolitrain Museum's heated galleries. As the sun sets around 5 PM, enjoy the magical blue hour in the winter forest before it gets too dark."
+            "en": "In the morning, frost glistens at Square des Marais under the crisp winter sky. At noon, warm up inside the grand halls of Rambouillet Castle while admiring its regal interiors. Afternoon brings cozy exploration at the Rambolitrain Museum's heated galleries. As the sun sets around 5 PM, enjoy the magical blue hour in the winter forest before it gets too dark.",
+            "fr": "Le matin, le givre scintille au Square des Marais sous le ciel hivernal vif. À midi, réchauffez-vous dans les grandes salles du Rambouillet Castle en admirant ses intérieurs royaux. L'après-midi, profitez d'une exploration chaleureuse dans les galeries chauffées du Rambolitrain Museum. Au coucher du soleil vers 17:00, appréciez l'heure bleue magique dans la forêt d'hiver avant qu'il ne fasse trop sombre."
           },
           "stops": [
             {
@@ -232,13 +255,15 @@
                 "de": "Square des Marais",
                 "hu": "Square des Marais",
                 "ro": "Square des Marais",
-                "en": "Square des Marais"
+                "en": "Square des Marais",
+                "fr": "Square des Marais"
               },
               "tip_5lang": {
                 "de": "Die frostige Landschaft ist fotogen; tragen Sie Schichten und achten Sie auf gefrorene Pfützen, die auf den Wegen glatt sein können.",
                 "hu": "A deres táj nagyon fotogén; öltözzön rétegesen, és ügyeljen a fagyott tócsákra, amelyek az utakon csúszósak lehetnek.",
                 "ro": "Peisajul înghețat este foarte fotogenic; îmbrăcați-vă în straturi și atenție la bălțile înghețate care pot fi alunecoase pe alei.",
-                "en": "The frosty landscape is very photogenic; wear layers and watch out for frozen puddles that can be slippery on the paths."
+                "en": "The frosty landscape is very photogenic; wear layers and watch out for frozen puddles that can be slippery on the paths.",
+                "fr": "Le paysage givré est très photogénique ; portez des couches chaudes et méfiez-vous des flaques gelées qui peuvent rendre les chemins glissants."
               }
             },
             {
@@ -246,13 +271,15 @@
                 "de": "Jardin de la Motte",
                 "hu": "Jardin de la Motte",
                 "ro": "Jardin de la Motte",
-                "en": "Jardin de la Motte"
+                "en": "Jardin de la Motte",
+                "fr": "Jardin de la Motte"
               },
               "tip_5lang": {
                 "de": "Ein kurzer, belebender Spaziergang ist ideal; die klare Winterluft bietet weite Sichtachsen, aber die Bänke sind oft zu kalt zum Verweilen.",
                 "hu": "Egy rövid, élénkítő séta ideális itt; a tiszta téli levegő távoli kilátást enged, de a padok túl hidegek a hosszabb pihenéshez.",
                 "ro": "O plimbare scurtă și revigorantă este ideală; aerul curat de iarnă oferă vizibilitate bună, dar băncile sunt prea reci pentru popas.",
-                "en": "A short, bracing walk is ideal here; the clear winter air offers great views, but the benches are often too cold for sitting."
+                "en": "A short, bracing walk is ideal here; the clear winter air offers great views, but the benches are often too cold for sitting.",
+                "fr": "Une courte marche revigorante est idéale ici ; l'air clair d'hiver offre de belles vues, mais les bancs sont souvent trop froids pour s'asseoir."
               }
             },
             {
@@ -260,13 +287,15 @@
                 "de": "Schloss Rambouillet",
                 "hu": "Rambouillet-kastély",
                 "ro": "Castelul Rambouillet",
-                "en": "Rambouillet Castle"
+                "en": "Rambouillet Castle",
+                "fr": "Rambouillet Castle"
               },
               "tip_5lang": {
                 "de": "Genießen Sie die historische Wärme im Inneren; besuchen Sie auch die Meierei der Königin, aber wärmen Sie sich vorher im Hauptschloss auf.",
                 "hu": "Élvezze a belső terek történelmi melegét; látogasson el a királyné tejgazdaságába is, de előtte melegedjen fel a főépületben.",
                 "ro": "Bucurați-vă de căldura istorică din interior; vizitați și lăptăria reginei, dar încălziți-vă mai întâi în castelul principal.",
-                "en": "Enjoy the historical warmth inside; visit the Queen's Dairy as well, but make sure to warm up in the main castle first."
+                "en": "Enjoy the historical warmth inside; visit the Queen's Dairy as well, but make sure to warm up in the main castle first.",
+                "fr": "Profitez de la chaleur historique à l'intérieur ; visitez également la Laiterie de la Reine, mais réchauffez-vous d'abord dans le château principal."
               }
             },
             {
@@ -274,13 +303,15 @@
                 "de": "Rambolitrain Museum",
                 "hu": "Rambolitrain Múzeum",
                 "ro": "Muzeul Rambolitrain",
-                "en": "Rambolitrain Museum"
+                "en": "Rambolitrain Museum",
+                "fr": "Rambolitrain Museum"
               },
               "tip_5lang": {
                 "de": "Der perfekte Ort für einen kalten Nachmittag; die detaillierten Exponate lassen Sie die Kälte draußen schnell vergessen.",
                 "hu": "Tökéletes helyszín egy hideg délutánra; a részletgazdag kiállítási tárgyak feledtetik a kinti fagyos időt.",
                 "ro": "Locul perfect pentru o după-amiază rece; exponatele detaliate vă vor face să uitați rapid de frigul de afară.",
-                "en": "The perfect spot for a cold afternoon; the detailed exhibits will make you quickly forget the freezing weather outside."
+                "en": "The perfect spot for a cold afternoon; the detailed exhibits will make you quickly forget the freezing weather outside.",
+                "fr": "L'endroit parfait pour un après-midi froid ; les expositions détaillées vous feront vite oublier le froid extérieur."
               }
             },
             {
@@ -288,13 +319,15 @@
                 "de": "Wald von Rambouillet",
                 "hu": "Rambouillet-erdő",
                 "ro": "Pădurea Rambouillet",
-                "en": "Rambouillet Forest"
+                "en": "Rambouillet Forest",
+                "fr": "Rambouillet Forest"
               },
               "tip_5lang": {
                 "de": "Beenden Sie den Besuch vor Einbruch der Dunkelheit gegen 17 Uhr; die kahlen Bäume bieten eine faszinierende, weite Sicht in den Wald.",
                 "hu": "Fejezze be a látogatást sötétedés előtt, 17 óra körül; a kopár fák miatt ilyenkor messzebbre látni az erdő sűrűjébe.",
                 "ro": "Încheiați vizita înainte de lăsarea întunericului, în jurul orei 17; copacii desfrunziți oferă o vizibilitate fascinantă în pădure.",
-                "en": "Finish your visit before sunset around 5 PM; the bare trees offer a fascinating, long-distance view into the forest depths."
+                "en": "Finish your visit before sunset around 5 PM; the bare trees offer a fascinating, long-distance view into the forest depths.",
+                "fr": "Terminez votre visite avant le coucher du soleil vers 17:00 ; les arbres dépouillés offrent une vue fascinante et profonde dans la forêt."
               }
             }
           ]
@@ -314,7 +347,8 @@
             "de": "Jardin de la Motte",
             "hu": "Jardin de la Motte",
             "ro": "Jardin de la Motte",
-            "en": "Jardin de la Motte"
+            "en": "Jardin de la Motte",
+            "fr": "Jardin de la Motte"
           },
           "coords": [
             1.819288,
@@ -329,7 +363,8 @@
             "de": "Genießen Sie einen entspannenden Morgenspaziergang durch diesen gepflegten öffentlichen Garten voller saisonaler Blumen, der sich ideal für schöne Fotos eignet.",
             "hu": "Élvezze a pihentető reggeli sétát ebben a szezonális virágokkal teli, gondozott közkertben, amely tökéletes helyszín néhány gyönyörű fénykép elkészítéséhez.",
             "ro": "Bucurați-vă de o plimbare matinală relaxantă prin această grădină publică plină de flori de sezon, fiind un loc perfect pentru a face câteva fotografii superbe.",
-            "en": "Enjoy a relaxing morning walk through this well-maintained public garden full of seasonal flowers, making it a perfect spot to take some beautiful photos."
+            "en": "Enjoy a relaxing morning walk through this well-maintained public garden full of seasonal flowers, making it a perfect spot to take some beautiful photos.",
+            "fr": "Profitez d'une promenade matinale relaxante dans ce jardin public bien entretenu, paré de fleurs saisonnières — un endroit idéal pour prendre de belles photos."
           }
         },
         {
@@ -337,7 +372,8 @@
             "de": "Schloss Rambouillet",
             "hu": "Rambouillet-kastély",
             "ro": "Castelul Rambouillet",
-            "en": "Rambouillet Castle"
+            "en": "Rambouillet Castle",
+            "fr": "Rambouillet Castle"
           },
           "coords": [
             1.817778,
@@ -352,7 +388,8 @@
             "de": "Bewundern Sie die historische Architektur, in der einst französische Präsidenten residierten, und buchen Sie Ihre Führung frühzeitig, um Menschenmassen zu meiden.",
             "hu": "Csodálja meg a történelmi építészetet, ahol egykor francia elnökök laktak, és foglaljon korán tárlatvezetést, hogy elkerülje a délutáni nagyobb tömeget.",
             "ro": "Admirați arhitectura istorică unde au locuit cândva președinții francezi și rezervați turul ghidat devreme pentru a evita aglomerația de după-amiază.",
-            "en": "Admire the exquisite historic architecture where French presidents once resided, and make sure to book your guided tour early to avoid the afternoon crowds."
+            "en": "Admire the exquisite historic architecture where French presidents once resided, and make sure to book your guided tour early to avoid the afternoon crowds.",
+            "fr": "Admirez l'architecture historique exquise où ont résidé des présidents français, et pensez à réserver votre visite guidée à l'avance pour éviter la foule de l'après-midi."
           }
         },
         {
@@ -360,7 +397,8 @@
             "de": "Rambolitrain Museum",
             "hu": "Rambolitrain Múzeum",
             "ro": "Muzeul Rambolitrain",
-            "en": "Rambolitrain Museum"
+            "en": "Rambolitrain Museum",
+            "fr": "Rambolitrain Museum"
           },
           "coords": [
             1.824173,
@@ -375,7 +413,8 @@
             "de": "Entdecken Sie eine unglaubliche Sammlung von Miniaturzügen und historischem Spielzeug, aber beachten Sie die Mittagspause bei der Planung Ihres Besuchs.",
             "hu": "Fedezze fel a miniatűr vonatok és vintage játékok elképesztő gyűjteményét, de mindenképp ellenőrizze a nyitvatartást, mert ebédszünetben általában zárva tartanak.",
             "ro": "Explorați o colecție incredibilă de trenulețe și jucării de epocă, dar verificați programul de funcționare deoarece se închide mereu în timpul prânzului.",
-            "en": "Explore an incredible collection of miniature trains and vintage toys that delight all ages, but check the operating hours as they close during lunch."
+            "en": "Explore an incredible collection of miniature trains and vintage toys that delight all ages, but check the operating hours as they close during lunch.",
+            "fr": "Découvrez une collection incroyable de trains miniatures et de jouets anciens qui ravissent tous les âges ; vérifiez toutefois les heures d'ouverture car ils ferment à l'heure du déjeuner."
           }
         },
         {
@@ -383,7 +422,8 @@
             "de": "Wald von Rambouillet",
             "hu": "Rambouillet-erdő",
             "ro": "Pădurea Rambouillet",
-            "en": "Rambouillet Forest"
+            "en": "Rambouillet Forest",
+            "fr": "Rambouillet Forest"
           },
           "coords": [
             1.844367,
@@ -398,7 +438,8 @@
             "de": "Schlendern Sie durch die schattigen Wege dieses riesigen Naturschutzgebietes zur Tierbeobachtung und tragen Sie dabei unbedingt bequeme Wanderschuhe.",
             "hu": "Sétáljon végig az árnyékos ösvényeken ebben a hatalmas természetvédelmi területen, és viseljen kényelmes túracipőt a vadon élő állatok megfigyeléséhez.",
             "ro": "Plimbați-vă pe cărările umbrite ale acestei rezervații naturale vaste, excelentă pentru observarea faunei, așa că purtați neapărat încălțăminte confortabilă.",
-            "en": "Stroll along the shaded pathways of this vast natural reserve which offers excellent wildlife spotting, so wear comfortable walking shoes for the varied terrain."
+            "en": "Stroll along the shaded pathways of this vast natural reserve which offers excellent wildlife spotting, so wear comfortable walking shoes for the varied terrain.",
+            "fr": "Promenez-vous le long des sentiers ombragés de cette vaste réserve naturelle qui offre d'excellentes possibilités d'observation de la faune — portez des chaussures de marche confortables pour le terrain varié."
           }
         },
         {
@@ -406,7 +447,8 @@
             "de": "Espace Rambouillet",
             "hu": "Espace Rambouillet",
             "ro": "Espace Rambouillet",
-            "en": "Espace Rambouillet"
+            "en": "Espace Rambouillet",
+            "fr": "Espace Rambouillet"
           },
           "coords": [
             1.828978,
@@ -421,7 +463,8 @@
             "de": "Tauchen Sie in die Waldumgebung ein, wo Greifvögel frei fliegen, und bleiben Sie in der Nähe der Gehege ruhig, um die besten Beobachtungen zu machen.",
             "hu": "Merüljön el az erdei környezetben, ahol ragadozó madarak szabadon repülnek, és maradjon csendben a kifutók közelében a legjobb megfigyelési élmény érdekében.",
             "ro": "Cufundați-vă în mediul forestier unde păsările de pradă zboară liber și amintiți-vă să păstrați liniștea lângă țarcuri pentru cele mai bune priveliști.",
-            "en": "Immerse yourself completely in the deep forest environment where birds of prey fly freely, and remember to stay quiet near the enclosures for the best views."
+            "en": "Immerse yourself completely in the deep forest environment where birds of prey fly freely, and remember to stay quiet near the enclosures for the best views.",
+            "fr": "Plongez complètement dans l'environnement forestier profond où les rapaces volent librement, et pensez à rester silencieux près des enclos pour profiter au mieux des observations."
           }
         },
         {
@@ -429,7 +472,8 @@
             "de": "Spielplatz Bel Air",
             "hu": "Bel Air játszótér",
             "ro": "Loc de joacă Bel Air",
-            "en": "Aire de Jeux Square du Bel Air"
+            "en": "Aire de Jeux Square du Bel Air",
+            "fr": "Aire de Jeux Square du Bel Air"
           },
           "coords": [
             1.828537,
@@ -444,7 +488,8 @@
             "de": "Lassen Sie die Kinder auf diesem modernen und sicheren Spielplatz mit tollen Klettergerüsten spielen, während Sie sich auf den schattigen Bänken ausruhen.",
             "hu": "Hagyja, hogy a gyerekek levezessék az energiájukat ezen a modern, biztonságos játszótéren, miközben ön megpihenhet az árnyékos és kényelmes padokon.",
             "ro": "Lăsați copiii să-și consume energia la acest loc de joacă modern și sigur, în timp ce vă odihniți puțin pe băncile confortabile și umbrite de copaci.",
-            "en": "Let the kids burn off some energy at this modern and safe playground which offers fun climbing structures, while you rest on the comfortable shaded benches."
+            "en": "Let the kids burn off some energy at this modern and safe playground which offers fun climbing structures, while you rest on the comfortable shaded benches.",
+            "fr": "Laissez les enfants dépenser leur énergie dans cette aire de jeux moderne et sûre offrant des structures d'escalade amusantes, pendant que vous vous reposez sur les bancs ombragés et confortables."
           }
         }
       ],
@@ -452,7 +497,8 @@
         "de": "Starten Sie Ihre Radtour am schönen Jardin de la Motte und genießen Sie eine sanfte morgendliche Fahrt, bevor Sie zum berühmten Schloss Rambouillet radeln. Die frische Luft und die guten Radwege bieten einen belebenden Start und bereiten Sie perfekt auf die historischen Entdeckungen vor, die Sie erwarten.\n\nGegen Mittag radeln Sie durch wunderschöne Straßen zum bezaubernden Rambolitrain Museum. Hier machen Sie eine herrliche Pause vom Sattel, um die aufwendigen Spielzeugzüge zu bewundern. Danach begeben Sie sich auf eine malerische Fahrt in Richtung der weitläufigen Naturgebiete am Stadtrand.\n\nDer Nachmittag steht ganz im Zeichen der Natur, während Sie elegant durch den Wald von Rambouillet gleiten. Die gut markierten Wege führen Sie dann zum fantastischen Espace Rambouillet, wo Sie Ihr Rad abstellen und die faszinierenden Greifvögel sowie die lokale Tierwelt in ihrem Lebensraum beobachten können.\n\nWenn die Sonne untergeht, bringt Sie eine kurze, entspannte Fahrt zum Aire de Jeux Square du Bel Air. Hier können Sie sich zurücklehnen und die Reise des Tages Revue passieren lassen, während die Kinder den Spielplatz genießen – ein friedlicher und befriedigender Abschluss Ihrer aktiven Radtour.",
         "hu": "Indítsa kerékpáros túráját a bájos Jardin de la Motte-nál, és élvezze a kellemes reggeli tekerést, mielőtt a híres Rambouillet-kastélyhoz érne. A friss levegő és a sima kerékpárutak élénkítő kezdést biztosítanak, tökéletesen felkészítve Önt az odabent váró lenyűgöző történelmi felfedezésekre.\n\nDélben gyönyörű utcákon kerékpározva éri el a bájos Rambolitrain Múzeumot, ahol egy kellemes pihenőt tartva megcsodálhatja a bonyolult játékvonatokat. Ezt követően egy festői kerékpárútra indul, egyenesen a várost övező kiterjedt, buja zöld természetvédelmi területek felé véve az irányt.\n\nA délután a természetről szól, ahogy kecsesen átsiklik a csodálatos Rambouillet-erdőn. A jól jelzett kerékpáros ösvények elvezetik a hihetetlen Espace Rambouillet-hez, ahol biztonságosan leparkolhatja kerékpárját, és megfigyelheti a lenyűgöző ragadozó madarakat és a helyi vadvilágot a maga valójában.\n\nAhogy a nap lenyugszik, egy rövid, kényelmes utazás elviszi a nyüzsgő Aire de Jeux Square du Bel Air-hez. Itt hátradőlhet, és átgondolhatja a nap élményeit, miközben a gyerekek élvezik a játszóteret, ezzel a nyugodt és elégedett érzéssel lezárva a fárasztó, de csodálatos Rambouillet-i kerékpártúrát.",
         "ro": "Începeți călătoria cu bicicleta la superba Jardin de la Motte, bucurându-vă de o plimbare matinală ușoară înainte de a pedala spre ilustrul Castel Rambouillet. Aerul curat și pistele de ciclism line oferă un început revigorant, pregătindu-vă perfect pentru descoperirile istorice care vă așteaptă înăuntru.\n\nPână la prânz, veți pedala pe străzi frumoase pentru a ajunge la fermecătorul Muzeu Rambolitrain, luând o pauză încântătoare din șa pentru a admira trenulețele complexe. Apoi, vă veți îmbarca într-o plimbare pitorească cu bicicleta, îndreptându-vă direct spre spațiile verzi vaste care mărginesc orașul.\n\nDupă-amiaza este dedicată naturii, în timp ce alunecați grațios prin magnifica Pădure Rambouillet. Traseele de biciclete bine marcate vă vor conduce la incredibilul Espace Rambouillet, unde puteți parca bicicleta și observa fascinantele păsări de pradă și fauna locală în habitatul lor natural.\n\nPe măsură ce soarele apune, o scurtă și relaxantă plimbare vă aduce la animata Aire de Jeux Square du Bel Air. Aici vă puteți așeza și reflecta la călătoria zilei, în timp ce copiii se bucură de locul de joacă, încheind turul activ cu bicicleta cu un sentiment senin și satisfăcător de împlinire.",
-        "en": "Kick off your biking journey at the lovely Jardin de la Motte, enjoying a gentle morning ride before pedaling over to the illustrious Rambouillet Castle. The crisp air and the smooth cycling paths offer an invigorating start, preparing you perfectly for the historical discoveries that await you inside.\n\nBy midday, you will cycle past beautiful streets to reach the charming Rambolitrain Museum, taking a delightful break from the saddle to admire the intricate toy trains. Afterward, you will embark on a scenic bike ride heading directly towards the expansive natural greenery that borders the city.\n\nThe afternoon is all about nature as you glide gracefully through the magnificent Rambouillet Forest. The well-marked bike trails will then lead you to the incredible Espace Rambouillet, where you can safely park your bike and observe the fascinating birds of prey and local wildlife in their true habitat.\n\nAs the sun sets, a short, leisurely ride brings you to the lively Aire de Jeux Square du Bel Air. Here, you can sit back and reflect on the day's journey while the kids enjoy the playground, concluding your active cycling tour with a serene and satisfying feeling of accomplishment in Rambouillet."
+        "en": "Kick off your biking journey at the lovely Jardin de la Motte, enjoying a gentle morning ride before pedaling over to the illustrious Rambouillet Castle. The crisp air and the smooth cycling paths offer an invigorating start, preparing you perfectly for the historical discoveries that await you inside.\n\nBy midday, you will cycle past beautiful streets to reach the charming Rambolitrain Museum, taking a delightful break from the saddle to admire the intricate toy trains. Afterward, you will embark on a scenic bike ride heading directly towards the expansive natural greenery that borders the city.\n\nThe afternoon is all about nature as you glide gracefully through the magnificent Rambouillet Forest. The well-marked bike trails will then lead you to the incredible Espace Rambouillet, where you can safely park your bike and observe the fascinating birds of prey and local wildlife in their true habitat.\n\nAs the sun sets, a short, leisurely ride brings you to the lively Aire de Jeux Square du Bel Air. Here, you can sit back and reflect on the day's journey while the kids enjoy the playground, concluding your active cycling tour with a serene and satisfying feeling of accomplishment in Rambouillet.",
+        "fr": "Commencez votre balade à vélo au charmant Jardin de la Motte, profitant d'une douce promenade matinale avant de pédaler jusqu'au célèbre Rambouillet Castle. L'air vif et les pistes cyclables lisses offrent un départ vivifiant, vous préparant parfaitement aux découvertes historiques qui vous attendent à l'intérieur.\n\nÀ la mi-journée, vous traverserez de belles rues pour atteindre le charmant Rambolitrain Museum, faisant une agréable pause pour admirer les trains-jouets minutieusement détaillés. Ensuite, vous entamerez une promenade à vélo pittoresque en direction des vastes espaces verts qui bordent la ville.\n\nL'après-midi est consacré à la nature tandis que vous glissez gracieusement à travers la magnifique Rambouillet Forest. Les pistes cyclables bien balisées vous mèneront ensuite à l'incroyable Espace Rambouillet, où vous pourrez garer votre vélo en toute sécurité et observer les rapaces et la faune locale dans leur habitat naturel.\n\nAu coucher du soleil, une courte balade tranquille vous conduit à l'animée Aire de Jeux Square du Bel Air. Là, vous pourrez vous détendre et revenir sur votre journée pendant que les enfants s'amusent, concluant votre excursion cycliste active par un sentiment serein et satisfaisant d'accomplissement à Rambouillet."
       },
       "variants": {
         "rainy": {
@@ -460,7 +506,8 @@
             "de": "Der Tag beginnt erfrischend im Jardin de la Motte, wo der Regen auf die Blätter trommelt. Mittags erreichen Sie das Schloss Rambouillet für eine trockene Kulturpause. Nachmittags radeln Sie zum Rambolitrain Museum, bevor Sie die weiten Wege des Waldes erkunden. Achten Sie auf nasse Kurven auf dem Weg zum Espace Rambouillet und beenden Sie die Tour am Bel Air.",
             "hu": "Frissítő tekeréssel kezdünk a Jardin de la Motte-ban, miközben az eső kopog a sisakon. Délben a kastély nyújt menedéket a csapadék elől. Délután a Rambolitrain Múzeum után az erdő aszfaltozott útjai következnek. Legyen óvatos a kanyarokban az Espace Rambouillet felé, végül a Bel Air játszótérnél pihenhet meg, ahol a fák alatt kevésbé esik.",
             "ro": "Ziua începe cu o pedalare revigorantă în Jardin de la Motte sub ploaia ușoară. La prânz, Castelul Rambouillet oferă o pauză culturală uscată. După-amiaza, vizitați Muzeul Rambolitrain înainte de a explora drumurile din pădure. Atenție la curbele umede în drum spre Espace Rambouillet și încheiați turul la Bel Air.",
-            "en": "The day starts with a refreshing ride in Jardin de la Motte as rain taps on your helmet. At noon, Rambouillet Castle offers a grand dry break from the elements. Afternoon takes you to the Rambolitrain Museum before exploring the forest's paved routes. Be careful on wet turns heading to Espace Rambouillet and finish your cycling tour at Bel Air."
+            "en": "The day starts with a refreshing ride in Jardin de la Motte as rain taps on your helmet. At noon, Rambouillet Castle offers a grand dry break from the elements. Afternoon takes you to the Rambolitrain Museum before exploring the forest's paved routes. Be careful on wet turns heading to Espace Rambouillet and finish your cycling tour at Bel Air.",
+            "fr": "La journée commence par une balade vivifiante au Jardin de la Motte sous la pluie qui tapote votre casque. À midi, le Rambouillet Castle offre une grande pause à l'abri des éléments. L'après-midi vous mène au Rambolitrain Museum avant d'explorer les routes goudronnées de la forêt. Soyez prudent dans les virages humides en direction de l'Espace Rambouillet et terminez votre circuit à vélo à Bel Air."
           },
           "stops": [
             {
@@ -468,13 +515,15 @@
                 "de": "Jardin de la Motte",
                 "hu": "Jardin de la Motte",
                 "ro": "Jardin de la Motte",
-                "en": "Jardin de la Motte"
+                "en": "Jardin de la Motte",
+                "fr": "Jardin de la Motte"
               },
               "tip_5lang": {
                 "de": "Die Wege können rutschig sein; fahren Sie vorsichtig und nutzen Sie Schutzbleche, um sich vor Spritzwasser zu schützen.",
                 "hu": "Az utak csúszósak lehetnek; tekerjen óvatosan, és használjon sárvédőt a felcsapódó víz ellen.",
                 "ro": "Drumurile pot fi alunecoase; pedalați cu prudență și folosiți aripi la bicicletă pentru a vă proteja de stropi.",
-                "en": "The paths can be slippery; ride carefully and use mudguards to protect yourself from water splashes."
+                "en": "The paths can be slippery; ride carefully and use mudguards to protect yourself from water splashes.",
+                "fr": "Les chemins peuvent être glissants ; roulez prudemment et utilisez des garde-boue pour vous protéger des projections d'eau."
               }
             },
             {
@@ -482,13 +531,15 @@
                 "de": "Schloss Rambouillet",
                 "hu": "Rambouillet-kastély",
                 "ro": "Castelul Rambouillet",
-                "en": "Rambouillet Castle"
+                "en": "Rambouillet Castle",
+                "fr": "Rambouillet Castle"
               },
               "tip_5lang": {
                 "de": "Parken Sie Ihr Rad an einem geschützten Ort und genießen Sie die Prunkräume, während draußen der Regen fällt.",
                 "hu": "Parkolja le a bringát egy védett helyen, és élvezze a pompás termeket, amíg kint esik az eső.",
                 "ro": "Parcați bicicleta într-un loc protejat și bucurați-vă de sălile somptuoase în timp ce afară plouă.",
-                "en": "Park your bike in a sheltered spot and enjoy the grand state rooms while the rain falls outside."
+                "en": "Park your bike in a sheltered spot and enjoy the grand state rooms while the rain falls outside.",
+                "fr": "Garez votre vélo dans un endroit abrité et profitez des grandes salles d'apparat pendant que la pluie tombe dehors."
               }
             },
             {
@@ -496,13 +547,15 @@
                 "de": "Rambolitrain Museum",
                 "hu": "Rambolitrain Múzeum",
                 "ro": "Muzeul Rambolitrain",
-                "en": "Rambolitrain Museum"
+                "en": "Rambolitrain Museum",
+                "fr": "Rambolitrain Museum"
               },
               "tip_5lang": {
                 "de": "Ein idealer Stopp, um die Kleidung zu trocknen; die Innenräume sind warm und bieten faszinierende Einblicke in die Welt der Züge.",
                 "hu": "Ideális megálló a ruhák megszárítására; a belső terek melegek és lenyűgöző betekintést nyújtanak a vonatok világába.",
                 "ro": "O oprire ideală pentru a vă usca hainele; interioarele sunt calde și oferă o perspectivă fascinantă asupra lumii trenurilor.",
-                "en": "An ideal stop to dry off; the interiors are warm and offer fascinating insights into the world of trains."
+                "en": "An ideal stop to dry off; the interiors are warm and offer fascinating insights into the world of trains.",
+                "fr": "Une halte idéale pour se sécher ; les intérieurs sont chauds et offrent des aperçus fascinants sur le monde des trains."
               }
             },
             {
@@ -510,13 +563,15 @@
                 "de": "Wald von Rambouillet",
                 "hu": "Rambouillet-erdő",
                 "ro": "Pădurea Rambouillet",
-                "en": "Rambouillet Forest"
+                "en": "Rambouillet Forest",
+                "fr": "Rambouillet Forest"
               },
               "tip_5lang": {
                 "de": "Bleiben Sie auf den asphaltierten Waldwegen, um Schlamm zu vermeiden; die Luft im Wald ist nach dem Regen besonders sauerstoffreich.",
                 "hu": "Maradjon az aszfaltozott erdei utakon a sár elkerülése végett; az erdő levegője eső után különösen friss és oxigéndús.",
                 "ro": "Rămâneți pe drumurile asfaltate din pădure pentru a evita noroiul; aerul este deosebit de proaspăt după ploaie.",
-                "en": "Stick to the paved forest roads to avoid mud; the air in the forest is especially fresh and oxygen-rich after the rain."
+                "en": "Stick to the paved forest roads to avoid mud; the air in the forest is especially fresh and oxygen-rich after the rain.",
+                "fr": "Restez sur les routes forestières goudronnées pour éviter la boue ; l'air de la forêt est particulièrement frais et oxygéné après la pluie."
               }
             },
             {
@@ -524,13 +579,15 @@
                 "de": "Espace Rambouillet",
                 "hu": "Espace Rambouillet",
                 "ro": "Espace Rambouillet",
-                "en": "Espace Rambouillet"
+                "en": "Espace Rambouillet",
+                "fr": "Espace Rambouillet"
               },
               "tip_5lang": {
                 "de": "Besuchen Sie die Vogelschau, die auch bei leichtem Regen stattfindet; tragen Sie eine wasserfeste Kapuze für die Beobachtungsstationen.",
                 "hu": "Nézze meg a madárbemutatót, amit szemerkélő esőben is megtartanak; viseljen vízálló kapucnit a megfigyelőpontokon.",
                 "ro": "Vizitați spectacolul cu păsări, care are loc și pe ploaie ușoară; purtați o glugă impermeabilă la punctele de observație.",
-                "en": "Check out the bird show, which runs even in light rain; wear a waterproof hood for the observation points."
+                "en": "Check out the bird show, which runs even in light rain; wear a waterproof hood for the observation points.",
+                "fr": "Assistez au spectacle de rapaces, qui a lieu même par pluie légère ; portez une capuche imperméable pour les points d'observation."
               }
             },
             {
@@ -538,13 +595,15 @@
                 "de": "Spielplatz Bel Air",
                 "hu": "Bel Air játszótér",
                 "ro": "Loc de joacă Bel Air",
-                "en": "Aire de Jeux Square du Bel Air"
+                "en": "Aire de Jeux Square du Bel Air",
+                "fr": "Aire de Jeux Square du Bel Air"
               },
               "tip_5lang": {
                 "de": "Die Spielgeräte können nass sein; nutzen Sie die überdachten Bereiche für eine kurze Pause vor der Rückfahrt.",
                 "hu": "A játékok nedvesek lehetnek; használja a fedett részeket egy rövid pihenőre a visszaindulás előtt.",
                 "ro": "Echipamentele de joacă pot fi ude; folosiți zonele acoperite pentru o scurtă pauză înainte de plecare.",
-                "en": "The playground equipment might be wet; use the sheltered areas for a quick break before heading back."
+                "en": "The playground equipment might be wet; use the sheltered areas for a quick break before heading back.",
+                "fr": "Les équipements de jeu peuvent être mouillés ; utilisez les espaces abrités pour une courte pause avant de repartir."
               }
             }
           ]
@@ -554,7 +613,8 @@
             "de": "Starten Sie am frostigen Morgen im Jardin de la Motte, eingepackt in warme Kleidung. Mittags bietet das Schloss Rambouillet die nötige Wärme und prunkvolle Aussichten. Nachmittags radeln Sie zum Rambolitrain Museum, bevor Sie die klare Winterluft im Wald genießen. Da es früh dunkel wird, sollten Sie den Espace Rambouillet rechtzeitig verlassen und die Tour bei Bel Air beenden.",
             "hu": "Kezdje a fagyos reggelt a Jardin de la Motte-ban, jól felöltözve. Délben a kastély termeiben melegedhet fel a tekerés után. Délután a Rambolitrain Múzeum nyújt menedéket a hideg elől, majd következik az erdő tiszta téli levegője. Mivel korán sötétedik, tervezze úgy, hogy 17 órára már a Bel Air játszótér közelében legyen.",
             "ro": "Începeți dimineața geroasă în Jardin de la Motte, bine înfofoliți. La prânz, Castelul Rambouillet oferă căldura necesară după pedalare. După-amiaza, vizitați Muzeul Rambolitrain, apoi bucurați-vă de aerul curat din pădure. Deoarece se întunecă devreme, asigurați-vă că sunteți aproape de finalul traseului la Bel Air până la ora 17:00.",
-            "en": "Start a frosty morning in Jardin de la Motte, dressed in warm layers. At noon, Rambouillet Castle provides a much-needed warm break with grand views. Afternoon takes you to the Rambolitrain Museum before enjoying the crisp air in the forest. Since it gets dark early, aim to finish your visit to Espace Rambouillet and reach Bel Air by 5 PM."
+            "en": "Start a frosty morning in Jardin de la Motte, dressed in warm layers. At noon, Rambouillet Castle provides a much-needed warm break with grand views. Afternoon takes you to the Rambolitrain Museum before enjoying the crisp air in the forest. Since it gets dark early, aim to finish your visit to Espace Rambouillet and reach Bel Air by 5 PM.",
+            "fr": "Commencez une matinée glaciale au Jardin de la Motte, habillé en couches chaudes. À midi, le Rambouillet Castle offre une pause chaleureuse et des vues grandioses. L'après-midi, direction le Rambolitrain Museum avant de profiter de l'air vif en forêt. Comme la nuit tombe tôt, prévoyez de terminer votre visite de l'Espace Rambouillet et d'arriver à Bel Air vers 17:00."
           },
           "stops": [
             {
@@ -562,13 +622,15 @@
                 "de": "Jardin de la Motte",
                 "hu": "Jardin de la Motte",
                 "ro": "Jardin de la Motte",
-                "en": "Jardin de la Motte"
+                "en": "Jardin de la Motte",
+                "fr": "Jardin de la Motte"
               },
               "tip_5lang": {
                 "de": "Tragen Sie warme Handschuhe, da der Fahrtwind bei Kälte die Hände schnell auskühlt; achten Sie auf Raureif auf den Wegen.",
                 "hu": "Viseljen meleg kesztyűt, mert a menetszélben gyorsan áthűl a kéz; ügyeljen a zúzmarás részekre az utakon.",
                 "ro": "Purtați mănuși groase, deoarece vântul vă va răci mâinile rapid; atenție la porțiunile cu brumă de pe drum.",
-                "en": "Wear warm gloves as the wind chill will freeze your hands quickly; watch out for hoarfrost on the paths."
+                "en": "Wear warm gloves as the wind chill will freeze your hands quickly; watch out for hoarfrost on the paths.",
+                "fr": "Portez des gants chauds car la sensation de froid peut geler rapidement les mains ; méfiez-vous du givre sur les sentiers."
               }
             },
             {
@@ -576,13 +638,15 @@
                 "de": "Schloss Rambouillet",
                 "hu": "Rambouillet-kastély",
                 "ro": "Castelul Rambouillet",
-                "en": "Rambouillet Castle"
+                "en": "Rambouillet Castle",
+                "fr": "Rambouillet Castle"
               },
               "tip_5lang": {
                 "de": "Nutzen Sie den Stopp, um die Durchblutung in den Füßen wieder anzuregen; die prachtvollen Innenräume sind angenehm temperiert.",
                 "hu": "Használja ki a megállót, hogy átmozgassa a lábait; a pompás belső terek hőmérséklete kellemes a kinti hideg után.",
                 "ro": "Folosiți oprirea pentru a vă dezmorți picioarele; interioarele somptuoase au o temperatură plăcută față de frigul de afară.",
-                "en": "Use this stop to get the blood flowing back into your feet; the grand interiors are kept at a comfortable temperature."
+                "en": "Use this stop to get the blood flowing back into your feet; the grand interiors are kept at a comfortable temperature.",
+                "fr": "Profitez de cet arrêt pour redonner de la circulation à vos pieds ; les intérieurs somptueux sont maintenus à une température agréable."
               }
             },
             {
@@ -590,13 +654,15 @@
                 "de": "Rambolitrain Museum",
                 "hu": "Rambolitrain Múzeum",
                 "ro": "Muzeul Rambolitrain",
-                "en": "Rambolitrain Museum"
+                "en": "Rambolitrain Museum",
+                "fr": "Rambolitrain Museum"
               },
               "tip_5lang": {
                 "de": "Ein gemütlicher Ort für den Winternachmittag; die detailreichen Züge begeistern und man kann sich wunderbar aufwärmen.",
                 "hu": "Hangulatos helyszín téli délutánokra; a részletgazdag vonatok elvarázsolják a látogatót, miközben kiválóan felmelegedhet.",
                 "ro": "Un loc primitor pentru o după-amiază de iarnă; trenulețele detaliate vă vor încânta în timp ce vă încălziți.",
-                "en": "A cozy spot for a winter afternoon; the detailed trains are captivating and it's a great place to fully warm up."
+                "en": "A cozy spot for a winter afternoon; the detailed trains are captivating and it's a great place to fully warm up.",
+                "fr": "Un endroit chaleureux pour un après-midi d'hiver ; les trains détaillés captivent et c'est un excellent lieu pour se réchauffer complètement."
               }
             },
             {
@@ -604,13 +670,15 @@
                 "de": "Wald von Rambouillet",
                 "hu": "Rambouillet-erdő",
                 "ro": "Pădurea Rambouillet",
-                "en": "Rambouillet Forest"
+                "en": "Rambouillet Forest",
+                "fr": "Rambouillet Forest"
               },
               "tip_5lang": {
                 "de": "Die tiefstehende Sonne bietet tolle Lichteffekte durch die kahlen Zweige; achten Sie auf gefrorene Stellen auf dem Asphalt.",
                 "hu": "Az alacsonyan járó nap csodás fényeket vet a kopár ágak között; ügyeljen a fagyott foltokra az aszfalton.",
                 "ro": "Soarele jos oferă efecte de lumină superbe printre ramurile golașe; atenție la porțiunile înghețate de pe asfalt.",
-                "en": "The low sun creates beautiful light effects through the bare branches; watch out for icy patches on the asphalt."
+                "en": "The low sun creates beautiful light effects through the bare branches; watch out for icy patches on the asphalt.",
+                "fr": "Le soleil bas crée de magnifiques jeux de lumière à travers les branches nues ; attention aux plaques de verglas sur l'asphalte."
               }
             },
             {
@@ -618,13 +686,15 @@
                 "de": "Espace Rambouillet",
                 "hu": "Espace Rambouillet",
                 "ro": "Espace Rambouillet",
-                "en": "Espace Rambouillet"
+                "en": "Espace Rambouillet",
+                "fr": "Espace Rambouillet"
               },
               "tip_5lang": {
                 "de": "Im Winter sind die Hirsche im Wald oft besser zu sehen; bringen Sie ein Fernglas mit und planen Sie den Rückzug vor 16:30 Uhr.",
                 "hu": "Télen a szarvasok gyakran jobban láthatóak az erdőben; vigyen távcsövet, és tervezze a visszaindulást 16:30 előtt.",
                 "ro": "Iarna, cerbii sunt adesea mai ușor de observat în pădure; aduceți un binoclu și planificați plecarea înainte de 16:30.",
-                "en": "Deer are often easier to spot in the forest during winter; bring binoculars and plan to head back by 4:30 PM."
+                "en": "Deer are often easier to spot in the forest during winter; bring binoculars and plan to head back by 4:30 PM.",
+                "fr": "Les cerfs sont souvent plus faciles à repérer en forêt durant l'hiver ; apportez des jumelles et prévoyez de repartir vers 16:30."
               }
             },
             {
@@ -632,13 +702,15 @@
                 "de": "Spielplatz Bel Air",
                 "hu": "Bel Air játszótér",
                 "ro": "Loc de joacă Bel Air",
-                "en": "Aire de Jeux Square du Bel Air"
+                "en": "Aire de Jeux Square du Bel Air",
+                "fr": "Aire de Jeux Square du Bel Air"
               },
               "tip_5lang": {
                 "de": "Ein kurzer Stopp reicht bei der Kälte; die Beleuchtung der Stadt beginnt oft schon bei Ihrer Ankunft am späten Nachmittag.",
                 "hu": "A hidegben egy rövid megálló is elég; a városi fények gyakran már kigyúlnak, mire késő délután ideér.",
                 "ro": "O oprire scurtă este suficientă pe frig; luminile orașului se aprind adesea chiar când ajungeți, la sfârșitul după-amiezii.",
-                "en": "A short stop is plenty in the cold; the city lights often start flickering on by the time you arrive in the late afternoon."
+                "en": "A short stop is plenty in the cold; the city lights often start flickering on by the time you arrive in the late afternoon.",
+                "fr": "Un court arrêt suffit par temps froid ; les lumières de la ville commencent souvent à s'allumer lorsque vous arrivez en fin d'après-midi."
               }
             }
           ]
@@ -658,7 +730,8 @@
             "de": "Square Kichheim-Unter-Teck",
             "hu": "Square Kichheim-Unter-Teck",
             "ro": "Square Kichheim-Unter-Teck",
-            "en": "Square Kichheim-Unter-Teck"
+            "en": "Square Kichheim-Unter-Teck",
+            "fr": "Square Kichheim-Unter-Teck"
           },
           "coords": [
             1.858981,
@@ -673,7 +746,8 @@
             "de": "Beginnen Sie Ihre Tour in diesem schönen Park, der Rambouillets Partnerstadt gewidmet ist und eine ruhige Grünfläche für ein morgendliches Stretching bietet.",
             "hu": "Kezdje útitervét ebben a Rambouillet testvérvárosának szentelt lakóparkban, amely nyugodt zöldterületet kínál egy gyors, felfrissítő reggeli sétához.",
             "ro": "Începeți itinerariul în acest parc minunat dedicat orașului înfrățit cu Rambouillet, care oferă un spațiu verde seren, ideal pentru o scurtă plimbare matinală.",
-            "en": "Kick off your itinerary in this lovely residential park dedicated to Rambouillet's twin town, which offers a serene green space ideal for quick morning stretches."
+            "en": "Kick off your itinerary in this lovely residential park dedicated to Rambouillet's twin town, which offers a serene green space ideal for quick morning stretches.",
+            "fr": "Commencez votre itinéraire dans ce charmant parc résidentiel dédié à la ville jumelle de Rambouillet, offrant un espace vert serein idéal pour de rapides étirements matinaux."
           }
         },
         {
@@ -681,7 +755,8 @@
             "de": "Rambolitrain Museum",
             "hu": "Rambolitrain Múzeum",
             "ro": "Muzeul Rambolitrain",
-            "en": "Rambolitrain Museum"
+            "en": "Rambolitrain Museum",
+            "fr": "Rambolitrain Museum"
           },
           "coords": [
             1.824173,
@@ -696,7 +771,8 @@
             "de": "Entdecken Sie eine unglaubliche Sammlung von Miniaturzügen und historischem Spielzeug, aber beachten Sie die Mittagspause bei der Planung Ihres Besuchs.",
             "hu": "Fedezze fel a miniatűr vonatok és vintage játékok elképesztő gyűjteményét, de mindenképp ellenőrizze a nyitvatartást, mert ebédszünetben általában zárva tartanak.",
             "ro": "Explorați o colecție incredibilă de trenulețe și jucării de epocă, dar verificați programul de funcționare deoarece se închide mereu în timpul prânzului.",
-            "en": "Explore an incredible collection of miniature trains and vintage toys that delight all ages, but check the operating hours as they close during lunch."
+            "en": "Explore an incredible collection of miniature trains and vintage toys that delight all ages, but check the operating hours as they close during lunch.",
+            "fr": "Découvrez une collection incroyable de trains miniatures et de jouets anciens qui ravissent tous les âges ; vérifiez toutefois les heures d'ouverture car ils ferment à l'heure du déjeuner."
           }
         },
         {
@@ -704,7 +780,8 @@
             "de": "Schloss Rambouillet",
             "hu": "Rambouillet-kastély",
             "ro": "Castelul Rambouillet",
-            "en": "Rambouillet Castle"
+            "en": "Rambouillet Castle",
+            "fr": "Rambouillet Castle"
           },
           "coords": [
             1.817778,
@@ -719,7 +796,8 @@
             "de": "Bewundern Sie die historische Architektur, in der einst französische Präsidenten residierten, und buchen Sie Ihre Führung frühzeitig, um Menschenmassen zu meiden.",
             "hu": "Csodálja meg a történelmi építészetet, ahol egykor francia elnökök laktak, és foglaljon korán tárlatvezetést, hogy elkerülje a délutáni nagyobb tömeget.",
             "ro": "Admirați arhitectura istorică unde au locuit cândva președinții francezi și rezervați turul ghidat devreme pentru a evita aglomerația de după-amiază.",
-            "en": "Admire the exquisite historic architecture where French presidents once resided, and make sure to book your guided tour early to avoid the afternoon crowds."
+            "en": "Admire the exquisite historic architecture where French presidents once resided, and make sure to book your guided tour early to avoid the afternoon crowds.",
+            "fr": "Admirez l'architecture historique exquise où ont résidé des présidents français, et pensez à réserver votre visite guidée à l'avance pour éviter la foule de l'après-midi."
           }
         },
         {
@@ -727,7 +805,8 @@
             "de": "Wald von Rambouillet",
             "hu": "Rambouillet-erdő",
             "ro": "Pădurea Rambouillet",
-            "en": "Rambouillet Forest"
+            "en": "Rambouillet Forest",
+            "fr": "Rambouillet Forest"
           },
           "coords": [
             1.844367,
@@ -742,7 +821,8 @@
             "de": "Schlendern Sie durch die schattigen Wege dieses riesigen Naturschutzgebietes zur Tierbeobachtung und tragen Sie dabei unbedingt bequeme Wanderschuhe.",
             "hu": "Sétáljon végig az árnyékos ösvényeken ebben a hatalmas természetvédelmi területen, és viseljen kényelmes túracipőt a vadon élő állatok megfigyeléséhez.",
             "ro": "Plimbați-vă pe cărările umbrite ale acestei rezervații naturale vaste, excelentă pentru observarea faunei, așa că purtați neapărat încălțăminte confortabilă.",
-            "en": "Stroll along the shaded pathways of this vast natural reserve which offers excellent wildlife spotting, so wear comfortable walking shoes for the varied terrain."
+            "en": "Stroll along the shaded pathways of this vast natural reserve which offers excellent wildlife spotting, so wear comfortable walking shoes for the varied terrain.",
+            "fr": "Promenez-vous le long des sentiers ombragés de cette vaste réserve naturelle qui offre d'excellentes possibilités d'observation de la faune — portez des chaussures de marche confortables pour le terrain varié."
           }
         },
         {
@@ -750,7 +830,8 @@
             "de": "Espace Rambouillet",
             "hu": "Espace Rambouillet",
             "ro": "Espace Rambouillet",
-            "en": "Espace Rambouillet"
+            "en": "Espace Rambouillet",
+            "fr": "Espace Rambouillet"
           },
           "coords": [
             1.828978,
@@ -765,7 +846,8 @@
             "de": "Tauchen Sie in die Waldumgebung ein, wo Greifvögel frei fliegen, und bleiben Sie in der Nähe der Gehege ruhig, um die besten Beobachtungen zu machen.",
             "hu": "Merüljön el az erdei környezetben, ahol ragadozó madarak szabadon repülnek, és maradjon csendben a kifutók közelében a legjobb megfigyelési élmény érdekében.",
             "ro": "Cufundați-vă în mediul forestier unde păsările de pradă zboară liber și amintiți-vă să păstrați liniștea lângă țarcuri pentru cele mai bune priveliști.",
-            "en": "Immerse yourself completely in the deep forest environment where birds of prey fly freely, and remember to stay quiet near the enclosures for the best views."
+            "en": "Immerse yourself completely in the deep forest environment where birds of prey fly freely, and remember to stay quiet near the enclosures for the best views.",
+            "fr": "Plongez complètement dans l'environnement forestier profond où les rapaces volent librement, et pensez à rester silencieux près des enclos pour profiter au mieux des observations."
           }
         },
         {
@@ -773,7 +855,8 @@
             "de": "Kinderbereich",
             "hu": "Gyermektér",
             "ro": "Spațiul Copiilor",
-            "en": "Espace Enfant"
+            "en": "Espace Enfant",
+            "fr": "Espace Enfant"
           },
           "coords": [
             1.821684,
@@ -788,7 +871,8 @@
             "de": "Beenden Sie Ihren aktiven Nachmittag, indem Sie Kleinkinder die speziellen Spielgeräte nutzen lassen, damit sie vor der Heimreise noch Spaß haben.",
             "hu": "Zárja az aktív délutánt azzal, hogy a legkisebbek birtokba veszik a speciális játékokat, így garantáltan jól szórakoznak a hazaindulás előtti percekben.",
             "ro": "Încheiați după-amiaza activă permițând copiilor mici să se bucure de echipamentele speciale de joacă, asigurându-vă că se distrează înainte de a pleca acasă.",
-            "en": "Finish off your active afternoon by letting toddlers enjoy the specialized play equipment here, ensuring they have plenty of fun before heading back home."
+            "en": "Finish off your active afternoon by letting toddlers enjoy the specialized play equipment here, ensuring they have plenty of fun before heading back home.",
+            "fr": "Terminez votre après-midi actif en laissant les tout-petits profiter des jeux spécialisés ici, pour qu’ils s’amusent bien avant de rentrer."
           }
         }
       ],
@@ -796,7 +880,8 @@
         "de": "Starten Sie Ihren Autotag mit einfachem Parken in der Nähe des Square Kichheim-Unter-Teck und machen Sie einen schnellen Morgenspaziergang. Von dort aus bringt Sie eine sehr kurze, komfortable Fahrt zum Rambolitrain Museum, wodurch Sie mehr Zeit für die faszinierenden historischen Ausstellungen haben.\n\nMittags stehen Sie nach einer kurzen Fahrt direkt vor den Toren von Schloss Rambouillet und sparen sich die Energie für die riesigen präsidialen Gärten. Die Flexibilität des Autos ermöglicht es Ihnen, mühelos von der königlichen Geschichte zu den weiten Naturlandschaften außerhalb des Zentrums zu wechseln.\n\nFahren Sie bequem zum dichten Wald von Rambouillet, wo Sie parken und die schattigen Wälder in Ihrem eigenen Tempo erkunden können. Kurz darauf bringt Sie eine weitere kurze Fahrt in das faszinierende Espace Rambouillet, wodurch Ihnen lange Fußwege erspart bleiben und Sie fit für die Vogelbeobachtung sind.\n\nBeenden Sie Ihre umfassende Autotour mit einem letzten Halt am Espace Enfant, dem perfekten Ort für Familien. Es bietet eine entspannte Abendatmosphäre, in der Sie bequem das Auto beladen und zu Ihrer Unterkunft zurückkehren können, mit dem wunderbaren Gefühl eines erfüllten Tages in Rambouillet.",
         "hu": "Kezdje az autós napot egy kényelmes parkolással a Square Kichheim-Unter-Teck közelében, egy gyors reggeli sétával a friss levegőn. Innen egy nagyon rövid, pihentető út vezet a Rambolitrain Múzeumhoz, maximalizálva a lenyűgöző történelmi kiállítási tárgyak megismerésére fordított drága idejét.\n\nDél körül egy gyors autózás után már a Rambouillet-kastély kapuinál találja magát, így megspórolja az energiáját a hatalmas elnöki birtokok és kertek bejárására. Az autó nyújtotta rugalmasság lehetővé teszi, hogy könnyedén váltson a fenséges történelemről a városon kívüli, lenyűgöző természeti tájakra.\n\nVezessen kényelmesen a sűrű Rambouillet-erdőhöz, ahol leparkolhat, és saját tempójában fedezheti fel az árnyas fák alatti ösvényeket. Röviddel ezután egy újabb rövid út az Espace Rambouillet-be viszi, ami teljesen megkíméli a hosszú séták fáradalmaitól, így tele lesz energiával a madármegfigyeléshez.\n\nZárja le átfogó autós túráját egy utolsó megállóval az Espace Enfant-nál, amely tökéletes lezárás a családok számára. Pihentető esti atmoszférát biztosít, ahol zökkenőmentesen bepakolhat az autóba, és elindulhat a szállása felé, miután egy teljes és élményekben gazdag napot töltött el a városban.",
         "ro": "Începeți ziua la volan cu o parcare ușoară lângă Square Kichheim-Unter-Teck, făcând o scurtă plimbare matinală în aer liber. De acolo, un drum foarte scurt și confortabil vă aduce la Muzeul Rambolitrain, maximizând timpul petrecut interacționând cu expozițiile istorice captivante din interior.\n\nPână la prânz, o scurtă cursă cu mașina vă plasează chiar la porțile Castelului Rambouillet, păstrându-vă energia pentru a explora imensele domenii și grădini prezidențiale. Flexibilitatea condusului vă permite să treceți fără efort de la istoria regală la peisajele naturale vaste de la marginea orașului.\n\nConduceți confortabil către deasa Pădure Rambouillet, unde puteți parca și explora pădurile umbrite în ritmul dumneavoastră. La scurt timp, un alt drum scurt vă aduce în captivantul Espace Rambouillet, eliminând complet oboseala plimbărilor lungi și lăsându-vă plini de energie pentru observarea păsărilor.\n\nÎncheiați turul cuprinzător cu mașina cu o ultimă oprire la Espace Enfant, un loc perfect de relaxare pentru familii. Acesta oferă o atmosferă de seară liniștită, unde puteți încărca mașina fără grabă și vă puteți îndrepta spre cazare, simțindu-vă pe deplin împliniți după o zi întreagă de explorare.",
-        "en": "Start your driving day with easy parking near Square Kichheim-Unter-Teck, taking a swift morning stroll in the fresh air. From there, a very short and comfortable drive brings you to the Rambolitrain Museum, maximizing your time spent interacting with the captivating historical exhibits inside.\n\nBy midday, a quick hop in the car places you right at the gates of Rambouillet Castle, saving your walking energy for the immense presidential estates and gardens. The flexibility of driving allows you to effortlessly transition from regal history to the vast natural landscapes waiting just outside the city center.\n\nDrive comfortably to the dense Rambouillet Forest, where you can park and explore the shaded woods at your own pace. Shortly after, another brief drive brings you into the immersive Espace Rambouillet, completely removing the hassle of long walks and leaving you energized for bird watching.\n\nConclude your comprehensive driving tour with a final hop to the Espace Enfant, a perfect little wrap-up spot for families. It provides a relaxed evening atmosphere where you can smoothly load up the car and head back to your accommodation, feeling thoroughly accomplished after a full day out."
+        "en": "Start your driving day with easy parking near Square Kichheim-Unter-Teck, taking a swift morning stroll in the fresh air. From there, a very short and comfortable drive brings you to the Rambolitrain Museum, maximizing your time spent interacting with the captivating historical exhibits inside.\n\nBy midday, a quick hop in the car places you right at the gates of Rambouillet Castle, saving your walking energy for the immense presidential estates and gardens. The flexibility of driving allows you to effortlessly transition from regal history to the vast natural landscapes waiting just outside the city center.\n\nDrive comfortably to the dense Rambouillet Forest, where you can park and explore the shaded woods at your own pace. Shortly after, another brief drive brings you into the immersive Espace Rambouillet, completely removing the hassle of long walks and leaving you energized for bird watching.\n\nConclude your comprehensive driving tour with a final hop to the Espace Enfant, a perfect little wrap-up spot for families. It provides a relaxed evening atmosphere where you can smoothly load up the car and head back to your accommodation, feeling thoroughly accomplished after a full day out.",
+        "fr": "Commencez votre journée de conduite avec un stationnement facile près du Square Kichheim-Unter-Teck, puis une courte promenade matinale. De là, une très brève et confortable trajectoire en voiture vous mène au Musée Rambolitrain, maximisant le temps passé à découvrir les captivantes expositions historiques à l’intérieur.\n\nÀ la mi-journée, un court trajet en voiture vous place aux portes du Château de Rambouillet, économisant vos forces pour les immenses domaines et jardins présidentiels. La flexibilité de la voiture vous permet de passer sans effort de l’histoire royale aux vastes paysages naturels juste en dehors du centre-ville.\n\nRoulez confortablement jusqu’à la dense Forêt de Rambouillet, où vous pouvez vous garer et explorer les bois ombragés à votre rythme. Peu après, un autre court trajet vous conduit à l’immersif Espace Rambouillet, supprimant complètement la corvée de longues marches et vous laissant en forme pour l’observation des oiseaux.\n\nConcluez votre visite en voiture par un dernier arrêt à l’Espace Enfant, un lieu parfait pour les familles. Il offre une ambiance détendue en soirée où vous pouvez charger la voiture et retourner à votre hébergement, pleinement satisfait après une journée bien remplie."
       },
       "variants": {
         "rainy": {
@@ -804,7 +889,8 @@
             "de": "Starten Sie am Square Kichheim-Unter-Teck, während der Regen gegen die Scheiben trommelt. Mittags bietet das Rambolitrain Museum ein trockenes und faszinierendes Ziel. Danach besuchen Sie das Schloss Rambouillet, das Sie bequem mit dem Auto erreichen. Den Wald und Espace Rambouillet erleben Sie geschützt vom Fahrzeug aus, bevor der Tag am Espace Enfant endet.",
             "hu": "Kezdje a napot a Square Kichheim-Unter-Tecknél, miközben az eső a szélvédőn kopog. Délben a Rambolitrain Múzeum nyújt száraz és izgalmas kikapcsolódást. Ezután a kastély következik, amely autóval is könnyen megközelíthető. Az erdőt és az Espace Rambouillet-t a kocsiból is megcsodálhatja, mielőtt a napot a fedett Espace Enfant játszóházban zárná.",
             "ro": "Începeți ziua la Square Kichheim-Unter-Teck, în timp ce ploaia bate în parbriz. La prânz, Muzeul Rambolitrain oferă o destinație uscată și fascinantă. Apoi vizitați Castelul Rambouillet, accesibil ușor cu mașina. Pădurea și Espace Rambouillet pot fi admirate din confortul mașinii, înainte ca ziua să se încheie la Espace Enfant.",
-            "en": "Start at Square Kichheim-Unter-Teck as rain drums on the windshield. At noon, the Rambolitrain Museum provides a dry and fascinating indoor escape. Follow this with a visit to Rambouillet Castle, easily reached by car. Experience the forest and Espace Rambouillet from the shelter of your vehicle before ending the day at the indoor Espace Enfant."
+            "en": "Start at Square Kichheim-Unter-Teck as rain drums on the windshield. At noon, the Rambolitrain Museum provides a dry and fascinating indoor escape. Follow this with a visit to Rambouillet Castle, easily reached by car. Experience the forest and Espace Rambouillet from the shelter of your vehicle before ending the day at the indoor Espace Enfant.",
+            "fr": "Commencez au Square Kichheim-Unter-Teck tandis que la pluie tambourine sur le pare-brise. À midi, le Musée Rambolitrain offre un refuge intérieur sec et fascinant. Poursuivez par une visite du Château de Rambouillet, facilement accessible en voiture. Découvrez la forêt et l’Espace Rambouillet depuis l’abri de votre véhicule avant de terminer la journée à l’Espace Enfant en intérieur."
           },
           "stops": [
             {
@@ -812,13 +898,15 @@
                 "de": "Square Kichheim-Unter-Teck",
                 "hu": "Square Kichheim-Unter-Teck",
                 "ro": "Square Kichheim-Unter-Teck",
-                "en": "Square Kichheim-Unter-Teck"
+                "en": "Square Kichheim-Unter-Teck",
+                "fr": "Square Kichheim-Unter-Teck"
               },
               "tip_5lang": {
                 "de": "Parken Sie nah am Eingang, um nicht nass zu werden; der Platz ist auch im Regen schön für einen kurzen Blick ins Grüne.",
                 "hu": "Parkoljon közel a bejárathoz, hogy elkerülje az ázást; a tér esőben is szép látványt nyújt egy rövid zöld kitérőhöz.",
                 "ro": "Parcați aproape de intrare pentru a nu vă uda; piața oferă o priveliște verde plăcută chiar și pe ploaie.",
-                "en": "Park close to the entrance to avoid getting wet; the square offers a nice green view even in the rain for a quick look."
+                "en": "Park close to the entrance to avoid getting wet; the square offers a nice green view even in the rain for a quick look.",
+                "fr": "Garez-vous près de l’entrée pour éviter d’être mouillé ; la place offre une belle vision de verdure même sous la pluie pour un rapide aperçu."
               }
             },
             {
@@ -826,13 +914,15 @@
                 "de": "Rambolitrain Museum",
                 "hu": "Rambolitrain Múzeum",
                 "ro": "Muzeul Rambolitrain",
-                "en": "Rambolitrain Museum"
+                "en": "Rambolitrain Museum",
+                "fr": "Musée Rambolitrain"
               },
               "tip_5lang": {
                 "de": "Das perfekte Ziel bei schlechtem Wetter; die Innenräume sind warm und die Züge begeistern Besucher jeden Alters im Trockenen.",
                 "hu": "Tökéletes célpont rossz időben; a belső terek melegek, a vonatok pedig minden korosztályt lenyűgöznek a fedett helyen.",
                 "ro": "Destinația perfectă pe vreme rea; interioarele sunt calde, iar trenulețele îi încântă pe vizitatorii de toate vârstele la adăpost.",
-                "en": "The perfect destination for bad weather; the interiors are warm and the trains delight visitors of all ages in a dry environment."
+                "en": "The perfect destination for bad weather; the interiors are warm and the trains delight visitors of all ages in a dry environment.",
+                "fr": "La destination parfaite par mauvais temps ; l’intérieur est chaud et les trains réjouissent les visiteurs de tout âge à l’abri."
               }
             },
             {
@@ -840,13 +930,15 @@
                 "de": "Schloss Rambouillet",
                 "hu": "Rambouillet-kastély",
                 "ro": "Castelul Rambouillet",
-                "en": "Rambouillet Castle"
+                "en": "Rambouillet Castle",
+                "fr": "Château de Rambouillet"
               },
               "tip_5lang": {
                 "de": "Nutzen Sie den Parkplatz direkt am Schloss; die prunkvollen Säle sind ein herrschaftlicher Rückzugsort vor dem prasselnden Regen.",
                 "hu": "Használja a közvetlenül a kastélynál lévő parkolót; a pompás termek fejedelmi menedéket nyújtanak a kopogó eső elől.",
                 "ro": "Folosiți parcarea de lângă castel; sălile somptuoase oferă un refugiu regal împotriva ploii torențiale.",
-                "en": "Use the parking lot right by the castle; the grand halls offer a majestic retreat from the pouring rain outside."
+                "en": "Use the parking lot right by the castle; the grand halls offer a majestic retreat from the pouring rain outside.",
+                "fr": "Utilisez le parking juste à côté du château ; les grandes salles offrent un majestueux refuge contre la pluie battante."
               }
             },
             {
@@ -854,13 +946,15 @@
                 "de": "Wald von Rambouillet",
                 "hu": "Rambouillet-erdő",
                 "ro": "Pădurea Rambouillet",
-                "en": "Rambouillet Forest"
+                "en": "Rambouillet Forest",
+                "fr": "Forêt de Rambouillet"
               },
               "tip_5lang": {
                 "de": "Genießen Sie die Fahrt durch das herbstliche Grün; bleiben Sie auf den asphaltierten Straßen, um Schlammspritzer am Auto zu vermeiden.",
                 "hu": "Élvezze az autózást a zöldellő fák között; maradjon az aszfaltozott utakon, hogy elkerülje a sárfelcsapódást a kocsira.",
                 "ro": "Bucurați-vă de drumul printre copaci; rămâneți pe drumurile asfaltate pentru a evita stropirea mașinii cu noroi.",
-                "en": "Enjoy the drive through the lush greenery; stay on the paved roads to avoid getting mud splashes all over the car."
+                "en": "Enjoy the drive through the lush greenery; stay on the paved roads to avoid getting mud splashes all over the car.",
+                "fr": "Appréciez la route à travers la végétation luxuriante ; restez sur les routes goudronnées pour éviter les projections de boue sur la voiture."
               }
             },
             {
@@ -868,13 +962,15 @@
                 "de": "Espace Rambouillet",
                 "hu": "Espace Rambouillet",
                 "ro": "Espace Rambouillet",
-                "en": "Espace Rambouillet"
+                "en": "Espace Rambouillet",
+                "fr": "Espace Rambouillet"
               },
               "tip_5lang": {
                 "de": "Prüfen Sie vorab die Vorführungszeiten; die Beobachtungshütten bieten Schutz vor Regen, während Sie die Tiere beobachten.",
                 "hu": "Ellenőrizze előre a bemutatók időpontját; a megfigyelőkunyhók védelmet nyújtanak az eső ellen állatnézés közben.",
                 "ro": "Verificați din timp programul spectacolelor; colibele de observație oferă protecție împotriva ploii în timp ce urmăriți animalele.",
-                "en": "Check the show times in advance; the observation huts provide shelter from the rain while you watch the animals."
+                "en": "Check the show times in advance; the observation huts provide shelter from the rain while you watch the animals.",
+                "fr": "Vérifiez les horaires des spectacles à l’avance ; les gabions d’observation offrent un abri contre la pluie pendant que vous observez les animaux."
               }
             },
             {
@@ -882,13 +978,15 @@
                 "de": "Kinderbereich",
                 "hu": "Gyermektér",
                 "ro": "Spațiul Copiilor",
-                "en": "Espace Enfant"
+                "en": "Espace Enfant",
+                "fr": "Espace Enfant"
               },
               "tip_5lang": {
                 "de": "Dieser Indoor-Spielplatz ist die Rettung an Regentagen; Kinder können sich austoben, während die Eltern im Trockenen entspannen.",
                 "hu": "Ez a beltéri játszótér igazi mentőöv esős napokon; a gyerekek kitombolhatják magukat, amíg a szülők a szárazon pihennek.",
                 "ro": "Acest loc de joacă interior este o salvare în zilele ploioase; copiii se pot juca, în timp ce părinții se relaxează la uscat.",
-                "en": "This indoor playground is a lifesaver on rainy days; kids can burn off energy while parents relax in a dry environment."
+                "en": "This indoor playground is a lifesaver on rainy days; kids can burn off energy while parents relax in a dry environment.",
+                "fr": "Cette aire de jeux couverte est une bouée de sauvetage les jours de pluie ; les enfants peuvent dépenser leur énergie pendant que les parents se détendent au sec."
               }
             }
           ]
@@ -898,7 +996,8 @@
             "de": "Beginnen Sie den kalten Morgen am Square Kichheim-Unter-Teck mit einem beheizten Auto. Mittags ist das Rambolitrain Museum ein wunderbar warmer Ort für Entdeckungen. Danach geht es zum Schloss Rambouillet, wo die Geschichte in geheizten Räumen lebendig wird. Nach einer Fahrt durch den winterlichen Wald endet der Tag frühzeitig im Espace Enfant.",
             "hu": "Kezdje a fagyos reggelt a Square Kichheim-Unter-Tecknél a fűtött autó kényelmében. Délben a Rambolitrain Múzeum kiváló melegedőhely a felfedezés közben. Ezután a kastély következik, ahol a történelem fűtött szobákban kel életre. Egy téli erdei autózás után a napot korán zárja a barátságos Espace Enfant játszóházban.",
             "ro": "Începeți dimineața friguroasă la Square Kichheim-Unter-Teck în confortul mașinii încălzite. La prânz, Muzeul Rambolitrain este un loc cald și primitor. Apoi mergeți la Castelul Rambouillet, unde istoria prinde viață în săli încălzite. După o plimbare prin pădurea de iarnă, ziua se încheie devreme la Espace Enfant.",
-            "en": "Start a cold morning at Square Kichheim-Unter-Teck from the comfort of your heated car. At noon, the Rambolitrain Museum is a wonderfully warm place for discovery. Continue to Rambouillet Castle, where history comes alive in heated rooms. After a scenic winter drive through the forest, end the day early at the cozy Espace Enfant."
+            "en": "Start a cold morning at Square Kichheim-Unter-Teck from the comfort of your heated car. At noon, the Rambolitrain Museum is a wonderfully warm place for discovery. Continue to Rambouillet Castle, where history comes alive in heated rooms. After a scenic winter drive through the forest, end the day early at the cozy Espace Enfant.",
+            "fr": "Commencez une matinée froide au Square Kichheim-Unter-Teck depuis le confort de votre voiture chauffée. À midi, le Musée Rambolitrain est un endroit merveilleusement chaleureux pour la découverte. Continuez vers le Château de Rambouillet, où l’histoire prend vie dans des salles chauffées. Après une agréable route hivernale à travers la forêt, terminez la journée tôt à l’accueillant Espace Enfant."
           },
           "stops": [
             {
@@ -906,13 +1005,15 @@
                 "de": "Square Kichheim-Unter-Teck",
                 "hu": "Square Kichheim-Unter-Teck",
                 "ro": "Square Kichheim-Unter-Teck",
-                "en": "Square Kichheim-Unter-Teck"
+                "en": "Square Kichheim-Unter-Teck",
+                "fr": "Square Kichheim-Unter-Teck"
               },
               "tip_5lang": {
                 "de": "Die winterliche Ruhe des Platzes lässt sich am besten kurz genießen; achten Sie beim Parken auf gefrorene Flächen auf dem Boden.",
                 "hu": "A tér téli nyugalmát érdemes csak röviden élvezni; parkoláskor ügyeljen a talajon lévő fagyott, csúszós részekre.",
                 "ro": "Liniștea de iarnă a pieței merită savurată scurt; atenție la porțiunile înghețate de pe jos când parcați.",
-                "en": "The square's winter tranquility is best enjoyed briefly; watch out for frozen, slippery patches on the ground when parking."
+                "en": "The square's winter tranquility is best enjoyed briefly; watch out for frozen, slippery patches on the ground when parking.",
+                "fr": "La tranquillité hivernale de la place se savoure brièvement ; faites attention aux plaques gelées et glissantes au moment du stationnement."
               }
             },
             {
@@ -920,13 +1021,15 @@
                 "de": "Rambolitrain Museum",
                 "hu": "Rambolitrain Múzeum",
                 "ro": "Muzeul Rambolitrain",
-                "en": "Rambolitrain Museum"
+                "en": "Rambolitrain Museum",
+                "fr": "Musée Rambolitrain"
               },
               "tip_5lang": {
                 "de": "Ein hervorragender Ort, um sich zwischen den Stopps aufzuwärmen; die nostalgische Eisenbahnwelt ist im Winter besonders stimmungsvoll.",
                 "hu": "Kiváló hely a felmelegedésre a megállók között; a nosztalgikus vasútvilág télen különösen hangulatos és hívogató.",
                 "ro": "Un loc excelent pentru a vă încălzi între opriri; lumea nostalgică a trenurilor este deosebit de primitoare iarna.",
-                "en": "An excellent place to warm up between stops; the nostalgic world of trains is especially atmospheric and inviting in winter."
+                "en": "An excellent place to warm up between stops; the nostalgic world of trains is especially atmospheric and inviting in winter.",
+                "fr": "Un excellent endroit pour se réchauffer entre deux visites ; le monde nostalgique des trains est particulièrement atmosphérique et accueillant en hiver."
               }
             },
             {
@@ -934,13 +1037,15 @@
                 "de": "Schloss Rambouillet",
                 "hu": "Rambouillet-kastély",
                 "ro": "Castelul Rambouillet",
-                "en": "Rambouillet Castle"
+                "en": "Rambouillet Castle",
+                "fr": "Château de Rambouillet"
               },
               "tip_5lang": {
                 "de": "Bewundern Sie die Innenausstattung in behaglicher Wärme; der Weg vom Parkplatz zum Eingang ist kurz und im Winter gut geräumt.",
                 "hu": "Csodálja meg a belső tereket kellemes melegben; a parkolótól a bejáratig tartó út rövid és télen is jól takarított.",
                 "ro": "Admirați interioarele la o temperatură plăcută; drumul de la parcare până la intrare este scurt și bine curățat iarna.",
-                "en": "Admire the interiors in cozy warmth; the walk from the parking lot to the entrance is short and kept clear in winter."
+                "en": "Admire the interiors in cozy warmth; the walk from the parking lot to the entrance is short and kept clear in winter.",
+                "fr": "Admirez les intérieurs dans une chaleur confortable ; la marche du parking à l’entrée est courte et dégagée en hiver."
               }
             },
             {
@@ -948,13 +1053,15 @@
                 "de": "Wald von Rambouillet",
                 "hu": "Rambouillet-erdő",
                 "ro": "Pădurea Rambouillet",
-                "en": "Rambouillet Forest"
+                "en": "Rambouillet Forest",
+                "fr": "Forêt de Rambouillet"
               },
               "tip_5lang": {
                 "de": "Die Winterlandschaft ist vom Auto aus beeindruckend; nutzen Sie die Parkbuchten für Fotos der kahlen, oft verschneiten Bäume.",
                 "hu": "A téli táj lenyűgöző az autóból nézve; használja a pihenőket a kopár, sokszor havas fák lefotózásához.",
                 "ro": "Peisajul de iarnă este impresionant din mașină; folosiți alveolele de parcare pentru fotografii cu copacii golași și ningși.",
-                "en": "The winter landscape is stunning from the car; use the parking lay-bys to take photos of the bare, often snowy trees."
+                "en": "The winter landscape is stunning from the car; use the parking lay-bys to take photos of the bare, often snowy trees.",
+                "fr": "Le paysage hivernal est superbe vu depuis la voiture ; utilisez les emplacements de stationnement pour photographier les arbres dénudés souvent enneigés."
               }
             },
             {
@@ -962,13 +1069,15 @@
                 "de": "Espace Rambouillet",
                 "hu": "Espace Rambouillet",
                 "ro": "Espace Rambouillet",
-                "en": "Espace Rambouillet"
+                "en": "Espace Rambouillet",
+                "fr": "Espace Rambouillet"
               },
               "tip_5lang": {
                 "de": "Wildtiere sind im Winter oft aktiver auf der Suche nach Futter; bleiben Sie warm angezogen für die kurzen Fußwege zu den Wildgehegen.",
                 "hu": "A vadon élő állatok télen gyakran aktívabban keresnek élelmet; maradjon melegen felöltözve a vadaskertekhez vezető rövid sétákhoz.",
                 "ro": "Animalele sălbatice sunt adesea mai active iarna în căutarea hranei; rămâneți bine îmbrăcați pentru scurtele plimbări spre țarcuri.",
-                "en": "Wild animals are often more active seeking food in winter; stay warmly dressed for the short walks to the wildlife enclosures."
+                "en": "Wild animals are often more active seeking food in winter; stay warmly dressed for the short walks to the wildlife enclosures.",
+                "fr": "Les animaux sauvages sont souvent plus actifs à la recherche de nourriture en hiver ; habillez-vous chaudement pour les courtes promenades jusqu’aux enclos."
               }
             },
             {
@@ -976,13 +1085,15 @@
                 "de": "Kinderbereich",
                 "hu": "Gyermektér",
                 "ro": "Spațiul Copiilor",
-                "en": "Espace Enfant"
+                "en": "Espace Enfant",
+                "fr": "Espace Enfant"
               },
               "tip_5lang": {
                 "de": "Der perfekte Abschluss vor der frühen Dunkelheit; hier ist es hell und warm, ideal für Kinder zum Toben vor der Heimfahrt.",
                 "hu": "Tökéletes befejezés a korai sötétedés előtt; itt világos és meleg van, ideális a gyerekeknek a játékhoz a hazaindulás előtt.",
                 "ro": "Finalul perfect înainte de lăsarea întunericului; aici este lumină și cald, ideal pentru copii înainte de drumul spre casă.",
-                "en": "The perfect end before it gets dark early; it's bright and warm here, ideal for kids to play before the drive home."
+                "en": "The perfect end before it gets dark early; it's bright and warm here, ideal for kids to play before the drive home.",
+                "fr": "La fin parfaite avant la tombée rapide de la nuit ; l’endroit est lumineux et chaud, idéal pour que les enfants jouent avant le trajet du retour."
               }
             }
           ]

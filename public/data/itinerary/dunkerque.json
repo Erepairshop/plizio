@@ -31,7 +31,8 @@
             "de": "Genießen Sie den Panoramablick auf die Stadt und den Hafen.",
             "hu": "Élvezd a panorámát a városra és a kikötőre.",
             "ro": "Bucurați-vă de panorama asupra orașului și portului.",
-            "en": "Enjoy the panoramic view over the city and the port."
+            "en": "Enjoy the panoramic view over the city and the port.",
+            "fr": "Profitez de la vue panoramique sur la ville et le port."
           }
         },
         {
@@ -49,7 +50,8 @@
             "de": "Bewundern Sie die gotische Architektur direkt gegenüber dem Belfried.",
             "hu": "Csodáld meg a gótikus építészetet közvetlenül a harangtoronnyal szemben.",
             "ro": "Admirați arhitectura gotică chiar vizavi de turn.",
-            "en": "Admire the Gothic architecture right across from the belfry."
+            "en": "Admire the Gothic architecture right across from the belfry.",
+            "fr": "Admirez l'architecture gothique juste en face du beffroi."
           }
         },
         {
@@ -67,7 +69,8 @@
             "de": "Besuchen Sie die historischen Schiffe, die im Dock liegen.",
             "hu": "Látogasd meg a dokkban horgonyzó történelmi hajókat.",
             "ro": "Vizitați navele istorice ancorate în doc.",
-            "en": "Visit the historic ships moored in the dock."
+            "en": "Visit the historic ships moored in the dock.",
+            "fr": "Visitez les navires historiques amarrés au quai."
           }
         },
         {
@@ -85,7 +88,8 @@
             "de": "Tauchen Sie ein in die Geschichte der Evakuierung von 1940.",
             "hu": "Merülj el az 1940-es evakuálás történetében.",
             "ro": "Aflați povestea evacuării din 1940.",
-            "en": "Dive into the history of the 1940 evacuation."
+            "en": "Dive into the history of the 1940 evacuation.",
+            "fr": "Plongez dans l'histoire de l'évacuation de 1940."
           }
         },
         {
@@ -103,7 +107,8 @@
             "de": "Spazieren Sie durch den Skulpturengarten rund um das Museum.",
             "hu": "Sétálj végig a múzeum körüli szoborparkon.",
             "ro": "Plimbați-vă prin grădina cu sculpturi din jurul muzeului.",
-            "en": "Stroll through the sculpture garden surrounding the museum."
+            "en": "Stroll through the sculpture garden surrounding the museum.",
+            "fr": "Promenez-vous dans le jardin de sculptures entourant le musée."
           }
         },
         {
@@ -121,7 +126,8 @@
             "de": "Beenden Sie den Tag mit einem Spaziergang an der Promenade.",
             "hu": "Zárd a napot egy sétával a tengerparti sétányon.",
             "ro": "Încheiați ziua cu o plimbare pe faleza de la malul mării.",
-            "en": "End the day with a walk along the seafront promenade."
+            "en": "End the day with a walk along the seafront promenade.",
+            "fr": "Terminez la journée par une balade le long de la promenade en bord de mer."
           }
         }
       ],
@@ -129,7 +135,8 @@
         "de": "Beginnen Sie Ihren Tag im historischen Zentrum mit dem Aufstieg auf den UNESCO-geschützten Belfried. Nach einem Besuch im Hafenmuseum spazieren Sie zum Bastion 32, um mehr über die dramatische Operation Dynamo zu erfahren. Der Nachmittag gehört der modernen Kunst im LAAC und dem weiten Sandstrand von Malo-les-Bains, wo Sie den Abend bei Meeresfrüchten ausklingen lassen können.",
         "hu": "Kezdje a napot a történelmi központban az UNESCO-listás harangtorony megmászásával. A kikötői múzeum után sétáljon el a 32-es bástyához, hogy megismerje a Dynamo-hadművelet drámai történetét. A délután a LAAC modern művészetéé és a Malo-les-Bains tágas homokos strandjáé, ahol a napot friss tengeri ételekkel zárhatja.",
         "ro": "Începeți ziua în centrul istoric urcând în turnul Beffroi protejat de UNESCO. După o vizită la muzeul portuar, mergeți la Bastionul 32 pentru a învăța despre dramatica Operațiune Dynamo. După-amiaza este dedicată artei moderne la LAAC și plajei întinse din Malo-les-Bains, unde puteți încheia seara cu fructe de mare proaspete.",
-        "en": "Start your day in the historic center by climbing the UNESCO-listed belfry. After visiting the Port Museum, walk to Bastion 32 to learn about the dramatic Operation Dynamo. The afternoon is dedicated to modern art at LAAC and the vast sandy beach of Malo-les-Bains, where you can wrap up the day with fresh seafood by the water."
+        "en": "Start your day in the historic center by climbing the UNESCO-listed belfry. After visiting the Port Museum, walk to Bastion 32 to learn about the dramatic Operation Dynamo. The afternoon is dedicated to modern art at LAAC and the vast sandy beach of Malo-les-Bains, where you can wrap up the day with fresh seafood by the water.",
+        "fr": "Commencez la journée dans le centre historique en gravissant le beffroi classé par l'UNESCO. Après la visite du Musée du Port, marchez jusqu'au Bastion 32 pour en apprendre davantage sur la dramatique Opération Dynamo. L'après-midi est consacré à l'art moderne au LAAC et à la vaste plage de Malo-les-Bains, où vous pouvez conclure la journée avec des fruits de mer frais au bord de l'eau."
       },
       "gastro_picks": {
         "de": [
@@ -229,6 +236,10 @@
         "en": [
           "Dunkerque is flat and ideal for walking.",
           "The wind on the beach can be strong, bring a jacket."
+        ],
+        "fr": [
+          "Dunkerque est plate et idéale pour la marche.",
+          "Le vent sur la plage peut être fort, apportez une veste."
         ]
       }
     },
@@ -255,7 +266,8 @@
             "de": "Der älteste Turm der Stadt, einst ein Leuchtturm.",
             "hu": "A város legrégebbi tornya, egykor világítótorony volt.",
             "ro": "Cel mai vechi turn din oraș, fost far.",
-            "en": "The oldest tower in the city, formerly a lighthouse."
+            "en": "The oldest tower in the city, formerly a lighthouse.",
+            "fr": "La plus vieille tour de la ville, anciennement un phare."
           }
         },
         {
@@ -273,7 +285,8 @@
             "de": "Parken Sie Ihr Fahrrad sicher vor dem Haupteingang.",
             "hu": "Parkold le a bringát biztonságosan a főbejárat előtt.",
             "ro": "Parcați bicicleta în siguranță în fața intrării principale.",
-            "en": "Park your bike safely in front of the main entrance."
+            "en": "Park your bike safely in front of the main entrance.",
+            "fr": "Garez votre vélo en sécurité devant l'entrée principale."
           }
         },
         {
@@ -291,7 +304,8 @@
             "de": "Zeitgenössische Kunst in einer spektakulären ehemaligen Werfthalle.",
             "hu": "Kortárs művészet egy látványos egykori hajógyári csarnokban.",
             "ro": "Artă contemporană într-o spectaculoasă fostă hală a șantierului naval.",
-            "en": "Contemporary art in a spectacular former shipyard hall."
+            "en": "Contemporary art in a spectacular former shipyard hall.",
+            "fr": "Art contemporain dans une spectaculaire halle d'anciens chantiers navals."
           }
         },
         {
@@ -309,7 +323,8 @@
             "de": "Direkt am Deich gelegen, perfekt mit dem Fahrrad erreichbar.",
             "hu": "Közvetlenül a gátnál található, kerékpárral tökéletesen megközelíthető.",
             "ro": "Situat chiar lângă dig, perfect accesibil cu bicicleta.",
-            "en": "Located right by the dike, perfectly accessible by bike."
+            "en": "Located right by the dike, perfectly accessible by bike.",
+            "fr": "Situé juste au bord de la digue, parfaitement accessible à vélo."
           }
         },
         {
@@ -327,7 +342,8 @@
             "de": "Ein kultureller Stopp inmitten einer grünen Oase.",
             "hu": "Kulturális megálló egy zöld oázis közepén.",
             "ro": "O oprire culturală în mijlocul unei oaze verzi.",
-            "en": "A cultural stop in the middle of a green oasis."
+            "en": "A cultural stop in the middle of a green oasis.",
+            "fr": "Une halte culturelle au cœur d'une oasis verte."
           }
         },
         {
@@ -345,7 +361,8 @@
             "de": "Radeln Sie den kilometerlangen Sandstrand entlang.",
             "hu": "Bringázz végig a több kilométeres homokos parton.",
             "ro": "Pedalați de-a lungul plajei cu nisip de câțiva kilometri.",
-            "en": "Cycle along the miles of sandy beach."
+            "en": "Cycle along the miles of sandy beach.",
+            "fr": "Parcourez des kilomètres de plage sableuse à vélo."
           }
         }
       ],
@@ -353,7 +370,8 @@
         "de": "Entdecken Sie Dünkirchen auf zwei Rädern! Starten Sie am Tour du Leughenaer und erkunden Sie die Hafenbecken. Radeln Sie entlang des Meeres zum beeindruckenden FRAC und dem Dynamo-Museum. Die Tour endet am lebhaften Strand von Malo-les-Bains, wo die Radwege direkt am Meer verlaufen.",
         "hu": "Fedezze fel Dunkerque-et két keréken! Kezdjen a Tour du Leughenaer-nél, és fedezze fel a kikötői medencéket. Tekerjen a tengerpart mentén a lenyűgöző FRAC-ig és a Dynamo-múzeumig. A túra Malo-les-Bains élénk strandján ér véget, ahol a kerékpárutak közvetlenül a víz mellett haladnak.",
         "ro": "Descoperiți Dunkerque pe două roți! Începeți la Tour du Leughenaer și explorați bazinele portuare. Pedalați de-a lungul mării până la impresionantul FRAC și muzeul Dynamo. Turul se încheie pe plaja plină de viață din Malo-les-Bains, unde pistele de biciclete trec chiar pe lângă apă.",
-        "en": "Discover Dunkerque on two wheels! Start at the Tour du Leughenaer and explore the port basins. Cycle along the seafront to the impressive FRAC and the Dynamo Museum. The tour ends at the lively beach of Malo-les-Bains, where bike paths run right by the sea."
+        "en": "Discover Dunkerque on two wheels! Start at the Tour du Leughenaer and explore the port basins. Cycle along the seafront to the impressive FRAC and the Dynamo Museum. The tour ends at the lively beach of Malo-les-Bains, where bike paths run right by the sea.",
+        "fr": "Découvrez Dunkerque à deux roues ! Commencez à la Tour du Leughenaer et explorez les bassins du port. Roulez le long du front de mer jusqu'au FRAC impressionnant et au Musée Dynamo. La visite se termine à la dynamique plage de Malo-les-Bains, où les pistes cyclables longent la mer."
       },
       "gastro_picks": {
         "de": [
@@ -453,6 +471,10 @@
         "en": [
           "Use the city's self-service bikes.",
           "The seafront promenade is almost entirely cycleable."
+        ],
+        "fr": [
+          "Utilisez les vélos en libre-service de la ville.",
+          "La promenade du front de mer est presque entièrement praticable à vélo."
         ]
       }
     },
@@ -479,7 +501,8 @@
             "de": "Parken Sie im Parkhaus 'Centre' für einen einfachen Zugang.",
             "hu": "Parkolj a 'Centre' parkolóházban a könnyű bejutáshoz.",
             "ro": "Parcați în parcarea 'Centre' pentru acces facil.",
-            "en": "Park in the 'Centre' parking garage for easy access."
+            "en": "Park in the 'Centre' parking garage for easy access.",
+            "fr": "Garez-vous au parking 'Centre' pour un accès facile."
           }
         },
         {
@@ -497,7 +520,8 @@
             "de": "Kurzer Spaziergang vom Stadtzentrum zum historischen Hafen.",
             "hu": "Rövid séta a városközpontból a történelmi kikötőhöz.",
             "ro": "Scurtă plimbare din centrul orașului către portul istoric.",
-            "en": "Short walk from the city center to the historic harbor."
+            "en": "Short walk from the city center to the historic harbor.",
+            "fr": "Courte marche du centre vers le port historique."
           }
         },
         {
@@ -515,7 +539,8 @@
             "de": "Großer Parkplatz direkt vor dem Eingang des Museums.",
             "hu": "Nagy parkoló közvetlenül a múzeum bejárata előtt.",
             "ro": "Parcare mare chiar în fața intrării în muzeu.",
-            "en": "Large parking lot right in front of the museum entrance."
+            "en": "Large parking lot right in front of the museum entrance.",
+            "fr": "Grand parking juste devant l'entrée du musée."
           }
         },
         {
@@ -533,7 +558,8 @@
             "de": "Besuchen Sie dieses Kunstjuwel nur wenige Minuten vom Dynamo-Museum entfernt.",
             "hu": "Látogasd meg ezt a művészeti ékszerdobozt pár percre a Dynamo-múzeumtól.",
             "ro": "Vizitați această bijuterie artistică la doar câteva minute de muzeul Dynamo.",
-            "en": "Visit this artistic gem just minutes from the Dynamo Museum."
+            "en": "Visit this artistic gem just minutes from the Dynamo Museum.",
+            "fr": "Visitez ce joyau artistique à quelques minutes du Musée Dynamo."
           }
         },
         {
@@ -551,7 +577,8 @@
             "de": "Suchen Sie einen Parkplatz in den Seitenstraßen hinter der Promenade.",
             "hu": "Keress parkolót a sétány mögötti mellékutcákban.",
             "ro": "Căutați parcare pe străzile laterale din spatele falezei.",
-            "en": "Look for parking in the side streets behind the promenade."
+            "en": "Look for parking in the side streets behind the promenade.",
+            "fr": "Cherchez des places de stationnement dans les rues derrière la promenade."
           }
         }
       ],
@@ -559,7 +586,8 @@
         "de": "Mit dem Auto erreichen Sie bequem die verschiedenen Cluster Dünkirchens. Starten Sie im Zentrum (Belfried/Hafen), fahren Sie dann zum historischen Sektor der Bastion 32 und beenden Sie den Tag im Badeort Malo-les-Bains. Diese Route minimiert die Parkplatzsuche durch strategische Cluster-Stopps.",
         "hu": "Autóval kényelmesen elérheti Dunkerque különböző negyedeit. Kezdjen a központban (Harangtorony/Kikötő), majd hajtson át a Bastion 32 történelmi szektorába, végül zárja a napot Malo-les-Bains üdülőhelyén. Ez az útvonal stratégiai megállókkal minimalizálja a parkolókeresést.",
         "ro": "Cu mașina puteți ajunge confortabil în diferitele cartiere ale Dunkerque-ului. Începeți în centru (Beffroi/Port), apoi mergeți spre sectorul istoric Bastion 32 și încheiați ziua în stațiunea Malo-les-Bains. Acest traseu minimizează căutarea parcării prin opriri strategice în clustere.",
-        "en": "By car, you can easily reach Dunkerque's different districts. Start in the center (Belfry/Port), then drive to the Bastion 32 historic sector, and end your day in the seaside resort of Malo-les-Bains. This route minimizes parking hassles through strategic cluster stops."
+        "en": "By car, you can easily reach Dunkerque's different districts. Start in the center (Belfry/Port), then drive to the Bastion 32 historic sector, and end your day in the seaside resort of Malo-les-Bains. This route minimizes parking hassles through strategic cluster stops.",
+        "fr": "En voiture, vous pouvez facilement atteindre les différents quartiers de Dunkerque. Commencez au centre (Beffroi/Port), puis conduisez jusqu'au secteur historique du Bastion 32, et terminez la journée dans la station balnéaire de Malo-les-Bains. Cet itinéraire réduit les problèmes de stationnement grâce à des étapes regroupées stratégiquement."
       },
       "gastro_picks": {
         "de": [
@@ -659,6 +687,10 @@
         "en": [
           "Parking in the city center is often paid, but there are P+R lots on the outskirts.",
           "The A16 motorway provides fast access to the city."
+        ],
+        "fr": [
+          "Le stationnement en centre-ville est souvent payant, mais il existe des parkings P+R en périphérie.",
+          "L'autoroute A16 offre un accès rapide à la ville."
         ]
       }
     },
@@ -685,7 +717,8 @@
             "de": "Alle Busse halten in der Nähe des Rathauses (Hôtel de Ville).",
             "hu": "Minden busz megáll a városháza (Hôtel de Ville) közelében.",
             "ro": "Toate autobuzele opresc în apropierea primăriei (Hôtel de Ville).",
-            "en": "All buses stop near the City Hall (Hôtel de Ville)."
+            "en": "All buses stop near the City Hall (Hôtel de Ville).",
+            "fr": "Tous les bus desservent l'arrêt près de la Mairie (Hôtel de Ville)."
           }
         },
         {
@@ -703,7 +736,8 @@
             "de": "Kurzer Fußweg vom Zentrum zum Quai de la Citadelle.",
             "hu": "Rövid gyalogút a központból a Quai de la Citadelle-ig.",
             "ro": "Scurtă plimbare din centru până la Quai de la Citadelle.",
-            "en": "Short walk from the center to Quai de la Citadelle."
+            "en": "Short walk from the center to Quai de la Citadelle.",
+            "fr": "Courte marche du centre jusqu'au Quai de la Citadelle."
           }
         },
         {
@@ -721,7 +755,8 @@
             "de": "Nutzen Sie die Linie C1 oder C2 Richtung Malo.",
             "hu": "Használd a C1-es vagy C2-es vonalat Malo irányába.",
             "ro": "Folosiți linia C1 sau C2 în direcția Malo.",
-            "en": "Take line C1 or C2 towards Malo."
+            "en": "Take line C1 or C2 towards Malo.",
+            "fr": "Prenez la ligne C1 ou C2 en direction de Malo."
           }
         },
         {
@@ -739,7 +774,8 @@
             "de": "Die Haltestelle 'LAAC' befindet sich direkt neben dem Dynamo-Museum.",
             "hu": "A 'LAAC' megálló közvetlenül a Dynamo-múzeum mellett van.",
             "ro": "Stația 'LAAC' se află chiar lângă muzeul Dynamo.",
-            "en": "The 'LAAC' stop is located right next to the Dynamo Museum."
+            "en": "The 'LAAC' stop is located right next to the Dynamo Museum.",
+            "fr": "L'arrêt 'LAAC' se trouve juste à côté du Musée Dynamo."
           }
         },
         {
@@ -757,7 +793,8 @@
             "de": "Steigen Sie an der Haltestelle 'Malo Plage' aus.",
             "hu": "Szállj le a 'Malo Plage' megállónál.",
             "ro": "Coborâți la stația 'Malo Plage'.",
-            "en": "Get off at the 'Malo Plage' stop."
+            "en": "Get off at the 'Malo Plage' stop.",
+            "fr": "Descendez à l'arrêt 'Malo Plage'."
           }
         }
       ],
@@ -765,7 +802,8 @@
         "de": "Dünkirchen hat das modernste kostenlose Bussystem Frankreichs! Nutzen Sie die leuchtend bunten Busse, um bequem vom Stadtzentrum zum Hafen und weiter zum Strand von Malo zu gelangen. Sie benötigen kein Ticket – steigen Sie einfach ein und entdecken Sie die Stadt stressfrei.",
         "hu": "Dunkerque rendelkezik Franciaország legmodernebb ingyenes buszhálózatával! Használja a színes buszokat, hogy kényelmesen eljusson a belvárosból a kikötőbe, majd tovább a Malo-strandra. Nincs szükség jegyre – csak szálljon fel, és fedezze fel a várost stresszmentesen.",
         "ro": "Dunkerque are cel mai modern sistem de transport gratuit din Franța! Folosiți autobuzele colorate pentru a ajunge confortabil din centru în port și apoi la plaja Malo. Nu aveți nevoie de bilet – pur și simplu urcați și descoperiți orașul fără stres.",
-        "en": "Dunkerque boasts France's most modern free bus system! Use the bright, colorful buses to travel comfortably from the city center to the port and on to Malo beach. No ticket needed – just hop on and explore the city stress-free."
+        "en": "Dunkerque boasts France's most modern free bus system! Use the bright, colorful buses to travel comfortably from the city center to the port and on to Malo beach. No ticket needed – just hop on and explore the city stress-free.",
+        "fr": "Dunkerque possède le réseau de bus gratuit le plus moderne de France ! Utilisez les bus colorés et éclatants pour voyager confortablement du centre-ville au port puis jusqu'à Malo-plage. Pas de ticket nécessaire – montez simplement et explorez la ville sans stress."
       },
       "gastro_picks": {
         "de": [
@@ -865,6 +903,10 @@
         "en": [
           "All DK'Bus lines are free for everyone.",
           "Buses run every 10 minutes on main lines during the day."
+        ],
+        "fr": [
+          "Toutes les lignes DK'Bus sont gratuites pour tous.",
+          "Les bus circulent toutes les 10 minutes sur les lignes principales en journée."
         ]
       }
     }

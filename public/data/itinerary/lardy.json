@@ -21,7 +21,8 @@
             "de": "Parc Boussard",
             "hu": "Parc Boussard",
             "ro": "Parc Boussard",
-            "en": "Parc Boussard"
+            "en": "Parc Boussard",
+            "fr": "Parc Boussard"
           },
           "coords": [
             2.2641,
@@ -36,7 +37,8 @@
             "de": "Bewundern Sie die Art-déco-Gestaltung dieses wunderschön strukturierten Parks, in dem Sie einen ruhigen Morgenspaziergang unternehmen sollten.",
             "hu": "Csodálja meg a park lenyűgöző art deco kialakítását, ahol érdemes egy csendes reggeli sétát tenni, mielőtt a déli hőség megérkezne.",
             "ro": "Admirați designul Art Deco al acestui parc frumos structurat, unde ar trebui să faceți o plimbare liniștită dimineața înainte să se încălzească.",
-            "en": "Admire the Art Deco layout of this beautifully structured park, where you should take a peaceful morning stroll before the midday sun arrives."
+            "en": "Admire the Art Deco layout of this beautifully structured park, where you should take a peaceful morning stroll before the midday sun arrives.",
+            "fr": "Admirez la composition Art déco de ce parc magnifiquement structuré, où vous ferez une paisible promenade matinale avant l'arrivée du soleil de midi."
           }
         },
         {
@@ -44,7 +46,8 @@
             "de": "Kirche Saint-Pierre",
             "hu": "Saint-Pierre templom",
             "ro": "Biserica Saint-Pierre",
-            "en": "Saint-Pierre Church"
+            "en": "Saint-Pierre Church",
+            "fr": "Église Saint-Pierre"
           },
           "coords": [
             2.266317,
@@ -59,7 +62,8 @@
             "de": "Entdecken Sie die reiche Geschichte dieser alten Steinmauern und denken Sie daran, die ruhigen Stunden während der örtlichen Messen zu respektieren.",
             "hu": "Fedezze fel ezen ősi kőfalak gazdag történelmét, és ügyeljen arra, hogy tiszteletben tartsa a csendes órákat a helyi misék ideje alatt.",
             "ro": "Descoperiți istoria bogată ascunsă în vechile ziduri de piatră ale bisericii și nu uitați să respectați orele de liniște în timpul slujbelor locale.",
-            "en": "Discover the rich history embedded in the ancient stone walls of this religious site, and remember to respect the quiet hours during local masses."
+            "en": "Discover the rich history embedded in the ancient stone walls of this religious site, and remember to respect the quiet hours during local masses.",
+            "fr": "Découvrez la riche histoire nichée dans les murs de pierre anciens de ce site religieux, et pensez à respecter le calme pendant les messes locales."
           }
         },
         {
@@ -67,7 +71,8 @@
             "de": "Pont de l'Hêtre",
             "hu": "Pont de l'Hêtre",
             "ro": "Podul de l'Hêtre",
-            "en": "Pont de l'Hêtre Bridge"
+            "en": "Pont de l'Hêtre Bridge",
+            "fr": "Pont du Hêtre"
           },
           "coords": [
             2.267198,
@@ -82,7 +87,8 @@
             "de": "Überqueren Sie diese charmante historische Brücke, um die herrliche Aussicht auf das Wasser zu genießen, und halten Sie Ihre Kamera bereit.",
             "hu": "Sétáljon át ezen a bájos történelmi hídon, hogy élvezze a csodás kilátást, és készítse elő a fényképezőgépét a tökéletes vízi tükröződéshez.",
             "ro": "Traversați acest pod istoric fermecător pentru a vă bucura de priveliști minunate asupra apei, având aparatul foto pregătit pentru reflecția perfectă.",
-            "en": "Cross this charming historical bridge to enjoy lovely views over the water, making sure to have your camera ready to capture the perfect reflection."
+            "en": "Cross this charming historical bridge to enjoy lovely views over the water, making sure to have your camera ready to capture the perfect reflection.",
+            "fr": "Traversez ce charmant pont historique pour profiter de belles vues sur l'eau, en veillant à avoir votre appareil photo prêt pour capturer le reflet parfait."
           }
         },
         {
@@ -90,7 +96,8 @@
             "de": "Château du Mesnil-Voisin",
             "hu": "Château du Mesnil-Voisin",
             "ro": "Château du Mesnil-Voisin",
-            "en": "Château du Mesnil-Voisin"
+            "en": "Château du Mesnil-Voisin",
+            "fr": "Château du Mesnil-Voisin"
           },
           "coords": [
             2.275824,
@@ -105,7 +112,8 @@
             "de": "Erkunden Sie die großartige Architektur dieses herrlichen Schlosses und informieren Sie sich vorab über Führungen, um die Innenräume zu sehen.",
             "hu": "Fedezze fel ennek a csodálatos kastélynak a lenyűgöző építészetét, és előre tájékozódjon a vezetett túrákról, hogy bejuthasson a belső terekbe.",
             "ro": "Explorați arhitectura măreață și domeniile acestui castel magnific, verificând programul tururilor ghidate pentru a avea acces în interior.",
-            "en": "Explore the grand architecture and sweeping grounds of this magnificent castle, checking ahead for guided tour schedules to access the interiors."
+            "en": "Explore the grand architecture and sweeping grounds of this magnificent castle, checking ahead for guided tour schedules to access the interiors.",
+            "fr": "Explorez l'architecture grandiose et les vastes terres de ce magnifique château, en vérifiant à l'avance les horaires des visites guidées pour accéder aux intérieurs."
           }
         },
         {
@@ -113,7 +121,8 @@
             "de": "Église de la Nativité-de-la-Très Sainte-Vierge",
             "hu": "Église de la Nativité-de-la-Très Sainte-Vierge",
             "ro": "Biserica Nativité-de-la-Très Sainte-Vierge",
-            "en": "Église de la Nativité-de-la-Très Sainte-Vierge"
+            "en": "Église de la Nativité-de-la-Très Sainte-Vierge",
+            "fr": "Église de la Nativité-de-la-Très Sainte-Vierge"
           },
           "coords": [
             2.260201,
@@ -128,7 +137,8 @@
             "de": "Genießen Sie einen Moment der Stille in dieser charmanten Dorfkirche und betrachten Sie die Buntglasfenster, die im Nachmittagslicht am besten wirken.",
             "hu": "Töltsön el egy csendes pillanatot ebben a bájos falusi templomban, és figyelje meg a délutáni fényben ragyogó, bonyolult ólomüveg részleteket.",
             "ro": "Găsiți un moment de liniște în această biserică fermecătoare de sat, remarcând vitraliile complexe care se văd cel mai bine în lumina după-amiezii.",
-            "en": "Take a moment of quiet reflection in this charming village church, noting the intricate stained glass details best viewed in the afternoon light."
+            "en": "Take a moment of quiet reflection in this charming village church, noting the intricate stained glass details best viewed in the afternoon light.",
+            "fr": "Offrez-vous un moment de recueillement dans cette charmante église de village, en notant les détails des vitraux qui se révèlent particulièrement l'après-midi."
           }
         }
       ],
@@ -136,7 +146,8 @@
         "de": "Der Morgen beginnt mit einem erfrischenden Spaziergang durch den Parc Boussard und seiner besonderen Atmosphäre, gefolgt von der Kirche Saint-Pierre. Mittags überqueren Sie die historische Brücke Pont de l'Hêtre und genießen die ruhige Flusslandschaft. Der Nachmittag ist der Erkundung des majestätischen Château du Mesnil-Voisin gewidmet. Der Tag endet sanft mit einem besinnlichen Besuch der Église de la Nativité, was Ihre Wandertour friedlich abschließt.",
         "hu": "A reggel egy frissítő sétával indul a Parc Boussard-ban, melyet a közeli Saint-Pierre templom nyugodt hangulata követ. Délben átkel a történelmi Pont de l'Hêtre hídon, élvezve a folyó finom áramlását. A délután a fenséges Château du Mesnil-Voisin felfedezésének van szentelve. A nap egy csendes látogatással zárul az Église de la Nativité templomban, békésen befejezve a gyalogos túrát.",
         "ro": "Dimineața începe cu o plimbare răcoritoare prin Parc Boussard, urmată de ambianța calmă a Bisericii Saint-Pierre din apropiere. La prânz, veți traversa podul istoric Pont de l'Hêtre, bucurându-vă de curgerea lină a râului. După-amiaza este dedicată explorării mărețului Château du Mesnil-Voisin. Ziua se încheie liniștit cu o vizită la Église de la Nativité, punând capăt în mod pașnic turului dumneavoastră pietonal.",
-        "en": "Morning begins with a refreshing stroll through Parc Boussard, embracing its distinctive style, followed by the calm ambiance of the nearby Saint-Pierre Church. By midday, you'll cross the historical Pont de l'Hêtre Bridge, enjoying the subtle flow of the river below. The afternoon is dedicated to exploring the majestic grounds of Château du Mesnil-Voisin. The day gently concludes with a reflective visit to the Église de la Nativité, ending your walking tour peacefully."
+        "en": "Morning begins with a refreshing stroll through Parc Boussard, embracing its distinctive style, followed by the calm ambiance of the nearby Saint-Pierre Church. By midday, you'll cross the historical Pont de l'Hêtre Bridge, enjoying the subtle flow of the river below. The afternoon is dedicated to exploring the majestic grounds of Château du Mesnil-Voisin. The day gently concludes with a reflective visit to the Église de la Nativité, ending your walking tour peacefully.",
+        "fr": "La matinée commence par une promenade revigorante dans le Parc Boussard, puis se poursuit par l'ambiance paisible de l'Église Saint-Pierre. À midi, vous traverserez le Pont du Hêtre en appréciant l'écoulement discret de la rivière. L'après-midi est consacré à l'exploration des jardins majestueux du Château du Mesnil-Voisin. La journée se conclut en douceur par une visite contemplative de l'Église de la Nativité."
       },
       "variants": {
         "rainy": {
@@ -144,7 +155,8 @@
             "de": "Beginnen Sie Ihren regnerischen Spaziergang im Parc Boussard und genießen Sie den frischen Duft unter den Bäumen. Mittags bietet die Kirche Saint-Pierre eine trockene Zuflucht vor der historischen Brücke. Bewundern Sie nachmittags das Château du Mesnil-Voisin mit einem Regenschirm. Beenden Sie den Tag in der Église de la Nativité, die Schutz vor dem Abendregen bietet.",
             "hu": "Kezdje esős sétáját a Parc Boussard-ban, élvezve a friss illatokat a fák alatt. Délben a Saint-Pierre templom nyújt száraz, békés menedéket a híd megtekintése előtt. Délután csodálja meg a Château du Mesnil-Voisin kastélyt esernyővel a kezében. Zárja a sétát az Église de la Nativité-ben, melynek belső tere kellemes menedéket ad az esti eső elől.",
             "ro": "Începeți dimineața ploioasă în Parc Boussard, bucurându-vă de parfumul proaspăt sub copaci. La prânz, Biserica Saint-Pierre oferă un refugiu uscat înainte de a vedea podul. După-amiaza, admirați Château du Mesnil-Voisin cu o umbrelă. Încheiați plimbarea ploioasă la Église de la Nativité, apreciind interiorul său primitor și ferit de vremea rea.",
-            "en": "Start your wet morning at Parc Boussard, enjoying the fresh scent of rain under the trees. Midday, the Saint-Pierre Church offers a serene, dry refuge before visiting the historic bridge. In the afternoon, marvel at the imposing Château du Mesnil-Voisin with an umbrella in hand. Conclude your rainy walk exploring the beautiful Église de la Nativité, appreciating its cozy interior."
+            "en": "Start your wet morning at Parc Boussard, enjoying the fresh scent of rain under the trees. Midday, the Saint-Pierre Church offers a serene, dry refuge before visiting the historic bridge. In the afternoon, marvel at the imposing Château du Mesnil-Voisin with an umbrella in hand. Conclude your rainy walk exploring the beautiful Église de la Nativité, appreciating its cozy interior.",
+            "fr": "Commencez votre matinée humide au Parc Boussard, en profitant de l'odeur fraîche de la pluie sous les arbres. À midi, l'Église Saint-Pierre offre un refuge serein et sec avant de visiter le pont historique. L'après-midi, admirez l'imposant Château du Mesnil-Voisin en tenant votre parapluie. Terminez votre balade pluvieuse en explorant la belle Église de la Nativité et en appréciant son intérieur chaleureux."
           },
           "stops": [
             {
@@ -152,13 +164,15 @@
                 "de": "Parc Boussard",
                 "hu": "Parc Boussard",
                 "ro": "Parc Boussard",
-                "en": "Parc Boussard"
+                "en": "Parc Boussard",
+                "fr": "Parc Boussard"
               },
               "tip_5lang": {
                 "de": "Spazieren Sie durch die üppigen Gärten; das Laub bietet etwas Schutz, aber wasserdichte Schuhe und ein Regenschirm sind für die matschigen Pfade unerlässlich.",
                 "hu": "Sétáljon a buja kertekben; a lombozat némi fedezéket nyújt, de az esernyő és a vízálló cipő elengedhetetlen a saras ösvényeken.",
                 "ro": "Plimbați-vă prin grădinile luxuriante; frunzișul oferă puțin adăpost, dar cizmele impermeabile și o umbrelă sunt esențiale pentru aleile noroioase.",
-                "en": "Stroll through the lush gardens; the foliage provides some cover, but sturdy waterproof boots and an umbrella are essential for the muddy paths."
+                "en": "Stroll through the lush gardens; the foliage provides some cover, but sturdy waterproof boots and an umbrella are essential for the muddy paths.",
+                "fr": "Promenez-vous dans les jardins luxuriants ; le feuillage offre un certain abri, mais des bottes imperméables solides et un parapluie sont essentiels pour les sentiers boueux."
               }
             },
             {
@@ -166,13 +180,15 @@
                 "de": "Kirche Saint-Pierre",
                 "hu": "Saint-Pierre templom",
                 "ro": "Biserica Saint-Pierre",
-                "en": "Saint-Pierre Church"
+                "en": "Saint-Pierre Church",
+                "fr": "Église Saint-Pierre"
               },
               "tip_5lang": {
                 "de": "Bewundern Sie die markante Architektur und finden Sie drinnen Schutz. Die Buntglasfenster wirken im Regen stimmungsvoll; perfekt zum Trocknen.",
                 "hu": "Csodálja meg a lenyűgöző építészetet és keressen menedéket bent. Az üvegablakok borongós esőben is szépek; remek alkalom egy kis szárítkozásra.",
                 "ro": "Admirați arhitectura impresionantă și găsiți adăpost înăuntru. Vitraliile arată dramatic în ploaie; moment perfect pentru a vă usca.",
-                "en": "Admire the striking architecture and find shelter inside. The stained glass looks moody in the rain; perfect time to dry off and rest."
+                "en": "Admire the striking architecture and find shelter inside. The stained glass looks moody in the rain; perfect time to dry off and rest.",
+                "fr": "Admirez l'architecture saisissante et abritez-vous à l'intérieur. Les vitraux paraissent mélancoliques sous la pluie ; c'est le moment idéal pour se sécher et se reposer."
               }
             },
             {
@@ -180,13 +196,15 @@
                 "de": "Pont de l'Hêtre",
                 "hu": "Pont de l'Hêtre",
                 "ro": "Podul de l'Hêtre",
-                "en": "Pont de l'Hêtre Bridge"
+                "en": "Pont de l'Hêtre Bridge",
+                "fr": "Pont du Hêtre"
               },
               "tip_5lang": {
                 "de": "Betrachten Sie die historische Brücke, während der Regen den Fluss anschwellen lässt. Die Steinoberfläche ist nass sehr rutschig, also Vorsicht.",
                 "hu": "Tekintse meg a történelmi hidat, ahogy az eső felduzzasztja a folyót. A vizes kőfelület nagyon csúszós lehet, ezért lépkedjen óvatosan.",
                 "ro": "Vedeți podul istoric în timp ce ploaia umflă râul. Suprafața de piatră poate fi destul de alunecoasă când este udă, așa că pășiți cu grijă.",
-                "en": "View the historic bridge as the rain swells the river below. The stone surface can be quite slippery when wet, so step carefully."
+                "en": "View the historic bridge as the rain swells the river below. The stone surface can be quite slippery when wet, so step carefully.",
+                "fr": "Contemplez le pont historique alors que la pluie gonfle la rivière en dessous. La surface en pierre peut être très glissante quand elle est mouillée, donc marchez prudemment."
               }
             },
             {
@@ -194,13 +212,15 @@
                 "de": "Château du Mesnil-Voisin",
                 "hu": "Château du Mesnil-Voisin",
                 "ro": "Château du Mesnil-Voisin",
-                "en": "Château du Mesnil-Voisin"
+                "en": "Château du Mesnil-Voisin",
+                "fr": "Château du Mesnil-Voisin"
               },
               "tip_5lang": {
                 "de": "Erkunden Sie das prächtige Schloss; der Nieselregen sorgt für eine dramatische Atmosphäre. Schließen Sie Ihre Regenjacke gegen den feuchten Wind.",
                 "hu": "Fedezze fel a fenséges kastélyt; a szitáló eső drámai, romantikus hangulatot kölcsönöz. Húzza össze az esőkabátját a nyirkos szél ellen.",
                 "ro": "Explorați castelul magnific; ploaia măruntă adaugă o atmosferă dramatică. Țineți jacheta de ploaie închisă împotriva vântului umed.",
-                "en": "Explore the magnificent castle grounds; the misty rain adds a dramatic, romantic feel. Keep your rain jacket zipped up against the damp wind."
+                "en": "Explore the magnificent castle grounds; the misty rain adds a dramatic, romantic feel. Keep your rain jacket zipped up against the damp wind.",
+                "fr": "Explorez les magnifiques jardins du château ; la pluie brumeuse ajoute une atmosphère dramatique et romantique. Gardez votre veste imperméable bien fermée contre le vent humide."
               }
             },
             {
@@ -208,13 +228,15 @@
                 "de": "Église de la Nativité-de-la-Très Sainte-Vierge",
                 "hu": "Église de la Nativité-de-la-Très Sainte-Vierge",
                 "ro": "Biserica Nativité-de-la-Très Sainte-Vierge",
-                "en": "Église de la Nativité-de-la-Très Sainte-Vierge"
+                "en": "Église de la Nativité-de-la-Très Sainte-Vierge",
+                "fr": "Église de la Nativité-de-la-Très Sainte-Vierge"
               },
               "tip_5lang": {
                 "de": "Bewundern Sie diese schöne Kirche, die am Ende einen trockenen Zufluchtsort bietet. Schütteln Sie den Schirm ab, bevor Sie die Kunst genießen.",
                 "hu": "Csodálja meg ezt a gyönyörű templomot, amely száraz menedéket kínál a séta végén. Rázza le az esernyőjét belépés előtt, és élvezze a művészetet.",
                 "ro": "Admirați această biserică frumoasă, un sanctuar uscat la finalul plimbării. Scuturați umbrela înainte de a intra pentru a vă bucura de artă.",
-                "en": "Marvel at this beautiful church, offering a quiet, dry sanctuary at the end of your walk. Shake off your umbrella before entering to enjoy the art."
+                "en": "Marvel at this beautiful church, offering a quiet, dry sanctuary at the end of your walk. Shake off your umbrella before entering to enjoy the art.",
+                "fr": "Admirez cette belle église, offrant un sanctuaire calme et sec à la fin de votre promenade. Secouez votre parapluie avant d'entrer pour profiter pleinement des œuvres."
               }
             }
           ]
@@ -224,7 +246,8 @@
             "de": "Packen Sie sich warm ein für einen klaren Wintermorgen im Parc Boussard. Mittags bietet die Kirche Saint-Pierre einen friedlichen Rückzugsort, bevor Sie die Brücke überqueren. Nachmittags beeindruckt das Château du Mesnil-Voisin unter dem Winterhimmel. Besuchen Sie die Église de la Nativité, wenn der frühe Sonnenuntergang den kühlen Abend einläutet.",
             "hu": "Öltözzön fel melegen a csípős téli reggelen a Parc Boussard-ban, ahol dér fedi a fákat. Délben a Saint-Pierre templom nyújt békés menedéket a történelmi híd előtt. Délután a Château du Mesnil-Voisin lenyűgöző a téli égbolt alatt. Húzódjon be az Église de la Nativité-be, ahogy a korai naplemente elhozza a hűvös estét.",
             "ro": "Îmbrăcați-vă gros pentru o dimineață de iarnă în Parc Boussard. La prânz, Biserica Saint-Pierre oferă un refugiu liniștit înainte de a traversa podul. După-amiaza, grandoarea Château du Mesnil-Voisin este uimitoare sub cerul de iarnă. Vizitați Église de la Nativité în timp ce apusul devreme aduce o seară rece.",
-            "en": "Bundle up for a crisp winter morning at Parc Boussard, where frost clings to the trees. By midday, the Saint-Pierre Church offers a peaceful, cold-weather retreat before crossing the historic bridge. In the afternoon, the grandeur of Château du Mesnil-Voisin is stunning under the winter sky. Wrap up warmly at the Église de la Nativité as the early sunset brings a chilly evening."
+            "en": "Bundle up for a crisp winter morning at Parc Boussard, where frost clings to the trees. By midday, the Saint-Pierre Church offers a peaceful, cold-weather retreat before crossing the historic bridge. In the afternoon, the grandeur of Château du Mesnil-Voisin is stunning under the winter sky. Wrap up warmly at the Église de la Nativité as the early sunset brings a chilly evening.",
+            "fr": "Couchez-vous chaudement pour une matinée hivernale fraîche au Parc Boussard, où le givre s'accroche aux arbres. À midi, l'Église Saint-Pierre offre un refuge paisible par temps froid avant de traverser le pont historique. L'après-midi, la grandeur du Château du Mesnil-Voisin est saisissante sous le ciel d'hiver. Terminez bien emmitouflé à l'Église de la Nativité alors que le coucher du soleil précoce apporte une soirée fraîche."
           },
           "stops": [
             {
@@ -232,13 +255,15 @@
                 "de": "Parc Boussard",
                 "hu": "Parc Boussard",
                 "ro": "Parc Boussard",
-                "en": "Parc Boussard"
+                "en": "Parc Boussard",
+                "fr": "Parc Boussard"
               },
               "tip_5lang": {
                 "de": "Spazieren Sie auf den gefrorenen Wegen dieses Parks. Tragen Sie isolierte Handschuhe und Thermokleidung, um bei der Kälte angenehm warm zu bleiben.",
                 "hu": "Sétáljon a gyönyörű park deres ösvényein. A csupasz fák új távlatokat nyitnak, de viseljen bélelt kesztyűt és meleg rétegeket a hideg ellen.",
                 "ro": "Plimbați-vă pe aleile înghețate ale acestui parc. Copacii goi dezvăluie noi perspective, dar purtați mănuși izolate și straturi termice.",
-                "en": "Walk the frosted paths of this beautiful park. The bare trees reveal new perspectives, but wear insulated gloves and thermal layers to stay warm."
+                "en": "Walk the frosted paths of this beautiful park. The bare trees reveal new perspectives, but wear insulated gloves and thermal layers to stay warm.",
+                "fr": "Parcourez les sentiers givrés de ce beau parc. Les arbres dénudés révèlent de nouvelles perspectives, mais portez des gants isolants et des couches thermiques pour rester au chaud."
               }
             },
             {
@@ -246,13 +271,15 @@
                 "de": "Kirche Saint-Pierre",
                 "hu": "Saint-Pierre templom",
                 "ro": "Biserica Saint-Pierre",
-                "en": "Saint-Pierre Church"
+                "en": "Saint-Pierre Church",
+                "fr": "Église Saint-Pierre"
               },
               "tip_5lang": {
                 "de": "Treten Sie ein, um der klirrenden Kälte zu entkommen. Es ist ein großartiger Ort, um die Hände aufzuwärmen und das historische Interieur zu bewundern.",
                 "hu": "Lépjen be, hogy elmeneküljön a metsző hideg elől. A történelmi kőfalak között csend honol; kiváló hely a kezek felmelegítésére.",
                 "ro": "Pășiți înăuntru pentru a scăpa de frigul pătrunzător. Zidurile istorice răsună de liniște; e un loc minunat pentru a vă încălzi mâinile.",
-                "en": "Step inside to escape the biting cold. The historic stone walls echo with silence; it's a great spot to warm your hands and admire the interior."
+                "en": "Step inside to escape the biting cold. The historic stone walls echo with silence; it's a great spot to warm your hands and admire the interior.",
+                "fr": "Entrez pour échapper au froid mordant. Les murs de pierre historiques résonnent du silence ; c'est un excellent endroit pour chauffer vos mains et admirer l'intérieur."
               }
             },
             {
@@ -260,13 +287,15 @@
                 "de": "Pont de l'Hêtre",
                 "hu": "Pont de l'Hêtre",
                 "ro": "Podul de l'Hêtre",
-                "en": "Pont de l'Hêtre Bridge"
+                "en": "Pont de l'Hêtre Bridge",
+                "fr": "Pont du Hêtre"
               },
               "tip_5lang": {
                 "de": "Genießen Sie die winterliche Landschaft von der Brücke aus. Auf den Steinen kann sich Eis bilden, achten Sie auf rutschfestes Schuhwerk für Ihre Sicherheit.",
                 "hu": "Gyönyörködjön a békés téli tájban a hídról. A köveken jeges foltok alakulhatnak ki, ezért győződjön meg róla, hogy a cipője nem csúszik.",
                 "ro": "Admirați peisajul senin de iarnă de pe pod. Se pot forma pete de gheață pe pietre, așa că asigurați-vă că cizmele au tracțiune bună.",
-                "en": "Take in the serene winter landscape from the bridge. Icy patches can form on the stones, so ensure your boots have good traction for safety."
+                "en": "Take in the serene winter landscape from the bridge. Icy patches can form on the stones, so ensure your boots have good traction for safety.",
+                "fr": "Profitez du paysage hivernal serein depuis le pont. Des plaques de glace peuvent se former sur les pierres, assurez-vous que vos bottes offrent une bonne adhérence pour la sécurité."
               }
             },
             {
@@ -274,13 +303,15 @@
                 "de": "Château du Mesnil-Voisin",
                 "hu": "Château du Mesnil-Voisin",
                 "ro": "Château du Mesnil-Voisin",
-                "en": "Château du Mesnil-Voisin"
+                "en": "Château du Mesnil-Voisin",
+                "fr": "Château du Mesnil-Voisin"
               },
               "tip_5lang": {
                 "de": "Die Winterkulisse lässt dieses Schloss wie aus einem Märchen wirken. Das Gelände ist ungeschützt, ein dicker Schal und eine Windjacke sind nötig.",
                 "hu": "A téli tájban a kastély úgy néz ki, mintha egy meséből lépett volna elő. A birtok szeles, vastag sál és szélálló kabát feltétlenül szükséges.",
                 "ro": "Peisajul de iarnă face ca acest castel să arate ca dintr-un basm. Terenurile sunt expuse, deci sunt necesare un fular gros și o jachetă de vânt.",
-                "en": "The winter scenery makes this castle look straight out of a fairytale. The grounds are exposed, so a thick scarf and windproof jacket are needed."
+                "en": "The winter scenery makes this castle look straight out of a fairytale. The grounds are exposed, so a thick scarf and windproof jacket are needed.",
+                "fr": "Le paysage hivernal donne à ce château un air de conte de fées. Les terrains sont exposés, donc une grosse écharpe et une veste coupe-vent sont nécessaires."
               }
             },
             {
@@ -288,13 +319,15 @@
                 "de": "Église de la Nativité-de-la-Très Sainte-Vierge",
                 "hu": "Église de la Nativité-de-la-Très Sainte-Vierge",
                 "ro": "Biserica Nativité-de-la-Très Sainte-Vierge",
-                "en": "Église de la Nativité-de-la-Très Sainte-Vierge"
+                "en": "Église de la Nativité-de-la-Très Sainte-Vierge",
+                "fr": "Église de la Nativité-de-la-Très Sainte-Vierge"
               },
               "tip_5lang": {
                 "de": "Beenden Sie Ihren Spaziergang an dieser Kirche. Da die Sonne gegen 17 Uhr untergeht, verleiht die Dämmerung der Fassade einen mystischen Glanz.",
                 "hu": "Zárja sétáját e lenyűgöző templom megcsodálásával. Mivel a nap 5 óra körül nyugszik, a szürkület misztikus fényt vet a homlokzatra.",
                 "ro": "Încheiați plimbarea admirând această biserică. Deoarece soarele apune în jur de ora 17, crepusculul adaugă o strălucire mistică fațadei.",
-                "en": "End your walk admiring this stunning church. Since sunset happens around 5 PM, the twilight adds a mystical glow to the facade; bundle up well!"
+                "en": "End your walk admiring this stunning church. Since sunset happens around 5 PM, the twilight adds a mystical glow to the facade; bundle up well!",
+                "fr": "Terminez votre promenade en admirant cette superbe église. Comme le soleil se couche vers 17h, le crépuscule ajoute une lueur mystique à la façade ; emmitouflez-vous bien !"
               }
             }
           ]
@@ -314,7 +347,8 @@
             "de": "Parc Boussard",
             "hu": "Parc Boussard",
             "ro": "Parc Boussard",
-            "en": "Parc Boussard"
+            "en": "Parc Boussard",
+            "fr": "Parc Boussard"
           },
           "coords": [
             2.2641,
@@ -329,7 +363,8 @@
             "de": "Bewundern Sie die Art-déco-Gestaltung dieses wunderschön strukturierten Parks, in dem Sie einen ruhigen Morgenspaziergang unternehmen sollten.",
             "hu": "Csodálja meg a park lenyűgöző art deco kialakítását, ahol érdemes egy csendes reggeli sétát tenni, mielőtt a déli hőség megérkezne.",
             "ro": "Admirați designul Art Deco al acestui parc frumos structurat, unde ar trebui să faceți o plimbare liniștită dimineața înainte să se încălzească.",
-            "en": "Admire the Art Deco layout of this beautifully structured park, where you should take a peaceful morning stroll before the midday sun arrives."
+            "en": "Admire the Art Deco layout of this beautifully structured park, where you should take a peaceful morning stroll before the midday sun arrives.",
+            "fr": "Admirez la composition Art déco de ce parc magnifiquement structuré, où vous ferez une paisible promenade matinale avant l'arrivée du soleil de midi."
           }
         },
         {
@@ -337,7 +372,8 @@
             "de": "Pont de l'Hêtre",
             "hu": "Pont de l'Hêtre",
             "ro": "Podul de l'Hêtre",
-            "en": "Pont de l'Hêtre Bridge"
+            "en": "Pont de l'Hêtre Bridge",
+            "fr": "Pont du Hêtre"
           },
           "coords": [
             2.267198,
@@ -352,7 +388,8 @@
             "de": "Überqueren Sie diese charmante historische Brücke, um die herrliche Aussicht auf das Wasser zu genießen, und halten Sie Ihre Kamera bereit.",
             "hu": "Sétáljon át ezen a bájos történelmi hídon, hogy élvezze a csodás kilátást, és készítse elő a fényképezőgépét a tökéletes vízi tükröződéshez.",
             "ro": "Traversați acest pod istoric fermecător pentru a vă bucura de priveliști minunate asupra apei, având aparatul foto pregătit pentru reflecția perfectă.",
-            "en": "Cross this charming historical bridge to enjoy lovely views over the water, making sure to have your camera ready to capture the perfect reflection."
+            "en": "Cross this charming historical bridge to enjoy lovely views over the water, making sure to have your camera ready to capture the perfect reflection.",
+            "fr": "Traversez ce charmant pont historique pour profiter de belles vues sur l'eau, en veillant à avoir votre appareil photo prêt pour capturer le reflet parfait."
           }
         },
         {
@@ -360,7 +397,8 @@
             "de": "Château du Mesnil-Voisin",
             "hu": "Château du Mesnil-Voisin",
             "ro": "Château du Mesnil-Voisin",
-            "en": "Château du Mesnil-Voisin"
+            "en": "Château du Mesnil-Voisin",
+            "fr": "Château du Mesnil-Voisin"
           },
           "coords": [
             2.275824,
@@ -375,7 +413,8 @@
             "de": "Erkunden Sie die großartige Architektur dieses herrlichen Schlosses und informieren Sie sich vorab über Führungen, um die Innenräume zu sehen.",
             "hu": "Fedezze fel ennek a csodálatos kastélynak a lenyűgöző építészetét, és előre tájékozódjon a vezetett túrákról, hogy bejuthasson a belső terekbe.",
             "ro": "Explorați arhitectura măreață și domeniile acestui castel magnific, verificând programul tururilor ghidate pentru a avea acces în interior.",
-            "en": "Explore the grand architecture and sweeping grounds of this magnificent castle, checking ahead for guided tour schedules to access the interiors."
+            "en": "Explore the grand architecture and sweeping grounds of this magnificent castle, checking ahead for guided tour schedules to access the interiors.",
+            "fr": "Explorez l'architecture grandiose et les vastes terres de ce magnifique château, en vérifiant à l'avance les horaires des visites guidées pour accéder aux intérieurs."
           }
         },
         {
@@ -383,7 +422,8 @@
             "de": "Ufer der Juine",
             "hu": "Juine folyó partja",
             "ro": "Malurile râului Juine",
-            "en": "Juine River Banks"
+            "en": "Juine River Banks",
+            "fr": "Berges de la Juine"
           },
           "coords": [
             2.29688,
@@ -398,7 +438,8 @@
             "de": "Schlendern Sie entlang der natürlichen Uferpfade, um Vögel zu beobachten, und bringen Sie ein kleines Picknick mit, um es am Wasser zu genießen.",
             "hu": "Sétáljon a folyópart természetes ösvényein kiváló madármegfigyeléshez, és hozzon magával egy kis pikniket a víz nyugtató folyásánál.",
             "ro": "Plimbați-vă pe cărările naturale ale malurilor râului pentru a observa păsările și aduceți un mic picnic pentru a vă bucura lângă apa liniștită.",
-            "en": "Stroll along the natural pathways of the river banks for excellent birdwatching, and bring a small picnic to enjoy near the water's calming flow."
+            "en": "Stroll along the natural pathways of the river banks for excellent birdwatching, and bring a small picnic to enjoy near the water's calming flow.",
+            "fr": "Promenez-vous le long des sentiers naturels des berges pour une excellente observation des oiseaux, et emportez un petit pique-nique à savourer près du calme du cours d'eau."
           }
         },
         {
@@ -406,7 +447,8 @@
             "de": "Pierre-Levée Dolmen",
             "hu": "Pierre-Levée Dolmen",
             "ro": "Dolmenul Pierre-Levée",
-            "en": "Dolmen dit la Pierre-Levée"
+            "en": "Dolmen dit la Pierre-Levée",
+            "fr": "Dolmen dit la Pierre-Levée"
           },
           "coords": [
             2.262794,
@@ -421,7 +463,8 @@
             "de": "Bestaunen Sie die uralten Mysterien dieses prähistorischen Megalithen und tragen Sie feste Wanderschuhe, da das Gelände etwas uneben sein kann.",
             "hu": "Csodálja meg ezen történelem előtti megalit körüli ősi rejtélyeket, és viseljen kényelmes túracipőt, mivel a környező terep kissé egyenetlen.",
             "ro": "Minunați-vă de misterele antice ale acestui megalit preistoric, purtând încălțăminte robustă, deoarece terenul înconjurător poate fi accidentat.",
-            "en": "Marvel at the ancient mysteries surrounding this prehistoric megalith, wearing sturdy walking shoes as the surrounding terrain can be a bit uneven."
+            "en": "Marvel at the ancient mysteries surrounding this prehistoric megalith, wearing sturdy walking shoes as the surrounding terrain can be a bit uneven.",
+            "fr": "Admirez les mystères antiques entourant ce mégalithe préhistorique, en portant des chaussures de marche robustes car le terrain alentour peut être irrégulier."
           }
         },
         {
@@ -429,7 +472,8 @@
             "de": "Château de Gillevoisin",
             "hu": "Château de Gillevoisin",
             "ro": "Château de Gillevoisin",
-            "en": "Château de Gillevoisin"
+            "en": "Château de Gillevoisin",
+            "fr": "Château de Gillevoisin"
           },
           "coords": [
             2.237125,
@@ -444,7 +488,8 @@
             "de": "Entdecken Sie das faszinierende Erbe dieses majestätischen Anwesens in der Natur, bleiben Sie jedoch auf markierten Wegen, um das Gelände zu respektieren.",
             "hu": "Fedezze fel a természetben megbúvó fenséges birtok lenyűgöző örökségét, de érdemes a kijelölt ösvényeken maradni a magánterület tiszteletben tartásához.",
             "ro": "Descoperiți moștenirea fascinantă a acestui domeniu majestuos ascuns în natură, dar este înțelept să rămâneți pe poteci pentru a respecta zona privată.",
-            "en": "Uncover the fascinating legacy of this majestic estate nestled in nature, though it is wise to stay on marked paths to respect the private grounds."
+            "en": "Uncover the fascinating legacy of this majestic estate nestled in nature, though it is wise to stay on marked paths to respect the private grounds.",
+            "fr": "Découvrez l'héritage fascinant de ce majestueux domaine niché dans la nature, mais il est prudent de rester sur les sentiers balisés par respect pour la propriété privée."
           }
         }
       ],
@@ -452,7 +497,8 @@
         "de": "Ihr Radtag beginnt im Herzen von Lardy im Parc Boussard und führt Sie mühelos zur legendären Brücke Pont de l'Hêtre für malerische Flussansichten. Mittags erreichen Sie das großartige Château du Mesnil-Voisin, bevor Sie entspannt am Ufer der Juine radeln. Am Nachmittag entdecken Sie prähistorische Geheimnisse am Pierre-Levée Dolmen. Die Fahrt endet am ruhigen Château de Gillevoisin und bietet ein lohnendes Abendambiente.",
         "hu": "A kerékpáros nap Lardy szívében, a Parc Boussard-ban kezdődik, majd zökkenőmentesen tekerhet át a festői Pont de l'Hêtre hídhoz. Délben megcsodálhatja a Château du Mesnil-Voisin nagyszerűségét, mielőtt a Juine folyó partján gurulna. Délután fedezze fel a történelem előtti titkokat a Pierre-Levée Dolmennél. A túra a békés Château de Gillevoisin-nél ér véget, amely jutalmazó esti hangulatot kínál.",
         "ro": "Ziua de ciclism începe în inima orașului Lardy la Parc Boussard, pedalând apoi către podul istoric Pont de l'Hêtre pentru priveliști pitorești. La prânz ajungeți la mărețul Château du Mesnil-Voisin, înainte de o plimbare relaxantă pe malurile râului Juine. După-amiaza descoperiți secretele preistorice la Dolmenul Pierre-Levée. Călătoria se încheie la liniștitul Château de Gillevoisin, oferind o ambianță plăcută de seară.",
-        "en": "Your cycling day starts in the heart of Lardy at Parc Boussard, seamlessly pedaling over to the iconic Pont de l'Hêtre Bridge for picturesque river views. Midday brings you to the grandeur of Château du Mesnil-Voisin before a breezy ride along the Juine River Banks. During the afternoon, discover prehistoric secrets at the Pierre-Levée Dolmen. The ride concludes at the serene Château de Gillevoisin, offering a rewarding evening ambiance to finish your trip."
+        "en": "Your cycling day starts in the heart of Lardy at Parc Boussard, seamlessly pedaling over to the iconic Pont de l'Hêtre Bridge for picturesque river views. Midday brings you to the grandeur of Château du Mesnil-Voisin before a breezy ride along the Juine River Banks. During the afternoon, discover prehistoric secrets at the Pierre-Levée Dolmen. The ride concludes at the serene Château de Gillevoisin, offering a rewarding evening ambiance to finish your trip.",
+        "fr": "Votre journée à vélo commence au cœur de Lardy au Parc Boussard, pédalez ensuite jusqu'à l'emblématique Pont de l'Hêtre pour des vues pittoresques sur la rivière. À midi, admirez la grandeur du Château du Mesnil-Voisin avant une promenade à l'air léger le long des berges de la Juine. Dans l'après-midi, découvrez les secrets préhistoriques du dolmen Pierre-Levée. La balade se termine au paisible Château de Gillevoisin, offrant une ambiance du soir gratifiante pour conclure votre excursion."
       },
       "variants": {
         "rainy": {
@@ -460,7 +506,8 @@
             "de": "Radeln Sie an einem regnerischen Morgen durch den Parc Boussard und genießen Sie die frische Luft. Fahren Sie mittags vorsichtig zur Pont de l'Hêtre. Nachmittags bieten das Château du Mesnil-Voisin und das Juine-Ufer stimmungsvolle Ausblicke. Beenden Sie Ihre nasse Fahrt am Dolmen und Schloss Gillevoisin.",
             "hu": "Kezdje esős kerékpározását a Parc Boussard-ban, belélegezve a friss levegőt. Tekerjen óvatosan a történelmi Pont de l'Hêtre-hez délben. Délután a Château du Mesnil-Voisin és a békés Juine folyópart borongós kilátást nyújt. Zárja a vizes estét a dolmen és a Gillevoisin kastély felfedezésével.",
             "ro": "Pedalați într-o dimineață ploioasă prin Parc Boussard, respirând aerul proaspăt. Mergeți cu grijă spre Pont de l'Hêtre la prânz. După-amiaza, Château du Mesnil-Voisin și malurile râului Juine oferă priveliști atmosferice. Încheiați plimbarea ploioasă la dolmen și castelul Gillevoisin pe înserat.",
-            "en": "Cycle through a rainy morning starting at Parc Boussard, embracing the wet, fresh air. Ride carefully to the historic Pont de l'Hêtre by midday. In the afternoon, the rain-washed Château du Mesnil-Voisin and the tranquil Juine riverbanks offer moody, atmospheric views. Finish your wet evening ride exploring the dolmen and Gillevoisin castle as dusk sets in."
+            "en": "Cycle through a rainy morning starting at Parc Boussard, embracing the wet, fresh air. Ride carefully to the historic Pont de l'Hêtre by midday. In the afternoon, the rain-washed Château du Mesnil-Voisin and the tranquil Juine riverbanks offer moody, atmospheric views. Finish your wet evening ride exploring the dolmen and Gillevoisin castle as dusk sets in.",
+            "fr": "Parcourez une matinée pluvieuse à vélo en partant du Parc Boussard, en appréciant l'air humide et frais. Roulez prudemment jusqu'au Pont de l'Hêtre vers midi. L'après-midi, le Château du Mesnil-Voisin lavé par la pluie et les berges tranquilles de la Juine offrent des vues atmosphériques et mélancoliques. Terminez votre sortie pluvieuse en explorant le dolmen et le château de Gillevoisin alors que le crépuscule tombe."
           },
           "stops": [
             {
@@ -468,13 +515,15 @@
                 "de": "Parc Boussard",
                 "hu": "Parc Boussard",
                 "ro": "Parc Boussard",
-                "en": "Parc Boussard"
+                "en": "Parc Boussard",
+                "fr": "Parc Boussard"
               },
               "tip_5lang": {
                 "de": "Fahren Sie am Parkrand, wo das Blätterdach den Regen bremst. Schutzbleche am Fahrrad und eine gute wasserdichte Radjacke werden dringend empfohlen.",
                 "hu": "Tekerjen a park szélén, ahol a lombkorona felfogja az esőt. A sárvédő és egy jó vízálló kerékpáros kabát erősen ajánlott ezen a szakaszon.",
                 "ro": "Pedalați pe perimetrul parcului unde frunzișul oprește ploaia. Aripile la bicicletă și o jachetă de ciclism impermeabilă sunt foarte recomandate.",
-                "en": "Ride the perimeter of the park where the canopy breaks the rain. Fenders on your bike and a good waterproof cycling jacket are highly recommended."
+                "en": "Ride the perimeter of the park where the canopy breaks the rain. Fenders on your bike and a good waterproof cycling jacket are highly recommended.",
+                "fr": "Faites le tour du parc là où la canopée vous protège de la pluie. Des garde-boue et une bonne veste de pluie pour cyclisme sont fortement recommandés."
               }
             },
             {
@@ -482,13 +531,15 @@
                 "de": "Pont de l'Hêtre",
                 "hu": "Pont de l'Hêtre",
                 "ro": "Podul de l'Hêtre",
-                "en": "Pont de l'Hêtre Bridge"
+                "en": "Pont de l'Hêtre Bridge",
+                "fr": "Pont de l'Hêtre Bridge"
               },
               "tip_5lang": {
                 "de": "Überqueren Sie die Brücke langsam; das nasse Kopfsteinpflaster ist extrem rutschig. Der angeschwollene Fluss unten ist ein toller Anblick.",
                 "hu": "Lassan keljen át a hídon; a nedves macskakövek és a levelek rendkívül csúszóssá teszik a felületet. A megáradt folyó látványa lenyűgöző.",
                 "ro": "Traversați podul încet; pietrele cubice și frunzele umede fac suprafața incredibil de alunecoasă. Râul umflat dedesubt este o priveliște de văzut.",
-                "en": "Cross the bridge slowly; the wet cobblestones and wet leaves make the surface incredibly slippery. The swollen river below is a sight to see."
+                "en": "Cross the bridge slowly; the wet cobblestones and wet leaves make the surface incredibly slippery. The swollen river below is a sight to see.",
+                "fr": "Traversez le pont lentement ; les pavés mouillés et les feuilles humides rendent la surface très glissante. La rivière gonflée en dessous est impressionnante."
               }
             },
             {
@@ -496,13 +547,15 @@
                 "de": "Château du Mesnil-Voisin",
                 "hu": "Château du Mesnil-Voisin",
                 "ro": "Château du Mesnil-Voisin",
-                "en": "Château du Mesnil-Voisin"
+                "en": "Château du Mesnil-Voisin",
+                "fr": "Château du Mesnil-Voisin"
               },
               "tip_5lang": {
                 "de": "Halten Sie an, um die im Regen glänzende Architektur des Schlosses zu würdigen. Bewahren Sie Ihr Handy beim Fotografieren in einer wasserdichten Tasche auf.",
                 "hu": "Álljon meg, hogy megcsodálja a kastély esőben csillogó építészetét. Fényképezéskor tartsa a telefonját vagy fényképezőgépét vízálló táskában.",
                 "ro": "Opriți-vă pentru a aprecia arhitectura castelului strălucind în ploaie. Păstrați telefonul într-o pungă impermeabilă când faceți poze aici.",
-                "en": "Pause to appreciate the castle's grand architecture shining in the rain. Keep your phone or camera in a waterproof bag when taking pictures here."
+                "en": "Pause to appreciate the castle's grand architecture shining in the rain. Keep your phone or camera in a waterproof bag when taking pictures here.",
+                "fr": "Marquez une pause pour apprécier la grande architecture du château mise en valeur par la pluie. Rangez votre téléphone ou appareil photo dans un sac étanche pour prendre des photos ici."
               }
             },
             {
@@ -510,13 +563,15 @@
                 "de": "Ufer der Juine",
                 "hu": "Juine folyó partja",
                 "ro": "Malurile râului Juine",
-                "en": "Juine River Banks"
+                "en": "Juine River Banks",
+                "fr": "Juine River Banks"
               },
               "tip_5lang": {
                 "de": "Die Flussufer sind friedlich, aber schlammig. Bleiben Sie auf befestigten Radwegen und meiden Sie Grasflächen, damit die Reifen Halt behalten.",
                 "hu": "A folyópart békés, de saras. Maradjon a burkolt kerékpárutakon, és kerülje a füves területeket, hogy a gumik jól tapadjanak a vizes úton.",
                 "ro": "Malurile râului sunt liniștite, dar noroioase. Rămâneți pe pistele de biciclete pavate și evitați iarba, asigurând aderența anvelopelor.",
-                "en": "The riverbanks are peaceful but muddy. Stay on the paved bike paths and avoid grassy areas, ensuring your tires maintain a good grip."
+                "en": "The riverbanks are peaceful but muddy. Stay on the paved bike paths and avoid grassy areas, ensuring your tires maintain a good grip.",
+                "fr": "Les berges sont paisibles mais boueuses. Restez sur les pistes cyclables goudronnées et évitez les zones herbeuses pour que vos pneus gardent une bonne adhérence."
               }
             },
             {
@@ -524,13 +579,15 @@
                 "de": "Pierre-Levée Dolmen",
                 "hu": "Pierre-Levée Dolmen",
                 "ro": "Dolmenul Pierre-Levée",
-                "en": "Dolmen dit la Pierre-Levée"
+                "en": "Dolmen dit la Pierre-Levée",
+                "fr": "Dolmen dit la Pierre-Levée"
               },
               "tip_5lang": {
                 "de": "Die alten Steine wirken im Regen sehr mysteriös. Steigen Sie vorsichtig ab, da die umliegende Erde sehr glatt und schlammig werden kann.",
                 "hu": "Az ősi kövek mélyen titokzatosak az esőben. Szálljon le óvatosan a kerékpárról, mivel a környező föld rendkívül csúszóssá és sarassá válhat.",
                 "ro": "Pietrele antice arată profund misterios în ploaie. Coborâți cu grijă de pe bicicletă, deoarece pământul din jur poate deveni foarte alunecos.",
-                "en": "The ancient stones look deeply mysterious in the rain. Step off your bike carefully, as the surrounding dirt can become very slick and muddy."
+                "en": "The ancient stones look deeply mysterious in the rain. Step off your bike carefully, as the surrounding dirt can become very slick and muddy.",
+                "fr": "Les pierres anciennes paraissent profondément mystérieuses sous la pluie. Descendez prudemment de votre vélo, car la terre alentour peut devenir très glissante et boueuse."
               }
             },
             {
@@ -538,13 +595,15 @@
                 "de": "Château de Gillevoisin",
                 "hu": "Château de Gillevoisin",
                 "ro": "Château de Gillevoisin",
-                "en": "Château de Gillevoisin"
+                "en": "Château de Gillevoisin",
+                "fr": "Château de Gillevoisin"
               },
               "tip_5lang": {
                 "de": "Beenden Sie Ihre nasse Reise an diesem majestätischen Anwesen. Die von Bäumen gesäumten Wege tropfen stark, behalten Sie die Kapuze auf!",
                 "hu": "Zárja vizes útját ezen a fenséges birtokon. A fákkal szegélyezett megközelítés nehéz vízcseppeket hullat, így tartsa fenn a kapucniját a végéig!",
                 "ro": "Încheiați călătoria umedă la această proprietate maiestuoasă. Aleile mărginite de copaci lasă să cadă picături mari, țineți gluga pusă până la final!",
-                "en": "Conclude your wet journey at this majestic estate. The tree-lined approaches drop heavy water droplets, so keep your hood up until the end!"
+                "en": "Conclude your wet journey at this majestic estate. The tree-lined approaches drop heavy water droplets, so keep your hood up until the end!",
+                "fr": "Concluez votre parcours humide à ce domaine majestueux. Les allées bordées d'arbres laissent tomber de grosses gouttes d'eau, gardez votre capuche jusqu'à la fin !"
               }
             }
           ]
@@ -554,7 +613,8 @@
             "de": "Trotzen Sie dem klaren Wintermorgen mit einer Fahrt ab Parc Boussard. Überqueren Sie mittags vorsichtig die frostige Pont de l'Hêtre. Der Nachmittag bietet schöne Ausblicke auf das Château du Mesnil-Voisin und die eisigen Juine-Ufer. Beenden Sie die Tour vor dem Sonnenuntergang um 17 Uhr am Dolmen und Schloss Gillevoisin.",
             "hu": "Dacoljon a csípős reggellel egy frissítő tekeréssel a Parc Boussard-ból. Délben óvatosan keljen át a deres Pont de l'Hêtre hídon. A délután lenyűgöző kilátást nyújt a Château du Mesnil-Voisin-re és a jeges Juine folyópartra. Kora este, még az 5 órai naplemente előtt fejezze be útját a dolmennél és a kastélynál.",
             "ro": "Înfruntați dimineața geroasă de iarnă cu o plimbare revigorantă din Parc Boussard. La prânz, navigați cu grijă pe podul înghețat. După-amiaza aduce vederi superbe asupra Château du Mesnil-Voisin și a malurilor înghețate ale râului Juine. Spre seară, terminați traseul înainte de apusul de la ora 17.",
-            "en": "Brave the crisp winter morning with a refreshing ride starting at Parc Boussard. By noon, carefully navigate the frosty Pont de l'Hêtre. The afternoon brings beautiful, austere views of the Château du Mesnil-Voisin and the quiet, icy Juine riverbanks. As the early evening arrives, finish at the dolmen and Château de Gillevoisin before sunset at 5 PM."
+            "en": "Brave the crisp winter morning with a refreshing ride starting at Parc Boussard. By noon, carefully navigate the frosty Pont de l'Hêtre. The afternoon brings beautiful, austere views of the Château du Mesnil-Voisin and the quiet, icy Juine riverbanks. As the early evening arrives, finish at the dolmen and Château de Gillevoisin before sunset at 5 PM.",
+            "fr": "Affrontez la fraîche matinée d'hiver avec une balade revigorante débutant au Parc Boussard. À midi, franchissez prudemment le Pont de l'Hêtre gelé. L'après-midi offre de belles vues austères sur le Château du Mesnil-Voisin et les berges glacées et silencieuses de la Juine. En début de soirée, terminez au dolmen et au Château de Gillevoisin avant le coucher du soleil à 17 h."
           },
           "stops": [
             {
@@ -562,13 +622,15 @@
                 "de": "Parc Boussard",
                 "hu": "Parc Boussard",
                 "ro": "Parc Boussard",
-                "en": "Parc Boussard"
+                "en": "Parc Boussard",
+                "fr": "Parc Boussard"
               },
               "tip_5lang": {
                 "de": "Genießen Sie die klare Luft im Park. Die Winterkälte beißt beim Radfahren, sorgen Sie für eine winddichte Sturmhaube und dicke Thermohandschuhe.",
                 "hu": "Élvezze a friss levegőt a parkban. A téli hideg metsző kerékpározás közben, ezért gondoskodjon szélálló maszkról és vastag termokesztyűről.",
                 "ro": "Bucurați-vă de aerul curat din parc. Frigul de iarnă mușcă la pedalat, deci asigurați-vă că aveți o cagulă rezistentă la vânt și mănuși termice.",
-                "en": "Enjoy the crisp air in the park. The winter chill bites when cycling, so ensure you have a windproof balaclava and thick thermal gloves."
+                "en": "Enjoy the crisp air in the park. The winter chill bites when cycling, so ensure you have a windproof balaclava and thick thermal gloves.",
+                "fr": "Profitez de l'air vif dans le parc. Le froid d'hiver mord lors du cyclisme, assurez-vous d'avoir un cagoule coupe-vent et des gants thermiques épais."
               }
             },
             {
@@ -576,13 +638,15 @@
                 "de": "Pont de l'Hêtre",
                 "hu": "Pont de l'Hêtre",
                 "ro": "Podul de l'Hêtre",
-                "en": "Pont de l'Hêtre Bridge"
+                "en": "Pont de l'Hêtre Bridge",
+                "fr": "Pont de l'Hêtre Bridge"
               },
               "tip_5lang": {
                 "de": "Die Brücke bietet einen schönen Blick auf das eisige Wasser. Achten Sie auf Blitzeis auf dem Stein; steigen Sie ab und schieben Sie bei Bedarf.",
                 "hu": "A híd zord, gyönyörű kilátást nyújt a fagyos vízre. Óvakodjon a kőfelületen lévő ónos esőtől; szálljon le és tolja a kerékpárt, ha szükséges.",
                 "ro": "Podul oferă o priveliște frumoasă asupra apei înghețate. Atenție la gheața neagră de pe suprafața de piatră; coborâți și împingeți bicicleta la nevoie.",
-                "en": "The bridge offers a stark, beautiful view of the freezing water. Beware of black ice on the stone surface; dismount and walk your bike if needed."
+                "en": "The bridge offers a stark, beautiful view of the freezing water. Beware of black ice on the stone surface; dismount and walk your bike if needed.",
+                "fr": "Le pont offre une vue saisissante sur l'eau glacée. Méfiez-vous du verglas noir sur la pierre ; descendez et marchez à côté de votre vélo si nécessaire."
               }
             },
             {
@@ -590,13 +654,15 @@
                 "de": "Château du Mesnil-Voisin",
                 "hu": "Château du Mesnil-Voisin",
                 "ro": "Château du Mesnil-Voisin",
-                "en": "Château du Mesnil-Voisin"
+                "en": "Château du Mesnil-Voisin",
+                "fr": "Château du Mesnil-Voisin"
               },
               "tip_5lang": {
                 "de": "Die kahlen Bäume geben den Blick auf die prächtige Fassade frei. Bleiben Sie in Bewegung, um warm zu bleiben, da das Gelände sehr windig ist.",
                 "hu": "A csupasz fák tiszta rálátást engednek a birtok lenyűgöző homlokzatára. Maradjon mozgásban a melegedéshez, mivel a nyílt terület szeles.",
                 "ro": "Copacii goi permit vederi clare ale fațadei magnifice a domeniului. Continuați să vă mișcați pentru a vă încălzi, deoarece terenul este expus la vânt.",
-                "en": "The barren trees allow clear views of the estate's magnificent facade. Keep moving to stay warm, as the open grounds offer little wind protection."
+                "en": "The barren trees allow clear views of the estate's magnificent facade. Keep moving to stay warm, as the open grounds offer little wind protection.",
+                "fr": "Les arbres dénudés permettent une vue dégagée sur la magnifique façade du domaine. Continuez à pédaler pour rester au chaud, les espaces ouverts offrant peu de protection contre le vent."
               }
             },
             {
@@ -604,13 +670,15 @@
                 "de": "Ufer der Juine",
                 "hu": "Juine folyó partja",
                 "ro": "Malurile râului Juine",
-                "en": "Juine River Banks"
+                "en": "Juine River Banks",
+                "fr": "Juine River Banks"
               },
               "tip_5lang": {
                 "de": "Radeln Sie an den frostbedeckten Flussufern. Die Wege können eisig sein; senken Sie den Reifendruck leicht, um den Grip zu verbessern.",
                 "hu": "Tekerjen a dérrel borított folyóparton. Az ösvények kemények és jegesek lehetnek; kissé csökkentse a guminyomást a jobb tapadás érdekében.",
                 "ro": "Pedalați de-a lungul malurilor acoperite de chiciură. Aleile pot fi înghețate; reduceți ușor presiunea în anvelope pentru o aderență mai bună.",
-                "en": "Cycle along the frost-covered riverbanks. The paths can be hard and icy; lower your tire pressure slightly to improve grip in cold conditions."
+                "en": "Cycle along the frost-covered riverbanks. The paths can be hard and icy; lower your tire pressure slightly to improve grip in cold conditions.",
+                "fr": "Parcourez les berges recouvertes de gel. Les chemins peuvent être durs et verglacés ; baissez légèrement la pression des pneus pour améliorer l'adhérence par temps froid."
               }
             },
             {
@@ -618,13 +686,15 @@
                 "de": "Pierre-Levée Dolmen",
                 "hu": "Pierre-Levée Dolmen",
                 "ro": "Dolmenul Pierre-Levée",
-                "en": "Dolmen dit la Pierre-Levée"
+                "en": "Dolmen dit la Pierre-Levée",
+                "fr": "Dolmen dit la Pierre-Levée"
               },
               "tip_5lang": {
                 "de": "Besuchen Sie diesen Megalithen am ruhigen Winternachmittag. Die tiefstehende Sonne wirft lange Schatten. Bringen Sie heißen Tee zum Aufwärmen mit.",
                 "hu": "Látogassa meg ezt a megalitot a csendes téli délutánon. Az alacsonyan járó nap hosszú árnyékokat vet. Hozzon egy termosz forró teát a melegedéshez.",
                 "ro": "Vizitați acest megalit în liniștita după-amiază de iarnă. Soarele coboară, aruncând umbre lungi. Aduceți un termos cu ceai fierbinte pentru a vă încălzi.",
-                "en": "Visit this megalith in the quiet winter afternoon. The sun hangs low, casting long shadows. Bring a thermos of hot tea to warm up here."
+                "en": "Visit this megalith in the quiet winter afternoon. The sun hangs low, casting long shadows. Bring a thermos of hot tea to warm up here.",
+                "fr": "Visitez ce mégalithe dans le paisible après-midi d'hiver. Le soleil est bas, projetant de longues ombres. Apportez une thermos de thé chaud pour vous réchauffer ici."
               }
             },
             {
@@ -632,13 +702,15 @@
                 "de": "Château de Gillevoisin",
                 "hu": "Château de Gillevoisin",
                 "ro": "Château de Gillevoisin",
-                "en": "Château de Gillevoisin"
+                "en": "Château de Gillevoisin",
+                "fr": "Château de Gillevoisin"
               },
               "tip_5lang": {
                 "de": "Beenden Sie Ihre Fahrt in der Abenddämmerung gegen 17 Uhr. Das Schloss wirkt imposant. Sorgen Sie für gutes Fahrradlicht für die dunkle Rückfahrt.",
                 "hu": "Fejezze be a túrát, ahogy 5 óra körül leszáll a szürkület. A kastély impozáns az estében. Legyen erős kerékpárlámpája a sötét visszaúthoz.",
                 "ro": "Terminați plimbarea când se înserează în jur de ora 17. Castelul arată impunător în amurg. Asigurați-vă că aveți lumini puternice la bicicletă.",
-                "en": "Finish your ride as twilight sets in around 5 PM. The castle looks imposing in the dusk. Ensure you have strong bike lights for the dark ride back."
+                "en": "Finish your ride as twilight sets in around 5 PM. The castle looks imposing in the dusk. Ensure you have strong bike lights for the dark ride back.",
+                "fr": "Terminez votre sortie alors que la nuit tombe vers 17 h. Le château paraît imposant au crépuscule. Assurez-vous d'avoir de puissants éclairages pour le retour dans l'obscurité."
               }
             }
           ]
@@ -658,7 +730,8 @@
             "de": "Rathauspark",
             "hu": "Városháza park",
             "ro": "Parcul Primăriei",
-            "en": "Town Hall Park"
+            "en": "Town Hall Park",
+            "fr": "Town Hall Park"
           },
           "coords": [
             2.221784,
@@ -673,7 +746,8 @@
             "de": "Beginnen Sie Ihren Ausflug entspannt in diesem gepflegten Bürgerpark und holen Sie sich in der Nähe ein lokales Gebäck für die gemütlichen Bänke.",
             "hu": "Kezdje a kirándulást ebben a jól karbantartott városi parkban, és vásároljon a közelben egy helyi péksüteményt, amit a kényelmes padokon elfogyaszthat.",
             "ro": "Începeți excursia relaxându-vă în acest parc civic bine întreținut, cumpărând un produs de patiserie local pentru a-l savura pe una dintre bănci.",
-            "en": "Begin your excursion by relaxing in this well-maintained civic park, picking up a local pastry nearby to enjoy on one of the comfortable benches."
+            "en": "Begin your excursion by relaxing in this well-maintained civic park, picking up a local pastry nearby to enjoy on one of the comfortable benches.",
+            "fr": "Commencez votre excursion en vous détendant dans ce parc municipal bien entretenu, en achetant une pâtisserie locale à déguster sur l'un des bancs confortables."
           }
         },
         {
@@ -681,7 +755,8 @@
             "de": "Parc Boussard",
             "hu": "Parc Boussard",
             "ro": "Parc Boussard",
-            "en": "Parc Boussard"
+            "en": "Parc Boussard",
+            "fr": "Parc Boussard"
           },
           "coords": [
             2.2641,
@@ -696,7 +771,8 @@
             "de": "Bewundern Sie die Art-déco-Gestaltung dieses wunderschön strukturierten Parks, in dem Sie einen ruhigen Morgenspaziergang unternehmen sollten.",
             "hu": "Csodálja meg a park lenyűgöző art deco kialakítását, ahol érdemes egy csendes reggeli sétát tenni, mielőtt a déli hőség megérkezne.",
             "ro": "Admirați designul Art Deco al acestui parc frumos structurat, unde ar trebui să faceți o plimbare liniștită dimineața înainte să se încălzească.",
-            "en": "Admire the Art Deco layout of this beautifully structured park, where you should take a peaceful morning stroll before the midday sun arrives."
+            "en": "Admire the Art Deco layout of this beautifully structured park, where you should take a peaceful morning stroll before the midday sun arrives.",
+            "fr": "Admirez l'aménagement Art déco de ce parc magnifiquement structuré, prenez une promenade matinale paisible avant l'arrivée du soleil de midi."
           }
         },
         {
@@ -704,7 +780,8 @@
             "de": "Kirche Saint-Pierre",
             "hu": "Saint-Pierre templom",
             "ro": "Biserica Saint-Pierre",
-            "en": "Saint-Pierre Church"
+            "en": "Saint-Pierre Church",
+            "fr": "Saint-Pierre Church"
           },
           "coords": [
             2.266317,
@@ -719,7 +796,8 @@
             "de": "Entdecken Sie die reiche Geschichte dieser alten Steinmauern und denken Sie daran, die ruhigen Stunden während der örtlichen Messen zu respektieren.",
             "hu": "Fedezze fel ezen ősi kőfalak gazdag történelmét, és ügyeljen arra, hogy tiszteletben tartsa a csendes órákat a helyi misék ideje alatt.",
             "ro": "Descoperiți istoria bogată ascunsă în vechile ziduri de piatră ale bisericii și nu uitați să respectați orele de liniște în timpul slujbelor locale.",
-            "en": "Discover the rich history embedded in the ancient stone walls of this religious site, and remember to respect the quiet hours during local masses."
+            "en": "Discover the rich history embedded in the ancient stone walls of this religious site, and remember to respect the quiet hours during local masses.",
+            "fr": "Découvrez la riche histoire incrustée dans les murs de pierre anciens de ce lieu de culte, et pensez à respecter le calme pendant les messes locales."
           }
         },
         {
@@ -727,7 +805,8 @@
             "de": "Château du Mesnil-Voisin",
             "hu": "Château du Mesnil-Voisin",
             "ro": "Château du Mesnil-Voisin",
-            "en": "Château du Mesnil-Voisin"
+            "en": "Château du Mesnil-Voisin",
+            "fr": "Château du Mesnil-Voisin"
           },
           "coords": [
             2.275824,
@@ -742,7 +821,8 @@
             "de": "Erkunden Sie die großartige Architektur dieses herrlichen Schlosses und informieren Sie sich vorab über Führungen, um die Innenräume zu sehen.",
             "hu": "Fedezze fel ennek a csodálatos kastélynak a lenyűgöző építészetét, és előre tájékozódjon a vezetett túrákról, hogy bejuthasson a belső terekbe.",
             "ro": "Explorați arhitectura măreață și domeniile acestui castel magnific, verificând programul tururilor ghidate pentru a avea acces în interior.",
-            "en": "Explore the grand architecture and sweeping grounds of this magnificent castle, checking ahead for guided tour schedules to access the interiors."
+            "en": "Explore the grand architecture and sweeping grounds of this magnificent castle, checking ahead for guided tour schedules to access the interiors.",
+            "fr": "Explorez la grande architecture et les vastes jardins de ce magnifique château, renseignez-vous à l'avance sur les horaires des visites guidées pour accéder aux intérieurs."
           }
         },
         {
@@ -750,7 +830,8 @@
             "de": "Ufer der Juine",
             "hu": "Juine folyó partja",
             "ro": "Malurile râului Juine",
-            "en": "Juine River Banks"
+            "en": "Juine River Banks",
+            "fr": "Juine River Banks"
           },
           "coords": [
             2.29688,
@@ -765,7 +846,8 @@
             "de": "Schlendern Sie entlang der natürlichen Uferpfade, um Vögel zu beobachten, und bringen Sie ein kleines Picknick mit, um es am Wasser zu genießen.",
             "hu": "Sétáljon a folyópart természetes ösvényein kiváló madármegfigyeléshez, és hozzon magával egy kis pikniket a víz nyugtató folyásánál.",
             "ro": "Plimbați-vă pe cărările naturale ale malurilor râului pentru a observa păsările și aduceți un mic picnic pentru a vă bucura lângă apa liniștită.",
-            "en": "Stroll along the natural pathways of the river banks for excellent birdwatching, and bring a small picnic to enjoy near the water's calming flow."
+            "en": "Stroll along the natural pathways of the river banks for excellent birdwatching, and bring a small picnic to enjoy near the water's calming flow.",
+            "fr": "Promenez-vous le long des sentiers naturels des berges pour un excellent observatoire d'oiseaux, et apportez un petit pique-nique à déguster près du cours d'eau apaisant."
           }
         },
         {
@@ -773,7 +855,8 @@
             "de": "Pierre-Levée Dolmen",
             "hu": "Pierre-Levée Dolmen",
             "ro": "Dolmenul Pierre-Levée",
-            "en": "Dolmen dit la Pierre-Levée"
+            "en": "Dolmen dit la Pierre-Levée",
+            "fr": "Dolmen dit la Pierre-Levée"
           },
           "coords": [
             2.262794,
@@ -788,7 +871,8 @@
             "de": "Bestaunen Sie die uralten Mysterien dieses prähistorischen Megalithen und tragen Sie feste Wanderschuhe, da das Gelände etwas uneben sein kann.",
             "hu": "Csodálja meg ezen történelem előtti megalit körüli ősi rejtélyeket, és viseljen kényelmes túracipőt, mivel a környező terep kissé egyenetlen.",
             "ro": "Minunați-vă de misterele antice ale acestui megalit preistoric, purtând încălțăminte robustă, deoarece terenul înconjurător poate fi accidentat.",
-            "en": "Marvel at the ancient mysteries surrounding this prehistoric megalith, wearing sturdy walking shoes as the surrounding terrain can be a bit uneven."
+            "en": "Marvel at the ancient mysteries surrounding this prehistoric megalith, wearing sturdy walking shoes as the surrounding terrain can be a bit uneven.",
+            "fr": "Admirez les mystères antiques entourant ce mégalithe préhistorique, en portant des chaussures de marche robustes car le terrain alentour peut être irrégulier."
           }
         },
         {
@@ -796,7 +880,8 @@
             "de": "Château de Gillevoisin",
             "hu": "Château de Gillevoisin",
             "ro": "Château de Gillevoisin",
-            "en": "Château de Gillevoisin"
+            "en": "Château de Gillevoisin",
+            "fr": "Château de Gillevoisin"
           },
           "coords": [
             2.237125,
@@ -811,7 +896,8 @@
             "de": "Entdecken Sie das faszinierende Erbe dieses majestätischen Anwesens in der Natur, bleiben Sie jedoch auf markierten Wegen, um das Gelände zu respektieren.",
             "hu": "Fedezze fel a természetben megbúvó fenséges birtok lenyűgöző örökségét, de érdemes a kijelölt ösvényeken maradni a magánterület tiszteletben tartásához.",
             "ro": "Descoperiți moștenirea fascinantă a acestui domeniu majestuos ascuns în natură, dar este înțelept să rămâneți pe poteci pentru a respecta zona privată.",
-            "en": "Uncover the fascinating legacy of this majestic estate nestled in nature, though it is wise to stay on marked paths to respect the private grounds."
+            "en": "Uncover the fascinating legacy of this majestic estate nestled in nature, though it is wise to stay on marked paths to respect the private grounds.",
+            "fr": "Découvrez l'héritage fascinant de ce majestueux domaine niché dans la nature, mais il est prudent de rester sur les sentiers balisés par respect pour la propriété privée."
           }
         }
       ],
@@ -819,7 +905,8 @@
         "de": "Fahren Sie morgens zum weitläufigen Rathauspark und dann zum Parc Boussard, um das gepflegte Layout und den historischen Charme zu schätzen. Tauchen Sie mittags in das elegante Erbe der Kirche Saint-Pierre und des weitläufigen Château du Mesnil-Voisin ein. Der Nachmittag bietet landschaftlich reizvolle Fahrten am Ufer der Juine und prähistorische Erkundungen am Dolmen. Verbringen Sie schließlich einen entspannten Abend am Château de Gillevoisin.",
         "hu": "Autózzon ki a tágas Városháza parkba, hogy ott kezdje a reggelt, majd menjen a Parc Boussard-ba a gondos elrendezés és a történelmi varázs miatt. Délben merüljön el a Saint-Pierre templom és a hatalmas Château du Mesnil-Voisin elegáns örökségében. A délután festői autózást kínál a Juine folyó mentén és őskori felfedezést a Dolmennél. Végül töltsön egy pihentető estét a Château de Gillevoisin környékén.",
         "ro": "Conduceți către parcul spațios al Primăriei dimineața, apoi mergeți la Parc Boussard pentru a aprecia farmecul său istoric. La prânz, cufundați-vă în patrimoniul elegant al Bisericii Saint-Pierre și al întinsului Château du Mesnil-Voisin. După-amiaza oferă un amestec de condus pitoresc pe malurile râului Juine și explorare preistorică la Dolmen. În cele din urmă, petreceți o seară relaxantă explorând marginile Château de Gillevoisin.",
-        "en": "Drive out to the spacious Town Hall Park to start the morning, then cruise to Parc Boussard to appreciate its meticulous layout and nearby historical charm. At midday, immerse yourself in the elegant heritage of Saint-Pierre Church and the sprawling Château du Mesnil-Voisin. The afternoon offers a mix of scenic driving by the Juine River Banks and prehistoric exploration at the Dolmen. Finally, spend a relaxed evening wandering the edges of Château de Gillevoisin."
+        "en": "Drive out to the spacious Town Hall Park to start the morning, then cruise to Parc Boussard to appreciate its meticulous layout and nearby historical charm. At midday, immerse yourself in the elegant heritage of Saint-Pierre Church and the sprawling Château du Mesnil-Voisin. The afternoon offers a mix of scenic driving by the Juine River Banks and prehistoric exploration at the Dolmen. Finally, spend a relaxed evening wandering the edges of Château de Gillevoisin.",
+        "fr": "Partez en voiture jusqu'au spacieux Town Hall Park pour commencer la matinée, puis filez vers le Parc Boussard pour apprécier son agencement méticuleux et le charme historique alentour. À midi, plongez dans l'élégant patrimoine de l'église Saint-Pierre et du vaste Château du Mesnil-Voisin. L'après-midi offre un mélange de routes panoramiques le long des berges de la Juine et d'exploration préhistorique au dolmen. Enfin, passez une soirée détendue à flâner aux abords du Château de Gillevoisin."
       },
       "variants": {
         "rainy": {
@@ -827,7 +914,8 @@
             "de": "Fahren Sie am regnerischen Morgen vom Rathauspark zum Parc Boussard. Mittags bietet die Kirche Saint-Pierre eine trockene Besichtigung. Fahren Sie nachmittags zum Château du Mesnil-Voisin, gefolgt von einem malerischen Halt am Fluss Juine. Beenden Sie den nassen Abend mit dem Dolmen und Schloss Gillevoisin aus dem Auto heraus.",
             "hu": "Vezessen az esős reggelen, kezdve a Városháza parknál, majd irány a Parc Boussard. Délben a Saint-Pierre templom száraz benti látogatást kínál. Délután vezessen a Château du Mesnil-Voisin-hez, majd tegyen egy esős, de festői kitérőt a Juine folyónál. Zárja az estét a dolmen és a Gillevoisin kastély megtekintésével a kényelmes autóból.",
             "ro": "Conduceți în dimineața ploioasă, începând cu Parcul Primăriei, apoi spre Parc Boussard. La prânz, Biserica Saint-Pierre oferă o vizită uscată. Conduceți la mărețul Château du Mesnil-Voisin după-amiaza, urmat de o oprire ploioasă la râul Juine. Încheiați seara văzând dolmenul și Château de Gillevoisin din mașină.",
-            "en": "Drive through the rainy morning, starting with a brief stop at Town Hall Park before heading to Parc Boussard. By noon, the Saint-Pierre Church offers a dry indoor visit. Drive to the majestic Château du Mesnil-Voisin in the afternoon, followed by a wet but scenic stop at the Juine River. End the rainy evening viewing the dolmen and Château de Gillevoisin from the comfort of your car."
+            "en": "Drive through the rainy morning, starting with a brief stop at Town Hall Park before heading to Parc Boussard. By noon, the Saint-Pierre Church offers a dry indoor visit. Drive to the majestic Château du Mesnil-Voisin in the afternoon, followed by a wet but scenic stop at the Juine River. End the rainy evening viewing the dolmen and Château de Gillevoisin from the comfort of your car.",
+            "fr": "Conduisez pendant la matinée pluvieuse, en marquant un bref arrêt au Town Hall Park avant de vous rendre au Parc Boussard. À midi, l'église Saint-Pierre offre une visite intérieure au sec. Reprenez la route vers le majestueux Château du Mesnil-Voisin l'après-midi, suivi d'un arrêt humide mais pittoresque aux berges de la Juine. Terminez la soirée pluvieuse en regardant le dolmen et le Château de Gillevoisin depuis le confort de votre voiture."
           },
           "stops": [
             {
@@ -835,13 +923,15 @@
                 "de": "Rathauspark",
                 "hu": "Városháza park",
                 "ro": "Parcul Primăriei",
-                "en": "Town Hall Park"
+                "en": "Town Hall Park",
+                "fr": "Town Hall Park"
               },
               "tip_5lang": {
                 "de": "Ein kurzer Stopp, um das Grün des Parks im Regen zu sehen. Laufen Sie unter einem großen Schirm vom Auto los; befestigte Wege verhindern Schlamm.",
                 "hu": "Gyors megálló, hogy megnézze az eső áztatta park zöldjét. Szaladjon át az autóból egy nagy esernyő alatt; a burkolt utak megóvják a cipőjét.",
                 "ro": "O oprire scurtă pentru a vedea verdeața parcului în ploaie. Fugiți din mașină sub o umbrelă mare; aleile pavate previn murdărirea pantofilor.",
-                "en": "A quick stop to see the park's greenery brightened by the rain. Dash from your car under a large umbrella; the paved paths prevent muddy shoes."
+                "en": "A quick stop to see the park's greenery brightened by the rain. Dash from your car under a large umbrella; the paved paths prevent muddy shoes.",
+                "fr": "Un arrêt rapide pour voir la verdure du parc rehaussée par la pluie. Abritez-vous sous un grand parapluie depuis votre voiture ; les chemins pavés évitent les chaussures boueuses."
               }
             },
             {
@@ -849,13 +939,15 @@
                 "de": "Parc Boussard",
                 "hu": "Parc Boussard",
                 "ro": "Parc Boussard",
-                "en": "Parc Boussard"
+                "en": "Parc Boussard",
+                "fr": "Parc Boussard"
               },
               "tip_5lang": {
                 "de": "Halten Sie ein Handtuch im Auto bereit, um sich nach dem Spaziergang abzutrocknen. Der Regen verstärkt die satten Farben des Laubs im Garten.",
                 "hu": "Tartson egy törölközőt az autóban a vizes sétányok bejárása utánra. Az eső felerősíti a kert lombozatának gazdag színeit, lenyűgöző látvány.",
                 "ro": "Păstrați un prosop în mașină pentru a vă usca după plimbarea pe aleile umede. Ploaia intensifică culorile bogate ale frunzișului din grădină.",
-                "en": "Keep a towel in the car to dry off after strolling the lush but wet paths here. The rain enhances the rich colors of the garden foliage."
+                "en": "Keep a towel in the car to dry off after strolling the lush but wet paths here. The rain enhances the rich colors of the garden foliage.",
+                "fr": "Gardez une serviette dans la voiture pour vous sécher après avoir parcouru les sentiers luxuriants mais mouillés. La pluie intensifie les couleurs riches du feuillage du jardin."
               }
             },
             {
@@ -863,13 +955,15 @@
                 "de": "Kirche Saint-Pierre",
                 "hu": "Saint-Pierre templom",
                 "ro": "Biserica Saint-Pierre",
-                "en": "Saint-Pierre Church"
+                "en": "Saint-Pierre Church",
+                "fr": "Saint-Pierre Church"
               },
               "tip_5lang": {
                 "de": "Parken Sie in der Nähe und eilen Sie hinein. Es ist ein perfekter Unterschlupf, um den Regen abzuschütteln und das historische Interieur zu bewundern.",
                 "hu": "Parkoljon le a közelben, és siessen be a száraz, visszhangzó hajóba. Tökéletes menedék az eső elől, miközben a történelmi belső teret csodálja.",
                 "ro": "Parcați aproape și grăbiți-vă înăuntru pentru a explora naosul uscat. Este un adăpost perfect pentru a scăpa de ploaie și a admira interiorul.",
-                "en": "Park nearby and hurry inside to explore the dry, echoing nave. It's a perfect shelter to shake off the rain and admire the historic interior."
+                "en": "Park nearby and hurry inside to explore the dry, echoing nave. It's a perfect shelter to shake off the rain and admire the historic interior.",
+                "fr": "Garez-vous à proximité et hâtez-vous d'entrer pour explorer la nef sèche et résonnante. C'est un abri parfait pour se débarrasser de la pluie et admirer l'intérieur historique."
               }
             },
             {
@@ -877,13 +971,15 @@
                 "de": "Château du Mesnil-Voisin",
                 "hu": "Château du Mesnil-Voisin",
                 "ro": "Château du Mesnil-Voisin",
-                "en": "Château du Mesnil-Voisin"
+                "en": "Château du Mesnil-Voisin",
+                "fr": "Château du Mesnil-Voisin"
               },
               "tip_5lang": {
                 "de": "Das große Anwesen wirkt durch die regennasse Windschutzscheibe sehr stimmungsvoll. Tragen Sie draußen wasserdichte Schuhe für den nassen Kies.",
                 "hu": "A hatalmas birtok hihetetlenül hangulatos az eső áztatta szélvédőn keresztül. Ha kiszáll, viseljen vízálló cipőt a nedves kavics miatt.",
                 "ro": "Domeniul grandios arată incredibil de atmosferic prin parbrizul plin de ploaie. Dacă ieșiți, purtați cizme impermeabile pentru pietrișul ud.",
-                "en": "The grand estate looks incredibly atmospheric through a rain-streaked windshield. If you step out, wear waterproof boots for the wet gravel."
+                "en": "The grand estate looks incredibly atmospheric through a rain-streaked windshield. If you step out, wear waterproof boots for the wet gravel.",
+                "fr": "Le grand domaine paraît incroyablement atmosphérique à travers un pare-brise strié de pluie. Si vous sortez, portez des bottes imperméables pour le gravier détrempé."
               }
             },
             {
@@ -891,13 +987,15 @@
                 "de": "Ufer der Juine",
                 "hu": "Juine folyó partja",
                 "ro": "Malurile râului Juine",
-                "en": "Juine River Banks"
+                "en": "Juine River Banks",
+                "fr": "Juine River Banks"
               },
               "tip_5lang": {
                 "de": "Öffnen Sie die Fenster leicht, um den Regen auf dem Fluss zu hören. Die schlammigen Ufer betrachtet man am besten aus dem trockenen Auto.",
                 "hu": "Tekerje le kissé az ablakot, hogy hallja az eső kopogását a folyón. A sáros partokat a legjobb a meleg és száraz autóból szemlélni.",
                 "ro": "Coborâți ușor geamurile pentru a auzi ploaia pe râu. Malurile noroioase sunt cel mai bine văzute din confortul uscat al mașinii.",
-                "en": "Roll down your windows slightly to hear the rain hitting the river surface. The muddy banks are best viewed from the dry comfort of your car."
+                "en": "Roll down your windows slightly to hear the rain hitting the river surface. The muddy banks are best viewed from the dry comfort of your car.",
+                "fr": "Ouvrez légèrement les fenêtres pour entendre la pluie frapper la surface de la rivière. Les berges boueuses sont à admirer depuis le confort sec de la voiture."
               }
             },
             {
@@ -905,13 +1003,15 @@
                 "de": "Pierre-Levée Dolmen",
                 "hu": "Pierre-Levée Dolmen",
                 "ro": "Dolmenul Pierre-Levée",
-                "en": "Dolmen dit la Pierre-Levée"
+                "en": "Dolmen dit la Pierre-Levée",
+                "fr": "Dolmen dit la Pierre-Levée"
               },
               "tip_5lang": {
                 "de": "Diese antike Stätte ist im Platzregen mystisch. Es ist ein sehr kurzer Spaziergang, schnappen Sie sich Ihren Regenschirm für ein schnelles Foto.",
                 "hu": "Ez az ősi helyszín misztikus a felhőszakadásban. Csak egy rövid sétára van az úttól, fogja az esernyőt egy gyors, de lenyűgöző fotóhoz.",
                 "ro": "Acest sit antic este mistic în timpul unei ploi torențiale. Este o plimbare scurtă de la drum, luați umbrela pentru o fotografie rapidă.",
-                "en": "This ancient site is mystical in a downpour. It is a very short walk from the roadside, so grab your umbrella for a quick, impressive photo."
+                "en": "This ancient site is mystical in a downpour. It is a very short walk from the roadside, so grab your umbrella for a quick, impressive photo.",
+                "fr": "Ce site ancien est mystique sous une averse. C'est une très courte marche depuis la route, prenez votre parapluie pour une photo rapide et impressionnante."
               }
             },
             {
@@ -919,13 +1019,15 @@
                 "de": "Château de Gillevoisin",
                 "hu": "Château de Gillevoisin",
                 "ro": "Château de Gillevoisin",
-                "en": "Château de Gillevoisin"
+                "en": "Château de Gillevoisin",
+                "fr": "Château de Gillevoisin"
               },
               "tip_5lang": {
                 "de": "Ein perfekter letzter Stopp; bewundern Sie die Architektur bei laufender Heizung. Die regnerische Dämmerung verleiht eine filmische Stimmung.",
                 "hu": "Tökéletes utolsó megálló; csodálja meg az építészetet az autó fűtésének melegében. Az esős szürkület filmszerű hangulatot ad a birtoknak.",
                 "ro": "O oprire finală perfectă; admirați arhitectura impunătoare având căldura pornită în mașină. Crepusculul ploios adaugă o stare cinematică.",
-                "en": "A perfect final stop; admire the imposing architecture while running the car heater. The rainy twilight adds a cinematic mood to the estate."
+                "en": "A perfect final stop; admire the imposing architecture while running the car heater. The rainy twilight adds a cinematic mood to the estate.",
+                "fr": "Une halte finale parfaite ; admirez l'architecture imposante en faisant fonctionner le chauffage de la voiture. Le crépuscule pluvieux ajoute une touche cinématographique au domaine."
               }
             }
           ]
@@ -935,7 +1037,8 @@
             "de": "Lassen Sie die Heizung an auf dieser winterlichen Fahrt ab Rathauspark und Parc Boussard. Betreten Sie mittags die kühle Kirche Saint-Pierre. Verbringen Sie den Nachmittag am Château du Mesnil-Voisin und den gefrorenen Juine-Ufern. Besuchen Sie den Dolmen und das Schloss Gillevoisin kurz vor dem Sonnenuntergang um 17 Uhr.",
             "hu": "Tartsa bekapcsolva a fűtést a fagyos téli autózás során, a Városháza parknál és a Parc Boussard-nál kezdve. Délben lépjen be a hűvös Saint-Pierre templomba. A délutánt a Château du Mesnil-Voisin és a jeges Juine folyópart csodálásával töltse. Érjen a dolmenhez és a Gillevoisin kastélyhoz az 5 órai sötétedés előtt.",
             "ro": "Păstrați căldura pornită în această plimbare de iarnă, începând cu Parcul Primăriei și Parc Boussard. La prânz, intrați în frumoasa Biserica Saint-Pierre. Petreceți după-amiaza admirând Château du Mesnil-Voisin și malurile înghețate ale râului. Ajungeți la dolmen și la castel chiar înainte de apusul de la ora 17.",
-            "en": "Keep the heater on during this crisp winter drive, beginning at Town Hall Park and Parc Boussard in the frosty morning. At midday, step into the chilly but beautiful Saint-Pierre Church. Spend the afternoon marveling at Château du Mesnil-Voisin and the frozen Juine riverbanks. Aim to visit the dolmen and Château de Gillevoisin just before the 5 PM sunset plunges the town into darkness."
+            "en": "Keep the heater on during this crisp winter drive, beginning at Town Hall Park and Parc Boussard in the frosty morning. At midday, step into the chilly but beautiful Saint-Pierre Church. Spend the afternoon marveling at Château du Mesnil-Voisin and the frozen Juine riverbanks. Aim to visit the dolmen and Château de Gillevoisin just before the 5 PM sunset plunges the town into darkness.",
+            "fr": "Gardez le chauffage allumé pendant cette route hivernale fraîche, en commençant par le Town Hall Park et le Parc Boussard le matin gelé. À midi, entrez dans la froide mais belle église Saint-Pierre. Passez l'après-midi à admirer le Château du Mesnil-Voisin et les berges gelées de la Juine. Essayez de visiter le dolmen et le Château de Gillevoisin juste avant le coucher du soleil à 17 h qui plonge la ville dans l'obscurité."
           },
           "stops": [
             {
@@ -943,13 +1046,15 @@
                 "de": "Rathauspark",
                 "hu": "Városháza park",
                 "ro": "Parcul Primăriei",
-                "en": "Town Hall Park"
+                "en": "Town Hall Park",
+                "fr": "Town Hall Park"
               },
               "tip_5lang": {
                 "de": "Die kahlen Winterbäume betonen das Layout des Parks. Es ist sehr kalt, knöpfen Sie Ihren wärmsten Mantel zu, bevor Sie das Auto verlassen.",
                 "hu": "A csupasz téli fák kiemelik a park elrendezését. Odakint meglehetősen hideg van, ezért gombolja be a legmelegebb kabátját kiszállás előtt.",
                 "ro": "Copacii goi subliniază aspectul parcului. Este destul de frig afară, așa că încheiați-vă cea mai caldă haină înainte de a părăsi mașina.",
-                "en": "The bare winter trees highlight the park's layout. It's quite cold outside, so button up your warmest coat before leaving the heated car."
+                "en": "The bare winter trees highlight the park's layout. It's quite cold outside, so button up your warmest coat before leaving the heated car.",
+                "fr": "Les arbres d'hiver dépouillés mettent en valeur l'aménagement du parc. Il fait très froid dehors, alors boutonnez votre manteau le plus chaud avant de quitter la voiture chauffée."
               }
             },
             {
@@ -957,13 +1062,15 @@
                 "de": "Parc Boussard",
                 "hu": "Parc Boussard",
                 "ro": "Parc Boussard",
-                "en": "Parc Boussard"
+                "en": "Parc Boussard",
+                "fr": "Parc Boussard"
               },
               "tip_5lang": {
                 "de": "Spazieren Sie auf den gefrorenen Wegen in der klaren Winterluft. Eine dicke Mütze und ein Schal sind unerlässlich, da der Garten zugig sein kann.",
                 "hu": "Sétáljon a deres ösvényeken, és élvezze a friss téli levegőt. A vastag sapka és sál elengedhetetlen, mivel a nyitott kert nagyon szeles lehet.",
                 "ro": "Plimbați-vă pe aleile înghețate pentru aerul proaspăt de iarnă. Purtarea unei căciuli groase și a unui fular este esențială în grădina deschisă.",
-                "en": "Walk the frosted paths to enjoy the crisp winter air. Wearing a thick hat and scarf is essential, as the open garden can be quite breezy."
+                "en": "Walk the frosted paths to enjoy the crisp winter air. Wearing a thick hat and scarf is essential, as the open garden can be quite breezy.",
+                "fr": "Parcourez les allées givrés pour apprécier l'air vif d'hiver. Le port d'un bonnet épais et d'une écharpe est essentiel, car le jardin ouvert peut être très venteux."
               }
             },
             {
@@ -971,13 +1078,15 @@
                 "de": "Kirche Saint-Pierre",
                 "hu": "Saint-Pierre templom",
                 "ro": "Biserica Saint-Pierre",
-                "en": "Saint-Pierre Church"
+                "en": "Saint-Pierre Church",
+                "fr": "Saint-Pierre Church"
               },
               "tip_5lang": {
                 "de": "Das Kircheninnere ist atemberaubend, aber unbeheizt; Ihr Atem wird sichtbar sein. Behalten Sie die Handschuhe an, während Sie den Altar bewundern.",
                 "hu": "A templom belseje lenyűgöző, de fűtetlen; a lehelete is meglátszik a hideg levegőben. Tartsa magán a kesztyűjét, miközben megcsodálja az oltárt.",
                 "ro": "Interiorul bisericii este uimitor, dar neîncălzit; respirația vi se va vedea în aerul rece. Țineți mănușile pe mâini în timp ce admirați altarul.",
-                "en": "The church interior is stunning but unheated; your breath might just catch in the cold air. Keep your gloves on while admiring the altar."
+                "en": "The church interior is stunning but unheated; your breath might just catch in the cold air. Keep your gloves on while admiring the altar.",
+                "fr": "L'intérieur de l'église est splendide mais non chauffé ; votre souffle peut se condenser dans l'air froid. Gardez vos gants en admirant l'autel."
               }
             },
             {
@@ -985,13 +1094,15 @@
                 "de": "Château du Mesnil-Voisin",
                 "hu": "Château du Mesnil-Voisin",
                 "ro": "Château du Mesnil-Voisin",
-                "en": "Château du Mesnil-Voisin"
+                "en": "Château du Mesnil-Voisin",
+                "fr": "Château du Mesnil-Voisin"
               },
               "tip_5lang": {
                 "de": "Das Anwesen wirkt vor dem blassen Winterhimmel edel. Achten Sie auf eisige Stellen auf dem Parkplatz, wenn Sie zu den Toren gehen.",
                 "hu": "A birtok zordnak és nemesnek tűnik a halvány téli égbolt előtt. Ügyeljen a parkolóban lévő jeges foltokra, amikor a kapukhoz sétál.",
                 "ro": "Domeniul arată nobil pe cerul palid de iarnă. Atenție la peticele de gheață din zona de parcare atunci când mergeți spre porți.",
-                "en": "The estate looks stark and noble against the pale winter sky. Beware of icy patches in the parking area when walking up to the gates."
+                "en": "The estate looks stark and noble against the pale winter sky. Beware of icy patches in the parking area when walking up to the gates.",
+                "fr": "Le domaine paraît austère et noble contre le ciel hivernal pâle. Méfiez-vous des plaques de glace dans le parking en approchant des grilles."
               }
             },
             {
@@ -999,13 +1110,15 @@
                 "de": "Ufer der Juine",
                 "hu": "Juine folyó partja",
                 "ro": "Malurile râului Juine",
-                "en": "Juine River Banks"
+                "en": "Juine River Banks",
+                "fr": "Juine River Banks"
               },
               "tip_5lang": {
                 "de": "Halten Sie am Fluss, um den Frost am Schilf zu sehen. Ein kurzer, eiskalter Spaziergang; lassen Sie das Auto laufen, um sich aufzuwärmen.",
                 "hu": "Álljon meg a folyónál, hogy megnézze a nádasra tapadt deret. Rövid, de fagyos séta, hagyja járni a motort a gyors felmelegedéshez utána.",
                 "ro": "Opriți-vă la râu pentru a vedea chiciura de pe stuf. O scurtă plimbare înghețată, păstrați motorul pornit pentru a vă încălzi rapid.",
-                "en": "Stop by the river to see frost clinging to the reeds. It's a short, freezing walk from the road, so keep the car running to warm up quickly after."
+                "en": "Stop by the river to see frost clinging to the reeds. It's a short, freezing walk from the road, so keep the car running to warm up quickly after.",
+                "fr": "Arrêtez-vous au bord de la rivière pour voir le givre accroché aux roseaux. C'est une courte marche glacée depuis la route, gardez le moteur allumé pour vous réchauffer rapidement après."
               }
             },
             {
@@ -1013,13 +1126,15 @@
                 "de": "Pierre-Levée Dolmen",
                 "hu": "Pierre-Levée Dolmen",
                 "ro": "Dolmenul Pierre-Levée",
-                "en": "Dolmen dit la Pierre-Levée"
+                "en": "Dolmen dit la Pierre-Levée",
+                "fr": "Dolmen dit la Pierre-Levée"
               },
               "tip_5lang": {
                 "de": "Erleben Sie das alte Geheimnis dieses Steinmonuments. Da die Sonne früh untergeht, sorgen die länger werdenden Schatten für eine unheimliche Note.",
                 "hu": "Élje át e kőemlékmű hátborzongató ősi rejtélyét. A korán lenyugvó nap miatt a hosszabbodó árnyékok kísérteties hangulatot teremtenek.",
                 "ro": "Experimentați misterul antic al acestui monument. Odată cu apusul devreme, umbrele care se prelungesc adaugă o notă stranie.",
-                "en": "Experience the chilling ancient mystery of this stone monument. With the sun setting early, the lengthening shadows add an eerie touch."
+                "en": "Experience the chilling ancient mystery of this stone monument. With the sun setting early, the lengthening shadows add an eerie touch.",
+                "fr": "Vivez le mystère ancien glaçant de ce monument de pierre. Avec le soleil qui se couche tôt, les ombres qui s'allongent ajoutent une touche inquiétante."
               }
             },
             {
@@ -1027,13 +1142,15 @@
                 "de": "Château de Gillevoisin",
                 "hu": "Château de Gillevoisin",
                 "ro": "Château de Gillevoisin",
-                "en": "Château de Gillevoisin"
+                "en": "Château de Gillevoisin",
+                "fr": "Château de Gillevoisin"
               },
               "tip_5lang": {
                 "de": "Ihr letzter Stopp sieht in der Winterdämmerung gegen 17 Uhr spektakulär aus. Drehen Sie die Heizung auf und genießen Sie die beleuchtete Aussicht.",
                 "hu": "Az utolsó megálló látványos az 5 óra körüli téli szürkületben. Tekerje fel a fűtést, és élvezze a kivilágított látványt a meleg autóból.",
                 "ro": "Ultima oprire arată spectaculos în amurgul de iarnă în jur de ora 17. Dați căldura la maximum și bucurați-vă de vederea iluminată din interior.",
-                "en": "Your final stop looks spectacular in the winter dusk around 5 PM. Turn up the car's heat and enjoy the illuminated view from the warm interior."
+                "en": "Your final stop looks spectacular in the winter dusk around 5 PM. Turn up the car's heat and enjoy the illuminated view from the warm interior.",
+                "fr": "Votre dernier arrêt est spectaculaire dans le crépuscule hivernal vers 17 h. Montez le chauffage de la voiture et profitez de la vue illuminée depuis l'intérieur chauffé."
               }
             }
           ]

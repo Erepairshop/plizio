@@ -21,7 +21,8 @@
             "de": "Aristide Briand Platz",
             "hu": "Aristide Briand tér",
             "ro": "Piața Aristide Briand",
-            "en": "Aristide Briand Square"
+            "en": "Aristide Briand Square",
+            "fr": "Place Aristide-Briand"
           },
           "coords": [
             1.112683,
@@ -36,7 +37,8 @@
             "de": "Beginnen Sie Ihren Tag am Aristide Briand Platz, einer grünen Oase, die sich ideal für einen Spaziergang eignet, und holen Sie sich einen Kaffee für die schattigen Bänke.",
             "hu": "Kezdje a napot az Aristide Briand téren, egy zöldellő városi oázisban, amely tökéletes egy sétához, és ne felejtsen el kávét venni a közeli kávézóban az árnyékos padokhoz.",
             "ro": "Începeți-vă ziua în Piața Aristide Briand, o oază urbană verde perfectă pentru o plimbare și nu uitați să luați o cafea pentru a vă bucura de ea pe băncile umbrite.",
-            "en": "Start your day at Aristide Briand Square, a verdant urban oasis perfect for a morning stroll, and remember to grab a coffee at a nearby café to enjoy on the shaded benches."
+            "en": "Start your day at Aristide Briand Square, a verdant urban oasis perfect for a morning stroll, and remember to grab a coffee at a nearby café to enjoy on the shaded benches.",
+            "fr": "Commencez la journée à la place Aristide-Briand, oasis urbaine verdoyante idéale pour une promenade matinale, et pensez à prendre un café dans un café proche pour le savourer sur les bancs ombragés."
           }
         },
         {
@@ -44,7 +46,8 @@
             "de": "Hafen Jacques-Yves Cousteau",
             "hu": "Jacques-Yves Cousteau kikötő",
             "ro": "Portul Jacques-Yves Cousteau",
-            "en": "Jacques-Yves Cousteau Port"
+            "en": "Jacques-Yves Cousteau Port",
+            "fr": "Port Jacques-Yves Cousteau"
           },
           "coords": [
             1.111323,
@@ -59,7 +62,8 @@
             "de": "Bewundern Sie das ruhige Wasser am Hafen Jacques-Yves Cousteau, einem reizvollen Yachthafen am Kanal, wo ein Spaziergang entlang des Treidelpfades tolle Fotomotive bietet.",
             "hu": "Csodálja meg a nyugalmat a Jacques-Yves Cousteau kikötőben, a csatorna menti elragadó jachtkikötőben, ahol a vontatóösvényen sétálva csodálatos fényképeket készíthet.",
             "ro": "Admirați apele liniștite la Portul Jacques-Yves Cousteau, un port de agrement fermecător, unde o simplă plimbare pe cărarea de pe mal vă va oferi oportunități foto excelente.",
-            "en": "Admire the tranquil waters at Jacques-Yves Cousteau Port, a delightful marina along the canal, where renting a small boat or simply walking the towpath offers great photos."
+            "en": "Admire the tranquil waters at Jacques-Yves Cousteau Port, a delightful marina along the canal, where renting a small boat or simply walking the towpath offers great photos.",
+            "fr": "Admirez les eaux tranquilles du port Jacques-Yves Cousteau, une marina charmante le long du canal ; louer une petite embarcation ou simplement longer la berge offre de belles photos."
           }
         },
         {
@@ -67,7 +71,8 @@
             "de": "Rathaus Castelsarrasin",
             "hu": "Castelsarrasin Városháza",
             "ro": "Primăria Castelsarrasin",
-            "en": "Castelsarrasin Town Hall"
+            "en": "Castelsarrasin Town Hall",
+            "fr": "Mairie de Castelsarrasin"
           },
           "coords": [
             1.109235,
@@ -82,7 +87,8 @@
             "de": "Bestaunen Sie die imposante Backsteinarchitektur des Rathauses von Castelsarrasin, ein Symbol des lokalen Bürgerstolzes, und kommen Sie an Wochentagen für mehr Ruhe.",
             "hu": "Csodálja meg a castelsarrasini Városháza lenyűgöző téglaépítészetét, a helyi polgári büszkeség szimbólumát, és mindenképpen hétköznap délelőtt látogassa meg a tömeg elkerülése végett.",
             "ro": "Minunați-vă de arhitectura din cărămidă a Primăriei Castelsarrasin, un simbol al mândriei civice, și asigurați-vă că o vizitați în diminețile din timpul săptămânii.",
-            "en": "Marvel at the imposing brick architecture of the Castelsarrasin Town Hall, a symbol of local civic pride, and make sure to visit during weekday mornings for a quieter view."
+            "en": "Marvel at the imposing brick architecture of the Castelsarrasin Town Hall, a symbol of local civic pride, and make sure to visit during weekday mornings for a quieter view.",
+            "fr": "Émerveillez-vous devant l'imposante architecture en brique de la mairie de Castelsarrasin, symbole de fierté locale, et visitez de préférence en semaine le matin pour plus de tranquillité."
           }
         },
         {
@@ -90,7 +96,8 @@
             "de": "Saint-Jean Kirche",
             "hu": "Szent János-templom",
             "ro": "Biserica Saint-Jean",
-            "en": "Saint-Jean Church"
+            "en": "Saint-Jean Church",
+            "fr": "Église Saint-Jean"
           },
           "coords": [
             1.104521,
@@ -105,7 +112,8 @@
             "de": "Erkunden Sie die historische Saint-Jean Kirche mit ihrem markanten Glockenturm und der friedlichen Atmosphäre, wobei Sie im Inneren auf angemessene Kleidung achten sollten.",
             "hu": "Fedezze fel a történelmi Szent János-templomot, amely egyedi harangtornyáról és békés hangulatáról ismert, de a belépéshez szerény öltözet és néma csend szükségeltetik.",
             "ro": "Explorați biserica istorică Saint-Jean, remarcabilă prin turnul său distinct și ambianța liniștită, unde intrarea necesită o ținută decentă și un moment de tăcere respectuoasă.",
-            "en": "Explore the historic Saint-Jean Church, notable for its distinct bell tower and peaceful ambiance, while stepping inside requires modest dress and a moment of respectful silence."
+            "en": "Explore the historic Saint-Jean Church, notable for its distinct bell tower and peaceful ambiance, while stepping inside requires modest dress and a moment of respectful silence.",
+            "fr": "Explorez l'historique église Saint-Jean, remarquable par son clocher distinctif et son ambiance paisible ; l'entrée requiert une tenue modeste et un instant de silence respectueux."
           }
         },
         {
@@ -113,7 +121,8 @@
             "de": "Saint-Sauveur Kirche",
             "hu": "Saint-Sauveur templom",
             "ro": "Biserica Saint-Sauveur",
-            "en": "Saint-Sauveur Church"
+            "en": "Saint-Sauveur Church",
+            "fr": "Église Saint-Sauveur"
           },
           "coords": [
             1.107478,
@@ -128,7 +137,8 @@
             "de": "Entdecken Sie die gotische Eleganz der Saint-Sauveur Kirche mit ihren wunderschönen Buntglasfenstern und fangen Sie das Nachmittagslicht ein, das durch die Scheiben fällt.",
             "hu": "Fedezze fel a Saint-Sauveur templom gótikus eleganciáját és gyönyörű ólomüveg ablakait, és próbálja meg elcsípni a színes üvegeken átszűrődő délutáni napfényt.",
             "ro": "Descoperiți eleganța gotică a Bisericii Saint-Sauveur, care adăpostește vitralii frumoase, și încercați să surprindeți lumina soarelui de după-amiază filtrată prin geamuri.",
-            "en": "Discover the Gothic elegance of the Saint-Sauveur Church, housing beautiful stained glass windows, and try to catch the afternoon sunlight filtering through the vibrant panes."
+            "en": "Discover the Gothic elegance of the Saint-Sauveur Church, housing beautiful stained glass windows, and try to catch the afternoon sunlight filtering through the vibrant panes.",
+            "fr": "Découvrez l'élégance gothique de l'église Saint-Sauveur, qui abrite de beaux vitraux ; essayez d'attraper la lumière de l'après-midi filtrant à travers les verrières colorées."
           }
         }
       ],
@@ -136,7 +146,8 @@
         "de": "Beginnen Sie den Morgen mit einem Spaziergang über den Aristide Briand Platz. Mittags können Sie die Boote am Hafen Jacques-Yves Cousteau beobachten. Der Nachmittag lädt dazu ein, die historische Architektur des Rathauses und der Kirche Saint-Jean zu bestaunen. Am Abend erstrahlen die gotischen Fassaden der Kirche Saint-Sauveur in warmem Licht.",
         "hu": "Kezdje a reggelt egy sétával az Aristide Briand téren, élvezve a friss levegőt. Délben nézze meg a hajókat a Jacques-Yves Cousteau kikötőben. A délután folyamán csodálja meg a Városháza és a Szent János-templom történelmi építészetét. Este a Saint-Sauveur templom lenyűgöző gótikus homlokzatai meleg fényben ragyognak.",
         "ro": "Începeți dimineața plimbându-vă prin Piața Aristide Briand. La prânz, priviți bărcile care trec prin Portul Jacques-Yves Cousteau. După-amiaza vă invită să admirați arhitectura istorică a Primăriei și a Bisericii Saint-Jean. Seara, fațadele gotice uimitoare ale Bisericii Saint-Sauveur strălucesc frumos în lumina caldă.",
-        "en": "Start your morning strolling through Aristide Briand Square, enjoying the fresh air. By midday, watch the boats glide past the Jacques-Yves Cousteau Port. The afternoon invites you to marvel at the historic architecture of the Town Hall and the Saint-Jean Church. In the evening, the stunning Gothic facades of Saint-Sauveur Church glow warmly."
+        "en": "Start your morning strolling through Aristide Briand Square, enjoying the fresh air. By midday, watch the boats glide past the Jacques-Yves Cousteau Port. The afternoon invites you to marvel at the historic architecture of the Town Hall and the Saint-Jean Church. In the evening, the stunning Gothic facades of Saint-Sauveur Church glow warmly.",
+        "fr": "Commencez la matinée par une promenade sur la place Aristide-Briand pour profiter de l'air frais. À midi, regardez les bateaux passer au port Jacques-Yves Cousteau. L'après-midi, admirez l'architecture historique de la mairie et de l'église Saint-Jean. Le soir, les façades gothiques de l'église Saint-Sauveur s'illuminent chaleureusement."
       },
       "variants": {
         "rainy": {
@@ -144,7 +155,8 @@
             "de": "Der Morgen beginnt unter grauem Himmel, Regenschutz ist für den Start unerlässlich. Mittags suchen wir Schutz in der Nähe des Rathauses, während der Regen stärker wird. Am Nachmittag bieten die dicken Mauern der historischen Kirchen einen trockenen Zufluchtsort. Der Abend endet mit einem Spaziergang auf glänzendem Asphalt, wobei wasserfeste Schuhe bei diesem Wetter absolut notwendig sind.",
             "hu": "Reggel szürke fellegek gyülekeznek a város felett, az esernyő kötelező kellék az induláshoz. Délben a városháza környékén keresünk menedéket a sűrűsödő csapadék elől. Délután a történelmi templomok vastag falai és fedett terei nyújtanak száraz pihenőt. Este a vizes aszfalton megcsillanó fények között, vízálló cipőben fejezzük be a mai városi sétát.",
             "ro": "Dimineața începe sub un cer gri, umbrela fiind un accesoriu esențial pentru plecare. La prânz căutăm adăpost lângă primărie, în timp ce ploaia devine din ce în ce mai deasă. După-amiaza, zidurile groase ale bisericilor istorice oferă un refugiu uscat și liniștit. Seara se încheie printre luminile reflectate pe asfaltul ud, încălțămintea impermeabilă fiind necesară.",
-            "en": "The morning begins under grey skies, making an umbrella an essential accessory for the start. At noon, we seek shelter near the town hall as the rain intensifies. In the afternoon, the thick walls of the historic churches provide a dry and peaceful refuge from the storm. The evening ends among the lights reflected on the wet asphalt, where waterproof shoes are a must."
+            "en": "The morning begins under grey skies, making an umbrella an essential accessory for the start. At noon, we seek shelter near the town hall as the rain intensifies. In the afternoon, the thick walls of the historic churches provide a dry and peaceful refuge from the storm. The evening ends among the lights reflected on the wet asphalt, where waterproof shoes are a must.",
+            "fr": "La matinée commence sous un ciel gris, un parapluie est donc indispensable. À midi, abritez-vous près de la mairie alors que la pluie s'intensifie. L'après-midi, les épais murs des églises historiques offrent un refuge sec et paisible contre la tempête. La soirée se termine parmi les lumières réfléchies sur l'asphalte mouillé, où des chaussures imperméables sont indispensables."
           },
           "stops": [
             {
@@ -152,13 +164,15 @@
                 "de": "Aristide Briand Platz",
                 "hu": "Aristide Briand tér",
                 "ro": "Piața Aristide Briand",
-                "en": "Aristide Briand Square"
+                "en": "Aristide Briand Square",
+                "fr": "Place Aristide-Briand"
               },
               "tip_5lang": {
                 "de": "Bewundern Sie die Architektur des Platzes unter Ihrem Regenschirm und achten Sie auf die rutschigen Wege zwischen den Bäumen, die bei Nässe gefährlich sein können.",
                 "hu": "Csodálja meg a tér építészetét az esernyője alól, és ügyeljen a fák közötti utakon az esetlegesen csúszós burkolatra, amely a nagy mennyiségű eső miatt veszélyes lehet.",
                 "ro": "Admirați arhitectura pieței de sub umbrelă și aveți grijă la aleile care pot deveni alunecoase printre copaci, fiind periculoase din cauza ploii abundente de astăzi.",
-                "en": "Admire the square's architecture from under your umbrella and watch out for slippery paths between the trees, which can be hazardous due to the heavy rain today."
+                "en": "Admire the square's architecture from under your umbrella and watch out for slippery paths between the trees, which can be hazardous due to the heavy rain today.",
+                "fr": "Admirez l'architecture de la place sous votre parapluie et faites attention aux sentiers glissants entre les arbres, dangereux en raison des fortes pluies aujourd'hui."
               }
             },
             {
@@ -166,13 +180,15 @@
                 "de": "Hafen Jacques-Yves Cousteau",
                 "hu": "Jacques-Yves Cousteau kikötő",
                 "ro": "Portul Jacques-Yves Cousteau",
-                "en": "Jacques-Yves Cousteau Port"
+                "en": "Jacques-Yves Cousteau Port",
+                "fr": "Port Jacques-Yves Cousteau"
               },
               "tip_5lang": {
                 "de": "Der Kanal wirkt im Regen sehr stimmungsvoll; tragen Sie rutschfeste Schuhe für den Spaziergang entlang des Kais und genießen Sie das Rauschen der Tropfen auf dem Wasser.",
                 "hu": "A csatorna rendkívül hangulatos az esőben; viseljen csúszásmentes talpú cipőt a rakpart menti sétához, és élvezze a víztükrön kopogó esőcseppek megnyugtató látványát.",
                 "ro": "Canalul este foarte atmosferic pe ploaie; purtați încălțăminte cu talpă antiderapantă pentru plimbarea de-a lungul cheiului și admirați picăturile care cad pe apă.",
-                "en": "The canal is very atmospheric in the rain; wear non-slip shoes for the walk along the quayside and enjoy the soothing sight of raindrops hitting the water's surface."
+                "en": "The canal is very atmospheric in the rain; wear non-slip shoes for the walk along the quayside and enjoy the soothing sight of raindrops hitting the water's surface.",
+                "fr": "Le canal est très atmosphérique sous la pluie ; portez des chaussures antidérapantes pour marcher le long des quais et profitez du spectacle apaisant des gouttes frappant l'eau."
               }
             },
             {
@@ -180,13 +196,15 @@
                 "de": "Rathaus Castelsarrasin",
                 "hu": "Castelsarrasin Városháza",
                 "ro": "Primăria Castelsarrasin",
-                "en": "Castelsarrasin Town Hall"
+                "en": "Castelsarrasin Town Hall",
+                "fr": "Mairie de Castelsarrasin"
               },
               "tip_5lang": {
                 "de": "Nutzen Sie den überdachten Eingangsbereich des Rathauses, um die Fassade trocken zu bewundern und dem plötzlichen Guss ohne nass zu werden zu entgehen.",
                 "hu": "Használja ki a városháza fedett bejárati részét, hogy szárazon csodálhassa meg a homlokzatot és elkerülje a hirtelen lezúduló záport anélkül, hogy bőrig ázna.",
                 "ro": "Folosiți zona acoperită de la intrarea primăriei pentru a admira fațada la adăpost și pentru a evita aversa bruscă fără a vă uda complet în timpul vizitei.",
-                "en": "Take advantage of the town hall's covered entrance area to admire the facade while staying dry and avoiding the sudden downpour without getting completely soaked."
+                "en": "Take advantage of the town hall's covered entrance area to admire the facade while staying dry and avoiding the sudden downpour without getting completely soaked.",
+                "fr": "Profitez de l'entrée couverte de la mairie pour admirer la façade tout en restant au sec et éviter l'averse sans être complètement trempé."
               }
             },
             {
@@ -194,13 +212,15 @@
                 "de": "Saint-Jean Kirche",
                 "hu": "Szent János-templom",
                 "ro": "Biserica Saint-Jean",
-                "en": "Saint-Jean Church"
+                "en": "Saint-Jean Church",
+                "fr": "Église Saint-Jean"
               },
               "tip_5lang": {
                 "de": "Das ruhige Innere der Kirche ist der perfekte Ort, um einen starken Regenschauer in aller Stille abzuwarten und dabei die historischen Details der Kapellen zu erkunden.",
                 "hu": "A templom csendes belső tere tökéletes helyszín ahhoz, hogy nyugodt körülmények között várja meg egy nagyobb zápor végét, miközben felfedezi a kápolnák részleteit.",
                 "ro": "Interiorul liniștit al bisericii este locul perfect pentru a aștepta trecerea unei averse puternice în deplină liniște, explorând detaliile istorice ale capelelor.",
-                "en": "The quiet interior of the church is the perfect place to wait out a heavy rain shower in peaceful surroundings while exploring the historical details of the chapels."
+                "en": "The quiet interior of the church is the perfect place to wait out a heavy rain shower in peaceful surroundings while exploring the historical details of the chapels.",
+                "fr": "L'intérieur calme de l'église est l'endroit parfait pour attendre une forte averse dans un cadre paisible tout en explorant les détails historiques des chapelles."
               }
             },
             {
@@ -208,13 +228,15 @@
                 "de": "Saint-Sauveur Kirche",
                 "hu": "Saint-Sauveur templom",
                 "ro": "Biserica Saint-Sauveur",
-                "en": "Saint-Sauveur Church"
+                "en": "Saint-Sauveur Church",
+                "fr": "Église Saint-Sauveur"
               },
               "tip_5lang": {
                 "de": "Schütteln Sie Ihren Schirm draußen kräftig aus, bevor Sie die prächtige Kirche besichtigen, um den Innenraum trocken zu halten und die Kunstwerke zu bewundern.",
                 "hu": "Rázza le alaposan az esernyőjét kint, mielőtt belépne a pompás templomba, hogy a belső tér száraz maradjon, miközben Ön a vallási műtárgyakat csodálja.",
                 "ro": "Scuturați bine umbrela afară înainte de a intra în biserica superbă pentru a menține interiorul uscat în timp ce admirați operele de artă religioasă.",
-                "en": "Give your umbrella a good shake outside before entering the grand church to keep the interior dry while you admire the religious artworks and decorations."
+                "en": "Give your umbrella a good shake outside before entering the grand church to keep the interior dry while you admire the religious artworks and decorations.",
+                "fr": "Secouez bien votre parapluie dehors avant d'entrer dans la grande église afin de garder l'intérieur au sec pendant que vous admirez les œuvres religieuses et les décorations."
               }
             }
           ]
@@ -224,7 +246,8 @@
             "de": "Ein frostiger Morgen lädt zu einem zügigen Marsch ein, um warm zu bleiben. Mittags suchen wir die gemütliche Wärme in den historischen Gebäuden des Stadtzentrums. Der Nachmittag wird kurz, da das Tageslicht bereits spürbar schwindet. Da die Sonne gegen 17:00 Uhr untergeht, planen wir einen frühen Abschluss in einer wohlig beheizten Umgebung.",
             "hu": "A fagyos reggel frissítő sétára hív, a réteges öltözködés elengedhetetlen a testhő megőrzéséhez. Délben a belváros történelmi épületeinek belső melegében keresünk menedéket. A délután rövidre nyúlik, ahogy a fények fogyni kezdenek. Mivel 17:00 körül lemegy a nap, korai befejezést tervezünk egy kellemesen fűtött helyen.",
             "ro": "O dimineață geroasă invită la o plimbare rapidă pentru a menține căldura corporală. La prânz căutăm refugiul cald al clădirilor istorice din centrul orașului. După-amiaza se scurtează rapid pe măsură ce lumina scade vizibil. Deoarece soarele apune în jur de ora 17:00, planificăm o încheiere timpurie la căldură.",
-            "en": "A frosty morning invites a brisk walk to keep warm; layered clothing is essential for survival today. At noon, we seek the warm shelter of historic buildings in the town center. The afternoon feels short as the daylight begins to fade noticeably. Since the sun sets around 17:00, we plan for an early finish in a cozy, heated environment."
+            "en": "A frosty morning invites a brisk walk to keep warm; layered clothing is essential for survival today. At noon, we seek the warm shelter of historic buildings in the town center. The afternoon feels short as the daylight begins to fade noticeably. Since the sun sets around 17:00, we plan for an early finish in a cozy, heated environment.",
+            "fr": "Une matinée glaciale appelle une marche tonique pour rester au chaud ; des couches de vêtements sont indispensables aujourd'hui. À midi, nous cherchons l'abri chaleureux des bâtiments historiques du centre. L'après-midi paraît court alors que la lumière décline rapidement. Le soleil se couchant vers 17:00, prévoyez une fin de journée tôt dans un endroit douillet et chauffé."
           },
           "stops": [
             {
@@ -232,13 +255,15 @@
                 "de": "Aristide Briand Platz",
                 "hu": "Aristide Briand tér",
                 "ro": "Piața Aristide Briand",
-                "en": "Aristide Briand Square"
+                "en": "Aristide Briand Square",
+                "fr": "Place Aristide-Briand"
               },
               "tip_5lang": {
                 "de": "Der Reif auf den Bäumen wirkt fast magisch; tragen Sie gefütterte Handschuhe, um die kalte Winterluft bei Ihrem Rundgang ohne brennende Finger zu genießen.",
                 "hu": "A fákon megülő zúzmara szinte mágikus látvány; viseljen bélelt kesztyűt, hogy kényelmesen élvezhesse a hideg téli levegőt anélkül, hogy átfagynának az ujjai.",
                 "ro": "Chiciura de pe copaci oferă o priveliște magică; purtați mănuși căptușite pentru a vă bucura de aerul rece de iarnă fără ca degetele să vă înghețe complet.",
-                "en": "The frost on the trees looks almost magical; wear lined gloves to comfortably enjoy the cold winter air during your stroll without your fingers getting too cold."
+                "en": "The frost on the trees looks almost magical; wear lined gloves to comfortably enjoy the cold winter air during your stroll without your fingers getting too cold.",
+                "fr": "Le givre sur les arbres paraît presque magique ; portez des gants doublés pour profiter du froid hivernal sans que vos doigts ne gèlent."
               }
             },
             {
@@ -246,13 +271,15 @@
                 "de": "Hafen Jacques-Yves Cousteau",
                 "hu": "Jacques-Yves Cousteau kikötő",
                 "ro": "Portul Jacques-Yves Cousteau",
-                "en": "Jacques-Yves Cousteau Port"
+                "en": "Jacques-Yves Cousteau Port",
+                "fr": "Port Jacques-Yves Cousteau"
               },
               "tip_5lang": {
                 "de": "Die kalte Brise am Wasser ist im Winter schneidend; eine winddichte Jacke ist für den Hafenbesuch absolut notwendig, um sich vor Auskühlung zu schützen.",
                 "hu": "A vízparti szél télen metsző lehet; egy szélálló dzseki elengedhetetlen a kikötői látogatáshoz, hogy megvédje szervezetét a gyors kihűléstől a nyílt terepen.",
                 "ro": "Briza de pe malul apei poate fi tăioasă iarna; o jachetă rezistentă la vânt este necesară pentru vizita în port, protejându-vă împotriva răcirii rapide a corpului.",
-                "en": "The breeze by the water can be biting in winter; a windproof jacket is absolutely necessary for the port visit to protect yourself from the cold in open areas."
+                "en": "The breeze by the water can be biting in winter; a windproof jacket is absolutely necessary for the port visit to protect yourself from the cold in open areas.",
+                "fr": "La brise au bord de l'eau peut être mordante en hiver ; une veste coupe-vent est absolument nécessaire pour la visite du port afin de vous protéger du froid sur les espaces ouverts."
               }
             },
             {
@@ -260,13 +287,15 @@
                 "de": "Rathaus Castelsarrasin",
                 "hu": "Castelsarrasin Városháza",
                 "ro": "Primăria Castelsarrasin",
-                "en": "Castelsarrasin Town Hall"
+                "en": "Castelsarrasin Town Hall",
+                "fr": "Mairie de Castelsarrasin"
               },
               "tip_5lang": {
                 "de": "Das Rathaus strahlt im Winterlicht eine besondere Eleganz aus; besichtigen Sie es früh am Tag, bevor es um 17:00 Uhr bereits vollständig dunkel wird.",
                 "hu": "A városháza különleges eleganciát sugároz a téli fényben; nézze meg korán a nap folyamán, mielőtt 17:00-kor már teljesen besötétedik a városközpontban.",
                 "ro": "Primăria emană o eleganță deosebită în lumina iernii; vizitați-o devreme în timpul zilei, înainte de lăsarea întunericului deplin în centru la ora 17:00.",
-                "en": "The town hall radiates a special elegance in the winter light; visit it early in the day before it gets completely dark in the town center at 17:00."
+                "en": "The town hall radiates a special elegance in the winter light; visit it early in the day before it gets completely dark in the town center at 17:00.",
+                "fr": "La mairie dégage une élégance particulière sous la lumière hivernale ; visitez-la tôt dans la journée avant qu'il n'obscurcisse complètement au centre-ville vers 17:00."
               }
             },
             {
@@ -274,13 +303,15 @@
                 "de": "Saint-Jean Kirche",
                 "hu": "Szent János-templom",
                 "ro": "Biserica Saint-Jean",
-                "en": "Saint-Jean Church"
+                "en": "Saint-Jean Church",
+                "fr": "Église Saint-Jean"
               },
               "tip_5lang": {
                 "de": "Die dicken Kirchenmauern halten die Kälte draußen; nutzen Sie den Besuch für eine kurze Aufwärmpause in stiller Atmosphäre und betrachten Sie die Altäre.",
                 "hu": "A templom vastag falai kint tartják a fagyot; használja ki a látogatást egy rövid melegedésre a csendes környezetben, miközben megtekinti a díszes oltárokat.",
                 "ro": "Zidurile groase ale bisericii țin gerul afară; profitați de vizită pentru o scurtă pauză de încălzire în liniște, admirând în același timp altarele decorate.",
-                "en": "The thick church walls keep the frost out; use the visit for a short warming break in peaceful surroundings while you take the time to look at the ornate altars."
+                "en": "The thick church walls keep the frost out; use the visit for a short warming break in peaceful surroundings while you take the time to look at the ornate altars.",
+                "fr": "Les épais murs de l'église repoussent le gel ; profitez de la visite pour une courte pause réchauffante dans un cadre paisible tout en admirant les autels richement décorés."
               }
             },
             {
@@ -288,13 +319,15 @@
                 "de": "Saint-Sauveur Kirche",
                 "hu": "Saint-Sauveur templom",
                 "ro": "Biserica Saint-Sauveur",
-                "en": "Saint-Sauveur Church"
+                "en": "Saint-Sauveur Church",
+                "fr": "Église Saint-Sauveur"
               },
               "tip_5lang": {
                 "de": "Besichtigen Sie das prächtige Interieur, während draußen der Winterfrost herrscht, und achten Sie auf die frühen Schließzeiten während der Wintermonate.",
                 "hu": "Csodálja meg a pompás belső teret, miközben kint téli fagy uralkodik, és ügyeljen a téli hónapokban szokásos korábbi zárórákra a templom látogatásakor.",
                 "ro": "Admirați interiorul somptuos în timp ce afară domnește gerul și aveți în vedere orele de închidere timpurii specifice lunilor de iarnă pentru acest obiectiv.",
-                "en": "Admire the grand interior while the winter frost reigns outside, and keep an eye on the earlier closing hours typical for the winter months at this site."
+                "en": "Admire the grand interior while the winter frost reigns outside, and keep an eye on the earlier closing hours typical for the winter months at this site.",
+                "fr": "Admirez le grand intérieur tandis que le gel règne dehors et notez les horaires de fermeture anticipée fréquents en hiver pour ce site."
               }
             }
           ]
@@ -314,7 +347,8 @@
             "de": "Saint-Sauveur Kirche",
             "hu": "Saint-Sauveur templom",
             "ro": "Biserica Saint-Sauveur",
-            "en": "Saint-Sauveur Church"
+            "en": "Saint-Sauveur Church",
+            "fr": "Église Saint-Sauveur"
           },
           "coords": [
             1.107478,
@@ -329,7 +363,8 @@
             "de": "Entdecken Sie die gotische Eleganz der Saint-Sauveur Kirche mit ihren wunderschönen Buntglasfenstern und fangen Sie das Nachmittagslicht ein, das durch die Scheiben fällt.",
             "hu": "Fedezze fel a Saint-Sauveur templom gótikus eleganciáját és gyönyörű ólomüveg ablakait, és próbálja meg elcsípni a színes üvegeken átszűrődő délutáni napfényt.",
             "ro": "Descoperiți eleganța gotică a Bisericii Saint-Sauveur, care adăpostește vitralii frumoase, și încercați să surprindeți lumina soarelui de după-amiază filtrată prin geamuri.",
-            "en": "Discover the Gothic elegance of the Saint-Sauveur Church, housing beautiful stained glass windows, and try to catch the afternoon sunlight filtering through the vibrant panes."
+            "en": "Discover the Gothic elegance of the Saint-Sauveur Church, housing beautiful stained glass windows, and try to catch the afternoon sunlight filtering through the vibrant panes.",
+            "fr": "Découvrez l'élégance gothique de l'église Saint-Sauveur, qui abrite de beaux vitraux ; essayez d'attraper la lumière de l'après-midi filtrant à travers les verrières colorées."
           }
         },
         {
@@ -337,7 +372,8 @@
             "de": "Rathaus Castelsarrasin",
             "hu": "Castelsarrasin Városháza",
             "ro": "Primăria Castelsarrasin",
-            "en": "Castelsarrasin Town Hall"
+            "en": "Castelsarrasin Town Hall",
+            "fr": "Mairie de Castelsarrasin"
           },
           "coords": [
             1.109235,
@@ -352,7 +388,8 @@
             "de": "Bestaunen Sie die imposante Backsteinarchitektur des Rathauses von Castelsarrasin, ein Symbol des lokalen Bürgerstolzes, und kommen Sie an Wochentagen für mehr Ruhe.",
             "hu": "Csodálja meg a castelsarrasini Városháza lenyűgöző téglaépítészetét, a helyi polgári büszkeség szimbólumát, és mindenképpen hétköznap délelőtt látogassa meg a tömeg elkerülése végett.",
             "ro": "Minunați-vă de arhitectura din cărămidă a Primăriei Castelsarrasin, un simbol al mândriei civice, și asigurați-vă că o vizitați în diminețile din timpul săptămânii.",
-            "en": "Marvel at the imposing brick architecture of the Castelsarrasin Town Hall, a symbol of local civic pride, and make sure to visit during weekday mornings for a quieter view."
+            "en": "Marvel at the imposing brick architecture of the Castelsarrasin Town Hall, a symbol of local civic pride, and make sure to visit during weekday mornings for a quieter view.",
+            "fr": "Émerveillez-vous devant l'imposante architecture en brique de la mairie de Castelsarrasin, symbole de fierté locale, et visitez de préférence en semaine le matin pour plus de tranquillité."
           }
         },
         {
@@ -360,7 +397,8 @@
             "de": "Hafen Jacques-Yves Cousteau",
             "hu": "Jacques-Yves Cousteau kikötő",
             "ro": "Portul Jacques-Yves Cousteau",
-            "en": "Jacques-Yves Cousteau Port"
+            "en": "Jacques-Yves Cousteau Port",
+            "fr": "Port Jacques-Yves Cousteau"
           },
           "coords": [
             1.111323,
@@ -375,7 +413,8 @@
             "de": "Bewundern Sie das ruhige Wasser am Hafen Jacques-Yves Cousteau, einem reizvollen Yachthafen am Kanal, wo ein Spaziergang entlang des Treidelpfades tolle Fotomotive bietet.",
             "hu": "Csodálja meg a nyugalmat a Jacques-Yves Cousteau kikötőben, a csatorna menti elragadó jachtkikötőben, ahol a vontatóösvényen sétálva csodálatos fényképeket készíthet.",
             "ro": "Admirați apele liniștite la Portul Jacques-Yves Cousteau, un port de agrement fermecător, unde o simplă plimbare pe cărarea de pe mal vă va oferi oportunități foto excelente.",
-            "en": "Admire the tranquil waters at Jacques-Yves Cousteau Port, a delightful marina along the canal, where renting a small boat or simply walking the towpath offers great photos."
+            "en": "Admire the tranquil waters at Jacques-Yves Cousteau Port, a delightful marina along the canal, where renting a small boat or simply walking the towpath offers great photos.",
+            "fr": "Admirez les eaux tranquilles du port Jacques-Yves Cousteau, une marina charmante le long du canal ; louer une petite embarcation ou simplement longer la berge offre de belles photos."
           }
         },
         {
@@ -383,7 +422,8 @@
             "de": "Lac des Très Cassés",
             "hu": "Lac des Très Cassés",
             "ro": "Lac des Très Cassés",
-            "en": "Lac des Très Cassés"
+            "en": "Lac des Très Cassés",
+            "fr": "Lac des Très Cassés"
           },
           "coords": [
             1.086386,
@@ -398,7 +438,8 @@
             "de": "Entspannen Sie am ruhigen Lac des Très Cassés, einem wunderbaren Naturrefugium, wo ein mitgebrachter Picknickkorb ein köstliches Mittagessen im Freien ermöglicht.",
             "hu": "Pihenjen a békés Lac des Très Cassés tónál, amely egy csodálatos természeti menedékhely, ahol egy piknikkosárral érkezve elragadó szabadtéri ebédélményben lehet része.",
             "ro": "Relaxați-vă la serena Lac des Très Cassés, un minunat refugiu natural, unde aducerea unui coș de picnic vă permite să vă bucurați de un prânz delicios în aer liber.",
-            "en": "Relax by the serene Lac des Très Cassés, a wonderful natural retreat just outside the center, where bringing a picnic basket allows for a delightful outdoor lunch experience."
+            "en": "Relax by the serene Lac des Très Cassés, a wonderful natural retreat just outside the center, where bringing a picnic basket allows for a delightful outdoor lunch experience.",
+            "fr": "Détendez-vous au bord du serein lac des Très Cassés, merveilleux refuge naturel à la périphérie du centre ; apporter un panier-repas permet un déjeuner en plein air des plus agréables."
           }
         },
         {
@@ -406,7 +447,8 @@
             "de": "Lac de Monestié",
             "hu": "Lac de Monestié",
             "ro": "Lac de Monestié",
-            "en": "Lac de Monestié"
+            "en": "Lac de Monestié",
+            "fr": "Lac de Monestié"
           },
           "coords": [
             1.06804,
@@ -421,7 +463,8 @@
             "de": "Finden Sie zurück zur Natur am Lac de Monestié mit seinen malerischen Uferwegen, und bringen Sie ein Fernglas mit, um die heimische Vogelwelt besser beobachten zu können.",
             "hu": "Kerüljön közelebb a természethez a Lac de Monestié tónál, ahol festői parti ösvények várják, és mindenképpen vigyen magával távcsövet a madarak megfigyeléséhez.",
             "ro": "Reconectați-vă cu natura la Lac de Monestié, care se mândrește cu poteci pitorești, iar o pereche de binocluri vă va îmbunătăți considerabil observarea păsărilor.",
-            "en": "Reconnect with nature at Lac de Monestié, boasting scenic lakeside paths and local birdlife, so carrying a pair of binoculars will greatly enhance your wildlife spotting."
+            "en": "Reconnect with nature at Lac de Monestié, boasting scenic lakeside paths and local birdlife, so carrying a pair of binoculars will greatly enhance your wildlife spotting.",
+            "fr": "Reconnectez-vous avec la nature au lac de Monestié, qui offre de beaux sentiers au bord de l'eau et une avifaune locale ; emporter des jumelles améliorera grandement l'observation de la faune."
           }
         }
       ],
@@ -429,7 +472,8 @@
         "de": "Beginnen Sie Ihre Radtour mit der Erkundung der prächtigen Kirche Saint-Sauveur. Gegen Mittag radeln Sie am Rathaus vorbei zum Hafen Cousteau. Der Nachmittag führt Sie zum malerischen Lac des Très Cassés für eine friedliche Pause. Beenden Sie Ihren aktiven Tag mit einer entspannten Fahrt in den Sonnenuntergang am Lac de Monestié.",
         "hu": "Indítsa kerékpártúráját a csodálatos Saint-Sauveur templom felfedezésével. Dél körül tekerjen el a grandiózus Városháza mellett a Cousteau kikötőhöz. A délután a festői Lac des Très Cassés tóhoz viszi egy békés pihenőre. Zárja az aktív napot egy pihentető naplementés tekeréssel a Lac de Monestié csendes partjainál.",
         "ro": "Începeți turul cu bicicleta explorând magnifica Biserică Saint-Sauveur. Pe la prânz, pedalați pe lângă Primărie și luați o gustare la Portul Cousteau. După-amiaza vă duce la pitorescul Lac des Très Cassés pentru o pauză. Încheiați-vă ziua activă cu o plimbare relaxantă la apus de-a lungul malurilor de la Lac de Monestié.",
-        "en": "Kick off your cycling tour by exploring the magnificent Saint-Sauveur Church. Around midday, pedal past the grand Town Hall and grab a quick bite at the Cousteau Port. The afternoon takes you out to the scenic Lac des Très Cassés for a peaceful break. End your active day with a relaxing sunset ride along the quiet shores of Lac de Monestié."
+        "en": "Kick off your cycling tour by exploring the magnificent Saint-Sauveur Church. Around midday, pedal past the grand Town Hall and grab a quick bite at the Cousteau Port. The afternoon takes you out to the scenic Lac des Très Cassés for a peaceful break. End your active day with a relaxing sunset ride along the quiet shores of Lac de Monestié.",
+        "fr": "Commencez votre sortie à vélo par la magnifique église Saint-Sauveur. Vers midi, pédalez devant la grande mairie et prenez un en-cas au port Cousteau. L'après-midi vous mène au pittoresque lac des Très Cassés pour une pause paisible. Terminez la journée active par une balade au coucher du soleil le long des rives tranquilles du lac de Monestié."
       },
       "variants": {
         "rainy": {
@@ -437,7 +481,8 @@
             "de": "Der Tag beginnt mit nassen Straßen, was beim Radfahren erhöhte Vorsicht erfordert. Mittags suchen wir Schutz unter städtischen Arkaden, um kurz bei einem heißen Getränk durchzuatmen. Am Nachmittag führt der Weg zu den Seen, wo die Wege bei Regen schlammig sein können. Der Abend endet früh, da das Fahren bei Nässe und schlechter Sicht sehr ermüdend ist.",
             "hu": "A nap nedves utakkal indul, ami fokozott figyelmet igényel kerékpározás közben. Délben a városi árkádok alatt keresünk menedéket egy rövid pihenőre és egy forró italra. Délután az út a tavakhoz vezet, ahol az esőben sárosak lehetnek az ösvények. Az este korán véget ér, mivel a vizes úton és rossz látási viszonyoknál fárasztó a tekerés.",
             "ro": "Ziua începe cu drumuri ude, ceea ce necesită o atenție sporită în timpul pedalatului. La prânz căutăm adăpost sub arcadele orașului pentru o scurtă pauză și o băutură caldă. După-amiaza, drumul duce spre lacuri, unde potecile pot fi noroioase. Seara se încheie devreme, deoarece pedalatul pe carosabil ud și vizibilitate redusă este obositor.",
-            "en": "The day starts with wet roads, requiring extra caution while cycling today. At noon, we seek shelter under city arcades for a quick break and perhaps a hot drink. In the afternoon, the route leads to the lakes, where paths can be quite muddy in the rain. The evening ends early, as cycling on wet surfaces and in poor visibility is very tiring."
+            "en": "The day starts with wet roads, requiring extra caution while cycling today. At noon, we seek shelter under city arcades for a quick break and perhaps a hot drink. In the afternoon, the route leads to the lakes, where paths can be quite muddy in the rain. The evening ends early, as cycling on wet surfaces and in poor visibility is very tiring.",
+            "fr": "La journée débute avec des routes mouillées, exigeant une vigilance accrue à vélo. À midi, abritez-vous sous les arcades de la ville pour une pause et peut-être une boisson chaude. L'après-midi, la route vers les lacs peut être très boueuse. La soirée se termine tôt : pédaler sur des surfaces mouillées et par mauvaise visibilité est très fatigant."
           },
           "stops": [
             {
@@ -445,13 +490,15 @@
                 "de": "Saint-Sauveur Kirche",
                 "hu": "Saint-Sauveur templom",
                 "ro": "Biserica Saint-Sauveur",
-                "en": "Saint-Sauveur Church"
+                "en": "Saint-Sauveur Church",
+                "fr": "Église Saint-Sauveur"
               },
               "tip_5lang": {
                 "de": "Stellen Sie Ihr Rad an einem geschützten Ort ab und nutzen Sie die Kirche als trockenen Rückzugsort vor dem nächsten Schauer, um die Kette zu schonen.",
                 "hu": "Parkolja le kerékpárját egy védett helyen, és használja a templomot száraz menedékként a következő zápor előtt, hogy a láncot is megóvja a sok víztől.",
                 "ro": "Parcați bicicleta într-un loc protejat și folosiți biserica ca refugiu uscat înainte de următoarea aversă, protejând astfel și lanțul de excesul de apă.",
-                "en": "Park your bike in a protected spot and use the church as a dry retreat before the next rain shower starts to protect the chain from getting too wet."
+                "en": "Park your bike in a protected spot and use the church as a dry retreat before the next rain shower starts to protect the chain from getting too wet.",
+                "fr": "Garez votre vélo à l'abri et utilisez l'église comme refuge sec avant que la prochaine averse ne commence, pour protéger la chaîne de l'humidité."
               }
             },
             {
@@ -459,13 +506,15 @@
                 "de": "Rathaus Castelsarrasin",
                 "hu": "Castelsarrasin Városháza",
                 "ro": "Primăria Castelsarrasin",
-                "en": "Castelsarrasin Town Hall"
+                "en": "Castelsarrasin Town Hall",
+                "fr": "Mairie de Castelsarrasin"
               },
               "tip_5lang": {
                 "de": "Vorsicht vor Kopfsteinpflaster in Rathausnähe; dieses wird bei Regen extrem rutschig für schmale Fahrradreifen und erfordert langsames Fahren und Bremsen.",
                 "hu": "Vigyázzon a városháza környéki macskakövekre; ezek esőben rendkívül csúszóssá válnak a vékony kerékpárgumik számára, lassítson és óvatosan fékezzen.",
                 "ro": "Atenție la piatra cubică de lângă primărie; aceasta devine extrem de alunecoasă pentru anvelopele subțiri de bicicletă, deci încetiniți și frânați cu mare grijă.",
-                "en": "Watch out for cobblestones near the town hall; they become extremely slippery for thin bike tires in the rain, so slow down and brake very carefully."
+                "en": "Watch out for cobblestones near the town hall; they become extremely slippery for thin bike tires in the rain, so slow down and brake very carefully.",
+                "fr": "Attention aux pavés près de la mairie ; ils deviennent extrêmement glissants pour des pneus fins sous la pluie, ralentissez et freinez très prudemment."
               }
             },
             {
@@ -473,13 +522,15 @@
                 "de": "Hafen Jacques-Yves Cousteau",
                 "hu": "Jacques-Yves Cousteau kikötő",
                 "ro": "Portul Jacques-Yves Cousteau",
-                "en": "Jacques-Yves Cousteau Port"
+                "en": "Jacques-Yves Cousteau Port",
+                "fr": "Port Jacques-Yves Cousteau"
               },
               "tip_5lang": {
                 "de": "Schutzbleche am Rad sind heute unverzichtbar, um sich vor dem Spritzwasser des Kanaluferwegs zu schützen und die Kleidung während der Fahrt sauber zu halten.",
                 "hu": "A sárvédő ma elengedhetetlen a kerékpáron, hogy megvédje Önt a csatornaparti út felverődő vizétől és tisztán tartsa az öltözetét a túra során.",
                 "ro": "Apărătorile de noroi sunt indispensabile astăzi pentru a vă proteja de apa împroșcată pe drumul de pe malul canalului și pentru a vă păstra hainele curate.",
-                "en": "Mudguards are essential on your bike today to protect you from the spray on the canal-side path and keep your clothes clean throughout the entire tour."
+                "en": "Mudguards are essential on your bike today to protect you from the spray on the canal-side path and keep your clothes clean throughout the entire tour.",
+                "fr": "Des garde-boue sont indispensables aujourd'hui pour protéger des projections sur le chemin le long du canal et garder vos vêtements propres pendant toute la sortie."
               }
             },
             {
@@ -487,13 +538,15 @@
                 "de": "Lac des Très Cassés",
                 "hu": "Lac des Très Cassés",
                 "ro": "Lac des Très Cassés",
-                "en": "Lac des Très Cassés"
+                "en": "Lac des Très Cassés",
+                "fr": "Lac des Très Cassés"
               },
               "tip_5lang": {
                 "de": "Die Naturwege rund um den See können aufweichen; fahren Sie langsam, um die Kontrolle über das Rad nicht zu verlieren und tiefe Schlammlöcher zu umfahren.",
                 "hu": "A tó körüli természetes utak felázhatnak; tekerjen lassan, hogy ne veszítse el az uralmat a kerékpár felett és elkerülje a mélyebb saras gödröket.",
                 "ro": "Potecile naturale din jurul lacului se pot înmuia; pedalați încet pentru a nu pierde controlul asupra bicicletei și evitați gropile cu noroi mai adânci.",
-                "en": "The natural paths around the lake can get soft; cycle slowly to avoid losing control of your bike and try to steer around the deeper muddy patches."
+                "en": "The natural paths around the lake can get soft; cycle slowly to avoid losing control of your bike and try to steer around the deeper muddy patches.",
+                "fr": "Les sentiers naturels autour du lac peuvent s'assouplir ; roulez lentement pour éviter de perdre le contrôle et évitez les zones de boue plus profonde."
               }
             },
             {
@@ -501,13 +554,15 @@
                 "de": "Lac de Monestié",
                 "hu": "Lac de Monestié",
                 "ro": "Lac de Monestié",
-                "en": "Lac de Monestié"
+                "en": "Lac de Monestié",
+                "fr": "Lac de Monestié"
               },
               "tip_5lang": {
                 "de": "Wischen Sie den Sattel nach der Pause trocken und tragen Sie eine wasserfeste Jacke für den Rückweg durch den anhaltenden Regen in Richtung Stadt.",
                 "hu": "A pihenő után törölje szárazra a nyerget, és viseljen vízálló dzsekit az esőben való visszatekeréshez a város irányába tartó utolsó szakaszon.",
                 "ro": "Ștergeți șaua după pauză și purtați o jachetă impermeabilă pentru drumul de întoarcere prin ploaia persistentă spre oraș pe ultima parte a traseului.",
-                "en": "Wipe the saddle dry after your break and wear a waterproof jacket for the ride back through the persistent rain toward the town on the final stretch."
+                "en": "Wipe the saddle dry after your break and wear a waterproof jacket for the ride back through the persistent rain toward the town on the final stretch.",
+                "fr": "Essuyez la selle après votre pause et portez une veste imperméable pour le retour sous la pluie persistante vers la ville sur le dernier tronçon."
               }
             }
           ]
@@ -517,7 +572,8 @@
             "de": "Der Wintermorgen ist eiskalt, daher sind warme Handschuhe und Bewegung der Schlüssel zum Komfort. Mittags machen wir eine Pause im Stadtzentrum, um die steifen Finger aufzuwärmen. Am Nachmittag genießen wir die klare Luft bei einer Fahrt zu den Seen. Da es bereits gegen 17:00 Uhr dunkelt, stellen wir die volle Funktion der Beleuchtung sicher.",
             "hu": "A téli reggel jéghideg, ezért a meleg kesztyű és a folyamatos mozgás a kulcs a komfortérzethez. Délben pihenőt tartunk a központban, hogy felmelegítsük átfagyott ujjainkat. Délután a friss levegőt élvezzük a tavak felé tekerve. Mivel 17:00 körül már sötétedik, győződjön meg a kerékpár világításának teljes működéséről.",
             "ro": "Dimineața de iarnă este înghețată, așa că mănușile groase și mișcarea sunt esențiale pentru confort. La prânz facem o pauză în centru pentru a ne încălzi degetele amorțite. După-amiaza ne bucurăm de aerul curat pedalând spre lacuri. Deoarece se întunecă deja în jur de ora 17:00, verificați funcționarea luminilor.",
-            "en": "The winter morning is ice-cold, so warm gloves and constant movement are key to staying comfortable. At noon, we take a break in the center to warm up frozen fingers. In the afternoon, we enjoy the crisp air while cycling toward the lakes. Since it gets dark around 17:00, ensure your bike lights are fully operational."
+            "en": "The winter morning is ice-cold, so warm gloves and constant movement are key to staying comfortable. At noon, we take a break in the center to warm up frozen fingers. In the afternoon, we enjoy the crisp air while cycling toward the lakes. Since it gets dark around 17:00, ensure your bike lights are fully operational.",
+            "fr": "La matinée hivernale est glaciale : gants chauds et mouvement constant sont essentiels pour rester confortable. À midi, faites une pause au centre pour réchauffer vos doigts gelés. L'après-midi, profitez de l'air vif en pédalant vers les lacs. Comme il fait nuit vers 17:00, vérifiez que les éclairages du vélo fonctionnent parfaitement."
           },
           "stops": [
             {
@@ -525,13 +581,15 @@
                 "de": "Saint-Sauveur Kirche",
                 "hu": "Saint-Sauveur templom",
                 "ro": "Biserica Saint-Sauveur",
-                "en": "Saint-Sauveur Church"
+                "en": "Saint-Sauveur Church",
+                "fr": "Église Saint-Sauveur"
               },
               "tip_5lang": {
                 "de": "Besuchen Sie die Kirche für einen Moment der inneren Einkehr und nutzen Sie die windgeschützte Lage zum Aufwärmen, bevor Sie die Fahrt fortsetzen.",
                 "hu": "Látogasson el a templomba egy pillanatnyi elcsendesedésre, és használja ki a szélvédett helyet a bemelegedéshez, mielőtt továbbfolytatná a kerékpártúrát.",
                 "ro": "Vizitați biserica pentru un moment de reculegere și folosiți locația ferită de vânt pentru a vă încălzi înainte de a continua tura cu bicicleta.",
-                "en": "Visit the church for a moment of quiet reflection and use the wind-sheltered location to warm up a bit before continuing your cycling tour."
+                "en": "Visit the church for a moment of quiet reflection and use the wind-sheltered location to warm up a bit before continuing your cycling tour.",
+                "fr": "Visitez l'église pour un moment de recueillement et profitez de son emplacement abrité du vent pour vous réchauffer un peu avant de poursuivre votre tour à vélo."
               }
             },
             {
@@ -539,13 +597,15 @@
                 "de": "Rathaus Castelsarrasin",
                 "hu": "Castelsarrasin Városháza",
                 "ro": "Primăria Castelsarrasin",
-                "en": "Castelsarrasin Town Hall"
+                "en": "Castelsarrasin Town Hall",
+                "fr": "Mairie de Castelsarrasin"
               },
               "tip_5lang": {
                 "de": "Achten Sie auf mögliche Eisstellen auf den schattigen Plätzen rund um das Rathaus; fahren Sie hier besonders vorsichtig und vermeiden Sie scharfe Kurven.",
                 "hu": "Ügyeljen az esetleges jeges foltokra a városháza körüli árnyékos tereken; tekerjen itt különösen óvatosan és kerülje a hirtelen kanyarodást.",
                 "ro": "Atenție la eventualele porțiuni cu gheață din piețele umbrite din jurul primăriei; pedalați cu mare prudență și evitați virajele bruște în această zonă.",
-                "en": "Watch out for potential icy patches in the shaded squares around the town hall; cycle with extra care here and avoid making any sharp turns."
+                "en": "Watch out for potential icy patches in the shaded squares around the town hall; cycle with extra care here and avoid making any sharp turns.",
+                "fr": "Attention aux plaques de verglas possibles sur les places ombragées autour de la mairie ; pédalez avec prudence et évitez les virages brusques."
               }
             },
             {
@@ -553,13 +613,15 @@
                 "de": "Hafen Jacques-Yves Cousteau",
                 "hu": "Jacques-Yves Cousteau kikötő",
                 "ro": "Portul Jacques-Yves Cousteau",
-                "en": "Jacques-Yves Cousteau Port"
+                "en": "Jacques-Yves Cousteau Port",
+                "fr": "Port Jacques-Yves Cousteau"
               },
               "tip_5lang": {
                 "de": "Die feuchte Kälte am Kanal zieht schnell in die Kleidung; tragen Sie Thermounterwäsche für die Fahrt am Ufer, um den Körper warm und trocken zu halten.",
                 "hu": "A csatorna menti nyirkos hideg gyorsan átjárja az öltözetet; viseljen termo alsóruházatot a parti tekeréshez, hogy teste melegen és szárazon maradjon.",
                 "ro": "Frigul umed de lângă canal pătrunde rapid prin haine; purtați lenjerie termică pentru pedalatul pe mal, menținând corpul cald și uscat pe tot parcursul zilei.",
-                "en": "The damp cold along the canal quickly penetrates clothing; wear thermal layers for the ride along the water to keep your body warm and dry all day."
+                "en": "The damp cold along the canal quickly penetrates clothing; wear thermal layers for the ride along the water to keep your body warm and dry all day.",
+                "fr": "L’humidité froide le long du canal pénètre rapidement les vêtements ; portez des couches thermiques pour le parcours au bord de l’eau afin de rester au chaud et au sec toute la journée."
               }
             },
             {
@@ -567,13 +629,15 @@
                 "de": "Lac des Très Cassés",
                 "hu": "Lac des Très Cassés",
                 "ro": "Lac des Très Cassés",
-                "en": "Lac des Très Cassés"
+                "en": "Lac des Très Cassés",
+                "fr": "Lac des Très Cassés"
               },
               "tip_5lang": {
                 "de": "Der winterliche See bietet ein ruhiges Panorama; halten Sie die Pausen kurz, um nicht zu stark auszukühlen und die Muskeln auf Betriebstemperatur zu halten.",
                 "hu": "A téli tó nyugodt panorámát nyújt; tartsa röviden a pihenőket, hogy ne hűljön ki túlságosan a szervezete és az izmai ne merevedjenek meg a hidegben.",
                 "ro": "Lacul hibernal oferă o panoramă liniștită; păstrați pauzele scurte pentru a nu vă răci prea tare și pentru a menține mușchii activi în ciuda gerului.",
-                "en": "The wintry lake offers a peaceful panorama; keep your breaks short to avoid getting too chilled and to keep your muscles warm despite the freezing air."
+                "en": "The wintry lake offers a peaceful panorama; keep your breaks short to avoid getting too chilled and to keep your muscles warm despite the freezing air.",
+                "fr": "Le lac hivernal offre un panorama paisible ; gardez les pauses courtes pour ne pas trop vous refroidir et pour préserver vos muscles malgré l’air glacial."
               }
             },
             {
@@ -581,13 +645,15 @@
                 "de": "Lac de Monestié",
                 "hu": "Lac de Monestié",
                 "ro": "Lac de Monestié",
-                "en": "Lac de Monestié"
+                "en": "Lac de Monestié",
+                "fr": "Lac de Monestié"
               },
               "tip_5lang": {
                 "de": "Genießen Sie den Sonnenuntergang am See gegen 17:00 Uhr und stellen Sie sicher, dass Ihre Reflektoren für den Rückweg in der Dunkelheit gut sichtbar sind.",
                 "hu": "Élvezze a naplementét a tónál 17:00 körül, és győződjön meg róla, hogy a fényvisszaverői jól láthatóak a sötétben való biztonságos visszatekeréshez.",
                 "ro": "Bucurați-vă de apusul de pe lac în jur de ora 17:00 și asigurați-vă că elementele reflectorizante sunt vizibile pentru întoarcerea în siguranță pe întuneric.",
-                "en": "Enjoy the sunset by the lake around 17:00 and make sure your reflectors are clearly visible for the safe ride back to the town in the growing darkness."
+                "en": "Enjoy the sunset by the lake around 17:00 and make sure your reflectors are clearly visible for the safe ride back to the town in the growing darkness.",
+                "fr": "Profitez du coucher de soleil au lac vers 17:00 et assurez-vous que vos catadioptres sont bien visibles pour un retour en sécurité vers la ville dans l’obscurité grandissante."
               }
             }
           ]
@@ -607,7 +673,8 @@
             "de": "Saint-Jean Kirche",
             "hu": "Szent János-templom",
             "ro": "Biserica Saint-Jean",
-            "en": "Saint-Jean Church"
+            "en": "Saint-Jean Church",
+            "fr": "Église Saint-Jean"
           },
           "coords": [
             1.104521,
@@ -622,7 +689,8 @@
             "de": "Erkunden Sie die historische Saint-Jean Kirche mit ihrem markanten Glockenturm und der friedlichen Atmosphäre, wobei Sie im Inneren auf angemessene Kleidung achten sollten.",
             "hu": "Fedezze fel a történelmi Szent János-templomot, amely egyedi harangtornyáról és békés hangulatáról ismert, de a belépéshez szerény öltözet és néma csend szükségeltetik.",
             "ro": "Explorați biserica istorică Saint-Jean, remarcabilă prin turnul său distinct și ambianța liniștită, unde intrarea necesită o ținută decentă și un moment de tăcere respectuoasă.",
-            "en": "Explore the historic Saint-Jean Church, notable for its distinct bell tower and peaceful ambiance, while stepping inside requires modest dress and a moment of respectful silence."
+            "en": "Explore the historic Saint-Jean Church, notable for its distinct bell tower and peaceful ambiance, while stepping inside requires modest dress and a moment of respectful silence.",
+            "fr": "Explorez l’historique Église Saint-Jean, remarquable par son clocher distinctif et son ambiance paisible ; l’entrée nécessite une tenue modeste et un moment de silence respectueux."
           }
         },
         {
@@ -630,7 +698,8 @@
             "de": "Aristide Briand Platz",
             "hu": "Aristide Briand tér",
             "ro": "Piața Aristide Briand",
-            "en": "Aristide Briand Square"
+            "en": "Aristide Briand Square",
+            "fr": "Place Aristide Briand"
           },
           "coords": [
             1.112683,
@@ -645,7 +714,8 @@
             "de": "Beginnen Sie Ihren Tag am Aristide Briand Platz, einer grünen Oase, die sich ideal für einen Spaziergang eignet, und holen Sie sich einen Kaffee für die schattigen Bänke.",
             "hu": "Kezdje a napot az Aristide Briand téren, egy zöldellő városi oázisban, amely tökéletes egy sétához, és ne felejtsen el kávét venni a közeli kávézóban az árnyékos padokhoz.",
             "ro": "Începeți-vă ziua în Piața Aristide Briand, o oază urbană verde perfectă pentru o plimbare și nu uitați să luați o cafea pentru a vă bucura de ea pe băncile umbrite.",
-            "en": "Start your day at Aristide Briand Square, a verdant urban oasis perfect for a morning stroll, and remember to grab a coffee at a nearby café to enjoy on the shaded benches."
+            "en": "Start your day at Aristide Briand Square, a verdant urban oasis perfect for a morning stroll, and remember to grab a coffee at a nearby café to enjoy on the shaded benches.",
+            "fr": "Commencez la journée à la Place Aristide Briand, un oasis urbain verdoyant parfait pour une balade matinale, et pensez à prendre un café dans un café voisin à déguster sur les bancs ombragés."
           }
         },
         {
@@ -653,7 +723,8 @@
             "de": "Lac des Fourrières",
             "hu": "Lac des Fourrières",
             "ro": "Lac des Fourrières",
-            "en": "Lac des Fourrières"
+            "en": "Lac des Fourrières",
+            "fr": "Lac des Fourrières"
           },
           "coords": [
             1.161112,
@@ -668,7 +739,8 @@
             "de": "Genießen Sie eine friedliche Pause am Lac des Fourrières, der für sein klares Wasser bekannt ist, wobei bequeme Wanderschuhe für die Wege dringend empfohlen werden.",
             "hu": "Élvezze a békés pihenést a Lac des Fourrières tónál, amely kristálytiszta vizéről és buja növényzetéről ismert, így a kényelmes sétacipő viselete kifejezetten ajánlott.",
             "ro": "Bucurați-vă de o pauză liniștită la Lac des Fourrières, un loc cu ape limpezi și vegetație luxuriantă, fiind recomandat să purtați pantofi confortabili pentru poteci.",
-            "en": "Enjoy a peaceful break at Lac des Fourrières, known for its pristine waters and lush surroundings, making it highly recommended to wear comfortable walking shoes for the trails."
+            "en": "Enjoy a peaceful break at Lac des Fourrières, known for its pristine waters and lush surroundings, making it highly recommended to wear comfortable walking shoes for the trails.",
+            "fr": "Faites une pause paisible au Lac des Fourrières, connu pour ses eaux limpides et son environnement luxuriant ; il est fortement recommandé de porter des chaussures de marche confortables pour les sentiers."
           }
         },
         {
@@ -676,7 +748,8 @@
             "de": "Lac de Malaurens",
             "hu": "Lac de Malaurens",
             "ro": "Lac de Malaurens",
-            "en": "Lac de Malaurens"
+            "en": "Lac de Malaurens",
+            "fr": "Lac de Malaurens"
           },
           "coords": [
             1.162196,
@@ -691,7 +764,8 @@
             "de": "Atmen Sie die frische Landluft am Lac de Malaurens ein, der fantastische Angelplätze bietet, wobei Insektenschutzmittel für einen angenehmen Aufenthalt am Wasser sorgt.",
             "hu": "Szívja magába a friss vidéki levegőt a Lac de Malaurens tónál, amely remek horgászhelyeket kínál, és ne felejtsen el szúnyogriasztót használni a tóparti kényelemért.",
             "ro": "Respirați aerul proaspăt de la Lac de Malaurens, un loc cu locuri fantastice de pescuit, unde un repelent de insecte vă va asigura o ședere confortabilă pe malul apei.",
-            "en": "Breathe in the fresh country air at Lac de Malaurens, offering fantastic fishing spots and shaded groves, where insect repellent will ensure a comfortable stay by the water."
+            "en": "Breathe in the fresh country air at Lac de Malaurens, offering fantastic fishing spots and shaded groves, where insect repellent will ensure a comfortable stay by the water.",
+            "fr": "Respirez l’air frais de la campagne au Lac de Malaurens, qui offre d’excellents emplacements de pêche et des bosquets ombragés ; un anti-moustique assurera un séjour agréable au bord de l’eau."
           }
         },
         {
@@ -699,7 +773,8 @@
             "de": "Le petit Saulous",
             "hu": "Le petit Saulous",
             "ro": "Le petit Saulous",
-            "en": "Le petit Saulous"
+            "en": "Le petit Saulous",
+            "fr": "Le petit Saulous"
           },
           "coords": [
             1.168356,
@@ -714,7 +789,8 @@
             "de": "Beenden Sie Ihre Seentour am Le petit Saulous, einem intimen Gewässer, aber überprüfen Sie das Wetter, da die unbefestigten Wege bei Regen schnell schlammig werden können.",
             "hu": "Zárja a tótúrát a Le petit Saulous-nál, egy eldugott, csendes vízfelületnél, de mindig ellenőrizze az időjárást, mivel a földutak könnyen sárossá válhatnak eső után.",
             "ro": "Încheiați-vă turul la Le petit Saulous, o apă intimă perfectă pentru reflecție, dar verificați condițiile meteo, deoarece potecile de pământ pot deveni noroioase.",
-            "en": "Conclude your lake tour at Le petit Saulous, an intimate and secluded body of water perfect for reflection, but check local weather conditions as the dirt paths can get muddy."
+            "en": "Conclude your lake tour at Le petit Saulous, an intimate and secluded body of water perfect for reflection, but check local weather conditions as the dirt paths can get muddy.",
+            "fr": "Concluez votre circuit des lacs à Le petit Saulous, un plan d’eau intime et isolé idéal pour la réflexion ; vérifiez les conditions météo locales car les chemins de terre peuvent devenir boueux."
           }
         }
       ],
@@ -722,7 +798,8 @@
         "de": "Ihre Autotour beginnt an der historischen Kirche Saint-Jean, gefolgt von einem Stopp am Aristide Briand Platz. Fahren Sie zum Mittagessen an den unberührten Lac des Fourrières. Verbringen Sie den Nachmittag damit, die üppige Umgebung des Lac de Malaurens zu erkunden. Beenden Sie Ihren Abend am abgeschiedenen See Le petit Saulous.",
         "hu": "Autós túrája a történelmi Szent János-templomnál kezdődik, amelyet egy rövid megálló követ a központi Aristide Briand téren. Ebédidőben vezessen el a kristálytiszta Lac des Fourrières tóhoz. A délutánt a Lac de Malaurens körüli buja környezet felfedezésével töltheti. Zárja az estét az eldugott Le petit Saulous partjainál.",
         "ro": "Traseul dvs. cu mașina începe la Biserica istorică Saint-Jean, urmată de o oprire rapidă în Piața Aristide Briand. Pentru prânz, conduceți spre Lac des Fourrières pentru a vă relaxa. Petreceți după-amiaza explorând mediul verde din jurul Lac de Malaurens. Încheiați-vă seara la locul retras Le petit Saulous.",
-        "en": "Your driving route starts right at the historical Saint-Jean Church, followed by a quick stop at the central Aristide Briand Square. For lunch, drive out to the pristine Lac des Fourrières for a relaxing waterside view. Spend the afternoon exploring the lush environments around Lac de Malaurens. Conclude your evening at the secluded Le petit Saulous."
+        "en": "Your driving route starts right at the historical Saint-Jean Church, followed by a quick stop at the central Aristide Briand Square. For lunch, drive out to the pristine Lac des Fourrières for a relaxing waterside view. Spend the afternoon exploring the lush environments around Lac de Malaurens. Conclude your evening at the secluded Le petit Saulous.",
+        "fr": "Votre itinéraire en voiture commence juste à l’historique Église Saint-Jean, suivi d’un arrêt rapide à la centrale Place Aristide Briand. Pour le déjeuner, rendez-vous au paisible Lac des Fourrières pour une vue relaxante au bord de l’eau. Passez l’après-midi à explorer les environnements luxuriants autour du Lac de Malaurens. Terminez votre soirée au retiré Le petit Saulous."
       },
       "variants": {
         "rainy": {
@@ -730,7 +807,8 @@
             "de": "Bei Regen ist das Auto das ideale Transportmittel, um die Umgebung bequem zu erkunden. Mittags steuern wir das Stadtzentrum an, wo wir trotz Schauer trocken ankommen. Am Nachmittag führt die Fahrt zu den abgelegenen Seen, wobei die Scheibenwischer im Dauereinsatz sind. Der Abend klingt bei einer gemütlichen Rückfahrt durch die weite, regnerische Landschaft aus.",
             "hu": "Esőben az autó az ideális közlekedési eszköz, amellyel kényelmesen felfedezhető a környék. Délben a városközpont felé vesszük az irányt, ahová a záporok ellenére is szárazon érkezünk meg. Délután a távolabbi tavakhoz autózunk, miközben az ablaktörlők folyamatosan dolgoznak. Az este egy kellemes autózással zárul a víztől csillogó, tágas tájon át.",
             "ro": "Pe ploaie, mașina este mijlocul de transport ideal pentru a explora împrejurimile în confort. La prânz ne îndreptăm spre centrul orașului, unde ajungem uscați în ciuda averselor. După-amiaza conducem spre lacurile mai îndepărtate, cu ștergătoarele în funcțiune continuă. Seara se încheie cu o plimbare plăcută prin peisajul rural strălucitor de apă.",
-            "en": "In the rain, the car is the ideal mode of transport to explore the surroundings comfortably. At noon, we head toward the town center, arriving dry despite the persistent showers. In the afternoon, we drive to the distant lakes with the wipers working continuously. The evening concludes with a pleasant drive through the water-glistening, wide landscape."
+            "en": "In the rain, the car is the ideal mode of transport to explore the surroundings comfortably. At noon, we head toward the town center, arriving dry despite the persistent showers. In the afternoon, we drive to the distant lakes with the wipers working continuously. The evening concludes with a pleasant drive through the water-glistening, wide landscape.",
+            "fr": "Sous la pluie, la voiture est le mode de transport idéal pour explorer les environs confortablement. À midi, nous nous dirigeons vers le centre-ville, arrivant au sec malgré les averses persistantes. L’après-midi, nous roulons vers les lacs lointains avec les essuie-glaces en fonctionnement continu. La soirée se conclut par une agréable promenade en voiture à travers le paysage vaste et scintillant d’eau."
           },
           "stops": [
             {
@@ -738,13 +816,15 @@
                 "de": "Saint-Jean Kirche",
                 "hu": "Szent János-templom",
                 "ro": "Biserica Saint-Jean",
-                "en": "Saint-Jean Church"
+                "en": "Saint-Jean Church",
+                "fr": "Église Saint-Jean"
               },
               "tip_5lang": {
                 "de": "Nutzen Sie die nahen Parkmöglichkeiten für einen kurzen Sprint zur Kirche, um dem Regen so gut wie möglich zu entgehen und die Kleidung trocken zu halten.",
                 "hu": "Használja a közeli parkolási lehetőségeket egy rövid sprinthez a templomig, hogy minél kevesebbet ázzon az esőben és ruházata száraz maradjon a látogatás alatt.",
                 "ro": "Folosiți locurile de parcare din apropiere pentru un scurt sprint până la biserică, evitând pe cât posibil ploaia și păstrând hainele uscate pe durata vizitei.",
-                "en": "Use the nearby parking options for a short dash to the church to avoid the rain as much as possible and keep your clothes dry during the interior visit."
+                "en": "Use the nearby parking options for a short dash to the church to avoid the rain as much as possible and keep your clothes dry during the interior visit.",
+                "fr": "Utilisez les parkings à proximité pour un court trajet jusqu’à l’église afin d’éviter au maximum la pluie et gardez vos vêtements secs pendant la visite intérieure."
               }
             },
             {
@@ -752,13 +832,15 @@
                 "de": "Aristide Briand Platz",
                 "hu": "Aristide Briand tér",
                 "ro": "Piața Aristide Briand",
-                "en": "Aristide Briand Square"
+                "en": "Aristide Briand Square",
+                "fr": "Place Aristide Briand"
               },
               "tip_5lang": {
                 "de": "Genießen Sie den Blick auf den Platz direkt aus dem warmen Auto oder steigen Sie nur kurz mit einem großen Schirm für ein schnelles Foto der Umgebung aus.",
                 "hu": "Élvezze a tér látványát közvetlenül a meleg autóból, vagy csak rövid időre szálljon ki egy nagy esernyővel, hogy készítsen egy gyors fotót a környékről.",
                 "ro": "Bucurați-vă de priveliștea pieței direct din mașina caldă sau coborâți doar pentru scurt timp cu o umbrelă mare pentru o fotografie rapidă a împrejurimilor.",
-                "en": "Enjoy the view of the square directly from the warm car, or step out only briefly with a large umbrella to take a quick photo of the rainy surroundings."
+                "en": "Enjoy the view of the square directly from the warm car, or step out only briefly with a large umbrella to take a quick photo of the rainy surroundings.",
+                "fr": "Profitez de la vue sur la place depuis la voiture chauffée, ou sortez brièvement sous un grand parapluie pour prendre une photo rapide des environs pluvieux."
               }
             },
             {
@@ -766,13 +848,15 @@
                 "de": "Lac des Fourrières",
                 "hu": "Lac des Fourrières",
                 "ro": "Lac des Fourrières",
-                "en": "Lac des Fourrières"
+                "en": "Lac des Fourrières",
+                "fr": "Lac des Fourrières"
               },
               "tip_5lang": {
                 "de": "Parken Sie so nah wie möglich am Ufer; der Blick auf den verregneten See ist auch durch die Windschutzscheibe bei laufender Heizung äußerst reizvoll.",
                 "hu": "Parkoljon minél közelebb a parthoz; az eső áztatta tó látványa a szélvédőn keresztül, a fűtött autó kényelméből is rendkívül hangulatos és megnyugtató.",
                 "ro": "Parcați cât mai aproape de mal; priveliștea lacului plouat este foarte atmosferică chiar și prin parbriz, savurată din confortul interior al mașinii încălzite.",
-                "en": "Park as close to the shore as possible; the view of the rain-soaked lake is very atmospheric even through the windshield from the comfort of your heated car."
+                "en": "Park as close to the shore as possible; the view of the rain-soaked lake is very atmospheric even through the windshield from the comfort of your heated car.",
+                "fr": "Garez-vous au plus près du rivage ; la vue du lac imbibé de pluie est très atmosphérique même à travers le pare-brise depuis le confort de votre voiture chauffée."
               }
             },
             {
@@ -780,13 +864,15 @@
                 "de": "Lac de Malaurens",
                 "hu": "Lac de Malaurens",
                 "ro": "Lac de Malaurens",
-                "en": "Lac de Malaurens"
+                "en": "Lac de Malaurens",
+                "fr": "Lac de Malaurens"
               },
               "tip_5lang": {
                 "de": "Die Zufahrtswege können bei starkem Regen rutschig sein; fahren Sie vorsichtig und achten Sie auf tiefe Pfützen, die Aquaplaning verursachen könnten.",
                 "hu": "A hozzivezető utak heves esőzéskor csúszósak lehetnek; vezessen óvatosan és ügyeljen a mélyebb tócsákra, amelyek vízenfutást (aquaplaning) okozhatnak.",
                 "ro": "Drumurile de acces pot fi alunecoase în caz de ploaie torențială; conduceți cu prudență și atenție la bălțile adânci care pot provoca fenomenul de acvaplanare.",
-                "en": "Access roads can be slippery during heavy rain; drive carefully and watch out for deep puddles that could cause aquaplaning on the way to the lakeside."
+                "en": "Access roads can be slippery during heavy rain; drive carefully and watch out for deep puddles that could cause aquaplaning on the way to the lakeside.",
+                "fr": "Les voies d’accès peuvent être glissantes par forte pluie ; conduisez prudemment et méfiez-vous des flaques profondes qui pourraient provoquer de l’aquaplanage sur la route du bord du lac."
               }
             },
             {
@@ -794,13 +880,15 @@
                 "de": "Le petit Saulous",
                 "hu": "Le petit Saulous",
                 "ro": "Le petit Saulous",
-                "en": "Le petit Saulous"
+                "en": "Le petit Saulous",
+                "fr": "Le petit Saulous"
               },
               "tip_5lang": {
                 "de": "Bewundern Sie die ländliche Idylle im Regen; eine Taschenlampe im Auto hilft, falls Sie bei Dunkelheit und Nässe für einen Moment aussteigen möchten.",
                 "hu": "Csodálja meg a vidéki idillt az esőben; egy zseblámpa az autóban segíthet, ha sötétben és esőben szeretne kiszállni egy pillanatra körülnézni a mezőn.",
                 "ro": "Admirați idila rurală pe ploaie; o lanternă în mașină vă poate ajuta dacă doriți să coborâți pentru o clipă pe întuneric și umezeală pentru a vedea câmpul.",
-                "en": "Admire the rural idyll in the rain; keeping a flashlight in the car helps if you want to step out for a moment in the dark and wet to see the fields."
+                "en": "Admire the rural idyll in the rain; keeping a flashlight in the car helps if you want to step out for a moment in the dark and wet to see the fields.",
+                "fr": "Admirez l’idylle rurale sous la pluie ; garder une lampe de poche dans la voiture aide si vous souhaitez sortir un instant dans le noir et le mouillé pour voir les champs."
               }
             }
           ]
@@ -810,7 +898,8 @@
             "de": "Ein kalter Wintertag lässt sich am besten in einem gut beheizten Auto genießen. Mittags erreichen wir das Stadtzentrum, wo wir nur kurz der Kälte ausgesetzt sind. Am Nachmittag führt die Route durch die frostige Landschaft zu den umliegenden Seen. Da die Sonne gegen 17:00 Uhr untergeht, planen wir die Rückfahrt bereits bei einsetzender Dämmerung.",
             "hu": "A hideg téli napot a legkellemesebben egy jól fűtött autóban élvezhetjük. Délben érjük el a városközpontot, ahol csak rövid időre kell kitennünk magunkat a fagyos levegőnek. Délután az út a zúzmarás tájon át vezet a környező tavakhoz. Mivel 17:00 körül lemegy a nap, a visszautat már az alkonyat beálltakor tesszük meg.",
             "ro": "O zi rece de iarnă poate fi savurată cel mai bine într-o mașină bine încălzită. La prânz ajungem în centrul orașului, fiind expuși doar scurt timp gerului. După-amiaza traseul duce prin peisajul înghețat spre lacurile din jur. Deoarece soarele apune în jur de ora 17:00, planificăm întoarcerea la lăsarea serii.",
-            "en": "A cold winter day is best enjoyed in a well-heated car. At noon, we reach the town center, where we are only briefly exposed to the biting frost. In the afternoon, the route leads through the frosty landscape to the surrounding lakes. Since the sun sets around 17:00, we plan the return journey as dusk begins to fall."
+            "en": "A cold winter day is best enjoyed in a well-heated car. At noon, we reach the town center, where we are only briefly exposed to the biting frost. In the afternoon, the route leads through the frosty landscape to the surrounding lakes. Since the sun sets around 17:00, we plan the return journey as dusk begins to fall.",
+            "fr": "Une froide journée d’hiver se savoure mieux dans une voiture bien chauffée. À midi, nous atteignons le centre-ville, où nous ne sommes que brièvement exposés au froid mordant. L’après-midi, l’itinéraire traverse le paysage givré jusqu’aux lacs environnants. Comme le soleil se couche vers 17:00, nous prévoyons le retour au crépuscule."
           },
           "stops": [
             {
@@ -818,13 +907,15 @@
                 "de": "Saint-Jean Kirche",
                 "hu": "Szent János-templom",
                 "ro": "Biserica Saint-Jean",
-                "en": "Saint-Jean Church"
+                "en": "Saint-Jean Church",
+                "fr": "Église Saint-Jean"
               },
               "tip_5lang": {
                 "de": "Besichtigen Sie das prächtige Interieur und genießen Sie die windgeschützte Ruhe in der Kirche, bevor Sie schnell zurück ins warme Auto steigen.",
                 "hu": "Tekintse meg a pompás belső teret, és élvezze a templomi szélvédett nyugalmat, mielőtt gyorsan visszaszállna a kellemesen meleg autóba.",
                 "ro": "Vizitați interiorul somptuos și bucurați-vă de liniștea ferită de vânt din biserică înainte de a reveni rapid în mașina plăcut încălzită.",
-                "en": "Visit the grand interior and enjoy the wind-sheltered peace inside the church before quickly getting back into your comfortably warm car."
+                "en": "Visit the grand interior and enjoy the wind-sheltered peace inside the church before quickly getting back into your comfortably warm car.",
+                "fr": "Visitez le grand intérieur et profitez du calme abrité du vent à l’intérieur de l’église avant de remonter rapidement dans votre voiture confortablement chaude."
               }
             },
             {
@@ -832,13 +923,15 @@
                 "de": "Aristide Briand Platz",
                 "hu": "Aristide Briand tér",
                 "ro": "Piața Aristide Briand",
-                "en": "Aristide Briand Square"
+                "en": "Aristide Briand Square",
+                "fr": "Place Aristide Briand"
               },
               "tip_5lang": {
                 "de": "Die kahlen Bäume wirken im Winterlicht wie Skulpturen; ein kurzer Fotostopp lohnt sich definitiv, bevor die Finger in der Kälte zu steif werden.",
                 "hu": "A kopasz fák szoborszerűen hatnak a téli fényben; egy rövid fotómegálló mindenképpen megéri, mielőtt az ujjai túlontúl elgémberednének a hidegben.",
                 "ro": "Copacii golași par sculpturi în lumina iernii; o scurtă oprire pentru fotografii merită cu siguranță înainte ca degetele să vă înghețe în aerul rece.",
-                "en": "The bare trees look like sculptures in the winter light; a short photo stop is definitely worth it before your fingers get too stiff in the freezing air."
+                "en": "The bare trees look like sculptures in the winter light; a short photo stop is definitely worth it before your fingers get too stiff in the freezing air.",
+                "fr": "Les arbres dénudés ressemblent à des sculptures sous la lumière hivernale ; un court arrêt photo vaut vraiment la peine avant que vos doigts ne deviennent trop engourdis par le froid."
               }
             },
             {
@@ -846,13 +939,15 @@
                 "de": "Lac des Fourrières",
                 "hu": "Lac des Fourrières",
                 "ro": "Lac des Fourrières",
-                "en": "Lac des Fourrières"
+                "en": "Lac des Fourrières",
+                "fr": "Lac des Fourrières"
               },
               "tip_5lang": {
                 "de": "Achten Sie auf überfrierende Nässe auf dem Parkplatz am See und genießen Sie das klare Winterpanorama ganz entspannt aus dem Inneren des Autos.",
                 "hu": "Ügyeljen a lefagyott nedvességre a tónál lévő parkolóban, és élvezze a tiszta téli panorámát teljesen ellazulva az autó belső kényelméből.",
                 "ro": "Atenție la porțiunile înghețate din parcarea de lângă lac și bucurați-vă de panorama clară de iarnă într-un mod relaxat, direct din interiorul mașinii.",
-                "en": "Watch out for black ice in the lake parking lot and enjoy the clear winter panorama in total relaxation from the comfort of the car's interior."
+                "en": "Watch out for black ice in the lake parking lot and enjoy the clear winter panorama in total relaxation from the comfort of the car's interior.",
+                "fr": "Attention au verglas noir sur le parking du lac et appréciez le panorama hivernal dégagé en toute détente depuis l’intérieur chauffé de la voiture."
               }
             },
             {
@@ -860,13 +955,15 @@
                 "de": "Lac de Malaurens",
                 "hu": "Lac de Malaurens",
                 "ro": "Lac de Malaurens",
-                "en": "Lac de Malaurens"
+                "en": "Lac de Malaurens",
+                "fr": "Lac de Malaurens"
               },
               "tip_5lang": {
                 "de": "Die frostige Seelandschaft ist ein tolles Motiv; lassen Sie den Motor nicht unnötig laufen, während Sie kurz aussteigen, um die Aussicht zu bewundern.",
                 "hu": "A zúzmarás tóparti táj remek fotótéma; ne járassa feleslegesen a motort, miközben rövid időre kiszáll, hogy megcsodálja a téli kilátást.",
                 "ro": "Peisajul înghețat de pe malul lacului este un subiect foto excelent; nu lăsați motorul pornit inutil în timp ce coborâți scurt pentru a admira vederea.",
-                "en": "The frosty lakeside landscape is a great photo subject; don't leave the engine running unnecessarily while you step out briefly to admire the winter view."
+                "en": "The frosty lakeside landscape is a great photo subject; don't leave the engine running unnecessarily while you step out briefly to admire the winter view.",
+                "fr": "Le paysage gelé du bord du lac est un excellent sujet photo ; ne laissez pas le moteur tourner inutilement pendant que vous sortez brièvement pour admirer la vue d’hiver."
               }
             },
             {
@@ -874,13 +971,15 @@
                 "de": "Le petit Saulous",
                 "hu": "Le petit Saulous",
                 "ro": "Le petit Saulous",
-                "en": "Le petit Saulous"
+                "en": "Le petit Saulous",
+                "fr": "Le petit Saulous"
               },
               "tip_5lang": {
                 "de": "Beobachten Sie den Sonnenuntergang um 17:00 Uhr über den weiten Feldern und schalten Sie rechtzeitig das Abblendlicht für die sichere Rückfahrt ein.",
                 "hu": "Figyelje meg a naplementét 17:00-kor a tágas mezők felett, és időben kapcsolja be a tompított fényszórókat a biztonságos hazaúthoz az alkonyatban.",
                 "ro": "Observați apusul de la ora 17:00 peste câmpurile întinse și aprindeți din timp luminile de întâlnire pentru o întoarcere în siguranță pe înserat.",
-                "en": "Watch the sunset at 17:00 over the vast fields and remember to turn on your low-beam headlights in time for a safe return journey as dusk falls."
+                "en": "Watch the sunset at 17:00 over the vast fields and remember to turn on your low-beam headlights in time for a safe return journey as dusk falls.",
+                "fr": "Regardez le coucher de soleil à 17:00 sur les vastes champs et pensez à allumer vos feux de croisement à temps pour un retour en sécurité alors que le crépuscule tombe."
               }
             }
           ]

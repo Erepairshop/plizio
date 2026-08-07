@@ -31,7 +31,8 @@
             "de": "Morgendlicher Markt mit lokalen Spezialitäten.",
             "hu": "Reggeli piac helyi sajtokkal és felvágottakkal.",
             "ro": "Piața de dimineață cu brânzeturi și mezeluri locale.",
-            "en": "Morning market with local cheeses and charcuterie."
+            "en": "Morning market with local cheeses and charcuterie.",
+            "fr": "Marché du matin avec fromages et charcuterie locaux."
           }
         },
         {
@@ -49,7 +50,8 @@
             "de": "Das Geburtshaus von Napoleon I.",
             "hu": "Napóleon szülőháza, korhű bútorokkal.",
             "ro": "Casa natală a lui Napoleon I.",
-            "en": "The ancestral home of Napoleon Bonaparte."
+            "en": "The ancestral home of Napoleon Bonaparte.",
+            "fr": "La maison ancestrale de Napoléon Bonaparte."
           }
         },
         {
@@ -67,7 +69,8 @@
             "de": "Hier wurde Napoleon 1771 getauft.",
             "hu": "Itt keresztelték meg Napóleont 1771-ben.",
             "ro": "Locul unde a fost botezat Napoleon în 1771.",
-            "en": "Where Napoleon was baptized in 1771."
+            "en": "Where Napoleon was baptized in 1771.",
+            "fr": "Là où Napoléon a été baptisé en 1771."
           }
         },
         {
@@ -85,7 +88,8 @@
             "de": "Blick auf die Mauern am Meer.",
             "hu": "Lenyűgöző tengerparti falak és bástyák.",
             "ro": "Ziduri impunătoare lângă mare.",
-            "en": "Impressive sea-facing walls and bastions."
+            "en": "Impressive sea-facing walls and bastions.",
+            "fr": "Imposants murs et bastions faisant face à la mer."
           }
         },
         {
@@ -103,7 +107,8 @@
             "de": "Großer Platz mit Blick auf den Golf.",
             "hu": "Hatalmas tér, középen Napóleon szobrával.",
             "ro": "Piață vastă cu statuia lui Napoleon.",
-            "en": "Large square with a statue of Napoleon."
+            "en": "Large square with a statue of Napoleon.",
+            "fr": "Grande place avec une statue de Napoléon."
           }
         },
         {
@@ -121,7 +126,8 @@
             "de": "Bedeutende Sammlung italienischer Malerei.",
             "hu": "Kiemelkedő olasz festészeti gyűjtemény.",
             "ro": "Colecție importantă de pictură italiană.",
-            "en": "Significant collection of Italian paintings."
+            "en": "Significant collection of Italian paintings.",
+            "fr": "Collection importante de peintures italiennes."
           }
         }
       ],
@@ -129,7 +135,8 @@
         "de": "Entdecken Sie Ajaccios Altstadt zu Fuß. Der Morgen beginnt am belebten Place Foch, gefolgt von der Geschichte der Bonapartes. Nachmittags spazieren Sie entlang der Zitadelle zum großen Place de Gaulle und beenden den Tag im Palais Fesch unter Meisterwerken der Renaissance.",
         "hu": "Fedezze fel Ajaccio óvárosát gyalogosan. A reggel a nyüzsgő Place Foch-on indul, majd a Bonaparte család történetébe láthat bele. Délután a tengerparti Citadella mellett elsétálva érjük el a Place de Gaulle teret, a napot pedig a Palais Fesch reneszánsz remekművei között zárjuk.",
         "ro": "Explorați centrul vechi din Ajaccio la pas. Dimineața începe în efervescența din Place Foch, urmată de istoria familiei Bonaparte. După-amiaza, plimbarea pe lângă Citadelă vă duce spre Place de Gaulle, încheind ziua la Palais Fesch printre capodoperele Renașterii.",
-        "en": "Explore Ajaccio's old town on foot. Start your morning at the bustling Place Foch, then dive into the Bonaparte family history. In the afternoon, walk past the Citadel to the grand Place de Gaulle and end your day at Palais Fesch among Renaissance masterpieces."
+        "en": "Explore Ajaccio's old town on foot. Start your morning at the bustling Place Foch, then dive into the Bonaparte family history. In the afternoon, walk past the Citadel to the grand Place de Gaulle and end your day at Palais Fesch among Renaissance masterpieces.",
+        "fr": "Explorez la vieille ville d'Ajaccio à pied. Commencez la matinée sur la vivante Place Foch, puis plongez dans l'histoire de la famille Bonaparte. L'après-midi, longez la Citadelle jusqu'à la grande Place de Gaulle et terminez la journée au Palais Fesch parmi des chefs-d'œuvre de la Renaissance."
       },
       "gastro_picks": {
         "de": [
@@ -233,6 +240,11 @@
           "The old town is compact and best explored on foot.",
           "Mind the siesta: many small shops close between 12 PM and 2 PM.",
           "Wear comfortable shoes for the cobblestone streets."
+        ],
+        "fr": [
+          "La vieille ville est compacte et se visite idéalement à pied.",
+          "Attention à la sieste : beaucoup de petites boutiques ferment entre 12 h et 14 h.",
+          "Portez des chaussures confortables pour les rues pavées."
         ]
       }
     },
@@ -259,7 +271,8 @@
             "de": "Idealer Startpunkt für die Küstenroute.",
             "hu": "Ideális kiindulópont a tengerparti úthoz.",
             "ro": "Punct de plecare ideal pentru ruta de coastă.",
-            "en": "Ideal starting point for the coastal route."
+            "en": "Ideal starting point for the coastal route.",
+            "fr": "Point de départ idéal pour la route côtière."
           }
         },
         {
@@ -277,7 +290,8 @@
             "de": "Monumentale Gedenkstätte für Napoleon.",
             "hu": "Napóleon hatalmas emlékműve a Casone-nál.",
             "ro": "Monument impresionant dedicat lui Napoleon.",
-            "en": "Massive monument dedicated to Napoleon."
+            "en": "Massive monument dedicated to Napoleon.",
+            "fr": "Monument imposant dédié à Napoléon."
           }
         },
         {
@@ -295,7 +309,8 @@
             "de": "Panoramastraße entlang herrlicher Buchten.",
             "hu": "Panorámás kerékpárút gyönyörű öblök mentén.",
             "ro": "Drum panoramic de-a lungul golfurilor superbe.",
-            "en": "Scenic road along beautiful Mediterranean coves."
+            "en": "Scenic road along beautiful Mediterranean coves.",
+            "fr": "Route panoramique le long de magnifiques criques méditerranéennes."
           }
         },
         {
@@ -313,7 +328,8 @@
             "de": "Wanderung zum Turm mit 360-Grad-Blick.",
             "hu": "Gyalogút a toronyhoz, 360 fokos kilátással.",
             "ro": "Plimbare până la turn pentru o vedere panoramică.",
-            "en": "Hike to the tower for 360-degree sea views."
+            "en": "Hike to the tower for 360-degree sea views.",
+            "fr": "Montez jusqu'à la tour pour une vue à 360 degrés sur la mer."
           }
         },
         {
@@ -331,7 +347,8 @@
             "de": "Erfrischung im Schatten der Palmen.",
             "hu": "Frissítő a pálmafák árnyékában.",
             "ro": "O băutură rece sub umbra palmierilor.",
-            "en": "Cool down under the shade of the palms."
+            "en": "Cool down under the shade of the palms.",
+            "fr": "Refroidissez-vous à l'ombre des palmiers."
           }
         }
       ],
@@ -339,7 +356,8 @@
         "de": "Diese Radtour führt Sie aus der Stadt hinaus in die unberührte Natur. Nach dem Napoleon-Denkmal radeln Sie entlang der Küste bis zur Halbinsel der Sanguinaires-Inseln. Genießen Sie das kristallklare Wasser und die frische Meeresbrise, bevor Sie zum Hafen zurückkehren.",
         "hu": "Ez a kerékpártúra kivezeti Önt a városból a háborítatlan természetbe. A Napóleon-emlékmű után a part mentén kerekezünk a Sanguinaires-szigetek félszigetéig. Élvezze a kristálytiszta vizet és a tengeri szellőt, mielőtt visszatérne a kikötőbe.",
         "ro": "Această tură cu bicicleta vă scoate din oraș în mijlocul naturii neatinse. După monumentul lui Napoleon, pedalați de-a lungul coastei până la peninsula Sanguinaires. Bucurați-se de apele cristaline și briza mării înainte de a reveni în port.",
-        "en": "This bike tour takes you out of the city into untouched nature. After the Napoleon monument, pedal along the coast to the Sanguinaires Islands peninsula. Enjoy the crystal-clear water and sea breeze before returning to the harbor area."
+        "en": "This bike tour takes you out of the city into untouched nature. After the Napoleon monument, pedal along the coast to the Sanguinaires Islands peninsula. Enjoy the crystal-clear water and sea breeze before returning to the harbor area.",
+        "fr": "Cette excursion à vélo vous emmène hors de la ville vers une nature préservée. Après le monument à Napoléon, pédalez le long de la côte jusqu'à la péninsule des Îles Sanguinaires. Profitez de l'eau cristalline et de la brise marine avant de revenir au port."
       },
       "gastro_picks": {
         "de": [
@@ -443,6 +461,11 @@
           "The coastal road is mostly flat but very exposed to the sun.",
           "Carry plenty of water and sunblock.",
           "Rent an e-bike for a more relaxed ride to the islands."
+        ],
+        "fr": [
+          "La route côtière est majoritairement plate mais très exposée au soleil.",
+          "Emportez beaucoup d'eau et de la crème solaire.",
+          "Louez un vélo électrique pour une balade plus détendue jusqu'aux îles."
         ]
       }
     },
@@ -469,7 +492,8 @@
             "de": "Parken Sie im Parkhaus Diamant.",
             "hu": "Parkoljon a Diamant mélygarázsban.",
             "ro": "Parcați în parcarea subterană Diamant.",
-            "en": "Park at the Diamant underground garage."
+            "en": "Park at the Diamant underground garage.",
+            "fr": "Garez-vous au parking souterrain Diamant."
           }
         },
         {
@@ -487,7 +511,8 @@
             "de": "Zentraler Platz im Herzen der Altstadt.",
             "hu": "Központi tér az óváros szívében.",
             "ro": "Piața centrală în inima orașului vechi.",
-            "en": "Central square in the heart of the old town."
+            "en": "Central square in the heart of the old town.",
+            "fr": "Place centrale au cœur de la vieille ville."
           }
         },
         {
@@ -505,7 +530,8 @@
             "de": "Besuchen Sie die Kaiserlichen Gemächer.",
             "hu": "Látogasson el a császári lakosztályokba.",
             "ro": "Vizitați apartamentele imperiale.",
-            "en": "Visit the imperial apartments."
+            "en": "Visit the imperial apartments.",
+            "fr": "Visitez les appartements impériaux."
           }
         },
         {
@@ -523,7 +549,8 @@
             "de": "Großer Parkplatz direkt am Denkmal.",
             "hu": "Hatalmas parkoló közvetlenül az emlékműnél.",
             "ro": "Parcare mare chiar lângă monument.",
-            "en": "Large parking lot right by the monument."
+            "en": "Large parking lot right by the monument.",
+            "fr": "Grand parking juste à côté du monument."
           }
         },
         {
@@ -541,7 +568,8 @@
             "de": "Ein Muss für den Sonnenuntergang.",
             "hu": "Kihagyhatatlan helyszín a naplementéhez.",
             "ro": "Locație de neratat pentru apus.",
-            "en": "A must-visit spot for the sunset."
+            "en": "A must-visit spot for the sunset.",
+            "fr": "Un endroit incontournable pour le coucher du soleil."
           }
         }
       ],
@@ -549,7 +577,8 @@
         "de": "Mit dem Auto kombinieren wir das Stadtzentrum mit der spektakulären Küste. Vormittags erkunden wir den 'Kultur-Cluster' zu Fuß nach dem Parken. Danach fahren wir zum Napoleon-Denkmal und schließlich zur Parata-Halbinsel, um die roten Felsen der Sanguinaires-Inseln zu bewundern.",
         "hu": "Autóval kombináljuk a városközpontot a látványos tengerparttal. Délelőtt a 'Kulturális klasztert' fedezzük fel gyalog a parkolás után. Ezután az Austerlitz térre autózunk, végül pedig a Parata-félszigetre, hogy megcsodáljuk a Sanguinaires-szigetek vörös szikláit.",
         "ro": "Cu mașina combinăm centrul orașului cu coasta spectaculoasă. Dimineața explorăm 'Clusterul Cultural' pe jos după parcare. Apoi conducem spre Monumentul lui Napoleon și în final spre peninsula Parata pentru a admira stâncile roșii ale insulelor Sanguinaires.",
-        "en": "By car, we combine the city center with the spectacular coastline. In the morning, explore the 'Cultural Cluster' on foot after parking. Then, drive to the Napoleon Monument and finally to the Parata peninsula to admire the red rocks of the Sanguinaires Islands."
+        "en": "By car, we combine the city center with the spectacular coastline. In the morning, explore the 'Cultural Cluster' on foot after parking. Then, drive to the Napoleon Monument and finally to the Parata peninsula to admire the red rocks of the Sanguinaires Islands.",
+        "fr": "En voiture, on combine le centre-ville avec la spectaculaire côte. Le matin, explorez le « Cultural Cluster » à pied après le stationnement. Ensuite, conduisez jusqu'au Monument à Napoléon puis enfin à la péninsule de la Parata pour admirer les roches rouges des Îles Sanguinaires."
       },
       "gastro_picks": {
         "de": [
@@ -653,6 +682,11 @@
           "Parking in the center can be tough; use dedicated parking garages.",
           "The road to Sanguinaires is very busy during summer months.",
           "Be careful with narrow streets in the historic center."
+        ],
+        "fr": [
+          "Le stationnement au centre peut être difficile ; utilisez les parkings dédiés.",
+          "La route vers les Sanguinaires est très fréquentée pendant les mois d'été.",
+          "Faites attention aux rues étroites du centre historique."
         ]
       }
     },
@@ -679,7 +713,8 @@
             "de": "Bushaltestelle 'Fesch' direkt davor.",
             "hu": "A 'Fesch' buszmegálló közvetlenül előtte van.",
             "ro": "Stația de autobuz 'Fesch' chiar în față.",
-            "en": "Bus stop 'Fesch' is right in front."
+            "en": "Bus stop 'Fesch' is right in front.",
+            "fr": "L'arrêt de bus « Fesch » est juste en face."
           }
         },
         {
@@ -697,7 +732,8 @@
             "de": "Kurzer Spaziergang vom Museum.",
             "hu": "Rövid séta a múzeumtól.",
             "ro": "Scurtă plimbare de la muzeu.",
-            "en": "Short walk from the museum."
+            "en": "Short walk from the museum.",
+            "fr": "Courte promenade depuis le musée."
           }
         },
         {
@@ -715,7 +751,8 @@
             "de": "In den Gassen der Altstadt gelegen.",
             "hu": "Az óváros szűk utcáiban található.",
             "ro": "Situată pe străduțele orașului vechi.",
-            "en": "Located in the alleys of the old town."
+            "en": "Located in the alleys of the old town.",
+            "fr": "Situé dans les ruelles de la vieille ville."
           }
         },
         {
@@ -733,7 +770,8 @@
             "de": "Wunderschöne barocke Architektur.",
             "hu": "Gyönyörű barokk építészet.",
             "ro": "Arhitectură barocă superbă.",
-            "en": "Beautiful baroque architecture."
+            "en": "Beautiful baroque architecture.",
+            "fr": "Belle architecture baroque."
           }
         },
         {
@@ -751,7 +789,8 @@
             "de": "Wichtiger Umsteigepunkt für Busse.",
             "hu": "Fontos átszállópont a buszokhoz.",
             "ro": "Punct important de transfer pentru autobuze.",
-            "en": "Key transfer point for city buses."
+            "en": "Key transfer point for city buses.",
+            "fr": "Point de correspondance clé pour les bus urbains."
           }
         },
         {
@@ -769,7 +808,8 @@
             "de": "Linie 2 oder 5 bringt Sie hierher.",
             "hu": "A 2-es vagy 5-ös busz hozza ide.",
             "ro": "Linia 2 sau 5 vă aduce aici.",
-            "en": "Bus line 2 or 5 stops nearby."
+            "en": "Bus line 2 or 5 stops nearby.",
+            "fr": "La ligne 2 ou 5 s'arrête à proximité."
           }
         }
       ],
@@ -777,7 +817,8 @@
         "de": "Nutzen Sie das TCA-Busnetz, um Ajaccios wichtigste Punkte zu verbinden. Wir beginnen im Museumsviertel und erkunden das historische Zentrum zu Fuß. Nachmittags nehmen wir den Bus zum Place de Gaulle und weiter zum Napoleon-Denkmal, um die kaiserliche Geschichte in vollem Umfang zu erleben.",
         "hu": "Használja a TCA buszhálózatát Ajaccio főbb pontjainak összekötésére. A múzeumi negyedben kezdünk, majd gyalog fedezzük fel a történelmi központot. Délután busszal megyünk a Place de Gaulle-hoz, majd tovább a Napóleon-emlékműhöz, hogy teljes körűen átéljük a császári történelmet.",
         "ro": "Utilizați rețeaua de autobuze TCA pentru a conecta punctele principale din Ajaccio. Începem în cartierul muzeelor și explorăm centrul istoric pe jos. După-amiaza, luăm autobuzul spre Place de Gaulle și apoi spre Monumentul lui Napoleon pentru a trăi istoria imperială.",
-        "en": "Use the TCA bus network to connect Ajaccio's main landmarks. Start in the museum district and explore the historical center on foot. In the afternoon, take a bus to Place de Gaulle and further to the Napoleon Monument to fully experience the city's imperial history."
+        "en": "Use the TCA bus network to connect Ajaccio's main landmarks. Start in the museum district and explore the historical center on foot. In the afternoon, take a bus to Place de Gaulle and further to the Napoleon Monument to fully experience the city's imperial history.",
+        "fr": "Utilisez le réseau de bus TCA pour relier les principaux sites d'Ajaccio. Commencez dans le quartier des musées et découvrez le centre historique à pied. L'après-midi, prenez un bus jusqu'à la Place de Gaulle puis jusqu'au Monument à Napoléon pour vivre pleinement l'histoire impériale de la ville."
       },
       "gastro_picks": {
         "de": [
@@ -881,6 +922,11 @@
           "Tickets can be bought from the driver or via the app.",
           "Line 5 follows the coast all the way to Sanguinaires.",
           "Buses run less frequently on Sundays."
+        ],
+        "fr": [
+          "Les billets peuvent être achetés auprès du conducteur ou via l'application.",
+          "La ligne 5 longe la côte jusqu'aux Sanguinaires.",
+          "Les bus circulent moins fréquemment le dimanche."
         ]
       }
     }

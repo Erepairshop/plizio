@@ -21,7 +21,8 @@
             "de": "Parc du Joncas",
             "hu": "Parc du Joncas",
             "ro": "Parc du Joncas",
-            "en": "Parc du Joncas"
+            "en": "Parc du Joncas",
+            "fr": "Parc du Joncas"
           },
           "coords": [
             4.681246,
@@ -36,7 +37,8 @@
             "de": "Machen Sie einen gemütlichen Spaziergang durch diese grüne Oase, die Kindern einen sicheren Spielplatz bietet, aber bringen Sie eigenes Wasser mit, da die Einrichtungen begrenzt sind.",
             "hu": "Tegyen egy kényelmes sétát ebben a zöld oázisban, amely biztonságos játszóteret kínál a gyerekeknek, de hozzon magával vizet, mivel a felszereltség korlátozott.",
             "ro": "Faceți o plimbare relaxantă prin această oază verde, ideală pentru copii, dar aduceți-vă propria apă, deoarece facilitățile sunt destul de limitate.",
-            "en": "Take a leisurely walk through this green urban oasis which provides a safe space for children to play, but bring your own water bottle as facilities are limited."
+            "en": "Take a leisurely walk through this green urban oasis which provides a safe space for children to play, but bring your own water bottle as facilities are limited.",
+            "fr": "Faites une promenade tranquille dans cette oasis urbaine verte qui offre un espace sûr pour les enfants, mais apportez votre propre bouteille d'eau car les installations sont limitées."
           }
         },
         {
@@ -44,7 +46,8 @@
             "de": "Pont du Teil",
             "hu": "Pont du Teil",
             "ro": "Pont du Teil",
-            "en": "Pont du Teil"
+            "en": "Pont du Teil",
+            "fr": "Pont du Teil"
           },
           "coords": [
             4.68769,
@@ -59,7 +62,8 @@
             "de": "Bewundern Sie die robuste Architektur dieser Brücke über den Rhein und fotografieren Sie vom Fußgängerweg aus, um die beste Aussicht ohne Verkehr zu genießen.",
             "hu": "Csodálja meg a hatalmas Rhône-t átívelő híd robusztus építészetét, és mindenképpen a gyalogos sávról fotózzon a legjobb, forgalommentes kilátás érdekében.",
             "ro": "Admirați arhitectura robustă a acestui pod peste Ron și asigurați-vă că fotografiați de pe calea pietonală pentru cele mai bune unghiuri, departe de trafic.",
-            "en": "Admire the sturdy architecture of this bridge spanning the mighty Rhône river, and be sure to capture photos from the pedestrian path for the best views without traffic."
+            "en": "Admire the sturdy architecture of this bridge spanning the mighty Rhône river, and be sure to capture photos from the pedestrian path for the best views without traffic.",
+            "fr": "Admirez l'architecture robuste de ce pont enjambant le puissant Rhône, et pensez à prendre des photos depuis la voie piétonne pour la meilleure vue sans circulation."
           }
         },
         {
@@ -67,7 +71,8 @@
             "de": "Musée de la Résistance en Ardèche",
             "hu": "Musée de la Résistance en Ardèche",
             "ro": "Musée de la Résistance en Ardèche",
-            "en": "Musée de la Résistance en Ardèche"
+            "en": "Musée de la Résistance en Ardèche",
+            "fr": "Musée de la Résistance en Ardèche"
           },
           "coords": [
             4.679322,
@@ -82,7 +87,8 @@
             "de": "Erkunden Sie die ergreifenden Ausstellungen über den lokalen Widerstand im Zweiten Weltkrieg und fragen Sie nach einem Audioguide, um den Kontext vollständig zu erfassen.",
             "hu": "Fedezze fel a helyi második világháborús ellenállást bemutató megható kiállításokat, és kérjen egy audioguide-ot a személyzettől a kontextus teljes megértéséhez.",
             "ro": "Explorați exponatele emoționante despre rezistența locală din al Doilea Război Mondial și cereți personalului un ghid audio pentru a înțelege pe deplin contextul istoric.",
-            "en": "Explore the poignant exhibits detailing the local underground resistance during WWII, and ask the knowledgeable staff for an English audio guide to fully grasp the context."
+            "en": "Explore the poignant exhibits detailing the local underground resistance during WWII, and ask the knowledgeable staff for an English audio guide to fully grasp the context.",
+            "fr": "Explorez les expositions poignantes sur la résistance locale pendant la Seconde Guerre mondiale, et demandez au personnel un audioguide en anglais pour bien comprendre le contexte."
           }
         },
         {
@@ -90,7 +96,8 @@
             "de": "Église Saint-Étienne",
             "hu": "Église Saint-Étienne",
             "ro": "Église Saint-Étienne",
-            "en": "Église Saint-Étienne"
+            "en": "Église Saint-Étienne",
+            "fr": "Église Saint-Étienne"
           },
           "coords": [
             4.67213,
@@ -105,7 +112,8 @@
             "de": "Bewundern Sie das klassische Mauerwerk dieser historischen Kirche und kommen Sie am frühen Nachmittag, um die Buntglasfenster im Sonnenlicht leuchten zu sehen.",
             "hu": "Csodálja meg e történelmi templom klasszikus kőművesmunkáját és békés belső terét, de kora délután érkezzen, hogy láthassa a napfényben fürdő ólomüveg ablakokat.",
             "ro": "Admirați zidăria clasică și interiorul liniștit al acestei biserici istorice și vizitați-o la începutul după-amiezii pentru a vedea vitraliile luminate de soare.",
-            "en": "Marvel at the classic stonework and peaceful interior of this historic church, and visit during the early afternoon to see the stained glass illuminated by the sun."
+            "en": "Marvel at the classic stonework and peaceful interior of this historic church, and visit during the early afternoon to see the stained glass illuminated by the sun.",
+            "fr": "Admirez la pierre classique et l'intérieur paisible de cette église historique, et venez en début d'après-midi pour voir les vitraux illuminés par le soleil."
           }
         },
         {
@@ -113,7 +121,8 @@
             "de": "Cité Ouvrière Lafarge",
             "hu": "Cité Ouvrière Lafarge",
             "ro": "Cité Ouvrière Lafarge",
-            "en": "Cité Ouvrière Lafarge"
+            "en": "Cité Ouvrière Lafarge",
+            "fr": "Cité Ouvrière Lafarge"
           },
           "coords": [
             4.689832,
@@ -128,7 +137,8 @@
             "de": "Spazieren Sie durch diese gut erhaltene Arbeitersiedlung, um die Industriegeschichte des 19. Jahrhunderts zu erleben, aber tragen Sie bequeme Schuhe für die unebenen Wege.",
             "hu": "Sétáljon végig ezen a jól megőrzött munkástelepen a 19. századi ipartörténet megismeréséhez, de viseljen kényelmes cipőt, mivel az utak meglehetősen egyenetlenek.",
             "ro": "Plimbați-vă prin această colonie muncitorească bine conservată pentru a înțelege istoria industrială, dar purtați încălțăminte comodă, deoarece aleile pot fi denivelate.",
-            "en": "Wander through this well-preserved industrial workers' settlement to understand 19th-century labor history, but wear comfortable shoes as the paths can be uneven."
+            "en": "Wander through this well-preserved industrial workers' settlement to understand 19th-century labor history, but wear comfortable shoes as the paths can be uneven.",
+            "fr": "Parcourez cette cité ouvrière bien préservée pour comprendre l'histoire du travail au XIXe siècle, mais portez des chaussures confortables car les chemins peuvent être inégaux."
           }
         }
       ],
@@ -136,7 +146,8 @@
         "de": "Beginnen Sie den Morgen im Parc du Joncas für einen entspannten Spaziergang und sehen Sie dann den Pont du Teil am Rhein. Mittags tauchen Sie im Widerstandsmuseum in die Geschichte ein. Nachmittags besuchen Sie die historische Église Saint-Étienne, bevor Sie abends das faszinierende industrielle Erbe der Cité Ouvrière Lafarge erkunden.",
         "hu": "Kezdje a reggelt a Parc du Joncas-ban egy pihentető sétával, majd csodálja meg a Rhône felett átívelő Pont du Teil-t. Délben ismerje meg a helyi ellenállás történetét a múzeumban. Délután látogassa meg a történelmi Église Saint-Étienne templomot, este pedig fedezze fel a Cité Ouvrière Lafarge lenyűgöző ipari örökségét.",
         "ro": "Începeți dimineața în Parc du Joncas pentru o plimbare relaxantă, urmată de emblematicul Pont du Teil peste Ron. La prânz, aprofundați istoria rezistenței locale la muzeu. După-amiaza vizitați istorica Église Saint-Étienne, înainte de a explora seara fascinanta moștenire industrială a Cité Ouvrière Lafarge.",
-        "en": "Begin your morning at Parc du Joncas for a relaxing stroll, followed by the iconic Pont du Teil overlooking the Rhône. At midday, dive into profound regional history at the resistance museum. The afternoon takes you to the historic Église Saint-Étienne, before an evening walk to explore the fascinating industrial heritage of Cité Ouvrière Lafarge."
+        "en": "Begin your morning at Parc du Joncas for a relaxing stroll, followed by the iconic Pont du Teil overlooking the Rhône. At midday, dive into profound regional history at the resistance museum. The afternoon takes you to the historic Église Saint-Étienne, before an evening walk to explore the fascinating industrial heritage of Cité Ouvrière Lafarge.",
+        "fr": "Commencez la matinée au Parc du Joncas pour une promenade relaxante, puis dirigez-vous vers le Pont du Teil surplombant le Rhône. À midi, plongez dans l'histoire régionale au musée de la Résistance. L'après-midi vous mène à l'historique Église Saint-Étienne, avant une promenade du soir pour découvrir la Cité Ouvrière Lafarge."
       },
       "variants": {
         "rainy": {
@@ -144,7 +155,8 @@
             "de": "Beginnen Sie Ihren nassen Morgen im Park mit einem guten Regenschirm. Mittags bietet das historische Museum einen perfekten trockenen Zufluchtsort. Der nachmittägliche Kirchenbesuch hält Sie sicher vor Schauern geschützt. Beenden Sie den Abend an der historischen Arbeitersiedlung, die im Regen eine dramatische Atmosphäre ausstrahlt.",
             "hu": "Kezdje a nedves reggelt a parkban egy strapabíró esernyővel. Délben a történelmi múzeum tökéletes, meleg és száraz menedéket nyújt. A délutáni templomlátogatás biztonságban tart a záporoktól. Este a történelmi munkástelep épületei között sétálva különleges, drámai esős hangulatot tapasztalhat.",
             "ro": "Începeți dimineața ploioasă în parc cu o umbrelă robustă. La prânz, muzeul istoric oferă un refugiu interior perfect și uscat. Vizita la biserică de după-amiază vă ține la adăpost de aversele grele. Seara, cartierul istoric al muncitorilor emană o atmosferă dramatică și melancolică sub ploaie.",
-            "en": "Start your wet morning at the park with a sturdy umbrella. By midday, the history museum offers a perfect dry, indoor refuge. The afternoon church visit keeps you safely sheltered from passing showers. End your evening strolling by the historic workers' estate, which looks incredibly dramatic in the rain."
+            "en": "Start your wet morning at the park with a sturdy umbrella. By midday, the history museum offers a perfect dry, indoor refuge. The afternoon church visit keeps you safely sheltered from passing showers. End your evening strolling by the historic workers' estate, which looks incredibly dramatic in the rain.",
+            "fr": "Commencez votre matinée pluvieuse au parc avec un parapluie solide. À midi, le musée d'histoire offre un parfait refuge sec et intérieur. La visite de l'église l'après-midi vous protège des averses passagères. Terminez la soirée en vous promenant près de la cité ouvrière historique, qui paraît très dramatique sous la pluie."
           },
           "stops": [
             {
@@ -152,13 +164,15 @@
                 "de": "Parc du Joncas",
                 "hu": "Parc du Joncas",
                 "ro": "Parc du Joncas",
-                "en": "Parc du Joncas"
+                "en": "Parc du Joncas",
+                "fr": "Parc du Joncas"
               },
               "tip_5lang": {
                 "de": "Erkunden Sie die feuchten Wege mit wasserdichten Stiefeln; die alten Bäume bieten etwas Schutz vor dem Regen.",
                 "hu": "Sétáljon a nedves ösvényeken vízálló cipőben; a hatalmas fák természetes menedéket nyújtanak az eső elől.",
                 "ro": "Explorați potecile umede cu încălțăminte impermeabilă; copacii bătrâni oferă un adăpost natural de ploaie.",
-                "en": "Explore the damp paths in waterproof boots; the large, old trees offer some natural shelter from the rain."
+                "en": "Explore the damp paths in waterproof boots; the large, old trees offer some natural shelter from the rain.",
+                "fr": "Parcourez les sentiers humides en bottes imperméables ; les grands arbres offrent un peu d'abri naturel contre la pluie."
               }
             },
             {
@@ -166,13 +180,15 @@
                 "de": "Pont du Teil",
                 "hu": "Pont du Teil",
                 "ro": "Pont du Teil",
-                "en": "Pont du Teil"
+                "en": "Pont du Teil",
+                "fr": "Pont du Teil"
               },
               "tip_5lang": {
                 "de": "Beobachten Sie den Fluss, aber halten Sie Ihren Regenschirm gut fest, da es auf der Brücke windig wird.",
                 "hu": "Nézze meg a megáradt folyót a hídról, de fogja erősen az esernyőjét az erős, csatornázott szél miatt.",
                 "ro": "Priviți râul umflat de pe pod, dar țineți bine de umbrelă pentru că vântul poate fi foarte puternic aici.",
-                "en": "Watch the swollen river from the bridge, but hold onto your umbrella tightly as the wind can be quite strong."
+                "en": "Watch the swollen river from the bridge, but hold onto your umbrella tightly as the wind can be quite strong.",
+                "fr": "Observez le fleuve en crue depuis le pont, mais tenez fermement votre parapluie car le vent peut être fort."
               }
             },
             {
@@ -180,13 +196,15 @@
                 "de": "Musée de la Résistance en Ardèche",
                 "hu": "Musée de la Résistance en Ardèche",
                 "ro": "Musée de la Résistance en Ardèche",
-                "en": "Musée de la Résistance en Ardèche"
+                "en": "Musée de la Résistance en Ardèche",
+                "fr": "Musée de la Résistance en Ardèche"
               },
               "tip_5lang": {
                 "de": "Verbringen Sie hier mehr Zeit, um die spannenden Weltkriegsausstellungen im Trockenen zu studieren.",
                 "hu": "Töltsön itt több időt, hogy szárazon tanulmányozhassa az ellenállás lenyűgöző második világháborús történetét.",
                 "ro": "Petreceți mai mult timp aici pentru a studia istoria rezistenței în timpul celui de-al Doilea Război Mondial, la uscat.",
-                "en": "Spend extra time here examining the profound WW2 resistance history in this comfortable, dry indoor haven."
+                "en": "Spend extra time here examining the profound WW2 resistance history in this comfortable, dry indoor haven.",
+                "fr": "Passez plus de temps ici à examiner l'histoire profonde de la résistance de la Seconde Guerre mondiale dans ce havre intérieur et sec."
               }
             },
             {
@@ -194,13 +212,15 @@
                 "de": "Église Saint-Étienne",
                 "hu": "Église Saint-Étienne",
                 "ro": "Église Saint-Étienne",
-                "en": "Église Saint-Étienne"
+                "en": "Église Saint-Étienne",
+                "fr": "Église Saint-Étienne"
               },
               "tip_5lang": {
                 "de": "Bewundern Sie die Architektur in diesem ruhigen Innenraum, wo Sie sich vor den Schauern aufwärmen können.",
                 "hu": "Csodálja meg a belső teret ebben a csendes szentélyben, ahol felmelegedhet a heves záporok elől.",
                 "ro": "Admirați arhitectura în acest sanctuar liniștit, unde vă puteți încălzi și scăpa de aversele grele.",
-                "en": "Admire the peaceful architecture inside this quiet sanctuary where you can warm up and escape heavy showers."
+                "en": "Admire the peaceful architecture inside this quiet sanctuary where you can warm up and escape heavy showers.",
+                "fr": "Admirez l'architecture paisible de ce sanctuaire où vous pouvez vous réchauffer et échapper aux fortes averses."
               }
             },
             {
@@ -208,13 +228,15 @@
                 "de": "Cité Ouvrière Lafarge",
                 "hu": "Cité Ouvrière Lafarge",
                 "ro": "Cité Ouvrière Lafarge",
-                "en": "Cité Ouvrière Lafarge"
+                "en": "Cité Ouvrière Lafarge",
+                "fr": "Cité Ouvrière Lafarge"
               },
               "tip_5lang": {
                 "de": "Die Arbeiterhäuser wirken im Regen dramatisch; bleiben Sie auf den Gehwegen, um dem Schlamm zu entgehen.",
                 "hu": "A történelmi házak drámaian festenek esőben; maradjon a burkolt járdákon, hogy elkerülje a sarat.",
                 "ro": "Casele istorice arată dramatic în ploaie; rămâneți pe cărările pavate pentru a evita zonele noroioase.",
-                "en": "The historic workers' houses look dramatic in the rain; stick to the paved pathways to avoid muddy areas."
+                "en": "The historic workers' houses look dramatic in the rain; stick to the paved pathways to avoid muddy areas.",
+                "fr": "Les maisons ouvrières historiques sont dramatiques sous la pluie ; restez sur les voies pavées pour éviter la boue."
               }
             }
           ]
@@ -224,7 +246,8 @@
             "de": "Genießen Sie einen klaren Wintermorgen im Park mit warmer Kleidung. Mittags wärmen Sie sich bei der faszinierenden Museumstour auf. Der nachmittägliche Kirchenbesuch bietet eine ruhige, frostfreie Pause. Erreichen Sie die historische Siedlung vor dem frühen Sonnenuntergang um 17:00 Uhr.",
             "hu": "Élvezze a ropogós téli reggelt a parkban meleg rétegekkel. Délben melegedjen fel a lenyűgöző múzeumi túra során. A délutáni templomlátogatás csendes, fagymentes pihenőt kínál. Érjen a történelmi munkástelepre a korai, 17:00 óra körüli sötétedés előtt.",
             "ro": "Bucurați-vă de o dimineață rece de iarnă în parc cu haine groase. La prânz, încălziți-vă cu un tur fascinant al muzeului. Vizita de după-amiază la biserică oferă o pauză ferită de îngheț. Ajungeți la cartierul istoric înainte de apusul timpuriu din jurul orei 17:00.",
-            "en": "Enjoy a brisk winter morning in the park wrapped in warm layers. At midday, warm up during the fascinating museum tour. The afternoon church visit provides a quiet, frost-free break. Arrive at the historic workers' estate before the early 5:00 PM sunset."
+            "en": "Enjoy a brisk winter morning in the park wrapped in warm layers. At midday, warm up during the fascinating museum tour. The afternoon church visit provides a quiet, frost-free break. Arrive at the historic workers' estate before the early 5:00 PM sunset.",
+            "fr": "Profitez d'une vive matinée d'hiver au parc emmitouflé dans des couches chaudes. À midi, réchauffez-vous pendant la visite du musée passionnant. La visite de l'église l'après-midi offre une pause tranquille sans gel. Arrivez à la cité ouvrière historique avant le coucher du soleil très tôt à 17:00."
           },
           "stops": [
             {
@@ -232,13 +255,15 @@
                 "de": "Parc du Joncas",
                 "hu": "Parc du Joncas",
                 "ro": "Parc du Joncas",
-                "en": "Parc du Joncas"
+                "en": "Parc du Joncas",
+                "fr": "Parc du Joncas"
               },
               "tip_5lang": {
                 "de": "Machen Sie einen flotten Spaziergang zwischen kahlen Bäumen; ein warmer Schal gegen die Brise ist Pflicht.",
                 "hu": "Tegyen egy élénkítő sétát a csupasz fák között; a hideg szél miatt feltétlenül viseljen meleg sálat.",
                 "ro": "Faceți o plimbare revigorantă printre copacii goi; un fular călduros împotriva vântului rece este obligatoriu.",
-                "en": "Take a brisk morning walk among the bare trees; wearing a warm scarf against the chilly breeze is a must."
+                "en": "Take a brisk morning walk among the bare trees; wearing a warm scarf against the chilly breeze is a must.",
+                "fr": "Faites une marche tonique matinale parmi les arbres dépouillés ; un foulard chaud contre la brise est indispensable."
               }
             },
             {
@@ -246,13 +271,15 @@
                 "de": "Pont du Teil",
                 "hu": "Pont du Teil",
                 "ro": "Pont du Teil",
-                "en": "Pont du Teil"
+                "en": "Pont du Teil",
+                "fr": "Pont du Teil"
               },
               "tip_5lang": {
                 "de": "Die Brücke bietet klare Winteraussichten auf die Rhône; achten Sie morgens auf eisige Stellen am Boden.",
                 "hu": "A híd kristálytiszta téli kilátást nyújt a Rhône-ra; vigyázzon a csúszós, jeges foltokra a járdán.",
                 "ro": "Podul oferă priveliști clare de iarnă asupra Ronului; aveți grijă la peticele de gheață de pe trotuar.",
-                "en": "The bridge offers crystal clear winter views of the Rhône; watch out for icy patches on the walkways."
+                "en": "The bridge offers crystal clear winter views of the Rhône; watch out for icy patches on the walkways.",
+                "fr": "Le pont offre des vues d'hiver claires sur le Rhône ; faites attention aux plaques de verglas sur les trottoirs."
               }
             },
             {
@@ -260,13 +287,15 @@
                 "de": "Musée de la Résistance en Ardèche",
                 "hu": "Musée de la Résistance en Ardèche",
                 "ro": "Musée de la Résistance en Ardèche",
-                "en": "Musée de la Résistance en Ardèche"
+                "en": "Musée de la Résistance en Ardèche",
+                "fr": "Musée de la Résistance en Ardèche"
               },
               "tip_5lang": {
                 "de": "Wärmen Sie sich in diesem beheizten Museum auf und tauchen Sie in die tiefgründige Lokalgeschichte ein.",
                 "hu": "Melegedjen fel ebben a fűtött múzeumban, miközben elmélyed a helyi ellenállás megrázó történetében.",
                 "ro": "Încălziți-vă în acest muzeu încălzit în timp ce vă scufundați în istoria profundă a rezistenței locale.",
-                "en": "Thaw your cold hands in this heated museum while absorbing the powerful history of the local resistance."
+                "en": "Thaw your cold hands in this heated museum while absorbing the powerful history of the local resistance.",
+                "fr": "Réchauffez-vous les mains dans ce musée chauffé en absorbant l'histoire forte de la résistance locale."
               }
             },
             {
@@ -274,13 +303,15 @@
                 "de": "Église Saint-Étienne",
                 "hu": "Église Saint-Étienne",
                 "ro": "Église Saint-Étienne",
-                "en": "Église Saint-Étienne"
+                "en": "Église Saint-Étienne",
+                "fr": "Église Saint-Étienne"
               },
               "tip_5lang": {
                 "de": "Der ruhige Innenraum bietet einen spirituellen Rückzugsort und gemütlichen Schutz vor der harten Winterluft.",
                 "hu": "A csendes belső tér spirituális menedéket és hangulatos védelmet nyújt a csípős téli levegő elől.",
                 "ro": "Interiorul liniștit oferă o retragere spirituală și un adăpost confortabil de aerul aspru de iarnă.",
-                "en": "The quiet interior provides a spiritual retreat and a cozy shelter from the harsh, biting winter air outside."
+                "en": "The quiet interior provides a spiritual retreat and a cozy shelter from the harsh, biting winter air outside.",
+                "fr": "L'intérieur calme offre un retrait spirituel et un abri douillet contre l'air hivernal mordant."
               }
             },
             {
@@ -288,13 +319,15 @@
                 "de": "Cité Ouvrière Lafarge",
                 "hu": "Cité Ouvrière Lafarge",
                 "ro": "Cité Ouvrière Lafarge",
-                "en": "Cité Ouvrière Lafarge"
+                "en": "Cité Ouvrière Lafarge",
+                "fr": "Cité Ouvrière Lafarge"
               },
               "tip_5lang": {
                 "de": "Besichtigen Sie diese Industriestätte vor der Dämmerung; kleiden Sie sich warm für die offenen Straßen.",
                 "hu": "Nézze meg ezt az ipari örökséget alkonyat előtt; öltözzön melegen a nyitott és szeles utcákhoz.",
                 "ro": "Vizitați acest sit industrial înainte de lăsarea întunericului; îmbrăcați-vă gros pentru străzile deschise.",
-                "en": "See this industrial heritage site before the early dusk; dress warmly as the open streets can be very cold."
+                "en": "See this industrial heritage site before the early dusk; dress warmly as the open streets can be very cold.",
+                "fr": "Visitez ce site du patrimoine industriel avant le crépuscule précoce ; habillez-vous chaudement car les rues ouvertes peuvent être très froides."
               }
             }
           ]
@@ -314,7 +347,8 @@
             "de": "Pont du Teil",
             "hu": "Pont du Teil",
             "ro": "Pont du Teil",
-            "en": "Pont du Teil"
+            "en": "Pont du Teil",
+            "fr": "Pont du Teil"
           },
           "coords": [
             4.68769,
@@ -329,7 +363,8 @@
             "de": "Bewundern Sie die robuste Architektur dieser Brücke über den Rhein und fotografieren Sie vom Fußgängerweg aus, um die beste Aussicht ohne Verkehr zu genießen.",
             "hu": "Csodálja meg a hatalmas Rhône-t átívelő híd robusztus építészetét, és mindenképpen a gyalogos sávról fotózzon a legjobb, forgalommentes kilátás érdekében.",
             "ro": "Admirați arhitectura robustă a acestui pod peste Ron și asigurați-vă că fotografiați de pe calea pietonală pentru cele mai bune unghiuri, departe de trafic.",
-            "en": "Admire the sturdy architecture of this bridge spanning the mighty Rhône river, and be sure to capture photos from the pedestrian path for the best views without traffic."
+            "en": "Admire the sturdy architecture of this bridge spanning the mighty Rhône river, and be sure to capture photos from the pedestrian path for the best views without traffic.",
+            "fr": "Admirez l'ossature solide de ce pont franchissant le puissant Rhône, et pensez à prendre des photos depuis la voie piétonne pour profiter des meilleures vues sans la circulation."
           }
         },
         {
@@ -337,7 +372,8 @@
             "de": "Parc du Joncas",
             "hu": "Parc du Joncas",
             "ro": "Parc du Joncas",
-            "en": "Parc du Joncas"
+            "en": "Parc du Joncas",
+            "fr": "Parc du Joncas"
           },
           "coords": [
             4.681246,
@@ -352,7 +388,8 @@
             "de": "Machen Sie einen gemütlichen Spaziergang durch diese grüne Oase, die Kindern einen sicheren Spielplatz bietet, aber bringen Sie eigenes Wasser mit, da die Einrichtungen begrenzt sind.",
             "hu": "Tegyen egy kényelmes sétát ebben a zöld oázisban, amely biztonságos játszóteret kínál a gyerekeknek, de hozzon magával vizet, mivel a felszereltség korlátozott.",
             "ro": "Faceți o plimbare relaxantă prin această oază verde, ideală pentru copii, dar aduceți-vă propria apă, deoarece facilitățile sunt destul de limitate.",
-            "en": "Take a leisurely walk through this green urban oasis which provides a safe space for children to play, but bring your own water bottle as facilities are limited."
+            "en": "Take a leisurely walk through this green urban oasis which provides a safe space for children to play, but bring your own water bottle as facilities are limited.",
+            "fr": "Faites une promenade tranquille dans cette oasis urbaine verdoyante qui offre un espace sûr pour les enfants, mais prenez votre propre gourde car les installations sont limitées."
           }
         },
         {
@@ -360,7 +397,8 @@
             "de": "Musée de la Résistance en Ardèche",
             "hu": "Musée de la Résistance en Ardèche",
             "ro": "Musée de la Résistance en Ardèche",
-            "en": "Musée de la Résistance en Ardèche"
+            "en": "Musée de la Résistance en Ardèche",
+            "fr": "Musée de la Résistance en Ardèche"
           },
           "coords": [
             4.679322,
@@ -375,7 +413,8 @@
             "de": "Erkunden Sie die ergreifenden Ausstellungen über den lokalen Widerstand im Zweiten Weltkrieg und fragen Sie nach einem Audioguide, um den Kontext vollständig zu erfassen.",
             "hu": "Fedezze fel a helyi második világháborús ellenállást bemutató megható kiállításokat, és kérjen egy audioguide-ot a személyzettől a kontextus teljes megértéséhez.",
             "ro": "Explorați exponatele emoționante despre rezistența locală din al Doilea Război Mondial și cereți personalului un ghid audio pentru a înțelege pe deplin contextul istoric.",
-            "en": "Explore the poignant exhibits detailing the local underground resistance during WWII, and ask the knowledgeable staff for an English audio guide to fully grasp the context."
+            "en": "Explore the poignant exhibits detailing the local underground resistance during WWII, and ask the knowledgeable staff for an English audio guide to fully grasp the context.",
+            "fr": "Explorez les expositions poignantes sur la résistance locale pendant la Seconde Guerre mondiale et demandez au personnel anglophone un audio-guide en anglais pour mieux saisir le contexte."
           }
         },
         {
@@ -383,7 +422,8 @@
             "de": "Église Saint-Étienne",
             "hu": "Église Saint-Étienne",
             "ro": "Église Saint-Étienne",
-            "en": "Église Saint-Étienne"
+            "en": "Église Saint-Étienne",
+            "fr": "Église Saint-Étienne"
           },
           "coords": [
             4.67213,
@@ -398,7 +438,8 @@
             "de": "Bewundern Sie das klassische Mauerwerk dieser historischen Kirche und kommen Sie am frühen Nachmittag, um die Buntglasfenster im Sonnenlicht leuchten zu sehen.",
             "hu": "Csodálja meg e történelmi templom klasszikus kőművesmunkáját és békés belső terét, de kora délután érkezzen, hogy láthassa a napfényben fürdő ólomüveg ablakokat.",
             "ro": "Admirați zidăria clasică și interiorul liniștit al acestei biserici istorice și vizitați-o la începutul după-amiezii pentru a vedea vitraliile luminate de soare.",
-            "en": "Marvel at the classic stonework and peaceful interior of this historic church, and visit during the early afternoon to see the stained glass illuminated by the sun."
+            "en": "Marvel at the classic stonework and peaceful interior of this historic church, and visit during the early afternoon to see the stained glass illuminated by the sun.",
+            "fr": "Émerveillez-vous du travail de pierre classique et de l'intérieur paisible de cette église historique ; venez en début d'après-midi pour voir les vitraux illuminés par le soleil."
           }
         },
         {
@@ -406,7 +447,8 @@
             "de": "Cité Ouvrière Lafarge",
             "hu": "Cité Ouvrière Lafarge",
             "ro": "Cité Ouvrière Lafarge",
-            "en": "Cité Ouvrière Lafarge"
+            "en": "Cité Ouvrière Lafarge",
+            "fr": "Cité Ouvrière Lafarge"
           },
           "coords": [
             4.689832,
@@ -421,7 +463,8 @@
             "de": "Spazieren Sie durch diese gut erhaltene Arbeitersiedlung, um die Industriegeschichte des 19. Jahrhunderts zu erleben, aber tragen Sie bequeme Schuhe für die unebenen Wege.",
             "hu": "Sétáljon végig ezen a jól megőrzött munkástelepen a 19. századi ipartörténet megismeréséhez, de viseljen kényelmes cipőt, mivel az utak meglehetősen egyenetlenek.",
             "ro": "Plimbați-vă prin această colonie muncitorească bine conservată pentru a înțelege istoria industrială, dar purtați încălțăminte comodă, deoarece aleile pot fi denivelate.",
-            "en": "Wander through this well-preserved industrial workers' settlement to understand 19th-century labor history, but wear comfortable shoes as the paths can be uneven."
+            "en": "Wander through this well-preserved industrial workers' settlement to understand 19th-century labor history, but wear comfortable shoes as the paths can be uneven.",
+            "fr": "Parcourez ce lotissement d'ouvriers industriel bien préservé pour comprendre l'histoire du travail au XIXe siècle, mais portez des chaussures confortables car les chemins peuvent être inégaux."
           }
         },
         {
@@ -429,7 +472,8 @@
             "de": "Lac de la Camuse",
             "hu": "Lac de la Camuse",
             "ro": "Lac de la Camuse",
-            "en": "Lac de la Camuse"
+            "en": "Lac de la Camuse",
+            "fr": "Lac de la Camuse"
           },
           "coords": [
             4.694172,
@@ -444,7 +488,8 @@
             "de": "Genießen Sie die ruhige Natur dieses Sees bei einem Picknick und bringen Sie Insektenschutzmittel mit, wenn Sie bis in die späten Nachmittagsstunden bleiben möchten.",
             "hu": "Élvezze a tó békés természeti környezetét, amely tökéletes egy piknikhez, de hozzon szúnyogriasztót, ha a késő délutáni órákig tervez maradni a vízparton.",
             "ro": "Bucurați-vă de mediul natural liniștit al acestui lac, perfect pentru un picnic, și aduceți spray contra țânțarilor dacă plănuiți să stați până târziu.",
-            "en": "Enjoy the serene natural surroundings of this peaceful lake, perfect for a picnic, and bring mosquito repellent if you plan to stay until the late afternoon hours."
+            "en": "Enjoy the serene natural surroundings of this peaceful lake, perfect for a picnic, and bring mosquito repellent if you plan to stay until the late afternoon hours.",
+            "fr": "Profitez du cadre naturel serein de ce lac paisible, parfait pour un pique-nique ; apportez un anti-moustique si vous comptez rester jusqu'en fin d'après-midi."
           }
         }
       ],
@@ -452,7 +497,8 @@
         "de": "Radeln Sie morgens am Pont du Teil los und entspannen Sie im Parc du Joncas. Mittags erfahren Sie im Widerstandsmuseum bewegende Kriegsgeschichten. Den Nachmittag verbringen Sie an der Église Saint-Étienne und der Cité Ouvrière Lafarge. Beenden Sie Ihre Tour am ruhigen Lac de la Camuse.",
         "hu": "Tekerjen ki a Pont du Teil-től, majd pihenjen a Parc du Joncas-ban a délelőtt folyamán. Délben a helyi ellenállási múzeum háborús történeteivel ismerkedhet. Délután csodálja meg az Église Saint-Étienne-t és a Cité Ouvrière Lafarge-t, végül a Lac de la Camuse csendes partján fejezze be a túrát.",
         "ro": "Pedalați de la Pont du Teil și relaxați-vă dimineața în Parc du Joncas. La prânz, descoperiți povești emoționante de război la muzeul rezistenței. Petreceți după-amiaza la Église Saint-Étienne și Cité Ouvrière Lafarge, încheind ziua pe malul liniștit al Lac de la Camuse.",
-        "en": "Pedal out from Pont du Teil enjoying the morning breeze before relaxing at Parc du Joncas. By noon, delve into moving wartime stories at the local resistance museum. Spend the afternoon admiring Église Saint-Étienne and the unique Cité Ouvrière Lafarge. Conclude your ride at Lac de la Camuse, a perfect spot to unwind and reflect by the water."
+        "en": "Pedal out from Pont du Teil enjoying the morning breeze before relaxing at Parc du Joncas. By noon, delve into moving wartime stories at the local resistance museum. Spend the afternoon admiring Église Saint-Étienne and the unique Cité Ouvrière Lafarge. Conclude your ride at Lac de la Camuse, a perfect spot to unwind and reflect by the water.",
+        "fr": "Partez à vélo depuis le Pont du Teil en profitant de la brise matinale avant de vous détendre au Parc du Joncas. À midi, plongez dans les récits émouvants de guerre au musée local de la Résistance. Passez l'après-midi à admirer l'Église Saint-Étienne et la Cité Ouvrière Lafarge. Concluez votre balade au Lac de la Camuse, un endroit idéal pour se relaxer et réfléchir au bord de l'eau."
       },
       "variants": {
         "rainy": {
@@ -460,7 +506,8 @@
             "de": "Starten Sie Ihre regnerische Fahrt an der Brücke mit wasserfester Kleidung. Im Park und Museum gibt es mittags Pausen im Trockenen. Nachmittags erfordert die Fahrt zur Kirche und Siedlung Vorsicht auf nassen Straßen. Abends am See erwartet Sie eine melancholische, nasse Naturidylle.",
             "hu": "Kezdje az esős tekerést a hídnál vízálló felszerelésben. A park és a múzeum délben száraz pihenőt ad. Délután a templomhoz és a telephez vezető úton óvatosan haladjon a csúszós aszfalton. Este a tónál melankolikus, de gyönyörű esős természet várja.",
             "ro": "Începeți cursa ploioasă la pod cu echipament impermeabil. În parc și muzeu aveți pauze uscate la prânz. După-amiaza, drumul spre biserică și cartier cere prudență pe asfaltul ud. Seara, la lac vă așteaptă o natură melancolică sub ploaie.",
-            "en": "Start your rainy ride at the bridge with solid waterproof gear. The park and museum offer dry midday breaks. Afternoon cycling to the church and estate requires caution on slippery wet roads. Evening arrival at the lake presents a moody, beautiful wet landscape."
+            "en": "Start your rainy ride at the bridge with solid waterproof gear. The park and museum offer dry midday breaks. Afternoon cycling to the church and estate requires caution on slippery wet roads. Evening arrival at the lake presents a moody, beautiful wet landscape.",
+            "fr": "Commencez votre sortie pluvieuse au pont avec un équipement imperméable solide. Le parc et le musée offrent des pauses sèches en milieu de journée. L'après-midi, soyez prudent à vélo en vous rendant à l'église et au domaine sur des routes mouillées et glissantes. L'arrivée en soirée au lac révèle un paysage humide, dramatique et magnifique."
           },
           "stops": [
             {
@@ -468,13 +515,15 @@
                 "de": "Pont du Teil",
                 "hu": "Pont du Teil",
                 "ro": "Pont du Teil",
-                "en": "Pont du Teil"
+                "en": "Pont du Teil",
+                "fr": "Pont du Teil"
               },
               "tip_5lang": {
                 "de": "Überqueren Sie die Brücke vorsichtig auf nassen Fahrspuren und genießen Sie den Nebel über der Rhône.",
                 "hu": "Óvatosan keljen át a hídon a nedves sávokon, és élvezze a Rhône felett gomolygó párát és ködöt.",
                 "ro": "Traversați podul cu grijă pe benzile umede și bucurați-vă de ceața misterioasă de deasupra râului Ron.",
-                "en": "Cross the bridge carefully on wet lanes and enjoy the atmospheric mist hovering over the Rhône river."
+                "en": "Cross the bridge carefully on wet lanes and enjoy the atmospheric mist hovering over the Rhône river.",
+                "fr": "Traversez le pont avec précaution sur les voies mouillées et profitez de la brume atmosphérique qui plane au-dessus du Rhône."
               }
             },
             {
@@ -482,13 +531,15 @@
                 "de": "Parc du Joncas",
                 "hu": "Parc du Joncas",
                 "ro": "Parc du Joncas",
-                "en": "Parc du Joncas"
+                "en": "Parc du Joncas",
+                "fr": "Parc du Joncas"
               },
               "tip_5lang": {
                 "de": "Fahren Sie langsam auf den feuchten Wegen und nutzen Sie Schutzbleche, um sich vor Schlamm zu schützen.",
                 "hu": "Tekerjen lassan a nedves parki utakon, és használjon sárvédőt, hogy tisztán tartsa a ruháját.",
                 "ro": "Ciclati încet pe potecile umede ale parcului și folosiți apărători de noroi pentru a vă proteja hainele.",
-                "en": "Cycle slowly on the damp park paths and make sure to use mudguards to keep your clothes clean and dry."
+                "en": "Cycle slowly on the damp park paths and make sure to use mudguards to keep your clothes clean and dry.",
+                "fr": "Circulez lentement sur les chemins humides du parc et utilisez des garde-boue pour garder vos vêtements propres et secs."
               }
             },
             {
@@ -496,13 +547,15 @@
                 "de": "Musée de la Résistance en Ardèche",
                 "hu": "Musée de la Résistance en Ardèche",
                 "ro": "Musée de la Résistance en Ardèche",
-                "en": "Musée de la Résistance en Ardèche"
+                "en": "Musée de la Résistance en Ardèche",
+                "fr": "Musée de la Résistance en Ardèche"
               },
               "tip_5lang": {
                 "de": "Parken Sie Ihr Rad und betreten Sie dieses trockene Museum, um wichtige Widerstandsgeschichte zu lernen.",
                 "hu": "Parkolja le a bringát, és lépjen be ebbe a száraz múzeumba, hogy megismerje a létfontosságú történelmet.",
                 "ro": "Parcați bicicleta și intrați în acest muzeu uscat pentru a învăța istoria vitală a rezistenței din zonă.",
-                "en": "Park your bike and step inside this dry museum to explore the vital history of the Ardèche resistance."
+                "en": "Park your bike and step inside this dry museum to explore the vital history of the Ardèche resistance.",
+                "fr": "Garez votre vélo et entrez dans ce musée sec pour explorer l'histoire essentielle de la Résistance ardéchoise."
               }
             },
             {
@@ -510,13 +563,15 @@
                 "de": "Église Saint-Étienne",
                 "hu": "Église Saint-Étienne",
                 "ro": "Église Saint-Étienne",
-                "en": "Église Saint-Étienne"
+                "en": "Église Saint-Étienne",
+                "fr": "Église Saint-Étienne"
               },
               "tip_5lang": {
                 "de": "Ein perfekter trockener Zufluchtsort, um Glasfenster zu bewundern, während Sie den starken Regen abwarten.",
                 "hu": "Tökéletes száraz szentély az üvegablakok megcsodálására, amíg kivárja a leghevesebb esőzések végét.",
                 "ro": "Un sanctuar uscat perfect pentru a admira vitraliile în timp ce așteptați să treacă ploaia torențială.",
-                "en": "A perfect dry sanctuary to admire stained glass architecture while waiting out the heaviest rain showers."
+                "en": "A perfect dry sanctuary to admire stained glass architecture while waiting out the heaviest rain showers.",
+                "fr": "Un sanctuaire parfaitement sec pour admirer l'architecture des vitraux tout en attendant que les fortes pluies s'estompent."
               }
             },
             {
@@ -524,13 +579,15 @@
                 "de": "Cité Ouvrière Lafarge",
                 "hu": "Cité Ouvrière Lafarge",
                 "ro": "Cité Ouvrière Lafarge",
-                "en": "Cité Ouvrière Lafarge"
+                "en": "Cité Ouvrière Lafarge",
+                "fr": "Cité Ouvrière Lafarge"
               },
               "tip_5lang": {
                 "de": "Navigieren Sie vorsichtig durch die nassen Straßen und schätzen Sie den rauen Charme im Regen.",
                 "hu": "Óvatosan navigáljon a történelmi telep vizes utcáin, és értékelje annak nyers báját az esőben.",
                 "ro": "Navigați cu grijă pe străzile umede ale cartierului și apreciați farmecul său brut în timpul ploii.",
-                "en": "Navigate the historic estate's wet streets with care, appreciating its gritty, industrial charm in the rain."
+                "en": "Navigate the historic estate's wet streets with care, appreciating its gritty, industrial charm in the rain.",
+                "fr": "Parcourez prudemment les rues mouillées du domaine industriel historique et appréciez son charme industriel brut sous la pluie."
               }
             },
             {
@@ -538,13 +595,15 @@
                 "de": "Lac de la Camuse",
                 "hu": "Lac de la Camuse",
                 "ro": "Lac de la Camuse",
-                "en": "Lac de la Camuse"
+                "en": "Lac de la Camuse",
+                "fr": "Lac de la Camuse"
               },
               "tip_5lang": {
                 "de": "Die Seeoberfläche ist im Regen wunderschön; tragen Sie einen guten Regenmantel, um die Natur zu genießen.",
                 "hu": "A tó felszíne gyönyörű az esőben; viseljen megbízható esőkabátot, hogy élvezhesse a borús természetet.",
                 "ro": "Suprafața lacului este superbă sub ploaie; purtați o haină de ploaie solidă pentru a vă bucura de natură.",
-                "en": "The lake surface is beautiful under the rain; wear a solid raincoat to fully enjoy the moody nature."
+                "en": "The lake surface is beautiful under the rain; wear a solid raincoat to fully enjoy the moody nature.",
+                "fr": "La surface du lac est belle sous la pluie ; portez un imperméable solide pour pleinement apprécier cette nature d'humeur sombre."
               }
             }
           ]
@@ -554,7 +613,8 @@
             "de": "Beginnen Sie die kühle Fahrt über die Brücke mit dicken Handschuhen. Park und Museum bieten mittags die Chance zum Aufwärmen. Der Nachmittag erfordert warme Schichten für die Fahrt zur Siedlung. Erreichen Sie den See unbedingt rechtzeitig, bevor die Wintersonne um 17 Uhr untergeht.",
             "hu": "Kezdje a hűvös tekerést a hídon vastag kesztyűben. A park és a múzeum délben esélyt ad a felmelegedésre. A délutáni tekerés a templomhoz és a telephez meleg rétegeket igényel. Mindenképp érjen a tóhoz még a korai, 17 órás téli naplemente előtt.",
             "ro": "Începeți cursa rece pe pod purtând mănuși groase. Parcul și muzeul oferă șansa de a vă încălzi la prânz. După-amiaza necesită straturi calde pentru drumul spre biserică și cartier. Asigurați-vă că ajungeți la lac înainte de apusul soarelui la ora 17.",
-            "en": "Start your chilly ride across the bridge with thick gloves. The park and museum offer a chance to warm up at midday. Afternoon cycling to the church and estate requires warm layers. Make sure to arrive at the lake before the early winter sunset around 5 PM."
+            "en": "Start your chilly ride across the bridge with thick gloves. The park and museum offer a chance to warm up at midday. Afternoon cycling to the church and estate requires warm layers. Make sure to arrive at the lake before the early winter sunset around 5 PM.",
+            "fr": "Commencez votre sortie froide sur le pont avec des gants épais. Le parc et le musée offrent des occasions de se réchauffer à midi. L'après-midi, prévoyez des couches chaudes pour l'église et le domaine. Veillez à arriver au lac avant le coucher du soleil hivernal vers 17h."
           },
           "stops": [
             {
@@ -562,13 +622,15 @@
                 "de": "Pont du Teil",
                 "hu": "Pont du Teil",
                 "ro": "Pont du Teil",
-                "en": "Pont du Teil"
+                "en": "Pont du Teil",
+                "fr": "Pont du Teil"
               },
               "tip_5lang": {
                 "de": "Packen Sie sich gegen den kalten Wind ein, während Sie bei klarer Wintersicht über den Fluss radeln.",
                 "hu": "Öltözzön fel jól a hideg szél ellen, miközben kristálytiszta téli látási viszonyok mellett átkel a folyón.",
                 "ro": "Îmbrăcați-vă bine împotriva vântului rece în timp ce pedalați peste râu cu o vizibilitate clară de iarnă.",
-                "en": "Bundle up against the biting cold wind as you pedal across the river with crisp, clear winter visibility."
+                "en": "Bundle up against the biting cold wind as you pedal across the river with crisp, clear winter visibility.",
+                "fr": "Courez-vous bien contre le vent glacial en pédalant au-dessus du fleuve, avec une visibilité hivernale nette et claire."
               }
             },
             {
@@ -576,13 +638,15 @@
                 "de": "Parc du Joncas",
                 "hu": "Parc du Joncas",
                 "ro": "Parc du Joncas",
-                "en": "Parc du Joncas"
+                "en": "Parc du Joncas",
+                "fr": "Parc du Joncas"
               },
               "tip_5lang": {
                 "de": "Das frostige Gras knirscht unter den Reifen; eine Thermojacke ist für diese Morgenfahrt unerlässlich.",
                 "hu": "A deres fű ropog a gumik alatt; egy thermo dzseki elengedhetetlen ehhez a csípős reggeli túrához.",
                 "ro": "Iarba înghețată scârțâie sub anvelope; o jachetă termică este esențială pentru această cursă matinală.",
-                "en": "The frosty grass crunches under your tires; a good thermal jacket is essential for this morning ride."
+                "en": "The frosty grass crunches under your tires; a good thermal jacket is essential for this morning ride.",
+                "fr": "L'herbe gelée crisse sous vos pneus ; une bonne veste thermique est essentielle pour cette balade matinale."
               }
             },
             {
@@ -590,13 +654,15 @@
                 "de": "Musée de la Résistance en Ardèche",
                 "hu": "Musée de la Résistance en Ardèche",
                 "ro": "Musée de la Résistance en Ardèche",
-                "en": "Musée de la Résistance en Ardèche"
+                "en": "Musée de la Résistance en Ardèche",
+                "fr": "Musée de la Résistance en Ardèche"
               },
               "tip_5lang": {
                 "de": "Tauen Sie Ihre Hände im beheizten Museum auf und tauchen Sie in die tiefgründige Lokalgeschichte ein.",
                 "hu": "Olvassza fel fagyos kezeit a fűtött múzeumban, miközben elmélyed a helyi ellenállás történetében.",
                 "ro": "Dezghețați-vă mâinile în muzeul încălzit în timp ce asimilați istoria profundă a rezistenței locale.",
-                "en": "Thaw your freezing hands in this heated museum while absorbing the powerful local resistance history."
+                "en": "Thaw your freezing hands in this heated museum while absorbing the powerful local resistance history.",
+                "fr": "Réchauffez vos mains congelées dans ce musée chauffé tout en absorbant l'histoire puissante de la Résistance locale."
               }
             },
             {
@@ -604,13 +670,15 @@
                 "de": "Église Saint-Étienne",
                 "hu": "Église Saint-Étienne",
                 "ro": "Église Saint-Étienne",
-                "en": "Église Saint-Étienne"
+                "en": "Église Saint-Étienne",
+                "fr": "Église Saint-Étienne"
               },
               "tip_5lang": {
                 "de": "Machen Sie eine Pause im ruhigen Kirchenschiff, geschützt vor den beißenden Winterwinden draußen.",
                 "hu": "Tartson egy békés szünetet a csendes hajóban, védve a kinti csípős, jeges téli szelektől.",
                 "ro": "Luați o pauză în naosul liniștit, la adăpost de vânturile aspre și înghețate de iarnă de afară.",
-                "en": "Take a peaceful break in the quiet nave, fully sheltered from the biting winter winds blowing outside."
+                "en": "Take a peaceful break in the quiet nave, fully sheltered from the biting winter winds blowing outside.",
+                "fr": "Prenez une pause paisible dans la nef tranquille, entièrement abritée des vents d'hiver mordants à l'extérieur."
               }
             },
             {
@@ -618,13 +686,15 @@
                 "de": "Cité Ouvrière Lafarge",
                 "hu": "Cité Ouvrière Lafarge",
                 "ro": "Cité Ouvrière Lafarge",
-                "en": "Cité Ouvrière Lafarge"
+                "en": "Cité Ouvrière Lafarge",
+                "fr": "Cité Ouvrière Lafarge"
               },
               "tip_5lang": {
                 "de": "Fahren Sie durch das Arbeiterviertel, während die Wintersonne lange, markante Schatten wirft.",
                 "hu": "Tekerjen át az ipari munkásnegyeden, ahogy az alacsony téli nap hosszú, markáns árnyékokat vet.",
                 "ro": "Ciclati prin cartierul muncitoresc în timp ce soarele de iarnă aruncă umbre lungi și spectaculoase.",
-                "en": "Ride through the industrial workers' district as the low winter sun casts long, striking shadows."
+                "en": "Ride through the industrial workers' district as the low winter sun casts long, striking shadows.",
+                "fr": "Parcourez le quartier ouvrier industriel tandis que le soleil bas d'hiver projette de longues ombres saisissantes."
               }
             },
             {
@@ -632,13 +702,15 @@
                 "de": "Lac de la Camuse",
                 "hu": "Lac de la Camuse",
                 "ro": "Lac de la Camuse",
-                "en": "Lac de la Camuse"
+                "en": "Lac de la Camuse",
+                "fr": "Lac de la Camuse"
               },
               "tip_5lang": {
                 "de": "Kommen Sie vor der frühen Dämmerung an; prüfen Sie, ob Ihre Fahrradlichter für den Rückweg funktionieren!",
                 "hu": "Érkezzen a korai alkonyat előtt a fagyos tóhoz; ellenőrizze, hogy működnek-e a kerékpárlámpái a visszaútra!",
                 "ro": "Ajungeți înainte de lăsarea întunericului; asigurați-vă că luminile bicicletei funcționează perfect!",
-                "en": "Arrive before the early dusk to see the freezing lake; make sure your bike lights are working for the trip back!"
+                "en": "Arrive before the early dusk to see the freezing lake; make sure your bike lights are working for the trip back!",
+                "fr": "Arrivez avant le crépuscule précoce pour voir le lac gelé ; assurez-vous que les lumières de votre vélo fonctionnent pour le retour !"
               }
             }
           ]
@@ -658,7 +730,8 @@
             "de": "Musée de la Résistance en Ardèche",
             "hu": "Musée de la Résistance en Ardèche",
             "ro": "Musée de la Résistance en Ardèche",
-            "en": "Musée de la Résistance en Ardèche"
+            "en": "Musée de la Résistance en Ardèche",
+            "fr": "Musée de la Résistance en Ardèche"
           },
           "coords": [
             4.679322,
@@ -673,7 +746,8 @@
             "de": "Erkunden Sie die ergreifenden Ausstellungen über den lokalen Widerstand im Zweiten Weltkrieg und fragen Sie nach einem Audioguide, um den Kontext vollständig zu erfassen.",
             "hu": "Fedezze fel a helyi második világháborús ellenállást bemutató megható kiállításokat, és kérjen egy audioguide-ot a személyzettől a kontextus teljes megértéséhez.",
             "ro": "Explorați exponatele emoționante despre rezistența locală din al Doilea Război Mondial și cereți personalului un ghid audio pentru a înțelege pe deplin contextul istoric.",
-            "en": "Explore the poignant exhibits detailing the local underground resistance during WWII, and ask the knowledgeable staff for an English audio guide to fully grasp the context."
+            "en": "Explore the poignant exhibits detailing the local underground resistance during WWII, and ask the knowledgeable staff for an English audio guide to fully grasp the context.",
+            "fr": "Explorez les expositions poignantes sur la résistance locale pendant la Seconde Guerre mondiale et demandez au personnel anglophone un audio-guide en anglais pour mieux saisir le contexte."
           }
         },
         {
@@ -681,7 +755,8 @@
             "de": "Église Saint-Étienne",
             "hu": "Église Saint-Étienne",
             "ro": "Église Saint-Étienne",
-            "en": "Église Saint-Étienne"
+            "en": "Église Saint-Étienne",
+            "fr": "Église Saint-Étienne"
           },
           "coords": [
             4.67213,
@@ -696,7 +771,8 @@
             "de": "Bewundern Sie das klassische Mauerwerk dieser historischen Kirche und kommen Sie am frühen Nachmittag, um die Buntglasfenster im Sonnenlicht leuchten zu sehen.",
             "hu": "Csodálja meg e történelmi templom klasszikus kőművesmunkáját és békés belső terét, de kora délután érkezzen, hogy láthassa a napfényben fürdő ólomüveg ablakokat.",
             "ro": "Admirați zidăria clasică și interiorul liniștit al acestei biserici istorice și vizitați-o la începutul după-amiezii pentru a vedea vitraliile luminate de soare.",
-            "en": "Marvel at the classic stonework and peaceful interior of this historic church, and visit during the early afternoon to see the stained glass illuminated by the sun."
+            "en": "Marvel at the classic stonework and peaceful interior of this historic church, and visit during the early afternoon to see the stained glass illuminated by the sun.",
+            "fr": "Émerveillez-vous du travail de pierre classique et de l'intérieur paisible de cette église historique ; venez en début d'après-midi pour voir les vitraux illuminés par le soleil."
           }
         },
         {
@@ -704,7 +780,8 @@
             "de": "Cité Ouvrière Lafarge",
             "hu": "Cité Ouvrière Lafarge",
             "ro": "Cité Ouvrière Lafarge",
-            "en": "Cité Ouvrière Lafarge"
+            "en": "Cité Ouvrière Lafarge",
+            "fr": "Cité Ouvrière Lafarge"
           },
           "coords": [
             4.689832,
@@ -719,7 +796,8 @@
             "de": "Spazieren Sie durch diese gut erhaltene Arbeitersiedlung, um die Industriegeschichte des 19. Jahrhunderts zu erleben, aber tragen Sie bequeme Schuhe für die unebenen Wege.",
             "hu": "Sétáljon végig ezen a jól megőrzött munkástelepen a 19. századi ipartörténet megismeréséhez, de viseljen kényelmes cipőt, mivel az utak meglehetősen egyenetlenek.",
             "ro": "Plimbați-vă prin această colonie muncitorească bine conservată pentru a înțelege istoria industrială, dar purtați încălțăminte comodă, deoarece aleile pot fi denivelate.",
-            "en": "Wander through this well-preserved industrial workers' settlement to understand 19th-century labor history, but wear comfortable shoes as the paths can be uneven."
+            "en": "Wander through this well-preserved industrial workers' settlement to understand 19th-century labor history, but wear comfortable shoes as the paths can be uneven.",
+            "fr": "Parcourez ce lotissement d'ouvriers industriel bien préservé pour comprendre l'histoire du travail au XIXe siècle, mais portez des chaussures confortables car les chemins peuvent être inégaux."
           }
         },
         {
@@ -727,7 +805,8 @@
             "de": "Lac de la Camuse",
             "hu": "Lac de la Camuse",
             "ro": "Lac de la Camuse",
-            "en": "Lac de la Camuse"
+            "en": "Lac de la Camuse",
+            "fr": "Lac de la Camuse"
           },
           "coords": [
             4.694172,
@@ -742,7 +821,8 @@
             "de": "Genießen Sie die ruhige Natur dieses Sees bei einem Picknick und bringen Sie Insektenschutzmittel mit, wenn Sie bis in die späten Nachmittagsstunden bleiben möchten.",
             "hu": "Élvezze a tó békés természeti környezetét, amely tökéletes egy piknikhez, de hozzon szúnyogriasztót, ha a késő délutáni órákig tervez maradni a vízparton.",
             "ro": "Bucurați-vă de mediul natural liniștit al acestui lac, perfect pentru un picnic, și aduceți spray contra țânțarilor dacă plănuiți să stați până târziu.",
-            "en": "Enjoy the serene natural surroundings of this peaceful lake, perfect for a picnic, and bring mosquito repellent if you plan to stay until the late afternoon hours."
+            "en": "Enjoy the serene natural surroundings of this peaceful lake, perfect for a picnic, and bring mosquito repellent if you plan to stay until the late afternoon hours.",
+            "fr": "Profitez du cadre naturel serein de ce lac paisible, parfait pour un pique-nique ; apportez un anti-moustique si vous comptez rester jusqu'en fin d'après-midi."
           }
         },
         {
@@ -750,7 +830,8 @@
             "de": "Lac de Gournier",
             "hu": "Lac de Gournier",
             "ro": "Lac de Gournier",
-            "en": "Lac de Gournier"
+            "en": "Lac de Gournier",
+            "fr": "Lac de Gournier"
           },
           "coords": [
             4.733556,
@@ -765,7 +846,8 @@
             "de": "Genießen Sie die schönen Spiegelungen auf dem Wasser an diesem abgelegenen Ort und packen Sie eine leichte Jacke ein, da der Wind hier unerwartet auffrischen kann.",
             "hu": "Gyönyörködjön a víztükör csodás visszatükröződéseiben ezen az eldugott helyen, és hozzon magával egy könnyű kabátot, mert a szél váratlanul felerősödhet a parton.",
             "ro": "Admirați reflexiile frumoase de pe suprafața apei în acest loc retras și luați o jachetă subțire, deoarece vântul se poate înteți brusc aproape de țărm.",
-            "en": "Take in the beautiful reflections on the water's surface at this secluded spot, and pack a light jacket as the wind can pick up unexpectedly near the shoreline."
+            "en": "Take in the beautiful reflections on the water's surface at this secluded spot, and pack a light jacket as the wind can pick up unexpectedly near the shoreline.",
+            "fr": "Admirez les magnifiques reflets à la surface de l'eau dans cet endroit isolé et emportez une veste légère car le vent peut se lever brusquement au bord du rivage."
           }
         },
         {
@@ -773,7 +855,8 @@
             "de": "Lac de Maubec",
             "hu": "Lac de Maubec",
             "ro": "Lac de Maubec",
-            "en": "Lac de Maubec"
+            "en": "Lac de Maubec",
+            "fr": "Lac de Maubec"
           },
           "coords": [
             4.765449,
@@ -788,7 +871,8 @@
             "de": "Entspannen Sie an diesem weitläufigen und ruhigen See im Grünen und kommen Sie weit vor Sonnenuntergang an, um die atemberaubenden Farben der goldenen Stunde einzufangen.",
             "hu": "Pihenjen ezen a buja növényzettel körülvett, tágas és csendes tavon, és érkezzen jóval naplemente előtt, hogy megörökíthesse a lenyűgöző aranyóra színeit.",
             "ro": "Relaxați-vă la acest lac întins și liniștit, înconjurat de verdeață, și ajungeți mult înainte de apus pentru a surprinde culorile uimitoare ale orei de aur.",
-            "en": "Relax at this expansive and tranquil lake surrounded by lush greenery, and arrive well before sunset to capture the stunning golden hour colors on your camera."
+            "en": "Relax at this expansive and tranquil lake surrounded by lush greenery, and arrive well before sunset to capture the stunning golden hour colors on your camera.",
+            "fr": "Détendez-vous au bord de ce lac vaste et tranquille entouré d'une végétation luxuriante ; arrivez bien avant le coucher du soleil pour capter les magnifiques couleurs de l'heure dorée."
           }
         }
       ],
@@ -796,7 +880,8 @@
         "de": "Starten Sie Ihre Fahrt am Widerstandsmuseum und machen Sie danach einen kurzen Halt an der Église Saint-Étienne. Mittags besichtigen Sie die beeindruckende Cité Ouvrière Lafarge. Der Nachmittag ist der Natur mit dem Lac de la Camuse und Lac de Gournier gewidmet. Beenden Sie Ihren Roadtrip am idyllischen Lac de Maubec.",
         "hu": "Kezdje a napot az ellenállási múzeumban, majd álljon meg a történelmi Église Saint-Étienne templomnál. Délben fedezze fel a Cité Ouvrière Lafarge lenyűgöző ipartelepét. A délután a természeté, látogasson el a Lac de la Camuse és a Lac de Gournier tavakhoz, majd zárja a napot a festői Lac de Maubec partján.",
         "ro": "Conduceți spre muzeul rezistenței pentru istorie, urmat de o scurtă oprire la Église Saint-Étienne. La prânz vizitați impresionanta așezare industrială Cité Ouvrière Lafarge. După-amiaza este dedicată naturii la Lac de la Camuse și Lac de Gournier. Încheiați excursia la idilicul Lac de Maubec pentru un apus minunat.",
-        "en": "Drive directly to the resistance museum to start your day with profound history, followed by a quick stop at Église Saint-Étienne. Midday takes you to the impressive industrial settlement of Cité Ouvrière Lafarge. The afternoon is dedicated to nature, visiting Lac de la Camuse and Lac de Gournier. End your road trip at Lac de Maubec for a picturesque sunset."
+        "en": "Drive directly to the resistance museum to start your day with profound history, followed by a quick stop at Église Saint-Étienne. Midday takes you to the impressive industrial settlement of Cité Ouvrière Lafarge. The afternoon is dedicated to nature, visiting Lac de la Camuse and Lac de Gournier. End your road trip at Lac de Maubec for a picturesque sunset.",
+        "fr": "Conduisez directement au musée de la Résistance pour commencer la journée par une histoire profonde, puis faites une halte rapide à l'Église Saint-Étienne. À midi, visitez l'imposante Cité Ouvrière Lafarge. L'après-midi est consacré à la nature avec le Lac de la Camuse et le Lac de Gournier. Terminez votre road trip au Lac de Maubec pour un coucher de soleil pittoresque."
       },
       "variants": {
         "rainy": {
@@ -804,7 +889,8 @@
             "de": "Der Morgen beginnt trocken im Museum. Mittags erfordern Kirche und historische Siedlung nur kurze Sprints durch den Regen. Der Nachmittag bietet eine malerische Fahrt zu den Seen. Genießen Sie abends die mystische, neblige Stimmung direkt aus dem warmen, trockenen Auto.",
             "hu": "A reggel szárazon indul a múzeumban. Délben a templom és a történelmi település csak rövid sprinteket igényel az esőben. A délután festői autózást kínál a tavakhoz. Este élvezze a misztikus, ködös tájat egyenesen a meleg és száraz autóból.",
             "ro": "Dimineața începe la uscat în interiorul muzeului. La prânz, biserica și cartierul necesită doar sprinturi scurte prin ploaie. După-amiaza oferă o plimbare pitorească spre lacuri. Seara, bucurați-vă de peisajul mistic direct din mașina încălzită.",
-            "en": "The morning starts completely dry inside the museum. Midday visits to the church and estate require just short dashes through the rain. Afternoon offers a scenic, misty drive past the lakes. Enjoy the moody, rainy nature safely from your warm car in the evening."
+            "en": "The morning starts completely dry inside the museum. Midday visits to the church and estate require just short dashes through the rain. Afternoon offers a scenic, misty drive past the lakes. Enjoy the moody, rainy nature safely from your warm car in the evening.",
+            "fr": "La matinée commence au sec à l'intérieur du musée. Les visites de midi à l'église et au domaine nécessitent de courtes traversées sous la pluie. L'après-midi offre une route scénique et brumeuse le long des lacs. Profitez de la nature pluvieuse et d'ambiance en toute sécurité depuis votre voiture chauffée le soir."
           },
           "stops": [
             {
@@ -812,13 +898,15 @@
                 "de": "Musée de la Résistance en Ardèche",
                 "hu": "Musée de la Résistance en Ardèche",
                 "ro": "Musée de la Résistance en Ardèche",
-                "en": "Musée de la Résistance en Ardèche"
+                "en": "Musée de la Résistance en Ardèche",
+                "fr": "Musée de la Résistance en Ardèche"
               },
               "tip_5lang": {
                 "de": "Ein perfekter Innenstart; tauchen Sie in die Geschichte ein, ohne sich um den Regen draußen zu kümmern.",
                 "hu": "Tökéletes beltéri kezdés; merüljön el a történelemben anélkül, hogy aggódnia kellene a kinti felhőszakadás miatt.",
                 "ro": "Un început de interior perfect; aprofundați istoria fără a vă face griji pentru ploaia torențială de afară.",
-                "en": "A perfect indoor start; dive into profound WWII history without worrying about the heavy downpour outside."
+                "en": "A perfect indoor start; dive into profound WWII history without worrying about the heavy downpour outside.",
+                "fr": "Un début parfait en intérieur ; plongez dans l'histoire profonde de la Seconde Guerre mondiale sans vous soucier des fortes averses extérieures."
               }
             },
             {
@@ -826,13 +914,15 @@
                 "de": "Église Saint-Étienne",
                 "hu": "Église Saint-Étienne",
                 "ro": "Église Saint-Étienne",
-                "en": "Église Saint-Étienne"
+                "en": "Église Saint-Étienne",
+                "fr": "Église Saint-Étienne"
               },
               "tip_5lang": {
                 "de": "Parken Sie nah und huschen Sie schnell hinein, um die Architektur in diesem trockenen Heiligtum zu bewundern.",
                 "hu": "Parkoljon közel, és szaladjon be gyorsan, hogy megcsodálja az építészetet ebben a csendes, száraz szentélyben.",
                 "ro": "Parcați aproape și fugiți înăuntru pentru a admira arhitectura din acest sanctuar uscat și liniștit.",
-                "en": "Park close and dash inside to dry off and admire the beautiful architecture in this quiet sanctuary."
+                "en": "Park close and dash inside to dry off and admire the beautiful architecture in this quiet sanctuary.",
+                "fr": "Garez-vous à proximité et courez à l'intérieur pour vous sécher et admirer la belle architecture de ce sanctuaire paisible."
               }
             },
             {
@@ -840,13 +930,15 @@
                 "de": "Cité Ouvrière Lafarge",
                 "hu": "Cité Ouvrière Lafarge",
                 "ro": "Cité Ouvrière Lafarge",
-                "en": "Cité Ouvrière Lafarge"
+                "en": "Cité Ouvrière Lafarge",
+                "fr": "Cité Ouvrière Lafarge"
               },
               "tip_5lang": {
                 "de": "Beobachten Sie die historische Architektur bequem vom Auto aus oder nutzen Sie einen Regenschirm.",
                 "hu": "Figyelje meg a történelmi építészetet kényelmesen az autóból, vagy használjon esernyőt a rövid sétákhoz.",
                 "ro": "Observați arhitectura istorică din confortul mașinii sau folosiți o umbrelă pentru o plimbare scurtă.",
-                "en": "Observe the historic architecture from the comfort of your car, or use an umbrella for short, careful walks."
+                "en": "Observe the historic architecture from the comfort of your car, or use an umbrella for short, careful walks.",
+                "fr": "Observez l'architecture historique depuis le confort de votre voiture, ou utilisez un parapluie pour de courtes promenades prudentes."
               }
             },
             {
@@ -854,13 +946,15 @@
                 "de": "Lac de la Camuse",
                 "hu": "Lac de la Camuse",
                 "ro": "Lac de la Camuse",
-                "en": "Lac de la Camuse"
+                "en": "Lac de la Camuse",
+                "fr": "Lac de la Camuse"
               },
               "tip_5lang": {
                 "de": "Der Regen verleiht dem See eine besondere Atmosphäre; genießen Sie die Aussicht direkt aus dem geparkten Auto.",
                 "hu": "Az eső különleges, borongós hangulatot kölcsönöz a tónak; élvezze a kilátást közvetlenül a parkoló autóból.",
                 "ro": "Ploaia adaugă o atmosferă specială lacului; bucurați-vă de priveliște direct din mașina parcată.",
-                "en": "The rain adds a moody atmosphere to the lake; simply enjoy the beautiful view directly from your parked vehicle."
+                "en": "The rain adds a moody atmosphere to the lake; simply enjoy the beautiful view directly from your parked vehicle.",
+                "fr": "La pluie ajoute une atmosphère mélancolique au lac ; profitez simplement de la belle vue depuis votre véhicule stationné."
               }
             },
             {
@@ -868,13 +962,15 @@
                 "de": "Lac de Gournier",
                 "hu": "Lac de Gournier",
                 "ro": "Lac de Gournier",
-                "en": "Lac de Gournier"
+                "en": "Lac de Gournier",
+                "fr": "Lac de Gournier"
               },
               "tip_5lang": {
                 "de": "Sehen Sie zu, wie Regentropfen auf dem Wasser tanzen; bleiben Sie auf dem Asphalt, um Schlamm zu vermeiden.",
                 "hu": "Nézze, ahogy az esőcseppek táncolnak a vízen; maradjon a szilárd burkolatú parkolóban, hogy elkerülje a sarat.",
                 "ro": "Priviți picăturile de ploaie dansând pe apă; rămâneți în zona pavată pentru a evita noroiul lipicios.",
-                "en": "Watch the raindrops dance on the water surface; stick to the paved parking area to avoid stepping in deep mud."
+                "en": "Watch the raindrops dance on the water surface; stick to the paved parking area to avoid stepping in deep mud.",
+                "fr": "Regardez les gouttes de pluie danser à la surface de l'eau ; restez sur l'aire de stationnement goudronnée pour éviter les flaques de boue profondes."
               }
             },
             {
@@ -882,13 +978,15 @@
                 "de": "Lac de Maubec",
                 "hu": "Lac de Maubec",
                 "ro": "Lac de Maubec",
-                "en": "Lac de Maubec"
+                "en": "Lac de Maubec",
+                "fr": "Lac de Maubec"
               },
               "tip_5lang": {
                 "de": "Eine neblige Fahrt beendet Ihren Tag; stellen Sie sicher, dass Ihre Scheibenwischer voll funktionsfähig sind.",
                 "hu": "Egy ködös, festői kocsikázás zárja a napot; ügyeljen arra, hogy az ablaktörlők tökéletesen működjenek.",
                 "ro": "O plimbare cețoasă încheie ziua; asigurați-vă că ștergătoarele de parbriz funcționează perfect.",
-                "en": "A scenic, misty drive concludes your day; ensure your windshield wipers are fully functional for safe visibility."
+                "en": "A scenic, misty drive concludes your day; ensure your windshield wipers are fully functional for safe visibility.",
+                "fr": "Une route brumeuse et pittoresque conclut votre journée ; assurez-vous que vos essuie-glaces fonctionnent correctement pour une bonne visibilité."
               }
             }
           ]
@@ -898,7 +996,8 @@
             "de": "Starten Sie den Tag mit einer beheizten Fahrt zum Museum. Mittags erkunden Sie historische Stätten in der klaren, kalten Luft. Der Nachmittag bietet entspanntes See-Hopping aus dem warmen Fahrzeug. Der Tag endet perfekt mit dem frühen Wintersonnenuntergang am See.",
             "hu": "Kezdje a napot fűtött utazással a múzeumba. Délben fedezze fel a történelmi helyszíneket a kristálytiszta, fagyos levegőben. A délután kényelmes tóparti autózást kínál. A nap tökéletesen zárul a lenyűgöző, korai téli naplementével az utolsó tónál.",
             "ro": "Începeți ziua cu un drum încălzit spre muzeu. La prânz, explorați siturile istorice în aerul rece și clar. După-amiaza oferă un tur relaxant al lacurilor din vehiculul cald. Ziua se încheie perfect cu apusul timpuriu de iarnă pe ultimul lac.",
-            "en": "Start your day with a heated drive to the museum. Midday explores historic sites in the crisp, freezing air. The afternoon offers relaxed lake hopping from the comfort of your warm vehicle. The day ends perfectly with the spectacular early winter sunset."
+            "en": "Start your day with a heated drive to the museum. Midday explores historic sites in the crisp, freezing air. The afternoon offers relaxed lake hopping from the comfort of your warm vehicle. The day ends perfectly with the spectacular early winter sunset.",
+            "fr": "Commencez la journée par une conduite chauffée jusqu'au musée. À midi, explorez les sites historiques dans l'air vif et glacial. L'après-midi, faites le tour des lacs confortablement depuis votre véhicule chaud. La journée se termine par un spectaculaire coucher de soleil hivernal précoce."
           },
           "stops": [
             {
@@ -906,13 +1005,15 @@
                 "de": "Musée de la Résistance en Ardèche",
                 "hu": "Musée de la Résistance en Ardèche",
                 "ro": "Musée de la Résistance en Ardèche",
-                "en": "Musée de la Résistance en Ardèche"
+                "en": "Musée de la Résistance en Ardèche",
+                "fr": "Musée de la Résistance en Ardèche"
               },
               "tip_5lang": {
                 "de": "Genießen Sie das beheizte Innere, während Sie sich in die tiefgreifenden Geschichten des Widerstands vertiefen.",
                 "hu": "Élvezze a fűtött belső teret, miközben elmélyül a helyi ellenállás megrázó történelmi történeteiben.",
                 "ro": "Bucurați-vă de interiorul încălzit în timp ce vă adânciți în poveștile profunde ale rezistenței locale.",
-                "en": "Enjoy the heated interior while delving into the profound and moving stories of the local resistance movement."
+                "en": "Enjoy the heated interior while delving into the profound and moving stories of the local resistance movement.",
+                "fr": "Profitez de l'intérieur chauffé tout en découvrant les récits profonds et émouvants du mouvement de résistance local."
               }
             },
             {
@@ -920,13 +1021,15 @@
                 "de": "Église Saint-Étienne",
                 "hu": "Église Saint-Étienne",
                 "ro": "Église Saint-Étienne",
-                "en": "Église Saint-Étienne"
+                "en": "Église Saint-Étienne",
+                "fr": "Église Saint-Étienne"
               },
               "tip_5lang": {
                 "de": "Betreten Sie diese Kirche, um der frostigen Luft zu entkommen und die ruhige Winteratmosphäre zu genießen.",
                 "hu": "Lépjen be a templomba, hogy elmeneküljön a fagyos levegő elől, és élvezze a derűs, békés hangulatot.",
                 "ro": "Intrați în această biserică pentru a scăpa de aerul înghețat și pentru a admira atmosfera senină de iarnă.",
-                "en": "Step inside this historic church to quickly escape the frosty air and admire the remarkably serene atmosphere."
+                "en": "Step inside this historic church to quickly escape the frosty air and admire the remarkably serene atmosphere.",
+                "fr": "Entrez dans cette église historique pour échapper rapidement à l'air glacial et admirer l'atmosphère remarquablement sereine."
               }
             },
             {
@@ -934,13 +1037,15 @@
                 "de": "Cité Ouvrière Lafarge",
                 "hu": "Cité Ouvrière Lafarge",
                 "ro": "Cité Ouvrière Lafarge",
-                "en": "Cité Ouvrière Lafarge"
+                "en": "Cité Ouvrière Lafarge",
+                "fr": "Cité Ouvrière Lafarge"
               },
               "tip_5lang": {
                 "de": "Die historische Stadt sieht im kalten Winterlicht faszinierend aus; behalten Sie Ihre Jacke für kurze Stopps an.",
                 "hu": "A történelmi város lenyűgöző a hideg téli napfényben; a rövid fotós megállókhoz ne vegye le a kabátját.",
                 "ro": "Orașul istoric arată fascinant în lumina rece a iernii; păstrați jacheta pe voi pentru opriri scurte.",
-                "en": "The historic company town looks stark and fascinating in the cold winter sunlight; keep your coat on for stops."
+                "en": "The historic company town looks stark and fascinating in the cold winter sunlight; keep your coat on for stops.",
+                "fr": "La cité ouvrière historique paraît austère et fascinante sous le soleil bas d'hiver ; gardez votre manteau pour les arrêts."
               }
             },
             {
@@ -948,13 +1053,15 @@
                 "de": "Lac de la Camuse",
                 "hu": "Lac de la Camuse",
                 "ro": "Lac de la Camuse",
-                "en": "Lac de la Camuse"
+                "en": "Lac de la Camuse",
+                "fr": "Lac de la Camuse"
               },
               "tip_5lang": {
                 "de": "Die frostbedeckten Ufer sind atemberaubend; lassen Sie die Autoheizung für schnelle Aufwärmphasen laufen.",
                 "hu": "A dérrel borított partok lenyűgözőek; járassa az autó fűtését a gyors felmelegedés érdekében a fotózás után.",
                 "ro": "Țărmurile acoperite de îngheț sunt uimitoare; lăsați încălzirea mașinii pornită pentru o încălzire rapidă.",
-                "en": "The frost-covered lake shores are stunning; keep the car heater running for quick warm-ups after taking photos."
+                "en": "The frost-covered lake shores are stunning; keep the car heater running for quick warm-ups after taking photos.",
+                "fr": "Les rives du lac couvertes de givre sont splendides ; gardez le chauffage de la voiture allumé pour vous réchauffer rapidement après les photos."
               }
             },
             {
@@ -962,13 +1069,15 @@
                 "de": "Lac de Gournier",
                 "hu": "Lac de Gournier",
                 "ro": "Lac de Gournier",
-                "en": "Lac de Gournier"
+                "en": "Lac de Gournier",
+                "fr": "Lac de Gournier"
               },
               "tip_5lang": {
                 "de": "Ein schöner Nachmittagsstopp; ziehen Sie dicke Schichten an, wenn Sie aussteigen, um das Eis zu fotografieren.",
                 "hu": "Gyönyörű délutáni megálló; vegyen fel vastag rétegeket, ha kiszáll lefotózni a tó jeges, fagyott széleit.",
                 "ro": "O oprire frumoasă după-amiaza; îmbrăcați straturi groase dacă ieșiți să fotografiați marginile înghețate.",
-                "en": "A beautiful afternoon stop; bundle up in heavy layers if you step out to photograph the freezing, icy edges."
+                "en": "A beautiful afternoon stop; bundle up in heavy layers if you step out to photograph the freezing, icy edges.",
+                "fr": "Une belle halte d'après-midi ; emmitouflez-vous dans des couches épaisses si vous sortez pour photographier les bords gelés et glacés."
               }
             },
             {
@@ -976,13 +1085,15 @@
                 "de": "Lac de Maubec",
                 "hu": "Lac de Maubec",
                 "ro": "Lac de Maubec",
-                "en": "Lac de Maubec"
+                "en": "Lac de Maubec",
+                "fr": "Lac de Maubec"
               },
               "tip_5lang": {
                 "de": "Kommen Sie genau rechtzeitig für den spektakulären, frühen Wintersonnenuntergang, der sich im Wasser spiegelt.",
                 "hu": "Érkezzen pont időben, hogy megcsodálja a víz tükrén megcsillanó látványos, korai téli naplementét.",
                 "ro": "Ajungeți la timp pentru spectaculosul apus de soare de iarnă care se reflectă pașnic pe apa liniștită.",
-                "en": "Arrive just in time for the spectacular early winter sunset beautifully reflecting over the peaceful water."
+                "en": "Arrive just in time for the spectacular early winter sunset beautifully reflecting over the peaceful water.",
+                "fr": "Arrivez juste à temps pour le spectaculaire coucher du soleil hivernal qui se reflète sur l'eau paisible."
               }
             }
           ]

@@ -21,7 +21,8 @@
             "de": "Place des Laitiers",
             "hu": "Place des Laitiers",
             "ro": "Place des Laitiers",
-            "en": "Place des Laitiers"
+            "en": "Place des Laitiers",
+            "fr": "Place des Laitiers"
           },
           "coords": [
             0.617,
@@ -36,7 +37,8 @@
             "de": "Bewundern Sie die Fachwerkhäuser am Morgen.",
             "hu": "Csodálja meg a fagerendás házakat reggel.",
             "ro": "Admirați casele cu bârne de lemn dimineața.",
-            "en": "Admire the half-timbered houses in the morning light."
+            "en": "Admire the half-timbered houses in the morning light.",
+            "fr": "Admirez les maisons à colombages au clair du matin."
           }
         },
         {
@@ -44,7 +46,8 @@
             "de": "Kathedrale Saint-Caprais",
             "hu": "Saint-Caprais székesegyház",
             "ro": "Catedrala Saint-Caprais",
-            "en": "Saint-Caprais Cathedral"
+            "en": "Saint-Caprais Cathedral",
+            "fr": "Cathédrale Saint-Caprais"
           },
           "coords": [
             0.619,
@@ -59,7 +62,8 @@
             "de": "UNESCO-Weltkulturerbe mit prächtigen Fresken.",
             "hu": "UNESCO világörökség, csodás freskókkal.",
             "ro": "Patrimoniu UNESCO, cu fresce superbe.",
-            "en": "UNESCO World Heritage site with stunning 19th-century frescoes."
+            "en": "UNESCO World Heritage site with stunning 19th-century frescoes.",
+            "fr": "Site du patrimoine mondial de l'UNESCO avec de magnifiques fresques du XIXe siècle."
           }
         },
         {
@@ -67,7 +71,8 @@
             "de": "Museum der Schönen Künste",
             "hu": "Szépművészeti Múzeum",
             "ro": "Muzeul de Arte Frumoase",
-            "en": "Museum of Fine Arts"
+            "en": "Museum of Fine Arts",
+            "fr": "Musée des Beaux-Arts"
           },
           "coords": [
             0.618,
@@ -82,7 +87,8 @@
             "de": "In vier Renaissance-Palästen untergebracht.",
             "hu": "Négy reneszánsz palotában kapott helyet.",
             "ro": "Găzduit în patru palate renascentiste.",
-            "en": "Located inside four Renaissance mansions."
+            "en": "Located inside four Renaissance mansions.",
+            "fr": "Situé dans quatre hôtels particuliers Renaissance."
           }
         },
         {
@@ -90,7 +96,8 @@
             "de": "Boulevard de la République",
             "hu": "Boulevard de la République",
             "ro": "Boulevard de la République",
-            "en": "Boulevard de la République"
+            "en": "Boulevard de la République",
+            "fr": "Boulevard de la République"
           },
           "coords": [
             0.615,
@@ -105,7 +112,8 @@
             "de": "Die Hauptader für Shopping und Mittagessen.",
             "hu": "A város főereje vásárláshoz és ebédhez.",
             "ro": "Artera principală pentru cumpărături și prânz.",
-            "en": "The main artery for shopping and lunch."
+            "en": "The main artery for shopping and lunch.",
+            "fr": "L'artère principale pour faire du shopping et déjeuner."
           }
         },
         {
@@ -113,7 +121,8 @@
             "de": "Jakobinerkirche",
             "hu": "Jakobinusok temploma",
             "ro": "Biserica Iacobinilor",
-            "en": "Jacobins Church"
+            "en": "Jacobins Church",
+            "fr": "Église des Jacobins"
           },
           "coords": [
             0.616,
@@ -128,7 +137,8 @@
             "de": "Einzigartige zweischiffige Architektur.",
             "hu": "Egyedülálló kéthajós építészet.",
             "ro": "Arhitectură unică cu două nave.",
-            "en": "Unique architecture with two parallel naves."
+            "en": "Unique architecture with two parallel naves.",
+            "fr": "Architecture unique avec deux nefs parallèles."
           }
         },
         {
@@ -136,7 +146,8 @@
             "de": "Kanalbrücke von Agen",
             "hu": "Ageni csatornahíd",
             "ro": "Podul-canal din Agen",
-            "en": "Agen Canal Bridge"
+            "en": "Agen Canal Bridge",
+            "fr": "Pont-canal d'Agen"
           },
           "coords": [
             0.606,
@@ -151,7 +162,8 @@
             "de": "Zweitlängste Kanalbrücke Frankreichs.",
             "hu": "Franciaország második leghosszabb csatornahídja.",
             "ro": "Al doilea cel mai lung pod-canal din Franța.",
-            "en": "The second longest canal bridge in France."
+            "en": "The second longest canal bridge in France.",
+            "fr": "Le deuxième plus long pont-canal de France."
           }
         }
       ],
@@ -159,7 +171,8 @@
         "de": "Entdecken Sie Agen zu Fuß, beginnend im mittelalterlichen Herzen am Place des Laitiers. Nach dem Besuch der prächtigen Kathedrale und des renommierten Kunstmuseums genießen Sie ein Mittagessen am Boulevard de la République. Den Nachmittag verbringen Sie in der historischen Jakobinerkirche und beenden den Tag mit einem Spaziergang über die beeindruckende Kanalbrücke über der Garonne.",
         "hu": "Fedezze fel Agent gyalogosan, kezdve a középkori szívvel a Place des Laitiers-n. A pompás székesegyház és a neves művészeti múzeum meglátogatása után élvezze az ebédet a Boulevard de la République-on. A délutánt a történelmi Jakobinusok templomában tölti, a napot pedig a Garonne felett átívelő lenyűgöző csatornahídon tett sétával zárja.",
         "ro": "Descoperiți Agen la pas, începând din inima medievală din Place des Laitiers. După vizitarea catedralei magnifice și a renumitului muzeu de artă, bucurați-vă de un prânz pe Boulevard de la République. Petreceți după-amiaza la biserica istorică a Iacobinilor și încheiați ziua cu o plimbare pe impresionantul pod-canal peste Garonne.",
-        "en": "Discover Agen on foot, starting in the medieval heart at Place des Laitiers. After visiting the magnificent cathedral and the renowned fine arts museum, enjoy lunch on Boulevard de la République. Spend the afternoon at the historic Jacobins Church and finish the day with a stroll across the impressive canal bridge spanning the Garonne river."
+        "en": "Discover Agen on foot, starting in the medieval heart at Place des Laitiers. After visiting the magnificent cathedral and the renowned fine arts museum, enjoy lunch on Boulevard de la République. Spend the afternoon at the historic Jacobins Church and finish the day with a stroll across the impressive canal bridge spanning the Garonne river.",
+        "fr": "Découvrez Agen à pied, en commençant par le cœur médiéval à la Place des Laitiers. Après la visite de la magnifique cathédrale et du célèbre musée des beaux-arts, déjeunez sur le Boulevard de la République. Passez l'après-midi à l'historique église des Jacobins et terminez la journée par une promenade sur l'impressionnant pont-canal qui enjambe la Garonne."
       },
       "gastro_picks": {
         "de": [
@@ -319,6 +332,12 @@
           "The cathedral is often closed during the lunch break.",
           "Wear comfortable shoes for the cobblestone streets.",
           "The canal path offers great shade during hot summer days."
+        ],
+        "fr": [
+          "Le centre historique est compact et se découvre mieux à pied.",
+          "La cathédrale est souvent fermée pendant la pause déjeuner.",
+          "Portez des chaussures confortables pour les rues pavées.",
+          "Le chemin du canal offre une excellente ombre pendant les journées d'été chaudes."
         ]
       }
     },
@@ -335,7 +354,8 @@
             "de": "Kanalbrücke von Agen",
             "hu": "Ageni csatornahíd",
             "ro": "Podul-canal din Agen",
-            "en": "Agen Canal Bridge"
+            "en": "Agen Canal Bridge",
+            "fr": "Pont-canal d'Agen"
           },
           "coords": [
             0.606,
@@ -350,7 +370,8 @@
             "de": "Fahren Sie mit dem Rad über den Fluss.",
             "hu": "Tekerjen át a folyó felett.",
             "ro": "Traversați râul pe bicicletă.",
-            "en": "Cycle across the river on the bridge."
+            "en": "Cycle across the river on the bridge.",
+            "fr": "Traversez la rivière à vélo sur le pont."
           }
         },
         {
@@ -358,7 +379,8 @@
             "de": "Kathedrale Saint-Caprais",
             "hu": "Saint-Caprais székesegyház",
             "ro": "Catedrala Saint-Caprais",
-            "en": "Saint-Caprais Cathedral"
+            "en": "Saint-Caprais Cathedral",
+            "fr": "Cathédrale Saint-Caprais"
           },
           "coords": [
             0.619,
@@ -373,7 +395,8 @@
             "de": "Parken Sie am Eingang des Zentrums.",
             "hu": "Parkoljon a központ bejáratánál.",
             "ro": "Parcați la intrarea în centru.",
-            "en": "Park your bike at the center entrance."
+            "en": "Park your bike at the center entrance.",
+            "fr": "Garez votre vélo à l'entrée centrale."
           }
         },
         {
@@ -381,7 +404,8 @@
             "de": "Théâtre Ducourneau",
             "hu": "Ducourneau Színház",
             "ro": "Teatrul Ducourneau",
-            "en": "Ducourneau Theatre"
+            "en": "Ducourneau Theatre",
+            "fr": "Théâtre Ducourneau"
           },
           "coords": [
             0.617,
@@ -396,7 +420,8 @@
             "de": "Prachtvolle italienische Fassade.",
             "hu": "Pompás olasz stílusú homlokzat.",
             "ro": "Fațadă superbă în stil italian.",
-            "en": "Stunning Italian-style facade."
+            "en": "Stunning Italian-style facade.",
+            "fr": "Magnifique façade de style italien."
           }
         },
         {
@@ -404,7 +429,8 @@
             "de": "Boulevard de la République",
             "hu": "Boulevard de la République",
             "ro": "Boulevard de la République",
-            "en": "Boulevard de la République"
+            "en": "Boulevard de la République",
+            "fr": "Boulevard de la République"
           },
           "coords": [
             0.615,
@@ -419,7 +445,8 @@
             "de": "Stärken Sie sich für die Weiterfahrt.",
             "hu": "Frissüljön fel a folytatás előtt.",
             "ro": "Reîncărcați-vă bateriile pentru drum.",
-            "en": "Fuel up before heading south."
+            "en": "Fuel up before heading south.",
+            "fr": "Faites le plein avant de partir vers le sud."
           }
         },
         {
@@ -427,7 +454,8 @@
             "de": "Parc de Passeligne",
             "hu": "Passeligne Park",
             "ro": "Parcul Passeligne",
-            "en": "Passeligne Park"
+            "en": "Passeligne Park",
+            "fr": "Parc Passeligne"
           },
           "coords": [
             0.63,
@@ -442,7 +470,8 @@
             "de": "Wunderschöne Seen und Radwege.",
             "hu": "Gyönyörű tavak és kerékpárutak.",
             "ro": "Lacuri frumoase și piste de biciclete.",
-            "en": "Beautiful lakes and dedicated bike paths."
+            "en": "Beautiful lakes and dedicated bike paths.",
+            "fr": "Beaux lacs et pistes cyclables dédiées."
           }
         },
         {
@@ -450,7 +479,8 @@
             "de": "Garonne-Ufer",
             "hu": "Garonne-part",
             "ro": "Malul Garonnei",
-            "en": "Garonne Banks"
+            "en": "Garonne Banks",
+            "fr": "Berges de la Garonne"
           },
           "coords": [
             0.615,
@@ -465,7 +495,8 @@
             "de": "Genießen Sie den Blick auf den Fluss.",
             "hu": "Élvezze a kilátást a folyóra.",
             "ro": "Bucurați-vă de priveliștea râului.",
-            "en": "Enjoy the river views at the golden hour."
+            "en": "Enjoy the river views at the golden hour.",
+            "fr": "Profitez de la vue sur la rivière à l'heure dorée."
           }
         }
       ],
@@ -473,7 +504,8 @@
         "de": "Mit dem Fahrrad erleben Sie das Beste aus Natur und Stadt. Beginnen Sie an der monumentalen Kanalbrücke und fahren Sie dann ins Zentrum zur Kathedrale. Nach dem Mittagessen führt Sie eine angenehme Fahrt nach Süden zum weitläufigen Parc de Passeligne, bevor Sie am Flussufer entlang zurückkehren.",
         "hu": "Kerékpárral a természet és a város legjavát élheti át. Kezdjen a monumentális csatornahídnál, majd tekerjen be a központba a székesegyházhoz. Ebéd után egy kellemes út vezet délre a tágas Passeligne Parkba, mielőtt a folyópart mentén térne vissza.",
         "ro": "Cu bicicleta veți experimenta tot ce e mai bun din natură și oraș. Începeți la podul-canal monumental, apoi pedalați spre centru la catedrală. După prânz, o cursă plăcută vă duce spre sud la vastul Parc de Passeligne, înainte de a reveni pe malul râului.",
-        "en": "By bike, you experience the best of nature and the city. Start at the monumental canal bridge, then pedal into the center to the cathedral. After lunch, a pleasant ride takes you south to the sprawling Passeligne Park, before returning along the riverbanks."
+        "en": "By bike, you experience the best of nature and the city. Start at the monumental canal bridge, then pedal into the center to the cathedral. After lunch, a pleasant ride takes you south to the sprawling Passeligne Park, before returning along the riverbanks.",
+        "fr": "À vélo, vous vivez le meilleur de la nature et de la ville. Commencez au monumental pont-canal, puis pédalez vers le centre jusqu'à la cathédrale. Après le déjeuner, une agréable balade vous conduit au sud jusqu'au vaste parc Passeligne, avant de revenir le long des berges."
       },
       "gastro_picks": {
         "de": [
@@ -581,6 +613,12 @@
           "Watch out for pedestrians in the city center.",
           "Always lock your bike securely.",
           "Passeligne Park is flat and perfect for easy cycling."
+        ],
+        "fr": [
+          "Empruntez la 'Voie Verte' le long du canal.",
+          "Faites attention aux piétons dans le centre-ville.",
+          "Verrouillez toujours votre vélo solidement.",
+          "Le parc Passeligne est plat et parfait pour le vélo facile."
         ]
       }
     },
@@ -597,7 +635,8 @@
             "de": "Place des Laitiers",
             "hu": "Place des Laitiers",
             "ro": "Place des Laitiers",
-            "en": "Place des Laitiers"
+            "en": "Place des Laitiers",
+            "fr": "Place des Laitiers"
           },
           "coords": [
             0.617,
@@ -612,7 +651,8 @@
             "de": "Parken Sie im Parkhaus am Markt.",
             "hu": "Parkoljon a piaci parkolóházban.",
             "ro": "Parcați în parcarea de la piață.",
-            "en": "Park in the underground lot near the market."
+            "en": "Park in the underground lot near the market.",
+            "fr": "Garez-vous dans le parking souterrain près du marché."
           }
         },
         {
@@ -620,7 +660,8 @@
             "de": "Museum der Schönen Künste",
             "hu": "Szépművészeti Múzeum",
             "ro": "Muzeul de Arte Frumoase",
-            "en": "Museum of Fine Arts"
+            "en": "Museum of Fine Arts",
+            "fr": "Musée des Beaux-Arts"
           },
           "coords": [
             0.618,
@@ -635,7 +676,8 @@
             "de": "Cluster: Spaziergang durch die Altstadt.",
             "hu": "Cluster: séta az óvárosban.",
             "ro": "Cluster: plimbare în orașul vechi.",
-            "en": "Cluster walk: easy stroll in the old town."
+            "en": "Cluster walk: easy stroll in the old town.",
+            "fr": "Balade en cluster : promenade facile dans la vieille ville."
           }
         },
         {
@@ -643,7 +685,8 @@
             "de": "Kathedrale Saint-Caprais",
             "hu": "Saint-Caprais székesegyház",
             "ro": "Catedrala Saint-Caprais",
-            "en": "Saint-Caprais Cathedral"
+            "en": "Saint-Caprais Cathedral",
+            "fr": "Cathédrale Saint-Caprais"
           },
           "coords": [
             0.619,
@@ -658,7 +701,8 @@
             "de": "Ein Muss für Geschichtsliebhaber.",
             "hu": "Történelemkedvelőknek kötelező.",
             "ro": "Obligatoriu pentru iubitorii de istorie.",
-            "en": "A must-see for history buffs."
+            "en": "A must-see for history buffs.",
+            "fr": "Incontournable pour les amateurs d'histoire."
           }
         },
         {
@@ -666,7 +710,8 @@
             "de": "Boulevard de la République",
             "hu": "Boulevard de la République",
             "ro": "Boulevard de la République",
-            "en": "Boulevard de la République"
+            "en": "Boulevard de la République",
+            "fr": "Boulevard de la République"
           },
           "coords": [
             0.615,
@@ -681,7 +726,8 @@
             "de": "Rückkehr zum Auto nach dem Essen.",
             "hu": "Ebéd után vissza az autóhoz.",
             "ro": "Reveniți la mașină după prânz.",
-            "en": "Return to your car after lunch."
+            "en": "Return to your car after lunch.",
+            "fr": "Retournez à votre voiture après le déjeuner."
           }
         },
         {
@@ -689,7 +735,8 @@
             "de": "Kanalbrücke von Agen",
             "hu": "Ageni csatornahíd",
             "ro": "Podul-canal din Agen",
-            "en": "Agen Canal Bridge"
+            "en": "Agen Canal Bridge",
+            "fr": "Pont-canal d'Agen"
           },
           "coords": [
             0.606,
@@ -704,7 +751,8 @@
             "de": "Bequemes Parken am Kanalufer.",
             "hu": "Kényelmes parkolás a csatornaparton.",
             "ro": "Parcare comodă pe malul canalului.",
-            "en": "Easy parking right by the canal path."
+            "en": "Easy parking right by the canal path.",
+            "fr": "Parking facile juste à côté de la voie du canal."
           }
         },
         {
@@ -712,7 +760,8 @@
             "de": "Parc de Passeligne",
             "hu": "Passeligne Park",
             "ro": "Parcul Passeligne",
-            "en": "Passeligne Park"
+            "en": "Passeligne Park",
+            "fr": "Parc Passeligne"
           },
           "coords": [
             0.63,
@@ -727,7 +776,8 @@
             "de": "Ideal zum Entspannen im Grünen.",
             "hu": "Ideális kikapcsolódás a zöldben.",
             "ro": "Ideal pentru relaxare în natură.",
-            "en": "Great for relaxing in a green setting."
+            "en": "Great for relaxing in a green setting.",
+            "fr": "Idéal pour se détendre au milieu de la verdure."
           }
         }
       ],
@@ -735,7 +785,8 @@
         "de": "Mit dem Auto erreichen Sie bequem die verschiedenen Highlights von Agen. Starten Sie mit einem Rundgang durch das historische Zentrum (Cluster 1), wo Sie das Museum und die Kathedrale besuchen. Am Nachmittag fahren Sie zur beeindruckenden Kanalbrücke (Cluster 2) und beenden den Tag entspannt im weitläufigen Naturpark Passeligne im Süden.",
         "hu": "Autóval kényelmesen elérheti Agen különböző fénypontjait. Kezdjen egy sétával a történelmi központban (1. klaszter), ahol meglátogatja a múzeumot és a székesegyházat. Délután vezessen a lenyűgöző csatornahídhoz (2. klaszter), a napot pedig a déli tágas Passeligne natúrparkban zárja pihentetően.",
         "ro": "Cu mașina veți ajunge confortabil la diferitele puncte de interes din Agen. Începeți cu un tur al centrului istoric (Cluster 1), vizitând muzeul și catedrala. După-amiaza, conduceți spre impresionantul pod-canal (Cluster 2) și încheiați ziua relaxat în vastul parc natural Passeligne din sud.",
-        "en": "By car, you can comfortably reach the various highlights of Agen. Start with a walking tour of the historic center (Cluster 1), visiting the museum and the cathedral. In the afternoon, drive to the impressive canal bridge (Cluster 2) and finish your day relaxed at the sprawling Passeligne nature park in the south."
+        "en": "By car, you can comfortably reach the various highlights of Agen. Start with a walking tour of the historic center (Cluster 1), visiting the museum and the cathedral. In the afternoon, drive to the impressive canal bridge (Cluster 2) and finish your day relaxed at the sprawling Passeligne nature park in the south.",
+        "fr": "En voiture, vous pouvez atteindre confortablement les différents points forts d'Agen. Commencez par une visite à pied du centre historique (Cluster 1), en visitant le musée et la cathédrale. L'après-midi, conduisez jusqu'à l'impressionnant pont-canal (Cluster 2) et terminez la journée détendu au vaste parc naturel Passeligne au sud."
       },
       "gastro_picks": {
         "de": [
@@ -843,6 +894,12 @@
           "Underground parking is the easiest option for the center.",
           "The drive to Passeligne Park takes about 15 minutes.",
           "Blue zones require a parking disc."
+        ],
+        "fr": [
+          "Évitez l'heure de pointe dans le centre-ville.",
+          "Le parking souterrain est l'option la plus simple pour le centre.",
+          "Le trajet jusqu'au parc Passeligne prend environ 15 minutes.",
+          "Les zones bleues nécessitent un disque de stationnement."
         ]
       }
     },
@@ -859,7 +916,8 @@
             "de": "Bahnhof Agen",
             "hu": "Agen vasútállomás",
             "ro": "Gara Agen",
-            "en": "Agen Railway Station"
+            "en": "Agen Railway Station",
+            "fr": "Gare d'Agen"
           },
           "coords": [
             0.619,
@@ -874,7 +932,8 @@
             "de": "Startpunkt vieler Buslinien.",
             "hu": "Számos buszjárat indulópontja.",
             "ro": "Punctul de plecare pentru multe linii de autobuz.",
-            "en": "Central hub for local bus lines."
+            "en": "Central hub for local bus lines.",
+            "fr": "Nœud central pour les lignes de bus locales."
           }
         },
         {
@@ -882,7 +941,8 @@
             "de": "Kathedrale Saint-Caprais",
             "hu": "Saint-Caprais székesegyház",
             "ro": "Catedrala Saint-Caprais",
-            "en": "Saint-Caprais Cathedral"
+            "en": "Saint-Caprais Cathedral",
+            "fr": "Cathédrale Saint-Caprais"
           },
           "coords": [
             0.619,
@@ -897,7 +957,8 @@
             "de": "Cluster: Zentrum zu Fuß entdecken.",
             "hu": "Cluster: fedezze fel a központot gyalog.",
             "ro": "Cluster: descoperiți centrul la pas.",
-            "en": "Cluster walk: explore the center on foot."
+            "en": "Cluster walk: explore the center on foot.",
+            "fr": "Balade en cluster : explorez le centre à pied."
           }
         },
         {
@@ -905,7 +966,8 @@
             "de": "Museum der Schönen Künste",
             "hu": "Szépművészeti Múzeum",
             "ro": "Muzeul de Arte Frumoase",
-            "en": "Museum of Fine Arts"
+            "en": "Museum of Fine Arts",
+            "fr": "Musée des Beaux-Arts"
           },
           "coords": [
             0.618,
@@ -920,7 +982,8 @@
             "de": "Nur wenige Gehminuten von der Kathedrale.",
             "hu": "Pár perc séta a székesegyháztól.",
             "ro": "La câteva minute de mers de catedrală.",
-            "en": "Just a short walk from the cathedral."
+            "en": "Just a short walk from the cathedral.",
+            "fr": "À quelques pas seulement de la cathédrale."
           }
         },
         {
@@ -928,7 +991,8 @@
             "de": "Boulevard de la République",
             "hu": "Boulevard de la République",
             "ro": "Boulevard de la République",
-            "en": "Boulevard de la République"
+            "en": "Boulevard de la République",
+            "fr": "Boulevard de la République"
           },
           "coords": [
             0.615,
@@ -943,7 +1007,8 @@
             "de": "Nutzen Sie den Pendelbus 'Tempo'.",
             "hu": "Használja a 'Tempo' ingajáratot.",
             "ro": "Folosiți naveta 'Tempo'.",
-            "en": "Use the 'Tempo' shuttle bus."
+            "en": "Use the 'Tempo' shuttle bus.",
+            "fr": "Utilisez la navette 'Tempo'."
           }
         },
         {
@@ -951,7 +1016,8 @@
             "de": "Kanalbrücke von Agen",
             "hu": "Ageni csatornahíd",
             "ro": "Podul-canal din Agen",
-            "en": "Agen Canal Bridge"
+            "en": "Agen Canal Bridge",
+            "fr": "Pont-canal d'Agen"
           },
           "coords": [
             0.606,
@@ -966,7 +1032,8 @@
             "de": "Buslinie Richtung Colayrac.",
             "hu": "Buszjárat Colayrac felé.",
             "ro": "Linie de autobuz spre Colayrac.",
-            "en": "Bus line towards Colayrac stop nearby."
+            "en": "Bus line towards Colayrac stop nearby.",
+            "fr": "Arrêt de bus en direction de Colayrac à proximité."
           }
         },
         {
@@ -974,7 +1041,8 @@
             "de": "Théâtre Ducourneau",
             "hu": "Ducourneau Színház",
             "ro": "Teatrul Ducourneau",
-            "en": "Ducourneau Theatre"
+            "en": "Ducourneau Theatre",
+            "fr": "Théâtre Ducourneau"
           },
           "coords": [
             0.617,
@@ -989,7 +1057,8 @@
             "de": "Rückkehr ins Stadtzentrum.",
             "hu": "Visszatérés a városközpontba.",
             "ro": "Revenirea în centrul orașului.",
-            "en": "Returning to the city center."
+            "en": "Returning to the city center.",
+            "fr": "Retour au centre-ville."
           }
         }
       ],
@@ -997,7 +1066,8 @@
         "de": "Das 'Tempo'-Busnetz von Agen macht das Sightseeing einfach. Vom Bahnhof aus erreichen Sie schnell das historische Zentrum, wo Sie die Kathedrale und das Museum besichtigen können. Ein weiterer Bus bringt Sie zur berühmten Kanalbrücke, bevor Sie zurück ins pulsierende Herz der Stadt fahren, um den Tag am Theater ausklingen zu lassen.",
         "hu": "Az agen-i 'Tempo' buszhálózat megkönnyíti a városnézést. Az állomástól gyorsan elérheti a történelmi központot, ahol meglátogathatja a székesegyházat és a múzeumot. Egy másik busz elviszi a híres csatornahídhoz, mielőtt visszatérne a város lüktető szívébe, hogy a napot a színháznál zárja.",
         "ro": "Rețeaua de autobuze 'Tempo' din Agen face vizitarea ușoară. De la gară ajungeți rapid în centrul istoric, unde puteți vizita catedrala și muzeul. Un alt autobuz vă duce la faimosul pod-canal, înainte de a reveni în inima vibrantă a orașului pentru a încheia ziua la teatru.",
-        "en": "The 'Tempo' bus network in Agen makes sightseeing easy. From the station, you quickly reach the historic center to visit the cathedral and the museum. Another bus takes you to the famous canal bridge, before returning to the vibrant heart of the city to end the day near the theatre."
+        "en": "The 'Tempo' bus network in Agen makes sightseeing easy. From the station, you quickly reach the historic center to visit the cathedral and the museum. Another bus takes you to the famous canal bridge, before returning to the vibrant heart of the city to end the day near the theatre.",
+        "fr": "Le réseau de bus 'Tempo' d'Agen facilite les visites. Depuis la gare, vous atteignez rapidement le centre historique pour visiter la cathédrale et le musée. Un autre bus vous mène au célèbre pont-canal, avant de revenir au cœur vibrant de la ville pour terminer la journée près du théâtre."
       },
       "gastro_picks": {
         "de": [
@@ -1105,6 +1175,12 @@
           "The city center shuttle (Navette) is free.",
           "Buses run less frequently on Sundays.",
           "The 'Tempo' app shows real-time schedules."
+        ],
+        "fr": [
+          "Achetez un ticket journée auprès du conducteur pour plus d'économie.",
+          "La navette du centre-ville (Navette) est gratuite.",
+          "Les bus passent moins fréquemment le dimanche.",
+          "L'application 'Tempo' affiche les horaires en temps réel."
         ]
       }
     }

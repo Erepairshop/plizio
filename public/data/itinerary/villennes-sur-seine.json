@@ -21,7 +21,8 @@
             "de": "Villennes Station",
             "hu": "Villennes Station",
             "ro": "Villennes Station",
-            "en": "Villennes Station"
+            "en": "Villennes Station",
+            "fr": "Gare de Villennes"
           },
           "coords": [
             1.999705,
@@ -36,7 +37,8 @@
             "de": "Bewundern Sie die charmante regionale Architektur dieses historischen Bahnhofs, bevor Sie beginnen, und holen Sie sich am besten eine Karte am Kiosk.",
             "hu": "Csodálja meg a történelmi állomás bájos regionális építészetét, és ne felejtsen el felvenni egy helyi térképet a közeli kioszkból az indulás előtt.",
             "ro": "Admirați arhitectura regională fermecătoare a acestei gări istorice înainte de a începe și nu uitați să luați o hartă locală de la chioșcul din apropiere.",
-            "en": "Admire the charming regional architecture of this historic station before starting your tour, and remember to pick up a local map from the nearby kiosk."
+            "en": "Admire the charming regional architecture of this historic station before starting your tour, and remember to pick up a local map from the nearby kiosk.",
+            "fr": "Admirez le charme régional de cette gare historique avant de commencer votre visite, et pensez à prendre une carte locale au kiosque à proximité."
           }
         },
         {
@@ -44,7 +46,8 @@
             "de": "Saint-Nicolas Church",
             "hu": "Saint-Nicolas Church",
             "ro": "Saint-Nicolas Church",
-            "en": "Saint-Nicolas Church"
+            "en": "Saint-Nicolas Church",
+            "fr": "Église Saint-Nicolas"
           },
           "coords": [
             1.998903,
@@ -59,7 +62,8 @@
             "de": "Betreten Sie diesen romanischen Bau, um die erhaltenen mittelalterlichen Fresken zu bewundern, aber prüfen Sie vorher den Messeplan, um Störungen zu vermeiden.",
             "hu": "Lépjen be ebbe a román stílusú épületbe, hogy megcsodálja a középkori freskókat, de előtte ellenőrizze a misék menetrendjét, hogy elkerülje a zavarást.",
             "ro": "Pășiți în această clădire romanică pentru a admira frescele medievale, dar verificați programul slujbelor în prealabil pentru a evita orele de liturghie.",
-            "en": "Step inside this Romanesque building to admire its preserved medieval frescoes, but check the mass schedule beforehand to avoid visiting during services."
+            "en": "Step inside this Romanesque building to admire its preserved medieval frescoes, but check the mass schedule beforehand to avoid visiting during services.",
+            "fr": "Entrez dans ce bâtiment roman pour admirer ses fresques médiévales préservées, mais vérifiez les horaires de messe pour éviter de visiter pendant les offices."
           }
         },
         {
@@ -67,7 +71,8 @@
             "de": "Marolles Park",
             "hu": "Marolles Park",
             "ro": "Marolles Park",
-            "en": "Marolles Park"
+            "en": "Marolles Park",
+            "fr": "Parc Marolles"
           },
           "coords": [
             1.994203,
@@ -82,7 +87,8 @@
             "de": "Machen Sie einen Spaziergang unter den alten Bäumen dieser Grünanlage und nutzen Sie die schattigen Bänke am Teich für eine entspannte Vormittagspause.",
             "hu": "Sétáljon egyet a buja zöldterület ősfái között, és használja a tó melletti árnyékos padokat egy pihentető délelőtti szünethez a természet lágy ölén.",
             "ro": "Faceți o plimbare printre copacii bătrâni din acest spațiu verde luxuriant și folosiți băncile umbrite de lângă iaz pentru o pauză relaxantă de dimineață.",
-            "en": "Take a peaceful stroll among the ancient trees of this lush green space, and use the shaded benches near the pond for a relaxing mid-morning break."
+            "en": "Take a peaceful stroll among the ancient trees of this lush green space, and use the shaded benches near the pond for a relaxing mid-morning break.",
+            "fr": "Faites une promenade paisible parmi les arbres anciens de ce bel espace vert, et utilisez les bancs ombragés près de l'étang pour une pause relaxante en milieu de matinée."
           }
         },
         {
@@ -90,7 +96,8 @@
             "de": "Jardin Alfred Dreyfus",
             "hu": "Jardin Alfred Dreyfus",
             "ro": "Jardin Alfred Dreyfus",
-            "en": "Jardin Alfred Dreyfus"
+            "en": "Jardin Alfred Dreyfus",
+            "fr": "Jardin Alfred Dreyfus"
           },
           "coords": [
             2.016779,
@@ -105,7 +112,8 @@
             "de": "Erkunden Sie diesen Gedenkgarten, der eine ruhige Atmosphäre bietet, und bringen Sie ein kleines Picknick mit, das Sie auf dem gepflegten Rasen genießen können.",
             "hu": "Fedezze fel ezt az emlékkertet, amely csendes légkört kínál a gondolkodáshoz, és hozzon magával egy kis pikniket a gondozott pázsiton való falatozáshoz.",
             "ro": "Explorați acest grădină comemorativă care oferă o atmosferă liniștită pentru reflecție și aduceți un mic picnic pentru a-l savura pe peluza bine întreținută.",
-            "en": "Explore this commemorative garden offering a quiet atmosphere for reflection, and bring a small picnic to enjoy on the well-maintained lawns with your family."
+            "en": "Explore this commemorative garden offering a quiet atmosphere for reflection, and bring a small picnic to enjoy on the well-maintained lawns with your family.",
+            "fr": "Explorez ce jardin commémoratif offrant une atmosphère tranquille pour la réflexion, et apportez un petit pique-nique à partager sur les pelouses bien entretenues en famille."
           }
         },
         {
@@ -113,7 +121,8 @@
             "de": "Église Saint-Louis",
             "hu": "Église Saint-Louis",
             "ro": "Église Saint-Louis",
-            "en": "Église Saint-Louis"
+            "en": "Église Saint-Louis",
+            "fr": "Église Saint-Louis"
           },
           "coords": [
             2.017324,
@@ -128,7 +137,8 @@
             "de": "Beachten Sie die markante Turmspitze dieser klassischen Kirche des lokalen Erbes und besuchen Sie sie am späten Nachmittag, um das beste Innenlicht zu haben.",
             "hu": "Vegye észre a helyi vallási örökséget képviselő templom jellegzetes tornyát, és látogasson el késő délután, hogy a legjobb belső fényeket élvezhesse.",
             "ro": "Observați turla distinctivă a acestei biserici clasice ce reprezintă moștenirea locală și vizitați-o spre seară pentru cea mai bună lumină interioară.",
-            "en": "Notice the distinctive spire of this classic church representing local religious heritage, and visit in the late afternoon for the best interior lighting."
+            "en": "Notice the distinctive spire of this classic church representing local religious heritage, and visit in the late afternoon for the best interior lighting.",
+            "fr": "Remarquez la flèche distinctive de cette église classique représentant le patrimoine religieux local, et visitez en fin d'après-midi pour une meilleure lumière intérieure."
           }
         }
       ],
@@ -136,7 +146,8 @@
         "de": "Beginnen Sie Ihre Tour am historischen Bahnhof, bevor Sie die mittelalterliche Kirche Saint-Nicolas erreichen. Genießen Sie die grüne Ruhe des Marolles-Parks.",
         "hu": "Kezdje gyalogtúráját a történelmi állomáson, majd érje el a középkori Saint-Nicolas templomot. Élvezze a Marolles park zöldellő nyugalmát.",
         "ro": "Începeți turul pietonal la gara istorică, apoi ajungeți la biserica medievală Saint-Nicolas. Bucurați-vă de liniștea verde a parcului Marolles.",
-        "en": "Start your walking tour at the historic Villennes Station, then quickly reach the medieval Saint-Nicolas Church. Take your time enjoying the green tranquility of Marolles Park."
+        "en": "Start your walking tour at the historic Villennes Station, then quickly reach the medieval Saint-Nicolas Church. Take your time enjoying the green tranquility of Marolles Park.",
+        "fr": "Commencez votre visite à pied à la gare historique de Villennes, puis rejoignez rapidement l'église médiévale Saint-Nicolas. Prenez le temps d'apprécier la quiétude verte du parc Marolles."
       },
       "variants": {
         "rainy": {
@@ -144,7 +155,8 @@
             "de": "Der Morgen beginnt am Bahnhof unter dem Schutz von Regenschirmen. Mittags bietet die Saint-Nicolas-Kirche ein trockenes Refugium vor den Schauern. Am Nachmittag führen die Wege durch die Parks, wo festes, wasserdichtes Schuhwerk auf den aufgeweichten Pfaden unerlässlich ist. Der Abend klingt in der friedlichen Atmosphäre der Kirche Saint-Louis aus, während draußen der Regen sanft gegen die Fenster prasselt.",
             "hu": "A reggel a vasútállomáson kezdődik, ahol az esernyő az első számú kellék. Délben a Saint-Nicolas templom vastag falai között lelünk menedéket a zápor elől. Délután a Marolles park sarában csak vízálló bakancsban érdemes barangolni a Szajna mentén. Este az Église Saint-Louis csendjében fejezzük be a napot, megvárva a templom védelmében, amíg elcsendesedik az intenzív égi áldás.",
             "ro": "Dimineața începe la gară sub protecția umbrelelor necesare. La prânz, biserica Saint-Nicolas oferă un refugiu uscat împotriva averselor trecătoare. După-amiaza explorăm parcurile, unde încălțămintea impermeabilă este esențială pe potecile umede de lângă Sena. Seara se încheie în atmosfera liniștită a bisericii Saint-Louis, ascultând ploaia care bate ușor în vitralii.",
-            "en": "The morning starts at the station with umbrellas as the essential accessory. At noon, the thick walls of Saint-Nicolas Church offer a dry refuge from the showers. In the afternoon, waterproof boots are a must for wandering through the muddy paths of the parks. The day ends in the quiet of Église Saint-Louis, waiting for the rain to subside before heading back."
+            "en": "The morning starts at the station with umbrellas as the essential accessory. At noon, the thick walls of Saint-Nicolas Church offer a dry refuge from the showers. In the afternoon, waterproof boots are a must for wandering through the muddy paths of the parks. The day ends in the quiet of Église Saint-Louis, waiting for the rain to subside before heading back.",
+            "fr": "La matinée commence à la gare avec le parapluie comme accessoire indispensable. À midi, les murs épais de l'église Saint-Nicolas offrent un refuge sec contre les averses. L'après-midi, des bottes imperméables sont nécessaires pour fouler les sentiers boueux des parcs. La journée se termine dans le calme de l'église Saint-Louis, en attendant que la pluie diminue avant de rentrer."
           },
           "stops": [
             {
@@ -152,13 +164,15 @@
                 "de": "Villennes Station",
                 "hu": "Villennes Station",
                 "ro": "Villennes Station",
-                "en": "Villennes Station"
+                "en": "Villennes Station",
+                "fr": "Gare de Villennes"
               },
               "tip_5lang": {
                 "de": "Nutzen Sie das Bahnhofsdach, um Ihre Regenbekleidung zu ordnen; die Gleise können bei Nässe rutschig sein.",
                 "hu": "Használja az állomás fedett peronját az esőfelszerelés igazítására; a vágányok környéke ilyenkor nagyon csúszós.",
                 "ro": "Folosiți copertina gării pentru a vă aranja echipamentul de ploaie; peronul poate fi alunecos când este ud.",
-                "en": "Use the station's covered platform to adjust your rain gear; the ground can be quite slippery when wet."
+                "en": "Use the station's covered platform to adjust your rain gear; the ground can be quite slippery when wet.",
+                "fr": "Utilisez le quai couvert de la gare pour ajuster votre équipement de pluie ; le sol peut être très glissant lorsqu'il est mouillé."
               }
             },
             {
@@ -166,13 +180,15 @@
                 "de": "Saint-Nicolas Church",
                 "hu": "Saint-Nicolas Church",
                 "ro": "Saint-Nicolas Church",
-                "en": "Saint-Nicolas Church"
+                "en": "Saint-Nicolas Church",
+                "fr": "Église Saint-Nicolas"
               },
               "tip_5lang": {
                 "de": "Bewundern Sie die romanischen Details im Inneren, während Sie dem Regen draußen entkommen; ein perfekter Zufluchtsort.",
                 "hu": "Csodálja meg a román stílusú részleteket odabent, miközben elmenekül a zápor elől; tökéletes menedékhely.",
                 "ro": "Admirați detaliile romanice din interior în timp ce scăpați de ploaie; este un loc de refugiu perfect.",
-                "en": "Admire the Romanesque details inside while escaping the downpour; the thick walls make it a perfect refuge."
+                "en": "Admire the Romanesque details inside while escaping the downpour; the thick walls make it a perfect refuge.",
+                "fr": "Admirez les détails romans à l'intérieur tout en vous abritant de l'averse ; les murs épais en font un refuge parfait."
               }
             },
             {
@@ -180,13 +196,15 @@
                 "de": "Marolles Park",
                 "hu": "Marolles Park",
                 "ro": "Marolles Park",
-                "en": "Marolles Park"
+                "en": "Marolles Park",
+                "fr": "Parc des Marolles"
               },
               "tip_5lang": {
                 "de": "Die Bäume bieten etwas Schutz, aber die Wege sind schlammig; tragen Sie unbedingt wasserfeste Stiefel für den Uferweg.",
                 "hu": "A fák némi védelmet nyújtanak, de az utak sárosak; mindenképpen viseljen vízálló bakancsot a parti sétához.",
                 "ro": "Copacii oferă puțină protecție, dar potecile sunt noroioase; purtați cizme impermeabile pentru plimbarea pe mal.",
-                "en": "The trees offer some cover, but the paths are muddy; be sure to wear waterproof boots for the riverside walk."
+                "en": "The trees offer some cover, but the paths are muddy; be sure to wear waterproof boots for the riverside walk.",
+                "fr": "Les arbres offrent un peu de couvert, mais les sentiers sont boueux ; pensez à porter des bottes imperméables pour la promenade au bord de la rivière."
               }
             },
             {
@@ -194,13 +212,15 @@
                 "de": "Jardin Alfred Dreyfus",
                 "hu": "Jardin Alfred Dreyfus",
                 "ro": "Jardin Alfred Dreyfus",
-                "en": "Jardin Alfred Dreyfus"
+                "en": "Jardin Alfred Dreyfus",
+                "fr": "Jardin Alfred Dreyfus"
               },
               "tip_5lang": {
                 "de": "Ein kurzer Spaziergang durch den Garten zeigt die herbstliche Melancholie; der Pavillon bietet schnellen Schutz.",
                 "hu": "Egy rövid séta a kertben megmutatja az esős táj melankóliáját; a közeli pavilon gyors menedéket nyújt.",
                 "ro": "O scurtă plimbare prin grădină dezvăluie melancolia peisajului; pavilionul oferă un adăpost rapid la nevoie.",
-                "en": "A brief walk through the garden reveals a scenic melancholy; use the nearby pavilion for quick shelter."
+                "en": "A brief walk through the garden reveals a scenic melancholy; use the nearby pavilion for quick shelter.",
+                "fr": "Une courte promenade dans le jardin révèle une mélancolie pittoresque ; utilisez le pavillon voisin pour un abri rapide."
               }
             },
             {
@@ -208,13 +228,15 @@
                 "de": "Église Saint-Louis",
                 "hu": "Église Saint-Louis",
                 "ro": "Église Saint-Louis",
-                "en": "Église Saint-Louis"
+                "en": "Église Saint-Louis",
+                "fr": "Église Saint-Louis"
               },
               "tip_5lang": {
                 "de": "Beenden Sie Ihre Tour in dieser warmen Atmosphäre; die Akustik des Regens auf dem Dach wirkt sehr beruhigend.",
                 "hu": "Fejezze be a túrát ebben a barátságos környezetben; az eső kopogása a tetőn különlegesen nyugtató élmény.",
                 "ro": "Încheiați turul în această atmosferă primitoare; sunetul ploii pe acoperiș oferă o experiență relaxantă.",
-                "en": "End your tour in this welcoming environment; the sound of rain on the roof creates a very calming atmosphere."
+                "en": "End your tour in this welcoming environment; the sound of rain on the roof creates a very calming atmosphere.",
+                "fr": "Terminez votre visite dans cet environnement accueillant ; le bruit de la pluie sur le toit crée une ambiance très apaisante."
               }
             }
           ]
@@ -224,7 +246,8 @@
             "de": "Ein frostiger Morgen am Bahnhof lässt die Bedeutung warmer Kleidung spüren. Mittags bieten die Kirchenmauern Schutz vor dem eisigen Wind, der von der Seine herüberweht. Der Nachmittag in den Parks muss zügig genutzt werden, da die Sonne bereits gegen 17:00 Uhr hinter dem Horizont verschwindet. Den Abend verbringt man am besten in der beleuchteten Stille von Saint-Louis, bevor es durch die Kälte zurückgeht.",
             "hu": "A fagyos reggel a vasútállomáson rögtön emlékeztet a réteges öltözködés fontosságára. Délben a templom hűvös kövei között is jól jön a sál és a kesztyű a Szajna felől fújó szélben. Délután sietnünk kell a parkokban, mert ötkor már sötétedik. Este a kivilágított Saint-Louis templom látványa melengeti meg a lelkünket a fagyos hazaút előtt.",
             "ro": "O dimineață geroasă la gară vă reamintește imediat importanța îmbrăcămintei stratificate. La prânz, zidurile bisericii oferă adăpost împotriva vântului tăios de pe Sena. După-amiaza în parcuri trebuie planificată atent, deoarece soarele apune deja în jurul orei 17:00. Seara se petrece cel mai bine în liniștea bisericii Saint-Louis, înainte de drumul spre casă.",
-            "en": "A frosty morning at the station highlights the importance of layering up. At noon, the church walls provide a break from the biting wind blowing off the Seine. Afternoon park visits must be quick, as the sun sets early around 5 PM. Spend the evening in the illuminated stillness of Saint-Louis before facing the winter chill on your way back."
+            "en": "A frosty morning at the station highlights the importance of layering up. At noon, the church walls provide a break from the biting wind blowing off the Seine. Afternoon park visits must be quick, as the sun sets early around 5 PM. Spend the evening in the illuminated stillness of Saint-Louis before facing the winter chill on your way back.",
+            "fr": "Un matin glacial à la gare souligne l'importance de superposer les couches. À midi, les murs de l'église offrent une pause contre le vent mordant soufflant de la Seine. Les visites des parcs l'après‑midi doivent être rapides, car le soleil se couche tôt vers 17 h. Passez la soirée dans la quiétude illuminée de Saint‑Louis avant d'affronter le froid hivernal pour le retour."
           },
           "stops": [
             {
@@ -232,13 +255,15 @@
                 "de": "Villennes Station",
                 "hu": "Villennes Station",
                 "ro": "Villennes Station",
-                "en": "Villennes Station"
+                "en": "Villennes Station",
+                "fr": "Gare de Villennes"
               },
               "tip_5lang": {
                 "de": "Warten Sie im beheizten Innenraum auf Ihren Start; der Wind auf dem Bahnsteig ist im Winter besonders schneidend.",
                 "hu": "Várjon a fűtött váróteremben az indulás előtt; a peronon a szél télen különösen metsző és hideg lehet.",
                 "ro": "Așteptați în sala de așteptare încălzită înainte de plecare; vântul de pe peron este tăios în timpul iernii.",
-                "en": "Wait in the heated waiting room before starting; the wind on the platform can be very biting in winter."
+                "en": "Wait in the heated waiting room before starting; the wind on the platform can be very biting in winter.",
+                "fr": "Attendez dans la salle d'attente chauffée avant de partir ; le vent sur le quai peut être très mordant en hiver."
               }
             },
             {
@@ -246,13 +271,15 @@
                 "de": "Saint-Nicolas Church",
                 "hu": "Saint-Nicolas Church",
                 "ro": "Saint-Nicolas Church",
-                "en": "Saint-Nicolas Church"
+                "en": "Saint-Nicolas Church",
+                "fr": "Église Saint-Nicolas"
               },
               "tip_5lang": {
                 "de": "Die dicken Steinmauern halten die Kälte, aber sie schützen auch vor dem Wind; behalten Sie Ihre Handschuhe an.",
                 "hu": "A vastag kőfalak tartják a hideget, de a széltől jól védenek; tartsa magán a kesztyűjét a látogatás alatt is.",
                 "ro": "Zidurile groase de piatră mențin frigul, dar oferă protecție împotriva vântului; păstrați-vă mănușile pe mâini.",
-                "en": "The thick stone walls hold the cold, but they shield you from the wind; keep your gloves on during the visit."
+                "en": "The thick stone walls hold the cold, but they shield you from the wind; keep your gloves on during the visit.",
+                "fr": "Les murs épais en pierre retiennent le froid, mais vous protègent du vent ; gardez vos gants pendant la visite."
               }
             },
             {
@@ -260,13 +287,15 @@
                 "de": "Marolles Park",
                 "hu": "Marolles Park",
                 "ro": "Marolles Park",
-                "en": "Marolles Park"
+                "en": "Marolles Park",
+                "fr": "Parc des Marolles"
               },
               "tip_5lang": {
                 "de": "Genießen Sie den weiten Blick durch die kahlen Bäume auf die Seine; achten Sie auf vereiste Stellen auf den Wegen.",
                 "hu": "Élvezze a tiszta kilátást a Szajnára a kopasz ágak között; ügyeljen az utakon előforduló jeges foltokra.",
                 "ro": "Bucurați-vă de vederea spre Sena prin copacii golași; aveți grijă la porțiunile înghețate de pe poteci.",
-                "en": "Enjoy the clear views of the Seine through the bare trees; watch out for icy patches on the walking paths."
+                "en": "Enjoy the clear views of the Seine through the bare trees; watch out for icy patches on the walking paths.",
+                "fr": "Profitez des vues dégagées sur la Seine à travers les arbres dénudés ; attention aux plaques de verglas sur les chemins de promenade."
               }
             },
             {
@@ -274,13 +303,15 @@
                 "de": "Jardin Alfred Dreyfus",
                 "hu": "Jardin Alfred Dreyfus",
                 "ro": "Jardin Alfred Dreyfus",
-                "en": "Jardin Alfred Dreyfus"
+                "en": "Jardin Alfred Dreyfus",
+                "fr": "Jardin Alfred Dreyfus"
               },
               "tip_5lang": {
                 "de": "Das Winterlicht sorgt für dramatische Schatten; beenden Sie Ihren Besuch vor dem frühen Sonnenuntergang um 17 Uhr.",
                 "hu": "A téli fények drámai árnyékokat vetnek; fejezze be a látogatást a korai, délután ötkor esedékes naplemente előtt.",
                 "ro": "Lumina de iarnă creează umbre dramatice; terminați vizita înainte de apusul devreme, în jurul orei 17:00.",
-                "en": "Winter light creates dramatic shadows in the garden; finish your visit before the early 5 PM sunset."
+                "en": "Winter light creates dramatic shadows in the garden; finish your visit before the early 5 PM sunset.",
+                "fr": "La lumière hivernale crée d'intenses ombres dans le jardin ; terminez votre visite avant le coucher du soleil, tôt à 17 h."
               }
             },
             {
@@ -288,13 +319,15 @@
                 "de": "Église Saint-Louis",
                 "hu": "Église Saint-Louis",
                 "ro": "Église Saint-Louis",
-                "en": "Église Saint-Louis"
+                "en": "Église Saint-Louis",
+                "fr": "Église Saint-Louis"
               },
               "tip_5lang": {
                 "de": "Die friedliche Stille ist perfekt zum Aufwärmen der Seele; nutzen Sie die Zeit zur Besinnung vor der Dunkelheit.",
                 "hu": "A békés csend tökéletes a lélek felmelegítésére; használja ki az időt az elmélyülésre a sötétség beállta előtt.",
                 "ro": "Liniștea deplină este perfectă pentru a vă încălzi sufletul; profitați de timp pentru reflecție înainte de seară.",
-                "en": "The peaceful silence is perfect for warming your spirit; take time for reflection before the early darkness."
+                "en": "The peaceful silence is perfect for warming your spirit; take time for reflection before the early darkness.",
+                "fr": "Le silence paisible est parfait pour réchauffer l'esprit ; prenez le temps de réfléchir avant l'arrivée de la nuit précoce."
               }
             }
           ]
@@ -314,7 +347,8 @@
             "de": "Villennes Station",
             "hu": "Villennes Station",
             "ro": "Villennes Station",
-            "en": "Villennes Station"
+            "en": "Villennes Station",
+            "fr": "Gare de Villennes"
           },
           "coords": [
             1.999705,
@@ -329,7 +363,8 @@
             "de": "Bewundern Sie die charmante regionale Architektur dieses historischen Bahnhofs, bevor Sie beginnen, und holen Sie sich am besten eine Karte am Kiosk.",
             "hu": "Csodálja meg a történelmi állomás bájos regionális építészetét, és ne felejtsen el felvenni egy helyi térképet a közeli kioszkból az indulás előtt.",
             "ro": "Admirați arhitectura regională fermecătoare a acestei gări istorice înainte de a începe și nu uitați să luați o hartă locală de la chioșcul din apropiere.",
-            "en": "Admire the charming regional architecture of this historic station before starting your tour, and remember to pick up a local map from the nearby kiosk."
+            "en": "Admire the charming regional architecture of this historic station before starting your tour, and remember to pick up a local map from the nearby kiosk.",
+            "fr": "Admirez le charmant architecture régionale de cette gare historique avant de commencer votre circuit, et pensez à prendre une carte locale au kiosque voisin."
           }
         },
         {
@@ -337,7 +372,8 @@
             "de": "Saint-Nicolas Church",
             "hu": "Saint-Nicolas Church",
             "ro": "Saint-Nicolas Church",
-            "en": "Saint-Nicolas Church"
+            "en": "Saint-Nicolas Church",
+            "fr": "Église Saint-Nicolas"
           },
           "coords": [
             1.998903,
@@ -352,7 +388,8 @@
             "de": "Betreten Sie diesen romanischen Bau, um die erhaltenen mittelalterlichen Fresken zu bewundern, aber prüfen Sie vorher den Messeplan, um Störungen zu vermeiden.",
             "hu": "Lépjen be ebbe a román stílusú épületbe, hogy megcsodálja a középkori freskókat, de előtte ellenőrizze a misék menetrendjét, hogy elkerülje a zavarást.",
             "ro": "Pășiți în această clădire romanică pentru a admira frescele medievale, dar verificați programul slujbelor în prealabil pentru a evita orele de liturghie.",
-            "en": "Step inside this Romanesque building to admire its preserved medieval frescoes, but check the mass schedule beforehand to avoid visiting during services."
+            "en": "Step inside this Romanesque building to admire its preserved medieval frescoes, but check the mass schedule beforehand to avoid visiting during services.",
+            "fr": "Entrez dans ce bâtiment roman pour admirer ses fresques médiévales préservées, mais vérifiez les horaires des messes à l'avance pour éviter une visite pendant les offices."
           }
         },
         {
@@ -360,7 +397,8 @@
             "de": "Château de Médan",
             "hu": "Château de Médan",
             "ro": "Château de Médan",
-            "en": "Château de Médan"
+            "en": "Château de Médan",
+            "fr": "Château de Médan"
           },
           "coords": [
             1.994344,
@@ -375,7 +413,8 @@
             "de": "Entdecken Sie dieses elegante Schloss, das mit Maurice Maeterlinck verbunden ist, und buchen Sie die Führung im Voraus, da die Plätze täglich begrenzt sind.",
             "hu": "Fedezze fel ezt az elegáns kastélyt, amely Maurice Maeterlinckhez kötődik, és foglalja le a túrát előre, mivel a napi belépők száma szigorúan korlátozott.",
             "ro": "Descoperiți acest castel elegant legat de Maurice Maeterlinck și rezervați-vă turul ghidat în avans, deoarece numărul de intrări este strict limitat zilnic.",
-            "en": "Discover this elegant castle famously linked to Maurice Maeterlinck, and book your guided tour in advance since entry numbers are strictly limited daily."
+            "en": "Discover this elegant castle famously linked to Maurice Maeterlinck, and book your guided tour in advance since entry numbers are strictly limited daily.",
+            "fr": "Découvrez ce château élégant lié à Maurice Maeterlinck, et réservez votre visite guidée à l'avance car le nombre d'entrées est strictement limité chaque jour."
           }
         },
         {
@@ -383,7 +422,8 @@
             "de": "Maison d'Émile Zola",
             "hu": "Maison d'Émile Zola",
             "ro": "Maison d'Émile Zola",
-            "en": "Maison d'Émile Zola"
+            "en": "Maison d'Émile Zola",
+            "fr": "Maison d'Émile Zola"
           },
           "coords": [
             1.995614,
@@ -398,7 +438,8 @@
             "de": "Betreten Sie das erhaltene Haus, in dem der Autor seine Meisterwerke schrieb, und verpassen Sie nicht das Museum, das die Dreyfus-Affäre detailliert zeigt.",
             "hu": "Lépjen be a megőrzött házba, ahol a szerző a remekműveit írta, és ne hagyja ki a szomszédos, a Dreyfus-ügyet bemutató lenyűgöző irodalmi múzeumot sem.",
             "ro": "Pășiți în casa în care autorul și-a scris capodoperele și nu ratați muzeul alăturat fascinant care detaliază cu lux de amănunte celebra afacere Dreyfus.",
-            "en": "Step into the preserved home where the legendary author wrote his masterpieces, and don't miss the fascinating adjoining museum detailing the Dreyfus affair."
+            "en": "Step into the preserved home where the legendary author wrote his masterpieces, and don't miss the fascinating adjoining museum detailing the Dreyfus affair.",
+            "fr": "Pénétrez dans la maison préservée où l'illustre auteur a écrit ses chefs‑d'œuvre, et ne manquez pas le musée attenant fascinant retraçant l'affaire Dreyfus."
           }
         },
         {
@@ -406,7 +447,8 @@
             "de": "Ancienne propriété d'Émile Zola",
             "hu": "Ancienne propriété d'Émile Zola",
             "ro": "Ancienne propriété d'Émile Zola",
-            "en": "Ancienne propriété d'Émile Zola"
+            "en": "Ancienne propriété d'Émile Zola",
+            "fr": "Ancienne propriété d'Émile Zola"
           },
           "coords": [
             1.995591,
@@ -421,7 +463,8 @@
             "de": "Spazieren Sie durch das weitläufige Gelände, das einst Zola gehörte, um seine Gärten zu sehen, und tragen Sie festes Schuhwerk für die unebenen Wege hier.",
             "hu": "Barangoljon a Zola tulajdonában lévő hatalmas birtokon, hogy lássa kísérleti kertjeit, és viseljen kényelmes cipőt a kissé egyenetlen sétautak miatt.",
             "ro": "Plimbați-vă prin terenurile extinse deținute de Zola pentru a vedea grădinile sale și purtați pantofi rezistenți pentru aleile ușor denivelate de aici.",
-            "en": "Wander through the extensive grounds once owned by Zola to see his agricultural experiments, and wear sturdy walking shoes for the uneven pathways here."
+            "en": "Wander through the extensive grounds once owned by Zola to see his agricultural experiments, and wear sturdy walking shoes for the uneven pathways here.",
+            "fr": "Parcourez les vastes terrains autrefois possédés par Zola pour voir ses expérimentations agricoles, et portez des chaussures de marche robustes pour les sentiers inégaux."
           }
         },
         {
@@ -429,7 +472,8 @@
             "de": "Parc du Peuple de l'herbe",
             "hu": "Parc du Peuple de l'herbe",
             "ro": "Parc du Peuple de l'herbe",
-            "en": "Parc du Peuple de l'herbe"
+            "en": "Parc du Peuple de l'herbe",
+            "fr": "Parc du Peuple de l'herbe"
           },
           "coords": [
             2.018901,
@@ -444,7 +488,8 @@
             "de": "Beobachten Sie die reiche Artenvielfalt in diesem ökologischen Park am Fluss und bringen Sie ein Fernglas mit, um die seltenen Vogelarten zu entdecken.",
             "hu": "Figyelje meg a gazdag biodiverzitást ebben a hatalmas folyóparti parkban, és hozzon magával távcsövet, hogy kiszúrja a víz közelében fészkelő ritka madarakat.",
             "ro": "Observați biodiversitatea bogată în acest parc ecologic de pe malul râului și aduceți binoclul pentru a vedea speciile rare de păsări care cuibăresc aici.",
-            "en": "Observe the rich biodiversity in this massive riverside ecological park, and bring your binoculars to spot the rare bird species nesting near the water."
+            "en": "Observe the rich biodiversity in this massive riverside ecological park, and bring your binoculars to spot the rare bird species nesting near the water.",
+            "fr": "Observez la riche biodiversité de ce vaste parc écologique riverain, et apportez vos jumelles pour repérer les espèces d'oiseaux rares nichant près de l'eau."
           }
         }
       ],
@@ -452,7 +497,8 @@
         "de": "Starten Sie Ihr Fahrradabenteuer am Bahnhof, bewundern Sie die Kirche und radeln Sie gen Norden zum majestätischen Château de Médan.",
         "hu": "Kezdje kerékpáros kalandját az állomásról, csodálja meg a templomot, majd tekerjen észak felé a folyó mentén a fenséges Château de Médanhoz.",
         "ro": "Începeți aventura cu bicicleta de la gară, admirând scurt biserica înainte de a pedala spre nord de-a lungul râului către maiestuosul Château de Médan.",
-        "en": "Kick off your bike adventure from the station, briefly admiring the local church before pedaling north along the river towards the majestic Château de Médan."
+        "en": "Kick off your bike adventure from the station, briefly admiring the local church before pedaling north along the river towards the majestic Château de Médan.",
+        "fr": "Commencez votre aventure à vélo depuis la gare, en admirant brièvement l'église locale avant de pédaler vers le nord le long de la rivière en direction du majestueux Château de Médan."
       },
       "variants": {
         "rainy": {
@@ -460,7 +506,8 @@
             "de": "Ein nasser Start am Bahnhof erfordert volle Konzentration und gute Regenkleidung. Mittags wird die Fahrt zu den historischen Häusern in Médan zur Herausforderung auf rutschigem Asphalt. Am Nachmittag bietet das Zola-Museum eine willkommene lange Pause im Trockenen. Der Tag endet im Parc du Peuple de l'herbe, wo der Regen die weite Naturlandschaft in mystisches Grau taucht.",
             "hu": "A vizes indulás az állomáson teljes koncentrációt és jó esőruházatot igényel. Délben a médani történelmi házak felé vezető út kihívást jelent a csúszós aszfalton. Délután a Zola-múzeum szívesen látott, hosszú pihenőt nyújt a szárazon. A nap a Parc du Peuple de l'herbe-ben zárul, ahol az eső misztikus szürkeségbe vonja a tágas természeti tájat.",
             "ro": "Un început ploios la gară necesită concentrare maximă și echipament de ploaie adecvat. La prânz, drumul spre casele istorice din Médan devine o provocare pe asfaltul alunecos. După-amiaza, muzeul Zola oferă o pauză lungă și binevenită la adăpost. Ziua se încheie în Parc du Peuple de l'herbe, unde ploaia învăluie peisajul în nuanțe mistice.",
-            "en": "A wet start at the station requires full concentration and proper rain gear. At noon, the ride towards the historic houses in Médan is challenging on the slippery asphalt. In the afternoon, the Zola Museum provides a welcome long break in the dry. The day ends at Parc du Peuple de l'herbe, where the rain turns the vast landscape into a mystical gray."
+            "en": "A wet start at the station requires full concentration and proper rain gear. At noon, the ride towards the historic houses in Médan is challenging on the slippery asphalt. In the afternoon, the Zola Museum provides a welcome long break in the dry. The day ends at Parc du Peuple de l'herbe, where the rain turns the vast landscape into a mystical gray.",
+            "fr": "Un départ mouillé à la gare exige une concentration totale et un équipement de pluie adapté. À midi, la route vers les maisons historiques de Médan est délicate sur l'asphalte glissant. L'après‑midi, le musée Zola offre une longue pause bienvenue à l'abri. La journée se termine au Parc du Peuple de l'herbe, où la pluie transforme le vaste paysage en un gris mystique."
           },
           "stops": [
             {
@@ -468,13 +515,15 @@
                 "de": "Villennes Station",
                 "hu": "Villennes Station",
                 "ro": "Villennes Station",
-                "en": "Villennes Station"
+                "en": "Villennes Station",
+                "fr": "Gare de Villennes"
               },
               "tip_5lang": {
                 "de": "Prüfen Sie Ihre Bremsen auf dem nassen Untergrund; tragen Sie eine neongelbe Regenjacke für bessere Sichtbarkeit.",
                 "hu": "Ellenőrizze a fékeit a vizes talajon; viseljen fényvisszaverő esőkabátot a jobb láthatóság érdekében.",
                 "ro": "Verificați frânele pe suprafața umedă; purtați o pelerină reflectorizantă pentru o vizibilitate mai bună.",
-                "en": "Check your brakes on the wet surface; wear a high-visibility rain jacket for safety in the gray weather."
+                "en": "Check your brakes on the wet surface; wear a high-visibility rain jacket for safety in the gray weather.",
+                "fr": "Vérifiez vos freins sur la surface mouillée ; portez une veste de pluie haute visibilité pour la sécurité par temps gris."
               }
             },
             {
@@ -482,13 +531,15 @@
                 "de": "Saint-Nicolas Church",
                 "hu": "Saint-Nicolas Church",
                 "ro": "Saint-Nicolas Church",
-                "en": "Saint-Nicolas Church"
+                "en": "Saint-Nicolas Church",
+                "fr": "Église Saint-Nicolas"
               },
               "tip_5lang": {
                 "de": "Stellen Sie Ihr Rad unter den Dachvorsprung, um den Sattel trocken zu halten, während Sie die Kirche besichtigen.",
                 "hu": "Állítsa a biciklijét az ereszkidugás alá, hogy a nyereg száraz maradjon, amíg ön bent nézelődik a templomban.",
                 "ro": "Parcați bicicleta sub streșină pentru a menține șaua uscată în timp ce vizitați interiorul bisericii.",
-                "en": "Park your bike under the roof overhang to keep the seat dry while you explore the church interior."
+                "en": "Park your bike under the roof overhang to keep the seat dry while you explore the church interior.",
+                "fr": "Garez votre vélo sous l'auvent pour garder la selle sèche pendant que vous explorez l'intérieur de l'église."
               }
             },
             {
@@ -496,13 +547,15 @@
                 "de": "Château de Médan",
                 "hu": "Château de Médan",
                 "ro": "Château de Médan",
-                "en": "Château de Médan"
+                "en": "Château de Médan",
+                "fr": "Château de Médan"
               },
               "tip_5lang": {
                 "de": "Das Kopfsteinpflaster am Tor ist bei Regen extrem rutschig; fahren Sie hier besonders vorsichtig und langsam.",
                 "hu": "A kapunál lévő macskakő esőben rendkívül csúszós; itt fokozott óvatossággal és nagyon lassan közlekedjen.",
                 "ro": "Pavelele de la poartă sunt extrem de alunecoase pe ploaie; pedalați cu prudență sporită în această zonă.",
-                "en": "The cobblestones at the gate are extremely slippery in the rain; ride with extra caution and go slowly."
+                "en": "The cobblestones at the gate are extremely slippery in the rain; ride with extra caution and go slowly.",
+                "fr": "Les pavés à la porte sont extrêmement glissants sous la pluie ; roulez avec une prudence accrue et lentement."
               }
             },
             {
@@ -510,13 +563,15 @@
                 "de": "Maison d'Émile Zola",
                 "hu": "Maison d'Émile Zola",
                 "ro": "Maison d'Émile Zola",
-                "en": "Maison d'Émile Zola"
+                "en": "Maison d'Émile Zola",
+                "fr": "Maison d'Émile Zola"
               },
               "tip_5lang": {
                 "de": "Nutzen Sie den Museumsbesuch für eine ausgiebige Pause im Warmen, um Ihre Kleidung etwas zu trocknen.",
                 "hu": "Használja ki a múzeumlátogatást egy alapos melegedésre, hogy a ruházata is száradhasson egy kicsit a továbbindulás előtt.",
                 "ro": "Profitați de vizita la muzeu pentru o pauză prelungită la căldură, permițând hainelor să se usuce puțin.",
-                "en": "Use the museum visit for an extended break in the warmth to let your clothes dry a bit before moving on."
+                "en": "Use the museum visit for an extended break in the warmth to let your clothes dry a bit before moving on.",
+                "fr": "Profitez de la visite du musée comme d'une pause prolongée au chaud pour laisser sécher un peu vos vêtements avant de reprendre la route."
               }
             },
             {
@@ -524,13 +579,15 @@
                 "de": "Ancienne propriété d'Émile Zola",
                 "hu": "Ancienne propriété d'Émile Zola",
                 "ro": "Ancienne propriété d'Émile Zola",
-                "en": "Ancienne propriété d'Émile Zola"
+                "en": "Ancienne propriété d'Émile Zola",
+                "fr": "Ancienne propriété d'Émile Zola"
               },
               "tip_5lang": {
                 "de": "Behalten Sie Ihr Cape bei der Erkundung des Außengeländes an; die Wege können nach dem Regen schlammig sein.",
                 "hu": "Tartsa magán az esővédőt a külső terület felfedezésekor; az ösvények sártól csúszósak lehetnek az eső után.",
                 "ro": "Păstrați pelerina de ploaie în timp ce explorați exteriorul; potecile pot fi noroioase după precipitații.",
-                "en": "Keep your rain cape on while exploring the grounds; the paths can be quite muddy and slick after the rain."
+                "en": "Keep your rain cape on while exploring the grounds; the paths can be quite muddy and slick after the rain.",
+                "fr": "Gardez votre cape de pluie pour explorer les terrains ; les sentiers peuvent être très boueux et glissants après la pluie."
               }
             },
             {
@@ -538,13 +595,15 @@
                 "de": "Parc du Peuple de l'herbe",
                 "hu": "Parc du Peuple de l'herbe",
                 "ro": "Parc du Peuple de l'herbe",
-                "en": "Parc du Peuple de l'herbe"
+                "en": "Parc du Peuple de l'herbe",
+                "fr": "Parc du Peuple de l'herbe"
               },
               "tip_5lang": {
                 "de": "Bleiben Sie auf den befestigten Hauptwegen, um Schlamm zu vermeiden; der Wind ist hier auf freier Fläche oft stark.",
                 "hu": "Maradjon a burkolt főutakon, hogy elkerülje a sarat; a szél ezen a nyílt területen gyakran igen erős lehet.",
                 "ro": "Rămâneți pe aleile pavate pentru a evita noroiul; vântul este adesea puternic pe acest teren deschis.",
-                "en": "Stick to the paved main paths to avoid the mud; the wind can be quite strong in this open area."
+                "en": "Stick to the paved main paths to avoid the mud; the wind can be quite strong in this open area.",
+                "fr": "Restez sur les sentiers principaux goudronnés pour éviter la boue ; le vent peut être assez fort dans cet espace ouvert."
               }
             }
           ]
@@ -554,7 +613,8 @@
             "de": "Ein eiskalter Start am Bahnhof verlangt nach Thermokleidung und dicken Handschuhen. Mittags wärmt der Anstieg nach Médan den Körper auf, doch die Abfahrten sind bei Frost riskant. Das Zola-Haus bietet am Nachmittag eine lebensnotwendige Aufwärmpause. Zum Abend hin sinken die Temperaturen im Parc du Peuple de l'herbe rapide ab, während das Tageslicht schnell schwindet.",
             "hu": "A jéghideg indulás az állomáson aláöltözetet és vastag kesztyűt kíván. Délben a médani emelkedő felmelegíti a testet, de a lejtők a fagyban kockázatosak lehetnek. A Zola-ház délután létfontosságú melegedési szünetet biztosít. Estefelé a hőmérséklet hirtelen zuhan a Parc du Peuple de l'herbe-ben, ahogy a fények is gyorsan fogynak.",
             "ro": "Un start înghețat la gară necesită haine termice și mănuși groase. La prânz, urcarea spre Médan vă va încălzi, dar coborârile sunt riscante pe ger. Casa lui Zola oferă după-amiaza o pauză de încălzire esențială. Spre seară, temperaturile scad brusc în Parc du Peuple de l'herbe, pe măsură ce lumina zilei dispare rapid.",
-            "en": "An ice-cold start at the station calls for thermal layers and thick gloves. At noon, the climb to Médan warms you up, but descents are risky in freezing conditions. The Zola house provides a vital warming break in the afternoon. Towards evening, temperatures drop rapidly in the park as the daylight fades quickly."
+            "en": "An ice-cold start at the station calls for thermal layers and thick gloves. At noon, the climb to Médan warms you up, but descents are risky in freezing conditions. The Zola house provides a vital warming break in the afternoon. Towards evening, temperatures drop rapidly in the park as the daylight fades quickly.",
+            "fr": "Un départ glacé à la gare réclame des couches thermiques et des gants épais. À midi, la montée vers Médan réchauffe, mais les descentes sont risquées en cas de gel. La maison de Zola offre une précieuse pause réchauffante l'après‑midi. Vers le soir, les températures chutent rapidement dans le parc à mesure que la lumière du jour s'éteint."
           },
           "stops": [
             {
@@ -562,13 +622,15 @@
                 "de": "Villennes Station",
                 "hu": "Villennes Station",
                 "ro": "Villennes Station",
-                "en": "Villennes Station"
+                "en": "Villennes Station",
+                "fr": "Gare de Villennes"
               },
               "tip_5lang": {
                 "de": "Achten Sie auf Glatteis am Bahnhofseingang; wärmen Sie Ihre Hände gut auf, bevor Sie den Lenker greifen.",
                 "hu": "Ügyeljen a jegesedésre az állomás bejáratánál; melegítse fel alaposan a kezeit, mielőtt a kormányhoz nyúlna.",
                 "ro": "Atenție la polei la intrarea în gară; încălziți-vă bine mâinile înainte de a apuca ghidonul bicicletei.",
-                "en": "Watch out for black ice near the station entrance; warm your hands thoroughly before gripping the handlebars."
+                "en": "Watch out for black ice near the station entrance; warm your hands thoroughly before gripping the handlebars.",
+                "fr": "Faites attention au verglas noir près de l'entrée de la gare ; réchauffez bien vos mains avant de saisir le guidon."
               }
             },
             {
@@ -576,13 +638,15 @@
                 "de": "Saint-Nicolas Church",
                 "hu": "Saint-Nicolas Church",
                 "ro": "Saint-Nicolas Church",
-                "en": "Saint-Nicolas Church"
+                "en": "Saint-Nicolas Church",
+                "fr": "Église Saint-Nicolas"
               },
               "tip_5lang": {
                 "de": "Nutzen Sie das Gebäude als Windschutz für eine kurze Pause; prüfen Sie Ihre Beleuchtung für die frühe Dunkelheit.",
                 "hu": "Használja az épületet szélárnyékként egy rövid pihenőre; ellenőrizze a világítását a korai sötétedés előtt.",
                 "ro": "Folosiți clădirea ca paravan împotriva vântului pentru o scurtă pauză; verificați luminile pentru seară.",
-                "en": "Use the building as a windbreak for a short break; check your bike lights for the early darkness ahead."
+                "en": "Use the building as a windbreak for a short break; check your bike lights for the early darkness ahead.",
+                "fr": "Utilisez le bâtiment comme coupe‑vent pour une courte pause ; vérifiez vos feux de vélo pour l'obscurité précoce à venir."
               }
             },
             {
@@ -590,13 +654,15 @@
                 "de": "Château de Médan",
                 "hu": "Château de Médan",
                 "ro": "Château de Médan",
-                "en": "Château de Médan"
+                "en": "Château de Médan",
+                "fr": "Château de Médan"
               },
               "tip_5lang": {
                 "de": "Der Anstieg wird Sie aufwärmen, aber oben weht oft ein beißender Wind; halten Sie Ihren Hals gut bedeckt.",
                 "hu": "Az emelkedő felmelegíti, de fent gyakran metsző szél fúj; tartsa a nyakát jól elfedve a hideg ellen.",
                 "ro": "Urcarea vă va încălzi, dar sus bate adesea un vânt tăios; păstrați-vă gâtul bine acoperit de fular.",
-                "en": "The climb will warm you up, but a biting wind often blows at the top; keep your neck well covered."
+                "en": "The climb will warm you up, but a biting wind often blows at the top; keep your neck well covered.",
+                "fr": "La montée vous réchauffera, mais un vent mordant souffle souvent au sommet ; gardez bien le cou couvert."
               }
             },
             {
@@ -604,13 +670,15 @@
                 "de": "Maison d'Émile Zola",
                 "hu": "Maison d'Émile Zola",
                 "ro": "Maison d'Émile Zola",
-                "en": "Maison d'Émile Zola"
+                "en": "Maison d'Émile Zola",
+                "fr": "Maison d'Émile Zola"
               },
               "tip_5lang": {
                 "de": "Die Wärme im Museum ist ideal, um die Durchblutung in den Fingern wieder anzuregen; genießen Sie die Kulturpause.",
                 "hu": "A múzeumi meleg ideális az ujjak vérkeringésének serkentésére; élvezze a kulturális pihenőt a hideg után.",
                 "ro": "Căldura din muzeu este ideală pentru a vă revigora circulația în degete; bucurați-vă de pauza culturală.",
-                "en": "The warmth in the museum is ideal for getting your circulation back in your fingers; enjoy the cultural break."
+                "en": "The warmth in the museum is ideal for getting your circulation back in your fingers; enjoy the cultural break.",
+                "fr": "La chaleur dans le musée est idéale pour faire revenir la circulation dans vos doigts ; profitez de cette pause culturelle."
               }
             },
             {
@@ -618,13 +686,15 @@
                 "de": "Ancienne propriété d'Émile Zola",
                 "hu": "Ancienne propriété d'Émile Zola",
                 "ro": "Ancienne propriété d'Émile Zola",
-                "en": "Ancienne propriété d'Émile Zola"
+                "en": "Ancienne propriété d'Émile Zola",
+                "fr": "Ancienne propriété d'Émile Zola"
               },
               "tip_5lang": {
                 "de": "Achten Sie auf den Bodenfrost in den Gartenbereichen; fahren Sie vor 16:30 Uhr los, um noch Tageslicht zu haben.",
                 "hu": "Ügyeljen a talajmenti fagyra a kerti részeken; induljon tovább 16:30 előtt, hogy maradjon némi nappali fény.",
                 "ro": "Atenție la înghețul de la sol din grădină; plecați înainte de 16:30 pentru a mai prinde lumina zilei.",
-                "en": "Watch out for ground frost in the garden areas; set off before 4:30 PM to have some daylight left for the ride."
+                "en": "Watch out for ground frost in the garden areas; set off before 4:30 PM to have some daylight left for the ride.",
+                "fr": "Attention au gel au sol dans les zones de jardin ; partez avant 16h30 pour garder un peu de lumière du jour pour le trajet."
               }
             },
             {
@@ -632,13 +702,15 @@
                 "de": "Parc du Peuple de l'herbe",
                 "hu": "Parc du Peuple de l'herbe",
                 "ro": "Parc du Peuple de l'herbe",
-                "en": "Parc du Peuple de l'herbe"
+                "en": "Parc du Peuple de l'herbe",
+                "fr": "Parc du Peuple de l'herbe"
               },
               "tip_5lang": {
                 "de": "Die weite Fläche ist im Winter extrem zugig; tragen Sie eine winddichte Schicht und halten Sie sich in Bewegung.",
                 "hu": "A nyílt terep télen rendkívül huzatos; viseljen szélálló réteget és maradjon folyamatosan mozgásban.",
                 "ro": "Zona deschisă este foarte expusă vântului iarna; purtați un strat anti-vânt și rămâneți în mișcare.",
-                "en": "The open space is extremely drafty in winter; wear a windproof layer and keep moving to stay warm."
+                "en": "The open space is extremely drafty in winter; wear a windproof layer and keep moving to stay warm.",
+                "fr": "L'espace ouvert est extrêmement exposé au vent en hiver ; portez une couche coupe‑vent et continuez à bouger pour rester au chaud."
               }
             }
           ]
@@ -658,7 +730,8 @@
             "de": "Chapelle du château d'Acqueville",
             "hu": "Chapelle du château d'Acqueville",
             "ro": "Chapelle du château d'Acqueville",
-            "en": "Chapelle du château d'Acqueville"
+            "en": "Chapelle du château d'Acqueville",
+            "fr": "Chapelle du château d'Acqueville"
           },
           "coords": [
             2.010174,
@@ -673,7 +746,8 @@
             "de": "Betrachten Sie das malerische Äußere dieser historischen Privatkapelle in der Natur und fotografieren Sie von der Straße aus, da der Zugang beschränkt ist.",
             "hu": "Tekintse meg a természetben megbúvó történelmi magánkápolna külsejét, és készítsen fotókat az útról, mivel a belső terekhez való hozzáférés korlátozott.",
             "ro": "Priviți exteriorul pitoresc al acestei capele istorice private din natură și faceți fotografii de pe drumul public, deoarece accesul interior este restricționat.",
-            "en": "View the quaint exterior of this private historical chapel nestled in nature, and capture photos from the public road as interior access is usually restricted."
+            "en": "View the quaint exterior of this private historical chapel nestled in nature, and capture photos from the public road as interior access is usually restricted.",
+            "fr": "Admirez l'extérieur pittoresque de cette chapelle historique privée nichée dans la nature, et prenez des photos depuis la voie publique car l'accès intérieur est généralement restreint."
           }
         },
         {
@@ -681,7 +755,8 @@
             "de": "Parc du Peuple de l'herbe",
             "hu": "Parc du Peuple de l'herbe",
             "ro": "Parc du Peuple de l'herbe",
-            "en": "Parc du Peuple de l'herbe"
+            "en": "Parc du Peuple de l'herbe",
+            "fr": "Parc du Peuple de l'herbe"
           },
           "coords": [
             2.018901,
@@ -696,7 +771,8 @@
             "de": "Beobachten Sie die reiche Artenvielfalt in diesem ökologischen Park am Fluss und bringen Sie ein Fernglas mit, um die seltenen Vogelarten zu entdecken.",
             "hu": "Figyelje meg a gazdag biodiverzitást ebben a hatalmas folyóparti parkban, és hozzon magával távcsövet, hogy kiszúrja a víz közelében fészkelő ritka madarakat.",
             "ro": "Observați biodiversitatea bogată în acest parc ecologic de pe malul râului și aduceți binoclul pentru a vedea speciile rare de păsări care cuibăresc aici.",
-            "en": "Observe the rich biodiversity in this massive riverside ecological park, and bring your binoculars to spot the rare bird species nesting near the water."
+            "en": "Observe the rich biodiversity in this massive riverside ecological park, and bring your binoculars to spot the rare bird species nesting near the water.",
+            "fr": "Observez la riche biodiversité de ce vaste parc écologique riverain, et apportez vos jumelles pour repérer les espèces d'oiseaux rares nichant près de l'eau."
           }
         },
         {
@@ -704,7 +780,8 @@
             "de": "Église Saint-Louis",
             "hu": "Église Saint-Louis",
             "ro": "Église Saint-Louis",
-            "en": "Église Saint-Louis"
+            "en": "Église Saint-Louis",
+            "fr": "Église Saint-Louis"
           },
           "coords": [
             2.017324,
@@ -719,7 +796,8 @@
             "de": "Beachten Sie die markante Turmspitze dieser klassischen Kirche des lokalen Erbes und besuchen Sie sie am späten Nachmittag, um das beste Innenlicht zu haben.",
             "hu": "Vegye észre a helyi vallási örökséget képviselő templom jellegzetes tornyát, és látogasson el késő délután, hogy a legjobb belső fényeket élvezhesse.",
             "ro": "Observați turla distinctivă a acestei biserici clasice ce reprezintă moștenirea locală și vizitați-o spre seară pentru cea mai bună lumină interioară.",
-            "en": "Notice the distinctive spire of this classic church representing local religious heritage, and visit in the late afternoon for the best interior lighting."
+            "en": "Notice the distinctive spire of this classic church representing local religious heritage, and visit in the late afternoon for the best interior lighting.",
+            "fr": "Remarquez la flèche distinctive de cette église classique représentant le patrimoine religieux local, et visitez en fin d'après‑midi pour bénéficier du meilleur éclairage intérieur."
           }
         },
         {
@@ -727,7 +805,8 @@
             "de": "Saint-Nicolas Church",
             "hu": "Saint-Nicolas Church",
             "ro": "Saint-Nicolas Church",
-            "en": "Saint-Nicolas Church"
+            "en": "Saint-Nicolas Church",
+            "fr": "Église Saint-Nicolas"
           },
           "coords": [
             1.998903,
@@ -742,7 +821,8 @@
             "de": "Betreten Sie diesen romanischen Bau, um die erhaltenen mittelalterlichen Fresken zu bewundern, aber prüfen Sie vorher den Messeplan, um Störungen zu vermeiden.",
             "hu": "Lépjen be ebbe a román stílusú épületbe, hogy megcsodálja a középkori freskókat, de előtte ellenőrizze a misék menetrendjét, hogy elkerülje a zavarást.",
             "ro": "Pășiți în această clădire romanică pentru a admira frescele medievale, dar verificați programul slujbelor în prealabil pentru a evita orele de liturghie.",
-            "en": "Step inside this Romanesque building to admire its preserved medieval frescoes, but check the mass schedule beforehand to avoid visiting during services."
+            "en": "Step inside this Romanesque building to admire its preserved medieval frescoes, but check the mass schedule beforehand to avoid visiting during services.",
+            "fr": "Entrez dans ce bâtiment roman pour admirer ses fresques médiévales préservées, mais vérifiez les horaires des messes à l'avance pour éviter une visite pendant les offices."
           }
         },
         {
@@ -750,7 +830,8 @@
             "de": "Château de Médan",
             "hu": "Château de Médan",
             "ro": "Château de Médan",
-            "en": "Château de Médan"
+            "en": "Château de Médan",
+            "fr": "Château de Médan"
           },
           "coords": [
             1.994344,
@@ -765,7 +846,8 @@
             "de": "Entdecken Sie dieses elegante Schloss, das mit Maurice Maeterlinck verbunden ist, und buchen Sie die Führung im Voraus, da die Plätze täglich begrenzt sind.",
             "hu": "Fedezze fel ezt az elegáns kastélyt, amely Maurice Maeterlinckhez kötődik, és foglalja le a túrát előre, mivel a napi belépők száma szigorúan korlátozott.",
             "ro": "Descoperiți acest castel elegant legat de Maurice Maeterlinck și rezervați-vă turul ghidat în avans, deoarece numărul de intrări este strict limitat zilnic.",
-            "en": "Discover this elegant castle famously linked to Maurice Maeterlinck, and book your guided tour in advance since entry numbers are strictly limited daily."
+            "en": "Discover this elegant castle famously linked to Maurice Maeterlinck, and book your guided tour in advance since entry numbers are strictly limited daily.",
+            "fr": "Découvrez ce château élégant lié à Maurice Maeterlinck, et réservez votre visite guidée à l'avance car le nombre d'entrées est strictement limité chaque jour."
           }
         },
         {
@@ -773,7 +855,8 @@
             "de": "Maison d'Émile Zola",
             "hu": "Maison d'Émile Zola",
             "ro": "Maison d'Émile Zola",
-            "en": "Maison d'Émile Zola"
+            "en": "Maison d'Émile Zola",
+            "fr": "Maison d'Émile Zola"
           },
           "coords": [
             1.995614,
@@ -788,7 +871,8 @@
             "de": "Betreten Sie das erhaltene Haus, in dem der Autor seine Meisterwerke schrieb, und verpassen Sie nicht das Museum, das die Dreyfus-Affäre detailliert zeigt.",
             "hu": "Lépjen be a megőrzött házba, ahol a szerző a remekműveit írta, és ne hagyja ki a szomszédos, a Dreyfus-ügyet bemutató lenyűgöző irodalmi múzeumot sem.",
             "ro": "Pășiți în casa în care autorul și-a scris capodoperele și nu ratați muzeul alăturat fascinant care detaliază cu lux de amănunte celebra afacere Dreyfus.",
-            "en": "Step into the preserved home where the legendary author wrote his masterpieces, and don't miss the fascinating adjoining museum detailing the Dreyfus affair."
+            "en": "Step into the preserved home where the legendary author wrote his masterpieces, and don't miss the fascinating adjoining museum detailing the Dreyfus affair.",
+            "fr": "Pénétrez dans la maison préservée où l'illustre auteur a écrit ses chefs‑d'œuvre, et ne manquez pas le musée attenant fascinant retraçant l'affaire Dreyfus."
           }
         }
       ],
@@ -796,7 +880,8 @@
         "de": "Fahren Sie zur Chapelle du château d'Acqueville und parken Sie am Parc du Peuple de l'herbe für einen erfrischenden Morgenspaziergang.",
         "hu": "Vezessen a déli peremre, hogy lássa az Acqueville kápolnát, majd parkoljon le a Parc du Peuple de l'herbe-nél egy frissítő reggeli sétára.",
         "ro": "Conduceți spre sud pentru a vedea capela Acqueville, apoi parcați cu ușurință la Parc du Peuple de l'herbe pentru o plimbare răcoritoare.",
-        "en": "Drive to the southern edge to see the Chapelle du château d'Acqueville, then easily park at Parc du Peuple de l'herbe for a long, refreshing morning walk."
+        "en": "Drive to the southern edge to see the Chapelle du château d'Acqueville, then easily park at Parc du Peuple de l'herbe for a long, refreshing morning walk.",
+        "fr": "Conduisez jusqu'à la lisière sud pour voir la Chapelle du château d'Acqueville, puis garez‑vous facilement au Parc du Peuple de l'herbe pour une longue et revigorante promenade matinale."
       },
       "variants": {
         "rainy": {
@@ -804,7 +889,8 @@
             "de": "Ein entspannter Start im Auto lässt den Regen draußen vergessen. Mittags besucht man die Kapellen und Kirchen, wobei die kurzen Wege vom Parkplatz zum Eingang ideal für Regentage sind. Am Nachmittag bietet das Schloss Médan einen stimmungsvollen Rückzugsort. Der Tag endet gemütlich im Zola-Museum, während man sicher vor dem Wetter geschützt ist.",
             "hu": "Az autós indulás elfeledteti a kinti esőt és szürkeséget. Délben a kápolnák és templomok látogatása közben az autótól a bejáratig tartó rövid utak ideálisak az ilyen napokon. Délután a Médan-kastély hangulatos menedéket nyújt a zápor elől. A nap kényelmesen zárul a Zola-múzeumban, biztonságban az időjárás viszontagságaitól.",
             "ro": "Pornirea cu mașina vă face să uitați de ploaia și griul de afară. La prânz, vizitarea capelelor și bisericilor este ideală, distanțele scurte de la parcare fiind un avantaj. După-amiaza, castelul Médan oferă un refugiu atmosferic. Ziua se încheie confortabil la muzeul Zola, fiind protejați de capriciile vremii.",
-            "en": "Starting by car makes you forget the rain and grayness outside. At noon, visiting chapels and churches is ideal, as the short walks from the parking spots are perfect for rainy days. In the afternoon, Médan Castle offers an atmospheric retreat. The day ends comfortably at the Zola Museum, safe from the weather's elements."
+            "en": "Starting by car makes you forget the rain and grayness outside. At noon, visiting chapels and churches is ideal, as the short walks from the parking spots are perfect for rainy days. In the afternoon, Médan Castle offers an atmospheric retreat. The day ends comfortably at the Zola Museum, safe from the weather's elements.",
+            "fr": "Commencer en voiture fait oublier la pluie et la grisaille extérieures. À midi, visiter chapelles et églises est idéal, les courtes promenades depuis les parkings étant parfaites pour les jours de pluie. L'après‑midi, le Château de Médan offre un refuge plein d'atmosphère. La journée se termine confortablement au musée Zola, à l'abri des éléments."
           },
           "stops": [
             {
@@ -812,13 +898,15 @@
                 "de": "Chapelle du château d'Acqueville",
                 "hu": "Chapelle du château d'Acqueville",
                 "ro": "Chapelle du château d'Acqueville",
-                "en": "Chapelle du château d'Acqueville"
+                "en": "Chapelle du château d'Acqueville",
+                "fr": "Chapelle du château d'Acqueville"
               },
               "tip_5lang": {
                 "de": "Ein schneller Sprint vom Auto zum Eingang bewahrt Sie vor der Nässe; genießen Sie die historische Stille.",
                 "hu": "Egy gyors futás az autótól a bejáratig megvédi az ázástól; élvezze a történelmi csendet odabent.",
                 "ro": "O scurtă fugă de la mașină până la intrare vă va feri de ploaie; bucurați-vă de liniștea istorică.",
-                "en": "A quick dash from the car to the entrance keeps you dry; enjoy the historical silence inside the chapel."
+                "en": "A quick dash from the car to the entrance keeps you dry; enjoy the historical silence inside the chapel.",
+                "fr": "Une course rapide depuis la voiture jusqu'à l'entrée vous garde au sec ; profitez du silence historique à l'intérieur de la chapelle."
               }
             },
             {
@@ -826,13 +914,15 @@
                 "de": "Parc du Peuple de l'herbe",
                 "hu": "Parc du Peuple de l'herbe",
                 "ro": "Parc du Peuple de l'herbe",
-                "en": "Parc du Peuple de l'herbe"
+                "en": "Parc du Peuple de l'herbe",
+                "fr": "Parc du Peuple de l'herbe"
               },
               "tip_5lang": {
                 "de": "Betrachten Sie die Feuchtgebiete vom Aussichtsturm aus, um trocken zu bleiben; die Wege können nach Regen sehr matschig sein.",
                 "hu": "Nézze meg a vizes élőhelyeket a kilátótoronyból, hogy száraz maradjon; az ösvények sártól csúszósak lehetnek.",
                 "ro": "Observați zonele umede din turnul de belvedere pentru a rămâne uscat; potecile pot fi noroioase după ploaie.",
-                "en": "View the wetlands from the observation tower to stay dry; the paths can be very muddy after the downpour."
+                "en": "View the wetlands from the observation tower to stay dry; the paths can be very muddy after the downpour.",
+                "fr": "Contemplez les zones humides depuis la tour d'observation pour rester au sec ; les sentiers peuvent être très boueux après l'averse."
               }
             },
             {
@@ -840,13 +930,15 @@
                 "de": "Église Saint-Louis",
                 "hu": "Église Saint-Louis",
                 "ro": "Église Saint-Louis",
-                "en": "Église Saint-Louis"
+                "en": "Église Saint-Louis",
+                "fr": "Église Saint-Louis"
               },
               "tip_5lang": {
                 "de": "Ein idealer Indoor-Stopp, wenn die Wolken dunkler werden; bewundern Sie die Glasfenster im weichen Licht.",
                 "hu": "Ideális fedett megálló, amikor elkomorul az ég; csodálja meg az üvegablakokat a lágy, esős fényben.",
                 "ro": "O oprire ideală la interior când cerul se întunecă; admirați vitraliile în lumina difuză a zilei ploioase.",
-                "en": "An ideal indoor stop when the clouds darken; admire the stained glass windows in the soft, rainy light."
+                "en": "An ideal indoor stop when the clouds darken; admire the stained glass windows in the soft, rainy light.",
+                "fr": "Un arrêt intérieur idéal lorsque les nuages s'assombrissent ; admirez les vitraux dans la douce lumière pluvieuse."
               }
             },
             {
@@ -854,13 +946,15 @@
                 "de": "Saint-Nicolas Church",
                 "hu": "Saint-Nicolas Church",
                 "ro": "Saint-Nicolas Church",
-                "en": "Saint-Nicolas Church"
+                "en": "Saint-Nicolas Church",
+                "fr": "Église Saint-Nicolas"
               },
               "tip_5lang": {
                 "de": "Nahegelegene Parkplätze machen diesen Besuch bei Regen sehr komfortabel; erkunden Sie die romanischen Bögen.",
                 "hu": "A közeli parkolóhelyek kényelmessé teszik a látogatást esőben is; fedezze fel a román stílusú íveket.",
                 "ro": "Parcările din apropiere fac vizita confortabilă chiar și pe ploaie; explorați arcadele în stil romanic.",
-                "en": "Nearby parking makes this visit very convenient even in the rain; explore the ancient Romanesque arches."
+                "en": "Nearby parking makes this visit very convenient even in the rain; explore the ancient Romanesque arches.",
+                "fr": "Le parking à proximité rend cette visite très pratique même sous la pluie ; explorez les arcs romans anciens."
               }
             },
             {
@@ -868,13 +962,15 @@
                 "de": "Château de Médan",
                 "hu": "Château de Médan",
                 "ro": "Château de Médan",
-                "en": "Château de Médan"
+                "en": "Château de Médan",
+                "fr": "Château de Médan"
               },
               "tip_5lang": {
                 "de": "Das Schloss ist ein perfekter Rückzugsort; der graue Himmel unterstreicht seinen historischen Charme.",
                 "hu": "A kastély tökéletes menedékhely; a szürke égbolt csak még inkább kiemeli történelmi varázsát.",
                 "ro": "Castelul este un refugiu perfect; cerul gri subliniază farmecul său istoric și misterios.",
-                "en": "The castle is a perfect retreat; the gray sky further highlights its unique historical charm."
+                "en": "The castle is a perfect retreat; the gray sky further highlights its unique historical charm.",
+                "fr": "Le château est un parfait refuge ; le ciel gris met d'autant plus en valeur son charme historique unique."
               }
             },
             {
@@ -882,13 +978,15 @@
                 "de": "Maison d'Émile Zola",
                 "hu": "Maison d'Émile Zola",
                 "ro": "Maison d'Émile Zola",
-                "en": "Maison d'Émile Zola"
+                "en": "Maison d'Émile Zola",
+                "fr": "Maison d'Émile Zola"
               },
               "tip_5lang": {
                 "de": "Beenden Sie den Tag mit einer ausgiebigen Innenführung, sicher geschützt vor dem nasskalten Wetter draußen.",
                 "hu": "Zárja a napot egy tartalmas belső vezetéssel, biztonságban a kinti nyirkos és hideg időjárástól.",
                 "ro": "Încheiați ziua cu un tur interior detaliat, fiind protejați de vremea umedă și rece de afară.",
-                "en": "End the day with a detailed indoor tour, staying safely protected from the damp and cold weather outside."
+                "en": "End the day with a detailed indoor tour, staying safely protected from the damp and cold weather outside.",
+                "fr": "Terminez la journée par une visite intérieure détaillée, en restant bien protégé de l'humidité et du froid extérieurs."
               }
             }
           ]
@@ -898,7 +996,8 @@
             "de": "Im warm beheizten Auto beginnt der frostige Tag ganz entspannt. Mittags erkundet man die Kapellen und Kirchen, wobei die Kälte in den Steingebäuden durch dicke Kleidung abgefangen werden muss. Der Nachmittag am Schloss bietet weite Ausblicke über das frostige Seine-Tal. Zum Abend hin empfiehlt sich der Aufenthalt im gut beheizten Zola-Museum, bevor die Dunkelheit hereinbricht.",
             "hu": "A fűtött autóban a fagyos nap is kényelmesen indul. Délben a kápolnák és templomok hűvös kőfalai között vastag ruházatra van szükség a hideg ellen. Délután a kastélytól nyíló kilátás a zúzmarás Szajna-völgyre lenyűgöző látvány. Estefelé a jól fűtött Zola-múzeumban érdemes tartózkodni, mielőtt a sötétség teljesen beállna.",
             "ro": "În mașina bine încălzită, ziua geroasă începe relaxat. La prânz, explorarea capelelor și bisericilor necesită haine groase împotriva frigului din clădirile de piatră. După-amiaza la castel oferă priveliști superbe asupra văii Senei înghețate. Spre seară, se recomandă vizitarea muzeului Zola, bine încălzit, înainte de lăsarea întunericului.",
-            "en": "In a well-heated car, the frosty day begins in a relaxed manner. At noon, exploring chapels and stone churches requires warm clothing against the internal chill. The afternoon at the castle offers stunning views over the frozen Seine valley. Towards evening, staying in the heated Zola museum is recommended before darkness fully sets in."
+            "en": "In a well-heated car, the frosty day begins in a relaxed manner. At noon, exploring chapels and stone churches requires warm clothing against the internal chill. The afternoon at the castle offers stunning views over the frozen Seine valley. Towards evening, staying in the heated Zola museum is recommended before darkness fully sets in.",
+            "fr": "Dans une voiture bien chauffée, la journée glaciale commence de manière détendue. À midi, explorer chapelles et églises de pierre nécessite des vêtements chauds contre la fraîcheur intérieure. L'après‑midi au château offre des vues superbes sur la vallée gelée de la Seine. Vers le soir, il est recommandé de rester dans le musée Zola bien chauffé avant que l'obscurité ne s'installe complètement."
           },
           "stops": [
             {
@@ -906,13 +1005,15 @@
                 "de": "Chapelle du château d'Acqueville",
                 "hu": "Chapelle du château d'Acqueville",
                 "ro": "Chapelle du château d'Acqueville",
-                "en": "Chapelle du château d'Acqueville"
+                "en": "Chapelle du château d'Acqueville",
+                "fr": "Chapelle du château d'Acqueville"
               },
               "tip_5lang": {
                 "de": "Parken Sie so nah wie möglich am Eingang; behalten Sie Ihren schweren Mantel in der ungeheizten Kapelle an.",
                 "hu": "Parkoljon a lehető legközelebb a bejárathoz; tartsa magán a vastag kabátját a fűtetlen kápolnában is.",
                 "ro": "Parcați cât mai aproape de intrare; păstrați-vă haina groasă în interiorul capelei neîncălzite.",
-                "en": "Park as close to the entrance as possible; keep your heavy coat on inside the unheated chapel."
+                "en": "Park as close to the entrance as possible; keep your heavy coat on inside the unheated chapel.",
+                "fr": "Garez‑vous le plus près possible de l'entrée ; gardez votre manteau lourd dans la chapelle non chauffée."
               }
             },
             {
@@ -920,13 +1021,15 @@
                 "de": "Parc du Peuple de l'herbe",
                 "hu": "Parc du Peuple de l'herbe",
                 "ro": "Parc du Peuple de l'herbe",
-                "en": "Parc du Peuple de l'herbe"
+                "en": "Parc du Peuple de l'herbe",
+                "fr": "Parc du Peuple de l'herbe"
               },
               "tip_5lang": {
                 "de": "Genießen Sie die gefrorene Landschaft kurz zu Fuß und wärmen Sie sich dann schnell wieder im Auto auf.",
                 "hu": "Élvezze a fagyos tájat egy rövid gyalogos séta erejéig, majd melegedjen fel gyorsan újra az autóban.",
                 "ro": "Bucurați-vă de peisajul înghețat în timpul unei scurte plimbări, apoi încălziți-vă rapid înapoi în mașină.",
-                "en": "Enjoy the frozen landscape during a short walk, then warm up quickly back inside your vehicle."
+                "en": "Enjoy the frozen landscape during a short walk, then warm up quickly back inside your vehicle.",
+                "fr": "Profitez du paysage gelé lors d'une courte promenade, puis réchauffez‑vous rapidement à l'intérieur de votre véhicule."
               }
             },
             {
@@ -934,13 +1037,15 @@
                 "de": "Église Saint-Louis",
                 "hu": "Église Saint-Louis",
                 "ro": "Église Saint-Louis",
-                "en": "Église Saint-Louis"
+                "en": "Église Saint-Louis",
+                "fr": "Église Saint-Louis"
               },
               "tip_5lang": {
                 "de": "Die Kirche bietet eine ruhige Atmosphäre; planen Sie den Besuch vor dem Sonnenuntergang um 17 Uhr für bessere Sicht.",
                 "hu": "A templom békés hangulatot áraszt; tervezze a látogatást az ötkori naplemente elé a jobb láthatóságért.",
                 "ro": "Biserica oferă o atmosferă senină; planificați vizita înainte de apusul de la ora 17:00 pentru vizibilitate.",
-                "en": "The church offers a serene atmosphere; plan your visit before the 5 PM sunset for better visibility."
+                "en": "The church offers a serene atmosphere; plan your visit before the 5 PM sunset for better visibility.",
+                "fr": "L'église offre une atmosphère sereine ; prévoyez votre visite avant le coucher du soleil à 17h pour une meilleure visibilité."
               }
             },
             {
@@ -948,13 +1053,15 @@
                 "de": "Saint-Nicolas Church",
                 "hu": "Saint-Nicolas Church",
                 "ro": "Saint-Nicolas Church",
-                "en": "Saint-Nicolas Church"
+                "en": "Saint-Nicolas Church",
+                "fr": "Saint-Nicolas Church"
               },
               "tip_5lang": {
                 "de": "Kühle Luft hält sich lange im Inneren; behalten Sie Schal und Mütze auf, während Sie die Baukunst bewundern.",
                 "hu": "A hűvös levegő megreked odabent; tartsa magán a sálat és a sapkát, miközben az építészetet csodálja.",
                 "ro": "Aerul rece persistă în interior; păstrați-vă fularul și căciula în timp ce admirați arhitectura veche.",
-                "en": "Cold air lingers inside the stone walls; keep your scarf and hat on while admiring the ancient masonry."
+                "en": "Cold air lingers inside the stone walls; keep your scarf and hat on while admiring the ancient masonry.",
+                "fr": "L'air froid persiste à l'intérieur des murs de pierre ; gardez votre écharpe et votre bonnet en admirant la maçonnerie ancienne."
               }
             },
             {
@@ -962,13 +1069,15 @@
                 "de": "Château de Médan",
                 "hu": "Château de Médan",
                 "ro": "Château de Médan",
-                "en": "Château de Médan"
+                "en": "Château de Médan",
+                "fr": "Château de Médan"
               },
               "tip_5lang": {
                 "de": "Die Auffahrt mit dem Auto ist sicher, aber achten Sie auf frostige Stellen auf der Straße zur Anhöhe hinauf.",
                 "hu": "Az autós feljutás biztonságos, de ügyeljen az úton előforduló jeges foltokra a dombra felfelé menet.",
                 "ro": "Urcarea cu mașina este sigură, dar atenție la porțiunile înghețate de pe drumul spre vârful dealului.",
-                "en": "The drive up is safe, but watch out for frosty patches on the road as you head up the hill to the castle."
+                "en": "The drive up is safe, but watch out for frosty patches on the road as you head up the hill to the castle.",
+                "fr": "La montée en voiture est sans danger, mais attention aux plaques de givre sur la route en montant la colline vers le château."
               }
             },
             {
@@ -976,13 +1085,15 @@
                 "de": "Maison d'Émile Zola",
                 "hu": "Maison d'Émile Zola",
                 "ro": "Maison d'Émile Zola",
-                "en": "Maison d'Émile Zola"
+                "en": "Maison d'Émile Zola",
+                "fr": "Maison d'Émile Zola"
               },
               "tip_5lang": {
                 "de": "Der perfekte gemütliche Abschluss; das Museum ist gut beheizt und bietet ein reichhaltiges kulturelles Erlebnis.",
                 "hu": "A tökéletes és barátságos zárás; a múzeum jól fűtött és gazdag kulturális élményt nyújt a nap végére.",
                 "ro": "Finalul perfect și primitor; muzeul este bine încălzit și oferă o experiență culturală bogată.",
-                "en": "The perfect cozy finale; the museum is well-heated and provides a rich cultural experience at the day's end."
+                "en": "The perfect cozy finale; the museum is well-heated and provides a rich cultural experience at the day's end.",
+                "fr": "La finale idéale et chaleureuse ; le musée est bien chauffé et offre une riche expérience culturelle en fin de journée."
               }
             }
           ]

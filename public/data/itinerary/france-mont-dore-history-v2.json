@@ -21,7 +21,8 @@
             "de": "Kirche Saint-Pardoux",
             "hu": "Saint-Pardoux templom",
             "ro": "Biserica Saint-Pardoux",
-            "en": "Saint-Pardoux Church"
+            "en": "Saint-Pardoux Church",
+            "fr": "Église Saint-Pardoux"
           },
           "coords": [
             2.8092,
@@ -36,7 +37,8 @@
             "de": "Bewundern Sie die neugotische Architektur im Herzen der Stadt.",
             "hu": "Csodálja meg a neogótikus építészetet a város szívében.",
             "ro": "Admirați arhitectura neogotică din inima orașului.",
-            "en": "Admire the neo-Gothic architecture in the heart of the town."
+            "en": "Admire the neo-Gothic architecture in the heart of the town.",
+            "fr": "Admirez l'architecture néo-gothique au cœur de la ville."
           }
         },
         {
@@ -44,7 +46,8 @@
             "de": "Thermes du Mont-Dore",
             "hu": "Mont-Dore termálfürdő",
             "ro": "Băile Termale Mont-Dore",
-            "en": "Mont-Dore Thermal Baths"
+            "en": "Mont-Dore Thermal Baths",
+            "fr": "Bains Thermaux du Mont-Dore"
           },
           "coords": [
             2.8095,
@@ -59,7 +62,8 @@
             "de": "Besichtigen Sie die prachtvollen Säle im neo-byzantinischen Stil.",
             "hu": "Látogasson el a pompás neobizánci stílusú termekbe.",
             "ro": "Vizitați sălile magnifice în stil neo-bizantin.",
-            "en": "Visit the magnificent neo-Byzantine style halls."
+            "en": "Visit the magnificent neo-Byzantine style halls.",
+            "fr": "Visitez les magnifiques salles de style néo-byzantin."
           }
         },
         {
@@ -67,7 +71,8 @@
             "de": "Ehemaliges Grand Hôtel",
             "hu": "Egykori Grand Hotel",
             "ro": "Fostul Grand Hôtel",
-            "en": "Former Grand Hôtel"
+            "en": "Former Grand Hôtel",
+            "fr": "Ancien Grand Hôtel"
           },
           "coords": [
             2.8085,
@@ -82,7 +87,8 @@
             "de": "Ein Symbol der Belle Époque-Eleganz.",
             "hu": "A Belle Époque eleganciájának szimbóluma.",
             "ro": "Un simbol al eleganței Belle Époque.",
-            "en": "A symbol of Belle Époque elegance."
+            "en": "A symbol of Belle Époque elegance.",
+            "fr": "Un symbole de l'élégance de la Belle Époque."
           }
         },
         {
@@ -90,7 +96,8 @@
             "de": "Parc des Lancy",
             "hu": "Parc des Lancy",
             "ro": "Parcul Lancy",
-            "en": "Parc des Lancy"
+            "en": "Parc des Lancy",
+            "fr": "Parc des Lancy"
           },
           "coords": [
             2.8078,
@@ -105,7 +112,8 @@
             "de": "Ideal für ein Picknick oder eine entspannte Pause am Fluss.",
             "hu": "Ideális piknikhez vagy egy pihentető szünethez a folyóparton.",
             "ro": "Ideal pentru un picnic sau o pauză relaxantă lângă râu.",
-            "en": "Ideal for a picnic or a relaxing break by the river."
+            "en": "Ideal for a picnic or a relaxing break by the river.",
+            "fr": "Idéal pour un pique-nique ou une pause reposante au bord de la rivière."
           }
         },
         {
@@ -113,7 +121,8 @@
             "de": "Eisbahn von Mont-Dore",
             "hu": "Mont-Dore-i jégpálya",
             "ro": "Patinoarul din Mont-Dore",
-            "en": "Mont-Dore Ice Rink"
+            "en": "Mont-Dore Ice Rink",
+            "fr": "Patinoire du Mont-Dore"
           },
           "coords": [
             2.8065,
@@ -128,7 +137,8 @@
             "de": "Ein historisches Holzgebäude mit alpinem Charme.",
             "hu": "Történelmi faépület alpesi bájjal.",
             "ro": "O clădire istorică din lemn cu farmec alpin.",
-            "en": "A historical wooden building with alpine charm."
+            "en": "A historical wooden building with alpine charm.",
+            "fr": "Un bâtiment historique en bois au charme alpin."
           }
         },
         {
@@ -136,7 +146,8 @@
             "de": "Funiculaire du Capucin",
             "hu": "Capucin sikló",
             "ro": "Funicularul Capucin",
-            "en": "Capucin Funicular"
+            "en": "Capucin Funicular",
+            "fr": "Funiculaire du Capucin"
           },
           "coords": [
             2.8015,
@@ -151,7 +162,8 @@
             "de": "Fahren Sie mit der ältesten elektrischen Drahtseilbahn Frankreichs.",
             "hu": "Utazzon Franciaország legrégebbi elektromos siklójával.",
             "ro": "Călătoriți cu cel mai vechi funicular electric din Franța.",
-            "en": "Ride France's oldest electric funicular."
+            "en": "Ride France's oldest electric funicular.",
+            "fr": "Empruntez le plus ancien funiculaire électrique de France."
           }
         },
         {
@@ -159,7 +171,8 @@
             "de": "Grande Cascade",
             "hu": "Nagy-vízesés",
             "ro": "Cascada Mare",
-            "en": "Great Waterfall"
+            "en": "Great Waterfall",
+            "fr": "Grande Cascade"
           },
           "coords": [
             2.821,
@@ -174,7 +187,8 @@
             "de": "Ein 30 Meter hoher Wasserfall über Vulkangestein.",
             "hu": "30 méter magas vízesés vulkáni kőzeten.",
             "ro": "O cascadă de 30 de metri peste roci vulcanice.",
-            "en": "A 30-meter high waterfall over volcanic rock."
+            "en": "A 30-meter high waterfall over volcanic rock.",
+            "fr": "Une cascade de 30 mètres de haut sur roche volcanique."
           }
         }
       ],
@@ -182,7 +196,8 @@
         "de": "Beginnen Sie Ihren Tag im historischen Zentrum von Mont-Dore mit einem Besuch der Kirche Saint-Pardoux und der majestätischen Thermen. Nach einem Blick auf das prachtvolle Grand Hôtel entspannen Sie im Parc des Lancy. Am Nachmittag bringt Sie die historische Drahtseilbahn in die Höhe, bevor Sie zur beeindruckenden Grande Cascade wandern, dem höchsten Wasserfall der Auvergne.",
         "hu": "Kezdje a napot Mont-Dore történelmi központjában a Saint-Pardoux templom és a fenséges termálfürdő meglátogatásával. Miután megcsodálta a Grand Hotelt, pihenjen a Parc des Lancy-ban. Délután a történelmi sikló repíti a magasba, majd túrázzon el a lenyűgöző Nagy-vízeséshez, Auvergne legmagasabb vízeséséhez.",
         "ro": "Începeți ziua în centrul istoric al orașului Mont-Dore cu o vizită la Biserica Saint-Pardoux și la băile termale maiestuoase. După ce admirați fostul Grand Hôtel, relaxați-vă în Parcul Lancy. După-amiaza, funicularul istoric vă poartă spre culmi, înainte de a face o drumeție spre impresionanta Cascadă Mare, cea mai înaltă din Auvergne.",
-        "en": "Start your day in the historic center of Mont-Dore with a visit to Saint-Pardoux Church and the majestic thermal baths. After admiring the Grand Hôtel, relax in Parc des Lancy. In the afternoon, the historic funicular whisk you uphill before hiking to the impressive Great Waterfall, the highest waterfall in Auvergne."
+        "en": "Start your day in the historic center of Mont-Dore with a visit to Saint-Pardoux Church and the majestic thermal baths. After admiring the Grand Hôtel, relax in Parc des Lancy. In the afternoon, the historic funicular whisk you uphill before hiking to the impressive Great Waterfall, the highest waterfall in Auvergne.",
+        "fr": "Commencez la journée dans le centre historique du Mont-Dore par la visite de l'église Saint-Pardoux et des majestueux thermes. Après avoir admiré l'ancien Grand Hôtel, détendez-vous au Parc des Lancy. L'après‑midi, le funiculaire historique vous emmène en haut avant une randonnée jusqu'à l'impressionnante Grande Cascade, la plus haute chute d'eau d'Auvergne."
       },
       "gastro_picks": {
         "de": [
@@ -326,6 +341,12 @@
           "The thermal baths building can be visited even without a treatment.",
           "Check the funicular operating hours in advance.",
           "Mont-Dore is at high altitude, pack a jacket even in summer."
+        ],
+        "fr": [
+          "Portez des chaussures de randonnée solides pour le chemin vers la Grande Cascade.",
+          "Le bâtiment des thermes peut être visité même sans soin.",
+          "Vérifiez à l'avance les horaires de fonctionnement du funiculaire.",
+          "Le Mont-Dore est en haute altitude, emportez une veste même en été."
         ]
       }
     },
@@ -342,7 +363,8 @@
             "de": "Thermes du Mont-Dore",
             "hu": "Mont-Dore termálfürdő",
             "ro": "Băile Termale Mont-Dore",
-            "en": "Mont-Dore Thermal Baths"
+            "en": "Mont-Dore Thermal Baths",
+            "fr": "Thermes du Mont-Dore"
           },
           "coords": [
             2.8095,
@@ -359,7 +381,8 @@
             "de": "Parc des Lancy",
             "hu": "Parc des Lancy",
             "ro": "Parcul Lancy",
-            "en": "Parc des Lancy"
+            "en": "Parc des Lancy",
+            "fr": "Parc des Lancy"
           },
           "coords": [
             2.8078,
@@ -376,7 +399,8 @@
             "de": "Funiculaire du Capucin",
             "hu": "Capucin sikló",
             "ro": "Funicularul Capucin",
-            "en": "Capucin Funicular"
+            "en": "Capucin Funicular",
+            "fr": "Funiculaire du Capucin"
           },
           "coords": [
             2.8015,
@@ -393,7 +417,8 @@
             "de": "Puy de Sancy (Basis)",
             "hu": "Puy de Sancy (alsó állomás)",
             "ro": "Puy de Sancy (baza)",
-            "en": "Puy de Sancy (base station)"
+            "en": "Puy de Sancy (base station)",
+            "fr": "Puy de Sancy (gare de départ)"
           },
           "coords": [
             2.815,
@@ -410,7 +435,8 @@
             "de": "Eisbahn von Mont-Dore",
             "hu": "Mont-Dore-i jégpálya",
             "ro": "Patinoarul din Mont-Dore",
-            "en": "Mont-Dore Ice Rink"
+            "en": "Mont-Dore Ice Rink",
+            "fr": "Patinoire du Mont-Dore"
           },
           "coords": [
             2.8065,
@@ -427,7 +453,8 @@
             "de": "Kirche Saint-Pardoux",
             "hu": "Saint-Pardoux templom",
             "ro": "Biserica Saint-Pardoux",
-            "en": "Saint-Pardoux Church"
+            "en": "Saint-Pardoux Church",
+            "fr": "Église Saint-Pardoux"
           },
           "coords": [
             2.8092,
@@ -444,7 +471,8 @@
         "de": "Diese Radtour führt Sie durch das charmante Stadtzentrum und hinauf zum Fuß des Puy de Sancy. Genießen Sie die frische Bergluft auf dem Weg zur Talstation der Seilbahn und erkunden Sie die industrielle Geschichte der Thermen und des Funiculaire per Bike.",
         "hu": "Ez a kerékpártúra a bájos városközponton keresztül vezet fel a Puy de Sancy lábához. Élvezze a friss hegyi levegőt a felvonó alsó állomásához vezető úton, és fedezze fel a termálfürdő és a sikló ipari örökségét két keréken.",
         "ro": "Acest tur cu bicicleta vă poartă prin centrul fermecător al orașului și până la poalele vârfului Puy de Sancy. Bucurați-vă de aerul proaspăt de munte pe drumul spre stația de bază a telecabinei și explorați istoria industrială a băilor și a funicularului.",
-        "en": "This bike tour takes you through the charming town center and up to the foot of Puy de Sancy. Enjoy the fresh mountain air on the way to the cable car base station and explore the industrial history of the thermal baths and the funicular."
+        "en": "This bike tour takes you through the charming town center and up to the foot of Puy de Sancy. Enjoy the fresh mountain air on the way to the cable car base station and explore the industrial history of the thermal baths and the funicular.",
+        "fr": "Cette balade à vélo vous fait traverser le charmant centre-ville et monter au pied du Puy de Sancy. Profitez de l'air pur de la montagne en direction de la gare du téléphérique et découvrez l'histoire industrielle des thermes et du funiculaire."
       },
       "gastro_picks": {
         "de": [
@@ -544,6 +572,10 @@
         "en": [
           "E-bikes are highly recommended for the climb to Puy de Sancy.",
           "Watch out for hikers in park areas."
+        ],
+        "fr": [
+          "Les vélos électriques sont vivement recommandés pour l'ascension vers le Puy de Sancy.",
+          "Faites attention aux randonneurs dans les espaces du parc."
         ]
       }
     },
@@ -560,7 +592,8 @@
             "de": "Kirche Saint-Pardoux",
             "hu": "Saint-Pardoux templom",
             "ro": "Biserica Saint-Pardoux",
-            "en": "Saint-Pardoux Church"
+            "en": "Saint-Pardoux Church",
+            "fr": "Église Saint-Pardoux"
           },
           "coords": [
             2.8092,
@@ -578,7 +611,8 @@
             "de": "Thermes du Mont-Dore",
             "hu": "Mont-Dore termálfürdő",
             "ro": "Băile Termale Mont-Dore",
-            "en": "Mont-Dore Thermal Baths"
+            "en": "Mont-Dore Thermal Baths",
+            "fr": "Thermes du Mont-Dore"
           },
           "coords": [
             2.8095,
@@ -596,7 +630,8 @@
             "de": "Ehemaliges Grand Hôtel",
             "hu": "Egykori Grand Hotel",
             "ro": "Fostul Grand Hôtel",
-            "en": "Former Grand Hôtel"
+            "en": "Former Grand Hôtel",
+            "fr": "Ancien Grand Hôtel"
           },
           "coords": [
             2.8085,
@@ -614,7 +649,8 @@
             "de": "Parc des Lancy",
             "hu": "Parc des Lancy",
             "ro": "Parcul Lancy",
-            "en": "Parc des Lancy"
+            "en": "Parc des Lancy",
+            "fr": "Parc des Lancy"
           },
           "coords": [
             2.8078,
@@ -632,7 +668,8 @@
             "de": "Grande Cascade (Parkplatz)",
             "hu": "Nagy-vízesés (parkoló)",
             "ro": "Cascada Mare (parcare)",
-            "en": "Great Waterfall (parking)"
+            "en": "Great Waterfall (parking)",
+            "fr": "Grande Cascade (parking)"
           },
           "coords": [
             2.821,
@@ -650,7 +687,8 @@
             "de": "Puy de Sancy (Seilbahn)",
             "hu": "Puy de Sancy (felvonó)",
             "ro": "Puy de Sancy (telecabină)",
-            "en": "Puy de Sancy (cable car)"
+            "en": "Puy de Sancy (cable car)",
+            "fr": "Puy de Sancy (téléphérique)"
           },
           "coords": [
             2.815,
@@ -668,7 +706,8 @@
             "de": "Funiculaire du Capucin",
             "hu": "Capucin sikló",
             "ro": "Funicularul Capucin",
-            "en": "Capucin Funicular"
+            "en": "Capucin Funicular",
+            "fr": "Funiculaire du Capucin"
           },
           "coords": [
             2.8015,
@@ -686,7 +725,8 @@
             "de": "Eisbahn von Mont-Dore",
             "hu": "Mont-Dore-i jégpálya",
             "ro": "Patinoarul din Mont-Dore",
-            "en": "Mont-Dore Ice Rink"
+            "en": "Mont-Dore Ice Rink",
+            "fr": "Patinoire du Mont-Dore"
           },
           "coords": [
             2.8065,
@@ -704,7 +744,8 @@
         "de": "Diese Autotour kombiniert das historische Kurviertel mit den spektakulären Naturschönheiten des Sancy-Massivs. Nach einem Stadtrundgang zu Fuß fahren Sie zu den Parkplätzen der Grande Cascade und der Sancy-Seilbahn, um die atemberaubende Panorama-Aussicht ohne lange Anstiege zu genießen.",
         "hu": "Ez az autós túra ötvözi a történelmi fürdőnegyedet a Sancy-masszívum látványos természeti szépségeivel. A gyalogos városnézés után hajtson el a Nagy-vízesés és a Sancy-felvonó parkolójához, hogy hosszú emelkedők nélkül élvezhesse a lélegzetelállító panorámát.",
         "ro": "Acest tur cu mașina combină cartierul balnear istoric cu frumusețile naturale spectaculoase ale masivului Sancy. După un tur al orașului pe jos, conduceți către parcările de la Cascada Mare și telecabina Sancy pentru a vă bucura de panorama uluitoare fără urcări lungi.",
-        "en": "This car tour combines the historic spa district with the spectacular natural beauty of the Sancy massif. After a walking tour of the town, drive to the Great Waterfall and Sancy cable car parking lots to enjoy breathtaking panoramas without long climbs."
+        "en": "This car tour combines the historic spa district with the spectacular natural beauty of the Sancy massif. After a walking tour of the town, drive to the Great Waterfall and Sancy cable car parking lots to enjoy breathtaking panoramas without long climbs.",
+        "fr": "Cette visite en voiture associe le quartier thermal historique à la beauté naturelle spectaculaire du massif du Sancy. Après une promenade dans la ville, conduisez jusqu'aux parkings de la Grande Cascade et du téléphérique du Sancy pour profiter de panoramas à couper le souffle sans longues ascensions."
       },
       "gastro_picks": {
         "de": [
@@ -804,6 +845,10 @@
         "en": [
           "Central parking lots are often crowded in summer.",
           "The road to Puy de Sancy offers fantastic views."
+        ],
+        "fr": [
+          "Les parkings centraux sont souvent encombrés en été.",
+          "La route vers le Puy de Sancy offre des vues fantastiques."
         ]
       }
     },
@@ -820,7 +865,8 @@
             "de": "Kirche Saint-Pardoux",
             "hu": "Saint-Pardoux templom",
             "ro": "Biserica Saint-Pardoux",
-            "en": "Saint-Pardoux Church"
+            "en": "Saint-Pardoux Church",
+            "fr": "Église Saint-Pardoux"
           },
           "coords": [
             2.8092,
@@ -838,7 +884,8 @@
             "de": "Thermes du Mont-Dore",
             "hu": "Mont-Dore termálfürdő",
             "ro": "Băile Termale Mont-Dore",
-            "en": "Mont-Dore Thermal Baths"
+            "en": "Mont-Dore Thermal Baths",
+            "fr": "Thermes du Mont-Dore"
           },
           "coords": [
             2.8095,
@@ -856,7 +903,8 @@
             "de": "Ehemaliges Grand Hôtel",
             "hu": "Egykori Grand Hotel",
             "ro": "Fostul Grand Hôtel",
-            "en": "Former Grand Hôtel"
+            "en": "Former Grand Hôtel",
+            "fr": "Ancien Grand Hôtel"
           },
           "coords": [
             2.8085,
@@ -874,7 +922,8 @@
             "de": "Puy de Sancy (Shuttle)",
             "hu": "Puy de Sancy (busz)",
             "ro": "Puy de Sancy (autobuz)",
-            "en": "Puy de Sancy (shuttle bus)"
+            "en": "Puy de Sancy (shuttle bus)",
+            "fr": "Puy de Sancy (navette)"
           },
           "coords": [
             2.815,
@@ -892,7 +941,8 @@
             "de": "Parc des Lancy",
             "hu": "Parc des Lancy",
             "ro": "Parcul Lancy",
-            "en": "Parc des Lancy"
+            "en": "Parc des Lancy",
+            "fr": "Parc des Lancy"
           },
           "coords": [
             2.8078,
@@ -910,7 +960,8 @@
             "de": "Eisbahn von Mont-Dore",
             "hu": "Mont-Dore-i jégpálya",
             "ro": "Patinoarul din Mont-Dore",
-            "en": "Mont-Dore Ice Rink"
+            "en": "Mont-Dore Ice Rink",
+            "fr": "Patinoire du Mont-Dore"
           },
           "coords": [
             2.8065,
@@ -928,7 +979,8 @@
         "de": "Nutzen Sie die lokalen Pendelbusse (Navettes), um bequem zwischen dem Stadtzentrum und der Sancy-Seilbahn zu pendeln. Diese Tour ist ideal, um die architektonischen Schätze von Mont-Dore zu erkunden und mühelos zum höchsten Gipfel der Auvergne zu gelangen.",
         "hu": "Használja a helyi ingajáratokat (Navettes), hogy kényelmesen közlekedjen a városközpont és a Sancy-felvonó között. Ez a túra ideális Mont-Dore építészeti kincseinek felfedezéséhez és a legmagasabb auvergne-i csúcs könnyed eléréséhez.",
         "ro": "Utilizați autobuzele locale (Navettes) pentru a face naveta confortabil între centrul orașului și telecabina Sancy. Acest tur este ideal pentru a explora comorile arhitecturale din Mont-Dore și pentru a ajunge fără efort pe cel mai înalt vârf din Auvergne.",
-        "en": "Use the local shuttle buses (Navettes) to commute comfortably between the town center and the Sancy cable car. This tour is ideal for exploring the architectural treasures of Mont-Dore and reaching the highest peak in Auvergne with ease."
+        "en": "Use the local shuttle buses (Navettes) to commute comfortably between the town center and the Sancy cable car. This tour is ideal for exploring the architectural treasures of Mont-Dore and reaching the highest peak in Auvergne with ease.",
+        "fr": "Utilisez les navettes locales (Navettes) pour vous déplacer confortablement entre le centre-ville et le téléphérique du Sancy. Cette visite est idéale pour explorer les trésors architecturaux du Mont-Dore et atteindre facilement le plus haut sommet d'Auvergne."
       },
       "gastro_picks": {
         "de": [
@@ -1028,6 +1080,10 @@
         "en": [
           "The 'Sancy shuttles' run frequently during high season.",
           "Buy a day ticket from the bus driver."
+        ],
+        "fr": [
+          "Les 'navettes Sancy' circulent fréquemment en haute saison.",
+          "Achetez un ticket journée auprès du chauffeur de bus."
         ]
       }
     }

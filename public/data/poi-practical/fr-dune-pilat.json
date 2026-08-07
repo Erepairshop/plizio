@@ -3,55 +3,64 @@
     "de": "Route de Biscarrosse, 33115 La Teste-de-Buch",
     "hu": "Route de Biscarrosse, 33115 La Teste-de-Buch",
     "ro": "Route de Biscarrosse, 33115 La Teste-de-Buch",
-    "en": "Route de Biscarrosse, 33115 La Teste-de-Buch"
+    "en": "Route de Biscarrosse, 33115 La Teste-de-Buch",
+    "fr": "Route de Biscarrosse, 33115 La Teste-de-Buch"
   },
   "openingHours": {
     "de": "24/7",
     "hu": "0-24 óráig",
     "ro": "24/7",
-    "en": "24/7"
+    "en": "24/7",
+    "fr": "24/7"
   },
   "entranceFee": {
     "de": "free",
     "hu": "ingyenes",
     "ro": "gratuit",
-    "en": "free"
+    "en": "free",
+    "fr": "gratuit"
   },
   "website": "https://www.dunedupilat.com",
   "publicTransport": {
     "de": "Bus Linie 1 ab Bahnhof Arcachon (saisonal)",
     "hu": "1-es busz Arcachon vasútállomástól (szezonális)",
     "ro": "Autobuzul linia 1 de la gara Arcachon (sezonier)",
-    "en": "Bus line 1 from Arcachon train station (seasonal)"
+    "en": "Bus line 1 from Arcachon train station (seasonal)",
+    "fr": "Bus ligne 1 depuis la gare d’Arcachon (saisonnier)"
   },
   "parking": {
     "de": "Großer Hauptparkplatz, ca. €6 für 4 Stunden Aufenthalt",
     "hu": "Nagy központi parkoló, kb. 6 € 4 órányi tartózkodásra",
     "ro": "Parcare principală mare, aproximativ 6 € pentru 4 ore",
-    "en": "Large main parking lot, approx. €6 for a 4-hour stay"
+    "en": "Large main parking lot, approx. €6 for a 4-hour stay",
+    "fr": "Grand parking principal, env. €6 pour 4 heures"
   },
   "accessibility": {
     "de": "Sandgelände schwierig, Treppenaufstieg nur von April bis November",
     "hu": "A homokos terep nehézkes, lépcsős feljutás csak áprilistól novemberig lehetséges",
     "ro": "Terenul nisipos este dificil, urcarea pe scări este posibilă doar din aprilie până în noiembrie",
-    "en": "Sandy terrain is difficult, stairs available only from April to November"
+    "en": "Sandy terrain is difficult, stairs available only from April to November",
+    "fr": "Terrain sablonneux difficile, escaliers disponibles seulement d’avril à novembre"
   },
   "photoRules": {
     "de": "Frei erlaubt, gewerbliche Drohnenflüge verboten",
     "hu": "Szabadon engedélyezett, kereskedelmi célú drónozás tilos",
     "ro": "Permis liber, zborurile comerciale cu drone sunt interzise",
-    "en": "Freely permitted, commercial drone flights are prohibited"
+    "en": "Freely permitted, commercial drone flights are prohibited",
+    "fr": "Librement autorisé, vols commerciaux de drone interdits"
   },
   "bestTimeToVisit": {
     "de": "Zum Sonnenuntergang für spektakuläre Farben über dem Atlantik",
     "hu": "Naplementekor az Atlanti-óceán feletti látványos színek miatt",
     "ro": "La apus pentru culori spectaculoase deasupra Atlanticului",
-    "en": "At sunset for spectacular colors over the Atlantic"
+    "en": "At sunset for spectacular colors over the Atlantic",
+    "fr": "Au coucher du soleil pour des couleurs spectaculaires sur l’Atlantique"
   },
   "audioGuide": {
     "de": "no",
     "hu": "nincs",
     "ro": "nu",
-    "en": "no"
+    "en": "no",
+    "fr": "non"
   }
 }

@@ -21,7 +21,8 @@
             "de": "Porte Saint-Jean",
             "hu": "Szent János-kapu",
             "ro": "Poarta Saint-Jean",
-            "en": "Saint-Jean Gate"
+            "en": "Saint-Jean Gate",
+            "fr": "Porte Saint-Jean"
           },
           "coords": [
             48.563,
@@ -36,7 +37,8 @@
             "de": "Beginnen Sie hier für den besten Blick auf die Stadtmauer.",
             "hu": "Kezdje itt a sétát a legjobb várfal-kilátásért.",
             "ro": "Începeți aici pentru cea mai bună vedere a zidurilor.",
-            "en": "Start here for the best view of the ramparts."
+            "en": "Start here for the best view of the ramparts.",
+            "fr": "Commencez ici pour la meilleure vue des remparts."
           }
         },
         {
@@ -44,7 +46,8 @@
             "de": "Stadtmauer von Provins",
             "hu": "Provins várfala",
             "ro": "Zidurile cetății Provins",
-            "en": "Ramparts of Provins"
+            "en": "Ramparts of Provins",
+            "fr": "Remparts de Provins"
           },
           "coords": [
             48.564,
@@ -59,7 +62,8 @@
             "de": "Ein Spaziergang auf der Krone bietet tolle Fotomotive.",
             "hu": "A fal tetején sétálva remek fotókat készíthet.",
             "ro": "O plimbare pe ziduri oferă unghiuri foto superbe.",
-            "en": "A walk on the top offers great photo opportunities."
+            "en": "A walk on the top offers great photo opportunities.",
+            "fr": "Une promenade sur le sommet offre de superbes opportunités photo."
           }
         },
         {
@@ -67,7 +71,8 @@
             "de": "Tour César",
             "hu": "Cézár-torony",
             "ro": "Turnul lui Cezar",
-            "en": "Cesar Tower"
+            "en": "Cesar Tower",
+            "fr": "Tour César"
           },
           "coords": [
             48.562,
@@ -82,7 +87,8 @@
             "de": "Das Wahrzeichen der Stadt mit 360-Grad-Panorama.",
             "hu": "A város jelképe 360 fokos panorámával.",
             "ro": "Simbolul orașului cu panoramă de 360 de grade.",
-            "en": "The city's landmark with a 360-degree panorama."
+            "en": "The city's landmark with a 360-degree panorama.",
+            "fr": "Le monument emblématique de la ville avec un panorama à 360 degrés."
           }
         },
         {
@@ -90,7 +96,8 @@
             "de": "Stiftskirche Saint-Quiriace",
             "hu": "Saint-Quiriace társaskáptalani templom",
             "ro": "Biserica Saint-Quiriace",
-            "en": "Collegiate Church of Saint-Quiriace"
+            "en": "Collegiate Church of Saint-Quiriace",
+            "fr": "Collégiale Saint-Quiriace"
           },
           "coords": [
             48.561,
@@ -105,7 +112,8 @@
             "de": "Bewundern Sie die unvollendete, aber imposante Kuppel.",
             "hu": "Csodálja meg a befejezetlen, de impozáns kupolát.",
             "ro": "Admirați cupola neterminată, dar impunătoare.",
-            "en": "Admire the unfinished but imposing dome."
+            "en": "Admire the unfinished but imposing dome.",
+            "fr": "Admirez la coupole inachevée mais imposante."
           }
         },
         {
@@ -113,7 +121,8 @@
             "de": "Grange aux Dîmes",
             "hu": "Tized-csűr",
             "ro": "Grange aux Dîmes",
-            "en": "Tithe Barn"
+            "en": "Tithe Barn",
+            "fr": "Grange aux Dîmes"
           },
           "coords": [
             48.561,
@@ -128,7 +137,8 @@
             "de": "Audioguide zeigt das Leben der mittelalterlichen Händler.",
             "hu": "Audioguide mutatja be a középkori kereskedők életét.",
             "ro": "Audioghidul prezintă viața negustorilor medievali.",
-            "en": "Audioguide shows the life of medieval merchants."
+            "en": "Audioguide shows the life of medieval merchants.",
+            "fr": "L’audioguide montre la vie des marchands médiévaux."
           }
         },
         {
@@ -136,7 +146,8 @@
             "de": "Les Souterrains de Provins",
             "hu": "Provins föld alatti járatai",
             "ro": "Subteranele din Provins",
-            "en": "Provins Underground Tunnels"
+            "en": "Provins Underground Tunnels",
+            "fr": "Galeries souterraines de Provins"
           },
           "coords": [
             48.562,
@@ -151,7 +162,8 @@
             "de": "Buchen Sie die Führung im Voraus, es ist oft ausverkauft.",
             "hu": "Foglaljon előre, gyakran minden hely elkel.",
             "ro": "Rezervați din timp, biletele se epuizează rapid.",
-            "en": "Book in advance, tours often sell out."
+            "en": "Book in advance, tours often sell out.",
+            "fr": "Réservez à l’avance, les visites affichent souvent complet."
           }
         },
         {
@@ -159,7 +171,8 @@
             "de": "Rosengarten von Provins",
             "hu": "Provins-i rózsakert",
             "ro": "Grădina de trandafiri",
-            "en": "Provins Rose Garden"
+            "en": "Provins Rose Garden",
+            "fr": "Jardin des Roses de Provins"
           },
           "coords": [
             48.558,
@@ -174,7 +187,8 @@
             "de": "Probieren Sie das Roseneis im Gartencafé.",
             "hu": "Kóstolja meg a rózsafagyit a kerti kávézóban.",
             "ro": "Gustați înghețata de trandafiri la cafeneaua grădinii.",
-            "en": "Try the rose ice cream at the garden cafe."
+            "en": "Try the rose ice cream at the garden cafe.",
+            "fr": "Goûtez la glace à la rose au café du jardin."
           }
         }
       ],
@@ -182,7 +196,8 @@
         "de": "Erkunden Sie das mittelalterliche Juwel Frankreichs zu Fuß. Der Vormittag gehört der mächtigen Stadtmauer und dem ikonischen Tour César. Nach einer Besichtigung der imposanten Kirche Saint-Quiriace tauchen Sie in die Handelsgeschichte der Grange aux Dîmes ein. Den Nachmittag verbringen Sie in den geheimnisvollen Souterrains, bevor Sie den Tag entspannt im duftenden Rosengarten ausklingen lassen.",
         "hu": "Fedezze fel gyalogosan Franciaország középkori ékszerdobozát. A délelőtt a hatalmas várfalaké és az ikonikus Cézár-toronyé. A monumentális Saint-Quiriace templom után a Tized-csűrben megismerheti a középkori vásárok világát. Délután a rejtélyes föld alatti járatokat járjuk be, majd a napot a város híres rózsakertjében, illatos virágok között zárjuk.",
         "ro": "Explorați pe jos bijuteria medievală a Franței. Dimineața este dedicată zidurilor impunătoare și iconicului Turn al lui Cezar. După vizitarea bisericii Saint-Quiriace, pătrundeți în istoria comercială la Grange aux Dîmes. După-amiaza o veți petrece în subteranele misterioase, înainte de a încheia ziua relaxat în parfumata grădină de trandafiri.",
-        "en": "Explore France's medieval jewel on foot. The morning belongs to the mighty ramparts and the iconic Cesar Tower. After visiting the imposing Saint-Quiriace church, dive into commercial history at the Tithe Barn. Spend the afternoon in the mysterious underground tunnels before ending the day relaxing in the fragrant Rose Garden."
+        "en": "Explore France's medieval jewel on foot. The morning belongs to the mighty ramparts and the iconic Cesar Tower. After visiting the imposing Saint-Quiriace church, dive into commercial history at the Tithe Barn. Spend the afternoon in the mysterious underground tunnels before ending the day relaxing in the fragrant Rose Garden.",
+        "fr": "Explorez à pied le joyau médiéval de France. La matinée appartient aux puissants remparts et à l’emblématique Tour César. Après la visite de l’imposante collégiale Saint-Quiriace, plongez dans l’histoire commerciale à la Grange aux Dîmes. Passez l’après-midi dans les mystérieux souterrains avant de terminer la journée en vous relaxant dans le parfumé Jardin des Roses."
       },
       "gastro_picks": {
         "de": [
@@ -322,6 +337,11 @@
           "Buy the Provins Pass for discounted entry to 4 main sights.",
           "Wear comfortable shoes for the cobblestone streets in the upper town.",
           "The 'Les Aigles des Remparts' bird of prey show is a must for families."
+        ],
+        "fr": [
+          "Achetez le Pass Provins pour des entrées à tarif réduit vers 4 sites principaux.",
+          "Portez des chaussures confortables pour les rues pavées de la ville haute.",
+          "Le spectacle de rapaces « Les Aigles des Remparts » est un incontournable pour les familles."
         ]
       }
     },
@@ -338,7 +358,8 @@
             "de": "Porte Saint-Jean",
             "hu": "Szent János-kapu",
             "ro": "Poarta Saint-Jean",
-            "en": "Saint-Jean Gate"
+            "en": "Saint-Jean Gate",
+            "fr": "Porte Saint-Jean"
           },
           "coords": [
             48.563,
@@ -353,7 +374,8 @@
             "de": "Startpunkt an der mächtigen Stadtmauer.",
             "hu": "Kiindulópont a hatalmas várfalnál.",
             "ro": "Punct de plecare la zidul impunător.",
-            "en": "Starting point at the mighty ramparts."
+            "en": "Starting point at the mighty ramparts.",
+            "fr": "Point de départ aux puissants remparts."
           }
         },
         {
@@ -361,7 +383,8 @@
             "de": "Stadtmauer",
             "hu": "Várfal",
             "ro": "Zidurile",
-            "en": "Ramparts"
+            "en": "Ramparts",
+            "fr": "Remparts"
           },
           "coords": [
             48.564,
@@ -376,7 +399,8 @@
             "de": "Radeln Sie entlang der Außenseite der Gräben.",
             "hu": "Biciklizzen a várárok külső peremén.",
             "ro": "Pedalați de-a lungul exteriorului șanțurilor.",
-            "en": "Cycle along the outside of the moats."
+            "en": "Cycle along the outside of the moats.",
+            "fr": "Faites du vélo le long de l’extérieur des douves."
           }
         },
         {
@@ -384,7 +408,8 @@
             "de": "Tour César",
             "hu": "Cézár-torony",
             "ro": "Turnul lui Cezar",
-            "en": "Cesar Tower"
+            "en": "Cesar Tower",
+            "fr": "Tour César"
           },
           "coords": [
             48.562,
@@ -399,7 +424,8 @@
             "de": "Stellen Sie Ihr Rad am Fuß des Turms sicher ab.",
             "hu": "Parkolja le a bringát a torony tövében.",
             "ro": "Parcați bicicleta în siguranță la baza turnului.",
-            "en": "Park your bike safely at the foot of the tower."
+            "en": "Park your bike safely at the foot of the tower.",
+            "fr": "Garez votre vélo en sécurité au pied de la tour."
           }
         },
         {
@@ -407,7 +433,8 @@
             "de": "Stiftskirche Saint-Quiriace",
             "hu": "Saint-Quiriace templom",
             "ro": "Biserica Saint-Quiriace",
-            "en": "Saint-Quiriace Church"
+            "en": "Saint-Quiriace Church",
+            "fr": "Église Saint-Quiriace"
           },
           "coords": [
             48.561,
@@ -422,7 +449,8 @@
             "de": "Ein ruhiger Ort für Besinnung.",
             "hu": "Csendes hely az elmélkedésre.",
             "ro": "Un loc liniștit pentru reflecție.",
-            "en": "A quiet place for reflection."
+            "en": "A quiet place for reflection.",
+            "fr": "Un lieu calme pour la réflexion."
           }
         },
         {
@@ -430,7 +458,8 @@
             "de": "Grange aux Dîmes",
             "hu": "Tized-csűr",
             "ro": "Grange aux Dîmes",
-            "en": "Tithe Barn"
+            "en": "Tithe Barn",
+            "fr": "Grange aux Dîmes"
           },
           "coords": [
             48.561,
@@ -445,7 +474,8 @@
             "de": "Interaktive Ausstellung.",
             "hu": "Interaktív kiállítás.",
             "ro": "Expoziție interactivă.",
-            "en": "Interactive exhibition."
+            "en": "Interactive exhibition.",
+            "fr": "Exposition interactive."
           }
         },
         {
@@ -453,7 +483,8 @@
             "de": "Musée de Provins",
             "hu": "Provins Múzeum",
             "ro": "Muzeul Provins",
-            "en": "Provins Museum"
+            "en": "Provins Museum",
+            "fr": "Musée de Provins"
           },
           "coords": [
             48.56,
@@ -468,7 +499,8 @@
             "de": "In einem der ältesten Häuser der Stadt.",
             "hu": "A város egyik legrégebbi házában.",
             "ro": "Într-una dintre cele mai vechi case din oraș.",
-            "en": "In one of the oldest houses in the city."
+            "en": "In one of the oldest houses in the city.",
+            "fr": "Dans l’une des plus vieilles maisons de la ville."
           }
         },
         {
@@ -476,7 +508,8 @@
             "de": "Rosengarten",
             "hu": "Rózsakert",
             "ro": "Grădina de trandafiri",
-            "en": "Rose Garden"
+            "en": "Rose Garden",
+            "fr": "Jardin des Roses"
           },
           "coords": [
             48.558,
@@ -491,7 +524,8 @@
             "de": "Belohnung nach der Tour.",
             "hu": "Jutalom a túra után.",
             "ro": "Răsplata după tur.",
-            "en": "Reward after the tour."
+            "en": "Reward after the tour.",
+            "fr": "Récompense après la visite."
           }
         }
       ],
@@ -499,7 +533,8 @@
         "de": "Mit dem Fahrrad lassen sich die Distanzen zwischen Ober- und Unterstadt spielend überbrücken. Genießen Sie die Fahrt entlang der massiven Gräben der Stadtmauer und erkunden Sie die historischen Highlights. Die Route führt Sie von den Höhen der Zitadelle hinunter in das grüne Tal zum Rosengarten.",
         "hu": "Kerékpárral könnyedén áthidalható a távolság a felső- és az alsóváros között. Élvezze a tekerést a hatalmas várárok mentén, és fedezze fel a történelmi látnivalókat. Az útvonal a citadella magaslataitól vezet le a zöldellő völgybe, a híres rózsakerthez.",
         "ro": "Cu bicicleta, distanțele dintre orașul de sus și cel de jos sunt ușor de parcurs. Bucurați-vă de drumul de-a lungul șanțurilor masive ale zidurilor și explorați punctele istorice. Traseul vă duce de pe culmile cetății până în valea verde, la grădina de trandafiri.",
-        "en": "By bike, the distances between the upper and lower towns are easily covered. Enjoy cycling along the massive moats of the ramparts and explore the historical highlights. The route takes you from the heights of the citadel down to the green valley and the rose garden."
+        "en": "By bike, the distances between the upper and lower towns are easily covered. Enjoy cycling along the massive moats of the ramparts and explore the historical highlights. The route takes you from the heights of the citadel down to the green valley and the rose garden.",
+        "fr": "À vélo, les distances entre la ville haute et la ville basse se couvrent facilement. Profitez de la balade le long des massives douves des remparts et explorez les points forts historiques. L’itinéraire vous conduit des hauteurs de la citadelle jusqu’à la vallée verdoyante et le jardin des roses."
       },
       "gastro_picks": {
         "de": [
@@ -599,6 +634,10 @@
         "en": [
           "The climb to the upper town requires some fitness.",
           "There are bike racks at Cesar Tower and the Rose Garden."
+        ],
+        "fr": [
+          "La montée vers la ville haute demande une certaine forme physique.",
+          "Des arceaux pour vélos se trouvent à la Tour César et au Jardin des Roses."
         ]
       }
     },
@@ -615,7 +654,8 @@
             "de": "Porte Saint-Jean (Parkplatz)",
             "hu": "Szent János-kapu (parkoló)",
             "ro": "Poarta Saint-Jean (parcare)",
-            "en": "Saint-Jean Gate (Parking)"
+            "en": "Saint-Jean Gate (Parking)",
+            "fr": "Porte Saint-Jean (Parking)"
           },
           "coords": [
             48.563,
@@ -631,7 +671,8 @@
             "de": "Großer Parkplatz direkt an der Mauer.",
             "hu": "Nagy parkoló közvetlenül a falnál.",
             "ro": "Parcare mare direct lângă zid.",
-            "en": "Large parking lot right by the wall."
+            "en": "Large parking lot right by the wall.",
+            "fr": "Grand parking juste au pied de la muraille."
           }
         },
         {
@@ -639,7 +680,8 @@
             "de": "Stadtmauer",
             "hu": "Várfal",
             "ro": "Zidurile",
-            "en": "Ramparts"
+            "en": "Ramparts",
+            "fr": "Remparts"
           },
           "coords": [
             48.564,
@@ -655,7 +697,8 @@
             "de": "Vom Parkplatz zu Fuß erreichbar.",
             "hu": "A parkolóból gyalog elérhető.",
             "ro": "Accesibil pe jos din parcare.",
-            "en": "Accessible on foot from the parking lot."
+            "en": "Accessible on foot from the parking lot.",
+            "fr": "Accessible à pied depuis le parking."
           }
         },
         {
@@ -663,7 +706,8 @@
             "de": "Tour César",
             "hu": "Cézár-torony",
             "ro": "Turnul lui Cezar",
-            "en": "Cesar Tower"
+            "en": "Cesar Tower",
+            "fr": "Tour César"
           },
           "coords": [
             48.562,
@@ -679,7 +723,8 @@
             "de": "Das Herz der Oberstadt.",
             "hu": "A felsőváros szíve.",
             "ro": "Inima orașului de sus.",
-            "en": "The heart of the upper town."
+            "en": "The heart of the upper town.",
+            "fr": "Le cœur de la ville haute."
           }
         },
         {
@@ -687,7 +732,8 @@
             "de": "Place du Châtel (Lunch)",
             "hu": "Place du Châtel (ebéd)",
             "ro": "Place du Châtel (prânz)",
-            "en": "Place du Châtel (Lunch)"
+            "en": "Place du Châtel (Lunch)",
+            "fr": "Place du Châtel (Déjeuner)"
           },
           "coords": [
             48.561,
@@ -703,7 +749,8 @@
             "de": "Zentraler Platz mit vielen Restaurants.",
             "hu": "Központi tér számos étteremmel.",
             "ro": "Piață centrală cu multe restaurante.",
-            "en": "Central square with many restaurants."
+            "en": "Central square with many restaurants.",
+            "fr": "Place centrale avec de nombreux restaurants."
           }
         },
         {
@@ -711,7 +758,8 @@
             "de": "Rosengarten",
             "hu": "Rózsakert",
             "ro": "Grădina de trandafiri",
-            "en": "Rose Garden"
+            "en": "Rose Garden",
+            "fr": "Jardin des Roses"
           },
           "coords": [
             48.558,
@@ -727,7 +775,8 @@
             "de": "Kurze Fahrt in die Unterstadt.",
             "hu": "Rövid autóút az alsóvárosba.",
             "ro": "Scurt drum cu mașina spre orașul de jos.",
-            "en": "Short drive to the lower town."
+            "en": "Short drive to the lower town.",
+            "fr": "Courte route vers la ville basse."
           }
         },
         {
@@ -735,7 +784,8 @@
             "de": "Musée de Provins",
             "hu": "Provins Múzeum",
             "ro": "Muzeul Provins",
-            "en": "Provins Museum"
+            "en": "Provins Museum",
+            "fr": "Musée de Provins"
           },
           "coords": [
             48.56,
@@ -751,7 +801,8 @@
             "de": "Tauchen Sie ein in die Lokalgeschichte.",
             "hu": "Merüljön el a helyi történelemben.",
             "ro": "Pătrundeți în istoria locală.",
-            "en": "Dive into local history."
+            "en": "Dive into local history.",
+            "fr": "Plongez dans l’histoire locale."
           }
         }
       ],
@@ -759,7 +810,8 @@
         "de": "Diese Route nutzt das Auto, um bequem zwischen den Hauptclustern der Ober- und Unterstadt zu wechseln. Wir parken an der Stadtmauer, erkunden das mittelalterliche Zentrum zu Fuß und fahren am Nachmittag in die Unterstadt zum idyllischen Rosengarten und dem Stadtmuseum.",
         "hu": "Ez az útvonal az autót használja a felső- és alsóvárosi klaszterek közötti kényelmes közlekedéshez. A várfalnál parkolunk, gyalog fedezzük fel a középkori központot, majd délután az alsóvárosba hajtunk az idilli rózsakerthez és a városi múzeumhoz.",
         "ro": "Acest traseu folosește mașina pentru a face legătura confortabil între principalele zone din orașul de sus și cel de jos. Parcăm la ziduri, explorăm centrul medieval pe jos, iar după-amiaza mergem în orașul de jos la grădina de trandafiri și la muzeu.",
-        "en": "This route uses the car to comfortably move between the main clusters of the upper and lower towns. We park at the ramparts, explore the medieval center on foot, and drive to the lower town in the afternoon for the idyllic rose garden and the city museum."
+        "en": "This route uses the car to comfortably move between the main clusters of the upper and lower towns. We park at the ramparts, explore the medieval center on foot, and drive to the lower town in the afternoon for the idyllic rose garden and the city museum.",
+        "fr": "Cet itinéraire utilise la voiture pour se déplacer confortablement entre les principaux pôles de la ville haute et de la ville basse. Nous nous garons près des remparts, explorons le centre médiéval à pied, puis conduisons vers la ville basse l’après‑midi pour le bucolique jardin des roses et le musée municipal."
       },
       "gastro_picks": {
         "de": [
@@ -859,6 +911,10 @@
         "en": [
           "In high season, the Saint-Jean parking lot fills up quickly.",
           "Drive carefully in the narrow streets of the lower town."
+        ],
+        "fr": [
+          "En haute saison, le parking de la Porte Saint-Jean se remplit rapidement.",
+          "Conduisez prudemment dans les rues étroites de la ville basse."
         ]
       }
     },
@@ -875,7 +931,8 @@
             "de": "Bahnhof Provins",
             "hu": "Provins vasútállomás",
             "ro": "Gara Provins",
-            "en": "Provins Train Station"
+            "en": "Provins Train Station",
+            "fr": "Gare de Provins"
           },
           "coords": [
             48.556,
@@ -890,7 +947,8 @@
             "de": "Ankunft mit der Transilien Linie P aus Paris.",
             "hu": "Érkezés a párizsi Transilien P vonallal.",
             "ro": "Sosirea cu linia P Transilien din Paris.",
-            "en": "Arrival with Transilien Line P from Paris."
+            "en": "Arrival with Transilien Line P from Paris.",
+            "fr": "Arrivée avec la ligne Transilien P depuis Paris."
           }
         },
         {
@@ -898,7 +956,8 @@
             "de": "Rosengarten",
             "hu": "Rózsakert",
             "ro": "Grădina de trandafiri",
-            "en": "Rose Garden"
+            "en": "Rose Garden",
+            "fr": "Jardin des Roses"
           },
           "coords": [
             48.558,
@@ -914,7 +973,8 @@
             "de": "Nur 10 Min. Fußweg vom Bahnhof.",
             "hu": "Csak 10 perc séta az állomástól.",
             "ro": "La doar 10 minute de mers pe jos de gară.",
-            "en": "Just a 10-minute walk from the station."
+            "en": "Just a 10-minute walk from the station.",
+            "fr": "À seulement 10 minutes à pied de la gare."
           }
         },
         {
@@ -922,7 +982,8 @@
             "de": "Tour César",
             "hu": "Cézár-torony",
             "ro": "Turnul lui Cezar",
-            "en": "Cesar Tower"
+            "en": "Cesar Tower",
+            "fr": "Tour César"
           },
           "coords": [
             48.562,
@@ -938,7 +999,8 @@
             "de": "Nutzen Sie den Pendelbus 'Probus' zur Oberstadt.",
             "hu": "Használja a 'Probus' ingajáratot a felsővárosba.",
             "ro": "Folosiți autobuzul 'Probus' către orașul de sus.",
-            "en": "Use the 'Probus' shuttle to the upper town."
+            "en": "Use the 'Probus' shuttle to the upper town.",
+            "fr": "Utilisez la navette « Probus » pour la ville haute."
           }
         },
         {
@@ -946,7 +1008,8 @@
             "de": "Stiftskirche Saint-Quiriace",
             "hu": "Saint-Quiriace templom",
             "ro": "Biserica Saint-Quiriace",
-            "en": "Saint-Quiriace Church"
+            "en": "Saint-Quiriace Church",
+            "fr": "Église Saint-Quiriace"
           },
           "coords": [
             48.561,
@@ -962,7 +1025,8 @@
             "de": "Gleich neben dem Turm.",
             "hu": "Közvetlenül a torony mellett.",
             "ro": "Chiar lângă turn.",
-            "en": "Right next to the tower."
+            "en": "Right next to the tower.",
+            "fr": "Juste à côté de la tour."
           }
         },
         {
@@ -970,7 +1034,8 @@
             "de": "Grange aux Dîmes",
             "hu": "Tized-csűr",
             "ro": "Grange aux Dîmes",
-            "en": "Tithe Barn"
+            "en": "Tithe Barn",
+            "fr": "Grange aux Dîmes"
           },
           "coords": [
             48.561,
@@ -986,7 +1051,8 @@
             "de": "Im historischen Zentrum.",
             "hu": "A történelmi központban.",
             "ro": "În centrul istoric.",
-            "en": "In the historical center."
+            "en": "In the historical center.",
+            "fr": "Dans le centre historique."
           }
         },
         {
@@ -994,7 +1060,8 @@
             "de": "Porte Saint-Jean",
             "hu": "Szent János-kapu",
             "ro": "Poarta Saint-Jean",
-            "en": "Saint-Jean Gate"
+            "en": "Saint-Jean Gate",
+            "fr": "Porte Saint-Jean"
           },
           "coords": [
             48.563,
@@ -1010,7 +1077,8 @@
             "de": "Der krönende Abschluss.",
             "hu": "A látogatás fénypontja.",
             "ro": "Finalul apoteotic.",
-            "en": "The crowning finale."
+            "en": "The crowning finale.",
+            "fr": "Le couronnement final."
           }
         }
       ],
@@ -1018,7 +1086,8 @@
         "de": "Ideal für Tagesausflügler aus Paris. Vom Bahnhof aus erkunden wir erst die Unterstadt und den Rosengarten, bevor uns der Probus-Shuttle bequem in die mittelalterliche Oberstadt bringt. So sparen wir uns den steilen Aufstieg und haben mehr Energie für die Besichtigungen.",
         "hu": "Ideális választás a Párizsból érkezőknek. Az állomástól először az alsóvárost és a rózsakertet fedezzük fel, majd a Probus ingajárattal kényelmesen feljutunk a középkori felsővárosba. Így elkerüljük a meredek kaptatót, és több energiánk marad a látnivalókra.",
         "ro": "Ideal pentru excursioniștii din Paris. De la gară explorăm mai întâi orașul de jos și grădina de trandafiri, înainte ca naveta Probus să ne ducă confortabil în orașul medieval de sus. Astfel evităm urcușul abrupt și avem mai multă energie pentru vizite.",
-        "en": "Ideal for day trippers from Paris. From the station, we first explore the lower town and the rose garden before the Probus shuttle takes us comfortably to the medieval upper town. This saves us the steep climb and leaves more energy for sightseeing."
+        "en": "Ideal for day trippers from Paris. From the station, we first explore the lower town and the rose garden before the Probus shuttle takes us comfortably to the medieval upper town. This saves us the steep climb and leaves more energy for sightseeing.",
+        "fr": "Idéal pour une excursion d’une journée depuis Paris. Depuis la gare, nous explorons d’abord la ville basse et le jardin des roses avant que la navette Probus ne nous emmène confortablement dans la ville haute médiévale. Cela évite la montée raide et conserve de l’énergie pour les visites."
       },
       "gastro_picks": {
         "de": [
@@ -1118,6 +1187,10 @@
         "en": [
           "Check the Probus schedule, frequency varies.",
           "The Navigo pass is valid for the train from Paris."
+        ],
+        "fr": [
+          "Vérifiez les horaires de la Probus, la fréquence varie.",
+          "Le pass Navigo est valable pour le train depuis Paris."
         ]
       }
     }

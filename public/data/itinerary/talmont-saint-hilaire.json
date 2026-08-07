@@ -21,7 +21,8 @@
             "de": "Église Saint-Hilaire",
             "hu": "Saint-Hilaire templom",
             "ro": "Biserica Saint-Hilaire",
-            "en": "Saint-Hilaire Church"
+            "en": "Saint-Hilaire Church",
+            "fr": "Église Saint‑Hilaire"
           },
           "coords": [
             -1.602912,
@@ -36,7 +37,8 @@
             "de": "Bewundern Sie die Buntglasfenster dieser historischen Kirche, aber kommen Sie vor 10 Uhr, um die ruhige Morgenatmosphäre zu genießen.",
             "hu": "Csodálja meg a történelmi templom ólomüveg ablakait, de érkezzen délelőtt 10 óra előtt, hogy kiélvezze a nyugodt reggeli hangulatot.",
             "ro": "Admirați vitraliile acestei biserici istorice, dar veniți înainte de ora 10 pentru a vă bucura de atmosfera liniștită a dimineții.",
-            "en": "Start your day admiring the stained glass windows of this historic church, but visit before 10 AM to enjoy the quiet morning atmosphere."
+            "en": "Start your day admiring the stained glass windows of this historic church, but visit before 10 AM to enjoy the quiet morning atmosphere.",
+            "fr": "Commencez la journée en admirant les vitraux de cette église historique, mais visitez avant 10:00 pour profiter de l’atmosphère calme du matin."
           }
         },
         {
@@ -44,7 +46,8 @@
             "de": "Havre du Payré",
             "hu": "Havre du Payré",
             "ro": "Havre du Payré",
-            "en": "Havre du Payré"
+            "en": "Havre du Payré",
+            "fr": "Havre du Payré"
           },
           "coords": [
             -1.62678,
@@ -59,7 +62,8 @@
             "de": "Erkunden Sie dieses außergewöhnliche Küstenästuar und bringen Sie gute Wanderschuhe mit, um die sandigen und bewaldeten Wege bequem zu bewältigen.",
             "hu": "Fedezze fel ezt a kivételes torkolatot, és hozzon magával jó túracipőt, hogy kényelmesen bejárhassa a homokos és erdős ösvényeket.",
             "ro": "Explorați acest estuar de coastă excepțional, aducând o pereche bună de pantofi de mers pentru a naviga confortabil pe traseele nisipoase.",
-            "en": "Explore this exceptional coastal estuary, bringing a good pair of walking shoes to comfortably navigate the sandy and forested trails."
+            "en": "Explore this exceptional coastal estuary, bringing a good pair of walking shoes to comfortably navigate the sandy and forested trails.",
+            "fr": "Explorez cet estuaire côtier exceptionnel en emportant une bonne paire de chaussures de marche pour naviguer confortablement sur les sentiers sablonneux et boisés."
           }
         },
         {
@@ -67,7 +71,8 @@
             "de": "Château de Talmont",
             "hu": "Talmont-kastély",
             "ro": "Castelul Talmont",
-            "en": "Talmont Castle"
+            "en": "Talmont Castle",
+            "fr": "Château de Talmont"
           },
           "coords": [
             -1.681663,
@@ -82,7 +87,8 @@
             "de": "Tauchen Sie ein in die mittelalterliche Geschichte dieser Festung von Richard Löwenherz und verpassen Sie nicht die sommerlichen Falknereishows.",
             "hu": "Merüljön el a középkori történelemben Oroszlánszívű Richárd egykori erődjében, és ne hagyja ki a nyári solymászbemutatókat sem.",
             "ro": "Cufundați-vă în istoria medievală la această fortăreață deținută odată de Richard Inimă de Leu și nu ratați spectacolele de șoimărit din vară.",
-            "en": "Immerse yourself in medieval history at this fortress once owned by Richard the Lionheart, and don't miss the falconry shows held in summer."
+            "en": "Immerse yourself in medieval history at this fortress once owned by Richard the Lionheart, and don't miss the falconry shows held in summer.",
+            "fr": "Imprégnez‑vous de l’histoire médiévale dans cette forteresse autrefois possédée par Richard Cœur de Lion, et ne manquez pas les spectacles de fauconnerie en été."
           }
         },
         {
@@ -90,7 +96,8 @@
             "de": "FKK-Strand",
             "hu": "Naturista strand",
             "ro": "Plajă naturistă",
-            "en": "Naturist Beach"
+            "en": "Naturist Beach",
+            "fr": "Plage naturiste"
           },
           "coords": [
             -1.652209,
@@ -105,7 +112,8 @@
             "de": "Entspannen Sie an diesem wunderschönen, abgelegenen Sandstrand in unberührter Natur, aber respektieren Sie die hier geltende Freikörperkultur.",
             "hu": "Pihenjen ezen a gyönyörű, eldugott homokos partszakaszon az érintetlen természetben, de ne felejtse el tiszteletben tartani a naturista etikettet.",
             "ro": "Relaxați-vă pe această întindere frumoasă și retrasă de nisip care oferă o natură imaculată, dar nu uitați să respectați eticheta naturistă.",
-            "en": "Relax at this beautiful, secluded stretch of sand which offers pristine nature, but remember to respect the clothing-optional etiquette here."
+            "en": "Relax at this beautiful, secluded stretch of sand which offers pristine nature, but remember to respect the clothing-optional etiquette here.",
+            "fr": "Détendez‑vous sur cet étendu de sable isolé et magnifique qui offre une nature préservée, en respectant l’étiquette du « texte » optionnel (nudité) sur place."
           }
         },
         {
@@ -113,7 +121,8 @@
             "de": "Plage de la Mine",
             "hu": "Plage de la Mine",
             "ro": "Plage de la Mine",
-            "en": "Plage de la Mine"
+            "en": "Plage de la Mine",
+            "fr": "Plage de la Mine"
           },
           "coords": [
             -1.625682,
@@ -128,7 +137,8 @@
             "de": "Beenden Sie Ihre Wanderung an diesem von Klippen umgebenen Felsstrand, der sich perfekt für ein abendliches Bad eignet, aber achten Sie auf scharfe Felsen.",
             "hu": "Fejezze be a túrát ezen a sziklákkal körülvett, gyönyörű tengerparton, amely tökéletes egy esti úszáshoz, bár apálykor vigyázzon az éles sziklákra.",
             "ro": "Încheiați-vă drumeția la această plajă stâncoasă superbă, perfectă pentru o baie de seară, deși aveți grijă la stâncile ascuțite la reflux.",
-            "en": "End your hike at this gorgeous rocky beach surrounded by cliffs, perfect for an evening swim, though watch out for the sharp rocks at low tide."
+            "en": "End your hike at this gorgeous rocky beach surrounded by cliffs, perfect for an evening swim, though watch out for the sharp rocks at low tide.",
+            "fr": "Terminez votre randonnée à cette superbe plage rocheuse entourée de falaises, parfaite pour une baignade en soirée, mais faites attention aux rochers coupants à marée basse."
           }
         }
       ],
@@ -136,7 +146,8 @@
         "de": "Erleben Sie einen aktiven Morgen in Talmont-Saint-Hilaire, beginnend mit der beeindruckenden Architektur der Église Saint-Hilaire. Danach führt Sie der Weg in die Natur zum malerischen Havre du Payré, wo Sie die frische Küstenbrise und eine einzigartige Landschaft voll auskosten können. Am Mittag tauchen Sie im Château de Talmont tief in die spannende mittelalterliche Geschichte der Region ein. Der Nachmittag bietet pure Entspannung am ruhigen FKK-Strand, bevor der Tag an der zerklüfteten, wunderschönen Küste der Plage de la Mine bei einem unvergesslichen abendlichen Sonnenuntergang langsam ausklingt.",
         "hu": "Kezdje a napot Talmont-Saint-Hilaire szívében, a történelmi Saint-Hilaire templom felfedezésével. Ezután egy frissítő sétával érje el a festői Havre du Payré torkolatot, amelynek természeti szépsége mindenkit lenyűgöz. Délben a lenyűgöző Talmont-kastély várja, ahol Oroszlánszívű Richárd korába utazhat vissza. A délutánt a békés naturista partján töltheti, élvezve a napfényt és az óceánt, majd az estét a sziklás Plage de la Mine gyönyörű környezetében zárhatja le, miközben a lemenő nap sugarai megvilágítják a partot.",
         "ro": "Începeți ziua în Talmont-Saint-Hilaire explorând arhitectura uimitoare a Bisericii Saint-Hilaire, plină de istorie. Apoi, faceți o plimbare revigorantă spre Havre du Payré, unde frumusețea naturală a estuarului vă va tăia respirația. La prânz, vizitați Castelul Talmont pentru a descoperi legendele medievale și influența lui Richard Inimă de Leu. După-amiaza vă aduce relaxare pe nisipurile liniștite de la plaja naturistă, iar seara se încheie perfect la Plage de la Mine, unde stâncile spectaculoase și briza oceanului creează o atmosferă magică la apus.",
-        "en": "Kick off your morning in Talmont-Saint-Hilaire by exploring the historic architecture of the Saint-Hilaire Church. Next, take a refreshing walk to the stunning coastal estuary of Havre du Payré, breathing in the salty ocean air. By midday, step back into medieval times at the formidable Talmont Castle, a fortress rich in legend. Spend a relaxing afternoon unwinding on the secluded sands of the naturist beach, before concluding your day trip at the dramatic Plage de la Mine, where rocky cliffs provide the perfect backdrop for an unforgettable seaside sunset."
+        "en": "Kick off your morning in Talmont-Saint-Hilaire by exploring the historic architecture of the Saint-Hilaire Church. Next, take a refreshing walk to the stunning coastal estuary of Havre du Payré, breathing in the salty ocean air. By midday, step back into medieval times at the formidable Talmont Castle, a fortress rich in legend. Spend a relaxing afternoon unwinding on the secluded sands of the naturist beach, before concluding your day trip at the dramatic Plage de la Mine, where rocky cliffs provide the perfect backdrop for an unforgettable seaside sunset.",
+        "fr": "Commencez la matinée à Talmont‑sur‑Mer en explorant l’architecture historique de l’église Saint‑Hilaire. Ensuite, faites une promenade revigorante jusqu’au magnifique estuaire côtier du Havre du Payré pour respirer l’air salin. À midi, replongez dans le Moyen Âge au imposant Château de Talmont, forteresse riche en légendes. Passez l’après‑midi à vous détendre sur les sables isolés de la plage naturiste, puis concluez votre excursion à la dramatique Plage de la Mine, où les falaises rocheuses offrent un cadre parfait pour un coucher de soleil inoubliable au bord de la mer."
       },
       "variants": {
         "rainy": {
@@ -144,7 +155,8 @@
             "de": "Der Tag beginnt geschützt in der Église Saint-Hilaire, während der Regen gegen die alten Mauern peitscht. Mittags führt der Weg zum Havre du Payré, wo sich das graue Wasser unter tief hängenden Wolken dramatisch zeigt. Nachmittags erkunden wir das Château de Talmont, dessen steinerne Gewölbe willkommenen Schutz bieten. Der Tag endet am windgepeitschten Strand von La Mine bei Meeresrauschen.",
             "hu": "A napot a Saint-Hilaire templom biztonságos falai között kezdjük, amíg kint dobol az eső. Délben a Havre du Payré torkolata misztikus ködbe burkolózik a szitáló csapadékban. Délután a Talmont-kastély romjai között keresünk menedéket, felfedezve a középkori boltíveket. Az estét a Plage de la Mine parton zárjuk, ahol a viharos óceán látványa kárpótol minket a nedves időjárásért a sós szélben.",
             "ro": "Ziua începe la adăpost în Biserica Saint-Hilaire, în timp ce ploaia bate în zidurile vechi. La prânz, drumul duce spre Havre du Payré, unde estuarul capătă o atmosferă mistică sub cerul plumburiu. După-amiaza, explorăm Castelul Talmont, ale cărui bolți de piatră oferă un refugiu binevenit. Ziua se încheie pe plaja La Mine, unde spectacolul mării agitate este impresionant sub ploaia persistentă.",
-            "en": "The day starts sheltered within Saint-Hilaire Church as rain drums against the ancient stone. By noon, the Havre du Payré estuary appears mystical through the mist and drizzle. In the afternoon, the ruins of Talmont Castle provide some stony cover while exploring the medieval architecture. We finish the day at Plage de la Mine, where the crashing waves and grey skies create a powerful, atmospheric scene."
+            "en": "The day starts sheltered within Saint-Hilaire Church as rain drums against the ancient stone. By noon, the Havre du Payré estuary appears mystical through the mist and drizzle. In the afternoon, the ruins of Talmont Castle provide some stony cover while exploring the medieval architecture. We finish the day at Plage de la Mine, where the crashing waves and grey skies create a powerful, atmospheric scene.",
+            "fr": "La journée commence à l’abri dans l’église Saint‑Hilaire tandis que la pluie tambourine sur la pierre ancienne. À midi, l’estuaire du Havre du Payré apparaît mystique à travers la brume et la bruine. L’après‑midi, les ruines du Château de Talmont offrent un abri pierreux en explorant l’architecture médiévale. Nous terminons la journée à la Plage de la Mine, où les vagues déferlantes et le ciel gris créent une scène puissante et atmosphérique."
           },
           "stops": [
             {
@@ -152,13 +164,15 @@
                 "de": "Église Saint-Hilaire",
                 "hu": "Saint-Hilaire templom",
                 "ro": "Biserica Saint-Hilaire",
-                "en": "Saint-Hilaire Church"
+                "en": "Saint-Hilaire Church",
+                "fr": "Église Saint‑Hilaire"
               },
               "tip_5lang": {
                 "de": "Nutzen Sie die Zeit im trockenen Kirchenschiff, um die romanischen Details zu bewundern; die dicken Mauern dämpfen das Geräusch des Regens wunderbar ab.",
                 "hu": "Használja ki az időt a templom száraz belső terében a román kori részletek megcsodálására; a vastag falak tökéletesen kizárják a kinti zápor zaját.",
                 "ro": "Profită de timpul petrecut în interiorul uscat al bisericii pentru a admira detaliile romanice; zidurile groase izolează perfect sunetul ploii de afară.",
-                "en": "Take your time inside the dry nave to admire the Romanesque details; the thick stone walls provide a peaceful refuge from the sound of the pouring rain."
+                "en": "Take your time inside the dry nave to admire the Romanesque details; the thick stone walls provide a peaceful refuge from the sound of the pouring rain.",
+                "fr": "Prenez votre temps dans la nef sèche pour admirer les détails romans ; les épaisses murailles de pierre offrent un refuge paisible contre le bruit de la pluie battante."
               }
             },
             {
@@ -166,13 +180,15 @@
                 "de": "Havre du Payré",
                 "hu": "Havre du Payré",
                 "ro": "Havre du Payré",
-                "en": "Havre du Payré"
+                "en": "Havre du Payré",
+                "fr": "Havre du Payré"
               },
               "tip_5lang": {
                 "de": "Tragen Sie wasserfeste Wanderschuhe, da die Pfade am Ästuar bei Regen schlammig und rutschig sein können, während der Nebel über dem Wasser aufsteigt.",
                 "hu": "Viseljen vízálló bakancsot, mert az estuárium menti ösvények sárossá és csúszóssá válhatnak az esőben, miközben a köd látványosan gomolyog a víz felett.",
                 "ro": "Poartă ghete impermeabile, deoarece potecile de-a lungul estuarului pot deveni noroioase și alunecoase sub ploaie, în timp ce ceața se ridică peste apă.",
-                "en": "Wear waterproof hiking boots as the paths along the estuary can become muddy and slippery in the rain, though the rising mist offers great photo opportunities."
+                "en": "Wear waterproof hiking boots as the paths along the estuary can become muddy and slippery in the rain, though the rising mist offers great photo opportunities.",
+                "fr": "Portez des chaussures de randonnée imperméables car les chemins le long de l’estuaire peuvent devenir boueux et glissants sous la pluie, bien que la brume montante offre de belles opportunités photo."
               }
             },
             {
@@ -180,13 +196,15 @@
                 "de": "Château de Talmont",
                 "hu": "Talmont-kastély",
                 "ro": "Castelul Talmont",
-                "en": "Talmont Castle"
+                "en": "Talmont Castle",
+                "fr": "Château de Talmont"
               },
               "tip_5lang": {
                 "de": "Erkunden Sie die überdachten Säle und tiefen Keller des Schlosses, um trocken zu bleiben, und genießen Sie den Blick auf die nassen Ruinen von den Arkaden.",
                 "hu": "Fedezze fel a kastély fedett termeit és mély pincéit, hogy szárazon maradjon, és élvezze a vizes romok látványát az árkádok biztonságos védelméből.",
                 "ro": "Explorează sălile acoperite și pivnițele adânci ale castelului pentru a rămâne uscat și admiră ruinele umede de sub protecția arcadelor medievale.",
-                "en": "Explore the castle's covered halls and deep cellars to stay dry, and enjoy the view of the glistening wet ruins from the safety of the medieval stone arches."
+                "en": "Explore the castle's covered halls and deep cellars to stay dry, and enjoy the view of the glistening wet ruins from the safety of the medieval stone arches.",
+                "fr": "Explorez les salles couvertes et les profondes caves du château pour rester au sec, et profitez de la vue des ruines mouillées depuis la sécurité des arcs de pierre médiévaux."
               }
             },
             {
@@ -194,13 +212,15 @@
                 "de": "FKK-Strand",
                 "hu": "Naturista strand",
                 "ro": "Plajă naturistă",
-                "en": "Naturist Beach"
+                "en": "Naturist Beach",
+                "fr": "Plage naturiste"
               },
               "tip_5lang": {
                 "de": "Ein kurzer, erfrischender Spaziergang in Regenkleidung lohnt sich für die Einsamkeit; der feuchte Sand ist fester zum Gehen als bei trockenem Wetter.",
                 "hu": "Egy rövid, frissítő séta esőkabátban megéri a magányért; a nedves homok ilyenkor keményebb és könnyebben járható, mint száraz időben a dűnék között.",
                 "ro": "O scurtă plimbare revigorantă în pelerină de ploaie merită pentru liniștea deplină; nisipul umed este mai compact și mai ușor de parcurs decât cel uscat.",
-                "en": "A short, refreshing walk in a raincoat is worth it for the solitude; the wet sand is firmer and easier to walk on than during dry, hot weather."
+                "en": "A short, refreshing walk in a raincoat is worth it for the solitude; the wet sand is firmer and easier to walk on than during dry, hot weather.",
+                "fr": "Une courte promenade revigorante en imperméable en vaut la peine pour la solitude ; le sable humide est plus ferme et plus facile à marcher que par temps sec et chaud."
               }
             },
             {
@@ -208,13 +228,15 @@
                 "de": "Plage de la Mine",
                 "hu": "Plage de la Mine",
                 "ro": "Plage de la Mine",
-                "en": "Plage de la Mine"
+                "en": "Plage de la Mine",
+                "fr": "Plage de la Mine"
               },
               "tip_5lang": {
                 "de": "Suchen Sie Schutz unter den Felsvorsprüngen, um die tobende Gischt zu beobachten; bringen Sie ein Fernglas mit, um die Vögel im Sturm zu sehen.",
                 "hu": "Keressen menedéket a sziklakiszögellések alatt, hogy megfigyelhesse a feltörő tajtékot; vigyen távcsövet a viharban vadászó madarak megfigyeléséhez.",
                 "ro": "Caută adăpost sub proeminențele stâncoase pentru a observa valurile înspumate; adu un binoclu pentru a vedea păsările marine care sfidează furtuna.",
-                "en": "Seek shelter under the rocky overhangs to watch the surging white spray; bring binoculars to spot sea birds navigating through the coastal storm."
+                "en": "Seek shelter under the rocky overhangs to watch the surging white spray; bring binoculars to spot sea birds navigating through the coastal storm.",
+                "fr": "Cherchez un abri sous les surplombs rocheux pour observer la gigantesque écume blanche ; prenez des jumelles pour repérer les oiseaux marins naviguant dans la tempête côtière."
               }
             }
           ]
@@ -224,7 +246,8 @@
             "de": "An einem klaren Wintermorgen leuchten die Steine der Église Saint-Hilaire golden in der tiefstehenden Sonne. Mittags weht eine steife Brise am Havre du Payré, die den Marschfrost langsam schmelzen lässt. Das Château de Talmont wirkt in der kargen Winterlandschaft besonders majestätisch. Bevor die Sonne gegen 17:00 Uhr untergeht, genießen wir die friedliche Stille an den verlassenen Stränden.",
             "hu": "Egy tiszta téli reggelen a Saint-Hilaire templom kövei aranylón ragyognak az alacsonyan járó napfényben. Délben metsző szél fúj a Havre du Payré felett, lassan olvasztva a mocsár jegét. A Talmont-kastély különösen fenséges a kopár téli tájban. Mielőtt a nap 17:00 körül lenyugszik, élvezzük az elhagyatott partok békés csendjét és a horizonton játszó hideg pasztellszíneket.",
             "ro": "Într-o dimineață senină de iarnă, pietrele Bisericii Saint-Hilaire strălucesc auriu sub soarele palid. La prânz, o briză tăioasă suflă peste Havre du Payré, topind încet chiciura de pe mlaștini. Castelul Talmont pare deosebit de maiestuos în peisajul auster de iarnă. Înainte ca soarele să apună în jurul orei 17:00, ne bucurăm de liniștea deplină a plajelor pustii.",
-            "en": "On a crisp winter morning, the stones of Saint-Hilaire Church glow golden in the low sun. By noon, a brisk breeze blows over Havre du Payré, slowly melting the frost on the salt marshes. Talmont Castle looks especially majestic against the sparse winter backdrop. Before the sun sets around 17:00, we enjoy the peaceful silence and pastel colors of the deserted beaches."
+            "en": "On a crisp winter morning, the stones of Saint-Hilaire Church glow golden in the low sun. By noon, a brisk breeze blows over Havre du Payré, slowly melting the frost on the salt marshes. Talmont Castle looks especially majestic against the sparse winter backdrop. Before the sun sets around 17:00, we enjoy the peaceful silence and pastel colors of the deserted beaches.",
+            "fr": "Par un matin d'hiver vif, les pierres de l'église Saint-Hilaire prennent une lueur dorée sous le faible soleil. À midi, une brise vive souffle sur le Havre du Payré, faisant fondre lentement le givre des marais salants. Le château de Talmont paraît particulièrement majestueux sur le fond hivernal dépouillé. Avant le coucher du soleil vers 17:00, nous profitons du silence paisible et des couleurs pastel des plages désertes."
           },
           "stops": [
             {
@@ -232,13 +255,15 @@
                 "de": "Église Saint-Hilaire",
                 "hu": "Saint-Hilaire templom",
                 "ro": "Biserica Saint-Hilaire",
-                "en": "Saint-Hilaire Church"
+                "en": "Saint-Hilaire Church",
+                "fr": "Église Saint-Hilaire"
               },
               "tip_5lang": {
                 "de": "Die Kirche bietet eine friedliche Atmosphäre; ziehen Sie sich warm an, da die Steinmauern im Winter die Kälte speichern und es im Inneren sehr kühl ist.",
                 "hu": "A templom békés hangulatot áraszt; öltözzön rétegesen, mert a kőfalak télen tartják a hideget, és a belső térben is meglehetősen hűvös lehet az idő.",
                 "ro": "Biserica oferă o atmosferă liniștită; îmbracă-te bine, deoarece zidurile de piatră rețin frigul iarna, iar interiorul poate fi destul de răcoros.",
-                "en": "The church offers a peaceful atmosphere; dress warmly as the thick stone walls hold the winter chill, making the interior quite cold during the season."
+                "en": "The church offers a peaceful atmosphere; dress warmly as the thick stone walls hold the winter chill, making the interior quite cold during the season.",
+                "fr": "L'église offre une atmosphère paisible ; habillez-vous chaudement car les murs épais en pierre conservent la fraîcheur hivernale, rendant l'intérieur assez froid pendant la saison."
               }
             },
             {
@@ -246,13 +271,15 @@
                 "de": "Havre du Payré",
                 "hu": "Havre du Payré",
                 "ro": "Havre du Payré",
-                "en": "Havre du Payré"
+                "en": "Havre du Payré",
+                "fr": "Havre du Payré"
               },
               "tip_5lang": {
                 "de": "Genießen Sie die klare Winterluft und das besondere Licht über den Salzwiesen; eine warme Mütze schützt vor dem kalten Seewind am Ästuar.",
                 "hu": "Élvezze a tiszta téli levegőt és a különleges fényeket a sós mocsarak felett; egy meleg sapka elengedhetetlen a torkolat felől fújó metsző tengeri szélben.",
                 "ro": "Bucură-te de aerul curat de iarnă și de lumina specială peste mlaștinile sărate; o căciulă groasă te va proteja de vântul tăios de pe estuar.",
-                "en": "Enjoy the crisp winter air and the unique light over the salt marshes; a warm hat is essential against the cold sea breeze blowing through the estuary."
+                "en": "Enjoy the crisp winter air and the unique light over the salt marshes; a warm hat is essential against the cold sea breeze blowing through the estuary.",
+                "fr": "Appréciez l'air vif de l'hiver et la lumière unique sur les marais salants ; un bonnet chaud est indispensable contre la brise marine glaciale qui traverse l'estuaire."
               }
             },
             {
@@ -260,13 +287,15 @@
                 "de": "Château de Talmont",
                 "hu": "Talmont-kastély",
                 "ro": "Castelul Talmont",
-                "en": "Talmont Castle"
+                "en": "Talmont Castle",
+                "fr": "Château de Talmont"
               },
               "tip_5lang": {
                 "de": "Der Blick vom Turm ist im Winter besonders weit, da die Luft klarer ist; achten Sie auf glatte Stellen auf den exponierten Steintreppen der Anlage.",
                 "hu": "A toronyból nyíló kilátás télen különösen messzire nyúlik a tiszta levegő miatt; ügyeljen a jeges foltokra a várudvar kitett kőlépcsőin és ösvényein.",
                 "ro": "Priveliștea din turn este extrem de clară iarna datorită aerului curat; atenție la porțiunile alunecoase de pe scările de piatră expuse ale castelului.",
-                "en": "The view from the tower is exceptionally clear in winter due to the crisp air; watch out for icy patches on the castle's exposed stone steps and paths."
+                "en": "The view from the tower is exceptionally clear in winter due to the crisp air; watch out for icy patches on the castle's exposed stone steps and paths.",
+                "fr": "La vue depuis la tour est exceptionnellement claire en hiver grâce à l'air sec ; attention aux plaques de verglas sur les marches et les chemins de pierre exposés du château."
               }
             },
             {
@@ -274,13 +303,15 @@
                 "de": "FKK-Strand",
                 "hu": "Naturista strand",
                 "ro": "Plajă naturistă",
-                "en": "Naturist Beach"
+                "en": "Naturist Beach",
+                "fr": "Plage naturiste"
               },
               "tip_5lang": {
                 "de": "Erleben Sie die raue Schönheit der Küste fast ohne Menschen; die tiefstehende Wintersonne wirft lange, dramatische Schatten über die Dünenlandschaft.",
                 "hu": "Tapasztalja meg a tengerpart nyers szépségét tömegek nélkül; az alacsonyan járó téli nap hosszú, drámai árnyékokat vet a dűnék hullámzó vidékére.",
                 "ro": "Experimentează frumusețea brută a coastei fără mulțimi; soarele palid de iarnă aruncă umbre lungi și dramatice peste peisajul dunelor de nisip.",
-                "en": "Experience the raw beauty of the coastline without the crowds; the low winter sun casts long, dramatic shadows across the undulating dune landscape."
+                "en": "Experience the raw beauty of the coastline without the crowds; the low winter sun casts long, dramatic shadows across the undulating dune landscape.",
+                "fr": "Vivez la beauté brute du littoral sans la foule ; le soleil bas d'hiver projette de longues ombres dramatiques sur le paysage ondulé des dunes."
               }
             },
             {
@@ -288,13 +319,15 @@
                 "de": "Plage de la Mine",
                 "hu": "Plage de la Mine",
                 "ro": "Plage de la Mine",
-                "en": "Plage de la Mine"
+                "en": "Plage de la Mine",
+                "fr": "Plage de la Mine"
               },
               "tip_5lang": {
                 "de": "Kommen Sie früh am Nachmittag, um das goldene Licht vor dem Sonnenuntergang um 17:00 Uhr zu nutzen; die Winterfarben am Horizont sind unvergesslich.",
                 "hu": "Érkezzen kora délután, hogy kihasználja az aranyló fényeket a 17:00 körüli naplemente előtt; a téli horizont színei felejthetetlen élményt nyújtanak.",
                 "ro": "Vino devreme după-amiaza pentru a profita de lumina aurie înainte de apusul de la ora 17:00; culorile iernii la orizont sunt cu adevărat memorabile.",
-                "en": "Arrive early in the afternoon to catch the golden light before the 17:00 sunset; the winter hues on the horizon are unforgettable and great for photos."
+                "en": "Arrive early in the afternoon to catch the golden light before the 17:00 sunset; the winter hues on the horizon are unforgettable and great for photos.",
+                "fr": "Arrivez tôt dans l'après‑midi pour saisir la lumière dorée avant le coucher du soleil à 17:00 ; les tonalités hivernales à l'horizon sont inoubliables et parfaites pour les photos."
               }
             }
           ]
@@ -314,7 +347,8 @@
             "de": "Automobilmuseum der Vendée",
             "hu": "Vendée Autómúzeum",
             "ro": "Muzeul Automobilului din Vendée",
-            "en": "Vendée Automobile Museum"
+            "en": "Vendée Automobile Museum",
+            "fr": "Musée Automobile de Vendée"
           },
           "coords": [
             -1.667531,
@@ -329,7 +363,8 @@
             "de": "Entdecken Sie eine bemerkenswerte Sammlung von über 150 Oldtimern und kommen Sie früh, um in Ruhe Fotos Ihrer Lieblingsklassiker zu machen.",
             "hu": "Fedezze fel a több mint 150 veterán autóból álló figyelemre méltó gyűjteményt, és érkezzen korán, hogy elkerülje a tömeget fotózás közben.",
             "ro": "Descoperiți o colecție remarcabilă de peste 150 de mașini de epocă și ajungeți devreme pentru a evita aglomerația în timp ce faceți fotografii.",
-            "en": "Discover a remarkable collection of over 150 vintage cars, and arrive early to beat the crowds while snapping photos of your favorite classics."
+            "en": "Discover a remarkable collection of over 150 vintage cars, and arrive early to beat the crowds while snapping photos of your favorite classics.",
+            "fr": "Découvrez une collection remarquable de plus de 150 voitures anciennes, et arrivez tôt pour éviter la foule tout en photographiant vos modèles préférés."
           }
         },
         {
@@ -337,7 +372,8 @@
             "de": "Château de Talmont",
             "hu": "Talmont-kastély",
             "ro": "Castelul Talmont",
-            "en": "Talmont Castle"
+            "en": "Talmont Castle",
+            "fr": "Château de Talmont"
           },
           "coords": [
             -1.681663,
@@ -352,7 +388,8 @@
             "de": "Tauchen Sie ein in die mittelalterliche Geschichte dieser Festung von Richard Löwenherz und verpassen Sie nicht die sommerlichen Falknereishows.",
             "hu": "Merüljön el a középkori történelemben Oroszlánszívű Richárd egykori erődjében, és ne hagyja ki a nyári solymászbemutatókat sem.",
             "ro": "Cufundați-vă în istoria medievală la această fortăreață deținută odată de Richard Inimă de Leu și nu ratați spectacolele de șoimărit din vară.",
-            "en": "Immerse yourself in medieval history at this fortress once owned by Richard the Lionheart, and don't miss the falconry shows held in summer."
+            "en": "Immerse yourself in medieval history at this fortress once owned by Richard the Lionheart, and don't miss the falconry shows held in summer.",
+            "fr": "Plongez dans l'histoire médiévale de cette forteresse autrefois détenue par Richard Cœur de Lion, et ne manquez pas les démonstrations de fauconnerie en été."
           }
         },
         {
@@ -360,7 +397,8 @@
             "de": "FKK-Strand",
             "hu": "Naturista strand",
             "ro": "Plajă naturistă",
-            "en": "Naturist Beach"
+            "en": "Naturist Beach",
+            "fr": "Plage naturiste"
           },
           "coords": [
             -1.652209,
@@ -375,7 +413,8 @@
             "de": "Entspannen Sie an diesem wunderschönen, abgelegenen Sandstrand in unberührter Natur, aber respektieren Sie die hier geltende Freikörperkultur.",
             "hu": "Pihenjen ezen a gyönyörű, eldugott homokos partszakaszon az érintetlen természetben, de ne felejtse el tiszteletben tartani a naturista etikettet.",
             "ro": "Relaxați-vă pe această întindere frumoasă și retrasă de nisip care oferă o natură imaculată, dar nu uitați să respectați eticheta naturistă.",
-            "en": "Relax at this beautiful, secluded stretch of sand which offers pristine nature, but remember to respect the clothing-optional etiquette here."
+            "en": "Relax at this beautiful, secluded stretch of sand which offers pristine nature, but remember to respect the clothing-optional etiquette here.",
+            "fr": "Détendez‑vous sur cet agréable tronçon de sable isolé offrant une nature préservée, mais souvenez‑vous de respecter l'étiquette du lieu facultatif."
           }
         },
         {
@@ -383,7 +422,8 @@
             "de": "Plage du Four à Chaux",
             "hu": "Plage du Four à Chaux",
             "ro": "Plage du Four à Chaux",
-            "en": "Plage du Four à Chaux"
+            "en": "Plage du Four à Chaux",
+            "fr": "Plage du Four à Chaux"
           },
           "coords": [
             -1.618849,
@@ -398,7 +438,8 @@
             "de": "Genießen Sie den malerischen Meerblick von dieser charmanten, ruhigen Bucht und packen Sie ein leichtes Picknick ein, das Sie beim Rauschen der Wellen essen.",
             "hu": "Élvezze a festői óceáni kilátást ebből a bájos, kevésbé zsúfolt öbölből, és hozzon egy könnyű pikniket, amit a hullámok hallgatása közben elfogyaszthat.",
             "ro": "Bucurați-vă de vederea pitorească la ocean din acest golf fermecător, pregătind un picnic ușor de mâncat în timp ce ascultați valurile liniștitoare.",
-            "en": "Enjoy the scenic ocean views from this charming, less-crowded cove, packing a light picnic to eat while listening to the soothing waves."
+            "en": "Enjoy the scenic ocean views from this charming, less-crowded cove, packing a light picnic to eat while listening to the soothing waves.",
+            "fr": "Profitez des vues scéniques sur l'océan depuis cette crique charmante et moins fréquentée, emportez un pique‑nique léger à déguster en écoutant les vagues apaisantes."
           }
         },
         {
@@ -406,7 +447,8 @@
             "de": "Abbaye du Lieu-Dieu",
             "hu": "Lieu-Dieu Apátság",
             "ro": "Abația Lieu-Dieu",
-            "en": "Lieu-Dieu Abbey"
+            "en": "Lieu-Dieu Abbey",
+            "fr": "Abbaye du Lieu-Dieu"
           },
           "coords": [
             -1.602537,
@@ -421,7 +463,8 @@
             "de": "Besuchen Sie die friedlichen Ruinen dieser von Richard Löwenherz gegründeten Abtei und tragen Sie am späten Nachmittag besser Mückenspray auf.",
             "hu": "Látogassa meg az Oroszlánszívű Richárd által alapított apátság békés romjait, és ügyeljen a szúnyogriasztó használatára a késő délutáni órákban.",
             "ro": "Vizitați ruinele pașnice ale acestei abații fondate de Richard Inimă de Leu, asigurându-vă că folosiți repelent de țânțari după-amiaza.",
-            "en": "Visit the peaceful ruins of this historic abbey founded by Richard the Lionheart, ensuring you wear mosquito repellent if visiting in late afternoon."
+            "en": "Visit the peaceful ruins of this historic abbey founded by Richard the Lionheart, ensuring you wear mosquito repellent if visiting in late afternoon.",
+            "fr": "Visitez les ruines paisibles de cette abbaye historique fondée par Richard Cœur de Lion, en prévoyant du répulsif anti‑moustiques si vous venez en fin d'après‑midi."
           }
         }
       ],
@@ -429,7 +472,8 @@
         "de": "Starten Sie Ihre Fahrradtour mit einer Reise durch die Geschichte im faszinierenden Automobilmuseum der Vendée, ideal für alle Oldtimer-Fans. Danach radeln Sie gemütlich zum historischen Château de Talmont, wo die mittelalterliche Architektur begeistert. Die Mittagspause verbringen Sie in unberührter Natur am ruhigen FKK-Strand. Am Nachmittag genießen Sie die salzige Meeresluft und malerischen Klippen am Plage du Four à Chaux, bevor Sie den Abend in den stillen, stimmungsvollen Ruinen der Abbaye du Lieu-Dieu ausklingen lassen.",
         "hu": "Indítsa kerékpártúráját a Vendée Autómúzeumban, ahol lenyűgöző veterán autókat csodálhat meg, mielőtt a történelmi Talmont-kastély felé veszi az irányt. A délidőt egy pihentető megállóval töltheti a békés naturista partján, ahol a tengerparti táj frissítő élményt nyújt. Délután tekerjen el a festői Plage du Four à Chaux sziklás öblébe, amely tökéletes egy tengerparti sétához. Végül fejezze be a napot a Lieu-Dieu Apátság varázslatos romjainál, amelyek történelmi nyugalmat sugároznak a lemenő nap fényében.",
         "ro": "Începeți turul cu bicicleta la Muzeul Automobilului din Vendée, explorând o colecție fascinantă de vehicule clasice, apoi pedalați spre impunătorul Castel Talmont. La prânz, relaxați-vă în liniște pe nisipurile plajei naturiste, ascultând sunetul valurilor oceanului. După-amiaza vă poartă către frumoasa Plage du Four à Chaux, unde peisajele stâncoase vă vor încânta. Încheiați-vă ziua de explorare printre ruinele pașnice ale Abației Lieu-Dieu, bucurându-vă de atmosfera istorică sub lumina caldă a soarelui de seară.",
-        "en": "Start your cycling adventure at the Vendée Automobile Museum, marveling at the extensive collection of beautifully restored classic cars. Pedal your way to the historic Talmont Castle, where the imposing walls whisper tales of the Middle Ages. Enjoy a midday break relaxing on the peaceful sands of the naturist beach, feeling the warm ocean breeze. In the afternoon, explore the picturesque rocky coves of Plage du Four à Chaux, and finally, end your journey wandering through the serene and evocative ruins of Lieu-Dieu Abbey at dusk."
+        "en": "Start your cycling adventure at the Vendée Automobile Museum, marveling at the extensive collection of beautifully restored classic cars. Pedal your way to the historic Talmont Castle, where the imposing walls whisper tales of the Middle Ages. Enjoy a midday break relaxing on the peaceful sands of the naturist beach, feeling the warm ocean breeze. In the afternoon, explore the picturesque rocky coves of Plage du Four à Chaux, and finally, end your journey wandering through the serene and evocative ruins of Lieu-Dieu Abbey at dusk.",
+        "fr": "Commencez votre aventure à vélo au Musée Automobile de Vendée, en admirant la vaste collection de voitures anciennes magnifiquement restaurées. Pédalez jusqu'au château historique de Talmont, où les imposants remparts murmurent des récits du Moyen Âge. Faites une pause déjeuner en vous détendant sur les sables paisibles de la plage naturiste, sentant la douce brise marine. L'après‑midi, explorez les criques rocheuses pittoresques de la Plage du Four à Chaux, et enfin terminez votre parcours en flânant dans les ruines sereines et évocatrices de l'Abbaye du Lieu-Dieu au crépuscule."
       },
       "variants": {
         "rainy": {
@@ -437,7 +481,8 @@
             "de": "Wir starten den Regentag im Automobilmuseum, umgeben von glänzendem Chrom und trockener Luft. Mittags radeln wir vorsichtig auf nassen Wegen zum Château de Talmont, wo die alten Steine im Regen dunkel leuchten. Der Nachmittag führt uns trotz Schauern zur Küste, wo die salzige Gischt das Regenwasser vermischt. Den Abschluss bildet die Abbaye du Lieu-Dieu, ein Ort der Ruhe und des Schutzes.",
             "hu": "Az esős napot az Autómúzeumban kezdjük, csillogó krómok és száraz levegő társaságában. Délben óvatosan tekerünk a vizes utakon a Talmont-kastély felé, ahol a sötét kövek méltóságteljesen fénylenek a csapadékban. Délután a part menti széllel dacolva figyeljük az óceánt, végül a Lieu-Dieu apátság csendes falai között találunk menedéket és nyugalmat a nap végére.",
             "ro": "Începem ziua ploioasă la Muzeul Automobilului, înconjurați de crom strălucitor și aer uscat. La prânz, pedalăm cu atenție pe drumurile ude spre Castelul Talmont, unde pietrele vechi strălucesc în ploaie. După-amiaza ne duce spre coastă, unde stropii de mare se amestecă cu ploaia. Încheiem traseul la Abația Lieu-Dieu, un loc plin de liniște și adăpost spiritual.",
-            "en": "We start the rainy day at the Automobile Museum, surrounded by gleaming chrome and dry indoor air. By noon, we cycle carefully on wet paths towards Talmont Castle, where the ancient stones glisten in the rain. The afternoon takes us to the coast despite the showers, watching the sea spray mix with raindrops. We finish at Abbaye du Lieu-Dieu, a place of peace and solid shelter."
+            "en": "We start the rainy day at the Automobile Museum, surrounded by gleaming chrome and dry indoor air. By noon, we cycle carefully on wet paths towards Talmont Castle, where the ancient stones glisten in the rain. The afternoon takes us to the coast despite the showers, watching the sea spray mix with raindrops. We finish at Abbaye du Lieu-Dieu, a place of peace and solid shelter.",
+            "fr": "Nous commençons la journée pluvieuse au Musée Automobile, entourés de chrome brillant et d'air sec intérieur. À midi, nous pédalons prudemment sur des sentiers mouillés vers le château de Talmont, où les vieilles pierres scintillent sous la pluie. L'après‑midi nous mène sur la côte malgré les averses, observant l'écume mêlée aux gouttes de pluie. Nous terminons à l'Abbaye du Lieu-Dieu, un lieu de paix offrant un abri solide."
           },
           "stops": [
             {
@@ -445,13 +490,15 @@
                 "de": "Automobilmuseum der Vendée",
                 "hu": "Vendée Autómúzeum",
                 "ro": "Muzeul Automobilului din Vendée",
-                "en": "Vendée Automobile Museum"
+                "en": "Vendée Automobile Museum",
+                "fr": "Musée Automobile de Vendée"
               },
               "tip_5lang": {
                 "de": "Dies ist der perfekte Ort, um einen Regenschauer abzuwarten; parken Sie Ihr Fahrrad im überdachten Bereich und genießen Sie die trockene Ausstellung.",
                 "hu": "Ez a tökéletes hely egy kiadós zápor átvészelésére; parkolja le kerékpárját a fedett részen, és élvezze a kiállítást teljesen szárazon.",
                 "ro": "Acesta este locul perfect pentru a aștepta trecerea unei averse; parchează bicicleta în zona acoperită și bucură-te de expoziția la adăpost.",
-                "en": "This is the perfect spot to wait out a heavy rain shower; park your bike in the covered area and enjoy the extensive indoor collection in comfort."
+                "en": "This is the perfect spot to wait out a heavy rain shower; park your bike in the covered area and enjoy the extensive indoor collection in comfort.",
+                "fr": "C'est l'endroit idéal pour attendre une grosse averse ; garez votre vélo dans l'aire couverte et profitez confortablement de l'importante collection intérieure."
               }
             },
             {
@@ -459,13 +506,15 @@
                 "de": "Château de Talmont",
                 "hu": "Talmont-kastély",
                 "ro": "Castelul Talmont",
-                "en": "Talmont Castle"
+                "en": "Talmont Castle",
+                "fr": "Château de Talmont"
               },
               "tip_5lang": {
                 "de": "Achten Sie beim Radfahren auf dem Kopfsteinpflaster des Schlosses auf Rutschgefahr; die Innenräume bieten Schutz vor plötzlichen Windböen und Regen.",
                 "hu": "Ügyeljen a csúszásveszélyre a vár körüli macskaköves utakon; a belső terek kiváló védelmet nyújtanak a hirtelen széllökések és a sűrű eső ellen.",
                 "ro": "Atenție la riscul de alunecare pe pavajul din jurul castelului; spațiile interioare oferă protecție excelentă împotriva rafalelor de vânt și ploii.",
-                "en": "Watch out for slippery conditions on the cobblestones around the castle; the interior chambers offer great protection from sudden gusts and rain."
+                "en": "Watch out for slippery conditions on the cobblestones around the castle; the interior chambers offer great protection from sudden gusts and rain.",
+                "fr": "Attention aux conditions glissantes sur les pavés autour du château ; les salles intérieures offrent une excellente protection contre les rafales et la pluie."
               }
             },
             {
@@ -473,13 +522,15 @@
                 "de": "FKK-Strand",
                 "hu": "Naturista strand",
                 "ro": "Plajă naturistă",
-                "en": "Naturist Beach"
+                "en": "Naturist Beach",
+                "fr": "Plage naturiste"
               },
               "tip_5lang": {
                 "de": "Fahren Sie langsam auf den sandigen Radwegen, da diese bei Regen weich werden können; genießen Sie den dramatischen Anblick der stürmischen See.",
                 "hu": "Haladjon lassabban a homokos kerékpárutakon, mert esőben felázhatnak; élvezze a viharos tenger látványát a dűnék biztonságos magasságából.",
                 "ro": "Pedalează mai lent pe pistele de biciclete cu nisip, deoarece se pot înmuia; bucură-te de spectacolul mării învolburate de pe înălțimea dunelor.",
-                "en": "Cycle more slowly on the sandy bike paths as they can become soft in the rain; enjoy the dramatic sight of the stormy sea from the dune ridges."
+                "en": "Cycle more slowly on the sandy bike paths as they can become soft in the rain; enjoy the dramatic sight of the stormy sea from the dune ridges.",
+                "fr": "Roulez plus lentement sur les pistes cyclables sablonneuses car elles peuvent s'enfoncer sous la pluie ; profitez de la vue dramatique de la mer orageuse depuis les crêtes des dunes."
               }
             },
             {
@@ -487,13 +538,15 @@
                 "de": "Plage du Four à Chaux",
                 "hu": "Plage du Four à Chaux",
                 "ro": "Plage du Four à Chaux",
-                "en": "Plage du Four à Chaux"
+                "en": "Plage du Four à Chaux",
+                "fr": "Plage du Four à Chaux"
               },
               "tip_5lang": {
                 "de": "Regenkleidung ist hier wegen des starken Windes unerlässlich; die Felsen bieten interessante Fotomotive, wenn der Regen gegen die Steine peitscht.",
                 "hu": "Az esőruházat itt elengedhetetlen az erős szél miatt; a sziklák érdekes fotótémát szolgáltatnak, ahogy az eső veri a sötét kőfelületeket.",
                 "ro": "Echipamentul de ploaie este esențial aici din cauza vântului; stâncile oferă cadre foto interesante când ploaia izbește suprafețele de piatră.",
-                "en": "Full rain gear is essential here due to the strong coastal wind; the rocks provide interesting photo subjects as rain lashes against the stone."
+                "en": "Full rain gear is essential here due to the strong coastal wind; the rocks provide interesting photo subjects as rain lashes against the stone.",
+                "fr": "Un équipement pluie complet est essentiel ici en raison du vent côtier violent ; les rochers offrent des sujets photo intéressants tandis que la pluie fouette la pierre."
               }
             },
             {
@@ -501,13 +554,15 @@
                 "de": "Abbaye du Lieu-Dieu",
                 "hu": "Lieu-Dieu Apátság",
                 "ro": "Abația Lieu-Dieu",
-                "en": "Lieu-Dieu Abbey"
+                "en": "Lieu-Dieu Abbey",
+                "fr": "Abbaye du Lieu-Dieu"
               },
               "tip_5lang": {
                 "de": "Trocknen Sie sich in der Stille der Abtei ab; die friedliche Atmosphäre drinnen ist der perfekte Ausklang für eine nasse Radtour an der Küste.",
                 "hu": "Szárítkozzon meg az apátság csendjében; a benti békés hangulat tökéletes lezárása egy vizes, tengerparti kerékpártúrának a nap végén.",
                 "ro": "Usucă-te în liniștea abației; atmosfera pașnică din interior este finalul perfect pentru o tură cu bicicleta prin ploaia de pe coastă.",
-                "en": "Dry off in the quiet sanctuary of the abbey; the peaceful atmosphere inside is the perfect conclusion to a wet bike ride along the coast."
+                "en": "Dry off in the quiet sanctuary of the abbey; the peaceful atmosphere inside is the perfect conclusion to a wet bike ride along the coast.",
+                "fr": "Séchez‑vous dans le sanctuaire tranquille de l'abbaye ; l'atmosphère paisible à l'intérieur est la parfaite conclusion d'une balade à vélo mouillée le long de la côte."
               }
             }
           ]
@@ -517,7 +572,8 @@
             "de": "Ein frostiger Start im Automobilmuseum lässt die Zeit im Flug vergehen. Mittags radeln wir durch die klare, kalte Luft zum Château de Talmont, wo die Wintersonne die Mauern hell erleuchtet. Die Küstenwege am Nachmittag bieten weite, einsame Ausblicke auf den Atlantik. Wir beenden unsere Tour an der Abbaye du Lieu-Dieu, bevor die Dunkelheit um 17:00 Uhr die Landschaft einhüllt.",
             "hu": "A fagyos reggelt az Autómúzeumban kezdjük, ahol repül az idő a veterán autók között. Délben a tiszta, hideg levegőn tekerünk a Talmont-kastélyhoz, melynek falait élesen világítja meg a téli nap. A délutáni parti utak magányos, messzire nyúló kilátást nyújtanak az Atlanti-óceánra. Túránkat a Lieu-Dieu apátságnál zárjuk, mielőtt 17:00-kor leszáll a sötétség.",
             "ro": "Un început geros la Muzeul Automobilului face ca timpul să treacă repede. La prânz, pedalăm prin aerul rece și curat spre Castelul Talmont, ale cărui ziduri sunt luminate de soarele de iarnă. Drumurile de coastă de după-amiază oferă vederi largi și solitare asupra Atlanticului. Încheiem turul la Abația Lieu-Dieu, înainte ca întunericul să se lase la ora 17:00.",
-            "en": "A frosty start at the Automobile Museum makes time fly by. By noon, we cycle through the crisp, cold air to Talmont Castle, where the winter sun brightly illuminates the stone walls. The afternoon coastal paths offer wide, lonely views of the Atlantic Ocean. We conclude our tour at Abbaye du Lieu-Dieu before darkness envelops the landscape at 17:00."
+            "en": "A frosty start at the Automobile Museum makes time fly by. By noon, we cycle through the crisp, cold air to Talmont Castle, where the winter sun brightly illuminates the stone walls. The afternoon coastal paths offer wide, lonely views of the Atlantic Ocean. We conclude our tour at Abbaye du Lieu-Dieu before darkness envelops the landscape at 17:00.",
+            "fr": "Un départ givré au Musée Automobile fait filer le temps. À midi, nous pédalons dans l'air frais et froid jusqu'au château de Talmont, où le soleil hivernal illumine vivement les murs de pierre. Les sentiers côtiers de l'après‑midi offrent de vastes vues solitaires sur l'océan Atlantique. Nous concluons notre tour à l'Abbaye du Lieu-Dieu avant que l'obscurité n'enveloppe le paysage à 17:00."
           },
           "stops": [
             {
@@ -525,13 +581,15 @@
                 "de": "Automobilmuseum der Vendée",
                 "hu": "Vendée Autómúzeum",
                 "ro": "Muzeul Automobilului din Vendée",
-                "en": "Vendée Automobile Museum"
+                "en": "Vendée Automobile Museum",
+                "fr": "Musée Automobile de Vendée"
               },
               "tip_5lang": {
                 "de": "Genießen Sie die Wärme der Innenräume, bevor Sie sich für die Weiterfahrt dick einpacken; das Museum ist im Winter ein angenehm temperierter Startpunkt.",
                 "hu": "Élvezze a belső terek melegét, mielőtt alaposan beöltözne a folytatáshoz; a múzeum télen kellemesen temperált kiindulópont a túrához.",
                 "ro": "Bucură-te de căldura spațiilor interioare înainte de a te echipa gros pentru drum; muzeul este un punct de plecare cu temperatură plăcută iarna.",
-                "en": "Enjoy the warmth of the indoor exhibits before layering up for the ride; the museum is a comfortably tempered starting point during the winter season."
+                "en": "Enjoy the warmth of the indoor exhibits before layering up for the ride; the museum is a comfortably tempered starting point during the winter season.",
+                "fr": "Profitez de la chaleur des expositions intérieures avant de vous emmitoufler pour la sortie ; le musée est un point de départ agréablement chauffé durant la saison hivernale."
               }
             },
             {
@@ -539,13 +597,15 @@
                 "de": "Château de Talmont",
                 "hu": "Talmont-kastély",
                 "ro": "Castelul Talmont",
-                "en": "Talmont Castle"
+                "en": "Talmont Castle",
+                "fr": "Château de Talmont"
               },
               "tip_5lang": {
                 "de": "Tragen Sie windfeste Handschuhe für die Fahrt zum Schloss; die freie Lage der Festung macht sie im Winter besonders anfällig für kalte Ostwinde.",
                 "hu": "Viseljen szélálló kesztyűt a vár felé menet; az erőd nyitott elhelyezkedése miatt télen különösen ki van téve a hideg keleti szeleknek.",
                 "ro": "Poartă mănuși rezistente la vânt spre castel; locația deschisă a fortăreței o face vulnerabilă la vânturile reci din est în timpul iernii.",
-                "en": "Wear windproof gloves for the ride to the castle; its exposed location makes it particularly prone to biting cold easterly winds in winter."
+                "en": "Wear windproof gloves for the ride to the castle; its exposed location makes it particularly prone to biting cold easterly winds in winter.",
+                "fr": "Portez des gants coupe‑vent pour la route vers le château ; son emplacement exposé le rend particulièrement vulnérable aux vents froids d'est en hiver."
               }
             },
             {
@@ -553,13 +613,15 @@
                 "de": "FKK-Strand",
                 "hu": "Naturista strand",
                 "ro": "Plajă naturistă",
-                "en": "Naturist Beach"
+                "en": "Naturist Beach",
+                "fr": "Plage naturiste"
               },
               "tip_5lang": {
                 "de": "Die Radwege durch den Kiefernwald bieten etwas Schutz vor dem Wind; die Wintersonne glitzert herrlich auf den Wellen der ansonsten leeren Bucht.",
                 "hu": "A fenyőerdőn átvezető kerékpárutak némi szélvédettséget nyújtanak; a téli napfény csodásan csillog az egyébként teljesen üres öböl hullámain.",
                 "ro": "Pistele de biciclete prin pădurea de pini oferă protecție împotriva vântului; soarele de iarnă sclipește superb pe valurile golfului pustiu.",
-                "en": "The bike paths through the pine forest provide some shelter from the wind; the winter sun glitters beautifully on the waves of the empty bay."
+                "en": "The bike paths through the pine forest provide some shelter from the wind; the winter sun glitters beautifully on the waves of the empty bay.",
+                "fr": "Les pistes cyclables à travers la pinède offrent un certain abri contre le vent ; le soleil hivernal scintille magnifiquement sur les vagues de la baie déserte."
               }
             },
             {
@@ -567,13 +629,15 @@
                 "de": "Plage du Four à Chaux",
                 "hu": "Plage du Four à Chaux",
                 "ro": "Plage du Four à Chaux",
-                "en": "Plage du Four à Chaux"
+                "en": "Plage du Four à Chaux",
+                "fr": "Plage du Four à Chaux"
               },
               "tip_5lang": {
                 "de": "Ein kurzer Stopp reicht aus, um die raue Winteratmosphäre aufzusaugen; halten Sie sich in Bewegung, um bei der Meeresbrise nicht auszukühlen.",
                 "hu": "Egy rövid megálló elég a nyers téli hangulat befogadásához; maradjon mozgásban a parton is, hogy ne hűljön ki a fagyos tengeri fuvallatban.",
                 "ro": "O scurtă oprire este suficientă pentru a absorbi atmosfera austeră de iarnă; rămâi în mișcare pe plajă pentru a nu dârdâi din cauza brizei reci.",
-                "en": "A short stop is enough to soak in the raw winter atmosphere; keep moving on the beach to avoid getting chilled by the freezing sea breeze."
+                "en": "A short stop is enough to soak in the raw winter atmosphere; keep moving on the beach to avoid getting chilled by the freezing sea breeze.",
+                "fr": "Une courte pause suffit pour s'imprégner de l'atmosphère hivernale brute ; continuez à marcher sur la plage pour éviter d'être refroidi par la brise marine glacée."
               }
             },
             {
@@ -581,13 +645,15 @@
                 "de": "Abbaye du Lieu-Dieu",
                 "hu": "Lieu-Dieu Apátság",
                 "ro": "Abația Lieu-Dieu",
-                "en": "Lieu-Dieu Abbey"
+                "en": "Lieu-Dieu Abbey",
+                "fr": "Abbaye du Lieu-Dieu"
               },
               "tip_5lang": {
                 "de": "Planen Sie Ihre Ankunft vor 16:30 Uhr, um die Architektur noch im Tageslicht zu bewundern, bevor die Winterdämmerung schnell alles verschluckt.",
                 "hu": "Tervezze érkezését 16:30 előtt, hogy még napfényben láthassa az épületet, mielőtt a téli alkonyat gyorsan elnyeli a táj részleteit.",
                 "ro": "Planifică sosirea înainte de 16:30 pentru a admira arhitectura la lumina zilei, înainte ca amurgul de iarnă să cuprindă rapid tot peisajul.",
-                "en": "Plan to arrive before 16:30 to admire the architecture in daylight, as the winter dusk quickly swallows the landscape shortly after."
+                "en": "Plan to arrive before 16:30 to admire the architecture in daylight, as the winter dusk quickly swallows the landscape shortly after.",
+                "fr": "Prévoyez d'arriver avant 16:30 pour admirer l'architecture en plein jour, car le crépuscule hivernal engloutit rapidement le paysage peu après."
               }
             }
           ]
@@ -607,7 +673,8 @@
             "de": "Église Saint-Hilaire",
             "hu": "Saint-Hilaire templom",
             "ro": "Biserica Saint-Hilaire",
-            "en": "Saint-Hilaire Church"
+            "en": "Saint-Hilaire Church",
+            "fr": "Église Saint-Hilaire"
           },
           "coords": [
             -1.602912,
@@ -622,7 +689,8 @@
             "de": "Bewundern Sie die Buntglasfenster dieser historischen Kirche, aber kommen Sie vor 10 Uhr, um die ruhige Morgenatmosphäre zu genießen.",
             "hu": "Csodálja meg a történelmi templom ólomüveg ablakait, de érkezzen délelőtt 10 óra előtt, hogy kiélvezze a nyugodt reggeli hangulatot.",
             "ro": "Admirați vitraliile acestei biserici istorice, dar veniți înainte de ora 10 pentru a vă bucura de atmosfera liniștită a dimineții.",
-            "en": "Start your day admiring the stained glass windows of this historic church, but visit before 10 AM to enjoy the quiet morning atmosphere."
+            "en": "Start your day admiring the stained glass windows of this historic church, but visit before 10 AM to enjoy the quiet morning atmosphere.",
+            "fr": "Commencez la journée en admirant les vitraux de cette église historique, mais visitez avant 10h pour profiter de l'atmosphère tranquille du matin."
           }
         },
         {
@@ -630,7 +698,8 @@
             "de": "Automobilmuseum der Vendée",
             "hu": "Vendée Autómúzeum",
             "ro": "Muzeul Automobilului din Vendée",
-            "en": "Vendée Automobile Museum"
+            "en": "Vendée Automobile Museum",
+            "fr": "Musée Automobile de Vendée"
           },
           "coords": [
             -1.667531,
@@ -645,7 +714,8 @@
             "de": "Entdecken Sie eine bemerkenswerte Sammlung von über 150 Oldtimern und kommen Sie früh, um in Ruhe Fotos Ihrer Lieblingsklassiker zu machen.",
             "hu": "Fedezze fel a több mint 150 veterán autóból álló figyelemre méltó gyűjteményt, és érkezzen korán, hogy elkerülje a tömeget fotózás közben.",
             "ro": "Descoperiți o colecție remarcabilă de peste 150 de mașini de epocă și ajungeți devreme pentru a evita aglomerația în timp ce faceți fotografii.",
-            "en": "Discover a remarkable collection of over 150 vintage cars, and arrive early to beat the crowds while snapping photos of your favorite classics."
+            "en": "Discover a remarkable collection of over 150 vintage cars, and arrive early to beat the crowds while snapping photos of your favorite classics.",
+            "fr": "Découvrez une collection remarquable de plus de 150 voitures anciennes, et arrivez tôt pour éviter la foule tout en photographiant vos modèles préférés."
           }
         },
         {
@@ -653,7 +723,8 @@
             "de": "Château de Talmont",
             "hu": "Talmont-kastély",
             "ro": "Castelul Talmont",
-            "en": "Talmont Castle"
+            "en": "Talmont Castle",
+            "fr": "Château de Talmont"
           },
           "coords": [
             -1.681663,
@@ -668,7 +739,8 @@
             "de": "Tauchen Sie ein in die mittelalterliche Geschichte dieser Festung von Richard Löwenherz und verpassen Sie nicht die sommerlichen Falknereishows.",
             "hu": "Merüljön el a középkori történelemben Oroszlánszívű Richárd egykori erődjében, és ne hagyja ki a nyári solymászbemutatókat sem.",
             "ro": "Cufundați-vă în istoria medievală la această fortăreață deținută odată de Richard Inimă de Leu și nu ratați spectacolele de șoimărit din vară.",
-            "en": "Immerse yourself in medieval history at this fortress once owned by Richard the Lionheart, and don't miss the falconry shows held in summer."
+            "en": "Immerse yourself in medieval history at this fortress once owned by Richard the Lionheart, and don't miss the falconry shows held in summer.",
+            "fr": "Plongez dans l'histoire médiévale de cette forteresse autrefois détenue par Richard Cœur de Lion, et ne manquez pas les démonstrations de fauconnerie en été."
           }
         },
         {
@@ -676,7 +748,8 @@
             "de": "Plage de Ragounite",
             "hu": "Plage de Ragounite",
             "ro": "Plage de Ragounite",
-            "en": "Plage de Ragounite"
+            "en": "Plage de Ragounite",
+            "fr": "Plage de Ragounite"
           },
           "coords": [
             -1.612343,
@@ -691,7 +764,8 @@
             "de": "Erkunden Sie bei Ebbe die faszinierenden Gezeitentümpel an diesem rauen Küstenabschnitt und tragen Sie unbedingt Wasserschuhe zum Schutz.",
             "hu": "Apálykor fedezze fel a lenyűgöző sziklamedencéket ezen a zord partszakaszon, és mindenképpen viseljen vízi cipőt az éles kövek elleni védelem érdekében.",
             "ro": "Explorați bazinele de stâncă la reflux pe această coastă accidentată, asigurându-vă că purtați pantofi de apă pentru a vă proteja de pietre.",
-            "en": "Explore the fascinating rock pools at low tide on this rugged stretch of coast, making sure to wear water shoes to protect against jagged stones."
+            "en": "Explore the fascinating rock pools at low tide on this rugged stretch of coast, making sure to wear water shoes to protect against jagged stones.",
+            "fr": "Explorez les fascinantes piscines naturelles à marée basse sur ce tronçon de côte accidenté, en veillant à porter des chaussures aquatiques pour vous protéger des pierres tranchantes."
           }
         },
         {
@@ -699,7 +773,8 @@
             "de": "Abbaye du Lieu-Dieu",
             "hu": "Lieu-Dieu Apátság",
             "ro": "Abația Lieu-Dieu",
-            "en": "Lieu-Dieu Abbey"
+            "en": "Lieu-Dieu Abbey",
+            "fr": "Abbaye du Lieu-Dieu"
           },
           "coords": [
             -1.602537,
@@ -714,7 +789,8 @@
             "de": "Besuchen Sie die friedlichen Ruinen dieser von Richard Löwenherz gegründeten Abtei und tragen Sie am späten Nachmittag besser Mückenspray auf.",
             "hu": "Látogassa meg az Oroszlánszívű Richárd által alapított apátság békés romjait, és ügyeljen a szúnyogriasztó használatára a késő délutáni órákban.",
             "ro": "Vizitați ruinele pașnice ale acestei abații fondate de Richard Inimă de Leu, asigurându-vă că folosiți repelent de țânțari după-amiaza.",
-            "en": "Visit the peaceful ruins of this historic abbey founded by Richard the Lionheart, ensuring you wear mosquito repellent if visiting in late afternoon."
+            "en": "Visit the peaceful ruins of this historic abbey founded by Richard the Lionheart, ensuring you wear mosquito repellent if visiting in late afternoon.",
+            "fr": "Visitez les ruines paisibles de cette abbaye historique fondée par Richard Cœur de Lion, en prévoyant du répulsif anti‑moustiques si vous venez en fin d'après‑midi."
           }
         },
         {
@@ -722,7 +798,8 @@
             "de": "Plage du Rocher",
             "hu": "Plage du Rocher",
             "ro": "Plage du Rocher",
-            "en": "Plage du Rocher"
+            "en": "Plage du Rocher",
+            "fr": "Plage du Rocher"
           },
           "coords": [
             -1.506594,
@@ -737,7 +814,8 @@
             "de": "Spazieren Sie an diesem langen, von Pinienwäldern gesäumten Strand entlang und nutzen Sie den nahegelegenen Parkplatz für einen spektakulären Sonnenuntergang.",
             "hu": "Sétáljon végig ezen a fenyőerdőkkel szegélyezett, hívogató strandon, és használja a közeli parkolót a látványos naplemente kényelmes megtekintéséhez.",
             "ro": "Plimbați-vă de-a lungul acestei plaje lungi mărginite de păduri de pini și folosiți parcarea din apropiere pentru acces ușor la un apus spectaculos.",
-            "en": "Stroll along this long, inviting beach lined with pine forests, and use the nearby parking lot for easy access to a spectacular sunset view."
+            "en": "Stroll along this long, inviting beach lined with pine forests, and use the nearby parking lot for easy access to a spectacular sunset view.",
+            "fr": "Promenez‑vous le long de cette longue plage invitante bordée de pinèdes, et utilisez le parking à proximité pour un accès facile à un superbe coucher de soleil."
           }
         }
       ],
@@ -745,7 +823,8 @@
         "de": "Beginnen Sie Ihre Entdeckungstour mit dem Auto an der charmanten Église Saint-Hilaire im Zentrum, bevor Sie die faszinierenden Oldtimer im Automobilmuseum bestaunen. Gegen Mittag erkunden Sie die mächtigen Mauern des mittelalterlichen Château de Talmont, das eine reiche Geschichte bietet. Fahren Sie am Nachmittag an die Küste zum Plage de Ragounite, um die wilden Felsformationen zu bewundern. Beenden Sie die Tour nach einem kurzen Stopp an der Abbaye du Lieu-Dieu mit einem entspannten Abendspaziergang und einem malerischen Sonnenuntergang am weitläufigen Plage du Rocher.",
         "hu": "Autós kirándulását a központban található Saint-Hilaire templom meglátogatásával kezdje, majd merüljön el a régi autók világában a Vendée Autómúzeumban. Délben a középkori Talmont-kastély lenyűgöző falai között tehet egy időutazást, felfedezve a környék gazdag történelmét. Délután vezessen a part mentén a Plage de Ragounite vad, sziklás strandjához, majd tegyen egy rövid kitérőt a történelmi Lieu-Dieu Apátság romjaihoz. Az estét a hosszú és hívogató Plage du Rocher partján zárja, élvezve a csodálatos naplementét és a tenger zúgását.",
         "ro": "Începeți excursia cu mașina vizitând Biserica Saint-Hilaire din centrul orașului, urmată de o oprire fascinantă la Muzeul Automobilului din Vendée. La prânz, explorați zidurile fortificate ale Castelului Talmont, o adevărată capodoperă a arhitecturii medievale din regiune. După-amiaza, conduceți spre Plage de Ragounite pentru a admira formațiunile stâncoase sălbatice și vizitați scurt ruinele istorice ale Abației Lieu-Dieu. Seara, relaxați-vă cu o plimbare lungă pe nisipul fin de la Plage du Rocher, admirând un apus de soare spectaculos peste ocean.",
-        "en": "Kickstart your driving tour in the heart of town at the Saint-Hilaire Church, followed by an exciting visit to the vintage collections at the Vendée Automobile Museum. By midday, wander through the historic ruins of Talmont Castle, immersing yourself in local medieval lore. In the afternoon, cruise along the coast to the rugged shores of Plage de Ragounite, and make a quick stop at the peaceful Lieu-Dieu Abbey. Conclude your day trip unwinding on the expansive Plage du Rocher, enjoying the gentle waves and a stunning sunset over the ocean."
+        "en": "Kickstart your driving tour in the heart of town at the Saint-Hilaire Church, followed by an exciting visit to the vintage collections at the Vendée Automobile Museum. By midday, wander through the historic ruins of Talmont Castle, immersing yourself in local medieval lore. In the afternoon, cruise along the coast to the rugged shores of Plage de Ragounite, and make a quick stop at the peaceful Lieu-Dieu Abbey. Conclude your day trip unwinding on the expansive Plage du Rocher, enjoying the gentle waves and a stunning sunset over the ocean.",
+        "fr": "Lancez votre circuit en voiture au cœur de la ville à l'église Saint-Hilaire, suivi d'une visite enthousiasmante des collections vintage du Musée Automobile de Vendée. À midi, parcourez les ruines historiques du château de Talmont, en vous plongeant dans le folklore médiéval local. L'après‑midi, longez la côte jusqu'aux rivages accidentés de la Plage de Ragounite, faites une halte rapide à la paisible Abbaye du Lieu-Dieu. Concluez votre excursion en vous détendant sur l'étendue de la Plage du Rocher, en profitant des vagues douces et d'un magnifique coucher de soleil sur l'océan."
       },
       "variants": {
         "rainy": {
@@ -753,7 +832,8 @@
             "de": "Mit dem Auto erkunden wir Talmont-Saint-Hilaire ganz entspannt trotz Regen. Wir beginnen trocken in der Kirche und im Automobilmuseum. Mittags bietet das Château de Talmont historische Einblicke unter festem Dach. Nachmittags fahren wir an die Küste, wo wir aus dem Fenster die tosende See beobachten können. Den Tag beschließen wir an der ruhigen Abbaye du Lieu-Dieu und dem wilden Plage du Rocher.",
             "hu": "Autóval kényelmesen felfedezhetjük a várost az eső ellenére is. Szárazon kezdünk a templomban és az Autómúzeumban. Délben a Talmont-kastély történelmi falai adnak fedelet a fejünk fölé. Délután a part mentén autózunk, az ablakból figyelve a hullámzó óceánt. A napot a Lieu-Dieu apátság csendjével és a Plage du Rocher sziklás, viharos látványával zárjuk a meleg utastér biztonságából.",
             "ro": "Cu mașina, explorăm Talmont-Saint-Hilaire relaxați, în ciuda ploii. Începem la adăpost în biserică și la Muzeul Automobilului. La prânz, Castelul Talmont oferă perspective istorice sub un acoperiș solid. După-amiaza conducem pe coastă, observând marea agitată din confortul mașinii. Încheiem ziua la Abația Lieu-Dieu și pe plaja sălbatică Plage du Rocher.",
-            "en": "By car, we explore Talmont-Saint-Hilaire comfortably despite the rain. We start dry at the church and the Automobile Museum. At noon, Talmont Castle provides historical insights under a solid roof. In the afternoon, we drive along the coast, watching the surging sea from the car window. We conclude the day at the quiet Abbaye du Lieu-Dieu and the wild, rainy Plage du Rocher."
+            "en": "By car, we explore Talmont-Saint-Hilaire comfortably despite the rain. We start dry at the church and the Automobile Museum. At noon, Talmont Castle provides historical insights under a solid roof. In the afternoon, we drive along the coast, watching the surging sea from the car window. We conclude the day at the quiet Abbaye du Lieu-Dieu and the wild, rainy Plage du Rocher.",
+            "fr": "En voiture, nous explorons Talmont‑Saint‑Hilaire confortablement malgré la pluie. Nous commençons au sec à l'église et au Musée Automobile. À midi, le château de Talmont offre des aperçus historiques sous un toit solide. L'après‑midi, nous longeons la côte, observant la mer déchaînée depuis la fenêtre du véhicule. Nous terminons la journée à la tranquille Abbaye du Lieu-Dieu et à la sauvage, pluvieuse Plage du Rocher."
           },
           "stops": [
             {
@@ -761,13 +841,15 @@
                 "de": "Église Saint-Hilaire",
                 "hu": "Saint-Hilaire templom",
                 "ro": "Biserica Saint-Hilaire",
-                "en": "Saint-Hilaire Church"
+                "en": "Saint-Hilaire Church",
+                "fr": "Église Saint-Hilaire"
               },
               "tip_5lang": {
                 "de": "Parken Sie nah am Eingang, um den Regen zu meiden; im Inneren können Sie die Ruhe genießen, während draußen der Himmel seine Schleusen öffnet.",
                 "hu": "Parkoljon a bejárathoz közel, hogy elkerülje az ázást; bent élvezze a csendet, miközben kint az égbolt teljesen elszürkül és szakad az eső.",
                 "ro": "Parchează aproape de intrare pentru a evita ploaia; în interior te poți bucura de liniște în timp ce afară cerul este complet acoperit.",
-                "en": "Park close to the entrance to avoid getting wet; inside, you can enjoy the solemn peace while the sky opens up outside with a heavy downpour."
+                "en": "Park close to the entrance to avoid getting wet; inside, you can enjoy the solemn peace while the sky opens up outside with a heavy downpour.",
+                "fr": "Garez‑vous près de l'entrée pour éviter de vous mouiller ; à l'intérieur, vous pourrez apprécier la paix solennelle pendant que le ciel se déchaîne dehors."
               }
             },
             {
@@ -775,13 +857,15 @@
                 "de": "Automobilmuseum der Vendée",
                 "hu": "Vendée Autómúzeum",
                 "ro": "Muzeul Automobilului din Vendée",
-                "en": "Vendée Automobile Museum"
+                "en": "Vendée Automobile Museum",
+                "fr": "Musée Automobile de Vendée"
               },
               "tip_5lang": {
                 "de": "Das ideale Ziel bei schlechtem Wetter; verbringen Sie hier ausgiebig Zeit im Trockenen und bestaunen Sie die Klassiker der Automobilgeschichte.",
                 "hu": "Ideális úticél rossz időben; töltsön itt hosszabb időt szárazon, megcsodálva az autóipar történelmének legszebb és legritkább klasszikusait.",
                 "ro": "Destinația ideală pe vreme rea; petrece aici timp îndelungat la uscat, admirând clasicele istoriei automobilistice într-un cadru protejat.",
-                "en": "The ultimate destination for bad weather; spend ample time here in the dry, marveling at the beautifully preserved classics of automotive history."
+                "en": "The ultimate destination for bad weather; spend ample time here in the dry, marveling at the beautifully preserved classics of automotive history.",
+                "fr": "La destination ultime par mauvais temps ; passez-y largement votre temps à l'abri en admirant les voitures anciennes magnifiquement conservées."
               }
             },
             {
@@ -789,13 +873,15 @@
                 "de": "Château de Talmont",
                 "hu": "Talmont-kastély",
                 "ro": "Castelul Talmont",
-                "en": "Talmont Castle"
+                "en": "Talmont Castle",
+                "fr": "Château de Talmont"
               },
               "tip_5lang": {
                 "de": "Nutzen Sie den Parkplatz direkt vor der Anlage; die massiven Mauern bieten Schutz vor Wind, während Sie die mittelalterliche Festung erkunden.",
                 "hu": "Használja a közvetlenül az erőd előtt található parkolót; a masszív falak védelmet nyújtanak a szél ellen a középkori vár felfedezése közben.",
                 "ro": "Folosește parcarea situată direct în fața fortăreței; zidurile masive oferă protecție împotriva vântului în timp ce explorezi castelul medieval.",
-                "en": "Use the parking lot located directly in front of the complex; the massive stone walls provide excellent protection from the coastal wind."
+                "en": "Use the parking lot located directly in front of the complex; the massive stone walls provide excellent protection from the coastal wind.",
+                "fr": "Utilisez le parking situé juste devant le complexe ; les murs massifs en pierre offrent une excellente protection contre le vent côtier."
               }
             },
             {
@@ -803,13 +889,15 @@
                 "de": "Plage de Ragounite",
                 "hu": "Plage de Ragounite",
                 "ro": "Plage de Ragounite",
-                "en": "Plage de Ragounite"
+                "en": "Plage de Ragounite",
+                "fr": "Plage de Ragounite"
               },
               "tip_5lang": {
                 "de": "Beobachten Sie das Meer vom Auto aus oder machen Sie einen kurzen Gang zum Wasser; der Regen verleiht der zerklüfteten Küste eine besondere Note.",
                 "hu": "Figyelje a tengert az autóból, vagy tegyen egy rövid sétát a vízig; az eső különleges, drámai hangulatot kölcsönöz a vad, sziklás tengerpartnak.",
                 "ro": "Observă marea din mașină sau fă o scurtă plimbare până la apă; ploaia conferă coastei stâncoase o notă dramatică și mistică deosebită.",
-                "en": "Watch the sea from the comfort of your car or take a quick dash to the water; the rain adds a dramatic, moody touch to the rugged coastline."
+                "en": "Watch the sea from the comfort of your car or take a quick dash to the water; the rain adds a dramatic, moody touch to the rugged coastline.",
+                "fr": "Observez la mer depuis le confort de votre voiture ou faites une brève course vers l'eau ; la pluie ajoute une touche dramatique et mélancolique à la côte accidentée."
               }
             },
             {
@@ -817,13 +905,15 @@
                 "de": "Abbaye du Lieu-Dieu",
                 "hu": "Lieu-Dieu Apátság",
                 "ro": "Abația Lieu-Dieu",
-                "en": "Lieu-Dieu Abbey"
+                "en": "Lieu-Dieu Abbey",
+                "fr": "Abbaye du Lieu-Dieu"
               },
               "tip_5lang": {
                 "de": "Die Abtei ist ein ruhiger Ort für einen Regentag; die spirituelle Atmosphäre im Inneren lässt Sie das graue Wetter draußen schnell vergessen.",
                 "hu": "Az apátság tökéletes, nyugodt hely egy esős napra; a belső tér spirituális hangulata segít gyorsan elfelejteni a kinti szürke, borongós időt.",
                 "ro": "Abația este un loc liniștit pentru o zi ploioasă; atmosfera spirituală din interior te face să uiți rapid de vremea gri de afară.",
-                "en": "The abbey is a peaceful spot for a rainy day; the spiritual atmosphere inside helps you quickly forget the grey, overcast weather outdoors."
+                "en": "The abbey is a peaceful spot for a rainy day; the spiritual atmosphere inside helps you quickly forget the grey, overcast weather outdoors.",
+                "fr": "L'abbaye est un lieu paisible pour une journée pluvieuse ; l'atmosphère spirituelle intérieure vous aide rapidement à oublier le temps gris et couvert dehors."
               }
             },
             {
@@ -831,13 +921,15 @@
                 "de": "Plage du Rocher",
                 "hu": "Plage du Rocher",
                 "ro": "Plage du Rocher",
-                "en": "Plage du Rocher"
+                "en": "Plage du Rocher",
+                "fr": "Plage du Rocher"
               },
               "tip_5lang": {
                 "de": "Bleiben Sie auf den befestigten Wegen nahe der Felsen; die Brandung bei Regen ist spektakulär, aber halten Sie einen sicheren Abstand zum Rand.",
                 "hu": "Maradjon a kijelölt utakon a sziklák közelében; a tajtékzó tenger látványa esőben lenyűgöző, de tartson biztonságos távolságot a sziklaperemtől.",
                 "ro": "Rămâi pe potecile amenajate lângă stânci; valurile care se sparg în ploaie sunt spectaculoase, dar păstrează o distanță sigură de margine.",
-                "en": "Stay on the designated paths near the rocks; the crashing surf in the rain is spectacular, but keep a safe distance from the slippery edges."
+                "en": "Stay on the designated paths near the rocks; the crashing surf in the rain is spectacular, but keep a safe distance from the slippery edges.",
+                "fr": "Restez sur les sentiers balisés près des rochers ; les vagues déferlantes sous la pluie sont spectaculaires, mais gardez une distance de sécurité des bords glissants."
               }
             }
           ]
@@ -847,7 +939,8 @@
             "de": "Eine winterliche Spritztour durch die Vendée beginnt bei klarem Frost. Die Église Saint-Hilaire und das Automobilmuseum sind die ersten Highlights im warmen Auto. Mittags glänzt das Château de Talmont in der kühlen Sonne. Der Nachmittag führt uns entlang der einsamen Küstenstraße zu den Stränden. Den Tag lassen wir mit dem frühen Sonnenuntergang gegen 17:00 Uhr am Plage du Rocher ausklingen.",
             "hu": "Egy téli autós kirándulás a Vendée-vidéken a tiszta fagyban kezdődik. A Saint-Hilaire templom és az Autómúzeum az első állomások a fűtött utastér kényelmében. Délben a Talmont-kastély tündököl a hűvös napsütésben. A délután az elhagyatott parti utakon vezet a strandok felé. A napot a korai, 17:00 körüli naplementével zárjuk a Plage du Rocher szikláinál.",
             "ro": "O excursie de iarnă prin Vendée începe pe un ger senin. Biserica Saint-Hilaire și Muzeul Automobilului sunt primele puncte de interes din mașina încălzită. La prânz, Castelul Talmont strălucește în soarele rece. După-amiaza ne conduce de-a lungul drumului de coastă pustiu spre plaje. Încheiem ziua cu apusul timpuriu, în jurul orei 17:00, la Plage du Rocher.",
-            "en": "A winter road trip through the Vendée region begins in crisp, frosty weather. Saint-Hilaire Church and the Automobile Museum are the first highlights from your warm car. At noon, Talmont Castle shines in the cool sun. The afternoon takes us along the lonely coastal roads to the beaches. We end the day with the early sunset around 17:00 at Plage du Rocher."
+            "en": "A winter road trip through the Vendée region begins in crisp, frosty weather. Saint-Hilaire Church and the Automobile Museum are the first highlights from your warm car. At noon, Talmont Castle shines in the cool sun. The afternoon takes us along the lonely coastal roads to the beaches. We end the day with the early sunset around 17:00 at Plage du Rocher.",
+            "fr": "Un road‑trip hivernal à travers la Vendée commence par un temps frais et givré. L'église Saint-Hilaire et le Musée Automobile sont les premiers points forts vus depuis votre voiture chauffée. À midi, le château de Talmont brille sous le soleil frais. L'après‑midi nous conduit le long des routes côtières solitaires vers les plages. Nous terminons la journée avec le coucher du soleil précoce vers 17:00 à la Plage du Rocher."
           },
           "stops": [
             {
@@ -855,13 +948,15 @@
                 "de": "Église Saint-Hilaire",
                 "hu": "Saint-Hilaire templom",
                 "ro": "Biserica Saint-Hilaire",
-                "en": "Saint-Hilaire Church"
+                "en": "Saint-Hilaire Church",
+                "fr": "Église Saint-Hilaire"
               },
               "tip_5lang": {
                 "de": "Nutzen Sie die Sitzheizung Ihres Autos nach der Besichtigung; die kalte Winterluft in der Kirche macht den Einstieg ins warme Auto besonders angenehm.",
                 "hu": "Használja az autó ülésfűtését a látogatás után; a templom hűvös levegője után különösen jólesik majd visszatérni a meleg és kényelmes utastérbe.",
                 "ro": "Folosește încălzirea în scaune după vizită; aerul rece din biserică face ca revenirea în mașina caldă să fie extrem de plăcută și reconfortantă.",
-                "en": "Make use of your car's seat heating after the visit; the cold air inside the church makes returning to a warm vehicle especially satisfying."
+                "en": "Make use of your car's seat heating after the visit; the cold air inside the church makes returning to a warm vehicle especially satisfying.",
+                "fr": "Utilisez le chauffage des sièges de votre voiture après la visite ; l'air froid à l'intérieur de l'église rend le retour à un véhicule chaud d'autant plus agréable."
               }
             },
             {
@@ -869,13 +964,15 @@
                 "de": "Automobilmuseum der Vendée",
                 "hu": "Vendée Autómúzeum",
                 "ro": "Muzeul Automobilului din Vendée",
-                "en": "Vendée Automobile Museum"
+                "en": "Vendée Automobile Museum",
+                "fr": "Musée Automobile de Vendée"
               },
               "tip_5lang": {
                 "de": "Ein hervorragender Stopp, um sich aufzuwärmen; schlendern Sie entspannt durch die geheizten Hallen und genießen Sie die automobile Pracht im Winter.",
                 "hu": "Kiváló megálló a felmelegedéshez; sétáljon kényelmesen a fűtött csarnokokban, és élvezze az autóipar remekműveit a téli zimankó elől menekülve.",
                 "ro": "O oprire excelentă pentru a te încălzi; plimbă-te relaxat prin halele încălzite și admiră splendoarea automobilelor la adăpost de frigul iernii.",
-                "en": "An excellent stop to warm up; stroll through the heated halls and enjoy the automotive splendor while staying sheltered from the winter chill."
+                "en": "An excellent stop to warm up; stroll through the heated halls and enjoy the automotive splendor while staying sheltered from the winter chill.",
+                "fr": "Un excellent arrêt pour se réchauffer ; flânez dans les salles chauffées et profitez de la splendeur automobile tout en étant à l'abri du froid hivernal."
               }
             },
             {
@@ -883,13 +980,15 @@
                 "de": "Château de Talmont",
                 "hu": "Talmont-kastély",
                 "ro": "Castelul Talmont",
-                "en": "Talmont Castle"
+                "en": "Talmont Castle",
+                "fr": "Château de Talmont"
               },
               "tip_5lang": {
                 "de": "Im Winter ist weniger Betrieb, sodass Sie tolle Fotos der Mauern ohne Menschenmassen machen können; die tiefstehende Sonne beleuchtet die Steine ideal.",
                 "hu": "Télen kisebb a forgalom, így tömeg nélkül készíthet fotókat a falakról; az alacsonyan járó napfény ideálisan világítja meg a vár ódon köveit.",
                 "ro": "Iarna este mai puțină aglomerație, deci poți face poze superbe zidurilor fără turiști; soarele palid luminează ideal pietrele vechi ale cetății.",
-                "en": "There are fewer visitors in winter, allowing for great photos of the walls without crowds; the low sun perfectly illuminates the ancient stones."
+                "en": "There are fewer visitors in winter, allowing for great photos of the walls without crowds; the low sun perfectly illuminates the ancient stones.",
+                "fr": "Il y a moins de visiteurs en hiver, ce qui permet de belles photos des remparts sans foule ; le soleil bas illumine parfaitement les vieilles pierres."
               }
             },
             {
@@ -897,13 +996,15 @@
                 "de": "Plage de Ragounite",
                 "hu": "Plage de Ragounite",
                 "ro": "Plage de Ragounite",
-                "en": "Plage de Ragounite"
+                "en": "Plage de Ragounite",
+                "fr": "Plage de Ragounite"
               },
               "tip_5lang": {
                 "de": "Ein kurzer, stürmischer Strandspaziergang weckt die Lebensgeister; halten Sie Ausschau nach angeschwemmtem Treibholz nach den Winterstürmen am Atlantik.",
                 "hu": "Egy rövid, szeles parti séta felfrissíti az embert; keressen partra vetett uszadékfákat az Atlanti-óceán téli viharai után a homokos partvonalon.",
                 "ro": "O scurtă plimbare vântoasă pe plajă te va revigora; caută lemne aduse de ape după furtunile de iarnă de pe Oceanul Atlantic.",
-                "en": "A short, breezy walk on the beach is very refreshing; look for interesting driftwood washed up after the powerful Atlantic winter storms."
+                "en": "A short, breezy walk on the beach is very refreshing; look for interesting driftwood washed up after the powerful Atlantic winter storms.",
+                "fr": "Une courte promenade venteuse sur la plage est très revigorante ; cherchez des bois flotté intéressants rejetés par les violentes tempêtes hivernales de l'Atlantique."
               }
             },
             {
@@ -911,13 +1012,15 @@
                 "de": "Abbaye du Lieu-Dieu",
                 "hu": "Lieu-Dieu Apátság",
                 "ro": "Abația Lieu-Dieu",
-                "en": "Lieu-Dieu Abbey"
+                "en": "Lieu-Dieu Abbey",
+                "fr": "Abbaye du Lieu-Dieu"
               },
               "tip_5lang": {
                 "de": "Die Architektur wirkt im Winterlicht besonders klar; parken Sie direkt am Gelände, um die kurzen Wege zwischen Auto und Abtei zu nutzen.",
                 "hu": "Az építészet a téli fényben különösen letisztultnak tűnik; parkoljon közvetlenül a terület mellett, hogy kihasználja az autó és az apátság közti távolságot.",
                 "ro": "Arhitectura pare deosebit de clară în lumina de iarnă; parchează direct lângă domeniu pentru a profita de distanța scurtă până la abație.",
-                "en": "The architecture appears especially crisp in the winter light; park directly by the grounds to minimize walking in the cold while visiting the site."
+                "en": "The architecture appears especially crisp in the winter light; park directly by the grounds to minimize walking in the cold while visiting the site.",
+                "fr": "L'architecture paraît particulièrement nette sous la lumière hivernale ; garez‑vous juste à côté des lieux pour minimiser la marche dans le froid pendant la visite."
               }
             },
             {
@@ -925,13 +1028,15 @@
                 "de": "Plage du Rocher",
                 "hu": "Plage du Rocher",
                 "ro": "Plage du Rocher",
-                "en": "Plage du Rocher"
+                "en": "Plage du Rocher",
+                "fr": "Plage du Rocher"
               },
               "tip_5lang": {
                 "de": "Erreichen Sie diesen Punkt vor 17:00 Uhr für den Sonnenuntergang; die Farben des Winterhimmels über dem Meer sind von den Klippen aus einmalig.",
                 "hu": "Érkezzen meg 17:00 előtt a naplementére; a téli égbolt színei az óceán felett a sziklákról nézve páratlan látványt nyújtanak a nap végén.",
                 "ro": "Ajungi aici înainte de ora 17:00 pentru apus; culorile cerului de iarnă peste ocean văzute de pe stânci sunt absolut unice și spectaculoase.",
-                "en": "Arrive here before 17:00 for the sunset; the colors of the winter sky over the ocean are truly unique when viewed from these coastal cliffs."
+                "en": "Arrive here before 17:00 for the sunset; the colors of the winter sky over the ocean are truly unique when viewed from these coastal cliffs.",
+                "fr": "Arrivez ici avant 17:00 pour le coucher du soleil ; les couleurs du ciel d'hiver au-dessus de l'océan sont vraiment uniques vues depuis ces falaises côtières."
               }
             }
           ]

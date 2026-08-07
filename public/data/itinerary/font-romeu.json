@@ -32,7 +32,7 @@
             "hu": "Pompás Belle Époque épület.",
             "ro": "O clădire magnifică din perioada Belle Époque.",
             "en": "A magnificent building from the Belle Époque era.",
-            "fr": "Un bâtiment magnifique de l'époque de la Belle Époque."
+            "fr": "Un bâtiment magnifique de l'époque Belle Époque."
           }
         },
         {
@@ -51,7 +51,7 @@
             "hu": "Egyedülálló szobrok egy fenyőerdőben.",
             "ro": "Sculpturi unice într-o pădure de pini.",
             "en": "Unique sculptures set in a pine forest.",
-            "fr": "Sculptures uniques installées dans une forêt de pins."
+            "fr": "Sculptures uniques installées dans une pinède."
           }
         },
         {
@@ -89,7 +89,7 @@
             "hu": "Nézze meg az aranyozott oltárképet.",
             "ro": "Vizitați altarul aurit de o frumusețe rară.",
             "en": "Visit the gilded altarpiece of rare beauty.",
-            "fr": "Visitez le retable doré d'une rare beauté."
+            "fr": "Visitez le retable doré d'une beauté rare."
           }
         },
         {
@@ -117,7 +117,7 @@
         "hu": "Fedezze fel Font-Romeu-t gyalog, a luxus Grand Hoteltől indulva. Délelőtt a 'Musée Sans Murs' szabadtéri múzeum szobrai között sétálunk. Ebéd után Les Airelles-nél meglátogatjuk a szent Ermitage-t és pompás oltárát. A nap a Kálváriánál zárul, ahonnan belátni az egész Pireneusokat. A művészet, a történelem és a természet ötvözete.",
         "ro": "Descoperiți Font-Romeu la pas, începând de la luxosul Grand Hôtel. Dimineața vă plimbați prin muzeul în aer liber 'Musée Sans Murs'. După prânzul la Les Airelles, vizitați schitul Ermitage cu altarul său fastuos. Ziua se încheie la Calvar cu o vedere largă asupra Pirineilor. Un amestec de artă, istorie și natură.",
         "en": "Explore Font-Romeu on foot, starting from the luxurious Grand Hôtel. In the morning, stroll through the 'Musée Sans Murs' open-air museum. After lunch at Les Airelles, visit the sacred Ermitage and its magnificent altar. The day ends at the Calvary with a vast view over the Pyrenees. A blend of art, history, and nature.",
-        "fr": "Explorez Font-Romeu à pied, en commençant par le luxueux Grand Hôtel. Le matin, flânez dans le « Musée Sans Murs », un musée en plein air. Après un déjeuner aux Airelles, visitez le sacré Ermitage et son magnifique retable. La journée se termine au Calvaire avec une vue imprenable sur les Pyrénées. Un mélange d'art, d'histoire et de nature."
+        "fr": "Explorez Font-Romeu à pied, en partant du luxueux Grand Hôtel. Le matin, flânez dans le « Musée Sans Murs » en plein air. Après le déjeuner aux Airelles, visitez l'Ermitage sacré et son magnifique autel. La journée se termine au Calvaire avec une vaste vue sur les Pyrénées. Un mélange d'art, d'histoire et de nature."
       },
       "gastro_picks": {
         "de": [
@@ -268,7 +268,7 @@
         "fr": [
           "Le climat est très ensoleillé, n'oubliez pas votre crème solaire.",
           "Les sentiers du Musée Sans Murs sont faciles à parcourir.",
-          "Visitez l'Ermitage pour un moment de recueillement paisible.",
+          "Visitez l'Ermitage pour un moment de calme et de recueillement.",
           "Portez des chaussures confortables pour les sentiers forestiers."
         ]
       }
@@ -297,7 +297,7 @@
             "hu": "Induljon a település főteréről.",
             "ro": "Porniți din piața centrală a localității.",
             "en": "Start at the main square of the town.",
-            "fr": "Départ sur la place principale de la ville."
+            "fr": "Commencez sur la place principale du village."
           }
         },
         {
@@ -316,7 +316,7 @@
             "hu": "A napenergia-kutatás futurisztikus jelképe.",
             "ro": "Un simbol futurist al cercetării solare.",
             "en": "A futuristic landmark of solar research.",
-            "fr": "Un emblème futuriste de la recherche solaire."
+            "fr": "Un repère futuriste de la recherche solaire."
           }
         },
         {
@@ -354,7 +354,7 @@
             "hu": "Fárasztó emelkedő, de megéri.",
             "ro": "Urcare solicitantă, dar merită efortul.",
             "en": "Challenging climb, but worth the effort.",
-            "fr": "Montée exigeante, mais l'effort en vaut la peine."
+            "fr": "Montée exigeante, mais qui en vaut la peine."
           }
         },
         {
@@ -373,7 +373,7 @@
             "hu": "Tökéletes hely a pihenésre a hegymenet után.",
             "ro": "Locul perfect pentru odihnă după urcare.",
             "en": "Perfect place for a break after cycling uphill.",
-            "fr": "Endroit parfait pour une pause après avoir pédalé en montée."
+            "fr": "Endroit parfait pour une pause après la montée à vélo."
           }
         }
       ],
@@ -382,7 +382,7 @@
         "hu": "Ez a kerékpártúra összeköti a technikát és a hagyományt. Először legurulunk az Odeillo-i világhírű naperőműhöz. Az ófalu román kori templomának megtekintése után jön a sportos rész: az emelkedő az Ermitage-hoz. A délután Les Airelles-nél zárul, a magashegység kapujában. Élvezze a friss levegőt két keréken.",
         "ro": "Acest tur cu bicicleta îmbină tehnologia și tradiția. Mai întâi coborâți spre cuptorul solar de renume mondial din Odeillo. După o vizită la biserica romanică din centrul vechi, urmează partea sportivă: urcarea spre Ermitage. După-amiaza se încheie relaxat la Les Airelles, poarta către munte. Bucurați-vă de aerul curat pe două roți.",
         "en": "This bike tour combines technology and tradition. First, roll downhill to the world-famous solar furnace of Odeillo. After visiting the Romanesque church in the old village, the sporty part follows: the climb to the Ermitage. The afternoon ends relaxed at Les Airelles, the gateway to the high mountains. Enjoy the fresh air on two wheels.",
-        "fr": "Ce tour à vélo combine technologie et tradition. Tout d'abord, descendez vers le four solaire d'Odeillo, mondialement connu. Après avoir visité l'église romane du vieux village, place à la partie sportive : la montée vers l'Ermitage. L'après-midi se termine en douceur aux Airelles, porte d'entrée de la haute montagne. Profitez de l'air pur sur deux roues."
+        "fr": "Cette balade à vélo combine technologie et tradition. D'abord, descendez jusqu'au four solaire mondialement connu d'Odeillo. Après la visite de l'église romane du vieux village, suit la partie sportive : la montée vers l'Ermitage. L'après-midi se termine en détente aux Airelles, porte d'entrée des hautes montagnes. Profitez de l'air frais à vélo."
       },
       "gastro_picks": {
         "de": [
@@ -511,9 +511,9 @@
           "Always wear a helmet."
         ],
         "fr": [
-          "Les vélos électriques sont recommandés en raison des dénivelés.",
-          "Buvez beaucoup d'water pendant l'effort physique.",
-          "Vérifiez la pression des pneus avant le départ.",
+          "Les vélos à assistance électrique sont recommandés en raison des dénivelés.",
+          "Buvez beaucoup d'eau lors d'efforts physiques.",
+          "Vérifiez la pression des pneus avant la sortie.",
           "Portez toujours un casque."
         ]
       }
@@ -542,7 +542,7 @@
             "hu": "Nagy parkoló közvetlenül a kutatóközpontnál.",
             "ro": "Parcare mare direct la centrul de cercetare.",
             "en": "Large parking area right at the research center.",
-            "fr": "Grand parking juste à côté du centre de recherche."
+            "fr": "Grand parking juste au centre de recherche."
           }
         },
         {
@@ -561,7 +561,7 @@
             "hu": "Álljon meg egy fotóra a homlokzat előtt.",
             "ro": "Opriți scurt pentru fotografii cu fațada.",
             "en": "Stop briefly for photos of the facade.",
-            "fr": "Arrêtez-vous brièvement pour photographier la façade."
+            "fr": "Arrêt bref pour photos de la façade."
           }
         },
         {
@@ -618,7 +618,7 @@
             "hu": "Rövid séta az ódon utcákon.",
             "ro": "Scurtă plimbare pe străzile vechi.",
             "en": "Short walk through the old alleys.",
-            "fr": "Courte promenade dans les vieilles ruelles."
+            "fr": "Courte balade à travers les vieilles ruelles."
           }
         }
       ],
@@ -627,7 +627,7 @@
         "hu": "Autóval időtakarékosan fedezheti fel Font-Romeu környékének látnivalóit. Kezdés az impozáns Odeillo-i naperőműnél, majd a Grand Hotel csodás épülete következik. Délben felhajtunk az Ermitage-hoz, utána pedig az Airelles-fennsíkra a kilátásért. A nap az ódon hangulatú Odeillo faluban zárul.",
         "ro": "Cu mașina descoperiți punctele de atracție din jurul Font-Romeu economisind timp. Începeți la impunătorul cuptor solar din Odeillo, urmat de arhitectura strălucitoare a Grand Hôtel-ului. La prânz urcați spre Ermitage și apoi spre platoul Airelles pentru priveliște. Ziua se încheie în pitorescul sat vechi Odeillo.",
         "en": "By car, you can discover the highlights around Font-Romeu while saving time. Start at the imposing solar furnace of Odeillo, followed by the brilliant architecture of the Grand Hôtel. At midday, drive up to the Ermitage and then to the Airelles plateau to enjoy the view. The day ends in the picturesque old village of Odeillo.",
-        "fr": "En voiture, vous pouvez découvrir les points forts autour de Font-Romeu tout en gagnant du temps. Commencez par l'imposant four solaire d'Odeillo, suivi de l'architecture brillante du Grand Hôtel. À midi, montez à l'Ermitage puis sur le plateau des Airelles pour profiter de la vue. La journée se termine dans le pittoresque vieux village d'Odeillo."
+        "fr": "En voiture, vous pouvez découvrir les incontournables autour de Font-Romeu tout en gagnant du temps. Commencez par l'imposant four solaire d'Odeillo, puis par la brillante architecture du Grand Hôtel. À midi, montez à l'Ermitage puis au plateau des Airelles pour profiter de la vue. La journée se termine dans le pittoresque vieux village d'Odeillo."
       },
       "gastro_picks": {
         "de": [
@@ -759,7 +759,7 @@
           "Les parkings se remplissent vite en haute saison, garez-vous tôt.",
           "Utilisez le grand parking des Airelles.",
           "Les routes de montagne sont bien entretenues mais sinueuses.",
-          "Faites attention aux randonneurs le long de la route."
+          "Attention aux randonneurs le long de la chaussée."
         ]
       }
     },
@@ -806,7 +806,7 @@
             "hu": "Az állomástól transzferrel vagy rövid sétával elérhető.",
             "ro": "Accesibil de la gară cu transfer sau pe jos.",
             "en": "Accessible from the station by shuttle or short walk.",
-            "fr": "Accessible depuis la gare en navette ou par une courte marche."
+            "fr": "Accessible depuis la gare par navette ou courte marche."
           }
         },
         {
@@ -825,7 +825,7 @@
             "hu": "A lüktető központ sok üzlettel.",
             "ro": "Centrul vibrant cu multe magazine.",
             "en": "The vibrant center with many shops.",
-            "fr": "Le centre vibrant avec de nombreux commerces."
+            "fr": "Le centre animé avec de nombreuses boutiques."
           }
         },
         {
@@ -844,7 +844,7 @@
             "hu": "Télen használja az ingyenes síbuszt.",
             "ro": "Folosiți autobuzul gratuit în timpul iernii.",
             "en": "Use the free shuttle bus during winter.",
-            "fr": "Utilisez la navette gratuite pendant l'hiver."
+            "fr": "Utilisez la navette gratuite durant l'hiver."
           }
         }
       ],
@@ -853,7 +853,7 @@
         "hu": "A jó buszközlekedésnek köszönhetően Font-Romeu stresszmentesen bejárható. Érkezés után a futurisztikus naperőműhöz indulunk. Délben a pezsgő városközpontban pihenhetünk egy kávé mellett. Egy helyi transzferbusz délután felvisz Les Airelles-be a sípályákhoz, majd vissza a megállóba. Tökéletes választás egy nyugodt naphoz.",
         "ro": "Datorită legăturilor bune de autobuz, Font-Romeu poate fi explorat fără stres. După sosire, mergeți la cuptorul solar futurist. La prânz petreceți timp în centrul plin de viață cu cafenelele sale. Un transfer local vă duce după-amiaza la Les Airelles pentru o vedere asupra pârtiilor, înainte de a reveni la stație. Perfect pentru o zi relaxată.",
         "en": "Thanks to good bus connections, Font-Romeu can be explored stress-free. After arrival, head to the futuristic solar furnace. At midday, spend time in the lively town center with its cafes. A local shuttle takes you to Les Airelles in the afternoon for a view of the slopes before heading back to the stop. Perfect for a relaxed day.",
-        "fr": "Grâce aux bonnes liaisons de bus, Font-Romeu se découvre sans stress. Après l'arrivée, dirigez-vous vers le futuriste four solaire. À midi, passez du temps dans le centre-ville animé avec ses cafés. Une navette locale vous emmène aux Airelles l'après-midi pour une vue sur les pistes avant de revenir à l'arrêt. Parfait pour une journée détendue."
+        "fr": "Grâce aux bonnes correspondances de bus, Font-Romeu se visite sans stress. Après l'arrivée, dirigez-vous vers le four solaire futuriste. À midi, profitez du centre-ville animé et de ses cafés. Une navette locale vous emmène l'après-midi aux Airelles pour une vue sur les pistes avant de revenir à l'arrêt. Parfait pour une journée détendue."
       },
       "gastro_picks": {
         "de": [
@@ -982,10 +982,10 @@
           "The 'Petit Train Jaune' (Little Yellow Train) is a great arrival alternative."
         ],
         "fr": [
-          "Achetez un pass pour les navettes si vous prévoyez plusieurs trajets.",
+          "Achetez un pass pour les navettes si vous comptez faire plusieurs trajets.",
           "Les bus circulent plus fréquemment en hiver qu'en été.",
-          "Vérifiez l'heure du dernier trajet de retour vers Perpignan.",
-          "Le « Petit Train Jaune » est une excellente alternative pour arriver."
+          "Vérifiez l'heure du dernier retour vers Perpignan.",
+          "Le « Petit Train Jaune » est une excellente alternative d'arrivée."
         ]
       }
     }

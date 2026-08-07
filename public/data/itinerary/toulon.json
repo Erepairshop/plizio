@@ -21,7 +21,8 @@
             "de": "Hafen von Toulon",
             "hu": "Touloni kikötő",
             "ro": "Portul Toulon",
-            "en": "Port of Toulon"
+            "en": "Port of Toulon",
+            "fr": "Port de Toulon"
           },
           "coords": [
             5.932,
@@ -45,7 +46,8 @@
             "de": "Nationales Marinemuseum",
             "hu": "Nemzeti Tengerészeti Múzeum",
             "ro": "Muzeul Național al Marinei",
-            "en": "National Navy Museum"
+            "en": "National Navy Museum",
+            "fr": "Musée national de la Marine"
           },
           "coords": [
             5.928,
@@ -69,7 +71,8 @@
             "de": "Markt am Cours Lafayette",
             "hu": "Cours Lafayette piac",
             "ro": "Piața Cours Lafayette",
-            "en": "Cours Lafayette Market"
+            "en": "Cours Lafayette Market",
+            "fr": "Cours Lafayette Market"
           },
           "coords": [
             5.934,
@@ -85,7 +88,7 @@
             "hu": "Kóstolja meg a 'Cade'-t.",
             "ro": "Gustați specialitatea locală 'Cade'.",
             "en": "Try the local specialty 'Cade'.",
-            "fr": "Goûtez la spécialité locale, la 'Cade'."
+            "fr": "Goûtez la spécialité locale « Cade »."
           }
         },
         {
@@ -93,7 +96,8 @@
             "de": "Kathedrale Sainte-Marie",
             "hu": "Sainte-Marie-de-la-Seds katedrális",
             "ro": "Catedrala Sainte-Marie",
-            "en": "Sainte-Marie Cathedral"
+            "en": "Sainte-Marie Cathedral",
+            "fr": "Sainte‑Marie Cathédrale"
           },
           "coords": [
             5.933,
@@ -109,7 +113,7 @@
             "hu": "Barokk építészet a belső térben.",
             "ro": "Arhitectură barocă în interior.",
             "en": "Baroque architecture inside.",
-            "fr": "Architecture baroque à l'intérieur."
+            "fr": "Architecture baroque à l’intérieur."
           }
         },
         {
@@ -117,7 +121,8 @@
             "de": "Oper von Toulon",
             "hu": "Touloni Operaház",
             "ro": "Opera din Toulon",
-            "en": "Opera of Toulon"
+            "en": "Opera of Toulon",
+            "fr": "Opéra de Toulon"
           },
           "coords": [
             5.931,
@@ -133,7 +138,7 @@
             "hu": "Az egyik legnagyobb operaház.",
             "ro": "Una dintre cele mai mari opere.",
             "en": "One of the largest opera houses.",
-            "fr": "L'un des plus grands opéras de France."
+            "fr": "L’un des plus grands opéras."
           }
         },
         {
@@ -141,7 +146,8 @@
             "de": "Place de la Liberté",
             "hu": "Szabadság tér",
             "ro": "Piața Libertății",
-            "en": "Place de la Liberté"
+            "en": "Place de la Liberté",
+            "fr": "Place de la Liberté"
           },
           "coords": [
             5.93,
@@ -157,7 +163,7 @@
             "hu": "A Föderáció kútja a központban.",
             "ro": "Fântâna Federației în centru.",
             "en": "The Federation Fountain in the center.",
-            "fr": "La fontaine de la Fédération au centre."
+            "fr": "La Fontaine de la Fédération au centre."
           }
         }
       ],
@@ -166,7 +172,7 @@
         "hu": "Kezdje a napot a kikötőben, ahol a tengeri szellő és a haditengerészeti múlt találkozik. A tengerészeti múzeum után merüljön el a provence-i piac illataiban. A délután az építészeté: a katedrálistól a pompás Operaházig jutunk el. Az estét a nyüzsgő Szabadság téren, Toulon szívében zárjuk egy kényelmes vacsorával.",
         "ro": "Începeți ziua în port, unde briza mării se întâlnește cu istoria navală. După muzeul marinei, lăsați-vă purtați de aromele pieței provensale. După-amiaza este dedicată arhitecturii, de la catedrală la impunătoarea Operă. Seara se încheie în Place de la Liberté, inima vibrantă a orașului Toulon.",
         "en": "Start your day at the harbor, where the sea breeze meets naval history. After the naval museum, immerse yourself in the scents of the Provençal market. The afternoon is dedicated to architecture, from the cathedral to the grand Opera House. The evening concludes at the lively Place de la Liberté with a nice dinner.",
-        "fr": "Commencez votre journée au port, où la brise marine rencontre l'histoire navale. Après le musée de la Marine, imprégnez-vous des senteurs du marché provençal. L'après-midi est dédié à l'architecture, de la cathédrale au grand Opéra. La soirée s'achève sur la dynamique Place de la Liberté avec un bon dîner."
+        "fr": "Commencez votre journée au port, où la brise marine rejoint l’histoire navale. Après le musée maritime, imprégnez‑vous des parfums du marché provençal. L’après‑midi est dédié à l’architecture, de la cathédrale au grand Opéra. La soirée se conclut sur la vivante Place de la Liberté pour un bon dîner."
       },
       "gastro_picks": {
         "de": [
@@ -312,8 +318,8 @@
         ],
         "fr": [
           "Des chaussures confortables sont nécessaires pour les pavés de la vieille ville.",
-          "Le marché ferme vers 13h00.",
-          "L'Opéra propose souvent des visites guidées."
+          "Le marché ferme vers 13h.",
+          "L’Opéra propose souvent des visites guidées."
         ]
       },
       "variants": {
@@ -322,7 +328,8 @@
             "de": "Beginnen Sie Ihren Tag am Hafen, wo die Meeresbrise und die Marinegeschichte aufeinandertreffen. Nach einem Besuch im Marinemuseum tauchen Sie in die Düfte des provenzalischen Marktes ein. Der Nachmittag gehört der Architektur, von der Kathedrale bis zur prächtigen Oper. Den Abend lassen Sie am belebten Place de la Liberté ausklingen.",
             "hu": "Kezdje a napot a kikötőben, ahol a tengeri szellő és a haditengerészeti múlt találkozik. A tengerészeti múzeum után merüljön el a provence-i piac illataiban. A délután az építészeté: a katedrálistól a pompás Operaházig jutunk el. Az estét a nyüzsgő Szabadság téren, Toulon szívében zárjuk egy kényelmes vacsorával.",
             "ro": "Începeți ziua în port, unde briza mării se întâlnește cu istoria navală. După muzeul marinei, lăsați-vă purtați de aromele pieței provensale. După-amiaza este dedicată arhitecturii, de la catedrală la impunătoarea Operă. Seara se încheie în Place de la Liberté, inima vibrantă a orașului Toulon.",
-            "en": "Start your day at the harbor, where the sea breeze meets naval history. After the naval museum, immerse yourself in the scents of the Provençal market. The afternoon is dedicated to architecture, from the cathedral to the grand Opera House. The evening concludes at the lively Place de la Liberté with a nice dinner."
+            "en": "Start your day at the harbor, where the sea breeze meets naval history. After the naval museum, immerse yourself in the scents of the Provençal market. The afternoon is dedicated to architecture, from the cathedral to the grand Opera House. The evening concludes at the lively Place de la Liberté with a nice dinner.",
+            "fr": "Commencez votre journée au port, où la brise marine rejoint l’histoire navale. Après le musée maritime, imprégnez‑vous des parfums du marché provençal. L’après‑midi est dédié à l’architecture, de la cathédrale au grand Opéra. La soirée se conclut sur la vivante Place de la Liberté pour un bon dîner."
           },
           "stops": [
             {
@@ -330,13 +337,15 @@
                 "de": "Hafen von Toulon",
                 "hu": "Touloni kikötő",
                 "ro": "Portul Toulon",
-                "en": "Port of Toulon"
+                "en": "Port of Toulon",
+                "fr": "Port de Toulon"
               },
               "tip_5lang": {
                 "de": "Beobachten Sie die Fischerboote.",
                 "hu": "Nézze meg a halászhajókat reggel.",
                 "ro": "Priviți bărcile de pescuit dimineața.",
-                "en": "Watch the fishing boats in the morning."
+                "en": "Watch the fishing boats in the morning.",
+                "fr": "Observez les bateaux de pêche le matin."
               }
             },
             {
@@ -344,13 +353,15 @@
                 "de": "Nationales Marinemuseum",
                 "hu": "Nemzeti Tengerészeti Múzeum",
                 "ro": "Muzeul Național al Marinei",
-                "en": "National Navy Museum"
+                "en": "National Navy Museum",
+                "fr": "Musée national de la Marine"
               },
               "tip_5lang": {
                 "de": "Das Tor von 1738 ist spektakulär.",
                 "hu": "Az 1738-as kapu lenyűgöző látvány.",
                 "ro": "Poarta din 1738 este spectaculoasă.",
-                "en": "The gate from 1738 is spectacular."
+                "en": "The gate from 1738 is spectacular.",
+                "fr": "La porte de 1738 est spectaculaire."
               }
             },
             {
@@ -358,13 +369,15 @@
                 "de": "Markt am Cours Lafayette",
                 "hu": "Cours Lafayette piac",
                 "ro": "Piața Cours Lafayette",
-                "en": "Cours Lafayette Market"
+                "en": "Cours Lafayette Market",
+                "fr": "Cours Lafayette Market"
               },
               "tip_5lang": {
                 "de": "Probieren Sie die 'Cade'.",
                 "hu": "Kóstolja meg a 'Cade'-t.",
                 "ro": "Gustați specialitatea locală 'Cade'.",
-                "en": "Try the local specialty 'Cade'."
+                "en": "Try the local specialty 'Cade'.",
+                "fr": "Goûtez la spécialité locale « Cade »."
               }
             },
             {
@@ -372,13 +385,15 @@
                 "de": "Kathedrale Sainte-Marie",
                 "hu": "Sainte-Marie-de-la-Seds katedrális",
                 "ro": "Catedrala Sainte-Marie",
-                "en": "Sainte-Marie Cathedral"
+                "en": "Sainte-Marie Cathedral",
+                "fr": "Sainte‑Marie Cathédrale"
               },
               "tip_5lang": {
                 "de": "Barocke Architektur im Inneren.",
                 "hu": "Barokk építészet a belső térben.",
                 "ro": "Arhitectură barocă în interior.",
-                "en": "Baroque architecture inside."
+                "en": "Baroque architecture inside.",
+                "fr": "Architecture baroque à l’intérieur."
               }
             },
             {
@@ -386,13 +401,15 @@
                 "de": "Oper von Toulon",
                 "hu": "Touloni Operaház",
                 "ro": "Opera din Toulon",
-                "en": "Opera of Toulon"
+                "en": "Opera of Toulon",
+                "fr": "Opéra de Toulon"
               },
               "tip_5lang": {
                 "de": "Eines der größten Opernhäuser.",
                 "hu": "Az egyik legnagyobb operaház.",
                 "ro": "Una dintre cele mai mari opere.",
-                "en": "One of the largest opera houses."
+                "en": "One of the largest opera houses.",
+                "fr": "L’un des plus grands opéras."
               }
             },
             {
@@ -400,13 +417,15 @@
                 "de": "Place de la Liberté",
                 "hu": "Szabadság tér",
                 "ro": "Piața Libertății",
-                "en": "Place de la Liberté"
+                "en": "Place de la Liberté",
+                "fr": "Place de la Liberté"
               },
               "tip_5lang": {
                 "de": "Der Brunnen der Föderation.",
                 "hu": "A Föderáció kútja a központban.",
                 "ro": "Fântâna Federației în centru.",
-                "en": "The Federation Fountain in the center."
+                "en": "The Federation Fountain in the center.",
+                "fr": "La Fontaine de la Fédération au centre."
               }
             }
           ],
@@ -528,6 +547,11 @@
               "Comfortable shoes are needed for the old town stones.",
               "The market closes around 1 PM.",
               "The Opera house often offers guided tours."
+            ],
+            "fr": [
+              "Des chaussures confortables sont nécessaires pour les pavés de la vieille ville.",
+              "Le marché ferme vers 13h.",
+              "L’Opéra propose souvent des visites guidées."
             ]
           }
         },
@@ -537,7 +561,7 @@
             "hu": "Kezdje a napot a kikötőben, ahol az esőfelhők különleges hangulatot árasztanak. A Haditengerészeti Múzeum tökéletes menedék a záporok elől. Délben a Cours Lafayette piac sátrai alatt kóstolhatja meg a helyi finomságokat. A délutánt a csodás Operaház védelmében töltse, majd a kivilágított Place de la Liberté környékén, egy kellemes kávézóban fejezze be a városnézést.",
             "ro": "Începeți ziua în port, unde norii de ploaie creează o atmosferă dramatică peste navele de război. Muzeul Marinei oferă adăpostul ideal împotriva intemperiilor. La prânz, piața Cours Lafayette vă protejează sub copertinele sale în timp ce degustați produse locale. După-amiaza este dedicată Operei, un spațiu cultural rafinat, iar seara se încheie relaxat lângă Place de la Liberté.",
             "en": "Start your day at the harbor, where rain clouds add drama to the naval scenery. The Navy Museum provides a perfect refuge from the showers. At noon, the awnings of the Cours Lafayette market keep you dry while tasting local treats. Spend the afternoon inside the grand Opera house, and conclude your rainy day at the illuminated Place de la Liberté in a cozy nearby cafe.",
-            "fr": "Commencez votre journée au port, où les nuages de pluie ajoutent du drame au paysage naval. Le musée de la Marine offre un refuge parfait. À midi, les auvents du marché du Cours Lafayette vous gardent au sec pendant la dégustation. Passez l'après-midi à l'Opéra et terminez votre journée pluvieuse sur la Place de la Liberté illuminée dans un café chaleureux."
+            "fr": "Commencez votre journée au port, où les nuages de pluie ajoutent du drame au paysage naval. Le Musée de la Marine offre un refuge parfait contre les averses. À midi, les auvents du marché du Cours Lafayette vous gardent au sec tout en dégustant des spécialités locales. Passez l’après-midi à l’intérieur du grand Opéra, et concluez votre journée pluvieuse sur la Place de la Liberté illuminée dans un café cosy à proximité."
           },
           "stops": [
             {
@@ -547,7 +571,7 @@
                 "hu": "Figyelje a kompok érkezését az árkádok védelméből.",
                 "ro": "Urmăriți feriboturile sub protecția arcadelor din port.",
                 "en": "Watch the ferries dock from the shelter of the harbor arcades.",
-                "fr": "Regardez les ferries accoster à l'abri des arcades du port."
+                "fr": "Regardez les ferries accoster à l’abri des arcades du port."
               }
             },
             {
@@ -557,7 +581,7 @@
                 "hu": "Ideális helyszín az eső elöli menedékre a makettek között.",
                 "ro": "Locul perfect pentru a scăpa de ploaie printre machete.",
                 "en": "Perfect spot to stay dry while exploring maritime history.",
-                "fr": "L'endroit idéal pour rester au sec tout en explorant l'histoire maritime."
+                "fr": "Endroit idéal pour rester au sec en explorant l’histoire maritime."
               }
             },
             {
@@ -567,7 +591,7 @@
                 "hu": "Sok árus rendelkezik esővédő tetővel a standja felett.",
                 "ro": "Mulți comercianți au copertine rezistente la ploaie.",
                 "en": "Many vendors have rain-proof covers for their stalls.",
-                "fr": "De nombreux vendeurs ont des bâches imperméables pour leurs étals."
+                "fr": "De nombreux vendeurs ont des couvertures imperméables pour leurs stands."
               }
             },
             {
@@ -577,7 +601,7 @@
                 "hu": "Élvezze a csendet és a védelmet a vastag falak között.",
                 "ro": "Bucurați-vă de liniște și protecție între zidurile groase.",
                 "en": "Enjoy the silence and protection within the thick walls.",
-                "fr": "Profitez du silence et de la protection à l'abri des murs épais."
+                "fr": "Appréciez le silence et la protection à l’intérieur des murs épais."
               }
             },
             {
@@ -587,7 +611,7 @@
                 "hu": "Foglaljon tárlatvezetést, hogy bent maradjon a szárazon.",
                 "ro": "Rezervați un tur ghidat pentru a rămâne la adăpost.",
                 "en": "Book a guided tour to stay indoors and out of the rain.",
-                "fr": "Réservez une visite guidée pour rester à l'intérieur."
+                "fr": "Réservez une visite guidée pour rester à l’intérieur et à l’abri de la pluie."
               }
             },
             {
@@ -597,7 +621,7 @@
                 "hu": "A tér körüli kávézók hangulatos belső tereket kínálnak.",
                 "ro": "Cafenelele din jurul pieței oferă locuri primitoare la interior.",
                 "en": "Cafes around the square offer cozy indoor seating.",
-                "fr": "Les cafés autour de la place offrent des places confortables à l'intérieur."
+                "fr": "Les cafés autour de la place offrent des sièges intérieurs confortables."
               }
             }
           ],
@@ -631,11 +655,11 @@
               "A sturdy umbrella is essential due to frequent windy rain."
             ],
             "fr": [
-              "Utilisez les passages entre les bâtiments pour rester au sec.",
-              "Les arcades du port sont idéales pour marcher sans se mouiller.",
-              "Les nombreux musées de Toulon sont d'excellents refuges pendant la pluie.",
+              "Utilisez les passages entre les bâtiments comme raccourcis pour rester au sec.",
+              "Les arcades du port sont idéales pour se promener sans se mouiller.",
+              "Les nombreux musées de Toulon sont d’excellents refuges par temps de pluie.",
               "Portez des chaussures antidérapantes car les pavés peuvent devenir glissants.",
-              "Un parapluie solide est essentiel en raison de la pluie souvent ventée."
+              "Un parapluie solide est essentiel en raison des pluies souvent venteuses."
             ]
           }
         },
@@ -645,7 +669,7 @@
             "hu": "A tiszta téli reggel a kikötőben frissítő, ahogy a nap alacsonyan jár. A Haditengerészeti Múzeum után a piaci látogatás friss soccával melegíti fel. Látogassa meg a székesegyházat egy pillanatnyi elcsendesedésre a lágy fényekben. Kora délután az Operaház ragyog a téli napsütésben, mielőtt az estét a Place de la Liberté fényeiben zárná.",
             "ro": "O dimineață senină de iarnă în port revigorează simțurile sub soarele blând. După Muzeul Marinei, piața vă încălzește cu o socca proaspătă și arome locale. Vizitați catedrala pentru un moment de liniște în lumina difuză a iernii. După-amiaza, Opera strălucește în soarele auriu, iar seara se încheie sub luminile festive din Place de la Liberté.",
             "en": "A crisp winter morning at the harbor invigorates the senses as the sun sits low. After the Navy Museum, a market visit warms you up with fresh socca. Visit the cathedral for a quiet moment in the soft winter light. In the early afternoon, the Opera glows in the golden sun, before ending your day under the festive lights of Place de la Liberté.",
-            "fr": "Un matin d'hiver tonifiant au port éveille les sens sous un soleil bas. Après le musée de la Marine, une visite au marché vous réchauffera avec une socca fraîche. Visitez la cathédrale pour un moment de calme dans la douce lumière hivernale. En début d'après-midi, l'Opéra brille sous le soleil doré, avant de finir sous les lumières festives de la Place de la Liberté."
+            "fr": "Un matin d’hiver vif au port régénère les sens tandis que le soleil est bas. Après le Musée de la Marine, une visite au marché vous réchauffe avec de la socca fraîche. Visitez la cathédrale pour un moment de calme dans la douce lumière d’hiver. En début d’après‑midi, l’Opéra s’illumine d’un soleil doré, avant de terminer votre journée sous les lumières festives de la Place de la Liberté."
           },
           "stops": [
             {
@@ -655,7 +679,7 @@
                 "hu": "Élvezze a tiszta kilátást a hajókra a nyári tömeg nélkül.",
                 "ro": "Bucurați-vă de vederea clară spre nave fără aglomerația verii.",
                 "en": "Enjoy the clear views of the ships without the summer crowds.",
-                "fr": "Profitez d'une vue dégagée sur les navires sans la foule estivale."
+                "fr": "Profitez des vues dégagées sur les navires sans les foules estivales."
               }
             },
             {
@@ -665,7 +689,7 @@
                 "hu": "Jól fűtött helyszín a flotta történelmének felfedezéséhez.",
                 "ro": "Un spațiu bine încălzit pentru a explora istoria flotei.",
                 "en": "A well-heated space to explore the history of the fleet.",
-                "fr": "Un espace bien chauffé pour explorer l'histoire de la flotte."
+                "fr": "Un espace bien chauffé pour explorer l’histoire de la flotte."
               }
             },
             {
@@ -675,7 +699,7 @@
                 "hu": "Kóstoljon forró gesztenyét vagy soccát a felmelegedéshez.",
                 "ro": "Gustați castane coapte sau socca caldă pentru încălzire.",
                 "en": "Try hot chestnuts or fresh socca to warm up your hands.",
-                "fr": "Goûtez des marrons chauds ou une socca fraîche pour vous réchauffer."
+                "fr": "Goûtez des marrons chauds ou de la socca fraîche pour vous réchauffer les mains."
               }
             },
             {
@@ -685,7 +709,7 @@
                 "hu": "Keresse a betlehemi jászol kiállításokat karácsony idején.",
                 "ro": "Căutați expozițiile de tip iesle în perioada Crăciunului.",
                 "en": "Look for the Nativity displays during the Christmas season.",
-                "fr": "Cherchez les crèches de Noël pendant la période des fêtes."
+                "fr": "Cherchez les crèches pendant la période de Noël."
               }
             },
             {
@@ -695,7 +719,7 @@
                 "hu": "Ellenőrizze a téli délutáni koncertek műsorát az Operában.",
                 "ro": "Verificați programul pentru concerte de iarnă după-amiaza.",
                 "en": "Check the schedule for winter afternoon concerts at the Opera.",
-                "fr": "Consultez le programme des concerts d'après-midi d'hiver à l'Opéra."
+                "fr": "Consultez le programme des concerts d’après‑midi en hiver à l’Opéra."
               }
             },
             {
@@ -705,7 +729,7 @@
                 "hu": "A tér télen gyakran ünnepi díszkivilágításban ragyog.",
                 "ro": "Piața este adesea decorată cu lumini festive pe timp de iarnă.",
                 "en": "The square is often beautifully lit with festive lights in winter.",
-                "fr": "La place est souvent magnifiquement illuminée pour les fêtes en hiver."
+                "fr": "La place est souvent magnifiquement illuminée de décorations festives en hiver."
               }
             }
           ],
@@ -739,11 +763,11 @@
               "Museums are much less crowded during the winter months."
             ],
             "fr": [
-              "Le coucher du soleil a lieu vers 17h00 en hiver, prévoyez en conséquence.",
-              "À midi, il fait souvent agréablement doux en plein soleil.",
+              "Le coucher du soleil a lieu vers 17:00 en hiver, prévoyez en conséquence.",
+              "À midi, il fait souvent agréablement doux au soleil direct.",
               "Superposez vos vêtements pour vous protéger du mistral frais.",
-              "Savourez un chocolat chaud dans l'un des cafés du port.",
-              "Les musées sont beaucoup moins fréquentés pendant les mois d'hiver."
+              "Savourez un chocolat chaud dans l’un des cafés au bord du port.",
+              "Les musées sont bien moins fréquentés durant les mois d’hiver."
             ]
           }
         }
@@ -762,7 +786,8 @@
             "de": "Hafen von Toulon",
             "hu": "Touloni kikötő",
             "ro": "Portul Toulon",
-            "en": "Port of Toulon"
+            "en": "Port of Toulon",
+            "fr": "Port de Toulon"
           },
           "coords": [
             5.932,
@@ -786,7 +811,8 @@
             "de": "Tour Royale",
             "hu": "Királyi Torony",
             "ro": "Turnul Regal",
-            "en": "Tour Royale"
+            "en": "Tour Royale",
+            "fr": "Tour Royale"
           },
           "coords": [
             5.935,
@@ -810,7 +836,8 @@
             "de": "Strände von Mourillon",
             "hu": "Mourillon strandok",
             "ro": "Plajele Mourillon",
-            "en": "Mourillon Beaches"
+            "en": "Mourillon Beaches",
+            "fr": "Plages du Mourillon"
           },
           "coords": [
             5.95,
@@ -834,7 +861,8 @@
             "de": "Anse de Magaud",
             "hu": "Magaud öböl",
             "ro": "Anse de Magaud",
-            "en": "Anse de Magaud"
+            "en": "Anse de Magaud",
+            "fr": "Anse de Magaud"
           },
           "coords": [
             5.975,
@@ -858,7 +886,8 @@
             "de": "Port de Plaisance",
             "hu": "Szabadidős kikötő",
             "ro": "Port de Plaisance",
-            "en": "Port de Plaisance"
+            "en": "Port de Plaisance",
+            "fr": "Port de Plaisance"
           },
           "coords": [
             5.935,
@@ -874,7 +903,7 @@
             "hu": "Parkolja le a bringát egy fagyira.",
             "ro": "Parcați bicicleta pentru o înghețată.",
             "en": "Park your bike for an ice cream.",
-            "fr": "Garez votre vélo pour une glace."
+            "fr": "Garez votre vélo pour prendre une glace."
           }
         }
       ],
@@ -883,7 +912,7 @@
         "hu": "Tekerjen végig Toulon partvidékén. A történelmi Királyi Toronytól az út a családbarát Mourillon strandokhoz vezet. Keletebbre haladva rejtett öblöket és kristálytiszta vizet fedezhet fel, mielőtt visszatérne a jachtkikötőbe.",
         "ro": "Pedalați de-a lungul coastei din Toulon. De la Turnul Regal, traseul duce spre plajele prietenoase din Mourillon. Mergând spre est, veți descoperi golfuri ascunse și apă cristalină, înainte de a reveni la port.",
         "en": "Cycle along the coast of Toulon. From the historic Tour Royale, the path leads to the family-friendly Mourillon beaches. Heading further east, you will discover hidden coves with clear water before returning to the marina.",
-        "fr": "Pédalez le long de la côte toulonnaise. De l'historique Tour Royale, le sentier mène aux plages du Mourillon, idéales pour les familles. En allant plus à l'est, vous découvrirez des criques cachées aux eaux cristallines avant de revenir à la marina."
+        "fr": "Parcourez la côte de Toulon à vélo. Depuis la historique Tour Royale, le chemin mène aux plages familiales du Mourillon. En continuant vers l’est, vous découvrirez des criques cachées aux eaux claires avant de revenir à la marina."
       },
       "gastro_picks": {
         "de": [
@@ -1008,9 +1037,9 @@
           "Bring snorkeling gear for the coves."
         ],
         "fr": [
-          "Le sentier côtier est plat et bien entretenu.",
-          "Attention aux vents forts (Mistral).",
-          "Apportez un équipement de snorkeling pour les criques."
+          "Le chemin côtier est plat et bien entretenu.",
+          "Soyez attentif aux vents forts (mistral).",
+          "Apportez votre équipement de snorkeling pour les criques."
         ]
       },
       "variants": {
@@ -1019,7 +1048,8 @@
             "de": "Radeln Sie entlang der Küste von Toulon. Von der historischen Tour Royale führt der Weg zu den familienfreundlichen Mourillon-Stränden. Weiter östlich entdecken Sie versteckte Buchten mit klarem Wasser, bevor Sie entspannt zum Yachthafen zurückkehren.",
             "hu": "Tekerjen végig Toulon partvidékén. A történelmi Királyi Toronytól az út a családbarát Mourillon strandokhoz vezet. Keletebbre haladva rejtett öblöket és kristálytiszta vizet fedezhet fel, mielőtt visszatérne a jachtkikötőbe.",
             "ro": "Pedalați de-a lungul coastei din Toulon. De la Turnul Regal, traseul duce spre plajele prietenoase din Mourillon. Mergând spre est, veți descoperi golfuri ascunse și apă cristalină, înainte de a reveni la port.",
-            "en": "Cycle along the coast of Toulon. From the historic Tour Royale, the path leads to the family-friendly Mourillon beaches. Heading further east, you will discover hidden coves with clear water before returning to the marina."
+            "en": "Cycle along the coast of Toulon. From the historic Tour Royale, the path leads to the family-friendly Mourillon beaches. Heading further east, you will discover hidden coves with clear water before returning to the marina.",
+            "fr": "Parcourez la côte de Toulon à vélo. Depuis la historique Tour Royale, le chemin mène aux plages familiales du Mourillon. En continuant vers l’est, vous découvrirez des criques cachées aux eaux claires avant de revenir à la marina."
           },
           "stops": [
             {
@@ -1027,13 +1057,15 @@
                 "de": "Hafen von Toulon",
                 "hu": "Touloni kikötő",
                 "ro": "Portul Toulon",
-                "en": "Port of Toulon"
+                "en": "Port of Toulon",
+                "fr": "Port de Toulon"
               },
               "tip_5lang": {
                 "de": "Startpunkt an der Uferpromenade.",
                 "hu": "Indulópont a vízparti sétányon.",
                 "ro": "Punct de plecare pe faleză.",
-                "en": "Starting point on the waterfront."
+                "en": "Starting point on the waterfront.",
+                "fr": "Point de départ sur le front de mer."
               }
             },
             {
@@ -1041,13 +1073,15 @@
                 "de": "Tour Royale",
                 "hu": "Királyi Torony",
                 "ro": "Turnul Regal",
-                "en": "Tour Royale"
+                "en": "Tour Royale",
+                "fr": "Tour Royale"
               },
               "tip_5lang": {
                 "de": "Historische Festung am Meer.",
                 "hu": "Történelmi erőd a tengerparton.",
                 "ro": "Fortăreață istorică la malul mării.",
-                "en": "Historic fortress by the sea."
+                "en": "Historic fortress by the sea.",
+                "fr": "Forteresse historique au bord de la mer."
               }
             },
             {
@@ -1055,13 +1089,15 @@
                 "de": "Strände von Mourillon",
                 "hu": "Mourillon strandok",
                 "ro": "Plajele Mourillon",
-                "en": "Mourillon Beaches"
+                "en": "Mourillon Beaches",
+                "fr": "Plages du Mourillon"
               },
               "tip_5lang": {
                 "de": "Perfekt für eine Mittagspause.",
                 "hu": "Tökéletes hely az ebédszünethez.",
                 "ro": "Loc perfect pentru pauza de prânz.",
-                "en": "Perfect spot for a lunch break."
+                "en": "Perfect spot for a lunch break.",
+                "fr": "Endroit parfait pour une pause déjeuner."
               }
             },
             {
@@ -1069,13 +1105,15 @@
                 "de": "Anse de Magaud",
                 "hu": "Magaud öböl",
                 "ro": "Anse de Magaud",
-                "en": "Anse de Magaud"
+                "en": "Anse de Magaud",
+                "fr": "Anse de Magaud"
               },
               "tip_5lang": {
                 "de": "Kristallklares Wasser.",
                 "hu": "Kristálytiszta víz és sziklák.",
                 "ro": "Apă de cristal și stânci.",
-                "en": "Crystal clear water and rocks."
+                "en": "Crystal clear water and rocks.",
+                "fr": "Eau cristalline et rochers."
               }
             },
             {
@@ -1083,13 +1121,15 @@
                 "de": "Port de Plaisance",
                 "hu": "Szabadidős kikötő",
                 "ro": "Port de Plaisance",
-                "en": "Port de Plaisance"
+                "en": "Port de Plaisance",
+                "fr": "Port de Plaisance"
               },
               "tip_5lang": {
                 "de": "Fahrrad abstellen und Eis essen.",
                 "hu": "Parkolja le a bringát egy fagyira.",
                 "ro": "Parcați bicicleta pentru o înghețată.",
-                "en": "Park your bike for an ice cream."
+                "en": "Park your bike for an ice cream.",
+                "fr": "Garez votre vélo pour prendre une glace."
               }
             }
           ],
@@ -1195,6 +1235,11 @@
               "The coastal path is flat and well-maintained.",
               "Watch out for strong winds (Mistral).",
               "Bring snorkeling gear for the coves."
+            ],
+            "fr": [
+              "Le chemin côtier est plat et bien entretenu.",
+              "Faites attention aux vents forts (mistral).",
+              "Apportez votre matériel de snorkeling pour les criques."
             ]
           }
         },
@@ -1204,7 +1249,7 @@
             "hu": "Óvatosan tekerjen a kikötő mentén, amikor csillog az aszfalt. A Tour Royale történelmi megállót kínál, mielőtt elérné a partot. Délben a Mourillon strandjainál a hullámverés esőben különösen vad és szép. Délután az út az Anse de Magaud felé vezet, ahol a természet fellélegzik az esőben, végül a Port de Plaisance-nál zárul egy meleg ital mellett.",
             "ro": "Pedalați cu atenție de-a lungul portului când asfaltul strălucește. Tour Royale oferă o oprire istorică înainte de a ajunge pe coastă. La prânz, pe plajele Mourillon, valurile sunt deosebit de spectaculoase pe ploaie. După-amiaza, drumul continuă spre Anse de Magaud, unde natura respiră sub stropi, și se termină la Port de Plaisance.",
             "en": "Cycle carefully along the harbor when the asphalt glistens. Tour Royale offers a historic stop before you hit the coast. At noon at Mourillon Beaches, the surf is particularly wild and beautiful in the rain. In the afternoon, the path leads to Anse de Magaud where nature breathes in the rain, ending with a warm drink at Port de Plaisance.",
-            "fr": "Pédalez prudemment le long du port quand l'asphalte brille. La Tour Royale offre une étape historique avant de rejoindre la côte. À midi aux plages du Mourillon, le ressac est particulièrement sauvage et beau sous la pluie. L'après-midi, le sentier mène à l'Anse de Magaud où la nature respire sous la pluie, pour finir par une boisson chaude au Port de Plaisance."
+            "fr": "Pédalez prudemment le long du port quand l’asphalte scintille. La Tour Royale offre une halte historique avant d’atteindre la côte. À midi, aux plages du Mourillon, la houle est particulièrement sauvage et belle sous la pluie. L’après‑midi, le chemin mène à l’Anse de Magaud où la nature respire sous la pluie, pour finir par une boisson chaude au Port de Plaisance."
           },
           "stops": [
             {
@@ -1214,7 +1259,7 @@
                 "hu": "Vigyázzon a kikötői vágányokkal, esőben nagyon csúsznak.",
                 "ro": "Atenție la șinele din port, acestea devin alunecoase pe ploaie.",
                 "en": "Watch out for harbor tracks; they are slippery when wet.",
-                "fr": "Attention aux rails sur le port ; ils sont glissants lorsqu'ils sont mouillés."
+                "fr": "Attention aux rails du port ; ils sont glissants lorsqu’ils sont mouillés."
               }
             },
             {
@@ -1224,7 +1269,7 @@
                 "hu": "Az erőd kőpadlója esőben csúszós lehet.",
                 "ro": "Podeaua de piatră a fortului poate fi alunecoasă pe ploaie.",
                 "en": "The stone floor of the fortress can be slippery in the rain.",
-                "fr": "Le sol en pierre de la forteresse peut être glissant sous la pluie."
+                "fr": "Le sol en pierre de la forteresse peut devenir glissant sous la pluie."
               }
             },
             {
@@ -1234,7 +1279,7 @@
                 "hu": "A pavilonok alatt menedéket találhat a heves záporok elől.",
                 "ro": "Găsiți adăpost sub pavilioane în timpul averselor puternice.",
                 "en": "Find shelter under the pavilions during heavy showers.",
-                "fr": "Trouvez refuge sous les pavillons pendant les fortes averses."
+                "fr": "Trouvez un abri sous les pavillons pendant les fortes averses."
               }
             },
             {
@@ -1244,7 +1289,7 @@
                 "hu": "A parti ösvény nedves időben fokozott figyelmet igényel.",
                 "ro": "Poteca de coastă necesită atenție sporită pe vreme umedă.",
                 "en": "The coastal path requires extra concentration when wet.",
-                "fr": "Le sentier côtier demande une concentration supplémentaire quand il est mouillé."
+                "fr": "Le chemin côtier exige une attention accrue lorsqu’il est humide."
               }
             },
             {
@@ -1254,7 +1299,7 @@
                 "hu": "Keressen fedett teraszos kávézót a bringának is.",
                 "ro": "Căutați o cafenea cu terasă acoperită pentru bicicletă.",
                 "en": "Look for a cafe with a covered terrace for your bike too.",
-                "fr": "Cherchez un café avec une terrasse couverte pour vous et votre vélo."
+                "fr": "Cherchez un café avec terrasse couverte pour votre vélo également."
               }
             }
           ],
@@ -1291,8 +1336,8 @@
               "Évitez les flaques car elles peuvent cacher des nids-de-poule profonds.",
               "Vérifiez vos freins avant de partir sous la pluie.",
               "Portez des vêtements clairs ou réfléchissants pour une meilleure visibilité.",
-              "Un garde-boue vous protégera des éclaboussures d'eau par le bas.",
-              "Les sentiers côtiers sont souvent solitaires et calmes sous la pluie."
+              "Un garde-boue vous protégera des projections d’eau par en dessous.",
+              "Les chemins côtiers sont souvent solitaires et calmes pendant la pluie."
             ]
           }
         },
@@ -1302,7 +1347,7 @@
             "hu": "Kezdje téli túráját a kikötőben a friss szellőben és tiszta égbolt alatt. A Tour Royale védelmet nyújt a szél elől a parti tekerés előtt. Délben a Mourillon strandjai pihenésre csábítanak a téli napsütésben, még ha a fürdés el is marad. Az út az Anse de Magaud felé lenyűgöző kilátást nyújt a sötétkék tengerre, majd a nap kellemesen zárul a kikötőben.",
             "ro": "Începeți tura de iarnă în port sub briza proaspătă și cerul senin. Tour Royale oferă adăpost contra vântului înainte de a pedala pe coastă. La prânz, plajele Mourillon vă invită la soare, chiar dacă scăldatul nu e posibil. Drumul spre Anse de Magaud oferă vederi spectaculoase spre marea albastră, iar ziua se încheie liniștit în port.",
             "en": "Start your winter bike tour at the harbor with a fresh breeze and clear skies. Tour Royale provides wind protection before you cycle along the coast. At noon, Mourillon Beaches invite you to relax in the winter sun, even if swimming is out. The ride to Anse de Magaud offers spectacular views of the deep blue sea, before a cozy finish at the harbor.",
-            "fr": "Commencez votre tour à vélo hivernal au port avec une brise fraîche et un ciel dégagé. La Tour Royale offre une protection contre le vent avant de longer la côte. À midi, les plages du Mourillon invitent à la détente au soleil d'hiver, même sans baignade. La balade vers l'Anse de Magaud offre des vues spectaculaires sur la mer d'un bleu profond."
+            "fr": "Commencez votre randonnée à vélo hivernale au port avec une brise fraîche et un ciel dégagé. La Tour Royale protège du vent avant que vous ne longiez la côte. À midi, les plages du Mourillon vous invitent à vous détendre au soleil d’hiver, même si la baignade est déconseillée. La route vers l’Anse de Magaud offre des vues spectaculaires sur la mer d’un bleu profond, avant une fin cosy au port."
           },
           "stops": [
             {
@@ -1312,7 +1357,7 @@
                 "hu": "A kesztyű elengedhetetlen a kora reggeli tekeréshez.",
                 "ro": "Mănușile sunt esențiale pentru plimbarea de dimineață.",
                 "en": "Gloves are essential for an early morning winter ride.",
-                "fr": "Les gants sont essentiels pour une balade hivernale tôt le matin."
+                "fr": "Des gants sont essentiels pour une sortie hivernale matinale à vélo."
               }
             },
             {
@@ -1332,7 +1377,7 @@
                 "hu": "Élvezze a pikniket az enyhe déli napsütésben.",
                 "ro": "Bucurați-vă de un picnic la soarele blând de la amiază.",
                 "en": "Enjoy a picnic in the mild midday winter sun.",
-                "fr": "Profitez d'un pique-nique sous le doux soleil d'hiver à midi."
+                "fr": "Profitez d’un pique-nique sous le doux soleil de midi en hiver."
               }
             },
             {
@@ -1352,7 +1397,7 @@
                 "hu": "Kényeztesse magát egy forró teával a hűvös út után.",
                 "ro": "Răsfățați-vă cu un ceai cald după plimbarea răcoroasă.",
                 "en": "Treat yourself to a hot tea after the cool winter ride.",
-                "fr": "Offrez-vous un thé chaud après cette balade hivernale fraîche."
+                "fr": "Offrez-vous un thé chaud après la fraîcheur de la balade hivernale."
               }
             }
           ],
@@ -1386,11 +1431,11 @@
               "Paths are significantly less crowded during the winter."
             ],
             "fr": [
-              "Le mistral peut rendre le cyclisme sur la côte difficile.",
-              "Profitez des heures de midi plus chaudes pour les longues distances.",
-              "Un tour de cou protège contre la brise marine fraîche.",
-              "Soyez attentif à la durée du jour plus courte en hiver.",
-              "Les sentiers sont nettement moins fréquentés pendant l'hiver."
+              "Le mistral peut rendre le vélo le long de la côte difficile.",
+              "Utilisez les heures plus chaudes de la mi‑journée pour les distances plus longues.",
+              "Un tour de cou protège contre la brise fraîche de mer.",
+              "Tenez compte des journées plus courtes en hiver.",
+              "Les chemins sont nettement moins fréquentés pendant l’hiver."
             ]
           }
         }
@@ -1409,7 +1454,8 @@
             "de": "Gipfel des Mont Faron",
             "hu": "Mont Faron csúcs",
             "ro": "Vârful Mont Faron",
-            "en": "Mont Faron Summit"
+            "en": "Mont Faron Summit",
+            "fr": "Sommet du Mont Faron"
           },
           "coords": [
             5.93,
@@ -1425,7 +1471,7 @@
             "hu": "Látványos hegyi út a csúcsig.",
             "ro": "Drum montan spectaculos spre vârf.",
             "en": "Spectacular mountain road to the top.",
-            "fr": "Route de montagne spectaculaire vers le sommet."
+            "fr": "Route de montagne spectaculaire jusqu’au sommet."
           }
         },
         {
@@ -1433,7 +1479,8 @@
             "de": "Strände von Mourillon",
             "hu": "Mourillon strandok",
             "ro": "Plajele Mourillon",
-            "en": "Mourillon Beaches"
+            "en": "Mourillon Beaches",
+            "fr": "Plages du Mourillon"
           },
           "coords": [
             5.95,
@@ -1457,7 +1504,8 @@
             "de": "Sanary-sur-Mer",
             "hu": "Sanary-sur-Mer",
             "ro": "Sanary-sur-Mer",
-            "en": "Sanary-sur-Mer"
+            "en": "Sanary-sur-Mer",
+            "fr": "Sanary-sur-Mer"
           },
           "coords": [
             5.802,
@@ -1473,7 +1521,7 @@
             "hu": "Az egyik legszebb halászfalu.",
             "ro": "Unul dintre cele mai frumoase sate de pescari.",
             "en": "One of the most beautiful fishing villages.",
-            "fr": "L'un des plus beaux villages de pêcheurs."
+            "fr": "L’un des plus beaux villages de pêcheurs."
           }
         },
         {
@@ -1481,7 +1529,8 @@
             "de": "Hafen von Toulon",
             "hu": "Touloni kikötő",
             "ro": "Portul Toulon",
-            "en": "Port of Toulon"
+            "en": "Port of Toulon",
+            "fr": "Port de Toulon"
           },
           "coords": [
             5.932,
@@ -1497,7 +1546,7 @@
             "hu": "Esti séta a rakparton.",
             "ro": "Plimbare de seară pe chei.",
             "en": "Evening walk at the quay.",
-            "fr": "Promenade du soir sur le quai."
+            "fr": "Promenade du soir le long du quai."
           }
         }
       ],
@@ -1506,7 +1555,7 @@
         "hu": "Autóval először a Mont Faronra hajtunk fel a legjobb panorámáért. Ezután a Mourillon strandjai következnek egy tengerparti ebédhez. A délutánt a bájos szomszédos városban, Sanary-sur-Merben töltjük, mielőtt visszaérnénk Toulonba.",
         "ro": "Cu mașina, urcați mai întâi pe Mont Faron pentru cea mai bună panoramă. Urmează Mourillon pentru un prânz la malul mării. După-amiaza o petreceți în fermecătorul oraș vecin Sanary-sur-Mer, înainte de a reveni în Toulon.",
         "en": "By car, first climb Mont Faron for the best panorama over the bay. Then head to Mourillon for a seaside lunch. Spend the afternoon in the charming neighboring town of Sanary-sur-Mer before returning to Toulon.",
-        "fr": "En voiture, montez d'abord au Mont Faron pour le meilleur panorama sur la rade. Dirigez-vous ensuite vers le Mourillon pour un déjeuner en bord de mer. Passez l'après-midi dans le charmant village voisin de Sanary-sur-Mer avant de revenir à Toulon."
+        "fr": "En voiture, montez d’abord au Mont Faron pour le meilleur panorama sur la baie. Ensuite, dirigez-vous vers le Mourillon pour un déjeuner en bord de mer. Passez l’après‑midi dans la charmante ville voisine de Sanary-sur-Mer avant de retourner à Toulon."
       },
       "gastro_picks": {
         "de": [
@@ -1631,9 +1680,9 @@
           "Use the parking garages in the center."
         ],
         "fr": [
-          "La route du Mont Faron est à sens unique (montée et descente séparées).",
-          "Se garer à Sanary est difficile en été.",
-          "Utilisez les parkings souterrains du centre-ville."
+          "La route du Mont Faron est à sens unique (montée/descente séparées).",
+          "Le stationnement à Sanary est difficile en été.",
+          "Utilisez les parkings souterrains du centre."
         ]
       },
       "variants": {
@@ -1642,7 +1691,8 @@
             "de": "Mit dem Auto erklimmen Sie zuerst den Mont Faron für den besten Blick über die Reede. Danach geht es zum Mourillon für ein Mittagessen am Meer. Den Nachmittag verbringen Sie im charmanten Nachbarort Sanary-sur-Mer, bevor Sie für den Abend zurückkehren.",
             "hu": "Autóval először a Mont Faronra hajtunk fel a legjobb panorámáért. Ezután a Mourillon strandjai következnek egy tengerparti ebédhez. A délutánt a bájos szomszédos városban, Sanary-sur-Merben töltjük, mielőtt visszaérnénk Toulonba.",
             "ro": "Cu mașina, urcați mai întâi pe Mont Faron pentru cea mai bună panoramă. Urmează Mourillon pentru un prânz la malul mării. După-amiaza o petreceți în fermecătorul oraș vecin Sanary-sur-Mer, înainte de a reveni în Toulon.",
-            "en": "By car, first climb Mont Faron for the best panorama over the bay. Then head to Mourillon for a seaside lunch. Spend the afternoon in the charming neighboring town of Sanary-sur-Mer before returning to Toulon."
+            "en": "By car, first climb Mont Faron for the best panorama over the bay. Then head to Mourillon for a seaside lunch. Spend the afternoon in the charming neighboring town of Sanary-sur-Mer before returning to Toulon.",
+            "fr": "En voiture, montez d’abord au Mont Faron pour le meilleur panorama sur la baie. Ensuite dirigez-vous vers le Mourillon pour un déjeuner en bord de mer. Passez l’après‑midi dans la charmante ville voisine de Sanary‑sur‑Mer avant de revenir à Toulon."
           },
           "stops": [
             {
@@ -1650,13 +1700,15 @@
                 "de": "Gipfel des Mont Faron",
                 "hu": "Mont Faron csúcs",
                 "ro": "Vârful Mont Faron",
-                "en": "Mont Faron Summit"
+                "en": "Mont Faron Summit",
+                "fr": "Sommet du Mont Faron"
               },
               "tip_5lang": {
                 "de": "Spektakuläre Bergstraße zum Gipfel.",
                 "hu": "Látványos hegyi út a csúcsig.",
                 "ro": "Drum montan spectaculos spre vârf.",
-                "en": "Spectacular mountain road to the top."
+                "en": "Spectacular mountain road to the top.",
+                "fr": "Route de montagne spectaculaire jusqu’au sommet."
               }
             },
             {
@@ -1664,13 +1716,15 @@
                 "de": "Strände von Mourillon",
                 "hu": "Mourillon strandok",
                 "ro": "Plajele Mourillon",
-                "en": "Mourillon Beaches"
+                "en": "Mourillon Beaches",
+                "fr": "Plages du Mourillon"
               },
               "tip_5lang": {
                 "de": "Große Parkplätze direkt am Meer.",
                 "hu": "Nagy parkolók közvetlenül a tengerparton.",
                 "ro": "Parcări mari chiar lângă plajă.",
-                "en": "Large parking lots right by the sea."
+                "en": "Large parking lots right by the sea.",
+                "fr": "Grands parkings juste au bord de la mer."
               }
             },
             {
@@ -1678,13 +1732,15 @@
                 "de": "Sanary-sur-Mer",
                 "hu": "Sanary-sur-Mer",
                 "ro": "Sanary-sur-Mer",
-                "en": "Sanary-sur-Mer"
+                "en": "Sanary-sur-Mer",
+                "fr": "Sanary‑sur‑Mer"
               },
               "tip_5lang": {
                 "de": "Eines der schönsten Fischerdörfer.",
                 "hu": "Az egyik legszebb halászfalu.",
                 "ro": "Unul dintre cele mai frumoase sate de pescari.",
-                "en": "One of the most beautiful fishing villages."
+                "en": "One of the most beautiful fishing villages.",
+                "fr": "Un des plus beaux villages de pêcheurs."
               }
             },
             {
@@ -1692,13 +1748,15 @@
                 "de": "Hafen von Toulon",
                 "hu": "Touloni kikötő",
                 "ro": "Portul Toulon",
-                "en": "Port of Toulon"
+                "en": "Port of Toulon",
+                "fr": "Port de Toulon"
               },
               "tip_5lang": {
                 "de": "Abendlicher Spaziergang am Quai.",
                 "hu": "Esti séta a rakparton.",
                 "ro": "Plimbare de seară pe chei.",
-                "en": "Evening walk at the quay."
+                "en": "Evening walk at the quay.",
+                "fr": "Promenade du soir sur le quai."
               }
             }
           ],
@@ -1804,6 +1862,11 @@
               "The road to Mont Faron is one-way (ascent/descent separate).",
               "Parking in Sanary is hard in summer.",
               "Use the parking garages in the center."
+            ],
+            "fr": [
+              "La route du Mont Faron est à sens unique (montée/descente séparées).",
+              "Se garer à Sanary est difficile en été.",
+              "Utilisez les parkings souterrains du centre."
             ]
           }
         },
@@ -1813,7 +1876,7 @@
             "hu": "Vezessen óvatosan a Mont Faron csúcsára, ahol a köd és az eső misztikus hangulatot áraszt. A Mourillon strandjai drámainak és nyugodtnak tűnnek a szürke ég alatt. Délben az út Sanary-sur-Merbe vezet, egy bájos faluba, amely esőben is hívogató. A nap a touloni kikötőben ér véget, ahol a város fényei visszatükröződnek a nedves aszfalton.",
             "ro": "Conduceți cu atenție spre vârful Mont Faron, unde ceața și ploaia creează o atmosferă mistică. Plajele Mourillon par dramatice și liniștite sub cerul gri. La prânz, drumul duce spre Sanary-sur-Mer, un sat fermecător, primitor chiar și pe ploaie. Ziua se încheie în portul Toulon, cu luminile orașului reflectate în asfaltul ud.",
             "en": "Drive carefully to the summit of Mont Faron, where mist and rain create a mystical atmosphere. Mourillon Beaches look dramatic and calm under gray skies. At noon, head to Sanary-sur-Mer, a charming village that remains inviting even in the rain. End your day at the Port of Toulon, where city lights reflect on the wet pavement.",
-            "fr": "Conduisez prudemment jusqu'au sommet du Mont Faron, où la brume et la pluie créent une atmosphère mystique. Les plages du Mourillon paraissent spectaculaires sous un ciel gris. À midi, direction Sanary-sur-Mer, un village charmant qui reste accueillant même sous la pluie. Terminez votre journée au port de Toulon, où les lumières de la ville se reflètent sur le sol mouillé."
+            "fr": "Conduisez prudemment jusqu’au sommet du Mont Faron, où la brume et la pluie créent une atmosphère mystique. Les plages du Mourillon paraissent dramatiques et calmes sous un ciel gris. À midi, rendez‑vous à Sanary‑sur‑Mer, un village charmant qui reste accueillant même sous la pluie. Terminez votre journée au Port de Toulon, où les lumières de la ville se reflètent sur le sol mouillé."
           },
           "stops": [
             {
@@ -1823,7 +1886,7 @@
                 "hu": "Vigyázzon a ködre a felfelé vezető szűk, egyirányú úton.",
                 "ro": "Atenție la ceață pe drumul îngust cu sens unic spre vârf.",
                 "en": "Beware of mist on the narrow one-way road to the top.",
-                "fr": "Attention au brouillard sur la route étroite à sens unique vers le sommet."
+                "fr": "Attention à la brume sur la route étroite à sens unique menant au sommet."
               }
             },
             {
@@ -1833,7 +1896,7 @@
                 "hu": "Parkoljon a parthoz közel, hogy az autóból nézhesse a tengert.",
                 "ro": "Parcați aproape de mal pentru a vedea marea din mașină.",
                 "en": "Park close to the shore to watch the sea from your car.",
-                "fr": "Garez-vous près du rivage pour observer la mer depuis votre voiture."
+                "fr": "Garez‑vous près du rivage pour regarder la mer depuis votre voiture."
               }
             },
             {
@@ -1843,7 +1906,7 @@
                 "hu": "Használja a Moana parkolóházat a száraz kezdéshez.",
                 "ro": "Folosiți parcarea Moana pentru un început la adăpost.",
                 "en": "Use the Moana parking garage for a dry start to your walk.",
-                "fr": "Utilisez le parking Moana pour commencer votre marche au sec."
+                "fr": "Utilisez le parking Moana pour commencer votre promenade à l’abri."
               }
             },
             {
@@ -1853,7 +1916,7 @@
                 "hu": "Parkoljon a Mayol parkolóházban, közvetlenül a kikötőnél.",
                 "ro": "Parcați în garajul Mayol, chiar la marginea portului.",
                 "en": "Park in the Mayol garage right by the harbor edge.",
-                "fr": "Garez-vous au parking Mayol juste au bord du port."
+                "fr": "Garez‑vous dans le garage Mayol, juste au bord du port."
               }
             }
           ],
@@ -1887,10 +1950,10 @@
               "Drive cautiously on the often slippery coastal roads."
             ],
             "fr": [
-              "Vérifiez si la route du Mont Faron est ouverte en cas de forte pluie.",
-              "La route côtière offre de superbes vues même sous la pluie.",
-              "Utilisez les parkings couverts dans les centres-villes.",
-              "Sanary-sur-Mer possède de nombreuses petites galeries pour les jours de pluie.",
+              "Vérifiez si la route du Mont Faron est ouverte en cas de fortes pluies.",
+              "La route côtière offre de belles vues même sous la pluie.",
+              "Utilisez les parkings couverts dans les centres‑villes.",
+              "Sanary‑sur‑Mer possède de nombreuses petites galeries pour les jours de pluie.",
               "Conduisez prudemment sur les routes côtières souvent glissantes."
             ]
           }
@@ -1901,7 +1964,7 @@
             "hu": "Élvezze a tiszta téli levegőt a Mont Faronon, ahonnan messzire ellátni az öböl felett. Ezután a Mourillon strandjai hívogatnak egy sétára az enyhe napsütésben. Az út Sanary-sur-Merbe nyugodt téli tájakon vezet, ahol a falu ragyog az alacsonyan járó nap fényében. A nap hangulatosan ér véget a kivilágított touloni kikötőben.",
             "ro": "Bucurați-vă de aerul curat de iarnă pe Mont Faron, cu o vedere panoramică spre golf. Apoi, plajele Mourillon vă invită la o plimbare sub soarele blând. Drumul spre Sanary-sur-Mer trece prin peisaje de iarnă liniștite, unde satul strălucește în lumina soarelui. Ziua se încheie festiv în portul luminat al Toulonului.",
             "en": "Enjoy the crisp winter air on Mont Faron with a wide view over the bay. Afterwards, Mourillon Beaches invite you for a stroll in the mild sun. The drive to Sanary-sur-Mer passes through quiet winter landscapes, where the village glows in the low sun. The day ends atmospherically at the illuminated Port of Toulon.",
-            "fr": "Profitez de l'air vif de l'hiver au Mont Faron avec une vue imprenable sur la rade. Ensuite, les plages du Mourillon invitent à une promenade sous un soleil doux. Le trajet vers Sanary-sur-Mer traverse des paysages hivernaux paisibles, où le village brille sous le soleil bas. La journée se termine au port de Toulon illuminé."
+            "fr": "Profitez de l’air vif de l’hiver au Mont Faron avec une large vue sur la baie. Ensuite, les plages du Mourillon vous invitent à une promenade sous un soleil doux. La route vers Sanary‑sur‑Mer traverse des paysages d’hiver calmes, où le village brille sous le soleil bas. La journée se termine de façon atmosphérique au Port de Toulon illuminé."
           },
           "stops": [
             {
@@ -1911,7 +1974,7 @@
                 "hu": "Tiszta téli időben a kilátás elnyúlik egészen a Hyères-szigetekig.",
                 "ro": "Pe vreme senină, vizibilitatea ajunge până la insulele Hyères.",
                 "en": "On clear winter days, the view extends to the Hyères Islands.",
-                "fr": "Par temps clair en hiver, la vue s'étend jusqu'aux îles d'Hyères."
+                "fr": "Par temps clair d’hiver, la vue s’étend jusqu’aux îles d’Hyères."
               }
             },
             {
@@ -1921,7 +1984,7 @@
                 "hu": "Az itteni kávézók télen is remek napos helyeket kínálnak.",
                 "ro": "Cafenelele de aici sunt locuri însorite și plăcute iarna.",
                 "en": "The cafes here are wonderful sunny spots even in winter.",
-                "fr": "Les cafés ici sont de merveilleux coins ensoleillés même en hiver."
+                "fr": "Les cafés ici sont d’agréables coins ensoleillés même en hiver."
               }
             },
             {
@@ -1941,7 +2004,7 @@
                 "hu": "Télen sokkal könnyebb parkolóhelyet találni a kikötőnél.",
                 "ro": "Iarna este mult mai ușor să găsiți parcare în zona portului.",
                 "en": "Parking near the harbor is much easier to find in winter.",
-                "fr": "Le stationnement près du port est beaucoup plus facile à trouver en hiver."
+                "fr": "Se garer près du port est bien plus facile en hiver."
               }
             }
           ],
@@ -1975,10 +2038,10 @@
               "Take warm clothing for the windy summit of the mountain."
             ],
             "fr": [
-              "Attention aux fermetures de routes sur le Mont Faron en cas de vent fort.",
-              "Le soleil d'hiver peut être bas et aveuglant pendant la conduite.",
-              "Sanary-sur-Mer est célèbre pour ses illuminations de Noël.",
-              "Profitez des routes vides hors de la haute saison touristique.",
+              "Surveillez les fermetures de route au Mont Faron en cas de vents violents.",
+              "Le soleil d’hiver peut être bas et éblouissant en conduisant.",
+              "Sanary‑sur‑Mer est célèbre pour ses illuminations de Noël.",
+              "Profitez des routes dégagées hors saison touristique.",
               "Prévoyez des vêtements chauds pour le sommet venteux de la montagne."
             ]
           }
@@ -1998,7 +2061,8 @@
             "de": "Hafen / Rathaus",
             "hu": "Kikötő / Városháza",
             "ro": "Port / Primărie",
-            "en": "Harbor / City Hall"
+            "en": "Harbor / City Hall",
+            "fr": "Port / Hôtel de Ville"
           },
           "coords": [
             5.932,
@@ -2014,7 +2078,7 @@
             "hu": "Központi buszmegálló a tengerparton.",
             "ro": "Nod central de autobuze la mare.",
             "en": "Central bus hub at the seafront.",
-            "fr": "Hub central de bus sur le front de mer."
+            "fr": "Nœud central des bus en bord de mer."
           }
         },
         {
@@ -2022,7 +2086,8 @@
             "de": "Strände von Mourillon",
             "hu": "Mourillon strandok",
             "ro": "Plajele Mourillon",
-            "en": "Mourillon Beaches"
+            "en": "Mourillon Beaches",
+            "fr": "Plages du Mourillon"
           },
           "coords": [
             5.95,
@@ -2046,7 +2111,8 @@
             "de": "Seilbahn Mont Faron (Talstation)",
             "hu": "Mont Faron felvonó (alsó állomás)",
             "ro": "Telecabina Mont Faron",
-            "en": "Mont Faron Cable Car"
+            "en": "Mont Faron Cable Car",
+            "fr": "Téléphérique du Mont Faron"
           },
           "coords": [
             5.93,
@@ -2062,7 +2128,7 @@
             "hu": "Utazás a piros felvonóval.",
             "ro": "Călătorie cu telecabina roșie.",
             "en": "Ride the iconic red cable car.",
-            "fr": "Montez dans l'emblématique téléphérique rouge."
+            "fr": "Prenez le téléphérique rouge emblématique."
           }
         },
         {
@@ -2070,7 +2136,8 @@
             "de": "Place de la Liberté",
             "hu": "Szabadság tér",
             "ro": "Piața Libertății",
-            "en": "Place de la Liberté"
+            "en": "Place de la Liberté",
+            "fr": "Place de la Liberté"
           },
           "coords": [
             5.93,
@@ -2094,7 +2161,8 @@
             "de": "Opéra de Toulon",
             "hu": "Touloni Operaház",
             "ro": "Opera din Toulon",
-            "en": "Opera of Toulon"
+            "en": "Opera of Toulon",
+            "fr": "Opéra de Toulon"
           },
           "coords": [
             5.931,
@@ -2110,7 +2178,7 @@
             "hu": "Számos buszjárat közelében.",
             "ro": "Aproape de multe linii de autobuz.",
             "en": "Near many bus lines.",
-            "fr": "À proximité de nombreuses lignes de bus."
+            "fr": "Près de nombreuses lignes de bus."
           }
         }
       ],
@@ -2119,7 +2187,7 @@
         "hu": "Használja a 'Mistral' közlekedési hálózatot Toulon felfedezéséhez. Reggel irány a strand, délben pedig a híres felvonóval a hegyre. A délutánt az elegáns felsővárosban, a Szabadság tér környékén töltheti.",
         "ro": "Folosiți rețeaua 'Mistral' pentru a explora Toulon fără stres. Dimineața mergeți la plajă, iar la prânz cu faimoasa telecabină pe munte. După-amiaza o veți petrece în cartierul elegant din jurul Pieței Libertății.",
         "en": "Use the 'Mistral' transit network to explore Toulon stress-free. Head to the beach in the morning, and take the famous cable car to the mountain at noon. Spend the afternoon in the elegant upper town area.",
-        "fr": "Utilisez le réseau 'Mistral' pour explorer Toulon sans stress. Allez à la plage le matin et prenez le célèbre téléphérique vers la montagne à midi. Passez l'après-midi dans le quartier élégant de la ville haute."
+        "fr": "Utilisez le réseau 'Mistral' pour explorer Toulon sans stress. Dirigez‑vous vers la plage le matin, puis prenez le célèbre téléphérique pour la montagne à midi. Passez l’après‑midi dans le quartier élégant de la ville haute."
       },
       "gastro_picks": {
         "de": [
@@ -2244,8 +2312,8 @@
           "Buses are very punctual."
         ],
         "fr": [
-          "Achetez un pass journée pour les bus et les bateaux-bus.",
-          "Le téléphérique est fermé en cas de vent fort.",
+          "Achetez un ticket journée pour bus et bateaux.",
+          "Le téléphérique est fermé par grand vent.",
           "Les bus sont très ponctuels."
         ]
       },
@@ -2255,7 +2323,8 @@
             "de": "Nutzen Sie das Netzwerk von 'Mistral', um Toulon stressfrei zu erkunden. Morgens geht es zum Strand und mittags mit der berühmten Seilbahn auf den Berg. Den Nachmittag verbringen Sie im eleganten Viertel rund um die Freiheitsterrasse.",
             "hu": "Használja a 'Mistral' közlekedési hálózatot Toulon felfedezéséhez. Reggel irány a strand, délben pedig a híres felvonóval a hegyre. A délutánt az elegáns felsővárosban, a Szabadság tér környékén töltheti.",
             "ro": "Folosiți rețeaua 'Mistral' pentru a explora Toulon fără stres. Dimineața mergeți la plajă, iar la prânz cu faimoasa telecabină pe munte. După-amiaza o veți petrece în cartierul elegant din jurul Pieței Libertății.",
-            "en": "Use the 'Mistral' transit network to explore Toulon stress-free. Head to the beach in the morning, and take the famous cable car to the mountain at noon. Spend the afternoon in the elegant upper town area."
+            "en": "Use the 'Mistral' transit network to explore Toulon stress-free. Head to the beach in the morning, and take the famous cable car to the mountain at noon. Spend the afternoon in the elegant upper town area.",
+            "fr": "Utilisez le réseau 'Mistral' pour explorer Toulon sans stress. Dirigez‑vous vers la plage le matin, puis prenez le célèbre téléphérique pour la montagne à midi. Passez l’après‑midi dans le quartier élégant de la ville haute."
           },
           "stops": [
             {
@@ -2263,13 +2332,15 @@
                 "de": "Hafen / Rathaus",
                 "hu": "Kikötő / Városháza",
                 "ro": "Port / Primărie",
-                "en": "Harbor / City Hall"
+                "en": "Harbor / City Hall",
+                "fr": "Port / Hôtel de Ville"
               },
               "tip_5lang": {
                 "de": "Zentraler Busknoten am Meer.",
                 "hu": "Központi buszmegálló a tengerparton.",
                 "ro": "Nod central de autobuze la mare.",
-                "en": "Central bus hub at the seafront."
+                "en": "Central bus hub at the seafront.",
+                "fr": "Nœud central des bus en bord de mer."
               }
             },
             {
@@ -2277,13 +2348,15 @@
                 "de": "Strände von Mourillon",
                 "hu": "Mourillon strandok",
                 "ro": "Plajele Mourillon",
-                "en": "Mourillon Beaches"
+                "en": "Mourillon Beaches",
+                "fr": "Plages du Mourillon"
               },
               "tip_5lang": {
                 "de": "Linie 3 oder 23 vom Hafen.",
                 "hu": "3-as vagy 23-as busz a kikötőtől.",
                 "ro": "Linia 3 sau 23 de la port.",
-                "en": "Line 3 or 23 from the harbor."
+                "en": "Line 3 or 23 from the harbor.",
+                "fr": "Ligne 3 ou 23 depuis le port."
               }
             },
             {
@@ -2291,13 +2364,15 @@
                 "de": "Seilbahn Mont Faron (Talstation)",
                 "hu": "Mont Faron felvonó (alsó állomás)",
                 "ro": "Telecabina Mont Faron",
-                "en": "Mont Faron Cable Car"
+                "en": "Mont Faron Cable Car",
+                "fr": "Téléphérique du Mont Faron"
               },
               "tip_5lang": {
                 "de": "Fahrt mit der roten Seilbahn.",
                 "hu": "Utazás a piros felvonóval.",
                 "ro": "Călătorie cu telecabina roșie.",
-                "en": "Ride the iconic red cable car."
+                "en": "Ride the iconic red cable car.",
+                "fr": "Prenez le téléphérique rouge emblématique."
               }
             },
             {
@@ -2305,13 +2380,15 @@
                 "de": "Place de la Liberté",
                 "hu": "Szabadság tér",
                 "ro": "Piața Libertății",
-                "en": "Place de la Liberté"
+                "en": "Place de la Liberté",
+                "fr": "Place de la Liberté"
               },
               "tip_5lang": {
                 "de": "Das Herz der Oberstadt.",
                 "hu": "A felsőváros szíve.",
                 "ro": "Inima orașului de sus.",
-                "en": "The heart of the upper town."
+                "en": "The heart of the upper town.",
+                "fr": "Le cœur de la ville haute."
               }
             },
             {
@@ -2319,13 +2396,15 @@
                 "de": "Opéra de Toulon",
                 "hu": "Touloni Operaház",
                 "ro": "Opera din Toulon",
-                "en": "Opera of Toulon"
+                "en": "Opera of Toulon",
+                "fr": "Opéra de Toulon"
               },
               "tip_5lang": {
                 "de": "In der Nähe vieler Buslinien.",
                 "hu": "Számos buszjárat közelében.",
                 "ro": "Aproape de multe linii de autobuz.",
-                "en": "Near many bus lines."
+                "en": "Near many bus lines.",
+                "fr": "Près de nombreuses lignes de bus."
               }
             }
           ],
@@ -2431,6 +2510,11 @@
               "Buy a day pass for buses and boats.",
               "The cable car is closed during high winds.",
               "Buses are very punctual."
+            ],
+            "fr": [
+              "Achetez un ticket journée pour bus et bateaux.",
+              "Le téléphérique est fermé par grand vent.",
+              "Les bus sont très ponctuels."
             ]
           }
         },
@@ -2440,7 +2524,7 @@
             "hu": "Használja a kikötői sűrű buszhálózatot, hogy szárazon járja be a várost. A Mourillon felé tartó út kilátást nyújt a viharos tengerre a busz biztonságából. A Mont Faron felvonó esőben is élmény, ha nem túl erős a szél. A délutánt a központi Place de la Liberté és a pompás Operaház környékén töltse.",
             "ro": "Folosiți rețeaua densă de autobuze din port pentru a călători la adăpost. Călătoria spre Mourillon oferă vederi spre marea agitată din siguranța autobuzului. Telecabina spre Mont Faron este o experiență pe ploaie, dacă vântul permite. După-amiaza se petrece în zona centrală Place de la Liberté și la Operă.",
             "en": "Use the dense bus network at the harbor to stay dry while moving through the city. The ride to Mourillon offers views of the stormy sea from the safety of the bus. The Mont Faron cable car is an experience in the rain, provided the wind is not too strong. Spend the afternoon around the central Place de la Liberté and the grand Opera.",
-            "fr": "Utilisez le réseau dense de bus au port pour rester au sec tout en vous déplaçant. Le trajet vers le Mourillon offre des vues sur la mer agitée depuis la sécurité du bus. Le téléphérique du Mont Faron est une expérience sous la pluie, si le vent n'est pas trop fort. Passez l'après-midi autour de la Place de la Liberté et du grand Opéra."
+            "fr": "Utilisez le dense réseau de bus au niveau du port pour rester au sec en vous déplaçant dans la ville. Le trajet vers le Mourillon offre des vues sur la mer agitée depuis la sécurité du bus. Le téléphérique du Mont Faron est une expérience sous la pluie, si le vent n’est pas trop fort. Passez l’après‑midi autour de la Place de la Liberté et du grand Opéra."
           },
           "stops": [
             {
@@ -2460,7 +2544,7 @@
                 "hu": "Használja a 3-as vagy 23-as vonalat a közvetlen járathoz.",
                 "ro": "Folosiți linia 3 sau 23 pentru o conexiune directă.",
                 "en": "Use line 3 or 23 for a direct connection to the beach.",
-                "fr": "Utilisez la ligne 3 ou 23 pour une liaison directe vers la plage."
+                "fr": "Utilisez la ligne 3 ou 23 pour une connexion directe à la plage."
               }
             },
             {
@@ -2470,7 +2554,7 @@
                 "hu": "Erős szél és eső esetén a felvonó üzeme szünetelhet.",
                 "ro": "În caz de vânt puternic și ploaie, serviciul poate fi suspendat.",
                 "en": "Service may be suspended during strong winds and rain.",
-                "fr": "Le service peut être suspendu en cas de vent fort et de pluie."
+                "fr": "Le service peut être suspendu en cas de vents forts et de pluie."
               }
             },
             {
@@ -2480,7 +2564,7 @@
                 "hu": "Fontos csomópont számos átszállási lehetőséggel.",
                 "ro": "Un nod important de transport cu multe opțiuni de transfer.",
                 "en": "A major transit hub with many transfer options.",
-                "fr": "Un pôle de transit majeur avec de nombreuses options de transfert."
+                "fr": "Un grand nœud de correspondance avec de nombreuses options de transfert."
               }
             },
             {
@@ -2490,7 +2574,7 @@
                 "hu": "Számos buszjárat megáll az Operaház közvetlen közelében.",
                 "ro": "Mai multe linii de autobuz opresc chiar lângă Operă.",
                 "en": "Several bus lines stop directly next to the Opera house.",
-                "fr": "Plusieurs lignes de bus s'arrêtent juste à côté de l'Opéra."
+                "fr": "Plusieurs lignes de bus s’arrêtent juste à côté de l’Opéra."
               }
             }
           ],
@@ -2524,11 +2608,11 @@
               "Expect slight delays in bus service during heavy rainfall."
             ],
             "fr": [
-              "L'application 'Réseau Mistral' affiche les infos en temps réel.",
-              "Un pass journée vaut le coup pour rester au sec sur de courts trajets.",
-              "Utilisez les bateaux-bus pour une traversée du port à l'abri.",
-              "Les arrêts du centre-ville sont souvent situés près de cafés accueillants.",
-              "Attendez-vous à de légers retards de bus pendant les fortes pluies."
+              "L’application 'Réseau Mistral' affiche les informations en temps réel en cas de retards dus au temps.",
+              "Un ticket journée vaut la peine pour de multiples courts trajets afin de rester au sec.",
+              "Utilisez les bateaux‑bus pour traverser le port à l’abri du vent.",
+              "Les arrêts du centre‑ville se situent souvent près de cafés chaleureux.",
+              "Prévoyez de légers retards des bus en cas de fortes pluies."
             ]
           }
         },
@@ -2538,7 +2622,7 @@
             "hu": "Fedezze fel Toulont télen kényelmesen busszal és felvonóval. A kikötőből a Mourillonhoz juthat, ahol élvezheti a téli napsütést a tengernél. A felvonó gyorsan felviszi a Mont Faronra a lélegzetelállító panorámáért. A délután az ünnepi díszbe öltözött belvárosé a Place de la Liberté és az Opera körül.",
             "ro": "Explorați Toulonul iarna confortabil cu autobuzul și telecabina. Din port ajungeți la Mourillon pentru a savura soarele la malul mării. Telecabina vă duce rapid pe Mont Faron pentru o panoramă uluitoare. După-amiaza aparține centrului luminat festiv în jurul Place de la Liberté și al Operei.",
             "en": "Explore Toulon in winter comfortably by bus and cable car. From the harbor, head to Mourillon where you can enjoy the winter sun by the sea. The cable car whisks you up Mont Faron for a breathtaking panoramic view. The afternoon is dedicated to the festively lit city center around Place de la Liberté and the Opera.",
-            "fr": "Explorez Toulon en hiver confortablement en bus et téléphérique. Du port, rejoignez le Mourillon pour profiter du soleil d'hiver au bord de la mer. Le téléphérique vous emmène au Mont Faron pour une vue panoramique époustouflante. L'après-midi est consacré au centre-ville illuminé autour de la Place de la Liberté."
+            "fr": "Explorez Toulon en hiver confortablement en bus et en téléphérique. Depuis le port, rendez‑vous au Mourillon où vous pourrez profiter du soleil hivernal au bord de la mer. Le téléphérique vous emmène au Mont Faron pour une vue panoramique à couper le souffle. L’après‑midi est consacré au centre‑ville illuminé autour de la Place de la Liberté et de l’Opéra."
           },
           "stops": [
             {
@@ -2548,7 +2632,7 @@
                 "hu": "Télen a hajók fűtöttek és remek kilátást nyújtanak.",
                 "ro": "Iarna, bărcile sunt încălzite și oferă o vedere minunată.",
                 "en": "In winter, the boats are heated and offer great views.",
-                "fr": "En hiver, les bateaux sont chauffés et offrent de superbes vues."
+                "fr": "En hiver, les bateaux sont chauffés et offrent de belles vues."
               }
             },
             {
@@ -2558,7 +2642,7 @@
                 "hu": "A buszok télen is rendszeres időközönként közlekednek.",
                 "ro": "Autobuzele circulă la intervale regulate și pe timpul iernii.",
                 "en": "Buses run at regular intervals even during the winter season.",
-                "fr": "Les bus circulent à intervalles réguliers même pendant la saison d'hiver."
+                "fr": "Les bus circulent à intervalles réguliers même en hiver."
               }
             },
             {
@@ -2568,7 +2652,7 @@
                 "hu": "Ellenőrizze a téli nyitvatartást, mert rövidebb lehet.",
                 "ro": "Verificați programul de iarnă, acesta poate fi mai scurt.",
                 "en": "Check the winter opening hours, as they may be shorter.",
-                "fr": "Vérifiez les horaires d'hiver, car ils peuvent être réduits."
+                "fr": "Vérifiez les horaires d’hiver, qui peuvent être réduits."
               }
             },
             {
@@ -2578,7 +2662,7 @@
                 "hu": "Itt áll meg a legtöbb járat a szállodába való visszatéréshez.",
                 "ro": "Aici opresc majoritatea liniilor pentru întoarcerea la hotel.",
                 "en": "Most lines stop here for your return trip to the hotel.",
-                "fr": "La plupart des lignes s'arrêtent ici pour votre retour à l'hôtel."
+                "fr": "La plupart des lignes s’arrêtent ici pour votre retour à l’hôtel."
               }
             },
             {
@@ -2588,7 +2672,7 @@
                 "hu": "A kivilágított homlokzat késő délután igazi fénypont.",
                 "ro": "Fațada iluminată este un punct de atracție după-amiaza târziu.",
                 "en": "The illuminated facade is a highlight in the late afternoon.",
-                "fr": "La façade illuminée est un point fort en fin d'après-midi."
+                "fr": "La façade illuminée est un point fort en fin d’après‑midi."
               }
             }
           ],
@@ -2622,11 +2706,11 @@
               "Bus frequency remains very reliable throughout the winter."
             ],
             "fr": [
-              "Utilisez les bateaux-bus pour un trajet abrité du vent sur la rade.",
-              "Les bus sont agréablement chauffés pendant les mois d'hiver.",
-              "Attention aux horaires de départ plus précoces du dernier téléphérique.",
-              "L'arrêt 'Liberté' permet d'accéder facilement au marché de Noël.",
-              "La fréquence des bus reste très fiable tout au long de l'hiver."
+              "Utilisez les bateaux‑bus pour un trajet à l’abri du vent à travers la baie.",
+              "Les bus sont agréablement chauffés pendant les mois d’hiver.",
+              "Soyez attentif aux heures de départ avancées du dernier téléphérique.",
+              "L’arrêt 'Liberté' donne un accès facile au marché de Noël.",
+              "La fréquence des bus reste très fiable tout l’hiver."
             ]
           }
         }

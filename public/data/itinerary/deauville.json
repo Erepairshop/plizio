@@ -32,7 +32,7 @@
             "hu": "Látogasson el a piacra délelőtt a friss helyi termékekért.",
             "ro": "Vizitați piața dimineața pentru produse locale proaspete.",
             "en": "Visit the market in the morning for fresh local produce.",
-            "fr": "Visitez le marché le matin pour les produits locaux frais."
+            "fr": "Visitez le marché le matin pour des produits locaux frais."
           }
         },
         {
@@ -51,7 +51,7 @@
             "hu": "Csodálja meg a pompás építészetet játék nélkül is.",
             "ro": "Admirați arhitectura splendidă chiar și fără a juca.",
             "en": "Admire the magnificent architecture even without gambling.",
-            "fr": "Admirez l'architecture magnifique même sans jouer au casino."
+            "fr": "Admirez la magnifique architecture même sans jouer au casino."
           }
         },
         {
@@ -70,7 +70,7 @@
             "hu": "Keresse a híres színészek neveit a kabinokon.",
             "ro": "Căutați numele actorilor celebri pe cabine.",
             "en": "Look for the names of famous actors on the cabins.",
-            "fr": "Cherchez les noms d'acteurs célèbres sur les cabines."
+            "fr": "Cherchez les noms de célèbres acteurs sur les cabines."
           }
         },
         {
@@ -89,7 +89,7 @@
             "hu": "Béreljen színes napernyőt a tökéletes fotóhoz.",
             "ro": "Închiriați o umbrelă colorată pentru fotografia perfectă.",
             "en": "Rent a colorful parasol for the perfect photo.",
-            "fr": "Louez un parasol coloré pour une photo parfaite."
+            "fr": "Louez un parasol coloré pour la photo parfaite."
           }
         },
         {
@@ -127,7 +127,7 @@
             "hu": "Kóstolja meg a nyelvhalfilét normandiai módra.",
             "ro": "Gustați file de limbă de mare în stil normand.",
             "en": "Try the sole fillet prepared in the Normandy style.",
-            "fr": "Goûtez au filet de sole préparé à la mode normande."
+            "fr": "Goûtez le filet de sole préparé à la normande."
           }
         }
       ],
@@ -136,7 +136,7 @@
         "hu": "Kezdje a napot a nyüzsgő piactéren, favázas házak gyűrűjében. Sétáljon el a legendás Kaszinóhoz, amely Deauville eleganciájának jelképe.\n\nDélben korzózzon a tengerparti fapadlókon, ahol Hollywood nagyjainak nevei sorakoznak. Élvezze a friss tengeri szellőt Franciaország egyik legexkluzívabb strandján.\n\nA délután a pihenésé a homokban, a híres színes napernyők alatt. Figyelje a luxusjachtok ringatózását a kikötőben.\n\nA napot zárja egy fenséges vacsorával a belváros egyik hangulatos éttermében, átadva magát a normandiai fényűzésnek.",
         "ro": "Începeți ziua în piața plină de viață, înconjurată de case cu bârne de lemn. Mergeți la legendarul Cazinou, simbolul eleganței din Deauville.\n\nLa prânz, plimbați-vă pe faimoasele Planches de pe malul mării, unde sunt imortalizate numele vedetelor de la Hollywood. Bucurați-vă de briza mării pe una dintre cele mai exclusiviste plaje din Franța.\n\nDupă-amiaza este dedicată relaxării pe nisip, sub faimoasele umbrele colorate. Observați activitatea din portul de agrement luxos.\n\nÎncheiați ziua cu o cină rafinată într-unul dintre restaurantele fermecătoare din centrul orașului și lăsați-vă pătruns de glamour-ul Normandiei.",
         "en": "Start your day at the vibrant market square, surrounded by half-timbered houses. Walk to the legendary Casino, the symbol of Deauville's elegance.\n\nAt midday, stroll along the wooden Planches by the sea, where Hollywood names are immortalized. Enjoy the fresh sea breeze on one of France's most exclusive beaches.\n\nThe afternoon is for relaxing in the sand under the famous colorful parasols. Watch the luxury yachts in the marina.\n\nEnd the day with an exquisite dinner in one of the charming city center restaurants and soak in the glamour of Normandy.",
-        "fr": "Commencez votre journée sur la place du marché animée, entourée de maisons à colombages. Marchez jusqu'au légendaire Casino, symbole de l'élégance de Deauville.\n\nÀ la mi-journée, flânez sur les célèbres Planches en bord de mer, où les noms d'Hollywood sont immortalisés. Profitez de la brise marine fraîche sur l'une des plages les plus exclusives de France.\n\nL'après-midi est consacré à la détente sur le sable, sous les fameux parasols colorés. Admirez les yachts de luxe dans la marina.\n\nTerminez la journée par un dîner exquis dans l'un des charmants restaurants du centre-ville et imprégnez-vous du glamour de la Normandie."
+        "fr": "Commencez la journée sur la place de marché animée, entourée de maisons à colombages. Promenez-vous jusqu’au légendaire Casino, symbole de l’élégance de Deauville.\n\nÀ midi, flânez le long des Planches en bois face à la mer, où les noms d’Hollywood sont immortalisés. Profitez de la brise marine sur l’une des plages les plus exclusives de France.\n\nL’après-midi est dédié à la détente sur le sable sous les célèbres parasols colorés. Admirez les yachts de luxe dans la marina.\n\nTerminez la journée par un dîner exquis dans l’un des charmants restaurants du centre-ville et imprégnez-vous du glamour normand."
       },
       "gastro_picks": {
         "de": [
@@ -285,10 +285,10 @@
           "Visit during the film festival for extra glamour."
         ],
         "fr": [
-          "Portez des chaussures confortables pour marcher sur les planches de bois.",
-          "Réservez vos restaurants à l'avance, surtout le week-end.",
-          "Vérifiez les horaires des marées avant de vous aventurer loin sur la plage.",
-          "Visitez la ville pendant le festival du film pour encore plus de glamour."
+          "Portez des chaussures confortables pour marcher sur les planches en bois.",
+          "Réservez les restaurants à l’avance, surtout le week-end.",
+          "Vérifiez les horaires des marées avant de vous éloigner trop sur la plage.",
+          "Visitez pendant le festival du film pour plus de glamour."
         ]
       },
       "variants": {
@@ -297,7 +297,8 @@
             "de": "Beginnen Sie Ihren Tag auf dem lebhaften Marktplatz, umgeben von Fachwerkhäusern. Spazieren Sie zum legendären Casino, dem Symbol der Eleganz von Deauville.\n\nMittags schlendern Sie über die hölzernen Planches am Meer, wo die Namen Hollywoods verewigt sind. Genießen Sie die frische Meeresbrise an einem der exklusivsten Strände Frankreichs.\n\nDer Nachmittag gehört der Entspannung im Sand unter den berühmten bunten Sonnenschirmen. Beobachten Sie das Treiben am luxuriösen Yachthafen.\n\nBeenden Sie den Tag mit einem exquisiten Abendessen in einem der charmanten Restaurants im Stadtzentrum und lassen Sie den Glamour der Normandie auf sich wirken.",
             "hu": "Kezdje a napot a nyüzsgő piactéren, favázas házak gyűrűjében. Sétáljon el a legendás Kaszinóhoz, amely Deauville eleganciájának jelképe.\n\nDélben korzózzon a tengerparti fapadlókon, ahol Hollywood nagyjainak nevei sorakoznak. Élvezze a friss tengeri szellőt Franciaország egyik legexkluzívabb strandján.\n\nA délután a pihenésé a homokban, a híres színes napernyők alatt. Figyelje a luxusjachtok ringatózását a kikötőben.\n\nA napot zárja egy fenséges vacsorával a belváros egyik hangulatos éttermében, átadva magát a normandiai fényűzésnek.",
             "ro": "Începeți ziua în piața plină de viață, înconjurată de case cu bârne de lemn. Mergeți la legendarul Cazinou, simbolul eleganței din Deauville.\n\nLa prânz, plimbați-vă pe faimoasele Planches de pe malul mării, unde sunt imortalizate numele vedetelor de la Hollywood. Bucurați-vă de briza mării pe una dintre cele mai exclusiviste plaje din Franța.\n\nDupă-amiaza este dedicată relaxării pe nisip, sub faimoasele umbrele colorate. Observați activitatea din portul de agrement luxos.\n\nÎncheiați ziua cu o cină rafinată într-unul dintre restaurantele fermecătoare din centrul orașului și lăsați-vă pătruns de glamour-ul Normandiei.",
-            "en": "Start your day at the vibrant market square, surrounded by half-timbered houses. Walk to the legendary Casino, the symbol of Deauville's elegance.\n\nAt midday, stroll along the wooden Planches by the sea, where Hollywood names are immortalized. Enjoy the fresh sea breeze on one of France's most exclusive beaches.\n\nThe afternoon is for relaxing in the sand under the famous colorful parasols. Watch the luxury yachts in the marina.\n\nEnd the day with an exquisite dinner in one of the charming city center restaurants and soak in the glamour of Normandy."
+            "en": "Start your day at the vibrant market square, surrounded by half-timbered houses. Walk to the legendary Casino, the symbol of Deauville's elegance.\n\nAt midday, stroll along the wooden Planches by the sea, where Hollywood names are immortalized. Enjoy the fresh sea breeze on one of France's most exclusive beaches.\n\nThe afternoon is for relaxing in the sand under the famous colorful parasols. Watch the luxury yachts in the marina.\n\nEnd the day with an exquisite dinner in one of the charming city center restaurants and soak in the glamour of Normandy.",
+            "fr": "Commencez la journée sur la place de marché animée, entourée de maisons à colombages. Promenez-vous jusqu’au légendaire Casino, symbole de l’élégance de Deauville.\n\nÀ midi, flânez le long des Planches en bois face à la mer, où les noms d’Hollywood sont immortalisés. Profitez de la brise marine sur l’une des plages les plus exclusives de France.\n\nL’après-midi est dédié à la détente sur le sable sous les célèbres parasols colorés. Admirez les yachts de luxe dans la marina.\n\nTerminez la journée par un dîner exquis dans l’un des charmants restaurants du centre-ville et imprégnez-vous du glamour normand."
           },
           "stops": [
             {
@@ -306,7 +307,8 @@
                 "de": "Besuchen Sie den Markt am Vormittag für frische lokale Produkte.",
                 "hu": "Látogasson el a piacra délelőtt a friss helyi termékekért.",
                 "ro": "Vizitați piața dimineața pentru produse locale proaspete.",
-                "en": "Visit the market in the morning for fresh local produce."
+                "en": "Visit the market in the morning for fresh local produce.",
+                "fr": "Visitez le marché le matin pour des produits locaux frais."
               }
             },
             {
@@ -315,7 +317,8 @@
                 "de": "Bewundern Sie die prächtige Architektur auch ohne zu spielen.",
                 "hu": "Csodálja meg a pompás építészetet játék nélkül is.",
                 "ro": "Admirați arhitectura splendidă chiar și fără a juca.",
-                "en": "Admire the magnificent architecture even without gambling."
+                "en": "Admire the magnificent architecture even without gambling.",
+                "fr": "Admirez la magnifique architecture même sans jouer au casino."
               }
             },
             {
@@ -324,7 +327,8 @@
                 "de": "Suchen Sie nach den Namen berühmter Schauspieler auf den Kabinen.",
                 "hu": "Keresse a híres színészek neveit a kabinokon.",
                 "ro": "Căutați numele actorilor celebri pe cabine.",
-                "en": "Look for the names of famous actors on the cabins."
+                "en": "Look for the names of famous actors on the cabins.",
+                "fr": "Cherchez les noms de célèbres acteurs sur les cabines."
               }
             },
             {
@@ -333,7 +337,8 @@
                 "de": "Mieten Sie einen bunten Sonnenschirm für das perfekte Foto.",
                 "hu": "Béreljen színes napernyőt a tökéletes fotóhoz.",
                 "ro": "Închiriați o umbrelă colorată pentru fotografia perfectă.",
-                "en": "Rent a colorful parasol for the perfect photo."
+                "en": "Rent a colorful parasol for the perfect photo.",
+                "fr": "Louez un parasol coloré pour la photo parfaite."
               }
             },
             {
@@ -342,7 +347,8 @@
                 "de": "Genießen Sie den Blick auf die Yachten bei Sonnenuntergang.",
                 "hu": "Élvezze a jachtokra nyíló kilátást naplementekor.",
                 "ro": "Bucurați-vă de vederea la iahturi la apus.",
-                "en": "Enjoy the view of the yachts at sunset."
+                "en": "Enjoy the view of the yachts at sunset.",
+                "fr": "Profitez de la vue sur les yachts au coucher du soleil."
               }
             },
             {
@@ -351,7 +357,8 @@
                 "de": "Probieren Sie Seezungenfilet nach normannischer Art.",
                 "hu": "Kóstolja meg a nyelvhalfilét normandiai módra.",
                 "ro": "Gustați file de limbă de mare în stil normand.",
-                "en": "Try the sole fillet prepared in the Normandy style."
+                "en": "Try the sole fillet prepared in the Normandy style.",
+                "fr": "Goûtez le filet de sole préparé à la normande."
               }
             }
           ],
@@ -477,6 +484,12 @@
               "Book restaurants in advance, especially on weekends.",
               "Check the tide times before walking far on the beach.",
               "Visit during the film festival for extra glamour."
+            ],
+            "fr": [
+              "Portez des chaussures confortables pour marcher sur les planches en bois.",
+              "Réservez les restaurants à l’avance, surtout le week-end.",
+              "Vérifiez les horaires des marées avant de vous éloigner trop sur la plage.",
+              "Visitez pendant le festival du film pour plus de glamour."
             ]
           }
         },
@@ -486,7 +499,7 @@
             "hu": "Deauville esőben is elegáns marad. Kezdje a reggelt a fedett piaccsarnokban, védve az elemektől. A délelőttöt töltse a Casino pazar belső tereiben, amely tökéletes menedék a záporok elől. Délután a tengerparti sétány melletti kávézók üvegfalai mögül csodálhatja a morajló hullámokat. Az estet egy meghitt, gasztronómiai élményt nyújtó vacsorával zárhatja a város szívében.",
             "ro": "Deauville în ploaie are un farmec melancolic și rafinat. Începeți dimineața la adăpostul halei pieței, savurând produse locale. Continuați în interiorul somptuos al Cazinoului pentru a evita aversele. La prânz, admirați marea agitată de pe o terasă acoperită de pe Les Planches. Seara se încheie perfect cu o cină gastronomică într-o atmosferă caldă și primitoare.",
             "en": "Deauville in the rain exudes a unique coastal elegance. Start your morning under the shelter of the market hall, tasting local treats. Spend your late morning inside the opulent Casino, a perfect refuge from the showers. In the afternoon, watch the misty English Channel from the safety of a covered terrace on Les Planches. Conclude your day with a cozy gourmet dinner in the town center.",
-            "fr": "Deauville sous la pluie dégage une élégance côtière unique. Commencez votre matinée à l'abri des halles du marché en dégustant des gourmandises locales. Passez la fin de matinée à l'intérieur de l'opulent Casino, refuge parfait contre les averses. L'après-midi, contemplez la Manche brumeuse depuis la sécurité d'une terrasse couverte sur les Planches. Concluez votre journée par un dîner gastronomique chaleureux en centre-ville."
+            "fr": "Deauville sous la pluie dégage une élégance côtière unique. Commencez la matinée à l’abri des halles du marché en dégustant des produits locaux. Passez la fin de matinée à l’intérieur de l’opulent Casino, parfait refuge contre les averses. L’après-midi, contemplez la Manche embrumée depuis la sécurité d’une terrasse couverte sur Les Planches. Concluez la journée par un dîner gourmand et chaleureux au centre-ville."
           },
           "stops": [
             {
@@ -496,7 +509,7 @@
                 "hu": "Használja a fa piaccsarnokot menedékként az eső elől.",
                 "ro": "Folosiți hala de lemn a pieței pentru a vă adăposti de ploaie.",
                 "en": "Use the timbered market halls as shelter from the rain.",
-                "fr": "Utilisez les halles du marché à colombages comme abri contre la pluie."
+                "fr": "Utilisez les halles à colombages comme abri contre la pluie."
               }
             },
             {
@@ -506,7 +519,7 @@
                 "hu": "Ideális hely az időtöltésre száraz, luxus környezetben.",
                 "ro": "Locul ideal pentru a petrece timpul la uscat, într-o atmosferă luxoasă.",
                 "en": "An ideal place to spend time dry in a luxurious atmosphere.",
-                "fr": "Un endroit idéal pour passer du temps au sec dans une atmosphère luxueuse."
+                "fr": "Un lieu idéal pour rester au sec dans une atmosphère luxueuse."
               }
             },
             {
@@ -516,7 +529,7 @@
                 "hu": "Vigyázat, a híres tengerparti sétány nedves fája csúszós lehet.",
                 "ro": "Atenție, lemnul ud al celebrei promenade poate fi alunecos.",
                 "en": "Careful, the wet wood of the famous boardwalk can be slippery.",
-                "fr": "Attention, le bois mouillé des célèbres Planches peut être glissant."
+                "fr": "Attention, le bois humide des célèbres planches peut être glissant."
               }
             },
             {
@@ -526,7 +539,7 @@
                 "hu": "Figyelje a viharos tengert az egyik parti bár biztonságából.",
                 "ro": "Admirați marea agitată din siguranța unui bar de pe plajă.",
                 "en": "Watch the stormy sea from the safety of a beach bar.",
-                "fr": "Observez la mer agitée depuis la sécurité d'un bar de plage."
+                "fr": "Regardez la mer déchaînée depuis la sécurité d’un bar de plage couvert."
               }
             },
             {
@@ -536,7 +549,7 @@
                 "hu": "A vitorlások árbocai csörömpölnek az esős szélben – különleges hangulat.",
                 "ro": "Catargul iahturilor zăngăne în vântul ploios – o atmosferă aparte.",
                 "en": "The masts of the yachts clatter in the rainy wind – a unique atmosphere.",
-                "fr": "Les mâts des yachts s'entrechoquent dans le vent pluvieux – une atmosphère unique."
+                "fr": "Les mâts des yachts claquent dans le vent pluvieux – une atmosphère unique."
               }
             },
             {
@@ -546,7 +559,7 @@
                 "hu": "Foglaljon előre, hogy biztosan legyen meleg helye.",
                 "ro": "Rezervați din timp pentru a vă asigura un loc călduros.",
                 "en": "Book in advance to ensure a warm spot inside.",
-                "fr": "Réservez à l'avance pour vous assurer une place au chaud à l'intérieur."
+                "fr": "Réservez à l’avance pour garantir une place au chaud à l’intérieur."
               }
             }
           ],
@@ -577,9 +590,9 @@
             ],
             "fr": [
               "Portez des chaussures imperméables car des flaques peuvent se former sur les trottoirs.",
-              "Le Casino propose un excellent vestiaire pour les manteaux mouillés.",
-              "Utilisez les passages entre les maisons à colombages comme raccourcis au sec.",
-              "Un parapluie de voyage robuste est essentiel pour la pluie côtière souvent venteuse."
+              "Le Casino propose un vestiaire pratique pour les manteaux mouillés.",
+              "Utilisez les passages entre maisons à colombages pour de courts raccourcis au sec.",
+              "Un parapluie de voyage solide est essentiel pour la pluie côtière souvent venteuse."
             ]
           }
         },
@@ -589,7 +602,7 @@
             "hu": "Deauville télen békés és exkluzív arcát mutatja. A reggeli friss tengeri levegő felfrissíti a lelket a piacon tett séta közben. Délben a kaszinó fűtött terei nyújtanak pazar meleget. Délután a korai szürkület pasztellszínekbe öltözteti a partot, mielőtt a hideg elől a város hangulatos, helyi specialitásokat kínáló éttermeibe menekülne.",
             "ro": "Deauville iarna este liniștit și exclusivist. Aerul proaspăt de mare dimineața revigorează spiritul în timpul unei plimbări prin piață. La prânz, spațiile încălzite ale Cazinoului oferă o căldură somptuoasă. După-amiaza, amurgul timpuriu colorează plaja în nuanțe pastelate, înainte ca frigul să vă trimită în restaurantele primitoare ale orașului.",
             "en": "Deauville in winter is peaceful and exclusive. The crisp morning sea air invigorates the soul during a market stroll. At noon, the heated interiors of the Casino provide palatial warmth. In the afternoon, the early dusk paints the beach in pastel hues before the cold drives you into the town's cozy restaurants for local specialties.",
-            "fr": "Deauville en hiver est paisible et exclusive. L'air marin vif du matin revigore l'esprit lors d'une promenade au marché. À midi, les intérieurs chauffés du Casino offrent une chaleur de palais. L'après-midi, le crépuscule précoce peint la plage de teintes pastel avant que le froid ne vous pousse vers les restaurants chaleureux de la ville pour des spécialités locales."
+            "fr": "Deauville en hiver est paisible et raffiné. L’air vif du matin au bord de la mer revigore lors d’une balade au marché. À midi, les intérieurs chauffés du Casino offrent une chaleur digne d’un palais. L’après-midi, la tombée précoce de la lumière peint la plage de teintes pastel avant que le froid ne vous pousse vers les restaurants chaleureux de la ville pour des spécialités locales."
           },
           "stops": [
             {
@@ -599,7 +612,7 @@
                 "hu": "Élvezzen egy forró cidre-t az egyik standnál.",
                 "ro": "Savurați un cidru fierbinte la unul dintre standuri.",
                 "en": "Enjoy a hot cider at one of the market stalls.",
-                "fr": "Dégustez un cidre chaud à l'un des étals du marché."
+                "fr": "Dégustez un cidre chaud à l’un des étals du marché."
               }
             },
             {
@@ -619,7 +632,7 @@
                 "hu": "A meleg ruházat fontos, a tengeri szél jeges lehet.",
                 "ro": "Îmbrăcămintea groasă este importantă, vântul mării poate fi înghețat.",
                 "en": "Warm clothing is essential; the sea breeze can be icy.",
-                "fr": "Des vêtements chauds sont essentiels ; la brise marine peut être glaciale."
+                "fr": "Des vêtements chauds sont indispensables ; la brise marine peut être glaciale."
               }
             },
             {
@@ -629,7 +642,7 @@
                 "hu": "Tapasztalja meg a strand tágas ürességét téli fényekben.",
                 "ro": "Experimentați pustietatea plajei în lumina iernii.",
                 "en": "Experience the vast emptiness of the beach in winter light.",
-                "fr": "Découvrez l'immensité de la plage vide sous la lumière hivernale."
+                "fr": "Vivez la vaste solitude de la plage à la lumière hivernale."
               }
             },
             {
@@ -639,7 +652,7 @@
                 "hu": "A kikötő feletti naplemente már 17:00 körül bekövetkezik.",
                 "ro": "Apusul peste port are loc deja în jurul orei 17:00.",
                 "en": "Sunset over the port occurs early, around 5:00 PM.",
-                "fr": "Le coucher du soleil sur le port arrive tôt, vers 17h00."
+                "fr": "Le coucher du soleil sur le port a lieu tôt, vers 17h00."
               }
             },
             {
@@ -649,7 +662,7 @@
                 "hu": "Próbálja ki a kiadós normann egytálételeket az erőgyűjtéshez.",
                 "ro": "Încercați tocănițele normande consistente pentru a vă revigora.",
                 "en": "Try hearty Norman stews to recharge your energy.",
-                "fr": "Goûtez aux ragoûts normands copieux pour reprendre des forces."
+                "fr": "Goûtez des ragoûts normands copieux pour reprendre des forces."
               }
             }
           ],
@@ -679,10 +692,10 @@
               "Check opening hours as some shops may close earlier during the off-season."
             ],
             "fr": [
-              "Le soleil se couche tôt en hiver (vers 17h), planifiez vos activités de plein air en conséquence.",
-              "Superposer vos vêtements protège contre le vent côtier mordant.",
-              "De nombreux cafés proposent des chauffages extérieurs sur leurs terrasses même en hiver.",
-              "Vérifiez les horaires d'ouverture car certains magasins peuvent fermer plus tôt hors saison."
+              "Le soleil se couche tôt en hiver (vers 17h), planifiez vos activités extérieures en conséquence.",
+              "Superposer les vêtements protège du vent côtier mordant.",
+              "Beaux cafés proposent parfois des chauffages extérieurs sur leurs terrasses même en hiver.",
+              "Vérifiez les horaires d’ouverture car certaines boutiques ferment plus tôt en basse saison."
             ]
           }
         }
@@ -712,7 +725,7 @@
             "hu": "Csodálja meg ezt az ikonikus anglo-normann villát.",
             "ro": "Admirați această vilă anglo-normandă iconică.",
             "en": "Admire this iconic Anglo-Norman villa.",
-            "fr": "Admirez cette villa emblématique de style anglo-normand."
+            "fr": "Admirez cette villa anglo-normande emblématique."
           }
         },
         {
@@ -731,7 +744,7 @@
             "hu": "Nézze meg a telivérek reggeli edzését.",
             "ro": "Vizitați antrenamentul de dimineață al cailor pur sânge.",
             "en": "Visit the morning training of the thoroughbreds.",
-            "fr": "Assistez à l'entraînement matinal des pur-sang."
+            "fr": "Assistez à l’entraînement matinal des pur-sang."
           }
         },
         {
@@ -750,7 +763,7 @@
             "hu": "Tekerjen át a hídon a szomszédos halászfaluba.",
             "ro": "Traversați podul către satul de pescari vecin.",
             "en": "Cycle across the bridge to the neighboring fishing village.",
-            "fr": "Traversez le pont à vélo vers le village de pêcheurs voisin."
+            "fr": "Pédalez sur le pont jusqu’au village de pêche voisin."
           }
         },
         {
@@ -769,7 +782,7 @@
             "hu": "Kóstoljon friss osztrigát közvetlenül a pultnál.",
             "ro": "Gustați stridii proaspete direct la stand.",
             "en": "Try fresh oysters directly at the stall.",
-            "fr": "Dégustez des huîtres fraîches directement à l'étal."
+            "fr": "Goûtez des huîtres fraîches directement au stand."
           }
         },
         {
@@ -816,7 +829,7 @@
         "hu": "Fedezze fel Deauville-t két keréken, kezdve a pompás Villa Strassburgerrel. Tekerjen a lóversenypályához, hogy átélje a lovassport szellemét.\n\nKeresztezze a hidat Trouville-ba az autentikus hangulatért és egy ebédért a híres halpiacon. Itt az élet kicsit nyersebb és eredetibb.\n\nDélután élvezze a tágas parti utat, amely Deauville-t összeköti a környező falvakkal. A szél a hajában és a tengeri kilátás megfizethetetlen.\n\nTérjen vissza a kikötőbe naplementére, hogy megnézze a befutó halászhajókat.",
         "ro": "Explorați Deauville pe două roți, începând de la splendida Vilă Strassburger. Mergeți la hipodrom pentru a simți spiritul sporturilor ecvestre.\n\nTraversați podul spre Trouville pentru o atmosferă autentică și un prânz în faimoasa piață de pește. Aici viața este puțin mai aspră și mai originală.\n\nDupă-amiaza, bucurați-vă de drumul de coastă spațios care leagă Deauville de satele din jur. Vântul în plete și vederea la mare sunt de neprețuit.\n\nÎntoarceți-vă în port la timp pentru apus, pentru a vedea bărcile de pescari intrând în port.",
         "en": "Explore Deauville on two wheels, starting with the magnificent Villa Strassburger. Cycle to the racecourse to feel the spirit of equestrian sports.\n\nCross the bridge to Trouville for an authentic atmosphere and lunch at the famous fish market. Life here is a bit more rugged and original.\n\nIn the afternoon, enjoy the wide coastal road connecting Deauville with surrounding villages. The wind in your hair and the sea view are priceless.\n\nReturn to the harbor in time for sunset to watch the fishing boats coming in.",
-        "fr": "Explorez Deauville sur deux roues, en commençant par la magnifique Villa Strassburger. Pédalez jusqu'à l'hippodrome pour ressentir l'esprit des sports équestres.\n\nTraversez le pont vers Trouville pour une atmosphère authentique et déjeunez au célèbre marché aux poissons. La vie y est un peu plus brute et originale.\n\nL'après-midi, profitez de la large route côtière qui relie Deauville aux villages environnants. Le vent dans vos cheveux et la vue sur la mer sont inestimables.\n\nRetournez au port à temps pour le coucher du soleil pour regarder les bateaux de pêche rentrer."
+        "fr": "Explorez Deauville à vélo en commençant par la magnifique Villa Strassburger. Rejoignez l’hippodrome pour ressentir l’esprit des sports équestres.\n\nTraversez le pont jusqu’à Trouville pour une ambiance authentique et un déjeuner au célèbre marché aux poissons. La vie y est plus rude et originale.\n\nL’après-midi, profitez de la large route côtière reliant Deauville aux villages voisins. Le vent dans les cheveux et la vue sur la mer sont inestimables.\n\nRevenez au port juste à temps pour le coucher du soleil et observez le retour des bateaux de pêche."
       },
       "gastro_picks": {
         "de": [
@@ -947,7 +960,7 @@
         "fr": [
           "Louez un vélo près de la gare.",
           "Utilisez les pistes cyclables pour éviter la circulation automobile.",
-          "Attachez toujours votre vélo de manière sécurisée.",
+          "Verrouillez toujours votre vélo solidement.",
           "Portez une veste légère s'il y a du vent."
         ]
       },
@@ -957,7 +970,8 @@
             "de": "Erkunden Sie Deauville auf zwei Rädern, beginnend bei der prachtvollen Villa Strassburger. Fahren Sie zur Rennbahn, um den Geist des Pferdesports zu spüren.\n\nÜberqueren Sie die Brücke nach Trouville für eine authentische Atmosphäre und ein Mittagessen auf dem berühmten Fischmarkt. Hier ist das Leben etwas rauer und ursprünglicher.\n\nAm Nachmittag genießen Sie die weite Küstenstraße, die Deauville mit den umliegenden Dörfern verbindet. Der Wind in den Haaren und der Blick aufs Meer sind unbezahlbar.\n\nKehren Sie pünktlich zum Sonnenuntergang zum Hafen zurück, um die Fischerboote bei ihrer Einfahrt zu beobachten.",
             "hu": "Fedezze fel Deauville-t két keréken, kezdve a pompás Villa Strassburgerrel. Tekerjen a lóversenypályához, hogy átélje a lovassport szellemét.\n\nKeresztezze a hidat Trouville-ba az autentikus hangulatért és egy ebédért a híres halpiacon. Itt az élet kicsit nyersebb és eredetibb.\n\nDélután élvezze a tágas parti utat, amely Deauville-t összeköti a környező falvakkal. A szél a hajában és a tengeri kilátás megfizethetetlen.\n\nTérjen vissza a kikötőbe naplementére, hogy megnézze a befutó halászhajókat.",
             "ro": "Explorați Deauville pe două roți, începând de la splendida Vilă Strassburger. Mergeți la hipodrom pentru a simți spiritul sporturilor ecvestre.\n\nTraversați podul spre Trouville pentru o atmosferă autentică și un prânz în faimoasa piață de pește. Aici viața este puțin mai aspră și mai originală.\n\nDupă-amiaza, bucurați-vă de drumul de coastă spațios care leagă Deauville de satele din jur. Vântul în plete și vederea la mare sunt de neprețuit.\n\nÎntoarceți-vă în port la timp pentru apus, pentru a vedea bărcile de pescari intrând în port.",
-            "en": "Explore Deauville on two wheels, starting with the magnificent Villa Strassburger. Cycle to the racecourse to feel the spirit of equestrian sports.\n\nCross the bridge to Trouville for an authentic atmosphere and lunch at the famous fish market. Life here is a bit more rugged and original.\n\nIn the afternoon, enjoy the wide coastal road connecting Deauville with surrounding villages. The wind in your hair and the sea view are priceless.\n\nReturn to the harbor in time for sunset to watch the fishing boats coming in."
+            "en": "Explore Deauville on two wheels, starting with the magnificent Villa Strassburger. Cycle to the racecourse to feel the spirit of equestrian sports.\n\nCross the bridge to Trouville for an authentic atmosphere and lunch at the famous fish market. Life here is a bit more rugged and original.\n\nIn the afternoon, enjoy the wide coastal road connecting Deauville with surrounding villages. The wind in your hair and the sea view are priceless.\n\nReturn to the harbor in time for sunset to watch the fishing boats coming in.",
+            "fr": "Explorez Deauville à deux roues, en commençant par la magnifique Villa Strassburger. Pédalez jusqu'à l'hippodrome pour ressentir l'esprit des sports équestres.\n\nTraversez le pont jusqu'à Trouville pour une ambiance authentique et un déjeuner au célèbre marché aux poissons. La vie y est un peu plus âpre et originale.\n\nL'après-midi, profitez de la large route côtière reliant Deauville aux villages environnants. Le vent dans les cheveux et la vue sur la mer n'ont pas de prix.\n\nRevenez au port à temps pour le coucher du soleil et regardez les bateaux de pêche rentrer."
           },
           "stops": [
             {
@@ -966,7 +980,8 @@
                 "de": "Bewundern Sie diese ikonische anglo-normannische Villa.",
                 "hu": "Csodálja meg ezt az ikonikus anglo-normann villát.",
                 "ro": "Admirați această vilă anglo-normandă iconică.",
-                "en": "Admire this iconic Anglo-Norman villa."
+                "en": "Admire this iconic Anglo-Norman villa.",
+                "fr": "Admirez cette villa anglo-normande emblématique."
               }
             },
             {
@@ -975,7 +990,8 @@
                 "de": "Besuchen Sie das Morgentraining der Vollblüter.",
                 "hu": "Nézze meg a telivérek reggeli edzését.",
                 "ro": "Vizitați antrenamentul de dimineață al cailor pur sânge.",
-                "en": "Visit the morning training of the thoroughbreds."
+                "en": "Visit the morning training of the thoroughbreds.",
+                "fr": "Assistez à l'entraînement matinal des pur-sang."
               }
             },
             {
@@ -984,7 +1000,8 @@
                 "de": "Fahren Sie über die Brücke ins benachbarte Fischerdorf.",
                 "hu": "Tekerjen át a hídon a szomszédos halászfaluba.",
                 "ro": "Traversați podul către satul de pescari vecin.",
-                "en": "Cycle across the bridge to the neighboring fishing village."
+                "en": "Cycle across the bridge to the neighboring fishing village.",
+                "fr": "Pédalez à travers le pont jusqu'au village de pêche voisin."
               }
             },
             {
@@ -993,7 +1010,8 @@
                 "de": "Frische Austern direkt am Stand probieren.",
                 "hu": "Kóstoljon friss osztrigát közvetlenül a pultnál.",
                 "ro": "Gustați stridii proaspete direct la stand.",
-                "en": "Try fresh oysters directly at the stall."
+                "en": "Try fresh oysters directly at the stall.",
+                "fr": "Goûtez des huîtres fraîches directement au stand."
               }
             },
             {
@@ -1002,7 +1020,8 @@
                 "de": "Eine entspannte Fahrt entlang der Küste.",
                 "hu": "Pihentető tekerés a part mentén.",
                 "ro": "O plimbare relaxantă de-a lungul coastei.",
-                "en": "A relaxing ride along the coast."
+                "en": "A relaxing ride along the coast.",
+                "fr": "Une balade relaxante le long de la côte."
               }
             },
             {
@@ -1011,7 +1030,8 @@
                 "de": "Ein kurzer Stopp für ein Foto am Leuchtturm.",
                 "hu": "Gyors fotómegálló a világítótoronynál.",
                 "ro": "O scurtă oprire pentru o fotografie la far.",
-                "en": "A quick stop for a photo at the lighthouse."
+                "en": "A quick stop for a photo at the lighthouse.",
+                "fr": "Une courte pause photo au phare."
               }
             }
           ],
@@ -1121,6 +1141,12 @@
               "Use the bike paths to avoid car traffic.",
               "Always lock your bike securely.",
               "Wear a light jacket if it's windy."
+            ],
+            "fr": [
+              "Louez un vélo près de la gare.",
+              "Utilisez les pistes cyclables pour éviter la circulation automobile.",
+              "Verrouillez toujours votre vélo solidement.",
+              "Portez une veste légère s'il y a du vent."
             ]
           }
         },
@@ -1130,7 +1156,7 @@
             "hu": "Egy esős kerékpártúra jó felszerelést igényel, de üres utakkal jutalmaz. Látogasson el a Villa Strassburgerhez, melynek kertje esőben különösen élénk. A Hippodrom érintése után irány Trouville. A fedett halpiac tökéletes hely az ebédszünetre, mielőtt a part mentén visszakerekezne.",
             "ro": "O tură cu bicicleta prin ploaie necesită echipament bun, dar vă răsplătește cu drumuri libere. Vizitați Villa Strassburger, a cărei grădină strălucește intens în ploaie. După o oprire la Hipodrom, treceți podul spre Trouville. Piața de pește acoperită este locul perfect pentru prânz înainte de întoarcere.",
             "en": "A bike ride in the rain requires good gear but rewards you with empty paths. Visit Villa Strassburger, where the gardens look especially vibrant in the rain. After a stop at the Hippodrome, cross the bridge to Trouville. The covered fish market is the perfect lunch spot before cycling back along the coast.",
-            "fr": "Une balade à vélo sous la pluie nécessite un bon équipement mais vous récompense par des sentiers vides. Visitez la Villa Strassburger, dont les jardins paraissent particulièrement éclatants sous la pluie. Après un arrêt à l'Hippodrome, traversez le pont vers Trouville. Le marché aux poissons couvert est l'endroit idéal pour déjeuner avant de repartir le long de la côte."
+            "fr": "Une balade à vélo sous la pluie exige un bon équipement mais vous récompense par des chemins déserts. Visitez la Villa Strassburger, où les jardins paraissent particulièrement vifs sous la pluie. Après un arrêt à l'hippodrome, traversez le pont jusqu'à Trouville. Le marché couvert aux poissons est l'endroit parfait pour déjeuner avant de longer la côte à vélo."
           },
           "stops": [
             {
@@ -1140,7 +1166,7 @@
                 "hu": "Vigyázat a nedves kavicsos úton, csúszós lehet.",
                 "ro": "Atenție pe drumul cu pietriș umed, poate fi alunecos.",
                 "en": "Be careful on the wet gravel path; it can be slippery.",
-                "fr": "Soyez prudent sur le chemin de gravier mouillé ; il peut être glissant."
+                "fr": "Faites attention au chemin de gravier mouillé ; il peut être glissant."
               }
             },
             {
@@ -1160,7 +1186,7 @@
                 "hu": "Közlekedjen óvatosan a Deauville-t összekötő fémhídon.",
                 "ro": "Traversați cu atenție podul metalic care leagă Deauville.",
                 "en": "Ride carefully over the metal bridge connecting to Deauville.",
-                "fr": "Roulez prudemment sur le pont métallique reliant Deauville."
+                "fr": "Roulez prudemment sur le pont métallique qui relie à Deauville."
               }
             },
             {
@@ -1170,7 +1196,7 @@
                 "hu": "Parkolja le a biciklit az előtető alatt, hogy szárazon egyen.",
                 "ro": "Parcați bicicleta sub copertină pentru a mânca la uscat.",
                 "en": "Park your bike under the awning to eat in the dry.",
-                "fr": "Garez votre vélo sous l'auvent pour manger au sec."
+                "fr": "Garez votre vélo sous l'auvent pour manger à l'abri."
               }
             },
             {
@@ -1180,7 +1206,7 @@
                 "hu": "Ügyeljen az erős oldalszélre és a felcsapódó vízre.",
                 "ro": "Fiți atenți la vântul lateral puternic și la apa împroșcată.",
                 "en": "Watch out for strong side winds and splashing water.",
-                "fr": "Attention aux vents latéraux forts et aux projections d'eau."
+                "fr": "Prudence avec les vents latéraux forts et les éclaboussures."
               }
             },
             {
@@ -1190,7 +1216,7 @@
                 "hu": "Egy rövid fotómegálló elég, mielőtt visszatérne a szárazba.",
                 "ro": "O scurtă oprire pentru poze e suficientă înainte de a reveni la uscat.",
                 "en": "A quick photo stop is enough before heading back to the dry.",
-                "fr": "Un court arrêt photo suffit avant de retourner au sec."
+                "fr": "Une courte pause photo suffit avant de retourner à l'abri."
               }
             }
           ],
@@ -1220,10 +1246,10 @@
               "A high-visibility raincoat significantly increases your safety around cars."
             ],
             "fr": [
-              "Les garde-boue sur votre vélo sont essentiels sous la pluie normande.",
-              "Évitez de freiner sur les marquages au sol mouillés ou les plaques d'égout.",
-              "Utilisez des sacoches ou des sacs imperméables pour vos objets de valeur.",
-              "Un imperméable haute visibilité augmente considérablement votre sécurité vis-à-vis des voitures."
+              "Des garde-boue sont indispensables sous la pluie normande.",
+              "Évitez de freiner sur les marquages routiers mouillés ou sur les regards d'égout.",
+              "Utilisez des sacoches étanches pour vos objets de valeur.",
+              "Un imperméable haute visibilité augmente significativement votre sécurité vis-à-vis des voitures."
             ]
           }
         },
@@ -1233,7 +1259,7 @@
             "hu": "A téli kerékpározás Deauville-ben igazi felfrissülés. Kezdjen a pompás Villa Strassburgernél, majd tekerjen el a Hippodrom mellett, ahol a lovak gyakran a reggeli ködben edzenek. Trouville-ban a halpiac friss osztrigával csábít, ami télen a legfinomabb. A parti sétány szabad kilátást nyújt a tágas horizontra, mielőtt elérné a világítótornyot.",
             "ro": "Ciclismul în Deauville iarna este revigorant. Începeți la splendida Villa Strassburger și pedalați pe lângă Hipodrom, unde caii se antrenează adesea în ceața dimineții. În Trouville, piața de pește vă atrage cu scoici proaspete, care sunt cele mai bune iarna. Promenada oferă o vedere clară asupra orizontului înainte de a ajunge la far.",
             "en": "Cycling in Deauville in winter is refreshing. Start at the magnificent Villa Strassburger and ride past the Hippodrome, where horses often train in the morning mist. In Trouville, the fish market entices with fresh oysters, which taste best in winter. The coastal promenade offers an unobstructed view of the vast horizon before you reach the lighthouse.",
-            "fr": "Faire du vélo à Deauville en hiver est rafraîchissant. Commencez par la magnifique Villa Strassburger et passez devant l'Hippodrome, où les chevaux s'entraînent souvent dans la brume matinale. À Trouville, le marché aux poissons attire avec ses huîtres fraîches, meilleures en hiver. La promenade côtière offre une vue dégagée sur l'horizon vaste avant d'atteindre le phare."
+            "fr": "Faire du vélo à Deauville en hiver est vivifiant. Commencez par la magnifique Villa Strassburger et longez l'hippodrome, où les chevaux s'entraînent souvent dans la brume matinale. À Trouville, le marché aux poissons attire avec des huîtres fraîches, particulièrement savoureuses en hiver. La promenade côtière offre une vue dégagée sur l'immense horizon avant d'atteindre le phare."
           },
           "stops": [
             {
@@ -1243,7 +1269,7 @@
                 "hu": "Ügyeljen a dérre a reggeli árnyékos utakon.",
                 "ro": "Atenție la chiciură pe drumurile umbrite dimineața.",
                 "en": "Watch out for frost on shaded paths in the morning.",
-                "fr": "Attention au givre sur les sentiers ombragés le matin."
+                "fr": "Surveillez le gel sur les chemins ombragés le matin."
               }
             },
             {
@@ -1253,7 +1279,7 @@
                 "hu": "Viseljen meleg kesztyűt, a menetszél gyorsan lehűti a kezeket.",
                 "ro": "Purtați mănuși groase, curentul de aer răcește rapid mâinile.",
                 "en": "Wear warm gloves; the wind chill cools hands down quickly.",
-                "fr": "Portez des gants chauds ; le vent refroidit rapidement les mains."
+                "fr": "Portez des gants chauds ; le refroidissement éolien refroidit rapidement les mains."
               }
             },
             {
@@ -1263,7 +1289,7 @@
                 "hu": "Használja ki a téli kedvezményeket egyes kerékpárkölcsönzőknél.",
                 "ro": "Profitați de reducerile de iarnă la unele centre de închirieri biciclete.",
                 "en": "Take advantage of winter discounts at some bike rental shops.",
-                "fr": "Profitez des réductions hivernales chez certains loueurs de vélos."
+                "fr": "Profitez des réductions hivernales dans certains loueurs de vélos."
               }
             },
             {
@@ -1273,7 +1299,7 @@
                 "hu": "Melegedjen fel egy forró hallevessel.",
                 "ro": "Încălziți-vă cu o supă de pește fierbinte.",
                 "en": "Warm up with a bowl of hot fish soup.",
-                "fr": "Réchauffez-vous avec un bol de soupe de poisson chaude."
+                "fr": "Réchauffez-vous avec un bol de soupe de poisson chaud."
               }
             },
             {
@@ -1283,7 +1309,7 @@
                 "hu": "Élvezze a nyugalmat; télen szinte csak az Öné az út.",
                 "ro": "Bucurați-vă de liniște; iarna aveți drumul aproape doar pentru voi.",
                 "en": "Enjoy the peace; in winter, you'll have the path almost to yourself.",
-                "fr": "Profitez du calme ; en hiver, vous aurez le sentier presque pour vous."
+                "fr": "Appréciez le calme ; en hiver, vous aurez presque la piste pour vous seul."
               }
             },
             {
@@ -1323,10 +1349,10 @@
               "Shorten the tour if the sea wind becomes too intense."
             ],
             "fr": [
-              "Vérifiez la pression des pneus ; l'air froid peut la faire baisser légèrement.",
+              "Vérifiez la pression des pneus ; l'air froid peut la faire légèrement baisser.",
               "Un thermos de thé dans votre porte-bidon vaut son pesant d'or.",
               "Protégez vos oreilles avec un bandeau sous votre casque.",
-              "Écourtez la visite si le vent marin devient trop intense."
+              "Raccourcissez la sortie si le vent de mer devient trop intense."
             ]
           }
         }
@@ -1356,7 +1382,7 @@
             "hu": "Látogassa meg a II. világháborús bunkereket panorámás kilátással.",
             "ro": "Vizitați buncărele din Al Doilea Război Mondial cu vedere panoramică.",
             "en": "Visit the WWII bunkers with a panoramic view.",
-            "fr": "Visitez les bunkers de la Seconde Guerre mondiale avec une vue panoramique."
+            "fr": "Visitez les bunkers de la Seconde Guerre mondiale offrant une vue panoramique."
           }
         },
         {
@@ -1394,7 +1420,7 @@
             "hu": "Tökéletes egy gyors és friss ebédhez.",
             "ro": "Perfect pentru un prânz rapid și proaspăt.",
             "en": "Perfect for a quick and fresh lunch.",
-            "fr": "Parfait pour un déjeuner frais et rapide."
+            "fr": "Parfait pour un déjeuner rapide et frais."
           }
         },
         {
@@ -1441,7 +1467,7 @@
         "hu": "Autóval elérheti a Mont Canisy magasságait, ahonnan lélegzetelállító kilátás nyílik a partvidékre. Fedezze fel az Atlanti Fal erődítményeinek maradványait.\n\nAutózzon át Normandia zöld hátországán, rejtett udvarházak és virágzó rétek mentén. Egy megálló Trouville-ban a legjobb alkalom a tenger gyümölcseire.\n\nA délután a bájos Saint-Arnoult faluba vezet, amely nyugalmat kínál a turistatömegeken kívül. Csodálja meg az évszázados vallási építészetet.\n\nZárja a napot pihentetően, miközben kényelmesen ellátogat a régió legszebb kilátópontjaihoz.",
         "ro": "Cu mașina puteți ajunge la înălțimile Mont Canisy, de unde aveți o vedere uluitoare asupra coastei. Explorați resturile fortificațiilor Zidului Atlanticului.\n\nConduceți prin hinterlandul verde al Normandiei, pe lângă conace ascunse și pajiști înflorite. O oprire în Trouville oferă cea mai bună ocazie pentru fructe de mare.\n\nDupă-amiaza vă duce în satul fermecător Saint-Arnoult, care oferă liniște departe de mulțimile de turiști. Admirați arhitectura religioasă veche de secole.\n\nÎncheiați ziua relaxat, vizitând confortabil cele mai frumoase puncte de belvedere din regiune.",
         "en": "By car, you can reach the heights of Mont Canisy, offering a breathtaking view of the coast. Explore the remains of the Atlantic Wall fortifications.\n\nDrive through the green hinterland of Normandy, past hidden manors and blooming meadows. A stop in Trouville is the best opportunity for seafood.\n\nThe afternoon takes you to the charming village of Saint-Arnoult, offering peace away from the tourist crowds. Admire the centuries-old religious architecture.\n\nEnd the day in a relaxed way, comfortably visiting the region's most beautiful viewpoints.",
-        "fr": "En voiture, vous pouvez atteindre les hauteurs du Mont Canisy, offrant une vue imprenable sur la côte. Explorez les vestiges des fortifications du Mur de l'Atlantique.\n\nTraversez l'arrière-pays verdoyant de la Normandie, passez devant des manoirs cachés et des prairies fleuries. Un arrêt à Trouville est la meilleure occasion pour déguster des fruits de mer.\n\nL'après-midi vous emmène au charmant village de Saint-Arnoult, offrant la paix loin des foules touristiques. Admirez l'architecture religieuse séculaire.\n\nTerminez la journée de manière détendue, en visitant confortablement les plus beaux points de vue de la région."
+        "fr": "En voiture, vous pouvez atteindre les hauteurs du Mont Canisy, offrant une vue à couper le souffle sur la côte. Explorez les vestiges des fortifications du Mur de l'Atlantique.\n\nParcourez l'arrière-pays verdoyant de la Normandie, passez devant des manoirs cachés et des prairies en fleurs. Une halte à Trouville est la meilleure occasion pour des fruits de mer.\n\nL'après-midi vous mène au charmant village de Saint-Arnoult, offrant la tranquillité loin des foules touristiques. Admirez l'architecture religieuse pluricentenaire.\n\nTerminez la journée de manière détendue, en visitant confortablement les plus beaux points de vue de la région."
       },
       "gastro_picks": {
         "de": [
@@ -1570,10 +1596,10 @@
           "Some viewpoints require a short walk."
         ],
         "fr": [
-          "Les parkings du centre-ville sont souvent complets en été.",
-          "Utilisez la route côtière D513 pour de magnifiques panoramas.",
-          "Attention aux rues étroites dans les villages.",
-          "Certains points de vue nécessitent une courte marche."
+          "Les parkings du centre-ville sont souvent pleins en été.",
+          "Utilisez la D513, route côtière, pour de belles vues.",
+          "Faites attention aux rues étroites dans les villages.",
+          "Certains points de vue demandent une courte marche."
         ]
       },
       "variants": {
@@ -1582,7 +1608,8 @@
             "de": "Mit dem Auto erreichen Sie die Höhen des Mont Canisy, von wo aus Sie einen atemberaubenden Blick auf die Küste haben. Erkunden Sie die Überreste der Atlantikwall-Befestigungen.\n\nFahren Sie durch das grüne Hinterland der Normandie zu versteckten Herrensitzen und blühenden Wiesen. Ein Stopp in Trouville bietet die beste Gelegenheit für Meeresfrüchte.\n\nDer Nachmittag führt Sie in das charmante Dorf Saint-Arnoult, das Ruhe abseits der Touristenströme bietet. Bewundern Sie die jahrhundertealte religiöse Architektur.\n\nLassen Sie den Tag entspannt ausklingen, während Sie bequem zu den schönsten Aussichtspunkten der Region fahren.",
             "hu": "Autóval elérheti a Mont Canisy magasságait, ahonnan lélegzetelállító kilátás nyílik a partvidékre. Fedezze fel az Atlanti Fal erődítményeinek maradványait.\n\nAutózzon át Normandia zöld hátországán, rejtett udvarházak és virágzó rétek mentén. Egy megálló Trouville-ban a legjobb alkalom a tenger gyümölcseire.\n\nA délután a bájos Saint-Arnoult faluba vezet, amely nyugalmat kínál a turistatömegeken kívül. Csodálja meg az évszázados vallási építészetet.\n\nZárja a napot pihentetően, miközben kényelmesen ellátogat a régió legszebb kilátópontjaihoz.",
             "ro": "Cu mașina puteți ajunge la înălțimile Mont Canisy, de unde aveți o vedere uluitoare asupra coastei. Explorați resturile fortificațiilor Zidului Atlanticului.\n\nConduceți prin hinterlandul verde al Normandiei, pe lângă conace ascunse și pajiști înflorite. O oprire în Trouville oferă cea mai bună ocazie pentru fructe de mare.\n\nDupă-amiaza vă duce în satul fermecător Saint-Arnoult, care oferă liniște departe de mulțimile de turiști. Admirați arhitectura religioasă veche de secole.\n\nÎncheiați ziua relaxat, vizitând confortabil cele mai frumoase puncte de belvedere din regiune.",
-            "en": "By car, you can reach the heights of Mont Canisy, offering a breathtaking view of the coast. Explore the remains of the Atlantic Wall fortifications.\n\nDrive through the green hinterland of Normandy, past hidden manors and blooming meadows. A stop in Trouville is the best opportunity for seafood.\n\nThe afternoon takes you to the charming village of Saint-Arnoult, offering peace away from the tourist crowds. Admire the centuries-old religious architecture.\n\nEnd the day in a relaxed way, comfortably visiting the region's most beautiful viewpoints."
+            "en": "By car, you can reach the heights of Mont Canisy, offering a breathtaking view of the coast. Explore the remains of the Atlantic Wall fortifications.\n\nDrive through the green hinterland of Normandy, past hidden manors and blooming meadows. A stop in Trouville is the best opportunity for seafood.\n\nThe afternoon takes you to the charming village of Saint-Arnoult, offering peace away from the tourist crowds. Admire the centuries-old religious architecture.\n\nEnd the day in a relaxed way, comfortably visiting the region's most beautiful viewpoints.",
+            "fr": "En voiture, vous pouvez atteindre les hauteurs du Mont Canisy, offrant une vue à couper le souffle sur la côte. Explorez les vestiges des fortifications du Mur de l'Atlantique.\n\nParcourez l'arrière-pays verdoyant de la Normandie, passez devant des manoirs cachés et des prairies en fleurs. Une halte à Trouville est la meilleure occasion pour des fruits de mer.\n\nL'après-midi vous mène au charmant village de Saint-Arnoult, offrant la tranquillité loin des foules touristiques. Admirez l'architecture religieuse pluricentenaire.\n\nTerminez la journée de manière détendue, en visitant confortablement les plus beaux points de vue de la région."
           },
           "stops": [
             {
@@ -1591,7 +1618,8 @@
                 "de": "Besuchen Sie die Bunker aus dem Zweiten Weltkrieg mit Panoramablick.",
                 "hu": "Látogassa meg a II. világháborús bunkereket panorámás kilátással.",
                 "ro": "Vizitați buncărele din Al Doilea Război Mondial cu vedere panoramică.",
-                "en": "Visit the WWII bunkers with a panoramic view."
+                "en": "Visit the WWII bunkers with a panoramic view.",
+                "fr": "Visitez les bunkers de la Seconde Guerre mondiale offrant une vue panoramique."
               }
             },
             {
@@ -1600,7 +1628,8 @@
                 "de": "Ein verstecktes Juwel normannischer Architektur.",
                 "hu": "A normandiai építészet rejtett ékköve.",
                 "ro": "O bijuterie ascunsă a arhitecturii normande.",
-                "en": "A hidden gem of Normandy architecture."
+                "en": "A hidden gem of Normandy architecture.",
+                "fr": "Un joyau caché de l'architecture normande."
               }
             },
             {
@@ -1609,7 +1638,8 @@
                 "de": "Perfekt für ein schnelles und frisches Mittagessen.",
                 "hu": "Tökéletes egy gyors és friss ebédhez.",
                 "ro": "Perfect pentru un prânz rapid și proaspăt.",
-                "en": "Perfect for a quick and fresh lunch."
+                "en": "Perfect for a quick and fresh lunch.",
+                "fr": "Parfait pour un déjeuner rapide et frais."
               }
             },
             {
@@ -1618,7 +1648,8 @@
                 "de": "Besichtigen Sie die alte Kapelle aus dem 11. Jahrhundert.",
                 "hu": "Tekintse meg a XI. századi ősi kápolnát.",
                 "ro": "Vizitați capela veche din secolul al XI-lea.",
-                "en": "Visit the ancient 11th-century chapel."
+                "en": "Visit the ancient 11th-century chapel.",
+                "fr": "Visitez l'ancienne chapelle du XIe siècle."
               }
             },
             {
@@ -1627,7 +1658,8 @@
                 "de": "Letzter Blick über die Stadt vor der Abfahrt.",
                 "hu": "Utolsó pillantás a városra indulás előtt.",
                 "ro": "Ultima vedere asupra orașului înainte de plecare.",
-                "en": "Final view over the city before departure."
+                "en": "Final view over the city before departure.",
+                "fr": "Dernière vue sur la ville avant le départ."
               }
             }
           ],
@@ -1737,6 +1769,12 @@
               "Use the D513 coastal road for beautiful views.",
               "Watch out for narrow streets in the villages.",
               "Some viewpoints require a short walk."
+            ],
+            "fr": [
+              "Les parkings du centre-ville sont souvent pleins en été.",
+              "Utilisez la D513, route côtière, pour de belles vues.",
+              "Faites attention aux rues étroites dans les villages.",
+              "Certains points de vue demandent une courte marche."
             ]
           }
         },
@@ -1746,7 +1784,7 @@
             "hu": "Autóval kényelmesen, szárazon fedezheti fel Deauville környékét. A Mont Canisy-ról a felhők ellenére is misztikus kilátás nyílik a partra. A Manoir de Longeval esőben úgy fest, mint egy filmben. Ebédre a trouville-i halpiac fedett finomságokat kínál, mielőtt meglátogatná Saint-Arnoult történelmi helyszíneit.",
             "ro": "Cu mașina, explorați împrejurimile orașului Deauville confortabil, la uscat. De pe Mont Canisy aveți o vedere mistică asupra coastei, în ciuda norilor. Manoir de Longeval arată ca într-un film sub ploaie. Pentru prânz, piața de pește din Trouville oferă delicii la adăpost, înainte de a vizita locurile istorice din Saint-Arnoult.",
             "en": "Explore the outskirts of Deauville comfortably by car, staying dry. From Mont Canisy, you get a misty, mystical view of the coast despite the clouds. Manoir de Longeval looks like something out of a movie in the rain. For lunch, Trouville's fish market offers sheltered delicacies before you head to the historical sites in Saint-Arnoult.",
-            "fr": "Explorez les environs de Deauville confortablement en voiture, en restant au sec. Depuis le Mont Canisy, vous bénéficiez d'une vue brumeuse et mystique sur la côte malgré les nuages. Le Manoir de Longeval semble sortir d'un film sous la pluie. Pour le déjeuner, le marché aux poissons de Trouville propose des délices à l'abri avant de vous rendre sur les sites historiques de Saint-Arnoult."
+            "fr": "Explorez la périphérie de Deauville confortablement en voiture, à l'abri. Depuis Mont Canisy, vous obtenez une vue brumeuse et mystique sur la côte malgré les nuages. Le Manoir de Longeval ressemble à une scène de film sous la pluie. Pour le déjeuner, le marché aux poissons de Trouville offre des délices abrités avant de vous diriger vers les sites historiques de Saint-Arnoult."
           },
           "stops": [
             {
@@ -1756,7 +1794,7 @@
                 "hu": "Heves zápor esetén maradjon az autóban, és onnan élvezze a kilátást.",
                 "ro": "Rămâneți în mașină în timpul averselor puternice și admirați priveliștea.",
                 "en": "Stay in the car during heavy showers and enjoy the view from within.",
-                "fr": "Restez dans la voiture pendant les fortes averses et profitez de la vue de l'intérieur."
+                "fr": "Restez dans la voiture pendant les fortes averses et profitez de la vue depuis l'intérieur."
               }
             },
             {
@@ -1766,7 +1804,7 @@
                 "hu": "Parkoljon a lehető legközelebb a bejárathoz, hogy elkerülje az elázást.",
                 "ro": "Parcați cât mai aproape de intrare pentru a evita să vă udați.",
                 "en": "Park as close to the entrance as possible to avoid getting wet.",
-                "fr": "Garez-vous aussi près de l'entrée que possible pour éviter d'être mouillé."
+                "fr": "Garez-vous le plus près possible de l'entrée pour éviter de vous mouiller."
               }
             },
             {
@@ -1776,7 +1814,7 @@
                 "hu": "Használja a közeli parkolóházat, hogy száraz lábbal jusson el a piacra.",
                 "ro": "Folosiți parcarea supraetajată din apropiere pentru a ajunge uscat la piață.",
                 "en": "Use the nearby parking garage to reach the market with dry feet.",
-                "fr": "Utilisez le parking couvert à proximité pour rejoindre le marché au sec."
+                "fr": "Utilisez le parking couvert à proximité pour atteindre le marché les pieds secs."
               }
             },
             {
@@ -1827,7 +1865,7 @@
             ],
             "fr": [
               "Attention à l'aquaplaning sur les routes côtières.",
-              "Gardez un parapluie dans la voiture pour le trajet depuis le parking.",
+              "Gardez un parapluie dans la voiture pour la marche depuis le parking.",
               "La visibilité peut être limitée par le brouillard au Mont Canisy.",
               "Utilisez les sièges chauffants pour plus de confort après de courts arrêts sous la pluie."
             ]
@@ -1839,7 +1877,7 @@
             "hu": "Egy téli autós túra feltárja Normandia zord szépségét. A Mont Canisy-ról tágas kilátás nyílik a ködös tengerre. A Manoir de Longeval büszkén áll a kopár téli tájban. Egy kiadós ebéd után a trouville-i halpiacon, fedezze fel a történelmi Saint-Arnoult-ot, majd zárja a napot a Belvédère-nél.",
             "ro": "Un tur cu mașina iarna dezvăluie frumusețea aspră a Normandiei. Mont Canisy oferă vederi largi peste marea încețoșată. Manoir de Longeval stă mândru în peisajul arid de iarnă. După un prânz copios la piața de pește din Trouville, explorați Saint-Arnoult, înainte de a încheia ziua la Belvédère.",
             "en": "A winter car tour reveals the rugged beauty of Normandy. Mont Canisy offers expansive views over the misty sea. Manoir de Longeval stands proud in the stark winter landscape. After a hearty lunch at Trouville's fish market, explore historic Saint-Arnoult before ending your day at the Belvédère.",
-            "fr": "Un tour en voiture en hiver révèle la beauté sauvage de la Normandie. Le Mont Canisy offre des vues panoramiques sur la mer brumeuse. Le Manoir de Longeval se dresse fièrement dans le paysage hivernal dépouillé. Après un déjeuner copieux au marché aux poissons de Trouville, explorez le centre historique de Saint-Arnoult avant de terminer votre journée au Belvédère."
+            "fr": "Une excursion en voiture hivernale révèle la beauté austère de la Normandie. Mont Canisy offre des vues étendues sur la mer brumeuse. Le Manoir de Longeval se dresse fièrement dans le paysage hivernal dépouillé. Après un déjeuner copieux au marché aux poissons de Trouville, explorez le Saint-Arnoult historique avant de terminer votre journée au Belvédère."
           },
           "stops": [
             {
@@ -1849,7 +1887,7 @@
                 "hu": "Fűtést be! Fent télen nagyon hideg szél fúj.",
                 "ro": "Porniți căldura! Sus suflă un vânt foarte rece iarna.",
                 "en": "Heater on! A very cold wind blows at the top in winter.",
-                "fr": "Chauffage à fond ! Un vent très froid souffle au sommet en hiver."
+                "fr": "Chauffage allumé ! Un vent très froid souffle au sommet en hiver."
               }
             },
             {
@@ -1859,7 +1897,7 @@
                 "hu": "A homlokzat a mélyen járó téli napfényben különösen látványos.",
                 "ro": "Fațada arată spectaculos în lumina joasă a soarelui de iarnă.",
                 "en": "The facade looks particularly striking in the low winter sunlight.",
-                "fr": "La façade est particulièrement frappante sous la lumière basse du soleil d'hiver."
+                "fr": "La façade paraît particulièrement saisissante sous la faible lumière d'hiver."
               }
             },
             {
@@ -1869,7 +1907,7 @@
                 "hu": "Tökéletes egy meleg ebédhez, távol a hidegtől.",
                 "ro": "Perfect pentru un prânz cald, departe de frig.",
                 "en": "Perfect for a warm lunch away from the cold.",
-                "fr": "Parfait pour un déjeuner au chaud loin du froid."
+                "fr": "Idéal pour un déjeuner chaud à l'abri du froid."
               }
             },
             {
@@ -1879,7 +1917,7 @@
                 "hu": "A történelmi templom csendes, meleg menedéket nyújt.",
                 "ro": "Biserica istorică oferă un refugiu liniștit și cald.",
                 "en": "The historic church provides a quiet, warm retreat.",
-                "fr": "L'église historique offre un refuge calme et chaleureux."
+                "fr": "L'église historique offre un refuge tranquille et chauffé."
               }
             },
             {
@@ -1889,7 +1927,7 @@
                 "hu": "Élvezze a naplementét kényelmesen a vezetőülésből.",
                 "ro": "Bucurați-vă de apus confortabil de pe scaunul șoferului.",
                 "en": "Enjoy the sunset comfortably from the driver's seat.",
-                "fr": "Profitez du coucher du soleil confortablement depuis le siège conducteur."
+                "fr": "Profitez du coucher du soleil confortablement depuis le siège du conducteur."
               }
             }
           ],
@@ -1920,9 +1958,9 @@
             ],
             "fr": [
               "Attention aux plaques de verglas dans les zones forestières ombragées.",
-              "De l'antigel dans le liquide lave-glace est indispensable.",
-              "La batterie peut se décharger plus vite par grand froid ; éteignez les feux à l'arrêt.",
-              "Gardez des couvertures dans la voiture si vous prévoyez de vous arrêter longtemps pour la vue."
+              "L'antigel dans le liquide lave-glace est indispensable.",
+              "La batterie peut se décharger plus rapidement par grand froid ; coupez les éclairages en vous garant.",
+              "Gardez des couvertures dans la voiture si vous prévoyez de vous arrêter plus longtemps pour la vue."
             ]
           }
         }
@@ -1971,7 +2009,7 @@
             "hu": "A város szíve elegáns kávézókkal.",
             "ro": "Inima orașului cu cafenele elegante.",
             "en": "The heart of the city with elegant cafes.",
-            "fr": "Le cœur de la ville avec ses cafés élégants."
+            "fr": "Le cœur de la ville avec des cafés élégants."
           }
         },
         {
@@ -2028,7 +2066,7 @@
             "hu": "Séta a rakpartok mentén.",
             "ro": "Plimbare pe de-a lungul cheiurilor.",
             "en": "Stroll along the quays.",
-            "fr": "Flânez le long des quais."
+            "fr": "Promenez-vous le long des quais."
           }
         }
       ],
@@ -2037,7 +2075,7 @@
         "hu": "Használja a helyi buszjáratokat a vasútállomás és a főbb látnivalók közötti kényelmes közlekedéshez. Kezdjen a lenyűgöző Deauville-i pályaudvarnál.\n\nUtazzon a Place Morny-hoz, hogy megfigyelje a helyi életet, mielőtt busszal a strandra és a kaszinóhoz megy. Minden tökéletesen összekapcsolt.\n\nA délután folyamán a tömegközlekedés elviszi a lovasközponthoz, ahol többet megtudhat a régió lovas hagyományairól. Nincs stressz a parkolóhely keresése miatt.\n\nZárja a túrát a kikötőben, és térjen vissza pihentetően busszal a kiindulópontra, miközben élvezi a kilátást.",
         "ro": "Folosiți serviciul local de autobuz pentru a naveta confortabil între gară și principalele atracții. Începeți la impresionanta Gară Deauville.\n\nMergeți la Place Morny pentru a observa viața locală, înainte de a lua autobuzul spre plajă și cazinou. Totul este perfect conectat.\n\nDupă-amiaza, transportul în comun vă duce la centrul hipic, unde puteți afla mai multe despre tradiția ecvestră a regiunii. Fără stresul căutării unui loc de parcare.\n\nÎncheiați turul în port și întoarceți-vă relaxat cu autobuzul la punctul de plecare, în timp ce vă bucurați de priveliște.",
         "en": "Use the local bus service to commute comfortably between the station and the main attractions. Start at the impressive Deauville station.\n\nTravel to Place Morny to observe local life before taking the bus to the beach and the casino. Everything is perfectly connected.\n\nIn the afternoon, transit takes you to the equestrian center, where you can learn more about the region's horse tradition. No stress about finding a parking space.\n\nEnd your tour at the harbor and return relaxingly by bus to the starting point while enjoying the view.",
-        "fr": "Utilisez le service de bus local pour vous déplacer confortablement entre la gare et les principales attractions. Commencez par l'impressionnante gare de Deauville.\n\nRendez-vous à la Place Morny pour observer la vie locale avant de prendre le bus pour la plage et le casino. Tout est parfaitement connecté.\n\nL'après-midi, le transport vous emmène au centre équestre, où vous pourrez en apprendre davantage sur la tradition du cheval dans la région. Pas de stress pour trouver une place de parking.\n\nTerminez votre tour au port et revenez tranquillement en bus au point de départ tout en profitant de la vue."
+        "fr": "Utilisez le service de bus local pour vous déplacer confortablement entre la gare et les principales attractions. Commencez à l'imposante gare de Deauville.\n\nRendez-vous à la Place Morny pour observer la vie locale avant de prendre le bus pour la plage et le casino. Tout est parfaitement connecté.\n\nL'après-midi, le réseau vous mène au centre équestre, où vous pouvez en apprendre davantage sur la tradition hippique de la région. Pas de stress pour trouver une place de parking.\n\nTerminez votre circuit au port et revenez calmement en bus au point de départ tout en profitant de la vue."
       },
       "gastro_picks": {
         "de": [
@@ -2166,7 +2204,7 @@
           "There are lockers for luggage at the station."
         ],
         "fr": [
-          "Achetez un ticket à la journée pour le bus.",
+          "Achetez un ticket journée pour le bus.",
           "Téléchargez l'application Nomad Car pour les horaires en temps réel.",
           "Les bus circulent plus fréquemment en été.",
           "Il y a des consignes pour les bagages à la gare."
@@ -2178,7 +2216,8 @@
             "de": "Nutzen Sie den lokalen Bus-Service, um bequem zwischen dem Bahnhof und den wichtigsten Sehenswürdigkeiten zu pendeln. Beginnen Sie am beeindruckenden Gare de Deauville.\n\nFahren Sie zur Place Morny, um das lokale Leben zu beobachten, bevor Sie den Bus zum Strand und dem Casino nehmen. Alles ist perfekt vernetzt.\n\nAm Nachmittag bringt Sie der Transit zum Reitzentrum, wo Sie mehr über die Pferdetradition der Region erfahren können. Kein Stress mit der Parkplatzsuche.\n\nBeenden Sie Ihre Tour am Hafen und kehren Sie entspannt mit dem Bus zum Ausgangspunkt zurück, während Sie die Aussicht genießen.",
             "hu": "Használja a helyi buszjáratokat a vasútállomás és a főbb látnivalók közötti kényelmes közlekedéshez. Kezdjen a lenyűgöző Deauville-i pályaudvarnál.\n\nUtazzon a Place Morny-hoz, hogy megfigyelje a helyi életet, mielőtt busszal a strandra és a kaszinóhoz megy. Minden tökéletesen összekapcsolt.\n\nA délután folyamán a tömegközlekedés elviszi a lovasközponthoz, ahol többet megtudhat a régió lovas hagyományairól. Nincs stressz a parkolóhely keresése miatt.\n\nZárja a túrát a kikötőben, és térjen vissza pihentetően busszal a kiindulópontra, miközben élvezi a kilátást.",
             "ro": "Folosiți serviciul local de autobuz pentru a naveta confortabil între gară și principalele atracții. Începeți la impresionanta Gară Deauville.\n\nMergeți la Place Morny pentru a observa viața locală, înainte de a lua autobuzul spre plajă și cazinou. Totul este perfect conectat.\n\nDupă-amiaza, transportul în comun vă duce la centrul hipic, unde puteți afla mai multe despre tradiția ecvestră a regiunii. Fără stresul căutării unui loc de parcare.\n\nÎncheiați turul în port și întoarceți-vă relaxat cu autobuzul la punctul de plecare, în timp ce vă bucurați de priveliște.",
-            "en": "Use the local bus service to commute comfortably between the station and the main attractions. Start at the impressive Deauville station.\n\nTravel to Place Morny to observe local life before taking the bus to the beach and the casino. Everything is perfectly connected.\n\nIn the afternoon, transit takes you to the equestrian center, where you can learn more about the region's horse tradition. No stress about finding a parking space.\n\nEnd your tour at the harbor and return relaxingly by bus to the starting point while enjoying the view."
+            "en": "Use the local bus service to commute comfortably between the station and the main attractions. Start at the impressive Deauville station.\n\nTravel to Place Morny to observe local life before taking the bus to the beach and the casino. Everything is perfectly connected.\n\nIn the afternoon, transit takes you to the equestrian center, where you can learn more about the region's horse tradition. No stress about finding a parking space.\n\nEnd your tour at the harbor and return relaxingly by bus to the starting point while enjoying the view.",
+            "fr": "Utilisez le service de bus local pour vous déplacer confortablement entre la gare et les principaux sites. Commencez à l’imposante gare de Deauville.\n\nRendez-vous à la Place Morny pour observer la vie locale avant de prendre le bus vers la plage et le casino. Tout est parfaitement relié.\n\nL’après-midi, les transports vous emmènent au pôle hippique, où vous pourrez en apprendre davantage sur la tradition équestre de la région. Aucun stress pour trouver une place de parking.\n\nTerminez votre visite au port et revenez tranquillement en bus au point de départ en profitant du paysage."
           },
           "stops": [
             {
@@ -2187,7 +2226,8 @@
                 "de": "Ein prächtiges Bahnhofsgebäude im normannischen Stil.",
                 "hu": "Pompás pályaudvar normann stílusban.",
                 "ro": "O gară splendidă în stil normand.",
-                "en": "A magnificent station building in Norman style."
+                "en": "A magnificent station building in Norman style.",
+                "fr": "Un magnifique bâtiment de gare de style normand."
               }
             },
             {
@@ -2196,7 +2236,8 @@
                 "de": "Das Herz der Stadt mit eleganten Cafés.",
                 "hu": "A város szíve elegáns kávézókkal.",
                 "ro": "Inima orașului cu cafenele elegante.",
-                "en": "The heart of the city with elegant cafes."
+                "en": "The heart of the city with elegant cafes.",
+                "fr": "Le cœur de la ville avec des cafés élégants."
               }
             },
             {
@@ -2205,7 +2246,8 @@
                 "de": "Zentraler Halt für Strand und Kasino.",
                 "hu": "Központi megálló a strandhoz és a kaszinóhoz.",
                 "ro": "Stație centrală pentru plajă și cazinou.",
-                "en": "Central stop for the beach and casino."
+                "en": "Central stop for the beach and casino.",
+                "fr": "Arrêt central pour la plage et le casino."
               }
             },
             {
@@ -2214,7 +2256,8 @@
                 "de": "Leicht erreichbar mit der Buslinie 21.",
                 "hu": "Könnyen elérhető a 21-es busszal.",
                 "ro": "Ușor accesibil cu linia de autobuz 21.",
-                "en": "Easily accessible with bus line 21."
+                "en": "Easily accessible with bus line 21.",
+                "fr": "Facilement accessible avec la ligne de bus 21."
               }
             },
             {
@@ -2223,7 +2266,8 @@
                 "de": "Spaziergang entlang der Kaianlagen.",
                 "hu": "Séta a rakpartok mentén.",
                 "ro": "Plimbare pe de-a lungul cheiurilor.",
-                "en": "Stroll along the quays."
+                "en": "Stroll along the quays.",
+                "fr": "Promenez-vous le long des quais."
               }
             }
           ],
@@ -2333,6 +2377,12 @@
               "Download the Nomad Car app for real-time schedules.",
               "Buses run more frequently in summer.",
               "There are lockers for luggage at the station."
+            ],
+            "fr": [
+              "Achetez un ticket journée pour le bus.",
+              "Téléchargez l’application Nomad Car pour les horaires en temps réel.",
+              "Les bus circulent plus fréquemment en été.",
+              "Il y a des consignes pour les bagages à la gare."
             ]
           }
         },
@@ -2342,7 +2392,7 @@
             "hu": "Használja a tömegközlekedést, hogy szárazon ismerje meg Deauville-t. A pályaudvar építészeti remekmű és jó védelmet nyújt. A Place Morny-tól sok üzletet érhet el árkádok alatt. A kaszinó csak egy rövid sprintre van a megállótól. A délutánt töltse a Quai de la Marine-nál, ahol a buszok gyakran járnak.",
             "ro": "Folosiți transportul public pentru a vedea Deauville fără a vă uda. Gara este o bijuterie arhitecturală și oferă protecție bună. De la Place Morny puteți ajunge la multe magazine sub arcade. Cazinoul este la doar un scurt sprint de stație. Petreceți după-amiaza la Quai de la Marine, unde autobuzele circulă frecvent.",
             "en": "Use public transit to experience Deauville while staying dry. The train station is an architectural gem and offers great shelter. From Place Morny, many shops are reachable under arcades. The Casino is just a short dash from the bus stop. Spend your afternoon at Quai de la Marine, where buses run frequently.",
-            "fr": "Utilisez les transports en commun pour découvrir Deauville tout en restant au sec. La gare est un joyau architectural et offre un excellent abri. Depuis la Place Morny, de nombreux magasins sont accessibles sous les arcades. Le Casino n'est qu'à quelques pas de l'arrêt de bus. Passez votre après-midi au Quai de la Marine, où les bus passent fréquemment."
+            "fr": "Utilisez les transports en commun pour découvrir Deauville tout en restant au sec. La gare est un joyau architectural et offre un excellent abri. Depuis la Place Morny, de nombreuses boutiques sont accessibles sous les arcades. Le Casino est à quelques pas de l’arrêt de bus. Passez votre après-midi au Quai de la Marine, où les bus passent fréquemment."
           },
           "stops": [
             {
@@ -2352,7 +2402,7 @@
                 "hu": "Várjon a buszra a pompás pályaudvari csarnokban.",
                 "ro": "Așteptați autobuzul în holul splendid al gării.",
                 "en": "Wait for the bus inside the magnificent station hall.",
-                "fr": "Attendez le bus à l'intérieur du magnifique hall de la gare."
+                "fr": "Attendez le bus à l’intérieur de la magnifique halle de la gare."
               }
             },
             {
@@ -2362,7 +2412,7 @@
                 "hu": "A buszmegálló rendelkezik egy kis várakozóhellyel.",
                 "ro": "Stația de autobuz are un mic adăpost pentru așteptare.",
                 "en": "The bus stop features a small shelter for waiting.",
-                "fr": "L'arrêt de bus dispose d'un petit abri pour attendre."
+                "fr": "L’arrêt de bus dispose d’un petit abri pour patienter."
               }
             },
             {
@@ -2372,7 +2422,7 @@
                 "hu": "A megálló és a kaszinó közötti rövid táv minimalizálja az esőben töltött időt.",
                 "ro": "Distanța scurtă dintre stație și cazino minimizează timpul petrecut în ploaie.",
                 "en": "Short distance between the stop and the Casino minimizes time in the rain.",
-                "fr": "La courte distance entre l'arrêt et le Casino minimise le temps sous la pluie."
+                "fr": "La courte distance entre l’arrêt et le Casino minimise le temps passé sous la pluie."
               }
             },
             {
@@ -2382,7 +2432,7 @@
                 "hu": "Figyelje az elektronikus kijelzőket a következő járatig.",
                 "ro": "Urmăriți afișajele electronice pentru următoarea plecare.",
                 "en": "Watch the electronic displays for the next departure.",
-                "fr": "Surveillez les écrans électroniques pour le prochain départ."
+                "fr": "Regardez les panneaux électroniques pour le prochain départ."
               }
             },
             {
@@ -2422,10 +2472,10 @@
               "Bus shelters can be a bit drafty during strong winds."
             ],
             "fr": [
-              "Téléchargez l'application de transport locale pour les mises à jour en temps réel.",
-              "Gardez votre ticket prêt pour éviter les retards lors de la montée.",
-              "Certains bus peuvent avoir des vitres embuées ; écoutez attentivement les annonces d'arrêts.",
-              "Les abribus peuvent être un peu venteux lors de fortes rafales."
+              "Téléchargez l’application de transport locale pour des mises à jour en temps réel.",
+              "Gardez votre titre de transport prêt pour éviter des retards lors de la montée à bord.",
+              "Certains bus peuvent avoir des vitres embuées ; écoutez attentivement les annonces d’arrêt.",
+              "Les abris de bus peuvent être un peu venteux par grand vent."
             ]
           }
         },
@@ -2435,7 +2485,7 @@
             "hu": "Télen a tömegközlekedés a legmelegebb módja Deauville felfedezésének. Kezdjen a pályaudvarnál, és élvezze a karácsonyi fényeket a Place Morny-n. A buszok jól fűtöttek, és egyenesen a kaszinóhoz viszik. Délután utazzon el a Pôle Hippique-hez, majd a Quai de la Marine-nál csodálja meg a téli kikötőt.",
             "ro": "Transportul în comun este cea mai călduroasă cale de a explora Deauville iarna. Începeți la gară și bucurați-vă de luminile de Crăciun din Place Morny. Autobuzele sunt bine încălzite și vă duc direct la Cazino. După-amiaza, mergeți la Pôle Hippique, înainte de a vedea portul iarna de la Quai de la Marine.",
             "en": "Transit is the warmest way to explore Deauville in winter. Start at the station and enjoy the holiday lights at Place Morny. The buses are well-heated and take you straight to the Casino. In the afternoon, take a ride to Pôle Hippique before admiring the winter port at Quai de la Marine.",
-            "fr": "Le transport en commun est le moyen le plus chaud d'explorer Deauville en hiver. Commencez à la gare et profitez des illuminations de fête sur la Place Morny. Les bus sont bien chauffés et vous emmènent directement au Casino. L'après-midi, faites un tour au Pôle Hippique avant d'admirer le port d'hiver au Quai de la Marine."
+            "fr": "Les transports sont la manière la plus chaleureuse d’explorer Deauville en hiver. Commencez à la gare et profitez des illuminations de Noël à la Place Morny. Les bus sont bien chauffés et vous mènent directement au Casino. L’après-midi, faites un trajet jusqu’au Pôle Hippique avant d’admirer le port d’hiver au Quai de la Marine."
           },
           "stops": [
             {
@@ -2445,7 +2495,7 @@
                 "hu": "Télen a pályaudvar gyakran ünnepi díszkivilágítást kap.",
                 "ro": "Iarna, gara este adesea iluminată festiv.",
                 "en": "In winter, the station is often festively illuminated.",
-                "fr": "En hiver, la gare est souvent illuminée de manière festive."
+                "fr": "En hiver, la gare est souvent magnifiquement illuminée."
               }
             },
             {
@@ -2465,7 +2515,7 @@
                 "hu": "A buszok itt ritkábban járnak, mint nyáron, ellenőrizze a menetrendet.",
                 "ro": "Autobuzele circulă mai rar aici decât vara, verificați programul.",
                 "en": "Buses run less frequently here than in summer; check the schedule.",
-                "fr": "Les bus passent moins fréquemment ici qu'en été ; vérifiez les horaires."
+                "fr": "Les bus circulent moins fréquemment qu’en été ; consultez les horaires."
               }
             },
             {
@@ -2475,7 +2525,7 @@
                 "hu": "Egy rövid séta szükséges a megállótól a lovardáig.",
                 "ro": "Este necesară o scurtă plimbare de la stație până la manej.",
                 "en": "A short walk from the stop to the riding arena is required.",
-                "fr": "Une courte marche est nécessaire de l'arrêt jusqu'à l'aire de monte."
+                "fr": "Une courte marche entre l’arrêt et la salle d’équitation est nécessaire."
               }
             },
             {
@@ -2485,7 +2535,7 @@
                 "hu": "Élvezze a meleg buszozást a part mentén.",
                 "ro": "Bucurați-vă de drumul cu autobuzul încălzit de-a lungul coastei.",
                 "en": "Enjoy the warm bus ride along the coast.",
-                "fr": "Profitez du trajet en bus au chaud le long de la côte."
+                "fr": "Profitez du trajet en bus chauffé le long de la côte."
               }
             }
           ],
@@ -2515,10 +2565,10 @@
               "Departure times may be slightly delayed during snow or icy conditions."
             ],
             "fr": [
-              "Notez les horaires d'hiver, qui proposent moins de services.",
-              "Les bus sont généralement moins fréquentés en hiver, offrant beaucoup d'espace.",
-              "Portez un bonnet car il peut y avoir des courants d'air en attendant à l'arrêt.",
-              "Les heures de départ peuvent être légèrement retardées en cas de neige ou de verglas."
+              "Notez les horaires d’hiver, qui proposent moins de services.",
+              "Les bus sont généralement moins bondés en hiver, offrant beaucoup d’espace.",
+              "Portez un chapeau car il peut y avoir des courants d’air en attendant à l’arrêt.",
+              "Les départs peuvent être légèrement retardés en cas de neige ou de verglas."
             ]
           }
         }

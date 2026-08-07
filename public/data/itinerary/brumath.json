@@ -21,7 +21,8 @@
             "de": "Jardin de l'Escalier (Treppengarten)",
             "hu": "Lépcsőkertje (Jardin de l'Escalier)",
             "ro": "Grădina Scărilor (Jardin de l'Escalier)",
-            "en": "Garden of the Staircase"
+            "en": "Garden of the Staircase",
+            "fr": "Jardin de l'Escalier"
           },
           "coords": [
             7.708794,
@@ -36,7 +37,8 @@
             "de": "Entdecken Sie diesen bezaubernden organischen Garten voller Skulpturen, wo Sie bei einem entspannten Spaziergang verborgene künstlerische Schätze finden.",
             "hu": "Fedezze fel ezt a szobrokkal teli varázslatos organikus kertet, ahol egy pihentető séta során rejtett művészeti kincsekre bukkanhat az aljnövényzetben.",
             "ro": "Explorați această grădină organică fermecătoare plină de sculpturi, unde veți găsi comori artistice ascunse în timpul unei plimbări matinale relaxante.",
-            "en": "Explore this enchanting organic garden filled with sculptures, where a relaxing morning stroll will reveal hidden artistic treasures among the lush foliage."
+            "en": "Explore this enchanting organic garden filled with sculptures, where a relaxing morning stroll will reveal hidden artistic treasures among the lush foliage.",
+            "fr": "Explorez ce jardin biologique enchanteur rempli de sculptures ; une tranquille promenade matinale révélera des trésors artistiques cachés parmi le feuillage luxueux."
           }
         },
         {
@@ -44,7 +46,8 @@
             "de": "Archäologisches Museum Brumath",
             "hu": "Brumathi Régészeti Múzeum",
             "ro": "Muzeul Arheologic din Brumath",
-            "en": "Brumath Archaeological Museum"
+            "en": "Brumath Archaeological Museum",
+            "fr": "Musée Archéologique de Brumath"
           },
           "coords": [
             7.712778,
@@ -59,7 +62,8 @@
             "de": "Tauchen Sie in die galloromanische Geschichte ein und bestaunen Sie antike Funde, aber achten Sie auf die wechselnden Öffnungszeiten in den Wintermonaten.",
             "hu": "Merüljön el a gall-római történelemben és csodálja meg az ókori leleteket, de látogatás előtt mindenképpen ellenőrizze a változó téli nyitvatartási időt.",
             "ro": "Scufundați-vă în istoria galo-romană admirând numeroasele descoperiri antice, dar asigurați-vă că verificați programul de iarnă care se poate schimba.",
-            "en": "Dive into Gallo-Roman history by admiring the ancient local artifacts, but be absolutely sure to check the seasonal opening hours before planning your visit."
+            "en": "Dive into Gallo-Roman history by admiring the ancient local artifacts, but be absolutely sure to check the seasonal opening hours before planning your visit.",
+            "fr": "Plongez dans l'histoire gallo-romaine en admirant les anciens artefacts locaux, mais vérifiez absolument les horaires d'ouverture saisonniers avant de planifier votre visite."
           }
         },
         {
@@ -67,7 +71,8 @@
             "de": "Spielplatz Eichenstraße",
             "hu": "Tölgyfa utcai játszótér",
             "ro": "Loc de joacă Rue des Chênes",
-            "en": "Oak Street Playground"
+            "en": "Oak Street Playground",
+            "fr": "Aire de jeux de la Rue du Chêne"
           },
           "coords": [
             7.720289,
@@ -82,7 +87,8 @@
             "de": "Ein idealer Ort für Familien mit kleinen Kindern, der sichere Spielgeräte im Schatten der alten Eichen für eine erholsame Pause am Mittag stets bietet.",
             "hu": "Ideális hely kisgyermekes családok számára, amely biztonságos játszótéri eszközöket kínál az öreg tölgyfák árnyékában egy pihentető déli szünethez.",
             "ro": "Un loc ideal pentru familiile cu copii mici, oferind echipamente de joacă sigure la umbra stejarilor maturi pentru o pauză relaxantă liniștită la prânz.",
-            "en": "An ideal spot for families with young children, offering safe play equipment under the pleasant shade of mature oak trees for a relaxing afternoon break."
+            "en": "An ideal spot for families with young children, offering safe play equipment under the pleasant shade of mature oak trees for a relaxing afternoon break.",
+            "fr": "Un endroit idéal pour les familles avec jeunes enfants, proposant du matériel de jeu sécurisé sous l'ombrage agréable de vieux chênes pour une pause d'après-midi reposante."
           }
         },
         {
@@ -90,7 +96,8 @@
             "de": "Spielplatz Paul Cézanne",
             "hu": "Paul Cézanne játszótér",
             "ro": "Loc de joacă Paul Cézanne",
-            "en": "Paul Cézanne Playground"
+            "en": "Paul Cézanne Playground",
+            "fr": "Aire de jeux Paul Cézanne"
           },
           "coords": [
             7.720093,
@@ -105,7 +112,8 @@
             "de": "Lassen Sie die Kinder auf diesem modernen Spielplatz überschüssige Energie abbauen, während Sie die ruhige Umgebung des schönen Wohnviertels genießen.",
             "hu": "Hagyja, hogy a gyerekek levezessék az energiájukat ezen a modern játszótéren, miközben Ön a csendes lakóövezet nyugalmát élvezi a kora délután folyamán.",
             "ro": "Lăsați copiii să-și consume energia pe acest loc de joacă modern foarte bine întreținut, în timp ce vă bucurați de împrejurimile liniștite ale cartierului.",
-            "en": "Let the kids burn off some excess energy at this modern playground while you peacefully enjoy the tranquil surroundings of the quiet residential neighborhood."
+            "en": "Let the kids burn off some excess energy at this modern playground while you peacefully enjoy the tranquil surroundings of the quiet residential neighborhood.",
+            "fr": "Laissez les enfants dépenser leur énergie sur cette aire de jeux moderne pendant que vous profitez paisiblement du calme du quartier résidentiel."
           }
         },
         {
@@ -113,7 +121,8 @@
             "de": "Wald von Brumath",
             "hu": "Brumathi Erdő",
             "ro": "Pădurea Brumath",
-            "en": "Brumath Forest"
+            "en": "Brumath Forest",
+            "fr": "Forêt de Brumath"
           },
           "coords": [
             7.699771,
@@ -128,7 +137,8 @@
             "de": "Genießen Sie die tiefe Stille der Natur auf den ausgedehnten Waldwegen, die sich perfekt für einen langen, meditativen Spaziergang in der Sonne eignen.",
             "hu": "Élvezze a természet mély csendjét a kiterjedt erdei ösvényeken, amelyek tökéletesek egy hosszú, meditatív sétához a kellemes délutáni meleg napsütésben.",
             "ro": "Bucurați-vă de liniștea profundă a naturii pe traseele forestiere extinse, care sunt perfecte pentru o plimbare lungă și meditativă la soarele de după-amiază.",
-            "en": "Enjoy the profound tranquility of nature on the extensive forest trails, which are absolutely perfect for a long, meditative walk in the warm afternoon sun."
+            "en": "Enjoy the profound tranquility of nature on the extensive forest trails, which are absolutely perfect for a long, meditative walk in the warm afternoon sun.",
+            "fr": "Profitez de la profonde tranquillité de la nature sur les vastes sentiers forestiers, parfaits pour une longue marche méditative sous le soleil chaud de l'après-midi."
           }
         }
       ],
@@ -136,7 +146,8 @@
         "de": "Unser Tag in Brumath beginnt entspannt im malerischen Jardin de l'Escalier. Danach tauchen wir im Musée Archéologique in die reiche galloromanische Vergangenheit ein. Am Nachmittag schlendern wir gemütlich zu den schönen Spielplätzen der Stadt. Zum Abschluss erwartet uns die beruhigende Atmosphäre der La Forêt de Brumath.",
         "hu": "Brumathi napunk a Jardin de l'Escalier nyugodt környezetében kezdődik. Ezután a Musée Archéologique-ban elmélyedünk a gall-római múltban. Délután kényelmesen elsétálunk a város kedves játszótereihez, majd a La Forêt de Brumath sűrű erdejének megnyugtató légkörében zárjuk ezt a békés és pihentető napot.",
         "ro": "Ziua noastră în Brumath începe relaxant în pitorescul Jardin de l'Escalier. Apoi pătrundem în trecutul galo-roman la Musée Archéologique. După-amiaza ne plimbăm liniștit spre frumoasele locuri de joacă ale orașului, pentru a încheia ziua în atmosfera liniștitoare a pădurii seculare La Forêt de Brumath.",
-        "en": "Our day in Brumath starts with a peaceful morning at the beautifully curated Jardin de l'Escalier. We then dive into Gallo-Roman history at the Musée Archéologique. In the afternoon, we take a leisurely stroll to the town's local playgrounds. We conclude our trip surrounded by the soothing nature of La Forêt de Brumath."
+        "en": "Our day in Brumath starts with a peaceful morning at the beautifully curated Jardin de l'Escalier. We then dive into Gallo-Roman history at the Musée Archéologique. In the afternoon, we take a leisurely stroll to the town's local playgrounds. We conclude our trip surrounded by the soothing nature of La Forêt de Brumath.",
+        "fr": "Notre journée à Brumath commence par une matinée paisible au soigneusement aménagé Jardin de l'Escalier. Nous plongeons ensuite dans l'histoire gallo-romaine au Musée Archéologique. L'après-midi, nous flânons jusqu'aux aires de jeux locales. Nous concluons notre visite entourés par la nature apaisante de la Forêt de Brumath."
       },
       "variants": {
         "rainy": {
@@ -144,7 +155,8 @@
             "de": "Beginnen Sie den feuchten Morgen mit Regenschirm im Skulpturengarten und flüchten Sie dann ins Archäologiemuseum. Mittags stehen kurze Spielplatzbesuche in Gummistiefeln an. Nachmittags bietet das Blätterdach im Wald Regenschutz. Achten Sie auf rutschige Wege.",
             "hu": "Kezdd az esős reggelt esernyővel a szoborkertben, majd keress menedéket a régészeti múzeumban. Délben rövid játszótéri kitérők következnek gumicsizmában. Délután az erdei lombkorona ad némi védelmet a záporok ellen. Óvatosan lépkedj a csúszós ösvényeken.",
             "ro": "Începeți dimineața umedă cu o umbrelă la grădina de sculpturi, apoi refugiați-vă în muzeul de arheologie. La prânz, vizitați locurile de joacă purtând cizme de cauciuc. După-amiaza, coronamentul pădurii oferă adăpost împotriva ploii. Pășiți cu grijă pe potecile alunecoase.",
-            "en": "Start the damp morning with an umbrella at the sculptural garden, then seek shelter in the archaeological museum. Midday brings short wet playground visits; wear rubber boots. In the afternoon, the forest canopy offers some rain cover. Keep a steady pace on slippery paths."
+            "en": "Start the damp morning with an umbrella at the sculptural garden, then seek shelter in the archaeological museum. Midday brings short wet playground visits; wear rubber boots. In the afternoon, the forest canopy offers some rain cover. Keep a steady pace on slippery paths.",
+            "fr": "Commencez la matinée humide avec un parapluie au jardin sculptural, puis abritez-vous au musée archéologique. À midi, de courtes visites sous la pluie aux aires de jeux ; portez des bottes en caoutchouc. L'après-midi, la canopée forestière offre un certain abri. Adoptez un rythme régulier sur les sentiers glissants."
           },
           "stops": [
             {
@@ -152,13 +164,15 @@
                 "de": "Jardin de l'Escalier (Treppengarten)",
                 "hu": "Lépcsőkertje (Jardin de l'Escalier)",
                 "ro": "Grădina Scărilor (Jardin de l'Escalier)",
-                "en": "Garden of the Staircase"
+                "en": "Garden of the Staircase",
+                "fr": "Jardin de l'Escalier"
               },
               "tip_5lang": {
                 "de": "Bewundern Sie die nassen Steinskulpturen unter einem Regenschirm, da die Feuchtigkeit die Moosfarben wunderbar verstärkt.",
                 "hu": "Csodáld meg a nedves kőszobrokat esernyő alatt, a pára csodásan kiemeli a mohák élénk színeit és a kő textúráját.",
                 "ro": "Admirați sculpturile de piatră sub o umbrelă, deoarece umezeala intensifică frumos culorile mușchilor de pe stânci.",
-                "en": "Admire the wet stone sculptures under an umbrella, as the dampness beautifully enhances the mossy colors and textures."
+                "en": "Admire the wet stone sculptures under an umbrella, as the dampness beautifully enhances the mossy colors and textures.",
+                "fr": "Admirez les sculptures en pierre mouillée sous un parapluie, l'humidité rehaussant magnifiquement les couleurs et textures mousseuses."
               }
             },
             {
@@ -166,13 +180,15 @@
                 "de": "Archäologisches Museum Brumath",
                 "hu": "Brumathi Régészeti Múzeum",
                 "ro": "Muzeul Arheologic din Brumath",
-                "en": "Brumath Archaeological Museum"
+                "en": "Brumath Archaeological Museum",
+                "fr": "Musée Archéologique de Brumath"
               },
               "tip_5lang": {
                 "de": "Tauchen Sie drinnen in die gallo-römische Geschichte ein – das perfekte trockene Refugium vor dem Dauerregen draußen.",
                 "hu": "Merülj el a gallo-római történelemben ezen a fűtött, száraz helyen, miközben kint vigasztalanul szakad az eső.",
                 "ro": "Explorați istoria galo-romană în interior, fiind refugiul uscat perfect împotriva ploii constante de afară.",
-                "en": "Dive into Gallo-Roman history indoors, making it the perfect dry refuge from the steady rain outside."
+                "en": "Dive into Gallo-Roman history indoors, making it the perfect dry refuge from the steady rain outside.",
+                "fr": "Plongez dans l'histoire gallo-romaine à l'intérieur, un refuge sec parfait contre la pluie persistante."
               }
             },
             {
@@ -180,13 +196,15 @@
                 "de": "Spielplatz Eichenstraße",
                 "hu": "Tölgyfa utcai játszótér",
                 "ro": "Loc de joacă Rue des Chênes",
-                "en": "Oak Street Playground"
+                "en": "Oak Street Playground",
+                "fr": "Aire de jeux de la Rue du Chêne"
               },
               "tip_5lang": {
                 "de": "Lassen Sie die Kinder kurz in Pfützen springen; wasserfeste Kleidung ist für nasse Klettergerüste unerlässlich.",
                 "hu": "Hagyd a gyerekeket pocsolyákban ugrálni egy kicsit; a nedves mászókákhoz elengedhetetlen a vízálló ruha és cipő.",
                 "ro": "Lăsați copiii să sară scurt în bălți; echipamentul impermeabil e esențial pentru structurile de cățărat umede.",
-                "en": "Let the kids splash in puddles briefly; waterproof gear is absolutely essential for navigating the wet climbing frames."
+                "en": "Let the kids splash in puddles briefly; waterproof gear is absolutely essential for navigating the wet climbing frames.",
+                "fr": "Laissez les enfants éclabousser brièvement dans les flaques ; un équipement imperméable est indispensable pour circuler sur les structures d'escalade mouillées."
               }
             },
             {
@@ -194,13 +212,15 @@
                 "de": "Spielplatz Paul Cézanne",
                 "hu": "Paul Cézanne játszótér",
                 "ro": "Loc de joacă Paul Cézanne",
-                "en": "Paul Cézanne Playground"
+                "en": "Paul Cézanne Playground",
+                "fr": "Aire de jeux Paul Cézanne"
               },
               "tip_5lang": {
                 "de": "Setzen Sie den Regen-Spaß kurz fort und halten Sie Handtücher bereit, um die Schaukeln vor der Nutzung abzuwischen.",
                 "hu": "Folytassátok az esős mókát egy rövid megállóval, tartsatok kéznél törölközőt a hinták letörléséhez használat előtt.",
                 "ro": "Continuați distracția pe timp de ploaie cu o scurtă oprire, având prosoape pregătite pentru a șterge leagănele înainte.",
-                "en": "Continue the wet-weather fun with a short stop, keeping towels handy to quickly wipe down the swings before use."
+                "en": "Continue the wet-weather fun with a short stop, keeping towels handy to quickly wipe down the swings before use.",
+                "fr": "Poursuivez les activités par temps humide avec un court arrêt, gardez des serviettes à portée de main pour essuyer rapidement les balançoires avant usage."
               }
             },
             {
@@ -208,13 +228,15 @@
                 "de": "Wald von Brumath",
                 "hu": "Brumathi Erdő",
                 "ro": "Pădurea Brumath",
-                "en": "Brumath Forest"
+                "en": "Brumath Forest",
+                "fr": "Forêt de Brumath"
               },
               "tip_5lang": {
                 "de": "Genießen Sie den intensiven Regenduft unter den Bäumen, aber achten Sie auf rutschigen Schlamm und nasses Laub.",
                 "hu": "Élvezd az intenzív esőillatot a sűrű lombkorona alatt, de lépdelj óvatosan a csúszós sáron és nedves leveleken.",
                 "ro": "Bucurați-vă de mirosul de pământ ud sub coronament, dar pășiți cu grijă pe noroiul alunecos și frunzele umede.",
-                "en": "Enjoy the intense petrichor scent under the thick canopy, but step carefully on slippery mud and very wet leaves."
+                "en": "Enjoy the intense petrichor scent under the thick canopy, but step carefully on slippery mud and very wet leaves.",
+                "fr": "Savourez l'intense odeur de la terre mouillée sous la dense canopée, mais marchez prudemment sur la boue et les feuilles très glissantes."
               }
             }
           ]
@@ -224,7 +246,8 @@
             "de": "Packen Sie sich morgens für den Garten warm ein, bevor Sie sich im Museum aufwärmen. Mittags erfordern die Spielplätze dicke Handschuhe und Bewegung. Der Waldspaziergang am Nachmittag ist kühl, aber idyllisch und endet pünktlich zur frühen Dämmerung um 17 Uhr.",
             "hu": "Öltözz melegen a csípős reggeli kerti sétához, majd melegedj fel a helyi múzeumban. A déli játszótéri móka vastag kesztyűt és mozgást igényel. A délutáni erdei séta gyönyörű, de hűvös, és éppen a korai, délután 5 órai sötétedés előtt ér véget.",
             "ro": "Îmbrăcați-vă gros pentru dimineața rece din grădină, înainte de a vă încălzi în muzeul local. La prânz, locurile de joacă necesită mănuși groase și mișcare. Plimbarea prin pădure de după-amiază e frumoasă, dar rece, terminându-se odată cu apusul devreme, în jur de ora 17.",
-            "en": "Bundle up for a crisp morning at the garden before warming up inside the local museum. Midday playground visits require thick gloves and active play to stay warm. The afternoon forest walk is beautiful but chilly, wrapping up just as the early dusk sets in around 5 PM."
+            "en": "Bundle up for a crisp morning at the garden before warming up inside the local museum. Midday playground visits require thick gloves and active play to stay warm. The afternoon forest walk is beautiful but chilly, wrapping up just as the early dusk sets in around 5 PM.",
+            "fr": "Couvrez-vous bien pour une matinée fraîche au jardin avant de vous réchauffer à l'intérieur du musée local. Les visites de midi aux aires de jeux requièrent des gants épais et du jeu actif pour rester au chaud. La marche en forêt l'après-midi est belle mais froide, se terminant juste au crépuscule vers 17h."
           },
           "stops": [
             {
@@ -232,13 +255,15 @@
                 "de": "Jardin de l'Escalier (Treppengarten)",
                 "hu": "Lépcsőkertje (Jardin de l'Escalier)",
                 "ro": "Grădina Scărilor (Jardin de l'Escalier)",
-                "en": "Garden of the Staircase"
+                "en": "Garden of the Staircase",
+                "fr": "Jardin de l'Escalier"
               },
               "tip_5lang": {
                 "de": "Erkunden Sie die frostbedeckten architektonischen Formen und tragen Sie Thermokleidung, da die offenen Bereiche eiskalt sind.",
                 "hu": "Fedezd fel a dérrel borított építészeti formákat, és viselj termo rétegeket, mert a nyitott terek nagyon hidegek.",
                 "ro": "Explorați formele arhitecturale acoperite de brumă, purtând straturi termice deoarece spațiile deschise sunt reci.",
-                "en": "Explore the frost-covered architectural shapes, wearing thermal layers as the open garden spaces get very chilly."
+                "en": "Explore the frost-covered architectural shapes, wearing thermal layers as the open garden spaces get very chilly.",
+                "fr": "Explorez les formes architecturales couvertes de givre en portant des couches thermiques, les espaces ouverts du jardin étant très froids."
               }
             },
             {
@@ -246,13 +271,15 @@
                 "de": "Archäologisches Museum Brumath",
                 "hu": "Brumathi Régészeti Múzeum",
                 "ro": "Muzeul Arheologic din Brumath",
-                "en": "Brumath Archaeological Museum"
+                "en": "Brumath Archaeological Museum",
+                "fr": "Musée Archéologique de Brumath"
               },
               "tip_5lang": {
                 "de": "Verbringen Sie extra Zeit mit den antiken Artefakten drinnen, um Ihre Hände und Füße wieder richtig aufzuwärmen.",
                 "hu": "Tölts több időt az ókori leletek felfedezésével bent, hogy alaposan felmelegedjen a kezed és a lábad a fűtött terekben.",
                 "ro": "Petreceți mai mult timp explorând artefactele antice în interior pentru a vă încălzi bine mâinile și picioarele.",
-                "en": "Spend extra time exploring the ancient artifacts inside to thoroughly warm your cold hands and feet by the heating."
+                "en": "Spend extra time exploring the ancient artifacts inside to thoroughly warm your cold hands and feet by the heating.",
+                "fr": "Passez plus de temps à explorer les anciens artefacts à l'intérieur pour bien réchauffer vos mains et vos pieds près du chauffage."
               }
             },
             {
@@ -260,13 +287,15 @@
                 "de": "Spielplatz Eichenstraße",
                 "hu": "Tölgyfa utcai játszótér",
                 "ro": "Loc de joacă Rue des Chênes",
-                "en": "Oak Street Playground"
+                "en": "Oak Street Playground",
+                "fr": "Aire de jeux de la Rue du Chêne"
               },
               "tip_5lang": {
                 "de": "Bleiben Sie beim Spielen in Bewegung; die Metallgeräte sind eiskalt, daher sind dicke Winterhandschuhe Pflicht.",
                 "hu": "Mozogjatok folyamatosan, hogy melegen maradjatok; a fém játékok jéghidegek, így vastag kesztyű használata kötelező.",
                 "ro": "Continuați să vă mișcați pentru a rămâne calzi; echipamentele metalice vor fi înghețate, deci mănușile groase sunt obligatorii.",
-                "en": "Keep moving to stay warm while playing; the metal equipment will be freezing, so thick winter gloves are a must."
+                "en": "Keep moving to stay warm while playing; the metal equipment will be freezing, so thick winter gloves are a must.",
+                "fr": "Restez en mouvement pour garder la chaleur en jouant ; les équipements métalliques seront glacés, donc des gants d'hiver épais sont indispensables."
               }
             },
             {
@@ -274,13 +303,15 @@
                 "de": "Spielplatz Paul Cézanne",
                 "hu": "Paul Cézanne játszótér",
                 "ro": "Loc de joacă Paul Cézanne",
-                "en": "Paul Cézanne Playground"
+                "en": "Paul Cézanne Playground",
+                "fr": "Aire de jeux Paul Cézanne"
               },
               "tip_5lang": {
                 "de": "Gönnen Sie sich eine kurze, energische Spielzeit, um den Kreislauf in Schwung zu halten, bevor es kalt wird.",
                 "hu": "Játsszatok egy gyors, energikusat, hogy felpörögjön a vérkeringés, mielőtt a hideg igazán a csontokba hatolna.",
                 "ro": "Aveți o sesiune scurtă și energică de joacă pentru a vă menține ritmul cardiac înainte de a pleca pe potecă.",
-                "en": "Have a quick, energetic playtime to keep the blood pumping before retreating to a warmer walking path nearby."
+                "en": "Have a quick, energetic playtime to keep the blood pumping before retreating to a warmer walking path nearby.",
+                "fr": "Faites un jeu rapide et énergique pour faire circuler le sang avant de rejoindre un chemin de promenade plus chaud à proximité."
               }
             },
             {
@@ -288,13 +319,15 @@
                 "de": "Wald von Brumath",
                 "hu": "Brumathi Erdő",
                 "ro": "Pădurea Brumath",
-                "en": "Brumath Forest"
+                "en": "Brumath Forest",
+                "fr": "Forêt de Brumath"
               },
               "tip_5lang": {
                 "de": "Gehen Sie zügig durch die kahlen Bäume, um das goldene Licht zu nutzen, und verlassen Sie den Wald vor 17 Uhr.",
                 "hu": "Sétálj lendületesen a csupasz fák közt a délutáni fényben, és ügyelj rá, hogy a 17 órás naplemente előtt kiérj az erdőből.",
                 "ro": "Plimbați-vă alert printre copacii goi pentru a prinde lumina, asigurându-vă că ieșiți înainte de apusul de la ora 17.",
-                "en": "Walk briskly through the bare trees to catch the golden hour light, ensuring you exit safely before the 5 PM sunset."
+                "en": "Walk briskly through the bare trees to catch the golden hour light, ensuring you exit safely before the 5 PM sunset.",
+                "fr": "Marchez d'un pas vif à travers les arbres dénudés pour profiter de la lumière de l'heure dorée, en veillant à sortir en toute sécurité avant le coucher du soleil à 17h."
               }
             }
           ]
@@ -314,7 +347,8 @@
             "de": "Archäologisches Museum Brumath",
             "hu": "Brumathi Régészeti Múzeum",
             "ro": "Muzeul Arheologic din Brumath",
-            "en": "Brumath Archaeological Museum"
+            "en": "Brumath Archaeological Museum",
+            "fr": "Musée Archéologique de Brumath"
           },
           "coords": [
             7.712778,
@@ -329,7 +363,8 @@
             "de": "Tauchen Sie in die galloromanische Geschichte ein und bestaunen Sie antike Funde, aber achten Sie auf die wechselnden Öffnungszeiten in den Wintermonaten.",
             "hu": "Merüljön el a gall-római történelemben és csodálja meg az ókori leleteket, de látogatás előtt mindenképpen ellenőrizze a változó téli nyitvatartási időt.",
             "ro": "Scufundați-vă în istoria galo-romană admirând numeroasele descoperiri antice, dar asigurați-vă că verificați programul de iarnă care se poate schimba.",
-            "en": "Dive into Gallo-Roman history by admiring the ancient local artifacts, but be absolutely sure to check the seasonal opening hours before planning your visit."
+            "en": "Dive into Gallo-Roman history by admiring the ancient local artifacts, but be absolutely sure to check the seasonal opening hours before planning your visit.",
+            "fr": "Plongez dans l'histoire gallo-romaine en admirant les anciens artefacts locaux, mais vérifiez absolument les horaires d'ouverture saisonniers avant de planifier votre visite."
           }
         },
         {
@@ -337,7 +372,8 @@
             "de": "Jardin de l'Escalier (Treppengarten)",
             "hu": "Lépcsőkertje (Jardin de l'Escalier)",
             "ro": "Grădina Scărilor (Jardin de l'Escalier)",
-            "en": "Garden of the Staircase"
+            "en": "Garden of the Staircase",
+            "fr": "Jardin de l'Escalier"
           },
           "coords": [
             7.708794,
@@ -352,7 +388,8 @@
             "de": "Entdecken Sie diesen bezaubernden organischen Garten voller Skulpturen, wo Sie bei einem entspannten Spaziergang verborgene künstlerische Schätze finden.",
             "hu": "Fedezze fel ezt a szobrokkal teli varázslatos organikus kertet, ahol egy pihentető séta során rejtett művészeti kincsekre bukkanhat az aljnövényzetben.",
             "ro": "Explorați această grădină organică fermecătoare plină de sculpturi, unde veți găsi comori artistice ascunse în timpul unei plimbări matinale relaxante.",
-            "en": "Explore this enchanting organic garden filled with sculptures, where a relaxing morning stroll will reveal hidden artistic treasures among the lush foliage."
+            "en": "Explore this enchanting organic garden filled with sculptures, where a relaxing morning stroll will reveal hidden artistic treasures among the lush foliage.",
+            "fr": "Explorez ce jardin biologique enchanteur rempli de sculptures ; une tranquille promenade matinale révélera des trésors artistiques cachés parmi le feuillage luxuriant."
           }
         },
         {
@@ -360,7 +397,8 @@
             "de": "Wald von Brumath",
             "hu": "Brumathi Erdő",
             "ro": "Pădurea Brumath",
-            "en": "Brumath Forest"
+            "en": "Brumath Forest",
+            "fr": "Forêt de Brumath"
           },
           "coords": [
             7.699771,
@@ -375,7 +413,8 @@
             "de": "Genießen Sie die tiefe Stille der Natur auf den ausgedehnten Waldwegen, die sich perfekt für einen langen, meditativen Spaziergang in der Sonne eignen.",
             "hu": "Élvezze a természet mély csendjét a kiterjedt erdei ösvényeken, amelyek tökéletesek egy hosszú, meditatív sétához a kellemes délutáni meleg napsütésben.",
             "ro": "Bucurați-vă de liniștea profundă a naturii pe traseele forestiere extinse, care sunt perfecte pentru o plimbare lungă și meditativă la soarele de după-amiază.",
-            "en": "Enjoy the profound tranquility of nature on the extensive forest trails, which are absolutely perfect for a long, meditative walk in the warm afternoon sun."
+            "en": "Enjoy the profound tranquility of nature on the extensive forest trails, which are absolutely perfect for a long, meditative walk in the warm afternoon sun.",
+            "fr": "Profitez de la profonde tranquillité de la nature sur les vastes sentiers forestiers, parfaits pour une longue marche méditative sous le soleil chaud de l'après-midi."
           }
         },
         {
@@ -383,7 +422,8 @@
             "de": "Fluss Zorn",
             "hu": "Zorn folyó",
             "ro": "Râul Zorn",
-            "en": "The Zorn River"
+            "en": "The Zorn River",
+            "fr": "La Zorn"
           },
           "coords": [
             7.66419,
@@ -398,7 +438,8 @@
             "de": "Spazieren Sie an den ruhigen Ufern dieses malerischen Flusses entlang, der eine reiche Vogelwelt anzieht und fantastische Fotomotive am Nachmittag bietet.",
             "hu": "Sétáljon végig a festői folyó csendes partján, amely gazdag madárvilágot vonz és fantasztikus fotótémákat kínál a kellemes késő délutáni napsütésben.",
             "ro": "Plimbați-vă de-a lungul malurilor liniștite ale acestui râu pitoresc, care atrage numeroase păsări și oferă oportunități fotografice excelente la amiază.",
-            "en": "Stroll along the peaceful banks of this highly picturesque river, which attracts diverse local birdlife and offers fantastic mid-day photographic opportunities."
+            "en": "Stroll along the peaceful banks of this highly picturesque river, which attracts diverse local birdlife and offers fantastic mid-day photographic opportunities.",
+            "fr": "Promenez-vous le long des berges paisibles de cette rivière très pittoresque, qui attire une avifaune locale diverse et offre d'excellentes opportunités photographiques en milieu de journée."
           }
         },
         {
@@ -406,7 +447,8 @@
             "de": "Protestantische Kirche Brumath",
             "hu": "Brumathi Protestáns Templom",
             "ro": "Biserica Protestantă din Brumath",
-            "en": "Brumath Protestant Church"
+            "en": "Brumath Protestant Church",
+            "fr": "Église protestante de Brumath"
           },
           "coords": [
             7.775535,
@@ -421,7 +463,8 @@
             "de": "Bewundern Sie die schlichte Eleganz dieser historischen protestantischen Kirche, deren beeindruckende Architektur die religiöse Geschichte der Region widerspiegelt.",
             "hu": "Csodálja meg ennek a történelmi protestáns templomnak az egyszerű eleganciáját, amelynek lenyűgöző építészete a régió gazdag vallási múltját tükrözi.",
             "ro": "Admirați eleganța simplă a acestei biserici protestante istorice, a cărei arhitectură impresionantă reflectă foarte clar bogata istorie religioasă a regiunii.",
-            "en": "Admire the incredibly simple elegance of this historic Protestant church, whose impressive architecture beautifully reflects the region's deep religious history."
+            "en": "Admire the incredibly simple elegance of this historic Protestant church, whose impressive architecture beautifully reflects the region's deep religious history.",
+            "fr": "Admirez l'élégante sobriété de cette église protestante historique, dont l'architecture impressionnante reflète magnifiquement la profonde histoire religieuse de la région."
           }
         }
       ],
@@ -429,7 +472,8 @@
         "de": "Wir starten unsere spannende Fahrradtour am Musée Archéologique, um die Geschichte von Brumath zu erkunden. Nach einem Stopp im Jardin de l'Escalier radeln wir zur grünen Oase der La Forêt. Der Weg führt uns weiter zum malerischen Fluss La Zorn. Schließlich bewundern wir die historische Église Protestante.",
         "hu": "Kerékpártúránkat a Musée Archéologique-nál kezdjük a város történetének felfedezésével. A Jardin de l'Escalier után a La Forêt zöldellő oázisába tekerünk. Utunk ezután a festői La Zorn folyóhoz vezet, majd végül megcsodáljuk a történelmi Église Protestante épületét a város túlsó szélén.",
         "ro": "Turul nostru pe bicicletă începe la Musée Archéologique pentru a explora istoria orașului. După Jardin de l'Escalier, pedalăm spre oaza verde La Forêt. Traseul continuă relaxat spre râul pitoresc La Zorn, iar în final admirăm arhitectura impresionantă a bisericii istorice Église Protestante.",
-        "en": "We kick off our cycling tour at the Musée Archéologique to explore Brumath's deep historic roots. Following a stop at Jardin de l'Escalier, we pedal to the green oasis of La Forêt. Our path then leads to the picturesque La Zorn river, finishing with a visit to the gorgeous historic Église Protestante."
+        "en": "We kick off our cycling tour at the Musée Archéologique to explore Brumath's deep historic roots. Following a stop at Jardin de l'Escalier, we pedal to the green oasis of La Forêt. Our path then leads to the picturesque La Zorn river, finishing with a visit to the gorgeous historic Église Protestante.",
+        "fr": "Nous commençons notre circuit à vélo au Musée Archéologique pour explorer les profondes racines historiques de Brumath. Après un arrêt au Jardin de l'Escalier, nous pédalons vers l'oasis verte de la Forêt. Notre itinéraire mène ensuite à la pittoresque rivière La Zorn, pour finir par une visite de la superbe Église Protestante historique."
       },
       "variants": {
         "rainy": {
@@ -437,7 +481,8 @@
             "de": "Starten Sie Ihre nasse Fahrt sicher im trockenen Museum. Vormittags ist wasserfeste Radkleidung für Garten und Waldwege nötig. Der Nachmittag am Fluss wird feucht und neblig, schalten Sie die Radlichter ein. Enden Sie an der Kirche, Vorsicht auf rutschigem Kopfsteinpflaster.",
             "hu": "Kezdd a nedves tekerést biztonságosan a száraz múzeumban. Délelőtt kötelező a vízálló bringás ruha a kerthez és az erdei utakon. A délután a folyó mentén párás és ködös lesz, kapcsold be a lámpákat. A templomnál ér véget az út, vigyázz a csúszós macskakövekre.",
             "ro": "Începeți plimbarea umedă în siguranță la muzeul uscat. Dimineața necesită echipament de ciclism impermeabil pentru grădină și pădure. După-amiaza pe malul râului va fi umedă și cețoasă, asigurați-vă că luminile bicicletei sunt aprinse. Terminați la biserică, atenție la pietrele alunecoase.",
-            "en": "Kick off your wet ride safely at the dry museum. Mid-morning requires waterproof cycling gear for the garden and forest trails. The afternoon along the river will be damp and misty, so ensure your bike lights are on. Finish at the church, watching for slippery cobblestones."
+            "en": "Kick off your wet ride safely at the dry museum. Mid-morning requires waterproof cycling gear for the garden and forest trails. The afternoon along the river will be damp and misty, so ensure your bike lights are on. Finish at the church, watching for slippery cobblestones.",
+            "fr": "Débutez votre balade humide en toute sécurité au musée au sec. En fin de matinée, prévoyez un équipement cycliste imperméable pour le jardin et les sentiers forestiers. L'après-midi le long de la rivière sera humide et brumeux, pensez à allumer vos lumières. Terminez à l'église en surveillant les pavés glissants."
           },
           "stops": [
             {
@@ -445,13 +490,15 @@
                 "de": "Archäologisches Museum Brumath",
                 "hu": "Brumathi Régészeti Múzeum",
                 "ro": "Muzeul Arheologic din Brumath",
-                "en": "Brumath Archaeological Museum"
+                "en": "Brumath Archaeological Museum",
+                "fr": "Musée Archéologique de Brumath"
               },
               "tip_5lang": {
                 "de": "Parken Sie Ihr Rad unter einem Vordach und trocknen Sie sich beim Erkunden lokaler Antiquitäten drinnen ab.",
                 "hu": "Parkold le a bringát egy ereszték alatt, és száradj meg, miközben a lenyűgöző helyi régiségeket fedezed fel bent.",
                 "ro": "Parcați bicicleta sub o copertină și uscați-vă în timp ce explorați antichitățile locale fascinante în interior.",
-                "en": "Park your bike under an awning and dry off while exploring fascinating local antiquities safely indoors."
+                "en": "Park your bike under an awning and dry off while exploring fascinating local antiquities safely indoors.",
+                "fr": "Garez votre vélo sous un auvent et séchez-vous en explorant en toute sécurité les antiquités locales à l'intérieur."
               }
             },
             {
@@ -459,13 +506,15 @@
                 "de": "Jardin de l'Escalier (Treppengarten)",
                 "hu": "Lépcsőkertje (Jardin de l'Escalier)",
                 "ro": "Grădina Scărilor (Jardin de l'Escalier)",
-                "en": "Garden of the Staircase"
+                "en": "Garden of the Staircase",
+                "fr": "Jardin de l'Escalier"
               },
               "tip_5lang": {
                 "de": "Tragen Sie eine gute Regenjacke auf den Terrassen; die nassen Treppen sind rutschig, griffige Schuhe helfen beim Schieben.",
                 "hu": "Viselj jó esőkabátot a teraszokon; a nedves lépcsők csúszhatnak, tapadós talpú cipő ajánlott a bringa tolásakor.",
                 "ro": "Purtați o pelerină solidă pe terase; scările umede pot aluneca, așa că purtați încălțăminte aderentă la mers.",
-                "en": "Wear a solid raincoat to wander the terraces; the wet stairs can be slick, so wear grippy cycling shoes while walking."
+                "en": "Wear a solid raincoat to wander the terraces; the wet stairs can be slick, so wear grippy cycling shoes while walking.",
+                "fr": "Portez une bonne veste imperméable pour parcourir les terrasses ; les marches mouillées peuvent être glissantes, portez des chaussures de cyclisme adhérentes pour la marche."
               }
             },
             {
@@ -473,13 +522,15 @@
                 "de": "Wald von Brumath",
                 "hu": "Brumathi Erdő",
                 "ro": "Pădurea Brumath",
-                "en": "Brumath Forest"
+                "en": "Brumath Forest",
+                "fr": "Forêt de Brumath"
               },
               "tip_5lang": {
                 "de": "Radeln Sie vorsichtig auf schlammigen Waldwegen; senken Sie den Reifendruck leicht für mehr Grip auf nassen Wurzeln.",
                 "hu": "Óvatosan tekerj a saras erdei utakon; engedj ki egy kis nyomást a gumikból a jobb tapadásért a nedves gyökereken.",
                 "ro": "Pedalați cu grijă pe traseele forestiere pline de noroi; reduceți presiunea anvelopelor pentru o tracțiune mai bună pe rădăcini.",
-                "en": "Bike carefully on the muddy forest tracks; lower your tire pressure slightly for better traction on wet exposed roots."
+                "en": "Bike carefully on the muddy forest tracks; lower your tire pressure slightly for better traction on wet exposed roots.",
+                "fr": "Roulez prudemment sur les pistes forestières boueuses ; baissez légèrement la pression des pneus pour une meilleure traction sur les racines humides exposées."
               }
             },
             {
@@ -487,13 +538,15 @@
                 "de": "Fluss Zorn",
                 "hu": "Zorn folyó",
                 "ro": "Râul Zorn",
-                "en": "The Zorn River"
+                "en": "The Zorn River",
+                "fr": "La Zorn"
               },
               "tip_5lang": {
                 "de": "Der Regen erzeugt dramatische Wellen auf dem Wasser, aber Vorsicht vor rutschigen Schlammflecken am Uferweg.",
                 "hu": "Az eső drámai hullámokat vet a vízen, de vigyázz a csúszós saras foltokra a folyóparti kerékpárúton.",
                 "ro": "Ploaia creează valuri dramatice pe apă, dar atenție la zonele noroioase și alunecoase de pe poteca de pe malul râului.",
-                "en": "The rain creates dramatic ripples on the water, but watch out for slippery mud patches along the riverbank cycle path."
+                "en": "The rain creates dramatic ripples on the water, but watch out for slippery mud patches along the riverbank cycle path.",
+                "fr": "La pluie crée des ondulations dramatiques sur l'eau, mais méfiez-vous des plaques de boue glissantes le long de la piste cyclable en bord de rive."
               }
             },
             {
@@ -501,13 +554,15 @@
                 "de": "Protestantische Kirche Brumath",
                 "hu": "Brumathi Protestáns Templom",
                 "ro": "Biserica Protestantă din Brumath",
-                "en": "Brumath Protestant Church"
+                "en": "Brumath Protestant Church",
+                "fr": "Église protestante de Brumath"
               },
               "tip_5lang": {
                 "de": "Suchen Sie Schutz vor dem Platzregen im friedlichen Kirchenschiff und schütteln Sie nasse Kleidung am Eingang ab.",
                 "hu": "Keress menedéket a zápor elől a békés hajóban, és rázd le a vizes esőruhát rögtön a bejáratnál a padló védelmében.",
                 "ro": "Căutați sanctuar împotriva ploii torențiale în naosul liniștit, scuturându-vă echipamentul umed direct la intrare.",
-                "en": "Seek sanctuary from the downpour inside the peaceful nave, shaking off your wet rain gear quickly at the entrance."
+                "en": "Seek sanctuary from the downpour inside the peaceful nave, shaking off your wet rain gear quickly at the entrance.",
+                "fr": "Cherchez refuge de l'averse dans la nef paisible, et secouez rapidement vos habits mouillés à l'entrée."
               }
             }
           ]
@@ -517,7 +572,8 @@
             "de": "Ein kühler Morgen beginnt im warmen Museum. Ziehen Sie sich mittags für die Fahrt zum frostigen Garten und Wald warm an. Die Brise am Fluss ist nachmittags beißend kalt, eine winddichte Jacke ist Pflicht. Erreichen Sie die beleuchtete Kirche rechtzeitig zum frühen Sonnenuntergang.",
             "hu": "A csípős reggel a meleg múzeumban indul. Öltözz rétegesen a déli tekeréshez a dérlepte kertbe és az erdőbe. A délutáni folyóparti szél fagyos lesz, szélálló kabát kötelező. Érkezz a kivilágított templomhoz pont a korai téli naplemente idején.",
             "ro": "O dimineață rece începe la muzeul cald. Îmbrăcați-vă în straturi pentru cursa de prânz spre grădina și pădurea înghețate. Briza râului de după-amiază va fi foarte rece, necesitând o jachetă rezistentă la vânt. Ajungeți la biserica iluminată chiar la apusul devreme.",
-            "en": "A crisp morning starts at the warm museum. Layer up heavily for the midday ride to the frost-covered garden and forest. The afternoon river breeze will be biting cold, requiring a windproof jacket. Arrive at the illuminated church just as the winter sun sets early."
+            "en": "A crisp morning starts at the warm museum. Layer up heavily for the midday ride to the frost-covered garden and forest. The afternoon river breeze will be biting cold, requiring a windproof jacket. Arrive at the illuminated church just as the winter sun sets early.",
+            "fr": "Une matinée fraîche commence au musée chauffé. Couvrez-vous chaudement pour la balade de midi jusqu'au jardin et à la forêt couverts de gel. La brise du fleuve l'après-midi sera mordante, nécessitant une veste coupe-vent. Arrivez à l'église éclairée juste au coucher du soleil d'hiver."
           },
           "stops": [
             {
@@ -525,13 +581,15 @@
                 "de": "Archäologisches Museum Brumath",
                 "hu": "Brumathi Régészeti Múzeum",
                 "ro": "Muzeul Arheologic din Brumath",
-                "en": "Brumath Archaeological Museum"
+                "en": "Brumath Archaeological Museum",
+                "fr": "Musée Archéologique de Brumath"
               },
               "tip_5lang": {
                 "de": "Beginnen Sie den Tag in den warmen Ausstellungen und zögern Sie die Fahrt hinaus, bis der Morgenfrost schmilzt.",
                 "hu": "Kezdd a napot a meleg kiállításokon, és halaszd a hideg tekerést, amíg a reggeli fagy lassan olvadni nem kezd.",
                 "ro": "Începeți ziua explorând exponatele calde, amânând cursa rece până când bruma dimineții începe ușor să se topească.",
-                "en": "Start your day exploring the warm exhibits, delaying the chilly bike ride until the heavy morning frost starts melting."
+                "en": "Start your day exploring the warm exhibits, delaying the chilly bike ride until the heavy morning frost starts melting.",
+                "fr": "Commencez la journée en explorant les expositions chaudes, retardant la sortie à vélo fraîche jusqu'à ce que le gel matinal fonde."
               }
             },
             {
@@ -539,13 +597,15 @@
                 "de": "Jardin de l'Escalier (Treppengarten)",
                 "hu": "Lépcsőkertje (Jardin de l'Escalier)",
                 "ro": "Grădina Scărilor (Jardin de l'Escalier)",
-                "en": "Garden of the Staircase"
+                "en": "Garden of the Staircase",
+                "fr": "Jardin de l'Escalier"
               },
               "tip_5lang": {
                 "de": "Schieben Sie das Rad auf den gefrorenen Terrassen; dicke Radhandschuhe sind essenziell für warme Finger am Lenker.",
                 "hu": "Tolsd a bringát a fagyos teraszokon; a vastag kerékpáros kesztyű elengedhetetlen a meleg ujjakhoz a fékezésnél.",
                 "ro": "Împingeți bicicleta pe terasele înghețate; mănușile groase de ciclism sunt esențiale pentru a menține degetele calde.",
-                "en": "Walk your bike on the frosted architectural terraces; thick cycling gloves are essential to keep your fingers warm."
+                "en": "Walk your bike on the frosted architectural terraces; thick cycling gloves are essential to keep your fingers warm.",
+                "fr": "Marchez votre vélo sur les terrasses givrées ; des gants de cyclisme épais sont essentiels pour garder les doigts au chaud."
               }
             },
             {
@@ -553,13 +613,15 @@
                 "de": "Wald von Brumath",
                 "hu": "Brumathi Erdő",
                 "ro": "Pădurea Brumath",
-                "en": "Brumath Forest"
+                "en": "Brumath Forest",
+                "fr": "Forêt de Brumath"
               },
               "tip_5lang": {
                 "de": "Kahle Bäume bieten tolle Winteransichten; treten Sie gleichmäßig in die Pedale, um Körperwärme gegen die Kälte zu erzeugen.",
                 "hu": "A kopasz fák gyönyörű téli látványt nyújtanak; tekerj egyenletesen, hogy testhőt termelj a harapós hideg levegő ellen.",
                 "ro": "Copacii goi oferă vederi frumoase de iarnă; continuați să pedalați constant pentru a genera căldură corporală.",
-                "en": "The bare trees offer beautiful winter views; keep pedaling steadily to generate needed body heat against the cold air."
+                "en": "The bare trees offer beautiful winter views; keep pedaling steadily to generate needed body heat against the cold air.",
+                "fr": "Les arbres dénudés offrent de belles vues hivernales ; pédalez régulièrement pour générer la chaleur nécessaire face à l'air froid."
               }
             },
             {
@@ -567,13 +629,15 @@
                 "de": "Fluss Zorn",
                 "hu": "Zorn folyó",
                 "ro": "Râul Zorn",
-                "en": "The Zorn River"
+                "en": "The Zorn River",
+                "fr": "La Zorn"
               },
               "tip_5lang": {
                 "de": "Genießen Sie die eisige Ruhe am Fluss, aber packen Sie sich dick ein – der eiskalte Wind zieht durch Mark und Bein.",
                 "hu": "Élvezd a folyó jeges nyugalmát, de öltözz be jól tetőtől talpig – a vízparti fagyos szél kíméletlenül csontig hatol.",
                 "ro": "Bucurați-vă de liniștea înghețată a râului, dar îmbrăcați-vă gros – vântul tăios de pe mal trece direct prin haine.",
-                "en": "Enjoy the icy tranquility of the river, but bundle up tightly—the chilling waterside wind cuts straight through thin jackets."
+                "en": "Enjoy the icy tranquility of the river, but bundle up tightly—the chilling waterside wind cuts straight through thin jackets.",
+                "fr": "Appréciez la tranquillité glacée de la rivière, mais emmitouflez-vous bien — le vent glacial au bord de l'eau traverse les vestes fines."
               }
             },
             {
@@ -581,13 +645,15 @@
                 "de": "Protestantische Kirche Brumath",
                 "hu": "Brumathi Protestáns Templom",
                 "ro": "Biserica Protestantă din Brumath",
-                "en": "Brumath Protestant Church"
+                "en": "Brumath Protestant Church",
+                "fr": "Église protestante de Brumath"
               },
               "tip_5lang": {
                 "de": "Beenden Sie die Tour an der massiven Kirche, am besten vor 17 Uhr, um der eisigen Dunkelheit zuvorzukommen.",
                 "hu": "Fejezd be a túrát a templom masszív építészetét csodálva, még 17 óra előtt, hogy elkerüld a fagyos, sötét utakat.",
                 "ro": "Terminați cursa admirând arhitectura solidă a bisericii, ajungând înainte de ora 17 pentru a evita întunericul înghețat.",
-                "en": "Finish your ride admiring the church's solid architecture, arriving before 5 PM to beat the freezing winter darkness."
+                "en": "Finish your ride admiring the church's solid architecture, arriving before 5 PM to beat the freezing winter darkness.",
+                "fr": "Terminez votre balade en admirant la solide architecture de l'église, en arrivant avant 17h pour éviter l'obscurité hivernale et glaciale."
               }
             }
           ]
@@ -607,7 +673,8 @@
             "de": "Protestantische Kirche Brumath",
             "hu": "Brumathi Protestáns Templom",
             "ro": "Biserica Protestantă din Brumath",
-            "en": "Brumath Protestant Church"
+            "en": "Brumath Protestant Church",
+            "fr": "Église protestante de Brumath"
           },
           "coords": [
             7.775535,
@@ -622,7 +689,8 @@
             "de": "Bewundern Sie die schlichte Eleganz dieser historischen protestantischen Kirche, deren beeindruckende Architektur die religiöse Geschichte der Region widerspiegelt.",
             "hu": "Csodálja meg ennek a történelmi protestáns templomnak az egyszerű eleganciáját, amelynek lenyűgöző építészete a régió gazdag vallási múltját tükrözi.",
             "ro": "Admirați eleganța simplă a acestei biserici protestante istorice, a cărei arhitectură impresionantă reflectă foarte clar bogata istorie religioasă a regiunii.",
-            "en": "Admire the incredibly simple elegance of this historic Protestant church, whose impressive architecture beautifully reflects the region's deep religious history."
+            "en": "Admire the incredibly simple elegance of this historic Protestant church, whose impressive architecture beautifully reflects the region's deep religious history.",
+            "fr": "Admirez l'élégante sobriété de cette église protestante historique, dont l'architecture impressionnante reflète magnifiquement la profonde histoire religieuse de la région."
           }
         },
         {
@@ -630,7 +698,8 @@
             "de": "Archäologisches Museum Brumath",
             "hu": "Brumathi Régészeti Múzeum",
             "ro": "Muzeul Arheologic din Brumath",
-            "en": "Brumath Archaeological Museum"
+            "en": "Brumath Archaeological Museum",
+            "fr": "Musée Archéologique de Brumath"
           },
           "coords": [
             7.712778,
@@ -645,7 +714,8 @@
             "de": "Tauchen Sie in die galloromanische Geschichte ein und bestaunen Sie antike Funde, aber achten Sie auf die wechselnden Öffnungszeiten in den Wintermonaten.",
             "hu": "Merüljön el a gall-római történelemben és csodálja meg az ókori leleteket, de látogatás előtt mindenképpen ellenőrizze a változó téli nyitvatartási időt.",
             "ro": "Scufundați-vă în istoria galo-romană admirând numeroasele descoperiri antice, dar asigurați-vă că verificați programul de iarnă care se poate schimba.",
-            "en": "Dive into Gallo-Roman history by admiring the ancient local artifacts, but be absolutely sure to check the seasonal opening hours before planning your visit."
+            "en": "Dive into Gallo-Roman history by admiring the ancient local artifacts, but be absolutely sure to check the seasonal opening hours before planning your visit.",
+            "fr": "Plongez dans l'histoire gallo-romaine en admirant les anciens artefacts locaux, mais vérifiez absolument les horaires d'ouverture saisonniers avant de planifier votre visite."
           }
         },
         {
@@ -653,7 +723,8 @@
             "de": "Jardin de l'Escalier (Treppengarten)",
             "hu": "Lépcsőkertje (Jardin de l'Escalier)",
             "ro": "Grădina Scărilor (Jardin de l'Escalier)",
-            "en": "Garden of the Staircase"
+            "en": "Garden of the Staircase",
+            "fr": "Jardin de l'Escalier"
           },
           "coords": [
             7.708794,
@@ -668,7 +739,8 @@
             "de": "Entdecken Sie diesen bezaubernden organischen Garten voller Skulpturen, wo Sie bei einem entspannten Spaziergang verborgene künstlerische Schätze finden.",
             "hu": "Fedezze fel ezt a szobrokkal teli varázslatos organikus kertet, ahol egy pihentető séta során rejtett művészeti kincsekre bukkanhat az aljnövényzetben.",
             "ro": "Explorați această grădină organică fermecătoare plină de sculpturi, unde veți găsi comori artistice ascunse în timpul unei plimbări matinale relaxante.",
-            "en": "Explore this enchanting organic garden filled with sculptures, where a relaxing morning stroll will reveal hidden artistic treasures among the lush foliage."
+            "en": "Explore this enchanting organic garden filled with sculptures, where a relaxing morning stroll will reveal hidden artistic treasures among the lush foliage.",
+            "fr": "Explorez ce jardin biologique enchanteur rempli de sculptures ; une tranquille promenade matinale révélera des trésors artistiques cachés parmi le feuillage luxuriant."
           }
         },
         {
@@ -676,7 +748,8 @@
             "de": "Fluss Zorn",
             "hu": "Zorn folyó",
             "ro": "Râul Zorn",
-            "en": "The Zorn River"
+            "en": "The Zorn River",
+            "fr": "La Zorn"
           },
           "coords": [
             7.66419,
@@ -691,7 +764,8 @@
             "de": "Spazieren Sie an den ruhigen Ufern dieses malerischen Flusses entlang, der eine reiche Vogelwelt anzieht und fantastische Fotomotive am Nachmittag bietet.",
             "hu": "Sétáljon végig a festői folyó csendes partján, amely gazdag madárvilágot vonz és fantasztikus fotótémákat kínál a kellemes késő délutáni napsütésben.",
             "ro": "Plimbați-vă de-a lungul malurilor liniștite ale acestui râu pitoresc, care atrage numeroase păsări și oferă oportunități fotografice excelente la amiază.",
-            "en": "Stroll along the peaceful banks of this highly picturesque river, which attracts diverse local birdlife and offers fantastic mid-day photographic opportunities."
+            "en": "Stroll along the peaceful banks of this highly picturesque river, which attracts diverse local birdlife and offers fantastic mid-day photographic opportunities.",
+            "fr": "Promenez-vous le long des berges paisibles de cette rivière très pittoresque, qui attire une avifaune locale diverse et offre d'excellentes opportunités photographiques en milieu de journée."
           }
         },
         {
@@ -699,7 +773,8 @@
             "de": "Fun Parc Brumath",
             "hu": "Brumath Élménypark",
             "ro": "Fun Parc Brumath",
-            "en": "Brumath Fun Park"
+            "en": "Brumath Fun Park",
+            "fr": "Fun Parc de Brumath"
           },
           "coords": [
             7.720233,
@@ -714,7 +789,8 @@
             "de": "Beenden Sie den Tag mit aufregenden Outdoor-Aktivitäten für die ganze Familie in diesem großen Freizeitpark am Seeufer, der wirklich für jeden etwas bietet.",
             "hu": "Zárja a napot izgalmas szabadtéri tevékenységekkel az egész család számára ebben a nagy, tóparti vidámparkban, amely biztosan mindenki számára tartogat valamit.",
             "ro": "Încheiați ziua cu activități captivante în aer liber pentru toată familia în acest mare parc de distracții pe malul lacului, care oferă câte ceva pentru toți.",
-            "en": "End your exciting day with outdoor activities for the whole family at this expansive lakeside adventure park, which undoubtedly offers something thrilling for everyone."
+            "en": "End your exciting day with outdoor activities for the whole family at this expansive lakeside adventure park, which undoubtedly offers something thrilling for everyone.",
+            "fr": "Terminez votre journée palpitante par des activités de plein air pour toute la famille dans ce vaste parc d'aventure au bord du lac, qui offre sans aucun doute des sensations pour tous."
           }
         }
       ],
@@ -722,7 +798,8 @@
         "de": "Mit dem Auto beginnen wir an der historischen Église Protestante im Osten der Stadt. Anschließend fahren wir ins Zentrum zum Musée Archéologique und zum Jardin de l'Escalier. Nach einem erholsamen Halt am idyllischen Fluss La Zorn steuern wir das Highlight für Familien an: den actionreichen Fun Parc Brumath.",
         "hu": "Autóval a város keleti részén található Église Protestante-nál kezdünk. Ezután a központba hajtunk a Musée Archéologique és a Jardin de l'Escalier felé. A La Zorn folyónál tartott frissítő pihenő után a családok kedvencéhez, a délen fekvő, izgalmakkal teli Fun Parc Brumath-hoz vesszük az irányt.",
         "ro": "Cu mașina începem la Église Protestante în estul orașului. Apoi conducem spre centru pentru Musée Archéologique și Jardin de l'Escalier. După o oprire relaxantă la pitorescul râu La Zorn, ne îndreptăm spre atracția principală pentru familii: parcul plin de aventură Fun Parc Brumath din sudul orașului.",
-        "en": "By car, we start at the lovely Église Protestante in the east of the town. We then drive to the center for the Musée Archéologique and Jardin de l'Escalier. Following a relaxing stop at the La Zorn river, we head down south to the main family attraction: the wonderfully action-packed Fun Parc Brumath."
+        "en": "By car, we start at the lovely Église Protestante in the east of the town. We then drive to the center for the Musée Archéologique and Jardin de l'Escalier. Following a relaxing stop at the La Zorn river, we head down south to the main family attraction: the wonderfully action-packed Fun Parc Brumath.",
+        "fr": "En voiture, nous commençons à la charmante Église Protestante à l'est de la ville. Nous nous rendons ensuite au centre pour le Musée Archéologique et le Jardin de l'Escalier. Après une halte relaxante à la rivière La Zorn, nous descendons vers le sud jusqu'à l'attraction familiale principale : le très animé Fun Parc de Brumath."
       },
       "variants": {
         "rainy": {
@@ -730,7 +807,8 @@
             "de": "Fahren Sie sicher durch den morgendlichen Nieselregen zur Kirche und zum trockenen Museum. Mittags im Garten sind Regenschirm und wasserfeste Schuhe gefragt. Die Nachmittagsfahrt am Fluss ist malerisch, und der Tag endet mit etwas schlammigem Spaß im Abenteuerpark.",
             "hu": "Vezess biztonságosan a reggeli szitáló esőben a templomhoz és a száraz, hívogató múzeumhoz. A déli esős kerti sétához esernyő és vízálló cipő kell. A délutáni kocsikázás a folyó mellett az eső ellenére is festői, majd jöhet egy kis saras kaland az élményparkban.",
             "ro": "Conduceți în siguranță prin burnița dimineții spre biserică și muzeul uscat. O plimbare ploioasă la prânz în grădină necesită umbrelă și pantofi impermeabili. Plimbarea de după-amiază pe malul râului e pitorească, terminându-se cu distracție noroioasă în parcul de aventuri.",
-            "en": "Drive safely through the morning drizzle to the church and the dry, welcoming museum. A midday rainy walk in the garden requires an umbrella and waterproof shoes. The afternoon drive by the river is scenic despite the rain, ending with some muddy fun at the fun park."
+            "en": "Drive safely through the morning drizzle to the church and the dry, welcoming museum. A midday rainy walk in the garden requires an umbrella and waterproof shoes. The afternoon drive by the river is scenic despite the rain, ending with some muddy fun at the fun park.",
+            "fr": "Conduisez prudemment sous la bruine matinale jusqu'à l'église et le musée sec et accueillant. Une promenade pluvieuse à midi dans le jardin nécessite un parapluie et des chaussures imperméables. La route l'après-midi le long de la rivière est pittoresque malgré la pluie, et se termine par des activités boueuses au parc d'attractions."
           },
           "stops": [
             {
@@ -738,13 +816,15 @@
                 "de": "Protestantische Kirche Brumath",
                 "hu": "Brumathi Protestáns Templom",
                 "ro": "Biserica Protestantă din Brumath",
-                "en": "Brumath Protestant Church"
+                "en": "Brumath Protestant Church",
+                "fr": "Église protestante de Brumath"
               },
               "tip_5lang": {
                 "de": "Huschen Sie vom Auto zum Eingang; das massiv steinerne Innere bietet einen trockenen, ruhigen Start in einen nassen Tag.",
                 "hu": "Szaladj a parkolóból a bejáratig; a masszív kőbelső száraz, békés kezdést nyújt ezen a komor, esős reggelen.",
                 "ro": "Fugiți de la mașină la intrare; interiorul solid din piatră oferă un început uscat și liniștit pentru o zi ploioasă.",
-                "en": "Dash from the parked car to the entrance; the sturdy stone interior offers a dry, peaceful start to a very wet day."
+                "en": "Dash from the parked car to the entrance; the sturdy stone interior offers a dry, peaceful start to a very wet day.",
+                "fr": "Courez depuis la voiture garée jusqu’à l’entrée ; l’intérieur solide en pierre offre un départ au sec et paisible pour une journée très pluvieuse."
               }
             },
             {
@@ -752,13 +832,15 @@
                 "de": "Archäologisches Museum Brumath",
                 "hu": "Brumathi Régészeti Múzeum",
                 "ro": "Muzeul Arheologic din Brumath",
-                "en": "Brumath Archaeological Museum"
+                "en": "Brumath Archaeological Museum",
+                "fr": "Musée archéologique de Brumath"
               },
               "tip_5lang": {
                 "de": "Nutzen Sie die beheizten Innenausstellungen und bleiben Sie etwas länger hier, falls der Platzregen draußen zu stark ist.",
                 "hu": "Használd ki a fűtött benti tárlatokat, és tölts itt több időt, ha kint éppen túlságosan szakad az eső.",
                 "ro": "Profitați de expozițiile interioare încălzite, petrecând mai mult timp aici dacă ploaia torențială de afară e prea puternică.",
-                "en": "Take advantage of the heated indoor displays, spending extra time here if the downpour outside is just too heavy."
+                "en": "Take advantage of the heated indoor displays, spending extra time here if the downpour outside is just too heavy.",
+                "fr": "Profitez des expositions intérieures chauffées et passez plus de temps ici si la pluie à l’extérieur est trop forte."
               }
             },
             {
@@ -766,13 +848,15 @@
                 "de": "Jardin de l'Escalier (Treppengarten)",
                 "hu": "Lépcsőkertje (Jardin de l'Escalier)",
                 "ro": "Grădina Scărilor (Jardin de l'Escalier)",
-                "en": "Garden of the Staircase"
+                "en": "Garden of the Staircase",
+                "fr": "Jardin de l’Escalier"
               },
               "tip_5lang": {
                 "de": "Halten Sie einen großen Regenschirm bereit; das nasse Laub sieht toll aus, aber die Gartenwege sind extrem rutschig.",
                 "hu": "Tarts egy nagy esernyőt a csomagtartóban; a nedves, buja lombozat csodás, de az utak csúsznak, így lassan haladj.",
                 "ro": "Păstrați o umbrelă mare pregătită; frunzișul ud arată incredibil, dar potecile din grădină sunt extrem de alunecoase.",
-                "en": "Keep a large golf umbrella handy for this stop; the wet, lush foliage looks incredible but the paths are slippery."
+                "en": "Keep a large golf umbrella handy for this stop; the wet, lush foliage looks incredible but the paths are slippery.",
+                "fr": "Ayez un grand parapluie de golf à portée de main ; la végétation humide et luxuriante est superbe mais les chemins sont glissants."
               }
             },
             {
@@ -780,13 +864,15 @@
                 "de": "Fluss Zorn",
                 "hu": "Zorn folyó",
                 "ro": "Râul Zorn",
-                "en": "The Zorn River"
+                "en": "The Zorn River",
+                "fr": "La Zorn"
               },
               "tip_5lang": {
                 "de": "Parken Sie sicher am Straßenrand, um den Regen auf dem Fluss zu beobachten, ohne direkt in den Uferschlamm treten zu müssen.",
                 "hu": "Parkolj le biztonságosan az út szélén, és figyeld a cseppeket a folyón anélkül, hogy a cipőd tiszta sár lenne.",
                 "ro": "Parcați în siguranță pe marginea drumului pentru a privi ploaia pe suprafața râului, fără a ieși în noroiul de pe mal.",
-                "en": "Park safely on the roadside to watch the rain pockmark the river's surface without having to step out into the mud."
+                "en": "Park safely on the roadside to watch the rain pockmark the river's surface without having to step out into the mud.",
+                "fr": "Garez-vous prudemment au bord de la route pour regarder la pluie piquer la surface de la rivière sans devoir marcher dans la boue."
               }
             },
             {
@@ -794,13 +880,15 @@
                 "de": "Fun Parc Brumath",
                 "hu": "Brumath Élménypark",
                 "ro": "Fun Parc Brumath",
-                "en": "Brumath Fun Park"
+                "en": "Brumath Fun Park",
+                "fr": "Parc de loisirs de Brumath"
               },
               "tip_5lang": {
                 "de": "Bleiben Sie in überdachten Pavillons oder trotzen Sie nassen Klettergerüsten – bringen Sie Wechselkleidung fürs Auto mit.",
                 "hu": "Maradj a fedett pavilonoknál, vagy dacolj a sáros mászókákkal – csak mindenképp hozz váltóruhát a visszaútra a kocsiba.",
                 "ro": "Rămâneți în pavilioanele acoperite sau înfruntați structurile noroioase – aduceți doar haine de schimb pentru mașină.",
-                "en": "Stick to the covered pavilions or brave the muddy climbing structures—just be sure to bring a change of clothes for the car."
+                "en": "Stick to the covered pavilions or brave the muddy climbing structures—just be sure to bring a change of clothes for the car.",
+                "fr": "Restez sous les pavillons couverts ou affrontez les structures d’escalade boueuses ; prévoyez simplement des vêtements de rechange dans la voiture."
               }
             }
           ]
@@ -810,7 +898,8 @@
             "de": "Nutzen Sie die Autoheizung auf der kühlen Morgenfahrt zur Kirche und zum Museum. Mittags gibt es einen Spaziergang im frostigen Garten. Nachmittags genießen Sie die eisige Flusssicht aus dem warmen Auto, bevor Sie dem Park bis zum Sonnenuntergang um 17 Uhr trotzen.",
             "hu": "Használd az autó fűtését a csípős reggeli úton a történelmi templomhoz és múzeumhoz. Délben egy frissítő séta vár a fagyos kertben. Délután élvezd a jeges folyó látványát a meleg autóból, mielőtt dacolnál a hideggel az élményparkban a korai naplementéig.",
             "ro": "Folosiți căldura mașinii în cursa rece de dimineață spre biserică și muzeu. Prânzul aduce o plimbare alertă în grădina înghețată. După-amiaza, bucurați-vă de vederea râului înghețat din mașina caldă, înainte de a înfrunta frigul la parcul de distracții până la apus.",
-            "en": "Use your car’s heater on the crisp morning drive to the historic church and museum. Midday brings a brisk walk in the frosted garden. In the afternoon, enjoy the icy river views from the warm car before braving the cold at the fun park until the early sunset at 5 PM."
+            "en": "Use your car’s heater on the crisp morning drive to the historic church and museum. Midday brings a brisk walk in the frosted garden. In the afternoon, enjoy the icy river views from the warm car before braving the cold at the fun park until the early sunset at 5 PM.",
+            "fr": "Utilisez le chauffage de votre voiture pour la fraîche matinée jusqu’à l’église et le musée historiques. En milieu de journée, faites une promenade vive dans le jardin givré. L’après‑midi, profitez des vues glacées sur la rivière depuis la voiture chaude avant d’affronter le froid au parc de loisirs jusqu’au coucher du soleil anticipé à 17 h."
           },
           "stops": [
             {
@@ -818,13 +907,15 @@
                 "de": "Protestantische Kirche Brumath",
                 "hu": "Brumathi Protestáns Templom",
                 "ro": "Biserica Protestantă din Brumath",
-                "en": "Brumath Protestant Church"
+                "en": "Brumath Protestant Church",
+                "fr": "Église protestante de Brumath"
               },
               "tip_5lang": {
                 "de": "Wärmen Sie das Auto auf, bevor Sie diese Stätte besuchen, da ihr massives Inneres im Winter recht kühl und zugig ist.",
                 "hu": "Melegítsd elő az autót, mielőtt ide indulsz, mert a történelmi épület hatalmas, fűtetlen belseje meglehetősen hűvös lesz.",
                 "ro": "Încălziți mașina înainte de a vă îndrepta spre acest sit istoric, deoarece interiorul său va fi destul de rece iarna.",
-                "en": "Warm up the car before heading to this historic site, as its grand unheated interior will be quite chilly in deep winter."
+                "en": "Warm up the car before heading to this historic site, as its grand unheated interior will be quite chilly in deep winter.",
+                "fr": "Chauffez la voiture avant de vous rendre sur ce site historique, son vaste intérieur non chauffé sera assez frais en plein hiver."
               }
             },
             {
@@ -832,13 +923,15 @@
                 "de": "Archäologisches Museum Brumath",
                 "hu": "Brumathi Régészeti Múzeum",
                 "ro": "Muzeul Arheologic din Brumath",
-                "en": "Brumath Archaeological Museum"
+                "en": "Brumath Archaeological Museum",
+                "fr": "Musée archéologique de Brumath"
               },
               "tip_5lang": {
                 "de": "Tauen Sie Ihre Zehen beim Erkunden der Geschichte auf; die Heizung macht dies zum gemütlichsten Stopp der Winterfahrt.",
                 "hu": "Olvaszd fel a lábujjaidat a lenyűgöző történelem felfedezése közben; a benti fűtés miatt ez a legkuckósabb téli megálló.",
                 "ro": "Dezghețați-vă degetele în timp ce explorați istoria; încălzirea interioară face din aceasta cea mai confortabilă oprire.",
-                "en": "Thaw your toes while exploring fascinating history; the indoor heating makes this the coziest stop on your winter drive."
+                "en": "Thaw your toes while exploring fascinating history; the indoor heating makes this the coziest stop on your winter drive.",
+                "fr": "Dégeliez vos orteils en explorant l’histoire fascinante ; le chauffage intérieur en fait l’étape la plus douillette de votre route hivernale."
               }
             },
             {
@@ -846,13 +939,15 @@
                 "de": "Jardin de l'Escalier (Treppengarten)",
                 "hu": "Lépcsőkertje (Jardin de l'Escalier)",
                 "ro": "Grădina Scărilor (Jardin de l'Escalier)",
-                "en": "Garden of the Staircase"
+                "en": "Garden of the Staircase",
+                "fr": "Jardin de l’Escalier"
               },
               "tip_5lang": {
                 "de": "Schnappen Sie sich dicke Schals vom Rücksitz gegen die beißende Kälte beim Bewundern der wunderschönen frostigen Skulpturen.",
                 "hu": "Vedd elő a legvastagabb sálat a hátsó ülésről a harapós hideg ellen, miközben a szobrok gyönyörű zúzmaráját csodálod.",
                 "ro": "Luați-vă cel mai gros fular de pe bancheta din spate pentru a înfrunta frigul mușcător admirând bruma de pe sculpturi.",
-                "en": "Grab your thickest scarf from the backseat to brave the biting cold while admiring the beautiful frost on the sculptures."
+                "en": "Grab your thickest scarf from the backseat to brave the biting cold while admiring the beautiful frost on the sculptures.",
+                "fr": "Prenez votre plus grosse écharpe sur la banquette arrière pour affronter le froid mordant en admirant le beau givre sur les sculptures."
               }
             },
             {
@@ -860,13 +955,15 @@
                 "de": "Fluss Zorn",
                 "hu": "Zorn folyó",
                 "ro": "Râul Zorn",
-                "en": "The Zorn River"
+                "en": "The Zorn River",
+                "fr": "La Zorn"
               },
               "tip_5lang": {
                 "de": "Öffnen Sie das Fenster nur einen Spalt fürs Foto der eisigen Ufer, um die warme Luft im Auto nicht zu verlieren.",
                 "hu": "Csak annyira húzd le az ablakot, hogy lőj egy fotót a jeges partokról, majd húzd is fel, hogy bent tartsd a kocsiban a meleget.",
                 "ro": "Coborâți geamul suficient pentru a face o fotografie malurilor înghețate înainte de a-l ridica pentru a păstra căldura.",
-                "en": "Roll the window down just enough to snap a photo of the icy banks before rolling it up to trap the car's warm air."
+                "en": "Roll the window down just enough to snap a photo of the icy banks before rolling it up to trap the car's warm air.",
+                "fr": "Baissez légèrement la fenêtre juste assez pour prendre une photo des berges glacées puis remontez‑la pour conserver la chaleur de la voiture."
               }
             },
             {
@@ -874,13 +971,15 @@
                 "de": "Fun Parc Brumath",
                 "hu": "Brumath Élménypark",
                 "ro": "Fun Parc Brumath",
-                "en": "Brumath Fun Park"
+                "en": "Brumath Fun Park",
+                "fr": "Parc de loisirs de Brumath"
               },
               "tip_5lang": {
                 "de": "Planen Sie den Besuch so, dass die Kinder ihren Lagerkoller in der frischen Luft vor der Dämmerung um 17 Uhr abbauen.",
                 "hu": "Időzítsd úgy a látogatást, hogy a gyerekek levezessék az energiáikat a friss levegőn, még a 17 órás korai sötétedés előtt.",
                 "ro": "Planificați vizita astfel încât copiii să-și consume energia în aerul proaspăt chiar înainte de amurgul devreme de la ora 17.",
-                "en": "Time your visit so the kids can run off their cabin fever in the brisk air just before the early 5 PM twilight hits."
+                "en": "Time your visit so the kids can run off their cabin fever in the brisk air just before the early 5 PM twilight hits.",
+                "fr": "Programmez votre visite pour que les enfants puissent évacuer l’ennui du confinement dans l’air vif juste avant le crépuscule précoce à 17 h."
               }
             }
           ]

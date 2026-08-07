@@ -21,7 +21,8 @@
             "de": "Église de Saint-Gervais et Saint-Protais",
             "hu": "Église de Saint-Gervais et Saint-Protais",
             "ro": "Église de Saint-Gervais et Saint-Protais",
-            "en": "Church of Saint-Gervais and Saint-Protais"
+            "en": "Church of Saint-Gervais and Saint-Protais",
+            "fr": "Église Saint-Gervais et Saint-Protais"
           },
           "coords": [
             1.497967,
@@ -36,7 +37,8 @@
             "de": "Bewundern Sie die schönen Buntglasfenster dieser zentralen Pfarrkirche; versuchen Sie an einem Sonntagmorgen zu kommen, wenn das Tageslicht perfekt durch die Fenster fällt.",
             "hu": "Csodálja meg ennek a központi plébániatemplomnak a gyönyörű ólomüveg ablakait; próbáljon vasárnap reggel érkezni, amikor a természetes fény tökéletesen árad be.",
             "ro": "Admirați vitraliile frumoase ale acestei biserici parohiale centrale; încercați să vizitați duminica dimineața când lumina naturală intră perfect prin ferestre.",
-            "en": "Admire the beautiful stained glass of this central parish church; try to visit on a Sunday morning when the natural light streams through the windows perfectly."
+            "en": "Admire the beautiful stained glass of this central parish church; try to visit on a Sunday morning when the natural light streams through the windows perfectly.",
+            "fr": "Admirez les magnifiques vitraux de cette église paroissiale centrale ; essayez de la visiter un dimanche matin lorsque la lumière naturelle traverse parfaitement les fenêtres."
           }
         },
         {
@@ -44,7 +46,8 @@
             "de": "Parc de la Mairie",
             "hu": "Parc de la Mairie",
             "ro": "Parc de la Mairie",
-            "en": "Town Hall Park"
+            "en": "Town Hall Park",
+            "fr": "Parc de l'Hôtel de Ville"
           },
           "coords": [
             1.50003,
@@ -59,7 +62,8 @@
             "de": "Diese grüne Oase bietet einen friedlichen Rückzugsort direkt neben den städtischen Gebäuden; bringen Sie eine kleine Decke mit, um ein schnelles Picknick auf dem gepflegten Rasen zu genießen.",
             "hu": "Ez a zöld oázis békés menedéket nyújt közvetlenül az önkormányzati épületek mellett; hozzon egy kis takarót, hogy élvezze a gyors pikniket a gondozott pázsiton.",
             "ro": "Această oază verde oferă un refugiu liniștit chiar lângă clădirile municipale; aduceți o pătură mică pentru a vă bucura de un picnic rapid pe peluzele bine întreținute.",
-            "en": "This green oasis offers a peaceful retreat right next to the municipal buildings; bring a small blanket to enjoy a quick picnic on the well-maintained lawns."
+            "en": "This green oasis offers a peaceful retreat right next to the municipal buildings; bring a small blanket to enjoy a quick picnic on the well-maintained lawns.",
+            "fr": "Cette oasis verte offre un refuge paisible juste à côté des bâtiments municipaux ; apportez une petite couverture pour profiter d'un pique-nique rapide sur les pelouses bien entretenues."
           }
         },
         {
@@ -67,7 +71,8 @@
             "de": "Salle Jacques Brel",
             "hu": "Salle Jacques Brel",
             "ro": "Salle Jacques Brel",
-            "en": "Salle Jacques Brel"
+            "en": "Salle Jacques Brel",
+            "fr": "Salle Jacques Brel"
           },
           "coords": [
             1.504242,
@@ -82,7 +87,8 @@
             "de": "Erkunden Sie die vielfältigen kulturellen Veranstaltungen und lokalen Kunstausstellungen in diesem modernen Veranstaltungsort; prüfen Sie vorab das Online-Programm, da die Öffnungszeiten von den Shows abhängen.",
             "hu": "Fedezze fel a modern helyszín változatos kulturális eseményeit és helyi művészeti kiállításait; előzetesen ellenőrizze az online menetrendet, mivel a nyitvatartás az aktuális műsoroktól függ.",
             "ro": "Explorați diversele evenimente culturale și expoziții de artă locală găzduite în acest spațiu modern; verificați programul online în prealabil, deoarece orele de deschidere depind de spectacole.",
-            "en": "Explore the varied cultural events and local art exhibitions hosted in this modern venue; check the online schedule beforehand as opening times depend on current shows."
+            "en": "Explore the varied cultural events and local art exhibitions hosted in this modern venue; check the online schedule beforehand as opening times depend on current shows.",
+            "fr": "Découvrez les événements culturels variés et les expositions d'art local accueillis dans ce lieu moderne ; consultez le programme en ligne au préalable car les horaires d'ouverture dépendent des spectacles en cours."
           }
         },
         {
@@ -90,7 +96,8 @@
             "de": "Le Moulin",
             "hu": "Le Moulin",
             "ro": "Le Moulin",
-            "en": "Moulin"
+            "en": "Moulin",
+            "fr": "Moulin"
           },
           "coords": [
             1.497253,
@@ -105,7 +112,8 @@
             "de": "Entdecken Sie die Überreste des landwirtschaftlichen Erbes von Castanet-Tolosan an diesem alten Mühlenstandort; tragen Sie bequeme Schuhe, da die umliegenden Wege etwas uneben und staubig sein können.",
             "hu": "Fedezze fel Castanet-Tolosan mezőgazdasági örökségének maradványait ezen a régi malomhelyszínen; viseljen kényelmes cipőt, mivel a környező ösvények kissé egyenetlenek és porosak lehetnek.",
             "ro": "Descoperiți rămășițele moștenirii agricole ale orașului Castanet-Tolosan la această veche moară; purtați încălțăminte confortabilă, deoarece potecile din jur pot fi puțin denivelate și prăfuite.",
-            "en": "Discover the remnants of Castanet-Tolosan's agricultural heritage at this old mill site; wear comfortable shoes as the surrounding paths can be a bit uneven and dusty."
+            "en": "Discover the remnants of Castanet-Tolosan's agricultural heritage at this old mill site; wear comfortable shoes as the surrounding paths can be a bit uneven and dusty.",
+            "fr": "Découvrez les vestiges du patrimoine agricole de Castanet-Tolosan sur ce site de vieux moulin ; portez des chaussures confortables car les sentiers environnants peuvent être un peu irréguliers et poussiéreux."
           }
         },
         {
@@ -113,7 +121,8 @@
             "de": "Église Saint-Séverin",
             "hu": "Église Saint-Séverin",
             "ro": "Église Saint-Séverin",
-            "en": "Église Saint-Séverin"
+            "en": "Église Saint-Séverin",
+            "fr": "Église Saint-Séverin"
           },
           "coords": [
             1.487093,
@@ -128,7 +137,8 @@
             "de": "Treten Sie in diese ruhige, weniger bekannte Kirche ein, um ihre bescheidene, aber authentische historische Architektur zu schätzen; beachten Sie, dass die Türen zur Mittagszeit verschlossen sein können.",
             "hu": "Lépjen be ebbe a csendes, kevésbé ismert templomba, hogy értékelje szerény, de hiteles történelmi építészetét; vegye figyelembe, hogy az ajtók ebédidőben zárva lehetnek, ezért tervezzen előre.",
             "ro": "Intrați în această biserică liniștită și mai puțin cunoscută pentru a aprecia arhitectura sa istorică modestă, dar autentică; rețineți că ușile ar putea fi încuiate în timpul prânzului.",
-            "en": "Step into this quiet, lesser-known church to appreciate its modest but authentic historical architecture; note that the doors might be locked during lunch hours so plan accordingly."
+            "en": "Step into this quiet, lesser-known church to appreciate its modest but authentic historical architecture; note that the doors might be locked during lunch hours so plan accordingly.",
+            "fr": "Pénétrez dans cette église calme et moins connue pour apprécier son architecture historique modeste mais authentique ; notez que les portes peuvent être fermées pendant l'heure du déjeuner, prévoyez en conséquence."
           }
         }
       ],
@@ -136,7 +146,8 @@
         "de": "Beginnen Sie den Tag im historischen Zentrum an der beeindruckenden Kirche der Heiligen Gervais und Protais. Mittags entspannen Sie sich im grünen Rathauspark, bevor Sie die kulturellen Ausstellungen im Salle Jacques Brel erkunden. Der Nachmittag führt Sie zum historischen Moulin, das die landwirtschaftliche Vergangenheit von Castanet-Tolosan zeigt. Beenden Sie den Tag an der Église Saint-Séverin in einer ruhigen Atmosphäre.",
         "hu": "Kezdje a napot a történelmi központban, a Szent Gervasius és Protasius templom megtekintésével. Délben pihenjen meg a zöldellő Városháza parkban, mielőtt felfedezné a Salle Jacques Brel kulturális kiállításait. Délután sétáljon el a történelmi malomhoz, amely Castanet-Tolosan mezőgazdasági múltját idézi. A napot a csendes hangulatú Saint-Séverin templomnál zárja.",
         "ro": "Începeți ziua în centrul istoric la impresionanta Biserică Sfinții Gervasie și Protasie. La prânz, relaxați-vă în verdele Parc al Primăriei înainte de a explora expozițiile de la Salle Jacques Brel. După-amiaza vă duce la istoricul Moulin, care reflectă trecutul agricol al orașului Castanet-Tolosan. Încheiați ziua într-o atmosferă liniștită la Église Saint-Séverin.",
-        "en": "Start the day in the historical center at the impressive Church of Saint-Gervais and Saint-Protais. At midday, relax in the verdant Town Hall Park before exploring the cultural exhibitions at Salle Jacques Brel. The afternoon takes you to the historic Moulin, reflecting the agricultural past of Castanet-Tolosan. End the day in a peaceful atmosphere at the Église Saint-Séverin."
+        "en": "Start the day in the historical center at the impressive Church of Saint-Gervais and Saint-Protais. At midday, relax in the verdant Town Hall Park before exploring the cultural exhibitions at Salle Jacques Brel. The afternoon takes you to the historic Moulin, reflecting the agricultural past of Castanet-Tolosan. End the day in a peaceful atmosphere at the Église Saint-Séverin.",
+        "fr": "Commencez la journée au centre historique par l'imposante Église Saint-Gervais et Saint-Protais. À midi, détendez-vous dans le verdoyant Parc de l'Hôtel de Ville avant d'explorer les expositions culturelles à la Salle Jacques Brel. L'après-midi vous mène au Moulin historique, reflet du passé agricole de Castanet-Tolosan. Terminez la journée dans une atmosphère paisible à l'Église Saint-Séverin."
       },
       "variants": {
         "rainy": {
@@ -144,7 +155,8 @@
             "de": "Beginnen Sie Ihren Tag im Schutz der historischen Kirchenwände. Ein Regenschirm ist im Park unerlässlich, wo die Wege bei Nässe etwas rutschig sein können. Mittags bietet die Salle Jacques Brel eine willkommene kulturelle Pause im Trockenen. Der Nachmittag führt Sie trotz Regen zum charmanten Moulin, bevor der Tag in der besinnlichen Atmosphäre von Saint-Séverin endet.",
             "hu": "Kezdje a napot a történelmi templomfalak védelmében. Az esernyő elengedhetetlen a parkban, ahol a vizes ösvények csúszósak lehetnek. Délben a Salle Jacques Brel nyújt kulturális menedéket a szárazon. A délután az eső ellenére is a hangulatos malomhoz vezet, majd a nap Szent Severin templomának meghitt, békés hangulatában zárul, távol a külvilág zajától és a sártól.",
             "ro": "Începeți ziua la adăpostul zidurilor istorice ale bisericii. O umbrelă este esențială în parc, unde aleile pot deveni alunecoase. La prânz, Salle Jacques Brel oferă o pauză culturală binevenită la uscat. După-amiaza vă poartă spre moara fermecătoare în ciuda ploii, înainte ca ziua să se încheie în atmosfera liniștită de la Saint-Séverin, ferit de intemperii.",
-            "en": "Start your day sheltered by historical church walls. An umbrella is essential in the park, where wet paths might be slippery. At noon, Salle Jacques Brel offers a welcome cultural break in the dry. The afternoon leads to the charming Moulin despite the rain, before the day concludes in the peaceful atmosphere of Saint-Séverin, providing a dry sanctuary from the storm."
+            "en": "Start your day sheltered by historical church walls. An umbrella is essential in the park, where wet paths might be slippery. At noon, Salle Jacques Brel offers a welcome cultural break in the dry. The afternoon leads to the charming Moulin despite the rain, before the day concludes in the peaceful atmosphere of Saint-Séverin, providing a dry sanctuary from the storm.",
+            "fr": "Commencez la journée abrité par les murs historiques de l'église. Un parapluie est essentiel dans le parc, où les chemins mouillés peuvent être glissants. À midi, la Salle Jacques Brel offre une pause culturelle bienvenue au sec. L'après-midi mène au charmant Moulin malgré la pluie, avant que la journée ne se conclue dans l'atmosphère paisible de Saint-Séverin, offrant un sanctuaire sec contre la tempête."
           },
           "stops": [
             {
@@ -152,13 +164,15 @@
                 "de": "Église de Saint-Gervais et Saint-Protais",
                 "hu": "Église de Saint-Gervais et Saint-Protais",
                 "ro": "Église de Saint-Gervais et Saint-Protais",
-                "en": "Church of Saint-Gervais and Saint-Protais"
+                "en": "Church of Saint-Gervais and Saint-Protais",
+                "fr": "Église Saint-Gervais et Saint-Protais"
               },
               "tip_5lang": {
                 "de": "Nutzen Sie den prachtvollen Innenraum als trockenen Rückzugsort und bewundern Sie die Details der Altäre, während draußen der Regen auf das Dach prasselt.",
                 "hu": "Használja ki a pompás belső teret száraz menedékként, és csodálja meg az oltárok részleteit, miközben odakint az eső kopog a tetőn.",
                 "ro": "Folosiți interiorul splendid ca refugiu uscat și admirați detaliile altarelor în timp ce ploaia bate pe acoperiș afară.",
-                "en": "Use the splendid interior as a dry retreat and admire the details of the altars while the rain patters on the roof outside."
+                "en": "Use the splendid interior as a dry retreat and admire the details of the altars while the rain patters on the roof outside.",
+                "fr": "Utilisez le splendide intérieur comme refuge sec et admirez les détails des autels pendant que la pluie crépite sur le toit à l'extérieur."
               }
             },
             {
@@ -166,13 +180,15 @@
                 "de": "Parc de la Mairie",
                 "hu": "Parc de la Mairie",
                 "ro": "Parc de la Mairie",
-                "en": "Town Hall Park"
+                "en": "Town Hall Park",
+                "fr": "Parc de l'Hôtel de Ville"
               },
               "tip_5lang": {
                 "de": "Suchen Sie Schutz unter den dichten Baumkronen oder im Pavillon; feste Wanderschuhe sind wegen der Pfützen auf den Kieswegen unbedingt zu empfehlen.",
                 "hu": "Keressen menedéket a sűrű lombok alatt vagy a pavilonban; a kavicsos utakon lévő tócsák miatt a vízálló túrabakancs viselete erősen ajánlott.",
                 "ro": "Căutați adăpost sub coroanele dese sau în pavilion; încălțămintea impermeabilă este recomandată din cauza bălților de pe aleile cu pietriș.",
-                "en": "Seek shelter under the dense canopies or in the pavilion; waterproof hiking boots are highly recommended due to puddles on the gravel paths."
+                "en": "Seek shelter under the dense canopies or in the pavilion; waterproof hiking boots are highly recommended due to puddles on the gravel paths.",
+                "fr": "Cherchez un abri sous les frondaisons denses ou dans le pavillon ; des chaussures de randonnée imperméables sont fortement recommandées en raison des flaques sur les chemins de gravier."
               }
             },
             {
@@ -180,13 +196,15 @@
                 "de": "Salle Jacques Brel",
                 "hu": "Salle Jacques Brel",
                 "ro": "Salle Jacques Brel",
-                "en": "Salle Jacques Brel"
+                "en": "Salle Jacques Brel",
+                "fr": "Salle Jacques Brel"
               },
               "tip_5lang": {
                 "de": "Dieser überdachte Kulturort ist ideal, um die Regenpause für eine Ausstellung zu nutzen und sich in den großzügigen Räumlichkeiten wieder aufzuwärmen.",
                 "hu": "Ez a fedett kulturális helyszín ideális az esőzés alatti kiállításnézésre, a tágas termekben pedig kényelmesen megszárítkozhat és felmelegedhet.",
                 "ro": "Acest spațiu cultural acoperit este ideal pentru a vizita o expoziție în timpul ploii și pentru a vă încălzi în încăperile spațioase.",
-                "en": "This indoor cultural venue is ideal for catching an exhibition during the rain and warming up in the spacious interior rooms."
+                "en": "This indoor cultural venue is ideal for catching an exhibition during the rain and warming up in the spacious interior rooms.",
+                "fr": "Ce lieu culturel couvert est idéal pour visiter une exposition pendant la pluie et se réchauffer dans les vastes salles intérieures."
               }
             },
             {
@@ -194,13 +212,15 @@
                 "de": "Le Moulin",
                 "hu": "Le Moulin",
                 "ro": "Le Moulin",
-                "en": "Moulin"
+                "en": "Moulin",
+                "fr": "Moulin"
               },
               "tip_5lang": {
                 "de": "Das alte Mauerwerk wirkt bei grauem Himmel besonders mystisch; halten Sie sich am Ufer wegen der rutschigen Uferböschung bei Nässe besonders vorsichtig.",
                 "hu": "A régi falak szürke égbolt alatt különösen misztikusnak tűnnek; a csúszós part menti rézsű miatt legyen fokozottan óvatos a víz közelében.",
                 "ro": "Zidăria veche pare deosebit de mistică sub cerul gri; fiți foarte prudenți pe mal din cauza taluzului alunecos pe timp de ploaie.",
-                "en": "The old stonework looks particularly mystical under grey skies; be extra cautious near the water's edge due to slippery banks in wet conditions."
+                "en": "The old stonework looks particularly mystical under grey skies; be extra cautious near the water's edge due to slippery banks in wet conditions.",
+                "fr": "La vieille maçonnerie paraît particulièrement mystique sous un ciel gris ; soyez très prudent près du bord de l'eau à cause des berges glissantes en conditions humides."
               }
             },
             {
@@ -208,13 +228,15 @@
                 "de": "Église Saint-Séverin",
                 "hu": "Église Saint-Séverin",
                 "ro": "Église Saint-Séverin",
-                "en": "Église Saint-Séverin"
+                "en": "Église Saint-Séverin",
+                "fr": "Église Saint-Séverin"
               },
               "tip_5lang": {
                 "de": "Beenden Sie die Tour im schützenden Kirchenschiff und genießen Sie die spirituelle Stille, die an regnerischen Nachmittagen besonders intensiv wirkt.",
                 "hu": "Zárja a túrát a védelmet nyújtó hajóban, és élvezze a spirituális csendet, amely esős délutánokon különösen intenzív és megnyugtató élmény.",
                 "ro": "Încheiați turul în nava protectoare a bisericii și bucurați-vă de liniștea spirituală, care pare deosebit de intensă în după-amiezile ploioase.",
-                "en": "End the tour in the protective nave and enjoy the spiritual silence, which feels particularly intense and calming on rainy afternoons."
+                "en": "End the tour in the protective nave and enjoy the spiritual silence, which feels particularly intense and calming on rainy afternoons.",
+                "fr": "Terminez la visite dans la nef protectrice et profitez du silence spirituel, qui paraît particulièrement intense et apaisant les après-midis pluvieux."
               }
             }
           ]
@@ -224,7 +246,8 @@
             "de": "Ein kühler Morgen empfängt Sie in den stillen Gassen von Castanet. Der Frost im Park glitzert in der tiefstehenden Wintersonne, bevor Sie sich in der Salle Jacques Brel aufwärmen. Die historische Mühle zeigt sich im kahlen Gewand des Winters besonders markant. Da es bereits gegen 17:00 Uhr dunkel wird, endet der Tag im warmen Kerzenschein der Saint-Séverin Kirche.",
             "hu": "Hűvös reggel fogadja Castanet csendes utcáin. A parkban a zúzmara szikrázik az alacsonyan járó téli napsütésben, mielőtt felmelegedne a Salle Jacques Brelben. A történelmi malom a téli kopárságban különösen markáns arcát mutatja. Mivel már 17:00 körül sötétedik, a napot a Szent Severin templom meleg gyertyafényénél fejezzük be.",
             "ro": "O dimineață răcoroasă vă întâmpină pe străzile liniștite din Castanet. Degerătura din parc sclipeste în soarele slab de iarnă, înainte de a vă încălzi în Salle Jacques Brel. Moara istorică pare deosebit de marcantă în decorul golaș de iarnă. Deoarece se întunecă în jurul orei 17:00, ziua se încheie la lumina caldă a lumânărilor din biserica Saint-Séverin.",
-            "en": "A crisp morning greets you in the quiet streets of Castanet. Frost in the park sparkles in the low winter sun before you warm up at Salle Jacques Brel. The historical mill looks particularly striking in the bare winter landscape. As darkness falls around 17:00, the day ends in the warm candlelight of Saint-Séverin church."
+            "en": "A crisp morning greets you in the quiet streets of Castanet. Frost in the park sparkles in the low winter sun before you warm up at Salle Jacques Brel. The historical mill looks particularly striking in the bare winter landscape. As darkness falls around 17:00, the day ends in the warm candlelight of Saint-Séverin church.",
+            "fr": "Un matin vif vous accueille dans les rues tranquilles de Castanet. Le givre dans le parc scintille sous le bas soleil d'hiver avant que vous ne vous réchauffiez à la Salle Jacques Brel. Le moulin historique paraît particulièrement saisissant dans le paysage hivernal dépouillé. À la tombée de la nuit vers 17:00, la journée s'achève sous la chaude lueur des bougies de l'église Saint-Séverin."
           },
           "stops": [
             {
@@ -232,13 +255,15 @@
                 "de": "Église de Saint-Gervais et Saint-Protais",
                 "hu": "Église de Saint-Gervais et Saint-Protais",
                 "ro": "Église de Saint-Gervais et Saint-Protais",
-                "en": "Church of Saint-Gervais and Saint-Protais"
+                "en": "Church of Saint-Gervais and Saint-Protais",
+                "fr": "Église Saint-Gervais et Saint-Protais"
               },
               "tip_5lang": {
                 "de": "Die dicken Steinmauern halten die Kälte gut ab; genießen Sie die andächtige Ruhe dieses Ortes als perfekten Start in den frischen Wintertag.",
                 "hu": "A vastag kőfalak jól kint tartják a hideget; élvezze a hely áhítatos nyugalmát, amely tökéletes kezdet a friss téli naphoz.",
                 "ro": "Zidurile groase de piatră țin frigul la distanță; bucurați-vă de liniștea evlavioasă a acestui loc ca un început perfect pentru o zi proaspătă de iarnă.",
-                "en": "The thick stone walls keep the cold at bay; enjoy the prayerful silence of this place as a perfect start to a crisp winter day."
+                "en": "The thick stone walls keep the cold at bay; enjoy the prayerful silence of this place as a perfect start to a crisp winter day.",
+                "fr": "Les épais murs de pierre retiennent le froid ; profitez du silence de prière de ce lieu comme d'un parfait début de journée hivernale fraîche."
               }
             },
             {
@@ -246,13 +271,15 @@
                 "de": "Parc de la Mairie",
                 "hu": "Parc de la Mairie",
                 "ro": "Parc de la Mairie",
-                "en": "Town Hall Park"
+                "en": "Town Hall Park",
+                "fr": "Parc de l'Hôtel de Ville"
               },
               "tip_5lang": {
                 "de": "Tragen Sie warme Schichten, um den winterlichen Charme des gefrorenen Teichs zu genießen, bevor die Sonne hinter den kahlen Platanen verschwindet.",
                 "hu": "Öltözzön rétegesen, hogy élvezhesse a befagyott tavacska téli báját, mielőtt a nap lebukik a kopasz platánfák ágai mögött.",
                 "ro": "Purtați haine groase pentru a vă bucura de farmecul hibernal al iazului înghețat, înainte ca soarele să dispară după platanii golași.",
-                "en": "Dress in warm layers to enjoy the wintry charm of the frozen pond before the sun disappears behind the bare plane tree branches."
+                "en": "Dress in warm layers to enjoy the wintry charm of the frozen pond before the sun disappears behind the bare plane tree branches.",
+                "fr": "Habillez-vous en couches chaudes pour apprécier le charme hivernal de l'étang gelé avant que le soleil ne disparaisse derrière les branches nues des platanes."
               }
             },
             {
@@ -260,13 +287,15 @@
                 "de": "Salle Jacques Brel",
                 "hu": "Salle Jacques Brel",
                 "ro": "Salle Jacques Brel",
-                "en": "Salle Jacques Brel"
+                "en": "Salle Jacques Brel",
+                "fr": "Salle Jacques Brel"
               },
               "tip_5lang": {
                 "de": "Nutzen Sie diesen gut geheizten Raum für eine längere Pause, um die Finger aufzuwärmen und gleichzeitig lokale Kultur in gemütlicher Atmosphäre zu erleben.",
                 "hu": "Használja ki ezt a jól fűtött teret egy hosszabb pihenőre, hogy felmelegítse ujjait, miközben hangulatos környezetben élvezi a helyi kultúrát.",
                 "ro": "Folosiți acest spațiu bine încălzit pentru o pauză mai lungă, pentru a vă încălzi degetele în timp ce experimentați cultura locală într-o atmosferă primitoare.",
-                "en": "Take advantage of this well-heated space for a longer break to warm your fingers while experiencing local culture in a cozy atmosphere."
+                "en": "Take advantage of this well-heated space for a longer break to warm your fingers while experiencing local culture in a cozy atmosphere.",
+                "fr": "Profitez de cet espace bien chauffé pour une pause prolongée afin de réchauffer vos doigts tout en découvrant la culture locale dans une atmosphère cosy."
               }
             },
             {
@@ -274,13 +303,15 @@
                 "de": "Le Moulin",
                 "hu": "Le Moulin",
                 "ro": "Le Moulin",
-                "en": "Moulin"
+                "en": "Moulin",
+                "fr": "Moulin"
               },
               "tip_5lang": {
                 "de": "Achten Sie auf vereiste Stellen am Wasserweg; die tiefstehende Sonne bietet hier im Winter fantastische Fotomotive der historischen Architektur.",
                 "hu": "Ügyeljen a jeges foltokra a vízparti úton; az alacsonyan járó nap télen fantasztikus fotótémákat kínál a történelmi építményről.",
                 "ro": "Atenție la porțiunile înghețate de pe drumul de lângă apă; soarele jos oferă aici iarna motive fotografice fantastice ale arhitecturii istorice.",
-                "en": "Watch out for icy patches on the waterside path; the low sun offers fantastic photo opportunities of the historical architecture in winter."
+                "en": "Watch out for icy patches on the waterside path; the low sun offers fantastic photo opportunities of the historical architecture in winter.",
+                "fr": "Attention aux plaques de verglas sur le chemin en bord d'eau ; le soleil bas offre de fantastiques opportunités photo de l'architecture historique en hiver."
               }
             },
             {
@@ -288,13 +319,15 @@
                 "de": "Église Saint-Séverin",
                 "hu": "Église Saint-Séverin",
                 "ro": "Église Saint-Séverin",
-                "en": "Église Saint-Séverin"
+                "en": "Église Saint-Séverin",
+                "fr": "Église Saint-Séverin"
               },
               "tip_5lang": {
                 "de": "Bei Einbruch der frühen Dunkelheit wirkt die Kirche mit ihrer warmen Innenbeleuchtung besonders einladend und schützt vor der abendlichen Winterbrise.",
                 "hu": "A korai sötétedés beálltával a templom meleg belső világításával különösen hívogató, és védelmet nyújt az esti téli szél ellen.",
                 "ro": "Odată cu lăsarea întunericului, biserica cu iluminatul său cald pare deosebit de primitoare și oferă protecție împotriva brizei de seară.",
-                "en": "As early darkness falls, the church with its warm interior lighting feels especially inviting and provides shelter from the evening winter breeze."
+                "en": "As early darkness falls, the church with its warm interior lighting feels especially inviting and provides shelter from the evening winter breeze.",
+                "fr": "Quand la nuit tombe tôt, l'église avec son éclairage intérieur chaleureux paraît particulièrement accueillante et offre un abri contre la brise hivernale du soir."
               }
             }
           ]
@@ -314,7 +347,8 @@
             "de": "Église de Saint-Gervais et Saint-Protais",
             "hu": "Église de Saint-Gervais et Saint-Protais",
             "ro": "Église de Saint-Gervais et Saint-Protais",
-            "en": "Church of Saint-Gervais and Saint-Protais"
+            "en": "Church of Saint-Gervais and Saint-Protais",
+            "fr": "Église Saint-Gervais et Saint-Protais"
           },
           "coords": [
             1.497967,
@@ -329,7 +363,8 @@
             "de": "Bewundern Sie die schönen Buntglasfenster dieser zentralen Pfarrkirche; versuchen Sie an einem Sonntagmorgen zu kommen, wenn das Tageslicht perfekt durch die Fenster fällt.",
             "hu": "Csodálja meg ennek a központi plébániatemplomnak a gyönyörű ólomüveg ablakait; próbáljon vasárnap reggel érkezni, amikor a természetes fény tökéletesen árad be.",
             "ro": "Admirați vitraliile frumoase ale acestei biserici parohiale centrale; încercați să vizitați duminica dimineața când lumina naturală intră perfect prin ferestre.",
-            "en": "Admire the beautiful stained glass of this central parish church; try to visit on a Sunday morning when the natural light streams through the windows perfectly."
+            "en": "Admire the beautiful stained glass of this central parish church; try to visit on a Sunday morning when the natural light streams through the windows perfectly.",
+            "fr": "Admirez les magnifiques vitraux de cette église paroissiale centrale ; essayez de la visiter un dimanche matin lorsque la lumière naturelle traverse parfaitement les fenêtres."
           }
         },
         {
@@ -337,7 +372,8 @@
             "de": "Parc de la Mairie",
             "hu": "Parc de la Mairie",
             "ro": "Parc de la Mairie",
-            "en": "Town Hall Park"
+            "en": "Town Hall Park",
+            "fr": "Parc de l'Hôtel de Ville"
           },
           "coords": [
             1.50003,
@@ -352,7 +388,8 @@
             "de": "Diese grüne Oase bietet einen friedlichen Rückzugsort direkt neben den städtischen Gebäuden; bringen Sie eine kleine Decke mit, um ein schnelles Picknick auf dem gepflegten Rasen zu genießen.",
             "hu": "Ez a zöld oázis békés menedéket nyújt közvetlenül az önkormányzati épületek mellett; hozzon egy kis takarót, hogy élvezze a gyors pikniket a gondozott pázsiton.",
             "ro": "Această oază verde oferă un refugiu liniștit chiar lângă clădirile municipale; aduceți o pătură mică pentru a vă bucura de un picnic rapid pe peluzele bine întreținute.",
-            "en": "This green oasis offers a peaceful retreat right next to the municipal buildings; bring a small blanket to enjoy a quick picnic on the well-maintained lawns."
+            "en": "This green oasis offers a peaceful retreat right next to the municipal buildings; bring a small blanket to enjoy a quick picnic on the well-maintained lawns.",
+            "fr": "Cette oasis verte offre un refuge paisible juste à côté des bâtiments municipaux ; apportez une petite couverture pour profiter d'un pique-nique rapide sur les pelouses bien entretenues."
           }
         },
         {
@@ -360,7 +397,8 @@
             "de": "Salle Jacques Brel",
             "hu": "Salle Jacques Brel",
             "ro": "Salle Jacques Brel",
-            "en": "Salle Jacques Brel"
+            "en": "Salle Jacques Brel",
+            "fr": "Salle Jacques Brel"
           },
           "coords": [
             1.504242,
@@ -375,7 +413,8 @@
             "de": "Erkunden Sie die vielfältigen kulturellen Veranstaltungen und lokalen Kunstausstellungen in diesem modernen Veranstaltungsort; prüfen Sie vorab das Online-Programm, da die Öffnungszeiten von den Shows abhängen.",
             "hu": "Fedezze fel a modern helyszín változatos kulturális eseményeit és helyi művészeti kiállításait; előzetesen ellenőrizze az online menetrendet, mivel a nyitvatartás az aktuális műsoroktól függ.",
             "ro": "Explorați diversele evenimente culturale și expoziții de artă locală găzduite în acest spațiu modern; verificați programul online în prealabil, deoarece orele de deschidere depind de spectacole.",
-            "en": "Explore the varied cultural events and local art exhibitions hosted in this modern venue; check the online schedule beforehand as opening times depend on current shows."
+            "en": "Explore the varied cultural events and local art exhibitions hosted in this modern venue; check the online schedule beforehand as opening times depend on current shows.",
+            "fr": "Découvrez les événements culturels variés et les expositions d'art local accueillis dans ce lieu moderne ; consultez le programme en ligne au préalable car les horaires d'ouverture dépendent des spectacles en cours."
           }
         },
         {
@@ -383,7 +422,8 @@
             "de": "Le Moulin",
             "hu": "Le Moulin",
             "ro": "Le Moulin",
-            "en": "Moulin"
+            "en": "Moulin",
+            "fr": "Moulin"
           },
           "coords": [
             1.497253,
@@ -398,7 +438,8 @@
             "de": "Entdecken Sie die Überreste des landwirtschaftlichen Erbes von Castanet-Tolosan an diesem alten Mühlenstandort; tragen Sie bequeme Schuhe, da die umliegenden Wege etwas uneben und staubig sein können.",
             "hu": "Fedezze fel Castanet-Tolosan mezőgazdasági örökségének maradványait ezen a régi malomhelyszínen; viseljen kényelmes cipőt, mivel a környező ösvények kissé egyenetlenek és porosak lehetnek.",
             "ro": "Descoperiți rămășițele moștenirii agricole ale orașului Castanet-Tolosan la această veche moară; purtați încălțăminte confortabilă, deoarece potecile din jur pot fi puțin denivelate și prăfuite.",
-            "en": "Discover the remnants of Castanet-Tolosan's agricultural heritage at this old mill site; wear comfortable shoes as the surrounding paths can be a bit uneven and dusty."
+            "en": "Discover the remnants of Castanet-Tolosan's agricultural heritage at this old mill site; wear comfortable shoes as the surrounding paths can be a bit uneven and dusty.",
+            "fr": "Découvrez les vestiges du patrimoine agricole de Castanet-Tolosan sur ce site de vieux moulin ; portez des chaussures confortables car les sentiers environnants peuvent être un peu irréguliers et poussiéreux."
           }
         },
         {
@@ -406,7 +447,8 @@
             "de": "Église Saint-Martin de Péchabou",
             "hu": "Église Saint-Martin de Péchabou",
             "ro": "Église Saint-Martin de Péchabou",
-            "en": "Église Saint-Martin de Péchabou"
+            "en": "Église Saint-Martin de Péchabou",
+            "fr": "Église Saint-Martin de Péchabou"
           },
           "coords": [
             1.509348,
@@ -421,7 +463,8 @@
             "de": "Diese charmante Kirche bietet einen Einblick in die ländlichen religiösen Traditionen der Region; sie liegt etwas abseits der Hauptstraße und ist ein perfekter Ort für ruhige Besinnung.",
             "hu": "Ez a bájos templom bepillantást enged a régió vidéki vallási hagyományaiba; kissé távolabb esik a főúttól, így tökéletes hely a csendes elmélkedésre.",
             "ro": "Această biserică fermecătoare oferă o privire asupra tradițiilor religioase rurale din regiune; se află ușor îndepărtată de drumul principal, fiind un loc perfect pentru reflecție liniștită.",
-            "en": "This charming church provides a glimpse into the region's rural religious traditions; it sits slightly off the main road, making it a perfect spot for quiet reflection."
+            "en": "This charming church provides a glimpse into the region's rural religious traditions; it sits slightly off the main road, making it a perfect spot for quiet reflection.",
+            "fr": "Cette charmante église donne un aperçu des traditions religieuses rurales de la région ; elle se situe un peu à l'écart de la route principale, en faisant un lieu parfait pour la réflexion tranquille."
           }
         },
         {
@@ -429,7 +472,8 @@
             "de": "Église Saint-Jean-Baptiste",
             "hu": "Église Saint-Jean-Baptiste",
             "ro": "Église Saint-Jean-Baptiste",
-            "en": "Église Saint-Jean-Baptiste"
+            "en": "Église Saint-Jean-Baptiste",
+            "fr": "Église Saint-Jean-Baptiste"
           },
           "coords": [
             1.47338,
@@ -444,7 +488,8 @@
             "de": "Bewundern Sie die robuste Steinfassade und die friedliche Umgebung dieses historischen Gebäudes; der Kirchhof ist sehr ruhig und bietet an sonnigen Nachmittagen einen schönen schattigen Bereich.",
             "hu": "Csodálja meg a történelmi épület masszív kőhomlokzatát és békés környezetét; a templomudvar nagyon nyugodt, és szép árnyékos területet kínál a napos délutánokon.",
             "ro": "Admirați fațada robustă de piatră și împrejurimile pașnice ale acestei clădiri istorice; curtea bisericii este foarte senină și oferă o zonă umbrită plăcută în după-amiezele însorite.",
-            "en": "Admire the sturdy stone facade and the peaceful surroundings of this historic building; the churchyard is quite serene and offers a nice shaded area during sunny afternoons."
+            "en": "Admire the sturdy stone facade and the peaceful surroundings of this historic building; the churchyard is quite serene and offers a nice shaded area during sunny afternoons.",
+            "fr": "Admirez la robuste façade en pierre et le cadre paisible de ce bâtiment historique ; le cimetière de l'église est très serein et offre un bel espace ombragé lors des après-midis ensoleillés."
           }
         },
         {
@@ -452,7 +497,8 @@
             "de": "Manoir des Frères Tailleurs",
             "hu": "Manoir des Frères Tailleurs",
             "ro": "Manoir des Frères Tailleurs",
-            "en": "Manoir des Frères Tailleurs"
+            "en": "Manoir des Frères Tailleurs",
+            "fr": "Manoir des Frères Tailleurs"
           },
           "coords": [
             1.478637,
@@ -467,7 +513,8 @@
             "de": "Nehmen Sie sich Zeit, das elegante Äußere dieses klassischen Herrenhauses zu betrachten; da es sich größtenteils um ein privates oder administratives Anwesen handelt, konzentrieren Sie Ihre Fotografie auf die architektonischen Details von den öffentlichen Wegen aus.",
             "hu": "Szánjon időt e klasszikus kúria elegáns külsejének megtekintésére; mivel nagyrészt magán- vagy közigazgatási birtok, fókuszálja a fényképezést az építészeti részletekre a nyilvános utakról.",
             "ro": "Luați-vă timp pentru a vedea exteriorul elegant al acestui conac clasic; fiind în mare parte un domeniu privat sau administrativ, concentrați-vă fotografia pe detaliile arhitecturale de pe căile publice.",
-            "en": "Take time to view the elegant exterior of this classic manor house; as it is largely a private or administrative estate, focus your photography on the architectural details from the public pathways."
+            "en": "Take time to view the elegant exterior of this classic manor house; as it is largely a private or administrative estate, focus your photography on the architectural details from the public pathways.",
+            "fr": "Prenez le temps d'observer l'élégante façade de ce manoir classique ; comme il s'agit en grande partie d'un domaine privé ou administratif, concentrez vos photos sur les détails architecturaux depuis les voies publiques."
           }
         }
       ],
@@ -475,7 +522,8 @@
         "de": "Starten Sie im Zentrum und radeln Sie vom beeindruckenden Kirchenbauwerk zum erholsamen Rathauspark für einen entspannten Vormittag. Mittags entdecken Sie die Kunst im Salle Jacques Brel und fahren weiter zur historischen Mühle im Süden. Am Nachmittag bringt Sie eine malerische Fahrt zur Église Saint-Martin de Péchabou und zur Église Saint-Jean-Baptiste. Der Abend endet am eleganten Manoir des Frères Tailleurs.",
         "hu": "Induljon a központból, és tekerjen a lenyűgöző templomtól a Városháza parkig egy pihentető délelőttre. Délben fedezze fel a művészetet a Salle Jacques Brel-ben, majd tekerjen délre a történelmi malomhoz. Délután egy festői út viszi a Saint-Martin de Péchabou és a Saint-Jean-Baptiste templomokhoz. Az este az elegáns Manoir des Frères Tailleurs-nél ér véget.",
         "ro": "Începeți în centru și pedalați de la biserica impresionantă la Parcul Primăriei pentru o dimineață relaxantă. La prânz, descoperiți arta la Salle Jacques Brel și continuați spre moara istorică din sud. După-amiaza, o plimbare pitorească vă duce la bisericile Saint-Martin de Péchabou și Saint-Jean-Baptiste. Seara se încheie la elegantul Manoir des Frères Tailleurs.",
-        "en": "Start in the center and cycle from the impressive church to the Town Hall Park for a relaxing morning. At midday, discover the art at Salle Jacques Brel and continue to the historic mill in the south. In the afternoon, a scenic ride takes you to the Saint-Martin de Péchabou and Saint-Jean-Baptiste churches. The evening concludes at the elegant Manoir des Frères Tailleurs."
+        "en": "Start in the center and cycle from the impressive church to the Town Hall Park for a relaxing morning. At midday, discover the art at Salle Jacques Brel and continue to the historic mill in the south. In the afternoon, a scenic ride takes you to the Saint-Martin de Péchabou and Saint-Jean-Baptiste churches. The evening concludes at the elegant Manoir des Frères Tailleurs.",
+        "fr": "Commencez au centre et parcourez à vélo l'église imposante jusqu'au Parc de l'Hôtel de Ville pour une matinée détente. À midi, découvrez l'art à la Salle Jacques Brel et poursuivez vers le moulin historique au sud. L'après-midi, une balade pittoresque vous conduit aux églises Saint-Martin de Péchabou et Saint-Jean-Baptiste. La soirée se conclut au élégant Manoir des Frères Tailleurs."
       },
       "variants": {
         "rainy": {
@@ -483,7 +531,8 @@
             "de": "Rüsten Sie Ihr Rad mit Schutzblechen aus, da der Boden in Castanet heute nass ist. Die Route verbindet historische Kirchen, die perfekte trockene Zwischenstopps bieten. Im Park und am Moulin ist wegen rutschigem Laub Vorsicht geboten. Die Salle Jacques Brel bietet eine großzügige Pause im Trockenen, bevor Sie die ländlicheren Wege im Südwesten erkunden.",
             "hu": "Szerelje fel kerékpárját sárvédővel, mert Castanet talaja ma vizes és sáros. Az útvonal történelmi templomokat köt össze, amelyek tökéletes száraz megállókat kínálnak. A parkban és a malomnál a csúszós levelek miatt óvatosság ajánlott. A Salle Jacques Brel tágas pihenőt nyújt a szárazon, mielőtt felfedezné a délnyugati vidéki utakat.",
             "ro": "Echipati-vă bicicleta cu aripi, deoarece solul din Castanet este umed astăzi. Traseul leagă biserici istorice care oferă opriri uscate perfecte. În parc și la moară se recomandă prudență din cauza frunzelor alunecoase. Salle Jacques Brel oferă o pauză generoasă la uscat înainte de a explora drumurile rurale din sud-vest.",
-            "en": "Equip your bike with mudguards as the ground in Castanet is wet today. The route connects historical churches that offer perfect dry stops. Caution is advised in the park and at the mill due to slippery leaves. Salle Jacques Brel provides a spacious break in the dry before you head out to explore the more rural paths to the southwest."
+            "en": "Equip your bike with mudguards as the ground in Castanet is wet today. The route connects historical churches that offer perfect dry stops. Caution is advised in the park and at the mill due to slippery leaves. Salle Jacques Brel provides a spacious break in the dry before you head out to explore the more rural paths to the southwest.",
+            "fr": "Équipez votre vélo de garde-boue car le sol de Castanet est humide aujourd'hui. L'itinéraire relie des églises historiques qui offrent d'excellents abris au sec. Prudence dans le parc et au moulin en raison des feuilles glissantes. La Salle Jacques Brel offre une pause spacieuse au sec avant de partir explorer les chemins plus ruraux vers le sud-ouest."
           },
           "stops": [
             {
@@ -491,13 +540,15 @@
                 "de": "Église de Saint-Gervais et Saint-Protais",
                 "hu": "Église de Saint-Gervais et Saint-Protais",
                 "ro": "Église de Saint-Gervais et Saint-Protais",
-                "en": "Church of Saint-Gervais and Saint-Protais"
+                "en": "Church of Saint-Gervais and Saint-Protais",
+                "fr": "Église Saint-Gervais et Saint-Protais"
               },
               "tip_5lang": {
                 "de": "Nutzen Sie den überdachten Eingangsbereich zum Abstellen der Räder und treten Sie ein, um den Regen kurzzeitig komplett zu vergessen.",
                 "hu": "Használja a fedett bejárati részt a kerékpárok leállítására, és lépjen be, hogy egy rövid időre teljesen elfelejtse a kinti esőzést.",
                 "ro": "Folosiți zona de intrare acoperită pentru a lăsa bicicletele și intrați pentru a uita complet de ploaie pentru scurt timp.",
-                "en": "Use the sheltered entrance area to park your bikes and step inside to completely forget about the rain for a short while."
+                "en": "Use the sheltered entrance area to park your bikes and step inside to completely forget about the rain for a short while.",
+                "fr": "Utilisez le porche abrité pour garer vos vélos et entrez pour oublier complètement la pluie pendant un moment."
               }
             },
             {
@@ -505,13 +556,15 @@
                 "de": "Parc de la Mairie",
                 "hu": "Parc de la Mairie",
                 "ro": "Parc de la Mairie",
-                "en": "Town Hall Park"
+                "en": "Town Hall Park",
+                "fr": "Parc de l'Hôtel de Ville"
               },
               "tip_5lang": {
                 "de": "Fahren Sie auf den asphaltierten Wegen besonders vorsichtig in den Kurven, da nasses Laub die Bodenhaftung Ihrer Reifen verringern kann.",
                 "hu": "Az aszfaltozott utakon közlekedjen különösen óvatosan a kanyarokban, mivel a vizes levelek csökkenthetik a gumiabroncsok tapadását.",
                 "ro": "Conduceți cu mare atenție în curbe pe aleile asfaltate, deoarece frunzele umede pot reduce aderența anvelopelor dumneavoastră.",
-                "en": "Ride extra carefully in turns on the paved paths, as wet leaves can significantly reduce the grip of your bicycle tires."
+                "en": "Ride extra carefully in turns on the paved paths, as wet leaves can significantly reduce the grip of your bicycle tires.",
+                "fr": "Roulez avec plus de prudence dans les virages sur les allées pavées, car les feuilles mouillées peuvent réduire considérablement l'adhérence des pneus de votre vélo."
               }
             },
             {
@@ -519,13 +572,15 @@
                 "de": "Salle Jacques Brel",
                 "hu": "Salle Jacques Brel",
                 "ro": "Salle Jacques Brel",
-                "en": "Salle Jacques Brel"
+                "en": "Salle Jacques Brel",
+                "fr": "Salle Jacques Brel"
               },
               "tip_5lang": {
                 "de": "Ein idealer Ort, um die Regenkleidung auszuschütteln; genießen Sie das kulturelle Angebot im Trockenen, bevor Sie die Fahrt fortsetzen.",
                 "hu": "Ideális hely az esőruházat lerázására; élvezze a kulturális kínálatot a szárazon, mielőtt folytatná a tekerést a következő állomás felé.",
                 "ro": "Un loc ideal pentru a scutura hainele de ploaie; bucurați-vă de oferta culturală la uscat înainte de a vă continua călătoria.",
-                "en": "An ideal spot to shake off your rain gear; enjoy the cultural offerings in the dry before continuing your ride to the next stop."
+                "en": "An ideal spot to shake off your rain gear; enjoy the cultural offerings in the dry before continuing your ride to the next stop.",
+                "fr": "Un endroit idéal pour enlever vos vêtements de pluie ; profitez des offres culturelles au sec avant de poursuivre votre balade jusqu'à l'étape suivante."
               }
             },
             {
@@ -533,13 +588,15 @@
                 "de": "Le Moulin",
                 "hu": "Le Moulin",
                 "ro": "Le Moulin",
-                "en": "Moulin"
+                "en": "Moulin",
+                "fr": "Moulin"
               },
               "tip_5lang": {
                 "de": "Parken Sie Ihr Rad auf festem Untergrund, um ein Einsinken im weichen Boden zu vermeiden, und bewundern Sie die Kraft des regenreichen Baches.",
                 "hu": "Parkolja kerékpárját szilárd talajra, hogy elkerülje a süllyedést a felázott földben, és csodálja meg a megáradt patak erejét.",
                 "ro": "Parcați bicicleta pe teren solid pentru a evita scufundarea în solul moale și admirați forța pârâului umflat de ploaie.",
-                "en": "Park your bike on solid ground to avoid sinking into the soft soil, and admire the power of the rain-swollen creek near the mill."
+                "en": "Park your bike on solid ground to avoid sinking into the soft soil, and admire the power of the rain-swollen creek near the mill.",
+                "fr": "Garez votre vélo sur un sol solide pour éviter d'enfoncer les pneus dans la terre molle, et admirez la force du ruisseau gonflé par la pluie près du moulin."
               }
             },
             {
@@ -547,13 +604,15 @@
                 "de": "Église Saint-Martin de Péchabou",
                 "hu": "Église Saint-Martin de Péchabou",
                 "ro": "Église Saint-Martin de Péchabou",
-                "en": "Église Saint-Martin de Péchabou"
+                "en": "Église Saint-Martin de Péchabou",
+                "fr": "Église Saint-Martin de Péchabou"
               },
               "tip_5lang": {
                 "de": "Der Anstieg nach Péchabou erfordert bei Regen gute Bremsen; belohnen Sie sich mit der stillen Schönheit dieser kleinen, wetterfesten Kapelle.",
                 "hu": "A Péchabou-ba vezető emelkedő esőben jó fékeket igényel; jutalmazza meg magát ennek a kis, időjárásálló kápolnának a csendes szépségével.",
                 "ro": "Urcarea spre Péchabou necesită frâne bune pe ploaie; recompensați-vă cu frumusețea liniștită a acestei mici capele rezistente la intemperii.",
-                "en": "The climb to Péchabou requires good brakes in the rain; reward yourself with the quiet beauty of this small, weather-proof chapel."
+                "en": "The climb to Péchabou requires good brakes in the rain; reward yourself with the quiet beauty of this small, weather-proof chapel.",
+                "fr": "La montée vers Péchabou nécessite de bons freins sous la pluie ; récompensez-vous par la beauté tranquille de cette petite chapelle protégée des intempéries."
               }
             },
             {
@@ -561,13 +620,15 @@
                 "de": "Église Saint-Jean-Baptiste",
                 "hu": "Église Saint-Jean-Baptiste",
                 "ro": "Église Saint-Jean-Baptiste",
-                "en": "Église Saint-Jean-Baptiste"
+                "en": "Église Saint-Jean-Baptiste",
+                "fr": "Église Saint-Jean-Baptiste"
               },
               "tip_5lang": {
                 "de": "Nutzen Sie die Kirche als Schutz vor einem plötzlichen Schauer und bewundern Sie die Architektur, während Ihre Kleidung kurz trocknen kann.",
                 "hu": "Használja a templomot védelemként egy hirtelen zápor elől, és csodálja meg az építészetet, amíg a ruházata egy kicsit megszáradhat.",
                 "ro": "Folosiți biserica ca protecție împotriva unei averse bruște și admirați arhitectura în timp ce hainele vi se pot usca puțin.",
-                "en": "Use the church as protection from a sudden downpour and admire the architecture while your gear gets a chance to dry a bit."
+                "en": "Use the church as protection from a sudden downpour and admire the architecture while your gear gets a chance to dry a bit.",
+                "fr": "Utilisez l'église comme abri en cas d'averse soudaine et admirez l'architecture pendant que votre équipement a la chance de sécher un peu."
               }
             },
             {
@@ -575,13 +636,15 @@
                 "de": "Manoir des Frères Tailleurs",
                 "hu": "Manoir des Frères Tailleurs",
                 "ro": "Manoir des Frères Tailleurs",
-                "en": "Manoir des Frères Tailleurs"
+                "en": "Manoir des Frères Tailleurs",
+                "fr": "Manoir des Frères Tailleurs"
               },
               "tip_5lang": {
                 "de": "Die historische Fassade wirkt im Regen besonders ehrwürdig; parken Sie unter einem Vordach, um die Details dieses imposanten Herrenhauses zu studieren.",
                 "hu": "A történelmi homlokzat esőben különösen tiszteletreméltó; parkoljon egy előtető alatt, hogy zavartalanul tanulmányozhassa az impozáns udvarház részleteit.",
                 "ro": "Fațada istorică pare deosebit de venerabilă în ploaie; parcați sub o copertină pentru a studia detaliile acestui conac impunător.",
-                "en": "The historical facade looks particularly venerable in the rain; park under an overhang to study the details of this imposing manor house."
+                "en": "The historical facade looks particularly venerable in the rain; park under an overhang to study the details of this imposing manor house.",
+                "fr": "La façade historique paraît particulièrement vénérable sous la pluie ; garez-vous sous un auvent pour étudier les détails de ce manoir imposant."
               }
             }
           ]
@@ -591,7 +654,8 @@
             "de": "Warme Handschuhe sind für diese winterliche Radtour durch Castanet unverzichtbar. Die klare Luft sorgt für weite Sicht auf die umliegenden Kirchen und Herrenhäuser. Mittags wärmt die Salle Jacques Brel Körper und Geist auf. Da die Temperaturen am späten Nachmittag rasch sinken, sollten Sie die Fahrt zum Manoir des Frères Tailleurs vor Sonnenuntergang um 17:00 Uhr abschließen.",
             "hu": "A meleg kesztyű elengedhetetlen ehhez a téli kerékpártúrához Castanetben. A tiszta levegő messzi kilátást biztosít a környező templomokra és udvarházakra. Délben a Salle Jacques Brel melengeti fel a testet és lelket. Mivel késő délután gyorsan hűl a levegő, a Manoir des Frères Tailleurs-höz tett utat fejezze be naplemente előtt.",
             "ro": "Mănușile groase sunt indispensabile pentru această tură cu bicicleta prin Castanet. Aerul limpede oferă o vizibilitate largă asupra bisericilor și conacelor din jur. La prânz, Salle Jacques Brel vă încălzește corpul și spiritul. Deoarece temperaturile scad rapid după-amiaza, finalizați vizita la conac înainte de apus.",
-            "en": "Warm gloves are indispensable for this wintry bike tour through Castanet. The crisp air ensures wide views of the surrounding churches and manors. At noon, Salle Jacques Brel warms both body and spirit. As temperatures drop quickly in the late afternoon, aim to finish the ride to the manor before sunset at 17:00."
+            "en": "Warm gloves are indispensable for this wintry bike tour through Castanet. The crisp air ensures wide views of the surrounding churches and manors. At noon, Salle Jacques Brel warms both body and spirit. As temperatures drop quickly in the late afternoon, aim to finish the ride to the manor before sunset at 17:00.",
+            "fr": "Des gants chauds sont indispensables pour cette sortie à vélo hivernale à travers Castanet. L'air vif offre de larges vues sur les églises et manoirs environnants. À midi, la Salle Jacques Brel réchauffe corps et esprit. Comme les températures chutent rapidement en fin d'après-midi, visez à terminer la balade au manoir avant le coucher du soleil à 17:00."
           },
           "stops": [
             {
@@ -599,13 +663,15 @@
                 "de": "Église de Saint-Gervais et Saint-Protais",
                 "hu": "Église de Saint-Gervais et Saint-Protais",
                 "ro": "Église de Saint-Gervais et Saint-Protais",
-                "en": "Church of Saint-Gervais and Saint-Protais"
+                "en": "Church of Saint-Gervais and Saint-Protais",
+                "fr": "Église Saint-Gervais et Saint-Protais"
               },
               "tip_5lang": {
                 "de": "Ein kurzer Stopp im Inneren hilft, die Kälte der Fahrt zu vergessen; bewundern Sie die sakrale Kunst in der angenehmen Stille der Kirche.",
                 "hu": "Egy rövid belső megálló segít elfelejteni az út hidegét; csodálja meg a szakrális művészetet a templom kellemes és békés csendjében.",
                 "ro": "O scurtă oprire în interior ajută la uitarea frigului de pe drum; admirați arta sacră în liniștea plăcută a bisericii.",
-                "en": "A short stop inside helps you forget the chill of the ride; admire the sacred art in the pleasant and peaceful silence of the church."
+                "en": "A short stop inside helps you forget the chill of the ride; admire the sacred art in the pleasant and peaceful silence of the church.",
+                "fr": "Un court arrêt à l'intérieur vous aide à oublier le froid de la balade ; admirez l'art sacré dans le silence agréable et paisible de l'église."
               }
             },
             {
@@ -613,13 +679,15 @@
                 "de": "Parc de la Mairie",
                 "hu": "Parc de la Mairie",
                 "ro": "Parc de la Mairie",
-                "en": "Town Hall Park"
+                "en": "Town Hall Park",
+                "fr": "Parc de l'Hôtel de Ville"
               },
               "tip_5lang": {
                 "de": "Achten Sie auf Raureif auf den Brücken und Holzwegen; die winterliche Stille des Parks bietet eine ganz eigene, friedliche Atmosphäre.",
                 "hu": "Ügyeljen a zúzmarára a hidakon és a fa utakon; a park téli csendje egyedi, békés hangulatot áraszt a kopár fák között.",
                 "ro": "Atenție la chiciura de pe poduri și aleile de lemn; liniștea hibernală a parcului oferă o atmosferă proprie, foarte pașnică.",
-                "en": "Watch out for hoarfrost on bridges and wooden paths; the park's winter silence offers a uniquely peaceful atmosphere among bare trees."
+                "en": "Watch out for hoarfrost on bridges and wooden paths; the park's winter silence offers a uniquely peaceful atmosphere among bare trees.",
+                "fr": "Surveillez le givre sur les ponts et les chemins en bois ; le silence hivernal du parc offre une atmosphère particulièrement paisible parmi les arbres dénudés."
               }
             },
             {
@@ -627,13 +695,15 @@
                 "de": "Salle Jacques Brel",
                 "hu": "Salle Jacques Brel",
                 "ro": "Salle Jacques Brel",
-                "en": "Salle Jacques Brel"
+                "en": "Salle Jacques Brel",
+                "fr": "Salle Jacques Brel"
               },
               "tip_5lang": {
                 "de": "Die perfekte Gelegenheit für eine längere Pause im Warmen, um die Akkus aufzuladen, bevor Sie die kühleren Außenbezirke ansteuern.",
                 "hu": "Tökéletes alkalom egy hosszabb pihenőre a melegben, hogy feltöltődjön, mielőtt a hűvösebb külső kerületek felé venné az irányt.",
                 "ro": "Ocazia perfectă pentru o pauză lungă la căldură, pentru a vă reîncărca bateriile înainte de a porni spre zonele periferice mai reci.",
-                "en": "The perfect opportunity for a long break in the heat to recharge your batteries before heading out to the cooler outskirts."
+                "en": "The perfect opportunity for a long break in the heat to recharge your batteries before heading out to the cooler outskirts.",
+                "fr": "L'occasion parfaite pour une longue pause au chaud afin de recharger vos batteries avant de partir pour la périphérie plus fraîche."
               }
             },
             {
@@ -641,13 +711,15 @@
                 "de": "Le Moulin",
                 "hu": "Le Moulin",
                 "ro": "Le Moulin",
-                "en": "Moulin"
+                "en": "Moulin",
+                "fr": "Moulin"
               },
               "tip_5lang": {
                 "de": "Halten Sie die Fahrt kurz, um nicht auszukühlen; die historische Architektur wirkt vor dem klaren, winterblauen Himmel besonders beeindruckend.",
                 "hu": "Tartsa rövidre a megállót, hogy ne hűljön ki; a történelmi építészet a tiszta, téli kék égbolt előtt különösen lenyűgöző látvány.",
                 "ro": "Păstrați vizita scurtă pentru a nu îngheța; arhitectura istorică pare deosebit de impresionantă pe fundalul cerului senin de iarnă.",
-                "en": "Keep the stop brief to avoid getting too cold; the historical architecture looks particularly impressive against the clear winter blue sky."
+                "en": "Keep the stop brief to avoid getting too cold; the historical architecture looks particularly impressive against the clear winter blue sky.",
+                "fr": "Gardez l'arrêt bref pour éviter d'avoir trop froid ; l'architecture historique est particulièrement impressionnante sur le ciel d'un bleu hivernal limpide."
               }
             },
             {
@@ -655,13 +727,15 @@
                 "de": "Église Saint-Martin de Péchabou",
                 "hu": "Église Saint-Martin de Péchabou",
                 "ro": "Église Saint-Martin de Péchabou",
-                "en": "Église Saint-Martin de Péchabou"
+                "en": "Église Saint-Martin de Péchabou",
+                "fr": "Église Saint-Martin de Péchabou"
               },
               "tip_5lang": {
                 "de": "Der Anstieg hält Sie warm; genießen Sie oben den Panoramablick über das frostige Tal, bevor Sie die Abfahrt mit Vorsicht antreten.",
                 "hu": "Az emelkedő melegen tartja; élvezze fent a panorámát a zúzmarás völgyre, mielőtt fokozott óvatossággal megkezdené a lejtmenetet.",
                 "ro": "Urcarea vă va ține de cald; bucurați-vă de panorama asupra văii înghețate înainte de a începe coborârea cu prudență.",
-                "en": "The climb will keep you warm; enjoy the panoramic view over the frosty valley at the top before cautiously starting the descent."
+                "en": "The climb will keep you warm; enjoy the panoramic view over the frosty valley at the top before cautiously starting the descent.",
+                "fr": "La montée vous tiendra chaud ; profitez de la vue panoramique sur la vallée givrée au sommet avant d'entamer prudemment la descente."
               }
             },
             {
@@ -669,13 +743,15 @@
                 "de": "Église Saint-Jean-Baptiste",
                 "hu": "Église Saint-Jean-Baptiste",
                 "ro": "Église Saint-Jean-Baptiste",
-                "en": "Église Saint-Jean-Baptiste"
+                "en": "Église Saint-Jean-Baptiste",
+                "fr": "Église Saint-Jean-Baptiste"
               },
               "tip_5lang": {
                 "de": "Ein idealer Ort für eine besinnliche Pause; die kalte Winterluft macht den Eintritt in das stille Kirchenschiff zu einer wahren Wohltat.",
                 "hu": "Ideális hely egy elcsendesedő pihenőre; a hideg téli levegő után a belépés a csendes templomhajóba igazi megnyugvást és enyhülést hoz.",
                 "ro": "Un loc ideal pentru o pauză de meditație; aerul rece de iarnă face ca intrarea în nava silențioasă a bisericii să fie o adevărată binefacere.",
-                "en": "An ideal spot for a meditative break; the cold winter air makes entering the silent church nave a true relief and blessing."
+                "en": "An ideal spot for a meditative break; the cold winter air makes entering the silent church nave a true relief and blessing.",
+                "fr": "Un endroit idéal pour une pause méditative ; l'air froid de l'hiver rend l'entrée dans la nef silencieuse de l'église un vrai soulagement et une bénédiction."
               }
             },
             {
@@ -683,13 +759,15 @@
                 "de": "Manoir des Frères Tailleurs",
                 "hu": "Manoir des Frères Tailleurs",
                 "ro": "Manoir des Frères Tailleurs",
-                "en": "Manoir des Frères Tailleurs"
+                "en": "Manoir des Frères Tailleurs",
+                "fr": "Manoir des Frères Tailleurs"
               },
               "tip_5lang": {
                 "de": "Das Herrenhaus wirkt in der Dämmerung fast märchenhaft; stellen Sie sicher, dass Ihre Fahrradbeleuchtung für den Rückweg einwandfrei funktioniert.",
                 "hu": "Az udvarház a szürkületben szinte mesébe illő; győződjön meg róla, hogy a kerékpáros világítása kifogástalanul működik a hazaúthoz.",
                 "ro": "Conacul pare aproape feeric în amurg; asigurați-vă că luminile bicicletei funcționează impecabil pentru drumul de întoarcere.",
-                "en": "The manor house looks almost fairytale-like in the twilight; ensure your bike lights are working perfectly for the ride back home."
+                "en": "The manor house looks almost fairytale-like in the twilight; ensure your bike lights are working perfectly for the ride back home.",
+                "fr": "La maison de maître a un air presque féerique au crépuscule ; vérifiez que vos lumières de vélo fonctionnent parfaitement pour le retour."
               }
             }
           ]
@@ -709,7 +787,8 @@
             "de": "Église de Saint-Gervais et Saint-Protais",
             "hu": "Église de Saint-Gervais et Saint-Protais",
             "ro": "Église de Saint-Gervais et Saint-Protais",
-            "en": "Church of Saint-Gervais and Saint-Protais"
+            "en": "Church of Saint-Gervais and Saint-Protais",
+            "fr": "Église Saint-Gervais et Saint-Protais"
           },
           "coords": [
             1.497967,
@@ -724,7 +803,8 @@
             "de": "Bewundern Sie die schönen Buntglasfenster dieser zentralen Pfarrkirche; versuchen Sie an einem Sonntagmorgen zu kommen, wenn das Tageslicht perfekt durch die Fenster fällt.",
             "hu": "Csodálja meg ennek a központi plébániatemplomnak a gyönyörű ólomüveg ablakait; próbáljon vasárnap reggel érkezni, amikor a természetes fény tökéletesen árad be.",
             "ro": "Admirați vitraliile frumoase ale acestei biserici parohiale centrale; încercați să vizitați duminica dimineața când lumina naturală intră perfect prin ferestre.",
-            "en": "Admire the beautiful stained glass of this central parish church; try to visit on a Sunday morning when the natural light streams through the windows perfectly."
+            "en": "Admire the beautiful stained glass of this central parish church; try to visit on a Sunday morning when the natural light streams through the windows perfectly.",
+            "fr": "Admirez les magnifiques vitraux de cette église paroissiale centrale ; essayez de la visiter un dimanche matin lorsque la lumière naturelle traverse parfaitement les fenêtres."
           }
         },
         {
@@ -732,7 +812,8 @@
             "de": "Parc de la Mairie",
             "hu": "Parc de la Mairie",
             "ro": "Parc de la Mairie",
-            "en": "Town Hall Park"
+            "en": "Town Hall Park",
+            "fr": "Parc de la Mairie"
           },
           "coords": [
             1.50003,
@@ -747,7 +828,8 @@
             "de": "Diese grüne Oase bietet einen friedlichen Rückzugsort direkt neben den städtischen Gebäuden; bringen Sie eine kleine Decke mit, um ein schnelles Picknick auf dem gepflegten Rasen zu genießen.",
             "hu": "Ez a zöld oázis békés menedéket nyújt közvetlenül az önkormányzati épületek mellett; hozzon egy kis takarót, hogy élvezze a gyors pikniket a gondozott pázsiton.",
             "ro": "Această oază verde oferă un refugiu liniștit chiar lângă clădirile municipale; aduceți o pătură mică pentru a vă bucura de un picnic rapid pe peluzele bine întreținute.",
-            "en": "This green oasis offers a peaceful retreat right next to the municipal buildings; bring a small blanket to enjoy a quick picnic on the well-maintained lawns."
+            "en": "This green oasis offers a peaceful retreat right next to the municipal buildings; bring a small blanket to enjoy a quick picnic on the well-maintained lawns.",
+            "fr": "Cette oasis verte offre un retrait paisible juste à côté des bâtiments municipaux ; prenez une petite couverture pour un pique-nique rapide sur les pelouses bien entretenues."
           }
         },
         {
@@ -755,7 +837,8 @@
             "de": "Salle Jacques Brel",
             "hu": "Salle Jacques Brel",
             "ro": "Salle Jacques Brel",
-            "en": "Salle Jacques Brel"
+            "en": "Salle Jacques Brel",
+            "fr": "Salle Jacques Brel"
           },
           "coords": [
             1.504242,
@@ -770,7 +853,8 @@
             "de": "Erkunden Sie die vielfältigen kulturellen Veranstaltungen und lokalen Kunstausstellungen in diesem modernen Veranstaltungsort; prüfen Sie vorab das Online-Programm, da die Öffnungszeiten von den Shows abhängen.",
             "hu": "Fedezze fel a modern helyszín változatos kulturális eseményeit és helyi művészeti kiállításait; előzetesen ellenőrizze az online menetrendet, mivel a nyitvatartás az aktuális műsoroktól függ.",
             "ro": "Explorați diversele evenimente culturale și expoziții de artă locală găzduite în acest spațiu modern; verificați programul online în prealabil, deoarece orele de deschidere depind de spectacole.",
-            "en": "Explore the varied cultural events and local art exhibitions hosted in this modern venue; check the online schedule beforehand as opening times depend on current shows."
+            "en": "Explore the varied cultural events and local art exhibitions hosted in this modern venue; check the online schedule beforehand as opening times depend on current shows.",
+            "fr": "Découvrez la diversité des événements culturels et des expositions d'art local présentés dans ce lieu moderne ; consultez le programme en ligne au préalable car les horaires varient selon les spectacles."
           }
         },
         {
@@ -778,7 +862,8 @@
             "de": "Église Saint-Martin de Péchabou",
             "hu": "Église Saint-Martin de Péchabou",
             "ro": "Église Saint-Martin de Péchabou",
-            "en": "Église Saint-Martin de Péchabou"
+            "en": "Église Saint-Martin de Péchabou",
+            "fr": "Église Saint-Martin de Péchabou"
           },
           "coords": [
             1.509348,
@@ -793,7 +878,8 @@
             "de": "Diese charmante Kirche bietet einen Einblick in die ländlichen religiösen Traditionen der Region; sie liegt etwas abseits der Hauptstraße und ist ein perfekter Ort für ruhige Besinnung.",
             "hu": "Ez a bájos templom bepillantást enged a régió vidéki vallási hagyományaiba; kissé távolabb esik a főúttól, így tökéletes hely a csendes elmélkedésre.",
             "ro": "Această biserică fermecătoare oferă o privire asupra tradițiilor religioase rurale din regiune; se află ușor îndepărtată de drumul principal, fiind un loc perfect pentru reflecție liniștită.",
-            "en": "This charming church provides a glimpse into the region's rural religious traditions; it sits slightly off the main road, making it a perfect spot for quiet reflection."
+            "en": "This charming church provides a glimpse into the region's rural religious traditions; it sits slightly off the main road, making it a perfect spot for quiet reflection.",
+            "fr": "Cette charmante église offre un aperçu des traditions religieuses rurales de la région ; elle se trouve légèrement à l'écart de la route principale, parfait pour une réflexion tranquille."
           }
         },
         {
@@ -801,7 +887,8 @@
             "de": "Église Saint-Jean-Baptiste",
             "hu": "Église Saint-Jean-Baptiste",
             "ro": "Église Saint-Jean-Baptiste",
-            "en": "Église Saint-Jean-Baptiste"
+            "en": "Église Saint-Jean-Baptiste",
+            "fr": "Église Saint-Jean-Baptiste"
           },
           "coords": [
             1.47338,
@@ -816,7 +903,8 @@
             "de": "Bewundern Sie die robuste Steinfassade und die friedliche Umgebung dieses historischen Gebäudes; der Kirchhof ist sehr ruhig und bietet an sonnigen Nachmittagen einen schönen schattigen Bereich.",
             "hu": "Csodálja meg a történelmi épület masszív kőhomlokzatát és békés környezetét; a templomudvar nagyon nyugodt, és szép árnyékos területet kínál a napos délutánokon.",
             "ro": "Admirați fațada robustă de piatră și împrejurimile pașnice ale acestei clădiri istorice; curtea bisericii este foarte senină și oferă o zonă umbrită plăcută în după-amiezele însorite.",
-            "en": "Admire the sturdy stone facade and the peaceful surroundings of this historic building; the churchyard is quite serene and offers a nice shaded area during sunny afternoons."
+            "en": "Admire the sturdy stone facade and the peaceful surroundings of this historic building; the churchyard is quite serene and offers a nice shaded area during sunny afternoons.",
+            "fr": "Admirez la solide façade de pierre et le calme environnant de ce bâtiment historique ; le cimetière est très serein et offre une agréable zone ombragée pendant les après-midis ensoleillés."
           }
         },
         {
@@ -824,7 +912,8 @@
             "de": "Castel Marly",
             "hu": "Castel Marly",
             "ro": "Castel Marly",
-            "en": "Castel Marly"
+            "en": "Castel Marly",
+            "fr": "Castel Marly"
           },
           "coords": [
             1.477029,
@@ -839,7 +928,8 @@
             "de": "Diese imposante historische Residenz ist ein Zeugnis des lokalen Adels und Erbes; achten Sie auf die markanten Dachziegel und bringen Sie ein Zoomobjektiv mit, um die feine Handwerkskunst einzufangen.",
             "hu": "Ez az impozáns történelmi rezidencia a helyi nemesség és örökség bizonyítéka; figyelje meg a jellegzetes tetőcserepeket, és hozzon magával zoom objektívet a finom kézműves munka megörökítéséhez.",
             "ro": "Această reședință istorică impunătoare stă ca o dovadă a nobilimii și moștenirii locale; căutați țiglele distinctive ale acoperișului și aduceți un obiectiv cu zoom pentru a surprinde măiestria fină.",
-            "en": "This imposing historical residence stands as a testament to local nobility and heritage; look out for the distinctive roof tiles and bring a zoom lens to capture the fine craftsmanship."
+            "en": "This imposing historical residence stands as a testament to local nobility and heritage; look out for the distinctive roof tiles and bring a zoom lens to capture the fine craftsmanship.",
+            "fr": "Cette imposante résidence historique témoigne de la noblesse et du patrimoine local ; repérez les tuiles de toit caractéristiques et apportez un objectif zoom pour capturer le fin travail artisanal."
           }
         },
         {
@@ -847,7 +937,8 @@
             "de": "Manoir des Frères Tailleurs",
             "hu": "Manoir des Frères Tailleurs",
             "ro": "Manoir des Frères Tailleurs",
-            "en": "Manoir des Frères Tailleurs"
+            "en": "Manoir des Frères Tailleurs",
+            "fr": "Manoir des Frères Tailleurs"
           },
           "coords": [
             1.478637,
@@ -862,7 +953,8 @@
             "de": "Nehmen Sie sich Zeit, das elegante Äußere dieses klassischen Herrenhauses zu betrachten; da es sich größtenteils um ein privates oder administratives Anwesen handelt, konzentrieren Sie Ihre Fotografie auf die architektonischen Details von den öffentlichen Wegen aus.",
             "hu": "Szánjon időt e klasszikus kúria elegáns külsejének megtekintésére; mivel nagyrészt magán- vagy közigazgatási birtok, fókuszálja a fényképezést az építészeti részletekre a nyilvános utakról.",
             "ro": "Luați-vă timp pentru a vedea exteriorul elegant al acestui conac clasic; fiind în mare parte un domeniu privat sau administrativ, concentrați-vă fotografia pe detaliile arhitecturale de pe căile publice.",
-            "en": "Take time to view the elegant exterior of this classic manor house; as it is largely a private or administrative estate, focus your photography on the architectural details from the public pathways."
+            "en": "Take time to view the elegant exterior of this classic manor house; as it is largely a private or administrative estate, focus your photography on the architectural details from the public pathways.",
+            "fr": "Prenez le temps d'observer l'élégante façade de ce manoir classique ; comme il s'agit en grande partie d'un domaine privé ou administratif, concentrez vos photos sur les détails architecturaux depuis les voies publiques."
           }
         },
         {
@@ -870,7 +962,8 @@
             "de": "Église Saint-Séverin",
             "hu": "Église Saint-Séverin",
             "ro": "Église Saint-Séverin",
-            "en": "Église Saint-Séverin"
+            "en": "Église Saint-Séverin",
+            "fr": "Église Saint-Séverin"
           },
           "coords": [
             1.487093,
@@ -885,7 +978,8 @@
             "de": "Treten Sie in diese ruhige, weniger bekannte Kirche ein, um ihre bescheidene, aber authentische historische Architektur zu schätzen; beachten Sie, dass die Türen zur Mittagszeit verschlossen sein können.",
             "hu": "Lépjen be ebbe a csendes, kevésbé ismert templomba, hogy értékelje szerény, de hiteles történelmi építészetét; vegye figyelembe, hogy az ajtók ebédidőben zárva lehetnek, ezért tervezzen előre.",
             "ro": "Intrați în această biserică liniștită și mai puțin cunoscută pentru a aprecia arhitectura sa istorică modestă, dar autentică; rețineți că ușile ar putea fi încuiate în timpul prânzului.",
-            "en": "Step into this quiet, lesser-known church to appreciate its modest but authentic historical architecture; note that the doors might be locked during lunch hours so plan accordingly."
+            "en": "Step into this quiet, lesser-known church to appreciate its modest but authentic historical architecture; note that the doors might be locked during lunch hours so plan accordingly.",
+            "fr": "Pénétrez dans cette église tranquille et moins connue pour apprécier son architecture historique modeste mais authentique ; notez que les portes peuvent être fermées pendant la pause déjeuner, prévoyez en conséquence."
           }
         },
         {
@@ -893,7 +987,8 @@
             "de": "Le Moulin",
             "hu": "Le Moulin",
             "ro": "Le Moulin",
-            "en": "Moulin"
+            "en": "Moulin",
+            "fr": "Moulin"
           },
           "coords": [
             1.497253,
@@ -908,7 +1003,8 @@
             "de": "Entdecken Sie die Überreste des landwirtschaftlichen Erbes von Castanet-Tolosan an diesem alten Mühlenstandort; tragen Sie bequeme Schuhe, da die umliegenden Wege etwas uneben und staubig sein können.",
             "hu": "Fedezze fel Castanet-Tolosan mezőgazdasági örökségének maradványait ezen a régi malomhelyszínen; viseljen kényelmes cipőt, mivel a környező ösvények kissé egyenetlenek és porosak lehetnek.",
             "ro": "Descoperiți rămășițele moștenirii agricole ale orașului Castanet-Tolosan la această veche moară; purtați încălțăminte confortabilă, deoarece potecile din jur pot fi puțin denivelate și prăfuite.",
-            "en": "Discover the remnants of Castanet-Tolosan's agricultural heritage at this old mill site; wear comfortable shoes as the surrounding paths can be a bit uneven and dusty."
+            "en": "Discover the remnants of Castanet-Tolosan's agricultural heritage at this old mill site; wear comfortable shoes as the surrounding paths can be a bit uneven and dusty.",
+            "fr": "Découvrez les vestiges du patrimoine agricole de Castanet-Tolosan sur ce site de vieux moulin ; portez des chaussures confortables car les sentiers alentours peuvent être inégaux et poussiéreux."
           }
         }
       ],
@@ -916,7 +1012,8 @@
         "de": "Der Morgen beginnt zentral an der Hauptkirche und dem nahegelegenen Park, bevor Sie das kulturelle Angebot der Stadt im Salle Jacques Brel genießen. Mittags fahren Sie in die Randbezirke zur Église Saint-Martin de Péchabou und weiter zur Église Saint-Jean-Baptiste. Der Nachmittag ist geprägt von den historischen Anwesen Castel Marly und Manoir des Frères Tailleurs im Norden. Am Abend besuchen Sie die Église Saint-Séverin und lassen den Tag an der idyllischen Mühle ausklingen.",
         "hu": "A reggel a központban kezdődik a főtemplomnál és a közeli parknál, mielőtt élvezné a város kulturális kínálatát a Salle Jacques Brel-ben. Délben a peremkerületek felé autózik a Saint-Martin de Péchabou és a Saint-Jean-Baptiste templomokhoz. A délutánt a Castel Marly és a Manoir des Frères Tailleurs történelmi birtokai uralják északon. Este látogassa meg a Saint-Séverin templomot, és zárja a napot az idilli malomnál.",
         "ro": "Dimineața începe central la biserica principală și parcul din apropiere, înainte de a vă bucura de ofertele culturale de la Salle Jacques Brel. La prânz, conduceți spre periferie la bisericile Saint-Martin de Péchabou și Saint-Jean-Baptiste. După-amiaza este dominată de domeniile istorice Castel Marly și Manoir des Frères Tailleurs din nord. Seara, vizitați Église Saint-Séverin și încheiați ziua la moara idilică.",
-        "en": "The morning begins centrally at the main church and nearby park before enjoying the city's cultural offerings at Salle Jacques Brel. At midday, drive to the outskirts to the Saint-Martin de Péchabou and Saint-Jean-Baptiste churches. The afternoon is dominated by the historic estates of Castel Marly and Manoir des Frères Tailleurs in the north. In the evening, visit Église Saint-Séverin and end the day at the idyllic mill."
+        "en": "The morning begins centrally at the main church and nearby park before enjoying the city's cultural offerings at Salle Jacques Brel. At midday, drive to the outskirts to the Saint-Martin de Péchabou and Saint-Jean-Baptiste churches. The afternoon is dominated by the historic estates of Castel Marly and Manoir des Frères Tailleurs in the north. In the evening, visit Église Saint-Séverin and end the day at the idyllic mill.",
+        "fr": "La matinée commence au centre, à l'église principale et au parc voisin, avant de profiter de l'offre culturelle de la Salle Jacques Brel. À midi, dirigez-vous vers la périphérie pour visiter les églises Saint-Martin de Péchabou et Saint-Jean-Baptiste. L'après-midi est dominé par les domaines historiques de Castel Marly et du Manoir des Frères Tailleurs au nord. En soirée, visitez l'Église Saint-Séverin et terminez la journée au moulin idyllique."
       },
       "variants": {
         "rainy": {
@@ -924,7 +1021,8 @@
             "de": "Genießen Sie den Komfort Ihres Wagens, während der Regen gegen die Scheiben trommelt. Die Tour führt Sie bequem zu den historischen Schätzen von Castanet und Umgebung. Parken Sie jeweils nah an den Eingängen der Kirchen und der Salle Jacques Brel, um trocken zu bleiben. Der Nachmittag bietet trotz Grauschleier am Castel Marly und Manoir faszinierende Fotomotive aus dem Schutz des Autos.",
             "hu": "Élvezze autója kényelmét, miközben az eső a szélvédőn kopog. A túra kényelmesen vezet végig Castanet és környéke történelmi kincseihez. Parkoljon közvetlenül a templomok és a Salle Jacques Brel bejáratai közelében, hogy szárazon maradjon. A délután a szürkeség ellenére is lenyűgöző fotótémákat kínál a Castel Marly-nál és az udvarháznál, az autó védelméből.",
             "ro": "Bucurați-vă de confortul mașinii în timp ce ploaia bate în parbriz. Turul vă duce confortabil la comorile istorice din Castanet și împrejurimi. Parcați aproape de intrările bisericilor și de Salle Jacques Brel pentru a rămâne uscați. După-amiaza oferă motive fotografice fascinante la Castel Marly și conac, din protecția mașinii.",
-            "en": "Enjoy the comfort of your car while the rain drums against the windows. The tour comfortably leads you to the historical treasures of Castanet and its surroundings. Park close to the entrances of the churches and Salle Jacques Brel to stay dry. Despite the grey veil, the afternoon offers fascinating photo opportunities at Castel Marly and the manor from the safety of your vehicle."
+            "en": "Enjoy the comfort of your car while the rain drums against the windows. The tour comfortably leads you to the historical treasures of Castanet and its surroundings. Park close to the entrances of the churches and Salle Jacques Brel to stay dry. Despite the grey veil, the afternoon offers fascinating photo opportunities at Castel Marly and the manor from the safety of your vehicle.",
+            "fr": "Profitez du confort de votre voiture pendant que la pluie tambourine contre les vitres. La visite vous mène confortablement aux trésors historiques de Castanet et de ses environs. Garez-vous près des entrées des églises et de la Salle Jacques Brel pour rester au sec. Malgré le voile gris, l'après-midi offre des opportunités photo fascinantes à Castel Marly et au manoir depuis la sécurité de votre véhicule."
           },
           "stops": [
             {
@@ -932,13 +1030,15 @@
                 "de": "Église de Saint-Gervais et Saint-Protais",
                 "hu": "Église de Saint-Gervais et Saint-Protais",
                 "ro": "Église de Saint-Gervais et Saint-Protais",
-                "en": "Church of Saint-Gervais and Saint-Protais"
+                "en": "Church of Saint-Gervais and Saint-Protais",
+                "fr": "Église Saint-Gervais et Saint-Protais"
               },
               "tip_5lang": {
                 "de": "Ein kurzer Sprint vom Parkplatz genügt, um in die trockene Pracht der Kirche einzutauchen und die Regentropfen draußen zu lassen.",
                 "hu": "Egy rövid sprint a parkolótól elegendő, hogy elmerüljön a templom száraz pompájában, és kint hagyja az esőcseppeket a bejárat előtt.",
                 "ro": "Un scurt sprint de la parcare este suficient pentru a intra în splendoarea uscată a bisericii și a lăsa picăturile de ploaie afară.",
-                "en": "A short sprint from the parking lot is enough to immerse yourself in the dry splendor of the church and leave the raindrops outside."
+                "en": "A short sprint from the parking lot is enough to immerse yourself in the dry splendor of the church and leave the raindrops outside.",
+                "fr": "Un court sprint depuis le parking suffit pour vous immerger dans la splendeur sèche de l'église et laisser les gouttes de pluie dehors."
               }
             },
             {
@@ -946,13 +1046,15 @@
                 "de": "Parc de la Mairie",
                 "hu": "Parc de la Mairie",
                 "ro": "Parc de la Mairie",
-                "en": "Town Hall Park"
+                "en": "Town Hall Park",
+                "fr": "Parc de la Mairie"
               },
               "tip_5lang": {
                 "de": "Nutzen Sie den Parkplatz direkt am Rathaus; ein kurzer Spaziergang mit Schirm zum Pavillon lohnt sich für den Blick auf den regnerischen Teich.",
                 "hu": "Használja közvetlenül a városháza melletti parkolót; egy rövid, esernyős séta a pavilonhoz megéri a kilátásért az eső áztatta tavacskára.",
                 "ro": "Folosiți parcarea chiar lângă primărie; o scurtă plimbare cu umbrela până la pavilion merită pentru vederea spre iazul plouat.",
-                "en": "Use the parking lot right by the town hall; a brief umbrella walk to the pavilion is worth it for the view of the rain-soaked pond."
+                "en": "Use the parking lot right by the town hall; a brief umbrella walk to the pavilion is worth it for the view of the rain-soaked pond.",
+                "fr": "Utilisez le parking juste à côté de la mairie ; une courte promenade sous parapluie jusqu'au pavillon vaut le coup pour la vue sur l'étang mouillé par la pluie."
               }
             },
             {
@@ -960,13 +1062,15 @@
                 "de": "Salle Jacques Brel",
                 "hu": "Salle Jacques Brel",
                 "ro": "Salle Jacques Brel",
-                "en": "Salle Jacques Brel"
+                "en": "Salle Jacques Brel",
+                "fr": "Salle Jacques Brel"
               },
               "tip_5lang": {
                 "de": "Das ideale Ziel bei starkem Regen; parken Sie bequem auf dem angrenzenden Gelände und verbringen Sie die nasseste Zeit des Tages im Trockenen.",
                 "hu": "Ideális célpont szakadó esőben; parkoljon kényelmesen a szomszédos területen, és töltse a nap legvizesebb óráit a kulturális központ száraz falai között.",
                 "ro": "Destinația ideală în caz de ploaie torențială; parcați confortabil pe terenul adiacent și petreceți cea mai umedă perioadă a zilei la uscat.",
-                "en": "The ideal destination during heavy rain; park conveniently in the adjacent lot and spend the wettest part of the day dry inside the cultural center."
+                "en": "The ideal destination during heavy rain; park conveniently in the adjacent lot and spend the wettest part of the day dry inside the cultural center.",
+                "fr": "La destination idéale par forte pluie ; garez-vous commodément dans le parking adjacent et passez la partie la plus humide de la journée à l'abri dans le centre culturel."
               }
             },
             {
@@ -974,13 +1078,15 @@
                 "de": "Église Saint-Martin de Péchabou",
                 "hu": "Église Saint-Martin de Péchabou",
                 "ro": "Église Saint-Martin de Péchabou",
-                "en": "Église Saint-Martin de Péchabou"
+                "en": "Église Saint-Martin de Péchabou",
+                "fr": "Église Saint-Martin de Péchabou"
               },
               "tip_5lang": {
                 "de": "Die Auffahrt nach Péchabou ist bei Regen im Auto sicher und komfortabel; genießen Sie die mystische Stimmung der kleinen Kirche.",
                 "hu": "A Péchabou-ba vezető felhajtó esőben autóval biztonságos és kényelmes; élvezze a kis templom misztikus hangulatát a ködös időben.",
                 "ro": "Urcarea spre Péchabou este sigură și confortabilă cu mașina pe ploaie; bucurați-vă de atmosfera mistică a bisericii mici în timpul ploios.",
-                "en": "The drive up to Péchabou is safe and comfortable by car in the rain; enjoy the mystical atmosphere of the small church in the misty weather."
+                "en": "The drive up to Péchabou is safe and comfortable by car in the rain; enjoy the mystical atmosphere of the small church in the misty weather.",
+                "fr": "La route jusqu'à Péchabou est sûre et confortable en voiture sous la pluie ; appréciez l'atmosphère mystique de la petite église dans la brume."
               }
             },
             {
@@ -988,13 +1094,15 @@
                 "de": "Église Saint-Jean-Baptiste",
                 "hu": "Église Saint-Jean-Baptiste",
                 "ro": "Église Saint-Jean-Baptiste",
-                "en": "Église Saint-Jean-Baptiste"
+                "en": "Église Saint-Jean-Baptiste",
+                "fr": "Église Saint-Jean-Baptiste"
               },
               "tip_5lang": {
                 "de": "Parkplätze finden sich meist in direkter Nähe; nutzen Sie die Gelegenheit für eine meditative Pause, während der Regen gegen das Autodach trommelt.",
                 "hu": "Parkolóhelyek általában közvetlen közelben találhatók; használja ki az alkalmat egy meditatív pihenőre, miközben az eső kopog az autó tetőjén.",
                 "ro": "Locurile de parcare se găsesc de obicei în imediata apropiere; profitați de ocazie pentru o pauză meditativă în timp ce ploaia bate în pavilionul mașinii.",
-                "en": "Parking spaces are usually found nearby; take the opportunity for a meditative break while the rain drums on your car's roof."
+                "en": "Parking spaces are usually found nearby; take the opportunity for a meditative break while the rain drums on your car's roof.",
+                "fr": "Des places de parking se trouvent généralement à proximité ; profitez-en pour faire une pause méditative pendant que la pluie tambourine sur le toit de votre voiture."
               }
             },
             {
@@ -1002,13 +1110,15 @@
                 "de": "Castel Marly",
                 "hu": "Castel Marly",
                 "ro": "Castel Marly",
-                "en": "Castel Marly"
+                "en": "Castel Marly",
+                "fr": "Castel Marly"
               },
               "tip_5lang": {
                 "de": "Bewundern Sie die Architektur aus dem warmen Wageninneren oder nutzen Sie eine Regenpause für ein schnelles Foto der beeindruckenden Fassade.",
                 "hu": "Csodálja meg az építészetet a meleg utastérből, vagy használjon ki egy esőszünetet egy gyors fotóra az impozáns homlokzatról.",
                 "ro": "Admirați arhitectura din interiorul cald al mașinii sau profitați de o pauză în ploaie pentru o fotografie rapidă a fațadei impresionante.",
-                "en": "Admire the architecture from the warm interior or seize a break in the rain for a quick photo of the impressive facade."
+                "en": "Admire the architecture from the warm interior or seize a break in the rain for a quick photo of the impressive facade.",
+                "fr": "Admirez l'architecture depuis l'intérieur chaud ou saisissez une accalmie pour une photo rapide de la façade impressionnante."
               }
             },
             {
@@ -1016,13 +1126,15 @@
                 "de": "Manoir des Frères Tailleurs",
                 "hu": "Manoir des Frères Tailleurs",
                 "ro": "Manoir des Frères Tailleurs",
-                "en": "Manoir des Frères Tailleurs"
+                "en": "Manoir des Frères Tailleurs",
+                "fr": "Manoir des Frères Tailleurs"
               },
               "tip_5lang": {
                 "de": "Die Zufahrt bietet einen tollen Blick auf das Anwesen; bleiben Sie im Auto, um die Details des Mauerwerks ohne nass zu werden zu studieren.",
                 "hu": "A feljáró nagyszerű kilátást nyújt a birtokra; maradjon az autóban, hogy megázás nélkül tanulmányozhassa a falazat történelmi részleteit.",
                 "ro": "Aleea de acces oferă o vedere excelentă asupra domeniului; rămâneți în mașină pentru a studia detaliile zidăriei fără a vă uda.",
-                "en": "The driveway offers a great view of the estate; stay in the car to study the details of the stonework without getting wet."
+                "en": "The driveway offers a great view of the estate; stay in the car to study the details of the stonework without getting wet.",
+                "fr": "Allée et accès offrent une belle vue sur le domaine ; restez dans la voiture pour étudier les détails de la pierre sans vous mouiller."
               }
             },
             {
@@ -1030,13 +1142,15 @@
                 "de": "Église Saint-Séverin",
                 "hu": "Église Saint-Séverin",
                 "ro": "Église Saint-Séverin",
-                "en": "Église Saint-Séverin"
+                "en": "Église Saint-Séverin",
+                "fr": "Église Saint-Séverin"
               },
               "tip_5lang": {
                 "de": "Ein idealer Abschluss für einen Regentag; die Kirche bietet Schutz und eine Atmosphäre der Ruhe vor der Rückfahrt im dunklen Regen.",
                 "hu": "Ideális befejezés egy esős naphoz; a templom védelmet és a nyugalom légkörét kínálja a sötét, esős hazaút előtt.",
                 "ro": "Un final ideal pentru o zi ploioasă; biserica oferă protecție și o atmosferă de liniște înainte de drumul de întoarcere prin ploaie.",
-                "en": "An ideal conclusion to a rainy day; the church offers shelter and an atmosphere of peace before the drive back through the dark rain."
+                "en": "An ideal conclusion to a rainy day; the church offers shelter and an atmosphere of peace before the drive back through the dark rain.",
+                "fr": "Une conclusion idéale pour une journée pluvieuse ; l'église offre abri et atmosphère de paix avant le trajet de retour sous la pluie nocturne."
               }
             },
             {
@@ -1044,13 +1158,15 @@
                 "de": "Le Moulin",
                 "hu": "Le Moulin",
                 "ro": "Le Moulin",
-                "en": "Moulin"
+                "en": "Moulin",
+                "fr": "Moulin"
               },
               "tip_5lang": {
                 "de": "Achten Sie beim Parken auf matschigen Untergrund; der Blick auf den anschwellenden Bach ist von der Brücke aus bei Regen besonders dramatisch.",
                 "hu": "Parkoláskor ügyeljen a saras talajra; a megduzzadt patak látványa a hídról nézve esőben különösen drámai és látványos élmény.",
                 "ro": "Atenție la terenul noroios când parcați; vederea pârâului umflat este deosebit de dramatică de pe pod pe timp de ploaie.",
-                "en": "Watch out for muddy ground when parking; the view of the swelling creek from the bridge is particularly dramatic during rainfall."
+                "en": "Watch out for muddy ground when parking; the view of the swelling creek from the bridge is particularly dramatic during rainfall.",
+                "fr": "Attention aux sols boueux lors du stationnement ; la vue du ruisseau gonflé depuis le pont est particulièrement dramatique sous la pluie."
               }
             }
           ]
@@ -1060,7 +1176,8 @@
             "de": "Erleben Sie Castanet im Winter ganz entspannt mit dem Auto. Die Heizung sorgt für wohlige Wärme zwischen den Stopps an geschichtsträchtigen Orten. Im Park glitzert der Frost, während Sie die Route zu den umliegenden Kapellen und Schlössern fortsetzen. Planen Sie Ihre Ankunft am Manoir und Moulin vor 17:00 Uhr ein, um die Architektur noch im letzten Tageslicht bewundern zu können.",
             "hu": "Fedezze fel Castanetet télen, teljesen ellazulva az autójában. A fűtés kellemes meleget biztosít a nagy múltú helyszínek közötti megállók során. A parkban csillog a zúzmara, miközben folytatja útját a környékbeli kápolnák és kastélyok felé. Tervezze meg az udvarházhoz és a malomhoz érkezését 17:00 előtt, hogy még az utolsó nappali fényben csodálhassa meg az építészetet.",
             "ro": "Experimentați Castanet iarna relaxându-vă în mașină. Încălzirea asigură o căldură plăcută între opririle la locurile pline de istorie. În parc sclipeste chiciura, în timp ce continuați traseul spre capelele și castelele din jur. Planificați sosirea la conac și moară înainte de ora 17:00 pentru a admira arhitectura în ultima lumină a zilei.",
-            "en": "Experience Castanet in winter completely relaxed by car. The heater ensures cozy warmth between stops at historical sites. Frost glitters in the park while you continue the route to surrounding chapels and castles. Plan your arrival at the manor and mill before 17:00 to admire the architecture in the last daylight."
+            "en": "Experience Castanet in winter completely relaxed by car. The heater ensures cozy warmth between stops at historical sites. Frost glitters in the park while you continue the route to surrounding chapels and castles. Plan your arrival at the manor and mill before 17:00 to admire the architecture in the last daylight.",
+            "fr": "Vivez Castanet en hiver complètement détendu en voiture. Le chauffage assure une chaleur douillette entre les arrêts aux sites historiques. Le givre scintille dans le parc pendant que vous poursuivez la route vers les chapelles et châteaux environnants. Prévoyez d'arriver au manoir et au moulin avant 17:00 pour admirer l'architecture dans la dernière lumière du jour."
           },
           "stops": [
             {
@@ -1068,13 +1185,15 @@
                 "de": "Église de Saint-Gervais et Saint-Protais",
                 "hu": "Église de Saint-Gervais et Saint-Protais",
                 "ro": "Église de Saint-Gervais et Saint-Protais",
-                "en": "Church of Saint-Gervais and Saint-Protais"
+                "en": "Church of Saint-Gervais and Saint-Protais",
+                "fr": "Église Saint-Gervais et Saint-Protais"
               },
               "tip_5lang": {
                 "de": "Die dicken Mauern isolieren gut; genießen Sie die winterliche Stille im prachtvollen Innenraum, bevor Sie wieder ins warme Auto steigen.",
                 "hu": "A vastag falak jól szigetelnek; élvezze a téli csendet a pompás belső térben, mielőtt visszaszállna a meleg autóba.",
                 "ro": "Zidurile groase izolează bine; bucurați-vă de liniștea hibernală în interiorul splendid înainte de a vă urca înapoi în mașina caldă.",
-                "en": "The thick walls insulate well; enjoy the winter silence in the splendid interior before hopping back into your warm car."
+                "en": "The thick walls insulate well; enjoy the winter silence in the splendid interior before hopping back into your warm car.",
+                "fr": "Les murs épais isolent bien ; profitez du silence hivernal dans le splendide intérieur avant de remonter dans votre voiture chaude."
               }
             },
             {
@@ -1082,13 +1201,15 @@
                 "de": "Parc de la Mairie",
                 "hu": "Parc de la Mairie",
                 "ro": "Parc de la Mairie",
-                "en": "Town Hall Park"
+                "en": "Town Hall Park",
+                "fr": "Parc de la Mairie"
               },
               "tip_5lang": {
                 "de": "Ein kurzer, erfrischender Gang durch die frostige Parkanlage belebt die Geister; kehren Sie danach schnell in den beheizten Wagen zurück.",
                 "hu": "Egy rövid, frissítő séta a zúzmarás parkban felélénkíti a szellemet; utána térjen vissza gyorsan a jól fűtött utastérbe.",
                 "ro": "O scurtă plimbare revigorantă prin parcul înghețat vă va înviora; după aceea, întoarceți-vă rapid în mașina încălzită.",
-                "en": "A short, refreshing walk through the frosty park grounds enlivens the spirit; return quickly to the heated interior afterwards."
+                "en": "A short, refreshing walk through the frosty park grounds enlivens the spirit; return quickly to the heated interior afterwards.",
+                "fr": "Une courte promenade revigorante à travers les terrains du parc givré ranime l'esprit ; retournez rapidement à l'intérieur chauffé ensuite."
               }
             },
             {
@@ -1096,13 +1217,15 @@
                 "de": "Salle Jacques Brel",
                 "hu": "Salle Jacques Brel",
                 "ro": "Salle Jacques Brel",
-                "en": "Salle Jacques Brel"
+                "en": "Salle Jacques Brel",
+                "fr": "Salle Jacques Brel"
               },
               "tip_5lang": {
                 "de": "Der perfekte Ort, um sich bei einer kulturellen Pause vollständig aufzuwärmen und die winterliche Atmosphäre von Castanet drinnen zu genießen.",
                 "hu": "Tökéletes hely, hogy egy kulturális szünet alatt teljesen felmelegedjen, és bentről élvezze Castanet téli hangulatát.",
                 "ro": "Locul perfect pentru a vă încălzi complet în timpul unei pauze culturale și pentru a vă bucura de atmosfera hibernală din Castanet în interior.",
-                "en": "The perfect spot to fully warm up during a cultural break and enjoy the winter atmosphere of Castanet indoors."
+                "en": "The perfect spot to fully warm up during a cultural break and enjoy the winter atmosphere of Castanet indoors.",
+                "fr": "L'endroit parfait pour se réchauffer pleinement lors d'une pause culturelle et profiter de l'atmosphère hivernale de Castanet à l'intérieur."
               }
             },
             {
@@ -1110,13 +1233,15 @@
                 "de": "Église Saint-Martin de Péchabou",
                 "hu": "Église Saint-Martin de Péchabou",
                 "ro": "Église Saint-Martin de Péchabou",
-                "en": "Église Saint-Martin de Péchabou"
+                "en": "Église Saint-Martin de Péchabou",
+                "fr": "Église Saint-Martin de Péchabou"
               },
               "tip_5lang": {
                 "de": "Die Fahrt auf den Hügel bietet im Winter klare Panoramablicke; nutzen Sie die Parkmöglichkeit direkt vor der kleinen, charmanten Kirche.",
                 "hu": "A dombra vezető út télen tiszta panorámát kínál; használja ki a parkolási lehetőséget közvetlenül a kis, bájos templom előtt.",
                 "ro": "Drumul spre deal oferă iarna panorame clare; profitați de posibilitatea de parcare direct în fața bisericii mici și fermecătoare.",
-                "en": "The drive up the hill offers clear panoramas in winter; take advantage of the parking right in front of the small, charming church."
+                "en": "The drive up the hill offers clear panoramas in winter; take advantage of the parking right in front of the small, charming church.",
+                "fr": "La montée offre des panoramas dégagés en hiver ; profitez du stationnement juste devant la petite église charmante."
               }
             },
             {
@@ -1124,13 +1249,15 @@
                 "de": "Église Saint-Jean-Baptiste",
                 "hu": "Église Saint-Jean-Baptiste",
                 "ro": "Église Saint-Jean-Baptiste",
-                "en": "Église Saint-Jean-Baptiste"
+                "en": "Église Saint-Jean-Baptiste",
+                "fr": "Église Saint-Jean-Baptiste"
               },
               "tip_5lang": {
                 "de": "Ein besinnlicher Ort, der in der kalten Jahreszeit eine besondere Wärme ausstrahlt; parken Sie nahbei für einen komfortablen Besuch.",
                 "hu": "Egy elmélyülésre alkalmas hely, amely a hideg évszakban különleges belső melegséget áraszt; parkoljon közel a kényelmes látogatáshoz.",
                 "ro": "Un loc de meditație care emană o căldură specială în sezonul rece; parcați aproape pentru o vizită confortabilă.",
-                "en": "A contemplative spot that radiates a special inner warmth during the cold season; park nearby for a comfortable visit."
+                "en": "A contemplative spot that radiates a special inner warmth during the cold season; park nearby for a comfortable visit.",
+                "fr": "Un lieu contemplatif qui dégage une chaleur intérieure particulière pendant la saison froide ; garez-vous à proximité pour une visite confortable."
               }
             },
             {
@@ -1138,13 +1265,15 @@
                 "de": "Castel Marly",
                 "hu": "Castel Marly",
                 "ro": "Castel Marly",
-                "en": "Castel Marly"
+                "en": "Castel Marly",
+                "fr": "Castel Marly"
               },
               "tip_5lang": {
                 "de": "Das Schloss wirkt vor dem kahlen Winterhintergrund besonders imposant; die tiefstehende Sonne betont die Details der Architektur am späten Mittag.",
                 "hu": "A kastély a kopár téli háttér előtt különösen impozánsan mutat; az alacsonyan járó nap késő délben kiemeli az építészet finom részleteit.",
                 "ro": "Castelul pare deosebit de impunător pe fundalul golaș de iarnă; soarele jos scoate în evidență detaliile arhitecturii la amiază.",
-                "en": "The castle looks particularly imposing against the bare winter background; the low sun emphasizes the architectural details in the late afternoon."
+                "en": "The castle looks particularly imposing against the bare winter background; the low sun emphasizes the architectural details in the late afternoon.",
+                "fr": "Le château paraît particulièrement imposant sur le fond hivernal dépouillé ; le soleil bas met en valeur les détails architecturaux en fin d'après-midi."
               }
             },
             {
@@ -1152,13 +1281,15 @@
                 "de": "Manoir des Frères Tailleurs",
                 "hu": "Manoir des Frères Tailleurs",
                 "ro": "Manoir des Frères Tailleurs",
-                "en": "Manoir des Frères Tailleurs"
+                "en": "Manoir des Frères Tailleurs",
+                "fr": "Manoir des Frères Tailleurs"
               },
               "tip_5lang": {
                 "de": "Genießen Sie den Anblick des historischen Herrenhauses bei winterlichem Licht, das die Ziegelsteine in warmen Farbtönen erstrahlen lässt.",
                 "hu": "Élvezze a történelmi udvarház látványát a téli fényben, amely meleg árnyalatokban ragyogtatja fel a vörös téglafalakat.",
                 "ro": "Bucurați-vă de vederea conacului istoric în lumina iernii, care face ca cărămizile să strălucească în nuanțe calde.",
-                "en": "Enjoy the sight of the historical manor house in the winter light, which makes the brickwork glow in warm hues."
+                "en": "Enjoy the sight of the historical manor house in the winter light, which makes the brickwork glow in warm hues.",
+                "fr": "Appréciez la vue du manoir historique à la lumière hivernale, qui fait rayonner les briques de teintes chaudes."
               }
             },
             {
@@ -1166,13 +1297,15 @@
                 "de": "Église Saint-Séverin",
                 "hu": "Église Saint-Séverin",
                 "ro": "Église Saint-Séverin",
-                "en": "Église Saint-Séverin"
+                "en": "Église Saint-Séverin",
+                "fr": "Église Saint-Séverin"
               },
               "tip_5lang": {
                 "de": "Beenden Sie den Tag im Schutz der Kirche, wenn es draußen bereits empfindlich abkühlt; die Kerzen erzeugen eine gemütliche Winterstimmung.",
                 "hu": "Zárja a napot a templom védelmében, amikor odakint már érezhetően lehűl a levegő; a gyertyák meghitt téli hangulatot árasztanak.",
                 "ro": "Încheiați ziua la adăpostul bisericii, când afară se răcește deja simțitor; lumânările creează o atmosferă hibernală primitoare.",
-                "en": "End the day in the shelter of the church as it cools down noticeably outside; the candles create a cozy winter atmosphere."
+                "en": "End the day in the shelter of the church as it cools down noticeably outside; the candles create a cozy winter atmosphere.",
+                "fr": "Terminez la journée à l'abri de l'église pendant qu'il fait nettement plus froid dehors ; les bougies créent une atmosphère hivernale chaleureuse."
               }
             },
             {
@@ -1180,13 +1313,15 @@
                 "de": "Le Moulin",
                 "hu": "Le Moulin",
                 "ro": "Le Moulin",
-                "en": "Moulin"
+                "en": "Moulin",
+                "fr": "Moulin"
               },
               "tip_5lang": {
                 "de": "Die Mühle wirkt in der klaren Winterluft fast wie aus einer anderen Zeit; achten Sie bei der Anfahrt auf eventuelle Glätte auf den Nebenwegen.",
                 "hu": "A malom a tiszta téli levegőben szinte egy másik korból származónak tűnik; az odaúton ügyeljen az esetleges jegesedésre a mellékutakon.",
                 "ro": "Moara pare aproape din alt timp în aerul limpede de iarnă; atenție la eventualul polei pe drumurile secundare în timpul deplasării.",
-                "en": "The mill looks almost timeless in the clear winter air; watch out for potential icy patches on the side roads during your approach."
+                "en": "The mill looks almost timeless in the clear winter air; watch out for potential icy patches on the side roads during your approach.",
+                "fr": "Le moulin paraît presque intemporel dans l'air clair de l'hiver ; attention aux plaques de verglas potentielles sur les chemins secondaires lors de votre approche."
               }
             }
           ]

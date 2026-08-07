@@ -21,7 +21,8 @@
             "de": "St.-Denis-Kirche",
             "hu": "Szent Dénes-templom",
             "ro": "Biserica Sfântul Denis",
-            "en": "St. Denis Church"
+            "en": "St. Denis Church",
+            "fr": "Église Saint-Denis"
           },
           "coords": [
             0.370873,
@@ -36,7 +37,8 @@
             "de": "Bewundern Sie die historischen Details dieser ruhigen Kirche, die die lokale Geschichte widerspiegelt, und kommen Sie früh, um das beste Morgenlicht einzufangen.",
             "hu": "Csodálja meg a nyugodt templom történelmi részleteit, amelyek a helyi múltat őrzik, és érkezzen korán a legszebb reggeli fényekért.",
             "ro": "Admirați detaliile istorice ale acestei biserici liniștite, o reflectare a trecutului local, și veniți devreme pentru cea mai bună lumină matinală.",
-            "en": "Admire the historical details of this peaceful church, reflecting local heritage, and arrive early to capture the beautiful morning light."
+            "en": "Admire the historical details of this peaceful church, reflecting local heritage, and arrive early to capture the beautiful morning light.",
+            "fr": "Admirez les détails historiques de cette église paisible, reflet du patrimoine local, et arrivez tôt pour capter la belle lumière du matin."
           }
         },
         {
@@ -44,7 +46,8 @@
             "de": "Arthurs Garten",
             "hu": "Arthur kertje",
             "ro": "Grădina lui Arthur",
-            "en": "Arthur's Garden"
+            "en": "Arthur's Garden",
+            "fr": "Jardin d'Arthur"
           },
           "coords": [
             0.371706,
@@ -59,7 +62,8 @@
             "de": "Erkunden Sie die fantasievollen Pflanzenarrangements, die sich perfekt für Familien eignen, und bringen Sie eine Kamera für die bunten Blumenbeete mit.",
             "hu": "Fedezze fel az ötletes növénykompozíciókat, amelyek tökéletesek a családok számára, és hozzon magával fényképezőgépet a színes virágágyásokhoz.",
             "ro": "Explorați aranjamentele florale pline de imaginație, perfecte pentru familii, și aduceți o cameră pentru a fotografia paturile colorate de flori.",
-            "en": "Explore the imaginative plant arrangements perfect for families, and be sure to bring a camera to capture the vibrant, colorful flower beds."
+            "en": "Explore the imaginative plant arrangements perfect for families, and be sure to bring a camera to capture the vibrant, colorful flower beds.",
+            "fr": "Explorez les agencements de plantes imaginatifs parfaits pour les familles, et n'oubliez pas d'apporter un appareil photo pour capturer les parterres de fleurs vibrants et colorés."
           }
         },
         {
@@ -67,7 +71,8 @@
             "de": "Aqualympic-Stadion",
             "hu": "Aqualimpiai Stadion",
             "ro": "Stadionul Aqualympic",
-            "en": "Aqualympic Stadium"
+            "en": "Aqualympic Stadium",
+            "fr": "Stade Aqualympic"
           },
           "coords": [
             0.36771,
@@ -82,7 +87,8 @@
             "de": "Erleben Sie interaktive Wasserspiele, die Kinder lieben werden, und packen Sie zur Sicherheit ein kleines Handtuch in Ihren Rucksack.",
             "hu": "Élvezze az interaktív vízi játékokat, amelyeket a gyerekek imádni fognak, és a biztonság kedvéért csomagoljon egy kis törölközőt a hátizsákjába.",
             "ro": "Bucurați-vă de jocurile interactive cu apă pe care copiii le vor adora și împachetați un prosop mic în rucsac pentru orice eventualitate.",
-            "en": "Enjoy the interactive water features that kids will absolutely love, and pack a small towel in your backpack just to stay dry and comfortable."
+            "en": "Enjoy the interactive water features that kids will absolutely love, and pack a small towel in your backpack just to stay dry and comfortable.",
+            "fr": "Appréciez les attractions aquatiques interactives que les enfants adoreront, et glissez une petite serviette dans votre sac à dos pour rester au sec et à l'aise."
           }
         },
         {
@@ -90,7 +96,8 @@
             "de": "Der Kokon",
             "hu": "A Gubó",
             "ro": "Coconul",
-            "en": "The Cocoon"
+            "en": "The Cocoon",
+            "fr": "Le Cocoon"
           },
           "coords": [
             0.368898,
@@ -105,7 +112,8 @@
             "de": "Entspannen Sie sich in diesem einzigartigen Rückzugsort, der Ruhe inmitten des Parks bietet, und nutzen Sie die schattigen Bänke für eine kurze Pause.",
             "hu": "Pihenjen meg ebben az egyedülálló menedékben, amely nyugalmat kínál a park közepén, és használja ki az árnyékos padokat egy rövid szünetre.",
             "ro": "Relaxați-vă în acest refugiu unic care oferă liniște în mijlocul parcului și profitați de băncile umbrite pentru o scurtă pauză revigorantă.",
-            "en": "Relax in this unique retreat offering tranquility right in the middle of the park, and take advantage of the shaded benches for a quick rest."
+            "en": "Relax in this unique retreat offering tranquility right in the middle of the park, and take advantage of the shaded benches for a quick rest.",
+            "fr": "Détendez-vous dans ce refuge unique offrant la tranquillité en plein cœur du parc, et profitez des bancs ombragés pour une courte pause."
           }
         },
         {
@@ -113,7 +121,8 @@
             "de": "Platz der außergewöhnlichen Reisen",
             "hu": "Rendkívüli Utazások Tere",
             "ro": "Piața Călătoriilor Extraordinare",
-            "en": "Square of Extraordinary Voyages"
+            "en": "Square of Extraordinary Voyages",
+            "fr": "Place des Voyages Extraordinaires"
           },
           "coords": [
             0.365746,
@@ -128,7 +137,8 @@
             "de": "Spüren Sie die Abenteuerlust an diesem Platz im Steampunk-Stil, der eine tolle Atmosphäre bietet, und achten Sie auf die aufwendigen mechanischen Details.",
             "hu": "Érezze a kalandvágyat ezen a steampunk stílusú téren, amely lenyűgöző atmoszférát kínál, és figyelje meg a bonyolult mechanikai részleteket.",
             "ro": "Simțiți spiritul de aventură în această piață cu tematică steampunk, care oferă o atmosferă grozavă, și observați detaliile mecanice complicate.",
-            "en": "Feel the spirit of adventure at this steampunk-themed plaza offering a great atmosphere, and pay close attention to the intricate mechanical details."
+            "en": "Feel the spirit of adventure at this steampunk-themed plaza offering a great atmosphere, and pay close attention to the intricate mechanical details.",
+            "fr": "Ressentez l'esprit d'aventure sur cette place à thème steampunk offrant une atmosphère unique, et prêtez une grande attention aux détails mécaniques complexes."
           }
         },
         {
@@ -136,7 +146,8 @@
             "de": "Jules' Erfindungen",
             "hu": "Jules Találmányai",
             "ro": "Invențiile lui Jules",
-            "en": "Jules' Inventions"
+            "en": "Jules' Inventions",
+            "fr": "Inventions de Jules"
           },
           "coords": [
             0.368685,
@@ -151,7 +162,8 @@
             "de": "Entdecken Sie faszinierende Maschinen, die von Jules Vernes Fantasie inspiriert sind, und nehmen Sie sich Zeit, die interaktiven Displays auszuprobieren.",
             "hu": "Fedezze fel a Jules Verne fantáziája ihlette lenyűgöző gépezeteket, és szánjon időt az izgalmas interaktív kijelzők kipróbálására.",
             "ro": "Descoperiți mașinăriile fascinante inspirate de imaginația lui Jules Verne și faceți-vă timp pentru a încerca ecranele interactive uimitoare.",
-            "en": "Discover fascinating machines inspired by Jules Verne's imagination, and take your time to thoroughly try out the amazing interactive displays."
+            "en": "Discover fascinating machines inspired by Jules Verne's imagination, and take your time to thoroughly try out the amazing interactive displays.",
+            "fr": "Découvrez des machines fascinantes inspirées de l'imagination de Jules Verne, et prenez le temps d'essayer en profondeur les étonnantes installations interactives."
           }
         },
         {
@@ -159,7 +171,8 @@
             "de": "Die musikalische Grotte",
             "hu": "A Zenei Barlang",
             "ro": "Grota Muzicală",
-            "en": "The Musical Grotto"
+            "en": "The Musical Grotto",
+            "fr": "La Grotte Musicale"
           },
           "coords": [
             0.364874,
@@ -174,7 +187,8 @@
             "de": "Lauschen Sie den bezaubernden Melodien, die in dieser künstlichen Höhle widerhallen, und bleiben Sie ruhig stehen, um die Akustik voll zu genießen.",
             "hu": "Hallgassa meg a varázslatos dallamokat, amelyek ebben a mesterséges barlangban visszhangoznak, és álljon meg egy pillanatra a tökéletes akusztikáért.",
             "ro": "Ascultați melodiile încântătoare care răsună în această peșteră artificială și stați liniștit o clipă pentru a vă bucura pe deplin de acustică.",
-            "en": "Listen to the enchanting melodies echoing throughout this artificial cave, and stand perfectly still for a moment to fully enjoy the acoustics."
+            "en": "Listen to the enchanting melodies echoing throughout this artificial cave, and stand perfectly still for a moment to fully enjoy the acoustics.",
+            "fr": "Écoutez les mélodies envoûtantes résonner dans cette grotte artificielle, et restez parfaitement immobile un instant pour profiter pleinement de l'acoustique."
           }
         }
       ],
@@ -182,7 +196,8 @@
         "de": "Beginnen Sie Ihren Morgen mit einem ruhigen Besuch der historischen Kirche, die einen entspannten Ton angibt. Mittags besuchen Sie die lebhaften und fantasievollen Familiengärten der Futuroscope-Gegend, die ideal zum Erkunden sind. Der Nachmittag ist voller interaktiver Steampunk- und Jules-Verne-Abenteuer, die den Geist fesseln. Beenden Sie Ihre Tour entspannt an einer musikalischen Grotte.",
         "hu": "Kezdje a reggelt a történelmi helyi templom nyugodt meglátogatásával, amely békés alaphangot ad a napnak. A dél a Futuroscope környékének élénk és fantáziadús családi kertjeibe vezet, amely tökéletes a felfedezésre. A délután tele van interaktív steampunk és Jules Verne ihlette kalandokkal, amelyek rabul ejtik az elmét. Fejezze be sétáját a varázslatos zenei barlangoknál pihenve.",
         "ro": "Începeți dimineața cu o vizită liniștită la biserica istorică locală, stabilind un ton calm pentru zi. Amiaza vă aduce în grădinile vibrante pentru familii din zona Futuroscope, perfecte pentru explorare. După-amiaza este plină de aventuri interactive cu tematică steampunk și inspirate de Jules Verne care captivează mintea. Încheiați-vă turul relaxându-vă la grotele muzicale fermecătoare.",
-        "en": "Start your morning with a peaceful visit to the historic local church, setting a calm tone for the day. Midday brings you to the vibrant and imaginative family gardens of the Futuroscope area, perfect for exploration. The afternoon is filled with interactive steampunk and Jules Verne-inspired adventures that captivate the mind. End your walking tour relaxing by enchanting musical grottos."
+        "en": "Start your morning with a peaceful visit to the historic local church, setting a calm tone for the day. Midday brings you to the vibrant and imaginative family gardens of the Futuroscope area, perfect for exploration. The afternoon is filled with interactive steampunk and Jules Verne-inspired adventures that captivate the mind. End your walking tour relaxing by enchanting musical grottos.",
+        "fr": "Commencez la matinée par une visite paisible de l'église historique du village, donnant un ton calme à la journée. À midi, rendez-vous dans les jardins familiaux vibrants et imaginatifs de la zone Futuroscope, parfaits pour l'exploration. L'après-midi est consacré à des aventures interactives steampunk et inspirées de Jules Verne qui captivent l'esprit. Terminez votre promenade en vous relaxant près des grottes musicales enchanteresses."
       },
       "variants": {
         "rainy": {
@@ -190,7 +205,8 @@
             "de": "Morgens bietet die Kirche trockenen Schutz vor den ersten Tropfen. Mittags bewegen wir uns zwischen den überdachten Pavillons und dem schützenden Kokon. Am Nachmittag ist das Museum ideal, um dem Regen ganz zu entfliehen. Abends bietet die Grotte eine natürliche, trockene Atmosphäre für einen klangvollen Abschluss trotz feuchten Wetters.",
             "hu": "Reggel a templom vastag falai között kezdünk, menedéket találva az eső elől. Délben a modern pavilonok és a Gubó fedett terei felé vesszük az irányt, ahol szárazon maradhatunk. Délután a múzeumban kalandozunk, távol a záporoktól. Estére a barlang misztikus és védett környezete nyújt tökéletes zárást a csapadékos idő ellenére is.",
             "ro": "Dimineața începe la biserică, oferind un adăpost uscat împotriva primilor stropi. La prânz, ne deplasăm între pavilioanele acoperite și structura protectoare a Coconului. După-amiaza este ideală pentru muzeu, evitând complet ploaia. Seara, grota oferă o atmosferă naturală și uscată pentru un final muzical, în ciuda vremii umede.",
-            "en": "Morning starts at the church, providing a dry sanctuary from the first drops. At noon, we navigate between covered pavilions and the protective Cocoon structure. The afternoon is perfect for the museum, escaping the rain entirely. In the evening, the grotto offers a natural, dry atmosphere for a musical conclusion despite the damp weather."
+            "en": "Morning starts at the church, providing a dry sanctuary from the first drops. At noon, we navigate between covered pavilions and the protective Cocoon structure. The afternoon is perfect for the museum, escaping the rain entirely. In the evening, the grotto offers a natural, dry atmosphere for a musical conclusion despite the damp weather.",
+            "fr": "La matinée commence à l'église, offrant un refuge sec contre les premières gouttes. À midi, nous naviguons entre des pavillons couverts et la structure protectrice du Cocoon. L'après-midi est parfait pour le musée, où l'on échappe totalement à la pluie. Le soir, la grotte offre une ambiance naturellement sèche pour une conclusion musicale malgré le temps humide."
           },
           "stops": [
             {
@@ -198,13 +214,15 @@
                 "de": "St.-Denis-Kirche",
                 "hu": "Szent Dénes-templom",
                 "ro": "Biserica Sfântul Denis",
-                "en": "St. Denis Church"
+                "en": "St. Denis Church",
+                "fr": "Église Saint-Denis"
               },
               "tip_5lang": {
                 "de": "Bewundern Sie die Glasmalereien im Inneren, während Sie im trockenen Kirchenschiff auf das Ende des Regenschauers warten; ein Regenschirm ist für den kurzen Weg zum Ausgang ratsam.",
                 "hu": "Csodálja meg a belső üvegablakokat, miközben a száraz templomhajóban várja a zápor végét; egy esernyő ajánlott a kijárathoz vezető rövid útra.",
                 "ro": "Admirați vitraliile din interior în timp ce așteptați oprirea ploii în nava uscată a bisericii; o umbrelă este recomandată pentru drumul scurt spre ieșire.",
-                "en": "Admire the stained glass windows inside while waiting for the shower to pass in the dry nave; an umbrella is advised for the short walk to the exit."
+                "en": "Admire the stained glass windows inside while waiting for the shower to pass in the dry nave; an umbrella is advised for the short walk to the exit.",
+                "fr": "Admirez les vitraux à l'intérieur en attendant que l'averse passe dans la nef sèche ; un parapluie est conseillé pour le court trajet jusqu'à la sortie."
               }
             },
             {
@@ -212,13 +230,15 @@
                 "de": "Arthurs Garten",
                 "hu": "Arthur kertje",
                 "ro": "Grădina lui Arthur",
-                "en": "Arthur's Garden"
+                "en": "Arthur's Garden",
+                "fr": "Jardin d'Arthur"
               },
               "tip_5lang": {
                 "de": "Genießen Sie die intensive Farbe der nassen Flora auf den befestigten Wegen, um Schlamm zu vermeiden, und nutzen Sie die Gartenlauben bei plötzlichem Guss.",
                 "hu": "Élvezze a vizes növényvilág intenzív színeit a kövezett utakon maradva, hogy elkerülje a sarat, és hirtelen esőben használja a kerti pavilonokat.",
                 "ro": "Bucurați-vă de culorile intense ale florei umede pe potecile pavate pentru a evita noroiul și folosiți foișoarele în caz de aversă bruscă.",
-                "en": "Enjoy the intense colors of the wet flora while staying on paved paths to avoid mud, and use the garden gazebos during sudden downpours."
+                "en": "Enjoy the intense colors of the wet flora while staying on paved paths to avoid mud, and use the garden gazebos during sudden downpours.",
+                "fr": "Profitez des couleurs intenses de la flore mouillée en restant sur les chemins pavés pour éviter la boue, et utilisez les gloriettes du jardin lors d'averses soudaines."
               }
             },
             {
@@ -226,13 +246,15 @@
                 "de": "Aqualympic-Stadion",
                 "hu": "Aqualimpiai Stadion",
                 "ro": "Stadionul Aqualympic",
-                "en": "Aqualympic Stadium"
+                "en": "Aqualympic Stadium",
+                "fr": "Stade Aqualympique"
               },
               "tip_5lang": {
                 "de": "Suchen Sie Schutz unter den Tribünenüberdachungen, um das beeindruckende Bauwerk trocken zu betrachten, da die umliegenden Flächen bei Nässe rutschig sein können.",
                 "hu": "Keressen menedéket a lelátók tetői alatt, hogy szárazon tekinthesse meg az építményt, mivel a környező felületek nedvesen csúszósak lehetnek.",
                 "ro": "Căutați adăpost sub acoperișul tribunelor pentru a vedea structura uscat, deoarece suprafețele din jur pot fi alunecoase când sunt ude.",
-                "en": "Seek shelter under the grandstand roofs to view the structure dry, as the surrounding surfaces can be slippery when wet."
+                "en": "Seek shelter under the grandstand roofs to view the structure dry, as the surrounding surfaces can be slippery when wet.",
+                "fr": "Cherchez un abri sous les toitures des tribunes pour voir la structure au sec, car les surfaces environnantes peuvent devenir glissantes lorsqu'elles sont mouillées."
               }
             },
             {
@@ -240,13 +262,15 @@
                 "de": "Der Kokon",
                 "hu": "A Gubó",
                 "ro": "Coconul",
-                "en": "The Cocoon"
+                "en": "The Cocoon",
+                "fr": "Le Cocoon"
               },
               "tip_5lang": {
                 "de": "Diese organische Struktur bietet hervorragenden Schutz vor vertikalem Regen; nutzen Sie den gemütlichen Innenraum für eine kurze Rast im Trockenen.",
                 "hu": "Ez az organikus szerkezet kiváló védelmet nyújt a függőleges eső ellen; használja a barátságos belső teret egy rövid, száraz pihenőre.",
                 "ro": "Această structură organică oferă o protecție excelentă împotriva ploii verticale; folosiți interiorul primitor pentru o scurtă odihnă la uscat.",
-                "en": "This organic structure provides excellent protection against vertical rain; use the cozy interior for a short rest in the dry."
+                "en": "This organic structure provides excellent protection against vertical rain; use the cozy interior for a short rest in the dry.",
+                "fr": "Cette structure organique offre une excellente protection contre la pluie verticale ; utilisez l'intérieur douillet pour une courte pause au sec."
               }
             },
             {
@@ -254,13 +278,15 @@
                 "de": "Platz der außergewöhnlichen Reisen",
                 "hu": "Rendkívüli Utazások Tere",
                 "ro": "Piața Călătoriilor Extraordinare",
-                "en": "Square of Extraordinary Voyages"
+                "en": "Square of Extraordinary Voyages",
+                "fr": "Place des Voyages Extraordinaires"
               },
               "tip_5lang": {
                 "de": "Überqueren Sie den Platz zügig mit wasserfestem Schuhwerk, da sich in den Vertiefungen Pfützen bilden können, die jedoch schöne Spiegelungen bieten.",
                 "hu": "Haladjon át gyorsan a téren vízálló lábbeliben, mivel a mélyedésekben tócsák alakulhatnak ki, amelyek viszont szép tükröződéseket kínálnak.",
                 "ro": "Traversați piața rapid cu încălțăminte impermeabilă, deoarece în adâncituri se pot forma bălți care oferă totuși reflexii frumoase.",
-                "en": "Cross the square quickly with waterproof footwear, as puddles may form in depressions, though they offer beautiful reflections."
+                "en": "Cross the square quickly with waterproof footwear, as puddles may form in depressions, though they offer beautiful reflections.",
+                "fr": "Traversez la place rapidement avec des chaussures imperméables, car des flaques peuvent se former dans les dépressions, bien qu'elles offrent de belles reflets."
               }
             },
             {
@@ -268,13 +294,15 @@
                 "de": "Jules' Erfindungen",
                 "hu": "Jules Találmányai",
                 "ro": "Invențiile lui Jules",
-                "en": "Jules' Inventions"
+                "en": "Jules' Inventions",
+                "fr": "Inventions de Jules"
               },
               "tip_5lang": {
                 "de": "Das ideale Ziel bei Regen: Verbringen Sie hier mehr Zeit im vollkommen trockenen Innenraum und lassen Sie Ihre nasse Kleidung an der Garderobe.",
                 "hu": "Ideális célpont esőben: töltsön el itt több időt a teljesen száraz belső térben, és hagyja vizes ruháit a ruhatárban.",
                 "ro": "Destinația ideală pe ploaie: petreceți mai mult timp în interiorul complet uscat și lăsați hainele ude la garderobă.",
-                "en": "The ideal destination in the rain: spend more time here in the completely dry interior and leave your wet clothes at the cloakroom."
+                "en": "The ideal destination in the rain: spend more time here in the completely dry interior and leave your wet clothes at the cloakroom.",
+                "fr": "La destination idéale sous la pluie : passez plus de temps ici dans l'intérieur complètement sec et laissez vos vêtements mouillés au vestiaire."
               }
             },
             {
@@ -282,13 +310,15 @@
                 "de": "Die musikalische Grotte",
                 "hu": "A Zenei Barlang",
                 "ro": "Grota Muzicală",
-                "en": "The Musical Grotto"
+                "en": "The Musical Grotto",
+                "fr": "La Grotte Musicale"
               },
               "tip_5lang": {
                 "de": "Der Felsüberhang schirmt den Regen ab und verstärkt die akustischen Effekte; achten Sie beim Betreten auf die Stufen, die durch die Luftfeuchtigkeit glatt sind.",
                 "hu": "A sziklaeresz felfogja az esőt és felerősíti az akusztikai hatásokat; belépéskor figyeljen a lépcsőkre, amelyek a páratartalom miatt síkosak lehetnek.",
                 "ro": "Consola de stâncă oprește ploaia și amplifică efectele acustice; la intrare, atenție la treptele care pot fi alunecoase din cauza umidității.",
-                "en": "The rock overhang shields the rain and amplifies the acoustic effects; watch the steps when entering, as they may be slick from humidity."
+                "en": "The rock overhang shields the rain and amplifies the acoustic effects; watch the steps when entering, as they may be slick from humidity.",
+                "fr": "Le surplomb rocheux protège de la pluie et amplifie les effets acoustiques ; faites attention aux marches à l'entrée, car elles peuvent être glissantes à cause de l'humidité."
               }
             }
           ]
@@ -298,7 +328,8 @@
             "de": "Der Wintermorgen beginnt frisch an der geheizten Kirche. Mittags wärmen wir uns nach einem zügigen Spaziergang im Kokon auf. Da die Sonne bereits gegen 17:00 Uhr untergeht, nutzen wir das Tageslicht im Museum optimal aus. Der Tag endet früh in der mystischen Grotte, bevor die Abendkälte einsetzt.",
             "hu": "A téli reggel frissen indul a fűtött templomnál. Délben egy tempós séta után a Gubóban melegedünk fel. Mivel a nap már 17:00 körül lemegy, a múzeumban optimálisan kihasználjuk a nappali fényt. A nap korán ér véget a misztikus barlangban, mielőtt beállna az esti fagy.",
             "ro": "Dimineața de iarnă începe proaspăt la biserica încălzită. La prânz, ne încălzim în Cocon după o plimbare vioaie. Deoarece soarele apune deja în jur de ora 17:00, profităm la maximum de lumina zilei la muzeu. Ziua se încheie devreme în grota mistică, înainte de lăsarea gerului serii.",
-            "en": "The winter morning starts fresh at the heated church. At noon, we warm up in the Cocoon after a brisk walk. Since the sun sets around 5:00 PM, we make the most of the daylight at the museum. The day ends early in the mystical grotto before the evening chill sets in."
+            "en": "The winter morning starts fresh at the heated church. At noon, we warm up in the Cocoon after a brisk walk. Since the sun sets around 5:00 PM, we make the most of the daylight at the museum. The day ends early in the mystical grotto before the evening chill sets in.",
+            "fr": "La matinée d'hiver commence fraîchement à l'église chauffée. À midi, nous nous réchauffons dans le Cocoon après une marche vive. Comme le soleil se couche vers 17:00, nous profitons pleinement de la lumière du jour au musée. La journée se termine tôt dans la grotte mystique avant que la fraîcheur du soir n'arrive."
           },
           "stops": [
             {
@@ -306,13 +337,15 @@
                 "de": "St.-Denis-Kirche",
                 "hu": "Szent Dénes-templom",
                 "ro": "Biserica Sfântul Denis",
-                "en": "St. Denis Church"
+                "en": "St. Denis Church",
+                "fr": "Église Saint-Denis"
               },
               "tip_5lang": {
                 "de": "Genießen Sie die Ruhe im Inneren, wo es deutlich milder ist als draußen; ziehen Sie Ihre Handschuhe erst direkt beim Betreten aus, um die Wärme zu halten.",
                 "hu": "Élvezze a benti nyugalmat, ahol lényegesen enyhébb az idő, mint kint; kesztyűjét csak közvetlenül a belépéskor vegye le, hogy megőrizze a hőt.",
                 "ro": "Bucurați-vă de liniștea din interior, unde este mult mai blând decât afară; scoateți mănușile doar la intrare pentru a păstra căldura.",
-                "en": "Enjoy the tranquility inside, where it is significantly milder than outside; take your gloves off only upon entering to retain heat."
+                "en": "Enjoy the tranquility inside, where it is significantly milder than outside; take your gloves off only upon entering to retain heat.",
+                "fr": "Appréciez la tranquillité à l'intérieur, où il fait sensiblement plus doux qu'à l'extérieur ; n'enlevez vos gants qu'en entrant pour conserver la chaleur."
               }
             },
             {
@@ -320,13 +353,15 @@
                 "de": "Arthurs Garten",
                 "hu": "Arthur kertje",
                 "ro": "Grădina lui Arthur",
-                "en": "Arthur's Garden"
+                "en": "Arthur's Garden",
+                "fr": "Jardin d'Arthur"
               },
               "tip_5lang": {
                 "de": "Bewundern Sie die frostige Struktur der winterfesten Pflanzen; ein warmer Tee in der Thermoskanne macht den Spaziergang durch die kalte Luft sehr angenehm.",
                 "hu": "Csodálja meg a télálló növények fagyos szerkezetét; egy meleg tea a termoszból nagyon kellemessé teszi a sétát a hideg levegőn.",
                 "ro": "Admirați structura înghețată a plantelor rezistente la iarnă; un ceai cald din termos face plimbarea prin aerul rece foarte plăcută.",
-                "en": "Admire the frosty structure of winter-hardy plants; a warm tea from a thermos makes the walk through the cold air very pleasant."
+                "en": "Admire the frosty structure of winter-hardy plants; a warm tea from a thermos makes the walk through the cold air very pleasant.",
+                "fr": "Admirez la structure givrante des plantes résistantes à l'hiver ; un thé chaud dans une thermos rend la promenade dans l'air froid très agréable."
               }
             },
             {
@@ -334,13 +369,15 @@
                 "de": "Aqualympic-Stadion",
                 "hu": "Aqualimpiai Stadion",
                 "ro": "Stadionul Aqualympic",
-                "en": "Aqualympic Stadium"
+                "en": "Aqualympic Stadium",
+                "fr": "Stade Aqualympique"
               },
               "tip_5lang": {
                 "de": "Die Architektur wirkt im klaren Winterlicht besonders scharfkantig; tragen Sie festes Schuhwerk, da der Boden in schattigen Bereichen vereist sein kann.",
                 "hu": "Az építészet a tiszta téli fényben különösen élesnek tűnik; viseljen stabil lábbelit, mivel az árnyékos részeken a talaj jeges lehet.",
                 "ro": "Arhitectura pare deosebit de clară în lumina curată de iarnă; purtați încălțăminte stabilă, deoarece solul poate fi înghețat în zonele umbrite.",
-                "en": "The architecture looks particularly sharp in the clear winter light; wear sturdy footwear as the ground may be icy in shaded areas."
+                "en": "The architecture looks particularly sharp in the clear winter light; wear sturdy footwear as the ground may be icy in shaded areas.",
+                "fr": "L'architecture paraît particulièrement nette à la lumière hivernale claire ; portez des chaussures solides car le sol peut être verglacé dans les zones ombragées."
               }
             },
             {
@@ -348,13 +385,15 @@
                 "de": "Der Kokon",
                 "hu": "A Gubó",
                 "ro": "Coconul",
-                "en": "The Cocoon"
+                "en": "The Cocoon",
+                "fr": "Le Cocoon"
               },
               "tip_5lang": {
                 "de": "Ein geschützter Ort, der die Körperwärme besser hält als der offene Platz; ideal für eine kurze Pause, um die Finger wieder aufzuwärmen.",
                 "hu": "Védett hely, amely jobban megtartja a testhőt, mint a nyitott tér; ideális egy rövid szünetre, hogy ujjai újra felmelegedjenek.",
                 "ro": "Un loc protejat care reține căldura corpului mai bine decât spațiul deschis; ideal pentru o scurtă pauză pentru a vă reîncălzi degetele.",
-                "en": "A protected spot that retains body heat better than the open square; ideal for a short break to warm up your fingers again."
+                "en": "A protected spot that retains body heat better than the open square; ideal for a short break to warm up your fingers again.",
+                "fr": "Un endroit protégé qui conserve la chaleur corporelle mieux que la place ouverte ; idéal pour une courte pause pour réchauffer de nouveau vos doigts."
               }
             },
             {
@@ -362,13 +401,15 @@
                 "de": "Platz der außergewöhnlichen Reisen",
                 "hu": "Rendkívüli Utazások Tere",
                 "ro": "Piața Călătoriilor Extraordinare",
-                "en": "Square of Extraordinary Voyages"
+                "en": "Square of Extraordinary Voyages",
+                "fr": "Place des Voyages Extraordinaires"
               },
               "tip_5lang": {
                 "de": "Nutzen Sie das letzte Tageslicht gegen 16:30 Uhr für Fotos, bevor die lange Dämmerung einsetzt; warme Kleidung ist wegen des Windes auf dem Platz nötig.",
                 "hu": "Használja ki az utolsó nappali fényt 16:30 körül a fotózáshoz, mielőtt beállna a hosszú szürkület; a téren a szél miatt meleg ruházat szükséges.",
                 "ro": "Profită de ultima lumină a zilei în jurul orei 16:30 pentru fotografii înainte de amurg; hainele groase sunt necesare din cauza vântului din piață.",
-                "en": "Use the last daylight around 4:30 PM for photos before the long twilight sets in; warm clothing is necessary due to the wind on the square."
+                "en": "Use the last daylight around 4:30 PM for photos before the long twilight sets in; warm clothing is necessary due to the wind on the square.",
+                "fr": "Profitez des dernières heures de lumière vers 16:30 pour des photos avant la longue tombée du crépuscule ; des vêtements chauds sont nécessaires à cause du vent sur la place."
               }
             },
             {
@@ -376,13 +417,15 @@
                 "de": "Jules' Erfindungen",
                 "hu": "Jules Találmányai",
                 "ro": "Invențiile lui Jules",
-                "en": "Jules' Inventions"
+                "en": "Jules' Inventions",
+                "fr": "Inventions de Jules"
               },
               "tip_5lang": {
                 "de": "Genießen Sie die behagliche Wärme im Inneren des Museums, während draußen der Frost anzieht; planen Sie den Besuch für die kälteste Zeit des Nachmittags.",
                 "hu": "Élvezze a múzeum belsejének otthonos melegét, miközben kint erősödik a fagy; a látogatást a délután leghidegebb idejére tervezze.",
                 "ro": "Bucurați-vă de căldura primitoare din interiorul muzeului în timp ce afară gerul se întețește; planificați vizita pentru cea mai rece perioadă a după-amiezii.",
-                "en": "Enjoy the cozy warmth inside the museum while the frost tightens outside; plan the visit for the coldest time of the afternoon."
+                "en": "Enjoy the cozy warmth inside the museum while the frost tightens outside; plan the visit for the coldest time of the afternoon.",
+                "fr": "Appréciez la chaleur confortable à l'intérieur du musée tandis que le gel se resserre dehors ; planifiez la visite pour le moment le plus froid de l'après-midi."
               }
             },
             {
@@ -390,13 +433,15 @@
                 "de": "Die musikalische Grotte",
                 "hu": "A Zenei Barlang",
                 "ro": "Grota Muzicală",
-                "en": "The Musical Grotto"
+                "en": "The Musical Grotto",
+                "fr": "La Grotte Musicale"
               },
               "tip_5lang": {
                 "de": "Die Grotte ist im Winter oft erstaunlich windgeschützt; bringen Sie eine Taschenlampe mit, da es nach 17:00 Uhr hier sehr schnell dunkel wird.",
                 "hu": "A barlang télen gyakran meglepően szélvédett; hozzon magával zseblámpát, mivel 17:00 után itt nagyon gyorsan besötétedik.",
                 "ro": "Grota este adesea uimitor de ferită de vânt iarna; aduceți o lanternă, deoarece după ora 17:00 se întunecă foarte repede aici.",
-                "en": "The grotto is often surprisingly wind-sheltered in winter; bring a flashlight as it gets dark very quickly here after 5:00 PM."
+                "en": "The grotto is often surprisingly wind-sheltered in winter; bring a flashlight as it gets dark very quickly here after 5:00 PM.",
+                "fr": "La grotte est souvent étonnamment abritée du vent en hiver ; apportez une lampe de poche car il fait très vite sombre ici après 17:00."
               }
             }
           ]
@@ -416,7 +461,8 @@
             "de": "St.-Denis-Kirche",
             "hu": "Szent Dénes-templom",
             "ro": "Biserica Sfântul Denis",
-            "en": "St. Denis Church"
+            "en": "St. Denis Church",
+            "fr": "Église Saint-Denis"
           },
           "coords": [
             0.370873,
@@ -431,7 +477,8 @@
             "de": "Bewundern Sie die historischen Details dieser ruhigen Kirche, die die lokale Geschichte widerspiegelt, und kommen Sie früh, um das beste Morgenlicht einzufangen.",
             "hu": "Csodálja meg a nyugodt templom történelmi részleteit, amelyek a helyi múltat őrzik, és érkezzen korán a legszebb reggeli fényekért.",
             "ro": "Admirați detaliile istorice ale acestei biserici liniștite, o reflectare a trecutului local, și veniți devreme pentru cea mai bună lumină matinală.",
-            "en": "Admire the historical details of this peaceful church, reflecting local heritage, and arrive early to capture the beautiful morning light."
+            "en": "Admire the historical details of this peaceful church, reflecting local heritage, and arrive early to capture the beautiful morning light.",
+            "fr": "Admirez les détails historiques de cette église paisible, reflet du patrimoine local, et arrivez tôt pour capturer la belle lumière matinale."
           }
         },
         {
@@ -439,7 +486,8 @@
             "de": "Insel der Riesen",
             "hu": "Óriások Szigete",
             "ro": "Insula Uriașilor",
-            "en": "Island of Giants"
+            "en": "Island of Giants",
+            "fr": "Île des Géants"
           },
           "coords": [
             0.401688,
@@ -454,7 +502,8 @@
             "de": "Spazieren Sie durch diesen weitläufigen Park, der von übergroßen Skulpturen geprägt ist, und tragen Sie bequeme Schuhe für die vielen Feldwege.",
             "hu": "Sétáljon át ezen a hatalmas parkon, amelyet túlméretezett szobrok díszítenek, és viseljen kényelmes cipőt a rengeteg földúthoz.",
             "ro": "Plimbați-vă prin acest parc vast, marcat de sculpturi supradimensionate, și purtați pantofi comozi pentru numeroasele poteci de pământ.",
-            "en": "Stroll through this expansive park characterized by oversized sculptures, and make sure to wear comfortable walking shoes for the many dirt paths."
+            "en": "Stroll through this expansive park characterized by oversized sculptures, and make sure to wear comfortable walking shoes for the many dirt paths.",
+            "fr": "Promenez-vous dans ce parc étendu caractérisé par des sculptures surdimensionnées, et pensez à porter des chaussures de marche confortables pour les nombreux sentiers de terre."
           }
         },
         {
@@ -462,7 +511,8 @@
             "de": "Promenade der Düfte",
             "hu": "Illatok Sétánya",
             "ro": "Promenada Parfumurilor",
-            "en": "Promenade of Scents"
+            "en": "Promenade of Scents",
+            "fr": "Promenade des Senteurs"
           },
           "coords": [
             0.395301,
@@ -477,7 +527,8 @@
             "de": "Atmen Sie die herrlichen Düfte der vielfältigen Kräuter und Blumen ein und berühren Sie sanft die Blätter, um ihre natürlichen Öle freizusetzen.",
             "hu": "Lélegezze be a változatos fűszernövények és virágok csodás illatát, és óvatosan érintse meg a leveleket a természetes olajok felszabadításához.",
             "ro": "Inspirați parfumurile minunate ale diverselor ierburi și flori și atingeți ușor frunzele pentru a elibera uleiurile lor naturale delicate.",
-            "en": "Breathe in the wonderful scents of diverse herbs and flowers, and gently touch the leaves to release their beautifully fragrant natural oils."
+            "en": "Breathe in the wonderful scents of diverse herbs and flowers, and gently touch the leaves to release their beautifully fragrant natural oils.",
+            "fr": "Respirez les merveilleux parfums de diverses herbes et fleurs, et touchez délicatement les feuilles pour libérer leurs huiles naturelles agréablement odorantes."
           }
         },
         {
@@ -485,7 +536,8 @@
             "de": "Futuroscope-Park",
             "hu": "Futuroscope Park",
             "ro": "Parcul Futuroscope",
-            "en": "Futuroscope Park"
+            "en": "Futuroscope Park",
+            "fr": "Parc Futuroscope"
           },
           "coords": [
             0.3775,
@@ -500,7 +552,8 @@
             "de": "Erleben Sie futuristische Attraktionen, die Technologie und Kunst verschmelzen, und laden Sie die Park-App herunter, um die Wartezeiten im Blick zu haben.",
             "hu": "Élje át a jövőbe mutató attrakciókat, ahol a technológia és a művészet találkozik, és töltse le a park alkalmazását a várakozási idők követéséhez.",
             "ro": "Experimentați atracțiile futuriste unde tehnologia se îmbină cu arta și descărcați aplicația parcului pentru a verifica timpii de așteptare.",
-            "en": "Experience futuristic attractions blending cutting-edge technology and art, and download the official park app to easily track attraction wait times."
+            "en": "Experience futuristic attractions blending cutting-edge technology and art, and download the official park app to easily track attraction wait times.",
+            "fr": "Vivez des attractions futuristes mêlant technologie de pointe et art, et téléchargez l'application officielle du parc pour suivre facilement les temps d'attente des attractions."
           }
         },
         {
@@ -508,7 +561,8 @@
             "de": "Platz der außergewöhnlichen Reisen",
             "hu": "Rendkívüli Utazások Tere",
             "ro": "Piața Călătoriilor Extraordinare",
-            "en": "Square of Extraordinary Voyages"
+            "en": "Square of Extraordinary Voyages",
+            "fr": "Place des Voyages Extraordinaires"
           },
           "coords": [
             0.365746,
@@ -523,7 +577,8 @@
             "de": "Spüren Sie die Abenteuerlust an diesem Platz im Steampunk-Stil, der eine tolle Atmosphäre bietet, und achten Sie auf die aufwendigen mechanischen Details.",
             "hu": "Érezze a kalandvágyat ezen a steampunk stílusú téren, amely lenyűgöző atmoszférát kínál, és figyelje meg a bonyolult mechanikai részleteket.",
             "ro": "Simțiți spiritul de aventură în această piață cu tematică steampunk, care oferă o atmosferă grozavă, și observați detaliile mecanice complicate.",
-            "en": "Feel the spirit of adventure at this steampunk-themed plaza offering a great atmosphere, and pay close attention to the intricate mechanical details."
+            "en": "Feel the spirit of adventure at this steampunk-themed plaza offering a great atmosphere, and pay close attention to the intricate mechanical details.",
+            "fr": "Ressentez l'esprit d'aventure sur cette place à thème steampunk offrant une atmosphère unique, et prêtez une grande attention aux détails mécaniques complexes."
           }
         },
         {
@@ -531,7 +586,8 @@
             "de": "Die Cirrus-Wolke",
             "hu": "A Cirrus Felhő",
             "ro": "Norul Cirrus",
-            "en": "The Cirrus Cloud"
+            "en": "The Cirrus Cloud",
+            "fr": "Le Cirrus"
           },
           "coords": [
             0.36621,
@@ -546,7 +602,8 @@
             "de": "Bewundern Sie die wolkenartige Architektur dieses entspannenden Pavillons und besuchen Sie ihn am späten Nachmittag für sanftes, beruhigendes Licht.",
             "hu": "Csodálja meg ennek a pihentető pavilonnak a felhőszerű építészetét, és látogassa meg késő délután a lágy, nyugtató fényekért és hangulatért.",
             "ro": "Admirați arhitectura asemănătoare unui nor a acestui pavilion relaxant și vizitați-l după-amiaza târziu pentru o lumină moale și o atmosferă calmă.",
-            "en": "Admire the cloud-like architecture of this relaxing pavilion, and visit it in the late afternoon for soft, soothing light and a calm atmosphere."
+            "en": "Admire the cloud-like architecture of this relaxing pavilion, and visit it in the late afternoon for soft, soothing light and a calm atmosphere.",
+            "fr": "Admirez l'architecture évoquant un nuage de ce pavillon relaxant, et visitez-le en fin d'après-midi pour une lumière douce et apaisante et une ambiance calme."
           }
         }
       ],
@@ -554,7 +611,8 @@
         "de": "Radeln Sie vom Zentrum zu den weitläufigen Parks mit ihren riesigen Skulpturen und genießen Sie die Morgenbrise. Mittags fahren Sie durch herrlich duftende Promenaden, bevor Sie das High-Tech-Herz der Gegend erreichen. Verbringen Sie den Nachmittag damit, in die futuristischen Wunder des Hauptparks einzutauchen. Beenden Sie Ihre Fahrt in weichen, wolkenartigen Architekturpavillons.",
         "hu": "Tekerjen el a városközpontból az óriási szobrokkal díszített hatalmas parkok felé, élvezve a friss reggeli szellőt. Délre kerekezzen át a csodás illatú sétányokon, mielőtt elérné a környék csúcstechnológiás szívét. Töltse a délutánt a fő vidámpark futurisztikus csodáinak felfedezésével. Fejezze be utazását lágy, felhőszerű építészeti pavilonokban pihenve a nap végén.",
         "ro": "Pedați din centrul orașului spre parcurile întinse împodobite cu sculpturi gigantice, bucurându-vă de briza dimineții. La prânz, mergeți pe bicicletă prin promenade frumos parfumate înainte de a ajunge în inima high-tech a zonei. Petreceți-vă după-amiaza scufundându-vă în minunile futuriste ale parcului tematic principal. Încheiați plimbarea relaxându-vă în pavilioane cu arhitectură de nor.",
-        "en": "Pedal away from the town center towards the expansive parks adorned with giant sculptures, enjoying the fresh morning breeze. By midday, cycle through beautifully scented promenades before reaching the high-tech heart of the area. Spend your afternoon diving into the futuristic wonders of the main theme park. Conclude your ride winding down in soft, cloud-like architectural pavilions."
+        "en": "Pedal away from the town center towards the expansive parks adorned with giant sculptures, enjoying the fresh morning breeze. By midday, cycle through beautifully scented promenades before reaching the high-tech heart of the area. Spend your afternoon diving into the futuristic wonders of the main theme park. Conclude your ride winding down in soft, cloud-like architectural pavilions.",
+        "fr": "Pédalez hors du centre-ville vers les vastes parcs ornés de sculptures géantes, en profitant de la fraîche brise matinale. À midi, parcourez les promenades aux senteurs délicieuses avant d'atteindre le cœur high-tech de la zone. Passez votre après-midi à plonger dans les merveilles futuristes du parc thématique principal. Concluez votre balade en vous détendant dans des pavillons architecturaux doux, semblables à des nuages."
       },
       "variants": {
         "rainy": {
@@ -562,7 +620,8 @@
             "de": "Regnerisches Radeln erfordert Vorsicht auf den Radwegen zur Kirche. Mittags suchen wir Schutz auf der Insel der Riesen, bevor wir zur duftenden Promenade weiterfahren. Der Futuroscope-Park bietet viele Indoor-Optionen während starker Güsse. Den Tag beenden wir zügig, wobei wir die rutschigen Wege zur Cirrus-Wolke vorsichtig befahren.",
             "hu": "Az esős bringázás óvatosságot igényel a templom felé vezető utakon. Délben az Óriások Szigetén keresünk fedezéket, mielőtt az Illatok Sétányára indulnánk. A Futuroscope Park sok benti lehetőséget kínál a heves záporok idején. A napot tempósan zárjuk, óvatosan haladva a Cirrus Felhő felé a csúszós utakon.",
             "ro": "Ciclismul pe ploaie necesită prudență pe pistele spre biserică. La prânz căutăm adăpost pe Insula Uriașilor înainte de a continua spre promenada parfumată. Parcul Futuroscope oferă multe opțiuni interioare în timpul averselor puternice. Încheiem ziua rapid, parcurgând cu atenție drumurile alunecoase spre Norul Cirrus.",
-            "en": "Rainy cycling requires caution on the paths to the church. At noon we seek cover on the Island of Giants before continuing to the scented promenade. Futuroscope Park offers many indoor options during heavy downpours. We end the day quickly, carefully navigating the slippery paths to the Cirrus Cloud."
+            "en": "Rainy cycling requires caution on the paths to the church. At noon we seek cover on the Island of Giants before continuing to the scented promenade. Futuroscope Park offers many indoor options during heavy downpours. We end the day quickly, carefully navigating the slippery paths to the Cirrus Cloud.",
+            "fr": "Le cyclisme sous la pluie exige de la prudence sur les chemins menant à l'église. À midi, nous cherchons un abri sur l'Île des Géants avant de continuer vers la promenade parfumée. Le Parc Futuroscope offre de nombreuses options intérieures lors de fortes averses. Nous terminons la journée rapidement en naviguant prudemment sur les chemins glissants jusqu'au Cirrus."
           },
           "stops": [
             {
@@ -570,13 +629,15 @@
                 "de": "St.-Denis-Kirche",
                 "hu": "Szent Dénes-templom",
                 "ro": "Biserica Sfântul Denis",
-                "en": "St. Denis Church"
+                "en": "St. Denis Church",
+                "fr": "Église Saint-Denis"
               },
               "tip_5lang": {
                 "de": "Parken Sie Ihr Rad unter einem Vorsprung und nutzen Sie die Kirche als trockenen Rückzugsort; prüfen Sie Ihre Bremsen, bevor Sie auf nasser Straße weiterfahren.",
                 "hu": "Parkolja le biciklijét egy ereszt alatt, és használja a templomot száraz menedékként; ellenőrizze a fékeit, mielőtt továbbindulna a vizes úton.",
                 "ro": "Parcați bicicleta sub o streașină și folosiți biserica ca refugiu uscat; verificați frânele înainte de a continua pe drumul umed.",
-                "en": "Park your bike under an overhang and use the church as a dry retreat; check your brakes before continuing on the wet road."
+                "en": "Park your bike under an overhang and use the church as a dry retreat; check your brakes before continuing on the wet road.",
+                "fr": "Garez votre vélo sous un auvent et utilisez l'église comme retraite sèche ; vérifiez vos freins avant de reprendre la route mouillée."
               }
             },
             {
@@ -584,13 +645,15 @@
                 "de": "Insel der Riesen",
                 "hu": "Óriások Szigete",
                 "ro": "Insula Uriașilor",
-                "en": "Island of Giants"
+                "en": "Island of Giants",
+                "fr": "Île des Géants"
               },
               "tip_5lang": {
                 "de": "Die großen Bäume bieten begrenzten Schutz vor Nieselregen; tragen Sie ein Regenponcho, da der Fahrtwind die Nässe schneller durch die Kleidung drückt.",
                 "hu": "A nagy fák korlátozott védelmet nyújtanak a szemerkélő eső ellen; viseljen esőponcsót, mivel a menetszél gyorsabban átnyomja a nedvességet a ruhán.",
                 "ro": "Copacii mari oferă protecție limitată împotriva burniței; purtați un poncho de ploaie, deoarece vântul de deplasare împinge umezeala mai repede prin haine.",
-                "en": "The large trees offer limited protection from drizzle; wear a rain poncho as the wind from riding pushes moisture through clothes faster."
+                "en": "The large trees offer limited protection from drizzle; wear a rain poncho as the wind from riding pushes moisture through clothes faster.",
+                "fr": "Les grands arbres offrent une protection limitée contre la bruine ; portez une cape de pluie car le vent dû au pédalage fait pénétrer l'humidité à travers les vêtements plus rapidement."
               }
             },
             {
@@ -598,13 +661,15 @@
                 "de": "Promenade der Düfte",
                 "hu": "Illatok Sétánya",
                 "ro": "Promenada Parfumurilor",
-                "en": "Promenade of Scents"
+                "en": "Promenade of Scents",
+                "fr": "Promenade des Senteurs"
               },
               "tip_5lang": {
                 "de": "Die Aromen sind nach dem Regen besonders intensiv; meiden Sie jedoch Pfützen am Wegrand, um Ihre Schuhe und das Fahrrad sauber zu halten.",
                 "hu": "Az aromák eső után különösen intenzívek; kerülje el azonban az út menti tócsákat, hogy cipőjét és kerékpárját tisztán tartsa.",
                 "ro": "Aromele sunt deosebit de intense după ploaie; totuși, evitați bălțile de pe marginea drumului pentru a vă păstra pantofii și bicicleta curate.",
-                "en": "The aromas are particularly intense after the rain; however, avoid puddles at the roadside to keep your shoes and bike clean."
+                "en": "The aromas are particularly intense after the rain; however, avoid puddles at the roadside to keep your shoes and bike clean.",
+                "fr": "Les arômes sont particulièrement intenses après la pluie ; cependant, évitez les flaques au bord de la route pour garder vos chaussures et votre vélo propres."
               }
             },
             {
@@ -612,13 +677,15 @@
                 "de": "Futuroscope-Park",
                 "hu": "Futuroscope Park",
                 "ro": "Parcul Futuroscope",
-                "en": "Futuroscope Park"
+                "en": "Futuroscope Park",
+                "fr": "Parc Futuroscope"
               },
               "tip_5lang": {
                 "de": "Nutzen Sie die zahlreichen überdachten Fahrradständer am Eingang; der Park bietet perfekte Indoor-Attraktionen, um den stärksten Regen trocken zu überstehen.",
                 "hu": "Használja a bejáratnál található számos fedett kerékpártárolót; a park tökéletes benti attrakciókat kínál a leghevesebb eső száraz átvészeléséhez.",
                 "ro": "Folosiți numeroasele rastele de biciclete acoperite de la intrare; parcul oferă atracții interioare perfecte pentru a trece uscat de cea mai puternică ploaie.",
-                "en": "Use the numerous covered bike racks at the entrance; the park offers perfect indoor attractions to survive the heaviest rain dry."
+                "en": "Use the numerous covered bike racks at the entrance; the park offers perfect indoor attractions to survive the heaviest rain dry.",
+                "fr": "Utilisez les nombreux arceaux à vélos couverts à l'entrée ; le parc propose des attractions intérieures parfaites pour affronter la pluie la plus forte au sec."
               }
             },
             {
@@ -626,13 +693,15 @@
                 "de": "Platz der außergewöhnlichen Reisen",
                 "hu": "Rendkívüli Utazások Tere",
                 "ro": "Piața Călătoriilor Extraordinare",
-                "en": "Square of Extraordinary Voyages"
+                "en": "Square of Extraordinary Voyages",
+                "fr": "Place des Voyages Extraordinaires"
               },
               "tip_5lang": {
                 "de": "Vermeiden Sie scharfe Kurven auf dem glatten Pflaster des Platzes; die modernen Gebäude bieten in ihren Eingangsbereichen schnellen Schutz bei Schauern.",
                 "hu": "Kerülje az éles kanyarokat a tér sima burkolatán; a modern épületek bejárati részei gyors menedéket nyújtanak záporok esetén.",
                 "ro": "Evitați virajele strânse pe pavajul neted al pieței; clădirile moderne oferă adăpost rapid în zonele lor de intrare în caz de aversă.",
-                "en": "Avoid sharp turns on the smooth pavement of the square; modern buildings offer quick shelter in their entrance areas during showers."
+                "en": "Avoid sharp turns on the smooth pavement of the square; modern buildings offer quick shelter in their entrance areas during showers.",
+                "fr": "Évitez les virages brusques sur le pavé lisse de la place ; les bâtiments modernes offrent un abri rapide dans leurs entrées lors des averses."
               }
             },
             {
@@ -640,13 +709,15 @@
                 "de": "Die Cirrus-Wolke",
                 "hu": "A Cirrus Felhő",
                 "ro": "Norul Cirrus",
-                "en": "The Cirrus Cloud"
+                "en": "The Cirrus Cloud",
+                "fr": "Le Cirrus"
               },
               "tip_5lang": {
                 "de": "Der Aussichtspunkt kann bei Wind sehr ungemütlich werden; eine wasserdichte Windjacke ist hier unerlässlich für den Genuss des wolkenverhangenen Panoramas.",
                 "hu": "A kilátópont szélben nagyon kényelmetlen lehet; egy vízálló széldzseki itt elengedhetetlen a felhős panoráma élvezetéthez.",
                 "ro": "Punctul de belvedere poate fi foarte inconfortabil pe vânt; o jachetă impermeabilă este esențială aici pentru a savura panorama înnorată.",
-                "en": "The viewpoint can be very uncomfortable in wind; a waterproof windbreaker is essential here for enjoying the cloud-covered panorama."
+                "en": "The viewpoint can be very uncomfortable in wind; a waterproof windbreaker is essential here for enjoying the cloud-covered panorama.",
+                "fr": "Le point de vue peut être très désagréable en cas de vent ; une veste coupe-vent imperméable est essentielle ici pour profiter du panorama sous les nuages."
               }
             }
           ]
@@ -656,7 +727,8 @@
             "de": "Eine winterliche Radtour startet frostig an der Kirche. Wir radeln zügig zur Insel der Riesen, um warm zu bleiben. Die winterliche Promenade führt uns zum Futuroscope, wo wir uns in den Hallen aufwärmen können. Da es gegen 17:00 Uhr dunkel wird, beenden wir die Tour rechtzeitig an der Cirrus-Wolke mit Licht am Rad.",
             "hu": "A téli bringázás fagyosan indul a templomnál. Gyorsan tekerünk az Óriások Szigetéhez, hogy melegen tartsuk magunkat. A téli sétány a Futuroscope-hoz vezet, ahol a csarnokokban felmelegedhetünk. Mivel 17:00 körül sötétedik, a túrát időben befejezzük a Cirrus Felhőnél, bekapcsolt lámpákkal.",
             "ro": "O tură de iarnă cu bicicleta începe înghețată la biserică. Pedalăm vioi spre Insula Uriașilor pentru a ne menține calzi. Promenada hibernală ne duce la Futuroscope, unde ne putem încălzi în hale. Deoarece se întunecă în jur de ora 17:00, încheiem tura la timp la Norul Cirrus cu lumini la bicicletă.",
-            "en": "A winter bike tour starts frostily at the church. We cycle briskly to the Island of Giants to stay warm. The winter promenade leads us to Futuroscope, where we can warm up in the halls. Since it gets dark around 5:00 PM, we finish the tour on time at the Cirrus Cloud with lights on our bikes."
+            "en": "A winter bike tour starts frostily at the church. We cycle briskly to the Island of Giants to stay warm. The winter promenade leads us to Futuroscope, where we can warm up in the halls. Since it gets dark around 5:00 PM, we finish the tour on time at the Cirrus Cloud with lights on our bikes.",
+            "fr": "Une balade à vélo hivernale commence glaciale à l'église. Nous pédalons vivement jusqu'à l'Île des Géants pour rester au chaud. La promenade hivernale nous mène à Futuroscope, où nous pouvons nous réchauffer dans les halls. Comme il fait sombre vers 17:00, nous terminons la sortie à temps au Cirrus avec des lumières sur nos vélos."
           },
           "stops": [
             {
@@ -664,13 +736,15 @@
                 "de": "St.-Denis-Kirche",
                 "hu": "Szent Dénes-templom",
                 "ro": "Biserica Sfântul Denis",
-                "en": "St. Denis Church"
+                "en": "St. Denis Church",
+                "fr": "Église Saint-Denis"
               },
               "tip_5lang": {
                 "de": "Nutzen Sie den windgeschützten Innenhof zum Abstellen der Räder; Thermounterwäsche ist für die anschließende Fahrt durch die kalte Morgenluft sehr zu empfehlen.",
                 "hu": "Használja a szélvédett belső udvart a biciklik tárolására; a termó alsónemű erősen ajánlott a hideg reggeli levegőben való tekeréshez.",
                 "ro": "Folosiți curtea interioară ferită de vânt pentru a lăsa bicicletele; lenjeria termică este recomandată pentru pedalatul în aerul rece de dimineață.",
-                "en": "Use the wind-sheltered inner courtyard to park the bikes; thermal underwear is highly recommended for the subsequent ride through the cold morning air."
+                "en": "Use the wind-sheltered inner courtyard to park the bikes; thermal underwear is highly recommended for the subsequent ride through the cold morning air.",
+                "fr": "Utilisez la cour intérieure abritée du vent pour garer les vélos ; des sous-vêtements thermiques sont fortement recommandés pour la suite de la balade dans l'air froid du matin."
               }
             },
             {
@@ -678,13 +752,15 @@
                 "de": "Insel der Riesen",
                 "hu": "Óriások Szigete",
                 "ro": "Insula Uriașilor",
-                "en": "Island of Giants"
+                "en": "Island of Giants",
+                "fr": "Île des Géants"
               },
               "tip_5lang": {
                 "de": "Achten Sie auf vereiste Stellen unter den Bäumen, wo das Tauwasser gefroren sein könnte; halten Sie die Fahrtzeit kurz, um nicht auszukühlen.",
                 "hu": "Ügyeljen a fák alatti jeges foltokra, ahol az olvadékvíz visszafagyhatott; tartsa rövidre a menetidőt, hogy ne hűljön ki.",
                 "ro": "Atenție la porțiunile înghețate de sub copaci, unde apa topită ar putea fi înghețată; păstrați timpul de mers scurt pentru a nu vă răci.",
-                "en": "Watch out for icy spots under the trees where meltwater might have refrozen; keep the riding time short to avoid getting chilled."
+                "en": "Watch out for icy spots under the trees where meltwater might have refrozen; keep the riding time short to avoid getting chilled.",
+                "fr": "Attention aux plaques de glace sous les arbres où l'eau de fonte a pu regeler ; réduisez le temps de roulage pour éviter d'être refroidi."
               }
             },
             {
@@ -692,13 +768,15 @@
                 "de": "Promenade der Düfte",
                 "hu": "Illatok Sétánya",
                 "ro": "Promenada Parfumurilor",
-                "en": "Promenade of Scents"
+                "en": "Promenade of Scents",
+                "fr": "Promenade des Senteurs"
               },
               "tip_5lang": {
                 "de": "Tragen Sie warme Handschuhe, da der kalte Wind an den Lenkergriffen die Finger schnell taub macht; die kühle Luft lässt die Winterdüfte klar hervortreten.",
                 "hu": "Viseljen meleg kesztyűt, mivel a kormányon lévő hideg szél gyorsan elzsibbasztja az ujjait; a hűvös levegőben tisztábban érezhetők a téli illatok.",
                 "ro": "Purtați mănuși groase, deoarece vântul rece de pe ghidon amorțește rapid degetele; aerul rece face ca mirosurile de iarnă să iasă în evidență.",
-                "en": "Wear warm gloves, as the cold wind on the handlebars quickly numbs fingers; the cool air allows winter scents to stand out clearly."
+                "en": "Wear warm gloves, as the cold wind on the handlebars quickly numbs fingers; the cool air allows winter scents to stand out clearly.",
+                "fr": "Portez des gants chauds, car le vent froid sur le guidon engourdit rapidement les doigts ; l'air frais permet aux senteurs hivernales de se démarquer nettement."
               }
             },
             {
@@ -706,13 +784,15 @@
                 "de": "Futuroscope-Park",
                 "hu": "Futuroscope Park",
                 "ro": "Parcul Futuroscope",
-                "en": "Futuroscope Park"
+                "en": "Futuroscope Park",
+                "fr": "Parc Futuroscope"
               },
               "tip_5lang": {
                 "de": "Der Aufenthalt in den beheizten Themengebäuden ist eine Wohltat; stellen Sie sicher, dass Ihre Fahrradbeleuchtung für den Rückweg einwandfrei funktioniert.",
                 "hu": "A fűtött témaépületekben való tartózkodás valóságos áldás; győződjön meg róla, hogy a kerékpárvilágítása kifogástalanul működik a visszaútra.",
                 "ro": "Șederea în clădirile tematice încălzite este o binecuvântare; asigurați-vă că luminile bicicletei funcționează perfect pentru drumul de întoarcere.",
-                "en": "Staying in the heated theme buildings is a blessing; make sure your bike lighting is working perfectly for the return journey."
+                "en": "Staying in the heated theme buildings is a blessing; make sure your bike lighting is working perfectly for the return journey.",
+                "fr": "Rester dans les bâtiments chauffés du parc est une bénédiction ; assurez-vous que l'éclairage de votre vélo fonctionne parfaitement pour le retour."
               }
             },
             {
@@ -720,13 +800,15 @@
                 "de": "Platz der außergewöhnlichen Reisen",
                 "hu": "Rendkívüli Utazások Tere",
                 "ro": "Piața Călătoriilor Extraordinare",
-                "en": "Square of Extraordinary Voyages"
+                "en": "Square of Extraordinary Voyages",
+                "fr": "Place des Voyages Extraordinaires"
               },
               "tip_5lang": {
                 "de": "Der offene Platz kann im Winter sehr zugig sein; halten Sie hier nur kurz an und nutzen Sie die Bewegung beim Radeln, um die Durchblutung zu fördern.",
                 "hu": "A nyitott tér télen nagyon huzatos lehet; csak rövid ideig álljon meg, és használja a tekerés közbeni mozgást a vérkeringés serkentésére.",
                 "ro": "Piața deschisă poate fi foarte expusă vântului iarna; opriți-vă doar scurt și folosiți mișcarea pedalatului pentru a stimula circulația.",
-                "en": "The open square can be very drafty in winter; stop only briefly and use the movement of cycling to stimulate circulation."
+                "en": "The open square can be very drafty in winter; stop only briefly and use the movement of cycling to stimulate circulation.",
+                "fr": "La place ouverte peut être très venteuse en hiver ; arrêtez-vous seulement brièvement et utilisez le mouvement du vélo pour stimuler la circulation."
               }
             },
             {
@@ -734,13 +816,15 @@
                 "de": "Die Cirrus-Wolke",
                 "hu": "A Cirrus Felhő",
                 "ro": "Norul Cirrus",
-                "en": "The Cirrus Cloud"
+                "en": "The Cirrus Cloud",
+                "fr": "Le Cirrus"
               },
               "tip_5lang": {
                 "de": "Genießen Sie den weiten Blick, bevor die frühe Dunkelheit einsetzt; ein Schlauchtuch schützt Ihr Gesicht vor dem eisigen Fahrtwind bei der Abfahrt.",
                 "hu": "Élvezze a tágas kilátást, mielőtt beállna a korai sötétség; egy csősál megvédi az arcát a jeges menetszéltől a lejtőn való guruláskor.",
                 "ro": "Bucurați-vă de priveliștea largă înainte de lăsarea întunericului; un fular tip tub vă protejează fața de vântul înghețat la coborâre.",
-                "en": "Enjoy the wide view before the early darkness sets in; a neck gaiter protects your face from the icy wind during the descent."
+                "en": "Enjoy the wide view before the early darkness sets in; a neck gaiter protects your face from the icy wind during the descent.",
+                "fr": "Profitez de la vaste vue avant que l'obscurité précoce ne s'installe ; un tour de cou protège votre visage du vent glacé lors de la descente."
               }
             }
           ]
@@ -760,7 +844,8 @@
             "de": "Insel der Riesen",
             "hu": "Óriások Szigete",
             "ro": "Insula Uriașilor",
-            "en": "Island of Giants"
+            "en": "Island of Giants",
+            "fr": "Île des Géants"
           },
           "coords": [
             0.401688,
@@ -775,7 +860,8 @@
             "de": "Spazieren Sie durch diesen weitläufigen Park, der von übergroßen Skulpturen geprägt ist, und tragen Sie bequeme Schuhe für die vielen Feldwege.",
             "hu": "Sétáljon át ezen a hatalmas parkon, amelyet túlméretezett szobrok díszítenek, és viseljen kényelmes cipőt a rengeteg földúthoz.",
             "ro": "Plimbați-vă prin acest parc vast, marcat de sculpturi supradimensionate, și purtați pantofi comozi pentru numeroasele poteci de pământ.",
-            "en": "Stroll through this expansive park characterized by oversized sculptures, and make sure to wear comfortable walking shoes for the many dirt paths."
+            "en": "Stroll through this expansive park characterized by oversized sculptures, and make sure to wear comfortable walking shoes for the many dirt paths.",
+            "fr": "Promenez-vous dans ce parc étendu caractérisé par des sculptures surdimensionnées, et pensez à porter des chaussures de marche confortables pour les nombreux sentiers de terre."
           }
         },
         {
@@ -783,7 +869,8 @@
             "de": "St.-Denis-Kirche",
             "hu": "Szent Dénes-templom",
             "ro": "Biserica Sfântul Denis",
-            "en": "St. Denis Church"
+            "en": "St. Denis Church",
+            "fr": "Église Saint-Denis"
           },
           "coords": [
             0.370873,
@@ -798,7 +885,8 @@
             "de": "Bewundern Sie die historischen Details dieser ruhigen Kirche, die die lokale Geschichte widerspiegelt, und kommen Sie früh, um das beste Morgenlicht einzufangen.",
             "hu": "Csodálja meg a nyugodt templom történelmi részleteit, amelyek a helyi múltat őrzik, és érkezzen korán a legszebb reggeli fényekért.",
             "ro": "Admirați detaliile istorice ale acestei biserici liniștite, o reflectare a trecutului local, și veniți devreme pentru cea mai bună lumină matinală.",
-            "en": "Admire the historical details of this peaceful church, reflecting local heritage, and arrive early to capture the beautiful morning light."
+            "en": "Admire the historical details of this peaceful church, reflecting local heritage, and arrive early to capture the beautiful morning light.",
+            "fr": "Admirez les détails historiques de cette église paisible, reflet du patrimoine local, et arrivez tôt pour capturer la belle lumière matinale."
           }
         },
         {
@@ -806,7 +894,8 @@
             "de": "Promenade der Düfte",
             "hu": "Illatok Sétánya",
             "ro": "Promenada Parfumurilor",
-            "en": "Promenade of Scents"
+            "en": "Promenade of Scents",
+            "fr": "Promenade des Senteurs"
           },
           "coords": [
             0.395301,
@@ -821,7 +910,8 @@
             "de": "Atmen Sie die herrlichen Düfte der vielfältigen Kräuter und Blumen ein und berühren Sie sanft die Blätter, um ihre natürlichen Öle freizusetzen.",
             "hu": "Lélegezze be a változatos fűszernövények és virágok csodás illatát, és óvatosan érintse meg a leveleket a természetes olajok felszabadításához.",
             "ro": "Inspirați parfumurile minunate ale diverselor ierburi și flori și atingeți ușor frunzele pentru a elibera uleiurile lor naturale delicate.",
-            "en": "Breathe in the wonderful scents of diverse herbs and flowers, and gently touch the leaves to release their beautifully fragrant natural oils."
+            "en": "Breathe in the wonderful scents of diverse herbs and flowers, and gently touch the leaves to release their beautifully fragrant natural oils.",
+            "fr": "Respirez les merveilleux parfums de diverses herbes et fleurs, et touchez délicatement les feuilles pour libérer leurs huiles naturelles agréablement odorantes."
           }
         },
         {
@@ -829,7 +919,8 @@
             "de": "Futuroscope-Park",
             "hu": "Futuroscope Park",
             "ro": "Parcul Futuroscope",
-            "en": "Futuroscope Park"
+            "en": "Futuroscope Park",
+            "fr": "Parc Futuroscope"
           },
           "coords": [
             0.3775,
@@ -844,7 +935,8 @@
             "de": "Erleben Sie futuristische Attraktionen, die Technologie und Kunst verschmelzen, und laden Sie die Park-App herunter, um die Wartezeiten im Blick zu haben.",
             "hu": "Élje át a jövőbe mutató attrakciókat, ahol a technológia és a művészet találkozik, és töltse le a park alkalmazását a várakozási idők követéséhez.",
             "ro": "Experimentați atracțiile futuriste unde tehnologia se îmbină cu arta și descărcați aplicația parcului pentru a verifica timpii de așteptare.",
-            "en": "Experience futuristic attractions blending cutting-edge technology and art, and download the official park app to easily track attraction wait times."
+            "en": "Experience futuristic attractions blending cutting-edge technology and art, and download the official park app to easily track attraction wait times.",
+            "fr": "Vivez des attractions futuristes mêlant technologie de pointe et art, et téléchargez l'application officielle du parc pour suivre facilement les temps d'attente des attractions."
           }
         },
         {
@@ -852,7 +944,8 @@
             "de": "Platz der außergewöhnlichen Reisen",
             "hu": "Rendkívüli Utazások Tere",
             "ro": "Piața Călătoriilor Extraordinare",
-            "en": "Square of Extraordinary Voyages"
+            "en": "Square of Extraordinary Voyages",
+            "fr": "Place des Voyages Extraordinaires"
           },
           "coords": [
             0.365746,
@@ -867,7 +960,8 @@
             "de": "Spüren Sie die Abenteuerlust an diesem Platz im Steampunk-Stil, der eine tolle Atmosphäre bietet, und achten Sie auf die aufwendigen mechanischen Details.",
             "hu": "Érezze a kalandvágyat ezen a steampunk stílusú téren, amely lenyűgöző atmoszférát kínál, és figyelje meg a bonyolult mechanikai részleteket.",
             "ro": "Simțiți spiritul de aventură în această piață cu tematică steampunk, care oferă o atmosferă grozavă, și observați detaliile mecanice complicate.",
-            "en": "Feel the spirit of adventure at this steampunk-themed plaza offering a great atmosphere, and pay close attention to the intricate mechanical details."
+            "en": "Feel the spirit of adventure at this steampunk-themed plaza offering a great atmosphere, and pay close attention to the intricate mechanical details.",
+            "fr": "Ressentez l'esprit d'aventure sur cette place au thème steampunk offrant une excellente ambiance, et prêtez une attention particulière aux détails mécaniques complexes."
           }
         },
         {
@@ -875,7 +969,8 @@
             "de": "Auxance-Tal",
             "hu": "Auxance-völgy",
             "ro": "Valea Auxance",
-            "en": "Auxance Valley"
+            "en": "Auxance Valley",
+            "fr": "Vallée de l'Auxance"
           },
           "coords": [
             0.334711,
@@ -890,7 +985,8 @@
             "de": "Erkunden Sie die natürliche Schönheit dieses Flusstals, das reich an lokaler Flora ist, und bringen Sie Insektenspray für Wanderungen am Wasser mit.",
             "hu": "Fedezze fel ennek a folyóvölgynek a természeti szépségét, amely gazdag helyi növényvilágban, és hozzon rovarriasztót a vízparti sétákhoz.",
             "ro": "Explorați frumusețea naturală a acestei văi bogate în floră locală și asigurați-vă că aduceți spray împotriva insectelor pentru plimbările pe malul apei.",
-            "en": "Explore the stunning natural beauty of this river valley rich in local flora, and bring bug spray for comfortable walking near the water's edge."
+            "en": "Explore the stunning natural beauty of this river valley rich in local flora, and bring bug spray for comfortable walking near the water's edge.",
+            "fr": "Explorez la beauté naturelle spectaculaire de cette vallée fluviale riche en flore locale, et apportez un anti-moustique pour marcher confortablement au bord de l'eau."
           }
         }
       ],
@@ -898,7 +994,8 @@
         "de": "Fahren Sie gleich morgens zum Park der majestätischen Riesen und genießen Sie die Größe der Kunstwerke. Besuchen Sie die ruhige lokale Kirche für einen Moment der Besinnung, bevor Sie zu den botanischen Promenaden weiterfahren. Der Nachmittag wird vom riesigen futuristischen Park geprägt, der ein wahres Erlebnis bietet. Fahren Sie schließlich ins ruhige Flusstal, um den Sonnenuntergang zu genießen.",
         "hu": "Autózzon reggel elsőként a fenséges óriások parkjába, és gyönyörködjön a szabadtéri művészet nagyszerűségében. Látogasson el a csendes helyi templomba egy pillanatnyi elmélkedésre, majd induljon a festői botanikus sétányok felé. A délutánt a hatalmas futurisztikus park emeli ki, amely igazi érzékszervi kavalkád. Végül vezessen ki a nyugodt folyóvölgybe, hogy élvezze a természetet naplementekor.",
         "ro": "Conduceți la parcul maiestuos al uriașilor la prima oră a dimineții, admirând scara măreață a artei în aer liber. Mergeți la biserica locală liniștită pentru un moment de reflecție înainte de a vă îndrepta spre promenadele botanice pitorești. După-amiaza este evidențiată de imensul parc futurist, oferind o senzație unică. În cele din urmă, conduceți spre valea râului pentru a vă bucura de natură.",
-        "en": "Drive to the majestic giants' park first thing in the morning, taking in the grand scale of the outdoor art. Proceed to the quiet local church for a moment of reflection before moving towards the scenic botanical promenades. Your afternoon is highlighted by the immense futuristic park, offering a sensory overload. Finally, drive out to the serene river valley to enjoy nature at sunset."
+        "en": "Drive to the majestic giants' park first thing in the morning, taking in the grand scale of the outdoor art. Proceed to the quiet local church for a moment of reflection before moving towards the scenic botanical promenades. Your afternoon is highlighted by the immense futuristic park, offering a sensory overload. Finally, drive out to the serene river valley to enjoy nature at sunset.",
+        "fr": "Conduisez d'abord au parc des Géants tôt le matin pour apprécier l'échelle monumentale de cet art en plein air. Poursuivez vers la tranquille église locale pour un moment de recueillement avant de rejoindre les promenades botaniques panoramiques. Votre après-midi est marquée par l'immense parc futuriste, offrant une surcharge sensorielle. Enfin, roulez jusqu'à la vallée paisible de l'Auxance pour profiter de la nature au coucher du soleil."
       },
       "variants": {
         "rainy": {
@@ -906,7 +1003,8 @@
             "de": "Mit dem Auto erkunden wir die Highlights bequem und trocken. Morgens starten wir auf der Insel der Riesen und fahren dann zur schützenden Kirche. Mittags erreichen wir den Futuroscope-Park, wo wir fast direkt vor den überdachten Eingängen parken können. Den Tag lassen wir im Auxance-Tal ausklingen, während der Regen gegen die Autoscheiben prasselt.",
             "hu": "Autóval kényelmesen és szárazon fedezzük fel a látnivalókat. Reggel az Óriások Szigetén kezdünk, majd a védett templomhoz hajtunk. Délben érjük el a Futuroscope Parkot, ahol szinte közvetlenül a fedett bejáratok előtt parkolhatunk. A napot az Auxance-völgyben zárjuk, miközben az eső kopog az autó szélvédőjén.",
             "ro": "Cu mașina explorăm punctele de interes confortabil și uscat. Dimineața începem pe Insula Uriașilor și mergem apoi la biserica protectoare. La prânz ajungem la Parcul Futuroscope, unde putem parca aproape direct în fața intrărilor acoperite. Încheiem ziua în Valea Auxance, în timp ce ploaia bate în parbrizul mașinii.",
-            "en": "By car, we explore the highlights comfortably and dry. In the morning, we start at the Island of Giants and then drive to the protective church. At noon, we reach Futuroscope Park, where we can park almost directly in front of the covered entrances. we finish the day in the Auxance Valley while rain patters against the car windows."
+            "en": "By car, we explore the highlights comfortably and dry. In the morning, we start at the Island of Giants and then drive to the protective church. At noon, we reach Futuroscope Park, where we can park almost directly in front of the covered entrances. we finish the day in the Auxance Valley while rain patters against the car windows.",
+            "fr": "En voiture, nous explorons les sites principaux confortablement et au sec. Le matin, nous commençons à l'Île des Géants puis roulons vers l'église protectrice. À midi, nous arrivons au parc Futuroscope, où l'on peut se garer presque directement devant les entrées couvertes. Nous terminons la journée dans la vallée de l'Auxance tandis que la pluie tambourine contre les vitres de la voiture."
           },
           "stops": [
             {
@@ -914,13 +1012,15 @@
                 "de": "Insel der Riesen",
                 "hu": "Óriások Szigete",
                 "ro": "Insula Uriașilor",
-                "en": "Island of Giants"
+                "en": "Island of Giants",
+                "fr": "Île des Géants"
               },
               "tip_5lang": {
                 "de": "Nutzen Sie den Parkplatz direkt am Eingang, um den Weg im Regen kurz zu halten; die Aussicht vom trockenen Autoinnenraum auf den Park ist ebenfalls reizvoll.",
                 "hu": "Használja a közvetlenül a bejáratnál lévő parkolót, hogy lerövidítse az esőben megtett utat; a száraz autóból nyíló kilátás a parkra szintén vonzó.",
                 "ro": "Folosiți parcarea direct de la intrare pentru a scurta drumul prin ploaie; priveliștea din interiorul uscat al mașinii spre parc este de asemenea atractivă.",
-                "en": "Use the parking lot directly at the entrance to keep the walk in the rain short; the view from the dry car interior of the park is also attractive."
+                "en": "Use the parking lot directly at the entrance to keep the walk in the rain short; the view from the dry car interior of the park is also attractive.",
+                "fr": "Utilisez le parking situé directement à l'entrée pour garder la marche sous la pluie courte ; la vue depuis l'intérieur sec de la voiture sur le parc est aussi agréable."
               }
             },
             {
@@ -928,13 +1028,15 @@
                 "de": "St.-Denis-Kirche",
                 "hu": "Szent Dénes-templom",
                 "ro": "Biserica Sfântul Denis",
-                "en": "St. Denis Church"
+                "en": "St. Denis Church",
+                "fr": "Église Saint-Denis"
               },
               "tip_5lang": {
                 "de": "Es gibt Parkmöglichkeiten in unmittelbarer Nähe; so erreichen Sie das trockene Kirchenschiff fast ohne nass zu werden, selbst bei starkem Platzregen.",
                 "hu": "A közvetlen közelben vannak parkolási lehetőségek; így szinte elázás nélkül érheti el a száraz templomhajót, még heves felhőszakadás esetén is.",
                 "ro": "Există locuri de parcare în imediata apropiere; astfel ajungeți în nava uscată a bisericii aproape fără să vă udați, chiar și pe ploaie torențială.",
-                "en": "There are parking options in the immediate vicinity; this way you reach the dry church nave almost without getting wet, even in heavy downpours."
+                "en": "There are parking options in the immediate vicinity; this way you reach the dry church nave almost without getting wet, even in heavy downpours.",
+                "fr": "Il y a des possibilités de stationnement à proximité immédiate ; ainsi vous atteignez la nef sèche de l'église presque sans vous mouiller, même en fortes averses."
               }
             },
             {
@@ -942,13 +1044,15 @@
                 "de": "Promenade der Düfte",
                 "hu": "Illatok Sétánya",
                 "ro": "Promenada Parfumurilor",
-                "en": "Promenade of Scents"
+                "en": "Promenade of Scents",
+                "fr": "Promenade des Parfums"
               },
               "tip_5lang": {
                 "de": "Ein kurzer Stop lohnt sich, um die frischen Aromen nach einem Guss einzuatmen; halten Sie im Auto Ersatzschuhe bereit, falls der Boden aufgeweicht ist.",
                 "hu": "Egy rövid megálló megéri, hogy belélegezze a zápor utáni friss aromákat; tartson az autóban váltócipőt, ha a talaj feláztasodott volna.",
                 "ro": "O scurtă oprire merită pentru a respira aromele proaspete după o aversă; păstrați încălțăminte de schimb în mașină în cazul în care solul este moale.",
-                "en": "A short stop is worth it to breathe in the fresh aromas after a shower; keep spare shoes in the car in case the ground is soaked."
+                "en": "A short stop is worth it to breathe in the fresh aromas after a shower; keep spare shoes in the car in case the ground is soaked.",
+                "fr": "Un court arrêt vaut le détour pour respirer les arômes frais après une averse ; gardez des chaussures de rechange dans la voiture au cas où le sol serait imbibé."
               }
             },
             {
@@ -956,13 +1060,15 @@
                 "de": "Futuroscope-Park",
                 "hu": "Futuroscope Park",
                 "ro": "Parcul Futuroscope",
-                "en": "Futuroscope Park"
+                "en": "Futuroscope Park",
+                "fr": "Parc Futuroscope"
               },
               "tip_5lang": {
                 "de": "Der große Parkplatz bietet oft Stellplätze nahe den Shuttles; so gelangen Sie trocken zu den beeindruckenden Indoor-Kinos und Attraktionen des Parks.",
                 "hu": "A nagy parkolóban gyakran találhatunk helyet a transzferjáratok közelében; így szárazon juthat el a park lenyűgöző beltéri mozijaiba és látnivalóihoz.",
                 "ro": "Parcarea mare oferă adesea locuri lângă stațiile de transfer; astfel ajungeți uscat la cinematografele interioare și atracțiile impresionante ale parcului.",
-                "en": "The large parking lot often offers spaces near the shuttles; this way you get to the park's impressive indoor cinemas and attractions dry."
+                "en": "The large parking lot often offers spaces near the shuttles; this way you get to the park's impressive indoor cinemas and attractions dry.",
+                "fr": "Le grand parking offre souvent des places près des navettes ; ainsi vous accédez au sec aux impressionnants cinémas et attractions intérieurs du parc."
               }
             },
             {
@@ -970,13 +1076,15 @@
                 "de": "Platz der außergewöhnlichen Reisen",
                 "hu": "Rendkívüli Utazások Tere",
                 "ro": "Piața Călătoriilor Extraordinare",
-                "en": "Square of Extraordinary Voyages"
+                "en": "Square of Extraordinary Voyages",
+                "fr": "Place des Voyages Extraordinaires"
               },
               "tip_5lang": {
                 "de": "Die Glasfassaden der Gebäude spiegeln das graue Regenwetter auf faszinierende Weise; parken Sie so, dass Sie die moderne Architektur trocken bewundern können.",
                 "hu": "Az épületek üvegfelületei lenyűgöző módon tükrözik a szürke esős időt; úgy parkoljon, hogy szárazon is megcsodálhassa a modern építészetet.",
                 "ro": "Fațadele de sticlă ale clădirilor reflectă vremea gri de ploaie într-un mod fascinant; parcați astfel încât să puteți admira arhitectura modernă la uscat.",
-                "en": "The glass facades of the buildings reflect the gray rainy weather in a fascinating way; park so that you can admire the modern architecture dry."
+                "en": "The glass facades of the buildings reflect the gray rainy weather in a fascinating way; park so that you can admire the modern architecture dry.",
+                "fr": "Les façades vitrées des bâtiments reflètent le temps gris et pluvieux de manière fascinante ; garez-vous pour pouvoir admirer l'architecture moderne au sec."
               }
             },
             {
@@ -984,13 +1092,15 @@
                 "de": "Auxance-Tal",
                 "hu": "Auxance-völgy",
                 "ro": "Valea Auxance",
-                "en": "Auxance Valley"
+                "en": "Auxance Valley",
+                "fr": "Vallée de l'Auxance"
               },
               "tip_5lang": {
                 "de": "Die Fahrt durch das neblige Tal ist sehr atmosphärisch; bleiben Sie auf den Hauptwegen, da unbefestigte Seitenstreifen bei Regen stark aufweichen können.",
                 "hu": "A ködös völgyön való áthajtás nagyon hangulatos; maradjon a főutakon, mivel a nem burkolt padkák esőben erősen felázhatnak.",
                 "ro": "Drumul prin valea cețoasă este foarte atmosferic; rămâneți pe drumurile principale, deoarece marginile neasfaltate se pot înmuia puternic pe ploaie.",
-                "en": "Driving through the misty valley is very atmospheric; stay on main roads, as unpaved shoulders can become very soft in the rain."
+                "en": "Driving through the misty valley is very atmospheric; stay on main roads, as unpaved shoulders can become very soft in the rain.",
+                "fr": "Traverser la vallée embrumée est très atmosphérique ; restez sur les routes principales, car les accotements non revêtus peuvent devenir très mous sous la pluie."
               }
             }
           ]
@@ -1000,7 +1110,8 @@
             "de": "Im beheizten Auto genießen wir die winterliche Landschaft von Jaunay-Marigny. Wir besuchen die Insel der Riesen und die frostige Kirche bei wohliger Innentemperatur. Mittags bietet das Futuroscope Wärme und Unterhaltung. Bevor es um 17:00 Uhr dunkel wird, befahren wir das malerische Auxance-Tal und genießen die winterliche Ruhe.",
             "hu": "A fűtött autóban élvezzük Jaunay-Marigny téli tájait. Meglátogatjuk az Óriások Szigetét és a fagyos templomot kellemes belső hőmérséklet mellett. Délben a Futuroscope nyújt meleget és szórakozást. Mielőtt 17:00-kor besötétedne, áthajtunk a festői Auxance-völgyön, élvezve a téli nyugalmat.",
             "ro": "În mașina încălzită ne bucurăm de peisajele hibernale din Jaunay-Marigny. Vizităm Insula Uriașilor și biserica înghețată la o temperatură interioară plăcută. La prânz, Futuroscope oferă căldură și divertisment. Înainte de a se întuneca la ora 17:00, parcurgem pitoreasca Vale Auxance, savurând liniștea iernii.",
-            "en": "In a heated car, we enjoy the winter landscapes of Jaunay-Marigny. We visit the Island of Giants and the frosty church at a pleasant interior temperature. At noon, Futuroscope provides warmth and entertainment. Before it gets dark at 5:00 PM, we drive through the picturesque Auxance Valley, enjoying the winter peace."
+            "en": "In a heated car, we enjoy the winter landscapes of Jaunay-Marigny. We visit the Island of Giants and the frosty church at a pleasant interior temperature. At noon, Futuroscope provides warmth and entertainment. Before it gets dark at 5:00 PM, we drive through the picturesque Auxance Valley, enjoying the winter peace.",
+            "fr": "Dans une voiture chauffée, nous profitons des paysages hivernaux de Jaunay-Marigny. Nous visitons l'Île des Géants et l'église givrée à une température intérieure agréable. À midi, le Futuroscope procure chaleur et divertissement. Avant la tombée de la nuit à 17:00, nous traversons la pittoresque vallée de l'Auxance, profitant de la paix hivernale."
           },
           "stops": [
             {
@@ -1008,13 +1119,15 @@
                 "de": "Insel der Riesen",
                 "hu": "Óriások Szigete",
                 "ro": "Insula Uriașilor",
-                "en": "Island of Giants"
+                "en": "Island of Giants",
+                "fr": "Île des Géants"
               },
               "tip_5lang": {
                 "de": "Die kahlen Bäume geben den Blick auf Strukturen frei, die im Sommer verborgen sind; nutzen Sie die Standheizung beim kurzen Fotostopp am Straßenrand.",
                 "hu": "A kopasz fák olyan struktúrákat tesznek láthatóvá, amelyek nyáron rejtve maradnak; használja az állóhelyzeti fűtést a rövid fotómegálló alatt az út szélén.",
                 "ro": "Copacii golași dezvăluie structuri care sunt ascunse vara; folosiți încălzirea auxiliară în timpul scurtului popas foto de la marginea drumului.",
-                "en": "The bare trees reveal structures that are hidden in summer; use the stationary heating during a short photo stop at the roadside."
+                "en": "The bare trees reveal structures that are hidden in summer; use the stationary heating during a short photo stop at the roadside.",
+                "fr": "Les arbres dépouillés révèlent des structures cachées en été ; utilisez le chauffage stationnaire lors d'un court arrêt photo en bord de route."
               }
             },
             {
@@ -1022,13 +1135,15 @@
                 "de": "St.-Denis-Kirche",
                 "hu": "Szent Dénes-templom",
                 "ro": "Biserica Sfântul Denis",
-                "en": "St. Denis Church"
+                "en": "St. Denis Church",
+                "fr": "Église Saint-Denis"
               },
               "tip_5lang": {
                 "de": "Ein kurzer Spaziergang vom Parkplatz zur Kirche erfrischt, bevor man die Stille im Inneren genießt; achten Sie auf Glatteis auf den Gehwegen.",
                 "hu": "Egy rövid séta a parkolótól a templomig felfrissít, mielőtt élvezné a benti csendet; ügyeljen a járdákon előforduló jegesedésre.",
                 "ro": "O scurtă plimbare de la parcare la biserică vă reîmprospătează înainte de a savura liniștea din interior; atenție la polei pe trotuare.",
-                "en": "A short walk from the parking lot to the church refreshes you before enjoying the silence inside; watch out for black ice on the sidewalks."
+                "en": "A short walk from the parking lot to the church refreshes you before enjoying the silence inside; watch out for black ice on the sidewalks.",
+                "fr": "Une courte marche depuis le parking jusqu'à l'église vous rafraîchit avant d'apprécier le silence à l'intérieur ; méfiez-vous du verglas sur les trottoirs."
               }
             },
             {
@@ -1036,13 +1151,15 @@
                 "de": "Promenade der Düfte",
                 "hu": "Illatok Sétánya",
                 "ro": "Promenada Parfumurilor",
-                "en": "Promenade of Scents"
+                "en": "Promenade of Scents",
+                "fr": "Promenade des Parfums"
               },
               "tip_5lang": {
                 "de": "Genießen Sie die klare, kalte Luft bei einem kurzen Ausstieg; halten Sie eine Decke im Auto bereit, um sich nach dem Aufenthalt im Freien schnell aufzuwärmen.",
                 "hu": "Élvezze a tiszta, hideg levegőt egy rövid kiszállás erejéig; tartson takarót az autóban, hogy a kinti tartózkodás után gyorsan felmelegedhessen.",
                 "ro": "Bucurați-vă de aerul curat și rece la o scurtă coborâre; păstrați o pătură în mașină pentru a vă încălzi rapid după șederea afară.",
-                "en": "Enjoy the clear, cold air during a short exit; keep a blanket in the car to warm up quickly after being outdoors."
+                "en": "Enjoy the clear, cold air during a short exit; keep a blanket in the car to warm up quickly after being outdoors.",
+                "fr": "Profitez de l'air clair et froid lors d'une brève sortie ; gardez une couverture dans la voiture pour vous réchauffer rapidement après être resté dehors."
               }
             },
             {
@@ -1050,13 +1167,15 @@
                 "de": "Futuroscope-Park",
                 "hu": "Futuroscope Park",
                 "ro": "Parcul Futuroscope",
-                "en": "Futuroscope Park"
+                "en": "Futuroscope Park",
+                "fr": "Parc Futuroscope"
               },
               "tip_5lang": {
                 "de": "Parken Sie im Winter bevorzugt in beleuchteten Bereichen; der Park ist in der dunklen Jahreszeit oft wunderschön illuminiert, was man bei der Abfahrt sieht.",
                 "hu": "Télen előnyösen parkoljon a kivilágított területeken; a park a sötét évszakban gyakran gyönyörűen megvilágított, ami elinduláskor jól látszik.",
                 "ro": "Iarna, parcați de preferință în zonele iluminate; parcul este adesea superb iluminat în sezonul rece, ceea ce se vede la plecare.",
-                "en": "In winter, preferably park in illuminated areas; the park is often beautifully lit during the dark season, which is visible upon departure."
+                "en": "In winter, preferably park in illuminated areas; the park is often beautifully lit during the dark season, which is visible upon departure.",
+                "fr": "En hiver, garez-vous de préférence dans des zones éclairées ; le parc est souvent magnifiquement illuminé pendant la saison sombre, ce qui se voit au départ."
               }
             },
             {
@@ -1064,13 +1183,15 @@
                 "de": "Platz der außergewöhnlichen Reisen",
                 "hu": "Rendkívüli Utazások Tere",
                 "ro": "Piața Călătoriilor Extraordinare",
-                "en": "Square of Extraordinary Voyages"
+                "en": "Square of Extraordinary Voyages",
+                "fr": "Place des Voyages Extraordinaires"
               },
               "tip_5lang": {
                 "de": "Die Architektur wirkt bei tiefstehender Wintersonne besonders plastisch; nutzen Sie die Sitzheizung, während Sie die Aussicht vom Fahrersitz genießen.",
                 "hu": "Az építészet a mélyen járó téli napnál különösen plasztikusnak tűnik; használja az ülésfűtést, miközben a vezetőülésből élvezi a kilátást.",
                 "ro": "Arhitectura pare deosebit de plastică sub soarele de iarnă jos; folosiți încălzirea în scaune în timp ce savurați priveliștea de la volan.",
-                "en": "The architecture looks particularly sculptural with the low winter sun; use the seat heating while enjoying the view from the driver's seat."
+                "en": "The architecture looks particularly sculptural with the low winter sun; use the seat heating while enjoying the view from the driver's seat.",
+                "fr": "L'architecture paraît particulièrement sculpturale avec le soleil bas de l'hiver ; utilisez le chauffage des sièges tout en profitant de la vue depuis le siège du conducteur."
               }
             },
             {
@@ -1078,13 +1199,15 @@
                 "de": "Auxance-Tal",
                 "hu": "Auxance-völgy",
                 "ro": "Valea Auxance",
-                "en": "Auxance Valley"
+                "en": "Auxance Valley",
+                "fr": "Vallée de l'Auxance"
               },
               "tip_5lang": {
                 "de": "Die winterliche Landschaft des Tals ist bei Sonnenuntergang gegen 16:45 Uhr am schönsten; achten Sie auf Wildwechsel in der frühen Dämmerung.",
                 "hu": "A völgy téli tája naplementekor, 16:45 körül a legszebb; figyeljen a vadon élő állatokra a korai szürkületben.",
                 "ro": "Peisajul hibernal al văii este cel mai frumos la apus, în jur de 16:45; atenție la animalele sălbatice în amurgul timpuriu.",
-                "en": "The valley's winter landscape is most beautiful at sunset around 4:45 PM; watch out for wildlife in the early twilight."
+                "en": "The valley's winter landscape is most beautiful at sunset around 4:45 PM; watch out for wildlife in the early twilight.",
+                "fr": "Le paysage hivernal de la vallée est le plus beau au coucher du soleil vers 16:45 ; méfiez-vous de la faune au crépuscule naissant."
               }
             }
           ]

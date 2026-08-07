@@ -21,7 +21,8 @@
             "de": "Parc du Prieuré",
             "hu": "Parc du Prieuré",
             "ro": "Parc du Prieuré",
-            "en": "Prieuré Park"
+            "en": "Prieuré Park",
+            "fr": "Prieuré Park"
           },
           "coords": [
             2.417663,
@@ -36,7 +37,8 @@
             "de": "Genießen Sie einen entspannenden Spaziergang durch das historische Grün des Prieuré-Parks, der sich ideal für eine Pause eignet, also bringen Sie bequeme Schuhe mit.",
             "hu": "Élvezze a pihentető sétát a történelmi Prieuré park zöldjében, amely tökéletes helyszín a csendes reggeli pihenéshez, ezért mindenképpen kényelmes cipőben érkezzen.",
             "ro": "Bucurați-vă de o plimbare relaxantă prin verdeața istorică a Parcului Prieuré, un loc perfect pentru o pauză de dimineață, așa că purtați pantofi comozi de mers.",
-            "en": "Enjoy a relaxing stroll through the historic greenery of Prieuré Park, an ideal spot for a peaceful morning break with well-kept paths, so bring comfortable walking shoes."
+            "en": "Enjoy a relaxing stroll through the historic greenery of Prieuré Park, an ideal spot for a peaceful morning break with well-kept paths, so bring comfortable walking shoes.",
+            "fr": "Profitez d’une promenade relaxante à travers le verdure historique du Prieuré, un endroit idéal pour une pause matinale paisible avec des chemins bien entretenus ; apportez des chaussures de marche confortables."
           }
         },
         {
@@ -44,7 +46,8 @@
             "de": "Église Saint-Leufroy",
             "hu": "Église Saint-Leufroy",
             "ro": "Église Saint-Leufroy",
-            "en": "Église Saint-Leufroy"
+            "en": "Église Saint-Leufroy",
+            "fr": "Église Saint-Leufroy"
           },
           "coords": [
             2.429914,
@@ -59,7 +62,8 @@
             "de": "Entdecken Sie die zeitlose Architektur der Église Saint-Leufroy, die das lokale Erbe widerspiegelt, und bewundern Sie die steinerne Fassade im sanften Morgenlicht.",
             "hu": "Fedezze fel az Église Saint-Leufroy helyi örökséget tükröző, időtlen építészetét, és szánjon egy percet arra, hogy megcsodálja lenyűgöző kőhomlokzatát a reggeli fényben.",
             "ro": "Descoperiți arhitectura atemporală a Bisericii Saint-Leufroy, reflectând moștenirea locală bogată, și faceți-vă timp să admirați fațada sa de piatră în lumina dimineții.",
-            "en": "Discover the timeless architecture of Église Saint-Leufroy, reflecting the rich local heritage, and take a moment to admire its beautiful stone façade in the morning light."
+            "en": "Discover the timeless architecture of Église Saint-Leufroy, reflecting the rich local heritage, and take a moment to admire its beautiful stone façade in the morning light.",
+            "fr": "Découvrez l’architecture intemporelle de l’Église Saint‑Leufroy, reflet du riche patrimoine local, et prenez un moment pour admirer sa belle façade en pierre à la lumière du matin."
           }
         },
         {
@@ -67,7 +71,8 @@
             "de": "Église du Christ-Ressuscité",
             "hu": "Église du Christ-Ressuscité",
             "ro": "Église du Christ-Ressuscité",
-            "en": "Église du Christ-Ressuscité"
+            "en": "Église du Christ-Ressuscité",
+            "fr": "Église du Christ-Ressuscité"
           },
           "coords": [
             2.436259,
@@ -82,7 +87,8 @@
             "de": "Besuchen Sie die Église du Christ-Ressuscité, um ihren modernen architektonischen Ansatz zu schätzen, und achten Sie besonders auf die interessanten Details im Innenraum.",
             "hu": "Látogasson el a modern építészeti megközelítést bemutató Église du Christ-Ressuscité templomba, ahol érdemes megfigyelni az egyedi hangulatú belső tér különleges részleteit.",
             "ro": "Vizitați Église du Christ-Ressuscité pentru a aprecia abordarea sa arhitecturală modernă, oferind o atmosferă spirituală unică, și căutați detaliile interioare interesante.",
-            "en": "Visit the Église du Christ-Ressuscité to appreciate its modern architectural approach, offering a unique spiritual atmosphere, and look for the interesting interior details."
+            "en": "Visit the Église du Christ-Ressuscité to appreciate its modern architectural approach, offering a unique spiritual atmosphere, and look for the interesting interior details.",
+            "fr": "Visitez l’Église du Christ‑Ressuscité pour apprécier son approche architecturale moderne, offrant une atmosphère spirituelle unique, et cherchez les détails intérieurs intéressants."
           }
         },
         {
@@ -90,7 +96,8 @@
             "de": "Église Notre-Dame",
             "hu": "Église Notre-Dame",
             "ro": "Église Notre-Dame",
-            "en": "Église Notre-Dame"
+            "en": "Église Notre-Dame",
+            "fr": "Église Notre-Dame"
           },
           "coords": [
             2.443098,
@@ -105,7 +112,8 @@
             "de": "Treten Sie in die Église Notre-Dame ein, um ihre ruhige Atmosphäre zu erleben, und achten Sie unbedingt auf die wunderschön erhaltenen Buntglasfenster im Inneren.",
             "hu": "Lépjen be az Église Notre-Dame épületébe, és élvezze a békés hangulatot, miközben különös figyelmet szentel a gyönyörűen megőrzött, színpompás ólomüveg ablakoknak.",
             "ro": "Pășiți în Biserica Notre-Dame pentru a experimenta ambianța sa senină și semnificația istorică, asigurându-vă că observați vitraliile frumos conservate din interior.",
-            "en": "Step into Église Notre-Dame to experience its serene ambiance and historical significance, making sure to notice the beautifully preserved stained glass windows inside."
+            "en": "Step into Église Notre-Dame to experience its serene ambiance and historical significance, making sure to notice the beautifully preserved stained glass windows inside.",
+            "fr": "Pénétrez dans l’Église Notre‑Dame pour ressentir son ambiance sereine et son importance historique, en veillant à remarquer les vitraux magnifiquement préservés à l’intérieur."
           }
         },
         {
@@ -113,7 +121,8 @@
             "de": "Burg Montataire",
             "hu": "Montataire-i kastély",
             "ro": "Castelul Montataire",
-            "en": "Montataire Castle"
+            "en": "Montataire Castle",
+            "fr": "Montataire Castle"
           },
           "coords": [
             2.444229,
@@ -128,7 +137,8 @@
             "de": "Erkunden Sie die imposante Burg Montataire, ein Symbol der Verteidigungsgeschichte, wo der sanfte Aufstieg mit einem herrlichen Panoramablick auf die Gegend belohnt wird.",
             "hu": "Fedezze fel az impozáns Montataire-i kastélyt, a város védelmi múltjának szimbólumát, ahol a domboldalon felkapaszkodva csodálatos panorámás kilátás nyílik a környékre.",
             "ro": "Explorați impunătorul Castel Montataire, un simbol al trecutului defensiv al orașului, unde urcarea pe dealurile line vă răsplătește cu o vedere panoramică minunată.",
-            "en": "Explore the imposing Montataire Castle, a symbol of the town's defensive past, where climbing up the gentle hills rewards you with a wonderful panoramic view of the area."
+            "en": "Explore the imposing Montataire Castle, a symbol of the town's defensive past, where climbing up the gentle hills rewards you with a wonderful panoramic view of the area.",
+            "fr": "Explorez l’imposant château de Montataire, symbole du passé défensif de la ville, où gravir les douces collines vous récompense d’une superbe vue panoramique sur la région."
           }
         }
       ],
@@ -136,7 +146,8 @@
         "de": "Morning: Wir beginnen unsere Erkundungstour in der ruhigen und grünen Umgebung, wo wir tief durchatmen und die schönen Erholungs- und Naturräume der charmanten Stadt schätzen können.\nMidday: Die Reise verlagert sich in den historischen Kern und enthüllt architektonische Juwelen und religiöse Stätten, die die Zeit überdauert haben und Einblicke in das lokale Erbe bieten.\nAfternoon: Unser Abenteuer führt uns hinauf zu den majestätischen Festungsanlagen der Stadt, wo atemberaubende Aussichten und jahrhundertelange Geschichte ein unvergessliches Erlebnis schaffen.\nEvening: Wenn der Tag sanft ausklingt, schließen wir mit einem großen Finale auf einem eleganten Anwesen ab und denken an die reiche aristokratische Vergangenheit der schönen Region.",
         "hu": "Morning: Felfedezésünket a nyugodt és zöldellő környezetben kezdjük, ahol friss levegőt szívva élvezhetjük a bájos város rekreációs és természeti terei által nyújtott békés kikapcsolódást.\nMidday: Az utazás a történelmi központ felé halad, felfedve azokat az építészeti gyöngyszemeket és vallási helyszíneket, amelyek kiállták az idő próbáját, és betekintést nyújtanak a helyi örökségbe.\nAfternoon: Kalandunk egyre feljebb vezet minket a város fenséges erődítményeihez, ahol a lenyűgöző kilátás és az évszázados történelem összefonódva igazán felejthetetlen élményt teremt.\nEvening: Ahogy a nap lassan a végéhez közeledik, egy elegáns birtokon tartott nagyszerű fináléval zárjuk a túrát, felidézve a régió gazdag arisztokratikus múltját, mielőtt visszatérnénk pihenni.",
         "ro": "Morning: Ne începem explorarea în împrejurimile calme și înverzite, respirând aer proaspăt în timp ce apreciem dedicarea fermecătorului oraș pentru spațiile sale naturale de recreere.\nMidday: Călătoria se îndreaptă spre centrul istoric, dezvăluind bijuterii arhitecturale și locuri religioase care au rezistat testului timpului, oferind o privire asupra moștenirii locale.\nAfternoon: Aventura ne duce mai sus către fortificațiile maiestuoase ale orașului, unde priveliștile uimitoare și secolele de istorie converg pentru a crea o experiență de neuitat.\nEvening: Pe măsură ce ziua se încheie încet, încheiem cu un final grandios la o moșie elegantă, reflectând la bogatul trecut aristocratic al regiunii înainte de a ne relaxa.",
-        "en": "Morning: We begin our exploration in the calm and verdant surroundings, taking deep breaths of fresh air while appreciating the town's dedication to its recreational and natural spaces.\nMidday: The journey shifts towards the historical core, revealing architectural gems and religious sites that have withstood the test of time, offering a glimpse into local heritage.\nAfternoon: Our adventure takes us higher up towards the town's majestic fortifications, where stunning views and centuries of history converge to create an unforgettable experience.\nEvening: As the day gently winds down, we conclude with a grand finale at an elegant estate, reflecting on the region's rich aristocratic past before heading back to relax."
+        "en": "Morning: We begin our exploration in the calm and verdant surroundings, taking deep breaths of fresh air while appreciating the town's dedication to its recreational and natural spaces.\nMidday: The journey shifts towards the historical core, revealing architectural gems and religious sites that have withstood the test of time, offering a glimpse into local heritage.\nAfternoon: Our adventure takes us higher up towards the town's majestic fortifications, where stunning views and centuries of history converge to create an unforgettable experience.\nEvening: As the day gently winds down, we conclude with a grand finale at an elegant estate, reflecting on the region's rich aristocratic past before heading back to relax.",
+        "fr": "Matin : Nous commençons notre exploration dans des environs calmes et verdoyants, respirant l’air frais tout en appréciant l’attention de la ville pour ses espaces récréatifs et naturels.\nMidi : Le parcours se tourne vers le cœur historique, révélant des joyaux architecturaux et des lieux de culte qui ont résisté à l’épreuve du temps, offrant un aperçu du patrimoine local.\nAprès‑midi : Notre aventure nous mène plus haut vers les majestueuses fortifications de la ville, où vues splendides et siècles d’histoire convergent pour créer une expérience inoubliable.\nSoir : À mesure que la journée s’achève en douceur, nous concluons avec un final dans un élégant domaine, en contemplant le riche passé aristocratique de la région avant de rentrer pour nous détendre."
       },
       "variants": {
         "rainy": {
@@ -144,7 +155,8 @@
             "de": "Beginnen Sie Ihren regnerischen Spaziergang in Montataire mit einem guten Regenschirm. Im Park sind wasserfeste Schuhe unerlässlich. Suchen Sie mittags Schutz in den historischen Kirchen und bewundern Sie die düstere Atmosphäre. Der Nachmittag endet an der Burg, deren dicke Steinmauern perfekten Schutz vor den Schauern bieten.",
             "hu": "Kezdje esős montataire-i sétáját vízálló felszereléssel. A park nedves ösvényein jó hasznát veszi a stabil cipőnek. Délben keressen menedéket a történelmi templomokban, ahol a borús fények kiemelik az üvegablakokat. A délután a kastélynál zárul, melynek vastag kőfalai kiváló védelmet nyújtanak a zivatarok elől.",
             "ro": "Începeți plimbarea ploioasă din Montataire cu o umbrelă robustă. Aleile umede ale parcului necesită încălțăminte impermeabilă. La prânz, adăpostiți-vă în bisericile istorice, admirând vitraliile sub cerul înnorat. După-amiaza se încheie la castel, unde zidurile groase de piatră oferă un refugiu excelent împotriva ploii.",
-            "en": "Start your rainy walk in Montataire well-equipped with an umbrella. The park's wet leaves require sturdy waterproof shoes. By noon, take shelter in the historic churches, admiring their stained glass under dramatic skies. The afternoon concludes at the castle, where the thick stone walls provide an excellent retreat from the downpours."
+            "en": "Start your rainy walk in Montataire well-equipped with an umbrella. The park's wet leaves require sturdy waterproof shoes. By noon, take shelter in the historic churches, admiring their stained glass under dramatic skies. The afternoon concludes at the castle, where the thick stone walls provide an excellent retreat from the downpours.",
+            "fr": "Commencez votre promenade pluvieuse à Montataire bien équipé d’un parapluie. Les feuilles mouillées du parc demandent des chaussures imperméables robustes. À midi, abritez‑vous dans les églises historiques en admirant leurs vitraux sous un ciel dramatique. L’après‑midi se termine au château, où les épaisses murailles de pierre offrent un excellent refuge contre les averses."
           },
           "stops": [
             {
@@ -152,13 +164,15 @@
                 "de": "Parc du Prieuré",
                 "hu": "Parc du Prieuré",
                 "ro": "Parc du Prieuré",
-                "en": "Prieuré Park"
+                "en": "Prieuré Park",
+                "fr": "Prieuré Park"
               },
               "tip_5lang": {
                 "de": "Das nasse Grün ist intensiv, aber die Wege sind schlammig; tragen Sie wasserdichte Stiefel für diesen Park.",
                 "hu": "A nedves növényzet gyönyörű, de az ösvények sarasak lehetnek; viseljen vízálló bakancsot a biztonságos sétához.",
                 "ro": "Verdeața umedă este vibrantă, dar aleile pot fi noroioase; purtați cizme impermeabile pentru a explora parcul.",
-                "en": "The wet greenery is vibrant, but pathways can be muddy; wear waterproof boots to safely navigate the park."
+                "en": "The wet greenery is vibrant, but pathways can be muddy; wear waterproof boots to safely navigate the park.",
+                "fr": "La verdure humide est vibrante, mais les chemins peuvent être boueux ; portez des bottes imperméables pour parcourir le parc en toute sécurité."
               }
             },
             {
@@ -166,13 +180,15 @@
                 "de": "Église Saint-Leufroy",
                 "hu": "Église Saint-Leufroy",
                 "ro": "Église Saint-Leufroy",
-                "en": "Église Saint-Leufroy"
+                "en": "Église Saint-Leufroy",
+                "fr": "Église Saint-Leufroy"
               },
               "tip_5lang": {
                 "de": "Suchen Sie drinnen Schutz, bewundern Sie die Architektur und trocknen Sie sich von den morgendlichen Schauern ab.",
                 "hu": "Keressen menedéket odabent a lenyűgöző építészet megcsodálására, és szánjon időt a reggeli záporok utáni megszáradásra.",
                 "ro": "Adăpostiți-vă înăuntru pentru a admira arhitectura, luându-vă un moment pentru a vă usca după ploile matinale.",
-                "en": "Seek shelter inside to admire the architecture, taking a moment to dry off from the morning showers."
+                "en": "Seek shelter inside to admire the architecture, taking a moment to dry off from the morning showers.",
+                "fr": "Cherchez un abri à l’intérieur pour admirer l’architecture, en prenant un moment pour vous sécher après les averses du matin."
               }
             },
             {
@@ -180,13 +196,15 @@
                 "de": "Église du Christ-Ressuscité",
                 "hu": "Église du Christ-Ressuscité",
                 "ro": "Église du Christ-Ressuscité",
-                "en": "Église du Christ-Ressuscité"
+                "en": "Église du Christ-Ressuscité",
+                "fr": "Église du Christ-Ressuscité"
               },
               "tip_5lang": {
                 "de": "Die modernen Linien dieser Kirche bieten eine trockene Pause; halten Sie Ihren Schirm für die Wege griffbereit.",
                 "hu": "A templom modern vonalai száraz menedéket nyújtanak; tartsa kéznél az esernyőjét a helyszínek között.",
                 "ro": "Liniile moderne ale acestei biserici oferă un refugiu uscat; țineți umbrela la îndemână între opriri.",
-                "en": "The modern lines of this church offer a dry respite; keep your umbrella handy as you move between sites."
+                "en": "The modern lines of this church offer a dry respite; keep your umbrella handy as you move between sites.",
+                "fr": "Les lignes modernes de cette église offrent un refuge sec ; gardez votre parapluie à portée de main en vous déplaçant entre les sites."
               }
             },
             {
@@ -194,13 +212,15 @@
                 "de": "Église Notre-Dame",
                 "hu": "Église Notre-Dame",
                 "ro": "Église Notre-Dame",
-                "en": "Église Notre-Dame"
+                "en": "Église Notre-Dame",
+                "fr": "Église Notre-Dame"
               },
               "tip_5lang": {
                 "de": "Genießen Sie die ruhige Atmosphäre drinnen als Regenschutz; die Akustik ist bei Schauern besonders schön.",
                 "hu": "Élvezze a békés belső hangulatot az eső elől menekülve; az akusztika lenyűgöző egy-egy zivatar idején.",
                 "ro": "Bucurați-vă de atmosfera senină din interior, scăpând de ploaie; acustica este superbă în timpul rafalelor.",
-                "en": "Enjoy the serene atmosphere inside while escaping the rain; the acoustics sound beautiful during a downpour."
+                "en": "Enjoy the serene atmosphere inside while escaping the rain; the acoustics sound beautiful during a downpour.",
+                "fr": "Profitez de l’atmosphère sereine à l’intérieur en fuyant la pluie ; l’acoustique est magnifique pendant une averse."
               }
             },
             {
@@ -208,13 +228,15 @@
                 "de": "Burg Montataire",
                 "hu": "Montataire-i kastély",
                 "ro": "Castelul Montataire",
-                "en": "Montataire Castle"
+                "en": "Montataire Castle",
+                "fr": "Montataire Castle"
               },
               "tip_5lang": {
                 "de": "Erkunden Sie die imposanten Innenräume, wo dicke Mauern Sie perfekt vor dem nassen und windigen Wetter schützen.",
                 "hu": "Fedezze fel az impozáns belső tereket, ahol a vastag falak teljesen megvédik az esős és szeles időjárástól.",
                 "ro": "Explorați spațiile interioare impunătoare, unde zidurile groase vă protejează complet de vremea ploioasă și vânt.",
-                "en": "Explore the imposing interior spaces where the thick walls completely shield you from the rainy and windy weather."
+                "en": "Explore the imposing interior spaces where the thick walls completely shield you from the rainy and windy weather.",
+                "fr": "Explorez les espaces intérieurs imposants où les murs épais vous protègent complètement du vent et de la pluie."
               }
             }
           ]
@@ -224,7 +246,8 @@
             "de": "Ziehen Sie sich warm an für einen Winterspaziergang durch Montataire. Frostige Morgen im Park sind magisch, erfordern aber Thermokleidung. Mittags bieten die Kirchen eine willkommene Pause vor der Kälte. Beenden Sie Ihre Tour vor 17:00 Uhr an der Burg und genießen Sie die Silhouette in der frühen Winterdämmerung.",
             "hu": "Öltözzön fel melegen egy frissítő téli sétához Montataire-ben. A fagyos reggelek a parkban varázslatosak, de réteges ruházatot igényelnek. Délben a helyi templomok védett belső terei hívogató szünetet adnak a metsző hidegben. Fejezze be túráját a kastélynál 17:00 óra előtt, megcsodálva a sziluettjét a korai sötétedésben.",
             "ro": "Îmbrăcați-vă gros pentru o plimbare revigorantă de iarnă prin Montataire. Diminețile geroase în parc sunt magice, dar necesită haine groase. La prânz, interioarele bisericilor oferă o pauză binevenită de la frigul tăios. Încheiați turul la castel înainte de ora 17:00, admirând silueta sa în amurgul timpuriu de iarnă.",
-            "en": "Wrap up warmly for a brisk winter walk through Montataire. Frosty mornings in the park are magical but require thermal layers. By midday, the heated interiors of the local churches offer a welcoming pause from the biting cold. Conclude your tour at the castle before 17:00, enjoying the medieval silhouette against the early winter twilight."
+            "en": "Wrap up warmly for a brisk winter walk through Montataire. Frosty mornings in the park are magical but require thermal layers. By midday, the heated interiors of the local churches offer a welcoming pause from the biting cold. Conclude your tour at the castle before 17:00, enjoying the medieval silhouette against the early winter twilight.",
+            "fr": "Couvrez‑vous chaudement pour une promenade hivernale vivifiante à travers Montataire. Les matins givrés au parc sont magiques mais exigent des couches thermiques. À midi, les intérieurs chauffés des églises locales offrent une pause accueillante contre le froid mordant. Concluez votre visite au château avant 17:00, en profitant du profil médiéval contre le crépuscule hivernal précoce."
           },
           "stops": [
             {
@@ -232,13 +255,15 @@
                 "de": "Parc du Prieuré",
                 "hu": "Parc du Prieuré",
                 "ro": "Parc du Prieuré",
-                "en": "Prieuré Park"
+                "en": "Prieuré Park",
+                "fr": "Prieuré Park"
               },
               "tip_5lang": {
                 "de": "Spazieren Sie auf den frostigen Wegen in der klaren Luft; ein warmer Schal und Handschuhe sind morgens wichtig.",
                 "hu": "Sétáljon a dérrel borított ösvényeken a friss levegőn; egy meleg sál és kesztyű elengedhetetlen a csípős reggelhez.",
                 "ro": "Plimbați-vă pe aleile înghețate bucurându-vă de aerul rece; fularul și mănușile sunt esențiale pentru dimineață.",
-                "en": "Walk the frost-covered paths enjoying the crisp air; a warm scarf and gloves are essential for the chilly morning."
+                "en": "Walk the frost-covered paths enjoying the crisp air; a warm scarf and gloves are essential for the chilly morning.",
+                "fr": "Parcourez les sentiers couverts de givre en appréciant l’air vif ; une écharpe chaude et des gants sont essentiels pour la matinée fraîche."
               }
             },
             {
@@ -246,13 +271,15 @@
                 "de": "Église Saint-Leufroy",
                 "hu": "Église Saint-Leufroy",
                 "ro": "Église Saint-Leufroy",
-                "en": "Église Saint-Leufroy"
+                "en": "Église Saint-Leufroy",
+                "fr": "Église Saint-Leufroy"
               },
               "tip_5lang": {
                 "de": "Treten Sie ein, um Ihre Hände zu wärmen und das ruhige Winterlicht durch die historischen Fenster zu bewundern.",
                 "hu": "Lépjen be, hogy felmelegítse a kezét, és csodálja meg a történelmi ablakokon beszűrődő csendes téli fényeket.",
                 "ro": "Pășiți înăuntru pentru a vă încălzi mâinile și a admira lumina liniștită de iarnă filtrată prin ferestre.",
-                "en": "Step inside to warm your hands and admire the quiet winter light filtering softly through the historic windows."
+                "en": "Step inside to warm your hands and admire the quiet winter light filtering softly through the historic windows.",
+                "fr": "Entrez pour réchauffer vos mains et admirer la douce lumière hivernale filtrant à travers les fenêtres historiques."
               }
             },
             {
@@ -260,13 +287,15 @@
                 "de": "Église du Christ-Ressuscité",
                 "hu": "Église du Christ-Ressuscité",
                 "ro": "Église du Christ-Ressuscité",
-                "en": "Église du Christ-Ressuscité"
+                "en": "Église du Christ-Ressuscité",
+                "fr": "Église du Christ-Ressuscité"
               },
               "tip_5lang": {
                 "de": "Suchen Sie kurze Zuflucht vor der Kälte, um die besondere Architektur in friedlicher Einsamkeit zu würdigen.",
                 "hu": "Keressen egy rövid menedéket a metsző hideg elől, hogy békés magányban értékelhesse a különleges építészetet.",
                 "ro": "Căutați un scurt refugiu din frigul tăios pentru a aprecia arhitectura distinctă într-o singurătate pașnică.",
-                "en": "Take a brief refuge from the biting cold outside to appreciate the distinct architecture in peaceful solitude."
+                "en": "Take a brief refuge from the biting cold outside to appreciate the distinct architecture in peaceful solitude.",
+                "fr": "Offrez‑vous un bref refuge contre le froid mordant pour apprécier l’architecture distincte en paisible solitude."
               }
             },
             {
@@ -274,13 +303,15 @@
                 "de": "Église Notre-Dame",
                 "hu": "Église Notre-Dame",
                 "ro": "Église Notre-Dame",
-                "en": "Église Notre-Dame"
+                "en": "Église Notre-Dame",
+                "fr": "Église Notre-Dame"
               },
               "tip_5lang": {
                 "de": "Der Innenraum bietet etwas Wärme; lassen Sie den Mantel geschlossen, wenn Sie die steinernen Außenhöfe erkunden.",
                 "hu": "A belső tér újabb adag meleget ad; tartsa begombolva a kabátját, miközben a köves külső udvarokat is bejárja.",
                 "ro": "Interiorul oferă un alt strat de căldură; țineți haina încheiată în timp ce explorați curțile exterioare pietruite.",
-                "en": "The interior provides another layer of warmth; keep your coat buttoned as you explore the stony outer courtyards."
+                "en": "The interior provides another layer of warmth; keep your coat buttoned as you explore the stony outer courtyards.",
+                "fr": "L’intérieur procure une autre source de chaleur ; gardez votre manteau boutonné en explorant les cours extérieures pierreuses."
               }
             },
             {
@@ -288,13 +319,15 @@
                 "de": "Burg Montataire",
                 "hu": "Montataire-i kastély",
                 "ro": "Castelul Montataire",
-                "en": "Montataire Castle"
+                "en": "Montataire Castle",
+                "fr": "Montataire Castle"
               },
               "tip_5lang": {
                 "de": "Kommen Sie vor Sonnenuntergang, um die Festung im Nachmittagslicht zu sehen; oben ist es im Winter sehr windig.",
                 "hu": "Érkezzen naplemente előtt, hogy lássa az erődöt a késő délutáni fényekben; a magaslatokon télen nagyon fúj a szél.",
                 "ro": "Ajungeți înainte de apus pentru a vedea fortăreața în lumina după-amiezii; înălțimile sunt foarte vântoase iarna.",
-                "en": "Arrive before sunset to see the fortress bathed in late afternoon glow; the high grounds get very windy in winter."
+                "en": "Arrive before sunset to see the fortress bathed in late afternoon glow; the high grounds get very windy in winter.",
+                "fr": "Arrivez avant le coucher du soleil pour voir la forteresse baignée d’une lumière de fin d’après‑midi ; les hauteurs sont très venteuses en hiver."
               }
             }
           ]
@@ -314,7 +347,8 @@
             "de": "Stiftskirche Notre-Dame",
             "hu": "Notre-Dame társaskáptalan-templom",
             "ro": "Biserica Colegială Notre-Dame",
-            "en": "Notre-Dame Collegiate Church"
+            "en": "Notre-Dame Collegiate Church",
+            "fr": "Notre-Dame Collegiate Church"
           },
           "coords": [
             2.363802,
@@ -329,7 +363,8 @@
             "de": "Bewundern Sie das großartige Design der Stiftskirche Notre-Dame, eines historischen Meisterwerks am Rande der Stadt, wobei es sich empfiehlt, vorher die Öffnungszeiten zu prüfen.",
             "hu": "Csodálja meg a Notre-Dame társaskáptalan-templom lenyűgöző kialakítását a város szélén, de indulás előtt mindenképpen érdemes ellenőrizni az aktuális nyitvatartási időt.",
             "ro": "Admirați designul grandios al Bisericii Colegiale Notre-Dame, o capodoperă istorică de la periferie, unde este foarte recomandat să verificați în prealabil programul de vizitare.",
-            "en": "Marvel at the grand design of the Notre-Dame Collegiate Church, a historical masterpiece located on the outskirts, where checking the visiting hours beforehand is highly recommended."
+            "en": "Marvel at the grand design of the Notre-Dame Collegiate Church, a historical masterpiece located on the outskirts, where checking the visiting hours beforehand is highly recommended.",
+            "fr": "Admirez la grande architecture de la collégiale Notre‑Dame, un chef‑d’œuvre historique situé en périphérie, où il est fortement recommandé de vérifier les heures de visite au préalable."
           }
         },
         {
@@ -337,7 +372,8 @@
             "de": "Parc du Prieuré",
             "hu": "Parc du Prieuré",
             "ro": "Parc du Prieuré",
-            "en": "Prieuré Park"
+            "en": "Prieuré Park",
+            "fr": "Prieuré Park"
           },
           "coords": [
             2.417663,
@@ -352,7 +388,8 @@
             "de": "Genießen Sie einen entspannenden Spaziergang durch das historische Grün des Prieuré-Parks, der sich ideal für eine Pause eignet, also bringen Sie bequeme Schuhe mit.",
             "hu": "Élvezze a pihentető sétát a történelmi Prieuré park zöldjében, amely tökéletes helyszín a csendes reggeli pihenéshez, ezért mindenképpen kényelmes cipőben érkezzen.",
             "ro": "Bucurați-vă de o plimbare relaxantă prin verdeața istorică a Parcului Prieuré, un loc perfect pentru o pauză de dimineață, așa că purtați pantofi comozi de mers.",
-            "en": "Enjoy a relaxing stroll through the historic greenery of Prieuré Park, an ideal spot for a peaceful morning break with well-kept paths, so bring comfortable walking shoes."
+            "en": "Enjoy a relaxing stroll through the historic greenery of Prieuré Park, an ideal spot for a peaceful morning break with well-kept paths, so bring comfortable walking shoes.",
+            "fr": "Profitez d’une promenade relaxante à travers le verdure historique du Prieuré, un endroit idéal pour une pause matinale paisible avec des chemins bien entretenus ; apportez des chaussures de marche confortables."
           }
         },
         {
@@ -360,7 +397,8 @@
             "de": "Église Saint-Martin",
             "hu": "Église Saint-Martin",
             "ro": "Église Saint-Martin",
-            "en": "Église Saint-Martin"
+            "en": "Église Saint-Martin",
+            "fr": "Église Saint-Martin"
           },
           "coords": [
             2.400961,
@@ -375,7 +413,8 @@
             "de": "Nehmen Sie sich einen ruhigen Moment in der Église Saint-Martin, einer liebenswerten, von viel Grün umgebenen lokalen Kirche, die eine wunderbare Kulisse für die Fotografie bietet.",
             "hu": "Töltsön el egy csendes percet a zöldövezettel körülvett Église Saint-Martin templomnál, amely csodálatos és nyugodt hátteret biztosít a fotózáshoz a felfedezés során.",
             "ro": "Luați-vă un moment de liniște la Église Saint-Martin, o biserică locală fermecătoare înconjurată de verdeață, care oferă un fundal minunat pentru fotografii în timpul explorării.",
-            "en": "Take a quiet moment at Église Saint-Martin, an endearing local church surrounded by greenery, which provides a lovely backdrop for photography during your peaceful exploration."
+            "en": "Take a quiet moment at Église Saint-Martin, an endearing local church surrounded by greenery, which provides a lovely backdrop for photography during your peaceful exploration.",
+            "fr": "Prenez un moment de tranquillité à l’Église Saint‑Martin, une charmante église locale entourée de verdure, offrant un joli décor pour la photographie durant votre paisible exploration."
           }
         },
         {
@@ -383,7 +422,8 @@
             "de": "Église du Christ-Ressuscité",
             "hu": "Église du Christ-Ressuscité",
             "ro": "Église du Christ-Ressuscité",
-            "en": "Église du Christ-Ressuscité"
+            "en": "Église du Christ-Ressuscité",
+            "fr": "Église du Christ-Ressuscité"
           },
           "coords": [
             2.436259,
@@ -398,7 +438,8 @@
             "de": "Besuchen Sie die Église du Christ-Ressuscité, um ihren modernen architektonischen Ansatz zu schätzen, und achten Sie besonders auf die interessanten Details im Innenraum.",
             "hu": "Látogasson el a modern építészeti megközelítést bemutató Église du Christ-Ressuscité templomba, ahol érdemes megfigyelni az egyedi hangulatú belső tér különleges részleteit.",
             "ro": "Vizitați Église du Christ-Ressuscité pentru a aprecia abordarea sa arhitecturală modernă, oferind o atmosferă spirituală unică, și căutați detaliile interioare interesante.",
-            "en": "Visit the Église du Christ-Ressuscité to appreciate its modern architectural approach, offering a unique spiritual atmosphere, and look for the interesting interior details."
+            "en": "Visit the Église du Christ-Ressuscité to appreciate its modern architectural approach, offering a unique spiritual atmosphere, and look for the interesting interior details.",
+            "fr": "Visitez l’Église du Christ‑Ressuscité pour apprécier son approche architecturale moderne, offrant une atmosphère spirituelle unique, et cherchez les détails intérieurs intéressants."
           }
         },
         {
@@ -406,7 +447,8 @@
             "de": "Burg Montataire",
             "hu": "Montataire-i kastély",
             "ro": "Castelul Montataire",
-            "en": "Montataire Castle"
+            "en": "Montataire Castle",
+            "fr": "Montataire Castle"
           },
           "coords": [
             2.444229,
@@ -421,7 +463,8 @@
             "de": "Erkunden Sie die imposante Burg Montataire, ein Symbol der Verteidigungsgeschichte, wo der sanfte Aufstieg mit einem herrlichen Panoramablick auf die Gegend belohnt wird.",
             "hu": "Fedezze fel az impozáns Montataire-i kastélyt, a város védelmi múltjának szimbólumát, ahol a domboldalon felkapaszkodva csodálatos panorámás kilátás nyílik a környékre.",
             "ro": "Explorați impunătorul Castel Montataire, un simbol al trecutului defensiv al orașului, unde urcarea pe dealurile line vă răsplătește cu o vedere panoramică minunată.",
-            "en": "Explore the imposing Montataire Castle, a symbol of the town's defensive past, where climbing up the gentle hills rewards you with a wonderful panoramic view of the area."
+            "en": "Explore the imposing Montataire Castle, a symbol of the town's defensive past, where climbing up the gentle hills rewards you with a wonderful panoramic view of the area.",
+            "fr": "Explorez l’imposant château de Montataire, symbole du passé défensif de la ville, où gravir les douces collines vous récompense d’une superbe vue panoramique sur la région."
           }
         },
         {
@@ -429,7 +472,8 @@
             "de": "Château de Laversine",
             "hu": "Château de Laversine",
             "ro": "Château de Laversine",
-            "en": "Château de Laversine"
+            "en": "Château de Laversine",
+            "fr": "Château de Laversine"
           },
           "coords": [
             2.452189,
@@ -444,7 +488,8 @@
             "de": "Beenden Sie Ihren Tag im herrlichen Château de Laversine, einem eleganten Anwesen, wo ein entspannter Nachmittagsspaziergang über das weitläufige Gelände wirklich unvergesslich ist.",
             "hu": "Zárja a napot a fenséges Château de Laversine elegáns birtokán, ahol a kiterjedt parkban tett délutáni séta garantáltan emlékezetes élményt nyújt minden látogató számára.",
             "ro": "Încheiați ziua la magnificul Château de Laversine, o moșie elegantă unde o plimbare de după-amiază prin terenurile sale vaste și frumos întreținute este cu adevărat memorabilă.",
-            "en": "Finish your day at the magnificent Château de Laversine, an elegant estate displaying noble heritage, where an afternoon walk around its extensive grounds is truly memorable."
+            "en": "Finish your day at the magnificent Château de Laversine, an elegant estate displaying noble heritage, where an afternoon walk around its extensive grounds is truly memorable.",
+            "fr": "Terminez votre journée au magnifique Château de Laversine, un élégant domaine témoignant d’un héritage noble, où une promenade l’après‑midi autour de ses vastes jardins est vraiment mémorable."
           }
         }
       ],
@@ -452,7 +497,8 @@
         "de": "Morning: Wir beginnen unsere Erkundungstour in der ruhigen und grünen Umgebung, wo wir tief durchatmen und die schönen Erholungs- und Naturräume der charmanten Stadt schätzen können.\nMidday: Die Reise verlagert sich in den historischen Kern und enthüllt architektonische Juwelen und religiöse Stätten, die die Zeit überdauert haben und Einblicke in das lokale Erbe bieten.\nAfternoon: Unser Abenteuer führt uns hinauf zu den majestätischen Festungsanlagen der Stadt, wo atemberaubende Aussichten und jahrhundertelange Geschichte ein unvergessliches Erlebnis schaffen.\nEvening: Wenn der Tag sanft ausklingt, schließen wir mit einem großen Finale auf einem eleganten Anwesen ab und denken an die reiche aristokratische Vergangenheit der schönen Region.",
         "hu": "Morning: Felfedezésünket a nyugodt és zöldellő környezetben kezdjük, ahol friss levegőt szívva élvezhetjük a bájos város rekreációs és természeti terei által nyújtott békés kikapcsolódást.\nMidday: Az utazás a történelmi központ felé halad, felfedve azokat az építészeti gyöngyszemeket és vallási helyszíneket, amelyek kiállták az idő próbáját, és betekintést nyújtanak a helyi örökségbe.\nAfternoon: Kalandunk egyre feljebb vezet minket a város fenséges erődítményeihez, ahol a lenyűgöző kilátás és az évszázados történelem összefonódva igazán felejthetetlen élményt teremt.\nEvening: Ahogy a nap lassan a végéhez közeledik, egy elegáns birtokon tartott nagyszerű fináléval zárjuk a túrát, felidézve a régió gazdag arisztokratikus múltját, mielőtt visszatérnénk pihenni.",
         "ro": "Morning: Ne începem explorarea în împrejurimile calme și înverzite, respirând aer proaspăt în timp ce apreciem dedicarea fermecătorului oraș pentru spațiile sale naturale de recreere.\nMidday: Călătoria se îndreaptă spre centrul istoric, dezvăluind bijuterii arhitecturale și locuri religioase care au rezistat testului timpului, oferind o privire asupra moștenirii locale.\nAfternoon: Aventura ne duce mai sus către fortificațiile maiestuoase ale orașului, unde priveliștile uimitoare și secolele de istorie converg pentru a crea o experiență de neuitat.\nEvening: Pe măsură ce ziua se încheie încet, încheiem cu un final grandios la o moșie elegantă, reflectând la bogatul trecut aristocratic al regiunii înainte de a ne relaxa.",
-        "en": "Morning: We begin our exploration in the calm and verdant surroundings, taking deep breaths of fresh air while appreciating the town's dedication to its recreational and natural spaces.\nMidday: The journey shifts towards the historical core, revealing architectural gems and religious sites that have withstood the test of time, offering a glimpse into local heritage.\nAfternoon: Our adventure takes us higher up towards the town's majestic fortifications, where stunning views and centuries of history converge to create an unforgettable experience.\nEvening: As the day gently winds down, we conclude with a grand finale at an elegant estate, reflecting on the region's rich aristocratic past before heading back to relax."
+        "en": "Morning: We begin our exploration in the calm and verdant surroundings, taking deep breaths of fresh air while appreciating the town's dedication to its recreational and natural spaces.\nMidday: The journey shifts towards the historical core, revealing architectural gems and religious sites that have withstood the test of time, offering a glimpse into local heritage.\nAfternoon: Our adventure takes us higher up towards the town's majestic fortifications, where stunning views and centuries of history converge to create an unforgettable experience.\nEvening: As the day gently winds down, we conclude with a grand finale at an elegant estate, reflecting on the region's rich aristocratic past before heading back to relax.",
+        "fr": "Matin : Nous commençons notre exploration dans des environs calmes et verdoyants, respirant l’air frais tout en appréciant l’attention de la ville pour ses espaces récréatifs et naturels.\nMidi : Le parcours se tourne vers le cœur historique, révélant des joyaux architecturaux et des lieux de culte qui ont résisté à l’épreuve du temps, offrant un aperçu du patrimoine local.\nAprès‑midi : Notre aventure nous mène plus haut vers les majestueuses fortifications de la ville, où vues splendides et siècles d’histoire convergent pour créer une expérience inoubliable.\nSoir : À mesure que la journée s’achève en douceur, nous concluons avec un final dans un élégant domaine, en contemplant le riche passé aristocratique de la région avant de rentrer pour nous détendre."
       },
       "variants": {
         "rainy": {
@@ -460,7 +506,8 @@
             "de": "Radfahren in Montataire bei Regen erfordert Vorsicht. Nutzen Sie Schutzbleche und auffällige Regenkleidung. Das nasse Kopfsteinpflaster nahe der Kirchen und Burgen kann rutschig sein. Fahren Sie langsam, bremsen Sie früh und nutzen Sie die Aufenthalte drinnen, um sich regelmäßig abzutrocknen.",
             "hu": "Montataire esőben történő bejárása biciklivel óvatosságot igényel. Szereljen sárvédőt a kerékpárra, és viseljen láthatósági esőruhát. A templomok és kastélyok körüli nedves macskakövek csúszósak lehetnek. Haladjon lassan, fékezzen időben, és használja a fedett megállókat a napközbeni megszáradásra és pihenésre.",
             "ro": "Ciclismul în Montataire pe ploaie cere prudență. Echipați bicicleta cu apărători de noroi și purtați pelerină reflectorizantă. Piatra cubică umedă de lângă biserici și castele poate fi alunecoasă. Mergeți încet, frânați devreme și folosiți opririle interioare pentru a vă usca regulat pe parcursul zilei.",
-            "en": "Cycling Montataire in the rain is an adventure that demands caution. Equip your bike with mudguards and wear a high-visibility rain suit. The wet cobblestones near the churches and castles can be dangerously slippery. Pace yourself, brake early, and use the indoor stops to regularly dry off and warm up throughout the day."
+            "en": "Cycling Montataire in the rain is an adventure that demands caution. Equip your bike with mudguards and wear a high-visibility rain suit. The wet cobblestones near the churches and castles can be dangerously slippery. Pace yourself, brake early, and use the indoor stops to regularly dry off and warm up throughout the day.",
+            "fr": "Faire du vélo à Montataire sous la pluie est une aventure qui demande de la prudence. Équipez votre vélo de garde‑boues et portez une tenue de pluie haute visibilité. Les pavés mouillés près des églises et des châteaux peuvent être dangereusement glissants. Roulerez à un rythme modéré, freinez tôt et utilisez les arrêts intérieurs pour vous sécher et vous réchauffer régulièrement au cours de la journée."
           },
           "stops": [
             {
@@ -468,13 +515,15 @@
                 "de": "Stiftskirche Notre-Dame",
                 "hu": "Notre-Dame társaskáptalan-templom",
                 "ro": "Biserica Colegială Notre-Dame",
-                "en": "Notre-Dame Collegiate Church"
+                "en": "Notre-Dame Collegiate Church",
+                "fr": "Notre-Dame Collegiate Church"
               },
               "tip_5lang": {
                 "de": "Eine perfekte erste Zuflucht; sichern Sie Ihr Rad vorsichtig, da der nasse Boden hier sehr rutschig ist.",
                 "hu": "Tökéletes első fedett menedék; rögzítse óvatosan a kerékpárját, mert a nedves burkolat nagyon csúszik.",
                 "ro": "Un prim refugiu interior perfect; asigurați bicicleta cu grijă, deoarece pavajul este alunecos când e ud.",
-                "en": "A perfect first indoor refuge; secure your bike carefully as the surrounding pavement is slick when wet."
+                "en": "A perfect first indoor refuge; secure your bike carefully as the surrounding pavement is slick when wet.",
+                "fr": "Un premier refuge intérieur parfait ; attachez soigneusement votre vélo car le trottoir alentour est glissant quand il est mouillé."
               }
             },
             {
@@ -482,13 +531,15 @@
                 "de": "Parc du Prieuré",
                 "hu": "Parc du Prieuré",
                 "ro": "Parc du Prieuré",
-                "en": "Prieuré Park"
+                "en": "Prieuré Park",
+                "fr": "Prieuré Park"
               },
               "tip_5lang": {
                 "de": "Bleiben Sie auf befestigten Wegen, um Schlamm in den Rädern zu vermeiden; ein wasserdichter Sattelschutz ist wichtig.",
                 "hu": "Maradjon a burkolt utakon, hogy ne menjen sár a kerekek közé; egy vízálló nyereghuzat életmentő lehet.",
                 "ro": "Rămâneți pe aleile pavate pentru a evita noroiul la roți; o husă impermeabilă pentru șa este salvatoare.",
-                "en": "Stick to the paved paths to avoid mud getting caught in your wheels; a waterproof saddle cover is a lifesaver."
+                "en": "Stick to the paved paths to avoid mud getting caught in your wheels; a waterproof saddle cover is a lifesaver.",
+                "fr": "Restez sur les chemins pavés pour éviter que la boue n’accroche vos roues ; une housse de selle imperméable est salvatrice."
               }
             },
             {
@@ -496,13 +547,15 @@
                 "de": "Église Saint-Martin",
                 "hu": "Église Saint-Martin",
                 "ro": "Église Saint-Martin",
-                "en": "Église Saint-Martin"
+                "en": "Église Saint-Martin",
+                "fr": "Église Saint-Martin"
               },
               "tip_5lang": {
                 "de": "Schütteln Sie Ihre Regenkleidung draußen ab, bevor Sie das Heiligtum betreten, um die Architektur zu bewundern.",
                 "hu": "Rázza le az esőruházatát kint, mielőtt belépne a csendes szentélybe, hogy megcsodálja az építészeti részleteket.",
                 "ro": "Scuturați echipamentul de ploaie afară înainte de a intra în acest sanctuar senin pentru a-i admira arhitectura.",
-                "en": "Shake off your rain gear outside before entering this serene sanctuary to admire its architectural details."
+                "en": "Shake off your rain gear outside before entering this serene sanctuary to admire its architectural details.",
+                "fr": "Secouez votre matériel de pluie dehors avant d’entrer dans ce sanctuaire serein pour admirer ses détails architecturaux."
               }
             },
             {
@@ -510,13 +563,15 @@
                 "de": "Église du Christ-Ressuscité",
                 "hu": "Église du Christ-Ressuscité",
                 "ro": "Église du Christ-Ressuscité",
-                "en": "Église du Christ-Ressuscité"
+                "en": "Église du Christ-Ressuscité",
+                "fr": "Église du Christ-Ressuscité"
               },
               "tip_5lang": {
                 "de": "Die moderne Fassade wirkt im Regen imposant; nutzen Sie die Chance zum Aufwärmen vor den letzten Anstiegen.",
                 "hu": "A modern homlokzat lenyűgöző az esőben; használja ki az alkalmat a bemelegedésre az utolsó emelkedők előtt.",
                 "ro": "Fațada modernă arată impresionant în ploaie; profitați pentru a vă încălzi înainte de urcările finale.",
-                "en": "The modern facade looks striking in the rain; take this chance to warm up before the final uphill climbs."
+                "en": "The modern facade looks striking in the rain; take this chance to warm up before the final uphill climbs.",
+                "fr": "La façade moderne est saisissante sous la pluie ; profitez‑en pour vous réchauffer avant les dernières montées."
               }
             },
             {
@@ -524,13 +579,15 @@
                 "de": "Burg Montataire",
                 "hu": "Montataire-i kastély",
                 "ro": "Castelul Montataire",
-                "en": "Montataire Castle"
+                "en": "Montataire Castle",
+                "fr": "Montataire Castle"
               },
               "tip_5lang": {
                 "de": "Der steile Weg erfordert Vorsicht auf nassem Laub; die Festung bietet tollen Schutz und dramatische Ausblicke.",
                 "hu": "A meredek felhajtó különös óvatosságot igényel a nedves leveleken; az erőd remek menedéket nyújt odafent.",
                 "ro": "Urcușul abrupt necesită atenție pe frunzele ude; fortăreața oferă un adăpost excelent și priveliști dramatice.",
-                "en": "The steep approach requires extra care on wet leaves; the fortress offers great shelter and dramatic cloudy views."
+                "en": "The steep approach requires extra care on wet leaves; the fortress offers great shelter and dramatic cloudy views.",
+                "fr": "L’approche raide nécessite une prudence accrue sur les feuilles mouillées ; la forteresse offre un excellent abri et des vues dramatiques sous un ciel chargé."
               }
             },
             {
@@ -538,13 +595,15 @@
                 "de": "Château de Laversine",
                 "hu": "Château de Laversine",
                 "ro": "Château de Laversine",
-                "en": "Château de Laversine"
+                "en": "Château de Laversine",
+                "fr": "Château de Laversine"
               },
               "tip_5lang": {
                 "de": "Fahren Sie vorsichtig wegen Pfützen auf Landstraßen; genießen Sie das prachtvolle Anwesen sicher vor dem Regen.",
                 "hu": "Óvatosan érkezzen, mivel a vidéki utakon tócsák állnak; élvezze a csodás birtok belső tereit az esőtől védve.",
                 "ro": "Conduceți cu grijă din cauza bălților de pe drumurile rurale; bucurați-vă de interioarele magnifice feriți de ploaie.",
-                "en": "Arrive carefully as rural roads hold puddles; enjoy the magnificent estate interiors safely away from the showers."
+                "en": "Arrive carefully as rural roads hold puddles; enjoy the magnificent estate interiors safely away from the showers.",
+                "fr": "Arrivez prudemment car les routes rurales retiennent des flaques ; profitez des magnifiques intérieurs du domaine à l’abri des averses."
               }
             }
           ]
@@ -554,7 +613,8 @@
             "de": "Radfahren im Winter erfordert Thermohandschuhe und gutes Licht, da es um 17:00 Uhr dämmert. Die klare Luft sorgt für eine erfrischende Fahrt zwischen den Denkmälern. Mittagsstopps in den Kirchen und Burgen sind wichtig, um sich aufzuwärmen. Beenden Sie die Route, bevor der abendliche Frost die Straßen überzieht.",
             "hu": "A téli kerékpározás meleg kesztyűt, vastag zoknit és jó lámpákat követel, mivel 17:00-ra besötétedik. A csípős levegő frissítő élménnyé teszi a műemlékek közti utat. A déli megállók a templomokban és kastélyokban elengedhetetlenek a felmelegedéshez. Fejezze be az utat, mielőtt az esti fagy ráereszkedik az utakra.",
             "ro": "Ciclismul de iarnă necesită mănuși groase și lumini bune, deoarece se întunecă pe la 17:00. Aerul rece oferă o plimbare revigorantă între monumentele istorice. Opririle la prânz în biserici și castele sunt cruciale pentru a vă încălzi. Terminați traseul înainte ca înghețul serii să se așeze pe drumuri.",
-            "en": "Winter cycling here requires thermal gloves, thick socks, and good lights, as dusk falls by 17:00. The crisp air makes for an exhilarating ride between the historical monuments. Midday stops at the churches and castles are crucial for regaining body heat. Plan to finish your route before the icy evening frost sets on the roads."
+            "en": "Winter cycling here requires thermal gloves, thick socks, and good lights, as dusk falls by 17:00. The crisp air makes for an exhilarating ride between the historical monuments. Midday stops at the churches and castles are crucial for regaining body heat. Plan to finish your route before the icy evening frost sets on the roads.",
+            "fr": "Le cyclisme hivernal ici exige des gants thermiques, des chaussettes épaisses et de bonnes lumières, car le crépuscule tombe à 17:00. L'air vif rend la balade exaltante entre les monuments historiques. Les haltes de midi dans les églises et les châteaux sont cruciales pour retrouver de la chaleur corporelle. Prévoyez de terminer votre itinéraire avant que le givre nocturne n'envahisse les routes."
           },
           "stops": [
             {
@@ -562,13 +622,15 @@
                 "de": "Stiftskirche Notre-Dame",
                 "hu": "Notre-Dame társaskáptalan-templom",
                 "ro": "Biserica Colegială Notre-Dame",
-                "en": "Notre-Dame Collegiate Church"
+                "en": "Notre-Dame Collegiate Church",
+                "fr": "Collégiale Notre-Dame"
               },
               "tip_5lang": {
                 "de": "Beginnen Sie den kalten Morgen in dieser großen Kirche, um die Steinschnitzereien zu bewundern und wach zu werden.",
                 "hu": "Kezdje a fagyos reggelt ebben a lenyűgöző templomban a kőfaragványok megcsodálásával, amíg felpezsdül a vére.",
                 "ro": "Începeți dimineața geroasă în această biserică pentru a admira sculpturile în piatră în timp ce vă puneți sângele în mișcare.",
-                "en": "Start your freezing morning in this grand church to admire the stone carvings while getting your blood flowing."
+                "en": "Start your freezing morning in this grand church to admire the stone carvings while getting your blood flowing.",
+                "fr": "Commencez votre matinée glaciale dans cette grande église pour admirer les sculptures de pierre tout en faisant circuler votre sang."
               }
             },
             {
@@ -576,13 +638,15 @@
                 "de": "Parc du Prieuré",
                 "hu": "Parc du Prieuré",
                 "ro": "Parc du Prieuré",
-                "en": "Prieuré Park"
+                "en": "Prieuré Park",
+                "fr": "Parc du Prieuré"
               },
               "tip_5lang": {
                 "de": "Die kahlen Winterbäume bieten tolle Ausblicke; achten Sie auf verstecktes Eis auf den schattigen Radwegen.",
                 "hu": "A csupasz téli fák gyönyörű, zord látványt nyújtanak; ügyeljen az árnyékos kerékpárutakon megbúvó jégfoltokra.",
                 "ro": "Copacii goi de iarnă oferă priveliști frumoase; aveți grijă la peticele de gheață ascunse pe pistele umbrite.",
-                "en": "The bare winter trees offer stark, beautiful views; watch out for patches of hidden ice on the shaded bike paths."
+                "en": "The bare winter trees offer stark, beautiful views; watch out for patches of hidden ice on the shaded bike paths.",
+                "fr": "Les arbres dépouillés d'hiver offrent des vues saisissantes ; attention aux plaques de verglas cachées sur les pistes cyclables à l'ombre."
               }
             },
             {
@@ -590,13 +654,15 @@
                 "de": "Église Saint-Martin",
                 "hu": "Église Saint-Martin",
                 "ro": "Église Saint-Martin",
-                "en": "Église Saint-Martin"
+                "en": "Église Saint-Martin",
+                "fr": "Église Saint-Martin"
               },
               "tip_5lang": {
                 "de": "Parken Sie Ihr Rad und betreten Sie das windgeschützte Kirchenschiff, um die ruhige historische Würde zu spüren.",
                 "hu": "Támassza le a kerékpárt, és lépjen be a fűtetlen, de széltől védett hajóba a csendes történelmi méltóságért.",
                 "ro": "Parcați bicicleta și intrați în nava neîncălzită, dar ferită de vânt, pentru a aprecia demnitatea sa istorică.",
-                "en": "Park your bike and step into the unheated but wind-protected nave to appreciate its quiet, historical dignity."
+                "en": "Park your bike and step into the unheated but wind-protected nave to appreciate its quiet, historical dignity.",
+                "fr": "Garez votre vélo et entrez dans la nef non chauffée mais protégée du vent pour apprécier sa dignité historique et son calme."
               }
             },
             {
@@ -604,13 +670,15 @@
                 "de": "Église du Christ-Ressuscité",
                 "hu": "Église du Christ-Ressuscité",
                 "ro": "Église du Christ-Ressuscité",
-                "en": "Église du Christ-Ressuscité"
+                "en": "Église du Christ-Ressuscité",
+                "fr": "Église du Christ-Ressuscité"
               },
               "tip_5lang": {
                 "de": "Ein kurzer, geschützter Stopp; reiben Sie die Hände und bleiben Sie in Bewegung, um warm zu bleiben.",
                 "hu": "Egy gyors, védett megálló; dörzsölje össze a kezét, és mozogjon tovább, hogy megőrizze a testhőmérsékletét a hegyen.",
                 "ro": "O oprire scurtă, adăpostită; frecați-vă mâinile și continuați să vă mișcați pentru a vă menține temperatura urcând dealul.",
-                "en": "A quick, sheltered stop; rub your hands together and keep moving to maintain your core temperature up the hill."
+                "en": "A quick, sheltered stop; rub your hands together and keep moving to maintain your core temperature up the hill.",
+                "fr": "Un arrêt rapide et abrité ; frottez-vous les mains et continuez à bouger pour maintenir votre température corporelle en montant la côte."
               }
             },
             {
@@ -618,13 +686,15 @@
                 "de": "Burg Montataire",
                 "hu": "Montataire-i kastély",
                 "ro": "Castelul Montataire",
-                "en": "Montataire Castle"
+                "en": "Montataire Castle",
+                "fr": "Château de Montataire"
               },
               "tip_5lang": {
                 "de": "Der winterliche Panoramablick von der Festung ist toll, aber wegen des eisigen Windes sollten Sie nicht lange draußen bleiben.",
                 "hu": "Az erődből nyíló téli panoráma látványos, de a metsző szél miatt ne időzzön sokat a szabadban.",
                 "ro": "Priveliștile de iarnă de la fortăreață sunt spectaculoase, dar vântul tăios înseamnă că nu ar trebui să zăboviți afară.",
-                "en": "The panoramic winter views from the fortress are spectacular, but the biting wind means you shouldn't linger outside long."
+                "en": "The panoramic winter views from the fortress are spectacular, but the biting wind means you shouldn't linger outside long.",
+                "fr": "Les panoramas hivernaux depuis la forteresse sont spectaculaires, mais le vent mordant fait qu'il ne faut pas traîner dehors."
               }
             },
             {
@@ -632,13 +702,15 @@
                 "de": "Château de Laversine",
                 "hu": "Château de Laversine",
                 "ro": "Château de Laversine",
-                "en": "Château de Laversine"
+                "en": "Château de Laversine",
+                "fr": "Château de Laversine"
               },
               "tip_5lang": {
                 "de": "Erreichen Sie dieses prachtvolle Anwesen bis 14:45 Uhr, um es vor der frühen Dämmerung bequem zu erkunden.",
                 "hu": "Törekedjen rá, hogy 14:45-re elérje ezt a csodás birtokot, így kényelmesen felfedezheti a korai sötétedés előtt.",
                 "ro": "Încercați să ajungeți la acest domeniu magnific până la 14:45 pentru a-l explora confortabil înainte de amurg.",
-                "en": "Aim to reach this magnificent estate by 14:45 so you can comfortably explore before the early twilight limits visibility."
+                "en": "Aim to reach this magnificent estate by 14:45 so you can comfortably explore before the early twilight limits visibility.",
+                "fr": "Visez d'atteindre ce magnifique domaine vers 14:45 pour pouvoir l'explorer confortablement avant que la tombée précoce du jour ne réduise la visibilité."
               }
             }
           ]
@@ -658,7 +730,8 @@
             "de": "Stiftskirche Notre-Dame",
             "hu": "Notre-Dame társaskáptalan-templom",
             "ro": "Biserica Colegială Notre-Dame",
-            "en": "Notre-Dame Collegiate Church"
+            "en": "Notre-Dame Collegiate Church",
+            "fr": "Collégiale Notre-Dame"
           },
           "coords": [
             2.363802,
@@ -673,7 +746,8 @@
             "de": "Bewundern Sie das großartige Design der Stiftskirche Notre-Dame, eines historischen Meisterwerks am Rande der Stadt, wobei es sich empfiehlt, vorher die Öffnungszeiten zu prüfen.",
             "hu": "Csodálja meg a Notre-Dame társaskáptalan-templom lenyűgöző kialakítását a város szélén, de indulás előtt mindenképpen érdemes ellenőrizni az aktuális nyitvatartási időt.",
             "ro": "Admirați designul grandios al Bisericii Colegiale Notre-Dame, o capodoperă istorică de la periferie, unde este foarte recomandat să verificați în prealabil programul de vizitare.",
-            "en": "Marvel at the grand design of the Notre-Dame Collegiate Church, a historical masterpiece located on the outskirts, where checking the visiting hours beforehand is highly recommended."
+            "en": "Marvel at the grand design of the Notre-Dame Collegiate Church, a historical masterpiece located on the outskirts, where checking the visiting hours beforehand is highly recommended.",
+            "fr": "Admirez la grande conception de la Collégiale Notre-Dame, un chef-d'œuvre historique situé en périphérie, où il est fortement recommandé de vérifier les heures de visite à l'avance."
           }
         },
         {
@@ -681,7 +755,8 @@
             "de": "Parc du Prieuré",
             "hu": "Parc du Prieuré",
             "ro": "Parc du Prieuré",
-            "en": "Prieuré Park"
+            "en": "Prieuré Park",
+            "fr": "Parc du Prieuré"
           },
           "coords": [
             2.417663,
@@ -696,7 +771,8 @@
             "de": "Genießen Sie einen entspannenden Spaziergang durch das historische Grün des Prieuré-Parks, der sich ideal für eine Pause eignet, also bringen Sie bequeme Schuhe mit.",
             "hu": "Élvezze a pihentető sétát a történelmi Prieuré park zöldjében, amely tökéletes helyszín a csendes reggeli pihenéshez, ezért mindenképpen kényelmes cipőben érkezzen.",
             "ro": "Bucurați-vă de o plimbare relaxantă prin verdeața istorică a Parcului Prieuré, un loc perfect pentru o pauză de dimineață, așa că purtați pantofi comozi de mers.",
-            "en": "Enjoy a relaxing stroll through the historic greenery of Prieuré Park, an ideal spot for a peaceful morning break with well-kept paths, so bring comfortable walking shoes."
+            "en": "Enjoy a relaxing stroll through the historic greenery of Prieuré Park, an ideal spot for a peaceful morning break with well-kept paths, so bring comfortable walking shoes.",
+            "fr": "Profitez d'une promenade relaxante à travers la verdure historique du Parc du Prieuré, un lieu idéal pour une pause matinale paisible avec des allées bien entretenues ; apportez des chaussures de marche confortables."
           }
         },
         {
@@ -704,7 +780,8 @@
             "de": "Église Saint-Martin",
             "hu": "Église Saint-Martin",
             "ro": "Église Saint-Martin",
-            "en": "Église Saint-Martin"
+            "en": "Église Saint-Martin",
+            "fr": "Église Saint-Martin"
           },
           "coords": [
             2.400961,
@@ -719,7 +796,8 @@
             "de": "Nehmen Sie sich einen ruhigen Moment in der Église Saint-Martin, einer liebenswerten, von viel Grün umgebenen lokalen Kirche, die eine wunderbare Kulisse für die Fotografie bietet.",
             "hu": "Töltsön el egy csendes percet a zöldövezettel körülvett Église Saint-Martin templomnál, amely csodálatos és nyugodt hátteret biztosít a fotózáshoz a felfedezés során.",
             "ro": "Luați-vă un moment de liniște la Église Saint-Martin, o biserică locală fermecătoare înconjurată de verdeață, care oferă un fundal minunat pentru fotografii în timpul explorării.",
-            "en": "Take a quiet moment at Église Saint-Martin, an endearing local church surrounded by greenery, which provides a lovely backdrop for photography during your peaceful exploration."
+            "en": "Take a quiet moment at Église Saint-Martin, an endearing local church surrounded by greenery, which provides a lovely backdrop for photography during your peaceful exploration.",
+            "fr": "Prenez un moment de calme à l'Église Saint-Martin, une charmante église locale entourée de verdure, qui offre un joli décor pour la photographie lors de votre balade paisible."
           }
         },
         {
@@ -727,7 +805,8 @@
             "de": "Église du Christ-Ressuscité",
             "hu": "Église du Christ-Ressuscité",
             "ro": "Église du Christ-Ressuscité",
-            "en": "Église du Christ-Ressuscité"
+            "en": "Église du Christ-Ressuscité",
+            "fr": "Église du Christ-Ressuscité"
           },
           "coords": [
             2.436259,
@@ -742,7 +821,8 @@
             "de": "Besuchen Sie die Église du Christ-Ressuscité, um ihren modernen architektonischen Ansatz zu schätzen, und achten Sie besonders auf die interessanten Details im Innenraum.",
             "hu": "Látogasson el a modern építészeti megközelítést bemutató Église du Christ-Ressuscité templomba, ahol érdemes megfigyelni az egyedi hangulatú belső tér különleges részleteit.",
             "ro": "Vizitați Église du Christ-Ressuscité pentru a aprecia abordarea sa arhitecturală modernă, oferind o atmosferă spirituală unică, și căutați detaliile interioare interesante.",
-            "en": "Visit the Église du Christ-Ressuscité to appreciate its modern architectural approach, offering a unique spiritual atmosphere, and look for the interesting interior details."
+            "en": "Visit the Église du Christ-Ressuscité to appreciate its modern architectural approach, offering a unique spiritual atmosphere, and look for the interesting interior details.",
+            "fr": "Visitez l'Église du Christ-Ressuscité pour apprécier son approche architecturale moderne, offrant une atmosphère spirituelle unique, et repérez les détails intérieurs intéressants."
           }
         },
         {
@@ -750,7 +830,8 @@
             "de": "Église Notre-Dame",
             "hu": "Église Notre-Dame",
             "ro": "Église Notre-Dame",
-            "en": "Église Notre-Dame"
+            "en": "Église Notre-Dame",
+            "fr": "Église Notre-Dame"
           },
           "coords": [
             2.443098,
@@ -765,7 +846,8 @@
             "de": "Treten Sie in die Église Notre-Dame ein, um ihre ruhige Atmosphäre zu erleben, und achten Sie unbedingt auf die wunderschön erhaltenen Buntglasfenster im Inneren.",
             "hu": "Lépjen be az Église Notre-Dame épületébe, és élvezze a békés hangulatot, miközben különös figyelmet szentel a gyönyörűen megőrzött, színpompás ólomüveg ablakoknak.",
             "ro": "Pășiți în Biserica Notre-Dame pentru a experimenta ambianța sa senină și semnificația istorică, asigurându-vă că observați vitraliile frumos conservate din interior.",
-            "en": "Step into Église Notre-Dame to experience its serene ambiance and historical significance, making sure to notice the beautifully preserved stained glass windows inside."
+            "en": "Step into Église Notre-Dame to experience its serene ambiance and historical significance, making sure to notice the beautifully preserved stained glass windows inside.",
+            "fr": "Entrez dans l'Église Notre-Dame pour ressentir son ambiance sereine et son importance historique ; pensez à remarquer les vitraux magnifiquement conservés à l'intérieur."
           }
         },
         {
@@ -773,7 +855,8 @@
             "de": "Burg Montataire",
             "hu": "Montataire-i kastély",
             "ro": "Castelul Montataire",
-            "en": "Montataire Castle"
+            "en": "Montataire Castle",
+            "fr": "Château de Montataire"
           },
           "coords": [
             2.444229,
@@ -788,7 +871,8 @@
             "de": "Erkunden Sie die imposante Burg Montataire, ein Symbol der Verteidigungsgeschichte, wo der sanfte Aufstieg mit einem herrlichen Panoramablick auf die Gegend belohnt wird.",
             "hu": "Fedezze fel az impozáns Montataire-i kastélyt, a város védelmi múltjának szimbólumát, ahol a domboldalon felkapaszkodva csodálatos panorámás kilátás nyílik a környékre.",
             "ro": "Explorați impunătorul Castel Montataire, un simbol al trecutului defensiv al orașului, unde urcarea pe dealurile line vă răsplătește cu o vedere panoramică minunată.",
-            "en": "Explore the imposing Montataire Castle, a symbol of the town's defensive past, where climbing up the gentle hills rewards you with a wonderful panoramic view of the area."
+            "en": "Explore the imposing Montataire Castle, a symbol of the town's defensive past, where climbing up the gentle hills rewards you with a wonderful panoramic view of the area.",
+            "fr": "Explorez l'imposant Château de Montataire, symbole du passé défensif de la ville, où la montée des douces collines récompense par une superbe vue panoramique sur la région."
           }
         },
         {
@@ -796,7 +880,8 @@
             "de": "Château de Laversine",
             "hu": "Château de Laversine",
             "ro": "Château de Laversine",
-            "en": "Château de Laversine"
+            "en": "Château de Laversine",
+            "fr": "Château de Laversine"
           },
           "coords": [
             2.452189,
@@ -811,7 +896,8 @@
             "de": "Beenden Sie Ihren Tag im herrlichen Château de Laversine, einem eleganten Anwesen, wo ein entspannter Nachmittagsspaziergang über das weitläufige Gelände wirklich unvergesslich ist.",
             "hu": "Zárja a napot a fenséges Château de Laversine elegáns birtokán, ahol a kiterjedt parkban tett délutáni séta garantáltan emlékezetes élményt nyújt minden látogató számára.",
             "ro": "Încheiați ziua la magnificul Château de Laversine, o moșie elegantă unde o plimbare de după-amiază prin terenurile sale vaste și frumos întreținute este cu adevărat memorabilă.",
-            "en": "Finish your day at the magnificent Château de Laversine, an elegant estate displaying noble heritage, where an afternoon walk around its extensive grounds is truly memorable."
+            "en": "Finish your day at the magnificent Château de Laversine, an elegant estate displaying noble heritage, where an afternoon walk around its extensive grounds is truly memorable.",
+            "fr": "Terminez votre journée au magnifique Château de Laversine, un domaine élégant reflétant un héritage noble, où une promenade l'après-midi autour de ses vastes parcelles est vraiment mémorable."
           }
         }
       ],
@@ -819,7 +905,8 @@
         "de": "Morning: Wir beginnen unsere Erkundungstour in der ruhigen und grünen Umgebung, wo wir tief durchatmen und die schönen Erholungs- und Naturräume der charmanten Stadt schätzen können.\nMidday: Die Reise verlagert sich in den historischen Kern und enthüllt architektonische Juwelen und religiöse Stätten, die die Zeit überdauert haben und Einblicke in das lokale Erbe bieten.\nAfternoon: Unser Abenteuer führt uns hinauf zu den majestätischen Festungsanlagen der Stadt, wo atemberaubende Aussichten und jahrhundertelange Geschichte ein unvergessliches Erlebnis schaffen.\nEvening: Wenn der Tag sanft ausklingt, schließen wir mit einem großen Finale auf einem eleganten Anwesen ab und denken an die reiche aristokratische Vergangenheit der schönen Region.",
         "hu": "Morning: Felfedezésünket a nyugodt és zöldellő környezetben kezdjük, ahol friss levegőt szívva élvezhetjük a bájos város rekreációs és természeti terei által nyújtott békés kikapcsolódást.\nMidday: Az utazás a történelmi központ felé halad, felfedve azokat az építészeti gyöngyszemeket és vallási helyszíneket, amelyek kiállták az idő próbáját, és betekintést nyújtanak a helyi örökségbe.\nAfternoon: Kalandunk egyre feljebb vezet minket a város fenséges erődítményeihez, ahol a lenyűgöző kilátás és az évszázados történelem összefonódva igazán felejthetetlen élményt teremt.\nEvening: Ahogy a nap lassan a végéhez közeledik, egy elegáns birtokon tartott nagyszerű fináléval zárjuk a túrát, felidézve a régió gazdag arisztokratikus múltját, mielőtt visszatérnénk pihenni.",
         "ro": "Morning: Ne începem explorarea în împrejurimile calme și înverzite, respirând aer proaspăt în timp ce apreciem dedicarea fermecătorului oraș pentru spațiile sale naturale de recreere.\nMidday: Călătoria se îndreaptă spre centrul istoric, dezvăluind bijuterii arhitecturale și locuri religioase care au rezistat testului timpului, oferind o privire asupra moștenirii locale.\nAfternoon: Aventura ne duce mai sus către fortificațiile maiestuoase ale orașului, unde priveliștile uimitoare și secolele de istorie converg pentru a crea o experiență de neuitat.\nEvening: Pe măsură ce ziua se încheie încet, încheiem cu un final grandios la o moșie elegantă, reflectând la bogatul trecut aristocratic al regiunii înainte de a ne relaxa.",
-        "en": "Morning: We begin our exploration in the calm and verdant surroundings, taking deep breaths of fresh air while appreciating the town's dedication to its recreational and natural spaces.\nMidday: The journey shifts towards the historical core, revealing architectural gems and religious sites that have withstood the test of time, offering a glimpse into local heritage.\nAfternoon: Our adventure takes us higher up towards the town's majestic fortifications, where stunning views and centuries of history converge to create an unforgettable experience.\nEvening: As the day gently winds down, we conclude with a grand finale at an elegant estate, reflecting on the region's rich aristocratic past before heading back to relax."
+        "en": "Morning: We begin our exploration in the calm and verdant surroundings, taking deep breaths of fresh air while appreciating the town's dedication to its recreational and natural spaces.\nMidday: The journey shifts towards the historical core, revealing architectural gems and religious sites that have withstood the test of time, offering a glimpse into local heritage.\nAfternoon: Our adventure takes us higher up towards the town's majestic fortifications, where stunning views and centuries of history converge to create an unforgettable experience.\nEvening: As the day gently winds down, we conclude with a grand finale at an elegant estate, reflecting on the region's rich aristocratic past before heading back to relax.",
+        "fr": "Matin : Nous commençons notre exploration dans un environnement calme et verdoyant, respirant profondément l'air pur tout en appréciant l'attention de la ville pour ses espaces récréatifs et naturels.\nMidi : Le parcours se dirige vers le cœur historique, révélant des joyaux architecturaux et des sites religieux qui ont résisté au temps, offrant un aperçu du patrimoine local.\nAprès‑midi : Notre aventure monte vers les fortifications majestueuses de la ville, où vues splendides et siècles d'histoire convergent pour créer une expérience inoubliable.\nSoir : Alors que la journée s'achève en douceur, nous concluons par un final dans un domaine élégant, réfléchissant au riche passé aristocratique de la région avant de rentrer nous détendre."
       },
       "variants": {
         "rainy": {
@@ -827,7 +914,8 @@
             "de": "Die Fahrt durch Montataire an einem Regentag ist bequem. Parken Sie nah an den Eingängen, um nicht nass zu werden. Mittags bieten die historischen Stätten trockene und stimmungsvolle Rückzugsorte. Nachmittags halten Sie die kurzen Fahrten zwischen den Schlössern warm und trocken – ideal für Regentage.",
             "hu": "Montataire bejárása autóval esős napon is kényelmes. Parkoljon közel a bejáratokhoz, hogy a lehető legkevesebb időt töltse a záporokban. Délben a történelmi helyszínek hangulatos és száraz menedéket nyújtanak. Délután a kastélyok közötti rövid autózások biztosítják, hogy melegen és szárazon maradjon a tökéletes esős útvonalon.",
             "ro": "Să conduci prin Montataire într-o zi ploioasă este confortabil. Parcați aproape de intrări pentru a minimiza expunerea la ploaie. La prânz, siturile istorice oferă refugii uscate și pline de atmosferă. După-amiaza, drumurile scurte între castele vă asigură că rămâneți cald și uscat într-un itinerar perfect de ploaie.",
-            "en": "Driving through Montataire on a rainy day is comfortable and convenient. Park close to the entrances to minimize your exposure to the downpours. By noon, the historical sites offer atmospheric and dry retreats from the weather. In the afternoon, the short drives between the castles ensure you stay warm and dry, making it a perfect rainy-day itinerary."
+            "en": "Driving through Montataire on a rainy day is comfortable and convenient. Park close to the entrances to minimize your exposure to the downpours. By noon, the historical sites offer atmospheric and dry retreats from the weather. In the afternoon, the short drives between the castles ensure you stay warm and dry, making it a perfect rainy-day itinerary.",
+            "fr": "Conduire à travers Montataire sous la pluie est confortable et pratique. Garez-vous près des entrées pour limiter votre exposition aux averses. À midi, les sites historiques offrent des retraites atmosphériques et sèches contre le mauvais temps. L'après‑midi, les courts trajets entre les châteaux vous permettent de rester au chaud et au sec, faisant de cet itinéraire une parfaite option pour une journée pluvieuse."
           },
           "stops": [
             {
@@ -835,13 +923,15 @@
                 "de": "Stiftskirche Notre-Dame",
                 "hu": "Notre-Dame társaskáptalan-templom",
                 "ro": "Biserica Colegială Notre-Dame",
-                "en": "Notre-Dame Collegiate Church"
+                "en": "Notre-Dame Collegiate Church",
+                "fr": "Collégiale Notre-Dame"
               },
               "tip_5lang": {
                 "de": "Laufen Sie schnell zum Eingang; drinnen passt das gedimmte Licht perfekt zum Echo des Regens.",
                 "hu": "Szaladjon az autótól a bejáratig; odabent a félhomály tökéletesen kiegészíti az eső visszhangzó hangját.",
                 "ro": "Fugiți de la mașină la intrare; înăuntru, lumina slabă completează perfect ecoul ploii.",
-                "en": "Dash from your car to the entrance; inside, the dim light perfectly complements the echoing sounds of the rain."
+                "en": "Dash from your car to the entrance; inside, the dim light perfectly complements the echoing sounds of the rain.",
+                "fr": "Foncez de votre voiture jusqu'à l'entrée ; à l'intérieur, la lumière tamisée complète parfaitement les échos de la pluie."
               }
             },
             {
@@ -849,13 +939,15 @@
                 "de": "Parc du Prieuré",
                 "hu": "Parc du Prieuré",
                 "ro": "Parc du Prieuré",
-                "en": "Prieuré Park"
+                "en": "Prieuré Park",
+                "fr": "Parc du Prieuré"
               },
               "tip_5lang": {
                 "de": "Haben Sie einen Schirm im Kofferraum; machen Sie einen kurzen Spaziergang auf befestigten Wegen statt im matschigen Gras.",
                 "hu": "Tartson esernyőt a csomagtartóban; tegyen egy rövid sétát a burkolt utakon, elkerülve a saras füvet.",
                 "ro": "Țineți o umbrelă în portbagaj; faceți o scurtă plimbare pe aleile pavate, evitând iarba noroioasă.",
-                "en": "Bring an umbrella in the trunk; take a short, careful walk on paved paths rather than heading into the muddy grass."
+                "en": "Bring an umbrella in the trunk; take a short, careful walk on paved paths rather than heading into the muddy grass.",
+                "fr": "Portez un parapluie dans le coffre ; faites une courte promenade prudente sur les allées pavées plutôt que dans l'herbe boueuse."
               }
             },
             {
@@ -863,13 +955,15 @@
                 "de": "Église Saint-Martin",
                 "hu": "Église Saint-Martin",
                 "ro": "Église Saint-Martin",
-                "en": "Église Saint-Martin"
+                "en": "Église Saint-Martin",
+                "fr": "Église Saint-Martin"
               },
               "tip_5lang": {
                 "de": "Parkplätze sind nah; warten Sie starke Schauer im Auto ab, bevor Sie den ruhigen Innenraum betreten.",
                 "hu": "Utcai parkolás a közelben; várja ki a legnagyobb záporokat az autóban, mielőtt belépne a csendes belső térbe.",
                 "ro": "Parcarea stradală este aproape; așteptați în mașină trecerea rafalelor puternice înainte de a vizita interiorul.",
-                "en": "Street parking is nearby; wait out the heaviest downpours in the car before entering to observe the quiet interior."
+                "en": "Street parking is nearby; wait out the heaviest downpours in the car before entering to observe the quiet interior.",
+                "fr": "Un stationnement de rue est à proximité ; attendez que les fortes averses passent dans la voiture avant d'entrer pour observer l'intérieur paisible."
               }
             },
             {
@@ -877,13 +971,15 @@
                 "de": "Église du Christ-Ressuscité",
                 "hu": "Église du Christ-Ressuscité",
                 "ro": "Église du Christ-Ressuscité",
-                "en": "Église du Christ-Ressuscité"
+                "en": "Église du Christ-Ressuscité",
+                "fr": "Église du Christ-Ressuscité"
               },
               "tip_5lang": {
                 "de": "Der leichte Zugang macht dies zum idealen Stopp an Regentagen, um sich ohne nass zu werden die Beine zu vertreten.",
                 "hu": "Az útról való könnyű megközelítés ideális esős napi megállóvá teszi, hogy bőrig ázás nélkül kinyújtóztassa a lábát.",
                 "ro": "Accesul ușor de pe drum face din aceasta o oprire ideală pe ploaie pentru a vă dezmorți picioarele fără a vă uda.",
-                "en": "Easy access from the road makes this an ideal rainy-day stop to stretch your legs without getting soaked."
+                "en": "Easy access from the road makes this an ideal rainy-day stop to stretch your legs without getting soaked.",
+                "fr": "L'accès facile depuis la route en fait une halte idéale pour étirer les jambes sans se tremper."
               }
             },
             {
@@ -891,13 +987,15 @@
                 "de": "Église Notre-Dame",
                 "hu": "Église Notre-Dame",
                 "ro": "Église Notre-Dame",
-                "en": "Église Notre-Dame"
+                "en": "Église Notre-Dame",
+                "fr": "Église Notre-Dame"
               },
               "tip_5lang": {
                 "de": "Halten Sie den Schirm bereit für den kurzen Weg vom Parkplatz, um die schützende Steinarchitektur zu bewundern.",
                 "hu": "Tartsa kéznél az esernyőt a parkolótól a bejáratig tartó rövid sétához, hogy megcsodálja a védelmező kőépítészetet.",
                 "ro": "Păstrați umbrela la îndemână pentru scurta plimbare de la parcare pentru a admira arhitectura protectoare din piatră.",
-                "en": "Keep an umbrella handy for the short walk from the parking area to admire the sturdy, protective stone architecture."
+                "en": "Keep an umbrella handy for the short walk from the parking area to admire the sturdy, protective stone architecture.",
+                "fr": "Gardez un parapluie à portée de main pour la courte marche du parking et admirez l'architecture protectrice en pierre."
               }
             },
             {
@@ -905,13 +1003,15 @@
                 "de": "Burg Montataire",
                 "hu": "Montataire-i kastély",
                 "ro": "Castelul Montataire",
-                "en": "Montataire Castle"
+                "en": "Montataire Castle",
+                "fr": "Château de Montataire"
               },
               "tip_5lang": {
                 "de": "Fahren Sie bei Nässe vorsichtig den steilen Berg hinauf; drinnen blockieren die massiven Festungsmauern jedes schlechte Wetter.",
                 "hu": "Vezessen óvatosan a meredek hegyen a nedves úton; odabent a masszív erődfalak kint tartják a rossz időt.",
                 "ro": "Conduceți cu prudență pe dealul abrupt ud; odată înăuntru, zidurile masive ale fortăreței blochează vremea rea.",
-                "en": "Drive up the steep hill cautiously in the wet; once inside, the massive fortress walls block out all bad weather."
+                "en": "Drive up the steep hill cautiously in the wet; once inside, the massive fortress walls block out all bad weather.",
+                "fr": "Montez prudemment la côte raide sur sol mouillé ; une fois à l'intérieur, les murs massifs de la forteresse coupent toute intempérie."
               }
             },
             {
@@ -919,13 +1019,15 @@
                 "de": "Château de Laversine",
                 "hu": "Château de Laversine",
                 "ro": "Château de Laversine",
-                "en": "Château de Laversine"
+                "en": "Château de Laversine",
+                "fr": "Château de Laversine"
               },
               "tip_5lang": {
                 "de": "Das Parken auf dem Gelände bedeutet kaum Regen, während Sie die Pracht dieses historischen Schlosses genießen.",
                 "hu": "A birtok területén lévő parkoló minimális esőnek való kitettséget jelent, miközben élvezi a történelmi kastély pompáját.",
                 "ro": "Parcarea pe domeniu înseamnă expunere minimă la ploaie în timp ce vă bucurați de opulența acestui castel istoric.",
-                "en": "Parking on the estate grounds means minimal rain exposure while you enjoy the opulence of this historic chateau."
+                "en": "Parking on the estate grounds means minimal rain exposure while you enjoy the opulence of this historic chateau.",
+                "fr": "Le stationnement sur le domaine réduit l'exposition à la pluie pendant que vous profitez de l'opulence de ce château historique."
               }
             }
           ]
@@ -935,7 +1037,8 @@
             "de": "Ein Winter-Roadtrip durch Montataire hält Sie schön warm. Prüfen Sie Batterie und Heizung für frostige Morgen. Mittags ist der Wechsel vom warmen Auto an die kalte Luft der historischen Stätten sehr erfrischend. Beenden Sie Ihre Tour bis 16:30 Uhr und nutzen Sie das Licht, da die Sonne früh untergeht.",
             "hu": "Egy téli autós túra Montataire-ben garantálja a meleget. Ellenőrizze az akkumulátort és a fűtést a fagyos reggelek előtt. Délben a meleg autóból a történelmi helyszínek friss, fagyos levegőjére lépni hihetetlenül üdítő. Fejezze be a vezetést 16:30-ra, és használja a fényszórókat a biztonságos visszautazáshoz a korai naplemente miatt.",
             "ro": "O excursie de iarnă cu mașina prin Montataire vă menține la căldură. Verificați bateria și încălzirea pentru diminețile geroase. La prânz, tranziția din mașina caldă în aerul înghețat al siturilor istorice este revigorantă. Terminați turul până la 16:30, folosind farurile pentru a naviga în siguranță odată cu apusul timpuriu.",
-            "en": "A winter road trip through Montataire ensures you stay cozy. Ensure your car battery and heating are reliable for frosty mornings. By midday, transitioning from the warm car to the crisp, freezing air at the historical sites feels incredibly refreshing. Finish your driving tour by 16:30, using your headlights to safely navigate back as the sun sets early."
+            "en": "A winter road trip through Montataire ensures you stay cozy. Ensure your car battery and heating are reliable for frosty mornings. By midday, transitioning from the warm car to the crisp, freezing air at the historical sites feels incredibly refreshing. Finish your driving tour by 16:30, using your headlights to safely navigate back as the sun sets early.",
+            "fr": "Un road‑trip hivernal à travers Montataire vous garde au chaud. Assurez‑vous que la batterie et le chauffage de la voiture sont fiables pour les matins glacés. À midi, la transition entre la voiture chauffée et l'air vif et glacial des sites historiques est extrêmement revigorante. Terminez votre tour en voiture avant 16:30, en utilisant vos phares pour rentrer en toute sécurité alors que le soleil se couche tôt."
           },
           "stops": [
             {
@@ -943,13 +1046,15 @@
                 "de": "Stiftskirche Notre-Dame",
                 "hu": "Notre-Dame társaskáptalan-templom",
                 "ro": "Biserica Colegială Notre-Dame",
-                "en": "Notre-Dame Collegiate Church"
+                "en": "Notre-Dame Collegiate Church",
+                "fr": "Collégiale Notre-Dame"
               },
               "tip_5lang": {
                 "de": "Lassen Sie den Mantel im warmen Auto für ein schnelles Foto, aber ziehen Sie sich warm an für eine lange Besichtigung.",
                 "hu": "Hagyja a kabátot a fűtött autóban egy gyors fotóhoz, de öltözzön fel melegen a teljes belső látogatáshoz.",
                 "ro": "Lăsați haina în mașina încălzită pentru o fotografie rapidă, dar îmbrăcați-vă gros pentru vizita interioară completă.",
-                "en": "Leave your coat in the heated car if you're just stepping out for a quick photo, but bundle up for a full interior visit."
+                "en": "Leave your coat in the heated car if you're just stepping out for a quick photo, but bundle up for a full interior visit.",
+                "fr": "Laissez votre manteau dans la voiture chauffée si vous ne sortez que pour une photo rapide, mais habillez‑vous chaudement pour une visite complète de l'intérieur."
               }
             },
             {
@@ -957,13 +1062,15 @@
                 "de": "Parc du Prieuré",
                 "hu": "Parc du Prieuré",
                 "ro": "Parc du Prieuré",
-                "en": "Prieuré Park"
+                "en": "Prieuré Park",
+                "fr": "Parc du Prieuré"
               },
               "tip_5lang": {
                 "de": "Parken Sie nah am Eingang wegen des eisigen Windes; eine Thermoskanne heißer Tee im Auto ist danach perfekt.",
                 "hu": "Parkoljon a bejárat közelében a fagyos szél miatt; egy termosz forró tea az autóban tökéletes a séta után.",
                 "ro": "Parcați lângă intrare din cauza vântului înghețat; un termos cu ceai fierbinte în mașină este perfect după plimbare.",
-                "en": "Park near the entrance to limit time in the freezing wind; a thermos of hot tea in the car is perfect after this stop."
+                "en": "Park near the entrance to limit time in the freezing wind; a thermos of hot tea in the car is perfect after this stop.",
+                "fr": "Garez‑vous près de l'entrée pour limiter le temps passé au vent glacé ; un thermos de thé chaud dans la voiture est parfait après cette halte."
               }
             },
             {
@@ -971,13 +1078,15 @@
                 "de": "Église Saint-Martin",
                 "hu": "Église Saint-Martin",
                 "ro": "Église Saint-Martin",
-                "en": "Église Saint-Martin"
+                "en": "Église Saint-Martin",
+                "fr": "Église Saint-Martin"
               },
               "tip_5lang": {
                 "de": "Die klare Winterluft betont die Steindetails; genießen Sie die Autoheizung auf dem Weg zum nächsten kurzen Stopp.",
                 "hu": "A friss téli levegő kiemeli a kőből faragott részleteket; élvezze az autó fűtését a következő rövid megálló előtt.",
                 "ro": "Aerul proaspăt de iarnă evidențiază detaliile din piatră; bucurați-vă de căldura mașinii înainte de următoarea oprire.",
-                "en": "The crisp winter air highlights the stone details; enjoy a blast of the car’s heater as you prepare for the next brief stop."
+                "en": "The crisp winter air highlights the stone details; enjoy a blast of the car’s heater as you prepare for the next brief stop.",
+                "fr": "L'air vif d'hiver met en valeur les détails de pierre ; profitez d'une bonne bouffée de chauffage de la voiture avant de repartir pour la prochaine courte halte."
               }
             },
             {
@@ -985,13 +1094,15 @@
                 "de": "Église du Christ-Ressuscité",
                 "hu": "Église du Christ-Ressuscité",
                 "ro": "Église du Christ-Ressuscité",
-                "en": "Église du Christ-Ressuscité"
+                "en": "Église du Christ-Ressuscité",
+                "fr": "Église du Christ-Ressuscité"
               },
               "tip_5lang": {
                 "de": "Steigen Sie kurz aus, um die moderne Fassade im klaren Winterlicht zu bewundern, ohne zu stark abzukühlen.",
                 "hu": "Ugorjon ki gyorsan, hogy megcsodálja a modern homlokzatot a friss téli fényben, anélkül, hogy túlságosan áthűlne.",
                 "ro": "Ieșiți rapid pentru a admira fațada modernă în lumina rece de iarnă fără a vă pierde prea mult căldura reținută.",
-                "en": "Pop out quickly to admire the modern facade in the crisp winter light without losing too much of your retained heat."
+                "en": "Pop out quickly to admire the modern facade in the crisp winter light without losing too much of your retained heat.",
+                "fr": "Sortez rapidement pour admirer la façade moderne sous la lumière hivernale sans perdre trop de chaleur accumulée."
               }
             },
             {
@@ -999,13 +1110,15 @@
                 "de": "Église Notre-Dame",
                 "hu": "Église Notre-Dame",
                 "ro": "Église Notre-Dame",
-                "en": "Église Notre-Dame"
+                "en": "Église Notre-Dame",
+                "fr": "Église Notre-Dame"
               },
               "tip_5lang": {
                 "de": "Das kalte Steininnere kann im Winter frostig sein; behalten Sie Ihren dicksten Pullover bei der Erkundung an.",
                 "hu": "A hideg kőbelső télen didergető lehet; tartsa magán a legvastagabb pulóverét a benti felfedezés során.",
                 "ro": "Interiorul rece din piatră poate fi înghețat iarna; păstrați cel mai gros pulover în timpul explorării.",
-                "en": "The cold stone interior can be chilling in winter; keep your thickest sweater on during your exploration inside."
+                "en": "The cold stone interior can be chilling in winter; keep your thickest sweater on during your exploration inside.",
+                "fr": "L'intérieur en pierre froide peut être glacial en hiver ; gardez votre pull le plus épais pendant la visite."
               }
             },
             {
@@ -1013,13 +1126,15 @@
                 "de": "Burg Montataire",
                 "hu": "Montataire-i kastély",
                 "ro": "Castelul Montataire",
-                "en": "Montataire Castle"
+                "en": "Montataire Castle",
+                "fr": "Château de Montataire"
               },
               "tip_5lang": {
                 "de": "Fahren Sie vorsichtig, da die steile Zufahrt spätnachmittags eisig sein kann; der Blick in der Dämmerung ist toll.",
                 "hu": "Vezessen óvatosan, mert a meredek felhajtó késő délután jeges lehet; a szürkületi kilátás innen lenyűgöző.",
                 "ro": "Conduceți cu grijă, deoarece urcușul abrupt poate fi înghețat după-amiaza târziu; priveliștile de la amurg sunt uimitoare.",
-                "en": "Drive carefully as the steep castle approach may be icy in the late afternoon; the twilight views from here are stunning."
+                "en": "Drive carefully as the steep castle approach may be icy in the late afternoon; the twilight views from here are stunning.",
+                "fr": "Conduisez prudemment car l'approche raide du château peut être verglacée en fin d'après‑midi ; les vues au crépuscule d'ici sont splendides."
               }
             },
             {
@@ -1027,13 +1142,15 @@
                 "de": "Château de Laversine",
                 "hu": "Château de Laversine",
                 "ro": "Château de Laversine",
-                "en": "Château de Laversine"
+                "en": "Château de Laversine",
+                "fr": "Château de Laversine"
               },
               "tip_5lang": {
                 "de": "Kommen Sie vor Sonnenuntergang, um das Anwesen zu sehen; schalten Sie Nebelscheinwerfer ein, falls Winternebel aufzieht.",
                 "hu": "Érkezzen jóval naplemente előtt a birtok felfedezéséhez; kapcsolja be a ködlámpát, ha téli köd borítja a vidéki utakat.",
                 "ro": "Ajungeți cu mult înainte de apus pentru a aprecia domeniul; aprindeți proiectoarele dacă ceața de iarnă acoperă drumurile rurale.",
-                "en": "Arrive well before sunset to appreciate the estate grounds; switch on your fog lights if winter mists roll over the rural roads."
+                "en": "Arrive well before sunset to appreciate the estate grounds; switch on your fog lights if winter mists roll over the rural roads.",
+                "fr": "Arrivez bien avant le coucher du soleil pour apprécier le domaine ; allumez vos feux de brouillard si des brumes hivernales envahissent les routes rurales."
               }
             }
           ]

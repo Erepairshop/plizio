@@ -21,7 +21,8 @@
             "de": "Sarrebourg Town Hall",
             "hu": "Sarrebourg Town Hall",
             "ro": "Sarrebourg Town Hall",
-            "en": "Sarrebourg Town Hall"
+            "en": "Sarrebourg Town Hall",
+            "fr": "Hôtel de ville de Sarrebourg"
           },
           "coords": [
             7.051275,
@@ -36,7 +37,8 @@
             "de": "Bewundern Sie die klassische Architektur von Saarburgs historischem Verwaltungszentrum, ein perfekter Startpunkt, den man für ruhige Fotos früh besuchen sollte.",
             "hu": "Csodálja meg a történelmi közigazgatási központ klasszikus építészetét, amely tökéletes kiindulópont, és érdemes korán érkezni a zavartalan fotók elkészítéséhez.",
             "ro": "Admirați arhitectura clasică a centrului administrativ istoric din Sarrebourg, un punct de plecare perfect care trebuie vizitat devreme pentru fotografii liniștite.",
-            "en": "Admire the classic architecture of Sarrebourg's historic administrative heart, a perfect starting point for your city tour, best visited early for quiet photos."
+            "en": "Admire the classic architecture of Sarrebourg's historic administrative heart, a perfect starting point for your city tour, best visited early for quiet photos.",
+            "fr": "Admirez l'architecture classique du cœur administratif historique de Sarrebourg, un excellent point de départ pour votre visite de la ville, à privilégier tôt le matin pour des photos au calme."
           }
         },
         {
@@ -44,7 +46,8 @@
             "de": "Saint-Barthélemy Church",
             "hu": "Saint-Barthélemy Church",
             "ro": "Saint-Barthélemy Church",
-            "en": "Saint-Barthélemy Church"
+            "en": "Saint-Barthélemy Church",
+            "fr": "Église Saint-Barthélemy"
           },
           "coords": [
             7.05148,
@@ -59,7 +62,8 @@
             "de": "Treten Sie ein in dieses majestätische Gotteshaus, um die atemberaubenden Buntglasfenster zu bestaunen, und achten Sie bei Sonnenschein auf den detailreichen Hochaltar.",
             "hu": "Lépjen be ebbe a fenséges templomba, hogy megcsodálja a lenyűgöző ólomüveg ablakokat, és napsütéses időben figyelje meg a főoltár bonyolult, csodás részleteit.",
             "ro": "Pășiți în acest lăcaș de cult maiestuos pentru a admira vitraliile uimitoare și priviți cu atenție detaliile complicate ale altarului principal în zilele însorite.",
-            "en": "Step inside this majestic place of worship to marvel at its stunning stained glass windows, and look closely at the intricate details of the high altar on sunny days."
+            "en": "Step inside this majestic place of worship to marvel at its stunning stained glass windows, and look closely at the intricate details of the high altar on sunny days.",
+            "fr": "Pénétrez dans ce majestueux lieu de culte pour admirer ses superbes vitraux, et observez de près les détails finement travaillés du maître-autel par temps ensoleillé."
           }
         },
         {
@@ -67,7 +71,8 @@
             "de": "Cordeliers Chapel",
             "hu": "Cordeliers Chapel",
             "ro": "Cordeliers Chapel",
-            "en": "Cordeliers Chapel"
+            "en": "Cordeliers Chapel",
+            "fr": "Chapelle des Cordeliers"
           },
           "coords": [
             7.053185,
@@ -82,7 +87,8 @@
             "de": "Betrachten Sie das monumentale Chagall-Fenster, das diese friedliche Kapelle erhellt, und stellen Sie sich für den besten Blickwinkel auf das Kunstwerk ins Zentrum.",
             "hu": "Csodálja meg a békés kápolnát megvilágító hatalmas Chagall-ólomüveg ablakot, és álljon a főhajó közepére, hogy a legjobb szögből élvezhesse a lenyűgöző műalkotást.",
             "ro": "Priviți vitraliul monumental al lui Chagall care luminează această capelă pașnică și așezați-vă în centrul naosului pentru cel mai bun unghi de vizionare al operei.",
-            "en": "Gaze at the monumental Chagall stained glass window illuminating this peaceful chapel, and stand in the center of the nave for the best viewing angle of the artwork."
+            "en": "Gaze at the monumental Chagall stained glass window illuminating this peaceful chapel, and stand in the center of the nave for the best viewing angle of the artwork.",
+            "fr": "Contemplez le monumental vitrail de Chagall qui illumine cette chapelle paisible, et placez-vous au centre de la nef pour le meilleur angle de vue de l'œuvre."
           }
         },
         {
@@ -90,7 +96,8 @@
             "de": "Museum of the Pays de Sarrebourg",
             "hu": "Museum of the Pays de Sarrebourg",
             "ro": "Museum of the Pays de Sarrebourg",
-            "en": "Museum of the Pays de Sarrebourg"
+            "en": "Museum of the Pays de Sarrebourg",
+            "fr": "Musée du Pays de Sarrebourg"
           },
           "coords": [
             7.055456,
@@ -105,7 +112,8 @@
             "de": "Entdecken Sie die regionale Geschichte durch archäologische Funde und lokale Artefakte, aber holen Sie sich für tiefere Einblicke unbedingt den kostenlosen Audioguide.",
             "hu": "Fedezze fel a régió történelmét a régészeti leleteken keresztül, de a mélyebb megértés érdekében mindenképpen kérjen egy ingyenes audioguide-ot a recepciónál.",
             "ro": "Descoperiți istoria regională prin descoperiri arheologice și artefacte locale, dar asigurați-vă că luați un ghid audio gratuit de la recepție pentru detalii.",
-            "en": "Discover regional history through fascinating archaeological finds and local artifacts, but ensure you grab a free audio guide at the reception for deeper insights."
+            "en": "Discover regional history through fascinating archaeological finds and local artifacts, but ensure you grab a free audio guide at the reception for deeper insights.",
+            "fr": "Découvrez l'histoire régionale à travers des trouvailles archéologiques fascinantes et des objets locaux, mais pensez à récupérer un audioguide gratuit à la réception pour approfondir votre visite."
           }
         },
         {
@@ -113,7 +121,8 @@
             "de": "Kidiplay",
             "hu": "Kidiplay",
             "ro": "Kidiplay",
-            "en": "Kidiplay"
+            "en": "Kidiplay",
+            "fr": "Kidiplay"
           },
           "coords": [
             7.075143,
@@ -128,7 +137,8 @@
             "de": "Lassen Sie Ihre Kinder auf diesem lebhaften Indoor-Spielplatz mit Rutschen Energie abbauen und trinken Sie einen Kaffee in der Eltern-Lounge, während Sie zuschauen.",
             "hu": "Hagyja, hogy a gyerekek levezessék az energiájukat ezen az élénk beltéri játszótéren, és igyon egy kávét a szülők társalgójában, miközben szemmel tartja őket.",
             "ro": "Lăsați copiii să-și consume energia în acest loc de joacă interior plin cu tobogane și savurați o cafea la salonul părinților în timp ce îi supravegheați.",
-            "en": "Let your kids burn off energy in this vibrant indoor playground filled with slides, and grab a coffee at the parents' lounge while maintaining a watchful eye."
+            "en": "Let your kids burn off energy in this vibrant indoor playground filled with slides, and grab a coffee at the parents' lounge while maintaining a watchful eye.",
+            "fr": "Laissez vos enfants se dépenser dans cette aire de jeux intérieure dynamique remplie de toboggans, et prenez un café au salon des parents tout en gardant un œil vigilant."
           }
         }
       ],
@@ -136,7 +146,8 @@
         "de": "Beginnen Sie den Morgen mit der Erkundung des Rathauses von Saarburg und der Kirche Saint-Barthélemy. Mittags besuchen Sie die Chapelle des Cordeliers mit ihrem Chagall-Fenster. Am Nachmittag tauchen Sie im Museum in die Geschichte ein. Lassen Sie den Tag ausklingen, während die Kleinen im Kidiplay ihre überschüssige Energie abbauen.",
         "hu": "Kezdje a reggelt a sarrebourg-i városháza és a közeli Saint-Barthélemy templom felfedezésével. Délben a Cordeliers kápolnába vezet az út, ahol Chagall ablakai találhatók. Délután merüljön el a történelemben a helyi múzeumban. Zárja a napot egy lazítással, amíg a legkisebbek a Kidiplay fedett játszóterén vezetik le az energiájukat.",
         "ro": "Începeți dimineața explorând eleganta Primărie din Sarrebourg și biserica Saint-Barthélemy. La prânz mergeți la Capela Cordeliers, cu vitraliile sale uimitoare. După-amiaza, scufundați-vă în istorie la Muzeul din Sarrebourg. Încheiați ziua lăsându-i pe cei mici să se joace liber în parcul de distracții interior Kidiplay.",
-        "en": "Start your morning exploring the elegant Sarrebourg Town Hall and the nearby Saint-Barthélemy Church. Midday takes you to the Cordeliers Chapel, home to the breathtaking Chagall window. In the afternoon, immerse yourself in history at the Museum of the Pays de Sarrebourg. Wrap up the day letting the little ones run free at the indoor playground, Kidiplay."
+        "en": "Start your morning exploring the elegant Sarrebourg Town Hall and the nearby Saint-Barthélemy Church. Midday takes you to the Cordeliers Chapel, home to the breathtaking Chagall window. In the afternoon, immerse yourself in history at the Museum of the Pays de Sarrebourg. Wrap up the day letting the little ones run free at the indoor playground, Kidiplay.",
+        "fr": "Commencez la matinée en explorant l'élégant Hôtel de ville de Sarrebourg et la proche église Saint-Barthélemy. À midi, dirigez-vous vers la chapelle des Cordeliers, où se trouve le superbe vitrail de Chagall. L'après-midi, plongez dans l'histoire au Musée du Pays de Sarrebourg. Terminez la journée en laissant les plus jeunes courir librement à l'aire de jeux intérieure Kidiplay."
       },
       "variants": {
         "rainy": {
@@ -144,7 +155,8 @@
             "de": "Der Morgen beginnt am Rathaus und den historischen Kirchen mit Regenschirmen. Mittags ist es perfekt, um im großen Museum komplett trocken zu bleiben. Der Nachmittag im Kidiplay bietet tollen Indoor-Spaß, während es draußen gießt. Abends spazieren Sie durch gut überdachte Gassen zurück.",
             "hu": "A reggel a városházánál és a történelmi templomoknál indul esernyőkkel. A dél tökéletes a tágas múzeumban, ahol teljesen száraz maradhat. A délutáni Kidiplay remek benti szórakozást nyújt, míg kint zuhog az eső. Este séta vissza a védett, fedett sikátorokon keresztül.",
             "ro": "Dimineața începe la primărie și la bisericile istorice sub umbrele. Prânzul este perfect în muzeul spațios pentru a rămâne complet uscat. După-amiaza la Kidiplay oferă distracție excelentă la interior în timp ce afară toarnă. Seara faceți o plimbare pe alei bine adăpostite.",
-            "en": "Morning starts at the town hall and historic churches with umbrellas. Midday is perfect in the spacious museum to stay completely dry. Afternoon at Kidiplay offers excellent indoor fun for the family while it pours outside. Evening brings a wet walk back via sheltered alleys."
+            "en": "Morning starts at the town hall and historic churches with umbrellas. Midday is perfect in the spacious museum to stay completely dry. Afternoon at Kidiplay offers excellent indoor fun for the family while it pours outside. Evening brings a wet walk back via sheltered alleys.",
+            "fr": "La matinée commence à l'hôtel de ville et aux églises historiques avec des parapluies. À midi, le spacieux musée est parfait pour rester complètement au sec. L'après-midi, Kidiplay offre d'excellentes activités intérieures pour la famille pendant que la pluie tombe. Le soir, une promenade humide de retour se fait par des ruelles abritées."
           },
           "stops": [
             {
@@ -152,13 +164,15 @@
                 "de": "Sarrebourg Town Hall",
                 "hu": "Sarrebourg Town Hall",
                 "ro": "Sarrebourg Town Hall",
-                "en": "Sarrebourg Town Hall"
+                "en": "Sarrebourg Town Hall",
+                "fr": "Hôtel de ville de Sarrebourg"
               },
               "tip_5lang": {
                 "de": "Bewundern Sie die beeindruckende Architektur unter Ihrem Regenschirm; die nahen Arkaden bieten einen trockenen Schutzort, falls der heftige Regen zu stark wird.",
                 "hu": "Csodálja meg a lenyűgöző építészetet az esernyője alól; a közeli árkádok gyors és száraz menedéket nyújtanak, ha a heves esőzés túlzottan felerősödne a téren.",
                 "ro": "Admirați arhitectura uimitoare de sub umbrelă; arcadele clădirilor din apropiere oferă un adăpost rapid și uscat dacă ploaia torențială devine prea puternică.",
-                "en": "Admire the stunning civic architecture from under your umbrella; the nearby building arcades offer a quick, dry shelter if the heavy rain gets too much to handle."
+                "en": "Admire the stunning civic architecture from under your umbrella; the nearby building arcades offer a quick, dry shelter if the heavy rain gets too much to handle.",
+                "fr": "Admirez la magnifique architecture civique sous votre parapluie ; les arcades de bâtiments à proximité offrent un abri rapide et sec si la forte pluie devient trop intense."
               }
             },
             {
@@ -166,13 +180,15 @@
                 "de": "Saint-Barthélemy Church",
                 "hu": "Saint-Barthélemy Church",
                 "ro": "Saint-Barthélemy Church",
-                "en": "Saint-Barthélemy Church"
+                "en": "Saint-Barthélemy Church",
+                "fr": "Église Saint-Barthélemy"
               },
               "tip_5lang": {
                 "de": "Treten Sie in das riesige Kirchenschiff ein, um dem Regen zu entkommen, und genießen Sie die Akustik und bunten Fenster, ohne draußen nass zu werden.",
                 "hu": "Lépjen be a hatalmas hajóba, hogy elmeneküljön az eső elől, és élvezze a gyönyörű akusztikát és az ólomüveg ablakokat anélkül, hogy kint megázna.",
                 "ro": "Pășiți în naosul vast pentru a scăpa de ploaie, bucurându-vă de acustica frumoasă și de vitralii fără a vă uda afară în timpul furtunii reci.",
-                "en": "Step inside the vast nave to escape the pouring rain, enjoying the beautiful acoustics and stained glass windows without getting completely wet outside."
+                "en": "Step inside the vast nave to escape the pouring rain, enjoying the beautiful acoustics and stained glass windows without getting completely wet outside.",
+                "fr": "Entrez dans la vaste nef pour échapper à la pluie battante, profitez de la belle acoustique et des vitraux sans être mouillé à l'extérieur."
               }
             },
             {
@@ -180,13 +196,15 @@
                 "de": "Cordeliers Chapel",
                 "hu": "Cordeliers Chapel",
                 "ro": "Cordeliers Chapel",
-                "en": "Cordeliers Chapel"
+                "en": "Cordeliers Chapel",
+                "fr": "Chapelle des Cordeliers"
               },
               "tip_5lang": {
                 "de": "Bestaunen Sie das monumentale Chagall-Fenster; die Innenbeleuchtung wirkt vor dem dunklen, regnerischen Himmel und den nassen Straßen besonders dramatisch.",
                 "hu": "Csodálja meg a monumentális Chagall ablakot; a benti világítás különösen drámaian hat a sötét, esős égbolt és a nedves utcák háttere előtt.",
                 "ro": "Minunați-vă de fereastra monumentală Chagall; iluminatul interior este deosebit de dramatic pe fundalul cerului întunecat și ploios de afară.",
-                "en": "Marvel at the monumental Chagall stained glass window; the indoor lighting is especially dramatic and beautiful against the dark, gloomy rainy sky outside."
+                "en": "Marvel at the monumental Chagall stained glass window; the indoor lighting is especially dramatic and beautiful against the dark, gloomy rainy sky outside.",
+                "fr": "Émerveillez-vous devant le monumental vitrail de Chagall ; l'éclairage intérieur est particulièrement dramatique et beau sur fond de ciel pluvieux et sombre."
               }
             },
             {
@@ -194,13 +212,15 @@
                 "de": "Museum of the Pays de Sarrebourg",
                 "hu": "Museum of the Pays de Sarrebourg",
                 "ro": "Museum of the Pays de Sarrebourg",
-                "en": "Museum of the Pays de Sarrebourg"
+                "en": "Museum of the Pays de Sarrebourg",
+                "fr": "Musée du Pays de Sarrebourg"
               },
               "tip_5lang": {
                 "de": "Verbringen Sie Ihren Mittag völlig trocken und erkunden Sie die lokale Geschichte in dieser geräumigen, klimatisierten Einrichtung abseits der nassen Straßen.",
                 "hu": "Töltse a delet teljesen szárazon, fedezze fel a helyi történelmet ebben a tágas, klimatizált létesítményben, távol a nedves és csúszós utcáktól.",
                 "ro": "Petreceți-vă prânzul complet uscat explorând istoria locală în această facilitate spațioasă, ferită de străzile umede și de ploaia persistentă.",
-                "en": "Spend your midday completely dry exploring local history and archaeology in this spacious, climate-controlled facility away from the wet, slippery streets."
+                "en": "Spend your midday completely dry exploring local history and archaeology in this spacious, climate-controlled facility away from the wet, slippery streets.",
+                "fr": "Passez votre midi complètement au sec en explorant l'histoire locale et l'archéologie dans cette installation spacieuse et climatisée, à l'écart des rues mouillées et glissantes."
               }
             },
             {
@@ -208,13 +228,15 @@
                 "de": "Kidiplay",
                 "hu": "Kidiplay",
                 "ro": "Kidiplay",
-                "en": "Kidiplay"
+                "en": "Kidiplay",
+                "fr": "Kidiplay"
               },
               "tip_5lang": {
                 "de": "Der perfekte regnerische Zufluchtsort, an dem Kinder in einem riesigen Indoor-Spielplatz Energie abbauen, während die Eltern warm und trocken bleiben.",
                 "hu": "Tökéletes menedék esős időben, ahol a gyerekek levezethetik az energiájukat egy hatalmas benti játszóházban, míg a szülők melegben és szárazon maradnak.",
                 "ro": "Evadarea perfectă într-o după-amiază ploioasă, lăsând copiii să-și consume energia într-un loc de joacă interior imens, în timp ce părinții stau uscați.",
-                "en": "The perfect rainy afternoon escape, letting kids burn off energy in a massive indoor playground while parents stay comfortably warm and completely dry."
+                "en": "The perfect rainy afternoon escape, letting kids burn off energy in a massive indoor playground while parents stay comfortably warm and completely dry.",
+                "fr": "La parfaite escapade pour un après-midi pluvieux : laissez les enfants se dépenser dans une immense aire de jeux intérieure pendant que les parents restent confortablement au chaud et tout à fait au sec."
               }
             }
           ]
@@ -224,7 +246,8 @@
             "de": "Ein kalter Morgen im Zentrum und an den historischen Kirchen erfordert warme Kleidung. Mittags wärmen Sie sich im Museum auf. Beenden Sie den Nachmittag drinnen im Spielzentrum, bevor die Sonne gegen 17 Uhr untergeht. Der Abend bringt einen eisigen, aber wunderschönen Heimweg.",
             "hu": "A hideg reggel a központban és a történelmi templomoknál meleg öltözéket kíván. Délben melegedjen fel a múzeumban. A délutánt a benti játszóházban fejezze be a korai, 17 óra körüli sötétedés előtt. Az este fagyos, de gyönyörű sétát ígér visszafelé.",
             "ro": "Dimineața rece la centrul civic și la biserici necesită haine calde. Încălziți-vă în muzeu la prânz. Terminați după-amiaza la centrul de joacă înainte de apusul devreme de la ora 17:00. Seara aduce o plimbare înghețată, dar frumoasă spre casă.",
-            "en": "A cold morning at the civic center and churches requires warm layers. Warm up thoroughly in the museum around midday. Finish the afternoon indoors at the play center before the early 5 PM sunset. The evening brings a freezing but beautiful crisp walk home."
+            "en": "A cold morning at the civic center and churches requires warm layers. Warm up thoroughly in the museum around midday. Finish the afternoon indoors at the play center before the early 5 PM sunset. The evening brings a freezing but beautiful crisp walk home.",
+            "fr": "Une matinée froide au centre civique et aux églises nécessite des couches chaudes. Réchauffez-vous bien au musée vers midi. Finissez l'après-midi à l'intérieur du centre de jeux avant le coucher du soleil prématuré à 17h. La soirée offre une marche glaciale mais belle jusqu'à la maison."
           },
           "stops": [
             {
@@ -232,13 +255,15 @@
                 "de": "Sarrebourg Town Hall",
                 "hu": "Sarrebourg Town Hall",
                 "ro": "Sarrebourg Town Hall",
-                "en": "Sarrebourg Town Hall"
+                "en": "Sarrebourg Town Hall",
+                "fr": "Hôtel de ville de Sarrebourg"
               },
               "tip_5lang": {
                 "de": "Beginnen Sie Ihren kühlen Morgen mit dem Blick auf das Rathaus; kleiden Sie sich warm, da der Platz in den Wintermonaten ziemlich windig sein kann.",
                 "hu": "Kezdje a hűvös reggelt a városháza homlokzatának megtekintésével; öltözzön melegen, mivel a tér a téli hónapokban meglehetősen szeles és fagyos lehet.",
                 "ro": "Începeți dimineața răcoroasă privind fațada primăriei; îmbrăcați-vă călduros, deoarece piața poate fi destul de bătută de vânt în lunile de iarnă.",
-                "en": "Start your chilly morning viewing the town hall's beautiful facade; dress warmly in thick layers as the square can get quite windy in the winter months."
+                "en": "Start your chilly morning viewing the town hall's beautiful facade; dress warmly in thick layers as the square can get quite windy in the winter months.",
+                "fr": "Commencez votre matinée fraîche en admirant la belle façade de l'hôtel de ville ; habillez-vous chaudement en couches épaisses car la place peut être très venteuse en hiver."
               }
             },
             {
@@ -246,13 +271,15 @@
                 "de": "Saint-Barthélemy Church",
                 "hu": "Saint-Barthélemy Church",
                 "ro": "Saint-Barthélemy Church",
-                "en": "Saint-Barthélemy Church"
+                "en": "Saint-Barthélemy Church",
+                "fr": "Église Saint-Barthélemy"
               },
               "tip_5lang": {
                 "de": "Suchen Sie in dieser prächtigen Kirche Zuflucht vor der eisigen Luft und nehmen Sie sich Zeit, um den historischen, winterlich beleuchteten Innenraum zu bewundern.",
                 "hu": "Keressen menedéket a fagyos levegő elől ebben a csodálatos templomban, és szánjon időt a történelmi, téli fényekben úszó belső tér megcsodálására.",
                 "ro": "Găsiți refugiu din calea aerului înghețat în această biserică magnifică, luându-vă timp să admirați interiorul său istoric luminat de iarnă.",
-                "en": "Find refuge from the freezing outside air inside this magnificent church, taking time to admire its historic, quietly winter-lit interior spaces."
+                "en": "Find refuge from the freezing outside air inside this magnificent church, taking time to admire its historic, quietly winter-lit interior spaces.",
+                "fr": "Trouvez refuge contre l'air glacial extérieur à l'intérieur de cette église magnifique, en prenant le temps d'admirer ses espaces intérieurs historiques, doucement éclairés en hiver."
               }
             },
             {
@@ -260,13 +287,15 @@
                 "de": "Cordeliers Chapel",
                 "hu": "Cordeliers Chapel",
                 "ro": "Cordeliers Chapel",
-                "en": "Cordeliers Chapel"
+                "en": "Cordeliers Chapel",
+                "fr": "Chapelle des Cordeliers"
               },
               "tip_5lang": {
                 "de": "Die Wintersonne beleuchtet das berühmte Chagall-Fenster perfekt und erzeugt ein warmes Leuchten in dieser unbeheizten, aber atemberaubenden Kapelle.",
                 "hu": "A téli napfény tökéletesen megvilágítja a híres Chagall ablakot, meleg ragyogást teremtve ebben a fűtetlen, de lélegzetelállítóan szép kápolnában.",
                 "ro": "Soarele de iarnă iluminează perfect faimoasa fereastră Chagall, creând o strălucire caldă în interiorul acestei capele neîncălzite, dar uimitoare.",
-                "en": "The low winter sun perfectly illuminates the famous Chagall window, creating a beautiful warm glow inside this totally unheated but stunning chapel."
+                "en": "The low winter sun perfectly illuminates the famous Chagall window, creating a beautiful warm glow inside this totally unheated but stunning chapel.",
+                "fr": "Le faible soleil d'hiver illumine parfaitement le célèbre vitrail de Chagall, créant une belle lueur chaude à l'intérieur de cette chapelle non chauffée mais remarquable."
               }
             },
             {
@@ -274,13 +303,15 @@
                 "de": "Museum of the Pays de Sarrebourg",
                 "hu": "Museum of the Pays de Sarrebourg",
                 "ro": "Museum of the Pays de Sarrebourg",
-                "en": "Museum of the Pays de Sarrebourg"
+                "en": "Museum of the Pays de Sarrebourg",
+                "fr": "Musée du Pays de Sarrebourg"
               },
               "tip_5lang": {
                 "de": "Wärmen Sie Ihre Hände, während Sie in die regionale Geschichte eintauchen; die beheizten Galerien sind perfekt für einen frostigen, kalten Mittag.",
                 "hu": "Melegítse fel a kezét, miközben elmerül a regionális történelemben; a múzeum fűtött galériái tökéletesek egy fagyos, rendkívül hideg téli délre.",
                 "ro": "Încălziți-vă mâinile în timp ce vă scufundați în istoria regională; galeriile încălzite ale muzeului sunt perfecte pentru o amiază geroasă.",
-                "en": "Warm your freezing hands while diving deep into regional history; the museum's fully heated galleries are completely perfect for a frosty winter midday."
+                "en": "Warm your freezing hands while diving deep into regional history; the museum's fully heated galleries are completely perfect for a frosty winter midday.",
+                "fr": "Réchauffez vos mains glacées en plongeant dans l'histoire régionale ; les galeries entièrement chauffées du musée sont parfaites pour un midi d'hiver frissonnant."
               }
             },
             {
@@ -288,13 +319,15 @@
                 "de": "Kidiplay",
                 "hu": "Kidiplay",
                 "ro": "Kidiplay",
-                "en": "Kidiplay"
+                "en": "Kidiplay",
+                "fr": "Kidiplay"
               },
               "tip_5lang": {
                 "de": "Entfliehen Sie der frühen Winterdämmerung und den eisigen Temperaturen in diesem lebhaften Indoor-Zentrum, einem gemütlichen Rückzugsort für die Familie.",
                 "hu": "Meneküljön el a korai téli szürkület és a fagyos hőmérséklet elől ebbe a nyüzsgő benti központba, amely hangulatos és aktív menedék az egész családnak.",
                 "ro": "Scăpați de amurgul de iarnă timpuriu și de temperaturile înghețate în acest centru interior vibrant, o retragere confortabilă pentru întreaga familie.",
-                "en": "Escape the early winter dusk and dropping freezing temperatures in this vibrant indoor center, providing a cozy and active retreat for the whole family."
+                "en": "Escape the early winter dusk and dropping freezing temperatures in this vibrant indoor center, providing a cozy and active retreat for the whole family.",
+                "fr": "Échappez au crépuscule hivernal précoce et aux températures glaciales dans ce centre intérieur dynamique, offrant un refuge cosy et actif pour toute la famille."
               }
             }
           ]
@@ -314,7 +347,8 @@
             "de": "Sarrebourg Town Hall",
             "hu": "Sarrebourg Town Hall",
             "ro": "Sarrebourg Town Hall",
-            "en": "Sarrebourg Town Hall"
+            "en": "Sarrebourg Town Hall",
+            "fr": "Hôtel de ville de Sarrebourg"
           },
           "coords": [
             7.051275,
@@ -329,7 +363,8 @@
             "de": "Bewundern Sie die klassische Architektur von Saarburgs historischem Verwaltungszentrum, ein perfekter Startpunkt, den man für ruhige Fotos früh besuchen sollte.",
             "hu": "Csodálja meg a történelmi közigazgatási központ klasszikus építészetét, amely tökéletes kiindulópont, és érdemes korán érkezni a zavartalan fotók elkészítéséhez.",
             "ro": "Admirați arhitectura clasică a centrului administrativ istoric din Sarrebourg, un punct de plecare perfect care trebuie vizitat devreme pentru fotografii liniștite.",
-            "en": "Admire the classic architecture of Sarrebourg's historic administrative heart, a perfect starting point for your city tour, best visited early for quiet photos."
+            "en": "Admire the classic architecture of Sarrebourg's historic administrative heart, a perfect starting point for your city tour, best visited early for quiet photos.",
+            "fr": "Admirez l'architecture classique du cœur administratif historique de Sarrebourg, un excellent point de départ pour votre visite de la ville, à privilégier tôt le matin pour des photos au calme."
           }
         },
         {
@@ -337,7 +372,8 @@
             "de": "Saint-Barthélemy Church",
             "hu": "Saint-Barthélemy Church",
             "ro": "Saint-Barthélemy Church",
-            "en": "Saint-Barthélemy Church"
+            "en": "Saint-Barthélemy Church",
+            "fr": "Église Saint-Barthélemy"
           },
           "coords": [
             7.05148,
@@ -352,7 +388,8 @@
             "de": "Treten Sie ein in dieses majestätische Gotteshaus, um die atemberaubenden Buntglasfenster zu bestaunen, und achten Sie bei Sonnenschein auf den detailreichen Hochaltar.",
             "hu": "Lépjen be ebbe a fenséges templomba, hogy megcsodálja a lenyűgöző ólomüveg ablakokat, és napsütéses időben figyelje meg a főoltár bonyolult, csodás részleteit.",
             "ro": "Pășiți în acest lăcaș de cult maiestuos pentru a admira vitraliile uimitoare și priviți cu atenție detaliile complicate ale altarului principal în zilele însorite.",
-            "en": "Step inside this majestic place of worship to marvel at its stunning stained glass windows, and look closely at the intricate details of the high altar on sunny days."
+            "en": "Step inside this majestic place of worship to marvel at its stunning stained glass windows, and look closely at the intricate details of the high altar on sunny days.",
+            "fr": "Pénétrez dans ce majestueux lieu de culte pour admirer ses superbes vitraux, et observez de près les détails finement travaillés du maître-autel par temps ensoleillé."
           }
         },
         {
@@ -360,7 +397,8 @@
             "de": "Cordeliers Chapel",
             "hu": "Cordeliers Chapel",
             "ro": "Cordeliers Chapel",
-            "en": "Cordeliers Chapel"
+            "en": "Cordeliers Chapel",
+            "fr": "Chapelle des Cordeliers"
           },
           "coords": [
             7.053185,
@@ -375,7 +413,8 @@
             "de": "Betrachten Sie das monumentale Chagall-Fenster, das diese friedliche Kapelle erhellt, und stellen Sie sich für den besten Blickwinkel auf das Kunstwerk ins Zentrum.",
             "hu": "Csodálja meg a békés kápolnát megvilágító hatalmas Chagall-ólomüveg ablakot, és álljon a főhajó közepére, hogy a legjobb szögből élvezhesse a lenyűgöző műalkotást.",
             "ro": "Priviți vitraliul monumental al lui Chagall care luminează această capelă pașnică și așezați-vă în centrul naosului pentru cel mai bun unghi de vizionare al operei.",
-            "en": "Gaze at the monumental Chagall stained glass window illuminating this peaceful chapel, and stand in the center of the nave for the best viewing angle of the artwork."
+            "en": "Gaze at the monumental Chagall stained glass window illuminating this peaceful chapel, and stand in the center of the nave for the best viewing angle of the artwork.",
+            "fr": "Contemplez le monumental vitrail de Chagall qui illumine cette chapelle paisible, et placez-vous au centre de la nef pour le meilleur angle de vue de l'œuvre."
           }
         },
         {
@@ -383,7 +422,8 @@
             "de": "Museum of the Pays de Sarrebourg",
             "hu": "Museum of the Pays de Sarrebourg",
             "ro": "Museum of the Pays de Sarrebourg",
-            "en": "Museum of the Pays de Sarrebourg"
+            "en": "Museum of the Pays de Sarrebourg",
+            "fr": "Musée du Pays de Sarrebourg"
           },
           "coords": [
             7.055456,
@@ -398,7 +438,8 @@
             "de": "Entdecken Sie die regionale Geschichte durch archäologische Funde und lokale Artefakte, aber holen Sie sich für tiefere Einblicke unbedingt den kostenlosen Audioguide.",
             "hu": "Fedezze fel a régió történelmét a régészeti leleteken keresztül, de a mélyebb megértés érdekében mindenképpen kérjen egy ingyenes audioguide-ot a recepciónál.",
             "ro": "Descoperiți istoria regională prin descoperiri arheologice și artefacte locale, dar asigurați-vă că luați un ghid audio gratuit de la recepție pentru detalii.",
-            "en": "Discover regional history through fascinating archaeological finds and local artifacts, but ensure you grab a free audio guide at the reception for deeper insights."
+            "en": "Discover regional history through fascinating archaeological finds and local artifacts, but ensure you grab a free audio guide at the reception for deeper insights.",
+            "fr": "Découvrez l'histoire régionale à travers des trouvailles archéologiques fascinantes et des objets locaux, mais pensez à récupérer un audioguide gratuit à la réception pour approfondir votre visite."
           }
         },
         {
@@ -406,7 +447,8 @@
             "de": "Gallo-Roman Villa of Saint-Ulrich",
             "hu": "Gallo-Roman Villa of Saint-Ulrich",
             "ro": "Gallo-Roman Villa of Saint-Ulrich",
-            "en": "Gallo-Roman Villa of Saint-Ulrich"
+            "en": "Gallo-Roman Villa of Saint-Ulrich",
+            "fr": "Villa gallo-romaine de Saint-Ulrich"
           },
           "coords": [
             7.01724,
@@ -421,7 +463,8 @@
             "de": "Wandern Sie durch die Ruinen dieser alten Villa, um sich das römische Leben in Gallien vorzustellen, und tragen Sie bequeme Schuhe, da das Gelände sehr uneben ist.",
             "hu": "Barangoljon az ősi villa kiterjedt romjai között, hogy elképzelje a galliai római életet, és viseljen kényelmes cipőt, mivel a terep meglehetősen egyenetlen lehet.",
             "ro": "Plimbați-vă prin ruinele extinse ale acestei vile antice pentru a vă imagina viața romană din Galia și purtați pantofi confortabili, deoarece terenul este accidentat.",
-            "en": "Wander through the extensive ruins of this ancient villa to imagine Roman life in Gaul, and wear comfortable walking shoes as the terrain can be quite uneven."
+            "en": "Wander through the extensive ruins of this ancient villa to imagine Roman life in Gaul, and wear comfortable walking shoes as the terrain can be quite uneven.",
+            "fr": "Parcourez les vastes ruines de cette ancienne villa pour imaginer la vie romaine en Gaule, et portez des chaussures de marche confortables car le terrain peut être assez inégal."
           }
         },
         {
@@ -429,7 +472,8 @@
             "de": "Minigolf sur Pistes",
             "hu": "Minigolf sur Pistes",
             "ro": "Minigolf sur Pistes",
-            "en": "Minigolf sur Pistes"
+            "en": "Minigolf sur Pistes",
+            "fr": "Minigolf sur Pistes"
           },
           "coords": [
             7.03624,
@@ -444,7 +488,8 @@
             "de": "Fordern Sie Ihre Familie zu einer lustigen Partie Minigolf auf gut gepflegten Anlagen heraus und kommen Sie am späten Nachmittag, um der Mittagshitze zu entgehen.",
             "hu": "Hívja ki családját egy szórakoztató minigolf meccsre a jól karbantartott pályákon, és látogasson el késő délután, hogy elkerülje a legnagyobb déli hőséget.",
             "ro": "Provocați-vă familia la un joc distractiv de minigolf pe terenuri bine întreținute și vizitați în timpul după-amiezii târzii pentru a evita căldura de la prânz.",
-            "en": "Challenge your friends or family to a fun game of mini-golf on well-maintained courses, and visit during the late afternoon to avoid the midday heat."
+            "en": "Challenge your friends or family to a fun game of mini-golf on well-maintained courses, and visit during the late afternoon to avoid the midday heat.",
+            "fr": "Défiez vos amis ou votre famille à une partie de mini-golf sur des parcours bien entretenus, et venez en fin d'après-midi pour éviter la chaleur de midi."
           }
         }
       ],
@@ -452,7 +497,8 @@
         "de": "Beginnen Sie Ihre Radtour am historischen Rathaus und der Kirche Saint-Barthélemy. Mittags bestaunen Sie das Chagall-Fenster in der Chapelle des Cordeliers, bevor Sie das Museum besuchen. Am Nachmittag radeln Sie zur galloromanischen Villa von Saint-Ulrich. Beenden Sie Ihren aktiven Tag mit einer entspannten Partie Minigolf.",
         "hu": "Kezdje kerékpártúráját a történelmi városházánál és a Saint-Barthélemy templomnál. Délben csodálja meg a Chagall ólomüveget a Cordeliers kápolnában, majd a múzeumban. Délután tekerjen ki a Saint-Ulrich-i lenyűgöző gall-római villához. Zárja az aktív napot egy pihentető és vidám minigolf játékkal.",
         "ro": "Începeți turul cu bicicleta la Primăria istorică și biserica Saint-Barthélemy. La prânz admirați vitraliile Chagall din Capela Cordeliers și vizitați muzeul. După-amiaza, mergeți la fascinanta vilă galo-romană Saint-Ulrich. Terminați ziua activă cu un joc relaxat de minigolf pe traseele bine întreținute.",
-        "en": "Kick off your cycling tour at the historic Town Hall and the nearby Saint-Barthélemy Church. For midday, marvel at the Chagall stained glass in the Cordeliers Chapel before exploring the regional museum. In the afternoon, ride out to the fascinating Gallo-Roman Villa of Saint-Ulrich. Finish your active day with a relaxed game of mini-golf."
+        "en": "Kick off your cycling tour at the historic Town Hall and the nearby Saint-Barthélemy Church. For midday, marvel at the Chagall stained glass in the Cordeliers Chapel before exploring the regional museum. In the afternoon, ride out to the fascinating Gallo-Roman Villa of Saint-Ulrich. Finish your active day with a relaxed game of mini-golf.",
+        "fr": "Commencez votre circuit à vélo à l'Hôtel de ville historique et à la proche église Saint-Barthélemy. À midi, admirez le vitrail de Chagall dans la chapelle des Cordeliers avant d'explorer le musée régional. L'après-midi, partez à vélo vers la fascinante villa gallo-romaine de Saint-Ulrich. Terminez votre journée active par une partie de mini-golf détendue."
       },
       "variants": {
         "rainy": {
@@ -460,7 +506,8 @@
             "de": "Die morgendliche Fahrt erfordert Regenkleidung zwischen dem Rathaus und den Kirchen. Trocknen Sie sich im Museum ab. Die Nachmittagsfahrt zur römischen Villa und zum Minigolf erfordert vorsichtiges Fahren auf nassen, rutschigen Wegen.",
             "hu": "A reggeli tekerés esőruházatot igényel a városháza és a templomok között. Száradjon meg a múzeumban. A délutáni kerékpározás a római villához és a minigolfhoz óvatos vezetést követel a nedves, csúszós utakon.",
             "ro": "Plimbarea de dimineață necesită echipament de ploaie între primărie și biserici. Uscați-vă în muzeu. Ciclismul de după-amiază spre vila romană și minigolf necesită prudență pe potecile umede.",
-            "en": "Morning ride requires full rain gear between the town hall and churches. Dry off safely in the museum. Afternoon cycle to the Roman villa and minigolf requires very careful riding on wet, slippery outdoor paths."
+            "en": "Morning ride requires full rain gear between the town hall and churches. Dry off safely in the museum. Afternoon cycle to the Roman villa and minigolf requires very careful riding on wet, slippery outdoor paths.",
+            "fr": "La balade du matin nécessite un équipement de pluie complet entre l'hôtel de ville et les églises. Séchez-vous en toute sécurité au musée. L'après-midi, le trajet jusqu'à la villa romaine et au mini-golf demande une conduite très prudente sur des chemins extérieurs mouillés et glissants."
           },
           "stops": [
             {
@@ -468,13 +515,15 @@
                 "de": "Sarrebourg Town Hall",
                 "hu": "Sarrebourg Town Hall",
                 "ro": "Sarrebourg Town Hall",
-                "en": "Sarrebourg Town Hall"
+                "en": "Sarrebourg Town Hall",
+                "fr": "Hôtel de ville de Sarrebourg"
               },
               "tip_5lang": {
                 "de": "Prüfen Sie im Regen Ihre Bremsen; bewundern Sie das historische Gebäude kurz, bevor Sie schnell zum nächsten überdachten, trockenen Halt weiterradeln.",
                 "hu": "Ellenőrizze a fékeket indulás előtt az esőben; csodálja meg a történelmi épületet röviden, mielőtt gyorsan a következő fedett megállóhoz tekerne.",
                 "ro": "Verificați frânele pe ploaie; admirați clădirea istorică pe scurt înainte de a vă îndrepta rapid spre următoarea oprire adăpostită și uscată.",
-                "en": "Check your bike brakes before starting out in the rain; admire the historic building quickly before heading to the next fully sheltered, dry stop."
+                "en": "Check your bike brakes before starting out in the rain; admire the historic building quickly before heading to the next fully sheltered, dry stop.",
+                "fr": "Vérifiez les freins de votre vélo avant de partir sous la pluie ; admirez rapidement le bâtiment historique avant de rejoindre l'arrêt suivant entièrement abrité et sec."
               }
             },
             {
@@ -482,13 +531,15 @@
                 "de": "Saint-Barthélemy Church",
                 "hu": "Saint-Barthélemy Church",
                 "ro": "Saint-Barthélemy Church",
-                "en": "Saint-Barthélemy Church"
+                "en": "Saint-Barthélemy Church",
+                "fr": "Église Saint-Barthélemy"
               },
               "tip_5lang": {
                 "de": "Parken Sie Ihr nasses Fahrrad vorsichtig und betreten Sie den trockenen Innenraum, um die beeindruckenden architektonischen Details zu bestaunen.",
                 "hu": "Parkolja le nedves kerékpárját óvatosan, és lépjen be a száraz, békés belső térbe, hogy megcsodálja a lenyűgöző építészeti részleteket.",
                 "ro": "Parcați bicicleta udă cu grijă și pășiți în interiorul uscat și pașnic pentru a vă minuna de detaliile arhitecturale impresionante și calde.",
-                "en": "Park your wet bike carefully outside and step into the completely dry, peaceful interior to marvel at the deeply impressive architectural details."
+                "en": "Park your wet bike carefully outside and step into the completely dry, peaceful interior to marvel at the deeply impressive architectural details.",
+                "fr": "Garez soigneusement votre vélo mouillé à l'extérieur et entrez dans l'intérieur complètement sec et paisible pour admirer les détails architecturaux impressionnants."
               }
             },
             {
@@ -496,13 +547,15 @@
                 "de": "Cordeliers Chapel",
                 "hu": "Cordeliers Chapel",
                 "ro": "Cordeliers Chapel",
-                "en": "Cordeliers Chapel"
+                "en": "Cordeliers Chapel",
+                "fr": "Chapelle des Cordeliers"
               },
               "tip_5lang": {
                 "de": "Der düstere Regen hebt die Brillanz des Chagall-Fensters hervor; seien Sie vorsichtig beim Gehen in nassen Radschuhen auf den glatten Steinböden.",
                 "hu": "A komor eső kiemeli a Chagall ablak ragyogását; legyen nagyon óvatos, ha nedves kerékpáros cipőben sétál a kápolna csúszós kőpadlóján.",
                 "ro": "Ploaia posomorâtă evidențiază strălucirea ferestrei Chagall; fiți atenți când mergeți în încălțăminte de ciclism udă pe podelele de piatră alunecoase.",
-                "en": "The gloomy rain highlights the absolute brilliance of the Chagall window; be very careful walking in wet cycling shoes on the extremely smooth stone floors."
+                "en": "The gloomy rain highlights the absolute brilliance of the Chagall window; be very careful walking in wet cycling shoes on the extremely smooth stone floors.",
+                "fr": "La pluie sombre met en valeur l'éclat absolu du vitrail de Chagall ; soyez très prudent en marchant avec des chaussures de cyclisme mouillées sur les sols en pierre extrêmement lisses."
               }
             },
             {
@@ -510,13 +563,15 @@
                 "de": "Museum of the Pays de Sarrebourg",
                 "hu": "Museum of the Pays de Sarrebourg",
                 "ro": "Museum of the Pays de Sarrebourg",
-                "en": "Museum of the Pays de Sarrebourg"
+                "en": "Museum of the Pays de Sarrebourg",
+                "fr": "Musée du Pays de Sarrebourg"
               },
               "tip_5lang": {
                 "de": "Lassen Sie Ihre nasse Ausrüstung an der Garderobe und genießen Sie eine lange, trockene kulturelle Pause bei der Erkundung gallo-römischer Artefakte.",
                 "hu": "Hagyja a nedves felszerelését a ruhatárban, és élvezze a hosszú, száraz kulturális szünetet a lenyűgöző gallo-római leletek felfedezésével.",
                 "ro": "Lăsați echipamentul ud la garderobă și bucurați-vă de o pauză culturală lungă și uscată explorând artefacte galo-romane fascinante din interior.",
-                "en": "Leave your heavy, wet gear in the cloakroom and easily enjoy a long, thoroughly dry cultural break exploring fascinating Gallo-Roman artifacts."
+                "en": "Leave your heavy, wet gear in the cloakroom and easily enjoy a long, thoroughly dry cultural break exploring fascinating Gallo-Roman artifacts.",
+                "fr": "Laissez votre équipement lourd et mouillé au vestiaire et profitez d'une longue pause culturelle bien au sec en explorant des artefacts gallo-romains fascinants."
               }
             },
             {
@@ -524,13 +579,15 @@
                 "de": "Gallo-Roman Villa of Saint-Ulrich",
                 "hu": "Gallo-Roman Villa of Saint-Ulrich",
                 "ro": "Gallo-Roman Villa of Saint-Ulrich",
-                "en": "Gallo-Roman Villa of Saint-Ulrich"
+                "en": "Gallo-Roman Villa of Saint-Ulrich",
+                "fr": "Villa gallo-romaine de Saint-Ulrich"
               },
               "tip_5lang": {
                 "de": "Tragen Sie wasserdichte Stiefel für diese römischen Ruinen im Freien, da die alten Graswege bei starken Regengüssen sehr schlammig und rutschig werden.",
                 "hu": "Viseljen vízálló bakancsot ezeknek a római romoknak a felfedezéséhez, mivel a füves szabadtéri ösvények nagyon sárgásak és csúszósak heves esőben.",
                 "ro": "Purtați cizme impermeabile pentru a explora aceste ruine romane, deoarece cărările antice acoperite de iarbă devin foarte noroioase pe ploaie.",
-                "en": "Wear waterproof boots to explore these fascinating outdoor Roman ruins, as the ancient grassy paths become very muddy and slippery during heavy downpours."
+                "en": "Wear waterproof boots to explore these fascinating outdoor Roman ruins, as the ancient grassy paths become very muddy and slippery during heavy downpours.",
+                "fr": "Portez des bottes imperméables pour explorer ces fascinantes ruines romaines en plein air, car les anciens sentiers herbeux deviennent très boueux et glissants lors de fortes pluies."
               }
             },
             {
@@ -538,13 +595,15 @@
                 "de": "Minigolf sur Pistes",
                 "hu": "Minigolf sur Pistes",
                 "ro": "Minigolf sur Pistes",
-                "en": "Minigolf sur Pistes"
+                "en": "Minigolf sur Pistes",
+                "fr": "Minigolf sur Pistes"
               },
               "tip_5lang": {
                 "de": "Bringen Sie einen guten Regenmantel für diese Outdoor-Aktivität mit; die nassen Bahnen können das Putten knifflig, aber mit der richtigen Einstellung spaßig machen.",
                 "hu": "Vigyen magával egy jó esőkabátot ehhez a szabadtéri játékhoz; a nedves pályák trükkössé tehetik az ütéseket, de megfelelő hozzáállással szórakoztatóak.",
                 "ro": "Aduceți o pelerină de ploaie bună; pistele umede pot face jocul dificil, dar este o provocare distractivă dacă aveți atitudinea potrivită.",
-                "en": "Bring a solid raincoat for this fully outdoor activity; the wet tracks can make putting tricky, but it forms an unexpectedly fun challenge in the rain."
+                "en": "Bring a solid raincoat for this fully outdoor activity; the wet tracks can make putting tricky, but it forms an unexpectedly fun challenge in the rain.",
+                "fr": "Apportez un imperméable solide pour cette activité entièrement en plein air ; les pistes mouillées peuvent rendre le putting difficile, mais cela crée un défi surprenamment amusant sous la pluie."
               }
             }
           ]
@@ -554,7 +613,8 @@
             "de": "Eine frostige morgendliche Fahrt zum historischen Kern. Tauen Sie sich mittags im Museum auf. Radeln Sie schnell zu den römischen Ruinen und zum Minigolf, bevor die Sonne gegen 17 Uhr untergeht und die Temperaturen eisig werden.",
             "hu": "Fagyos reggeli tekerés a város történelmi magjába. Délben engedjen fel a múzeumban. Kerékpározzon gyorsan a római romokhoz és a minigolfhoz a korai, 17 órás sötétedés és a fagyos hőmérséklet beállta előtt.",
             "ro": "O plimbare geroasă de dimineață spre nucleul istoric. Dezghețați-vă la muzeu la prânz. Ciclism rapid spre ruine și minigolf înainte de apusul soarelui la ora 17:00 și temperaturile foarte scăzute.",
-            "en": "A frosty morning ride to the city's historic core. Thaw out at the museum during lunch. Cycle quickly to the Roman ruins and minigolf before the terribly early 5 PM sunset and dropping freezing temperatures."
+            "en": "A frosty morning ride to the city's historic core. Thaw out at the museum during lunch. Cycle quickly to the Roman ruins and minigolf before the terribly early 5 PM sunset and dropping freezing temperatures.",
+            "fr": "Une balade matinale glaciale vers le centre historique de la ville. Dégel au musée pendant le déjeuner. Pédalez rapidement vers les ruines romaines et le mini-golf avant le coucher du soleil très tôt à 17h et la chute des températures glaciales."
           },
           "stops": [
             {
@@ -562,13 +622,15 @@
                 "de": "Sarrebourg Town Hall",
                 "hu": "Sarrebourg Town Hall",
                 "ro": "Sarrebourg Town Hall",
-                "en": "Sarrebourg Town Hall"
+                "en": "Sarrebourg Town Hall",
+                "fr": "Hôtel de ville de Sarrebourg"
               },
               "tip_5lang": {
                 "de": "Ziehen Sie sich für diesen Morgenstart warm an; das Rathaus sieht unter einem Winterhimmel wunderschön aus, aber der Fahrtwind ist eiskalt und beißend.",
                 "hu": "Öltözzön fel rétegesen ehhez a reggeli induláshoz; a városháza gyönyörű a téli égbolt alatt, de a kerékpáros menetszél rendkívül metsző és hideg.",
                 "ro": "Îmbrăcați-vă bine pentru acest început de dimineață; primăria arată frumos sub un cer de iarnă, dar vântul de la ciclism este înghețat și tăios.",
-                "en": "Layer up extremely well for this morning start; the town hall looks beautiful under a winter sky, but the direct cycling breeze is completely biting."
+                "en": "Layer up extremely well for this morning start; the town hall looks beautiful under a winter sky, but the direct cycling breeze is completely biting.",
+                "fr": "Habillez-vous très chaudement pour ce départ matinal ; l'hôtel de ville est beau sous un ciel d'hiver, mais la brise directe à vélo est mordante."
               }
             },
             {
@@ -576,13 +638,15 @@
                 "de": "Saint-Barthélemy Church",
                 "hu": "Saint-Barthélemy Church",
                 "ro": "Saint-Barthélemy Church",
-                "en": "Saint-Barthélemy Church"
+                "en": "Saint-Barthélemy Church",
+                "fr": "Église Saint-Barthélemy"
               },
               "tip_5lang": {
                 "de": "Treten Sie ein, um dem eisigen Wind zu entfliehen, und genießen Sie die ruhige Winteratmosphäre und die atemberaubende Kirchenarchitektur in der Stille.",
                 "hu": "Lépjen be, hogy elmeneküljön a fagyos szél elől, és élvezze a csendes téli atmoszférát, valamint a lenyűgöző egyházi építészetet a nyugalomban.",
                 "ro": "Pășiți înăuntru pentru a scăpa de vântul înghețat, bucurându-vă de atmosfera liniștită de iarnă și de arhitectura ecleziastică uimitoare.",
-                "en": "Step completely inside to easily escape the freezing wind, enjoying the quiet winter atmosphere and stunningly preserved ecclesiastical architecture."
+                "en": "Step completely inside to easily escape the freezing wind, enjoying the quiet winter atmosphere and stunningly preserved ecclesiastical architecture.",
+                "fr": "Entrez complètement à l'intérieur pour échapper facilement au vent glacial, en profitant de l'atmosphère hivernale tranquille et de l'architecture ecclésiale remarquablement conservée."
               }
             },
             {
@@ -590,13 +654,15 @@
                 "de": "Cordeliers Chapel",
                 "hu": "Cordeliers Chapel",
                 "ro": "Cordeliers Chapel",
-                "en": "Cordeliers Chapel"
+                "en": "Cordeliers Chapel",
+                "fr": "Chapelle des Cordeliers"
               },
               "tip_5lang": {
                 "de": "Versuchen Sie, die tiefstehende Wintersonne einzufangen, die das Chagall-Fenster beleuchtet und ein warmes Leuchten im kühlen Kapelleninneren erzeugt.",
                 "hu": "Próbálja elkapni az alacsonyan járó téli napot, amely megvilágítja a Chagall ablakot, lélegzetelállító meleg ragyogást teremtve a hűvös belső térben.",
                 "ro": "Încercați să prindeți soarele scăzut de iarnă iluminând fereastra Chagall, creând o strălucire caldă în interiorul rece și liniștit al capelei.",
-                "en": "Try to catch the low winter sun powerfully illuminating the Chagall window, creating a breathtaking warm glow in the distinctly cool chapel interior."
+                "en": "Try to catch the low winter sun powerfully illuminating the Chagall window, creating a breathtaking warm glow in the distinctly cool chapel interior.",
+                "fr": "Essayez d'attraper le soleil bas de l'hiver qui éclaire puissamment le vitrail de Chagall, créant une lueur chaleureuse à couper le souffle dans l'intérieur frais de la chapelle."
               }
             },
             {
@@ -604,13 +670,15 @@
                 "de": "Museum of the Pays de Sarrebourg",
                 "hu": "Museum of the Pays de Sarrebourg",
                 "ro": "Museum of the Pays de Sarrebourg",
-                "en": "Museum of the Pays de Sarrebourg"
+                "en": "Museum of the Pays de Sarrebourg",
+                "fr": "Musée du Pays de Sarrebourg"
               },
               "tip_5lang": {
                 "de": "Machen Sie eine dringend benötigte Pause in den beheizten Galerien und wärmen Sie Ihre gefrorenen Finger auf, während Sie über das lokale Erbe lernen.",
                 "hu": "Tartson egy nagyon szükséges szünetet a fűtött galériákban, felmelegítve fagyott ujjait, miközben a gazdag helyi örökségről és történelemről tanul.",
                 "ro": "Luați o pauză mult necesară în galeriile încălzite, încălzindu-vă degetele înghețate în timp ce învățați despre bogata moștenire locală și romană.",
-                "en": "Take a much-needed relaxing break in the highly heated galleries, warming your thoroughly frozen fingers while learning about profound local heritage."
+                "en": "Take a much-needed relaxing break in the highly heated galleries, warming your thoroughly frozen fingers while learning about profound local heritage.",
+                "fr": "Offrez-vous une pause relaxante dans les galeries bien chauffées, réchauffant vos doigts gelés tout en découvrant un patrimoine local profond."
               }
             },
             {
@@ -618,13 +686,15 @@
                 "de": "Gallo-Roman Villa of Saint-Ulrich",
                 "hu": "Gallo-Roman Villa of Saint-Ulrich",
                 "ro": "Gallo-Roman Villa of Saint-Ulrich",
-                "en": "Gallo-Roman Villa of Saint-Ulrich"
+                "en": "Gallo-Roman Villa of Saint-Ulrich",
+                "fr": "Villa gallo-romaine de Saint-Ulrich"
               },
               "tip_5lang": {
                 "de": "Die frostbedeckten Ruinen sind im Winter sehr fotogen; ziehen Sie sich warm an, da die offene Landschaft absolut keinen Schutz vor dem kalten Wind bietet.",
                 "hu": "A dérrel borított romok nagyon fotogének télen; öltözzön melegen, mivel a nyitott táj egyáltalán nem nyújt védelmet a fagyos széllel szemben.",
                 "ro": "Ruinele acoperite de gheață sunt foarte fotogenice iarna; îmbrăcați-vă călduros, deoarece peisajul deschis nu oferă nicio protecție împotriva vântului.",
-                "en": "The thick frost-covered ruins are highly photogenic in winter; dress warmly as the wide open archaeological landscape offers no wind protection at all."
+                "en": "The thick frost-covered ruins are highly photogenic in winter; dress warmly as the wide open archaeological landscape offers no wind protection at all.",
+                "fr": "Les ruines épaisses couvertes de givre sont très photogéniques en hiver ; habillez-vous chaudement car le vaste paysage archéologique n'offre aucune protection contre le vent."
               }
             },
             {
@@ -632,13 +702,15 @@
                 "de": "Minigolf sur Pistes",
                 "hu": "Minigolf sur Pistes",
                 "ro": "Minigolf sur Pistes",
-                "en": "Minigolf sur Pistes"
+                "en": "Minigolf sur Pistes",
+                "fr": "Minigolf sur Pistes"
               },
               "tip_5lang": {
                 "de": "Beenden Sie Ihr Nachmittagsspiel schnell vor dem frühen Sonnenuntergang gegen 17 Uhr und tragen Sie dicke Handschuhe für die eiskalten Golfschläger.",
                 "hu": "Fejezze be gyorsan a délutáni játékot a korai, 17 órás naplemente előtt, és viseljen vastag kesztyűt a jéghideg golfütők kényelmes kezeléséhez.",
                 "ro": "Terminați-vă jocul de după-amiază rapid înainte de apusul de la 17:00, purtând mănuși groase pentru a manevra crosele de golf extrem de reci.",
-                "en": "Finish your afternoon game quickly before the dark early sunset around 5 PM, wearing suitably thick gloves to handle the freezing cold golf clubs."
+                "en": "Finish your afternoon game quickly before the dark early sunset around 5 PM, wearing suitably thick gloves to handle the freezing cold golf clubs.",
+                "fr": "Terminez rapidement votre partie d'après-midi avant le coucher du soleil précoce vers 17h, en portant des gants bien épais pour manier les clubs gelés."
               }
             }
           ]
@@ -658,7 +730,8 @@
             "de": "Sarrebourg Town Hall",
             "hu": "Sarrebourg Town Hall",
             "ro": "Sarrebourg Town Hall",
-            "en": "Sarrebourg Town Hall"
+            "en": "Sarrebourg Town Hall",
+            "fr": "Hôtel de ville de Sarrebourg"
           },
           "coords": [
             7.051275,
@@ -673,7 +746,8 @@
             "de": "Bewundern Sie die klassische Architektur von Saarburgs historischem Verwaltungszentrum, ein perfekter Startpunkt, den man für ruhige Fotos früh besuchen sollte.",
             "hu": "Csodálja meg a történelmi közigazgatási központ klasszikus építészetét, amely tökéletes kiindulópont, és érdemes korán érkezni a zavartalan fotók elkészítéséhez.",
             "ro": "Admirați arhitectura clasică a centrului administrativ istoric din Sarrebourg, un punct de plecare perfect care trebuie vizitat devreme pentru fotografii liniștite.",
-            "en": "Admire the classic architecture of Sarrebourg's historic administrative heart, a perfect starting point for your city tour, best visited early for quiet photos."
+            "en": "Admire the classic architecture of Sarrebourg's historic administrative heart, a perfect starting point for your city tour, best visited early for quiet photos.",
+            "fr": "Admirez l'architecture classique du cœur administratif historique de Sarrebourg, un excellent point de départ pour votre visite de la ville, à privilégier tôt le matin pour des photos au calme."
           }
         },
         {
@@ -681,7 +755,8 @@
             "de": "Cordeliers Chapel",
             "hu": "Cordeliers Chapel",
             "ro": "Cordeliers Chapel",
-            "en": "Cordeliers Chapel"
+            "en": "Cordeliers Chapel",
+            "fr": "Chapelle des Cordeliers"
           },
           "coords": [
             7.053185,
@@ -696,7 +771,8 @@
             "de": "Betrachten Sie das monumentale Chagall-Fenster, das diese friedliche Kapelle erhellt, und stellen Sie sich für den besten Blickwinkel auf das Kunstwerk ins Zentrum.",
             "hu": "Csodálja meg a békés kápolnát megvilágító hatalmas Chagall-ólomüveg ablakot, és álljon a főhajó közepére, hogy a legjobb szögből élvezhesse a lenyűgöző műalkotást.",
             "ro": "Priviți vitraliul monumental al lui Chagall care luminează această capelă pașnică și așezați-vă în centrul naosului pentru cel mai bun unghi de vizionare al operei.",
-            "en": "Gaze at the monumental Chagall stained glass window illuminating this peaceful chapel, and stand in the center of the nave for the best viewing angle of the artwork."
+            "en": "Gaze at the monumental Chagall stained glass window illuminating this peaceful chapel, and stand in the center of the nave for the best viewing angle of the artwork.",
+            "fr": "Contemplez le monumental vitrail de Chagall qui illumine cette chapelle paisible, et placez-vous au centre de la nef pour le meilleur angle de vue de l'œuvre."
           }
         },
         {
@@ -704,7 +780,8 @@
             "de": "Museum of the Pays de Sarrebourg",
             "hu": "Museum of the Pays de Sarrebourg",
             "ro": "Museum of the Pays de Sarrebourg",
-            "en": "Museum of the Pays de Sarrebourg"
+            "en": "Museum of the Pays de Sarrebourg",
+            "fr": "Musée du Pays de Sarrebourg"
           },
           "coords": [
             7.055456,
@@ -719,7 +796,8 @@
             "de": "Entdecken Sie die regionale Geschichte durch archäologische Funde und lokale Artefakte, aber holen Sie sich für tiefere Einblicke unbedingt den kostenlosen Audioguide.",
             "hu": "Fedezze fel a régió történelmét a régészeti leleteken keresztül, de a mélyebb megértés érdekében mindenképpen kérjen egy ingyenes audioguide-ot a recepciónál.",
             "ro": "Descoperiți istoria regională prin descoperiri arheologice și artefacte locale, dar asigurați-vă că luați un ghid audio gratuit de la recepție pentru detalii.",
-            "en": "Discover regional history through fascinating archaeological finds and local artifacts, but ensure you grab a free audio guide at the reception for deeper insights."
+            "en": "Discover regional history through fascinating archaeological finds and local artifacts, but ensure you grab a free audio guide at the reception for deeper insights.",
+            "fr": "Découvrez l’histoire régionale à travers des découvertes archéologiques fascinantes et des objets locaux, mais pensez à prendre un audioguide gratuit à la réception pour des explications plus approfondies."
           }
         },
         {
@@ -727,7 +805,8 @@
             "de": "Gallo-Roman Villa of Saint-Ulrich",
             "hu": "Gallo-Roman Villa of Saint-Ulrich",
             "ro": "Gallo-Roman Villa of Saint-Ulrich",
-            "en": "Gallo-Roman Villa of Saint-Ulrich"
+            "en": "Gallo-Roman Villa of Saint-Ulrich",
+            "fr": "Villa gallo-romaine de Saint-Ulrich"
           },
           "coords": [
             7.01724,
@@ -742,7 +821,8 @@
             "de": "Wandern Sie durch die Ruinen dieser alten Villa, um sich das römische Leben in Gallien vorzustellen, und tragen Sie bequeme Schuhe, da das Gelände sehr uneben ist.",
             "hu": "Barangoljon az ősi villa kiterjedt romjai között, hogy elképzelje a galliai római életet, és viseljen kényelmes cipőt, mivel a terep meglehetősen egyenetlen lehet.",
             "ro": "Plimbați-vă prin ruinele extinse ale acestei vile antice pentru a vă imagina viața romană din Galia și purtați pantofi confortabili, deoarece terenul este accidentat.",
-            "en": "Wander through the extensive ruins of this ancient villa to imagine Roman life in Gaul, and wear comfortable walking shoes as the terrain can be quite uneven."
+            "en": "Wander through the extensive ruins of this ancient villa to imagine Roman life in Gaul, and wear comfortable walking shoes as the terrain can be quite uneven.",
+            "fr": "Parcourez les vastes ruines de cette ancienne villa pour imaginer la vie romaine en Gaule ; portez des chaussures de marche confortables car le terrain peut être assez inégal."
           }
         },
         {
@@ -750,7 +830,8 @@
             "de": "Étang du Stock",
             "hu": "Étang du Stock",
             "ro": "Étang du Stock",
-            "en": "Étang du Stock"
+            "en": "Étang du Stock",
+            "fr": "Étang du Stock"
           },
           "coords": [
             6.920409,
@@ -765,7 +846,8 @@
             "de": "Entspannen Sie sich an den schimmernden Wassern dieses riesigen Sees, einem Paradies für Naturliebhaber, und bringen Sie ein kleines Picknick für das Ufer mit.",
             "hu": "Pihenjen ennek a hatalmas tónak a csillogó vize mellett, amely a természet szerelmeseinek paradicsoma, és hozzon magával pikniket a festői, békés partra.",
             "ro": "Relaxați-vă pe malul apelor strălucitoare ale acestui lac masiv, un paradis al naturii și aduceți un mic dejun pentru a vă bucura de el pe țărmul său pitoresc.",
-            "en": "Relax by the shimmering waters of this massive lake, a paradise for nature lovers, and bring a light picnic to enjoy on its peaceful, picturesque shoreline."
+            "en": "Relax by the shimmering waters of this massive lake, a paradise for nature lovers, and bring a light picnic to enjoy on its peaceful, picturesque shoreline.",
+            "fr": "Détendez-vous au bord des eaux scintillantes de ce vaste lac, un paradis pour les amoureux de la nature ; apportez un petit pique-nique pour profiter de sa rive paisible et pittoresque."
           }
         },
         {
@@ -773,7 +855,8 @@
             "de": "Minigolf sur Pistes",
             "hu": "Minigolf sur Pistes",
             "ro": "Minigolf sur Pistes",
-            "en": "Minigolf sur Pistes"
+            "en": "Minigolf sur Pistes",
+            "fr": "Minigolf sur Pistes"
           },
           "coords": [
             7.03624,
@@ -788,7 +871,8 @@
             "de": "Fordern Sie Ihre Familie zu einer lustigen Partie Minigolf auf gut gepflegten Anlagen heraus und kommen Sie am späten Nachmittag, um der Mittagshitze zu entgehen.",
             "hu": "Hívja ki családját egy szórakoztató minigolf meccsre a jól karbantartott pályákon, és látogasson el késő délután, hogy elkerülje a legnagyobb déli hőséget.",
             "ro": "Provocați-vă familia la un joc distractiv de minigolf pe terenuri bine întreținute și vizitați în timpul după-amiezii târzii pentru a evita căldura de la prânz.",
-            "en": "Challenge your friends or family to a fun game of mini-golf on well-maintained courses, and visit during the late afternoon to avoid the midday heat."
+            "en": "Challenge your friends or family to a fun game of mini-golf on well-maintained courses, and visit during the late afternoon to avoid the midday heat.",
+            "fr": "Défiez vos amis ou votre famille lors d’une partie de mini-golf sur des parcours bien entretenus ; venez en fin d’après-midi pour éviter la chaleur de midi."
           }
         }
       ],
@@ -796,7 +880,8 @@
         "de": "Beginnen Sie Ihre Fahrt am Rathaus und besuchen Sie dann die Chapelle des Cordeliers. Verbringen Sie die Mittagszeit mit einem Ausflug in die Vergangenheit im Museum und den Ruinen der galloromanischen Villa. Später fahren Sie zum ruhigen See Étang du Stock. Beenden Sie die Tour mit einer lustigen Partie Minigolf.",
         "hu": "Kezdje autós túráját a városházánál, majd irány a Cordeliers kápolna egy kis művészi inspirációért. A delet a múzeumban és a gall-római villa kiterjedt romjainál töltse. Később tegyen egy festői autózást a nyugodt Étang du Stock tóhoz. Zárja a napot egy vidám, családi minigolf bajnoksággal a pályákon.",
         "ro": "Începeți cu mașina la Primăria impunătoare, apoi vizitați Capela Cordeliers. Petreceți prânzul explorând trecutul la Muzeu și ruinele extinse ale Vilei Galo-Romane. Mai târziu, faceți o plimbare pitorească până la lacul liniștit Étang du Stock. Încheiați traseul cu un joc de familie distractiv de minigolf.",
-        "en": "Begin your drive at the grand Town Hall, then head to the Cordeliers Chapel for some artistic inspiration. Spend your midday delving into the past at the Museum and the expansive Gallo-Roman Villa ruins. Later, take a scenic drive to the tranquil Étang du Stock lake. Conclude the itinerary with a fun-filled family game of mini-golf."
+        "en": "Begin your drive at the grand Town Hall, then head to the Cordeliers Chapel for some artistic inspiration. Spend your midday delving into the past at the Museum and the expansive Gallo-Roman Villa ruins. Later, take a scenic drive to the tranquil Étang du Stock lake. Conclude the itinerary with a fun-filled family game of mini-golf.",
+        "fr": "Commencez votre circuit à la somptueuse mairie, puis dirigez-vous vers la chapelle des Cordeliers pour vous inspirer artistiquement. Passez la mi-journée à plonger dans le passé au musée et aux vastes ruines de la villa gallo-romaine. Ensuite, faites une balade panoramique jusqu’au paisible étang du Stock. Concluez l’itinéraire par une partie de mini-golf en famille amusante."
       },
       "variants": {
         "rainy": {
@@ -804,7 +889,8 @@
             "de": "Einfaches Fahren zwischen Rathaus, Kapelle und Museum im morgendlichen Regen. Die Nachmittagsfahrt zu den Ruinen und zum See erfordert Vorsicht auf nassen Straßen und endet mit einer feuchten, aber spaßigen Minigolfrunde.",
             "hu": "Kényelmes vezetés a városháza, a kápolna és a múzeum között a reggeli esőben. A délutáni út a romokhoz és a tóhoz óvatosságot igényel a vizes utakon, végül egy nedves, de szórakoztató minigolffal zárul.",
             "ro": "Condus ușor între primărie, capelă și muzeu în ploaia de dimineață. Drumul de după-amiază spre ruine și lac necesită prudență pe străzile umede, terminând cu o rundă umedă de minigolf.",
-            "en": "Easy driving between the town hall, chapel, and museum in the morning rain. Afternoon drive to the ruins and the large lake requires utmost care on wet roads, finishing with a damp but fun minigolf round."
+            "en": "Easy driving between the town hall, chapel, and museum in the morning rain. Afternoon drive to the ruins and the large lake requires utmost care on wet roads, finishing with a damp but fun minigolf round.",
+            "fr": "Trajets faciles entre la mairie, la chapelle et le musée sous une pluie matinale. L’après-midi, la route vers les ruines et le grand lac exige la plus grande prudence sur chaussée mouillée, pour finir par une partie de minigolf humide mais divertissante."
           },
           "stops": [
             {
@@ -812,13 +898,15 @@
                 "de": "Sarrebourg Town Hall",
                 "hu": "Sarrebourg Town Hall",
                 "ro": "Sarrebourg Town Hall",
-                "en": "Sarrebourg Town Hall"
+                "en": "Sarrebourg Town Hall",
+                "fr": "Mairie de Sarrebourg"
               },
               "tip_5lang": {
                 "de": "Parken Sie nah, um nicht durchnässt zu werden; das majestätische Gebäude hebt sich wunderbar vom dramatischen, wolkigen und regnerischen Himmel ab.",
                 "hu": "Parkoljon közel, hogy elkerülje a bőrig ázást; a fenséges épület gyönyörűen kiemelkedik a drámai, felhős és erősen esős égbolt sötét hátteréből.",
                 "ro": "Parcați aproape pentru a evita să fiți uzi; clădirea maiestuoasă se evidențiază frumos pe cerul dramatic, înnorat și ploios de deasupra orașului.",
-                "en": "Park very close to absolutely avoid getting soaked; the majestic building stands out beautifully against the dramatic, cloudy, and completely rainy sky."
+                "en": "Park very close to absolutely avoid getting soaked; the majestic building stands out beautifully against the dramatic, cloudy, and completely rainy sky.",
+                "fr": "Garez-vous très près pour éviter d’être trempé ; le majestueux bâtiment se détache magnifiquement sur un ciel dramatique, nuageux et complètement pluvieux."
               }
             },
             {
@@ -826,13 +914,15 @@
                 "de": "Cordeliers Chapel",
                 "hu": "Cordeliers Chapel",
                 "ro": "Cordeliers Chapel",
-                "en": "Cordeliers Chapel"
+                "en": "Cordeliers Chapel",
+                "fr": "Chapelle des Cordeliers"
               },
               "tip_5lang": {
                 "de": "Laufen Sie schnell nach drinnen, um dem Platzregen zu entkommen, und lassen Sie das massive Chagall-Fenster Ihren düsteren, nassen Morgen erhellen.",
                 "hu": "Fussanak be gyorsan, hogy elmeneküljenek a felhőszakadás elől, és hagyják, hogy a hatalmas Chagall ablak felvidítsa a komor, kifejezetten nedves reggelt.",
                 "ro": "Alergați înăuntru pentru a scăpa de ploaia torențială și lăsați fereastra masivă Chagall să vă lumineze dimineața mohorâtă și umedă de explorare.",
-                "en": "Run quickly inside to easily escape the harsh downpour and let the massive, colorful Chagall window completely brighten up your gloomy, heavily wet morning."
+                "en": "Run quickly inside to easily escape the harsh downpour and let the massive, colorful Chagall window completely brighten up your gloomy, heavily wet morning.",
+                "fr": "Courez rapidement à l’intérieur pour échapper facilement à la forte averse et laissez la vaste et colorée verrière de Chagall illuminer complètement votre matinée morose et très humide."
               }
             },
             {
@@ -840,13 +930,15 @@
                 "de": "Museum of the Pays de Sarrebourg",
                 "hu": "Museum of the Pays de Sarrebourg",
                 "ro": "Museum of the Pays de Sarrebourg",
-                "en": "Museum of the Pays de Sarrebourg"
+                "en": "Museum of the Pays de Sarrebourg",
+                "fr": "Musée du Pays de Sarrebourg"
               },
               "tip_5lang": {
                 "de": "Ein perfekter Zufluchtsort an Regentagen; genießen Sie die umfangreichen Ausstellungen zur lokalen Geschichte, ohne sich Sorgen um das nasse Wetter zu machen.",
                 "hu": "Tökéletes menedék egy esős napon; élvezze a helyi történelem kiterjedt beltéri kiállításait anélkül, hogy a nedves, zord időjárás miatt kellene aggódnia.",
                 "ro": "Un refugiu perfect pentru o zi ploioasă; bucurați-vă de expozițiile extinse de istorie locală la interior fără a vă face griji pentru vremea umedă.",
-                "en": "A completely perfect rainy day haven; easily enjoy the extensive indoor exhibitions of rich local history without ever worrying about the dreadful weather."
+                "en": "A completely perfect rainy day haven; easily enjoy the extensive indoor exhibitions of rich local history without ever worrying about the dreadful weather.",
+                "fr": "Un refuge parfait pour une journée pluvieuse ; profitez des vastes expositions intérieures sur la riche histoire locale sans vous soucier du temps détestable."
               }
             },
             {
@@ -854,13 +946,15 @@
                 "de": "Gallo-Roman Villa of Saint-Ulrich",
                 "hu": "Gallo-Roman Villa of Saint-Ulrich",
                 "ro": "Gallo-Roman Villa of Saint-Ulrich",
-                "en": "Gallo-Roman Villa of Saint-Ulrich"
+                "en": "Gallo-Roman Villa of Saint-Ulrich",
+                "fr": "Villa gallo-romaine de Saint-Ulrich"
               },
               "tip_5lang": {
                 "de": "Nehmen Sie einen Schirm für den kurzen Weg vom Auto zu den Ruinen mit; die nassen Steine zeigen im Dauerregen tiefere, viel reichere historische Farben.",
                 "hu": "Vigyen magával esernyőt az autótól a romokig tartó rövid sétához; a nedves kövek mélyebb, gazdagabb történelmi színeket mutatnak meg a tartós esőben.",
                 "ro": "Luați o umbrelă pentru scurta plimbare de la mașină la ruine; pietrele umede dezvăluie culori istorice mai profunde și mai bogate pe timp de ploaie.",
-                "en": "Bring a large umbrella for the short walk from your warm car to the ruins; the heavily wet stones reveal much deeper, richer historical colors in the rain."
+                "en": "Bring a large umbrella for the short walk from your warm car to the ruins; the heavily wet stones reveal much deeper, richer historical colors in the rain.",
+                "fr": "Apportez un grand parapluie pour la courte marche depuis votre voiture chaude jusqu’aux ruines ; les pierres très humides révèlent des couleurs historiques plus profondes et plus riches sous la pluie."
               }
             },
             {
@@ -868,13 +962,15 @@
                 "de": "Étang du Stock",
                 "hu": "Étang du Stock",
                 "ro": "Étang du Stock",
-                "en": "Étang du Stock"
+                "en": "Étang du Stock",
+                "fr": "Étang du Stock"
               },
               "tip_5lang": {
                 "de": "Genießen Sie den stimmungsvollen Anblick des Regens, der auf die Seeoberfläche trifft, bequem aus Ihrem warmen, trockenen und sicher geparkten Auto heraus.",
                 "hu": "Élvezze a tó felszínét verő eső hangulatos, atmoszférikus látványát kényelmesen a meleg, száraz és biztonságosan leparkolt autójából szemlélve.",
                 "ro": "Bucurați-vă de priveliștea atmosferică a ploii lovind suprafața lacului din confortul mașinii dumneavoastră calde, uscate și parcate în siguranță.",
-                "en": "Enjoy the extremely moody, highly atmospheric view of the heavy rain hitting the lake surface directly from the safety of your warm, dry parked car."
+                "en": "Enjoy the extremely moody, highly atmospheric view of the heavy rain hitting the lake surface directly from the safety of your warm, dry parked car.",
+                "fr": "Appréciez la vue très atmosphérique de la pluie battante frappant la surface du lac directement depuis la sécurité de votre voiture chaude et sèche garée."
               }
             },
             {
@@ -882,13 +978,15 @@
                 "de": "Minigolf sur Pistes",
                 "hu": "Minigolf sur Pistes",
                 "ro": "Minigolf sur Pistes",
-                "en": "Minigolf sur Pistes"
+                "en": "Minigolf sur Pistes",
+                "fr": "Minigolf sur Pistes"
               },
               "tip_5lang": {
                 "de": "Lassen Sie Ihre wasserfeste Kleidung für dieses Spiel im Freien an; der Regen macht die Bahnen schneller und sorgt für eine unerwartet lustige Herausforderung.",
                 "hu": "Tartsa magán a vízálló ruházatát ehhez a szabadtéri játékhoz; az eső felgyorsítja a pályákat, ami váratlanul szórakoztató, nedves kihívást jelent.",
                 "ro": "Păstrați-vă hainele impermeabile pentru acest joc; ploaia face terenurile mult mai rapide, adăugând o provocare neașteptat de distractivă și umedă.",
-                "en": "Keep your waterproofs firmly on for this fully outdoor game; the heavy rain makes the courses faster, adding a highly unexpected but super fun challenge."
+                "en": "Keep your waterproofs firmly on for this fully outdoor game; the heavy rain makes the courses faster, adding a highly unexpected but super fun challenge.",
+                "fr": "Gardez vos vêtements imperméables bien en place pour ce jeu entièrement en plein air ; la forte pluie accélère les parcours, ajoutant un défi inattendu mais très amusant."
               }
             }
           ]
@@ -898,7 +996,8 @@
             "de": "Schnelle Fahrten in einem beheizten Auto zwischen den historischen Stätten. Der Nachmittagsausflug zu den frostigen Ruinen und dem zugefrorenen See bietet wunderschöne Aussichten vor einem kühlen Minigolfspiel in der Dämmerung.",
             "hu": "Gyors utak fűtött autóban a történelmi helyszínek és a múzeum között. A délutáni kirándulás a fagyos romokhoz és a befagyott tóhoz gyönyörű kilátást nyújt egy hűvös, szürkületi minigolf előtt.",
             "ro": "Plimbări rapide cu mașina încălzită între siturile istorice. Excursia de după-amiază spre ruinele înghețate și lacul înghețat oferă priveliști frumoase înainte de un joc rece de minigolf la amurg.",
-            "en": "Quick, highly cozy drives in a heated car between the historic sites. Afternoon trip to the totally frosty ruins and icy lake offers deeply beautiful views before a very chilly minigolf game at extreme dusk."
+            "en": "Quick, highly cozy drives in a heated car between the historic sites. Afternoon trip to the totally frosty ruins and icy lake offers deeply beautiful views before a very chilly minigolf game at extreme dusk.",
+            "fr": "Courts trajets très confortables en voiture chauffée entre les sites historiques. L’excursion de l’après-midi vers les ruines gelées et le lac glacé offre des vues profondément belles avant une partie de minigolf très froide au crépuscule extrême."
           },
           "stops": [
             {
@@ -906,13 +1005,15 @@
                 "de": "Sarrebourg Town Hall",
                 "hu": "Sarrebourg Town Hall",
                 "ro": "Sarrebourg Town Hall",
-                "en": "Sarrebourg Town Hall"
+                "en": "Sarrebourg Town Hall",
+                "fr": "Mairie de Sarrebourg"
               },
               "tip_5lang": {
                 "de": "Lassen Sie die Autoheizung laufen, während Sie kurz aussteigen, um die klare, winterliche Fassade dieses bürgerlichen Meisterwerks eiskalt zu bewundern.",
                 "hu": "Járassa az autó fűtését, miközben röviden kiszáll, hogy megcsodálja ennek a polgári remekműnek a ropogós, téli, dérrel borított gyönyörű homlokzatát.",
                 "ro": "Lăsați încălzirea mașinii pornită în timp ce ieșiți scurt pentru a admira fațada clară și de iarnă a acestei capodopere civice în frigul tăios.",
-                "en": "Keep the car heater running on high while you step out briefly to beautifully admire the crisp, heavily wintery facade of this grand civic masterpiece."
+                "en": "Keep the car heater running on high while you step out briefly to beautifully admire the crisp, heavily wintery facade of this grand civic masterpiece.",
+                "fr": "Laissez le chauffage de la voiture fonctionner à fond pendant que vous sortez brièvement pour admirer la façade hivernale nette et très remarquablement saisonnière de ce grand chef-d’œuvre civic."
               }
             },
             {
@@ -920,13 +1021,15 @@
                 "de": "Cordeliers Chapel",
                 "hu": "Cordeliers Chapel",
                 "ro": "Cordeliers Chapel",
-                "en": "Cordeliers Chapel"
+                "en": "Cordeliers Chapel",
+                "fr": "Chapelle des Cordeliers"
               },
               "tip_5lang": {
                 "de": "Das blasse Winterlicht erleuchtet das Chagall-Fenster perfekt; genießen Sie die innere Schönheit, bevor Sie schnell in das warme Auto zurückkehren.",
                 "hu": "A sápadt téli fény tökéletesen megvilágítja a Chagall ablakot; élvezze a belső szépséget a hidegben, mielőtt gyorsan visszatérne a kellemesen meleg autóba.",
                 "ro": "Lumina palidă de iarnă iluminează perfect fereastra Chagall; bucurați-vă de frumusețea interioară înainte de a vă întoarce rapid la mașina caldă.",
-                "en": "The rather pale winter light flawlessly illuminates the Chagall window; purely enjoy the indoor beauty before heading swiftly back to the very warm car."
+                "en": "The rather pale winter light flawlessly illuminates the Chagall window; purely enjoy the indoor beauty before heading swiftly back to the very warm car.",
+                "fr": "La lumière hivernale plutôt pâle illumine parfaitement la verrière de Chagall ; profitez de la beauté intérieure avant de retourner rapidement à la voiture bien chaude."
               }
             },
             {
@@ -934,13 +1037,15 @@
                 "de": "Museum of the Pays de Sarrebourg",
                 "hu": "Museum of the Pays de Sarrebourg",
                 "ro": "Museum of the Pays de Sarrebourg",
-                "en": "Museum of the Pays de Sarrebourg"
+                "en": "Museum of the Pays de Sarrebourg",
+                "fr": "Musée du Pays de Sarrebourg"
               },
               "tip_5lang": {
                 "de": "Verbringen Sie den kältesten Teil des Tages in diesen gemütlichen, gut beheizten Galerien und tauchen Sie in die faszinierende gallo-römische Geschichte ein.",
                 "hu": "Töltse a nap leghidegebb részét ezekben a hangulatos, jól fűtött galériákban, elmerülve a város lenyűgöző és gazdag gallo-római történelmében.",
                 "ro": "Petreceți cea mai rece parte a zilei în aceste galerii confortabile și încălzite, scufundându-vă în fascinanta istorie și cultură galo-romană locală.",
-                "en": "Easily spend the absolute coldest part of the day inside these fully cozy, heated galleries, diving totally into fascinating local Gallo-Roman history."
+                "en": "Easily spend the absolute coldest part of the day inside these fully cozy, heated galleries, diving totally into fascinating local Gallo-Roman history.",
+                "fr": "Passez facilement la partie la plus froide de la journée à l’intérieur de ces galeries confortables et chauffées, en vous plongeant totalement dans l’histoire gallo-romaine locale fascinante."
               }
             },
             {
@@ -948,13 +1053,15 @@
                 "de": "Gallo-Roman Villa of Saint-Ulrich",
                 "hu": "Gallo-Roman Villa of Saint-Ulrich",
                 "ro": "Gallo-Roman Villa of Saint-Ulrich",
-                "en": "Gallo-Roman Villa of Saint-Ulrich"
+                "en": "Gallo-Roman Villa of Saint-Ulrich",
+                "fr": "Villa gallo-romaine de Saint-Ulrich"
               },
               "tip_5lang": {
                 "de": "Die Ruinen sehen mit Frost bestäubt spektakulär aus; packen Sie sich in schwere Mäntel ein, da die offene archäologische Stätte sehr windig wird.",
                 "hu": "A romok látványosak a fagyos dérrel meghintve; burkolózzon vastag kabátokba, mivel a teljesen nyitott régészeti terület rendkívül szeles és hideg.",
                 "ro": "Ruinele arată spectaculos acoperite cu îngheț; înfofoliți-vă în haine groase, deoarece situl arheologic complet deschis devine foarte bătut de vânt.",
-                "en": "The old ruins look deeply spectacular dusted with thick frost; properly bundle up in heavy coats as the open archaeological site gets intensely windy."
+                "en": "The old ruins look deeply spectacular dusted with thick frost; properly bundle up in heavy coats as the open archaeological site gets intensely windy.",
+                "fr": "Les vieilles ruines paraissent superbement spectaculaires poudrées de givre épais ; couvrez-vous correctement avec des manteaux chauds car le site archéologique exposé est intensément venteux."
               }
             },
             {
@@ -962,13 +1069,15 @@
                 "de": "Étang du Stock",
                 "hu": "Étang du Stock",
                 "ro": "Étang du Stock",
-                "en": "Étang du Stock"
+                "en": "Étang du Stock",
+                "fr": "Étang du Stock"
               },
               "tip_5lang": {
                 "de": "Genießen Sie die ruhige, eisige Schönheit des Wintersees; die karge, aber friedliche Landschaft lässt sich am besten mit einem heißen Getränk genießen.",
                 "hu": "Szívja magába a téli tó derűs, jeges szépségét; a zord, de végtelenül békés tájat egy forró itallal a kézben, a fűtött kocsiból a legjobb élvezni.",
                 "ro": "Admiteți frumusețea senină și înghețată a lacului de iarnă; peisajul pustiu, dar pașnic, se savurează cel mai bine cu o băutură fierbinte în mână.",
-                "en": "Take in the incredibly serene, deeply icy beauty of the vast winter lake; the bleak but peaceful landscape is best enjoyed holding a very hot drink."
+                "en": "Take in the incredibly serene, deeply icy beauty of the vast winter lake; the bleak but peaceful landscape is best enjoyed holding a very hot drink.",
+                "fr": "Contemplez la beauté incroyablement sereine et gelée du vaste lac hivernal ; le paysage austère mais paisible se déguste mieux avec une boisson très chaude à la main."
               }
             },
             {
@@ -976,13 +1085,15 @@
                 "de": "Minigolf sur Pistes",
                 "hu": "Minigolf sur Pistes",
                 "ro": "Minigolf sur Pistes",
-                "en": "Minigolf sur Pistes"
+                "en": "Minigolf sur Pistes",
+                "fr": "Minigolf sur Pistes"
               },
               "tip_5lang": {
                 "de": "Spielen Sie eine zügige Runde vor dem frühen Sonnenuntergang um 17 Uhr; tragen Sie warme Schichten, da die Außenbahnen extrem schnell eiskalt werden.",
                 "hu": "Játsszon egy fürge kört a korai, 17 órás naplemente előtt; viseljen meleg rétegeket és kesztyűt, mivel a szabadtéri pályák gyorsan fagyossá válnak.",
                 "ro": "Jucați o rundă rapidă înainte de apusul de la ora 17:00; purtați straturi calde și mănuși, deoarece pistele în aer liber devin rapid reci ca gheața.",
-                "en": "Play a highly brisk round before the extremely early 5 PM sunset; wear completely warm layers and gloves as the outdoor tracks get freezing cold very quickly."
+                "en": "Play a highly brisk round before the extremely early 5 PM sunset; wear completely warm layers and gloves as the outdoor tracks get freezing cold very quickly.",
+                "fr": "Jouez une partie énergique avant le coucher de soleil extrêmement précoce à 17:00 ; portez des couches chaudes et des gants car les pistes extérieures deviennent très vite glaciales."
               }
             }
           ]

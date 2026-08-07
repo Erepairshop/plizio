@@ -21,7 +21,8 @@
             "de": "Belvédère Tower",
             "hu": "Belvédère Tower",
             "ro": "Belvédère Tower",
-            "en": "Belvédère Tower"
+            "en": "Belvédère Tower",
+            "fr": "Tour du Belvédère"
           },
           "coords": [
             2.0328,
@@ -36,7 +37,8 @@
             "de": "Besteigen Sie dieses moderne Architekturwunder für einen weiten Blick über die Axe Majeur und die Oise, aber prüfen Sie vorher die Öffnungszeiten, um Enttäuschungen zu vermeiden.",
             "hu": "Mássza meg ezt a modern építészeti csodát, ahonnan pazar kilátás nyílik az Axe Majeur-re, de előtte feltétlenül ellenőrizze a nyitvatartást, hogy elkerülje a zárt ajtókat.",
             "ro": "Urcați în această minunăție arhitecturală pentru o priveliște superbă asupra Axe Majeur, însă verificați programul de funcționare înainte pentru a nu găsi ușile închise.",
-            "en": "Climb this modern architectural marvel for sweeping views over the Axe Majeur and the winding Oise river, but check opening hours beforehand to avoid a closed door."
+            "en": "Climb this modern architectural marvel for sweeping views over the Axe Majeur and the winding Oise river, but check opening hours beforehand to avoid a closed door.",
+            "fr": "Grimpez dans cette merveille architecturale moderne pour des vues étendues sur l’Axe Majeur et la sinueuse rivière Oise, mais vérifiez les heures d’ouverture pour éviter une porte fermée."
           }
         },
         {
@@ -44,7 +46,8 @@
             "de": "Axe Majeur",
             "hu": "Axe Majeur",
             "ro": "Axe Majeur",
-            "en": "Axe Majeur"
+            "en": "Axe Majeur",
+            "fr": "Axe Majeur"
           },
           "coords": [
             2.035766,
@@ -59,7 +62,8 @@
             "de": "Schlendern Sie entlang dieser monumentalen roten Achse von Dani Karavan, die urbanes Design perfekt mit der Natur verbindet, und nehmen Sie ein Weitwinkelobjektiv für Fotos mit.",
             "hu": "Sétáljon végig Dani Karavan monumentális piros tengelyén, amely tökéletesen ötvözi a modern dizájnt a természettel, és mindenképpen hozzon magával széles látószögű objektívet.",
             "ro": "Plimbați-vă pe această axă monumentală a lui Dani Karavan, care îmbină perfect designul urban cu natura, și luați un obiectiv superangular pentru a surprinde cele mai bune cadre.",
-            "en": "Stroll along this monumental red paved axis by Dani Karavan, which perfectly aligns modern urban design with nature, taking a wide-angle lens for the best perspectives."
+            "en": "Stroll along this monumental red paved axis by Dani Karavan, which perfectly aligns modern urban design with nature, taking a wide-angle lens for the best perspectives.",
+            "fr": "Promenez‑vous le long de cet axe monumental pavé de rouge de Dani Karavan, qui aligne parfaitement design urbain moderne et nature ; prenez un objectif grand‑angle pour les meilleures perspectives."
           }
         },
         {
@@ -67,7 +71,8 @@
             "de": "The Twelve Columns",
             "hu": "The Twelve Columns",
             "ro": "The Twelve Columns",
-            "en": "The Twelve Columns"
+            "en": "The Twelve Columns",
+            "fr": "Les Douze Colonnes"
           },
           "coords": [
             2.03783,
@@ -82,7 +87,8 @@
             "de": "Stehen Sie unter diesen weißen Säulen, die an klaren Tagen die Pariser Skyline umrahmen, und kommen Sie zur goldenen Stunde, wenn sich die Schatten dramatisch verlängern.",
             "hu": "Álljon be ezek alá a tornyosuló fehér oszlopok alá, amelyek tiszta időben a párizsi sziluettet keretezik, és próbáljon meg az aranyórában érkezni a drámai árnyékokért.",
             "ro": "Stați sub acești stâlpi albi impunători care încadrează orizontul parizian în zilele senine și vizitați în timpul orei de aur pentru a admira umbrele spectaculoase și prelungite.",
-            "en": "Stand beneath these towering white pillars that gracefully frame the Parisian skyline on clear days, and visit during golden hour when the shadows stretch dramatically."
+            "en": "Stand beneath these towering white pillars that gracefully frame the Parisian skyline on clear days, and visit during golden hour when the shadows stretch dramatically.",
+            "fr": "Tenez‑vous sous ces colonnes blanches imposantes qui encadrent gracieusement la silhouette parisienne par temps clair, et visitez‑les à l’heure dorée quand les ombres s’allongent avec éclat."
           }
         },
         {
@@ -90,7 +96,8 @@
             "de": "Axe Majeur Footbridge",
             "hu": "Axe Majeur Footbridge",
             "ro": "Axe Majeur Footbridge",
-            "en": "Axe Majeur Footbridge"
+            "en": "Axe Majeur Footbridge",
+            "fr": "Passerelle de l’Axe Majeur"
           },
           "coords": [
             2.042645,
@@ -105,7 +112,8 @@
             "de": "Überqueren Sie diese auffällige rote Brücke, die die Teiche mit geometrischer Präzision überspannt, und tragen Sie bequeme Schuhe, da die umliegenden Wege sehr weitläufig sind.",
             "hu": "Keljen át ezen a lenyűgöző piros hídon, amely geometriai pontossággal ível át a folyón, és viseljen kényelmes cipőt, mivel a környező sétányok meglehetősen hosszúak.",
             "ro": "Traversați această impresionantă punte roșie care se întinde cu precizie geometrică peste râu și purtați încălțăminte confortabilă, deoarece potecile din jur sunt destul de lungi.",
-            "en": "Cross this striking red bridge that spans the ponds and river with geometric precision, wearing comfortable walking shoes as the surrounding paths are quite extensive."
+            "en": "Cross this striking red bridge that spans the ponds and river with geometric precision, wearing comfortable walking shoes as the surrounding paths are quite extensive.",
+            "fr": "Traversez ce pont rouge saisissant qui enjambe les étangs et la rivière avec une précision géométrique, en portant des chaussures confortables car les chemins environnants sont assez vastes."
           }
         },
         {
@@ -113,7 +121,8 @@
             "de": "Cergy-Pontoise Leisure Island",
             "hu": "Cergy-Pontoise Leisure Island",
             "ro": "Cergy-Pontoise Leisure Island",
-            "en": "Cergy-Pontoise Leisure Island"
+            "en": "Cergy-Pontoise Leisure Island",
+            "fr": "Île de Loisirs de Cergy‑Pontoise"
           },
           "coords": [
             2.0486,
@@ -128,7 +137,8 @@
             "de": "Entspannen Sie in dieser weitläufigen Freizeitanlage, die Wassersport und Sandstrände direkt in der Stadt bietet, und bringen Sie Handtücher mit, um den Strandbereich zu genießen.",
             "hu": "Pihenjen ebben a hatalmas szabadtéri paradicsomban, amely vízi sportokat és homokos partokat kínál, és hozzon magával törölközőt, ha szeretné élvezni a napos strandolást.",
             "ro": "Relaxați-vă în acest refugiu în aer liber care oferă sporturi nautice și țărmuri nisipoase chiar în oraș, aducându-vă prosoape și loțiune de soare dacă plănuiți să faceți plajă.",
-            "en": "Relax at this vast outdoor haven offering water sports and sandy shores right in the city, bringing your own towels and sunscreen if you plan to enjoy the sunny beach area."
+            "en": "Relax at this vast outdoor haven offering water sports and sandy shores right in the city, bringing your own towels and sunscreen if you plan to enjoy the sunny beach area.",
+            "fr": "Détendez‑vous dans ce vaste havre extérieur offrant des sports nautiques et des plages de sable en ville ; apportez serviettes et crème solaire si vous comptez profiter de la zone de plage ensoleillée."
           }
         }
       ],
@@ -164,7 +174,8 @@
             "de": "Morgens bietet der Belvédère-Turm einen dramatischen Blick unter grauem Himmel. Mittags spazieren wir entlang des Axe Majeur und achten auf den rutschigen Boden. Nachmittags überqueren wir die rote Brücke, wobei ein fester Griff am Regenschirm wegen des Windes ratsam ist. Abends endet der Tag an der nebligen Freizeitinsel, bevor wir uns in ein gemütliches Café im Stadtzentrum zurückziehen.",
             "hu": "Reggel a Belvédère toronynál kezdünk, ahol a szürke égbolt drámai hátteret ad az építménynek. Délben az Axe Majeur vonalán sétálunk, figyelve a csúszós burkolatra az esőben. Délután a tizenkét oszlop és a híd következik, ahol az esernyő elengedhetetlen a nyitott terep és a szél miatt. Este a szabadidő-sziget párás látványa zárja a napot, mielőtt fedett helyre húzódnánk a városközpontban.",
             "ro": "Dimineața, Turnul Belvédère oferă o priveliște dramatică sub cerul gri. La prânz, ne plimbăm de-a lungul Axe Majeur, atenți la pavajul alunecos. După-amiaza traversăm podul roșu, unde o prindere fermă a umbrelei este recomandată din cauza vântului. Seara, ziua se încheie la insula de agrement plină de ceață, înainte de a ne retrage într-o cafenea primitoare din centrul orașului.",
-            "en": "In the morning, the Belvédère Tower offers a dramatic view under grey skies. At noon, we walk along the Axe Majeur, being careful of the slippery pavement in the rain. In the afternoon, the red bridge follows, where a firm grip on the umbrella is advised due to the wind. In the evening, the misty sight of the leisure island ends the day before we retreat to a cozy indoor spot downtown."
+            "en": "In the morning, the Belvédère Tower offers a dramatic view under grey skies. At noon, we walk along the Axe Majeur, being careful of the slippery pavement in the rain. In the afternoon, the red bridge follows, where a firm grip on the umbrella is advised due to the wind. In the evening, the misty sight of the leisure island ends the day before we retreat to a cozy indoor spot downtown.",
+            "fr": "Le matin, la Tour du Belvédère offre une vue dramatique sous un ciel gris. À midi, nous marchons le long de l’Axe Majeur, en faisant attention au sol glissant sous la pluie. L’après‑midi, le pont rouge suit, où il est conseillé de tenir fermement son parapluie à cause du vent. En soirée, la vue brumeuse de l’île de loisirs clôt la journée avant de regagner un lieu intérieur et chaleureux au centre‑ville."
           },
           "stops": [
             {
@@ -172,13 +183,15 @@
                 "de": "Belvédère Tower",
                 "hu": "Belvédère Tower",
                 "ro": "Belvédère Tower",
-                "en": "Belvédère Tower"
+                "en": "Belvédère Tower",
+                "fr": "Tour du Belvédère"
               },
               "tip_5lang": {
                 "de": "Bewundern Sie das moderne Design des Turms; bei plötzlichem Regen finden Sie unter den nahen Arkaden der Wohngebäude schnell einen trockenen Unterschlupf.",
                 "hu": "Csodálja meg a torony modern kialakítását; hirtelen eső esetén a közeli lakóépületek árkádjai alatt gyorsan száraz menedéket találhat a zápor elől.",
                 "ro": "Admirați designul modern al turnului; în caz de ploaie bruscă, puteți găsi rapid un adăpost uscat sub arcadele clădirilor rezidențiale din apropiere.",
-                "en": "Admire the tower's modern design; in case of sudden rain, you can quickly find dry shelter under the arcades of the nearby residential buildings."
+                "en": "Admire the tower's modern design; in case of sudden rain, you can quickly find dry shelter under the arcades of the nearby residential buildings.",
+                "fr": "Admirez le design moderne de la tour ; en cas de pluie soudaine, vous pouvez rapidement trouver un abri sec sous les arcades des immeubles résidentiels voisins."
               }
             },
             {
@@ -186,13 +199,15 @@
                 "de": "Axe Majeur",
                 "hu": "Axe Majeur",
                 "ro": "Axe Majeur",
-                "en": "Axe Majeur"
+                "en": "Axe Majeur",
+                "fr": "Axe Majeur"
               },
               "tip_5lang": {
                 "de": "Spazieren Sie über den weiten Platz, aber tragen Sie Schuhe mit gutem Profil, da die hellen Steine bei Nässe sehr rutschig werden können.",
                 "hu": "Sétáljon át a tágas téren, de viseljen jó tapadású cipőt, mert a világos kövek nedvesen nagyon csúszóssá válhatnak a monumentális tengely mentén.",
                 "ro": "Plimbați-vă prin piața spațioasă, dar purtați pantofi cu aderență bună, deoarece pietrele deschise la culoare pot deveni foarte alunecoase când sunt ude.",
-                "en": "Walk across the spacious square, but wear shoes with good grip, as the light-colored stones can become very slippery when wet along the axis."
+                "en": "Walk across the spacious square, but wear shoes with good grip, as the light-colored stones can become very slippery when wet along the axis.",
+                "fr": "Parcourez la vaste place, mais portez des chaussures à bonne adhérence, car les pierres de couleur claire peuvent devenir très glissantes lorsqu’elles sont mouillées le long de l’axe."
               }
             },
             {
@@ -200,13 +215,15 @@
                 "de": "The Twelve Columns",
                 "hu": "The Twelve Columns",
                 "ro": "The Twelve Columns",
-                "en": "The Twelve Columns"
+                "en": "The Twelve Columns",
+                "fr": "Les Douze Colonnes"
               },
               "tip_5lang": {
                 "de": "Nutzen Sie die massiven Säulen als Windschutz für Fotos; der Blick auf die Oise wirkt bei Regen besonders melancholisch und weitläufig.",
                 "hu": "Használja a masszív oszlopokat szélfogóként a fotózáshoz; az Oise folyóra nyíló kilátás esőben különösen melankolikus és tágas hangulatot áraszt.",
                 "ro": "Folosiți coloanele masive ca paravânt pentru fotografii; vederea spre râul Oise pare deosebit de melancolică și vastă în timpul ploii.",
-                "en": "Use the massive columns as windbreaks for photos; the view of the Oise river looks particularly melancholic and expansive during the rain."
+                "en": "Use the massive columns as windbreaks for photos; the view of the Oise river looks particularly melancholic and expansive during the rain.",
+                "fr": "Utilisez les colonnes massives comme coupe‑vent pour les photos ; la vue sur l’Oise paraît particulièrement mélancolique et expansive sous la pluie."
               }
             },
             {
@@ -214,13 +231,15 @@
                 "de": "Axe Majeur Footbridge",
                 "hu": "Axe Majeur Footbridge",
                 "ro": "Axe Majeur Footbridge",
-                "en": "Axe Majeur Footbridge"
+                "en": "Axe Majeur Footbridge",
+                "fr": "Passerelle de l’Axe Majeur"
               },
               "tip_5lang": {
                 "de": "Gehen Sie zügig über die leuchtend rote Brücke, da es hier keine Überdachung gibt und der Wind den Regen oft peitschend von der Seite bringt.",
                 "hu": "Haladjon tempósan a ragyogó vörös hídon, mivel itt nincs fedett rész, és a szél gyakran oldalról vágja az esőt a nyitott folyó felett.",
                 "ro": "Mergeți rapid pe podul roșu aprins, deoarece nu există acoperiș aici, iar vântul bate adesea ploaia din lateral deasupra râului deschis.",
-                "en": "Walk briskly across the bright red bridge, as there is no cover here and the wind often blows the rain sideways over the open river."
+                "en": "Walk briskly across the bright red bridge, as there is no cover here and the wind often blows the rain sideways over the open river.",
+                "fr": "Traversez rapidement le pont rouge vif, car il n’y a pas d’abri ici et le vent souffle souvent la pluie en biais sur la rivière ouverte."
               }
             },
             {
@@ -228,13 +247,15 @@
                 "de": "Cergy-Pontoise Leisure Island",
                 "hu": "Cergy-Pontoise Leisure Island",
                 "ro": "Cergy-Pontoise Leisure Island",
-                "en": "Cergy-Pontoise Leisure Island"
+                "en": "Cergy-Pontoise Leisure Island",
+                "fr": "Île de Loisirs de Cergy‑Pontoise"
               },
               "tip_5lang": {
                 "de": "Sollte der Regen zu stark werden, bietet das Empfangszentrum der Insel eine gute Möglichkeit, sich kurz aufzuwärmen und den See von drinnen zu betrachten.",
                 "hu": "Ha túl erőssé válik az eső, a sziget látogatóközpontja jó lehetőséget kínál a felmelegedésre és a tó benti megfigyelésére a pihenés alatt.",
                 "ro": "Dacă ploaia devine prea puternică, centrul de primire al insulei oferă o oportunitate bună de a vă încălzi și de a privi lacul din interior.",
-                "en": "If the rain gets too heavy, the island's visitor center offers a good opportunity to warm up and observe the lake from the inside."
+                "en": "If the rain gets too heavy, the island's visitor center offers a good opportunity to warm up and observe the lake from the inside.",
+                "fr": "Si la pluie devient trop forte, le centre d’accueil de l’île offre une bonne occasion de se réchauffer et d’observer le lac depuis l’intérieur."
               }
             }
           ]
@@ -244,7 +265,8 @@
             "de": "Der Wintermorgen am Belvédère-Turm ist frostig und klar. Mittags wärmen wir uns bei einem kurzen Spaziergang am Axe Majeur auf, während die tiefstehende Sonne lange Schatten wirft. Nachmittags erreichen wir die Brücke pünktlich zum frühen Sonnenuntergang gegen 17:00 Uhr. Den Abend verbringen wir auf der Freizeitinsel, wo die kalte Luft die Lichter der Stadt besonders hell erstrahlen lässt.",
             "hu": "A téli reggel a Belvédère toronynál fagyos és tiszta. Délben az Axe Majeur mentén tett rövid sétával melegszünk fel, miközben az alacsonyan járó nap hosszú árnyékokat vet. Délután a hídhoz érünk, éppen a 17:00 körüli korai naplementére. Az estét a szabadidő-szigeten töltjük, ahol a hideg levegőben a város fényei különösen élesen és fényesen ragyognak a sötétben.",
             "ro": "Dimineața de iarnă la Turnul Belvédère este geroasă și senină. La prânz, ne încălzim cu o scurtă plimbare pe Axe Majeur, în timp ce soarele jos lasă umbre lungi. După-amiaza ajungem la pod exact pentru apusul timpuriu de la ora 17:00. Seara o petrecem pe insula de agrement, unde aerul rece face luminile orașului să strălucească deosebit de tare.",
-            "en": "The winter morning at Belvédère Tower is frosty and clear. At noon, we warm up with a short walk along Axe Majeur as the low sun casts long shadows. In the afternoon, we reach the bridge just in time for the early sunset around 17:00. We spend the evening on the leisure island, where the cold air makes the city lights shine especially bright in the dark."
+            "en": "The winter morning at Belvédère Tower is frosty and clear. At noon, we warm up with a short walk along Axe Majeur as the low sun casts long shadows. In the afternoon, we reach the bridge just in time for the early sunset around 17:00. We spend the evening on the leisure island, where the cold air makes the city lights shine especially bright in the dark.",
+            "fr": "La matinée hivernale à la Tour du Belvédère est froide et claire. À midi, nous nous réchauffons par une courte marche le long de l’Axe Majeur alors que le soleil bas projette de longues ombres. L’après‑midi, nous atteignons le pont juste à temps pour le coucher du soleil tôt vers 17:00. Nous passons la soirée sur l’île de loisirs, où l’air froid rend les lumières de la ville particulièrement brillantes dans la nuit."
           },
           "stops": [
             {
@@ -252,13 +274,15 @@
                 "de": "Belvédère Tower",
                 "hu": "Belvédère Tower",
                 "ro": "Belvédère Tower",
-                "en": "Belvédère Tower"
+                "en": "Belvédère Tower",
+                "fr": "Tour du Belvédère"
               },
               "tip_5lang": {
                 "de": "Tragen Sie dicke Handschuhe, wenn Sie die Geländer berühren; der kalte Stahl des Turms kann am frühen Morgen unangenehm frostig sein.",
                 "hu": "Viseljen vastag kesztyűt, ha megérinti a korlátokat; a torony hideg acélszerkezete a kora reggeli órákban kellemetlenül fagyos lehet a kéznek.",
                 "ro": "Purtați mănuși groase dacă atingeți balustradele; structura rece de oțel a turnului poate fi neplăcut de geroasă în orele dimineții.",
-                "en": "Wear thick gloves if you touch the railings; the tower's cold steel structure can be unpleasantly frosty in the early morning hours."
+                "en": "Wear thick gloves if you touch the railings; the tower's cold steel structure can be unpleasantly frosty in the early morning hours.",
+                "fr": "Portez des gants épais si vous touchez les rampes ; la structure en acier froid de la tour peut être désagréablement glaciale aux premières heures du matin."
               }
             },
             {
@@ -266,13 +290,15 @@
                 "de": "Axe Majeur",
                 "hu": "Axe Majeur",
                 "ro": "Axe Majeur",
-                "en": "Axe Majeur"
+                "en": "Axe Majeur",
+                "fr": "Axe Majeur"
               },
               "tip_5lang": {
                 "de": "Genießen Sie die klare Sicht bis nach Paris; achten Sie jedoch auf vereiste Stellen auf den Stufen, die bei Frost sehr tückisch sein können.",
                 "hu": "Élvezze a tiszta kilátást akár Párizsig; azonban ügyeljen a lépcsőkön az esetleges jeges foltokra, amelyek fagy idején nagyon csalókák lehetnek.",
                 "ro": "Bucurați-vă de vederea clară până la Paris; totuși, fiți atenți la petele de gheață de pe trepte, care pot fi foarte înșelătoare în timpul gerului.",
-                "en": "Enjoy the clear view as far as Paris; however, watch out for icy patches on the steps, which can be very treacherous during frost."
+                "en": "Enjoy the clear view as far as Paris; however, watch out for icy patches on the steps, which can be very treacherous during frost.",
+                "fr": "Profitez de la vue dégagée jusqu’à Paris ; toutefois, méfiez‑vous des plaques de glace sur les marches, qui peuvent être très traîtresses en cas de gel."
               }
             },
             {
@@ -280,13 +306,15 @@
                 "de": "The Twelve Columns",
                 "hu": "The Twelve Columns",
                 "ro": "The Twelve Columns",
-                "en": "The Twelve Columns"
+                "en": "The Twelve Columns",
+                "fr": "Les Douze Colonnes"
               },
               "tip_5lang": {
                 "de": "Die weißen Säulen reflektieren das blasse Winterlicht wunderschön; nutzen Sie die Mittagszeit für Fotos, bevor der Platz im Schatten der Gebäude liegt.",
                 "hu": "A fehér oszlopok gyönyörűen verik vissza a sápadt téli fényt; használja ki a délidőt a fotózásra, mielőtt a tér az épületek árnyékába kerülne.",
                 "ro": "Coloanele albe reflectă frumos lumina palidă a iernii; profitați de amiază pentru fotografii înainte ca piața să intre în umbra clădirilor.",
-                "en": "The white columns reflect the pale winter light beautifully; take advantage of noon for photos before the square falls into the buildings' shadows."
+                "en": "The white columns reflect the pale winter light beautifully; take advantage of noon for photos before the square falls into the buildings' shadows.",
+                "fr": "Les colonnes blanches reflètent magnifiquement la pâle lumière hivernale ; profitez de midi pour les photos avant que la place ne tombe dans l’ombre des immeubles."
               }
             },
             {
@@ -294,13 +322,15 @@
                 "de": "Axe Majeur Footbridge",
                 "hu": "Axe Majeur Footbridge",
                 "ro": "Axe Majeur Footbridge",
-                "en": "Axe Majeur Footbridge"
+                "en": "Axe Majeur Footbridge",
+                "fr": "Passerelle de l’Axe Majeur"
               },
               "tip_5lang": {
                 "de": "Erleben Sie das Farbspektrum des Himmels über der Oise; packen Sie Taschenwärmer ein, da der Wind über dem Wasser die gefühlte Kälte extrem verstärkt.",
                 "hu": "Tapasztalja meg az égbolt színeit az Oise felett; vigyen magával zsebmelegítőt, mert a víz feletti szél jelentősen felerősíti a hidegérzetet.",
                 "ro": "Experimentați culorile cerului deasupra râului Oise; luați încălzitoare de buzunar, deoarece vântul de peste apă intensifică semnificativ senzația de frig.",
-                "en": "Experience the colors of the sky over the Oise; bring pocket warmers, as the wind over the water significantly intensifies the feeling of cold."
+                "en": "Experience the colors of the sky over the Oise; bring pocket warmers, as the wind over the water significantly intensifies the feeling of cold.",
+                "fr": "Admirez les couleurs du ciel au‑dessus de l’Oise ; apportez des chaufferettes de poche, car le vent sur l’eau intensifie fortement la sensation de froid."
               }
             },
             {
@@ -308,13 +338,15 @@
                 "de": "Cergy-Pontoise Leisure Island",
                 "hu": "Cergy-Pontoise Leisure Island",
                 "ro": "Cergy-Pontoise Leisure Island",
-                "en": "Cergy-Pontoise Leisure Island"
+                "en": "Cergy-Pontoise Leisure Island",
+                "fr": "Île de Loisirs de Cergy‑Pontoise"
               },
               "tip_5lang": {
                 "de": "Spazieren Sie am Seeufer entlang, aber bleiben Sie auf den Hauptwegen; die Uferbereiche können bei gefrorenem Boden instabil und rutschig sein.",
                 "hu": "Sétáljon a tóparton, de maradjon a főutakon; a partmenti részek fagyott talaj esetén instabilak és csúszósak lehetnek a felfedezőknek.",
                 "ro": "Plimbați-vă pe malul lacului, dar rămâneți pe potecile principale; zonele de mal pot fi instabile și alunecoase în cazul solului înghețat.",
-                "en": "Walk along the lakeshore, but stay on the main paths; the shore areas can be unstable and slippery in case of frozen ground for explorers."
+                "en": "Walk along the lakeshore, but stay on the main paths; the shore areas can be unstable and slippery in case of frozen ground for explorers.",
+                "fr": "Promenez‑vous le long du lac, mais restez sur les chemins principaux ; les zones de rive peuvent être instables et glissantes en cas de sol gelé pour les explorateurs."
               }
             }
           ]
@@ -334,7 +366,8 @@
             "de": "Place des Trois Tourelles",
             "hu": "Place des Trois Tourelles",
             "ro": "Place des Trois Tourelles",
-            "en": "Place des Trois Tourelles"
+            "en": "Place des Trois Tourelles",
+            "fr": "Place des Trois Tourelles"
           },
           "coords": [
             2.011124,
@@ -349,7 +382,8 @@
             "de": "Beginnen Sie Ihre Erkundungstour an diesem ruhigen Platz, der eine sanfte Einführung in Cergy bietet, und holen Sie sich noch einen Espresso, bevor Sie sich auf den Weg machen.",
             "hu": "Kezdje felfedezőútját ezen a csendes helyi téren, amely kellemes bevezetést nyújt Cergy elrendezésébe, és igyon egy gyors eszpresszót egy közeli kávézóban indulás előtt.",
             "ro": "Începeți explorarea din această piață locală liniștită, care oferă o introducere plăcută în structura orașului Cergy, și savurați un espresso rapid la o cafenea din apropiere.",
-            "en": "Begin your exploration at this quiet local square that offers a gentle introduction to Cergy's layout, grabbing a quick espresso at a nearby café before hitting the road."
+            "en": "Begin your exploration at this quiet local square that offers a gentle introduction to Cergy's layout, grabbing a quick espresso at a nearby café before hitting the road.",
+            "fr": "Commencez votre exploration sur cette tranquille petite place locale qui offre une introduction douce à l’agencement de Cergy, en prenant un espresso rapide dans un café voisin avant de reprendre la route."
           }
         },
         {
@@ -357,7 +391,8 @@
             "de": "Axe Majeur",
             "hu": "Axe Majeur",
             "ro": "Axe Majeur",
-            "en": "Axe Majeur"
+            "en": "Axe Majeur",
+            "fr": "Axe Majeur"
           },
           "coords": [
             2.035766,
@@ -372,7 +407,8 @@
             "de": "Schlendern Sie entlang dieser monumentalen roten Achse von Dani Karavan, die urbanes Design perfekt mit der Natur verbindet, und nehmen Sie ein Weitwinkelobjektiv für Fotos mit.",
             "hu": "Sétáljon végig Dani Karavan monumentális piros tengelyén, amely tökéletesen ötvözi a modern dizájnt a természettel, és mindenképpen hozzon magával széles látószögű objektívet.",
             "ro": "Plimbați-vă pe această axă monumentală a lui Dani Karavan, care îmbină perfect designul urban cu natura, și luați un obiectiv superangular pentru a surprinde cele mai bune cadre.",
-            "en": "Stroll along this monumental red paved axis by Dani Karavan, which perfectly aligns modern urban design with nature, taking a wide-angle lens for the best perspectives."
+            "en": "Stroll along this monumental red paved axis by Dani Karavan, which perfectly aligns modern urban design with nature, taking a wide-angle lens for the best perspectives.",
+            "fr": "Promenez‑vous le long de cet axe monumental pavé de rouge de Dani Karavan, qui aligne parfaitement design urbain moderne et nature ; prenez un objectif grand‑angle pour les meilleures perspectives."
           }
         },
         {
@@ -380,7 +416,8 @@
             "de": "The Twelve Columns",
             "hu": "The Twelve Columns",
             "ro": "The Twelve Columns",
-            "en": "The Twelve Columns"
+            "en": "The Twelve Columns",
+            "fr": "Les Douze Colonnes"
           },
           "coords": [
             2.03783,
@@ -395,7 +432,8 @@
             "de": "Stehen Sie unter diesen weißen Säulen, die an klaren Tagen die Pariser Skyline umrahmen, und kommen Sie zur goldenen Stunde, wenn sich die Schatten dramatisch verlängern.",
             "hu": "Álljon be ezek alá a tornyosuló fehér oszlopok alá, amelyek tiszta időben a párizsi sziluettet keretezik, és próbáljon meg az aranyórában érkezni a drámai árnyékokért.",
             "ro": "Stați sub acești stâlpi albi impunători care încadrează orizontul parizian în zilele senine și vizitați în timpul orei de aur pentru a admira umbrele spectaculoase și prelungite.",
-            "en": "Stand beneath these towering white pillars that gracefully frame the Parisian skyline on clear days, and visit during golden hour when the shadows stretch dramatically."
+            "en": "Stand beneath these towering white pillars that gracefully frame the Parisian skyline on clear days, and visit during golden hour when the shadows stretch dramatically.",
+            "fr": "Tenez‑vous sous ces colonnes blanches imposantes qui encadrent gracieusement la silhouette parisienne par temps clair, et visitez‑les à l’heure dorée quand les ombres s’allongent avec éclat."
           }
         },
         {
@@ -403,7 +441,8 @@
             "de": "Axe Majeur Footbridge",
             "hu": "Axe Majeur Footbridge",
             "ro": "Axe Majeur Footbridge",
-            "en": "Axe Majeur Footbridge"
+            "en": "Axe Majeur Footbridge",
+            "fr": "Passerelle de l'Axe Majeur"
           },
           "coords": [
             2.042645,
@@ -418,7 +457,8 @@
             "de": "Überqueren Sie diese auffällige rote Brücke, die die Teiche mit geometrischer Präzision überspannt, und tragen Sie bequeme Schuhe, da die umliegenden Wege sehr weitläufig sind.",
             "hu": "Keljen át ezen a lenyűgöző piros hídon, amely geometriai pontossággal ível át a folyón, és viseljen kényelmes cipőt, mivel a környező sétányok meglehetősen hosszúak.",
             "ro": "Traversați această impresionantă punte roșie care se întinde cu precizie geometrică peste râu și purtați încălțăminte confortabilă, deoarece potecile din jur sunt destul de lungi.",
-            "en": "Cross this striking red bridge that spans the ponds and river with geometric precision, wearing comfortable walking shoes as the surrounding paths are quite extensive."
+            "en": "Cross this striking red bridge that spans the ponds and river with geometric precision, wearing comfortable walking shoes as the surrounding paths are quite extensive.",
+            "fr": "Traversez ce pont rouge saisissant qui enjambe les étangs et la rivière avec une précision géométrique, en portant des chaussures de marche confortables car les sentiers alentours sont assez étendus."
           }
         },
         {
@@ -426,7 +466,8 @@
             "de": "Port Cergy",
             "hu": "Port Cergy",
             "ro": "Port Cergy",
-            "en": "Port Cergy"
+            "en": "Port Cergy",
+            "fr": "Port de Cergy"
           },
           "coords": [
             2.06025,
@@ -441,7 +482,8 @@
             "de": "Schlendern Sie durch diesen modernen Yachthafen mit seinen Booten und lebhaften Restaurants am Wasser und reservieren Sie im Voraus, wenn Sie hier bei Sonnenuntergang speisen möchten.",
             "hu": "Sétáljon egyet ebben a hangulatos modern jachtkikötőben, amely tele van ringatózó hajókkal, és feltétlenül foglaljon asztalt előre, ha egy festői naplementés vacsorára vágyik.",
             "ro": "Plimbați-vă prin acest port modern plin de bărci și restaurante vibrante pe malul apei, făcând o rezervare din timp dacă doriți să savurați o cină scenică la apusul soarelui.",
-            "en": "Wander around this charming modern marina filled with bobbing boats and vibrant waterfront dining, making a reservation in advance if you wish to enjoy a scenic sunset dinner."
+            "en": "Wander around this charming modern marina filled with bobbing boats and vibrant waterfront dining, making a reservation in advance if you wish to enjoy a scenic sunset dinner.",
+            "fr": "Flânez dans cette charmante marina moderne remplie de bateaux qui tanguent et de restaurants animés en bord de quai ; réservez à l'avance si vous souhaitez profiter d'un dîner au coucher du soleil."
           }
         },
         {
@@ -449,7 +491,8 @@
             "de": "Saint-Christophe Church",
             "hu": "Saint-Christophe Church",
             "ro": "Saint-Christophe Church",
-            "en": "Saint-Christophe Church"
+            "en": "Saint-Christophe Church",
+            "fr": "Église Saint-Christophe"
           },
           "coords": [
             2.06172,
@@ -464,7 +507,8 @@
             "de": "Bewundern Sie die historische Architektur dieser Kirche, die einen Kontrast zur modernen Achse bildet, und treten Sie leise ein, um die friedliche Atmosphäre zu genießen.",
             "hu": "Csodálja meg ennek a nyugodt helyi templomnak a történelmi építészetét, amely éles kontrasztot alkot a modern várossal, és lépjen be halkan, hogy átélje a békés hangulatot.",
             "ro": "Admirați arhitectura istorică a acestei biserici liniștite care oferă un contrast puternic cu Axa modernă, pășind înăuntru în liniște pentru a aprecia atmosfera sa cu adevărat pașnică.",
-            "en": "Admire the historical architecture of this serene local church that provides a stark contrast to the modern Axe, stepping inside quietly to appreciate its peaceful atmosphere."
+            "en": "Admire the historical architecture of this serene local church that provides a stark contrast to the modern Axe, stepping inside quietly to appreciate its peaceful atmosphere.",
+            "fr": "Admirez l'architecture historique de cette église locale sereine qui contraste fortement avec l'Axe moderne ; entrez en silence pour apprécier son atmosphère paisible."
           }
         },
         {
@@ -472,7 +516,8 @@
             "de": "Parc de la Préfecture",
             "hu": "Parc de la Préfecture",
             "ro": "Parc de la Préfecture",
-            "en": "Parc de la Préfecture"
+            "en": "Parc de la Préfecture",
+            "fr": "Parc de la Préfecture"
           },
           "coords": [
             2.074892,
@@ -487,7 +532,8 @@
             "de": "Entspannen Sie sich in dieser zentralen Grünanlage, die von zeitgenössischer Architektur umgeben ist, und breiten Sie eine Picknickdecke aus, um die urbane Landschaft zu genießen.",
             "hu": "Kapcsolódjon ki ebben a kiterjedt zöldövezetben, amelyet lenyűgöző kortárs épületek vesznek körül, és terítsen le egy pikniktakarót a különleges városi tájrendezés élvezetéhez.",
             "ro": "Relaxați-vă în acest spațiu verde central înconjurat de o arhitectură contemporană uimitoare, întinzând o pătură de picnic pentru a vă bucura de peisagistica urbană unică.",
-            "en": "Unwind in this expansive central green space surrounded by striking contemporary architecture, laying out a small picnic blanket to truly soak in the unique urban landscaping."
+            "en": "Unwind in this expansive central green space surrounded by striking contemporary architecture, laying out a small picnic blanket to truly soak in the unique urban landscaping.",
+            "fr": "Détendez-vous dans ce vaste espace vert central entouré d'une architecture contemporaine saisissante ; étendez une petite couverture de pique-nique pour profiter pleinement de l'aménagement paysager urbain unique."
           }
         }
       ],
@@ -523,7 +569,8 @@
             "de": "Morgens am Platz der drei Türme spiegeln sich die Fassaden im nassen Asphalt. Mittags radeln wir zum Axe Majeur, wobei Schutzbleche unverzichtbar sind. Nachmittags erkunden wir den Hafen von Cergy und achten auf rutschige Kurven am Kai. Den Abend lassen wir im Park ausklingen, wo das Prasseln des Regens in den Bäumen eine beruhigende Kulisse für die Rückfahrt bildet.",
             "hu": "Reggel a Trois Tourelles téren indulunk, ahol a vizes aszfalt tükrözi a modern házakat. Délben az Axe Majeur felé tekerünk, a sárvédő és a vízálló nadrág használata ajánlott. Délután a kikötő környékén cirkálunk, figyelve a csúszós kanyarokra a rakparton. Este a park csendje zárja a túrát, ahol az eső kopogása a lombokon megnyugtató háttérzajt szolgáltat a tekeréshez.",
             "ro": "Dimineața în Piața celor Trei Turnuri, fațadele se oglindesc în asfaltul ud. La prânz pedalăm spre Axe Majeur, aripile de protecție fiind indispensabile. După-amiaza explorăm portul Cergy, atenți la curbele alunecoase de pe chei. Seara o încheiem în parc, unde ropotul ploii în copaci oferă un fundal liniștitor pentru drumul de întoarcere.",
-            "en": "In the morning at the Square of the Three Towers, facades reflect in the wet asphalt. At noon we cycle to Axe Majeur, where mudguards are essential. In the afternoon we explore the Port of Cergy, being careful of slippery curves on the quay. We end the evening in the park, where the patter of rain in the trees provides a calming backdrop for the ride back."
+            "en": "In the morning at the Square of the Three Towers, facades reflect in the wet asphalt. At noon we cycle to Axe Majeur, where mudguards are essential. In the afternoon we explore the Port of Cergy, being careful of slippery curves on the quay. We end the evening in the park, where the patter of rain in the trees provides a calming backdrop for the ride back.",
+            "fr": "Le matin sur la Place des Trois Tourelles, les façades se reflètent dans le bitume mouillé. À midi, nous pédalons jusqu'à l'Axe Majeur, où les garde-boue sont indispensables. L'après-midi, nous explorons le Port de Cergy, en faisant attention aux courbes glissantes du quai. Nous finissons la soirée dans le parc, où le crépitement de la pluie dans les arbres offre un fond apaisant pour le retour en vélo."
           },
           "stops": [
             {
@@ -531,13 +578,15 @@
                 "de": "Place des Trois Tourelles",
                 "hu": "Place des Trois Tourelles",
                 "ro": "Place des Trois Tourelles",
-                "en": "Place des Trois Tourelles"
+                "en": "Place des Trois Tourelles",
+                "fr": "Place des Trois Tourelles"
               },
               "tip_5lang": {
                 "de": "Prüfen Sie Ihre Bremsen vor dem Start; der glatte Boden des Platzes erfordert bei Regen besondere Vorsicht bei Manövern.",
                 "hu": "Indulás előtt ellenőrizze a fékeket; a tér sima burkolata esőben különös óvatosságot igényel a kanyarodásnál és a megállásnál.",
                 "ro": "Verificați frânele înainte de plecare; pavajul neted al pieței necesită o atenție deosebită la manevre în timpul ploii.",
-                "en": "Check your brakes before starting; the smooth pavement of the square requires extra caution during maneuvers and stops in the rain."
+                "en": "Check your brakes before starting; the smooth pavement of the square requires extra caution during maneuvers and stops in the rain.",
+                "fr": "Vérifiez vos freins avant de commencer ; le pavement lisse de la place nécessite une prudence accrue lors des manœuvres et des arrêts sous la pluie."
               }
             },
             {
@@ -545,13 +594,15 @@
                 "de": "Axe Majeur",
                 "hu": "Axe Majeur",
                 "ro": "Axe Majeur",
-                "en": "Axe Majeur"
+                "en": "Axe Majeur",
+                "fr": "Axe Majeur"
               },
               "tip_5lang": {
                 "de": "Fahren Sie vorsichtig auf den gepflasterten Abschnitten; die Sicht kann durch Spritzwasser beeinträchtigt sein, tragen Sie daher eine klare Schutzbrille.",
                 "hu": "Tekerjen óvatosan a kövezett szakaszokon; a felverődő víz ronthatja a látási viszonyokat, ezért érdemes víztaszító szemüveget viselni.",
                 "ro": "Pedalați cu atenție pe secțiunile pavate; apa împroșcată poate reduce vizibilitatea, așa că purtați ochelari de protecție clari.",
-                "en": "Cycle carefully on the paved sections; splashing water can impair visibility, so it's worth wearing clear or water-repellent glasses."
+                "en": "Cycle carefully on the paved sections; splashing water can impair visibility, so it's worth wearing clear or water-repellent glasses.",
+                "fr": "Roulez prudemment sur les sections pavées ; les éclaboussures peuvent gêner la visibilité, il est donc utile de porter des lunettes claires ou déperlantes."
               }
             },
             {
@@ -559,13 +610,15 @@
                 "de": "The Twelve Columns",
                 "hu": "The Twelve Columns",
                 "ro": "The Twelve Columns",
-                "en": "The Twelve Columns"
+                "en": "The Twelve Columns",
+                "fr": "Les Douze Colonnes"
               },
               "tip_5lang": {
                 "de": "Stellen Sie Ihr Fahrrad unter den Vordächern der nahen Gebäude ab, um kurz innezuhalten und die Architektur ohne nasse Kleidung zu bewundern.",
                 "hu": "Támassza le a kerékpárt a közeli épületek előtetői alatt, hogy egy rövid időre megállhasson megcsodálni az építészetet anélkül, hogy bőrig ázna.",
                 "ro": "Parcați bicicleta sub copertinele clădirilor din apropiere pentru a vă opri scurt și a admira arhitectura fără a vă uda hainele.",
-                "en": "Park your bike under the overhangs of nearby buildings to stop briefly and admire the architecture without getting your clothes soaked."
+                "en": "Park your bike under the overhangs of nearby buildings to stop briefly and admire the architecture without getting your clothes soaked.",
+                "fr": "Garez votre vélo sous les auvents des bâtiments voisins pour vous arrêter brièvement et admirer l'architecture sans mouiller vos vêtements."
               }
             },
             {
@@ -573,13 +626,15 @@
                 "de": "Axe Majeur Footbridge",
                 "hu": "Axe Majeur Footbridge",
                 "ro": "Axe Majeur Footbridge",
-                "en": "Axe Majeur Footbridge"
+                "en": "Axe Majeur Footbridge",
+                "fr": "Passerelle de l'Axe Majeur"
               },
               "tip_5lang": {
                 "de": "Schieben Sie Ihr Rad bei starkem Seitenwind über die Brücke; die exponierte Lage macht das Fahren auf nasser Fahrbahn gefährlich.",
                 "hu": "Erős oldalszél esetén tolja a kerékpárt a hídon; a nyitott elhelyezkedés és a vizes felület veszélyessé teheti a tekerést a folyó felett.",
                 "ro": "Împingeți bicicleta pe pod în caz de vânt lateral puternic; locația expusă și suprafața umedă pot face pedalarea periculoasă peste râu.",
-                "en": "Push your bike across the bridge in case of strong sidewinds; the exposed location and wet surface can make cycling dangerous over the river."
+                "en": "Push your bike across the bridge in case of strong sidewinds; the exposed location and wet surface can make cycling dangerous over the river.",
+                "fr": "Poussez votre vélo sur le pont en cas de fortes rafales latérales ; l'emplacement exposé et la surface humide peuvent rendre le passage à vélo dangereux au-dessus de la rivière."
               }
             },
             {
@@ -587,13 +642,15 @@
                 "de": "Port Cergy",
                 "hu": "Port Cergy",
                 "ro": "Port Cergy",
-                "en": "Port Cergy"
+                "en": "Port Cergy",
+                "fr": "Port de Cergy"
               },
               "tip_5lang": {
                 "de": "Suchen Sie Schutz in einer der vielen kleinen Cafés am Hafen, wenn ein Schauer einsetzt; die Atmosphäre am Wasser ist auch bei Regen charmant.",
                 "hu": "Keressen menedéket a kikötő számos kis kávézójának egyikében, ha elered az eső; a vízparti hangulat esőben is rendkívül bájos és hangulatos.",
                 "ro": "Căutați adăpost în una dintre multele cafenele mici din port dacă începe ploaia; atmosfera de pe malul apei este fermecătoare și în timpul ploii.",
-                "en": "Seek shelter in one of the many small cafes at the port if it starts to rain; the waterfront atmosphere is charming even during rain showers."
+                "en": "Seek shelter in one of the many small cafes at the port if it starts to rain; the waterfront atmosphere is charming even during rain showers.",
+                "fr": "Cherchez un abri dans l'un des nombreux petits cafés du port si la pluie commence ; l'ambiance du front de mer est charmante même sous les averses."
               }
             },
             {
@@ -601,13 +658,15 @@
                 "de": "Saint-Christophe Church",
                 "hu": "Saint-Christophe Church",
                 "ro": "Saint-Christophe Church",
-                "en": "Saint-Christophe Church"
+                "en": "Saint-Christophe Church",
+                "fr": "Église Saint-Christophe"
               },
               "tip_5lang": {
                 "de": "Nutzen Sie den Besuch für eine Pause im Trockenen; die dicken Kirchenmauern bieten perfekten Schutz vor Wind und Regen.",
                 "hu": "Használja ki a látogatást egy száraz szünetre; a templom vastag falai tökéletes védelmet nyújtanak a szél és az eső elől a túra során.",
                 "ro": "Folosiți vizita pentru o pauză la uscat; zidurile groase ale bisericii oferă protecție perfectă împotriva vântului și ploii în timpul turului.",
-                "en": "Use the visit for a dry break; the church's thick walls provide perfect protection from the wind and rain during your cycling tour."
+                "en": "Use the visit for a dry break; the church's thick walls provide perfect protection from the wind and rain during your cycling tour.",
+                "fr": "Profitez de la visite pour une pause au sec ; les murs épais de l'église offrent une parfaite protection contre le vent et la pluie pendant votre circuit à vélo."
               }
             },
             {
@@ -615,13 +674,15 @@
                 "de": "Parc de la Préfecture",
                 "hu": "Parc de la Préfecture",
                 "ro": "Parc de la Préfecture",
-                "en": "Parc de la Préfecture"
+                "en": "Parc de la Préfecture",
+                "fr": "Parc de la Préfecture"
               },
               "tip_5lang": {
                 "de": "Vermeiden Sie unbefestigte Wege im Park, da diese bei Regen schlammig werden können; bleiben Sie auf den asphaltierten Radwegen für mehr Sicherheit.",
                 "hu": "Kerülje a park kivilágítatlan, földes útjait, mert esőben sárossá válhatnak; maradjon az aszfaltozott kerékpárutakon a biztonságosabb haladás érdekében.",
                 "ro": "Evitați potecile de pământ din parc, deoarece pot deveni noroioase în timpul ploii; rămâneți pe pistele de biciclete asfaltate pentru siguranță.",
-                "en": "Avoid unpaved paths in the park, as they can become muddy in the rain; stay on the paved bike paths for safer travel and cleaner gear."
+                "en": "Avoid unpaved paths in the park, as they can become muddy in the rain; stay on the paved bike paths for safer travel and cleaner gear.",
+                "fr": "Évitez les sentiers non goudronnés dans le parc, car ils peuvent devenir boueux sous la pluie ; restez sur les pistes cyclables pavées pour voyager plus sûrement et garder votre équipement propre."
               }
             }
           ]
@@ -631,7 +692,8 @@
             "de": "Der Wintermorgen beginnt frisch am Platz der drei Türme. Mittags radeln wir gut eingepackt zum Axe Majeur und genießen die klare Winterluft. Nachmittags erreichen wir den Hafen, wo die Schiffe im fahlen Licht liegen, bevor es um 17:00 Uhr dunkel wird. Den Abend beenden wir mit eingeschaltetem Licht im Park der Präfektur, wobei wir stets auf Reifglätte achten.",
             "hu": "A téli reggel frissen indul a Trois Tourelles téren. Délben jól felöltözve tekerünk az Axe Majeur felé, élvezve a tiszta téli levegőt. Délután a kikötőhöz érünk, ahol a hajók a sápadt fényben pihennek, mielőtt 17:00-kor ránk sötétedik. Az estét bekapcsolt lámpákkal zárjuk a parkban, folyamatosan ügyelve az utakon előforduló zúzmarára.",
             "ro": "Dimineața de iarnă începe proaspăt în Piața celor Trei Turnuri. La prânz pedalăm bine îmbrăcați spre Axe Majeur, bucurându-ne de aerul curat de iarnă. După-amiaza ajungem în port, unde navele stau în lumina palidă, înainte de a se întuneca la ora 17:00. Încheiem seara cu luminile aprinse în parcul Prefecturii, atenți la gheață.",
-            "en": "The winter morning starts fresh at the Square of the Three Towers. At noon, well-wrapped, we cycle towards Axe Majeur, enjoying the crisp winter air. In the afternoon, we reach the port where ships lie in the pale light before it gets dark at 17:00. We end the evening with lights on in the park, constantly watching out for frost on the paths."
+            "en": "The winter morning starts fresh at the Square of the Three Towers. At noon, well-wrapped, we cycle towards Axe Majeur, enjoying the crisp winter air. In the afternoon, we reach the port where ships lie in the pale light before it gets dark at 17:00. We end the evening with lights on in the park, constantly watching out for frost on the paths.",
+            "fr": "Le matin d'hiver commence frais à la Place des Trois Tourelles. À midi, bien emmitouflés, nous pédalons vers l'Axe Majeur en profitant de l'air vif d'hiver. L'après-midi, nous atteignons le port où les navires reposent dans la lumière pâle avant qu'il ne fasse nuit à 17:00. Nous terminons la soirée avec les lumières allumées dans le parc, en surveillant constamment le verglas sur les chemins."
           },
           "stops": [
             {
@@ -639,13 +701,15 @@
                 "de": "Place des Trois Tourelles",
                 "hu": "Place des Trois Tourelles",
                 "ro": "Place des Trois Tourelles",
-                "en": "Place des Trois Tourelles"
+                "en": "Place des Trois Tourelles",
+                "fr": "Place des Trois Tourelles"
               },
               "tip_5lang": {
                 "de": "Halten Sie Ihre Hände mit winddichten Handschuhen warm; der kalte Fahrtwind am Morgen kann die Finger beim Bremsen schnell steif werden lassen.",
                 "hu": "Tartsa melegen a kezeit szélálló kesztyűvel; a hideg menetszél reggel hamar elgémberítheti az ujjait, ami nehezíti a biztonságos fékezést.",
                 "ro": "Țineți-vă mâinile calde cu mănuși rezistente la vânt; curentul de aer rece de dimineață vă poate înțepeni rapid degetele la frânare.",
-                "en": "Keep your hands warm with windproof gloves; the cold wind in the morning can quickly make your fingers stiff, making it harder to brake safely."
+                "en": "Keep your hands warm with windproof gloves; the cold wind in the morning can quickly make your fingers stiff, making it harder to brake safely.",
+                "fr": "Gardez les mains chaudes avec des gants coupe-vent ; le vent froid du matin peut vite engourdir les doigts, rendant le freinage plus difficile."
               }
             },
             {
@@ -653,13 +717,15 @@
                 "de": "Axe Majeur",
                 "hu": "Axe Majeur",
                 "ro": "Axe Majeur",
-                "en": "Axe Majeur"
+                "en": "Axe Majeur",
+                "fr": "Axe Majeur"
               },
               "tip_5lang": {
                 "de": "Passen Sie Ihr Tempo auf den Freiflächen an; der Wind kann hier im Winter sehr böig sein und die Balance auf dem Rad beeinträchtigen.",
                 "hu": "Igazítsa a tempót a nyitott szakaszokhoz; a szél itt télen nagyon lökésszerű lehet, ami befolyásolhatja az egyensúlyt a kerékpáron.",
                 "ro": "Adaptați-vă viteza pe secțiunile deschise; vântul poate fi foarte în rafale aici iarna, afectând echilibrul pe bicicletă.",
-                "en": "Adjust your pace on the open sections; the wind can be very gusty here in winter, which may affect your balance on the bike."
+                "en": "Adjust your pace on the open sections; the wind can be very gusty here in winter, which may affect your balance on the bike.",
+                "fr": "Ajustez votre allure sur les sections découvertes ; le vent peut être très rafaleux en hiver et affecter votre équilibre à vélo."
               }
             },
             {
@@ -667,13 +733,15 @@
                 "de": "The Twelve Columns",
                 "hu": "The Twelve Columns",
                 "ro": "The Twelve Columns",
-                "en": "The Twelve Columns"
+                "en": "The Twelve Columns",
+                "fr": "Les Douze Colonnes"
               },
               "tip_5lang": {
                 "de": "Ein kurzes Absteigen hilft, die Durchblutung in den Füßen zu fördern; die monumentale Aussicht ist im Winterlicht besonders fotogen.",
                 "hu": "Egy rövid sétálós szakasz segít fokozni a vérkeringést a lábakban; a monumentális kilátás a téli fényben különösen fotogén és tiszta.",
                 "ro": "O scurtă porțiune de mers pe jos ajută la stimularea circulației în picioare; vederea monumentală în lumina iernii este deosebit de fotogenică.",
-                "en": "A short walking section helps boost circulation in your feet; the monumental view in the winter light is particularly photogenic and clear."
+                "en": "A short walking section helps boost circulation in your feet; the monumental view in the winter light is particularly photogenic and clear.",
+                "fr": "Une courte section à pied aide à relancer la circulation dans les pieds ; la vue monumentale sous la lumière hivernale est particulièrement photogénique et nette."
               }
             },
             {
@@ -681,13 +749,15 @@
                 "de": "Axe Majeur Footbridge",
                 "hu": "Axe Majeur Footbridge",
                 "ro": "Axe Majeur Footbridge",
-                "en": "Axe Majeur Footbridge"
+                "en": "Axe Majeur Footbridge",
+                "fr": "Passerelle de l'Axe Majeur"
               },
               "tip_5lang": {
                 "de": "Achten Sie auf Raureif auf dem Belag; die Metallkonstruktion der Brücke kühlt schneller ab als die Straßen und kann glatt sein.",
                 "hu": "Ügyeljen a zúzmarára a burkolaton; a híd fémszerkezete gyorsabban lehűl, mint az utak, és váratlanul csúszóssá válhat a folyó felett.",
                 "ro": "Fiți atenți la promoroacă pe pavaj; structura metalică a podului se răcește mai repede decât drumurile și poate deveni alunecoasă pe neașteptate.",
-                "en": "Watch out for frost on the surface; the bridge's metal structure cools faster than the roads and can become unexpectedly slippery over the river."
+                "en": "Watch out for frost on the surface; the bridge's metal structure cools faster than the roads and can become unexpectedly slippery over the river.",
+                "fr": "Attention au givre sur la surface ; la structure métallique du pont se refroidit plus vite que la route et peut devenir glissante de manière imprévisible au-dessus de la rivière."
               }
             },
             {
@@ -695,13 +765,15 @@
                 "de": "Port Cergy",
                 "hu": "Port Cergy",
                 "ro": "Port Cergy",
-                "en": "Port Cergy"
+                "en": "Port Cergy",
+                "fr": "Port de Cergy"
               },
               "tip_5lang": {
                 "de": "Ein heißes Getränk in einem der Cafés ist der perfekte Zwischenstopp, um neue Energie für den letzten Teil der Wintertour zu sammeln.",
                 "hu": "Egy forró ital az egyik kávézóban tökéletes megálló, hogy új energiát gyűjtsön a téli biciklitúra utolsó szakaszához a hideg szélben.",
                 "ro": "O băutură caldă la una dintre cafenele este oprirea perfectă pentru a aduna energie nouă pentru ultima parte a turului de iarnă.",
-                "en": "A hot drink at one of the cafes is the perfect stop to gather new energy for the final leg of the winter bike tour in the cold wind."
+                "en": "A hot drink at one of the cafes is the perfect stop to gather new energy for the final leg of the winter bike tour in the cold wind.",
+                "fr": "Une boisson chaude dans un des cafés est l'arrêt parfait pour reprendre des forces avant le dernier tronçon de la sortie à vélo par le vent froid."
               }
             },
             {
@@ -709,13 +781,15 @@
                 "de": "Saint-Christophe Church",
                 "hu": "Saint-Christophe Church",
                 "ro": "Saint-Christophe Church",
-                "en": "Saint-Christophe Church"
+                "en": "Saint-Christophe Church",
+                "fr": "Église Saint-Christophe"
               },
               "tip_5lang": {
                 "de": "Die Kirche bietet einen windgeschützten Ort der Ruhe; die Innentemperatur ist oft milder als draußen, ideal für eine kurze Aufwärmpause.",
                 "hu": "A templom szélvédett, nyugodt helyszín; a belső hőmérséklet gyakran enyhébb, mint kint, így ideális egy rövid felmelegedési szünetre.",
                 "ro": "Biserica oferă un loc liniștit, ferit de vânt; temperatura interioară este adesea mai blândă decât afară, ideală pentru o scurtă pauză.",
-                "en": "The church offers a wind-sheltered, quiet spot; the indoor temperature is often milder than outside, making it ideal for a short warm-up break."
+                "en": "The church offers a wind-sheltered, quiet spot; the indoor temperature is often milder than outside, making it ideal for a short warm-up break.",
+                "fr": "L'église offre un endroit calme et abrité du vent ; la température intérieure est souvent plus douce qu'à l'extérieur, idéal pour une courte pause réchauffante."
               }
             },
             {
@@ -723,13 +797,15 @@
                 "de": "Parc de la Préfecture",
                 "hu": "Parc de la Préfecture",
                 "ro": "Parc de la Préfecture",
-                "en": "Parc de la Préfecture"
+                "en": "Parc de la Préfecture",
+                "fr": "Parc de la Préfecture"
               },
               "tip_5lang": {
                 "de": "Stellen Sie sicher, dass Ihre Beleuchtung funktioniert; im Winter setzt die Dämmerung früh ein und die Sichtbarkeit im Park ist entscheidend.",
                 "hu": "Győződjön meg róla, hogy a világítása jól működik; télen korán sötétedik, és a láthatóság a park sötétebb részein alapvető a biztonsághoz.",
                 "ro": "Asigurați-vă că luminile funcționează bine; iarna se întunecă devreme, iar vizibilitatea în zonele mai întunecate ale parcului este esențială.",
-                "en": "Make sure your lighting is working well; in winter it gets dark early, and visibility in the darker parts of the park is essential for safety."
+                "en": "Make sure your lighting is working well; in winter it gets dark early, and visibility in the darker parts of the park is essential for safety.",
+                "fr": "Assurez-vous que votre éclairage fonctionne bien ; en hiver il fait nuit tôt, et la visibilité dans les parties ombragées du parc est essentielle pour la sécurité."
               }
             }
           ]
@@ -749,7 +825,8 @@
             "de": "Parc de la Préfecture",
             "hu": "Parc de la Préfecture",
             "ro": "Parc de la Préfecture",
-            "en": "Parc de la Préfecture"
+            "en": "Parc de la Préfecture",
+            "fr": "Parc de la Préfecture"
           },
           "coords": [
             2.074892,
@@ -764,7 +841,8 @@
             "de": "Entspannen Sie sich in dieser zentralen Grünanlage, die von zeitgenössischer Architektur umgeben ist, und breiten Sie eine Picknickdecke aus, um die urbane Landschaft zu genießen.",
             "hu": "Kapcsolódjon ki ebben a kiterjedt zöldövezetben, amelyet lenyűgöző kortárs épületek vesznek körül, és terítsen le egy pikniktakarót a különleges városi tájrendezés élvezetéhez.",
             "ro": "Relaxați-vă în acest spațiu verde central înconjurat de o arhitectură contemporană uimitoare, întinzând o pătură de picnic pentru a vă bucura de peisagistica urbană unică.",
-            "en": "Unwind in this expansive central green space surrounded by striking contemporary architecture, laying out a small picnic blanket to truly soak in the unique urban landscaping."
+            "en": "Unwind in this expansive central green space surrounded by striking contemporary architecture, laying out a small picnic blanket to truly soak in the unique urban landscaping.",
+            "fr": "Détendez-vous dans ce vaste espace vert central entouré d'une architecture contemporaine saisissante ; étendez une petite couverture de pique-nique pour profiter pleinement de l'aménagement paysager urbain unique."
           }
         },
         {
@@ -772,7 +850,8 @@
             "de": "Cergy City Hall",
             "hu": "Cergy City Hall",
             "ro": "Cergy City Hall",
-            "en": "Cergy City Hall"
+            "en": "Cergy City Hall",
+            "fr": "Hôtel de Ville de Cergy"
           },
           "coords": [
             2.06208,
@@ -787,7 +866,8 @@
             "de": "Beobachten Sie das bürgerliche Zentrum von Cergy in diesem modernen Gebäude, das den Charakter der Stadt widerspiegelt, und achten Sie auf die geometrischen Fassaden vom Platz aus.",
             "hu": "Figyelje meg Cergy polgári központját ezen a modern épületen, amely a város tervezett jellegét tükrözi, és vegye szemügyre az egyedi geometriai homlokzatokat a szomszédos térről.",
             "ro": "Observați inima civică a orașului Cergy la această clădire modernă, care reflectă natura planificată a urbei, remarcând fațadele geometrice unice din piațeta alăturată clădirii.",
-            "en": "Observe the civic heart of Cergy at this distinctive modern building that reflects the city's planned nature, taking note of the unique geometric facades from the adjacent plaza."
+            "en": "Observe the civic heart of Cergy at this distinctive modern building that reflects the city's planned nature, taking note of the unique geometric facades from the adjacent plaza.",
+            "fr": "Observez le cœur civique de Cergy dans ce bâtiment moderne distinctif qui reflète le caractère planifié de la ville, en notant les façades géométriques uniques depuis la place adjacente."
           }
         },
         {
@@ -795,7 +875,8 @@
             "de": "Port Cergy",
             "hu": "Port Cergy",
             "ro": "Port Cergy",
-            "en": "Port Cergy"
+            "en": "Port Cergy",
+            "fr": "Port de Cergy"
           },
           "coords": [
             2.06025,
@@ -810,7 +891,8 @@
             "de": "Schlendern Sie durch diesen modernen Yachthafen mit seinen Booten und lebhaften Restaurants am Wasser und reservieren Sie im Voraus, wenn Sie hier bei Sonnenuntergang speisen möchten.",
             "hu": "Sétáljon egyet ebben a hangulatos modern jachtkikötőben, amely tele van ringatózó hajókkal, és feltétlenül foglaljon asztalt előre, ha egy festői naplementés vacsorára vágyik.",
             "ro": "Plimbați-vă prin acest port modern plin de bărci și restaurante vibrante pe malul apei, făcând o rezervare din timp dacă doriți să savurați o cină scenică la apusul soarelui.",
-            "en": "Wander around this charming modern marina filled with bobbing boats and vibrant waterfront dining, making a reservation in advance if you wish to enjoy a scenic sunset dinner."
+            "en": "Wander around this charming modern marina filled with bobbing boats and vibrant waterfront dining, making a reservation in advance if you wish to enjoy a scenic sunset dinner.",
+            "fr": "Flânez dans cette charmante marina moderne remplie de bateaux qui tanguent et de restaurants animés en bord de quai ; réservez à l'avance si vous souhaitez profiter d'un dîner au coucher du soleil."
           }
         },
         {
@@ -818,7 +900,8 @@
             "de": "Cergy-Pontoise Leisure Island",
             "hu": "Cergy-Pontoise Leisure Island",
             "ro": "Cergy-Pontoise Leisure Island",
-            "en": "Cergy-Pontoise Leisure Island"
+            "en": "Cergy-Pontoise Leisure Island",
+            "fr": "Île de Loisirs de Cergy-Pontoise"
           },
           "coords": [
             2.0486,
@@ -833,7 +916,8 @@
             "de": "Entspannen Sie in dieser weitläufigen Freizeitanlage, die Wassersport und Sandstrände direkt in der Stadt bietet, und bringen Sie Handtücher mit, um den Strandbereich zu genießen.",
             "hu": "Pihenjen ebben a hatalmas szabadtéri paradicsomban, amely vízi sportokat és homokos partokat kínál, és hozzon magával törölközőt, ha szeretné élvezni a napos strandolást.",
             "ro": "Relaxați-vă în acest refugiu în aer liber care oferă sporturi nautice și țărmuri nisipoase chiar în oraș, aducându-vă prosoape și loțiune de soare dacă plănuiți să faceți plajă.",
-            "en": "Relax at this vast outdoor haven offering water sports and sandy shores right in the city, bringing your own towels and sunscreen if you plan to enjoy the sunny beach area."
+            "en": "Relax at this vast outdoor haven offering water sports and sandy shores right in the city, bringing your own towels and sunscreen if you plan to enjoy the sunny beach area.",
+            "fr": "Détendez-vous dans ce vaste havre de plein air offrant des sports nautiques et des plages de sable en ville ; apportez vos propres serviettes et crème solaire si vous comptez profiter de la zone de plage ensoleillée."
           }
         },
         {
@@ -841,7 +925,8 @@
             "de": "The Twelve Columns",
             "hu": "The Twelve Columns",
             "ro": "The Twelve Columns",
-            "en": "The Twelve Columns"
+            "en": "The Twelve Columns",
+            "fr": "Les Douze Colonnes"
           },
           "coords": [
             2.03783,
@@ -856,7 +941,8 @@
             "de": "Stehen Sie unter diesen weißen Säulen, die an klaren Tagen die Pariser Skyline umrahmen, und kommen Sie zur goldenen Stunde, wenn sich die Schatten dramatisch verlängern.",
             "hu": "Álljon be ezek alá a tornyosuló fehér oszlopok alá, amelyek tiszta időben a párizsi sziluettet keretezik, és próbáljon meg az aranyórában érkezni a drámai árnyékokért.",
             "ro": "Stați sub acești stâlpi albi impunători care încadrează orizontul parizian în zilele senine și vizitați în timpul orei de aur pentru a admira umbrele spectaculoase și prelungite.",
-            "en": "Stand beneath these towering white pillars that gracefully frame the Parisian skyline on clear days, and visit during golden hour when the shadows stretch dramatically."
+            "en": "Stand beneath these towering white pillars that gracefully frame the Parisian skyline on clear days, and visit during golden hour when the shadows stretch dramatically.",
+            "fr": "Tenez-vous sous ces hauts piliers blancs qui encadrent gracieusement la ligne d'horizon parisienne par temps clair ; visitez pendant l'heure dorée quand les ombres s'allongent de manière spectaculaire."
           }
         },
         {
@@ -864,7 +950,8 @@
             "de": "Axe Majeur",
             "hu": "Axe Majeur",
             "ro": "Axe Majeur",
-            "en": "Axe Majeur"
+            "en": "Axe Majeur",
+            "fr": "Axe Majeur"
           },
           "coords": [
             2.035766,
@@ -879,7 +966,8 @@
             "de": "Schlendern Sie entlang dieser monumentalen roten Achse von Dani Karavan, die urbanes Design perfekt mit der Natur verbindet, und nehmen Sie ein Weitwinkelobjektiv für Fotos mit.",
             "hu": "Sétáljon végig Dani Karavan monumentális piros tengelyén, amely tökéletesen ötvözi a modern dizájnt a természettel, és mindenképpen hozzon magával széles látószögű objektívet.",
             "ro": "Plimbați-vă pe această axă monumentală a lui Dani Karavan, care îmbină perfect designul urban cu natura, și luați un obiectiv superangular pentru a surprinde cele mai bune cadre.",
-            "en": "Stroll along this monumental red paved axis by Dani Karavan, which perfectly aligns modern urban design with nature, taking a wide-angle lens for the best perspectives."
+            "en": "Stroll along this monumental red paved axis by Dani Karavan, which perfectly aligns modern urban design with nature, taking a wide-angle lens for the best perspectives.",
+            "fr": "Promenez-vous le long de cet axe monumental pavé de rouge par Dani Karavan, qui aligne parfaitement design urbain moderne et nature ; prenez un objectif grand-angle pour les meilleures perspectives."
           }
         }
       ],
@@ -915,7 +1003,8 @@
             "de": "Morgens beobachten wir den Regen im Park der Präfektur gemütlich vom Fahrersitz aus. Mittags fahren wir zum Rathaus und zum Hafen, wobei wir die Heizung genießen. Nachmittags besuchen wir die Freizeitinsel, bevor wir zu den zwölf Säulen weiterfahren. Den Abend verbringen wir am Axe Majeur, wo die Stadtlichter auf dem nassen Asphalt glitzern, während wir im trockenen Auto sitzen.",
             "hu": "Reggel a parkolóból indulva a park zöldjét az ablakon túlról figyeljük a szakadó esőben. Délben a városháza és a kikötő között autózunk, élvezve a fűtött utasteret a viharos szélben. Délután a szabadidő-szigeten teszünk egy kört, mielőtt a tizenkét oszlophoz hajtanánk. Este az Axe Majeur kivilágított vonala mellett parkolunk le, megcsodálva a város fényeit a párás szélvédőn át.",
             "ro": "Dimineața, plecând din parcare, observăm verdeața parcului de la fereastră în ploaia torențială. La prânz conducem între primărie și port, bucurându-ne de interiorul încălzit. După-amiaza facem o tură pe insula de agrement înainte de a merge la cele douăsprezece coloane. Seara parcăm lângă Axe Majeur iluminat, admirând luminile orașului prin parbrizul aburit.",
-            "en": "In the morning, starting from the parking lot, we watch the park's greenery from the window in the pouring rain. At noon, we drive between the city hall and the port, enjoying the heated interior in the stormy wind. In the afternoon, we take a tour of the leisure island before heading to the twelve columns. In the evening, we park by the illuminated Axe Majeur, admiring the city lights."
+            "en": "In the morning, starting from the parking lot, we watch the park's greenery from the window in the pouring rain. At noon, we drive between the city hall and the port, enjoying the heated interior in the stormy wind. In the afternoon, we take a tour of the leisure island before heading to the twelve columns. In the evening, we park by the illuminated Axe Majeur, admiring the city lights.",
+            "fr": "Le matin, depuis le parking, nous regardons la verdure du parc depuis la vitre sous une pluie battante. À midi, nous roulons entre l'hôtel de ville et le port, profitant de l'habitacle chauffé contre le vent de la tempête. L'après-midi, nous faisons le tour de l'île de loisirs avant de nous diriger vers les douze colonnes. Le soir, nous nous garons près de l'Axe Majeur illuminé, admirant les lumières de la ville."
           },
           "stops": [
             {
@@ -923,13 +1012,15 @@
                 "de": "Parc de la Préfecture",
                 "hu": "Parc de la Préfecture",
                 "ro": "Parc de la Préfecture",
-                "en": "Parc de la Préfecture"
+                "en": "Parc de la Préfecture",
+                "fr": "Parc de la Préfecture"
               },
               "tip_5lang": {
                 "de": "Parken Sie in der Nähe des Eingangs; so können Sie die Natur genießen und bei einem plötzlichen Wolkenbruch schnell wieder ins Trockene gelangen.",
                 "hu": "Parkoljon a bejárat közelében; így élvezheti a természetet, és hirtelen felhőszakadás esetén gyorsan visszatérhet a száraz utastérbe.",
                 "ro": "Parcați lângă intrare; astfel vă puteți bucura de natură și, în caz de aversă bruscă, vă puteți întoarce rapid în interiorul uscat.",
-                "en": "Park near the entrance; this way you can enjoy nature and quickly return to the dry interior in case of a sudden downpour."
+                "en": "Park near the entrance; this way you can enjoy nature and quickly return to the dry interior in case of a sudden downpour.",
+                "fr": "Garez-vous près de l'entrée ; ainsi vous pouvez profiter de la nature et revenir rapidement à l'intérieur au sec en cas d'averse soudaine."
               }
             },
             {
@@ -937,13 +1028,15 @@
                 "de": "Cergy City Hall",
                 "hu": "Cergy City Hall",
                 "ro": "Cergy City Hall",
-                "en": "Cergy City Hall"
+                "en": "Cergy City Hall",
+                "fr": "Hôtel de Ville de Cergy"
               },
               "tip_5lang": {
                 "de": "Nutzen Sie die Parkplätze direkt vor dem Gebäude für einen kurzen Fotostopp, ohne lange dem Regen ausgesetzt zu sein.",
                 "hu": "Használja a közvetlenül az épület előtti parkolóhelyeket egy gyors fotómegállóhoz, anélkül, hogy hosszú ideig ki lenne téve az esőnek.",
                 "ro": "Folosiți locurile de parcare direct din fața clădirii pentru o scurtă oprire foto, fără a fi expus mult timp la ploaie.",
-                "en": "Use the parking spaces directly in front of the building for a quick photo stop without being exposed to the rain for a long time."
+                "en": "Use the parking spaces directly in front of the building for a quick photo stop without being exposed to the rain for a long time.",
+                "fr": "Utilisez les places de parking directement devant le bâtiment pour un arrêt photo rapide sans être exposé longuement à la pluie."
               }
             },
             {
@@ -951,13 +1044,15 @@
                 "de": "Port Cergy",
                 "hu": "Port Cergy",
                 "ro": "Port Cergy",
-                "en": "Port Cergy"
+                "en": "Port Cergy",
+                "fr": "Port de Cergy"
               },
               "tip_5lang": {
                 "de": "Der Hafen bietet überdachte Passagen zwischen den Gebäuden, die ideal sind, um die maritime Atmosphäre trotz Regen zu erkunden.",
                 "hu": "A kikötő épületei közötti fedett átjárók ideálisak ahhoz, hogy az eső ellenére is felfedezze a vízparti hangulatot és a hajókat.",
                 "ro": "Pasajele acoperite dintre clădirile portului sunt ideale pentru a explora atmosfera de pe malul apei și navele, în ciuda ploii.",
-                "en": "The covered passages between the port buildings are ideal for exploring the waterfront atmosphere and ships despite the rain."
+                "en": "The covered passages between the port buildings are ideal for exploring the waterfront atmosphere and ships despite the rain.",
+                "fr": "Les passages couverts entre les bâtiments du port sont idéaux pour explorer l'ambiance du front de mer et les navires malgré la pluie."
               }
             },
             {
@@ -965,13 +1060,15 @@
                 "de": "Cergy-Pontoise Leisure Island",
                 "hu": "Cergy-Pontoise Leisure Island",
                 "ro": "Cergy-Pontoise Leisure Island",
-                "en": "Cergy-Pontoise Leisure Island"
+                "en": "Cergy-Pontoise Leisure Island",
+                "fr": "Île de Loisirs de Cergy-Pontoise"
               },
               "tip_5lang": {
                 "de": "Fahren Sie langsam auf dem Gelände, da sich bei starkem Regen Pfützen bilden können, die die Sicht auf die Fahrbahnmarkierungen einschränken.",
                 "hu": "Hajtson lassan a területen, mivel heves esőzéskor tócsák alakulhatnak ki, amelyek megnehezíthetik az útburkolati jelek láthatóságát.",
                 "ro": "Conduceți încet în zonă, deoarece în timpul ploilor abundente se pot forma bălți care îngreunează vizibilitatea marcajelor rutiere.",
-                "en": "Drive slowly in the area, as heavy rain can form puddles that might make road markings difficult to see during your tour."
+                "en": "Drive slowly in the area, as heavy rain can form puddles that might make road markings difficult to see during your tour.",
+                "fr": "Conduisez lentement dans le secteur, car les fortes pluies peuvent former des flaques qui rendent les marquages au sol difficiles à voir pendant votre parcours."
               }
             },
             {
@@ -979,13 +1076,15 @@
                 "de": "The Twelve Columns",
                 "hu": "The Twelve Columns",
                 "ro": "The Twelve Columns",
-                "en": "The Twelve Columns"
+                "en": "The Twelve Columns",
+                "fr": "Les Douze Colonnes"
               },
               "tip_5lang": {
                 "de": "Der Parkplatz bietet eine großartige Perspektive auf die Säulen; genießen Sie den monumentalen Anblick bequem bei laufendem Scheibenwischer.",
                 "hu": "A közeli parkolóból nagyszerű rálátás nyílik az oszlopokra; élvezze a monumentális látványt kényelmesen a működő ablaktörlők mögül.",
                 "ro": "Parcarea oferă o perspectivă excelentă asupra coloanelor; bucurați-vă de vederea monumentală confortabil din spatele ștergătoarelor pornite.",
-                "en": "The nearby parking area offers a great perspective of the columns; enjoy the monumental sight comfortably behind working windshield wipers."
+                "en": "The nearby parking area offers a great perspective of the columns; enjoy the monumental sight comfortably behind working windshield wipers.",
+                "fr": "L'aire de stationnement à proximité offre une excellente perspective sur les colonnes ; profitez du spectacle monumental confortablement derrière des essuie-glaces en état de marche."
               }
             },
             {
@@ -993,13 +1092,15 @@
                 "de": "Axe Majeur",
                 "hu": "Axe Majeur",
                 "ro": "Axe Majeur",
-                "en": "Axe Majeur"
+                "en": "Axe Majeur",
+                "fr": "Axe Majeur"
               },
               "tip_5lang": {
                 "de": "Stellen Sie sicher, dass Ihre Scheinwerfer sauber sind, um die architektonischen Highlights im Regen und bei Dämmerung besser erkennen zu können.",
                 "hu": "Győződjön meg róla, hogy a fényszórók tiszták, hogy az esőben és a szürkületben is jól láthassa az építészeti csúcspontokat.",
                 "ro": "Asigurați-vă că farurile sunt curate pentru a vedea mai bine punctele de atracție arhitecturale în ploaie și la amurg.",
-                "en": "Make sure your headlights are clean so you can clearly see the architectural highlights in the rain and during twilight hours."
+                "en": "Make sure your headlights are clean so you can clearly see the architectural highlights in the rain and during twilight hours.",
+                "fr": "Assurez-vous que vos phares sont propres afin de voir clairement les éléments architecturaux sous la pluie et au crépuscule."
               }
             }
           ]
@@ -1009,7 +1110,8 @@
             "de": "Der Wintermorgen beginnt mit frostigen Aussichten im Park. Mittags fahren wir gemütlich zum Rathaus und weiter zum Hafen, während draußen der eisige Wind weht. Nachmittags erreichen wir die Säulen pünktlich zum Sonnenuntergang um 17:00 Uhr. Den Abend lassen wir am beleuchteten Axe Majeur ausklingen, wobei wir die wohlige Wärme des Autos genießen, während die Nacht hereinbricht.",
             "hu": "A téli reggel fagyos kilátással indul a parkban. Délben kényelmesen autózunk a városházához és a kikötőhöz, miközben odakint jeges szél fúj. Délután az oszlopokhoz érünk, éppen a 17:00-kor kezdődő naplementére. Az estét a kivilágított Axe Majeur mellett zárjuk, élvezve az autó melegét, miközben a téli éjszaka sötétje leszáll a városra.",
             "ro": "Dimineața de iarnă începe cu vederi geroase în parc. La prânz conducem confortabil spre primărie și port, în timp ce afară suflă vântul înghețat. După-amiaza ajungem la coloane exact pentru apusul de la ora 17:00. Încheiem seara lângă Axe Majeur iluminat, bucurându-ne de căldura mașinii în timp ce se lasă noaptea.",
-            "en": "The winter morning starts with frosty views in the park. At noon, we drive comfortably to the city hall and the port while the icy wind blows outside. In the afternoon, we reach the columns just in time for the 17:00 sunset. We end the evening by the illuminated Axe Majeur, enjoying the car's warmth as the winter night falls."
+            "en": "The winter morning starts with frosty views in the park. At noon, we drive comfortably to the city hall and the port while the icy wind blows outside. In the afternoon, we reach the columns just in time for the 17:00 sunset. We end the evening by the illuminated Axe Majeur, enjoying the car's warmth as the winter night falls.",
+            "fr": "Le matin d'hiver commence avec des vues givrées dans le parc. À midi, nous roulons confortablement vers l'hôtel de ville et le port tandis que le vent glacial souffle dehors. L'après-midi, nous atteignons les colonnes juste à temps pour le coucher du soleil à 17:00. Nous finissons la soirée près de l'Axe Majeur illuminé, profitant de la chaleur de la voiture alors que la nuit d'hiver tombe."
           },
           "stops": [
             {
@@ -1017,13 +1119,15 @@
                 "de": "Parc de la Préfecture",
                 "hu": "Parc de la Préfecture",
                 "ro": "Parc de la Préfecture",
-                "en": "Parc de la Préfecture"
+                "en": "Parc de la Préfecture",
+                "fr": "Parc de la Préfecture"
               },
               "tip_5lang": {
                 "de": "Lassen Sie die Standheizung laufen, wenn Sie für ein kurzes Foto aussteigen; der Park ist im Winter sehr offen und windanfällig.",
                 "hu": "Hagyja járni a fűtést, ha kiszáll egy rövid fotóra; a park télen nagyon nyitott és kitett a metsző szélnek, ami hamar lehűtheti az utasteret.",
                 "ro": "Lăsați căldura pornită dacă coborâți pentru o fotografie scurtă; parcul este foarte deschis iarna și expus vântului tăios.",
-                "en": "Keep the heater running if you step out for a quick photo; the park is very open in winter and exposed to the biting wind."
+                "en": "Keep the heater running if you step out for a quick photo; the park is very open in winter and exposed to the biting wind.",
+                "fr": "Laissez le chauffage allumé si vous sortez pour une photo rapide ; le parc est très ouvert en hiver et exposé au vent mordant."
               }
             },
             {
@@ -1031,13 +1135,15 @@
                 "de": "Cergy City Hall",
                 "hu": "Cergy City Hall",
                 "ro": "Cergy City Hall",
-                "en": "Cergy City Hall"
+                "en": "Cergy City Hall",
+                "fr": "Hôtel de Ville de Cergy"
               },
               "tip_5lang": {
                 "de": "Achten Sie auf Glatteis auf dem Parkplatz; bei Temperaturen um den Gefrierpunkt können die befestigten Flächen tückisch glatt sein.",
                 "hu": "Ügyeljen a jegesedésre a parkolóban; fagypont körüli hőmérsékletnél a burkolt felületek váratlanul és csalókán csúszósak lehetnek.",
                 "ro": "Fiți atenți la polei în parcare; la temperaturi în jurul punctului de îngheț, suprafețele pavate pot fi înșelător de alunecoase.",
-                "en": "Watch out for black ice in the parking lot; at temperatures around freezing, paved surfaces can be treacherously slippery."
+                "en": "Watch out for black ice in the parking lot; at temperatures around freezing, paved surfaces can be treacherously slippery.",
+                "fr": "Faites attention au verglas noir dans le parking ; à des températures proches de zéro, les surfaces goudronnées peuvent être dangereusement glissantes."
               }
             },
             {
@@ -1045,13 +1151,15 @@
                 "de": "Port Cergy",
                 "hu": "Port Cergy",
                 "ro": "Port Cergy",
-                "en": "Port Cergy"
+                "en": "Port Cergy",
+                "fr": "Port de Cergy"
               },
               "tip_5lang": {
                 "de": "Genießen Sie den Blick auf die eventuell leicht gefrorene Oise; der Hafen wirkt im Winterlicht besonders ruhig und friedlich.",
                 "hu": "Élvezze a kilátást az esetleg enyhén befagyott Oise folyóra; a kikötő a téli fényben különösen csendesnek és békésnek tűnik az autóból.",
                 "ro": "Bucurați-vă de vederea spre râul Oise eventual ușor înghețat; portul pare deosebit de liniștit și pașnic în lumina iernii.",
-                "en": "Enjoy the view of the potentially lightly frozen Oise river; the port looks particularly quiet and peaceful in the winter light from your car."
+                "en": "Enjoy the view of the potentially lightly frozen Oise river; the port looks particularly quiet and peaceful in the winter light from your car.",
+                "fr": "Appréciez la vue de l'Oise éventuellement légèrement gelée ; le port paraît particulièrement calme et paisible dans la lumière hivernale depuis votre voiture."
               }
             },
             {
@@ -1059,13 +1167,15 @@
                 "de": "Cergy-Pontoise Leisure Island",
                 "hu": "Cergy-Pontoise Leisure Island",
                 "ro": "Cergy-Pontoise Leisure Island",
-                "en": "Cergy-Pontoise Leisure Island"
+                "en": "Cergy-Pontoise Leisure Island",
+                "fr": "Île de Loisirs de Cergy-Pontoise"
               },
               "tip_5lang": {
                 "de": "Nutzen Sie die Zufahrtsstraßen für eine Panoramafahrt um den See; so sehen Sie die winterliche Landschaft ohne die Kälte draußen.",
                 "hu": "Használja a belső utakat egy panorámaautózáshoz a tó körül; így a kinti hideg nélkül láthatja a téli tájat és a befagyott vízpartot.",
                 "ro": "Folosiți drumurile interioare pentru o plimbare panoramică în jurul lacului; astfel puteți vedea peisajul de iarnă fără frigul de afară.",
-                "en": "Use the internal roads for a scenic drive around the lake; this way you can see the winter landscape without the freezing cold outside."
+                "en": "Use the internal roads for a scenic drive around the lake; this way you can see the winter landscape without the freezing cold outside.",
+                "fr": "Utilisez les routes internes pour une promenade panoramique autour du lac ; ainsi vous pouvez voir le paysage hivernal sans affronter le froid glacial extérieur."
               }
             },
             {
@@ -1073,13 +1183,15 @@
                 "de": "The Twelve Columns",
                 "hu": "The Twelve Columns",
                 "ro": "The Twelve Columns",
-                "en": "The Twelve Columns"
+                "en": "The Twelve Columns",
+                "fr": "Les Douze Colonnes"
               },
               "tip_5lang": {
                 "de": "Das warme Licht der tiefstehenden Wintersonne setzt die Säulen perfekt in Szene; bleiben Sie für den Farbwechsel während der blauen Stunde.",
                 "hu": "Az alacsonyan járó téli nap meleg fénye tökéletesen megvilágítja az oszlopokat; maradjon itt a kék óra alatti színváltás idejére is.",
                 "ro": "Lumina caldă a soarelui jos de iarnă pune coloanele într-o lumină perfectă; rămâneți aici pentru schimbarea culorilor din ora albastră.",
-                "en": "The warm light of the low winter sun perfectly highlights the columns; stay here for the color change during the blue hour at dusk."
+                "en": "The warm light of the low winter sun perfectly highlights the columns; stay here for the color change during the blue hour at dusk.",
+                "fr": "La lumière chaude du soleil bas d'hiver met parfaitement en valeur les colonnes ; restez ici pour le changement de couleur pendant l'heure bleue au crépuscule."
               }
             },
             {
@@ -1087,13 +1199,15 @@
                 "de": "Axe Majeur",
                 "hu": "Axe Majeur",
                 "ro": "Axe Majeur",
-                "en": "Axe Majeur"
+                "en": "Axe Majeur",
+                "fr": "Axe Majeur"
               },
               "tip_5lang": {
                 "de": "Die Beleuchtung der Achse ist im Winter besonders eindrucksvoll; nutzen Sie die beheizten Sitze, während Sie das Lichtspiel beobachten.",
                 "hu": "A tengely kivilágítása télen különösen hatásos; élvezze a fűtött üléseket az autóban, miközben a sötétben a fényeket és a geometriát figyeli.",
                 "ro": "Iluminarea axei este deosebit de impresionantă iarna; bucurați-vă de scaunele încălzite în timp ce observați luminile și geometria.",
-                "en": "The lighting of the axis is particularly impressive in winter; enjoy the heated seats in the car while observing the lights and geometry."
+                "en": "The lighting of the axis is particularly impressive in winter; enjoy the heated seats in the car while observing the lights and geometry.",
+                "fr": "L'éclairage de l'axe est particulièrement impressionnant en hiver ; profitez des sièges chauffants dans la voiture tout en observant les jeux de lumière et la géométrie."
               }
             }
           ]

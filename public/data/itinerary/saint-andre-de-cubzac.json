@@ -21,7 +21,8 @@
             "de": "Salle du Champ de Foire",
             "hu": "Salle du Champ de Foire",
             "ro": "Salle du Champ de Foire",
-            "en": "Salle du Champ de Foire"
+            "en": "Salle du Champ de Foire",
+            "fr": "Salle du Champ de Foire"
           },
           "coords": [
             -0.444419,
@@ -36,7 +37,8 @@
             "de": "Entdecken Sie dieses zentrale kulturelle Zentrum für lokale Veranstaltungen und prüfen Sie das schwarze Brett auf kostenlose Abendvorstellungen, bevor Sie einen Kaffee trinken.",
             "hu": "Fedezze fel ezt a helyi rendezvényeknek otthont adó központi kulturális teret, és nézze meg a hirdetőtáblát az ingyenes esti előadásokért, mielőtt meginna egy kávét a közelben.",
             "ro": "Descoperiți acest centru cultural central ce găzduiește evenimente locale și verificați avizierul pentru spectacole gratuite seara, înainte de a savura o cafea în apropiere.",
-            "en": "Discover this central cultural hub that hosts local events, and check the bulletin board outside for free evening performances before grabbing a coffee nearby."
+            "en": "Discover this central cultural hub that hosts local events, and check the bulletin board outside for free evening performances before grabbing a coffee nearby.",
+            "fr": "Découvrez ce pôle culturel central qui accueille des événements locaux, et vérifiez le panneau d'affichage extérieur pour des spectacles gratuits en soirée avant de prendre un café à proximité."
           }
         },
         {
@@ -44,7 +46,8 @@
             "de": "Saint-André Church",
             "hu": "Saint-André Church",
             "ro": "Saint-André Church",
-            "en": "Saint-André Church"
+            "en": "Saint-André Church",
+            "fr": "Saint-André Church"
           },
           "coords": [
             -0.448188,
@@ -59,7 +62,8 @@
             "de": "Bewundern Sie die wunderschöne romanische Architektur dieser historischen Kirche und betrachten Sie das aufwendig geschnitzte Portal, bevor Sie das kühle Kirchenschiff betreten.",
             "hu": "Csodálja meg a történelmi templom gyönyörű román stílusú építészetét, és figyelje meg a faragott portált, mielőtt belépne a hűvös és csendes főhajóba egy kis megnyugvásra.",
             "ro": "Admirați superba arhitectură romanică a acestei biserici istorice și observați portalul sculptat cu detalii fine, înainte de a păși în naosul răcoros pentru o clipă de liniște.",
-            "en": "Admire the beautiful Romanesque architecture of this historic church, taking a moment to appreciate the intricately carved portal before stepping inside to enjoy the cool nave."
+            "en": "Admire the beautiful Romanesque architecture of this historic church, taking a moment to appreciate the intricately carved portal before stepping inside to enjoy the cool nave.",
+            "fr": "Admirez la belle architecture romane de cette église historique, en prenant un moment pour apprécier le portail finement sculpté avant d'entrer pour profiter de la fraîcheur de la nef."
           }
         },
         {
@@ -67,7 +71,8 @@
             "de": "Château Robillard",
             "hu": "Château Robillard",
             "ro": "Château Robillard",
-            "en": "Château Robillard"
+            "en": "Château Robillard",
+            "fr": "Château Robillard"
           },
           "coords": [
             -0.449818,
@@ -82,7 +87,8 @@
             "de": "Erkunden Sie die malerischen Ruinen dieser mittelalterlichen Burg in einem üppigen Park, wo Sie leicht eine schattige Bank für ein kurzes Picknick finden.",
             "hu": "Fedezze fel a buja parkban található középkori vár festői romjait, ahol könnyedén talál egy árnyékos padot egy rövid piknikhez, amelyet a helyi piacon vásárolt finomságokból rögtönözhet.",
             "ro": "Explorați ruinele pitorești ale acestui castel medieval situat într-un parc luxuriant, unde veți găsi cu ușurință o bancă umbrită, perfectă pentru un scurt picnic.",
-            "en": "Explore the picturesque ruins of this medieval castle set within a lush park, where you can easily find a shaded bench perfect for a short picnic with fresh local market finds."
+            "en": "Explore the picturesque ruins of this medieval castle set within a lush park, where you can easily find a shaded bench perfect for a short picnic with fresh local market finds.",
+            "fr": "Explorez les ruines pittoresques de ce château médiéval situé dans un parc luxuriant, où vous trouverez facilement un banc ombragé parfait pour un court pique‑nique avec des produits frais du marché local."
           }
         },
         {
@@ -90,7 +96,8 @@
             "de": "Moulin panoramique de Montalon",
             "hu": "Moulin panoramique de Montalon",
             "ro": "Moulin panoramique de Montalon",
-            "en": "Moulin panoramique de Montalon"
+            "en": "Moulin panoramique de Montalon",
+            "fr": "Moulin panoramique de Montalon"
           },
           "coords": [
             -0.453288,
@@ -105,7 +112,8 @@
             "de": "Erklimmen Sie den sanften Hügel zu dieser historischen Windmühle mit Panoramablick über die Weinberge und kommen Sie an einem klaren Tag für die besten Fotos.",
             "hu": "Sétáljon fel a dombra ehhez a történelmi szélmalomhoz, amely lenyűgöző panorámát nyújt a szőlőkre, és a legjobb fotók érdekében próbáljon derült időben érkezni.",
             "ro": "Urcați colina ușoară spre această moară de vânt istorică ce oferă o panoramă vastă asupra podgoriilor și încercați să o vizitați într-o zi senină pentru a prinde cea mai bună lumină.",
-            "en": "Climb the gentle hill to reach this historic windmill offering sweeping panoramic views over the surrounding vineyards, and try to visit on a clear day for the best photography lighting."
+            "en": "Climb the gentle hill to reach this historic windmill offering sweeping panoramic views over the surrounding vineyards, and try to visit on a clear day for the best photography lighting.",
+            "fr": "Montez la pente douce pour atteindre ce moulin à vent historique offrant des vues panoramiques sur les vignobles environnants, et essayez de visiter par une journée claire pour la meilleure lumière photographique."
           }
         },
         {
@@ -113,7 +121,8 @@
             "de": "Zoulou",
             "hu": "Zoulou",
             "ro": "Zoulou",
-            "en": "Zoulou"
+            "en": "Zoulou",
+            "fr": "Zoulou"
           },
           "coords": [
             -0.438285,
@@ -128,7 +137,8 @@
             "de": "Bringen Sie die Familie in dieses abwechslungsreiche Outdoor-Aktivitätszentrum und tragen Sie feste, geschlossene Schuhe, um die Hindernisse sicher überwinden zu können.",
             "hu": "Látogasson el a családdal ebbe a szórakoztató kalandparkba, és mindenképpen kényelmes, zárt cipőt viseljen a mászófalak és akadályok biztonságos leküzdése érdekében.",
             "ro": "Aduceți familia în acest centru de activități în aer liber plin de trasee distractive, asigurându-vă că purtați încălțăminte confortabilă, cu vârful închis, pentru o experiență sigură.",
-            "en": "Bring the family to this engaging outdoor activity center filled with fun obstacle courses, ensuring you wear comfortable closed-toe shoes to safely navigate the structures."
+            "en": "Bring the family to this engaging outdoor activity center filled with fun obstacle courses, ensuring you wear comfortable closed-toe shoes to safely navigate the structures.",
+            "fr": "Amenez la famille dans ce centre d'activités en plein air rempli de parcours d'obstacles ludiques, en veillant à porter des chaussures fermées et confortables pour circuler en toute sécurité sur les structures."
           }
         }
       ],
@@ -136,7 +146,8 @@
         "de": "Beginnen Sie Ihren Spaziergang im belebten kulturellen Herzen an der Salle du Champ de Foire. Tauchen Sie anschließend bei der nahegelegenen Saint-André Kirche in die lokale Geschichte ein. Erkunden Sie die Ruinen von Château Robillard für einen Hauch von mittelalterlicher Romantik. Genießen Sie nachmittags den herrlichen Weitblick von der Moulin de Montalon und beenden Sie den Tag bei Zoulou.",
         "hu": "Kezdje gyalogos sétáját a nyüzsgő kulturális központban, a Salle du Champ de Foire-nál. Ezután merüljön el a helyi történelemben a közeli Saint-André templomnál. Fedezze fel a Château Robillard romjait egy kis középkori romantikáért. Délután élvezze a csodálatos kilátást a Moulin de Montalon malomtól, és zárja a napot egy vidám kikapcsolódással a Zoulou központban.",
         "ro": "Începeți plimbarea în inima culturală animată, la Salle du Champ de Foire. Aprofundați istoria locală la biserica Saint-André aflată în apropiere. Explorați ruinele Château Robillard pentru o notă de romantism medieval. După-amiaza, bucurați-vă de priveliștile ample de la Moulin de Montalon și încheiați ziua relaxându-vă cu familia la centrul de activități Zoulou.",
-        "en": "Begin your walk at the bustling cultural heart of the Salle du Champ de Foire. Delve into local history at the nearby Saint-André Church shortly after. Explore the picturesque ruins of Château Robillard for a touch of medieval romance. In the afternoon, enjoy the sweeping panoramic vistas from the Moulin de Montalon before concluding your day with a fun break at Zoulou."
+        "en": "Begin your walk at the bustling cultural heart of the Salle du Champ de Foire. Delve into local history at the nearby Saint-André Church shortly after. Explore the picturesque ruins of Château Robillard for a touch of medieval romance. In the afternoon, enjoy the sweeping panoramic vistas from the Moulin de Montalon before concluding your day with a fun break at Zoulou.",
+        "fr": "Commencez votre promenade au cœur culturel animé de la Salle du Champ de Foire. Plongez dans l'histoire locale à la proche église Saint‑André peu après. Explorez les ruines pittoresques du Château Robillard pour une touche de romance médiévale. L'après‑midi, profitez des vastes panoramas depuis le Moulin de Montalon avant de conclure votre journée par une pause ludique à Zoulou."
       },
       "variants": {
         "rainy": {
@@ -144,7 +155,8 @@
             "de": "Beginnen Sie den Morgen im trockenen Kulturzentrum. Vormittags bietet die historische Kirche Schutz vor Schauern. Erkunden Sie nachmittags das Schloss und die Mühlen mit einem Regenschirm im Gepäck. Beenden Sie den Tag im überdachten Familienzentrum fernab vom Regen.",
             "hu": "Kezdje a reggelt a fedett kulturális teremben. Délelőtt a történelmi templom nyújt menedéket a záporok elől. Délután esernyővel a kézben fedezze fel a kastélyt és a panorámás malmot. Az estét a vízálló, beltéri családi központban zárhatja kényelmesen.",
             "ro": "Începeți dimineața în sala culturală acoperită. Spre prânz, biserica istorică oferă un refugiu uscat. După-amiaza, cu o umbrelă la îndemână, explorați castelul și morile panoramice. Terminați ziua în centrul familial de interior pentru a scăpa de ploaie.",
-            "en": "Start with an indoor visit at the cultural hall. Late morning brings you to the sheltered historic church. In the afternoon, brave the drizzle for the castle and the panoramic windmill, keeping an umbrella handy. Finish at the indoor family center to escape the evening rain."
+            "en": "Start with an indoor visit at the cultural hall. Late morning brings you to the sheltered historic church. In the afternoon, brave the drizzle for the castle and the panoramic windmill, keeping an umbrella handy. Finish at the indoor family center to escape the evening rain.",
+            "fr": "Commencez par une visite intérieure à la salle culturelle. En fin de matinée, rendez‑vous à l'église historique abritée. L'après‑midi, bravez la bruine pour le château et le moulin panoramique, en gardant un parapluie à portée de main. Terminez au centre familial intérieur pour échapper à la pluie du soir."
           },
           "stops": [
             {
@@ -152,13 +164,15 @@
                 "de": "Salle du Champ de Foire",
                 "hu": "Salle du Champ de Foire",
                 "ro": "Salle du Champ de Foire",
-                "en": "Salle du Champ de Foire"
+                "en": "Salle du Champ de Foire",
+                "fr": "Salle du Champ de Foire"
               },
               "tip_5lang": {
                 "de": "Genießen Sie die überdachten Ausstellungen, wo Sie im Trockenen mehr über die lokale Kultur erfahren.",
                 "hu": "Élvezze a fedett kulturális kiállításokat, ahol teljesen szárazon ismerheti meg a helyi történelmet.",
                 "ro": "Bucurați-vă de expozițiile culturale de interior unde veți rămâne uscat explorând istoria locală.",
-                "en": "Enjoy the indoor cultural exhibits where you can stay completely dry while learning local history."
+                "en": "Enjoy the indoor cultural exhibits where you can stay completely dry while learning local history.",
+                "fr": "Profitez des expositions culturelles intérieures où vous pouvez rester complètement au sec tout en découvrant l'histoire locale."
               }
             },
             {
@@ -166,13 +180,15 @@
                 "de": "Saint-André Church",
                 "hu": "Saint-André Church",
                 "ro": "Saint-André Church",
-                "en": "Saint-André Church"
+                "en": "Saint-André Church",
+                "fr": "Saint-André Church"
               },
               "tip_5lang": {
                 "de": "Bewundern Sie die Architektur im Inneren, die einen perfekten Unterschlupf vor plötzlichen Regenschauern bietet.",
                 "hu": "Csodálja meg a lenyűgöző ólomüvegeket bent, amely tökéletes menedéket nyújt a hirtelen jött eső elől.",
                 "ro": "Admirați vitraliile uimitoare din interior, care oferă un adăpost perfect împotriva averselor de ploaie.",
-                "en": "Admire the stunning stained glass and architecture inside, offering a perfect shelter from sudden rain showers."
+                "en": "Admire the stunning stained glass and architecture inside, offering a perfect shelter from sudden rain showers.",
+                "fr": "Admirez les superbes vitraux et l'architecture intérieure, offrant un abri parfait contre les averses soudaines."
               }
             },
             {
@@ -180,13 +196,15 @@
                 "de": "Château Robillard",
                 "hu": "Château Robillard",
                 "ro": "Château Robillard",
-                "en": "Château Robillard"
+                "en": "Château Robillard",
+                "fr": "Château Robillard"
               },
               "tip_5lang": {
                 "de": "Gehen Sie vorsichtig auf dem schönen, aber rutschigen Burggelände und tragen Sie unbedingt wasserfeste Schuhe.",
                 "hu": "Óvatosan sétáljon a gyönyörű, de csúszós kastélykertben, és viseljen jó vízálló cipőt a saras részeken.",
                 "ro": "Pășiți cu grijă pe terenul frumos, dar alunecos al castelului, având încălțăminte impermeabilă bună.",
-                "en": "Walk cautiously around the beautiful but slippery castle grounds, bringing good waterproof shoes for muddy sections."
+                "en": "Walk cautiously around the beautiful but slippery castle grounds, bringing good waterproof shoes for muddy sections.",
+                "fr": "Marchez avec prudence autour des magnifiques mais glissants terrains du château, en apportant de bonnes chaussures imperméables pour les sections boueuses."
               }
             },
             {
@@ -194,13 +212,15 @@
                 "de": "Moulin panoramique de Montalon",
                 "hu": "Moulin panoramique de Montalon",
                 "ro": "Moulin panoramique de Montalon",
-                "en": "Moulin panoramique de Montalon"
+                "en": "Moulin panoramique de Montalon",
+                "fr": "Moulin panoramique de Montalon"
               },
               "tip_5lang": {
                 "de": "Der Weg zur Mühle kann windig und nass sein, tragen Sie einen stabilen Regenmantel für die neblige Landschaft.",
                 "hu": "A malomhoz vezető út szeles és nedves lehet, így erős esőkabátban élvezheti a ködös táj szépségét.",
                 "ro": "Cărarea spre moară poate fi vântoasă și umedă, purtați o pelerină de ploaie pentru a admira peisajul dramatic.",
-                "en": "The hilltop path to the windmill can be windy and wet, so wear a sturdy raincoat to enjoy the moody landscape."
+                "en": "The hilltop path to the windmill can be windy and wet, so wear a sturdy raincoat to enjoy the moody landscape.",
+                "fr": "Le chemin côtier vers le moulin peut être venteux et humide, donc portez un imperméable solide pour profiter du paysage d'humeur changeante."
               }
             },
             {
@@ -208,13 +228,15 @@
                 "de": "Zoulou",
                 "hu": "Zoulou",
                 "ro": "Zoulou",
-                "en": "Zoulou"
+                "en": "Zoulou",
+                "fr": "Zoulou"
               },
               "tip_5lang": {
                 "de": "Dieses Indoor-Unterhaltungszentrum ist der ideale Rückzugsort, um trocken, warm und aktiv zu bleiben.",
                 "hu": "Ez a beltéri szórakoztatóközpont ideális délutáni menedék, ahol melegen, aktívan és az esőtől távol lehet.",
                 "ro": "Acest centru de divertisment este refugiul ideal de după-amiază pentru a fi activ și complet ferit de ploaie.",
-                "en": "This indoor entertainment center is the ideal afternoon retreat to stay warm, active, and out of the rain."
+                "en": "This indoor entertainment center is the ideal afternoon retreat to stay warm, active, and out of the rain.",
+                "fr": "Ce centre de divertissement intérieur est la retraite idéale de l'après‑midi pour rester au chaud, actif et à l'abri de la pluie."
               }
             }
           ]
@@ -224,7 +246,8 @@
             "de": "Ein frischer Wintermorgen beginnt im Kultursaal und führt in die wärmende Kirche. Mittags spazieren Sie in klarer Luft zur Burg. Erreichen Sie die malerische Mühle früh, da die Sonne gegen 17:00 Uhr untergeht. Enden Sie mit gemütlichem Indoor-Spaß.",
             "hu": "A csípős téli reggel a kulturális teremben indul, majd a templomban melegedhet át. Délben sétáljon a várkastélyhoz a ropogós hidegben. Érjen fel a malomhoz a 17:00 órai korai naplemente előtt. Zárja a napot egy barátságos, fűtött beltéri programmal.",
             "ro": "Dimineața de iarnă începe la sala culturală, urmată de biserica istorică pentru a vă încălzi. La prânz, vizitați castelul medieval în aerul rece. Ajungeți la moara pitorească înainte de apusul de la ora 17:00. Încheiați cu o seară confortabilă în interior.",
-            "en": "A brisk winter morning starts at the cultural hall before seeking warmth inside the historic church. Midday brings a crisp walk to the medieval castle ruins. Reach the scenic hilltop windmill early before the sun sets around 17:00. Conclude with cozy indoor family fun."
+            "en": "A brisk winter morning starts at the cultural hall before seeking warmth inside the historic church. Midday brings a crisp walk to the medieval castle ruins. Reach the scenic hilltop windmill early before the sun sets around 17:00. Conclude with cozy indoor family fun.",
+            "fr": "Un matin hivernal vif commence à la salle culturelle avant de chercher la chaleur à l'intérieur de l'église historique. Le midi apporte une balade fraîche jusqu'aux ruines médiévales du château. Atteignez le moulin panoramique en haut de la colline tôt avant que le soleil ne se couche vers 17:00. Concluez par une animation familiale chaleureuse en intérieur."
           },
           "stops": [
             {
@@ -232,13 +255,15 @@
                 "de": "Salle du Champ de Foire",
                 "hu": "Salle du Champ de Foire",
                 "ro": "Salle du Champ de Foire",
-                "en": "Salle du Champ de Foire"
+                "en": "Salle du Champ de Foire",
+                "fr": "Salle du Champ de Foire"
               },
               "tip_5lang": {
                 "de": "Ein toller beheizter Ausgangspunkt, um Energie zu sammeln und den kalten Tag inmitten lokaler Kunst zu planen.",
                 "hu": "Remek fűtött kiindulópont, ahol erőt gyűjthet és megtervezheti a hideg napot a helyi művészetek között.",
                 "ro": "Un punct de pornire încălzit excelent pentru a prinde puteri și a planifica ziua rece printre expoziții.",
-                "en": "A great heated starting point to gather your energy and plan the cold day ahead amidst local art."
+                "en": "A great heated starting point to gather your energy and plan the cold day ahead amidst local art.",
+                "fr": "Un excellent point de départ chauffé pour rassembler vos forces et planifier la froide journée à venir au milieu de l'art local."
               }
             },
             {
@@ -246,13 +271,15 @@
                 "de": "Saint-André Church",
                 "hu": "Saint-André Church",
                 "ro": "Saint-André Church",
-                "en": "Saint-André Church"
+                "en": "Saint-André Church",
+                "fr": "Saint-André Church"
               },
               "tip_5lang": {
                 "de": "Treten Sie in die dicken Steinmauern ein, um sich vom Winterfrost aufzuwärmen und die Architektur zu bewundern.",
                 "hu": "Lépjen be a vastag kőfalak közé, hogy felmelegedjen a téli fagytól, miközben csodálja a komor építészetet.",
                 "ro": "Intrați între zidurile de piatră pentru a vă încălzi de gerul iernii, admirând arhitectura solemnă.",
-                "en": "Step inside the thick stone walls to warm up from the winter frost while admiring the solemn architecture."
+                "en": "Step inside the thick stone walls to warm up from the winter frost while admiring the solemn architecture.",
+                "fr": "Entrez dans les épais murs de pierre pour vous réchauffer du gel hivernal tout en admirant l'architecture solennelle."
               }
             },
             {
@@ -260,13 +287,15 @@
                 "de": "Château Robillard",
                 "hu": "Château Robillard",
                 "ro": "Château Robillard",
-                "en": "Château Robillard"
+                "en": "Château Robillard",
+                "fr": "Château Robillard"
               },
               "tip_5lang": {
                 "de": "Packen Sie sich in Schal und Handschuhe ein, um das majestätische, frostbedeckte Gelände zu erkunden.",
                 "hu": "Burkolózzon vastag sálba és kesztyűbe, hogy felfedezze e történelmi birtok fenséges, deres kertjét.",
                 "ro": "Înfășurați-vă într-un fular gros pentru a explora domeniul maiestuos, acoperit de brumă al castelului.",
-                "en": "Wrap up in a thick scarf and gloves to explore the majestic, frost-covered grounds of this historic estate."
+                "en": "Wrap up in a thick scarf and gloves to explore the majestic, frost-covered grounds of this historic estate.",
+                "fr": "Enveloppez‑vous d'une grosse écharpe et de gants pour explorer les majestueux terrains givrés de ce domaine historique."
               }
             },
             {
@@ -274,13 +303,15 @@
                 "de": "Moulin panoramique de Montalon",
                 "hu": "Moulin panoramique de Montalon",
                 "ro": "Moulin panoramique de Montalon",
-                "en": "Moulin panoramique de Montalon"
+                "en": "Moulin panoramique de Montalon",
+                "fr": "Moulin panoramique de Montalon"
               },
               "tip_5lang": {
                 "de": "Kommen Sie vor 16:30 Uhr an, um das goldene Licht über der Stadt vor der schnellen Winterdämmerung zu sehen.",
                 "hu": "Érkezzen 16:30 előtt, hogy elcsípje az aranyórát a város felett a gyorsan ereszkedő téli alkonyat előtt.",
                 "ro": "Ajungeți înainte de 16:30 pentru a prinde lumina aurie deasupra orașului înainte de lăsarea rapidă a serii.",
-                "en": "Arrive before 16:30 to catch the golden hour light over the town before the rapid winter dusk sets in."
+                "en": "Arrive before 16:30 to catch the golden hour light over the town before the rapid winter dusk sets in.",
+                "fr": "Arrivez avant 16h30 pour attraper la lumière de l'heure dorée sur la ville avant que le crépuscule hivernal rapide ne s'installe."
               }
             },
             {
@@ -288,13 +319,15 @@
                 "de": "Zoulou",
                 "hu": "Zoulou",
                 "ro": "Zoulou",
-                "en": "Zoulou"
+                "en": "Zoulou",
+                "fr": "Zoulou"
               },
               "tip_5lang": {
                 "de": "Belohnen Sie sich mit heißen Getränken und beheizten Indoor-Aktivitäten nach einem kalten Tag im Freien.",
                 "hu": "Jutalmazza meg magát forró italokkal és fűtött benti programokkal egy hosszú, hűvös nap után.",
                 "ro": "Răsplătiți-vă cu băuturi calde și activități de interior după o zi lungă petrecută în frigul de afară.",
-                "en": "Reward yourself with hot drinks and heated indoor activities after a long day in the chilly outdoors."
+                "en": "Reward yourself with hot drinks and heated indoor activities after a long day in the chilly outdoors.",
+                "fr": "Offrez-vous des boissons chaudes et des activités intérieures chauffées après une longue journée dans le froid extérieur."
               }
             }
           ]
@@ -314,7 +347,8 @@
             "de": "Saint-André Church",
             "hu": "Saint-André Church",
             "ro": "Saint-André Church",
-            "en": "Saint-André Church"
+            "en": "Saint-André Church",
+            "fr": "Église Saint-André"
           },
           "coords": [
             -0.448188,
@@ -329,7 +363,8 @@
             "de": "Bewundern Sie die wunderschöne romanische Architektur dieser historischen Kirche und betrachten Sie das aufwendig geschnitzte Portal, bevor Sie das kühle Kirchenschiff betreten.",
             "hu": "Csodálja meg a történelmi templom gyönyörű román stílusú építészetét, és figyelje meg a faragott portált, mielőtt belépne a hűvös és csendes főhajóba egy kis megnyugvásra.",
             "ro": "Admirați superba arhitectură romanică a acestei biserici istorice și observați portalul sculptat cu detalii fine, înainte de a păși în naosul răcoros pentru o clipă de liniște.",
-            "en": "Admire the beautiful Romanesque architecture of this historic church, taking a moment to appreciate the intricately carved portal before stepping inside to enjoy the cool nave."
+            "en": "Admire the beautiful Romanesque architecture of this historic church, taking a moment to appreciate the intricately carved portal before stepping inside to enjoy the cool nave.",
+            "fr": "Admirez la belle architecture romane de cette église historique, en prenant un moment pour apprécier le portail finement sculpté avant d’entrer pour profiter de la nef fraîche."
           }
         },
         {
@@ -337,7 +372,8 @@
             "de": "Château Robillard",
             "hu": "Château Robillard",
             "ro": "Château Robillard",
-            "en": "Château Robillard"
+            "en": "Château Robillard",
+            "fr": "Château Robillard"
           },
           "coords": [
             -0.449818,
@@ -352,7 +388,8 @@
             "de": "Erkunden Sie die malerischen Ruinen dieser mittelalterlichen Burg in einem üppigen Park, wo Sie leicht eine schattige Bank für ein kurzes Picknick finden.",
             "hu": "Fedezze fel a buja parkban található középkori vár festői romjait, ahol könnyedén talál egy árnyékos padot egy rövid piknikhez, amelyet a helyi piacon vásárolt finomságokból rögtönözhet.",
             "ro": "Explorați ruinele pitorești ale acestui castel medieval situat într-un parc luxuriant, unde veți găsi cu ușurință o bancă umbrită, perfectă pentru un scurt picnic.",
-            "en": "Explore the picturesque ruins of this medieval castle set within a lush park, where you can easily find a shaded bench perfect for a short picnic with fresh local market finds."
+            "en": "Explore the picturesque ruins of this medieval castle set within a lush park, where you can easily find a shaded bench perfect for a short picnic with fresh local market finds.",
+            "fr": "Explorez les ruines pittoresques de ce château médiéval situées dans un parc verdoyant, où vous trouverez facilement un banc ombragé parfait pour un court pique-nique avec des produits frais du marché local."
           }
         },
         {
@@ -360,7 +397,8 @@
             "de": "Moulin panoramique de Montalon",
             "hu": "Moulin panoramique de Montalon",
             "ro": "Moulin panoramique de Montalon",
-            "en": "Moulin panoramique de Montalon"
+            "en": "Moulin panoramique de Montalon",
+            "fr": "Moulin panoramique de Montalon"
           },
           "coords": [
             -0.453288,
@@ -375,7 +413,8 @@
             "de": "Erklimmen Sie den sanften Hügel zu dieser historischen Windmühle mit Panoramablick über die Weinberge und kommen Sie an einem klaren Tag für die besten Fotos.",
             "hu": "Sétáljon fel a dombra ehhez a történelmi szélmalomhoz, amely lenyűgöző panorámát nyújt a szőlőkre, és a legjobb fotók érdekében próbáljon derült időben érkezni.",
             "ro": "Urcați colina ușoară spre această moară de vânt istorică ce oferă o panoramă vastă asupra podgoriilor și încercați să o vizitați într-o zi senină pentru a prinde cea mai bună lumină.",
-            "en": "Climb the gentle hill to reach this historic windmill offering sweeping panoramic views over the surrounding vineyards, and try to visit on a clear day for the best photography lighting."
+            "en": "Climb the gentle hill to reach this historic windmill offering sweeping panoramic views over the surrounding vineyards, and try to visit on a clear day for the best photography lighting.",
+            "fr": "Montez la douce colline pour atteindre ce moulin à vent historique offrant une vue panoramique sur les vignobles environnants, et essayez de le visiter par une journée dégagée pour bénéficier du meilleur éclairage photographique."
           }
         },
         {
@@ -383,7 +422,8 @@
             "de": "Zoulou Aventures",
             "hu": "Zoulou Aventures",
             "ro": "Zoulou Aventures",
-            "en": "Zoulou Aventures"
+            "en": "Zoulou Aventures",
+            "fr": "Zoulou Aventures"
           },
           "coords": [
             -0.438944,
@@ -398,7 +438,8 @@
             "de": "Bringen Sie die Familie in dieses abwechslungsreiche Outdoor-Aktivitätszentrum und tragen Sie feste, geschlossene Schuhe, um sicher auf den Strukturen klettern zu können.",
             "hu": "Látogasson el a családdal ebbe a szórakoztató szabadtéri kalandparkba, és mindenképpen kényelmes, zárt cipőt viseljen a mászófalak és akadálypályák biztonságos leküzdése érdekében.",
             "ro": "Aduceți familia în acest centru de activități în aer liber plin de trasee distractive, asigurându-vă că purtați încălțăminte confortabilă, cu vârful închis, pentru a urca în siguranță.",
-            "en": "Bring the family to this engaging outdoor activity center filled with fun obstacle courses, ensuring you wear comfortable closed-toe shoes to safely navigate the climbing structures."
+            "en": "Bring the family to this engaging outdoor activity center filled with fun obstacle courses, ensuring you wear comfortable closed-toe shoes to safely navigate the climbing structures.",
+            "fr": "Amenez la famille dans ce centre d’activités de plein air rempli de parcours d’obstacles amusants, en veillant à porter des chaussures fermées et confortables pour franchir en toute sécurité les structures d’escalade."
           }
         },
         {
@@ -406,7 +447,8 @@
             "de": "Château de Bouilh",
             "hu": "Château de Bouilh",
             "ro": "Château de Bouilh",
-            "en": "Château de Bouilh"
+            "en": "Château de Bouilh",
+            "fr": "Château de Bouilh"
           },
           "coords": [
             -0.455711,
@@ -421,7 +463,8 @@
             "de": "Bewundern Sie die neoklassizistische Pracht dieses beeindruckenden Anwesens und buchen Sie eine Führung im Voraus, um Zugang zu den erhaltenen Innenräumen zu erhalten.",
             "hu": "Csodálja meg a Victor Louis által tervezett lenyűgöző birtok neoklasszikus pompáját, és érdemes előre vezetett túrát foglalni, hogy megtekinthesse a belső termeket is.",
             "ro": "Minunați-vă de măreția neoclasică a acestui domeniu impresionant și rezervați un tur ghidat în avans pentru a avea acces la interioarele frumos conservate.",
-            "en": "Marvel at the neoclassical grandeur of this impressive estate designed by Victor Louis, and consider booking a guided tour in advance to gain access to the beautifully preserved interior rooms."
+            "en": "Marvel at the neoclassical grandeur of this impressive estate designed by Victor Louis, and consider booking a guided tour in advance to gain access to the beautifully preserved interior rooms.",
+            "fr": "Émerveillez-vous devant la grandeur néoclassique de ce domaine impressionnant conçu par Victor Louis, et pensez à réserver une visite guidée à l’avance pour accéder aux salles intérieures magnifiquement préservées."
           }
         }
       ],
@@ -429,7 +472,8 @@
         "de": "Starten Sie Ihre Radtour an der wunderschönen Saint-André Kirche, bevor Sie gemütlich zum Château Robillard radeln. Setzen Sie die Tour bergauf zur historischen Moulin de Montalon fort, um die herrliche Aussicht zu genießen. Am Nachmittag bietet Zoulou Aventures aktiven Spaß für alle. Der Tag endet beeindruckend mit der neoklassizistischen Architektur des Château de Bouilh.",
         "hu": "Kezdje kerékpáros túráját a gyönyörű Saint-André templomnál, mielőtt kényelmesen áttekerne a Château Robillard-hoz. Folytassa az utat felfelé a történelmi Moulin de Montalon malomhoz a csodás kilátásért. Délután a Zoulou Aventures kínál aktív szórakozást. A napot a lenyűgöző, neoklasszikus stílusú Château de Bouilh kastély megtekintésével zárja stílusosan.",
         "ro": "Începeți turul cu bicicleta la frumoasa biserică Saint-André, înainte de a pedala lejer spre Château Robillard. Continuați drumul în urcare spre istorica Moulin de Montalon pentru a admira priveliștea. După-amiaza, Zoulou Aventures oferă distracție activă pentru toți. Ziua se încheie impresionant cu arhitectura neoclasică a magnificului Château de Bouilh.",
-        "en": "Start your cycling tour at the lovely Saint-André Church before pedaling gently to Château Robillard. Continue uphill to the historic Moulin de Montalon to take in the rewarding vineyard views. In the afternoon, Zoulou Aventures offers active fun for everyone. The day ends on a high note exploring the impressive neoclassical architecture of Château de Bouilh."
+        "en": "Start your cycling tour at the lovely Saint-André Church before pedaling gently to Château Robillard. Continue uphill to the historic Moulin de Montalon to take in the rewarding vineyard views. In the afternoon, Zoulou Aventures offers active fun for everyone. The day ends on a high note exploring the impressive neoclassical architecture of Château de Bouilh.",
+        "fr": "Commencez votre circuit à vélo à la charmante Église Saint-André avant de pédaler doucement jusqu’au Château Robillard. Continuez à monter jusqu’au historique Moulin de Montalon pour profiter des vues sur les vignobles. L’après-midi, Zoulou Aventures propose des activités pour tous. La journée se termine en beauté en explorant l’imposante architecture néoclassique du Château de Bouilh."
       },
       "variants": {
         "rainy": {
@@ -437,7 +481,8 @@
             "de": "Beginnen Sie Ihre nasse Fahrt an der stillen Kirche. Fahren Sie vorsichtig auf feuchten Straßen zur Burg und Mühle. Suchen Sie nachmittags Zuflucht im Indoor-Abenteuerpark. Enden Sie am großen Schloss und achten Sie auf rutschiges Kopfsteinpflaster.",
             "hu": "Kezdje esős tekerését a csendes templomnál. Délelőtt óvatosan pedálozzon a nedves utakon a kastélyhoz és a malomhoz. Délután találjon menedéket a benti kalandparkban. A napot a nagy kastélynál zárja, vigyázva a csúszós macskaköveken.",
             "ro": "Începeți plimbarea umedă la biserică. Spre prânz, pedalați cu grijă pe drumurile ude spre castel și moară. După-amiaza, refugiați-vă în parcul de aventuri acoperit. Terminați la marele castel, atenție la pietrele cubice alunecoase.",
-            "en": "Kick off your wet ride at the quiet church. Late morning requires careful pedaling on damp roads to the castle and hilltop windmill. By afternoon, seek refuge in the indoor adventure park. Conclude at the grand château, taking care on slippery cobblestones."
+            "en": "Kick off your wet ride at the quiet church. Late morning requires careful pedaling on damp roads to the castle and hilltop windmill. By afternoon, seek refuge in the indoor adventure park. Conclude at the grand château, taking care on slippery cobblestones.",
+            "fr": "Lancez votre sortie sous la pluie à l’église tranquille. En fin de matinée, pédalez prudemment sur des routes humides jusqu’au château et au moulin sur la colline. L’après-midi, cherchez refuge au parc d’aventure couvert. Concluez au grand château en faisant attention aux pavés glissants."
           },
           "stops": [
             {
@@ -445,13 +490,15 @@
                 "de": "Saint-André Church",
                 "hu": "Saint-André Church",
                 "ro": "Saint-André Church",
-                "en": "Saint-André Church"
+                "en": "Saint-André Church",
+                "fr": "Église Saint-André"
               },
               "tip_5lang": {
                 "de": "Schließen Sie Ihr Rad ab und trocknen Sie sich im ruhigen Inneren, perfekt um dem Morgenschauer zu entgehen.",
                 "hu": "Zárja le a biciklit, és lépjen be megszáradni; a csendes belső tér tökéletes a reggeli záporok elkerülésére.",
                 "ro": "Legați bicicleta afară și intrați să vă uscați; interiorul liniștit e perfect pentru a scăpa de aversa matinală.",
-                "en": "Lock your bike outside and step in to dry off; the quiet interior is perfect for escaping the morning showers."
+                "en": "Lock your bike outside and step in to dry off; the quiet interior is perfect for escaping the morning showers.",
+                "fr": "Accrochez votre vélo à l’extérieur et entrez pour vous sécher ; l’intérieur calme est idéal pour échapper aux averses matinales."
               }
             },
             {
@@ -459,13 +506,15 @@
                 "de": "Château Robillard",
                 "hu": "Château Robillard",
                 "ro": "Château Robillard",
-                "en": "Château Robillard"
+                "en": "Château Robillard",
+                "fr": "Château Robillard"
               },
               "tip_5lang": {
                 "de": "Die Wege um die Burg können schlammig sein, bleiben Sie auf befestigten Wegen mit einem guten Regenponcho.",
                 "hu": "A kastély körüli utak nagyon sarasak lehetnek, maradjon a burkolt ösvényeken, és viseljen jó esőköpenyt.",
                 "ro": "Cărările din jurul castelului pot fi noroioase, rămâneți pe traseele pavate purtând un poncho impermeabil.",
-                "en": "The pathways around the castle can get very muddy, so stick to the paved trails and wear a good rain poncho."
+                "en": "The pathways around the castle can get very muddy, so stick to the paved trails and wear a good rain poncho.",
+                "fr": "Les sentiers autour du château peuvent devenir très boueux, restez sur les pistes goudronnées et portez un bon poncho de pluie."
               }
             },
             {
@@ -473,13 +522,15 @@
                 "de": "Moulin panoramique de Montalon",
                 "hu": "Moulin panoramique de Montalon",
                 "ro": "Moulin panoramique de Montalon",
-                "en": "Moulin panoramique de Montalon"
+                "en": "Moulin panoramique de Montalon",
+                "fr": "Moulin panoramique de Montalon"
               },
               "tip_5lang": {
                 "de": "Das Bremsen auf nassen Abfahrten ist schwierig; fahren Sie bei Regen sehr vorsichtig von der Mühle hinab.",
                 "hu": "A nedves lejtőkön a fékezés trükkös lehet; esőben nagyon óvatosan ereszkedjen le a malomtól.",
                 "ro": "Frânarea pe pantele umede poate fi dificilă; coborâți cu grijă de la moară pe timp de ploaie.",
-                "en": "Braking on wet downhill slopes can be tricky; descend carefully from the windmill in the rain."
+                "en": "Braking on wet downhill slopes can be tricky; descend carefully from the windmill in the rain.",
+                "fr": "Le freinage sur des pentes descendantes mouillées peut être délicat ; descendez prudemment du moulin sous la pluie."
               }
             },
             {
@@ -487,13 +538,15 @@
                 "de": "Zoulou Aventures",
                 "hu": "Zoulou Aventures",
                 "ro": "Zoulou Aventures",
-                "en": "Zoulou Aventures"
+                "en": "Zoulou Aventures",
+                "fr": "Zoulou Aventures"
               },
               "tip_5lang": {
                 "de": "Ein toller Indoor-Stopp, um Ihr Rad zu parken und sich bei Aktivitäten fernab vom Nieselregen aufzuwärmen.",
                 "hu": "Kiváló beltéri megálló, ahol biztonságban hagyhatja a biciklit, és felmelegedhet a záporok elől elzárva.",
                 "ro": "O oprire interioară genială pentru a parca bicicleta și a vă încălzi cu activități departe de burniță.",
-                "en": "A brilliant indoor stop to securely park your bike and warm up with energetic activities away from the drizzle."
+                "en": "A brilliant indoor stop to securely park your bike and warm up with energetic activities away from the drizzle.",
+                "fr": "Un excellent arrêt couvert pour garer votre vélo en toute sécurité et vous réchauffer avec des activités énergiques à l’abri de la bruine."
               }
             },
             {
@@ -501,13 +554,15 @@
                 "de": "Château de Bouilh",
                 "hu": "Château de Bouilh",
                 "ro": "Château de Bouilh",
-                "en": "Château de Bouilh"
+                "en": "Château de Bouilh",
+                "fr": "Château de Bouilh"
               },
               "tip_5lang": {
                 "de": "Der Zugang ist im Nebel atemberaubend, aber achten Sie auf rutschige nasse Blätter und Steine am Eingang.",
                 "hu": "A ködbe burkolózó bejárat lenyűgöző, de ügyeljen a csúszós, nedves falevelekre és kövekre.",
                 "ro": "Intrarea grandioasă este uimitoare în ceață, dar atenție la frunzele și pietrele umede și alunecoase.",
-                "en": "The grand approach is stunning in the mist, but mind the slippery wet leaves and stones near the entrance."
+                "en": "The grand approach is stunning in the mist, but mind the slippery wet leaves and stones near the entrance.",
+                "fr": "L’imposante allée est superbe dans la brume, mais faites attention aux feuilles et pierres mouillées et glissantes près de l’entrée."
               }
             }
           ]
@@ -517,7 +572,8 @@
             "de": "Packen Sie sich für eine frostige Morgenfahrt ab der Kirche ein. Mittags locken klare Ausblicke an Burg und Mühle. Wärmen Sie sich am frühen Nachmittag im Abenteuerpark auf und erreichen Sie Schloss Bouilh vor Sonnenuntergang um 17:00 Uhr.",
             "hu": "Öltözzön fel melegen a fagyos reggeli kerékpározáshoz a templomtól. A dél ropogós, tiszta kilátást nyújt a kastélynál és a malomnál. Melegedjen fel a kalandparkban, és érjen a Château de Bouilh-hoz a 17:00 órai naplemente előtt.",
             "ro": "Îmbrăcați-vă gros pentru o plimbare matinală geroasă de la biserică. Prânzul oferă priveliști clare la castel și moară. Încălziți-vă la parcul de aventuri și asigurați-vă că ajungeți la Château de Bouilh înainte de apusul de la 17:00.",
-            "en": "Bundle up for a frosty morning ride starting at the church. Midday offers clear, crisp views at Château Robillard and the windmill. Warm your core at the adventure park in the early afternoon, making sure to reach Château de Bouilh before the 17:00 sunset."
+            "en": "Bundle up for a frosty morning ride starting at the church. Midday offers clear, crisp views at Château Robillard and the windmill. Warm your core at the adventure park in the early afternoon, making sure to reach Château de Bouilh before the 17:00 sunset.",
+            "fr": "Couvrez-vous bien pour une balade matinale glacée commençant à l’église. En milieu de journée, les vues au Château Robillard et au moulin sont claires et nettes. Réchauffez-vous au parc d’aventure en début d’après-midi, en veillant à atteindre le Château de Bouilh avant le coucher du soleil à 17:00."
           },
           "stops": [
             {
@@ -525,13 +581,15 @@
                 "de": "Saint-André Church",
                 "hu": "Saint-André Church",
                 "ro": "Saint-André Church",
-                "en": "Saint-André Church"
+                "en": "Saint-André Church",
+                "fr": "Église Saint-André"
               },
               "tip_5lang": {
                 "de": "Behalten Sie Ihre Handschuhe an, bis Sie dieses ruhige Heiligtum betreten, um dem Eiswind zu entgehen.",
                 "hu": "Tartsa magán a kerékpáros kesztyűt, amíg be nem lép ebbe a csendes szentélybe, távol a fagyos széltől.",
                 "ro": "Păstrați mănușile de ciclism până intrați în acest sanctuar liniștit, perfect pentru a scăpa de vântul înghețat.",
-                "en": "Keep your cycling gloves on until you step inside this quiet sanctuary, a perfect spot to escape the freezing wind."
+                "en": "Keep your cycling gloves on until you step inside this quiet sanctuary, a perfect spot to escape the freezing wind.",
+                "fr": "Gardez vos gants de cyclisme jusqu’à votre entrée dans ce sanctuaire paisible, un endroit parfait pour échapper au vent glacial."
               }
             },
             {
@@ -539,13 +597,15 @@
                 "de": "Château Robillard",
                 "hu": "Château Robillard",
                 "ro": "Château Robillard",
-                "en": "Château Robillard"
+                "en": "Château Robillard",
+                "fr": "Château Robillard"
               },
               "tip_5lang": {
                 "de": "Die kahlen Winterbäume bieten freie Sicht auf die beeindruckende Burg; tragen Sie winddichte Schichten.",
                 "hu": "A csupasz téli fák akadálytalan kilátást nyújtanak a lenyűgöző kastélyra; viseljen szélálló rétegeket.",
                 "ro": "Copacii goi de iarnă oferă vederi clare asupra arhitecturii impresionante; purtați haine rezistente la vânt.",
-                "en": "The bare winter trees offer unobstructed views of the impressive castle architecture; dress in warm, windproof layers."
+                "en": "The bare winter trees offer unobstructed views of the impressive castle architecture; dress in warm, windproof layers.",
+                "fr": "Les arbres dépouillés d’hiver offrent des vues dégagées sur l’architecture impressionnante du château ; habillez-vous en couches chaudes et coupe-vent."
               }
             },
             {
@@ -553,13 +613,15 @@
                 "de": "Moulin panoramique de Montalon",
                 "hu": "Moulin panoramique de Montalon",
                 "ro": "Moulin panoramique de Montalon",
-                "en": "Moulin panoramique de Montalon"
+                "en": "Moulin panoramique de Montalon",
+                "fr": "Moulin panoramique de Montalon"
               },
               "tip_5lang": {
                 "de": "Auf dem Hügel kann es bitterkalt sein; genießen Sie kurz die frostige Aussicht, bevor Sie weiterfahren.",
                 "hu": "A dombtetőn csikorgó hideg lehet; röviden élvezze a fagyos panorámát, mielőtt legurulna felmelegedni.",
                 "ro": "Dealul poate fi extrem de rece; bucurați-vă scurt de priveliștile geroase înainte de a pedala la vale.",
-                "en": "The hilltop can be biting cold in winter; enjoy the sweeping frosty vistas briefly before cycling down to warm up."
+                "en": "The hilltop can be biting cold in winter; enjoy the sweeping frosty vistas briefly before cycling down to warm up.",
+                "fr": "Le sommet de la colline peut être mordant en hiver ; profitez brièvement des vastes panoramas givrées avant de redescendre à vélo pour vous réchauffer."
               }
             },
             {
@@ -567,13 +629,15 @@
                 "de": "Zoulou Aventures",
                 "hu": "Zoulou Aventures",
                 "ro": "Zoulou Aventures",
-                "en": "Zoulou Aventures"
+                "en": "Zoulou Aventures",
+                "fr": "Zoulou Aventures"
               },
               "tip_5lang": {
                 "de": "Eine willkommene, beheizte Pause auf Ihrer Route, wo Sie Heißgetränke trinken und kalte Muskeln dehnen können.",
                 "hu": "Kellemes fűtött pihenő a kerékpárút során, ahol forrót ihat és lenyújthatja kihűlt izmait.",
                 "ro": "O pauză încălzită binevenită pe traseu, unde puteți bea ceva cald și vă puteți întinde mușchii reci.",
-                "en": "A welcome heated break on your cycling route where you can drink something hot and stretch your cold muscles."
+                "en": "A welcome heated break on your cycling route where you can drink something hot and stretch your cold muscles.",
+                "fr": "Une pause chauffée bienvenue sur votre itinéraire cyclable où vous pourrez boire quelque chose de chaud et étirer vos muscles engourdis."
               }
             },
             {
@@ -581,13 +645,15 @@
                 "de": "Château de Bouilh",
                 "hu": "Château de Bouilh",
                 "ro": "Château de Bouilh",
-                "en": "Château de Bouilh"
+                "en": "Château de Bouilh",
+                "fr": "Château de Bouilh"
               },
               "tip_5lang": {
                 "de": "Kommen Sie vor Einbruch der Dunkelheit an, da das riesige Anwesen sehr kalt wird, wenn die Sonne untergeht.",
                 "hu": "Érkezzen jóval sötétedés előtt, mivel a hatalmas birtok nagyon sötét és hideg lesz, amint a nap lebukik.",
                 "ro": "Ajungeți cu mult înainte de lăsarea întunericului, domeniul devine întunecat și rece după apusul soarelui.",
-                "en": "Arrive well before dusk, as the massive estate gets very dark and cold once the winter sun drops behind the trees."
+                "en": "Arrive well before dusk, as the massive estate gets very dark and cold once the winter sun drops behind the trees.",
+                "fr": "Arrivez bien avant la tombée du jour, car le vaste domaine devient très sombre et froid une fois que le soleil hivernal se cache derrière les arbres."
               }
             }
           ]
@@ -607,7 +673,8 @@
             "de": "Église Saint-Julien",
             "hu": "Église Saint-Julien",
             "ro": "Église Saint-Julien",
-            "en": "Église Saint-Julien"
+            "en": "Église Saint-Julien",
+            "fr": "Église Saint-Julien"
           },
           "coords": [
             -0.446713,
@@ -622,7 +689,8 @@
             "de": "Beginnen Sie Ihre historische Reise an diesem charmanten religiösen Denkmal und beachten Sie den friedlichen Friedhof, der einen Einblick in die lokale Geschichte bietet.",
             "hu": "Kezdje utazását ennél a bájos, kissé eldugott vallási műemléknél, és figyelje meg a békés környező temetőt, amely bepillantást nyújt a helyi ősök történetébe.",
             "ro": "Începeți călătoria istorică la acest monument religios fermecător și retras, remarcând cimitirul pașnic din jur, care oferă o perspectivă asupra genealogiei locale.",
-            "en": "Start your historical journey at this charming and somewhat secluded religious monument, noting its peaceful surrounding cemetery that provides a fascinating glimpse into local ancestry."
+            "en": "Start your historical journey at this charming and somewhat secluded religious monument, noting its peaceful surrounding cemetery that provides a fascinating glimpse into local ancestry.",
+            "fr": "Commencez votre parcours historique à ce monument religieux charmant et quelque peu isolé, en notant son cimetière paisible qui offre un aperçu fascinant de l’ascendance locale."
           }
         },
         {
@@ -630,7 +698,8 @@
             "de": "Saint-André Church",
             "hu": "Saint-André Church",
             "ro": "Saint-André Church",
-            "en": "Saint-André Church"
+            "en": "Saint-André Church",
+            "fr": "Église Saint-André"
           },
           "coords": [
             -0.448188,
@@ -645,7 +714,8 @@
             "de": "Bewundern Sie die wunderschöne romanische Architektur dieser historischen Kirche und betrachten Sie das aufwendig geschnitzte Portal, bevor Sie das kühle Kirchenschiff betreten.",
             "hu": "Csodálja meg a történelmi templom gyönyörű román stílusú építészetét, és figyelje meg a faragott portált, mielőtt belépne a hűvös és csendes főhajóba egy kis megnyugvásra.",
             "ro": "Admirați superba arhitectură romanică a acestei biserici istorice și observați portalul sculptat cu detalii fine, înainte de a păși în naosul răcoros pentru o clipă de liniște.",
-            "en": "Admire the beautiful Romanesque architecture of this historic church, taking a moment to appreciate the intricately carved portal before stepping inside to enjoy the cool nave."
+            "en": "Admire the beautiful Romanesque architecture of this historic church, taking a moment to appreciate the intricately carved portal before stepping inside to enjoy the cool nave.",
+            "fr": "Admirez la belle architecture romane de cette église historique, en prenant un moment pour apprécier le portail finement sculpté avant d’entrer pour profiter de la nef fraîche."
           }
         },
         {
@@ -653,7 +723,8 @@
             "de": "Château Robillard",
             "hu": "Château Robillard",
             "ro": "Château Robillard",
-            "en": "Château Robillard"
+            "en": "Château Robillard",
+            "fr": "Château Robillard"
           },
           "coords": [
             -0.449818,
@@ -668,7 +739,8 @@
             "de": "Erkunden Sie die malerischen Ruinen dieser mittelalterlichen Burg in einem üppigen Park, wo Sie leicht eine schattige Bank für ein kurzes Picknick finden.",
             "hu": "Fedezze fel a buja parkban található középkori vár festői romjait, ahol könnyedén talál egy árnyékos padot egy rövid piknikhez, amelyet a helyi piacon vásárolt finomságokból rögtönözhet.",
             "ro": "Explorați ruinele pitorești ale acestui castel medieval situat într-un parc luxuriant, unde veți găsi cu ușurință o bancă umbrită, perfectă pentru un scurt picnic.",
-            "en": "Explore the picturesque ruins of this medieval castle set within a lush park, where you can easily find a shaded bench perfect for a short picnic with fresh local market finds."
+            "en": "Explore the picturesque ruins of this medieval castle set within a lush park, where you can easily find a shaded bench perfect for a short picnic with fresh local market finds.",
+            "fr": "Explorez les ruines pittoresques de ce château médiéval situées dans un parc verdoyant, où vous trouverez facilement un banc ombragé parfait pour un court pique-nique avec des produits frais du marché local."
           }
         },
         {
@@ -676,7 +748,8 @@
             "de": "Moulin panoramique de Montalon",
             "hu": "Moulin panoramique de Montalon",
             "ro": "Moulin panoramique de Montalon",
-            "en": "Moulin panoramique de Montalon"
+            "en": "Moulin panoramique de Montalon",
+            "fr": "Moulin panoramique de Montalon"
           },
           "coords": [
             -0.453288,
@@ -691,7 +764,8 @@
             "de": "Erklimmen Sie den sanften Hügel zu dieser historischen Windmühle mit Panoramablick über die Weinberge und kommen Sie an einem klaren Tag für die besten Fotos.",
             "hu": "Sétáljon fel a dombra ehhez a történelmi szélmalomhoz, amely lenyűgöző panorámát nyújt a szőlőkre, és a legjobb fotók érdekében próbáljon derült időben érkezni.",
             "ro": "Urcați colina ușoară spre această moară de vânt istorică ce oferă o panoramă vastă asupra podgoriilor și încercați să o vizitați într-o zi senină pentru a prinde cea mai bună lumină.",
-            "en": "Climb the gentle hill to reach this historic windmill offering sweeping panoramic views over the surrounding vineyards, and try to visit on a clear day for the best photography lighting."
+            "en": "Climb the gentle hill to reach this historic windmill offering sweeping panoramic views over the surrounding vineyards, and try to visit on a clear day for the best photography lighting.",
+            "fr": "Montez la douce colline pour atteindre ce moulin à vent historique offrant une vue panoramique sur les vignobles environnants, et essayez de le visiter par une journée dégagée pour bénéficier du meilleur éclairage photographique."
           }
         },
         {
@@ -699,7 +773,8 @@
             "de": "Zoulou Aventures",
             "hu": "Zoulou Aventures",
             "ro": "Zoulou Aventures",
-            "en": "Zoulou Aventures"
+            "en": "Zoulou Aventures",
+            "fr": "Zoulou Aventures"
           },
           "coords": [
             -0.438944,
@@ -714,7 +789,8 @@
             "de": "Bringen Sie die Familie in dieses abwechslungsreiche Outdoor-Aktivitätszentrum und tragen Sie feste, geschlossene Schuhe, um sicher auf den Strukturen klettern zu können.",
             "hu": "Látogasson el a családdal ebbe a szórakoztató szabadtéri kalandparkba, és mindenképpen kényelmes, zárt cipőt viseljen a mászófalak és akadálypályák biztonságos leküzdése érdekében.",
             "ro": "Aduceți familia în acest centru de activități în aer liber plin de trasee distractive, asigurându-vă că purtați încălțăminte confortabilă, cu vârful închis, pentru a urca în siguranță.",
-            "en": "Bring the family to this engaging outdoor activity center filled with fun obstacle courses, ensuring you wear comfortable closed-toe shoes to safely navigate the climbing structures."
+            "en": "Bring the family to this engaging outdoor activity center filled with fun obstacle courses, ensuring you wear comfortable closed-toe shoes to safely navigate the climbing structures.",
+            "fr": "Amenez la famille dans ce centre d’activités de plein air rempli de parcours d’obstacles amusants, en veillant à porter des chaussures fermées et confortables pour franchir en toute sécurité les structures d’escalade."
           }
         },
         {
@@ -722,7 +798,8 @@
             "de": "Château de Bouilh",
             "hu": "Château de Bouilh",
             "ro": "Château de Bouilh",
-            "en": "Château de Bouilh"
+            "en": "Château de Bouilh",
+            "fr": "Château de Bouilh"
           },
           "coords": [
             -0.455711,
@@ -737,7 +814,8 @@
             "de": "Bewundern Sie die neoklassizistische Pracht dieses beeindruckenden Anwesens und buchen Sie eine Führung im Voraus, um Zugang zu den erhaltenen Innenräumen zu erhalten.",
             "hu": "Csodálja meg a Victor Louis által tervezett lenyűgöző birtok neoklasszikus pompáját, és érdemes előre vezetett túrát foglalni, hogy megtekinthesse a belső termeket is.",
             "ro": "Minunați-vă de măreția neoclasică a acestui domeniu impresionant și rezervați un tur ghidat în avans pentru a avea acces la interioarele frumos conservate.",
-            "en": "Marvel at the neoclassical grandeur of this impressive estate designed by Victor Louis, and consider booking a guided tour in advance to gain access to the beautifully preserved interior rooms."
+            "en": "Marvel at the neoclassical grandeur of this impressive estate designed by Victor Louis, and consider booking a guided tour in advance to gain access to the beautifully preserved interior rooms.",
+            "fr": "Émerveillez-vous devant la grandeur néoclassique de ce domaine impressionnant conçu par Victor Louis, et pensez à réserver une visite guidée à l’avance pour accéder aux salles intérieures magnifiquement préservées."
           }
         },
         {
@@ -745,7 +823,8 @@
             "de": "Mairie de Saint-Gervais",
             "hu": "Mairie de Saint-Gervais",
             "ro": "Mairie de Saint-Gervais",
-            "en": "Mairie de Saint-Gervais"
+            "en": "Mairie de Saint-Gervais",
+            "fr": "Mairie de Saint-Gervais"
           },
           "coords": [
             -0.464441,
@@ -760,7 +839,8 @@
             "de": "Schätzen Sie die traditionelle bürgerliche Architektur dieses gepflegten Rathauses und machen Sie ein kurzes Foto der eleganten Fassade vor der Weiterfahrt.",
             "hu": "Tekintse meg a közösség központjaként szolgáló, jól karbantartott városháza hagyományos polgári építészetét, és készítsen egy gyors fotót az elegáns homlokzatról indulás előtt.",
             "ro": "Apreciați arhitectura civică tradițională a acestei primării bine întreținute și faceți o fotografie rapidă a fațadei elegante înainte de a vă continua drumul cu mașina.",
-            "en": "Appreciate the traditional civic architecture of this well-maintained town hall which anchors the community, taking a quick snapshot of the elegant façade before continuing your drive."
+            "en": "Appreciate the traditional civic architecture of this well-maintained town hall which anchors the community, taking a quick snapshot of the elegant façade before continuing your drive.",
+            "fr": "Appréciez l’architecture civique traditionnelle de cette mairie bien entretenue qui ancre la communauté, prenez une rapide photo de la façade élégante avant de reprendre la route."
           }
         }
       ],
@@ -768,7 +848,8 @@
         "de": "Beginnen Sie Ihre Fahrt im Süden an der friedlichen Église Saint-Julien und fahren Sie dann ins Zentrum zur Saint-André Kirche. Ein kurzer Stopp beim Château Robillard leitet Sie weiter zur malerischen Moulin de Montalon. Erleben Sie am Nachmittag familiären Spaß bei Zoulou Aventures und besuchen Sie das majestätische Château de Bouilh, bevor Sie bei der Mairie enden.",
         "hu": "Kezdje autós útját délen a békés Église Saint-Julien templomnál, majd hajtson a központba a Saint-André templomhoz. A Château Robillard-nál tett rövid megálló után irány a festői Moulin de Montalon. Délután a Zoulou Aventures nyújt családi szórakozást, majd látogasson el a fenséges Château de Bouilh-hoz, mielőtt a városházánál fejezné be napját.",
         "ro": "Începeți plimbarea cu mașina în sud, la pașnica Église Saint-Julien, apoi conduceți spre centru la biserica Saint-André. O scurtă oprire la Château Robillard vă îndreaptă spre pitoreasca Moulin de Montalon. După-amiaza, bucurați-vă de distracția în familie la Zoulou Aventures, vizitați majestuosul Château de Bouilh și încheiați la primăria localității.",
-        "en": "Begin your drive in the south at the peaceful Église Saint-Julien, then head into the center to visit the Saint-André Church. A brief stop at Château Robillard leads you to the scenic Moulin de Montalon. Enjoy afternoon family fun at Zoulou Aventures, visit the majestic Château de Bouilh, and finally conclude your extensive tour at the local town hall."
+        "en": "Begin your drive in the south at the peaceful Église Saint-Julien, then head into the center to visit the Saint-André Church. A brief stop at Château Robillard leads you to the scenic Moulin de Montalon. Enjoy afternoon family fun at Zoulou Aventures, visit the majestic Château de Bouilh, and finally conclude your extensive tour at the local town hall.",
+        "fr": "Commencez votre circuit en voiture au sud à la paisible Église Saint-Julien, puis dirigez-vous vers le centre pour visiter l’Église Saint-André. Un bref arrêt au Château Robillard vous mène au pittoresque Moulin de Montalon. Profitez d’un après-midi en famille à Zoulou Aventures, visitez le majestueux Château de Bouilh, et concluez enfin votre longue visite à la mairie locale."
       },
       "variants": {
         "rainy": {
@@ -776,7 +857,8 @@
             "de": "Eine regnerische Fahrt beginnt an den historischen Kirchen. Fahren Sie langsam zur Burg und nutzen Sie die Autoheizung. Die Mühle ist im Nebel, aber Zoulou bietet Indoor-Schutz. Beenden Sie den feuchten Nachmittag am großen Schloss und Rathaus.",
             "hu": "Az esős autózás a két történelmi templomnál indul. Lassan vezessen a kastélyhoz, kihasználva az autó fűtését. A malomnál köd várhatja, de a Zoulou tökéletes fedett menedék. Zárja a nedves délutánt a nagykastélynál és a városházánál.",
             "ro": "O plimbare ploioasă cu mașina începe la cele două biserici. Conduceți încet spre castel folosind încălzirea auto. Moara poate fi în ceață, dar Zoulou oferă adăpost perfect. Terminați după-amiaza umedă conducând spre marele castel și primărie.",
-            "en": "A rainy morning drive starts safely at the two historic churches. Navigate slowly to Château Robillard, utilizing your car's heater. The hilltop windmill might be misty, but Zoulou provides perfect indoor shelter. End the damp afternoon driving to the grand Château and town hall."
+            "en": "A rainy morning drive starts safely at the two historic churches. Navigate slowly to Château Robillard, utilizing your car's heater. The hilltop windmill might be misty, but Zoulou provides perfect indoor shelter. End the damp afternoon driving to the grand Château and town hall.",
+            "fr": "Une matinée pluvieuse en voiture commence en toute sécurité aux deux églises historiques. Avancez lentement vers le Château Robillard en utilisant le chauffage de votre voiture. Le moulin perché peut être embrumé, mais Zoulou offre un abri intérieur parfait. Terminez l’après-midi humide en conduisant jusqu’au grand château et à la mairie."
           },
           "stops": [
             {
@@ -784,13 +866,15 @@
                 "de": "Église Saint-Julien",
                 "hu": "Église Saint-Julien",
                 "ro": "Église Saint-Julien",
-                "en": "Église Saint-Julien"
+                "en": "Église Saint-Julien",
+                "fr": "Église Saint-Julien"
               },
               "tip_5lang": {
                 "de": "Parken Sie nah am Eingang und huschen Sie hinein, um das trockene, vor Regen geschützte Innere zu bewundern.",
                 "hu": "Parkoljon közel a bejárathoz, és siessen be, hogy megcsodálja a reggeli esőtől védett csendes, száraz belső teret.",
                 "ro": "Parcați aproape de intrare și fugiți înăuntru pentru a admira interiorul calm și uscat, ferit de ploaia matinală.",
-                "en": "Park close to the entrance and dash inside to admire the calm, dry interior sheltered from the morning rain."
+                "en": "Park close to the entrance and dash inside to admire the calm, dry interior sheltered from the morning rain.",
+                "fr": "Garez-vous près de l’entrée et courez à l’intérieur pour admirer l’intérieur calme et sec à l’abri de la pluie matinale."
               }
             },
             {
@@ -798,13 +882,15 @@
                 "de": "Saint-André Church",
                 "hu": "Saint-André Church",
                 "ro": "Saint-André Church",
-                "en": "Saint-André Church"
+                "en": "Saint-André Church",
+                "fr": "Église Saint-André"
               },
               "tip_5lang": {
                 "de": "Bringen Sie einen Schirm für den kurzen Weg vom Parkplatz mit, um die Gewölbedecken komplett trocken zu erkunden.",
                 "hu": "Hozzon esernyőt a parkolótól való rövid sétához, hogy teljesen szárazon fedezze fel a boltozatos mennyezetet.",
                 "ro": "Luați o umbrelă pentru scurta plimbare de la parcare pentru a explora tavanele boltite complet uscat.",
-                "en": "Bring an umbrella for the short walk from your parking spot to explore the vaulted ceilings completely dry."
+                "en": "Bring an umbrella for the short walk from your parking spot to explore the vaulted ceilings completely dry.",
+                "fr": "Prenez un parapluie pour la courte marche depuis votre place de stationnement afin d’explorer les voûtes en restant complètement sec."
               }
             },
             {
@@ -812,13 +898,15 @@
                 "de": "Château Robillard",
                 "hu": "Château Robillard",
                 "ro": "Château Robillard",
-                "en": "Château Robillard"
+                "en": "Château Robillard",
+                "fr": "Château Robillard"
               },
               "tip_5lang": {
                 "de": "Die Burgwege werden bei Nässe rutschig; tragen Sie wasserfestes Schuhwerk, auch wenn Sie mit dem Auto anreisen.",
                 "hu": "A kastély ösvényei csúszósak lesznek; viseljen vízálló lábbelit, még ha kényelmesen, autóval is érkezik.",
                 "ro": "Cărările castelului devin alunecoase; purtați încălțăminte impermeabilă, chiar dacă sosiți confortabil cu mașina.",
-                "en": "The castle paths get slippery when wet; wear sensible waterproof footwear even if arriving comfortably by car."
+                "en": "The castle paths get slippery when wet; wear sensible waterproof footwear even if arriving comfortably by car.",
+                "fr": "Les sentiers du château deviennent glissants quand ils sont mouillés ; portez des chaussures imperméables et adaptées même si vous arrivez confortablement en voiture."
               }
             },
             {
@@ -826,13 +914,15 @@
                 "de": "Moulin panoramique de Montalon",
                 "hu": "Moulin panoramique de Montalon",
                 "ro": "Moulin panoramique de Montalon",
-                "en": "Moulin panoramique de Montalon"
+                "en": "Moulin panoramique de Montalon",
+                "fr": "Moulin panoramique de Montalon"
               },
               "tip_5lang": {
                 "de": "Genießen Sie die neblige Aussicht aus dem geparkten Auto, wenn der Regen auf dem Hügel zu stark prasselt.",
                 "hu": "Élvezze a drámai, ködös kilátást a parkoló autóból, ha a hegytetőn túlságosan szakadna az eső.",
                 "ro": "Bucurați-vă de priveliștile dramatice din interiorul mașinii dacă ploaia este prea puternică pe deal.",
-                "en": "Enjoy the misty, dramatic views from inside your parked car if the rain is pouring too heavily on the hilltop."
+                "en": "Enjoy the misty, dramatic views from inside your parked car if the rain is pouring too heavily on the hilltop.",
+                "fr": "Appréciez les vues brumeuses et dramatiques depuis l’intérieur de votre voiture si la pluie tombe trop fort au sommet de la colline."
               }
             },
             {
@@ -840,13 +930,15 @@
                 "de": "Zoulou Aventures",
                 "hu": "Zoulou Aventures",
                 "ro": "Zoulou Aventures",
-                "en": "Zoulou Aventures"
+                "en": "Zoulou Aventures",
+                "fr": "Zoulou Aventures"
               },
               "tip_5lang": {
                 "de": "Der ultimative Regen-Stopp, wo die ganze Familie aus dem Auto in eine beheizte Indoor-Arena springen kann.",
                 "hu": "A tökéletes esős megálló, ahol a család kipattanhat az autóból egyenesen egy hatalmas, fűtött beltéri arénába.",
                 "ro": "Oprirea supremă pentru zile ploioase unde familia poate sări din mașină într-o arenă interioară încălzită.",
-                "en": "The ultimate rainy-day stop where the whole family can jump out of the car into a massive heated indoor arena."
+                "en": "The ultimate rainy-day stop where the whole family can jump out of the car into a massive heated indoor arena.",
+                "fr": "L’arrêt ultime les jours de pluie où toute la famille peut sauter hors de la voiture dans une immense aire intérieure chauffée."
               }
             },
             {
@@ -854,13 +946,15 @@
                 "de": "Château de Bouilh",
                 "hu": "Château de Bouilh",
                 "ro": "Château de Bouilh",
-                "en": "Château de Bouilh"
+                "en": "Château de Bouilh",
+                "fr": "Château de Bouilh"
               },
               "tip_5lang": {
                 "de": "Achten Sie auf tiefe Pfützen in der großen Auffahrt und bringen Sie einen stabilen Schirm für die Tour mit.",
                 "hu": "Figyeljen a mély tócsákra a tágas felhajtón, és vigyen magával egy masszív esernyőt a birtok bejárásához.",
                 "ro": "Atenție la bălțile adânci de pe aleea principală și luați o umbrelă robustă pentru turul domeniului.",
-                "en": "Keep an eye out for deep puddles in the grand driveway and bring a sturdy umbrella for the estate tour."
+                "en": "Keep an eye out for deep puddles in the grand driveway and bring a sturdy umbrella for the estate tour.",
+                "fr": "Surveillez les flaques profondes dans la grande allée et apportez un parapluie solide pour la visite du domaine."
               }
             },
             {
@@ -868,13 +962,15 @@
                 "de": "Mairie de Saint-Gervais",
                 "hu": "Mairie de Saint-Gervais",
                 "ro": "Mairie de Saint-Gervais",
-                "en": "Mairie de Saint-Gervais"
+                "en": "Mairie de Saint-Gervais",
+                "fr": "Mairie de Saint-Gervais"
               },
               "tip_5lang": {
                 "de": "Beenden Sie Ihre Fahrt hier; die elegante Rathausfassade spiegelt sich atmosphärisch auf den nassen Straßen.",
                 "hu": "Zárja itt az utazást; az elegáns városháza homlokzata különösen hangulatos a nedves, esős utcákon tükröződve.",
                 "ro": "Terminați plimbarea aici; fațada elegantă a primăriei arată deosebit reflectându-se pe străzile umede.",
-                "en": "End your drive here; the elegant town hall facade looks especially atmospheric reflecting on wet, rainy streets."
+                "en": "End your drive here; the elegant town hall facade looks especially atmospheric reflecting on wet, rainy streets.",
+                "fr": "Terminez votre trajet ici ; la façade élégante de la mairie est particulièrement atmosphérique lorsqu’elle se reflète sur les rues mouillées."
               }
             }
           ]
@@ -884,7 +980,8 @@
             "de": "Beginnen Sie Ihre beheizte Autofahrt zu den Kirchen. Der Mittagsfrost macht die Burg und Mühle sehr malerisch. Nutzen Sie den Nachmittag für Indoor-Spaß bei Zoulou und beenden Sie die Fahrt bei Dämmerung gegen 17:00 Uhr am Schloss und Rathaus.",
             "hu": "Indítsa fűtött autós útját a reggeli templomoknál. A déli dér festőivé teszi a kastélyt és a malmot. A kora délutánt a Zoulou benti játékaira szánja, majd zárja a napot a történelmi kastélynál és a városházánál, épp 17:00 körül, sötétedéskor.",
             "ro": "Începeți călătoria cu mașina încălzită la biserici. Gerul de la prânz face castelul și moara foarte pitorești. Folosiți după-amiaza pentru distracție interioară la Zoulou, terminând la castel și primărie exact la apusul de la ora 17:00.",
-            "en": "Start your heated car journey exploring the quiet morning churches. Midday frost makes Château Robillard and the windmill incredibly picturesque. Use the early afternoon for indoor fun at Zoulou, finishing your drive at the historic château and town hall right as dusk falls around 17:00."
+            "en": "Start your heated car journey exploring the quiet morning churches. Midday frost makes Château Robillard and the windmill incredibly picturesque. Use the early afternoon for indoor fun at Zoulou, finishing your drive at the historic château and town hall right as dusk falls around 17:00.",
+            "fr": "Commencez votre trajet en voiture chauffée en explorant les églises calmes du matin. Le givre de midi rend le Château Robillard et le moulin incroyablement photogéniques. Profitez du début d’après-midi pour des activités intérieures à Zoulou, et terminez votre trajet au château historique et à la mairie juste au moment où la nuit tombe vers 17:00."
           },
           "stops": [
             {
@@ -892,13 +989,15 @@
                 "de": "Église Saint-Julien",
                 "hu": "Église Saint-Julien",
                 "ro": "Église Saint-Julien",
-                "en": "Église Saint-Julien"
+                "en": "Église Saint-Julien",
+                "fr": "Église Saint-Julien"
               },
               "tip_5lang": {
                 "de": "Das klare Winterlicht hebt das Mauerwerk der Kirche hervor; gehen Sie hinein, um sich kurz aufzuwärmen.",
                 "hu": "A ropogós téli fény tökéletesen kiemeli a templom kőművesmunkáját; ugorjon be egy gyors melegedésre.",
                 "ro": "Lumina rece a dimineții de iarnă evidențiază piatra bisericii; intrați pentru o scurtă încălzire.",
-                "en": "The crisp winter morning light perfectly highlights the stonework of this church; pop inside for a quick warm-up."
+                "en": "The crisp winter morning light perfectly highlights the stonework of this church; pop inside for a quick warm-up.",
+                "fr": "La lumière fraîche du matin d’hiver met parfaitement en valeur la pierre de cette église ; entrez pour un rapide réchauffement."
               }
             },
             {
@@ -906,13 +1005,15 @@
                 "de": "Saint-André Church",
                 "hu": "Saint-André Church",
                 "ro": "Saint-André Church",
-                "en": "Saint-André Church"
+                "en": "Saint-André Church",
+                "fr": "Église Saint-André"
               },
               "tip_5lang": {
                 "de": "Genießen Sie das beheizte Auto, aber packen Sie sich ein, um die Kirchtürme vor dem grauen Himmel zu bewundern.",
                 "hu": "Élvezze a fűtött autó kényelmét, de öltözzön fel, hogy megcsodálja a szürke ég felé magasodó tornyokat.",
                 "ro": "Bucurați-vă de mașina încălzită, dar îmbrăcați-vă gros pentru a admira turlele înalte pe cerul gri.",
-                "en": "Enjoy the comfort of your heated car between stops, but bundle up to admire the towering spires against the gray sky."
+                "en": "Enjoy the comfort of your heated car between stops, but bundle up to admire the towering spires against the gray sky.",
+                "fr": "Profitez du confort de votre voiture chauffée entre les étapes, mais couvrez-vous bien pour admirer les hautes flèches contre le ciel gris."
               }
             },
             {
@@ -920,13 +1021,15 @@
                 "de": "Château Robillard",
                 "hu": "Château Robillard",
                 "ro": "Château Robillard",
-                "en": "Château Robillard"
+                "en": "Château Robillard",
+                "fr": "Château Robillard"
               },
               "tip_5lang": {
                 "de": "Der Park ist atemberaubend, wenn er mit Frost bedeckt ist; tragen Sie Thermokleidung für einen Spaziergang.",
                 "hu": "A park lenyűgöző téli zúzmarában; viseljen termo rétegeket, hogy kényelmesen sétálhasson a parkolótól.",
                 "ro": "Parcul este uimitor acoperit de bruma iernii; purtați haine termice pentru a vă plimba confortabil.",
-                "en": "The park is stunning covered in winter frost; wear thermal layers so you can comfortably stroll from the parking area."
+                "en": "The park is stunning covered in winter frost; wear thermal layers so you can comfortably stroll from the parking area.",
+                "fr": "Le parc est splendide couvert de givre hivernal ; portez des couches thermiques pour pouvoir vous promener confortablement depuis la zone de stationnement."
               }
             },
             {
@@ -934,13 +1037,15 @@
                 "de": "Moulin panoramique de Montalon",
                 "hu": "Moulin panoramique de Montalon",
                 "ro": "Moulin panoramique de Montalon",
-                "en": "Moulin panoramique de Montalon"
+                "en": "Moulin panoramique de Montalon",
+                "fr": "Moulin panoramique de Montalon"
               },
               "tip_5lang": {
                 "de": "Fahren Sie vorsichtig auf vereisten Straßen; der Panoramablick über die kahlen Weinberge lohnt sich absolut.",
                 "hu": "Óvatosan hajtson fel az esetleg jeges utakon; a csupasz szőlőkre nyíló téli panoráma abszolút megéri.",
                 "ro": "Conduceți cu grijă pe drumurile potențial înghețate; priveliștea de iarnă asupra podgoriilor merită din plin.",
-                "en": "Drive up carefully on potentially icy roads; the panoramic winter view over the bare vineyards is absolutely worth it."
+                "en": "Drive up carefully on potentially icy roads; the panoramic winter view over the bare vineyards is absolutely worth it.",
+                "fr": "Montezz prudemment sur des routes potentiellement verglacées ; la vue panoramique hivernale sur les vignobles dépouillés en vaut absolument la peine."
               }
             },
             {
@@ -948,13 +1053,15 @@
                 "de": "Zoulou Aventures",
                 "hu": "Zoulou Aventures",
                 "ro": "Zoulou Aventures",
-                "en": "Zoulou Aventures"
+                "en": "Zoulou Aventures",
+                "fr": "Zoulou Aventures"
               },
               "tip_5lang": {
                 "de": "Legen Sie die dicken Wintermäntel in diesem Spielzentrum ab und halten Sie die Familie vor Sonnenuntergang aktiv.",
                 "hu": "Dobja le a nehéz téli kabátokat ebben a hatalmas játszóházban, és tartsa aktívan a családot a korai naplemente előtt.",
                 "ro": "Dați jos gecile grele de iarnă în acest centru de joacă, ținând familia activă înainte de apusul timpuriu.",
-                "en": "Shed those heavy winter coats inside this massive play center, keeping the whole family active before the sun sets early."
+                "en": "Shed those heavy winter coats inside this massive play center, keeping the whole family active before the sun sets early.",
+                "fr": "Enlevez ces lourds manteaux d’hiver à l’intérieur de ce vaste centre de jeux, en gardant toute la famille active avant que le soleil ne se couche tôt."
               }
             },
             {
@@ -962,13 +1069,15 @@
                 "de": "Château de Bouilh",
                 "hu": "Château de Bouilh",
                 "ro": "Château de Bouilh",
-                "en": "Château de Bouilh"
+                "en": "Château de Bouilh",
+                "fr": "Château de Bouilh"
               },
               "tip_5lang": {
                 "de": "Erreichen Sie das Anwesen vor 16:30 Uhr; das schwindende Licht wirft dramatische Schatten auf die Fassaden.",
                 "hu": "Érjen ehhez a hatalmas birtokhoz 16:30 előtt; a fogyatkozó téli fény drámai árnyékokat vet a történelmi homlokzatokra.",
                 "ro": "Ajungeți la acest domeniu înainte de 16:30; lumina slabă a iernii aruncă umbre dramatice pe fațadele istorice.",
-                "en": "Reach this massive estate before 16:30; the failing winter light casts dramatic shadows across its historic facades."
+                "en": "Reach this massive estate before 16:30; the failing winter light casts dramatic shadows across its historic facades.",
+                "fr": "Atteignez ce vaste domaine avant 16:30 ; la lumière hivernale défaillante projette des ombres dramatiques sur ses façades historiques."
               }
             },
             {
@@ -976,13 +1085,15 @@
                 "de": "Mairie de Saint-Gervais",
                 "hu": "Mairie de Saint-Gervais",
                 "ro": "Mairie de Saint-Gervais",
-                "en": "Mairie de Saint-Gervais"
+                "en": "Mairie de Saint-Gervais",
+                "fr": "Mairie de Saint-Gervais"
               },
               "tip_5lang": {
                 "de": "Gegen 17:00 Uhr ist es dunkel; bewundern Sie die leuchtenden Rathausfenster aus dem Auto, bevor Sie essen gehen.",
                 "hu": "17:00 órára az utcák sötétek lesznek; csodálja meg a városháza világító ablakait autójából a vacsora előtt.",
                 "ro": "La ora 17:00, străzile vor fi întunecate; admirați ferestrele luminate ale primăriei din mașină înainte de cină.",
-                "en": "By 17:00, the streets will be dark; admire the glowing town hall windows from your car before heading home for dinner."
+                "en": "By 17:00, the streets will be dark; admire the glowing town hall windows from your car before heading home for dinner.",
+                "fr": "À 17:00, les rues seront sombres ; admirez les fenêtres éclairées de la mairie depuis votre voiture avant de rentrer dîner."
               }
             }
           ]

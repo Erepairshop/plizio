@@ -32,7 +32,7 @@
             "hu": "Gyere kora reggel a legtökéletesebb tükröződésért.",
             "ro": "Veniți dimineața devreme pentru cele mai bune reflexii.",
             "en": "Come early in the morning for the best reflections.",
-            "fr": "Venez tôt le matin pour les meilleurs reflets."
+            "fr": "Venez tôt le matin pour les meilleures réflexions."
           }
         },
         {
@@ -51,7 +51,7 @@
             "hu": "Csodáld meg a 12 korinthoszi oszlopot a homlokzaton.",
             "ro": "Admirați cele 12 coloane corintice de pe fațadă.",
             "en": "Admire the 12 Corinthian columns on the facade.",
-            "fr": "Admirez les 12 colonnes corinthiennes sur la façade."
+            "fr": "Admirez les 12 colonnes corinthiennes de la façade."
           }
         },
         {
@@ -70,7 +70,7 @@
             "hu": "A különálló Pey-Berland toronyból pazar a kilátás.",
             "ro": "Turnul Pey-Berland oferă o vedere panoramică superbă.",
             "en": "The separate Pey-Berland tower offers a great view.",
-            "fr": "La tour Pey-Berland, séparée, offre une vue magnifique."
+            "fr": "La tour séparée Pey-Berland offre une superbe vue."
           }
         },
         {
@@ -89,7 +89,7 @@
             "hu": "Fedezd fel a régió történelmét az őskortól napjainkig.",
             "ro": "Descoperiți istoria regiunii din preistorie până azi.",
             "en": "Explore the region's history from prehistory to today.",
-            "fr": "Explorez l'histoire de la région, de la préhistoire à nos jours."
+            "fr": "Explorez l'histoire de la région de la préhistoire à aujourd'hui."
           }
         },
         {
@@ -108,7 +108,7 @@
             "hu": "Franciaország egyik legrégebbi városkapuja.",
             "ro": "Una dintre cele mai vechi porți de oraș din Franța.",
             "en": "One of the oldest city gates in France.",
-            "fr": "L'une des plus anciennes portes de la ville en France."
+            "fr": "Une des plus anciennes portes de la ville en France."
           }
         },
         {
@@ -136,7 +136,7 @@
         "hu": "Reggel a Place de la Bourse vízi tükrének varázsával indítunk. Délben a monumentális katedrálist és a színházat fedezzük fel a belvárosban. Délután az Aquitaine Múzeumban merülünk el a helyi történelemben. Este a Rue Sainte-Catherine nyüzsgő forgatagában zárjuk a napot, ahol a vásárlásé a főszerep.",
         "ro": "Dimineața începe cu magia oglinzii de apă de la Place de la Bourse. La prânz explorăm catedrala monumentală și teatrul din inima orașului. După-amiaza ne scufundăm în istoria regională la Musée d'Aquitaine. Seara încheiem ziua cu o plimbare și cumpărături pe vibranta stradă Sainte-Catherine.",
         "en": "Morning begins with the magical Water Mirror at Place de la Bourse. At midday, explore the grand cathedral and theater in the city heart. In the afternoon, dive into regional history at the Musée d'Aquitaine. Evening concludes with shopping and a lively atmosphere along the famous Rue Sainte-Catherine.",
-        "fr": "La matinée commence par le Miroir d'eau féerique de la Place de la Bourse. À midi, explorez la grande cathédrale et le théâtre au cœur de la ville. L'après-midi, plongez dans l'histoire régionale au Musée d'Aquitaine. La soirée se termine par du shopping et une ambiance animée le long de la célèbre rue Sainte-Catherine."
+        "fr": "La matinée débute avec le miroir d'eau magique de la Place de la Bourse. À midi, explorez la grande cathédrale et le théâtre au cœur de la ville. L'après-midi, plongez dans l'histoire régionale au Musée d'Aquitaine. La soirée se termine par du shopping et une ambiance animée le long de la célèbre Rue Sainte-Catherine."
       },
       "gastro_picks": {
         "de": [
@@ -285,9 +285,9 @@
           "Wear comfortable shoes for the cobblestone streets."
         ],
         "fr": [
-          "Bordeaux est très plate et parfaite pour une exploration à pied.",
-          "Attention aux tramways dans les zones piétonnes.",
-          "Réservez vos restaurants à l'avance pour le dîner.",
+          "Bordeaux est très plate, idéale pour explorer à pied.",
+          "Faites attention aux trams dans les zones piétonnes.",
+          "Réservez les restaurants à l'avance pour le dîner.",
           "Portez des chaussures confortables pour les rues pavées."
         ]
       },
@@ -297,7 +297,8 @@
             "de": "Morgens erleben Sie den magischen Wasserspiegel an der Place de la Bourse. Mittags erkunden Sie die prächtige Kathedrale und das Theater im Herzen der Stadt. Nachmittags tauchen Sie im Musée d'Aquitaine in die regionale Geschichte ein. Abends lassen Sie den Tag beim Shopping in der lebhaften Rue Sainte-Catherine ausklingen.",
             "hu": "Reggel a Place de la Bourse vízi tükrének varázsával indítunk. Délben a monumentális katedrálist és a színházat fedezzük fel a belvárosban. Délután az Aquitaine Múzeumban merülünk el a helyi történelemben. Este a Rue Sainte-Catherine nyüzsgő forgatagában zárjuk a napot, ahol a vásárlásé a főszerep.",
             "ro": "Dimineața începe cu magia oglinzii de apă de la Place de la Bourse. La prânz explorăm catedrala monumentală și teatrul din inima orașului. După-amiaza ne scufundăm în istoria regională la Musée d'Aquitaine. Seara încheiem ziua cu o plimbare și cumpărături pe vibranta stradă Sainte-Catherine.",
-            "en": "Morning begins with the magical Water Mirror at Place de la Bourse. At midday, explore the grand cathedral and theater in the city heart. In the afternoon, dive into regional history at the Musée d'Aquitaine. Evening concludes with shopping and a lively atmosphere along the famous Rue Sainte-Catherine."
+            "en": "Morning begins with the magical Water Mirror at Place de la Bourse. At midday, explore the grand cathedral and theater in the city heart. In the afternoon, dive into regional history at the Musée d'Aquitaine. Evening concludes with shopping and a lively atmosphere along the famous Rue Sainte-Catherine.",
+            "fr": "La matinée débute avec le miroir d'eau magique de la Place de la Bourse. À midi, explorez la grande cathédrale et le théâtre au cœur de la ville. L'après-midi, plongez dans l'histoire régionale au Musée d'Aquitaine. La soirée se termine par du shopping et une ambiance animée le long de la célèbre Rue Sainte-Catherine."
           },
           "stops": [
             {
@@ -306,7 +307,8 @@
                 "de": "Kommen Sie früh morgens für die besten Reflexionen.",
                 "hu": "Gyere kora reggel a legtökéletesebb tükröződésért.",
                 "ro": "Veniți dimineața devreme pentru cele mai bune reflexii.",
-                "en": "Come early in the morning for the best reflections."
+                "en": "Come early in the morning for the best reflections.",
+                "fr": "Venez tôt le matin pour les meilleures réflexions."
               }
             },
             {
@@ -315,7 +317,8 @@
                 "de": "Bewundern Sie die 12 korinthischen Säulen.",
                 "hu": "Csodáld meg a 12 korinthoszi oszlopot a homlokzaton.",
                 "ro": "Admirați cele 12 coloane corintice de pe fațadă.",
-                "en": "Admire the 12 Corinthian columns on the facade."
+                "en": "Admire the 12 Corinthian columns on the facade.",
+                "fr": "Admirez les 12 colonnes corinthiennes de la façade."
               }
             },
             {
@@ -324,7 +327,8 @@
                 "de": "Der Pey-Berland-Turm bietet eine tolle Aussicht.",
                 "hu": "A különálló Pey-Berland toronyból pazar a kilátás.",
                 "ro": "Turnul Pey-Berland oferă o vedere panoramică superbă.",
-                "en": "The separate Pey-Berland tower offers a great view."
+                "en": "The separate Pey-Berland tower offers a great view.",
+                "fr": "La tour séparée Pey-Berland offre une superbe vue."
               }
             },
             {
@@ -333,7 +337,8 @@
                 "de": "Entdecken Sie die Geschichte von der Vorzeit bis heute.",
                 "hu": "Fedezd fel a régió történelmét az őskortól napjainkig.",
                 "ro": "Descoperiți istoria regiunii din preistorie până azi.",
-                "en": "Explore the region's history from prehistory to today."
+                "en": "Explore the region's history from prehistory to today.",
+                "fr": "Explorez l'histoire de la région de la préhistoire à aujourd'hui."
               }
             },
             {
@@ -342,7 +347,8 @@
                 "de": "Eines der ältesten Stadttore Frankreichs.",
                 "hu": "Franciaország egyik legrégebbi városkapuja.",
                 "ro": "Una dintre cele mai vechi porți de oraș din Franța.",
-                "en": "One of the oldest city gates in France."
+                "en": "One of the oldest city gates in France.",
+                "fr": "Une des plus anciennes portes de la ville en France."
               }
             },
             {
@@ -351,7 +357,8 @@
                 "de": "Europas längste Fußgängerzone für Shopping.",
                 "hu": "Európa leghosszabb sétáló- és bevásárlóutcája.",
                 "ro": "Cea mai lungă stradă pietonală de cumpărături din Europa.",
-                "en": "Europe's longest pedestrian shopping street."
+                "en": "Europe's longest pedestrian shopping street.",
+                "fr": "La plus longue rue commerçante piétonne d'Europe."
               }
             }
           ],
@@ -477,6 +484,12 @@
               "Watch out for trams in the pedestrian zones.",
               "Book restaurants in advance for dinner.",
               "Wear comfortable shoes for the cobblestone streets."
+            ],
+            "fr": [
+              "Bordeaux est très plate, idéale pour explorer à pied.",
+              "Faites attention aux trams dans les zones piétonnes.",
+              "Réservez les restaurants à l'avance pour le dîner.",
+              "Portez des chaussures confortables pour les rues pavées."
             ]
           }
         },
@@ -486,7 +499,7 @@
             "hu": "A reggel a Miroir d'eau-nál esőben is különleges, a vízcseppek játéka egyedi mintákat rajzol az aszfaltra. Délben a Saint-André székesegyház nyújt fenséges és száraz menedéket a felhők elől. A délutánt az Aquitaine Múzeum hatalmas gyűjteményei között töltjük, védve az elemektől. Az estét a Rue Sainte-Catherine fedettebb részei és hangulatos árkádjai alatt zárjuk.",
             "ro": "Dimineața la Miroir d'eau este mistică în ploaie, picăturile creând modele hipnotice pe granit. La prânz, Catedrala Saint-André oferă un refugiu spiritual și uscat în fața norilor. După-amiaza este dedicată explorării colecțiilor vaste de la Musée d'Aquitaine, la adăpost. Seara se încheie cu o plimbare printre magazinele protejate de pe Rue Sainte-Catherine.",
             "en": "Morning at the Mirror of Water is mystical in the rain, as droplets create hypnotic patterns on the granite. By noon, the Saint-André Cathedral provides a spiritual and dry sanctuary from the clouds. The afternoon is spent exploring the vast collections of the Musée d'Aquitaine, shielded from the weather. Evening ends with a stroll under the partial cover of Rue Sainte-Catherine.",
-            "fr": "Le matin au Miroir d'eau est mystique sous la pluie, les gouttelettes créant des motifs hypnotiques sur le granit. À midi, la cathédrale Saint-André offre un sanctuaire spirituel à l'abri des nuages. L'après-midi est consacré à l'exploration des vastes collections du Musée d'Aquitaine. La soirée se termine par une promenade sous les arcades de la rue Sainte-Catherine."
+            "fr": "La matinée au Miroir d'eau est mystique sous la pluie, les gouttes créant des motifs hypnotiques sur le granit. À midi, la cathédrale Saint-André offre un sanctuaire spirituel et sec contre les nuages. L'après-midi se passe à explorer les vastes collections du Musée d'Aquitaine, à l'abri du mauvais temps. La soirée se termine par une promenade sous la protection partielle de la Rue Sainte-Catherine."
           },
           "stops": [
             {
@@ -496,7 +509,7 @@
                 "hu": "Az esőcseppek különleges textúrát adnak a víztükörnek.",
                 "ro": "Picăturile de ploaie accentuează efectul de oglindă pe granit.",
                 "en": "Raindrops enhance the mirror effect on the wet granite surface.",
-                "fr": "Les gouttes de pluie accentuent l'effet miroir sur le granit mouillé."
+                "fr": "Les gouttes de pluie renforcent l'effet miroir sur la surface humide du granit."
               }
             },
             {
@@ -506,7 +519,7 @@
                 "hu": "Használja a pompás bejáratot rövid menedékként az eső elől.",
                 "ro": "Folosiți intrarea grandioasă ca scurt adăpost împotriva ploii.",
                 "en": "Use the grand entrance as a brief shelter from the downpour.",
-                "fr": "Utilisez la grande entrée comme abri temporaire contre l'averse."
+                "fr": "Utilisez le grand porche comme abri bref contre l'averse."
               }
             },
             {
@@ -516,7 +529,7 @@
                 "hu": "Tökéletes hely egy intenzív zápor száraz megvárására.",
                 "ro": "Un loc perfect pentru a aștepta trecerea unei ploi torențiale.",
                 "en": "A perfect place to wait out a heavy shower in dry silence.",
-                "fr": "Un endroit parfait pour attendre la fin d'une forte pluie au sec."
+                "fr": "Un endroit parfait pour attendre qu'une forte averse passe dans un silence sec."
               }
             },
             {
@@ -536,7 +549,7 @@
                 "hu": "A szűk utcák itt jó védelmet nyújtanak az oldalszél ellen.",
                 "ro": "Străzile înguste de aici oferă protecție bună contra vântului.",
                 "en": "The narrow streets here offer good protection from side winds.",
-                "fr": "Les rues étroites offrent ici une bonne protection contre les vents latéraux."
+                "fr": "Les ruelles étroites offrent une bonne protection contre les vents latéraux."
               }
             },
             {
@@ -576,10 +589,10 @@
               "Museums fill up quickly during rain; book your slots in advance."
             ],
             "fr": [
-              "Portez des chaussures antidérapantes, car les pavés deviennent très glissants.",
+              "Portez des chaussures à bonne adhérence car les pavés deviennent très glissants.",
               "Un parapluie solide est recommandé en raison des rafales venant de la Garonne.",
-              "Utilisez les arcades le long de la rue Sainte-Catherine lors des fortes averses.",
-              "Les musées se remplissent vite par temps de pluie ; réservez vos créneaux."
+              "Utilisez les arcades de la Rue Sainte-Catherine lors des fortes averses.",
+              "Les musées se remplissent vite sous la pluie ; réservez vos créneaux à l'avance."
             ]
           }
         },
@@ -589,7 +602,7 @@
             "hu": "A friss téli reggel a Place de la Bourse-on kiváló alkalom egy forró kávéra a közeli bisztrókban. Délben a Saint-André székesegyház fenséges falai között melegszünk fel. A délutáni múzeumlátogatás védelmet nyújt a metsző városi szél ellen. Amint 17:30 körül sötétedni kezd, a Grosse Cloche és a bevásárlóutcák ünnepi fényei káprázatosak.",
             "ro": "Aerul proaspăt de iarnă de la Place de la Bourse face cafeaua din bistrourile apropiate și mai bună. La prânz ne încălzim între zidurile maiestuoase ale Catedralei Saint-André. După-amiaza la muzeu oferă protecție împotriva vântului tăios de iarnă. Odată cu lăsarea întunericului în jur de 17:30, luminile de la Grosse Cloche devin magice.",
             "en": "The crisp winter morning at Place de la Bourse makes the coffee in nearby bistros taste even better. At noon, we warm up within the majestic walls of Saint-André Cathedral. An afternoon at the museum provides shelter from the biting city wind. As darkness falls around 17:30, the festive lights of Grosse Cloche and the shopping streets shine bright.",
-            "fr": "Le matin d'hiver vif sur la Place de la Bourse rend le café des bistrots voisins encore meilleur. À midi, on se réchauffe entre les murs majestueux de la cathédrale Saint-André. Un après-midi au musée offre un abri contre le vent mordant. À la tombée de la nuit vers 17h30, les lumières festives de la Grosse Cloche et des rues commerçantes brillent de mille feux."
+            "fr": "Le matin hivernal vif sur la Place de la Bourse rend le café des bistrots voisins encore meilleur. À midi, nous nous réchauffons dans l'enceinte majestueuse de la cathédrale Saint-André. Un après-midi au musée offre un refuge contre le vent mordant de la ville. À la tombée de la nuit vers 17:30, les illuminations festives de la Grosse Cloche et des rues commerçantes brillent de mille feux."
           },
           "stops": [
             {
@@ -599,7 +612,7 @@
                 "hu": "A víztükröt télen gyakran leengedik karbantartás miatt.",
                 "ro": "Oglinda de apă este adesea golită iarna pentru întreținere.",
                 "en": "The water mirror is often drained in winter for maintenance.",
-                "fr": "Le miroir d'eau est souvent vidé en hiver pour l'entretien."
+                "fr": "Le miroir d'eau est souvent vidé en hiver pour maintenance."
               }
             },
             {
@@ -609,7 +622,7 @@
                 "hu": "Az esti kivilágítás a korai sötétedésben lenyűgöző.",
                 "ro": "Iluminatul de seară este fantastic în întunericul timpuriu.",
                 "en": "Evening lighting is fantastic during the early winter darkness.",
-                "fr": "L'éclairage nocturne est fantastique durant l'obscurité précoce de l'hiver."
+                "fr": "L'éclairage du soir est fantastique durant les premières nuits d'hiver."
               }
             },
             {
@@ -639,7 +652,7 @@
                 "hu": "A kapu a bágyadt téli fényben különösen középkori hangulatú.",
                 "ro": "Poarta arată deosebit de medieval în lumina palidă de iarnă.",
                 "en": "The gate looks especially medieval in the pale winter light.",
-                "fr": "La porte a un aspect particulièrement médiéval dans la pâle lumière d'hiver."
+                "fr": "La porte paraît particulièrement médiévale sous la pâle lumière hivernale."
               }
             },
             {
@@ -649,7 +662,7 @@
                 "hu": "Egy forró kakaó a kávézókban kötelező a vásárlási szünetben.",
                 "ro": "O ciocolată caldă în cafenele este obligatorie la cumpărături.",
                 "en": "Hot cocoa in the cafes is a must during your shopping break.",
-                "fr": "Un chocolat chaud dans les cafés est un incontournable pendant votre pause shopping."
+                "fr": "Le chocolat chaud dans les cafés est incontournable pendant votre pause shopping."
               }
             }
           ],
@@ -679,10 +692,10 @@
               "The wind in the narrow side streets can feel significantly colder."
             ],
             "fr": [
-              "Le coucher du soleil est vers 17h20 ; prévoyez vos photos en extérieur tôt.",
-              "Habillez-vous par couches : il fait froid dehors mais chaud dans les musées.",
-              "De nombreux cafés proposent des terrasses chauffées même en hiver.",
-              "Le vent dans les rues latérales étroites peut sembler nettement plus froid."
+              "Le coucher du soleil est vers 17:20 ; planifiez vos photos en extérieur tôt.",
+              "Habillez-vous en couches : il fait froid dehors mais chaud à l'intérieur des musées.",
+              "Beaucoup de cafés proposent des terrasses extérieures chauffées même en hiver.",
+              "Le vent dans les ruelles étroites peut sembler nettement plus froid."
             ]
           }
         }
@@ -712,7 +725,7 @@
             "hu": "Széles kerékpárutak a Garonne mentén.",
             "ro": "Piste largi de biciclete de-a lungul Garonei.",
             "en": "Wide bike paths along the Garonne river.",
-            "fr": "Larges pistes cyclables le long de la Garonne."
+            "fr": "Large pistes cyclables le long de la Garonne."
           }
         },
         {
@@ -731,7 +744,7 @@
             "hu": "A borkultúra fellegvára, kóstolóval a tetején.",
             "ro": "Simbolul culturii vinului, cu degustare inclusă.",
             "en": "The landmark of wine culture with a tasting view.",
-            "fr": "Le haut lieu de la culture du vin avec vue pour la dégustation."
+            "fr": "Le symbole de la culture du vin avec vue dégustation."
           }
         },
         {
@@ -750,7 +763,7 @@
             "hu": "Európa legmagasabb emelőhídja.",
             "ro": "Cel mai înalt pod mobil din Europa.",
             "en": "Europe's tallest vertical-lift bridge.",
-            "fr": "Le plus haut pont levant vertical d'Europe."
+            "fr": "Le plus haut pont à levage vertical d'Europe."
           }
         },
         {
@@ -788,7 +801,7 @@
             "hu": "Élvezd a kilátást a város sziluettjére a hídról.",
             "ro": "Bucurați-vă de panorama orașului de pe pod.",
             "en": "Enjoy the view of the city skyline from the bridge.",
-            "fr": "Profitez de la vue sur la silhouette de la ville depuis le pont."
+            "fr": "Profitez de la vue sur la skyline de la ville depuis le pont."
           }
         }
       ],
@@ -797,7 +810,7 @@
         "hu": "Reggel a Garonne-parti sétányokon tekerünk. Délben meglátogatjuk a látványos Bormúzeumot (Cité du Vin). Délután a futurisztikus Chaban-Delmas hídon átkelve a botanikus kertet érintjük. Este a történelmi kőhídon, a Pont de Pierre-en keresztül térünk vissza a belvárosba.",
         "ro": "Dimineața pedalăm pe cheiurile Garonei. La prânz vizităm spectaculoasa Cité du Vin în cartierul modern. După-amiaza traversăm podul futurist Chaban-Delmas spre grădina botanică. Seara revenim în centru peste istoricul pod de piatră, Pont de Pierre.",
         "en": "Morning ride along the scenic Garonne quayside. Midday visit to the spectacular Cité du Vin museum. In the afternoon, cross the futuristic Chaban-Delmas bridge to the botanical gardens. Evening return to the center via the historic Pont de Pierre stone bridge.",
-        "fr": "Balade matinale le long des quais pittoresques de la Garonne. Midi, visite de la spectaculaire Cité du Vin. L'après-midi, traversez le pont futuriste Chaban-Delmas vers le jardin botanique. Retour en soirée vers le centre via le pont de pierre historique."
+        "fr": "Balade matinale le long des quais pittoresques de la Garonne. Visite à midi du spectaculaire musée de la Cité du Vin. L'après-midi, traversez le pont futuriste Chaban-Delmas jusqu'aux jardins botaniques. Retour en soirée au centre via le pont de pierre historique Pont de Pierre."
       },
       "gastro_picks": {
         "de": [
@@ -947,9 +960,9 @@
         ],
         "fr": [
           "Utilisez le système de vélos en libre-service V3 de la ville.",
-          "Les sentiers au bord de l'eau sont complètement plats et faciles.",
-          "Les ponts disposent de pistes cyclables dédiées.",
-          "Verrouillez toujours votre vélo de manière sécurisée lors des arrêts."
+          "Les pistes au bord de la rivière sont totalement plates et faciles.",
+          "Les ponts disposent de voies cyclables dédiées.",
+          "Verrouillez toujours votre vélo solidement lors des arrêts."
         ]
       },
       "variants": {
@@ -958,7 +971,8 @@
             "de": "Morgens radeln Sie entlang der Garonne-Quais. Mittags besuchen Sie die spektakuläre Cité du Vin im modernen Viertel. Nachmittags überqueren Sie die futuristische Chaban-Delmas-Brücke zum botanischen Garten. Abends kehren Sie über die historische Steinbrücke Pont de Pierre ins Zentrum zurück.",
             "hu": "Reggel a Garonne-parti sétányokon tekerünk. Délben meglátogatjuk a látványos Bormúzeumot (Cité du Vin). Délután a futurisztikus Chaban-Delmas hídon átkelve a botanikus kertet érintjük. Este a történelmi kőhídon, a Pont de Pierre-en keresztül térünk vissza a belvárosba.",
             "ro": "Dimineața pedalăm pe cheiurile Garonei. La prânz vizităm spectaculoasa Cité du Vin în cartierul modern. După-amiaza traversăm podul futurist Chaban-Delmas spre grădina botanică. Seara revenim în centru peste istoricul pod de piatră, Pont de Pierre.",
-            "en": "Morning ride along the scenic Garonne quayside. Midday visit to the spectacular Cité du Vin museum. In the afternoon, cross the futuristic Chaban-Delmas bridge to the botanical gardens. Evening return to the center via the historic Pont de Pierre stone bridge."
+            "en": "Morning ride along the scenic Garonne quayside. Midday visit to the spectacular Cité du Vin museum. In the afternoon, cross the futuristic Chaban-Delmas bridge to the botanical gardens. Evening return to the center via the historic Pont de Pierre stone bridge.",
+            "fr": "Balade matinale le long des quais pittoresques de la Garonne. Visite à midi du spectaculaire musée de la Cité du Vin. L'après-midi, traversez le pont futuriste Chaban-Delmas jusqu'aux jardins botaniques. Retour en soirée au centre via le pont de pierre historique Pont de Pierre."
           },
           "stops": [
             {
@@ -967,7 +981,8 @@
                 "de": "Breite Radwege entlang der Garonne.",
                 "hu": "Széles kerékpárutak a Garonne mentén.",
                 "ro": "Piste largi de biciclete de-a lungul Garonei.",
-                "en": "Wide bike paths along the Garonne river."
+                "en": "Wide bike paths along the Garonne river.",
+                "fr": "Large pistes cyclables le long de la Garonne."
               }
             },
             {
@@ -976,7 +991,8 @@
                 "de": "Das Wahrzeichen der Weinkultur mit Verkostung.",
                 "hu": "A borkultúra fellegvára, kóstolóval a tetején.",
                 "ro": "Simbolul culturii vinului, cu degustare inclusă.",
-                "en": "The landmark of wine culture with a tasting view."
+                "en": "The landmark of wine culture with a tasting view.",
+                "fr": "Le symbole de la culture du vin avec vue dégustation."
               }
             },
             {
@@ -985,7 +1001,8 @@
                 "de": "Europas höchste Hebebrücke.",
                 "hu": "Európa legmagasabb emelőhídja.",
                 "ro": "Cel mai înalt pod mobil din Europa.",
-                "en": "Europe's tallest vertical-lift bridge."
+                "en": "Europe's tallest vertical-lift bridge.",
+                "fr": "Le plus haut pont à levage vertical d'Europe."
               }
             },
             {
@@ -994,7 +1011,8 @@
                 "de": "Ruhiger Garten auf der rechten Uferseite.",
                 "hu": "Csendes botanikus kert a jobb parton.",
                 "ro": "Grădină botanică liniștită pe malul drept.",
-                "en": "Quiet botanical garden on the right bank."
+                "en": "Quiet botanical garden on the right bank.",
+                "fr": "Jardin botanique paisible sur la rive droite."
               }
             },
             {
@@ -1003,7 +1021,8 @@
                 "de": "Genießen Sie den Blick auf die Silhouette der Stadt.",
                 "hu": "Élvezd a kilátást a város sziluettjére a hídról.",
                 "ro": "Bucurați-vă de panorama orașului de pe pod.",
-                "en": "Enjoy the view of the city skyline from the bridge."
+                "en": "Enjoy the view of the city skyline from the bridge.",
+                "fr": "Profitez de la vue sur la skyline de la ville depuis le pont."
               }
             }
           ],
@@ -1129,6 +1148,12 @@
               "Riverside paths are completely flat and easy.",
               "Bridges have dedicated bike lanes.",
               "Always lock your bike securely when stopping."
+            ],
+            "fr": [
+              "Utilisez le système de vélos en libre-service V3 de la ville.",
+              "Les pistes au bord de la rivière sont totalement plates et faciles.",
+              "Les ponts disposent de voies cyclables dédiées.",
+              "Verrouillez toujours votre vélo solidement lors des arrêts."
             ]
           }
         },
@@ -1138,7 +1163,7 @@
             "hu": "A nedves rakpartokon való kezdés óvatosságot igényel a fapadlókon. Délben a Cité du Vin a tökéletes száraz sziget a borkedvelők számára. Délután a Chaban-Delmas hídon kelünk át, miközben az eső ostorozza a folyót. A napot a Jardin Botanique és a Pont de Pierre után egy jól megérdemelt szárítkozással zárjuk.",
             "ro": "Un început umed pe cheiuri necesită prudență pe platformele de lemn. La prânz, Cité du Vin este insula uscată perfectă pentru iubitorii de vin. După-amiaza traversăm podul Chaban-Delmas în timp ce ploaia bate râul. Încheiem ziua după Jardin Botanique și Pont de Pierre cu o pauză de uscare binemeritată.",
             "en": "A wet start along the quays requires caution on the wooden planks. By noon, Cité du Vin is the perfect dry island for wine lovers. In the afternoon, we cross the Chaban-Delmas bridge as rain lashes the river. We end the day after visiting Jardin Botanique and Pont de Pierre with a well-deserved drying break.",
-            "fr": "Un départ humide le long des quais demande de la prudence sur les planches de bois. À midi, la Cité du Vin est l'île sèche parfaite pour les amateurs de vin. L'après-midi, nous traversons le pont Chaban-Delmas sous la pluie battante. La journée se termine après le jardin botanique et le pont de pierre par une pause séchage bien méritée."
+            "fr": "Un départ humide le long des quais exige de la prudence sur les planches en bois. À midi, la Cité du Vin est l'îlot sec parfait pour les amateurs de vin. L'après-midi, nous traversons le pont Chaban-Delmas tandis que la pluie fouette la rivière. Nous terminons la journée après la visite du Jardin Botanique et du Pont de Pierre par une pause séchage bien méritée."
           },
           "stops": [
             {
@@ -1148,7 +1173,7 @@
                 "hu": "Vigyázat a folyóparti fapallókkal, rendkívül csúszóssá válnak.",
                 "ro": "Atenție la podețele de lemn de pe râu, devin extrem de alunecoase.",
                 "en": "Be careful on the wooden riverfront decks; they become very slick.",
-                "fr": "Attention sur les plateformes en bois du bord de l'eau ; elles deviennent très glissantes."
+                "fr": "Faites attention aux planches du front de rivière ; elles deviennent très glissantes."
               }
             },
             {
@@ -1158,7 +1183,7 @@
                 "hu": "Fedett kerékpártárolók találhatók közvetlenül a főbejáratnál.",
                 "ro": "Suporturile acoperite pentru biciclete sunt lângă intrare.",
                 "en": "Covered bike racks are located right by the main entrance.",
-                "fr": "Des porte-vélos abrités sont situés juste à côté de l'entrée principale."
+                "fr": "Des arceaux couverts pour vélos se trouvent juste à l'entrée principale."
               }
             },
             {
@@ -1168,7 +1193,7 @@
                 "hu": "A híd fém illesztései nedvesen veszélyesek a gumikra.",
                 "ro": "Îmbinările metalice de pe pod sunt înșelătoare pentru pneuri.",
                 "en": "Metal joints on the bridge are treacherous for tires when wet.",
-                "fr": "Les joints métalliques sur le pont sont traîtres pour les pneus mouillés."
+                "fr": "Les joints métalliques du pont sont traîtres pour les pneus quand ils sont mouillés."
               }
             },
             {
@@ -1178,7 +1203,7 @@
                 "hu": "Az üvegházak menedéket és trópusi meleget nyújtanak.",
                 "ro": "Serele oferă adăpost și căldură tropicală în timpul ploii.",
                 "en": "The greenhouses offer shelter and tropical warmth during rain.",
-                "fr": "Les serres offrent un abri et une chaleur tropicale pendant la pluie."
+                "fr": "Les serres offrent abri et chaleur tropicale pendant la pluie."
               }
             },
             {
@@ -1188,7 +1213,7 @@
                 "hu": "Ügyeljen a tócsákra a kerékpárút vájataiban.",
                 "ro": "Atenție la bălțile din rigolele pistei de biciclete.",
                 "en": "Watch out for puddles in the gutters of the bike lane.",
-                "fr": "Faites attention aux flaques d'eau dans les caniveaux de la piste cyclable."
+                "fr": "Attention aux flaques dans les rigoles de la piste cyclable."
               }
             }
           ],
@@ -1218,10 +1243,10 @@
               "Check if your rental bike has mudguards for the street slush."
             ],
             "fr": [
-              "Un équipement complet contre la pluie, incluant des surchaussures, est recommandé.",
-              "Évitez les freinages brusques sur les sections pavées mouillées.",
-              "La Cité du Vin propose des vestiaires pour les manteaux et casques mouillés.",
-              "Vérifiez si votre vélo de location a des garde-boue pour les projections d'eau."
+              "Équipement complet de pluie, y compris couvre-chaussures, fortement recommandé.",
+              "Évitez les freinages brusques sur les sections pavées humides.",
+              "La Cité du Vin propose des vestiaires pour manteaux et casques mouillés.",
+              "Vérifiez si votre vélo de location a des garde-boue pour la boue de rue."
             ]
           }
         },
@@ -1231,7 +1256,7 @@
             "hu": "A fagyos reggel a rakpartokon tiszta kilátással jutalmaz a Garonne felett. Délben a Cité du Vin kínál üdvözlendő melegedőt egy borkóstolóval. A hűvös szél a Chaban-Delmas hídon felfrissít délután. Végigtekerünk a csendes Jardin Botanique-on, és pontosan a korai naplementére érünk a Pont de Pierre-hez.",
             "ro": "Un început geros pe cheiuri vă răsplătește cu o vedere clară peste Garonne. La prânz, Cité du Vin oferă o pauză de încălzire cu degustare de vin. Vântul rece de pe podul Chaban-Delmas vă revigorează după-amiaza. Pedalam prin liniștitul Jardin Botanique și trecem Pont de Pierre la apus.",
             "en": "A frosty start along the quays rewards you with clear views over the Garonne. At noon, Cité du Vin offers a welcome warming break with wine tasting. The cool wind on the Chaban-Delmas bridge invigorates the spirit in the afternoon. We cycle through the quiet Jardin Botanique and cross Pont de Pierre just in time for the early sunset.",
-            "fr": "Un départ givré le long des quais vous récompense par des vues dégagées sur la Garonne. À midi, la Cité du Vin offre une pause chauffante bienvenue avec dégustation. Le vent frais sur le pont Chaban-Delmas revigore l'esprit l'après-midi. Nous pédalons dans le jardin botanique paisible et traversons le pont de pierre juste pour le coucher du soleil précoce."
+            "fr": "Un départ givré le long des quais vous récompense par une vue claire sur la Garonne. À midi, la Cité du Vin offre une pause réconfortante avec dégustation. Le vent frais sur le pont Chaban-Delmas revigore l'esprit l'après-midi. Nous roulons dans le calme du Jardin Botanique et traversons le Pont de Pierre juste à temps pour le coucher du soleil anticipé."
           },
           "stops": [
             {
@@ -1251,7 +1276,7 @@
                 "hu": "Élvezze a panorámás kilátást a téli városra.",
                 "ro": "Bucurați-vă de vederea panoramică asupra orașului iarna.",
                 "en": "Enjoy the panoramic view of the winter city from the top.",
-                "fr": "Profitez de la vue panoramique sur la ville hivernale depuis le sommet."
+                "fr": "Profitez de la vue panoramique de la ville hivernale depuis le sommet."
               }
             },
             {
@@ -1261,7 +1286,7 @@
                 "hu": "A szél itt fent télen lényegesen erősebb.",
                 "ro": "Vântul este mult mai puternic aici sus pe timpul iernii.",
                 "en": "The wind is significantly stronger up here during winter.",
-                "fr": "Le vent est nettement plus fort ici en haut pendant l'hiver."
+                "fr": "Le vent est nettement plus fort ici en hiver."
               }
             },
             {
@@ -1281,7 +1306,7 @@
                 "hu": "A legjobb hely a korai naplemente fotózásához (kb. 17:15).",
                 "ro": "Cel mai bun loc pentru poze la apusul timpuriu (cca. 17:15).",
                 "en": "Best spot for photos of the early sunset (around 17:15).",
-                "fr": "Meilleur endroit pour les photos du coucher de soleil précoce (vers 17h15)."
+                "fr": "Meilleur endroit pour photos du coucher du soleil tôt (vers 17:15)."
               }
             }
           ],
@@ -1311,10 +1336,10 @@
               "Take frequent breaks in cafes to warm up your hands."
             ],
             "fr": [
-              "Des gants chauds et un bonnet sont essentiels pour les cyclistes en hiver.",
-              "Les journées sont courtes ; assurez-vous que vos éclairages vélo fonctionnent bien.",
-              "Évitez les zones ombragées où le givre peut rendre le sol glissant.",
-              "Faites des pauses fréquentes dans les cafés pour vous réchauffer les mains."
+              "Gants chauds et bonnet sont essentiels pour les cyclistes en hiver.",
+              "Les jours sont courts ; assurez-vous que vos lumières de vélo fonctionnent parfaitement.",
+              "Évitez les sections ombragées où le gel peut rendre le sol glissant.",
+              "Faites des pauses fréquentes dans les cafés pour réchauffer vos mains."
             ]
           }
         }
@@ -1344,7 +1369,7 @@
             "hu": "Luxus negyed klasszikus építészettel.",
             "ro": "Cartier de lux cu arhitectură clasică.",
             "en": "The luxury district with classical architecture.",
-            "fr": "Le quartier de luxe à l'architecture classique."
+            "fr": "Le quartier du luxe avec une architecture classique."
           }
         },
         {
@@ -1363,7 +1388,7 @@
             "hu": "Digitális művészeti kiállítás egy tengeralattjáró-bázison.",
             "ro": "Expoziție de artă digitală într-o bază de submarine.",
             "en": "Digital art exhibition in a former submarine base.",
-            "fr": "Exposition d'art numérique dans une ancienne base sous-marine."
+            "fr": "Exposition d'art numérique dans une ancienne base de sous-marins."
           }
         },
         {
@@ -1401,7 +1426,7 @@
             "hu": "Pompás 19. századi villák negyede.",
             "ro": "Vile splendide din secolul al XIX-lea.",
             "en": "Splendid 19th-century villas district.",
-            "fr": "Splendide quartier de villas du XIXe siècle."
+            "fr": "Superbe quartier de villas du XIXe siècle."
           }
         }
       ],
@@ -1410,7 +1435,7 @@
         "hu": "Reggel Bordeaux elegáns belvárosával kezdünk. Délben a lenyűgöző Bassins des Lumières fénykiállítást nézzük meg. Délután az óceánparti Dune du Pilat dűnéhez autózunk a kilátásért. Este Arcachon történelmi 'Téli Város' negyedében teszünk egy sétát.",
         "ro": "Dimineața explorăm centrul elegant din Bordeaux. La prânz vizităm expoziția Bassins des Lumières. După-amiaza conducem spre Dune du Pilat pentru o vedere uluitoare asupra oceanului. Seara ne plimbăm prin cartierul istoric Ville d'Hiver din Arcachon.",
         "en": "Morning starts with the elegant center of Bordeaux. Midday visit to the immersive Bassins des Lumières. In the afternoon, drive to the Dune du Pilat for breathtaking ocean views. Evening walk through the historic Winter Town of Arcachon.",
-        "fr": "Le matin commence par l'élégant centre de Bordeaux. À midi, visite immersive aux Bassins des Lumières. L'après-midi, route vers la Dune du Pilat pour des vues imprenables sur l'océan. Promenade nocturne dans la ville d'hiver historique d'Arcachon."
+        "fr": "La matinée commence par le centre élégant de Bordeaux. Visite à midi des immersifs Bassins des Lumières. L'après-midi, trajet jusqu'à la Dune du Pilat pour des vues océanes époustouflantes. Promenade en soirée dans la ville historique d'hiver d'Arcachon."
       },
       "gastro_picks": {
         "de": [
@@ -1559,10 +1584,10 @@
           "Book Bassins des Lumières tickets online in advance."
         ],
         "fr": [
-          "Le stationnement au centre-ville de Bordeaux est coûteux.",
-          "L'autoroute vers Arcachon peut être très fréquentée le week-end.",
-          "Apportez de l'eau pour l'ascension de la dune de sable.",
-          "Réservez vos billets pour les Bassins des Lumières en ligne à l'avance."
+          "Le stationnement dans le centre-ville de Bordeaux est cher.",
+          "L'autoroute vers Arcachon peut être chargée le week-end.",
+          "Prévoyez de l'eau pour la montée de la dune de sable.",
+          "Réservez les billets des Bassins des Lumières en ligne à l'avance."
         ]
       },
       "variants": {
@@ -1571,7 +1596,8 @@
             "de": "Morgens erkunden Sie das elegante Zentrum von Bordeaux. Mittags besuchen Sie die beeindruckenden Bassins des Lumières. Nachmittags fahren Sie zur Dune du Pilat für einen atemberaubenden Blick über den Ozean. Abends spazieren Sie durch die historische Winterstadt von Arcachon.",
             "hu": "Reggel Bordeaux elegáns belvárosával kezdünk. Délben a lenyűgöző Bassins des Lumières fénykiállítást nézzük meg. Délután az óceánparti Dune du Pilat dűnéhez autózunk a kilátásért. Este Arcachon történelmi 'Téli Város' negyedében teszünk egy sétát.",
             "ro": "Dimineața explorăm centrul elegant din Bordeaux. La prânz vizităm expoziția Bassins des Lumières. După-amiaza conducem spre Dune du Pilat pentru o vedere uluitoare asupra oceanului. Seara ne plimbăm prin cartierul istoric Ville d'Hiver din Arcachon.",
-            "en": "Morning starts with the elegant center of Bordeaux. Midday visit to the immersive Bassins des Lumières. In the afternoon, drive to the Dune du Pilat for breathtaking ocean views. Evening walk through the historic Winter Town of Arcachon."
+            "en": "Morning starts with the elegant center of Bordeaux. Midday visit to the immersive Bassins des Lumières. In the afternoon, drive to the Dune du Pilat for breathtaking ocean views. Evening walk through the historic Winter Town of Arcachon.",
+            "fr": "La matinée commence par le centre élégant de Bordeaux. Visite à midi des immersifs Bassins des Lumières. L'après-midi, trajet jusqu'à la Dune du Pilat pour des vues océanes époustouflantes. Promenade en soirée dans la ville historique d'hiver d'Arcachon."
           },
           "stops": [
             {
@@ -1580,7 +1606,8 @@
                 "de": "Das luxuriöse Viertel mit klassischer Architektur.",
                 "hu": "Luxus negyed klasszikus építészettel.",
                 "ro": "Cartier de lux cu arhitectură clasică.",
-                "en": "The luxury district with classical architecture."
+                "en": "The luxury district with classical architecture.",
+                "fr": "Le quartier du luxe avec une architecture classique."
               }
             },
             {
@@ -1589,7 +1616,8 @@
                 "de": "Digitale Kunstausstellung in einer U-Boot-Basis.",
                 "hu": "Digitális művészeti kiállítás egy tengeralattjáró-bázison.",
                 "ro": "Expoziție de artă digitală într-o bază de submarine.",
-                "en": "Digital art exhibition in a former submarine base."
+                "en": "Digital art exhibition in a former submarine base.",
+                "fr": "Exposition d'art numérique dans une ancienne base de sous-marins."
               }
             },
             {
@@ -1598,7 +1626,8 @@
                 "de": "Die höchste Wanderdüne Europas.",
                 "hu": "Európa legmagasabb vándordűnéje.",
                 "ro": "Cea mai înaltă dună de nisip din Europa.",
-                "en": "The tallest sand dune in Europe."
+                "en": "The tallest sand dune in Europe.",
+                "fr": "La plus haute dune de sable d'Europe."
               }
             },
             {
@@ -1607,7 +1636,8 @@
                 "de": "Prachtvolle Villen aus dem 19. Jahrhundert.",
                 "hu": "Pompás 19. századi villák negyede.",
                 "ro": "Vile splendide din secolul al XIX-lea.",
-                "en": "Splendid 19th-century villas district."
+                "en": "Splendid 19th-century villas district.",
+                "fr": "Superbe quartier de villas du XIXe siècle."
               }
             }
           ],
@@ -1733,6 +1763,12 @@
               "The highway to Arcachon can be busy on weekends.",
               "Bring water for the climb up the sand dune.",
               "Book Bassins des Lumières tickets online in advance."
+            ],
+            "fr": [
+              "Le stationnement dans le centre-ville de Bordeaux est cher.",
+              "L'autoroute vers Arcachon peut être chargée le week-end.",
+              "Prévoyez de l'eau pour la montée de la dune de sable.",
+              "Réservez les billets des Bassins des Lumières en ligne à l'avance."
             ]
           }
         },
@@ -1742,7 +1778,7 @@
             "hu": "A délelőtt a Triangle d'Or-ban egy száraz parkolóház keresésével indul. Délben a Bassins des Lumières nyújtja a végső beltéri élményt, teljesen elszakadva az esőtől. Az út a Dune du Pilat-hoz esőben is hangulatos, még ha a mászás nehezebb is. A nap az autó kényelmében zárul Arcachon villanegyedeinek felfedezésével.",
             "ro": "Dimineața în Triangle d'Or începe cu căutarea unei parcări acoperite. La prânz, Bassins des Lumières oferă experiența indoor supremă, departe de ploaie. Drumul spre Dune du Pilat este atmosferic în ploaie, deși urcarea e grea. Ziua se încheie confortabil în mașină, vizitând vilele din Arcachon.",
             "en": "Morning in the Triangle d'Or begins with finding a dry parking garage. At noon, Bassins des Lumières offers the ultimate indoor experience, completely detached from the rain. The drive to Dune du Pilat is atmospheric in the rain, even if the climb is messy. The day ends comfortably in the car, touring the villa districts of Arcachon.",
-            "fr": "Matinée dans le Triangle d'Or commençant par la recherche d'un parking couvert. À midi, les Bassins des Lumières offrent l'expérience intérieure ultime, totalement coupée de la pluie. Le trajet vers la Dune du Pilat est atmosphérique sous la pluie, même si l'ascension est boueuse. La journée se termine confortablement en voiture, en parcourant les quartiers de villas d'Arcachon."
+            "fr": "La matinée dans le Triangle d'Or commence par trouver un parking couvert. À midi, les Bassins des Lumières offrent l'expérience intérieure ultime, complètement à l'abri de la pluie. Le trajet vers la Dune du Pilat est atmosphérique sous la pluie, même si la montée est boueuse. La journée se termine confortablement en voiture, en parcourant les quartiers de villas d'Arcachon."
           },
           "stops": [
             {
@@ -1752,7 +1788,7 @@
                 "hu": "Használja a 'Grands Hommes' parkolóházat a közvetlen bejutáshoz.",
                 "ro": "Folosiți parcarea 'Grands Hommes' pentru acces direct la magazine.",
                 "en": "Use the 'Grands Hommes' parking garage for direct indoor access.",
-                "fr": "Utilisez le parking 'Grands Hommes' pour un accès direct à l'intérieur."
+                "fr": "Utilisez le parking 'Grands Hommes' pour un accès couvert direct."
               }
             },
             {
@@ -1762,7 +1798,7 @@
                 "hu": "Tökéletes hely heves esőben; a létesítmény teljesen fedett.",
                 "ro": "Loc perfect pentru ploaie torențială; locația e complet acoperită.",
                 "en": "Perfect spot for heavy rain; the entire facility is covered.",
-                "fr": "Endroit parfait pour les fortes pluies ; toute l'installation est couverte."
+                "fr": "Endroit parfait par forte pluie ; l'ensemble du site est couvert."
               }
             },
             {
@@ -1772,7 +1808,7 @@
                 "hu": "A vizes homok nehéz és nem csúszik, de a cipő koszos lesz.",
                 "ro": "Nisipul ud este greu și aderent, dar pantofii se vor murdări.",
                 "en": "Wet sand is heavy and firm to walk on, but shoes will get messy.",
-                "fr": "Le sable mouillé est lourd et ferme pour marcher, mais les chaussures seront salies."
+                "fr": "Le sable mouillé est lourd et ferme à la marche, mais les chaussures se salissent."
               }
             },
             {
@@ -1782,7 +1818,7 @@
                 "hu": "Csodálja meg az építészetet kényelmesen az autóból.",
                 "ro": "Admirați arhitectura confortabil, direct din mașină.",
                 "en": "Admire the architecture comfortably from the warmth of your car.",
-                "fr": "Admirez l'architecture confortablement au chaud depuis votre voiture."
+                "fr": "Admirez l'architecture confortablement depuis la chaleur de votre voiture."
               }
             }
           ],
@@ -1812,10 +1848,10 @@
               "Keep wet umbrellas in the trunk to prevent windows from fogging up."
             ],
             "fr": [
-              "Réservez votre parking au centre-ville pour minimiser la marche sous la pluie.",
-              "La visibilité sur l'autoroute vers Arcachon peut être mauvaise lors des averses.",
-              "Arcachon possède de nombreux cafés en bord de mer avec des auvents protecteurs.",
-              "Gardez les parapluies mouillés dans le coffre pour éviter la buée sur les vitres."
+              "Pré-réservez un parking en centre-ville pour minimiser les marches sous la pluie.",
+              "La visibilité sur l'autoroute vers Arcachon peut être mauvaise lors de fortes averses.",
+              "Arcachon a de nombreux cafés en bord de mer avec auvents protecteurs.",
+              "Gardez des parapluies mouillés dans le coffre pour éviter que les vitres ne s'embuent."
             ]
           }
         },
@@ -1825,7 +1861,7 @@
             "hu": "A tiszta téli reggel a Triangle d'Or-ban Bordeaux legelegánsabb arcát mutatja. Délben a Bassins des Lumières digitális művészeti világában merülünk el. A part menti autózás a Dune du Pilat-hoz vezet, amely télen szinte néptelen és varázslatos. A napot Arcachon Ville d'Hiver negyedében zárjuk, amely télen is hű a nevéhez.",
             "ro": "O dimineață senină de iarnă în Triangle d'Or arată Bordeaux în cea mai elegantă formă. La prânz intrăm în lumea digitală de la Bassins des Lumières. Drumul spre coastă ne duce la Dune du Pilat, magică și pustie iarna. Încheiem ziua în Ville d'Hiver din Arcachon, un cartier cu nume predestinat.",
             "en": "A clear winter morning in the Triangle d'Or shows Bordeaux at its most elegant. At noon, we dive into the digital art world of Bassins des Lumières. The coastal drive takes us to Dune du Pilat, which is almost deserted and magical in winter. We conclude the day in Arcachon's Ville d'Hiver, a district whose name fits the season perfectly.",
-            "fr": "Un matin d'hiver clair dans le Triangle d'Or montre Bordeaux sous son jour le plus élégant. À midi, nous plongeons dans l'art numérique des Bassins des Lumières. La route côtière nous mène à la Dune du Pilat, presque déserte et magique en hiver. Nous terminons la journée dans la Ville d'Hiver d'Arcachon, un quartier dont le nom correspond parfaitement à la saison."
+            "fr": "Un matin d'hiver clair dans le Triangle d'Or montre Bordeaux sous son aspect le plus élégant. À midi, nous plongeons dans l'univers de l'art numérique des Bassins des Lumières. La route côtière nous mène à la Dune du Pilat, presque déserte et magique en hiver. Nous concluons la journée dans la Ville d'Hiver d'Arcachon, un quartier dont le nom sied parfaitement à la saison."
           },
           "stops": [
             {
@@ -1835,7 +1871,7 @@
                 "hu": "A kirakatok télen gyakran gazdagon díszítettek.",
                 "ro": "Vitrinele sunt adesea decorate spectaculos pe timpul iernii.",
                 "en": "Shop windows are often elaborately decorated during winter.",
-                "fr": "Les vitrines sont souvent richement décorées pendant l'hiver."
+                "fr": "Les vitrines sont souvent richement décorées en hiver."
               }
             },
             {
@@ -1845,7 +1881,7 @@
                 "hu": "A tengeralattjáró-bunker télen hűvös; hagyja magán a kabátot.",
                 "ro": "Buncărele sunt destul de reci iarna; păstrați jacheta pe dvs.",
                 "en": "The submarine pens are quite chilly in winter; keep your coat on.",
-                "fr": "La base sous-marine est assez fraîche en hiver ; gardez votre manteau."
+                "fr": "Les pensés-submersibles sont assez frais en hiver ; gardez votre manteau."
               }
             },
             {
@@ -1855,7 +1891,7 @@
                 "hu": "A lépcsőket télen gyakran elbontják; a mászás tiszta homok.",
                 "ro": "Scările sunt adesea demontate iarna; urcarea se face prin nisip.",
                 "en": "Stairs are often removed in winter; the climb is through pure sand.",
-                "fr": "Les escaliers sont souvent retirés en hiver ; l'ascension se fait dans le sable pur."
+                "fr": "Les escaliers sont souvent retirés en hiver ; la montée se fait dans le pur sable."
               }
             },
             {
@@ -1895,10 +1931,10 @@
               "Use the seat heaters for the cozy drive back to Bordeaux."
             ],
             "fr": [
-              "Vérifiez la pression des pneus, car elle peut baisser avec le froid.",
-              "La Dune du Pilat est souvent très venteuse en hiver ; habillez-vous chaudement.",
-              "De nombreux restaurants à Arcachon sont fermés durant la saison hivernale.",
-              "Utilisez les sièges chauffants pour le trajet retour confortable vers Bordeaux."
+              "Vérifiez la pression des pneus car elle peut baisser par temps plus froid.",
+              "La Dune du Pilat est souvent très venteuse en hiver ; habillez-vous chaudement.",
+              "Beaucoup de restaurants à Arcachon sont fermés pendant la saison hivernale.",
+              "Utilisez les sièges chauffants pour le retour confortable à Bordeaux."
             ]
           }
         }
@@ -1966,7 +2002,7 @@
             "hu": "Központi átszállóhely a folyóparton.",
             "ro": "Punct central de transfer pe malul râului.",
             "en": "Central transfer hub by the river.",
-            "fr": "Plaque tournante centrale au bord du fleuve."
+            "fr": "Nœud de correspondance central au bord de la rivière."
           }
         },
         {
@@ -1985,7 +2021,7 @@
             "hu": "Nyüzsgő negyed pompás bazilikával.",
             "ro": "Cartier vibrant cu o bazilică splendidă.",
             "en": "Lively neighborhood with a grand basilica.",
-            "fr": "Quartier animé avec une basilique imposante."
+            "fr": "Quartier animé avec une grande basilique."
           }
         },
         {
@@ -2004,7 +2040,7 @@
             "hu": "Bordeaux éléskamrája - igazi gasztroélmény.",
             "ro": "Pântecele orașului Bordeaux - o experiență culinară.",
             "en": "The belly of Bordeaux - a culinary feast.",
-            "fr": "Le ventre de Bordeaux - un festin culinaire."
+            "fr": "Le ventre de Bordeaux – un festin culinaire."
           }
         }
       ],
@@ -2013,7 +2049,7 @@
         "hu": "Reggel a Quinconces teret nézzük meg villamossal. Délben északra utazunk a Bormúzeumba. Délután a Saint-Michel negyedet és a bazilikát fedezzük fel. Este a híres Capucins piacon kóstoljuk meg a helyi ízeket.",
         "ro": "Dimineața vizităm piața Quinconces cu tramvaiul. La prânz mergem spre nord la Cité du Vin. După-amiaza explorăm cartierul Saint-Michel și bazilica sa. Seara savurăm delicatese locale în faimoasa piață Marché des Capucins.",
         "en": "Morning visit to the Quinconces square by tram. Midday journey to the Cité du Vin in the north. In the afternoon, explore the Saint-Michel district and its basilica. Evening enjoyment of local flavors at the Marché des Capucins.",
-        "fr": "Matinée à la place des Quinconces en tramway. À midi, trajet vers la Cité du Vin au nord. L'après-midi, exploration du quartier Saint-Michel et de sa basilique. Soirée gourmande au Marché des Capucins."
+        "fr": "Visite matinale de la place des Quinconces en tram. Déjeuner à la Cité du Vin au nord. L'après‑midi, explorez le quartier Saint‑Michel et sa basilique. Dégustation en soirée des spécialités locales au Marché des Capucins."
       },
       "gastro_picks": {
         "de": [
@@ -2162,10 +2198,10 @@
           "Use the 'TBM' mobile app for real-time info."
         ],
         "fr": [
-          "Achetez un pass journée pour le réseau de transport TBM.",
-          "Les lignes de tram A, B et C desservent tous les sites majeurs.",
-          "Validez votre titre de transport à chaque montée.",
-          "Utilisez l'application mobile 'TBM' pour les infos en temps réel."
+          "Achetez un ticket journée pour le réseau TBM.",
+          "Les lignes de tram A, B et C desservent tous les principaux sites.",
+          "Validez votre titre de transport à chaque montée à bord.",
+          "Utilisez l'application mobile « TBM » pour des infos en temps réel."
         ]
       },
       "variants": {
@@ -2174,7 +2210,8 @@
             "de": "Morgens besuchen Sie die Quinconces mit der Tram. Mittags fahren Sie zur Cité du Vin im Norden. Nachmittags erkunden Sie das Saint-Michel-Viertel mit seiner Basilika. Abends genießen Sie lokale Köstlichkeiten auf dem berühmten Marché des Capucins.",
             "hu": "Reggel a Quinconces teret nézzük meg villamossal. Délben északra utazunk a Bormúzeumba. Délután a Saint-Michel negyedet és a bazilikát fedezzük fel. Este a híres Capucins piacon kóstoljuk meg a helyi ízeket.",
             "ro": "Dimineața vizităm piața Quinconces cu tramvaiul. La prânz mergem spre nord la Cité du Vin. După-amiaza explorăm cartierul Saint-Michel și bazilica sa. Seara savurăm delicatese locale în faimoasa piață Marché des Capucins.",
-            "en": "Morning visit to the Quinconces square by tram. Midday journey to the Cité du Vin in the north. In the afternoon, explore the Saint-Michel district and its basilica. Evening enjoyment of local flavors at the Marché des Capucins."
+            "en": "Morning visit to the Quinconces square by tram. Midday journey to the Cité du Vin in the north. In the afternoon, explore the Saint-Michel district and its basilica. Evening enjoyment of local flavors at the Marché des Capucins.",
+            "fr": "Visite matinale de la place des Quinconces en tram. Déjeuner à la Cité du Vin au nord. L'après‑midi, explorez le quartier Saint‑Michel et sa basilique. Dégustation en soirée des spécialités locales au Marché des Capucins."
           },
           "stops": [
             {
@@ -2183,7 +2220,8 @@
                 "de": "Der größte Platz Frankreichs mit dem Girondins-Monument.",
                 "hu": "Franciaország legnagyobb tere a Girondins-emlékművel.",
                 "ro": "Cea mai mare piață din Franța, cu monumentul Girondinilor.",
-                "en": "The largest square in France with the Girondins monument."
+                "en": "The largest square in France with the Girondins monument.",
+                "fr": "La plus grande place de France avec le monument aux Girondins."
               }
             },
             {
@@ -2192,7 +2230,8 @@
                 "de": "Mit der Tramlinie B direkt erreichbar.",
                 "hu": "A B villamosvonalon közvetlenül elérhető.",
                 "ro": "Accesibil direct cu linia de tramvai B.",
-                "en": "Easily accessible via tram line B."
+                "en": "Easily accessible via tram line B.",
+                "fr": "Facilement accessible via la ligne de tram B."
               }
             },
             {
@@ -2201,7 +2240,8 @@
                 "de": "Zentraler Umstiegspunkt am Fluss.",
                 "hu": "Központi átszállóhely a folyóparton.",
                 "ro": "Punct central de transfer pe malul râului.",
-                "en": "Central transfer hub by the river."
+                "en": "Central transfer hub by the river.",
+                "fr": "Nœud de correspondance central au bord de la rivière."
               }
             },
             {
@@ -2210,7 +2250,8 @@
                 "de": "Lebhaftes Viertel mit prächtiger Basilika.",
                 "hu": "Nyüzsgő negyed pompás bazilikával.",
                 "ro": "Cartier vibrant cu o bazilică splendidă.",
-                "en": "Lively neighborhood with a grand basilica."
+                "en": "Lively neighborhood with a grand basilica.",
+                "fr": "Quartier animé avec une grande basilique."
               }
             },
             {
@@ -2219,7 +2260,8 @@
                 "de": "Der Bauch von Bordeaux - ein Schmaus.",
                 "hu": "Bordeaux éléskamrája - igazi gasztroélmény.",
                 "ro": "Pântecele orașului Bordeaux - o experiență culinară.",
-                "en": "The belly of Bordeaux - a culinary feast."
+                "en": "The belly of Bordeaux - a culinary feast.",
+                "fr": "Le ventre de Bordeaux – un festin culinaire."
               }
             }
           ],
@@ -2345,6 +2387,12 @@
               "Tram lines A, B, and C cover all major sights.",
               "Validate your ticket upon boarding every time.",
               "Use the 'TBM' mobile app for real-time info."
+            ],
+            "fr": [
+              "Achetez un ticket journée pour le réseau TBM.",
+              "Les lignes de tram A, B et C desservent tous les principaux sites.",
+              "Validez votre titre de transport à chaque montée à bord.",
+              "Utilisez l'application mobile « TBM » pour des infos en temps réel."
             ]
           }
         },
@@ -2354,7 +2402,7 @@
             "hu": "A reggel a Quinconces-nél az esőbeálló alatti várakozással indul. A B villamos szárazon visz minket a Cité du Vin-hez egy kiadós ebédre. Délután felfedezzük a Porte de Bourgogne-t, majd a Saint-Michel bazilikához sietünk. Az estét a nyüzsgő, fedett Marché des Capucins-ben töltjük borral és osztrigával.",
             "ro": "Dimineața la Quinconces începe cu așteptarea sub copertina stației. Tramvaiul B ne duce la uscat direct la Cité du Vin pentru prânz. După-amiaza explorăm Porte de Bourgogne, apoi ne grăbim spre Bazilica Saint-Michel. Seara o petrecem în Marché des Capucins, acoperit, cu vin și stridii.",
             "en": "Morning at Quinconces starts with waiting under the transit shelter. Tram B takes us dry directly to Cité du Vin for a long lunch. In the afternoon, we explore Porte de Bourgogne before rushing to Saint-Michel Basilica. We spend the evening in the bustling, covered Marché des Capucins with wine and oysters.",
-            "fr": "Matinée aux Quinconces commençant sous l'abri du tram. Le tram B nous emmène au sec directement à la Cité du Vin pour un long déjeuner. L'après-midi, nous explorons la porte de Bourgogne avant de rejoindre la basilique Saint-Michel. Nous passons la soirée dans l'effervescence du Marché des Capucins couvert, entre vin et huîtres."
+            "fr": "La matinée aux Quinconces commence sous l'abri du tram. Le tram B nous emmène au sec directement à la Cité du Vin pour un long déjeuner. L'après‑midi, nous explorons la Porte de Bourgogne avant de filer à la basilique Saint‑Michel. Nous passons la soirée au couvert et animé Marché des Capucins autour de vins et d'huîtres."
           },
           "stops": [
             {
@@ -2374,7 +2422,7 @@
                 "hu": "A megállótól a bejáratig tartó út mindössze 2 perc.",
                 "ro": "Drumul de la stație până la intrare durează doar 2 minute.",
                 "en": "The walk from the tram stop to the entrance is only 2 minutes.",
-                "fr": "La marche depuis l'arrêt de tram jusqu'à l'entrée n'est que de 2 minutes."
+                "fr": "La marche depuis l'arrêt de tram jusqu'à l'entrée ne prend que 2 minutes."
               }
             },
             {
@@ -2384,7 +2432,7 @@
                 "hu": "Fontos átszállópont; esőben maradjon az árkádok alatt.",
                 "ro": "Punct major de transfer; stați sub arcade dacă plouă.",
                 "en": "Major transfer point; stay under the arcades if it is raining.",
-                "fr": "Point de transfert majeur ; restez sous les arcades s'il pleut."
+                "fr": "Point de correspondance majeur ; restez sous les arcades s'il pleut."
               }
             },
             {
@@ -2394,7 +2442,7 @@
                 "hu": "A belső tér tágas és ideális hely a bemelegedésre.",
                 "ro": "Interiorul este vast și un loc ideal pentru a vă încălzi.",
                 "en": "The interior is vast and an ideal place to warm up.",
-                "fr": "L'intérieur est vaste et idéal pour se réchauffer."
+                "fr": "L'intérieur est vaste et un endroit idéal pour se réchauffer."
               }
             },
             {
@@ -2404,7 +2452,7 @@
                 "hu": "Az egész piac fedett; tökéletes az esős estékre.",
                 "ro": "Întreaga piață este acoperită; perfect pentru serile ploioase.",
                 "en": "The entire market is indoor; perfect for rainy evenings.",
-                "fr": "Le marché est entièrement couvert ; parfait pour les soirées pluvieuses."
+                "fr": "Tout le marché est couvert ; parfait pour les soirées pluvieuses."
               }
             }
           ],
@@ -2434,10 +2482,10 @@
               "Avoid rush hours when everyone crowds into the dry trams."
             ],
             "fr": [
-              "Les tramways de Bordeaux sont modernes et climatisés.",
-              "Téléchargez l'application TBM pour les retards liés à la pluie en temps réel.",
-              "Le Marché des Capucins est le lieu idéal pour un dîner au sec.",
-              "Évitez les heures de pointe quand tout le monde s'entasse dans les trams au sec."
+              "Les trams de Bordeaux sont modernes et bien climatisés.",
+              "Téléchargez l'application TBM pour des infos en temps réel sur les retards dus à la pluie.",
+              "Le Marché des Capucins est l'endroit ultime pour un dîner au sec.",
+              "Évitez les heures de pointe quand tout le monde se presse dans les trams abrités."
             ]
           }
         },
@@ -2447,7 +2495,7 @@
             "hu": "A ködös téli reggel a Quinconces-nél nyugodt városnézést ígér. A meleg B villamos elvisz minket a Cité du Vin-hez egy száraz borkalandozásra. Délután a Porte de Bourgogne fagyos kilátást nyújt a folyóra, mielőtt a Saint-Michel bazilikában melegednénk fel. Az estét a Marché des Capucins-ben zárjuk kiadós helyi különlegességekkel.",
             "ro": "O dimineață cețoasă de iarnă la Quinconces promite o explorare liniștită. Tramvaiul B ne duce la Cité du Vin pentru o călătorie viticolă la căldură. După-amiaza, Porte de Bourgogne oferă o priveliște geroasă spre râu, înainte de a ne încălzi în Bazilică. Seara se încheie la Marché des Capucins cu specialități locale.",
             "en": "A misty winter morning at Quinconces promises a quiet city exploration. The warm Tram B whisks us to Cité du Vin for an indoor wine journey. In the afternoon, Porte de Bourgogne offers a frosty river view before we warm up in Saint-Michel Basilica. We end the evening cozily at Marché des Capucins with hearty local specialties.",
-            "fr": "Un matin d'hiver brumeux aux Quinconces promet une exploration paisible de la ville. Le tram B chauffé nous emmène à la Cité du Vin pour un voyage viticole en intérieur. L'après-midi, la porte de Bourgogne offre une vue givrée sur le fleuve avant de se réchauffer dans la basilique Saint-Michel. Soirée douillette au Marché des Capucins avec des spécialités locales consistantes."
+            "fr": "Un matin d'hiver brumeux aux Quinconces promet une exploration calme de la ville. Le tram B chauffé nous conduit à la Cité du Vin pour un parcours œnologique en intérieur. L'après‑midi, la Porte de Bourgogne offre une vue fluviale glaciale avant de nous réchauffer à la basilique Saint‑Michel. Nous terminons la soirée au Marché des Capucins, confortablement, autour de spécialités locales copieuses."
           },
           "stops": [
             {
@@ -2457,7 +2505,7 @@
                 "hu": "Decemberben itt gyakran hangulatos karácsonyi vásár várja.",
                 "ro": "În decembrie, aici are loc adesea un târg de Crăciun frumos.",
                 "en": "In December, a beautiful Christmas market often takes place here.",
-                "fr": "En décembre, un beau marché de Noël a souvent lieu ici."
+                "fr": "En décembre, un joli marché de Noël a souvent lieu ici."
               }
             },
             {
@@ -2467,7 +2515,7 @@
                 "hu": "A legfelső emeletről melegben csodálhatja meg a téli Bordeaux-t.",
                 "ro": "Ultimul etaj oferă o vedere caldă asupra orașului iarna.",
                 "en": "The top floor offers a warm view of winter Bordeaux.",
-                "fr": "Le dernier étage offre une vue chaleureuse sur le Bordeaux hivernal."
+                "fr": "Le dernier étage offre une vue chaleureuse sur Bordeaux en hiver."
               }
             },
             {
@@ -2477,7 +2525,7 @@
                 "hu": "A folyó felőli szél itt télen nagyon metsző lehet.",
                 "ro": "Vântul de pe râu poate fi foarte tăios aici pe timpul iernii.",
                 "en": "The wind from the river can be very piercing here in winter.",
-                "fr": "Le vent du fleuve peut être très perçant ici en hiver."
+                "fr": "Le vent de la rivière peut être très pénétrant ici en hiver."
               }
             },
             {
@@ -2487,7 +2535,7 @@
                 "hu": "Ellenőrizze a nyitvatartást; télen gyakran rövidebb.",
                 "ro": "Verificați programul; iarna orele sunt adesea reduse.",
                 "en": "Check the opening hours; they are often shorter during winter.",
-                "fr": "Vérifiez les horaires d'ouverture ; ils sont souvent réduits en hiver."
+                "fr": "Vérifiez les horaires d'ouverture ; ils sont souvent plus courts en hiver."
               }
             },
             {
@@ -2497,7 +2545,7 @@
                 "hu": "Ideális egy késői, meleg ebédhez vagy vacsorához.",
                 "ro": "Ideal pentru un prânz sau o cină caldă târzie.",
                 "en": "Ideal for a late, warm lunch or a cozy winter dinner.",
-                "fr": "Idéal pour un déjeuner tardif au chaud ou un dîner d'hiver douillet."
+                "fr": "Idéal pour un déjeuner tardif et chaud ou un dîner cosy d'hiver."
               }
             }
           ],
@@ -2527,10 +2575,10 @@
               "A day pass is worth it to frequently jump into the warmth."
             ],
             "fr": [
-              "Les trams sont bien chauffés en hiver ; idéal pour se réchauffer vite.",
-              "Attention aux marches glissantes en montant ou descendant du véhicule.",
-              "Il fait nuit après 17h00, mais les trajets en tram sont bien éclairés.",
-              "Un pass journée vaut le coup pour sauter fréquemment au chaud."
+              "Les trams sont bien chauffés en hiver ; parfaits pour se réchauffer rapidement.",
+              "Faites attention aux marches glissantes en montant ou descendant du véhicule.",
+              "Il fait nuit après 17h00, mais les lignes de tram sont bien éclairées.",
+              "Un ticket journée vaut le coup pour sauter fréquemment dans la chaleur."
             ]
           }
         }

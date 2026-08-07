@@ -21,7 +21,8 @@
             "de": "Maison Jayet",
             "hu": "Maison Jayet",
             "ro": "Maison Jayet",
-            "en": "Maison Jayet"
+            "en": "Maison Jayet",
+            "fr": "Maison Jayet"
           },
           "coords": [
             4.120457,
@@ -36,7 +37,8 @@
             "de": "Bewundern Sie die markante Renaissance-Fassade des Rathauses, ein Symbol des Bürgerstolzes, und fotografieren Sie die kunstvollen Steinschnitzereien.",
             "hu": "Csodálja meg a városháza lenyűgöző reneszánsz homlokzatát, és készítsen egy gyors fotót a bonyolult kőfaragványokról, miközben átsétál a téren.",
             "ro": "Admirați fațada renascentistă impresionantă a primăriei, un simbol al mândriei civice, și faceți o fotografie rapidă a sculpturilor în piatră.",
-            "en": "Admire the striking Renaissance facade of the town hall, a symbol of civic pride, and grab a quick photo of its intricate stone carvings."
+            "en": "Admire the striking Renaissance facade of the town hall, a symbol of civic pride, and grab a quick photo of its intricate stone carvings.",
+            "fr": "Admirez la façade Renaissance frappante de l'hôtel de ville, symbole de fierté civique, et prenez une photo rapide de ses sculptures de pierre finement travaillées."
           }
         },
         {
@@ -44,7 +46,8 @@
             "de": "Saint-Nicolas-Turm",
             "hu": "Saint-Nicolas torony",
             "ro": "Turnul Saint-Nicolas",
-            "en": "Saint-Nicolas Tower"
+            "en": "Saint-Nicolas Tower",
+            "fr": "Tour Saint-Nicolas"
           },
           "coords": [
             4.120444,
@@ -59,7 +62,8 @@
             "de": "Entdecken Sie diesen historischen Uhrenturm aus dem sechzehnten Jahrhundert und lauschen Sie dem Glockenspiel, das durch die alten Gassen hallt.",
             "hu": "Fedezze fel a tizenhatodik századból származó történelmi óratornyot, és hallgassa figyelmesen az óváros utcáin visszhangzó harangjátékot.",
             "ro": "Descoperiți acest turn istoric cu ceas datând din secolul al șaisprezecelea și ascultați cu atenție clopotele care răsună pe străzile vechi.",
-            "en": "Discover this historical clock tower, which dates back to the sixteenth century, and listen closely to hear the chimes echoing through the old streets."
+            "en": "Discover this historical clock tower, which dates back to the sixteenth century, and listen closely to hear the chimes echoing through the old streets.",
+            "fr": "Découvrez cette tour horloge historique, datant du XVIe siècle, et écoutez attentivement les cloches résonner dans les anciennes rues."
           }
         },
         {
@@ -67,7 +71,8 @@
             "de": "Colombière-Kapelle",
             "hu": "Colombière kápolna",
             "ro": "Capela Colombière",
-            "en": "Colombière Chapel"
+            "en": "Colombière Chapel",
+            "fr": "Chapelle de la Colombière"
           },
           "coords": [
             4.123884,
@@ -82,7 +87,8 @@
             "de": "Treten Sie in diese ruhige Jesuitenkapelle ein, die dem Heiligen Claude de la Colombière gewidmet ist, um moderne Mosaike in Stille zu betrachten.",
             "hu": "Lépjen be a Claude de la Colombière Szentnek szentelt csendes jezsuita kápolnába, és találjon egy pillanatnyi békét a gyönyörű modern mozaikok alatt.",
             "ro": "Pășiți în această capelă iezuită liniștită dedicată Sfântului Claude de la Colombière pentru un moment de pace și pentru a admira mozaicurile.",
-            "en": "Step inside this tranquil Jesuit chapel dedicated to Saint Claude de la Colombière to find a moment of peace and observe the beautiful modern mosaics."
+            "en": "Step inside this tranquil Jesuit chapel dedicated to Saint Claude de la Colombière to find a moment of peace and observe the beautiful modern mosaics.",
+            "fr": "Entrez dans cette chapelle jésuite paisible dédiée à saint Claude de la Colombière pour trouver un moment de recueillement et observer les belles mosaïques modernes."
           }
         },
         {
@@ -90,7 +96,8 @@
             "de": "Hiéron-Museum",
             "hu": "Hiéron Múzeum",
             "ro": "Muzeul Hiéron",
-            "en": "Hiéron Museum"
+            "en": "Hiéron Museum",
+            "fr": "Musée du Hiéron"
           },
           "coords": [
             4.1231,
@@ -105,7 +112,8 @@
             "de": "Erkunden Sie dieses bemerkenswerte Museum für sakrale Kunst mit seinem nationalen Schatz, aber prüfen Sie vorab die saisonalen Öffnungszeiten.",
             "hu": "Fedezze fel ezt a szakrális művészetnek szentelt figyelemre méltó múzeumot, és nézze meg a nemzeti kincset, de előbb ellenőrizze a nyitvatartást.",
             "ro": "Explorați acest muzeu remarcabil dedicat artei sacre ce adăpostește o comoară națională, dar nu uitați să verificați programul de vizitare în prealabil.",
-            "en": "Explore this remarkable museum dedicated to sacred art, housing a stunning national treasure, but remember to check the seasonal opening hours beforehand."
+            "en": "Explore this remarkable museum dedicated to sacred art, housing a stunning national treasure, but remember to check the seasonal opening hours beforehand.",
+            "fr": "Explorez ce musée remarquable dédié à l'art sacré, qui abrite un trésor national époustouflant, mais pensez à vérifier les horaires d'ouverture saisonniers au préalable."
           }
         },
         {
@@ -113,7 +121,8 @@
             "de": "Herz-Jesu-Basilika",
             "hu": "Szent Szív Bazilika",
             "ro": "Bazilica Inimii Sacre",
-            "en": "Basilica of the Sacred Heart"
+            "en": "Basilica of the Sacred Heart",
+            "fr": "Basilique du Sacré-Cœur"
           },
           "coords": [
             4.121709,
@@ -128,7 +137,8 @@
             "de": "Bestaunen Sie dieses Meisterwerk der cluniazensischen Romanik, eine bedeutende Pilgerstätte, und nehmen Sie sich Zeit für die tiefgründigen Fresken.",
             "hu": "Csodálja meg a clunyi román stílusú építészet remekművét, a fontos zarándokhelyet, és szánjon időt a csodálatos freskók aprólékos tanulmányozására.",
             "ro": "Minunați-vă de această capodoperă a arhitecturii romanice de la Cluny, un loc de pelerinaj, și acordați-vă timp pentru a studia frescele din absidă.",
-            "en": "Marvel at this masterpiece of Cluniac Romanesque architecture, a major pilgrimage site, and take your time to study the profound frescoes in the apse."
+            "en": "Marvel at this masterpiece of Cluniac Romanesque architecture, a major pilgrimage site, and take your time to study the profound frescoes in the apse.",
+            "fr": "Émerveillez-vous devant ce chef-d'œuvre de l'architecture romane clunisienne, un important lieu de pèlerinage, et prenez le temps d'étudier les fresques profondes de l'abside."
           }
         },
         {
@@ -136,7 +146,8 @@
             "de": "Moulin-Liron-Park",
             "hu": "Moulin Liron Park",
             "ro": "Parcul Moulin Liron",
-            "en": "Moulin Liron Park"
+            "en": "Moulin Liron Park",
+            "fr": "Parc du Moulin Liron"
           },
           "coords": [
             4.122579,
@@ -151,7 +162,8 @@
             "de": "Entspannen Sie sich in dieser weitläufigen grünen Oase gleich hinter der Basilika, die sich perfekt für einen gemütlichen Spaziergang am Fluss eignet.",
             "hu": "Pihenjen meg a bazilika mögött található tágas zöld oázisban, amely tökéletes egy nyugodt sétához vagy egy kis piknikhez a Bourbince folyó partján.",
             "ro": "Relaxați-vă în această oază verde întinsă din spatele bazilicii, perfectă pentru o plimbare liniștită sau un mic picnic pe malul râului Bourbince.",
-            "en": "Relax in this expansive green oasis situated just behind the basilica, perfect for a leisurely stroll or enjoying a small picnic beside the river Bourbince."
+            "en": "Relax in this expansive green oasis situated just behind the basilica, perfect for a leisurely stroll or enjoying a small picnic beside the river Bourbince.",
+            "fr": "Détendez-vous dans cette vaste oasis verte située juste derrière la basilique, parfaite pour une promenade tranquille ou un petit pique-nique au bord de la Bourbince."
           }
         },
         {
@@ -159,7 +171,8 @@
             "de": "Canal du Centre",
             "hu": "Canal du Centre",
             "ro": "Canal du Centre",
-            "en": "Canal du Centre"
+            "en": "Canal du Centre",
+            "fr": "Canal du Centre"
           },
           "coords": [
             4.120619,
@@ -174,7 +187,8 @@
             "de": "Spazieren Sie am ruhigen Wasser des Kanals entlang, der Loire und Saône verbindet, und beobachten Sie die kleinen Boote bei der Durchfahrt der Schleusen.",
             "hu": "Sétáljon vagy kerékpározzon a Loire-t és a Saône-t összekötő csatorna békés vizei mentén, és figyelje a történelmi zsilipeken áthaladó kishajókat.",
             "ro": "Plimbați-vă de-a lungul apelor pașnice ale canalului care leagă Loire de Saône și urmăriți bărcile mici care trec prin ecluzele istorice pitorești.",
-            "en": "Walk or cycle along the peaceful waters of the canal connecting the Loire and Saône, and watch the small boats navigating through the historic locks."
+            "en": "Walk or cycle along the peaceful waters of the canal connecting the Loire and Saône, and watch the small boats navigating through the historic locks.",
+            "fr": "Marchez ou faites du vélo le long des eaux paisibles du canal reliant la Loire et la Saône, et regardez les petits bateaux franchir les écluses historiques."
           }
         }
       ],
@@ -182,7 +196,8 @@
         "de": "Beginnen Sie den Morgen mit der beeindruckenden Architektur des Maison Jayet und dem historischen Saint-Nicolas-Turm.\n\nSuchen Sie mittags Ruhe in der Colombière-Kapelle, bevor Sie das Hiéron-Museum besuchen.\n\nVerbringen Sie den Nachmittag damit, die ehrfurchtgebietende Herz-Jesu-Basilika zu bestaunen.\n\nBeenden Sie den Tag mit einem entspannten Spaziergang durch den Moulin-Liron-Park und entlang des ruhigen Canal du Centre.",
         "hu": "Kezdje a reggelt a Maison Jayet és a történelmi Saint-Nicolas torony lenyűgöző építészetének megcsodálásával.\n\nKora délután találjon békét a Colombière kápolnában, majd fedezze fel a Hiéron Múzeumot.\n\nA délutánt a csodálatos Szent Szív Bazilika felfedezésével töltheti.\n\nZárja a napot egy pihentető naplementés sétával a Moulin Liron parkban és a békés Canal du Centre partján.",
         "ro": "Începeți dimineața admirând arhitectura impresionantă de la Maison Jayet și turnul istoric Saint-Nicolas.\n\nLa prânz, găsiți liniștea în Capela Colombière înainte de a vizita Muzeul Hiéron.\n\nPetreceți după-amiaza minunându-vă de impresionanta Bazilică a Inimii Sacre.\n\nÎncheiați ziua cu o plimbare relaxantă la apus prin Parcul Moulin Liron și pe malul pașnic al Canal du Centre.",
-        "en": "Start your morning admiring the impressive architecture of Maison Jayet and the historic Saint-Nicolas Tower.\n\nAs midday approaches, find peace inside the Colombière Chapel before diving into the religious heritage at the Hiéron Museum.\n\nSpend your afternoon marveling at the awe-inspiring Basilica of the Sacred Heart.\n\nConclude the day with a relaxing sunset stroll through Moulin Liron Park and by the tranquil Canal du Centre."
+        "en": "Start your morning admiring the impressive architecture of Maison Jayet and the historic Saint-Nicolas Tower.\n\nAs midday approaches, find peace inside the Colombière Chapel before diving into the religious heritage at the Hiéron Museum.\n\nSpend your afternoon marveling at the awe-inspiring Basilica of the Sacred Heart.\n\nConclude the day with a relaxing sunset stroll through Moulin Liron Park and by the tranquil Canal du Centre.",
+        "fr": "Commencez votre matinée en admirant l'architecture impressionnante de la Maison Jayet et de la tour historique Saint-Nicolas.\n\nÀ l'approche du midi, trouvez la paix à l'intérieur de la chapelle de la Colombière avant de plonger dans le patrimoine religieux du musée du Hiéron.\n\nPassez votre après-midi à vous émerveiller devant la basilique du Sacré-Cœur.\n\nConcluez la journée par une promenade relaxante au coucher du soleil dans le parc du Moulin Liron et le long du paisible canal du Centre."
       },
       "variants": {
         "rainy": {
@@ -190,7 +205,8 @@
             "de": "Beginnen Sie Ihren regnerischen Morgen an der Maison Jayet und dem Saint-Nicolas-Turm mit einem Regenschirm. Suchen Sie mittags Schutz in der Colombière-Kapelle und im Hiéron-Museum. Bewundern Sie nachmittags das Innere der Herz-Jesu-Basilika, während es draußen regnet. Beenden Sie den Tag mit einem nassen Spaziergang durch den Moulin-Liron-Park zum Canal du Centre in wasserfesten Schuhen.",
             "hu": "Kezdje esős reggelét a történelmi Maison Jayet és a Saint-Nicolas torony felfedezésével egy esernyővel. Délben keressen menedéket a Colombière kápolnában és a Hiéron Múzeumban. Délután csodálja meg a Szent Szív Bazilika belső terét, miközben kint esik az eső. Zárja a napot egy frissítő, nedves sétával a Moulin Liron Parkon át a Canal du Centre-ig, mindenképp vízálló cipőben.",
             "ro": "Începeți dimineața ploioasă la istorica Maison Jayet și Turnul Saint-Nicolas cu o umbrelă robustă. La prânz, adăpostiți-vă în Capela Colombière și fascinantul Muzeu Hiéron. După-amiaza, admirați interiorul Bazilicii Inimii Sacre în timp ce afară plouă. Încheiați cu o plimbare umedă prin Parcul Moulin Liron spre Canal du Centre, purtând cizme și haine impermeabile.",
-            "en": "Start your rainy morning at the historic Maison Jayet and Saint-Nicolas Tower with a sturdy umbrella. By midday, take shelter in the Colombière Chapel and the fascinating Hiéron Museum. In the afternoon, admire the Sacred Heart Basilica's interior while the rain falls outside. Conclude with a brisk, wet walk through Moulin Liron Park to the Canal du Centre, wearing waterproof boots."
+            "en": "Start your rainy morning at the historic Maison Jayet and Saint-Nicolas Tower with a sturdy umbrella. By midday, take shelter in the Colombière Chapel and the fascinating Hiéron Museum. In the afternoon, admire the Sacred Heart Basilica's interior while the rain falls outside. Conclude with a brisk, wet walk through Moulin Liron Park to the Canal du Centre, wearing waterproof boots.",
+            "fr": "Commencez votre matinée pluvieuse à la Maison Jayet et à la tour Saint-Nicolas avec un parapluie solide. À midi, abritez-vous dans la chapelle de la Colombière et le fascinant musée du Hiéron. L'après-midi, admirez l'intérieur de la basilique du Sacré-Cœur pendant que la pluie tombe dehors. Terminez par une promenade rapide et humide dans le parc du Moulin Liron jusqu'au canal du Centre, en portant des bottes imperméables."
           },
           "stops": [
             {
@@ -198,13 +214,15 @@
                 "de": "Maison Jayet",
                 "hu": "Maison Jayet",
                 "ro": "Maison Jayet",
-                "en": "Maison Jayet"
+                "en": "Maison Jayet",
+                "fr": "Maison Jayet"
               },
               "tip_5lang": {
                 "de": "Bewundern Sie die Renaissance-Fassade unter Ihrem Regenschirm; der nasse Stein bringt die komplexen Schnitzereien heute besonders schön zur Geltung.",
                 "hu": "Csodálja meg a reneszánsz homlokzatot esernyője alól; a nedves kő ma gyönyörűen kiemeli a bonyolult faragásokat ezen a történelmi épületen.",
                 "ro": "Admirați fațada renascentistă la adăpostul umbrelei; piatra umedă scoate perfect în evidență sculpturile complicate în această zi ploioasă.",
-                "en": "Admire the Renaissance facade from under your umbrella; the wet stone makes the intricate carvings stand out beautifully on this rainy day."
+                "en": "Admire the Renaissance facade from under your umbrella; the wet stone makes the intricate carvings stand out beautifully on this rainy day.",
+                "fr": "Admirez la façade Renaissance sous votre parapluie ; la pierre mouillée fait ressortir magnifiquement les sculptures finement ciselées en ce jour de pluie."
               }
             },
             {
@@ -212,13 +230,15 @@
                 "de": "Saint-Nicolas-Turm",
                 "hu": "Saint-Nicolas torony",
                 "ro": "Turnul Saint-Nicolas",
-                "en": "Saint-Nicolas Tower"
+                "en": "Saint-Nicolas Tower",
+                "fr": "Tour Saint-Nicolas"
               },
               "tip_5lang": {
                 "de": "Blicken Sie zum beeindruckenden Uhrenturm hinauf, aber achten Sie unbedingt auf Ihre Schritte auf dem rutschigen Kopfsteinpflaster in der Nässe.",
                 "hu": "Nézzen fel a lenyűgöző óratoronyra, de fokozottan vigyázzon a lépéseire a középkori építményt körülvevő, esőtől csúszós macskaköveken.",
                 "ro": "Priviți impresionantul turn cu ceas, dar aveți mare grijă la pietrele cubice foarte alunecoase din jurul acestei structuri medievale umede.",
-                "en": "Look up at the impressive clock tower, but carefully watch your step on the very slippery cobblestones surrounding this wet medieval structure."
+                "en": "Look up at the impressive clock tower, but carefully watch your step on the very slippery cobblestones surrounding this wet medieval structure.",
+                "fr": "Levez les yeux vers cette imposante tour horloge, mais surveillez bien vos pas sur les pavés très glissants entourant cette structure médiévale mouillée."
               }
             },
             {
@@ -226,13 +246,15 @@
                 "de": "Colombière-Kapelle",
                 "hu": "Colombière kápolna",
                 "ro": "Capela Colombière",
-                "en": "Colombière Chapel"
+                "en": "Colombière Chapel",
+                "fr": "Chapelle de la Colombière"
               },
               "tip_5lang": {
                 "de": "Treten Sie schnell ein, um dem Regen zu entkommen, und bewundern Sie die bunten Mosaike und die friedliche Atmosphäre dieses Wallfahrtsortes.",
                 "hu": "Lépjen be, hogy elmeneküljön a zápor elől, és csodálja meg ennek a fontos zarándokhelynek a színes mozaikjait és teljesen száraz, békés hangulatát.",
                 "ro": "Intrați rapid pentru a scăpa de ploaie și admirați mozaicurile colorate, precum și atmosfera pașnică a acestui important loc de pelerinaj.",
-                "en": "Step inside quickly to escape the pouring rain and marvel at the colorful mosaics and peaceful, dry atmosphere of this important pilgrimage site."
+                "en": "Step inside quickly to escape the pouring rain and marvel at the colorful mosaics and peaceful, dry atmosphere of this important pilgrimage site.",
+                "fr": "Entrez rapidement pour échapper à la pluie battante et admirez les mosaïques colorées ainsi que l'atmosphère paisible et sèche de ce lieu de pèlerinage important."
               }
             },
             {
@@ -240,13 +262,15 @@
                 "de": "Hiéron-Museum",
                 "hu": "Hiéron Múzeum",
                 "ro": "Muzeul Hiéron",
-                "en": "Hiéron Museum"
+                "en": "Hiéron Museum",
+                "fr": "Musée du Hiéron"
               },
               "tip_5lang": {
                 "de": "Verbringen Sie eine regnerische Stunde mit der Erkundung sakraler Kunst; es gibt eine trockene Garderobe für Ihre nassen Mäntel und Schirme.",
                 "hu": "Töltsön el egy esős órát a szakrális művészet fedett felfedezésével; kényelmes, száraz ruhatárat biztosítanak a nedves kabátoknak és esernyőknek.",
                 "ro": "Petreceți o oră ploioasă explorând artă sacră în interior; muzeul oferă o garderobă uscată și caldă pentru hainele și umbrelele dumneavoastră ude.",
-                "en": "Spend a rainy hour exploring exceptional sacred art indoors; they provide a convenient dry cloakroom for your dripping wet coats and umbrellas."
+                "en": "Spend a rainy hour exploring exceptional sacred art indoors; they provide a convenient dry cloakroom for your dripping wet coats and umbrellas.",
+                "fr": "Passez une heure pluvieuse à explorer cet art sacré exceptionnel à l'intérieur ; ils proposent un vestiaire pratique pour vos manteaux et parapluies dégoulinants."
               }
             },
             {
@@ -254,13 +278,15 @@
                 "de": "Herz-Jesu-Basilika",
                 "hu": "Szent Szív Bazilika",
                 "ro": "Bazilica Inimii Sacre",
-                "en": "Basilica of the Sacred Heart"
+                "en": "Basilica of the Sacred Heart",
+                "fr": "Basilique du Sacré-Cœur"
               },
               "tip_5lang": {
                 "de": "Die romanische Architektur ist beeindruckend; das Innere bietet ein riesiges, trockenes Heiligtum, um sich auszuruhen und dem Regen zu lauschen.",
                 "hu": "A román kori építészet lenyűgöző; a belső tér hatalmas, száraz szentélyt kínál a megpihenésre, miközben hallgatja a tetőn doboló esőt.",
                 "ro": "Arhitectura romanică este impresionantă; interiorul oferă un sanctuar vast și uscat pentru a vă odihni ascultând ploaia care bate în acoperiș.",
-                "en": "The Romanesque architecture is awe-inspiring; the interior offers a vast, dry sanctuary to rest and reflect while listening to the heavy rain."
+                "en": "The Romanesque architecture is awe-inspiring; the interior offers a vast, dry sanctuary to rest and reflect while listening to the heavy rain.",
+                "fr": "L'architecture romane est impressionnante ; l'intérieur offre un vaste sanctuaire sec pour se reposer et réfléchir en écoutant la pluie tomber."
               }
             },
             {
@@ -268,13 +294,15 @@
                 "de": "Moulin-Liron-Park",
                 "hu": "Moulin Liron Park",
                 "ro": "Parcul Moulin Liron",
-                "en": "Moulin Liron Park"
+                "en": "Moulin Liron Park",
+                "fr": "Parc du Moulin Liron"
               },
               "tip_5lang": {
                 "de": "Machen Sie einen kurzen Spaziergang am Flussufer; tragen Sie wasserfestes Schuhwerk, da die unbefestigten Wege bei Regen sehr matschig werden.",
                 "hu": "Tegyen egy rövid sétát a folyóparton; viseljen vízálló lábbelit, mivel a füves és földes ösvények meglehetősen sarasak lesznek heves záporok idején.",
                 "ro": "Faceți o scurtă plimbare pe malul râului; purtați încălțăminte impermeabilă, deoarece potecile cu iarbă pot fi extrem de noroioase pe ploaie.",
-                "en": "Take a brief stroll along the riverbanks; wear waterproof footwear as the grassy paths can become quite muddy and soft during heavy showers."
+                "en": "Take a brief stroll along the riverbanks; wear waterproof footwear as the grassy paths can become quite muddy and soft during heavy showers.",
+                "fr": "Faites une brève promenade le long des rives ; portez des chaussures imperméables car les sentiers herbeux peuvent devenir très boueux et mous pendant les fortes averses."
               }
             },
             {
@@ -282,13 +310,15 @@
                 "de": "Canal du Centre",
                 "hu": "Canal du Centre",
                 "ro": "Canal du Centre",
-                "en": "Canal du Centre"
+                "en": "Canal du Centre",
+                "fr": "Canal du Centre"
               },
               "tip_5lang": {
                 "de": "Die Regentropfen erzeugen schöne Wellen auf der Kanaloberfläche; genießen Sie diese friedliche Aussicht unter einem großen, stabilen Regenschirm.",
                 "hu": "Az esőcseppek gyönyörű hullámokat vetnek a csatorna felszínén; élvezze a békés kilátást egy erős esernyő alól, hogy teljesen száraz maradjon.",
                 "ro": "Picăturile de ploaie creează valuri frumoase pe suprafața canalului; bucurați-vă de priveliștea liniștită sub o umbrelă robustă pentru a rămâne uscat.",
-                "en": "The raindrops create beautiful ripples on the canal's surface; enjoy the peaceful view from under a sturdy umbrella to stay completely dry."
+                "en": "The raindrops create beautiful ripples on the canal's surface; enjoy the peaceful view from under a sturdy umbrella to stay completely dry.",
+                "fr": "Les gouttes de pluie créent de beaux ondulations à la surface du canal ; profitez de la vue paisible sous un parapluie solide pour rester complètement au sec."
               }
             }
           ]
@@ -298,7 +328,8 @@
             "de": "Beginnen Sie Ihren frischen Wintermorgen mit der Erkundung der Maison Jayet und des Saint-Nicolas-Turms. Wärmen Sie sich mittags in der Colombière-Kapelle auf und genießen Sie das beheizte Hiéron-Museum. Nachmittags beleuchtet das Winterlicht die Herz-Jesu-Basilika wunderschön. Beenden Sie Ihren Spaziergang früh im Park und am Kanal vor dem Sonnenuntergang um 17:00 Uhr in dicker Kleidung.",
             "hu": "Kezdje a fagyos téli reggelt a Maison Jayet és a Saint-Nicolas torony megtekintésével. Délben melegedjen fel a Colombière kápolnában és a Hiéron Múzeum fűtött termeiben. Délután a téli fény gyönyörűen megvilágítja a Szent Szív Bazilikát. Fejezze be a sétát a Moulin Liron Parkban és a Canal du Centre-nél még a 17:00 órai naplemente előtt, meleg rétegeket viselve.",
             "ro": "Începeți dimineața geroasă explorând Maison Jayet și Turnul Saint-Nicolas. La prânz, încălziți-vă în Capela Colombière și bucurați-vă de sălile încălzite ale Muzeului Hiéron. După-amiaza, lumina iernii iluminează frumos Bazilica. Terminați plimbarea la Parcul Moulin Liron și Canal du Centre înainte de apusul de la ora 17:00, purtând haine groase.",
-            "en": "Begin your crisp winter morning exploring Maison Jayet and the Saint-Nicolas Tower. By noon, warm up inside the Colombière Chapel and enjoy the heated halls of the Hiéron Museum. In the afternoon, the winter light beautifully illuminates the Sacred Heart Basilica. Finish your walk early at Moulin Liron Park and the Canal du Centre before the sun sets around 17:00, wearing thick warm layers."
+            "en": "Begin your crisp winter morning exploring Maison Jayet and the Saint-Nicolas Tower. By noon, warm up inside the Colombière Chapel and enjoy the heated halls of the Hiéron Museum. In the afternoon, the winter light beautifully illuminates the Sacred Heart Basilica. Finish your walk early at Moulin Liron Park and the Canal du Centre before the sun sets around 17:00, wearing thick warm layers.",
+            "fr": "Commencez votre matinée hivernale fraîche en explorant la Maison Jayet et la tour Saint-Nicolas. À midi, réchauffez-vous dans la chapelle de la Colombière et profitez des salles chauffées du musée du Hiéron. L'après-midi, la lumière hivernale illumine magnifiquement la basilique du Sacré-Cœur. Terminez votre promenade tôt au parc du Moulin Liron et au canal du Centre avant le coucher du soleil vers 17:00, en portant des couches chaudes épaisses."
           },
           "stops": [
             {
@@ -306,13 +337,15 @@
                 "de": "Maison Jayet",
                 "hu": "Maison Jayet",
                 "ro": "Maison Jayet",
-                "en": "Maison Jayet"
+                "en": "Maison Jayet",
+                "fr": "Maison Jayet"
               },
               "tip_5lang": {
                 "de": "Die komplizierte Fassade ist atemberaubend in der klaren Winterluft; behalten Sie Ihre Handschuhe an, während Sie Fotos des Rathauses machen.",
                 "hu": "A bonyolult homlokzat lenyűgöző a csípős téli levegőben; tartsa magán a meleg kesztyűt, miközben fotózza ezt a történelmi városházát.",
                 "ro": "Fațada complicată este uimitoare în aerul rece de iarnă; păstrați mănușile groase pe mâini în timp ce faceți fotografii ale acestei primării istorice.",
-                "en": "The intricate facade is stunning in the crisp winter air; keep your thermal gloves on while taking photos of this beautiful historic town hall."
+                "en": "The intricate facade is stunning in the crisp winter air; keep your thermal gloves on while taking photos of this beautiful historic town hall.",
+                "fr": "La façade finement travaillée est splendide dans l'air vif de l'hiver ; gardez vos gants thermiques pour prendre des photos de cet bel hôtel de ville historique."
               }
             },
             {
@@ -320,13 +353,15 @@
                 "de": "Saint-Nicolas-Turm",
                 "hu": "Saint-Nicolas torony",
                 "ro": "Turnul Saint-Nicolas",
-                "en": "Saint-Nicolas Tower"
+                "en": "Saint-Nicolas Tower",
+                "fr": "Tour Saint-Nicolas"
               },
               "tip_5lang": {
                 "de": "Der Turm sieht majestätisch vor dem grauen Winterhimmel aus; wickeln Sie Ihren Schal eng gegen den beißenden Wind auf diesem offenen Platz.",
                 "hu": "A torony fenségesen mutat a szürke téli égbolt előtt; tekerje szorosan a sálját a csípős, jeges szél ellen ezen a teljesen nyitott téren.",
                 "ro": "Turnul arată maiestuos pe un cer gri de iarnă; înfășurați-vă fularul strâns împotriva vântului tăios și rece din această piață complet deschisă.",
-                "en": "The tower looks majestic against a grey winter sky; wrap your scarf tightly against the biting, icy wind blowing through this open medieval square."
+                "en": "The tower looks majestic against a grey winter sky; wrap your scarf tightly against the biting, icy wind blowing through this open medieval square.",
+                "fr": "La tour paraît majestueuse sur un ciel gris d'hiver ; serrez bien votre écharpe contre le vent glacial qui souffle sur cette vaste place médiévale."
               }
             },
             {
@@ -334,13 +369,15 @@
                 "de": "Colombière-Kapelle",
                 "hu": "Colombière kápolna",
                 "ro": "Capela Colombière",
-                "en": "Colombière Chapel"
+                "en": "Colombière Chapel",
+                "fr": "Chapelle de la Colombière"
               },
               "tip_5lang": {
                 "de": "Treten Sie ein, um den eisigen Temperaturen zu entkommen; die reichen Mosaike bieten einen warmen, leuchtenden Kontrast zur Kälte draußen.",
                 "hu": "Lépjen be, hogy elmeneküljön a fagyos hőmérséklet elől; a gazdag mozaikok meleg, ragyogó kontrasztot kínálnak a kinti rideg téli hidegnek.",
                 "ro": "Intrați pentru a scăpa de temperaturile de îngheț; mozaicurile bogate oferă un contrast cald și strălucitor cu frigul aspru al iernii de afară.",
-                "en": "Step inside to escape the freezing temperatures; the rich mosaics offer a warm, glowing contrast to the bitter winter chill waiting outside."
+                "en": "Step inside to escape the freezing temperatures; the rich mosaics offer a warm, glowing contrast to the bitter winter chill waiting outside.",
+                "fr": "Entrez pour échapper aux températures glaciales ; les mosaïques riches offrent un contraste chaleureux et lumineux avec le froid piquant dehors."
               }
             },
             {
@@ -348,13 +385,15 @@
                 "de": "Hiéron-Museum",
                 "hu": "Hiéron Múzeum",
                 "ro": "Muzeul Hiéron",
-                "en": "Hiéron Museum"
+                "en": "Hiéron Museum",
+                "fr": "Musée du Hiéron"
               },
               "tip_5lang": {
                 "de": "Wärmen Sie sich vollständig in diesen gut beheizten Räumen auf; verbringen Sie zusätzliche Zeit im Nationalen Schatz-Portal, um der Kälte zu entgehen.",
                 "hu": "Melegedjen fel teljesen ezekben a fűtött kiállítótermekben; töltsön több időt a Nemzeti Kincs portáljának vizsgálatával, hogy elkerülje a kinti fagyot.",
                 "ro": "Încălziți-vă complet în aceste săli de expoziție bine încălzite; petreceți mai mult timp examinând portalul Tezaurului Național pentru a evita frigul.",
-                "en": "Warm up fully in these heated exhibition rooms; spend extra time examining the National Treasure portal to avoid the freezing outdoor temperatures."
+                "en": "Warm up fully in these heated exhibition rooms; spend extra time examining the National Treasure portal to avoid the freezing outdoor temperatures.",
+                "fr": "Réchauffez-vous pleinement dans ces salles d'exposition chauffées ; passez plus de temps à examiner le portail du Trésor national pour éviter le froid extérieur."
               }
             },
             {
@@ -362,13 +401,15 @@
                 "de": "Herz-Jesu-Basilika",
                 "hu": "Szent Szív Bazilika",
                 "ro": "Bazilica Inimii Sacre",
-                "en": "Basilica of the Sacred Heart"
+                "en": "Basilica of the Sacred Heart",
+                "fr": "Basilique du Sacré-Cœur"
               },
               "tip_5lang": {
                 "de": "Die blasse Wintersonne fällt wunderschön durch die Buntglasfenster; sitzen Sie drinnen für einen ruhigen, vor dem kalten Wind geschützten Moment.",
                 "hu": "A sápadt téli nap gyönyörűen átszűrődik az ólomüveg ablakokon; üljön le bent egy csendes, a jeges széltől védett pillanatra az elmélkedéshez.",
                 "ro": "Soarele palid de iarnă se filtrează frumos prin vitralii; așezați-vă înăuntru pentru un moment liniștit, adăpostit perfect de vântul înghețat.",
-                "en": "The pale winter sun filters beautifully through the stained glass; sit inside for a quiet, sheltered moment of reflection away from the cold wind."
+                "en": "The pale winter sun filters beautifully through the stained glass; sit inside for a quiet, sheltered moment of reflection away from the cold wind.",
+                "fr": "Le pâle soleil d'hiver filtre magnifiquement à travers les vitraux ; asseyez-vous à l'intérieur pour un moment calme et abrité de réflexion à l'écart du vent froid."
               }
             },
             {
@@ -376,13 +417,15 @@
                 "de": "Moulin-Liron-Park",
                 "hu": "Moulin Liron Park",
                 "ro": "Parcul Moulin Liron",
-                "en": "Moulin Liron Park"
+                "en": "Moulin Liron Park",
+                "fr": "Parc du Moulin Liron"
               },
               "tip_5lang": {
                 "de": "Frost bedeckt hier oft wunderschön das Gras; gehen Sie zügig, um sich warm zu halten, und genießen Sie die klare Silhouette der kahlen Winterbäume.",
                 "hu": "A füvet itt gyakran gyönyörűen borítja a dér; sétáljon tempósan, hogy melegen tartsa magát, és élvezze a kopár téli fák éles sziluettjét.",
                 "ro": "Gerul acoperă adesea frumos iarba aici; mergeți vioi pentru a vă menține cald și bucurați-vă de silueta clară a copacilor de iarnă fără frunze.",
-                "en": "Frost often covers the grass here beautifully; walk briskly to keep your body warm and enjoy the stark, striking silhouettes of the leafless winter trees."
+                "en": "Frost often covers the grass here beautifully; walk briskly to keep your body warm and enjoy the stark, striking silhouettes of the leafless winter trees.",
+                "fr": "Le givre recouvre souvent joliment l'herbe ici ; marchez d'un bon pas pour rester au chaud et profitez des silhouettes nettes et saisissantes des arbres dépourvus de feuilles."
               }
             },
             {
@@ -390,13 +433,15 @@
                 "de": "Canal du Centre",
                 "hu": "Canal du Centre",
                 "ro": "Canal du Centre",
-                "en": "Canal du Centre"
+                "en": "Canal du Centre",
+                "fr": "Canal du Centre"
               },
               "tip_5lang": {
                 "de": "Erreichen Sie den Kanal vor dem frühen Sonnenuntergang um 17:00 Uhr; das eiskalte Wasser spiegelt die Dämmerung perfekt wider und beendet den Tag.",
                 "hu": "Érjen a csatornához a korai, 17:00 óra körüli naplemente előtt; a fagyos víz tökéletesen tükrözi az alkonyt, festői módon lezárva a hideg napot.",
                 "ro": "Ajungeți la canal înainte de apusul devreme din jurul orei 17:00; apa înghețată reflectă perfect amurgul, încheind pitoresc această zi rece.",
-                "en": "Reach the canal before the early sunset around 17:00; the freezing water reflects the twilight perfectly, offering a picturesque end to your cold day."
+                "en": "Reach the canal before the early sunset around 17:00; the freezing water reflects the twilight perfectly, offering a picturesque end to your cold day.",
+                "fr": "Rejoignez le canal avant le coucher du soleil précoce vers 17:00 ; l'eau glacée reflète parfaitement le crépuscule, offrant une fin pittoresque à votre journée froide."
               }
             }
           ]
@@ -416,7 +461,8 @@
             "de": "Canal du Centre",
             "hu": "Canal du Centre",
             "ro": "Canal du Centre",
-            "en": "Canal du Centre"
+            "en": "Canal du Centre",
+            "fr": "Canal du Centre"
           },
           "coords": [
             4.120619,
@@ -431,7 +477,8 @@
             "de": "Spazieren Sie am ruhigen Wasser des Kanals entlang, der Loire und Saône verbindet, und beobachten Sie die kleinen Boote bei der Durchfahrt der Schleusen.",
             "hu": "Sétáljon vagy kerékpározzon a Loire-t és a Saône-t összekötő csatorna békés vizei mentén, és figyelje a történelmi zsilipeken áthaladó kishajókat.",
             "ro": "Plimbați-vă de-a lungul apelor pașnice ale canalului care leagă Loire de Saône și urmăriți bărcile mici care trec prin ecluzele istorice pitorești.",
-            "en": "Walk or cycle along the peaceful waters of the canal connecting the Loire and Saône, and watch the small boats navigating through the historic locks."
+            "en": "Walk or cycle along the peaceful waters of the canal connecting the Loire and Saône, and watch the small boats navigating through the historic locks.",
+            "fr": "Marchez ou faites du vélo le long des eaux paisibles du canal reliant la Loire et la Saône, et regardez les petits bateaux franchir les écluses historiques."
           }
         },
         {
@@ -439,7 +486,8 @@
             "de": "Moulin-Liron-Park",
             "hu": "Moulin Liron Park",
             "ro": "Parcul Moulin Liron",
-            "en": "Moulin Liron Park"
+            "en": "Moulin Liron Park",
+            "fr": "Parc du Moulin Liron"
           },
           "coords": [
             4.122579,
@@ -454,7 +502,8 @@
             "de": "Entspannen Sie sich in dieser weitläufigen grünen Oase gleich hinter der Basilika, die sich perfekt für einen gemütlichen Spaziergang am Fluss eignet.",
             "hu": "Pihenjen meg a bazilika mögött található tágas zöld oázisban, amely tökéletes egy nyugodt sétához vagy egy kis piknikhez a Bourbince folyó partján.",
             "ro": "Relaxați-vă în această oază verde întinsă din spatele bazilicii, perfectă pentru o plimbare liniștită sau un mic picnic pe malul râului Bourbince.",
-            "en": "Relax in this expansive green oasis situated just behind the basilica, perfect for a leisurely stroll or enjoying a small picnic beside the river Bourbince."
+            "en": "Relax in this expansive green oasis situated just behind the basilica, perfect for a leisurely stroll or enjoying a small picnic beside the river Bourbince.",
+            "fr": "Détendez-vous dans cette vaste oasis verte située juste derrière la basilique, parfaite pour une promenade tranquille ou un petit pique-nique au bord de la Bourbince."
           }
         },
         {
@@ -462,7 +511,8 @@
             "de": "Herz-Jesu-Basilika",
             "hu": "Szent Szív Bazilika",
             "ro": "Bazilica Inimii Sacre",
-            "en": "Basilica of the Sacred Heart"
+            "en": "Basilica of the Sacred Heart",
+            "fr": "Basilique du Sacré-Cœur"
           },
           "coords": [
             4.121709,
@@ -477,7 +527,8 @@
             "de": "Bestaunen Sie dieses Meisterwerk der cluniazensischen Romanik, eine bedeutende Pilgerstätte, und nehmen Sie sich Zeit für die tiefgründigen Fresken.",
             "hu": "Csodálja meg a clunyi román stílusú építészet remekművét, a fontos zarándokhelyet, és szánjon időt a csodálatos freskók aprólékos tanulmányozására.",
             "ro": "Minunați-vă de această capodoperă a arhitecturii romanice de la Cluny, un loc de pelerinaj, și acordați-vă timp pentru a studia frescele din absidă.",
-            "en": "Marvel at this masterpiece of Cluniac Romanesque architecture, a major pilgrimage site, and take your time to study the profound frescoes in the apse."
+            "en": "Marvel at this masterpiece of Cluniac Romanesque architecture, a major pilgrimage site, and take your time to study the profound frescoes in the apse.",
+            "fr": "Admirez ce chef-d’œuvre de l’architecture romane clunisienne, important lieu de pèlerinage, et prenez le temps d’étudier les profondes fresques de l’abside."
           }
         },
         {
@@ -485,7 +536,8 @@
             "de": "Hiéron-Museum",
             "hu": "Hiéron Múzeum",
             "ro": "Muzeul Hiéron",
-            "en": "Hiéron Museum"
+            "en": "Hiéron Museum",
+            "fr": "Musée Hiéron"
           },
           "coords": [
             4.1231,
@@ -500,7 +552,8 @@
             "de": "Erkunden Sie dieses bemerkenswerte Museum für sakrale Kunst mit seinem nationalen Schatz, aber prüfen Sie vorab die saisonalen Öffnungszeiten.",
             "hu": "Fedezze fel ezt a szakrális művészetnek szentelt figyelemre méltó múzeumot, és nézze meg a nemzeti kincset, de előbb ellenőrizze a nyitvatartást.",
             "ro": "Explorați acest muzeu remarcabil dedicat artei sacre ce adăpostește o comoară națională, dar nu uitați să verificați programul de vizitare în prealabil.",
-            "en": "Explore this remarkable museum dedicated to sacred art, housing a stunning national treasure, but remember to check the seasonal opening hours beforehand."
+            "en": "Explore this remarkable museum dedicated to sacred art, housing a stunning national treasure, but remember to check the seasonal opening hours beforehand.",
+            "fr": "Explorez ce musée remarquable dédié à l’art sacré, qui abrite un trésor national éblouissant, mais pensez à vérifier au préalable les horaires saisonniers."
           }
         },
         {
@@ -508,7 +561,8 @@
             "de": "Colombière-Kapelle",
             "hu": "Colombière kápolna",
             "ro": "Capela Colombière",
-            "en": "Colombière Chapel"
+            "en": "Colombière Chapel",
+            "fr": "Chapelle de la Colombière"
           },
           "coords": [
             4.123884,
@@ -523,7 +577,8 @@
             "de": "Treten Sie in diese ruhige Jesuitenkapelle ein, die dem Heiligen Claude de la Colombière gewidmet ist, um moderne Mosaike in Stille zu betrachten.",
             "hu": "Lépjen be a Claude de la Colombière Szentnek szentelt csendes jezsuita kápolnába, és találjon egy pillanatnyi békét a gyönyörű modern mozaikok alatt.",
             "ro": "Pășiți în această capelă iezuită liniștită dedicată Sfântului Claude de la Colombière pentru un moment de pace și pentru a admira mozaicurile.",
-            "en": "Step inside this tranquil Jesuit chapel dedicated to Saint Claude de la Colombière to find a moment of peace and observe the beautiful modern mosaics."
+            "en": "Step inside this tranquil Jesuit chapel dedicated to Saint Claude de la Colombière to find a moment of peace and observe the beautiful modern mosaics.",
+            "fr": "Pénétrez dans cette paisible chapelle jésuite dédiée à Saint Claude de la Colombière pour trouver un moment de paix et admirer les beaux mosaïques modernes."
           }
         },
         {
@@ -531,7 +586,8 @@
             "de": "Saint-Nicolas-Turm",
             "hu": "Saint-Nicolas torony",
             "ro": "Turnul Saint-Nicolas",
-            "en": "Saint-Nicolas Tower"
+            "en": "Saint-Nicolas Tower",
+            "fr": "Tour Saint-Nicolas"
           },
           "coords": [
             4.120444,
@@ -546,7 +602,8 @@
             "de": "Entdecken Sie diesen historischen Uhrenturm aus dem sechzehnten Jahrhundert und lauschen Sie dem Glockenspiel, das durch die alten Gassen hallt.",
             "hu": "Fedezze fel a tizenhatodik századból származó történelmi óratornyot, és hallgassa figyelmesen az óváros utcáin visszhangzó harangjátékot.",
             "ro": "Descoperiți acest turn istoric cu ceas datând din secolul al șaisprezecelea și ascultați cu atenție clopotele care răsună pe străzile vechi.",
-            "en": "Discover this historical clock tower, which dates back to the sixteenth century, and listen closely to hear the chimes echoing through the old streets."
+            "en": "Discover this historical clock tower, which dates back to the sixteenth century, and listen closely to hear the chimes echoing through the old streets.",
+            "fr": "Découvrez cette tour horloge historique, datant du XVIe siècle, et écoutez attentivement les cloches qui résonnent dans les vieilles rues."
           }
         },
         {
@@ -554,7 +611,8 @@
             "de": "Maison Jayet",
             "hu": "Maison Jayet",
             "ro": "Maison Jayet",
-            "en": "Maison Jayet"
+            "en": "Maison Jayet",
+            "fr": "Maison Jayet"
           },
           "coords": [
             4.120457,
@@ -569,7 +627,8 @@
             "de": "Bewundern Sie die markante Renaissance-Fassade des Rathauses, ein Symbol des Bürgerstolzes, und fotografieren Sie die kunstvollen Steinschnitzereien.",
             "hu": "Csodálja meg a városháza lenyűgöző reneszánsz homlokzatát, és készítsen egy gyors fotót a bonyolult kőfaragványokról, miközben átsétál a téren.",
             "ro": "Admirați fațada renascentistă impresionantă a primăriei, un simbol al mândriei civice, și faceți o fotografie rapidă a sculpturilor în piatră.",
-            "en": "Admire the striking Renaissance facade of the town hall, a symbol of civic pride, and grab a quick photo of its intricate stone carvings."
+            "en": "Admire the striking Renaissance facade of the town hall, a symbol of civic pride, and grab a quick photo of its intricate stone carvings.",
+            "fr": "Admirez la façade Renaissance saisissante de l’hôtel de ville, symbole de fierté civique, et prenez rapidement une photo de ses sculptures de pierre finement travaillées."
           }
         },
         {
@@ -577,7 +636,8 @@
             "de": "Fosse à Plonger",
             "hu": "Fosse à Plonger",
             "ro": "Fosse à Plonger",
-            "en": "Fosse à Plonger"
+            "en": "Fosse à Plonger",
+            "fr": "Fosse à Plonger"
           },
           "coords": [
             4.111787,
@@ -592,7 +652,8 @@
             "de": "Besuchen Sie mit der Familie diese moderne Tauchanlage für ein spannendes Wassererlebnis, aber buchen Sie Ihren Tauchplatz unbedingt rechtzeitig.",
             "hu": "Hozza el a családot ebbe a modern búvármedencébe, amely izgalmas vízi élményt kínál, de mindenképpen foglalja le jó előre a búvárkodás időpontját.",
             "ro": "Aduceți familia la acest bazin modern de scufundări pentru o experiență acvatică incitantă, dar asigurați-vă că rezervați din timp slotul dorit.",
-            "en": "Bring the family to this modern diving pool facility, offering an exciting aquatic experience, but make sure to book your diving slot well in advance."
+            "en": "Bring the family to this modern diving pool facility, offering an exciting aquatic experience, but make sure to book your diving slot well in advance.",
+            "fr": "Emmenez la famille dans cette piscine de plongeon moderne, offrant une expérience aquatique excitante, mais pensez à réserver votre créneau de plongeon bien à l’avance."
           }
         }
       ],
@@ -600,7 +661,8 @@
         "de": "Beginnen Sie Ihre Radtour am ruhigen Canal du Centre und radeln Sie durch den schönen Moulin-Liron-Park.\n\nTauchen Sie mittags in die Geschichte der Basilika ein und erkunden Sie das Hiéron-Museum.\n\nBesuchen Sie nachmittags die Colombière-Kapelle und den historischen Saint-Nicolas-Turm.\n\nBeenden Sie den aktiven Tag am Maison Jayet und genießen Sie abends den Wasserspaß in der Fosse à Plonger.",
         "hu": "Indítsa kerékpártúráját a békés Canal du Centre partján, átszelve a gyönyörű Moulin Liron parkot.\n\nDélben merüljön el a Bazilika történelmében és a Hiéron Múzeum művészetében.\n\nDélután látogassa meg a csendes Colombière kápolnát és a történelmi Saint-Nicolas tornyot.\n\nFejezze be aktív napját a Maison Jayet-nél, majd irány a Fosse à Plonger egy esti vízi kalandra.",
         "ro": "Începeți turul cu bicicleta pe lângă Canal du Centre, pedalând prin frumosul Parc Moulin Liron.\n\nLa prânz, absorbiți istoria Bazilicii și explorați arta de la Muzeul Hiéron.\n\nDupă-amiaza, vizitați Capela Colombière și istoricul Turn Saint-Nicolas.\n\nÎncheiați ziua activă la primăria Maison Jayet, înainte de a vă îndrepta spre Fosse à Plonger pentru distracție acvatică.",
-        "en": "Kick off your cycling tour by the serene Canal du Centre, pedaling through the beautiful Moulin Liron Park.\n\nBy midday, soak in the profound history of the Basilica and explore the sacred art at the Hiéron Museum.\n\nIn the afternoon, visit the quiet Colombière Chapel and the historic Saint-Nicolas Tower.\n\nFinish your active day at the civic Maison Jayet before heading to the Fosse à Plonger for an evening of aquatic fun."
+        "en": "Kick off your cycling tour by the serene Canal du Centre, pedaling through the beautiful Moulin Liron Park.\n\nBy midday, soak in the profound history of the Basilica and explore the sacred art at the Hiéron Museum.\n\nIn the afternoon, visit the quiet Colombière Chapel and the historic Saint-Nicolas Tower.\n\nFinish your active day at the civic Maison Jayet before heading to the Fosse à Plonger for an evening of aquatic fun.",
+        "fr": "Commencez votre circuit à vélo le long du serein Canal du Centre, en pédalant à travers le beau parc du Moulin Liron.\n\nÀ la mi-journée, imprégnez-vous de l’histoire profonde de la Basilique et explorez l’art sacré au Musée Hiéron.\n\nL’après-midi, visitez la tranquille Chapelle de la Colombière et la historique Tour Saint-Nicolas.\n\nTerminez votre journée active à la Maison Jayet avant de vous rendre à la Fosse à Plonger pour une soirée d’amusement aquatique."
       },
       "variants": {
         "rainy": {
@@ -608,7 +670,8 @@
             "de": "Beginnen Sie Ihren regnerischen Radmorgen am Canal du Centre und im Moulin-Liron-Park und achten Sie auf rutschige Wege. Mittags finden Sie Schutz in der Herz-Jesu-Basilika, im Hiéron-Museum und der Colombière-Kapelle. Radeln Sie am nassen Nachmittag am Saint-Nicolas-Turm und der Maison Jayet vorbei. Enden Sie an der Fosse à Plonger; volle Regenkleidung ist unerlässlich.",
             "hu": "Kezdje esős kerékpáros reggelét a Canal du Centre és a Moulin Liron Park mentén, ügyelve a csúszós utakra. A dél menedéket és kultúrát hoz a Bazilikában, a Hiéron Múzeumban és a Colombière kápolnában. A nedves délutánon tekerjen el a Saint-Nicolas torony és a Maison Jayet mellett. Zárja az utat a Fosse à Plonger-nél; a teljes esőruha ma elengedhetetlen.",
             "ro": "Începeți dimineața ploioasă de ciclism pe lângă Canal du Centre și Parcul Moulin Liron, atenție la potecile alunecoase. Prânzul aduce adăpost la Bazilică, Muzeul Hiéron și Capela Colombière. După-amiaza umedă, pedalați pe lângă Turnul Saint-Nicolas și Maison Jayet. Încheiați la Fosse à Plonger; echipamentul de ploaie complet este absolut esențial astăzi.",
-            "en": "Start your rainy cycling morning along the Canal du Centre and Moulin Liron Park, watching out for slippery paths. Midday brings shelter and culture at the Basilica, Hiéron Museum, and Colombière Chapel where you can dry off. In the wet afternoon, pedal past the Saint-Nicolas Tower and Maison Jayet. Conclude at the Fosse à Plonger; wearing full rain gear is essential today."
+            "en": "Start your rainy cycling morning along the Canal du Centre and Moulin Liron Park, watching out for slippery paths. Midday brings shelter and culture at the Basilica, Hiéron Museum, and Colombière Chapel where you can dry off. In the wet afternoon, pedal past the Saint-Nicolas Tower and Maison Jayet. Conclude at the Fosse à Plonger; wearing full rain gear is essential today.",
+            "fr": "Commencez votre matinée pluvieuse à vélo le long du Canal du Centre et du parc du Moulin Liron, en faisant attention aux chemins glissants. À midi, trouvez abri et culture à la Basilique, au Musée Hiéron et à la Chapelle de la Colombière où vous pourrez vous sécher. L’après-midi humide, passez à vélo près de la Tour Saint-Nicolas et de la Maison Jayet. Concluez à la Fosse à Plonger ; porter un équipement de pluie complet est indispensable aujourd’hui."
           },
           "stops": [
             {
@@ -616,13 +679,15 @@
                 "de": "Canal du Centre",
                 "hu": "Canal du Centre",
                 "ro": "Canal du Centre",
-                "en": "Canal du Centre"
+                "en": "Canal du Centre",
+                "fr": "Canal du Centre"
               },
               "tip_5lang": {
                 "de": "Fahren Sie vorsichtig, da nasses Laub den Weg sehr rutschig macht; die neblige Aussicht über das Wasser ist bei Regen wunderschön stimmungsvoll.",
                 "hu": "Tekerjen óvatosan, mivel a nedves levelek nagyon csúszóssá teszik a vontatóutat; a ködös kilátás a víz felett gyönyörűen hangulatos az esőben.",
                 "ro": "Mergeți cu atenție, deoarece frunzele ude fac poteca foarte alunecoasă; priveliștea cețoasă deasupra apei este frumos de melancolică în ploaie.",
-                "en": "Ride carefully as wet autumn leaves make the towpath very slick; the misty view over the water is beautifully moody and atmospheric in the rain."
+                "en": "Ride carefully as wet autumn leaves make the towpath very slick; the misty view over the water is beautifully moody and atmospheric in the rain.",
+                "fr": "Roulez prudemment car les feuilles d’automne mouillées rendent le chemin de halage très glissant ; la vue brumeuse sur l’eau est magnifiquement mélancolique sous la pluie."
               }
             },
             {
@@ -630,13 +695,15 @@
                 "de": "Moulin-Liron-Park",
                 "hu": "Moulin Liron Park",
                 "ro": "Parcul Moulin Liron",
-                "en": "Moulin Liron Park"
+                "en": "Moulin Liron Park",
+                "fr": "Parc du Moulin Liron"
               },
               "tip_5lang": {
                 "de": "Bleiben Sie mit dem Rad auf den gepflasterten Wegen, um Schlamm zu vermeiden; der Regen verwandelt diesen Park in eine ruhige, frische Oase.",
                 "hu": "Maradjon a burkolt utakon a kerékpárral, hogy elkerülje a sarat; az eső ezt a zöldterületet egy csendes, friss menedékké változtatja ma.",
                 "ro": "Rămâneți pe potecile pavate cu bicicleta pentru a evita noroiul profund; ploaia transformă acest spațiu verde într-un refugiu liniștit și proaspăt.",
-                "en": "Stick to the paved paths on your bike to avoid getting stuck in the mud; the rain transforms this green space into a quiet, fresh haven today."
+                "en": "Stick to the paved paths on your bike to avoid getting stuck in the mud; the rain transforms this green space into a quiet, fresh haven today.",
+                "fr": "Restez sur les chemins goudronnés à vélo pour éviter de vous enliser dans la boue ; la pluie transforme cet espace vert en un havre calme et frais aujourd’hui."
               }
             },
             {
@@ -644,13 +711,15 @@
                 "de": "Herz-Jesu-Basilika",
                 "hu": "Szent Szív Bazilika",
                 "ro": "Bazilica Inimii Sacre",
-                "en": "Basilica of the Sacred Heart"
+                "en": "Basilica of the Sacred Heart",
+                "fr": "Basilique du Sacré-Cœur"
               },
               "tip_5lang": {
                 "de": "Parken Sie Ihr Fahrrad und schütteln Sie den Regen ab; das trockene, höhlenartige romanische Innere ist perfekt, um einen Schauer abzuwarten.",
                 "hu": "Parkolja le a kerékpárt és rázza le magáról az esőt; a száraz, barlangszerű román belső tér tökéletes hely egy zápor átvészelésére.",
                 "ro": "Parcați bicicleta și scuturați ploaia; interiorul romanic uscat și cavernos este un loc perfect pentru a aștepta trecerea unei averse puternice.",
-                "en": "Park your bike safely and shake off the rain; the dry, cavernous Romanesque interior is a perfect place to wait out a heavy passing shower."
+                "en": "Park your bike safely and shake off the rain; the dry, cavernous Romanesque interior is a perfect place to wait out a heavy passing shower.",
+                "fr": "Garez votre vélo en sécurité et secouez la pluie ; l’intérieur roman sec et caverneux est l’endroit idéal pour attendre qu’un gros grain passe."
               }
             },
             {
@@ -658,13 +727,15 @@
                 "de": "Hiéron-Museum",
                 "hu": "Hiéron Múzeum",
                 "ro": "Muzeul Hiéron",
-                "en": "Hiéron Museum"
+                "en": "Hiéron Museum",
+                "fr": "Musée Hiéron"
               },
               "tip_5lang": {
                 "de": "Schließen Sie Ihr Rad draußen ab und erkunden Sie sakrale Kunst, während Ihre nasse Regenkleidung in der komfortablen Garderobe trocknet.",
                 "hu": "Zárja le a kerékpárt kint, és fedezze fel a szakrális művészetet, miközben nedves esőruhája a kényelmes ruhatárban lassan megszárad.",
                 "ro": "Lăsați bicicleta afară și bucurați-vă de arta sacră în interior, în timp ce echipamentul dumneavoastră de ploaie se usucă în garderoba confortabilă.",
-                "en": "Lock up outside and enjoy exploring rare sacred art indoors while your wet cycling gear dries off comfortably in their provided cloakroom."
+                "en": "Lock up outside and enjoy exploring rare sacred art indoors while your wet cycling gear dries off comfortably in their provided cloakroom.",
+                "fr": "Verrouillez votre vélo à l’extérieur et profitez d’explorer des œuvres rares d’art sacré à l’intérieur pendant que votre équipement de cyclisme humide sèche confortablement dans leur vestiaire."
               }
             },
             {
@@ -672,13 +743,15 @@
                 "de": "Colombière-Kapelle",
                 "hu": "Colombière kápolna",
                 "ro": "Capela Colombière",
-                "en": "Colombière Chapel"
+                "en": "Colombière Chapel",
+                "fr": "Chapelle de la Colombière"
               },
               "tip_5lang": {
                 "de": "Eine kurze, nasse Fahrt bringt Sie zu dieser friedlichen Kapelle; treten Sie ein, um die leuchtenden Mosaike geschützt vor dem Platzregen zu bewundern.",
                 "hu": "Egy rövid, nedves tekerés elhozza ehhez a békés kápolnához; lépjen be, hogy a felhőszakadástól védve csodálja meg a ragyogó mozaikokat.",
                 "ro": "O cursă scurtă și umedă vă aduce la această capelă pașnică; intrați pentru a admira mozaicurile vibrante, ferit complet de ploaia torențială.",
-                "en": "A short, wet ride brings you to this peaceful chapel; step inside immediately to admire the vibrant mosaics out of the heavy downpour."
+                "en": "A short, wet ride brings you to this peaceful chapel; step inside immediately to admire the vibrant mosaics out of the heavy downpour.",
+                "fr": "Une courte balade sous la pluie vous mène à cette chapelle paisible ; entrez immédiatement pour admirer les mosaïques vibrantes à l’abri de la forte ondée."
               }
             },
             {
@@ -686,13 +759,15 @@
                 "de": "Saint-Nicolas-Turm",
                 "hu": "Saint-Nicolas torony",
                 "ro": "Turnul Saint-Nicolas",
-                "en": "Saint-Nicolas Tower"
+                "en": "Saint-Nicolas Tower",
+                "fr": "Tour Saint-Nicolas"
               },
               "tip_5lang": {
                 "de": "Bremsen Sie früh auf dem extrem rutschigen Kopfsteinpflaster rund um den Turm; betrachten Sie die Architektur schnell, bevor Sie weiterfahren.",
                 "hu": "Fékezzen korán a torony körüli rendkívül csúszós macskaköveken; tekintse meg gyorsan a fenséges építészetet, mielőtt továbbgurul az esőben.",
                 "ro": "Frânați devreme pe pietrele cubice extrem de alunecoase din jurul turnului; vizionați rapid arhitectura maiestuoasă înainte de a continua în ploaie.",
-                "en": "Brake early on the extremely slick cobblestones around the tower; view the majestic architecture quickly before continuing your wet ride."
+                "en": "Brake early on the extremely slick cobblestones around the tower; view the majestic architecture quickly before continuing your wet ride.",
+                "fr": "Freinez tôt sur les pavés extrêmement glissants autour de la tour ; admirez rapidement l’architecture majestueuse avant de poursuivre votre balade humide."
               }
             },
             {
@@ -700,13 +775,15 @@
                 "de": "Maison Jayet",
                 "hu": "Maison Jayet",
                 "ro": "Maison Jayet",
-                "en": "Maison Jayet"
+                "en": "Maison Jayet",
+                "fr": "Maison Jayet"
               },
               "tip_5lang": {
                 "de": "Bewundern Sie die markante Renaissance-Fassade direkt vom Sattel aus; eine wasserdichte Jacke ist wichtig, wenn Sie auf dem offenen Platz pausieren.",
                 "hu": "Csodálja meg a feltűnő reneszánsz homlokzatot egyenesen a nyeregből; egy jó vízálló dzseki létfontosságú, amikor megáll ezen a nyitott téren.",
                 "ro": "Admirați fațada renascentistă izbitoare direct din șa; o jachetă impermeabilă de calitate este vitală în timp ce faceți o pauză în piața deschisă.",
-                "en": "Admire the striking Renaissance facade directly from your saddle; a solid waterproof jacket is vital while pausing in the open, unsheltered square."
+                "en": "Admire the striking Renaissance facade directly from your saddle; a solid waterproof jacket is vital while pausing in the open, unsheltered square.",
+                "fr": "Admirez la façade Renaissance saisissante directement depuis votre selle ; une bonne veste imperméable est vitale lorsque vous faites une pause sur la place ouverte sans abri."
               }
             },
             {
@@ -714,13 +791,15 @@
                 "de": "Fosse à Plonger",
                 "hu": "Fosse à Plonger",
                 "ro": "Fosse à Plonger",
-                "en": "Fosse à Plonger"
+                "en": "Fosse à Plonger",
+                "fr": "Fosse à Plonger"
               },
               "tip_5lang": {
                 "de": "Diese Tauchanlage ist komplett drinnen; es ist der ideale trockene und aktive Abschluss für einen durch und durch nassen Radtag in der Stadt.",
                 "hu": "Ez a búvárlétesítmény teljesen fedett; ideális száraz és aktív lezárása egy alaposan elázott, esős városi kerékpározós napnak.",
                 "ro": "Această facilitate de scufundări este complet la interior; este finalul ideal, uscat și activ, pentru o zi de ciclism urban complet udă.",
-                "en": "The diving facility is completely indoors; it's the absolutely ideal dry, active end to a thoroughly wet and grey day of cycling through the city."
+                "en": "The diving facility is completely indoors; it's the absolutely ideal dry, active end to a thoroughly wet and grey day of cycling through the city.",
+                "fr": "L’installation de plongeon est entièrement couverte ; c’est la fin sèche et active idéale d’une journée de vélo grise et très mouillée en ville."
               }
             }
           ]
@@ -730,7 +809,8 @@
             "de": "Radeln Sie in einen frischen Wintermorgen am Canal du Centre und im Moulin-Liron-Park, mit dicken Handschuhen. Mittags bieten die beheizten Innenräume der Basilika, des Hiéron-Museums und der Colombière-Kapelle eine willkommene Aufwärmung. Die winterliche Nachmittagsfahrt führt am Saint-Nicolas-Turm und der Maison Jayet vorbei. Erreichen Sie die Fosse à Plonger vor dem Sonnenuntergang um 17:00 Uhr.",
             "hu": "Tekerjen a friss téli reggelbe a Canal du Centre és a Moulin Liron Park mentén, vastag kesztyűben tartva melegen az ujjait. Délben a Bazilika, a Hiéron Múzeum és a Colombière kápolna fűtött terei felolvadást nyújtanak. A téli délutáni túra a Saint-Nicolas torony és a Maison Jayet mellett halad. Érkezzen a Fosse à Plonger-hez a 17:00 órai naplemente és fagyos szürkület előtt.",
             "ro": "Pedalați într-o dimineață răcoroasă de iarnă de-a lungul Canal du Centre și Parcului Moulin Liron, purtând mănuși groase. La prânz, interioarele încălzite ale Bazilicii, Muzeului Hiéron și Capelei Colombière oferă un dezgheț binevenit. Ciclismul de iarnă după-amiază trece pe lângă Turnul Saint-Nicolas și Maison Jayet. Ajungeți la Fosse à Plonger înainte de apusul de la ora 17:00.",
-            "en": "Pedal into a brisk winter morning along the Canal du Centre and Moulin Liron Park, keeping your fingers warm in thick gloves. At noon, the heated interiors of the Basilica, Hiéron Museum, and Colombière Chapel provide a welcome thaw. The winter afternoon ride passes the Saint-Nicolas Tower and Maison Jayet. Arrive at Fosse à Plonger before the 17:00 sunset and freezing twilight."
+            "en": "Pedal into a brisk winter morning along the Canal du Centre and Moulin Liron Park, keeping your fingers warm in thick gloves. At noon, the heated interiors of the Basilica, Hiéron Museum, and Colombière Chapel provide a welcome thaw. The winter afternoon ride passes the Saint-Nicolas Tower and Maison Jayet. Arrive at Fosse à Plonger before the 17:00 sunset and freezing twilight.",
+            "fr": "Pédalez dans une matinée hivernale vive le long du Canal du Centre et du parc du Moulin Liron, en gardant les doigts au chaud avec des gants épais. À midi, les intérieurs chauffés de la Basilique, du Musée Hiéron et de la Chapelle de la Colombière offrent une bonne détente. La balade hivernale de l’après-midi passe par la Tour Saint-Nicolas et la Maison Jayet. Arrivez à la Fosse à Plonger avant le coucher du soleil à 17:00 et le crépuscule glacial."
           },
           "stops": [
             {
@@ -738,13 +818,15 @@
                 "de": "Canal du Centre",
                 "hu": "Canal du Centre",
                 "ro": "Canal du Centre",
-                "en": "Canal du Centre"
+                "en": "Canal du Centre",
+                "fr": "Canal du Centre"
               },
               "tip_5lang": {
                 "de": "Eisige Winde wehen oft am Kanal; tragen Sie eine winddichte Radjacke und bewundern Sie die frostigen Ufer im blassen morgendlichen Winterlicht.",
                 "hu": "Jeges szelek fújnak a csatorna mentén; viseljen szélálló kerékpáros dzsekit, és csodálja meg a dérlepte partokat a sápadt reggeli fényben.",
                 "ro": "Vânturi înghețate bat de-a lungul canalului; purtați o jachetă de ciclism rezistentă la vânt și admirați malurile înghețate în lumina palidă a dimineții.",
-                "en": "Icy winds often whip along the canal; wear a solid windproof cycling jacket and admire the beautiful frosty banks in the pale morning light."
+                "en": "Icy winds often whip along the canal; wear a solid windproof cycling jacket and admire the beautiful frosty banks in the pale morning light.",
+                "fr": "Des vents glacés soufflent souvent le long du canal ; portez une solide veste coupe-vent pour le cyclisme et admirez les berges givrées dans la pâle lumière matinale."
               }
             },
             {
@@ -752,13 +834,15 @@
                 "de": "Moulin-Liron-Park",
                 "hu": "Moulin Liron Park",
                 "ro": "Parcul Moulin Liron",
-                "en": "Moulin Liron Park"
+                "en": "Moulin Liron Park",
+                "fr": "Parc du Moulin Liron"
               },
               "tip_5lang": {
                 "de": "Die kahlen Winterbäume bieten eine karge Schönheit; achten Sie bei der Fahrt durch den schattigen Park unbedingt auf gefährliches Glatteis.",
                 "hu": "A kopár téli fák rideg szépséget kínálnak; nagyon vigyázzon a veszélyes tükörjégre az árnyékos ösvényeken, miközben átteker a parkon.",
                 "ro": "Copacii goi de iarnă oferă o frumusețe aspră; aveți mare grijă la gheața neagră ascunsă pe potecile umbrite în timp ce traversați parcul.",
-                "en": "The bare winter trees offer stark beauty; watch out carefully for slippery black ice on the shaded paths as you ride briskly through the park."
+                "en": "The bare winter trees offer stark beauty; watch out carefully for slippery black ice on the shaded paths as you ride briskly through the park.",
+                "fr": "Les arbres dépouillés offrent une beauté austère ; faites très attention au verglas noir glissant sur les chemins ombragés en traversant rapidement le parc."
               }
             },
             {
@@ -766,13 +850,15 @@
                 "de": "Herz-Jesu-Basilika",
                 "hu": "Szent Szív Bazilika",
                 "ro": "Bazilica Inimii Sacre",
-                "en": "Basilica of the Sacred Heart"
+                "en": "Basilica of the Sacred Heart",
+                "fr": "Basilique du Sacré-Cœur"
               },
               "tip_5lang": {
                 "de": "Entfliehen Sie der beißenden Kälte im Inneren dieser Basilika; die dicken Steinmauern halten die winterliche Zugluft vom Radfahren perfekt fern.",
                 "hu": "Meneküljön el a csípős hideg elől e csodálatos bazilika belsejébe; a vastag kőfalak tökéletesen távol tartják a kerékpározás során átélt téli fagyot.",
                 "ro": "Scăpați de frigul tăios în interiorul acestei bazilici magnifice; pereții groși de piatră țin perfect la distanță gerul iernii simțit pe bicicletă.",
-                "en": "Escape the biting cold inside this magnificent basilica; the thick stone walls keep the harsh winter chill from your cycling perfectly at bay."
+                "en": "Escape the biting cold inside this magnificent basilica; the thick stone walls keep the harsh winter chill from your cycling perfectly at bay.",
+                "fr": "Échappez au froid mordant à l’intérieur de cette magnifique basilique ; les épaisses murailles de pierre protègent parfaitement du rude froid hivernal pour les cyclistes."
               }
             },
             {
@@ -780,13 +866,15 @@
                 "de": "Hiéron-Museum",
                 "hu": "Hiéron Múzeum",
                 "ro": "Muzeul Hiéron",
-                "en": "Hiéron Museum"
+                "en": "Hiéron Museum",
+                "fr": "Musée Hiéron"
               },
               "tip_5lang": {
                 "de": "Ein sehr empfehlenswerter Stopp, um Ihre frierenden Zehen aufzutauen; die beheizten Galerien lassen Sie die Meisterwerke gemütlich bewundern.",
                 "hu": "Kifejezetten ajánlott megálló a fagyos lábujjak felolvasztására; a fűtött galériákban kényelmesen, melegben csodálhatja meg a remekműveket.",
                 "ro": "O oprire foarte recomandată pentru a vă dezgheța degetele de la picioare; galeriile încălzite vă permit să admirați capodoperele în tot confortul.",
-                "en": "A highly recommended stop to finally thaw your freezing toes; the beautifully heated galleries let you comfortably admire the masterpieces in warmth."
+                "en": "A highly recommended stop to finally thaw your freezing toes; the beautifully heated galleries let you comfortably admire the masterpieces in warmth.",
+                "fr": "Un arrêt fortement recommandé pour enfin réchauffer vos orteils gelés ; les galeries agréablement chauffées vous permettent d’admirer les chefs-d’œuvre dans le confort."
               }
             },
             {
@@ -794,13 +882,15 @@
                 "de": "Colombière-Kapelle",
                 "hu": "Colombière kápolna",
                 "ro": "Capela Colombière",
-                "en": "Colombière Chapel"
+                "en": "Colombière Chapel",
+                "fr": "Chapelle de la Colombière"
               },
               "tip_5lang": {
                 "de": "Genießen Sie das warme, goldene Leuchten der Mosaike im Inneren; es ist ein gemütlicher Rückzugsort von Ihrer eiskalten winterlichen Radtour.",
                 "hu": "Élvezze a mozaikok meleg, aranyló ragyogását odabent; ez egy igazán hangulatos spirituális menedék a fagyos téli kerékpározás során.",
                 "ro": "Bucurați-vă de strălucirea caldă și aurie a mozaicurilor din interior; este o retragere spirituală confortabilă din ciclismul dumneavoastră rece.",
-                "en": "Enjoy the warm, golden glow of the mosaics inside; it is a wonderfully cozy spiritual retreat from your chilly, freezing winter cycling session."
+                "en": "Enjoy the warm, golden glow of the mosaics inside; it is a wonderfully cozy spiritual retreat from your chilly, freezing winter cycling session.",
+                "fr": "Savourez la chaude lueur dorée des mosaïques à l’intérieur ; c’est un merveilleux refuge spirituel et cosy après votre session de cyclisme hivernal glaciale."
               }
             },
             {
@@ -808,13 +898,15 @@
                 "de": "Saint-Nicolas-Turm",
                 "hu": "Saint-Nicolas torony",
                 "ro": "Turnul Saint-Nicolas",
-                "en": "Saint-Nicolas Tower"
+                "en": "Saint-Nicolas Tower",
+                "fr": "Tour Saint-Nicolas"
               },
               "tip_5lang": {
                 "de": "Der Winterhimmel bietet eine dramatische Kulisse für den Turm; wickeln Sie Ihren Schal eng, da der offene Platz auf dem Rad sehr windig ist.",
                 "hu": "A téli égbolt drámai hátteret biztosít a toronynak; tekerje szorosan a sálját, mivel a nyitott téren kerékpározva nagyon erős lehet a szél.",
                 "ro": "Cerul de iarnă oferă un fundal dramatic pentru turn; strângeți-vă bine fularul, deoarece piața deschisă poate fi extrem de vântoasă pe bicicletă.",
-                "en": "The winter sky provides a dramatic backdrop for the tower; keep your scarf pulled tight as the open square can be fiercely windy while riding."
+                "en": "The winter sky provides a dramatic backdrop for the tower; keep your scarf pulled tight as the open square can be fiercely windy while riding.",
+                "fr": "Le ciel d’hiver offre un arrière-plan dramatique pour la tour ; gardez votre écharpe bien serrée car la place ouverte peut être très venteuse en roulant."
               }
             },
             {
@@ -822,13 +914,15 @@
                 "de": "Maison Jayet",
                 "hu": "Maison Jayet",
                 "ro": "Maison Jayet",
-                "en": "Maison Jayet"
+                "en": "Maison Jayet",
+                "fr": "Maison Jayet"
               },
               "tip_5lang": {
                 "de": "Die historische Fassade sieht in der tiefstehenden Nachmittagssonne brillant aus; machen Sie ein schnelles Foto, bevor Ihre Finger zu kalt werden.",
                 "hu": "A történelmi homlokzat ragyogóan mutat a lapos délutáni napsütésben; készítsen egy gyors fotót, mielőtt az ujjai túlságosan áthűlnének a fagyban.",
                 "ro": "Fațada istorică arată genial în soarele scăzut de după-amiază; faceți o fotografie rapidă înainte ca degetele dumneavoastră să înghețe pe ghidon.",
-                "en": "The historic facade looks brilliant in the low afternoon sun; take a very quick photo before your fingers get too cold resting on the handlebars."
+                "en": "The historic facade looks brilliant in the low afternoon sun; take a very quick photo before your fingers get too cold resting on the handlebars.",
+                "fr": "La façade historique est splendide sous le soleil bas de l’après-midi ; prenez une photo très rapide avant que vos doigts ne deviennent trop froids en reposant sur le guidon."
               }
             },
             {
@@ -836,13 +930,15 @@
                 "de": "Fosse à Plonger",
                 "hu": "Fosse à Plonger",
                 "ro": "Fosse à Plonger",
-                "en": "Fosse à Plonger"
+                "en": "Fosse à Plonger",
+                "fr": "Fosse à Plonger"
               },
               "tip_5lang": {
                 "de": "Beenden Sie Ihre Fahrt, bevor es um 17:00 Uhr dunkel wird; der Sprung ins warme Wasser ist ein fantastischer Kontrast zur Winterkälte draußen.",
                 "hu": "Fejezze be az utat, mielőtt 17:00-kor besötétedik; a meleg vízbe merülés fantasztikus, izomlazító kontraszt a kinti zord téli hideggel szemben.",
                 "ro": "Terminați cursa înainte să se întunece la 17:00; scufundarea în apa caldă este un contrast fantastic și relaxant pentru mușchi față de gerul iernii.",
-                "en": "Finish your ride before it gets pitch dark at 17:00; diving into the warm indoor water is a fantastic, muscle-relaxing contrast to the winter cold."
+                "en": "Finish your ride before it gets pitch dark at 17:00; diving into the warm indoor water is a fantastic, muscle-relaxing contrast to the winter cold.",
+                "fr": "Terminez votre balade avant qu’il ne fasse totalement nuit à 17:00 ; plonger dans l’eau chaude intérieure est un contraste fantastique et relaxant pour les muscles après le froid hivernal."
               }
             }
           ]
@@ -862,7 +958,8 @@
             "de": "Fosse à Plonger",
             "hu": "Fosse à Plonger",
             "ro": "Fosse à Plonger",
-            "en": "Fosse à Plonger"
+            "en": "Fosse à Plonger",
+            "fr": "Fosse à Plonger"
           },
           "coords": [
             4.111787,
@@ -877,7 +974,8 @@
             "de": "Besuchen Sie mit der Familie diese moderne Tauchanlage für ein spannendes Wassererlebnis, aber buchen Sie Ihren Tauchplatz unbedingt rechtzeitig.",
             "hu": "Hozza el a családot ebbe a modern búvármedencébe, amely izgalmas vízi élményt kínál, de mindenképpen foglalja le jó előre a búvárkodás időpontját.",
             "ro": "Aduceți familia la acest bazin modern de scufundări pentru o experiență acvatică incitantă, dar asigurați-vă că rezervați din timp slotul dorit.",
-            "en": "Bring the family to this modern diving pool facility, offering an exciting aquatic experience, but make sure to book your diving slot well in advance."
+            "en": "Bring the family to this modern diving pool facility, offering an exciting aquatic experience, but make sure to book your diving slot well in advance.",
+            "fr": "Emmenez la famille dans cette piscine de plongeon moderne, offrant une expérience aquatique excitante, mais pensez à réserver votre créneau de plongeon bien à l’avance."
           }
         },
         {
@@ -885,7 +983,8 @@
             "de": "Maison Jayet",
             "hu": "Maison Jayet",
             "ro": "Maison Jayet",
-            "en": "Maison Jayet"
+            "en": "Maison Jayet",
+            "fr": "Maison Jayet"
           },
           "coords": [
             4.120457,
@@ -900,7 +999,8 @@
             "de": "Bewundern Sie die markante Renaissance-Fassade des Rathauses, ein Symbol des Bürgerstolzes, und fotografieren Sie die kunstvollen Steinschnitzereien.",
             "hu": "Csodálja meg a városháza lenyűgöző reneszánsz homlokzatát, és készítsen egy gyors fotót a bonyolult kőfaragványokról, miközben átsétál a téren.",
             "ro": "Admirați fațada renascentistă impresionantă a primăriei, un simbol al mândriei civice, și faceți o fotografie rapidă a sculpturilor în piatră.",
-            "en": "Admire the striking Renaissance facade of the town hall, a symbol of civic pride, and grab a quick photo of its intricate stone carvings."
+            "en": "Admire the striking Renaissance facade of the town hall, a symbol of civic pride, and grab a quick photo of its intricate stone carvings.",
+            "fr": "Admirez la façade Renaissance saisissante de l’hôtel de ville, symbole de fierté civique, et prenez rapidement une photo de ses sculptures de pierre finement travaillées."
           }
         },
         {
@@ -908,7 +1008,8 @@
             "de": "Saint-Nicolas-Turm",
             "hu": "Saint-Nicolas torony",
             "ro": "Turnul Saint-Nicolas",
-            "en": "Saint-Nicolas Tower"
+            "en": "Saint-Nicolas Tower",
+            "fr": "Tour Saint-Nicolas"
           },
           "coords": [
             4.120444,
@@ -923,7 +1024,8 @@
             "de": "Entdecken Sie diesen historischen Uhrenturm aus dem sechzehnten Jahrhundert und lauschen Sie dem Glockenspiel, das durch die alten Gassen hallt.",
             "hu": "Fedezze fel a tizenhatodik századból származó történelmi óratornyot, és hallgassa figyelmesen az óváros utcáin visszhangzó harangjátékot.",
             "ro": "Descoperiți acest turn istoric cu ceas datând din secolul al șaisprezecelea și ascultați cu atenție clopotele care răsună pe străzile vechi.",
-            "en": "Discover this historical clock tower, which dates back to the sixteenth century, and listen closely to hear the chimes echoing through the old streets."
+            "en": "Discover this historical clock tower, which dates back to the sixteenth century, and listen closely to hear the chimes echoing through the old streets.",
+            "fr": "Découvrez cette tour horloge historique, datant du XVIe siècle, et écoutez attentivement les cloches qui résonnent dans les vieilles rues."
           }
         },
         {
@@ -931,7 +1033,8 @@
             "de": "Colombière-Kapelle",
             "hu": "Colombière kápolna",
             "ro": "Capela Colombière",
-            "en": "Colombière Chapel"
+            "en": "Colombière Chapel",
+            "fr": "Chapelle de la Colombière"
           },
           "coords": [
             4.123884,
@@ -946,7 +1049,8 @@
             "de": "Treten Sie in diese ruhige Jesuitenkapelle ein, die dem Heiligen Claude de la Colombière gewidmet ist, um moderne Mosaike in Stille zu betrachten.",
             "hu": "Lépjen be a Claude de la Colombière Szentnek szentelt csendes jezsuita kápolnába, és találjon egy pillanatnyi békét a gyönyörű modern mozaikok alatt.",
             "ro": "Pășiți în această capelă iezuită liniștită dedicată Sfântului Claude de la Colombière pentru un moment de pace și pentru a admira mozaicurile.",
-            "en": "Step inside this tranquil Jesuit chapel dedicated to Saint Claude de la Colombière to find a moment of peace and observe the beautiful modern mosaics."
+            "en": "Step inside this tranquil Jesuit chapel dedicated to Saint Claude de la Colombière to find a moment of peace and observe the beautiful modern mosaics.",
+            "fr": "Pénétrez dans cette paisible chapelle jésuite dédiée à Saint Claude de la Colombière pour trouver un moment de paix et admirer les beaux mosaïques modernes."
           }
         },
         {
@@ -954,7 +1058,8 @@
             "de": "Hiéron-Museum",
             "hu": "Hiéron Múzeum",
             "ro": "Muzeul Hiéron",
-            "en": "Hiéron Museum"
+            "en": "Hiéron Museum",
+            "fr": "Musée Hiéron"
           },
           "coords": [
             4.1231,
@@ -969,7 +1074,8 @@
             "de": "Erkunden Sie dieses bemerkenswerte Museum für sakrale Kunst mit seinem nationalen Schatz, aber prüfen Sie vorab die saisonalen Öffnungszeiten.",
             "hu": "Fedezze fel ezt a szakrális művészetnek szentelt figyelemre méltó múzeumot, és nézze meg a nemzeti kincset, de előbb ellenőrizze a nyitvatartást.",
             "ro": "Explorați acest muzeu remarcabil dedicat artei sacre ce adăpostește o comoară națională, dar nu uitați să verificați programul de vizitare în prealabil.",
-            "en": "Explore this remarkable museum dedicated to sacred art, housing a stunning national treasure, but remember to check the seasonal opening hours beforehand."
+            "en": "Explore this remarkable museum dedicated to sacred art, housing a stunning national treasure, but remember to check the seasonal opening hours beforehand.",
+            "fr": "Explorez ce musée remarquable dédié à l’art sacré, qui abrite un trésor national éblouissant, mais pensez à vérifier au préalable les horaires saisonniers."
           }
         },
         {
@@ -977,7 +1083,8 @@
             "de": "Herz-Jesu-Basilika",
             "hu": "Szent Szív Bazilika",
             "ro": "Bazilica Inimii Sacre",
-            "en": "Basilica of the Sacred Heart"
+            "en": "Basilica of the Sacred Heart",
+            "fr": "Basilique du Sacré-Cœur"
           },
           "coords": [
             4.121709,
@@ -992,7 +1099,8 @@
             "de": "Bestaunen Sie dieses Meisterwerk der cluniazensischen Romanik, eine bedeutende Pilgerstätte, und nehmen Sie sich Zeit für die tiefgründigen Fresken.",
             "hu": "Csodálja meg a clunyi román stílusú építészet remekművét, a fontos zarándokhelyet, és szánjon időt a csodálatos freskók aprólékos tanulmányozására.",
             "ro": "Minunați-vă de această capodoperă a arhitecturii romanice de la Cluny, un loc de pelerinaj, și acordați-vă timp pentru a studia frescele din absidă.",
-            "en": "Marvel at this masterpiece of Cluniac Romanesque architecture, a major pilgrimage site, and take your time to study the profound frescoes in the apse."
+            "en": "Marvel at this masterpiece of Cluniac Romanesque architecture, a major pilgrimage site, and take your time to study the profound frescoes in the apse.",
+            "fr": "Admirez ce chef-d’œuvre de l’architecture romane clunisienne, important lieu de pèlerinage, et prenez le temps d’étudier les profondes fresques de l’abside."
           }
         },
         {
@@ -1000,7 +1108,8 @@
             "de": "Moulin-Liron-Park",
             "hu": "Moulin Liron Park",
             "ro": "Parcul Moulin Liron",
-            "en": "Moulin Liron Park"
+            "en": "Moulin Liron Park",
+            "fr": "Parc du Moulin Liron"
           },
           "coords": [
             4.122579,
@@ -1015,7 +1124,8 @@
             "de": "Entspannen Sie sich in dieser weitläufigen grünen Oase gleich hinter der Basilika, die sich perfekt für einen gemütlichen Spaziergang am Fluss eignet.",
             "hu": "Pihenjen meg a bazilika mögött található tágas zöld oázisban, amely tökéletes egy nyugodt sétához vagy egy kis piknikhez a Bourbince folyó partján.",
             "ro": "Relaxați-vă în această oază verde întinsă din spatele bazilicii, perfectă pentru o plimbare liniștită sau un mic picnic pe malul râului Bourbince.",
-            "en": "Relax in this expansive green oasis situated just behind the basilica, perfect for a leisurely stroll or enjoying a small picnic beside the river Bourbince."
+            "en": "Relax in this expansive green oasis situated just behind the basilica, perfect for a leisurely stroll or enjoying a small picnic beside the river Bourbince.",
+            "fr": "Détendez-vous dans cette vaste oasis verte située juste derrière la basilique, parfaite pour une promenade tranquille ou un petit pique-nique au bord de la rivière Bourbince."
           }
         },
         {
@@ -1023,7 +1133,8 @@
             "de": "Canal du Centre",
             "hu": "Canal du Centre",
             "ro": "Canal du Centre",
-            "en": "Canal du Centre"
+            "en": "Canal du Centre",
+            "fr": "Canal du Centre"
           },
           "coords": [
             4.120619,
@@ -1038,7 +1149,8 @@
             "de": "Spazieren Sie am ruhigen Wasser des Kanals entlang, der Loire und Saône verbindet, und beobachten Sie die kleinen Boote bei der Durchfahrt der Schleusen.",
             "hu": "Sétáljon vagy kerékpározzon a Loire-t és a Saône-t összekötő csatorna békés vizei mentén, és figyelje a történelmi zsilipeken áthaladó kishajókat.",
             "ro": "Plimbați-vă de-a lungul apelor pașnice ale canalului care leagă Loire de Saône și urmăriți bărcile mici care trec prin ecluzele istorice pitorești.",
-            "en": "Walk or cycle along the peaceful waters of the canal connecting the Loire and Saône, and watch the small boats navigating through the historic locks."
+            "en": "Walk or cycle along the peaceful waters of the canal connecting the Loire and Saône, and watch the small boats navigating through the historic locks.",
+            "fr": "Marchez ou faites du vélo le long des eaux paisibles du canal qui relie la Loire et la Saône, et regardez les petites embarcations franchir les écluses historiques."
           }
         }
       ],
@@ -1046,7 +1158,8 @@
         "de": "Beginnen Sie Ihren Autotrip mit einer erfrischenden Runde in der Fosse à Plonger, bevor Sie ins historische Zentrum zum Maison Jayet fahren.\n\nEntdecken Sie mittags den Saint-Nicolas-Turm, die Colombière-Kapelle und das Hiéron-Museum.\n\nWidmen Sie den Nachmittag der majestätischen Herz-Jesu-Basilika.\n\nLassen Sie den Roadtrip mit einem Spaziergang im Moulin-Liron-Park und am Kanal ausklingen.",
         "hu": "Kezdje az autós kirándulást egy frissítő élménnyel a Fosse à Plonger-ben, majd irány a történelmi központ és a Maison Jayet.\n\nDélben fedezze fel a Saint-Nicolas tornyot, a Colombière kápolnát és a Hiéron Múzeum kincseit.\n\nA délutánt szentelje a fenséges Szent Szív Bazilikának.\n\nZárja az autós utazást egy békés sétával a Moulin Liron parkban és a festői csatorna partján.",
         "ro": "Începeți ziua cu mașina cu o sesiune revigorantă la Fosse à Plonger înainte de a merge în centru pentru a vedea Maison Jayet.\n\nLa prânz, descoperiți Turnul Saint-Nicolas, Capela Colombière și comorile Muzeului Hiéron.\n\nDedicați după-amiaza maiestuoasei Bazilici a Inimii Sacre.\n\nÎncheiați călătoria cu o plimbare pașnică prin Parcul Moulin Liron și pe lângă canal.",
-        "en": "Start your driving day with an invigorating session at the Fosse à Plonger before heading into the historic center to see Maison Jayet.\n\nAt midday, discover the Saint-Nicolas Tower and the serene Colombière Chapel, followed by the treasures of the Hiéron Museum.\n\nDevote your afternoon to the majestic Basilica of the Sacred Heart.\n\nWind down your road trip with a peaceful walk through Moulin Liron Park and by the canal."
+        "en": "Start your driving day with an invigorating session at the Fosse à Plonger before heading into the historic center to see Maison Jayet.\n\nAt midday, discover the Saint-Nicolas Tower and the serene Colombière Chapel, followed by the treasures of the Hiéron Museum.\n\nDevote your afternoon to the majestic Basilica of the Sacred Heart.\n\nWind down your road trip with a peaceful walk through Moulin Liron Park and by the canal.",
+        "fr": "Commencez votre journée en voiture par une séance tonifiante à la Fosse à Plonger avant de vous rendre au centre historique voir la Maison Jayet.\n\nÀ midi, découvrez la Tour Saint-Nicolas et la sereine Chapelle de la Colombière, puis les trésors du Musée Hiéron.\n\nConsacrez votre après-midi à la majestueuse Basilique du Sacré-Cœur.\n\nTerminez votre road‑trip par une promenade paisible dans le parc du Moulin Liron et le long du canal."
       },
       "variants": {
         "rainy": {
@@ -1054,7 +1167,8 @@
             "de": "Beginnen Sie Ihre regnerische Fahrt an der Fosse à Plonger, um trocken zu bleiben. Fahren Sie mittags durch die nassen Straßen zur Maison Jayet und zum Saint-Nicolas-Turm. Verbringen Sie Ihren Nachmittag geschützt in der Colombière-Kapelle, im Hiéron-Museum und in der Herz-Jesu-Basilika. Beenden Sie Ihren Tag mit einer sicheren Fahrt am regnerischen Park und Kanal.",
             "hu": "Kezdje esős autózását a fedett Fosse à Plonger-nél, hogy teljesen száraz maradjon. Délben navigáljon a nedves utcákon a Maison Jayet és a Saint-Nicolas torony felé, közel parkolva. Töltse a délutánt a Colombière kápolna, a Hiéron Múzeum és a Szent Szív Bazilika védelmében. Zárja a napot egy biztonságos vezetéssel az esős Moulin Liron Park és a Canal du Centre mentén.",
             "ro": "Începeți cu mașina în ploaie la Fosse à Plonger pentru a rămâne uscat. La prânz, navigați pe străzile umede spre Maison Jayet și Turnul Saint-Nicolas, parcând foarte aproape. Petreceți după-amiaza adăpostit în Capela Colombière, Muzeul Hiéron și Bazilica Inimii Sacre. Încheiați ziua conducând în siguranță pe lângă Parcul Moulin Liron ploios și Canal du Centre.",
-            "en": "Start your rainy drive at the indoor Fosse à Plonger to stay completely dry. By noon, navigate the wet streets to see Maison Jayet and Saint-Nicolas Tower, parking close to avoid the rain. Spend your afternoon sheltered inside the Colombière Chapel, Hiéron Museum, and Sacred Heart Basilica. Conclude your day driving safely past the rainy Moulin Liron Park and Canal du Centre."
+            "en": "Start your rainy drive at the indoor Fosse à Plonger to stay completely dry. By noon, navigate the wet streets to see Maison Jayet and Saint-Nicolas Tower, parking close to avoid the rain. Spend your afternoon sheltered inside the Colombière Chapel, Hiéron Museum, and Sacred Heart Basilica. Conclude your day driving safely past the rainy Moulin Liron Park and Canal du Centre.",
+            "fr": "Commencez votre trajet pluvieux à la Fosse à Plonger couverte pour rester complètement au sec. À midi, circulez dans les rues mouillées pour voir la Maison Jayet et la Tour Saint-Nicolas, en vous garant à proximité pour éviter la pluie. Passez l’après-midi à l’abri dans la Chapelle de la Colombière, le Musée Hiéron et la Basilique du Sacré-Cœur. Concluez votre journée en conduisant prudemment le long du parc du Moulin Liron et du Canal du Centre sous la pluie."
           },
           "stops": [
             {
@@ -1062,13 +1176,15 @@
                 "de": "Fosse à Plonger",
                 "hu": "Fosse à Plonger",
                 "ro": "Fosse à Plonger",
-                "en": "Fosse à Plonger"
+                "en": "Fosse à Plonger",
+                "fr": "Fosse à Plonger"
               },
               "tip_5lang": {
                 "de": "Ein Indoor-Tauchbecken ist perfekt für einen regnerischen Start; parken Sie in der Nähe, um bei dieser einzigartigen Aktivität völlig trocken zu bleiben.",
                 "hu": "Egy fedett mélymerülő medence tökéletes az esős kezdéshez; parkoljon a közelben, hogy teljesen száraz maradjon ezen az egyedi, időjárásálló programon.",
                 "ro": "O piscină de scufundări interioară este perfectă pentru un început ploios; parcați aproape pentru a rămâne uscat la această activitate protejată.",
-                "en": "An indoor deep-diving pool is perfect for a rainy start; park nearby to stay completely dry while enjoying this highly unique, weather-proof activity."
+                "en": "An indoor deep-diving pool is perfect for a rainy start; park nearby to stay completely dry while enjoying this highly unique, weather-proof activity.",
+                "fr": "Une piscine profonde intérieure est parfaite pour un départ pluvieux ; garez-vous à proximité pour rester complètement sec tout en profitant de cette activité unique et garantie contre la météo."
               }
             },
             {
@@ -1076,13 +1192,15 @@
                 "de": "Maison Jayet",
                 "hu": "Maison Jayet",
                 "ro": "Maison Jayet",
-                "en": "Maison Jayet"
+                "en": "Maison Jayet",
+                "fr": "Maison Jayet"
               },
               "tip_5lang": {
                 "de": "Parken Sie so nah wie möglich am Zentrum; bewundern Sie die nasse Renaissance-Fassade bequem von Ihrem warmen Auto oder unter einem Regenschirm.",
                 "hu": "Parkoljon a lehető legközelebb a központhoz; csodálja meg a nedves reneszánsz homlokzatot kényelmesen az autójából, vagy egy esernyő alól.",
                 "ro": "Parcați cât mai aproape de centru posibil; admirați fațada renascentistă umedă din confortul mașinii dumneavoastră sau de sub o umbrelă mare.",
-                "en": "Park as close to the center as possible; admire the beautifully wet Renaissance facade from the comfort of your dry car or under a large umbrella."
+                "en": "Park as close to the center as possible; admire the beautifully wet Renaissance facade from the comfort of your dry car or under a large umbrella.",
+                "fr": "Garez-vous au plus près du centre ; admirez la jolie façade Renaissance mouillée depuis le confort de votre voiture sèche ou sous un grand parapluie."
               }
             },
             {
@@ -1090,13 +1208,15 @@
                 "de": "Saint-Nicolas-Turm",
                 "hu": "Saint-Nicolas torony",
                 "ro": "Turnul Saint-Nicolas",
-                "en": "Saint-Nicolas Tower"
+                "en": "Saint-Nicolas Tower",
+                "fr": "Tour Saint-Nicolas"
               },
               "tip_5lang": {
                 "de": "Der Regen verleiht diesem markanten Turm eine mittelalterliche Düsternis; fahren Sie langsam auf dem nassen Kopfsteinpflaster, wenn Sie parken.",
                 "hu": "Az eső középkori komorságot kölcsönöz ennek a feltűnő toronynak; vezessen lassan és óvatosan a nedves macskaköveken, amikor parkolóhelyet keres.",
                 "ro": "Ploaia adaugă o melancolie medievală acestui turn izbitor; conduceți încet pe pietrele cubice umede și alunecoase atunci când căutați parcare.",
-                "en": "The heavy rain adds a medieval gloom to this striking tower; drive very slowly on the slippery wet cobblestones when searching for a parking spot."
+                "en": "The heavy rain adds a medieval gloom to this striking tower; drive very slowly on the slippery wet cobblestones when searching for a parking spot.",
+                "fr": "La forte pluie ajoute une atmosphère médiévale à cette tour frappante ; conduisez très lentement sur les pavés glissants en cherchant une place de parking."
               }
             },
             {
@@ -1104,13 +1224,15 @@
                 "de": "Colombière-Kapelle",
                 "hu": "Colombière kápolna",
                 "ro": "Capela Colombière",
-                "en": "Colombière Chapel"
+                "en": "Colombière Chapel",
+                "fr": "Chapelle de la Colombière"
               },
               "tip_5lang": {
                 "de": "Ein kurzer Sprint vom Auto bringt Sie in diese lebhafte, mosaikgefüllte Kapelle, die Sie perfekt vor den heftigen Regenschauern schützt.",
                 "hu": "Egy rövid sprint az autótól eljuttatja ebbe az élénk, mozaikokkal teli kápolnába, amely tökéletes menedéket nyújt a heves záporok elől.",
                 "ro": "Un sprint scurt de la mașină vă aduce în această capelă vibrantă, plină de mozaicuri, protejându-vă perfect de aversele de ploaie puternice.",
-                "en": "A quick dash from your parked car brings you into this vibrant, mosaic-filled chapel, perfectly sheltering you from the relentless heavy showers."
+                "en": "A quick dash from your parked car brings you into this vibrant, mosaic-filled chapel, perfectly sheltering you from the relentless heavy showers.",
+                "fr": "Une courte course depuis votre voiture garée vous mène dans cette chapelle couverte de mosaïques, vous abritant parfaitement des fortes averses persistantes."
               }
             },
             {
@@ -1118,13 +1240,15 @@
                 "de": "Hiéron-Museum",
                 "hu": "Hiéron Múzeum",
                 "ro": "Muzeul Hiéron",
-                "en": "Hiéron Museum"
+                "en": "Hiéron Museum",
+                "fr": "Musée Hiéron"
               },
               "tip_5lang": {
                 "de": "Parken Sie in der Nähe und genießen Sie stundenlange, trockene Indoor-Erkundungen atemberaubender sakraler Kunst, während es draußen unerbittlich gießt.",
                 "hu": "Parkoljon a közelben, és élvezze a lenyűgöző szakrális művészet száraz, beltéri felfedezését órákon át, miközben kint könyörtelenül szakad az eső.",
                 "ro": "Parcați în apropiere și bucurați-vă de ore de explorare uscată a artei sacre uimitoare, în timp ce ploaia toarnă neîncetat afară în oraș.",
-                "en": "Park nearby and enjoy hours of dry, indoor exploration of stunningly rare sacred art while the rain pours completely relentlessly outside the walls."
+                "en": "Park nearby and enjoy hours of dry, indoor exploration of stunningly rare sacred art while the rain pours completely relentlessly outside the walls.",
+                "fr": "Garez-vous à proximité et profitez de longues heures d’exploration intérieure et sèche d’art sacré rarissime pendant que la pluie tombe sans relâche dehors."
               }
             },
             {
@@ -1132,13 +1256,15 @@
                 "de": "Herz-Jesu-Basilika",
                 "hu": "Szent Szív Bazilika",
                 "ro": "Bazilica Inimii Sacre",
-                "en": "Basilica of the Sacred Heart"
+                "en": "Basilica of the Sacred Heart",
+                "fr": "Basilique du Sacré-Cœur"
               },
               "tip_5lang": {
                 "de": "Das massive romanische Innere bietet eine großartige, trockene Zuflucht; lauschen Sie dem starken Regen, der vom alten Steindach widerhallt.",
                 "hu": "A masszív román belső tér nagyszerű, száraz menedéket nyújt; hallgassa a hatalmas, ősi kőtetőről visszaverődő heves eső megnyugtató kopogását.",
                 "ro": "Interiorul masiv romanic oferă un refugiu grandios și uscat; ascultați ploaia puternică care răsună frumos de pe acoperișul antic de piatră.",
-                "en": "The massive Romanesque interior provides a grand, dry refuge; sit peacefully and listen to the heavy rain loudly echoing off the ancient stone roof."
+                "en": "The massive Romanesque interior provides a grand, dry refuge; sit peacefully and listen to the heavy rain loudly echoing off the ancient stone roof.",
+                "fr": "L’imposant intérieur roman offre un grand refuge sec ; asseyez-vous paisiblement et écoutez la pluie battante résonner sur l’ancien toit de pierre."
               }
             },
             {
@@ -1146,13 +1272,15 @@
                 "de": "Moulin-Liron-Park",
                 "hu": "Moulin Liron Park",
                 "ro": "Parcul Moulin Liron",
-                "en": "Moulin Liron Park"
+                "en": "Moulin Liron Park",
+                "fr": "Parc du Moulin Liron"
               },
               "tip_5lang": {
                 "de": "Wenn der Regen zu stark ist, genießen Sie einfach das üppige, nasse Grün aus Ihren Autofenstern, anstatt schlammige Wanderwege zu riskieren.",
                 "hu": "Ha az eső túl heves, egyszerűen élvezze a buja, nedves növényzetet az autó ablakain keresztül, ahelyett, hogy megkockáztatná a saras ösvényeket.",
                 "ro": "Dacă plouă prea tare, bucurați-vă pur și simplu de verdeața luxuriantă și umedă de la geamurile mașinii, în loc să riscați potecile noroioase.",
-                "en": "If the rain is too heavy, simply enjoy the lush, wet greenery looking through your car windows rather than risking walking on the very muddy paths."
+                "en": "If the rain is too heavy, simply enjoy the lush, wet greenery looking through your car windows rather than risking walking on the very muddy paths.",
+                "fr": "Si la pluie est trop forte, contentez-vous d’admirer la végétation luxuriante et mouillée depuis vos vitres de voiture plutôt que de risquer de marcher sur des sentiers très boueux."
               }
             },
             {
@@ -1160,13 +1288,15 @@
                 "de": "Canal du Centre",
                 "hu": "Canal du Centre",
                 "ro": "Canal du Centre",
-                "en": "Canal du Centre"
+                "en": "Canal du Centre",
+                "fr": "Canal du Centre"
               },
               "tip_5lang": {
                 "de": "Die Kanaloberfläche tanzt mit Regentropfen; fahren Sie langsam entlang der angrenzenden Straßen, um die Wasserlandschaft trocken zu genießen.",
                 "hu": "A csatorna felszíne táncol az esőcseppektől; vezessen lassan a szomszédos utakon, hogy szárazon maradva élvezhesse a hangulatos vízi tájat.",
                 "ro": "Suprafața canalului dansează cu picături de ploaie; conduceți încet de-a lungul drumurilor adiacente pentru a vă bucura de peisajul acvatic uscat.",
-                "en": "The canal surface dances beautifully with raindrops; drive slowly along the adjacent roads to safely enjoy the watery landscape while staying totally dry."
+                "en": "The canal surface dances beautifully with raindrops; drive slowly along the adjacent roads to safely enjoy the watery landscape while staying totally dry.",
+                "fr": "La surface du canal danse joliment sous les gouttes ; conduisez lentement sur les routes adjacentes pour profiter prudemment du paysage aquatique tout en restant totalement sec."
               }
             }
           ]
@@ -1176,7 +1306,8 @@
             "de": "Beginnen Sie Ihren frostigen Morgen mit einer Fahrt zur beheizten Fosse à Plonger. Parken Sie mittags in der Nähe der Maison Jayet und des Saint-Nicolas-Turms, um das Gehen im beißenden Wind zu minimieren. Der Nachmittag bietet ein warmes Heiligtum in den Kapellen und Museen. Beenden Sie Ihre Winterfahrt am Park und Kanal, wenn die Sonne um 17:00 Uhr untergeht.",
             "hu": "Indítsa fagyos reggelét egy autózással a fűtött, fedett Fosse à Plonger-hez. Délben parkoljon a Maison Jayet és a Saint-Nicolas torony közelében, minimálisra csökkentve a sétát a csípős szélben. A délután meleg menedéket kínál a Colombière kápolnában, a Hiéron Múzeumban és a Bazilikában. Fejezze be a téli autózást a Parknál és a Csatornánál a 17:00 órai naplemente idején.",
             "ro": "Începeți dimineața geroasă conducând spre Fosse à Plonger încălzit. La prânz, parcați lângă Maison Jayet și Turnul Saint-Nicolas pentru a minimiza mersul în vântul tăios. După-amiaza oferă un sanctuar cald în Capela Colombière, Muzeul Hiéron și Bazilică. Terminați plimbarea cu mașina la Parc și Canal exact când soarele apune devreme, în jurul orei 17:00.",
-            "en": "Kick off your frosty morning driving to the heated indoor Fosse à Plonger. At noon, park near Maison Jayet and Saint-Nicolas Tower to minimize walking in the biting wind. The afternoon offers warm sanctuary inside the Colombière Chapel, Hiéron Museum, and Sacred Heart Basilica. Finish your winter drive at Moulin Liron Park and Canal du Centre just as the sun sets around 17:00."
+            "en": "Kick off your frosty morning driving to the heated indoor Fosse à Plonger. At noon, park near Maison Jayet and Saint-Nicolas Tower to minimize walking in the biting wind. The afternoon offers warm sanctuary inside the Colombière Chapel, Hiéron Museum, and Sacred Heart Basilica. Finish your winter drive at Moulin Liron Park and Canal du Centre just as the sun sets around 17:00.",
+            "fr": "Lancez votre matinée hivernale en voiture par la Fosse à Plonger chauffée. À midi, garez-vous près de la Maison Jayet et de la Tour Saint-Nicolas pour limiter les marches dans le vent mordant. L’après-midi offre un sanctuaire chaud dans la Chapelle de la Colombière, le Musée Hiéron et la Basilique du Sacré-Cœur. Terminez votre trajet hivernal au parc du Moulin Liron et au Canal du Centre juste au coucher du soleil vers 17:00."
           },
           "stops": [
             {
@@ -1184,13 +1315,15 @@
                 "de": "Fosse à Plonger",
                 "hu": "Fosse à Plonger",
                 "ro": "Fosse à Plonger",
-                "en": "Fosse à Plonger"
+                "en": "Fosse à Plonger",
+                "fr": "Fosse à Plonger"
               },
               "tip_5lang": {
                 "de": "Tauchen Sie in das angenehm beheizte Innenbecken ein; es ist eine brillante Möglichkeit, den eiskalten winterlichen Morgentemperaturen komplett zu entfliehen.",
                 "hu": "Merüljön el a kényelmesen fűtött beltéri medencében; zseniális módja annak, hogy az autó melegéből egyből elmeneküljön a fagyos téli reggel elől.",
                 "ro": "Scufundați-vă în piscina interioară încălzită confortabil; este o modalitate genială de a scăpa complet de temperaturile înghețate ale dimineții de iarnă.",
-                "en": "Dive straight into the comfortably heated indoor pool; it is a brilliant way to completely escape the freezing outdoor winter morning temperatures."
+                "en": "Dive straight into the comfortably heated indoor pool; it is a brilliant way to completely escape the freezing outdoor winter morning temperatures.",
+                "fr": "Plongez directement dans la piscine intérieure agréablement chauffée ; c’est une excellente façon d’échapper complètement aux températures hivernales glaciales."
               }
             },
             {
@@ -1198,13 +1331,15 @@
                 "de": "Maison Jayet",
                 "hu": "Maison Jayet",
                 "ro": "Maison Jayet",
-                "en": "Maison Jayet"
+                "en": "Maison Jayet",
+                "fr": "Maison Jayet"
               },
               "tip_5lang": {
                 "de": "Die komplexen Schnitzereien sind im Winterlicht wunderschön; nutzen Sie die Heizung Ihres Autos, um sich nach dem Fotografieren schnell aufzuwärmen.",
                 "hu": "A bonyolult faragások gyönyörűek a téli fényben; használja az autója fűtését, hogy a fotózás után gyorsan és kényelmesen felmelegedjen.",
                 "ro": "Sculpturile complicate sunt frumoase în lumina iernii; folosiți încălzirea mașinii pentru a vă încălzi rapid după ce ați făcut câteva fotografii.",
-                "en": "The intricate carvings are beautiful in the low winter light; utilize your car's powerful heater to warm up quickly right after snapping a photo."
+                "en": "The intricate carvings are beautiful in the low winter light; utilize your car's powerful heater to warm up quickly right after snapping a photo.",
+                "fr": "Les sculptures délicates sont magnifiques dans la faible lumière hivernale ; utilisez le puissant chauffage de votre voiture pour vous réchauffer rapidement juste après avoir pris une photo."
               }
             },
             {
@@ -1212,13 +1347,15 @@
                 "de": "Saint-Nicolas-Turm",
                 "hu": "Saint-Nicolas torony",
                 "ro": "Turnul Saint-Nicolas",
-                "en": "Saint-Nicolas Tower"
+                "en": "Saint-Nicolas Tower",
+                "fr": "Tour Saint-Nicolas"
               },
               "tip_5lang": {
                 "de": "Der imposante Turm sieht vor dem kalten Himmel spektakulär aus; parken Sie direkt am Platz, damit Sie im beißenden Wind nicht einfrieren.",
                 "hu": "Az impozáns torony látványos a hideg égbolt előtt; parkoljon közvetlenül a tér közelében, hogy ne fagyjon meg a csípős, jeges szélben sétálva.",
                 "ro": "Turnul impunător arată spectaculos pe cerul rece; parcați chiar lângă piață pentru a nu îngheța mergând mult prin vântul tăios de iarnă.",
-                "en": "The imposing tower looks absolutely spectacular against the cold sky; park very near the square so you do not freeze walking in the biting wind."
+                "en": "The imposing tower looks absolutely spectacular against the cold sky; park very near the square so you do not freeze walking in the biting wind.",
+                "fr": "La tour imposante est absolument spectaculaire sur le ciel froid ; garez-vous très près de la place pour ne pas être gelé en marchant dans le vent mordant."
               }
             },
             {
@@ -1226,13 +1363,15 @@
                 "de": "Colombière-Kapelle",
                 "hu": "Colombière kápolna",
                 "ro": "Capela Colombière",
-                "en": "Colombière Chapel"
+                "en": "Colombière Chapel",
+                "fr": "Chapelle Colombière"
               },
               "tip_5lang": {
                 "de": "Treten Sie schnell ein, um ein warmes Heiligtum zu finden; die hellen Mosaike bieten einen tollen visuellen Kontrast zum grauen Wintertag draußen.",
                 "hu": "Lépjen be gyorsan, hogy egy meleg szentélyt találjon; a világos mozaikok remek vizuális kontrasztot nyújtanak a kinti szürke téli nappal szemben.",
                 "ro": "Intrați rapid pentru a găsi un sanctuar cald; mozaicurile luminoase oferă un contrast vizual deosebit față de ziua cenușie de iarnă de afară.",
-                "en": "Step quickly inside to find a wonderfully warm, peaceful sanctuary; the bright mosaics offer a great visual contrast to the grey winter day outside."
+                "en": "Step quickly inside to find a wonderfully warm, peaceful sanctuary; the bright mosaics offer a great visual contrast to the grey winter day outside.",
+                "fr": "Entrez rapidement pour trouver un sanctuaire merveilleusement chaud et paisible ; les mosaïques lumineuses offrent un superbe contraste visuel avec le gris de la journée d'hiver à l'extérieur."
               }
             },
             {
@@ -1240,13 +1379,15 @@
                 "de": "Hiéron-Museum",
                 "hu": "Hiéron Múzeum",
                 "ro": "Muzeul Hiéron",
-                "en": "Hiéron Museum"
+                "en": "Hiéron Museum",
+                "fr": "Musée du Hiéron"
               },
               "tip_5lang": {
                 "de": "Ein fantastischer Winterstopp mit voll beheizten Galerien; lassen Sie Ihren schweren Mantel im Auto oder nutzen Sie die praktische Garderobe drinnen.",
                 "hu": "Fantasztikus téli megálló teljesen fűtött galériákkal; hagyja nehéz kabátját az autóban, vagy használja a kényelmes benti ruhatárat a melegben.",
                 "ro": "O oprire fantastică de iarnă cu galerii complet încălzite; lăsați haina grea în mașină sau folosiți garderoba lor interioară convenabilă.",
-                "en": "A fantastic, long winter stop with fully heated galleries; conveniently leave your heavy winter coat in the car or use their practical indoor cloakroom."
+                "en": "A fantastic, long winter stop with fully heated galleries; conveniently leave your heavy winter coat in the car or use their practical indoor cloakroom.",
+                "fr": "Une excellente halte hivernale longue avec des galeries entièrement chauffées ; laissez commodément votre manteau d'hiver lourd dans la voiture ou utilisez leur vestiaire intérieur pratique."
               }
             },
             {
@@ -1254,13 +1395,15 @@
                 "de": "Herz-Jesu-Basilika",
                 "hu": "Szent Szív Bazilika",
                 "ro": "Bazilica Inimii Sacre",
-                "en": "Basilica of the Sacred Heart"
+                "en": "Basilica of the Sacred Heart",
+                "fr": "Basilique du Sacré-Cœur"
               },
               "tip_5lang": {
                 "de": "Die dicken Mauern halten die extreme Winterkälte sicher draußen; sitzen Sie ruhig drinnen, um die Architektur im weichen Winterlicht zu bewundern.",
                 "hu": "A vastag falak biztonságosan kint tartják az extrém téli hideget; üljön le csendben bent, és csodálja meg az építészetet a lágy téli fényben.",
                 "ro": "Pereții groși țin la distanță frigul extrem de iarnă; așezați-vă liniștit înăuntru pentru a admira arhitectura în lumina moale și rece de iarnă.",
-                "en": "The incredibly thick walls safely keep the extreme winter cold out; sit quietly inside to thoroughly admire the architecture in the soft winter light."
+                "en": "The incredibly thick walls safely keep the extreme winter cold out; sit quietly inside to thoroughly admire the architecture in the soft winter light.",
+                "fr": "Les murs incroyablement épais gardent sûrement le froid hivernal extrême à l'extérieur ; asseyez-vous tranquillement à l'intérieur pour admirer en profondeur l'architecture dans la douce lumière d'hiver."
               }
             },
             {
@@ -1268,13 +1411,15 @@
                 "de": "Moulin-Liron-Park",
                 "hu": "Moulin Liron Park",
                 "ro": "Parcul Moulin Liron",
-                "en": "Moulin Liron Park"
+                "en": "Moulin Liron Park",
+                "fr": "Parc du Moulin Liron"
               },
               "tip_5lang": {
                 "de": "Fahren Sie langsam vorbei, um die frostbedeckten Bäume zu sehen; es ist eine wunderschöne Winterszene, die Sie am besten aus dem beheizten Fahrzeug genießen.",
                 "hu": "Hajtson el lassan, hogy lássa a dérlepte fákat; ez egy gyönyörű téli jelenet, amelyet a legkényelmesebb a fűtött járművéből megcsodálni.",
                 "ro": "Conduceți încet pe lângă parc pentru a vedea copacii acoperiți de ger; este o scenă frumoasă de iarnă pe care o puteți savura din vehiculul încălzit.",
-                "en": "Drive very slowly past to see the frost-covered trees; it is a beautiful, crisp winter scene that is honestly best enjoyed from your fully heated vehicle."
+                "en": "Drive very slowly past to see the frost-covered trees; it is a beautiful, crisp winter scene that is honestly best enjoyed from your fully heated vehicle.",
+                "fr": "Roulez très lentement pour voir les arbres couverts de givre ; c'est une belle scène hivernale vive qui se savoure honnêtement mieux depuis votre véhicule entièrement chauffé."
               }
             },
             {
@@ -1282,13 +1427,15 @@
                 "de": "Canal du Centre",
                 "hu": "Canal du Centre",
                 "ro": "Canal du Centre",
-                "en": "Canal du Centre"
+                "en": "Canal du Centre",
+                "fr": "Canal du Centre"
               },
               "tip_5lang": {
                 "de": "Erwischen Sie die malerische Dämmerung über dem eisigen Wasser vor dem Sonnenuntergang um 17:00 Uhr; ein perfekter Abschluss Ihrer Winterfahrt.",
                 "hu": "Kapja el a festői szürkületet a jeges víz felett a 17:00 órai naplemente előtt; tökéletes, hangulatos lezárása a téli autós városnézésnek.",
                 "ro": "Prindeți amurgul pitoresc peste apa înghețată înainte de apusul de la ora 17:00; un final perfect și confortabil pentru plimbarea cu mașina.",
-                "en": "Catch the scenic twilight perfectly reflecting over the icy water before the early 17:00 sunset; a perfect, cozy end to your scenic winter drive."
+                "en": "Catch the scenic twilight perfectly reflecting over the icy water before the early 17:00 sunset; a perfect, cozy end to your scenic winter drive.",
+                "fr": "Appréciez le crépuscule pittoresque se reflétant parfaitement sur l'eau glacée avant le coucher du soleil anticipé à 17:00 ; une fin parfaite et douillette à votre route hivernale panoramique."
               }
             }
           ]

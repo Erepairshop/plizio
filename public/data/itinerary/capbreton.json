@@ -70,7 +70,7 @@
             "hu": "Csodálja meg a bibliai halászjeleneteket ábrázoló falfestményeket.",
             "ro": "Admirați picturile murale cu scene biblice de pescuit.",
             "en": "Admire the murals depicting biblical fishing scenes.",
-            "fr": "Admirez les peintures murales représentant des scènes de pêche bibliques."
+            "fr": "Admirez les peintures murales représentant des scènes bibliques de pêche."
           }
         },
         {
@@ -89,7 +89,7 @@
             "hu": "Figyelje a jachtokat Landes megye egyetlen kikötőjében.",
             "ro": "Observați iahturile în singurul port din regiunea Landes.",
             "en": "Watch the yachts in the only port of the Landes department.",
-            "fr": "Observez les yachts dans le seul port du département des Landes."
+            "fr": "Regardez les yachts dans le seul port du département des Landes."
           }
         },
         {
@@ -108,7 +108,7 @@
             "hu": "Séta a III. Napóleon által építtetett 189 méteres fa mólón.",
             "ro": "Plimbare pe digul de lemn de 189 m construit de Napoleon III.",
             "en": "Walk on the 189m wooden pier built by Napoleon III.",
-            "fr": "Marchez sur l'estacade en bois de 189 m construite par Napoléon III."
+            "fr": "Marchez sur la jetée en bois de 189 m construite par Napoléon III."
           }
         },
         {
@@ -127,7 +127,7 @@
             "hu": "Tökéletes naplementés piknikhely a dűnék szélén.",
             "ro": "Perfect pentru un picnic la apus lângă dune.",
             "en": "Perfect for a sunset picnic by the dunes.",
-            "fr": "Parfait pour un pique-nique au coucher du soleil près des dunes."
+            "fr": "Parfait pour un pique‑nique au coucher du soleil près des dunes."
           }
         }
       ],
@@ -136,7 +136,7 @@
         "hu": "A reggel a halpiacon kezdődik, ahol a napi fogást közvetlenül a rakparton árulják. Ez egy hiteles élmény, amely megmutatja a város tengeri lelkét.\n\nDélben felfedezzük a történelmi központot és a Szent Miklós-templomot a tengerészek fogadalmi ajándékaival, majd a jachtkikötőnél pihenünk meg.\n\nA délután a híres Estacade mólóhoz vezet. Ez a fa építmény pazar kilátást nyújt az Atlanti-óceánra és a víz alatti kanyon bejáratára.\n\nBefejezésül élvezze a nyugalmat a Notre-Dame strandon. Itt az aranyszínű homok és a fenyőerdő illata találkozik a lemenő nap fényében.",
         "ro": "Dimineața începe la piața de pește, unde captura zilei este vândută direct pe chei. O experiență autentică ce dezvăluie sufletul maritim al orașului.\n\nLa prânz explorați centrul istoric și Biserica Sfântul Nicolae cu ofrandele marinarilor, înainte de a vă opri la portul de agrement pentru relaxare.\n\nDupă-amiaza vă duce la faimosul dig Estacade. Această structură de lemn oferă o vedere largă asupra Atlanticului și a intrării în canionul submarin.\n\nLa final, bucurați-vă de liniște pe Plaja Notre-Dame. Aici, nisipul auriu și mirosul pădurilor de pini se împletesc sub razele soarelui la apus.",
         "en": "Morning starts at the fish market, where the daily catch is sold directly on the quay. An authentic experience showing the city's maritime soul.\n\nAt midday, explore the historic center and Saint-Nicolas Church with its unique sailor votive offerings, then rest at the marina.\n\nAfternoon leads to the famous Estacade pier. This wooden structure offers wide views over the Atlantic and the entrance to the underwater canyon.\n\nTo finish, enjoy the peace at Notre-Dame Beach. Here, golden sand and the scent of pine forests meet under the setting sun.",
-        "fr": "La matinée commence au marché aux poissons, où la pêche du jour est vendue directement sur le quai. Une expérience authentique montrant l'âme maritime de la ville.\n\nÀ la mi-journée, explorez le centre historique et l'église Saint-Nicolas avec ses ex-voto marins uniques, puis reposez-vous au port de plaisance.\n\nL'après-midi mène à la célèbre Estacade. Cette structure en bois offre des vues imprenables sur l'Atlantique et l'entrée du canyon sous-marin.\n\nPour finir, profitez du calme à la plage Notre-Dame. Ici, le sable doré et l'odeur des forêts de pins se rencontrent sous le soleil couchant."
+        "fr": "La matinée commence au marché aux poissons, où la pêche du jour est vendue directement sur le quai. Une expérience authentique révélant l'âme maritime de la ville.\n\nÀ midi, explorez le centre historique et l'église Saint‑Nicolas avec ses offrandes votives de marins, puis reposez‑vous au port de plaisance.\n\nL'après‑midi mène à la célèbre Estacade. Cette structure en bois offre de larges vues sur l'Atlantique et l'entrée du canyon sous‑marin.\n\nPour finir, profitez du calme à la plage Notre‑Dame. Ici, le sable doré et l'odeur des pins se rencontrent sous le soleil couchant."
       },
       "gastro_picks": {
         "de": [
@@ -266,9 +266,9 @@
         ],
         "fr": [
           "Le marché aux poissons ferme vers midi, arrivez tôt.",
-          "Portez des chaussures confortables pour la longue marche sur l'estacade.",
-          "L'Estacade peut être mouillée à marée haute et par grand vent.",
-          "En été, le centre-ville est très animé le soir."
+          "Portez des chaussures confortables pour la longue marche sur la jetée.",
+          "L'Estacade peut être mouillée à marée haute et par vent fort.",
+          "En été, le centre‑ville est très animé le soir."
         ]
       }
     },
@@ -315,7 +315,7 @@
             "hu": "Vadstrand, ideális szörfösöknek és kerékpárosoknak.",
             "ro": "Plajă sălbatică, ideală pentru surferi și bicicliști.",
             "en": "Wild beach, ideal for surfers and cyclists.",
-            "fr": "Plage sauvage, idéale pour les surfeurs et les cyclistes."
+            "fr": "Plage sauvage, idéale pour surfeurs et cyclistes."
           }
         },
         {
@@ -334,7 +334,7 @@
             "hu": "Ismerje meg a 3500 méter mély kanyon geológiáját.",
             "ro": "Aflați despre geologia canionului adânc de 3500 m.",
             "en": "Learn about the geology of the 3500m deep canyon.",
-            "fr": "Apprenez-en plus sur la géologie du canyon profond de 3500 m."
+            "fr": "Informez‑vous sur la géologie du canyon profond de 3500 m."
           }
         },
         {
@@ -353,7 +353,7 @@
             "hu": "Kerékpártárolók közvetlenül a kikötő bejáratánál.",
             "ro": "Rasteluri de biciclete direct la intrarea în port.",
             "en": "Bike racks available directly at the harbor entrance.",
-            "fr": "Supports à vélos disponibles directement à l'entrée du port."
+            "fr": "Arceaux vélo disponibles directement à l'entrée du port."
           }
         },
         {
@@ -372,7 +372,7 @@
             "hu": "A kerékpárutak hűvös fenyőerdőkön vezetnek keresztül.",
             "ro": "Pistele de biciclete trec prin păduri de pini răcoroase.",
             "en": "The bike paths lead through cool pine forests.",
-            "fr": "Les pistes cyclables traversent des forêts de pins fraîches."
+            "fr": "Les pistes traversent des forêts de pins rafraîchissantes."
           }
         }
       ],
@@ -381,7 +381,7 @@
         "hu": "Kerékpárral könnyedén felfedezheti Capbreton egész tengerpartját. Kezdje a kikötőben, és kövesse a sík utakat.\n\nDélelőtt eléri a vadabb Plage des Océanides-t, ahol az Atlanti-óceán ereje különösen érezhető.\n\nA dűnék menti tekerés után többet tudhat meg a Gouf-ról, az óriási víz alatti kanyonról, amely különlegessé teszi itt a hullámokat.\n\nA nap a fenyők árnyékában zárul a Notre-Dame strandon, ahol a kerékpárutak kiválóan kiépítettek.",
         "ro": "Cu bicicleta explorați fără efort întreaga coastă a Capbretonului. Începeți în port și urmați traseele plate.\n\nÎn cursul dimineții ajungeți la sălbatica Plajă des Océanides, unde forța Atlanticului este resimțită din plin.\n\nDupă o plimbare de-a lungul dunelor, aflați mai multe despre Gouf, uriașul canion submarin care face valurile de aici atât de speciale.\n\nZiua se încheie la umbra pinilor lângă Plaja Notre-Dame, unde pistele de biciclete sunt perfect amenajate.",
         "en": "By bike, you can effortlessly explore the entire coast of Capbreton. Start at the harbor and follow the flat paths.\n\nIn the morning, you reach the wilder Plage des Océanides, where the power of the Atlantic is especially palpable.\n\nAfter a ride along the dunes, learn more about the Gouf, the giant underwater canyon that makes the waves here so unique.\n\nThe day ends in the shade of pines near Notre-Dame Beach, where the bike paths are perfectly developed.",
-        "fr": "À vélo, vous pouvez explorer sans effort toute la côte de Capbreton. Partez du port et suivez les pistes plates.\n\nLe matin, vous atteignez la plage sauvage des Océanides, où la puissance de l'Atlantique est particulièrement palpable.\n\nAprès une balade le long des dunes, apprenez-en plus sur le Gouf, le géant canyon sous-marin qui rend les vagues ici si uniques.\n\nLa journée se termine à l'ombre des pins près de la plage Notre-Dame, où les pistes cyclables sont parfaitement aménagées."
+        "fr": "À vélo, vous pouvez explorer sans effort toute la côte de Capbreton. Commencez au port et suivez les pistes plates.\n\nLe matin, vous atteignez la plus sauvage Plage des Océanides, où la puissance de l'Atlantique se ressent particulièrement.\n\nAprès une balade le long des dunes, en apprenez davantage sur le Gouf, le gigantesque canyon sous‑marin qui rend les vagues si particulières ici.\n\nLa journée se termine à l'ombre des pins près de la plage Notre‑Dame, où les pistes cyclables sont parfaitement aménagées."
       },
       "gastro_picks": {
         "de": [
@@ -510,10 +510,10 @@
           "Rent a bike for the full day for maximum freedom."
         ],
         "fr": [
-          "Capbreton est très plat, idéal pour le vélo de loisir.",
-          "Attachez votre vélo aux supports officiels.",
-          "Les pistes sont souvent partagées avec les piétons, soyez prudent.",
-          "Louez un vélo pour la journée entière pour un maximum de liberté."
+          "Capbreton est très plat, idéal pour le vélo facile.",
+          "Accrochez votre vélo aux arceaux officiels.",
+          "Les voies sont souvent partagées avec les piétons, soyez prudent.",
+          "Louez un vélo pour la journée entière pour une liberté maximale."
         ]
       }
     },
@@ -541,7 +541,7 @@
             "hu": "Ingyenes parkolók gyakran a kikötőtől kissé távolabb találhatók.",
             "ro": "Parcări gratuite se găsesc adesea puțin mai departe de port.",
             "en": "Free parking is often found a bit further from the harbor.",
-            "fr": "On trouve souvent des parkings gratuits un peu plus loin du port."
+            "fr": "Le stationnement gratuit se trouve souvent un peu à l'écart du port."
           }
         },
         {
@@ -560,7 +560,7 @@
             "hu": "A város jelképe a kikötő végén.",
             "ro": "Simbolul orașului la capătul portului.",
             "en": "The city's landmark at the end of the harbor.",
-            "fr": "L'emblème de la ville à l'extrémité du port."
+            "fr": "Le point de repère de la ville au bout du port."
           }
         },
         {
@@ -579,7 +579,7 @@
             "hu": "Gyönyörű sós vizű tó, ideális egy pihenőre.",
             "ro": "Lac superb cu apă sărată, ideal pentru o pauză.",
             "en": "Beautiful saltwater lake, ideal for a break.",
-            "fr": "Magnifique lac marin, idéal pour une pause."
+            "fr": "Beau lac d'eau salée, idéal pour une pause."
           }
         },
         {
@@ -598,7 +598,7 @@
             "hu": "Parkoljon a városközpontban a templom közelében.",
             "ro": "Parcați în centrul orașului lângă biserică.",
             "en": "Park in the city center near the church.",
-            "fr": "Garez-vous au centre-ville près de l'église."
+            "fr": "Garez‑vous au centre‑ville près de l'église."
           }
         },
         {
@@ -626,7 +626,7 @@
         "hu": "Autóval gyorsan elérheti a környék nevezetességeit is, mint például a Hossegor-tavat. Kezdjen korán a capbretoni halpiacon.\n\nA móló meglátogatása után hajtson a Hossegor-tóhoz, hogy megcsodálja a baszk-landes-i villákat és a nyugodt vizet.\n\nDélután a városközpontban merüljön el a halászok történelmében, majd zárja a napot a tágas Océanides strandon.\n\nA rövid távolságok pihentetővé és változatossá teszik ezt a napot.",
         "ro": "Cu mașina ajungeți rapid și la punctele de atracție din jur, precum lacul Hossegor. Începeți devreme la piața de pește din Capbreton.\n\nDupă o vizită la dig, conduceți spre Lac d'Hossegor pentru a admira vilele basco-landeze și apele liniștite.\n\nDupă-amiaza pătrundeți în istoria pescarilor în centrul orașului, înainte de a încheia ziua pe vasta plajă Océanides.\n\nDistanțele scurte fac ca această zi să fie relaxantă și diversificată.",
         "en": "By car, you can quickly reach surrounding highlights like Lake Hossegor. Start early at the Capbreton fish market.\n\nAfter visiting the pier, drive to Lac d'Hossegor to admire the Basque-Landaise villas and the calm waters.\n\nIn the afternoon, dive into the history of fishermen in the city center before ending the day at the wide Océanides beach.\n\nThe short distances make this day relaxed and varied.",
-        "fr": "En voiture, vous pouvez rapidement atteindre les sites environnants comme le lac d'Hossegor. Commencez tôt au marché aux poissons de Capbreton.\n\nAprès avoir visité l'estacade, conduisez jusqu'au lac d'Hossegor pour admirer les villas basco-landaises et les eaux calmes.\n\nL'après-midi, plongez dans l'histoire des pêcheurs au centre-ville avant de terminer la journée à la vaste plage des Océanides.\n\nLes courtes distances rendent cette journée détendue et variée."
+        "fr": "En voiture, vous pouvez rapidement rejoindre les sites environnants comme le lac d'Hossegor. Commencez tôt au marché aux poissons de Capbreton.\n\nAprès la visite de la jetée, conduisez jusqu'au Lac d'Hossegor pour admirer les villas basques‑landaises et les eaux calmes.\n\nL'après‑midi, plongez dans l'histoire des pêcheurs au centre‑ville avant de terminer la journée à la large plage des Océanides.\n\nLes courtes distances rendent cette journée détendue et variée."
       },
       "gastro_picks": {
         "de": [
@@ -755,9 +755,9 @@
           "Use the harbor parking lots for the fish market."
         ],
         "fr": [
-          "Le parking à la plage est payant en été.",
-          "La liaison avec Hossegor ne prend que quelques minutes de route.",
-          "Évitez les heures de pointe en fin d'après-midi.",
+          "Le stationnement à la plage est payant en été.",
+          "La liaison avec Hossegor n'est qu'à quelques minutes en voiture.",
+          "Évitez les heures de pointe en fin d'après‑midi.",
           "Utilisez les parkings du port pour le marché aux poissons."
         ]
       }
@@ -862,7 +862,7 @@
             "hu": "A strandbusz nyáron rendszeresen közlekedik.",
             "ro": "Autobuzul pentru plajă circulă regulat vara.",
             "en": "The beach bus runs regularly in summer.",
-            "fr": "Le bus des plages circule régulièrement en été."
+            "fr": "Le bus de plage circule régulièrement en été."
           }
         }
       ],
@@ -871,7 +871,7 @@
         "hu": "A Yégo hálózatnak köszönhetően autó nélkül is felfedezheti Capbretont. A délelőtt a kikötői tengeri életnek szentelt.\n\nA halpiac és az Estacade után a busz a régi központba viszi, ahol a történelem és a hagyományok életre kelnek.\n\nLátogasson el a Szent Miklós-templomba, mielőtt délután a strandok felé veszi az irányt.\n\nA nyári ingyenes strandbusz egyszerűvé és környezetbaráttá teszi az utat a Notre-Dame strandhoz.",
         "ro": "Datorită rețelei Yégo, puteți explora Capbreton și fără mașină. Dimineața este dedicată vieții maritime din port.\n\nDupă piața de pește și digul Estacade, autobuzul vă duce în centrul vechi, unde istoria și tradiția prind viață.\n\nVizitați Biserica Sfântul Nicolae înainte de a pleca spre plaje după-amiaza.\n\nAutobuzul gratuit pentru plajă din timpul verii face drumul către Plaja Notre-Dame simplu și ecologic.",
         "en": "Thanks to the Yégo network, you can explore Capbreton without a car. The morning is dedicated to maritime life at the harbor.\n\nAfter the fish market and the Estacade, the bus takes you to the old center, where history and tradition are alive.\n\nVisit Saint-Nicolas Church before heading to the beaches in the afternoon.\n\nThe free beach bus in summer makes the trip to Notre-Dame Beach simple and eco-friendly.",
-        "fr": "Grâce au réseau Yégo, vous pouvez explorer Capbreton sans voiture. La matinée est consacrée à la vie maritime au port.\n\nAprès le marché aux poissons et l'Estacade, le bus vous emmène dans le vieux centre, où l'histoire et la tradition sont vivantes.\n\nVisitez l'église Saint-Nicolas avant de vous diriger vers les plages l'après-midi.\n\nLe bus des plages gratuit en été rend le trajet vers la plage Notre-Dame simple et écologique."
+        "fr": "Grâce au réseau Yégo, vous pouvez explorer Capbreton sans voiture. La matinée est dédiée à la vie maritime au port.\n\nAprès le marché aux poissons et l'Estacade, le bus vous conduit au vieux centre, où histoire et traditions sont vivantes.\n\nVisitez l'église Saint‑Nicolas avant de vous rendre sur les plages l'après‑midi.\n\nLa navette plage gratuite en été rend le trajet vers la plage Notre‑Dame simple et écologique."
       },
       "gastro_picks": {
         "de": [
@@ -1000,9 +1000,9 @@
           "Stops are well marked."
         ],
         "fr": [
-          "En été, les navettes des plages sont gratuites.",
-          "Consultez les horaires de la ligne 1 pour le centre-ville.",
-          "Validez votre titre de transport en montant.",
+          "En été, les navettes de plage sont gratuites.",
+          "Vérifiez les horaires de la Ligne 1 pour le centre‑ville.",
+          "Validez votre titre de transport à la montée.",
           "Les arrêts sont bien signalés."
         ]
       }

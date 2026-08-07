@@ -21,7 +21,8 @@
             "de": "Saint-Méen Kirche",
             "hu": "Saint-Méen Templom",
             "ro": "Biserica Saint-Méen",
-            "en": "Saint-Méen Church"
+            "en": "Saint-Méen Church",
+            "fr": "Église Saint-Méen"
           },
           "coords": [
             -1.8507,
@@ -36,7 +37,8 @@
             "de": "Bewundern Sie die Architektur dieser Kirche zu Ehren der Seeleute und verpassen Sie nicht das kleine Museum zur maritimen Geschichte im Obergeschoss.",
             "hu": "Csodálja meg ennek a tengerészeket tisztelő történelmi templomnak az építészetét, és ne hagyja ki az emeleti, helyi tengerészeti történelmet bemutató kis múzeumot.",
             "ro": "Admirați arhitectura acestei biserici istorice dedicate marinarilor și nu ratați micul muzeu maritim local aflat la etaj, plin de exponate fascinante.",
-            "en": "Admire the beautiful architecture of this historic church that honors sailors, and don't miss the small museum dedicated to local maritime history upstairs."
+            "en": "Admire the beautiful architecture of this historic church that honors sailors, and don't miss the small museum dedicated to local maritime history upstairs.",
+            "fr": "Admirez la belle architecture de cette église historique qui rend hommage aux marins, et ne manquez pas le petit musée consacré à l'histoire maritime locale à l'étage."
           }
         },
         {
@@ -44,7 +46,8 @@
             "de": "Museum der populären Künste und Traditionen",
             "hu": "Népművészeti és Hagyományok Múzeuma",
             "ro": "Muzeul de Arte și Tradiții Populare",
-            "en": "Museum of Popular Arts and Traditions"
+            "en": "Museum of Popular Arts and Traditions",
+            "fr": "Musée des Arts et Traditions Populaires"
           },
           "coords": [
             -1.850315,
@@ -59,7 +62,8 @@
             "de": "Erkunden Sie das reiche bretonische Erbe in diesem Museum und achten Sie auf die wechselnden Ausstellungen mit einzigartigem regionalen Kunsthandwerk.",
             "hu": "Fedezze fel a gazdag breton örökséget ebben a múzeumban, és mindenképpen nézze meg az egyedi regionális kézműves termékeket bemutató időszaki kiállításokat.",
             "ro": "Explorați bogata moștenire bretonă în acest muzeu fascinant și asigurați-vă că verificați expozițiile temporare pentru a vedea meșteșuguri regionale unice.",
-            "en": "Explore the rich Breton heritage and daily life of the past in this museum, and be sure to check the temporary exhibitions for unique regional crafts."
+            "en": "Explore the rich Breton heritage and daily life of the past in this museum, and be sure to check the temporary exhibitions for unique regional crafts.",
+            "fr": "Explorez le riche patrimoine breton et la vie quotidienne d'antan dans ce musée, et pensez à vérifier les expositions temporaires pour des objets d'artisanat régional uniques."
           }
         },
         {
@@ -67,7 +71,8 @@
             "de": "Austernmarkt",
             "hu": "Osztrigapiac",
             "ro": "Piața de Stridii",
-            "en": "Oyster Market"
+            "en": "Oyster Market",
+            "fr": "Marché aux Huîtres"
           },
           "coords": [
             -1.851314,
@@ -82,7 +87,8 @@
             "de": "Probieren Sie die weltberühmten, frisch geernteten Cancale-Austern direkt am Wasser und werfen Sie die leeren Schalen wie die Einheimischen an den Strand.",
             "hu": "Kóstolja meg a világhírű, frissen szüretelt osztrigát közvetlenül a vízparton, és ne felejtse el az üres kagylókat a helyiekhez hasonlóan a partra dobni.",
             "ro": "Gustați stridiile de Cancale proaspăt recoltate pe malul apei și amintiți-vă să aruncați cochiliile goale direct pe plajă, așa cum fac și localnicii.",
-            "en": "Taste the world-famous Cancale oysters freshly harvested right on the waterfront, and remember to toss your empty shells onto the beach like the locals do."
+            "en": "Taste the world-famous Cancale oysters freshly harvested right on the waterfront, and remember to toss your empty shells onto the beach like the locals do.",
+            "fr": "Goûtez les huîtres mondialement connues de Cancale, fraîchement récoltées au bord de l'eau, et souvenez-vous de jeter vos coquilles vides sur la plage comme le font les locaux."
           }
         },
         {
@@ -90,7 +96,8 @@
             "de": "Port de la Houle",
             "hu": "Port de la Houle",
             "ro": "Port de la Houle",
-            "en": "Port de la Houle"
+            "en": "Port de la Houle",
+            "fr": "Port de la Houle"
           },
           "coords": [
             -1.855577,
@@ -105,7 +112,8 @@
             "de": "Schlendern Sie durch den Hafen mit seinen Fischerbooten und gemütlichen Cafés und machen Sie bei Ebbe ein perfektes Foto vom nördlichen Pier.",
             "hu": "Sétáljon végig ezen a hagyományos halászhajókkal és kávézókkal teli nyüzsgő kikötőn, és készítsen egy tökéletes tengerparti képet az északi mólóról.",
             "ro": "Plimbați-vă de-a lungul acestui port plin de bărci tradiționale și cafenele și faceți o fotografie perfectă de pe digul nordic la reflux.",
-            "en": "Stroll along this lively port filled with traditional fishing boats and cozy cafes, and grab a perfect seaside picture from the northern pier at low tide."
+            "en": "Stroll along this lively port filled with traditional fishing boats and cozy cafes, and grab a perfect seaside picture from the northern pier at low tide.",
+            "fr": "Promenez-vous le long de ce port animé rempli de bateaux de pêche traditionnels et de cafés accueillants, et prenez la photo parfaite depuis la jetée nord à marée basse."
           }
         },
         {
@@ -113,7 +121,8 @@
             "de": "Plage de Cancale",
             "hu": "Plage de Cancale",
             "ro": "Plaja Cancale",
-            "en": "Plage de Cancale"
+            "en": "Plage de Cancale",
+            "fr": "Plage de Cancale"
           },
           "coords": [
             -1.857367,
@@ -128,7 +137,8 @@
             "de": "Entspannen Sie sich an diesem Sandstrand mit herrlichem Blick auf die Bucht und tragen Sie feste Schuhe, um die felsigen Gezeitentümpel zu erkunden.",
             "hu": "Pihenjen ezen a hatalmas homokos strandon, ahonnan csodálatos kilátás nyílik az öbölre, és viseljen erős cipőt a sziklás árapály-medencék felfedezéséhez.",
             "ro": "Relaxați-vă pe această plajă spațioasă cu vedere spre golf și purtați încălțăminte solidă pentru a explora piscinele naturale formate de maree printre stânci.",
-            "en": "Relax on this expansive sandy beach offering wonderful views of the bay of Mont Saint-Michel, and wear sturdy shoes for exploring the rocky tide pools."
+            "en": "Relax on this expansive sandy beach offering wonderful views of the bay of Mont Saint-Michel, and wear sturdy shoes for exploring the rocky tide pools.",
+            "fr": "Détendez-vous sur cette vaste plage de sable offrant de magnifiques vues sur la baie du Mont-Saint-Michel, et portez des chaussures solides pour explorer les mares rocheuses."
           }
         }
       ],
@@ -136,7 +146,8 @@
         "de": "Morgen: Beginnen Sie im Herzen von Cancale und erkunden Sie die reiche maritime Geschichte an der örtlichen Kirche und im Heimatmuseum.\n\nMittag: Gehen Sie hinunter zum Wasser, um den berühmten Freiluft-Austernmarkt direkt am Meer zu erleben.\n\nNachmittag: Schlendern Sie durch Port de la Houle und genießen Sie die lebhafte Atmosphäre der traditionellen Boote.\n\nAbend: Entspannen Sie an der Plage de Cancale und genießen Sie den wunderschönen Blick auf den fernen Mont Saint-Michel.",
         "hu": "Reggel: Kezdjen Cancale szívében, felfedezve a gazdag tengerészeti történelmet a helyi templomban és a múzeumban.\n\nDél: Menjen le a vízpartra, hogy megtapasztalja a híres szabadtéri osztrigapiacot közvetlenül a tenger mellett.\n\nDélután: Sétáljon végig a Port de la Houle-on, élvezve a vibráló hangulatot és a színes, hagyományos csónakokat.\n\nEste: Pihenjen a Plage de Cancale-on, ahogy az árapály visszahúzódik a távoli Mont Saint-Michel látványával.",
         "ro": "Dimineața: Începeți în inima orașului Cancale, explorând istoria sa maritimă bogată la biserica locală și la muzeul de patrimoniu.\n\nPrânz: Coborâți spre malul apei pentru a experimenta faimoasa piață de stridii în aer liber chiar lângă mare.\n\nDupă-amiază: Plimbați-vă prin Port de la Houle, bucurându-vă de atmosfera vibrantă a ambarcațiunilor tradiționale colorate.\n\nSeara: Relaxați-vă pe Plage de Cancale, admirând priveliștile îndepărtate superbe spre legendarul Mont Saint-Michel.",
-        "en": "Morning: Start in the heart of Cancale, exploring its rich maritime history at the local church and the heritage museum.\n\nMidday: Head down towards the waterfront to experience the famous open-air oyster market right by the sea.\n\nAfternoon: Stroll through Port de la Houle, enjoying the vibrant atmosphere and the colorful traditional boats.\n\nEvening: Relax on Plage de Cancale as the tide recedes, soaking in the beautiful views of the distant Mont Saint-Michel."
+        "en": "Morning: Start in the heart of Cancale, exploring its rich maritime history at the local church and the heritage museum.\n\nMidday: Head down towards the waterfront to experience the famous open-air oyster market right by the sea.\n\nAfternoon: Stroll through Port de la Houle, enjoying the vibrant atmosphere and the colorful traditional boats.\n\nEvening: Relax on Plage de Cancale as the tide recedes, soaking in the beautiful views of the distant Mont Saint-Michel.",
+        "fr": "Matin : Commencez au cœur de Cancale, en découvrant son riche passé maritime à l'église locale et au musée du patrimoine.\n\nMidi : Descendez vers le bord de mer pour vivre l'expérience du célèbre marché aux huîtres en plein air, au bord de l'eau.\n\nAprès-midi : Promenez-vous dans le Port de la Houle, en profitant de l'ambiance animée et des bateaux traditionnels colorés.\n\nSoir : Détendez-vous sur la Plage de Cancale tandis que la marée se retire, en admirant la vue sur le lointain Mont-Saint-Michel."
       },
       "variants": {
         "rainy": {
@@ -144,7 +155,8 @@
             "de": "Morgens bietet die Kirche Schutz vor den Schauern. Mittags erkunden Sie das Museum trocken und gemütlich. Nachmittags ist der Austernmarkt zwar feucht, aber die neblige Bucht wirkt besonders mystisch; tragen Sie unbedingt Regenkleidung. Abends genießen Sie die Atmosphäre am Hafen von einem der überdachten Bistros aus, während der Regen auf das Meer peitscht.",
             "hu": "Reggel a monumentális templom nyújt menedéket a záporok elől. Délelőtt a múzeum fedett kiállításai között maradhatunk szárazon. Délben az osztrigapiacon a ködös öböl látványa misztikus, de vízálló cipő kötelező. Délután a kikötőben a sós eső illata terjeng. Estére keressünk egy hangulatos bisztrót a Port de la Houle mentén, ahol a párás ablakok mögül figyelhetjük a hullámokat.",
             "ro": "Dimineața, biserica oferă adăpost împotriva averselor. La prânz, explorați muzeul la adăpost și căldură. După-amiaza, piața de stridii este umedă, dar golful cețos arată mistic; purtați haine impermeabile. Seara, bucurați-vă de atmosferă dintr-un bistro acoperit din port, în timp ce ploaia cade peste mare, creând un peisaj dramatic și autentic breton.",
-            "en": "In the morning, the church provides shelter from the showers. At noon, explore the museum while staying dry and cozy. In the afternoon, the oyster market is damp, but the misty bay looks mystical; waterproof gear is essential. In the evening, enjoy the harbor atmosphere from a covered bistro while watching the rain dance on the sea's surface."
+            "en": "In the morning, the church provides shelter from the showers. At noon, explore the museum while staying dry and cozy. In the afternoon, the oyster market is damp, but the misty bay looks mystical; waterproof gear is essential. In the evening, enjoy the harbor atmosphere from a covered bistro while watching the rain dance on the sea's surface.",
+            "fr": "Le matin, l'église protège des averses. À midi, explorez le musée à l'abri et au chaud. L'après-midi, le marché aux huîtres est humide, mais la baie brumeuse prend une atmosphère mystique ; des vêtements imperméables sont indispensables. Le soir, profitez de l'ambiance du port depuis un bistro couvert en regardant la pluie danser à la surface de la mer."
           },
           "stops": [
             {
@@ -152,13 +164,15 @@
                 "de": "Saint-Méen Kirche",
                 "hu": "Saint-Méen Templom",
                 "ro": "Biserica Saint-Méen",
-                "en": "Saint-Méen Church"
+                "en": "Saint-Méen Church",
+                "fr": "Église Saint-Méen"
               },
               "tip_5lang": {
                 "de": "Bewundern Sie die neugotische Architektur im Inneren, während Sie das Ende des Regenschauers abwarten; die Votivschiffe der Seeleute sind sehenswert.",
                 "hu": "Csodálja meg a neogótikus belső teret, miközben megvárja a zápor végét; a tengerészek fogadalmi hajómodelljei különleges látványt nyújtanak.",
                 "ro": "Admirați arhitectura neogotică din interior în timp ce așteptați oprirea ploii; navele votive ale marinarilor sunt exponate cu adevărat fascinante.",
-                "en": "Admire the neo-Gothic interior while waiting for the shower to pass; the sailors' votive ships are a unique and moving sight to discover inside."
+                "en": "Admire the neo-Gothic interior while waiting for the shower to pass; the sailors' votive ships are a unique and moving sight to discover inside.",
+                "fr": "Admirez l'intérieur néo-gothique en attendant que l'averse passe ; les maquettes de bateaux votifs des marins sont un spectacle unique et émouvant à découvrir à l'intérieur."
               }
             },
             {
@@ -166,13 +180,15 @@
                 "de": "Museum der populären Künste und Traditionen",
                 "hu": "Népművészeti és Hagyományok Múzeuma",
                 "ro": "Muzeul de Arte și Tradiții Populare",
-                "en": "Museum of Popular Arts and Traditions"
+                "en": "Museum of Popular Arts and Traditions",
+                "fr": "Musée des Arts et Traditions Populaires"
               },
               "tip_5lang": {
                 "de": "Dies ist der ideale Zufluchtsort bei Regen; nehmen Sie sich Zeit für die Exponate zur lokalen Fischerei in den warmen Ausstellungsräumen.",
                 "hu": "Ez a tökéletes menedék esőben; szánjon időt a helyi halászat történetét bemutató kiállításra a kellemesen meleg, fedett termekben.",
                 "ro": "Acesta este refugiul ideal pe timp de ploaie; acordați-vă timp pentru exponatele despre pescuitul local în sălile de expoziție încălzite.",
-                "en": "This is the perfect indoor refuge on a rainy day; take your time exploring the local fishing history exhibits in the warm and dry galleries."
+                "en": "This is the perfect indoor refuge on a rainy day; take your time exploring the local fishing history exhibits in the warm and dry galleries.",
+                "fr": "C'est le refuge intérieur parfait pour une journée pluvieuse ; prenez le temps d'explorer les expositions sur l'histoire de la pêche locale dans des galeries chaudes et sèches."
               }
             },
             {
@@ -180,13 +196,15 @@
                 "de": "Austernmarkt",
                 "hu": "Osztrigapiac",
                 "ro": "Piața de Stridii",
-                "en": "Oyster Market"
+                "en": "Oyster Market",
+                "fr": "Marché aux Huîtres"
               },
               "tip_5lang": {
                 "de": "Die Austern schmecken auch im Regen hervorragend; nutzen Sie die Marktschirme als Unterstand und genießen Sie den Blick auf die nassen Felsen.",
                 "hu": "Az osztriga esőben is kiváló; használja a piaci napernyőket esővédőként, és élvezze a vizes sziklákra és a tengerre nyíló drámai kilátást.",
                 "ro": "Stridiile au un gust excelent chiar și pe ploaie; folosiți umbrelele pieței ca adăpost și bucurați-vă de vederea stâncilor umede și a mării.",
-                "en": "The oysters taste excellent even in the rain; use the market umbrellas for shelter and enjoy the dramatic view of the wet rocks and the grey sea."
+                "en": "The oysters taste excellent even in the rain; use the market umbrellas for shelter and enjoy the dramatic view of the wet rocks and the grey sea.",
+                "fr": "Les huîtres sont excellentes même sous la pluie ; utilisez les parasols du marché pour vous abriter et profitez de la vue dramatique des rochers mouillés et de la mer grise."
               }
             },
             {
@@ -194,13 +212,15 @@
                 "de": "Port de la Houle",
                 "hu": "Port de la Houle",
                 "ro": "Port de la Houle",
-                "en": "Port de la Houle"
+                "en": "Port de la Houle",
+                "fr": "Port de la Houle"
               },
               "tip_5lang": {
                 "de": "Beobachten Sie das Anlegen der Boote vom Schutz eines Arkadengangs aus; der nasse Asphalt spiegelt die bunten Lichter der Fischerboote wider.",
                 "hu": "Figyelje a hajók kikötését az árkádok védelméből; a vizes aszfalton megcsillanó halászhajók fényei különleges, melankolikus hangulatot árasztanak.",
                 "ro": "Urmăriți acostarea bărcilor din protecția unei arcade; asfaltul umed reflectă luminile colorate ale ambarcațiunilor de pescuit într-un mod superb.",
-                "en": "Watch the boats docking from the shelter of an arcade; the wet pavement reflects the colorful lights of the fishing vessels in a beautiful way."
+                "en": "Watch the boats docking from the shelter of an arcade; the wet pavement reflects the colorful lights of the fishing vessels in a beautiful way.",
+                "fr": "Observez les bateaux accoster depuis la protection d'une arcade ; le sol mouillé reflète joliment les couleurs des chalutiers."
               }
             },
             {
@@ -208,13 +228,15 @@
                 "de": "Plage de Cancale",
                 "hu": "Plage de Cancale",
                 "ro": "Plaja Cancale",
-                "en": "Plage de Cancale"
+                "en": "Plage de Cancale",
+                "fr": "Plage de Cancale"
               },
               "tip_5lang": {
                 "de": "Ein kurzer Spaziergang auf dem harten Sand ist erfrischend; die grauen Wolken lassen das Türkis der Austernbänke kräftiger erscheinen.",
                 "hu": "Egy rövid séta a kemény, vizes homokon frissítő; a szürke felhők alatt az osztrigatelepek türkizkékje még élénkebbnek tűnik a távolban.",
                 "ro": "O scurtă plimbare pe nisipul umed este revigorantă; norii cenușii fac ca turcoazul paturilor de stridii să pară mult mai intens în depărtare.",
-                "en": "A short walk on the firm, wet sand is refreshing; the heavy grey clouds make the turquoise color of the oyster beds stand out even more."
+                "en": "A short walk on the firm, wet sand is refreshing; the heavy grey clouds make the turquoise color of the oyster beds stand out even more.",
+                "fr": "Une courte marche sur le sable ferme et humide est vivifiante ; les nuages gris intenses font ressortir encore davantage la couleur turquoise des herbiers d'huîtres."
               }
             }
           ]
@@ -224,7 +246,8 @@
             "de": "An einem klaren Wintermorgen ist die Luft am Hafen kristallklar. Die Kirche bietet einen stillen Ort zum Aufwärmen. Mittags laden die gemütlichen Museen zum Verweilen ein, fernab der Meeresbrise. Da die Sonne bereits gegen 17:00 Uhr untergeht, sollten Sie den Strandspaziergang rechtzeitig beenden. Abends wärmen Sie sich bei einer heißen Meeresfrüchtesuppe in einer geheizten Brasserie auf.",
             "hu": "A csípős reggeli szélben a templom békéje melenget. Délelőtt a múzeum tárlatai tökéletesek a felmelegedésre. Az osztrigapiacon a téli szezon legjavát kóstolhatjuk meg vastag kabátban. Délután a tengerparti séta frissítő, de a korai, délután 5 órai naplemente előtt érdemes befejezni. Az este a kikötő fényeiben, egy forró ital társaságában a legkellemesebb.",
             "ro": "Într-o dimineață clară de iarnă, aerul este revigorant. Biserica oferă un loc liniștit pentru încălzire. La prânz, muzeul vă invită să zăboviți departe de briza mării. Deoarece soarele apune în jurul orei 17:00, terminați plimbarea pe plajă la timp. Seara, încălziți-vă cu o supă de fructe de mare într-o braserie primitoare.",
-            "en": "On a crisp winter morning, the air at the harbor is crystal clear. The church offers a peaceful place to warm up. At noon, the museum invites you to linger away from the biting sea breeze. Since the sun sets around 5 PM, finish your beach walk in time. In the evening, warm up with hot seafood soup in a cozy brasserie."
+            "en": "On a crisp winter morning, the air at the harbor is crystal clear. The church offers a peaceful place to warm up. At noon, the museum invites you to linger away from the biting sea breeze. Since the sun sets around 5 PM, finish your beach walk in time. In the evening, warm up with hot seafood soup in a cozy brasserie.",
+            "fr": "Par un matin d'hiver vif, l'air du port est d'une clarté cristalline. L'église offre un endroit paisible pour se réchauffer. À midi, le musée invite à s'attarder à l'abri de la bise marine. Comme le soleil se couche vers 17 h, terminez votre promenade sur la plage à temps. Le soir, réchauffez-vous avec une soupe de fruits de mer dans une brasserie confortable."
           },
           "stops": [
             {
@@ -232,13 +255,15 @@
                 "de": "Saint-Méen Kirche",
                 "hu": "Saint-Méen Templom",
                 "ro": "Biserica Saint-Méen",
-                "en": "Saint-Méen Church"
+                "en": "Saint-Méen Church",
+                "fr": "Église Saint-Méen"
               },
               "tip_5lang": {
                 "de": "Nutzen Sie die Stille des Winters für eine Besichtigung ohne Touristenmassen; die dicken Steinmauern schützen vor dem kalten Wind.",
                 "hu": "Használja ki a téli csendet a tömeg nélküli nézelődésre; a vastag kőfalak jól védenek a kintről beáramló hideg tengeri szél ellen.",
                 "ro": "Profită de liniștea iernii pentru o vizită fără mulțimi de turiști; zidurile groase de piatră oferă o protecție excelentă împotriva vântului rece.",
-                "en": "Take advantage of the winter silence for a visit without the crowds; the thick stone walls provide excellent shelter from the cold sea wind."
+                "en": "Take advantage of the winter silence for a visit without the crowds; the thick stone walls provide excellent shelter from the cold sea wind.",
+                "fr": "Profitez du silence hivernal pour une visite sans foule ; les murs épais en pierre offrent un excellent abri contre le vent froid de mer."
               }
             },
             {
@@ -246,13 +271,15 @@
                 "de": "Museum der populären Künste und Traditionen",
                 "hu": "Népművészeti és Hagyományok Múzeuma",
                 "ro": "Muzeul de Arte și Tradiții Populare",
-                "en": "Museum of Popular Arts and Traditions"
+                "en": "Museum of Popular Arts and Traditions",
+                "fr": "Musée des Arts et Traditions Populaires"
               },
               "tip_5lang": {
                 "de": "Ein idealer Ort, um sich zwischen den Besichtigungen im Freien aufzuwärmen; die Ausstellungen wirken im Winterlicht besonders stimmungsvoll.",
                 "hu": "Ideális hely a felmelegedésre két szabadtéri látnivaló között; a néprajzi kiállítás a téli fényekben még hangulatosabbnak tűnik.",
                 "ro": "Un loc ideal pentru a vă încălzi între vizitele în aer liber; expozițiile populare par mult mai atmosferice în lumina palidă a iernii.",
-                "en": "An ideal place to warm up between outdoor stops; the folk art exhibitions feel particularly atmospheric in the soft winter light."
+                "en": "An ideal place to warm up between outdoor stops; the folk art exhibitions feel particularly atmospheric in the soft winter light.",
+                "fr": "Un lieu idéal pour se réchauffer entre deux haltes extérieures ; les expositions d'art populaire sont particulièrement atmosphériques sous la douce lumière hivernale."
               }
             },
             {
@@ -260,13 +287,15 @@
                 "de": "Austernmarkt",
                 "hu": "Osztrigapiac",
                 "ro": "Piața de Stridii",
-                "en": "Oyster Market"
+                "en": "Oyster Market",
+                "fr": "Marché aux Huîtres"
               },
               "tip_5lang": {
                 "de": "Winter ist die Hauptsaison für Austern; genießen Sie die frischesten Exemplare direkt am Meer, eingepackt in Ihren wärmsten Mantel.",
                 "hu": "A tél az osztriga igazi főszezonja; kóstolja meg a legfrissebb példányokat közvetlenül a parton, a legmelegebb kabátjába burkolózva.",
                 "ro": "Iarna este vârful sezonului pentru stridii; savurați cele mai proaspete exemplare chiar lângă mare, înfofoliți în cea mai groasă haină.",
-                "en": "Winter is the peak season for oysters; enjoy the freshest specimens right by the sea, wrapped comfortably in your warmest winter coat."
+                "en": "Winter is the peak season for oysters; enjoy the freshest specimens right by the sea, wrapped comfortably in your warmest winter coat.",
+                "fr": "L'hiver est la haute saison pour les huîtres ; dégustez les spécimens les plus frais au bord de la mer, bien emmitouflé dans votre manteau d'hiver."
               }
             },
             {
@@ -274,13 +303,15 @@
                 "de": "Port de la Houle",
                 "hu": "Port de la Houle",
                 "ro": "Port de la Houle",
-                "en": "Port de la Houle"
+                "en": "Port de la Houle",
+                "fr": "Port de la Houle"
               },
               "tip_5lang": {
                 "de": "Die tiefstehende Wintersonne taucht den Hafen in goldenes Licht; perfekt für Fotos vor dem frühen Sonnenuntergang gegen 17 Uhr.",
                 "hu": "Az alacsonyan járó téli nap arany fénybe vonja a kikötőt; tökéletes időpont fotózáshoz a korai, 17 óra körüli naplemente előtt.",
                 "ro": "Soarele jos de iarnă scaldă portul în lumină aurie; este momentul perfect pentru fotografii înainte de apusul devreme, în jurul orei 17.",
-                "en": "The low winter sun bathes the harbor in golden light; it is the perfect time for photos before the early sunset around 5 PM."
+                "en": "The low winter sun bathes the harbor in golden light; it is the perfect time for photos before the early sunset around 5 PM.",
+                "fr": "Le bas soleil d'hiver baigne le port d'une lumière dorée ; c'est le moment parfait pour des photos avant le coucher du soleil vers 17 h."
               }
             },
             {
@@ -288,13 +319,15 @@
                 "de": "Plage de Cancale",
                 "hu": "Plage de Cancale",
                 "ro": "Plaja Cancale",
-                "en": "Plage de Cancale"
+                "en": "Plage de Cancale",
+                "fr": "Plage de Cancale"
               },
               "tip_5lang": {
                 "de": "Genießen Sie die raue Schönheit der Küste bei Ebbe; die klare Winterluft ermöglicht oft eine Sicht bis zum Mont-Saint-Michel.",
                 "hu": "Élvezze a tengerpart nyers szépségét apálykor; a tiszta téli levegőben gyakran egészen a Mont-Saint-Michel kolostorig el lehet látni.",
                 "ro": "Bucurați-vă de frumusețea brută a coastei la reflux; aerul clar de iarnă permite adesea o vizibilitate până la Mont-Saint-Michel.",
-                "en": "Enjoy the raw beauty of the coastline at low tide; the clear winter air often allows visibility all the way to Mont-Saint-Michel."
+                "en": "Enjoy the raw beauty of the coastline at low tide; the clear winter air often allows visibility all the way to Mont-Saint-Michel.",
+                "fr": "Appréciez la beauté brute du littoral à marée basse ; l'air clair d'hiver permet souvent de voir jusqu'au Mont-Saint-Michel."
               }
             }
           ]
@@ -314,7 +347,8 @@
             "de": "Port de la Houle",
             "hu": "Port de la Houle",
             "ro": "Port de la Houle",
-            "en": "Port de la Houle"
+            "en": "Port de la Houle",
+            "fr": "Port de la Houle"
           },
           "coords": [
             -1.855577,
@@ -329,7 +363,8 @@
             "de": "Schlendern Sie durch den Hafen mit seinen Fischerbooten und gemütlichen Cafés und machen Sie bei Ebbe ein perfektes Foto vom nördlichen Pier.",
             "hu": "Sétáljon végig ezen a hagyományos halászhajókkal és kávézókkal teli nyüzsgő kikötőn, és készítsen egy tökéletes tengerparti képet az északi mólóról.",
             "ro": "Plimbați-vă de-a lungul acestui port plin de bărci tradiționale și cafenele și faceți o fotografie perfectă de pe digul nordic la reflux.",
-            "en": "Stroll along this lively port filled with traditional fishing boats and cozy cafes, and grab a perfect seaside picture from the northern pier at low tide."
+            "en": "Stroll along this lively port filled with traditional fishing boats and cozy cafes, and grab a perfect seaside picture from the northern pier at low tide.",
+            "fr": "Promenez-vous le long de ce port animé rempli de bateaux de pêche traditionnels et de cafés accueillants, et prenez la photo parfaite depuis la jetée nord à marée basse."
           }
         },
         {
@@ -337,7 +372,8 @@
             "de": "Saint-Méen Kirche",
             "hu": "Saint-Méen Templom",
             "ro": "Biserica Saint-Méen",
-            "en": "Saint-Méen Church"
+            "en": "Saint-Méen Church",
+            "fr": "Église Saint-Méen"
           },
           "coords": [
             -1.8507,
@@ -352,7 +388,8 @@
             "de": "Bewundern Sie die Architektur dieser Kirche zu Ehren der Seeleute und verpassen Sie nicht das kleine Museum zur maritimen Geschichte im Obergeschoss.",
             "hu": "Csodálja meg ennek a tengerészeket tisztelő történelmi templomnak az építészetét, és ne hagyja ki az emeleti, helyi tengerészeti történelmet bemutató kis múzeumot.",
             "ro": "Admirați arhitectura acestei biserici istorice dedicate marinarilor și nu ratați micul muzeu maritim local aflat la etaj, plin de exponate fascinante.",
-            "en": "Admire the beautiful architecture of this historic church that honors sailors, and don't miss the small museum dedicated to local maritime history upstairs."
+            "en": "Admire the beautiful architecture of this historic church that honors sailors, and don't miss the small museum dedicated to local maritime history upstairs.",
+            "fr": "Admirez la belle architecture de cette église historique qui rend hommage aux marins, et ne manquez pas le petit musée consacré à l'histoire maritime locale à l'étage."
           }
         },
         {
@@ -360,7 +397,8 @@
             "de": "Plage de Port Picain",
             "hu": "Plage de Port Picain",
             "ro": "Plaja Port Picain",
-            "en": "Plage de Port Picain"
+            "en": "Plage de Port Picain",
+            "fr": "Plage de Port Picain"
           },
           "coords": [
             -1.848645,
@@ -375,7 +413,8 @@
             "de": "Entdecken Sie dieses versteckte Küstenjuwel, das sich perfekt für einen ruhigen Spaziergang eignet, aber achten Sie auf den steilen Abstieg zum Wasser.",
             "hu": "Fedezze fel ezt a meredek sziklákkal körülvett, rejtett tengerparti gyöngyszemet, de ügyeljen a lépteire, amikor leereszkedik a meredek ösvényen a vízhez.",
             "ro": "Descoperiți această bijuterie ascunsă de coastă, perfectă pentru o plimbare liniștită, dar fiți atenți pe coborârea abruptă care vă duce direct la malul apei.",
-            "en": "Discover this hidden coastal gem surrounded by steep cliffs, perfect for a peaceful afternoon walk, but watch your step on the steep descent to the water."
+            "en": "Discover this hidden coastal gem surrounded by steep cliffs, perfect for a peaceful afternoon walk, but watch your step on the steep descent to the water.",
+            "fr": "Découvrez cette perle côtière cachée entourée de falaises escarpées, parfaite pour une promenade paisible l'après-midi, mais faites attention à la descente raide vers l'eau."
           }
         },
         {
@@ -383,7 +422,8 @@
             "de": "Pointe du Grouin",
             "hu": "Pointe du Grouin",
             "ro": "Pointe du Grouin",
-            "en": "Pointe du Grouin"
+            "en": "Pointe du Grouin",
+            "fr": "Pointe du Grouin"
           },
           "coords": [
             -1.844167,
@@ -398,7 +438,8 @@
             "de": "Bestaunen Sie den Panoramablick, wo das smaragdgrüne Meer auf raue Klippen trifft, und bringen Sie winddichte Kleidung mit, da die Brise hier stark ist.",
             "hu": "Csodálja meg a drámai panorámát, ahol a smaragdzöld tenger a sziklákkal találkozik, és hozzon szélálló ruházatot, mivel itt a szellő folyamatosan erős.",
             "ro": "Admirați vederile panoramice dramatice unde marea se întâlnește cu stâncile și luați o haină rezistentă la vânt, deoarece briza este constant puternică aici.",
-            "en": "Marvel at the dramatic panoramic views where the emerald sea meets rugged cliffs, and bring windproof clothing as the breeze here is consistently strong."
+            "en": "Marvel at the dramatic panoramic views where the emerald sea meets rugged cliffs, and bring windproof clothing as the breeze here is consistently strong.",
+            "fr": "Admirez les vues panoramiques dramatiques où la mer émeraude rencontre les falaises escarpées, et emportez des vêtements coupe-vent car la brise y est constamment forte."
           }
         },
         {
@@ -406,7 +447,8 @@
             "de": "Plage du Verger",
             "hu": "Plage du Verger",
             "ro": "Plaja Verger",
-            "en": "Plage du Verger"
+            "en": "Plage du Verger",
+            "fr": "Plage du Verger"
           },
           "coords": [
             -1.876231,
@@ -421,7 +463,8 @@
             "de": "Genießen Sie den von wilden Dünen gesäumten Sandstrand und kommen Sie am besten früh morgens an, um problemlos einen der nahegelegenen Parkplätze zu finden.",
             "hu": "Élvezze a vad dűnékkel szegélyezett érintetlen homokos strandot, és érkezzen kora reggel, hogy könnyen biztosítson egy közeli parkolóhelyet magának.",
             "ro": "Bucurați-vă de o plajă curată mărginită de dune sălbatice și ajungeți devreme dimineața pentru a găsi cu ușurință un loc de parcare convenabil în apropiere.",
-            "en": "Enjoy a pristine sandy beach bordered by wild dunes and fragrant coastal flora, and arrive early in the morning to easily secure a nearby parking spot."
+            "en": "Enjoy a pristine sandy beach bordered by wild dunes and fragrant coastal flora, and arrive early in the morning to easily secure a nearby parking spot.",
+            "fr": "Profitez d'une plage de sable immaculée bordée de dunes sauvages et d'une flore côtière parfumée, et arrivez tôt le matin pour trouver facilement une place de parking à proximité."
           }
         }
       ],
@@ -429,7 +472,8 @@
         "de": "Morgen: Starten Sie Ihre Fahrt am Hafen und genießen Sie die morgendliche Meeresbrise, bevor Sie zur historischen Kirche radeln.\n\nMittag: Radeln Sie auf den malerischen Küstenwegen nach Norden, um die dramatische und einsame Plage de Port Picain zu entdecken.\n\nNachmittag: Erreichen Sie die majestätische Pointe du Grouin, wo steile Klippen in das smaragdgrüne Wasser abfallen.\n\nAbend: Beenden Sie Ihren Tag an der Plage du Verger und genießen Sie die goldene Stunde über den sanften Dünen.",
         "hu": "Reggel: Kezdje a kerékpározást a nyüzsgő kikötőben, magába szívva a tengeri levegőt, majd tekerjen a történelmi templomhoz.\n\nDél: Haladjon észak felé a festői tengerparti utakon, és fedezze fel a meredek, eldugott Port Picain strandot.\n\nDélután: Érje el a fenséges Pointe du Grouin-t, ahol zord sziklák zuhannak a smaragdzöld tengerbe.\n\nEste: Fejezze be a napot a Plage du Verger dűnéi mögött, élvezve a naplemente ragyogó, aranyló fényeit a homokon.",
         "ro": "Dimineața: Începeți cursa în portul animat, savurând briza mării înainte de a pedala spre biserica istorică pentru o scurtă vizită.\n\nPrânz: Mergeți spre nord de-a lungul traseelor pitorești de coastă pentru a descoperi ascunsa Plage de Port Picain.\n\nDupă-amiază: Ajungeți la maiestuoasa Pointe du Grouin, cu stâncile sale abrupte care cad în apele de smarald.\n\nSeara: Încheiați ziua de ciclism la Plage du Verger, bucurându-vă de ora de aur peste nisipurile sale mărginite de dune.",
-        "en": "Morning: Kick off your ride at the bustling port, taking in the morning sea breeze before pedaling to the historic church.\n\nMidday: Cycle northwards along the scenic coastal paths to discover the dramatic and secluded Plage de Port Picain.\n\nAfternoon: Reach the majestic Pointe du Grouin, where rugged cliffs drop into emerald waters.\n\nEvening: Finish your cycling day at Plage du Verger, enjoying the golden hour over its tranquil, dune-backed sands."
+        "en": "Morning: Kick off your ride at the bustling port, taking in the morning sea breeze before pedaling to the historic church.\n\nMidday: Cycle northwards along the scenic coastal paths to discover the dramatic and secluded Plage de Port Picain.\n\nAfternoon: Reach the majestic Pointe du Grouin, where rugged cliffs drop into emerald waters.\n\nEvening: Finish your cycling day at Plage du Verger, enjoying the golden hour over its tranquil, dune-backed sands.",
+        "fr": "Matin : Commencez votre sortie au port animé, en prenant la brise marine matinale avant de pédaler jusqu'à l'église historique.\n\nMidi : Pédalez vers le nord le long des chemins côtiers pittoresques pour découvrir la dramatique et isolée Plage de Port Picain.\n\nAprès-midi : Atteignez la majestueuse Pointe du Grouin, où des falaises escarpées plongent dans une mer émeraude.\n\nSoir : Terminez votre journée à vélo à la Plage du Verger, en profitant de l'heure dorée sur ses sables tranquilles bordés de dunes."
       },
       "variants": {
         "rainy": {
@@ -437,7 +481,8 @@
             "de": "Trotz Regen ist eine Radtour entlang der Küste ein Erlebnis, solange Sie vorsichtig auf nassen Wegen fahren. Starten Sie am Hafen und nutzen Sie die Kirche als Unterstand bei schweren Güssen. Die Route zur Pointe du Grouin bietet bei Regen eine dramatische Kulisse mit aufpeitschender Gischt. Achten Sie auf rutschige Blätter und Schlamm auf den Küstenwegen.",
             "hu": "Az eső ellenére a parti kerékpározás élmény marad, ha óvatosan halad a vizes utakon. Induljon a kikötőből, és használja a templomot menedékként nagyobb záporok idején. A Pointe du Grouin felé vezető út esőben drámai látványt nyújt a felcsapó habokkal. Figyeljen a csúszós levelekre és a sárra a parti ösvényeken.",
             "ro": "În ciuda ploii, o tură cu bicicleta pe coastă este o experiență deosebită, dacă pedalați cu atenție pe drumurile umede. Începeți din port și folosiți biserica ca adăpost. Traseul spre Pointe du Grouin oferă un peisaj dramatic cu valuri spumegânde. Atenție la frunzele alunecoase și la noroiul de pe potecile de coastă.",
-            "en": "Despite the rain, cycling along the coast is an adventure if you ride carefully on wet roads. Start at the harbor and use the church as shelter during heavy downpours. The route to Pointe du Grouin offers a dramatic backdrop with crashing waves. Watch out for slippery leaves and mud on the coastal paths."
+            "en": "Despite the rain, cycling along the coast is an adventure if you ride carefully on wet roads. Start at the harbor and use the church as shelter during heavy downpours. The route to Pointe du Grouin offers a dramatic backdrop with crashing waves. Watch out for slippery leaves and mud on the coastal paths.",
+            "fr": "Malgré la pluie, rouler le long de la côte est une aventure si vous faites attention sur les routes mouillées. Commencez au port et utilisez l'église comme abri lors des fortes averses. La route vers la Pointe du Grouin offre un décor spectaculaire avec des vagues déferlantes. Méfiez-vous des feuilles glissantes et de la boue sur les chemins côtiers."
           },
           "stops": [
             {
@@ -445,13 +490,15 @@
                 "de": "Port de la Houle",
                 "hu": "Port de la Houle",
                 "ro": "Port de la Houle",
-                "en": "Port de la Houle"
+                "en": "Port de la Houle",
+                "fr": "Port de la Houle"
               },
               "tip_5lang": {
                 "de": "Prüfen Sie Ihre Bremsen vor der Abfahrt im Regen; die nassen Kaimauern können sehr rutschig sein, fahren Sie hier besonders langsam.",
                 "hu": "Indulás előtt ellenőrizze a fékeket az esőben; a vizes rakpart kövei nagyon csúszósak lehetnek, itt haladjon fokozott óvatossággal.",
                 "ro": "Verificați frânele înainte de plecare pe ploaie; pietrele umede de pe chei pot fi foarte alunecoase, pedalați aici cu mare atenție.",
-                "en": "Check your brakes before setting off in the rain; the wet stones on the quay can be very slippery, so cycle through here slowly."
+                "en": "Check your brakes before setting off in the rain; the wet stones on the quay can be very slippery, so cycle through here slowly.",
+                "fr": "Vérifiez vos freins avant de partir sous la pluie ; les pierres mouillées sur le quai peuvent être très glissantes, roulez lentement ici."
               }
             },
             {
@@ -459,13 +506,15 @@
                 "de": "Saint-Méen Kirche",
                 "hu": "Saint-Méen Templom",
                 "ro": "Biserica Saint-Méen",
-                "en": "Saint-Méen Church"
+                "en": "Saint-Méen Church",
+                "fr": "Église Saint-Méen"
               },
               "tip_5lang": {
                 "de": "Parken Sie Ihr Rad sicher im Trockenen und nutzen Sie die Zeit für eine Innenbesichtigung, um die schlimmsten Regengüsse abzuwarten.",
                 "hu": "Parkolja le kerékpárját biztonságos, fedett helyen, és használja ki az időt a templom belső megtekintésére a nagyobb záporok alatt.",
                 "ro": "Parcați bicicleta într-un loc sigur și uscat; profitați de timp pentru a vizita interiorul bisericii până trece aversa cea mai puternică.",
-                "en": "Park your bike safely in a dry spot and use the time to visit the church interior while waiting for the heaviest showers to pass."
+                "en": "Park your bike safely in a dry spot and use the time to visit the church interior while waiting for the heaviest showers to pass.",
+                "fr": "Garez votre vélo dans un endroit sec et profitez-en pour visiter l'intérieur de l'église en attendant la fin des fortes averses."
               }
             },
             {
@@ -473,13 +522,15 @@
                 "de": "Plage de Port Picain",
                 "hu": "Plage de Port Picain",
                 "ro": "Plaja Port Picain",
-                "en": "Plage de Port Picain"
+                "en": "Plage de Port Picain",
+                "fr": "Plage de Port Picain"
               },
               "tip_5lang": {
                 "de": "Die schmale Straße zum Strand kann bei Regen schlammig sein; ein Schutzblech am Fahrrad ist heute Ihr bester Freund gegen Spritzwasser.",
                 "hu": "A strandhoz vezető keskeny út esőben sáros lehet; egy sárvédő a kerékpáron ma a legjobb barátja lesz a felverődő víz ellen.",
                 "ro": "Drumul îngust spre plajă poate fi noroios pe ploaie; o aripă la bicicletă este astăzi cel mai bun aliat împotriva apei împroșcate.",
-                "en": "The narrow road to the beach can be muddy in the rain; a mudguard on your bike is your best friend today against water splashes."
+                "en": "The narrow road to the beach can be muddy in the rain; a mudguard on your bike is your best friend today against water splashes.",
+                "fr": "La route étroite vers la plage peut être boueuse sous la pluie ; un garde-boue sur votre vélo est votre meilleur allié aujourd'hui contre les éclaboussures d'eau."
               }
             },
             {
@@ -487,13 +538,15 @@
                 "de": "Pointe du Grouin",
                 "hu": "Pointe du Grouin",
                 "ro": "Pointe du Grouin",
-                "en": "Pointe du Grouin"
+                "en": "Pointe du Grouin",
+                "fr": "Pointe du Grouin"
               },
               "tip_5lang": {
                 "de": "Vorsicht vor starken Windböen an der Spitze; bei Regen ist der Felsboden extrem glatt, tragen Sie Schuhe mit sehr gutem Profil.",
                 "hu": "Vigyázzon az erős széllökésekkel a foknál; esőben a sziklás talaj rendkívül csúszós, viseljen jó tapadású, bordázott talpú cipőt.",
                 "ro": "Atenție la rafalele puternice de vânt la capătul falezei; pe ploaie, stânca este extrem de alunecoasă, purtați încălțăminte cu aderență.",
-                "en": "Watch out for strong wind gusts at the headland; in the rain, the rocky ground is extremely slippery, so wear shoes with good grip."
+                "en": "Watch out for strong wind gusts at the headland; in the rain, the rocky ground is extremely slippery, so wear shoes with good grip.",
+                "fr": "Méfiez-vous des rafales de vent au cap ; sous la pluie, le sol rocheux est extrêmement glissant, portez des chaussures à bonne adhérence."
               }
             },
             {
@@ -501,13 +554,15 @@
                 "de": "Plage du Verger",
                 "hu": "Plage du Verger",
                 "ro": "Plaja Verger",
-                "en": "Plage du Verger"
+                "en": "Plage du Verger",
+                "fr": "Plage du Verger"
               },
               "tip_5lang": {
                 "de": "Nach der Tour im Regen bietet das nahegelegene Café eine warme Belohnung; stellen Sie sicher, dass Ihre Beleuchtung für die Rückfahrt funktioniert.",
                 "hu": "Az esős túra után a közeli kávézó meleg jutalmat kínál; ellenőrizze, hogy a kerékpár lámpái működnek-e a borús visszaúton.",
                 "ro": "După tura prin ploaie, cafeneaua din apropiere oferă o recompensă caldă; asigurați-vă că luminile bicicletei funcționează pentru retur.",
-                "en": "After the rainy ride, the nearby cafe offers a warm reward; make sure your bike lights are working for the gloomy ride back."
+                "en": "After the rainy ride, the nearby cafe offers a warm reward; make sure your bike lights are working for the gloomy ride back.",
+                "fr": "Après la sortie sous la pluie, le café voisin offre une récompense chaude ; vérifiez que vos feux de vélo fonctionnent pour le retour sombre."
               }
             }
           ]
@@ -517,7 +572,8 @@
             "de": "Eine winterliche Radtour erfordert warme Handschuhe gegen den Fahrtwind. Der Hafen liegt morgens oft im Nebel, was eine magische Stimmung erzeugt. Die Hügel zur Pointe du Grouin halten Sie warm, aber oben angekommen ist der Wind eisig. Planen Sie Ihre Route so, dass Sie vor Einbruch der Dunkelheit um 17:00 Uhr wieder im Zentrum sind, um die Beleuchtung zu genießen.",
             "hu": "A téli kerékpározáshoz elengedhetetlen a meleg kesztyű a menetszél ellen. A kikötő reggelente gyakran ködbe burkolózik, ami mágikus hangulatot áraszt. A Pointe du Grouin felé vezető emelkedők mozgásban tartják, de a csúcson a szél jeges. Tervezze úgy az utat, hogy a 17 órai sötétedés előtt visszaérjen a városba.",
             "ro": "O tură cu bicicleta iarna necesită mănuși groase împotriva vântului. Portul este adesea în ceață dimineața, creând o atmosferă magică. Dealurile spre Pointe du Grouin vă vor ține de cald, dar sus vântul este înghețat. Planificați traseul astfel încât să reveniți în centru înainte de întuneric, la ora 17:00.",
-            "en": "A winter bike ride requires warm gloves against the wind chill. The harbor is often misty in the morning, creating a magical atmosphere. The hills to Pointe du Grouin will keep you warm, but at the top, the wind is icy. Plan your route to be back in the center before it gets dark at 5 PM."
+            "en": "A winter bike ride requires warm gloves against the wind chill. The harbor is often misty in the morning, creating a magical atmosphere. The hills to Pointe du Grouin will keep you warm, but at the top, the wind is icy. Plan your route to be back in the center before it gets dark at 5 PM.",
+            "fr": "Une sortie à vélo en hiver nécessite des gants chauds contre le froid du vent. Le port est souvent brumeux le matin, créant une atmosphère magique. Les collines vers la Pointe du Grouin vous réchaufferont en pédalant, mais au sommet le vent est glacé. Prévoyez d'être de retour au centre avant la nuit qui tombe vers 17 h."
           },
           "stops": [
             {
@@ -525,13 +581,15 @@
                 "de": "Port de la Houle",
                 "hu": "Port de la Houle",
                 "ro": "Port de la Houle",
-                "en": "Port de la Houle"
+                "en": "Port de la Houle",
+                "fr": "Port de la Houle"
               },
               "tip_5lang": {
                 "de": "Die kalte Meeresluft ist sehr erfrischend; ziehen Sie mehrere Schichten an (Zwiebelprinzip), da Ihnen beim Treten schnell warm wird.",
                 "hu": "A hideg tengeri levegő nagyon frissítő; öltözzön rétegesen, mert pedálozás közben gyorsan kimelegszik, de a megállásoknál hűvös lesz.",
                 "ro": "Aerul rece de mare este foarte revigorant; îmbrăcați-vă în straturi, deoarece vă veți încălzi pedalând, dar vă veți răci repede la opriri.",
-                "en": "The cold sea air is very refreshing; dress in layers as you will warm up while pedaling but cool down quickly when you stop."
+                "en": "The cold sea air is very refreshing; dress in layers as you will warm up while pedaling but cool down quickly when you stop.",
+                "fr": "L'air froid de la mer est très vivifiant ; habillez-vous en couches car vous vous réchaufferez en pédalant mais refroidirez rapidement à l'arrêt."
               }
             },
             {
@@ -539,13 +597,15 @@
                 "de": "Saint-Méen Kirche",
                 "hu": "Saint-Méen Templom",
                 "ro": "Biserica Saint-Méen",
-                "en": "Saint-Méen Church"
+                "en": "Saint-Méen Church",
+                "fr": "Église Saint-Méen"
               },
               "tip_5lang": {
                 "de": "Nutzen Sie den Stopp für eine kurze Aufwärmpause im Inneren; die friedliche Stille ist im Winter besonders spürbar und erholsam.",
                 "hu": "Használja ki a megállót egy rövid belső melegedőre; a templom békés csendje télen különösen érezhető és pihentető a túra közben.",
                 "ro": "Folosiți oprirea pentru o scurtă pauză de încălzire în interior; liniștea deplină este mult mai vizibilă și relaxantă pe timpul iernii.",
-                "en": "Use this stop for a short warm-up break inside; the peaceful silence is particularly noticeable and relaxing during the winter."
+                "en": "Use this stop for a short warm-up break inside; the peaceful silence is particularly noticeable and relaxing during the winter.",
+                "fr": "Utilisez cet arrêt pour une courte pause de réchauffement à l'intérieur ; le silence paisible est particulièrement perceptible et relaxant en hiver."
               }
             },
             {
@@ -553,13 +613,15 @@
                 "de": "Plage de Port Picain",
                 "hu": "Plage de Port Picain",
                 "ro": "Plaja Port Picain",
-                "en": "Plage de Port Picain"
+                "en": "Plage de Port Picain",
+                "fr": "Plage de Port Picain"
               },
               "tip_5lang": {
                 "de": "Im Winter haben Sie diesen idyllischen Ort fast für sich allein; genießen Sie die Ruhe, bevor Sie sich für den Anstieg zum Grouin rüsten.",
                 "hu": "Télen szinte teljesen egyedül élvezheti ezt az idilli helyet; töltődjön fel a csenddel, mielőtt nekivágna a Pointe du Grouin felé vezető útnak.",
                 "ro": "Iarna aveți acest loc idilic aproape doar pentru voi; bucurați-vă de liniște înainte de a vă pregăti pentru urcarea spre Grouin.",
-                "en": "In winter, you have this idyllic spot almost to yourself; enjoy the peace before gearing up for the climb towards Pointe du Grouin."
+                "en": "In winter, you have this idyllic spot almost to yourself; enjoy the peace before gearing up for the climb towards Pointe du Grouin.",
+                "fr": "En hiver, vous avez cet endroit idyllique presque pour vous tout seul ; profitez du calme avant d'entamer la montée vers la Pointe du Grouin."
               }
             },
             {
@@ -567,13 +629,15 @@
                 "de": "Pointe du Grouin",
                 "hu": "Pointe du Grouin",
                 "ro": "Pointe du Grouin",
-                "en": "Pointe du Grouin"
+                "en": "Pointe du Grouin",
+                "fr": "Pointe du Grouin"
               },
               "tip_5lang": {
                 "de": "Ein Buff oder Schal ist hier oben wegen des starken Winterwinds ein Muss; der Panoramablick auf die Smaragdküste ist im Winterlicht klarer.",
                 "hu": "Egy sál vagy arcvédő itt kötelező az erős téli szél miatt; a panoráma a Smaragd-partra a téli fényekben sokkal tisztább és élesebb.",
                 "ro": "O eșarfă sau un guler este obligatoriu aici din cauza vântului puternic; panorama asupra Coastei de Smarald este mai clară iarna.",
-                "en": "A neck warmer or scarf is a must here due to the strong winter wind; the panoramic view of the Emerald Coast is clearer in winter light."
+                "en": "A neck warmer or scarf is a must here due to the strong winter wind; the panoramic view of the Emerald Coast is clearer in winter light.",
+                "fr": "Un cache-cou ou une écharpe est indispensable ici à cause du vent hivernal fort ; la vue panoramique de la Côte d'Émeraude est plus nette sous la lumière d'hiver."
               }
             },
             {
@@ -581,13 +645,15 @@
                 "de": "Plage du Verger",
                 "hu": "Plage du Verger",
                 "ro": "Plaja Verger",
-                "en": "Plage du Verger"
+                "en": "Plage du Verger",
+                "fr": "Plage du Verger"
               },
               "tip_5lang": {
                 "de": "Treten Sie kräftig in die Pedale für den Rückweg, um warm zu bleiben; das Licht der blauen Stunde gegen 17 Uhr ist am Hafen wunderschön.",
                 "hu": "Tekerjen ütemesen a visszaúton, hogy megőrizze testhőjét; a 17 óra körüli 'kék óra' fényei a kikötőben csodálatos látványt nyújtanak.",
                 "ro": "Pedalați cu spor la întoarcere pentru a rămâne încălziți; lumina 'orei albastre' în jurul orei 17:00 este superbă la sosirea în port.",
-                "en": "Pedal briskly on the way back to stay warm; the 'blue hour' light around 5 PM is absolutely beautiful when you arrive at the harbor."
+                "en": "Pedal briskly on the way back to stay warm; the 'blue hour' light around 5 PM is absolutely beautiful when you arrive at the harbor.",
+                "fr": "Pédalez d'un bon pas au retour pour rester au chaud ; l'heure bleue autour de 17 h est absolument magnifique à votre arrivée au port."
               }
             }
           ]
@@ -607,7 +673,8 @@
             "de": "Austernmarkt",
             "hu": "Osztrigapiac",
             "ro": "Piața de Stridii",
-            "en": "Oyster Market"
+            "en": "Oyster Market",
+            "fr": "Marché aux Huîtres"
           },
           "coords": [
             -1.851314,
@@ -622,7 +689,8 @@
             "de": "Probieren Sie die weltberühmten, frisch geernteten Cancale-Austern direkt am Wasser und werfen Sie die leeren Schalen wie die Einheimischen an den Strand.",
             "hu": "Kóstolja meg a világhírű, frissen szüretelt osztrigát közvetlenül a vízparton, és ne felejtse el az üres kagylókat a helyiekhez hasonlóan a partra dobni.",
             "ro": "Gustați stridiile de Cancale proaspăt recoltate pe malul apei și amintiți-vă să aruncați cochiliile goale direct pe plajă, așa cum fac și localnicii.",
-            "en": "Taste the world-famous Cancale oysters freshly harvested right on the waterfront, and remember to toss your empty shells onto the beach like the locals do."
+            "en": "Taste the world-famous Cancale oysters freshly harvested right on the waterfront, and remember to toss your empty shells onto the beach like the locals do.",
+            "fr": "Goûtez les huîtres mondialement connues de Cancale, fraîchement récoltées au bord de l'eau, et souvenez-vous de jeter vos coquilles vides sur la plage comme le font les locaux."
           }
         },
         {
@@ -630,7 +698,8 @@
             "de": "Pointe du Grouin",
             "hu": "Pointe du Grouin",
             "ro": "Pointe du Grouin",
-            "en": "Pointe du Grouin"
+            "en": "Pointe du Grouin",
+            "fr": "Pointe du Grouin"
           },
           "coords": [
             -1.844167,
@@ -645,7 +714,8 @@
             "de": "Bestaunen Sie den Panoramablick, wo das smaragdgrüne Meer auf raue Klippen trifft, und bringen Sie winddichte Kleidung mit, da die Brise hier stark ist.",
             "hu": "Csodálja meg a drámai panorámát, ahol a smaragdzöld tenger a sziklákkal találkozik, és hozzon szélálló ruházatot, mivel itt a szellő folyamatosan erős.",
             "ro": "Admirați vederile panoramice dramatice unde marea se întâlnește cu stâncile și luați o haină rezistentă la vânt, deoarece briza este constant puternică aici.",
-            "en": "Marvel at the dramatic panoramic views where the emerald sea meets rugged cliffs, and bring windproof clothing as the breeze here is consistently strong."
+            "en": "Marvel at the dramatic panoramic views where the emerald sea meets rugged cliffs, and bring windproof clothing as the breeze here is consistently strong.",
+            "fr": "Admirez les vues panoramiques dramatiques où la mer émeraude rencontre les falaises escarpées, et emportez des vêtements coupe-vent car la brise y est constamment forte."
           }
         },
         {
@@ -653,7 +723,8 @@
             "de": "Plage du Guesclin",
             "hu": "Plage du Guesclin",
             "ro": "Plaja Guesclin",
-            "en": "Plage du Guesclin"
+            "en": "Plage du Guesclin",
+            "fr": "Plage du Guesclin"
           },
           "coords": [
             -1.899616,
@@ -668,7 +739,8 @@
             "de": "Spazieren Sie an diesem Strand gegenüber der malerischen Festungsinsel und prüfen Sie die Gezeitentabellen, wenn Sie zu den Ruinen hinüberlaufen möchten.",
             "hu": "Sétáljon ezen a történelmi homokszakaszon a festői erőd-szigettel szemben, és figyelje meg jól az árapály-táblázatokat, ha át akar gyalogolni a romokhoz.",
             "ro": "Plimbați-vă pe această plajă orientată spre o insulă fortificată pitorească și verificați graficul mareelor dacă plănuiți să mergeți pe jos până la ruine.",
-            "en": "Walk on this historic stretch of sand facing a picturesque fort island, and check the tidal charts carefully if you plan to walk across to the ruins."
+            "en": "Walk on this historic stretch of sand facing a picturesque fort island, and check the tidal charts carefully if you plan to walk across to the ruins.",
+            "fr": "Marchez sur cette étendue de sable historique face à une forteresse insulaire pittoresque, et vérifiez attentivement les horaires des marées si vous prévoyez de traverser jusqu'aux ruines."
           }
         },
         {
@@ -676,7 +748,8 @@
             "de": "Plage de la Touesse",
             "hu": "Plage de la Touesse",
             "ro": "Plaja Touesse",
-            "en": "Plage de la Touesse"
+            "en": "Plage de la Touesse",
+            "fr": "Plage de la Touesse"
           },
           "coords": [
             -1.923222,
@@ -691,7 +764,8 @@
             "de": "Entspannen Sie sich in dieser weniger überlaufenen Sandbucht und bringen Sie Ihren eigenen Proviant mit, da es hier keinerlei gastronomische Einrichtungen gibt.",
             "hu": "Pihenjen egy kevésbé zsúfolt homokos öbölben, amelyet a helyiek naplemente-piknikekre használnak, és hozzon saját enni-innivalót a hiányzó létesítmények miatt.",
             "ro": "Relaxați-vă într-un golf nisipos, preferat de localnici pentru picnicuri la apus, și aduceți propriile provizii, deoarece nu există facilități pe mal.",
-            "en": "Relax on a less crowded, wide sandy bay favoured by locals for sunset picnics, and bring your own provisions as there are no facilities on the shore."
+            "en": "Relax on a less crowded, wide sandy bay favoured by locals for sunset picnics, and bring your own provisions as there are no facilities on the shore.",
+            "fr": "Détendez-vous sur une baie sableuse moins fréquentée, appréciée des locaux pour les pique-niques au coucher du soleil, et apportez vos provisions car il n'y a pas d'aménagements sur le rivage."
           }
         },
         {
@@ -699,7 +773,8 @@
             "de": "Plage du Havre",
             "hu": "Plage du Havre",
             "ro": "Plaja Havre",
-            "en": "Plage du Havre"
+            "en": "Plage du Havre",
+            "fr": "Plage du Havre"
           },
           "coords": [
             -1.957816,
@@ -714,7 +789,8 @@
             "de": "Erholen Sie sich an diesem ruhigen Naturhafen, wo sanfte Wellen an die Küste schlagen und ein perfektes Flachwassergebiet für kleine Kinder bieten.",
             "hu": "Kapcsolódjon ki ezen a nyugodt, természetes menedékhelyen, ahol a szelíd hullámok nyaldossák a partot, biztonságos úszóhelyet nyújtva a kisgyermekes családoknak.",
             "ro": "Relaxați-vă în acest refugiu natural liniștit, unde valurile blânde se sparg de țărm, oferind un loc de înot sigur și puțin adânc pentru familiile cu copii.",
-            "en": "Unwind at this tranquil natural haven where gentle waves lap against the shore, providing a perfect and safe shallow swimming spot for young families."
+            "en": "Unwind at this tranquil natural haven where gentle waves lap against the shore, providing a perfect and safe shallow swimming spot for young families.",
+            "fr": "Détendez-vous dans ce havre naturel tranquille où de douces vagues caressent le rivage, offrant un endroit peu profond parfait et sûr pour la baignade des jeunes familles."
           }
         }
       ],
@@ -722,7 +798,8 @@
         "de": "Morgen: Beginnen Sie in der Nähe des Austernmarktes für eine kurze Verkostung am Meer, bevor Sie die malerischen Straßen erkunden.\n\nMittag: Fahren Sie zur Pointe du Grouin, um atemberaubende, windgepeitschte Küstenpanoramen des Nordens zu erleben.\n\nNachmittag: Fahren Sie entspannt entlang der westlichen Strände und erkunden Sie die historische Sandfläche der Plage du Guesclin.\n\nAbend: Beenden Sie Ihren Roadtrip zwischen der Plage de la Touesse und der friedlichen Plage du Havre bei Sonnenuntergang.",
         "hu": "Reggel: Indítsa el a motort az osztrigapiac közelében egy gyors tengerparti kóstolóra, mielőtt nekivág a festői utaknak.\n\nDél: Hajtson fel a Pointe du Grouin-hoz, ahonnan lélegzetelállító, szélfújta panoráma nyílik az északi partra.\n\nDélután: Utazzon kényelmesen a nyugati strandok mentén, megállva a Plage du Guesclin történelmi homokjánál.\n\nEste: Fejezze be autós túráját a Plage de la Touesse és a békés Plage du Havre között a nyugtató naplementekor.",
         "ro": "Dimineața: Porniți motorul lângă faimoasa piață de stridii pentru o degustare pe malul mării înainte de a porni la drum.\n\nPrânz: Conduceți până la Pointe du Grouin pentru panorame uluitoare și bătute de vânt ale coastei de nord.\n\nDupă-amiază: Mergeți liniștit de-a lungul plajelor vestice, explorând nisipurile istorice de la Plage du Guesclin.\n\nSeara: Încheiați excursia pitorească între Plage de la Touesse și liniștita Plage du Havre, exact la apus.",
-        "en": "Morning: Start your engine near the famous oyster market for a quick seaside tasting before hitting the scenic roads.\n\nMidday: Drive up to Pointe du Grouin for breathtaking, windswept panoramas of the northern coastline.\n\nAfternoon: Cruise along the western beaches, stopping to explore the historic sands of Plage du Guesclin.\n\nEvening: Conclude your road trip hopping between Plage de la Touesse and the calm Plage du Havre as the sun sets."
+        "en": "Morning: Start your engine near the famous oyster market for a quick seaside tasting before hitting the scenic roads.\n\nMidday: Drive up to Pointe du Grouin for breathtaking, windswept panoramas of the northern coastline.\n\nAfternoon: Cruise along the western beaches, stopping to explore the historic sands of Plage du Guesclin.\n\nEvening: Conclude your road trip hopping between Plage de la Touesse and the calm Plage du Havre as the sun sets.",
+        "fr": "Matin : Démarrez près du célèbre marché aux huîtres pour une dégustation rapide au bord de mer avant de prendre les routes panoramiques.\n\nMidi : Montez jusqu’à la Pointe du Grouin pour des panoramas époustouflants et balayés par le vent de la côte nord.\n\nAprès-midi : Parcourez les plages de l’ouest, en vous arrêtant pour explorer les sables historiques de la Plage du Guesclin.\n\nSoir : Concluez votre road‑trip en alternant entre la Plage de la Touesse et la calme Plage du Havre au coucher du soleil."
       },
       "variants": {
         "rainy": {
@@ -730,7 +807,8 @@
             "de": "Mit dem Auto ist Regen in Cancale kein Hindernis. Sie erreichen den Austernmarkt bequem und trocken. Die Fahrt zur Pointe du Grouin bietet spektakuläre Ausblicke auf das tobende Meer aus der Sicherheit Ihres Wagens. Entlang der Küste finden Sie viele Parkplätze direkt an den Stränden, sodass Sie für kurze, erfrischende Spaziergänge schnell ins Freie und wieder ins Trockene springen können.",
             "hu": "Autóval az eső Cancale-ban nem akadály. Kényelmesen és szárazon érheti el az osztrigapiacot. A Pointe du Grouin felé vezető út látványos kilátást nyújt a háborgó tengerre az autó biztonságából. A part mentén számos parkolót talál közvetlenül a strandoknál, így a rövid, frissítő séták után gyorsan visszatérhet a száraz utastérbe.",
             "ro": "Cu mașina, ploaia în Cancale nu este un obstacol. Ajungeți la piața de stridii confortabil și uscat. Drumul spre Pointe du Grouin oferă vederi spectaculoase asupra mării agitate din siguranța vehiculului. De-a lungul coastei veți găsi multe parcări chiar lângă plaje, permițându-vă scurte plimbări revigorante între reprizele de ploaie.",
-            "en": "By car, rain in Cancale is no obstacle. You can reach the oyster market comfortably and dry. The drive to Pointe du Grouin offers spectacular views of the raging sea from the safety of your vehicle. Along the coast, you'll find many parking spots right by the beaches, allowing for quick, refreshing walks between the rain showers."
+            "en": "By car, rain in Cancale is no obstacle. You can reach the oyster market comfortably and dry. The drive to Pointe du Grouin offers spectacular views of the raging sea from the safety of your vehicle. Along the coast, you'll find many parking spots right by the beaches, allowing for quick, refreshing walks between the rain showers.",
+            "fr": "En voiture, la pluie à Cancale n’est pas un obstacle. Vous pouvez atteindre confortablement le marché aux huîtres à l’abri. La route vers la Pointe du Grouin offre des vues spectaculaires sur la mer agitée depuis la sécurité de votre véhicule. Le long de la côte, vous trouverez de nombreux parkings juste à côté des plages, permettant de courtes promenades rafraîchissantes entre les averses."
           },
           "stops": [
             {
@@ -738,13 +816,15 @@
                 "de": "Austernmarkt",
                 "hu": "Osztrigapiac",
                 "ro": "Piața de Stridii",
-                "en": "Oyster Market"
+                "en": "Oyster Market",
+                "fr": "Marché aux huîtres"
               },
               "tip_5lang": {
                 "de": "Parken Sie direkt am Quai de la Fenêtre; so können Sie Ihre Austern bei einem starken Schauer sogar im Auto mit Meerblick genießen.",
                 "hu": "Parkoljon közvetlenül a Quai de la Fenêtre mellett; így egy nagyobb zápor esetén akár az autóból is elfogyaszthatja az osztrigát tengeri kilátással.",
                 "ro": "Parcați direct la Quai de la Fenêtre; astfel puteți savura stridiile chiar și în mașină, cu vedere la mare, dacă ploaia devine prea puternică.",
-                "en": "Park right by Quai de la Fenêtre; this way, you can even enjoy your oysters inside the car with a sea view if the rain gets too heavy."
+                "en": "Park right by Quai de la Fenêtre; this way, you can even enjoy your oysters inside the car with a sea view if the rain gets too heavy.",
+                "fr": "Garez‑vous juste au Quai de la Fenêtre ; ainsi, vous pouvez même déguster vos huîtres dans la voiture avec vue sur la mer si la pluie devient trop forte."
               }
             },
             {
@@ -752,13 +832,15 @@
                 "de": "Pointe du Grouin",
                 "hu": "Pointe du Grouin",
                 "ro": "Pointe du Grouin",
-                "en": "Pointe du Grouin"
+                "en": "Pointe du Grouin",
+                "fr": "Pointe du Grouin"
               },
               "tip_5lang": {
                 "de": "Nutzen Sie den großen Parkplatz und warten Sie einen Moment ab, bis der Regen nachlässt, bevor Sie den kurzen Weg zur Aussichtsplattform gehen.",
                 "hu": "Használja a nagy parkolót, és várjon egy keveset az autóban, amíg az eső alábbhagy, mielőtt kisétálna a rövid úton a kilátóponthoz.",
                 "ro": "Folosiți parcarea mare și așteptați un moment în mașină până se domolește ploaia, înainte de a parcurge drumul scurt spre punctul de observație.",
-                "en": "Use the large parking lot and wait a moment in the car for the rain to ease off before taking the short walk to the observation point."
+                "en": "Use the large parking lot and wait a moment in the car for the rain to ease off before taking the short walk to the observation point.",
+                "fr": "Utilisez le grand parking et attendez un moment dans la voiture que la pluie diminue avant d’emprunter la courte promenade jusqu’au belvédère."
               }
             },
             {
@@ -766,13 +848,15 @@
                 "de": "Plage du Guesclin",
                 "hu": "Plage du Guesclin",
                 "ro": "Plaja Guesclin",
-                "en": "Plage du Guesclin"
+                "en": "Plage du Guesclin",
+                "fr": "Plage du Guesclin"
               },
               "tip_5lang": {
                 "de": "Die Burg auf der Insel wirkt im Regen besonders dramatisch; machen Sie ein Foto vom Parkplatz aus, falls der Wind für einen Spaziergang zu stark ist.",
                 "hu": "A szigeten álló vár esőben különösen drámai látványt nyújt; készítsen fotót a parkolóból, ha a szél túl erős lenne egy hosszabb sétához.",
                 "ro": "Castelul de pe insulă pare extrem de dramatic pe ploaie; faceți o fotografie din parcare dacă vântul este prea puternic pentru o plimbare lungă.",
-                "en": "The castle on the island looks particularly dramatic in the rain; take a photo from the parking lot if the wind is too strong for a walk."
+                "en": "The castle on the island looks particularly dramatic in the rain; take a photo from the parking lot if the wind is too strong for a walk.",
+                "fr": "Le château sur l’île paraît particulièrement dramatique sous la pluie ; prenez une photo depuis le parking si le vent est trop fort pour une promenade."
               }
             },
             {
@@ -780,13 +864,15 @@
                 "de": "Plage de la Touesse",
                 "hu": "Plage de la Touesse",
                 "ro": "Plaja Touesse",
-                "en": "Plage de la Touesse"
+                "en": "Plage de la Touesse",
+                "fr": "Plage de la Touesse"
               },
               "tip_5lang": {
                 "de": "Achten Sie auf die Sichtverhältnisse auf den schmalen Küstenstraßen; der Strand ist bei Regen ein ruhiger Ort für Naturbeobachtungen.",
                 "hu": "Ügyeljen a látási viszonyokra a keskeny parti utakon; a strand esőben nagyon csendes, kiváló hely a természet és a hullámok megfigyelésére.",
                 "ro": "Atenție la vizibilitate pe drumurile înguste de coastă; plaja este un loc foarte liniștit pe ploaie, ideal pentru observarea naturii.",
-                "en": "Watch the visibility on the narrow coastal roads; the beach is a very quiet spot in the rain, perfect for observing nature and waves."
+                "en": "Watch the visibility on the narrow coastal roads; the beach is a very quiet spot in the rain, perfect for observing nature and waves.",
+                "fr": "Surveillez la visibilité sur les routes côtières étroites ; la plage est un endroit très calme sous la pluie, parfait pour observer la nature et les vagues."
               }
             },
             {
@@ -794,13 +880,15 @@
                 "de": "Plage du Havre",
                 "hu": "Plage du Havre",
                 "ro": "Plaja Havre",
-                "en": "Plage du Havre"
+                "en": "Plage du Havre",
+                "fr": "Plage du Havre"
               },
               "tip_5lang": {
                 "de": "Der Parkplatz bietet eine tolle Aussicht; wärmen Sie sich nach einem kurzen Strandgang mit der Sitzheizung auf, während Sie den Wellen zusehen.",
                 "hu": "A parkolóból kiváló a kilátás; egy rövid parti séta után melegedjen fel az autóban, miközben a szélvédő mögül figyeli a tajtékzó hullámokat.",
                 "ro": "Parcarea oferă o vedere excelentă; după o scurtă plimbare pe plajă, încălziți-vă în mașină în timp ce priviți valurile prin parbriz.",
-                "en": "The parking lot offers a great view; after a short beach walk, warm up in the car while watching the crashing waves through the windshield."
+                "en": "The parking lot offers a great view; after a short beach walk, warm up in the car while watching the crashing waves through the windshield.",
+                "fr": "Le parking offre une belle vue ; après une courte promenade sur la plage, réchauffez‑vous dans la voiture en regardant les vagues se briser à travers le pare‑brise."
               }
             }
           ]
@@ -810,7 +898,8 @@
             "de": "Eine winterliche Fahrt entlang der Smaragdküste ist entspannend und bietet klare Fernsichten. Morgens ist der Austernmarkt weniger überlaufen, ideal für einen schnellen Stopp. Die Pointe du Grouin ist im Winter windig, aber die Heizung im Auto wartet nach dem Ausflug. Da es ab 17:00 Uhr dunkel wird, genießen Sie die Fahrt in der Dämmerung und kehren Sie für ein gemütliches Abendessen ins beleuchtete Zentrum zurück.",
             "hu": "A téli autózás a Smaragd-part mentén pihentető, és tiszta távlatokat kínál. Reggel az osztrigapiac kevésbé zsúfolt, ideális egy gyors látogatáshoz. A Pointe du Grouin télen szeles, de az autó fűtése várja a rövid séta után. Mivel 17 órától sötétedik, élvezze a szürkületi autózást, majd térjen vissza a kivilágított központba egy vacsorára.",
             "ro": "O plimbare cu mașina iarna de-a lungul Coastei de Smarald este relaxantă și oferă vederi clare. Dimineața, piața de stridii este mai puțin aglomerată, ideală pentru o oprire rapidă. Pointe du Grouin este vântos iarna, dar căldura din mașină vă așteaptă după vizită. Deoarece se întunecă la ora 17:00, savurați drumul în amurg.",
-            "en": "A winter drive along the Emerald Coast is relaxing and offers clear, far-reaching views. In the morning, the oyster market is less crowded, ideal for a quick stop. Pointe du Grouin is windy in winter, but the car's heater awaits after your brief walk. As it gets dark from 5 PM, enjoy the twilight drive and return to the center for dinner."
+            "en": "A winter drive along the Emerald Coast is relaxing and offers clear, far-reaching views. In the morning, the oyster market is less crowded, ideal for a quick stop. Pointe du Grouin is windy in winter, but the car's heater awaits after your brief walk. As it gets dark from 5 PM, enjoy the twilight drive and return to the center for dinner.",
+            "fr": "Une route hivernale le long de la Côte d’Émeraude est relaxante et offre des vues claires et lointaines. Le matin, le marché aux huîtres est moins fréquenté, idéal pour un arrêt rapide. La Pointe du Grouin est venteuse en hiver, mais le chauffage de la voiture vous attend après la brève promenade. Dès 17h, profitez de la route crépusculaire et retournez au centre pour dîner."
           },
           "stops": [
             {
@@ -818,13 +907,15 @@
                 "de": "Austernmarkt",
                 "hu": "Osztrigapiac",
                 "ro": "Piața de Stridii",
-                "en": "Oyster Market"
+                "en": "Oyster Market",
+                "fr": "Marché aux huîtres"
               },
               "tip_5lang": {
                 "de": "In der Nebensaison finden Sie leicht einen Parkplatz; genießen Sie die winterliche Frische der Austern, die jetzt am besten schmecken.",
                 "hu": "A főszezonon kívül könnyen talál parkolóhelyet; élvezze az osztriga téli frissességét, hiszen ebben az időszakban a legízletesebbek.",
                 "ro": "În afara sezonului veți găsi ușor un loc de parcare; savurați prospețimea de iarnă a stridiilor, care au cel mai bun gust în această perioadă.",
-                "en": "In the low season, you will easily find a parking spot; enjoy the winter freshness of the oysters, as they taste best during this time."
+                "en": "In the low season, you will easily find a parking spot; enjoy the winter freshness of the oysters, as they taste best during this time.",
+                "fr": "En basse saison, vous trouverez facilement une place de parking ; profitez de la fraîcheur hivernale des huîtres, elles sont meilleures à cette période."
               }
             },
             {
@@ -832,13 +923,15 @@
                 "de": "Pointe du Grouin",
                 "hu": "Pointe du Grouin",
                 "ro": "Pointe du Grouin",
-                "en": "Pointe du Grouin"
+                "en": "Pointe du Grouin",
+                "fr": "Pointe du Grouin"
               },
               "tip_5lang": {
                 "de": "Lassen Sie den Motor nicht unnötig laufen, aber genießen Sie die Wärme des Wagens direkt nach dem windigen Spaziergang am Kap.",
                 "hu": "Ne járassa feleslegesen a motort, de élvezze az autó melegét közvetlenül a szeles foknál tett rövid, de frissítő séta után.",
                 "ro": "Nu lăsați motorul pornit inutil, dar bucurați-vă de căldura mașinii imediat după plimbarea vântoasă de la capătul falezei.",
-                "en": "Do not leave the engine running unnecessarily, but enjoy the warmth of the car immediately after your windy walk at the headland."
+                "en": "Do not leave the engine running unnecessarily, but enjoy the warmth of the car immediately after your windy walk at the headland.",
+                "fr": "Ne laissez pas le moteur tourner inutilement, mais profitez immédiatement de la chaleur de la voiture après votre promenade venteuse à la pointe."
               }
             },
             {
@@ -846,13 +939,15 @@
                 "de": "Plage du Guesclin",
                 "hu": "Plage du Guesclin",
                 "ro": "Plaja Guesclin",
-                "en": "Plage du Guesclin"
+                "en": "Plage du Guesclin",
+                "fr": "Plage du Guesclin"
               },
               "tip_5lang": {
                 "de": "Das weiche Winterlicht ist perfekt für Landschaftsaufnahmen; der Strand ist fast menschenleer und strahlt eine tiefe Ruhe aus.",
                 "hu": "A lágy téli fények tökéletesek a tájfotózáshoz; a strand ilyenkor szinte teljesen néptelen, és mély nyugalmat áraszt a látogató felé.",
                 "ro": "Lumina blândă de iarnă este perfectă pentru fotografii de peisaj; plaja este aproape pustie și emană o liniște profundă și relaxantă.",
-                "en": "The soft winter light is perfect for landscape photography; the beach is almost deserted and radiates a deep sense of calm."
+                "en": "The soft winter light is perfect for landscape photography; the beach is almost deserted and radiates a deep sense of calm.",
+                "fr": "La douce lumière hivernale est parfaite pour la photographie de paysage ; la plage est presque déserte et dégage une profonde sensation de calme."
               }
             },
             {
@@ -860,13 +955,15 @@
                 "de": "Plage de la Touesse",
                 "hu": "Plage de la Touesse",
                 "ro": "Plaja Touesse",
-                "en": "Plage de la Touesse"
+                "en": "Plage de la Touesse",
+                "fr": "Plage de la Touesse"
               },
               "tip_5lang": {
                 "de": "Die Zufahrtswege sind im Winter oft nass; fahren Sie vorsichtig und genießen Sie die ungestörte Sicht auf die winterliche Bucht.",
                 "hu": "A strandhoz vezető utak télen gyakran vizesek; vezessen óvatosan, és élvezze a zavartalan kilátást a téli álmot alvó öbölre.",
                 "ro": "Drumurile de acces sunt adesea umede iarna; conduceți cu atenție și bucurați-vă de vederea neîntreruptă asupra golfului amorțit.",
-                "en": "The access roads are often wet in winter; drive carefully and enjoy the undisturbed view of the bay in its winter slumber."
+                "en": "The access roads are often wet in winter; drive carefully and enjoy the undisturbed view of the bay in its winter slumber.",
+                "fr": "Les routes d’accès sont souvent humides en hiver ; conduisez prudemment et profitez de la vue intacte de la baie en sommeil hivernal."
               }
             },
             {
@@ -874,13 +971,15 @@
                 "de": "Plage du Havre",
                 "hu": "Plage du Havre",
                 "ro": "Plaja Havre",
-                "en": "Plage du Havre"
+                "en": "Plage du Havre",
+                "fr": "Plage du Havre"
               },
               "tip_5lang": {
                 "de": "Beenden Sie Ihren Besuch hier vor Sonnenuntergang um 17 Uhr; die Dämmerungsfarben über dem Meer sind im Winter besonders intensiv.",
                 "hu": "Fejezze be a látogatást a 17 órai naplemente előtt; a tenger feletti szürkületi színek télen különösen intenzívek és látványosak.",
                 "ro": "Încheiați vizita înainte de apusul soarelui la ora 17:00; culorile amurgului peste mare sunt extrem de intense în timpul iernii.",
-                "en": "Finish your visit here before the sunset at 5 PM; the twilight colors over the sea are particularly intense during the winter months."
+                "en": "Finish your visit here before the sunset at 5 PM; the twilight colors over the sea are particularly intense during the winter months.",
+                "fr": "Terminez votre visite ici avant le coucher du soleil à 17h ; les couleurs du crépuscule sur la mer sont particulièrement intenses en hiver."
               }
             }
           ]

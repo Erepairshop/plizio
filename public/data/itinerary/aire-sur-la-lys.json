@@ -21,7 +21,8 @@
             "de": "Le Bailliage",
             "hu": "Le Bailliage",
             "ro": "Le Bailliage",
-            "en": "Le Bailliage"
+            "en": "Le Bailliage",
+            "fr": "Le Bailliage"
           },
           "coords": [
             2.39512,
@@ -36,7 +37,8 @@
             "de": "Ein architektonisches Meisterwerk der Renaissance, das als Vogtei diente, dessen kunstvolle Fassadendetails Sie unbedingt bewundern sollten.",
             "hu": "A reneszánsz építészet mesterműve, amely egykor bírósági épületként szolgált, és amelynek homlokzati részleteit érdemes alaposan szemügyre venni.",
             "ro": "O capodoperă a arhitecturii renascentiste care a servit drept sediu al executorului judecătoresc, ale cărei detalii complexe ale fațadei trebuie neapărat admirate.",
-            "en": "A Renaissance architectural masterpiece that once served as the bailiwick court, where you should take time to admire the intricate facade details."
+            "en": "A Renaissance architectural masterpiece that once served as the bailiwick court, where you should take time to admire the intricate facade details.",
+            "fr": "Un chef‑d'œuvre architectural de la Renaissance qui servait autrefois de bailliage ; prenez le temps d'admirer les détails complexes de la façade."
           }
         },
         {
@@ -44,7 +46,8 @@
             "de": "Hôtel de Ville",
             "hu": "Hôtel de Ville",
             "ro": "Hôtel de Ville",
-            "en": "Hôtel de Ville"
+            "en": "Hôtel de Ville",
+            "fr": "Hôtel de Ville"
           },
           "coords": [
             2.395978,
@@ -59,7 +62,8 @@
             "de": "Das grandiose Rathaus thront stolz am Hauptplatz und ist ein idealer Ausgangspunkt, wo Sie sich in der Touristeninformation eine Karte besorgen können.",
             "hu": "A lenyűgöző városháza büszkén áll a főtéren, ideális kiindulópontként szolgálva, ahol a benti turistainformációnál térképet is beszerezhet.",
             "ro": "Primăria grandioasă se înalță mândră în piața principală, fiind un punct de plecare ideal de unde puteți lua o hartă de la biroul de informații din interior.",
-            "en": "The grandiose town hall stands proudly in the main square, serving as a perfect starting point where you can pick up a map at the tourist info inside."
+            "en": "The grandiose town hall stands proudly in the main square, serving as a perfect starting point where you can pick up a map at the tourist info inside.",
+            "fr": "La majestueuse mairie trône sur la place principale, point de départ parfait où l'on peut se procurer une carte à l'office de tourisme à l'intérieur."
           }
         },
         {
@@ -67,7 +71,8 @@
             "de": "Beffroi",
             "hu": "Beffroi",
             "ro": "Beffroi",
-            "en": "Beffroi"
+            "en": "Beffroi",
+            "fr": "Beffroi"
           },
           "coords": [
             2.396404,
@@ -82,7 +87,8 @@
             "de": "Dieser imposante Belfried bietet einen Einblick in die mittelalterliche bürgerliche Macht; bereiten Sie sich jedoch auf einen steilen Aufstieg vor, um den Panoramablick zu genießen.",
             "hu": "Ez az impozáns harangtorony bepillantást enged a középkori polgári hatalomba, de készüljön fel a meredek lépcsőkre, ha élvezni szeretné a panorámát.",
             "ro": "Această clopotniță impunătoare oferă o privire asupra puterii civice medievale, deși trebuie să fiți pregătit pentru un urcuș abrupt dacă doriți să vă bucurați de priveliștile panoramice.",
-            "en": "This imposing belfry offers a glimpse into medieval civic power, though be prepared for a steep climb if you wish to enjoy the panoramic views."
+            "en": "This imposing belfry offers a glimpse into medieval civic power, though be prepared for a steep climb if you wish to enjoy the panoramic views.",
+            "fr": "Ce beffroi imposant offre un aperçu du pouvoir civique médiéval, mais préparez‑vous à une montée raide si vous souhaitez profiter de la vue panoramique."
           }
         },
         {
@@ -90,7 +96,8 @@
             "de": "Chapelle Saint-Jacques-le-Majeur-et-Saint-Ignace",
             "hu": "Chapelle Saint-Jacques-le-Majeur-et-Saint-Ignace",
             "ro": "Chapelle Saint-Jacques-le-Majeur-et-Saint-Ignace",
-            "en": "Chapelle Saint-Jacques-le-Majeur-et-Saint-Ignace"
+            "en": "Chapelle Saint-Jacques-le-Majeur-et-Saint-Ignace",
+            "fr": "Chapelle Saint-Jacques-le-Majeur-et-Saint-Ignace"
           },
           "coords": [
             2.397634,
@@ -105,7 +112,8 @@
             "de": "Eine ruhige Kapelle mit bemerkenswerten Buntglasfenstern, die sich perfekt für einen Moment der stillen Reflexion abseits der belebten Straßen eignet.",
             "hu": "Egy békés kápolna figyelemre méltó ólomüveg ablakokkal, amely tökéletes egy kis csendes elmélkedésre a forgalmas utcáktól távol.",
             "ro": "O capelă liniștită, cu vitralii remarcabile, perfectă pentru un moment de reflecție tăcută departe de străzile aglomerate.",
-            "en": "A serene chapel with remarkable stained glass windows, offering a perfect spot for a moment of quiet reflection away from the busy streets."
+            "en": "A serene chapel with remarkable stained glass windows, offering a perfect spot for a moment of quiet reflection away from the busy streets.",
+            "fr": "Une chapelle sereine aux remarquables vitraux, offrant un endroit idéal pour un moment de recueillement loin de l'agitation des rues."
           }
         },
         {
@@ -113,7 +121,8 @@
             "de": "Église Saint-Pierre",
             "hu": "Église Saint-Pierre",
             "ro": "Église Saint-Pierre",
-            "en": "Église Saint-Pierre"
+            "en": "Église Saint-Pierre",
+            "fr": "Église Saint-Pierre"
           },
           "coords": [
             2.400806,
@@ -128,7 +137,8 @@
             "de": "Eine atemberaubende Stiftskirche, die extravagante gotische und barocke Elemente verbindet, wobei die prächtige Orgel ein absolutes Highlight darstellt.",
             "hu": "Lenyűgöző társaskáptalani templom, amely a gótikus és reneszánsz stílusokat ötvözi, és ahol a csodálatos orgona megtekintése kihagyhatatlan élmény.",
             "ro": "O biserică colegială uimitoare, care combină stilurile gotic flamboaiant și renascentist, unde orga magnifică este un punct de atracție absolut.",
-            "en": "A stunning collegiate church combining flamboyant Gothic and Renaissance styles, where observing the magnificent organ is an absolute highlight."
+            "en": "A stunning collegiate church combining flamboyant Gothic and Renaissance styles, where observing the magnificent organ is an absolute highlight.",
+            "fr": "Une splendide collégiale combinant gothique flamboyant et styles Renaissance ; l'observation du magnifique orgue est un incontournable."
           }
         },
         {
@@ -136,7 +146,8 @@
             "de": "Porte d'Arras",
             "hu": "Porte d'Arras",
             "ro": "Porte d'Arras",
-            "en": "Porte d'Arras"
+            "en": "Porte d'Arras",
+            "fr": "Porte d'Arras"
           },
           "coords": [
             2.404584,
@@ -151,7 +162,8 @@
             "de": "Die Überreste der alten Stadtbefestigung stehen als stumme Zeugen der militärischen Vergangenheit der Stadt und lassen sich am besten im späten Nachmittagslicht fotografieren.",
             "hu": "A régi városi erődítmény maradványai a város katonai múltjának néma tanúi, amelyeket a késő délutáni fényekben érdemes a leginkább lefotózni.",
             "ro": "Rămășițele vechilor fortificații ale orașului stau ca martori tăcuți ai trecutului său militar, fiind cel mai bine fotografiate în lumina târzie a după-amiezii.",
-            "en": "The remnants of the old town fortifications stand as silent witnesses to the city's military past, best photographed in the warm late afternoon light."
+            "en": "The remnants of the old town fortifications stand as silent witnesses to the city's military past, best photographed in the warm late afternoon light.",
+            "fr": "Les vestiges des anciennes fortifications urbaines témoignent du passé militaire de la ville, à photographier de préférence à la chaude lumière du fin d'après‑midi."
           }
         }
       ],
@@ -159,7 +171,8 @@
         "de": "Morgen: Wir beginnen unseren Spaziergang am Bailliage und bewundern die Renaissance-Architektur, bevor wir zum prächtigen Hôtel de Ville gehen, um den Puls der Stadt zu spüren.\nMittag: Gegen Mittag bewundern wir den hoch aufragenden Belfried und machen eine besinnliche Pause in der wunderschön geschmückten Chapelle Saint-Jacques.\nNachmittag: Der Nachmittag ist der herrlichen Église Saint-Pierre gewidmet, gefolgt von einem Spaziergang zu den historischen Überresten der Porte d'Arras.\nAbend: Der Spaziergang endet bei Sonnenuntergang an den alten Stadttoren und hinterlässt eine tiefe Wertschätzung für das reiche Erbe von Aire-sur-la-Lys.",
         "hu": "Reggel: Sétánkat a Le Bailliage épületénél kezdjük, megcsodálva a reneszánsz építészetet, mielőtt a pompás Hôtel de Ville felé vennénk az irányt, hogy átérezzük a város lüktetését.\nDélben: Dél közeledtével a magasba tornyosuló Beffroi-t csodáljuk meg, majd egy elmélyült pihenőt tartunk a gyönyörűen díszített Chapelle Saint-Jacques kápolnában.\nDélután: A délutánt a lenyűgöző Église Saint-Pierre felfedezésének szenteljük, amelyet egy séta követ a Porte d'Arras történelmi maradványaihoz.\nEste: Sétánk a naplementében ér véget az ősi városkapuknál, mély tisztelettel adózva Aire-sur-la-Lys gazdag örökségének.",
         "ro": "Dimineața: Ne începem plimbarea la Le Bailliage, admirând arhitectura renascentistă înainte de a merge la marea Primărie pentru a simți pulsul civic al orașului.\nAmiază: Pe măsură ce se apropie prânzul, admirăm impozanta clopotniță și facem o pauză de contemplare la capela frumos împodobită Chapelle Saint-Jacques.\nDupă-amiază: După-amiaza este dedicată magnificei Église Saint-Pierre, urmată de o plimbare spre rămășițele defensive istorice ale Porte d'Arras.\nSeara: Plimbarea se încheie în timp ce soarele apune peste porțile antice ale orașului, lăsându-ne cu o profundă apreciere pentru moștenirea Aire-sur-la-Lys.",
-        "en": "Morning: We begin our walk at Le Bailliage, marveling at the detailed Renaissance architecture before stepping over to the grand Hôtel de Ville to sense the civic pulse of the city.\nMidday: As noon approaches, we admire the towering Beffroi and take a contemplative break at the beautifully adorned Chapelle Saint-Jacques-le-Majeur-et-Saint-Ignace.\nAfternoon: The afternoon is dedicated to the magnificent Église Saint-Pierre, a true Gothic masterpiece, followed by a stroll towards the historic defensive remnants of Porte d'Arras.\nEvening: The walk concludes as the sun sets over the ancient town gates, leaving us with a profound appreciation for the rich heritage and elegant atmosphere."
+        "en": "Morning: We begin our walk at Le Bailliage, marveling at the detailed Renaissance architecture before stepping over to the grand Hôtel de Ville to sense the civic pulse of the city.\nMidday: As noon approaches, we admire the towering Beffroi and take a contemplative break at the beautifully adorned Chapelle Saint-Jacques-le-Majeur-et-Saint-Ignace.\nAfternoon: The afternoon is dedicated to the magnificent Église Saint-Pierre, a true Gothic masterpiece, followed by a stroll towards the historic defensive remnants of Porte d'Arras.\nEvening: The walk concludes as the sun sets over the ancient town gates, leaving us with a profound appreciation for the rich heritage and elegant atmosphere.",
+        "fr": "Matin : Nous commençons notre promenade au Bailliage, admirant l'architecture Renaissance détaillée avant de gagner le grand Hôtel de Ville pour ressentir le pouls civique de la ville.\nMidi : À l'approche de midi, nous contemplons le majestueux Beffroi et faisons une pause contemplative à la Chapelle Saint-Jacques-le-Majeur-et-Saint-Ignace richement ornée.\nAprès‑midi : L'après‑midi est consacré à la magnifique Église Saint‑Pierre, un véritable chef‑d'œuvre gothique, suivi d'une promenade vers les vestiges défensifs historiques de la Porte d'Arras.\nSoir : La balade se conclut alors que le soleil se couche sur les anciennes portes de la ville, nous laissant une profonde appréciation du riche patrimoine et de l'élégante atmosphère."
       },
       "variants": {
         "rainy": {
@@ -167,7 +180,8 @@
             "de": "Der Spaziergang beginnt am Grand Place, wo die nassen Fassaden des Bailliage im Regen glänzen. Mittags bieten das Rathaus und der Beffroi trockene Zuflucht und faszinierende Einblicke in die flämische Geschichte. Nachmittags führen die Wege zu den Kirchen, deren massive Mauern Geborgenheit vermitteln. Der Tag endet an der Porte d'Arras, während die Lichter der Stadt in den Pfützen reflektieren.",
             "hu": "A séta a Grand Place-on indul, ahol a Bailliage nedves homlokzata csillog az esőben. Délben a Városháza és a Beffroi nyújt száraz menedéket és lenyűgöző betekintést a flamand történelembe. Délután az utak a templomokhoz vezetnek, melyek vaskos falai biztonságot árasztanak. A nap a Porte d'Arras-nál ér véget, miközben a város fényei visszatükröződnek a pocsolyákban.",
             "ro": "Plimbarea începe în Grand Place, unde fațadele umede de la Bailliage strălucesc în ploaie. La prânz, Primăria și Beffroi oferă un refugiu uscat și o incursiune fascinantă în istoria flamandă. După-amiaza, drumurile duc spre biserici, ale căror ziduri masive transmit siguranță. Ziua se încheie la Porte d'Arras, în timp ce luminile orașului se reflectă în bălți.",
-            "en": "The walk begins at Grand Place, where the wet facades of Le Bailliage glisten in the rain. At noon, the Town Hall and Beffroi offer dry refuge and fascinating insights into Flemish history. In the afternoon, paths lead to the churches, whose massive walls provide a sense of shelter. The day ends at Porte d'Arras, as the city lights reflect beautifully in the puddles."
+            "en": "The walk begins at Grand Place, where the wet facades of Le Bailliage glisten in the rain. At noon, the Town Hall and Beffroi offer dry refuge and fascinating insights into Flemish history. In the afternoon, paths lead to the churches, whose massive walls provide a sense of shelter. The day ends at Porte d'Arras, as the city lights reflect beautifully in the puddles.",
+            "fr": "La promenade commence à la Grand‑Place, où les façades humides du Bailliage scintillent sous la pluie. À midi, la Mairie et le Beffroi offrent un refuge sec et des aperçus fascinants de l'histoire flamande. L'après‑midi, les itinéraires mènent aux églises dont les murs massifs procurent un sentiment d'abri. La journée se termine à la Porte d'Arras, quand les lumières de la ville se reflètent joliment dans les flaques."
           },
           "stops": [
             {
@@ -175,13 +189,15 @@
                 "de": "Le Bailliage",
                 "hu": "Le Bailliage",
                 "ro": "Le Bailliage",
-                "en": "Le Bailliage"
+                "en": "Le Bailliage",
+                "fr": "Le Bailliage"
               },
               "tip_5lang": {
                 "de": "Bewundern Sie die flämische Renaissance-Architektur; suchen Sie bei starkem Regen Schutz unter den Arkaden und betrachten Sie die feinen Details trocken.",
                 "hu": "Csodálja meg a flamand reneszánsz építészetet; heves esőben húzódjon az árkádok alá, és onnan szemlélje szárazon a finom homlokzati részleteket.",
                 "ro": "Admirați arhitectura renascentistă flamandă; în caz de ploaie torențială, adăpostiți-vă sub arcade și priviți detaliile fine ale fațadei la adăpost.",
-                "en": "Admire the Flemish Renaissance architecture; in heavy rain, take shelter under the arches and observe the fine facade details while staying dry."
+                "en": "Admire the Flemish Renaissance architecture; in heavy rain, take shelter under the arches and observe the fine facade details while staying dry.",
+                "fr": "Admirez l'architecture Renaissance flamande ; par forte pluie, abritez‑vous sous les arches et observez les fins détails de la façade tout en restant au sec."
               }
             },
             {
@@ -189,13 +205,15 @@
                 "de": "Hôtel de Ville",
                 "hu": "Hôtel de Ville",
                 "ro": "Hôtel de Ville",
-                "en": "Hôtel de Ville"
+                "en": "Hôtel de Ville",
+                "fr": "Hôtel de Ville"
               },
               "tip_5lang": {
                 "de": "Das Rathaus beeindruckt durch seine prunkvolle Fassade; nutzen Sie den überdachten Eingangsbereich, um die Statuen ohne nass zu werden zu studieren.",
                 "hu": "A városháza lenyűgöző díszes homlokzatával; használja a fedett bejárati részt, hogy az esőtől védve tanulmányozhassa a szobrokat és díszeket.",
                 "ro": "Primăria impresionează prin fațada sa somptuoasă; folosiți zona de intrare acoperită pentru a studia statuile fără a vă uda în timpul ploii.",
-                "en": "The town hall impresses with its ornate facade; use the covered entrance area to study the statues and decorations while protected from the rain."
+                "en": "The town hall impresses with its ornate facade; use the covered entrance area to study the statues and decorations while protected from the rain.",
+                "fr": "La mairie impressionne par sa façade ornée ; utilisez l'entrée couverte pour étudier les statues et décorations à l'abri de la pluie."
               }
             },
             {
@@ -203,13 +221,15 @@
                 "de": "Beffroi",
                 "hu": "Beffroi",
                 "ro": "Beffroi",
-                "en": "Beffroi"
+                "en": "Beffroi",
+                "fr": "Beffroi"
               },
               "tip_5lang": {
                 "de": "Dieser UNESCO-Belfried ist ein Muss; im Inneren finden Sie Schutz vor Schauern, aber Vorsicht auf den oft rutschigen Steinstufen am Eingang.",
                 "hu": "Ez az UNESCO világörökségi harangtorony kötelező látnivaló; belül védve van a záporoktól, de vigyázzon a bejáratnál a gyakran csúszós kőlépcsőkre.",
                 "ro": "Această clopotniță UNESCO este de neratat; în interior sunteți protejat de averse, dar aveți grijă la treptele de piatră care pot fi alunecoase.",
-                "en": "This UNESCO bell tower is a must-see; inside you are protected from showers, but be careful on the stone steps which are often slippery when wet."
+                "en": "This UNESCO bell tower is a must-see; inside you are protected from showers, but be careful on the stone steps which are often slippery when wet.",
+                "fr": "Ce beffroi classé par l'UNESCO est un incontournable ; à l'intérieur vous êtes protégé des averses, mais faites attention aux marches en pierre souvent glissantes quand elles sont mouillées."
               }
             },
             {
@@ -217,13 +237,15 @@
                 "de": "Chapelle Saint-Jacques-le-Majeur-et-Saint-Ignace",
                 "hu": "Chapelle Saint-Jacques-le-Majeur-et-Saint-Ignace",
                 "ro": "Chapelle Saint-Jacques-le-Majeur-et-Saint-Ignace",
-                "en": "Chapelle Saint-Jacques-le-Majeur-et-Saint-Ignace"
+                "en": "Chapelle Saint-Jacques-le-Majeur-et-Saint-Ignace",
+                "fr": "Chapelle Saint-Jacques-le-Majeur-et-Saint-Ignace"
               },
               "tip_5lang": {
                 "de": "Eine prächtige Jesuitenkapelle; ideal für eine ruhige Pause im Trockenen, während Sie die kunstvollen Holzschnitzereien und den Altar bewundern.",
                 "hu": "Pompás jezsuita kápolna; ideális egy nyugodt, száraz szünetre, miközben megcsodálja a művészi fafaragványokat és a díszes oltárt az eső elől bújva.",
                 "ro": "O capelă iezuită splendidă; ideală pentru o pauză liniștită la uscat, în timp ce admirați sculpturile în lemn și altarul ornamentat.",
-                "en": "A splendid Jesuit chapel; ideal for a quiet, dry break while admiring the artistic woodcarvings and the ornate altar away from the rain."
+                "en": "A splendid Jesuit chapel; ideal for a quiet, dry break while admiring the artistic woodcarvings and the ornate altar away from the rain.",
+                "fr": "Une splendide chapelle jésuite ; idéale pour une pause calme et au sec tout en admirant les sculptures sur bois et l'autel orné à l'abri de la pluie."
               }
             },
             {
@@ -231,13 +253,15 @@
                 "de": "Église Saint-Pierre",
                 "hu": "Église Saint-Pierre",
                 "ro": "Église Saint-Pierre",
-                "en": "Église Saint-Pierre"
+                "en": "Église Saint-Pierre",
+                "fr": "Église Saint-Pierre"
               },
               "tip_5lang": {
                 "de": "Die massive Stiftskirche bietet viel Platz im Inneren; ein perfekter Ort, um einen starken Regenguss abzuwarten und die historische Orgel zu sehen.",
                 "hu": "A hatalmas társaskápolna tágas belső teret kínál; tökéletes hely egy heves felhőszakadás kivárására, miközben megnézi a történelmi orgonát.",
                 "ro": "Biserica colegială masivă oferă un interior spațios; un loc perfect pentru a aștepta trecerea unei ploi torențiale admirând orga istorică.",
-                "en": "The massive collegiate church offers a spacious interior; a perfect place to wait out a heavy downpour while viewing the historic organ."
+                "en": "The massive collegiate church offers a spacious interior; a perfect place to wait out a heavy downpour while viewing the historic organ.",
+                "fr": "La collégiale massive offre un intérieur spacieux ; un lieu parfait pour attendre une forte averse tout en contemplant l'orgue historique."
               }
             },
             {
@@ -245,13 +269,15 @@
                 "de": "Porte d'Arras",
                 "hu": "Porte d'Arras",
                 "ro": "Porte d'Arras",
-                "en": "Porte d'Arras"
+                "en": "Porte d'Arras",
+                "fr": "Porte d'Arras"
               },
               "tip_5lang": {
                 "de": "Ein historisches Stadttor; betrachten Sie das massive Mauerwerk vom Gehweg aus und meiden Sie die tiefen Pfützen, die sich bei Regen im Torbogen bilden.",
                 "hu": "Történelmi városkapu; a járdáról szemlélje a masszív falazatot, és kerülje el a mély pocsolyákat, amelyek esőben a boltív alatt gyűlnek össze.",
                 "ro": "O poartă istorică a orașului; priviți zidăria masivă de pe trotuar și evitați bălțile adânci care se formează sub boltă în timpul ploii.",
-                "en": "A historic city gate; view the massive masonry from the sidewalk and avoid the deep puddles that collect under the archway during rain."
+                "en": "A historic city gate; view the massive masonry from the sidewalk and avoid the deep puddles that collect under the archway during rain.",
+                "fr": "Une porte historique ; admirez le massif appareil de maçonnerie depuis le trottoir et évitez les grandes flaques qui se forment sous l'arcade par temps de pluie."
               }
             }
           ]
@@ -261,7 +287,8 @@
             "de": "Der Wintermorgen in Aire-sur-la-Lys ist frisch und oft neblig über den Kanälen. Die historischen Gebäude im Zentrum bieten angenehme Wärme während der Besichtigungen. Nachmittags färbt das frühe Zwielicht die Backsteinfassaden golden, bevor die Sonne gegen 16:45 Uhr untergeht. Der Abend ist kurz und gemütlich, ideal für einen kurzen Spaziergang durch die beleuchteten Gassen.",
             "hu": "A téli reggel friss és gyakran ködös a csatornák felett. A központ történelmi épületei kellemes meleget nyújtanak a látogatások során. Délután a korai szürkület aranybarnára festi a téglafalakat, mielőtt a nap 16:45 körül lenyugszik. Az este rövid és hangulatos, ideális egy utolsó sétára a kivilágított óvárosi utcákon.",
             "ro": "Dimineața de iarnă în Aire-sur-la-Lys este proaspătă și adesea cețoasă deasupra canalelor. Clădirile istorice din centru oferă o căldură plăcută în timpul vizitelor. După-amiaza, amurgul timpuriu colorează fațadele de cărămidă în auriu înainte ca soarele să apună în jur de 16:45. Seara este scurtă și primitoare, ideală pentru o plimbare pe străzile iluminate.",
-            "en": "A winter morning in Aire-sur-la-Lys is crisp and often misty over the canals. The historic buildings in the center provide pleasant warmth during visits. In the afternoon, the early twilight paints the brick facades golden before the sun sets around 4:45 PM. The evening is short and cozy, perfect for a final stroll through the illuminated old town streets."
+            "en": "A winter morning in Aire-sur-la-Lys is crisp and often misty over the canals. The historic buildings in the center provide pleasant warmth during visits. In the afternoon, the early twilight paints the brick facades golden before the sun sets around 4:45 PM. The evening is short and cozy, perfect for a final stroll through the illuminated old town streets.",
+            "fr": "Un matin d'hiver à Aire‑sur‑la‑Lys est vif et souvent brumeux au‑desus des canaux. Les bâtiments historiques du centre apportent une agréable chaleur pendant les visites. L'après‑midi, le crépuscule précoce peint les façades en brique en doré avant que le soleil ne se couche vers 16:45. La soirée est courte et cosy, parfaite pour une dernière promenade dans les rues anciennes illuminées."
           },
           "stops": [
             {
@@ -269,13 +296,15 @@
                 "de": "Le Bailliage",
                 "hu": "Le Bailliage",
                 "ro": "Le Bailliage",
-                "en": "Le Bailliage"
+                "en": "Le Bailliage",
+                "fr": "Le Bailliage"
               },
               "tip_5lang": {
                 "de": "Die detaillierte Fassade ist im klaren Winterlicht besonders fotogen; tragen Sie Handschuhe, da der Wind auf dem offenen Platz recht beißend sein kann.",
                 "hu": "A részletgazdag homlokzat a tiszta téli fényben különösen fotogén; viseljen kesztyűt, mert a szél a nyitott téren elég metsző lehet ilyenkor.",
                 "ro": "Fațada detaliată este deosebit de fotogenică în lumina clară de iarnă; purtați mănuși, deoarece vântul în piața deschisă poate fi destul de tăios.",
-                "en": "The detailed facade is especially photogenic in the clear winter light; wear gloves as the wind across the open square can be quite biting."
+                "en": "The detailed facade is especially photogenic in the clear winter light; wear gloves as the wind across the open square can be quite biting.",
+                "fr": "La façade détaillée est particulièrement photogénique sous la lumière claire d'hiver ; portez des gants car le vent sur la place ouverte peut être assez mordant."
               }
             },
             {
@@ -283,13 +312,15 @@
                 "de": "Hôtel de Ville",
                 "hu": "Hôtel de Ville",
                 "ro": "Hôtel de Ville",
-                "en": "Hôtel de Ville"
+                "en": "Hôtel de Ville",
+                "fr": "Hôtel de Ville"
               },
               "tip_5lang": {
                 "de": "Besuchen Sie das Rathaus mittags, um sich in den Gängen aufzuwärmen und die Architektur aus der Nähe zu bewundern, ohne der Kälte ausgesetzt zu sein.",
                 "hu": "Látogassa meg a városházát délidőben, hogy felmelegedjen a folyosókon, és közelebbről is megcsodálhassa az építészetet anélkül, hogy fázna.",
                 "ro": "Vizitați primăria la prânz pentru a vă încălzi în holuri și pentru a admira arhitectura de aproape fără a fi expus la frigul de afară.",
-                "en": "Visit the town hall at midday to warm up in the corridors and admire the architecture up close without being exposed to the cold outside."
+                "en": "Visit the town hall at midday to warm up in the corridors and admire the architecture up close without being exposed to the cold outside.",
+                "fr": "Visitez la mairie à midi pour vous réchauffer dans les couloirs et admirer l'architecture de près sans être exposé au froid extérieur."
               }
             },
             {
@@ -297,13 +328,15 @@
                 "de": "Beffroi",
                 "hu": "Beffroi",
                 "ro": "Beffroi",
-                "en": "Beffroi"
+                "en": "Beffroi",
+                "fr": "Beffroi"
               },
               "tip_5lang": {
                 "de": "Der Turm bietet im Winter eine tolle Aussicht; ziehen Sie sich warm an, da es beim Aufstieg zieht und die Stufen bei Frost rutschig sein können.",
                 "hu": "A torony télen is remek kilátást nyújt; öltözzön rétegesen, mert a lépcsőház huzatos, és fagy esetén a fokok csúszósak lehetnek.",
                 "ro": "Turnul oferă o priveliște excelentă și iarna; îmbrăcați-vă bine, deoarece scările sunt curentate și treptele pot fi alunecoase în caz de îngheț.",
-                "en": "The tower offers great views even in winter; dress warmly as the stairwell is drafty, and steps can be slippery if there is frost."
+                "en": "The tower offers great views even in winter; dress warmly as the stairwell is drafty, and steps can be slippery if there is frost.",
+                "fr": "La tour offre de superbes vues même en hiver ; habillez‑vous chaudement car la cage d'escalier est courantée et les marches peuvent être glissantes en cas de gel."
               }
             },
             {
@@ -311,13 +344,15 @@
                 "de": "Chapelle Saint-Jacques-le-Majeur-et-Saint-Ignace",
                 "hu": "Chapelle Saint-Jacques-le-Majeur-et-Saint-Ignace",
                 "ro": "Chapelle Saint-Jacques-le-Majeur-et-Saint-Ignace",
-                "en": "Chapelle Saint-Jacques-le-Majeur-et-Saint-Ignace"
+                "en": "Chapelle Saint-Jacques-le-Majeur-et-Saint-Ignace",
+                "fr": "Chapelle Saint-Jacques-le-Majeur-et-Saint-Ignace"
               },
               "tip_5lang": {
                 "de": "Die Kapelle ist ein ruhiger Rückzugsort; die warme Beleuchtung im Inneren schafft eine besinnliche Atmosphäre, ideal zum Aufwärmen am Nachmittag.",
                 "hu": "A kápolna csendes menedék; a belső meleg világítás meghitt hangulatot áraszt, ideális egy délutáni felmelegedéshez a városnézés közben.",
                 "ro": "Capela este un refugiu liniștit; iluminarea interioară caldă creează o atmosferă primitoare, ideală pentru a vă încălzi după-amiaza.",
-                "en": "The chapel is a quiet retreat; the warm interior lighting creates a cozy atmosphere, ideal for warming up during your afternoon sightseeing."
+                "en": "The chapel is a quiet retreat; the warm interior lighting creates a cozy atmosphere, ideal for warming up during your afternoon sightseeing.",
+                "fr": "La chapelle est un havre de paix ; l'éclairage intérieur chaud crée une atmosphère cosy, idéale pour se réchauffer pendant vos visites de l'après‑midi."
               }
             },
             {
@@ -325,13 +360,15 @@
                 "de": "Église Saint-Pierre",
                 "hu": "Église Saint-Pierre",
                 "ro": "Église Saint-Pierre",
-                "en": "Église Saint-Pierre"
+                "en": "Église Saint-Pierre",
+                "fr": "Église Saint-Pierre"
               },
               "tip_5lang": {
                 "de": "In der Kirche ist es im Winter recht kühl; behalten Sie Ihren Mantel an, während Sie die monumentale Architektur und die Kunstwerke erkunden.",
                 "hu": "A templomban télen meglehetősen hűvös van; hagyja magán a kabátját, miközben felfedezi a monumentális építészetet és a belső műalkotásokat.",
                 "ro": "În biserică este destul de răcoare iarna; păstrați-vă haina pe dvs. în timp ce explorați arhitectura monumentală și operele de artă.",
-                "en": "It is quite chilly inside the church in winter; keep your coat on while exploring the monumental architecture and interior artworks."
+                "en": "It is quite chilly inside the church in winter; keep your coat on while exploring the monumental architecture and interior artworks.",
+                "fr": "Il fait assez frais à l'intérieur de l'église en hiver ; gardez votre manteau lors de l'exploration de l'architecture monumentale et des œuvres d'art intérieures."
               }
             },
             {
@@ -339,13 +376,15 @@
                 "de": "Porte d'Arras",
                 "hu": "Porte d'Arras",
                 "ro": "Porte d'Arras",
-                "en": "Porte d'Arras"
+                "en": "Porte d'Arras",
+                "fr": "Porte d'Arras"
               },
               "tip_5lang": {
                 "de": "Besuchen Sie das Tor vor 16:30 Uhr, um das Mauerwerk im letzten Tageslicht zu sehen; achten Sie auf vereiste Stellen auf dem Gehweg dorthin.",
                 "hu": "Látogassa meg a kaput 16:30 előtt, hogy az utolsó nappali fényben lássa a falakat; figyeljen az esetleges jeges foltokra a gyalogúton.",
                 "ro": "Vizitați poarta înainte de 16:30 pentru a vedea zidăria în ultima lumină a zilei; atenție la porțiunile înghețate de pe trotuar.",
-                "en": "Visit the gate before 4:30 PM to see the masonry in the last daylight; watch out for potential icy patches on the sidewalk leading there."
+                "en": "Visit the gate before 4:30 PM to see the masonry in the last daylight; watch out for potential icy patches on the sidewalk leading there.",
+                "fr": "Visitez la porte avant 16:30 pour voir la maçonnerie sous la dernière lumière du jour ; méfiez‑vous des plaques de verglas possibles sur le trottoir qui y mène."
               }
             }
           ]
@@ -365,7 +404,8 @@
             "de": "Hôtel de Ville",
             "hu": "Hôtel de Ville",
             "ro": "Hôtel de Ville",
-            "en": "Hôtel de Ville"
+            "en": "Hôtel de Ville",
+            "fr": "Hôtel de Ville"
           },
           "coords": [
             2.395978,
@@ -380,7 +420,8 @@
             "de": "Das grandiose Rathaus thront stolz am Hauptplatz und ist ein idealer Ausgangspunkt, wo Sie sich in der Touristeninformation eine Karte besorgen können.",
             "hu": "A lenyűgöző városháza büszkén áll a főtéren, ideális kiindulópontként szolgálva, ahol a benti turistainformációnál térképet is beszerezhet.",
             "ro": "Primăria grandioasă se înalță mândră în piața principală, fiind un punct de plecare ideal de unde puteți lua o hartă de la biroul de informații din interior.",
-            "en": "The grandiose town hall stands proudly in the main square, serving as a perfect starting point where you can pick up a map at the tourist info inside."
+            "en": "The grandiose town hall stands proudly in the main square, serving as a perfect starting point where you can pick up a map at the tourist info inside.",
+            "fr": "La majestueuse mairie trône sur la place principale, point de départ parfait où l'on peut se procurer une carte à l'office de tourisme à l'intérieur."
           }
         },
         {
@@ -388,7 +429,8 @@
             "de": "Beffroi",
             "hu": "Beffroi",
             "ro": "Beffroi",
-            "en": "Beffroi"
+            "en": "Beffroi",
+            "fr": "Beffroi"
           },
           "coords": [
             2.396404,
@@ -403,7 +445,8 @@
             "de": "Dieser imposante Belfried bietet einen Einblick in die mittelalterliche bürgerliche Macht; bereiten Sie sich jedoch auf einen steilen Aufstieg vor, um den Panoramablick zu genießen.",
             "hu": "Ez az impozáns harangtorony bepillantást enged a középkori polgári hatalomba, de készüljön fel a meredek lépcsőkre, ha élvezni szeretné a panorámát.",
             "ro": "Această clopotniță impunătoare oferă o privire asupra puterii civice medievale, deși trebuie să fiți pregătit pentru un urcuș abrupt dacă doriți să vă bucurați de priveliștile panoramice.",
-            "en": "This imposing belfry offers a glimpse into medieval civic power, though be prepared for a steep climb if you wish to enjoy the panoramic views."
+            "en": "This imposing belfry offers a glimpse into medieval civic power, though be prepared for a steep climb if you wish to enjoy the panoramic views.",
+            "fr": "Ce beffroi imposant offre un aperçu du pouvoir civique médiéval, mais préparez‑vous à une montée raide si vous souhaitez profiter de la vue panoramique."
           }
         },
         {
@@ -411,7 +454,8 @@
             "de": "Chapelle Saint-Jacques-le-Majeur-et-Saint-Ignace",
             "hu": "Chapelle Saint-Jacques-le-Majeur-et-Saint-Ignace",
             "ro": "Chapelle Saint-Jacques-le-Majeur-et-Saint-Ignace",
-            "en": "Chapelle Saint-Jacques-le-Majeur-et-Saint-Ignace"
+            "en": "Chapelle Saint-Jacques-le-Majeur-et-Saint-Ignace",
+            "fr": "Chapelle Saint-Jacques-le-Majeur-et-Saint-Ignace"
           },
           "coords": [
             2.397634,
@@ -426,7 +470,8 @@
             "de": "Eine ruhige Kapelle mit bemerkenswerten Buntglasfenstern, die sich perfekt für einen Moment der stillen Reflexion abseits der belebten Straßen eignet.",
             "hu": "Egy békés kápolna figyelemre méltó ólomüveg ablakokkal, amely tökéletes egy kis csendes elmélkedésre a forgalmas utcáktól távol.",
             "ro": "O capelă liniștită, cu vitralii remarcabile, perfectă pentru un moment de reflecție tăcută departe de străzile aglomerate.",
-            "en": "A serene chapel with remarkable stained glass windows, offering a perfect spot for a moment of quiet reflection away from the busy streets."
+            "en": "A serene chapel with remarkable stained glass windows, offering a perfect spot for a moment of quiet reflection away from the busy streets.",
+            "fr": "Une chapelle sereine aux remarquables vitraux, offrant un endroit idéal pour un moment de recueillement loin de l'agitation des rues."
           }
         },
         {
@@ -434,7 +479,8 @@
             "de": "Église Saint-Pierre",
             "hu": "Église Saint-Pierre",
             "ro": "Église Saint-Pierre",
-            "en": "Église Saint-Pierre"
+            "en": "Église Saint-Pierre",
+            "fr": "Église Saint-Pierre"
           },
           "coords": [
             2.400806,
@@ -449,7 +495,8 @@
             "de": "Eine atemberaubende Stiftskirche, die extravagante gotische und barocke Elemente verbindet, wobei die prächtige Orgel ein absolutes Highlight darstellt.",
             "hu": "Lenyűgöző társaskáptalani templom, amely a gótikus és reneszánsz stílusokat ötvözi, és ahol a csodálatos orgona megtekintése kihagyhatatlan élmény.",
             "ro": "O biserică colegială uimitoare, care combină stilurile gotic flamboaiant și renascentist, unde orga magnifică este un punct de atracție absolut.",
-            "en": "A stunning collegiate church combining flamboyant Gothic and Renaissance styles, where observing the magnificent organ is an absolute highlight."
+            "en": "A stunning collegiate church combining flamboyant Gothic and Renaissance styles, where observing the magnificent organ is an absolute highlight.",
+            "fr": "Une splendide collégiale combinant gothique flamboyant et styles Renaissance ; l'observation du magnifique orgue est un incontournable."
           }
         },
         {
@@ -457,7 +504,8 @@
             "de": "Porte d'Arras",
             "hu": "Porte d'Arras",
             "ro": "Porte d'Arras",
-            "en": "Porte d'Arras"
+            "en": "Porte d'Arras",
+            "fr": "Porte d'Arras"
           },
           "coords": [
             2.404584,
@@ -472,7 +520,8 @@
             "de": "Die Überreste der alten Stadtbefestigung stehen als stumme Zeugen der militärischen Vergangenheit der Stadt und lassen sich am besten im späten Nachmittagslicht fotografieren.",
             "hu": "A régi városi erődítmény maradványai a város katonai múltjának néma tanúi, amelyeket a késő délutáni fényekben érdemes a leginkább lefotózni.",
             "ro": "Rămășițele vechilor fortificații ale orașului stau ca martori tăcuți ai trecutului său militar, fiind cel mai bine fotografiate în lumina târzie a după-amiezii.",
-            "en": "The remnants of the old town fortifications stand as silent witnesses to the city's military past, best photographed in the warm late afternoon light."
+            "en": "The remnants of the old town fortifications stand as silent witnesses to the city's military past, best photographed in the warm late afternoon light.",
+            "fr": "Les vestiges des anciennes fortifications urbaines témoignent du passé militaire de la ville, à photographier de préférence à la chaude lumière du fin d'après‑midi."
           }
         },
         {
@@ -480,7 +529,8 @@
             "de": "Porte de Beaulieu",
             "hu": "Porte de Beaulieu",
             "ro": "Porte de Beaulieu",
-            "en": "Porte de Beaulieu"
+            "en": "Porte de Beaulieu",
+            "fr": "Porte de Beaulieu"
           },
           "coords": [
             2.389764,
@@ -495,7 +545,8 @@
             "de": "Ein weiteres historisches Tor, das einen faszinierenden Blick auf die Verteidigungsanlagen im Vauban-Stil bietet und wo ein kurzer Spaziergang entlang des nahen Wassergrabens empfehlenswert ist.",
             "hu": "Egy másik történelmi kapu, amely lenyűgöző bepillantást nyújt a Vauban-stílusú védművekbe, és ahol érdemes egy gyors sétát tenni a közeli vizesárok mentén.",
             "ro": "O altă poartă istorică oferind o privire fascinantă asupra lucrărilor defensive în stil Vauban, unde este recomandată o scurtă plimbare de-a lungul șanțului din apropiere.",
-            "en": "Another historic gateway offering a fascinating look at the Vauban-style defensive works, where a quick stroll along the nearby moat is highly recommended."
+            "en": "Another historic gateway offering a fascinating look at the Vauban-style defensive works, where a quick stroll along the nearby moat is highly recommended.",
+            "fr": "Une autre porte historique offrant un regard fascinant sur les ouvrages défensifs de style Vauban ; une courte promenade le long du fossé adjacent est vivement recommandée."
           }
         },
         {
@@ -503,7 +554,8 @@
             "de": "Église Saint-Quentin",
             "hu": "Église Saint-Quentin",
             "ro": "Église Saint-Quentin",
-            "en": "Église Saint-Quentin"
+            "en": "Église Saint-Quentin",
+            "fr": "Église Saint-Quentin"
           },
           "coords": [
             2.37116,
@@ -518,7 +570,8 @@
             "de": "Eine schöne Vorstadtkirche voller lokaler Geschichte mit charmanten architektonischen Details, für deren Fotografieren sich die Mitnahme eines Teleobjektivs lohnt.",
             "hu": "Gyönyörű külvárosi templom, amely gazdag helyi történelemmel és elbűvölő építészeti részletekkel büszkélkedhet, amelyek fotózásához érdemes zoom objektívet hozni.",
             "ro": "O frumoasă biserică suburbană plină de istorie locală, prezentând detalii arhitecturale fermecătoare care justifică aducerea unui obiectiv cu zoom pentru fotografii mai bune.",
-            "en": "A beautiful suburban church steeped in local history, featuring charming architectural details that warrant bringing a zoom lens for better pictures."
+            "en": "A beautiful suburban church steeped in local history, featuring charming architectural details that warrant bringing a zoom lens for better pictures.",
+            "fr": "Une belle église de banlieue imprégnée d'histoire locale, présentant des détails architecturaux charmants qui justifient d'emporter un objectif à zoom pour de meilleures photos."
           }
         }
       ],
@@ -526,7 +579,8 @@
         "de": "Morgen: Die Radtour beginnt am zentralen Rathaus, wo wir die klassische Atmosphäre aufnehmen, bevor wir den aufragenden Belfried im Herzen der Stadt bewundern.\nMittag: Wir fahren eine kurze Strecke zur ruhigen Chapelle Saint-Jacques und radeln dann zur prächtigen Église Saint-Pierre, um ihre imposante Fassade zu sehen.\nNachmittag: Die Route führt uns etwas weiter hinaus, um die historischen Tore Porte d'Arras und Porte de Beaulieu zu erkunden und die militärische Vergangenheit zu entdecken.\nAbend: Wir beenden unsere Radtour an der friedlichen Église Saint-Quentin, genießen die ruhige Vorstadtluft und lassen den Tag voller historischer Entdeckungen Revue passieren.",
         "hu": "Reggel: Kerékpártúránk a központi városházától indul, magába szívva a klasszikus polgári hangulatot, mielőtt megcsodálnánk a magasba nyúló harangtornyot.\nDélben: Rövid távot tekerünk a békés Chapelle Saint-Jacques felé, majd a lenyűgöző Église Saint-Pierre impozáns homlokzatának felfedezésére indulunk.\nDélután: Az útvonal kissé távolabb visz, hogy felfedezzük a történelmi Porte d'Arras és Porte de Beaulieu kapukat, feltárva a város katonai múltját.\nEste: Kerékpáros utazásunkat a békés Église Saint-Quentin-nél fejezzük be, élvezve a nyugodt külvárosi levegőt és visszatekintve a történelmi felfedezésekkel teli napra.",
         "ro": "Dimineața: Ciclismul începe la Primăria centrală, absorbind vibrațiile civice clasice înainte de a admira impunătoarea clopotniță chiar în inima orașului.\nAmiază: Ne plimbăm pe o distanță scurtă până la liniștita Chapelle Saint-Jacques, apoi pedalăm spre magnifica Église Saint-Pierre pentru a-i admira fațada.\nDupă-amiază: Traseul ne duce puțin mai departe pentru a explora istoricele Porte d'Arras și Porte de Beaulieu, descoperind trecutul militar al orașului.\nSeara: Ne terminăm călătoria cu bicicleta la pașnica Église Saint-Quentin, bucurându-ne de aerul liniștit suburban și reflectând la o zi plină de descoperiri.",
-        "en": "Morning: Cycling starts at the central Hôtel de Ville, taking in the classic civic vibes before admiring the soaring Beffroi right in the heart of town.\nMidday: We ride a short distance to the serene Chapelle Saint-Jacques, then pedal over to the magnificent Église Saint-Pierre to admire its imposing facade.\nAfternoon: The route takes us slightly further out to explore the historic Porte d'Arras and Porte de Beaulieu, uncovering the city's extensive military past.\nEvening: We finish our cycling journey at the peaceful Église Saint-Quentin, enjoying the tranquil suburban air and reflecting on a day full of historical discoveries."
+        "en": "Morning: Cycling starts at the central Hôtel de Ville, taking in the classic civic vibes before admiring the soaring Beffroi right in the heart of town.\nMidday: We ride a short distance to the serene Chapelle Saint-Jacques, then pedal over to the magnificent Église Saint-Pierre to admire its imposing facade.\nAfternoon: The route takes us slightly further out to explore the historic Porte d'Arras and Porte de Beaulieu, uncovering the city's extensive military past.\nEvening: We finish our cycling journey at the peaceful Église Saint-Quentin, enjoying the tranquil suburban air and reflecting on a day full of historical discoveries.",
+        "fr": "Matin : Le parcours cycliste commence à l'Hôtel de Ville central, imprégnant l'ambiance civique classique avant d'admirer le Beffroi s'élevant au cœur de la ville.\nMidi : Nous roulons sur une courte distance jusqu'à la paisible Chapelle Saint‑Jacques, puis pédalons vers la magnifique Église Saint‑Pierre pour admirer sa façade imposante.\nAprès‑midi : L'itinéraire nous mène un peu plus loin pour explorer la Porte d'Arras et la Porte de Beaulieu, révélant le vaste passé militaire de la ville.\nSoir : Nous terminons notre parcours à vélo à la sereine Église Saint‑Quentin, profitant de l'air tranquille de la banlieue et en réfléchissant à une journée riche en découvertes historiques."
       },
       "variants": {
         "rainy": {
@@ -534,7 +588,8 @@
             "de": "Radfahren im Regen erfordert Vorsicht auf den Pflastersteinen im Zentrum. Morgens sind das Rathaus und der Belfried gute Stopps mit überdachten Abstellmöglichkeiten. Mittags führt die Route zu den Kapellen, wo man kurz verschnaufen kann. Nachmittags geht es zu den Stadttoren, wobei man auf spritzendes Wasser achten sollte. Abends bieten die nassen Gassen eine stimmungsvolle Kulisse.",
             "hu": "Az esőben való biciklizés óvatosságot igényel a központ macskakövein. Reggel a Városháza és a Belfried jó megállók, ahol van fedett tároló a közelben. Délben az út a kápolnákhoz vezet, ahol rövid pihenőt tarthat. Délután a városkapuk felé haladva ügyeljen a felcsapódó vízre. Este a nedves utcák hangulatos díszletet nyújtanak a tekeréshez.",
             "ro": "Mersul pe bicicletă în ploaie necesită prudență pe pavajul din centru. Dimineața, Primăria și Belfried sunt opriri bune cu locuri de parcare acoperite în apropiere. La prânz, traseul duce la capele pentru o scurtă odihnă. După-amiaza, spre porțile orașului, atenție la apa împroșcată. Seara, străzile umede oferă un decor atmosferic.",
-            "en": "Cycling in the rain requires caution on the cobblestones in the center. In the morning, the Town Hall and Belfry are good stops with covered bike parking nearby. At noon, the route leads to the chapels for a brief rest. In the afternoon, watch out for splashing water as you head towards the city gates. In the evening, the wet streets provide an atmospheric backdrop."
+            "en": "Cycling in the rain requires caution on the cobblestones in the center. In the morning, the Town Hall and Belfry are good stops with covered bike parking nearby. At noon, the route leads to the chapels for a brief rest. In the afternoon, watch out for splashing water as you head towards the city gates. In the evening, the wet streets provide an atmospheric backdrop.",
+            "fr": "Le cyclisme sous la pluie exige de la prudence sur les pavés du centre. Le matin, la Mairie et le Beffroi sont de bons arrêts avec des stationnements vélos couverts à proximité. À midi, l'itinéraire passe par les chapelles pour une courte pause. L'après‑midi, méfiez‑vous des éclaboussures en vous dirigeant vers les portes de la ville. Le soir, les rues mouillées offrent un cadre atmosphérique."
           },
           "stops": [
             {
@@ -542,13 +597,15 @@
                 "de": "Hôtel de Ville",
                 "hu": "Hôtel de Ville",
                 "ro": "Hôtel de Ville",
-                "en": "Hôtel de Ville"
+                "en": "Hôtel de Ville",
+                "fr": "Hôtel de Ville"
               },
               "tip_5lang": {
                 "de": "Stellen Sie Ihr Rad unter dem Vordach ab, um das Rathaus trocken zu besichtigen; Vorsicht beim Anfahren auf dem nassen Kopfsteinpflaster.",
                 "hu": "Támassza le kerékpárját az előtető alatt, hogy szárazon nézhesse meg a városházát; induláskor legyen óvatos a vizes macskaköveken.",
                 "ro": "Parcați bicicleta sub copertină pentru a vizita primăria la uscat; atenție la demarare pe pavajul umed care poate fi alunecos.",
-                "en": "Park your bike under the overhang to visit the town hall dry; be careful when starting off on the wet cobblestones which can be slippery."
+                "en": "Park your bike under the overhang to visit the town hall dry; be careful when starting off on the wet cobblestones which can be slippery.",
+                "fr": "Garez votre vélo sous le auvent pour visiter la mairie au sec ; faites attention en repartant sur les pavés mouillés qui peuvent être glissants."
               }
             },
             {
@@ -556,13 +613,15 @@
                 "de": "Beffroi",
                 "hu": "Beffroi",
                 "ro": "Beffroi",
-                "en": "Beffroi"
+                "en": "Beffroi",
+                "fr": "Beffroi"
               },
               "tip_5lang": {
                 "de": "Nutzen Sie den Belfried als Orientierungspunkt; parken Sie in der Nähe der Eingänge, um bei plötzlichen Schauern schnell im Inneren Schutz zu suchen.",
                 "hu": "Használja a Belfriedet tájékozódási pontként; parkoljon a bejáratok közelében, hogy hirtelen zápor esetén gyorsan belső menedéket találjon.",
                 "ro": "Folosiți Belfried ca punct de reper; parcați aproape de intrări pentru a găsi rapid adăpost în interior în caz de aversă bruscă.",
-                "en": "Use the Belfry as a landmark; park near the entrances to quickly find shelter inside in case of a sudden rain shower."
+                "en": "Use the Belfry as a landmark; park near the entrances to quickly find shelter inside in case of a sudden rain shower.",
+                "fr": "Utilisez le Beffroi comme repère ; garez‑vous près des entrées pour trouver rapidement un abri à l'intérieur en cas d'averse soudaine."
               }
             },
             {
@@ -570,13 +629,15 @@
                 "de": "Chapelle Saint-Jacques-le-Majeur-et-Saint-Ignace",
                 "hu": "Chapelle Saint-Jacques-le-Majeur-et-Saint-Ignace",
                 "ro": "Chapelle Saint-Jacques-le-Majeur-et-Saint-Ignace",
-                "en": "Chapelle Saint-Jacques-le-Majeur-et-Saint-Ignace"
+                "en": "Chapelle Saint-Jacques-le-Majeur-et-Saint-Ignace",
+                "fr": "Chapelle Saint-Jacques-le-Majeur-et-Saint-Ignace"
               },
               "tip_5lang": {
                 "de": "Ein kurzer Stopp im Trockenen; prüfen Sie Ihre Bremsen nach der Fahrt im Regen, bevor Sie die Tour durch die schmalen Gassen zur Kirche fortsetzen.",
                 "hu": "Rövid megálló a szárazon; az esőben való tekerés után ellenőrizze a fékeket, mielőtt folytatná az utat a szűk utcákon a templom felé.",
                 "ro": "O scurtă oprire la uscat; verificați frânele după mersul prin ploaie înainte de a continua drumul pe străzile înguste spre biserică.",
-                "en": "A short stop in the dry; check your brakes after riding in the rain before continuing through the narrow streets towards the church."
+                "en": "A short stop in the dry; check your brakes after riding in the rain before continuing through the narrow streets towards the church.",
+                "fr": "Une courte pause à l'abri ; vérifiez vos freins après avoir roulé sous la pluie avant de continuer dans les ruelles étroites en direction de l'église."
               }
             },
             {
@@ -584,13 +645,15 @@
                 "de": "Église Saint-Pierre",
                 "hu": "Église Saint-Pierre",
                 "ro": "Église Saint-Pierre",
-                "en": "Église Saint-Pierre"
+                "en": "Église Saint-Pierre",
+                "fr": "Église Saint-Pierre"
               },
               "tip_5lang": {
                 "de": "Parken Sie Ihr Rad an der Kirchenmauer; im Inneren können Sie die Ausrüstung trocknen und die monumentale Architektur in aller Ruhe genießen.",
                 "hu": "Parkoljon a templom fala mellett; odabent megszáríthatja felszerelését, és nyugodtan élvezheti a monumentális építészetet az eső elől védve.",
                 "ro": "Parcați bicicleta lângă zidul bisericii; în interior vă puteți usca echipamentul și puteți admira în liniște arhitectura monumentală.",
-                "en": "Park your bike by the church wall; inside you can dry your gear and peacefully enjoy the monumental architecture protected from the rain."
+                "en": "Park your bike by the church wall; inside you can dry your gear and peacefully enjoy the monumental architecture protected from the rain.",
+                "fr": "Garez votre vélo contre le mur de l'église ; à l'intérieur vous pouvez sécher votre équipement et profiter paisiblement de l'architecture monumentale à l'abri de la pluie."
               }
             },
             {
@@ -598,13 +661,15 @@
                 "de": "Porte d'Arras",
                 "hu": "Porte d'Arras",
                 "ro": "Porte d'Arras",
-                "en": "Porte d'Arras"
+                "en": "Porte d'Arras",
+                "fr": "Porte d'Arras"
               },
               "tip_5lang": {
                 "de": "Vorsicht vor tiefen Wasserlachen unter dem Torbogen; fahren Sie langsam, um Spritzwasser auf Ihrer Kleidung und den Bremsbelägen zu vermeiden.",
                 "hu": "Vigyázzon a mély tócsákkal a kapu íve alatt; hajtson lassan, hogy elkerülje a víz felcsapódását a ruhájára és a fékbetétekre.",
                 "ro": "Atenție la bălțile adânci de sub arcada porții; conduceți încet pentru a evita împroșcarea apei pe haine și pe saboții de frână.",
-                "en": "Watch out for deep puddles under the gate arch; ride slowly to avoid splashing water on your clothes and brake pads."
+                "en": "Watch out for deep puddles under the gate arch; ride slowly to avoid splashing water on your clothes and brake pads.",
+                "fr": "Attention aux flaques profondes sous l'arche de la porte ; roulez lentement pour éviter d'éclabousser vos vêtements et les plaquettes de frein."
               }
             },
             {
@@ -612,13 +677,15 @@
                 "de": "Porte de Beaulieu",
                 "hu": "Porte de Beaulieu",
                 "ro": "Porte de Beaulieu",
-                "en": "Porte de Beaulieu"
+                "en": "Porte de Beaulieu",
+                "fr": "Porte de Beaulieu"
               },
               "tip_5lang": {
                 "de": "Der Weg hierher kann bei Regen schlammig sein; bleiben Sie auf den befestigten Pfaden und nutzen Sie das Tor als kurzen Unterstand bei Schauern.",
                 "hu": "Az idevezető út esőben sáros lehet; maradjon a kövezett ösvényeken, és használja a kaput rövid menedékként, ha elered az eső.",
                 "ro": "Drumul până aici poate fi noroios pe ploaie; rămâneți pe potecile pavate și folosiți poarta ca un scurt adăpost dacă începe ploaia.",
-                "en": "The path here can be muddy in the rain; stay on the paved paths and use the gate as a short shelter if it starts pouring."
+                "en": "The path here can be muddy in the rain; stay on the paved paths and use the gate as a short shelter if it starts pouring.",
+                "fr": "Le chemin peut être boueux par temps de pluie ; restez sur les voies pavées et utilisez la porte comme abri si l'averse se met à tomber."
               }
             },
             {
@@ -626,13 +693,15 @@
                 "de": "Église Saint-Quentin",
                 "hu": "Église Saint-Quentin",
                 "ro": "Église Saint-Quentin",
-                "en": "Église Saint-Quentin"
+                "en": "Église Saint-Quentin",
+                "fr": "Église Saint-Quentin"
               },
               "tip_5lang": {
                 "de": "Ein ruhiger Abschluss; die Fahrt zurück ins Zentrum ist bei Nässe anstrengender, achten Sie auf ausreichende Beleuchtung an Ihrem Fahrrad.",
                 "hu": "Csendes lezárás; a visszaút a központba nedves úton fárasztóbb, ügyeljen a kerékpár megfelelő világítására a sötétedő esőben.",
                 "ro": "Un final liniștit; drumul de întoarcere spre centru este mai obositor pe ud, asigurați-vă că aveți iluminarea corespunzătoare la bicicletă.",
-                "en": "A quiet finish; the ride back to the center is more tiring on wet roads, ensure you have proper lighting on your bike in the rainy gloom."
+                "en": "A quiet finish; the ride back to the center is more tiring on wet roads, ensure you have proper lighting on your bike in the rainy gloom.",
+                "fr": "Une conclusion tranquille ; le retour au centre est plus fatiguant sur routes mouillées, assurez-vous d'avoir un bon éclairage sur votre vélo dans la pénombre pluvieuse."
               }
             }
           ]
@@ -642,7 +711,8 @@
             "de": "Winterliches Radfahren in Aire-sur-la-Lys bietet klare Luft und leere Wege. Morgens sind die historischen Plätze im frostigen Licht besonders reizvoll. Mittags laden Kirchen und Kapellen zu aufwärmenden Pausen ein. Nachmittags sollte man die Fahrt zu den Festungsanlagen zeitig planen, da es ab 16:30 Uhr dämmert. Der Tag endet mit einer kühlen, aber erfrischenden Fahrt durch die Altstadt.",
             "hu": "A téli kerékpározás Aire-sur-la-Lys-ben friss levegőt és üres utakat kínál. Reggel a történelmi terek a fagyos fényben különösen vonzóak. Délben a templomok és kápolnák hívogatnak egy-egy melengető szünetre. Délután az erődítményekhez tartó utat időben tervezze, mert 16:30-tól szürkül. A nap egy hűvös, de frissítő tekeréssel zárul az óvároson keresztül.",
             "ro": "Mersul pe bicicletă iarna în Aire-sur-la-Lys oferă aer curat și drumuri libere. Dimineața, piețele istorice sunt deosebit de atractive în lumina înghețată. La prânz, bisericile și capelele vă invită la pauze de încălzire. După-amiaza, planificați din timp drumul spre fortificații, deoarece se întunecă de la 16:30. Ziua se încheie cu o tură răcoroasă prin orașul vechi.",
-            "en": "Winter cycling in Aire-sur-la-Lys offers crisp air and empty paths. In the morning, the historic squares are especially charming in the frosty light. At noon, churches and chapels invite you for warming breaks. In the afternoon, plan your trip to the fortifications early as it gets dark from 4:30 PM. The day ends with a cool but refreshing ride through the old town."
+            "en": "Winter cycling in Aire-sur-la-Lys offers crisp air and empty paths. In the morning, the historic squares are especially charming in the frosty light. At noon, churches and chapels invite you for warming breaks. In the afternoon, plan your trip to the fortifications early as it gets dark from 4:30 PM. The day ends with a cool but refreshing ride through the old town.",
+            "fr": "Le vélo en hiver à Aire-sur-la-Lys offre un air vif et des chemins déserts. Le matin, les places historiques sont particulièrement charmantes dans la lumière givrée. À midi, églises et chapelles invitent à des pauses réchauffantes. L'après-midi, prévoyez de visiter les fortifications tôt car il fait nuit à partir de 16h30. La journée se termine par une balade fraîche mais revigorante dans la vieille ville."
           },
           "stops": [
             {
@@ -650,13 +720,15 @@
                 "de": "Hôtel de Ville",
                 "hu": "Hôtel de Ville",
                 "ro": "Hôtel de Ville",
-                "en": "Hôtel de Ville"
+                "en": "Hôtel de Ville",
+                "fr": "Hôtel de Ville"
               },
               "tip_5lang": {
                 "de": "Beginnen Sie die Tour mit warmen Handschuhen; der kalte Fahrtwind am Grand Place kann die Finger schnell auskühlen lassen.",
                 "hu": "Kezdje a túrát meleg kesztyűben; a Grand Place-on a hideg menetszél gyorsan lehűtheti az ujjait kerékpározás közben.",
                 "ro": "Începeți turul cu mănuși calde; vântul rece din Grand Place vă poate îngheța rapid degetele în timp ce pedalați.",
-                "en": "Start your tour with warm gloves; the cold wind at Grand Place can quickly chill your fingers while cycling."
+                "en": "Start your tour with warm gloves; the cold wind at Grand Place can quickly chill your fingers while cycling.",
+                "fr": "Commencez votre circuit avec des gants chauds ; le vent froid sur la Grand-Place peut rapidement frigorifier vos doigts à vélo."
               }
             },
             {
@@ -664,13 +736,15 @@
                 "de": "Beffroi",
                 "hu": "Beffroi",
                 "ro": "Beffroi",
-                "en": "Beffroi"
+                "en": "Beffroi",
+                "fr": "Beffroi"
               },
               "tip_5lang": {
                 "de": "Nutzen Sie den Stopp für eine kurze Bewegungspause ohne Rad; achten Sie beim Absteigen auf mögliche Glätte an schattigen Stellen am Platz.",
                 "hu": "Használja ki a megállót egy rövid mozgásra kerékpár nélkül; leszálláskor ügyeljen az esetleges jegesedésre a tér árnyékos részein.",
                 "ro": "Profitați de oprire pentru o scurtă mișcare fără bicicletă; la coborâre, atenție la gheața din zonele umbrite ale pieței.",
-                "en": "Take advantage of the stop for a short walk without the bike; watch out for potential ice in shaded areas of the square when dismounting."
+                "en": "Take advantage of the stop for a short walk without the bike; watch out for potential ice in shaded areas of the square when dismounting.",
+                "fr": "Profitez de l'arrêt pour une courte marche sans vélo ; méfiez-vous des plaques de verglas possibles dans les zones ombragées de la place en descendant de vélo."
               }
             },
             {
@@ -678,13 +752,15 @@
                 "de": "Chapelle Saint-Jacques-le-Majeur-et-Saint-Ignace",
                 "hu": "Chapelle Saint-Jacques-le-Majeur-et-Saint-Ignace",
                 "ro": "Chapelle Saint-Jacques-le-Majeur-et-Saint-Ignace",
-                "en": "Chapelle Saint-Jacques-le-Majeur-et-Saint-Ignace"
+                "en": "Chapelle Saint-Jacques-le-Majeur-et-Saint-Ignace",
+                "fr": "Chapelle Saint-Jacques-le-Majeur-et-Saint-Ignace"
               },
               "tip_5lang": {
                 "de": "Ein idealer Ort, um sich kurz im Inneren aufzuwärmen; stellen Sie sicher, dass Ihr Schloss bei Frost nicht einfriert, wenn Sie es draußen nutzen.",
                 "hu": "Ideális hely egy rövid belső felmelegedésre; ügyeljen rá, hogy a lakatja ne fagyjon be a hidegben, ha kint hagyja a kerékpárt.",
                 "ro": "Un loc ideal pentru o scurtă încălzire în interior; asigurați-vă că lacătul nu îngheață în frig dacă lăsați bicicleta afară.",
-                "en": "An ideal place for a quick indoor warm-up; make sure your lock doesn't freeze in the cold if you leave your bike outside."
+                "en": "An ideal place for a quick indoor warm-up; make sure your lock doesn't freeze in the cold if you leave your bike outside.",
+                "fr": "Un lieu idéal pour un rapide réchauffement à l'intérieur ; assurez-vous que votre antivol ne gèle pas si vous laissez votre vélo dehors."
               }
             },
             {
@@ -692,13 +768,15 @@
                 "de": "Église Saint-Pierre",
                 "hu": "Église Saint-Pierre",
                 "ro": "Église Saint-Pierre",
-                "en": "Église Saint-Pierre"
+                "en": "Église Saint-Pierre",
+                "fr": "Église Saint-Pierre"
               },
               "tip_5lang": {
                 "de": "Die monumentale Kirche bietet Schutz vor dem kalten Winterwind; prüfen Sie Ihren Reifendruck, da die Kälte ihn leicht beeinflussen kann.",
                 "hu": "A monumentális templom védelmet nyújt a hideg téli szél ellen; ellenőrizze a gumiabroncsok nyomását, mert a hideg befolyásolhatja azt.",
                 "ro": "Biserica monumentală oferă protecție împotriva vântului rece de iarnă; verificați presiunea în anvelope, deoarece frigul o poate influența.",
-                "en": "The monumental church provides protection from the cold winter wind; check your tire pressure as the cold can affect it slightly."
+                "en": "The monumental church provides protection from the cold winter wind; check your tire pressure as the cold can affect it slightly.",
+                "fr": "La grande église protège du vent froid d'hiver ; vérifiez la pression des pneus car le froid peut l'affecter légèrement."
               }
             },
             {
@@ -706,13 +784,15 @@
                 "de": "Porte d'Arras",
                 "hu": "Porte d'Arras",
                 "ro": "Porte d'Arras",
-                "en": "Porte d'Arras"
+                "en": "Porte d'Arras",
+                "fr": "Porte d'Arras"
               },
               "tip_5lang": {
                 "de": "Das Tor wirkt im Winterlicht massiv; achten Sie auf den Untergrund, da sich in den Vertiefungen unter dem Bogen oft Eis bildet.",
                 "hu": "A kapu masszívnak hat a téli fényben; ügyeljen a talajra, mert a boltív alatti mélyedésekben gyakran megmarad a jég.",
                 "ro": "Poarta pare masivă în lumina de iarnă; atenție la sol, deoarece gheața persistă adesea în adânciturile de sub boltă.",
-                "en": "The gate looks massive in the winter light; pay attention to the ground as ice often persists in the hollows under the arch."
+                "en": "The gate looks massive in the winter light; pay attention to the ground as ice often persists in the hollows under the arch.",
+                "fr": "La porte apparaît imposante dans la lumière hivernale ; faites attention au sol car la glace persiste souvent dans les creux sous l'arche."
               }
             },
             {
@@ -720,13 +800,15 @@
                 "de": "Porte de Beaulieu",
                 "hu": "Porte de Beaulieu",
                 "ro": "Porte de Beaulieu",
-                "en": "Porte de Beaulieu"
+                "en": "Porte de Beaulieu",
+                "fr": "Porte de Beaulieu"
               },
               "tip_5lang": {
                 "de": "Die Außenbezirke sind im Winter oft windiger; tragen Sie einen Schal und planen Sie den Rückweg vor Einbruch der Dunkelheit um 17:00 Uhr.",
                 "hu": "A külső részeken télen gyakran erősebb a szél; viseljen sálat, és tervezze meg a visszautat a sötétedés beállta, 17:00 előtt.",
                 "ro": "În zonele exterioare vântul este adesea mai puternic iarna; purtați un fular și planificați întoarcerea înainte de lăsarea serii la 17:00.",
-                "en": "The outskirts are often windier in winter; wear a scarf and plan your return trip before darkness falls at 5:00 PM."
+                "en": "The outskirts are often windier in winter; wear a scarf and plan your return trip before darkness falls at 5:00 PM.",
+                "fr": "La périphérie est souvent plus venteuse en hiver ; portez une écharpe et prévoyez votre retour avant la tombée de la nuit à 17h00."
               }
             },
             {
@@ -734,13 +816,15 @@
                 "de": "Église Saint-Quentin",
                 "hu": "Église Saint-Quentin",
                 "ro": "Église Saint-Quentin",
-                "en": "Église Saint-Quentin"
+                "en": "Église Saint-Quentin",
+                "fr": "Église Saint-Quentin"
               },
               "tip_5lang": {
                 "de": "Ein ruhiger Endpunkt der Tour; stellen Sie sicher, dass Ihre Fahrradbeleuchtung funktioniert, da die Sicht im Winter am späten Nachmittag nachlässt.",
                 "hu": "A túra csendes végpontja; győződjön meg róla, hogy a kerékpár világítása működik, mert a látási viszonyok télen késő délután gyorsan romlanak.",
                 "ro": "Un punct final liniștit al turului; asigurați-vă că luminile bicicletei funcționează, deoarece vizibilitatea scade rapid după-amiaza târziu.",
-                "en": "A quiet end point for the tour; make sure your bike lights are working as visibility decreases rapidly in the late winter afternoon."
+                "en": "A quiet end point for the tour; make sure your bike lights are working as visibility decreases rapidly in the late winter afternoon.",
+                "fr": "Un point d'arrivée calme pour la visite ; assurez-vous que les lumières de votre vélo fonctionnent car la visibilité diminue rapidement en fin d'après-midi d'hiver."
               }
             }
           ]
@@ -760,7 +844,8 @@
             "de": "Le Bailliage",
             "hu": "Le Bailliage",
             "ro": "Le Bailliage",
-            "en": "Le Bailliage"
+            "en": "Le Bailliage",
+            "fr": "Le Bailliage"
           },
           "coords": [
             2.39512,
@@ -775,7 +860,8 @@
             "de": "Ein architektonisches Meisterwerk der Renaissance, das als Vogtei diente, dessen kunstvolle Fassadendetails Sie unbedingt bewundern sollten.",
             "hu": "A reneszánsz építészet mesterműve, amely egykor bírósági épületként szolgált, és amelynek homlokzati részleteit érdemes alaposan szemügyre venni.",
             "ro": "O capodoperă a arhitecturii renascentiste care a servit drept sediu al executorului judecătoresc, ale cărei detalii complexe ale fațadei trebuie neapărat admirate.",
-            "en": "A Renaissance architectural masterpiece that once served as the bailiwick court, where you should take time to admire the intricate facade details."
+            "en": "A Renaissance architectural masterpiece that once served as the bailiwick court, where you should take time to admire the intricate facade details.",
+            "fr": "Un chef-d'œuvre architectural Renaissance qui servait autrefois de siège de la baillie ; prenez le temps d'admirer les détails sculptés de la façade."
           }
         },
         {
@@ -783,7 +869,8 @@
             "de": "Beffroi",
             "hu": "Beffroi",
             "ro": "Beffroi",
-            "en": "Beffroi"
+            "en": "Beffroi",
+            "fr": "Beffroi"
           },
           "coords": [
             2.396404,
@@ -798,7 +885,8 @@
             "de": "Dieser imposante Belfried bietet einen Einblick in die mittelalterliche bürgerliche Macht; bereiten Sie sich jedoch auf einen steilen Aufstieg vor, um den Panoramablick zu genießen.",
             "hu": "Ez az impozáns harangtorony bepillantást enged a középkori polgári hatalomba, de készüljön fel a meredek lépcsőkre, ha élvezni szeretné a panorámát.",
             "ro": "Această clopotniță impunătoare oferă o privire asupra puterii civice medievale, deși trebuie să fiți pregătit pentru un urcuș abrupt dacă doriți să vă bucurați de priveliștile panoramice.",
-            "en": "This imposing belfry offers a glimpse into medieval civic power, though be prepared for a steep climb if you wish to enjoy the panoramic views."
+            "en": "This imposing belfry offers a glimpse into medieval civic power, though be prepared for a steep climb if you wish to enjoy the panoramic views.",
+            "fr": "Ce beffroi imposant offre un aperçu du pouvoir civique médiéval ; soyez prêt à une montée raide si vous souhaitez profiter de la vue panoramique."
           }
         },
         {
@@ -806,7 +894,8 @@
             "de": "Église Saint-Pierre",
             "hu": "Église Saint-Pierre",
             "ro": "Église Saint-Pierre",
-            "en": "Église Saint-Pierre"
+            "en": "Église Saint-Pierre",
+            "fr": "Église Saint-Pierre"
           },
           "coords": [
             2.400806,
@@ -821,7 +910,8 @@
             "de": "Eine atemberaubende Stiftskirche, die extravagante gotische und barocke Elemente verbindet, wobei die prächtige Orgel ein absolutes Highlight darstellt.",
             "hu": "Lenyűgöző társaskáptalani templom, amely a gótikus és reneszánsz stílusokat ötvözi, és ahol a csodálatos orgona megtekintése kihagyhatatlan élmény.",
             "ro": "O biserică colegială uimitoare, care combină stilurile gotic flamboaiant și renascentist, unde orga magnifică este un punct de atracție absolut.",
-            "en": "A stunning collegiate church combining flamboyant Gothic and Renaissance styles, where observing the magnificent organ is an absolute highlight."
+            "en": "A stunning collegiate church combining flamboyant Gothic and Renaissance styles, where observing the magnificent organ is an absolute highlight.",
+            "fr": "Une superbe collégiale mêlant gothique flamboyant et styles Renaissance ; l'observation du magnifique orgue est un point fort incontournable."
           }
         },
         {
@@ -829,7 +919,8 @@
             "de": "Porte de Beaulieu",
             "hu": "Porte de Beaulieu",
             "ro": "Porte de Beaulieu",
-            "en": "Porte de Beaulieu"
+            "en": "Porte de Beaulieu",
+            "fr": "Porte de Beaulieu"
           },
           "coords": [
             2.389764,
@@ -844,7 +935,8 @@
             "de": "Ein weiteres historisches Tor, das einen faszinierenden Blick auf die Verteidigungsanlagen im Vauban-Stil bietet und wo ein kurzer Spaziergang entlang des nahen Wassergrabens empfehlenswert ist.",
             "hu": "Egy másik történelmi kapu, amely lenyűgöző bepillantást nyújt a Vauban-stílusú védművekbe, és ahol érdemes egy gyors sétát tenni a közeli vizesárok mentén.",
             "ro": "O altă poartă istorică oferind o privire fascinantă asupra lucrărilor defensive în stil Vauban, unde este recomandată o scurtă plimbare de-a lungul șanțului din apropiere.",
-            "en": "Another historic gateway offering a fascinating look at the Vauban-style defensive works, where a quick stroll along the nearby moat is highly recommended."
+            "en": "Another historic gateway offering a fascinating look at the Vauban-style defensive works, where a quick stroll along the nearby moat is highly recommended.",
+            "fr": "Une autre porte historique offrant un regard fascinant sur les ouvrages défensifs de type Vauban ; une courte promenade le long du fossé voisin est fortement recommandée."
           }
         },
         {
@@ -852,7 +944,8 @@
             "de": "Église Saint-Quentin",
             "hu": "Église Saint-Quentin",
             "ro": "Église Saint-Quentin",
-            "en": "Église Saint-Quentin"
+            "en": "Église Saint-Quentin",
+            "fr": "Église Saint-Quentin"
           },
           "coords": [
             2.37116,
@@ -867,7 +960,8 @@
             "de": "Eine schöne Vorstadtkirche voller lokaler Geschichte mit charmanten architektonischen Details, für deren Fotografieren sich die Mitnahme eines Teleobjektivs lohnt.",
             "hu": "Gyönyörű külvárosi templom, amely gazdag helyi történelemmel és elbűvölő építészeti részletekkel büszkélkedhet, amelyek fotózásához érdemes zoom objektívet hozni.",
             "ro": "O frumoasă biserică suburbană plină de istorie locală, prezentând detalii arhitecturale fermecătoare care justifică aducerea unui obiectiv cu zoom pentru fotografii mai bune.",
-            "en": "A beautiful suburban church steeped in local history, featuring charming architectural details that warrant bringing a zoom lens for better pictures."
+            "en": "A beautiful suburban church steeped in local history, featuring charming architectural details that warrant bringing a zoom lens for better pictures.",
+            "fr": "Une belle église de banlieue imprégnée d'histoire locale, présentant des détails architecturaux charmants qui méritent un objectif à zoom pour de meilleures photos."
           }
         },
         {
@@ -875,7 +969,8 @@
             "de": "Église Saint-Lambert",
             "hu": "Église Saint-Lambert",
             "ro": "Église Saint-Lambert",
-            "en": "Église Saint-Lambert"
+            "en": "Église Saint-Lambert",
+            "fr": "Église Saint-Lambert"
           },
           "coords": [
             2.398473,
@@ -890,7 +985,8 @@
             "de": "Diese etwas außerhalb gelegene, friedliche Kirche ist für ihr ruhiges Ambiente bekannt und bildet einen beruhigenden letzten Halt, bevor man die Stadt verlässt.",
             "hu": "Ez a kissé távolabb található, békés templom csendes hangulatáról ismert, így megnyugtató utolsó állomást jelent, mielőtt elhagyná a várost.",
             "ro": "Situată puțin mai departe, această biserică pașnică este cunoscută pentru ambianța sa liniștită, devenind o ultimă oprire relaxantă înainte de a părăsi orașul.",
-            "en": "Located a bit further out, this peaceful church is known for its quiet ambiance, making it a soothing final stop before heading out of town."
+            "en": "Located a bit further out, this peaceful church is known for its quiet ambiance, making it a soothing final stop before heading out of town.",
+            "fr": "Située un peu plus loin, cette église paisible est réputée pour son ambiance calme, en faisant une dernière halte apaisante avant de quitter la ville."
           }
         }
       ],
@@ -898,7 +994,8 @@
         "de": "Morgen: Wir fahren ins Stadtzentrum, um das Renaissance-Juwel Le Bailliage zu besuchen, und parken sicher, um den beeindruckenden mittelalterlichen Belfried zu bestaunen.\nMittag: Wir wechseln in das spirituelle Herz der Stadt mit einem Besuch der monumentalen Église Saint-Pierre und nehmen ihre kunstvollen Details in uns auf.\nNachmittag: Wir nutzen das Auto, um zu den Befestigungsanlagen der Porte de Beaulieu zu fahren, gefolgt von einer kurzen Fahrt zur historischen Église Saint-Quentin.\nAbend: Unsere Autotour endet an der ruhigen Église Saint-Lambert am Stadtrand und bietet einen entspannten Abschluss einer umfassenden Erkundung der Region.",
         "hu": "Reggel: Autóval érkezünk a városközpontba, hogy meglátogassuk a reneszánsz gyöngyszemet, a Le Bailliage-t, majd biztonságosan leparkolva megcsodáljuk a közeli középkori harangtornyot.\nDélben: A város spirituális központjába megyünk a monumentális Église Saint-Pierre meglátogatásával, elmélyedve annak bonyolult művészeti részleteiben.\nDélután: Az autót kihasználva elugrunk a Porte de Beaulieu védműveihez, majd egy rövid utazás következik a történelmi Église Saint-Quentin felé.\nEste: Autós túránk a külvárosi Église Saint-Lambert csendes környezetében ér véget, nyugodt és elmélyült befejezést kínálva a régió átfogó felfedezésének.",
         "ro": "Dimineața: Conducem în centrul orașului pentru a vizita bijuteria renascentistă Le Bailliage, apoi parcăm în siguranță pentru a admira impresionanta clopotniță medievală.\nAmiază: Trecem în inima spirituală a orașului cu o vizită la monumentala Église Saint-Pierre, admirând detaliile sale artistice complicate și istoria.\nDupă-amiază: Profitând de mașină, facem un salt până la fortificațiile defensive de la Porte de Beaulieu, urmată de un scurt drum până la Église Saint-Quentin.\nSeara: Turul nostru auto se încheie la senina Église Saint-Lambert de la periferie, oferind un final calm și reflexiv al unei explorări cuprinzătoare a regiunii.",
-        "en": "Morning: We drive into the city center to visit the Renaissance gem, Le Bailliage, then safely park to marvel at the impressive medieval Beffroi nearby.\nMidday: We transition to the spiritual heart of the city with a visit to the monumental Église Saint-Pierre, taking in its intricate artistic details and history.\nAfternoon: Taking advantage of the car, we hop over to the defensive fortifications of Porte de Beaulieu, followed by a short drive to the historical Église Saint-Quentin.\nEvening: Our driving tour concludes at the serene Église Saint-Lambert on the outskirts, providing a calm and reflective end to a comprehensive exploration of the region."
+        "en": "Morning: We drive into the city center to visit the Renaissance gem, Le Bailliage, then safely park to marvel at the impressive medieval Beffroi nearby.\nMidday: We transition to the spiritual heart of the city with a visit to the monumental Église Saint-Pierre, taking in its intricate artistic details and history.\nAfternoon: Taking advantage of the car, we hop over to the defensive fortifications of Porte de Beaulieu, followed by a short drive to the historical Église Saint-Quentin.\nEvening: Our driving tour concludes at the serene Église Saint-Lambert on the outskirts, providing a calm and reflective end to a comprehensive exploration of the region.",
+        "fr": "Matin : Nous pénétrons au centre-ville pour visiter le bijou Renaissance, Le Bailliage, puis nous garons en toute sécurité pour admirer le remarquable Beffroi médiéval à proximité.\nMidi : Nous passons au cœur spirituel de la ville avec la visite de la monumentale Église Saint-Pierre, en profitant de ses détails artistiques et de son histoire.\nAprès-midi : En profitant de la voiture, nous rejoignons les fortifications de la Porte de Beaulieu, suivies d'un court trajet jusqu'à l'historique Église Saint-Quentin.\nSoir : Notre circuit en voiture se termine à la sereine Église Saint-Lambert en périphérie, offrant une fin calme et réfléchie à une exploration complète de la région."
       },
       "variants": {
         "rainy": {
@@ -906,7 +1003,8 @@
             "de": "Mit dem Auto ist Aire-sur-la-Lys auch bei Regen bequem zu erkunden. Morgens sind die zentralen Sehenswürdigkeiten wie der Bailliage leicht erreichbar. Mittags bieten die Kirchen trockene Besichtigungen. Nachmittags können Sie zu den entlegeneren Toren und Kirchen fahren, ohne nass zu werden. Der Tag endet entspannt, während der Regen gegen die Windschutzscheibe prasselt.",
             "hu": "Autóval Aire-sur-la-Lys esőben is kényelmesen felfedezhető. Reggel a központi látnivalók, mint a Bailliage, könnyen elérhetőek. Délben a templomok száraz látogatási lehetőséget kínálnak. Délután a távolabbi kapukhoz és templomokhoz hajthat anélkül, hogy megázna. A nap nyugodtan zárul, miközben az eső a szélvédőn kopog.",
             "ro": "Cu mașina, Aire-sur-la-Lys poate fi explorat confortabil chiar și pe ploaie. Dimineața, atracțiile centrale precum Bailliage sunt ușor accesibile. La prânz, bisericile oferă vizite la uscat. După-amiaza, puteți merge la porțile și bisericile mai îndepărtate fără a vă uda. Ziua se încheie relaxat, în timp ce ploaia bate în parbriz.",
-            "en": "By car, Aire-sur-la-Lys can be explored comfortably even in the rain. In the morning, central sights like Le Bailliage are easily accessible. At noon, the churches offer dry visiting opportunities. In the afternoon, you can drive to the more distant gates and churches without getting wet. The day ends relaxingly as the rain drums on the windshield."
+            "en": "By car, Aire-sur-la-Lys can be explored comfortably even in the rain. In the morning, central sights like Le Bailliage are easily accessible. At noon, the churches offer dry visiting opportunities. In the afternoon, you can drive to the more distant gates and churches without getting wet. The day ends relaxingly as the rain drums on the windshield.",
+            "fr": "En voiture, Aire-sur-la-Lys se visite confortablement même sous la pluie. Le matin, les sites centraux comme Le Bailliage sont facilement accessibles. À midi, les églises offrent des opportunités de visite à l'abri. L'après-midi, vous pouvez conduire vers les portes et églises plus éloignées sans vous mouiller. La journée se termine agréablement tandis que la pluie tambourine sur le pare-brise."
           },
           "stops": [
             {
@@ -914,13 +1012,15 @@
                 "de": "Le Bailliage",
                 "hu": "Le Bailliage",
                 "ro": "Le Bailliage",
-                "en": "Le Bailliage"
+                "en": "Le Bailliage",
+                "fr": "Le Bailliage"
               },
               "tip_5lang": {
                 "de": "Parken Sie in der Nähe des Grand Place; nutzen Sie einen Regenschirm für den kurzen Weg zum Bailliage, um die Fassade trocken zu bewundern.",
                 "hu": "Parkoljon a Grand Place közelében; használjon esernyőt a Bailliage-ig tartó rövid úton, hogy szárazon csodálhassa meg a homlokzatot.",
                 "ro": "Parcați aproape de Grand Place; folosiți o umbrelă pentru scurtul drum până la Bailliage pentru a admira fațada la adăpost.",
-                "en": "Park near Grand Place; use an umbrella for the short walk to Le Bailliage to admire the facade while staying dry."
+                "en": "Park near Grand Place; use an umbrella for the short walk to Le Bailliage to admire the facade while staying dry.",
+                "fr": "Garez-vous près de la Grand-Place ; utilisez un parapluie pour la courte marche jusqu'au Bailliage afin d'admirer la façade au sec."
               }
             },
             {
@@ -928,13 +1028,15 @@
                 "de": "Beffroi",
                 "hu": "Beffroi",
                 "ro": "Beffroi",
-                "en": "Beffroi"
+                "en": "Beffroi",
+                "fr": "Beffroi"
               },
               "tip_5lang": {
                 "de": "Der Turm ist ein markanter Punkt; parken Sie direkt am Platz, um bei Regen schnell ins trockene Innere des UNESCO-Belfrieds zu gelangen.",
                 "hu": "A torony jellegzetes pont; parkoljon közvetlenül a téren, hogy esőben gyorsan bejuthasson az UNESCO világörökségi harangtorony száraz belsejébe.",
                 "ro": "Turnul este un punct de reper; parcați direct în piață pentru a ajunge rapid în interiorul uscat al clopotniței UNESCO în caz de ploaie.",
-                "en": "The tower is a prominent landmark; park directly on the square to quickly reach the dry interior of the UNESCO bell tower during rain."
+                "en": "The tower is a prominent landmark; park directly on the square to quickly reach the dry interior of the UNESCO bell tower during rain.",
+                "fr": "La tour est un repère majeur ; garez-vous directement sur la place pour accéder rapidement à l'intérieur sec du beffroi classé UNESCO en cas de pluie."
               }
             },
             {
@@ -942,13 +1044,15 @@
                 "de": "Église Saint-Pierre",
                 "hu": "Église Saint-Pierre",
                 "ro": "Église Saint-Pierre",
-                "en": "Église Saint-Pierre"
+                "en": "Église Saint-Pierre",
+                "fr": "Église Saint-Pierre"
               },
               "tip_5lang": {
                 "de": "Nutzen Sie den großen Parkplatz bei der Kirche; im Inneren können Sie lange verweilen und die Kunstwerke bei jedem Wetter genießen.",
                 "hu": "Használja a templom melletti tágas parkolót; odabent hosszan elidőzhet, és bármilyen időjárás esetén élvezheti a műalkotásokat.",
                 "ro": "Folosiți parcarea spațioasă de lângă biserică; în interior puteți zăbovi mult timp și vă puteți bucura de operele de artă pe orice vreme.",
-                "en": "Use the spacious parking lot next to the church; inside you can stay for a long time and enjoy the artworks regardless of the weather."
+                "en": "Use the spacious parking lot next to the church; inside you can stay for a long time and enjoy the artworks regardless of the weather.",
+                "fr": "Utilisez le vaste parking à côté de l'église ; à l'intérieur vous pouvez rester longtemps et profiter des œuvres quelles que soient les conditions météorologiques."
               }
             },
             {
@@ -956,13 +1060,15 @@
                 "de": "Porte de Beaulieu",
                 "hu": "Porte de Beaulieu",
                 "ro": "Porte de Beaulieu",
-                "en": "Porte de Beaulieu"
+                "en": "Porte de Beaulieu",
+                "fr": "Porte de Beaulieu"
               },
               "tip_5lang": {
                 "de": "Fahren Sie bis nah an das Tor heran; achten Sie beim Aussteigen auf tiefe Pfützen am Straßenrand, die sich bei starkem Regen bilden.",
                 "hu": "Hajtson egészen közel a kapuhoz; kiszálláskor ügyeljen az út menti mély pocsolyákra, amelyek heves esőzéskor alakulnak ki.",
                 "ro": "Conduceți până aproape de poartă; la coborâre, atenție la bălțile adânci de la marginea drumului care se formează la ploi torențiale.",
-                "en": "Drive very close to the gate; when getting out, watch out for deep puddles at the roadside that form during heavy rain."
+                "en": "Drive very close to the gate; when getting out, watch out for deep puddles at the roadside that form during heavy rain.",
+                "fr": "Approchez-vous en voiture de la porte ; en sortant, méfiez-vous des flaques profondes au bord de la route qui se forment lors de fortes pluies."
               }
             },
             {
@@ -970,13 +1076,15 @@
                 "de": "Église Saint-Quentin",
                 "hu": "Église Saint-Quentin",
                 "ro": "Église Saint-Quentin",
-                "en": "Église Saint-Quentin"
+                "en": "Église Saint-Quentin",
+                "fr": "Église Saint-Quentin"
               },
               "tip_5lang": {
                 "de": "Die Fahrt durch den Vorort ist im Regen stimmungsvoll; parken Sie direkt vor dem Eingang, um trocken in die historische Kirche zu gelangen.",
                 "hu": "Az elővároson keresztüli autózás esőben is hangulatos; parkoljon közvetlenül a bejárat előtt, hogy szárazon juthasson be a történelmi templomba.",
                 "ro": "Drumul prin suburbie este atmosferic pe ploaie; parcați direct în fața intrării pentru a intra la uscat în biserica istorică.",
-                "en": "The drive through the suburb is atmospheric in the rain; park directly in front of the entrance to enter the historic church while staying dry."
+                "en": "The drive through the suburb is atmospheric in the rain; park directly in front of the entrance to enter the historic church while staying dry.",
+                "fr": "La route à travers la banlieue est atmosphérique sous la pluie ; garez-vous directement devant l'entrée pour entrer dans l'église historique tout en restant au sec."
               }
             },
             {
@@ -984,13 +1092,15 @@
                 "de": "Église Saint-Lambert",
                 "hu": "Église Saint-Lambert",
                 "ro": "Église Saint-Lambert",
-                "en": "Église Saint-Lambert"
+                "en": "Église Saint-Lambert",
+                "fr": "Église Saint-Lambert"
               },
               "tip_5lang": {
                 "de": "Ein ruhiges Ziel im Außenbereich; die Parkmöglichkeiten sind gut, so dass Sie die Kirche auch bei Regen bequem besichtigen können.",
                 "hu": "Csendes célpont a külső részen; a parkolási lehetőségek jók, így esőben is kényelmesen meglátogathatja a templomot.",
                 "ro": "O destinație liniștită la periferie; posibilitățile de parcare sunt bune, astfel încât puteți vizita biserica confortabil și pe ploaie.",
-                "en": "A quiet destination on the outskirts; parking options are good, so you can visit the church comfortably even in the rain."
+                "en": "A quiet destination on the outskirts; parking options are good, so you can visit the church comfortably even in the rain.",
+                "fr": "Une destination tranquille en périphérie ; les possibilités de stationnement sont bonnes, vous permettant de visiter l'église confortablement même sous la pluie."
               }
             }
           ]
@@ -1000,7 +1110,8 @@
             "de": "Winterfahrten durch Aire-sur-la-Lys sind dank beheiztem Auto sehr angenehm. Morgens glitzert der Frost auf den Dächern der Altstadt. Mittags bieten die historischen Stätten im Zentrum kulturelle Erlebnisse im Warmen. Nachmittags ist die Fahrt zu den Außenbezirken ideal, um die Winterlandschaft zu sehen, bevor es gegen 17:00 Uhr dunkel wird. Der Tag endet gemütlich im beleuchteten Stadtkern.",
             "hu": "A téli autózás Aire-sur-la-Lys-ben a fűtött utastérnek köszönhetően nagyon kellemes. Reggel a zúzmara csillog az óváros háztetőin. Délben a központ történelmi helyszínei melegben élvezhető kulturális élményeket nyújtanak. Délután az utazás a külső részekre ideális a téli táj megtekintéséhez, mielőtt 17:00 körül besötétedik. A nap hangulatosan zárul a kivilágított városmagban.",
             "ro": "Călătoriile de iarnă prin Aire-sur-la-Lys sunt foarte plăcute datorită mașinii încălzite. Dimineața, promoroaca strălucește pe acoperișurile orașului vechi. La prânz, siturile istorice din centru oferă experiențe culturale la căldură. După-amiaza, drumul spre periferie este ideal pentru a vedea peisajul de iarnă înainte de a se întuneca la 17:00. Ziua se încheie plăcut în centrul luminat.",
-            "en": "Winter drives through Aire-sur-la-Lys are very pleasant thanks to the heated car. In the morning, frost glistens on the roofs of the old town. At noon, the historic sites in the center offer cultural experiences in the warmth. In the afternoon, the drive to the outskirts is ideal for seeing the winter landscape before it gets dark around 5:00 PM. The day ends cozily in the illuminated town center."
+            "en": "Winter drives through Aire-sur-la-Lys are very pleasant thanks to the heated car. In the morning, frost glistens on the roofs of the old town. At noon, the historic sites in the center offer cultural experiences in the warmth. In the afternoon, the drive to the outskirts is ideal for seeing the winter landscape before it gets dark around 5:00 PM. The day ends cozily in the illuminated town center.",
+            "fr": "Les trajets hivernaux à travers Aire-sur-la-Lys sont très agréables grâce à la voiture chauffée. Le matin, le givre scintille sur les toits de la vieille ville. À midi, les sites historiques du centre offrent des expériences culturelles au chaud. L'après-midi, la route vers la périphérie est idéale pour voir le paysage hivernal avant la tombée de la nuit vers 17h00. La journée se termine confortablement au centre-ville illuminé."
           },
           "stops": [
             {
@@ -1008,13 +1119,15 @@
                 "de": "Le Bailliage",
                 "hu": "Le Bailliage",
                 "ro": "Le Bailliage",
-                "en": "Le Bailliage"
+                "en": "Le Bailliage",
+                "fr": "Le Bailliage"
               },
               "tip_5lang": {
                 "de": "Die Fassade ist im Winterlicht klar und scharf; parken Sie nah am Platz, um die Kälte beim kurzen Fußweg zum Gebäude zu minimieren.",
                 "hu": "A homlokzat a téli fényben tiszta és éles; parkoljon a tér közelében, hogy minimalizálja a hidegben töltött időt az épületig tartó rövid úton.",
                 "ro": "Fațada este clară în lumina de iarnă; parcați aproape de piață pentru a minimiza timpul petrecut în frig pe drumul scurt până la clădire.",
-                "en": "The facade is clear and sharp in the winter light; park near the square to minimize the time spent in the cold on the short walk to the building."
+                "en": "The facade is clear and sharp in the winter light; park near the square to minimize the time spent in the cold on the short walk to the building.",
+                "fr": "La façade est nette et nette dans la lumière hivernale ; garez-vous près de la place pour minimiser le temps passé dans le froid lors de la courte marche jusqu'au bâtiment."
               }
             },
             {
@@ -1022,13 +1135,15 @@
                 "de": "Beffroi",
                 "hu": "Beffroi",
                 "ro": "Beffroi",
-                "en": "Beffroi"
+                "en": "Beffroi",
+                "fr": "Beffroi"
               },
               "tip_5lang": {
                 "de": "Ein weithin sichtbares Wahrzeichen; nutzen Sie den Stopp für ein Foto im Winterlicht, bevor Sie sich im Auto auf dem Weg zum nächsten Ziel wieder aufwärmen.",
                 "hu": "Messziről látható jelkép; használja ki a megállót egy fotóra a téli fényben, mielőtt újra felmelegedne az autóban a következő célpont felé.",
                 "ro": "Un simbol vizibil de departe; profitați de oprire pentru o fotografie în lumina de iarnă înainte de a vă reîncălzi în mașină spre următoarea destinație.",
-                "en": "A symbol visible from afar; take advantage of the stop for a photo in the winter light before warming up again in the car on the way to the next stop."
+                "en": "A symbol visible from afar; take advantage of the stop for a photo in the winter light before warming up again in the car on the way to the next stop.",
+                "fr": "Un symbole visible de loin ; profitez de l'arrêt pour une photo dans la lumière hivernale avant de vous réchauffer à nouveau dans la voiture en direction de l'étape suivante."
               }
             },
             {
@@ -1036,13 +1151,15 @@
                 "de": "Église Saint-Pierre",
                 "hu": "Église Saint-Pierre",
                 "ro": "Église Saint-Pierre",
-                "en": "Église Saint-Pierre"
+                "en": "Église Saint-Pierre",
+                "fr": "Église Saint-Pierre"
               },
               "tip_5lang": {
                 "de": "Die monumentale Kirche ist auch im Winter beeindruckend; achten Sie auf vereiste Stellen auf dem Parkplatz beim Aussteigen aus dem warmen Auto.",
                 "hu": "A monumentális templom télen is lenyűgöző; ügyeljen az esetleges jeges foltokra a parkolóban, amikor kiszáll a meleg autóból.",
                 "ro": "Biserica monumentală este impresionantă și iarna; atenție la porțiunile înghețate din parcare când coborâți din mașina caldă.",
-                "en": "The monumental church is impressive even in winter; watch out for potential icy patches in the parking lot when getting out of the warm car."
+                "en": "The monumental church is impressive even in winter; watch out for potential icy patches in the parking lot when getting out of the warm car.",
+                "fr": "La grande église impressionne même en hiver ; attention aux plaques de glace potentielles dans le parking en sortant de la voiture chaude."
               }
             },
             {
@@ -1050,13 +1167,15 @@
                 "de": "Porte de Beaulieu",
                 "hu": "Porte de Beaulieu",
                 "ro": "Porte de Beaulieu",
-                "en": "Porte de Beaulieu"
+                "en": "Porte de Beaulieu",
+                "fr": "Porte de Beaulieu"
               },
               "tip_5lang": {
                 "de": "Ein schöner Ort für einen kurzen Halt im Winter; die Zufahrt ist meist gut geräumt, aber der Wind weht hier draußen oft kälter.",
                 "hu": "Szép hely egy rövid téli megállóra; a bekötőút általában jól tisztított, de itt kint a szél gyakran hidegebbnek érződik.",
                 "ro": "Un loc frumos pentru o scurtă oprire iarna; drumul de acces este de obicei bine curățat, dar vântul se simte adesea mai rece aici.",
-                "en": "A nice place for a short winter stop; the access road is usually well cleared, but the wind often feels colder out here."
+                "en": "A nice place for a short winter stop; the access road is usually well cleared, but the wind often feels colder out here.",
+                "fr": "Un bel endroit pour une courte halte hivernale ; la route d'accès est généralement bien dégagée, mais le vent y est souvent plus mordant."
               }
             },
             {
@@ -1064,13 +1183,15 @@
                 "de": "Église Saint-Quentin",
                 "hu": "Église Saint-Quentin",
                 "ro": "Église Saint-Quentin",
-                "en": "Église Saint-Quentin"
+                "en": "Église Saint-Quentin",
+                "fr": "Église Saint-Quentin"
               },
               "tip_5lang": {
                 "de": "Besuchen Sie die Kirche am späten Nachmittag; das warme Licht im Inneren bildet einen schönen Kontrast zur kühlen Winterstimmung draußen.",
                 "hu": "Látogassa meg a templomot késő délután; a belső meleg fények szép kontrasztot alkotnak a kinti hűvös téli hangulattal.",
                 "ro": "Vizitați biserica după-amiaza târziu; luminile calde din interior creează un contrast frumos cu atmosfera rece de iarnă de afară.",
-                "en": "Visit the church in the late afternoon; the warm interior lighting provides a beautiful contrast to the cool winter mood outside."
+                "en": "Visit the church in the late afternoon; the warm interior lighting provides a beautiful contrast to the cool winter mood outside.",
+                "fr": "Visitez l'église en fin d'après-midi ; l'éclairage intérieur chaleureux contraste magnifiquement avec l'atmosphère froide d'hiver extérieure."
               }
             },
             {
@@ -1078,13 +1199,15 @@
                 "de": "Église Saint-Lambert",
                 "hu": "Église Saint-Lambert",
                 "ro": "Église Saint-Lambert",
-                "en": "Église Saint-Lambert"
+                "en": "Église Saint-Lambert",
+                "fr": "Église Saint-Lambert"
               },
               "tip_5lang": {
                 "de": "Die Fahrt hierher bietet weite Blicke über die Winterfelder; parken Sie direkt an der Kirche, da es bei Einbruch der Dunkelheit rasch kälter wird.",
                 "hu": "Az idevezető út tágas kilátást nyújt a téli mezőkre; parkoljon közvetlenül a templomnál, mert a sötétség beálltával gyorsan hűl a levegő.",
                 "ro": "Drumul până aici oferă vederi largi peste câmpurile de iarnă; parcați direct la biserică, deoarece se răcește rapid odată cu lăsarea serii.",
-                "en": "The drive here offers wide views over the winter fields; park directly at the church as it cools down quickly when darkness falls."
+                "en": "The drive here offers wide views over the winter fields; park directly at the church as it cools down quickly when darkness falls.",
+                "fr": "La route jusqu'ici offre de larges vues sur les champs d'hiver ; garez-vous directement à l'église car il fait vite froid à la tombée de la nuit."
               }
             }
           ]

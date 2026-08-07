@@ -21,7 +21,8 @@
             "de": "Église Saint-Nicolas",
             "hu": "Église Saint-Nicolas",
             "ro": "Église Saint-Nicolas",
-            "en": "Église Saint-Nicolas"
+            "en": "Église Saint-Nicolas",
+            "fr": "Église Saint-Nicolas"
           },
           "coords": [
             2.494475,
@@ -36,7 +37,8 @@
             "de": "Bewundern Sie die widerstandsfähige Architektur dieser historischen Dorfkirche, die den lokalen Glauben verankert, und prüfen Sie das Schild nach Veranstaltungen.",
             "hu": "Csodálja meg e történelmi falusi templom ellenálló építészetét, amely a helyi hit központja, és vessen egy pillantást a kinti hirdetőtáblára az eseményekért.",
             "ro": "Admirați arhitectura rezilientă a acestei biserici istorice care ancorează credința locală și verificați panoul exterior pentru evenimentele comunitare viitoare.",
-            "en": "Admire the resilient architecture of this historic village church which anchors local faith, and check the notice board outside for upcoming community events."
+            "en": "Admire the resilient architecture of this historic village church which anchors local faith, and check the notice board outside for upcoming community events.",
+            "fr": "Admirez l'architecture résiliente de cette église de village historique qui ancre la foi locale, et consultez le panneau d'affichage extérieur pour les événements communautaires à venir."
           }
         },
         {
@@ -44,7 +46,8 @@
             "de": "Dunes Marchand",
             "hu": "Dunes Marchand",
             "ro": "Dunes Marchand",
-            "en": "Dunes Marchand"
+            "en": "Dunes Marchand",
+            "fr": "Dunes Marchand"
           },
           "coords": [
             2.49756,
@@ -59,7 +62,8 @@
             "de": "Erkunden Sie diese bemerkenswert erhaltenen Küstendünen, die wichtige Lebensräume bieten, also tragen Sie festes Schuhwerk, um den weichen Sand zu meistern.",
             "hu": "Fedezze fel ezeket a kiválóan megőrzött parti dűnéket, amelyek létfontosságú élőhelyet biztosítanak, ezért viseljen túracipőt a laza homokon való sétához.",
             "ro": "Explorați aceste dune de coastă remarcabil conservate care oferă habitate vitale, așa că purtați încălțăminte robustă pentru a naviga prin nisipurile mișcătoare.",
-            "en": "Explore these remarkably preserved coastal dunes offering vital habitats for diverse coastal flora, so wear sturdy walking shoes to navigate the shifting sands."
+            "en": "Explore these remarkably preserved coastal dunes offering vital habitats for diverse coastal flora, so wear sturdy walking shoes to navigate the shifting sands.",
+            "fr": "Explorez ces dunes côtières remarquablement préservées offrant des habitats vitaux pour une flore côtière diverse ; portez des chaussures de marche robustes pour naviguer dans les sables mouvants."
           }
         },
         {
@@ -67,7 +71,8 @@
             "de": "Réserve naturelle de la dune Marchand",
             "hu": "Réserve naturelle de la dune Marchand",
             "ro": "Réserve naturelle de la dune Marchand",
-            "en": "Réserve naturelle de la dune Marchand"
+            "en": "Réserve naturelle de la dune Marchand",
+            "fr": "Réserve naturelle de la dune Marchand"
           },
           "coords": [
             2.502923,
@@ -82,7 +87,8 @@
             "de": "Tauchen Sie ein in diese unberührte, geschützte Landschaft voller einzigartiger Artenvielfalt und bleiben Sie unbedingt auf den Wegen, um die Natur zu schonen.",
             "hu": "Merüljön el ebben az érintetlen, védett tájban, amely egyedülálló biodiverzitással bír, és maradjon a kijelölt ösvényeken a törékeny ökoszisztémák védelmében.",
             "ro": "Scufundați-vă în acest peisaj protejat virgin plin de biodiversitate unică și rămâneți strict pe traseele marcate pentru a proteja ecosistemele fragile.",
-            "en": "Immerse yourself in this pristine protected landscape filled with unique biodiversity, and stay strictly on the marked trails to protect the fragile ecosystems."
+            "en": "Immerse yourself in this pristine protected landscape filled with unique biodiversity, and stay strictly on the marked trails to protect the fragile ecosystems.",
+            "fr": "Plongez-vous dans ce paysage protégé et immaculé rempli d'une biodiversité unique, et restez strictement sur les sentiers balisés pour protéger ces écosystèmes fragiles."
           }
         },
         {
@@ -90,7 +96,8 @@
             "de": "Plage de Zuydcoote",
             "hu": "Plage de Zuydcoote",
             "ro": "Plage de Zuydcoote",
-            "en": "Plage de Zuydcoote"
+            "en": "Plage de Zuydcoote",
+            "fr": "Plage de Zuydcoote"
           },
           "coords": [
             2.483861,
@@ -105,7 +112,8 @@
             "de": "Spazieren Sie an diesem weiten Sandstrand, der die wilde Schönheit der Nordküste einfängt, und bringen Sie eine Windjacke mit, da die Brise hier stark sein kann.",
             "hu": "Sétáljon végig ezen a hatalmas homokos partszakaszon, amely hűen tükrözi az északi part szépségét, és hozzon széldzsekit, mivel a tengeri szél igen erős lehet.",
             "ro": "Plimbați-vă de-a lungul acestei coaste nisipoase vaste care surprinde frumusețea sălbatică a nordului și aduceți o jachetă de vânt, deoarece briza e puternică.",
-            "en": "Walk along this vast sandy shoreline that perfectly captures the wild beauty of the northern coast, and bring a windbreaker as the sea breeze can be quite strong."
+            "en": "Walk along this vast sandy shoreline that perfectly captures the wild beauty of the northern coast, and bring a windbreaker as the sea breeze can be quite strong.",
+            "fr": "Promenez-vous le long de cette vaste plage de sable qui capture parfaitement la beauté sauvage de la côte nord, et emportez un coupe-vent car la brise marine peut être assez forte."
           }
         },
         {
@@ -113,7 +121,8 @@
             "de": "La Bouée de Zuydcoote",
             "hu": "La Bouée de Zuydcoote",
             "ro": "La Bouée de Zuydcoote",
-            "en": "La Bouée de Zuydcoote"
+            "en": "La Bouée de Zuydcoote",
+            "fr": "La Bouée de Zuydcoote"
           },
           "coords": [
             2.486414,
@@ -128,7 +137,8 @@
             "de": "Entdecken Sie diese ikonische Seezeichen, das die nautische Geschichte dieser Küstenlinie hervorhebt, und fotografieren Sie es am besten bei Ebbe für tolle Winkel.",
             "hu": "Keresse meg ezt az ikonikus tengeri jelzést, amely a part hajózási történelmét hirdeti, és próbálja meg apály idején lefotózni a leglátványosabb szögek kedvéért.",
             "ro": "Observați acest marcaj maritim iconic care evidențiază istoria navigației de pe aceste țărmuri și încercați să-l fotografiați la reflux pentru unghiuri inedite.",
-            "en": "Spot this iconic maritime marker which highlights the navigational history of these shores, and try to photograph it during low tide for the most striking angles."
+            "en": "Spot this iconic maritime marker which highlights the navigational history of these shores, and try to photograph it during low tide for the most striking angles.",
+            "fr": "Repérez ce repère maritime emblématique qui souligne l'histoire de la navigation de ces côtes, et essayez de le photographier à marée basse pour les angles les plus saisissants."
           }
         },
         {
@@ -136,7 +146,8 @@
             "de": "BlockHaus",
             "hu": "BlockHaus",
             "ro": "BlockHaus",
-            "en": "BlockHaus"
+            "en": "BlockHaus",
+            "fr": "BlockHaus"
           },
           "coords": [
             2.466492,
@@ -151,7 +162,8 @@
             "de": "Untersuchen Sie diese steinernen Kriegsüberreste, die als feierliche Mahnmale des Zweiten Weltkriegs dienen, und achten Sie bei der Erkundung auf den unebenen Boden.",
             "hu": "Vizsgálja meg ezeket a betonból készült háborús maradványokat, amelyek a második világháborúra emlékeztetnek, és vigyázzon a lépéseire a törmelékek környékén.",
             "ro": "Examinați aceste rămășițe de război din beton care stau ca memento-uri solemne ale războiului și aveți grijă la pași în jurul resturilor când explorați de aproape.",
-            "en": "Examine these concrete wartime remnants that stand as solemn reminders of World War II, and watch your step around the scattered debris when exploring up close."
+            "en": "Examine these concrete wartime remnants that stand as solemn reminders of World War II, and watch your step around the scattered debris when exploring up close.",
+            "fr": "Examinez ces vestiges en béton de la guerre qui demeurent des rappels solennels de la Seconde Guerre mondiale, et faites attention où vous mettez les pieds autour des débris dispersés lors d'une exploration rapprochée."
           }
         }
       ],
@@ -159,7 +171,8 @@
         "de": "Der Morgen beginnt im Herzen des Dorfes an der charmanten Église Saint-Nicolas, bevor Sie nach Norden zur Küste aufbrechen. Mittags locken die atemberaubenden Dunes Marchand, eine geschützte Landschaft. Am Nachmittag bietet der weitläufige Strand von Zuydcoote einen erfrischenden Küstenspaziergang. Der Abend endet eindrucksvoll bei den historischen Blockhaus-Ruinen, die die Flut stumm beobachten.",
         "hu": "A reggel a falu szívében, a bájos Église Saint-Nicolas templomnál indul, mielőtt észak felé, a part felé venné az irányt. A dél a lenyűgöző Dunes Marchand homokdűnéi közé hív, mely védett terület. Délután a hatalmas Zuydcoote strand frissítő tengeri sétát kínál az élénk szellőben. Az este drámai módon a történelmi BlockHaus romjainál zárul, ahogy csendben figyeli a dagályt.",
         "ro": "Dimineața începe în inima satului la fermecătoarea Église Saint-Nicolas, înainte de a vă îndrepta spre coastă. La prânz, Dunele Marchand vă invită într-un peisaj protejat fascinant de nisipuri. După-amiaza, vasta Plajă Zuydcoote oferă o plimbare revigorantă pe țărm, însoțită de briza mării. Seara se încheie dramatic lângă ruinele istorice BlockHaus, urmărind în tăcere fluxul mării.",
-        "en": "Morning begins in the heart of the village at the charming Église Saint-Nicolas, setting a peaceful tone before you venture northward towards the coast. Midday invites you into the stunning Dunes Marchand, a protected landscape of shifting sands. In the afternoon, the expansive Plage de Zuydcoote offers an invigorating shoreline walk accompanied by the refreshing sea breeze. The evening concludes dramatically near the historical BlockHaus ruins, silently watching the tide."
+        "en": "Morning begins in the heart of the village at the charming Église Saint-Nicolas, setting a peaceful tone before you venture northward towards the coast. Midday invites you into the stunning Dunes Marchand, a protected landscape of shifting sands. In the afternoon, the expansive Plage de Zuydcoote offers an invigorating shoreline walk accompanied by the refreshing sea breeze. The evening concludes dramatically near the historical BlockHaus ruins, silently watching the tide.",
+        "fr": "La matinée commence au cœur du village à la charmante Église Saint-Nicolas, posant un ton paisible avant de se diriger vers le nord en direction de la côte. À midi, les Dunes Marchand vous invitent dans un paysage protégé de sables mouvants. L'après-midi, l'expansive Plage de Zuydcoote offre une marche tonifiante en bord de mer accompagnée de la brise rafraîchissante. La soirée se conclut de manière dramatique près des ruines historiques du BlockHaus, contemplant silencieusement la marée."
       },
       "variants": {
         "rainy": {
@@ -167,7 +180,8 @@
             "de": "Der Morgen beginnt geschützt in der Église Saint-Nicolas, während der Regen gegen die Fenster trommelt. Mittags bieten die Dünen eine dramatische Kulisse unter grauen Wolken; feste Regenkleidung ist hier unverzichtbar. Am Nachmittag wirkt der Strand mit seinen Wracks und Bunkern bei Regen besonders mystisch. Der Abend klingt bei einem Spaziergang durch die glänzenden, nassen Gassen von Zuydcoote aus.",
             "hu": "A reggel az Église Saint-Nicolas fala között indul, ahol az eső dobolása csak fokozza a belső csendet. Délben a dűnék világa drámai arcát mutatja a szürke ég alatt, a vízálló öltözet itt kötelező. Délután a part és a bunkerek látványa az esőben egészen misztikus, a rozsdás roncsok sötéten festenek. Az este a falu nedves aszfaltján csillogó fények között, friss tengeri levegővel zárul.",
             "ro": "Dimineața începe la adăpost în Église Saint-Nicolas, în timp ce ploaia bate în ferestre. La prânz, dunele oferă un decor dramatic sub norii cenușii; pelerina de ploaie este indispensabilă aici. După-amiaza, plaja și buncărele par deosebit de mistice sub burniță, cu epavele conturându-se clar. Seara se încheie cu o plimbare pe străzile umede din Zuydcoote, reflectând luminile stradale.",
-            "en": "The morning starts sheltered inside Église Saint-Nicolas as rain drums against the stained glass. At noon, the dunes offer a dramatic backdrop under heavy clouds; sturdy waterproof gear is essential here. In the afternoon, the beach and its bunkers look particularly mystical in the drizzle, with shipwrecks appearing through the mist. The evening ends with a walk through the glistening, wet streets of Zuydcoote."
+            "en": "The morning starts sheltered inside Église Saint-Nicolas as rain drums against the stained glass. At noon, the dunes offer a dramatic backdrop under heavy clouds; sturdy waterproof gear is essential here. In the afternoon, the beach and its bunkers look particularly mystical in the drizzle, with shipwrecks appearing through the mist. The evening ends with a walk through the glistening, wet streets of Zuydcoote.",
+            "fr": "La matinée commence à l'abri dans l'Église Saint-Nicolas tandis que la pluie tambourine contre les vitraux. À midi, les dunes offrent un décor dramatique sous des nuages lourds ; un équipement imperméable et solide est indispensable. L'après-midi, la plage et ses bunkers paraissent particulièrement mystiques sous la bruine, avec des épaves émergeant dans la brume. La soirée se termine par une promenade dans les rues mouillées et scintillantes de Zuydcoote."
           },
           "stops": [
             {
@@ -175,13 +189,15 @@
                 "de": "Église Saint-Nicolas",
                 "hu": "Église Saint-Nicolas",
                 "ro": "Église Saint-Nicolas",
-                "en": "Église Saint-Nicolas"
+                "en": "Église Saint-Nicolas",
+                "fr": "Église Saint-Nicolas"
               },
               "tip_5lang": {
                 "de": "Nutzen Sie die Stille der Kirche, um den stärksten Schauer abzuwarten, und bewundern Sie die Details des Schiffsmodells im Inneren.",
                 "hu": "Használja ki a templom csendjét a legnagyobb zápor átvészelésére, és csodálja meg a belső térben elhelyezett fogadalmi hajómodellt.",
                 "ro": "Profită de liniștea bisericii pentru a aștepta trecerea celei mai mari averse și admiră detaliile modelului de navă din interior.",
-                "en": "Take advantage of the church's silence to wait out the heaviest shower and admire the votive ship model displayed inside the nave."
+                "en": "Take advantage of the church's silence to wait out the heaviest shower and admire the votive ship model displayed inside the nave.",
+                "fr": "Profitez du silence de l'église pour attendre la plus forte averse et admirez la maquette de navire votive exposée dans la nef."
               }
             },
             {
@@ -189,13 +205,15 @@
                 "de": "Dunes Marchand",
                 "hu": "Dunes Marchand",
                 "ro": "Dunes Marchand",
-                "en": "Dunes Marchand"
+                "en": "Dunes Marchand",
+                "fr": "Dunes Marchand"
               },
               "tip_5lang": {
                 "de": "Der sandige Boden kann bei Regen rutschig werden; bleiben Sie auf den markierten Pfaden, um den Schlamm in den Senken zu vermeiden.",
                 "hu": "A homokos talaj esőben csúszóssá válhat; maradjon a kijelölt ösvényeken, hogy elkerülje a mélyedésekben felgyülemlő sarat.",
                 "ro": "Solul nisipos poate deveni alunecos pe ploaie; rămâneți pe potecile marcate pentru a evita noroiul acumulat în zonele joase.",
-                "en": "The sandy ground can become slippery in the rain; stay on marked paths to avoid the mud that accumulates in the hollows."
+                "en": "The sandy ground can become slippery in the rain; stay on marked paths to avoid the mud that accumulates in the hollows.",
+                "fr": "Le sol sablonneux peut devenir glissant sous la pluie ; restez sur les sentiers balisés pour éviter la boue accumulée dans les creux."
               }
             },
             {
@@ -203,13 +221,15 @@
                 "de": "Réserve naturelle de la dune Marchand",
                 "hu": "Réserve naturelle de la dune Marchand",
                 "ro": "Réserve naturelle de la dune Marchand",
-                "en": "Réserve naturelle de la dune Marchand"
+                "en": "Réserve naturelle de la dune Marchand",
+                "fr": "Réserve naturelle de la dune Marchand"
               },
               "tip_5lang": {
                 "de": "Beobachten Sie, wie der Regen den Sand verdichtet; bringen Sie ein Fernglas mit, um Seevögel zu beobachten, die im Schutz der Dünen hocken.",
                 "hu": "Figyelje meg, ahogy az eső tömöríti a homokot; hozzon távcsövet a dűnék szélvédett oldalán pihenő tengeri madarak megfigyeléséhez.",
                 "ro": "Observați cum ploaia compactează nisipul; aduceți binoclul pentru a vedea păsările marine care se adăpostesc pe versanții dunelor.",
-                "en": "Observe how the rain compacts the sand; bring binoculars to spot seabirds huddling for cover on the leeward side of the dunes."
+                "en": "Observe how the rain compacts the sand; bring binoculars to spot seabirds huddling for cover on the leeward side of the dunes.",
+                "fr": "Observez comment la pluie compacte le sable ; apportez des jumelles pour repérer les oiseaux marins blottis à l'abri sous le vent des dunes."
               }
             },
             {
@@ -217,13 +237,15 @@
                 "de": "Plage de Zuydcoote",
                 "hu": "Plage de Zuydcoote",
                 "ro": "Plage de Zuydcoote",
-                "en": "Plage de Zuydcoote"
+                "en": "Plage de Zuydcoote",
+                "fr": "Plage de Zuydcoote"
               },
               "tip_5lang": {
                 "de": "Bei Regen und Wind ist die Brandung besonders beeindruckend; achten Sie auf festes Schuhwerk wegen der nassen Algen am Flutsaum.",
                 "hu": "Esőben és szélben a hullámverés lenyűgöző; viseljen tapadós talpú cipőt a nedves hordalék és algák okozta csúszásveszély miatt.",
                 "ro": "Pe ploaie și vânt, valurile sunt impresionante; purtați încălțăminte aderentă din cauza algelor umede de la linia fluxului.",
-                "en": "In rain and wind, the surf is particularly impressive; wear grippy shoes to avoid slipping on wet seaweed along the tide line."
+                "en": "In rain and wind, the surf is particularly impressive; wear grippy shoes to avoid slipping on wet seaweed along the tide line.",
+                "fr": "Sous la pluie et le vent, la houle est particulièrement impressionnante ; portez des chaussures adhérentes pour éviter de glisser sur les algues mouillées le long de la laisse de mer."
               }
             },
             {
@@ -231,13 +253,15 @@
                 "de": "La Bouée de Zuydcoote",
                 "hu": "La Bouée de Zuydcoote",
                 "ro": "La Bouée de Zuydcoote",
-                "en": "La Bouée de Zuydcoote"
+                "en": "La Bouée de Zuydcoote",
+                "fr": "La Bouée de Zuydcoote"
               },
               "tip_5lang": {
                 "de": "Die Boje dient als schneller Orientierungspunkt im Regen; ein kurzer Stopp für ein Foto reicht, bevor Sie wieder Schutz suchen.",
                 "hu": "A bója gyors tájékozódási pontként szolgál az esőben; egy rövid fotómegálló elég, mielőtt továbbhaladna a fedettebb részek felé.",
                 "ro": "Baliza servește ca punct de orientare rapid pe ploaie; o scurtă oprire pentru poze este suficientă înainte de a căuta adăpost.",
-                "en": "The buoy serves as a quick landmark in the rain; a brief photo stop is enough before moving toward more sheltered areas."
+                "en": "The buoy serves as a quick landmark in the rain; a brief photo stop is enough before moving toward more sheltered areas.",
+                "fr": "La bouée sert de repère rapide sous la pluie ; un arrêt photo bref suffit avant de se diriger vers des zones plus abritées."
               }
             },
             {
@@ -245,13 +269,15 @@
                 "de": "BlockHaus",
                 "hu": "BlockHaus",
                 "ro": "BlockHaus",
-                "en": "BlockHaus"
+                "en": "BlockHaus",
+                "fr": "BlockHaus"
               },
               "tip_5lang": {
                 "de": "Die massiven Betonwände bieten guten Windschutz; seien Sie vorsichtig beim Betreten, da sich im Inneren Pfützen bilden können.",
                 "hu": "A masszív betonfalak jó szélvédelmet nyújtanak; legyen óvatos a belépéskor, mert a belső részeken mély tócsák alakulhatnak ki.",
                 "ro": "Pereții masivi de beton oferă o protecție bună împotriva vântului; atenție la intrare, deoarece în interior se pot forma bălți.",
-                "en": "The massive concrete walls offer excellent wind protection; be careful when entering as deep puddles often form inside the ruins."
+                "en": "The massive concrete walls offer excellent wind protection; be careful when entering as deep puddles often form inside the ruins.",
+                "fr": "Les murs massifs en béton offrent une excellente protection contre le vent ; faites attention en entrant car des flaques profondes se forment souvent à l'intérieur des ruines."
               }
             }
           ]
@@ -261,7 +287,8 @@
             "de": "Ein frostiger Morgen an der Küste beginnt mit dem klaren Läuten der Kirchenglocken. Mittags glitzert der Reif auf den Gräsern der Dünen, während die kalte Nordseeluft die Sinne schärft. Da die Sonne bereits gegen 17:00 Uhr untergeht, leuchten die Bunker am Nachmittag in einem warmen Goldton. Der Abend ist kurz und friedlich, ideal um die Stille des winterlichen Dorfes unter dem Sternenhimmel zu genießen.",
             "hu": "A fagyos reggel a tengerparton a templom harangjának tiszta kondulásával indul. Délben dér csillog a dűnék füvén, miközben a hideg északi szél frissítően hat az érzékekre. Mivel a nap már 17:00 körül lemegy, a bunkerek délutáni aranyfényben úsznak. Az este rövid és békés, tökéletes a téli falu csendjének élvezetére a csillagos égbolt alatt.",
             "ro": "O dimineață geroasă pe coastă începe cu sunetul clar al clopotelor bisericii. La prânz, chiciura sclipește pe iarba dunelor, în timp ce aerul rece al mării revigorează simțurile. Deoarece soarele apune în jur de ora 17:00, buncărele sunt scăldate într-o lumină aurie caldă. Seara este scurtă și liniștită, ideală pentru a savura tăcerea satului de iarnă sub cerul înstelat.",
-            "en": "A frosty morning on the coast begins with the clear tolling of the church bells. At noon, hoarfrost glistens on the dune grasses while the cold North Sea air sharpens the senses. Since the sun sets around 5 PM, the afternoon light bathes the bunkers in a warm golden hue. The evening is short and peaceful, perfect for enjoying the silence of the winter village under a starry sky."
+            "en": "A frosty morning on the coast begins with the clear tolling of the church bells. At noon, hoarfrost glistens on the dune grasses while the cold North Sea air sharpens the senses. Since the sun sets around 5 PM, the afternoon light bathes the bunkers in a warm golden hue. The evening is short and peaceful, perfect for enjoying the silence of the winter village under a starry sky.",
+            "fr": "Une matinée givrée sur la côte commence par le clair son des cloches de l'église. À midi, le givre scintille sur les herbes des dunes tandis que l'air froid de la mer du Nord aiguise les sens. Comme le soleil se couche vers 17:00, la lumière de l'après-midi baigne les bunkers d'une teinte dorée chaleureuse. La soirée est courte et paisible, parfaite pour profiter du silence du village hivernal sous un ciel étoilé."
           },
           "stops": [
             {
@@ -269,13 +296,15 @@
                 "de": "Église Saint-Nicolas",
                 "hu": "Église Saint-Nicolas",
                 "ro": "Église Saint-Nicolas",
-                "en": "Église Saint-Nicolas"
+                "en": "Église Saint-Nicolas",
+                "fr": "Église Saint-Nicolas"
               },
               "tip_5lang": {
                 "de": "Die dicken Mauern halten die Kälte ab; nutzen Sie den Besuch, um sich vor dem langen Spaziergang in den windigen Dünen aufzuwärmen.",
                 "hu": "A vastag falak jól tartják a hőt; használja ki a látogatást a bemelegedésre a szeles dűnék közötti hosszú séta előtt.",
                 "ro": "Zidurile groase țin frigul la distanță; profită de vizită pentru a te încălzi înainte de plimbarea lungă prin dunele vântoase.",
-                "en": "The thick walls block the cold; use this visit to warm up before your long walk through the exposed and windy dunes."
+                "en": "The thick walls block the cold; use this visit to warm up before your long walk through the exposed and windy dunes.",
+                "fr": "Les murs épais bloquent le froid ; profitez de cette visite pour vous réchauffer avant votre longue marche à travers les dunes exposées et venteuses."
               }
             },
             {
@@ -283,13 +312,15 @@
                 "de": "Dunes Marchand",
                 "hu": "Dunes Marchand",
                 "ro": "Dunes Marchand",
-                "en": "Dunes Marchand"
+                "en": "Dunes Marchand",
+                "fr": "Dunes Marchand"
               },
               "tip_5lang": {
                 "de": "Tragen Sie einen winddichten Schal; die Meeresbrise ist im Winter sehr bissig, aber die klare Sicht ist ideal für Panoramafotos.",
                 "hu": "Viseljen szélálló sálat; a tengeri szél télen metsző, de a tiszta látási viszonyok tökéletesek a panorámafotókhoz.",
                 "ro": "Poartă un fular rezistent la vânt; briza mării este tăioasă iarna, dar vizibilitatea clară este ideală pentru fotografii panoramice.",
-                "en": "Wear a windproof scarf; the sea breeze is biting in winter, but the clear visibility is ideal for capturing panoramic photos."
+                "en": "Wear a windproof scarf; the sea breeze is biting in winter, but the clear visibility is ideal for capturing panoramic photos.",
+                "fr": "Portez une écharpe coupe-vent ; la brise marine est mordante en hiver, mais la visibilité claire est idéale pour capturer des photos panoramiques."
               }
             },
             {
@@ -297,13 +328,15 @@
                 "de": "Réserve naturelle de la dune Marchand",
                 "hu": "Réserve naturelle de la dune Marchand",
                 "ro": "Réserve naturelle de la dune Marchand",
-                "en": "Réserve naturelle de la dune Marchand"
+                "en": "Réserve naturelle de la dune Marchand",
+                "fr": "Réserve naturelle de la dune Marchand"
               },
               "tip_5lang": {
                 "de": "Die gefrorenen Pfade sind stabiler als loser Sand; achten Sie auf die spärliche Wintervegetation, die unter dem Frost glitzert.",
                 "hu": "A fagyott ösvények stabilabbak, mint a laza homok; figyelje meg a zúzmarától csillogó, ritkás téli vegetációt a dűnék között.",
                 "ro": "Potecile înghețate sunt mai stabile decât nisipul afânat; admiră vegetația rară de iarnă care sclipește sub stratul de chiciură.",
-                "en": "Frozen paths are more stable than loose sand; look for the sparse winter vegetation glistening under the frost between the dunes."
+                "en": "Frozen paths are more stable than loose sand; look for the sparse winter vegetation glistening under the frost between the dunes.",
+                "fr": "Les sentiers gelés sont plus stables que le sable meuble ; repérez la végétation hivernale clairsemée qui scintille sous le givre entre les dunes."
               }
             },
             {
@@ -311,13 +344,15 @@
                 "de": "Plage de Zuydcoote",
                 "hu": "Plage de Zuydcoote",
                 "ro": "Plage de Zuydcoote",
-                "en": "Plage de Zuydcoote"
+                "en": "Plage de Zuydcoote",
+                "fr": "Plage de Zuydcoote"
               },
               "tip_5lang": {
                 "de": "Suchen Sie bei Ebbe nach Muscheln; die Winterstürme spülen oft interessante Fundstücke an den menschenleeren Strand.",
                 "hu": "Apálykor keressen kagylókat; a téli viharok gyakran különleges leleteket mosnak a néptelen, csendes tengerpartra.",
                 "ro": "Caută scoici la reflux; furtunile de iarnă scot adesea la mal obiecte interesante pe plaja pustie și liniștită.",
-                "en": "Look for shells at low tide; winter storms often wash up interesting treasures onto the deserted and peaceful shoreline."
+                "en": "Look for shells at low tide; winter storms often wash up interesting treasures onto the deserted and peaceful shoreline.",
+                "fr": "Cherchez des coquillages à marée basse ; les tempêtes hivernales déposent souvent des trésors intéressants sur cette plage déserte et paisible."
               }
             },
             {
@@ -325,13 +360,15 @@
                 "de": "La Bouée de Zuydcoote",
                 "hu": "La Bouée de Zuydcoote",
                 "ro": "La Bouée de Zuydcoote",
-                "en": "La Bouée de Zuydcoote"
+                "en": "La Bouée de Zuydcoote",
+                "fr": "La Bouée de Zuydcoote"
               },
               "tip_5lang": {
                 "de": "Das rote Metall bildet einen starken Kontrast zum wintergrauen Meer; ein idealer Ort für ein schnelles Porträtfoto im weichen Licht.",
                 "hu": "A vörös fém erős kontrasztot alkot a téli szürke tengerrel; ideális helyszín egy gyors portréfotóhoz a lágy téli fényben.",
                 "ro": "Metalul roșu creează un contrast puternic cu marea cenușie de iarnă; un loc ideal pentru o fotografie rapidă în lumina blândă.",
-                "en": "The red metal provides a stark contrast to the winter-grey sea; an ideal spot for a quick portrait in the soft daylight."
+                "en": "The red metal provides a stark contrast to the winter-grey sea; an ideal spot for a quick portrait in the soft daylight.",
+                "fr": "Le métal rouge contraste fortement avec la mer gris-hiver ; un endroit idéal pour un portrait rapide à la lumière douce du jour."
               }
             },
             {
@@ -339,13 +376,15 @@
                 "de": "BlockHaus",
                 "hu": "BlockHaus",
                 "ro": "BlockHaus",
-                "en": "BlockHaus"
+                "en": "BlockHaus",
+                "fr": "BlockHaus"
               },
               "tip_5lang": {
                 "de": "Besuchen Sie die Bunker vor 16:30 Uhr, um das letzte Tageslicht für die Erkundung der dunklen Innenräume zu nutzen.",
                 "hu": "Látogassa meg a bunkereket 16:30 előtt, hogy kihasználja az utolsó fényeket a sötét belső terek biztonságos felfedezéséhez.",
                 "ro": "Vizitează buncărele înainte de ora 16:30 pentru a profita de ultima lumină la explorarea interiorului întunecat.",
-                "en": "Visit the bunkers before 4:30 PM to use the last daylight for safely exploring the dark interior concrete rooms."
+                "en": "Visit the bunkers before 4:30 PM to use the last daylight for safely exploring the dark interior concrete rooms.",
+                "fr": "Visitez les bunkers avant 16:30 pour profiter des dernières lueurs du jour et explorer en sécurité les salles intérieures sombres en béton."
               }
             }
           ]
@@ -365,7 +404,8 @@
             "de": "Église Saint-Nicolas",
             "hu": "Église Saint-Nicolas",
             "ro": "Église Saint-Nicolas",
-            "en": "Église Saint-Nicolas"
+            "en": "Église Saint-Nicolas",
+            "fr": "Église Saint-Nicolas"
           },
           "coords": [
             2.494475,
@@ -380,7 +420,8 @@
             "de": "Bewundern Sie die widerstandsfähige Architektur dieser historischen Dorfkirche, die den lokalen Glauben verankert, und prüfen Sie das Schild nach Veranstaltungen.",
             "hu": "Csodálja meg e történelmi falusi templom ellenálló építészetét, amely a helyi hit központja, és vessen egy pillantást a kinti hirdetőtáblára az eseményekért.",
             "ro": "Admirați arhitectura rezilientă a acestei biserici istorice care ancorează credința locală și verificați panoul exterior pentru evenimentele comunitare viitoare.",
-            "en": "Admire the resilient architecture of this historic village church which anchors local faith, and check the notice board outside for upcoming community events."
+            "en": "Admire the resilient architecture of this historic village church which anchors local faith, and check the notice board outside for upcoming community events.",
+            "fr": "Admirez l'architecture résiliente de cette église de village historique qui ancre la foi locale, et consultez le panneau d'affichage extérieur pour les événements communautaires à venir."
           }
         },
         {
@@ -388,7 +429,8 @@
             "de": "Dunes Marchand",
             "hu": "Dunes Marchand",
             "ro": "Dunes Marchand",
-            "en": "Dunes Marchand"
+            "en": "Dunes Marchand",
+            "fr": "Dunes Marchand"
           },
           "coords": [
             2.49756,
@@ -403,7 +445,8 @@
             "de": "Erkunden Sie diese bemerkenswert erhaltenen Küstendünen, die wichtige Lebensräume bieten, also tragen Sie festes Schuhwerk, um den weichen Sand zu meistern.",
             "hu": "Fedezze fel ezeket a kiválóan megőrzött parti dűnéket, amelyek létfontosságú élőhelyet biztosítanak, ezért viseljen túracipőt a laza homokon való sétához.",
             "ro": "Explorați aceste dune de coastă remarcabil conservate care oferă habitate vitale, așa că purtați încălțăminte robustă pentru a naviga prin nisipurile mișcătoare.",
-            "en": "Explore these remarkably preserved coastal dunes offering vital habitats for diverse coastal flora, so wear sturdy walking shoes to navigate the shifting sands."
+            "en": "Explore these remarkably preserved coastal dunes offering vital habitats for diverse coastal flora, so wear sturdy walking shoes to navigate the shifting sands.",
+            "fr": "Explorez ces dunes côtières remarquablement préservées offrant des habitats vitaux pour une flore côtière diverse ; portez des chaussures de marche robustes pour naviguer dans les sables mouvants."
           }
         },
         {
@@ -411,7 +454,8 @@
             "de": "Réserve naturelle de la dune Marchand",
             "hu": "Réserve naturelle de la dune Marchand",
             "ro": "Réserve naturelle de la dune Marchand",
-            "en": "Réserve naturelle de la dune Marchand"
+            "en": "Réserve naturelle de la dune Marchand",
+            "fr": "Réserve naturelle de la dune Marchand"
           },
           "coords": [
             2.502923,
@@ -426,7 +470,8 @@
             "de": "Tauchen Sie ein in diese unberührte, geschützte Landschaft voller einzigartiger Artenvielfalt und bleiben Sie unbedingt auf den Wegen, um die Natur zu schonen.",
             "hu": "Merüljön el ebben az érintetlen, védett tájban, amely egyedülálló biodiverzitással bír, és maradjon a kijelölt ösvényeken a törékeny ökoszisztémák védelmében.",
             "ro": "Scufundați-vă în acest peisaj protejat virgin plin de biodiversitate unică și rămâneți strict pe traseele marcate pentru a proteja ecosistemele fragile.",
-            "en": "Immerse yourself in this pristine protected landscape filled with unique biodiversity, and stay strictly on the marked trails to protect the fragile ecosystems."
+            "en": "Immerse yourself in this pristine protected landscape filled with unique biodiversity, and stay strictly on the marked trails to protect the fragile ecosystems.",
+            "fr": "Plongez-vous dans ce paysage protégé et immaculé rempli d'une biodiversité unique, et restez strictement sur les sentiers balisés pour protéger ces écosystèmes fragiles."
           }
         },
         {
@@ -434,7 +479,8 @@
             "de": "Église du Sacré-Cœur",
             "hu": "Église du Sacré-Cœur",
             "ro": "Église du Sacré-Cœur",
-            "en": "Église du Sacré-Cœur"
+            "en": "Église du Sacré-Cœur",
+            "fr": "Église du Sacré-Cœur"
           },
           "coords": [
             2.516855,
@@ -449,7 +495,8 @@
             "de": "Besuchen Sie dieses ruhige spirituelle Zentrum mit bescheidener regionaler Architektur und treten Sie ein, um die friedliche Atmosphäre der Reflexion zu spüren.",
             "hu": "Látogassa meg ezt a békés spirituális központot, amely szerény, mégis elegáns regionális építészeti jegyeket visel, és térjen be egy kis csendes elmélkedésre.",
             "ro": "Vizitați acest centru spiritual liniștit cu arhitectură regională modestă, dar elegantă, și pășiți înăuntru pentru a aprecia atmosfera tăcută de reflecție.",
-            "en": "Visit this tranquil spiritual center featuring modest yet elegant regional architecture, and step inside to appreciate the quiet atmosphere suitable for reflection."
+            "en": "Visit this tranquil spiritual center featuring modest yet elegant regional architecture, and step inside to appreciate the quiet atmosphere suitable for reflection.",
+            "fr": "Visitez ce centre spirituel tranquille présentant une architecture régionale modeste mais élégante, et entrez pour apprécier l'atmosphère paisible propice à la réflexion."
           }
         },
         {
@@ -457,7 +504,8 @@
             "de": "pour la 12 Éme Division d'Infanterie Motorisée",
             "hu": "pour la 12 Éme Division d'Infanterie Motorisée",
             "ro": "pour la 12 Éme Division d'Infanterie Motorisée",
-            "en": "pour la 12 Éme Division d'Infanterie Motorisée"
+            "en": "pour la 12 Éme Division d'Infanterie Motorisée",
+            "fr": "pour la 12 Éme Division d'Infanterie Motorisée"
           },
           "coords": [
             2.512812,
@@ -472,7 +520,8 @@
             "de": "Erweisen Sie diesem ergreifenden militärischen Denkmal Ihren Respekt, das die Tapferkeit der Infanterie ehrt, und lesen Sie die gravierten Gedenktafeln durch.",
             "hu": "Rója le tiszteletét e megható katonai emlékműnél, amely a gépesített gyalogság hősiessége előtt tiszteleg, és szánjon időt a történelmi emléktáblák elolvasására.",
             "ro": "Aduceți un omagiu la acest memorial militar emoționant care onorează curajul infanteriei și faceți-vă timp să citiți plăcile gravate care explică istoria locului.",
-            "en": "Pay your respects at this poignant military memorial honoring the bravery of motorized infantry, and take a moment to read the engraved plaques explaining its history."
+            "en": "Pay your respects at this poignant military memorial honoring the bravery of motorized infantry, and take a moment to read the engraved plaques explaining its history.",
+            "fr": "Rendez hommage à ce mémorial militaire poignant honorant le courage de l'infanterie motorisée, et prenez un moment pour lire les plaques gravées racontant son histoire."
           }
         },
         {
@@ -480,7 +529,8 @@
             "de": "Calvaire des Marins",
             "hu": "Calvaire des Marins",
             "ro": "Calvaire des Marins",
-            "en": "Calvaire des Marins"
+            "en": "Calvaire des Marins",
+            "fr": "Calvaire des Marins"
           },
           "coords": [
             2.522944,
@@ -495,7 +545,8 @@
             "de": "Entdecken Sie diesen berührenden Seemannskalvarienberg für die auf See Gebliebenen, der weite Ausblicke bietet, und besuchen Sie ihn für die beste Stimmung bei Sonnenuntergang.",
             "hu": "Fedezze fel ezt a tengeren elveszetteknek szentelt megható tengerész-kálváriát, amely pazar kilátást nyújt, és időzítse látogatását naplementére a hangulatért.",
             "ro": "Descoperiți acest calvar emoționant al marinarilor dedicat celor pierduți pe mare, cu vederi panoramice, și vizitați-l la apus când lumina sporește solemnitatea.",
-            "en": "Discover this touching sailors' calvary dedicated to those lost at sea offering sweeping coastal views, and visit during sunset when the light enhances the solemn mood."
+            "en": "Discover this touching sailors' calvary dedicated to those lost at sea offering sweeping coastal views, and visit during sunset when the light enhances the solemn mood.",
+            "fr": "Découvrez ce calvaire marin émouvant dédié à ceux perdus en mer offrant de larges panoramas côtiers, et visitez au coucher du soleil quand la lumière renforce l'atmosphère solennelle."
           }
         },
         {
@@ -503,7 +554,8 @@
             "de": "Plage de Zuydcoote",
             "hu": "Plage de Zuydcoote",
             "ro": "Plage de Zuydcoote",
-            "en": "Plage de Zuydcoote"
+            "en": "Plage de Zuydcoote",
+            "fr": "Plage de Zuydcoote"
           },
           "coords": [
             2.483861,
@@ -518,7 +570,8 @@
             "de": "Spazieren Sie an diesem weiten Sandstrand, der die wilde Schönheit der Nordküste einfängt, und bringen Sie eine Windjacke mit, da die Brise hier stark sein kann.",
             "hu": "Sétáljon végig ezen a hatalmas homokos partszakaszon, amely hűen tükrözi az északi part szépségét, és hozzon széldzsekit, mivel a tengeri szél igen erős lehet.",
             "ro": "Plimbați-vă de-a lungul acestei coaste nisipoase vaste care surprinde frumusețea sălbatică a nordului și aduceți o jachetă de vânt, deoarece briza e puternică.",
-            "en": "Walk along this vast sandy shoreline that perfectly captures the wild beauty of the northern coast, and bring a windbreaker as the sea breeze can be quite strong."
+            "en": "Walk along this vast sandy shoreline that perfectly captures the wild beauty of the northern coast, and bring a windbreaker as the sea breeze can be quite strong.",
+            "fr": "Promenez-vous le long de cette vaste plage de sable qui capture parfaitement la beauté sauvage de la côte nord, et emportez un coupe-vent car la brise marine peut être assez forte."
           }
         },
         {
@@ -526,7 +579,8 @@
             "de": "BlockHaus",
             "hu": "BlockHaus",
             "ro": "BlockHaus",
-            "en": "BlockHaus"
+            "en": "BlockHaus",
+            "fr": "BlockHaus"
           },
           "coords": [
             2.466492,
@@ -541,7 +595,8 @@
             "de": "Untersuchen Sie diese steinernen Kriegsüberreste, die als feierliche Mahnmale des Zweiten Weltkriegs dienen, und achten Sie bei der Erkundung auf den unebenen Boden.",
             "hu": "Vizsgálja meg ezeket a betonból készült háborús maradványokat, amelyek a második világháborúra emlékeztetnek, és vigyázzon a lépéseire a törmelékek környékén.",
             "ro": "Examinați aceste rămășițe de război din beton care stau ca memento-uri solemne ale războiului și aveți grijă la pași în jurul resturilor când explorați de aproape.",
-            "en": "Examine these concrete wartime remnants that stand as solemn reminders of World War II, and watch your step around the scattered debris when exploring up close."
+            "en": "Examine these concrete wartime remnants that stand as solemn reminders of World War II, and watch your step around the scattered debris when exploring up close.",
+            "fr": "Examinez ces vestiges en béton de la guerre qui demeurent des rappels solennels de la Seconde Guerre mondiale, et faites attention où vous mettez les pieds autour des débris dispersés lors d'une exploration rapprochée."
           }
         }
       ],
@@ -549,7 +604,8 @@
         "de": "Radeln Sie morgens von der malerischen Église Saint-Nicolas los und genießen Sie die frische Luft auf dem Weg zu den Dünen. Die Mittagsfahrt führt durch die Ränder des Naturschutzgebiets zur Église du Sacré-Cœur. Das Nachmittagsradeln offenbart ergreifende Kriegsgeschichte an den Denkmälern, bevor Sie den breiten Strand erreichen. Der Tag endet an den dramatischen Blockhaus-Ruinen im Sonnenuntergang.",
         "hu": "Tekerjen ki a reggeli órákban a hangulatos Église Saint-Nicolas-tól, élvezve a friss levegőt a parti dűnék felé. A déli útvonal a természetvédelmi terület zöldellő szélén halad a békés Sacré-Cœur felé. A délutáni kerékpározás a háborús emlékműveket és a széles strandot tárja fel. A napot a drámai BlockHaus melletti gurulás zárja le, amely tökéletes naplementés hátteret nyújt.",
         "ro": "Pedalați de dimineață de la pitoreasca Église Saint-Nicolas, bucurându-vă de aer proaspăt spre dune. Traseul de prânz trece pe la marginile rezervației naturale, ducând spre liniștita Église du Sacré-Cœur. Ciclismul de după-amiază dezvăluie istoria emoționantă a războiului înainte de a ajunge pe plaja largă. Veți încheia ziua lângă dramaticul BlockHaus, perfect la apus.",
-        "en": "Pedal out from the quaint Église Saint-Nicolas this morning, enjoying the fresh air as you transition towards the coastal dunes. Your midday ride loops through the verdant edges of the Réserve naturelle, leading towards the peaceful Église du Sacré-Cœur. Afternoon cycling reveals poignant wartime history at the local memorials before reaching the wide open beach. You will end the day’s ride gliding alongside the dramatic BlockHaus, a perfect sunset backdrop."
+        "en": "Pedal out from the quaint Église Saint-Nicolas this morning, enjoying the fresh air as you transition towards the coastal dunes. Your midday ride loops through the verdant edges of the Réserve naturelle, leading towards the peaceful Église du Sacré-Cœur. Afternoon cycling reveals poignant wartime history at the local memorials before reaching the wide open beach. You will end the day’s ride gliding alongside the dramatic BlockHaus, a perfect sunset backdrop.",
+        "fr": "Pédalez depuis la pittoresque Église Saint-Nicolas ce matin, en profitant de l'air frais en vous dirigeant vers les dunes côtières. Votre boucle de midi traverse les lisières verdoyantes de la Réserve naturelle, menant vers la paisible Église du Sacré-Cœur. L'après-midi à vélo révèle des sites commémoratifs chargés d'histoire avant d'atteindre la vaste plage ouverte. Vous terminerez la balade en longeant le dramatique BlockHaus, un cadre parfait pour le coucher du soleil."
       },
       "variants": {
         "rainy": {
@@ -557,7 +613,8 @@
             "de": "Eine nasse Radtour beginnt im Schutz der Dorfkirche. Mittags erfordert die Fahrt durch die Dünen erhöhte Aufmerksamkeit auf rutschigen Wegen, bietet aber eine erfrischende Brise. Am Nachmittag dienen die Kapellen und Denkmäler als kurze Unterstände bei stärkeren Schauern. Der Tag endet mit einer schnellen Rückfahrt zum Hafen, während die Pfützen auf dem Asphalt die graue Wolkendecke widerspiegeln.",
             "hu": "A vizes kerékpártúra a falu templomának védelmében indul. Délben a dűnék közötti tekerés fokozott figyelmet igényel a csúszós utakon, de frissítő tengeri széllel ajándékoz meg. Délután a kápolnák és emlékművek rövid menedékként szolgálnak a záporok idején. A nap gyors visszatéréssel zárul, miközben az aszfalt tócsáiban a szürke felhők tükröződnek vissza.",
             "ro": "O tură umedă cu bicicleta începe sub protecția bisericii din sat. La prânz, pedalarea prin dune necesită atenție sporită pe drumurile alunecoase, dar oferă o briză revigorantă. După-amiaza, capelele și monumentele servesc ca scurte adăposturi în timpul averselor. Ziua se încheie cu o întoarcere rapidă, în timp ce bălțile de pe asfalt reflectă cerul cenușiu.",
-            "en": "A wet bike tour starts under the shelter of the village church. At noon, cycling through the dunes requires extra focus on slippery paths but rewards you with a refreshing breeze. In the afternoon, chapels and memorials serve as brief shelters during heavy showers. The day ends with a quick ride back as the puddles on the asphalt reflect the overcast grey sky."
+            "en": "A wet bike tour starts under the shelter of the village church. At noon, cycling through the dunes requires extra focus on slippery paths but rewards you with a refreshing breeze. In the afternoon, chapels and memorials serve as brief shelters during heavy showers. The day ends with a quick ride back as the puddles on the asphalt reflect the overcast grey sky.",
+            "fr": "Une randonnée à vélo sous la pluie commence à l'abri de l'église du village. À midi, le passage des dunes demande une attention accrue sur les chemins glissants mais vous récompense d'une brise vivifiante. L'après-midi, chapelles et mémoriaux servent d'abris temporaires lors des fortes averses. La journée se termine par un retour rapide alors que les flaques sur l'asphalte reflètent le ciel gris couvert."
           },
           "stops": [
             {
@@ -565,13 +622,15 @@
                 "de": "Église Saint-Nicolas",
                 "hu": "Église Saint-Nicolas",
                 "ro": "Église Saint-Nicolas",
-                "en": "Église Saint-Nicolas"
+                "en": "Église Saint-Nicolas",
+                "fr": "Église Saint-Nicolas"
               },
               "tip_5lang": {
                 "de": "Prüfen Sie Ihre Bremsen im Trockenen; die Kirche bietet den perfekten Platz, um Regenkleidung anzulegen, bevor es losgeht.",
                 "hu": "Ellenőrizze a fékeit még szárazon; a templom előtere tökéletes hely az esőruha felvételére az indulás előtt.",
                 "ro": "Verifică frânele la uscat; pridvorul bisericii este locul perfect pentru a-ți pune pelerina înainte de a pleca la drum.",
-                "en": "Check your brakes while still dry; the church porch is the perfect spot to put on your rain gear before starting the ride."
+                "en": "Check your brakes while still dry; the church porch is the perfect spot to put on your rain gear before starting the ride.",
+                "fr": "Vérifiez vos freins tant qu'ils sont encore secs ; le porche de l'église est l'endroit idéal pour enfiler votre tenue de pluie avant de partir."
               }
             },
             {
@@ -579,13 +638,15 @@
                 "de": "Dunes Marchand",
                 "hu": "Dunes Marchand",
                 "ro": "Dunes Marchand",
-                "en": "Dunes Marchand"
+                "en": "Dunes Marchand",
+                "fr": "Dunes Marchand"
               },
               "tip_5lang": {
                 "de": "Fahren Sie vorsichtig in den Kurven; nasser Sand auf dem Asphalt kann extrem rutschig für schmale Reifen sein.",
                 "hu": "Óvatosan vegye a kanyarokat; az aszfaltra mosott nedves homok rendkívül csúszóssá teheti az utat a vékony kerekek számára.",
                 "ro": "Abordează curbele cu atenție; nisipul umed de pe asfalt poate fi extrem de alunecos pentru anvelopele înguste.",
-                "en": "Take corners carefully; wet sand washed onto the asphalt can be extremely slippery for narrow bicycle tires."
+                "en": "Take corners carefully; wet sand washed onto the asphalt can be extremely slippery for narrow bicycle tires.",
+                "fr": "Prenez les virages prudemment ; le sable mouillé entraîné sur l'asphalte peut être extrêmement glissant pour les pneus étroits de vélo."
               }
             },
             {
@@ -593,13 +654,15 @@
                 "de": "Réserve naturelle de la dune Marchand",
                 "hu": "Réserve naturelle de la dune Marchand",
                 "ro": "Réserve naturelle de la dune Marchand",
-                "en": "Réserve naturelle de la dune Marchand"
+                "en": "Réserve naturelle de la dune Marchand",
+                "fr": "Réserve naturelle de la dune Marchand"
               },
               "tip_5lang": {
                 "de": "Die Wege sind hier oft exponiert; achten Sie auf Seitenwindböen, wenn Sie an den offenen Dünenkämmen vorbeifahren.",
                 "hu": "Az utak itt gyakran kitettek; ügyeljen az oldalirányú széllökésekre, amikor a nyitott dűnehátak mellett halad el.",
                 "ro": "Drumurile sunt adesea expuse aici; atenție la rafalele de vânt lateral când treci pe lângă crestele deschise ale dunelor.",
-                "en": "Paths are often exposed here; watch out for lateral wind gusts when cycling past the open ridges of the dunes."
+                "en": "Paths are often exposed here; watch out for lateral wind gusts when cycling past the open ridges of the dunes.",
+                "fr": "Les chemins sont souvent exposés ici ; attention aux rafales de vent latérales lorsque vous pédalez le long des crêtes ouvertes des dunes."
               }
             },
             {
@@ -607,13 +670,15 @@
                 "de": "Église du Sacré-Cœur",
                 "hu": "Église du Sacré-Cœur",
                 "ro": "Église du Sacré-Cœur",
-                "en": "Église du Sacré-Cœur"
+                "en": "Église du Sacré-Cœur",
+                "fr": "Église du Sacré-Cœur"
               },
               "tip_5lang": {
                 "de": "Nutzen Sie den überdachten Eingangsbereich, um Ihre Karte zu prüfen oder die Brille vom Regenwasser zu befreien.",
                 "hu": "Használja a fedett bejárati részt a térkép ellenőrzésére vagy a szemüvegére tapadt esőcseppek letörlésére.",
                 "ro": "Folosește zona de intrare acoperită pentru a verifica harta sau pentru a șterge picăturile de ploaie de pe ochelari.",
-                "en": "Use the sheltered entrance area to check your map or wipe the raindrops off your glasses during a heavy downpour."
+                "en": "Use the sheltered entrance area to check your map or wipe the raindrops off your glasses during a heavy downpour.",
+                "fr": "Utilisez l'entrée abritée pour vérifier votre carte ou essuyer les gouttes de pluie de vos lunettes lors d'une forte averse."
               }
             },
             {
@@ -621,13 +686,15 @@
                 "de": "pour la 12 Éme Division d'Infanterie Motorisée",
                 "hu": "pour la 12 Éme Division d'Infanterie Motorisée",
                 "ro": "pour la 12 Éme Division d'Infanterie Motorisée",
-                "en": "pour la 12 Éme Division d'Infanterie Motorisée"
+                "en": "pour la 12 Éme Division d'Infanterie Motorisée",
+                "fr": "pour la 12 Éme Division d'Infanterie Motorisée"
               },
               "tip_5lang": {
                 "de": "Das Denkmal ist sehr ungeschützt; halten Sie nur kurz inne, um den Gefallenen bei diesem passend düsteren Wetter zu gedenken.",
                 "hu": "Az emlékmű teljesen nyitott; csak rövid időre álljon meg tisztelegni a hősök előtt ebben a találóan komor időben.",
                 "ro": "Monumentul este foarte expus; oprește-te doar scurt pentru a onora eroii în această vreme adecvat de sumbră.",
-                "en": "The memorial is very exposed; pause only briefly to pay your respects in this appropriately somber weather."
+                "en": "The memorial is very exposed; pause only briefly to pay your respects in this appropriately somber weather.",
+                "fr": "Le mémorial est très exposé ; ne vous attardez que brièvement pour rendre hommage par ce temps sobrement approprié."
               }
             },
             {
@@ -635,13 +702,15 @@
                 "de": "Calvaire des Marins",
                 "hu": "Calvaire des Marins",
                 "ro": "Calvaire des Marins",
-                "en": "Calvaire des Marins"
+                "en": "Calvaire des Marins",
+                "fr": "Calvaire des Marins"
               },
               "tip_5lang": {
                 "de": "Stellen Sie Ihr Rad stabil ab; der Wind am Kalvarienberg kann bei Sturm kräftig an den Speichen zerren.",
                 "hu": "Stabilan támassza le a biciklit; a kálváriánál fújó szél viharos időben könnyen felboríthatja a kerekeket.",
                 "ro": "Sprijină bicicleta stabil; vântul de la calvar poate trage puternic de spițe în timpul unei furtuni.",
-                "en": "Park your bike securely; the wind at the calvary can pull hard on the spokes during a coastal storm."
+                "en": "Park your bike securely; the wind at the calvary can pull hard on the spokes during a coastal storm.",
+                "fr": "Garez votre vélo solidement ; le vent au calvaire peut tirer fortement sur les rayons lors d'une tempête côtière."
               }
             },
             {
@@ -649,13 +718,15 @@
                 "de": "Plage de Zuydcoote",
                 "hu": "Plage de Zuydcoote",
                 "ro": "Plage de Zuydcoote",
-                "en": "Plage de Zuydcoote"
+                "en": "Plage de Zuydcoote",
+                "fr": "Plage de Zuydcoote"
               },
               "tip_5lang": {
                 "de": "Fahren Sie nicht zu nah an den weichen Sand heran; nutzen Sie die befestigten Zufahrten, um ein Einsinken der Räder zu vermeiden.",
                 "hu": "Ne hajtson túl közel a puha homokhoz; használja a szilárd burkolatú lejárókat, hogy elkerülje a kerekek elakadását.",
                 "ro": "nu pedala prea aproape de nisipul moale; folosește rampele pavate pentru a evita împotmolirea roților.",
-                "en": "Do not cycle too close to the soft sand; stay on the paved access ramps to prevent your tires from getting stuck."
+                "en": "Do not cycle too close to the soft sand; stay on the paved access ramps to prevent your tires from getting stuck.",
+                "fr": "Ne roulez pas trop près du sable mou ; restez sur les rampes d'accès goudronnées pour éviter que vos pneus ne s'enfoncent."
               }
             },
             {
@@ -663,13 +734,15 @@
                 "de": "BlockHaus",
                 "hu": "BlockHaus",
                 "ro": "BlockHaus",
-                "en": "BlockHaus"
+                "en": "BlockHaus",
+                "fr": "BlockHaus"
               },
               "tip_5lang": {
                 "de": "Die Bunker bieten den besten Schutz für eine finale Pause; wischen Sie die Kette nach der Fahrt kurz trocken, um Rost vorzubeugen.",
                 "hu": "A bunkerek kínálják a legjobb menedéket egy utolsó pihenőhöz; a túra után törölje szárazra a láncot a rozsda megelőzésére.",
                 "ro": "Buncărele oferă cel mai bun adăpost pentru o pauză finală; șterge lanțul după tură pentru a preveni rugina.",
-                "en": "The bunkers offer the best shelter for a final rest; wipe your chain dry after the ride to prevent coastal salt rust."
+                "en": "The bunkers offer the best shelter for a final rest; wipe your chain dry after the ride to prevent coastal salt rust.",
+                "fr": "Les bunkers offrent le meilleur abri pour un dernier repos ; essuyez votre chaîne après la sortie pour éviter la corrosion due au sel marin."
               }
             }
           ]
@@ -679,7 +752,8 @@
             "de": "Mit dicken Handschuhen beginnt die Fahrt durch das klare, winterliche Zuydcoote. Mittags glitzert die Sonne auf dem frostigen Asphalt der Küstenstraße, während der Fahrtwind die Wangen rötet. Am Nachmittag taucht das tiefe Licht die historischen Denkmäler in lange Schatten, perfekt für dramatische Fotos. Da es früh dunkelt, endet die Tour pünktlich zum Sonnenuntergang mit einem Blick auf die weite Nordsee.",
             "hu": "Vastag kesztyűben indul a tekerés a tiszta, téli Zuydcoote utcáin. Délben a nap csillog a partmenti út fagyos aszfaltján, miközben a menetszél kipirosítja az arcokat. Délután az alacsony napállás hosszú árnyékokat vet a történelmi emlékművekre, drámai látványt nyújtva. Mivel korán sötétedik, a túra pontosan naplementekor ér véget a végtelen Északi-tenger látványával.",
             "ro": "Cu mănuși groase începe pedalarea prin Zuydcoote-ul clar de iarnă. La prânz, soarele sclipește pe asfaltul înghețat al drumului de coastă, în timp ce vântul îți înroșește obrajii. După-amiaza, lumina joasă aruncă umbre lungi asupra monumentelor istorice, creând un cadru dramatic. Deoarece se întunecă devreme, tura se încheie exact la apus cu o priveliște asupra Mării Nordului.",
-            "en": "With thick gloves on, the ride begins through the clear, winter air of Zuydcoote. At noon, the sun glints off the frosty asphalt of the coastal road while the wind chills your face. In the afternoon, the low sun casts long shadows over the historical monuments, making for dramatic scenery. Since dusk falls early, the tour ends right at sunset with a view over the vast North Sea."
+            "en": "With thick gloves on, the ride begins through the clear, winter air of Zuydcoote. At noon, the sun glints off the frosty asphalt of the coastal road while the wind chills your face. In the afternoon, the low sun casts long shadows over the historical monuments, making for dramatic scenery. Since dusk falls early, the tour ends right at sunset with a view over the vast North Sea.",
+            "fr": "Avec des gants épais, la balade commence dans l'air clair et hivernal de Zuydcoote. À midi, le soleil scintille sur l'asphalte givré de la route côtière tandis que le vent vous glace le visage. L'après-midi, le soleil bas projette de longues ombres sur les monuments historiques, offrant des paysages dramatiques. Comme le crépuscule tombe tôt, la sortie se termine au coucher du soleil avec une vue sur la vaste mer du Nord."
           },
           "stops": [
             {
@@ -687,13 +761,15 @@
                 "de": "Église Saint-Nicolas",
                 "hu": "Église Saint-Nicolas",
                 "ro": "Église Saint-Nicolas",
-                "en": "Église Saint-Nicolas"
+                "en": "Église Saint-Nicolas",
+                "fr": "Église Saint-Nicolas"
               },
               "tip_5lang": {
                 "de": "Bewahren Sie Ihre Trinkflasche in der Tasche auf, damit das Wasser nicht zu sehr abkühlt; die Kirche ist ein guter windgeschützter Startpunkt.",
                 "hu": "Tartsa a kulacsát a táskájában, hogy ne hűljön le túlságosan a vize; a templom környéke szélvédett pont az induláshoz.",
                 "ro": "Ține bidonul cu apă în rucsac pentru a nu se răci prea tare; zona bisericii este un punct de plecare bine protejat de vânt.",
-                "en": "Keep your water bottle in your bag so it doesn't get too cold; the church area is a well-sheltered spot to start your ride."
+                "en": "Keep your water bottle in your bag so it doesn't get too cold; the church area is a well-sheltered spot to start your ride.",
+                "fr": "Gardez votre gourde dans votre sac pour qu'elle ne gèle pas ; le secteur de l'église est un endroit bien abrité pour commencer votre sortie."
               }
             },
             {
@@ -701,13 +777,15 @@
                 "de": "Dunes Marchand",
                 "hu": "Dunes Marchand",
                 "ro": "Dunes Marchand",
-                "en": "Dunes Marchand"
+                "en": "Dunes Marchand",
+                "fr": "Dunes Marchand"
               },
               "tip_5lang": {
                 "de": "Achten Sie auf vereiste Stellen in schattigen Senken; der Reif auf dem Sand sieht wunderschön aus, kann aber rutschig sein.",
                 "hu": "Ügyeljen a jeges foltokra az árnyékos mélyedésekben; a zúzmarás homok gyönyörű, de néhol csúszós felületet alkothat.",
                 "ro": "Atenție la porțiunile înghețate din zonele umbrite; nisipul cu chiciură arată superb, dar poate fi alunecos pe alocuri.",
-                "en": "Watch out for icy patches in shaded hollows; the frost on the sand looks beautiful but can create slippery spots for bikes."
+                "en": "Watch out for icy patches in shaded hollows; the frost on the sand looks beautiful but can create slippery spots for bikes.",
+                "fr": "Attention aux plaques de verglas dans les creux ombragés ; le givre sur le sable est beau mais peut créer des zones glissantes pour les vélos."
               }
             },
             {
@@ -715,13 +793,15 @@
                 "de": "Réserve naturelle de la dune Marchand",
                 "hu": "Réserve naturelle de la dune Marchand",
                 "ro": "Réserve naturelle de la dune Marchand",
-                "en": "Réserve naturelle de la dune Marchand"
+                "en": "Réserve naturelle de la dune Marchand",
+                "fr": "Réserve naturelle de la dune Marchand"
               },
               "tip_5lang": {
                 "de": "Die kalte Luft ist hier sehr trocken; nutzen Sie ein Tuch als Gesichtsschutz gegen den eisigen Fahrtwind an den Dünen.",
                 "hu": "A hideg levegő itt nagyon száraz; használjon csősálat az arca védelmére a dűnék közötti jeges menetszél ellen.",
                 "ro": "Aerul rece este foarte uscat aici; folosește un fular tip buf pentru a-ți proteja fața de vântul înghețat de pe dune.",
-                "en": "The cold air is very dry here; use a neck gaiter to protect your face against the freezing wind when cycling by the dunes."
+                "en": "The cold air is very dry here; use a neck gaiter to protect your face against the freezing wind when cycling by the dunes.",
+                "fr": "L'air y est très sec ; utilisez un tour de cou pour protéger votre visage du vent glacial en passant à vélo près des dunes."
               }
             },
             {
@@ -729,13 +809,15 @@
                 "de": "Église du Sacré-Cœur",
                 "hu": "Église du Sacré-Cœur",
                 "ro": "Église du Sacré-Cœur",
-                "en": "Église du Sacré-Cœur"
+                "en": "Église du Sacré-Cœur",
+                "fr": "Église du Sacré-Cœur"
               },
               "tip_5lang": {
                 "de": "Die Kirche bietet eine gute Gelegenheit, die Hände kurz aufzuwärmen, bevor Sie die letzte Etappe der Wintertour antreten.",
                 "hu": "A templom jó alkalmat kínál a kezek rövid felmelegítésére, mielőtt nekivágna a téli túra utolsó szakaszának.",
                 "ro": "Biserica oferă o ocazie bună de a-ți încălzi scurt mâinile înainte de a începe ultima etapă a turei de iarnă.",
-                "en": "The church interior provides a good opportunity to warm your hands briefly before tackling the final leg of the winter ride."
+                "en": "The church interior provides a good opportunity to warm your hands briefly before tackling the final leg of the winter ride.",
+                "fr": "L'intérieur de l'église offre une bonne occasion de réchauffer brièvement vos mains avant d'affronter le dernier tronçon de la sortie hivernale."
               }
             },
             {
@@ -743,13 +825,15 @@
                 "de": "pour la 12 Éme Division d'Infanterie Motorisée",
                 "hu": "pour la 12 Éme Division d'Infanterie Motorisée",
                 "ro": "pour la 12 Éme Division d'Infanterie Motorisée",
-                "en": "pour la 12 Éme Division d'Infanterie Motorisée"
+                "en": "pour la 12 Éme Division d'Infanterie Motorisée",
+                "fr": "pour la 12 Éme Division d'Infanterie Motorisée"
               },
               "tip_5lang": {
                 "de": "Durch das fehlende Laub an den umliegenden Sträuchern ist das Denkmal im Winter bereits von weitem gut sichtbar.",
                 "hu": "A környező bokrok lehullott levelei miatt az emlékmű télen már messziről jól látható a kerékpárútról.",
                 "ro": "Din cauza lipsei frunzișului la tufișurile din jur, monumentul este bine vizibil de la distanță în timpul iernii.",
-                "en": "Due to the lack of foliage on surrounding bushes, the memorial is clearly visible from a distance in winter."
+                "en": "Due to the lack of foliage on surrounding bushes, the memorial is clearly visible from a distance in winter.",
+                "fr": "Faute de feuillage sur les buissons environnants, le mémorial est clairement visible de loin en hiver."
               }
             },
             {
@@ -757,13 +841,15 @@
                 "de": "Calvaire des Marins",
                 "hu": "Calvaire des Marins",
                 "ro": "Calvaire des Marins",
-                "en": "Calvaire des Marins"
+                "en": "Calvaire des Marins",
+                "fr": "Calvaire des Marins"
               },
               "tip_5lang": {
                 "de": "Der Blick auf die winterliche Nordsee ist von hier oben einmalig; machen Sie ein schnelles Foto, bevor die Finger zu kalt werden.",
                 "hu": "A kilátás a téli Északi-tengerre innen fentről egyedülálló; készítsen egy gyors fotót, mielőtt az ujjai túlságosan lehűlnének.",
                 "ro": "Priveliștea asupra Mării Nordului iarna este unică de aici de sus; fă o poză rapidă înainte să-ți înghețe degetele.",
-                "en": "The view of the wintry North Sea is unique from up here; snap a quick photo before your fingers get too cold."
+                "en": "The view of the wintry North Sea is unique from up here; snap a quick photo before your fingers get too cold.",
+                "fr": "La vue de la mer du Nord hivernale est unique d'ici ; prenez une photo rapide avant que vos doigts ne deviennent trop froids."
               }
             },
             {
@@ -771,13 +857,15 @@
                 "de": "Plage de Zuydcoote",
                 "hu": "Plage de Zuydcoote",
                 "ro": "Plage de Zuydcoote",
-                "en": "Plage de Zuydcoote"
+                "en": "Plage de Zuydcoote",
+                "fr": "Plage de Zuydcoote"
               },
               "tip_5lang": {
                 "de": "Genießen Sie die Ruhe am fast leeren Strand; die untergehende Sonne spiegelt sich im Winter besonders klar in den Gezeitenpools.",
                 "hu": "Élvezze a csendet a szinte üres strandon; a lemenő nap télen különösen tisztán tükröződik az árapály-tócsákban.",
                 "ro": "Bucură-te de liniște pe plaja aproape goală; soarele la apus se reflectă foarte clar în bălțile lăsate de reflux iarna.",
-                "en": "Enjoy the peace on the nearly empty beach; the setting sun reflects clearly in the tidal pools during the winter months."
+                "en": "Enjoy the peace on the nearly empty beach; the setting sun reflects clearly in the tidal pools during the winter months.",
+                "fr": "Profitez du calme sur la plage presque vide ; le soleil couchant se reflète nettement dans les mares de marée pendant les mois d'hiver."
               }
             },
             {
@@ -785,13 +873,15 @@
                 "de": "BlockHaus",
                 "hu": "BlockHaus",
                 "ro": "BlockHaus",
-                "en": "BlockHaus"
+                "en": "BlockHaus",
+                "fr": "BlockHaus"
               },
               "tip_5lang": {
                 "de": "Verlassen Sie die Bunker, sobald die Sonne den Horizont berührt, um noch bei Restlicht sicher zum Dorf zurückzuradeln.",
                 "hu": "Hagyja el a bunkereket, amint a nap eléri a horizontot, hogy a szürkületi fényben biztonságban visszatekerhessen a faluba.",
                 "ro": "Părăsește buncărele imediat ce soarele atinge orizontul, pentru a te întoarce în siguranță în sat pe lumina rămasă.",
-                "en": "Leave the bunkers as soon as the sun hits the horizon to ensure you cycle back to the village safely in the remaining light."
+                "en": "Leave the bunkers as soon as the sun hits the horizon to ensure you cycle back to the village safely in the remaining light.",
+                "fr": "Quittez les bunkers dès que le soleil touche l'horizon pour vous assurer de rentrer au village en toute sécurité dans la lumière restante."
               }
             }
           ]
@@ -811,7 +901,8 @@
             "de": "Église Saint-Nicolas",
             "hu": "Église Saint-Nicolas",
             "ro": "Église Saint-Nicolas",
-            "en": "Église Saint-Nicolas"
+            "en": "Église Saint-Nicolas",
+            "fr": "Église Saint-Nicolas"
           },
           "coords": [
             2.494475,
@@ -826,7 +917,8 @@
             "de": "Bewundern Sie die widerstandsfähige Architektur dieser historischen Dorfkirche, die den lokalen Glauben verankert, und prüfen Sie das Schild nach Veranstaltungen.",
             "hu": "Csodálja meg e történelmi falusi templom ellenálló építészetét, amely a helyi hit központja, és vessen egy pillantást a kinti hirdetőtáblára az eseményekért.",
             "ro": "Admirați arhitectura rezilientă a acestei biserici istorice care ancorează credința locală și verificați panoul exterior pentru evenimentele comunitare viitoare.",
-            "en": "Admire the resilient architecture of this historic village church which anchors local faith, and check the notice board outside for upcoming community events."
+            "en": "Admire the resilient architecture of this historic village church which anchors local faith, and check the notice board outside for upcoming community events.",
+            "fr": "Admirez l'architecture résiliente de cette église de village historique qui ancre la foi locale, et consultez le panneau d'affichage extérieur pour les événements communautaires à venir."
           }
         },
         {
@@ -834,7 +926,8 @@
             "de": "Dunes Marchand",
             "hu": "Dunes Marchand",
             "ro": "Dunes Marchand",
-            "en": "Dunes Marchand"
+            "en": "Dunes Marchand",
+            "fr": "Dunes Marchand"
           },
           "coords": [
             2.49756,
@@ -849,7 +942,8 @@
             "de": "Erkunden Sie diese bemerkenswert erhaltenen Küstendünen, die wichtige Lebensräume bieten, also tragen Sie festes Schuhwerk, um den weichen Sand zu meistern.",
             "hu": "Fedezze fel ezeket a kiválóan megőrzött parti dűnéket, amelyek létfontosságú élőhelyet biztosítanak, ezért viseljen túracipőt a laza homokon való sétához.",
             "ro": "Explorați aceste dune de coastă remarcabil conservate care oferă habitate vitale, așa că purtați încălțăminte robustă pentru a naviga prin nisipurile mișcătoare.",
-            "en": "Explore these remarkably preserved coastal dunes offering vital habitats for diverse coastal flora, so wear sturdy walking shoes to navigate the shifting sands."
+            "en": "Explore these remarkably preserved coastal dunes offering vital habitats for diverse coastal flora, so wear sturdy walking shoes to navigate the shifting sands.",
+            "fr": "Explorez ces dunes côtières remarquablement préservées offrant des habitats vitaux pour une flore côtière diversifiée ; portez des chaussures de marche solides pour naviguer dans les sables changeants."
           }
         },
         {
@@ -857,7 +951,8 @@
             "de": "Réserve naturelle de la dune Marchand",
             "hu": "Réserve naturelle de la dune Marchand",
             "ro": "Réserve naturelle de la dune Marchand",
-            "en": "Réserve naturelle de la dune Marchand"
+            "en": "Réserve naturelle de la dune Marchand",
+            "fr": "Réserve naturelle de la dune Marchand"
           },
           "coords": [
             2.502923,
@@ -872,7 +967,8 @@
             "de": "Tauchen Sie ein in diese unberührte, geschützte Landschaft voller einzigartiger Artenvielfalt und bleiben Sie unbedingt auf den Wegen, um die Natur zu schonen.",
             "hu": "Merüljön el ebben az érintetlen, védett tájban, amely egyedülálló biodiverzitással bír, és maradjon a kijelölt ösvényeken a törékeny ökoszisztémák védelmében.",
             "ro": "Scufundați-vă în acest peisaj protejat virgin plin de biodiversitate unică și rămâneți strict pe traseele marcate pentru a proteja ecosistemele fragile.",
-            "en": "Immerse yourself in this pristine protected landscape filled with unique biodiversity, and stay strictly on the marked trails to protect the fragile ecosystems."
+            "en": "Immerse yourself in this pristine protected landscape filled with unique biodiversity, and stay strictly on the marked trails to protect the fragile ecosystems.",
+            "fr": "Plongez-vous dans ce paysage protégé et immaculé rempli d'une biodiversité unique, et restez strictement sur les sentiers balisés pour protéger les écosystèmes fragiles."
           }
         },
         {
@@ -880,7 +976,8 @@
             "de": "Église du Sacré-Cœur",
             "hu": "Église du Sacré-Cœur",
             "ro": "Église du Sacré-Cœur",
-            "en": "Église du Sacré-Cœur"
+            "en": "Église du Sacré-Cœur",
+            "fr": "Église du Sacré-Cœur"
           },
           "coords": [
             2.516855,
@@ -895,7 +992,8 @@
             "de": "Besuchen Sie dieses ruhige spirituelle Zentrum mit bescheidener regionaler Architektur und treten Sie ein, um die friedliche Atmosphäre der Reflexion zu spüren.",
             "hu": "Látogassa meg ezt a békés spirituális központot, amely szerény, mégis elegáns regionális építészeti jegyeket visel, és térjen be egy kis csendes elmélkedésre.",
             "ro": "Vizitați acest centru spiritual liniștit cu arhitectură regională modestă, dar elegantă, și pășiți înăuntru pentru a aprecia atmosfera tăcută de reflecție.",
-            "en": "Visit this tranquil spiritual center featuring modest yet elegant regional architecture, and step inside to appreciate the quiet atmosphere suitable for reflection."
+            "en": "Visit this tranquil spiritual center featuring modest yet elegant regional architecture, and step inside to appreciate the quiet atmosphere suitable for reflection.",
+            "fr": "Visitez ce centre spirituel tranquille présentant une architecture régionale modeste mais élégante, et entrez pour apprécier l'atmosphère silencieuse propice à la réflexion."
           }
         },
         {
@@ -903,7 +1001,8 @@
             "de": "pour la 12 Éme Division d'Infanterie Motorisée",
             "hu": "pour la 12 Éme Division d'Infanterie Motorisée",
             "ro": "pour la 12 Éme Division d'Infanterie Motorisée",
-            "en": "pour la 12 Éme Division d'Infanterie Motorisée"
+            "en": "pour la 12 Éme Division d'Infanterie Motorisée",
+            "fr": "pour la 12 Éme Division d'Infanterie Motorisée"
           },
           "coords": [
             2.512812,
@@ -918,7 +1017,8 @@
             "de": "Erweisen Sie diesem ergreifenden militärischen Denkmal Ihren Respekt, das die Tapferkeit der Infanterie ehrt, und lesen Sie die gravierten Gedenktafeln durch.",
             "hu": "Rója le tiszteletét e megható katonai emlékműnél, amely a gépesített gyalogság hősiessége előtt tiszteleg, és szánjon időt a történelmi emléktáblák elolvasására.",
             "ro": "Aduceți un omagiu la acest memorial militar emoționant care onorează curajul infanteriei și faceți-vă timp să citiți plăcile gravate care explică istoria locului.",
-            "en": "Pay your respects at this poignant military memorial honoring the bravery of motorized infantry, and take a moment to read the engraved plaques explaining its history."
+            "en": "Pay your respects at this poignant military memorial honoring the bravery of motorized infantry, and take a moment to read the engraved plaques explaining its history.",
+            "fr": "Rendez hommage à ce poignant mémorial militaire honorant le courage de l'infanterie motorisée, et prenez un moment pour lire les plaques gravées expliquant son histoire."
           }
         },
         {
@@ -926,7 +1026,8 @@
             "de": "Calvaire des Marins",
             "hu": "Calvaire des Marins",
             "ro": "Calvaire des Marins",
-            "en": "Calvaire des Marins"
+            "en": "Calvaire des Marins",
+            "fr": "Calvaire des Marins"
           },
           "coords": [
             2.522944,
@@ -941,7 +1042,8 @@
             "de": "Entdecken Sie diesen berührenden Seemannskalvarienberg für die auf See Gebliebenen, der weite Ausblicke bietet, und besuchen Sie ihn für die beste Stimmung bei Sonnenuntergang.",
             "hu": "Fedezze fel ezt a tengeren elveszetteknek szentelt megható tengerész-kálváriát, amely pazar kilátást nyújt, és időzítse látogatását naplementére a hangulatért.",
             "ro": "Descoperiți acest calvar emoționant al marinarilor dedicat celor pierduți pe mare, cu vederi panoramice, și vizitați-l la apus când lumina sporește solemnitatea.",
-            "en": "Discover this touching sailors' calvary dedicated to those lost at sea offering sweeping coastal views, and visit during sunset when the light enhances the solemn mood."
+            "en": "Discover this touching sailors' calvary dedicated to those lost at sea offering sweeping coastal views, and visit during sunset when the light enhances the solemn mood.",
+            "fr": "Découvrez ce touchant calvaire des marins dédié à ceux disparus en mer offrant de larges vues côtières, et visitez-le au coucher du soleil quand la lumière renforce l'ambiance solennelle."
           }
         },
         {
@@ -949,7 +1051,8 @@
             "de": "Plage de Zuydcoote",
             "hu": "Plage de Zuydcoote",
             "ro": "Plage de Zuydcoote",
-            "en": "Plage de Zuydcoote"
+            "en": "Plage de Zuydcoote",
+            "fr": "Plage de Zuydcoote"
           },
           "coords": [
             2.483861,
@@ -964,7 +1067,8 @@
             "de": "Spazieren Sie an diesem weiten Sandstrand, der die wilde Schönheit der Nordküste einfängt, und bringen Sie eine Windjacke mit, da die Brise hier stark sein kann.",
             "hu": "Sétáljon végig ezen a hatalmas homokos partszakaszon, amely hűen tükrözi az északi part szépségét, és hozzon széldzsekit, mivel a tengeri szél igen erős lehet.",
             "ro": "Plimbați-vă de-a lungul acestei coaste nisipoase vaste care surprinde frumusețea sălbatică a nordului și aduceți o jachetă de vânt, deoarece briza e puternică.",
-            "en": "Walk along this vast sandy shoreline that perfectly captures the wild beauty of the northern coast, and bring a windbreaker as the sea breeze can be quite strong."
+            "en": "Walk along this vast sandy shoreline that perfectly captures the wild beauty of the northern coast, and bring a windbreaker as the sea breeze can be quite strong.",
+            "fr": "Promenez-vous le long de ce vaste littoral sableux qui capture parfaitement la beauté sauvage de la côte nord, et emportez une coupe-vent car la brise marine peut être assez forte."
           }
         },
         {
@@ -972,7 +1076,8 @@
             "de": "La Bouée de Zuydcoote",
             "hu": "La Bouée de Zuydcoote",
             "ro": "La Bouée de Zuydcoote",
-            "en": "La Bouée de Zuydcoote"
+            "en": "La Bouée de Zuydcoote",
+            "fr": "La Bouée de Zuydcoote"
           },
           "coords": [
             2.486414,
@@ -987,7 +1092,8 @@
             "de": "Entdecken Sie diese ikonische Seezeichen, das die nautische Geschichte dieser Küstenlinie hervorhebt, und fotografieren Sie es am besten bei Ebbe für tolle Winkel.",
             "hu": "Keresse meg ezt az ikonikus tengeri jelzést, amely a part hajózási történelmét hirdeti, és próbálja meg apály idején lefotózni a leglátványosabb szögek kedvéért.",
             "ro": "Observați acest marcaj maritim iconic care evidențiază istoria navigației de pe aceste țărmuri și încercați să-l fotografiați la reflux pentru unghiuri inedite.",
-            "en": "Spot this iconic maritime marker which highlights the navigational history of these shores, and try to photograph it during low tide for the most striking angles."
+            "en": "Spot this iconic maritime marker which highlights the navigational history of these shores, and try to photograph it during low tide for the most striking angles.",
+            "fr": "Repérez ce repère maritime emblématique qui souligne l'histoire de la navigation sur ces côtes, et essayez de le photographier à marée basse pour les angles les plus saisissants."
           }
         },
         {
@@ -995,7 +1101,8 @@
             "de": "BlockHaus",
             "hu": "BlockHaus",
             "ro": "BlockHaus",
-            "en": "BlockHaus"
+            "en": "BlockHaus",
+            "fr": "BlockHaus"
           },
           "coords": [
             2.466492,
@@ -1010,7 +1117,8 @@
             "de": "Untersuchen Sie diese steinernen Kriegsüberreste, die als feierliche Mahnmale des Zweiten Weltkriegs dienen, und achten Sie bei der Erkundung auf den unebenen Boden.",
             "hu": "Vizsgálja meg ezeket a betonból készült háborús maradványokat, amelyek a második világháborúra emlékeztetnek, és vigyázzon a lépéseire a törmelékek környékén.",
             "ro": "Examinați aceste rămășițe de război din beton care stau ca memento-uri solemne ale războiului și aveți grijă la pași în jurul resturilor când explorați de aproape.",
-            "en": "Examine these concrete wartime remnants that stand as solemn reminders of World War II, and watch your step around the scattered debris when exploring up close."
+            "en": "Examine these concrete wartime remnants that stand as solemn reminders of World War II, and watch your step around the scattered debris when exploring up close.",
+            "fr": "Examinez ces vestiges de béton de la guerre qui demeurent comme des rappels solennels de la Seconde Guerre mondiale, et faites attention où vous mettez les pieds autour des débris épars lors de l'exploration."
           }
         }
       ],
@@ -1018,7 +1126,8 @@
         "de": "Ihre Fahrt beginnt an der Église Saint-Nicolas, bevor Sie schnell die majestätischen Dünen für einen Spaziergang erreichen. Die mittägliche Fahrt verbindet mühelos das Naturschutzgebiet mit den Denkmälern im Landesinneren. Am Nachmittag fahren Sie zur Küste, um sich am weiten Strand von Zuydcoote die Beine zu vertreten. Die Dämmerung bricht herein, wenn Sie in der Nähe der Blockhäuser parken.",
         "hu": "Az autós túra a történelmi Église Saint-Nicolas-nál kezdődik, majd gyorsan a fenséges dűnékhez ér egy kis sétára. A déli vezetés könnyedén összekapcsolja a természetvédelmi területet a szárazföldi emlékművekkel. Délután a part felé csorogva megmozgathatja lábait a hatalmas Zuydcoote strandon. Az alkony a BlockHaus közelében éri, ahol magába szívhatja e partvonal nyers történelmét.",
         "ro": "Plimbarea cu mașina începe la Église Saint-Nicolas, înainte de a ajunge rapid la dunele mărețe. Conducerea de la prânz leagă ușor rezervația naturală de monumentele din interior, unde sunt onorate sacrificiile. După-amiaza vă veți îndrepta spre țărm pentru a vă plimba pe Plaja Zuydcoote. Crepusculul se lasă parcând lângă BlockHaus, absorbind frumusețea brută a coastei istorice.",
-        "en": "Your drive begins with the historical anchor of Église Saint-Nicolas before swiftly arriving at the majestic dunes for a nature walk. Midday driving easily links the Réserve naturelle with the inland monuments, where wartime sacrifices are honored. In the afternoon, you will cruise towards the shore to stretch your legs along the sweeping Plage de Zuydcoote. Twilight sets in as you park near the solemn BlockHaus, absorbing the raw beauty of this historical coastline."
+        "en": "Your drive begins with the historical anchor of Église Saint-Nicolas before swiftly arriving at the majestic dunes for a nature walk. Midday driving easily links the Réserve naturelle with the inland monuments, where wartime sacrifices are honored. In the afternoon, you will cruise towards the shore to stretch your legs along the sweeping Plage de Zuydcoote. Twilight sets in as you park near the solemn BlockHaus, absorbing the raw beauty of this historical coastline.",
+        "fr": "Votre trajet commence avec l'ancre historique de l'Église Saint-Nicolas avant d'arriver rapidement aux majestueuses dunes pour une promenade nature. À midi, la conduite relie facilement la Réserve naturelle aux monuments intérieurs, où les sacrifices en temps de guerre sont honorés. L'après-midi, vous roulerez vers le rivage pour vous dégourdir les jambes le long de la vaste Plage de Zuydcoote. Le crépuscule tombe alors que vous vous garez près du solennel BlockHaus, absorbant la beauté brute de cette côte historique."
       },
       "variants": {
         "rainy": {
@@ -1026,7 +1135,8 @@
             "de": "Eine gemütliche Fahrt im Regen beginnt mit der Besichtigung der Dorfkirche. Mittags dient das Auto als trockener Rückzugsort zwischen den kurzen Erkundungen der Dünen. Am Nachmittag lassen sich die Denkmäler und Kapellen bequem erreichen, ohne lange dem Wetter ausgesetzt zu sein. Der Tag endet mit einer Fahrt entlang der Küste, wobei die Scheibenwischer den Rhythmus zum stürmischen Meer vorgeben.",
             "hu": "A kényelmes esős autózás a falu templomának megtekintetésével indul. Délben az autó száraz menedékként szolgál a dűnék rövid felfedezései között. Délután az emlékművek és kápolnák kényelmesen elérhetők anélkül, hogy sokáig ki lennénk téve az elemeknek. A nap egy tengerparti autózással zárul, ahol az ablaktörlők üteme kíséri a viharos tenger morajlását.",
             "ro": "O plimbare confortabilă prin ploaie începe cu vizitarea bisericii din sat. La prânz, mașina servește ca refugiu uscat între scurte explorări ale dunelor. După-amiaza, monumentele și capelele sunt ușor accesibile fără a fi expuși prea mult vremii. Ziua se încheie cu o tură de-a lungul coastei, cu ștergătoarele bătând în ritmul mării învolburate.",
-            "en": "A comfortable rainy day drive begins with a visit to the village church. At noon, the car serves as a dry base between short explorations of the dunes. In the afternoon, memorials and chapels can be reached easily without prolonged exposure to the elements. The day ends with a coastal drive, the windshield wipers keeping rhythm with the stormy North Sea waves."
+            "en": "A comfortable rainy day drive begins with a visit to the village church. At noon, the car serves as a dry base between short explorations of the dunes. In the afternoon, memorials and chapels can be reached easily without prolonged exposure to the elements. The day ends with a coastal drive, the windshield wipers keeping rhythm with the stormy North Sea waves.",
+            "fr": "Une confortable excursion pluvieuse en voiture commence par la visite de l'église du village. À midi, la voiture sert de base sèche entre de courtes explorations des dunes. L'après-midi, mémoriaux et chapelles sont facilement accessibles sans exposition prolongée aux éléments. La journée se termine par une route côtière, les essuie-glaces suivant le rythme des vagues orageuses de la mer du Nord."
           },
           "stops": [
             {
@@ -1034,13 +1144,15 @@
                 "de": "Église Saint-Nicolas",
                 "hu": "Église Saint-Nicolas",
                 "ro": "Église Saint-Nicolas",
-                "en": "Église Saint-Nicolas"
+                "en": "Église Saint-Nicolas",
+                "fr": "Église Saint-Nicolas"
               },
               "tip_5lang": {
                 "de": "Parken Sie direkt am Kirchplatz; so bleiben Sie trocken, während Sie die historische Architektur im Inneren bewundern.",
                 "hu": "Parkoljon közvetlenül a templomtéren; így szárazon maradhat, miközben a belső tér történelmi építészetét csodálja.",
                 "ro": "Parchează direct în piața bisericii; astfel vei rămâne uscat în timp ce admiri arhitectura istorică din interior.",
-                "en": "Park directly in the church square; this allows you to stay dry while moving to admire the historical architecture inside."
+                "en": "Park directly in the church square; this allows you to stay dry while moving to admire the historical architecture inside.",
+                "fr": "Garez-vous directement sur la place de l'église ; cela vous permet de rester au sec en vous déplaçant pour admirer l'architecture historique à l'intérieur."
               }
             },
             {
@@ -1048,13 +1160,15 @@
                 "de": "Dunes Marchand",
                 "hu": "Dunes Marchand",
                 "ro": "Dunes Marchand",
-                "en": "Dunes Marchand"
+                "en": "Dunes Marchand",
+                "fr": "Dunes Marchand"
               },
               "tip_5lang": {
                 "de": "Nutzen Sie den Parkplatz als Basis; wechseln Sie nach dem kurzen Spaziergang in den nassen Dünen bei Bedarf Ihre Socken im Auto.",
                 "hu": "Használja a parkolót bázisként; a vizes dűnék közötti rövid séta után szükség esetén cseréljen zoknit az autó kényelmében.",
                 "ro": "Folosește parcarea ca bază; după o scurtă plimbare prin dunele umede, poți să-ți schimbi șosetele în confortul mașinii.",
-                "en": "Use the parking area as a base; after a short walk in the wet dunes, you can easily change socks in the comfort of your car."
+                "en": "Use the parking area as a base; after a short walk in the wet dunes, you can easily change socks in the comfort of your car.",
+                "fr": "Utilisez l'aire de stationnement comme base ; après une courte promenade dans les dunes mouillées, vous pouvez facilement changer de chaussettes dans le confort de votre voiture."
               }
             },
             {
@@ -1062,13 +1176,15 @@
                 "de": "Réserve naturelle de la dune Marchand",
                 "hu": "Réserve naturelle de la dune Marchand",
                 "ro": "Réserve naturelle de la dune Marchand",
-                "en": "Réserve naturelle de la dune Marchand"
+                "en": "Réserve naturelle de la dune Marchand",
+                "fr": "Réserve naturelle de la dune Marchand"
               },
               "tip_5lang": {
                 "de": "Der Regen intensiviert die Farben der Heidelandschaft; genießen Sie den Ausblick vom Rand der Straße, falls der Schauer zu stark wird.",
                 "hu": "Az eső mélyíti a dűnék növényzetének színeit; élvezze a kilátást az út széléről, ha a zápor túl intenzívvé válna.",
                 "ro": "Ploaia intensifică culorile vegetației de pe dune; admiră priveliștea de la marginea drumului dacă aversa devine prea puternică.",
-                "en": "The rain intensifies the colors of the dune vegetation; enjoy the view from the roadside if the downpour becomes too heavy."
+                "en": "The rain intensifies the colors of the dune vegetation; enjoy the view from the roadside if the downpour becomes too heavy.",
+                "fr": "La pluie intensifie les couleurs de la végétation des dunes ; profitez de la vue depuis le bord de la route si l'averse devient trop forte."
               }
             },
             {
@@ -1076,13 +1192,15 @@
                 "de": "Église du Sacré-Cœur",
                 "hu": "Église du Sacré-Cœur",
                 "ro": "Église du Sacré-Cœur",
-                "en": "Église du Sacré-Cœur"
+                "en": "Église du Sacré-Cœur",
+                "fr": "Église du Sacré-Cœur"
               },
               "tip_5lang": {
                 "de": "Die Zufahrt ist gut ausgebaut; nutzen Sie den Besuch für eine kurze meditative Pause, während es draußen stürmt.",
                 "hu": "A megközelítés jól kiépített; használja ki a látogatást egy rövid meditatív szünetre, miközben kint tombol a vihar.",
                 "ro": "Accesul este bine amenajat; profită de vizită pentru o scurtă pauză meditativă în timp ce afară este furtună.",
-                "en": "The access road is well-maintained; use this visit for a short meditative break while the storm rages outside."
+                "en": "The access road is well-maintained; use this visit for a short meditative break while the storm rages outside.",
+                "fr": "La route d'accès est bien entretenue ; profitez de cette visite pour une courte pause méditative pendant que la tempête fait rage dehors."
               }
             },
             {
@@ -1090,13 +1208,15 @@
                 "de": "pour la 12 Éme Division d'Infanterie Motorisée",
                 "hu": "pour la 12 Éme Division d'Infanterie Motorisée",
                 "ro": "pour la 12 Éme Division d'Infanterie Motorisée",
-                "en": "pour la 12 Éme Division d'Infanterie Motorisée"
+                "en": "pour la 12 Éme Division d'Infanterie Motorisée",
+                "fr": "pour la 12 Éme Division d'Infanterie Motorisée"
               },
               "tip_5lang": {
                 "de": "Das Denkmal liegt nah an der Straße; Sie können es fast vom Auto aus betrachten, falls der Regen waagerecht fällt.",
                 "hu": "Az emlékmű közel van az úthoz; szinte az autóból is megtekintheti, ha az eső vízszintesen esne a tengeri szél miatt.",
                 "ro": "Monumentul este aproape de drum; îl poți vedea aproape din mașină dacă ploaia cade orizontal din cauza vântului.",
-                "en": "The memorial is close to the road; you can almost view it from the car if the sea wind is blowing the rain horizontally."
+                "en": "The memorial is close to the road; you can almost view it from the car if the sea wind is blowing the rain horizontally.",
+                "fr": "Le mémorial est proche de la route ; vous pouvez presque le voir depuis la voiture si le vent de mer fait tourner la pluie à l'horizontale."
               }
             },
             {
@@ -1104,13 +1224,15 @@
                 "de": "Calvaire des Marins",
                 "hu": "Calvaire des Marins",
                 "ro": "Calvaire des Marins",
-                "en": "Calvaire des Marins"
+                "en": "Calvaire des Marins",
+                "fr": "Calvaire des Marins"
               },
               "tip_5lang": {
                 "de": "Die Aussicht auf das aufgewühlte Meer ist bei Regen beeindruckend; ein Regenschirm ist wegen des Windes hier oft unpraktisch.",
                 "hu": "A felkorbácsolt tenger látványa esőben lenyűgöző; az esernyő a szél miatt itt gyakran használhatatlan, inkább kapucnit viseljen.",
                 "ro": "Priveliștea mării agitate pe ploaie este impresionantă; umbrela este adesea inutilă aici din cauza vântului, folosește o glugă.",
-                "en": "The view of the churning sea in the rain is impressive; umbrellas are often useless here due to wind, so use a hood instead."
+                "en": "The view of the churning sea in the rain is impressive; umbrellas are often useless here due to wind, so use a hood instead.",
+                "fr": "La vue de la mer déchaînée sous la pluie est impressionnante ; les parapluies sont souvent inutiles ici à cause du vent, utilisez plutôt une capuche."
               }
             },
             {
@@ -1118,13 +1240,15 @@
                 "de": "Plage de Zuydcoote",
                 "hu": "Plage de Zuydcoote",
                 "ro": "Plage de Zuydcoote",
-                "en": "Plage de Zuydcoote"
+                "en": "Plage de Zuydcoote",
+                "fr": "Plage de Zuydcoote"
               },
               "tip_5lang": {
                 "de": "Parken Sie mit Blick auf das Meer; so können Sie die Wellen beobachten, während Sie gemütlich im trockenen Auto sitzen.",
                 "hu": "Parkoljon a tenger felé nézve; így az autó kényelméből és szárazon figyelheti a hullámokat és a dűnék mozgását.",
                 "ro": "Parchează cu fața spre mare; astfel poți urmări valurile din confortul mașinii, rămânând perfect uscat.",
-                "en": "Park facing the sea; this allows you to watch the waves and the shifting dunes from the comfort of your dry car."
+                "en": "Park facing the sea; this allows you to watch the waves and the shifting dunes from the comfort of your dry car.",
+                "fr": "Garez-vous face à la mer ; cela vous permet d'observer les vagues et les dunes changeantes depuis le confort de votre voiture sèche."
               }
             },
             {
@@ -1132,13 +1256,15 @@
                 "de": "La Bouée de Zuydcoote",
                 "hu": "La Bouée de Zuydcoote",
                 "ro": "La Bouée de Zuydcoote",
-                "en": "La Bouée de Zuydcoote"
+                "en": "La Bouée de Zuydcoote",
+                "fr": "La Bouée de Zuydcoote"
               },
               "tip_5lang": {
                 "de": "Ein schneller Fotostopp direkt am Straßenrand reicht aus, um die markante Boje im grauen Regenlicht festzuhalten.",
                 "hu": "Egy gyors fotómegálló közvetlenül az út szélén elég ahhoz, hogy megörökítse a jellegzetes bóját a szürke esőfényben.",
                 "ro": "O oprire rapidă pentru poze chiar la marginea drumului este suficientă pentru a surprinde baliza în lumina cenușie de ploaie.",
-                "en": "A quick photo stop right at the roadside is enough to capture the iconic buoy in the moody, grey rain light."
+                "en": "A quick photo stop right at the roadside is enough to capture the iconic buoy in the moody, grey rain light.",
+                "fr": "Un arrêt photo rapide au bord de la route suffit pour capturer la bouée emblématique dans la lumière grise et maussade de la pluie."
               }
             },
             {
@@ -1146,13 +1272,15 @@
                 "de": "BlockHaus",
                 "hu": "BlockHaus",
                 "ro": "BlockHaus",
-                "en": "BlockHaus"
+                "en": "BlockHaus",
+                "fr": "BlockHaus"
               },
               "tip_5lang": {
                 "de": "Nutzen Sie das Gebläse Ihres Autos, um die Windschutzscheibe frei von Beschlag zu halten, während Sie die Aussicht auf die Bunker genießen.",
                 "hu": "Használja az autó páramentesítőjét, hogy tisztán lássa a bunkereket, miközben a száraz utastérből figyeli a maradványokat.",
                 "ro": "Folosește ventilația mașinii pentru a dezaburi parbrizul în timp ce admiri buncărele din interiorul uscat al cabinei.",
-                "en": "Use your car's defroster to keep the windshield clear while you admire the bunkers from the dry interior of the cabin."
+                "en": "Use your car's defroster to keep the windshield clear while you admire the bunkers from the dry interior of the cabin.",
+                "fr": "Utilisez le dégivrage de votre voiture pour garder le pare-brise clair pendant que vous admirez les bunkers depuis l'intérieur sec de l'habitacle."
               }
             }
           ]
@@ -1162,7 +1290,8 @@
             "de": "Die winterliche Tour beginnt im beheizten Auto mit einem Besuch der Dorfkirche. Mittags gleitet der Wagen durch die frostige Landschaft der Dünen, während die Sonne tief über dem Horizont steht. Da es bereits gegen 17:00 Uhr dunkel wird, lassen sich die Küstenmonumente am besten am frühen Nachmittag besichtigen. Der Tag endet mit einem warmen Getränk im Auto, während man den frühen Sonnenuntergang über dem Meer beobachtet.",
             "hu": "A téli túra a fűtött autó kényelmében indul a falu templomának megtekintésével. Délben a kocsi a dűnék fagyos tájai között halad, miközben a nap alacsonyan jár a horizont felett. Mivel 17:00 körül már sötétedik, a tengerparti emlékműveket kora délután érdemes felkeresni. A nap egy forró itallal zárul az autóban, nézve a korai naplementét a tenger felett.",
             "ro": "Tura de iarnă începe în confortul mașinii încălzite cu o vizită la biserica din sat. La prânz, mașina trece prin peisajul înghețat al dunelor, cu soarele jos la orizont. Deoarece se întunecă deja în jur de ora 17:00, monumentele de pe coastă trebuie vizitate după-amiaza devreme. Ziua se încheie cu o băutură caldă în mașină, admirând apusul timpuriu peste mare.",
-            "en": "The winter tour begins in the warmth of your car with a visit to the local church. At noon, you drive through the frosty landscapes of the dunes with the sun hanging low over the horizon. Since dusk falls around 5 PM, it's best to visit the coastal monuments in the early afternoon. The day ends with a warm drink in the car while watching the early sunset over the North Sea."
+            "en": "The winter tour begins in the warmth of your car with a visit to the local church. At noon, you drive through the frosty landscapes of the dunes with the sun hanging low over the horizon. Since dusk falls around 5 PM, it's best to visit the coastal monuments in the early afternoon. The day ends with a warm drink in the car while watching the early sunset over the North Sea.",
+            "fr": "La visite hivernale commence au chaud dans votre voiture par la visite de l'église locale. À midi, vous traversez les paysages givrés des dunes avec le soleil bas sur l'horizon. Comme le crépuscule tombe vers 17h, il est préférable de visiter les monuments côtiers en début d'après-midi. La journée se termine avec une boisson chaude dans la voiture en regardant le coucher de soleil anticipé sur la mer du Nord."
           },
           "stops": [
             {
@@ -1170,13 +1299,15 @@
                 "de": "Église Saint-Nicolas",
                 "hu": "Église Saint-Nicolas",
                 "ro": "Église Saint-Nicolas",
-                "en": "Église Saint-Nicolas"
+                "en": "Église Saint-Nicolas",
+                "fr": "Église Saint-Nicolas"
               },
               "tip_5lang": {
                 "de": "Lassen Sie die Heizung kurz laufen, bevor Sie aussteigen; die kalte Kirchenluft ist erfrischend, aber ein warmer Rückzugsort ist danach Gold wert.",
                 "hu": "Járassa a fűtést kicsit az indulás előtt; a templom hideg levegője frissítő, de utána a meleg autó aranyat ér.",
                 "ro": "Lasă căldura pornită puțin înainte de a coborî; aerul rece din biserică este revigorant, dar o mașină caldă după vizită e prețioasă.",
-                "en": "Keep the heater running briefly before you get out; the cold church air is refreshing, but a warm car afterward is wonderful."
+                "en": "Keep the heater running briefly before you get out; the cold church air is refreshing, but a warm car afterward is wonderful.",
+                "fr": "Laissez le chauffage fonctionner brièvement avant de sortir ; l'air froid de l'église est revigorant, mais une voiture chauffée après l'arrêt est merveilleuse."
               }
             },
             {
@@ -1184,13 +1315,15 @@
                 "de": "Dunes Marchand",
                 "hu": "Dunes Marchand",
                 "ro": "Dunes Marchand",
-                "en": "Dunes Marchand"
+                "en": "Dunes Marchand",
+                "fr": "Dunes Marchand"
               },
               "tip_5lang": {
                 "de": "Die Parkplätze können morgens glatt sein; genießen Sie das Spiel des Lichts auf dem gefrorenen Sand direkt von Ihrem Fenster aus.",
                 "hu": "A parkolók reggelente jegesek lehetnek; élvezze a fény játékát a fagyos homokon közvetlenül az autóablakból.",
                 "ro": "Parcările pot fi înghețate dimineața; admiră jocul luminii pe nisipul cu chiciură direct de la fereastra mașinii.",
-                "en": "Parking lots can be icy in the morning; enjoy the play of light on the frozen sand directly from your car window."
+                "en": "Parking lots can be icy in the morning; enjoy the play of light on the frozen sand directly from your car window.",
+                "fr": "Les parkings peuvent être verglacés le matin ; profitez des jeux de lumière sur le sable gelé directement depuis la vitre de votre voiture."
               }
             },
             {
@@ -1198,13 +1331,15 @@
                 "de": "Réserve naturelle de la dune Marchand",
                 "hu": "Réserve naturelle de la dune Marchand",
                 "ro": "Réserve naturelle de la dune Marchand",
-                "en": "Réserve naturelle de la dune Marchand"
+                "en": "Réserve naturelle de la dune Marchand",
+                "fr": "Réserve naturelle de la dune Marchand"
               },
               "tip_5lang": {
                 "de": "Die Wintersonne steht ideal für Fotos von der Tierwelt; halten Sie an den Aussichtspunkten kurz an, ohne den Motor zu lange abzustellen.",
                 "hu": "A téli napállás ideális a vadvilág fotózásához; álljon meg rövid időre a kilátópontoknál, de ne hagyja túl sokáig hűlni az autót.",
                 "ro": "Soarele de iarnă este ideal pentru fotografierea faunei; oprește scurt la punctele de belvedere, dar nu lăsa mașina să se răcească prea mult.",
-                "en": "The winter sun is ideal for wildlife photography; stop briefly at the viewpoints but don't let the car cool down for too long."
+                "en": "The winter sun is ideal for wildlife photography; stop briefly at the viewpoints but don't let the car cool down for too long.",
+                "fr": "Le soleil d'hiver est idéal pour la photographie animalière ; arrêtez-vous brièvement aux points de vue mais ne laissez pas trop refroidir la voiture."
               }
             },
             {
@@ -1212,13 +1347,15 @@
                 "de": "Église du Sacré-Cœur",
                 "hu": "Église du Sacré-Cœur",
                 "ro": "Église du Sacré-Cœur",
-                "en": "Église du Sacré-Cœur"
+                "en": "Église du Sacré-Cœur",
+                "fr": "Église du Sacré-Cœur"
               },
               "tip_5lang": {
                 "de": "Die winterliche Ruhe macht den Besuch besonders besinnlich; parken Sie nah am Eingang, um die Kältezeit im Freien zu minimieren.",
                 "hu": "A téli csend különösen meghitté teszi a látogatást; parkoljon közel a bejárathoz, hogy minimalizálja a kinti hidegben töltött időt.",
                 "ro": "Liniștea iernii face vizita deosebit de pioasă; parchează aproape de intrare pentru a minimiza timpul petrecut în frigul de afară.",
-                "en": "The winter silence makes the visit particularly reflective; park close to the entrance to minimize your time out in the freezing wind."
+                "en": "The winter silence makes the visit particularly reflective; park close to the entrance to minimize your time out in the freezing wind.",
+                "fr": "Le silence hivernal rend la visite particulièrement propice à la réflexion ; garez-vous près de l'entrée pour minimiser votre temps à l'extérieur dans le vent glacial."
               }
             },
             {
@@ -1226,13 +1363,15 @@
                 "de": "pour la 12 Éme Division d'Infanterie Motorisée",
                 "hu": "pour la 12 Éme Division d'Infanterie Motorisée",
                 "ro": "pour la 12 Éme Division d'Infanterie Motorisée",
-                "en": "pour la 12 Éme Division d'Infanterie Motorisée"
+                "en": "pour la 12 Éme Division d'Infanterie Motorisée",
+                "fr": "pour la 12 Éme Division d'Infanterie Motorisée"
               },
               "tip_5lang": {
                 "de": "Das Denkmal wirkt im kahlen Winterlicht sehr eindringlich; nutzen Sie die gute Sichtbarkeit der Straßenschilder im Winter.",
                 "hu": "Az emlékmű a kopár téli fényben nagyon hatásos; használja ki, hogy a jelzőtáblák ilyenkor messziről is jól látszanak az út szélén.",
                 "ro": "Monumentul pare foarte frapant în lumina stearpă de iarnă; profită de faptul că indicatoarele sunt bine vizibile de la distanță acum.",
-                "en": "The memorial looks very striking in the stark winter light; take advantage of the road signs being clearly visible without summer foliage."
+                "en": "The memorial looks very striking in the stark winter light; take advantage of the road signs being clearly visible without summer foliage.",
+                "fr": "Le mémorial est très frappant sous la lumière hivernale crue ; profitez du fait que les panneaux routiers sont bien visibles sans le feuillage d'été."
               }
             },
             {
@@ -1240,13 +1379,15 @@
                 "de": "Calvaire des Marins",
                 "hu": "Calvaire des Marins",
                 "ro": "Calvaire des Marins",
-                "en": "Calvaire des Marins"
+                "en": "Calvaire des Marins",
+                "fr": "Calvaire des Marins"
               },
               "tip_5lang": {
                 "de": "Die Auffahrt bietet einen tollen Panoramablick; bleiben Sie im Auto, um die Aussicht auf die stürmische See windgeschützt zu genießen.",
                 "hu": "A felhajtó remek panorámát kínál; maradjon az autóban, hogy szélvédett helyről élvezhesse a viharos tenger látványát.",
                 "ro": "Drumul de urcare oferă o panoramă grozavă; rămâi în mașină pentru a te bucura de priveliștea mării agitate, ferit de vânt.",
-                "en": "The drive up offers a great panorama; stay in the car to enjoy the view of the stormy sea while protected from the biting wind."
+                "en": "The drive up offers a great panorama; stay in the car to enjoy the view of the stormy sea while protected from the biting wind.",
+                "fr": "La route d'accès offre un très beau panorama ; restez dans la voiture pour profiter de la vue sur la mer houleuse tout en étant protégé du vent mordant."
               }
             },
             {
@@ -1254,13 +1395,15 @@
                 "de": "Plage de Zuydcoote",
                 "hu": "Plage de Zuydcoote",
                 "ro": "Plage de Zuydcoote",
-                "en": "Plage de Zuydcoote"
+                "en": "Plage de Zuydcoote",
+                "fr": "Plage de Zuydcoote"
               },
               "tip_5lang": {
                 "de": "Die Winterabende am Strand sind kurz; genießen Sie das Farbspiel des Himmels gegen 16:45 Uhr direkt vom Fahrersitz aus.",
                 "hu": "A téli esték a strandon rövidek; élvezze az égbolt színeinek játékát 16:45 körül közvetlenül a vezetőülésből.",
                 "ro": "Serile de iarnă pe plajă sunt scurte; admiră jocul de culori al cerului în jur de ora 16:45 direct de pe scaunul șoferului.",
-                "en": "Winter evenings on the beach are short; enjoy the colors of the sky around 4:45 PM directly from your driver's seat."
+                "en": "Winter evenings on the beach are short; enjoy the colors of the sky around 4:45 PM directly from your driver's seat.",
+                "fr": "Les soirées d'hiver sur la plage sont courtes ; appréciez les couleurs du ciel vers 16h45 directement depuis votre siège de conducteur."
               }
             },
             {
@@ -1268,13 +1411,15 @@
                 "de": "La Bouée de Zuydcoote",
                 "hu": "La Bouée de Zuydcoote",
                 "ro": "La Bouée de Zuydcoote",
-                "en": "La Bouée de Zuydcoote"
+                "en": "La Bouée de Zuydcoote",
+                "fr": "La Bouée de Zuydcoote"
               },
               "tip_5lang": {
                 "de": "Die Boje glänzt oft im Winterreif; ein kurzer Halt für ein stimmungsvolles Foto lohnt sich, bevor das Licht komplett schwindet.",
                 "hu": "A bója gyakran csillog a zúzmarától; egy rövid megálló megéri egy hangulatos fotóért, mielőtt a fények teljesen eltűnnének.",
                 "ro": "Baliza sclipește adesea sub chiciură; o scurtă oprire merită pentru o poză atmosferică înainte ca lumina să dispară de tot.",
-                "en": "The buoy often glistens with frost; a short stop is worth it for an atmospheric photo before the daylight fades completely."
+                "en": "The buoy often glistens with frost; a short stop is worth it for an atmospheric photo before the daylight fades completely.",
+                "fr": "La bouée brille souvent de gel ; un court arrêt vaut la peine pour une photo d'ambiance avant que la lumière du jour ne disparaisse complètement."
               }
             },
             {
@@ -1282,13 +1427,15 @@
                 "de": "BlockHaus",
                 "hu": "BlockHaus",
                 "ro": "BlockHaus",
-                "en": "BlockHaus"
+                "en": "BlockHaus",
+                "fr": "BlockHaus"
               },
               "tip_5lang": {
                 "de": "Nutzen Sie das Scheinwerferlicht Ihres Autos beim Verlassen des Parkplatzes, da die Bunkerbereiche im Winter sehr früh dunkel werden.",
                 "hu": "Használja az autó fényszóróit a parkoló elhagyásakor, mivel a bunkerek környéke télen nagyon hamar sötétségbe borul.",
                 "ro": "Folosește farurile mașinii la plecarea din parcare, deoarece zona buncărelor se scufundă foarte devreme în întuneric iarna.",
-                "en": "Use your car's headlights when leaving the parking area as the bunker sites get dark very early during the winter months."
+                "en": "Use your car's headlights when leaving the parking area as the bunker sites get dark very early during the winter months.",
+                "fr": "Allumez les phares de votre voiture en quittant l'aire de stationnement car les sites des bunkers s'assombrissent très tôt pendant les mois d'hiver."
               }
             }
           ]

@@ -3,55 +3,64 @@
     "de": "Boulevard des Arènes, 30000 Nîmes",
     "hu": "Boulevard des Arènes, 30000 Nîmes, Franciaország",
     "ro": "Boulevard des Arènes, 30000 Nîmes, Franța",
-    "en": "Boulevard des Arènes, 30000 Nîmes, France"
+    "en": "Boulevard des Arènes, 30000 Nîmes, France",
+    "fr": "Boulevard des Arènes, 30000 Nîmes, France"
   },
   "openingHours": {
     "de": "Mo-So 09:00-20:00 (Sommer), 09:00-17:00 (Winter)",
     "hu": "H-V 09:00-20:00 (nyáron), 09:00-17:00 (télen)",
     "ro": "L-D 09:00-20:00 (vara), 09:00-17:00 (iarna)",
-    "en": "Mon-Sun 09:00-20:00 (summer), 09:00-17:00 (winter)"
+    "en": "Mon-Sun 09:00-20:00 (summer), 09:00-17:00 (winter)",
+    "fr": "Lun‑Dim 09:00-20:00 (été), 09:00-17:00 (hiver)"
   },
   "entranceFee": {
     "de": "€10 Erwachsene, €8 ermäßigt (Kombi-Ticket mit Maison Carrée empfohlen)",
     "hu": "€10 felnőtt, €8 kedvezményes (kombinált jegy a Maison Carrée-val javasolt)",
     "ro": "10 € adulți, 8 € redus (se recomandă bilet combinat cu Maison Carrée)",
-    "en": "€10 adults, €8 reduced (combination ticket with Maison Carrée recommended)"
+    "en": "€10 adults, €8 reduced (combination ticket with Maison Carrée recommended)",
+    "fr": "€10 adultes, €8 tarif réduit (billet combiné avec la Maison Carrée recommandé)"
   },
   "website": "https://www.arenes-nimes.com",
   "publicTransport": {
     "de": "Bahnhof Nîmes (SNCF) ca. 5 Min. Fußweg entfernt",
     "hu": "Nîmes vasútállomás (SNCF) kb. 5 perc séta",
     "ro": "Gara Nîmes (SNCF) la aprox. 5 min. de mers pe jos",
-    "en": "Nîmes train station (SNCF) approx. 5 min walk away"
+    "en": "Nîmes train station (SNCF) approx. 5 min walk away",
+    "fr": "Gare de Nîmes (SNCF) à env. 5 min à pied"
   },
   "parking": {
     "de": "Parkhaus 'Parking Arènes' direkt unter dem Platz (ca. €2.50/Std.)",
     "hu": "'Parking Arènes' parkolóház közvetlenül a tér alatt (kb. €2.50/óra)",
     "ro": "Parcarea etajată 'Parking Arènes' chiar sub piață (aprox. 2,50 €/oră)",
-    "en": "Parking garage 'Parking Arènes' directly under the square (approx. €2.50/hour)"
+    "en": "Parking garage 'Parking Arènes' directly under the square (approx. €2.50/hour)",
+    "fr": "Parking « Parking Arènes » directement sous la place (env. €2.50/heure)"
   },
   "accessibility": {
     "de": "Erdgeschoss barrierefrei, obere Ränge nur über steile römische Treppen",
     "hu": "A földszint akadálymentes, a felső sorok csak meredek római lépcsőkön érhetők el",
     "ro": "Parterul este accesibil, rândurile superioare doar prin scări romane abrupte",
-    "en": "Ground floor accessible, upper tiers only via steep Roman stairs"
+    "en": "Ground floor accessible, upper tiers only via steep Roman stairs",
+    "fr": "Rez‑de‑chaussée accessible, gradins supérieurs uniquement par des escaliers romains raides"
   },
   "photoRules": {
     "de": "Erlaubt für private Zwecke, keine Drohnen",
     "hu": "Magáncélra engedélyezett, drón használata tilos",
     "ro": "Permis pentru uz privat, fără drone",
-    "en": "Allowed for private use, no drones"
+    "en": "Allowed for private use, no drones",
+    "fr": "Autorisé pour usage privé, drones interdits"
   },
   "bestTimeToVisit": {
     "de": "Früher Vormittag, um die Hitze und große Reisegruppen zu vermeiden",
     "hu": "Kora délelőtt, a hőség és a nagy turistacsoportok elkerülése érdekében",
     "ro": "Dimineața devreme pentru a evita căldura și grupurile mari de turiști",
-    "en": "Early morning to avoid the heat and large tour groups"
+    "en": "Early morning to avoid the heat and large tour groups",
+    "fr": "Tôt le matin pour éviter la chaleur et les grands groupes de touristes"
   },
   "audioGuide": {
     "de": "Kostenloser Audio-Guide beim Ticketkauf inklusive",
     "hu": "A jegy ára tartalmazza az ingyenes audio guide-ot",
     "ro": "Audio-ghid gratuit inclus în prețul biletului",
-    "en": "Free audio guide included with ticket purchase"
+    "en": "Free audio guide included with ticket purchase",
+    "fr": "Audioguide gratuit inclus avec l’achat du billet"
   }
 }

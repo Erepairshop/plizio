@@ -3,55 +3,64 @@
     "de": "2 Rue de Blois, 36600 Valençay",
     "hu": "2 Rue de Blois, 36600 Valençay",
     "ro": "2 Rue de Blois, 36600 Valençay",
-    "en": "2 Rue de Blois, 36600 Valençay"
+    "en": "2 Rue de Blois, 36600 Valençay",
+    "fr": "2 Rue de Blois, 36600 Valençay"
   },
   "openingHours": {
     "de": "Mo-So 10:00-18:00 (Saisonal schwankend, im Winter oft früher geschlossen)",
     "hu": "Hé-Va 10:00-18:00 (szezononként változó, télen gyakran korábban zár)",
     "ro": "Lun-Dum 10:00-18:00 (variază sezonier, iarna se închide adesea mai devreme)",
-    "en": "Mon-Sun 10:00-18:00 (varies seasonally, often closes earlier in winter)"
+    "en": "Mon-Sun 10:00-18:00 (varies seasonally, often closes earlier in winter)",
+    "fr": "Lun-Dim 10:00-18:00 (varie selon la saison, ferme souvent plus tôt en hiver)"
   },
   "entranceFee": {
     "de": "€14.50 Erwachsene, €11.50 Jugendliche (7-17 Jahre)",
     "hu": "14,50 € felnőtteknek, 11,50 € fiataloknak (7-17 év)",
     "ro": "14,50 € adulți, 11,50 € tineri (7-17 ani)",
-    "en": "€14.50 adults, €11.50 youths (7-17 years)"
+    "en": "€14.50 adults, €11.50 youths (7-17 years)",
+    "fr": "€14,50 adultes, €11,50 jeunes (7-17 ans)"
   },
   "website": "https://www.chateau-valencay.fr",
   "publicTransport": {
     "de": "Regionalzug (SNCF) bis Bahnhof Valençay, ca. 10 Min. Fußweg",
     "hu": "Regionális vonat (SNCF) Valençay vasútállomásig, majd kb. 10 perc séta",
     "ro": "Tren regional (SNCF) până la gara Valençay, aproximativ 10 min. de mers pe jos",
-    "en": "Regional train (SNCF) to Valençay station, approx. 10 min walk"
+    "en": "Regional train (SNCF) to Valençay station, approx. 10 min walk",
+    "fr": "Train régional (SNCF) jusqu'à la gare de Valençay, env. 10 min à pied"
   },
   "parking": {
     "de": "Großer kostenloser Parkplatz gegenüber dem Haupteingang",
     "hu": "Nagy ingyenes parkoló a főbejárattal szemben",
     "ro": "Parcare mare gratuită vizavi de intrarea principală",
-    "en": "Large free parking lot opposite the main entrance"
+    "en": "Large free parking lot opposite the main entrance",
+    "fr": "Grand parking gratuit en face de l'entrée principale"
   },
   "accessibility": {
     "de": "Erdgeschoss und Gärten barrierefrei, Obergeschosse nur über Treppen",
     "hu": "A földszint és a kertek akadálymentesek, az emeletek csak lépcsőn érhetők el",
     "ro": "Parterul și grădinile sunt accesibile, etajele superioare doar prin scări",
-    "en": "Ground floor and gardens accessible, upper floors via stairs only"
+    "en": "Ground floor and gardens accessible, upper floors via stairs only",
+    "fr": "Rez-de-chaussée et jardins accessibles, étages supérieurs accessibles uniquement par escaliers"
   },
   "photoRules": {
     "de": "In den Innenräumen ohne Blitz gestattet",
     "hu": "A belső terekben vaku nélkül engedélyezett",
     "ro": "Permis în interior fără bliț",
-    "en": "Permitted in interiors without flash"
+    "en": "Permitted in interiors without flash",
+    "fr": "Autorisé dans les intérieurs sans flash"
   },
   "bestTimeToVisit": {
     "de": "Frühling, wenn die Pfauen in den Gärten besonders aktiv sind",
     "hu": "Tavasszal, amikor a pávák különösen aktívak a kertekben",
     "ro": "Primăvara, când păunii din grădini sunt deosebit de activi",
-    "en": "Spring, when the peacocks in the gardens are particularly active"
+    "en": "Spring, when the peacocks in the gardens are particularly active",
+    "fr": "Printemps, quand les paons dans les jardins sont particulièrement actifs"
   },
   "audioGuide": {
     "de": "Ja, inklusive (auch in deutscher Sprache)",
     "hu": "Igen, az ár tartalmazza (német nyelven is)",
     "ro": "Da, inclus (disponibil și în limba germană)",
-    "en": "Yes, included (also available in German)"
+    "en": "Yes, included (also available in German)",
+    "fr": "Oui, inclus (également disponible en allemand)"
   }
 }

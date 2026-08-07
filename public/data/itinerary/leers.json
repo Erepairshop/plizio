@@ -21,7 +21,8 @@
             "de": "Rathaus von Leers",
             "hu": "Leers Városháza",
             "ro": "Primăria Leers",
-            "en": "Leers Town Hall"
+            "en": "Leers Town Hall",
+            "fr": "Leers Town Hall"
           },
           "coords": [
             3.219528,
@@ -36,7 +37,8 @@
             "de": "Bewundern Sie die Architektur dieses zentralen Platzes und prüfen Sie die Anschlagtafeln auf bevorstehende lokale Veranstaltungen.",
             "hu": "Csodálja meg a központi csomópont polgári építészetét, és indulás előtt ellenőrizze a hirdetőtáblákon a közelgő helyi eseményeket.",
             "ro": "Admirați arhitectura civică a acestui punct central și verificați avizierele pentru evenimentele locale viitoare înainte de a pleca.",
-            "en": "Admire the civic architecture of this central hub, and check the notice boards for upcoming local events before walking further."
+            "en": "Admire the civic architecture of this central hub, and check the notice boards for upcoming local events before walking further.",
+            "fr": "Admirez l'architecture civique de ce centre névralgique et consultez les panneaux d'affichage pour les événements locaux à venir avant de poursuivre votre visite."
           }
         },
         {
@@ -44,7 +46,8 @@
             "de": "Windmühle von Leers",
             "hu": "Leersi szélmalom",
             "ro": "Moara de vânt din Leers",
-            "en": "Moulin à vent de Leers"
+            "en": "Moulin à vent de Leers",
+            "fr": "Moulin à vent de Leers"
           },
           "coords": [
             3.231153,
@@ -59,7 +62,8 @@
             "de": "Fotografieren Sie diese wunderschön erhaltene traditionelle Windmühle, die an Wochenenden oft für die Öffentlichkeit zugänglich ist.",
             "hu": "Fotózza le ezt a gyönyörűen megőrzött hagyományos szélmalmot, és próbáljon hétvégén érkezni, amikor a belső tér is látogatható.",
             "ro": "Fotografiați această moară de vânt tradițională frumos conservată, vizitând-o la sfârșit de săptămână când interiorul este deschis.",
-            "en": "Snap a photo of this beautifully preserved traditional windmill, remembering to visit on weekends when the interior is occasionally open to the public."
+            "en": "Snap a photo of this beautifully preserved traditional windmill, remembering to visit on weekends when the interior is occasionally open to the public.",
+            "fr": "Prenez une photo de ce moulin à vent traditionnel magnifiquement préservé, en pensant à le visiter le week-end lorsque l'intérieur est parfois ouvert au public."
           }
         },
         {
@@ -67,7 +71,8 @@
             "de": "Heimatmuseum Guy Haquette",
             "hu": "Guy Haquette Helytörténeti Múzeum",
             "ro": "Muzeul de Istorie Locală Guy Haquette",
-            "en": "Musée d'Histoire Locale Guy Haquette"
+            "en": "Musée d'Histoire Locale Guy Haquette",
+            "fr": "Musée d'Histoire Locale Guy Haquette"
           },
           "coords": [
             3.236283,
@@ -82,7 +87,8 @@
             "de": "Entdecken Sie faszinierende ländliche Artefakte, aber überprüfen Sie unbedingt die saisonalen Öffnungszeiten, da diese stark variieren.",
             "hu": "Fedezze fel a lenyűgöző vidéki örökség tárgyait, de előtte feltétlenül ellenőrizze a szezonális és változó nyitvatartási időket.",
             "ro": "Explorați artefactele fascinante ale patrimoniului rural, dar asigurați-vă că verificați programul de funcționare sezonier care variază.",
-            "en": "Explore fascinating rural heritage artifacts, but ensure you confirm the seasonal opening hours as they vary greatly throughout the year."
+            "en": "Explore fascinating rural heritage artifacts, but ensure you confirm the seasonal opening hours as they vary greatly throughout the year.",
+            "fr": "Explorez des artefacts ruraux fascinants, mais assurez-vous de confirmer les heures d'ouverture saisonnières car elles varient beaucoup au cours de l'année."
           }
         },
         {
@@ -90,7 +96,8 @@
             "de": "Bourloire du Cercle Saint-Louis",
             "hu": "Bourloire du Cercle Saint-Louis",
             "ro": "Bourloire du Cercle Saint-Louis",
-            "en": "Bourloire du Cercle Saint-Louis"
+            "en": "Bourloire du Cercle Saint-Louis",
+            "fr": "Bourloire du Cercle Saint-Louis"
           },
           "coords": [
             3.248547,
@@ -105,7 +112,8 @@
             "de": "Erleben Sie das einzigartige flämische Bourle-Spiel auf der gebogenen Bahn und lassen Sie sich von Einheimischen die Regeln erklären.",
             "hu": "Próbálja ki az egyedülálló flamand bourle játékot az ívelt pályán, és kérjen meg egy helyi tagot, hogy magyarázza el a pontozási szabályokat.",
             "ro": "Experimentați jocul tradițional flamand de bourle pe o pistă curbată și rugați un localnic să vă explice regulile complexe de punctare.",
-            "en": "Experience the unique traditional Flemish game of bourle on a curved track, and ask a local member to explain the complex scoring rules."
+            "en": "Experience the unique traditional Flemish game of bourle on a curved track, and ask a local member to explain the complex scoring rules.",
+            "fr": "Vivez le jeu traditionnel flamand unique de la bourle sur une piste courbe et demandez à un membre local d'expliquer les règles de comptage complexes."
           }
         },
         {
@@ -113,7 +121,8 @@
             "de": "Oldies Racing",
             "hu": "Oldies Racing",
             "ro": "Oldies Racing",
-            "en": "Oldies racing"
+            "en": "Oldies racing",
+            "fr": "Oldies racing"
           },
           "coords": [
             3.239175,
@@ -128,7 +137,8 @@
             "de": "Genießen Sie die nostalgische Atmosphäre klassischer Rennveranstaltungen und kommen Sie früh, um sich einen guten Aussichtspunkt zu sichern.",
             "hu": "Élvezze a klasszikus versenyek nosztalgikus hangulatát, és érkezzen korán, hogy jó kilátást biztosítson magának a rajtvonal közelében.",
             "ro": "Bucurați-vă de atmosfera nostalgică a curselor clasice, asigurându-vă că ajungeți devreme pentru a prinde un loc bun lângă linia de start.",
-            "en": "Enjoy the nostalgic atmosphere of classic racing events, making sure to arrive early to secure a good viewing spot near the starting line."
+            "en": "Enjoy the nostalgic atmosphere of classic racing events, making sure to arrive early to secure a good viewing spot near the starting line.",
+            "fr": "Profitez de l'atmosphère nostalgique des événements de courses anciennes, en arrivant tôt pour sécuriser un bon emplacement près de la ligne de départ."
           }
         }
       ],
@@ -136,7 +146,8 @@
         "de": "Beginnen Sie den Morgen am Rathaus von Leers und bewundern Sie die Architektur, bevor Sie zur historischen Windmühle schlendern. Mittags tauchen Sie im Musée d'Histoire Locale in die regionale Vergangenheit ein. Verbringen Sie den Nachmittag mit dem traditionellen Bourle-Spiel im Cercle Saint-Louis. Lassen Sie den Tag bei der lebhaften Atmosphäre des Oldies Racing entspannt ausklingen.",
         "hu": "Kezdje a reggelt a központi Leers Városházánál, majd sétáljon át a jellegzetes szélmalomhoz. Délben merüljön el a régió múltjában a Helytörténeti Múzeumban, amely lenyűgöző helyi emlékeket őriz. A délutánt a hagyományos bourle játék megismerésével töltheti a Cercle Saint-Louis-ban. A napot az Oldies racing pezsgő atmoszférájában zárhatja egy kellemes esti kikapcsolódással.",
         "ro": "Începeți dimineața la Primăria din Leers, admirând arhitectura sa, înainte de o scurtă plimbare către moara de vânt. La prânz, aprofundați trecutul regional la Muzeul de Istorie Locală, plin de exponate fascinante. Petreceți după-amiaza experimentând jocul tradițional de bourle la Cercle Saint-Louis. Încheiați ziua bucurându-vă de atmosfera vibrantă de la Oldies racing.",
-        "en": "Start the morning at the central Leers Town Hall, admiring its civic architecture before a short stroll to the iconic Moulin à vent. By midday, delve into the regional past at the Musée d'Histoire Locale, offering fascinating local insights. Spend the afternoon experiencing the traditional game of bourle at Cercle Saint-Louis. Wrap up your day enjoying the vibrant atmosphere at Oldies racing."
+        "en": "Start the morning at the central Leers Town Hall, admiring its civic architecture before a short stroll to the iconic Moulin à vent. By midday, delve into the regional past at the Musée d'Histoire Locale, offering fascinating local insights. Spend the afternoon experiencing the traditional game of bourle at Cercle Saint-Louis. Wrap up your day enjoying the vibrant atmosphere at Oldies racing.",
+        "fr": "Commencez la matinée à l'Hôtel de Ville central de Leers en admirant son architecture civique avant une courte promenade jusqu'à l'emblématique moulin à vent. À midi, plongez dans le passé régional au Musée d'Histoire Locale, qui offre des aperçus locaux fascinants. Passez l'après-midi à découvrir le jeu traditionnel de la bourle au Cercle Saint-Louis. Terminez votre journée en profitant de l'ambiance dynamique des Oldies racing."
       },
       "variants": {
         "rainy": {
@@ -144,7 +155,8 @@
             "de": "Starten Sie Ihren regnerischen Morgen am Rathaus mit einem robusten Regenschirm. Suchen Sie mittags im Heimatmuseum Schutz vor dem Nieselregen. Verbringen Sie den Nachmittag bei traditionellen Spielen in der Bourloire im Trockenen. Beenden Sie den feuchten Tag beim aufregenden Indoor-Kartfahren.",
             "hu": "Kezdje az esős reggelt a Városházánál egy stabil esernyővel. Délben húzódjon be a szitálás elől a fűtött helytörténeti múzeumba. A délutánt töltse a száraz Bourloire hagyományos játékaival. Zárja ezt a borongós napot egy izgalmas, fedett gokartozással, védve az esti záporoktól.",
             "ro": "Începeți dimineața ploioasă la Primărie cu o umbrelă rezistentă. La prânz, adăpostiți-vă de burniță în muzeul de istorie locală. Petreceți după-amiaza bucurându-vă de jocuri tradiționale la interior în Bourloire. Încheiați ziua umedă la adăpost, cu o sesiune de karting indoor.",
-            "en": "Start your rainy morning at the Town Hall with a sturdy umbrella. By midday, take refuge from the drizzle inside the local history museum. Spend your afternoon enjoying indoor traditional games at the Bourloire. Wrap up the damp day safely sheltered with high-speed indoor karting."
+            "en": "Start your rainy morning at the Town Hall with a sturdy umbrella. By midday, take refuge from the drizzle inside the local history museum. Spend your afternoon enjoying indoor traditional games at the Bourloire. Wrap up the damp day safely sheltered with high-speed indoor karting.",
+            "fr": "Commencez votre matinée pluvieuse à l'Hôtel de Ville avec un parapluie solide. À midi, refugiez-vous de la bruine à l'intérieur du musée d'histoire locale. Passez l'après-midi à profiter des jeux traditionnels couverts à la Bourloire. Terminez cette journée humide en toute sécurité abrité avec du karting intérieur à grande vitesse."
           },
           "stops": [
             {
@@ -152,13 +164,15 @@
                 "de": "Rathaus von Leers",
                 "hu": "Leers Városháza",
                 "ro": "Primăria Leers",
-                "en": "Leers Town Hall"
+                "en": "Leers Town Hall",
+                "fr": "Leers Town Hall"
               },
               "tip_5lang": {
                 "de": "Bewundern Sie die Fassade unter Ihrem Regenschirm; achten Sie auf die rutschigen Pflastersteine auf dem Platz bei Nässe.",
                 "hu": "Csodálja meg az épületet az esernyője alól; vigyázzon, mert a tér macskakövei nedves időben különösen csúszósak lehetnek.",
                 "ro": "Admirați fațada de sub umbrelă; aveți grijă la pietrele de pavaj alunecoase din piață în condiții de ploaie.",
-                "en": "Admire the beautiful facade from under your umbrella; be careful as the square's paving stones can be very slippery when wet."
+                "en": "Admire the beautiful facade from under your umbrella; be careful as the square's paving stones can be very slippery when wet.",
+                "fr": "Admirez la belle façade sous votre parapluie ; faites attention car les pavés de la place peuvent être très glissants quand ils sont mouillés."
               }
             },
             {
@@ -166,13 +180,15 @@
                 "de": "Windmühle von Leers",
                 "hu": "Leersi szélmalom",
                 "ro": "Moara de vânt din Leers",
-                "en": "Moulin à vent de Leers"
+                "en": "Moulin à vent de Leers",
+                "fr": "Moulin à vent de Leers"
               },
               "tip_5lang": {
                 "de": "Die Mühle wirkt im Regen dramatisch. Bleiben Sie auf dem befestigten Weg, um den schlammigen Rasen rundherum zu meiden.",
                 "hu": "A malom drámaian fest a szitáló esőben. Maradjon a kiépített ösvényen, hogy elkerülje a saras füves területeket.",
                 "ro": "Moara arată dramatic în ploaie. Rămâneți pe aleea pavată pentru a evita iarba noroioasă din jurul bazei.",
-                "en": "The windmill looks dramatic in the rain. Stick to the paved pathway to avoid the muddy grass surrounding the structure."
+                "en": "The windmill looks dramatic in the rain. Stick to the paved pathway to avoid the muddy grass surrounding the structure.",
+                "fr": "Le moulin a fière allure sous la pluie. Restez sur le chemin pavé pour éviter l'herbe boueuse entourant la structure."
               }
             },
             {
@@ -180,13 +196,15 @@
                 "de": "Heimatmuseum Guy Haquette",
                 "hu": "Guy Haquette Helytörténeti Múzeum",
                 "ro": "Muzeul de Istorie Locală Guy Haquette",
-                "en": "Musée d'Histoire Locale Guy Haquette"
+                "en": "Musée d'Histoire Locale Guy Haquette",
+                "fr": "Musée d'Histoire Locale Guy Haquette"
               },
               "tip_5lang": {
                 "de": "Ein perfekter Unterschlupf vor dem Platzregen; tauchen Sie in die lokale Geschichte ein, während Sie komplett trocken bleiben.",
                 "hu": "Tökéletes menedék a záporok elől; merüljön el a helyi történelemben, miközben teljesen szárazon és melegben marad.",
                 "ro": "Un adăpost perfect împotriva ploii; pătrundeți în istoria locală în timp ce rămâneți complet uscat și la căldură.",
-                "en": "A perfect shelter from the downpour; delve into fascinating local history while staying completely dry and warm inside."
+                "en": "A perfect shelter from the downpour; delve into fascinating local history while staying completely dry and warm inside.",
+                "fr": "Un abri parfait contre l'averse ; plongez dans l'histoire locale fascinante tout en restant complètement au sec et au chaud à l'intérieur."
               }
             },
             {
@@ -194,13 +212,15 @@
                 "de": "Bourloire du Cercle Saint-Louis",
                 "hu": "Bourloire du Cercle Saint-Louis",
                 "ro": "Bourloire du Cercle Saint-Louis",
-                "en": "Bourloire du Cercle Saint-Louis"
+                "en": "Bourloire du Cercle Saint-Louis",
+                "fr": "Bourloire du Cercle Saint-Louis"
               },
               "tip_5lang": {
                 "de": "Genießen Sie dieses traditionelle Indoor-Spiel abseits des Regens; ein großartiger Ort, um Ihren feuchten Mantel zu trocknen.",
                 "hu": "Élvezze ezt a hagyományos beltéri játékot az esőtől távol; kiváló hely, hogy egy kicsit megszáradjon a kabátja.",
                 "ro": "Bucurați-vă de acest joc tradițional la interior, departe de ploaie; un loc excelent pentru a vă usca haina umedă.",
-                "en": "Enjoy this traditional indoor game away from the rain; it is a fantastic spot to dry off your wet coat and relax."
+                "en": "Enjoy this traditional indoor game away from the rain; it is a fantastic spot to dry off your wet coat and relax.",
+                "fr": "Profitez de ce jeu traditionnel en intérieur à l'abri de la pluie ; c'est un endroit idéal pour faire sécher votre manteau humide et vous détendre."
               }
             },
             {
@@ -208,13 +228,15 @@
                 "de": "Oldies Racing",
                 "hu": "Oldies Racing",
                 "ro": "Oldies Racing",
-                "en": "Oldies racing"
+                "en": "Oldies racing",
+                "fr": "Oldies racing"
               },
               "tip_5lang": {
                 "de": "Beenden Sie den Tag mit rasanter Indoor-Spannung, sicher geschützt vor jeglichen abendlichen Regenschauern.",
                 "hu": "Zárja a napot egy izgalmas, nagy sebességű beltéri kalanddal, biztonságosan elzárva az esti esőzésektől.",
                 "ro": "Încheiați ziua cu entuziasmul curselor la interior, complet protejați de orice aversă de ploaie de seară.",
-                "en": "End the day with high-speed indoor excitement, safely sheltered from any persistent evening rain showers."
+                "en": "End the day with high-speed indoor excitement, safely sheltered from any persistent evening rain showers.",
+                "fr": "Terminez la journée avec des sensations fortes en intérieur, bien à l'abri de toute averse nocturne persistante."
               }
             }
           ]
@@ -224,7 +246,8 @@
             "de": "Beginnen Sie Ihren klaren Winterspaziergang am Rathaus in warmen Schichten. Genießen Sie die kühle Mittagsluft, bevor Sie sich ins gemütliche Museum zurückziehen. Der Nachmittag bietet traditionelle Indoor-Spiele. Beenden Sie die Tour früh und im Warmen, da die Sonne gegen 17:00 Uhr untergeht.",
             "hu": "Kezdje a friss téli sétát a Városházánál vastag, meleg rétegekbe öltözve. Élvezze a csípős déli levegőt, mielőtt a fűtött múzeumba menne. A délután hagyományos beltéri játékokkal telik. Zárja korán a napot a meleg gokartpályán, mivel 17:00 körül már sötétedik.",
             "ro": "Începeți plimbarea de iarnă la Primărie, îmbrăcați cu haine groase. Bucurați-vă de aerul rece la prânz înainte de a vă retrage în muzeul primitor. După-amiaza continuă cu jocuri la interior. Încheiați devreme la căldură, deoarece soarele apune în jur de ora 17:00.",
-            "en": "Begin your crisp winter walk at the Town Hall, wrapped in warm layers. Enjoy the chilly midday air before retreating into the cozy museum. The afternoon continues with traditional games to keep your spirits up. Conclude early indoors as the sun sets rapidly around 17:00."
+            "en": "Begin your crisp winter walk at the Town Hall, wrapped in warm layers. Enjoy the chilly midday air before retreating into the cozy museum. The afternoon continues with traditional games to keep your spirits up. Conclude early indoors as the sun sets rapidly around 17:00.",
+            "fr": "Commencez votre promenade hivernale revigorante à l'Hôtel de Ville, emmitouflé dans des couches chaudes. Profitez de l'air frais de la mi-journée avant de vous réfugier dans le musée douillet. L'après-midi continue avec des jeux traditionnels pour garder le moral. Concluez tôt à l'intérieur car le soleil disparaît rapidement vers 17:00."
           },
           "stops": [
             {
@@ -232,13 +255,15 @@
                 "de": "Rathaus von Leers",
                 "hu": "Leers Városháza",
                 "ro": "Primăria Leers",
-                "en": "Leers Town Hall"
+                "en": "Leers Town Hall",
+                "fr": "Leers Town Hall"
               },
               "tip_5lang": {
                 "de": "Das Zentrum wirkt im Winterlicht charmant; tragen Sie Handschuhe, da die Morgenluft hier besonders beißend sein kann.",
                 "hu": "A központ bájos a téli fényekben; viseljen meleg kesztyűt, mert a reggeli levegő itt különösen csípős lehet.",
                 "ro": "Centrul arată fermecător în lumina iernii; purtați mănuși, deoarece aerul dimineții poate fi destul de tăios.",
-                "en": "The civic center looks charming in winter light; wear thick gloves as the morning air can be quite biting in the square."
+                "en": "The civic center looks charming in winter light; wear thick gloves as the morning air can be quite biting in the square.",
+                "fr": "Le centre civique est charmant à la lumière hivernale ; portez des gants épais car l'air du matin peut être très mordant sur la place."
               }
             },
             {
@@ -246,13 +271,15 @@
                 "de": "Windmühle von Leers",
                 "hu": "Leersi szélmalom",
                 "ro": "Moara de vânt din Leers",
-                "en": "Moulin à vent de Leers"
+                "en": "Moulin à vent de Leers",
+                "fr": "Moulin à vent de Leers"
               },
               "tip_5lang": {
                 "de": "Winterwinde machen den Mühlenbereich extra kalt; packen Sie sich dick ein, wenn Sie für Fotos anhalten.",
                 "hu": "A téli szelek miatt a malom környéke extra hideg; öltözzön be alaposan, ha megáll néhány fényképet készíteni.",
                 "ro": "Vântul de iarnă face zona morii foarte rece; înfofoliți-vă bine dacă vă opriți pentru fotografii în aer liber.",
-                "en": "Winter winds make the mill area extra cold; bundle up tightly in your thickest layers if you pause for photographs."
+                "en": "Winter winds make the mill area extra cold; bundle up tightly in your thickest layers if you pause for photographs.",
+                "fr": "Les vents d'hiver rendent la zone du moulin particulièrement froide ; emmitouflez-vous dans vos couches les plus épaisses si vous vous arrêtez pour des photos."
               }
             },
             {
@@ -260,13 +287,15 @@
                 "de": "Heimatmuseum Guy Haquette",
                 "hu": "Guy Haquette Helytörténeti Múzeum",
                 "ro": "Muzeul de Istorie Locală Guy Haquette",
-                "en": "Musée d'Histoire Locale Guy Haquette"
+                "en": "Musée d'Histoire Locale Guy Haquette",
+                "fr": "Musée d'Histoire Locale Guy Haquette"
               },
               "tip_5lang": {
                 "de": "Wärmen Sie Ihre gefrorenen Finger im Inneren auf, während Sie die faszinierenden Ausstellungen der Vergangenheit von Leers erkunden.",
                 "hu": "Melegítse fel fagyos ujjait odabent, miközben Leers múltjának lenyűgöző kiállításait és emlékeit fedezi fel.",
                 "ro": "Încălziți-vă degetele înghețate la interior în timp ce explorați exponatele fascinante ale trecutului din Leers.",
-                "en": "Warm your frozen fingers inside the heated building while exploring the fascinating exhibits of Leers' rich past."
+                "en": "Warm your frozen fingers inside the heated building while exploring the fascinating exhibits of Leers' rich past.",
+                "fr": "Réchauffez vos doigts engourdis à l'intérieur du bâtiment chauffé tout en explorant les expositions fascinantes sur le riche passé de Leers."
               }
             },
             {
@@ -274,13 +303,15 @@
                 "de": "Bourloire du Cercle Saint-Louis",
                 "hu": "Bourloire du Cercle Saint-Louis",
                 "ro": "Bourloire du Cercle Saint-Louis",
-                "en": "Bourloire du Cercle Saint-Louis"
+                "en": "Bourloire du Cercle Saint-Louis",
+                "fr": "Bourloire du Cercle Saint-Louis"
               },
               "tip_5lang": {
                 "de": "Die angenehme Indoor-Umgebung bietet eine willkommene Pause von den eisigen Temperaturen draußen.",
                 "hu": "A kellemes beltéri környezet nagyszerű menedéket és szünetet biztosít a kinti fagyos hőmérséklet elől.",
                 "ro": "Mediul plăcut de la interior oferă o pauză binevenită de la temperaturile de îngheț de afară.",
-                "en": "The heated indoor environment offers a very pleasant and much-needed break from the freezing temperatures outside."
+                "en": "The heated indoor environment offers a very pleasant and much-needed break from the freezing temperatures outside.",
+                "fr": "L'espace intérieur chauffé offre une pause très agréable et bien nécessaire face aux températures glaciales extérieures."
               }
             },
             {
@@ -288,13 +319,15 @@
                 "de": "Oldies Racing",
                 "hu": "Oldies Racing",
                 "ro": "Oldies Racing",
-                "en": "Oldies racing"
+                "en": "Oldies racing",
+                "fr": "Oldies racing"
               },
               "tip_5lang": {
                 "de": "Heizen Sie Ihren Abend mit Indoor-Racing auf, perfekt getimt, da die Wintersonne bereits früh am Nachmittag verschwindet.",
                 "hu": "Dobja fel az estét ezzel a beltéri versenyzéssel, tökéletes időzítéssel, hiszen a téli nap már kora délután lebukik.",
                 "ro": "Încălziți-vă seara cu curse la interior, perfect programate deoarece soarele de iarnă dispare devreme.",
-                "en": "Heat up your evening with thrilling indoor racing, perfectly timed as the winter sun completely disappears early."
+                "en": "Heat up your evening with thrilling indoor racing, perfectly timed as the winter sun completely disappears early.",
+                "fr": "Réchauffez votre soirée avec des courses palpitantes en intérieur, parfaitement chronométrées alors que le soleil d'hiver disparaît tôt."
               }
             }
           ]
@@ -314,7 +347,8 @@
             "de": "Rathaus von Leers",
             "hu": "Leers Városháza",
             "ro": "Primăria Leers",
-            "en": "Leers Town Hall"
+            "en": "Leers Town Hall",
+            "fr": "Leers Town Hall"
           },
           "coords": [
             3.219528,
@@ -329,7 +363,8 @@
             "de": "Bewundern Sie die Architektur dieses zentralen Platzes und prüfen Sie die Anschlagtafeln auf bevorstehende lokale Veranstaltungen.",
             "hu": "Csodálja meg a központi csomópont polgári építészetét, és indulás előtt ellenőrizze a hirdetőtáblákon a közelgő helyi eseményeket.",
             "ro": "Admirați arhitectura civică a acestui punct central și verificați avizierele pentru evenimentele locale viitoare înainte de a pleca.",
-            "en": "Admire the civic architecture of this central hub, and check the notice boards for upcoming local events before walking further."
+            "en": "Admire the civic architecture of this central hub, and check the notice boards for upcoming local events before walking further.",
+            "fr": "Admirez l'architecture civique de ce centre névralgique et consultez les panneaux d'affichage pour les événements locaux à venir avant de poursuivre votre visite."
           }
         },
         {
@@ -337,7 +372,8 @@
             "de": "Windmühle von Leers",
             "hu": "Leersi szélmalom",
             "ro": "Moara de vânt din Leers",
-            "en": "Moulin à vent de Leers"
+            "en": "Moulin à vent de Leers",
+            "fr": "Moulin à vent de Leers"
           },
           "coords": [
             3.231153,
@@ -352,7 +388,8 @@
             "de": "Fotografieren Sie diese wunderschön erhaltene traditionelle Windmühle, die an Wochenenden oft für die Öffentlichkeit zugänglich ist.",
             "hu": "Fotózza le ezt a gyönyörűen megőrzött hagyományos szélmalmot, és próbáljon hétvégén érkezni, amikor a belső tér is látogatható.",
             "ro": "Fotografiați această moară de vânt tradițională frumos conservată, vizitând-o la sfârșit de săptămână când interiorul este deschis.",
-            "en": "Snap a photo of this beautifully preserved traditional windmill, remembering to visit on weekends when the interior is occasionally open to the public."
+            "en": "Snap a photo of this beautifully preserved traditional windmill, remembering to visit on weekends when the interior is occasionally open to the public.",
+            "fr": "Prenez une photo de ce moulin à vent traditionnel magnifiquement préservé, en pensant à le visiter le week-end lorsque l'intérieur est parfois ouvert au public."
           }
         },
         {
@@ -360,7 +397,8 @@
             "de": "Heimatmuseum Guy Haquette",
             "hu": "Guy Haquette Helytörténeti Múzeum",
             "ro": "Muzeul de Istorie Locală Guy Haquette",
-            "en": "Musée d'Histoire Locale Guy Haquette"
+            "en": "Musée d'Histoire Locale Guy Haquette",
+            "fr": "Musée d'Histoire Locale Guy Haquette"
           },
           "coords": [
             3.236283,
@@ -375,7 +413,8 @@
             "de": "Entdecken Sie faszinierende ländliche Artefakte, aber überprüfen Sie unbedingt die saisonalen Öffnungszeiten, da diese stark variieren.",
             "hu": "Fedezze fel a lenyűgöző vidéki örökség tárgyait, de előtte feltétlenül ellenőrizze a szezonális és változó nyitvatartási időket.",
             "ro": "Explorați artefactele fascinante ale patrimoniului rural, dar asigurați-vă că verificați programul de funcționare sezonier care variază.",
-            "en": "Explore fascinating rural heritage artifacts, but ensure you confirm the seasonal opening hours as they vary greatly throughout the year."
+            "en": "Explore fascinating rural heritage artifacts, but ensure you confirm the seasonal opening hours as they vary greatly throughout the year.",
+            "fr": "Explorez des artefacts ruraux fascinants, mais assurez-vous de confirmer les heures d'ouverture saisonnières car elles varient beaucoup au cours de l'année."
           }
         },
         {
@@ -383,7 +422,8 @@
             "de": "Bourloire du Cercle Saint-Louis",
             "hu": "Bourloire du Cercle Saint-Louis",
             "ro": "Bourloire du Cercle Saint-Louis",
-            "en": "Bourloire du Cercle Saint-Louis"
+            "en": "Bourloire du Cercle Saint-Louis",
+            "fr": "Bourloire du Cercle Saint-Louis"
           },
           "coords": [
             3.248547,
@@ -398,7 +438,8 @@
             "de": "Erleben Sie das einzigartige flämische Bourle-Spiel auf der gebogenen Bahn und lassen Sie sich von Einheimischen die Regeln erklären.",
             "hu": "Próbálja ki az egyedülálló flamand bourle játékot az ívelt pályán, és kérjen meg egy helyi tagot, hogy magyarázza el a pontozási szabályokat.",
             "ro": "Experimentați jocul tradițional flamand de bourle pe o pistă curbată și rugați un localnic să vă explice regulile complexe de punctare.",
-            "en": "Experience the unique traditional Flemish game of bourle on a curved track, and ask a local member to explain the complex scoring rules."
+            "en": "Experience the unique traditional Flemish game of bourle on a curved track, and ask a local member to explain the complex scoring rules.",
+            "fr": "Vivez le jeu traditionnel flamand unique de la bourle sur une piste courbe et demandez à un membre local d'expliquer les règles de comptage complexes."
           }
         },
         {
@@ -406,7 +447,8 @@
             "de": "Kirche Saint-Vaast",
             "hu": "Saint-Vaast Templom",
             "ro": "Biserica Saint-Vaast",
-            "en": "Saint-Vaast Church"
+            "en": "Saint-Vaast Church",
+            "fr": "Saint-Vaast Church"
           },
           "coords": [
             3.27335,
@@ -421,7 +463,8 @@
             "de": "Bewundern Sie die wunderschönen Buntglasfenster dieser grenzüberschreitenden Kirche, während Sie die laufenden Gottesdienste respektieren.",
             "hu": "Csodálja meg ennek a határon átnyúló templomnak a gyönyörű ólomüvegét, tiszteletben tartva a folyamatban lévő csendes istentiszteleteket.",
             "ro": "Admirați vitraliile frumoase și ambianța liniștită a acestei biserici transfrontaliere, respectând slujbele silențioase aflate în desfășurare.",
-            "en": "Marvel at the beautiful stained glass and peaceful ambiance of this cross-border church, keeping in mind to respect ongoing quiet services."
+            "en": "Marvel at the beautiful stained glass and peaceful ambiance of this cross-border church, keeping in mind to respect ongoing quiet services.",
+            "fr": "Admirez les beaux vitraux et l'ambiance paisible de cette église transfrontalière, en respectant les offices en cours."
           }
         },
         {
@@ -429,7 +472,8 @@
             "de": "Ruinen der Burg Royère",
             "hu": "Royère kastély romjai",
             "ro": "Ruinele castelului Royère",
-            "en": "Ruines du château de la Royère"
+            "en": "Ruines du château de la Royère",
+            "fr": "Ruines du château de la Royère"
           },
           "coords": [
             3.275826,
@@ -444,7 +488,8 @@
             "de": "Spazieren Sie durch die mittelalterlichen Ruinen dieser einstigen Festung und tragen Sie festes Schuhwerk für die unebenen Steinwege.",
             "hu": "Sétáljon az egykor hatalmas erődítmény középkori romjai között, és viseljen masszív cipőt az egyenetlen, ősi kőösvényeken való haladáshoz.",
             "ro": "Plimbați-vă printre ruinele medievale ale acestei foste fortărețe, purtând încălțăminte robustă pentru a naviga pe aleile pietruite denivelate.",
-            "en": "Walk among the evocative medieval ruins of this once-grand fortress, wearing sturdy shoes to navigate the uneven and ancient stone pathways."
+            "en": "Walk among the evocative medieval ruins of this once-grand fortress, wearing sturdy shoes to navigate the uneven and ancient stone pathways.",
+            "fr": "Promenez-vous parmi les ruines médiévales évocatrices de cette forteresse autrefois grandiose, en portant des chaussures solides pour naviguer sur les chemins de pierre inégaux et anciens."
           }
         },
         {
@@ -452,7 +497,8 @@
             "de": "Oldies Racing",
             "hu": "Oldies Racing",
             "ro": "Oldies Racing",
-            "en": "Oldies racing"
+            "en": "Oldies racing",
+            "fr": "Oldies racing"
           },
           "coords": [
             3.239175,
@@ -467,7 +513,8 @@
             "de": "Genießen Sie die nostalgische Atmosphäre klassischer Rennveranstaltungen und kommen Sie früh, um sich einen guten Aussichtspunkt zu sichern.",
             "hu": "Élvezze a klasszikus versenyek nosztalgikus hangulatát, és érkezzen korán, hogy jó kilátást biztosítson magának a rajtvonal közelében.",
             "ro": "Bucurați-vă de atmosfera nostalgică a curselor clasice, asigurându-vă că ajungeți devreme pentru a prinde un loc bun lângă linia de start.",
-            "en": "Enjoy the nostalgic atmosphere of classic racing events, making sure to arrive early to secure a good viewing spot near the starting line."
+            "en": "Enjoy the nostalgic atmosphere of classic racing events, making sure to arrive early to secure a good viewing spot near the starting line.",
+            "fr": "Profitez de l'atmosphère nostalgique des événements de courses anciennes, en arrivant tôt pour sécuriser un bon emplacement près de la ligne de départ."
           }
         }
       ],
@@ -475,7 +522,8 @@
         "de": "Ihre Radtour beginnt im Herzen von Leers am Rathaus und der charmanten Windmühle. Mittags erkunden Sie das lokale Erbe im Museum und die historische Bourloire du Cercle Saint-Louis. Radeln Sie am Nachmittag über die Grenze zur Kirche Saint-Vaast und den Ruinen der Burg Royère. Beenden Sie Ihre Fahrt beim Oldies Racing und belohnen Sie sich nach einem aktiven Tag.",
         "hu": "Kerékpártúrája Leers szívében, a Városházánál és a bájos szélmalomnál kezdődik. A nap közepén a múzeum és a történelmi Bourloire du Cercle Saint-Louis kínál kulturális élményeket. Délután tekerjen át a határon, hogy megcsodálja a Saint-Vaast templomot és a Royère kastély romjait. Fejezze be túráját az Oldies racingnél, megpihenve egy aktív és felfedezésekkel teli nap után.",
         "ro": "Turul cu bicicleta începe în inima orașului Leers, la Primărie și fermecătoarea moară de vânt. Prânzul vă aduce la muzeu și la istorica Bourloire du Cercle Saint-Louis. După-amiaza, pedalați peste graniță pentru a admira Biserica Saint-Vaast și ruinele Castelului Royère. Încheiați-vă plimbarea la Oldies racing, relaxându-vă după o zi plină de explorări.",
-        "en": "Your cycling tour begins in the heart of Leers at the Town Hall and the charming windmill. Midday takes you through local heritage at the museum and the historic Bourloire du Cercle Saint-Louis. In the afternoon, pedal across the border to admire Saint-Vaast Church and the evocative ruins of Royère Castle. Conclude your ride at Oldies racing, rewarding yourself after a day of exploration."
+        "en": "Your cycling tour begins in the heart of Leers at the Town Hall and the charming windmill. Midday takes you through local heritage at the museum and the historic Bourloire du Cercle Saint-Louis. In the afternoon, pedal across the border to admire Saint-Vaast Church and the evocative ruins of Royère Castle. Conclude your ride at Oldies racing, rewarding yourself after a day of exploration.",
+        "fr": "Votre circuit à vélo commence au cœur de Leers à l'Hôtel de Ville et à l'attachant moulin à vent. À midi, parcourez le patrimoine local au musée et à la Bourloire du Cercle Saint-Louis. L'après-midi, pédalez de l'autre côté de la frontière pour admirer l'église Saint-Vaast et les ruines évocatrices du château de la Royère. Concluez votre sortie aux Oldies racing pour vous récompenser après une journée d'exploration."
       },
       "variants": {
         "rainy": {
@@ -483,7 +531,8 @@
             "de": "Rüsten Sie sich mit wasserdichter Kleidung für eine nasse Morgenfahrt. Mittags bietet das Museum Schutz vor dem Regen. Navigieren Sie nachmittags vorsichtig über die rutschigen Wege zur Kirche und Burgruine. Beenden Sie den tristen Tag im Warmen auf der Indoor-Bahn.",
             "hu": "Öltözzön vízálló kerékpáros felszerelésbe a nedves reggeli túrához. Délben a múzeum nyújt menedéket. Délután óvatosan navigáljon a csúszós utakon a templomhoz és a romokhoz. Zárja a borongós napot a száraz, fedett gokartpályán.",
             "ro": "Echipați-vă cu haine impermeabile pentru o cursă matinală umedă. La prânz, muzeul oferă adăpost împotriva ploii. Navigați cu prudență pe drumurile alunecoase de după-amiază spre biserică și ruine. Terminați ziua la interior pe pista uscată.",
-            "en": "Equip yourself with waterproof cycling gear for a wet morning ride. Midday offers museum shelter from the rain. Navigate the slick afternoon paths to the church and castle ruins with caution. Finish the dreary day warmly at the indoor track."
+            "en": "Equip yourself with waterproof cycling gear for a wet morning ride. Midday offers museum shelter from the rain. Navigate the slick afternoon paths to the church and castle ruins with caution. Finish the dreary day warmly at the indoor track.",
+            "fr": "Équipez-vous d'un équipement de vélo imperméable pour une matinée humide. À midi, le musée offre un abri contre la pluie. Naviguez prudemment sur les chemins glissants de l'après-midi jusqu'à l'église et aux ruines du château. Terminez la journée morne au chaud sur la piste intérieure."
           },
           "stops": [
             {
@@ -491,13 +540,15 @@
                 "de": "Rathaus von Leers",
                 "hu": "Leers Városháza",
                 "ro": "Primăria Leers",
-                "en": "Leers Town Hall"
+                "en": "Leers Town Hall",
+                "fr": "Leers Town Hall"
               },
               "tip_5lang": {
                 "de": "Halten Sie Ihre Regenjacke geschlossen; die Steine des Platzes können unter Ihren Fahrradreifen extrem glatt sein.",
                 "hu": "Húzza fel a cipzárt az esőkabáton; a tér kövei nagyon csúszósak lehetnek a kerékpár gumiabroncsai alatt.",
                 "ro": "Țineți geaca de ploaie închisă; pietrele pieței pot fi foarte alunecoase sub anvelopele bicicletei.",
-                "en": "Keep your rain jacket fully zipped up; the square's paving stones can be extremely slick under your bike tires."
+                "en": "Keep your rain jacket fully zipped up; the square's paving stones can be extremely slick under your bike tires.",
+                "fr": "Gardez votre veste de pluie entièrement zippée ; les pavés de la place peuvent être extrêmement glissants sous vos pneus de vélo."
               }
             },
             {
@@ -505,13 +556,15 @@
                 "de": "Windmühle von Leers",
                 "hu": "Leersi szélmalom",
                 "ro": "Moara de vânt din Leers",
-                "en": "Moulin à vent de Leers"
+                "en": "Moulin à vent de Leers",
+                "fr": "Moulin à vent de Leers"
               },
               "tip_5lang": {
                 "de": "Machen Sie ein schnelles Foto im Nieselregen und achten Sie auf schlammige Stellen rund um den Sockel der Mühle.",
                 "hu": "Készítsen egy gyors fotót a szitáló esőben, és nagyon ügyeljen a malom alapja körüli saras, csúszós foltokra.",
                 "ro": "Faceți o fotografie rapidă în burniță și aveți grijă la porțiunile noroioase din jurul bazei morii.",
-                "en": "Snap a quick photograph in the drizzle and beware of the deep muddy patches right around the base of the mill."
+                "en": "Snap a quick photograph in the drizzle and beware of the deep muddy patches right around the base of the mill.",
+                "fr": "Prenez une photo rapide sous la bruine et méfiez-vous des grosses flaques de boue juste autour de la base du moulin."
               }
             },
             {
@@ -519,13 +572,15 @@
                 "de": "Heimatmuseum Guy Haquette",
                 "hu": "Guy Haquette Helytörténeti Múzeum",
                 "ro": "Muzeul de Istorie Locală Guy Haquette",
-                "en": "Musée d'Histoire Locale Guy Haquette"
+                "en": "Musée d'Histoire Locale Guy Haquette",
+                "fr": "Musée d'Histoire Locale Guy Haquette"
               },
               "tip_5lang": {
                 "de": "Schließen Sie Ihr Rad regengeschützt ab und genießen Sie es, im Trockenen die lokale Geschichte kennenzulernen.",
                 "hu": "Zárja le a kerékpárját egy fedett helyen, és élvezze, ahogy megszárad, miközben a helyi örökséget tanulmányozza.",
                 "ro": "Legați bicicleta sub cel mai apropiat acoperiș și bucurați-vă de uscare în timp ce explorați patrimoniul local.",
-                "en": "Lock your bike under the nearest cover and enjoy drying off properly while exploring fascinating local heritage."
+                "en": "Lock your bike under the nearest cover and enjoy drying off properly while exploring fascinating local heritage.",
+                "fr": "Accrochez votre vélo sous le premier abri et profitez de vous sécher correctement tout en explorant le patrimoine local fascinant."
               }
             },
             {
@@ -533,13 +588,15 @@
                 "de": "Bourloire du Cercle Saint-Louis",
                 "hu": "Bourloire du Cercle Saint-Louis",
                 "ro": "Bourloire du Cercle Saint-Louis",
-                "en": "Bourloire du Cercle Saint-Louis"
+                "en": "Bourloire du Cercle Saint-Louis",
+                "fr": "Bourloire du Cercle Saint-Louis"
               },
               "tip_5lang": {
                 "de": "Eine willkommene Indoor-Pause auf Ihrer regnerischen Fahrt; trocknen Sie Ihre Ausrüstung bei lokaler Kultur.",
                 "hu": "Kellemes beltéri pihenő az esős túrán; szárítsa meg a felszerelését, miközben belekóstol a helyi kultúrába.",
                 "ro": "O pauză binevenită la interior în timpul cursei ploioase; uscați-vă echipamentul în timp ce experimentați cultura locală.",
-                "en": "A highly welcome indoor pause on your rainy ride; dry your cycling gear while experiencing authentic local culture."
+                "en": "A highly welcome indoor pause on your rainy ride; dry your cycling gear while experiencing authentic local culture.",
+                "fr": "Une pause en intérieur très bienvenue lors de votre balade pluvieuse ; faites sécher votre équipement cycliste tout en découvrant une authentique culture locale."
               }
             },
             {
@@ -547,13 +604,15 @@
                 "de": "Kirche Saint-Vaast",
                 "hu": "Saint-Vaast Templom",
                 "ro": "Biserica Saint-Vaast",
-                "en": "Saint-Vaast Church"
+                "en": "Saint-Vaast Church",
+                "fr": "Saint-Vaast Church"
               },
               "tip_5lang": {
                 "de": "Suchen Sie kurzzeitig Zuflucht im Inneren der Kirche, falls der Regen während Ihrer Nachmittagsfahrt stärker wird.",
                 "hu": "Keressen rövid menedéket a templom belsejében, ha a délutáni tekerés során hirtelen felerősödik az eső.",
                 "ro": "Căutați un scurt refugiu în interiorul bisericii dacă ploaia se intensifică în timpul cursei de după-amiază.",
-                "en": "Seek a brief, quiet refuge inside the historic church if the heavy rain intensifies during your afternoon ride."
+                "en": "Seek a brief, quiet refuge inside the historic church if the heavy rain intensifies during your afternoon ride.",
+                "fr": "Cherchez un bref refuge calme à l'intérieur de l'église historique si la forte pluie s'intensifie pendant votre sortie de l'après-midi."
               }
             },
             {
@@ -561,13 +620,15 @@
                 "de": "Ruinen der Burg Royère",
                 "hu": "Royère kastély romjai",
                 "ro": "Ruinele castelului Royère",
-                "en": "Ruines du château de la Royère"
+                "en": "Ruines du château de la Royère",
+                "fr": "Ruines du château de la Royère"
               },
               "tip_5lang": {
                 "de": "Die Ruinen sind bei Regen sehr atmosphärisch, aber radeln Sie vorsichtig, da der Zugangsweg tief verschlammt sein kann.",
                 "hu": "A romok nagyon hangulatosak esőben, de tekerjen óvatosan, mert a megközelítési útvonal nagyon saras lehet.",
                 "ro": "Ruinele sunt pline de atmosferă pe ploaie, dar pedalați cu grijă, deoarece drumul de acces poate fi foarte noroios.",
-                "en": "The ruins are incredibly atmospheric in the rain, but cycle carefully as the approach path can become very muddy."
+                "en": "The ruins are incredibly atmospheric in the rain, but cycle carefully as the approach path can become very muddy.",
+                "fr": "Les ruines sont incroyablement atmosphériques sous la pluie, mais roulez prudemment car le chemin d'accès peut devenir très boueux."
               }
             },
             {
@@ -575,13 +636,15 @@
                 "de": "Oldies Racing",
                 "hu": "Oldies Racing",
                 "ro": "Oldies Racing",
-                "en": "Oldies racing"
+                "en": "Oldies racing",
+                "fr": "Courses Oldies"
               },
               "tip_5lang": {
                 "de": "Lassen Sie das nasse Fahrrad stehen und verbringen Sie einen völlig überdachten Abend mit aufregendem Indoor-Racing.",
                 "hu": "Hagyja hátra a nedves kerékpárt, és töltsön el egy teljesen fedett, izgalmas estét a beltéri versenypályán.",
                 "ro": "Lăsați bicicleta udă în urmă pentru o seară de curse captivante la interior, complet feriți de intemperii.",
-                "en": "Leave your wet bicycle safely parked outside for an entire evening of thrilling, fully sheltered indoor racing."
+                "en": "Leave your wet bicycle safely parked outside for an entire evening of thrilling, fully sheltered indoor racing.",
+                "fr": "Laissez votre vélo mouillé en toute sécurité à l’extérieur pendant toute une soirée de courses intérieures palpitantes et entièrement abritées."
               }
             }
           ]
@@ -591,7 +654,8 @@
             "de": "Kleiden Sie sich in Thermoschichten für einen frostigen Radmorgen. Wärmen Sie sich mittags im Museum auf. Die Nachmittagsfahrt zur Burgruine erfordert wegen Eisflächen Vorsicht. Beenden Sie die Tour früh auf der Indoor-Bahn, bevor es um 17:00 Uhr dunkel wird.",
             "hu": "Öltözzön termoruházatba a csípős téli kerékpározáshoz. Délben melegedjen fel a múzeumban. A délutáni út a romokhoz különös óvatosságot igényel a jeges foltok miatt. Zárja a napot korán a fedett pályán, mielőtt 17:00-kor leszáll az éj.",
             "ro": "Îmbrăcați-vă cu haine termice pentru o dimineață rece de ciclism. Încălziți-vă la prânz în muzeul local. Cursa de după-amiază spre ruine necesită atenție din cauza zonelor cu gheață. Terminați devreme la pista de interior înainte de ora 17:00.",
-            "en": "Dress in thermal layers for a brisk winter cycling morning. Warm up midday inside the local museum. The afternoon ride to the church and ruins requires caution due to icy patches. Finish early at the indoor track before darkness falls at 17:00."
+            "en": "Dress in thermal layers for a brisk winter cycling morning. Warm up midday inside the local museum. The afternoon ride to the church and ruins requires caution due to icy patches. Finish early at the indoor track before darkness falls at 17:00.",
+            "fr": "Habillez-vous en couches thermiques pour une matinée de vélo hivernale fraîche. Réchauffez-vous à midi à l’intérieur du musée local. La sortie de l’après‑midi vers l’église et les ruines exige de la prudence à cause des plaques de verglas. Terminez tôt à la piste couverte avant la tombée de la nuit à 17:00."
           },
           "stops": [
             {
@@ -599,13 +663,15 @@
                 "de": "Rathaus von Leers",
                 "hu": "Leers Városháza",
                 "ro": "Primăria Leers",
-                "en": "Leers Town Hall"
+                "en": "Leers Town Hall",
+                "fr": "Hôtel de ville de Leers"
               },
               "tip_5lang": {
                 "de": "Starten Sie hier Ihre frostige Fahrt; stellen Sie sicher, dass Ihre Fahrradlichter für den trüben Wintermorgen funktionieren.",
                 "hu": "Itt kezdje a fagyos túrát; mindenképpen ellenőrizze, hogy a kerékpár lámpái működnek-e a sötét téli reggelen.",
                 "ro": "Începeți cursa rece aici; asigurați-vă că luminile bicicletei funcționează perfect pentru dimineața întunecată de iarnă.",
-                "en": "Start your chilly ride right here; make strictly sure your bike lights are working for the gloomy winter morning."
+                "en": "Start your chilly ride right here; make strictly sure your bike lights are working for the gloomy winter morning.",
+                "fr": "Commencez votre balade fraîche ici ; assurez‑vous strictement que vos éclairages de vélo fonctionnent pour la morne matinée d’hiver."
               }
             },
             {
@@ -613,13 +679,15 @@
                 "de": "Windmühle von Leers",
                 "hu": "Leersi szélmalom",
                 "ro": "Moara de vânt din Leers",
-                "en": "Moulin à vent de Leers"
+                "en": "Moulin à vent de Leers",
+                "fr": "Moulin à vent de Leers"
               },
               "tip_5lang": {
                 "de": "Die Winterböen können stark sein; steigen Sie sicherheitshalber ab, wenn der Wind das Radfahren hier erschwert.",
                 "hu": "A téli széllökések erősek lehetnek; biztonságosan szálljon le a nyeregből, ha a szél megnehezíti a kerékpározást.",
                 "ro": "Rafalele de iarnă pot fi puternice; descălecați în siguranță dacă vântul face ciclismul dificil în această zonă deschisă.",
-                "en": "The winter gusts can be quite strong here; simply dismount safely if the harsh wind makes cycling too difficult."
+                "en": "The winter gusts can be quite strong here; simply dismount safely if the harsh wind makes cycling too difficult.",
+                "fr": "Les rafales hivernales peuvent être assez fortes ici ; descendez simplement de vélo en toute sécurité si le vent violent rend la conduite trop difficile."
               }
             },
             {
@@ -627,13 +695,15 @@
                 "de": "Heimatmuseum Guy Haquette",
                 "hu": "Guy Haquette Helytörténeti Múzeum",
                 "ro": "Muzeul de Istorie Locală Guy Haquette",
-                "en": "Musée d'Histoire Locale Guy Haquette"
+                "en": "Musée d'Histoire Locale Guy Haquette",
+                "fr": "Musée d'Histoire Locale Guy Haquette"
               },
               "tip_5lang": {
                 "de": "Ein perfekter Ort, um Zehen und Finger aufzutauen, während Sie die faszinierende regionale Geschichte aufnehmen.",
                 "hu": "Tökéletes hely arra, hogy kiolvassza a lábujjait és az ujjait, miközben magába szívja a lenyűgöző regionális történelmet.",
                 "ro": "Un loc perfect pentru a vă dezgheța degetele de la mâini și picioare în timp ce asimilați istoria regională fascinantă.",
-                "en": "A completely perfect place to thaw your frozen toes and fingers while quietly absorbing fascinating regional history."
+                "en": "A completely perfect place to thaw your frozen toes and fingers while quietly absorbing fascinating regional history.",
+                "fr": "Un endroit parfait pour faire décongeler vos orteils et doigts gelés tout en absorbant tranquillement l’histoire régionale fascinante."
               }
             },
             {
@@ -641,13 +711,15 @@
                 "de": "Bourloire du Cercle Saint-Louis",
                 "hu": "Bourloire du Cercle Saint-Louis",
                 "ro": "Bourloire du Cercle Saint-Louis",
-                "en": "Bourloire du Cercle Saint-Louis"
+                "en": "Bourloire du Cercle Saint-Louis",
+                "fr": "Bourloire du Cercle Saint‑Louis"
               },
               "tip_5lang": {
                 "de": "Treten Sie ein, um dem eisigen Fahrtwind zu entkommen und eine herzerwärmende traditionelle Aktivität zu genießen.",
                 "hu": "Lépjen be, hogy elmeneküljön a fagyos menetszél elől, és élvezzen egy szívet melengető, hagyományos beltéri játékot.",
                 "ro": "Pășiți înăuntru pentru a scăpa de vântul înghețat și pentru a vă bucura de o activitate tradițională reconfortantă.",
-                "en": "Step inside to immediately escape the freezing wind and enjoy a wonderfully traditional, heartwarming indoor activity."
+                "en": "Step inside to immediately escape the freezing wind and enjoy a wonderfully traditional, heartwarming indoor activity.",
+                "fr": "Entrez pour échapper immédiatement au vent glacial et profiter d’une activité intérieure traditionnelle et réconfortante."
               }
             },
             {
@@ -655,13 +727,15 @@
                 "de": "Kirche Saint-Vaast",
                 "hu": "Saint-Vaast Templom",
                 "ro": "Biserica Saint-Vaast",
-                "en": "Saint-Vaast Church"
+                "en": "Saint-Vaast Church",
+                "fr": "Église Saint‑Vaast"
               },
               "tip_5lang": {
                 "de": "Die Kirche bietet einen ruhigen, windgeschützten Moment zum Ausruhen, bevor Sie die kalte Fahrt wieder aufnehmen.",
                 "hu": "A templom csendes, szélvédett pillanatot nyújt a pihenésre, mielőtt újra nekivágna a hideg kerékpározásnak.",
                 "ro": "Biserica oferă un moment liniștit și ferit de vânt pentru a vă odihni înainte de a relua cursa rece.",
-                "en": "The church perfectly offers a quiet, sheltered moment to fully rest before tackling the harsh cold ride once again."
+                "en": "The church perfectly offers a quiet, sheltered moment to fully rest before tackling the harsh cold ride once again.",
+                "fr": "L’église offre un moment calme et abrité pour se reposer pleinement avant d’affronter à nouveau le froid rigoureux."
               }
             },
             {
@@ -669,13 +743,15 @@
                 "de": "Ruinen der Burg Royère",
                 "hu": "Royère kastély romjai",
                 "ro": "Ruinele castelului Royère",
-                "en": "Ruines du château de la Royère"
+                "en": "Ruines du château de la Royère",
+                "fr": "Ruines du château de la Royère"
               },
               "tip_5lang": {
                 "de": "Achten Sie auf versteckte Eisflächen auf dem Weg zu den Ruinen, besonders wenn es am Nachmittag stark abkühlt.",
                 "hu": "Figyeljen a rejtett jégfoltokra a romokhoz vezető úton, különösen, ahogy a délután egyre hűvösebbé válik.",
                 "ro": "Atenție la porțiunile ascunse de gheață pe drumul spre ruine, mai ales când după-amiaza devine tot mai rece.",
-                "en": "Watch very closely for hidden black ice patches on the path to the ruins, especially as the afternoon rapidly cools down."
+                "en": "Watch very closely for hidden black ice patches on the path to the ruins, especially as the afternoon rapidly cools down.",
+                "fr": "Surveillez attentivement les plaques de verglas cachées sur le chemin menant aux ruines, surtout lorsque l’après‑midi se refroidit rapidement."
               }
             },
             {
@@ -683,13 +759,15 @@
                 "de": "Oldies Racing",
                 "hu": "Oldies Racing",
                 "ro": "Oldies Racing",
-                "en": "Oldies racing"
+                "en": "Oldies racing",
+                "fr": "Courses Oldies"
               },
               "tip_5lang": {
                 "de": "Rennen Sie drinnen, um das Adrenalin am Pumpen zu halten, da der Winterabend schnell dunkel und bitterkalt wird.",
                 "hu": "Versenyezzen beltéren, hogy pumpáljon az adrenalin, hiszen a téli este gyorsan sötétté és keservesen hideggé válik.",
                 "ro": "Concurați la interior pentru a menține adrenalina ridicată, deoarece seara de iarnă devine rapid întunecată și foarte rece.",
-                "en": "Race indoors to keep the adrenaline actively pumping as the winter evening rapidly turns totally dark and bitterly cold."
+                "en": "Race indoors to keep the adrenaline actively pumping as the winter evening rapidly turns totally dark and bitterly cold.",
+                "fr": "Courez à l’intérieur pour maintenir l’adrénaline alors que la soirée d’hiver devient rapidement sombre et âpre."
               }
             }
           ]
@@ -709,7 +787,8 @@
             "de": "Roubaix Kanal",
             "hu": "Roubaix Csatorna",
             "ro": "Canalul Roubaix",
-            "en": "Roubaix Canal"
+            "en": "Roubaix Canal",
+            "fr": "Canal de Roubaix"
           },
           "coords": [
             3.122778,
@@ -724,7 +803,8 @@
             "de": "Machen Sie einen erfrischenden Morgenspaziergang entlang der ruhigen Wasserwege und achten Sie auf Wasservögel und vorbeifahrende Radfahrer.",
             "hu": "Tegyen egy frissítő reggeli sétát a nyugodt víziutak mentén, figyelve a helyi vízimadarakat és az elhaladó kerékpárosokat a vontatóúton.",
             "ro": "Faceți o plimbare răcoritoare de dimineață de-a lungul cursurilor de apă liniștite, fiind atenți la păsările de apă și bicicliștii în trecere.",
-            "en": "Take a refreshing morning stroll along the tranquil waterways, keeping an eye out for local waterfowl and passing cyclists on the towpath."
+            "en": "Take a refreshing morning stroll along the tranquil waterways, keeping an eye out for local waterfowl and passing cyclists on the towpath.",
+            "fr": "Faites une promenade matinale revigorante le long des voies tranquilles en guettant la faune aquatique locale et les cyclistes qui passent sur le halage."
           }
         },
         {
@@ -732,7 +812,8 @@
             "de": "Bourloire Saint-Eloi",
             "hu": "Bourloire Saint-Eloi",
             "ro": "Bourloire Saint-Eloi",
-            "en": "Bourloire Saint-Eloi"
+            "en": "Bourloire Saint-Eloi",
+            "fr": "Bourloire Saint‑Éloi"
           },
           "coords": [
             3.147692,
@@ -747,7 +828,8 @@
             "de": "Tauchen Sie an dieser historischen Bourle-Stätte tiefer in die Kultur ein, wo ein Getränk an der angrenzenden Bar das Erlebnis abrundet.",
             "hu": "Merüljön el a regionális kultúrában ezen a történelmi bourle helyszínen, ahol egy gyors ital a szomszédos bárban fokozza a helyi élményt.",
             "ro": "Aprofundați cultura regională la acest site istoric de bourle, unde o băutură rapidă la barul adiacent îmbunătățește experiența locală.",
-            "en": "Dive deeper into regional culture at this historic bourle site, where grabbing a quick drink at the adjacent bar enhances the local experience."
+            "en": "Dive deeper into regional culture at this historic bourle site, where grabbing a quick drink at the adjacent bar enhances the local experience.",
+            "fr": "Plongez plus profondément dans la culture régionale à ce site bourloire historique, où prendre un verre rapide au bar voisin enrichit l’expérience locale."
           }
         },
         {
@@ -755,7 +837,8 @@
             "de": "Rathaus von Leers",
             "hu": "Leers Városháza",
             "ro": "Primăria Leers",
-            "en": "Leers Town Hall"
+            "en": "Leers Town Hall",
+            "fr": "Hôtel de ville de Leers"
           },
           "coords": [
             3.219528,
@@ -770,7 +853,8 @@
             "de": "Bewundern Sie die Architektur dieses zentralen Platzes und prüfen Sie die Anschlagtafeln auf bevorstehende lokale Veranstaltungen.",
             "hu": "Csodálja meg a központi csomópont polgári építészetét, és indulás előtt ellenőrizze a hirdetőtáblákon a közelgő helyi eseményeket.",
             "ro": "Admirați arhitectura civică a acestui punct central și verificați avizierele pentru evenimentele locale viitoare înainte de a pleca.",
-            "en": "Admire the civic architecture of this central hub, and check the notice boards for upcoming local events before walking further."
+            "en": "Admire the civic architecture of this central hub, and check the notice boards for upcoming local events before walking further.",
+            "fr": "Admirez l’architecture civique de ce centre névralgique et consultez les panneaux d’affichage pour les événements locaux avant de poursuivre votre promenade."
           }
         },
         {
@@ -778,7 +862,8 @@
             "de": "Heimatmuseum Guy Haquette",
             "hu": "Guy Haquette Helytörténeti Múzeum",
             "ro": "Muzeul de Istorie Locală Guy Haquette",
-            "en": "Musée d'Histoire Locale Guy Haquette"
+            "en": "Musée d'Histoire Locale Guy Haquette",
+            "fr": "Musée d'Histoire Locale Guy Haquette"
           },
           "coords": [
             3.236283,
@@ -793,7 +878,8 @@
             "de": "Entdecken Sie faszinierende ländliche Artefakte, aber überprüfen Sie unbedingt die saisonalen Öffnungszeiten, da diese stark variieren.",
             "hu": "Fedezze fel a lenyűgöző vidéki örökség tárgyait, de előtte feltétlenül ellenőrizze a szezonális és változó nyitvatartási időket.",
             "ro": "Explorați artefactele fascinante ale patrimoniului rural, dar asigurați-vă că verificați programul de funcționare sezonier care variază.",
-            "en": "Explore fascinating rural heritage artifacts, but ensure you confirm the seasonal opening hours as they vary greatly throughout the year."
+            "en": "Explore fascinating rural heritage artifacts, but ensure you confirm the seasonal opening hours as they vary greatly throughout the year.",
+            "fr": "Explorez des objets patrimoniaux ruraux fascinants, mais vérifiez les horaires d’ouverture saisonniers car ils varient beaucoup au cours de l’année."
           }
         },
         {
@@ -801,7 +887,8 @@
             "de": "Bourloire du Cercle Saint-Louis",
             "hu": "Bourloire du Cercle Saint-Louis",
             "ro": "Bourloire du Cercle Saint-Louis",
-            "en": "Bourloire du Cercle Saint-Louis"
+            "en": "Bourloire du Cercle Saint-Louis",
+            "fr": "Bourloire du Cercle Saint‑Louis"
           },
           "coords": [
             3.248547,
@@ -816,7 +903,8 @@
             "de": "Erleben Sie das einzigartige flämische Bourle-Spiel auf der gebogenen Bahn und lassen Sie sich von Einheimischen die Regeln erklären.",
             "hu": "Próbálja ki az egyedülálló flamand bourle játékot az ívelt pályán, és kérjen meg egy helyi tagot, hogy magyarázza el a pontozási szabályokat.",
             "ro": "Experimentați jocul tradițional flamand de bourle pe o pistă curbată și rugați un localnic să vă explice regulile complexe de punctare.",
-            "en": "Experience the unique traditional Flemish game of bourle on a curved track, and ask a local member to explain the complex scoring rules."
+            "en": "Experience the unique traditional Flemish game of bourle on a curved track, and ask a local member to explain the complex scoring rules.",
+            "fr": "Vivez le jeu traditionnel flamand unique de la bourle sur une piste courbe et demandez à un membre local d’expliquer les règles de score complexes."
           }
         },
         {
@@ -824,7 +912,8 @@
             "de": "Kirche Saint-Vaast",
             "hu": "Saint-Vaast Templom",
             "ro": "Biserica Saint-Vaast",
-            "en": "Saint-Vaast Church"
+            "en": "Saint-Vaast Church",
+            "fr": "Église Saint‑Vaast"
           },
           "coords": [
             3.27335,
@@ -839,7 +928,8 @@
             "de": "Bewundern Sie die wunderschönen Buntglasfenster dieser grenzüberschreitenden Kirche, während Sie die laufenden Gottesdienste respektieren.",
             "hu": "Csodálja meg ennek a határon átnyúló templomnak a gyönyörű ólomüvegét, tiszteletben tartva a folyamatban lévő csendes istentiszteleteket.",
             "ro": "Admirați vitraliile frumoase și ambianța liniștită a acestei biserici transfrontaliere, respectând slujbele silențioase aflate în desfășurare.",
-            "en": "Marvel at the beautiful stained glass and peaceful ambiance of this cross-border church, keeping in mind to respect ongoing quiet services."
+            "en": "Marvel at the beautiful stained glass and peaceful ambiance of this cross-border church, keeping in mind to respect ongoing quiet services.",
+            "fr": "Admirez les beaux vitraux et l’atmosphère paisible de cette église transfrontalière, en veillant à respecter les offices en cours."
           }
         },
         {
@@ -847,7 +937,8 @@
             "de": "Ruinen der Burg Royère",
             "hu": "Royère kastély romjai",
             "ro": "Ruinele castelului Royère",
-            "en": "Ruines du château de la Royère"
+            "en": "Ruines du château de la Royère",
+            "fr": "Ruines du château de la Royère"
           },
           "coords": [
             3.275826,
@@ -862,7 +953,8 @@
             "de": "Spazieren Sie durch die mittelalterlichen Ruinen dieser einstigen Festung und tragen Sie festes Schuhwerk für die unebenen Steinwege.",
             "hu": "Sétáljon az egykor hatalmas erődítmény középkori romjai között, és viseljen masszív cipőt az egyenetlen, ősi kőösvényeken való haladáshoz.",
             "ro": "Plimbați-vă printre ruinele medievale ale acestei foste fortărețe, purtând încălțăminte robustă pentru a naviga pe aleile pietruite denivelate.",
-            "en": "Walk among the evocative medieval ruins of this once-grand fortress, wearing sturdy shoes to navigate the uneven and ancient stone pathways."
+            "en": "Walk among the evocative medieval ruins of this once-grand fortress, wearing sturdy shoes to navigate the uneven and ancient stone pathways.",
+            "fr": "Promenez‑vous parmi les ruines médiévales évocatrices de cette forteresse autrefois grandiose, en portant des chaussures robustes pour naviguer sur les chemins de pierre inégaux et anciens."
           }
         },
         {
@@ -870,7 +962,8 @@
             "de": "Oldies Racing",
             "hu": "Oldies Racing",
             "ro": "Oldies Racing",
-            "en": "Oldies racing"
+            "en": "Oldies racing",
+            "fr": "Courses Oldies"
           },
           "coords": [
             3.239175,
@@ -885,7 +978,8 @@
             "de": "Genießen Sie die nostalgische Atmosphäre klassischer Rennveranstaltungen und kommen Sie früh, um sich einen guten Aussichtspunkt zu sichern.",
             "hu": "Élvezze a klasszikus versenyek nosztalgikus hangulatát, és érkezzen korán, hogy jó kilátást biztosítson magának a rajtvonal közelében.",
             "ro": "Bucurați-vă de atmosfera nostalgică a curselor clasice, asigurându-vă că ajungeți devreme pentru a prinde un loc bun lângă linia de start.",
-            "en": "Enjoy the nostalgic atmosphere of classic racing events, making sure to arrive early to secure a good viewing spot near the starting line."
+            "en": "Enjoy the nostalgic atmosphere of classic racing events, making sure to arrive early to secure a good viewing spot near the starting line.",
+            "fr": "Appréciez l’ambiance nostalgique des événements de courses classiques ; arrivez tôt pour obtenir une bonne place d’observation près de la ligne de départ."
           }
         }
       ],
@@ -893,7 +987,8 @@
         "de": "Beginnen Sie am ruhigen Kanal von Roubaix, bevor Sie zur kulturellen Bourloire Saint-Eloi fahren. Mittags fahren Sie ins Zentrum von Leers, um das Rathaus zu sehen und das Heimatmuseum zu besuchen. Der Nachmittag lädt Sie ein, nach Belgien zur Kirche Saint-Vaast und den Burgruinen von Royère zu fahren. Beenden Sie Ihren Roadtrip beim Oldies Racing in lebhafter Atmosphäre.",
         "hu": "Induljon a nyugodt Roubaix-csatorna mentén, mielőtt a kulturális Bourloire Saint-Eloi felé veszi az irányt. Délben utazzon Leers központjába, tekintse meg a Városházát és a Helytörténeti Múzeumot. A délután folyamán lépje át a belga határt a Saint-Vaast templom és az ősi Royère kastély romjai miatt. Zárja autós kirándulását az Oldies racing pezsgő hangulatában.",
         "ro": "Începeți de-a lungul liniștitului Canal Roubaix înainte de a conduce spre culturala Bourloire Saint-Eloi. La prânz, mergeți în centrul Leers pentru a vedea Primăria și Muzeul de Istorie Locală. După-amiaza vă invită să treceți în Belgia pentru Biserica Saint-Vaast și ruinele Castelului Royère. Terminați călătoria la Oldies racing, bucurându-vă de atmosfera locală plină de viață.",
-        "en": "Start along the serene Roubaix Canal before driving to discover the cultural Bourloire Saint-Eloi. By midday, head into central Leers to view the Town Hall and immerse yourself in the Local History Museum. The afternoon invites you to cross into Belgium for Saint-Vaast Church and the ancient Royère Castle ruins. Finish your road trip at Oldies racing, enjoying the lively local vibe."
+        "en": "Start along the serene Roubaix Canal before driving to discover the cultural Bourloire Saint-Eloi. By midday, head into central Leers to view the Town Hall and immerse yourself in the Local History Museum. The afternoon invites you to cross into Belgium for Saint-Vaast Church and the ancient Royère Castle ruins. Finish your road trip at Oldies racing, enjoying the lively local vibe.",
+        "fr": "Commencez le long du serein canal de Roubaix avant de conduire pour découvrir la Bourloire Saint‑Éloi culturelle. À midi, rendez‑vous au centre de Leers pour voir l’Hôtel de ville et vous plonger dans le Musée d’Histoire Locale. L’après‑midi vous invite à traverser en Belgique pour l’Église Saint‑Vaast et les anciennes ruines du château de la Royère. Terminez votre road‑trip aux Courses Oldies en profitant de l’animation locale."
       },
       "variants": {
         "rainy": {
@@ -901,7 +996,8 @@
             "de": "Fahren Sie morgens vorsichtig am regnerischen Kanal entlang. Mittags bieten die Bourloire und das Museum trockene, kulturelle Stopps. Verbringen Sie den nassen Nachmittag an der Kirche und den Ruinen, bevor Sie mit Indoor-Racing den Schauern entfliehen.",
             "hu": "Vezessen óvatosan az esős csatorna mentén a reggeli órákban. Délben a Bourloire és a múzeum száraz, kulturális megállókat kínál. A nedves délutánt a templomnál és a romoknál töltse, majd meneküljön a záporok elől a fedett gokartpályára.",
             "ro": "Conduceți cu prudență dimineața de-a lungul canalului ploios. La prânz, Bourloire și muzeul oferă opriri culturale uscate. Petreceți după-amiaza umedă la biserică și ruine, înainte de a scăpa de averse prin curse la interior.",
-            "en": "Drive cautiously along the rainy canal morning, utilizing your car's heater. Midday offers dry, indoor cultural stops like the Bourloire and museum. Spend the wet afternoon exploring the church and ruins before finishing indoors to escape the showers."
+            "en": "Drive cautiously along the rainy canal morning, utilizing your car's heater. Midday offers dry, indoor cultural stops like the Bourloire and museum. Spend the wet afternoon exploring the church and ruins before finishing indoors to escape the showers.",
+            "fr": "Conduisez prudemment le long du canal pluvieux du matin en utilisant le chauffage de votre voiture. À midi, profitez d’escales culturelles sèches et intérieures comme la bourloire et le musée. Passez l’après‑midi humide à explorer l’église et les ruines avant de finir à l’intérieur pour échapper aux averses."
           },
           "stops": [
             {
@@ -909,13 +1005,15 @@
                 "de": "Roubaix Kanal",
                 "hu": "Roubaix Csatorna",
                 "ro": "Canalul Roubaix",
-                "en": "Roubaix Canal"
+                "en": "Roubaix Canal",
+                "fr": "Canal de Roubaix"
               },
               "tip_5lang": {
                 "de": "Genießen Sie die nebligen Wasseraussichten aus dem Komfort Ihres warmen Autos; der Leinpfad wird sehr schlammig sein.",
                 "hu": "Élvezze a ködös vízi kilátást a meleg autó kényelméből; a vontatóút a víz mellett nagyon saras és csúszós lesz.",
                 "ro": "Bucurați-vă de priveliștile cețoase ale apei din confortul mașinii calde; cărarea de pe mal va fi foarte noroioasă.",
-                "en": "Enjoy the beautifully misty water views safely from the comfort of your warm car; the towpath outside will be quite muddy."
+                "en": "Enjoy the beautifully misty water views safely from the comfort of your warm car; the towpath outside will be quite muddy.",
+                "fr": "Appréciez les superbes vues brumeuses sur l’eau en toute sécurité depuis le confort de votre voiture chauffée ; le halage sera très boueux."
               }
             },
             {
@@ -923,13 +1021,15 @@
                 "de": "Bourloire Saint-Eloi",
                 "hu": "Bourloire Saint-Eloi",
                 "ro": "Bourloire Saint-Eloi",
-                "en": "Bourloire Saint-Eloi"
+                "en": "Bourloire Saint-Eloi",
+                "fr": "Bourloire Saint‑Éloi"
               },
               "tip_5lang": {
                 "de": "Parken Sie nah am Eingang, um nicht durchnässt zu werden, während Sie diese traditionelle Indoor-Stätte besuchen.",
                 "hu": "Parkoljon minél közelebb a bejárathoz, hogy ne ázzon el teljesen, miközben meglátogatja ezt a hagyományos beltéri helyszínt.",
                 "ro": "Parcați aproape de intrare pentru a evita să vă udați complet în timp ce vizitați acest loc tradițional la interior.",
-                "en": "Try to park very close to the entrance to avoid getting completely soaked while visiting this historic traditional site."
+                "en": "Try to park very close to the entrance to avoid getting completely soaked while visiting this historic traditional site.",
+                "fr": "Essayez de vous garer tout près de l’entrée pour éviter d’être complètement trempé en visitant ce site traditionnel historique."
               }
             },
             {
@@ -937,13 +1037,15 @@
                 "de": "Rathaus von Leers",
                 "hu": "Leers Városháza",
                 "ro": "Primăria Leers",
-                "en": "Leers Town Hall"
+                "en": "Leers Town Hall",
+                "fr": "Hôtel de ville de Leers"
               },
               "tip_5lang": {
                 "de": "Betrachten Sie die historische Architektur kurz unter einem Regenschirm, bevor Sie sich in Ihr trockenes Auto zurückziehen.",
                 "hu": "Nézze meg a történelmi építészetet gyorsan egy esernyő alól, mielőtt gyorsan visszahúzódna a száraz autóba.",
                 "ro": "Priviți rapid arhitectura istorică de sub o umbrelă înainte de a vă retrage rapid în confortul mașinii uscate.",
-                "en": "View the historic architecture quickly under an umbrella before immediately retreating to the safety of your dry car."
+                "en": "View the historic architecture quickly under an umbrella before immediately retreating to the safety of your dry car.",
+                "fr": "Admirez rapidement l’architecture historique sous un parapluie avant de regagner immédiatement la sécurité de votre voiture sèche."
               }
             },
             {
@@ -951,13 +1053,15 @@
                 "de": "Heimatmuseum Guy Haquette",
                 "hu": "Guy Haquette Helytörténeti Múzeum",
                 "ro": "Muzeul de Istorie Locală Guy Haquette",
-                "en": "Musée d'Histoire Locale Guy Haquette"
+                "en": "Musée d'Histoire Locale Guy Haquette",
+                "fr": "Musée d'Histoire Locale Guy Haquette"
               },
               "tip_5lang": {
                 "de": "Eine fantastische Indoor-Flucht vor dem starken Regen, die tiefe Einblicke in die lokale Folklore bietet.",
                 "hu": "Fantasztikus beltéri menedék a heves esőzések elől, amely mély bepillantást enged a helyi folklórba és történelembe.",
                 "ro": "O evadare fantastică la interior din calea ploii abundente, oferind o perspectivă profundă asupra folclorului local.",
-                "en": "A truly fantastic indoor escape from the heavy rain, offering deep, engaging dives directly into local historic folklore."
+                "en": "A truly fantastic indoor escape from the heavy rain, offering deep, engaging dives directly into local historic folklore.",
+                "fr": "Une excellente échappée intérieure à l’abri de la forte pluie, offrant des plongées profondes et engageantes dans le folklore historique local."
               }
             },
             {
@@ -965,13 +1069,15 @@
                 "de": "Bourloire du Cercle Saint-Louis",
                 "hu": "Bourloire du Cercle Saint-Louis",
                 "ro": "Bourloire du Cercle Saint-Louis",
-                "en": "Bourloire du Cercle Saint-Louis"
+                "en": "Bourloire du Cercle Saint-Louis",
+                "fr": "Bourloire du Cercle Saint‑Louis"
               },
               "tip_5lang": {
                 "de": "Bleiben Sie trocken in diesem historischen Veranstaltungsort; die nahen Parkplätze machen es zu einem leichten Regentag-Stopp.",
                 "hu": "Maradjon szárazon ebben a történelmi épületben; a közeli parkolás miatt ez egy nagyon egyszerű és kényelmes esős megálló.",
                 "ro": "Rămâneți uscat în acest loc istoric; parcarea din apropiere face din aceasta o oprire ușoară într-o zi ploioasă.",
-                "en": "Keep totally dry inside this historic venue; the nearby parking makes it an incredibly easy and convenient rainy-day stop."
+                "en": "Keep totally dry inside this historic venue; the nearby parking makes it an incredibly easy and convenient rainy-day stop.",
+                "fr": "Restez complètement au sec à l’intérieur de ce lieu historique ; le parking à proximité en fait une halte incroyablement facile et pratique par temps de pluie."
               }
             },
             {
@@ -979,13 +1085,15 @@
                 "de": "Kirche Saint-Vaast",
                 "hu": "Saint-Vaast Templom",
                 "ro": "Biserica Saint-Vaast",
-                "en": "Saint-Vaast Church"
+                "en": "Saint-Vaast Church",
+                "fr": "Église Saint‑Vaast"
               },
               "tip_5lang": {
                 "de": "Das Innere der Kirche bietet einen ruhigen und trockenen Schutz vor dem unerbittlichen Nachmittagsregen.",
                 "hu": "A templom belseje békés és teljesen száraz menedéket nyújt a könyörtelen délutáni felhőszakadásokkal szemben.",
                 "ro": "Interiorul bisericii oferă un adăpost senin și uscat împotriva ploii torențiale neîncetate de după-amiază.",
-                "en": "The church's solid interior perfectly provides a serene and totally dry shelter from the relentless afternoon downpour."
+                "en": "The church's solid interior perfectly provides a serene and totally dry shelter from the relentless afternoon downpour.",
+                "fr": "L’intérieur solide de l’église offre un abri serein et parfaitement sec contre la pluie torrentielle de l’après‑midi."
               }
             },
             {
@@ -993,13 +1101,15 @@
                 "de": "Ruinen der Burg Royère",
                 "hu": "Royère kastély romjai",
                 "ro": "Ruinele castelului Royère",
-                "en": "Ruines du château de la Royère"
+                "en": "Ruines du château de la Royère",
+                "fr": "Ruines du château de la Royère"
               },
               "tip_5lang": {
                 "de": "Bringen Sie wasserdichte Stiefel mit, wenn Sie aussteigen; die Ruinen sind schön, aber von nassem Gras umgeben.",
                 "hu": "Hozzon vízálló bakancsot, ha kiszáll az autóból; a romok gyönyörűek, de teljesen átázott, magas fű veszi körül őket.",
                 "ro": "Aduceți cizme impermeabile dacă coborâți din mașină; ruinele sunt frumoase, dar înconjurate de iarbă foarte udă.",
-                "en": "Bring heavy waterproof boots if you step out of the car; the ruins are beautiful but fully surrounded by deep wet grass."
+                "en": "Bring heavy waterproof boots if you step out of the car; the ruins are beautiful but fully surrounded by deep wet grass.",
+                "fr": "Apportez des bottes lourdes et imperméables si vous sortez de la voiture ; les ruines sont belles mais entourées d’herbe humide et profonde."
               }
             },
             {
@@ -1007,13 +1117,15 @@
                 "de": "Oldies Racing",
                 "hu": "Oldies Racing",
                 "ro": "Oldies Racing",
-                "en": "Oldies racing"
+                "en": "Oldies racing",
+                "fr": "Courses Oldies"
               },
               "tip_5lang": {
                 "de": "Ein perfekt trockenes Ende für einen nassen Tag, an dem Sie parken und rasen können, ohne sich ums Wetter zu sorgen.",
                 "hu": "Tökéletesen száraz befejezése egy nedves napnak, ahol parkolhat és versenyezhet anélkül, hogy az időjárás miatt aggódna.",
                 "ro": "Un final perfect de uscat pentru o zi umedă, permițându-vă să parcați și să concurați fără griji legate de vreme.",
-                "en": "A perfectly dry end to a wet day, completely allowing you to park and race without once worrying about the outside weather."
+                "en": "A perfectly dry end to a wet day, completely allowing you to park and race without once worrying about the outside weather.",
+                "fr": "Une fin parfaitement sèche à une journée humide, vous permettant de garer et de courir sans vous soucier une seule fois du temps extérieur."
               }
             }
           ]
@@ -1023,7 +1135,8 @@
             "de": "Starten Sie Ihren frostigen Morgen am Kanal. Die Wärme Ihres Autos macht das Wechseln zwischen Museum und Bourloire angenehm. Planen Sie wegen der frühen Dämmerung ab 17:00 Uhr voraus. Beenden Sie den eiskalten Tag im Warmen mit rasantem Indoor-Racing.",
             "hu": "Kezdje a fagyos reggelt a csatornánál. Az autó melege kényelmessé teszi az utat a múzeum és a Bourloire között. Készüljön fel a korai sötétedésre 17:00 óra körül a romoknál. Zárja a jéghideg napot a meleg, fedett gokartpályán.",
             "ro": "Începeți dimineața geroasă conducând pe lângă canal. Căldura mașinii face confortabilă trecerea între muzeu și Bourloire. Pregătiți-vă pentru întunericul de la ora 17:00 la ruine. Încheiați ziua înghețată la căldură, cu curse rapide la interior.",
-            "en": "Start your frosty morning driving by the scenic canal. The midday warmth of your car makes hopping between the museum and Bourloire comfortable. Prepare for an early dusk around 17:00 at the ruins. End the freezing day indoors with high-speed racing."
+            "en": "Start your frosty morning driving by the scenic canal. The midday warmth of your car makes hopping between the museum and Bourloire comfortable. Prepare for an early dusk around 17:00 at the ruins. End the freezing day indoors with high-speed racing.",
+            "fr": "Commencez votre matinée glacée en conduisant près du canal pittoresque. La chaleur de votre voiture à midi rend les déplacements entre le musée et la bourloire confortables. Préparez‑vous pour un crépuscule précoce vers 17:00 aux ruines. Terminez la journée glaciale à l’intérieur avec des courses à grande vitesse."
           },
           "stops": [
             {
@@ -1031,13 +1144,15 @@
                 "de": "Roubaix Kanal",
                 "hu": "Roubaix Csatorna",
                 "ro": "Canalul Roubaix",
-                "en": "Roubaix Canal"
+                "en": "Roubaix Canal",
+                "fr": "Canal de Roubaix"
               },
               "tip_5lang": {
                 "de": "Die gefrorene Landschaft ist aus dem beheizten Auto atemberaubend; achten Sie auf Glatteis auf den nahen Straßen.",
                 "hu": "A befagyott táj lenyűgöző a fűtött autóból nézve; különösen ügyeljen a fekete jégre a csatorna környéki utakon.",
                 "ro": "Peisajul înghețat este uimitor din mașina încălzită; aveți mare grijă la polei pe drumurile din apropiere.",
-                "en": "The completely frozen landscape is stunning from the heated car; watch carefully for black ice on the nearby local roads."
+                "en": "The completely frozen landscape is stunning from the heated car; watch carefully for black ice on the nearby local roads.",
+                "fr": "Le paysage complètement gelé est magnifique depuis la voiture chauffée ; surveillez attentivement le verglas noir sur les routes locales proches."
               }
             },
             {
@@ -1045,13 +1160,15 @@
                 "de": "Bourloire Saint-Eloi",
                 "hu": "Bourloire Saint-Eloi",
                 "ro": "Bourloire Saint-Eloi",
-                "en": "Bourloire Saint-Eloi"
+                "en": "Bourloire Saint-Eloi",
+                "fr": "Bourloire Saint‑Éloi"
               },
               "tip_5lang": {
                 "de": "Gehen Sie schnell von Ihrem warmen Fahrzeug zum Gebäude, um dem beißenden Morgenfrost zu entgehen.",
                 "hu": "Lépjen át gyorsan a meleg járművéből az épületbe, hogy elkerülje a csípős, kellemetlen reggeli fagyot.",
                 "ro": "Pășiți rapid din vehiculul dumneavoastră cald în clădire pentru a evita gerul mușcător al dimineții.",
-                "en": "Step very quickly from your perfectly warm vehicle to the venue to avoid the painfully biting early morning frost."
+                "en": "Step very quickly from your perfectly warm vehicle to the venue to avoid the painfully biting early morning frost.",
+                "fr": "Descendez très rapidement de votre véhicule bien chaud pour rejoindre le lieu afin d’éviter le gel piquant du tout début de matinée."
               }
             },
             {
@@ -1059,13 +1176,15 @@
                 "de": "Rathaus von Leers",
                 "hu": "Leers Városháza",
                 "ro": "Primăria Leers",
-                "en": "Leers Town Hall"
+                "en": "Leers Town Hall",
+                "fr": "Hôtel de ville de Leers"
               },
               "tip_5lang": {
                 "de": "Halten Sie Ihren Wintermantel für einen kurzen Fotostopp griffbereit; der offene Platz kann sehr zugig sein.",
                 "hu": "Tartsa kéznél a vastag téli kabátját egy rövid fotómegállóhoz; a nyitott tér igencsak huzatos és hideg lehet.",
                 "ro": "Păstrați-vă haina de iarnă la îndemână pentru o scurtă oprire foto; piața deschisă poate fi foarte expusă la curenți.",
-                "en": "Keep your heavy winter coat handy for a brief photo stop; the massive open square can be incredibly drafty and cold."
+                "en": "Keep your heavy winter coat handy for a brief photo stop; the massive open square can be incredibly drafty and cold.",
+                "fr": "Gardez votre manteau d’hiver lourd à portée de main pour un arrêt photo bref ; la grande place ouverte peut être incroyablement froide et venteuse."
               }
             },
             {
@@ -1073,13 +1192,15 @@
                 "de": "Heimatmuseum Guy Haquette",
                 "hu": "Guy Haquette Helytörténeti Múzeum",
                 "ro": "Muzeul de Istorie Locală Guy Haquette",
-                "en": "Musée d'Histoire Locale Guy Haquette"
+                "en": "Musée d'Histoire Locale Guy Haquette",
+                "fr": "Musée d'Histoire Locale Guy Haquette"
               },
               "tip_5lang": {
                 "de": "Hervorragender Ort, um sich richtig aufzuwärmen, während Sie etwas über den reichen historischen Hintergrund der Region lernen.",
                 "hu": "Kiváló helyszín arra, hogy alaposan felmelegedjen, miközben megismeri a régió gazdag történelmi hátterét.",
                 "ro": "Un loc excelent pentru a vă încălzi corespunzător în timp ce învățați despre bogatul context istoric al regiunii.",
-                "en": "An absolutely excellent spot to properly warm up while learning thoroughly about the region's rich historical background."
+                "en": "An absolutely excellent spot to properly warm up while learning thoroughly about the region's rich historical background.",
+                "fr": "Un endroit excellent pour vous réchauffer tout en apprenant en profondeur le riche passé historique de la région."
               }
             },
             {
@@ -1087,13 +1208,15 @@
                 "de": "Bourloire du Cercle Saint-Louis",
                 "hu": "Bourloire du Cercle Saint-Louis",
                 "ro": "Bourloire du Cercle Saint-Louis",
-                "en": "Bourloire du Cercle Saint-Louis"
+                "en": "Bourloire du Cercle Saint-Louis",
+                "fr": "Bourloire du Cercle Saint‑Louis"
               },
               "tip_5lang": {
                 "de": "Genießen Sie die beheizte Indoor-Atmosphäre dieses klassischen Spielzentrums während der kalten Mittagsstunden.",
                 "hu": "Élvezze ennek a klasszikus játékközpontnak a fűtött, barátságos beltéri atmoszféráját a leghidegebb déli órákban is.",
                 "ro": "Bucurați-vă de atmosfera încălzită la interior a acestui centru de jocuri clasice în timpul orelor reci ale prânzului.",
-                "en": "Thoroughly enjoy the heavily heated indoor atmosphere of this classic game center during the freezing cold midday hours."
+                "en": "Thoroughly enjoy the heavily heated indoor atmosphere of this classic game center during the freezing cold midday hours.",
+                "fr": "Profitez pleinement de l’atmosphère intérieure fortement chauffée de ce centre de jeu classique durant les heures de midi glaciales."
               }
             },
             {
@@ -1101,13 +1224,15 @@
                 "de": "Kirche Saint-Vaast",
                 "hu": "Saint-Vaast Templom",
                 "ro": "Biserica Saint-Vaast",
-                "en": "Saint-Vaast Church"
+                "en": "Saint-Vaast Church",
+                "fr": "Église Saint‑Vaast"
               },
               "tip_5lang": {
                 "de": "Ein herrlich friedlicher Winterstopp; die Steinböden sind jedoch eisig, lassen Sie also Ihre dicken Socken an.",
                 "hu": "Gyönyörűen békés téli megálló; a kőpadló viszont rendkívül hideg, így mindenképp tartsa magán a vastag zoknit.",
                 "ro": "O oprire de iarnă minunat de pașnică; podelele din piatră sunt însă reci, așa că păstrați-vă șosetele groase.",
-                "en": "A beautifully peaceful winter stop; the ancient stone floors are freezing cold, so securely keep your thick socks on."
+                "en": "A beautifully peaceful winter stop; the ancient stone floors are freezing cold, so securely keep your thick socks on.",
+                "fr": "Une halte d’hiver merveilleusement paisible ; les dalles de pierre anciennes sont glacées, gardez bien vos chaussettes épaisses."
               }
             },
             {
@@ -1115,13 +1240,15 @@
                 "de": "Ruinen der Burg Royère",
                 "hu": "Royère kastély romjai",
                 "ro": "Ruinele castelului Royère",
-                "en": "Ruines du château de la Royère"
+                "en": "Ruines du château de la Royère",
+                "fr": "Ruines du château de la Royère"
               },
               "tip_5lang": {
                 "de": "Kommen Sie vor dem Sonnenuntergang um 17:00 Uhr an, um die frostigen Ruinen sicher zu erkunden, ohne im Dunkeln zu stolpern.",
                 "hu": "Érkezzen a 17:00 órás naplemente előtt, hogy biztonságosan felfedezze a deres romokat anélkül, hogy megbotlana a sötétben.",
                 "ro": "Ajungeți înainte de apusul de la ora 17:00 pentru a explora în siguranță ruinele înghețate, fără a vă împiedica pe întuneric.",
-                "en": "Arrive safely before the 17:00 sunset to safely explore the frosty ruins without heavily tripping in the absolute dark."
+                "en": "Arrive safely before the 17:00 sunset to safely explore the frosty ruins without heavily tripping in the absolute dark.",
+                "fr": "Arrivez avant le coucher du soleil à 17:00 pour explorer en toute sécurité les ruines givrées sans risquer de trébucher dans l’obscurité totale."
               }
             },
             {
@@ -1129,13 +1256,15 @@
                 "de": "Oldies Racing",
                 "hu": "Oldies Racing",
                 "ro": "Oldies Racing",
-                "en": "Oldies racing"
+                "en": "Oldies racing",
+                "fr": "Courses Oldies"
               },
               "tip_5lang": {
                 "de": "Beenden Sie Ihren eiskalten Tag mit einem Adrenalinkick drinnen, weit weg von den frierenden Abendtemperaturen.",
                 "hu": "Zárja le a fagyos napot egy hatalmas adrenalinlökettel bent, nagyon messze a dermesztő esti hőmérsékletektől.",
                 "ro": "Încheiați ziua friguroasă cu o descărcare de adrenalină la interior, departe de temperaturile de îngheț ale serii.",
-                "en": "Finish your incredibly frigid day with a massive adrenaline rush indoors, far away from the freezing evening temperatures."
+                "en": "Finish your incredibly frigid day with a massive adrenaline rush indoors, far away from the freezing evening temperatures.",
+                "fr": "Terminez votre journée incroyablement froide par une montée d’adrénaline massive à l’intérieur, loin des températures nocturnes glaciales."
               }
             }
           ]

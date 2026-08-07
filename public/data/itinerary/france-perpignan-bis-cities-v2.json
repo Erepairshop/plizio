@@ -21,7 +21,8 @@
             "de": "Le Castillet",
             "hu": "Le Castillet",
             "ro": "Le Castillet",
-            "en": "Le Castillet"
+            "en": "Le Castillet",
+            "fr": "Le Castillet"
           },
           "coords": [
             2.8935,
@@ -36,7 +37,8 @@
             "de": "Steigen Sie auf den Turm für einen Rundumblick auf die Stadt.",
             "hu": "Mássz fel a toronyba a városi panorámáért.",
             "ro": "Urcați în turn pentru o vedere panoramică asupra orașului.",
-            "en": "Climb the tower for a 360-degree view of the city."
+            "en": "Climb the tower for a 360-degree view of the city.",
+            "fr": "Montez dans la tour pour une vue à 360 degrés sur la ville."
           }
         },
         {
@@ -44,7 +46,8 @@
             "de": "Place de la Loge",
             "hu": "Place de la Loge",
             "ro": "Place de la Loge",
-            "en": "Place de la Loge"
+            "en": "Place de la Loge",
+            "fr": "Place de la Loge"
           },
           "coords": [
             2.8943,
@@ -59,7 +62,8 @@
             "de": "Bewundern Sie die katalanische Gotik des Loge de Mer.",
             "hu": "Csodáld meg a tőzsdepalota katalán gótikus stílusát.",
             "ro": "Admirați stilul gotic catalan al clădirii Loge de Mer.",
-            "en": "Admire the Catalan Gothic style of the Loge de Mer."
+            "en": "Admire the Catalan Gothic style of the Loge de Mer.",
+            "fr": "Admirez le style gothique catalan de la Loge de Mer."
           }
         },
         {
@@ -67,7 +71,8 @@
             "de": "Kathedrale Saint-Jean",
             "hu": "Saint-Jean székesegyház",
             "ro": "Catedrala Saint-Jean",
-            "en": "Saint-Jean Cathedral"
+            "en": "Saint-Jean Cathedral",
+            "fr": "Cathédrale Saint‑Jean"
           },
           "coords": [
             2.8974,
@@ -82,7 +87,8 @@
             "de": "Achten Sie auf das beeindruckende Altarbild im Inneren.",
             "hu": "Nézd meg a lenyűgöző oltárképet a belső térben.",
             "ro": "Observați altarul impresionant din interior.",
-            "en": "Check out the impressive altarpiece inside."
+            "en": "Check out the impressive altarpiece inside.",
+            "fr": "Ne manquez pas le retable impressionnant à l’intérieur."
           }
         },
         {
@@ -90,7 +96,8 @@
             "de": "Musée Rigaud",
             "hu": "Rigaud Múzeum",
             "ro": "Muzeul Rigaud",
-            "en": "Musée Rigaud"
+            "en": "Musée Rigaud",
+            "fr": "Musée Rigaud"
           },
           "coords": [
             2.8938,
@@ -105,7 +112,8 @@
             "de": "Entdecken Sie Werke von Picasso und lokalen Meistern.",
             "hu": "Fedezd fel Picasso és helyi mesterek műveit.",
             "ro": "Descoperiți opere de Picasso și maeștri locali.",
-            "en": "Discover works by Picasso and local masters."
+            "en": "Discover works by Picasso and local masters.",
+            "fr": "Découvrez des œuvres de Picasso et des maîtres locaux."
           }
         },
         {
@@ -113,7 +121,8 @@
             "de": "Promenade des Platanen",
             "hu": "Platán sétány",
             "ro": "Promenada Platanilor",
-            "en": "Platanes Promenade"
+            "en": "Platanes Promenade",
+            "fr": "Promenade des Platanes"
           },
           "coords": [
             2.8975,
@@ -128,7 +137,8 @@
             "de": "Genießen Sie den Schatten unter den riesigen Platanen.",
             "hu": "Élvezd az árnyékot az óriási platánfák alatt.",
             "ro": "Bucurați-vă de umbră sub platanii uriași.",
-            "en": "Enjoy the shade under the giant plane trees."
+            "en": "Enjoy the shade under the giant plane trees.",
+            "fr": "Profitez de l’ombre sous les immenses platanes."
           }
         },
         {
@@ -136,7 +146,8 @@
             "de": "Palais des Congrès",
             "hu": "Kongresszusi Palota",
             "ro": "Palais des Congrès",
-            "en": "Palais des Congrès"
+            "en": "Palais des Congrès",
+            "fr": "Palais des Congrès"
           },
           "coords": [
             2.8985,
@@ -151,7 +162,8 @@
             "de": "Ein modernes Zentrum für kulturelle Veranstaltungen.",
             "hu": "Modern központ kulturális rendezvények számára.",
             "ro": "Un centru modern pentru evenimente culturale.",
-            "en": "A modern center for cultural events."
+            "en": "A modern center for cultural events.",
+            "fr": "Un centre moderne pour les événements culturels."
           }
         }
       ],
@@ -159,7 +171,8 @@
         "de": "Beginnen Sie Ihren Tag am ikonischen Castillet, dem alten Stadttor aus rotem Backstein. Schlendern Sie durch die engen Gassen zum eleganten Place de la Loge. Nach der Besichtigung der gotischen Kathedrale tauchen Sie im Musée Rigaud in die Kunstwelt ein. Den Nachmittag verbringen Sie entspannt auf der Promenade des Platanes, bevor Sie das moderne Viertel am Palais des Congrès erreichen.",
         "hu": "Kezdje a napot az ikonikus Castillet-nél, a vörös téglás városkapunál. Sétáljon az óváros szűk utcáin az elegáns Loge térig. A gótikus székesegyház megtekintése után merüljön el a művészetekben a Rigaud Múzeumban. A délutánt töltse pihenéssel a Platán sétányon, majd zárja a napot a Kongresszusi Palota modern környékén.",
         "ro": "Începeți ziua la emblematicul Castillet, vechea poartă a orașului construită din cărămidă roșie. Plimbați-vă pe străzile înguste până la eleganta Place de la Loge. După vizitarea catedralei gotice, explorați lumea artei la Muzeul Rigaud. Petreceți după-amiaza relaxându-vă pe Promenada Platanilor, înainte de a ajunge în zona modernă a Palais des Congrès.",
-        "en": "Start your day at the iconic Castillet, the old red-brick city gate. Wander through the narrow streets to the elegant Place de la Loge. After visiting the Gothic cathedral, immerse yourself in art at the Musée Rigaud. Spend the afternoon relaxing on the Platanes Promenade before reaching the modern district near the Palais des Congrès."
+        "en": "Start your day at the iconic Castillet, the old red-brick city gate. Wander through the narrow streets to the elegant Place de la Loge. After visiting the Gothic cathedral, immerse yourself in art at the Musée Rigaud. Spend the afternoon relaxing on the Platanes Promenade before reaching the modern district near the Palais des Congrès.",
+        "fr": "Commencez la journée au Castillet emblématique, l’ancienne porte de la ville en brique rouge. Flânez ensuite dans les rues étroites jusqu’à l’élégante Place de la Loge. Après la visite de la cathédrale gothique, plongez dans l’art au Musée Rigaud. Passez l’après‑midi à vous détendre sur la Promenade des Platanes avant d’atteindre le quartier moderne près du Palais des Congrès."
       },
       "gastro_picks": {
         "de": [
@@ -279,6 +292,11 @@
           "The old town is almost entirely pedestrianized, wear comfortable shoes.",
           "Catalan flags are everywhere; Perpignan is proud of its roots.",
           "Mind the lunch break: many small shops close between 12:30 and 14:00."
+        ],
+        "fr": [
+          "La vieille ville est presque entièrement piétonne, portez des chaussures confortables.",
+          "Les drapeaux catalans sont partout ; Perpignan est fière de ses racines.",
+          "Attention à la pause déjeuner : beaucoup de petites boutiques ferment entre 12:30 et 14:00."
         ]
       }
     },
@@ -295,7 +313,8 @@
             "de": "Le Castillet",
             "hu": "Le Castillet",
             "ro": "Le Castillet",
-            "en": "Le Castillet"
+            "en": "Le Castillet",
+            "fr": "Le Castillet"
           },
           "coords": [
             2.8935,
@@ -310,7 +329,8 @@
             "de": "Parken Sie Ihr Rad sicher am Eingang zur Altstadt.",
             "hu": "Zárd le biztonságosan a biciklit az óváros bejáratánál.",
             "ro": "Parcați bicicleta în siguranță la intrarea în centrul vechi.",
-            "en": "Park your bike securely at the entrance to the old town."
+            "en": "Park your bike securely at the entrance to the old town.",
+            "fr": "Garez votre vélo en sécurité à l’entrée de la vieille ville."
           }
         },
         {
@@ -318,7 +338,8 @@
             "de": "Kathedrale Saint-Jean",
             "hu": "Saint-Jean székesegyház",
             "ro": "Catedrala Saint-Jean",
-            "en": "Saint-Jean Cathedral"
+            "en": "Saint-Jean Cathedral",
+            "fr": "Cathédrale Saint‑Jean"
           },
           "coords": [
             2.8974,
@@ -333,7 +354,8 @@
             "de": "Die Gassen hier sind eng, schieben Sie das Rad kurz.",
             "hu": "Az utcák itt szűkek, érdemes tolni a kerékpárt.",
             "ro": "Străzile sunt înguste aici, mergeți pe lângă bicicletă.",
-            "en": "The streets are narrow here, consider pushing your bike."
+            "en": "The streets are narrow here, consider pushing your bike.",
+            "fr": "Les rues sont étroites ici, envisagez de pousser votre vélo."
           }
         },
         {
@@ -341,7 +363,8 @@
             "de": "Musée Rigaud",
             "hu": "Rigaud Múzeum",
             "ro": "Muzeul Rigaud",
-            "en": "Musée Rigaud"
+            "en": "Musée Rigaud",
+            "fr": "Musée Rigaud"
           },
           "coords": [
             2.8938,
@@ -356,7 +379,8 @@
             "de": "Ein kulturelles Highlight mitten im Zentrum.",
             "hu": "Kulturális csúcspont a központ közepén.",
             "ro": "Un punct culminant cultural chiar în centru.",
-            "en": "A cultural highlight right in the center."
+            "en": "A cultural highlight right in the center.",
+            "fr": "Un point culturel majeur en plein centre."
           }
         },
         {
@@ -364,7 +388,8 @@
             "de": "Promenade des Platanen",
             "hu": "Platán sétány",
             "ro": "Promenada Platanilor",
-            "en": "Platanes Promenade"
+            "en": "Platanes Promenade",
+            "fr": "Promenade des Platanes"
           },
           "coords": [
             2.8975,
@@ -379,7 +404,8 @@
             "de": "Idealer Ort für eine Radpause im Schatten.",
             "hu": "Ideális hely egy árnyékos biciklis pihenőhöz.",
             "ro": "Loc ideal pentru o pauză cu bicicleta la umbră.",
-            "en": "Ideal spot for a bike break in the shade."
+            "en": "Ideal spot for a bike break in the shade.",
+            "fr": "Endroit idéal pour une pause vélo à l’ombre."
           }
         },
         {
@@ -387,7 +413,8 @@
             "de": "Palais des Congrès",
             "hu": "Kongresszusi Palota",
             "ro": "Palais des Congrès",
-            "en": "Palais des Congrès"
+            "en": "Palais des Congrès",
+            "fr": "Palais des Congrès"
           },
           "coords": [
             2.8985,
@@ -402,7 +429,8 @@
             "de": "Moderne Architektur im Norden der Stadt.",
             "hu": "Modern építészet a város északi részén.",
             "ro": "Arhitectură modernă în nordul orașului.",
-            "en": "Modern architecture in the north of the city."
+            "en": "Modern architecture in the north of the city.",
+            "fr": "Architecture moderne au nord de la ville."
           }
         },
         {
@@ -410,7 +438,8 @@
             "de": "Stadion Aimé Giral",
             "hu": "Aimé Giral Stadion",
             "ro": "Stadionul Aimé Giral",
-            "en": "Aimé Giral Stadium"
+            "en": "Aimé Giral Stadium",
+            "fr": "Stade Aimé Giral"
           },
           "coords": [
             2.8962,
@@ -425,7 +454,8 @@
             "de": "Das Herz des lokalen Rugbysports (USAP).",
             "hu": "A helyi rögbi (USAP) szíve.",
             "ro": "Inima rugbiului local (USAP).",
-            "en": "The heart of local rugby (USAP)."
+            "en": "The heart of local rugby (USAP).",
+            "fr": "Le cœur du rugby local (USAP)."
           }
         },
         {
@@ -433,7 +463,8 @@
             "de": "Messegelände Perpignan",
             "hu": "Perpignani Vásárközpont",
             "ro": "Centrul de Expoziții Perpignan",
-            "en": "Perpignan Exhibition Centre"
+            "en": "Perpignan Exhibition Centre",
+            "fr": "Parc des Expositions de Perpignan"
           },
           "coords": [
             2.8905,
@@ -448,7 +479,8 @@
             "de": "Schauen Sie nach aktuellen regionalen Messen.",
             "hu": "Nézd meg az aktuális regionális vásárokat.",
             "ro": "Căutați târgurile regionale actuale.",
-            "en": "Check for current regional fairs."
+            "en": "Check for current regional fairs.",
+            "fr": "Renseignez‑vous sur les foires régionales en cours."
           }
         }
       ],
@@ -456,7 +488,8 @@
         "de": "Diese Radtour verbindet das historische Zentrum mit dem moderneren Norden. Nach dem Castillet und der Kunst im Musée Rigaud radeln Sie entlang der schattigen Platanen-Promenade weit nach Norden bis zum berühmten Rugby-Stadion Aimé Giral, wo die katalanische Identität der Stadt besonders spürbar ist.",
         "hu": "Ez a kerékpáros túra összeköti a történelmi központot a modernebb északi résszel. A Castillet és a Rigaud Múzeum műkincsei után tekerjen végig az árnyas Platán sétányon egészen északra, a híres Aimé Giral rögbi stadionig, ahol a város katalán identitása igazán érezhető.",
         "ro": "Acest tur cu bicicleta face legătura între centrul istoric și nordul mai modern. După Castillet și arta de la Muzeul Rigaud, pedalați de-a lungul promenadei umbrite cu platani până departe în nord, la faimosul stadion de rugby Aimé Giral, unde identitatea catalană a orașului este deosebit de palpabilă.",
-        "en": "This bike tour connects the historical center with the more modern north. After the Castillet and the art at Musée Rigaud, pedal along the shaded Platanes Promenade far north to the famous Aimé Giral rugby stadium, where the city's Catalan identity is truly palpable."
+        "en": "This bike tour connects the historical center with the more modern north. After the Castillet and the art at Musée Rigaud, pedal along the shaded Platanes Promenade far north to the famous Aimé Giral rugby stadium, where the city's Catalan identity is truly palpable.",
+        "fr": "Cette boucle à vélo relie le centre historique au nord plus moderne. Après le Castillet et l’art du Musée Rigaud, pédalez le long de la Promenade des Platanes ombragée jusqu’au célèbre stade de rugby Aimé Giral, où l’identité catalane de la ville est particulièrement palpable."
       },
       "gastro_picks": {
         "de": [
@@ -560,6 +593,11 @@
           "There is a city bike-share system (Bip!).",
           "Avoid midday in summer for longer rides.",
           "Use the bike paths along the promenade."
+        ],
+        "fr": [
+          "Il existe un système de vélos en libre‑service en ville (Bip!).",
+          "Évitez le milieu de journée en été pour les longues balades.",
+          "Utilisez les pistes cyclables le long de la promenade."
         ]
       }
     },
@@ -576,7 +614,8 @@
             "de": "Le Castillet (Cluster A)",
             "hu": "Le Castillet",
             "ro": "Le Castillet",
-            "en": "Le Castillet"
+            "en": "Le Castillet",
+            "fr": "Le Castillet"
           },
           "coords": [
             2.8935,
@@ -591,7 +630,8 @@
             "de": "Parkhaus Wilson ist ganz in der Nähe.",
             "hu": "A Wilson parkolóház közvetlenül a közelben van.",
             "ro": "Parcarea Wilson este chiar în apropiere.",
-            "en": "Wilson parking garage is right nearby."
+            "en": "Wilson parking garage is right nearby.",
+            "fr": "Le parking Wilson est juste à proximité."
           }
         },
         {
@@ -599,7 +639,8 @@
             "de": "Place de la Loge (Cluster A)",
             "hu": "Place de la Loge",
             "ro": "Place de la Loge",
-            "en": "Place de la Loge"
+            "en": "Place de la Loge",
+            "fr": "Place de la Loge"
           },
           "coords": [
             2.8943,
@@ -614,7 +655,8 @@
             "de": "Kurzer Spaziergang vom Parkplatz.",
             "hu": "Rövid séta a parkolótól.",
             "ro": "Scurtă plimbare de la parcare.",
-            "en": "Short walk from the parking area."
+            "en": "Short walk from the parking area.",
+            "fr": "Courte marche depuis la zone de stationnement."
           }
         },
         {
@@ -622,7 +664,8 @@
             "de": "Kathedrale Saint-Jean (Cluster A)",
             "hu": "Saint-Jean székesegyház",
             "ro": "Catedrala Saint-Jean",
-            "en": "Saint-Jean Cathedral"
+            "en": "Saint-Jean Cathedral",
+            "fr": "Cathédrale Saint‑Jean"
           },
           "coords": [
             2.8974,
@@ -637,7 +680,8 @@
             "de": "Innerhalb des Fußgänger-Clusters A.",
             "hu": "Az 'A' gyalogos klaszteren belül.",
             "ro": "În cadrul clusterului pietonal A.",
-            "en": "Within the pedestrian Cluster A."
+            "en": "Within the pedestrian Cluster A.",
+            "fr": "Située dans le cluster piétonnier A."
           }
         },
         {
@@ -645,7 +689,8 @@
             "de": "Palais des Congrès (Cluster B)",
             "hu": "Kongresszusi Palota",
             "ro": "Palais des Congrès",
-            "en": "Palais des Congrès"
+            "en": "Palais des Congrès",
+            "fr": "Palais des Congrès"
           },
           "coords": [
             2.8985,
@@ -660,7 +705,8 @@
             "de": "Fahrt zum nördlichen Cluster B.",
             "hu": "Autózás az északi 'B' klaszterhez.",
             "ro": "Conducerea către clusterul nordic B.",
-            "en": "Drive to the northern Cluster B."
+            "en": "Drive to the northern Cluster B.",
+            "fr": "Rejoignez le cluster nord B en voiture."
           }
         },
         {
@@ -668,7 +714,8 @@
             "de": "Promenade des Platanen (Cluster B)",
             "hu": "Platán sétány",
             "ro": "Promenada Platanilor",
-            "en": "Platanes Promenade"
+            "en": "Platanes Promenade",
+            "fr": "Promenade des Platanes"
           },
           "coords": [
             2.8975,
@@ -683,7 +730,8 @@
             "de": "Entspannter Spaziergang vom Palais.",
             "hu": "Pihentető séta a palotától.",
             "ro": "Plimbare relaxantă de la palat.",
-            "en": "Relaxing walk from the Palace."
+            "en": "Relaxing walk from the Palace.",
+            "fr": "Promenade relaxante depuis le Palais."
           }
         },
         {
@@ -691,7 +739,8 @@
             "de": "Stadion Aimé Giral (Cluster C)",
             "hu": "Aimé Giral Stadion",
             "ro": "Stadionul Aimé Giral",
-            "en": "Aimé Giral Stadium"
+            "en": "Aimé Giral Stadium",
+            "fr": "Stade Aimé Giral"
           },
           "coords": [
             2.8962,
@@ -706,7 +755,8 @@
             "de": "Fahrt ganz in den Norden der Stadt.",
             "hu": "Autózás a város legészakibb részére.",
             "ro": "Conduceți până în nordul extrem al orașului.",
-            "en": "Drive to the far north of the city."
+            "en": "Drive to the far north of the city.",
+            "fr": "Rejoignez la partie la plus au nord de la ville en voiture."
           }
         },
         {
@@ -714,7 +764,8 @@
             "de": "Messegelände Perpignan (Cluster C)",
             "hu": "Perpignani Vásárközpont",
             "ro": "Centrul de Expoziții Perpignan",
-            "en": "Perpignan Exhibition Centre"
+            "en": "Perpignan Exhibition Centre",
+            "fr": "Parc des Expositions de Perpignan"
           },
           "coords": [
             2.8905,
@@ -729,7 +780,8 @@
             "de": "Große Parkplätze direkt vor Ort.",
             "hu": "Nagy parkolók közvetlenül a helyszínen.",
             "ro": "Parcări mari direct la fața locului.",
-            "en": "Large parking lots directly on-site."
+            "en": "Large parking lots directly on-site.",
+            "fr": "Grands parkings directement sur place."
           }
         }
       ],
@@ -737,7 +789,8 @@
         "de": "Erkunden Sie Perpignan effizient in drei Clustern. Zuerst parken Sie im Zentrum (Cluster A) für das historische Castillet und die Kathedrale. Danach fahren Sie zum nördlichen Palais des Congrès (Cluster B) für Kultur und die schattige Promenade. Schließlich besuchen Sie den hohen Norden (Cluster C) mit dem Messegelände und dem legendären USAP-Stadion.",
         "hu": "Fedezze fel Perpignant hatékonyan három klaszterben. Először parkoljon le a központban (A klaszter) a történelmi Castillet és a székesegyház megtekintéséhez. Ezután hajtson az északi Kongresszusi Palotához (B klaszter) a kultúráért és az árnyas sétányért. Végül látogasson el a legészakibb részre (C klaszter) a vásárközpont és a legendás USAP stadion miatt.",
         "ro": "Explorați Perpignan eficient în trei clustere. Mai întâi parcați în centru (Cluster A) pentru Castillet-ul istoric și catedrală. Apoi conduceți spre Palais des Congrès din nord (Cluster B) pentru cultură și promenada umbrită. În cele din urmă, vizitați nordul extrem (Cluster C) cu centrul de expoziții și legendarul stadion USAP.",
-        "en": "Explore Perpignan efficiently in three clusters. First, park in the center (Cluster A) for the historic Castillet and the cathedral. Then drive to the northern Palais des Congrès (Cluster B) for culture and the shaded promenade. Finally, visit the far north (Cluster C) featuring the exhibition center and the legendary USAP stadium."
+        "en": "Explore Perpignan efficiently in three clusters. First, park in the center (Cluster A) for the historic Castillet and the cathedral. Then drive to the northern Palais des Congrès (Cluster B) for culture and the shaded promenade. Finally, visit the far north (Cluster C) featuring the exhibition center and the legendary USAP stadium.",
+        "fr": "Explorez Perpignan efficacement en trois clusters. D’abord, garez‑vous au centre (Cluster A) pour le Castillet historique et la cathédrale. Ensuite, conduisez jusqu’au Palais des Congrès au nord (Cluster B) pour la culture et la promenade ombragée. Enfin, visitez le grand nord (Cluster C) avec le parc des expositions et le légendaire stade de l’USAP."
       },
       "gastro_picks": {
         "de": [
@@ -841,6 +894,11 @@
           "Central parking at 'Parking Wilson' is most convenient.",
           "The A9 is the main link to Spain and Narbonne.",
           "In the old town, the car is useless; stay within the cluster."
+        ],
+        "fr": [
+          "Le parking central « Parking Wilson » est le plus pratique.",
+          "L’A9 est l’axe principal vers l’Espagne et Narbonne.",
+          "Dans la vieille ville, la voiture est inutile ; restez à l’intérieur du cluster."
         ]
       }
     },
@@ -857,7 +915,8 @@
             "de": "Le Castillet",
             "hu": "Le Castillet",
             "ro": "Le Castillet",
-            "en": "Le Castillet"
+            "en": "Le Castillet",
+            "fr": "Le Castillet"
           },
           "coords": [
             2.8935,
@@ -872,7 +931,8 @@
             "de": "Zentraler Busknotenpunkt 'Place de Catalogne' liegt nah.",
             "hu": "A 'Place de Catalogne' központi buszcsomópont közel van.",
             "ro": "Nodul central de autobuz 'Place de Catalogne' este aproape.",
-            "en": "Central bus hub 'Place de Catalogne' is nearby."
+            "en": "Central bus hub 'Place de Catalogne' is nearby.",
+            "fr": "Le hub principal des bus « Place de Catalogne » est à proximité."
           }
         },
         {
@@ -880,7 +940,8 @@
             "de": "Kathedrale Saint-Jean",
             "hu": "Saint-Jean székesegyház",
             "ro": "Catedrala Saint-Jean",
-            "en": "Saint-Jean Cathedral"
+            "en": "Saint-Jean Cathedral",
+            "fr": "Cathédrale Saint‑Jean"
           },
           "coords": [
             2.8974,
@@ -895,7 +956,8 @@
             "de": "Vom Castillet aus leicht zu Fuß erreichbar.",
             "hu": "A Castillet-től könnyen elérhető gyalog.",
             "ro": "Ușor accesibil pe jos de la Castillet.",
-            "en": "Easily accessible on foot from Castillet."
+            "en": "Easily accessible on foot from Castillet.",
+            "fr": "Facilement accessible à pied depuis le Castillet."
           }
         },
         {
@@ -903,7 +965,8 @@
             "de": "Musée Rigaud",
             "hu": "Rigaud Múzeum",
             "ro": "Muzeul Rigaud",
-            "en": "Musée Rigaud"
+            "en": "Musée Rigaud",
+            "fr": "Musée Rigaud"
           },
           "coords": [
             2.8938,
@@ -918,7 +981,8 @@
             "de": "Nutzen Sie den City-Bus für kleine Distanzen.",
             "hu": "Használd a City-Buszt a kis távolságokhoz.",
             "ro": "Folosiți City-Bus pentru distanțe mici.",
-            "en": "Use the City-Bus for short distances."
+            "en": "Use the City-Bus for short distances.",
+            "fr": "Utilisez le City‑Bus pour les courtes distances."
           }
         },
         {
@@ -926,7 +990,8 @@
             "de": "Promenade des Platanen",
             "hu": "Platán sétány",
             "ro": "Promenada Platanilor",
-            "en": "Platanes Promenade"
+            "en": "Platanes Promenade",
+            "fr": "Promenade des Platanes"
           },
           "coords": [
             2.8975,
@@ -941,7 +1006,8 @@
             "de": "Linie 2 oder 4 bringt Sie direkt hierher.",
             "hu": "A 2-es vagy 4-es vonal közvetlenül idehoz.",
             "ro": "Linia 2 sau 4 vă aduce direct aici.",
-            "en": "Line 2 or 4 brings you directly here."
+            "en": "Line 2 or 4 brings you directly here.",
+            "fr": "La ligne 2 ou 4 vous y mène directement."
           }
         },
         {
@@ -949,7 +1015,8 @@
             "de": "Palais des Congrès",
             "hu": "Kongresszusi Palota",
             "ro": "Palais des Congrès",
-            "en": "Palais des Congrès"
+            "en": "Palais des Congrès",
+            "fr": "Palais des Congrès"
           },
           "coords": [
             2.8985,
@@ -964,7 +1031,8 @@
             "de": "Wichtige Haltestelle im Norden des Zentrums.",
             "hu": "Fontos megálló a központ északi részén.",
             "ro": "Stație importantă în nordul centrului.",
-            "en": "Important stop in the north of the center."
+            "en": "Important stop in the north of the center.",
+            "fr": "Arrêt important au nord du centre."
           }
         }
       ],
@@ -972,7 +1040,8 @@
         "de": "Dank des gut ausgebauten 'Sankéo'-Busnetzes erreichen Sie alle wichtigen Sehenswürdigkeiten. Starten Sie im Herzen am Castillet und erkunden Sie die Altstadt zu Fuß. Danach bringt Sie ein kurzer Hop nach Norden zur schattigen Promenade und dem Palais des Congrès, ohne sich um Parkplätze kümmern zu müssen.",
         "hu": "A jól kiépített 'Sankéo' buszhálózatnak köszönhetően minden fontos látnivalót elérhet. Kezdjen a szívben, a Castillet-nél, és fedezze fel gyalog az óvárost. Ezután egy rövid buszos utazással északra juthat az árnyas sétányhoz és a Kongresszusi Palotához, anélkül, hogy parkolással kellene bajlódnia.",
         "ro": "Datorită rețelei bine dezvoltate de autobuze 'Sankéo', puteți ajunge la toate atracțiile importante. Începeți în inimă, la Castillet, și explorați orașul vechi pe jos. Apoi, un scurt salt cu autobuzul vă duce spre nord, la promenada umbrită și Palais des Congrès, fără să vă faceți griji pentru parcare.",
-        "en": "Thanks to the well-developed 'Sankéo' bus network, you can reach all the major sights. Start in the heart at Castillet and explore the old town on foot. Then, a short bus hop takes you north to the shaded promenade and the Palais des Congrès, without having to worry about parking."
+        "en": "Thanks to the well-developed 'Sankéo' bus network, you can reach all the major sights. Start in the heart at Castillet and explore the old town on foot. Then, a short bus hop takes you north to the shaded promenade and the Palais des Congrès, without having to worry about parking.",
+        "fr": "Grâce au réseau de bus bien développé « Sankéo », vous pouvez rejoindre tous les principaux sites. Commencez au cœur, au Castillet, et explorez la vieille ville à pied. Ensuite, une courte ligne de bus vous conduit au nord jusqu’à la promenade ombragée et au Palais des Congrès, sans vous soucier du stationnement."
       },
       "gastro_picks": {
         "de": [
@@ -1076,6 +1145,11 @@
           "Buy a day ticket directly from the driver or via the app.",
           "Buses run very regularly in the center.",
           "Look for the 'P'tit Bus' lines in the downtown area."
+        ],
+        "fr": [
+          "Achetez un ticket journalier directement auprès du conducteur ou via l'application.",
+          "Les bus circulent très régulièrement dans le centre.",
+          "Cherchez les lignes 'P'tit Bus' en centre-ville."
         ]
       }
     }

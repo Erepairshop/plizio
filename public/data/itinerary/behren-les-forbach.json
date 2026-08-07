@@ -21,7 +21,8 @@
             "de": "Maison des Associations",
             "hu": "Maison des Associations",
             "ro": "Maison des Associations",
-            "en": "Maison des Associations"
+            "en": "Maison des Associations",
+            "fr": "Maison des Associations"
           },
           "coords": [
             6.934166,
@@ -36,7 +37,8 @@
             "de": "Entdecken Sie das Zentrum des lokalen Gemeinschaftslebens mit wechselnden Kulturveranstaltungen; prüfen Sie das Programmbrett am Eingang für aktuelle Termine.",
             "hu": "Fedezze fel a helyi közösségi élet központját, ahol változatos kulturális események várják; nézze meg a bejáratnál lévő táblát az aktuális programokért.",
             "ro": "Descoperiți inima vieții culturale locale prin expoziții și evenimente diverse; verificați avizierul de la intrare pentru a vedea programul zilei curente.",
-            "en": "Discover the heart of local community life through its cultural exhibits; check the bulletin board by the main entrance to catch any pop-up daily events."
+            "en": "Discover the heart of local community life through its cultural exhibits; check the bulletin board by the main entrance to catch any pop-up daily events.",
+            "fr": "Découvrez le cœur de la vie communautaire locale à travers ses expositions culturelles ; consultez le panneau d’affichage près de l’entrée principale pour repérer les événements éphémères du jour."
           }
         },
         {
@@ -44,7 +46,8 @@
             "de": "Église Saint-Jean-Bosco",
             "hu": "Église Saint-Jean-Bosco",
             "ro": "Église Saint-Jean-Bosco",
-            "en": "Église Saint-Jean-Bosco"
+            "en": "Église Saint-Jean-Bosco",
+            "fr": "Église Saint-Jean-Bosco"
           },
           "coords": [
             6.933966,
@@ -59,7 +62,8 @@
             "de": "Bewundern Sie die moderne Architektur dieser beeindruckenden Nachkriegskirche, und bringen Sie ein Weitwinkelobjektiv für die faszinierende Innenstruktur mit.",
             "hu": "Csodálja meg ennek a modern, háború utáni templomnak az építészetét, és hozzon magával nagylátószögű objektívet a lenyűgöző belső tér megörökítéséhez.",
             "ro": "Admirați arhitectura modernă a acestei biserici de după război și aduceți un obiectiv superangular pentru a fotografia structura interioară fascinantă.",
-            "en": "Admire the modern architectural lines of this postwar church, and bring a wide-angle lens to fully capture the fascinating details of its vast interior."
+            "en": "Admire the modern architectural lines of this postwar church, and bring a wide-angle lens to fully capture the fascinating details of its vast interior.",
+            "fr": "Admirez les lignes architecturales modernes de cette église d’après-guerre, et apportez un objectif grand-angle pour capturer pleinement les fascinants détails de son vaste intérieur."
           }
         },
         {
@@ -67,7 +71,8 @@
             "de": "Saint Blaise Church",
             "hu": "Saint Blaise Church",
             "ro": "Saint Blaise Church",
-            "en": "Saint Blaise Church"
+            "en": "Saint Blaise Church",
+            "fr": "Église Saint-Blaise"
           },
           "coords": [
             6.942945,
@@ -82,7 +87,8 @@
             "de": "Diese zentrale Kirche besticht durch ihre traditionelle Bauweise und ihre Buntglasfenster; besuchen Sie sie am späten Vormittag für das beste Sonnenlicht im Schiff.",
             "hu": "A központi templom lenyűgöz a hagyományos építészetével és ólomüveg ablakaival; látogassa meg késő délelőtt, amikor a legszebben süt be a napfény a hajóba.",
             "ro": "Biserica centrală atrage prin arhitectura tradițională și vitraliile superbe; vizitați-o spre prânz pentru a prinde cea mai bună lumină naturală în naos.",
-            "en": "This central church charms visitors with its traditional build and stained glass; visit in the late morning to experience the best sunlight inside the nave."
+            "en": "This central church charms visitors with its traditional build and stained glass; visit in the late morning to experience the best sunlight inside the nave.",
+            "fr": "Cette église centrale charme les visiteurs par sa construction traditionnelle et ses vitraux ; visitez-la en fin de matinée pour profiter du meilleur ensoleillement à l’intérieur de la nef."
           }
         },
         {
@@ -90,7 +96,8 @@
             "de": "Église Saint-Hubert",
             "hu": "Église Saint-Hubert",
             "ro": "Église Saint-Hubert",
-            "en": "Église Saint-Hubert"
+            "en": "Église Saint-Hubert",
+            "fr": "Église Saint-Hubert"
           },
           "coords": [
             6.961784,
@@ -105,7 +112,8 @@
             "de": "Genießen Sie die friedliche Atmosphäre an dieser charmanten Kirche mit ihrem ruhigen Vorplatz; setzen Sie sich auf die nahegelegene Bank, um den Moment auszukosten.",
             "hu": "Élvezze a békés atmoszférát ennél a bájos templomnál és annak csendes előterénél; üljön le a közeli padra, és szánjon egy percet a teljes kikapcsolódásra.",
             "ro": "Bucurați-vă de atmosfera pașnică a acestei biserici fermecătoare cu curtea sa liniștită; așezați-vă pe o bancă din apropiere pentru a savura momentul de calm.",
-            "en": "Enjoy the peaceful atmosphere at this charming church and its quiet front courtyard; grab a seat on the nearby bench to fully appreciate the serene setting."
+            "en": "Enjoy the peaceful atmosphere at this charming church and its quiet front courtyard; grab a seat on the nearby bench to fully appreciate the serene setting.",
+            "fr": "Profitez de l’atmosphère paisible de cette charmante église et de sa cour d’entrée tranquille ; asseyez-vous sur le banc voisin pour apprécier pleinement ce cadre serein."
           }
         },
         {
@@ -113,7 +121,8 @@
             "de": "Memorial Jumelage Kerbach Saint-Laurent de Cognac",
             "hu": "Memorial Jumelage Kerbach Saint-Laurent de Cognac",
             "ro": "Memorial Jumelage Kerbach Saint-Laurent de Cognac",
-            "en": "Memorial Jumelage Kerbach Saint-Laurent de Cognac"
+            "en": "Memorial Jumelage Kerbach Saint-Laurent de Cognac",
+            "fr": "Mémorial Jumelage Kerbach Saint-Laurent de Cognac"
           },
           "coords": [
             6.965942,
@@ -128,7 +137,8 @@
             "de": "Ehren Sie die europäische Freundschaft an diesem historischen Denkmal; lesen Sie die informativen Plaketten, um die tiefe Bedeutung der Städtepartnerschaft zu verstehen.",
             "hu": "Tisztelgés az európai barátság előtt ezen a történelmi emlékművön; olvassa el az információs táblákat a testvérvárosi kapcsolat mélyebb megértése érdekében.",
             "ro": "Onorați prietenia europeană la acest monument istoric deosebit; citiți plăcuțele informative pentru a înțelege semnificația profundă a înfrățirii locale.",
-            "en": "Honor European friendship at this quiet historical monument; take time to read the informative plaques to fully understand the local twinning relationship."
+            "en": "Honor European friendship at this quiet historical monument; take time to read the informative plaques to fully understand the local twinning relationship.",
+            "fr": "Rendez hommage à l’amitié européenne à ce monument historique paisible ; prenez le temps de lire les plaques d’information pour comprendre pleinement le lien de jumelage local."
           }
         }
       ],
@@ -136,7 +146,8 @@
         "de": "Beginnen Sie den Tag in der Maison des Associations, einem kulturellen Zentrum, das die lokale Geschichte und Gemeinschaft beleuchtet. Anschließend spazieren Sie zur Église Saint-Jean-Bosco, wo Sie architektonische Details der Nachkriegszeit entdecken können. Nachmittags erwartet Sie die Saint Blaise Church, bevor Sie weiter zur Église Saint-Hubert mit ihrem charmanten Platz gehen. Zum Abschluss besichtigen Sie das Memorial Jumelage Kerbach, ein Symbol europäischer Freundschaft in ruhiger Umgebung.",
         "hu": "Kezdje a napot a Maison des Associations kulturális központjában, amely bemutatja a helyi közösség sokszínű történetét. Ezután sétáljon át a közeli Église Saint-Jean-Bosco templomhoz. Délután csodálja meg a Saint Blaise Church nyugodt atmoszféráját, majd vegye az irányt az Église Saint-Hubert felé. A napot a Memorial Jumelage Kerbach emlékműnél zárja, amely a testvérvárosi kapcsolatoknak és az európai békének állít emléket.",
         "ro": "Începeți ziua la Maison des Associations, un centru cultural plin de viață care reflectă istoria comunității locale. Continuați cu o plimbare scurtă până la Église Saint-Jean-Bosco, admirând liniștea sa. După-amiază, descoperiți farmecul bisericii Saint Blaise, urmată de vizita la Église Saint-Hubert cu piațeta sa primitoare. Seara se încheie la Memorial Jumelage Kerbach, un monument istoric ce celebrează prietenia europeană și pacea.",
-        "en": "Start your day at the Maison des Associations, exploring local cultural exhibits that reflect the community's rich heritage. Take a short stroll to the modern Église Saint-Jean-Bosco to enjoy its peaceful interior. In the afternoon, discover the classic architecture of Saint Blaise Church and the charming Église Saint-Hubert. Conclude your walking tour at the Memorial Jumelage Kerbach, a quiet historical landmark celebrating European friendship."
+        "en": "Start your day at the Maison des Associations, exploring local cultural exhibits that reflect the community's rich heritage. Take a short stroll to the modern Église Saint-Jean-Bosco to enjoy its peaceful interior. In the afternoon, discover the classic architecture of Saint Blaise Church and the charming Église Saint-Hubert. Conclude your walking tour at the Memorial Jumelage Kerbach, a quiet historical landmark celebrating European friendship.",
+        "fr": "Commencez votre journée à la Maison des Associations en explorant les expositions culturelles qui reflètent le riche patrimoine de la communauté. Faites une courte promenade jusqu’à la moderne Église Saint-Jean-Bosco pour profiter de son intérieur paisible. L’après-midi, découvrez l’architecture classique de l’Église Saint-Blaise et la charmante Église Saint-Hubert. Concluez votre promenade à pied au Mémorial Jumelage Kerbach, un lieu historique tranquille célébrant l’amitié européenne."
       },
       "variants": {
         "rainy": {
@@ -144,7 +155,8 @@
             "de": "Beginnen Sie den Morgen im Maison des Associations, das Schutz vor dem Regen bietet. Erkunden Sie mittags die trockenen, ruhigen Innenräume der Église Saint-Jean-Bosco und der Kirche Saint Blaise. Am Nachmittag spazieren Sie mit aufgespanntem Regenschirm zur Église Saint-Hubert. Beenden Sie den Tag am Denkmal, wo der Regen eine besonders besinnliche Atmosphäre für die Gedenkstätte schafft.",
             "hu": "A reggelt kezdje a Maison des Associations épületében, amely kiváló menedéket nyújt az eső elől. Délben fedezze fel a lenyűgöző Église Saint-Jean-Bosco és a Saint Blaise templom száraz, csendes belső tereit. Délután, esernyővel a kézben látogasson el az Église Saint-Hubert felé. A napot az emlékműnél zárja, ahol az esős időjárás különleges atmoszférát teremt a megemlékezéshez.",
             "ro": "Începeți dimineața la Maison des Associations, la adăpost de ploaie. La prânz, explorați interioarele uscate și liniștite ale bisericilor Saint-Jean-Bosco și Saint Blaise. După-amiaza, îndreptați-vă cu umbrela spre Église Saint-Hubert. Încheiați ziua la Memorial, unde vremea ploioasă creează o atmosferă profundă și contemplativă pentru a onora istoria locală.",
-            "en": "Start your morning at the Maison des Associations, where indoor activities offer shelter from the rain. By midday, explore the stunning Église Saint-Jean-Bosco and Saint Blaise Church, appreciating their quiet, dry interiors. In the afternoon, head towards Église Saint-Hubert, keeping your umbrella handy. Conclude your day at the Memorial, reflecting under the moody, rain-swept skies."
+            "en": "Start your morning at the Maison des Associations, where indoor activities offer shelter from the rain. By midday, explore the stunning Église Saint-Jean-Bosco and Saint Blaise Church, appreciating their quiet, dry interiors. In the afternoon, head towards Église Saint-Hubert, keeping your umbrella handy. Conclude your day at the Memorial, reflecting under the moody, rain-swept skies.",
+            "fr": "Commencez votre matinée à la Maison des Associations, où les activités d’intérieur offrent un abri contre la pluie. Vers midi, explorez la superbe Église Saint-Jean-Bosco et l’Église Saint-Blaise, appréciant leurs intérieurs calmes et secs. L’après-midi, dirigez-vous vers l’Église Saint-Hubert en gardant votre parapluie à portée de main. Terminez la journée au Mémorial en contemplant les ciels chargés et balayés par la pluie."
           },
           "stops": [
             {
@@ -152,13 +164,15 @@
                 "de": "Maison des Associations",
                 "hu": "Maison des Associations",
                 "ro": "Maison des Associations",
-                "en": "Maison des Associations"
+                "en": "Maison des Associations",
+                "fr": "Maison des Associations"
               },
               "tip_5lang": {
                 "de": "Entdecken Sie die kulturellen Ausstellungen drinnen; für den kurzen, aber nassen Weg vom Startpunkt ist ein robuster Schirm überaus ratsam.",
                 "hu": "Fedezze fel a benti kulturális kiállításokat és programokat; a rövid sétához vízálló cipő és esernyő használata határozottan javasolt.",
                 "ro": "Descoperiți expozițiile culturale în interior; o umbrelă este absolut esențială pentru scurtul drum pe jos în aceste condiții umede.",
-                "en": "Check out the local cultural exhibits inside; an umbrella and waterproof boots are essential for the short walk here in the driving rain."
+                "en": "Check out the local cultural exhibits inside; an umbrella and waterproof boots are essential for the short walk here in the driving rain.",
+                "fr": "Visitez les expositions culturelles intérieures ; un parapluie et des bottes imperméables sont essentiels pour la courte marche sous la pluie battante."
               }
             },
             {
@@ -166,13 +180,15 @@
                 "de": "Église Saint-Jean-Bosco",
                 "hu": "Église Saint-Jean-Bosco",
                 "ro": "Église Saint-Jean-Bosco",
-                "en": "Église Saint-Jean-Bosco"
+                "en": "Église Saint-Jean-Bosco",
+                "fr": "Église Saint-Jean-Bosco"
               },
               "tip_5lang": {
                 "de": "Bewundern Sie die friedliche Architektur im Inneren, ein perfekter und absolut trockener Rückzugsort vor den plötzlichen Regenschauern.",
                 "hu": "Csodálja meg a templom békés építészetét, amely tökéletes, száraz és csendes menedéket nyújt a hirtelen lezúduló záporok elől.",
                 "ro": "Admirați arhitectura pașnică a bisericii în interior, care devine un refugiu uscat perfect împotriva averselor bruște de afară.",
-                "en": "Admire the peaceful architecture inside this beautiful church, offering a perfect, dry refuge from the sudden and heavy downpours."
+                "en": "Admire the peaceful architecture inside this beautiful church, offering a perfect, dry refuge from the sudden and heavy downpours.",
+                "fr": "Admirez l’architecture paisible de l’intérieur de cette belle église, un refuge parfait et sec contre les fortes averses soudaines."
               }
             },
             {
@@ -180,13 +196,15 @@
                 "de": "Saint Blaise Church",
                 "hu": "Saint Blaise Church",
                 "ro": "Saint Blaise Church",
-                "en": "Saint Blaise Church"
+                "en": "Saint Blaise Church",
+                "fr": "Église Saint-Blaise"
               },
               "tip_5lang": {
                 "de": "Betrachten Sie die feinen Details des Altars, während Sie völlig geschützt vor dem nassen Wetter und den Pfützen bleiben.",
                 "hu": "Tanulmányozza az oltár bonyolult részleteit, miközben teljesen védve marad a nedves, esős időjárástól a vastag falak mögött.",
                 "ro": "Studiați detaliile complicate ale altarului în timp ce rămâneți complet protejați de vremea umedă și de ploaia care cade neîncetat.",
-                "en": "Take time to study the intricate details of the historic altar while staying completely safely out of the damp and dreary weather."
+                "en": "Take time to study the intricate details of the historic altar while staying completely safely out of the damp and dreary weather.",
+                "fr": "Prenez le temps d’étudier les détails complexes de l’autel historique tout en restant bien à l’abri de l’humidité et du temps morose."
               }
             },
             {
@@ -194,13 +212,15 @@
                 "de": "Église Saint-Hubert",
                 "hu": "Église Saint-Hubert",
                 "ro": "Église Saint-Hubert",
-                "en": "Église Saint-Hubert"
+                "en": "Église Saint-Hubert",
+                "fr": "Église Saint-Hubert"
               },
               "tip_5lang": {
                 "de": "Beachten Sie die Buntglasfenster, die auch an grauen, regnerischen Tagen schön wirken; absolute Vorsicht auf den nassen Stufen.",
                 "hu": "Figyelje meg az ólomüveg ablakokat, amelyek borús napokon is gyönyörűek; a bejáratnál nagyon vigyázzon a csúszós, nedves kövön.",
                 "ro": "Observați vitraliile impresionante care arată superb și în zilele gri; mare atenție la treptele de la intrare care pot fi alunecoase.",
-                "en": "Notice the striking stained glass windows which look beautiful even on grey, rainy days; watch your step on the slick entrance stones."
+                "en": "Notice the striking stained glass windows which look beautiful even on grey, rainy days; watch your step on the slick entrance stones.",
+                "fr": "Remarquez les vitraux saisissants qui sont beaux même par temps gris et pluvieux ; faites attention aux dalles d’entrée glissantes."
               }
             },
             {
@@ -208,13 +228,15 @@
                 "de": "Memorial Jumelage Kerbach Saint-Laurent de Cognac",
                 "hu": "Memorial Jumelage Kerbach Saint-Laurent de Cognac",
                 "ro": "Memorial Jumelage Kerbach Saint-Laurent de Cognac",
-                "en": "Memorial Jumelage Kerbach Saint-Laurent de Cognac"
+                "en": "Memorial Jumelage Kerbach Saint-Laurent de Cognac",
+                "fr": "Mémorial Jumelage Kerbach Saint-Laurent de Cognac"
               },
               "tip_5lang": {
                 "de": "Denken Sie an diesem Denkmal im Freien an die lokale Geschichte; eine zuverlässig wasserdichte Jacke ist hierbei absolut ideal.",
                 "hu": "Emlékezzen a történelemre ennél a szabadtéri emlékműnél; egy vízálló kabát és egy jó esernyő kényelmes maradást biztosít a sárban.",
                 "ro": "Reflectați la acest memorial istoric în aer liber; o geacă perfect impermeabilă vă va asigura confortul în timpul acestei vizite umede.",
-                "en": "Reflect at this outdoor memorial recognizing local history; a high-quality waterproof jacket will keep you comfortable in the drizzle."
+                "en": "Reflect at this outdoor memorial recognizing local history; a high-quality waterproof jacket will keep you comfortable in the drizzle.",
+                "fr": "Réfléchissez devant ce mémorial extérieur qui rappelle l’histoire locale ; une veste imperméable de bonne qualité vous gardera à l’aise sous la bruine."
               }
             }
           ]
@@ -224,7 +246,8 @@
             "de": "Beginnen Sie den Wintermorgen mit den kulturellen Ausstellungen im Maison des Associations, um sich aufzuwärmen. Besuchen Sie mittags die geschützten Räume der Kirchen Saint-Jean-Bosco und Saint Blaise. Am Nachmittag spazieren Sie zur Église Saint-Hubert, bevor die Kälte einzieht. Beenden Sie Ihren Winterspaziergang am Denkmal beim frühen Sonnenuntergang gegen 17:00 Uhr.",
             "hu": "Kezdje a téli reggelt a Maison des Associations kulturális kiállításaival, hogy felmelegedjen. Délben látogasson el az Église Saint-Jean-Bosco és a Saint Blaise templom védett tereibe. Délután vegye az irányt az Église Saint-Hubert felé, még mielőtt a hideg beállna. Fejezze be a sétát az emlékműnél a korai, 17 óra körüli naplemente csodás fényeiben.",
             "ro": "Începeți dimineața de iarnă explorând expozițiile culturale la Maison des Associations pentru a vă încălzi. La prânz, vizitați bisericile Saint-Jean-Bosco și Saint Blaise, bucurându-vă de atmosfera lor adăpostită. După-amiaza, mergeți la Église Saint-Hubert înainte să se lase frigul. Încheiați plimbarea de iarnă la Memorial, exact la apusul devreme din jurul orei 17:00.",
-            "en": "Start your winter morning exploring the cultural exhibits at the Maison des Associations to stay warm. Around noon, visit the Église Saint-Jean-Bosco and Saint Blaise Church, enjoying their quiet, sheltered atmospheres. In the afternoon, head out to the Église Saint-Hubert before the chill sets in. Conclude your crisp winter walk at the Memorial just as the sun sets early around 17:00."
+            "en": "Start your winter morning exploring the cultural exhibits at the Maison des Associations to stay warm. Around noon, visit the Église Saint-Jean-Bosco and Saint Blaise Church, enjoying their quiet, sheltered atmospheres. In the afternoon, head out to the Église Saint-Hubert before the chill sets in. Conclude your crisp winter walk at the Memorial just as the sun sets early around 17:00.",
+            "fr": "Commencez votre matinée hivernale en explorant les expositions culturelles à la Maison des Associations pour rester au chaud. Vers midi, visitez l’Église Saint-Jean-Bosco et l’Église Saint-Blaise, profitant de leurs atmosphères calmes et abritées. L’après-midi, dirigez-vous vers l’Église Saint-Hubert avant que la froideur ne s’installe. Concluez votre promenade hivernale vivifiante au Mémorial juste au moment où le soleil se couche tôt vers 17:00."
           },
           "stops": [
             {
@@ -232,13 +255,15 @@
                 "de": "Maison des Associations",
                 "hu": "Maison des Associations",
                 "ro": "Maison des Associations",
-                "en": "Maison des Associations"
+                "en": "Maison des Associations",
+                "fr": "Maison des Associations"
               },
               "tip_5lang": {
                 "de": "Genießen Sie die kulturellen Angebote drinnen, um sich aufzuwärmen; für den langen Fußweg draußen ist ein dicker Wintermantel nötig.",
                 "hu": "Élvezze a benti kulturális programokat a felmelegedéshez; a kinti, fagyos levegőn tett sétához vastag télikabát erősen ajánlott.",
                 "ro": "Bucurați-vă de expozițiile culturale interioare pentru a vă încălzi; purtați o haină groasă de iarnă pentru plimbarea pe afară.",
-                "en": "Enjoy the indoor cultural displays to warm up; ensure you wear a heavy winter coat for the brisk walk outside in the freezing air."
+                "en": "Enjoy the indoor cultural displays to warm up; ensure you wear a heavy winter coat for the brisk walk outside in the freezing air.",
+                "fr": "Profitez des expositions culturelles intérieures pour vous réchauffer ; assurez-vous de porter un manteau d’hiver épais pour la marche vive à l’extérieur dans l’air glacial."
               }
             },
             {
@@ -246,13 +271,15 @@
                 "de": "Église Saint-Jean-Bosco",
                 "hu": "Église Saint-Jean-Bosco",
                 "ro": "Église Saint-Jean-Bosco",
-                "en": "Église Saint-Jean-Bosco"
+                "en": "Église Saint-Jean-Bosco",
+                "fr": "Église Saint-Jean-Bosco"
               },
               "tip_5lang": {
                 "de": "Die dicken Kirchenmauern bieten eine sehr gute Isolierung gegen die Winterkälte, während Sie das klassische und stille Innere bewundern.",
                 "hu": "A vastag templomfalak kiváló szigetelést nyújtanak a csípős téli hideg ellen, miközben a klasszikus belső tereket csodálja.",
                 "ro": "Zidurile groase ale bisericii oferă o izolație excelentă împotriva frigului de iarnă, protejându-vă în timpul vizitei interioare.",
-                "en": "The thick church walls provide great insulation from the biting winter cold while you admire the classic, tranquil interior design."
+                "en": "The thick church walls provide great insulation from the biting winter cold while you admire the classic, tranquil interior design.",
+                "fr": "Les murs épais de l’église offrent une excellente isolation contre le froid mordant tout en admirant l’intérieur classique et tranquille."
               }
             },
             {
@@ -260,13 +287,15 @@
                 "de": "Saint Blaise Church",
                 "hu": "Saint Blaise Church",
                 "ro": "Saint Blaise Church",
-                "en": "Saint Blaise Church"
+                "en": "Saint Blaise Church",
+                "fr": "Église Saint-Blaise"
               },
               "tip_5lang": {
                 "de": "Betrachten Sie die historische religiöse Kunst; kleiden Sie sich im Zwiebellook, da alte Steingebäude im Winter recht kühl sein können.",
                 "hu": "Tekintse meg a történelmi vallási művészetet; öltözzön rétegesen és melegen, mert a régi kőépületek télen nagyon hűvösek lehetnek.",
                 "ro": "Admirați arta religioasă istorică; îmbrăcați-vă în mai multe straturi calde, deoarece clădirile vechi din piatră pot fi foarte reci.",
-                "en": "Take in the historical religious art inside; dress in warm layers as these historic stone buildings tend to retain the winter chill."
+                "en": "Take in the historical religious art inside; dress in warm layers as these historic stone buildings tend to retain the winter chill.",
+                "fr": "Admirez les œuvres d’art religieuses historiques à l’intérieur ; habillez-vous en couches chaudes car ces bâtiments de pierre conservent la fraîcheur hivernale."
               }
             },
             {
@@ -274,13 +303,15 @@
                 "de": "Église Saint-Hubert",
                 "hu": "Église Saint-Hubert",
                 "ro": "Église Saint-Hubert",
-                "en": "Église Saint-Hubert"
+                "en": "Église Saint-Hubert",
+                "fr": "Église Saint-Hubert"
               },
               "tip_5lang": {
                 "de": "Sehen Sie sich die komplexe Architektur vor Einbruch der Dunkelheit an; der frühe Sonnenuntergang lässt das Buntglas fantastisch leuchten.",
                 "hu": "Nézze meg a lenyűgöző építészetet sötétedés előtt; a korai, téli naplemente csodás, meleg fényt ad a hideg ólomüveg ablakoknak.",
                 "ro": "Admirați arhitectura complexă înainte să se întunece; apusul devreme de iarnă face vitraliile bisericii să strălucească minunat.",
-                "en": "See the intricate architecture before it gets dark; the early winter sunset around 17:00 makes the stained glass glow beautifully."
+                "en": "See the intricate architecture before it gets dark; the early winter sunset around 17:00 makes the stained glass glow beautifully.",
+                "fr": "Voyez l’architecture détaillée avant la tombée de la nuit ; le coucher de soleil hivernal tôt, vers 17:00, fait magnifiquement briller les vitraux."
               }
             },
             {
@@ -288,13 +319,15 @@
                 "de": "Memorial Jumelage Kerbach Saint-Laurent de Cognac",
                 "hu": "Memorial Jumelage Kerbach Saint-Laurent de Cognac",
                 "ro": "Memorial Jumelage Kerbach Saint-Laurent de Cognac",
-                "en": "Memorial Jumelage Kerbach Saint-Laurent de Cognac"
+                "en": "Memorial Jumelage Kerbach Saint-Laurent de Cognac",
+                "fr": "Mémorial Jumelage Kerbach Saint-Laurent de Cognac"
               },
               "tip_5lang": {
                 "de": "Zollen Sie diesem wichtigen Denkmal Respekt; tragen Sie am Abend unbedingt warme Handschuhe und eine Mütze gegen den beißenden Wind.",
                 "hu": "Tisztelegjen az emlékműnél a lenyugvó nap fényében; feltétlenül viseljen vastag kesztyűt és sapkát a metsző, esti téli szél ellen.",
                 "ro": "Aduceți un omagiu la acest monument important; asigurați-vă că purtați mănuși și căciulă groasă împotriva vântului tăios de seară.",
-                "en": "Pay your respects at this local monument; be sure to wear insulated gloves and a thick hat against the biting evening winter wind."
+                "en": "Pay your respects at this local monument; be sure to wear insulated gloves and a thick hat against the biting evening winter wind.",
+                "fr": "Rendez hommage à ce monument local ; pensez à porter des gants isolants et un bonnet épais contre le vent hivernal mordant du soir."
               }
             }
           ]
@@ -314,7 +347,8 @@
             "de": "Chapelle Saint-Jean",
             "hu": "Chapelle Saint-Jean",
             "ro": "Chapelle Saint-Jean",
-            "en": "Chapelle Saint-Jean"
+            "en": "Chapelle Saint-Jean",
+            "fr": "Chapelle Saint-Jean"
           },
           "coords": [
             6.921789,
@@ -329,7 +363,8 @@
             "de": "Erkunden Sie diese kleine, idyllische Waldkapelle fernab des Trubels; tragen Sie festes Schuhwerk, da der Zugangsweg etwas uneben und naturbelassen sein kann.",
             "hu": "Fedezze fel ezt az idilli erdei kápolnát, távol a város zajától; viseljen kényelmes, zárt cipőt, mivel a megközelítést biztosító ösvény kissé egyenetlen lehet.",
             "ro": "Explorați această mică capelă idilică, departe de agitația orașului; purtați încălțăminte confortabilă, deoarece poteca de acces poate fi ușor denivelată.",
-            "en": "Explore this small, idyllic woodland chapel located away from the city bustle; wear sturdy walking shoes as the natural access path can be a bit uneven."
+            "en": "Explore this small, idyllic woodland chapel located away from the city bustle; wear sturdy walking shoes as the natural access path can be a bit uneven.",
+            "fr": "Explorez cette petite chapelle bucolique en lisière de forêt ; portez des chaussures de marche solides car le chemin d’accès naturel peut être un peu irrégulier."
           }
         },
         {
@@ -337,7 +372,8 @@
             "de": "Église Notre-Dame-de-l'Assomption",
             "hu": "Église Notre-Dame-de-l'Assomption",
             "ro": "Église Notre-Dame-de-l'Assomption",
-            "en": "Église Notre-Dame-de-l'Assomption"
+            "en": "Église Notre-Dame-de-l'Assomption",
+            "fr": "Église Notre-Dame-de-l’Assomption"
           },
           "coords": [
             6.947867,
@@ -352,7 +388,8 @@
             "de": "Betrachten Sie die harmonische Fassade dieser beeindruckenden südlichen Kirche; spazieren Sie einmal komplett um das Gebäude, um alle architektonischen Details zu sehen.",
             "hu": "Tekintse meg ennek a lenyűgöző déli templomnak a harmonikus homlokzatát; sétálja körbe teljesen az épületet, hogy minden építészeti részletet megfigyelhessen.",
             "ro": "Observați fațada armonioasă a acestei impresionante biserici din sud; faceți un tur complet al clădirii pentru a nu rata niciun detaliu arhitectural ascuns.",
-            "en": "Observe the harmonious facade of this impressive southern church; take a walk entirely around the building to catch all the subtle architectural details."
+            "en": "Observe the harmonious facade of this impressive southern church; take a walk entirely around the building to catch all the subtle architectural details.",
+            "fr": "Observez la façade harmonieuse de cette impressionnante église du sud ; faites tout le tour du bâtiment à pied pour voir tous les détails architecturaux subtils."
           }
         },
         {
@@ -360,7 +397,8 @@
             "de": "Saint Blaise Church",
             "hu": "Saint Blaise Church",
             "ro": "Saint Blaise Church",
-            "en": "Saint Blaise Church"
+            "en": "Saint Blaise Church",
+            "fr": "Église Saint-Blaise"
           },
           "coords": [
             6.942945,
@@ -375,7 +413,8 @@
             "de": "Diese zentrale Kirche besticht durch ihre traditionelle Bauweise und ihre Buntglasfenster; besuchen Sie sie am späten Vormittag für das beste Sonnenlicht im Schiff.",
             "hu": "A központi templom lenyűgöz a hagyományos építészetével és ólomüveg ablakaival; látogassa meg késő délelőtt, amikor a legszebben süt be a napfény a hajóba.",
             "ro": "Biserica centrală atrage prin arhitectura tradițională și vitraliile superbe; vizitați-o spre prânz pentru a prinde cea mai bună lumină naturală în naos.",
-            "en": "This central church charms visitors with its traditional build and stained glass; visit in the late morning to experience the best sunlight inside the nave."
+            "en": "This central church charms visitors with its traditional build and stained glass; visit in the late morning to experience the best sunlight inside the nave.",
+            "fr": "Cette église centrale charme les visiteurs par sa construction traditionnelle et ses vitraux ; visitez-la en fin de matinée pour profiter du meilleur ensoleillement à l’intérieur de la nef."
           }
         },
         {
@@ -383,7 +422,8 @@
             "de": "Église Saint-Jean-Bosco",
             "hu": "Église Saint-Jean-Bosco",
             "ro": "Église Saint-Jean-Bosco",
-            "en": "Église Saint-Jean-Bosco"
+            "en": "Église Saint-Jean-Bosco",
+            "fr": "Église Saint-Jean-Bosco"
           },
           "coords": [
             6.933966,
@@ -398,7 +438,8 @@
             "de": "Bewundern Sie die moderne Architektur dieser beeindruckenden Nachkriegskirche, und bringen Sie ein Weitwinkelobjektiv für die faszinierende Innenstruktur mit.",
             "hu": "Csodálja meg ennek a modern, háború utáni templomnak az építészetét, és hozzon magával nagylátószögű objektívet a lenyűgöző belső tér megörökítéséhez.",
             "ro": "Admirați arhitectura modernă a acestei biserici de după război și aduceți un obiectiv superangular pentru a fotografia structura interioară fascinantă.",
-            "en": "Admire the modern architectural lines of this postwar church, and bring a wide-angle lens to fully capture the fascinating details of its vast interior."
+            "en": "Admire the modern architectural lines of this postwar church, and bring a wide-angle lens to fully capture the fascinating details of its vast interior.",
+            "fr": "Admirez les lignes architecturales modernes de cette église d’après-guerre, et apportez un objectif grand-angle pour capturer pleinement les fascinants détails de son vaste intérieur."
           }
         },
         {
@@ -406,7 +447,8 @@
             "de": "Maison des Associations",
             "hu": "Maison des Associations",
             "ro": "Maison des Associations",
-            "en": "Maison des Associations"
+            "en": "Maison des Associations",
+            "fr": "Maison des Associations"
           },
           "coords": [
             6.934166,
@@ -421,7 +463,8 @@
             "de": "Entdecken Sie das Zentrum des lokalen Gemeinschaftslebens mit wechselnden Kulturveranstaltungen; prüfen Sie das Programmbrett am Eingang für aktuelle Termine.",
             "hu": "Fedezze fel a helyi közösségi élet központját, ahol változatos kulturális események várják; nézze meg a bejáratnál lévő táblát az aktuális programokért.",
             "ro": "Descoperiți inima vieții culturale locale prin expoziții și evenimente diverse; verificați avizierul de la intrare pentru a vedea programul zilei curente.",
-            "en": "Discover the heart of local community life through its cultural exhibits; check the bulletin board by the main entrance to catch any pop-up daily events."
+            "en": "Discover the heart of local community life through its cultural exhibits; check the bulletin board by the main entrance to catch any pop-up daily events.",
+            "fr": "Découvrez le cœur de la vie communautaire locale à travers ses expositions culturelles ; consultez le panneau d’affichage près de l’entrée principale pour repérer les événements éphémères du jour."
           }
         },
         {
@@ -429,7 +472,8 @@
             "de": "Église Saint-Antoine-de-Padoue",
             "hu": "Église Saint-Antoine-de-Padoue",
             "ro": "Église Saint-Antoine-de-Padoue",
-            "en": "Église Saint-Antoine-de-Padoue"
+            "en": "Église Saint-Antoine-de-Padoue",
+            "fr": "Église Saint-Antoine-de-Padoue"
           },
           "coords": [
             6.911938,
@@ -444,7 +488,8 @@
             "de": "Erleben Sie die spirituelle Ruhe dieser westlich gelegenen Pfarrkirche; treten Sie leise ein, um die meditative Stimmung in den frühen Morgenstunden zu bewahren.",
             "hu": "Tapasztalja meg a nyugati fekvésű plébániatemplom spirituális nyugalmát; lépjen be csendesen, hogy megőrizze a kora reggeli órák meditatív és békés hangulatát.",
             "ro": "Experimentați liniștea spirituală a acestei parohii din partea de vest; intrați discret pentru a păstra atmosfera meditativă și calmă a orelor dimineții.",
-            "en": "Experience the spiritual calm of this western parish church; enter quietly to preserve the deeply meditative atmosphere, especially during the early hours."
+            "en": "Experience the spiritual calm of this western parish church; enter quietly to preserve the deeply meditative atmosphere, especially during the early hours.",
+            "fr": "Vivez le calme spirituel de cette paroisse de l’ouest ; entrez doucement pour préserver l’atmosphère méditative, surtout aux premières heures."
           }
         }
       ],
@@ -452,7 +497,8 @@
         "de": "Ihre Radtour beginnt an der abgelegenen Chapelle Saint-Jean, umgeben von ruhiger Natur am Stadtrand. Radeln Sie zügig zur Église Notre-Dame-de-l'Assomption, deren schlichte Eleganz beeindruckt. Mittags fahren Sie zur Saint Blaise Church und der nahegelegenen Église Saint-Jean-Bosco. Am Nachmittag bietet die Maison des Associations kulturelle Einblicke in die Region. Beenden Sie den Tag an der Église Saint-Antoine-de-Padoue im goldenen Abendlicht.",
         "hu": "Indítsa kerékpártúráját a külvárosi Chapelle Saint-Jean kápolnánál, amely csendes erdei környezetben fekszik. Tekerjen el az Église Notre-Dame-de-l'Assomption épületéhez egy rövid pihenőre. Délben fedezze fel a Saint Blaise Church és az Église Saint-Jean-Bosco szépségét a központban. Délután a Maison des Associations kínál izgalmas kulturális programokat. A napot az Église Saint-Antoine-de-Padoue templomnál zárja, élvezve a naplemente fényeit.",
         "ro": "Turul pe bicicletă începe la Chapelle Saint-Jean, o oază de liniște la marginea naturii, perfectă pentru dimineață. Pedalați apoi spre Église Notre-Dame-de-l'Assomption pentru a-i admira vitraliile. La prânz, vizitați biserica Saint Blaise și Église Saint-Jean-Bosco din zona centrală. După-amiaza este rezervată culturii la Maison des Associations. Încheiați traseul la Église Saint-Antoine-de-Padoue, profitând de atmosfera calmă a serii.",
-        "en": "Kick off your cycling route at the secluded Chapelle Saint-Jean, enjoying the tranquil suburban greenery before heading out. Ride smoothly to Église Notre-Dame-de-l'Assomption to admire its elegant structure. Midday brings you to the central Saint Blaise Church and Église Saint-Jean-Bosco. Spend your afternoon diving into local culture at Maison des Associations. Wrap up your active day at Église Saint-Antoine-de-Padoue as the evening sets in."
+        "en": "Kick off your cycling route at the secluded Chapelle Saint-Jean, enjoying the tranquil suburban greenery before heading out. Ride smoothly to Église Notre-Dame-de-l'Assomption to admire its elegant structure. Midday brings you to the central Saint Blaise Church and Église Saint-Jean-Bosco. Spend your afternoon diving into local culture at Maison des Associations. Wrap up your active day at Église Saint-Antoine-de-Padoue as the evening sets in.",
+        "fr": "Commencez votre itinéraire à vélo à la discrète Chapelle Saint-Jean, profitez de la verdure tranquille de la banlieue avant de partir. Roulez en direction de l’Église Notre-Dame-de-l’Assomption pour admirer sa structure élégante. À midi, rendez-vous à l’Église Saint-Blaise et à l’Église Saint-Jean-Bosco. Passez l’après-midi à découvrir la culture locale à la Maison des Associations. Terminez votre journée active à l’Église Saint-Antoine-de-Padoue au crépuscule."
       },
       "variants": {
         "rainy": {
@@ -460,7 +506,8 @@
             "de": "Starten Sie Ihre regnerische Morgenfahrt an der Chapelle Saint-Jean mit guter Regenkleidung. Fahren Sie mittags vorsichtig auf nassen Straßen zur Église Notre-Dame-de-l'Assomption und zur Kirche Saint Blaise. Am Nachmittag besuchen Sie die Église Saint-Jean-Bosco und das Maison des Associations. Beenden Sie den Abend an der Église Saint-Antoine-de-Padoue mit sicherer Fahrt im Nassen.",
             "hu": "Indítsa az esős reggeli tekerést a Chapelle Saint-Jean felé, megfelelő vízálló kerékpáros ruházatban. Délben óvatosan haladjon a csúszós utakon az Église Notre-Dame-de-l'Assomption és a Saint Blaise templom felé száraz menedékért. Délután látogassa meg az Église Saint-Jean-Bosco-t és a Maison des Associations-t. Zárja az estét az Église Saint-Antoine-de-Padoue-nál.",
             "ro": "Începeți plimbarea de dimineață la Chapelle Saint-Jean, având echipament de ploaie adecvat. La prânz, pedalați cu grijă pe drumurile umede spre Église Notre-Dame-de-l'Assomption și Saint Blaise pentru adăpost. După-amiaza, vizitați Église Saint-Jean-Bosco și Maison des Associations. Încheiați seara la Église Saint-Antoine-de-Padoue, circulând prudent pe carosabilul umed.",
-            "en": "Kick off your rainy morning ride at Chapelle Saint-Jean, ensuring you have reliable rain gear. By noon, pedal carefully on wet roads to Église Notre-Dame-de-l'Assomption and Saint Blaise Church for some dry shelter. In the afternoon, visit Église Saint-Jean-Bosco and Maison des Associations. Finish your evening at Église Saint-Antoine-de-Padoue, riding safely in the damp conditions."
+            "en": "Kick off your rainy morning ride at Chapelle Saint-Jean, ensuring you have reliable rain gear. By noon, pedal carefully on wet roads to Église Notre-Dame-de-l'Assomption and Saint Blaise Church for some dry shelter. In the afternoon, visit Église Saint-Jean-Bosco and Maison des Associations. Finish your evening at Église Saint-Antoine-de-Padoue, riding safely in the damp conditions.",
+            "fr": "Commencez votre sortie cycliste pluvieuse à la Chapelle Saint-Jean en vous assurant d’avoir un équipement de pluie fiable. À midi, pédalez prudemment sur les routes mouillées jusqu’à l’Église Notre-Dame-de-l’Assomption et l’Église Saint-Blaise pour trouver un abri sec. L’après-midi, visitez l’Église Saint-Jean-Bosco et la Maison des Associations. Terminez la journée à l’Église Saint-Antoine-de-Padoue en roulant en toute sécurité par temps humide."
           },
           "stops": [
             {
@@ -468,13 +515,15 @@
                 "de": "Chapelle Saint-Jean",
                 "hu": "Chapelle Saint-Jean",
                 "ro": "Chapelle Saint-Jean",
-                "en": "Chapelle Saint-Jean"
+                "en": "Chapelle Saint-Jean",
+                "fr": "Chapelle Saint-Jean"
               },
               "tip_5lang": {
                 "de": "Bewundern Sie diese ruhige Kapelle; stellen Sie unbedingt sicher, dass Ihre Fahrradbremsen für nasse Bedingungen optimal funktionieren.",
                 "hu": "Csodálja meg a csendes kápolnát; indulás előtt ellenőrizze a kerékpár fékjeit, amelyek a nedves, esős utakon elengedhetetlenek.",
                 "ro": "Admirați această capelă liniștită; asigurați-vă absolut că frânele bicicletei răspund excelent pe carosabilul umed și alunecos.",
-                "en": "Admire this quiet chapel; make completely sure your bike brakes are responsive and safe for the slick, wet riding conditions ahead."
+                "en": "Admire this quiet chapel; make completely sure your bike brakes are responsive and safe for the slick, wet riding conditions ahead.",
+                "fr": "Admirez cette chapelle tranquille ; assurez-vous que les freins de votre vélo répondent bien et sont sûrs pour les conditions de route glissantes et humides."
               }
             },
             {
@@ -482,13 +531,15 @@
                 "de": "Église Notre-Dame-de-l'Assomption",
                 "hu": "Église Notre-Dame-de-l'Assomption",
                 "ro": "Église Notre-Dame-de-l'Assomption",
-                "en": "Église Notre-Dame-de-l'Assomption"
+                "en": "Église Notre-Dame-de-l'Assomption",
+                "fr": "Église Notre-Dame-de-l’Assomption"
               },
               "tip_5lang": {
                 "de": "Suchen Sie drinnen Zuflucht und schätzen Sie die feine Architektur, während Sie die kräftigen Regenschauer draußen abklingen lassen.",
                 "hu": "Húzódjon be a templomba, és csodálja meg az építészetet, amíg a kinti záporok alábbhagynak és az utak egy kicsit felszáradnak.",
                 "ro": "Adăpostiți-vă în interior pentru a aprecia arhitectura fină în timp ce așteptați în siguranță să treacă ploile abundente trecătoare.",
-                "en": "Take refuge inside to appreciate the fine architecture while you stay dry and let the passing heavy rain showers slowly subside."
+                "en": "Take refuge inside to appreciate the fine architecture while you stay dry and let the passing heavy rain showers slowly subside.",
+                "fr": "Mettez-vous à l’abri à l’intérieur pour apprécier la belle architecture pendant que les fortes pluies passent peu à peu."
               }
             },
             {
@@ -496,13 +547,15 @@
                 "de": "Saint Blaise Church",
                 "hu": "Saint Blaise Church",
                 "ro": "Saint Blaise Church",
-                "en": "Saint Blaise Church"
+                "en": "Saint Blaise Church",
+                "fr": "Église Saint-Blaise"
               },
               "tip_5lang": {
                 "de": "Erkunden Sie das historische Kirchenschiff; tragen Sie auf dem Rad eine gut sichtbare, wasserdichte Jacke bei diesem trüben Wetter.",
                 "hu": "Fedezze fel a történelmi hajót; kerékpározáskor viseljen jól látható, fényvisszaverős vízálló dzsekit a borús, szürke időben.",
                 "ro": "Explorați naosul istoric; purtați o jachetă impermeabilă, foarte vizibilă pe bicicletă, pentru a ieși în evidență pe vreme mohorâtă.",
-                "en": "Explore the historic nave; be sure to wear a highly visible, waterproof cycling jacket to stand out safely in the gloomy weather."
+                "en": "Explore the historic nave; be sure to wear a highly visible, waterproof cycling jacket to stand out safely in the gloomy weather.",
+                "fr": "Explorez la nef historique ; portez une veste de cyclisme imperméable et très visible pour être en sécurité dans le temps maussade."
               }
             },
             {
@@ -510,13 +563,15 @@
                 "de": "Église Saint-Jean-Bosco",
                 "hu": "Église Saint-Jean-Bosco",
                 "ro": "Église Saint-Jean-Bosco",
-                "en": "Église Saint-Jean-Bosco"
+                "en": "Église Saint-Jean-Bosco",
+                "fr": "Église Saint-Jean-Bosco"
               },
               "tip_5lang": {
                 "de": "Ruhen Sie in der trockenen Umgebung der Kirche, ein perfekter Halt, wenn die Radwege vom ständigen Regen zu schlammig werden.",
                 "hu": "Pihenjen a templom száraz, békés környezetében, ami tökéletes megálló, ha a kerékpárutak a sok esőtől túl sárossá válnának.",
                 "ro": "Odihniți-vă în mediul uscat și senin al bisericii, o oprire absolut perfectă când traseele de bicicletă devin prea noroioase.",
-                "en": "Rest in the completely dry, serene environment of the church, a perfect stop when the biking trails get too muddy from the rain."
+                "en": "Rest in the completely dry, serene environment of the church, a perfect stop when the biking trails get too muddy from the rain.",
+                "fr": "Reposez-vous dans l’environnement complètement sec et serein de l’église, une halte idéale lorsque les sentiers à vélo deviennent trop boueux à cause de la pluie."
               }
             },
             {
@@ -524,13 +579,15 @@
                 "de": "Maison des Associations",
                 "hu": "Maison des Associations",
                 "ro": "Maison des Associations",
-                "en": "Maison des Associations"
+                "en": "Maison des Associations",
+                "fr": "Maison des Associations"
               },
               "tip_5lang": {
                 "de": "Parken Sie Ihr Rad und genießen Sie Ausstellungen drinnen; wischen Sie den nassen Sattel gründlich ab, bevor Sie weiterfahren.",
                 "hu": "Parkolja le a biciklit, és élvezze a benti kiállításokat; egy száraz ronggyal törölje le a nyerget, mielőtt újra a szakadó esőbe indul.",
                 "ro": "Parcați bicicleta și bucurați-vă de expozițiile din interior; ștergeți bine șaua umedă cu o cârpă înainte de a pedala din nou.",
-                "en": "Park your bike and enjoy the local exhibitions indoors; remember to wipe down your wet saddle completely before riding out again."
+                "en": "Park your bike and enjoy the local exhibitions indoors; remember to wipe down your wet saddle completely before riding out again.",
+                "fr": "Garez votre vélo et profitez des expositions locales à l'intérieur ; pensez à essuyer complètement votre selle humide avant de repartir."
               }
             },
             {
@@ -538,13 +595,15 @@
                 "de": "Église Saint-Antoine-de-Padoue",
                 "hu": "Église Saint-Antoine-de-Padoue",
                 "ro": "Église Saint-Antoine-de-Padoue",
-                "en": "Église Saint-Antoine-de-Padoue"
+                "en": "Église Saint-Antoine-de-Padoue",
+                "fr": "Église Saint-Antoine-de-Padoue"
               },
               "tip_5lang": {
                 "de": "Beenden Sie Ihre nasse Fahrt hier und bewundern Sie das Innere; achten Sie extrem auf die rutschigen, nass gepflasterten Wege.",
                 "hu": "Zárja itt a nedves tekerést, és csodálja meg a belső teret; a fékezésnél különösen ügyeljen a rendkívül csúszós, kövezett utakra.",
                 "ro": "Încheiați plimbarea udă aici, admirând interiorul pașnic; aveți mare grijă la frânare pe aleile pavate, care devin foarte alunecoase.",
-                "en": "Conclude your wet ride here, admiring the peaceful interior; take extra care on the extremely slippery paved paths as you depart."
+                "en": "Conclude your wet ride here, admiring the peaceful interior; take extra care on the extremely slippery paved paths as you depart.",
+                "fr": "Terminez votre sortie mouillée ici, en admirant l'intérieur paisible ; prenez grand soin sur les chemins pavés extrêmement glissants en partant."
               }
             }
           ]
@@ -554,7 +613,8 @@
             "de": "Beginnen Sie Ihre Winterradtour an der Chapelle Saint-Jean in warmer Thermokleidung. Radeln Sie mittags zügig zur Église Notre-Dame-de-l'Assomption und zur Kirche Saint Blaise, geschützt mit guten Handschuhen. Nachmittags halten Sie an der Église Saint-Jean-Bosco und am Maison des Associations. Beenden Sie die Tour an der Église Saint-Antoine-de-Padoue vor Einbruch der Dunkelheit.",
             "hu": "Kezdje a téli bringázást a Chapelle Saint-Jean-nál, alaposan felöltözve. Délben tekerjen élénken az Église Notre-Dame-de-l'Assomption és a Saint Blaise templom felé, meleg kesztyűvel védve kezeit. Délután álljon meg az Église Saint-Jean-Bosco és a Maison des Associations mellett. Fejezze be az utat az Église Saint-Antoine-de-Padoue-nál a korai naplemente előtt.",
             "ro": "Începeți plimbarea de iarnă pe bicicletă la Chapelle Saint-Jean, îmbrăcați în straturi termice. La prânz, pedalați spre Église Notre-Dame-de-l'Assomption și Saint Blaise, păstrându-vă mâinile calde. După-amiaza, opriți-vă la Église Saint-Jean-Bosco și Maison des Associations. Încheiați la Église Saint-Antoine-de-Padoue înainte ca apusul devreme să aducă temperaturi de îngheț.",
-            "en": "Start your winter bike ride at Chapelle Saint-Jean, wrapped in thermal layers. By noon, cycle briskly to Église Notre-Dame-de-l'Assomption and Saint Blaise Church, keeping your hands warm with good gloves. In the afternoon, stop by Église Saint-Jean-Bosco and Maison des Associations. Wrap up at Église Saint-Antoine-de-Padoue before the early sunset brings freezing temperatures."
+            "en": "Start your winter bike ride at Chapelle Saint-Jean, wrapped in thermal layers. By noon, cycle briskly to Église Notre-Dame-de-l'Assomption and Saint Blaise Church, keeping your hands warm with good gloves. In the afternoon, stop by Église Saint-Jean-Bosco and Maison des Associations. Wrap up at Église Saint-Antoine-de-Padoue before the early sunset brings freezing temperatures.",
+            "fr": "Commencez votre balade hivernale à vélo à la Chapelle Saint-Jean, emmitouflé dans des couches thermiques. À midi, pédalez d’un bon rythme jusqu’à l’Église Notre-Dame-de-l'Assomption et l’église Saint-Blaise, en gardant les mains au chaud avec de bons gants. L’après-midi, arrêtez-vous à l’Église Saint-Jean-Bosco et à la Maison des Associations. Terminez à l’Église Saint-Antoine-de-Padoue avant que le coucher du soleil précoce n’apporte des températures glaciales."
           },
           "stops": [
             {
@@ -562,13 +622,15 @@
                 "de": "Chapelle Saint-Jean",
                 "hu": "Chapelle Saint-Jean",
                 "ro": "Chapelle Saint-Jean",
-                "en": "Chapelle Saint-Jean"
+                "en": "Chapelle Saint-Jean",
+                "fr": "Chapelle Saint-Jean"
               },
               "tip_5lang": {
                 "de": "Werfen Sie einen Blick in diese schöne Kapelle; tragen Sie auf dem Rad unbedingt winddichte Handschuhe gegen die winterliche Kälte.",
                 "hu": "Vessen egy pillantást a szép kápolnára; a hideg menetszél ellen feltétlenül viseljen vastag, szélálló kerékpáros kesztyűt.",
                 "ro": "Aruncați o privire în interiorul capelei; asigurați-vă că purtați mănuși de ciclism rezistente la vânt împotriva frigului de iarnă.",
-                "en": "Take a quick look inside this lovely chapel; ensure you wear windproof cycling gloves to protect against the bitter cold breeze."
+                "en": "Take a quick look inside this lovely chapel; ensure you wear windproof cycling gloves to protect against the bitter cold breeze.",
+                "fr": "Jetez un coup d’œil rapide à l’intérieur de cette jolie chapelle ; assurez-vous de porter des gants de cyclisme coupe-vent pour vous protéger de la bise glaciale."
               }
             },
             {
@@ -576,13 +638,15 @@
                 "de": "Église Notre-Dame-de-l'Assomption",
                 "hu": "Église Notre-Dame-de-l'Assomption",
                 "ro": "Église Notre-Dame-de-l'Assomption",
-                "en": "Église Notre-Dame-de-l'Assomption"
+                "en": "Église Notre-Dame-de-l'Assomption",
+                "fr": "Église Notre-Dame-de-l'Assomption"
               },
               "tip_5lang": {
                 "de": "Wärmen Sie sich im Kirchenschiff auf und bewundern Sie die Architektur; Thermoschichten sind beim Radfahren im Winter essenziell.",
                 "hu": "Melegedjen fel a templomhajóban, miközben az építészetet csodálja; a megfelelő termo rétegek elengedhetetlenek a téli tekeréshez.",
                 "ro": "Încălziți-vă în naosul bisericii și admirați arhitectura; straturile termice sunt absolut esențiale pentru ciclismul de iarnă.",
-                "en": "Warm up inside the church nave and admire the architecture; thermal base layers are totally crucial for comfortable winter cycling."
+                "en": "Warm up inside the church nave and admire the architecture; thermal base layers are totally crucial for comfortable winter cycling.",
+                "fr": "Réchauffez-vous dans la nef de l’église et admirez l’architecture ; les sous-couches thermiques sont absolument cruciales pour un vélo hivernal confortable."
               }
             },
             {
@@ -590,13 +654,15 @@
                 "de": "Saint Blaise Church",
                 "hu": "Saint Blaise Church",
                 "ro": "Saint Blaise Church",
-                "en": "Saint Blaise Church"
+                "en": "Saint Blaise Church",
+                "fr": "Saint Blaise Church"
               },
               "tip_5lang": {
                 "de": "Genießen Sie die Innendekorationen; prüfen Sie, ob Ihre Fahrradlichter aufgrund der frühen Dämmerung vollständig geladen sind.",
                 "hu": "Élvezze a belső díszítéseket; mindenképp ellenőrizze, hogy a kerékpárlámpák fel vannak-e töltve a korai, 17 órai sötétedés miatt.",
                 "ro": "Bucurați-vă de decorațiunile interioare; verificați dacă luminile bicicletei sunt încărcate complet din cauza amurgului devreme.",
-                "en": "Enjoy the grand interior decorations; verify your bike lights are fully charged and mounted due to the early 17:00 winter dusk."
+                "en": "Enjoy the grand interior decorations; verify your bike lights are fully charged and mounted due to the early 17:00 winter dusk.",
+                "fr": "Appréciez les riches décorations intérieures ; vérifiez que vos éclairages de vélo sont complètement chargés et montés en raison du crépuscule hivernal dès 17:00."
               }
             },
             {
@@ -604,13 +670,15 @@
                 "de": "Église Saint-Jean-Bosco",
                 "hu": "Église Saint-Jean-Bosco",
                 "ro": "Église Saint-Jean-Bosco",
-                "en": "Église Saint-Jean-Bosco"
+                "en": "Église Saint-Jean-Bosco",
+                "fr": "Église Saint-Jean-Bosco"
               },
               "tip_5lang": {
                 "de": "Treten Sie ein, um die friedliche Atmosphäre zu schätzen und sich kurz, aber effektiv von den eisigen Wintertemperaturen zu erholen.",
                 "hu": "Lépjen be, hogy élvezze a békés hangulatot, és tartson egy rövid, de hasznos szünetet a metsző, fagyos kinti hőmérséklet elől.",
                 "ro": "Pășiți înăuntru pentru a aprecia ambianța pașnică și a lua o scurtă pauză de la temperaturile aspre și înghețate de iarnă.",
-                "en": "Step inside to appreciate the peaceful ambiance and get a short, warming respite from the biting and freezing winter temperatures."
+                "en": "Step inside to appreciate the peaceful ambiance and get a short, warming respite from the biting and freezing winter temperatures.",
+                "fr": "Entrez pour apprécier l’ambiance paisible et bénéficier d’une courte pause réchauffante contre les températures hivernales mordantes et glaciales."
               }
             },
             {
@@ -618,13 +686,15 @@
                 "de": "Maison des Associations",
                 "hu": "Maison des Associations",
                 "ro": "Maison des Associations",
-                "en": "Maison des Associations"
+                "en": "Maison des Associations",
+                "fr": "Maison des Associations"
               },
               "tip_5lang": {
                 "de": "Besuchen Sie die lokalen Ausstellungen; eine Pause im beheizten Raum hilft, die Körperwärme für die restliche Radfahrt zu bewahren.",
                 "hu": "Tekintse meg a helyi kiállításokat; a fűtött benti pihenő segít megőrizni a testhőt a hideg levegőn történő hátralévő tekeréshez.",
                 "ro": "Vizitați expozițiile culturale locale; o pauză într-un spațiu încălzit vă ajută să mențineți căldura corpului pentru restul drumului.",
-                "en": "Engage with the local cultural exhibits; taking a break indoors heavily helps maintain core body heat for the remaining chilly ride."
+                "en": "Engage with the local cultural exhibits; taking a break indoors heavily helps maintain core body heat for the remaining chilly ride.",
+                "fr": "Imprégnez-vous des expositions culturelles locales ; faire une pause à l’intérieur aide grandement à maintenir la chaleur corporelle pour le reste de la sortie fraîche."
               }
             },
             {
@@ -632,13 +702,15 @@
                 "de": "Église Saint-Antoine-de-Padoue",
                 "hu": "Église Saint-Antoine-de-Padoue",
                 "ro": "Église Saint-Antoine-de-Padoue",
-                "en": "Église Saint-Antoine-de-Padoue"
+                "en": "Église Saint-Antoine-de-Padoue",
+                "fr": "Église Saint-Antoine-de-Padoue"
               },
               "tip_5lang": {
                 "de": "Beenden Sie die Fahrt in der ruhigen Schönheit dieser Kirche; achten Sie zwingend auf gefährlich vereiste Stellen auf dem Heimweg.",
                 "hu": "Zárja útját a templom csendes szépségével; a fagyponthoz közeledve fokozottan ügyeljen az úttesten kialakuló jeges foltokra.",
                 "ro": "Încheiați călătoria bucurându-vă de frumusețea acestei biserici; fiți foarte atenți la porțiunile de gheață de pe drumul spre casă.",
-                "en": "End your journey enjoying the quiet beauty of this church; strongly watch out for dangerous icy patches on the roads as you go home."
+                "en": "End your journey enjoying the quiet beauty of this church; strongly watch out for dangerous icy patches on the roads as you go home.",
+                "fr": "Terminez votre parcours en profitant de la beauté tranquille de cette église ; soyez très vigilant aux plaques de verglas dangereuses sur les routes en rentrant."
               }
             }
           ]
@@ -658,7 +730,8 @@
             "de": "Église Saint-Antoine-de-Padoue",
             "hu": "Église Saint-Antoine-de-Padoue",
             "ro": "Église Saint-Antoine-de-Padoue",
-            "en": "Église Saint-Antoine-de-Padoue"
+            "en": "Église Saint-Antoine-de-Padoue",
+            "fr": "Église Saint-Antoine-de-Padoue"
           },
           "coords": [
             6.911938,
@@ -673,7 +746,8 @@
             "de": "Erleben Sie die spirituelle Ruhe dieser westlich gelegenen Pfarrkirche; treten Sie leise ein, um die meditative Stimmung in den frühen Morgenstunden zu bewahren.",
             "hu": "Tapasztalja meg a nyugati fekvésű plébániatemplom spirituális nyugalmát; lépjen be csendesen, hogy megőrizze a kora reggeli órák meditatív és békés hangulatát.",
             "ro": "Experimentați liniștea spirituală a acestei parohii din partea de vest; intrați discret pentru a păstra atmosfera meditativă și calmă a orelor dimineții.",
-            "en": "Experience the spiritual calm of this western parish church; enter quietly to preserve the deeply meditative atmosphere, especially during the early hours."
+            "en": "Experience the spiritual calm of this western parish church; enter quietly to preserve the deeply meditative atmosphere, especially during the early hours.",
+            "fr": "Vivez le calme spirituel de cette église paroissiale de l’ouest ; entrez en silence pour préserver l’atmosphère profondément méditative, surtout aux premières heures."
           }
         },
         {
@@ -681,7 +755,8 @@
             "de": "Chapelle Saint-Jean",
             "hu": "Chapelle Saint-Jean",
             "ro": "Chapelle Saint-Jean",
-            "en": "Chapelle Saint-Jean"
+            "en": "Chapelle Saint-Jean",
+            "fr": "Chapelle Saint-Jean"
           },
           "coords": [
             6.921789,
@@ -696,7 +771,8 @@
             "de": "Erkunden Sie diese kleine, idyllische Waldkapelle fernab des Trubels; tragen Sie festes Schuhwerk, da der Zugangsweg etwas uneben und naturbelassen sein kann.",
             "hu": "Fedezze fel ezt az idilli erdei kápolnát, távol a város zajától; viseljen kényelmes, zárt cipőt, mivel a megközelítést biztosító ösvény kissé egyenetlen lehet.",
             "ro": "Explorați această mică capelă idilică, departe de agitația orașului; purtați încălțăminte confortabilă, deoarece poteca de acces poate fi ușor denivelată.",
-            "en": "Explore this small, idyllic woodland chapel located away from the city bustle; wear sturdy walking shoes as the natural access path can be a bit uneven."
+            "en": "Explore this small, idyllic woodland chapel located away from the city bustle; wear sturdy walking shoes as the natural access path can be a bit uneven.",
+            "fr": "Explorez cette petite chapelle bucolique en lisière de forêt, à l’écart de l’effervescence de la ville ; portez des chaussures de marche robustes car le chemin d’accès naturel peut être un peu irrégulier."
           }
         },
         {
@@ -704,7 +780,8 @@
             "de": "Église Notre-Dame-de-l'Assomption",
             "hu": "Église Notre-Dame-de-l'Assomption",
             "ro": "Église Notre-Dame-de-l'Assomption",
-            "en": "Église Notre-Dame-de-l'Assomption"
+            "en": "Église Notre-Dame-de-l'Assomption",
+            "fr": "Église Notre-Dame-de-l'Assomption"
           },
           "coords": [
             6.947867,
@@ -719,7 +796,8 @@
             "de": "Betrachten Sie die harmonische Fassade dieser beeindruckenden südlichen Kirche; spazieren Sie einmal komplett um das Gebäude, um alle architektonischen Details zu sehen.",
             "hu": "Tekintse meg ennek a lenyűgöző déli templomnak a harmonikus homlokzatát; sétálja körbe teljesen az épületet, hogy minden építészeti részletet megfigyelhessen.",
             "ro": "Observați fațada armonioasă a acestei impresionante biserici din sud; faceți un tur complet al clădirii pentru a nu rata niciun detaliu arhitectural ascuns.",
-            "en": "Observe the harmonious facade of this impressive southern church; take a walk entirely around the building to catch all the subtle architectural details."
+            "en": "Observe the harmonious facade of this impressive southern church; take a walk entirely around the building to catch all the subtle architectural details.",
+            "fr": "Observez la façade harmonieuse de cette impressionnante église du sud ; faites le tour complet du bâtiment pour repérer tous les détails architecturaux subtils."
           }
         },
         {
@@ -727,7 +805,8 @@
             "de": "Saint Blaise Church",
             "hu": "Saint Blaise Church",
             "ro": "Saint Blaise Church",
-            "en": "Saint Blaise Church"
+            "en": "Saint Blaise Church",
+            "fr": "Saint Blaise Church"
           },
           "coords": [
             6.942945,
@@ -742,7 +821,8 @@
             "de": "Diese zentrale Kirche besticht durch ihre traditionelle Bauweise und ihre Buntglasfenster; besuchen Sie sie am späten Vormittag für das beste Sonnenlicht im Schiff.",
             "hu": "A központi templom lenyűgöz a hagyományos építészetével és ólomüveg ablakaival; látogassa meg késő délelőtt, amikor a legszebben süt be a napfény a hajóba.",
             "ro": "Biserica centrală atrage prin arhitectura tradițională și vitraliile superbe; vizitați-o spre prânz pentru a prinde cea mai bună lumină naturală în naos.",
-            "en": "This central church charms visitors with its traditional build and stained glass; visit in the late morning to experience the best sunlight inside the nave."
+            "en": "This central church charms visitors with its traditional build and stained glass; visit in the late morning to experience the best sunlight inside the nave.",
+            "fr": "Cette église centrale charme les visiteurs par sa construction traditionnelle et ses vitraux ; venez en fin de matinée pour bénéficier du meilleur ensoleillement à l’intérieur de la nef."
           }
         },
         {
@@ -750,7 +830,8 @@
             "de": "Memorial Jumelage Kerbach Saint-Laurent de Cognac",
             "hu": "Memorial Jumelage Kerbach Saint-Laurent de Cognac",
             "ro": "Memorial Jumelage Kerbach Saint-Laurent de Cognac",
-            "en": "Memorial Jumelage Kerbach Saint-Laurent de Cognac"
+            "en": "Memorial Jumelage Kerbach Saint-Laurent de Cognac",
+            "fr": "Memorial Jumelage Kerbach Saint-Laurent de Cognac"
           },
           "coords": [
             6.965942,
@@ -765,7 +846,8 @@
             "de": "Ehren Sie die europäische Freundschaft an diesem historischen Denkmal; lesen Sie die informativen Plaketten, um die tiefe Bedeutung der Städtepartnerschaft zu verstehen.",
             "hu": "Tisztelgés az európai barátság előtt ezen a történelmi emlékművön; olvassa el az információs táblákat a testvérvárosi kapcsolat mélyebb megértése érdekében.",
             "ro": "Onorați prietenia europeană la acest monument istoric deosebit; citiți plăcuțele informative pentru a înțelege semnificația profundă a înfrățirii locale.",
-            "en": "Honor European friendship at this quiet historical monument; take time to read the informative plaques to fully understand the local twinning relationship."
+            "en": "Honor European friendship at this quiet historical monument; take time to read the informative plaques to fully understand the local twinning relationship.",
+            "fr": "Honorez l’amitié européenne à ce monument historique tranquille ; prenez le temps de lire les plaques informatives pour comprendre pleinement la relation de jumelage locale."
           }
         },
         {
@@ -773,7 +855,8 @@
             "de": "Église Saint-Hubert",
             "hu": "Église Saint-Hubert",
             "ro": "Église Saint-Hubert",
-            "en": "Église Saint-Hubert"
+            "en": "Église Saint-Hubert",
+            "fr": "Église Saint-Hubert"
           },
           "coords": [
             6.961784,
@@ -788,7 +871,8 @@
             "de": "Genießen Sie die friedliche Atmosphäre an dieser charmanten Kirche mit ihrem ruhigen Vorplatz; setzen Sie sich auf die nahegelegene Bank, um den Moment auszukosten.",
             "hu": "Élvezze a békés atmoszférát ennél a bájos templomnál és annak csendes előterénél; üljön le a közeli padra, és szánjon egy percet a teljes kikapcsolódásra.",
             "ro": "Bucurați-vă de atmosfera pașnică a acestei biserici fermecătoare cu curtea sa liniștită; așezați-vă pe o bancă din apropiere pentru a savura momentul de calm.",
-            "en": "Enjoy the peaceful atmosphere at this charming church and its quiet front courtyard; grab a seat on the nearby bench to fully appreciate the serene setting."
+            "en": "Enjoy the peaceful atmosphere at this charming church and its quiet front courtyard; grab a seat on the nearby bench to fully appreciate the serene setting.",
+            "fr": "Profitez de l’atmosphère paisible de cette charmante église et de sa cour avant tranquille ; asseyez-vous sur le banc à proximité pour apprécier pleinement le cadre serein."
           }
         },
         {
@@ -796,7 +880,8 @@
             "de": "Maison des Associations",
             "hu": "Maison des Associations",
             "ro": "Maison des Associations",
-            "en": "Maison des Associations"
+            "en": "Maison des Associations",
+            "fr": "Maison des Associations"
           },
           "coords": [
             6.934166,
@@ -811,7 +896,8 @@
             "de": "Entdecken Sie das Zentrum des lokalen Gemeinschaftslebens mit wechselnden Kulturveranstaltungen; prüfen Sie das Programmbrett am Eingang für aktuelle Termine.",
             "hu": "Fedezze fel a helyi közösségi élet központját, ahol változatos kulturális események várják; nézze meg a bejáratnál lévő táblát az aktuális programokért.",
             "ro": "Descoperiți inima vieții culturale locale prin expoziții și evenimente diverse; verificați avizierul de la intrare pentru a vedea programul zilei curente.",
-            "en": "Discover the heart of local community life through its cultural exhibits; check the bulletin board by the main entrance to catch any pop-up daily events."
+            "en": "Discover the heart of local community life through its cultural exhibits; check the bulletin board by the main entrance to catch any pop-up daily events.",
+            "fr": "Découvrez le cœur de la vie communautaire locale à travers ses expositions culturelles ; consultez le tableau d’affichage près de l’entrée principale pour repérer d’éventuels événements quotidiens ponctuels."
           }
         }
       ],
@@ -819,7 +905,8 @@
         "de": "Starten Sie Ihre Fahrt an der Église Saint-Antoine-de-Padoue und genießen Sie die morgendliche Ruhe im Westen der Stadt. Fahren Sie zur idyllischen Chapelle Saint-Jean und weiter zur Église Notre-Dame-de-l'Assomption im Süden. Nachmittags besuchen Sie die Saint Blaise Church und das Memorial Jumelage Kerbach, wo Sie mehr über die lokale Geschichte erfahren. Beenden Sie die Tour an der Église Saint-Hubert und im kulturellen Zentrum Maison des Associations.",
         "hu": "Autós felfedezőútja az Église Saint-Antoine-de-Padoue templomnál kezdődik, mielőtt a déli Chapelle Saint-Jean felé venné az irányt. Látogassa meg az Église Notre-Dame-de-l'Assomption lenyűgöző épületét a déli órákban. Délután álljon meg a Saint Blaise Church-nél és a történelmi Memorial Jumelage Kerbach emlékműnél. A nap végén a pompás Église Saint-Hubert, valamint a Maison des Associations kulturális kiállításai várják a látogatókat.",
         "ro": "Începeți traseul auto la Église Saint-Antoine-de-Padoue, savurând liniștea dimineții înainte de a conduce spre Chapelle Saint-Jean. La prânz, opriți-vă la Église Notre-Dame-de-l'Assomption din zona de sud. După-amiaza include o vizită la biserica Saint Blaise și o lecție de istorie la Memorial Jumelage Kerbach. Finalizați ziua cu arhitectura bisericii Saint-Hubert și o vizită culturală relaxantă la Maison des Associations.",
-        "en": "Begin your driving tour at Église Saint-Antoine-de-Padoue, absorbing the morning calm before driving south to Chapelle Saint-Jean. By midday, explore the serene grounds of Église Notre-Dame-de-l'Assomption. Your afternoon features the majestic Saint Blaise Church and a reflective pause at the Memorial Jumelage Kerbach. Conclude the itinerary with the elegant Église Saint-Hubert and an engaging visit to the Maison des Associations."
+        "en": "Begin your driving tour at Église Saint-Antoine-de-Padoue, absorbing the morning calm before driving south to Chapelle Saint-Jean. By midday, explore the serene grounds of Église Notre-Dame-de-l'Assomption. Your afternoon features the majestic Saint Blaise Church and a reflective pause at the Memorial Jumelage Kerbach. Conclude the itinerary with the elegant Église Saint-Hubert and an engaging visit to the Maison des Associations.",
+        "fr": "Commencez votre circuit en voiture à l’Église Saint-Antoine-de-Padoue, en profitant du calme matinal avant de prendre la route vers le sud jusqu’à la Chapelle Saint-Jean. À la mi-journée, explorez les espaces sereins de l’Église Notre-Dame-de-l'Assomption. Votre après-midi comprend l’imposante église Saint-Blaise et une pause contemplative au Mémorial Jumelage Kerbach. Concluez l’itinéraire avec l’élégante Église Saint-Hubert et une visite intéressante à la Maison des Associations."
       },
       "variants": {
         "rainy": {
@@ -827,7 +914,8 @@
             "de": "Fahren Sie am regnerischen Morgen bequem zur Église Saint-Antoine-de-Padoue. Mittags navigieren Sie zur Chapelle Saint-Jean und zur Église Notre-Dame-de-l'Assomption, wobei Ihr Auto ein mobiler Unterschlupf ist. Besuchen Sie nachmittags die Kirche Saint Blaise und das Denkmal. Beenden Sie den Abend an der Église Saint-Hubert und am Maison des Associations.",
             "hu": "Vezessen kényelmesen az esős reggelen az Église Saint-Antoine-de-Padoue felé. Délben zökkenőmentesen haladjon a Chapelle Saint-Jean és az Église Notre-Dame-de-l'Assomption felé, autóját menedékként használva. Délután látogassa meg a Saint Blaise templomot és az emlékművet. Zárja az estét az Église Saint-Hubert-nél és a Maison des Associations-nál.",
             "ro": "Conduceți confortabil în dimineața ploioasă, începând la Église Saint-Antoine-de-Padoue. La prânz, navigați ușor spre Chapelle Saint-Jean și Église Notre-Dame-de-l'Assomption, folosind mașina ca adăpost. După-amiaza, vizitați Biserica Saint Blaise și Memorialul. Încheiați seara la Église Saint-Hubert și Maison des Associations, bucurându-vă de confort.",
-            "en": "Drive comfortably through your rainy morning starting at Église Saint-Antoine-de-Padoue. By noon, smoothly navigate to Chapelle Saint-Jean and Église Notre-Dame-de-l'Assomption, using your car as a mobile shelter. In the afternoon, visit Saint Blaise Church and the Memorial. End your evening at Église Saint-Hubert and Maison des Associations, letting the wipers do the hard work."
+            "en": "Drive comfortably through your rainy morning starting at Église Saint-Antoine-de-Padoue. By noon, smoothly navigate to Chapelle Saint-Jean and Église Notre-Dame-de-l'Assomption, using your car as a mobile shelter. In the afternoon, visit Saint Blaise Church and the Memorial. End your evening at Église Saint-Hubert and Maison des Associations, letting the wipers do the hard work.",
+            "fr": "Conduisez confortablement pendant votre matinée pluvieuse en commençant à l’Église Saint-Antoine-de-Padoue. À midi, rejoignez aisément la Chapelle Saint-Jean et l’Église Notre-Dame-de-l'Assomption, utilisant la voiture comme abri mobile. L’après-midi, visitez l’église Saint-Blaise et le Mémorial. Terminez votre soirée à l’Église Saint-Hubert et à la Maison des Associations, laissant les essuie-glaces faire le travail difficile."
           },
           "stops": [
             {
@@ -835,13 +923,15 @@
                 "de": "Église Saint-Antoine-de-Padoue",
                 "hu": "Église Saint-Antoine-de-Padoue",
                 "ro": "Église Saint-Antoine-de-Padoue",
-                "en": "Église Saint-Antoine-de-Padoue"
+                "en": "Église Saint-Antoine-de-Padoue",
+                "fr": "Église Saint-Antoine-de-Padoue"
               },
               "tip_5lang": {
                 "de": "Parken Sie nah am Eingang, um schnell das ruhige Innere zu bewundern und dem morgendlichen Platzregen so wenig wie möglich ausgesetzt zu sein.",
                 "hu": "Parkoljon minél közelebb, hogy gyorsan megcsodálhassa a belső teret, minimálisra csökkentve az esőben és tócsákban töltött időt.",
                 "ro": "Parcați foarte aproape pentru a admira rapid interiorul liniștit, minimizând astfel expunerea la ploile abundente de dimineață.",
-                "en": "Park closely to admire the church's tranquil interior quickly, vastly minimizing your exposure to the heavy morning downpours."
+                "en": "Park closely to admire the church's tranquil interior quickly, vastly minimizing your exposure to the heavy morning downpours.",
+                "fr": "Garez-vous tout près pour admirer rapidement l’intérieur tranquille de l’église, réduisant énormément votre exposition aux fortes averses matinales."
               }
             },
             {
@@ -849,13 +939,15 @@
                 "de": "Chapelle Saint-Jean",
                 "hu": "Chapelle Saint-Jean",
                 "ro": "Chapelle Saint-Jean",
-                "en": "Chapelle Saint-Jean"
+                "en": "Chapelle Saint-Jean",
+                "fr": "Chapelle Saint-Jean"
               },
               "tip_5lang": {
                 "de": "Sehen Sie die bescheidene Architektur dieser Kapelle; ein griffbereiter Regenschirm ist für den kurzen Weg vom Parkplatz extrem nützlich.",
                 "hu": "Nézze meg a kápolna szerény építészetét; egy gyorsan nyitható esernyő nagyon hasznos lesz a parkolótól való rövid szaladáshoz.",
                 "ro": "Vedeți arhitectura modestă a acestei capele; o umbrelă robustă este foarte utilă pentru fuga scurtă de la locul de parcare la intrare.",
-                "en": "See the modest architecture of this chapel; a sturdy umbrella is highly useful for the quick, wet dash from your parking spot."
+                "en": "See the modest architecture of this chapel; a sturdy umbrella is highly useful for the quick, wet dash from your parking spot.",
+                "fr": "Admirez l’architecture modeste de cette chapelle ; un parapluie solide est très utile pour la course courte et humide depuis votre place de parking."
               }
             },
             {
@@ -863,13 +955,15 @@
                 "de": "Église Notre-Dame-de-l'Assomption",
                 "hu": "Église Notre-Dame-de-l'Assomption",
                 "ro": "Église Notre-Dame-de-l'Assomption",
-                "en": "Église Notre-Dame-de-l'Assomption"
+                "en": "Église Notre-Dame-de-l'Assomption",
+                "fr": "Église Notre-Dame-de-l'Assomption"
               },
               "tip_5lang": {
                 "de": "Genießen Sie das trockene Heiligtum in der Kirche, während der Regen lautstark und beruhigend gegen die alten Buntglasfenster prasselt.",
                 "hu": "Élvezze a száraz szentélyt a templomon belül, miközben hallgatja, ahogy a heves eső a régi, különleges ólomüveg ablakokon kopog.",
                 "ro": "Bucurați-vă de sanctuarul uscat din interior, în timp ce ploaia lovește zgomotos și liniștitor vitraliile arhitecturale străvechi.",
-                "en": "Enjoy the dry sanctuary inside the church while the heavy rain patters soothingly against the ancient, architectural stained glass."
+                "en": "Enjoy the dry sanctuary inside the church while the heavy rain patters soothingly against the ancient, architectural stained glass.",
+                "fr": "Profitez du sanctuaire sec à l’intérieur de l’église tandis que la forte pluie clapote apaisante contre les vitraux anciens et architecturaux."
               }
             },
             {
@@ -877,13 +971,15 @@
                 "de": "Saint Blaise Church",
                 "hu": "Saint Blaise Church",
                 "ro": "Saint Blaise Church",
-                "en": "Saint Blaise Church"
+                "en": "Saint Blaise Church",
+                "fr": "Saint Blaise Church"
               },
               "tip_5lang": {
                 "de": "Studieren Sie die reichen Altardetails; wasserdichte Schuhe machen das Gehen auf den nassen Wegen vom Auto deutlich angenehmer.",
                 "hu": "Tanulmányozza az oltár gazdag részleteit; a vízálló cipő sokkal kellemesebbé teszi a parkolóból a nedves járdákon való besétálást.",
                 "ro": "Studiați detaliile bogate ale altarului; pantofii impermeabili fac mersul pe pavajele umede de la mașină mult mai plăcut și confortabil.",
-                "en": "Study the rich interior altar details; wearing waterproof shoes makes walking the wet, puddly pavements from your car much more pleasant."
+                "en": "Study the rich interior altar details; wearing waterproof shoes makes walking the wet, puddly pavements from your car much more pleasant.",
+                "fr": "Étudiez les riches détails de l’autel intérieur ; porter des chaussures imperméables rend la traversée des trottoirs mouillés et pleins de flaques depuis votre voiture bien plus agréable."
               }
             },
             {
@@ -891,13 +987,15 @@
                 "de": "Memorial Jumelage Kerbach Saint-Laurent de Cognac",
                 "hu": "Memorial Jumelage Kerbach Saint-Laurent de Cognac",
                 "ro": "Memorial Jumelage Kerbach Saint-Laurent de Cognac",
-                "en": "Memorial Jumelage Kerbach Saint-Laurent de Cognac"
+                "en": "Memorial Jumelage Kerbach Saint-Laurent de Cognac",
+                "fr": "Memorial Jumelage Kerbach Saint-Laurent de Cognac"
               },
               "tip_5lang": {
                 "de": "Nehmen Sie sich Zeit zum Nachdenken; Sie können das Denkmal bei Starkregen auch bequem und trocken aus Ihrem geparkten Auto betrachten.",
                 "hu": "Szánjon egy percet az emlékezésre; szakadó esőben az emlékművet akár a parkoló autójának meleg, száraz kényelméből is megtekintheti.",
                 "ro": "Reflectați o clipă la memorial; pe ploaie torențială, ați putea dori să-l priviți direct din confortul și căldura mașinii parcate.",
-                "en": "Take a moment to reflect at the memorial; during heavy downpours, you might want to view it from the warm comfort of your parked car."
+                "en": "Take a moment to reflect at the memorial; during heavy downpours, you might want to view it from the warm comfort of your parked car.",
+                "fr": "Prenez un moment pour réfléchir au mémorial ; lors de fortes averses, vous pouvez préférer l’observer depuis le confort chauffé de votre voiture garée."
               }
             },
             {
@@ -905,13 +1003,15 @@
                 "de": "Église Saint-Hubert",
                 "hu": "Église Saint-Hubert",
                 "ro": "Église Saint-Hubert",
-                "en": "Église Saint-Hubert"
+                "en": "Église Saint-Hubert",
+                "fr": "Église Saint-Hubert"
               },
               "tip_5lang": {
                 "de": "Entdecken Sie die beeindruckenden Gewölbedecken; achten Sie beim Eintreten aus dem strömenden Regen besonders auf rutschige Eingangsstufen.",
                 "hu": "Fedezze fel a lenyűgöző boltíves mennyezetet; nagyon vigyázzon a csúszós bejárati lépcsőkre, amikor belép a kinti esőből a belső térbe.",
                 "ro": "Descoperiți tavanele boltite impresionante; aveți mare grijă la treptele alunecoase de la intrare când veniți rapid din ploaia de afară.",
-                "en": "Discover the impressive vaulted ceilings indoors; closely mind the slippery entrance steps as you hurriedly walk inside from the rain."
+                "en": "Discover the impressive vaulted ceilings indoors; closely mind the slippery entrance steps as you hurriedly walk inside from the rain.",
+                "fr": "Découvrez les impressionnantes voûtes à l’intérieur ; surveillez attentivement les marches d’entrée glissantes en vous hâtant à l’abri de la pluie."
               }
             },
             {
@@ -919,13 +1019,15 @@
                 "de": "Maison des Associations",
                 "hu": "Maison des Associations",
                 "ro": "Maison des Associations",
-                "en": "Maison des Associations"
+                "en": "Maison des Associations",
+                "fr": "Maison des Associations"
               },
               "tip_5lang": {
                 "de": "Schließen Sie mit kulturellen Aktivitäten ab, perfekt vor dem Wetter geschützt; der nahe Parkplatz macht es zu einem leichten Halt.",
                 "hu": "Zárjon helyi kulturális programokkal, tökéletesen védve az időjárástól; az épülethez közeli parkoló rendkívül megkönnyíti a látogatást.",
                 "ro": "Încheiați cu activități culturale perfect protejate de vreme; parcarea foarte apropiată face din aceasta o oprire finală extrem de ușoară.",
-                "en": "Finish with local cultural activities perfectly protected from the weather; the conveniently nearby parking makes it a wonderfully easy stop."
+                "en": "Finish with local cultural activities perfectly protected from the weather; the conveniently nearby parking makes it a wonderfully easy stop.",
+                "fr": "Terminez par des activités culturelles locales parfaitement protégées des intempéries ; le parking à proximité en fait une halte très pratique."
               }
             }
           ]
@@ -935,7 +1037,8 @@
             "de": "Genießen Sie eine gemütliche Winterfahrt und beginnen Sie an der Église Saint-Antoine-de-Padoue. Fahren Sie mittags auf eisigen Straßen zur Chapelle Saint-Jean und zur Église Notre-Dame-de-l'Assomption. Erkunden Sie nachmittags vor Einbruch der Dämmerung die Kirche Saint Blaise und das Denkmal. Beenden Sie den Abend an der Église Saint-Hubert und am Maison des Associations.",
             "hu": "Kezdje a reggelt egy hangulatos téli autózással az Église Saint-Antoine-de-Padoue felé. Délben kényelmesen haladjon a jeges utakon a Chapelle Saint-Jean és az Église Notre-Dame-de-l'Assomption felé. Délután fedezze fel a Saint Blaise templomot és az emlékművet sötétedés előtt. Zárja az estét az Église Saint-Hubert és a Maison des Associations épületeinél.",
             "ro": "Bucurați-vă de o plimbare confortabilă de iarnă cu mașina, începând la Église Saint-Antoine-de-Padoue. La prânz, navigați pe drumurile înghețate spre Chapelle Saint-Jean și Église Notre-Dame-de-l'Assomption. După-amiaza, explorați Biserica Saint Blaise și Memorialul înainte de amurg. Încheiați seara la Église Saint-Hubert și Maison des Associations.",
-            "en": "Enjoy a cozy winter drive starting your morning at Église Saint-Antoine-de-Padoue. At noon, comfortably navigate icy roads to Chapelle Saint-Jean and Église Notre-Dame-de-l'Assomption, appreciating your car's heater. In the afternoon, explore Saint Blaise Church and the Memorial before dusk. Finish the evening at Église Saint-Hubert and Maison des Associations in the early dark."
+            "en": "Enjoy a cozy winter drive starting your morning at Église Saint-Antoine-de-Padoue. At noon, comfortably navigate icy roads to Chapelle Saint-Jean and Église Notre-Dame-de-l'Assomption, appreciating your car's heater. In the afternoon, explore Saint Blaise Church and the Memorial before dusk. Finish the evening at Église Saint-Hubert and Maison des Associations in the early dark.",
+            "fr": "Profitez d’une agréable conduite hivernale en commençant votre matinée à l’Église Saint-Antoine-de-Padoue. À midi, circulez confortablement sur des routes verglacées jusqu’à la Chapelle Saint-Jean et l’Église Notre-Dame-de-l'Assomption, en appréciant le chauffage de votre voiture. L’après-midi, explorez l’église Saint-Blaise et le Mémorial avant le crépuscule. Terminez la soirée à l’Église Saint-Hubert et à la Maison des Associations dans l’obscurité précoce."
           },
           "stops": [
             {
@@ -943,13 +1046,15 @@
                 "de": "Église Saint-Antoine-de-Padoue",
                 "hu": "Église Saint-Antoine-de-Padoue",
                 "ro": "Église Saint-Antoine-de-Padoue",
-                "en": "Église Saint-Antoine-de-Padoue"
+                "en": "Église Saint-Antoine-de-Padoue",
+                "fr": "Église Saint-Antoine-de-Padoue"
               },
               "tip_5lang": {
                 "de": "Steigen Sie kurz aus, um das prächtige Schiff zu sehen; ein dicker Mantel ist wichtig, da die Autowärme draußen sehr schnell verfliegt.",
                 "hu": "Lépjen ki röviden, hogy megcsodálhassa a hajót; a vastag kabát elengedhetetlen, mert a fűtött autó melege hamar elillan a hideg levegőn.",
                 "ro": "Coborâți scurt pentru a vedea naosul superb; o haină groasă este esențială, deoarece căldura din mașină se risipește repede în aerul rece.",
-                "en": "Step out briefly to see the gorgeous nave; a heavy winter coat is essential as the car's trapped heat fades incredibly quickly in the cold air."
+                "en": "Step out briefly to see the gorgeous nave; a heavy winter coat is essential as the car's trapped heat fades incredibly quickly in the cold air.",
+                "fr": "Sortez brièvement pour voir la superbe nef ; un manteau d’hiver épais est essentiel car la chaleur confinée de la voiture s’échappe incroyablement vite dans l’air froid."
               }
             },
             {
@@ -957,13 +1062,15 @@
                 "de": "Chapelle Saint-Jean",
                 "hu": "Chapelle Saint-Jean",
                 "ro": "Chapelle Saint-Jean",
-                "en": "Chapelle Saint-Jean"
+                "en": "Chapelle Saint-Jean",
+                "fr": "Chapelle Saint-Jean"
               },
               "tip_5lang": {
                 "de": "Bewundern Sie die Winterlandschaft um die Kapelle; achten Sie in den frostigen Monaten auf tückisches Blitzeis auf dem Parkplatz.",
                 "hu": "Csodálja meg a kápolnát körülölelő téli tájat; fagyos, hideg hónapokban nagyon vigyázzon a parkolóban hirtelen kialakuló tükörjégre.",
                 "ro": "Admirați peisajul de iarnă din jurul capelei; fiți extrem de precauți la gheața neagră ascunsă din parcare în aceste luni de îngheț.",
-                "en": "Admire the stark winter landscape surrounding the chapel; be extremely cautious of nearly invisible black ice in the parking lot during freezing months."
+                "en": "Admire the stark winter landscape surrounding the chapel; be extremely cautious of nearly invisible black ice in the parking lot during freezing months.",
+                "fr": "Admirez le paysage hivernal dépouillé entourant la chapelle ; soyez extrêmement prudent face aux plaques de verglas presque invisibles sur le parking pendant les mois de gel."
               }
             },
             {
@@ -971,13 +1078,15 @@
                 "de": "Église Notre-Dame-de-l'Assomption",
                 "hu": "Église Notre-Dame-de-l'Assomption",
                 "ro": "Église Notre-Dame-de-l'Assomption",
-                "en": "Église Notre-Dame-de-l'Assomption"
+                "en": "Église Notre-Dame-de-l'Assomption",
+                "fr": "Église Notre-Dame-de-l'Assomption"
               },
               "tip_5lang": {
                 "de": "Suchen Sie drinnen Schutz und erkunden Sie die Artefakte; kleiden Sie sich warm, damit der Temperaturübergang vom Auto nicht zu hart ist.",
                 "hu": "Menedéket keresve fedezze fel a vallási emlékeket; öltözzön melegen, hogy a fűtött autóból való kiszállás ne legyen túlságosan kellemetlen.",
                 "ro": "Adăpostiți-vă pentru a explora artefactele religioase; îmbrăcați-vă în straturi calde pentru ca tranziția termică din mașină să nu fie dură.",
-                "en": "Take shelter inside to explore the religious artifacts; dress in warm layers so the immediate temperature transition from the car isn't harsh."
+                "en": "Take shelter inside to explore the religious artifacts; dress in warm layers so the immediate temperature transition from the car isn't harsh.",
+                "fr": "Mettez-vous à l’abri à l’intérieur pour explorer les objets religieux ; habillez-vous en couches chaudes pour que la transition immédiate depuis la voiture ne soit pas trop rude."
               }
             },
             {
@@ -985,13 +1094,15 @@
                 "de": "Saint Blaise Church",
                 "hu": "Saint Blaise Church",
                 "ro": "Saint Blaise Church",
-                "en": "Saint Blaise Church"
+                "en": "Saint Blaise Church",
+                "fr": "Saint Blaise Church"
               },
               "tip_5lang": {
                 "de": "Betrachten Sie die beeindruckende Steinarchitektur; der frühe Sonnenuntergang um 17:00 wirft schöne, extrem lange Winterschatten auf die Fassade.",
                 "hu": "Tekintse meg a kőépítészetet; a korai, 17 óra körüli naplemente gyönyörű és kifejezetten hosszú téli árnyékokat vet az épület homlokzatára.",
                 "ro": "Priviți arhitectura impresionantă din piatră; apusul devreme din jurul orei 17:00 aruncă umbre lungi și absolut frumoase de iarnă pe fațadă.",
-                "en": "View the impressive stone architecture; the notably early 17:00 sunset casts beautifully long, dramatic winter shadows across the old facade."
+                "en": "View the impressive stone architecture; the notably early 17:00 sunset casts beautifully long, dramatic winter shadows across the old facade.",
+                "fr": "Contemplez l’impressionnante architecture en pierre ; le coucher du soleil notablement tôt à 17:00 projette de longues ombres hivernales dramatiques sur la vieille façade."
               }
             },
             {
@@ -999,13 +1110,15 @@
                 "de": "Memorial Jumelage Kerbach Saint-Laurent de Cognac",
                 "hu": "Memorial Jumelage Kerbach Saint-Laurent de Cognac",
                 "ro": "Memorial Jumelage Kerbach Saint-Laurent de Cognac",
-                "en": "Memorial Jumelage Kerbach Saint-Laurent de Cognac"
+                "en": "Memorial Jumelage Kerbach Saint-Laurent de Cognac",
+                "fr": "Memorial Jumelage Kerbach Saint-Laurent de Cognac"
               },
               "tip_5lang": {
                 "de": "Halten Sie kurz am Denkmal; Handschuhe und Schal werden dringend empfohlen, wenn Sie das warme Auto in den kalten Winterwind verlassen.",
                 "hu": "Álljon meg az emlékműnél; vastag kesztyű és sál erősen ajánlott, ha kilép a meleg autóból a csípős, kifejezetten friss téli szélbe.",
                 "ro": "Opriți-vă la monumentul memorial; mănușile și un fular sunt puternic recomandate dacă ieșiți din mașină în vântul rece și tăios de iarnă.",
-                "en": "Pause at the memorial monument; gloves and a heavy scarf are strongly recommended if you step out of the warm car into the crisp winter wind."
+                "en": "Pause at the memorial monument; gloves and a heavy scarf are strongly recommended if you step out of the warm car into the crisp winter wind.",
+                "fr": "Faites une pause au monument commémoratif ; gants et grosse écharpe sont fortement recommandés si vous sortez de la voiture chauffée dans le vent hivernal vif."
               }
             },
             {
@@ -1013,13 +1126,15 @@
                 "de": "Église Saint-Hubert",
                 "hu": "Église Saint-Hubert",
                 "ro": "Église Saint-Hubert",
-                "en": "Église Saint-Hubert"
+                "en": "Église Saint-Hubert",
+                "fr": "Église Saint-Hubert"
               },
               "tip_5lang": {
                 "de": "Gehen Sie durch die historischen Türen zum Altar; eine gut funktionierende Autoheizung und Scheibenheizung macht winterliches Reisen hier sicherer.",
                 "hu": "Sétáljon át a történelmi ajtókon; a biztonságos téli utazáshoz ellenőrizze, hogy az autó fűtése és ablakpárátlanítója tökéletesen működik-e.",
                 "ro": "Treceți prin ușile istorice pentru a vedea altarul; un degivror auto perfect funcțional face călătoriile de iarnă mult mai sigure aici.",
-                "en": "Walk through the historic doors to see the altar; ensuring your car's defroster works perfectly makes winter travel significantly safer here."
+                "en": "Walk through the historic doors to see the altar; ensuring your car's defroster works perfectly makes winter travel significantly safer here.",
+                "fr": "Entrez par les portes historiques pour voir l’autel ; vérifier que le dégivrage de votre voiture fonctionne parfaitement rend les trajets hivernaux beaucoup plus sûrs ici."
               }
             },
             {
@@ -1027,13 +1142,15 @@
                 "de": "Maison des Associations",
                 "hu": "Maison des Associations",
                 "ro": "Maison des Associations",
-                "en": "Maison des Associations"
+                "en": "Maison des Associations",
+                "fr": "Maison des Associations"
               },
               "tip_5lang": {
                 "de": "Beenden Sie den Tag mit kulturellen Ausstellungen im angenehm Warmen, ein perfekter Rückzugsort, wenn die kalte Winternacht richtig hereinbricht.",
                 "hu": "Zárja a napot benti kiállításokkal egy kellemesen meleg környezetben, amely tökéletes menedék, amikor a fagyos téli éjszaka végleg beáll.",
                 "ro": "Încheiați cu expoziții culturale captivante într-un cadru foarte cald, o retragere ideală și perfectă când se lasă complet noaptea de iarnă.",
-                "en": "Wrap up with engaging cultural exhibits in a warm setting, a totally perfect indoor retreat when the freezing winter night fully settles in."
+                "en": "Wrap up with engaging cultural exhibits in a warm setting, a totally perfect indoor retreat when the freezing winter night fully settles in.",
+                "fr": "Concluez par des expositions culturelles stimulantes dans un cadre chaud, un refuge intérieur parfait lorsque la nuit hivernale glacée s’installe complètement."
               }
             }
           ]

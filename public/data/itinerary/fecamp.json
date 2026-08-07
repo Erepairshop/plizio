@@ -21,7 +21,8 @@
             "de": "Palais Bénédictine",
             "hu": "Bencés palota",
             "ro": "Palatul Bénédictine",
-            "en": "Palais Bénédictine"
+            "en": "Palais Bénédictine",
+            "fr": "Palais Bénédictine"
           },
           "coords": [
             0.3705,
@@ -37,7 +38,7 @@
             "hu": "Kóstolja meg a híres likőrt.",
             "ro": "Gustați celebrul lichior.",
             "en": "Taste the famous herbal liqueur.",
-            "fr": "Goûtez la célèbre liqueur de plantes."
+            "fr": "Goûtez la célèbre liqueur aux herbes."
           }
         },
         {
@@ -45,7 +46,8 @@
             "de": "Abteikirche Sainte-Trinité",
             "hu": "Szent Háromság apátsági templom",
             "ro": "Biserica Abației Sainte-Trinité",
-            "en": "Holy Trinity Abbey Church"
+            "en": "Holy Trinity Abbey Church",
+            "fr": "Holy Trinity Abbey Church"
           },
           "coords": [
             0.378,
@@ -61,7 +63,7 @@
             "hu": "Csodálja meg a gótikus belsőt.",
             "ro": "Admirați interiorul gotic.",
             "en": "Admire the Gothic architecture.",
-            "fr": "Admirez l'architecture gothique."
+            "fr": "Admirez l’architecture gothique."
           }
         },
         {
@@ -69,7 +71,8 @@
             "de": "Musée des Pêcheries",
             "hu": "Halászati Múzeum",
             "ro": "Muzeul Pescuitului",
-            "en": "Musée des Pêcheries"
+            "en": "Musée des Pêcheries",
+            "fr": "Musée des Pêcheries"
           },
           "coords": [
             0.3725,
@@ -93,7 +96,8 @@
             "de": "Strandpromenade",
             "hu": "Tengerparti sétány",
             "ro": "Promenada de pe plajă",
-            "en": "Beach Promenade"
+            "en": "Beach Promenade",
+            "fr": "Beach Promenade"
           },
           "coords": [
             0.366,
@@ -117,7 +121,8 @@
             "de": "Hafen von Fécamp",
             "hu": "Fécamp kikötője",
             "ro": "Portul Fécamp",
-            "en": "Fécamp Harbour"
+            "en": "Fécamp Harbour",
+            "fr": "Fécamp Harbour"
           },
           "coords": [
             0.371,
@@ -142,7 +147,7 @@
         "hu": "Kezdje a napot a fenséges Bencés palotában, ahol a művészet és a likőrgyártás találkozik. Délben fedezze fel a tengeri múltat a Halászati Múzeumban, majd élvezze a kikötő hangulatát. A délutánt töltse a széles kavicsos strandon pihenve. Az estét zárja egy kellemes sétával a jachtkikötő mentén.",
         "ro": "Începeți ziua la maiestuosul Palat Bénédictine, unde arta se întâlnește cu distileria. La prânz, explorați istoria maritimă la Muzeul Pescuitului și bucurați-vă de atmosfera portului. După-amiaza este dedicată relaxării pe plaja vastă cu pietriș. Încheiați seara cu o plimbare relaxantă de-a lungul portului de agrement.",
         "en": "Start your day at the majestic Palais Bénédictine, where art meets the distillery craft. At midday, explore maritime history at the Musée des Pêcheries and soak up the harbour vibe. Spend the afternoon relaxing on the wide pebble beach. End your evening with a pleasant stroll along the marina.",
-        "fr": "Commencez votre journée au majestueux Palais Bénédictine, où l'art rencontre l'artisanat de la distillerie. À la mi-journée, explorez l'histoire maritime au Musée des Pêcheries et imprégnez-vous de l'atmosphère du port. Passez l'après-midi à vous détendre sur la grande plage de galets. Terminez votre soirée par une agréable promenade le long de la marina."
+        "fr": "Commencez votre journée au majestueux Palais Bénédictine, où l’art rencontre l’art de la distillation. À midi, explorez l’histoire maritime au Musée des Pêcheries et imprégnez-vous de l’ambiance du port. Passez l’après-midi à vous détendre sur la large plage de galets. Terminez la soirée par une agréable promenade le long de la marina."
       },
       "gastro_picks": {
         "de": [
@@ -268,8 +273,8 @@
         ],
         "fr": [
           "Portez des chaussures confortables pour la plage de galets.",
-          "La liqueur est assez forte, dégustez-la lentement.",
-          "Réservez votre table à l'avance pour dîner au bord du port."
+          "La liqueur est assez forte, sippez lentement.",
+          "Réservez votre table à l’avance pour dîner côté port."
         ]
       }
     },
@@ -284,7 +289,8 @@
         {
           "name": {
             "de": "Hafen von Fécamp",
-            "en": "Fécamp Harbour"
+            "en": "Fécamp Harbour",
+            "fr": "Fécamp Harbour"
           },
           "coords": [
             0.371,
@@ -303,7 +309,8 @@
         {
           "name": {
             "de": "Cap Fagnet",
-            "en": "Cap Fagnet"
+            "en": "Cap Fagnet",
+            "fr": "Cap Fagnet"
           },
           "coords": [
             0.3705,
@@ -322,7 +329,8 @@
         {
           "name": {
             "de": "Palais Bénédictine",
-            "en": "Palais Bénédictine"
+            "en": "Palais Bénédictine",
+            "fr": "Palais Bénédictine"
           },
           "coords": [
             0.3705,
@@ -341,7 +349,8 @@
         {
           "name": {
             "de": "Senneville-sur-Fécamp",
-            "en": "Senneville"
+            "en": "Senneville",
+            "fr": "Senneville"
           },
           "coords": [
             0.415,
@@ -354,13 +363,14 @@
           "hop_from_prev_km": 5.0,
           "tip_5lang": {
             "en": "Charming village nearby.",
-            "fr": "Charmant village à proximité."
+            "fr": "Village charmant à proximité."
           }
         },
         {
           "name": {
             "de": "Promenade",
-            "en": "Promenade"
+            "en": "Promenade",
+            "fr": "Promenade"
           },
           "coords": [
             0.366,
@@ -382,7 +392,7 @@
         "hu": "Tekerjen fel a Cap Fagnet-hoz a lenyűgöző panorámáért.",
         "ro": "Pedalați până la Cap Fagnet pentru o priveliște spectaculoasă.",
         "en": "Cycle up to Cap Fagnet for spectacular cliff views.",
-        "fr": "Pédalez jusqu'au Cap Fagnet pour profiter de panoramas spectaculaires sur les falaises."
+        "fr": "Montez à vélo jusqu’au Cap Fagnet pour des vues spectaculaires sur les falaises."
       },
       "gastro_picks": {
         "de": [
@@ -468,7 +478,8 @@
         {
           "name": {
             "de": "Fécamp Stadtzentrum",
-            "en": "Fécamp Center"
+            "en": "Fécamp Center",
+            "fr": "Fécamp Center"
           },
           "coords": [
             0.3744,
@@ -487,7 +498,8 @@
         {
           "name": {
             "de": "Palais Bénédictine",
-            "en": "Palais Bénédictine"
+            "en": "Palais Bénédictine",
+            "fr": "Palais Bénédictine"
           },
           "coords": [
             0.3705,
@@ -506,7 +518,8 @@
         {
           "name": {
             "de": "Yport",
-            "en": "Yport"
+            "en": "Yport",
+            "fr": "Yport"
           },
           "coords": [
             0.315,
@@ -525,7 +538,8 @@
         {
           "name": {
             "de": "Étretat (Klippen)",
-            "en": "Étretat Cliffs"
+            "en": "Étretat Cliffs",
+            "fr": "Falaises d’Étretat"
           },
           "coords": [
             0.205,
@@ -538,13 +552,14 @@
           "hop_from_prev_km": 15.0,
           "tip_5lang": {
             "en": "The famous needle rock.",
-            "fr": "La célèbre aiguille d'Étretat."
+            "fr": "La célèbre aiguille rocheuse."
           }
         },
         {
           "name": {
             "de": "Cap Fagnet",
-            "en": "Cap Fagnet"
+            "en": "Cap Fagnet",
+            "fr": "Cap Fagnet"
           },
           "coords": [
             0.3705,
@@ -566,7 +581,7 @@
         "hu": "Fedezze fel Fécampot, majd látogasson el a festői Yportba és Étretat világhírű szikláihoz.",
         "ro": "Descoperiți Fécamp, apoi vizitați pitorescul Yport și faimoasele stânci de la Étretat.",
         "en": "Discover Fécamp, then drive to picturesque Yport and the world-famous cliffs of Étretat.",
-        "fr": "Découvrez Fécamp, puis roulez vers le village pittoresque d'Yport et les falaises mondialement célèbres d'Étretat."
+        "fr": "Découvrez Fécamp, puis roulez jusqu’au pittoresque Yport et aux falaises mondialement connues d’Étretat."
       },
       "gastro_picks": {
         "de": [
@@ -652,7 +667,8 @@
         {
           "name": {
             "de": "Bahnhof Fécamp",
-            "en": "Fécamp Station"
+            "en": "Fécamp Station",
+            "fr": "Fécamp Station"
           },
           "coords": [
             0.38,
@@ -671,7 +687,8 @@
         {
           "name": {
             "de": "Abtei Sainte-Trinité",
-            "en": "Holy Trinity Abbey"
+            "en": "Holy Trinity Abbey",
+            "fr": "Holy Trinity Abbey"
           },
           "coords": [
             0.378,
@@ -690,7 +707,8 @@
         {
           "name": {
             "de": "Musée des Pêcheries",
-            "en": "Musée des Pêcheries"
+            "en": "Musée des Pêcheries",
+            "fr": "Musée des Pêcheries"
           },
           "coords": [
             0.3725,
@@ -709,7 +727,8 @@
         {
           "name": {
             "de": "Casino / Strand",
-            "en": "Casino / Beach"
+            "en": "Casino / Beach",
+            "fr": "Casino / Plage"
           },
           "coords": [
             0.366,
@@ -722,7 +741,7 @@
           "hop_from_prev_km": 1.0,
           "tip_5lang": {
             "en": "Relax after the museum visit.",
-            "fr": "Détente après la visite du musée."
+            "fr": "Détendez-vous après la visite du musée."
           }
         }
       ],
@@ -731,7 +750,7 @@
         "hu": "Használja a helyi buszt az állomás, az apátság és a kikötő közötti utazáshoz.",
         "ro": "Folosiți autobuzul local pentru a circula între gară, abație și zona portului.",
         "en": "Use the local bus to travel between the station, abbey, and the harbour district.",
-        "fr": "Utilisez le bus local pour circuler entre la gare, l'abbaye et le quartier du port."
+        "fr": "Prenez le bus local pour vous déplacer entre la gare, l’abbaye et le quartier du port."
       },
       "gastro_picks": {
         "de": [

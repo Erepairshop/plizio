@@ -31,7 +31,8 @@
             "de": "Ort der Hinrichtung von Jeanne d'Arc im Jahr 1431.",
             "hu": "Jeanne d’Arc 1431-es kivégzésének történelmi helyszíne.",
             "ro": "Locul execuției Ioanei d'Arc în anul 1431.",
-            "en": "Site of Joan of Arc's execution in 1431."
+            "en": "Site of Joan of Arc's execution in 1431.",
+            "fr": "Site de l'exécution de Jeanne d'Arc en 1431."
           }
         },
         {
@@ -49,7 +50,8 @@
             "de": "Moderne Architektur mit Glasmalereien aus dem 16. Jahrhundert.",
             "hu": "Modern templom 16. századi festett üvegablakokkal.",
             "ro": "Arhitectură modernă cu vitralii din secolul al XVI-lea.",
-            "en": "Modern architecture housing 16th-century stained glass."
+            "en": "Modern architecture housing 16th-century stained glass.",
+            "fr": "Architecture moderne abritant des vitraux du XVIe siècle."
           }
         },
         {
@@ -67,7 +69,8 @@
             "de": "Astronomische Uhr aus dem 14. Jahrhundert über der Straße.",
             "hu": "14. századi csillagászati óra a sétálóutca felett.",
             "ro": "Ceas astronomic din secolul al XIV-lea deasupra străzii.",
-            "en": "14th-century astronomical clock spanning the street."
+            "en": "14th-century astronomical clock spanning the street.",
+            "fr": "Horloge astronomique du XIVe siècle s'étendant au‑dessus de la rue."
           }
         },
         {
@@ -85,7 +88,8 @@
             "de": "Inspiration für Monets berühmte Gemäldeserie.",
             "hu": "Monet híres festménysorozatának ihletője.",
             "ro": "Inspirația pentru celebra serie de picturi a lui Monet.",
-            "en": "Inspiration for Monet's famous series of paintings."
+            "en": "Inspiration for Monet's famous series of paintings.",
+            "fr": "Inspiration pour la célèbre série de peintures de Monet."
           }
         },
         {
@@ -103,7 +107,8 @@
             "de": "Ein Meisterwerk der flammenden Gotik.",
             "hu": "A lángoló gótika egyik legszebb példája.",
             "ro": "O capodoperă a stilului gotic flamboyant.",
-            "en": "A masterpiece of flamboyant Gothic architecture."
+            "en": "A masterpiece of flamboyant Gothic architecture.",
+            "fr": "Un chef‑d'œuvre de l'architecture gothique flamboyant."
           }
         },
         {
@@ -121,7 +126,8 @@
             "de": "Ehemaliger Pestfriedhof mit makabren Holzschnitzereien.",
             "hu": "Egykori pestistemető udvara különleges fafaragásokkal.",
             "ro": "Fost cimitir de ciumă cu sculpturi macabre în lemn.",
-            "en": "Former plague cemetery courtyard with macabre carvings."
+            "en": "Former plague cemetery courtyard with macabre carvings.",
+            "fr": "Ancienne cour de cimetière de la peste avec sculptures macabres."
           }
         }
       ],
@@ -129,7 +135,8 @@
         "de": "Diese Route führt Sie durch das Herz des mittelalterlichen Rouens. Sie beginnen auf dem Place du Vieux-Marché, wo die Geschichte von Jeanne d'Arc endet, und spazieren dann unter der berühmten astronomischen Uhr hindurch. Mittags bestaunen Sie die Fassade der Kathedrale, bevor Sie die faszinierenden, holzgeschnitzten Details des Aître Saint-Maclou entdecken. Ein Tag voller gotischer Pracht und tragischer Geschichte.",
         "hu": "Ez az útvonal a középkori Rouen szívébe kalauzolja. Kezdjen a Vieux-Marché téren, Jeanne d’Arc máglyahalálának helyszínén, majd sétáljon át a hatalmas csillagászati óra alatt. Délben csodálja meg a katedrális homlokzatát, amelyet Monet is megörökített, végül fedezze fel a Saint-Maclou negyed rejtett udvarait és különleges fafaragásait. Gótikus pompa és mély történelem várja.",
         "ro": "Acest traseu vă poartă prin inima Rouenului medieval. Începeți în Place du Vieux-Marché, unde s-a încheiat povestea Ioanei d'Arc, apoi treceți pe sub celebrul ceas astronomic. La prânz, admirați fațada catedralei care l-a fascinat pe Monet, înainte de a descoperi detaliile sculptate în lemn ale curții Aître Saint-Maclou. O zi dedicată stilului gotic și istoriei normande.",
-        "en": "This route takes you through the heart of medieval Rouen. Start at Place du Vieux-Marché, where Joan of Arc's story ended, and then walk beneath the famous astronomical clock. At midday, marvel at the cathedral facade that inspired Monet, before discovering the fascinating wood-carved details of the Aître Saint-Maclou courtyard. A day of Gothic splendor and poignant history."
+        "en": "This route takes you through the heart of medieval Rouen. Start at Place du Vieux-Marché, where Joan of Arc's story ended, and then walk beneath the famous astronomical clock. At midday, marvel at the cathedral facade that inspired Monet, before discovering the fascinating wood-carved details of the Aître Saint-Maclou courtyard. A day of Gothic splendor and poignant history.",
+        "fr": "Cet itinéraire vous mène au cœur du Rouen médiéval. Commencez à la Place du Vieux-Marché, où s’acheva l’histoire de Jeanne d’Arc, puis marchez sous le célèbre Gros-Horloge. À midi, admirez la façade de la cathédrale qui inspira Monet, avant de découvrir les fascinants détails en bois sculpté de la cour de l’Aître Saint-Maclou. Une journée de splendeur gothique et d’histoire poignante."
       },
       "gastro_picks": {
         "de": [
@@ -289,6 +296,12 @@
           "The cathedral is often less crowded around midday.",
           "Visit Place du Vieux-Marché early to avoid the crowds for photos.",
           "Look out for small carved details on the half-timbered houses."
+        ],
+        "fr": [
+          "Portez des chaussures confortables pour les rues pavées.",
+          "La cathédrale est souvent moins fréquentée vers midi.",
+          "Visitez la Place du Vieux-Marché tôt pour éviter la foule sur les photos.",
+          "Cherchez les petits détails sculptés sur les maisons à colombages."
         ]
       }
     },
@@ -315,7 +328,8 @@
             "de": "Wunderschöner botanischer Garten auf der Rive Gauche.",
             "hu": "Gyönyörű füvészkert a Szajna bal partján.",
             "ro": "Grădină botanică superbă situată pe Rive Gauche.",
-            "en": "Beautiful botanical garden on the Rive Gauche side."
+            "en": "Beautiful botanical garden on the Rive Gauche side.",
+            "fr": "Magnifique jardin botanique sur la rive gauche."
           }
         },
         {
@@ -333,7 +347,8 @@
             "de": "Herausragende Sammlung von Impressionisten.",
             "hu": "Kiemelkedő impresszionista gyűjtemény.",
             "ro": "Colecție remarcabilă de opere impresioniste.",
-            "en": "Outstanding collection of Impressionist paintings."
+            "en": "Outstanding collection of Impressionist paintings.",
+            "fr": "Collection remarquable de peintures impressionnistes."
           }
         },
         {
@@ -351,7 +366,8 @@
             "de": "Perfekter Ort für eine Pause inmitten der Geschichte.",
             "hu": "Tökéletes helyszín egy rövid pihenőhöz.",
             "ro": "Locul ideal pentru o pauză în mijlocul istoriei.",
-            "en": "Perfect spot for a break in the heart of history."
+            "en": "Perfect spot for a break in the heart of history.",
+            "fr": "Endroit parfait pour une pause au cœur de l’histoire."
           }
         },
         {
@@ -369,7 +385,8 @@
             "de": "Fahren Sie unter dem Bogen der großen Uhr hindurch.",
             "hu": "Hajtson át a nagy óra boltíve alatt.",
             "ro": "Treceți cu bicicleta pe sub arcul marelui ceas.",
-            "en": "Cycle right under the arch of the great clock."
+            "en": "Cycle right under the arch of the great clock.",
+            "fr": "Passez à vélo sous l’arche du grand horloge."
           }
         },
         {
@@ -387,7 +404,8 @@
             "de": "Das Wahrzeichen der Stadt mit dem höchsten Kirchturm Frankreichs.",
             "hu": "Franciaország legmagasabb templomtornyával büszkélkedhet.",
             "ro": "Emblema orașului cu cea mai înaltă turlă din Franța.",
-            "en": "City landmark featuring the tallest spire in France."
+            "en": "City landmark featuring the tallest spire in France.",
+            "fr": "Monument emblématique de la ville avec la plus haute flèche de France."
           }
         }
       ],
@@ -395,7 +413,8 @@
         "de": "Erkunden Sie Rouen auf zwei Rädern, beginnend im ruhigen botanischen Garten auf der Südseite. Überqueren Sie die Seine und radeln Sie zum Kunstmuseum, bevor Sie die belebten Plätze der Altstadt ansteuern. Das Fahrrad ermöglicht es Ihnen, sowohl die weiten Parks als auch die engen Gassen der Rive Droite mühelos zu verbinden.",
         "hu": "Fedezze fel Rouent két keréken, kezdve a déli oldal csendes füvészkertjével. Keljen át a Szajnán, látogasson el a Szépművészeti Múzeumba, majd tekerjen az óváros nyüzsgő terei felé. A kerékpár lehetővé teszi, hogy könnyen összekösse a tágas parkokat a jobb part szűk, történelmi utcáival.",
         "ro": "Explorați Rouen pe două roți, începând din liniștita grădină botanică din sud. Traversați Sena și pedalați spre Muzeul de Arte Frumoase înainte de a ajunge în piețele animate ale centrului vechi. Bicicleta vă permite să vizitați atât parcurile largi, cât și străduțele înguste de pe Rive Droite.",
-        "en": "Explore Rouen on two wheels, starting in the tranquil botanical garden on the south side. Cross the Seine and cycle to the Fine Arts Museum before heading to the lively squares of the old town. Cycling allows you to easily connect the spacious parks with the narrow, historic streets of the Rive Droite."
+        "en": "Explore Rouen on two wheels, starting in the tranquil botanical garden on the south side. Cross the Seine and cycle to the Fine Arts Museum before heading to the lively squares of the old town. Cycling allows you to easily connect the spacious parks with the narrow, historic streets of the Rive Droite.",
+        "fr": "Explorez Rouen à vélo, en commençant dans le paisible jardin botanique au sud. Traversez la Seine et rejoignez le musée des Beaux-Arts avant de vous diriger vers les places animées de la vieille ville. Le vélo vous permet de relier facilement les grands parcs aux ruelles historiques de la rive droite."
       },
       "gastro_picks": {
         "de": [
@@ -503,6 +522,12 @@
           "Pushing your bike is often less stressful in the narrowest old town alleys.",
           "There are plenty of bike racks near the cathedral.",
           "Watch out for one-way streets in the historic districts."
+        ],
+        "fr": [
+          "Utilisez les pistes des ponts pour traverser la Seine.",
+          "Pousser votre vélo est souvent moins stressant dans les ruelles les plus étroites de la vieille ville.",
+          "Il y a de nombreux arceaux pour vélos près de la cathédrale.",
+          "Faites attention aux sens uniques dans les quartiers historiques."
         ]
       }
     },
@@ -529,7 +554,8 @@
             "de": "Kostenlose Parkplätze direkt am Eingang des Gartens.",
             "hu": "Ingyenes parkolás közvetlenül a kert bejáratánál.",
             "ro": "Parcare gratuită chiar la intrarea în grădină.",
-            "en": "Free parking available right at the garden entrance."
+            "en": "Free parking available right at the garden entrance.",
+            "fr": "Parking gratuit disponible juste à l’entrée du jardin."
           }
         },
         {
@@ -547,7 +573,8 @@
             "de": "Nutzen Sie das Parkhaus 'Espace du Palais' für den Stadtkern.",
             "hu": "Használja az 'Espace du Palais' mélygarázst a belvároshoz.",
             "ro": "Folosiți parcarea subterană 'Espace du Palais' pentru centru.",
-            "en": "Use the 'Espace du Palais' underground parking for the center."
+            "en": "Use the 'Espace du Palais' underground parking for the center.",
+            "fr": "Utilisez le parking souterrain « Espace du Palais » pour le centre."
           }
         },
         {
@@ -565,7 +592,8 @@
             "de": "Wichtiger Stopp im Herzen der Altstadt (zu Fuß erreichbar).",
             "hu": "Fontos megálló az óváros szívében (gyalogos elérés).",
             "ro": "Oprire esențială în inima centrului vechi (acces pietonal).",
-            "en": "Essential stop in the heart of the old town (walkable)."
+            "en": "Essential stop in the heart of the old town (walkable).",
+            "fr": "Arrêt essentiel au cœur de la vieille ville (accessible à pied)."
           }
         },
         {
@@ -583,7 +611,8 @@
             "de": "Nur wenige Gehminuten vom Parkplatz im Zentrum entfernt.",
             "hu": "Csak pár perc séta a központi parkolótól.",
             "ro": "La doar câteva minute de mers de parcarea centrală.",
-            "en": "Just a few minutes' walk from the central parking."
+            "en": "Just a few minutes' walk from the central parking.",
+            "fr": "À quelques minutes à pied du parking central."
           }
         },
         {
@@ -601,7 +630,8 @@
             "de": "Ein kurzer Spaziergang durch die malerischen Gassen.",
             "hu": "Rövid séta a festői, fagerendás utcákon keresztül.",
             "ro": "O scurtă plimbare prin străduțele pitorești.",
-            "en": "A short walk through the picturesque streets."
+            "en": "A short walk through the picturesque streets.",
+            "fr": "Une courte promenade à travers des rues pittoresques."
           }
         }
       ],
@@ -609,7 +639,8 @@
         "de": "Diese Autotour kombiniert die grüne Rive Gauche mit den historischen Highlights der Rive Droite. Parken Sie zuerst am botanischen Garten, bevor Sie ins Zentrum fahren. Durch das Parken in einem der zentralen Parkhäuser können Sie den Rest des Nachmittags die Kathedrale und die Museen zu Fuß erkunden, ohne sich um die engen Gassen sorgen zu müssen.",
         "hu": "Ez az autós útvonal ötvözi a bal part zöld övezetét a jobb part történelmi látnivalóival. Parkoljon először a füvészkertnél, majd hajtson be a belvárosba. Egy központi parkolóház használatával a délután többi részét gyalogosan töltheti a katedrális és a múzeumok között, elkerülve a szűk óvárosi utcákat.",
         "ro": "Acest traseu cu mașina combină zona verde de pe Rive Gauche cu atracțiile istorice de pe Rive Droite. Parcați întâi la grădina botanică, apoi mergeți spre centru. Folosind o parcare centrală, vă puteți bucura de restul după-amiezii explorând catedrala și muzeele la pas, fără grija străzilor înguste.",
-        "en": "This car-based route combines the green spaces of the Rive Gauche with the historic highlights of the Rive Droite. Park at the botanical garden first before driving to the city center. By using a central parking garage, you can spend the rest of the afternoon exploring the cathedral and museums on foot."
+        "en": "This car-based route combines the green spaces of the Rive Gauche with the historic highlights of the Rive Droite. Park at the botanical garden first before driving to the city center. By using a central parking garage, you can spend the rest of the afternoon exploring the cathedral and museums on foot.",
+        "fr": "Cet itinéraire en voiture combine les espaces verts de la rive gauche avec les points forts historiques de la rive droite. Garez-vous d’abord au jardin botanique avant de vous rendre en centre-ville. En utilisant un parking central, vous pouvez passer le reste de l’après-midi à explorer la cathédrale et les musées à pied."
       },
       "gastro_picks": {
         "de": [
@@ -717,6 +748,12 @@
           "Central parking garages are often narrow; a small car is an advantage.",
           "Follow 'Centre-Ville' signs to reach the historic core directly.",
           "Pay for your parking conveniently using mobile apps."
+        ],
+        "fr": [
+          "Évitez l’heure de pointe sur le pont Jeanne d’Arc.",
+          "Les parkings centraux sont souvent étroits ; une petite voiture est un avantage.",
+          "Suivez les panneaux « Centre-Ville » pour atteindre directement le cœur historique.",
+          "Payez votre parking facilement via des applications mobiles."
         ]
       }
     },
@@ -743,7 +780,8 @@
             "de": "Nutzen Sie die Metrolinie Richtung 'Boulingrin' für das Zentrum.",
             "hu": "Használja a 'Boulingrin' irányú metrót a belváros eléréséhez.",
             "ro": "Luați metroul spre 'Boulingrin' pentru a ajunge în centru.",
-            "en": "Take the metro towards 'Boulingrin' to reach the center."
+            "en": "Take the metro towards 'Boulingrin' to reach the center.",
+            "fr": "Prenez le métro en direction de « Boulingrin » pour rejoindre le centre."
           }
         },
         {
@@ -761,7 +799,8 @@
             "de": "Haltestelle 'Palais de Justice' liegt in direkter Nähe.",
             "hu": "A 'Palais de Justice' megálló közvetlenül a múzeumnál van.",
             "ro": "Stația 'Palais de Justice' se află chiar lângă muzeu.",
-            "en": "The 'Palais de Justice' stop is very close to the museum."
+            "en": "The 'Palais de Justice' stop is very close to the museum.",
+            "fr": "L’arrêt « Palais de Justice » est très proche du musée."
           }
         },
         {
@@ -779,7 +818,8 @@
             "de": "Die TEOR-Buslinien T1, T2 und T3 halten hier.",
             "hu": "A T1, T2 és T3 jelzésű TEOR buszok itt állnak meg.",
             "ro": "Liniile de autobuz TEOR T1, T2 și T3 opresc aici.",
-            "en": "TEOR bus lines T1, T2, and T3 all stop here."
+            "en": "TEOR bus lines T1, T2, and T3 all stop here.",
+            "fr": "Les lignes de bus TEOR T1, T2 et T3 s’arrêtent toutes ici."
           }
         },
         {
@@ -797,7 +837,8 @@
             "de": "Nur ein kurzer Fußweg vom Vieux-Marché entfernt.",
             "hu": "Csak egy rövid séta a Vieux-Marché térről.",
             "ro": "La doar o scurtă plimbare de Vieux-Marché.",
-            "en": "Just a short walk from the Vieux-Marché square."
+            "en": "Just a short walk from the Vieux-Marché square.",
+            "fr": "À une courte distance à pied de la place du Vieux-Marché."
           }
         },
         {
@@ -815,7 +856,8 @@
             "de": "Zentraler Ankerpunkt der Route, gut mit der Metro verbunden.",
             "hu": "Az útvonal központi állomása, kiváló metrókapcsolattal.",
             "ro": "Punctul central al traseului, bine conectat prin metrou.",
-            "en": "Central point of the route, well-connected by metro."
+            "en": "Central point of the route, well-connected by metro.",
+            "fr": "Point central de l’itinéraire, bien desservi par le métro."
           }
         }
       ],
@@ -823,7 +865,8 @@
         "de": "Mit den öffentlichen Verkehrsmitteln von Rouen, insbesondere der modernen Metro und den TEOR-Bussen, verbinden Sie mühelos die Rive Gauche mit dem Stadtzentrum. Beginnen Sie im grünen Süden und lassen Sie sich bequem zu den kulturellen Schätzen wie dem Kunstmuseum und der Kathedrale bringen. So umgehen Sie Parkplatzsuche und Verkehrsstaus.",
         "hu": "Rouen tömegközlekedése, különösen a modern metró és a TEOR buszok révén, könnyedén összeköti a bal partot a belvárossal. Kezdjen a déli zöldövezetben, majd utazzon kényelmesen olyan kulturális kincsekhez, mint a Szépművészeti Múzeum és a katedrális. Ezzel elkerülheti a parkolási nehézségeket és a forgalmi dugókat.",
         "ro": "Transportul public din Rouen, în special metroul și autobuzele TEOR, conectează eficient Rive Gauche de centrul orașului. Începeți în zona verde din sud și călătoriți confortabil spre comori culturale precum Muzeul de Arte Frumoase și catedrala. Astfel, evitați stresul parcării și aglomerația din trafic.",
-        "en": "Rouen's public transport, especially the modern metro and TEOR buses, effortlessly connects the Rive Gauche with the city center. Start in the green south and travel comfortably to cultural treasures like the Fine Arts Museum and the cathedral. This way, you avoid parking hassles and traffic congestion."
+        "en": "Rouen's public transport, especially the modern metro and TEOR buses, effortlessly connects the Rive Gauche with the city center. Start in the green south and travel comfortably to cultural treasures like the Fine Arts Museum and the cathedral. This way, you avoid parking hassles and traffic congestion.",
+        "fr": "Les transports en commun de Rouen, notamment le métro moderne et les bus TEOR, relient aisément la rive gauche au centre-ville. Commencez au sud, dans les espaces verts, et voyagez confortablement vers des trésors culturels comme le musée des Beaux-Arts et la cathédrale. Ainsi, vous évitez les problèmes de stationnement et les embouteillages."
       },
       "gastro_picks": {
         "de": [
@@ -931,6 +974,12 @@
           "Rouen's metro runs underground in the city center.",
           "Always validate your ticket before starting your journey.",
           "TEOR buses have priority and are often faster than taxis in traffic."
+        ],
+        "fr": [
+          "Achetez un pass journée pour des déplacements illimités.",
+          "Le métro de Rouen circule en souterrain dans le centre-ville.",
+          "Validez toujours votre titre de transport avant de commencer votre trajet.",
+          "Les bus TEOR ont la priorité et sont souvent plus rapides que les taxis en cas de trafic."
         ]
       }
     }

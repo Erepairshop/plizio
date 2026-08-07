@@ -21,7 +21,8 @@
             "de": "Temple",
             "hu": "Temple",
             "ro": "Temple",
-            "en": "Temple"
+            "en": "Temple",
+            "fr": "Temple"
           },
           "coords": [
             3.942823,
@@ -36,7 +37,8 @@
             "de": "Bewundern Sie die strenge Architektur dieses historischen protestantischen Tempels als Symbol der Resilienz und kommen Sie früh für das ruhige Morgenlicht.",
             "hu": "Csodálja meg e történelmi protestáns templom puritán építészetét, a vallási ellenállás szimbólumát, és érkezzen korán a békés reggeli fényekért.",
             "ro": "Admirați arhitectura austeră a acestui templu protestant istoric, simbol al rezilienței, și ajungeți devreme pentru a vă bucura de lumina liniștită a dimineții.",
-            "en": "Admire the austere architecture of this historic Protestant temple, symbolizing religious resilience, and arrive early to appreciate the serene morning light inside."
+            "en": "Admire the austere architecture of this historic Protestant temple, symbolizing religious resilience, and arrive early to appreciate the serene morning light inside.",
+            "fr": "Admirez l'architecture austère de ce temple protestant historique, symbole de résilience religieuse, et arrivez tôt pour apprécier la sereine lumière matinale à l'intérieur."
           }
         },
         {
@@ -44,7 +46,8 @@
             "de": "La Calquière",
             "hu": "La Calquière",
             "ro": "La Calquière",
-            "en": "La Calquière"
+            "en": "La Calquière",
+            "fr": "La Calquière"
           },
           "coords": [
             3.942904,
@@ -59,7 +62,8 @@
             "de": "Entspannen Sie an den ruhigen Ufern von La Calquière, um den natürlichen Charme der Region zu erleben, und tragen Sie bequeme Schuhe für einen schönen Spaziergang.",
             "hu": "Pihenjen a La Calquière nyugodt folyópartján, amely tökéletes a régió természeti varázsának megismeréséhez, és hozzon kényelmes cipőt a kellemes vízparti sétához.",
             "ro": "Relaxați-vă pe malurile liniștite de la La Calquière, perfecte pentru a descoperi farmecul natural al regiunii, și aduceți încălțăminte comodă pentru o plimbare.",
-            "en": "Relax by the tranquil riverbanks at La Calquière, perfect for understanding the region's natural charm, and bring comfortable shoes for a pleasant waterside stroll."
+            "en": "Relax by the tranquil riverbanks at La Calquière, perfect for understanding the region's natural charm, and bring comfortable shoes for a pleasant waterside stroll.",
+            "fr": "Détendez-vous sur les berges tranquilles de La Calquière, parfaites pour saisir le charme naturel de la région, et prévoyez des chaussures confortables pour une agréable promenade au bord de l'eau."
           }
         },
         {
@@ -67,7 +71,8 @@
             "de": "Corbières",
             "hu": "Corbières",
             "ro": "Corbières",
-            "en": "Corbières"
+            "en": "Corbières",
+            "fr": "Corbières"
           },
           "coords": [
             3.939326,
@@ -82,7 +87,8 @@
             "de": "Genießen Sie die üppigen Grünflächen von Corbières, die sich perfekt für ein mittägliches Picknick eignen, also packen Sie lokale Snacks für die schöne Natur ein.",
             "hu": "Élvezze a Corbières buja zöld területeit, amely tökéletes egy déli piknikhez, ezért csomagoljon helyi finomságokat, hogy a gyönyörű természet lágy ölén fogyassza el.",
             "ro": "Bucurați-vă de spațiile verzi luxuriante din Corbières, locul perfect pentru un picnic la prânz, așa că luați cu voi gustări locale pentru a le savura în natură.",
-            "en": "Enjoy the lush green spaces of Corbières, offering a perfect spot for a mid-day picnic, so pack some local snacks to savor while surrounded by beautiful nature."
+            "en": "Enjoy the lush green spaces of Corbières, offering a perfect spot for a mid-day picnic, so pack some local snacks to savor while surrounded by beautiful nature.",
+            "fr": "Profitez des espaces verts luxuriants de Corbières, idéal pour un pique-nique de midi ; emportez des snacks locaux à déguster entouré de belle nature."
           }
         },
         {
@@ -90,7 +96,8 @@
             "de": "La Muse",
             "hu": "La Muse",
             "ro": "La Muse",
-            "en": "La Muse"
+            "en": "La Muse",
+            "fr": "La Muse"
           },
           "coords": [
             3.938512,
@@ -105,7 +112,8 @@
             "de": "Erleben Sie die lebhafte Freizeitatmosphäre in La Muse, einem hervorragenden Ort, um das lokale Leben zu beobachten, und nehmen Sie auf einer Bank Platz zum Entspannen.",
             "hu": "Szívja magába a La Muse pezsgő, rekreációs atmoszféráját, ahol kiválóan megfigyelhető a helyi élet, és foglaljon helyet az egyik padon egy kis pihenésre.",
             "ro": "Simțiți atmosfera vibrantă de recreere de la La Muse, un loc excelent pentru a observa viața locală, și ocupați un loc pe o bancă pentru a vă relaxa pur și simplu.",
-            "en": "Take in the vibrant recreational atmosphere at La Muse, an excellent place to watch local life unfold, and grab a seat on one of the benches to simply unwind."
+            "en": "Take in the vibrant recreational atmosphere at La Muse, an excellent place to watch local life unfold, and grab a seat on one of the benches to simply unwind.",
+            "fr": "Saisissez l'atmosphère récréative et dynamique de La Muse, un excellent endroit pour observer la vie locale, et installez-vous sur un banc pour simplement vous détendre."
           }
         },
         {
@@ -113,7 +121,8 @@
             "de": "Fort",
             "hu": "Fort",
             "ro": "Fort",
-            "en": "Fort"
+            "en": "Fort",
+            "fr": "Fort"
           },
           "coords": [
             3.939569,
@@ -128,7 +137,8 @@
             "de": "Erkunden Sie die Überreste dieser Festung, um die militärische Vergangenheit der Cevennen zu begreifen, und vergessen Sie Ihre Kamera für den Panoramablick nicht.",
             "hu": "Fedezze fel e hegytetőn álló erődítmény romjait, hogy megértse a Cévennek katonai múltját, és ne felejtse el magával hozni fényképezőgépét a panorámás kilátásért.",
             "ro": "Explorați ruinele acestui fort pentru a înțelege trecutul militar strategic al regiunii Cevennes și nu uitați aparatul foto pentru priveliștile panoramice superbe.",
-            "en": "Explore the remains of this hilltop fort to grasp the strategic military past of the Cevennes, and don't forget your camera for the panoramic valley views."
+            "en": "Explore the remains of this hilltop fort to grasp the strategic military past of the Cevennes, and don't forget your camera for the panoramic valley views.",
+            "fr": "Explorez les vestiges de ce fort perché pour comprendre le passé militaire stratégique des Cévennes, et n'oubliez pas votre appareil photo pour les vues panoramiques sur la vallée."
           }
         }
       ],
@@ -136,7 +146,8 @@
         "de": "Beginnen Sie Ihren Morgen mit der Erkundung des historischen Tempels im Dorfzentrum. Mittags schlendern Sie auf malerischen Pfaden nach La Calquière und Corbières und genießen die Natur. Der Nachmittag lädt Sie ein, in La Muse zu entspannen und das ruhige lokale Leben zu beobachten. Beenden Sie Ihren Tag mit einer Wanderung zum Fort und genießen Sie die herrliche Aussicht am Abend.",
         "hu": "Kezdje a reggelt a falu központjában található történelmi templom felfedezésével. Délben sétáljon végig a festői ösvényeken a La Calquière és a Corbières felé, élvezve a természet szépségét. A délután arra invitálja, hogy pihenjen a La Muse-ban, és figyelje a helyi élet nyugodt folyását. Zárja a napot az erőd felé tett túrával, és élvezze a csodálatos esti kilátást naplementekor.",
         "ro": "Începeți dimineața explorând Templul istoric din centrul satului. La prânz, plimbați-vă pe cărările pitorești către La Calquière și Corbières, bucurându-vă de frumusețea naturală. După-amiaza vă invită să vă relaxați la La Muse, observând ritmul blând al vieții locale. Încheiați ziua urcând la Fort, bucurându-vă de priveliștile magnifice de seară pe măsură ce soarele apune.",
-        "en": "Start your morning exploring the historic Temple in the village center, setting a contemplative tone. By midday, wander along the scenic paths to La Calquière and Corbières, soaking in the natural beauty. The afternoon invites you to relax at La Muse, observing the gentle flow of local life. Conclude your day hiking up to the Fort, enjoying magnificent evening views as the sun sets."
+        "en": "Start your morning exploring the historic Temple in the village center, setting a contemplative tone. By midday, wander along the scenic paths to La Calquière and Corbières, soaking in the natural beauty. The afternoon invites you to relax at La Muse, observing the gentle flow of local life. Conclude your day hiking up to the Fort, enjoying magnificent evening views as the sun sets.",
+        "fr": "Commencez la matinée par le Temple historique au centre du village pour un ton contemplatif. À midi, promenez-vous le long des sentiers pittoresques jusqu'à La Calquière et Corbières, en profitant de la beauté naturelle. L'après-midi invite à la détente à La Muse, observant la douceur de la vie locale. Concluez la journée par une montée au Fort pour apprécier les magnifiques vues du soir au coucher du soleil."
       },
       "variants": {
         "rainy": {
@@ -144,7 +155,8 @@
             "de": "Morgens suchen wir Schutz im historischen Tempel. Mittags spazieren wir am nebligen Gardon-Ufer, wo der Regen eine mystische Atmosphäre schafft. Nachmittags erkunden wir die bewaldeten Pfade, die im Regen besonders intensiv duften. Abends kehren wir rechtzeitig ins Dorfzentrum zurück, bevor die Dunkelheit und der Regen zunehmen.",
             "hu": "Reggel a falu történelmi templomában kezdünk, védve az elemektől. Délben a ködös Gardon-parton sétálunk, ahol az eső misztikus hangulatot áraszt. Délután az erdős ösvényeket járjuk, melyek ilyenkor friss illatúak. Este a falu központjába térünk vissza, mielőtt az eső és a sötétség intenzívebbé válna.",
             "ro": "Dimineața căutăm adăpost în Templul istoric. La prânz ne plimbăm pe malul cețos al râului Gardon, unde ploaia creează o atmosferă mistică. După-amiaza explorăm potecile împădurite, care miros intens sub ploaie. Seara ne întoarcem în centrul satului înainte ca întunericul și ploaia să se intensifice.",
-            "en": "In the morning, we seek shelter in the historic Temple. At noon, we walk along the misty Gardon banks, where the rain creates a mystical atmosphere. In the afternoon, we explore the wooded paths, which smell intensely fresh in the rain. Evening sees us returning to the village center before the darkness and rain increase."
+            "en": "In the morning, we seek shelter in the historic Temple. At noon, we walk along the misty Gardon banks, where the rain creates a mystical atmosphere. In the afternoon, we explore the wooded paths, which smell intensely fresh in the rain. Evening sees us returning to the village center before the darkness and rain increase.",
+            "fr": "Le matin, nous cherchons refuge dans le Temple historique. À midi, nous marchons le long des berges brumeuses du Gardon, où la pluie crée une atmosphère mystique. L'après-midi, nous explorons les sentiers boisés qui sentent intensément la fraîcheur sous la pluie. Le soir, nous revenons au centre du village avant que l'obscurité et la pluie n'augmentent."
           },
           "stops": [
             {
@@ -152,13 +164,15 @@
                 "de": "Temple",
                 "hu": "Temple",
                 "ro": "Temple",
-                "en": "Temple"
+                "en": "Temple",
+                "fr": "Temple"
               },
               "tip_5lang": {
                 "de": "Bewundern Sie die schlichte Architektur des protestantischen Erbes im Trockenen; nutzen Sie den Besuch als Regenschutz und tragen Sie rutschfeste Schuhe für den Dorfweg.",
                 "hu": "Csodálja meg a protestáns örökség puritán építészetét a száraz belső térben; használja ki a látogatást eső elleni menedékként, és viseljen csúszásmentes talpú cipőt.",
                 "ro": "Admirați arhitectura austeră a moștenirii protestante la adăpost; folosiți vizita ca refugiu împotriva ploii și purtați încălțăminte antiderapantă pe străzile satului.",
-                "en": "Admire the simple architecture of the Protestant heritage while staying dry; use the visit as a rain shelter and wear non-slip shoes for the village paths."
+                "en": "Admire the simple architecture of the Protestant heritage while staying dry; use the visit as a rain shelter and wear non-slip shoes for the village paths.",
+                "fr": "Admirez l'architecture simple du patrimoine protestant tout en restant au sec ; utilisez la visite comme abri contre la pluie et portez des chaussures antidérapantes pour les chemins du village."
               }
             },
             {
@@ -166,13 +180,15 @@
                 "de": "La Calquière",
                 "hu": "La Calquière",
                 "ro": "La Calquière",
-                "en": "La Calquière"
+                "en": "La Calquière",
+                "fr": "La Calquière"
               },
               "tip_5lang": {
                 "de": "Beobachten Sie das Anschwellen des Flusses von der sicheren Brücke aus; die nebligen Cevennen bieten ein tolles Fotomotiv, aber halten Sie die Kamera unter einem Schirm trocken.",
                 "hu": "Figyelje meg a folyó vízszintjének emelkedését a biztonságos hídról; a ködös Cévennek remek fotótéma, de tartsa a kamerát esernyő alatt, hogy megóvja a nedvességtől.",
                 "ro": "Observați creșterea nivelului râului de pe podul sigur; munții Cévennes în ceață oferă un subiect foto excelent, dar păstrați camera uscată sub o umbrelă mare.",
-                "en": "Observe the rising river levels from the safety of the bridge; the misty Cévennes offer a great photo subject, but keep your camera dry under a large umbrella."
+                "en": "Observe the rising river levels from the safety of the bridge; the misty Cévennes offer a great photo subject, but keep your camera dry under a large umbrella.",
+                "fr": "Observez la montée des eaux depuis la sécurité du pont ; les Cévennes brumeuses sont un excellent sujet photo, mais gardez votre appareil au sec sous un grand parapluie."
               }
             },
             {
@@ -180,13 +196,15 @@
                 "de": "Corbières",
                 "hu": "Corbières",
                 "ro": "Corbières",
-                "en": "Corbières"
+                "en": "Corbières",
+                "fr": "Corbières"
               },
               "tip_5lang": {
                 "de": "Ein friedlicher Ort am Wasser, der im Regen besonders ruhig wirkt; achten Sie auf den schlammigen Untergrund am Uferweg und tragen Sie unbedingt wasserfeste Wanderschuhe.",
                 "hu": "Békés vízparti helyszín, amely esőben különösen nyugodt; ügyeljen a sáros talajra a parti ösvényen, és mindenképpen viseljen vízálló túrabakancsot a séta során.",
                 "ro": "Un loc liniștit pe malul apei, care pare deosebit de calm pe ploaie; atenție la solul noroios de pe potecă și purtați neapărat bocanci de drumeție impermeabili.",
-                "en": "A peaceful riverside spot that feels especially calm in the rain; watch out for muddy ground on the path and be sure to wear waterproof hiking boots for this leg."
+                "en": "A peaceful riverside spot that feels especially calm in the rain; watch out for muddy ground on the path and be sure to wear waterproof hiking boots for this leg.",
+                "fr": "Un coin paisible au bord de l'eau qui paraît particulièrement calme sous la pluie ; attention aux sentiers boueux et portez des chaussures de randonnée imperméables pour cette étape."
               }
             },
             {
@@ -194,13 +212,15 @@
                 "de": "La Muse",
                 "hu": "La Muse",
                 "ro": "La Muse",
-                "en": "La Muse"
+                "en": "La Muse",
+                "fr": "La Muse"
               },
               "tip_5lang": {
                 "de": "Genießen Sie die üppige Vegetation, die durch die Feuchtigkeit leuchtet; suchen Sie unter den Felsvorsprüngen Schutz und achten Sie auf herabfallende nasse Blätter.",
                 "hu": "Élvezze a buja növényzetet, amely a nedvességtől szinte ragyog; keressen menedéket a sziklakiszögellések alatt, és ügyeljen a lehullott, csúszós levelekre az úton.",
                 "ro": "Bucurați-vă de vegetația luxuriantă care strălucește datorită umidității; căutați adăpost sub stânci și aveți grijă la frunzele ude și alunecoase de pe drum.",
-                "en": "Enjoy the lush vegetation that glows with the moisture; seek shelter under the rocky overhangs and watch out for slippery wet leaves on the ground."
+                "en": "Enjoy the lush vegetation that glows with the moisture; seek shelter under the rocky overhangs and watch out for slippery wet leaves on the ground.",
+                "fr": "Appréciez la végétation qui resplendit sous l'humidité ; cherchez un abri sous les surplombs rocheux et attention aux feuilles glissantes mouillées au sol."
               }
             },
             {
@@ -208,13 +228,15 @@
                 "de": "Fort",
                 "hu": "Fort",
                 "ro": "Fort",
-                "en": "Fort"
+                "en": "Fort",
+                "fr": "Fort"
               },
               "tip_5lang": {
                 "de": "Die Ruinen wirken unter dem grauen Himmel dramatisch; bleiben Sie auf den markierten Wegen, da die alten Steine bei Nässe extrem rutschig sind und Sturzgefahr besteht.",
                 "hu": "A romok drámai látványt nyújtanak a szürke égbolt alatt; maradjon a kijelölt utakon, mert a régi kövek vizesen rendkívül csúszósak, és fennáll az elesés veszélye.",
                 "ro": "Ruinele oferă o vedere dramatică sub cerul gri; rămâneți pe traseele marcate, deoarece pietrele vechi sunt extrem de alunecoase când sunt ude și există risc de cădere.",
-                "en": "The ruins offer a dramatic sight under the grey sky; stay on the marked trails, as the old stones are extremely slippery when wet and pose a falling hazard."
+                "en": "The ruins offer a dramatic sight under the grey sky; stay on the marked trails, as the old stones are extremely slippery when wet and pose a falling hazard.",
+                "fr": "Les ruines offrent un spectacle dramatique sous le ciel gris ; restez sur les sentiers balisés, car les vieilles pierres sont extrêmement glissantes quand elles sont mouillées et présentent un risque de chute."
               }
             }
           ]
@@ -224,7 +246,8 @@
             "de": "Der Wintermorgen beginnt frisch mit Reif auf den Steinhäusern. Mittags wärmen wir uns bei kulturellen Besichtigungen auf. Nachmittags nutzen wir das klare Winterlicht für Fotos am Fluss. Da die Sonne bereits gegen 17:00 Uhr untergeht, planen wir den Rückweg zum Fort für den frühen Abend ein.",
             "hu": "A téli reggel frissen indul, dér borítja a kőházakat. Délben kulturális látnivalókkal melegszünk fel. Délután a tiszta téli fényt használjuk ki a folyóparti fotózáshoz. Mivel a nap 17:00 körül nyugszik, a visszautat a Forttól már a kora estére időzítjük.",
             "ro": "Dimineața de iarnă începe proaspăt, cu chiciură pe casele de piatră. La prânz ne încălzim vizitând obiectivele culturale. După-amiaza profităm de lumina clară pentru poze la râu. Deoarece soarele apune în jur de ora 17:00, planificăm întoarcerea devreme.",
-            "en": "The winter morning starts fresh with frost on the stone houses. At noon, we warm up during cultural visits. In the afternoon, we take advantage of the clear winter light for photos by the river. Since the sun sets around 17:00, we plan our return early."
+            "en": "The winter morning starts fresh with frost on the stone houses. At noon, we warm up during cultural visits. In the afternoon, we take advantage of the clear winter light for photos by the river. Since the sun sets around 17:00, we plan our return early.",
+            "fr": "La matinée d'hiver commence fraîche avec du givre sur les maisons en pierre. À midi, nous nous réchauffons lors de visites culturelles. L'après-midi, nous profitons de la lumière hivernale claire pour des photos au bord de la rivière. Comme le soleil se couche vers 17:00, nous prévoyons notre retour tôt."
           },
           "stops": [
             {
@@ -232,13 +255,15 @@
                 "de": "Temple",
                 "hu": "Temple",
                 "ro": "Temple",
-                "en": "Temple"
+                "en": "Temple",
+                "fr": "Temple"
               },
               "tip_5lang": {
                 "de": "Die dicken Mauern bieten Schutz vor dem kalten Wind; besuchen Sie den Tempel am Vormittag, wenn das Licht flach einfällt und die schlichte Inneneinrichtung beleuchtet.",
                 "hu": "A vastag falak védelmet nyújtanak a hideg szél ellen; látogassa meg a templomot délelőtt, amikor a fény alacsony szögből világítja meg a puritán belső teret.",
                 "ro": "Zidurile groase oferă protecție împotriva vântului rece; vizitați templul dimineața, când lumina cade sub un unghi mic și luminează interiorul auster.",
-                "en": "The thick walls provide protection from the cold wind; visit the temple in the morning when the light is low and beautifully illuminates the simple interior."
+                "en": "The thick walls provide protection from the cold wind; visit the temple in the morning when the light is low and beautifully illuminates the simple interior.",
+                "fr": "Les murs épais protègent du vent froid ; visitez le temple le matin lorsque la lumière est basse et illumine magnifiquement l'intérieur simple."
               }
             },
             {
@@ -246,13 +271,15 @@
                 "de": "La Calquière",
                 "hu": "La Calquière",
                 "ro": "La Calquière",
-                "en": "La Calquière"
+                "en": "La Calquière",
+                "fr": "La Calquière"
               },
               "tip_5lang": {
                 "de": "Ein zügiger Spaziergang hier bringt den Kreislauf in Schwung; ziehen Sie mehrere Schichten Kleidung an, da es im Schatten des Tals deutlich kühler ist als im Dorf.",
                 "hu": "Egy tempós séta itt felpörgeti a keringést; öltözzön rétegesen, mivel a völgy árnyékosabb részein jóval hidegebb van, mint a falu napsütötte pontjain.",
                 "ro": "O plimbare vioaie aici vă va pune sângele în mișcare; îmbrăcați-vă în straturi, deoarece în zonele umbrite ale văii este mult mai frig decât în sat.",
-                "en": "A brisk walk here will get your circulation going; dress in layers, as it is much colder in the shaded parts of the valley than in the sunny spots of the village."
+                "en": "A brisk walk here will get your circulation going; dress in layers, as it is much colder in the shaded parts of the valley than in the sunny spots of the village.",
+                "fr": "Une marche vive ici fera circuler le sang ; habillez-vous en couches, car il fait beaucoup plus froid dans les zones ombragées de la vallée que dans les endroits ensoleillés du village."
               }
             },
             {
@@ -260,13 +287,15 @@
                 "de": "Corbières",
                 "hu": "Corbières",
                 "ro": "Corbières",
-                "en": "Corbières"
+                "en": "Corbières",
+                "fr": "Corbières"
               },
               "tip_5lang": {
                 "de": "Die kahlen Bäume geben den Blick auf die Felsformationen frei; genießen Sie die Ruhe der Nebensaison, aber kehren Sie vor dem schnellen Temperatursturz um 16:30 Uhr um.",
                 "hu": "A kopár fák szabad kilátást engednek a sziklaformációkra; élvezze a holtszezon nyugalmát, de induljon vissza a 16:30-as gyors hőmérséklet-csökkenés előtt.",
                 "ro": "Copacii golași oferă o vedere liberă spre formațiunile stâncoase; bucurați-vă de liniștea sezonului rece, dar plecați înapoi înainte de scăderea temperaturii de la 16:30.",
-                "en": "The bare trees allow a clear view of the rock formations; enjoy the peace of the off-season, but head back before the rapid temperature drop starting at 16:30."
+                "en": "The bare trees allow a clear view of the rock formations; enjoy the peace of the off-season, but head back before the rapid temperature drop starting at 16:30.",
+                "fr": "Les arbres dénudés offrent une vue dégagée sur les formations rocheuses ; profitez du calme de la basse saison, mais revenez avant la chute rapide des températures à partir de 16:30."
               }
             },
             {
@@ -274,13 +303,15 @@
                 "de": "La Muse",
                 "hu": "La Muse",
                 "ro": "La Muse",
-                "en": "La Muse"
+                "en": "La Muse",
+                "fr": "La Muse"
               },
               "tip_5lang": {
                 "de": "Das klare Winterwasser des Gardon wirkt fast silbrig; bringen Sie eine Thermoskanne mit einem heißen Getränk mit, um die Aussicht ohne zu frieren genießen zu können.",
                 "hu": "A Gardon tiszta téli vize szinte ezüstösnek tűnik; vigyen magával termoszt forró itallal, hogy fázás nélkül élvezhesse a kilátást ezen a festői ponton.",
                 "ro": "Apa limpede de iarnă a râului Gardon pare aproape argintie; aduceți un termos cu o băutură caldă pentru a vă bucura de priveliște fără să vă fie frig.",
-                "en": "The clear winter water of the Gardon looks almost silvery; bring a thermos with a hot drink to enjoy the view at this scenic spot without getting too cold."
+                "en": "The clear winter water of the Gardon looks almost silvery; bring a thermos with a hot drink to enjoy the view at this scenic spot without getting too cold.",
+                "fr": "L'eau claire et hivernale du Gardon paraît presque argentée ; apportez un thermos avec une boisson chaude pour profiter du paysage sans avoir trop froid."
               }
             },
             {
@@ -288,13 +319,15 @@
                 "de": "Fort",
                 "hu": "Fort",
                 "ro": "Fort",
-                "en": "Fort"
+                "en": "Fort",
+                "fr": "Fort"
               },
               "tip_5lang": {
                 "de": "Erreichen Sie den Gipfel vor 16:45 Uhr für einen atemberaubenden Wintersonnenuntergang; tragen Sie Handschuhe, da der Wind an den Ruinen oben sehr eisig wehen kann.",
                 "hu": "Érjen fel a csúcsra 16:45 előtt a lélegzetelállító téli naplementéért; viseljen kesztyűt, mert a romoknál a szél fent nagyon jegesen fújhat a völgy felől.",
                 "ro": "Ajungeți în vârf înainte de 16:45 pentru un apus de iarnă uluitor; purtați mănuși, deoarece la ruine vântul poate sufla foarte rece dinspre vale.",
-                "en": "Reach the summit before 16:45 for a breathtaking winter sunset; wear gloves, as the wind can be very icy up at the ruins blowing from the valley below."
+                "en": "Reach the summit before 16:45 for a breathtaking winter sunset; wear gloves, as the wind can be very icy up at the ruins blowing from the valley below.",
+                "fr": "Atteignez le sommet avant 16:45 pour un spectaculaire coucher de soleil hivernal ; portez des gants, car le vent peut être très glacial au niveau des ruines soufflant depuis la vallée."
               }
             }
           ]
@@ -314,7 +347,8 @@
             "de": "Temple",
             "hu": "Temple",
             "ro": "Temple",
-            "en": "Temple"
+            "en": "Temple",
+            "fr": "Temple"
           },
           "coords": [
             3.942823,
@@ -329,7 +363,8 @@
             "de": "Bewundern Sie die strenge Architektur dieses historischen protestantischen Tempels als Symbol der Resilienz und kommen Sie früh für das ruhige Morgenlicht.",
             "hu": "Csodálja meg e történelmi protestáns templom puritán építészetét, a vallási ellenállás szimbólumát, és érkezzen korán a békés reggeli fényekért.",
             "ro": "Admirați arhitectura austeră a acestui templu protestant istoric, simbol al rezilienței, și ajungeți devreme pentru a vă bucura de lumina liniștită a dimineții.",
-            "en": "Admire the austere architecture of this historic Protestant temple, symbolizing religious resilience, and arrive early to appreciate the serene morning light inside."
+            "en": "Admire the austere architecture of this historic Protestant temple, symbolizing religious resilience, and arrive early to appreciate the serene morning light inside.",
+            "fr": "Admirez l'architecture austère de ce temple protestant historique, symbole de résilience religieuse, et arrivez tôt pour apprécier la sereine lumière matinale à l'intérieur."
           }
         },
         {
@@ -337,7 +372,8 @@
             "de": "Grotte de Trabuc",
             "hu": "Grotte de Trabuc",
             "ro": "Grotte de Trabuc",
-            "en": "Grotte de Trabuc"
+            "en": "Grotte de Trabuc",
+            "fr": "Grotte de Trabuc"
           },
           "coords": [
             3.959255,
@@ -352,7 +388,8 @@
             "de": "Steigen Sie in die spektakuläre Grotte de Trabuc hinab, um die legendäre Formation der hunderttausend Soldaten zu sehen, und bringen Sie eine warme Jacke mit.",
             "hu": "Ereszkedjen le a látványos Trabuc-barlangba, hogy megnézze a százezer katona legendás sziklaalakzatát, és hozzon magával meleg kabátot, mivel a barlang hűvös.",
             "ro": "Coborâți în spectaculoasa Grotte de Trabuc pentru a vedea formațiunea legendară a celor o sută de mii de soldați și aduceți o jachetă caldă, deoarece peștera este rece.",
-            "en": "Descend into the spectacular Grotte de Trabuc to see the legendary hundred thousand soldiers rock formation, and bring a warm jacket as the cave is remarkably cool."
+            "en": "Descend into the spectacular Grotte de Trabuc to see the legendary hundred thousand soldiers rock formation, and bring a warm jacket as the cave is remarkably cool.",
+            "fr": "Descendez dans la spectaculaire Grotte de Trabuc pour voir la légendaire formation rocheuse des cent mille soldats, et emportez une veste chaude car la grotte est remarquablement fraîche."
           }
         },
         {
@@ -360,7 +397,8 @@
             "de": "Dolmen de Camplonne",
             "hu": "Dolmen de Camplonne",
             "ro": "Dolmen de Camplonne",
-            "en": "Dolmen de Camplonne"
+            "en": "Dolmen de Camplonne",
+            "fr": "Dolmen de Camplonne"
           },
           "coords": [
             3.964284,
@@ -375,7 +413,8 @@
             "de": "Entdecken Sie die verborgene Geschichte des Dolmens von Camplonne inmitten ruhiger Wälder, ein Zeugnis antiker Baumeister, und tragen Sie feste Schuhe für den Weg.",
             "hu": "Fedezze fel a békés erdők közepén található Camplonne-i dolmen rejtett történetét, az ősi építők bizonyítékát, és viseljen masszív cipőt a kissé egyenetlen ösvény miatt.",
             "ro": "Descoperiți istoria ascunsă a Dolmenului din Camplonne situat în păduri liniștite, o dovadă a constructorilor antici, și purtați încălțăminte robustă pentru potecă.",
-            "en": "Discover the hidden history of the Dolmen de Camplonne set amidst serene woodlands, a testament to ancient builders, and wear sturdy shoes for the slightly uneven path."
+            "en": "Discover the hidden history of the Dolmen de Camplonne set amidst serene woodlands, a testament to ancient builders, and wear sturdy shoes for the slightly uneven path.",
+            "fr": "Découvrez l'histoire cachée du Dolmen de Camplonne au milieu d'un boisement serein, témoignage des bâtisseurs anciens, et portez des chaussures solides pour le sentier légèrement inégal."
           }
         },
         {
@@ -383,7 +422,8 @@
             "de": "Musée du Désert",
             "hu": "Musée du Désert",
             "ro": "Musée du Désert",
-            "en": "Musée du Désert"
+            "en": "Musée du Désert",
+            "fr": "Musée du Désert"
           },
           "coords": [
             3.957169,
@@ -398,7 +438,8 @@
             "de": "Tauchen Sie in diesem Museum in die ergreifende Geschichte der Hugenotten ein, wichtig für den regionalen Kontext, und nehmen Sie einen Audioguide für die Ausstellungen.",
             "hu": "Merüljön el a hugenották megható történetében ebben a kiterjedt múzeumban, amely elengedhetetlen a régió megértéséhez, és kérjen audioguide-ot a kiállításokhoz.",
             "ro": "Pătrundeți în istoria emoționantă a hughenoților la acest muzeu vast, esențial pentru contextul regional, și luați un ghid audio pentru a aprecia pe deplin expozițiile.",
-            "en": "Dive into the poignant history of the Huguenots at this extensive museum, essential for regional context, and grab an audio guide to fully appreciate the exhibits."
+            "en": "Dive into the poignant history of the Huguenots at this extensive museum, essential for regional context, and grab an audio guide to fully appreciate the exhibits.",
+            "fr": "Plongez dans l'histoire poignante des huguenots dans ce musée complet, essentiel pour le contexte régional, et prenez un audioguide pour apprécier pleinement les expositions."
           }
         },
         {
@@ -406,7 +447,8 @@
             "de": "Dolmen de Mas Soubeyran",
             "hu": "Dolmen de Mas Soubeyran",
             "ro": "Dolmen de Mas Soubeyran",
-            "en": "Dolmen de Mas Soubeyran"
+            "en": "Dolmen de Mas Soubeyran",
+            "fr": "Dolmen de Mas Soubeyran"
           },
           "coords": [
             3.955543,
@@ -421,7 +463,8 @@
             "de": "Untersuchen Sie dieses uralte Megalithbauwerk, das die prähistorischen Wurzeln der Gegend offenbart, und nähern Sie sich leise, um die mystische Aura zu spüren.",
             "hu": "Vizsgálja meg ezt az ősi megalitikus építményt, amely feltárja a terület őskori gyökereit, és közelítse meg csendben, hogy igazán érezze az ősi kövek misztikus auráját.",
             "ro": "Investigați această structură megalitică veche ce dezvăluie originile preistorice ale zonei și apropiați-vă în liniște pentru a simți cu adevărat aura sa mistică.",
-            "en": "Investigate this ancient megalithic structure that reveals the area's prehistoric roots, and approach it quietly to truly feel the mystical aura of the ancient stones."
+            "en": "Investigate this ancient megalithic structure that reveals the area's prehistoric roots, and approach it quietly to truly feel the mystical aura of the ancient stones.",
+            "fr": "Explorez cette ancienne structure mégalithique qui révèle les racines préhistoriques de la région et approchez-vous doucement pour ressentir pleinement l'aura mystique des pierres anciennes."
           }
         },
         {
@@ -429,7 +472,8 @@
             "de": "Corbières",
             "hu": "Corbières",
             "ro": "Corbières",
-            "en": "Corbières"
+            "en": "Corbières",
+            "fr": "Corbières"
           },
           "coords": [
             3.939326,
@@ -444,7 +488,8 @@
             "de": "Genießen Sie die üppigen Grünflächen von Corbières, die sich perfekt für ein mittägliches Picknick eignen, also packen Sie lokale Snacks für die schöne Natur ein.",
             "hu": "Élvezze a Corbières buja zöld területeit, amely tökéletes egy déli piknikhez, ezért csomagoljon helyi finomságokat, hogy a gyönyörű természet lágy ölén fogyassza el.",
             "ro": "Bucurați-vă de spațiile verzi luxuriante din Corbières, locul perfect pentru un picnic la prânz, așa că luați cu voi gustări locale pentru a le savura în natură.",
-            "en": "Enjoy the lush green spaces of Corbières, offering a perfect spot for a mid-day picnic, so pack some local snacks to savor while surrounded by beautiful nature."
+            "en": "Enjoy the lush green spaces of Corbières, offering a perfect spot for a mid-day picnic, so pack some local snacks to savor while surrounded by beautiful nature.",
+            "fr": "Profitez des espaces verts luxuriants de Corbières, parfaits pour un pique-nique de mi-journée ; emportez des spécialités locales à déguster au milieu d'une belle nature."
           }
         }
       ],
@@ -452,7 +497,8 @@
         "de": "Ihr Radabenteuer beginnt am Tempel des Dorfes, bevor Sie in Richtung der faszinierenden Grotte de Trabuc radeln. Mittags erreichen Sie den antiken Dolmen de Camplonne und das berühmte Musée du Désert. Den Nachmittag verbringen Sie damit, den prähistorischen Dolmen de Mas Soubeyran zu bewundern. Radeln Sie zurück nach Corbières, um am Wasser zu entspannen, während der Abend naht.",
         "hu": "Kerékpáros kalandja a falu templománál kezdődik, mielőtt a lenyűgöző Trabuc-barlang felé pedálozna. Délben eléri az ősi Camplonne-i dolment és a híres Musée du Désert-t. A délutáni órákat az őskori Mas Soubeyran-i dolmen megcsodálásával tölti. Végül kerékpározzon vissza a Corbières-hez, hogy megpihenjen a vízparton, ahogy csendesen közeledik a békés és kellemes este.",
         "ro": "Aventura pe bicicletă începe la Templul din sat înainte de a pedala spre fascinanta Grotte de Trabuc. Prânzul vă aduce la anticul Dolmen din Camplonne și faimosul Muzeu al Deșertului. Orele după-amiezii sunt petrecute admirând preistoricul Dolmen din Mas Soubeyran. La final, pedalați înapoi la Corbières pentru a vă relaxa lângă apă pe măsură ce seara se apropie cu blândețe.",
-        "en": "Your cycling adventure begins at the village Temple before pedaling towards the fascinating Grotte de Trabuc. Midday brings you to the ancient Dolmen de Camplonne and the renowned Musée du Désert, diving deep into history. Afternoon hours are spent admiring the prehistoric Dolmen de Mas Soubeyran. Finally, cycle back to Corbières to relax by the water as the evening gently approaches."
+        "en": "Your cycling adventure begins at the village Temple before pedaling towards the fascinating Grotte de Trabuc. Midday brings you to the ancient Dolmen de Camplonne and the renowned Musée du Désert, diving deep into history. Afternoon hours are spent admiring the prehistoric Dolmen de Mas Soubeyran. Finally, cycle back to Corbières to relax by the water as the evening gently approaches.",
+        "fr": "Votre aventure à vélo commence au village Temple avant de pédaler vers la fascinante Grotte de Trabuc. À midi, vous découvrirez l'ancien Dolmen de Camplonne et le renommé Musée du Désert, pour plonger dans l'histoire. L'après-midi est consacré à l'admiration du dolmen préhistorique de Mas Soubeyran. Enfin, revenez à vélo à Corbières pour vous détendre au bord de l'eau à l'approche du soir."
       },
       "variants": {
         "rainy": {
@@ -460,7 +506,8 @@
             "de": "Wir starten die Radtour vorsichtig auf nassen Straßen. Mittags bietet die Grotte de Trabuc eine perfekte trockene Zuflucht unter der Erde. Nachmittags besuchen wir das Musée du Désert, um mehr über die Geschichte zu erfahren, während es draußen regnet. Die Rückfahrt erfolgt langsam über rutschige Pfade.",
             "hu": "Óvatosan indulunk kerékpárral a nedves utakon. Délben a Grotte de Trabuc tökéletes száraz menedéket nyújt a föld alatt. Délután a Musée du Désert falai között ismerkedünk a történelemmel, amíg kint esik. A visszautat lassan tesszük meg a csúszós ösvényeken.",
             "ro": "Pornim cu bicicleta cu atenție pe drumurile ude. La prânz, Grotte de Trabuc oferă un refugiu uscat perfect sub pământ. După-amiaza vizităm Musée du Désert pentru a învăța istorie în timp ce afară plouă. Întoarcerea se face lent pe potecile alunecoase.",
-            "en": "We start the bike tour cautiously on wet roads. At noon, Grotte de Trabuc provides a perfect dry refuge underground. In the afternoon, we visit Musée du Désert to learn about history while it rains outside. The return trip is slow over the slippery paths."
+            "en": "We start the bike tour cautiously on wet roads. At noon, Grotte de Trabuc provides a perfect dry refuge underground. In the afternoon, we visit Musée du Désert to learn about history while it rains outside. The return trip is slow over the slippery paths.",
+            "fr": "Nous commençons la randonnée à vélo prudemment sur des routes mouillées. À midi, la Grotte de Trabuc offre un parfait refuge sec sous terre. L'après-midi, nous visitons le Musée du Désert pour apprendre l'histoire tandis qu'il pleut dehors. Le retour se fait lentement sur des chemins glissants."
           },
           "stops": [
             {
@@ -468,13 +515,15 @@
                 "de": "Temple",
                 "hu": "Temple",
                 "ro": "Temple",
-                "en": "Temple"
+                "en": "Temple",
+                "fr": "Temple"
               },
               "tip_5lang": {
                 "de": "Prüfen Sie Ihre Bremsen vor der Abfahrt im Dorf; der Tempel ist ein guter Ort, um die Regenjacke anzuziehen, bevor Sie die Fahrt in die Cevennen fortsetzen.",
                 "hu": "Indulás előtt ellenőrizze a fékeket a faluban; a templom jó hely az esőkabát felvételére, mielőtt folytatná az utat a Cévennek dombjai felé.",
                 "ro": "Verificați frânele înainte de plecarea din sat; templul este un loc bun pentru a vă pune pelerina de ploaie înainte de a continua drumul spre munți.",
-                "en": "Check your brakes before leaving the village; the temple is a good spot to put on your rain gear before continuing the ride into the Cévennes hills."
+                "en": "Check your brakes before leaving the village; the temple is a good spot to put on your rain gear before continuing the ride into the Cévennes hills.",
+                "fr": "Vérifiez vos freins avant de quitter le village ; le temple est un bon endroit pour enfiler votre tenue de pluie avant de continuer la balade dans les collines des Cévennes."
               }
             },
             {
@@ -482,13 +531,15 @@
                 "de": "Grotte de Trabuc",
                 "hu": "Grotte de Trabuc",
                 "ro": "Grotte de Trabuc",
-                "en": "Grotte de Trabuc"
+                "en": "Grotte de Trabuc",
+                "fr": "Grotte de Trabuc"
               },
               "tip_5lang": {
                 "de": "Das ideale Ziel bei Regen, da es unter Tage immer trocken ist; stellen Sie Ihr Fahrrad unter das Vordach und genießen Sie die konstante Temperatur in der Höhle.",
                 "hu": "Ideális úticél esőben, mivel a föld alatt mindig száraz az idő; parkolja le a kerékpárt az előtető alatt, és élvezze a barlang állandó hőmérsékletét.",
                 "ro": "Destinația ideală pe ploaie, deoarece în subteran este mereu uscat; parcați bicicleta sub copertină și bucurați-vă de temperatura constantă din peșteră.",
-                "en": "The ideal destination in the rain, as it's always dry underground; park your bike under the overhang and enjoy the cave's constant temperature."
+                "en": "The ideal destination in the rain, as it's always dry underground; park your bike under the overhang and enjoy the cave's constant temperature.",
+                "fr": "Destination idéale sous la pluie, toujours sèche en sous-sol ; garez votre vélo sous le surplomb et profitez de la température constante de la grotte."
               }
             },
             {
@@ -496,13 +547,15 @@
                 "de": "Dolmen de Camplonne",
                 "hu": "Dolmen de Camplonne",
                 "ro": "Dolmen de Camplonne",
-                "en": "Dolmen de Camplonne"
+                "en": "Dolmen de Camplonne",
+                "fr": "Dolmen de Camplonne"
               },
               "tip_5lang": {
                 "de": "Der Weg zum Dolmen kann sehr schlammig sein; fahren Sie vorsichtig und meiden Sie tiefe Pfützen, da der Untergrund unter dem Wasser uneben sein könnte.",
                 "hu": "A dolmenhez vezető út nagyon sáros lehet; tekerjen óvatosan, és kerülje a mély tócsákat, mert a víz alatt egyenetlen lehet a talaj és a kövek.",
                 "ro": "Drumul spre dolmen poate fi foarte noroios; pedalați cu atenție și evitați bălțile adânci, deoarece terenul de sub apă poate fi denivelat.",
-                "en": "The path to the dolmen can be very muddy; ride cautiously and avoid deep puddles, as the ground beneath the water may be uneven or rocky."
+                "en": "The path to the dolmen can be very muddy; ride cautiously and avoid deep puddles, as the ground beneath the water may be uneven or rocky.",
+                "fr": "Le chemin vers le dolmen peut être très boueux ; roulez prudemment et évitez les flaques profondes, le fond pouvant être inégal ou rocheux."
               }
             },
             {
@@ -510,13 +563,15 @@
                 "de": "Musée du Désert",
                 "hu": "Musée du Désert",
                 "ro": "Musée du Désert",
-                "en": "Musée du Désert"
+                "en": "Musée du Désert",
+                "fr": "Musée du Désert"
               },
               "tip_5lang": {
                 "de": "Ein großartiger Ort für eine längere Pause im Trockenen; nutzen Sie die Zeit, um die Exponate ausführlich zu studieren, während der schlimmste Regen draußen abklingt.",
                 "hu": "Nagyszerű hely egy hosszabb, száraz pihenőhöz; használja ki az időt a kiállítás alapos megtekintésére, amíg kint elvonul a leghevesebb esőzés.",
                 "ro": "Un loc excelent pentru o pauză lungă și uscată; folosiți timpul pentru a studia expoziția în detaliu, în timp ce ploaia cea mai grea trece afară.",
-                "en": "A great place for a longer, dry break; use the time to study the exhibits in detail while the worst of the rain passes outside."
+                "en": "A great place for a longer, dry break; use the time to study the exhibits in detail while the worst of the rain passes outside.",
+                "fr": "Un excellent endroit pour une longue pause au sec ; profitez-en pour étudier les expositions en détail pendant que la pluie passe dehors."
               }
             },
             {
@@ -524,13 +579,15 @@
                 "de": "Dolmen de Mas Soubeyran",
                 "hu": "Dolmen de Mas Soubeyran",
                 "ro": "Dolmen de Mas Soubeyran",
-                "en": "Dolmen de Mas Soubeyran"
+                "en": "Dolmen de Mas Soubeyran",
+                "fr": "Dolmen de Mas Soubeyran"
               },
               "tip_5lang": {
                 "de": "Der Dolmen bietet selbst nur wenig Schutz; machen Sie ein schnelles Foto und setzen Sie die Fahrt fort, bevor Ihre Kleidung komplett durchgeweicht ist.",
                 "hu": "A dolmen maga kevés védelmet nyújt; készítsen egy gyors fotót, és folytassa az utat, mielőtt a ruházata teljesen átázna a nyílt terepen.",
                 "ro": "Dolmenul oferă puțin adăpost; faceți o fotografie rapidă și continuați drumul înainte ca hainele să vi se ude complet pe teren deschis.",
-                "en": "The dolmen itself offers little shelter; take a quick photo and continue your ride before your clothes get completely soaked in the open field."
+                "en": "The dolmen itself offers little shelter; take a quick photo and continue your ride before your clothes get completely soaked in the open field.",
+                "fr": "Le dolmen offre peu d'abri ; prenez une photo rapide et poursuivez votre trajet avant que vos vêtements ne soient complètement trempés dans le champ ouvert."
               }
             },
             {
@@ -538,13 +595,15 @@
                 "de": "Corbières",
                 "hu": "Corbières",
                 "ro": "Corbières",
-                "en": "Corbières"
+                "en": "Corbières",
+                "fr": "Corbières"
               },
               "tip_5lang": {
                 "de": "Vermeiden Sie das Fahren auf nassem Gras am Ufer, da dies extrem rutschig ist; beenden Sie die Tour zügig und wärmen Sie sich danach im Dorf bei einem Tee auf.",
                 "hu": "Kerülje a nedves fűvön való tekerést a parton, mert rendkívül csúszós; fejezze be gyorsan a túrát, és utána melegedjen fel a faluban egy tea mellett.",
                 "ro": "Evitați să pedalați pe iarba udă de pe mal, deoarece este extrem de alunecoasă; încheiați rapid turul și încălziți-vă apoi în sat cu un ceai fierbinte.",
-                "en": "Avoid riding on wet grass by the bank as it is extremely slippery; finish the tour promptly and warm up afterwards in the village with a hot tea."
+                "en": "Avoid riding on wet grass by the bank as it is extremely slippery; finish the tour promptly and warm up afterwards in the village with a hot tea.",
+                "fr": "Évitez de rouler sur l'herbe mouillée près de la berge car c'est extrêmement glissant ; terminez la visite rapidement et réchauffez-vous ensuite au village avec un thé chaud."
               }
             }
           ]
@@ -554,7 +613,8 @@
             "de": "Wir nutzen das Tageslicht optimal aus und starten früh. Mittags wärmen wir uns in der Grotte de Trabuc auf, die eine angenehme Ganzjahrestemperatur bietet. Nachmittags geht es zügig zum Museum, bevor die Sonne tief steht. Wir beenden die Tour bei Dämmerung gegen 17:00 Uhr im Dorf.",
             "hu": "Optimálisan kihasználjuk a nappali fényt, és korán indulunk. Délben a Grotte de Trabucban melegszünk fel, amely kellemes, állandó hőmérsékletet kínál. Délután tempósan haladunk a múzeumhoz, mielőtt a nap lebukna. A túrát szürkületkor, 17:00 körül fejezzük be a faluban.",
             "ro": "Profităm la maximum de lumina zilei și pornim devreme. La prânz ne încălzim în Grotte de Trabuc, care oferă o temperatură constantă plăcută. După-amiaza pedalăm rapid spre muzeu înainte ca soarele să apună. Încheiem turul la amurg, în jur de ora 17:00.",
-            "en": "We make the most of the daylight and start early. At noon, we warm up in Grotte de Trabuc, which offers a pleasant, constant temperature. In the afternoon, we ride quickly to the museum before the sun goes down. We finish the tour at dusk, around 17:00."
+            "en": "We make the most of the daylight and start early. At noon, we warm up in Grotte de Trabuc, which offers a pleasant, constant temperature. In the afternoon, we ride quickly to the museum before the sun goes down. We finish the tour at dusk, around 17:00.",
+            "fr": "Nous tirons parti de la lumière du jour et commençons tôt. À midi, nous nous réchauffons dans la Grotte de Trabuc, qui offre une température agréable et constante. L'après-midi, nous roulons rapidement vers le musée avant le coucher du soleil. Nous terminons la sortie au crépuscule, vers 17:00."
           },
           "stops": [
             {
@@ -562,13 +622,15 @@
                 "de": "Temple",
                 "hu": "Temple",
                 "ro": "Temple",
-                "en": "Temple"
+                "en": "Temple",
+                "fr": "Temple"
               },
               "tip_5lang": {
                 "de": "Tragen Sie winddichte Kleidung, da der Fahrtwind im Winter sehr schneidend sein kann; nutzen Sie den Halt im Dorf für einen letzten Check Ihrer Winterausrüstung.",
                 "hu": "Viseljen szélálló ruházatot, mivel a menetszél télen nagyon metsző lehet; használja ki a faluban tartott megállót a téli felszerelés utolsó ellenőrzésére.",
                 "ro": "Purtați haine rezistente la vânt, deoarece curentul de aer poate fi tăios iarna; folosiți oprirea din sat pentru o ultimă verificare a echipamentului de iarnă.",
-                "en": "Wear windproof clothing, as the wind chill while riding can be very sharp in winter; use the stop in the village for a final check of your winter gear."
+                "en": "Wear windproof clothing, as the wind chill while riding can be very sharp in winter; use the stop in the village for a final check of your winter gear.",
+                "fr": "Portez des vêtements coupe-vent, car la sensation de froid liée au vent peut être très vive en hiver ; profitez de l'arrêt au village pour vérifier une dernière fois votre équipement hivernal."
               }
             },
             {
@@ -576,13 +638,15 @@
                 "de": "Grotte de Trabuc",
                 "hu": "Grotte de Trabuc",
                 "ro": "Grotte de Trabuc",
-                "en": "Grotte de Trabuc"
+                "en": "Grotte de Trabuc",
+                "fr": "Grotte de Trabuc"
               },
               "tip_5lang": {
                 "de": "Mit konstanten 14 Grad ist die Höhle im Winter wärmer als die Außenluft; genießen Sie die Aufwärmpause, bevor Sie wieder auf das Fahrrad steigen.",
                 "hu": "Az állandó 14 fokos hőmérséklettel a barlang télen melegebb, mint a külső levegő; élvezze a bemelegítő szünetet, mielőtt újra kerékpárra szállna.",
                 "ro": "Cu o temperatură constantă de 14 grade, peștera este mai caldă iarna decât aerul de afară; bucurați-vă de pauza de încălzire înainte de a pleca din nou.",
-                "en": "With a constant 14 degrees, the cave is warmer than the outside air in winter; enjoy the warming break before getting back on your bike."
+                "en": "With a constant 14 degrees, the cave is warmer than the outside air in winter; enjoy the warming break before getting back on your bike.",
+                "fr": "Avec une constante de 14 degrés, la grotte est plus chaude que l'air extérieur en hiver ; profitez de cette pause réchauffante avant de remonter sur votre vélo."
               }
             },
             {
@@ -590,13 +654,15 @@
                 "de": "Dolmen de Camplonne",
                 "hu": "Dolmen de Camplonne",
                 "ro": "Dolmen de Camplonne",
-                "en": "Dolmen de Camplonne"
+                "en": "Dolmen de Camplonne",
+                "fr": "Dolmen de Camplonne"
               },
               "tip_5lang": {
                 "de": "Achten Sie auf überfrierende Nässe in schattigen Kurven auf dem Weg; die Dolmen liegen in der Wintersonne oft herrlich frei und bieten weite Sicht.",
                 "hu": "Ügyeljen a lefagyott részekre az út árnyékos kanyarjaiban; a dolmenek a téli napsütésben gyakran gyönyörűen látszanak, és tiszta kilátást nyújtanak a tájra.",
                 "ro": "Atenție la porțiunile înghețate în curbele umbrite ale drumului; dolmenul este adesea vizibil clar în soarele de iarnă, oferind o perspectivă largă asupra văii.",
-                "en": "Watch out for icy patches in shaded curves along the way; the dolmens are often beautifully visible in the winter sun, offering wide views of the landscape."
+                "en": "Watch out for icy patches in shaded curves along the way; the dolmens are often beautifully visible in the winter sun, offering wide views of the landscape.",
+                "fr": "Faites attention aux plaques de verglas dans les virages ombragés ; les dolmens sont souvent magnifiquement visibles au soleil d'hiver, offrant de larges vues sur le paysage."
               }
             },
             {
@@ -604,13 +670,15 @@
                 "de": "Musée du Désert",
                 "hu": "Musée du Désert",
                 "ro": "Musée du Désert",
-                "en": "Musée du Désert"
+                "en": "Musée du Désert",
+                "fr": "Musée du Désert"
               },
               "tip_5lang": {
                 "de": "Die Innenräume sind beheizt und bieten eine willkommene Pause von der Kälte; planen Sie hier genügend Zeit ein, um sich vor dem letzten Etappenteil aufzuwärmen.",
                 "hu": "A belső terek fűtöttek, és szívesen látott pihenőt nyújtanak a hideg után; tervezzen ide elég időt a bemelegedésre az utolsó szakasz megkezdése előtt.",
                 "ro": "Spațiile interioare sunt încălzite și oferă o pauză binevenită de la frig; planificați suficient timp aici pentru a vă încălzi înainte de ultima etapă.",
-                "en": "The interior spaces are heated and offer a welcome break from the cold; plan enough time here to warm up before starting the final leg of the tour."
+                "en": "The interior spaces are heated and offer a welcome break from the cold; plan enough time here to warm up before starting the final leg of the tour.",
+                "fr": "Les espaces intérieurs sont chauffés et offrent une bienvenue pause contre le froid ; prévoyez suffisamment de temps ici pour vous réchauffer avant d'entamer la dernière étape de la visite."
               }
             },
             {
@@ -618,13 +686,15 @@
                 "de": "Dolmen de Mas Soubeyran",
                 "hu": "Dolmen de Mas Soubeyran",
                 "ro": "Dolmen de Mas Soubeyran",
-                "en": "Dolmen de Mas Soubeyran"
+                "en": "Dolmen de Mas Soubeyran",
+                "fr": "Dolmen de Mas Soubeyran"
               },
               "tip_5lang": {
                 "de": "Das Licht am Nachmittag ist ideal für Fotos der Megalithen; bleiben Sie in Bewegung, um nicht auszukühlen, da der Wind hier am Hang stärker wehen kann.",
                 "hu": "A délutáni fény ideális a megalitok fotózásához; maradjon mozgásban, hogy ne hűljön ki, mivel a szél itt a hegyoldalban erősebben fújhat télen.",
                 "ro": "Lumina de după-amiază este ideală pentru a fotografia megaliții; rămâneți în mișcare pentru a nu răci, deoarece vântul poate sufla mai tare pe versant.",
-                "en": "The afternoon light is ideal for photographing the megaliths; keep moving to avoid getting cold, as the wind can blow stronger here on the hillside."
+                "en": "The afternoon light is ideal for photographing the megaliths; keep moving to avoid getting cold, as the wind can blow stronger here on the hillside.",
+                "fr": "La lumière de l'après-midi est idéale pour photographier les mégalithes ; continuez à avancer pour éviter d'avoir froid, car le vent peut souffler plus fort ici sur la colline."
               }
             },
             {
@@ -632,13 +702,15 @@
                 "de": "Corbières",
                 "hu": "Corbières",
                 "ro": "Corbières",
-                "en": "Corbières"
+                "en": "Corbières",
+                "fr": "Corbières"
               },
               "tip_5lang": {
                 "de": "Beenden Sie die Fahrt, bevor es um 17:00 Uhr dunkel wird; stellen Sie sicher, dass Ihre Fahrradbeleuchtung funktioniert, falls Sie sich etwas verspäten.",
                 "hu": "Fejezze be a túrát, mielőtt 17:00-kor besötétedik; győződjön meg róla, hogy a kerékpár lámpái működnek, ha esetleg egy kicsit elidőzne a parton.",
                 "ro": "Încheiați călătoria înainte de a se întuneca la ora 17:00; asigurați-vă că luminile bicicletei funcționează în cazul în care întârziați puțin.",
-                "en": "Finish the ride before it gets dark at 17:00; make sure your bicycle lights are working in case you get slightly delayed on the way back."
+                "en": "Finish the ride before it gets dark at 17:00; make sure your bicycle lights are working in case you get slightly delayed on the way back.",
+                "fr": "Terminez la sortie avant la tombée de la nuit à 17:00 ; assurez-vous que les éclairages de votre vélo fonctionnent au cas où vous seriez légèrement retardé au retour."
               }
             }
           ]
@@ -658,7 +730,8 @@
             "de": "Temple",
             "hu": "Temple",
             "ro": "Temple",
-            "en": "Temple"
+            "en": "Temple",
+            "fr": "Temple"
           },
           "coords": [
             3.942823,
@@ -673,7 +746,8 @@
             "de": "Bewundern Sie die strenge Architektur dieses historischen protestantischen Tempels als Symbol der Resilienz und kommen Sie früh für das ruhige Morgenlicht.",
             "hu": "Csodálja meg e történelmi protestáns templom puritán építészetét, a vallási ellenállás szimbólumát, és érkezzen korán a békés reggeli fényekért.",
             "ro": "Admirați arhitectura austeră a acestui templu protestant istoric, simbol al rezilienței, și ajungeți devreme pentru a vă bucura de lumina liniștită a dimineții.",
-            "en": "Admire the austere architecture of this historic Protestant temple, symbolizing religious resilience, and arrive early to appreciate the serene morning light inside."
+            "en": "Admire the austere architecture of this historic Protestant temple, symbolizing religious resilience, and arrive early to appreciate the serene morning light inside.",
+            "fr": "Admirez l'architecture austère de ce temple protestant historique, symbole de résilience religieuse, et arrivez tôt pour apprécier la lumière matinale sereine à l'intérieur."
           }
         },
         {
@@ -681,7 +755,8 @@
             "de": "Musée du Désert",
             "hu": "Musée du Désert",
             "ro": "Musée du Désert",
-            "en": "Musée du Désert"
+            "en": "Musée du Désert",
+            "fr": "Musée du Désert"
           },
           "coords": [
             3.957169,
@@ -696,7 +771,8 @@
             "de": "Tauchen Sie in diesem Museum in die ergreifende Geschichte der Hugenotten ein, wichtig für den regionalen Kontext, und nehmen Sie einen Audioguide für die Ausstellungen.",
             "hu": "Merüljön el a hugenották megható történetében ebben a kiterjedt múzeumban, amely elengedhetetlen a régió megértéséhez, és kérjen audioguide-ot a kiállításokhoz.",
             "ro": "Pătrundeți în istoria emoționantă a hughenoților la acest muzeu vast, esențial pentru contextul regional, și luați un ghid audio pentru a aprecia pe deplin expozițiile.",
-            "en": "Dive into the poignant history of the Huguenots at this extensive museum, essential for regional context, and grab an audio guide to fully appreciate the exhibits."
+            "en": "Dive into the poignant history of the Huguenots at this extensive museum, essential for regional context, and grab an audio guide to fully appreciate the exhibits.",
+            "fr": "Plongez dans l'histoire poignante des Huguenots dans ce musée complet, essentiel pour le contexte régional, et prenez un audioguide pour apprécier pleinement les expositions."
           }
         },
         {
@@ -704,7 +780,8 @@
             "de": "Dolmen de Mas Soubeyran",
             "hu": "Dolmen de Mas Soubeyran",
             "ro": "Dolmen de Mas Soubeyran",
-            "en": "Dolmen de Mas Soubeyran"
+            "en": "Dolmen de Mas Soubeyran",
+            "fr": "Dolmen de Mas Soubeyran"
           },
           "coords": [
             3.955543,
@@ -719,7 +796,8 @@
             "de": "Untersuchen Sie dieses uralte Megalithbauwerk, das die prähistorischen Wurzeln der Gegend offenbart, und nähern Sie sich leise, um die mystische Aura zu spüren.",
             "hu": "Vizsgálja meg ezt az ősi megalitikus építményt, amely feltárja a terület őskori gyökereit, és közelítse meg csendben, hogy igazán érezze az ősi kövek misztikus auráját.",
             "ro": "Investigați această structură megalitică veche ce dezvăluie originile preistorice ale zonei și apropiați-vă în liniște pentru a simți cu adevărat aura sa mistică.",
-            "en": "Investigate this ancient megalithic structure that reveals the area's prehistoric roots, and approach it quietly to truly feel the mystical aura of the ancient stones."
+            "en": "Investigate this ancient megalithic structure that reveals the area's prehistoric roots, and approach it quietly to truly feel the mystical aura of the ancient stones.",
+            "fr": "Explorez cette ancienne structure mégalithique qui révèle les racines préhistoriques de la région et approchez-vous doucement pour ressentir pleinement l'aura mystique des pierres anciennes."
           }
         },
         {
@@ -727,7 +805,8 @@
             "de": "Dolmen de Rouville",
             "hu": "Dolmen de Rouville",
             "ro": "Dolmen de Rouville",
-            "en": "Dolmen de Rouville"
+            "en": "Dolmen de Rouville",
+            "fr": "Dolmen de Rouville"
           },
           "coords": [
             3.92348,
@@ -742,7 +821,8 @@
             "de": "Bestaunen Sie die beeindruckende Größe des Dolmens von Rouville, ein faszinierender Einblick in neolithische Bestattungen, und besuchen Sie ihn zur goldenen Stunde.",
             "hu": "Csodálja meg a Rouville-i dolmen lenyűgöző méretét, amely lenyűgöző bepillantást enged a neolitikus temetkezési szokásokba, és látogassa meg az aranyórában.",
             "ro": "Admirați dimensiunile impresionante ale Dolmenului din Rouville, o perspectivă fascinantă asupra practicilor funerare neolitice, și vizitați-l la ora de aur pentru poze.",
-            "en": "Marvel at the impressive scale of Dolmen de Rouville, a fascinating glimpse into Neolithic burial practices, and visit during golden hour for stunning photography."
+            "en": "Marvel at the impressive scale of Dolmen de Rouville, a fascinating glimpse into Neolithic burial practices, and visit during golden hour for stunning photography.",
+            "fr": "Émerveillez-vous devant l'imposant Dolmen de Rouville, un aperçu fascinant des pratiques funéraires néolithiques ; visitez-le à l'heure dorée pour de superbes photos."
           }
         },
         {
@@ -750,7 +830,8 @@
             "de": "Grotte de Trabuc",
             "hu": "Grotte de Trabuc",
             "ro": "Grotte de Trabuc",
-            "en": "Grotte de Trabuc"
+            "en": "Grotte de Trabuc",
+            "fr": "Grotte de Trabuc"
           },
           "coords": [
             3.959255,
@@ -765,7 +846,8 @@
             "de": "Steigen Sie in die spektakuläre Grotte de Trabuc hinab, um die legendäre Formation der hunderttausend Soldaten zu sehen, und bringen Sie eine warme Jacke mit.",
             "hu": "Ereszkedjen le a látványos Trabuc-barlangba, hogy megnézze a százezer katona legendás sziklaalakzatát, és hozzon magával meleg kabátot, mivel a barlang hűvös.",
             "ro": "Coborâți în spectaculoasa Grotte de Trabuc pentru a vedea formațiunea legendară a celor o sută de mii de soldați și aduceți o jachetă caldă, deoarece peștera este rece.",
-            "en": "Descend into the spectacular Grotte de Trabuc to see the legendary hundred thousand soldiers rock formation, and bring a warm jacket as the cave is remarkably cool."
+            "en": "Descend into the spectacular Grotte de Trabuc to see the legendary hundred thousand soldiers rock formation, and bring a warm jacket as the cave is remarkably cool.",
+            "fr": "Descendez dans la spectaculaire Grotte de Trabuc pour voir la légendaire formation rocheuse \"cent mille soldats\" et prenez une veste chaude car la grotte est remarquablement fraîche."
           }
         },
         {
@@ -773,7 +855,8 @@
             "de": "Dolmen de Camplonne",
             "hu": "Dolmen de Camplonne",
             "ro": "Dolmen de Camplonne",
-            "en": "Dolmen de Camplonne"
+            "en": "Dolmen de Camplonne",
+            "fr": "Dolmen de Camplonne"
           },
           "coords": [
             3.964284,
@@ -788,7 +871,8 @@
             "de": "Entdecken Sie die verborgene Geschichte des Dolmens von Camplonne inmitten ruhiger Wälder, ein Zeugnis antiker Baumeister, und tragen Sie feste Schuhe für den Weg.",
             "hu": "Fedezze fel a békés erdők közepén található Camplonne-i dolmen rejtett történetét, az ősi építők bizonyítékát, és viseljen masszív cipőt a kissé egyenetlen ösvény miatt.",
             "ro": "Descoperiți istoria ascunsă a Dolmenului din Camplonne situat în păduri liniștite, o dovadă a constructorilor antici, și purtați încălțăminte robustă pentru potecă.",
-            "en": "Discover the hidden history of the Dolmen de Camplonne set amidst serene woodlands, a testament to ancient builders, and wear sturdy shoes for the slightly uneven path."
+            "en": "Discover the hidden history of the Dolmen de Camplonne set amidst serene woodlands, a testament to ancient builders, and wear sturdy shoes for the slightly uneven path.",
+            "fr": "Découvrez l'histoire cachée du Dolmen de Camplonne niché au milieu d'un boisé serein, témoignage des bâtisseurs anciens, et portez des chaussures solides pour le chemin légèrement irrégulier."
           }
         },
         {
@@ -796,7 +880,8 @@
             "de": "La Muse",
             "hu": "La Muse",
             "ro": "La Muse",
-            "en": "La Muse"
+            "en": "La Muse",
+            "fr": "La Muse"
           },
           "coords": [
             3.938512,
@@ -811,7 +896,8 @@
             "de": "Erleben Sie die lebhafte Freizeitatmosphäre in La Muse, einem hervorragenden Ort, um das lokale Leben zu beobachten, und nehmen Sie auf einer Bank Platz zum Entspannen.",
             "hu": "Szívja magába a La Muse pezsgő, rekreációs atmoszféráját, ahol kiválóan megfigyelhető a helyi élet, és foglaljon helyet az egyik padon egy kis pihenésre.",
             "ro": "Simțiți atmosfera vibrantă de recreere de la La Muse, un loc excelent pentru a observa viața locală, și ocupați un loc pe o bancă pentru a vă relaxa pur și simplu.",
-            "en": "Take in the vibrant recreational atmosphere at La Muse, an excellent place to watch local life unfold, and grab a seat on one of the benches to simply unwind."
+            "en": "Take in the vibrant recreational atmosphere at La Muse, an excellent place to watch local life unfold, and grab a seat on one of the benches to simply unwind.",
+            "fr": "Appréciez l'atmosphère récréative et vivante de La Muse, un excellent endroit pour observer la vie locale, et asseyez-vous sur un des bancs pour simplement vous détendre."
           }
         }
       ],
@@ -819,7 +905,8 @@
         "de": "Fahren Sie zum ikonischen Tempel, um Ihren Tag zu beginnen, gefolgt von einem bereichernden Morgen im Musée du Désert und dem nahegelegenen Dolmen de Mas Soubeyran. Mittags fahren Sie zum Dolmen de Rouville. Am Nachmittag bestaunen Sie die Wunder der Grotte de Trabuc und den Dolmen de Camplonne. Beenden Sie Ihren Tag entspannt in La Muse, während die Dämmerung über das Tal hereinbricht.",
         "hu": "Vezessen az ikonikus templomhoz, majd töltsön egy gazdagító délelőttöt a Musée du Désert-ben és a közeli Mas Soubeyran-i dolmennél. A dél a lenyűgöző Rouville-i dolmenhez viszi. Délután csodálja meg a Trabuc-barlang földalatti csodáit és a Camplonne-i dolment. Zárja a napot a La Muse-ban pihenve, miközben az alkonyat szép lassan és csendesen leereszkedik a csodálatos völgyre.",
         "ro": "Conduceți către iconicul Templu, urmat de o dimineață la Muzeul Deșertului și la Dolmenul din Mas Soubeyran. Prânzul vă duce mai departe la impresionantul Dolmen din Rouville. După-amiaza, minunați-vă de Grotte de Trabuc și de izolatul Dolmen din Camplonne. Încheiați ziua relaxându-vă la La Muse pe măsură ce amurgul se lasă liniștit peste valea uimitoare și pașnică din jur.",
-        "en": "Drive to the iconic Temple to start your day, followed by an enriching morning at the Musée du Désert and the nearby Dolmen de Mas Soubeyran. Midday takes you further afield to the impressive Dolmen de Rouville. In the afternoon, marvel at the underground wonders of Grotte de Trabuc and the secluded Dolmen de Camplonne. End your day relaxing at La Muse as twilight settles over the valley."
+        "en": "Drive to the iconic Temple to start your day, followed by an enriching morning at the Musée du Désert and the nearby Dolmen de Mas Soubeyran. Midday takes you further afield to the impressive Dolmen de Rouville. In the afternoon, marvel at the underground wonders of Grotte de Trabuc and the secluded Dolmen de Camplonne. End your day relaxing at La Muse as twilight settles over the valley.",
+        "fr": "Conduisez jusqu'à l'emblématique Temple pour commencer la journée, suivi d'une matinée enrichissante au Musée du Désert et au Dolmen de Mas Soubeyran à proximité. À midi, dirigez-vous vers le remarquable Dolmen de Rouville. L'après-midi, émerveillez-vous des merveilles souterraines de la Grotte de Trabuc et du Dolmen de Camplonne isolé. Terminez la journée en vous relaxant à La Muse tandis que le crépuscule enveloppe la vallée."
       },
       "variants": {
         "rainy": {
@@ -827,7 +914,8 @@
             "de": "Regnerische Tage sind ideal für eine Autotour in den Cevennen. Wir besuchen wetterunabhängige Ziele wie die Grotte de Trabuc und das Musée du Désert. Mittags genießen wir die neblige Fahrt durch das Gardon-Tal. Den Tag lassen wir entspannt bei den Dolmen ausklingen, die im Regen eine mystische Aura haben.",
             "hu": "Az esős napok ideálisak egy autós túrához a Cévennekben. Időjárástól független helyszíneket látogatunk meg, mint a Grotte de Trabuc és a Musée du Désert. Délben élvezzük a ködös autózást a Gardon-völgyben. A napot a dolmeneknél zárjuk, melyek esőben misztikus aurát árasztanak.",
             "ro": "Zilele ploioase sunt ideale pentru un tur cu mașina în Cévennes. Vizităm destinații protejate de vreme, precum Grotte de Trabuc și Musée du Désert. La prânz ne bucurăm de drumul cețos prin valea Gardon. Încheiem ziua la dolmene, care au o aură mistică pe ploaie.",
-            "en": "Rainy days are ideal for a car tour in the Cévennes. We visit weather-independent sites like Grotte de Trabuc and Musée du Désert. At noon, we enjoy the misty drive through the Gardon valley. We end the day at the dolmens, which have a mystical aura in the rain."
+            "en": "Rainy days are ideal for a car tour in the Cévennes. We visit weather-independent sites like Grotte de Trabuc and Musée du Désert. At noon, we enjoy the misty drive through the Gardon valley. We end the day at the dolmens, which have a mystical aura in the rain.",
+            "fr": "Les journées pluvieuses sont idéales pour une visite en voiture dans les Cévennes. Nous visitons des sites indépendants de la météo comme la Grotte de Trabuc et le Musée du Désert. À midi, nous profitons de la conduite brumeuse à travers la vallée du Gardon. Nous terminons la journée aux dolmens, qui ont une aura mystique sous la pluie."
           },
           "stops": [
             {
@@ -835,13 +923,15 @@
                 "de": "Temple",
                 "hu": "Temple",
                 "ro": "Temple",
-                "en": "Temple"
+                "en": "Temple",
+                "fr": "Temple"
               },
               "tip_5lang": {
                 "de": "Parken Sie nah am Eingang, um nicht nass zu werden; der Tempel bietet eine ruhige, trockene Atmosphäre für den Start in den Tag.",
                 "hu": "Parkoljon közel a bejárathoz, hogy ne ázzon el; a templom csendes, száraz környezetet biztosít a nap indításához.",
                 "ro": "Parcați aproape de intrare pentru a nu vă uda; templul oferă o atmosferă liniștită și uscată pentru începutul zilei.",
-                "en": "Park close to the entrance to avoid getting wet; the temple provides a quiet, dry environment to start your day."
+                "en": "Park close to the entrance to avoid getting wet; the temple provides a quiet, dry environment to start your day.",
+                "fr": "Garez-vous près de l'entrée pour éviter d'être mouillé ; le temple offre un environnement calme et sec pour commencer la journée."
               }
             },
             {
@@ -849,13 +939,15 @@
                 "de": "Musée du Désert",
                 "hu": "Musée du Désert",
                 "ro": "Musée du Désert",
-                "en": "Musée du Désert"
+                "en": "Musée du Désert",
+                "fr": "Musée du Désert"
               },
               "tip_5lang": {
                 "de": "Die perfekte Indoor-Aktivität bei Regen; nutzen Sie den großen Parkplatz und nehmen Sie sich Zeit für die umfassenden historischen Ausstellungen.",
                 "hu": "Tökéletes fedett program esős időben; használja a tágas parkolót, és szánjon időt az átfogó történelmi kiállítás megtekintésére.",
                 "ro": "Activitatea perfectă de interior pe ploaie; folosiți parcarea spațioasă și acordați-vă timp pentru a vedea expoziția istorică vastă.",
-                "en": "The perfect indoor activity for rainy weather; use the spacious parking and take your time to view the comprehensive historical exhibits."
+                "en": "The perfect indoor activity for rainy weather; use the spacious parking and take your time to view the comprehensive historical exhibits.",
+                "fr": "L'activité intérieure parfaite par temps pluvieux ; utilisez le parking spacieux et prenez le temps de parcourir les expositions historiques complètes."
               }
             },
             {
@@ -863,13 +955,15 @@
                 "de": "Dolmen de Mas Soubeyran",
                 "hu": "Dolmen de Mas Soubeyran",
                 "ro": "Dolmen de Mas Soubeyran",
-                "en": "Dolmen de Mas Soubeyran"
+                "en": "Dolmen de Mas Soubeyran",
+                "fr": "Dolmen de Mas Soubeyran"
               },
               "tip_5lang": {
                 "de": "Lassen Sie den Schirm im Auto bereit; der kurze Fußweg vom Parkplatz zum Dolmen kann bei Regen etwas rutschig sein, seien Sie vorsichtig.",
                 "hu": "Tartsa készenlétben az esernyőt az autóban; a parkolótól a dolmenig tartó rövid séta esőben kissé csúszós lehet, legyen óvatos.",
                 "ro": "Țineți umbrela pregătită în mașină; scurta plimbare de la parcare la dolmen poate fi puțin alunecoasă pe ploaie, deci fiți atenți.",
-                "en": "Keep your umbrella ready in the car; the short walk from the parking lot to the dolmen can be a bit slippery in the rain, so be careful."
+                "en": "Keep your umbrella ready in the car; the short walk from the parking lot to the dolmen can be a bit slippery in the rain, so be careful.",
+                "fr": "Gardez votre parapluie à portée dans la voiture ; la courte marche du parking au dolmen peut être glissante sous la pluie, soyez donc prudent."
               }
             },
             {
@@ -877,13 +971,15 @@
                 "de": "Dolmen de Rouville",
                 "hu": "Dolmen de Rouville",
                 "ro": "Dolmen de Rouville",
-                "en": "Dolmen de Rouville"
+                "en": "Dolmen de Rouville",
+                "fr": "Dolmen de Rouville"
               },
               "tip_5lang": {
                 "de": "Genießen Sie die Fahrt durch die neblige Hügellandschaft; der Dolmen wirkt im Regen wie aus einer anderen Welt, ideal für atmosphärische Fotos.",
                 "hu": "Élvezze az autózást a ködös dombok között; a dolmen esőben olyan, mintha egy másik világból származna, ideális hangulatos fotókhoz.",
                 "ro": "Bucurați-vă de drumul printre dealurile cețoase; dolmenul pare din altă lume pe ploaie, fiind ideal pentru fotografii atmosferice.",
-                "en": "Enjoy the drive through the misty hills; the dolmen looks like it's from another world in the rain, ideal for atmospheric photos."
+                "en": "Enjoy the drive through the misty hills; the dolmen looks like it's from another world in the rain, ideal for atmospheric photos.",
+                "fr": "Appréciez la route à travers les collines brumeuses ; le dolmen semble venir d'un autre monde sous la pluie, idéal pour des photos d'atmosphère."
               }
             },
             {
@@ -891,13 +987,15 @@
                 "de": "Grotte de Trabuc",
                 "hu": "Grotte de Trabuc",
                 "ro": "Grotte de Trabuc",
-                "en": "Grotte de Trabuc"
+                "en": "Grotte de Trabuc",
+                "fr": "Grotte de Trabuc"
               },
               "tip_5lang": {
                 "de": "Die Höhle ist der trockenste Ort der Region; verbringen Sie hier den regnerischsten Teil des Nachmittags und staunen Sie über die Formationen.",
                 "hu": "A barlang a régió legszárazabb helye; töltse itt a délután legesősebb részét, és ámuljon el a különleges formációkon.",
                 "ro": "Peștera este cel mai uscat loc din regiune; petreceți aici cea mai ploioasă parte a după-amiezii și admirați formațiunile deosebite.",
-                "en": "The cave is the driest place in the region; spend the rainiest part of the afternoon here and marvel at the unique rock formations."
+                "en": "The cave is the driest place in the region; spend the rainiest part of the afternoon here and marvel at the unique rock formations.",
+                "fr": "La grotte est l'endroit le plus sec de la région ; passez la partie la plus pluvieuse de l'après-midi ici et émerveillez-vous des formations rocheuses uniques."
               }
             },
             {
@@ -905,13 +1003,15 @@
                 "de": "Dolmen de Camplonne",
                 "hu": "Dolmen de Camplonne",
                 "ro": "Dolmen de Camplonne",
-                "en": "Dolmen de Camplonne"
+                "en": "Dolmen de Camplonne",
+                "fr": "Dolmen de Camplonne"
               },
               "tip_5lang": {
                 "de": "Fahren Sie auf den schmalen Straßen besonders vorsichtig, da diese bei Nässe glatt sein können; der Dolmen ist vom Auto aus in wenigen Minuten erreichbar.",
                 "hu": "Vezessen különösen óvatosan a keskeny utakon, mert vizesen csúszósak lehetnek; a dolmen az autótól pár perces sétával elérhető.",
                 "ro": "Conduceți cu mare atenție pe drumurile înguste, deoarece pot fi alunecoase când sunt ude; dolmenul este la câteva minute de mers de la mașină.",
-                "en": "Drive extra carefully on the narrow roads as they can be slick when wet; the dolmen is reachable with a few minutes' walk from your car."
+                "en": "Drive extra carefully on the narrow roads as they can be slick when wet; the dolmen is reachable with a few minutes' walk from your car.",
+                "fr": "Conduisez avec encore plus de prudence sur les routes étroites car elles peuvent être glissantes quand elles sont humides ; le dolmen est accessible après quelques minutes de marche depuis votre voiture."
               }
             },
             {
@@ -919,13 +1019,15 @@
                 "de": "La Muse",
                 "hu": "La Muse",
                 "ro": "La Muse",
-                "en": "La Muse"
+                "en": "La Muse",
+                "fr": "La Muse"
               },
               "tip_5lang": {
                 "de": "Bleiben Sie für den Ausblick im Auto, wenn es zu stark regnet; die erhöhte Position bietet auch durch die Windschutzscheibe ein tolles Panorama.",
                 "hu": "Maradjon az autóban a kilátásért, ha túl erősen esne; a magaslati pontról a szélvédőn keresztül is remek panoráma nyílik a völgyre.",
                 "ro": "Rămâneți în mașină pentru priveliște dacă plouă prea tare; poziția ridicată oferă o panoramă excelentă chiar și prin parbriz.",
-                "en": "Stay in the car for the view if it's raining too hard; the elevated position offers a great panorama even through your windshield."
+                "en": "Stay in the car for the view if it's raining too hard; the elevated position offers a great panorama even through your windshield.",
+                "fr": "Restez dans la voiture pour la vue si la pluie est trop forte ; la position élevée offre un superbe panorama même à travers votre pare-brise."
               }
             }
           ]
@@ -935,7 +1037,8 @@
             "de": "Eine winterliche Spritztour durch die Cevennen bietet klare Fernsichten. Wir nutzen die Heizung des Autos zwischen den Stopps an den historischen Dolmen. Mittags besuchen wir das warme Museum und die Grotte. Da es früh dunkel wird, beenden wir unsere Panoramafahrt rechtzeitig zum Sonnenuntergang am Fluss.",
             "hu": "Egy téli autós kirándulás a Cévennekben tiszta tálati képeket kínál. Kihasználjuk az autó fűtését a történelmi dolmeneknél tett megállók között. Délben a meleg múzeumot és a barlangot látogatjuk meg. Mivel korán sötétedik, a panorámautat a naplementére időzítve fejezzük be a folyónál.",
             "ro": "O excursie de iarnă cu mașina prin Cévennes oferă vederi clare la distanță. Profităm de căldura mașinii între opririle la dolmenele istorice. La prânz vizităm muzeul încălzit și peștera. Deoarece se întunecă devreme, încheiem drumul panoramic la apus, lângă râu.",
-            "en": "A winter drive through the Cévennes offers clear long-distance views. We use the car's heater between stops at the historic dolmens. At noon, we visit the warm museum and the cave. Since it gets dark early, we finish our scenic drive by the river just in time for sunset."
+            "en": "A winter drive through the Cévennes offers clear long-distance views. We use the car's heater between stops at the historic dolmens. At noon, we visit the warm museum and the cave. Since it gets dark early, we finish our scenic drive by the river just in time for sunset.",
+            "fr": "Une promenade hivernale en voiture à travers les Cévennes offre de longues vues dégagées. Nous utilisons le chauffage de la voiture entre les arrêts aux dolmens historiques. À midi, nous visitons le musée chauffé et la grotte. Comme la nuit tombe tôt, nous terminons notre balade scénique près de la rivière juste à temps pour le coucher du soleil."
           },
           "stops": [
             {
@@ -943,13 +1046,15 @@
                 "de": "Temple",
                 "hu": "Temple",
                 "ro": "Temple",
-                "en": "Temple"
+                "en": "Temple",
+                "fr": "Temple"
               },
               "tip_5lang": {
                 "de": "Nutzen Sie den Halt, um die Route für den Tag zu planen, während das Auto aufheizt; der Tempel ist ein ruhiger Startpunkt im winterlichen Dorf.",
                 "hu": "Használja ki a megállót a napi útvonal megtervezésére, amíg az autó bemelegszik; a templom csendes kiindulópont a téli faluban.",
                 "ro": "Folosiți oprirea pentru a planifica traseul zilei în timp ce mașina se încălzește; templul este un punct de plecare liniștit în satul de iarnă.",
-                "en": "Use the stop to plan your route for the day while the car warms up; the temple is a quiet starting point in the winter village."
+                "en": "Use the stop to plan your route for the day while the car warms up; the temple is a quiet starting point in the winter village.",
+                "fr": "Profitez de l'arrêt pour planifier votre itinéraire pendant que la voiture chauffe ; le temple est un point de départ tranquille dans le village hivernal."
               }
             },
             {
@@ -957,13 +1062,15 @@
                 "de": "Musée du Désert",
                 "hu": "Musée du Désert",
                 "ro": "Musée du Désert",
-                "en": "Musée du Désert"
+                "en": "Musée du Désert",
+                "fr": "Musée du Désert"
               },
               "tip_5lang": {
                 "de": "Genießen Sie die beheizten Ausstellungsräume als Pause von der Winterkälte; das Museum ist im Winter weniger besucht und bietet eine besinnliche Atmosphäre.",
                 "hu": "Élvezze a fűtött kiállítótermeket a téli hideg után; a múzeum télen kevésbé zsúfolt, így nyugodtan elmélyedhet a látnivalókban.",
                 "ro": "Bucurați-vă de sălile de expoziție încălzite ca pauză de la frigul iernii; muzeul este mai puțin aglomerat iarna, oferind o atmosferă meditativă.",
-                "en": "Enjoy the heated exhibition rooms as a break from the winter cold; the museum is less crowded in winter, offering a more contemplative atmosphere."
+                "en": "Enjoy the heated exhibition rooms as a break from the winter cold; the museum is less crowded in winter, offering a more contemplative atmosphere.",
+                "fr": "Profitez des salles d'exposition chauffées comme pause contre le froid hivernal ; le musée est moins fréquenté en hiver, offrant une atmosphère plus contemplative."
               }
             },
             {
@@ -971,13 +1078,15 @@
                 "de": "Dolmen de Mas Soubeyran",
                 "hu": "Dolmen de Mas Soubeyran",
                 "ro": "Dolmen de Mas Soubeyran",
-                "en": "Dolmen de Mas Soubeyran"
+                "en": "Dolmen de Mas Soubeyran",
+                "fr": "Dolmen de Mas Soubeyran"
               },
               "tip_5lang": {
                 "de": "Die Wintersonne bringt die Textur der Megalithen wunderbar zur Geltung; ziehen Sie sich für den kurzen Weg im Freien warm an, da es windig sein kann.",
                 "hu": "A téli napfény gyönyörűen kiemeli a megalitok textúráját; öltözzön fel melegen a rövid kinti szakaszra, mert a szél fagyos lehet ezen a nyílt részen.",
                 "ro": "Soarele de iarnă scoate frumos în evidență textura megaliților; îmbrăcați-vă bine pentru scurta ieșire afară, deoarece vântul poate fi tăios.",
-                "en": "The winter sun beautifully highlights the texture of the megaliths; dress warmly for the short time spent outside, as the wind can be biting here."
+                "en": "The winter sun beautifully highlights the texture of the megaliths; dress warmly for the short time spent outside, as the wind can be biting here.",
+                "fr": "Le soleil d'hiver met magnifiquement en valeur la texture des mégalithes ; habillez-vous chaudement pour le court temps passé dehors, car le vent peut être piquant ici."
               }
             },
             {
@@ -985,13 +1094,15 @@
                 "de": "Dolmen de Rouville",
                 "hu": "Dolmen de Rouville",
                 "ro": "Dolmen de Rouville",
-                "en": "Dolmen de Rouville"
+                "en": "Dolmen de Rouville",
+                "fr": "Dolmen de Rouville"
               },
               "tip_5lang": {
                 "de": "Die Fernsicht über die Cevennen ist im Winter oft klarer als im Sommer; nutzen Sie die Aussichtspunkte entlang der Straße für kurze Fotostopps.",
                 "hu": "A kilátás a Cévennekre télen gyakran tisztább, mint nyáron; használja ki az út menti kilátópontokat rövid fotós megállókra a dolmen környékén.",
                 "ro": "Perspectiva asupra munților Cévennes este adesea mai clară iarna decât vara; folosiți punctele de belvedere de pe drum pentru scurte opriri foto.",
-                "en": "The view over the Cévennes is often clearer in winter than in summer; use the viewpoints along the road for quick photo stops near the dolmen."
+                "en": "The view over the Cévennes is often clearer in winter than in summer; use the viewpoints along the road for quick photo stops near the dolmen.",
+                "fr": "La vue sur les Cévennes est souvent plus claire en hiver qu'en été ; utilisez les belvédères le long de la route pour de brefs arrêts photo près du dolmen."
               }
             },
             {
@@ -999,13 +1110,15 @@
                 "de": "Grotte de Trabuc",
                 "hu": "Grotte de Trabuc",
                 "ro": "Grotte de Trabuc",
-                "en": "Grotte de Trabuc"
+                "en": "Grotte de Trabuc",
+                "fr": "Grotte de Trabuc"
               },
               "tip_5lang": {
                 "de": "Ein Besuch hier ist perfekt, um der Kälte für eine Stunde zu entfliehen; die Temperatur in der Höhle ist im Winter oft höher als die Außentemperatur.",
                 "hu": "A barlang meglátogatása tökéletes, hogy egy órára elmeneküljön a hideg elől; a benti hőmérséklet télen gyakran magasabb a kinti levegőnél.",
                 "ro": "O vizită aici este perfectă pentru a scăpa de frig timp de o oră; temperatura din peșteră este adesea mai mare decât cea de afară pe timpul iernii.",
-                "en": "A visit here is perfect to escape the cold for an hour; the temperature in the cave is often higher than the outside air temperature in winter."
+                "en": "A visit here is perfect to escape the cold for an hour; the temperature in the cave is often higher than the outside air temperature in winter.",
+                "fr": "Une visite ici est parfaite pour échapper au froid pendant une heure ; la température dans la grotte est souvent plus élevée que l'air extérieur en hiver."
               }
             },
             {
@@ -1013,13 +1126,15 @@
                 "de": "Dolmen de Camplonne",
                 "hu": "Dolmen de Camplonne",
                 "ro": "Dolmen de Camplonne",
-                "en": "Dolmen de Camplonne"
+                "en": "Dolmen de Camplonne",
+                "fr": "Dolmen de Camplonne"
               },
               "tip_5lang": {
                 "de": "Achten Sie auf mögliche Eisstellen auf der Fahrbahn in bewaldeten Abschnitten; der Dolmen liegt oft in der direkten Wintersonne und ist leicht zu finden.",
                 "hu": "Ügyeljen az esetleges jeges szakaszokra az úttesten az erdős részeken; a dolmen gyakran közvetlen téli napsütésben fürdik, és könnyen megtalálható.",
                 "ro": "Atenție la posibilele porțiuni de gheață de pe carosabil în zonele împădurite; dolmenul este adesea scăldat în soarele de iarnă și este ușor de găsit.",
-                "en": "Watch out for possible icy spots on the roadway in wooded sections; the dolmen is often bathed in direct winter sun and is very easy to locate."
+                "en": "Watch out for possible icy spots on the roadway in wooded sections; the dolmen is often bathed in direct winter sun and is very easy to locate.",
+                "fr": "Attention aux éventuelles plaques de verglas sur la chaussée dans les sections boisées ; le dolmen est souvent baigné de soleil d'hiver direct et est très facile à repérer."
               }
             },
             {
@@ -1027,13 +1142,15 @@
                 "de": "La Muse",
                 "hu": "La Muse",
                 "ro": "La Muse",
-                "en": "La Muse"
+                "en": "La Muse",
+                "fr": "La Muse"
               },
               "tip_5lang": {
                 "de": "Beenden Sie den Tag hier gegen 16:45 Uhr, um das letzte Tageslicht über dem Fluss zu genießen; die Winterdämmerung bietet hier fantastische Farben.",
                 "hu": "Zárja itt a napot 16:45 körül, hogy kiélvezze az utolsó fényeket a folyó felett; a téli szürkület fantasztikus színeket kínál ezen a ponton.",
                 "ro": "Încheiați ziua aici în jur de ora 16:45 pentru a vă bucura de ultima lumină peste râu; amurgul de iarnă oferă culori fantastice în acest loc.",
-                "en": "End your day here around 16:45 to enjoy the last daylight over the river; the winter twilight offers fantastic colors at this scenic location."
+                "en": "End your day here around 16:45 to enjoy the last daylight over the river; the winter twilight offers fantastic colors at this scenic location.",
+                "fr": "Terminez votre journée ici vers 16:45 pour profiter des dernières lueurs sur la rivière ; le crépuscule hivernal offre des couleurs fantastiques à cet endroit pittoresque."
               }
             }
           ]

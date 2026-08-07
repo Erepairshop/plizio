@@ -21,7 +21,8 @@
             "de": "Kirche Notre-Dame de Locmaria",
             "hu": "Notre-Dame de Locmaria templom",
             "ro": "Biserica Notre-Dame de Locmaria",
-            "en": "Notre-Dame de Locmaria Church"
+            "en": "Notre-Dame de Locmaria Church",
+            "fr": "Église Notre-Dame de Locmaria"
           },
           "coords": [
             -3.118655,
@@ -36,7 +37,8 @@
             "de": "Bewundern Sie die schönen Buntglasfenster dieser historischen Kirche, aber denken Sie an angemessene Kleidung und leises Sprechen.",
             "hu": "Csodálja meg e történelmi templom gyönyörű ólomüveg ablakait, de ügyeljen a szerény öltözködésre és a csendes beszédre.",
             "ro": "Admirați vitraliile frumoase ale acestei biserici istorice, dar nu uitați să vă îmbrăcați modest și să vorbiți încet.",
-            "en": "Admire the beautiful stained glass of this historic church, but remember to dress modestly and speak softly during your visit."
+            "en": "Admire the beautiful stained glass of this historic church, but remember to dress modestly and speak softly during your visit.",
+            "fr": "Admirez les beaux vitraux de cette église historique, mais pensez à vous habiller modestement et à parler doucement pendant votre visite."
           }
         },
         {
@@ -44,7 +46,8 @@
             "de": "Haus der Konserve",
             "hu": "Konzervház",
             "ro": "Casa Conservei",
-            "en": "House of the Preserve"
+            "en": "House of the Preserve",
+            "fr": "Maison de la Conserve"
           },
           "coords": [
             -3.119126,
@@ -59,7 +62,8 @@
             "de": "Erfahren Sie hier mehr über die Tradition des Sardinenfangs und kaufen Sie unbedingt authentische Konserven im Museumsshop.",
             "hu": "Ismerje meg a szardíniahalászat gazdag örökségét, és mindenképpen vásároljon néhány autentikus helyi konzervet a boltban.",
             "ro": "Aflați despre patrimoniul bogat al pescuitului de sardine și asigurați-vă că cumpărați conserve locale autentice din magazin.",
-            "en": "Learn about the rich sardine fishing heritage here, and make sure to buy some authentic local tins at the museum shop."
+            "en": "Learn about the rich sardine fishing heritage here, and make sure to buy some authentic local tins at the museum shop.",
+            "fr": "Découvrez le riche patrimoine de la pêche à la sardine ici, et pensez à acheter quelques boîtes locales authentiques à la boutique du musée."
           }
         },
         {
@@ -67,7 +71,8 @@
             "de": "Grande Plage",
             "hu": "Grande Plage",
             "ro": "Grande Plage",
-            "en": "Grande Plage"
+            "en": "Grande Plage",
+            "fr": "Grande Plage"
           },
           "coords": [
             -3.120371,
@@ -82,7 +87,8 @@
             "de": "Entspannen Sie an diesem feinen Sandstrand im Stadtzentrum; kommen Sie früh, um einen guten Platz am Wasser zu ergattern.",
             "hu": "Pihenjen ezen a finom homokos strandon a városközpontban; érkezzen korán, hogy jó helyet találjon a víz közelében.",
             "ro": "Relaxați-vă pe această plajă cu nisip fin din centrul orașului; ajungeți devreme pentru a prinde un loc bun lângă apă.",
-            "en": "Relax on this pristine stretch of fine sand in the town center, arriving early to secure a good spot near the water."
+            "en": "Relax on this pristine stretch of fine sand in the town center, arriving early to secure a good spot near the water.",
+            "fr": "Détendez-vous sur cette étendue immaculée de sable fin au centre-ville, arrivez tôt pour vous assurer une bonne place près de l'eau."
           }
         },
         {
@@ -90,7 +96,8 @@
             "de": "Port-Maria",
             "hu": "Port-Maria",
             "ro": "Port-Maria",
-            "en": "Port-Maria"
+            "en": "Port-Maria",
+            "fr": "Port-Maria"
           },
           "coords": [
             -3.124167,
@@ -105,7 +112,8 @@
             "de": "Beobachten Sie die geschäftigen Fähren und Fischerboote in diesem Zentrum und probieren Sie Meeresfrüchte in einem Café am Wasser.",
             "hu": "Figyelje a nyüzsgő kompok és halászhajók forgalmát, és kóstolja meg a friss tengeri ételeket egy közeli vízparti kávézóban.",
             "ro": "Urmăriți feriboturile și bărcile de pescuit în acest port plin de viață și gustați fructe de mare proaspete la o cafenea.",
-            "en": "Watch the bustling ferries and fishing boats in this lively hub, and try the fresh seafood at a nearby waterside café."
+            "en": "Watch the bustling ferries and fishing boats in this lively hub, and try the fresh seafood at a nearby waterside café.",
+            "fr": "Regardez l'animation des ferries et bateaux de pêche dans ce hub animé, et goûtez aux fruits de mer frais dans un café en bord d'eau à proximité."
           }
         },
         {
@@ -113,7 +121,8 @@
             "de": "Schloss Turpault",
             "hu": "Turpault Kastély",
             "ro": "Castelul Turpault",
-            "en": "Turpault Castle"
+            "en": "Turpault Castle",
+            "fr": "Château de Turpault"
           },
           "coords": [
             -3.130324,
@@ -128,7 +137,8 @@
             "de": "Fotografieren Sie dieses majestätische Herrenhaus vom Küstenpfad aus, da es in Privatbesitz ist und nicht besichtigt werden kann.",
             "hu": "Fényképezze le ezt a fenséges, angol-középkori kastélyt a parti ösvényről, mivel magántulajdonban van és nem látogatható.",
             "ro": "Fotografiați acest conac anglo-medieval maiestuos de pe poteca de coastă, deoarece este proprietate privată și nu poate fi vizitat.",
-            "en": "Photograph this majestic Anglo-medieval manor from the coastal path, as it is privately owned and not open to the public."
+            "en": "Photograph this majestic Anglo-medieval manor from the coastal path, as it is privately owned and not open to the public.",
+            "fr": "Photographiez ce majestueux manoir anglo-médiéval depuis le sentier côtier, car il est privé et fermé au public."
           }
         }
       ],
@@ -136,7 +146,8 @@
         "de": "Beginnen Sie Ihren Tag im Zentrum von Quiberon, um die historischen und maritimen Wurzeln zu erkunden. Mittags lockt der breite Sandstrand der Grande Plage für eine entspannte Pause mit Meerblick. Der Nachmittag führt Sie in das geschäftige Hafenviertel, wo Sie den Fischern bei der Arbeit zusehen können. Den Abschluss bildet die dramatische Silhouette des Schlosses an der Küste.",
         "hu": "Kezdje a napot Quiberon szívében, felfedezve a hangulatos központ történelmi és tengerészeti gyökereit. Délben a Grande Plage széles homokos partja hívogat egy pihentető, tengerparti szünetre. A délután folyamatosan átvezet a nyüzsgő kikötőbe, ahol a halászok munkáját figyelheti. Zárja a napot az ikonikus kastély drámai tengerparti sziluettjével a lenyugvó nap fényében.",
         "ro": "Începeți ziua în inima orașului Quiberon, descoperind rădăcinile sale istorice și maritime în centrul fermecător. La prânz, nisipurile întinse de la Grande Plage vă invită la o pauză relaxantă. După-amiaza vă poartă spre zona portuară plină de viață, unde puteți urmări pescarii la treabă. Încheiați ziua admirând silueta dramatică a castelului emblematic de pe coastă.",
-        "en": "Begin your day immersing in Quiberon's heart, discovering historical and maritime roots around the charming center. Midday invites you to the sweeping sands of Grande Plage for a relaxing break and sea views. The afternoon flows seamlessly into the bustling port area, where you can watch fishermen at work. Conclude with the dramatic coastal silhouette of the iconic castle as the sun lowers."
+        "en": "Begin your day immersing in Quiberon's heart, discovering historical and maritime roots around the charming center. Midday invites you to the sweeping sands of Grande Plage for a relaxing break and sea views. The afternoon flows seamlessly into the bustling port area, where you can watch fishermen at work. Conclude with the dramatic coastal silhouette of the iconic castle as the sun lowers.",
+        "fr": "Commencez votre journée au cœur de Quiberon, en découvrant les racines historiques et maritimes autour du charmant centre. À midi, laissez-vous inviter par les vastes sables de la Grande Plage pour une pause relaxante et une vue sur la mer. L'après-midi se poursuit dans le port animé, où vous pourrez observer les pêcheurs au travail. Concluez par la silhouette côtière dramatique du château iconique au coucher du soleil."
       },
       "variants": {
         "rainy": {
@@ -144,7 +155,8 @@
             "de": "Beginnen Sie den Tag geschützt in der Kirche, bevor das Museum trockenen Unterschlupf bietet. Am Mittag trotzen wir dem Regen an der Promenade, wo die Brandung besonders imposant wirkt. Der Nachmittag am Hafen zeigt die raue Seite der Bretagne. Den Abend lassen wir sicher am Schloss ausklingen, während der Regen gegen die alten Mauern peitscht und eine mystische Stimmung erzeugt.",
             "hu": "Kezdje a napot a templom oltalmában, majd a múzeum kínál száraz menedéket. Délben a sétányon az esőben még lenyűgözőbb a hullámtörés. A délután a kikötőben a Bretagne-i partok vad arcát mutatja meg. Az estét a kastélynál zárjuk, ahol az eső áztatta falak és a haragos tenger látványa egészen misztikus hangulatot áraszt a sötétedő szürkületben.",
             "ro": "Începeți ziua la adăpost în biserică, apoi muzeul oferă un refugiu uscat perfect. La prânz, faleza oferă un spectacol impresionant al valurilor sub ploaie. După-amiaza în port dezvăluie latura aspră a Bretaniei. Încheiem seara lângă castel, unde ploaia care bate în zidurile vechi creează o atmosferă mistică și dramatică deasupra oceanului agitat.",
-            "en": "Start the day sheltered in the church before the museum provides a perfect dry refuge. At noon, the promenade offers an impressive view of crashing waves in the rain. The afternoon at the harbor reveals Brittany's wild side. We end the evening by the castle, where rain-soaked walls and the churning sea create a truly mystical and dramatic atmosphere."
+            "en": "Start the day sheltered in the church before the museum provides a perfect dry refuge. At noon, the promenade offers an impressive view of crashing waves in the rain. The afternoon at the harbor reveals Brittany's wild side. We end the evening by the castle, where rain-soaked walls and the churning sea create a truly mystical and dramatic atmosphere.",
+            "fr": "Commencez la journée à l'abri dans l'église avant que le musée n'offre un parfait refuge sec. À midi, la promenade offre une vue impressionnante des vagues déferlantes sous la pluie. L'après-midi au port révèle le côté sauvage de la Bretagne. Nous terminons la soirée près du château, où les murs trempés et la mer en furie créent une atmosphère véritablement mystique et dramatique."
           },
           "stops": [
             {
@@ -152,13 +164,15 @@
                 "de": "Kirche Notre-Dame de Locmaria",
                 "hu": "Notre-Dame de Locmaria templom",
                 "ro": "Biserica Notre-Dame de Locmaria",
-                "en": "Notre-Dame de Locmaria Church"
+                "en": "Notre-Dame de Locmaria Church",
+                "fr": "Église Notre-Dame de Locmaria"
               },
               "tip_5lang": {
                 "de": "Bewundern Sie die bunten Glasfenster im trockenen Innenraum; die Kirche bietet den idealen Schutz, um den ersten morgendlichen Regenschauer in Ruhe abzuwarten.",
                 "hu": "Csodálja meg a színes üvegablakokat a száraz belső térben; a templom ideális menedék, hogy nyugodtan megvárja az első reggeli zápor elvonulását.",
                 "ro": "Admirați vitraliile colorate în interiorul uscat; biserica oferă adăpostul ideal pentru a aștepta în liniște trecerea primei averse de ploaie de dimineață.",
-                "en": "Admire the colorful stained glass windows in the dry interior; the church provides the ideal shelter to wait out the first morning rain shower in peace."
+                "en": "Admire the colorful stained glass windows in the dry interior; the church provides the ideal shelter to wait out the first morning rain shower in peace.",
+                "fr": "Admirez les vitraux colorés dans l'intérieur sec ; l'église offre l'abri idéal pour attendre en paix la première averse matinale."
               }
             },
             {
@@ -166,13 +180,15 @@
                 "de": "Haus der Konserve",
                 "hu": "Konzervház",
                 "ro": "Casa Conservei",
-                "en": "House of the Preserve"
+                "en": "House of the Preserve",
+                "fr": "Maison de la Conserverie"
               },
               "tip_5lang": {
                 "de": "Nutzen Sie die Zeit im Museum, um in die Geschichte der Sardinen einzutauchen, während es draußen regnet; vergessen Sie nicht, Ihren Regenschirm am Eingang zu lassen.",
                 "hu": "Használja ki az időt a múzeumban a szardíniahalászat történetének megismerésére, miközben kint esik; ne felejtse az esernyőjét a bejáratnál hagyni.",
                 "ro": "Profitați de timpul petrecut în muzeu pentru a învăța despre istoria sardinelor în timp ce afară plouă; nu uitați să vă lăsați umbrela la intrare.",
-                "en": "Take advantage of the museum visit to learn about sardine history while it rains outside; don't forget to leave your umbrella at the entrance area."
+                "en": "Take advantage of the museum visit to learn about sardine history while it rains outside; don't forget to leave your umbrella at the entrance area.",
+                "fr": "Profitez de la visite du musée pour en apprendre sur l'histoire de la sardine pendant qu'il pleut dehors ; n'oubliez pas de laisser votre parapluie à l'entrée."
               }
             },
             {
@@ -180,13 +196,15 @@
                 "de": "Grande Plage",
                 "hu": "Grande Plage",
                 "ro": "Grande Plage",
-                "en": "Grande Plage"
+                "en": "Grande Plage",
+                "fr": "Grande Plage"
               },
               "tip_5lang": {
                 "de": "Ein Spaziergang auf der befestigten Promenade verhindert nasse Füße im Sand; genießen Sie den Anblick des grauen Ozeans unter einer stabilen Regenjacke.",
                 "hu": "A kiépített sétányon való séta megvédi a lábát a vizes homoktól; élvezze a szürke óceán látványát egy megbízható esőkabát biztonságában.",
                 "ro": "O plimbare pe faleza pavată previne udarea picioarelor în nisip; bucurați-vă de vederea oceanului gri sub protecția unei jachete de ploaie solide.",
-                "en": "Walking on the paved promenade prevents wet feet in the sand; enjoy the sight of the gray ocean from the safety of a reliable waterproof jacket."
+                "en": "Walking on the paved promenade prevents wet feet in the sand; enjoy the sight of the gray ocean from the safety of a reliable waterproof jacket.",
+                "fr": "Marcher sur la promenade pavée évite d'avoir les pieds mouillés dans le sable ; profitez de la vue de l'océan gris à l'abri d'une veste imperméable fiable."
               }
             },
             {
@@ -194,13 +212,15 @@
                 "de": "Port-Maria",
                 "hu": "Port-Maria",
                 "ro": "Port-Maria",
-                "en": "Port-Maria"
+                "en": "Port-Maria",
+                "fr": "Port-Maria"
               },
               "tip_5lang": {
                 "de": "Beobachten Sie das Treiben der Fischerboote von einem der überdachten Cafés aus; der nasse Asphalt spiegelt die bunten Lichter des Hafens wunderschön wider.",
                 "hu": "Figyelje a halászhajók mozgását egy fedett kávézó teraszáról; a vizes aszfalt gyönyörűen tükrözi vissza a kikötő színes fényeit az esőben.",
                 "ro": "Urmăriți activitatea bărcii de pescuit de la una dintre cafenelele acoperite; asfaltul umed reflectă minunat luminile colorate ale portului.",
-                "en": "Watch the fishing boats from one of the covered cafes; the wet asphalt beautifully reflects the harbor's colorful lights during the rain."
+                "en": "Watch the fishing boats from one of the covered cafes; the wet asphalt beautifully reflects the harbor's colorful lights during the rain.",
+                "fr": "Regardez les bateaux de pêche depuis l'un des cafés couverts ; l'asphalte mouillé reflète magnifiquement les lumières du port sous la pluie."
               }
             },
             {
@@ -208,13 +228,15 @@
                 "de": "Schloss Turpault",
                 "hu": "Turpault Kastély",
                 "ro": "Castelul Turpault",
-                "en": "Turpault Castle"
+                "en": "Turpault Castle",
+                "fr": "Château de Turpault"
               },
               "tip_5lang": {
                 "de": "Vorsicht auf den rutschigen Felsen nahe dem Schloss; der Blick auf die schäumende Gischt ist bei Regen besonders dramatisch und fotogen.",
                 "hu": "Vigyázzon a csúszós sziklákon a kastély közelében; a habzó tengervíz látványa esőben különösen drámai és fotogén a part mentén.",
                 "ro": "Atenție pe stâncile alunecoase de lângă castel; vederea spumei mării este deosebit de dramatică și fotogenică pe timp de ploaie.",
-                "en": "Be careful on the slippery rocks near the castle; the sight of the foaming sea spray is particularly dramatic and photogenic in the rain."
+                "en": "Be careful on the slippery rocks near the castle; the sight of the foaming sea spray is particularly dramatic and photogenic in the rain.",
+                "fr": "Attention aux rochers glissants près du château ; la vue des embruns écumants est particulièrement spectaculaire et photogénique sous la pluie."
               }
             }
           ]
@@ -224,7 +246,8 @@
             "de": "Ein frischer Wintermorgen beginnt an der stillen Kirche. Mittags wärmen wir uns im Museum auf, fernab vom eisigen Seewind. Der Nachmittagsspaziergang am Strand ist belebend, erfordert aber warme Kleidung. Da die Sonne bereits gegen 17:00 Uhr untergeht, erreichen wir das Schloss pünktlich zum goldenen Dämmerlicht, das die kalte Winterluft magisch glänzen lässt.",
             "hu": "A friss téli reggel a csendes templomnál indul. Délben a múzeumban melegedünk fel, távol a jeges tengeri széltől. A délutáni séta a parton élénkítő, de réteges öltözetet igényel. Mivel a nap már 17:00 körül nyugszik, pontosan az alkonyati fényekben érünk a kastélyhoz, ami a hideg téli levegőben varázslatos csillogást kölcsönöz a tájnak.",
             "ro": "O dimineață răcoroasă de iarnă începe la biserica liniștită. La prânz ne încălzim în muzeu, departe de vântul înghețat al mării. Plimbarea de după-amiază pe plajă este revigorantă, dar necesită haine groase. Deoarece soarele apune deja în jurul orei 17:00, ajungem la castel exact pentru lumina aurie a amurgului.",
-            "en": "A crisp winter morning starts at the quiet church. At noon, we warm up in the museum, away from the icy sea wind. The afternoon beach walk is invigorating but requires warm layers. Since the sun sets around 5:00 PM, we reach the castle just in time for the golden twilight that makes the cold winter air glow magically."
+            "en": "A crisp winter morning starts at the quiet church. At noon, we warm up in the museum, away from the icy sea wind. The afternoon beach walk is invigorating but requires warm layers. Since the sun sets around 5:00 PM, we reach the castle just in time for the golden twilight that makes the cold winter air glow magically.",
+            "fr": "Une matinée hivernale vive commence à l'église tranquille. À midi, nous nous réchauffons au musée, à l'abri du vent glacial de mer. La promenade sur la plage l'après-midi est vivifiante mais nécessite des couches chaudes. Le soleil se couchant vers 17h00, nous atteignons le château juste à temps pour le crépuscule doré qui fait briller magiquement l'air froid."
           },
           "stops": [
             {
@@ -232,13 +255,15 @@
                 "de": "Kirche Notre-Dame de Locmaria",
                 "hu": "Notre-Dame de Locmaria templom",
                 "ro": "Biserica Notre-Dame de Locmaria",
-                "en": "Notre-Dame de Locmaria Church"
+                "en": "Notre-Dame de Locmaria Church",
+                "fr": "Église Notre-Dame de Locmaria"
               },
               "tip_5lang": {
                 "de": "Genießen Sie die winterliche Stille im Inneren; dicke Steinmauern halten die Kälte draußen und bieten einen Moment der Besinnung vor dem Küstengang.",
                 "hu": "Élvezze a téli csendet a falak között; a vastag kőfalak kint tartják a fagyos szelet, lehetőséget adva a készülődésre a parti séta előtt.",
                 "ro": "Bucurați-vă de liniștea iernii în interior; zidurile groase de piatră țin frigul afară, oferind un moment de reflexie înainte de plimbarea pe coastă.",
-                "en": "Enjoy the winter silence inside; the thick stone walls keep the cold out, providing a moment of reflection before your coastal walk."
+                "en": "Enjoy the winter silence inside; the thick stone walls keep the cold out, providing a moment of reflection before your coastal walk.",
+                "fr": "Profitez du silence hivernal à l'intérieur ; les épaisses pierres gardent le froid à l'extérieur, offrant un moment de réflexion avant votre promenade côtière."
               }
             },
             {
@@ -246,13 +271,15 @@
                 "de": "Haus der Konserve",
                 "hu": "Konzervház",
                 "ro": "Casa Conservei",
-                "en": "House of the Preserve"
+                "en": "House of the Preserve",
+                "fr": "Maison de la Conserverie"
               },
               "tip_5lang": {
                 "de": "Die Ausstellungen sind im Winter beheizt und bieten eine willkommene Pause vom Wind; ideal, um sich für die nächste Etappe wieder aufzuwärmen.",
                 "hu": "A kiállítások télen fűtöttek, így kellemes pihenőt nyújtanak a szél elől; ideális helyszín a felmelegedéshez a következő szakasz előtt.",
                 "ro": "Expozițiile sunt încălzite iarna, oferind o pauză binevenită de la vânt; este locul ideal pentru a vă reîncălzi pentru următoarea etapă.",
-                "en": "The exhibits are heated in winter, offering a welcome break from the wind; it's the perfect spot to warm up for the next leg of your journey."
+                "en": "The exhibits are heated in winter, offering a welcome break from the wind; it's the perfect spot to warm up for the next leg of your journey.",
+                "fr": "Les salles d'exposition sont chauffées en hiver, offrant une pause bienvenue face au vent ; c'est l'endroit parfait pour se réchauffer avant la suite du parcours."
               }
             },
             {
@@ -260,13 +287,15 @@
                 "de": "Grande Plage",
                 "hu": "Grande Plage",
                 "ro": "Grande Plage",
-                "en": "Grande Plage"
+                "en": "Grande Plage",
+                "fr": "Grande Plage"
               },
               "tip_5lang": {
                 "de": "Tragen Sie eine windfeste Mütze, da die Brise am leeren Strand im Winter schneidend sein kann; die klare Sicht auf den Horizont ist dafür unbezahlbar.",
                 "hu": "Viseljen szélálló sapkát, mert a szél a néptelen tengerparton télen metsző lehet; a tiszta kilátás a horizontra viszont kárpótolja a hidegért.",
                 "ro": "Purtați o căciulă rezistentă la vânt, deoarece briza de pe plaja goală poate fi tăioasă iarna; vederea clară a orizontului merită tot efortul.",
-                "en": "Wear a windproof hat as the breeze on the empty beach can be biting in winter; the clear view of the horizon is absolutely worth the chill."
+                "en": "Wear a windproof hat as the breeze on the empty beach can be biting in winter; the clear view of the horizon is absolutely worth the chill.",
+                "fr": "Portez un chapeau coupe-vent car la brise sur la plage déserte peut être mordante en hiver ; la vue dégagée sur l'horizon vaut largement le froid."
               }
             },
             {
@@ -274,13 +303,15 @@
                 "de": "Port-Maria",
                 "hu": "Port-Maria",
                 "ro": "Port-Maria",
-                "en": "Port-Maria"
+                "en": "Port-Maria",
+                "fr": "Port-Maria"
               },
               "tip_5lang": {
                 "de": "Erleben Sie die authentische Hafenatmosphäre ohne Touristenmassen; halten Sie Ausschau nach dem warmen Dampf der Fischerboote in der kalten Luft.",
                 "hu": "Tapasztalja meg az autentikus kikötői hangulatot turisták nélkül; figyelje a halászhajókból felszálló meleg gőzt a hideg téli levegőben.",
                 "ro": "Experimentați atmosfera autentică a portului fără mulțimile de turiști; căutați aburul cald care se ridică din bărcile de pescuit în aerul rece.",
-                "en": "Experience the authentic harbor atmosphere without the tourist crowds; look for the warm steam rising from fishing boats in the cold air."
+                "en": "Experience the authentic harbor atmosphere without the tourist crowds; look for the warm steam rising from fishing boats in the cold air.",
+                "fr": "Vivez l'atmosphère authentique du port sans la foule touristique ; cherchez la vapeur chaude s'élevant des bateaux de pêche dans l'air froid."
               }
             },
             {
@@ -288,13 +319,15 @@
                 "de": "Schloss Turpault",
                 "hu": "Turpault Kastély",
                 "ro": "Castelul Turpault",
-                "en": "Turpault Castle"
+                "en": "Turpault Castle",
+                "fr": "Château de Turpault"
               },
               "tip_5lang": {
                 "de": "Planen Sie Ihre Ankunft vor 17:00 Uhr, um den kurzen, aber intensiven Wintersonnenuntergang hinter den Schlosszinnen nicht zu verpassen.",
                 "hu": "Tervezze az érkezését 17:00 előttre, hogy ne maradjon le a rövid, de intenzív téli naplementéről a kastély bástyái mögött.",
                 "ro": "Planificați-vă sosirea înainte de ora 17:00 pentru a nu rata apusul scurt, dar intens de iarnă, în spatele crenelurilor castelului.",
-                "en": "Plan to arrive before 5:00 PM to ensure you don't miss the short but intense winter sunset behind the castle's battlements."
+                "en": "Plan to arrive before 5:00 PM to ensure you don't miss the short but intense winter sunset behind the castle's battlements.",
+                "fr": "Prévoyez d'arriver avant 17h00 pour ne pas manquer le court mais intense coucher de soleil d'hiver derrière les créneaux du château."
               }
             }
           ]
@@ -314,7 +347,8 @@
             "de": "Port-Maria",
             "hu": "Port-Maria",
             "ro": "Port-Maria",
-            "en": "Port-Maria"
+            "en": "Port-Maria",
+            "fr": "Port-Maria"
           },
           "coords": [
             -3.124167,
@@ -329,7 +363,8 @@
             "de": "Beobachten Sie die geschäftigen Fähren und Fischerboote in diesem Zentrum und probieren Sie Meeresfrüchte in einem Café am Wasser.",
             "hu": "Figyelje a nyüzsgő kompok és halászhajók forgalmát, és kóstolja meg a friss tengeri ételeket egy közeli vízparti kávézóban.",
             "ro": "Urmăriți feriboturile și bărcile de pescuit în acest port plin de viață și gustați fructe de mare proaspete la o cafenea.",
-            "en": "Watch the bustling ferries and fishing boats in this lively hub, and try the fresh seafood at a nearby waterside café."
+            "en": "Watch the bustling ferries and fishing boats in this lively hub, and try the fresh seafood at a nearby waterside café.",
+            "fr": "Observez les ferries et bateaux de pêche animés dans ce hub vibrant, et goûtez les fruits de mer frais dans un café au bord de l'eau à proximité."
           }
         },
         {
@@ -337,7 +372,8 @@
             "de": "Schloss Turpault",
             "hu": "Turpault Kastély",
             "ro": "Castelul Turpault",
-            "en": "Turpault Castle"
+            "en": "Turpault Castle",
+            "fr": "Château de Turpault"
           },
           "coords": [
             -3.130324,
@@ -352,7 +388,8 @@
             "de": "Fotografieren Sie dieses majestätische Herrenhaus vom Küstenpfad aus, da es in Privatbesitz ist und nicht besichtigt werden kann.",
             "hu": "Fényképezze le ezt a fenséges, angol-középkori kastélyt a parti ösvényről, mivel magántulajdonban van és nem látogatható.",
             "ro": "Fotografiați acest conac anglo-medieval maiestuos de pe poteca de coastă, deoarece este proprietate privată și nu poate fi vizitat.",
-            "en": "Photograph this majestic Anglo-medieval manor from the coastal path, as it is privately owned and not open to the public."
+            "en": "Photograph this majestic Anglo-medieval manor from the coastal path, as it is privately owned and not open to the public.",
+            "fr": "Photographiez ce majestueux manoir anglo-médiéval depuis le sentier côtier, car il est privé et non ouvert au public."
           }
         },
         {
@@ -360,7 +397,8 @@
             "de": "Wilde Küste (Côte Sauvage)",
             "hu": "Vad Part (Côte Sauvage)",
             "ro": "Coasta Sălbatică (Côte Sauvage)",
-            "en": "Côte Sauvage"
+            "en": "Côte Sauvage",
+            "fr": "Côte Sauvage"
           },
           "coords": [
             -3.151394,
@@ -375,7 +413,8 @@
             "de": "Bestaunen Sie die von Wellen umtosten zerklüfteten Klippen, aber halten Sie sicheren Abstand zu den instabilen Kanten.",
             "hu": "Csodálja meg a hullámok által ostromolt csipkézett sziklákat, biztonságos távolságot tartva az instabil peremektől.",
             "ro": "Minunați-vă de stâncile abrupte bătute de valuri de-a lungul coastei, păstrând o distanță sigură de marginile instabile.",
-            "en": "Marvel at the jagged cliffs battered by waves along this dramatic coast, keeping a safe distance from the unstable edges."
+            "en": "Marvel at the jagged cliffs battered by waves along this dramatic coast, keeping a safe distance from the unstable edges.",
+            "fr": "Admirez les falaises déchiquetées battues par les vagues le long de cette côte dramatique, en restant à bonne distance des bords instables."
           }
         },
         {
@@ -383,7 +422,8 @@
             "de": "Port Bara",
             "hu": "Port Bara",
             "ro": "Port Bara",
-            "en": "Port Bara"
+            "en": "Port Bara",
+            "fr": "Port Bara"
           },
           "coords": [
             -3.151667,
@@ -398,7 +438,8 @@
             "de": "Genießen Sie die Aussicht auf diesen beliebten Surfspot, aber beachten Sie das Badeverbot wegen gefährlicher Strömungen.",
             "hu": "Élvezze a népszerű szörfös hely lenyűgöző kilátását, bár a fürdőzés a veszélyes tengeráramlatok miatt szigorúan tilos.",
             "ro": "Bucurați-vă de priveliștile uimitoare ale acestui loc popular de surf, deși înotul este interzis din cauza curenților periculoși.",
-            "en": "Enjoy the stunning views of this popular surfing spot, though swimming is forbidden due to dangerous underwater currents."
+            "en": "Enjoy the stunning views of this popular surfing spot, though swimming is forbidden due to dangerous underwater currents.",
+            "fr": "Profitez des vues splendides sur ce spot de surf populaire, bien que la baignade soit interdite en raison de courants sous-marins dangereux."
           }
         },
         {
@@ -406,7 +447,8 @@
             "de": "Kermahé",
             "hu": "Kermahé",
             "ro": "Kermahé",
-            "en": "Kermahé"
+            "en": "Kermahé",
+            "fr": "Kermahé"
           },
           "coords": [
             -3.122765,
@@ -421,7 +463,8 @@
             "de": "Machen Sie eine ruhige Pause an diesem kleinen Strand; bringen Sie eigene Snacks mit, da es wenig Einkaufsmöglichkeiten gibt.",
             "hu": "Tartson egy csendes pihenőt ezen a hangulatos kis strandon; hozzon saját rágcsálnivalót, mivel kevés a környéken a bolt.",
             "ro": "Faceți o pauză liniștită la această mică plajă fermecătoare; aduceți propriile gustări, deoarece facilitățile din apropiere sunt limitate.",
-            "en": "Take a quiet break at this charming little beach area, bringing your own snacks as nearby facilities can be limited."
+            "en": "Take a quiet break at this charming little beach area, bringing your own snacks as nearby facilities can be limited.",
+            "fr": "Faites une pause tranquille dans ce charmant petit coin de plage, en apportant vos propres en-cas car les installations à proximité peuvent être limitées."
           }
         },
         {
@@ -429,7 +472,8 @@
             "de": "Pointe du Conguel",
             "hu": "Pointe du Conguel",
             "ro": "Pointe du Conguel",
-            "en": "Pointe du Conguel"
+            "en": "Pointe du Conguel",
+            "fr": "Pointe du Conguel"
           },
           "coords": [
             -3.07972,
@@ -444,7 +488,8 @@
             "de": "Gehen Sie zur Spitze der Halbinsel, um den Leuchtturm zu sehen; tragen Sie dabei feste Schuhe für die steinigen Wege.",
             "hu": "Sétáljon ki a félsziget legcsücskébe a világítótoronyhoz és a szigetekhez, és viseljen masszív cipőt a sziklás utakon.",
             "ro": "Mergeți până la vârful peninsulei pentru a vedea farul și insulele, purtând încălțăminte rezistentă pentru cărările stâncoase.",
-            "en": "Walk out to the very tip of the peninsula to see the lighthouse and islands, wearing sturdy shoes for the rocky paths."
+            "en": "Walk out to the very tip of the peninsula to see the lighthouse and islands, wearing sturdy shoes for the rocky paths.",
+            "fr": "Marchez jusqu'à la pointe de la presqu'île pour voir le phare et les îles, en portant des chaussures solides pour les sentiers rocheux."
           }
         }
       ],
@@ -452,7 +497,8 @@
         "de": "Radeln Sie vom lebhaften Hafen los, um die morgendliche maritime Energie einzufangen. Gegen Mittag fahren Sie an der wilden Küste entlang, wo schroffe Klippen auf den Atlantik treffen. Der Nachmittag bietet versteckte Buchten und ruhigere Strandabschnitte zum Entspannen. Beenden Sie Ihre Tour an der Südspitze der Halbinsel mit einem Panoramablick unter dem Abendhimmel.",
         "hu": "Kerékpározzon ki a nyüzsgő kikötőből, és szívja magába a reggeli tengeri energiákat. Délben tekerjen végig a lélegzetelállító vad parton, ahol a zord sziklák találkoznak az Atlanti-óceánnal. A délutánt rejtett öblök és csendesebb strandok fémjelzik, melyek tökéletesek a pihenésre. Fejezze be az utat a félsziget déli csücskén, élvezve a panorámát a lenyugvó nap fényeiben.",
         "ro": "Porniți cu bicicleta din portul vibrant pentru a simți energia maritimă a dimineții. La prânz, pedalați de-a lungul coastei sălbatice uluitoare, unde stâncile abrupte se întâlnesc cu oceanul. După-amiaza vă aduce golfuri ascunse și plaje mai liniștite, perfecte pentru relaxare. Terminați cursa în vârful sudic al peninsulei, cu vederi panoramice sub cerul de seară.",
-        "en": "Pedal out from the vibrant port area to catch the early maritime energy. By midday, cycle along the breathtaking wild coast, where rugged cliffs meet the Atlantic Ocean's power. Your afternoon features hidden coves and quieter stretches of beach, perfect for unwinding. Finish your ride at the peninsula's southern tip, offering panoramic views as the evening colors paint the sky."
+        "en": "Pedal out from the vibrant port area to catch the early maritime energy. By midday, cycle along the breathtaking wild coast, where rugged cliffs meet the Atlantic Ocean's power. Your afternoon features hidden coves and quieter stretches of beach, perfect for unwinding. Finish your ride at the peninsula's southern tip, offering panoramic views as the evening colors paint the sky.",
+        "fr": "Pédalez depuis le port animé pour capter l'énergie maritime matinale. À midi, longez la côte sauvage à couper le souffle, où les falaises abruptes rencontrent la puissance de l'Atlantique. Votre après-midi mêle criques cachées et plages plus calmes, parfaites pour se détendre. Terminez votre sortie au bout sud de la presqu'île, offrant des vues panoramiques tandis que les couleurs du soir peignent le ciel."
       },
       "variants": {
         "rainy": {
@@ -460,7 +506,8 @@
             "de": "Eine regnerische Radtour erfordert Vorsicht auf dem glatten Asphalt am Hafen. Mittags bietet das Schloss eine dramatische Kulisse im Regen. Die Côte Sauvage zeigt sich am Nachmittag von ihrer wildesten Seite, wo Wind und Gischt das Radfahren zum Abenteuer machen. Beenden wir den Tag mit einer vorsichtigen Fahrt entlang der Küste, während die Lichter von Quiberon im Regen verschwimmen.",
             "hu": "Az esős biciklitúra óvatosságot igényel a kikötő csúszós aszfaltján. Délben a kastély drámai hátteret nyújt a záporban. A Vad Part délután a legvadabb arcát mutatja, ahol a szél és a sós permet igazi kalanddá teszi a tekerést. A napot óvatos tengerparti biciklizéssel zárjuk, miközben Quiberon fényei elmosódnak az esőfüggöny mögött.",
             "ro": "O tură cu bicicleta pe ploaie necesită prudență pe asfaltul alunecos din port. La prânz, castelul oferă un cadru dramatic. Coasta Sălbatică se dezvăluie după-amiaza în toată splendoarea ei brută, unde vântul face pedalatul o aventură. Încheiem ziua cu o plimbare atentă pe coastă, în timp ce luminile orașului se estompează în ploaie.",
-            "en": "A rainy bike tour requires caution on the slippery asphalt by the harbor. At noon, the castle provides a dramatic backdrop. The Côte Sauvage shows its wildest side in the afternoon, where wind and sea spray turn cycling into a true adventure. We end the day with a careful coastal ride as Quiberon's lights blur behind the rain."
+            "en": "A rainy bike tour requires caution on the slippery asphalt by the harbor. At noon, the castle provides a dramatic backdrop. The Côte Sauvage shows its wildest side in the afternoon, where wind and sea spray turn cycling into a true adventure. We end the day with a careful coastal ride as Quiberon's lights blur behind the rain.",
+            "fr": "Une sortie à vélo sous la pluie demande prudence sur l'asphalte glissant du port. À midi, le château offre un décor spectaculaire. La Côte Sauvage montre son visage le plus sauvage l'après-midi, où le vent et les embruns transforment le cyclisme en véritable aventure. Nous finissons la journée par une traversée côtière prudente tandis que les lumières de Quiberon se floutent derrière la pluie."
           },
           "stops": [
             {
@@ -468,13 +515,15 @@
                 "de": "Port-Maria",
                 "hu": "Port-Maria",
                 "ro": "Port-Maria",
-                "en": "Port-Maria"
+                "en": "Port-Maria",
+                "fr": "Port-Maria"
               },
               "tip_5lang": {
                 "de": "Achten Sie auf die nassen Schienen am Hafenbecken; die bunten Reflexionen auf dem Asphalt machen die Abfahrt trotz Regen sehr fotogen.",
                 "hu": "Ügyeljen a vizes sínekre a kikötőben; az aszfalton megcsillanó színes fények az eső ellenére is nagyon fotogénné teszik az indulást.",
                 "ro": "Atenție la șinele umede din port; reflexiile colorate pe asfalt fac plecarea foarte fotogenică, în ciuda ploii constante.",
-                "en": "Watch out for wet tracks at the harbor basin; the colorful reflections on the asphalt make the departure very photogenic despite the rain."
+                "en": "Watch out for wet tracks at the harbor basin; the colorful reflections on the asphalt make the departure very photogenic despite the rain.",
+                "fr": "Attention aux surfaces humides autour du bassin du port ; les reflets colorés sur l'asphalte rendent le départ très photogénique malgré la pluie."
               }
             },
             {
@@ -482,13 +531,15 @@
                 "de": "Schloss Turpault",
                 "hu": "Turpault Kastély",
                 "ro": "Castelul Turpault",
-                "en": "Turpault Castle"
+                "en": "Turpault Castle",
+                "fr": "Château de Turpault"
               },
               "tip_5lang": {
                 "de": "Suchen Sie kurzzeitig Schutz unter den Bäumen nahe dem Eingang; der Anblick des Regennebels um die Türme wirkt fast wie aus einem Märchen.",
                 "hu": "Keressen rövid menedéket a bejárat közeli fák alatt; a tornyok körüli esőköd látványa szinte mesebeli hangulatot áraszt a parton.",
                 "ro": "Căutați un adăpost temporar sub copacii de lângă intrare; vederea ceții de ploaie în jurul turnurilor pare desprinsă dintr-un basm.",
-                "en": "Seek temporary shelter under the trees near the entrance; the sight of rain mist swirling around the towers looks almost fairytale-like."
+                "en": "Seek temporary shelter under the trees near the entrance; the sight of rain mist swirling around the towers looks almost fairytale-like.",
+                "fr": "Cherchez un abri temporaire sous les arbres près de l'entrée ; la brume de pluie tourbillonnant autour des tours a un aspect presque féerique."
               }
             },
             {
@@ -496,13 +547,15 @@
                 "de": "Wilde Küste (Côte Sauvage)",
                 "hu": "Vad Part (Côte Sauvage)",
                 "ro": "Coasta Sălbatică (Côte Sauvage)",
-                "en": "Côte Sauvage"
+                "en": "Côte Sauvage",
+                "fr": "Côte Sauvage"
               },
               "tip_5lang": {
                 "de": "Prüfen Sie Ihre Bremsen vor dem Befahren der Küstenwege; der Wind treibt den Regen horizontal, was eine gute Brille absolut notwendig macht.",
                 "hu": "Ellenőrizze a fékeket a parti utak előtt; a szél vízszintesen fújja az esőt, így egy jó szemüveg nélkülözhetetlen a tájékozódáshoz.",
                 "ro": "Verificați frânele înainte de drumurile de coastă; vântul suflă ploaia orizontal, făcând o pereche bună de ochelari absolut necesară.",
-                "en": "Check your brakes before hitting the coastal paths; the wind blows rain horizontally, making good cycling glasses absolutely essential."
+                "en": "Check your brakes before hitting the coastal paths; the wind blows rain horizontally, making good cycling glasses absolutely essential.",
+                "fr": "Vérifiez vos freins avant d'emprunter les sentiers côtiers ; le vent peut faire pleuvoir horizontalement, rendant des lunettes de cyclisme efficaces absolument indispensables."
               }
             },
             {
@@ -510,13 +563,15 @@
                 "de": "Port Bara",
                 "hu": "Port Bara",
                 "ro": "Port Bara",
-                "en": "Port Bara"
+                "en": "Port Bara",
+                "fr": "Port Bara"
               },
               "tip_5lang": {
                 "de": "Die Felsen können bei Nässe extrem rutschig sein; genießen Sie das Panorama lieber direkt vom befestigten Radweg aus.",
                 "hu": "A sziklák nedvesen rendkívül csúszósak lehetnek; élvezze a panorámát inkább közvetlenül a kiépített kerékpárút biztonságából.",
                 "ro": "Stâncile pot fi extrem de alunecoase când sunt ude; bucurați-vă de panoramă direct de pe pista de biciclete amenajată.",
-                "en": "The rocks can be extremely slippery when wet; enjoy the panorama directly from the safety of the paved bike path instead."
+                "en": "The rocks can be extremely slippery when wet; enjoy the panorama directly from the safety of the paved bike path instead.",
+                "fr": "Les rochers peuvent être extrêmement glissants quand ils sont mouillés ; profitez du panorama depuis la sécurité de la piste cyclable pavée."
               }
             },
             {
@@ -524,13 +579,15 @@
                 "de": "Kermahé",
                 "hu": "Kermahé",
                 "ro": "Kermahé",
-                "en": "Kermahé"
+                "en": "Kermahé",
+                "fr": "Kermahé"
               },
               "tip_5lang": {
                 "de": "Nutzen Sie den sandigen Untergrund hier nicht zum Parken; der Regen macht den Boden weich, suchen Sie lieber festen Untergrund für die Räder.",
                 "hu": "Ne parkoljon a homokos részeken; az eső feláztatja a talajt, keressen szilárd burkolatot a biciklik leállításához a pihenő alatt.",
                 "ro": "Nu parcați pe zonele cu nisip; ploaia înmoaie solul, așa că căutați o suprafață solidă pentru a lăsa bicicletele în timpul pauzei.",
-                "en": "Avoid parking on sandy patches; the rain softens the ground, so look for a solid surface to park your bikes during the break."
+                "en": "Avoid parking on sandy patches; the rain softens the ground, so look for a solid surface to park your bikes during the break.",
+                "fr": "Évitez de vous garer sur des zones sableuses ; la pluie ramollit le sol, cherchez une surface solide pour garer vos vélos pendant la pause."
               }
             },
             {
@@ -538,13 +595,15 @@
                 "de": "Pointe du Conguel",
                 "hu": "Pointe du Conguel",
                 "ro": "Pointe du Conguel",
-                "en": "Pointe du Conguel"
+                "en": "Pointe du Conguel",
+                "fr": "Pointe du Conguel"
               },
               "tip_5lang": {
                 "de": "Die Spitze ist dem Wind schutzlos ausgeliefert; tragen Sie eine wasserfeste Hose, um den Rückweg trocken und komfortabel zu überstehen.",
                 "hu": "A szigetcsúcs teljesen védtelen a széllel szemben; viseljen vízhatlan nadrágot, hogy a visszaút száraz és kényelmes maradjon.",
                 "ro": "Vârful este complet expus vântului; purtați pantaloni impermeabili pentru a supraviețui drumului de întoarcere uscat și confortabil.",
-                "en": "The tip is completely exposed to the wind; wear waterproof trousers to ensure the ride back remains dry and comfortable."
+                "en": "The tip is completely exposed to the wind; wear waterproof trousers to ensure the ride back remains dry and comfortable.",
+                "fr": "La pointe est totalement exposée au vent ; portez un pantalon imperméable pour que le retour reste sec et confortable."
               }
             }
           ]
@@ -554,7 +613,8 @@
             "de": "Ein klarer Wintermorgen führt uns mit dem Rad am Hafen entlang. Mittags glänzt das Schloss in der tiefstehenden Sonne. Die Côte Sauvage bietet am Nachmittag eine fantastische Fernsicht durch die kalte, saubere Luft. Da die Dämmerung früh gegen 17:00 Uhr einsetzt, nutzen wir das letzte Tageslicht am Pointe du Conguel, bevor wir mit guter Beleuchtung den Heimweg antreten.",
             "hu": "Tiszta téli reggelen indulunk a kikötő mentén. Délben a kastély falai ragyognak az alacsonyan járó napfényben. A Vad Part délután fantasztikus látótávolságot kínál a hideg, tiszta levegőnek köszönhetően. Mivel az alkonyat korán, 17:00 körül érkezik, a Conguel-foknál használjuk ki az utolsó fényeket, majd lámpákkal indulunk vissza.",
             "ro": "O dimineață senină de iarnă ne poartă cu bicicleta pe lângă port. La prânz, castelul strălucește în soarele jos de iarnă. Coasta Sălbatică oferă o vizibilitate fantastică datorită aerului rece și curat. Deoarece amurgul vine devreme, profităm de ultima lumină la Pointe du Conguel înainte de a ne întoarce.",
-            "en": "A clear winter morning takes us cycling along the harbor. At noon, the castle walls glisten in the low sun. The Côte Sauvage offers fantastic visibility in the afternoon thanks to the cold, clean air. Since twilight arrives early around 5:00 PM, we enjoy the last light at Pointe du Conguel before heading back with lights on."
+            "en": "A clear winter morning takes us cycling along the harbor. At noon, the castle walls glisten in the low sun. The Côte Sauvage offers fantastic visibility in the afternoon thanks to the cold, clean air. Since twilight arrives early around 5:00 PM, we enjoy the last light at Pointe du Conguel before heading back with lights on.",
+            "fr": "Un matin d'hiver clair nous mène à vélo le long du port. À midi, les murs du château scintillent sous le faible soleil. La Côte Sauvage offre une visibilité fantastique l'après-midi grâce à l'air froid et pur. Le crépuscule arrivant tôt vers 17h00, nous profitons de la dernière lumière à la Pointe du Conguel avant de repartir avec nos lumières allumées."
           },
           "stops": [
             {
@@ -562,13 +622,15 @@
                 "de": "Port-Maria",
                 "hu": "Port-Maria",
                 "ro": "Port-Maria",
-                "en": "Port-Maria"
+                "en": "Port-Maria",
+                "fr": "Port-Maria"
               },
               "tip_5lang": {
                 "de": "Tragen Sie warme Handschuhe, da der Fahrtwind am Morgen sehr kalt sein kann; der Hafen ist im Winter wunderbar ruhig und leer.",
                 "hu": "Viseljen meleg kesztyűt, mert a menetszél reggel nagyon hideg lehet; a kikötő télen csodálatosan nyugodt és mentes a tömegtől.",
                 "ro": "Purtați mănuși groase, deoarece vântul de dimineață poate fi foarte rece; portul este minunat de liniștit și gol în timpul iernii.",
-                "en": "Wear warm gloves as the morning wind can be very cold while cycling; the harbor is wonderfully peaceful and empty in winter."
+                "en": "Wear warm gloves as the morning wind can be very cold while cycling; the harbor is wonderfully peaceful and empty in winter.",
+                "fr": "Portez des gants chauds car le vent du matin peut être très froid en pédalant ; le port est merveilleusement paisible et vide en hiver."
               }
             },
             {
@@ -576,13 +638,15 @@
                 "de": "Schloss Turpault",
                 "hu": "Turpault Kastély",
                 "ro": "Castelul Turpault",
-                "en": "Turpault Castle"
+                "en": "Turpault Castle",
+                "fr": "Château de Turpault"
               },
               "tip_5lang": {
                 "de": "Das Licht für Fotos ist im Winter oft besser als im Sommer; nutzen Sie die tiefstehende Sonne für dramatische Schatten am Schlossgemäuer.",
                 "hu": "A fotózáshoz a fények télen gyakran jobbak, mint nyáron; használja ki az alacsony napállást a kastély falain vetülő drámai árnyékokhoz.",
                 "ro": "Lumina pentru fotografii este adesea mai bună iarna decât vara; profitați de soarele jos pentru umbre dramatice pe zidurile castelului.",
-                "en": "The light for photography is often better in winter than in summer; use the low sun to capture dramatic shadows on the castle walls."
+                "en": "The light for photography is often better in winter than in summer; use the low sun to capture dramatic shadows on the castle walls.",
+                "fr": "La lumière pour la photographie est souvent meilleure en hiver qu'en été ; utilisez le soleil bas pour capturer des ombres dramatiques sur les murs du château."
               }
             },
             {
@@ -590,13 +654,15 @@
                 "de": "Wilde Küste (Côte Sauvage)",
                 "hu": "Vad Part (Côte Sauvage)",
                 "ro": "Coasta Sălbatică (Côte Sauvage)",
-                "en": "Côte Sauvage"
+                "en": "Côte Sauvage",
+                "fr": "Côte Sauvage"
               },
               "tip_5lang": {
                 "de": "Die Sicht bis zu den Nachbarinseln ist im Winter extrem klar; halten Sie kurz an, um das Panorama in der kühlen Brise zu genießen.",
                 "hu": "A kilátás a szomszédos szigetekig télen rendkívül tiszta; álljon meg egy pillanatra, hogy élvezze a panorámát a hűvös szellőben.",
                 "ro": "Vizibilitatea până la insulele vecine este extrem de clară iarna; opriți-vă un moment pentru a vă bucura de panoramă în briza răcoroasă.",
-                "en": "The visibility across to the neighboring islands is extremely clear in winter; stop for a moment to enjoy the panorama in the cool breeze."
+                "en": "The visibility across to the neighboring islands is extremely clear in winter; stop for a moment to enjoy the panorama in the cool breeze.",
+                "fr": "La visibilité jusqu'aux îles voisines est extrêmement claire en hiver ; arrêtez-vous un instant pour apprécier le panorama dans la brise fraîche."
               }
             },
             {
@@ -604,13 +670,15 @@
                 "de": "Port Bara",
                 "hu": "Port Bara",
                 "ro": "Port Bara",
-                "en": "Port Bara"
+                "en": "Port Bara",
+                "fr": "Port Bara"
               },
               "tip_5lang": {
                 "de": "Nehmen Sie einen warmen Tee in der Thermoskanne mit; die leere Bucht ist der perfekte Ort für eine kurze, aufwärmende Pause am Meer.",
                 "hu": "Vigyen magával meleg teát termosztban; a néptelen öböl tökéletes hely egy rövid, melengető szünetre a tengerparton.",
                 "ro": "Luați un ceai cald într-un termos; golful pustiu este locul perfect pentru o scurtă pauză de încălzire la malul mării.",
-                "en": "Carry warm tea in a thermos; the empty bay is the perfect spot for a short, warming break by the sea."
+                "en": "Carry warm tea in a thermos; the empty bay is the perfect spot for a short, warming break by the sea.",
+                "fr": "Emportez du thé chaud dans une thermos ; la baie déserte est l'endroit idéal pour une courte pause réchauffante au bord de la mer."
               }
             },
             {
@@ -618,13 +686,15 @@
                 "de": "Kermahé",
                 "hu": "Kermahé",
                 "ro": "Kermahé",
-                "en": "Kermahé"
+                "en": "Kermahé",
+                "fr": "Kermahé"
               },
               "tip_5lang": {
                 "de": "Bewegen Sie Ihre Zehen während der Fahrt, um die Durchblutung zu fördern; der offene Radweg bietet wenig Schutz vor dem Winterwind.",
                 "hu": "Mozgassa a lábujjait tekerés közben a vérkeringés fenntartásához; a nyitott kerékpárút kevés védelmet nyújt a téli széllel szemben.",
                 "ro": "Mişcați-vă degetele de la picioare în timp ce pedalați; pista de biciclete deschisă oferă puțină protecție împotriva vântului de iarnă.",
-                "en": "Wiggle your toes while riding to maintain circulation; the open bike path offers little protection from the biting winter wind."
+                "en": "Wiggle your toes while riding to maintain circulation; the open bike path offers little protection from the biting winter wind.",
+                "fr": "Remuez vos orteils en roulant pour maintenir la circulation ; la piste cyclable ouverte offre peu de protection contre le vent hivernal mordant."
               }
             },
             {
@@ -632,13 +702,15 @@
                 "de": "Pointe du Conguel",
                 "hu": "Pointe du Conguel",
                 "ro": "Pointe du Conguel",
-                "en": "Pointe du Conguel"
+                "en": "Pointe du Conguel",
+                "fr": "Pointe du Conguel"
               },
               "tip_5lang": {
                 "de": "Stellen Sie sicher, dass Ihre Fahrradbeleuchtung funktioniert, da die Dunkelheit nach 17:00 Uhr auf den unbeleuchteten Wegen schnell einsetzt.",
                 "hu": "Ellenőrizze, hogy működnek-e a lámpái, mert 17:00 után a kivilágítatlan utakon gyorsan és sötéten szakad le az éjszaka.",
                 "ro": "Asigurați-vă că luminile bicicletei funcționează, deoarece întunericul se lasă rapid după ora 17:00 pe drumurile neiluminate.",
-                "en": "Ensure your bike lights are working, as darkness sets in very quickly after 5:00 PM on the unlit coastal paths."
+                "en": "Ensure your bike lights are working, as darkness sets in very quickly after 5:00 PM on the unlit coastal paths.",
+                "fr": "Assurez-vous que les éclairages de votre vélo fonctionnent, car l'obscurité tombe très vite après 17h00 sur les sentiers côtiers non éclairés."
               }
             }
           ]
@@ -658,7 +730,8 @@
             "de": "La Grande Plage (Norden)",
             "hu": "La Grande Plage (Észak)",
             "ro": "La Grande Plage (Nord)",
-            "en": "La Grande Plage"
+            "en": "La Grande Plage",
+            "fr": "La Grande Plage"
           },
           "coords": [
             -3.149871,
@@ -673,7 +746,8 @@
             "de": "Beginnen Sie den Tag mit einem langen Spaziergang am großen Sandstrand, aber prüfen Sie vorab unbedingt die Gezeiten.",
             "hu": "Kezdje a napot egy hosszú sétával ezen a hatalmas homokos parton, és ellenőrizze az árapály idejét, mielőtt túl messzire menne.",
             "ro": "Începeți ziua cu o plimbare lungă pe această întindere masivă de nisip, verificând mareele înainte de a vă aventura prea departe.",
-            "en": "Start your day with a long walk on this massive expanse of sand, checking the tide times before venturing too far out."
+            "en": "Start your day with a long walk on this massive expanse of sand, checking the tide times before venturing too far out.",
+            "fr": "Commencez la journée par une longue promenade sur cette vaste étendue de sable, en vérifiant les horaires des marées avant de vous aventurer trop loin."
           }
         },
         {
@@ -681,7 +755,8 @@
             "de": "Strand der Landenge",
             "hu": "Földszoros strandja",
             "ro": "Plaja Istmului",
-            "en": "Plage de l'isthme"
+            "en": "Plage de l'isthme",
+            "fr": "Plage de l'isthme"
           },
           "coords": [
             -3.136566,
@@ -696,7 +771,8 @@
             "de": "Erleben Sie die einzigartige Geografie dieses schmalen Landstreifens; perfekt für Fotos, aber Vorsicht vor starkem Wind.",
             "hu": "Tapasztalja meg ennek a keskeny földsávnak az egyedülálló földrajzát, mely kiváló fotózáshoz, de vigyázzon az erős széllel.",
             "ro": "Experimentați geografia unică a acestei fâșii înguste de pământ, perfectă pentru fotografii, dar feriți-vă de vânturile puternice.",
-            "en": "Experience the unique geography of this narrow strip of land, perfect for photography, but be wary of strong coastal winds."
+            "en": "Experience the unique geography of this narrow strip of land, perfect for photography, but be wary of strong coastal winds.",
+            "fr": "Découvrez la géographie unique de cette bande étroite de terre, parfaite pour la photographie, mais méfiez-vous des vents côtiers violents."
           }
         },
         {
@@ -704,7 +780,8 @@
             "de": "Traezh ar Fozoù",
             "hu": "Traezh ar Fozoù",
             "ro": "Traezh ar Fozoù",
-            "en": "Traezh ar Fozoù"
+            "en": "Traezh ar Fozoù",
+            "fr": "Traezh ar Fozoù"
           },
           "coords": [
             -3.153732,
@@ -719,7 +796,8 @@
             "de": "Entdecken Sie dieses versteckte Küstenjuwel zwischen den Felsen; kommen Sie bei Ebbe, um die Felspools sicher zu erkunden.",
             "hu": "Fedezze fel ezt a rejtett tengerparti gyöngyszemet a sziklák között; érkezzen apálykor a sziklamedencék biztonságos felfedezéséhez.",
             "ro": "Descoperiți această bijuterie de coastă ascunsă printre stânci, ajungând la reflux pentru a explora piscinele de stâncă în siguranță.",
-            "en": "Discover this hidden coastal gem among the rocky outcrops, arriving at low tide to explore the fascinating rock pools safely."
+            "en": "Discover this hidden coastal gem among the rocky outcrops, arriving at low tide to explore the fascinating rock pools safely.",
+            "fr": "Découvrez ce joyau côtier caché parmi les rochers, en arrivant à marée basse pour explorer en toute sécurité les bassins de roche fascinants."
           }
         },
         {
@@ -727,7 +805,8 @@
             "de": "Port Rhu",
             "hu": "Port Rhu",
             "ro": "Port Rhu",
-            "en": "Port Rhu"
+            "en": "Port Rhu",
+            "fr": "Port Rhu"
           },
           "coords": [
             -3.152797,
@@ -742,7 +821,8 @@
             "de": "Bewundern Sie die malerische, von steilen Klippen gesäumte Bucht, aber meiden Sie das Wasser wegen der starken Unterströmung.",
             "hu": "Csodálja meg a meredek sziklákkal övezett festői öblöt, és kerülje a vizet, mivel a helyi alsó áramlatok megtévesztően erősek.",
             "ro": "Admirați golful pitoresc încadrat de stânci abrupte, evitând apa, deoarece curenții din zonă sunt înșelător de puternici.",
-            "en": "Admire the sheltered, picturesque inlet framed by steep cliffs, avoiding the water as the local undertows are deceptively strong."
+            "en": "Admire the sheltered, picturesque inlet framed by steep cliffs, avoiding the water as the local undertows are deceptively strong.",
+            "fr": "Admirez l'anse abritée et pittoresque encadrée par des falaises abruptes, en évitant l'eau car les courants locaux sont trompeusement forts."
           }
         },
         {
@@ -750,7 +830,8 @@
             "de": "Wilde Küste (Côte Sauvage)",
             "hu": "Vad Part (Côte Sauvage)",
             "ro": "Coasta Sălbatică (Côte Sauvage)",
-            "en": "Côte Sauvage"
+            "en": "Côte Sauvage",
+            "fr": "Côte Sauvage"
           },
           "coords": [
             -3.151394,
@@ -765,7 +846,8 @@
             "de": "Bestaunen Sie die von Wellen umtosten zerklüfteten Klippen, aber halten Sie sicheren Abstand zu den instabilen Kanten.",
             "hu": "Csodálja meg a hullámok által ostromolt csipkézett sziklákat, biztonságos távolságot tartva az instabil peremektől.",
             "ro": "Minunați-vă de stâncile abrupte bătute de valuri de-a lungul coastei, păstrând o distanță sigură de marginile instabile.",
-            "en": "Marvel at the jagged cliffs battered by waves along this dramatic coast, keeping a safe distance from the unstable edges."
+            "en": "Marvel at the jagged cliffs battered by waves along this dramatic coast, keeping a safe distance from the unstable edges.",
+            "fr": "Admirez les falaises déchiquetées battues par les vagues le long de cette côte dramatique, en restant à bonne distance des bords instables."
           }
         },
         {
@@ -773,7 +855,8 @@
             "de": "Schloss Turpault",
             "hu": "Turpault Kastély",
             "ro": "Castelul Turpault",
-            "en": "Turpault Castle"
+            "en": "Turpault Castle",
+            "fr": "Château de Turpault"
           },
           "coords": [
             -3.130324,
@@ -788,7 +871,8 @@
             "de": "Fotografieren Sie dieses majestätische Herrenhaus vom Küstenpfad aus, da es in Privatbesitz ist und nicht besichtigt werden kann.",
             "hu": "Fényképezze le ezt a fenséges, angol-középkori kastélyt a parti ösvényről, mivel magántulajdonban van és nem látogatható.",
             "ro": "Fotografiați acest conac anglo-medieval maiestuos de pe poteca de coastă, deoarece este proprietate privată și nu poate fi vizitat.",
-            "en": "Photograph this majestic Anglo-medieval manor from the coastal path, as it is privately owned and not open to the public."
+            "en": "Photograph this majestic Anglo-medieval manor from the coastal path, as it is privately owned and not open to the public.",
+            "fr": "Photographiez ce majestueux manoir anglo-médiéval depuis le sentier côtier, car il est privé et non ouvert au public."
           }
         },
         {
@@ -796,7 +880,8 @@
             "de": "Pointe du Conguel",
             "hu": "Pointe du Conguel",
             "ro": "Pointe du Conguel",
-            "en": "Pointe du Conguel"
+            "en": "Pointe du Conguel",
+            "fr": "Pointe du Conguel"
           },
           "coords": [
             -3.07972,
@@ -811,7 +896,8 @@
             "de": "Gehen Sie zur Spitze der Halbinsel, um den Leuchtturm zu sehen; tragen Sie dabei feste Schuhe für die steinigen Wege.",
             "hu": "Sétáljon ki a félsziget legcsücskébe a világítótoronyhoz és a szigetekhez, és viseljen masszív cipőt a sziklás utakon.",
             "ro": "Mergeți până la vârful peninsulei pentru a vedea farul și insulele, purtând încălțăminte rezistentă pentru cărările stâncoase.",
-            "en": "Walk out to the very tip of the peninsula to see the lighthouse and islands, wearing sturdy shoes for the rocky paths."
+            "en": "Walk out to the very tip of the peninsula to see the lighthouse and islands, wearing sturdy shoes for the rocky paths.",
+            "fr": "Marchez jusqu'à la pointe de la presqu'île pour voir le phare et les îles, en portant des chaussures solides pour les sentiers rocheux."
           }
         }
       ],
@@ -819,7 +905,8 @@
         "de": "Beginnen Sie Ihren Roadtrip im hohen Norden der Halbinsel und genießen Sie die weiten Sandflächen vor dem Ansturm der Massen. Fahren Sie nach Süden über den Isthmus und bewundern Sie den Kontrast der Küsten. Der Nachmittag ist der ungezähmten Schönheit der zerklüfteten Westküste gewidmet. Runden Sie die Reise schließlich am historischen Südpunkt mit einem Sonnenuntergang ab.",
         "hu": "Kezdje autós túráját a félsziget legészakibb pontján, élvezve a tágas homokos partokat a tömeg érkezése előtt. Haladjon dél felé a drámai földszoroson át, megcsodálva az öböl és az óceán kontrasztját. A délután a zord nyugati part és sziklás öbleinek vad szépségére fókuszál. Végül a történelmi déli csücsökben fejezze be az utazást egy látványos naplementével.",
         "ro": "Începeți excursia cu mașina în nordul peninsulei pentru a vă bucura de plajele spațioase înainte de aglomerație. Mergeți spre sud prin istmul dramatic, admirând contrastul dintre golf și ocean. După-amiaza se concentrează pe frumusețea sălbatică a coastei de vest stâncoase. Încheiați călătoria în punctul sudic istoric pentru un apus de soare spectaculos.",
-        "en": "Start your road trip at the far north of the peninsula to enjoy wide, open sandy spaces before the crowds arrive. Progress southward through the dramatic isthmus, marveling at the contrast between bay and ocean. The afternoon focuses on the untamed beauty of the rugged west coast and its rocky inlets. Finally, round off the journey at the historical southern point for a spectacular sunset."
+        "en": "Start your road trip at the far north of the peninsula to enjoy wide, open sandy spaces before the crowds arrive. Progress southward through the dramatic isthmus, marveling at the contrast between bay and ocean. The afternoon focuses on the untamed beauty of the rugged west coast and its rocky inlets. Finally, round off the journey at the historical southern point for a spectacular sunset.",
+        "fr": "Commencez votre road-trip tout au nord de la presqu'île pour profiter des vastes espaces sablonneux avant l'arrivée des foules. Progressez vers le sud à travers l'isthme dramatique, admirant le contraste entre la baie et l'océan. L'après-midi est consacré à la beauté indomptée de la côte ouest et de ses criques rocheuses. Enfin, terminez le parcours au point historique sud pour un coucher de soleil spectaculaire."
       },
       "variants": {
         "rainy": {
@@ -827,7 +914,8 @@
             "de": "Mit dem Auto ist Quiberon auch bei Regen ein Vergnügen. Wir genießen die Aussicht auf die Grande Plage aus dem trockenen Innenraum. Mittags führt uns die Fahrt entlang der Landenge, wo das Wasser von beiden Seiten peitscht. Den Nachmittag verbringen wir an der Côte Sauvage, wo man die Gewalt des Ozeans sicher vom Parkplatz aus beobachten kann, bevor wir den Tag am Conguel beenden.",
             "hu": "Autóval Quiberon esőben is élvezet. A Grande Plage kilátását a száraz utastérből csodálhatjuk meg. Délben az út a földszoros mentén vezet, ahol a víz mindkét oldalról ostromolja a partot. A délutánt a Vad Parton töltjük, ahol a parkolóból biztonságban figyelhetjük az óceán erejét, majd a Conguel-foknál zárjuk a napot.",
             "ro": "Cu mașina, Quiberon este o plăcere chiar și pe ploaie. Admirăm vederea de la Grande Plage din interiorul uscat. La prânz, drumul ne duce de-a lungul istmului, unde apa lovește din ambele părți. Petrecem după-amiaza pe Coasta Sălbatică, unde putem observa forța oceanului în siguranță din parcare, înainte de final.",
-            "en": "By car, Quiberon is a delight even in the rain. We enjoy the views of Grande Plage from the dry interior. At noon, the drive takes us along the isthmus where water lashes from both sides. We spend the afternoon at Côte Sauvage, safely observing the ocean's power from the parking lot before ending the day at Conguel."
+            "en": "By car, Quiberon is a delight even in the rain. We enjoy the views of Grande Plage from the dry interior. At noon, the drive takes us along the isthmus where water lashes from both sides. We spend the afternoon at Côte Sauvage, safely observing the ocean's power from the parking lot before ending the day at Conguel.",
+            "fr": "En voiture, Quiberon est un plaisir même sous la pluie. Nous profitons des vues sur la Grande Plage depuis l'intérieur au sec. À midi, la route longe l'isthme où l'eau fouette des deux côtés. Nous passons l'après-midi à la Côte Sauvage, observant en sécurité la puissance de l'océan depuis le parking avant de finir la journée à Conguel."
           },
           "stops": [
             {
@@ -835,13 +923,15 @@
                 "de": "La Grande Plage (Norden)",
                 "hu": "La Grande Plage (Észak)",
                 "ro": "La Grande Plage (Nord)",
-                "en": "La Grande Plage"
+                "en": "La Grande Plage",
+                "fr": "La Grande Plage"
               },
               "tip_5lang": {
                 "de": "Parken Sie mit Blick aufs Meer; die Scheibenwischer ermöglichen ein privates 'Kinoerlebnis' der stürmischen Atlantikküste im Trockenen.",
                 "hu": "Parkoljon arccal a tenger felé; az ablaktörlők privát „moziélményt” nyújtanak a viharos Atlanti-partról a száraz autóban ülve.",
                 "ro": "Parcați cu fața la mare; ștergătoarele vă permit o experiență de „cinema” privat al coastei atlantice furtunoase, stând la uscat.",
-                "en": "Park facing the sea; the windshield wipers allow for a private 'cinema experience' of the stormy Atlantic coast while staying dry."
+                "en": "Park facing the sea; the windshield wipers allow for a private 'cinema experience' of the stormy Atlantic coast while staying dry.",
+                "fr": "Garez-vous face à la mer ; les essuie-glaces offrent une expérience de « cinéma privé » des tempêtes atlantiques tout en restant au sec."
               }
             },
             {
@@ -849,13 +939,15 @@
                 "de": "Strand der Landenge",
                 "hu": "Földszoros strandja",
                 "ro": "Plaja Istmului",
-                "en": "Plage de l'isthme"
+                "en": "Plage de l'isthme",
+                "fr": "Plage de l'isthme"
               },
               "tip_5lang": {
                 "de": "Achten Sie auf Seitenwind beim Aussteigen; die schmale Stelle ist dem Wetter extrem ausgesetzt, aber die Sicht aus dem Auto ist fantastisch.",
                 "hu": "Vigyázzon az oldalszélre kiszálláskor; ez a keskeny szakasz rendkívül kitett az időjárásnak, de a kilátás az autóból fantasztikus.",
                 "ro": "Atenție la vântul lateral când coborâți; acest punct îngust este extrem de expus vremii, dar vederea din mașină este fantastică.",
-                "en": "Watch out for crosswinds when getting out; this narrow stretch is extremely exposed, but the view from the car remains fantastic."
+                "en": "Watch out for crosswinds when getting out; this narrow stretch is extremely exposed, but the view from the car remains fantastic.",
+                "fr": "Attention aux vents latéraux en sortant de la voiture ; cet étroit cordon de terre est très exposé, mais la vue depuis la voiture reste fantastique."
               }
             },
             {
@@ -863,13 +955,15 @@
                 "de": "Traezh ar Fozoù",
                 "hu": "Traezh ar Fozoù",
                 "ro": "Traezh ar Fozoù",
-                "en": "Traezh ar Fozoù"
+                "en": "Traezh ar Fozoù",
+                "fr": "Traezh ar Fozoù"
               },
               "tip_5lang": {
                 "de": "Der Parkplatz ist nah am Strand; ideal für einen kurzen Sprint zum Wasser zwischen zwei Regenschauern für ein schnelles Foto.",
                 "hu": "A parkoló közel van a parthoz; ideális egy rövid sprintre a vízig két zápor között, hogy készítsen egy gyors fényképet a viharos tájról.",
                 "ro": "Parcarea este aproape de plajă; este ideal pentru un sprint scurt până la apă între două averse pentru o fotografie rapidă.",
-                "en": "The parking lot is close to the beach; ideal for a short sprint to the water between two rain showers for a quick photo."
+                "en": "The parking lot is close to the beach; ideal for a short sprint to the water between two rain showers for a quick photo.",
+                "fr": "Le parking est proche de la plage ; idéal pour un sprint entre deux averses pour une photo rapide."
               }
             },
             {
@@ -877,13 +971,15 @@
                 "de": "Port Rhu",
                 "hu": "Port Rhu",
                 "ro": "Port Rhu",
-                "en": "Port Rhu"
+                "en": "Port Rhu",
+                "fr": "Port Rhu"
               },
               "tip_5lang": {
                 "de": "Genießen Sie den Anblick der gischtumspülten Klippen; das Auto bietet hier den besten Schutz vor dem salzigen Sprühregen der Brandung.",
                 "hu": "Élvezze a habzó sziklák látványát; az autó itt nyújtja a legjobb védelmet a sós tengeri permet és a csapkodó hullámok ellen.",
                 "ro": "Bucurați-vă de vederea stâncilor bătute de valuri; mașina oferă aici cea mai bună protecție împotriva spray-ului marin sărat.",
-                "en": "Enjoy the sight of the spray-covered cliffs; the car offers the best protection here from the salty sea spray of the surf."
+                "en": "Enjoy the sight of the spray-covered cliffs; the car offers the best protection here from the salty sea spray of the surf.",
+                "fr": "Appréciez la vue des falaises couvertes d'écume ; la voiture offre ici la meilleure protection contre les embruns salés."
               }
             },
             {
@@ -891,13 +987,15 @@
                 "de": "Wilde Küste (Côte Sauvage)",
                 "hu": "Vad Part (Côte Sauvage)",
                 "ro": "Coasta Sălbatică (Côte Sauvage)",
-                "en": "Côte Sauvage"
+                "en": "Côte Sauvage",
+                "fr": "Côte Sauvage"
               },
               "tip_5lang": {
                 "de": "Dies ist der dramatischste Stopp bei Regen; bleiben Sie im Wagen und beobachten Sie, wie die riesigen Wellen gegen die Küste prallen.",
                 "hu": "Ez a legdrámaibb megálló esőben; maradjon az autóban, és figyelje, ahogy a hatalmas hullámok a partnak csapódnak.",
                 "ro": "Aceasta este cea mai dramatică oprire pe ploaie; rămâneți în mașină și observați cum valurile uriașe se izbesc de coastă.",
-                "en": "This is the most dramatic stop in the rain; stay in the car and watch the massive waves crashing against the rugged coastline."
+                "en": "This is the most dramatic stop in the rain; stay in the car and watch the massive waves crashing against the rugged coastline.",
+                "fr": "C'est l'arrêt le plus spectaculaire sous la pluie ; restez dans la voiture et regardez les vagues immenses s'abattre sur la côte sauvage."
               }
             },
             {
@@ -905,13 +1003,15 @@
                 "de": "Schloss Turpault",
                 "hu": "Turpault Kastély",
                 "ro": "Castelul Turpault",
-                "en": "Turpault Castle"
+                "en": "Turpault Castle",
+                "fr": "Château de Turpault"
               },
               "tip_5lang": {
                 "de": "Nutzen Sie den Parkplatz für einen schnellen Blick auf das nebelverhangene Schloss; die regennassen Mauern wirken besonders geschichtsträchtig.",
                 "hu": "Használja a parkolót egy gyors pillantásra a ködbe burkolózó kastélyra; az esőáztatta falak különösen nagy történelmi múltat sugallnak.",
                 "ro": "Folosiți parcarea pentru o privire rapidă asupra castelului învăluit în ceață; zidurile umede de ploaie par pline de istorie.",
-                "en": "Use the parking lot for a quick view of the mist-shrouded castle; the rain-soaked walls appear especially historic and atmospheric."
+                "en": "Use the parking lot for a quick view of the mist-shrouded castle; the rain-soaked walls appear especially historic and atmospheric.",
+                "fr": "Utilisez le parking pour une vue rapide du château enveloppé de brume ; les murs trempés par la pluie paraissent particulièrement historiques et atmosphériques."
               }
             },
             {
@@ -919,13 +1019,15 @@
                 "de": "Pointe du Conguel",
                 "hu": "Pointe du Conguel",
                 "ro": "Pointe du Conguel",
-                "en": "Pointe du Conguel"
+                "en": "Pointe du Conguel",
+                "fr": "Pointe du Conguel"
               },
               "tip_5lang": {
                 "de": "Der Weg zum Äußersten ist weit; nutzen Sie den Parkplatz als Basis und wagen Sie nur mit voller Regenmontur den kurzen Gang zur Spitze.",
                 "hu": "A csúcsig vezető út hosszú; használja a parkolót bázisként, és csak teljes esőfelszerelésben induljon el a rövid sétára a fokig.",
                 "ro": "Drumul până în vârf este lung; folosiți parcarea ca bază și aventurați-vă doar cu echipament complet de ploaie pentru o plimbare scurtă.",
-                "en": "The path to the tip is long; use the parking lot as a base and only venture out for a quick walk with full rain gear."
+                "en": "The path to the tip is long; use the parking lot as a base and only venture out for a quick walk with full rain gear.",
+                "fr": "Le chemin jusqu'à la pointe est long ; servez-vous du parking comme base et n'aventurezz que pour une courte promenade avec un équipement pluie complet."
               }
             }
           ]
@@ -935,7 +1037,8 @@
             "de": "Ein sonniger, aber kalter Wintermorgen beginnt bequem im beheizten Auto. Die Fahrt über die Landenge bietet spektakuläre Panoramablicke ohne die sommerlichen Staus. Am Nachmittag genießen wir die Côte Sauvage im klaren Winterlicht. Da die Sonne gegen 17:00 Uhr untergeht, planen wir unseren letzten Halt am Pointe du Conguel so, dass wir das magische Alpenglühen des Nordens noch erleben.",
             "hu": "A napsütéses, de hideg téli reggel kényelmesen, a fűtött autóban indul. A földszoroson való áthaladás látványos panorámát kínál nyári forgalom nélkül. Délután a Vad Partot csodáljuk a tiszta téli fényekben. Mivel a nap 17:00 körül nyugszik, az utolsó megállót a Conguel-foknál úgy tervezzük, hogy még elcsípjük a horizont mágikus színeit.",
             "ro": "O dimineață de iarnă însorită, dar rece, începe confortabil în mașina încălzită. Trecerea prin istm oferă vederi panoramice spectaculoase fără aglomerația de vară. După-amiaza admirăm Coasta Sălbatică în lumina clară de iarnă. Deoarece soarele apune în jur de 17:00, planificăm ultima oprire pentru culorile magice ale amurgului.",
-            "en": "A sunny but cold winter morning begins comfortably in a heated car. Driving across the isthmus offers spectacular panoramic views without the summer traffic. In the afternoon, we admire the Côte Sauvage in the clear winter light. Since the sun sets around 5:00 PM, we plan our final stop at Pointe du Conguel to catch the magical twilight colors."
+            "en": "A sunny but cold winter morning begins comfortably in a heated car. Driving across the isthmus offers spectacular panoramic views without the summer traffic. In the afternoon, we admire the Côte Sauvage in the clear winter light. Since the sun sets around 5:00 PM, we plan our final stop at Pointe du Conguel to catch the magical twilight colors.",
+            "fr": "Un matin d'hiver ensoleillé mais froid commence confortablement dans une voiture chauffée. Traverser l'isthme offre des panoramas spectaculaires sans la circulation estivale. L'après-midi, nous admirons la Côte Sauvage sous la lumière claire de l'hiver. Comme le soleil se couche vers 17h00, nous prévoyons notre dernière halte à la Pointe du Conguel pour saisir les couleurs magiques du crépuscule."
           },
           "stops": [
             {
@@ -943,13 +1046,15 @@
                 "de": "La Grande Plage (Norden)",
                 "hu": "La Grande Plage (Észak)",
                 "ro": "La Grande Plage (Nord)",
-                "en": "La Grande Plage"
+                "en": "La Grande Plage",
+                "fr": "La Grande Plage"
               },
               "tip_5lang": {
                 "de": "Genießen Sie den leeren Strand aus der Wärme Ihres Autos; die Wintersonne glitzert herrlich auf dem Wasser, ohne dass Sie frieren müssen.",
                 "hu": "Élvezze az üres strandot az autó melegéből; a téli napfény gyönyörűen csillog a vízen anélkül, hogy fázni kellene a hideg szélben.",
                 "ro": "Bucurați-vă de plaja goală din căldura mașinii; soarele de iarnă sclipește minunat pe apă fără să vă fie frig.",
-                "en": "Enjoy the empty beach from the warmth of your car; the winter sun glistens beautifully on the water without you having to feel the chill."
+                "en": "Enjoy the empty beach from the warmth of your car; the winter sun glistens beautifully on the water without you having to feel the chill.",
+                "fr": "Profitez de la plage vide depuis la chaleur de votre voiture ; le soleil d'hiver scintille joliment sur l'eau sans que vous n'ayez à subir le froid."
               }
             },
             {
@@ -957,13 +1062,15 @@
                 "de": "Strand der Landenge",
                 "hu": "Földszoros strandja",
                 "ro": "Plaja Istmului",
-                "en": "Plage de l'isthme"
+                "en": "Plage de l'isthme",
+                "fr": "Plage de l'isthme"
               },
               "tip_5lang": {
                 "de": "Die schmale Landenge ist im Winter oft menschenleer; nutzen Sie die Parkplätze für Fotos der rauen See auf beiden Seiten des Autos.",
                 "hu": "A keskeny földszoros télen gyakran teljesen néptelen; használja a parkolókat a mindkét oldalon feltáruló vad tenger fotózásához az autóból.",
                 "ro": "Istmul îngust este adesea pustiu iarna; folosiți parcările pentru fotografii ale mării agitate de pe ambele părți ale mașinii.",
-                "en": "The narrow isthmus is often deserted in winter; use the parking spots to photograph the rough sea on both sides of the car."
+                "en": "The narrow isthmus is often deserted in winter; use the parking spots to photograph the rough sea on both sides of the car.",
+                "fr": "L'étroit isthme est souvent désert en hiver ; utilisez les places de parking pour photographier la mer agitée des deux côtés depuis la voiture."
               }
             },
             {
@@ -971,13 +1078,15 @@
                 "de": "Traezh ar Fozoù",
                 "hu": "Traezh ar Fozoù",
                 "ro": "Traezh ar Fozoù",
-                "en": "Traezh ar Fozoù"
+                "en": "Traezh ar Fozoù",
+                "fr": "Traezh ar Fozoù"
               },
               "tip_5lang": {
                 "de": "Stellen Sie die Heizung hoch, bevor Sie für einen kurzen Strandgang aussteigen; die klare Winterluft macht die Farben der Felsen besonders intensiv.",
                 "hu": "Tekerje fel a fűtést, mielőtt kiszáll egy rövid parti sétára; a tiszta téli levegőben a sziklák színei különösen intenzívnek tűnnek.",
                 "ro": "Porniți căldura la maximum înainte de a coborî pentru o scurtă plimbare; aerul clar de iarnă face culorile stâncilor deosebit de intense.",
-                "en": "Turn up the heater before stepping out for a quick beach stroll; the crisp winter air makes the colors of the rocks appear especially intense."
+                "en": "Turn up the heater before stepping out for a quick beach stroll; the crisp winter air makes the colors of the rocks appear especially intense.",
+                "fr": "Montez le chauffage avant de sortir pour une courte promenade sur la plage ; l'air frais d'hiver intensifie les couleurs des rochers."
               }
             },
             {
@@ -985,13 +1094,15 @@
                 "de": "Port Rhu",
                 "hu": "Port Rhu",
                 "ro": "Port Rhu",
-                "en": "Port Rhu"
+                "en": "Port Rhu",
+                "fr": "Port Rhu"
               },
               "tip_5lang": {
                 "de": "Ein kurzer Stopp bietet großartige Ausblicke auf die Brandung; die salzige Luft im Winter ist gesund, also lüften Sie den Wagen kurz durch.",
                 "hu": "Egy rövid megálló nagyszerű kilátást nyújt a hullámtörésre; a sós téli levegő egészséges, érdemes egy pillanatra átszellőztetni az autót.",
                 "ro": "O scurtă oprire oferă vederi grozave ale valurilor; aerul sărat de iarnă este sănătos, deci aerisiți mașina pentru o clipă.",
-                "en": "A brief stop offers great views of the surf; the salty winter air is healthy, so take a moment to ventilate the car and breathe it in."
+                "en": "A brief stop offers great views of the surf; the salty winter air is healthy, so take a moment to ventilate the car and breathe it in.",
+                "fr": "Un bref arrêt offre de belles vues sur la houle ; l'air salin hivernal est sain, alors aérez un instant la voiture et respirez."
               }
             },
             {
@@ -999,13 +1110,15 @@
                 "de": "Wilde Küste (Côte Sauvage)",
                 "hu": "Vad Part (Côte Sauvage)",
                 "ro": "Coasta Sălbatică (Côte Sauvage)",
-                "en": "Côte Sauvage"
+                "en": "Côte Sauvage",
+                "fr": "Côte Sauvage"
               },
               "tip_5lang": {
                 "de": "Im Winter sind die Parkplätze an der Küstenstraße frei; nutzen Sie die Gelegenheit für Panoramafotos ohne störende andere Fahrzeuge.",
                 "hu": "Télen a parti út menti parkolók szabadok; használja ki az alkalmat panorámafotók készítésére más járművek zavaró jelenléte nélkül.",
                 "ro": "Iarna, parcările de-a lungul drumului de coastă sunt libere; profitați de ocazie pentru fotografii panoramice fără alte vehicule în cadru.",
-                "en": "In winter, the parking lots along the coastal road are empty; take the opportunity for panoramic photos without other vehicles in the way."
+                "en": "In winter, the parking lots along the coastal road are empty; take the opportunity for panoramic photos without other vehicles in the way.",
+                "fr": "En hiver, les parkings le long de la route côtière sont vides ; profitez-en pour faire des photos panoramiques sans autres véhicules."
               }
             },
             {
@@ -1013,13 +1126,15 @@
                 "de": "Schloss Turpault",
                 "hu": "Turpault Kastély",
                 "ro": "Castelul Turpault",
-                "en": "Turpault Castle"
+                "en": "Turpault Castle",
+                "fr": "Château de Turpault"
               },
               "tip_5lang": {
                 "de": "Parken Sie für den Sonnenuntergang; das Schloss reflektiert das orangefarbene Licht der tiefstehenden Wintersonne auf beeindruckende Weise.",
                 "hu": "Parkoljon le a naplementére; a kastély lenyűgöző módon veri vissza az alacsonyan járó téli nap narancssárga fényeit a falakon.",
                 "ro": "Parcați pentru apus; castelul reflectă lumina portocalie a soarelui de iarnă într-un mod impresionant pe zidurile sale.",
-                "en": "Park here for the sunset; the castle reflects the orange light of the low winter sun in an absolutely stunning way."
+                "en": "Park here for the sunset; the castle reflects the orange light of the low winter sun in an absolutely stunning way.",
+                "fr": "Garez-vous ici pour le coucher de soleil ; le château reflète la lumière orangée du soleil bas d'hiver de façon absolument superbe."
               }
             },
             {
@@ -1027,13 +1142,15 @@
                 "de": "Pointe du Conguel",
                 "hu": "Pointe du Conguel",
                 "ro": "Pointe du Conguel",
-                "en": "Pointe du Conguel"
+                "en": "Pointe du Conguel",
+                "fr": "Pointe du Conguel"
               },
               "tip_5lang": {
                 "de": "Der Parkplatz markiert das Ende der Straße; bleiben Sie im Auto, um die Dämmerung über dem Meer zu beobachten, wenn es draußen zu kalt wird.",
                 "hu": "A parkoló jelzi az út végét; maradjon az autóban az alkonyat megfigyeléséhez a tenger felett, ha kint túl hidegre fordulna az idő.",
                 "ro": "Parcarea marchează capătul drumului; rămâneți în mașină pentru a observa amurgul deasupra mării dacă afară devine prea frig.",
-                "en": "The parking lot marks the end of the road; stay in the car to watch the twilight over the sea if it becomes too cold outside."
+                "en": "The parking lot marks the end of the road; stay in the car to watch the twilight over the sea if it becomes too cold outside.",
+                "fr": "Le parking marque la fin de la route ; restez dans la voiture pour regarder le crépuscule sur la mer si le froid devient trop vif dehors."
               }
             }
           ]

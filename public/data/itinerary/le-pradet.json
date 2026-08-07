@@ -21,7 +21,8 @@
             "de": "Cravéro Park",
             "hu": "Cravéro Park",
             "ro": "Parcul Cravéro",
-            "en": "Cravéro Park"
+            "en": "Cravéro Park",
+            "fr": "Cravéro Park"
           },
           "coords": [
             6.02074,
@@ -36,7 +37,8 @@
             "de": "Beginnen Sie Ihren Morgen in diesem üppigen Park und genießen Sie die mediterrane Flora, aber vergessen Sie nicht, einen Kaffee aus einer nahegelegenen Bäckerei mitzubringen.",
             "hu": "Kezdje a reggelt ebben a buja központi parkban, és élvezze a mediterrán növényvilágot, de ne felejtsen el magával hozni egy kávét a közeli pékségből a botanikai bemutatókhoz.",
             "ro": "Începeți dimineața în acest parc central luxuriant și admirați flora mediteraneană, dar nu uitați să aduceți o cafea de la o brutărie din apropiere pentru a o savura aici.",
-            "en": "Start your morning at this lush central park and enjoy the Mediterranean flora, but remember to bring a coffee from a nearby bakery to sip by the botanical displays."
+            "en": "Start your morning at this lush central park and enjoy the Mediterranean flora, but remember to bring a coffee from a nearby bakery to sip by the botanical displays.",
+            "fr": "Commencez votre matinée dans ce parc central luxuriant et profitez de la flore méditerranéenne, mais pensez à prendre un café dans une boulangerie voisine à siroter près des présentations botaniques."
           }
         },
         {
@@ -44,7 +46,8 @@
             "de": "Plage du Monaco",
             "hu": "Monaco Strand",
             "ro": "Plaja Monaco",
-            "en": "Monaco Beach"
+            "en": "Monaco Beach",
+            "fr": "Plage de Monaco"
           },
           "coords": [
             6.013765,
@@ -59,7 +62,8 @@
             "de": "Entspannen Sie an diesem malerischen Sandstrand umgeben von Pinien und kommen Sie früh, um sich einen guten Platz am Wasser vor dem Nachmittagsansturm zu sichern.",
             "hu": "Pihenjen ezen a festői, mandulafenyőkkel körülvett homokos strandon, és érkezzen korán, hogy jó helyet biztosítson magának a vízparton a délutáni tömeg előtt.",
             "ro": "Relaxați-vă pe această plajă pitorească de nisip înconjurată de pini și ajungeți devreme pentru a vă asigura un loc bun lângă apă înainte de aglomerația de după-amiază.",
-            "en": "Relax on this picturesque sandy beach surrounded by umbrella pines, and arrive early to secure a good spot near the water before the afternoon crowds descend."
+            "en": "Relax on this picturesque sandy beach surrounded by umbrella pines, and arrive early to secure a good spot near the water before the afternoon crowds descend.",
+            "fr": "Détendez-vous sur cette plage de sable pittoresque entourée de pins parasols et arrivez tôt pour vous assurer une bonne place près de l'eau avant l'arrivée des foules l'après‑midi."
           }
         },
         {
@@ -67,7 +71,8 @@
             "de": "Plage des Bonnettes",
             "hu": "Bonnettes Strand",
             "ro": "Plaja Bonnettes",
-            "en": "Bonnettes Beach"
+            "en": "Bonnettes Beach",
+            "fr": "Plage des Bonnettes"
           },
           "coords": [
             6.01861,
@@ -82,7 +87,8 @@
             "de": "Entdecken Sie diese charmante Bucht mit kristallklarem Wasser, das sich perfekt für ein schnelles Bad eignet, und packen Sie Badeschuhe ein, da das Ufer teilweise steinig ist.",
             "hu": "Fedezze fel ezt a kristálytiszta vizű, egy gyors csobbanásra tökéletes hangulatos öblöt, és vigyen magával vizicipőt, mivel a part bizonyos részeken kissé sziklás lehet.",
             "ro": "Descoperiți acest golf fermecător cu ape cristaline perfect pentru o baie rapidă și aduceți încălțăminte de apă, deoarece țărmul poate fi ușor stâncos în anumite zone.",
-            "en": "Discover this charming cove with crystal-clear waters perfect for a quick dip, and pack water shoes as the shoreline can be slightly rocky in certain areas."
+            "en": "Discover this charming cove with crystal-clear waters perfect for a quick dip, and pack water shoes as the shoreline can be slightly rocky in certain areas.",
+            "fr": "Découvrez cette crique charmante aux eaux cristallines, idéale pour une baignade rapide ; prévoyez des chaussures d'eau car le rivage peut être un peu rocheux par endroits."
           }
         },
         {
@@ -90,7 +96,8 @@
             "de": "Garonne Strand",
             "hu": "Garonne Strand",
             "ro": "Plaja Garonne",
-            "en": "Garonne Beach"
+            "en": "Garonne Beach",
+            "fr": "Plage de la Garonne"
           },
           "coords": [
             6.0245,
@@ -105,7 +112,8 @@
             "de": "Schlendern Sie diesen familienfreundlichen Küstenabschnitt mit seinen ruhigen Wellen entlang, wo das Mieten eines Paddleboards eine fantastische Möglichkeit bietet, die Buchten zu erkunden.",
             "hu": "Sétáljon végig ezen a nyugodt hullámairól ismert, családbarát partszakaszon, ahol a paddleboard bérlés fantasztikus lehetőséget kínál a közeli öblök felfedezésére.",
             "ro": "Plimbați-vă de-a lungul acestei coaste ideale pentru familii, cunoscută pentru valurile sale calme, unde închirierea unei plăci de paddleboard este o opțiune excelentă.",
-            "en": "Stroll along this family-friendly stretch of coastline known for its calm waves, where renting a paddleboard offers a fantastic way to explore the nearby coves."
+            "en": "Stroll along this family-friendly stretch of coastline known for its calm waves, where renting a paddleboard offers a fantastic way to explore the nearby coves.",
+            "fr": "Promenez‑vous le long de cet itinéraire côtier familial connu pour ses vagues calmes ; la location d'un paddle est un excellent moyen d'explorer les criques voisines."
           }
         },
         {
@@ -113,7 +121,8 @@
             "de": "Forever Bereich",
             "hu": "Forever Pihenő",
             "ro": "Zona Forever",
-            "en": "Forever"
+            "en": "Forever",
+            "fr": "Pour Toujours"
           },
           "coords": [
             6.03829,
@@ -128,7 +137,8 @@
             "de": "Lassen Sie Ihren Tag in diesem einladenden Familienbereich mit viel Platz zum Entspannen ausklingen, ideal, um ein leichtes Picknick in der milden Abendbrise zu genießen.",
             "hu": "Zárja a napot ezen a barátságos, tágas, családcentrikus területen, amely ideális egy könnyű piknikhez, miközben élvezi az enyhe esti szellőt és a nyugalmat.",
             "ro": "Încheiați ziua în această zonă primitoare pentru familii, cu spațiu amplu pentru relaxare, ideală pentru a aduce un picnic ușor și a vă bucura de briza blândă a serii.",
-            "en": "Conclude your day at this welcoming family-oriented area with ample space to relax, making it ideal to bring a light picnic to enjoy the mild evening breeze."
+            "en": "Conclude your day at this welcoming family-oriented area with ample space to relax, making it ideal to bring a light picnic to enjoy the mild evening breeze.",
+            "fr": "Concluez votre journée dans ce secteur accueillant et familial offrant amplement d'espace pour se détendre — parfait pour apporter un petit pique‑nique et profiter de la douce brise du soir."
           }
         }
       ],
@@ -136,7 +146,8 @@
         "de": "Der Morgen beginnt im lebhaften Zentrum der Stadt, wo Sie das üppige Grün erkunden. Mittags laden versteckte Sandbuchten zum Entspannen an sanften Wellen ein. Der Nachmittag ist ein malerischer Spaziergang entlang einer familienfreundlichen Küste mit erfrischender Meeresbrise. Der Abend endet an einem einladenden Ort, ideal für ein Picknick bei Sonnenuntergang.",
         "hu": "A reggel a város élénk szívében kezdődik, felfedezve a zöld növényzetet a tengerpart felé vezető úton. A dél elrejtett homokos öblökbe hívogat pihenni a lágy hullámok mellett. A délután egy festői séta egy családbarát partszakaszon, frissítő tengeri szellővel. Az este egy barátságos helyen ér véget, amely tökéletes egy naplementés piknikhez.",
         "ro": "Dimineața începe în inima vibrantă a orașului, explorând verdeața înainte de a vă îndrepta spre coastă. La prânz veți descoperi golfuri ascunse de nisip și vă veți relaxa. După-amiaza este o plimbare pitorească de-a lungul unei coaste pentru familii, cu o briză răcoroasă de mare. Seara se încheie într-un loc primitor, perfect pentru un picnic la apus.",
-        "en": "Morning begins in the vibrant heart of the town, exploring lush greenery before heading toward the coast. Midday invites you to discover hidden sandy coves and relax by the gentle waves. The afternoon is a picturesque stroll along a family-friendly shoreline with refreshing sea breezes. Evening wraps up at a welcoming spot perfect for a sunset picnic and quiet reflection."
+        "en": "Morning begins in the vibrant heart of the town, exploring lush greenery before heading toward the coast. Midday invites you to discover hidden sandy coves and relax by the gentle waves. The afternoon is a picturesque stroll along a family-friendly shoreline with refreshing sea breezes. Evening wraps up at a welcoming spot perfect for a sunset picnic and quiet reflection.",
+        "fr": "La matinée commence au cœur vibrant de la ville, à explorer la verdure luxuriante avant de se diriger vers la côte. Le milieu de journée vous invite à découvrir des criques sablonneuses cachées et à vous détendre près des vagues douces. L'après‑midi est une promenade pittoresque le long d'un littoral familial avec des brises marines rafraîchissantes. Le soir se termine dans un endroit accueillant, parfait pour un pique‑nique au coucher du soleil et un moment de calme."
       },
       "variants": {
         "rainy": {
@@ -144,7 +155,8 @@
             "de": "Der Morgen im Cravéro Park ist erfrischend regnerisch, doch die Wege können rutschig sein. Mittags zeigen sich der Monaco und Bonnettes Strand von ihrer wilden Seite; Felsen bieten hier Schutz vor Schauern. Nachmittags beeindruckt die Brandung am Garonne Strand besonders bei grauem Himmel. Abends weht am Forever-Bereich eine kräftige Meeresbrise, weshalb wetterfeste Kleidung unerlässlich bleibt.",
             "hu": "Reggel a Cravéro Park dús növényzete közt az eső illata frissítő, de a kerti utak csúszósak lehetnek. Délben a Monaco és Bonnettes strandok vadregényes, borús arcukat mutatják, ahol a sziklák alatt találhatunk menedéket. Délután a Garonne-parton a hullámverés látványa lenyűgöző esőben is. Estére a Forever pihenőnél a tengeri szél felerősödik, érdemes vízhatlan öltözetben maradni.",
             "ro": "Dimineața în Parcul Cravéro oferă un aer proaspăt după ploaie, dar aleile pot fi alunecoase. La prânz, plajele Monaco și Bonnettes își dezvăluie latura sălbatică sub cerul gri; stâncile oferă adăpost temporar. După-amiaza, valurile de la plaja Garonne sunt spectaculoase pe timp de ploaie. Seara, în zona Forever, vântul marin se intensifică, deci purtați haine impermeabile pentru confort.",
-            "en": "Morning in Cravéro Park offers a fresh scent of rain amidst lush greenery, but paths can be slippery. By noon, Monaco and Bonnettes beaches show their wild, moody side, where cliffs provide some shelter. Afternoon at Garonne beach is spectacular with crashing waves. For evening, the Forever area feels the rising sea breeze, so keep your waterproof gear handy for the walk back."
+            "en": "Morning in Cravéro Park offers a fresh scent of rain amidst lush greenery, but paths can be slippery. By noon, Monaco and Bonnettes beaches show their wild, moody side, where cliffs provide some shelter. Afternoon at Garonne beach is spectacular with crashing waves. For evening, the Forever area feels the rising sea breeze, so keep your waterproof gear handy for the walk back.",
+            "fr": "La matinée au parc Cravéro offre un parfum frais de pluie au milieu d'une végétation luxuriante, mais les sentiers peuvent être glissants. À midi, les plages de Monaco et des Bonnettes montrent leur côté sauvage et maussade, où des falaises offrent un certain abri. L'après‑midi à la plage de la Garonne est spectaculaire avec des vagues déferlantes. Pour la soirée, le secteur Pour Toujours ressent la brise montante de la mer, donc gardez votre équipement imperméable pour la marche de retour."
           },
           "stops": [
             {
@@ -152,13 +164,15 @@
                 "de": "Cravéro Park",
                 "hu": "Cravéro Park",
                 "ro": "Parcul Cravéro",
-                "en": "Cravéro Park"
+                "en": "Cravéro Park",
+                "fr": "Parc Cravéro"
               },
               "tip_5lang": {
                 "de": "Spazieren Sie unter den riesigen Platanen, die als natürlicher Regenschutz dienen, aber achten Sie auf dem aufgeweichten Boden unbedingt auf Ihre Trittsicherheit.",
                 "hu": "Sétáljon a hatalmas platánok alatt, melyek természetes esernyőként védenek a szemerkélő esőtől, de vigyázzon a felázott talajon a csúszásveszély miatt.",
                 "ro": "Plimbați-vă sub platanii uriași care servesc drept umbrele naturale împotriva ploii ușoare, dar aveți grijă pe solul umed pentru a evita orice alunecare accidentală.",
-                "en": "Walk beneath the giant plane trees which act as natural umbrellas against light rain, but be careful on the damp soil to avoid slipping during your stroll."
+                "en": "Walk beneath the giant plane trees which act as natural umbrellas against light rain, but be careful on the damp soil to avoid slipping during your stroll.",
+                "fr": "Marchez sous les grands platanes qui font office de parapluies naturels contre la pluie légère, mais faites attention au sol humide pour éviter de glisser pendant votre promenade."
               }
             },
             {
@@ -166,13 +180,15 @@
                 "de": "Plage du Monaco",
                 "hu": "Monaco Strand",
                 "ro": "Plaja Monaco",
-                "en": "Monaco Beach"
+                "en": "Monaco Beach",
+                "fr": "Plage de Monaco"
               },
               "tip_5lang": {
                 "de": "Der steile Abstieg ist bei Nässe sehr rutschig; gehen Sie langsam zu den Klippen, um unter den Überhängen trocken zu bleiben und das tosende Meer zu beobachten.",
                 "hu": "A meredek levezető út esőben különösen csúszós, így lassan ereszkedjen le a sziklákhoz, ahol a behajló kövek alatt szárazon figyelheti a morajló tengert.",
                 "ro": "Poteca abruptă este foarte alunecoasă când este udă, așa că coborâți încet spre stânci, unde puteți găsi locuri uscate sub surplombe pentru a privi marea agitată.",
-                "en": "The steep path down is very slippery when wet, so descend slowly to the cliffs where you can find dry spots under the overhangs to watch the roaring sea."
+                "en": "The steep path down is very slippery when wet, so descend slowly to the cliffs where you can find dry spots under the overhangs to watch the roaring sea.",
+                "fr": "Le chemin raide descendant est très glissant lorsqu'il est mouillé ; descendez lentement vers les falaises où vous trouverez des zones sèches sous les surplombs pour observer la mer rugissante."
               }
             },
             {
@@ -180,13 +196,15 @@
                 "de": "Plage des Bonnettes",
                 "hu": "Bonnettes Strand",
                 "ro": "Plaja Bonnettes",
-                "en": "Bonnettes Beach"
+                "en": "Bonnettes Beach",
+                "fr": "Plage des Bonnettes"
               },
               "tip_5lang": {
                 "de": "Das Prasseln des Regens auf die Kieselsteine wirkt meditativ; bleiben Sie am besten nah an den Felswänden, um vor dem Wind geschützt die Aussicht zu genießen.",
                 "hu": "A köves parton az esőcseppek kopogása meditatív élmény, de javasolt a sziklafalak közelében maradni, ahol a szél kevésbé éri az embert a parti pihenés során.",
                 "ro": "Sunetul ploii pe pietre este o experiență meditativă, dar este recomandat să stați aproape de pereții stâncoși unde vântul este mai puțin tăios în timpul vizitei.",
-                "en": "The sound of rain on the pebbles is a meditative experience, but it is best to stay close to the cliff walls where the wind is less biting during your stay."
+                "en": "The sound of rain on the pebbles is a meditative experience, but it is best to stay close to the cliff walls where the wind is less biting during your stay.",
+                "fr": "Le bruit de la pluie sur les galets est une expérience méditative, mais il est préférable de rester près des parois de la falaise où le vent est moins mordant durant votre halte."
               }
             },
             {
@@ -194,13 +212,15 @@
                 "de": "Garonne Strand",
                 "hu": "Garonne Strand",
                 "ro": "Plaja Garonne",
-                "en": "Garonne Beach"
+                "en": "Garonne Beach",
+                "fr": "Plage de la Garonne"
               },
               "tip_5lang": {
                 "de": "Dieser weitläufige Strand ist bei Regen menschenleer und bietet eine besondere Einsamkeit zur Vogelbeobachtung, sofern Sie feste Gummistiefel und Regenjacke tragen.",
                 "hu": "Ez a tágas strand esőben teljesen elnéptelenedik, ami különleges magányt kínál a sirályok figyeléséhez, feltéve, hogy strapabíró gumicsizmát és esőkabátot visel.",
                 "ro": "Această plajă spațioasă devine complet pustie pe ploaie, oferind o singurătate unică pentru observarea pescărușilor, cu condiția să purtați cizme și pelerină.",
-                "en": "This spacious beach becomes completely deserted in the rain, offering a unique solitude for bird watching, provided you wear sturdy boots and a raincoat."
+                "en": "This spacious beach becomes completely deserted in the rain, offering a unique solitude for bird watching, provided you wear sturdy boots and a raincoat.",
+                "fr": "Cette vaste plage devient complètement déserte sous la pluie, offrant une solitude unique pour l'observation des oiseaux, à condition de porter des bottes solides et un imperméable."
               }
             },
             {
@@ -208,13 +228,15 @@
                 "de": "Forever Bereich",
                 "hu": "Forever Pihenő",
                 "ro": "Zona Forever",
-                "en": "Forever"
+                "en": "Forever",
+                "fr": "Pour Toujours"
               },
               "tip_5lang": {
                 "de": "Am Ende der Wanderung ist dieses offene Gelände den Elementen ausgesetzt; suchen Sie bei starken Windböen Schutz unter Dachvorsprüngen für eine kurze Rast.",
                 "hu": "A séta végén ez a nyitott terület kitéve a tengeri elemeknek, így a viharosabb széllökések elől érdemes a közeli épületek eresze alá húzódni a pihenőhöz.",
                 "ro": "La finalul plimbării, această zonă deschisă este expusă elementelor, așa că căutați adăpost sub streșini dacă rafalele de vânt devin prea puternice în pauză.",
-                "en": "At the end of the walk, this open area is exposed to the elements, so seek shelter under nearby eaves if the wind gusts become too strong during your break."
+                "en": "At the end of the walk, this open area is exposed to the elements, so seek shelter under nearby eaves if the wind gusts become too strong during your break.",
+                "fr": "Au terme de la balade, cette zone ouverte est exposée aux éléments ; cherchez un abri sous des avant‑toits si les rafales de vent deviennent trop fortes pendant votre pause."
               }
             }
           ]
@@ -224,7 +246,8 @@
             "de": "Der Morgen im Cravéro Park beginnt mit frostigem Gras und klarer Luft; warme Schichten sind für den Komfort unerlässlich. Mittags glitzert die Wintersonne am Monaco und Bonnettes Strand, doch der Wind bleibt kühl. Nachmittags werfen die Klippen an der Garonne lange Schatten. Gegen 17:00 Uhr bricht am Forever-Bereich die Dunkelheit herein.",
             "hu": "Reggel a Cravéro Parkban a dérlepte pázsit látványa fogadja, a levegő csípős, így réteges öltözet szükséges. Délben a Monaco és Bonnettes strandokon a téli nap fénye csillog a vízen, de a szél hűvös a nyitott részeken. Délután a Garonne-parton a korai árnyékok már jelzik az alkonyt. Este 17 óra körül a Forever pihenőnél a sötétség gyorsan leszáll.",
             "ro": "Dimineața în Parcul Cravéro vă întâmpină cu iarbă înghețată și aer rece, deci straturile groase sunt esențiale. La prânz, soarele de iarnă strălucește pe mare la Monaco și Bonnettes, deși briza rămâne tăioasă. După-amiaza la Garonne aduce umbre lungi și lumină aurie. Până la ora 17:00, întunericul se lasă rapid la Forever, deci aveți o lanternă.",
-            "en": "Morning in Cravéro Park welcomes you with frosty grass and crisp air, so warm layers are essential for comfort. By noon, the winter sun glitters on the sea at Monaco and Bonnettes, though the breeze remains chilly. Afternoon at Garonne beach features long shadows and golden light. By 17:00, darkness falls quickly at Forever, so ensure you have a light for the return."
+            "en": "Morning in Cravéro Park welcomes you with frosty grass and crisp air, so warm layers are essential for comfort. By noon, the winter sun glitters on the sea at Monaco and Bonnettes, though the breeze remains chilly. Afternoon at Garonne beach features long shadows and golden light. By 17:00, darkness falls quickly at Forever, so ensure you have a light for the return.",
+            "fr": "La matinée au parc Cravéro vous accueille avec de l'herbe givrante et un air vif, donc des couches chaudes sont essentielles pour le confort. À midi, le soleil d'hiver scintille sur la mer à Monaco et aux Bonnettes, bien que la brise reste fraîche. L'après‑midi à la plage de la Garonne offre de longues ombres et une lumière dorée. À 17:00, l'obscurité tombe rapidement à Pour Toujours, pensez donc à emporter une lampe pour le retour."
           },
           "stops": [
             {
@@ -232,13 +255,15 @@
                 "de": "Cravéro Park",
                 "hu": "Cravéro Park",
                 "ro": "Parcul Cravéro",
-                "en": "Cravéro Park"
+                "en": "Cravéro Park",
+                "fr": "Parc Cravéro"
               },
               "tip_5lang": {
                 "de": "An Wintermorgen ist die Stille im Park beeindruckend; genießen Sie die klare Luft zwischen frostigen Zweigen, aber tragen Sie gefütterte Schuhe gegen die Bodenkälte.",
                 "hu": "A téli reggeleken a park csendje lenyűgöző, a fagyos ágak közt sétálva élvezze a friss levegőt, de viseljen bélelt cipőt a hideg talaj elleni védekezésként.",
                 "ro": "În diminețile de iarnă, liniștea parcului este uimitoare; bucurați-vă de aerul proaspăt printre ramurile înghețate, dar purtați încălțăminte izolată pentru căldură.",
-                "en": "In winter mornings, the silence of the park is stunning; enjoy the fresh air among frosty branches, but wear insulated shoes to keep your feet warm on the cold ground."
+                "en": "In winter mornings, the silence of the park is stunning; enjoy the fresh air among frosty branches, but wear insulated shoes to keep your feet warm on the cold ground.",
+                "fr": "Les matins d'hiver, le silence du parc est saisissant ; profitez de l'air frais parmi les branches givrés, mais portez des chaussures isolantes pour garder vos pieds au chaud sur le sol froid."
               }
             },
             {
@@ -246,13 +271,15 @@
                 "de": "Plage du Monaco",
                 "hu": "Monaco Strand",
                 "ro": "Plaja Monaco",
-                "en": "Monaco Beach"
+                "en": "Monaco Beach",
+                "fr": "Plage de Monaco"
               },
               "tip_5lang": {
                 "de": "Die tiefstehende Wintersonne beleuchtet die Klippen wunderschön; suchen Sie sich ein windgeschütztes Plätzchen, um bei der Rast am Strand nicht auszukühlen.",
                 "hu": "A téli nap alacsony szögben világítja meg a sziklákat, csodás fotótémát kínálva, de a szélvédett zugokban telepedjen le, hogy ne hűljön át a tengerparti pihenő alatt.",
                 "ro": "Soarele de iarnă luminează stâncile sub un unghi mic, oferind cadre foto superbe; așezați-vă în locuri ferite de vânt pentru a nu dârdâi de frig în timpul pauzei.",
-                "en": "The winter sun illuminates the cliffs at a low angle, offering great photo opportunities; sit in wind-sheltered spots to stay warm during your beach break."
+                "en": "The winter sun illuminates the cliffs at a low angle, offering great photo opportunities; sit in wind-sheltered spots to stay warm during your beach break.",
+                "fr": "Le soleil d'hiver illumine les falaises à faible angle, offrant de belles opportunités photo ; asseyez‑vous dans des endroits abrités du vent pour rester au chaud pendant votre pause plage."
               }
             },
             {
@@ -260,13 +287,15 @@
                 "de": "Plage des Bonnettes",
                 "hu": "Bonnettes Strand",
                 "ro": "Plaja Bonnettes",
-                "en": "Bonnettes Beach"
+                "en": "Bonnettes Beach",
+                "fr": "Plage des Bonnettes"
               },
               "tip_5lang": {
                 "de": "Der Strand ist nun eine Oase der Ruhe mit klarer Sicht auf ferne Berge; Mütze und Schal sind wegen des schneidenden Meereswindes jedoch absolut erforderlich.",
                 "hu": "Ilyenkor a strand a nyugalom szigete, ahol a hűvös víz morajlása mellett a távoli hegyeket is tisztábban látni, de sapka és sál viselése kötelező a tengeri szél miatt.",
                 "ro": "În această perioadă, plaja este o oază de calm unde puteți vedea clar munții îndepărtați; totuși, căciula și fularul sunt obligatorii împotriva vântului marin.",
-                "en": "At this time, the beach is an oasis of calm where you can see the distant mountains clearly; however, a hat and scarf are mandatory against the biting sea wind."
+                "en": "At this time, the beach is an oasis of calm where you can see the distant mountains clearly; however, a hat and scarf are mandatory against the biting sea wind.",
+                "fr": "À cette période, la plage est une oasis de calme où l'on voit clairement les montagnes au loin ; cependant, un bonnet et une écharpe sont indispensables contre le vent marin mordant."
               }
             },
             {
@@ -274,13 +303,15 @@
                 "de": "Garonne Strand",
                 "hu": "Garonne Strand",
                 "ro": "Plaja Garonne",
-                "en": "Garonne Beach"
+                "en": "Garonne Beach",
+                "fr": "Plage de la Garonne"
               },
               "tip_5lang": {
                 "de": "Im Nachmittagslicht färbt sich das Meer stahlblau und die Küstensteine können durch Frost glatt sein; gehen Sie vorsichtig, wenn Sie direkt ans Wasser treten.",
                 "hu": "A délutáni fényekben a tenger acélkék színt ölt, a parti kövek pedig csúszósak lehetnek a fagytól, így csak óvatosan sétáljon a vízpart közvetlen közelében.",
                 "ro": "În lumina după-amiezii, marea capătă o culoare albastru-oțel, iar pietrele pot fi alunecoase din cauza înghețului, deci mergeți cu mare grijă lângă apă.",
-                "en": "In the afternoon light, the sea turns steel blue and the coastal stones may be slippery from frost, so walk carefully if you approach the water's edge."
+                "en": "In the afternoon light, the sea turns steel blue and the coastal stones may be slippery from frost, so walk carefully if you approach the water's edge.",
+                "fr": "À la lumière de l'après‑midi, la mer prend une teinte bleu acier et les pierres côtières peuvent être glissantes à cause du gel, donc marchez prudemment si vous vous approchez du bord de l'eau."
               }
             },
             {
@@ -288,13 +319,15 @@
                 "de": "Forever Bereich",
                 "hu": "Forever Pihenő",
                 "ro": "Zona Forever",
-                "en": "Forever"
+                "en": "Forever",
+                "fr": "Pour Toujours"
               },
               "tip_5lang": {
                 "de": "Nach Sonnenuntergang sinkt die Temperatur rapide; nehmen Sie eine Thermoskanne mit heißem Tee mit, bevor Sie in der Dunkelheit den Rückweg zum Hotel antreten.",
                 "hu": "A naplemente után a hőmérséklet gyorsan zuhan, így az utolsó megállónál már érdemes egy termosz meleg teával készülni, mielőtt a sötétben visszaindulna a szállásra.",
                 "ro": "După apus, temperatura scade rapid, așa că aduceți un termos cu ceai fierbinte la această ultimă oprire înainte de a vă întoarce spre cazare prin întuneric.",
-                "en": "After sunset, the temperature drops rapidly, so bring a thermos of hot tea to this final stop before heading back to your accommodation in the gathering dark."
+                "en": "After sunset, the temperature drops rapidly, so bring a thermos of hot tea to this final stop before heading back to your accommodation in the gathering dark.",
+                "fr": "Après le coucher du soleil, la température chute rapidement ; apportez un thermos de thé chaud pour cet arrêt final avant de retourner à votre hébergement dans l'obscurité grandissante."
               }
             }
           ]
@@ -314,7 +347,8 @@
             "de": "Cravéro Park",
             "hu": "Cravéro Park",
             "ro": "Parcul Cravéro",
-            "en": "Cravéro Park"
+            "en": "Cravéro Park",
+            "fr": "Parc Cravéro"
           },
           "coords": [
             6.02074,
@@ -329,7 +363,8 @@
             "de": "Beginnen Sie Ihren Morgen in diesem üppigen Park und genießen Sie die mediterrane Flora, aber vergessen Sie nicht, einen Kaffee aus einer nahegelegenen Bäckerei mitzubringen.",
             "hu": "Kezdje a reggelt ebben a buja központi parkban, és élvezze a mediterrán növényvilágot, de ne felejtsen el magával hozni egy kávét a közeli pékségből a botanikai bemutatókhoz.",
             "ro": "Începeți dimineața în acest parc central luxuriant și admirați flora mediteraneană, dar nu uitați să aduceți o cafea de la o brutărie din apropiere pentru a o savura aici.",
-            "en": "Start your morning at this lush central park and enjoy the Mediterranean flora, but remember to bring a coffee from a nearby bakery to sip by the botanical displays."
+            "en": "Start your morning at this lush central park and enjoy the Mediterranean flora, but remember to bring a coffee from a nearby bakery to sip by the botanical displays.",
+            "fr": "Commencez votre matinée dans ce parc central luxuriant et profitez de la flore méditerranéenne ; n'oubliez pas d'apporter un café d'une boulangerie voisine à siroter près des présentations botaniques."
           }
         },
         {
@@ -337,7 +372,8 @@
             "de": "Plage du Pin de Galle",
             "hu": "Pin de Galle Strand",
             "ro": "Plaja Pin de Galle",
-            "en": "Pin de Galle Beach"
+            "en": "Pin de Galle Beach",
+            "fr": "Plage du Pin de Galle"
           },
           "coords": [
             6.006242,
@@ -352,7 +388,8 @@
             "de": "Bewundern Sie die bunten Fischerhütten, die sich an die Klippen dieser authentischen Bucht klammern, aber tragen Sie feste Schuhe für den steilen Zugangsweg zum Wasser.",
             "hu": "Csodálja meg a sziklákhoz tapadó színes halászkunyhókat ebben az autentikus öbölben, de viseljen erős cipőt a vízhez vezető meredek lejárati út miatt.",
             "ro": "Admirați cabanele colorate de pescari agățate de stânci în acest golf autentic, dar purtați încălțăminte rezistentă pentru calea de acces abruptă care coboară spre apă.",
-            "en": "Admire the colorful fishermen's cabins clinging to the cliffs at this authentic cove, but wear sturdy shoes for the steep access path leading down to the water."
+            "en": "Admire the colorful fishermen's cabins clinging to the cliffs at this authentic cove, but wear sturdy shoes for the steep access path leading down to the water.",
+            "fr": "Admirez les cabanes de pêcheurs colorées accrochées aux falaises dans cette crique authentique, mais portez des chaussures robustes pour le sentier d'accès escarpé menant à l'eau."
           }
         },
         {
@@ -360,7 +397,8 @@
             "de": "Plage du Monaco",
             "hu": "Monaco Strand",
             "ro": "Plaja Monaco",
-            "en": "Monaco Beach"
+            "en": "Monaco Beach",
+            "fr": "Plage de Monaco"
           },
           "coords": [
             6.013765,
@@ -375,7 +413,8 @@
             "de": "Entspannen Sie an diesem malerischen Sandstrand umgeben von Pinien und kommen Sie früh, um sich einen guten Platz am Wasser vor dem Nachmittagsansturm zu sichern.",
             "hu": "Pihenjen ezen a festői, mandulafenyőkkel körülvett homokos strandon, és érkezzen korán, hogy jó helyet biztosítson magának a vízparton a délutáni tömeg előtt.",
             "ro": "Relaxați-vă pe această plajă pitorească de nisip înconjurată de pini și ajungeți devreme pentru a vă asigura un loc bun lângă apă înainte de aglomerația de după-amiază.",
-            "en": "Relax on this picturesque sandy beach surrounded by umbrella pines, and arrive early to secure a good spot near the water before the afternoon crowds descend."
+            "en": "Relax on this picturesque sandy beach surrounded by umbrella pines, and arrive early to secure a good spot near the water before the afternoon crowds descend.",
+            "fr": "Détendez‑vous sur cette plage de sable pittoresque entourée de pins parasols et arrivez tôt pour vous assurer une bonne place près de l'eau avant l'arrivée des foules l'après‑midi."
           }
         },
         {
@@ -383,7 +422,8 @@
             "de": "Garonne Strand",
             "hu": "Garonne Strand",
             "ro": "Plaja Garonne",
-            "en": "Garonne Beach"
+            "en": "Garonne Beach",
+            "fr": "Plage de la Garonne"
           },
           "coords": [
             6.0245,
@@ -398,7 +438,8 @@
             "de": "Schlendern Sie diesen familienfreundlichen Küstenabschnitt mit seinen ruhigen Wellen entlang, wo das Mieten eines Paddleboards eine fantastische Möglichkeit bietet, die Buchten zu erkunden.",
             "hu": "Sétáljon végig ezen a nyugodt hullámairól ismert, családbarát partszakaszon, ahol a paddleboard bérlés fantasztikus lehetőséget kínál a közeli öblök felfedezésére.",
             "ro": "Plimbați-vă de-a lungul acestei coaste ideale pentru familii, cunoscută pentru valurile sale calme, unde închirierea unei plăci de paddleboard este o opțiune excelentă.",
-            "en": "Stroll along this family-friendly stretch of coastline known for its calm waves, where renting a paddleboard offers a fantastic way to explore the nearby coves."
+            "en": "Stroll along this family-friendly stretch of coastline known for its calm waves, where renting a paddleboard offers a fantastic way to explore the nearby coves.",
+            "fr": "Promenez‑vous le long de cet itinéraire côtier familial connu pour ses vagues calmes ; la location d'un paddle est un excellent moyen d'explorer les criques voisines."
           }
         },
         {
@@ -406,7 +447,8 @@
             "de": "Plage des Oursinières",
             "hu": "Oursinières Strand",
             "ro": "Plaja Oursinières",
-            "en": "Oursinières Beach"
+            "en": "Oursinières Beach",
+            "fr": "Plage des Oursinières"
           },
           "coords": [
             6.021539,
@@ -421,7 +463,8 @@
             "de": "Beobachten Sie die Boote im kleinen Hafen neben dem Strand und probieren Sie eines der lokalen Hafenbistros für ein erfrischendes Getränk und frische Meeresfrüchte.",
             "hu": "Figyelje a csónakokat a strand melletti kis kikötőben, és próbálja ki a kikötői bisztrók egyikét egy frissítő ital és frissen fogott tengeri herkentyűk erejéig.",
             "ro": "Urmăriți bărcile în micul port adiacent plajei și încercați unul dintre bistrourile locale din port pentru o băutură răcoritoare și fructe de mare proaspete.",
-            "en": "Watch the boats bob in the small harbor adjacent to the beach, and try one of the local portside bistros for a refreshing drink and freshly caught seafood."
+            "en": "Watch the boats bob in the small harbor adjacent to the beach, and try one of the local portside bistros for a refreshing drink and freshly caught seafood.",
+            "fr": "Observez les bateaux qui tanguent dans le petit port adjacent à la plage et essayez l'un des bistros portuaires locaux pour une boisson rafraîchissante et des fruits de mer fraîchement pêchés."
           }
         },
         {
@@ -429,7 +472,8 @@
             "de": "Cap Garonne Mine",
             "hu": "Cap Garonne Bánya",
             "ro": "Mina Cap Garonne",
-            "en": "Cap Garonne Mine"
+            "en": "Cap Garonne Mine",
+            "fr": "Mine du Cap Garonne"
           },
           "coords": [
             6.032422,
@@ -444,7 +488,8 @@
             "de": "Tauchen Sie in die faszinierende unterirdische Welt dieser ehemaligen Kupfermine ein und bringen Sie unbedingt eine leichte Jacke mit, da es unter Tage ganzjährig kühl ist.",
             "hu": "Merüljön el az egykori rézbánya lenyűgöző földalatti világában, és mindenképpen vigyen magával egy könnyű kabátot, mivel a föld alatti hőmérséklet egész évben hűvös.",
             "ro": "Explorați lumea subterană fascinantă a acestei foste mine de cupru și asigurați-vă că aduceți o jachetă ușoară, deoarece temperaturile subterane rămân răcoroase tot anul.",
-            "en": "Delve into the fascinating underground world of this former copper mine, and definitely bring a light jacket as the subterranean temperatures remain remarkably cool year-round."
+            "en": "Delve into the fascinating underground world of this former copper mine, and definitely bring a light jacket as the subterranean temperatures remain remarkably cool year-round.",
+            "fr": "Plongez dans l'univers souterrain fascinant de cette ancienne mine de cuivre et n'oubliez pas une veste légère, car la température souterraine reste remarquablement fraîche toute l'année."
           }
         },
         {
@@ -452,7 +497,8 @@
             "de": "Fort de la Gavaresse",
             "hu": "Gavaresse Erőd",
             "ro": "Fortul Gavaresse",
-            "en": "Fort of Gavaresse"
+            "en": "Fort of Gavaresse",
+            "fr": "Fort de Gavaresse"
           },
           "coords": [
             6.040134,
@@ -467,7 +513,8 @@
             "de": "Steigen Sie zu dieser historischen Küstenverteidigungsanlage hinauf, um einen weiten Panoramablick auf das Mittelmeer zu genießen, und halten Sie Ihre Kamera bereit.",
             "hu": "Másszon fel ehhez a történelmi partvédelmi építményhez, ahonnan elsöprő panoráma nyílik a Földközi-tengerre, és győződjön meg róla, hogy a fényképezőgépe fel van töltve.",
             "ro": "Urcați la această structură istorică de apărare a coastei pentru a admira priveliști panoramice ample asupra Mediteranei, asigurându-vă că aparatul foto este încărcat.",
-            "en": "Climb up to this historic coastal defense structure for sweeping panoramic views of the Mediterranean, ensuring your camera is fully charged for the spectacular vantage points."
+            "en": "Climb up to this historic coastal defense structure for sweeping panoramic views of the Mediterranean, ensuring your camera is fully charged for the spectacular vantage points.",
+            "fr": "Montez jusqu'à cette structure historique de défense côtière pour des vues panoramiques sur la Méditerranée ; assurez‑vous que votre appareil photo est entièrement chargé pour ces points de vue spectaculaires."
           }
         }
       ],
@@ -475,7 +522,8 @@
         "de": "Ihre Fahrt beginnt mit einem ruhigen Parkbesuch, bevor Sie zu den Klippen und Fischerhütten hinabgleiten. Mittags radeln Sie von einem malerischen Strand zu einer natürlichen Bucht. Am Nachmittag erkunden Sie einen kleinen Hafen und eine beeindruckende historische Kupfermine. Der Tag endet auf einer Küstenfestung mit unvergesslichem Sonnenuntergang.",
         "hu": "A túra egy nyugodt parklátogatással indul, majd leereszkedik a sziklákhoz tapadó halászkunyhókhoz. Délben egy fenyőkkel szegélyezett strandról egy természetes öbölbe teker. Délután egy kis kikötőt és egy lenyűgöző történelmi rézbányát fedez fel. A nap egy tengerparti erődítményen ér véget, felejthetetlen tengeri naplementével.",
         "ro": "Plimbarea începe cu o vizită calmă în parc, coborând apoi spre cabanele pescarilor. La prânz veți pedala de la o plajă pitorească flancată de pini la un golf natural. După-amiaza veți explora un mic port și o impresionantă mină istorică de cupru. Ziua se încheie pe o fortăreață de coastă, cu vederi de neuitat ale apusului pe mare.",
-        "en": "Your ride starts with a calm park visit before gliding down to authentic fishermen’s cabins clinging to the cliffs. Midday sees you pedaling from a scenic pine-fringed beach to a tranquil natural bay. By afternoon, you will explore a small harbor and an impressive historic copper mine. The day concludes atop a coastal fortress with unforgettable sunset views over the sea."
+        "en": "Your ride starts with a calm park visit before gliding down to authentic fishermen’s cabins clinging to the cliffs. Midday sees you pedaling from a scenic pine-fringed beach to a tranquil natural bay. By afternoon, you will explore a small harbor and an impressive historic copper mine. The day concludes atop a coastal fortress with unforgettable sunset views over the sea.",
+        "fr": "Votre balade commence par une visite calme du parc avant de descendre vers de véritables cabanes de pêcheurs accrochées aux falaises. À midi, vous pédalerez d'une plage bordée de pins vers une baie naturelle tranquille. L'après‑midi vous permettra d'explorer un petit port et une impressionnante ancienne mine de cuivre. La journée se conclut au sommet d'une forteresse côtière avec des couchers de soleil inoubliables sur la mer."
       },
       "variants": {
         "rainy": {
@@ -483,7 +531,8 @@
             "de": "Morgendliches Radfahren erfordert Schutzbleche auf dem Weg zum Cravéro Park. Vormittags sind die Wege zum Pin de Galle und Monaco Strand bei Regen steil und rutschig. Mittags vermischt sich an der Garonne Gischt mit Regen – ein erfrischendes Erlebnis. Nachmittags bieten die Wege zur Mine mehr Schutz. Abends versinkt das Fort Gavaresse im Nebel; nutzen Sie helle Fahrradleuchten.",
             "hu": "Reggel a bicikliutakon a sárvisszaverők elengedhetetlenek a Cravéro Park felé. Délelőtt a Pin de Galle és Monaco strandokhoz vezető utak meredekek és csúszósak lehetnek az esőben. Délben a Garonne-parton a sós pára keveredik az esővel, frissítő élmény. Délután az Oursinières és a bánya felé a belső utak védettebbek. Estére a Gavaresse erőd sziluettje ködbe vész.",
             "ro": "Ciclismul de dimineață necesită apărători de noroi spre Parcul Cravéro prin ploaie. Înainte de prânz, potecile spre Pin de Galle și Monaco pot fi abrupte și alunecoase. La amiază, vaporii sărați se amestecă cu ploaia la plaja Garonne pentru o tură revigorantă. Traseele de după-amiază spre mină sunt mai adăpostite. Seara, Fortul Gavaresse dispare în ceață, deci folosiți lumini puternice.",
-            "en": "Morning cycling requires mudguards as you head towards Cravéro Park through the rain. Before noon, paths to Pin de Galle and Monaco can be steep and slippery. At midday, the sea spray mixes with rain at Garonne beach for a refreshing ride. Afternoon routes to Oursinières and the mine are more sheltered. By evening, Fort Gavaresse fades into the mist, so use bright bike lights."
+            "en": "Morning cycling requires mudguards as you head towards Cravéro Park through the rain. Before noon, paths to Pin de Galle and Monaco can be steep and slippery. At midday, the sea spray mixes with rain at Garonne beach for a refreshing ride. Afternoon routes to Oursinières and the mine are more sheltered. By evening, Fort Gavaresse fades into the mist, so use bright bike lights.",
+            "fr": "Le matin, le vélo nécessite des garde‑boue en traversant le parc Cravéro sous la pluie. Avant midi, les chemins vers le Pin de Galle et Monaco peuvent être raides et glissants. À midi, les embruns se mêlent à la pluie à la plage de la Garonne pour une balade revigorante. Les itinéraires de l'après‑midi vers les Oursinières et la mine sont plus abrités. Le soir, le Fort de Gavaresse se dissout dans la brume, utilisez donc des lumières vélo puissantes."
           },
           "stops": [
             {
@@ -491,13 +540,15 @@
                 "de": "Cravéro Park",
                 "hu": "Cravéro Park",
                 "ro": "Parcul Cravéro",
-                "en": "Cravéro Park"
+                "en": "Cravéro Park",
+                "fr": "Parc Cravéro"
               },
               "tip_5lang": {
                 "de": "Der Bremsweg verlängert sich auf nassem Asphalt; halten Sie auf den Parkwegen mehr Abstand und genießen Sie den teilweisen Schutz durch das dichte Blätterdach.",
                 "hu": "A nedves aszfalton a fékút meghosszabbodik, így tartson nagyobb követési távolságot a parkon belüli utakon, és élvezze a fák nyújtotta részleges védelmet az eső elől.",
                 "ro": "Distanța de frânare crește pe asfaltul ud, deci păstrați o distanță sigură pe aleile parcului și bucurați-vă de protecția parțială oferită de baldachinul dens de copaci.",
-                "en": "Braking distance increases on wet asphalt, so keep a safe distance on the park paths and enjoy the partial protection provided by the dense tree canopy above."
+                "en": "Braking distance increases on wet asphalt, so keep a safe distance on the park paths and enjoy the partial protection provided by the dense tree canopy above.",
+                "fr": "La distance de freinage augmente sur l'asphalte mouillé ; gardez une distance de sécurité sur les sentiers du parc et profitez de la protection partielle offerte par le dense couvert d'arbres."
               }
             },
             {
@@ -505,13 +556,15 @@
                 "de": "Plage du Pin de Galle",
                 "hu": "Pin de Galle Strand",
                 "ro": "Plaja Pin de Galle",
-                "en": "Pin de Galle Beach"
+                "en": "Pin de Galle Beach",
+                "fr": "Plage du Pin de Galle"
               },
               "tip_5lang": {
                 "de": "Die Küstenabfahrt kann bei Regen tückisch sein; schalten Sie in Kurven herunter und suchen Sie am Strand einen überdachten Platz, um die Brandung sicher zu beobachten.",
                 "hu": "A tengerparti lejtő esőben trükkös lehet, váltson alacsonyabb sebességre a kanyarokban, és a parton keressen fedett helyet a hullámok látványának biztonságos élvezetéhez.",
                 "ro": "Coborârea spre coastă poate fi dificilă pe ploaie, așa că folosiți o viteză inferioară în curbe și căutați un loc acoperit pe plajă pentru a vedea valurile în siguranță.",
-                "en": "The coastal descent can be tricky in the rain, so shift to a lower gear in corners and look for a covered spot on the beach to safely watch the waves crashing."
+                "en": "The coastal descent can be tricky in the rain, so shift to a lower gear in corners and look for a covered spot on the beach to safely watch the waves crashing.",
+                "fr": "La descente côtière peut être délicate sous la pluie ; passez une vitesse plus basse dans les virages et cherchez un abri couvert sur la plage pour observer les vagues en toute sécurité."
               }
             },
             {
@@ -519,13 +572,15 @@
                 "de": "Plage du Monaco",
                 "hu": "Monaco Strand",
                 "ro": "Plaja Monaco",
-                "en": "Monaco Beach"
+                "en": "Monaco Beach",
+                "fr": "Plage de Monaco"
               },
               "tip_5lang": {
                 "de": "Stellen Sie Ihr Rad an einem stabilen Ort ab, da es auf weichem Boden umkippen könnte; unter den Klippen finden Sie trockene Stellen für eine Pause nach der Fahrt.",
                 "hu": "A kerékpárt hagyja biztonságos, stabil helyen, mert a felázott talajon eldőlhet, a sziklák alatt pedig találhat olyan pontot, ahol szárazon pihenhet meg a tekerés után.",
                 "ro": "Lăsați bicicleta într-un loc stabil, deoarece s-ar putea răsturna pe solul moale; sub stânci veți găsi zone uscate pentru a vă odihni după sesiunea de ciclism ud.",
-                "en": "Leave your bike in a stable spot as it might tip over on softened ground; under the cliffs, you will find dry areas to rest after your wet cycling session."
+                "en": "Leave your bike in a stable spot as it might tip over on softened ground; under the cliffs, you will find dry areas to rest after your wet cycling session.",
+                "fr": "Laissez votre vélo dans un endroit stable car il peut basculer sur le sol ramolli ; sous les falaises, vous trouverez des zones sèches pour vous reposer après votre séance de vélo sous la pluie."
               }
             },
             {
@@ -533,13 +588,15 @@
                 "de": "Garonne Strand",
                 "hu": "Garonne Strand",
                 "ro": "Plaja Garonne",
-                "en": "Garonne Beach"
+                "en": "Garonne Beach",
+                "fr": "Plage de la Garonne"
               },
               "tip_5lang": {
                 "de": "Am weiten Strand weht der Wind bei Regen stärker, was das Treten erschwert; lehnen Sie sich tief über den Lenker und tragen Sie windfeste, wasserdichte Kleidung.",
                 "hu": "A széles parton a szél erősebben fújhat esőben, ami nehezíti a haladást, ezért hajoljon mélyebbre a kormány fölé, és viseljen szélálló, vízhatlan felsőt a kényelemért.",
                 "ro": "Vântul bate mai tare pe plaja lată în timpul ploii, îngreunând pedalarea, așa că aplecați-vă peste ghidon și purtați o jachetă impermeabilă și rezistentă la vânt.",
-                "en": "The wind blows harder on the wide beach during rain, making cycling difficult, so lean low over the bars and wear a windproof, waterproof top for comfort."
+                "en": "The wind blows harder on the wide beach during rain, making cycling difficult, so lean low over the bars and wear a windproof, waterproof top for comfort.",
+                "fr": "Le vent souffle plus fort sur la grande plage par temps de pluie, rendant le cyclisme difficile ; penchez‑vous bas sur le guidon et portez un vêtement coupe‑vent et imperméable pour plus de confort."
               }
             },
             {
@@ -547,13 +604,15 @@
                 "de": "Plage des Oursinières",
                 "hu": "Oursinières Strand",
                 "ro": "Plaja Oursinières",
-                "en": "Oursinières Beach"
+                "en": "Oursinières Beach",
+                "fr": "Plage des Oursinières"
               },
               "tip_5lang": {
                 "de": "Betonflächen am Hafen sind bei Nässe sehr glatt; schieben Sie Ihr Rad zum Ufer und suchen Sie unter den Dachvorsprüngen der Bootshäuser Schutz vor dem Schauer.",
                 "hu": "A kikötő melletti betonfelületek esőben nagyon csúszósak, így a biciklit tolva közelítse meg a partot, ahol a csónakházak eresze alatt találhat menedéket a zápor elől.",
                 "ro": "Suprafețele de beton de lângă port sunt foarte alunecoase, așa că împingeți bicicleta spre mal și căutați adăpost sub streșinile hangarelor de bărci în timpul ploii.",
-                "en": "Concrete surfaces near the harbor are very slippery when wet, so push your bike to the shore and seek shelter under the eaves of boat houses during the downpour."
+                "en": "Concrete surfaces near the harbor are very slippery when wet, so push your bike to the shore and seek shelter under the eaves of boat houses during the downpour.",
+                "fr": "Les surfaces en béton près du port sont très glissantes quand elles sont mouillées ; poussez votre vélo jusqu'au rivage et cherchez un abri sous les avant‑toits des cabanes de bateau pendant l'averse."
               }
             },
             {
@@ -561,13 +620,15 @@
                 "de": "Cap Garonne Mine",
                 "hu": "Cap Garonne Bánya",
                 "ro": "Mina Cap Garonne",
-                "en": "Cap Garonne Mine"
+                "en": "Cap Garonne Mine",
+                "fr": "Mine du Cap Garonne"
               },
               "tip_5lang": {
                 "de": "Ein Besuch der Mine ist das ideale Regenprogramm, da es unter Tage trocken ist; achten Sie auf dem Anstieg zum Eingang jedoch auf Schlammflecken auf dem Asphalt.",
                 "hu": "A bánya látogatása tökéletes esős program, hiszen a föld alatt teljesen száraz maradhat, de a bejáratig vezető emelkedőn figyeljen a sárfoltokra az útburkolaton.",
                 "ro": "Vizitarea minei este activitatea perfectă pentru o zi ploioasă, fiind uscat în subteran, dar atenție la petele de noroi de pe asfalt în timpul urcării spre intrare.",
-                "en": "Visiting the mine is the perfect rainy day activity as it stays dry underground, but watch for mud patches on the pavement during the climb to the entrance."
+                "en": "Visiting the mine is the perfect rainy day activity as it stays dry underground, but watch for mud patches on the pavement during the climb to the entrance.",
+                "fr": "Visiter la mine est l'activité idéale par temps pluvieux car l'intérieur reste sec, mais surveillez les plaques de boue sur la chaussée lors de la montée vers l'entrée."
               }
             },
             {
@@ -575,13 +636,15 @@
                 "de": "Fort de la Gavaresse",
                 "hu": "Gavaresse Erőd",
                 "ro": "Fortul Gavaresse",
-                "en": "Fort of Gavaresse"
+                "en": "Fort of Gavaresse",
+                "fr": "Fort de Gavaresse"
               },
               "tip_5lang": {
                 "de": "Auf schlammigen Waldwegen können die Räder leicht durchdrehen; bewegen Sie sich am höchsten Punkt vorsichtig und genießen Sie die Aussicht zwischen den Nebelschwaden.",
                 "hu": "A meredek erdei utakon a sár miatt a kerekek könnyen kipöröghetnek, így a legmagasabb ponton csak óvatosan mozogjon, és a kilátást a ködpászták között csodálja meg.",
                 "ro": "Roțile pot patina ușor pe potecile noroioase de pădure, așa că mișcați-vă cu grijă în cel mai înalt punct și admirați priveliștea printre fâșiile de ceață.",
-                "en": "Wheels can easily spin on muddy forest paths, so move carefully at the highest point and admire the view as it peeks through the shifting mountain mist."
+                "en": "Wheels can easily spin on muddy forest paths, so move carefully at the highest point and admire the view as it peeks through the shifting mountain mist.",
+                "fr": "Les roues peuvent facilement patiner sur les chemins forestiers boueux ; avancez prudemment au point le plus élevé et admirez la vue qui apparaît à travers la brume montante de la montagne."
               }
             }
           ]
@@ -591,7 +654,8 @@
             "de": "Morgendliche Fahrten im Cravéro Park erfordern Vorsicht auf gefrorenen Wegen; Handschuhe und Maske sind gegen den Fahrtwind essenziell. Vormittags weht an der Küste ein beißender Wind. Mittags spendet die Wintersonne an der Garonne kaum Wärme. Nachmittags ist es in der Mine angenehm temperiert. Ab 17:00 Uhr ist der Weg zum Fort dunkel; starke Scheinwerfer sind nötig.",
             "hu": "Reggel a Cravéro Parkban a fagyos utakon óvatosan tekerjen, a kesztyű és a maszk elengedhetetlen a menetszél ellen. Délelőtt a Pin de Galle és Monaco felé a tengerparti szél hűtő hatása erős. Délben a Garonne-parton a téli nap ereje kevés a melegítéshez. Délután a bányánál a belső hőmérséklet állandó. Este 17 órától az erőd felé vezető út sötét.",
             "ro": "Ciclismul de dimineață în Parcul Cravéro necesită atenție pe aleile înghețate; mănușile și masca sunt esențiale. Înainte de prânz, vântul de pe coastă este tăios lângă Pin de Galle. La amiază, soarele de iarnă oferă puțină căldură la Garonne. După-amiaza la mină este plăcută, temperatura fiind constantă. De la ora 17:00, drumul spre fort este negru.",
-            "en": "Morning cycling in Cravéro Park requires care on frozen paths; gloves and a face mask are essential against the wind chill. Before noon, the coastal wind is biting near Pin de Galle. At midday, the winter sun offers little warmth at Garonne beach. Afternoon at the mine is pleasant as the temperature remains constant. From 17:00, the climb to the fort is dark."
+            "en": "Morning cycling in Cravéro Park requires care on frozen paths; gloves and a face mask are essential against the wind chill. Before noon, the coastal wind is biting near Pin de Galle. At midday, the winter sun offers little warmth at Garonne beach. Afternoon at the mine is pleasant as the temperature remains constant. From 17:00, the climb to the fort is dark.",
+            "fr": "Le matin, faire du vélo dans le parc Cravéro demande de la prudence sur les chemins gelés ; gants et cache‑visage sont essentiels contre le froid du vent. Avant midi, le vent côtier est mordant près du Pin de Galle. À midi, le soleil d'hiver n'apporte que peu de chaleur à la plage de la Garonne. L'après‑midi, la mine reste agréable car la température y est constante. À partir de 17:00, la montée vers le fort est dans l'obscurité."
           },
           "stops": [
             {
@@ -599,13 +663,15 @@
                 "de": "Cravéro Park",
                 "hu": "Cravéro Park",
                 "ro": "Parcul Cravéro",
-                "en": "Cravéro Park"
+                "en": "Cravéro Park",
+                "fr": "Parc Cravéro"
               },
               "tip_5lang": {
                 "de": "An frostigen Morgen können die Parkwege durch Raureif glatt sein; vermeiden Sie abruptes Bremsen und genießen Sie den Anblick der weiß gezuckerten Bäume.",
                 "hu": "A fagyos reggeleken a park útjai csúszósak lehetnek a dér miatt, ezért kerülje a hirtelen fékezést, és élvezze a zúzmarás fák különleges, téli látványát.",
                 "ro": "În diminețile geroase, aleile parcului pot fi alunecoase din cauza chiciurei, deci evitați frânările bruște și admirați copacii acoperiți de promoroacă albă.",
-                "en": "On frosty mornings, park paths can be slippery due to hoarfrost, so avoid sudden braking and enjoy the unique winter sight of trees covered in white rime."
+                "en": "On frosty mornings, park paths can be slippery due to hoarfrost, so avoid sudden braking and enjoy the unique winter sight of trees covered in white rime.",
+                "fr": "Les matins givrés rendent les sentiers du parc glissants à cause du givre ; évitez les freinages brusques et profitez du spectacle unique des arbres couverts de givre blanc."
               }
             },
             {
@@ -613,13 +679,15 @@
                 "de": "Plage du Pin de Galle",
                 "hu": "Pin de Galle Strand",
                 "ro": "Plaja Pin de Galle",
-                "en": "Pin de Galle Beach"
+                "en": "Pin de Galle Beach",
+                "fr": "Plage du Pin de Galle"
               },
               "tip_5lang": {
                 "de": "Tragen Sie eine winddichte Schicht gegen die eisige Brise vom Meer und achten Sie bei der steilen Abfahrt auf die Bodenhaftung auf dem kalten, teils gefrorenen Asphalt.",
                 "hu": "A tenger felől fújó jeges szél ellen viseljen szélálló réteget, a meredek lejtőn pedig figyeljen a kerekek tapadására a hideg, esetleg lefagyott aszfalton.",
                 "ro": "Purtați un strat rezistent la vânt împotriva brizelor înghețate de pe mare și atenție la aderența pneurilor pe asfaltul rece și posibil înghețat în timpul coborârii.",
-                "en": "Wear a windproof layer against the icy blast from the sea, and watch your tire grip on the cold, potentially frozen asphalt during the steep descent to the beach."
+                "en": "Wear a windproof layer against the icy blast from the sea, and watch your tire grip on the cold, potentially frozen asphalt during the steep descent to the beach.",
+                "fr": "Portez une couche coupe‑vent contre la rafale glaciale venant de la mer et surveillez l'adhérence de vos pneus sur l'asphalte froid, potentiellement gelé, lors de la descente raide vers la plage."
               }
             },
             {
@@ -627,13 +695,15 @@
                 "de": "Plage du Monaco",
                 "hu": "Monaco Strand",
                 "ro": "Plaja Monaco",
-                "en": "Monaco Beach"
+                "en": "Monaco Beach",
+                "fr": "Plage de Monaco"
               },
               "tip_5lang": {
                 "de": "In der Wintersonne ist der Strand verlassen und friedlich, doch Metallgeländer und Treppen können eiskalt sein; lassen Sie die Handschuhe auch beim Anschließen des Rades an.",
                 "hu": "A téli napsütésben a strand elhagyatott és békés, de a fém korlátok és lépcsők jéghidegek lehetnek, így a kesztyű használata a bicikli lezárásakor is javasolt.",
                 "ro": "În soarele de iarnă, plaja este pustie și liniștită, dar balustradele metalice și scările pot fi extrem de reci, deci păstrați mănușile chiar și când încuiați bicicleta.",
-                "en": "In the winter sun, the beach is deserted and peaceful, but metal railings and stairs can be ice-cold, so keep your gloves on even when locking your bike."
+                "en": "In the winter sun, the beach is deserted and peaceful, but metal railings and stairs can be ice-cold, so keep your gloves on even when locking your bike.",
+                "fr": "Au soleil d'hiver, la plage est déserte et paisible, mais les rampes et escaliers métalliques peuvent être glacial; gardez vos gants même en verrouillant votre vélo."
               }
             },
             {
@@ -641,13 +711,15 @@
                 "de": "Garonne Strand",
                 "hu": "Garonne Strand",
                 "ro": "Plaja Garonne",
-                "en": "Garonne Beach"
+                "en": "Garonne Beach",
+                "fr": "Plage de la Garonne"
               },
               "tip_5lang": {
                 "de": "An der offenen Küste ist das Kälteempfinden durch den Wind viel stärker; halten Sie die Pause kurz und bleiben Sie in Bewegung, um Ihre Körperwärme zu halten.",
                 "hu": "A nyitott tengerparton a hidegérzet sokkal erősebb a szél miatt, ezért a pihenőt rövidre tervezze, és folyamatos mozgással tartsa fenn testhőmérsékletét a parton.",
                 "ro": "Pe coasta deschisă, frigul resimțit este mult mai puternic din cauza vântului, așa că faceți o pauză scurtă și mențineți căldura corpului mișcându-vă pe mal.",
-                "en": "On the open coast, the perceived cold is much stronger due to the wind, so keep your break short and maintain body heat by staying active along the shoreline."
+                "en": "On the open coast, the perceived cold is much stronger due to the wind, so keep your break short and maintain body heat by staying active along the shoreline.",
+                "fr": "Sur la côte ouverte, le froid ressenti est bien plus fort à cause du vent ; gardez votre pause courte et maintenez la chaleur corporelle en restant actif le long du rivage."
               }
             },
             {
@@ -655,13 +727,15 @@
                 "de": "Plage des Oursinières",
                 "hu": "Oursinières Strand",
                 "ro": "Plaja Oursinières",
-                "en": "Oursinières Beach"
+                "en": "Oursinières Beach",
+                "fr": "Plage des Oursinières"
               },
               "tip_5lang": {
                 "de": "Auf der Hafenmole zieht der Wind ordentlich; suchen Sie sich eine sonnige, windgeschützte Mauer für die Rast und prüfen Sie den Reifendruck, der bei Kälte sinken kann.",
                 "hu": "A kikötői mólón a szél könnyen átfúj, így keressen egy napsütötte, szélvédett falat a pihenéshez, és ellenőrizze a gumik nyomását, ami a hidegben lecsökkenhet.",
                 "ro": "Digul portului este expus vântului, așa că găsiți un perete însorit și ferit pentru odihnă și verificați presiunea pneurilor, care poate scădea considerabil la frig.",
-                "en": "The harbor pier is exposed to wind, so find a sunny, sheltered wall for your rest and check your tire pressure, as it can drop significantly in the cold."
+                "en": "The harbor pier is exposed to wind, so find a sunny, sheltered wall for your rest and check your tire pressure, as it can drop significantly in the cold.",
+                "fr": "La jetée du port est exposée au vent ; trouvez un mur ensoleillé et abrité pour vous reposer et vérifiez la pression de vos pneus, car elle peut chuter significativement par grand froid."
               }
             },
             {
@@ -669,13 +743,15 @@
                 "de": "Cap Garonne Mine",
                 "hu": "Cap Garonne Bánya",
                 "ro": "Mina Cap Garonne",
-                "en": "Cap Garonne Mine"
+                "en": "Cap Garonne Mine",
+                "fr": "Mine du Cap Garonne"
               },
               "tip_5lang": {
                 "de": "Die 15 Grad in der Mine wirken im Vergleich zum Frost draußen warm; ziehen Sie sich vor dem Verlassen der Mine wieder dick an, um den Kälteschock zu vermeiden.",
                 "hu": "A bányában uralkodó 15 fok ilyenkor melegnek tűnik a kinti fagyhoz képest, így a látogatás utáni visszatéréskor a hideg sokkoló lehet; öltözzön fel alaposan.",
                 "ro": "Temperatura de 15 grade din mină pare caldă față de gerul de afară, deci revenirea la frig poate fi un șoc; îmbrăcați-vă bine înainte de a ieși la suprafață.",
-                "en": "The 15-degree temperature inside the mine feels warm compared to the frost outside, so the return to the cold can be shocking; dress up warmly before leaving."
+                "en": "The 15-degree temperature inside the mine feels warm compared to the frost outside, so the return to the cold can be shocking; dress up warmly before leaving.",
+                "fr": "Les 15 degrés à l'intérieur de la mine paraissent chauds comparés au gel extérieur, donc le retour au froid peut être brutal ; habillez‑vous chaudement avant de repartir."
               }
             },
             {
@@ -683,13 +759,15 @@
                 "de": "Fort de la Gavaresse",
                 "hu": "Gavaresse Erőd",
                 "ro": "Fortul Gavaresse",
-                "en": "Fort of Gavaresse"
+                "en": "Fort of Gavaresse",
+                "fr": "Fort de Gavaresse"
               },
               "tip_5lang": {
                 "de": "Am höchsten Punkt ist der Wind eisig und der Sonnenuntergang beginnt vor 17:00 Uhr; schalten Sie für die gesamte Abfahrt unbedingt Vorder- und Rücklicht ein.",
                 "hu": "A legmagasabb ponton a szél fagyos, a naplemente pedig már 17 óra előtt megkezdődik, így a lefelé útra már mindenképpen kapcsolja be az első és hátsó lámpáit.",
                 "ro": "În cel mai înalt punct, vântul este înghețat, iar apusul începe înainte de ora 17:00, deci asigurați-vă că aprindeți farurile pentru întreaga coborâre înapoi.",
-                "en": "At the highest point, the wind is freezing and sunset starts before 17:00, so make sure to turn on your front and rear lights for the entire descent back."
+                "en": "At the highest point, the wind is freezing and sunset starts before 17:00, so make sure to turn on your front and rear lights for the entire descent back.",
+                "fr": "Au point le plus haut, le vent est glacial et le coucher du soleil commence avant 17:00 ; veillez à allumer vos feux avant et arrière pour toute la descente."
               }
             }
           ]
@@ -709,7 +787,8 @@
             "de": "Cravéro Park",
             "hu": "Cravéro Park",
             "ro": "Parcul Cravéro",
-            "en": "Cravéro Park"
+            "en": "Cravéro Park",
+            "fr": "Parc Cravéro"
           },
           "coords": [
             6.02074,
@@ -724,7 +803,8 @@
             "de": "Beginnen Sie Ihren Morgen in diesem üppigen Park und genießen Sie die mediterrane Flora, aber vergessen Sie nicht, einen Kaffee aus einer nahegelegenen Bäckerei mitzubringen.",
             "hu": "Kezdje a reggelt ebben a buja központi parkban, és élvezze a mediterrán növényvilágot, de ne felejtsen el magával hozni egy kávét a közeli pékségből a botanikai bemutatókhoz.",
             "ro": "Începeți dimineața în acest parc central luxuriant și admirați flora mediteraneană, dar nu uitați să aduceți o cafea de la o brutărie din apropiere pentru a o savura aici.",
-            "en": "Start your morning at this lush central park and enjoy the Mediterranean flora, but remember to bring a coffee from a nearby bakery to sip by the botanical displays."
+            "en": "Start your morning at this lush central park and enjoy the Mediterranean flora, but remember to bring a coffee from a nearby bakery to sip by the botanical displays.",
+            "fr": "Commencez votre matinée dans ce parc central luxuriant et profitez de la flore méditerranéenne ; n'oubliez pas d'apporter un café d'une boulangerie voisine à siroter près des présentations botaniques."
           }
         },
         {
@@ -732,7 +812,8 @@
             "de": "Cap Garonne Mine",
             "hu": "Cap Garonne Bánya",
             "ro": "Mina Cap Garonne",
-            "en": "Cap Garonne Mine"
+            "en": "Cap Garonne Mine",
+            "fr": "Mine du Cap Garonne"
           },
           "coords": [
             6.032422,
@@ -747,7 +828,8 @@
             "de": "Tauchen Sie in die faszinierende unterirdische Welt dieser ehemaligen Kupfermine ein und bringen Sie unbedingt eine leichte Jacke mit, da es unter Tage ganzjährig kühl ist.",
             "hu": "Merüljön el az egykori rézbánya lenyűgöző földalatti világában, és mindenképpen vigyen magával egy könnyű kabátot, mivel a föld alatti hőmérséklet egész évben hűvös.",
             "ro": "Explorați lumea subterană fascinantă a acestei foste mine de cupru și asigurați-vă că aduceți o jachetă ușoară, deoarece temperaturile subterane rămân răcoroase tot anul.",
-            "en": "Delve into the fascinating underground world of this former copper mine, and definitely bring a light jacket as the subterranean temperatures remain remarkably cool year-round."
+            "en": "Delve into the fascinating underground world of this former copper mine, and definitely bring a light jacket as the subterranean temperatures remain remarkably cool year-round.",
+            "fr": "Plongez dans l'univers souterrain fascinant de cette ancienne mine de cuivre et n'oubliez pas une veste légère, car la température souterraine reste remarquablement fraîche toute l'année."
           }
         },
         {
@@ -755,7 +837,8 @@
             "de": "Fort de la Gavaresse",
             "hu": "Gavaresse Erőd",
             "ro": "Fortul Gavaresse",
-            "en": "Fort of Gavaresse"
+            "en": "Fort of Gavaresse",
+            "fr": "Fort de Gavaresse"
           },
           "coords": [
             6.040134,
@@ -770,7 +853,8 @@
             "de": "Steigen Sie zu dieser historischen Küstenverteidigungsanlage hinauf, um einen weiten Panoramablick auf das Mittelmeer zu genießen, und halten Sie Ihre Kamera bereit.",
             "hu": "Másszon fel ehhez a történelmi partvédelmi építményhez, ahonnan elsöprő panoráma nyílik a Földközi-tengerre, és győződjön meg róla, hogy a fényképezőgépe fel van töltve.",
             "ro": "Urcați la această structură istorică de apărare a coastei pentru a admira priveliști panoramice ample asupra Mediteranei, asigurându-vă că aparatul foto este încărcat.",
-            "en": "Climb up to this historic coastal defense structure for sweeping panoramic views of the Mediterranean, ensuring your camera is fully charged for the spectacular vantage points."
+            "en": "Climb up to this historic coastal defense structure for sweeping panoramic views of the Mediterranean, ensuring your camera is fully charged for the spectacular vantage points.",
+            "fr": "Montez jusqu'à cette structure historique de défense côtière pour des vues panoramiques sur la Méditerranée ; assurez‑vous que votre appareil photo est entièrement chargé pour ces points de vue spectaculaires."
           }
         },
         {
@@ -778,7 +862,8 @@
             "de": "Plage des Oursinières",
             "hu": "Oursinières Strand",
             "ro": "Plaja Oursinières",
-            "en": "Oursinières Beach"
+            "en": "Oursinières Beach",
+            "fr": "Plage des Oursinières"
           },
           "coords": [
             6.021539,
@@ -793,7 +878,8 @@
             "de": "Beobachten Sie die Boote im kleinen Hafen neben dem Strand und probieren Sie eines der lokalen Hafenbistros für ein erfrischendes Getränk und frische Meeresfrüchte.",
             "hu": "Figyelje a csónakokat a strand melletti kis kikötőben, és próbálja ki a kikötői bisztrók egyikét egy frissítő ital és frissen fogott tengeri herkentyűk erejéig.",
             "ro": "Urmăriți bărcile în micul port adiacent plajei și încercați unul dintre bistrourile locale din port pentru o băutură răcoritoare și fructe de mare proaspete.",
-            "en": "Watch the boats bob in the small harbor adjacent to the beach, and try one of the local portside bistros for a refreshing drink and freshly caught seafood."
+            "en": "Watch the boats bob in the small harbor adjacent to the beach, and try one of the local portside bistros for a refreshing drink and freshly caught seafood.",
+            "fr": "Observez les bateaux qui tanguent dans le petit port adjacent à la plage et essayez l'un des bistros portuaires locaux pour une boisson rafraîchissante et des fruits de mer fraîchement pêchés."
           }
         },
         {
@@ -801,7 +887,8 @@
             "de": "Garonne Strand",
             "hu": "Garonne Strand",
             "ro": "Plaja Garonne",
-            "en": "Garonne Beach"
+            "en": "Garonne Beach",
+            "fr": "Plage de la Garonne"
           },
           "coords": [
             6.0245,
@@ -816,7 +903,8 @@
             "de": "Schlendern Sie diesen familienfreundlichen Küstenabschnitt mit seinen ruhigen Wellen entlang, wo das Mieten eines Paddleboards eine fantastische Möglichkeit bietet, die Buchten zu erkunden.",
             "hu": "Sétáljon végig ezen a nyugodt hullámairól ismert, családbarát partszakaszon, ahol a paddleboard bérlés fantasztikus lehetőséget kínál a közeli öblök felfedezésére.",
             "ro": "Plimbați-vă de-a lungul acestei coaste ideale pentru familii, cunoscută pentru valurile sale calme, unde închirierea unei plăci de paddleboard este o opțiune excelentă.",
-            "en": "Stroll along this family-friendly stretch of coastline known for its calm waves, where renting a paddleboard offers a fantastic way to explore the nearby coves."
+            "en": "Stroll along this family-friendly stretch of coastline known for its calm waves, where renting a paddleboard offers a fantastic way to explore the nearby coves.",
+            "fr": "Promenez-vous le long de ce tronçon de côte adapté aux familles, réputé pour ses vagues calmes ; louer une planche à pagaie est une excellente façon d'explorer les criques voisines."
           }
         },
         {
@@ -824,7 +912,8 @@
             "de": "Plage du Monaco",
             "hu": "Monaco Strand",
             "ro": "Plaja Monaco",
-            "en": "Monaco Beach"
+            "en": "Monaco Beach",
+            "fr": "Plage de Monaco"
           },
           "coords": [
             6.013765,
@@ -839,7 +928,8 @@
             "de": "Entspannen Sie an diesem malerischen Sandstrand umgeben von Pinien und kommen Sie früh, um sich einen guten Platz am Wasser vor dem Nachmittagsansturm zu sichern.",
             "hu": "Pihenjen ezen a festői, mandulafenyőkkel körülvett homokos strandon, és érkezzen korán, hogy jó helyet biztosítson magának a vízparton a délutáni tömeg előtt.",
             "ro": "Relaxați-vă pe această plajă pitorească de nisip înconjurată de pini și ajungeți devreme pentru a vă asigura un loc bun lângă apă înainte de aglomerația de după-amiază.",
-            "en": "Relax on this picturesque sandy beach surrounded by umbrella pines, and arrive early to secure a good spot near the water before the afternoon crowds descend."
+            "en": "Relax on this picturesque sandy beach surrounded by umbrella pines, and arrive early to secure a good spot near the water before the afternoon crowds descend.",
+            "fr": "Détendez-vous sur cette plage de sable pittoresque entourée de pins parasols : arrivez tôt pour obtenir une bonne place près de l'eau avant l'affluence de l'après-midi."
           }
         },
         {
@@ -847,7 +937,8 @@
             "de": "Forever Bereich",
             "hu": "Forever Pihenő",
             "ro": "Zona Forever",
-            "en": "Forever"
+            "en": "Forever",
+            "fr": "Pour toujours"
           },
           "coords": [
             6.03829,
@@ -862,7 +953,8 @@
             "de": "Lassen Sie Ihren Tag in diesem einladenden Familienbereich mit viel Platz zum Entspannen ausklingen, ideal, um ein leichtes Picknick in der milden Abendbrise zu genießen.",
             "hu": "Zárja a napot ezen a barátságos, tágas, családcentrikus területen, amely ideális egy könnyű piknikhez, miközben élvezi az enyhe esti szellőt és a nyugalmat.",
             "ro": "Încheiați ziua în această zonă primitoare pentru familii, cu spațiu amplu pentru relaxare, ideală pentru a aduce un picnic ușor și a vă bucura de briza blândă a serii.",
-            "en": "Conclude your day at this welcoming family-oriented area with ample space to relax, making it ideal to bring a light picnic to enjoy the mild evening breeze."
+            "en": "Conclude your day at this welcoming family-oriented area with ample space to relax, making it ideal to bring a light picnic to enjoy the mild evening breeze.",
+            "fr": "Terminez votre journée dans cet espace accueillant et familial, avec beaucoup de place pour se détendre ; c'est l'endroit idéal pour apporter un pique-nique léger et profiter de la douce brise du soir."
           }
         }
       ],
@@ -870,7 +962,8 @@
         "de": "Fahren Sie von einem grünen Stadtpark direkt zu einer faszinierenden unterirdischen Kupfermine. Mittags erreichen Sie eine prächtige Festung mit herrlichem Meerespanorama, bevor Sie zu einem malerischen Hafen hinabfahren. Verbringen Sie den Nachmittag an bekannten Sandstränden. Beenden Sie Ihren Abend an einem großzügigen, familienfreundlichen Treffpunkt.",
         "hu": "Induljon a zöld városi parkból egyenesen egy lenyűgöző földalatti rézbányába. Délben egy csodálatos erődítményhez ér, ahonnan tengeri panoráma nyílik, majd egy hangulatos kikötőbe ereszkedik. A délutánt homokos strandokon pihenve töltheti. Végül fejezze be az estét egy tágas, családbarát találkozóhelyen pihenve.",
         "ro": "Conduceți din parcul verde al orașului direct către o fascinantă mină de cupru subterană. Prânzul vă aduce la o fortăreață magnifică, oferind panorame maritime înainte de a coborî într-un port pitoresc. Petreceți-vă după-amiaza relaxându-vă pe plaje celebre cu nisip. În cele din urmă, încheiați seara într-un loc de adunare spațios și primitor pentru familii.",
-        "en": "Drive out from a verdant town park straight to a cool, fascinating subterranean copper mine to start the day. Midday brings you up to a magnificent fortress offering sweeping maritime panoramas before descending to a quaint port. Spend your afternoon unwinding on celebrated sandy beaches. Finally, conclude your evening relaxing at a spacious, family-oriented gathering spot."
+        "en": "Drive out from a verdant town park straight to a cool, fascinating subterranean copper mine to start the day. Midday brings you up to a magnificent fortress offering sweeping maritime panoramas before descending to a quaint port. Spend your afternoon unwinding on celebrated sandy beaches. Finally, conclude your evening relaxing at a spacious, family-oriented gathering spot.",
+        "fr": "Partez en voiture depuis un parc urbain verdoyant jusqu'à une fascinante mine de cuivre souterraine pour commencer la journée. À midi, montez à une magnifique forteresse offrant de larges panoramas maritimes avant de redescendre vers un port pittoresque. Passez l'après-midi à vous détendre sur des plages de sable célèbres. Enfin, terminez la soirée en vous relaxant dans un vaste lieu de rassemblement familial."
       },
       "variants": {
         "rainy": {
@@ -878,7 +971,8 @@
             "de": "Die Parkplätze am Cravéro Park können bei Regen schlammig sein; manövrieren Sie vorsichtig. Vormittags ist der Minenbesuch ein ideales Indoor-Programm, das vom Regen unberührt bleibt. Mittags ist die kurvige Straße zum Fort rutschig; fahren Sie langsam in den Kehren. Nachmittags ist das Parken an Oursinières und Garonne einfach und Sie können das Meer beobachten.",
             "hu": "Reggel a Cravéro Park parkolói esőben sárosak lehetnek, óvatosan manőverezzen. Délelőtt a bányalátogatás ideális fedett program, ahol az eső nem zavarja a felfedezést. Délben az erődhöz vezető kanyargós út csúszós, lassítson a hajtűkanyarokban. Délután az Oursinières és Garonne strandoknál a parkolás könnyű, a kocsiból is élvezheti a viharos tenger látványát.",
             "ro": "Parcările de la Cravéro pot fi noroioase pe ploaie, deci manevrați cu atenție. Înainte de prânz, vizita la mină este o activitate ideală de interior. La amiază, drumul virajat spre fort este alunecos; încetiniți în curbele strânse. După-amiaza, parcarea la Oursinières și Garonne este facilă, putând vedea marea agitată chiar din mașină.",
-            "en": "Morning parking at Cravéro Park can be muddy in the rain, so maneuver with care. Before noon, the mine visit is an ideal indoor activity where rain won't interrupt your tour. At midday, the winding road to the fort is slippery; slow down in the hairpins. Afternoon parking at Oursinières and Garonne is easy, and you can watch the stormy sea from the car."
+            "en": "Morning parking at Cravéro Park can be muddy in the rain, so maneuver with care. Before noon, the mine visit is an ideal indoor activity where rain won't interrupt your tour. At midday, the winding road to the fort is slippery; slow down in the hairpins. Afternoon parking at Oursinières and Garonne is easy, and you can watch the stormy sea from the car.",
+            "fr": "Le stationnement du matin à Cravéro Park peut être boueux sous la pluie, donc manœuvrez avec prudence. Avant midi, la visite de la mine est une activité intérieure idéale où la pluie n’interrompra pas votre visite. À midi, la route sinueuse vers le fort devient glissante ; ralentissez dans les épingles. Le stationnement de l'après-midi à Oursinières et Garonne est facile, et vous pouvez observer la mer orageuse depuis la voiture."
           },
           "stops": [
             {
@@ -886,13 +980,15 @@
                 "de": "Cravéro Park",
                 "hu": "Cravéro Park",
                 "ro": "Parcul Cravéro",
-                "en": "Cravéro Park"
+                "en": "Cravéro Park",
+                "fr": "Parc Cravéro"
               },
               "tip_5lang": {
                 "de": "Wegen des Tropfwassers von den Bäumen am Parkplatz sollten Sie einen Schirm bereithalten und bei schlechter Sicht besonders auf Fußgänger achten.",
                 "hu": "A parkoló melletti fákról lecsorgó víz miatt érdemes esernyővel készülni a bejárattól a sétányokig, és figyelni a gyalogosokra a korlátozott látási viszonyok között.",
                 "ro": "Apa care picură din copaci lângă parcare înseamnă că ar trebui să aveți o umbrelă pregătită pentru drumul spre alei și să fiți atenți la pietoni în vizibilitate redusă.",
-                "en": "Water dripping from trees near the parking lot means you should have an umbrella ready for the walk to the paths, and watch for pedestrians in low visibility."
+                "en": "Water dripping from trees near the parking lot means you should have an umbrella ready for the walk to the paths, and watch for pedestrians in low visibility.",
+                "fr": "De l'eau qui goutte des arbres près du parking signifie qu'il faut avoir un parapluie pour la promenade vers les sentiers, et faites attention aux piétons par faible visibilité."
               }
             },
             {
@@ -900,13 +996,15 @@
                 "de": "Cap Garonne Mine",
                 "hu": "Cap Garonne Bánya",
                 "ro": "Mina Cap Garonne",
-                "en": "Cap Garonne Mine"
+                "en": "Cap Garonne Mine",
+                "fr": "Mine du Cap Garonne"
               },
               "tip_5lang": {
                 "de": "Ein hervorragender Schutz vor dem Regen; das Besucherzentrum und Museum zeigen interaktiv die Vergangenheit der Region, während draußen der Regen auf die Hänge peitscht.",
                 "hu": "Kiváló menedék az eső elől, a látogatóközpont és a múzeum pedig interaktív módon mutatja be a környék múltját, miközben kint szakad az eső a meredek partoldalon.",
                 "ro": "Un adăpost excelent împotriva ploii, centrul de vizitare și muzeul prezintă interactiv trecutul zonei în timp ce ploaia toarnă pe versanții de coastă de afară.",
-                "en": "An excellent shelter from the rain, the visitor center and museum interactively showcase the area's past while rain pours down on the steep coastal slopes outside."
+                "en": "An excellent shelter from the rain, the visitor center and museum interactively showcase the area's past while rain pours down on the steep coastal slopes outside.",
+                "fr": "Excellente abri contre la pluie, le centre d'accueil et le musée présentent de façon interactive le passé de la région pendant que la pluie tombe sur les pentes côtières abruptes à l'extérieur."
               }
             },
             {
@@ -914,13 +1012,15 @@
                 "de": "Fort de la Gavaresse",
                 "hu": "Gavaresse Erőd",
                 "ro": "Fortul Gavaresse",
-                "en": "Fort of Gavaresse"
+                "en": "Fort of Gavaresse",
+                "fr": "Fort de Gavaresse"
               },
               "tip_5lang": {
                 "de": "Das schmale Asphaltband zum Fort kann bei Regen verschlammt sein, was die Haftung beeinträchtigt; fahren Sie langsam und nutzen Sie bei Bedarf die Nebelscheinwerfer.",
                 "hu": "Az erőd felé vezető aszfaltcsík keskeny és esőben felhordott sár nehezítheti a tapadást, ezért csak lassan haladjon, és használja a ködfényszórót, ha szükséges.",
                 "ro": "Banda îngustă de asfalt spre fort poate fi acoperită de noroi în timpul ploii, afectând aderența, deci conduceți încet și folosiți farurile de ceață dacă e necesar.",
-                "en": "The narrow asphalt strip to the fort can be covered in mud during rain, affecting grip, so drive slowly and use your fog lights if visibility becomes too low."
+                "en": "The narrow asphalt strip to the fort can be covered in mud during rain, affecting grip, so drive slowly and use your fog lights if visibility becomes too low.",
+                "fr": "La chaussée étroite en bitume menant au fort peut être couverte de boue sous la pluie, réduisant l'adhérence ; conduisez lentement et utilisez vos feux de brouillard si la visibilité devient trop faible."
               }
             },
             {
@@ -928,13 +1028,15 @@
                 "de": "Plage des Oursinières",
                 "hu": "Oursinières Strand",
                 "ro": "Plaja Oursinières",
-                "en": "Oursinières Beach"
+                "en": "Oursinières Beach",
+                "fr": "Plage des Oursinières"
               },
               "tip_5lang": {
                 "de": "Vom Hafenparkplatz haben Sie einen tollen Blick auf die Wellen; machen Sie im Regenmantel einen kurzen Gang auf der Mole, bevor Sie ins beheizte Auto zurückkehren.",
                 "hu": "A kikötői parkolóból pazar kilátás nyílik a hullámokra, így esőkabátban is tehet egy rövid sétát a mólón, mielőtt visszahúzódna a fűtött autó kényelmébe.",
                 "ro": "Parcarea din port oferă o vedere superbă asupra valurilor, deci puteți face o scurtă plimbare pe dig în pelerină înainte de a vă retrage în confortul mașinii încălzite.",
-                "en": "The harbor parking offers a grand view of the waves, so you can take a quick walk on the pier in a raincoat before retreating to the comfort of your heated car."
+                "en": "The harbor parking offers a grand view of the waves, so you can take a quick walk on the pier in a raincoat before retreating to the comfort of your heated car.",
+                "fr": "Le parking du port offre une grande vue sur les vagues ; vous pouvez faire une courte balade sur la jetée en imperméable avant de regagner le confort de votre voiture chauffée."
               }
             },
             {
@@ -942,13 +1044,15 @@
                 "de": "Garonne Strand",
                 "hu": "Garonne Strand",
                 "ro": "Plaja Garonne",
-                "en": "Garonne Beach"
+                "en": "Garonne Beach",
+                "fr": "Plage de Garonne"
               },
               "tip_5lang": {
                 "de": "Die Parkplätze am Strand sind bei Regen leer, sodass Sie die Kraft des Meeres aus der ersten Reihe sehen können; achten Sie auf tiefe Pfützen und Aquaplaning.",
                 "hu": "A strand menti parkolók esőben üresek, így az első sorból figyelheti a tenger erejét, de ügyeljen a mélyebb tócsákra az út mentén, melyek vízenfutást okozhatnak.",
                 "ro": "Parcările de lângă plajă sunt goale pe ploaie, permițându-vă să vedeți forța mării din prima linie, dar atenție la bălțile adânci care pot cauza acvaplanare.",
-                "en": "Beachside parking lots are empty in the rain, letting you watch the sea's power from the front row, but beware of deep puddles on the road that cause aquaplaning."
+                "en": "Beachside parking lots are empty in the rain, letting you watch the sea's power from the front row, but beware of deep puddles on the road that cause aquaplaning.",
+                "fr": "Les parkings en bord de mer sont vides sous la pluie, ce qui vous permet d'observer la puissance de la mer au premier rang, mais méfiez-vous des flaques profondes sur la route qui provoquent de l'aquaplanage."
               }
             },
             {
@@ -956,13 +1060,15 @@
                 "de": "Plage du Monaco",
                 "hu": "Monaco Strand",
                 "ro": "Plaja Monaco",
-                "en": "Monaco Beach"
+                "en": "Monaco Beach",
+                "fr": "Plage de Monaco"
               },
               "tip_5lang": {
                 "de": "Halten Sie an der Küstenstraße kurz an, wo die regenfeuchten Felsen farbenfroher wirken; wagen Sie den Abstieg zum Strand nur mit geeignetem, wasserfestem Schuhwerk.",
                 "hu": "A part menti út mentén álljon meg egy pillanatra, ahol az eső által mosott sziklák színei élénkebbek, de a meredek levezető útra csak megfelelő lábbeliben merészkedjen.",
                 "ro": "Opriți-vă un moment pe drumul de coastă unde culorile stâncilor spălate de ploaie sunt mai vii, dar coborâți pe potecă doar dacă aveți încălțăminte impermeabilă.",
-                "en": "Stop for a moment along the coastal road where the rain-washed cliff colors are more vivid, but only venture down the steep path if you have proper waterproof footwear."
+                "en": "Stop for a moment along the coastal road where the rain-washed cliff colors are more vivid, but only venture down the steep path if you have proper waterproof footwear.",
+                "fr": "Arrêtez-vous un instant le long de la route côtière où les falaises lavées par la pluie prennent des couleurs plus vives, mais n'empruntez le sentier abrupt que si vous portez des chaussures imperméables appropriées."
               }
             },
             {
@@ -970,13 +1076,15 @@
                 "de": "Forever Bereich",
                 "hu": "Forever Pihenő",
                 "ro": "Zona Forever",
-                "en": "Forever"
+                "en": "Forever",
+                "fr": "Pour toujours"
               },
               "tip_5lang": {
                 "de": "Am Ende des Tages wirkt das Prasseln des Regens auf die Windschutzscheibe beruhigend; prüfen Sie Licht und Wischer vor der Abfahrt für eine sichere Heimreise.",
                 "hu": "A nap végén a parkolóban várakozva a szélvédőn doboló eső hangja megnyugtató, de indulás előtt ellenőrizze a lámpákat és a törlőket a biztonságos hazavezetéshez.",
                 "ro": "La sfârșitul zilei, sunetul ploii pe parbriz este liniștitor, dar verificați luminile și ștergătoarele înainte de a pleca pentru a asigura o călătorie în siguranță.",
-                "en": "At the end of the day, the sound of rain drumming on the windshield is soothing, but check your lights and wipers before driving back to ensure a safe journey."
+                "en": "At the end of the day, the sound of rain drumming on the windshield is soothing, but check your lights and wipers before driving back to ensure a safe journey.",
+                "fr": "En fin de journée, le bruit de la pluie martelant le pare-brise est apaisant, mais vérifiez vos feux et vos essuie-glaces avant de reprendre la route pour assurer un trajet sûr."
               }
             }
           ]
@@ -986,7 +1094,8 @@
             "de": "Der Morgen am Cravéro Park beginnt mit Eiskratzen, bevor es in die beißende Kälte geht. Vormittags bietet das Minenmuseum Schutz vor dem Frost. Mittags ist auf der Straße zum Fort Vorsicht vor überfrierender Nässe geboten. Nachmittags blendet die tiefstehende Sonne an der Küste; nutzen Sie eine Sonnenbrille. Ab 17:00 Uhr ist es dunkel und der Wind am Forever-Bereich eiskalt.",
             "hu": "Reggel a Cravéro Parknál az üvegekről a jég lekaparása után indulhat a program a csípős hidegben. Délelőtt a bányában a kinti fagytól védve töltheti az időt a meleg múzeumban. Délben az erőd felé a kanyarokban az útra fagyott vízre figyeljen. Délután a strandok mentén a téli nap fénye éles. Este 17 óra után már sötétben, fűtéssel vezethet vissza.",
             "ro": "Dimineața la Cravéro începe cu curățarea gheții de pe geamuri înainte de a pleca în frigul tăios. Înainte de prânz, stați la căldură în muzeul minei, protejați de ger. La amiază, atenție la polei în curbele spre fort. Soarele de după-amiază pe coastă este puternic, deci folosiți ochelari de soare. După ora 17:00, conduceți cu căldura pornită.",
-            "en": "Morning at Cravéro Park starts with scraping ice off the windows before setting out in the biting cold. Before noon, stay warm in the mine museum, protected from the frost outside. At midday, watch for black ice in the curves leading up to the fort. Afternoon sun on the coast is bright, so use sunglasses. After 17:00, drive back with heating on."
+            "en": "Morning at Cravéro Park starts with scraping ice off the windows before setting out in the biting cold. Before noon, stay warm in the mine museum, protected from the frost outside. At midday, watch for black ice in the curves leading up to the fort. Afternoon sun on the coast is bright, so use sunglasses. After 17:00, drive back with heating on.",
+            "fr": "La matinée à Cravéro Park commence par gratter la glace des vitres avant de partir dans le froid mordant. Avant midi, restez au chaud dans le musée de la mine, protégé du gel extérieur. À midi, surveillez le verglas noir dans les courbes menant au fort. L'après-midi, le soleil sur la côte est éblouissant, pensez aux lunettes de soleil. Après 17:00, rentrez avec le chauffage allumé."
           },
           "stops": [
             {
@@ -994,13 +1103,15 @@
                 "de": "Cravéro Park",
                 "hu": "Cravéro Park",
                 "ro": "Parcul Cravéro",
-                "en": "Cravéro Park"
+                "en": "Cravéro Park",
+                "fr": "Parc Cravéro"
               },
               "tip_5lang": {
                 "de": "Im morgendlichen Frost sind die Bäume am Parkplatz herrlich bereift; lassen Sie den Motor kurz warm laufen, bevor Sie sich auf den Weg zur nächsten Station machen.",
                 "hu": "A reggeli fagyban a parkoló körüli fák zúzmarásak, ami mesebeli látvány, de a gépkocsi motorját hagyja kicsit melegedni, mielőtt elindulna a következő megálló felé.",
                 "ro": "În gerul dimineții, copacii din jurul parcării sunt acoperiți de chiciură, arătând ca în basme; lăsați motorul să se încălzească puțin înainte de a pleca spre următoarea oprire.",
-                "en": "In the morning frost, trees around the parking lot are rimed with white, looking like a fairytale; let the engine warm up briefly before heading to the next stop."
+                "en": "In the morning frost, trees around the parking lot are rimed with white, looking like a fairytale; let the engine warm up briefly before heading to the next stop.",
+                "fr": "Au petit matin de gel, les arbres autour du parking sont givrés de blanc, semblant tout droit sortis d'un conte ; laissez le moteur chauffer brièvement avant de repartir."
               }
             },
             {
@@ -1008,13 +1119,15 @@
                 "de": "Cap Garonne Mine",
                 "hu": "Cap Garonne Bánya",
                 "ro": "Mina Cap Garonne",
-                "en": "Cap Garonne Mine"
+                "en": "Cap Garonne Mine",
+                "fr": "Mine du Cap Garonne"
               },
               "tip_5lang": {
                 "de": "Während der Minentour kühlt der Wagen aus; schalten Sie nach dem Besuch die Sitzheizung für mehr Komfort ein, während Sie die Winterlandschaft durch das Fenster genießen.",
                 "hu": "A bányatúra alatt az autó beltere is visszahűlhet, így a látogatás végén kapcsolja be az ülésfűtést a kényelemért, miközben a téli tájban gyönyörködik az ablakon át.",
                 "ro": "În timpul turului minei, interiorul mașinii se va răci, așa că porniți încălzirea în scaune pentru confort ulterior în timp ce admirați peisajul de iarnă prin geam.",
-                "en": "During the mine tour, your car's interior will cool down, so turn on the seat heating for comfort afterwards while enjoying the winter landscape through the glass."
+                "en": "During the mine tour, your car's interior will cool down, so turn on the seat heating for comfort afterwards while enjoying the winter landscape through the glass.",
+                "fr": "Pendant la visite de la mine, l'intérieur de votre voiture se refroidira ; allumez le chauffage de sièges ensuite pour plus de confort tout en admirant le paysage hivernal à travers la vitre."
               }
             },
             {
@@ -1022,13 +1135,15 @@
                 "de": "Fort de la Gavaresse",
                 "hu": "Gavaresse Erőd",
                 "ro": "Fortul Gavaresse",
-                "en": "Fort of Gavaresse"
+                "en": "Fort of Gavaresse",
+                "fr": "Fort de Gavaresse"
               },
               "tip_5lang": {
                 "de": "Auf der Höhenstraße können die Temperaturen niedriger sein und die Scheiben durch die Innenwärme beschlagen; stellen Sie die Lüftung auf Maximum für freie Sicht.",
                 "hu": "A magaslati úton a hőmérséklet alacsonyabb lehet, a szélvédő pedig könnyen bepárásodhat a benti meleg miatt, így állítsa a szellőzést a maximumra a tiszta kilátásért.",
                 "ro": "Temperaturile pot fi mai scăzute pe drumul de munte, iar parbrizul se poate aburi ușor din cauza căldurii interne, deci setați ventilația la maximum pentru o vedere clară.",
-                "en": "Temperatures can be lower on the high road, and the windshield may fog up easily due to the interior heat, so set the ventilation to maximum for a clear view of the coast."
+                "en": "Temperatures can be lower on the high road, and the windshield may fog up easily due to the interior heat, so set the ventilation to maximum for a clear view of the coast.",
+                "fr": "Les températures peuvent être plus basses sur la route haute, et le pare-brise peut s'embuer facilement à cause de la chaleur intérieure ; mettez la ventilation au maximum pour une vue dégagée sur la côte."
               }
             },
             {
@@ -1036,13 +1151,15 @@
                 "de": "Plage des Oursinières",
                 "hu": "Oursinières Strand",
                 "ro": "Plaja Oursinières",
-                "en": "Oursinières Beach"
+                "en": "Oursinières Beach",
+                "fr": "Plage des Oursinières"
               },
               "tip_5lang": {
                 "de": "Die Gischt im Hafen kann auf den Scheinwerfern gefrieren; wischen Sie diese vor der Abfahrt ab und verlassen Sie die Wärme des Wagens nur für einen kurzen Moment.",
                 "hu": "A kikötőben a sós permet rá fagyhat az autó lámpáira, így indulás előtt törölje le őket a megfelelő fényerő érdekében, a partot pedig csak rövid időre hagyja el.",
                 "ro": "Vaporii sărați pot îngheța pe farurile mașinii în port, așa că ștergeți-le înainte de plecare pentru o luminozitate corectă și părăsiți căldura mașinii doar scurt.",
-                "en": "Salt spray can freeze onto your car's headlights in the harbor, so wipe them before leaving for proper brightness, and only leave the warmth of the car briefly."
+                "en": "Salt spray can freeze onto your car's headlights in the harbor, so wipe them before leaving for proper brightness, and only leave the warmth of the car briefly.",
+                "fr": "Les embruns salés peuvent geler sur les phares de votre voiture dans le port ; essuyez-les avant de partir pour une bonne luminosité, et ne quittez la chaleur de la voiture que brièvement."
               }
             },
             {
@@ -1050,13 +1167,15 @@
                 "de": "Garonne Strand",
                 "hu": "Garonne Strand",
                 "ro": "Plaja Garonne",
-                "en": "Garonne Beach"
+                "en": "Garonne Beach",
+                "fr": "Plage de Garonne"
               },
               "tip_5lang": {
                 "de": "Wegen der tiefstehenden Wintersonne kann das Licht in den Rückspiegeln blenden; stellen Sie diese passend ein und genießen Sie die Wärme der Kabine während der Rast.",
                 "hu": "A téli nap alacsony állása miatt a visszapillantó tükrökben a fény vakító lehet, így állítsa be őket megfelelően, és a parkolóban élvezze a fűtött utastér melegét.",
                 "ro": "Din cauza soarelui de iarnă jos, lumina în oglinzile retrovizoare poate fi orbitoare, deci reglați-le corect și bucurați-vă de căldura cabinei în timp ce stați parcați.",
-                "en": "Due to the low winter sun, light in the rearview mirrors can be blinding, so adjust them properly and enjoy the warmth of the heated cabin while parked at the beach."
+                "en": "Due to the low winter sun, light in the rearview mirrors can be blinding, so adjust them properly and enjoy the warmth of the heated cabin while parked at the beach.",
+                "fr": "En raison du soleil bas d'hiver, la lumière dans les rétroviseurs peut être aveuglante ; ajustez-les correctement et profitez de la chaleur de l'habitacle chauffé pendant le stationnement à la plage."
               }
             },
             {
@@ -1064,13 +1183,15 @@
                 "de": "Plage du Monaco",
                 "hu": "Monaco Strand",
                 "ro": "Plaja Monaco",
-                "en": "Monaco Beach"
+                "en": "Monaco Beach",
+                "fr": "Plage de Monaco"
               },
               "tip_5lang": {
                 "de": "Schattige Abschnitte der kurvigen Küstenstraße können den ganzen Tag vereist bleiben; fahren Sie besonders aufmerksam und vermeiden Sie hastige Lenkbewegungen.",
                 "hu": "A meredek partszakasz mentén az út kanyargós és árnyékos részei jegesek maradhatnak egész nap, így fokozott figyelemmel vezessen, és kerülje a hirtelen kormánymozdulatokat.",
                 "ro": "Secțiunile umbrite ale drumului de coastă virajat pot rămâne înghețate toată ziua, deci conduceți cu atenție sporită și evitați mișcările bruște de volan spre plajă.",
-                "en": "Shaded sections of the winding coastal road may remain icy all day, so drive with increased attention and avoid sudden steering movements on the way to the beach."
+                "en": "Shaded sections of the winding coastal road may remain icy all day, so drive with increased attention and avoid sudden steering movements on the way to the beach.",
+                "fr": "Les sections ombragées de la route côtière sinueuse peuvent rester verglacées toute la journée ; conduisez avec une attention renforcée et évitez les mouvements brusques de direction en allant à la plage."
               }
             },
             {
@@ -1078,13 +1199,15 @@
                 "de": "Forever Bereich",
                 "hu": "Forever Pihenő",
                 "ro": "Zona Forever",
-                "en": "Forever"
+                "en": "Forever",
+                "fr": "Pour toujours"
               },
               "tip_5lang": {
                 "de": "Durch den frühen Sonnenuntergang findet die Rückfahrt bei völliger Dunkelheit statt; vergewissern Sie sich vor der Abfahrt, dass alle Lichter am Wagen einwandfrei funktionieren.",
                 "hu": "A nap végére a korai sötétedés miatt a hazavezető út már teljes éjszakai körülmények között telik, így győződjön meg róla, hogy az összes lámpája megfelelően működik.",
                 "ro": "Până la sfârșitul zilei, din cauza apusului devreme, drumul de întoarcere se desfășoară în condiții de noapte, deci asigurați-vă că toate luminile funcționează corect.",
-                "en": "By the end of the day, due to early sunset, the drive back is in full night conditions, so make sure all your lights are working properly before leaving the final stop."
+                "en": "By the end of the day, due to early sunset, the drive back is in full night conditions, so make sure all your lights are working properly before leaving the final stop.",
+                "fr": "En fin de journée, en raison du coucher de soleil précoce, le retour se fait entièrement de nuit ; assurez-vous que tous vos feux fonctionnent correctement avant de quitter le dernier arrêt."
               }
             }
           ]

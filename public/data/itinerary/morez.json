@@ -21,7 +21,8 @@
             "de": "Espace Lamartine",
             "hu": "Espace Lamartine",
             "ro": "Espace Lamartine",
-            "en": "Espace Lamartine"
+            "en": "Espace Lamartine",
+            "fr": "Espace Lamartine"
           },
           "coords": [
             6.021488,
@@ -36,7 +37,8 @@
             "de": "Genießen Sie verschiedene kulturelle Ausstellungen in diesem dynamischen Raum für lokale Künstler und prüfen Sie die Anschlagtafel am Eingang auf Abendveranstaltungen.",
             "hu": "Élvezze a helyi művészeknek szentelt dinamikus kulturális teret a különböző kiállításokkal, és érkezéskor rögtön nézze meg a bejáratnál a hirdetőtáblát az esti programokért.",
             "ro": "Bucurați-vă de expozițiile culturale din acest spațiu dinamic dedicat artiștilor locali, și verificați avizierul de la intrare pentru a afla despre evenimentele de seară.",
-            "en": "Enjoy various cultural exhibitions in this dynamic modern space dedicated to local artists, and check their notice board right by the entrance for temporary evening events."
+            "en": "Enjoy various cultural exhibitions in this dynamic modern space dedicated to local artists, and check their notice board right by the entrance for temporary evening events.",
+            "fr": "Profitez de diverses expositions culturelles dans cet espace moderne et dynamique dédié aux artistes locaux, et consultez le panneau d'affichage à l'entrée pour les événements temporaires en soirée."
           }
         },
         {
@@ -44,7 +46,8 @@
             "de": "Bienne-Schlucht",
             "hu": "Bienne-szurdok",
             "ro": "Defileul Bienne",
-            "en": "Bienne Gorge"
+            "en": "Bienne Gorge",
+            "fr": "Gorges de la Bienne"
           },
           "coords": [
             6.023,
@@ -59,7 +62,8 @@
             "de": "Spazieren Sie durch die üppige Schlucht des Flusses Bienne mit ihrem erfrischenden Mikroklima und tragen Sie feste wasserdichte Schuhe, da der Weg rutschig ist.",
             "hu": "Sétáljon át a Bienne folyó által vájt dús, hűvös szurdokon, és mindenképpen viseljen vízálló túracipőt, mivel a köves ösvény sok helyen csúszós és nedves lehet.",
             "ro": "Plimbați-vă prin defileul îngust și răcoros săpat de râul Bienne, și asigurați-vă că purtați încălțăminte impermeabilă, deoarece poteca poate fi destul de alunecoasă.",
-            "en": "Walk through the lush, narrow gorge carved by the Bienne river offering a refreshing microclimate, and wear sturdy waterproof shoes as the path can be quite slippery."
+            "en": "Walk through the lush, narrow gorge carved by the Bienne river offering a refreshing microclimate, and wear sturdy waterproof shoes as the path can be quite slippery.",
+            "fr": "Parcourez la gorge étroite et verdoyante creusée par la Bienne offrant un microclimat rafraîchissant, et portez des chaussures robustes et imperméables car le sentier peut être très glissant."
           }
         },
         {
@@ -67,7 +71,8 @@
             "de": "Église de l'Assomption-de-Notre-Dame",
             "hu": "Église de l'Assomption-de-Notre-Dame",
             "ro": "Église de l'Assomption-de-Notre-Dame",
-            "en": "Église de l'Assomption-de-Notre-Dame"
+            "en": "Église de l'Assomption-de-Notre-Dame",
+            "fr": "Église de l'Assomption-de-Notre-Dame"
           },
           "coords": [
             6.024123,
@@ -82,7 +87,8 @@
             "de": "Treten Sie in diese ruhige Kirche ein, um die wunderschönen Buntglasfenster zu betrachten, und verhalten Sie sich ruhig, da Einheimische hier häufig beten.",
             "hu": "Lépjen be ebbe a békés templomba, hogy megcsodálja a helyi történelmet tükröző gyönyörű ólomüveg ablakokat, és ügyeljen a csendre az imádkozó helyiek miatt.",
             "ro": "Pășiți în această biserică liniștită pentru a observa vitraliile superbe ce reflectă istoria locală, și păstrați liniștea deoarece localnicii se roagă frecvent aici.",
-            "en": "Step inside this serene church to observe its beautiful stained-glass windows reflecting local history, and maintain a quiet voice as locals frequently pray here."
+            "en": "Step inside this serene church to observe its beautiful stained-glass windows reflecting local history, and maintain a quiet voice as locals frequently pray here.",
+            "fr": "Entrez dans cette église sereine pour observer ses beaux vitraux reflétant l'histoire locale, et gardez une voix basse car des fidèles prient souvent ici."
           }
         },
         {
@@ -90,7 +96,8 @@
             "de": "Brillenmuseum",
             "hu": "Szemüvegmúzeum",
             "ro": "Muzeul Ochelarilor",
-            "en": "Museum of Eyewear"
+            "en": "Museum of Eyewear",
+            "fr": "Musée de la Lunetterie"
           },
           "coords": [
             6.022652,
@@ -105,7 +112,8 @@
             "de": "Entdecken Sie die faszinierende Geschichte der Brillenherstellung, die Morez weltberühmt machte, und verpassen Sie nicht die interaktiven optischen Täuschungen.",
             "hu": "Fedezze fel a szemüveggyártás történetét, amely világhírűvé tette Morezt, és mindenképpen próbálja ki az interaktív optikai csalódásokat bemutató felső szintet.",
             "ro": "Explorați istoria fascinantă a fabricării ochelarilor care a făcut orașul Morez faimos, și nu ratați expozițiile interactive de iluzii optice de la ultimul etaj.",
-            "en": "Explore the fascinating history of eyewear manufacturing that made Morez famous worldwide, and don't miss the interactive optical illusion exhibits on the top floor."
+            "en": "Explore the fascinating history of eyewear manufacturing that made Morez famous worldwide, and don't miss the interactive optical illusion exhibits on the top floor.",
+            "fr": "Explorez l'histoire fascinante de la fabrication de lunettes qui a rendu Morez célèbre dans le monde, et ne manquez pas les expositions interactives d'illusions d'optique au dernier étage."
           }
         },
         {
@@ -113,7 +121,8 @@
             "de": "Morez-Viadukte",
             "hu": "Morez-i viaduktok",
             "ro": "Viaductele din Morez",
-            "en": "Morez Viaducts"
+            "en": "Morez Viaducts",
+            "fr": "Viaducs de Morez"
           },
           "coords": [
             6.023154,
@@ -128,7 +137,8 @@
             "de": "Bewundern Sie diese beeindruckenden Eisenbahnviadukte aus dem 19. Jahrhundert, die Sie am besten am späten Nachmittag vom westlichen Aussichtspunkt aus fotografieren.",
             "hu": "Csodálja meg a völgy felett átívelő, lenyűgöző 19. századi vasúti viaduktokat, amelyeket a nyugati kilátópontról a késő délutáni fényekben a legjobb lefotózni.",
             "ro": "Admirați aceste viaducte feroviare impresionante din secolul al XIX-lea, cel mai bine fotografiate de la punctul de belvedere vestic în lumina caldă a după-amiezii.",
-            "en": "Marvel at these impressive 19th-century railway viaducts curving beautifully over the valley, best photographed from the western viewpoint during the late afternoon sun."
+            "en": "Marvel at these impressive 19th-century railway viaducts curving beautifully over the valley, best photographed from the western viewpoint during the late afternoon sun.",
+            "fr": "Admirez ces impressionnants viaducs ferroviaires du XIXe siècle qui courbent magnifiquement au-dessus de la vallée, mieux photographiés depuis le point de vue ouest en fin d'après-midi."
           }
         }
       ],
@@ -136,7 +146,8 @@
         "de": "Ihr Rundgang durch Morez beginnt im Herzen des Kulturviertels im Espace Lamartine, wo Sie den lokalen künstlerischen Geist aufnehmen.\n\nAm Mittag kommen Sie der Natur in der Bienne-Schlucht nahe und finden danach eine friedliche Pause in der Église de l'Assomption.\n\nTauchen Sie am Nachmittag im renommierten Brillenmuseum in das reiche industrielle Erbe und die Geschichte der Brillenherstellung ein.\n\nBeenden Sie Ihren Tag, indem Sie die architektonischen Wunder der Morez-Viadukte bewundern, die sich beeindruckend gegen den Abendhimmel abzeichnen.",
         "hu": "A morezi séta a kulturális negyed szívében, az Espace Lamartine-nál indul, ahol átérezheti a helyi művészeti pezsgést.\n\nA nap közepén a Bienne-szurdok természetközeli élménye frissíti fel, majd a csendes Église de l'Assomption templom nyújt békés pihenőt.\n\nDélután merüljön el a város ipari örökségében a híres Szemüvegmúzeumban, megismerve a helyi szemüveggyártás történetét.\n\nA napot a morezi viaduktok építészeti csodájának megcsodálásával zárja, amelyek lenyűgöző látványt nyújtanak az esti égbolt előtt.",
         "ro": "Turul pietonal din Morez începe în inima districtului cultural la Espace Lamartine, unde veți absorbi spiritul artistic local.\n\nLa amiază, natura vă cheamă la defileul Bienne pentru o plimbare răcoroasă, urmată de un moment de liniște la biserica Église de l'Assomption.\n\nDupă-amiaza este dedicată patrimoniului industrial la faimosul Muzeu al Ochelarilor, explorând o istorie fascinantă.\n\nÎncheiați ziua admirând minunăția arhitecturală a viaductelor din Morez, care oferă o priveliște impresionantă sub cerul de seară.",
-        "en": "Your walking tour of Morez begins in the heart of the cultural district at Espace Lamartine. Here, you'll absorb the local artistic spirit.\n\nMidday brings you close to nature at the Bienne gorge, offering a refreshing walk along the river. Following this, the serene Église de l'Assomption provides a peaceful moment.\n\nIn the afternoon, dive into the town's rich industrial heritage at the renowned Eyewear Museum, exploring the legacy of glasses.\n\nConclude your day admiring the architectural marvel of the Morez viaducts. Their impressive scale against the evening sky makes for an unforgettable sight."
+        "en": "Your walking tour of Morez begins in the heart of the cultural district at Espace Lamartine. Here, you'll absorb the local artistic spirit.\n\nMidday brings you close to nature at the Bienne gorge, offering a refreshing walk along the river. Following this, the serene Église de l'Assomption provides a peaceful moment.\n\nIn the afternoon, dive into the town's rich industrial heritage at the renowned Eyewear Museum, exploring the legacy of glasses.\n\nConclude your day admiring the architectural marvel of the Morez viaducts. Their impressive scale against the evening sky makes for an unforgettable sight.",
+        "fr": "Votre visite à pied de Morez commence au cœur du quartier culturel à l'Espace Lamartine. Ici, vous vous imprégnerez de l'esprit artistique local.\n\nÀ la mi-journée, rapprochez-vous de la nature aux gorges de la Bienne, pour une balade rafraîchissante le long de la rivière. Ensuite, l'ancienne Église de l'Assomption offre un moment paisible.\n\nL'après-midi, plongez dans le riche patrimoine industriel de la ville au renommé Musée de la Lunetterie, en explorant l'héritage des lunettes.\n\nConcluez votre journée en admirant la merveille architecturale des viaducs de Morez. Leur ampleur face au ciel du soir est un spectacle inoubliable."
       },
       "variants": {
         "rainy": {
@@ -144,7 +155,8 @@
             "de": "Beginnen Sie den Morgen mit kulturellen Entdeckungen im Espace Lamartine. Mittags navigieren Sie vorsichtig auf den nassen Pfaden der Bienne-Schlucht, bevor Sie in der Kirche Schutz finden. Verbringen Sie einen regnerischen Nachmittag im faszinierenden Brillenmuseum. Beenden Sie den Tag mit den Viadukten im Nebel.",
             "hu": "Indítsa a reggelt az Espace Lamartine fedett, kulturális tereiben. Délben óvatosan járja be a Bienne-szurdok nedves ösvényeit, majd keressen menedéket a templomban. A csapadékos délutánt töltse a lenyűgöző Szemüvegmúzeumban. Zárásként csodálja meg a viaduktokat, melyek a ködben is fenségesek.",
             "ro": "Începeți dimineața cu descoperiri culturale la Espace Lamartine. La prânz, parcurgeți cu grijă cărările umede ale defileului Bienne înainte de a vă adăposti în biserică. Petreceți după-amiaza ploioasă explorând Muzeul Ochelarilor. Încheiați admirând viaductele din Morez, maiestuoase prin ceața atmosferică.",
-            "en": "Start your morning with indoor cultural discoveries at Espace Lamartine. Around midday, carefully navigate the wet paths of the Bienne Gorge before finding shelter in the church. Spend a rainy afternoon exploring the fascinating Museum of Eyewear. Conclude by viewing the majestic Morez Viaducts in the atmospheric mist."
+            "en": "Start your morning with indoor cultural discoveries at Espace Lamartine. Around midday, carefully navigate the wet paths of the Bienne Gorge before finding shelter in the church. Spend a rainy afternoon exploring the fascinating Museum of Eyewear. Conclude by viewing the majestic Morez Viaducts in the atmospheric mist.",
+            "fr": "Commencez votre matinée par des découvertes culturelles en intérieur à l'Espace Lamartine. Vers midi, naviguez prudemment sur les sentiers humides des gorges de la Bienne avant de trouver refuge dans l'église. Passez un après-midi pluvieux à explorer le fascinant Musée de la Lunetterie. Terminez en contemplant les majestueux viaducs de Morez dans la brume atmosphérique."
           },
           "stops": [
             {
@@ -152,13 +164,15 @@
                 "de": "Espace Lamartine",
                 "hu": "Espace Lamartine",
                 "ro": "Espace Lamartine",
-                "en": "Espace Lamartine"
+                "en": "Espace Lamartine",
+                "fr": "Espace Lamartine"
               },
               "tip_5lang": {
                 "de": "Genießen Sie die Ausstellungen drinnen, ein perfekter, trockener Start für Ihren Regentag in Morez.",
                 "hu": "Élvezze a kulturális kiállításokat zárt térben, amely tökéletes, száraz kezdést biztosít az esős napon.",
                 "ro": "Bucurați-vă de expozițiile culturale în interior, un început perfect și uscat pentru ziua ploioasă.",
-                "en": "Enjoy the cultural exhibits indoors, providing a perfect dry start to your rainy day in Morez."
+                "en": "Enjoy the cultural exhibits indoors, providing a perfect dry start to your rainy day in Morez.",
+                "fr": "Profitez des expositions culturelles à l'intérieur, offrant un excellent départ au sec pour votre journée pluvieuse à Morez."
               }
             },
             {
@@ -166,13 +180,15 @@
                 "de": "Bienne-Schlucht",
                 "hu": "Bienne-szurdok",
                 "ro": "Defileul Bienne",
-                "en": "Bienne Gorge"
+                "en": "Bienne Gorge",
+                "fr": "Gorges de la Bienne"
               },
               "tip_5lang": {
                 "de": "Die Schlucht wirkt im Regen dramatisch, aber tragen Sie wasserfeste Schuhe, da die Stufen sehr rutschig sind.",
                 "hu": "A szurdok drámai arcát mutatja esőben, de viseljen vízálló túracipőt, mert a kőlépcsők nagyon csúszósak.",
                 "ro": "Defileul arată dramatic în ploaie, dar purtați bocanci impermeabili deoarece treptele de piatră devin alunecoase.",
-                "en": "The gorge looks dramatic in the rain, but wear sturdy waterproof boots as the stone steps get extremely slippery."
+                "en": "The gorge looks dramatic in the rain, but wear sturdy waterproof boots as the stone steps get extremely slippery.",
+                "fr": "La gorge est spectaculaire sous la pluie, mais portez des bottes imperméables et robustes car les marches en pierre deviennent extrêmement glissantes."
               }
             },
             {
@@ -180,13 +196,15 @@
                 "de": "Église de l'Assomption-de-Notre-Dame",
                 "hu": "Église de l'Assomption-de-Notre-Dame",
                 "ro": "Église de l'Assomption-de-Notre-Dame",
-                "en": "Église de l'Assomption-de-Notre-Dame"
+                "en": "Église de l'Assomption-de-Notre-Dame",
+                "fr": "Église de l'Assomption-de-Notre-Dame"
               },
               "tip_5lang": {
                 "de": "Suchen Sie in dieser friedlichen Kirche Schutz vor Schauern und bewundern Sie das warme Licht der Fenster.",
                 "hu": "Keressen menedéket a záporok elől ebben a békés templomban, és csodálja meg a beszűrődő meleg fényeket.",
                 "ro": "Refugiați-vă de averse în această biserică pașnică și admirați lumina caldă care se filtrează prin sticlă.",
-                "en": "Take refuge from the showers inside this peaceful church and admire the warm light filtering through the glass."
+                "en": "Take refuge from the showers inside this peaceful church and admire the warm light filtering through the glass.",
+                "fr": "Mettez-vous à l'abri des averses dans cette église paisible et admirez la lumière chaude filtrant à travers les vitraux."
               }
             },
             {
@@ -194,13 +212,15 @@
                 "de": "Brillenmuseum",
                 "hu": "Szemüvegmúzeum",
                 "ro": "Muzeul Ochelarilor",
-                "en": "Museum of Eyewear"
+                "en": "Museum of Eyewear",
+                "fr": "Musée de la Lunetterie"
               },
               "tip_5lang": {
                 "de": "Entdecken Sie das optische Erbe in diesem Museum, ein idealer Rückzugsort bei starkem Nachmittagsregen.",
                 "hu": "Fedezze fel a helyi optikai örökséget ebben a fedett múzeumban, amely ideális menedék a délutáni esőben.",
                 "ro": "Descoperiți moștenirea optică locală în acest muzeu acoperit, un refugiu ideal pe o ploaie de după-amiază.",
-                "en": "Discover the local optical heritage in this engaging indoor museum, an ideal retreat during heavy afternoon rain."
+                "en": "Discover the local optical heritage in this engaging indoor museum, an ideal retreat during heavy afternoon rain.",
+                "fr": "Découvrez le patrimoine optique local dans ce musée intérieur captivant, un refuge idéal pendant une forte pluie l'après-midi."
               }
             },
             {
@@ -208,13 +228,15 @@
                 "de": "Morez-Viadukte",
                 "hu": "Morez-i viaduktok",
                 "ro": "Viaductele din Morez",
-                "en": "Morez Viaducts"
+                "en": "Morez Viaducts",
+                "fr": "Viaducs de Morez"
               },
               "tip_5lang": {
                 "de": "Betrachten Sie diese in Nebel gehüllten Wunder; halten Sie den Regenschirm bereit und achten Sie auf nasse Aussichtspunkte.",
                 "hu": "Csodálja meg ezeket a ködbe burkolózó csodákat; tartsa kéznél az esernyőt a nedves, csúszós kilátóknál.",
                 "ro": "Admirați aceste minuni învăluite în ceață; țineți umbrela la îndemână și aveți grijă la punctele de belvedere umede.",
-                "en": "View these engineering marvels shrouded in mist; keep your umbrella handy and watch your step on wet viewpoints."
+                "en": "View these engineering marvels shrouded in mist; keep your umbrella handy and watch your step on wet viewpoints.",
+                "fr": "Contemplez ces merveilles d'ingénierie enveloppées de brume ; gardez votre parapluie à portée de main et faites attention aux points de vue glissants."
               }
             }
           ]
@@ -224,7 +246,8 @@
             "de": "Beginnen Sie Ihren kalten Wintermorgen warm eingepackt im Espace Lamartine. Mittags trotzen Sie den frostigen Pfaden der Bienne-Schlucht und wärmen sich dann in der Kirche auf. Verbringen Sie einen gemütlichen Nachmittag im Brillenmuseum. In der frühen Dämmerung gegen 17 Uhr bewundern Sie die beleuchteten Viadukte im Schnee.",
             "hu": "Kezdje a hideg téli reggelt melegen öltözve az Espace Lamartine-ban. Dél körül járja be a Bienne-szurdok fagyos ösvényeit, majd melegedjen fel a történelmi templomban. Töltsön el egy hangulatos délutánt a Szemüvegmúzeumban. A korai, 17:00 körüli sötétedéskor csodálja meg a kivilágított viaduktokat a hóban.",
             "ro": "Începeți dimineața de iarnă îmbrăcați călduros la Espace Lamartine. La prânz, înfruntați cărările înghețate ale defileului Bienne, apoi încălziți-vă în biserica istorică. Petreceți o după-amiază confortabilă la Muzeul Ochelarilor. Odată cu amurgul timpuriu de la 17:00, admirați viaductele luminate pe fundalul zăpezii.",
-            "en": "Begin your cold winter morning wrapped up warmly at Espace Lamartine. Around noon, brave the frosty trails of the Bienne Gorge, then warm up inside the historic church. Spend a cozy afternoon learning at the Museum of Eyewear. As early dusk falls around 5 PM, marvel at the illuminated Morez Viaducts against the snow."
+            "en": "Begin your cold winter morning wrapped up warmly at Espace Lamartine. Around noon, brave the frosty trails of the Bienne Gorge, then warm up inside the historic church. Spend a cozy afternoon learning at the Museum of Eyewear. As early dusk falls around 5 PM, marvel at the illuminated Morez Viaducts against the snow.",
+            "fr": "Commencez votre froid matin d'hiver bien emmitouflé à l'Espace Lamartine. Vers midi, affrontez les sentiers givrés des gorges de la Bienne, puis réchauffez-vous dans l'église historique. Passez un après-midi douillet au Musée de la Lunetterie. Au crépuscule vers 17h, émerveillez-vous des viaducs de Morez illuminés contre la neige."
           },
           "stops": [
             {
@@ -232,13 +255,15 @@
                 "de": "Espace Lamartine",
                 "hu": "Espace Lamartine",
                 "ro": "Espace Lamartine",
-                "en": "Espace Lamartine"
+                "en": "Espace Lamartine",
+                "fr": "Espace Lamartine"
               },
               "tip_5lang": {
                 "de": "Genießen Sie die beheizten Ausstellungen, um sich auf den Wintertag einzustimmen, bevor es in die Kälte geht.",
                 "hu": "Élvezze a fűtött belső kiállításokat, hogy kényelmesen induljon a fagyos nap, mielőtt kimenne a hidegbe.",
                 "ro": "Bucurați-vă de expozițiile încălzite pentru a începe confortabil ziua, înainte de a ieși în frigul de afară.",
-                "en": "Enjoy the heated indoor exhibits to ease into the cold winter day before heading out into the chilly outdoor air."
+                "en": "Enjoy the heated indoor exhibits to ease into the cold winter day before heading out into the chilly outdoor air.",
+                "fr": "Profitez des expositions chauffées en intérieur pour vous mettre en douceur avant d'affronter le grand air froid."
               }
             },
             {
@@ -246,13 +271,15 @@
                 "de": "Bienne-Schlucht",
                 "hu": "Bienne-szurdok",
                 "ro": "Defileul Bienne",
-                "en": "Bienne Gorge"
+                "en": "Bienne Gorge",
+                "fr": "Gorges de la Bienne"
               },
               "tip_5lang": {
                 "de": "Die gefrorene Landschaft ist atemberaubend, aber Schuhspikes sind für die eisigen Schluchtpfade sehr zu empfehlen.",
                 "hu": "A fagyott táj lenyűgöző, de a csúszós szurdokösvényeken erősen ajánlott a csúszásgátló talp a bakancson.",
                 "ro": "Peisajele înghețate sunt uimitoare, dar crampoanele pe bocanci sunt foarte recomandate pentru cărările înghețate.",
-                "en": "The frozen landscapes are stunning, but micro-spikes on your boots are highly recommended for the icy gorge paths."
+                "en": "The frozen landscapes are stunning, but micro-spikes on your boots are highly recommended for the icy gorge paths.",
+                "fr": "Les paysages gelés sont splendides, mais des crampons pour bottes sont fortement recommandés pour les sentiers glacés de la gorge."
               }
             },
             {
@@ -260,13 +287,15 @@
                 "de": "Église de l'Assomption-de-Notre-Dame",
                 "hu": "Église de l'Assomption-de-Notre-Dame",
                 "ro": "Église de l'Assomption-de-Notre-Dame",
-                "en": "Église de l'Assomption-de-Notre-Dame"
+                "en": "Église de l'Assomption-de-Notre-Dame",
+                "fr": "Église de l'Assomption-de-Notre-Dame"
               },
               "tip_5lang": {
                 "de": "Treten Sie ein, um dem eisigen Wind zu entkommen und eine wärmende Pause im Winterlicht des Kirchenschiffs zu machen.",
                 "hu": "Lépjen be, hogy elmeneküljön a metsző szél elől, és tartson egy melegedő szünetet a téli fények csodálása közben.",
                 "ro": "Intrați pentru a scăpa de vântul tăios și luați o pauză de încălzire în timp ce admirați lumina iernii în naos.",
-                "en": "Step inside to escape the biting wind and take a quiet, warming break while admiring the winter light in the nave."
+                "en": "Step inside to escape the biting wind and take a quiet, warming break while admiring the winter light in the nave.",
+                "fr": "Entrez pour échapper au vent mordant et prenez une pause tranquille et réchauffante en admirant la lumière hivernale dans la nef."
               }
             },
             {
@@ -274,13 +303,15 @@
                 "de": "Brillenmuseum",
                 "hu": "Szemüvegmúzeum",
                 "ro": "Muzeul Ochelarilor",
-                "en": "Museum of Eyewear"
+                "en": "Museum of Eyewear",
+                "fr": "Musée de la Lunetterie"
               },
               "tip_5lang": {
                 "de": "Ein perfekt gemütlicher, gut beheizter Stopp für den späten Nachmittag, wenn die Außentemperaturen rasch sinken.",
                 "hu": "Kellemes és jól fűtött megálló a késő délutáni órákban, amikor a kinti hőmérséklet gyors csökkenésnek indul.",
                 "ro": "O oprire confortabilă și bine încălzită pentru a petrece după-amiaza târzie, când temperaturile încep să scadă.",
-                "en": "A perfectly cozy and well-heated stop to spend the late afternoon as the outside temperatures start to drop rapidly."
+                "en": "A perfectly cozy and well-heated stop to spend the late afternoon as the outside temperatures start to drop rapidly.",
+                "fr": "Une halte parfaitement chaleureuse et bien chauffée pour passer la fin d'après-midi alors que la température extérieure chute rapidement."
               }
             },
             {
@@ -288,13 +319,15 @@
                 "de": "Morez-Viadukte",
                 "hu": "Morez-i viaduktok",
                 "ro": "Viaductele din Morez",
-                "en": "Morez Viaducts"
+                "en": "Morez Viaducts",
+                "fr": "Viaducs de Morez"
               },
               "tip_5lang": {
                 "de": "Besuchen Sie sie kurz vor 17 Uhr, um die massiven Steinbögen spektakulär vor dem dunklen Winterhimmel beleuchtet zu sehen.",
                 "hu": "Próbáljon 17:00 előtt érkezni, hogy lássa a sötét téli égbolt előtt kivilágított, hatalmas kőíveket.",
                 "ro": "Vizitați-le chiar înainte de 17:00 pentru a vedea arcele masive de piatră luminate spectaculos pe cerul întunecat de iarnă.",
-                "en": "Aim to visit just before 5 PM to see the massive stone arches spectacularly lit up against the dark winter sky."
+                "en": "Aim to visit just before 5 PM to see the massive stone arches spectacularly lit up against the dark winter sky.",
+                "fr": "Prévoyez de visiter juste avant 17h pour voir les énormes arches en pierre magnifiquement éclairées contre le ciel hivernal sombre."
               }
             }
           ]
@@ -314,7 +347,8 @@
             "de": "Haus der Emaillekunst",
             "hu": "Zománcművészet Háza",
             "ro": "Casa Artei Emailului",
-            "en": "House of Enamel Art"
+            "en": "House of Enamel Art",
+            "fr": "Maison de l'Art de l'Émail"
           },
           "coords": [
             6.025811,
@@ -329,7 +363,8 @@
             "de": "Bewundern Sie die exquisite Emaillekunst, die eine einzigartige regionale Handwerkstradition hervorhebt, und prüfen Sie den Zeitplan für Live-Demonstrationen.",
             "hu": "Csodálja meg a páratlan helyi zománcművészeti alkotásokat, amelyek a regionális hagyományokat őrzik, és érdemes előre tájékozódni az élő kézműves bemutatókról.",
             "ro": "Admirați rafinata artă locală a emailului care subliniază o tradiție meșteșugărească unică, și verificați neapărat programul pentru demonstrațiile live ale artizanilor.",
-            "en": "Admire the exquisite local enamel artistry that highlights a unique regional craft tradition, and be sure to check the schedule for live demonstrations by local artisans."
+            "en": "Admire the exquisite local enamel artistry that highlights a unique regional craft tradition, and be sure to check the schedule for live demonstrations by local artisans.",
+            "fr": "Admirez l'exquise artisanerie locale de l'émail qui met en valeur une tradition artisanale régionale unique, et consultez le programme pour les démonstrations en direct par des artisans locaux."
           }
         },
         {
@@ -337,7 +372,8 @@
             "de": "Brillenmuseum",
             "hu": "Szemüvegmúzeum",
             "ro": "Muzeul Ochelarilor",
-            "en": "Museum of Eyewear"
+            "en": "Museum of Eyewear",
+            "fr": "Musée de la Lunetterie"
           },
           "coords": [
             6.022652,
@@ -352,7 +388,8 @@
             "de": "Entdecken Sie die faszinierende Geschichte der Brillenherstellung, die Morez weltberühmt machte, und verpassen Sie nicht die interaktiven optischen Täuschungen.",
             "hu": "Fedezze fel a szemüveggyártás történetét, amely világhírűvé tette Morezt, és mindenképpen próbálja ki az interaktív optikai csalódásokat bemutató felső szintet.",
             "ro": "Explorați istoria fascinantă a fabricării ochelarilor care a făcut orașul Morez faimos, și nu ratați expozițiile interactive de iluzii optice de la ultimul etaj.",
-            "en": "Explore the fascinating history of eyewear manufacturing that made Morez famous worldwide, and don't miss the interactive optical illusion exhibits on the top floor."
+            "en": "Explore the fascinating history of eyewear manufacturing that made Morez famous worldwide, and don't miss the interactive optical illusion exhibits on the top floor.",
+            "fr": "Explorez l'histoire fascinante de la fabrication de lunettes qui a rendu Morez célèbre dans le monde, et ne manquez pas les expositions interactives d'illusions d'optique au dernier étage."
           }
         },
         {
@@ -360,7 +397,8 @@
             "de": "Église de l'Assomption-de-Notre-Dame",
             "hu": "Église de l'Assomption-de-Notre-Dame",
             "ro": "Église de l'Assomption-de-Notre-Dame",
-            "en": "Église de l'Assomption-de-Notre-Dame"
+            "en": "Église de l'Assomption-de-Notre-Dame",
+            "fr": "Église de l'Assomption-de-Notre-Dame"
           },
           "coords": [
             6.024123,
@@ -375,7 +413,8 @@
             "de": "Treten Sie in diese ruhige Kirche ein, um die wunderschönen Buntglasfenster zu betrachten, und verhalten Sie sich ruhig, da Einheimische hier häufig beten.",
             "hu": "Lépjen be ebbe a békés templomba, hogy megcsodálja a helyi történelmet tükröző gyönyörű ólomüveg ablakokat, és ügyeljen a csendre az imádkozó helyiek miatt.",
             "ro": "Pășiți în această biserică liniștită pentru a observa vitraliile superbe ce reflectă istoria locală, și păstrați liniștea deoarece localnicii se roagă frecvent aici.",
-            "en": "Step inside this serene church to observe its beautiful stained-glass windows reflecting local history, and maintain a quiet voice as locals frequently pray here."
+            "en": "Step inside this serene church to observe its beautiful stained-glass windows reflecting local history, and maintain a quiet voice as locals frequently pray here.",
+            "fr": "Entrez dans cette église sereine pour observer ses beaux vitraux reflétant l'histoire locale, et gardez une voix basse car des fidèles prient souvent ici."
           }
         },
         {
@@ -383,7 +422,8 @@
             "de": "Espace Lamartine",
             "hu": "Espace Lamartine",
             "ro": "Espace Lamartine",
-            "en": "Espace Lamartine"
+            "en": "Espace Lamartine",
+            "fr": "Espace Lamartine"
           },
           "coords": [
             6.021488,
@@ -398,7 +438,8 @@
             "de": "Genießen Sie verschiedene kulturelle Ausstellungen in diesem dynamischen Raum für lokale Künstler und prüfen Sie die Anschlagtafel am Eingang auf Abendveranstaltungen.",
             "hu": "Élvezze a helyi művészeknek szentelt dinamikus kulturális teret a különböző kiállításokkal, és érkezéskor rögtön nézze meg a bejáratnál a hirdetőtáblát az esti programokért.",
             "ro": "Bucurați-vă de expozițiile culturale din acest spațiu dinamic dedicat artiștilor locali, și verificați avizierul de la intrare pentru a afla despre evenimentele de seară.",
-            "en": "Enjoy various cultural exhibitions in this dynamic modern space dedicated to local artists, and check their notice board right by the entrance for temporary evening events."
+            "en": "Enjoy various cultural exhibitions in this dynamic modern space dedicated to local artists, and check their notice board right by the entrance for temporary evening events.",
+            "fr": "Profitez de diverses expositions culturelles dans cet espace moderne et dynamique dédié aux artistes locaux, et consultez le panneau d'affichage à l'entrée pour les événements temporaires en soirée."
           }
         },
         {
@@ -406,7 +447,8 @@
             "de": "Bienne-Schlucht",
             "hu": "Bienne-szurdok",
             "ro": "Defileul Bienne",
-            "en": "Bienne Gorge"
+            "en": "Bienne Gorge",
+            "fr": "Gorges de la Bienne"
           },
           "coords": [
             6.023,
@@ -421,7 +463,8 @@
             "de": "Spazieren Sie durch die üppige Schlucht des Flusses Bienne mit ihrem erfrischenden Mikroklima und tragen Sie feste wasserdichte Schuhe, da der Weg rutschig ist.",
             "hu": "Sétáljon át a Bienne folyó által vájt dús, hűvös szurdokon, és mindenképpen viseljen vízálló túracipőt, mivel a köves ösvény sok helyen csúszós és nedves lehet.",
             "ro": "Plimbați-vă prin defileul îngust și răcoros săpat de râul Bienne, și asigurați-vă că purtați încălțăminte impermeabilă, deoarece poteca poate fi destul de alunecoasă.",
-            "en": "Walk through the lush, narrow gorge carved by the Bienne river offering a refreshing microclimate, and wear sturdy waterproof shoes as the path can be quite slippery."
+            "en": "Walk through the lush, narrow gorge carved by the Bienne river offering a refreshing microclimate, and wear sturdy waterproof shoes as the path can be quite slippery.",
+            "fr": "Parcourez la gorge étroite et verdoyante creusée par la Bienne offrant un microclimat rafraîchissant, et portez des chaussures robustes et imperméables car le sentier peut être très glissant."
           }
         },
         {
@@ -429,7 +472,8 @@
             "de": "Morez-Viadukte",
             "hu": "Morez-i viaduktok",
             "ro": "Viaductele din Morez",
-            "en": "Morez Viaducts"
+            "en": "Morez Viaducts",
+            "fr": "Viaducs de Morez"
           },
           "coords": [
             6.023154,
@@ -444,7 +488,8 @@
             "de": "Bewundern Sie diese beeindruckenden Eisenbahnviadukte aus dem 19. Jahrhundert, die Sie am besten am späten Nachmittag vom westlichen Aussichtspunkt aus fotografieren.",
             "hu": "Csodálja meg a völgy felett átívelő, lenyűgöző 19. századi vasúti viaduktokat, amelyeket a nyugati kilátópontról a késő délutáni fényekben a legjobb lefotózni.",
             "ro": "Admirați aceste viaducte feroviare impresionante din secolul al XIX-lea, cel mai bine fotografiate de la punctul de belvedere vestic în lumina caldă a după-amiezii.",
-            "en": "Marvel at these impressive 19th-century railway viaducts curving beautifully over the valley, best photographed from the western viewpoint during the late afternoon sun."
+            "en": "Marvel at these impressive 19th-century railway viaducts curving beautifully over the valley, best photographed from the western viewpoint during the late afternoon sun.",
+            "fr": "Admirez ces impressionnants viaducs ferroviaires du XIXe siècle qui courbent magnifiquement au-dessus de la vallée, mieux photographiés depuis le point de vue ouest en fin d'après-midi."
           }
         }
       ],
@@ -452,7 +497,8 @@
         "de": "Beginnen Sie Ihre Radtour südlich des Zentrums im Haus der Emaillekunst und tauchen Sie in das lokale Kunsthandwerk ein.\n\nFahren Sie nach Norden zum faszinierenden Brillenmuseum, bevor Sie in der nahegelegenen Kirche eine ruhige Besinnung finden.\n\nIhr Nachmittag geht im Espace Lamartine mit Kultur weiter, gefolgt von einer erfrischenden Brise in der Bienne-Schlucht.\n\nBeenden Sie Ihre Radtour an den majestätischen Morez-Viadukten und fangen Sie das Licht der goldenen Stunde an den Eisenbahnbögen ein.",
         "hu": "Kerékpáros túráját a központtól délre, a Zománcművészet Házában kezdi, ahol megismerheti a finom helyi kézművességet.\n\nTekerjen északra a lenyűgöző Szemüvegmúzeumhoz, majd egy rövid úttal érje el a közeli templomot egy kis csendes elmélkedésre.\n\nA délután az Espace Lamartine kulturális élményeivel folytatódik, majd a Bienne-szurdok hűsítő levegője frissíti fel.\n\nZárja kerékpáros napját a fenséges morezi viaduktoknál, megörökítve az aranyóra fényeit a lenyűgöző vasúti boltíveken.",
         "ro": "Începeți traseul de ciclism la sud de centru, la Casa Artei Emailului, scufundându-vă în meșteșugurile locale complexe.\n\nPedalați spre nord până la fascinantul Muzeu al Ochelarilor, urmat de un scurt popas la biserica din apropiere pentru o clipă de liniște.\n\nDupă-amiaza continuă la Espace Lamartine pentru o doză de cultură, urmată de o briză răcoroasă la defileul Bienne.\n\nTerminați turul pe bicicletă la viaductele maiestuoase din Morez, surprinzând lumina orei de aur lovind arcadele feroviare.",
-        "en": "Kick off your cycling journey south of the center at the Zománcművészet Háza, immersing yourself in intricate local crafts.\n\nRide north to the fascinating Eyewear Museum before taking a short pedal to the nearby church for some quiet reflection.\n\nYour afternoon continues at Espace Lamartine for a cultural boost, followed by a refreshing breeze at the Bienne gorge.\n\nEnd your cycling tour at the majestic Morez viaducts, capturing the golden hour light striking the magnificent railway arches."
+        "en": "Kick off your cycling journey south of the center at the Zománcművészet Háza, immersing yourself in intricate local crafts.\n\nRide north to the fascinating Eyewear Museum before taking a short pedal to the nearby church for some quiet reflection.\n\nYour afternoon continues at Espace Lamartine for a cultural boost, followed by a refreshing breeze at the Bienne gorge.\n\nEnd your cycling tour at the majestic Morez viaducts, capturing the golden hour light striking the magnificent railway arches.",
+        "fr": "Commencez votre circuit à vélo au sud du centre à la Maison de l'Art de l'Émail, en vous plongeant dans les arts décoratifs locaux.\n\nPédalez vers le nord jusqu'au fascinant Musée de la Lunetterie avant de faire une courte balade jusqu'à l'église voisine pour un moment de recueillement.\n\nVotre après-midi se poursuit à l'Espace Lamartine pour un apport culturel, suivi d'une brise rafraîchissante aux gorges de la Bienne.\n\nTerminez votre tour cycliste aux majestueux viaducs de Morez, immortalisant la lumière de l'heure dorée frappant les magnifiques arches ferroviaires."
       },
       "variants": {
         "rainy": {
@@ -460,7 +506,8 @@
             "de": "Beginnen Sie Ihren nassen Radtag sicher drinnen im Haus der Emaillekunst. Mittags radeln Sie vorsichtig durch den Regen zum Brillenmuseum und zur Kirche. Verbringen Sie den regnerischen Nachmittag im Espace Lamartine und in der rutschigen Bienne-Schlucht. Beenden Sie die feuchte Fahrt unter den Viadukten.",
             "hu": "Kezdje a nedves kerékpáros napot biztonságos fedett helyen, a Zománcművészet Házában. Délben tekerjen óvatosan az esőben a Szemüvegmúzeumhoz és a templomhoz. A csapadékos délutánt az Espace Lamartine-ban és a csúszós, de drámai Bienne-szurdokban töltse. Zárja a túrát a viaduktok alatt.",
             "ro": "Începeți ziua ploioasă de ciclism la interior, la Casa Artei Emailului. La prânz, pedalați cu grijă prin ploaie spre Muzeul Ochelarilor și biserica istorică. Petreceți după-amiaza ploioasă la Espace Lamartine și în defileul Bienne, dramatic dar alunecos. Încheiați plimbarea sub viaducte.",
-            "en": "Start your wet biking day safely indoors at the House of Enamel Art. By midday, pedal carefully through the rain to the Museum of Eyewear and the historic church. Spend your rainy afternoon at Espace Lamartine and the slippery but dramatic Bienne Gorge. End your damp ride under the imposing Morez Viaducts."
+            "en": "Start your wet biking day safely indoors at the House of Enamel Art. By midday, pedal carefully through the rain to the Museum of Eyewear and the historic church. Spend your rainy afternoon at Espace Lamartine and the slippery but dramatic Bienne Gorge. End your damp ride under the imposing Morez Viaducts.",
+            "fr": "Commencez votre journée vélo sous la pluie en toute sécurité à la Maison de l'Art de l'Émail. Vers midi, pédalez prudemment sous la pluie jusqu'au Musée de la Lunetterie et à l'église historique. Passez votre après-midi pluvieux à l'Espace Lamartine et à la spectaculaire mais glissante gorge de la Bienne. Terminez votre balade humide sous les imposants viaducs de Morez."
           },
           "stops": [
             {
@@ -468,13 +515,15 @@
                 "de": "Haus der Emaillekunst",
                 "hu": "Zománcművészet Háza",
                 "ro": "Casa Artei Emailului",
-                "en": "House of Enamel Art"
+                "en": "House of Enamel Art",
+                "fr": "Maison de l'Art de l'Émail"
               },
               "tip_5lang": {
                 "de": "Lassen Sie Ihre nasse Ausrüstung am Eingang und genießen Sie die lebendigen Emaillefarben als Kontrast zum Regen.",
                 "hu": "Hagyja a vizes felszerelést a bejáratnál, és élvezze az élénk zománcszíneket, melyek remek kontrasztot adnak az esőnek.",
                 "ro": "Lăsați echipamentul ud la intrare și bucurați-vă de culorile vibrante ale emailului care contrastează cu ploaia.",
-                "en": "Leave your wet gear at the entrance and enjoy the vibrant enamel colors that offer a bright contrast to the rain."
+                "en": "Leave your wet gear at the entrance and enjoy the vibrant enamel colors that offer a bright contrast to the rain.",
+                "fr": "Laissez votre équipement humide à l'entrée et profitez des couleurs vives de l'émail qui contrastent agréablement avec la pluie."
               }
             },
             {
@@ -482,13 +531,15 @@
                 "de": "Brillenmuseum",
                 "hu": "Szemüvegmúzeum",
                 "ro": "Muzeul Ochelarilor",
-                "en": "Museum of Eyewear"
+                "en": "Museum of Eyewear",
+                "fr": "Musée de la Lunetterie"
               },
               "tip_5lang": {
                 "de": "Schließen Sie Ihr Rad unterdacht an und nehmen Sie sich Zeit für die Sammlung, während die Schauer vorbeiziehen.",
                 "hu": "Zárja le a biciklit egy közeli fedett helyen, és nyugodtan fedezze fel a gyűjteményt, amíg elvonulnak a záporok.",
                 "ro": "Legați bicicleta sub un adăpost și explorați pe îndelete colecția extinsă în timp ce trec aversele.",
-                "en": "Lock your bike under a nearby shelter and take your time exploring the extensive collection while the showers pass."
+                "en": "Lock your bike under a nearby shelter and take your time exploring the extensive collection while the showers pass.",
+                "fr": "Verrouillez votre vélo sous un abri à proximité et prenez le temps d'explorer la vaste collection pendant que les averses passent."
               }
             },
             {
@@ -496,13 +547,15 @@
                 "de": "Église de l'Assomption-de-Notre-Dame",
                 "hu": "Église de l'Assomption-de-Notre-Dame",
                 "ro": "Église de l'Assomption-de-Notre-Dame",
-                "en": "Église de l'Assomption-de-Notre-Dame"
+                "en": "Église de l'Assomption-de-Notre-Dame",
+                "fr": "Église de l'Assomption-de-Notre-Dame"
               },
               "tip_5lang": {
                 "de": "Ein trockenes Heiligtum für eine kurze Pause; achten Sie auf rutschige Steinstufen, wenn Sie im Regen absteigen.",
                 "hu": "Száraz menedék egy gyors pihenőre; esőben vigyázzon a csúszós kőlépcsőkre, amikor leszáll a kerékpárról.",
                 "ro": "Un sanctuar uscat perfect pentru o pauză scurtă; aveți grijă la treptele de piatră alunecoase când descălecați în ploaie.",
-                "en": "A dry sanctuary perfect for a quick break; be mindful of slippery stone steps when dismounting your bike in the rain."
+                "en": "A dry sanctuary perfect for a quick break; be mindful of slippery stone steps when dismounting your bike in the rain.",
+                "fr": "Un sanctuaire sec idéal pour une courte pause ; faites attention aux marches en pierre glissantes en descendant de votre vélo sous la pluie."
               }
             },
             {
@@ -510,13 +563,15 @@
                 "de": "Espace Lamartine",
                 "hu": "Espace Lamartine",
                 "ro": "Espace Lamartine",
-                "en": "Espace Lamartine"
+                "en": "Espace Lamartine",
+                "fr": "Espace Lamartine"
               },
               "tip_5lang": {
                 "de": "Wärmen Sie sich in diesem Kulturzentrum auf und gönnen Sie Ihren Beinen eine Pause vom Radeln auf nassen Straßen.",
                 "hu": "Melegedjen fel és száradjon meg ebben a központban, pihentetve lábait az esőtől csúszós utcákon való tekerés után.",
                 "ro": "Încălziți-vă și uscați-vă în acest centru cultural, odihnindu-vă picioarele după pedalarea pe străzile alunecoase.",
-                "en": "Warm up and dry off in this cultural center, giving your legs a rest from pedaling through the rain-slicked streets."
+                "en": "Warm up and dry off in this cultural center, giving your legs a rest from pedaling through the rain-slicked streets.",
+                "fr": "Réchauffez-vous et séchez-vous dans ce centre culturel, donnant à vos jambes un repos bienvenu après avoir pédalé dans les rues détrempées."
               }
             },
             {
@@ -524,13 +579,15 @@
                 "de": "Bienne-Schlucht",
                 "hu": "Bienne-szurdok",
                 "ro": "Defileul Bienne",
-                "en": "Bienne Gorge"
+                "en": "Bienne Gorge",
+                "fr": "Gorges de la Bienne"
               },
               "tip_5lang": {
                 "de": "Die nassen Felsen sind tückisch; steigen Sie ab, parken Sie das Rad sicher und gehen Sie vorsichtig auf den Pfaden.",
                 "hu": "A nedves sziklák veszélyesek a kerékpárosokra; szálljon le, parkoljon biztonságosan, és óvatosan sétáljon az ösvényeken.",
                 "ro": "Stâncile umede sunt periculoase; descălecați, parcați bicicleta în siguranță și mergeți cu atenție pe poteci.",
-                "en": "The wet rocks here are treacherous for cyclists; dismount, park your bike securely, and walk the wet trails carefully."
+                "en": "The wet rocks here are treacherous for cyclists; dismount, park your bike securely, and walk the wet trails carefully.",
+                "fr": "Les rochers mouillés sont traîtres pour les cyclistes ; descendez de votre vélo, garez-le en sécurité et parcourez les sentiers trempés à pied avec précaution."
               }
             },
             {
@@ -538,13 +595,15 @@
                 "de": "Morez-Viadukte",
                 "hu": "Morez-i viaduktok",
                 "ro": "Viaductele din Morez",
-                "en": "Morez Viaducts"
+                "en": "Morez Viaducts",
+                "fr": "Viaducs de Morez"
               },
               "tip_5lang": {
                 "de": "Achten Sie auf nasses Laub auf dem Weg zum Aussichtspunkt und stellen Sie sicher, dass Ihre Fahrradlichter an sind.",
                 "hu": "Figyeljen a csúszós, nedves falevelekre a kilátó felé, és győződjön meg róla, hogy a kerékpárlámpák be vannak kapcsolva.",
                 "ro": "Atenție la frunzele umede pe drumul spre belvedere și asigurați-vă că luminile bicicletei sunt aprinse pe vreme posomorâtă.",
-                "en": "Watch for slippery wet leaves on the path to the viewpoint, and ensure your bike lights are on in the gloomy weather."
+                "en": "Watch for slippery wet leaves on the path to the viewpoint, and ensure your bike lights are on in the gloomy weather.",
+                "fr": "Surveillez les feuilles mouillées et glissantes sur le chemin vers le point de vue, et assurez-vous que vos feux de vélo sont allumés par temps sombre."
               }
             }
           ]
@@ -554,7 +613,8 @@
             "de": "Beginnen Sie Ihr winterliches Radabenteuer zum Aufwärmen im Haus der Emaillekunst. Mittags trotzen Sie den kalten Straßen zum Brillenmuseum und zur Kirche. Verbringen Sie den frostigen Nachmittag im Espace Lamartine und in der eisigen Bienne-Schlucht. Radeln Sie in der Dämmerung gegen 17 Uhr vorsichtig zu den Viadukten.",
             "hu": "Kezdje a fagyos téli bringatúrát a Zománcművészet Házában melegedve. Délben dacoljon a hideggel a Szemüvegmúzeum és a hívogató templom felé. A fagyos délutánt az Espace Lamartine és a jeges Bienne-szurdok felfedezésével töltse. Tekerjen óvatosan a viaduktokhoz az 17:00 körüli sötétedésben.",
             "ro": "Începeți aventura de iarnă pe bicicletă încălzindu-vă la Casa Artei Emailului. La prânz, înfruntați străzile reci spre Muzeul Ochelarilor și biserica primitoare. Petreceți după-amiaza înghețată la Espace Lamartine și defileul de gheață Bienne. Pedalați cu grijă spre viaducte, odată cu întunericul de la 17:00.",
-            "en": "Begin your crisp winter biking adventure warming up at the House of Enamel Art. By midday, brave the cold streets to visit the Museum of Eyewear and the welcoming church. Spend your freezing afternoon discovering Espace Lamartine and the icy Bienne Gorge. Cycle carefully to the Viaducts as it darkens around 5 PM."
+            "en": "Begin your crisp winter biking adventure warming up at the House of Enamel Art. By midday, brave the cold streets to visit the Museum of Eyewear and the welcoming church. Spend your freezing afternoon discovering Espace Lamartine and the icy Bienne Gorge. Cycle carefully to the Viaducts as it darkens around 5 PM.",
+            "fr": "Commencez votre rafraîchissante aventure cycliste hivernale en vous échauffant à la Maison de l'Art de l'Émail. À midi, affrontez les rues froides pour visiter le Musée de la Lunetterie et l'église accueillante. Passez un après-midi glacial à découvrir l'Espace Lamartine et les gorges glacées de la Bienne. Roulez prudemment vers les viaducs alors que l'obscurité tombe vers 17h."
           },
           "stops": [
             {
@@ -562,13 +622,15 @@
                 "de": "Haus der Emaillekunst",
                 "hu": "Zománcművészet Háza",
                 "ro": "Casa Artei Emailului",
-                "en": "House of Enamel Art"
+                "en": "House of Enamel Art",
+                "fr": "Maison de l'Art de l'Émail"
               },
               "tip_5lang": {
                 "de": "Ein beheizter Start; tragen Sie warme, atmungsaktive Schichten, um drinnen nach der kalten Fahrt nicht zu überhitzen.",
                 "hu": "Remek, fűtött kezdőpont; öltözzön meleg, lélegző rétegekbe, hogy a hideg tekerés után ne gyulladjon ki a benti terekben.",
                 "ro": "Un loc încălzit minunat; îmbrăcați-vă în straturi calde, respirabile, pentru a nu vă supraîncălzi după cursa rece.",
-                "en": "A great heated stop to start; dress in warm, breathable layers so you don't overheat indoors after your cold ride."
+                "en": "A great heated stop to start; dress in warm, breathable layers so you don't overheat indoors after your cold ride.",
+                "fr": "Une excellente halte chauffée pour démarrer ; habillez-vous en couches chaudes et respirantes afin de ne pas trop transpirer à l'intérieur après votre trajet froid."
               }
             },
             {
@@ -576,13 +638,15 @@
                 "de": "Brillenmuseum",
                 "hu": "Szemüvegmúzeum",
                 "ro": "Muzeul Ochelarilor",
-                "en": "Museum of Eyewear"
+                "en": "Museum of Eyewear",
+                "fr": "Musée de la Lunetterie"
               },
               "tip_5lang": {
                 "de": "Parken Sie das Rad und tauchen Sie Ihre frierenden Finger auf, während Sie die Geschichte der Brillenherstellung erkunden.",
                 "hu": "Parkolja le a biciklit, és engedje fel fagyos ujjait, miközben felfedezi a morezi szemüveggyártás gazdag történetét.",
                 "ro": "Parcați bicicleta și încălziți-vă degetele înghețate în timp ce explorați istoria bogată a producției de ochelari din Morez.",
-                "en": "Park your bike and thaw your freezing fingers while exploring the rich history of Morez's spectacle manufacturing."
+                "en": "Park your bike and thaw your freezing fingers while exploring the rich history of Morez's spectacle manufacturing.",
+                "fr": "Garez votre vélo et réchauffez vos doigts gelés en explorant la riche histoire de la lunetterie de Morez."
               }
             },
             {
@@ -590,13 +654,15 @@
                 "de": "Église de l'Assomption-de-Notre-Dame",
                 "hu": "Église de l'Assomption-de-Notre-Dame",
                 "ro": "Église de l'Assomption-de-Notre-Dame",
-                "en": "Église de l'Assomption-de-Notre-Dame"
+                "en": "Église de l'Assomption-de-Notre-Dame",
+                "fr": "Église de l'Assomption-de-Notre-Dame"
               },
               "tip_5lang": {
                 "de": "Treten Sie aus der eisigen Zugluft ein; ein ruhiger Ort, um Atem zu holen und sich fernab des kalten Windes auszuruhen.",
                 "hu": "Lépjen be a jeges téli huzat elől; ez egy csendes hely, ahol levegőhöz juthat és megpihenhet a metsző hideg szél elől.",
                 "ro": "Intrați din calea curenților reci de iarnă; este un loc liniștit pentru a vă trage sufletul și a vă odihni de vântul rece.",
-                "en": "Step in from the icy winter drafts; it’s a quiet place to catch your breath and rest your legs out of the cold wind."
+                "en": "Step in from the icy winter drafts; it’s a quiet place to catch your breath and rest your legs out of the cold wind.",
+                "fr": "Entrez pour échapper aux courants d'air hivernaux ; c'est un endroit calme pour reprendre votre souffle et reposer vos jambes à l'abri du vent froid."
               }
             },
             {
@@ -604,13 +670,15 @@
                 "de": "Espace Lamartine",
                 "hu": "Espace Lamartine",
                 "ro": "Espace Lamartine",
-                "en": "Espace Lamartine"
+                "en": "Espace Lamartine",
+                "fr": "Espace Lamartine"
               },
               "tip_5lang": {
                 "de": "Genießen Sie eine warme Kulturpause; prüfen Sie Ihre Reifen, da kaltes Wetter den Luftdruck schnell verringern kann.",
                 "hu": "Élvezze az újabb meleg kulturális pihenőt; ne felejtse el ellenőrizni a gumikat, mert a hideg gyorsan csökkenti a nyomást.",
                 "ro": "Bucurați-vă de o pauză culturală caldă; verificați anvelopele bicicletei, deoarece frigul poate reduce rapid presiunea.",
-                "en": "Enjoy another warm cultural break; remember to check your bike tires as cold weather can quickly reduce air pressure."
+                "en": "Enjoy another warm cultural break; remember to check your bike tires as cold weather can quickly reduce air pressure.",
+                "fr": "Profitez d'une nouvelle pause culturelle au chaud ; pensez à vérifier la pression de vos pneus car le froid peut rapidement la diminuer."
               }
             },
             {
@@ -618,13 +686,15 @@
                 "de": "Bienne-Schlucht",
                 "hu": "Bienne-szurdok",
                 "ro": "Defileul Bienne",
-                "en": "Bienne Gorge"
+                "en": "Bienne Gorge",
+                "fr": "Gorges de la Bienne"
               },
               "tip_5lang": {
                 "de": "Extrem eisig im Winter! Radeln Sie nicht auf den Wegen; parken Sie sicher und gehen Sie vorsichtig auf den frostigen Pfaden.",
                 "hu": "Rendkívül jeges télen! Ne próbáljon meg az ösvényeken tekerni; parkoljon biztonságosan, és óvatosan sétáljon.",
                 "ro": "Extrem de înghețat iarna! Nu încercați să pedalați pe poteci; parcați în siguranță și mergeți cu atenție pe cărările înghețate.",
-                "en": "Extremely icy in winter! Do not attempt to bike the trails; park securely and walk carefully on the frosty paths."
+                "en": "Extremely icy in winter! Do not attempt to bike the trails; park securely and walk carefully on the frosty paths.",
+                "fr": "Extrêmement verglacées en hiver ! N'essayez pas de faire du vélo sur les sentiers ; garez-vous en sécurité et marchez prudemment sur les chemins givrants."
               }
             },
             {
@@ -632,13 +702,15 @@
                 "de": "Morez-Viadukte",
                 "hu": "Morez-i viaduktok",
                 "ro": "Viaductele din Morez",
-                "en": "Morez Viaducts"
+                "en": "Morez Viaducts",
+                "fr": "Viaducs de Morez"
               },
               "tip_5lang": {
                 "de": "Am späten Nachmittag bricht die Dunkelheit ein; tragen Sie reflektierende Kleidung und nutzen Sie starke Lichter für die Route.",
                 "hu": "Késő délutánra beáll a téli sötétség; viseljen fényvisszaverő felszerelést, és használjon erős lámpákat a fagyos úton.",
                 "ro": "Până târziu în după-amiază se întunecă; purtați echipament reflectorizant și folosiți lumini puternice pentru a vedea ruta înghețată.",
-                "en": "By late afternoon, winter darkness sets in; wear highly reflective gear and rely on strong bike lights to see the frozen route."
+                "en": "By late afternoon, winter darkness sets in; wear highly reflective gear and rely on strong bike lights to see the frozen route.",
+                "fr": "En fin d'après-midi, l'obscurité hivernale s'installe ; portez des vêtements très réfléchissants et comptez sur des éclairages puissants pour voir la route gelée."
               }
             }
           ]
@@ -658,7 +730,8 @@
             "de": "Roche du Béchet",
             "hu": "Roche du Béchet",
             "ro": "Roche du Béchet",
-            "en": "Roche du Béchet"
+            "en": "Roche du Béchet",
+            "fr": "Roche du Béchet"
           },
           "coords": [
             6.025242,
@@ -673,7 +746,8 @@
             "de": "Wandern Sie zu dieser markanten Felsformation, um einen Panoramablick auf das Jura-Gebirge zu genießen, und bringen Sie eine Windjacke für den windigen Gipfel mit.",
             "hu": "Túrázzon fel ehhez a lenyűgöző sziklaalakzathoz a Jura-hegységre nyíló panorámáért, és hozzon magával egy széldzsekit, mert a csúcson gyakran erős a szél.",
             "ro": "Urcați la această formațiune stâncoasă impresionantă pentru o vedere panoramică asupra munților Jura, și aduceți o geacă de vânt deoarece pe vârf bate vântul.",
-            "en": "Hike up to this striking natural rock formation for sweeping panoramic views of the Jura mountains, and bring a windbreaker as the summit can be quite breezy."
+            "en": "Hike up to this striking natural rock formation for sweeping panoramic views of the Jura mountains, and bring a windbreaker as the summit can be quite breezy.",
+            "fr": "Montez jusqu'à cette formation rocheuse naturelle saisissante pour des vues panoramiques sur le massif du Jura, et apportez une coupe-vent car le sommet peut être assez venteux."
           }
         },
         {
@@ -681,7 +755,8 @@
             "de": "Roche fendue",
             "hu": "Roche fendue",
             "ro": "Roche fendue",
-            "en": "Roche fendue"
+            "en": "Roche fendue",
+            "fr": "Roche fendue"
           },
           "coords": [
             6.017542,
@@ -696,7 +771,8 @@
             "de": "Entdecken Sie diesen mysteriösen gespaltenen Felsen, der ein geologisches Rätsel darstellt, und nähern Sie sich vorsichtig über den nördlichen Pfad, um Steigungen zu vermeiden.",
             "hu": "Fedezze fel ezt a hatalmas, rejtélyes hasadt sziklát, amely geológiai ritkaságnak számít, és a lankásabb északi ösvény felől közelítse meg a meredek szakaszok elkerüléséért.",
             "ro": "Descoperiți această stâncă despicată misterioasă care oferă un puzzle geologic interesant, și apropiați-vă cu grijă de pe traseul nordic pentru a evita pantele abrupte.",
-            "en": "Discover this massive, mysterious split rock that offers an intriguing geological puzzle, and approach carefully from the northern trail to avoid the steepest inclines."
+            "en": "Discover this massive, mysterious split rock that offers an intriguing geological puzzle, and approach carefully from the northern trail to avoid the steepest inclines.",
+            "fr": "Découvrez ce massif rocher mystérieux fendu qui offre un puzzle géologique intrigant, et approchez par le sentier nord pour éviter les pentes les plus raides."
           }
         },
         {
@@ -704,7 +780,8 @@
             "de": "Haus der Emaillekunst",
             "hu": "Zománcművészet Háza",
             "ro": "Casa Artei Emailului",
-            "en": "House of Enamel Art"
+            "en": "House of Enamel Art",
+            "fr": "Maison de l'Art de l'Émail"
           },
           "coords": [
             6.025811,
@@ -719,7 +796,8 @@
             "de": "Bewundern Sie die exquisite Emaillekunst, die eine einzigartige regionale Handwerkstradition hervorhebt, und prüfen Sie den Zeitplan für Live-Demonstrationen.",
             "hu": "Csodálja meg a páratlan helyi zománcművészeti alkotásokat, amelyek a regionális hagyományokat őrzik, és érdemes előre tájékozódni az élő kézműves bemutatókról.",
             "ro": "Admirați rafinata artă locală a emailului care subliniază o tradiție meșteșugărească unică, și verificați neapărat programul pentru demonstrațiile live ale artizanilor.",
-            "en": "Admire the exquisite local enamel artistry that highlights a unique regional craft tradition, and be sure to check the schedule for live demonstrations by local artisans."
+            "en": "Admire the exquisite local enamel artistry that highlights a unique regional craft tradition, and be sure to check the schedule for live demonstrations by local artisans.",
+            "fr": "Admirez l'exquise artisanerie locale de l'émail qui met en valeur une tradition artisanale régionale unique, et consultez le programme pour les démonstrations en direct par des artisans locaux."
           }
         },
         {
@@ -727,7 +805,8 @@
             "de": "Brillenmuseum",
             "hu": "Szemüvegmúzeum",
             "ro": "Muzeul Ochelarilor",
-            "en": "Museum of Eyewear"
+            "en": "Museum of Eyewear",
+            "fr": "Musée de la Lunetterie"
           },
           "coords": [
             6.022652,
@@ -742,7 +821,8 @@
             "de": "Entdecken Sie die faszinierende Geschichte der Brillenherstellung, die Morez weltberühmt machte, und verpassen Sie nicht die interaktiven optischen Täuschungen.",
             "hu": "Fedezze fel a szemüveggyártás történetét, amely világhírűvé tette Morezt, és mindenképpen próbálja ki az interaktív optikai csalódásokat bemutató felső szintet.",
             "ro": "Explorați istoria fascinantă a fabricării ochelarilor care a făcut orașul Morez faimos, și nu ratați expozițiile interactive de iluzii optice de la ultimul etaj.",
-            "en": "Explore the fascinating history of eyewear manufacturing that made Morez famous worldwide, and don't miss the interactive optical illusion exhibits on the top floor."
+            "en": "Explore the fascinating history of eyewear manufacturing that made Morez famous worldwide, and don't miss the interactive optical illusion exhibits on the top floor.",
+            "fr": "Explorez l'histoire fascinante de la fabrication de lunettes qui a rendu Morez célèbre dans le monde, et ne manquez pas les expositions interactives d'illusions d'optique au dernier étage."
           }
         },
         {
@@ -750,7 +830,8 @@
             "de": "Morez-Viadukte",
             "hu": "Morez-i viaduktok",
             "ro": "Viaductele din Morez",
-            "en": "Morez Viaducts"
+            "en": "Morez Viaducts",
+            "fr": "Viaducs de Morez"
           },
           "coords": [
             6.023154,
@@ -765,7 +846,8 @@
             "de": "Bewundern Sie diese beeindruckenden Eisenbahnviadukte aus dem 19. Jahrhundert, die Sie am besten am späten Nachmittag vom westlichen Aussichtspunkt aus fotografieren.",
             "hu": "Csodálja meg a völgy felett átívelő, lenyűgöző 19. századi vasúti viaduktokat, amelyeket a nyugati kilátópontról a késő délutáni fényekben a legjobb lefotózni.",
             "ro": "Admirați aceste viaducte feroviare impresionante din secolul al XIX-lea, cel mai bine fotografiate de la punctul de belvedere vestic în lumina caldă a după-amiezii.",
-            "en": "Marvel at these impressive 19th-century railway viaducts curving beautifully over the valley, best photographed from the western viewpoint during the late afternoon sun."
+            "en": "Marvel at these impressive 19th-century railway viaducts curving beautifully over the valley, best photographed from the western viewpoint during the late afternoon sun.",
+            "fr": "Admirez ces impressionnants viaducs ferroviaires du XIXe siècle qui courbent magnifiquement au-dessus de la vallée, mieux photographiés depuis le point de vue ouest en fin d'après-midi."
           }
         },
         {
@@ -773,7 +855,8 @@
             "de": "La Grange du Bugnon",
             "hu": "La Grange du Bugnon",
             "ro": "La Grange du Bugnon",
-            "en": "La Grange du Bugnon"
+            "en": "La Grange du Bugnon",
+            "fr": "La Grange du Bugnon"
           },
           "coords": [
             6.007878,
@@ -788,7 +871,8 @@
             "de": "Besuchen Sie diese hervorragend erhaltene historische Scheune, die Einblicke in die Berglandwirtschaft bietet, und fragen Sie den Hausmeister nach dem tollen Audioguide.",
             "hu": "Látogasson el ebbe a kiválóan megőrzött történelmi pajtába a hagyományos hegyi mezőgazdaság megismeréséért, és kérje el a gondnoktól a rendkívül hasznos audioguide-ot.",
             "ro": "Vizitați acest hambar istoric excelent conservat pentru a înțelege agricultura montană tradițională, și cereți îngrijitorului ghidul audio fascinant pentru mai multe detalii.",
-            "en": "Visit this exceptionally preserved historic barn that provides insight into traditional mountain agriculture, and ask the caretaker for the fascinating audio guide."
+            "en": "Visit this exceptionally preserved historic barn that provides insight into traditional mountain agriculture, and ask the caretaker for the fascinating audio guide.",
+            "fr": "Visitez cette grange historique exceptionnellement préservée qui donne un aperçu de l’agriculture traditionnelle de montagne, et demandez au gardien le guide audio passionnant."
           }
         }
       ],
@@ -796,7 +880,8 @@
         "de": "Ihr Fahrabenteuer beginnt am markanten Roche du Béchet, der morgens spektakuläre Panoramen auf die Jura-Landschaften bietet.\n\nEine kurze Fahrt bringt Sie zum geologischen Wunder Roche fendue, gefolgt von lokaler Kunst im Haus der Emaillekunst.\n\nVerbringen Sie den Nachmittag im berühmten Brillenmuseum in der Stadt und bewundern Sie die unglaubliche Technik der Viadukte.\n\nBeenden Sie Ihre Fahrt bei La Grange du Bugnon und erleben Sie den anhaltenden Charme der traditionellen regionalen Landwirtschaft.",
         "hu": "Autós kalandja a lenyűgöző Roche du Béchet-nél kezdődik, ahonnan látványos reggeli panoráma nyílik a Jura-vidékre.\n\nEgy rövid autózás után a Roche fendue geológiai csodája következik, majd a helyi művészetet csodálhatja meg a Zománcművészet Házában.\n\nA délutánt a város híres szemüvegmúzeumában tölti, majd a történelmi viaduktok hihetetlen mérnöki munkáját csodálhatja meg.\n\nZárja a festői autózást a La Grange du Bugnon-nál, megtapasztalva a hagyományos regionális mezőgazdaság varázsát.",
         "ro": "Aventura cu mașina începe la impresionanta Roche du Béchet, oferind panorame matinale spectaculoase ale peisajelor din Jura.\n\nUn drum scurt vă duce la minunea geologică Roche fendue, urmată de aprecierea artei locale la Casa Artei Emailului.\n\nPetreceți după-amiaza în oraș la faimosul muzeu al ochelarilor, apoi admirați ingineria incredibilă a viaductelor istorice.\n\nÎncheiați traseul pitoresc la La Grange du Bugnon, experimentând farmecul durabil al agriculturii tradiționale din regiune.",
-        "en": "Your driving adventure starts at the striking Roche du Béchet, offering spectacular morning panoramas of the Jura landscapes.\n\nA short drive brings you to the geological wonder of Roche fendue, followed by an appreciation of local art at the House of Enamel Art.\n\nSpend the afternoon back in town at the famous eyewear museum and then admire the incredible engineering of the historic viaducts.\n\nConclude your scenic drive at La Grange du Bugnon, experiencing the enduring charm of traditional regional agriculture."
+        "en": "Your driving adventure starts at the striking Roche du Béchet, offering spectacular morning panoramas of the Jura landscapes.\n\nA short drive brings you to the geological wonder of Roche fendue, followed by an appreciation of local art at the House of Enamel Art.\n\nSpend the afternoon back in town at the famous eyewear museum and then admire the incredible engineering of the historic viaducts.\n\nConclude your scenic drive at La Grange du Bugnon, experiencing the enduring charm of traditional regional agriculture.",
+        "fr": "Votre balade en voiture commence à la spectaculaire Roche du Béchet, offrant de magnifiques panoramas matinaux sur les paysages du Jura. Un court trajet vous mène à la merveille géologique de la Roche fendue, puis à une découverte de l’art local à la Maison de l’Émaillerie. Passez l’après-midi en ville au célèbre musée de la lunette puis admirez l’incroyable ingénierie des viaducs historiques. Concluez votre route panoramique à La Grange du Bugnon, en ressentant le charme durable de l’agriculture régionale traditionnelle."
       },
       "variants": {
         "rainy": {
@@ -804,7 +889,8 @@
             "de": "Beginnen Sie den regnerischen Morgen mit einer Fahrt zur Roche du Béchet. Mittags navigieren Sie vorsichtig auf nassen Straßen zur Roche fendue und suchen Schutz im Haus der Emaillekunst. Verbringen Sie den Nachmittag im Brillenmuseum. Beenden Sie die feuchte Tour mit den Viadukten und La Grange du Bugnon.",
             "hu": "Indítsa az esős reggelt egy autózással a drámai Roche du Béchet-hez. Délben óvatosan vezessen a nedves utakon a Roche fendue-höz, majd keressen fedett helyet a Zománcművészet Házában. A délutánt töltse a Szemüvegmúzeumban. Zárja a túrát a viaduktok és a La Grange du Bugnon megtekintésével.",
             "ro": "Începeți dimineața ploioasă conducând spre dramaticul Roche du Béchet. La prânz, navigați cu grijă pe drumurile umede spre Roche fendue și adăpostiți-vă la Casa Artei Emailului. Petreceți după-amiaza la Muzeul Ochelarilor. Încheiați turul ploios admirând viaductele impresionante și La Grange du Bugnon.",
-            "en": "Start your rainy morning driving to the dramatic Roche du Béchet. By noon, carefully navigate wet roads to Roche fendue and seek shelter at the House of Enamel Art. Spend a dry afternoon at the Museum of Eyewear. Conclude your damp driving tour by viewing the impressive Morez Viaducts and La Grange du Bugnon."
+            "en": "Start your rainy morning driving to the dramatic Roche du Béchet. By noon, carefully navigate wet roads to Roche fendue and seek shelter at the House of Enamel Art. Spend a dry afternoon at the Museum of Eyewear. Conclude your damp driving tour by viewing the impressive Morez Viaducts and La Grange du Bugnon.",
+            "fr": "Commencez votre matinée pluvieuse en voiture vers la dramatique Roche du Béchet. À midi, conduisez prudemment sur des routes mouillées jusqu’à la Roche fendue et abritez-vous à la Maison de l’Émaillerie. Passez un après-midi au sec au Musée de la Lunette. Terminez votre circuit humide en voiture en admirant les impressionnants viaducs de Morez et La Grange du Bugnon."
           },
           "stops": [
             {
@@ -812,13 +898,15 @@
                 "de": "Roche du Béchet",
                 "hu": "Roche du Béchet",
                 "ro": "Roche du Béchet",
-                "en": "Roche du Béchet"
+                "en": "Roche du Béchet",
+                "fr": "Roche du Béchet"
               },
               "tip_5lang": {
                 "de": "Fahren Sie vorsichtig zum Aussichtspunkt; bringen Sie einen Regenschirm und Gummistiefel mit, da die Plattform schlammig wird.",
                 "hu": "Vezessen óvatosan a kilátóhoz; hozzon esernyőt és erős gumicsizmát, mert a kilátópont nagyon sárossá válhat az esőben.",
                 "ro": "Conduceți cu grijă până la belvedere; luați o umbrelă și cizme de ploaie solide, deoarece platforma devine foarte noroioasă.",
-                "en": "Drive carefully up to the viewpoint; bring an umbrella and solid rain boots as the viewing platform gets very muddy."
+                "en": "Drive carefully up to the viewpoint; bring an umbrella and solid rain boots as the viewing platform gets very muddy.",
+                "fr": "Montez prudemment jusqu’au point de vue ; apportez un parapluie et des bottes de pluie solides car la plateforme d’observation devient très boueuse."
               }
             },
             {
@@ -826,13 +914,15 @@
                 "de": "Roche fendue",
                 "hu": "Roche fendue",
                 "ro": "Roche fendue",
-                "en": "Roche fendue"
+                "en": "Roche fendue",
+                "fr": "Roche fendue"
               },
               "tip_5lang": {
                 "de": "Die nassen Felsen sind rutschig, betrachten Sie diesen gespaltenen Stein am besten sicher von den gepflasterten Bereichen aus.",
                 "hu": "A nedves sziklák csúszósak, ezért ezt a természetes hasadékot a parkoló autójához közeli burkolt területről szemlélje meg.",
                 "ro": "Stâncile umede sunt alunecoase, așa că priviți această piatră despicată în siguranță din zonele pavate de lângă mașină.",
-                "en": "The wet rocks are slippery, so view this natural split stone from the safety of the paved areas near your parked car."
+                "en": "The wet rocks are slippery, so view this natural split stone from the safety of the paved areas near your parked car.",
+                "fr": "Les rochers mouillés sont glissants, donc admirez cette pierre fendue naturelle depuis la sécurité des zones goudronnées près de votre voiture garée."
               }
             },
             {
@@ -840,13 +930,15 @@
                 "de": "Haus der Emaillekunst",
                 "hu": "Zománcművészet Háza",
                 "ro": "Casa Artei Emailului",
-                "en": "House of Enamel Art"
+                "en": "House of Enamel Art",
+                "fr": "House of Enamel Art"
               },
               "tip_5lang": {
                 "de": "Parken Sie nah am Eingang, um den Regenschauern auszuweichen, und genießen Sie die warmen, lebendigen Ausstellungen drinnen.",
                 "hu": "Parkoljon a bejárat közelében, hogy elkerülje az esőzést, és élvezze a meleg, élénk benti kiállításokat.",
                 "ro": "Parcați aproape de intrare pentru a evita ploaia și bucurați-vă de expozițiile interioare calde și vibrante.",
-                "en": "Park close to the entrance to dodge the rain showers, and enjoy the warm, vibrant indoor exhibitions."
+                "en": "Park close to the entrance to dodge the rain showers, and enjoy the warm, vibrant indoor exhibitions.",
+                "fr": "Garez-vous près de l’entrée pour éviter les averses et profitez des expositions intérieures chaleureuses et colorées."
               }
             },
             {
@@ -854,13 +946,15 @@
                 "de": "Brillenmuseum",
                 "hu": "Szemüvegmúzeum",
                 "ro": "Muzeul Ochelarilor",
-                "en": "Museum of Eyewear"
+                "en": "Museum of Eyewear",
+                "fr": "Museum of Eyewear"
               },
               "tip_5lang": {
                 "de": "Ein hervorragender Zufluchtsort an Regentagen mit Parkplätzen, der Sie trocken hält, während Sie die Geschichte erkunden.",
                 "hu": "Kiváló esős napi menedék közeli parkolással, amely szárazon tartja, miközben elmerül a régió optikai történelmében.",
                 "ro": "Un refugiu excelent pentru zile ploioase, cu parcare în apropiere, menținându-vă uscat în timp ce explorați istoria optică.",
-                "en": "An excellent rainy day refuge with nearby parking, keeping you dry while you delve into the optical history of the region."
+                "en": "An excellent rainy day refuge with nearby parking, keeping you dry while you delve into the optical history of the region.",
+                "fr": "Un excellent refuge par temps de pluie avec parking à proximité, vous gardant au sec pendant que vous explorez l’histoire optique de la région."
               }
             },
             {
@@ -868,13 +962,15 @@
                 "de": "Morez-Viadukte",
                 "hu": "Morez-i viaduktok",
                 "ro": "Viaductele din Morez",
-                "en": "Morez Viaducts"
+                "en": "Morez Viaducts",
+                "fr": "Morez Viaducts"
               },
               "tip_5lang": {
                 "de": "Nutzen Sie Ihr Auto, um die besten Aussichtspunkte zu erreichen, ohne nass zu werden, auch wenn Nebel die Bögen verdecken kann.",
                 "hu": "Autóval könnyen elérheti a legjobb kilátópontokat anélkül, hogy elázna, bár az erős köd részben eltakarhatja az íveket.",
                 "ro": "Folosiți mașina pentru a ajunge ușor la cele mai bune puncte de vizionare fără a vă uda, deși ceața poate ascunde parțial arcele.",
-                "en": "Use your car to easily reach the best viewing spots without getting soaked, though heavy mist might partially obscure the arches."
+                "en": "Use your car to easily reach the best viewing spots without getting soaked, though heavy mist might partially obscure the arches.",
+                "fr": "Utilisez votre voiture pour atteindre facilement les meilleurs points de vue sans être trempé, bien qu’un épais brouillard puisse partiellement masquer les arches."
               }
             },
             {
@@ -882,13 +978,15 @@
                 "de": "La Grange du Bugnon",
                 "hu": "La Grange du Bugnon",
                 "ro": "La Grange du Bugnon",
-                "en": "La Grange du Bugnon"
+                "en": "La Grange du Bugnon",
+                "fr": "La Grange du Bugnon"
               },
               "tip_5lang": {
                 "de": "Fahren Sie langsam auf den ländlichen Straßen hierher; der historische Charme erstrahlt auch unter grauem, regnerischem Himmel.",
                 "hu": "Vezessen lassan a helyszínt megközelítő vidéki utakon; a történelmi báj a szürke, esős égbolt alatt is átragyog.",
                 "ro": "Conduceți încet pe drumurile rurale spre acest loc; farmecul istoric strălucește chiar și sub un cer gri, ploios.",
-                "en": "Drive slowly on the rural roads approaching this site; the historical charm shines through even under gray, rainy skies."
+                "en": "Drive slowly on the rural roads approaching this site; the historical charm shines through even under gray, rainy skies.",
+                "fr": "Roulez lentement sur les routes rurales menant à ce site ; le charme historique transparaît même sous un ciel gris et pluvieux."
               }
             }
           ]
@@ -898,7 +996,8 @@
             "de": "Beginnen Sie Ihre winterliche Fahrt zur verschneiten Roche du Béchet. Mittags navigieren Sie vorsichtig auf eisigen Straßen zur Roche fendue und wärmen sich im Haus der Emaillekunst auf. Verbringen Sie den Nachmittag im Brillenmuseum. In der frühen Dämmerung gegen 17 Uhr fahren Sie sicher zu den Viadukten.",
             "hu": "Indítsa a téli autózást a havas Roche du Béchet felé. Délben vezessen óvatosan a jeges utakon a Roche fendue-höz, majd melegedjen fel a Zománcművészet Házában. A fagyos délutánt töltse a Szemüvegmúzeumban. A 17:00 körüli sötétedés után autókázzon biztonságosan a viaduktokhoz és a La Grange du Bugnon-hoz.",
             "ro": "Începeți dimineața de iarnă conducând spre Roche du Béchet, acoperit de zăpadă. La prânz, navigați pe drumurile înghețate spre Roche fendue și încălziți-vă la Casa Artei Emailului. Petreceți după-amiaza la Muzeul Ochelarilor. Odată cu amurgul de la 17:00, conduceți spre viaducte și La Grange du Bugnon.",
-            "en": "Begin your crisp winter drive heading to the snowy Roche du Béchet. By midday, carefully navigate icy roads to Roche fendue and warm up at the House of Enamel Art. Spend your freezing afternoon enjoying the Museum of Eyewear. As early dusk falls around 5 PM, drive safely to see the Viaducts and La Grange du Bugnon."
+            "en": "Begin your crisp winter drive heading to the snowy Roche du Béchet. By midday, carefully navigate icy roads to Roche fendue and warm up at the House of Enamel Art. Spend your freezing afternoon enjoying the Museum of Eyewear. As early dusk falls around 5 PM, drive safely to see the Viaducts and La Grange du Bugnon.",
+            "fr": "Commencez votre balade hivernale fraîche en voiture en direction de la enneigée Roche du Béchet. Vers midi, parcourez prudemment des routes glacées jusqu’à la Roche fendue et réchauffez-vous à la Maison de l’Émaillerie. Passez votre après‑midi glacial à profiter du Musée de la Lunette. Alors que le crépuscule tombe vers 17h, conduisez prudemment pour voir les viaducs et La Grange du Bugnon."
           },
           "stops": [
             {
@@ -906,13 +1005,15 @@
                 "de": "Roche du Béchet",
                 "hu": "Roche du Béchet",
                 "ro": "Roche du Béchet",
-                "en": "Roche du Béchet"
+                "en": "Roche du Béchet",
+                "fr": "Roche du Béchet"
               },
               "tip_5lang": {
                 "de": "Stellen Sie sicher, dass Ihr Auto Winterreifen für die Steigung hat, und packen Sie sich warm ein für den kurzen Spaziergang.",
                 "hu": "Győződjön meg róla, hogy az autón téli gumi van a havas emelkedőhöz, és öltözzön melegen a kilátóhoz vezető rövid sétához.",
                 "ro": "Asigurați-vă că aveți anvelope de iarnă pentru panta înzăpezită și îmbrăcați-vă gros pentru scurta plimbare înghețată.",
-                "en": "Ensure your car has winter tires for the snowy incline, and bundle up warmly for the short, freezing walk to the viewing area."
+                "en": "Ensure your car has winter tires for the snowy incline, and bundle up warmly for the short, freezing walk to the viewing area.",
+                "fr": "Assurez‑vous que votre voiture est équipée de pneus hiver pour la montée enneigée, et habillez‑vous chaudement pour la courte marche glaciale jusqu’au point d’observation."
               }
             },
             {
@@ -920,13 +1021,15 @@
                 "de": "Roche fendue",
                 "hu": "Roche fendue",
                 "ro": "Roche fendue",
-                "en": "Roche fendue"
+                "en": "Roche fendue",
+                "fr": "Roche fendue"
               },
               "tip_5lang": {
                 "de": "Die Zufahrtsstraßen können spiegelglatt sein; fahren Sie vorsichtig und genießen Sie den Blick auf den schneebedeckten Felsen.",
                 "hu": "A megközelítési utak csúszósak lehetnek a tükörjégtől; vezessen óvatosan, és élvezze a hóval borított hasadt szikla látványát.",
                 "ro": "Drumurile de acces pot avea polei; conduceți cu prudență și bucurați-vă de vederea uimitoare a stâncii despicate pudrate cu zăpadă.",
-                "en": "The approach roads can be slick with black ice; drive cautiously and enjoy the striking view of the snow-dusted split rock."
+                "en": "The approach roads can be slick with black ice; drive cautiously and enjoy the striking view of the snow-dusted split rock.",
+                "fr": "Les routes d’accès peuvent être verglacées ; conduisez avec prudence et profitez de la vue saisissante de la pierre fendue parée de neige."
               }
             },
             {
@@ -934,13 +1037,15 @@
                 "de": "Haus der Emaillekunst",
                 "hu": "Zománcművészet Háza",
                 "ro": "Casa Artei Emailului",
-                "en": "House of Enamel Art"
+                "en": "House of Enamel Art",
+                "fr": "House of Enamel Art"
               },
               "tip_5lang": {
                 "de": "Entfliehen Sie der klirrenden Kälte in diesem gut beheizten Museum, ein perfekter Ort, um bei filigraner Kunst aufzutauen.",
                 "hu": "Meneküljön a metsző hideg elől ebbe a fűtött múzeumba, amely tökéletes hely a felmelegedésre a finom művészet megcsodálása közben.",
                 "ro": "Scăpați de frigul tăios în acest muzeu bine încălzit, un loc perfect pentru a vă dezgheța admirând arta delicată și colorată.",
-                "en": "Escape the biting cold in this beautifully heated museum, a perfect spot to defrost while admiring delicate, colorful artistry."
+                "en": "Escape the biting cold in this beautifully heated museum, a perfect spot to defrost while admiring delicate, colorful artistry.",
+                "fr": "Échappez au froid mordant dans ce musée agréablement chauffé, un endroit parfait pour se réchauffer tout en admirant des œuvres délicates et colorées."
               }
             },
             {
@@ -948,13 +1053,15 @@
                 "de": "Brillenmuseum",
                 "hu": "Szemüvegmúzeum",
                 "ro": "Muzeul Ochelarilor",
-                "en": "Museum of Eyewear"
+                "en": "Museum of Eyewear",
+                "fr": "Museum of Eyewear"
               },
               "tip_5lang": {
                 "de": "Lassen Sie die Autoheizung etwas länger laufen, bevor Sie in den kalten Wind treten, um diesen faszinierenden Raum zu erkunden.",
                 "hu": "Hagyja egy kicsit tovább menni az autófűtést, mielőtt kilépne a hideg szélbe, hogy felfedezze ezt a lenyűgöző, fűtött belső teret.",
                 "ro": "Lăsați încălzirea mașinii pornită mai mult înainte de a ieși în vântul rece pentru a explora acest spațiu interior fascinant.",
-                "en": "Keep the car heater running a bit longer before stepping out into the cold wind to explore this fascinating, cozy indoor space."
+                "en": "Keep the car heater running a bit longer before stepping out into the cold wind to explore this fascinating, cozy indoor space.",
+                "fr": "Laissez le chauffage de la voiture tourner un peu plus longtemps avant de sortir dans le vent glacial pour explorer cet espace intérieur fascinant et chaleureux."
               }
             },
             {
@@ -962,13 +1069,15 @@
                 "de": "Morez-Viadukte",
                 "hu": "Morez-i viaduktok",
                 "ro": "Viaductele din Morez",
-                "en": "Morez Viaducts"
+                "en": "Morez Viaducts",
+                "fr": "Morez Viaducts"
               },
               "tip_5lang": {
                 "de": "Winternächte fallen schnell; fahren Sie zu den Aussichtspunkten, wenn die Lichter angehen, für einen magischen Kontrast zum Schnee.",
                 "hu": "A téli éjszakák hamar beállnak; vezessen a kilátókhoz, amikor felkapcsolják az esti fényeket, hogy varázslatos kontrasztot lásson.",
                 "ro": "Nopțile de iarnă cad repede; conduceți la belvedere chiar când se aprind luminile de seară pentru un contrast magic cu zăpada.",
-                "en": "Winter nights fall fast; drive to the viewpoints just as the evening lights turn on for a magical contrast against the snow."
+                "en": "Winter nights fall fast; drive to the viewpoints just as the evening lights turn on for a magical contrast against the snow.",
+                "fr": "Les nuits d’hiver tombent vite ; conduisez jusqu’aux points de vue juste au moment où les illuminations s’allument pour un contraste magique avec la neige."
               }
             },
             {
@@ -976,13 +1085,15 @@
                 "de": "La Grange du Bugnon",
                 "hu": "La Grange du Bugnon",
                 "ro": "La Grange du Bugnon",
-                "en": "La Grange du Bugnon"
+                "en": "La Grange du Bugnon",
+                "fr": "La Grange du Bugnon"
               },
               "tip_5lang": {
                 "de": "Achten Sie beim Parken auf Schneebänke; diese historische Scheune sieht in der Dämmerung wie eine perfekte Winterpostkarte aus.",
                 "hu": "Parkoláskor figyeljen a hóbuckákra; ez a történelmi pajta szürkületkor úgy néz ki, mint egy tökéletes téli képeslap.",
                 "ro": "Atenție la troiene când parcați; acest hambar istoric arată ca o carte poștală perfectă de iarnă în amurg.",
-                "en": "Be mindful of snowbanks when parking; this historic barn looks like a perfect winter wonderland postcard in the twilight."
+                "en": "Be mindful of snowbanks when parking; this historic barn looks like a perfect winter wonderland postcard in the twilight.",
+                "fr": "Faites attention aux congères lors du stationnement ; cette grange historique ressemble à une carte postale hivernale au crépuscule."
               }
             }
           ]

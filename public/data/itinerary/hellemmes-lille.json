@@ -21,7 +21,8 @@
             "de": "Grand Place",
             "hu": "Grand Place",
             "ro": "Grand Place",
-            "en": "Grand Place"
+            "en": "Grand Place",
+            "fr": "Grand-Place"
           },
           "coords": [
             3.063,
@@ -37,7 +38,8 @@
             "de": "Die Göttinnen-Säule in der Mitte erinnert an die Belagerung von 1792.",
             "hu": "Az Istennő-oszlop a tér közepén az 1792-es ostromra emlékeztet.",
             "ro": "Coloana Zeiței din centru comemorează asediul din 1792.",
-            "en": "The Column of the Goddess in the center commemorates the 1792 siege."
+            "en": "The Column of the Goddess in the center commemorates the 1792 siege.",
+            "fr": "La Colonne de la Déesse au centre commémore le siège de 1792."
           }
         },
         {
@@ -45,7 +47,8 @@
             "de": "Vieille Bourse",
             "hu": "Régi Tőzsde",
             "ro": "Bursa Veche",
-            "en": "Old Stock Exchange"
+            "en": "Old Stock Exchange",
+            "fr": "Ancienne Bourse"
           },
           "coords": [
             3.064,
@@ -61,7 +64,8 @@
             "de": "Suchen Sie im Innenhof nach den Antiquariaten und Schachspielern.",
             "hu": "Keresd az antikváriusokat és a sakkozókat a belső udvarban.",
             "ro": "Căutați vânzătorii de cărți vechi și jucătorii de șah în curtea interioară.",
-            "en": "Look for the second-hand book sellers and chess players in the courtyard."
+            "en": "Look for the second-hand book sellers and chess players in the courtyard.",
+            "fr": "Cherchez les vendeurs de livres d’occasion et les joueurs d’échecs dans la cour."
           }
         },
         {
@@ -69,7 +73,8 @@
             "de": "Kathedrale Notre-Dame de la Treille",
             "hu": "Notre-Dame de la Treille székesegyház",
             "ro": "Catedrala Notre-Dame de la Treille",
-            "en": "Cathedral Notre-Dame de la Treille"
+            "en": "Cathedral Notre-Dame de la Treille",
+            "fr": "Cathédrale Notre-Dame de la Treille"
           },
           "coords": [
             3.062,
@@ -85,7 +90,8 @@
             "de": "Bestaunen Sie die moderne Fassade aus durchscheinendem Marmor.",
             "hu": "Csodáld meg az áttetsző márványból készült modern homlokzatot.",
             "ro": "Admirați fațada modernă realizată din marmură translucidă.",
-            "en": "Admire the modern facade made of translucent marble panels."
+            "en": "Admire the modern facade made of translucent marble panels.",
+            "fr": "Admirez la façade moderne constituée de panneaux de marbre translucide."
           }
         },
         {
@@ -93,7 +99,8 @@
             "de": "Hospice Comtesse",
             "hu": "Hospice Comtesse múzeum",
             "ro": "Muzeul Hospice Comtesse",
-            "en": "Hospice Comtesse"
+            "en": "Hospice Comtesse",
+            "fr": "Hospice Comtesse"
           },
           "coords": [
             3.063,
@@ -109,7 +116,8 @@
             "de": "Die alte Apotheke und die Fliesenküche sind absolut sehenswert.",
             "hu": "A régi gyógyszertár és a csempézett konyha abszolút látnivaló.",
             "ro": "Vechea farmacie și bucătăria cu faianță sunt obiective obligatorii.",
-            "en": "The old pharmacy and the tiled kitchen are absolute highlights."
+            "en": "The old pharmacy and the tiled kitchen are absolute highlights.",
+            "fr": "L’ancienne pharmacie et la cuisine carrelée sont des points forts absolus."
           }
         },
         {
@@ -117,7 +125,8 @@
             "de": "Zitadelle von Lille",
             "hu": "Lille-i citadella",
             "ro": "Citadela din Lille",
-            "en": "Citadel of Lille"
+            "en": "Citadel of Lille",
+            "fr": "Citadelle de Lille"
           },
           "coords": [
             3.045,
@@ -133,7 +142,8 @@
             "de": "Spazieren Sie durch den Park rund um den 'Königin der Zitadellen'.",
             "hu": "Sétálj a 'citadellák királynője' körüli hatalmas parkban.",
             "ro": "Plimbați-vă prin parcul ce înconjoară 'Regina Citadelelor'.",
-            "en": "Walk through the park surrounding the 'Queen of Citadels'."
+            "en": "Walk through the park surrounding the 'Queen of Citadels'.",
+            "fr": "Promenez-vous dans le parc entourant la « Reine des Citadelles »."
           }
         },
         {
@@ -141,7 +151,8 @@
             "de": "Palais des Beaux-Arts",
             "hu": "Szépművészeti Múzeum",
             "ro": "Palatul Artelor Frumoase",
-            "en": "Palais des Beaux-Arts"
+            "en": "Palais des Beaux-Arts",
+            "fr": "Palais des Beaux-Arts"
           },
           "coords": [
             3.061,
@@ -157,7 +168,8 @@
             "de": "Das zweitgrößte Museum Frankreichs beherbergt Werke von Goya und Rubens.",
             "hu": "Franciaország második legnagyobb múzeuma Goya és Rubens műveit őrzi.",
             "ro": "Al doilea cel mai mare muzeu din Franța găzduiește opere de Goya și Rubens.",
-            "en": "France's second largest museum houses works by Goya and Rubens."
+            "en": "France's second largest museum houses works by Goya and Rubens.",
+            "fr": "Le deuxième plus grand musée de France abrite des œuvres de Goya et Rubens."
           }
         },
         {
@@ -165,7 +177,8 @@
             "de": "Beffroi de l'Hôtel de Ville",
             "hu": "Városháza harangtornya",
             "ro": "Turnul Primăriei",
-            "en": "Belfry of the City Hall"
+            "en": "Belfry of the City Hall",
+            "fr": "Beffroi de la mairie"
           },
           "coords": [
             3.07,
@@ -181,7 +194,8 @@
             "de": "Genießen Sie den 360-Grad-Blick über die Stadt aus 104 Metern Höhe.",
             "hu": "Élvezd a 360 fokos panorámát a városra 104 méter magasból.",
             "ro": "Bucurați-vă de vederea panoramică de la 104 metri înălțime.",
-            "en": "Enjoy the 360-degree view over the city from 104 meters up."
+            "en": "Enjoy the 360-degree view over the city from 104 meters up.",
+            "fr": "Profitez de la vue à 360 degrés sur la ville depuis 104 mètres de hauteur."
           }
         }
       ],
@@ -189,7 +203,8 @@
         "de": "Entdecken Sie Lille zu Fuß, wo flämische Backsteingotik auf französische Grandeur trifft. Der Vormittag gehört der Altstadt (Vieux Lille) mit ihren verwinkelten Gassen und der prächtigen Börse. Nach einem Abstecher zur modernen Kathedrale tauchen Sie in die Geschichte des Hospizes ein. Der Nachmittag führt Sie zur massiven Zitadelle und schließt mit Weltklasse-Kunst im Palais des Beaux-Arts ab.",
         "hu": "Fedezze fel Lille-t gyalogosan, ahol a flamand téglaépítészet találkozik a francia eleganciával. A délelőtt az óvárosé (Vieux Lille), szűk utcáival és a pompás tőzsdével. A modern székesegyház után a Hospice Comtesse történelmébe merülhet. A délután a hatalmas citadellához vezet, majd a napot a Szépművészeti Múzeum világhírű gyűjteménye és a harangtorony panorámája koronázza meg.",
         "ro": "Descoperiți Lille la pas, acolo unde stilul flamand se împletește cu grandoarea franceză. Dimineața este dedicată centrului vechi (Vieux Lille), cu străduțele sale pitorești și bursa spectaculoasă. După o vizită la catedrala modernă, explorați istoria la Hospice Comtesse. După-amiaza vă poartă spre citadela masivă și se încheie cu artă de talie mondială la Palatul Artelor Frumoase.",
-        "en": "Discover Lille on foot, where Flemish brick architecture meets French grandeur. The morning belongs to the old town (Vieux Lille) with its winding streets and the magnificent Old Exchange. After visiting the modern cathedral, dive into history at the Hospice Comtesse. The afternoon takes you to the massive Citadel and concludes with world-class art at the Palais des Beaux-Arts."
+        "en": "Discover Lille on foot, where Flemish brick architecture meets French grandeur. The morning belongs to the old town (Vieux Lille) with its winding streets and the magnificent Old Exchange. After visiting the modern cathedral, dive into history at the Hospice Comtesse. The afternoon takes you to the massive Citadel and concludes with world-class art at the Palais des Beaux-Arts.",
+        "fr": "Découvrez Lille à pied, où l’architecture en brique flamande rencontre la grandeur française. La matinée appartient au Vieux Lille avec ses ruelles sinueuses et la magnifique Ancienne Bourse. Après la visite de la cathédrale moderne, plongez dans l’histoire à l’Hospice Comtesse. L’après-midi vous mène à la massive Citadelle et se conclut par l’art de classe mondiale au Palais des Beaux-Arts."
       },
       "gastro_picks": {
         "de": [
@@ -349,6 +364,12 @@
           "The Wazemmes market on Sundays is a must-see for the atmosphere.",
           "Most museums in Lille are closed on Tuesdays.",
           "Try 'Le Merveilleux' at Fred's – a delicious local pastry."
+        ],
+        "fr": [
+          "La vieille ville est principalement pavée, donc portez des chaussures confortables.",
+          "Le marché de Wazemmes le dimanche est un incontournable pour l’ambiance.",
+          "La plupart des musées de Lille sont fermés le mardi.",
+          "Goûtez « Le Merveilleux » chez Fred – une délicieuse pâtisserie locale."
         ]
       }
     },
@@ -365,7 +386,8 @@
             "de": "Grand Place",
             "hu": "Grand Place",
             "ro": "Grand Place",
-            "en": "Grand Place"
+            "en": "Grand Place",
+            "fr": "Grand-Place"
           },
           "coords": [
             3.063,
@@ -381,7 +403,8 @@
             "de": "Startpunkt für die Erkundung der flämischen Architektur.",
             "hu": "A flamand építészet felfedezésének kezdőpontja.",
             "ro": "Punctul de plecare pentru explorarea arhitecturii flamande.",
-            "en": "Starting point for exploring Flemish architecture."
+            "en": "Starting point for exploring Flemish architecture.",
+            "fr": "Point de départ pour explorer l’architecture flamande."
           }
         },
         {
@@ -389,7 +412,8 @@
             "de": "Hospice Comtesse",
             "hu": "Hospice Comtesse",
             "ro": "Hospice Comtesse",
-            "en": "Hospice Comtesse"
+            "en": "Hospice Comtesse",
+            "fr": "Hospice Comtesse"
           },
           "coords": [
             3.063,
@@ -405,7 +429,8 @@
             "de": "Radeln Sie vorsichtig durch die engen Gassen von Vieux Lille.",
             "hu": "Óvatosan kerekezz Vieux Lille szűk utcáin.",
             "ro": "Pedalați cu atenție pe străduțele înguste din Vieux Lille.",
-            "en": "Cycle carefully through the narrow streets of Vieux Lille."
+            "en": "Cycle carefully through the narrow streets of Vieux Lille.",
+            "fr": "Circulez prudemment à vélo dans les rues étroites du Vieux Lille."
           }
         },
         {
@@ -413,7 +438,8 @@
             "de": "Zitadelle von Lille",
             "hu": "Citadella",
             "ro": "Citadela",
-            "en": "Citadel"
+            "en": "Citadel",
+            "fr": "Citadelle"
           },
           "coords": [
             3.045,
@@ -429,7 +455,8 @@
             "de": "Die Deule-Kanäle bieten perfekte Radwege rund um die Festung.",
             "hu": "A Deule-csatornák mentén kiváló kerékpárutak futnak.",
             "ro": "Canalele Deule oferă piste de biciclete perfecte în jurul fortăreței.",
-            "en": "The Deule canals offer perfect cycling paths around the fortress."
+            "en": "The Deule canals offer perfect cycling paths around the fortress.",
+            "fr": "Les canaux Deûle offrent des pistes cyclables parfaites autour de la forteresse."
           }
         },
         {
@@ -437,7 +464,8 @@
             "de": "Palais des Beaux-Arts",
             "hu": "Szépművészeti Palota",
             "ro": "Palatul Artelor",
-            "en": "Fine Arts Palace"
+            "en": "Fine Arts Palace",
+            "fr": "Palais des Beaux-Arts"
           },
           "coords": [
             3.061,
@@ -453,7 +481,8 @@
             "de": "Ein kultureller Boxenstopp im Herzen der Stadt.",
             "hu": "Kulturális megálló a város szívében.",
             "ro": "Un popas cultural în inima orașului.",
-            "en": "A cultural pit stop in the heart of the city."
+            "en": "A cultural pit stop in the heart of the city.",
+            "fr": "Une halte culturelle au cœur de la ville."
           }
         },
         {
@@ -461,7 +490,8 @@
             "de": "Beffroi de l'Hôtel de Ville",
             "hu": "Harangtorony",
             "ro": "Turnul Primăriei",
-            "en": "Belfry"
+            "en": "Belfry",
+            "fr": "Beffroi"
           },
           "coords": [
             3.07,
@@ -477,7 +507,8 @@
             "de": "Parken Sie Ihr Rad sicher am Fuße des Rathauses.",
             "hu": "Zárd le biztonságosan a biciklit a városháza tövében.",
             "ro": "Parcați bicicleta în siguranță la baza primăriei.",
-            "en": "Park your bike securely at the foot of the city hall."
+            "en": "Park your bike securely at the foot of the city hall.",
+            "fr": "Garez votre vélo en sécurité au pied de la mairie."
           }
         },
         {
@@ -485,7 +516,8 @@
             "de": "Gare Saint-Sauveur",
             "hu": "Saint-Sauveur állomás",
             "ro": "Gara Saint-Sauveur",
-            "en": "Saint-Sauveur Station"
+            "en": "Saint-Sauveur Station",
+            "fr": "Gare Saint-Sauveur"
           },
           "coords": [
             3.072,
@@ -501,7 +533,8 @@
             "de": "Ein ehemaliger Güterbahnhof, heute ein hipper Kulturort.",
             "hu": "Egykori teherpályaudvar, ma trendi kulturális központ.",
             "ro": "O fostă gară de mărfuri, transformată în centru cultural modern.",
-            "en": "A former freight station, now a trendy cultural hub."
+            "en": "A former freight station, now a trendy cultural hub.",
+            "fr": "Ancienne gare de marchandises, aujourd’hui lieu culturel branché."
           }
         }
       ],
@@ -509,7 +542,8 @@
         "de": "Lille mit dem Rad zu erkunden, ist dank der V'Lille-Stationen und Kanalwege ideal. Von der Grand Place geht es durch das historische Zentrum zur grünen Lunge der Stadt, der Zitadelle. Genießen Sie die Fahrt entlang der Kanäle, bevor Sie zu den monumentalen Gebäuden im Süden wie dem Beffroi und der Gare Saint-Sauveur radeln.",
         "hu": "Lille kerékpárral is kiválóan bejárható a V'Lille állomásoknak és a csatornaparti utaknak köszönhetően. A Grand Place-től az óvároson át a város tüdejéig, a citadelláig tekerünk. Élvezze a csatorna menti utat, mielőtt a déli monumentális épületek, a harangtorony és a Gare Saint-Sauveur felé venné az irányt.",
         "ro": "Explorarea orașului Lille cu bicicleta este ideală datorită stațiilor V'Lille și pistelor de-a lungul canalului. De la Grand Place traversăm centrul istoric spre plămânul verde al orașului, citadela. Bucurați-vă de drumul pe malul apei înainte de a pedala spre clădirile monumentale din sud.",
-        "en": "Exploring Lille by bike is ideal thanks to the V'Lille stations and canal paths. From Grand Place, ride through the historical center to the city's green lung, the Citadel. Enjoy the ride along the canals before heading towards the monumental buildings in the south like the Belfry and Gare Saint-Sauveur."
+        "en": "Exploring Lille by bike is ideal thanks to the V'Lille stations and canal paths. From Grand Place, ride through the historical center to the city's green lung, the Citadel. Enjoy the ride along the canals before heading towards the monumental buildings in the south like the Belfry and Gare Saint-Sauveur.",
+        "fr": "Explorer Lille à vélo est idéal grâce aux stations V'Lille et aux pistes le long des canaux. Depuis la Grand-Place, roulez à travers le centre historique jusqu’au poumon vert de la ville, la Citadelle. Profitez du trajet le long des canaux avant de vous diriger vers les bâtiments monumentaux du sud comme le Beffroi et la Gare Saint-Sauveur."
       },
       "gastro_picks": {
         "de": [
@@ -625,6 +659,10 @@
         "en": [
           "Use the V'Lille bike-sharing system.",
           "Watch out for tram tracks in the city center."
+        ],
+        "fr": [
+          "Utilisez le système de vélo en libre-service V'Lille.",
+          "Faites attention aux rails du tramway dans le centre-ville."
         ]
       }
     },
@@ -641,7 +679,8 @@
             "de": "Grand Place",
             "hu": "Grand Place",
             "ro": "Grand Place",
-            "en": "Grand Place"
+            "en": "Grand Place",
+            "fr": "Grand-Place"
           },
           "coords": [
             3.063,
@@ -657,7 +696,8 @@
             "de": "Parken Sie im unterirdischen Parkplatz 'Grand Place'.",
             "hu": "Parkolj a 'Grand Place' mélygarázsban.",
             "ro": "Parcați în parcarea subterană 'Grand Place'.",
-            "en": "Park in the underground 'Grand Place' parking lot."
+            "en": "Park in the underground 'Grand Place' parking lot.",
+            "fr": "Garez-vous dans le parking souterrain « Grand-Place »."
           }
         },
         {
@@ -665,7 +705,8 @@
             "de": "Vieille Bourse",
             "hu": "Régi Tőzsde",
             "ro": "Bursa Veche",
-            "en": "Old Exchange"
+            "en": "Old Exchange",
+            "fr": "Ancienne Bourse"
           },
           "coords": [
             3.064,
@@ -681,7 +722,8 @@
             "de": "Direkt neben der Grand Place, zu Fuß erreichbar.",
             "hu": "Közvetlenül a Grand Place mellett.",
             "ro": "Chiar lângă Grand Place, accesibil pe jos.",
-            "en": "Right next to Grand Place, accessible on foot."
+            "en": "Right next to Grand Place, accessible on foot.",
+            "fr": "Juste à côté de la Grand-Place, accessible à pied."
           }
         },
         {
@@ -689,7 +731,8 @@
             "de": "Hospice Comtesse",
             "hu": "Hospice Comtesse",
             "ro": "Hospice Comtesse",
-            "en": "Hospice Comtesse"
+            "en": "Hospice Comtesse",
+            "fr": "Hospice Comtesse"
           },
           "coords": [
             3.063,
@@ -705,7 +748,8 @@
             "de": "Parkhaus 'Peuple Belge' ist in der Nähe.",
             "hu": "A 'Peuple Belge' parkolóház van a közelben.",
             "ro": "Parcarea 'Peuple Belge' este în apropiere.",
-            "en": "Parking 'Peuple Belge' is located nearby."
+            "en": "Parking 'Peuple Belge' is located nearby.",
+            "fr": "Le parking « Peuple Belge » se trouve à proximité."
           }
         },
         {
@@ -713,7 +757,8 @@
             "de": "Kathedrale Notre-Dame",
             "hu": "Notre-Dame székesegyház",
             "ro": "Catedrala Notre-Dame",
-            "en": "Cathedral Notre-Dame"
+            "en": "Cathedral Notre-Dame",
+            "fr": "Cathédrale Notre-Dame"
           },
           "coords": [
             3.062,
@@ -729,7 +774,8 @@
             "de": "Ein kurzer Spaziergang durch die Gassen von Vieux Lille.",
             "hu": "Rövid séta Vieux Lille utcáin át.",
             "ro": "O scurtă plimbare prin centrul vechi.",
-            "en": "A short walk through the old town streets."
+            "en": "A short walk through the old town streets.",
+            "fr": "Une courte promenade dans les rues de la vieille ville."
           }
         },
         {
@@ -737,7 +783,8 @@
             "de": "Zitadelle von Lille",
             "hu": "Citadella",
             "ro": "Citadela",
-            "en": "Citadel"
+            "en": "Citadel",
+            "fr": "Citadelle"
           },
           "coords": [
             3.045,
@@ -753,7 +800,8 @@
             "de": "Großer Parkplatz am Eingang der Zitadelle (Champ de Mars).",
             "hu": "Nagy parkoló a citadella bejáratánál (Champ de Mars).",
             "ro": "Parcare mare la intrarea în citadelă (Champ de Mars).",
-            "en": "Large parking lot at the Citadel entrance (Champ de Mars)."
+            "en": "Large parking lot at the Citadel entrance (Champ de Mars).",
+            "fr": "Grand parking à l'entrée de la Citadelle (Champ de Mars)."
           }
         },
         {
@@ -761,7 +809,8 @@
             "de": "Palais des Beaux-Arts",
             "hu": "Szépművészeti Múzeum",
             "ro": "Palatul Artelor",
-            "en": "Palais des Beaux-Arts"
+            "en": "Palais des Beaux-Arts",
+            "fr": "Palais des Beaux-Arts"
           },
           "coords": [
             3.061,
@@ -777,7 +826,8 @@
             "de": "Parkplatz 'République' direkt unter dem Platz.",
             "hu": "A 'République' parkoló közvetlenül a tér alatt található.",
             "ro": "Parcarea 'République' chiar sub piață.",
-            "en": "Parking 'République' located directly under the square."
+            "en": "Parking 'République' located directly under the square.",
+            "fr": "Parking « République » situé directement sous la place."
           }
         },
         {
@@ -785,7 +835,8 @@
             "de": "Beffroi de l'Hôtel de Ville",
             "hu": "Harangtorony",
             "ro": "Turnul Primăriei",
-            "en": "Belfry"
+            "en": "Belfry",
+            "fr": "Beffroi"
           },
           "coords": [
             3.07,
@@ -801,7 +852,8 @@
             "de": "Bequem erreichbar im südlichen Zentrum.",
             "hu": "Könnyen elérhető a déli városközpontban.",
             "ro": "Accesibil ușor în partea de sud a centrului.",
-            "en": "Easily accessible in the southern city center."
+            "en": "Easily accessible in the southern city center.",
+            "fr": "Facilement accessible dans le centre-ville sud."
           }
         }
       ],
@@ -809,7 +861,8 @@
         "de": "Diese Autotour kombiniert das Beste von Lille in bequemen Etappen. Wir nutzen strategische Parkhäuser, um die Cluster der Altstadt, der Zitadelle und des Kulturviertels im Süden zu erkunden. Perfekt, um die Highlights zu sehen, ohne den ganzen Tag laufen zu müssen.",
         "hu": "Ez az autós túra kényelmes szakaszokban kombinálja Lille legjavát. Stratégiai parkolóházakat használunk az óváros, a citadella és a déli negyed felfedezéséhez. Ideális a legfontosabb látnivalók megtekintéséhez anélkül, hogy egész nap gyalogolnunk kellene.",
         "ro": "Acest tur auto combină cele mai bune atracții din Lille în etape confortabile. Folosim parcări strategice pentru a explora centrul vechi, citadela și cartierul cultural din sud. Perfect pentru a vedea punctele cheie fără a merge pe jos toată ziua.",
-        "en": "This car tour combines the best of Lille in comfortable segments. We use strategic parking lots to explore clusters in the old town, the Citadel, and the southern cultural district. Perfect for seeing the highlights without having to walk all day."
+        "en": "This car tour combines the best of Lille in comfortable segments. We use strategic parking lots to explore clusters in the old town, the Citadel, and the southern cultural district. Perfect for seeing the highlights without having to walk all day.",
+        "fr": "Ce circuit en voiture combine le meilleur de Lille en étapes confortables. Nous utilisons des parkings stratégiques pour explorer les quartiers de la vieille ville, la Citadelle et le pôle culturel sud. Parfait pour voir les incontournables sans marcher toute la journée."
       },
       "gastro_picks": {
         "de": [
@@ -909,6 +962,10 @@
         "en": [
           "Reserve parking spaces in advance via apps.",
           "Part of the center is a pedestrian-only zone."
+        ],
+        "fr": [
+          "Réservez les places de parking à l'avance via des applications.",
+          "Une partie du centre est en zone piétonne."
         ]
       }
     },
@@ -925,7 +982,8 @@
             "de": "Grand Place",
             "hu": "Grand Place",
             "ro": "Grand Place",
-            "en": "Grand Place"
+            "en": "Grand Place",
+            "fr": "Grand-Place"
           },
           "coords": [
             3.063,
@@ -941,7 +999,8 @@
             "de": "Metrostation 'Rihour' (Ligne 1).",
             "hu": "'Rihour' megálló (1-es metró).",
             "ro": "Stația de metrou 'Rihour' (Linia 1).",
-            "en": "Metro station 'Rihour' (Line 1)."
+            "en": "Metro station 'Rihour' (Line 1).",
+            "fr": "Station de métro « Rihour » (Ligne 1)."
           }
         },
         {
@@ -949,7 +1008,8 @@
             "de": "Vieille Bourse",
             "hu": "Régi Tőzsde",
             "ro": "Bursa Veche",
-            "en": "Old Exchange"
+            "en": "Old Exchange",
+            "fr": "Ancienne Bourse"
           },
           "coords": [
             3.064,
@@ -965,7 +1025,8 @@
             "de": "Nur wenige Schritte von Rihour entfernt.",
             "hu": "Csak pár lépés a Rihourtól.",
             "ro": "La doar câțiva pași de Rihour.",
-            "en": "Just a few steps from Rihour."
+            "en": "Just a few steps from Rihour.",
+            "fr": "À quelques pas seulement de Rihour."
           }
         },
         {
@@ -973,7 +1034,8 @@
             "de": "Kathedrale Notre-Dame",
             "hu": "Notre-Dame székesegyház",
             "ro": "Catedrala Notre-Dame",
-            "en": "Cathedral Notre-Dame"
+            "en": "Cathedral Notre-Dame",
+            "fr": "Cathédrale Notre-Dame"
           },
           "coords": [
             3.062,
@@ -989,7 +1051,8 @@
             "de": "Im Herzen des historischen Viertels.",
             "hu": "A történelmi negyed szívében.",
             "ro": "În inima cartierului istoric.",
-            "en": "In the heart of the historical district."
+            "en": "In the heart of the historical district.",
+            "fr": "Au cœur du quartier historique."
           }
         },
         {
@@ -997,7 +1060,8 @@
             "de": "Zitadelle von Lille",
             "hu": "Citadella",
             "ro": "Citadela",
-            "en": "Citadel"
+            "en": "Citadel",
+            "fr": "Citadelle"
           },
           "coords": [
             3.045,
@@ -1013,7 +1077,8 @@
             "de": "Bus Ligne 1 oder Liane 1/90 Richtung Citadelle.",
             "hu": "1-es busz vagy Liane 1/90 a citadella felé.",
             "ro": "Autobuzul Ligne 1 sau Liane 1/90 spre Citadelă.",
-            "en": "Bus Line 1 or Liane 1/90 towards the Citadel."
+            "en": "Bus Line 1 or Liane 1/90 towards the Citadel.",
+            "fr": "Bus Ligne 1 ou Liane 1/90 en direction de la Citadelle."
           }
         },
         {
@@ -1021,7 +1086,8 @@
             "de": "Palais des Beaux-Arts",
             "hu": "Szépművészeti Múzeum",
             "ro": "Palatul Artelor",
-            "en": "Palais des Beaux-Arts"
+            "en": "Palais des Beaux-Arts",
+            "fr": "Palais des Beaux-Arts"
           },
           "coords": [
             3.061,
@@ -1037,7 +1103,8 @@
             "de": "Station 'République Beaux-Arts' (Ligne 1).",
             "hu": "'République Beaux-Arts' megálló (1-es metró).",
             "ro": "Stația 'République Beaux-Arts' (Linia 1).",
-            "en": "Station 'République Beaux-Arts' (Line 1)."
+            "en": "Station 'République Beaux-Arts' (Line 1).",
+            "fr": "Station « République Beaux-Arts » (Ligne 1)."
           }
         },
         {
@@ -1045,7 +1112,8 @@
             "de": "Beffroi de l'Hôtel de Ville",
             "hu": "Harangtorony",
             "ro": "Turnul Primăriei",
-            "en": "Belfry"
+            "en": "Belfry",
+            "fr": "Beffroi"
           },
           "coords": [
             3.07,
@@ -1061,7 +1129,8 @@
             "de": "Station 'Mairie de Lille' (Ligne 2).",
             "hu": "'Mairie de Lille' megálló (2-es metró).",
             "ro": "Stația 'Mairie de Lille' (Linia 2).",
-            "en": "Station 'Mairie de Lille' (Line 2)."
+            "en": "Station 'Mairie de Lille' (Line 2).",
+            "fr": "Station « Mairie de Lille » (Ligne 2)."
           }
         },
         {
@@ -1069,7 +1138,8 @@
             "de": "Gare Saint-Sauveur",
             "hu": "Gare Saint-Sauveur",
             "ro": "Gara Saint-Sauveur",
-            "en": "Gare Saint-Sauveur"
+            "en": "Gare Saint-Sauveur",
+            "fr": "Gare Saint-Sauveur"
           },
           "coords": [
             3.072,
@@ -1085,7 +1155,8 @@
             "de": "Ein kurzer Spaziergang vom Rathaus.",
             "hu": "Rövid séta a városházától.",
             "ro": "O scurtă plimbare de la primărie.",
-            "en": "A short walk from the city hall."
+            "en": "A short walk from the city hall.",
+            "fr": "À une courte distance à pied de l’hôtel de ville."
           }
         }
       ],
@@ -1093,7 +1164,8 @@
         "de": "Lille verfügt über ein effizientes Metronetz (die weltweit erste fahrerlose Metro). Diese Tour nutzt die Linien 1 und 2, um mühelos zwischen den Highlights zu springen. Entdecken Sie die Pracht der Grand Place, den Frieden der Zitadelle und die kulturelle Vielfalt im Süden – alles mit einem Tagesticket.",
         "hu": "Lille hatékony metróhálózattal rendelkezik (a világ első automata metrója). Ez a túra az 1-es és 2-es vonalakat használja, hogy könnyedén váltsunk a látnivalók között. Fedezze fel a Grand Place pompáját, a citadella nyugalmát és a déli negyed kulturális sokszínűségét – mindezt egyetlen napijeggyel.",
         "ro": "Lille are o rețea de metrou eficientă (primul metrou fără conductor din lume). Acest tur folosește liniile 1 și 2 pentru a trece rapid de la o atracție la alta. Descoperiți splendoarea din Grand Place, liniștea citadelei și diversitatea culturală din sud, folosind un permis de o zi.",
-        "en": "Lille boasts an efficient metro network (the world's first driverless metro). This tour uses Lines 1 and 2 to easily hop between highlights. Discover the grandeur of Grand Place, the peace of the Citadel, and the cultural richness of the south – all with a single day pass."
+        "en": "Lille boasts an efficient metro network (the world's first driverless metro). This tour uses Lines 1 and 2 to easily hop between highlights. Discover the grandeur of Grand Place, the peace of the Citadel, and the cultural richness of the south – all with a single day pass.",
+        "fr": "Lille dispose d’un réseau de métro efficace (le premier métro sans conducteur au monde). Ce circuit utilise les Lignes 1 et 2 pour passer facilement d’un site à l’autre. Découvrez la grandeur de la Grand-Place, le calme de la Citadelle et la richesse culturelle du sud – le tout avec un pass journée."
       },
       "gastro_picks": {
         "de": [
@@ -1193,6 +1265,10 @@
         "en": [
           "Buy a Pass'Journée for unlimited travel throughout the day.",
           "The metro is very punctual and frequent."
+        ],
+        "fr": [
+          "Achetez un Pass’Journée pour des déplacements illimités toute la journée.",
+          "Le métro est très ponctuel et fréquent."
         ]
       }
     }

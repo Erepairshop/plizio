@@ -3,55 +3,64 @@
     "de": "Avenue de Paris, 94300 Vincennes",
     "hu": "Avenue de Paris, 94300 Vincennes",
     "ro": "Avenue de Paris, 94300 Vincennes",
-    "en": "Avenue de Paris, 94300 Vincennes"
+    "en": "Avenue de Paris, 94300 Vincennes",
+    "fr": "Avenue de Paris, 94300 Vincennes"
   },
   "openingHours": {
     "de": "Mo-Su 10:00-18:00",
     "hu": "Hé-Va 10:00-18:00",
     "ro": "Lun-Dum 10:00-18:00",
-    "en": "Mon-Sun 10:00-18:00"
+    "en": "Mon-Sun 10:00-18:00",
+    "fr": "Lun-Dim 10:00-18:00"
   },
   "entranceFee": {
     "de": "€9.50 Erwachsene",
     "hu": "9,50 € felnőtteknek",
     "ro": "9,50 € adulți",
-    "en": "€9.50 adults"
+    "en": "€9.50 adults",
+    "fr": "€9,50 adultes"
   },
   "website": "https://www.chateau-vincennes.fr",
   "publicTransport": {
     "de": "Metro Linie 1 Endstation Château de Vincennes",
     "hu": "1-es metró Château de Vincennes végállomás",
     "ro": "Metrou linia 1, capăt de linie Château de Vincennes",
-    "en": "Metro line 1, terminus station Château de Vincennes"
+    "en": "Metro line 1, terminus station Château de Vincennes",
+    "fr": "Métro ligne 1, terminus Château de Vincennes"
   },
   "parking": {
     "de": "Öffentliche Parkplätze in der Avenue de Paris",
     "hu": "Nyilvános parkolók az Avenue de Paris mentén",
     "ro": "Locuri de parcare publice pe Avenue de Paris",
-    "en": "Public parking spaces on Avenue de Paris"
+    "en": "Public parking spaces on Avenue de Paris",
+    "fr": "Places de stationnement publiques sur l’Avenue de Paris"
   },
   "accessibility": {
     "de": "Schlosshof ebenerdig, Donjon nur über enge Wendeltreppen zugänglich",
     "hu": "A kastélyudvar sík terep, a lakótorony (donjon) csak szűk csigalépcsőkön érhető el",
     "ro": "Curtea castelului este la nivel, donjonul este accesibil doar prin scări în spirală înguste",
-    "en": "Castle courtyard is level, keep (donjon) only accessible via narrow spiral staircases"
+    "en": "Castle courtyard is level, keep (donjon) only accessible via narrow spiral staircases",
+    "fr": "Cour du château plane, donjon accessible seulement par des escaliers en colimaçon étroits"
   },
   "photoRules": {
     "de": "Fotografieren für private Zwecke ohne Stativ erlaubt",
     "hu": "Magáncélú fotózás állvány nélkül engedélyezett",
     "ro": "Fotografierea în scopuri private fără trepied este permisă",
-    "en": "Photography for private use without a tripod is permitted"
+    "en": "Photography for private use without a tripod is permitted",
+    "fr": "Photographie pour usage privé sans trépied autorisée"
   },
   "bestTimeToVisit": {
     "de": "Am späten Nachmittag für stimmungsvolles Licht am Wehrturm",
     "hu": "Késő délután, a tornyot megvilágító hangulatos fények miatt",
     "ro": "După-amiaza târziu pentru o lumină atmosferică pe turnul de apărare",
-    "en": "Late afternoon for atmospheric light on the defensive tower"
+    "en": "Late afternoon for atmospheric light on the defensive tower",
+    "fr": "Fin d’après‑midi pour une lumière atmosphérique sur la tour défensive"
   },
   "audioGuide": {
     "de": "DE, EN, FR, IT, ES",
     "hu": "DE, EN, FR, IT, ES",
     "ro": "DE, EN, FR, IT, ES",
-    "en": "DE, EN, FR, IT, ES"
+    "en": "DE, EN, FR, IT, ES",
+    "fr": "DE, EN, FR, IT, ES"
   }
 }

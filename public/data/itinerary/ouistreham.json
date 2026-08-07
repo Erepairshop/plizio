@@ -21,7 +21,8 @@
             "de": "Kirche Saint-Samson",
             "hu": "Saint-Samson templom",
             "ro": "Biserica Saint-Samson",
-            "en": "Saint Samson Church"
+            "en": "Saint Samson Church",
+            "fr": "Église Saint Samson"
           },
           "coords": [
             -0.258164,
@@ -36,7 +37,8 @@
             "de": "Bewundern Sie die markante romanische Architektur dieser Kirche aus dem 12. Jahrhundert, ein Zeugnis normannischer Geschichte, die Sie am besten im frühen Morgenlicht besuchen.",
             "hu": "Csodálja meg e 12. századi templom lenyűgöző román stílusú építészetét, amely a normann történelem tanúja, és érdemes kora reggel meglátogatni a legszebb fényekért.",
             "ro": "Admirați arhitectura romanică impresionantă a acestei biserici din secolul al XII-lea, o mărturie a istoriei normande, ideal de vizitat dimineața pentru lumina sa superbă.",
-            "en": "Admire the striking Romanesque architecture of this 12th-century church, a quiet testament to Norman history, best visited early when the morning light highlights its nave."
+            "en": "Admire the striking Romanesque architecture of this 12th-century church, a quiet testament to Norman history, best visited early when the morning light highlights its nave.",
+            "fr": "Admirez l'architecture romane frappante de cette église du XIIe siècle, un témoignage silencieux de l'histoire normande, à visiter de préférence tôt quand la lumière du matin met en valeur sa nef."
           }
         },
         {
@@ -44,7 +46,8 @@
             "de": "Jachthafen",
             "hu": "Jachtkikötő",
             "ro": "Portul de Agrement",
-            "en": "Marina (Port de Plaisance)"
+            "en": "Marina (Port de Plaisance)",
+            "fr": "Marina (Port de Plaisance)"
           },
           "coords": [
             -0.248091,
@@ -59,7 +62,8 @@
             "de": "Schlendern Sie entlang des belebten Yachthafens, um die schaukelnden Fischerboote zu beobachten, und trinken Sie einen schnellen Kaffee in einem der kleinen Hafencafés.",
             "hu": "Sétáljon végig a nyüzsgő kikötőn, figyelje a vízen ringatózó halászhajókat és jachtokat, és fogyasszon el egy kávét a rakpart egyik hangulatos kávézójában a pihenéshez.",
             "ro": "Plimbați-vă de-a lungul portului de agrement pentru a urmări bărcile de pescuit și iahturile, și savurați o cafea la una dintre cafenelele de pe chei pentru a vă relaxa.",
-            "en": "Stroll along the bustling marina to watch the local fishing boats and yachts gently bobbing in the water, and grab a quick coffee at one of the quayside cafes to relax."
+            "en": "Stroll along the bustling marina to watch the local fishing boats and yachts gently bobbing in the water, and grab a quick coffee at one of the quayside cafes to relax.",
+            "fr": "Promenez-vous le long de la marina animée pour observer les bateaux de pêche locaux et les yachts qui se balancent doucement, et prenez un café rapide dans l'un des cafés du quai pour vous détendre."
           }
         },
         {
@@ -67,7 +71,8 @@
             "de": "Leuchtturm Ouistreham",
             "hu": "Ouistreham Világítótorony",
             "ro": "Farul Ouistreham",
-            "en": "Ouistreham Lighthouse"
+            "en": "Ouistreham Lighthouse",
+            "fr": "Phare d'Ouistreham"
           },
           "coords": [
             -0.247778,
@@ -82,7 +87,8 @@
             "de": "Erklimmen Sie die 171 Stufen dieses ikonischen rot-weißen Leuchtturms für einen atemberaubenden Panoramablick, aber tragen Sie unbedingt bequeme Wanderschuhe für den Aufstieg.",
             "hu": "Mássza meg az ikonikus piros-fehér világítótorony 171 lépcsőfokát a lélegzetelállító panorámáért, de ne felejtsen el kényelmes cipőt húzni a kihívást jelentő felfelé úthoz.",
             "ro": "Urcați cele 171 de trepte ale acestui far cilindric roșu cu alb pentru o priveliște panoramică uluitoare a coastei, dar asigurați-vă că purtați încălțăminte foarte confortabilă.",
-            "en": "Climb the 171 steps of this iconic red-and-white cylindrical lighthouse for breathtaking panoramic views of the coast, but make sure to wear comfortable walking shoes."
+            "en": "Climb the 171 steps of this iconic red-and-white cylindrical lighthouse for breathtaking panoramic views of the coast, but make sure to wear comfortable walking shoes.",
+            "fr": "Montez les 171 marches de ce phare cylindrique rouge et blanc emblématique pour des vues panoramiques à couper le souffle sur la côte, mais veillez à porter des chaussures de marche confortables."
           }
         },
         {
@@ -90,7 +96,8 @@
             "de": "Atlantikwall-Museum",
             "hu": "Atlantisz Fal Múzeum (Nagy Bunker)",
             "ro": "Muzeul Zidul Atlanticului",
-            "en": "Atlantic Wall Museum (The Big Bunker)"
+            "en": "Atlantic Wall Museum (The Big Bunker)",
+            "fr": "Musée du Mur de l'Atlantique (Le Gros Bunker)"
           },
           "coords": [
             -0.252447,
@@ -105,7 +112,8 @@
             "de": "Erkunden Sie diesen sorgfältig restaurierten deutschen Weltkriegsbunker, um die Verteidigung am D-Day zu verstehen, und nehmen Sie sich Zeit für die authentischen Funkräume.",
             "hu": "Fedezze fel ezt a gondosan felújított, II. világháborús német bunkert a normandiai partraszállás védelmének megértéséhez, különös tekintettel az autentikus rádiószobákra.",
             "ro": "Explorați acest buncăr german din al Doilea Război Mondial, meticulos restaurat, pentru a înțelege apărarea de la Ziua Z, și acordați atenție camerelor medicale autentice.",
-            "en": "Explore this meticulously restored 52-foot concrete German bunker from WWII to understand the D-Day defenses, and take time to inspect the authentic medical and radio rooms."
+            "en": "Explore this meticulously restored 52-foot concrete German bunker from WWII to understand the D-Day defenses, and take time to inspect the authentic medical and radio rooms.",
+            "fr": "Explorez ce bunker allemand en béton méticuleusement restauré de 16 mètres de haut datant de la Seconde Guerre mondiale pour comprendre les défenses du Débarquement, et prenez le temps d'inspecter les salles médicales et radio authentiques."
           }
         },
         {
@@ -113,7 +121,8 @@
             "de": "N°4 Commando Museum",
             "hu": "N°4 Commando Múzeum",
             "ro": "Muzeul N°4 Commando",
-            "en": "N°4 Commando Museum"
+            "en": "N°4 Commando Museum",
+            "fr": "Musée du N°4 Commando"
           },
           "coords": [
             -0.259612,
@@ -128,7 +137,8 @@
             "de": "Entdecken Sie die heldenhaften Geschichten der freifranzösischen Streitkräfte durch faszinierende Artefakte und schauen Sie sich den Einführungsfilm an, um mehr zu erfahren.",
             "hu": "Ismerje meg a Szabad Francia Erők hősies történeteit a lenyűgöző leleteken keresztül, és mindenképpen nézze meg a bevezető filmet, hogy teljesen átlássa a küldetésüket.",
             "ro": "Descoperiți poveștile eroice ale forțelor franceze libere prin artefacte fascinante și urmăriți filmul introductiv pentru a înțelege pe deplin importanța misiunii lor vitale.",
-            "en": "Discover the heroic stories of the Free French forces who landed at Sword Beach through fascinating artifacts, and watch the introductory film to fully grasp their vital mission."
+            "en": "Discover the heroic stories of the Free French forces who landed at Sword Beach through fascinating artifacts, and watch the introductory film to fully grasp their vital mission.",
+            "fr": "Découvrez les histoires héroïques des forces françaises libres qui ont débarqué à Sword Beach à travers des artefacts fascinants, et regardez le film d'introduction pour bien comprendre leur mission vitale."
           }
         }
       ],
@@ -136,7 +146,8 @@
         "de": "Beginnen Sie Ihren Morgen im Herzen von Ouistreham an der romanischen Kirche Saint Samson und schlendern Sie dann zum lebhaften Jachthafen.\n\nGegen Mittag besuchen Sie den ikonischen Leuchtturm von Ouistreham für einen Panoramablick, bevor Sie in die Kriegsgeschichte eintauchen.\n\nVerbringen Sie den Nachmittag im Großen Bunker und im N°4 Commando Museum, die faszinierende Einblicke in den D-Day bieten.\n\nBeenden Sie Ihren Rundgang in der Nähe der Museen, während die friedliche Atmosphäre der Denkmäler den reflektierenden Tag abschließt.",
         "hu": "Kezdje a reggelt Ouistreham szívében a román stílusú Saint Samson templomnál, majd sétáljon le a nyüzsgő kikötőbe.\n\nDél körül látogasson el az ikonikus világítótoronyhoz a panorámáért, mielőtt elmerülne a város háborús történelmében.\n\nTöltse a délutánt a Nagy Bunker és a N°4 Commando Múzeum felfedezésével, amelyek lenyűgöző betekintést nyújtanak a D-nap eseményeibe.\n\nFejezze be a sétát a múzeumok közelében; a part menti emlékművek békés hangulata tökéletesen lezárja ezt az elgondolkodtató napot.",
         "ro": "Începeți dimineața în inima orașului la biserica romanică Saint Samson, apoi faceți o plimbare până la portul plin de viață.\n\nÎn jurul prânzului, vizitați farul iconic pentru o panoramă superbă, înainte de a explora istoria de război a orașului.\n\nPetreceți după-amiaza explorând Marele Buncăr și Muzeul N°4 Commando, care oferă o perspectivă emoționantă asupra Zilei Z.\n\nÎncheiați-vă turul lângă muzee, unde atmosfera pașnică a monumentelor de coastă va aduce o încheiere perfectă acestei zile de reflecție.",
-        "en": "Start your morning in the heart of Ouistreham at the Romanesque Saint Samson Church, taking in its quiet history before strolling down to the vibrant Port de Plaisance.\n\nAround midday, head north to the iconic Ouistreham Lighthouse. After climbing for panoramic views, you'll be perfectly positioned to dive into the town's profound wartime history.\n\nSpend your afternoon exploring The Big Bunker and the nearby N°4 Commando Museum. These deeply moving historical sites offer incredible insight into the events of D-Day.\n\nConclude your walking tour near the museums as the evening approaches. The solemn yet peaceful atmosphere of the coastal monuments perfectly wraps up your reflective day in Normandy."
+        "en": "Start your morning in the heart of Ouistreham at the Romanesque Saint Samson Church, taking in its quiet history before strolling down to the vibrant Port de Plaisance.\n\nAround midday, head north to the iconic Ouistreham Lighthouse. After climbing for panoramic views, you'll be perfectly positioned to dive into the town's profound wartime history.\n\nSpend your afternoon exploring The Big Bunker and the nearby N°4 Commando Museum. These deeply moving historical sites offer incredible insight into the events of D-Day.\n\nConclude your walking tour near the museums as the evening approaches. The solemn yet peaceful atmosphere of the coastal monuments perfectly wraps up your reflective day in Normandy.",
+        "fr": "Commencez votre matinée au cœur d'Ouistreham à l'église romane Saint Samson, en appréciant son histoire tranquille avant de descendre vers le dynamique Port de Plaisance.\n\nVers midi, dirigez-vous vers le nord jusqu'au phare emblématique d'Ouistreham. Après l'ascension pour des vues panoramiques, vous serez parfaitement placé pour plonger dans l'histoire profonde de la ville pendant la guerre.\n\nPassez votre après-midi à explorer Le Gros Bunker et le musée du N°4 Commando à proximité. Ces sites historiques profondément émouvants offrent un aperçu incroyable des événements du Débarquement.\n\nConcluez votre visite à pied près des musées à l'approche du soir. L'atmosphère solennelle mais paisible des monuments côtiers clôt idéalement votre journée de réflexion en Normandie."
       },
       "variants": {
         "rainy": {
@@ -144,7 +155,8 @@
             "de": "Beginnen Sie den Tag in der Saint-Samson-Kirche, die einen trockenen Rückzugsort bietet. Der Weg zum Jachthafen ist bei Regen stimmungsvoll, erfordert aber gute Regenkleidung. Nachmittags bieten der Große Bunker und das Commando-Museum perfekten Schutz vor den Güssen. Der Abend klingt an der Küste aus, wo die graue See eine dramatische Kulisse bildet, während man sich in die Museen flüchtet.",
             "hu": "Kezdje a napot a Saint-Samson templomban, amely száraz menedéket nyújt a reggeli záporok elől. A jachtkikötő felé vezető út esőben is hangulatos, de vízálló cipő javasolt a csúszós kövek miatt. Délután az Atlanti Fal és a Commando múzeumok belső kiállításai ideálisak a csapadékos időben. Az este a tengerparti szürkületben zárul, ahol a szakadó esőben a bunkerfalak adnak biztonságos fedelet.",
             "ro": "Începeți ziua la Biserica Saint-Samson, care oferă un refugiu uscat împotriva ploii de dimineață. Drumul spre port este atmosferic pe timp de ploaie, dar necesită pelerină. După-amiaza, Marele Bunker și Muzeul Commando oferă adăpostul perfect în interior pentru a explora istoria. Seara se încheie lângă coastă, unde marea cenușie oferă un decor dramatic, protejați de pereții groși ai muzeelor.",
-            "en": "Start your day at Saint Samson Church, offering a dry sanctuary from the morning showers. The walk to the marina is atmospheric in the rain, but waterproof gear is essential for the lighthouse path. In the afternoon, the Atlantic Wall and Commando museums provide the perfect indoor refuge to explore history. The evening ends near the coast, where the stormy sea creates a dramatic backdrop."
+            "en": "Start your day at Saint Samson Church, offering a dry sanctuary from the morning showers. The walk to the marina is atmospheric in the rain, but waterproof gear is essential for the lighthouse path. In the afternoon, the Atlantic Wall and Commando museums provide the perfect indoor refuge to explore history. The evening ends near the coast, where the stormy sea creates a dramatic backdrop.",
+            "fr": "Commencez la journée à l'église Saint Samson, qui offre un sanctuaire sec contre les averses matinales. La marche jusqu'à la marina est atmosphérique sous la pluie, mais des vêtements imperméables sont indispensables pour le chemin du phare. L'après-midi, les musées du Mur de l'Atlantique et du Commando constituent le refuge intérieur parfait pour explorer l'histoire. La soirée se termine près de la côte, où la mer orageuse crée un décor dramatique."
           },
           "stops": [
             {
@@ -152,13 +164,15 @@
                 "de": "Kirche Saint-Samson",
                 "hu": "Saint-Samson templom",
                 "ro": "Biserica Saint-Samson",
-                "en": "Saint Samson Church"
+                "en": "Saint Samson Church",
+                "fr": "Église Saint Samson"
               },
               "tip_5lang": {
                 "de": "Bewundern Sie die romanische Architektur im trockenen Innenraum und nutzen Sie die Stille, um den heftigen Regengüssen draußen für einen Moment zu entkommen.",
                 "hu": "Csodálja meg a román stílusú belső teret, amely kiváló menedéket nyújt az eső elől, miközben felfedezi a templom csendes, történelmi részleteit.",
                 "ro": "Admirați arhitectura romanică în interiorul uscat și folosiți liniștea pentru a scăpa de ploaia torențială de afară în timp ce studiați detaliile istorice.",
-                "en": "Admire the Romanesque architecture in the dry interior and use the silence to escape the heavy rain outside while exploring the church's historic details."
+                "en": "Admire the Romanesque architecture in the dry interior and use the silence to escape the heavy rain outside while exploring the church's historic details.",
+                "fr": "Admirez l'architecture romane dans l'intérieur sec et profitez du silence pour échapper à la forte pluie extérieure en explorant les détails historiques de l'église."
               }
             },
             {
@@ -166,13 +180,15 @@
                 "de": "Jachthafen",
                 "hu": "Jachtkikötő",
                 "ro": "Portul de Agrement",
-                "en": "Marina (Port de Plaisance)"
+                "en": "Marina (Port de Plaisance)",
+                "fr": "Marina (Port de Plaisance)"
               },
               "tip_5lang": {
                 "de": "Beobachten Sie das Tanzen der Regentropfen auf der Wasseroberfläche des Hafens; die hölzernen Stege können bei Nässe rutschig sein, seien Sie also vorsichtig.",
                 "hu": "Figyelje a vízen táncoló esőcseppeket a kikötőben, de ügyeljen a lépteire, mert a mólók és a köves utak vizesen rendkívül csúszósak lehetnek.",
                 "ro": "Priviți picăturile de ploaie dansând pe apa portului; pontoanele de lemn pot fi alunecoase când sunt ude, așa că mergeți cu mare atenție.",
-                "en": "Watch the raindrops dancing on the water surface of the harbor; the wooden piers can be slippery when wet, so walk with extra caution."
+                "en": "Watch the raindrops dancing on the water surface of the harbor; the wooden piers can be slippery when wet, so walk with extra caution.",
+                "fr": "Observez les gouttes de pluie danser à la surface de l'eau du port ; les pontons en bois peuvent être glissants quand ils sont mouillés, marchez donc avec prudence supplémentaire."
               }
             },
             {
@@ -180,13 +196,15 @@
                 "de": "Leuchtturm Ouistreham",
                 "hu": "Ouistreham Világítótorony",
                 "ro": "Farul Ouistreham",
-                "en": "Ouistreham Lighthouse"
+                "en": "Ouistreham Lighthouse",
+                "fr": "Phare d'Ouistreham"
               },
               "tip_5lang": {
                 "de": "Der markante rote Turm wirkt im Nebel besonders mystisch; halten Sie sich am Geländer fest, da der Wind den Regen oft peitschend gegen das Mauerwerk drückt.",
                 "hu": "A vörös torony látványa ködös esőben különösen misztikus, de kapaszkodjon a korlátba, mert az erős szél gyakran vágja az esőt a falakhoz.",
                 "ro": "Turnul roșu arată mistic prin ceață și ploaie; țineți-vă bine de balustradă, deoarece vântul suflă adesea ploaia cu putere spre zidărie.",
-                "en": "The red tower looks particularly mystical through the mist; hold onto the railing as the wind often lashes the rain against the stone masonry."
+                "en": "The red tower looks particularly mystical through the mist; hold onto the railing as the wind often lashes the rain against the stone masonry.",
+                "fr": "La tour rouge paraît particulièrement mystique à travers la brume ; tenez-vous à la rampe car le vent claque souvent la pluie contre la maçonnerie."
               }
             },
             {
@@ -194,13 +212,15 @@
                 "de": "Atlantikwall-Museum",
                 "hu": "Atlantisz Fal Múzeum (Nagy Bunker)",
                 "ro": "Muzeul Zidul Atlanticului",
-                "en": "Atlantic Wall Museum (The Big Bunker)"
+                "en": "Atlantic Wall Museum (The Big Bunker)",
+                "fr": "Musée du Mur de l'Atlantique (Le Gros Bunker)"
               },
               "tip_5lang": {
                 "de": "Dieses Museum ist das ideale Ziel bei Regen, da sich die gesamte Ausstellung in einem massiven, wetterfesten Bunker auf sechs Etagen erstreckt.",
                 "hu": "Ez a múzeum tökéletes célpont esőben, mivel a teljes kiállítás egy hatalmas, vízhatlan bunker hat emeletén kapott helyet, teljesen védve az elemektől.",
                 "ro": "Acest muzeu este destinația ideală pe ploaie, deoarece întreaga expoziție se află în interiorul unui buncăr masiv, pe șase etaje protejate.",
-                "en": "This museum is the ideal destination in the rain, as the entire exhibition is housed inside a massive, weatherproof bunker across six protected floors."
+                "en": "This museum is the ideal destination in the rain, as the entire exhibition is housed inside a massive, weatherproof bunker across six protected floors.",
+                "fr": "Ce musée est la destination idéale par temps de pluie, car toute l'exposition se trouve à l'intérieur d'un énorme bunker étanche réparti sur six étages protégés."
               }
             },
             {
@@ -208,13 +228,15 @@
                 "de": "N°4 Commando Museum",
                 "hu": "N°4 Commando Múzeum",
                 "ro": "Muzeul N°4 Commando",
-                "en": "N°4 Commando Museum"
+                "en": "N°4 Commando Museum",
+                "fr": "Musée du N°4 Commando"
               },
               "tip_5lang": {
                 "de": "Nutzen Sie den überdachten Raum, um die persönlichen Gegenstände der Soldaten zu studieren, während draußen der Regen auf die historischen Exponate prasselt.",
                 "hu": "Használja ki a fedett kiállítóteret a katonák személyes tárgyainak tanulmányozására, miközben kint az eső veri a történelmi falakat.",
                 "ro": "Profitați de spațiul interior pentru a studia obiectele personale ale soldaților în timp ce afară ploaia bate în zidurile istorice ale muzeului.",
-                "en": "Take advantage of the indoor space to study the soldiers' personal belongings while the rain lashes against the historic walls outside."
+                "en": "Take advantage of the indoor space to study the soldiers' personal belongings while the rain lashes against the historic walls outside.",
+                "fr": "Profitez de l'espace intérieur pour étudier les effets personnels des soldats pendant que la pluie frappe les murs historiques à l'extérieur."
               }
             }
           ]
@@ -224,7 +246,8 @@
             "de": "Ein klarer Wintermorgen beginnt in der beheizten Atmosphäre der Saint-Samson-Kirche. Am Jachthafen sorgt die kalte Meeresbrise für Frische, bevor man sich in den Museen aufwärmt. Da es bereits gegen 17:00 Uhr dunkel wird, sollten die Außenbesichtigungen am frühen Nachmittag abgeschlossen sein. Der Abend lädt zu einem heißen Getränk in der Nähe des Hafens ein, wenn die Lichter funkeln.",
             "hu": "A tiszta téli reggel a Saint-Samson templom hűvös, de szélvédett falai között indul. A kikötőben a csípős tengeri szél gyors haladásra ösztönöz, mielőtt a fűtött múzeumokba érnénk. Mivel 17:00 körül már sötétedik, a világítótornyot korán látogassa meg. Az este a kikötői fények mellett, egy meleg tea társaságában a legélvezetesebb.",
             "ro": "O dimineață senină de iarnă începe între zidurile ferite de vânt ale Bisericii Saint-Samson. În port, briza rece a mării vă va înviora înainte de a intra în muzeele încălzite. Deoarece se întunecă în jurul orei 17:00, vizitați farul devreme. Seara este cea mai plăcută lângă luminile portului, cu o băutură caldă în mână.",
-            "en": "A crisp winter morning starts within the sheltered walls of Saint Samson Church. At the marina, the biting sea breeze invigorates you before you warm up in the museums. Since it gets dark around 17:00, ensure you visit the lighthouse early. The evening is best enjoyed near the harbor lights with a hot drink in hand."
+            "en": "A crisp winter morning starts within the sheltered walls of Saint Samson Church. At the marina, the biting sea breeze invigorates you before you warm up in the museums. Since it gets dark around 17:00, ensure you visit the lighthouse early. The evening is best enjoyed near the harbor lights with a hot drink in hand.",
+            "fr": "Une matinée hivernale fraîche commence à l'abri des murs de l'église Saint Samson. À la marina, la bise marine vivifiante vous réveille avant de vous réchauffer dans les musées. Comme il fait nuit vers 17h, assurez-vous de visiter le phare tôt. La soirée se savoure mieux près des lumières du port avec une boisson chaude à la main."
           },
           "stops": [
             {
@@ -232,13 +255,15 @@
                 "de": "Kirche Saint-Samson",
                 "hu": "Saint-Samson templom",
                 "ro": "Biserica Saint-Samson",
-                "en": "Saint Samson Church"
+                "en": "Saint Samson Church",
+                "fr": "Église Saint Samson"
               },
               "tip_5lang": {
                 "de": "Die dicken Mauern halten die Kälte ab; genießen Sie die friedliche Winterstimmung im Inneren und bewundern Sie die Details im sanften Winterlicht.",
                 "hu": "A vastag falak kint tartják a fagyos szelet; élvezze a békés téli hangulatot és csodálja meg a belső részleteket a lágy téli fényben.",
                 "ro": "Zidurile groase țin frigul la distanță; bucurați-vă de atmosfera liniștită de iarnă din interior și admirați detaliile în lumina slabă a sezonului.",
-                "en": "The thick walls keep the freezing wind out; enjoy the peaceful winter atmosphere inside and admire the details in the soft winter light."
+                "en": "The thick walls keep the freezing wind out; enjoy the peaceful winter atmosphere inside and admire the details in the soft winter light.",
+                "fr": "Les murs épais empêchent le vent glacial d'entrer ; profitez de l'atmosphère paisible de l'hiver à l'intérieur et admirez les détails à la douce lumière hivernale."
               }
             },
             {
@@ -246,13 +271,15 @@
                 "de": "Jachthafen",
                 "hu": "Jachtkikötő",
                 "ro": "Portul de Agrement",
-                "en": "Marina (Port de Plaisance)"
+                "en": "Marina (Port de Plaisance)",
+                "fr": "Marina (Port de Plaisance)"
               },
               "tip_5lang": {
                 "de": "Tragen Sie windfeste Kleidung, da die Kälte vom Kanal her intensiv sein kann; die winterliche Stille im Hafen bietet jedoch eine ganz eigene, klare Ästhetik.",
                 "hu": "Viseljen szélálló ruházatot, mert a csatorna felől érkező hideg metsző lehet; a téli csend a kikötőben tiszta és különleges látványt nyújt.",
                 "ro": "Purtați haine rezistente la vânt, deoarece frigul de pe canal poate fi intens; liniștea iernii în port oferă o estetică clară și unică.",
-                "en": "Wear windproof clothing as the chill from the channel can be intense; however, the winter silence in the harbor offers a unique, crisp aesthetic."
+                "en": "Wear windproof clothing as the chill from the channel can be intense; however, the winter silence in the harbor offers a unique, crisp aesthetic.",
+                "fr": "Portez des vêtements coupe-vent car le froid venant de la Manche peut être intense ; cependant, le silence hivernal dans le port offre une esthétique nette et unique."
               }
             },
             {
@@ -260,13 +287,15 @@
                 "de": "Leuchtturm Ouistreham",
                 "hu": "Ouistreham Világítótorony",
                 "ro": "Farul Ouistreham",
-                "en": "Ouistreham Lighthouse"
+                "en": "Ouistreham Lighthouse",
+                "fr": "Phare d'Ouistreham"
               },
               "tip_5lang": {
                 "de": "Erklimmen Sie den Turm vor 16:00 Uhr, um den weiten Blick über die winterliche Küste bei Tageslicht zu genießen, bevor die frühe Dämmerung einsetzt.",
                 "hu": "Másszon fel a toronyba délután 4 előtt, hogy még nappali fénynél láthassa a téli tengerparti panorámát a korai naplemente előtt.",
                 "ro": "Urcați în far înainte de ora 16:00 pentru a vă bucura de panorama coastei în lumina zilei, înainte de lăsarea timpurie a serii.",
-                "en": "Climb the tower before 16:00 to enjoy the panoramic view of the winter coastline in daylight before the early dusk sets in."
+                "en": "Climb the tower before 16:00 to enjoy the panoramic view of the winter coastline in daylight before the early dusk sets in.",
+                "fr": "Montez dans la tour avant 16:00 pour profiter de la vue panoramique du littoral hivernal en plein jour avant que la tombée précoce du soir ne s'installe."
               }
             },
             {
@@ -274,13 +303,15 @@
                 "de": "Atlantikwall-Museum",
                 "hu": "Atlantisz Fal Múzeum (Nagy Bunker)",
                 "ro": "Muzeul Zidul Atlanticului",
-                "en": "Atlantic Wall Museum (The Big Bunker)"
+                "en": "Atlantic Wall Museum (The Big Bunker)",
+                "fr": "Musée du Mur de l'Atlantique (Le Gros Bunker)"
               },
               "tip_5lang": {
                 "de": "Der Bunker bietet Schutz vor dem eisigen Wind; die konstante Innentemperatur macht die Erkundung der sechs Etagen auch im tiefsten Winter angenehm.",
                 "hu": "A bunker kiváló védelmet nyújt a jeges szél ellen; a belső hőmérséklet télen is kellemessé teszi a hat emeletnyi történelmi felfedezést.",
                 "ro": "Buncărul oferă o protecție excelentă împotriva vântului înghețat; temperatura constantă din interior face explorarea plăcută chiar și iarna.",
-                "en": "The bunker provides excellent protection from the icy wind; the constant indoor temperature makes exploring the six floors pleasant even in winter."
+                "en": "The bunker provides excellent protection from the icy wind; the constant indoor temperature makes exploring the six floors pleasant even in winter.",
+                "fr": "Le bunker offre une excellente protection contre le vent glacial ; la température intérieure constante rend l'exploration des six étages agréable même en hiver."
               }
             },
             {
@@ -288,13 +319,15 @@
                 "de": "N°4 Commando Museum",
                 "hu": "N°4 Commando Múzeum",
                 "ro": "Muzeul N°4 Commando",
-                "en": "N°4 Commando Museum"
+                "en": "N°4 Commando Museum",
+                "fr": "Musée N°4 Commando"
               },
               "tip_5lang": {
                 "de": "Wärmen Sie sich bei den packenden Berichten über die Landung der Alliierten auf und nutzen Sie die ruhige Nebensaison für eine ausführliche Besichtigung.",
                 "hu": "Melegedjen fel a szövetséges partraszállás izgalmas történeteit olvasva, és használja ki a csendes holtszezont az alapos nézelődésre.",
                 "ro": "Încălziți-vă citind poveștile fascinante ale debarcării aliaților și profitați de extrasezonul liniștit pentru o vizită detaliată.",
-                "en": "Warm up while reading the gripping accounts of the Allied landings and take advantage of the quiet off-season for a thorough visit."
+                "en": "Warm up while reading the gripping accounts of the Allied landings and take advantage of the quiet off-season for a thorough visit.",
+                "fr": "Réchauffez-vous en lisant les récits captivants des débarquements alliés et profitez de la basse saison pour une visite approfondie."
               }
             }
           ]
@@ -314,7 +347,8 @@
             "de": "Kirche Saint-Samson",
             "hu": "Saint-Samson templom",
             "ro": "Biserica Saint-Samson",
-            "en": "Saint Samson Church"
+            "en": "Saint Samson Church",
+            "fr": "Église Saint-Samson"
           },
           "coords": [
             -0.258164,
@@ -329,7 +363,8 @@
             "de": "Bewundern Sie die markante romanische Architektur dieser Kirche aus dem 12. Jahrhundert, ein Zeugnis normannischer Geschichte, die Sie am besten im frühen Morgenlicht besuchen.",
             "hu": "Csodálja meg e 12. századi templom lenyűgöző román stílusú építészetét, amely a normann történelem tanúja, és érdemes kora reggel meglátogatni a legszebb fényekért.",
             "ro": "Admirați arhitectura romanică impresionantă a acestei biserici din secolul al XII-lea, o mărturie a istoriei normande, ideal de vizitat dimineața pentru lumina sa superbă.",
-            "en": "Admire the striking Romanesque architecture of this 12th-century church, a quiet testament to Norman history, best visited early when the morning light highlights its nave."
+            "en": "Admire the striking Romanesque architecture of this 12th-century church, a quiet testament to Norman history, best visited early when the morning light highlights its nave.",
+            "fr": "Admirez la remarquable architecture romane de cette église du XIIe siècle, témoignage discret de l'histoire normande, à visiter de préférence tôt le matin lorsque la lumière met en valeur la nef."
           }
         },
         {
@@ -337,7 +372,8 @@
             "de": "Jachthafen",
             "hu": "Jachtkikötő",
             "ro": "Portul de Agrement",
-            "en": "Marina (Port de Plaisance)"
+            "en": "Marina (Port de Plaisance)",
+            "fr": "Marina (Port de Plaisance)"
           },
           "coords": [
             -0.248091,
@@ -352,7 +388,8 @@
             "de": "Schlendern Sie entlang des belebten Yachthafens, um die schaukelnden Fischerboote zu beobachten, und trinken Sie einen schnellen Kaffee in einem der kleinen Hafencafés.",
             "hu": "Sétáljon végig a nyüzsgő kikötőn, figyelje a vízen ringatózó halászhajókat és jachtokat, és fogyasszon el egy kávét a rakpart egyik hangulatos kávézójában a pihenéshez.",
             "ro": "Plimbați-vă de-a lungul portului de agrement pentru a urmări bărcile de pescuit și iahturile, și savurați o cafea la una dintre cafenelele de pe chei pentru a vă relaxa.",
-            "en": "Stroll along the bustling marina to watch the local fishing boats and yachts gently bobbing in the water, and grab a quick coffee at one of the quayside cafes to relax."
+            "en": "Stroll along the bustling marina to watch the local fishing boats and yachts gently bobbing in the water, and grab a quick coffee at one of the quayside cafes to relax.",
+            "fr": "Promenez-vous le long de la marina animée pour observer les bateaux de pêche locaux et les yachts qui se balancent doucement, et prenez un café rapide dans l'un des cafés du quai pour vous détendre."
           }
         },
         {
@@ -360,7 +397,8 @@
             "de": "Leuchtturm Ouistreham",
             "hu": "Ouistreham Világítótorony",
             "ro": "Farul Ouistreham",
-            "en": "Ouistreham Lighthouse"
+            "en": "Ouistreham Lighthouse",
+            "fr": "Phare d'Ouistreham"
           },
           "coords": [
             -0.247778,
@@ -375,7 +413,8 @@
             "de": "Erklimmen Sie die 171 Stufen dieses ikonischen rot-weißen Leuchtturms für einen atemberaubenden Panoramablick, aber tragen Sie unbedingt bequeme Wanderschuhe für den Aufstieg.",
             "hu": "Mássza meg az ikonikus piros-fehér világítótorony 171 lépcsőfokát a lélegzetelállító panorámáért, de ne felejtsen el kényelmes cipőt húzni a kihívást jelentő felfelé úthoz.",
             "ro": "Urcați cele 171 de trepte ale acestui far cilindric roșu cu alb pentru o priveliște panoramică uluitoare a coastei, dar asigurați-vă că purtați încălțăminte foarte confortabilă.",
-            "en": "Climb the 171 steps of this iconic red-and-white cylindrical lighthouse for breathtaking panoramic views of the coast, but make sure to wear comfortable walking shoes."
+            "en": "Climb the 171 steps of this iconic red-and-white cylindrical lighthouse for breathtaking panoramic views of the coast, but make sure to wear comfortable walking shoes.",
+            "fr": "Grimpez les 171 marches de ce phare cylindrique rouge et blanc emblématique pour une vue panoramique à couper le souffle sur la côte, mais veillez à porter des chaussures de marche confortables."
           }
         },
         {
@@ -383,7 +422,8 @@
             "de": "Atlantikwall-Museum",
             "hu": "Atlantisz Fal Múzeum (Nagy Bunker)",
             "ro": "Muzeul Zidul Atlanticului",
-            "en": "Atlantic Wall Museum (The Big Bunker)"
+            "en": "Atlantic Wall Museum (The Big Bunker)",
+            "fr": "Musée du Mur de l'Atlantique (Le Gros Bunker)"
           },
           "coords": [
             -0.252447,
@@ -398,7 +438,8 @@
             "de": "Erkunden Sie diesen sorgfältig restaurierten deutschen Weltkriegsbunker, um die Verteidigung am D-Day zu verstehen, und nehmen Sie sich Zeit für die authentischen Funkräume.",
             "hu": "Fedezze fel ezt a gondosan felújított, II. világháborús német bunkert a normandiai partraszállás védelmének megértéséhez, különös tekintettel az autentikus rádiószobákra.",
             "ro": "Explorați acest buncăr german din al Doilea Război Mondial, meticulos restaurat, pentru a înțelege apărarea de la Ziua Z, și acordați atenție camerelor medicale autentice.",
-            "en": "Explore this meticulously restored 52-foot concrete German bunker from WWII to understand the D-Day defenses, and take time to inspect the authentic medical and radio rooms."
+            "en": "Explore this meticulously restored 52-foot concrete German bunker from WWII to understand the D-Day defenses, and take time to inspect the authentic medical and radio rooms.",
+            "fr": "Explorez ce bunker allemand en béton de 16 mètres restauré méticuleusement datant de la Seconde Guerre mondiale pour comprendre les défenses du jour J, et prenez le temps d'inspecter les authentiques salles médicales et radio."
           }
         },
         {
@@ -406,7 +447,8 @@
             "de": "N°4 Commando Museum",
             "hu": "N°4 Commando Múzeum",
             "ro": "Muzeul N°4 Commando",
-            "en": "N°4 Commando Museum"
+            "en": "N°4 Commando Museum",
+            "fr": "Musée N°4 Commando"
           },
           "coords": [
             -0.259612,
@@ -421,7 +463,8 @@
             "de": "Entdecken Sie die heldenhaften Geschichten der freifranzösischen Streitkräfte durch faszinierende Artefakte und schauen Sie sich den Einführungsfilm an, um mehr zu erfahren.",
             "hu": "Ismerje meg a Szabad Francia Erők hősies történeteit a lenyűgöző leleteken keresztül, és mindenképpen nézze meg a bevezető filmet, hogy teljesen átlássa a küldetésüket.",
             "ro": "Descoperiți poveștile eroice ale forțelor franceze libere prin artefacte fascinante și urmăriți filmul introductiv pentru a înțelege pe deplin importanța misiunii lor vitale.",
-            "en": "Discover the heroic stories of the Free French forces who landed at Sword Beach through fascinating artifacts, and watch the introductory film to fully grasp their vital mission."
+            "en": "Discover the heroic stories of the Free French forces who landed at Sword Beach through fascinating artifacts, and watch the introductory film to fully grasp their vital mission.",
+            "fr": "Découvrez les histoires héroïques des forces françaises libres qui ont débarqué à Sword Beach à travers des artefacts fascinants, et regardez le film d'introduction pour saisir pleinement leur mission essentielle."
           }
         },
         {
@@ -429,7 +472,8 @@
             "de": "Sword Beach",
             "hu": "Sword Beach",
             "ro": "Plaja Sword",
-            "en": "Sword Beach"
+            "en": "Sword Beach",
+            "fr": "Sword Beach"
           },
           "coords": [
             -0.321111,
@@ -444,7 +488,8 @@
             "de": "Spazieren Sie an diesem historischen Sandstrand, an dem die Alliierten am D-Day landeten, und kommen Sie bei Ebbe, um die massiven Ausmaße der Operation zu begreifen.",
             "hu": "Sétáljon ezen a történelmi homokos strandon, ahol a szövetségesek partra szálltak, és időzítse látogatását apály idejére, hogy igazán értékelni tudja a hadművelet méretét.",
             "ro": "Plimbați-vă pe această plajă istorică unde au debarcat trupele aliate de Ziua Z și vizitați-o în timpul refluxului pentru a aprecia cu adevărat amploarea masivă a operațiunii.",
-            "en": "Walk along this historic and expansive sandy beach where Allied troops landed on D-Day, and visit during low tide to truly appreciate the massive scale of the operation."
+            "en": "Walk along this historic and expansive sandy beach where Allied troops landed on D-Day, and visit during low tide to truly appreciate the massive scale of the operation.",
+            "fr": "Marchez le long de cette plage historique et vaste où les troupes alliées ont débarqué le jour J, et visitez-la à marée basse pour apprécier pleinement l'ampleur de l'opération."
           }
         }
       ],
@@ -452,7 +497,8 @@
         "de": "Schwingen Sie sich aufs Rad zur Kirche Saint Samson und radeln Sie zum Hafen. Die morgendliche Meeresluft belebt Ihr Küstenabenteuer.\n\nRadeln Sie zum Leuchtturm und zum Großen Bunker. Die kurzen Wege machen das Fahrrad zur idealen Wahl für diese historischen Juwelen.\n\nIhre Nachmittagsfahrt führt Sie vorbei am Commando Museum und dann auf einem malerischen Küstenweg zum legendären Sword Beach.\n\nLassen Sie den Tag mit einer ruhigen Fahrt am Sword Beach ausklingen, wo die Wellen einen besinnlichen Abschluss bieten.",
         "hu": "Pattanjon kerékpárra, és a Saint Samson templom után guruljon le a nyüzsgő kikötőbe; a reggeli tengeri levegő energiával tölti fel.\n\nTekerejen a világítótoronyhoz és a Nagy Bunkerhez. A rövid távolságok miatt a kerékpározás tökéletes módja e történelmi gyöngyszemek összekötésének.\n\nA délutáni túra a Commando Múzeum mellett halad el, mielőtt egy festői tengerparti úton a legendás Sword Beach homokja felé venné az irányt.\n\nZárja a napot egy lassú kerékpározással a Sword Beach mentén; a hullámok ritmusos zúgása elmélkedő befejezést nyújt a történelmi napnak.",
         "ro": "Urcați pe bicicletă, treceți pe lângă biserica Saint Samson și mergeți spre port. Aerul mării vă va energiza aventura de dimineață.\n\nPedalați spre far și Marele Buncăr. Distanțele scurte fac din bicicletă modalitatea perfectă de a lega aceste bijuterii istorice.\n\nPlimbarea de după-amiază vă duce pe lângă Muzeul Commando, înainte de a porni pe un drum de coastă spre nisipurile legendare de la Sword Beach.\n\nÎncheiați ziua pedalând încet de-a lungul plajei Sword. Sunetul valurilor oferă un final contemplativ unei zile pline de istorie.",
-        "en": "Hop on your bike to breeze past Saint Samson Church and cruise down to the bustling Marina. The morning sea air sets an energizing tone for your coastal Normandy adventure.\n\nPedal towards the Ouistreham Lighthouse and The Big Bunker. The short distances make cycling the perfect way to link these historical gems without losing momentum.\n\nYour afternoon ride takes you past the N°4 Commando Museum before setting off on a scenic coastal path towards the legendary and expansive sands of Sword Beach.\n\nWind down by cycling slowly along Sword Beach at dusk. The rhythmic crashing of the waves provides a contemplative end to a day filled with powerful history and natural beauty."
+        "en": "Hop on your bike to breeze past Saint Samson Church and cruise down to the bustling Marina. The morning sea air sets an energizing tone for your coastal Normandy adventure.\n\nPedal towards the Ouistreham Lighthouse and The Big Bunker. The short distances make cycling the perfect way to link these historical gems without losing momentum.\n\nYour afternoon ride takes you past the N°4 Commando Museum before setting off on a scenic coastal path towards the legendary and expansive sands of Sword Beach.\n\nWind down by cycling slowly along Sword Beach at dusk. The rhythmic crashing of the waves provides a contemplative end to a day filled with powerful history and natural beauty.",
+        "fr": "Montez sur votre vélo pour passer devant l'église Saint-Samson et relier la marina animée. L'air marin du matin donne un ton énergisant à votre aventure côtière en Normandie.\n\nPédalez vers le phare d'Ouistreham et le Gros Bunker. Les courtes distances font du vélo le moyen idéal pour enchaîner ces trésors historiques sans perdre d'élan.\n\nVotre après-midi vous mènera devant le Musée N°4 Commando avant d'emprunter un chemin côtier pittoresque vers les étendues de sable légendaires de Sword Beach.\n\nTerminez en roulant tranquillement le long de Sword Beach au crépuscule. Le bruit rythmique des vagues offre une clôture contemplative à une journée riche en histoire et beauté naturelle."
       },
       "variants": {
         "rainy": {
@@ -460,7 +506,8 @@
             "de": "Eine Radtour im Regen erfordert Vorsicht auf den nassen Straßen zum Jachthafen. Planen Sie längere Pausen in den Museen ein, um die Ausrüstung zu trocknen. Der Weg zum Sword Beach kann bei Wind und Regen anstrengend sein, bietet aber wilde Küstenansichten. Achten Sie auf rutschige Kurven und beenden Sie die Tour, bevor die Sicht durch starken Regen zu stark eingeschränkt wird.",
             "hu": "Az esős biciklitúra óvatosságot igényel a vizes utakon a kikötő felé. Tervezzen hosszabb pihenőket a múzeumokban, hogy kiszáríthassa felszerelését. A Sword Beach felé vezető út szeles és vizes lehet, de a vad tengeri látvány kárpótolja. Ügyeljen a csúszós kanyarokra, és fejezze be a kört, mielőtt a szakadó eső rontaná a látási viszonyokat.",
             "ro": "O tură cu bicicleta pe ploaie necesită prudență pe drumurile umede spre port. Planificați pauze lungi în muzee pentru a vă usca echipamentul. Drumul spre Sword Beach poate fi obositor pe vânt și ploaie, dar oferă peisaje costiere sălbatice. Atenție la curbele alunecoase și încheiați tura înainte ca vizibilitatea să scadă prea mult.",
-            "en": "A rainy bike tour requires caution on the wet roads to the marina. Plan longer breaks in the museums to dry your gear. The ride to Sword Beach can be challenging in wind and rain, but offers wild coastal views. Watch out for slippery turns and finish the tour before visibility decreases significantly."
+            "en": "A rainy bike tour requires caution on the wet roads to the marina. Plan longer breaks in the museums to dry your gear. The ride to Sword Beach can be challenging in wind and rain, but offers wild coastal views. Watch out for slippery turns and finish the tour before visibility decreases significantly.",
+            "fr": "Une randonnée à vélo sous la pluie exige de la prudence sur les routes mouillées menant à la marina. Prévoyez des pauses plus longues dans les musées pour faire sécher votre équipement. La route jusqu'à Sword Beach peut être difficile par vent et pluie, mais offre des vues côtières sauvages. Méfiez-vous des virages glissants et terminez la sortie avant que la visibilité ne diminue fortement."
           },
           "stops": [
             {
@@ -468,13 +515,15 @@
                 "de": "Kirche Saint-Samson",
                 "hu": "Saint-Samson templom",
                 "ro": "Biserica Saint-Samson",
-                "en": "Saint Samson Church"
+                "en": "Saint Samson Church",
+                "fr": "Église Saint-Samson"
               },
               "tip_5lang": {
                 "de": "Stellen Sie Ihr Fahrrad an einem geschützten Ort ab und nutzen Sie die Kirche für eine erste Trockenpause, bevor Sie die Fahrt zum Hafen fortsetzen.",
                 "hu": "Parkolja le a kerékpárt egy szélvédett helyen, és használja a templomot az első száradási szünetre, mielőtt továbbhajtana a kikötő felé.",
                 "ro": "Parcați bicicleta într-un loc ferit și folosiți biserica pentru o primă pauză de uscare înainte de a continua drumul spre port.",
-                "en": "Park your bike in a sheltered spot and use the church for your first drying break before continuing the ride toward the harbor."
+                "en": "Park your bike in a sheltered spot and use the church for your first drying break before continuing the ride toward the harbor.",
+                "fr": "Garez votre vélo dans un endroit abrité et profitez de l'église pour votre première pause de séchage avant de reprendre la route vers le port."
               }
             },
             {
@@ -482,13 +531,15 @@
                 "de": "Jachthafen",
                 "hu": "Jachtkikötő",
                 "ro": "Portul de Agrement",
-                "en": "Marina (Port de Plaisance)"
+                "en": "Marina (Port de Plaisance)",
+                "fr": "Marina (Port de Plaisance)"
               },
               "tip_5lang": {
                 "de": "Fahren Sie langsam auf dem Hafengelände, da Pfützen auf dem Asphalt die Sicht auf Bodenunebenheiten behindern können; Bremswege sind bei Nässe länger.",
                 "hu": "Hajtson lassan a kikötő területén, mert a tócsák elfedhetik az úthibákat; ne feledje, hogy a fékút vizes aszfalton jelentősen meghosszabbodik.",
                 "ro": "Mergeți încet în zona portului, deoarece bălțile pot ascunde denivelările; rețineți că distanța de frânare este mult mai mare pe asfalt ud.",
-                "en": "Ride slowly in the harbor area as puddles can hide road defects; remember that braking distances are significantly longer on wet asphalt."
+                "en": "Ride slowly in the harbor area as puddles can hide road defects; remember that braking distances are significantly longer on wet asphalt.",
+                "fr": "Roulez lentement dans la zone du port car les flaques peuvent cacher des défauts de la chaussée ; rappelez-vous que les distances de freinage sont nettement plus longues sur l'asphalte humide."
               }
             },
             {
@@ -496,13 +547,15 @@
                 "de": "Leuchtturm Ouistreham",
                 "hu": "Ouistreham Világítótorony",
                 "ro": "Farul Ouistreham",
-                "en": "Ouistreham Lighthouse"
+                "en": "Ouistreham Lighthouse",
+                "fr": "Phare d'Ouistreham"
               },
               "tip_5lang": {
                 "de": "Die Zufahrt zum Turm ist bei Regen oft windanfällig; parken Sie das Rad stabil, damit es bei Böen nicht umkippt, während Sie den Turm besichtigen.",
                 "hu": "A toronyhoz vezető út esőben gyakran szeles; támassza le stabilan a kerékpárt, nehogy a hirtelen széllökések feldöntsék a látogatás alatt.",
                 "ro": "Drumul spre far este adesea expus vântului pe ploaie; parcați bicicleta stabil pentru ca rafalele să nu o răstoarne în timpul vizitei.",
-                "en": "The approach to the lighthouse is often windy in the rain; park your bike securely so that sudden gusts don't knock it over during your visit."
+                "en": "The approach to the lighthouse is often windy in the rain; park your bike securely so that sudden gusts don't knock it over during your visit.",
+                "fr": "L'approche du phare est souvent venteuse sous la pluie ; attachez solidement votre vélo pour que les rafales soudaines ne le renversent pas pendant votre visite."
               }
             },
             {
@@ -510,13 +563,15 @@
                 "de": "Atlantikwall-Museum",
                 "hu": "Atlantisz Fal Múzeum (Nagy Bunker)",
                 "ro": "Muzeul Zidul Atlanticului",
-                "en": "Atlantic Wall Museum (The Big Bunker)"
+                "en": "Atlantic Wall Museum (The Big Bunker)",
+                "fr": "Musée du Mur de l'Atlantique (Le Gros Bunker)"
               },
               "tip_5lang": {
                 "de": "Sichern Sie Ihr Rad am Museumseingang und genießen Sie die lange, trockene Pause im Inneren des massiven Bunkers, um neue Energie zu tanken.",
                 "hu": "Zárja le a kerékpárt a múzeum bejáratánál, és élvezze a hosszú, száraz pihenőt a masszív bunker belsejében, hogy új erőt gyűjtsön a tekeréshez.",
                 "ro": "Asigurați bicicleta la intrarea în muzeu și bucurați-vă de o pauză lungă și uscată în interiorul buncărului masiv pentru a vă reîncărca bateriile.",
-                "en": "Lock your bike at the museum entrance and enjoy a long, dry break inside the massive bunker to recharge your energy for the ride."
+                "en": "Lock your bike at the museum entrance and enjoy a long, dry break inside the massive bunker to recharge your energy for the ride.",
+                "fr": "Attachez votre vélo à l'entrée du musée et profitez d'une longue pause au sec à l'intérieur du massif bunker pour recharger vos forces pour la suite de la sortie."
               }
             },
             {
@@ -524,13 +579,15 @@
                 "de": "N°4 Commando Museum",
                 "hu": "N°4 Commando Múzeum",
                 "ro": "Muzeul N°4 Commando",
-                "en": "N°4 Commando Museum"
+                "en": "N°4 Commando Museum",
+                "fr": "Musée N°4 Commando"
               },
               "tip_5lang": {
                 "de": "Die kurzen Wege zwischen den Museen sind ideal, um bei Regen schnell von einem trockenen Ort zum nächsten zu gelangen; prüfen Sie Ihre Beleuchtung.",
                 "hu": "A múzeumok közötti rövid távok ideálisak, hogy esőben gyorsan egyik száraz helyről a másikra érjen; ellenőrizze a világítását a szürkületben.",
                 "ro": "Distanțele scurte dintre muzee sunt ideale pentru a ajunge rapid dintr-un loc uscat în altul pe ploaie; verificați funcționarea luminilor.",
-                "en": "The short distances between museums are ideal for quickly getting from one dry spot to another in the rain; check that your lights are working."
+                "en": "The short distances between museums are ideal for quickly getting from one dry spot to another in the rain; check that your lights are working.",
+                "fr": "Les courtes distances entre les musées sont idéales pour passer rapidement d'un abri sec à un autre sous la pluie ; vérifiez que vos éclairages fonctionnent."
               }
             },
             {
@@ -538,13 +595,15 @@
                 "de": "Sword Beach",
                 "hu": "Sword Beach",
                 "ro": "Plaja Sword",
-                "en": "Sword Beach"
+                "en": "Sword Beach",
+                "fr": "Sword Beach"
               },
               "tip_5lang": {
                 "de": "Die Küstenstraße zum Sword Beach kann bei Regen sehr windig sein; tragen Sie eine dichte Brille, um die Augen vor dem peitschenden Regen zu schützen.",
                 "hu": "A Sword Beach felé vezető parti út nagyon szeles lehet; viseljen szemüveget, hogy megvédje szemeit a szél által hordott esőcseppektől.",
                 "ro": "Drumul de coastă spre Plaja Sword poate fi foarte vântos; purtați ochelari pentru a vă proteja ochii de ploaia purtată de rafale.",
-                "en": "The coastal road to Sword Beach can be very windy in the rain; wear goggles or glasses to protect your eyes from wind-blown raindrops."
+                "en": "The coastal road to Sword Beach can be very windy in the rain; wear goggles or glasses to protect your eyes from wind-blown raindrops.",
+                "fr": "La route côtière vers Sword Beach peut être très venteuse sous la pluie ; portez des lunettes de protection pour préserver vos yeux des gouttes projetées par le vent."
               }
             }
           ]
@@ -554,7 +613,8 @@
             "de": "Winterliches Radfahren in Ouistreham bietet klare Luft und leere Wege. Beginnen Sie an der Kirche und fahren Sie gut eingepackt zum Hafen. Die Kälte des Kanals ist auf dem Rad besonders spürbar, daher sind Handschuhe Pflicht. Nutzen Sie die Museen als Aufwärmstationen. Planen Sie die Rückfahrt vor 17:00 Uhr ein, da die Sicht auf den Radwegen bei Dunkelheit und Kälte schnell abnimmt.",
             "hu": "A téli kerékpározás Ouistrehamban friss levegőt és üres utakat ígér. Induljon a templomtól, és jól felöltözve tekerjen a kikötőhöz. A csatorna felőli hideg a biciklin fokozottan érződik, a kesztyű kötelező. Használja a múzeumokat melegedőpontként. Tervezze úgy, hogy 17:00 előtt visszaérjen, mert sötétben a hőmérséklet gyorsan zuhan.",
             "ro": "Ciclismul de iarnă în Ouistreham oferă aer curat și drumuri libere. Începeți de la biserică și pedalați bine echipat spre port. Frigul canalului se simte mai tare pe bicicletă, deci mănușile sunt obligatorii. Folosiți muzeele ca puncte de încălzire. Planificați să vă întoarceți înainte de 17:00, deoarece temperatura scade brusc după apus.",
-            "en": "Winter cycling in Ouistreham offers fresh air and empty paths. Start at the church and ride well-layered to the harbor. The chill from the channel is more intense on a bike, so gloves are mandatory. Use the museums as warming stations. Plan to be back before 17:00, as the temperature drops sharply after sunset."
+            "en": "Winter cycling in Ouistreham offers fresh air and empty paths. Start at the church and ride well-layered to the harbor. The chill from the channel is more intense on a bike, so gloves are mandatory. Use the museums as warming stations. Plan to be back before 17:00, as the temperature drops sharply after sunset.",
+            "fr": "Le cyclisme hivernal à Ouistreham offre de l'air frais et des chemins vides. Commencez à l'église et roulez en couches vers le port. Le froid venu de la Manche est plus intense à vélo, donc des gants sont obligatoires. Utilisez les musées comme points de chauffe. Prévoyez d'être de retour avant 17:00, car la température chute nettement après le coucher du soleil."
           },
           "stops": [
             {
@@ -562,13 +622,15 @@
                 "de": "Kirche Saint-Samson",
                 "hu": "Saint-Samson templom",
                 "ro": "Biserica Saint-Samson",
-                "en": "Saint Samson Church"
+                "en": "Saint Samson Church",
+                "fr": "Église Saint-Samson"
               },
               "tip_5lang": {
                 "de": "Beginnen Sie hier Ihre Tour und nutzen Sie die Ruhe der Kirche, um sich mental auf die kalte Fahrt entlang der Küste vorzubereiten.",
                 "hu": "Indítsa itt a túrát, és használja ki a templom nyugalmát, hogy lélekben felkészüljön a parti úton várható hideg szélre.",
                 "ro": "Începeți turul aici și profitați de liniștea bisericii pentru a vă pregăti mental pentru vântul rece de pe drumul de coastă.",
-                "en": "Start your tour here and take advantage of the church's tranquility to mentally prepare for the cold wind expected on the coastal road."
+                "en": "Start your tour here and take advantage of the church's tranquility to mentally prepare for the cold wind expected on the coastal road.",
+                "fr": "Commencez votre circuit ici et profitez de la tranquillité de l'église pour vous préparer mentalement au vent froid attendu sur la route côtière."
               }
             },
             {
@@ -576,13 +638,15 @@
                 "de": "Jachthafen",
                 "hu": "Jachtkikötő",
                 "ro": "Portul de Agrement",
-                "en": "Marina (Port de Plaisance)"
+                "en": "Marina (Port de Plaisance)",
+                "fr": "Marina (Port de Plaisance)"
               },
               "tip_5lang": {
                 "de": "Die kalte Seeluft am Hafen ist erfrischend; achten Sie auf eventuelles Glatteis auf den Holzstegen und fahren Sie besonders vorsichtig.",
                 "hu": "A kikötői hideg tengeri levegő frissítő; ügyeljen az esetleges jegesedésre a fa mólókon, és tekerjen fokozott óvatossággal.",
                 "ro": "Aerul rece de mare din port este revigorant; atenție la eventuala gheață de pe pontoanele de lemn și pedalați cu maximă prudență.",
-                "en": "The cold sea air at the harbor is refreshing; watch out for potential ice on the wooden piers and ride with extra caution."
+                "en": "The cold sea air at the harbor is refreshing; watch out for potential ice on the wooden piers and ride with extra caution.",
+                "fr": "L'air froid de mer au port est vivifiant ; attention à la formation de verglas sur les pontons en bois et roulez avec plus de prudence."
               }
             },
             {
@@ -590,13 +654,15 @@
                 "de": "Leuchtturm Ouistreham",
                 "hu": "Ouistreham Világítótorony",
                 "ro": "Farul Ouistreham",
-                "en": "Ouistreham Lighthouse"
+                "en": "Ouistreham Lighthouse",
+                "fr": "Phare d'Ouistreham"
               },
               "tip_5lang": {
                 "de": "Besuchen Sie den Turm am frühen Nachmittag; die Wintersonne steht tief und bietet fantastisches Licht für Fotos vom Fahrrad aus.",
                 "hu": "Látogassa meg a tornyot kora délután; az alacsonyan járó téli nap fantasztikus fényeket kínál a kerékpáros fotókhoz.",
                 "ro": "Vizitați farul la începutul după-amiezii; soarele de iarnă este jos și oferă o lumină fantastică pentru fotografii de pe bicicletă.",
-                "en": "Visit the tower in the early afternoon; the low winter sun offers fantastic light for photos from your bike."
+                "en": "Visit the tower in the early afternoon; the low winter sun offers fantastic light for photos from your bike.",
+                "fr": "Visitez la tour en début d'après-midi ; le faible soleil d'hiver offre une lumière fantastique pour des photos depuis votre vélo."
               }
             },
             {
@@ -604,13 +670,15 @@
                 "de": "Atlantikwall-Museum",
                 "hu": "Atlantisz Fal Múzeum (Nagy Bunker)",
                 "ro": "Muzeul Zidul Atlanticului",
-                "en": "Atlantic Wall Museum (The Big Bunker)"
+                "en": "Atlantic Wall Museum (The Big Bunker)",
+                "fr": "Musée du Mur de l'Atlantique (Le Gros Bunker)"
               },
               "tip_5lang": {
                 "de": "Eine ideale Aufwärmstation; nehmen Sie sich Zeit für die sechs Etagen, um Ihre eingefrorenen Finger und Zehen wieder zu beleben.",
                 "hu": "Ideális melegedőpont; szánjon időt a hat emeletre, hogy átfagyott ujjai és lábai újra életre keljenek a tekerés után.",
                 "ro": "Un punct ideal de încălzire; acordați timp celor șase etaje pentru ca degetele înghețate să își revină după pedalat.",
-                "en": "An ideal warming station; take your time on the six floors to let your frozen fingers and toes come back to life after the ride."
+                "en": "An ideal warming station; take your time on the six floors to let your frozen fingers and toes come back to life after the ride.",
+                "fr": "Une station de réchauffement idéale ; prenez votre temps sur les six étages pour laisser vos doigts et vos orteils engourdis retrouver leur chaleur après la sortie."
               }
             },
             {
@@ -618,13 +686,15 @@
                 "de": "N°4 Commando Museum",
                 "hu": "N°4 Commando Múzeum",
                 "ro": "Muzeul N°4 Commando",
-                "en": "N°4 Commando Museum"
+                "en": "N°4 Commando Museum",
+                "fr": "Musée N°4 Commando"
               },
               "tip_5lang": {
                 "de": "Die ruhige Winteratmosphäre im Museum ermöglicht ein tiefes Eintauchen in die Geschichte, weit weg vom kalten Wind draußen.",
                 "hu": "A múzeum nyugodt téli légköre lehetővé teszi a történelemben való elmélyülést, távol a kinti fagyos széltől.",
                 "ro": "Atmosfera liniștită de iarnă din muzeu permite o imersiune profundă în istorie, departe de vântul înghețat de afară.",
-                "en": "The museum's calm winter atmosphere allows for a deep dive into history, far away from the freezing wind outside."
+                "en": "The museum's calm winter atmosphere allows for a deep dive into history, far away from the freezing wind outside.",
+                "fr": "L'atmosphère calme du musée en hiver permet une plongée approfondie dans l'histoire, loin du vent glacial extérieur."
               }
             },
             {
@@ -632,13 +702,15 @@
                 "de": "Sword Beach",
                 "hu": "Sword Beach",
                 "ro": "Plaja Sword",
-                "en": "Sword Beach"
+                "en": "Sword Beach",
+                "fr": "Sword Beach"
               },
               "tip_5lang": {
                 "de": "Erleben Sie die raue Schönheit des Strandes im Winter; die Fahrt entlang der Dünen ist bei Kälte anstrengender, aber sehr lohnenswert.",
                 "hu": "Tapasztalja meg a strand zord téli szépségét; a dűnék menti tekerés hidegben fárasztóbb, de a látvány kárpótolja.",
                 "ro": "Experimentați frumusețea aspră a plajei iarna; drumul de-a lungul dunelor este mai obositor pe frig, dar merită din plin.",
-                "en": "Experience the raw winter beauty of the beach; riding along the dunes is more taxing in the cold, but the view is well worth it."
+                "en": "Experience the raw winter beauty of the beach; riding along the dunes is more taxing in the cold, but the view is well worth it.",
+                "fr": "Vivez la beauté brute hivernale de la plage ; rouler le long des dunes est plus exigeant par le froid, mais la vue en vaut la peine."
               }
             }
           ]
@@ -658,7 +730,8 @@
             "de": "Kirche Saint-Samson",
             "hu": "Saint-Samson templom",
             "ro": "Biserica Saint-Samson",
-            "en": "Saint Samson Church"
+            "en": "Saint Samson Church",
+            "fr": "Église Saint-Samson"
           },
           "coords": [
             -0.258164,
@@ -673,7 +746,8 @@
             "de": "Bewundern Sie die markante romanische Architektur dieser Kirche aus dem 12. Jahrhundert, ein Zeugnis normannischer Geschichte, die Sie am besten im frühen Morgenlicht besuchen.",
             "hu": "Csodálja meg e 12. századi templom lenyűgöző román stílusú építészetét, amely a normann történelem tanúja, és érdemes kora reggel meglátogatni a legszebb fényekért.",
             "ro": "Admirați arhitectura romanică impresionantă a acestei biserici din secolul al XII-lea, o mărturie a istoriei normande, ideal de vizitat dimineața pentru lumina sa superbă.",
-            "en": "Admire the striking Romanesque architecture of this 12th-century church, a quiet testament to Norman history, best visited early when the morning light highlights its nave."
+            "en": "Admire the striking Romanesque architecture of this 12th-century church, a quiet testament to Norman history, best visited early when the morning light highlights its nave.",
+            "fr": "Admirez la remarquable architecture romane de cette église du XIIe siècle, témoignage discret de l'histoire normande, à visiter de préférence tôt le matin lorsque la lumière met en valeur la nef."
           }
         },
         {
@@ -681,7 +755,8 @@
             "de": "Atlantikwall-Museum",
             "hu": "Atlantisz Fal Múzeum (Nagy Bunker)",
             "ro": "Muzeul Zidul Atlanticului",
-            "en": "Atlantic Wall Museum (The Big Bunker)"
+            "en": "Atlantic Wall Museum (The Big Bunker)",
+            "fr": "Musée du Mur de l'Atlantique (Le Gros Bunker)"
           },
           "coords": [
             -0.252447,
@@ -696,7 +771,8 @@
             "de": "Erkunden Sie diesen sorgfältig restaurierten deutschen Weltkriegsbunker, um die Verteidigung am D-Day zu verstehen, und nehmen Sie sich Zeit für die authentischen Funkräume.",
             "hu": "Fedezze fel ezt a gondosan felújított, II. világháborús német bunkert a normandiai partraszállás védelmének megértéséhez, különös tekintettel az autentikus rádiószobákra.",
             "ro": "Explorați acest buncăr german din al Doilea Război Mondial, meticulos restaurat, pentru a înțelege apărarea de la Ziua Z, și acordați atenție camerelor medicale autentice.",
-            "en": "Explore this meticulously restored 52-foot concrete German bunker from WWII to understand the D-Day defenses, and take time to inspect the authentic medical and radio rooms."
+            "en": "Explore this meticulously restored 52-foot concrete German bunker from WWII to understand the D-Day defenses, and take time to inspect the authentic medical and radio rooms.",
+            "fr": "Explorez ce bunker allemand en béton de 16 mètres restauré méticuleusement datant de la Seconde Guerre mondiale pour comprendre les défenses du jour J, et prenez le temps d'inspecter les authentiques salles médicales et radio."
           }
         },
         {
@@ -704,7 +780,8 @@
             "de": "N°4 Commando Museum",
             "hu": "N°4 Commando Múzeum",
             "ro": "Muzeul N°4 Commando",
-            "en": "N°4 Commando Museum"
+            "en": "N°4 Commando Museum",
+            "fr": "Musée N°4 Commando"
           },
           "coords": [
             -0.259612,
@@ -719,7 +796,8 @@
             "de": "Entdecken Sie die heldenhaften Geschichten der freifranzösischen Streitkräfte durch faszinierende Artefakte und schauen Sie sich den Einführungsfilm an, um mehr zu erfahren.",
             "hu": "Ismerje meg a Szabad Francia Erők hősies történeteit a lenyűgöző leleteken keresztül, és mindenképpen nézze meg a bevezető filmet, hogy teljesen átlássa a küldetésüket.",
             "ro": "Descoperiți poveștile eroice ale forțelor franceze libere prin artefacte fascinante și urmăriți filmul introductiv pentru a înțelege pe deplin importanța misiunii lor vitale.",
-            "en": "Discover the heroic stories of the Free French forces who landed at Sword Beach through fascinating artifacts, and watch the introductory film to fully grasp their vital mission."
+            "en": "Discover the heroic stories of the Free French forces who landed at Sword Beach through fascinating artifacts, and watch the introductory film to fully grasp their vital mission.",
+            "fr": "Découvrez les histoires héroïques des forces françaises libres qui ont débarqué à Sword Beach à travers des artefacts fascinants, et regardez le film d'introduction pour saisir pleinement leur mission essentielle."
           }
         },
         {
@@ -727,7 +805,8 @@
             "de": "Leuchtturm Ouistreham",
             "hu": "Ouistreham Világítótorony",
             "ro": "Farul Ouistreham",
-            "en": "Ouistreham Lighthouse"
+            "en": "Ouistreham Lighthouse",
+            "fr": "Phare d'Ouistreham"
           },
           "coords": [
             -0.247778,
@@ -742,7 +821,8 @@
             "de": "Erklimmen Sie die 171 Stufen dieses ikonischen rot-weißen Leuchtturms für einen atemberaubenden Panoramablick, aber tragen Sie unbedingt bequeme Wanderschuhe für den Aufstieg.",
             "hu": "Mássza meg az ikonikus piros-fehér világítótorony 171 lépcsőfokát a lélegzetelállító panorámáért, de ne felejtsen el kényelmes cipőt húzni a kihívást jelentő felfelé úthoz.",
             "ro": "Urcați cele 171 de trepte ale acestui far cilindric roșu cu alb pentru o priveliște panoramică uluitoare a coastei, dar asigurați-vă că purtați încălțăminte foarte confortabilă.",
-            "en": "Climb the 171 steps of this iconic red-and-white cylindrical lighthouse for breathtaking panoramic views of the coast, but make sure to wear comfortable walking shoes."
+            "en": "Climb the 171 steps of this iconic red-and-white cylindrical lighthouse for breathtaking panoramic views of the coast, but make sure to wear comfortable walking shoes.",
+            "fr": "Grimpez les 171 marches de ce phare cylindrique rouge et blanc emblématique pour une vue panoramique à couper le souffle sur la côte, mais veillez à porter des chaussures de marche confortables."
           }
         },
         {
@@ -750,7 +830,8 @@
             "de": "Jachthafen",
             "hu": "Jachtkikötő",
             "ro": "Portul de Agrement",
-            "en": "Marina (Port de Plaisance)"
+            "en": "Marina (Port de Plaisance)",
+            "fr": "Marina (Port de Plaisance)"
           },
           "coords": [
             -0.248091,
@@ -765,7 +846,8 @@
             "de": "Schlendern Sie entlang des belebten Yachthafens, um die schaukelnden Fischerboote zu beobachten, und trinken Sie einen schnellen Kaffee in einem der kleinen Hafencafés.",
             "hu": "Sétáljon végig a nyüzsgő kikötőn, figyelje a vízen ringatózó halászhajókat és jachtokat, és fogyasszon el egy kávét a rakpart egyik hangulatos kávézójában a pihenéshez.",
             "ro": "Plimbați-vă de-a lungul portului de agrement pentru a urmări bărcile de pescuit și iahturile, și savurați o cafea la una dintre cafenelele de pe chei pentru a vă relaxa.",
-            "en": "Stroll along the bustling marina to watch the local fishing boats and yachts gently bobbing in the water, and grab a quick coffee at one of the quayside cafes to relax."
+            "en": "Stroll along the bustling marina to watch the local fishing boats and yachts gently bobbing in the water, and grab a quick coffee at one of the quayside cafes to relax.",
+            "fr": "Promenez-vous le long de la marina animée pour observer les bateaux de pêche locaux et les yachts qui se balancent doucement, et prenez un café rapide dans l'un des cafés du quai pour vous détendre."
           }
         },
         {
@@ -773,7 +855,8 @@
             "de": "Plage de la Redoute",
             "hu": "Plage de la Redoute",
             "ro": "Plaja de la Redoute",
-            "en": "Plage de la Redoute"
+            "en": "Plage de la Redoute",
+            "fr": "Plage de la Redoute"
           },
           "coords": [
             -0.227692,
@@ -788,7 +871,8 @@
             "de": "Genießen Sie einen friedlichen Spaziergang am feinen Sand dieses unberührten Strandes abseits des Trubels, perfekt zum Entspannen in der späten Nachmittagssonne am Meer.",
             "hu": "Élvezze a békés sétát ennek az érintetlen strandnak a finom homokján, távol a fő turistaközpontoktól, ami tökéletes hely a késő délutáni pihenéshez a tengeri szellőben.",
             "ro": "Bucurați-vă de o plimbare liniștită pe nisipul fin al acestei plaje izolate de agitația turistică, locul perfect pentru a vă relaxa după-amiaza târziu în briza mării.",
-            "en": "Enjoy a peaceful walk along the fine sands of this pristine beach away from the main tourist hubs, perfect for unwinding in the late afternoon sun with a refreshing sea breeze."
+            "en": "Enjoy a peaceful walk along the fine sands of this pristine beach away from the main tourist hubs, perfect for unwinding in the late afternoon sun with a refreshing sea breeze.",
+            "fr": "Profitez d'une promenade paisible sur les sables fins de cette plage préservée, à l'écart des principaux pôles touristiques ; idéale pour se détendre en fin d'après-midi sous une brise marine rafraîchissante."
           }
         },
         {
@@ -796,7 +880,8 @@
             "de": "Sword Beach",
             "hu": "Sword Beach",
             "ro": "Plaja Sword",
-            "en": "Sword Beach"
+            "en": "Sword Beach",
+            "fr": "Sword Beach"
           },
           "coords": [
             -0.321111,
@@ -811,7 +896,8 @@
             "de": "Spazieren Sie an diesem historischen Sandstrand, an dem die Alliierten am D-Day landeten, und kommen Sie bei Ebbe, um die massiven Ausmaße der Operation zu begreifen.",
             "hu": "Sétáljon ezen a történelmi homokos strandon, ahol a szövetségesek partra szálltak, és időzítse látogatását apály idejére, hogy igazán értékelni tudja a hadművelet méretét.",
             "ro": "Plimbați-vă pe această plajă istorică unde au debarcat trupele aliate de Ziua Z și vizitați-o în timpul refluxului pentru a aprecia cu adevărat amploarea masivă a operațiunii.",
-            "en": "Walk along this historic and expansive sandy beach where Allied troops landed on D-Day, and visit during low tide to truly appreciate the massive scale of the operation."
+            "en": "Walk along this historic and expansive sandy beach where Allied troops landed on D-Day, and visit during low tide to truly appreciate the massive scale of the operation.",
+            "fr": "Marchez le long de cette plage historique et vaste où les troupes alliées ont débarqué le jour J, et visitez-la à marée basse pour apprécier pleinement l'ampleur de l'opération."
           }
         }
       ],
@@ -819,7 +905,8 @@
         "de": "Beginnen Sie Ihre Fahrt an der Kirche Saint Samson und fahren Sie dann effizient zum Großen Bunker, um den Touristenmassen zuvorzukommen.\n\nNach dem Commando Museum fahren Sie bequem mit dem Auto zum Leuchtturm und zum Jachthafen und genießen die Flexibilität.\n\nFahren Sie nach Osten zum ruhigeren Plage de la Redoute, bevor Sie eine kurze malerische Fahrt zum historischen Sword Beach unternehmen.\n\nBeenden Sie Ihren Roadtrip am Sword Beach. Mit dem Auto können Sie bis zum Sonnenuntergang bleiben und die normannische Küste genießen.",
         "hu": "Kezdje az autós utat a Saint Samson templomnál, majd gyorsan vezessen át a Nagy Bunkerhez, hogy elkerülje a legnagyobb turistatömegeket.\n\nA Commando Múzeum után kényelmesen elautózhat a világítótoronyhoz és a kikötőhöz, kihasználva a járműve adta rugalmasságot.\n\nVezessen kelet felé a csendesebb Plage de la Redoute-hoz, mielőtt egy rövid, festői tengerparti autózással eléri a történelmi Sword Beachet.\n\nFejezze be az utat a Sword Beach hatalmas térségénél. Az autója lehetővé teszi, hogy napnyugtáig maradjon a normann tengerparton.",
         "ro": "Începeți cu biserica Saint Samson, apoi conduceți eficient spre Marele Buncăr pentru a evita aglomerația turiștilor de la mijlocul zilei.\n\nDupă vizita la Muzeul Commando, mergeți ușor cu mașina până la far și port, bucurându-vă de flexibilitatea vehiculului dumneavoastră.\n\nConduceți spre est pentru a descoperi Plage de la Redoute, înainte de a face o scurtă călătorie pitorească pe coastă spre Sword Beach.\n\nÎncheiați excursia la Sword Beach. Mașina vă permite să rămâneți până la apus, maximizând timpul petrecut pe coasta normandă.",
-        "en": "Begin driving into Ouistreham's heritage starting at Saint Samson Church, then efficiently drive to the towering Big Bunker to beat the largest midday tourist crowds.\n\nAfter a sobering visit to the N°4 Commando Museum, easily hop in your car to reach the Ouistreham Lighthouse and the nearby Marina, enjoying the flexibility of your vehicle.\n\nDrive eastward to discover the quieter Plage de la Redoute, stepping out to enjoy the sand before taking a short scenic drive down the coast to the historic Sword Beach.\n\nFinish your road trip reflecting by the vast expanse of Sword Beach. Your car allows you to stay until sunset, maximizing your time taking in the dramatic Norman coastline."
+        "en": "Begin driving into Ouistreham's heritage starting at Saint Samson Church, then efficiently drive to the towering Big Bunker to beat the largest midday tourist crowds.\n\nAfter a sobering visit to the N°4 Commando Museum, easily hop in your car to reach the Ouistreham Lighthouse and the nearby Marina, enjoying the flexibility of your vehicle.\n\nDrive eastward to discover the quieter Plage de la Redoute, stepping out to enjoy the sand before taking a short scenic drive down the coast to the historic Sword Beach.\n\nFinish your road trip reflecting by the vast expanse of Sword Beach. Your car allows you to stay until sunset, maximizing your time taking in the dramatic Norman coastline.",
+        "fr": "Commencez votre découverte du patrimoine d'Ouistreham à l'église Saint-Samson, puis conduisez efficacement jusqu'au imposant Gros Bunker pour devancer l'affluence de midi.\n\nAprès une visite sobre au Musée N°4 Commando, prenez facilement la voiture pour rejoindre le phare d'Ouistreham et la Marina à proximité, profitant de la flexibilité offerte par votre véhicule.\n\nRoulez vers l'est pour découvrir la plus tranquille Plage de la Redoute, sortez pour profiter du sable puis faites une courte route côtière jusqu'à la historique Sword Beach.\n\nTerminez votre road-trip en réfléchissant face à l'immense étendue de Sword Beach. Votre voiture vous permet de rester jusqu'au coucher du soleil, maximisant le temps consacré à l'imposant littoral normand."
       },
       "variants": {
         "rainy": {
@@ -827,7 +914,8 @@
             "de": "Mit dem Auto ist Ouistreham bei Regen bequem zu erkunden. Starten Sie an der Kirche und nutzen Sie die Parkplätze direkt bei den Museen, um trocken zu bleiben. Der Vormittag im Großen Bunker bietet Schutz vor den schlimmsten Güssen. Nachmittags erreichen Sie den Leuchtturm und Hafen schnell zwischen den Schauern. Der Tag endet sicher am Sword Beach, wo Sie die stürmische See direkt aus dem warmen Auto beobachten können.",
             "hu": "Autóval Ouistreham esőben is kényelmesen felfedezhető. Induljon a templomtól, és használja a múzeumok közeli parkolóit, hogy szárazon maradjon. A délelőtt a Nagy Bunkerben védelmet nyújt a legnagyobb záporok elől. Délután a világítótorony és a kikötő gyorsan elérhető két zápor között. A nap a Sword Beach-en zárul, ahol az autónkból nézhetjük a viharos tengert.",
             "ro": "Cu mașina, Ouistreham este ușor de explorat chiar și pe ploaie. Începeți de la biserică și folosiți parcările de lângă muzee pentru a rămâne uscați. Dimineața la Marele Buncăr oferă protecție împotriva ploilor torențiale. După-amiaza, farul și portul sunt rapid accesibile între reprizele de ploaie. Ziua se încheie la Plaja Sword, admirând marea agitată din confortul mașinii.",
-            "en": "By car, Ouistreham is easy to explore even in the rain. Start at the church and use the parking lots near the museums to stay dry. The morning at the Big Bunker provides protection from the heaviest showers. In the afternoon, the lighthouse and harbor are quickly accessible between rain spells. The day ends at Sword Beach, where you can watch the stormy sea from the comfort of your car."
+            "en": "By car, Ouistreham is easy to explore even in the rain. Start at the church and use the parking lots near the museums to stay dry. The morning at the Big Bunker provides protection from the heaviest showers. In the afternoon, the lighthouse and harbor are quickly accessible between rain spells. The day ends at Sword Beach, where you can watch the stormy sea from the comfort of your car.",
+            "fr": "En voiture, Ouistreham est facile à explorer même sous la pluie. Commencez à l'église et utilisez les parkings près des musées pour rester au sec. La matinée au Gros Bunker protège des averses les plus fortes. L'après-midi, le phare et le port sont rapidement accessibles entre deux éclaircies. La journée se termine à Sword Beach, où vous pouvez observer la mer agitée depuis le confort de votre voiture."
           },
           "stops": [
             {
@@ -835,13 +923,15 @@
                 "de": "Kirche Saint-Samson",
                 "hu": "Saint-Samson templom",
                 "ro": "Biserica Saint-Samson",
-                "en": "Saint Samson Church"
+                "en": "Saint Samson Church",
+                "fr": "Église Saint-Samson"
               },
               "tip_5lang": {
                 "de": "Nutzen Sie den nahen Parkplatz, um bei Regen schnell ins trockene Kirchenschiff zu gelangen und die sakrale Kunst in Ruhe zu betrachten.",
                 "hu": "Használja a közeli parkolót, hogy esőben gyorsan a száraz templomhajóba érjen, és nyugodtan megcsodálhassa a szakrális művészetet.",
                 "ro": "Folosiți parcarea din apropiere pentru a ajunge rapid în nava bisericii pe ploaie și admirați arta sacră în liniște.",
-                "en": "Use the nearby parking to quickly reach the dry nave during rain and admire the sacred art in peace."
+                "en": "Use the nearby parking to quickly reach the dry nave during rain and admire the sacred art in peace.",
+                "fr": "Utilisez le parking à proximité pour rejoindre rapidement la nef au sec et admirer les œuvres sacrées en toute tranquillité."
               }
             },
             {
@@ -849,13 +939,15 @@
                 "de": "Atlantikwall-Museum",
                 "hu": "Atlantisz Fal Múzeum (Nagy Bunker)",
                 "ro": "Muzeul Zidul Atlanticului",
-                "en": "Atlantic Wall Museum (The Big Bunker)"
+                "en": "Atlantic Wall Museum (The Big Bunker)",
+                "fr": "Musée du Mur de l'Atlantique (Le Gros Bunker)"
               },
               "tip_5lang": {
                 "de": "Parken Sie direkt vor dem Bunker; das massive Gebäude ist der perfekte Ort, um einen regnerischen Vormittag komplett im Trockenen zu verbringen.",
                 "hu": "Parkoljon közvetlenül a bunker előtt; a masszív épület tökéletes helyszín ahhoz, hogy egy esős délelőttöt teljesen szárazon töltsön el.",
                 "ro": "Parcați chiar în fața buncărului; clădirea masivă este locul perfect pentru a petrece o dimineață ploioasă complet la adăpost.",
-                "en": "Park directly in front of the bunker; the massive building is the perfect place to spend a rainy morning completely in the dry."
+                "en": "Park directly in front of the bunker; the massive building is the perfect place to spend a rainy morning completely in the dry.",
+                "fr": "Garez-vous juste devant le bunker ; l'imposant bâtiment est l'endroit parfait pour passer une matinée pluvieuse bien au sec."
               }
             },
             {
@@ -863,13 +955,15 @@
                 "de": "N°4 Commando Museum",
                 "hu": "N°4 Commando Múzeum",
                 "ro": "Muzeul N°4 Commando",
-                "en": "N°4 Commando Museum"
+                "en": "N°4 Commando Museum",
+                "fr": "Musée N°4 Commando"
               },
               "tip_5lang": {
                 "de": "Nur eine kurze Fahrt vom Bunker entfernt, bietet dieses Museum einen weiteren sicheren Unterschlupf vor dem nasskalten Küstenwetter.",
                 "hu": "Csak egy rövid autóút a bunkertől, ez a múzeum újabb biztos menedéket kínál a nyirkos és hideg tengerparti időjárás elől.",
                 "ro": "La doar o scurtă plimbare cu mașina de buncăr, acest muzeu oferă un alt refugiu sigur împotriva vremii umede de coastă.",
-                "en": "Just a short drive from the bunker, this museum offers another safe haven from the damp and cold coastal weather."
+                "en": "Just a short drive from the bunker, this museum offers another safe haven from the damp and cold coastal weather.",
+                "fr": "À une courte distance en voiture du bunker, ce musée offre un autre refuge sûr contre l'humidité et le froid côtiers."
               }
             },
             {
@@ -877,13 +971,15 @@
                 "de": "Leuchtturm Ouistreham",
                 "hu": "Ouistreham Világítótorony",
                 "ro": "Farul Ouistreham",
-                "en": "Ouistreham Lighthouse"
+                "en": "Ouistreham Lighthouse",
+                "fr": "Phare d'Ouistreham"
               },
               "tip_5lang": {
                 "de": "Warten Sie eine Regenpause im Auto ab, bevor Sie zum Turm eilen; die Sicht von oben ist bei aufklarendem Regen oft besonders weit.",
                 "hu": "Várjon meg egy esőszünetet az autóban, mielőtt a toronyhoz sietne; a kilátás fentről a tisztuló eső után gyakran különösen távoli.",
                 "ro": "Așteptați o pauză de ploaie în mașină înainte de a merge la far; vizibilitatea de sus este adesea foarte bună după ce ploaia se oprește.",
-                "en": "Wait for a break in the rain in your car before heading to the tower; the view from above is often particularly clear after the rain clears."
+                "en": "Wait for a break in the rain in your car before heading to the tower; the view from above is often particularly clear after the rain clears.",
+                "fr": "Attendez une accalmie dans la pluie dans votre voiture avant de monter à la tour ; la vue d'en haut est souvent particulièrement claire après l'averse."
               }
             },
             {
@@ -891,13 +987,15 @@
                 "de": "Jachthafen",
                 "hu": "Jachtkikötő",
                 "ro": "Portul de Agrement",
-                "en": "Marina (Port de Plaisance)"
+                "en": "Marina (Port de Plaisance)",
+                "fr": "Marina (Port de Plaisance)"
               },
               "tip_5lang": {
                 "de": "Genießen Sie den Blick auf die Boote durch die regennasse Windschutzscheibe oder parken Sie nah an einem der Hafencafés für eine trockene Pause.",
                 "hu": "Élvezze a hajók látványát az esőáztatta szélvédőn keresztül, vagy parkoljon közel az egyik kikötői kávézóhoz egy száraz pihenőre.",
                 "ro": "Bucurați-vă de vederea bărcilor prin parbrizul udat de ploaie sau parcați aproape de o cafenea din port pentru o pauză uscată.",
-                "en": "Enjoy the view of the boats through the rain-streaked windshield or park close to one of the harbor cafes for a dry break."
+                "en": "Enjoy the view of the boats through the rain-streaked windshield or park close to one of the harbor cafes for a dry break.",
+                "fr": "Profitez de la vue sur les bateaux à travers le pare-brise strié de pluie ou garez-vous près d'un des cafés du port pour une pause au sec."
               }
             },
             {
@@ -905,13 +1003,15 @@
                 "de": "Plage de la Redoute",
                 "hu": "Plage de la Redoute",
                 "ro": "Plaja de la Redoute",
-                "en": "Plage de la Redoute"
+                "en": "Plage de la Redoute",
+                "fr": "Plage de la Redoute"
               },
               "tip_5lang": {
                 "de": "Ein kurzer, regnerischer Strandspaziergang ist erfrischend; halten Sie Handtücher im Auto bereit, um sich danach schnell wieder aufzuwärmen.",
                 "hu": "Egy rövid, esős tengerparti séta frissítő; tartson törölközőt az autóban, hogy utána gyorsan megszáradhasson és felmelegedhessen.",
                 "ro": "O scurtă plimbare pe plajă pe ploaie este revigorantă; țineți prosoape în mașină pentru a vă usca și încălzi rapid după aceea.",
-                "en": "A short, rainy beach walk is refreshing; keep towels in the car to dry off and warm up quickly afterward."
+                "en": "A short, rainy beach walk is refreshing; keep towels in the car to dry off and warm up quickly afterward.",
+                "fr": "Une courte promenade pluvieuse sur la plage est revigorante ; gardez des serviettes dans la voiture pour vous sécher et vous réchauffer rapidement ensuite."
               }
             },
             {
@@ -919,13 +1019,15 @@
                 "de": "Sword Beach",
                 "hu": "Sword Beach",
                 "ro": "Plaja Sword",
-                "en": "Sword Beach"
+                "en": "Sword Beach",
+                "fr": "Sword Beach"
               },
               "tip_5lang": {
                 "de": "Beobachten Sie das Naturschauspiel der stürmischen Wellen bei Regen sicher vom Parkplatz aus, ohne nass zu werden.",
                 "hu": "Figyelje meg a viharos hullámok természetes látványát az esőben biztonságban a parkolóból, anélkül, hogy elázna.",
                 "ro": "Observați spectacolul valurilor înfuriate pe ploaie în siguranță din parcare, fără a vă uda deloc.",
-                "en": "Watch the natural spectacle of the stormy waves in the rain safely from the parking lot without getting wet."
+                "en": "Watch the natural spectacle of the stormy waves in the rain safely from the parking lot without getting wet.",
+                "fr": "Observez le spectacle naturel des vagues déchaînées sous la pluie en toute sécurité depuis le parking, sans vous mouiller."
               }
             }
           ]
@@ -935,7 +1037,8 @@
             "de": "Entdecken Sie Ouistreham im Winter mit dem Komfort Ihres beheizten Autos. Beginnen Sie an der Saint-Samson-Kirche und verbringen Sie die kalten Stunden in den gut temperierten Museen. Die kurzen Wege mit dem Auto minimieren den Kontakt mit dem eisigen Seewind. Planen Sie den Besuch des Sword Beach für den späten Nachmittag ein, um den Winter-Sonnenuntergang gegen 17:00 Uhr direkt vom Strandparkplatz aus zu genießen.",
             "hu": "Fedezze fel Ouistrehamot télen fűtött autója kényelméből. Kezdje a Saint-Samson templomnál, és töltse a leghidegebb órákat a jól temperált múzeumokban. Az autóval megtett rövid távok minimalizálják a jeges tengeri széllel való érintkezést. A Sword Beach látogatását időzítse késő délutánra, hogy a 17:00 körüli téli naplementét a parkolóból csodálhassa meg.",
             "ro": "Explorați Ouistreham iarna din confortul mașinii încălzite. Începeți la Biserica Saint-Samson și petreceți orele reci în muzeele bine încălzite. Distanțele scurte parcurse cu mașina minimizează contactul cu vântul înghețat de mare. Planificați vizita la Plaja Sword pentru după-amiaza târzie, pentru a vedea apusul de la ora 17:00 din parcare.",
-            "en": "Explore Ouistreham in winter from the comfort of your heated car. Start at Saint Samson Church and spend the coldest hours in the well-tempered museums. Short car trips minimize contact with the icy sea wind. Plan your visit to Sword Beach for the late afternoon to enjoy the winter sunset around 17:00 from the parking lot."
+            "en": "Explore Ouistreham in winter from the comfort of your heated car. Start at Saint Samson Church and spend the coldest hours in the well-tempered museums. Short car trips minimize contact with the icy sea wind. Plan your visit to Sword Beach for the late afternoon to enjoy the winter sunset around 17:00 from the parking lot.",
+            "fr": "Explorez Ouistreham en hiver depuis le confort de votre voiture chauffée. Commencez à l'église Saint-Samson et passez les heures les plus froides dans les musées bien tempérés. De courtes étapes en voiture réduisent l'exposition au vent glacial. Planifiez votre visite de Sword Beach pour la fin d'après-midi afin d'admirer le coucher du soleil hivernal vers 17:00 depuis le parking."
           },
           "stops": [
             {
@@ -943,13 +1046,15 @@
                 "de": "Kirche Saint-Samson",
                 "hu": "Saint-Samson templom",
                 "ro": "Biserica Saint-Samson",
-                "en": "Saint Samson Church"
+                "en": "Saint Samson Church",
+                "fr": "Église Saint-Samson"
               },
               "tip_5lang": {
                 "de": "Genießen Sie die Ruhe der winterlichen Kirche; die dicken Mauern bieten eine angenehme Pause von der Kälte des Küstenortes.",
                 "hu": "Élvezze a téli templom nyugalmát; a vastag falak kellemes pihenőt nyújtanak a tengerparti városka fagyos levegője elől.",
                 "ro": "Bucurați-vă de liniștea bisericii iarna; zidurile groase oferă o pauză plăcută de la aerul înghețat al orașului de coastă.",
-                "en": "Enjoy the tranquility of the winter church; the thick walls provide a pleasant break from the freezing air of the coastal town."
+                "en": "Enjoy the tranquility of the winter church; the thick walls provide a pleasant break from the freezing air of the coastal town.",
+                "fr": "Appréciez la tranquillité de l'église en hiver ; les murs épais offrent une pause agréable loin du froid glacial de la ville côtière."
               }
             },
             {
@@ -957,13 +1062,15 @@
                 "de": "Atlantikwall-Museum",
                 "hu": "Atlantisz Fal Múzeum (Nagy Bunker)",
                 "ro": "Muzeul Zidul Atlanticului",
-                "en": "Atlantic Wall Museum (The Big Bunker)"
+                "en": "Atlantic Wall Museum (The Big Bunker)",
+                "fr": "Musée du Mur de l'Atlantique (Le Gros Bunker)"
               },
               "tip_5lang": {
                 "de": "Im Inneren des Bunkers ist es im Winter deutlich milder als draußen; nutzen Sie die Zeit für eine ausführliche Tour durch alle sechs Etagen.",
                 "hu": "A bunker belsejében télen jóval enyhébb az idő, mint kint; használja ki az időt egy alapos túrára mind a hat emeleten.",
                 "ro": "În interiorul buncărului este mult mai cald iarna decât afară; profitați de timp pentru un tur detaliat pe toate cele șase etaje.",
-                "en": "Inside the bunker, it is significantly milder in winter than outside; use the time for a thorough tour of all six floors."
+                "en": "Inside the bunker, it is significantly milder in winter than outside; use the time for a thorough tour of all six floors.",
+                "fr": "À l'intérieur du bunker, il fait sensiblement plus doux en hiver qu'à l'extérieur ; profitez-en pour faire une visite complète des six étages."
               }
             },
             {
@@ -971,13 +1078,15 @@
                 "de": "N°4 Commando Museum",
                 "hu": "N°4 Commando Múzeum",
                 "ro": "Muzeul N°4 Commando",
-                "en": "N°4 Commando Museum"
+                "en": "N°4 Commando Museum",
+                "fr": "Musée N°4 Commando"
               },
               "tip_5lang": {
                 "de": "Ein wunderbarer Ort, um sich aufzuwärmen und die Geschichte der Befreiung in der ruhigen Atmosphäre der Nebensaison zu erleben.",
                 "hu": "Csodálatos hely a felmelegedésre, miközben a felszabadítás történetét tanulmányozza a holtszezon nyugodt légkörében.",
                 "ro": "Un loc minunat pentru a vă încălzi în timp ce studiați istoria eliberării în atmosfera liniștită a extrasezonului.",
-                "en": "A wonderful place to warm up while studying the history of the liberation in the calm atmosphere of the off-season."
+                "en": "A wonderful place to warm up while studying the history of the liberation in the calm atmosphere of the off-season.",
+                "fr": "Un endroit merveilleux pour se réchauffer tout en étudiant l'histoire de la libération dans l'atmosphère calme de la basse saison."
               }
             },
             {
@@ -985,13 +1094,15 @@
                 "de": "Leuchtturm Ouistreham",
                 "hu": "Ouistreham Világítótorony",
                 "ro": "Farul Ouistreham",
-                "en": "Ouistreham Lighthouse"
+                "en": "Ouistreham Lighthouse",
+                "fr": "Phare d'Ouistreham"
               },
               "tip_5lang": {
                 "de": "Parken Sie direkt am Turm und genießen Sie das klare Winterlicht; der Aufstieg belohnt Sie mit einer scharfen Sicht über den verschneiten oder frostigen Kanal.",
                 "hu": "Parkoljon közvetlenül a toronynál, és élvezze a tiszta téli fényt; a feljutásért cserébe éles kilátást kap a jeges csatornára.",
                 "ro": "Parcați chiar lângă far și bucurați-vă de lumina clară de iarnă; urcarea vă va răsplăti cu o vedere panoramică asupra canalului înghețat.",
-                "en": "Park right by the tower and enjoy the clear winter light; the climb rewards you with a sharp view over the frosty channel."
+                "en": "Park right by the tower and enjoy the clear winter light; the climb rewards you with a sharp view over the frosty channel.",
+                "fr": "Garez-vous juste à côté de la tour et profitez de la lumière claire de l'hiver ; la montée vous récompense par une vue nette sur le chenal givré."
               }
             },
             {
@@ -999,13 +1110,15 @@
                 "de": "Jachthafen",
                 "hu": "Jachtkikötő",
                 "ro": "Portul de Agrement",
-                "en": "Marina (Port de Plaisance)"
+                "en": "Marina (Port de Plaisance)",
+                "fr": "Marina (Port de Plaisance)"
               },
               "tip_5lang": {
                 "de": "Der Hafen im Winterkleid ist ein ruhiger Anblick; die Parkplätze in der Nähe erlauben einen schnellen Wechsel zwischen Auto und Aussichtspunkt.",
                 "hu": "A téli köntösbe öltözött kikötő nyugodt látvány; a közeli parkolók lehetővé teszik a gyors váltást az autó és a kilátópont között.",
                 "ro": "Portul în haine de iarnă este o priveliște liniștită; parcările din apropiere permit o tranziție rapidă între mașină și punctul de observație.",
-                "en": "The harbor in its winter coat is a peaceful sight; nearby parking allows for a quick switch between the car and the viewpoint."
+                "en": "The harbor in its winter coat is a peaceful sight; nearby parking allows for a quick switch between the car and the viewpoint.",
+                "fr": "Le port vêtu de son manteau hivernal est un spectacle paisible ; un parking à proximité permet un changement rapide entre la voiture et le point de vue."
               }
             },
             {
@@ -1013,13 +1126,15 @@
                 "de": "Plage de la Redoute",
                 "hu": "Plage de la Redoute",
                 "ro": "Plaja de la Redoute",
-                "en": "Plage de la Redoute"
+                "en": "Plage de la Redoute",
+                "fr": "Plage de la Redoute"
               },
               "tip_5lang": {
                 "de": "Nutzen Sie den Strandparkplatz für eine kurze winterliche Brise; die Heizung im Auto sorgt danach sofort wieder für wohlige Wärme.",
                 "hu": "Használja a strand parkolóját egy rövid téli szellőzésre; az autó fűtése utána azonnal gondoskodik a kellemes melegről.",
                 "ro": "Folosiți parcarea plajei pentru o scurtă repriză de aer curat de iarnă; căldura din mașină vă va revigora imediat după aceea.",
-                "en": "Use the beach parking for a quick winter breeze; the car's heater will ensure cozy warmth immediately afterward."
+                "en": "Use the beach parking for a quick winter breeze; the car's heater will ensure cozy warmth immediately afterward.",
+                "fr": "Utilisez le parking de la plage pour une rapide bouffée d'air hivernale ; le chauffage de la voiture assurera immédiatement une chaleur confortable."
               }
             },
             {
@@ -1027,13 +1142,15 @@
                 "de": "Sword Beach",
                 "hu": "Sword Beach",
                 "ro": "Plaja Sword",
-                "en": "Sword Beach"
+                "en": "Sword Beach",
+                "fr": "Sword Beach"
               },
               "tip_5lang": {
                 "de": "Der perfekte Ort für den Winter-Sonnenuntergang; bleiben Sie im Auto und genießen Sie das Farbenspiel am Himmel über der kalten Nordsee.",
                 "hu": "Tökéletes helyszín a téli naplementéhez; maradjon az autóban, és élvezze az ég színjátékát a hideg Északi-tenger felett.",
                 "ro": "Locul perfect pentru apusul de iarnă; rămâneți în mașină și bucurați-vă de jocul de culori de pe cer deasupra mării reci.",
-                "en": "The perfect spot for a winter sunset; stay in the car and enjoy the play of colors in the sky over the cold North Sea."
+                "en": "The perfect spot for a winter sunset; stay in the car and enjoy the play of colors in the sky over the cold North Sea.",
+                "fr": "L’endroit parfait pour un coucher de soleil d’hiver ; restez dans la voiture et admirez la palette de couleurs du ciel au-dessus de la froide mer du Nord."
               }
             }
           ]

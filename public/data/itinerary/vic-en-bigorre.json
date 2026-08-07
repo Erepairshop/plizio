@@ -21,7 +21,8 @@
             "de": "Vic-en-Bigorre Market Hall",
             "hu": "Vic-en-Bigorre Market Hall",
             "ro": "Vic-en-Bigorre Market Hall",
-            "en": "Vic-en-Bigorre Market Hall"
+            "en": "Vic-en-Bigorre Market Hall",
+            "fr": "Halle du Marché de Vic-en-Bigorre"
           },
           "coords": [
             0.054532,
@@ -36,7 +37,8 @@
             "de": "Erkunden Sie die lebhafte Markthalle, um authentische regionale Produkte von lokalen Bauern zu probieren, und kommen Sie früh für die beste Auswahl.",
             "hu": "Fedezze fel a nyüzsgő vásárcsarnokot és kóstolja meg a helyi termelők autentikus regionális portékáit, de érdemes minél korábban érkezni a legfrissebb árukért.",
             "ro": "Explorați piața acoperită animată pentru a gusta produse regionale autentice de la fermieri locali, ajungând devreme pentru a prinde cea mai proaspătă marfă.",
-            "en": "Explore the bustling covered market hall to taste authentic regional products from local farmers, arriving early to get the freshest goods available."
+            "en": "Explore the bustling covered market hall to taste authentic regional products from local farmers, arriving early to get the freshest goods available.",
+            "fr": "Explorez la halles couverte animée pour goûter des produits régionaux authentiques des agriculteurs locaux ; arrivez tôt pour obtenir les produits les plus frais."
           }
         },
         {
@@ -44,7 +46,8 @@
             "de": "Saint-Martin Church",
             "hu": "Saint-Martin Church",
             "ro": "Saint-Martin Church",
-            "en": "Saint-Martin Church"
+            "en": "Saint-Martin Church",
+            "fr": "Église Saint-Martin"
           },
           "coords": [
             0.054207,
@@ -59,7 +62,8 @@
             "de": "Bewundern Sie die gotischen Elemente dieser historischen Kirche im Stadtzentrum, prüfen Sie jedoch vorab das schwarze Brett auf die aktuellen Öffnungszeiten.",
             "hu": "Csodálja meg a történelmi belvárosi templom gótikus építészeti elemeit, azonban a látogatás előtt mindenképpen ellenőrizze a faliújságon a nyitvatartási időt.",
             "ro": "Admirați elementele gotice frumoase ale acestei biserici istorice din centrul orașului, dar verificați orarul de pe panoul informativ înainte de a o vizita.",
-            "en": "Admire the beautiful gothic elements of this historic religious site in the town center, checking the notice board for current opening hours before your visit."
+            "en": "Admire the beautiful gothic elements of this historic religious site in the town center, checking the notice board for current opening hours before your visit.",
+            "fr": "Admirez les beaux éléments gothiques de ce site religieux historique au centre-ville, en vérifiant le panneau d'affichage pour les horaires d'ouverture actuels avant votre visite."
           }
         },
         {
@@ -67,7 +71,8 @@
             "de": "L'Octav",
             "hu": "L'Octav",
             "ro": "L'Octav",
-            "en": "L'Octav"
+            "en": "L'Octav",
+            "fr": "L'Octav"
           },
           "coords": [
             0.055122,
@@ -82,7 +87,8 @@
             "de": "Entdecken Sie zeitgenössische Ausstellungen und kulturelle Veranstaltungen in diesem Zentrum, und nehmen Sie sich am Eingang ein kostenloses Programmheft mit.",
             "hu": "Fedezze fel a kortárs kiállításokat és kulturális eseményeket ebben a dinamikus központban, és ne felejtsen el felmarkolni egy ingyenes programfüzetet.",
             "ro": "Descoperiți expozițiile contemporane și evenimentele culturale din acest centru dinamic, luându-vă un moment pentru a lua un ghid gratuit de la intrarea principală.",
-            "en": "Discover contemporary exhibitions and vibrant cultural events in this dynamic local center, taking a moment to grab a free program guide at the main entrance."
+            "en": "Discover contemporary exhibitions and vibrant cultural events in this dynamic local center, taking a moment to grab a free program guide at the main entrance.",
+            "fr": "Découvrez des expositions contemporaines et des événements culturels vibrants dans ce centre local dynamique, en prenant un moment pour récupérer un programme gratuit à l'entrée principale."
           }
         },
         {
@@ -90,7 +96,8 @@
             "de": "Hôtel de Journet",
             "hu": "Hôtel de Journet",
             "ro": "Hôtel de Journet",
-            "en": "Hôtel de Journet"
+            "en": "Hôtel de Journet",
+            "fr": "Hôtel de Journet"
           },
           "coords": [
             0.0534,
@@ -105,7 +112,8 @@
             "de": "Bestaunen Sie die elegante Fassade dieser historischen Adelsresidenz, die die Architektur prägt, am besten fotografiert im weichen Licht des Nachmittags.",
             "hu": "Csodálja meg ennek a városképet meghatározó történelmi nemesi rezidenciának az elegáns homlokzatát, amelyet érdemes a lágy délutáni fényekben lencsevégre kapni.",
             "ro": "Minunați-vă de fațada elegantă a acestei reședințe nobiliare istorice care definește arhitectura orașului, de preferat fotografiată în lumina blândă a după-amiezii.",
-            "en": "Marvel at the elegant facade of this historic noble residence that defines the town's architecture, ideally photographing it in the soft warm afternoon light."
+            "en": "Marvel at the elegant facade of this historic noble residence that defines the town's architecture, ideally photographing it in the soft warm afternoon light.",
+            "fr": "Émerveillez-vous devant la façade élégante de cette résidence noble historique qui définit l'architecture de la ville ; idéal pour la photographier à la douce lumière chaude de l'après-midi."
           }
         },
         {
@@ -113,7 +121,8 @@
             "de": "Piscine Intercommunale",
             "hu": "Piscine Intercommunale",
             "ro": "Piscine Intercommunale",
-            "en": "Piscine Intercommunale"
+            "en": "Piscine Intercommunale",
+            "fr": "Piscine Intercommunale"
           },
           "coords": [
             0.049403,
@@ -128,7 +137,8 @@
             "de": "Entspannen Sie sich im örtlichen Schwimmbad mit seinen familienfreundlichen Einrichtungen, aber bringen Sie richtige Badesachen mit, da Shorts nicht erlaubt sind.",
             "hu": "Pihenjen és hűsöljön a helyi közösségi medencében, amely családbarát szolgáltatásokat nyújt, de hozzon megfelelő fürdőruhát, mert a strandnadrág nem megengedett.",
             "ro": "Relaxați-vă și răcoriți-vă la piscina comunitară care oferă facilități pentru familii, dar nu uitați să aduceți un costum de baie adecvat deoarece șorturile sunt interzise.",
-            "en": "Relax and cool off at the local community pool which offers family-friendly amenities, but remember to bring a proper swimsuit as long beach shorts are not allowed."
+            "en": "Relax and cool off at the local community pool which offers family-friendly amenities, but remember to bring a proper swimsuit as long beach shorts are not allowed.",
+            "fr": "Détendez-vous et rafraîchissez-vous à la piscine communautaire locale qui offre des équipements adaptés aux familles, mais pensez à apporter un maillot de bain approprié car les shorts de plage longs ne sont pas autorisés."
           }
         }
       ],
@@ -136,7 +146,8 @@
         "de": "Beginnen Sie Ihren Morgen, indem Sie in das lebhafte Markttreiben eintauchen, gefolgt von einem ruhigen Besuch der historischen Kirche Saint-Martin.\nSpazieren Sie mittags zum L'Octav, um das kulturelle Leben der Stadt zu erkunden, und suchen Sie sich einen gemütlichen Ort für ein regionales Mittagessen.\nVerbringen Sie den Nachmittag damit, das architektonische Erbe der Stadt zu bewundern, insbesondere die elegante Fassade des Hôtel de Journet.\nBeenden Sie Ihre Tour mit einem erfrischenden Bad in der Piscine Intercommunale, der perfekten Möglichkeit, nach dem Erkunden zu entspannen.",
         "hu": "Kezdje a reggelt a pezsgő helyi életbe való elmerüléssel a fedett piacon, majd tegyen egy békés látogatást a történelmi Saint-Martin templomban.\nDélben sétáljon át a L'Octav-hoz, hogy felfedezze a város kulturális ütőerét, majd keressen egy hangulatos helyet egy kényelmes regionális ebédhez.\nTöltse a délutánt a város építészeti örökségének megcsodálásával, amelyet a Hôtel de Journet elegáns homlokzata koronáz meg.\nZárja a gyalogos túrát egy frissítő csobbanással a Piscine Intercommunale medencéjében, amely tökéletes levezetés a városnézés után.",
         "ro": "Începeți-vă dimineața plonjând în viața locală vibrantă la piața acoperită, urmată de o vizită senină la istorica Biserică Saint-Martin.\nLa prânz, plimbați-vă până la L'Octav pentru a explora pulsul cultural al orașului, apoi găsiți un loc confortabil pentru un prânz regional liniștit.\nPetreceți-vă după-amiaza admirând patrimoniul arhitectural al orașului, evidențiat de fațada elegantă a spectaculosului Hôtel de Journet.\nÎncheiați-vă turul pietonal cu o baie revigorantă la Piscine Intercommunale, un mod perfect de a vă relaxa după explorarea orașului.",
-        "en": "Start your morning by immersing yourself in the vibrant local life at the covered market, followed by a serene visit to the historic Saint-Martin Church.\nFor midday, stroll over to L'Octav to explore the town's cultural pulse, then find a cozy spot nearby for a leisurely regional lunch.\nSpend your afternoon admiring the town's architectural heritage, highlighted by the elegant facade of the Hôtel de Journet.\nConclude your walking tour with a refreshing dip at the Piscine Intercommunale, a perfect way to unwind after exploring the town."
+        "en": "Start your morning by immersing yourself in the vibrant local life at the covered market, followed by a serene visit to the historic Saint-Martin Church.\nFor midday, stroll over to L'Octav to explore the town's cultural pulse, then find a cozy spot nearby for a leisurely regional lunch.\nSpend your afternoon admiring the town's architectural heritage, highlighted by the elegant facade of the Hôtel de Journet.\nConclude your walking tour with a refreshing dip at the Piscine Intercommunale, a perfect way to unwind after exploring the town.",
+        "fr": "Commencez votre matinée en vous immergeant dans la vie locale animée du marché couvert, puis faites une visite sereine à la historique Église Saint-Martin.\nPour le midi, rendez-vous à L'Octav pour explorer le pouls culturel de la ville, puis trouvez un endroit cosy à proximité pour un déjeuner régional détendu.\nPassez votre après-midi à admirer le patrimoine architectural de la ville, mis en valeur par la façade élégante de l'Hôtel de Journet.\nConcluez votre visite à pied par une baignade revigorante à la Piscine Intercommunale, une façon idéale de vous détendre après l'exploration de la ville."
       },
       "variants": {
         "rainy": {
@@ -144,7 +155,8 @@
             "de": "Beginnen Sie Ihren nassen Morgen unter dem schützenden Dach der historischen Markthalle. Mittags finden Sie in der Saint-Martin Kirche Schutz und trocknen sich im L'Octav auf. Betrachten Sie nachmittags das Hôtel de Journet mit einem Regenschirm in der Hand. Beenden Sie den feuchten Abend entspannt bei einem warmen Bad in der örtlichen Schwimmhalle.",
             "hu": "Kezdje a nedves reggelt a történelmi piac hatalmas, fedett tetőzete alatt. Délben keressen békés menedéket a Saint-Martin templomban, majd szárítkozzon meg a L'Octav termeiben. Délután esernyővel a kézben csodálja meg a Hôtel de Journet épületét. Az esős estét zárja egy pihentető, meleg beltéri úszással a helyi uszodában.",
             "ro": "Începeți dimineața ploioasă sub acoperișul protector al pieței istorice. La prânz, găsiți un refugiu liniștit în biserica Saint-Martin și uscați-vă la L'Octav. După-amiaza, admirați Hôtel de Journet cu umbrela în mână, ferindu-vă de stropi. Încheiați seara umedă cu o baie relaxantă în apele calde ale piscinei interioare.",
-            "en": "Start your wet morning under the sturdy roof of the historic market. By midday, find peaceful shelter inside the Saint-Martin Church and dry off at L'Octav's cultural exhibits. In the afternoon, view the Hôtel de Journet with an umbrella in hand. Conclude your damp evening with a relaxing, warm indoor swim at the local pool."
+            "en": "Start your wet morning under the sturdy roof of the historic market. By midday, find peaceful shelter inside the Saint-Martin Church and dry off at L'Octav's cultural exhibits. In the afternoon, view the Hôtel de Journet with an umbrella in hand. Conclude your damp evening with a relaxing, warm indoor swim at the local pool.",
+            "fr": "Commencez votre matinée humide sous le toit robuste du marché historique. À midi, trouvez un abri paisible à l'intérieur de l'Église Saint-Martin et séchez-vous auprès des expositions de L'Octav. L'après-midi, contemplez l'Hôtel de Journet parapluie à la main. Terminez votre soirée humide par une baignade intérieure et relaxante à la piscine locale."
           },
           "stops": [
             {
@@ -152,13 +164,15 @@
                 "de": "Vic-en-Bigorre Market Hall",
                 "hu": "Vic-en-Bigorre Market Hall",
                 "ro": "Vic-en-Bigorre Market Hall",
-                "en": "Vic-en-Bigorre Market Hall"
+                "en": "Vic-en-Bigorre Market Hall",
+                "fr": "Halle du Marché de Vic-en-Bigorre"
               },
               "tip_5lang": {
                 "de": "Bewundern Sie die Architektur und bleiben Sie unter dem Dach völlig trocken; ideal zum Stöbern bei Regen. Tragen Sie rutschfestes Schuhwerk.",
                 "hu": "Csodálja meg az építészetet, miközben teljesen száraz marad a tető alatt; tökéletes a helyi áruk böngészéséhez felhőszakadás idején.",
                 "ro": "Admirați arhitectura rămânând complet uscat sub acoperiș; perfect pentru a explora produsele locale în timpul unei ploi torențiale.",
-                "en": "Admire the classic architecture while staying completely dry under the roof; perfect for browsing local goods during a downpour."
+                "en": "Admire the classic architecture while staying completely dry under the roof; perfect for browsing local goods during a downpour.",
+                "fr": "Admirez l'architecture classique tout en restant parfaitement au sec sous le toit ; idéal pour parcourir les produits locaux pendant une averse."
               }
             },
             {
@@ -166,13 +180,15 @@
                 "de": "Saint-Martin Church",
                 "hu": "Saint-Martin Church",
                 "ro": "Saint-Martin Church",
-                "en": "Saint-Martin Church"
+                "en": "Saint-Martin Church",
+                "fr": "Église Saint-Martin"
               },
               "tip_5lang": {
                 "de": "Die ruhige Kirche bietet eine hervorragende Zuflucht vor dem Regen. Vorsicht auf den nassen und rutschigen Stufen am Eingang.",
                 "hu": "A csendes templom kiváló menedéket nyújt az eső elől. Vigyázzon a bejáratnál lévő nedves és csúszós kőlépcsőkkel.",
                 "ro": "Biserica liniștită oferă un refugiu excelent împotriva ploii. Aveți grijă la treptele de piatră umede și alunecoase de la intrare.",
-                "en": "The quiet church offers an excellent refuge from the rain. Be careful on the wet and slippery stone steps near the entrance."
+                "en": "The quiet church offers an excellent refuge from the rain. Be careful on the wet and slippery stone steps near the entrance.",
+                "fr": "La petite église offre un excellent refuge contre la pluie. Faites attention aux marches en pierre mouillées et glissantes près de l'entrée."
               }
             },
             {
@@ -180,13 +196,15 @@
                 "de": "L'Octav",
                 "hu": "L'Octav",
                 "ro": "L'Octav",
-                "en": "L'Octav"
+                "en": "L'Octav",
+                "fr": "L'Octav"
               },
               "tip_5lang": {
                 "de": "Dieses Kulturzentrum ist ein großartiger Ort, um sich drinnen aufzuwärmen und zu trocknen, während man die lokalen Ausstellungen genießt.",
                 "hu": "Ez a kulturális központ nagyszerű hely, hogy bent felmelegedjen és megszáradjon, miközben élvezi a helyi kiállításokat.",
                 "ro": "Acest centru cultural este un loc minunat pentru a vă încălzi și usca în interior, în timp ce vă bucurați de expozițiile locale.",
-                "en": "This cultural center is a great place to warm up and dry off indoors while enjoying the local exhibits and entertainment."
+                "en": "This cultural center is a great place to warm up and dry off indoors while enjoying the local exhibits and entertainment.",
+                "fr": "Ce centre culturel est un excellent endroit pour se réchauffer et se sécher à l'intérieur tout en profitant des expositions et spectacles locaux."
               }
             },
             {
@@ -194,13 +212,15 @@
                 "de": "Hôtel de Journet",
                 "hu": "Hôtel de Journet",
                 "ro": "Hôtel de Journet",
-                "en": "Hôtel de Journet"
+                "en": "Hôtel de Journet",
+                "fr": "Hôtel de Journet"
               },
               "tip_5lang": {
                 "de": "Halten Sie Ihren Regenschirm bereit, um die beeindruckende Außenfassade dieses historischen Gebäudes zu fotografieren.",
                 "hu": "Tartsa készenlétben az esernyőjét, hogy kényelmesen lefotózhassa ennek a történelmi épületnek a lenyűgöző homlokzatát.",
                 "ro": "Țineți umbrela pregătită pentru a face fotografii confortabile cu fațada impresionantă a acestei clădiri istorice.",
-                "en": "Keep your umbrella handy to comfortably take photos of the impressive exterior facade of this historic building in the rain."
+                "en": "Keep your umbrella handy to comfortably take photos of the impressive exterior facade of this historic building in the rain.",
+                "fr": "Gardez votre parapluie à portée de main pour photographier confortablement l'impressionnante façade extérieure de ce bâtiment historique sous la pluie."
               }
             },
             {
@@ -208,13 +228,15 @@
                 "de": "Piscine Intercommunale",
                 "hu": "Piscine Intercommunale",
                 "ro": "Piscine Intercommunale",
-                "en": "Piscine Intercommunale"
+                "en": "Piscine Intercommunale",
+                "fr": "Piscine Intercommunale"
               },
               "tip_5lang": {
                 "de": "Ein warmes Hallenbad ist der perfekte Abschluss für einen nassen Tag. Vergessen Sie nicht Ihr eigenes Handtuch einzupacken.",
                 "hu": "Egy meleg vizű fedett medence a tökéletes befejezése egy nedves napnak. Ne felejtsen el saját törölközőt és papucsot csomagolni.",
                 "ro": "O piscină interioară caldă este finalul perfect pentru o zi umedă. Nu uitați să împachetați un prosop uscat în geantă.",
-                "en": "A warm indoor pool is the perfect finale to a wet day out. Don't forget to pack a dry towel and comfortable flip-flops."
+                "en": "A warm indoor pool is the perfect finale to a wet day out. Don't forget to pack a dry towel and comfortable flip-flops.",
+                "fr": "Une piscine intérieure chauffée est la parfaite conclusion d'une journée humide. N'oubliez pas d'emporter une serviette sèche et des tongs confortables."
               }
             }
           ]
@@ -224,7 +246,8 @@
             "de": "Beginnen Sie Ihren frischen Morgen auf dem Markt und genießen Sie heiße Snacks. Mittags bietet sich die Gelegenheit, sich in der Kirche und im L'Octav aufzuwärmen. Verbringen Sie den Nachmittag damit, das Hôtel de Journet zu bewundern, bevor die frühe Dämmerung gegen 17 Uhr einsetzt. Beenden Sie den kühlen Abend im beheizten Wasser des Hallenbads.",
             "hu": "Kezdje a csípős reggelt a piacon, forró helyi falatokat kóstolva. Délben lehetősége nyílik felmelegedni a templomban és a L'Octavban. Délután csodálja meg a Hôtel de Journet-t, mielőtt 17:00 óra körül leszáll a korai sötétség. A hűvös estét a fedett uszoda fűtött vizében lazítva zárja.",
             "ro": "Începeți dimineața răcoroasă la piață, savurând gustări calde. La prânz, aveți ocazia să vă încălziți în biserică și la L'Octav. Petreceți după-amiaza admirând Hôtel de Journet înainte de întunericul care cade devreme, în jur de ora 17:00. Încheiați seara rece relaxându-vă în apa încălzită a piscinei.",
-            "en": "Begin your brisk morning at the market, enjoying hot local snacks. Midday offers a chance to warm up inside the church and L'Octav. Spend your afternoon marveling at the Hôtel de Journet before the early dusk sets in around 5 PM. End the chilly evening by unwinding in the heated waters of the indoor pool."
+            "en": "Begin your brisk morning at the market, enjoying hot local snacks. Midday offers a chance to warm up inside the church and L'Octav. Spend your afternoon marveling at the Hôtel de Journet before the early dusk sets in around 5 PM. End the chilly evening by unwinding in the heated waters of the indoor pool.",
+            "fr": "Commencez votre matinée vivifiante au marché en dégustant des snacks locaux chauds. À midi, réchauffez-vous à l'intérieur de l'église et de L'Octav. Passez l'après-midi à admirer l'Hôtel de Journet avant que la nuit tombe tôt vers 17:00. Terminez la soirée froide en vous détendant dans les eaux chauffées de la piscine intérieure."
           },
           "stops": [
             {
@@ -232,13 +255,15 @@
                 "de": "Vic-en-Bigorre Market Hall",
                 "hu": "Vic-en-Bigorre Market Hall",
                 "ro": "Vic-en-Bigorre Market Hall",
-                "en": "Vic-en-Bigorre Market Hall"
+                "en": "Vic-en-Bigorre Market Hall",
+                "fr": "Halle du Marché de Vic-en-Bigorre"
               },
               "tip_5lang": {
                 "de": "Genießen Sie die lebhafte Winteratmosphäre; holen Sie sich ein heißes Getränk, um Ihre Hände zu wärmen, während Sie die Stände erkunden.",
                 "hu": "Élvezze a nyüzsgő téli piaci hangulatot; vegyen egy forró italt, hogy felmelegítse a kezét, miközben a standok között sétál.",
                 "ro": "Bucurați-vă de atmosfera plină de viață a pieței de iarnă; luați o băutură caldă pentru a vă încălzi mâinile printre tarabe.",
-                "en": "Take in the lively winter market atmosphere; grab a hot drink to warm your hands while exploring the stalls."
+                "en": "Take in the lively winter market atmosphere; grab a hot drink to warm your hands while exploring the stalls.",
+                "fr": "Plongez dans l'atmosphère animée du marché d'hiver ; prenez une boisson chaude pour réchauffer vos mains en parcourant les étals."
               }
             },
             {
@@ -246,13 +271,15 @@
                 "de": "Saint-Martin Church",
                 "hu": "Saint-Martin Church",
                 "ro": "Saint-Martin Church",
-                "en": "Saint-Martin Church"
+                "en": "Saint-Martin Church",
+                "fr": "Église Saint-Martin"
               },
               "tip_5lang": {
                 "de": "Wärmen Sie sich in diesem wunderschönen, ruhigen Heiligtum auf. Die dicken Steinmauern halten den eisigen Winterwind draußen.",
                 "hu": "Melegedjen fel ebben a gyönyörű, csendes szentélyben. A vastag kőfalak kiválóan kint tartják a jeges téli szelet.",
                 "ro": "Încălziți-vă în acest sanctuar frumos și liniștit. Zidurile groase de piatră țin la distanță vântul înghețat de iarnă.",
-                "en": "Warm your hands inside this beautiful, quiet sanctuary. The thick stone walls perfectly block out the biting winter wind."
+                "en": "Warm your hands inside this beautiful, quiet sanctuary. The thick stone walls perfectly block out the biting winter wind.",
+                "fr": "Réchauffez-vous les mains à l'intérieur de ce beau sanctuaire calme. Les épaisses murailles en pierre bloquent parfaitement le vent hivernal mordant."
               }
             },
             {
@@ -260,13 +287,15 @@
                 "de": "L'Octav",
                 "hu": "L'Octav",
                 "ro": "L'Octav",
-                "en": "L'Octav"
+                "en": "L'Octav",
+                "fr": "L'Octav"
               },
               "tip_5lang": {
                 "de": "Ein gemütlicher, beheizter kultureller Zufluchtsort für kalte Winternachmittage. Legen Sie hier Ihre schweren Schichten ab.",
                 "hu": "Hangulatos, fűtött kulturális menedék a hideg téli délutánokra. Itt nyugodtan leveheti a nehéz, meleg rétegeket egy kis időre.",
                 "ro": "Un refugiu cultural confortabil și încălzit pentru după-amiezile reci de iarnă. Aici puteți da jos straturile groase de haine.",
-                "en": "A cozy, heated cultural venue for cold winter afternoons. Take a moment to shed your heavy layers and enjoy the exhibits."
+                "en": "A cozy, heated cultural venue for cold winter afternoons. Take a moment to shed your heavy layers and enjoy the exhibits.",
+                "fr": "Un lieu culturel chaleureux et chauffé pour les après-midis froids d'hiver. Prenez un moment pour vous défaire de vos lourdes couches et apprécier les expositions."
               }
             },
             {
@@ -274,13 +303,15 @@
                 "de": "Hôtel de Journet",
                 "hu": "Hôtel de Journet",
                 "ro": "Hôtel de Journet",
-                "en": "Hôtel de Journet"
+                "en": "Hôtel de Journet",
+                "fr": "Hôtel de Journet"
               },
               "tip_5lang": {
                 "de": "Die historische Fassade wirkt im tief stehenden Winterlicht besonders dramatisch. Ziehen Sie sich warm an, da der Platz zugig ist.",
                 "hu": "A történelmi homlokzat különösen drámaian fest az alacsony téli napfényben. Öltözzön melegen, mert a tér huzatos lehet.",
                 "ro": "Fațada istorică arată spectaculos în lumina joasă de iarnă. Îmbrăcați-vă gros, deoarece piațeta poate fi expusă vântului.",
-                "en": "The historic facade looks striking in the low winter light. Bundle up, as the open space around it can get quite drafty."
+                "en": "The historic facade looks striking in the low winter light. Bundle up, as the open space around it can get quite drafty.",
+                "fr": "La façade historique est saisissante dans la lumière hivernale basse. Couvriez-vous bien, car l'espace ouvert autour peut être assez venteux."
               }
             },
             {
@@ -288,13 +319,15 @@
                 "de": "Piscine Intercommunale",
                 "hu": "Piscine Intercommunale",
                 "ro": "Piscine Intercommunale",
-                "en": "Piscine Intercommunale"
+                "en": "Piscine Intercommunale",
+                "fr": "Piscine Intercommunale"
               },
               "tip_5lang": {
                 "de": "Heiße Wassertherapie nach einem Spaziergang in der Kälte. Der beheizte Innenbereich ist ideal, wenn die Sonne um 17 Uhr untergeht.",
                 "hu": "Forró vizes terápia egy hideg séta után. A fűtött belső tér ideális, amikor a nap már 17:00 óra körül lemegy.",
                 "ro": "Terapie cu apă fierbinte după o plimbare în frig. Zona interioară încălzită este ideală când soarele apune la ora 17:00.",
-                "en": "Hot water therapy after walking in the cold. The heated indoor space is perfect as the early darkness sets in around 5 PM."
+                "en": "Hot water therapy after walking in the cold. The heated indoor space is perfect as the early darkness sets in around 5 PM.",
+                "fr": "Une eau chaude thérapeutique après une marche dans le froid. L'espace intérieur chauffé est parfait alors que l'obscurité tombe tôt vers 17:00."
               }
             }
           ]
@@ -314,7 +347,8 @@
             "de": "Vic-en-Bigorre Market Hall",
             "hu": "Vic-en-Bigorre Market Hall",
             "ro": "Vic-en-Bigorre Market Hall",
-            "en": "Vic-en-Bigorre Market Hall"
+            "en": "Vic-en-Bigorre Market Hall",
+            "fr": "Halle du Marché de Vic-en-Bigorre"
           },
           "coords": [
             0.054532,
@@ -329,7 +363,8 @@
             "de": "Erkunden Sie die lebhafte Markthalle, um authentische regionale Produkte von lokalen Bauern zu probieren, und kommen Sie früh für die beste Auswahl.",
             "hu": "Fedezze fel a nyüzsgő vásárcsarnokot és kóstolja meg a helyi termelők autentikus regionális portékáit, de érdemes minél korábban érkezni a legfrissebb árukért.",
             "ro": "Explorați piața acoperită animată pentru a gusta produse regionale autentice de la fermieri locali, ajungând devreme pentru a prinde cea mai proaspătă marfă.",
-            "en": "Explore the bustling covered market hall to taste authentic regional products from local farmers, arriving early to get the freshest goods available."
+            "en": "Explore the bustling covered market hall to taste authentic regional products from local farmers, arriving early to get the freshest goods available.",
+            "fr": "Explorez la halles couverte animée pour goûter des produits régionaux authentiques des agriculteurs locaux ; arrivez tôt pour obtenir les produits les plus frais."
           }
         },
         {
@@ -337,7 +372,8 @@
             "de": "Saint-Martin Church",
             "hu": "Saint-Martin Church",
             "ro": "Saint-Martin Church",
-            "en": "Saint-Martin Church"
+            "en": "Saint-Martin Church",
+            "fr": "Église Saint-Martin"
           },
           "coords": [
             0.054207,
@@ -352,7 +388,8 @@
             "de": "Bewundern Sie die gotischen Elemente dieser historischen Kirche im Stadtzentrum, prüfen Sie jedoch vorab das schwarze Brett auf die aktuellen Öffnungszeiten.",
             "hu": "Csodálja meg a történelmi belvárosi templom gótikus építészeti elemeit, azonban a látogatás előtt mindenképpen ellenőrizze a faliújságon a nyitvatartási időt.",
             "ro": "Admirați elementele gotice frumoase ale acestei biserici istorice din centrul orașului, dar verificați orarul de pe panoul informativ înainte de a o vizita.",
-            "en": "Admire the beautiful gothic elements of this historic religious site in the town center, checking the notice board for current opening hours before your visit."
+            "en": "Admire the beautiful gothic elements of this historic religious site in the town center, checking the notice board for current opening hours before your visit.",
+            "fr": "Admirez les beaux éléments gothiques de ce site religieux historique au centre-ville, en consultant le panneau d'affichage pour les horaires d'ouverture actuels avant votre visite."
           }
         },
         {
@@ -360,7 +397,8 @@
             "de": "Castrum Bigorra",
             "hu": "Castrum Bigorra",
             "ro": "Castrum Bigorra",
-            "en": "Castrum Bigorra"
+            "en": "Castrum Bigorra",
+            "fr": "Castrum Bigorra"
           },
           "coords": [
             0.027346,
@@ -375,7 +413,8 @@
             "de": "Erkunden Sie die alten Grundmauern dieser mittelalterlichen Festung, die einst die Region bewachte, und tragen Sie festes Schuhwerk für das unebene Gelände.",
             "hu": "Fedezze fel a régiót egykor őrző középkori erődítmény ősi alapjait és maradványait, de mindenképpen viseljen strapabíró túracipőt az egyenetlen történelmi terepen.",
             "ro": "Explorați fundațiile antice ale acestei fortărețe medievale care odată păzea întreaga regiune, purtând încălțăminte de mers robustă pentru terenul istoric accidentat.",
-            "en": "Explore the ancient foundations of this medieval fortress that once guarded the entire region, wearing sturdy walking shoes to navigate the uneven terrain safely."
+            "en": "Explore the ancient foundations of this medieval fortress that once guarded the entire region, wearing sturdy walking shoes to navigate the uneven terrain safely.",
+            "fr": "Explorez les fondations anciennes de cette forteresse médiévale qui protégeait autrefois toute la région, en portant des chaussures de marche solides pour circuler en toute sécurité sur le terrain irrégulier."
           }
         },
         {
@@ -383,7 +422,8 @@
             "de": "Site archéologique de Castetbieilh",
             "hu": "Site archéologique de Castetbieilh",
             "ro": "Site archéologique de Castetbieilh",
-            "en": "Site archéologique de Castetbieilh"
+            "en": "Site archéologique de Castetbieilh",
+            "fr": "Site archéologique de Castetbieilh"
           },
           "coords": [
             0.028965,
@@ -398,7 +438,8 @@
             "de": "Machen Sie eine Zeitreise durch diese antiken Ruinen, die frühe Siedlungen offenbaren, und nehmen Sie in den wärmeren Sommermonaten eine kleine Wasserflasche mit.",
             "hu": "Repüljön vissza az időben ezeknek a korai településeket feltáró ősi romoknak a bejárásával, és a melegebb nyári hónapokban mindig tartson magánál egy kis üveg vizet.",
             "ro": "Întoarceți-vă în timp plimbându-vă prin aceste ruine antice care dezvăluie așezări timpurii, având la voi o sticlă mică de apă în timpul lunilor mai calde de vară.",
-            "en": "Step back in time by wandering through these ancient local ruins that reveal early settlements, carrying a small water bottle during the warmer summer months."
+            "en": "Step back in time by wandering through these ancient local ruins that reveal early settlements, carrying a small water bottle during the warmer summer months.",
+            "fr": "Remontez le temps en déambulant dans ces vestiges locaux anciens qui révèlent des installations précoces, en emportant une petite bouteille d'eau pendant les chauds mois d'été."
           }
         },
         {
@@ -406,7 +447,8 @@
             "de": "Le Prieuré",
             "hu": "Le Prieuré",
             "ro": "Le Prieuré",
-            "en": "Le Prieuré"
+            "en": "Le Prieuré",
+            "fr": "Le Prieuré"
           },
           "coords": [
             0.030264,
@@ -421,7 +463,8 @@
             "de": "Genießen Sie die friedliche Atmosphäre dieser von Natur umgebenen alten religiösen Stätte, und achten Sie darauf, Ihre Stimme zu senken, um die Ruhe zu wahren.",
             "hu": "Élvezze ennek a természettel teljesen körülvett régi vallási helyszínnek a békés atmoszféráját, és ügyeljen arra, hogy halkan beszéljen a nyugodt környezet tiszteletben tartásáért.",
             "ro": "Bucurați-vă de atmosfera pașnică a acestui vechi sit religios înconjurat de natură, asigurându-vă că mențineți un ton scăzut pentru a respecta mediul liniștit.",
-            "en": "Enjoy the peaceful atmosphere of this old religious site completely surrounded by nature, making sure to keep your voice down to respect the tranquil environment."
+            "en": "Enjoy the peaceful atmosphere of this old religious site completely surrounded by nature, making sure to keep your voice down to respect the tranquil environment.",
+            "fr": "Profitez de l'atmosphère paisible de ce vieux site religieux complètement entouré par la nature, en gardant la voix basse pour respecter cet environnement tranquille."
           }
         },
         {
@@ -429,7 +472,8 @@
             "de": "L'Octav",
             "hu": "L'Octav",
             "ro": "L'Octav",
-            "en": "L'Octav"
+            "en": "L'Octav",
+            "fr": "L'Octav"
           },
           "coords": [
             0.055122,
@@ -444,7 +488,8 @@
             "de": "Entdecken Sie zeitgenössische Ausstellungen und kulturelle Veranstaltungen in diesem Zentrum, und nehmen Sie sich am Eingang ein kostenloses Programmheft mit.",
             "hu": "Fedezze fel a kortárs kiállításokat és kulturális eseményeket ebben a dinamikus központban, és ne felejtsen el felmarkolni egy ingyenes programfüzetet.",
             "ro": "Descoperiți expozițiile contemporane și evenimentele culturale din acest centru dinamic, luându-vă un moment pentru a lua un ghid gratuit de la intrarea principală.",
-            "en": "Discover contemporary exhibitions and vibrant cultural events in this dynamic local center, taking a moment to grab a free program guide at the main entrance."
+            "en": "Discover contemporary exhibitions and vibrant cultural events in this dynamic local center, taking a moment to grab a free program guide at the main entrance.",
+            "fr": "Découvrez des expositions contemporaines et des événements culturels vibrants dans ce centre local dynamique, en prenant un moment pour récupérer un guide-programme gratuit à l'entrée principale."
           }
         }
       ],
@@ -452,7 +497,8 @@
         "de": "Starten Sie Ihr Fahrradabenteuer am lebhaften Markt, um frische Snacks zu besorgen, und radeln Sie dann zur nahegelegenen Kirche Saint-Martin.\nVerlassen Sie gegen Mittag das Zentrum und fahren Sie südwärts zu den beeindruckenden mittelalterlichen Überresten von Castrum Bigorra.\nVerbringen Sie den Nachmittag damit, die benachbarte archäologische Stätte und das friedliche Gelände des Le Prieuré in der Natur zu entdecken.\nWenn der Abend naht, radeln Sie zurück in das Herz von Vic-en-Bigorre, um vor dem Abendessen eine kulturelle Veranstaltung im L'Octav zu genießen.",
         "hu": "Indítsa kerékpáros kalandját a nyüzsgő központi piacon, szerezzen be friss helyi rágcsálnivalókat, majd tekerjen el a közeli Saint-Martin templomhoz.\nDél körül hagyja maga mögött a városközpontot, és induljon délre a Castrum Bigorra lenyűgöző középkori maradványai felé egy történelmi felfedezőútra.\nDélutánját a szomszédos régészeti lelőhely és a Le Prieuré békés területének felfedezésével töltheti, elmerülve a természet lágy ölében.\nAz este közeledtével kerekezzen vissza Vic-en-Bigorre szívébe, hogy a vacsora előtt még megnézzen egy kulturális eseményt a L'Octav központban.",
         "ro": "Începeți aventura pe bicicletă la piața centrală pentru a lua gustări proaspete, apoi pedalați ușor până la Biserica Saint-Martin din apropiere.\nÎn jurul prânzului, părăsiți centrul orașului și mergeți spre sud către rămășițele medievale impresionante ale Castrum Bigorra pentru o explorare.\nPetreceți după-amiaza descoperind situl arheologic adiacent și terenurile pașnice de la Le Prieuré, bucurându-vă de împrejurimile naturale.\nOdată cu lăsarea serii, întoarceți-vă cu bicicleta în inima orașului Vic-en-Bigorre pentru a vă bucura de un eveniment cultural la L'Octav.",
-        "en": "Kick off your biking adventure at the bustling central market to gather some fresh local snacks, then pedal lightly to the nearby Saint-Martin Church.\nAround midday, leave the town center behind and ride southward towards the impressive medieval remnants of Castrum Bigorra for a historical exploration.\nSpend your afternoon discovering the adjacent archaeological site and the peaceful grounds of Le Prieuré, soaking in the natural surroundings.\nAs evening approaches, cycle back into the heart of Vic-en-Bigorre to enjoy a cultural event or exhibition at L'Octav before dinner."
+        "en": "Kick off your biking adventure at the bustling central market to gather some fresh local snacks, then pedal lightly to the nearby Saint-Martin Church.\nAround midday, leave the town center behind and ride southward towards the impressive medieval remnants of Castrum Bigorra for a historical exploration.\nSpend your afternoon discovering the adjacent archaeological site and the peaceful grounds of Le Prieuré, soaking in the natural surroundings.\nAs evening approaches, cycle back into the heart of Vic-en-Bigorre to enjoy a cultural event or exhibition at L'Octav before dinner.",
+        "fr": "Commencez votre aventure à vélo au marché central animé pour prendre quelques en-cas locaux frais, puis pédalez doucement jusqu'à l'église Saint-Martin.\nVers midi, quittez le centre-ville et roulez vers le sud en direction des impressionnants vestiges médiévaux du Castrum Bigorra pour une exploration historique.\nPassez l'après-midi à découvrir le site archéologique adjacent et le terrain paisible du Prieuré, en profitant du cadre naturel.\nÀ la tombée de la nuit, revenez au cœur de Vic-en-Bigorre pour assister à un événement culturel ou une exposition à L'Octav avant le dîner."
       },
       "variants": {
         "rainy": {
@@ -460,7 +506,8 @@
             "de": "Eine regnerische Radtour beginnt am überdachten Markt. Suchen Sie mittags Schutz in der Kirche und fahren Sie vorsichtig auf rutschigen Wegen zu den Ruinen. Der Nachmittag bringt nasse archäologische Erkundungen; wasserdichte Ausrüstung ist Pflicht. Beenden Sie den Abend trocken im L'Octav.",
             "hu": "Az esős biciklitúra a fedett piacon indul. Délben keressen menedéket a templomban, majd óvatosan tekerjen a csúszós utakon a romokhoz. A délután nedves régészeti felfedezéseket tartogat; a vízálló felszerelés kötelező. Zárja az estét megszáradva a L'Octavban.",
             "ro": "O plimbare ploioasă cu bicicleta începe la piața acoperită. La prânz, adăpostiți-vă în biserică și pedalați cu grijă pe potecile alunecoase. După-amiaza aduce explorări arheologice umede; echipamentul impermeabil este obligatoriu. Încheiați seara la L'Octav.",
-            "en": "A rainy bike ride starts at the covered market. Midday, seek shelter in the church and ride carefully to the ruins on slippery paths. Afternoon brings wet archaeological explorations; make sure to wear waterproof gear. Finish the evening drying off at L'Octav after navigating the slick roads."
+            "en": "A rainy bike ride starts at the covered market. Midday, seek shelter in the church and ride carefully to the ruins on slippery paths. Afternoon brings wet archaeological explorations; make sure to wear waterproof gear. Finish the evening drying off at L'Octav after navigating the slick roads.",
+            "fr": "Une balade à vélo sous la pluie commence au marché couvert. À midi, cherchez un abri dans l'église et roulez prudemment jusqu'aux ruines sur des sentiers glissants. L'après-midi apporte des explorations archéologiques mouillées ; assurez-vous de porter des vêtements imperméables. Terminez la soirée à L'Octav pour vous sécher après avoir circulé sur des routes luisantes."
           },
           "stops": [
             {
@@ -468,13 +515,15 @@
                 "de": "Vic-en-Bigorre Market Hall",
                 "hu": "Vic-en-Bigorre Market Hall",
                 "ro": "Vic-en-Bigorre Market Hall",
-                "en": "Vic-en-Bigorre Market Hall"
+                "en": "Vic-en-Bigorre Market Hall",
+                "fr": "Halle du marché de Vic-en-Bigorre"
               },
               "tip_5lang": {
                 "de": "Ein toller überdachter Start; halten Sie Ihren Fahrradsattel trocken, während Sie das Gebäude erkunden.",
                 "hu": "Remek fedett indulópont; tartsa szárazon a kerékpár nyergét, amíg körülnéz a piacon a zuhogó esőben.",
                 "ro": "Un început acoperit excelent; mențineți șaua bicicletei uscată în timp ce explorați clădirea pe timp de ploaie.",
-                "en": "Great covered start; keep your bike seat dry under the roof while you browse the stalls during a shower."
+                "en": "Great covered start; keep your bike seat dry under the roof while you browse the stalls during a shower.",
+                "fr": "Excellent départ couvert ; gardez votre selle au sec sous le toit pendant que vous parcourez les étals sous la pluie."
               }
             },
             {
@@ -482,13 +531,15 @@
                 "de": "Saint-Martin Church",
                 "hu": "Saint-Martin Church",
                 "ro": "Saint-Martin Church",
-                "en": "Saint-Martin Church"
+                "en": "Saint-Martin Church",
+                "fr": "Église Saint-Martin"
               },
               "tip_5lang": {
                 "de": "Ein perfekter trockener Stopp; achten Sie beim Radfahren auf rutschiges Kopfsteinpflaster rund um die Kirche.",
                 "hu": "Tökéletes száraz megálló; kerékpározás közben nagyon ügyeljen a templom körüli csúszós macskakövekre.",
                 "ro": "O oprire perfectă la uscat; aveți mare grijă la piatra cubică alunecoasă din jurul bisericii când pedalați.",
-                "en": "A perfect dry stop; watch out carefully for slippery cobblestones outside the church when parking your bike."
+                "en": "A perfect dry stop; watch out carefully for slippery cobblestones outside the church when parking your bike.",
+                "fr": "Un arrêt parfait à l'abri ; faites attention aux pavés glissants à l'extérieur de l'église lorsque vous garez votre vélo."
               }
             },
             {
@@ -496,13 +547,15 @@
                 "de": "Castrum Bigorra",
                 "hu": "Castrum Bigorra",
                 "ro": "Castrum Bigorra",
-                "en": "Castrum Bigorra"
+                "en": "Castrum Bigorra",
+                "fr": "Castrum Bigorra"
               },
               "tip_5lang": {
                 "de": "Die Ruinen sehen im Regen dramatisch aus; treten Sie vorsichtig auf die nassen Steine und bremsen Sie sanft.",
                 "hu": "A romok drámaian festenek az esőben; lépkedjen óvatosan a vizes köveken, és fékezzen finoman az odavezető úton.",
                 "ro": "Ruinele arată dramatic în ploaie; pășiți cu grijă pe pietrele ude și frânați ușor pe drumul de acces.",
-                "en": "The ruins look dramatic in the rain; tread carefully on wet stones and brake gently on your approach."
+                "en": "The ruins look dramatic in the rain; tread carefully on wet stones and brake gently on your approach.",
+                "fr": "Les ruines ont un aspect dramatique sous la pluie ; marchez prudemment sur les pierres mouillées et freinez en douceur à l'approche."
               }
             },
             {
@@ -510,13 +563,15 @@
                 "de": "Site archéologique de Castetbieilh",
                 "hu": "Site archéologique de Castetbieilh",
                 "ro": "Site archéologique de Castetbieilh",
-                "en": "Site archéologique de Castetbieilh"
+                "en": "Site archéologique de Castetbieilh",
+                "fr": "Site archéologique de Castetbieilh"
               },
               "tip_5lang": {
                 "de": "Bringen Sie einen guten Regenmantel für diese archäologische Freiluftstätte mit. Der Boden kann sehr schlammig werden.",
                 "hu": "Hozzon egy jó esőkabátot ehhez a szabadtéri régészeti lelőhelyhez. A talaj nagyon sárossá és csúszóssá válhat.",
                 "ro": "Aduceți o pelerină bună de ploaie pentru acest sit arheologic în aer liber. Solul poate deveni foarte noroios.",
-                "en": "Bring a good raincoat for this open-air archaeological site. The ground can get very muddy and slick for bike tires."
+                "en": "Bring a good raincoat for this open-air archaeological site. The ground can get very muddy and slick for bike tires.",
+                "fr": "Apportez une bonne imperméable pour ce site archéologique en plein air. Le sol peut devenir très boueux et glissant pour les pneus de vélo."
               }
             },
             {
@@ -524,13 +579,15 @@
                 "de": "Le Prieuré",
                 "hu": "Le Prieuré",
                 "ro": "Le Prieuré",
-                "en": "Le Prieuré"
+                "en": "Le Prieuré",
+                "fr": "Le Prieuré"
               },
               "tip_5lang": {
                 "de": "Friedliche regnerische Atmosphäre; bremsen Sie auf den nassen Straßen rund um das Gelände sanft ab.",
                 "hu": "Békés esős hangulat; fékezzen finoman és óvatosan a terület körüli nedves utakon, hogy elkerülje az elcsúszást.",
                 "ro": "Atmosferă ploioasă liniștită; frânați ușor pe drumurile umede din jurul zonei pentru a evita derapajele.",
-                "en": "Peaceful rainy atmosphere; brake gently on the wet approach roads around the site to avoid slipping."
+                "en": "Peaceful rainy atmosphere; brake gently on the wet approach roads around the site to avoid slipping.",
+                "fr": "Atmosphère pluvieuse paisible ; freinez doucement sur les voies d'approche humides autour du site pour éviter de glisser."
               }
             },
             {
@@ -538,13 +595,15 @@
                 "de": "L'Octav",
                 "hu": "L'Octav",
                 "ro": "L'Octav",
-                "en": "L'Octav"
+                "en": "L'Octav",
+                "fr": "L'Octav"
               },
               "tip_5lang": {
                 "de": "Hervorragendes Indoor-Finale, um sich nach dem Navigieren auf nassen Straßen aufzuwärmen und vollständig zu trocknen.",
                 "hu": "Kiváló beltéri finálé, ahol felmelegedhet és teljesen megszáradhat a csúszós utakon való navigálás után.",
                 "ro": "Un final excelent în interior pentru a vă încălzi și usca complet după ce ați navigat pe drumurile ude.",
-                "en": "Excellent indoor finale to warm up and dry off completely after navigating the slick, rain-soaked roads."
+                "en": "Excellent indoor finale to warm up and dry off completely after navigating the slick, rain-soaked roads.",
+                "fr": "Excellent final intérieur pour vous réchauffer et vous sécher complètement après avoir affronté les routes détrempées."
               }
             }
           ]
@@ -554,7 +613,8 @@
             "de": "Ein frischer Wintermorgen beginnt auf dem Markt. Wärmen Sie sich mittags in der Kirche auf, bevor Sie zu den Ruinen fahren; achten Sie auf Eisflächen. Die nachmittägliche Erkundung der Stätten erfordert Thermokleidung. Erreichen Sie das L'Octav, wenn die Sonne gegen 17 Uhr früh untergeht.",
             "hu": "A csípős téli reggel a piacon indul. Délben melegedjen fel a templomban, mielőtt a romokhoz tekerne; ügyeljen a jeges foltokra. A régészeti lelőhelyek délutáni felfedezése termo öltözéket igényel. Érkezzen meg a L'Octavba, amikor a nap már 17:00 óra körül lemegy.",
             "ro": "O dimineață de iarnă geroasă începe la piață. La prânz, încălziți-vă în biserică înainte de a merge spre ruine; atenție la gheață. Explorarea de după-amiază a siturilor necesită straturi termice. Ajungeți la L'Octav când soarele apune devreme, în jur de ora 17:00.",
-            "en": "A crisp winter morning starts at the bustling market. Midday, warm up in the church before riding to the ancient ruins; watch for icy patches. Afternoon exploration of the archaeological sites requires thermal layers. Arrive at L'Octav as the sun sets early around 5 PM for a cozy evening."
+            "en": "A crisp winter morning starts at the bustling market. Midday, warm up in the church before riding to the ancient ruins; watch for icy patches. Afternoon exploration of the archaeological sites requires thermal layers. Arrive at L'Octav as the sun sets early around 5 PM for a cozy evening.",
+            "fr": "Un matin d'hiver vif commence au marché animé. À midi, réchauffez-vous dans l'église avant de rouler vers les ruines anciennes ; faites attention aux plaques de verglas. L'exploration de l'après-midi des sites archéologiques exige des couches thermiques. Arrivez à L'Octav au coucher du soleil, vers 17 h, pour une soirée chaleureuse."
           },
           "stops": [
             {
@@ -562,13 +622,15 @@
                 "de": "Vic-en-Bigorre Market Hall",
                 "hu": "Vic-en-Bigorre Market Hall",
                 "ro": "Vic-en-Bigorre Market Hall",
-                "en": "Vic-en-Bigorre Market Hall"
+                "en": "Vic-en-Bigorre Market Hall",
+                "fr": "Halle du marché de Vic-en-Bigorre"
               },
               "tip_5lang": {
                 "de": "Holen Sie sich einen heißen lokalen Snack, um Energie für Ihre kühle morgendliche Radtour zu tanken.",
                 "hu": "Vegyen egy forró helyi harapnivalót, hogy energiát gyűjtsön a hűvös reggeli kerékpározáshoz.",
                 "ro": "Luați o gustare caldă locală pentru a prinde puteri pentru plimbarea răcoroasă de dimineață cu bicicleta.",
-                "en": "Grab a hot local snack to fuel your chilly morning ride and warm your hands off the handlebars."
+                "en": "Grab a hot local snack to fuel your chilly morning ride and warm your hands off the handlebars.",
+                "fr": "Prenez un en-cas chaud local pour alimenter votre balade matinale fraîche et réchauffer vos mains loin du guidon."
               }
             },
             {
@@ -576,13 +638,15 @@
                 "de": "Saint-Martin Church",
                 "hu": "Saint-Martin Church",
                 "ro": "Saint-Martin Church",
-                "en": "Saint-Martin Church"
+                "en": "Saint-Martin Church",
+                "fr": "Église Saint-Martin"
               },
               "tip_5lang": {
                 "de": "Wärmen Sie Ihre Hände in diesem wunderschönen Heiligtum. Tragen Sie beim Radfahren warme Handschuhe.",
                 "hu": "Melegítse fel a kezét ebben a gyönyörű szentélyben. Ne felejtsen el meleg kesztyűt viselni a tekeréshez.",
                 "ro": "Încălziți-vă mâinile în acest sanctuar frumos. Nu uitați să purtați mănuși groase pentru pedalat.",
-                "en": "Warm your hands inside this beautiful sanctuary. Make sure you wear thick winter gloves for the ride ahead."
+                "en": "Warm your hands inside this beautiful sanctuary. Make sure you wear thick winter gloves for the ride ahead.",
+                "fr": "Réchauffez vos mains à l'intérieur de ce beau sanctuaire. Assurez-vous de porter des gants d'hiver épais pour la suite du trajet."
               }
             },
             {
@@ -590,13 +654,15 @@
                 "de": "Castrum Bigorra",
                 "hu": "Castrum Bigorra",
                 "ro": "Castrum Bigorra",
-                "en": "Castrum Bigorra"
+                "en": "Castrum Bigorra",
+                "fr": "Castrum Bigorra"
               },
               "tip_5lang": {
                 "de": "Die offenen Ruinen sind windig; tragen Sie eine Windjacke und Thermoschichten für den Spaziergang.",
                 "hu": "A nyitott romoknál nagyon fúj a szél; viseljen szélkabátot és termo rétegeket a sétához a biciklizés után.",
                 "ro": "Ruinele deschise sunt bătute de vânt; purtați o geacă de vânt și straturi termice pentru plimbare.",
-                "en": "The open ruins are windy; wear a sturdy windbreaker and thermal layers to stay comfortable off the bike."
+                "en": "The open ruins are windy; wear a sturdy windbreaker and thermal layers to stay comfortable off the bike.",
+                "fr": "Les ruines sont exposées au vent ; portez une bonne coupe-vent et des couches thermiques pour rester à l'aise hors du vélo."
               }
             },
             {
@@ -604,13 +670,15 @@
                 "de": "Site archéologique de Castetbieilh",
                 "hu": "Site archéologique de Castetbieilh",
                 "ro": "Site archéologique de Castetbieilh",
-                "en": "Site archéologique de Castetbieilh"
+                "en": "Site archéologique de Castetbieilh",
+                "fr": "Site archéologique de Castetbieilh"
               },
               "tip_5lang": {
                 "de": "Erkunden Sie die frostige Stätte zügig, bevor das Winterlicht schwindet. Vorsicht vor überfrorener Nässe.",
                 "hu": "Fedezze fel a fagyos területet gyorsan, mielőtt a téli fény elhalványul. Vigyázzon a láthatatlan jégréteggel az utakon.",
                 "ro": "Explorați situl înghețat rapid înainte ca lumina de iarnă să scadă. Atenție la gheața invizibilă de pe drum.",
-                "en": "Explore the frosty site quickly before the winter light fades. Be extremely cautious of black ice on the paths."
+                "en": "Explore the frosty site quickly before the winter light fades. Be extremely cautious of black ice on the paths.",
+                "fr": "Explorez rapidement le site givré avant que la lumière hivernale ne faiblisse. Soyez extrêmement prudent(e) face au verglas sur les sentiers."
               }
             },
             {
@@ -618,13 +686,15 @@
                 "de": "Le Prieuré",
                 "hu": "Le Prieuré",
                 "ro": "Le Prieuré",
-                "en": "Le Prieuré"
+                "en": "Le Prieuré",
+                "fr": "Le Prieuré"
               },
               "tip_5lang": {
                 "de": "Ruhige Winteraussichten; seien Sie vorsichtig bei Frost auf schattigen Wegen während der Anfahrt.",
                 "hu": "Nyugodt téli kilátás; legyen nagyon óvatos a fagyos, árnyékos utakon a megközelítés során.",
                 "ro": "Vederi liniștite de iarnă; fiți foarte prudenți la înghețul de pe potecile umbrite în timpul apropierii.",
-                "en": "Serene winter views; be highly cautious of frost and ice on the shaded paths as you bike towards the site."
+                "en": "Serene winter views; be highly cautious of frost and ice on the shaded paths as you bike towards the site.",
+                "fr": "Vues hivernales sereines ; soyez très vigilant(e) quant au givre et au verglas sur les chemins ombragés en vous rendant au site à vélo."
               }
             },
             {
@@ -632,13 +702,15 @@
                 "de": "L'Octav",
                 "hu": "L'Octav",
                 "ro": "L'Octav",
-                "en": "L'Octav"
+                "en": "L'Octav",
+                "fr": "L'Octav"
               },
               "tip_5lang": {
                 "de": "Ein warmer kultureller Zufluchtsort, genau wenn die frühe Dunkelheit gegen 17 Uhr hereinbricht.",
                 "hu": "Meleg kulturális menedék, pont amikor 17:00 óra körül leszáll a korai sötétség; jó hely a felengedésre.",
                 "ro": "Un refugiu cultural cald, exact când întunericul cade devreme, în jur de ora 17:00; perfect pentru dezghețare.",
-                "en": "A warm cultural refuge right as the early darkness falls around 5 PM; a perfect spot to thaw your fingers."
+                "en": "A warm cultural refuge right as the early darkness falls around 5 PM; a perfect spot to thaw your fingers.",
+                "fr": "Un refuge culturel chaleureux juste au moment où la nuit tombe tôt vers 17 h ; un endroit parfait pour dégeler vos doigts."
               }
             }
           ]
@@ -658,7 +730,8 @@
             "de": "Église Saint-Nazaire",
             "hu": "Église Saint-Nazaire",
             "ro": "Église Saint-Nazaire",
-            "en": "Église Saint-Nazaire"
+            "en": "Église Saint-Nazaire",
+            "fr": "Église Saint-Nazaire"
           },
           "coords": [
             0.076666,
@@ -673,7 +746,8 @@
             "de": "Besuchen Sie diese charmante ländliche Kirche, die für ihren regionalen Charakter bekannt ist, und parken Sie Ihr Auto respektvoll nahe dem kleinen angrenzenden Friedhof.",
             "hu": "Látogassa meg ezt a jellegzetes regionális karakteréről ismert bájos vidéki templomot, és autóját tisztelettudóan a helyszín melletti kis temető közelében parkolja le.",
             "ro": "Vizitați această biserică rurală fermecătoare cunoscută pentru caracterul ei regional distinct, parcându-vă mașina cu respect lângă micul cimitir adiacent sitului.",
-            "en": "Visit this charming rural church known for its distinct regional character and quiet setting, parking your car respectfully near the small cemetery adjacent to the site."
+            "en": "Visit this charming rural church known for its distinct regional character and quiet setting, parking your car respectfully near the small cemetery adjacent to the site.",
+            "fr": "Visitez cette charmante église rurale connue pour son caractère régional distinct et son cadre paisible, en vous garant respectueusement près du petit cimetière adjacent au site."
           }
         },
         {
@@ -681,7 +755,8 @@
             "de": "L'Octav",
             "hu": "L'Octav",
             "ro": "L'Octav",
-            "en": "L'Octav"
+            "en": "L'Octav",
+            "fr": "L'Octav"
           },
           "coords": [
             0.055122,
@@ -696,7 +771,8 @@
             "de": "Entdecken Sie zeitgenössische Ausstellungen und kulturelle Veranstaltungen in diesem Zentrum, und nehmen Sie sich am Eingang ein kostenloses Programmheft mit.",
             "hu": "Fedezze fel a kortárs kiállításokat és kulturális eseményeket ebben a dinamikus központban, és ne felejtsen el felmarkolni egy ingyenes programfüzetet.",
             "ro": "Descoperiți expozițiile contemporane și evenimentele culturale din acest centru dinamic, luându-vă un moment pentru a lua un ghid gratuit de la intrarea principală.",
-            "en": "Discover contemporary exhibitions and vibrant cultural events in this dynamic local center, taking a moment to grab a free program guide at the main entrance."
+            "en": "Discover contemporary exhibitions and vibrant cultural events in this dynamic local center, taking a moment to grab a free program guide at the main entrance.",
+            "fr": "Découvrez des expositions contemporaines et des événements culturels vibrants dans ce centre local dynamique, en prenant un moment pour récupérer un guide-programme gratuit à l'entrée principale."
           }
         },
         {
@@ -704,7 +780,8 @@
             "de": "Vic-en-Bigorre Market Hall",
             "hu": "Vic-en-Bigorre Market Hall",
             "ro": "Vic-en-Bigorre Market Hall",
-            "en": "Vic-en-Bigorre Market Hall"
+            "en": "Vic-en-Bigorre Market Hall",
+            "fr": "Halle du marché de Vic-en-Bigorre"
           },
           "coords": [
             0.054532,
@@ -719,7 +796,8 @@
             "de": "Erkunden Sie die lebhafte Markthalle, um authentische regionale Produkte von lokalen Bauern zu probieren, und kommen Sie früh für die beste Auswahl.",
             "hu": "Fedezze fel a nyüzsgő vásárcsarnokot és kóstolja meg a helyi termelők autentikus regionális portékáit, de érdemes minél korábban érkezni a legfrissebb árukért.",
             "ro": "Explorați piața acoperită animată pentru a gusta produse regionale autentice de la fermieri locali, ajungând devreme pentru a prinde cea mai proaspătă marfă.",
-            "en": "Explore the bustling covered market hall to taste authentic regional products from local farmers, arriving early to get the freshest goods available."
+            "en": "Explore the bustling covered market hall to taste authentic regional products from local farmers, arriving early to get the freshest goods available.",
+            "fr": "Explorez la halle couverte animée pour goûter des produits régionaux authentiques issus d'agriculteurs locaux, en arrivant tôt pour obtenir les produits les plus frais disponibles."
           }
         },
         {
@@ -727,7 +805,8 @@
             "de": "Hôtel de Journet",
             "hu": "Hôtel de Journet",
             "ro": "Hôtel de Journet",
-            "en": "Hôtel de Journet"
+            "en": "Hôtel de Journet",
+            "fr": "Hôtel de Journet"
           },
           "coords": [
             0.0534,
@@ -742,7 +821,8 @@
             "de": "Bestaunen Sie die elegante Fassade dieser historischen Adelsresidenz, die die Architektur prägt, am besten fotografiert im weichen Licht des Nachmittags.",
             "hu": "Csodálja meg ennek a városképet meghatározó történelmi nemesi rezidenciának az elegáns homlokzatát, amelyet érdemes a lágy délutáni fényekben lencsevégre kapni.",
             "ro": "Minunați-vă de fațada elegantă a acestei reședințe nobiliare istorice care definește arhitectura orașului, de preferat fotografiată în lumina blândă a după-amiezii.",
-            "en": "Marvel at the elegant facade of this historic noble residence that defines the town's architecture, ideally photographing it in the soft warm afternoon light."
+            "en": "Marvel at the elegant facade of this historic noble residence that defines the town's architecture, ideally photographing it in the soft warm afternoon light.",
+            "fr": "Admirez la façade élégante de cette résidence noble historique qui définit l'architecture de la ville, idéalement photographiée dans la douce lumière chaude de l'après-midi."
           }
         },
         {
@@ -750,7 +830,8 @@
             "de": "Castrum Bigorra",
             "hu": "Castrum Bigorra",
             "ro": "Castrum Bigorra",
-            "en": "Castrum Bigorra"
+            "en": "Castrum Bigorra",
+            "fr": "Castrum Bigorra"
           },
           "coords": [
             0.027346,
@@ -765,7 +846,8 @@
             "de": "Erkunden Sie die alten Grundmauern dieser mittelalterlichen Festung, die einst die Region bewachte, und tragen Sie festes Schuhwerk für das unebene Gelände.",
             "hu": "Fedezze fel a régiót egykor őrző középkori erődítmény ősi alapjait és maradványait, de mindenképpen viseljen strapabíró túracipőt az egyenetlen történelmi terepen.",
             "ro": "Explorați fundațiile antice ale acestei fortărețe medievale care odată păzea întreaga regiune, purtând încălțăminte de mers robustă pentru terenul istoric accidentat.",
-            "en": "Explore the ancient foundations of this medieval fortress that once guarded the entire region, wearing sturdy walking shoes to navigate the uneven terrain safely."
+            "en": "Explore the ancient foundations of this medieval fortress that once guarded the entire region, wearing sturdy walking shoes to navigate the uneven terrain safely.",
+            "fr": "Explorez les fondations anciennes de cette forteresse médiévale qui protégeait autrefois toute la région, en portant des chaussures de marche solides pour circuler en toute sécurité sur le terrain irrégulier."
           }
         },
         {
@@ -773,7 +855,8 @@
             "de": "Site archéologique de Castetbieilh",
             "hu": "Site archéologique de Castetbieilh",
             "ro": "Site archéologique de Castetbieilh",
-            "en": "Site archéologique de Castetbieilh"
+            "en": "Site archéologique de Castetbieilh",
+            "fr": "Site archéologique de Castetbieilh"
           },
           "coords": [
             0.028965,
@@ -788,7 +871,8 @@
             "de": "Machen Sie eine Zeitreise durch diese antiken Ruinen, die frühe Siedlungen offenbaren, und nehmen Sie in den wärmeren Sommermonaten eine kleine Wasserflasche mit.",
             "hu": "Repüljön vissza az időben ezeknek a korai településeket feltáró ősi romoknak a bejárásával, és a melegebb nyári hónapokban mindig tartson magánál egy kis üveg vizet.",
             "ro": "Întoarceți-vă în timp plimbându-vă prin aceste ruine antice care dezvăluie așezări timpurii, având la voi o sticlă mică de apă în timpul lunilor mai calde de vară.",
-            "en": "Step back in time by wandering through these ancient local ruins that reveal early settlements, carrying a small water bottle during the warmer summer months."
+            "en": "Step back in time by wandering through these ancient local ruins that reveal early settlements, carrying a small water bottle during the warmer summer months.",
+            "fr": "Remontez le temps en déambulant dans ces vestiges locaux anciens qui révèlent des installations précoces, en emportant une petite bouteille d'eau pendant les chauds mois d'été."
           }
         },
         {
@@ -796,7 +880,8 @@
             "de": "Le Prieuré",
             "hu": "Le Prieuré",
             "ro": "Le Prieuré",
-            "en": "Le Prieuré"
+            "en": "Le Prieuré",
+            "fr": "Le Prieuré"
           },
           "coords": [
             0.030264,
@@ -811,7 +896,8 @@
             "de": "Genießen Sie die friedliche Atmosphäre dieser von Natur umgebenen alten religiösen Stätte, und achten Sie darauf, Ihre Stimme zu senken, um die Ruhe zu wahren.",
             "hu": "Élvezze ennek a természettel teljesen körülvett régi vallási helyszínnek a békés atmoszféráját, és ügyeljen arra, hogy halkan beszéljen a nyugodt környezet tiszteletben tartásáért.",
             "ro": "Bucurați-vă de atmosfera pașnică a acestui vechi sit religios înconjurat de natură, asigurându-vă că mențineți un ton scăzut pentru a respecta mediul liniștit.",
-            "en": "Enjoy the peaceful atmosphere of this old religious site completely surrounded by nature, making sure to keep your voice down to respect the tranquil environment."
+            "en": "Enjoy the peaceful atmosphere of this old religious site completely surrounded by nature, making sure to keep your voice down to respect the tranquil environment.",
+            "fr": "Profitez de l'atmosphère paisible de ce vieux site religieux complètement entouré par la nature, en gardant la voix basse pour respecter cet environnement tranquille."
           }
         }
       ],
@@ -819,7 +905,8 @@
         "de": "Beginnen Sie Ihre Autotour etwas außerhalb an der charmanten Église Saint-Nazaire und fahren Sie dann ins Zentrum zum kulturellen L'Octav.\nParken Sie mittags nahe der Markthalle, um das lokale Treiben zu erleben und zu Mittag zu essen, bevor Sie das Hôtel de Journet besichtigen.\nFahren Sie am Nachmittag zum südlichen historischen Komplex, um das Castrum Bigorra und die angrenzenden archäologischen Ruinen zu erkunden.\nBeenden Sie den Tag mit einer kurzen Fahrt zum Le Prieuré und genießen Sie die friedliche Atmosphäre der Landschaft im Sonnenuntergang.",
         "hu": "Kezdje az autós túrát a központon kívül található bájos Église Saint-Nazaire templomnál, majd hajtson be a városba a L'Octav kulturális központjához.\nDélben parkoljon le a piac közelében, hogy megtapasztalja a nyüzsgő kereskedelmet és megebédeljen, majd tegyen egy rövid kitérőt a Hôtel de Journet-hez.\nDélután vezessen ki a déli történelmi övezethez, hogy alaposan felfedezze a Castrum Bigorra erődítményt és a szomszédos régészeti romokat.\nZárja a napot egy rövid autóúttal a Le Prieuré-hoz, és élvezze a vidéki táj békés atmoszféráját, miközben a nap lassan nyugovóra tér.",
         "ro": "Începeți turul auto la fermecătoarea Église Saint-Nazaire, apoi îndreptați-vă înapoi în oraș pentru a vizita centrul cultural L'Octav.\nLa prânz, parcați lângă piața centrală pentru a experimenta comerțul local și a lua prânzul, urmat de o vizită scurtă la Hôtel de Journet.\nDupă-amiaza, conduceți spre complexul istoric sudic pentru a explora amănunțit atât Castrum Bigorra, cât și ruinele arheologice adiacente.\nÎncheiați ziua cu o scurtă plimbare cu mașina la Le Prieuré, bucurându-vă de atmosfera senină a mediului rural pe măsură ce soarele apune.",
-        "en": "Begin your driving tour just outside the main center at the charming Église Saint-Nazaire, then head back into town to visit the cultural hub of L'Octav.\nFor midday, park near the central market hall to experience the vibrant local trade and grab lunch, then briefly visit the nearby Hôtel de Journet.\nIn the afternoon, drive out to the southern historical cluster to thoroughly explore both the Castrum Bigorra and the adjacent archaeological ruins.\nFinish your day with a short drive to Le Prieuré, taking in the serene atmosphere and beautiful countryside setting as the sun begins to set."
+        "en": "Begin your driving tour just outside the main center at the charming Église Saint-Nazaire, then head back into town to visit the cultural hub of L'Octav.\nFor midday, park near the central market hall to experience the vibrant local trade and grab lunch, then briefly visit the nearby Hôtel de Journet.\nIn the afternoon, drive out to the southern historical cluster to thoroughly explore both the Castrum Bigorra and the adjacent archaeological ruins.\nFinish your day with a short drive to Le Prieuré, taking in the serene atmosphere and beautiful countryside setting as the sun begins to set.",
+        "fr": "Commencez votre circuit en voiture juste à l'extérieur du centre principal à la charmante Église Saint-Nazaire, puis retournez en ville pour visiter le pôle culturel de L'Octav.\nPour le déjeuner, garez-vous près de la halle du marché central pour vivre le commerce local vibrant et déjeuner, puis visitez brièvement le proche Hôtel de Journet.\nL'après-midi, dirigez-vous vers l'ensemble historique du sud pour explorer en profondeur le Castrum Bigorra et les ruines archéologiques adjacentes.\nTerminez votre journée par une courte route jusqu'au Prieuré, en profitant de l'atmosphère sereine et du beau cadre campagnard alors que le soleil commence à se coucher."
       },
       "variants": {
         "rainy": {
@@ -827,7 +914,8 @@
             "de": "Beginnen Sie Ihre regnerische Fahrt mit einem trockenen Besuch der Église Saint-Nazaire. Mittags bieten sich Rückzugsorte im L'Octav und im überdachten Markt. Nachmittagsschauer erfordern einen Regenschirm am Hôtel de Journet und den schlammigen Ruinen. Beenden Sie den feuchten Abend mit einer vorsichtigen Fahrt zum Le Prieuré.",
             "hu": "Kezdje esős autózását a száraz Église Saint-Nazaire meglátogatásával. A dél térségi menedéket kínál a L'Octavban és a fedett piacon. A délutáni záporok esernyőt követelnek a Hôtel de Journet-nél és a sáros romoknál. Zárja a nedves estét egy óvatos, festői autózással a Le Prieuré felé.",
             "ro": "Începeți traseul ploios cu o vizită uscată la Église Saint-Nazaire. Prânzul oferă refugii interioare la L'Octav și în piața acoperită. Aversele de după-amiază necesită o umbrelă la Hôtel de Journet și la ruinele noroioase. Încheiați seara cu o condus prudent spre pitorescul Le Prieuré.",
-            "en": "Begin your rainy drive with a dry visit to Église Saint-Nazaire. Midday offers indoor retreats at L'Octav and the covered market. Afternoon showers mean using an umbrella at Hôtel de Journet and the muddy ruins. Conclude your wet evening with a scenic, cautious drive to the atmospheric Le Prieuré."
+            "en": "Begin your rainy drive with a dry visit to Église Saint-Nazaire. Midday offers indoor retreats at L'Octav and the covered market. Afternoon showers mean using an umbrella at Hôtel de Journet and the muddy ruins. Conclude your wet evening with a scenic, cautious drive to the atmospheric Le Prieuré.",
+            "fr": "Commencez votre trajet pluvieux par une visite au sec de l'Église Saint-Nazaire. À midi, profitez des refuges intérieurs à L'Octav et à la halle couverte. Les averses de l'après-midi imposent l'usage d'un parapluie à l'Hôtel de Journet et sur les ruines boueuses. Concluez votre soirée humide par une route panoramique et prudente jusqu'au Prieuré atmosphérique."
           },
           "stops": [
             {
@@ -835,13 +923,15 @@
                 "de": "Église Saint-Nazaire",
                 "hu": "Église Saint-Nazaire",
                 "ro": "Église Saint-Nazaire",
-                "en": "Église Saint-Nazaire"
+                "en": "Église Saint-Nazaire",
+                "fr": "Église Saint-Nazaire"
               },
               "tip_5lang": {
                 "de": "Parken Sie nah, um den Regen zu vermeiden, und genießen Sie das trockene, friedliche Kirchenschiff.",
                 "hu": "Parkoljon közel, hogy elkerülje az esőt, és élvezze a száraz, békés templomhajót a reggeli vihar alatt.",
                 "ro": "Parcați aproape pentru a evita ploaia și bucurați-vă de nava uscată și pașnică în timpul furtunii de dimineață.",
-                "en": "Park close to the entrance to avoid the rain and enjoy the dry, peaceful nave during the morning showers."
+                "en": "Park close to the entrance to avoid the rain and enjoy the dry, peaceful nave during the morning showers.",
+                "fr": "Garez-vous près de l'entrée pour éviter la pluie et profitez de la nef sèche et paisible pendant les averses matinales."
               }
             },
             {
@@ -849,13 +939,15 @@
                 "de": "L'Octav",
                 "hu": "L'Octav",
                 "ro": "L'Octav",
-                "en": "L'Octav"
+                "en": "L'Octav",
+                "fr": "L'Octav"
               },
               "tip_5lang": {
                 "de": "Perfekte Indoor-Flucht vor dem morgendlichen Platzregen. Der Parkplatz befindet sich in der Nähe.",
                 "hu": "Tökéletes beltéri menedék a reggeli felhőszakadás elől. A parkoló kényelmesen, a közelben található.",
                 "ro": "Scăpare perfectă în interior din calea ploii torențiale de dimineață. Parcarea se află convenabil în apropiere.",
-                "en": "Perfect indoor escape from the morning downpour. Parking is conveniently located close to the venue."
+                "en": "Perfect indoor escape from the morning downpour. Parking is conveniently located close to the venue.",
+                "fr": "Parfait refuge intérieur contre la pluie du matin. Le stationnement est idéalement situé à proximité du lieu."
               }
             },
             {
@@ -863,13 +955,15 @@
                 "de": "Vic-en-Bigorre Market Hall",
                 "hu": "Vic-en-Bigorre Market Hall",
                 "ro": "Vic-en-Bigorre Market Hall",
-                "en": "Vic-en-Bigorre Market Hall"
+                "en": "Vic-en-Bigorre Market Hall",
+                "fr": "Halle du marché de Vic-en-Bigorre"
               },
               "tip_5lang": {
                 "de": "Kaufen Sie lokale Waren unter dem weitläufigen Schutzdach. Ein Regenschirm ist für den Weg vom Auto ratsam.",
                 "hu": "Vásároljon helyi termékeket a hatalmas védőtető alatt. Az autótól a bejáratig érdemes esernyőt használni.",
                 "ro": "Cumpărați produse locale sub acoperișul protector vast. O umbrelă este utilă de la mașină până la intrare.",
-                "en": "Shop for local goods under the expansive protective roof. Have your umbrella ready for the walk from the car."
+                "en": "Shop for local goods under the expansive protective roof. Have your umbrella ready for the walk from the car.",
+                "fr": "Achetez des produits locaux sous le vaste toit protecteur. Ayez votre parapluie prêt pour le trajet depuis la voiture."
               }
             },
             {
@@ -877,13 +971,15 @@
                 "de": "Hôtel de Journet",
                 "hu": "Hôtel de Journet",
                 "ro": "Hôtel de Journet",
-                "en": "Hôtel de Journet"
+                "en": "Hôtel de Journet",
+                "fr": "Hôtel de Journet"
               },
               "tip_5lang": {
                 "de": "Halten Sie Ihren Regenschirm bereit, wenn Sie aus dem Auto steigen, um Fotos von der Fassade zu machen.",
                 "hu": "Tartsa készenlétben az esernyőjét, amikor kiszáll az autóból, hogy kényelmesen lefotózhassa a homlokzatot.",
                 "ro": "Țineți umbrela pregătită când coborâți din mașină pentru a face fotografii confortabile ale fațadei.",
-                "en": "Keep your umbrella ready when stepping out of the car to comfortably snap photos of the historic facade."
+                "en": "Keep your umbrella ready when stepping out of the car to comfortably snap photos of the historic facade.",
+                "fr": "Gardez votre parapluie à portée de main en sortant de la voiture pour prendre confortablement des photos de la façade historique."
               }
             },
             {
@@ -891,13 +987,15 @@
                 "de": "Castrum Bigorra",
                 "hu": "Castrum Bigorra",
                 "ro": "Castrum Bigorra",
-                "en": "Castrum Bigorra"
+                "en": "Castrum Bigorra",
+                "fr": "Castrum Bigorra"
               },
               "tip_5lang": {
                 "de": "Das Gelände wird sehr schlammig; tragen Sie wasserdichte Stiefel für Ihren kurzen Spaziergang vom Parkplatz.",
                 "hu": "A terület nagyon sárossá válik; viseljen vízálló bakancsot a parkolóból induló rövid sétához.",
                 "ro": "Situl devine foarte noroios; purtați cizme impermeabile pentru scurta plimbare de la parcare.",
-                "en": "The site gets quite muddy; make sure you wear waterproof boots for your short walk from the parking area."
+                "en": "The site gets quite muddy; make sure you wear waterproof boots for your short walk from the parking area.",
+                "fr": "Le site devient très boueux ; assurez-vous de porter des bottes imperméables pour la courte marche depuis le parking."
               }
             },
             {
@@ -905,13 +1003,15 @@
                 "de": "Site archéologique de Castetbieilh",
                 "hu": "Site archéologique de Castetbieilh",
                 "ro": "Site archéologique de Castetbieilh",
-                "en": "Site archéologique de Castetbieilh"
+                "en": "Site archéologique de Castetbieilh",
+                "fr": "Site archéologique de Castetbieilh"
               },
               "tip_5lang": {
                 "de": "Ein Regenschirm ist für die Erkundung dieser nassen, unbefestigten Ruinen abseits der Hauptstraße unerlässlich.",
                 "hu": "Az esernyő elengedhetetlen a nedves, burkolatlan romok felfedezéséhez a főúttól távolabb.",
                 "ro": "O umbrelă este esențială pentru a explora aceste ruine umede și neasfaltate aflate departe de drumul principal.",
-                "en": "An umbrella is absolutely essential for exploring these wet, unpaved ruins away from the main road."
+                "en": "An umbrella is absolutely essential for exploring these wet, unpaved ruins away from the main road.",
+                "fr": "Un parapluie est absolument essentiel pour explorer ces ruines non goudronnées et humides loin de la route principale."
               }
             },
             {
@@ -919,13 +1019,15 @@
                 "de": "Le Prieuré",
                 "hu": "Le Prieuré",
                 "ro": "Le Prieuré",
-                "en": "Le Prieuré"
+                "en": "Le Prieuré",
+                "fr": "Le Prieuré"
               },
               "tip_5lang": {
                 "de": "Fahren Sie vorsichtig auf nassen Landstraßen zu diesem friedlichen Ort. Die Sicht kann bei Regen schlecht sein.",
                 "hu": "Vezessen óvatosan a nedves vidéki utakon ezen békés hely felé. A látási viszonyok rosszak lehetnek esőben.",
                 "ro": "Conduceți cu grijă pe drumurile rurale umede către acest loc pașnic. Vizibilitatea poate fi redusă în ploaie.",
-                "en": "Drive carefully on wet, narrow local roads to this peaceful spot. Visibility might be poor in heavy rain."
+                "en": "Drive carefully on wet, narrow local roads to this peaceful spot. Visibility might be poor in heavy rain.",
+                "fr": "Conduisez prudemment sur les routes locales étroites et humides pour rejoindre ce lieu paisible. La visibilité peut être réduite en cas de fortes pluies."
               }
             }
           ]
@@ -935,7 +1037,8 @@
             "de": "Genießen Sie an einem frostigen Morgen eine beheizte Fahrt zur Église Saint-Nazaire. Mittags bleiben Sie im L'Octav und auf dem Markt gemütlich. Verbringen Sie den Nachmittag eingepackt am Hôtel de Journet und den antiken Stätten. Der frühe Sonnenuntergang um 17 Uhr wirft lange Schatten auf das magische Le Prieuré.",
             "hu": "Élvezze a fűtött autózást a fagyos reggelen az Église Saint-Nazaire felé. Délben maradjon melegben a L'Octavban és a piacon. A délutánt melegen felöltözve töltse a Hôtel de Journet-nél és az ókori helyszíneken. A 17:00 órai korai naplemente varázslatos hosszú árnyékokat vet a Le Prieuré-nél.",
             "ro": "Bucurați-vă de un drum încălzit într-o dimineață geroasă spre Église Saint-Nazaire. La prânz, stați la căldură la L'Octav și în piață. Petreceți după-amiaza bine îmbrăcați la Hôtel de Journet și la siturile antice. Apusul devreme, la ora 17:00, aruncă umbre lungi și magice la Le Prieuré.",
-            "en": "Enjoy a heated drive to Église Saint-Nazaire on a frosty morning. Midday, stay cozy inside L'Octav and the lively market. Spend your afternoon bundled up at Hôtel de Journet and the ancient sites. The early 5 PM sunset casts long shadows, making your evening at Le Prieuré uniquely magical."
+            "en": "Enjoy a heated drive to Église Saint-Nazaire on a frosty morning. Midday, stay cozy inside L'Octav and the lively market. Spend your afternoon bundled up at Hôtel de Journet and the ancient sites. The early 5 PM sunset casts long shadows, making your evening at Le Prieuré uniquely magical.",
+            "fr": "Profitez d'une voiture chauffée pour rejoindre l'Église Saint-Nazaire lors d'un matin glacial. À midi, restez au chaud à L'Octav et à la halle animée. Passez l'après-midi emmitouflé à l'Hôtel de Journet et sur les sites anciens. Le coucher du soleil précoce à 17 h projette de longues ombres, rendant votre soirée au Prieuré particulièrement magique."
           },
           "stops": [
             {
@@ -943,13 +1046,15 @@
                 "de": "Église Saint-Nazaire",
                 "hu": "Église Saint-Nazaire",
                 "ro": "Église Saint-Nazaire",
-                "en": "Église Saint-Nazaire"
+                "en": "Église Saint-Nazaire",
+                "fr": "Église Saint-Nazaire"
               },
               "tip_5lang": {
                 "de": "Ein ruhiger, frostiger Morgenstopp; das Innere ist friedlich kalt, also lassen Sie Ihre dicke Jacke an.",
                 "hu": "Egy csendes, fagyos reggeli megálló; a belső tér békésen hideg, így érdemes magán hagyni a vastag kabátot.",
                 "ro": "O oprire liniștită într-o dimineață geroasă; interiorul este rece, așa că păstrați geaca groasă pe dumneavoastră.",
-                "en": "A quiet, frosty morning stop; the interior is peacefully cold, so keep your heavy winter coat on."
+                "en": "A quiet, frosty morning stop; the interior is peacefully cold, so keep your heavy winter coat on.",
+                "fr": "Un arrêt matinal calme et givré ; l'intérieur est agréablement froid, gardez votre manteau d'hiver épais."
               }
             },
             {
@@ -957,13 +1062,15 @@
                 "de": "L'Octav",
                 "hu": "L'Octav",
                 "ro": "L'Octav",
-                "en": "L'Octav"
+                "en": "L'Octav",
+                "fr": "L'Octav"
               },
               "tip_5lang": {
                 "de": "Ein wunderbar warmer kultureller Raum, um den späten Morgen nach der kalten Luft draußen zu verbringen.",
                 "hu": "Csodálatosan meleg kulturális tér a késő délelőtt eltöltésére a kinti hideg levegő után.",
                 "ro": "Un spațiu cultural minunat de cald pentru a petrece sfârșitul dimineții după aerul rece de afară.",
-                "en": "A wonderfully warm cultural space to spend the late morning and thaw out after the cold air outside."
+                "en": "A wonderfully warm cultural space to spend the late morning and thaw out after the cold air outside.",
+                "fr": "Un espace culturel merveilleusement chaud où passer la fin de matinée et se réchauffer après l'air froid extérieur."
               }
             },
             {
@@ -971,13 +1078,15 @@
                 "de": "Vic-en-Bigorre Market Hall",
                 "hu": "Vic-en-Bigorre Market Hall",
                 "ro": "Vic-en-Bigorre Market Hall",
-                "en": "Vic-en-Bigorre Market Hall"
+                "en": "Vic-en-Bigorre Market Hall",
+                "fr": "Halle du marché de Vic-en-Bigorre"
               },
               "tip_5lang": {
                 "de": "Genießen Sie die geschäftige Winteratmosphäre und holen Sie sich einige warme Leckereien für die Fahrt.",
                 "hu": "Élvezze a nyüzsgő téli hangulatot, és vegyen néhány meleg finomságot a további autózáshoz.",
                 "ro": "Bucurați-vă de atmosfera plină de viață de iarnă și luați câteva bunătăți calde pentru drum.",
-                "en": "Enjoy the bustling winter vibe and pick up some warm local treats to enjoy in the heated car later."
+                "en": "Enjoy the bustling winter vibe and pick up some warm local treats to enjoy in the heated car later.",
+                "fr": "Profitez de l'ambiance hivernale animée et prenez quelques douceurs locales chaudes à déguster plus tard dans la voiture chauffée."
               }
             },
             {
@@ -985,13 +1094,15 @@
                 "de": "Hôtel de Journet",
                 "hu": "Hôtel de Journet",
                 "ro": "Hôtel de Journet",
-                "en": "Hôtel de Journet"
+                "en": "Hôtel de Journet",
+                "fr": "Hôtel de Journet"
               },
               "tip_5lang": {
                 "de": "Die historische Fassade sieht im Winterlicht wunderschön aus. Ziehen Sie sich für den Fotostopp warm an.",
                 "hu": "A történelmi homlokzat gyönyörűen fest a téli fényben. Öltözzön fel melegen a fotós megállóhoz.",
                 "ro": "Fațada istorică arată minunat în lumina de iarnă. Îmbrăcați-vă gros pentru oprirea foto.",
-                "en": "The historic facade looks stark and beautiful in the winter light. Bundle up for your outdoor photo stop."
+                "en": "The historic facade looks stark and beautiful in the winter light. Bundle up for your outdoor photo stop.",
+                "fr": "La façade historique est austère et belle sous la lumière hivernale. Couvrez-vous chaudement pour votre arrêt photo extérieur."
               }
             },
             {
@@ -999,13 +1110,15 @@
                 "de": "Castrum Bigorra",
                 "hu": "Castrum Bigorra",
                 "ro": "Castrum Bigorra",
-                "en": "Castrum Bigorra"
+                "en": "Castrum Bigorra",
+                "fr": "Castrum Bigorra"
               },
               "tip_5lang": {
                 "de": "Kleiden Sie sich warm; die exponierten Ruinen können sehr windig und kalt sein, wenn Sie das Auto verlassen.",
                 "hu": "Öltözzön melegen; a nyitott romok nagyon szelesek és hidegek lehetnek, amikor kiszáll az autóból.",
                 "ro": "Îmbrăcați-vă călduros; ruinele expuse pot fi foarte vântoase și reci când părăsiți confortul mașinii.",
-                "en": "Dress warmly; the exposed ruins can be quite windy and bitterly cold when you leave the heated car."
+                "en": "Dress warmly; the exposed ruins can be quite windy and bitterly cold when you leave the heated car.",
+                "fr": "Habillez-vous chaudement ; les ruines exposées peuvent être très venteuses et mordantes lorsque vous quittez la voiture chauffée."
               }
             },
             {
@@ -1013,13 +1126,15 @@
                 "de": "Site archéologique de Castetbieilh",
                 "hu": "Site archéologique de Castetbieilh",
                 "ro": "Site archéologique de Castetbieilh",
-                "en": "Site archéologique de Castetbieilh"
+                "en": "Site archéologique de Castetbieilh",
+                "fr": "Site archéologique de Castetbieilh"
               },
               "tip_5lang": {
                 "de": "Besuchen Sie diesen Ort vor der Dämmerung, da der Sonnenuntergang um 17 Uhr die Ruinen schwer erkennbar macht.",
                 "hu": "Látogassa meg ezt a helyet sötétedés előtt, mivel a 17:00 órai naplemente után a romok nehezen láthatóak.",
                 "ro": "Vizitați acest loc înainte de lăsarea întunericului, deoarece apusul de la 17:00 face ruinele greu de văzut.",
-                "en": "Visit before dusk, as the 5 PM sunset casts deep shadows making the ruins hard to safely explore."
+                "en": "Visit before dusk, as the 5 PM sunset casts deep shadows making the ruins hard to safely explore.",
+                "fr": "Visitez avant le crépuscule, car le coucher du soleil à 17 h projette des ombres profondes rendant les ruines difficiles à explorer en toute sécurité."
               }
             },
             {
@@ -1027,13 +1142,15 @@
                 "de": "Le Prieuré",
                 "hu": "Le Prieuré",
                 "ro": "Le Prieuré",
-                "en": "Le Prieuré"
+                "en": "Le Prieuré",
+                "fr": "Le Prieuré"
               },
               "tip_5lang": {
                 "de": "Eine magische Atmosphäre in der Abenddämmerung; achten Sie auf vereiste lokale Straßen in der Kälte.",
                 "hu": "Varázslatos atmoszféra szürkületkor; nagyon ügyeljen a jegesedő vidéki utakra az esti hidegben.",
                 "ro": "O atmosferă magică la amurg; aveți mare grijă la drumurile rurale înghețate în frigul serii.",
-                "en": "A magical atmosphere at twilight; watch out for potentially icy local roads as the evening temperatures drop."
+                "en": "A magical atmosphere at twilight; watch out for potentially icy local roads as the evening temperatures drop.",
+                "fr": "Une atmosphère magique au crépuscule ; surveillez les routes locales potentiellement verglacées à mesure que les températures nocturnes chutent."
               }
             }
           ]

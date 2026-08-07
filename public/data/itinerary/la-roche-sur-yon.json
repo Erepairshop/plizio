@@ -21,7 +21,8 @@
             "de": "Place Napoléon",
             "hu": "Place Napoléon",
             "ro": "Place Napoléon",
-            "en": "Place Napoléon"
+            "en": "Place Napoléon",
+            "fr": "Place Napoléon"
           },
           "coords": [
             -1.42664,
@@ -36,7 +37,8 @@
             "de": "Interagieren Sie mit den beeindruckenden mechanischen Tieren auf diesem zentralen Platz, aber kommen Sie früh, um den größten Menschenmassen auszuweichen.",
             "hu": "Lépjen kapcsolatba a lenyűgöző mechanikus állatokkal ezen a központi téren, de érkezzen korán, hogy elkerülje a legnagyobb tömeget és kényelmesen nézelődjön.",
             "ro": "Interacționați cu fascinantele animale mecanice din această piață centrală, dar veniți devreme pentru a evita aglomerația și a vă bucura de un spațiu aerisit.",
-            "en": "Interact with the fascinating mechanical animals located in this central square, but arrive early to avoid the biggest crowds and operate them yourself."
+            "en": "Interact with the fascinating mechanical animals located in this central square, but arrive early to avoid the biggest crowds and operate them yourself.",
+            "fr": "Interagissez avec les fascinants animaux mécaniques situés sur cette place centrale, mais arrivez tôt pour éviter la foule et pouvoir les manœuvrer vous-même."
           }
         },
         {
@@ -44,7 +46,8 @@
             "de": "Napoleon Statue",
             "hu": "Napóleon szobra",
             "ro": "Statuia lui Napoleon",
-            "en": "Napoleon Statue"
+            "en": "Napoleon Statue",
+            "fr": "Statue de Napoléon"
           },
           "coords": [
             -1.426699,
@@ -59,7 +62,8 @@
             "de": "Bewundern Sie diese Reiterstatue des Stadtgründers und achten Sie auf die Inschriften am Sockel, die die geometrische Planung der Stadt erklären.",
             "hu": "Csodálja meg a városalapító lovasszobrát, és figyelje meg a talapzaton lévő feliratokat, amelyek a város szigorú geometriai tervezését magyarázzák.",
             "ro": "Admirați statuia ecvestră a fondatorului orașului și priviți inscripțiile de pe soclu care explică planificarea geometrică unică a acestei așezări.",
-            "en": "Admire this equestrian statue of the city's founder, and check the inscriptions on the pedestal that explain the strict geometric layout of the town."
+            "en": "Admire this equestrian statue of the city's founder, and check the inscriptions on the pedestal that explain the strict geometric layout of the town.",
+            "fr": "Admirez cette statue équestre du fondateur de la ville et vérifiez les inscriptions sur le piédestal qui expliquent la disposition géométrique stricte de la ville."
           }
         },
         {
@@ -67,7 +71,8 @@
             "de": "Le Cyel",
             "hu": "Le Cyel",
             "ro": "Le Cyel",
-            "en": "Le Cyel"
+            "en": "Le Cyel",
+            "fr": "Le Cyel"
           },
           "coords": [
             -1.431258,
@@ -82,7 +87,8 @@
             "de": "Entdecken Sie zeitgenössische Kunst in diesem modernen Kulturzentrum, wo Sie am Informationsschalter kostenlose Broschüren zu aktuellen Ausstellungen finden.",
             "hu": "Fedezze fel a kortárs művészetet ebben a modern kulturális központban, ahol az információs pultnál ingyenes brosúrákat talál az aktuális kiállításokról.",
             "ro": "Descoperiți arta contemporană în acest centru cultural modern, unde puteți găsi broșuri gratuite despre expozițiile curente la biroul de informații.",
-            "en": "Discover contemporary art in this modern cultural center, where you can pick up free brochures about current exhibitions at the main information desk."
+            "en": "Discover contemporary art in this modern cultural center, where you can pick up free brochures about current exhibitions at the main information desk.",
+            "fr": "Découvrez l'art contemporain dans ce centre culturel moderne, où vous pouvez prendre des brochures gratuites sur les expositions en cours au bureau d'information principal."
           }
         },
         {
@@ -90,7 +96,8 @@
             "de": "Église du Sacré-Cœur",
             "hu": "Église du Sacré-Cœur",
             "ro": "Église du Sacré-Cœur",
-            "en": "Église du Sacré-Cœur"
+            "en": "Église du Sacré-Cœur",
+            "fr": "Église du Sacré-Cœur"
           },
           "coords": [
             -1.432859,
@@ -105,7 +112,8 @@
             "de": "Besichtigen Sie dieses beeindruckende romanisch-byzantinische Bauwerk und achten Sie auf das farbenfrohe Licht, das morgens durch die Buntglasfenster fällt.",
             "hu": "Látogassa meg ezt a lenyűgöző román-bizánci épületet, és figyelje meg a színes fényt, amely a délelőtti órákban átszűrődik a gyönyörű ólomüveg ablakokon.",
             "ro": "Vizitați acest edificiu impresionant în stil romano-bizantin și observați lumina colorată care pătrunde prin vitralii în timpul orelor dimineții.",
-            "en": "Visit this striking Romano-Byzantine structure and notice the vibrant light filtering through the beautiful stained glass windows during the morning hours."
+            "en": "Visit this striking Romano-Byzantine structure and notice the vibrant light filtering through the beautiful stained glass windows during the morning hours.",
+            "fr": "Visitez cette structure romano-byzantine remarquable et remarquez la lumière vive filtrant à travers les beaux vitraux le matin."
           }
         },
         {
@@ -113,7 +121,8 @@
             "de": "Maison Gueffier",
             "hu": "Maison Gueffier",
             "ro": "Maison Gueffier",
-            "en": "Maison Gueffier"
+            "en": "Maison Gueffier",
+            "fr": "Maison Gueffier"
           },
           "coords": [
             -1.43025,
@@ -128,7 +137,8 @@
             "de": "Erkunden Sie die literarischen Ausstellungen in diesem historischen Gebäude und nutzen Sie den ruhigen Innenhof für eine kurze Pause abseits des Trubels.",
             "hu": "Fedezze fel az irodalmi kiállításokat ebben a történelmi épületben, és használja ki a csendes belső udvart egy rövid pihenőre a város zajától távol.",
             "ro": "Explorați expozițiile literare din această clădire istorică și profitați de curtea interioară liniștită pentru o scurtă pauză departe de agitația străzii.",
-            "en": "Explore the literary exhibitions housed in this historic building, and take advantage of the quiet inner courtyard for a short, peaceful resting break."
+            "en": "Explore the literary exhibitions housed in this historic building, and take advantage of the quiet inner courtyard for a short, peaceful resting break.",
+            "fr": "Explorez les expositions littéraires hébergées dans ce bâtiment historique et profitez du paisible patio intérieur pour une courte pause relaxante."
           }
         },
         {
@@ -136,7 +146,8 @@
             "de": "Haras de la Vendée",
             "hu": "Haras de la Vendée",
             "ro": "Haras de la Vendée",
-            "en": "Haras de la Vendée"
+            "en": "Haras de la Vendée",
+            "fr": "Haras de la Vendée"
           },
           "coords": [
             -1.42694,
@@ -151,7 +162,8 @@
             "de": "Erleben Sie die majestätischen Pferde und die Reitgeschichte dieses Gestüts; buchen Sie Führungen am besten im Voraus online, um Wartezeiten zu sparen.",
             "hu": "Tapasztalja meg a fenséges lovakat és a ménesbirtok történelmét; a legjobb, ha a vezetett túrákat előre lefoglalja online, hogy elkerülje a sorban állást.",
             "ro": "Admirați caii maiestuoși și istoria ecvestră a acestei herghelii; cel mai bine este să rezervați tururile ghidate online în avans pentru a câștiga timp.",
-            "en": "Experience the majestic horses and rich equestrian history of this stud farm; book guided tours online in advance to skip the line and save valuable time."
+            "en": "Experience the majestic horses and rich equestrian history of this stud farm; book guided tours online in advance to skip the line and save valuable time.",
+            "fr": "Vivez les chevaux majestueux et la riche histoire équestre de ce haras ; réservez les visites guidées en ligne à l'avance pour éviter la file et gagner du temps précieux."
           }
         },
         {
@@ -159,7 +171,8 @@
             "de": "Jardin des Compagnons",
             "hu": "Jardin des Compagnons",
             "ro": "Jardin des Compagnons",
-            "en": "Jardin des Compagnons"
+            "en": "Jardin des Compagnons",
+            "fr": "Jardin des Compagnons"
           },
           "coords": [
             -1.421769,
@@ -174,7 +187,8 @@
             "de": "Spazieren Sie durch diesen liebevoll gepflegten Garten, der sich perfekt für ein entspanntes Picknick mit lokalen Spezialitäten vom nahen Markt eignet.",
             "hu": "Sétáljon végig ezen a gondosan karbantartott kerten, amely tökéletes helyszín egy pihentető piknikhez a helyi piacról származó friss finomságokkal.",
             "ro": "Plimbați-vă prin această grădină frumos îngrijită, ideală pentru un picnic relaxant cu produse locale proaspete cumpărate de la piața din apropiere.",
-            "en": "Stroll through this beautifully maintained garden, which serves as a perfect spot for a relaxing picnic with fresh local treats from the nearby market."
+            "en": "Stroll through this beautifully maintained garden, which serves as a perfect spot for a relaxing picnic with fresh local treats from the nearby market.",
+            "fr": "Promenez-vous dans ce jardin magnifiquement entretenu, idéal pour un pique-nique relaxant avec des produits locaux frais du marché voisin."
           }
         }
       ],
@@ -182,7 +196,8 @@
         "de": "Beginnen Sie Ihren Tag auf der belebten Place Napoléon und bewundern Sie die mechanischen Tiere, bevor Sie das kulturelle Zentrum Le Cyel erkunden. Mittags spazieren Sie zur markanten Église du Sacré-Cœur und entdecken die Ausstellungen in der Maison Gueffier. Am Nachmittag tauchen Sie in die Reitgeschichte des Haras de la Vendée ein. Beenden Sie den Tag entspannt im Jardin des Compagnons.",
         "hu": "Kezdje a napot a nyüzsgő Place Napoléon téren a mechanikus állatokkal, majd fedezze fel a Le Cyel kulturális központot. Délben sétáljon el a lenyűgöző Église du Sacré-Cœur templomhoz, és nézze meg a Maison Gueffier kiállításait. Délután merüljön el a lovaglás történetében a Haras de la Vendée ménesbirtokon. A napot a békés Jardin des Compagnons parkban zárja egy kellemes sétával.",
         "ro": "Începeți ziua în vibranta Place Napoléon admirând animalele mecanice, apoi explorați centrul cultural Le Cyel. La prânz, vizitați impresionanta Église du Sacré-Cœur și expozițiile de la Maison Gueffier. După-amiaza, descoperiți tradiția ecvestră la Haras de la Vendée. Încheiați ziua cu o plimbare relaxantă în frumoasele grădini de la Jardin des Compagnons, bucurându-vă de liniște.",
-        "en": "Start your day at the vibrant Place Napoléon to admire the mechanical animals, then explore the cultural hub of Le Cyel. Midday, walk up to the striking Église du Sacré-Cœur and check out the local exhibits at Maison Gueffier. In the afternoon, discover equestrian history at the beautiful Haras de la Vendée. End your day relaxing in the peaceful greenery of Jardin des Compagnons."
+        "en": "Start your day at the vibrant Place Napoléon to admire the mechanical animals, then explore the cultural hub of Le Cyel. Midday, walk up to the striking Église du Sacré-Cœur and check out the local exhibits at Maison Gueffier. In the afternoon, discover equestrian history at the beautiful Haras de la Vendée. End your day relaxing in the peaceful greenery of Jardin des Compagnons.",
+        "fr": "Commencez la journée sur la vivante Place Napoléon pour admirer les animaux mécaniques, puis explorez le centre culturel Le Cyel. À midi, montez à la striking Église du Sacré-Cœur et consultez les expositions locales à la Maison Gueffier. L'après-midi, découvrez l'histoire équestre au magnifique Haras de la Vendée. Terminez la journée en vous relaxant dans la verdure paisible du Jardin des Compagnons."
       },
       "variants": {
         "rainy": {
@@ -190,7 +205,8 @@
             "de": "Ein regnerischer Morgen beginnt auf dem Place Napoléon, wo die Wasserbecken unter grauen Wolken glitzern. Mittags bieten das kulturelle Zentrum Le Cyel und die Kirche Sacré-Cœur willkommene trockene Zufluchtsorte für Kunst und Besinnung. Am Nachmittag erkunden Sie die historischen Räume des Haras de la Vendée. Der Tag endet ruhig in den feuchten, aber stimmungsvollen Jardin des Compagnons.",
             "hu": "Az esős reggel a Place Napoléonon kezdődik, ahol a mechanikus állatok a szürke ég alatt is várják. Délben a Le Cyel kulturális központ és a Sacré-Cœur templom nyújt menedéket a zápor elől. Délután a Maison Gueffier és a Haras de la Vendée fedett tereiben merülhet el a történelemben. Az este a Jardin des Compagnons vizes ösvényein, a friss eső illatával zárul, amihez elengedhetetlen az esernyő.",
             "ro": "O dimineață ploioasă începe în Place Napoléon, unde animalele mecanice par mai vii sub stropii de apă. La prânz, centrul cultural Le Cyel și biserica Sacré-Cœur oferă adăpost ideal împotriva intemperiilor. După-amiaza este dedicată muzeelor interioare precum Maison Gueffier. Seara se încheie cu o plimbare scurtă prin Jardin des Compagnons, unde vegetația strălucește în reflexiile umede.",
-            "en": "A rainy morning starts at Place Napoléon, where the mechanical animals operate despite the drizzle. By noon, the cultural hub of Le Cyel and the Sacré-Cœur church provide perfect indoor escapes. Spend the afternoon exploring the historical stables of Haras de la Vendée. The day concludes with a stroll through the Jardin des Compagnons, which smells wonderfully fresh after the rainfall."
+            "en": "A rainy morning starts at Place Napoléon, where the mechanical animals operate despite the drizzle. By noon, the cultural hub of Le Cyel and the Sacré-Cœur church provide perfect indoor escapes. Spend the afternoon exploring the historical stables of Haras de la Vendée. The day concludes with a stroll through the Jardin des Compagnons, which smells wonderfully fresh after the rainfall.",
+            "fr": "Une matinée pluvieuse commence à la Place Napoléon, où les animaux mécaniques fonctionnent malgré la bruine. À midi, le centre culturel Le Cyel et l'église du Sacré-Cœur offrent des échappatoires intérieurs parfaits. Passez l'après-midi à explorer les écuries historiques du Haras de la Vendée. La journée se conclut par une promenade dans le Jardin des Compagnons, d'où émane une odeur merveilleusement fraîche après la pluie."
           },
           "stops": [
             {
@@ -198,13 +214,15 @@
                 "de": "Place Napoléon",
                 "hu": "Place Napoléon",
                 "ro": "Place Napoléon",
-                "en": "Place Napoléon"
+                "en": "Place Napoléon",
+                "fr": "Place Napoléon"
               },
               "tip_5lang": {
                 "de": "Beobachten Sie die mechanischen Tiere unter den Arkaden und tragen Sie rutschfeste Schuhe, da das Kopfsteinpflaster bei Nässe sehr glatt werden kann.",
                 "hu": "Figyelje meg a gépállatokat a környező árkádok alól, és viseljen csúszásmentes talpú cipőt, mert a tér burkolata vizesen rendkívül síkossá válik.",
                 "ro": "Observați animalele mecanice de sub arcadele din jur și purtați încălțăminte aderentă, deoarece pavajul poate deveni alunecos când este ud.",
-                "en": "Watch the mechanical animals from the nearby arcades and wear non-slip shoes as the square's pavement becomes quite slick when wet."
+                "en": "Watch the mechanical animals from the nearby arcades and wear non-slip shoes as the square's pavement becomes quite slick when wet.",
+                "fr": "Regardez les animaux mécaniques depuis les arcades voisines et portez des chaussures antidérapantes car le pavé de la place devient très glissant quand il est humide."
               }
             },
             {
@@ -212,13 +230,15 @@
                 "de": "Napoleon Statue",
                 "hu": "Napóleon szobra",
                 "ro": "Statuia lui Napoleon",
-                "en": "Napoleon Statue"
+                "en": "Napoleon Statue",
+                "fr": "Statue de Napoléon"
               },
               "tip_5lang": {
                 "de": "Die dunkle Bronze der Statue kontrastiert stark mit dem grauen Regenhimmel; ein schnelles Foto reicht aus, bevor Sie unter den nächsten Baum flüchten.",
                 "hu": "A szobor sötét bronza éles kontrasztot alkot a szürke esős éggel; egy gyors fotó bőven elég, mielőtt a legközelebbi fedett részre húzódna.",
                 "ro": "Bronzul statuii contrastează puternic cu cerul gri de ploaie; o fotografie rapidă este suficientă înainte de a căuta adăpost sub copacii din jur.",
-                "en": "The dark bronze of the statue contrasts sharply with the grey rainy sky; a quick photo is enough before moving to the nearest covered spot."
+                "en": "The dark bronze of the statue contrasts sharply with the grey rainy sky; a quick photo is enough before moving to the nearest covered spot.",
+                "fr": "Le bronze sombre de la statue contraste fortement avec le ciel gris et pluvieux ; une photo rapide suffit avant de vous abriter au plus proche."
               }
             },
             {
@@ -226,13 +246,15 @@
                 "de": "Le Cyel",
                 "hu": "Le Cyel",
                 "ro": "Le Cyel",
-                "en": "Le Cyel"
+                "en": "Le Cyel",
+                "fr": "Le Cyel"
               },
               "tip_5lang": {
                 "de": "Dieses moderne Kulturzentrum ist der perfekte Ort, um dem Regen zu entkommen und in zeitgenössische Kunstwerke einzutauchen; nutzen Sie die Garderobe für nasse Mäntel.",
                 "hu": "Ez a modern kulturális központ tökéletes hely a zápor elől való menekülésre és a kortárs művészet élvezetére; használja a ruhatárat a vizes kabátoknak.",
                 "ro": "Acest centru cultural modern este locul perfect pentru a scăpa de ploaie și a admira arta contemporană; folosiți garderoba pentru haina umedă.",
-                "en": "This modern cultural center is the perfect place to escape the rain and dive into contemporary art; use the cloakroom for your wet coats."
+                "en": "This modern cultural center is the perfect place to escape the rain and dive into contemporary art; use the cloakroom for your wet coats.",
+                "fr": "Ce centre culturel moderne est l'endroit parfait pour échapper à la pluie et plonger dans l'art contemporain ; utilisez le vestiaire pour vos manteaux mouillés."
               }
             },
             {
@@ -240,13 +262,15 @@
                 "de": "Église du Sacré-Cœur",
                 "hu": "Église du Sacré-Cœur",
                 "ro": "Église du Sacré-Cœur",
-                "en": "Église du Sacré-Cœur"
+                "en": "Église du Sacré-Cœur",
+                "fr": "Église du Sacré-Cœur"
               },
               "tip_5lang": {
                 "de": "Die neugotische Stille bietet eine trockene Zuflucht; bewundern Sie die Glasfenster, die auch bei trübem Licht eine mystische Atmosphäre im Inneren schaffen.",
                 "hu": "A neogótikus csend száraz menedéket nyújt; csodálja meg az üvegablakokat, amelyek még borús időben is misztikus hangulatot árasztanak a belső térben.",
                 "ro": "Liniștea neogotică oferă un refugiu uscat; admirați vitraliile care, chiar și pe lumină slabă, creează o atmosferă mistică în interior.",
-                "en": "The neo-Gothic silence offers a dry refuge; admire the stained glass windows that create a mystical atmosphere inside even in dim light."
+                "en": "The neo-Gothic silence offers a dry refuge; admire the stained glass windows that create a mystical atmosphere inside even in dim light.",
+                "fr": "Le silence néo-gothique offre un refuge sec ; admirez les vitraux qui créent une atmosphère mystique même par faible lumière."
               }
             },
             {
@@ -254,13 +278,15 @@
                 "de": "Maison Gueffier",
                 "hu": "Maison Gueffier",
                 "ro": "Maison Gueffier",
-                "en": "Maison Gueffier"
+                "en": "Maison Gueffier",
+                "fr": "Maison Gueffier"
               },
               "tip_5lang": {
                 "de": "In diesem Literaturhaus können Sie bei Regen gemütlich verweilen; bringen Sie eine wasserfeste Tasche für Ihre eigenen Bücher mit, die Sie hier lesen möchten.",
                 "hu": "Ebben az irodalmi házban kényelmesen elidőzhet az eső alatt; hozzon vízálló táskát saját könyveinek, ha itt szeretne egy kicsit olvasgatni.",
                 "ro": "În această casă literară puteți zăbovi confortabil în timpul ploii; aduceți o geantă impermeabilă pentru cărțile proprii dacă doriți să citiți aici.",
-                "en": "In this literary house, you can linger comfortably during the rain; bring a waterproof bag for your own books if you plan to read here."
+                "en": "In this literary house, you can linger comfortably during the rain; bring a waterproof bag for your own books if you plan to read here.",
+                "fr": "Dans cette maison littéraire, vous pouvez vous attarder confortablement pendant la pluie ; apportez un sac imperméable pour vos livres si vous comptez lire sur place."
               }
             },
             {
@@ -268,13 +294,15 @@
                 "de": "Haras de la Vendée",
                 "hu": "Haras de la Vendée",
                 "ro": "Haras de la Vendée",
-                "en": "Haras de la Vendée"
+                "en": "Haras de la Vendée",
+                "fr": "Haras de la Vendée"
               },
               "tip_5lang": {
                 "de": "Viele Bereiche des Gestüts sind überdacht, sodass Sie die Pferde trocken beobachten können; festes Schuhwerk ist für die Wege zwischen den Ställen ratsam.",
                 "hu": "A ménesbirtok számos része fedett, így szárazon figyelheti meg a lovakat; a pavilonok közötti utakhoz azonban ajánlott a masszív, vízálló lábbeli.",
                 "ro": "Multe zone ale hergheliei sunt acoperite, permițându-vă să observați caii la adăpost; încălțămintea rezistentă e recomandată pentru drumul dintre grajduri.",
-                "en": "Many areas of the stud farm are covered, allowing you to observe the horses while staying dry; sturdy boots are advised for the paths between stables."
+                "en": "Many areas of the stud farm are covered, allowing you to observe the horses while staying dry; sturdy boots are advised for the paths between stables.",
+                "fr": "De nombreuses zones du haras sont couvertes, ce qui permet d'observer les chevaux à l'abri ; des bottes solides sont recommandées pour les chemins entre les écuries."
               }
             },
             {
@@ -282,13 +310,15 @@
                 "de": "Jardin des Compagnons",
                 "hu": "Jardin des Compagnons",
                 "ro": "Jardin des Compagnons",
-                "en": "Jardin des Compagnons"
+                "en": "Jardin des Compagnons",
+                "fr": "Jardin des Compagnons"
               },
               "tip_5lang": {
                 "de": "Die Vegetation ist bei Regen besonders grün und duftend; nehmen Sie einen großen Schirm mit, da es im Garten kaum feste Unterstände gibt.",
                 "hu": "A növényzet esőben különösen zöld és illatos; vigyen magával egy nagy esernyőt, mivel a kertben kevés a fix tetővel rendelkező építmény.",
                 "ro": "Vegetația este deosebit de verde și parfumată în timpul ploii; luați o umbrelă mare, deoarece există puține adăposturi fixe în grădină.",
-                "en": "The vegetation is especially green and fragrant in the rain; take a large umbrella as there are few fixed shelters within the garden area."
+                "en": "The vegetation is especially green and fragrant in the rain; take a large umbrella as there are few fixed shelters within the garden area.",
+                "fr": "La végétation est d'un vert et d'un parfum particuliers sous la pluie ; prenez un grand parapluie car il y a peu d'abris fixes dans le jardin."
               }
             }
           ]
@@ -298,7 +328,8 @@
             "de": "Ein frostiger Morgen beginnt auf dem Place Napoléon, wo die Kälte die Luft klärt. Mittags suchen Sie Wärme in der Kirche Sacré-Cœur und im Kulturzentrum Le Cyel. Die kurzen Tage führen Sie am Nachmittag zum Maison Gueffier, bevor die Dämmerung gegen 17:00 Uhr einsetzt. Den Abend verbringen Sie in der gemütlichen Atmosphäre der Stadt, geschützt vor der winterlichen Brise.",
             "hu": "A fagyos reggel a Place Napoléonon indul, ahol a hideg levegő tisztasága frissítőleg hat. Délben a Sacré-Cœur templom és a Le Cyel központ nyújt meleg menedéket. A rövid téli napokon korán, már 17 óra körül sötétedik, így a Maison Gueffier meglátogatása után érdemes behúzódni. Az estét a város kivilágított, hangulatos utcáin zárhatja egy forró ital társaságában.",
             "ro": "O dimineață geroasă începe în Place Napoléon, unde frigul face aerul să pară mai curat. La prânz, căutați căldura în biserica Sacré-Cœur și în centrul cultural Le Cyel. Zilele scurte vă trimit spre Maison Gueffier după-amiaza, înainte ca întunericul să se lase în jurul orei 17:00. Seara se încheie într-o atmosferă primitoare, departe de vântul iernatic.",
-            "en": "A frosty morning begins at Place Napoléon, where the cold air feels crisp and clear. At noon, seek warmth inside the Sacré-Cœur church and the Le Cyel center. With early sunsets around 17:00, visit Maison Gueffier in the afternoon light. The evening is best spent enjoying the city's cozy indoor spots, wrapped in warm layers against the winter breeze."
+            "en": "A frosty morning begins at Place Napoléon, where the cold air feels crisp and clear. At noon, seek warmth inside the Sacré-Cœur church and the Le Cyel center. With early sunsets around 17:00, visit Maison Gueffier in the afternoon light. The evening is best spent enjoying the city's cozy indoor spots, wrapped in warm layers against the winter breeze.",
+            "fr": "Une matinée froide commence à la Place Napoléon, où l'air est vif et limpide. À midi, réchauffez-vous à l'intérieur de l'église du Sacré-Cœur et du centre Le Cyel. Avec les couchers de soleil précoces vers 17:00, visitez la Maison Gueffier l'après-midi. La soirée se passe mieux dans les lieux intérieurs douillets de la ville, emmitouflé contre la brise hivernale."
           },
           "stops": [
             {
@@ -306,13 +337,15 @@
                 "de": "Place Napoléon",
                 "hu": "Place Napoléon",
                 "ro": "Place Napoléon",
-                "en": "Place Napoléon"
+                "en": "Place Napoléon",
+                "fr": "Place Napoléon"
               },
               "tip_5lang": {
                 "de": "Die mechanischen Tiere bewegen sich auch im Winter; tragen Sie warme Handschuhe, wenn Sie die Metallhebel zur Steuerung der Tiere selbst bedienen möchten.",
                 "hu": "A gépállatok télen is működnek; viseljen meleg kesztyűt, ha ön szeretné kezelni az állatokat irányító fém karokat a fagyos időben.",
                 "ro": "Animalele mecanice funcționează și iarna; purtați mănuși groase dacă doriți să acționați chiar voi manetele metalice de control.",
-                "en": "The mechanical animals operate even in winter; wear warm gloves if you want to operate the metal control levers yourself in the cold."
+                "en": "The mechanical animals operate even in winter; wear warm gloves if you want to operate the metal control levers yourself in the cold.",
+                "fr": "Les animaux mécaniques fonctionnent même en hiver ; portez des gants chauds si vous souhaitez actionner vous-même les leviers métalliques par temps froid."
               }
             },
             {
@@ -320,13 +353,15 @@
                 "de": "Napoleon Statue",
                 "hu": "Napóleon szobra",
                 "ro": "Statuia lui Napoleon",
-                "en": "Napoleon Statue"
+                "en": "Napoleon Statue",
+                "fr": "Statue de Napoléon"
               },
               "tip_5lang": {
                 "de": "Oft bildet sich Raureif auf der Statue, was ihr ein eisiges Aussehen verleiht; halten Sie den Besuch kurz, um nicht in der Zugluft des Platzes auszukühlen.",
                 "hu": "Gyakran zúzmara fedi a szobrot, ami jeges hatást kölcsönöz neki; tartsa rövidre a látogatást, hogy ne hűljön át a tér huzatos részén.",
                 "ro": "Deseori se formează chiciură pe statuie, oferindu-i un aspect înghețat; scurtați vizita pentru a nu îngheța în curentul de aer din piață.",
-                "en": "Frost often forms on the statue, giving it an icy appearance; keep the visit short to avoid getting chilled in the square's drafty open areas."
+                "en": "Frost often forms on the statue, giving it an icy appearance; keep the visit short to avoid getting chilled in the square's drafty open areas.",
+                "fr": "Le givre se forme souvent sur la statue, lui donnant un aspect glacé ; gardez la visite courte pour éviter d'être frigorifié dans les espaces ouverts et venteux de la place."
               }
             },
             {
@@ -334,13 +369,15 @@
                 "de": "Le Cyel",
                 "hu": "Le Cyel",
                 "ro": "Le Cyel",
-                "en": "Le Cyel"
+                "en": "Le Cyel",
+                "fr": "Le Cyel"
               },
               "tip_5lang": {
                 "de": "Genießen Sie die wohlige Wärme im Inneren, während Sie die Ausstellungen betrachten; es ist ein idealer Ort, um die kälteste Zeit des Tages zu überbrücken.",
                 "hu": "Élvezze a benti kellemes meleget a kiállítások megtekintése közben; ideális hely a nap leghidegebb óráinak átvészelésére a belvárosban.",
                 "ro": "Bucurați-vă de căldura primitoare din interior în timp ce vizitați expozițiile; este locul ideal pentru a trece peste cele mai reci ore ale zilei.",
-                "en": "Enjoy the cozy warmth inside while viewing the exhibitions; it is an ideal place to spend the coldest hours of the day in the city center."
+                "en": "Enjoy the cozy warmth inside while viewing the exhibitions; it is an ideal place to spend the coldest hours of the day in the city center.",
+                "fr": "Profitez de la chaleur confortable à l'intérieur en visitant les expositions ; c'est l'endroit idéal pour passer les heures les plus froides du centre-ville."
               }
             },
             {
@@ -348,13 +385,15 @@
                 "de": "Église du Sacré-Cœur",
                 "hu": "Église du Sacré-Cœur",
                 "ro": "Église du Sacré-Cœur",
-                "en": "Église du Sacré-Cœur"
+                "en": "Église du Sacré-Cœur",
+                "fr": "Église du Sacré-Cœur"
               },
               "tip_5lang": {
                 "de": "Kirchen können im Winter sehr kalt sein; lassen Sie Ihren Mantel an, während Sie die architektonischen Details der neugotischen Struktur bewundern.",
                 "hu": "A templomok télen nagyon hidegek lehetnek; hagyja magán a kabátját, miközben a neogótikus épület építészeti részleteit csodálja.",
                 "ro": "Bisericile pot fi foarte reci iarna; păstrați-vă haina pe voi în timp ce admirați detaliile arhitecturale ale structurii neogotice.",
-                "en": "Churches can be very cold in winter; keep your coat on while admiring the architectural details of the neo-Gothic structure."
+                "en": "Churches can be very cold in winter; keep your coat on while admiring the architectural details of the neo-Gothic structure.",
+                "fr": "Les églises peuvent être très froides en hiver ; gardez votre manteau pour admirer les détails architecturaux de la structure néo-gothique."
               }
             },
             {
@@ -362,13 +401,15 @@
                 "de": "Maison Gueffier",
                 "hu": "Maison Gueffier",
                 "ro": "Maison Gueffier",
-                "en": "Maison Gueffier"
+                "en": "Maison Gueffier",
+                "fr": "Maison Gueffier"
               },
               "tip_5lang": {
                 "de": "Die intime Atmosphäre dieses Hauses ist im Winter besonders einladend; wärmen Sie sich hier auf, bevor die Sonne gegen 17:00 Uhr endgültig verschwindet.",
                 "hu": "A ház intim hangulata télen különösen hívogató; melegedjen át itt egy kicsit, mielőtt a nap 17 óra körül végleg lebukik a láthatáron.",
                 "ro": "Atmosfera intimă a acestei case este deosebit de primitoare iarna; încălziți-vă aici înainte ca soarele să apună definitiv în jurul orei 17:00.",
-                "en": "The intimate atmosphere of this house is especially inviting in winter; warm up here before the sun sets completely around 17:00."
+                "en": "The intimate atmosphere of this house is especially inviting in winter; warm up here before the sun sets completely around 17:00.",
+                "fr": "L'atmosphère intime de cette maison est particulièrement accueillante en hiver ; réchauffez-vous ici avant que le soleil ne se couche complètement vers 17:00."
               }
             },
             {
@@ -376,13 +417,15 @@
                 "de": "Haras de la Vendée",
                 "hu": "Haras de la Vendée",
                 "ro": "Haras de la Vendée",
-                "en": "Haras de la Vendée"
+                "en": "Haras de la Vendée",
+                "fr": "Haras de la Vendée"
               },
               "tip_5lang": {
                 "de": "Das weitläufige Gelände wirkt im Winter kahl, aber die Ställe bieten Schutz; achten Sie auf festgetretenen Schnee oder Eis auf den Außenwegen.",
                 "hu": "A tágas birtok télen kopárnak tűnhet, de az istállók védelmet nyújtanak; vigyázzon a letaposott hóra vagy jégre a kültéri utakon.",
                 "ro": "Terenul vast poate părea pustiu iarna, dar grajdurile oferă adăpost; atenție la zăpada bătătorită sau gheața de pe aleile exterioare.",
-                "en": "The vast grounds may look bare in winter, but the stables offer shelter; watch out for packed snow or ice on the outdoor paths."
+                "en": "The vast grounds may look bare in winter, but the stables offer shelter; watch out for packed snow or ice on the outdoor paths.",
+                "fr": "Les vastes terrains peuvent paraître dénudés en hiver, mais les écuries offrent un abri ; faites attention à la neige tassée ou au verglas sur les chemins extérieurs."
               }
             },
             {
@@ -390,13 +433,15 @@
                 "de": "Jardin des Compagnons",
                 "hu": "Jardin des Compagnons",
                 "ro": "Jardin des Compagnons",
-                "en": "Jardin des Compagnons"
+                "en": "Jardin des Compagnons",
+                "fr": "Jardin des Compagnons"
               },
               "tip_5lang": {
                 "de": "Da es früh dunkel wird, sollten Sie den Garten vor 16:30 Uhr besuchen; die kahlen Äste der Bäume erzeugen eine faszinierende grafische Optik gegen den Himmel.",
                 "hu": "Mivel korán sötétedik, látogasson el ide 16:30 előtt; a fák csupasz ágai lenyűgöző grafikai látványt nyújtanak a téli égbolt előtt.",
                 "ro": "Deoarece se întunecă devreme, vizitați grădina înainte de 16:30; ramurile goale ale copacilor creează o optică grafică fascinantă pe cer.",
-                "en": "As it gets dark early, visit the garden before 16:30; the bare branches of the trees create a fascinating graphic look against the sky."
+                "en": "As it gets dark early, visit the garden before 16:30; the bare branches of the trees create a fascinating graphic look against the sky.",
+                "fr": "Comme il fait nuit tôt, visitez le jardin avant 16:30 ; les branches dénudées des arbres créent une silhouette graphique fascinante contre le ciel."
               }
             }
           ]
@@ -416,7 +461,8 @@
             "de": "Place Napoléon",
             "hu": "Place Napoléon",
             "ro": "Place Napoléon",
-            "en": "Place Napoléon"
+            "en": "Place Napoléon",
+            "fr": "Place Napoléon"
           },
           "coords": [
             -1.42664,
@@ -431,7 +477,8 @@
             "de": "Interagieren Sie mit den beeindruckenden mechanischen Tieren auf diesem zentralen Platz, aber kommen Sie früh, um den größten Menschenmassen auszuweichen.",
             "hu": "Lépjen kapcsolatba a lenyűgöző mechanikus állatokkal ezen a központi téren, de érkezzen korán, hogy elkerülje a legnagyobb tömeget és kényelmesen nézelődjön.",
             "ro": "Interacționați cu fascinantele animale mecanice din această piață centrală, dar veniți devreme pentru a evita aglomerația și a vă bucura de un spațiu aerisit.",
-            "en": "Interact with the fascinating mechanical animals located in this central square, but arrive early to avoid the biggest crowds and operate them yourself."
+            "en": "Interact with the fascinating mechanical animals located in this central square, but arrive early to avoid the biggest crowds and operate them yourself.",
+            "fr": "Interagissez avec les fascinants animaux mécaniques situés sur cette place centrale, mais arrivez tôt pour éviter la plus grande affluence et pouvoir les manœuvrer vous-même."
           }
         },
         {
@@ -439,7 +486,8 @@
             "de": "Église du Sacré-Cœur",
             "hu": "Église du Sacré-Cœur",
             "ro": "Église du Sacré-Cœur",
-            "en": "Église du Sacré-Cœur"
+            "en": "Église du Sacré-Cœur",
+            "fr": "Église du Sacré-Cœur"
           },
           "coords": [
             -1.432859,
@@ -454,7 +502,8 @@
             "de": "Besichtigen Sie dieses beeindruckende romanisch-byzantinische Bauwerk und achten Sie auf das farbenfrohe Licht, das morgens durch die Buntglasfenster fällt.",
             "hu": "Látogassa meg ezt a lenyűgöző román-bizánci épületet, és figyelje meg a színes fényt, amely a délelőtti órákban átszűrődik a gyönyörű ólomüveg ablakokon.",
             "ro": "Vizitați acest edificiu impresionant în stil romano-bizantin și observați lumina colorată care pătrunde prin vitralii în timpul orelor dimineții.",
-            "en": "Visit this striking Romano-Byzantine structure and notice the vibrant light filtering through the beautiful stained glass windows during the morning hours."
+            "en": "Visit this striking Romano-Byzantine structure and notice the vibrant light filtering through the beautiful stained glass windows during the morning hours.",
+            "fr": "Visitez cette structure romano-byzantine remarquable et remarquez la lumière vive filtrant à travers les beaux vitraux le matin."
           }
         },
         {
@@ -462,7 +511,8 @@
             "de": "Barrage du Moulin Papon",
             "hu": "Barrage du Moulin Papon",
             "ro": "Barrage du Moulin Papon",
-            "en": "Barrage du Moulin Papon"
+            "en": "Barrage du Moulin Papon",
+            "fr": "Barrage du Moulin Papon"
           },
           "coords": [
             -1.421591,
@@ -477,7 +527,8 @@
             "de": "Fahren Sie mit dem Rad entlang des malerischen Stausees und nutzen Sie die gut ausgebauten Uferwege, um die reiche Vogelwelt in aller Ruhe zu beobachten.",
             "hu": "Kerékpározzon a festői víztározó mentén, és használja a jól kiépített parti utakat, hogy nyugodtan megfigyelhesse a gazdag madárvilágot a természetben.",
             "ro": "Pedalați de-a lungul lacului de acumulare pitoresc și folosiți potecile bine întreținute pentru a observa în liniște bogata faună de păsări din zonă.",
-            "en": "Cycle along the picturesque reservoir and use the well-maintained waterside paths to easily observe the rich birdlife in a wonderfully tranquil setting."
+            "en": "Cycle along the picturesque reservoir and use the well-maintained waterside paths to easily observe the rich birdlife in a wonderfully tranquil setting.",
+            "fr": "Parcourez à vélo le réservoir pittoresque et utilisez les chemins bien entretenus au bord de l'eau pour observer facilement la riche avifaune dans un cadre merveilleusement paisible."
           }
         },
         {
@@ -485,7 +536,8 @@
             "de": "Gare de La Roche-sur-Yon",
             "hu": "Gare de La Roche-sur-Yon",
             "ro": "Gare de La Roche-sur-Yon",
-            "en": "Gare de La Roche-sur-Yon"
+            "en": "Gare de La Roche-sur-Yon",
+            "fr": "Gare de La Roche-sur-Yon"
           },
           "coords": [
             -1.435604,
@@ -500,7 +552,8 @@
             "de": "Betrachten Sie die klassische Bahnhofsarchitektur, die den Fortschritt des 19. Jahrhunderts symbolisiert; sichere Fahrradstellplätze finden Sie direkt am Eingang.",
             "hu": "Tekintse meg a klasszikus vasútállomás építészetét, amely a 19. századi fejlődést szimbolizálja; biztonságos kerékpártárolókat talál közvetlenül a bejáratnál.",
             "ro": "Admirați arhitectura clasică a gării, simbol al progresului secolului al XIX-lea; veți găsi parcări sigure pentru biciclete chiar lângă intrarea principală.",
-            "en": "Admire the classic railway station architecture symbolizing 19th-century progress; you can find secure bicycle parking racks located right by the main entrance."
+            "en": "Admire the classic railway station architecture symbolizing 19th-century progress; you can find secure bicycle parking racks located right by the main entrance.",
+            "fr": "Admirez l'architecture classique de la gare, symbole du progrès du XIXe siècle ; vous trouverez des arceaux sécurisés pour vélos juste à l'entrée principale."
           }
         },
         {
@@ -508,7 +561,8 @@
             "de": "Haras de la Vendée",
             "hu": "Haras de la Vendée",
             "ro": "Haras de la Vendée",
-            "en": "Haras de la Vendée"
+            "en": "Haras de la Vendée",
+            "fr": "Haras de la Vendée"
           },
           "coords": [
             -1.42694,
@@ -523,7 +577,8 @@
             "de": "Erleben Sie die majestätischen Pferde und die Reitgeschichte dieses Gestüts; buchen Sie Führungen am besten im Voraus online, um Wartezeiten zu sparen.",
             "hu": "Tapasztalja meg a fenséges lovakat és a ménesbirtok történelmét; a legjobb, ha a vezetett túrákat előre lefoglalja online, hogy elkerülje a sorban állást.",
             "ro": "Admirați caii maiestuoși și istoria ecvestră a acestei herghelii; cel mai bine este să rezervați tururile ghidate online în avans pentru a câștiga timp.",
-            "en": "Experience the majestic horses and rich equestrian history of this stud farm; book guided tours online in advance to skip the line and save valuable time."
+            "en": "Experience the majestic horses and rich equestrian history of this stud farm; book guided tours online in advance to skip the line and save valuable time.",
+            "fr": "Vivez les chevaux majestueux et la riche histoire équestre de ce haras ; réservez les visites guidées en ligne à l'avance pour éviter la file et gagner du temps précieux."
           }
         },
         {
@@ -531,7 +586,8 @@
             "de": "Jardin des Compagnons",
             "hu": "Jardin des Compagnons",
             "ro": "Jardin des Compagnons",
-            "en": "Jardin des Compagnons"
+            "en": "Jardin des Compagnons",
+            "fr": "Jardin des Compagnons"
           },
           "coords": [
             -1.421769,
@@ -546,7 +602,8 @@
             "de": "Spazieren Sie durch diesen liebevoll gepflegten Garten, der sich perfekt für ein entspanntes Picknick mit lokalen Spezialitäten vom nahen Markt eignet.",
             "hu": "Sétáljon végig ezen a gondosan karbantartott kerten, amely tökéletes helyszín egy pihentető piknikhez a helyi piacról származó friss finomságokkal.",
             "ro": "Plimbați-vă prin această grădină frumos îngrijită, ideală pentru un picnic relaxant cu produse locale proaspete cumpărate de la piața din apropiere.",
-            "en": "Stroll through this beautifully maintained garden, which serves as a perfect spot for a relaxing picnic with fresh local treats from the nearby market."
+            "en": "Stroll through this beautifully maintained garden, which serves as a perfect spot for a relaxing picnic with fresh local treats from the nearby market.",
+            "fr": "Promenez-vous dans ce jardin magnifiquement entretenu, idéal pour un pique-nique relaxant avec des produits locaux frais du marché voisin."
           }
         }
       ],
@@ -554,7 +611,8 @@
         "de": "Radeln Sie vom zentralen Place Napoléon zur markanten Église du Sacré-Cœur. Verlassen Sie dann das Zentrum, um die Natur am Barrage du Moulin Papon zu genießen, wo breite Wege ideale Bedingungen bieten. Kehren Sie über die historische Gare de La Roche-sur-Yon in die Stadt zurück. Am Nachmittag besuchen Sie das Gestüt Haras de la Vendée, bevor Sie im Jardin des Compagnons ausspannen.",
         "hu": "Kerékpározzon a központi Place Napoléonról a lenyűgöző Église du Sacré-Cœur templomhoz. Hagyja el a központot, és élvezze a természetet a Barrage du Moulin Papon gátnál, ahol széles utak várják. Térjen vissza a történelmi Gare de La Roche-sur-Yon érintésével. Délután látogasson el a Haras de la Vendée ménesbirtokra, majd lazítson a Jardin des Compagnons park fái alatt.",
         "ro": "Pedalați din centrul Place Napoléon spre impresionanta Église du Sacré-Cœur. Ieșiți din oraș pentru a vă bucura de natura de la Barrage du Moulin Papon, ideală pentru bicicliști. Întoarceți-vă trecând pe la istorica Gare de La Roche-sur-Yon. După-amiaza, vizitați herghelia Haras de la Vendée, înainte de a vă relaxa în frumosul parc Jardin des Compagnons la finalul zilei.",
-        "en": "Cycle from the central Place Napoléon to the striking Église du Sacré-Cœur. Leave the bustling center to enjoy the scenic nature paths at Barrage du Moulin Papon. Return to the city via the historic architecture of Gare de La Roche-sur-Yon. In the afternoon, visit the elegant Haras de la Vendée stud farm, before winding down in the tranquil Jardin des Compagnons."
+        "en": "Cycle from the central Place Napoléon to the striking Église du Sacré-Cœur. Leave the bustling center to enjoy the scenic nature paths at Barrage du Moulin Papon. Return to the city via the historic architecture of Gare de La Roche-sur-Yon. In the afternoon, visit the elegant Haras de la Vendée stud farm, before winding down in the tranquil Jardin des Compagnons.",
+        "fr": "Partez de la Place Napoléon, roulez jusqu'à la striking Église du Sacré-Cœur. Quittez le centre animé pour profiter des chemins naturels pittoresques au Barrage du Moulin Papon. Retournez en ville via l'architecture historique de la Gare de La Roche-sur-Yon. L'après-midi, visitez le séduisant Haras de la Vendée, puis terminez dans le paisible Jardin des Compagnons."
       },
       "variants": {
         "rainy": {
@@ -562,7 +620,8 @@
             "de": "Ein nasser Start am Place Napoléon erfordert volle Konzentration auf dem Rad. Mittags radeln Sie vorsichtig zur Kirche Sacré-Cœur und weiter zum Moulin Papon, wo der Regen den Stausee dramatisch wirken lässt. Der Nachmittag führt über den Bahnhof zum historischen Gestüt. Denken Sie an wasserfeste Kleidung und vorsichtiges Bremsen auf den glitschigen Wegen der Stadt.",
             "hu": "Az esős reggel a Place Napoléonon óvatos kerékpározást igényel a csúszós kövön. Délben a Sacré-Cœur templom, majd a Moulin Papon gátja következik, ahol az eső drámai hangulatot kölcsönöz a tónak. Délután a vasútállomás érintésével tekerhet a ménesbirtokhoz. Viseljen teljes esőfelszerelést, és számítson a hosszabb féktávra a vizes aszfalton.",
             "ro": "Un început umed în Place Napoléon necesită concentrare maximă pe bicicletă. La prânz, pedalați cu grijă spre biserica Sacré-Cœur și apoi spre barajul Moulin Papon, unde ploaia creează un decor dramatic. După-amiaza treceți pe la gară spre herghelie. Nu uitați echipamentul impermeabil și frânați cu prudență pe drumurile alunecoase.",
-            "en": "A wet start at Place Napoléon requires full focus while cycling on slippery surfaces. At noon, pedal carefully to the Sacré-Cœur church and on to the Moulin Papon dam, where rain adds a dramatic feel to the lake. The afternoon continues via the station to the stud farm. Wear full waterproof gear and allow for longer braking distances on wet city streets."
+            "en": "A wet start at Place Napoléon requires full focus while cycling on slippery surfaces. At noon, pedal carefully to the Sacré-Cœur church and on to the Moulin Papon dam, where rain adds a dramatic feel to the lake. The afternoon continues via the station to the stud farm. Wear full waterproof gear and allow for longer braking distances on wet city streets.",
+            "fr": "Un départ humide à la Place Napoléon exige une attention totale en vélo sur surfaces glissantes. À midi, pédalez prudemment jusqu'à l'église du Sacré-Cœur puis au barrage du Moulin Papon, où la pluie donne au lac une atmosphère dramatique. L'après-midi se poursuit via la gare jusqu'au haras. Portez un équipement entièrement imperméable et prévoyez des distances de freinage plus longues sur les routes mouillées de la ville."
           },
           "stops": [
             {
@@ -570,13 +629,15 @@
                 "de": "Place Napoléon",
                 "hu": "Place Napoléon",
                 "ro": "Place Napoléon",
-                "en": "Place Napoléon"
+                "en": "Place Napoléon",
+                "fr": "Place Napoléon"
               },
               "tip_5lang": {
                 "de": "Prüfen Sie Ihre Bremsen vor der Abfahrt, da die Granitplatten des Platzes bei Regen extrem rutschig werden; nutzen Sie die überdachten Bereiche zum Aufsitzen.",
                 "hu": "Indulás előtt ellenőrizze a fékeket, mert a tér gránitlapjai esőben rendkívül csúszósak; használja a fedett részeket a nyeregbe szálláshoz.",
                 "ro": "Verificați frânele înainte de plecare, deoarece plăcile de granit din piață devin extrem de alunecoase; folosiți zonele acoperite pentru a urca pe bicicletă.",
-                "en": "Check your brakes before setting off, as the square's granite slabs become extremely slippery; use the covered areas to mount your bike safely."
+                "en": "Check your brakes before setting off, as the square's granite slabs become extremely slippery; use the covered areas to mount your bike safely.",
+                "fr": "Vérifiez vos freins avant de partir, car les dalles de granite de la place deviennent extrêmement glissantes ; utilisez les zones couvertes pour monter en selle en sécurité."
               }
             },
             {
@@ -584,13 +645,15 @@
                 "de": "Église du Sacré-Cœur",
                 "hu": "Église du Sacré-Cœur",
                 "ro": "Église du Sacré-Cœur",
-                "en": "Église du Sacré-Cœur"
+                "en": "Église du Sacré-Cœur",
+                "fr": "Église du Sacré-Cœur"
               },
               "tip_5lang": {
                 "de": "Parken Sie Ihr Rad nah am Eingang unter einem Vorsprung; die Kirche bietet eine perfekte Pause, um die Regenjacke kurz auszuschütteln und sich zu sammeln.",
                 "hu": "Parkoljon a bejárathoz közel egy eresz alatt; a templom tökéletes helyszín egy rövid szünetre, ahol lerázhatja az esőt a kabátjáról és megpihenhet.",
                 "ro": "Parcați bicicleta aproape de intrare, sub o streașină; biserica oferă o pauză perfectă pentru a scutura pelerina de ploaie și a vă reculege.",
-                "en": "Park your bike close to the entrance under an overhang; the church provides a perfect break to shake off your rain jacket and regroup."
+                "en": "Park your bike close to the entrance under an overhang; the church provides a perfect break to shake off your rain jacket and regroup.",
+                "fr": "Garez votre vélo près de l'entrée, sous un auvent ; l'église offre une pause parfaite pour enlever votre veste de pluie et vous regrouper."
               }
             },
             {
@@ -598,13 +661,15 @@
                 "de": "Barrage du Moulin Papon",
                 "hu": "Barrage du Moulin Papon",
                 "ro": "Barrage du Moulin Papon",
-                "en": "Barrage du Moulin Papon"
+                "en": "Barrage du Moulin Papon",
+                "fr": "Barrage du Moulin Papon"
               },
               "tip_5lang": {
                 "de": "Der Weg am See kann bei Regen schlammig sein; Schutzbleche am Rad sind hier unerlässlich, um Schmutzspritzer auf Ihrer Kleidung zu vermeiden.",
                 "hu": "A tóparti út esőben sáros lehet; a sárvédő elengedhetetlen, hogy elkerülje a felverődő koszt az öltözékén a gát környéki tekerés során.",
                 "ro": "Drumul de lângă lac poate fi noroios; apărătorile de noroi sunt esențiale aici pentru a evita stropirea hainelor în timpul pedalării.",
-                "en": "The lakeside path can be muddy in the rain; mudguards are essential here to prevent splashes on your clothes while cycling near the dam."
+                "en": "The lakeside path can be muddy in the rain; mudguards are essential here to prevent splashes on your clothes while cycling near the dam.",
+                "fr": "Le chemin au bord du lac peut être boueux sous la pluie ; les garde-boue sont essentiels pour éviter les éclaboussures sur vos vêtements en pédalant près du barrage."
               }
             },
             {
@@ -612,13 +677,15 @@
                 "de": "Gare de La Roche-sur-Yon",
                 "hu": "Gare de La Roche-sur-Yon",
                 "ro": "Gare de La Roche-sur-Yon",
-                "en": "Gare de La Roche-sur-Yon"
+                "en": "Gare de La Roche-sur-Yon",
+                "fr": "Gare de La Roche-sur-Yon"
               },
               "tip_5lang": {
                 "de": "Nutzen Sie den überdachten Fahrradstand am Bahnhof für eine trockene Pause; die Bahnhofshalle bietet zudem Toiletten und Schutz vor heftigen Güssen.",
                 "hu": "Használja a vasútállomás fedett kerékpártárolóját egy száraz szünetre; az állomás csarnoka mosdót és biztos menedéket nyújt a hevesebb záporok elől.",
                 "ro": "Folosiți parcarea acoperită pentru biciclete de la gară; holul gării oferă, de asemenea, toalete și protecție împotriva averselor puternice.",
-                "en": "Use the covered bike racks at the station for a dry break; the station hall also offers toilets and protection from heavy downpours."
+                "en": "Use the covered bike racks at the station for a dry break; the station hall also offers toilets and protection from heavy downpours.",
+                "fr": "Utilisez les arceaux couverts pour vélos à la gare pour une pause au sec ; le hall de la gare offre aussi des toilettes et une protection contre les fortes averses."
               }
             },
             {
@@ -626,13 +693,15 @@
                 "de": "Haras de la Vendée",
                 "hu": "Haras de la Vendée",
                 "ro": "Haras de la Vendée",
-                "en": "Haras de la Vendée"
+                "en": "Haras de la Vendée",
+                "fr": "Haras de la Vendée"
               },
               "tip_5lang": {
                 "de": "Vermeiden Sie beim Radeln auf dem Gelände die nassen Grasflächen; bleiben Sie auf den befestigten Wegen, um nicht wegzurutschen oder einzusinken.",
                 "hu": "A ménes területén kerülje a vizes füves részeket; maradjon a szilárd burkolatú utakon, hogy elkerülje a megcsúszást vagy az elsüllyedést.",
                 "ro": "Evitați zonele cu iarbă umedă în timp ce pedalați în incintă; rămâneți pe aleile pavate pentru a nu aluneca sau a nu vă scufunda în noroi.",
-                "en": "Avoid cycling on wet grassy areas within the grounds; stay on the paved paths to prevent slipping or getting stuck in soft soil."
+                "en": "Avoid cycling on wet grassy areas within the grounds; stay on the paved paths to prevent slipping or getting stuck in soft soil.",
+                "fr": "Évitez de circuler à vélo sur les zones herbeuses mouillées dans l'enceinte ; restez sur les chemins goudronnés pour éviter de glisser ou de vous enliser dans la terre meuble."
               }
             },
             {
@@ -640,13 +709,15 @@
                 "de": "Jardin des Compagnons",
                 "hu": "Jardin des Compagnons",
                 "ro": "Jardin des Compagnons",
-                "en": "Jardin des Compagnons"
+                "en": "Jardin des Compagnons",
+                "fr": "Jardin des Compagnons"
               },
               "tip_5lang": {
                 "de": "Fahren Sie im Garten besonders langsam, da nasses Laub auf den Wegen so glatt wie Eis sein kann; genießen Sie die frische, kühle Regenluft.",
                 "hu": "Tekerjen különösen lassan a kertben, mert a vizes levelek az úton olyan csúszósak lehetnek, mint a jég; élvezze a friss, hűvös esőillatot.",
                 "ro": "Pedalați foarte încet în grădină, deoarece frunzele ude pot fi la fel de alunecoase ca gheața; bucurați-vă de aerul proaspăt de ploaie.",
-                "en": "Cycle very slowly in the garden, as wet leaves on the paths can be as slippery as ice; enjoy the fresh, cool rain-scented air."
+                "en": "Cycle very slowly in the garden, as wet leaves on the paths can be as slippery as ice; enjoy the fresh, cool rain-scented air.",
+                "fr": "Roule lentement dans le jardin, car les feuilles mouillées sur les sentiers peuvent être aussi glissantes que la glace ; profitez de l'air frais et parfumé par la pluie."
               }
             }
           ]
@@ -656,7 +727,8 @@
             "de": "Ein frostiger Start am Place Napoléon lässt Sie schnell in die Pedale treten, um warm zu werden. Mittags bietet die Kirche Sacré-Cœur eine spirituelle und windgeschützte Pause. Die Fahrt zum Moulin Papon zeigt die winterliche Ruhe des Sees. Da es bereits gegen 17:00 Uhr dunkel wird, sollten Sie Ihre Radtour früh beenden und auf funktionierende Beleuchtung achten.",
             "hu": "A fagyos reggel a Place Napoléonon gyorsabb tempóra ösztönöz, hogy bemelegedjen. Délben a Sacré-Cœur templom nyújt szélvédett pihenőt. A Moulin Papon gátjához vezető út a tó téli nyugalmát tárja elénk. Mivel 17 óra körül sötétedik, fejezze be korán a túrát, és ügyeljen a kerékpár lámpáinak megfelelő működésére.",
             "ro": "Un început geroas în Place Napoléon vă face să pedalați rapid pentru a vă încălzi. La prânz, biserica Sacré-Cœur oferă o pauză ferită de vânt. Drumul spre barajul Moulin Papon dezvăluie liniștea hibernală a lacului. Deoarece se întunecă în jurul orei 17:00, încheiați tura devreme și asigurați-vă că luminile funcționează.",
-            "en": "A frosty start at Place Napoléon encourages a brisk pace to stay warm. At noon, the Sacré-Cœur church offers a peaceful, wind-sheltered break. The ride to the Moulin Papon dam reveals the serene winter beauty of the lake. Since it gets dark around 17:00, finish your tour early and ensure your bike lights are working properly."
+            "en": "A frosty start at Place Napoléon encourages a brisk pace to stay warm. At noon, the Sacré-Cœur church offers a peaceful, wind-sheltered break. The ride to the Moulin Papon dam reveals the serene winter beauty of the lake. Since it gets dark around 17:00, finish your tour early and ensure your bike lights are working properly.",
+            "fr": "Un départ givré à la Place Napoléon incite à un rythme soutenu pour rester au chaud. À midi, l'église du Sacré-Cœur offre une pause à l'abri du vent. La route jusqu'au barrage du Moulin Papon révèle la beauté hivernale sereine du lac. Comme il fait nuit vers 17:00, terminez votre circuit tôt et assurez-vous que l'éclairage de votre vélo fonctionne correctement."
           },
           "stops": [
             {
@@ -664,13 +736,15 @@
                 "de": "Place Napoléon",
                 "hu": "Place Napoléon",
                 "ro": "Place Napoléon",
-                "en": "Place Napoléon"
+                "en": "Place Napoléon",
+                "fr": "Place Napoléon"
               },
               "tip_5lang": {
                 "de": "Achten Sie auf überfrierende Nässe an den Beckenrändern; tragen Sie warme Radhandschuhe, um die Finger für die Bremsen beweglich zu halten.",
                 "hu": "Ügyeljen a medencék széleinél előforduló lefagyásokra; viseljen meleg kerékpáros kesztyűt, hogy ujjai mozgékonyak maradjanak a fékezéshez.",
                 "ro": "Atenție la porțiunile înghețate de lângă bazine; purtați mănuși de ciclism groase pentru a vă menține degetele mobile pentru frânare.",
-                "en": "Watch out for icy patches near the pool edges; wear warm cycling gloves to keep your fingers nimble enough for effective braking."
+                "en": "Watch out for icy patches near the pool edges; wear warm cycling gloves to keep your fingers nimble enough for effective braking.",
+                "fr": "Attention aux plaques de glace près des bords du bassin ; portez des gants chauds pour garder les doigts assez agiles pour freiner efficacement."
               }
             },
             {
@@ -678,13 +752,15 @@
                 "de": "Église du Sacré-Cœur",
                 "hu": "Église du Sacré-Cœur",
                 "ro": "Église du Sacré-Cœur",
-                "en": "Église du Sacré-Cœur"
+                "en": "Église du Sacré-Cœur",
+                "fr": "Église du Sacré-Cœur"
               },
               "tip_5lang": {
                 "de": "Nutzen Sie den Besuch für eine Aufwärmpause vom Fahrtwind; die dicken Mauern der Kirche halten den eisigen Winterwind effektiv draußen.",
                 "hu": "Használja ki a látogatást a menetszél utáni bemelegedésre; a templom vastag falai hatékonyan kint tartják a jeges téli szelet.",
                 "ro": "Folosiți vizita pentru a vă încălzi după vântul din timpul mersului; zidurile groase ale bisericii țin eficient vântul înghețat afară.",
-                "en": "Use the visit to warm up from the wind chill; the thick walls of the church effectively keep the icy winter wind at bay."
+                "en": "Use the visit to warm up from the wind chill; the thick walls of the church effectively keep the icy winter wind at bay.",
+                "fr": "Profitez de la visite pour vous réchauffer du froid ; les murs épais de l'église isolent efficacement du vent hivernal glacial."
               }
             },
             {
@@ -692,13 +768,15 @@
                 "de": "Barrage du Moulin Papon",
                 "hu": "Barrage du Moulin Papon",
                 "ro": "Barrage du Moulin Papon",
-                "en": "Barrage du Moulin Papon"
+                "en": "Barrage du Moulin Papon",
+                "fr": "Barrage du Moulin Papon"
               },
               "tip_5lang": {
                 "de": "Die freie Fläche am Stausee kann sehr windig und kalt sein; ziehen Sie eine winddichte Schicht an, bevor Sie diesen exponierten Abschnitt befahren.",
                 "hu": "A gát környéki nyílt terep nagyon szeles és hideg lehet; vegyen fel szélálló réteget, mielőtt erre a kitett szakaszra érne a tóparton.",
                 "ro": "Zona deschisă de lângă baraj poate fi foarte vântoasă și rece; puneți-vă un strat rezistent la vânt înainte de a parcurge această porțiune expusă.",
-                "en": "The open area near the dam can be very windy and cold; put on a windproof layer before cycling across this exposed section of the lake."
+                "en": "The open area near the dam can be very windy and cold; put on a windproof layer before cycling across this exposed section of the lake.",
+                "fr": "La zone ouverte près du barrage peut être très venteuse et froide ; enfilez une couche coupe-vent avant de traverser à vélo cette portion exposée du lac."
               }
             },
             {
@@ -706,13 +784,15 @@
                 "de": "Gare de La Roche-sur-Yon",
                 "hu": "Gare de La Roche-sur-Yon",
                 "ro": "Gare de La Roche-sur-Yon",
-                "en": "Gare de La Roche-sur-Yon"
+                "en": "Gare de La Roche-sur-Yon",
+                "fr": "Gare de La Roche-sur-Yon"
               },
               "tip_5lang": {
                 "de": "Ein heißer Tee am Bahnhofskiosk wirkt Wunder gegen die Kälte; prüfen Sie hier nochmals Ihre Beleuchtung, falls Sie bis zur Dämmerung unterwegs sind.",
                 "hu": "Egy forró tea az állomási büfében csodákra képes a hideg ellen; ellenőrizze itt újra a világítását, ha szürkületig úton maradna.",
                 "ro": "Un ceai fierbinte de la chioșcul gării face minuni împotriva frigului; verificați din nou luminile aici dacă veți pedala până la amurg.",
-                "en": "A hot tea from the station kiosk works wonders against the cold; double-check your lights here if you plan to stay out until dusk."
+                "en": "A hot tea from the station kiosk works wonders against the cold; double-check your lights here if you plan to stay out until dusk.",
+                "fr": "Un thé chaud au kiosque de la gare fait des merveilles contre le froid ; vérifiez bien vos éclairages si vous prévoyez de rester dehors jusqu’au crépuscule."
               }
             },
             {
@@ -720,13 +800,15 @@
                 "de": "Haras de la Vendée",
                 "hu": "Haras de la Vendée",
                 "ro": "Haras de la Vendée",
-                "en": "Haras de la Vendée"
+                "en": "Haras de la Vendée",
+                "fr": "Haras de la Vendée"
               },
               "tip_5lang": {
                 "de": "Die Wege können bei Frost rutschig sein; fahren Sie in Kurven besonders vorsichtig und meiden Sie vereiste Pfützen auf dem historischen Gelände.",
                 "hu": "A fagy miatt az utak csúszósak lehetnek; a kanyarokban legyen különösen óvatos, és kerülje a jeges tócsákat a történelmi birtok területén.",
                 "ro": "Drumurile pot fi alunecoase din cauza înghețului; pedalați cu prudență sporită în curbe și evitați bălțile înghețate din incinta hergheliei.",
-                "en": "Paths can be slippery due to frost; be extra careful in turns and avoid icy puddles while navigating the historic stud farm grounds."
+                "en": "Paths can be slippery due to frost; be extra careful in turns and avoid icy puddles while navigating the historic stud farm grounds.",
+                "fr": "Les chemins peuvent être glissants à cause du gel ; soyez particulièrement prudent dans les virages et évitez les flaques verglacées en parcourant le domaine du haras historique."
               }
             },
             {
@@ -734,13 +816,15 @@
                 "de": "Jardin des Compagnons",
                 "hu": "Jardin des Compagnons",
                 "ro": "Jardin des Compagnons",
-                "en": "Jardin des Compagnons"
+                "en": "Jardin des Compagnons",
+                "fr": "Jardin des Compagnons"
               },
               "tip_5lang": {
                 "de": "Beenden Sie Ihren Besuch vor 16:30 Uhr, um im hellen Licht sicher zurückzuradeln; die Wintersonne tief am Horizont blendet oft beim Fahren.",
                 "hu": "Fejezze be a látogatást 16:30 előtt, hogy még világosban, biztonságban visszatekerhessen; az alacsonyan járó téli nap gyakran vakító lehet vezetés közben.",
                 "ro": "Încheiați vizita înainte de 16:30 pentru a pedala înapoi în siguranță pe lumină; soarele jos de iarnă poate fi orbitor în timpul mersului.",
-                "en": "Finish your visit before 16:30 to cycle back safely while it's still light; the low winter sun can often be blinding while riding."
+                "en": "Finish your visit before 16:30 to cycle back safely while it's still light; the low winter sun can often be blinding while riding.",
+                "fr": "Terminez votre visite avant 16h30 pour rentrer à vélo en toute sécurité tant qu’il fait jour ; le soleil bas d’hiver peut souvent aveugler en roulant."
               }
             }
           ]
@@ -760,7 +844,8 @@
             "de": "Place Napoléon",
             "hu": "Place Napoléon",
             "ro": "Place Napoléon",
-            "en": "Place Napoléon"
+            "en": "Place Napoléon",
+            "fr": "Place Napoléon"
           },
           "coords": [
             -1.42664,
@@ -775,7 +860,8 @@
             "de": "Interagieren Sie mit den beeindruckenden mechanischen Tieren auf diesem zentralen Platz, aber kommen Sie früh, um den größten Menschenmassen auszuweichen.",
             "hu": "Lépjen kapcsolatba a lenyűgöző mechanikus állatokkal ezen a központi téren, de érkezzen korán, hogy elkerülje a legnagyobb tömeget és kényelmesen nézelődjön.",
             "ro": "Interacționați cu fascinantele animale mecanice din această piață centrală, dar veniți devreme pentru a evita aglomerația și a vă bucura de un spațiu aerisit.",
-            "en": "Interact with the fascinating mechanical animals located in this central square, but arrive early to avoid the biggest crowds and operate them yourself."
+            "en": "Interact with the fascinating mechanical animals located in this central square, but arrive early to avoid the biggest crowds and operate them yourself.",
+            "fr": "Interagissez avec les fascinants animaux mécaniques situés sur cette place centrale, mais arrivez tôt pour éviter la masse et pouvoir les actionner vous-même."
           }
         },
         {
@@ -783,7 +869,8 @@
             "de": "Haras de la Vendée",
             "hu": "Haras de la Vendée",
             "ro": "Haras de la Vendée",
-            "en": "Haras de la Vendée"
+            "en": "Haras de la Vendée",
+            "fr": "Haras de la Vendée"
           },
           "coords": [
             -1.42694,
@@ -798,7 +885,8 @@
             "de": "Erleben Sie die majestätischen Pferde und die Reitgeschichte dieses Gestüts; buchen Sie Führungen am besten im Voraus online, um Wartezeiten zu sparen.",
             "hu": "Tapasztalja meg a fenséges lovakat és a ménesbirtok történelmét; a legjobb, ha a vezetett túrákat előre lefoglalja online, hogy elkerülje a sorban állást.",
             "ro": "Admirați caii maiestuoși și istoria ecvestră a acestei herghelii; cel mai bine este să rezervați tururile ghidate online în avans pentru a câștiga timp.",
-            "en": "Experience the majestic horses and rich equestrian history of this stud farm; book guided tours online in advance to skip the line and save valuable time."
+            "en": "Experience the majestic horses and rich equestrian history of this stud farm; book guided tours online in advance to skip the line and save valuable time.",
+            "fr": "Vivez la splendeur des chevaux et la riche histoire équestre de ce haras ; réservez les visites guidées en ligne à l’avance pour couper la file et gagner un temps précieux."
           }
         },
         {
@@ -806,7 +894,8 @@
             "de": "Abbaye des Fontenelles",
             "hu": "Abbaye des Fontenelles",
             "ro": "Abbaye des Fontenelles",
-            "en": "Abbaye des Fontenelles"
+            "en": "Abbaye des Fontenelles",
+            "fr": "Abbaye des Fontenelles"
           },
           "coords": [
             -1.486545,
@@ -821,7 +910,8 @@
             "de": "Erkunden Sie die stimmungsvollen Ruinen dieser alten Abtei; parken Sie am Rande des Geländes und tragen Sie festes Schuhwerk für unebene Böden.",
             "hu": "Fedezze fel ennek az ősi apátságnak a hangulatos romjait; parkoljon a terület szélén, és viseljen kényelmes cipőt az egyenetlen talaj miatt.",
             "ro": "Explorați ruinele pline de atmosferă ale acestei vechi abații; parcați la marginea sitului și purtați încălțăminte adecvată pentru terenul denivelat.",
-            "en": "Explore the atmospheric ruins of this ancient abbey; park your car at the edge of the site and make sure to wear sturdy shoes for the uneven ground."
+            "en": "Explore the atmospheric ruins of this ancient abbey; park your car at the edge of the site and make sure to wear sturdy shoes for the uneven ground.",
+            "fr": "Explorez les ruines atmosphériques de cette ancienne abbaye ; garez votre voiture au bord du site et portez des chaussures solides pour le sol irrégulier."
           }
         },
         {
@@ -829,7 +919,8 @@
             "de": "Carrière des Clouzeaux",
             "hu": "Carrière des Clouzeaux",
             "ro": "Carrière des Clouzeaux",
-            "en": "Carrière des Clouzeaux"
+            "en": "Carrière des Clouzeaux",
+            "fr": "Carrière des Clouzeaux"
           },
           "coords": [
             -1.516722,
@@ -844,7 +935,8 @@
             "de": "Genießen Sie den Ausblick auf diesen überfluteten Steinbruch; der Aussichtspunkt ist vom Parkplatz in wenigen Minuten über einen flachen Weg erreichbar.",
             "hu": "Élvezze a kilátást az elárasztott kőbányára; a kilátópont a parkolóból néhány perc alatt elérhető egy lapos, könnyen járható gyalogúton.",
             "ro": "Bucurați-vă de priveliștea acestei cariere inundate; punctul de belvedere este accesibil din parcare în câteva minute pe o potecă plană și ușoară.",
-            "en": "Enjoy the striking view of this flooded quarry; the main observation point is easily accessible from the parking area via a short, flat walking path."
+            "en": "Enjoy the striking view of this flooded quarry; the main observation point is easily accessible from the parking area via a short, flat walking path.",
+            "fr": "Profitez de la vue saisissante sur cette carrière inondée ; le principal point d’observation est facilement accessible depuis le parking via un court sentier plat."
           }
         },
         {
@@ -852,7 +944,8 @@
             "de": "Moulin de Rambourg",
             "hu": "Moulin de Rambourg",
             "ro": "Moulin de Rambourg",
-            "en": "Moulin de Rambourg"
+            "en": "Moulin de Rambourg",
+            "fr": "Moulin de Rambourg"
           },
           "coords": [
             -1.394244,
@@ -867,7 +960,8 @@
             "de": "Besichtigen Sie diese charmante Wassermühle am Fluss; der kleine Schotterparkplatz füllt sich schnell, daher ist ein Besuch am Nachmittag ideal.",
             "hu": "Látogasson el ehhez a bájos folyóparti vízimalomhoz; a kis kavicsos parkoló gyorsan megtelik, így a délutáni látogatás a legideálisabb választás.",
             "ro": "Vizitați această moară de apă fermecătoare; mica parcare cu pietriș se umple rapid, așa că o vizită târziu după-amiaza este cea mai bună opțiune.",
-            "en": "Visit this charming riverside watermill; the small gravel parking lot fills up quickly during peak hours, so a late afternoon visit is highly recommended."
+            "en": "Visit this charming riverside watermill; the small gravel parking lot fills up quickly during peak hours, so a late afternoon visit is highly recommended.",
+            "fr": "Visitez ce charmant moulin au bord de la rivière ; le petit parking en gravier se remplit vite aux heures de pointe, donc une visite en fin d’après‑midi est vivement recommandée."
           }
         }
       ],
@@ -875,7 +969,8 @@
         "de": "Beginnen Sie am Place Napoléon, bevor Sie schnell zum Haras de la Vendée fahren, um das Reit-Erbe zu sehen. Danach verlassen Sie die Stadtmauern und fahren zur ruhigen Abbaye des Fontenelles. Die Carrière des Clouzeaux bietet faszinierende Natur und geologische Einblicke. Den krönenden Abschluss bildet die Fahrt zum Moulin de Rambourg, wo Sie alte Mühlentechnik am Flussufer erleben.",
         "hu": "Kezdjen a Place Napoléon téren, majd vezessen a Haras de la Vendée ménesbirtokhoz. Ezt követően hagyja el a várost, és látogasson el a békés Abbaye des Fontenelles apátsághoz. A Carrière des Clouzeaux kőfejtő lenyűgöző természetet és geológiai betekintést nyújt. Végül vezessen el a Moulin de Rambourg malomhoz, ahol régi vízimalom-technológiát láthat a folyóparton.",
         "ro": "Începeți la Place Napoléon, apoi conduceți scurt spre Haras de la Vendée pentru moștenirea ecvestră. Părăsiți orașul pentru liniștea de la Abbaye des Fontenelles. Carrière des Clouzeaux vă oferă peisaje naturale și perspective geologice fascinante. Încheiați ziua conducând spre pitorescul Moulin de Rambourg, pentru a descoperi tehnologia vechilor mori pe malul râului.",
-        "en": "Start at Place Napoléon before a quick drive to Haras de la Vendée to see the equestrian heritage. Head outside the city limits to the serene ruins of Abbaye des Fontenelles. Next, Carrière des Clouzeaux offers striking natural scenery and geological insights. Conclude your driving tour at the historic Moulin de Rambourg, exploring antique milling technology by the river."
+        "en": "Start at Place Napoléon before a quick drive to Haras de la Vendée to see the equestrian heritage. Head outside the city limits to the serene ruins of Abbaye des Fontenelles. Next, Carrière des Clouzeaux offers striking natural scenery and geological insights. Conclude your driving tour at the historic Moulin de Rambourg, exploring antique milling technology by the river.",
+        "fr": "Commencez à la Place Napoléon avant une courte route jusqu’au Haras de la Vendée pour découvrir le patrimoine équestre. Sortez des limites de la ville pour rejoindre les ruines paisibles de l’Abbaye des Fontenelles. Ensuite, la Carrière des Clouzeaux offre des paysages naturels saisissants et des aperçus géologiques. Concluez votre circuit en voiture au historique Moulin de Rambourg, en explorant les techniques anciennes de meunerie au bord de la rivière."
       },
       "variants": {
         "rainy": {
@@ -883,7 +978,8 @@
             "de": "Ein regnerischer Tag lässt sich ideal mit dem Auto bewältigen. Starten Sie am Place Napoléon und fahren Sie zum geschützten Haras de la Vendée. Mittags erkunden Sie die Abbaye des Fontenelles, bevor Sie zur Carrière des Clouzeaux weiterfahren. Der Tag endet im Moulin de Rambourg, wo das Wasser des Flusses bei Regen besonders kraftvoll an den Rädern der Mühle vorbeirauscht.",
             "hu": "Az esős nap ideális a felfedezésre autóval, kényelemben maradva a záporok alatt. Kezdjen a Place Napoléonon, majd hajtson a Haras de la Vendée fedett istállóihoz. Délben látogasson el a Fontenelles apátsághoz és a Clouzeaux kőfejtőhöz. A nap a Moulin de Rambourg malomnál zárul, ahol az esőben felduzzadt folyó látványos erővel hajtja a kerekeket.",
             "ro": "O zi ploioasă este ideală pentru a fi explorată cu mașina, rămânând la adăpost între opriri. Începeți în Place Napoléon și conduceți spre herghelia acoperită. La prânz, vizitați Abbaye des Fontenelles și cariera din Clouzeaux. Ziua se încheie la Moulin de Rambourg, unde râul umflat de ploaie curge cu forță pe lângă roțile morii.",
-            "en": "A rainy day is easily managed by car, staying dry between stops. Start at Place Napoléon and drive to the sheltered Haras de la Vendée. At noon, visit the Abbaye des Fontenelles followed by the Clouzeaux quarry. The day ends at Moulin de Rambourg, where the rain-swollen river flows with impressive power past the old mill wheels."
+            "en": "A rainy day is easily managed by car, staying dry between stops. Start at Place Napoléon and drive to the sheltered Haras de la Vendée. At noon, visit the Abbaye des Fontenelles followed by the Clouzeaux quarry. The day ends at Moulin de Rambourg, where the rain-swollen river flows with impressive power past the old mill wheels.",
+            "fr": "Une journée pluvieuse se gère facilement en voiture, en restant au sec entre les étapes. Commencez à la Place Napoléon et conduisez jusqu’au abrité Haras de la Vendée. À midi, visitez l’Abbaye des Fontenelles puis la carrière des Clouzeaux. La journée se termine au Moulin de Rambourg, où la rivière gonflée par la pluie coule avec une puissance impressionnante le long des vieilles roues du moulin."
           },
           "stops": [
             {
@@ -891,13 +987,15 @@
                 "de": "Place Napoléon",
                 "hu": "Place Napoléon",
                 "ro": "Place Napoléon",
-                "en": "Place Napoléon"
+                "en": "Place Napoléon",
+                "fr": "Place Napoléon"
               },
               "tip_5lang": {
                 "de": "Parken Sie in der Tiefgarage am Platz, um direkt im Trockenen auszusteigen; die mechanischen Tiere sind auch bei Regen ein tolles Fotomotiv.",
                 "hu": "Parkoljon a tér alatti mélygarázsban, így közvetlenül száraz helyre érkezhet; a gépállatok esőben is kiváló fotótémát szolgáltatnak.",
                 "ro": "Parcați în garajul subteran de sub piață pentru a ieși direct la adăpost; animalele mecanice sunt un subiect foto excelent chiar și pe ploaie.",
-                "en": "Park in the underground garage beneath the square to exit directly into a dry area; the mechanical animals are great photo subjects even in rain."
+                "en": "Park in the underground garage beneath the square to exit directly into a dry area; the mechanical animals are great photo subjects even in rain.",
+                "fr": "Garez‑vous dans le parking souterrain sous la place pour sortir directement dans un espace sec ; les animaux mécaniques font d’excellents sujets photo même sous la pluie."
               }
             },
             {
@@ -905,13 +1003,15 @@
                 "de": "Haras de la Vendée",
                 "hu": "Haras de la Vendée",
                 "ro": "Haras de la Vendée",
-                "en": "Haras de la Vendée"
+                "en": "Haras de la Vendée",
+                "fr": "Haras de la Vendée"
               },
               "tip_5lang": {
                 "de": "Nutzen Sie den parknahen Parkplatz, um die Wege im Regen kurz zu halten; im Inneren der Stallungen sind Sie und die Pferde bestens vor Nässe geschützt.",
                 "hu": "Használja a park közeli parkolót, hogy lerövidítse az esőben megtett utat; az istállók belsejében ön és a lovak is védve vannak a csapadéktól.",
                 "ro": "Folosiți parcarea de lângă parc pentru a scurta drumul prin ploaie; în interiorul grajdurilor, atât voi cât și caii sunteți bine protejați de umezeală.",
-                "en": "Use the parking lot near the park to keep your walk in the rain short; inside the stables, both you and the horses are well protected from the wet."
+                "en": "Use the parking lot near the park to keep your walk in the rain short; inside the stables, both you and the horses are well protected from the wet.",
+                "fr": "Utilisez le parking proche du parc pour réduire la marche sous la pluie ; à l’intérieur des écuries, vous et les chevaux êtes bien protégés de l’humidité."
               }
             },
             {
@@ -919,13 +1019,15 @@
                 "de": "Abbaye des Fontenelles",
                 "hu": "Abbaye des Fontenelles",
                 "ro": "Abbaye des Fontenelles",
-                "en": "Abbaye des Fontenelles"
+                "en": "Abbaye des Fontenelles",
+                "fr": "Abbaye des Fontenelles"
               },
               "tip_5lang": {
                 "de": "Die Ruinen haben im Regen eine melancholische Schönheit; achten Sie auf rutschige Steine im Außenbereich und tragen Sie wasserfeste Schuhe.",
                 "hu": "A romok esőben melankolikus szépséget árasztanak; ügyeljen a csúszós kövekre a kültéri részeken, és viseljen vízálló lábbelit a sétához.",
                 "ro": "Ruinele au o frumusețe melancolică în ploaie; atenție la pietrele alunecoase din zonele exterioare și purtați încălțăminte impermeabilă.",
-                "en": "The ruins have a melancholy beauty in the rain; watch out for slippery stones in the outdoor areas and wear waterproof shoes for your walk."
+                "en": "The ruins have a melancholy beauty in the rain; watch out for slippery stones in the outdoor areas and wear waterproof shoes for your walk.",
+                "fr": "Les ruines ont une beauté mélancolique sous la pluie ; méfiez‑vous des pierres glissantes en extérieur et portez des chaussures imperméables pour votre promenade."
               }
             },
             {
@@ -933,13 +1035,15 @@
                 "de": "Carrière des Clouzeaux",
                 "hu": "Carrière des Clouzeaux",
                 "ro": "Carrière des Clouzeaux",
-                "en": "Carrière des Clouzeaux"
+                "en": "Carrière des Clouzeaux",
+                "fr": "Carrière des Clouzeaux"
               },
               "tip_5lang": {
                 "de": "Der Blick in den Steinbruch ist bei Nebel und Regen besonders mystisch; bleiben Sie im Auto sitzen, wenn der Guss zu stark wird, die Sicht bleibt beeindruckend.",
                 "hu": "A kőfejtő látványa ködben és esőben különösen misztikus; maradjon az autóban, ha a zápor túl erős, a kilátás onnan is lenyűgöző marad.",
                 "ro": "Priveliștea carierei este deosebit de mistică în ceață și ploaie; rămâneți în mașină dacă plouă prea tare, vederea rămâne impresionantă.",
-                "en": "The view of the quarry is especially mystical in fog and rain; stay in the car if the downpour is too heavy, the view remains impressive from inside."
+                "en": "The view of the quarry is especially mystical in fog and rain; stay in the car if the downpour is too heavy, the view remains impressive from inside.",
+                "fr": "La vue sur la carrière est particulièrement mystique dans le brouillard et la pluie ; restez dans la voiture si l’averse est trop forte, la vue reste impressionnante de l’intérieur."
               }
             },
             {
@@ -947,13 +1051,15 @@
                 "de": "Moulin de Rambourg",
                 "hu": "Moulin de Rambourg",
                 "ro": "Moulin de Rambourg",
-                "en": "Moulin de Rambourg"
+                "en": "Moulin de Rambourg",
+                "fr": "Moulin de Rambourg"
               },
               "tip_5lang": {
                 "de": "Das Museum bietet perfekten Schutz vor Regen; bewundern Sie die Mechanik im Inneren und beobachten Sie das spritzende Wasser des Flusses von der Galerie.",
                 "hu": "A múzeum tökéletes védelmet nyújt az eső elől; csodálja meg a benti mechanikát, és figyelje a folyó felcsapó vizét a galériáról.",
                 "ro": "Muzeul oferă protecție perfectă împotriva ploii; admirați mecanismele interioare și observați apa râului de pe galeria acoperită.",
-                "en": "The museum offers perfect protection from the rain; admire the interior mechanics and watch the splashing river water from the covered gallery."
+                "en": "The museum offers perfect protection from the rain; admire the interior mechanics and watch the splashing river water from the covered gallery.",
+                "fr": "Le musée offre une parfaite protection contre la pluie ; admirez les mécanismes intérieurs et observez l’eau ruisselante de la rivière depuis la galerie couverte."
               }
             }
           ]
@@ -963,7 +1069,8 @@
             "de": "Winterliche Ausflüge mit dem Auto bieten Komfort und Wärme. Starten Sie am frostigen Place Napoléon und besuchen Sie das geschichtsträchtige Gestüt. Die Fahrt führt Sie zur Abbaye des Fontenelles und zum stillen Steinbruch von Clouzeaux. Da es bereits gegen 17:00 Uhr dunkelt, ist die Mühle von Rambourg Ihr letzter Stopp, bevor Sie die gemütliche Rückfahrt im beheizten Wagen antreten.",
             "hu": "A téli autós kirándulás kényelmet és meleget nyújt a látnivalók között. Kezdjen a fagyos Place Napoléonon, majd látogasson el a történelmi ménesbirtokhoz. Az út a Fontenelles apátsághoz és Clouzeaux csendes kőfejtőjéhez vezet. Mivel 17 óra körül sötétedik, a Rambourg malom az utolsó állomás a fűtött autóban megtett kényelmes hazatérés előtt.",
             "ro": "Excursiile de iarnă cu mașina oferă confort și căldură între obiective. Începeți în Place Napoléonul înghețat și vizitați herghelia plină de istorie. Drumul vă duce spre Abbaye des Fontenelles și cariera liniștită din Clouzeaux. Deoarece se întunecă la 17:00, moara Rambourg este ultima oprire înainte de drumul spre casă.",
-            "en": "Winter car trips provide comfort and warmth between sights. Start at the frosty Place Napoléon and visit the historic stud farm. The drive takes you to the Abbaye des Fontenelles and the quiet Clouzeaux quarry. Since it gets dark around 17:00, the Rambourg mill is your final stop before a cozy drive back in your heated vehicle."
+            "en": "Winter car trips provide comfort and warmth between sights. Start at the frosty Place Napoléon and visit the historic stud farm. The drive takes you to the Abbaye des Fontenelles and the quiet Clouzeaux quarry. Since it gets dark around 17:00, the Rambourg mill is your final stop before a cozy drive back in your heated vehicle.",
+            "fr": "Les trajets en voiture en hiver apportent confort et chaleur entre les sites. Commencez à la froide Place Napoléon et visitez le haras historique. La route vous mène à l’Abbaye des Fontenelles et à la tranquille carrière des Clouzeaux. Comme la nuit tombe vers 17h00, le moulin de Rambourg est votre dernier arrêt avant un retour douillet en véhicule chauffé."
           },
           "stops": [
             {
@@ -971,13 +1078,15 @@
                 "de": "Place Napoléon",
                 "hu": "Place Napoléon",
                 "ro": "Place Napoléon",
-                "en": "Place Napoléon"
+                "en": "Place Napoléon",
+                "fr": "Place Napoléon"
               },
               "tip_5lang": {
                 "de": "Die Becken können im Winter teilweise gefroren sein; parken Sie in der Nähe, damit Sie nach dem Rundgang schnell wieder ins warme Auto schlüpfen können.",
                 "hu": "A medencék télen részben befagyhatnak; parkoljon a közelben, hogy a séta után gyorsan visszatérhessen a fűtött autóba.",
                 "ro": "Bazinele pot fi parțial înghețate iarna; parcați în apropiere pentru a putea reveni rapid în căldura mașinii după plimbare.",
-                "en": "The pools may be partially frozen in winter; park nearby so you can quickly return to the warmth of your car after your stroll around the square."
+                "en": "The pools may be partially frozen in winter; park nearby so you can quickly return to the warmth of your car after your stroll around the square.",
+                "fr": "Les bassins peuvent être partiellement gelés en hiver ; garez‑vous à proximité pour pouvoir retourner rapidement à la chaleur de votre voiture après votre promenade sur la place."
               }
             },
             {
@@ -985,13 +1094,15 @@
                 "de": "Haras de la Vendée",
                 "hu": "Haras de la Vendée",
                 "ro": "Haras de la Vendée",
-                "en": "Haras de la Vendée"
+                "en": "Haras de la Vendée",
+                "fr": "Haras de la Vendée"
               },
               "tip_5lang": {
                 "de": "Im Winter herrscht hier eine friedliche Ruhe; wärmen Sie sich in den Ausstellungsräumen auf und genießen Sie den Anblick der Pferde in ihren Winterdecken.",
                 "hu": "Télen békés nyugalom honol itt; melegedjen fel a kiállítótermekben, és gyönyörködjön a téli takaróba öltöztetett lovak látványában.",
                 "ro": "Iarna domnește o liniște deplină aici; încălziți-vă în sălile de expoziție și bucurați-vă de vederea cailor protejați de păturile de iarnă.",
-                "en": "A peaceful silence reigns here in winter; warm up in the exhibition rooms and enjoy the sight of the horses wearing their winter blankets."
+                "en": "A peaceful silence reigns here in winter; warm up in the exhibition rooms and enjoy the sight of the horses wearing their winter blankets.",
+                "fr": "Un silence paisible règne ici en hiver ; réchauffez‑vous dans les salles d’exposition et admirez les chevaux couverts de leurs couvertures d’hiver."
               }
             },
             {
@@ -999,13 +1110,15 @@
                 "de": "Abbaye des Fontenelles",
                 "hu": "Abbaye des Fontenelles",
                 "ro": "Abbaye des Fontenelles",
-                "en": "Abbaye des Fontenelles"
+                "en": "Abbaye des Fontenelles",
+                "fr": "Abbaye des Fontenelles"
               },
               "tip_5lang": {
                 "de": "Das Licht am Nachmittag ist im Winter oft sehr klar; nehmen Sie eine Thermoskanne mit warmem Tee mit, um die Besichtigung der Ruinen zu genießen.",
                 "hu": "A délutáni fények télen gyakran nagyon tiszták; vigyen magával egy termoszt meleg teával, hogy kellemesebbé tegye a romok megtekintését.",
                 "ro": "Lumina de după-amiază este adesea foarte clară iarna; luați un termos cu ceai cald pentru a savura vizitarea ruinelor în ciuda frigului.",
-                "en": "The afternoon light is often very clear in winter; bring a thermos of warm tea to enjoy your tour of the ruins despite the cold temperature."
+                "en": "The afternoon light is often very clear in winter; bring a thermos of warm tea to enjoy your tour of the ruins despite the cold temperature.",
+                "fr": "La lumière de l’après‑midi est souvent très claire en hiver ; apportez une thermos de thé chaud pour profiter de la visite des ruines malgré le froid."
               }
             },
             {
@@ -1013,13 +1126,15 @@
                 "de": "Carrière des Clouzeaux",
                 "hu": "Carrière des Clouzeaux",
                 "ro": "Carrière des Clouzeaux",
-                "en": "Carrière des Clouzeaux"
+                "en": "Carrière des Clouzeaux",
+                "fr": "Carrière des Clouzeaux"
               },
               "tip_5lang": {
                 "de": "Achten Sie auf vereiste Stellen auf der Zufahrtsstraße zum Steinbruch; der weite Blick über die Winterlandschaft ist den kurzen Stopp absolut wert.",
                 "hu": "Ügyeljen a jeges szakaszokra a kőfejtőhöz vezető úton; a téli tájra nyíló széles panoráma azonban teljesen megéri ezt a rövid megállót.",
                 "ro": "Atenție la porțiunile înghețate de pe drumul spre carieră; panorama vastă asupra peisajului de iarnă merită cu prisosință această scurtă oprire.",
-                "en": "Watch out for icy patches on the access road to the quarry; the wide view over the winter landscape is absolutely worth the short stop."
+                "en": "Watch out for icy patches on the access road to the quarry; the wide view over the winter landscape is absolutely worth the short stop.",
+                "fr": "Attention aux plaques de verglas sur la route d’accès à la carrière ; la vaste vue sur le paysage hivernal vaut absolument cet arrêt court."
               }
             },
             {
@@ -1027,13 +1142,15 @@
                 "de": "Moulin de Rambourg",
                 "hu": "Moulin de Rambourg",
                 "ro": "Moulin de Rambourg",
-                "en": "Moulin de Rambourg"
+                "en": "Moulin de Rambourg",
+                "fr": "Moulin de Rambourg"
               },
               "tip_5lang": {
                 "de": "Besuchen Sie das Museum vor Einbruch der Dunkelheit um 17:00 Uhr; die historische Atmosphäre im Inneren ist im Winter besonders gemütlich und geschützt.",
                 "hu": "Látogasson el a múzeumba a sötétedés beállta, 17 óra előtt; a belső történelmi hangulat télen különösen otthonos és védett.",
                 "ro": "Vizitați muzeul înainte de lăsarea întunericului, la ora 17:00; atmosfera istorică din interior este deosebit de primitoare și protejată iarna.",
-                "en": "Visit the museum before darkness falls at 17:00; the historic atmosphere inside is especially cozy and sheltered during the winter months."
+                "en": "Visit the museum before darkness falls at 17:00; the historic atmosphere inside is especially cozy and sheltered during the winter months.",
+                "fr": "Visitez le musée avant la tombée de la nuit à 17h00 ; l’atmosphère historique à l’intérieur est particulièrement chaleureuse et abritée durant les mois d’hiver."
               }
             }
           ]

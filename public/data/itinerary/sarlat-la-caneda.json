@@ -21,7 +21,8 @@
             "de": "Place de la Liberté",
             "hu": "Szabadság tér",
             "ro": "Piața Libertății",
-            "en": "Liberty Square"
+            "en": "Liberty Square",
+            "fr": "Place de la Liberté"
           },
           "coords": [
             1.2165,
@@ -45,7 +46,8 @@
             "de": "Cathédrale Saint-Sacerdos",
             "hu": "Szent Sacerdos katedrális",
             "ro": "Catedrala Saint-Sacerdos",
-            "en": "Saint-Sacerdos Cathedral"
+            "en": "Saint-Sacerdos Cathedral",
+            "fr": "Cathédrale Saint-Sacerdos"
           },
           "coords": [
             1.2173,
@@ -69,7 +71,8 @@
             "de": "Manoir de Gisson",
             "hu": "Gisson-udvarház",
             "ro": "Conacul Gisson",
-            "en": "Gisson Manor"
+            "en": "Gisson Manor",
+            "fr": "Manoir Gisson"
           },
           "coords": [
             1.217,
@@ -85,7 +88,7 @@
             "hu": "Betekintés a 17. századi polgári életbe.",
             "ro": "O privire în viața burgheză din secolul al XVII-lea.",
             "en": "Insight into 17th-century bourgeois life.",
-            "fr": "Aperçu de la vie bourgeoise du XVIIe siècle."
+            "fr": "Aperçu de la vie bourgeoise au XVIIe siècle."
           }
         },
         {
@@ -93,7 +96,8 @@
             "de": "Mittagessen in der Altstadt",
             "hu": "Ebéd az óvárosban",
             "ro": "Prânz în orașul vechi",
-            "en": "Lunch in the Old Town"
+            "en": "Lunch in the Old Town",
+            "fr": "Déjeuner en vieille ville"
           },
           "coords": [
             1.216,
@@ -109,7 +113,7 @@
             "hu": "Kóstolja meg a kacsát sarlat-i burgonyával.",
             "ro": "Încercați rața cu cartofi Sarladaise.",
             "en": "Try duck with Sarladaise potatoes.",
-            "fr": "Goûtez le canard avec des pommes de terre sarladaises."
+            "fr": "Goûtez au canard à la Sarladaise."
           }
         },
         {
@@ -117,7 +121,8 @@
             "de": "Lanterne des Morts",
             "hu": "Holtak lámpása",
             "ro": "Lanterna Morților",
-            "en": "Lantern of the Dead"
+            "en": "Lantern of the Dead",
+            "fr": "Lanterne des Morts"
           },
           "coords": [
             1.2185,
@@ -141,7 +146,8 @@
             "de": "Panoramalift Sainte-Marie",
             "hu": "Szent Mária panorámalift",
             "ro": "Liftul panoramic Sainte-Marie",
-            "en": "Sainte-Marie Panoramic Lift"
+            "en": "Sainte-Marie Panoramic Lift",
+            "fr": "Ascenseur panoramique Sainte-Marie"
           },
           "coords": [
             1.2162,
@@ -165,7 +171,8 @@
             "de": "Einkaufen in den Gassen",
             "hu": "Vásárlás a sikátorokban",
             "ro": "Cumpărături pe străduțe",
-            "en": "Shopping in the alleys"
+            "en": "Shopping in the alleys",
+            "fr": "Shopping dans les ruelles"
           },
           "coords": [
             1.2168,
@@ -181,7 +188,7 @@
             "hu": "A dióolaj és a szarvasgomba helyi kincs.",
             "ro": "Uleiul de nucă și trufele sunt comori locale.",
             "en": "Walnut oil and truffles are local treasures.",
-            "fr": "L'huile de noix et les truffes sont des trésors locaux."
+            "fr": "L'huile de noix et la truffe sont des trésors locaux."
           }
         }
       ],
@@ -190,7 +197,7 @@
         "hu": "Reggel a Place de la Liberté-n merülhet el a Périgord Noir szívében. Délben a pompás katedrálist és a Gisson-udvarházat fedezzük fel. Délután a Holtak lámpásához és a panorámalifthez vezet az utunk. Este a kivilágított középkori sikátorokban helyi finomságokkal zárjuk a napot, miközben élvezzük a város egyedülálló, sárga homokkőből épült házainak hangulatát.",
         "ro": "Dimineața vă scufundați în inima regiunii Périgord Noir în Place de la Liberté. La prânz explorăm catedrala magnifică și Conacul Gisson. După-amiaza drumul duce la Lanterna Morților și sus cu liftul panoramic. Seara încheiați ziua pe străduțele medievale iluminate cu delicii locale, admirând arhitectura unică din gresie galbenă specifică zonei.",
         "en": "In the morning, immerse yourself in the heart of Périgord Noir at Place de la Liberté. At midday, explore the magnificent cathedral and the Gisson Manor. In the afternoon, head to the Lantern of the Dead and up high with the panoramic lift. In the evening, end the day in the illuminated medieval alleys with local delicacies and the warm glow of yellow sandstone.",
-        "fr": "Le matin, plongez au cœur du Périgord Noir sur la place de la Liberté. À la mi-journée, explorez la magnifique cathédrale et le manoir de Gisson. L'après-midi, dirigez-vous vers la Lanterne des Morts et prenez de la hauteur avec l'ascenseur panoramique. En soirée, terminez la journée dans les ruelles médiévales illuminées avec des spécialités locales et la lueur chaleureuse du grès blond."
+        "fr": "Le matin, imprégnez-vous du cœur du Périgord Noir à la Place de la Liberté. À midi, explorez la magnifique cathédrale et le Manoir Gisson. L'après-midi, dirigez-vous vers la Lanterne des Morts et montez avec l'ascenseur panoramique. Le soir, terminez la journée dans les ruelles médiévales illuminées avec des spécialités locales et la chaude lueur du grès jaune."
       },
       "gastro_picks": {
         "de": [
@@ -386,8 +393,8 @@
         "fr": [
           "La ville se visite entièrement à pied.",
           "Portez des chaussures confortables pour les rues pavées.",
-          "Le mercredi est le jour du marché, arrivez tôt.",
-          "Le soir, les façades sont magnifiquement illuminées."
+          "Le mercredi est jour de marché, arrivez tôt.",
+          "Le soir, les façades sont magnifiquement éclairées."
         ]
       },
       "variants": {
@@ -396,7 +403,8 @@
             "de": "Morgens tauchen Sie auf der Place de la Liberté in das Herz des Périgord Noir ein. Mittags erkunden Sie die prächtige Kathedrale und das Manoir de Gisson. Am Nachmittag führt der Weg zur Lanterne des Morts und hoch hinaus mit dem Panoramalift. Abends lassen Sie den Tag in den beleuchteten mittelalterlichen Gassen mit lokalen Köstlichkeiten ausklingen.",
             "hu": "Reggel a Place de la Liberté-n merülhet el a Périgord Noir szívében. Délben a pompás katedrálist és a Gisson-udvarházat fedezzük fel. Délután a Holtak lámpásához és a panorámalifthez vezet az utunk. Este a kivilágított középkori sikátorokban helyi finomságokkal zárjuk a napot, miközben élvezzük a város egyedülálló, sárga homokkőből épült házainak hangulatát.",
             "ro": "Dimineața vă scufundați în inima regiunii Périgord Noir în Place de la Liberté. La prânz explorăm catedrala magnifică și Conacul Gisson. După-amiaza drumul duce la Lanterna Morților și sus cu liftul panoramic. Seara încheiați ziua pe străduțele medievale iluminate cu delicii locale, admirând arhitectura unică din gresie galbenă specifică zonei.",
-            "en": "In the morning, immerse yourself in the heart of Périgord Noir at Place de la Liberté. At midday, explore the magnificent cathedral and the Gisson Manor. In the afternoon, head to the Lantern of the Dead and up high with the panoramic lift. In the evening, end the day in the illuminated medieval alleys with local delicacies and the warm glow of yellow sandstone."
+            "en": "In the morning, immerse yourself in the heart of Périgord Noir at Place de la Liberté. At midday, explore the magnificent cathedral and the Gisson Manor. In the afternoon, head to the Lantern of the Dead and up high with the panoramic lift. In the evening, end the day in the illuminated medieval alleys with local delicacies and the warm glow of yellow sandstone.",
+            "fr": "Le matin, imprégnez-vous du cœur du Périgord Noir à la Place de la Liberté. À midi, explorez la magnifique cathédrale et le Manoir Gisson. L'après-midi, dirigez-vous vers la Lanterne des Morts et montez avec l'ascenseur panoramique. Le soir, terminez la journée dans les ruelles médiévales illuminées avec des spécialités locales et la chaude lueur du grès jaune."
           },
           "stops": [
             {
@@ -404,13 +412,15 @@
                 "de": "Place de la Liberté",
                 "hu": "Szabadság tér",
                 "ro": "Piața Libertății",
-                "en": "Liberty Square"
+                "en": "Liberty Square",
+                "fr": "Place de la Liberté"
               },
               "tip_5lang": {
                 "de": "Besuchen Sie den Markt am Mittwoch oder Samstag.",
                 "hu": "Szerdán és szombaton piacnap van itt.",
                 "ro": "Vizitați piața miercurea sau sâmbăta.",
-                "en": "Visit the market on Wednesday or Saturday."
+                "en": "Visit the market on Wednesday or Saturday.",
+                "fr": "Visitez le marché le mercredi ou le samedi."
               }
             },
             {
@@ -418,13 +428,15 @@
                 "de": "Cathédrale Saint-Sacerdos",
                 "hu": "Szent Sacerdos katedrális",
                 "ro": "Catedrala Saint-Sacerdos",
-                "en": "Saint-Sacerdos Cathedral"
+                "en": "Saint-Sacerdos Cathedral",
+                "fr": "Cathédrale Saint-Sacerdos"
               },
               "tip_5lang": {
                 "de": "Bewundern Sie die Orgel aus dem 18. Jahrhundert.",
                 "hu": "Csodálja meg a 18. századi orgonát.",
                 "ro": "Admirați orga din secolul al XVIII-lea.",
-                "en": "Admire the 18th-century organ."
+                "en": "Admire the 18th-century organ.",
+                "fr": "Admirez l'orgue du XVIIIe siècle."
               }
             },
             {
@@ -432,13 +444,15 @@
                 "de": "Manoir de Gisson",
                 "hu": "Gisson-udvarház",
                 "ro": "Conacul Gisson",
-                "en": "Gisson Manor"
+                "en": "Gisson Manor",
+                "fr": "Manoir Gisson"
               },
               "tip_5lang": {
                 "de": "Einblick in das bürgerliche Leben des 17. Jahrhunderts.",
                 "hu": "Betekintés a 17. századi polgári életbe.",
                 "ro": "O privire în viața burgheză din secolul al XVII-lea.",
-                "en": "Insight into 17th-century bourgeois life."
+                "en": "Insight into 17th-century bourgeois life.",
+                "fr": "Aperçu de la vie bourgeoise au XVIIe siècle."
               }
             },
             {
@@ -446,13 +460,15 @@
                 "de": "Mittagessen in der Altstadt",
                 "hu": "Ebéd az óvárosban",
                 "ro": "Prânz în orașul vechi",
-                "en": "Lunch in the Old Town"
+                "en": "Lunch in the Old Town",
+                "fr": "Déjeuner en vieille ville"
               },
               "tip_5lang": {
                 "de": "Probieren Sie Ente mit Sarladaise-Kartoffeln.",
                 "hu": "Kóstolja meg a kacsát sarlat-i burgonyával.",
                 "ro": "Încercați rața cu cartofi Sarladaise.",
-                "en": "Try duck with Sarladaise potatoes."
+                "en": "Try duck with Sarladaise potatoes.",
+                "fr": "Goûtez au canard à la Sarladaise."
               }
             },
             {
@@ -460,13 +476,15 @@
                 "de": "Lanterne des Morts",
                 "hu": "Holtak lámpása",
                 "ro": "Lanterna Morților",
-                "en": "Lantern of the Dead"
+                "en": "Lantern of the Dead",
+                "fr": "Lanterne des Morts"
               },
               "tip_5lang": {
                 "de": "Ein rätselhafter Turm hinter der Kathedrale.",
                 "hu": "Rejtélyes torony a katedrális mögött.",
                 "ro": "Un turn misterios în spatele catedralei.",
-                "en": "An enigmatic tower behind the cathedral."
+                "en": "An enigmatic tower behind the cathedral.",
+                "fr": "Une tour énigmatique derrière la cathédrale."
               }
             },
             {
@@ -474,13 +492,15 @@
                 "de": "Panoramalift Sainte-Marie",
                 "hu": "Szent Mária panorámalift",
                 "ro": "Liftul panoramic Sainte-Marie",
-                "en": "Sainte-Marie Panoramic Lift"
+                "en": "Sainte-Marie Panoramic Lift",
+                "fr": "Ascenseur panoramique Sainte-Marie"
               },
               "tip_5lang": {
                 "de": "Genießen Sie den 360-Grad-Blick über die Dächer.",
                 "hu": "Élvezze a 360 fokos kilátást a tetők felett.",
                 "ro": "Bucurați-vă de vederea la 360 de grade peste acoperișuri.",
-                "en": "Enjoy the 360-degree view over the roofs."
+                "en": "Enjoy the 360-degree view over the roofs.",
+                "fr": "Profitez de la vue à 360 degrés sur les toits."
               }
             },
             {
@@ -488,13 +508,15 @@
                 "de": "Einkaufen in den Gassen",
                 "hu": "Vásárlás a sikátorokban",
                 "ro": "Cumpărături pe străduțe",
-                "en": "Shopping in the alleys"
+                "en": "Shopping in the alleys",
+                "fr": "Shopping dans les ruelles"
               },
               "tip_5lang": {
                 "de": "Walnussöl und Trüffel sind lokale Schätze.",
                 "hu": "A dióolaj és a szarvasgomba helyi kincs.",
                 "ro": "Uleiul de nucă și trufele sunt comori locale.",
-                "en": "Walnut oil and truffles are local treasures."
+                "en": "Walnut oil and truffles are local treasures.",
+                "fr": "L'huile de noix et la truffe sont des trésors locaux."
               }
             }
           ],
@@ -656,6 +678,12 @@
               "Wear comfortable shoes for the cobblestone streets.",
               "Wednesday is market day, arrive early.",
               "In the evening, the facades are beautifully illuminated."
+            ],
+            "fr": [
+              "La ville se visite entièrement à pied.",
+              "Portez des chaussures confortables pour les rues pavées.",
+              "Le mercredi est jour de marché, arrivez tôt.",
+              "Le soir, les façades sont magnifiquement éclairées."
             ]
           }
         },
@@ -665,7 +693,7 @@
             "hu": "A reggel Sarlat-ban az arkádok alatt kezdődik, miközben az eső dobol a macskaköveken. Délben az óváros hangulatos bisztrói várják meleg ételekkel. Délután a Gisson-kastély nyújt száraz menedéket a történelemben. A napot a fényes, vizes tetők látványa zárja a fedett panorámaliftből, majd egy rövid vásárlás az esőáztatta sikátorokban.",
             "ro": "Dimineața în Sarlat începe sub protecția arcadelor din Piața Libertății, în timp ce ploaia bate în pavaj. La prânz, bistrourile primitoare din centrul vechi oferă specialități calde. După-amiaza, Conacul Gisson este un refugiu uscat în istorie. Ziua se încheie cu vederea acoperișurilor strălucitoare din liftul panoramic acoperit și cumpărături în gangurile ferite.",
             "en": "The morning in Sarlat starts under the protection of the arches at Liberty Square as rain drums on the cobblestones. At noon, cozy bistros in the Old Town offer a warm escape with local specialties. In the afternoon, Gisson Manor provides a dry retreat into history. The day ends with a view of glistening roofs from the covered panoramic lift and shopping in sheltered alleys.",
-            "fr": "Le matin à Sarlat commence à l'abri des arcades de la place de la Liberté alors que la pluie tambourine sur les pavés. À midi, les bistrots accueillants de la vieille ville offrent une escapade chaleureuse avec des spécialités locales. L'après-midi, le manoir de Gisson offre un refuge historique au sec. La journée se termine par une vue sur les toits luisants depuis l'ascenseur panoramique couvert et du shopping dans les ruelles abritées."
+            "fr": "La matinée à Sarlat commence sous la protection des arcades de la Place de la Liberté tandis que la pluie tambourine sur les pavés. À midi, les bistrots chaleureux de la vieille ville offrent un refuge avec des spécialités locales. L'après-midi, le Manoir Gisson constitue une retraite sèche et historique. La journée se termine par la vue des toits scintillants depuis l'ascenseur panoramique couvert et le shopping dans des ruelles abritées."
           },
           "stops": [
             {
@@ -675,7 +703,7 @@
                 "hu": "Használja a városháza oldali árkádokat esővédőként.",
                 "ro": "Folosiți arcadele de pe partea primăriei pentru adăpost.",
                 "en": "Use the arches on the town hall side for rain cover.",
-                "fr": "Utilisez les arcades côté mairie pour vous protéger de la pluie."
+                "fr": "Utilisez les arcades côté hôtel de ville pour vous abriter de la pluie."
               }
             },
             {
@@ -685,7 +713,7 @@
                 "hu": "Ideális hely egy heves zápor száraz megvárására.",
                 "ro": "Un loc ideal pentru a aștepta trecerea unei averse.",
                 "en": "An ideal place to wait out a heavy shower in the dry.",
-                "fr": "Un endroit idéal pour attendre qu'une grosse averse passe au sec."
+                "fr": "Un endroit idéal pour attendre une forte averse quand il fait sec."
               }
             },
             {
@@ -695,7 +723,7 @@
                 "hu": "Teljesen fedett; esőben tervezzen ide több időt.",
                 "ro": "Complet acoperit; planificați mai mult timp aici dacă plouă.",
                 "en": "Fully indoor; plan more time here during rainy weather.",
-                "fr": "Entièrement en intérieur ; prévoyez plus de temps ici par temps de pluie."
+                "fr": "Entièrement en intérieur ; prévoyez plus de temps ici par temps de pluie."
               }
             },
             {
@@ -706,7 +734,7 @@
                 "hu": "Foglaljon asztalt bent, távol a huzatos bejáratoktól.",
                 "ro": "Rezervați o masă în interior, departe de intrările cu curent.",
                 "en": "Book a table inside, away from drafty entrances.",
-                "fr": "Réservez une table à l'intérieur, loin des entrées sujettes aux courants d'air."
+                "fr": "Réservez une table à l’intérieur, à l’écart des entrées courantes d’air."
               }
             },
             {
@@ -716,7 +744,7 @@
                 "hu": "Az út nedvesen csúszós lehet; óvatosan közlekedjen.",
                 "ro": "Poteca poate fi alunecoasă când este udă; mergeți cu grijă.",
                 "en": "The path can be slippery when wet; walk carefully.",
-                "fr": "Le chemin peut être glissant lorsqu'il est mouillé ; marchez prudemment."
+                "fr": "Le chemin peut être glissant quand il est mouillé ; marchez prudemment."
               }
             },
             {
@@ -726,7 +754,7 @@
                 "hu": "Üvegkabinos, időjárásálló, tiszta kilátást ad a vizes tetőkre.",
                 "ro": "Cabina de sticlă este protejată și oferă vedere spre acoperișuri.",
                 "en": "The glass cabin is weatherproof and offers clear views of wet roofs.",
-                "fr": "La cabine vitrée est protégée des intempéries et offre une vue dégagée sur les toits mouillés."
+                "fr": "La cabine vitrée est étanche et offre une vue claire sur les toits mouillés."
               }
             },
             {
@@ -736,7 +764,7 @@
                 "hu": "Keressen üzleteket a szűk utcákban, amelyek jobb védelmet nyújtanak.",
                 "ro": "Căutați magazine în zonele înguste pentru o protecție mai bună.",
                 "en": "Look for shops in narrow alleys that offer better shelter.",
-                "fr": "Cherchez les boutiques dans les ruelles étroites qui offrent un meilleur abri."
+                "fr": "Cherchez des boutiques dans les ruelles étroites qui offrent un meilleur abri."
               }
             }
           ],
@@ -766,10 +794,10 @@
               "A compact umbrella is more practical than a large one in narrow passages."
             ],
             "fr": [
-              "Portez des chaussures imperméables car le pavé médiéval a tendance à former des flaques.",
-              "Les ruelles étroites offrent souvent un abri naturel contre la pluie légère.",
-              "Prévoyez les visites de musées pendant les périodes de pluie les plus intenses.",
-              "Un parapluie compact est plus pratique qu'un grand dans les passages étroits."
+              "Portez des chaussures imperméables car le pavé médiéval a tendance à retenir les flaques.",
+              "Les ruelles étroites offrent souvent un abri naturel contre la bruine légère.",
+              "Programmez les visites de musées pendant les périodes de pluie les plus intenses de la journée.",
+              "Un parapluie compact est plus pratique qu’un grand dans les passages étroits."
             ]
           }
         },
@@ -779,7 +807,7 @@
             "hu": "A tiszta téli reggel különleges fénybe öltözteti Sarlat-t. A katedrális után egy szarvasgombás és confit-s ebéd melengeti meg a lelket. A délután a múzeumoké, mielőtt korán leszáll az alkony. Ahogy kigyúlnak a város fényei, a Holtak Lámpása misztikus aurát áraszt a hideg esti szélben.",
             "ro": "O dimineață senină de iarnă îmbracă Sarlat într-o lumină aparte. După catedrală, un prânz cu trufe și confit încălzește sufletul. După-amiaza aparține muzeelor, înainte de apusul timpuriu. Când se aprind luminile orașului, Lanterna Morților emană o aură mistică în vântul rece de seară.",
             "en": "A crisp winter morning bathes Sarlat in special light. After the cathedral, a lunch featuring truffles and confit warms the soul. The afternoon is dedicated to museums before an early dusk sets in. As the city lights flicker on, the Lantern of the Dead exudes a mystical aura in the cold evening wind.",
-            "fr": "Une matinée d'hiver tonifiante baigne Sarlat d'une lumière spéciale. Après la cathédrale, un déjeuner composé de truffes et de confit réchauffe l'âme. L'après-midi est consacré aux musées avant que le crépuscule ne s'installe tôt. Alors que les lumières de la ville s'allument, la Lanterne des Morts dégage une aura mystique dans le vent froid du soir."
+            "fr": "Un matin d’hiver vif baigne Sarlat d’une lumière particulière. Après la cathédrale, un déjeuner avec truffes et confit réchauffe l’âme. L’après‑midi est consacré aux musées avant qu’un crépuscule précoce ne s’installe. Quand les lumières de la ville s’allument, la Lanterna des Morts dégage une aura mystique dans le vent froid du soir."
           },
           "stops": [
             {
@@ -799,7 +827,7 @@
                 "hu": "A masszív kőfalak tartják a hideget; maradjon mozgásban.",
                 "ro": "Zidurile masive de piatră rețin frigul; rămâneți în mișcare.",
                 "en": "The massive stone walls retain the cold; keep moving inside.",
-                "fr": "Les murs de pierre massifs conservent le froid ; restez en mouvement à l'intérieur."
+                "fr": "Les murs massifs en pierre retiennent le froid ; gardez le mouvement à l’intérieur."
               }
             },
             {
@@ -809,7 +837,7 @@
                 "hu": "Hangulatos hely, ahol egy órára elmenekülhet a téli hideg elől.",
                 "ro": "Un loc primitor pentru a scăpa de frigul iernii pentru o oră.",
                 "en": "A cozy spot to escape the winter chill for an hour.",
-                "fr": "Un endroit douillet pour échapper au froid hivernal pendant une heure."
+                "fr": "Un coin cosy pour échapper au froid hivernal pendant une heure."
               }
             },
             {
@@ -819,7 +847,7 @@
                 "hu": "Kóstolja meg a 'Tourain blanchi'-t, a tipikus fokhagymalevest melegítőnek.",
                 "ro": "Încercați 'Tourain blanchi', supa de usturoi tipică pentru încălzire.",
                 "en": "Try 'Tourain blanchi', the typical garlic soup to warm up.",
-                "fr": "Goûtez au tourain blanchi, la soupe à l'ail typique pour vous réchauffer."
+                "fr": "Essayez la « Tourain blanchi », la soupe à l’ail typique pour vous réchauffer."
               }
             },
             {
@@ -829,7 +857,7 @@
                 "hu": "Látogassa meg ezt a helyet naplementekor, 17:00 körül.",
                 "ro": "Vizitați acest loc la apus, în jurul orei 17:00.",
                 "en": "Visit this spot at sunset, around 5:00 PM.",
-                "fr": "Visitez ce lieu au coucher du soleil, vers 17h00."
+                "fr": "Visitez cet endroit au coucher du soleil, vers 17h00."
               }
             },
             {
@@ -849,7 +877,7 @@
                 "hu": "Ideális téli csemegék, például libamáj vásárlására.",
                 "ro": "Ideal pentru cumpărarea delicateselor de iarnă precum foie gras.",
                 "en": "Ideal for buying winter delicacies like foie gras.",
-                "fr": "Idéal pour acheter des délices d'hiver comme le foie gras."
+                "fr": "Idéal pour acheter des gourmandises hivernales comme le foie gras."
               }
             }
           ],
@@ -879,10 +907,10 @@
               "Layered clothing is ideal for switching between the cold outside and warm museums."
             ],
             "fr": [
-              "Attention au givre sur les pavés, qui peut être très glissant.",
-              "Le soleil se couche vers 17h15 en hiver ; prévoyez vos photos plus tôt.",
-              "De nombreux cafés proposent des terrasses chauffées avec des couvertures.",
-              "L'habillement multicouche est idéal pour alterner entre le froid extérieur et la chaleur des musées."
+              "Attention au givre blanc sur les pavés, qui peut être très glissant.",
+              "Le soleil se couche vers 17h15 en hiver ; prévoyez vos photos plus tôt.",
+              "Beaucoup de cafés proposent des terrasses chauffées avec couvertures.",
+              "Les couches de vêtements sont idéales pour passer du froid extérieur aux musées chauffés."
             ]
           }
         }
@@ -901,7 +929,8 @@
             "de": "Sarlat Markt",
             "hu": "Sarlat-i piac",
             "ro": "Piața Sarlat",
-            "en": "Sarlat Market"
+            "en": "Sarlat Market",
+            "fr": "Marché de Sarlat"
           },
           "coords": [
             1.2165,
@@ -917,7 +946,7 @@
             "hu": "Vegyünk útravalót a túrához.",
             "ro": "Cumpărați provizii pentru tur.",
             "en": "Buy provisions for the tour.",
-            "fr": "Achetez des provisions pour l'excursion."
+            "fr": "Achetez des provisions pour la randonnée."
           }
         },
         {
@@ -925,7 +954,8 @@
             "de": "Voie Verte Start",
             "hu": "Zöld út kezdete",
             "ro": "Începutul Voie Verte",
-            "en": "Start of Voie Verte"
+            "en": "Start of Voie Verte",
+            "fr": "Début de la Voie Verte"
           },
           "coords": [
             1.225,
@@ -941,7 +971,7 @@
             "hu": "A régi vasútvonalon kialakított sík kerékpárút kezdete.",
             "ro": "Începutul pistei de biciclete plate pe vechiul traseu feroviar.",
             "en": "Start of the flat cycle path on the old railway line.",
-            "fr": "Début de la piste cyclable plate sur l'ancienne voie ferrée."
+            "fr": "Début de la piste cyclable plate sur l’ancienne ligne de chemin de fer."
           }
         },
         {
@@ -949,7 +979,8 @@
             "de": "Kirche von Carsac",
             "hu": "Carsac-i templom",
             "ro": "Biserica din Carsac",
-            "en": "Carsac Church"
+            "en": "Carsac Church",
+            "fr": "Église de Carsac"
           },
           "coords": [
             1.274,
@@ -965,7 +996,7 @@
             "hu": "Szép román stílusú építészet az út mentén.",
             "ro": "Frumoasă arhitectură romanică pe marginea drumului.",
             "en": "Beautiful Romanesque architecture along the way.",
-            "fr": "Belle architecture romane le long du chemin."
+            "fr": "Belle architecture romane le long du parcours."
           }
         },
         {
@@ -973,7 +1004,8 @@
             "de": "Picknick an der Dordogne",
             "hu": "Piknik a Dordogne-nál",
             "ro": "Picnic pe malul Dordogne",
-            "en": "Picnic by the Dordogne"
+            "en": "Picnic by the Dordogne",
+            "fr": "Pique‑nique au bord de la Dordogne"
           },
           "coords": [
             1.278,
@@ -989,7 +1021,7 @@
             "hu": "Pihenés a folyóparton.",
             "ro": "Relaxare pe malul râului.",
             "en": "Relaxation by the riverbank.",
-            "fr": "Détente au bord de la rivière."
+            "fr": "Détente sur la rive du fleuve."
           }
         },
         {
@@ -997,7 +1029,8 @@
             "de": "Rückkehr nach Sarlat",
             "hu": "Visszatérés Sarlat-ba",
             "ro": "Revenirea în Sarlat",
-            "en": "Return to Sarlat"
+            "en": "Return to Sarlat",
+            "fr": "Retour à Sarlat"
           },
           "coords": [
             1.2168,
@@ -1013,7 +1046,7 @@
             "hu": "Biciklik leadása és fagyizás.",
             "ro": "Predați bicicletele și mâncați o înghețată.",
             "en": "Return bikes and have an ice cream.",
-            "fr": "Rendez les vélos et dégustez une glace."
+            "fr": "Rendez les vélos et prenez une glace."
           }
         }
       ],
@@ -1022,7 +1055,7 @@
         "hu": "Reggel a sarlat-i piacon kezdünk. Ezután a Voie Verte-t követjük, ami egy régi vasútvonal helyén kialakított sík kerékpárút. Délben meglátogatjuk a carsac-i román stílusú templomot és piknikezünk a Dordogne partján. Délután kényelmesen visszakerekezünk a városba.",
         "ro": "Începeți dimineața la piața din Sarlat. Urmați apoi Voie Verte, o pistă de biciclete plată pe un vechi traseu feroviar. La prânz vizitați biserica romanică din Carsac și faceți un picnic pe malul Dordogne. După-amiaza pedalați relaxat înapoi în oraș.",
         "en": "Start in the morning at the Sarlat market. Then follow the Voie Verte, a flat cycle path on an old railway line. At midday, visit the Romanesque church in Carsac and have a picnic by the Dordogne. In the afternoon, cycle leisurely back to town enjoying the nature.",
-        "fr": "Commencez le matin au marché de Sarlat. Suivez ensuite la Voie Verte, une piste cyclable plate aménagée sur une ancienne voie ferrée. À midi, visitez l'église romane de Carsac et pique-niquez au bord de la Dordogne. L'après-midi, pédalez tranquillement pour revenir en ville en profitant de la nature."
+        "fr": "Commencez le matin au marché de Sarlat. Ensuite, suivez la Voie Verte, une piste cyclable plate sur une ancienne voie ferrée. À midi, visitez l’église romane de Carsac et pique‑niquez au bord de la Dordogne. L’après‑midi, revenez tranquillement en vélo vers la ville en profitant de la nature."
       },
       "gastro_picks": {
         "de": [
@@ -1152,9 +1185,9 @@
         ],
         "fr": [
           "La piste cyclable est très plate et idéale pour les familles.",
-          "Louez des vélos électriques pour plus de confort.",
-          "Emportez suffisamment d'eau avec vous.",
-          "L'itinéraire est majoritairement ombragé."
+          "Louez des VAE pour plus de confort.",
+          "Emportez suffisamment d’eau.",
+          "L’itinéraire est majoritairement ombragé."
         ]
       },
       "variants": {
@@ -1163,7 +1196,8 @@
             "de": "Starten Sie morgens am Markt in Sarlat. Folgen Sie dann der Voie Verte, einem flachen Radweg auf einer alten Bahntrasse. Mittags besuchen Sie die romanische Kirche in Carsac und machen ein Picknick an der Dordogne. Am Nachmittag radeln Sie gemütlich zurück und genießen die Natur.",
             "hu": "Reggel a sarlat-i piacon kezdünk. Ezután a Voie Verte-t követjük, ami egy régi vasútvonal helyén kialakított sík kerékpárút. Délben meglátogatjuk a carsac-i román stílusú templomot és piknikezünk a Dordogne partján. Délután kényelmesen visszakerekezünk a városba.",
             "ro": "Începeți dimineața la piața din Sarlat. Urmați apoi Voie Verte, o pistă de biciclete plată pe un vechi traseu feroviar. La prânz vizitați biserica romanică din Carsac și faceți un picnic pe malul Dordogne. După-amiaza pedalați relaxat înapoi în oraș.",
-            "en": "Start in the morning at the Sarlat market. Then follow the Voie Verte, a flat cycle path on an old railway line. At midday, visit the Romanesque church in Carsac and have a picnic by the Dordogne. In the afternoon, cycle leisurely back to town enjoying the nature."
+            "en": "Start in the morning at the Sarlat market. Then follow the Voie Verte, a flat cycle path on an old railway line. At midday, visit the Romanesque church in Carsac and have a picnic by the Dordogne. In the afternoon, cycle leisurely back to town enjoying the nature.",
+            "fr": "Commencez le matin au marché de Sarlat. Ensuite, suivez la Voie Verte, une piste cyclable plate sur une ancienne voie ferrée. À midi, visitez l’église romane de Carsac et pique‑niquez au bord de la Dordogne. L’après‑midi, revenez tranquillement en vélo vers la ville en profitant de la nature."
           },
           "stops": [
             {
@@ -1171,13 +1205,15 @@
                 "de": "Sarlat Markt",
                 "hu": "Sarlat-i piac",
                 "ro": "Piața Sarlat",
-                "en": "Sarlat Market"
+                "en": "Sarlat Market",
+                "fr": "Marché de Sarlat"
               },
               "tip_5lang": {
                 "de": "Proviant für die Tour kaufen.",
                 "hu": "Vegyünk útravalót a túrához.",
                 "ro": "Cumpărați provizii pentru tur.",
-                "en": "Buy provisions for the tour."
+                "en": "Buy provisions for the tour.",
+                "fr": "Achetez des provisions pour la randonnée."
               }
             },
             {
@@ -1185,13 +1221,15 @@
                 "de": "Voie Verte Start",
                 "hu": "Zöld út kezdete",
                 "ro": "Începutul Voie Verte",
-                "en": "Start of Voie Verte"
+                "en": "Start of Voie Verte",
+                "fr": "Début de la Voie Verte"
               },
               "tip_5lang": {
                 "de": "Beginn des flachen Radwegs auf der alten Bahntrasse.",
                 "hu": "A régi vasútvonalon kialakított sík kerékpárút kezdete.",
                 "ro": "Începutul pistei de biciclete plate pe vechiul traseu feroviar.",
-                "en": "Start of the flat cycle path on the old railway line."
+                "en": "Start of the flat cycle path on the old railway line.",
+                "fr": "Début de la piste cyclable plate sur l’ancienne ligne de chemin de fer."
               }
             },
             {
@@ -1199,13 +1237,15 @@
                 "de": "Kirche von Carsac",
                 "hu": "Carsac-i templom",
                 "ro": "Biserica din Carsac",
-                "en": "Carsac Church"
+                "en": "Carsac Church",
+                "fr": "Église de Carsac"
               },
               "tip_5lang": {
                 "de": "Schöne romanische Architektur am Wegesrand.",
                 "hu": "Szép román stílusú építészet az út mentén.",
                 "ro": "Frumoasă arhitectură romanică pe marginea drumului.",
-                "en": "Beautiful Romanesque architecture along the way."
+                "en": "Beautiful Romanesque architecture along the way.",
+                "fr": "Belle architecture romane le long du parcours."
               }
             },
             {
@@ -1213,13 +1253,15 @@
                 "de": "Picknick an der Dordogne",
                 "hu": "Piknik a Dordogne-nál",
                 "ro": "Picnic pe malul Dordogne",
-                "en": "Picnic by the Dordogne"
+                "en": "Picnic by the Dordogne",
+                "fr": "Pique‑nique au bord de la Dordogne"
               },
               "tip_5lang": {
                 "de": "Entspannung am Flussufer.",
                 "hu": "Pihenés a folyóparton.",
                 "ro": "Relaxare pe malul râului.",
-                "en": "Relaxation by the riverbank."
+                "en": "Relaxation by the riverbank.",
+                "fr": "Détente sur la rive du fleuve."
               }
             },
             {
@@ -1227,13 +1269,15 @@
                 "de": "Rückkehr nach Sarlat",
                 "hu": "Visszatérés Sarlat-ba",
                 "ro": "Revenirea în Sarlat",
-                "en": "Return to Sarlat"
+                "en": "Return to Sarlat",
+                "fr": "Retour à Sarlat"
               },
               "tip_5lang": {
                 "de": "Fahrräder abgeben und Eis essen.",
                 "hu": "Biciklik leadása és fagyizás.",
                 "ro": "Predați bicicletele și mâncați o înghețată.",
-                "en": "Return bikes and have an ice cream."
+                "en": "Return bikes and have an ice cream.",
+                "fr": "Rendez les vélos et prenez une glace."
               }
             }
           ],
@@ -1343,6 +1387,12 @@
               "Rent e-bikes for more comfort.",
               "Take enough water with you.",
               "The route is mostly shaded."
+            ],
+            "fr": [
+              "La piste cyclable est très plate et idéale pour les familles.",
+              "Louez des VAE pour plus de confort.",
+              "Emportez suffisamment d’eau.",
+              "L’itinéraire est majoritairement ombragé."
             ]
           }
         },
@@ -1352,7 +1402,7 @@
             "hu": "Bátor kezdés az esős piacon, mielőtt a Voie Verte-re hajtanánk. A Dordogne-völgyi túra koncentrációt igényel a nedves úton. Egy hosszú megálló Carsacban védelmet nyújt, a pikniket pedig fedett beálló alá helyezzük át. A Sarlat-ba való visszatérést forró tea és vásárlás koronázza meg.",
             "ro": "Un început curajos în piața ploioasă înainte de a intra pe Voie Verte. Traseul prin valea Dordogne necesită concentrare pe carosabilul umed. O oprire lungă în Carsac oferă adăpost, urmată de un picnic mutat sub un pavilion fix. Revenirea în Sarlat este răsplătită cu ceai fierbinte și cumpărături.",
             "en": "A brave start at the rainy market before hitting the Voie Verte. The ride through the Dordogne valley requires focus on the wet surface. A long stop in Carsac provides shelter, followed by a picnic moved under a permanent roof. Returning to Sarlat rewards you with hot tea and shopping.",
-            "fr": "Un départ courageux au marché pluvieux avant d'attaquer la Voie Verte. Le trajet dans la vallée de la Dordogne demande de la concentration sur le revêtement mouillé. Un long arrêt à Carsac permet de s'abriter, suivi d'un pique-nique déplacé sous un toit permanent. Le retour à Sarlat vous récompense avec un thé chaud et du shopping."
+            "fr": "Un départ courageux au marché sous la pluie avant d’emprunter la Voie Verte. La traversée de la vallée de la Dordogne demande de la vigilance sur la surface mouillée. Un long arrêt à Carsac permet de s’abriter, suivi d’un pique‑nique déplacé sous un toit permanent. Le retour à Sarlat vous récompense par un thé chaud et du shopping."
           },
           "stops": [
             {
@@ -1372,7 +1422,7 @@
                 "hu": "Az útburkolat csúszós lehet, különösen levélhulláskor.",
                 "ro": "Suprafața poate fi alunecoasă, mai ales cu frunze căzute.",
                 "en": "The surface can be slippery, especially with fallen leaves.",
-                "fr": "Le revêtement peut être glissant, surtout avec les feuilles mortes."
+                "fr": "La surface peut être glissante, surtout avec des feuilles mortes."
               }
             },
             {
@@ -1382,7 +1432,7 @@
                 "hu": "Használja a templomkaput rövid eső elleni menedékként.",
                 "ro": "Folosiți portalul bisericii ca adăpost temporar.",
                 "en": "Use the church portal as a brief rain shelter.",
-                "fr": "Utilisez le portail de l'église comme bref abri contre la pluie."
+                "fr": "Utilisez le portail de l’église comme abri bref contre la pluie."
               }
             },
             {
@@ -1392,7 +1442,7 @@
                 "hu": "Keresse a Carsac-híd közelében lévő esőbeállót.",
                 "ro": "Căutați foișorul de protecție de lângă podul Carsac.",
                 "en": "Look for the shelter hut near the Carsac bridge.",
-                "fr": "Cherchez la cabane d'abri près du pont de Carsac."
+                "fr": "Cherchez la cabane d’abri près du pont de Carsac."
               }
             },
             {
@@ -1402,7 +1452,7 @@
                 "hu": "Kényeztesse magát egy meleg itallal a Rue de la République átjáróiban.",
                 "ro": "Răsfățați-vă cu o băutură caldă în pasajele de pe Rue de la République.",
                 "en": "Treat yourself to a warm drink in the passages of Rue de la République.",
-                "fr": "Offrez-vous une boisson chaude dans les passages de la rue de la République."
+                "fr": "Offrez‑vous une boisson chaude dans les passages de la Rue de la République."
               }
             }
           ],
@@ -1432,9 +1482,9 @@
               "The Voie Verte is paved, making it safer in rain than forest trails."
             ],
             "fr": [
-              "Un équipement de pluie complet incluant des surchaussures est fortement recommandé.",
-              "Vérifiez vos freins avant de partir, car la distance de freinage est plus longue sous la pluie.",
-              "Évitez les flaques car elles peuvent cacher des nids-de-poule profonds.",
+              "Équipement complet de pluie, y compris couvre‑chaussures, fortement recommandé.",
+              "Vérifiez vos freins avant de partir, car la distance de freinage est plus longue sur sol mouillé.",
+              "Évitez les flaques car elles peuvent cacher des nids‑de‑poule profonds.",
               "La Voie Verte est goudronnée, ce qui la rend plus sûre sous la pluie que les sentiers forestiers."
             ]
           }
@@ -1445,7 +1495,7 @@
             "hu": "Fagyos kezdés két keréken. A Dordogne-völgy hideg levegője frissítő, de jó kesztyűt igényel. A carsaci román stílusú templom után egy gyors piknik vagy falusi pihenő ad energiát. A visszautat a naplemente előtt kell megtenni, hogy elkerüljük az éjszakai lehűlést.",
             "ro": "Un început geros pe două roți. Aerul rece din valea Dordogne este revigorant, dar necesită mănuși bune. După biserica romanică din Carsac, un picnic rapid sau o oprire în sat oferă energie. Întoarcerea are loc înainte de apus pentru a evita frigul nopții.",
             "en": "A frosty start on two wheels. The cold air in the Dordogne valley is bracing but requires good gloves. After the Romanesque church in Carsac, a quick picnic or a stop in the village provides energy. The return journey is timed before sunset to avoid the nighttime chill.",
-            "fr": "Un départ givré sur deux roues. L'air froid dans la vallée de la Dordogne est vivifiant mais nécessite de bons gants. Après l'église romane de Carsac, un pique-nique rapide ou un arrêt au village redonne de l'énergie. Le voyage de retour est programmé avant le coucher du soleil pour éviter le froid nocturne."
+            "fr": "Un départ glacé sur deux roues. L’air froid de la vallée de la Dordogne est vivifiant mais demande de bons gants. Après l’église romane de Carsac, un pique‑nique rapide ou un arrêt au village recharge les batteries. Le retour se fait avant le coucher du soleil pour éviter la fraîcheur nocturne."
           },
           "stops": [
             {
@@ -1455,7 +1505,7 @@
                 "hu": "Melegítse fel a kezét egy friss galette-árusnál.",
                 "ro": "Încălziți-vă mâinile la un stand cu galette proaspete.",
                 "en": "Warm your hands at a fresh galette stall.",
-                "fr": "Réchauffez-vous les mains à un stand de galettes fraîches."
+                "fr": "Réchauffez vos mains au stand de galettes fraîches."
               }
             },
             {
@@ -1465,7 +1515,7 @@
                 "hu": "Ügyeljen a jegesedésre az árnyékos erdei szakaszokon.",
                 "ro": "Atenție la porțiunile cu gheață în zonele împădurite umbrite.",
                 "en": "Watch out for black ice in shaded forest sections.",
-                "fr": "Attention au verglas dans les sections de forêt ombragées."
+                "fr": "Attention au verglas noir dans les sections forestières ombragées."
               }
             },
             {
@@ -1475,7 +1525,7 @@
                 "hu": "A vastag falak télen gyakran hidegebbek, mint a külső levegő.",
                 "ro": "Zidurile groase sunt adesea mai reci decât aerul exterior iarna.",
                 "en": "The thick walls are often colder than the outside air in winter.",
-                "fr": "Les murs épais sont souvent plus froids que l'air extérieur en hiver."
+                "fr": "Les murs épais sont souvent plus froids que l’air extérieur en hiver."
               }
             },
             {
@@ -1485,7 +1535,7 @@
                 "hu": "Tartsa röviden a pikniket; a folyóparti szél hamar lehűt.",
                 "ro": "Picnicul trebuie să fie scurt; vântul de lângă râu răcește repede.",
                 "en": "Keep the picnic short; the river wind cools you down quickly.",
-                "fr": "Faites un pique-nique court ; le vent de la rivière refroidit rapidement."
+                "fr": "Gardez le pique‑nique court ; le vent du fleuve vous refroidit rapidement."
               }
             },
             {
@@ -1495,7 +1545,7 @@
                 "hu": "Tervezze az érkezést legkésőbb 16:30-ra.",
                 "ro": "Planificați sosirea cel târziu la ora 16:30.",
                 "en": "Plan to arrive back by 4:30 PM at the latest.",
-                "fr": "Prévoyez d'être de retour à 16h30 au plus tard."
+                "fr": "Prévoyez d’arriver au plus tard à 16h30."
               }
             }
           ],
@@ -1525,10 +1575,10 @@
               "Check tire pressure; it tends to drop in cold temperatures."
             ],
             "fr": [
-              "Portez des vêtements coupe-vent, surtout pour le haut du corps.",
-              "Les bouteilles d'eau isothermes empêchent votre boisson de devenir trop froide.",
-              "La Voie Verte est très calme en hiver ; emportez un téléphone pour les urgences.",
-              "Vérifiez la pression des pneus ; elle a tendance à baisser avec les températures froides."
+              "Portez des vêtements coupe‑vent, surtout pour le haut du corps.",
+              "Les bouteilles isothermes empêchent votre boisson de devenir trop froide.",
+              "La Voie Verte est très calme en hiver ; emportez un téléphone pour les urgences.",
+              "Vérifiez la pression des pneus ; elle a tendance à baisser par températures froides."
             ]
           }
         }
@@ -1547,7 +1597,8 @@
             "de": "Sarlat Zentrum",
             "hu": "Sarlat központ",
             "ro": "Sarlat Centru",
-            "en": "Sarlat Center"
+            "en": "Sarlat Center",
+            "fr": "Centre de Sarlat"
           },
           "coords": [
             1.2165,
@@ -1571,7 +1622,8 @@
             "de": "Château de Beynac",
             "hu": "Beynac vára",
             "ro": "Castelul Beynac",
-            "en": "Beynac Castle"
+            "en": "Beynac Castle",
+            "fr": "Château de Beynac"
           },
           "coords": [
             1.1458,
@@ -1587,7 +1639,7 @@
             "hu": "Lélegzetelállító kilátás a völgyre.",
             "ro": "Vedere uluitoare asupra văii.",
             "en": "Breathtaking view over the valley.",
-            "fr": "Vue imprenable sur la vallée."
+            "fr": "Vue à couper le souffle sur la vallée."
           }
         },
         {
@@ -1595,7 +1647,8 @@
             "de": "La Roque-Gageac",
             "hu": "La Roque-Gageac",
             "ro": "La Roque-Gageac",
-            "en": "La Roque-Gageac"
+            "en": "La Roque-Gageac",
+            "fr": "La Roque‑Gageac"
           },
           "coords": [
             1.2017,
@@ -1611,7 +1664,7 @@
             "hu": "Franciaország egyik legszebb faluja.",
             "ro": "Unul dintre cele mai frumoase sate din Franța.",
             "en": "One of the most beautiful villages in France.",
-            "fr": "L'un des plus beaux villages de France."
+            "fr": "Un des plus beaux villages de France."
           }
         },
         {
@@ -1619,7 +1672,8 @@
             "de": "Mittagessen im Dorf",
             "hu": "Ebéd a faluban",
             "ro": "Prânz în sat",
-            "en": "Lunch in the village"
+            "en": "Lunch in the village",
+            "fr": "Déjeuner au village"
           },
           "coords": [
             1.2025,
@@ -1635,7 +1689,7 @@
             "hu": "Étkezzen kilátással a Dordogne-ra.",
             "ro": "Luați masa cu vedere la Dordogne.",
             "en": "Dine with a view of the Dordogne.",
-            "fr": "Dinez avec vue sur la Dordogne."
+            "fr": "Dégustez en admirant la Dordogne."
           }
         },
         {
@@ -1643,7 +1697,8 @@
             "de": "Château de Castelnaud",
             "hu": "Castelnaud vára",
             "ro": "Castelul Castelnaud",
-            "en": "Castelnaud Castle"
+            "en": "Castelnaud Castle",
+            "fr": "Château de Castelnaud"
           },
           "coords": [
             1.1485,
@@ -1659,7 +1714,7 @@
             "hu": "Középkori hadviselés múzeuma.",
             "ro": "Muzeul războiului medieval.",
             "en": "Museum of medieval warfare.",
-            "fr": "Musée de la guerre au Moyen Âge."
+            "fr": "Musée de la guerre médiévale."
           }
         },
         {
@@ -1667,7 +1722,8 @@
             "de": "Gärten von Marqueyssac",
             "hu": "Marqueyssac kertjei",
             "ro": "Grădinile Marqueyssac",
-            "en": "Marqueyssac Gardens"
+            "en": "Marqueyssac Gardens",
+            "fr": "Jardins de Marqueyssac"
           },
           "coords": [
             1.1645,
@@ -1692,7 +1748,7 @@
         "hu": "Ez a túra a Dordogne-völgy legfontosabb látnivalóihoz vezet. Reggel Beynac hatalmas várát fedezzük fel. Délben a sziklába épült La Roque-Gageac falujában sétálunk. Délután Castelnaud következik, a napot pedig Marqueyssac kertjeiben zárjuk, ahonnan csodás panoráma nyílik a völgyre.",
         "ro": "Acest tur vă duce la cele mai importante atracții ale văii Dordogne. Dimineața explorăm castelul impunător Beynac. La prânz ne plimbăm prin satul construit în stâncă La Roque-Gageac. După-amiaza vizităm Castelnaud și încheiem ziua în grădinile Marqueyssac cu o vedere panoramică.",
         "en": "This tour takes you to the highlights of the Dordogne Valley. In the morning, explore the mighty Beynac Castle. At midday, stroll through the cliff-side village of La Roque-Gageac. In the afternoon, visit Castelnaud and conclude the day in the Marqueyssac Gardens with a panoramic view.",
-        "fr": "Ce circuit vous emmène vers les points forts de la vallée de la Dordogne. Le matin, explorez le puissant château de Beynac. À midi, flânez dans le village de La Roque-Gageac, adossé à la falaise. L'après-midi, visitez Castelnaud et concluez la journée aux jardins de Marqueyssac avec une vue panoramique."
+        "fr": "Cette excursion vous emmène aux points forts de la vallée de la Dordogne. Le matin, explorez le puissant château de Beynac. À midi, flânez dans le village adossé à la falaise de La Roque‑Gageac. L’après‑midi, visitez Castelnaud et concluez la journée dans les jardins de Marqueyssac avec une vue panoramique."
       },
       "gastro_picks": {
         "de": [
@@ -1821,7 +1877,7 @@
           "Book restaurants in advance."
         ],
         "fr": [
-          "Garez-vous à la périphérie de Sarlat.",
+          "Garez-vous en périphérie de Sarlat.",
           "Les routes de la vallée sont étroites et sinueuses.",
           "Achetez des billets combinés pour les châteaux.",
           "Réservez les restaurants à l'avance."
@@ -1833,7 +1889,8 @@
             "de": "Diese Tour führt Sie zu den Highlights des Dordogne-Tals. Morgens erkunden Sie die mächtige Burg Beynac. Mittags schlendern Sie durch das in den Fels gebaute Dorf La Roque-Gageac. Nachmittags besuchen Sie Castelnaud und beschließen den Tag in den Gärten von Marqueyssac mit einem Panoramablick.",
             "hu": "Ez a túra a Dordogne-völgy legfontosabb látnivalóihoz vezet. Reggel Beynac hatalmas várát fedezzük fel. Délben a sziklába épült La Roque-Gageac falujában sétálunk. Délután Castelnaud következik, a napot pedig Marqueyssac kertjeiben zárjuk, ahonnan csodás panoráma nyílik a völgyre.",
             "ro": "Acest tur vă duce la cele mai importante atracții ale văii Dordogne. Dimineața explorăm castelul impunător Beynac. La prânz ne plimbăm prin satul construit în stâncă La Roque-Gageac. După-amiaza vizităm Castelnaud și încheiem ziua în grădinile Marqueyssac cu o vedere panoramică.",
-            "en": "This tour takes you to the highlights of the Dordogne Valley. In the morning, explore the mighty Beynac Castle. At midday, stroll through the cliff-side village of La Roque-Gageac. In the afternoon, visit Castelnaud and conclude the day in the Marqueyssac Gardens with a panoramic view."
+            "en": "This tour takes you to the highlights of the Dordogne Valley. In the morning, explore the mighty Beynac Castle. At midday, stroll through the cliff-side village of La Roque-Gageac. In the afternoon, visit Castelnaud and conclude the day in the Marqueyssac Gardens with a panoramic view.",
+            "fr": "Cette excursion vous emmène aux sites incontournables de la vallée de la Dordogne. Le matin, découvrez le puissant château de Beynac. À midi, flânez dans le village accroché à la falaise de La Roque-Gageac. L'après‑midi, visitez Castelnaud et terminez la journée aux jardins de Marqueyssac avec une vue panoramique."
           },
           "stops": [
             {
@@ -1841,13 +1898,15 @@
                 "de": "Sarlat Zentrum",
                 "hu": "Sarlat központ",
                 "ro": "Sarlat Centru",
-                "en": "Sarlat Center"
+                "en": "Sarlat Center",
+                "fr": "Centre de Sarlat"
               },
               "tip_5lang": {
                 "de": "Kurzer Spaziergang vor der Abfahrt.",
                 "hu": "Rövid séta indulás előtt.",
                 "ro": "Scurtă plimbare înainte de plecare.",
-                "en": "Short walk before departure."
+                "en": "Short walk before departure.",
+                "fr": "Courte marche avant le départ."
               }
             },
             {
@@ -1855,13 +1914,15 @@
                 "de": "Château de Beynac",
                 "hu": "Beynac vára",
                 "ro": "Castelul Beynac",
-                "en": "Beynac Castle"
+                "en": "Beynac Castle",
+                "fr": "Château de Beynac"
               },
               "tip_5lang": {
                 "de": "Atemberaubender Blick über das Tal.",
                 "hu": "Lélegzetelállító kilátás a völgyre.",
                 "ro": "Vedere uluitoare asupra văii.",
-                "en": "Breathtaking view over the valley."
+                "en": "Breathtaking view over the valley.",
+                "fr": "Vue à couper le souffle sur la vallée."
               }
             },
             {
@@ -1869,13 +1930,15 @@
                 "de": "La Roque-Gageac",
                 "hu": "La Roque-Gageac",
                 "ro": "La Roque-Gageac",
-                "en": "La Roque-Gageac"
+                "en": "La Roque-Gageac",
+                "fr": "La Roque-Gageac"
               },
               "tip_5lang": {
                 "de": "Eines der schönsten Dörfer Frankreichs.",
                 "hu": "Franciaország egyik legszebb faluja.",
                 "ro": "Unul dintre cele mai frumoase sate din Franța.",
-                "en": "One of the most beautiful villages in France."
+                "en": "One of the most beautiful villages in France.",
+                "fr": "Un des plus beaux villages de France."
               }
             },
             {
@@ -1883,13 +1946,15 @@
                 "de": "Mittagessen im Dorf",
                 "hu": "Ebéd a faluban",
                 "ro": "Prânz în sat",
-                "en": "Lunch in the village"
+                "en": "Lunch in the village",
+                "fr": "Déjeuner au village"
               },
               "tip_5lang": {
                 "de": "Speisen Sie mit Blick auf die Dordogne.",
                 "hu": "Étkezzen kilátással a Dordogne-ra.",
                 "ro": "Luați masa cu vedere la Dordogne.",
-                "en": "Dine with a view of the Dordogne."
+                "en": "Dine with a view of the Dordogne.",
+                "fr": "Dégustez avec vue sur la Dordogne."
               }
             },
             {
@@ -1897,13 +1962,15 @@
                 "de": "Château de Castelnaud",
                 "hu": "Castelnaud vára",
                 "ro": "Castelul Castelnaud",
-                "en": "Castelnaud Castle"
+                "en": "Castelnaud Castle",
+                "fr": "Château de Castelnaud"
               },
               "tip_5lang": {
                 "de": "Museum für mittelalterliche Kriegsführung.",
                 "hu": "Középkori hadviselés múzeuma.",
                 "ro": "Muzeul războiului medieval.",
-                "en": "Museum of medieval warfare."
+                "en": "Museum of medieval warfare.",
+                "fr": "Musée de la guerre médiévale."
               }
             },
             {
@@ -1911,13 +1978,15 @@
                 "de": "Gärten von Marqueyssac",
                 "hu": "Marqueyssac kertjei",
                 "ro": "Grădinile Marqueyssac",
-                "en": "Marqueyssac Gardens"
+                "en": "Marqueyssac Gardens",
+                "fr": "Jardins de Marqueyssac"
               },
               "tip_5lang": {
                 "de": "Perfekt für den Sonnenuntergang.",
                 "hu": "Tökéletes a naplementéhez.",
                 "ro": "Perfect pentru apus.",
-                "en": "Perfect for sunset."
+                "en": "Perfect for sunset.",
+                "fr": "Parfait pour le coucher du soleil."
               }
             }
           ],
@@ -2027,6 +2096,12 @@
               "The valley roads are narrow and winding.",
               "Buy combo tickets for the castles.",
               "Book restaurants in advance."
+            ],
+            "fr": [
+              "Garez-vous en périphérie de Sarlat.",
+              "Les routes de la vallée sont étroites et sinueuses.",
+              "Achetez des billets combinés pour les châteaux.",
+              "Réservez les restaurants à l'avance."
             ]
           }
         },
@@ -2036,7 +2111,7 @@
             "hu": "Az esős nap tökéletes egy autós kastélytúrához. A reggel Sarlat védelmében kezdődik, majd következik Beynac lenyűgöző vára, ahol a belső terek garantálják a száraz ámulatot. La Roque-Gageac misztikus arcát mutatja a folyóparti ködben. A délután a castelnaud-i múzeumban és a Marqueyssac-kertekben zárul.",
             "ro": "O zi ploioasă este perfectă pentru un tur al castelelor cu mașina. Dimineața începe la adăpost în Sarlat, urmată de impunătorul castel Beynac, ale cărui interioare garantează o vizită uscată. La Roque-Gageac apare mistică în ceața de pe malul râului. După-amiaza la muzeul Castelnaud și grădinile Marqueyssac încheie ziua.",
             "en": "A rainy day is perfect for a castle tour by car. The morning starts sheltered in Sarlat, followed by the imposing Beynac Castle, whose interiors guarantee dry amazement. La Roque-Gageac looks mystical in the mist by the river. The afternoon at the Castelnaud Museum and the Marqueyssac Gardens provide a grand, if damp, finale.",
-            "fr": "Une journée de pluie est parfaite pour une visite des châteaux en voiture. La matinée commence à l'abri à Sarlat, suivie de l'imposant château de Beynac, dont les intérieurs garantissent un émerveillement au sec. La Roque-Gageac prend un air mystique dans la brume au bord de la rivière. L'après-midi au musée de Castelnaud et aux jardins de Marqueyssac offre un final grandiose, bien qu'humide."
+            "fr": "Une journée pluvieuse est parfaite pour une visite des châteaux en voiture. La matinée commence à l'abri à Sarlat, suivie de l'imposant château de Beynac, dont les intérieurs garantissent des émerveillements au sec. La Roque-Gageac paraît mystique dans la brume au bord de la rivière. L'après‑midi au musée de Castelnaud et aux jardins de Marqueyssac offre une finale grandiose, quoique humide."
           },
           "stops": [
             {
@@ -2046,7 +2121,7 @@
                 "hu": "Parkoljon a 'Place de la Grande Rigaudie' parkolóban a rövid séta érdekében.",
                 "ro": "Parcați în parcarea 'Place de la Grande Rigaudie' pentru acces rapid.",
                 "en": "Park at 'Place de la Grande Rigaudie' for a short walk.",
-                "fr": "Garez-vous place de la Grande Rigaudie pour une courte marche."
+                "fr": "Garez-vous à « Place de la Grande Rigaudie » pour une courte marche."
               }
             },
             {
@@ -2056,7 +2131,7 @@
                 "hu": "A várhoz vezető meredek utcák esőben csúszósak; használja a felső parkolót.",
                 "ro": "Ulițele abrupte spre castel sunt alunecoase; folosiți parcarea de sus.",
                 "en": "Steep alleys to the castle are slippery in rain; use the upper parking lot.",
-                "fr": "Les ruelles escarpées vers le château sont glissantes sous la pluie ; utilisez le parking supérieur."
+                "fr": "Les ruelles raides menant au château sont glissantes sous la pluie ; utilisez le parking supérieur."
               }
             },
             {
@@ -2066,7 +2141,7 @@
                 "hu": "A falu sziklák alatt fekszik, amelyek esőben védelmet nyújthatnak.",
                 "ro": "Satul este sub stânci care pot oferi adăpost în timpul ploii.",
                 "en": "The village is under cliffs which can provide shelter during rain.",
-                "fr": "Le village est sous des falaises qui peuvent offrir un abri pendant la pluie."
+                "fr": "Le village est sous les falaises qui peuvent offrir un abri pendant la pluie."
               }
             },
             {
@@ -2086,7 +2161,7 @@
                 "hu": "A belső hadtörténeti múzeum ideális menedék záporok idején.",
                 "ro": "Muzeul de război din interior este refugiul ideal în timpul averselor.",
                 "en": "The war museum inside is the ideal retreat during showers.",
-                "fr": "Le musée de la guerre à l'intérieur est le refuge idéal pendant les averses."
+                "fr": "Le musée de la guerre à l'intérieur est la retraite idéale pendant les averses."
               }
             },
             {
@@ -2096,7 +2171,7 @@
                 "hu": "Használja a fedett pavilont és a kastély teázóját.",
                 "ro": "Folosiți pavilionul acoperit și salonul de ceai din castel.",
                 "en": "Utilize the covered pavilion and the tea room in the chateau.",
-                "fr": "Profitez du pavillon couvert et du salon de thé du château."
+                "fr": "Utilisez le pavillon couvert et le salon de thé du château."
               }
             }
           ],
@@ -2126,8 +2201,8 @@
               "The viewpoints remain very photogenic even when shrouded in rain clouds."
             ],
             "fr": [
-              "Conduisez avec une prudence accrue sur les routes de campagne étroites par temps mouillé.",
-              "De nombreux parkings de châteaux ne sont pas goudronnés ; attention à la boue.",
+              "Conduisez avec plus de prudence sur les petites routes de campagne mouillées.",
+              "De nombreux parkings de château sont non goudronnés ; attention à la boue.",
               "Gardez un parapluie prêt dans le coffre.",
               "Les points de vue restent très photogéniques même enveloppés de nuages de pluie."
             ]
@@ -2139,7 +2214,7 @@
             "hu": "Téli kirándulás a Perigord Noir vidéken. Beynac és Castelnaud várai büszkén tornyosulnak a kopár völgy felett. Egy melegítő ebéd után La Roque-Gageacban a délután tiszta távlatokat kínál. A napot séta zárja Marqueyssacban, ahol a puszpángok télen is megőrzik mélyzöld színüket.",
             "ro": "O excursie de iarnă prin Perigord Noir. Castelele Beynac și Castelnaud tronează mândre peste valea golașă. După un prânz cald în La Roque-Gageac, după-amiaza oferă vederi clare. Finalul aparține unei plimbări în Marqueyssac, unde cimișirul își păstrează verdele intens.",
             "en": "A winter drive through Perigord Noir. Beynac and Castelnaud castles tower proudly over the bare valley. After a warming lunch in La Roque-Gageac, the afternoon offers clear distant views. The day concludes with a stroll in Marqueyssac, where the boxwoods retain their deep green even in winter.",
-            "fr": "Une balade hivernale à travers le Périgord Noir. Les châteaux de Beynac et Castelnaud dominent fièrement la vallée dénudée. Après un déjeuner réchauffant à La Roque-Gageac, l'après-midi offre des vues dégagées au loin. La journée se termine par une promenade à Marqueyssac, où les buis conservent leur vert profond même en hiver."
+            "fr": "Une balade hivernale à travers le Périgord Noir. Les châteaux de Beynac et de Castelnaud dominent fièrement la vallée dénudée. Après un déjeuner réchauffant à La Roque-Gageac, l'après‑midi offre des vues lointaines et dégagées. La journée se termine par une promenade à Marqueyssac, où les buis gardent leur vert profond même en hiver."
           },
           "stops": [
             {
@@ -2149,7 +2224,7 @@
                 "hu": "Reggel az épületek árnyékos oldalán csúszós lehet az út.",
                 "ro": "Dimineața poate fi polei pe părțile umbrite ale clădirilor.",
                 "en": "Morning frost can make roads slippery in shaded areas.",
-                "fr": "Le givre matinal peut rendre les routes glissantes dans les zones ombragées."
+                "fr": "Le gel matinal peut rendre les routes glissantes dans les zones ombragées."
               }
             },
             {
@@ -2159,7 +2234,7 @@
                 "hu": "A vár szeles; öltözzön különösen melegen a várfalakhoz.",
                 "ro": "Castelul este expus vântului; îmbrăcați-vă gros pentru metereze.",
                 "en": "The castle is windy; dress especially warm for the ramparts.",
-                "fr": "Le château est venteux ; habillez-vous particulièrement chaudement pour les remparts."
+                "fr": "Le château est venteux ; habillez‑vous particulièrement chaud pour les remparts."
               }
             },
             {
@@ -2169,7 +2244,7 @@
                 "hu": "A déli fekvésnek és a sziklafalnak köszönhetően gyakran pár fokkal melegebb.",
                 "ro": "Datorită expunerii sudice, este adesea cu câteva grade mai cald.",
                 "en": "Often a few degrees warmer thanks to its southern exposure and cliff face.",
-                "fr": "Souvent quelques degrés de plus grâce à son exposition sud et sa paroi rocheuse."
+                "fr": "Souvent quelques degrés plus chaud grâce à son exposition sud et à la paroi rocheuse."
               }
             },
             {
@@ -2179,7 +2254,7 @@
                 "hu": "A tél a szarvasgomba ideje; keresse a különleges napi ajánlatokat.",
                 "ro": "Iarna este sezonul trufelor; căutați preparatele speciale ale zilei.",
                 "en": "Winter is truffle season; look out for special daily dishes.",
-                "fr": "L'hiver est la saison des truffes ; recherchez les plats du jour spéciaux."
+                "fr": "L'hiver est la saison de la truffe ; surveillez les plats quotidiens spéciaux."
               }
             },
             {
@@ -2232,7 +2307,7 @@
               "Vérifiez si votre voiture de location est équipée de pneus hiver ou toutes saisons.",
               "L'éclairage public dans les petits villages est souvent réduit en hiver.",
               "De nombreuses attractions ferment plus tôt en hiver (généralement vers 17h00).",
-              "Profitez du calme ; il n'y a quasiment pas de bouchons ni de problèmes de stationnement."
+              "Profitez du calme ; il n'y a presque pas d'embouteillages ni de problèmes de stationnement."
             ]
           }
         }
@@ -2251,7 +2326,8 @@
             "de": "Sarlat Bahnhof",
             "hu": "Sarlat vasútállomás",
             "ro": "Gara Sarlat",
-            "en": "Sarlat Train Station"
+            "en": "Sarlat Train Station",
+            "fr": "Gare de Sarlat"
           },
           "coords": [
             1.218,
@@ -2275,7 +2351,8 @@
             "de": "Saint-Cyprien Dorf",
             "hu": "Saint-Cyprien falu",
             "ro": "Satul Saint-Cyprien",
-            "en": "Saint-Cyprien Village"
+            "en": "Saint-Cyprien Village",
+            "fr": "Village de Saint-Cyprien"
           },
           "coords": [
             1.045,
@@ -2299,7 +2376,8 @@
             "de": "Mittagessen in Saint-Cyprien",
             "hu": "Ebéd Saint-Cyprienben",
             "ro": "Prânz în Saint-Cyprien",
-            "en": "Lunch in Saint-Cyprien"
+            "en": "Lunch in Saint-Cyprien",
+            "fr": "Déjeuner à Saint-Cyprien"
           },
           "coords": [
             1.0445,
@@ -2323,7 +2401,8 @@
             "de": "Les Eyzies (Zentrum)",
             "hu": "Les Eyzies (központ)",
             "ro": "Les Eyzies (centru)",
-            "en": "Les Eyzies (center)"
+            "en": "Les Eyzies (center)",
+            "fr": "Les Eyzies (centre)"
           },
           "coords": [
             1.011,
@@ -2347,7 +2426,8 @@
             "de": "Rückfahrt nach Sarlat",
             "hu": "Visszautazás Sarlat-ba",
             "ro": "Retur spre Sarlat",
-            "en": "Return to Sarlat"
+            "en": "Return to Sarlat",
+            "fr": "Retour à Sarlat"
           },
           "coords": [
             1.2165,
@@ -2372,7 +2452,7 @@
         "hu": "Használja a regionális buszokat és vonatokat a környék felfedezéséhez. Reggel Saint-Cyprienbe utazunk, ahol tipikus piac várja. Délben ott élvezzük a helyi konyhát. Délután Les Eyzies-be, az őstörténeti lelőhelyek központjába látogatunk, mielőtt este visszatérnénk Sarlat-ba.",
         "ro": "Folosiți autobuzele și trenurile regionale pentru a explora împrejurimile. Dimineața mergem la Saint-Cyprien cu piața sa tipică. La prânz savurați bucătăria locală acolo. După-amiaza vizitați Les Eyzies, centrul siturilor preistorice, înainte de a reveni seara în Sarlat.",
         "en": "Use regional buses and trains to explore the surroundings. In the morning, head to Saint-Cyprien with its typical market. At midday, enjoy the local cuisine there. In the afternoon, visit Les Eyzies, the center of prehistoric sites, before returning to Sarlat in the evening.",
-        "fr": "Utilisez les bus régionaux et les trains pour explorer les environs. Le matin, direction Saint-Cyprien et son marché typique. À midi, profitez-y de la cuisine locale. L'après-midi, visitez Les Eyzies, centre des sites préhistoriques, avant de revenir à Sarlat en soirée."
+        "fr": "Utilisez les bus et trains régionaux pour explorer les environs. Le matin, dirigez‑vous vers Saint-Cyprien avec son marché typique. À midi, profitez de la cuisine locale là‑bas. L'après‑midi, visitez Les Eyzies, centre des sites préhistoriques, avant de retourner à Sarlat le soir."
       },
       "gastro_picks": {
         "de": [
@@ -2501,10 +2581,10 @@
           "Buy tickets directly from the driver or at the station."
         ],
         "fr": [
-          "Vérifiez les horaires de bus (Transpérigord) à l'avance.",
-          "Les trains vers Les Eyzies circulent régulièrement.",
-          "Les bus circulent moins fréquemment le week-end.",
-          "Achetez les billets directement auprès du chauffeur ou à la gare."
+          "Vérifiez les horaires des bus (Transpérigord) à l'avance.",
+          "Des trains pour Les Eyzies circulent régulièrement.",
+          "Les bus circulent moins fréquemment le week‑end.",
+          "Achetez les billets directement au conducteur ou à la gare."
         ]
       },
       "variants": {
@@ -2513,7 +2593,8 @@
             "de": "Nutzen Sie regionale Busse und Züge, um die Umgebung zu erkunden. Morgens geht es nach Saint-Cyprien mit seinem typischen Markt. Mittags genießen Sie dort die lokale Küche. Nachmittags besuchen Sie Les Eyzies, das Zentrum der prähistorischen Fundstätten, bevor Sie am Abend nach Sarlat zurückkehren.",
             "hu": "Használja a regionális buszokat és vonatokat a környék felfedezéséhez. Reggel Saint-Cyprienbe utazunk, ahol tipikus piac várja. Délben ott élvezzük a helyi konyhát. Délután Les Eyzies-be, az őstörténeti lelőhelyek központjába látogatunk, mielőtt este visszatérnénk Sarlat-ba.",
             "ro": "Folosiți autobuzele și trenurile regionale pentru a explora împrejurimile. Dimineața mergem la Saint-Cyprien cu piața sa tipică. La prânz savurați bucătăria locală acolo. După-amiaza vizitați Les Eyzies, centrul siturilor preistorice, înainte de a reveni seara în Sarlat.",
-            "en": "Use regional buses and trains to explore the surroundings. In the morning, head to Saint-Cyprien with its typical market. At midday, enjoy the local cuisine there. In the afternoon, visit Les Eyzies, the center of prehistoric sites, before returning to Sarlat in the evening."
+            "en": "Use regional buses and trains to explore the surroundings. In the morning, head to Saint-Cyprien with its typical market. At midday, enjoy the local cuisine there. In the afternoon, visit Les Eyzies, the center of prehistoric sites, before returning to Sarlat in the evening.",
+            "fr": "Utilisez les bus et trains régionaux pour explorer les environs. Le matin, dirigez‑vous vers Saint-Cyprien avec son marché typique. À midi, profitez de la cuisine locale là‑bas. L'après‑midi, visitez Les Eyzies, centre des sites préhistoriques, avant de retourner à Sarlat le soir."
           },
           "stops": [
             {
@@ -2521,13 +2602,15 @@
                 "de": "Sarlat Bahnhof",
                 "hu": "Sarlat vasútállomás",
                 "ro": "Gara Sarlat",
-                "en": "Sarlat Train Station"
+                "en": "Sarlat Train Station",
+                "fr": "Gare de Sarlat"
               },
               "tip_5lang": {
                 "de": "Zentraler Abfahrtspunkt für regionale Busse.",
                 "hu": "Regionális buszok központi indulási helye.",
                 "ro": "Punct central de plecare pentru autobuzele regionale.",
-                "en": "Central departure point for regional buses."
+                "en": "Central departure point for regional buses.",
+                "fr": "Point de départ central pour les bus régionaux."
               }
             },
             {
@@ -2535,13 +2618,15 @@
                 "de": "Saint-Cyprien Dorf",
                 "hu": "Saint-Cyprien falu",
                 "ro": "Satul Saint-Cyprien",
-                "en": "Saint-Cyprien Village"
+                "en": "Saint-Cyprien Village",
+                "fr": "Village de Saint-Cyprien"
               },
               "tip_5lang": {
                 "de": "Besuchen Sie den Sonntagsmarkt.",
                 "hu": "Látogasson el a vasárnapi piacra.",
                 "ro": "Vizitați piața de duminică.",
-                "en": "Visit the Sunday market."
+                "en": "Visit the Sunday market.",
+                "fr": "Visitez le marché du dimanche."
               }
             },
             {
@@ -2549,13 +2634,15 @@
                 "de": "Mittagessen in Saint-Cyprien",
                 "hu": "Ebéd Saint-Cyprienben",
                 "ro": "Prânz în Saint-Cyprien",
-                "en": "Lunch in Saint-Cyprien"
+                "en": "Lunch in Saint-Cyprien",
+                "fr": "Déjeuner à Saint-Cyprien"
               },
               "tip_5lang": {
                 "de": "Lokale Weine probieren.",
                 "hu": "Kóstoljon helyi borokat.",
                 "ro": "Gustați vinurile locale.",
-                "en": "Taste local wines."
+                "en": "Taste local wines.",
+                "fr": "Dégustez les vins locaux."
               }
             },
             {
@@ -2563,13 +2650,15 @@
                 "de": "Les Eyzies (Zentrum)",
                 "hu": "Les Eyzies (központ)",
                 "ro": "Les Eyzies (centru)",
-                "en": "Les Eyzies (center)"
+                "en": "Les Eyzies (center)",
+                "fr": "Les Eyzies (centre)"
               },
               "tip_5lang": {
                 "de": "Hauptstadt der Vorgeschichte.",
                 "hu": "Az őstörténet fővárosa.",
                 "ro": "Capitala preistoriei.",
-                "en": "Capital of prehistory."
+                "en": "Capital of prehistory.",
+                "fr": "Capitale de la préhistoire."
               }
             },
             {
@@ -2577,13 +2666,15 @@
                 "de": "Rückfahrt nach Sarlat",
                 "hu": "Visszautazás Sarlat-ba",
                 "ro": "Retur spre Sarlat",
-                "en": "Return to Sarlat"
+                "en": "Return to Sarlat",
+                "fr": "Retour à Sarlat"
               },
               "tip_5lang": {
                 "de": "Abendessen in Sarlat.",
                 "hu": "Vacsora Sarlat-ban.",
                 "ro": "Cina în Sarlat.",
-                "en": "Dinner in Sarlat."
+                "en": "Dinner in Sarlat.",
+                "fr": "Dîner à Sarlat."
               }
             }
           ],
@@ -2693,6 +2784,12 @@
               "Trains to Les Eyzies run regularly.",
               "Buses run less frequently on weekends.",
               "Buy tickets directly from the driver or at the station."
+            ],
+            "fr": [
+              "Vérifiez les horaires des bus (Transpérigord) à l'avance.",
+              "Des trains pour Les Eyzies circulent régulièrement.",
+              "Les bus circulent moins fréquemment le week‑end.",
+              "Achetez les billets directement au conducteur ou à la gare."
             ]
           }
         },
@@ -2702,7 +2799,7 @@
             "hu": "Egy esős nap kezdődik a sarlat-i vasútállomáson. Busszal vagy vonattal utazunk Saint-Cyprienbe, ahol a sikátorok esőben is bájosak. Egy bőséges ebéd után az út Les Eyzies-be vezet, a Nemzeti Őstörténeti Múzeumba – ez a tökéletes száraz hely délutánra. A visszatérés Sarlat-ba kényelmes, meleg buszon történik.",
             "ro": "O zi ploioasă începe la gara din Sarlat. Cu autobuzul sau trenul mergem spre Saint-Cyprien, unde străzile își păstrează farmecul și pe ploaie. După un prânz copios, călătoria continuă spre Les Eyzies, la Muzeul Național de Preistorie – locul uscat perfect pentru după-amiază. Revenirea în Sarlat se face confortabil cu un autobuz călduros.",
             "en": "A rainy day starts at Sarlat train station. Travel by bus or train to Saint-Cyprien, where the alleys retain their charm even in the rain. After a hearty lunch, the journey continues to Les Eyzies and the National Museum of Prehistory – the perfect dry location for the afternoon. The return to Sarlat is a cozy ride on a warm bus.",
-            "fr": "Une journée pluvieuse commence à la gare de Sarlat. Voyagez en bus ou en train vers Saint-Cyprien, dont les ruelles gardent leur charme même sous la pluie. Après un déjeuner copieux, le voyage continue vers Les Eyzies et le Musée National de Préhistoire – l'endroit idéal au sec pour l'après-midi. Le retour à Sarlat se fait confortablement dans un bus chauffé."
+            "fr": "Une journée pluvieuse commence à la gare de Sarlat. Voyagez en bus ou en train jusqu'à Saint-Cyprien, où les ruelles conservent leur charme même sous la pluie. Après un déjeuner copieux, le trajet se poursuit vers Les Eyzies et le Musée national de préhistoire – l'endroit idéal à l'abri pour l'après‑midi. Le retour à Sarlat se fait dans la chaleur conviviale d'un bus chauffé."
           },
           "stops": [
             {
@@ -2712,7 +2809,7 @@
                 "hu": "Használja a fűtött várótermet, ha késik a vonat.",
                 "ro": "Folosiți sala de așteptare încălzită dacă trenul are întârziere.",
                 "en": "Use the heated waiting room if the train is delayed.",
-                "fr": "Utilisez la salle d'attente chauffée si le train est en retard."
+                "fr": "Utilisez la salle d'attente chauffée si le train est retardé."
               }
             },
             {
@@ -2722,7 +2819,7 @@
                 "hu": "Az állomástól a faluig kb. 10 perc séta; tartsa készenlétben az ernyőt.",
                 "ro": "De la gară până în sat sunt cca. 10 min. de mers; țineți umbrela gata.",
                 "en": "It's about a 10-minute walk from the station to the village; have an umbrella ready.",
-                "fr": "Il y a environ 10 minutes de marche de la gare au village ; prévoyez un parapluie."
+                "fr": "Il y a environ 10 minutes de marche de la gare au village ; ayez un parapluie prêt."
               }
             },
             {
@@ -2732,7 +2829,7 @@
                 "hu": "Válasszon éttermet a buszmegálló közelében a rövid séta érdekében.",
                 "ro": "Alegeți un restaurant lângă stația de autobuz pentru distanțe scurte.",
                 "en": "Choose a restaurant near the bus stop for shorter walking distances.",
-                "fr": "Choisissez un restaurant près de l'arrêt de bus pour réduire les distances de marche."
+                "fr": "Choisissez un restaurant près de l'arrêt de bus pour réduire les distances à pied."
               }
             },
             {
@@ -2742,7 +2839,7 @@
                 "hu": "Az Őstörténeti Múzeum teljesen fedett és nagyon tágas.",
                 "ro": "Muzeul de Preistorie este complet acoperit și foarte spațios.",
                 "en": "The Prehistory Museum is fully indoor and very extensive.",
-                "fr": "Le musée de la Préhistoire est entièrement couvert et très vaste."
+                "fr": "Le Musée de la Préhistoire est entièrement en intérieur et très vaste."
               }
             },
             {
@@ -2752,7 +2849,7 @@
                 "hu": "A buszjáratok (6-os vonal) esőben gyakran pontosabbak a vonatnál.",
                 "ro": "Autobuzele (linia 6) sunt adesea mai punctuale decât trenul pe ploaie.",
                 "en": "Bus connections (Line 6) are often more punctual than the train during rain.",
-                "fr": "Les liaisons par bus (Ligne 6) sont souvent plus ponctuelles que le train par temps de pluie."
+                "fr": "Les correspondances de bus (Ligne 6) sont souvent plus ponctuelles que le train sous la pluie."
               }
             }
           ],
@@ -2782,9 +2879,9 @@
               "Buy tickets online in advance to avoid waiting in the rain."
             ],
             "fr": [
-              "Consultez l'application 'Modalis' pour des informations en temps réel sur les annulations liées à la météo.",
+              "Consultez l'application « Modalis » pour des infos en temps réel sur les annulations liées au temps.",
               "Les gares régionales offrent souvent une protection limitée contre la pluie sur les quais.",
-              "Portez des vêtements qui sèchent vite au cas où vous seriez mouillé pendant les correspondances.",
+              "Portez des vêtements à séchage rapide au cas où vous seriez mouillé lors des correspondances.",
               "Achetez vos billets en ligne à l'avance pour éviter d'attendre sous la pluie."
             ]
           }
@@ -2795,7 +2892,7 @@
             "hu": "Tiszta, hideg nap kezdődik az állomáson. Az utazás a téli völgyön át tágas kilátást nyújt az alvó természetre. Saint-Cyprien télen csendes és autentikus. A délután a Les Eyzies-i múzeumban kellemesen meleg, a visszautazás pedig a korai szürkület fényei mellett történik Sarlat-ba.",
             "ro": "O zi senină și rece începe la gară. Călătoria prin valea hibernală oferă vederi largi asupra naturii adormite. Saint-Cyprien este liniștit și autentic iarna. După-amiaza la muzeul din Les Eyzies este plăcut de caldă, înainte de revenirea în Sarlat la lumina amurgului timpuriu.",
             "en": "A clear, cold day begins at the station. The ride through the winter valley offers sweeping views of sleeping nature. Saint-Cyprien is quiet and authentic in winter. The afternoon at the Les Eyzies museum is pleasantly warm before the return journey to Sarlat in the light of early dusk.",
-            "fr": "Une journée claire et froide commence à la gare. Le trajet dans la vallée hivernale offre des vues dégagées sur une nature endormie. Saint-Cyprien est calme et authentique en hiver. L'après-midi au musée des Eyzies est agréablement chaud avant le voyage de retour vers Sarlat à la lueur du crépuscule précoce."
+            "fr": "Une journée claire et froide commence à la gare. Le trajet à travers la vallée hivernale offre de vastes panoramas sur la nature endormie. Saint-Cyprien est calme et authentique en hiver. L'après‑midi au musée des Eyzies est agréablement chaud avant le retour à Sarlat à la lumière du crépuscule anticipé."
           },
           "stops": [
             {
@@ -2805,7 +2902,7 @@
                 "hu": "A vonatok általában jól fűtöttek; ideális a melegedésre a megállók között.",
                 "ro": "Trenurile sunt de regulă bine încălzite; ideale pentru încălzire între opriri.",
                 "en": "Trains are usually well-heated; ideal for warming up between stops.",
-                "fr": "Les trains sont généralement bien chauffés ; idéal pour se réchauffer entre deux étapes."
+                "fr": "Les trains sont généralement bien chauffés ; idéaux pour se réchauffer entre les arrêts."
               }
             },
             {
@@ -2815,7 +2912,7 @@
                 "hu": "A vasárnapi heti piac télen is kiemelkedő élmény.",
                 "ro": "Piața săptămânală de duminică este un punct de atracție și iarna.",
                 "en": "The weekly Sunday market is a highlight even in winter.",
-                "fr": "Le marché hebdomadaire du dimanche est un moment fort, même en hiver."
+                "fr": "Le marché dominical hebdomadaire est un point fort, même en hiver."
               }
             },
             {
@@ -2825,7 +2922,7 @@
                 "hu": "Sok étteremnek rövidített nyitvatartása van télen; ellenőrizze előre.",
                 "ro": "Multe restaurante au program redus iarna; verificați în prealabil.",
                 "en": "Many restaurants have reduced winter hours; check in advance.",
-                "fr": "De nombreux restaurants ont des horaires réduits en hiver ; vérifiez à l'avance."
+                "fr": "De nombreux restaurants ont des horaires réduits en hiver ; vérifiez à l'avance."
               }
             },
             {
@@ -2845,7 +2942,7 @@
                 "hu": "Az utolsó praktikus buszjárat gyakran 18:00 körül indul.",
                 "ro": "Ultima conexiune practică cu autobuzul este de regulă în jur de 18:00.",
                 "en": "The last practical bus connection is often around 6:00 PM.",
-                "fr": "La dernière liaison par bus pratique est souvent vers 18h00."
+                "fr": "La dernière correspondance de bus pratique est souvent vers 18h00."
               }
             }
           ],
@@ -2875,10 +2972,10 @@
               "Bring a thermos with a hot drink for waiting periods."
             ],
             "fr": [
-              "Les horaires d'hiver peuvent différer de ceux d'été ; vérifiez la fiche horaire 'Hiver'.",
-              "Les petites gares n'ont souvent pas de personnel sur place pendant l'hiver.",
-              "Les trains ont de grandes fenêtres, parfaites pour admirer le paysage au chaud.",
-              "Apportez un thermos avec une boisson chaude pour les périodes d'attente."
+              "Les horaires d'hiver peuvent différer de ceux d'été ; consultez l’horaire « Hiver ».",
+              "Les petites gares sont souvent sans personnel sur place en hiver.",
+              "Les trains ont de grandes fenêtres, parfaites pour le paysage depuis la chaleur intérieure.",
+              "Prenez un thermos avec une boisson chaude pour les temps d'attente."
             ]
           }
         }

@@ -21,7 +21,8 @@
             "de": "Marseillan-Plage",
             "hu": "Marseillan strand",
             "ro": "Plaja Marseillan",
-            "en": "Marseillan Beach"
+            "en": "Marseillan Beach",
+            "fr": "Plage de Marseillan"
           },
           "coords": [
             3.527778,
@@ -36,7 +37,8 @@
             "de": "Beginnen Sie Ihren Tag an diesem weitläufigen Sandstrand und genießen Sie die ruhige Morgenbrise, bringen Sie jedoch unbedingt Sonnencreme und ein Handtuch mit.",
             "hu": "Kezdje a napot ezen a tágas homokos strandon, és élvezze a békés reggeli szellőt, de mindenképpen hozzon magával elegendő naptejet és egy kényelmes törölközőt.",
             "ro": "Începeți ziua pe această plajă extinsă de nisip și bucurați-vă de briza liniștită a dimineții, dar asigurați-vă că aduceți multă cremă de protecție solară.",
-            "en": "Start your day at this expansive sandy beach and enjoy the peaceful morning breeze, but make sure to bring along plenty of sunscreen and a comfortable towel."
+            "en": "Start your day at this expansive sandy beach and enjoy the peaceful morning breeze, but make sure to bring along plenty of sunscreen and a comfortable towel.",
+            "fr": "Commencez votre journée sur cette vaste plage de sable et profitez de la brise matinale paisible, mais pensez à emporter beaucoup de crème solaire et une serviette confortable."
           }
         },
         {
@@ -44,7 +46,8 @@
             "de": "Hafen von Marseillan",
             "hu": "Marseillan kikötője",
             "ro": "Portul Marseillan",
-            "en": "Port of Marseillan"
+            "en": "Port of Marseillan",
+            "fr": "Port de Marseillan"
           },
           "coords": [
             3.530936,
@@ -59,7 +62,8 @@
             "de": "Flanieren Sie entlang des malerischen Hafens mit seinen bunten Booten und traditionellen Restaurants, wo Sie unbedingt frische Meeresfrüchte probieren sollten.",
             "hu": "Sétáljon végig a festői kikötőn a színes hajók és hagyományos éttermek között, ahol mindenképpen érdemes megkóstolni a frissen fogott helyi tengeri herkentyűket.",
             "ro": "Plimbați-vă de-a lungul portului pitoresc cu bărci colorate și restaurante tradiționale, unde trebuie neapărat să vă opriți pentru a gusta fructe de mare proaspete.",
-            "en": "Stroll along the picturesque harbor filled with colorful boats and traditional restaurants, where you absolutely must stop to taste some freshly caught local seafood."
+            "en": "Stroll along the picturesque harbor filled with colorful boats and traditional restaurants, where you absolutely must stop to taste some freshly caught local seafood.",
+            "fr": "Promenez-vous le long du port pittoresque rempli de bateaux colorés et de restaurants traditionnels, où vous devez absolument vous arrêter pour goûter des fruits de mer locaux fraîchement pêchés."
           }
         },
         {
@@ -67,7 +71,8 @@
             "de": "Haus Noilly Prat",
             "hu": "Noilly Prat Ház",
             "ro": "Casa Noilly Prat",
-            "en": "Maison Noilly Prat"
+            "en": "Maison Noilly Prat",
+            "fr": "Maison Noilly Prat"
           },
           "coords": [
             3.531484,
@@ -82,7 +87,8 @@
             "de": "Tauchen Sie in die Geschichte dieses berühmten Wermuts ein und nehmen Sie an einer faszinierenden Führung teil, am besten buchen Sie Ihre Tickets vorab online.",
             "hu": "Merüljön el ennek a híres vermutnak a történetében egy lenyűgöző pincelátogatás során, bár a belépőjegyeket erősen ajánlott előre, online lefoglalni a neten.",
             "ro": "Pătrundeți în istoria acestui faimos vermut participând la un tur ghidat fascinant, deși este foarte recomandat să vă rezervați biletele în avans online.",
-            "en": "Dive into the history of this famous vermouth by joining a fascinating guided tour of the cellars, though it is highly recommended to book your tickets in advance online."
+            "en": "Dive into the history of this famous vermouth by joining a fascinating guided tour of the cellars, though it is highly recommended to book your tickets in advance online.",
+            "fr": "Plongez dans l'histoire de ce vermouth célèbre en participant à une visite guidée fascinante des caves ; il est fortement recommandé de réserver vos billets en ligne à l'avance."
           }
         },
         {
@@ -90,7 +96,8 @@
             "de": "Canal du Midi - Les Onglous",
             "hu": "Canal du Midi - Les Onglous",
             "ro": "Canal du Midi - Les Onglous",
-            "en": "Canal du Midi - Les Onglous"
+            "en": "Canal du Midi - Les Onglous",
+            "fr": "Canal du Midi - Les Onglous"
           },
           "coords": [
             3.539819,
@@ -105,7 +112,8 @@
             "de": "Bewundern Sie das historische Meisterwerk, wo der majestätische Kanal auf die Lagune trifft, und planen Sie einen entspannten Spaziergang entlang der schattigen Uferwege.",
             "hu": "Csodálja meg azt a történelmi remekművet, ahol a fenséges csatorna találkozik a lagúnával, és feltétlenül tervezzen egy pihentető sétát az árnyékos parti utakon.",
             "ro": "Admirați capodopera istorică unde canalul maiestuos întâlnește laguna și asigurați-vă că planificați o plimbare relaxantă de-a lungul cărărilor umbrite de pe mal.",
-            "en": "Admire the historic masterpiece where the majestic canal meets the lagoon, and make sure to plan a relaxing walk along the beautifully shaded waterway paths."
+            "en": "Admire the historic masterpiece where the majestic canal meets the lagoon, and make sure to plan a relaxing walk along the beautifully shaded waterway paths.",
+            "fr": "Admirez ce chef-d'œuvre historique où le majestueux canal rencontre la lagune, et prévoyez une promenade relaxante le long des sentiers ombragés au bord de l'eau."
           }
         },
         {
@@ -113,7 +121,8 @@
             "de": "Plage Robinson - Est",
             "hu": "Plage Robinson - Kelet",
             "ro": "Plaja Robinson - Est",
-            "en": "Plage Robinson - East"
+            "en": "Plage Robinson - East",
+            "fr": "Plage Robinson - Est"
           },
           "coords": [
             3.559839,
@@ -128,7 +137,8 @@
             "de": "Entspannen Sie an diesem naturbelassenen Strandabschnitt fernab der großen Touristenmassen, packen Sie jedoch eigene Snacks ein, da es hier kaum Verpflegungsmöglichkeiten gibt.",
             "hu": "Pihenjen ezen az érintetlen és természetes partszakaszon, távol a nagy turistatömegektől, de mindenképpen vigyen magával harapnivalót, mivel itt kevés a szolgáltatás.",
             "ro": "Relaxați-vă pe această porțiune de plajă virgină, departe de marile aglomerații turistice, dar asigurați-vă că vă aduceți propriile gustări, deoarece facilitățile sunt puține.",
-            "en": "Relax on this pristine and natural stretch of beach away from the large tourist crowds, but be sure to pack your own snacks as there are very few facilities available."
+            "en": "Relax on this pristine and natural stretch of beach away from the large tourist crowds, but be sure to pack your own snacks as there are very few facilities available.",
+            "fr": "Détendez-vous sur cet espace de plage vierge et naturel, à l'écart des grands flux touristiques, mais pensez à emporter vos propres collations car les installations sont très limitées."
           }
         }
       ],
@@ -164,7 +174,8 @@
             "de": "Der Morgen am Strand bietet einen dramatischen Blick auf das stürmische Meer; suchen Sie Schutz in den Cafés. Mittags ermöglichen die Arkaden am Hafen einen trockenen Spaziergang in salziger Luft. Nachmittags sind die Keller des Maison Noilly Prat der ideale Ort, um dem Regen zu entfliehen. Abends erzeugt der Regen am Canal du Midi eine poetische Atmosphäre, bevor man in die Stadt zurückkehrt.",
             "hu": "Reggel a tengerparton a viharos tenger látványa lenyűgöző; keressünk menedéket a kávézókban. Délben a kikötő melletti árkádok alatt sétálva élvezhetjük a sós levegőt esőben is. Délután a Noilly Prat Ház pincéi tökéletes menedéket nyújtanak a nedves idő elől. Este a Canal du Midi torkolatánál az esőkopogás különleges hangulatot ad a tájnak, mielőtt visszatérnénk a szállásunkra.",
             "ro": "Dimineața la plajă oferă o priveliște dramatică a mării agitate; căutați adăpost în cafenele dacă plouă. La prânz, mergeți pe sub arcadele portului pentru a simți aerul sărat rămânând uscați. După-amiaza, cramele Maison Noilly Prat sunt refugiul perfect împotriva ploii. Seara, ploaia peste Canal du Midi creează o atmosferă poetică și melancolică înainte de a vă întoarce în oraș.",
-            "en": "Morning at the beach offers a dramatic view of the stormy sea; seek shelter in nearby cafes if it pours. At noon, walk under the port's awnings to enjoy the maritime atmosphere while staying dry. In the afternoon, the indoor cellars of Maison Noilly Prat provide a perfect escape from the wet weather. By evening, the rain on Canal du Midi creates a poetic, melancholic setting."
+            "en": "Morning at the beach offers a dramatic view of the stormy sea; seek shelter in nearby cafes if it pours. At noon, walk under the port's awnings to enjoy the maritime atmosphere while staying dry. In the afternoon, the indoor cellars of Maison Noilly Prat provide a perfect escape from the wet weather. By evening, the rain on Canal du Midi creates a poetic, melancholic setting.",
+            "fr": "Le matin à la plage offre une vue dramatique sur la mer orageuse ; cherchez un abri dans les cafés voisins si la pluie tombe. À midi, marchez sous les auvents du port pour profiter de l'atmosphère maritime tout en restant au sec. L'après-midi, les caves de la Maison Noilly Prat offrent une parfaite échappée à l'intérieur. Le soir, la pluie sur le Canal du Midi crée une ambiance poétique et mélancolique."
           },
           "stops": [
             {
@@ -172,13 +183,15 @@
                 "de": "Marseillan-Plage",
                 "hu": "Marseillan strand",
                 "ro": "Plaja Marseillan",
-                "en": "Marseillan Beach"
+                "en": "Marseillan Beach",
+                "fr": "Plage de Marseillan"
               },
               "tip_5lang": {
                 "de": "Beobachten Sie die Wellen von einer geschützten Terrasse aus, während der graue Himmel dem Strand Dramatik verleiht; tragen Sie unbedingt wasserfeste Schuhe.",
                 "hu": "Figyeljük a hullámokat egy védett parti teraszról, a szürke égbolt különleges drámaiságot kölcsönöz a homokos partnak; mindenképpen vízálló cipőt viseljünk.",
                 "ro": "Priviți valurile de pe o terasă adăpostită, cerul gri oferind o notă dramatică plajei; purtați neapărat încălțăminte impermeabilă pentru această plimbare.",
-                "en": "Watch the waves from a sheltered terrace, as the grey sky adds a dramatic touch to the sandy shore; be sure to wear waterproof shoes for the coastal walk."
+                "en": "Watch the waves from a sheltered terrace, as the grey sky adds a dramatic touch to the sandy shore; be sure to wear waterproof shoes for the coastal walk.",
+                "fr": "Regardez les vagues depuis une terrasse abritée, le ciel gris ajoutant une touche dramatique à la côte ; portez des chaussures imperméables pour la balade côtière."
               }
             },
             {
@@ -186,13 +199,15 @@
                 "de": "Hafen von Marseillan",
                 "hu": "Marseillan kikötője",
                 "ro": "Portul Marseillan",
-                "en": "Port of Marseillan"
+                "en": "Port of Marseillan",
+                "fr": "Port de Marseillan"
               },
               "tip_5lang": {
                 "de": "Der Anblick der schaukelnden Boote im Hafen ist auch bei Regen beruhigend; die Markisen der Cafés bieten perfekten Schutz vor plötzlichen Regenschauern.",
                 "hu": "A kikötőben a ringatózó hajók látványa esőben is megnyugtató; a parti kávézók napellenzői kiváló menedéket nyújtanak a hirtelen érkező záporok elől.",
                 "ro": "Vederea bărcilor legănate în port este relaxantă chiar și pe ploaie; copertinele cafenelelor oferă un adăpost perfect împotriva averselor neașteptate.",
-                "en": "The sight of bobbing boats in the harbor is soothing even in rain; the cafe awnings provide excellent shelter from sudden showers during your walk."
+                "en": "The sight of bobbing boats in the harbor is soothing even in rain; the cafe awnings provide excellent shelter from sudden showers during your walk.",
+                "fr": "La vue des bateaux qui tanguent dans le port est apaisante même sous la pluie ; les auvents des cafés offrent un excellent abri contre les averses soudaines pendant votre promenade."
               }
             },
             {
@@ -200,13 +215,15 @@
                 "de": "Haus Noilly Prat",
                 "hu": "Noilly Prat Ház",
                 "ro": "Casa Noilly Prat",
-                "en": "Maison Noilly Prat"
+                "en": "Maison Noilly Prat",
+                "fr": "Maison Noilly Prat"
               },
               "tip_5lang": {
                 "de": "Entdecken Sie die Geheimnisse der Wermutherstellung zwischen riesigen Fässern, wo das Geräusch des Regens die historische Atmosphäre im Inneren verstärkt.",
                 "hu": "Fedezze fel a vermutkészítés titkait a hatalmas, illatos hordók között, ahol az eső kopogása csak fokozza a benti ódon és történelmi hangulatot.",
                 "ro": "Descoperiți secretele fabricării vermutului printre butoaie uriașe, unde sunetul ploii accentuează atmosfera istorică din interiorul clădirii vechi.",
-                "en": "Discover the secrets of vermouth making among huge, fragrant barrels, where the sound of rain enhances the historic indoor atmosphere of the cellars."
+                "en": "Discover the secrets of vermouth making among huge, fragrant barrels, where the sound of rain enhances the historic indoor atmosphere of the cellars.",
+                "fr": "Découvrez les secrets de la fabrication du vermouth parmi d'énormes fûts parfumés, où le bruit de la pluie renforce l'atmosphère historique intérieure des caves."
               }
             },
             {
@@ -214,13 +231,15 @@
                 "de": "Canal du Midi - Les Onglous",
                 "hu": "Canal du Midi - Les Onglous",
                 "ro": "Canal du Midi - Les Onglous",
-                "en": "Canal du Midi - Les Onglous"
+                "en": "Canal du Midi - Les Onglous",
+                "fr": "Canal du Midi - Les Onglous"
               },
               "tip_5lang": {
                 "de": "Das Zusammentreffen von Kanal und Meer wirkt im Nebelregen mystisch; achten Sie auf Schlamm und rutschige Steine auf dem schmalen Pfad am Ufer.",
                 "hu": "A csatorna és a tenger találkozása ködös esőben misztikus látvány; ügyeljünk a sárfoltokra és a csúszós kövekre a part menti keskeny ösvényen.",
                 "ro": "Întâlnirea canalului cu marea este mistică pe o ploaie cețoasă; aveți mare grijă la noroi și la pietrele alunecoase de pe poteca îngustă de pe mal.",
-                "en": "The meeting of the canal and the sea is mystical in misty rain; watch out for mud patches and slippery stones on the narrow path along the water."
+                "en": "The meeting of the canal and the sea is mystical in misty rain; watch out for mud patches and slippery stones on the narrow path along the water.",
+                "fr": "La rencontre du canal et de la mer est mystique sous une pluie brumeuse ; méfiez-vous des zones boueuses et des pierres glissantes sur le sentier étroit le long de l'eau."
               }
             },
             {
@@ -228,13 +247,15 @@
                 "de": "Plage Robinson - Est",
                 "hu": "Plage Robinson - Kelet",
                 "ro": "Plaja Robinson - Est",
-                "en": "Plage Robinson - East"
+                "en": "Plage Robinson - East",
+                "fr": "Plage Robinson - Est"
               },
               "tip_5lang": {
                 "de": "An diesem endlosen Strand wirkt der Sturmwind erfrischend; halten Sie wegen unvorhersehbarer Wellen bei Flut ausreichend Abstand zur Wasserlinie.",
                 "hu": "A végtelennek tűnő partszakaszon a viharos szél frissítő; tartsunk biztonságos távolságot a víztől a hirtelen felcsapó hullámok és az árály miatt.",
                 "ro": "Pe această întindere nesfârșită de plajă, vântul furtunos este revigorant; păstrați distanța față de apă din cauza valurilor imprevizibile de flux.",
-                "en": "On this endless stretch of beach, the stormy wind is refreshing; keep a safe distance from the waterline due to unpredictable waves and high tide."
+                "en": "On this endless stretch of beach, the stormy wind is refreshing; keep a safe distance from the waterline due to unpredictable waves and high tide.",
+                "fr": "Sur cette plage interminable, le vent de tempête est vivifiant ; gardez une distance de sécurité par rapport à la ligne d'eau en raison des vagues imprévisibles et de la marée haute."
               }
             }
           ]
@@ -244,7 +265,8 @@
             "de": "Der Wintermorgen an der Küste ist frisch; kleiden Sie sich in Schichten gegen die Meeresbrise. Mittags ist der Hafen friedlich, doch denken Sie an den frühen Sonnenuntergang. Nachmittags bieten die gemütlichen Räume des Maison Noilly Prat Wärme. Der Abend bricht am Canal du Midi früh an, genießen Sie den Sonnenuntergang am Robinson-Strand gegen 17 Uhr.",
             "hu": "A téli reggel friss és csípős a tengerparton; öltözzünk rétegesen a szél ellen a hosszú séta során. Délben a kikötőben a nap még melegíthet, de a korai sötétedés miatt siessünk. Délután a Noilly Prat Ház meleg belső terei hívogatóak. Az este hamar leszáll a Canal du Midi felett, így a naplementét már 17 óra körül élvezhetjük.",
             "ro": "Dimineața de iarnă este rece pe coastă; îmbrăcați-vă în straturi împotriva brizelor tăioase. La prânz, portul este liniștit, dar aveți în vedere apusul timpuriu de iarnă. După-amiaza, interioarele primitoare de la Maison Noilly Prat oferă un refugiu cald. Seara coboară devreme peste Canal du Midi, deci prindeți apusul la ora 17.",
-            "en": "The winter morning is crisp and chilly on the coast; dress in layers against the sea breeze. At noon, the port is peaceful, but remember the early sunset. In the afternoon, the cozy interiors of Maison Noilly Prat offer a warm respite from the cold. Evening falls early over Canal du Midi, so aim to catch the sunset by 5 PM."
+            "en": "The winter morning is crisp and chilly on the coast; dress in layers against the sea breeze. At noon, the port is peaceful, but remember the early sunset. In the afternoon, the cozy interiors of Maison Noilly Prat offer a warm respite from the cold. Evening falls early over Canal du Midi, so aim to catch the sunset by 5 PM.",
+            "fr": "Le matin d'hiver est vif et frais sur la côte ; habillez-vous en couches contre la brise marine. À midi, le port est paisible, mais souvenez-vous du coucher de soleil précoce. L'après-midi, les intérieurs accueillants de la Maison Noilly Prat offrent un répit chaleureux. Le soir tombe tôt sur le Canal du Midi, essayez donc d'admirer le coucher de soleil avant 17 h."
           },
           "stops": [
             {
@@ -252,13 +274,15 @@
                 "de": "Marseillan-Plage",
                 "hu": "Marseillan strand",
                 "ro": "Plaja Marseillan",
-                "en": "Marseillan Beach"
+                "en": "Marseillan Beach",
+                "fr": "Plage de Marseillan"
               },
               "tip_5lang": {
                 "de": "Genießen Sie die Einsamkeit des verlassenen Strandes und das klare Winterlicht; tragen Sie einen dicken Schal gegen die beißende Meeresbrise am Morgen.",
                 "hu": "Élvezze a kihalt part nyugalmát és a tiszta téli fényt; a tenger felől fújó csípős reggeli szél ellen viseljünk egy vastag sálat és sapkát.",
                 "ro": "Bucurați-vă de solitudinea plajei pustii și de lumina clară de iarnă; purtați un fular gros contra vântului tăios al mării de la primele ore.",
-                "en": "Enjoy the solitude of the deserted beach and the clear winter light; wear a thick scarf against the biting sea breeze during your early morning walk."
+                "en": "Enjoy the solitude of the deserted beach and the clear winter light; wear a thick scarf against the biting sea breeze during your early morning walk.",
+                "fr": "Profitez de la solitude de la plage déserte et de la lumière claire de l'hiver ; portez une grosse écharpe contre la bise piquante lors de votre marche matinale."
               }
             },
             {
@@ -266,13 +290,15 @@
                 "de": "Hafen von Marseillan",
                 "hu": "Marseillan kikötője",
                 "ro": "Portul Marseillan",
-                "en": "Port of Marseillan"
+                "en": "Port of Marseillan",
+                "fr": "Port de Marseillan"
               },
               "tip_5lang": {
                 "de": "Der Hafen bleibt im Winter belebt; das Beobachten der lokalen Fischer vermittelt ein authentisches südfranzösisches Gefühl in der milden Wintersonne.",
                 "hu": "A kikötő télen is életteli; a helyi halászok munkáját figyelve átélhetjük az igazi dél-francia hangulatot a bágyadt, de kellemes téli napsütésben.",
                 "ro": "Portul rămâne plin de viață și iarna; urmărirea pescarilor locali vă oferă o senzație autentică de sudul Franței sub soarele blând de iarnă.",
-                "en": "The harbor remains lively in winter; watching the local fishermen gives you an authentic South of France feel in the mild and pleasant winter sun."
+                "en": "The harbor remains lively in winter; watching the local fishermen gives you an authentic South of France feel in the mild and pleasant winter sun.",
+                "fr": "Le port reste animé en hiver ; observer les pêcheurs locaux vous donne une véritable sensation du Sud de la France sous le soleil d'hiver doux et agréable."
               }
             },
             {
@@ -280,13 +306,15 @@
                 "de": "Haus Noilly Prat",
                 "hu": "Noilly Prat Ház",
                 "ro": "Casa Noilly Prat",
-                "en": "Maison Noilly Prat"
+                "en": "Maison Noilly Prat",
+                "fr": "Maison Noilly Prat"
               },
               "tip_5lang": {
                 "de": "Das beheizte Besucherzentrum und die Wermutverkostung werden Sie nach einem langen Winterspaziergang an der Küste angenehm und gemütlich aufwärmen.",
                 "hu": "A látogatóközpont fűtött terei és a vermutkóstolás kellemesen és gyorsan felmelegítik a látogatót a hosszú, hűvös tengerparti sétát követően.",
                 "ro": "Centrul de vizitare încălzit și degustarea de vermut vă vor încălzi plăcut și confortabil după o plimbare lungă de iarnă pe malul mării.",
-                "en": "The heated visitor center and the vermouth tasting will pleasantly warm you up after a long, chilly winter walk along the scenic shoreline."
+                "en": "The heated visitor center and the vermouth tasting will pleasantly warm you up after a long, chilly winter walk along the scenic shoreline.",
+                "fr": "Le centre d'accueil chauffé et la dégustation de vermouth vous réchaufferont agréablement après une longue marche hivernale le long du littoral pittoresque."
               }
             },
             {
@@ -294,13 +322,15 @@
                 "de": "Canal du Midi - Les Onglous",
                 "hu": "Canal du Midi - Les Onglous",
                 "ro": "Canal du Midi - Les Onglous",
-                "en": "Canal du Midi - Les Onglous"
+                "en": "Canal du Midi - Les Onglous",
+                "fr": "Canal du Midi - Les Onglous"
               },
               "tip_5lang": {
                 "de": "Der winterliche Sonnenuntergang ist hier spektakulär in Rottönen; rechnen Sie nach 16:30 Uhr mit einem sehr schnellen Temperaturabfall bei Nachteinbruch.",
                 "hu": "A téli naplemente itt különösen látványos a vörös minden árnyalatában; 16:30 után azonban számítsunk a levegő hirtelen és gyors lehűlésére.",
                 "ro": "Apusul de iarnă este spectaculos aici în nuanțe intense de roșu; așteptați-vă la o scădere rapidă a temperaturii după ora 16:30, la lăsarea serii.",
-                "en": "The winter sunset here is spectacular in deep shades of red; expect a rapid temperature drop after 4:30 PM as night falls over the water."
+                "en": "The winter sunset here is spectacular in deep shades of red; expect a rapid temperature drop after 4:30 PM as night falls over the water.",
+                "fr": "Le coucher de soleil hivernal ici est spectaculaire en nuances profondes de rouge ; attendez-vous à une chute rapide des températures après 16 h 30 lorsque la nuit tombe sur l'eau."
               }
             },
             {
@@ -308,13 +338,15 @@
                 "de": "Plage Robinson - Est",
                 "hu": "Plage Robinson - Kelet",
                 "ro": "Plaja Robinson - Est",
-                "en": "Plage Robinson - East"
+                "en": "Plage Robinson - East",
+                "fr": "Plage Robinson - Est"
               },
               "tip_5lang": {
                 "de": "Ein Spaziergang in den Dünen in der winterlichen Stille ist erholsam; suchen Sie danach einen beheizten Ort auf, da die Cafés hier oft geschlossen sind.",
                 "hu": "A tengerparti dűnék közötti séta a téli csendben rendkívül pihentető; utána keressünk egy fűtött helyet, mert a parti bárok ilyenkor zárva tartanak.",
                 "ro": "O plimbare printre dune în liniștea iernii este foarte relaxantă; căutați apoi un loc încălzit, deoarece terasele de pe plajă sunt adesea închise.",
-                "en": "Walking among the dunes in the winter silence is restorative; look for a heated spot afterwards, as many beach cafes are closed during this season."
+                "en": "Walking among the dunes in the winter silence is restorative; look for a heated spot afterwards, as many beach cafes are closed during this season.",
+                "fr": "Marcher parmi les dunes dans le silence hivernal est ressourçant ; cherchez ensuite un endroit chauffé, car beaucoup de cafés de plage sont fermés en cette saison."
               }
             }
           ]
@@ -334,7 +366,8 @@
             "de": "Thau-Lagune",
             "hu": "Thau-lagúna",
             "ro": "Laguna Thau",
-            "en": "Thau Lagoon"
+            "en": "Thau Lagoon",
+            "fr": "Étang de Thau"
           },
           "coords": [
             3.624167,
@@ -349,7 +382,8 @@
             "de": "Bestaunen Sie die schimmernde Wasserfläche, die für ihre exzellente Austernzucht bekannt ist, und nutzen Sie die Gelegenheit für eine kleine Verkostung am Ufer.",
             "hu": "Csodálja meg a kiváló osztrigatenyésztéséről híres, csillogó vízfelületet, és mindenképpen ragadja meg az alkalmat egy kis kóstolóra közvetlenül a parton.",
             "ro": "Minunați-vă de întinderea strălucitoare de apă renumită pentru creșterea stridiilor și profitați de ocazie pentru o mică degustare chiar pe malul mării.",
-            "en": "Marvel at the shimmering expanse of water renowned for its excellent oyster farming, and definitely take the opportunity for a small tasting session right on the shore."
+            "en": "Marvel at the shimmering expanse of water renowned for its excellent oyster farming, and definitely take the opportunity for a small tasting session right on the shore.",
+            "fr": "Admirez l'étendue d'eau scintillante renommée pour son excellente conchyliculture, et profitez sans faute d'une petite dégustation directement sur le rivage."
           }
         },
         {
@@ -357,7 +391,8 @@
             "de": "Haus Noilly Prat",
             "hu": "Noilly Prat Ház",
             "ro": "Casa Noilly Prat",
-            "en": "Maison Noilly Prat"
+            "en": "Maison Noilly Prat",
+            "fr": "Maison Noilly Prat"
           },
           "coords": [
             3.531484,
@@ -372,7 +407,8 @@
             "de": "Besuchen Sie die Heimat des ikonischen Wermuts auf einer fesselnden Führung durch die Fässer, buchen Sie aber unbedingt im Voraus, um lange Wartezeiten zu vermeiden.",
             "hu": "Látogasson el az ikonikus vermut otthonába egy magával ragadó vezetett túra keretében, de feltétlenül foglaljon előre, hogy elkerülje a hosszú várakozási időt.",
             "ro": "Vizitați casa iconicului vermut într-un tur ghidat captivant printre butoaie, dar asigurați-vă că rezervați în avans pentru a evita timpii lungi de așteptare.",
-            "en": "Visit the home of the iconic vermouth on a captivating guided tour through the barrels, but be absolutely sure to book in advance to avoid long waiting times."
+            "en": "Visit the home of the iconic vermouth on a captivating guided tour through the barrels, but be absolutely sure to book in advance to avoid long waiting times.",
+            "fr": "Visitez la maison du vermouth iconique lors d'une visite guidée captivante à travers les fûts, mais assurez-vous absolument de réserver à l'avance pour éviter de longues attentes."
           }
         },
         {
@@ -380,7 +416,8 @@
             "de": "Hafen von Marseillan",
             "hu": "Marseillan kikötője",
             "ro": "Portul Marseillan",
-            "en": "Port of Marseillan"
+            "en": "Port of Marseillan",
+            "fr": "Port de Marseillan"
           },
           "coords": [
             3.530936,
@@ -395,7 +432,8 @@
             "de": "Erleben Sie das maritime Flair am charmanten Yachthafen mit seinen gemütlichen Cafés, ideal für eine Kaffeepause, während Sie das rege Treiben der Boote beobachten.",
             "hu": "Élje át a tengeri hangulatot a hangulatos jachtkikötőben, amelynek kávézói ideálisak egy kávészünetre, miközben figyeli az elhaladó hajók élénk nyüzsgését.",
             "ro": "Experimentați flerul maritim în portul fermecător cu cafenelele sale confortabile, perfect adaptate pentru o pauză de cafea în timp ce priviți agitația bărcilor.",
-            "en": "Experience the maritime flair at the charming marina with its cozy cafes, perfectly suited for a coffee break while you watch the lively hustle of the passing boats."
+            "en": "Experience the maritime flair at the charming marina with its cozy cafes, perfectly suited for a coffee break while you watch the lively hustle of the passing boats.",
+            "fr": "Vivez l'ambiance maritime du charmant port de plaisance avec ses cafés cosy, parfait pour une pause café tout en regardant l'animation des bateaux qui passent."
           }
         },
         {
@@ -403,7 +441,8 @@
             "de": "Canal du Midi - Les Onglous",
             "hu": "Canal du Midi - Les Onglous",
             "ro": "Canal du Midi - Les Onglous",
-            "en": "Canal du Midi - Les Onglous"
+            "en": "Canal du Midi - Les Onglous",
+            "fr": "Canal du Midi - Les Onglous"
           },
           "coords": [
             3.539819,
@@ -418,7 +457,8 @@
             "de": "Erkunden Sie das Endstück des weltberühmten Kanals, das malerisch in die Lagune mündet, und achten Sie dabei besonders auf den charmanten, kleinen weißen Leuchtturm.",
             "hu": "Fedezze fel a világhírű csatorna végét, ahogy festőien a lagúnába ömlik, és fordítson különös figyelmet az ott álló bájos kis fehér világítótoronyra is.",
             "ro": "Explorați capătul canalului de renume mondial, pe măsură ce se varsă în lagună, și acordați o atenție deosebită fermecătorului mic far alb care se află acolo.",
-            "en": "Explore the very end of the world-famous canal as it picturesquely flows into the lagoon, and pay special attention to the charming little white lighthouse standing there."
+            "en": "Explore the very end of the world-famous canal as it picturesquely flows into the lagoon, and pay special attention to the charming little white lighthouse standing there.",
+            "fr": "Explorez l'extrémité de ce canal mondialement connu où il se jette pittoresquement dans la lagune, et prêtez une attention particulière au petit phare blanc charmant qui s'y tient."
           }
         },
         {
@@ -426,7 +466,8 @@
             "de": "Plage naturiste Cap d'Agde",
             "hu": "Cap d'Agde naturista strand",
             "ro": "Plaja naturistă Cap d'Agde",
-            "en": "Cap d'Agde Naturist Beach"
+            "en": "Cap d'Agde Naturist Beach",
+            "fr": "Plage naturiste du Cap d'Agde"
           },
           "coords": [
             3.534045,
@@ -441,7 +482,8 @@
             "de": "Erleben Sie das unvergleichliche Freiheitsgefühl an diesem sehr bekannten FKK-Strand, achten Sie jedoch stets auf die strikten lokalen Regeln und respektieren Sie die Privatsphäre.",
             "hu": "Élje át a páratlan szabadságérzetet ezen a híres naturista strandon, de mindig ügyeljen arra, hogy szigorúan betartsa a helyi szabályokat és tisztelje a magánszférát.",
             "ro": "Experimentați sentimentul de libertate la această faimoasă plajă de nudiști, dar asigurați-vă că respectați cu strictețe regulile locale și intimitatea tuturor.",
-            "en": "Experience the unparalleled sense of freedom at this highly famous naturist beach, but always be sure to strictly follow local rules and respect everyone's privacy."
+            "en": "Experience the unparalleled sense of freedom at this highly famous naturist beach, but always be sure to strictly follow local rules and respect everyone's privacy.",
+            "fr": "Vivez le sentiment de liberté incomparable sur cette plage naturiste très célèbre, mais veillez toujours à respecter strictement les règles locales et la vie privée de chacun."
           }
         }
       ],
@@ -477,7 +519,8 @@
             "de": "Jagende Wolken über der Lagune bilden eine dramatische Kulisse für die morgendliche Radtour; achten Sie auf rutschige Wege. Mittags bietet das Maison Noilly Prat einen sicheren Unterstand für Radfahrer. Nachmittags ist die Fahrt durch den Hafen bei Regen stimmungsvoll. Abends sorgt das Geräusch des Regens am Canal du Midi für eine beruhigende Atmosphäre.",
             "hu": "A lagúna felett kergetőző felhők drámai hátteret adnak a reggeli tekeréshez; ügyeljünk a csúszós utakra. Délben a Noilly Prat Ház biztonságos menedéket nyújt a bicikliseknek. Délután a kikötőben az eső különleges hangulatot áraszt. Este a Canal du Midi mentén az eső kopogása nyugtató zárása a napnak.",
             "ro": "Norii grăbiți peste lagună oferă un fundal dramatic pentru tura de dimineață cu bicicleta; atenție la drumurile alunecoase. La prânz, Maison Noilly Prat oferă un adăpost sigur. După-amiaza, plimbarea prin port pe ploaie este atmosferică. Seara, sunetul ploii pe Canal du Midi oferă o încheiere liniștitoare.",
-            "en": "Racing clouds over the lagoon provide a dramatic backdrop for your morning ride; be careful on slippery paths. At noon, Maison Noilly Prat offers a safe shelter for cyclists. In the afternoon, riding through the port in the rain is quite atmospheric. By evening, the sound of rain on Canal du Midi provides a calming end to your journey."
+            "en": "Racing clouds over the lagoon provide a dramatic backdrop for your morning ride; be careful on slippery paths. At noon, Maison Noilly Prat offers a safe shelter for cyclists. In the afternoon, riding through the port in the rain is quite atmospheric. By evening, the sound of rain on Canal du Midi provides a calming end to your journey.",
+            "fr": "Des nuages menaçants au-dessus de la lagune offrent un décor dramatique pour votre sortie matinale ; soyez prudent sur les sentiers glissants. À midi, la Maison Noilly Prat offre un abri sûr pour les cyclistes. L'après-midi, rouler dans le port sous la pluie est très atmosphérique. Le soir, le bruit de la pluie sur le Canal du Midi constitue une fin apaisante pour votre parcours."
           },
           "stops": [
             {
@@ -485,13 +528,15 @@
                 "de": "Thau-Lagune",
                 "hu": "Thau-lagúna",
                 "ro": "Laguna Thau",
-                "en": "Thau Lagoon"
+                "en": "Thau Lagoon",
+                "fr": "Étang de Thau"
               },
               "tip_5lang": {
                 "de": "Regenschleier über der Lagune bilden eine dramatische Kulisse; achten Sie auf tiefe Pfützen und rutschigen Schlamm auf den Deichwegen während der Fahrt.",
                 "hu": "Az esőfüggöny a lagúna felett drámai látványt nyújt; tekerés közben ügyeljünk a mély pocsolyákra és a csúszós sárra a gátakon lévő utakon.",
                 "ro": "Perdelele de ploaie peste lagună oferă o priveliște dramatică; atenție la bălțile adânci și la noroiul alunecos de pe drumurile de pe dig în timpul mersului.",
-                "en": "Rain curtains over the lagoon provide a dramatic view; watch out for deep puddles and slippery mud on the dike paths while cycling through the area."
+                "en": "Rain curtains over the lagoon provide a dramatic view; watch out for deep puddles and slippery mud on the dike paths while cycling through the area.",
+                "fr": "Des rideaux de pluie sur la lagune offrent une vue dramatique ; méfiez-vous des grosses flaques et de la boue glissante sur les chemins de la digue en vélo."
               }
             },
             {
@@ -499,13 +544,15 @@
                 "de": "Haus Noilly Prat",
                 "hu": "Noilly Prat Ház",
                 "ro": "Casa Noilly Prat",
-                "en": "Maison Noilly Prat"
+                "en": "Maison Noilly Prat",
+                "fr": "Maison Noilly Prat"
               },
               "tip_5lang": {
                 "de": "Parken Sie Ihr Rad sicher im Innenhof und genießen Sie die trockenen Keller; die historischen Räume bieten perfekten Schutz vor anhaltendem Regen.",
                 "hu": "Parkoljuk le a biciklit biztonságban a belső udvaron, és élvezzük a száraz pincéket; a történelmi termek védelmet nyújtanak a tartós eső elől.",
                 "ro": "Parcați bicicleta în siguranță în curtea interioară și bucurați-vă de cramele uscate; spațiile istorice oferă protecție contra ploii persistente.",
-                "en": "Park your bike safely in the inner courtyard and enjoy the dry cellars; the historic rooms provide perfect protection from persistent rainfall."
+                "en": "Park your bike safely in the inner courtyard and enjoy the dry cellars; the historic rooms provide perfect protection from persistent rainfall.",
+                "fr": "Garez votre vélo en toute sécurité dans la cour intérieure et profitez des caves sèches ; les salles historiques offrent une protection parfaite contre la pluie persistante."
               }
             },
             {
@@ -513,13 +560,15 @@
                 "de": "Hafen von Marseillan",
                 "hu": "Marseillan kikötője",
                 "ro": "Portul Marseillan",
-                "en": "Port of Marseillan"
+                "en": "Port of Marseillan",
+                "fr": "Port de Marseillan"
               },
               "tip_5lang": {
                 "de": "Fahren Sie auf dem nassen Pflaster am Kai vorsichtig; die reflektierenden Lichter der Boote im Regen bieten ein wunderschönes Fotomotiv für Radler.",
                 "hu": "Közlekedjünk óvatosan a vizes macskakövön a rakparton; a hajók visszatükröződő fényei az esőben kiváló fotótémát kínálnak a megálló bicikliseknek.",
                 "ro": "Circulați cu atenție pe pavajul ud de pe chei; luminile bărcilor reflectate în ploaie oferă un subiect foto superb pentru bicicliștii care opresc.",
-                "en": "Ride carefully on the wet cobblestones along the quay; the reflected lights of the boats in the rain offer a beautiful photo subject for cyclists."
+                "en": "Ride carefully on the wet cobblestones along the quay; the reflected lights of the boats in the rain offer a beautiful photo subject for cyclists.",
+                "fr": "Roulezt prudemment sur les pavés mouillés le long du quai ; les lumières réfléchies des bateaux sous la pluie sont un beau sujet photo pour les cyclistes."
               }
             },
             {
@@ -527,13 +576,15 @@
                 "de": "Canal du Midi - Les Onglous",
                 "hu": "Canal du Midi - Les Onglous",
                 "ro": "Canal du Midi - Les Onglous",
-                "en": "Canal du Midi - Les Onglous"
+                "en": "Canal du Midi - Les Onglous",
+                "fr": "Canal du Midi - Les Onglous"
               },
               "tip_5lang": {
                 "de": "Der schmale Pfad kann bei Regen sehr aufgeweicht sein; schieben Sie Ihr Rad auf den rutschigsten Abschnitten, um Unfälle im Schlamm zu vermeiden.",
                 "hu": "A keskeny ösvény esőben nagyon felázhat; a legcsúszósabb szakaszokon toljuk a biciklit, hogy elkerüljük a baleseteket a mély sárban.",
                 "ro": "Poteca îngustă poate fi foarte moale pe ploaie; împingeți bicicleta pe porțiunile cele mai alunecoase pentru a evita accidentele în noroi.",
-                "en": "The narrow path can be very soft in the rain; push your bike on the most slippery sections to avoid accidents in the deep mud near the water."
+                "en": "The narrow path can be very soft in the rain; push your bike on the most slippery sections to avoid accidents in the deep mud near the water.",
+                "fr": "Le sentier étroit peut être très mou sous la pluie ; poussez votre vélo sur les sections les plus glissantes pour éviter les accidents dans la boue profonde près de l'eau."
               }
             },
             {
@@ -541,13 +592,15 @@
                 "de": "Plage naturiste Cap d'Agde",
                 "hu": "Cap d'Agde naturista strand",
                 "ro": "Plaja naturistă Cap d'Agde",
-                "en": "Cap d'Agde Naturist Beach"
+                "en": "Cap d'Agde Naturist Beach",
+                "fr": "Plage naturiste du Cap d'Agde"
               },
               "tip_5lang": {
                 "de": "Der Strand ist bei Regen verlassen und wirkt fast unwirklich; meiden Sie die weichen Sandwege und bleiben Sie mit dem Rad auf den festen Pfaden.",
                 "hu": "A strand esőben teljesen elhagyatott és szinte valószerűtlen; kerüljük a puha homokos utakat, és maradjunk a biciklivel a szilárdabb ösvényeken.",
                 "ro": "Plaja este pustie pe ploaie și pare aproape ireală; evitați drumurile cu nisip moale și rămâneți cu bicicleta pe potecile mai ferme.",
-                "en": "The beach is deserted in the rain and feels almost surreal; avoid the soft sandy paths and stick to the firmer trails with your bicycle."
+                "en": "The beach is deserted in the rain and feels almost surreal; avoid the soft sandy paths and stick to the firmer trails with your bicycle.",
+                "fr": "La plage est déserte sous la pluie et semble presque surréaliste ; évitez les sentiers de sable meuble et tenez-vous aux pistes plus fermes avec votre vélo."
               }
             }
           ]
@@ -557,7 +610,8 @@
             "de": "Die Beobachtung der winterlichen Vogelwelt an der Lagune ist ein toller Start; tragen Sie dicke Handschuhe gegen den Fahrtwind. Mittags wärmt die Verkostung im Maison Noilly Prat auf. Nachmittags ist der Hafen in der Wintersonne ruhig. Abends ist eine gute Beleuchtung wichtig, da es auf dem Weg zum Cap d'Agde früh dunkel wird.",
             "hu": "A lagúna parti madárvilág megfigyelése remek kezdés; viseljünk vastag kesztyűt a menetszél ellen. Délben a Noilly Prat Ház kóstolója felmelegít. Délután a kikötő csendes a téli napsütésben. Este fontos a jó világítás, mert a Cap d'Agde felé vezető úton hamar sötétedik.",
             "ro": "Observarea păsărilor iarna pe lagună este un început excelent; purtați mănuși groase contra vântului. La prânz, degustarea la Maison Noilly Prat vă încălzește. După-amiaza, portul este liniștit sub soarele de iarnă. Seara, iluminarea bună este vitală, căci se întunecă devreme spre Cap d'Agde.",
-            "en": "Observing winter birdlife at the lagoon is a great start; wear thick gloves against the wind chill. At noon, the tasting at Maison Noilly Prat warms you up. In the afternoon, the harbor is quiet in the winter sun. By evening, good lighting is essential as it gets dark early on the way to Cap d'Agde."
+            "en": "Observing winter birdlife at the lagoon is a great start; wear thick gloves against the wind chill. At noon, the tasting at Maison Noilly Prat warms you up. In the afternoon, the harbor is quiet in the winter sun. By evening, good lighting is essential as it gets dark early on the way to Cap d'Agde.",
+            "fr": "Observer la avifaune hivernale à la lagune est un excellent départ ; portez des gants épais contre la morsure du vent. À midi, la dégustation à la Maison Noilly Prat vous réchauffe. L'après-midi, le port est calme sous le soleil d'hiver. Le soir, un bon éclairage est essentiel car l'obscurité arrive tôt sur le chemin du Cap d'Agde."
           },
           "stops": [
             {
@@ -565,13 +619,15 @@
                 "de": "Thau-Lagune",
                 "hu": "Thau-lagúna",
                 "ro": "Laguna Thau",
-                "en": "Thau Lagoon"
+                "en": "Thau Lagoon",
+                "fr": "Étang de Thau"
               },
               "tip_5lang": {
                 "de": "Die klare Winterluft ermöglicht weite Blicke über das Wasser; nutzen Sie die Windschatten der Deiche, um sich beim Radeln vor dem kalten Seewind zu schützen.",
                 "hu": "A tiszta téli levegő messzi kilátást biztosít a víz felett; használjuk ki a gátak szélárnyékát, hogy tekerés közben védjük magunkat a hideg széltől.",
                 "ro": "Aerul clar de iarnă permite vederi lungi peste apă; folosiți adăpostul digurilor pentru a vă proteja de vântul rece al mării în timp ce pedalați.",
-                "en": "The clear winter air allows for long views across the water; use the windbreaks of the dikes to protect yourself from the cold sea wind while cycling."
+                "en": "The clear winter air allows for long views across the water; use the windbreaks of the dikes to protect yourself from the cold sea wind while cycling.",
+                "fr": "L'air clair de l'hiver permet de longues vues sur l'eau ; utilisez les coupe-vent des digues pour vous protéger du froid marin lors du cyclisme."
               }
             },
             {
@@ -579,13 +635,15 @@
                 "de": "Haus Noilly Prat",
                 "hu": "Noilly Prat Ház",
                 "ro": "Casa Noilly Prat",
-                "en": "Maison Noilly Prat"
+                "en": "Maison Noilly Prat",
+                "fr": "Maison Noilly Prat"
               },
               "tip_5lang": {
                 "de": "Nutzen Sie die beheizten Innenräume für eine Pause vom kalten Fahrtwind; ein kleiner Schluck Wermut hilft, die Lebensgeister nach der Tour zu wecken.",
                 "hu": "Használjuk ki a fűtött belső tereket egy pihenőre a hideg menetszél után; egy kis korty vermut segít visszanyerni az energiát a hosszú tekerés után.",
                 "ro": "Folosiți interioarele încălzite pentru o pauză de la vântul rece; o mică înghițitură de vermut vă va ajuta să vă recăpătați energia după tură.",
-                "en": "Use the heated interiors for a break from the cold wind chill; a small sip of vermouth will help revive your spirits after the long winter ride."
+                "en": "Use the heated interiors for a break from the cold wind chill; a small sip of vermouth will help revive your spirits after the long winter ride.",
+                "fr": "Profitez des intérieurs chauffés pour une pause contre le froid ; une petite gorgée de vermouth aidera à ranimer vos esprits après la longue sortie hivernale."
               }
             },
             {
@@ -593,13 +651,15 @@
                 "de": "Hafen von Marseillan",
                 "hu": "Marseillan kikötője",
                 "ro": "Portul Marseillan",
-                "en": "Port of Marseillan"
+                "en": "Port of Marseillan",
+                "fr": "Port de Marseillan"
               },
               "tip_5lang": {
                 "de": "Die tiefstehende Wintersonne glitzert wunderschön auf dem Wasser im Hafen; suchen Sie sich zum Parken Ihres Rads eine sonnige, windgeschützte Ecke.",
                 "hu": "Az alacsonyan járó téli nap gyönyörűen csillog a kikötő vizén; a kerékpár leállításához keressünk egy napos, szélvédett sarkot a rakparton.",
                 "ro": "Soarele de iarnă strălucește superb pe apa din port; pentru a parca bicicleta, căutați un colț însorit și ferit de vânt pe faleză.",
-                "en": "The low winter sun glitters beautifully on the harbor water; look for a sunny, wind-sheltered corner on the quay to park your bicycle for a break."
+                "en": "The low winter sun glitters beautifully on the harbor water; look for a sunny, wind-sheltered corner on the quay to park your bicycle for a break.",
+                "fr": "Le faible soleil d'hiver scintille magnifiquement sur l'eau du port ; cherchez un coin ensoleillé et abrité du vent sur le quai pour garer votre vélo pendant la pause."
               }
             },
             {
@@ -607,13 +667,15 @@
                 "de": "Canal du Midi - Les Onglous",
                 "hu": "Canal du Midi - Les Onglous",
                 "ro": "Canal du Midi - Les Onglous",
-                "en": "Canal du Midi - Les Onglous"
+                "en": "Canal du Midi - Les Onglous",
+                "fr": "Canal du Midi - Les Onglous"
               },
               "tip_5lang": {
                 "de": "Genießen Sie die Stille am Kanal in der Nebensaison; achten Sie bei der Rückfahrt auf den schnellen Temperaturabfall kurz vor dem Sonnenuntergang.",
                 "hu": "Élvezze a csatorna menti csendet a főszezonon kívül; a visszaúton ügyeljünk a hőmérséklet hirtelen visszaesésére közvetlenül a naplemente előtt.",
                 "ro": "Bucurați-vă de liniștea canalului în afara sezonului; la întoarcere, aveți grijă la scăderea rapidă a temperaturii chiar înainte de apus.",
-                "en": "Enjoy the silence along the canal during the off-season; on your way back, be aware of the rapid temperature drop just before the early sunset."
+                "en": "Enjoy the silence along the canal during the off-season; on your way back, be aware of the rapid temperature drop just before the early sunset.",
+                "fr": "Appréciez le silence le long du canal hors saison ; sur le chemin du retour, soyez conscient de la chute rapide des températures juste avant le coucher de soleil précoce."
               }
             },
             {
@@ -621,13 +683,15 @@
                 "de": "Plage naturiste Cap d'Agde",
                 "hu": "Cap d'Agde naturista strand",
                 "ro": "Plaja naturistă Cap d'Agde",
-                "en": "Cap d'Agde Naturist Beach"
+                "en": "Cap d'Agde Naturist Beach",
+                "fr": "Plage naturiste du Cap d'Agde"
               },
               "tip_5lang": {
                 "de": "Teltes Radfahren am leeren Winterstrand ist befreiend; sorgen Sie unbedingt für funktionierende Lichter am Rad für die Fahrt in der frühen Dämmerung.",
                 "hu": "A téli kerékpározás az üres parton felszabadító élmény; mindenképpen gondoskodjunk a bicikli világításáról a korai szürkületben történő visszatéréshez.",
                 "ro": "Mersul cu bicicleta pe plaja pustie de iarnă este eliberator; asigurați-vă că aveți lumini funcționale pentru drumul în amurgul timpuriu.",
-                "en": "Winter cycling on the empty beach is a liberating experience; ensure you have working lights on your bike for the ride back in the early twilight."
+                "en": "Winter cycling on the empty beach is a liberating experience; ensure you have working lights on your bike for the ride back in the early twilight.",
+                "fr": "Le cyclisme hivernal sur la plage vide est une expérience libératrice ; assurez-vous d'avoir des lumières fonctionnelles sur votre vélo pour le retour au crépuscule."
               }
             }
           ]
@@ -647,7 +711,8 @@
             "de": "Haus Noilly Prat",
             "hu": "Noilly Prat Ház",
             "ro": "Casa Noilly Prat",
-            "en": "Maison Noilly Prat"
+            "en": "Maison Noilly Prat",
+            "fr": "Maison Noilly Prat"
           },
           "coords": [
             3.531484,
@@ -662,7 +727,8 @@
             "de": "Beginnen Sie Ihren kulturellen Ausflug mit einer fesselnden Wermut-Führung, wobei es ratsam ist, im Voraus zu reservieren, um sich einen der begehrten Plätze zu sichern.",
             "hu": "Kezdje kulturális kirándulását egy lebilincselő vermuttúrával, amelynél nagyon ajánlott előre asztalt foglalni, hogy biztosítsa a rendkívül áhított helyek egyikét.",
             "ro": "Începeți excursia culturală cu un tur captivant de vermut, unde este foarte recomandabil să rezervați cu mult timp înainte pentru a vă asigura un loc râvnit.",
-            "en": "Start your cultural excursion with a captivating vermouth tour, where it is highly advisable to reserve well in advance to secure one of the very highly coveted spots."
+            "en": "Start your cultural excursion with a captivating vermouth tour, where it is highly advisable to reserve well in advance to secure one of the very highly coveted spots.",
+            "fr": "Commencez votre excursion culturelle par une visite captivante du vermouth, où il est fortement conseillé de réserver bien à l'avance pour obtenir l'une des places très prisées."
           }
         },
         {
@@ -670,7 +736,8 @@
             "de": "Hafen von Marseillan",
             "hu": "Marseillan kikötője",
             "ro": "Portul Marseillan",
-            "en": "Port of Marseillan"
+            "en": "Port of Marseillan",
+            "fr": "Port de Marseillan"
           },
           "coords": [
             3.530936,
@@ -685,7 +752,8 @@
             "de": "Spazieren Sie nach der Verkostung gemütlich am belebten Wasser entlang und genießen Sie die wunderbare Aussicht auf die kleinen Fischerboote im sonnigen Mittelmeerhafen.",
             "hu": "A kóstoló után tegyen egy kényelmes sétát a nyüzsgő vízparton, és élvezze a csodálatos kilátást a napos mediterrán kikötőben finoman ringatózó kis halászhajókra.",
             "ro": "După degustare, faceți o plimbare pe malul plin de viață și bucurați-vă de priveliștile minunate ale micilor bărci de pescuit care se leagănă în portul însorit.",
-            "en": "After the tasting, take a leisurely stroll along the lively waterfront and enjoy the wonderful views of the small fishing boats gently bobbing in the sunny Mediterranean harbor."
+            "en": "After the tasting, take a leisurely stroll along the lively waterfront and enjoy the wonderful views of the small fishing boats gently bobbing in the sunny Mediterranean harbor.",
+            "fr": "Après la dégustation, promenez-vous tranquillement le long du front de mer animé et profitez des superbes vues sur les petites barques de pêche qui tanguent doucement dans le port méditerranéen ensoleillé."
           }
         },
         {
@@ -693,7 +761,8 @@
             "de": "Thau-Lagune",
             "hu": "Thau-lagúna",
             "ro": "Laguna Thau",
-            "en": "Thau Lagoon"
+            "en": "Thau Lagoon",
+            "fr": "Étang de Thau"
           },
           "coords": [
             3.624167,
@@ -708,7 +777,8 @@
             "de": "Fahren Sie weiter zu diesem atemberaubenden Binnenmeer und probieren Sie an einem der kleinen Kioske unbedingt die frischen und weltweit geschätzten lokalen Austern.",
             "hu": "Vezessen tovább ehhez a lélegzetelállító beltengerhez, és mindenképpen kóstolja meg a friss és világszerte értékelt helyi osztrigákat egy autentikus kis útmenti kioszkban.",
             "ro": "Conduceți spre această mare interioară uluitoare și asigurați-vă că gustați stridiile locale proaspete la unul dintre micile chioșcuri autentice de pe marginea drumului.",
-            "en": "Drive on to this breathtaking inland sea and absolutely make sure to try the fresh and globally appreciated local oysters at one of the authentic little roadside kiosks."
+            "en": "Drive on to this breathtaking inland sea and absolutely make sure to try the fresh and globally appreciated local oysters at one of the authentic little roadside kiosks.",
+            "fr": "Poursuivez jusqu'à cette mer intérieure à couper le souffle et assurez-vous absolument d'essayer les huîtres fraîches et mondialement appréciées dans l'un des authentiques petits kiosques routiers."
           }
         },
         {
@@ -716,7 +786,8 @@
             "de": "Canal du Midi - Les Onglous",
             "hu": "Canal du Midi - Les Onglous",
             "ro": "Canal du Midi - Les Onglous",
-            "en": "Canal du Midi - Les Onglous"
+            "en": "Canal du Midi - Les Onglous",
+            "fr": "Canal du Midi - Les Onglous"
           },
           "coords": [
             3.539819,
@@ -731,7 +802,8 @@
             "de": "Lassen Sie sich von diesem historischen Meisterwerk der Ingenieurskunst beeindrucken und nutzen Sie das sanfte Nachmittagslicht für wahrhaft unvergessliche Landschaftsaufnahmen.",
             "hu": "Hagyja, hogy lenyűgözze a mérnöki munkának ez a történelmi remekműve, és használja ki a lágy délutáni fényeket az igazán felejthetetlen és csodás tájképek elkészítéséhez.",
             "ro": "Lăsați-vă impresionat de această capodoperă istorică a ingineriei și profitați de lumina blândă a după-amiezii pentru a surprinde fotografii de peisaj cu adevărat de neuitat.",
-            "en": "Be impressed by this historic masterpiece of engineering and be sure to take full advantage of the soft afternoon light to capture truly unforgettable landscape photographs."
+            "en": "Be impressed by this historic masterpiece of engineering and be sure to take full advantage of the soft afternoon light to capture truly unforgettable landscape photographs.",
+            "fr": "Laissez-vous impressionner par ce chef-d'œuvre historique d'ingénierie et profitez pleinement de la douce lumière de l'après-midi pour capturer des photographies de paysage inoubliables."
           }
         },
         {
@@ -739,7 +811,8 @@
             "de": "Plage de la Grande Conque",
             "hu": "Grande Conque strand",
             "ro": "Plaja Grande Conque",
-            "en": "Grande Conque Beach"
+            "en": "Grande Conque Beach",
+            "fr": "Plage de la Grande Conque"
           },
           "coords": [
             3.515528,
@@ -754,7 +827,8 @@
             "de": "Bestaunen Sie den einzigartigen schwarzen Vulkansand an diesem dramatischen Küstenabschnitt, aber seien Sie beim Abstieg über die in den Fels gehauenen Stufen etwas vorsichtig.",
             "hu": "Csodálja meg az egyedülálló fekete vulkáni homokot ezen a drámai partszakaszon, de legyen meglehetősen óvatos, amikor leereszkedik a sziklába vájt, kissé meredek lépcsőkön.",
             "ro": "Minunați-vă de nisipul vulcanic negru de pe această coastă dramatică, dar fiți destul de atenți când coborâți treptele oarecum abrupte sculptate direct în stânca solidă.",
-            "en": "Marvel at the unique black volcanic sand on this dramatic stretch of coast, but be quite careful when descending the somewhat steep steps carved directly into the solid rock."
+            "en": "Marvel at the unique black volcanic sand on this dramatic stretch of coast, but be quite careful when descending the somewhat steep steps carved directly into the solid rock.",
+            "fr": "Admirez le sable noir volcanique unique sur ce tronçon de côte dramatique, mais soyez très prudent en descendant les marches quelque peu raides taillées directement dans la roche solide."
           }
         },
         {
@@ -762,7 +836,8 @@
             "de": "Plage du Grau d'Agde",
             "hu": "Grau d'Agde strand",
             "ro": "Plaja Grau d'Agde",
-            "en": "Grau d'Agde Beach"
+            "en": "Grau d'Agde Beach",
+            "fr": "Plage du Grau d'Agde"
           },
           "coords": [
             3.46699,
@@ -777,7 +852,8 @@
             "de": "Genießen Sie die familienfreundliche Atmosphäre und das flache, angenehme Wasser an diesem breiten Strand, der sich auch ideal für einen ruhigen Spaziergang im weichen Sand eignet.",
             "hu": "Élvezze a családbarát légkört és a sekély vizet ezen a széles strandon, amely abszolút ideális egy csendes, pihentető sétához is a rendkívül puha, meleg finom homokban.",
             "ro": "Bucurați-vă de atmosfera familială și de apa plăcută de pe această plajă largă, care este absolut ideală pentru o plimbare liniștită și relaxantă pe nisipul extrem de moale.",
-            "en": "Enjoy the family-friendly atmosphere and the shallow, pleasant water at this wide beach, which is also absolutely ideal for a quiet, relaxing walk across the very soft sand."
+            "en": "Enjoy the family-friendly atmosphere and the shallow, pleasant water at this wide beach, which is also absolutely ideal for a quiet, relaxing walk across the very soft sand.",
+            "fr": "Profitez de l'ambiance familiale et de l'eau peu profonde et agréable de cette plage large, idéale aussi pour une promenade tranquille sur le sable très doux."
           }
         },
         {
@@ -785,7 +861,8 @@
             "de": "Le Petit Mousse",
             "hu": "Le Petit Mousse",
             "ro": "Le Petit Mousse",
-            "en": "Le Petit Mousse"
+            "en": "Le Petit Mousse",
+            "fr": "Le Petit Mousse"
           },
           "coords": [
             3.388943,
@@ -800,7 +877,8 @@
             "de": "Lassen Sie den Tag an diesem entspannten und freundlichen Küstenabschnitt ausklingen und gönnen Sie sich ein erfrischendes Getränk in einem der gemütlichen lokalen Strandlokale.",
             "hu": "Zárja a hosszú napot ezen a nyugodt és barátságos partszakaszon, és kényeztesse magát egy frissítő, hideg itallal a nagyon hangulatos és autentikus helyi tengerparti létesítmények egyikében.",
             "ro": "Încheiați ziua lungă pe această porțiune de coastă relaxată și prietenoasă și răsfățați-vă cu o băutură rece într-unul dintre localurile confortabile și autentice de pe malul mării.",
-            "en": "End your long day at this relaxed and friendly stretch of coast and treat yourself to a refreshing, cold drink in one of the very cozy and authentic local beachside establishments."
+            "en": "End your long day at this relaxed and friendly stretch of coast and treat yourself to a refreshing, cold drink in one of the very cozy and authentic local beachside establishments.",
+            "fr": "Terminez votre longue journée sur ce tronçon de côte détendu et convivial et offrez-vous une boisson fraîche et rafraîchissante dans l'un des établissements de plage très cosy et authentiques."
           }
         }
       ],
@@ -836,7 +914,8 @@
             "de": "Beginnen Sie den Tag im Maison Noilly Prat, wo Sie dem Regen im Inneren entfliehen können. Mittags bietet das Auto Schutz, während Sie den stürmischen Hafen beobachten. Nachmittags wirkt die Lagune im Regen mystisch. Abends ist der Anblick der Wellen an der Grande Conque und Grau d'Agde vom warmen Fahrzeug aus besonders eindrucksvoll.",
             "hu": "Kezdje a napot a Noilly Prat Házban, ahol fedett helyen ismerkedhet a történelemmel. Délben az autó védelméből figyelheti a viharos kikötőt. Délután a lagúna misztikus arcát mutatja az esőben. Este a Grande Conque és Grau d'Agde partján a hullámok látványa a fűtött autóból a legélvezetesebb.",
             "ro": "Începeți ziua la Maison Noilly Prat, unde puteți evita ploaia în interior. La prânz, mașina vă oferă adăpost în timp ce admirați portul furtunos. După-amiaza, laguna pare mistică pe ploaie. Seara, vederea valurilor la Grande Conque și Grau d'Agde din vehiculul cald este impresionantă.",
-            "en": "Start your day at Maison Noilly Prat, where you can escape the rain indoors. At noon, your car provides shelter while you watch the stormy harbor. In the afternoon, the lagoon looks mystical in the rain. By evening, watching the waves at Grande Conque and Grau d'Agde from your warm vehicle is very impressive."
+            "en": "Start your day at Maison Noilly Prat, where you can escape the rain indoors. At noon, your car provides shelter while you watch the stormy harbor. In the afternoon, the lagoon looks mystical in the rain. By evening, watching the waves at Grande Conque and Grau d'Agde from your warm vehicle is very impressive.",
+            "fr": "Commencez votre journée à la Maison Noilly Prat, où vous pouvez échapper à la pluie à l'intérieur. À midi, votre voiture offre un abri pendant que vous observez le port orageux. L'après-midi, la lagune paraît mystique sous la pluie. Le soir, regarder les vagues à la Grande Conque et au Grau d'Agde depuis votre véhicule chaud est très impressionnant."
           },
           "stops": [
             {
@@ -844,13 +923,15 @@
                 "de": "Haus Noilly Prat",
                 "hu": "Noilly Prat Ház",
                 "ro": "Casa Noilly Prat",
-                "en": "Maison Noilly Prat"
+                "en": "Maison Noilly Prat",
+                "fr": "Maison Noilly Prat"
               },
               "tip_5lang": {
                 "de": "Ein idealer Startpunkt bei Regen, da fast die gesamte Tour im Trockenen stattfindet; nutzen Sie die Parkplätze direkt vor dem historischen Eingang.",
                 "hu": "Ideális kezdőpont esős időben, mivel a túra nagy része fedett helyen zajlik; használjuk a közvetlenül a történelmi bejárat előtt lévő parkolókat.",
                 "ro": "Un punct de plecare ideal pe ploaie, deoarece turul se desfășoară în interior; folosiți parcările aflate chiar în fața intrării istorice.",
-                "en": "An ideal starting point in rainy weather as most of the tour takes place indoors; use the parking spaces located directly in front of the historic entrance."
+                "en": "An ideal starting point in rainy weather as most of the tour takes place indoors; use the parking spaces located directly in front of the historic entrance.",
+                "fr": "Un point de départ idéal par temps pluvieux car la plupart de la visite se déroule à l'intérieur ; utilisez les places de parking situées juste devant l'entrée historique."
               }
             },
             {
@@ -858,13 +939,15 @@
                 "de": "Hafen von Marseillan",
                 "hu": "Marseillan kikötője",
                 "ro": "Portul Marseillan",
-                "en": "Port of Marseillan"
+                "en": "Port of Marseillan",
+                "fr": "Port de Marseillan"
               },
               "tip_5lang": {
                 "de": "Beobachten Sie das Treiben im Hafen gemütlich aus dem Auto heraus; Parkplätze mit direktem Blick auf das Wasser sind bei schlechtem Wetter oft frei.",
                 "hu": "Figyeljük a kikötő nyüzsgését kényelmesen az autóból; a vízre néző parkolóhelyek rossz időben gyakran szabadok, így szárazon élvezhetjük a látványt.",
                 "ro": "Admirați activitatea din port confortabil din mașină; locurile de parcare cu vedere la apă sunt adesea libere pe vreme rea, oferind o priveliște bună.",
-                "en": "Watch the harbor activity comfortably from your car; parking spots with a direct water view are often available in bad weather, keeping you dry."
+                "en": "Watch the harbor activity comfortably from your car; parking spots with a direct water view are often available in bad weather, keeping you dry.",
+                "fr": "Observez l'activité du port confortablement depuis votre voiture ; des places de stationnement avec vue directe sur l'eau sont souvent disponibles par mauvais temps, vous gardant au sec."
               }
             },
             {
@@ -872,13 +955,15 @@
                 "de": "Thau-Lagune",
                 "hu": "Thau-lagúna",
                 "ro": "Laguna Thau",
-                "en": "Thau Lagoon"
+                "en": "Thau Lagoon",
+                "fr": "Étang de Thau"
               },
               "tip_5lang": {
                 "de": "Die Fahrt entlang der Lagune bietet im Regen weite, graue Panoramen; halten Sie an den Aussichtspunkten kurz an, um die dramatischen Wolken zu fotografieren.",
                 "hu": "A lagúna menti autózás esőben tágas, szürke panorámát kínál; álljunk meg rövid időre a kilátópontokon, hogy lefotózzuk a drámai felhőket.",
                 "ro": "Drumul de-a lungul lagunei oferă panorame gri și vaste pe ploaie; opriți scurt la punctele de belvedere pentru a fotografia norii dramatici.",
-                "en": "The drive along the lagoon offers vast, grey panoramas in the rain; stop briefly at the viewpoints to photograph the dramatic cloud formations."
+                "en": "The drive along the lagoon offers vast, grey panoramas in the rain; stop briefly at the viewpoints to photograph the dramatic cloud formations.",
+                "fr": "La route le long de la lagune offre de vastes panoramas gris sous la pluie ; arrêtez-vous brièvement aux points de vue pour photographier les formations nuageuses dramatiques."
               }
             },
             {
@@ -886,13 +971,15 @@
                 "de": "Canal du Midi - Les Onglous",
                 "hu": "Canal du Midi - Les Onglous",
                 "ro": "Canal du Midi - Les Onglous",
-                "en": "Canal du Midi - Les Onglous"
+                "en": "Canal du Midi - Les Onglous",
+                "fr": "Canal du Midi - Les Onglous"
               },
               "tip_5lang": {
                 "de": "Der Zugang zum Kanal kann bei starkem Regen matschig sein; parken Sie etwas weiter entfernt auf festem Boden und nutzen Sie einen stabilen Regenschirm.",
                 "hu": "A csatornához vezető út heves esőben sáros lehet; parkoljunk kicsit távolabb a szilárd talajon, és használjunk egy stabil, szélálló esernyőt.",
                 "ro": "Accesul la canal poate fi noroios pe ploaie torențială; parcați puțin mai departe pe teren ferm și folosiți o umbrelă rezistentă la vânt.",
-                "en": "The access to the canal can be muddy in heavy rain; park a bit further away on solid ground and use a sturdy, wind-resistant umbrella for the walk."
+                "en": "The access to the canal can be muddy in heavy rain; park a bit further away on solid ground and use a sturdy, wind-resistant umbrella for the walk.",
+                "fr": "L'accès au canal peut être boueux par fortes pluies ; garez-vous un peu plus loin sur un terrain solide et utilisez un parapluie solide et résistant au vent pour la promenade."
               }
             },
             {
@@ -900,13 +987,15 @@
                 "de": "Plage de la Grande Conque",
                 "hu": "Grande Conque strand",
                 "ro": "Plaja Grande Conque",
-                "en": "Plage Grande Conque"
+                "en": "Plage Grande Conque",
+                "fr": "Plage Grande Conque"
               },
               "tip_5lang": {
                 "de": "Die schwarzen Vulkanfelsen wirken bei Regen noch dunkler; bleiben Sie bei starken Böen oben auf der Klippe, um die Brandung sicher zu beobachten.",
                 "hu": "A fekete vulkáni sziklák esőben még sötétebbnek tűnnek; erős széllökések idején maradjunk a szikla tetején, hogy biztonságban nézzük a hullámzást.",
                 "ro": "Stâncile vulcanice negre par și mai întunecate pe ploaie; rămâneți sus pe faleză în timpul rafalelor pentru a observa în siguranță valurile mari.",
-                "en": "The black volcanic rocks look even darker in the rain; during strong gusts, stay on top of the cliff to safely observe the breaking surf below."
+                "en": "The black volcanic rocks look even darker in the rain; during strong gusts, stay on top of the cliff to safely observe the breaking surf below.",
+                "fr": "Les rochers volcaniques noirs paraissent encore plus sombres sous la pluie ; lors de fortes rafales, restez en haut de la falaise pour observer en sécurité les déferlantes en contrebas."
               }
             },
             {
@@ -914,13 +1003,15 @@
                 "de": "Plage du Grau d'Agde",
                 "hu": "Grau d'Agde strand",
                 "ro": "Plaja Grau d'Agde",
-                "en": "Grau d'Agde Beach"
+                "en": "Grau d'Agde Beach",
+                "fr": "Plage du Grau d'Agde"
               },
               "tip_5lang": {
                 "de": "Genießen Sie den Blick auf den Fluss Hérault, der hier ins Meer mündet; die Parkplätze direkt am Strand ermöglichen ein trockenes Küstenerlebnis.",
                 "hu": "Élvezze a kilátást az itt tengerbe torkolló Hérault folyóra; a közvetlenül a parton lévő parkolók száraz tengerparti élményt tesznek lehetővé.",
                 "ro": "Bucurați-vă de vederea râului Hérault care se varsă aici în mare; parcările de lângă plajă vă permit o experiență de coastă fără a vă uda.",
-                "en": "Enjoy the view of the river Hérault flowing into the sea; the parking lots right by the beach allow for a dry coastal experience even in heavy rain."
+                "en": "Enjoy the view of the river Hérault flowing into the sea; the parking lots right by the beach allow for a dry coastal experience even in heavy rain.",
+                "fr": "Appréciez la vue du fleuve Hérault se jetant dans la mer ; les parkings situés directement au bord de la plage permettent une expérience côtière au sec même par forte pluie."
               }
             },
             {
@@ -928,13 +1019,15 @@
                 "de": "Le Petit Mousse",
                 "hu": "Le Petit Mousse",
                 "ro": "Le Petit Mousse",
-                "en": "Le Petit Mousse"
+                "en": "Le Petit Mousse",
+                "fr": "Le Petit Mousse"
               },
               "tip_5lang": {
                 "de": "Das Küstenpanorama am Ende der Strecke ist auch bei Regen beeindruckend; genießen Sie den stürmischen Blick aus dem warmen Auto mit einem Heißgetränk.",
                 "hu": "A tengerparti panoráma az út végén esőben is lenyűgöző; élvezzük a viharos látványt a fűtött autóból egy forró ital társaságában.",
                 "ro": "Panorama de coastă de la capătul drumului este uimitoare chiar și pe ploaie; savurați vederea furtunoasă din mașina caldă cu o băutură fierbinte.",
-                "en": "The coastal panorama at the end of the route is stunning even in rain; enjoy the stormy view from your warm car with a hot drink in hand."
+                "en": "The coastal panorama at the end of the route is stunning even in rain; enjoy the stormy view from your warm car with a hot drink in hand.",
+                "fr": "Le panorama côtier à la fin de l'itinéraire est superbe même sous la pluie ; profitez de la vue orageuse depuis votre voiture chaude avec une boisson chaude à la main."
               }
             }
           ]
@@ -944,7 +1037,8 @@
             "de": "Morgens empfängt Sie das Maison Noilly Prat mit wohliger Wärme und duftenden Aromen. Mittags sind die Lichtverhältnisse im Hafen ideal für klare Winterfotos. Nachmittags ermöglicht die Autofahrt weite Blicke über die Lagune und den Kanal. Abends leuchten die Farben des frühen Sonnenuntergangs über der Grande Conque und den Stränden besonders intensiv.",
             "hu": "Reggel a Noilly Prat Ház meleg belső terei és illatai fogadják a látogatót. Délben a kikötői fények ideálisak a tiszta téli fotókhoz. Délután az autóból messzi kilátás nyílik a lagúnára és a csatornára. Este a korai naplemente színei a Grande Conque sziklái és a strandok felett különösen intenzívek.",
             "ro": "Dimineața, Maison Noilly Prat vă întâmpină cu căldură și arome îmbietoare. La prânz, lumina din port este ideală pentru fotografii clare de iarnă. După-amiaza, drumul cu mașina permite vederi largi peste lagună și canal. Seara, culorile apusului timpuriu peste Grande Conque și plaje sunt intense.",
-            "en": "In the morning, Maison Noilly Prat welcomes you with cozy warmth and fragrant aromas. At noon, the light in the harbor is ideal for clear winter photos. In the afternoon, the drive allows for expansive views over the lagoon and canal. By evening, the colors of the early sunset over Grande Conque and the beaches are very intense."
+            "en": "In the morning, Maison Noilly Prat welcomes you with cozy warmth and fragrant aromas. At noon, the light in the harbor is ideal for clear winter photos. In the afternoon, the drive allows for expansive views over the lagoon and canal. By evening, the colors of the early sunset over Grande Conque and the beaches are very intense.",
+            "fr": "Le matin, la Maison Noilly Prat vous accueille avec une chaleur conviviale et des arômes parfumés. À midi, la lumière au port est idéale pour des photos d'hiver nettes. L'après-midi, la route permet de vastes vues sur la lagune et le canal. Le soir, les couleurs du coucher de soleil précoce sur la Grande Conque et les plages sont très intenses."
           },
           "stops": [
             {
@@ -952,13 +1046,15 @@
                 "de": "Haus Noilly Prat",
                 "hu": "Noilly Prat Ház",
                 "ro": "Casa Noilly Prat",
-                "en": "Maison Noilly Prat"
+                "en": "Maison Noilly Prat",
+                "fr": "Maison Noilly Prat"
               },
               "tip_5lang": {
                 "de": "Das beheizte Besucherzentrum ist im Winter ein Muss; wärmen Sie sich nach dem Verlassen des Autos bei einer Führung durch die duftenden Keller auf.",
                 "hu": "A fűtött látogatóközpont télen kötelező program; az autóból kiszállva melegedjünk fel az illatos pincékben vezetett túra során.",
                 "ro": "Centrul de vizitare încălzit este o necesitate iarna; încălziți-vă după ce coborâți din mașină în timpul unui tur prin cramele parfumate.",
-                "en": "The heated visitor center is a must in winter; warm up after leaving your car during a guided tour through the fragrant and historic cellars."
+                "en": "The heated visitor center is a must in winter; warm up after leaving your car during a guided tour through the fragrant and historic cellars.",
+                "fr": "Le centre d'accueil chauffé est indispensable en hiver ; réchauffez-vous après avoir quitté votre voiture lors d'une visite guidée à travers les caves historiques et parfumées."
               }
             },
             {
@@ -966,13 +1062,15 @@
                 "de": "Hafen von Marseillan",
                 "hu": "Marseillan kikötője",
                 "ro": "Portul Marseillan",
-                "en": "Port of Marseillan"
+                "en": "Port of Marseillan",
+                "fr": "Port de Marseillan"
               },
               "tip_5lang": {
                 "de": "Die klare Winterluft sorgt für eine exzellente Fernsicht im Hafen; nutzen Sie die Parkplätze in der Sonne, um das Auto auch im Winter warm zu halten.",
                 "hu": "A tiszta téli levegő kiváló távoli kilátást biztosít a kikötőben; használjuk a napos parkolóhelyeket, hogy az autó télen is kellemesen meleg maradjon.",
                 "ro": "Aerul clar de iarnă oferă o vizibilitate excelentă în port; folosiți locurile de parcare însorite pentru a păstra mașina caldă chiar și în timpul iernii.",
-                "en": "The clear winter air provides excellent long-distance views in the harbor; use sunny parking spots to keep the car warm while you enjoy the scenery."
+                "en": "The clear winter air provides excellent long-distance views in the harbor; use sunny parking spots to keep the car warm while you enjoy the scenery.",
+                "fr": "L'air clair d'hiver offre d'excellentes vues à longue distance dans le port ; utilisez des places de stationnement ensoleillées pour garder la voiture chaude tout en profitant du paysage."
               }
             },
             {
@@ -980,13 +1078,15 @@
                 "de": "Thau-Lagune",
                 "hu": "Thau-lagúna",
                 "ro": "Laguna Thau",
-                "en": "Thau Lagoon"
+                "en": "Thau Lagoon",
+                "fr": "Étang de Thau"
               },
               "tip_5lang": {
                 "de": "Beobachten Sie die überwinternden Wasservögel direkt von den Uferstraßen aus; im Winter ist hier viel weniger Verkehr, was das langsame Fahren erleichtert.",
                 "hu": "Figyeljük meg az áttelelő vízimadarakat közvetlenül a parti utakról; télen sokkal kisebb a forgalom, ami megkönnyíti a lassú, nézelődő autózást.",
                 "ro": "Observați păsările de apă care iernează direct de pe drumurile de pe mal; iarna traficul este mult mai redus, facilitând condusul lent pentru admirat.",
-                "en": "Observe the wintering water birds directly from the shore roads; traffic is much lighter in winter, making it easier to drive slowly and enjoy the view."
+                "en": "Observe the wintering water birds directly from the shore roads; traffic is much lighter in winter, making it easier to drive slowly and enjoy the view.",
+                "fr": "Observez les oiseaux d'hiver directement depuis les routes littorales ; la circulation est beaucoup plus légère en hiver, ce qui facilite de conduire lentement et d'apprécier la vue."
               }
             },
             {
@@ -994,13 +1094,15 @@
                 "de": "Canal du Midi - Les Onglous",
                 "hu": "Canal du Midi - Les Onglous",
                 "ro": "Canal du Midi - Les Onglous",
-                "en": "Canal du Midi - Les Onglous"
+                "en": "Canal du Midi - Les Onglous",
+                "fr": "Canal du Midi - Les Onglous"
               },
               "tip_5lang": {
                 "de": "Der Sonnenuntergang am Kanal ist im Winter besonders farbenfroh; planen Sie Ihre Ankunft vor 16:30 Uhr, um das beste Licht für Fotos zu haben.",
                 "hu": "A naplemente a csatornánál télen különösen színes; tervezzük az érkezést 16:30 elé, hogy a legszebb fényekben készíthessünk fényképeket.",
                 "ro": "Apusul la canal este deosebit de colorat iarna; planificați sosirea înainte de ora 16:30 pentru a avea cea mai bună lumină pentru fotografii.",
-                "en": "The sunset at the canal is particularly colorful in winter; plan your arrival before 4:30 PM to have the best light for your photographs."
+                "en": "The sunset at the canal is particularly colorful in winter; plan your arrival before 4:30 PM to have the best light for your photographs.",
+                "fr": "Le coucher de soleil sur le canal est particulièrement coloré en hiver ; prévoyez d’arriver avant 16h30 pour bénéficier de la meilleure lumière pour vos photos."
               }
             },
             {
@@ -1008,13 +1110,15 @@
                 "de": "Plage de la Grande Conque",
                 "hu": "Grande Conque strand",
                 "ro": "Plaja Grande Conque",
-                "en": "Plage Grande Conque"
+                "en": "Plage Grande Conque",
+                "fr": "Plage Grande Conque"
               },
               "tip_5lang": {
                 "de": "Der Kontrast zwischen den schwarzen Felsen und dem tiefblauen Wintermeer ist fantastisch; achten Sie auf den starken, kalten Wind auf der Klippe.",
                 "hu": "A fekete sziklák és a mélykék téli tenger kontrasztja lenyűgöző; számítsunk az erős és hideg szélre a szikla tetején, öltözzünk szélállóan.",
                 "ro": "Contrastul dintre stâncile negre și marea albastru închis de iarnă este fantastic; atenție la vântul puternic și rece de pe faleză.",
-                "en": "The contrast between the black rocks and the deep blue winter sea is fantastic; be prepared for the strong, cold wind on the cliff top with windproof gear."
+                "en": "The contrast between the black rocks and the deep blue winter sea is fantastic; be prepared for the strong, cold wind on the cliff top with windproof gear.",
+                "fr": "Le contraste entre les rochers noirs et la mer d’un bleu profond en hiver est fantastique ; préparez-vous au vent fort et froid sur la falaise avec des vêtements coupe-vent."
               }
             },
             {
@@ -1022,13 +1126,15 @@
                 "de": "Plage du Grau d'Agde",
                 "hu": "Grau d'Agde strand",
                 "ro": "Plaja Grau d'Agde",
-                "en": "Grau d'Agde Beach"
+                "en": "Grau d'Agde Beach",
+                "fr": "Plage du Grau d'Agde"
               },
               "tip_5lang": {
                 "de": "Machen Sie einen kurzen Spaziergang am leeren Strand, bevor es dunkel wird; nutzen Sie die Sitzheizung Ihres Autos für eine schnelle Aufwärmung danach.",
                 "hu": "Tegyünk egy rövid sétát az üres strandon, mielőtt besötétedik; utána használjuk az autó ülésfűtését a gyors és kellemes felmelegedéshez.",
                 "ro": "Faceți o scurtă plimbare pe plaja pustie înainte de lăsarea întunericului; folosiți încălzirea în scaune a mașinii pentru o încălzire rapidă după aceea.",
-                "en": "Take a short walk on the empty beach before it gets dark; use your car's seat heating for a quick and pleasant warm-up immediately afterwards."
+                "en": "Take a short walk on the empty beach before it gets dark; use your car's seat heating for a quick and pleasant warm-up immediately afterwards.",
+                "fr": "Faites une courte promenade sur la plage déserte avant la tombée de la nuit ; utilisez le chauffage de siège de votre voiture pour vous réchauffer rapidement et agréablement ensuite."
               }
             },
             {
@@ -1036,13 +1142,15 @@
                 "de": "Le Petit Mousse",
                 "hu": "Le Petit Mousse",
                 "ro": "Le Petit Mousse",
-                "en": "Le Petit Mousse"
+                "en": "Le Petit Mousse",
+                "fr": "Le Petit Mousse"
               },
               "tip_5lang": {
                 "de": "Beenden Sie den Tag im Auto und bewundern Sie die Farben des Sonnenuntergangs, der im Winter bereits vor 17:00 Uhr über dem Meer eintritt.",
                 "hu": "Zárjuk a napot az autóban ülve, csodálva a naplemente színeit, amely télen már délután öt óra előtt beköszönt a tenger felett.",
                 "ro": "Încheiați ziua în mașină admirând culorile apusului, care iarna apar deasupra mării înainte de ora 17:00, oferind un spectacol superb.",
-                "en": "End the day in your car admiring the sunset colors, which in winter appear over the sea before 5:00 PM, providing a beautiful spectacle."
+                "en": "End the day in your car admiring the sunset colors, which in winter appear over the sea before 5:00 PM, providing a beautiful spectacle.",
+                "fr": "Terminez la journée dans votre voiture en admirant les couleurs du coucher de soleil, qui en hiver apparaissent au-dessus de la mer avant 17h00, offrant un magnifique spectacle."
               }
             }
           ]

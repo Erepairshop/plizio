@@ -21,7 +21,8 @@
             "de": "Cité Plantagenêt",
             "hu": "Cité Plantagenêt",
             "ro": "Cité Plantagenêt",
-            "en": "Cité Plantagenêt"
+            "en": "Cité Plantagenêt",
+            "fr": "Cité Plantagenêt"
           },
           "coords": [
             0.197,
@@ -36,7 +37,8 @@
             "de": "Achten Sie auf die bunten Türen und gepflasterten Gassen.",
             "hu": "Figyeld a színes ajtókat és a középkori macskaköves utcákat.",
             "ro": "Admirați ușile colorate și străzile medievale pietruite.",
-            "en": "Look for the colorful doors and medieval cobbled alleys."
+            "en": "Look for the colorful doors and medieval cobbled alleys.",
+            "fr": "Cherchez les portes colorées et les ruelles médiévales pavées."
           }
         },
         {
@@ -44,7 +46,8 @@
             "de": "Gallo-römische Stadtmauer",
             "hu": "Gallo-római városfal",
             "ro": "Zidul galo-roman",
-            "en": "Gallo-Roman Walls"
+            "en": "Gallo-Roman Walls",
+            "fr": "Murs gallo-romains"
           },
           "coords": [
             0.1965,
@@ -59,7 +62,8 @@
             "de": "Eine der am besten erhaltenen römischen Mauern Europas.",
             "hu": "Európa egyik legjobb állapotban megmaradt római fala.",
             "ro": "Unul dintre cele mai bine conservate ziduri romane din Europa.",
-            "en": "One of the best-preserved Roman walls in Europe."
+            "en": "One of the best-preserved Roman walls in Europe.",
+            "fr": "L'un des murs romains les mieux conservés d'Europe."
           }
         },
         {
@@ -67,7 +71,8 @@
             "de": "Kathedrale Saint-Julien",
             "hu": "Szent Julián-székesegyház",
             "ro": "Catedrala Saint-Julien",
-            "en": "Saint-Julien Cathedral"
+            "en": "Saint-Julien Cathedral",
+            "fr": "Cathédrale Saint-Julien"
           },
           "coords": [
             0.1994,
@@ -82,7 +87,8 @@
             "de": "Bewundern Sie die prächtigen Glasmalereien im Chor.",
             "hu": "Csodáld meg a kórus lenyűgöző üvegablakait.",
             "ro": "Admirați vitraliile magnifice din corul catedralei.",
-            "en": "Admire the magnificent stained glass in the choir."
+            "en": "Admire the magnificent stained glass in the choir.",
+            "fr": "Admirez les magnifiques vitraux du chœur."
           }
         },
         {
@@ -90,7 +96,8 @@
             "de": "Carré Plantagenêt",
             "hu": "Carré Plantagenêt Múzeum",
             "ro": "Muzeul Carré Plantagenêt",
-            "en": "Carré Plantagenêt Museum"
+            "en": "Carré Plantagenêt Museum",
+            "fr": "Musée Carré Plantagenêt"
           },
           "coords": [
             0.198,
@@ -105,7 +112,8 @@
             "de": "Tauchen Sie ein in die Archäologie von Le Mans.",
             "hu": "Merülj el Le Mans régészeti múltjában.",
             "ro": "Explorați istoria arheologică a orașului Le Mans.",
-            "en": "Dive into the archaeological history of Le Mans."
+            "en": "Dive into the archaeological history of Le Mans.",
+            "fr": "Plongez dans l'histoire archéologique du Mans."
           }
         },
         {
@@ -113,7 +121,8 @@
             "de": "Musée de Tessé",
             "hu": "Tessé Múzeum",
             "ro": "Muzeul de Tessé",
-            "en": "Musée de Tessé"
+            "en": "Musée de Tessé",
+            "fr": "Musée de Tessé"
           },
           "coords": [
             0.202,
@@ -128,7 +137,8 @@
             "de": "Besuchen Sie die ägyptische Abteilung im Untergeschoss.",
             "hu": "Nézd meg az egyiptomi gyűjteményt az alagsorban.",
             "ro": "Vizitați secțiunea egipteană de la subsol.",
-            "en": "Visit the Egyptian department in the basement."
+            "en": "Visit the Egyptian department in the basement.",
+            "fr": "Visitez le département égyptien au sous-sol."
           }
         }
       ],
@@ -136,7 +146,8 @@
         "de": "Morgens erkunden wir die Cité Plantagenêt, ein Labyrinth aus Fachwerkhäusern und Renaissance-Palästen. Danach bestaunen wir die beeindruckende römische Stadtmauer und die gotische Kathedrale. Nach einer Mittagspause mit lokalen Rillettes widmen wir uns der Geschichte im Carré Plantagenêt und beenden den Tag im Musée de Tessé, bekannt für seine Kunstsammlungen und ägyptischen Schätze.",
         "hu": "Reggel a Cité Plantagenêt labirintusszerű utcáit járjuk be, ahol gerendavázas házak és reneszánsz paloták várnak. Ezután megcsodáljuk a római városfalat és a gótikus katedrálist. Egy helyi rillettes-ebéd után a Carré Plantagenêt-ben kutatjuk a múltat, végül a Tessé Múzeum művészeti gyűjteményeivel és egyiptomi kincseivel zárjuk a napot.",
         "ro": "Dimineața explorăm Cité Plantagenêt, un labirint de case cu bârne de lemn și palate renascentiste. Apoi admirăm impresionantul zid roman și catedrala gotică. După un prânz cu rillettes locale, ne dedicăm istoriei la Carré Plantagenêt și încheiem ziua la Muzeul de Tessé, faimos pentru colecțiile sale de artă și comorile egiptene.",
-        "en": "In the morning, we explore the Cité Plantagenêt, a labyrinth of half-timbered houses and Renaissance palaces. Next, we marvel at the impressive Roman walls and the Gothic cathedral. After a lunch break featuring local rillettes, we delve into history at Carré Plantagenêt and end the day at the Musée de Tessé, known for its art collections and Egyptian treasures."
+        "en": "In the morning, we explore the Cité Plantagenêt, a labyrinth of half-timbered houses and Renaissance palaces. Next, we marvel at the impressive Roman walls and the Gothic cathedral. After a lunch break featuring local rillettes, we delve into history at Carré Plantagenêt and end the day at the Musée de Tessé, known for its art collections and Egyptian treasures.",
+        "fr": "Le matin, nous explorons la Cité Plantagenêt, un labyrinthe de maisons à colombages et de palais Renaissance. Ensuite, nous admirons les impressionnantes murailles romaines et la cathédrale gothique. Après une pause déjeuner avec des rillettes locales, nous plongeons dans l'histoire au Carré Plantagenêt et terminons la journée au Musée de Tessé, connu pour ses collections d'art et ses trésors égyptiens."
       },
       "gastro_picks": {
         "de": [
@@ -296,6 +307,12 @@
           "The cathedral might close briefly during midday.",
           "In summer, look out for the evening light shows (La Nuit des Chimères).",
           "Be sure to try authentic rillettes from a local butcher."
+        ],
+        "fr": [
+          "Portez des chaussures confortables pour les pavés de la vieille ville.",
+          "La cathédrale peut fermer brièvement à la mi-journée.",
+          "En été, guettez les spectacles lumineux du soir (La Nuit des Chimères).",
+          "N'oubliez pas de goûter les rillettes authentiques chez un charcutier local."
         ]
       }
     },
@@ -312,7 +329,8 @@
             "de": "Cité Plantagenêt",
             "hu": "Cité Plantagenêt",
             "ro": "Cité Plantagenêt",
-            "en": "Cité Plantagenêt"
+            "en": "Cité Plantagenêt",
+            "fr": "Cité Plantagenêt"
           },
           "coords": [
             0.197,
@@ -327,7 +345,8 @@
             "de": "Vorsicht beim Radfahren auf dem Kopfsteinpflaster.",
             "hu": "Vigyázz a biciklivel a macskaköves utakon.",
             "ro": "Atenție la bicicletă pe străzile pietruite.",
-            "en": "Be careful cycling on the uneven cobblestones."
+            "en": "Be careful cycling on the uneven cobblestones.",
+            "fr": "Faites attention à circuler à vélo sur les pavés irréguliers."
           }
         },
         {
@@ -335,7 +354,8 @@
             "de": "Kathedrale Saint-Julien",
             "hu": "Szent Julián-székesegyház",
             "ro": "Catedrala Saint-Julien",
-            "en": "Saint-Julien Cathedral"
+            "en": "Saint-Julien Cathedral",
+            "fr": "Cathédrale Saint-Julien"
           },
           "coords": [
             0.1994,
@@ -350,7 +370,8 @@
             "de": "Schließen Sie Ihr Rad am Place du Jet d'Eau ab.",
             "hu": "Zárd le a biciklit a Place du Jet d'Eau-nál.",
             "ro": "Încuiați bicicleta în Place du Jet d'Eau.",
-            "en": "Lock your bike at Place du Jet d'Eau."
+            "en": "Lock your bike at Place du Jet d'Eau.",
+            "fr": "Accrochez votre vélo place du Jet d'Eau."
           }
         },
         {
@@ -358,7 +379,8 @@
             "de": "Musée de Tessé",
             "hu": "Tessé Múzeum",
             "ro": "Muzeul de Tessé",
-            "en": "Musée de Tessé"
+            "en": "Musée de Tessé",
+            "fr": "Musée de Tessé"
           },
           "coords": [
             0.202,
@@ -373,7 +395,8 @@
             "de": "Besuchen Sie den angrenzenden Park.",
             "hu": "Látogasd meg a szomszédos parkot is.",
             "ro": "Vizitați parcul de lângă muzeu.",
-            "en": "Visit the adjacent park after the museum."
+            "en": "Visit the adjacent park after the museum.",
+            "fr": "Visitez le parc attenant après le musée."
           }
         },
         {
@@ -381,7 +404,8 @@
             "de": "Abbaye de l'Épau",
             "hu": "Épau-apátság",
             "ro": "Abația de l'Épau",
-            "en": "Abbaye de l'Épau"
+            "en": "Abbaye de l'Épau",
+            "fr": "Abbaye de l'Épau"
           },
           "coords": [
             0.243,
@@ -396,7 +420,8 @@
             "de": "Wunderschöner Weg entlang des Flusses Huisne.",
             "hu": "Gyönyörű út a Huisne folyó mentén.",
             "ro": "Drum frumos de-a lungul râului Huisne.",
-            "en": "Beautiful path along the Huisne river."
+            "en": "Beautiful path along the Huisne river.",
+            "fr": "Beau chemin le long de la rivière Huisne."
           }
         },
         {
@@ -404,7 +429,8 @@
             "de": "Circuit des 24 Heures",
             "hu": "Le Mans-i versenypálya",
             "ro": "Circuitul de 24 de ore",
-            "en": "Circuit des 24 Heures"
+            "en": "Circuit des 24 Heures",
+            "fr": "Circuit des 24 Heures"
           },
           "coords": [
             0.21,
@@ -419,7 +445,8 @@
             "de": "Besuchen Sie das Museum der 24 Stunden.",
             "hu": "Nézd meg a 24 órás verseny múzeumát.",
             "ro": "Vizitați Muzeul celor 24 de ore.",
-            "en": "Visit the Museum of the 24 Hours."
+            "en": "Visit the Museum of the 24 Hours.",
+            "fr": "Visitez le Musée des 24 Heures."
           }
         }
       ],
@@ -427,7 +454,8 @@
         "de": "Diese Tour verbindet das historische Erbe mit der Leidenschaft für den Motorsport. Wir starten im Zentrum, fahren dann nach Osten zur beeindruckenden Abbaye de l'Épau und schließlich nach Süden zum legendären Circuit des 24 Heures. Eine abwechslungsreiche Fahrt durch Stadt und Natur.",
         "hu": "Ez a túra ötvözi a történelmi örökséget és az autóversenyzés iránti szenvedélyt. A központból indulva keletre tekerünk a lenyűgöző Épau-apátsághoz, majd délre a legendás 24 órás versenypályához. Változatos út a városon és a természeten keresztül.",
         "ro": "Acest tur combină moștenirea istorică cu pasiunea pentru sporturile cu motor. Pornim din centru, pedalăm spre est către Abația de l'Épau, apoi spre sud către legendarul circuit de 24 de ore. O cursă variată prin oraș și natură.",
-        "en": "This tour combines historical heritage with a passion for motorsport. Starting from the center, we cycle east to the impressive Abbaye de l'Épau and then south to the legendary 24 Hours Circuit. A varied ride through the city and nature."
+        "en": "This tour combines historical heritage with a passion for motorsport. Starting from the center, we cycle east to the impressive Abbaye de l'Épau and then south to the legendary 24 Hours Circuit. A varied ride through the city and nature.",
+        "fr": "Cette boucle allie patrimoine historique et passion du sport automobile. Depuis le centre, nous pédalons vers l'est jusqu'à l'impressionnante Abbaye de l'Épau puis vers le sud jusqu'au légendaire Circuit des 24 Heures. Une sortie variée entre ville et nature."
       },
       "gastro_picks": {
         "de": [
@@ -527,6 +555,10 @@
         "en": [
           "Use the 'Boulevard de la Nature' for safe cycling.",
           "Take plenty of water for the longer ride to the circuit."
+        ],
+        "fr": [
+          "Utilisez le « Boulevard de la Nature » pour circuler à vélo en sécurité.",
+          "Prenez beaucoup d'eau pour la longue balade jusqu'au circuit."
         ]
       }
     },
@@ -543,7 +575,8 @@
             "de": "Kathedrale Saint-Julien",
             "hu": "Szent Julián-székesegyház",
             "ro": "Catedrala Saint-Julien",
-            "en": "Saint-Julien Cathedral"
+            "en": "Saint-Julien Cathedral",
+            "fr": "Cathédrale Saint-Julien"
           },
           "coords": [
             0.1994,
@@ -558,7 +591,8 @@
             "de": "Parkhaus 'Jacobins' direkt unter der Kathedrale.",
             "hu": "A 'Jacobins' parkoló közvetlenül a katedrális alatt van.",
             "ro": "Parcarea 'Jacobins' direct sub catedrală.",
-            "en": "Use 'Jacobins' parking garage right under the cathedral."
+            "en": "Use 'Jacobins' parking garage right under the cathedral.",
+            "fr": "Utilisez le parking « Jacobins » juste sous la cathédrale."
           }
         },
         {
@@ -566,7 +600,8 @@
             "de": "Cité Plantagenêt",
             "hu": "Cité Plantagenêt",
             "ro": "Cité Plantagenêt",
-            "en": "Cité Plantagenêt"
+            "en": "Cité Plantagenêt",
+            "fr": "Cité Plantagenêt"
           },
           "coords": [
             0.197,
@@ -581,7 +616,8 @@
             "de": "Zu Fuß von der Kathedrale aus erreichbar (Cluster-Walk).",
             "hu": "Gyalogosan elérhető a katedrálistól (Cluster-séta).",
             "ro": "Accesibil pe jos de la catedrală (Cluster-Walk).",
-            "en": "Accessible on foot from the cathedral (Cluster-Walk)."
+            "en": "Accessible on foot from the cathedral (Cluster-Walk).",
+            "fr": "Accessible à pied depuis la cathédrale (Cluster-Walk)."
           }
         },
         {
@@ -589,7 +625,8 @@
             "de": "Römische Stadtmauer",
             "hu": "Gallo-római városfal",
             "ro": "Zidul galo-roman",
-            "en": "Gallo-Roman Walls"
+            "en": "Gallo-Roman Walls",
+            "fr": "Remparts gallo-romains"
           },
           "coords": [
             0.1965,
@@ -604,7 +641,8 @@
             "de": "Spaziergang entlang der Sarthe für den besten Blick.",
             "hu": "Sétálj a Sarthe mentén a legjobb kilátásért.",
             "ro": "Plimbați-vă de-a lungul râului Sarthe pentru cea mai bună vedere.",
-            "en": "Walk along the Sarthe river for the best view of the walls."
+            "en": "Walk along the Sarthe river for the best view of the walls.",
+            "fr": "Marchez le long de la Sarthe pour la meilleure vue sur les remparts."
           }
         },
         {
@@ -612,7 +650,8 @@
             "de": "Abbaye de l'Épau",
             "hu": "Épau-apátság",
             "ro": "Abația de l'Épau",
-            "en": "Abbaye de l'Épau"
+            "en": "Abbaye de l'Épau",
+            "fr": "Abbaye de l'Épau"
           },
           "coords": [
             0.243,
@@ -627,7 +666,8 @@
             "de": "Kostenloser Parkplatz direkt vor der Abtei.",
             "hu": "Ingyenes parkoló közvetlenül az apátság előtt.",
             "ro": "Parcare gratuită chiar în fața abației.",
-            "en": "Free parking right in front of the abbey."
+            "en": "Free parking right in front of the abbey.",
+            "fr": "Parking gratuit juste devant l'abbaye."
           }
         },
         {
@@ -635,7 +675,8 @@
             "de": "Circuit des 24 Heures",
             "hu": "Le Mans-i versenypálya",
             "ro": "Circuitul de 24 de ore",
-            "en": "Circuit des 24 Heures"
+            "en": "Circuit des 24 Heures",
+            "fr": "Circuit des 24 Heures"
           },
           "coords": [
             0.21,
@@ -650,7 +691,8 @@
             "de": "Großer Besucherparkplatz am Museumseingang.",
             "hu": "Nagy látogatói parkoló a múzeum bejáratánál.",
             "ro": "Parcare mare pentru vizitatori la intrarea muzeului.",
-            "en": "Large visitor parking at the museum entrance."
+            "en": "Large visitor parking at the museum entrance.",
+            "fr": "Grand parking visiteurs à l'entrée du musée."
           }
         }
       ],
@@ -658,7 +700,8 @@
         "de": "Mit dem Auto verbinden wir das historische Zentrum mit den Highlights am Stadtrand. Wir parken zentral, um die Altstadt zu Fuß zu erkunden (Cluster A). Danach fahren wir zur ruhigen Abbaye de l'Épau im Osten und schließen den Tag mit dem PS-starken Erlebnis am Circuit des 24 Heures im Süden ab.",
         "hu": "Autóval összekötjük a történelmi központot a külváros látnivalóival. Központilag parkolunk, hogy gyalog fedezzük fel az óvárost (A-klaszter). Ezután a nyugodt Épau-apátsághoz hajtunk keletre, majd a napot a déli versenypálya lóerőkkel teli élményével zárjuk.",
         "ro": "Cu mașina conectăm centrul istoric cu atracțiile de la periferie. Parcăm central pentru a explora orașul vechi pe jos (Cluster A). Apoi conducem spre liniștita Abație de l'Épau în est și încheiem ziua cu experiența plină de adrenalină de la Circuitul celor 24 de ore în sud.",
-        "en": "By car, we link the historic center with highlights on the outskirts. We park centrally to explore the old town on foot (Cluster A). Then we drive to the peaceful Abbaye de l'Épau in the east and finish the day with the high-octane experience at the 24 Hours Circuit in the south."
+        "en": "By car, we link the historic center with highlights on the outskirts. We park centrally to explore the old town on foot (Cluster A). Then we drive to the peaceful Abbaye de l'Épau in the east and finish the day with the high-octane experience at the 24 Hours Circuit in the south.",
+        "fr": "En voiture, nous relions le centre historique aux sites en périphérie. Nous nous garons au centre pour explorer la vieille ville à pied (Cluster A). Ensuite, nous roulons jusqu'à la paisible Abbaye de l'Épau à l'est et terminons la journée par l'expérience à haute intensité du Circuit des 24 Heures au sud."
       },
       "gastro_picks": {
         "de": [
@@ -758,6 +801,10 @@
         "en": [
           "Park at 'Jacobins' for the old town; it is safe and central.",
           "Traffic can be very heavy during the racing season."
+        ],
+        "fr": [
+          "Garez-vous aux « Jacobins » pour la vieille ville ; c'est sûr et central.",
+          "La circulation peut être très dense pendant la saison des courses."
         ]
       }
     },
@@ -774,7 +821,8 @@
             "de": "Cité Plantagenêt",
             "hu": "Cité Plantagenêt",
             "ro": "Cité Plantagenêt",
-            "en": "Cité Plantagenêt"
+            "en": "Cité Plantagenêt",
+            "fr": "Cité Plantagenêt"
           },
           "coords": [
             0.197,
@@ -789,7 +837,8 @@
             "de": "Haltestelle 'Eperon' oder 'Mairie'.",
             "hu": "'Eperon' vagy 'Mairie' megálló.",
             "ro": "Stația 'Eperon' sau 'Mairie'.",
-            "en": "Exit at 'Eperon' or 'Mairie' stop."
+            "en": "Exit at 'Eperon' or 'Mairie' stop.",
+            "fr": "Descendez à l'arrêt « Éperon » ou « Mairie »."
           }
         },
         {
@@ -797,7 +846,8 @@
             "de": "Kathedrale Saint-Julien",
             "hu": "Szent Julián-székesegyház",
             "ro": "Catedrala Saint-Julien",
-            "en": "Saint-Julien Cathedral"
+            "en": "Saint-Julien Cathedral",
+            "fr": "Cathédrale Saint-Julien"
           },
           "coords": [
             0.1994,
@@ -812,7 +862,8 @@
             "de": "Kurzer Fußweg durch die Altstadt.",
             "hu": "Rövid séta az óvároson keresztül.",
             "ro": "O scurtă plimbare prin orașul vechi.",
-            "en": "Short walk through the old town."
+            "en": "Short walk through the old town.",
+            "fr": "Courte marche à travers la vieille ville."
           }
         },
         {
@@ -820,7 +871,8 @@
             "de": "Carré Plantagenêt",
             "hu": "Carré Plantagenêt Múzeum",
             "ro": "Muzeul Carré Plantagenêt",
-            "en": "Carré Plantagenêt Museum"
+            "en": "Carré Plantagenêt Museum",
+            "fr": "Musée du Carré Plantagenêt"
           },
           "coords": [
             0.198,
@@ -835,7 +887,8 @@
             "de": "Gleich beim Place du Jet d'Eau.",
             "hu": "Közvetlenül a Place du Jet d'Eau mellett.",
             "ro": "Chiar lângă Place du Jet d'Eau.",
-            "en": "Located right by Place du Jet d'Eau."
+            "en": "Located right by Place du Jet d'Eau.",
+            "fr": "Situé juste à côté de la Place du Jet d'Eau."
           }
         },
         {
@@ -843,7 +896,8 @@
             "de": "Circuit des 24 Heures",
             "hu": "Le Mans-i versenypálya",
             "ro": "Circuitul de 24 de ore",
-            "en": "Circuit des 24 Heures"
+            "en": "Circuit des 24 Heures",
+            "fr": "Circuit des 24 Heures"
           },
           "coords": [
             0.21,
@@ -858,7 +912,8 @@
             "de": "Straßenbahn T1 Richtung 'Antarès' bis zur Endstation.",
             "hu": "T1 villamos 'Antarès' felé a végállomásig.",
             "ro": "Tramvaiul T1 spre 'Antarès' până la capăt.",
-            "en": "Take Tram T1 towards 'Antarès' to the last stop."
+            "en": "Take Tram T1 towards 'Antarès' to the last stop.",
+            "fr": "Prenez le tram T1 en direction d'« Antarès » jusqu'au terminus."
           }
         },
         {
@@ -866,7 +921,8 @@
             "de": "Musée Vert",
             "hu": "Zöld Múzeum (Musée Vert)",
             "ro": "Muzeul Verde",
-            "en": "Musée Vert"
+            "en": "Musée Vert",
+            "fr": "Musée Vert"
           },
           "coords": [
             0.185,
@@ -881,7 +937,8 @@
             "de": "Naturkundemuseum in einem ruhigen Viertel.",
             "hu": "Természettudományi múzeum egy csendes negyedben.",
             "ro": "Muzeu de istorie naturală într-un cartier liniștit.",
-            "en": "Natural history museum in a quiet district."
+            "en": "Natural history museum in a quiet district.",
+            "fr": "Muséum d'histoire naturelle dans un quartier tranquille."
           }
         }
       ],
@@ -889,7 +946,8 @@
         "de": "Dank der effizienten Straßenbahn T1 erreichen wir problemlos die wichtigsten Punkte. Wir starten in der Altstadt, besuchen die Kathedrale und das Archäologiemuseum. Dann bringt uns die Tram direkt zum berühmten Circuit im Süden und schließlich zum Musée Vert, um den Tag entspannt ausklingen zu lassen.",
         "hu": "A hatékony T1 villamosnak köszönhetően könnyen elérjük a főbb pontokat. Az óvárosban kezdünk, meglátogatjuk a katedrálist és a régészeti múzeumot. Ezután a villamos egyenesen a déli versenypályához visz, végül a Musée Vert-ben zárjuk a napot pihentetően.",
         "ro": "Datorită tramvaiului eficient T1, ajungem ușor la punctele principale. Începem în orașul vechi, vizităm catedrala și muzeul de arheologie. Apoi tramvaiul ne duce direct la faimosul circuit în sud și, în final, la Muzeul Verde pentru a încheia ziua relaxat.",
-        "en": "Thanks to the efficient T1 tram, we easily reach the main highlights. We start in the old town, visit the cathedral and the archaeology museum. Then the tram takes us straight to the famous Circuit in the south, finishing at Musée Vert for a relaxed end to the day."
+        "en": "Thanks to the efficient T1 tram, we easily reach the main highlights. We start in the old town, visit the cathedral and the archaeology museum. Then the tram takes us straight to the famous Circuit in the south, finishing at Musée Vert for a relaxed end to the day.",
+        "fr": "Grâce au tram T1 efficace, nous atteignons facilement les principaux sites. Nous commençons dans la vieille ville, visitons la cathédrale et le musée d'archéologie. Ensuite, le tram nous emmène directement au célèbre Circuit au sud, pour finir au Musée Vert pour une fin de journée détendue."
       },
       "gastro_picks": {
         "de": [
@@ -992,6 +1050,10 @@
         "en": [
           "Buy a day pass for bus and tram.",
           "The T1 tram runs every few minutes towards the Circuit."
+        ],
+        "fr": [
+          "Achetez un pass journée pour bus et tram.",
+          "Le tram T1 circule toutes les quelques minutes en direction du Circuit."
         ]
       }
     }

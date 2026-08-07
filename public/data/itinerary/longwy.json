@@ -21,7 +21,8 @@
             "de": "La Grange aux Arts",
             "hu": "La Grange aux Arts",
             "ro": "La Grange aux Arts",
-            "en": "La Grange aux Arts"
+            "en": "La Grange aux Arts",
+            "fr": "La Grange aux Arts"
           },
           "coords": [
             5.764958,
@@ -36,7 +37,8 @@
             "de": "Entdecken Sie die regionale Kunst in diesem charmanten Museum, dessen vielfältige Ausstellungen lokales Talent zeigen, also prüfen Sie vorab das Programm.",
             "hu": "Fedezze fel a regionális művészetet ebben a hangulatos múzeumban, ahol a kiállítások helyi tehetségeket mutatnak be, ezért érkezés előtt ellenőrizze a programot.",
             "ro": "Descoperiți arta regională în acest muzeu fermecător, unde expozițiile prezintă talentul local, așa că verificați programul rotativ înainte de a vizita.",
-            "en": "Discover regional artistry in this charming museum, where diverse exhibitions showcase local talent, so check their rotating schedule before visiting."
+            "en": "Discover regional artistry in this charming museum, where diverse exhibitions showcase local talent, so check their rotating schedule before visiting.",
+            "fr": "Découvrez l'art régional dans ce charmant musée, où des expositions variées mettent en valeur les talents locaux ; vérifiez leur programmation itinérante avant de visiter."
           }
         },
         {
@@ -44,7 +46,8 @@
             "de": "Kirche Saint-Dagobert",
             "hu": "Szent Dagobert-templom",
             "ro": "Biserica Saint-Dagobert",
-            "en": "Church of Saint-Dagobert"
+            "en": "Church of Saint-Dagobert",
+            "fr": "Église Saint-Dagobert"
           },
           "coords": [
             5.762057,
@@ -59,7 +62,8 @@
             "de": "Bewundern Sie die markante Architektur dieser historischen Kirche, die das religiöse Erbe der Stadt wunderschön widerspiegelt, und genießen Sie das ruhige Innere.",
             "hu": "Csodálja meg e történelmi templom lenyűgöző építészetét, amely gyönyörűen tükrözi a város vallási örökségét, és töltsön el egy percet a békés belső térben.",
             "ro": "Admirați arhitectura impresionantă a acestei biserici istorice, care reflectă minunat moștenirea religioasă a orașului, și bucurați-vă de interiorul său liniștit.",
-            "en": "Admire the striking architecture of this historic church, which beautifully reflects the city's religious heritage, and take a moment to enjoy its peaceful interior."
+            "en": "Admire the striking architecture of this historic church, which beautifully reflects the city's religious heritage, and take a moment to enjoy its peaceful interior.",
+            "fr": "Admirez l'architecture saisissante de cette église historique, qui reflète magnifiquement le patrimoine religieux de la ville, et prenez un moment pour apprécier son intérieur paisible."
           }
         },
         {
@@ -67,7 +71,8 @@
             "de": "Musée des émaux et faïences",
             "hu": "Musée des émaux et faïences",
             "ro": "Musée des émaux et faïences",
-            "en": "Musée des émaux et faïences"
+            "en": "Musée des émaux et faïences",
+            "fr": "Musée des émaux et faïences"
           },
           "coords": [
             5.763368,
@@ -82,7 +87,8 @@
             "de": "Tauchen Sie in diesem umfassenden Museum in die berühmte Emaille- und Keramikgeschichte von Longwy ein und betrachten Sie die filigranen Cloisonné-Techniken genau.",
             "hu": "Merüljön el Longwy híres zománc- és kerámiatörténetében ebben a múzeumban, és mindenképpen vizsgálja meg közelebbről a kiállított bonyolult cloisonné technikákat.",
             "ro": "Aprofundați istoria faimosului email și a ceramicii din Longwy la acest muzeu și asigurați-vă că priviți îndeaproape tehnicile complexe de cloisonné expuse.",
-            "en": "Delve into Longwy's famous enamel and ceramics history at this comprehensive museum, and make sure to look closely at the intricate cloisonné techniques on display."
+            "en": "Delve into Longwy's famous enamel and ceramics history at this comprehensive museum, and make sure to look closely at the intricate cloisonné techniques on display.",
+            "fr": "Plongez dans la célèbre histoire des émaux et céramiques de Longwy dans ce musée complet, et assurez-vous d'observer de près les techniques de cloisonné riches en détails exposées."
           }
         },
         {
@@ -90,7 +96,8 @@
             "de": "Porte de France",
             "hu": "Porte de France",
             "ro": "Porte de France",
-            "en": "Porte de France"
+            "en": "Porte de France",
+            "fr": "Porte de France"
           },
           "coords": [
             5.763077,
@@ -105,7 +112,8 @@
             "de": "Schreiten Sie durch dieses von Vauban entworfene monumentale Tor, ein brillantes Stück Militärgeschichte, und bringen Sie Ihre Kamera für das beeindruckende Bauwerk mit.",
             "hu": "Sétáljon át ezen a Vauban által tervezett monumentális kapun, amely a hadtörténet ragyogó darabja, és hozzon fényképezőgépet a lenyűgöző erődített szerkezet megörökítéséhez.",
             "ro": "Pășiți prin această poartă monumentală proiectată de Vauban, o piesă strălucitoare de istorie militară, și aduceți aparatul foto pentru a surprinde structura fortificată.",
-            "en": "Walk through this monumental gate designed by Vauban, a brilliant piece of military history, and bring your camera to capture its impressive fortified structure."
+            "en": "Walk through this monumental gate designed by Vauban, a brilliant piece of military history, and bring your camera to capture its impressive fortified structure.",
+            "fr": "Traversez cette porte monumentale dessinée par Vauban, une brillante pièce d'histoire militaire, et prenez votre appareil photo pour capturer sa structure fortifiée impressionnante."
           }
         },
         {
@@ -113,7 +121,8 @@
             "de": "Le vieux château",
             "hu": "Le vieux château",
             "ro": "Le vieux château",
-            "en": "Le vieux château"
+            "en": "Le vieux château",
+            "fr": "Le vieux château"
           },
           "coords": [
             5.76251,
@@ -128,7 +137,8 @@
             "de": "Erkunden Sie die stimmungsvollen Ruinen des alten Schlosses, die auf die mittelalterliche Vergangenheit der Stadt hindeuten, und tragen Sie bequeme Wanderschuhe.",
             "hu": "Fedezze fel a régi kastély hangulatos romjait, amelyek a város középkori múltjára utalnak, és viseljen kényelmes cipőt, mivel a környező talaj egyenetlen lehet.",
             "ro": "Explorați ruinele pline de atmosferă ale vechiului castel care amintesc de trecutul medieval și purtați încălțăminte confortabilă, deoarece terenul poate fi denivelat.",
-            "en": "Explore the atmospheric ruins of the old castle that hint at the town's medieval past, and wear comfortable walking shoes as the surrounding grounds can be uneven."
+            "en": "Explore the atmospheric ruins of the old castle that hint at the town's medieval past, and wear comfortable walking shoes as the surrounding grounds can be uneven.",
+            "fr": "Explorez les ruines atmosphériques de l'ancien château qui évoquent le passé médiéval de la ville, et portez des chaussures de marche confortables car les terrains alentour peuvent être irréguliers."
           }
         },
         {
@@ -136,7 +146,8 @@
             "de": "Église de la Sainte-Trinité",
             "hu": "Église de la Sainte-Trinité",
             "ro": "Église de la Sainte-Trinité",
-            "en": "Église de la Sainte-Trinité"
+            "en": "Église de la Sainte-Trinité",
+            "fr": "Église de la Sainte-Trinité"
           },
           "coords": [
             5.76613,
@@ -151,7 +162,8 @@
             "de": "Betreten Sie diese bezaubernde Kirche, um ihre ruhige Atmosphäre und unaufdringliche Schönheit zu schätzen, ein perfekter Ort für stille Reflexion an Ihrem geschäftigen Tag.",
             "hu": "Lépjen be ebbe a bájos templomba, hogy értékelje nyugodt légkörét és visszafogott szépségét, amely tökéletes hely a csendes elmélkedésre a sűrű nap során.",
             "ro": "Pășiți în această biserică fermecătoare pentru a aprecia atmosfera sa senină și frumusețea discretă, fiind un loc perfect pentru reflecție liniștită în timpul zilei.",
-            "en": "Step inside this charming church to appreciate its serene atmosphere and understated beauty, making it a perfect spot for quiet reflection during your busy day."
+            "en": "Step inside this charming church to appreciate its serene atmosphere and understated beauty, making it a perfect spot for quiet reflection during your busy day.",
+            "fr": "Pénétrez dans cette charmante église pour apprécier son atmosphère sereine et sa beauté discrète, en faisant un lieu parfait pour une réflexion calme pendant votre journée chargée."
           }
         },
         {
@@ -159,7 +171,8 @@
             "de": "Le Belvédère",
             "hu": "Le Belvédère",
             "ro": "Le Belvédère",
-            "en": "Le Belvédère"
+            "en": "Le Belvédère",
+            "fr": "Le Belvédère"
           },
           "coords": [
             5.765198,
@@ -174,7 +187,8 @@
             "de": "Beenden Sie Ihre Tour mit einem weiten Panoramablick auf das gesamte Tal von diesem erhöhten natürlichen Aussichtspunkt, der der ideale Ort für spektakuläre Sonnenuntergangsfotos ist.",
             "hu": "Zárja túráját a völgyre nyíló elsöprő panorámával erről a magasan fekvő, természetes kilátópontról, amely ideális helyszín a látványos naplemente fotók elkészítéséhez.",
             "ro": "Încheiați-vă turul cu vederi panoramice ample asupra întregii văi de pe acest punct de belvedere natural elevat, fiind locul ideal pentru fotografii spectaculoase la apus.",
-            "en": "Conclude your tour with sweeping panoramic views of the entire valley from this elevated natural vantage point, making it the ideal spot for spectacular sunset photos."
+            "en": "Conclude your tour with sweeping panoramic views of the entire valley from this elevated natural vantage point, making it the ideal spot for spectacular sunset photos.",
+            "fr": "Concluez votre visite par de vastes vues panoramiques sur toute la vallée depuis ce point de vue naturel élevé, idéal pour des photos spectaculaires au coucher du soleil."
           }
         }
       ],
@@ -182,7 +196,8 @@
         "de": "Beginnen Sie den Morgen mit der Entdeckung der lokalen Kunstszene, bevor Sie die architektonische Schönheit der historischen Kirche bewundern.\n\nZur Mittagszeit tauchen Sie im Emaille-Museum in die berühmte Handwerkskunst ein und spazieren durch das von Vauban entworfene Tor.\n\nAm Nachmittag erkunden Sie die mittelalterliche Vergangenheit in den Ruinen des alten Schlosses und finden Ruhe in der nahegelegenen Kirche.\n\nBeenden Sie den Abend mit einem herrlichen Panoramablick von den natürlichen Höhen und beobachten Sie, wie die Sonne langsam über dem Tal untergeht.",
         "hu": "Kezdje a reggelt a helyi művészet és történelem felfedezésével, majd csodálja meg a történelmi templom építészeti szépségét.\n\nA dél délben a híres zománcmúzeumban a kézművesség szívébe vezeti, majd a Vauban által tervezett monumentális kapunál folytatódik a séta.\n\nDélután merüljön el a középkori múltban a régi kastély hangulatos romjai között, és találjon egy perc békét a közeli templomban.\n\nAz estét a természetes magaslatokról nyíló lenyűgöző panorámával zárja, miközben a nap lassan lenyugszik a völgy felett.",
         "ro": "Începeți dimineața descoperind artele și istoria locale, explorând latura artistică a orașului înainte de a admira frumusețea bisericii.\n\nLa amiază ajungeți în inima meșteșugului faimos la muzeul de email, urmat de o plimbare prin poarta monumentală a lui Vauban.\n\nDupă-amiaza, scufundați-vă în trecutul medieval printre ruinele vechiului castel și găsiți un moment de pace la biserica din apropiere.\n\nÎncheiați seara admirând priveliștile magnifice de pe înălțimile naturale, privind cum soarele apune încet peste întreaga vale.",
-        "en": "Start your morning discovering the local arts and history, exploring the artistic side of the city before admiring the architectural beauty of the historic church.\n\nMidday brings you to the heart of the city's famed craftsmanship at the enamel museum, followed by a walk through the monumental gates designed by Vauban.\n\nIn the afternoon, dive deep into the medieval past among the atmospheric ruins of the old castle and find a moment of peace at the nearby church.\n\nEnd your evening taking in the magnificent sweeping views from the natural heights, watching the sun slowly set over the valley."
+        "en": "Start your morning discovering the local arts and history, exploring the artistic side of the city before admiring the architectural beauty of the historic church.\n\nMidday brings you to the heart of the city's famed craftsmanship at the enamel museum, followed by a walk through the monumental gates designed by Vauban.\n\nIn the afternoon, dive deep into the medieval past among the atmospheric ruins of the old castle and find a moment of peace at the nearby church.\n\nEnd your evening taking in the magnificent sweeping views from the natural heights, watching the sun slowly set over the valley.",
+        "fr": "Commencez votre matinée en découvrant les arts et l'histoire locales, en explorant le côté artistique de la ville avant d'admirer la beauté architecturale de l'église historique.\n\nÀ midi, rendez-vous au cœur du savoir-faire renommé de la ville au musée des émaux, puis promenez-vous à travers la porte monumentale dessinée par Vauban.\n\nL'après-midi, plongez dans le passé médiéval au milieu des ruines atmosphériques de l'ancien château et trouvez un moment de paix à l'église voisine.\n\nTerminez votre soirée en profitant des vues magnifiques depuis les hauteurs naturelles, en regardant le soleil se coucher lentement sur la vallée."
       },
       "variants": {
         "rainy": {
@@ -190,7 +205,8 @@
             "en": "Start your rainy morning at La Grange aux Arts to stay dry. By noon, the short walk to Saint-Dagobert and the enamel museum offers sheltered cultural immersion. In the afternoon, use an umbrella for the historic Porte de France and the old castle ruins. Conclude your wet evening at the Trinity Church and enjoy the moody, rain-swept views from Le Belvédère.",
             "hu": "Kezdje az esős reggelt a La Grange aux Arts fedett termeiben. Délben egy rövid, esernyős sétával érje el a Szent Dagobert-templomot és a zománcmúzeumot. Délután óvatosan lépkedjen a Porte de France és az öreg kastély csúszós kövein. Az estét a Szentháromság-templom menedékében és a Le Belvédère borongós panorámájával zárhatja.",
             "de": "Beginnen Sie den regnerischen Morgen im Trockenen der La Grange aux Arts. Mittags bieten die Saint-Dagobert-Kirche und das Emaille-Museum kulturellen Schutz vor dem Schauer. Nachmittags erkunden Sie mit Regenschirm die Porte de France und das alte Schloss. Beenden Sie den nassen Abend in der Dreifaltigkeitskirche und am Belvédère.",
-            "ro": "Începeți dimineața ploioasă la adăpost în La Grange aux Arts. La prânz, biserica Saint-Dagobert și muzeul emailurilor oferă refugii culturale. După-amiaza, luați o umbrelă pentru a explora Porte de France și pietrele alunecoase ale vechiului castel. Încheiați seara umedă la Biserica Sfintei Treimi și cu priveliștea de la Le Belvédère."
+            "ro": "Începeți dimineața ploioasă la adăpost în La Grange aux Arts. La prânz, biserica Saint-Dagobert și muzeul emailurilor oferă refugii culturale. După-amiaza, luați o umbrelă pentru a explora Porte de France și pietrele alunecoase ale vechiului castel. Încheiați seara umedă la Biserica Sfintei Treimi și cu priveliștea de la Le Belvédère.",
+            "fr": "Commencez votre matinée pluvieuse à La Grange aux Arts pour rester au sec. À midi, la courte promenade vers Saint-Dagobert et le musée des émaux offre une immersion culturelle abritée. L'après-midi, utilisez un parapluie pour la Porte de France et les ruines du vieux château. Concluez votre soirée humide à l'église de la Trinité et profitez des vues maussades et balayées par la pluie depuis Le Belvédère."
           },
           "stops": [
             {
@@ -198,13 +214,15 @@
                 "de": "La Grange aux Arts",
                 "hu": "La Grange aux Arts",
                 "ro": "La Grange aux Arts",
-                "en": "La Grange aux Arts"
+                "en": "La Grange aux Arts",
+                "fr": "La Grange aux Arts"
               },
               "tip_5lang": {
                 "en": "Perfect indoor shelter from the morning rain where you can admire contemporary art and craft works.",
                 "hu": "Tökéletes fedett menedék a reggeli eső elől, ahol megcsodálhatja a kortárs művészeti alkotásokat.",
                 "de": "Perfekter Regenschutz am Morgen, wo Sie zeitgenössische Kunst und Kunsthandwerk im Trockenen bewundern können.",
-                "ro": "Adăpost interior perfect împotriva ploii de dimineață, unde puteți admira artă contemporană și obiecte de artizanat."
+                "ro": "Adăpost interior perfect împotriva ploii de dimineață, unde puteți admira artă contemporană și obiecte de artizanat.",
+                "fr": "Abri intérieur idéal contre la pluie du matin où vous pouvez admirer des œuvres d'art et d'artisanat contemporain."
               }
             },
             {
@@ -212,13 +230,15 @@
                 "de": "Kirche Saint-Dagobert",
                 "hu": "Szent Dagobert-templom",
                 "ro": "Biserica Saint-Dagobert",
-                "en": "Church of Saint-Dagobert"
+                "en": "Church of Saint-Dagobert",
+                "fr": "Église Saint-Dagobert"
               },
               "tip_5lang": {
                 "en": "The church's sturdy roof offers a dry haven, allowing you to study its architecture without getting wet.",
                 "hu": "A templom masszív teteje száraz menedéket nyújt, így elázás nélkül tanulmányozhatja az építészetét.",
                 "de": "Das robuste Dach der Kirche bietet einen trockenen Hafen, um die Architektur ohne Nässe zu studieren.",
-                "ro": "Acoperișul solid al bisericii oferă un refugiu uscat, permițându-vă să îi studiați arhitectura fără a vă uda."
+                "ro": "Acoperișul solid al bisericii oferă un refugiu uscat, permițându-vă să îi studiați arhitectura fără a vă uda.",
+                "fr": "Le toit solide de l'église offre un refuge sec, vous permettant d'étudier son architecture sans vous mouiller."
               }
             },
             {
@@ -226,13 +246,15 @@
                 "de": "Musée des émaux et faïences",
                 "hu": "Musée des émaux et faïences",
                 "ro": "Musée des émaux et faïences",
-                "en": "Musée des émaux et faïences"
+                "en": "Musée des émaux et faïences",
+                "fr": "Musée des émaux et faïences"
               },
               "tip_5lang": {
                 "en": "Spend extra time exploring the exquisite enamels indoors while waiting out the heaviest midday showers.",
                 "hu": "Töltsön több időt a gyönyörű zománcok beltéri felfedezésével, amíg kint alábbhagy a déli zápor.",
                 "de": "Verbringen Sie extra Zeit mit den exquisiten Emaillearbeiten drinnen, während Sie den stärksten Mittagsschauer abwarten.",
-                "ro": "Petreceți mai mult timp explorând emailurile rafinate în interior, în timp ce așteptați să treacă aversele de prânz."
+                "ro": "Petreceți mai mult timp explorând emailurile rafinate în interior, în timp ce așteptați să treacă aversele de prânz.",
+                "fr": "Passez plus de temps à explorer les émaux exquis à l'intérieur en attendant que les pluies les plus fortes se calment."
               }
             },
             {
@@ -240,13 +262,15 @@
                 "de": "Porte de France",
                 "hu": "Porte de France",
                 "ro": "Porte de France",
-                "en": "Porte de France"
+                "en": "Porte de France",
+                "fr": "Porte de France"
               },
               "tip_5lang": {
                 "en": "Be careful on the wet cobblestones around this historic gate, and keep your umbrella handy for sudden gusts.",
                 "hu": "Vigyázzon a vizes macskaköveken a történelmi kapu körül, és tartsa kéznél az esernyőjét a hirtelen széllökések miatt.",
                 "de": "Seien Sie vorsichtig auf dem nassen Kopfsteinpflaster an diesem historischen Tor und halten Sie Ihren Regenschirm bereit.",
-                "ro": "Atenție pe piatra cubică umedă din jurul acestei porți istorice și țineți umbrela la îndemână pentru rafalele bruște."
+                "ro": "Atenție pe piatra cubică umedă din jurul acestei porți istorice și țineți umbrela la îndemână pentru rafalele bruște.",
+                "fr": "Faites attention aux pavés mouillés autour de cette porte historique, et gardez votre parapluie à portée de main en cas de rafales soudaines."
               }
             },
             {
@@ -254,13 +278,15 @@
                 "de": "Le vieux château",
                 "hu": "Le vieux château",
                 "ro": "Le vieux château",
-                "en": "Le vieux château"
+                "en": "Le vieux château",
+                "fr": "Le vieux château"
               },
               "tip_5lang": {
                 "en": "The ruined walls offer little cover, so wear good waterproof boots as the grassy paths will be quite muddy.",
                 "hu": "A romos falak kevés fedezéket nyújtanak, ezért viseljen jó vízálló csizmát, mert a füves ösvények sárosak lesznek.",
                 "de": "Die Ruinen bieten wenig Schutz, tragen Sie wasserdichte Schuhe, da die grasbewachsenen Wege sehr schlammig werden.",
-                "ro": "Zidurile ruinate oferă puțin adăpost, așa că purtați cizme impermeabile, deoarece potecile cu iarbă vor fi noroioase."
+                "ro": "Zidurile ruinate oferă puțin adăpost, așa că purtați cizme impermeabile, deoarece potecile cu iarbă vor fi noroioase.",
+                "fr": "Les murs en ruine offrent peu d'abri, donc portez de bonnes bottes imperméables car les sentiers herbeux seront très boueux."
               }
             },
             {
@@ -268,13 +294,15 @@
                 "de": "Église de la Sainte-Trinité",
                 "hu": "Église de la Sainte-Trinité",
                 "ro": "Église de la Sainte-Trinité",
-                "en": "Église de la Sainte-Trinité"
+                "en": "Église de la Sainte-Trinité",
+                "fr": "Église de la Sainte-Trinité"
               },
               "tip_5lang": {
                 "en": "Seek refuge in this quiet church to dry off and enjoy the peaceful ambiance away from the rain.",
                 "hu": "Keressen menedéket ebben a csendes templomban, hogy megszáradjon és élvezze a békés hangulatot az eső elől elzárva.",
                 "de": "Suchen Sie Zuflucht in dieser ruhigen Kirche, um sich zu trocknen und die friedliche Atmosphäre abseits des Regens zu genießen.",
-                "ro": "Căutați refugiu în această biserică liniștită pentru a vă usca și a vă bucura de ambianța pașnică, departe de ploaie."
+                "ro": "Căutați refugiu în această biserică liniștită pentru a vă usca și a vă bucura de ambianța pașnică, departe de ploaie.",
+                "fr": "Cherchez refuge dans cette église tranquille pour vous sécher et profiter de l'ambiance paisible loin de la pluie."
               }
             },
             {
@@ -282,13 +310,15 @@
                 "de": "Le Belvédère",
                 "hu": "Le Belvédère",
                 "ro": "Le Belvédère",
-                "en": "Le Belvédère"
+                "en": "Le Belvédère",
+                "fr": "Le Belvédère"
               },
               "tip_5lang": {
                 "en": "The panoramic view is dramatic in the rain, but hold onto your raincoat as it gets windy at the edge.",
                 "hu": "A panoráma drámai az esőben, de kapaszkodjon az esőkabátjába, mert a szélén erősen fújhat a szél.",
                 "de": "Der Panoramablick ist bei Regen dramatisch, aber halten Sie Ihre Regenjacke fest, da es am Rand windig wird.",
-                "ro": "Priveliștea panoramică este dramatică pe timp de ploaie, dar țineți-vă pelerina, deoarece devine vântos pe margine."
+                "ro": "Priveliștea panoramică este dramatică pe timp de ploaie, dar țineți-vă pelerina, deoarece devine vântos pe margine.",
+                "fr": "La vue panoramique est dramatique sous la pluie, mais tenez bien votre imperméable car il devient venteux au bord."
               }
             }
           ]
@@ -298,7 +328,8 @@
             "en": "Wrap up warmly for a brisk morning at La Grange aux Arts. Midday invites you into the cozy interiors of the Saint-Dagobert Church and the famous enamel museum. As the afternoon chills, quickly explore Porte de France and the old castle before dusk. The early evening brings twilight views from the Trinity Church and the frosty, illuminated Belvédère.",
             "hu": "Öltözzön melegen a fagyos reggelihez a La Grange aux Arts-ban. A déli órákban a Szent Dagobert-templom és a híres zománcmúzeum fűtött terei nyújtanak menedéket. A hideg délutánon fedezze fel a Porte de France-t és az öreg kastélyt még sötétedés előtt. A kora este már a kivilágított Szentháromság-templomnál és a deres Le Belvédère-nél éri.",
             "de": "Packen Sie sich warm ein für einen frostigen Morgen in der La Grange aux Arts. Mittags wärmen Sie sich in der Saint-Dagobert-Kirche und im Emaille-Museum auf. Am kühlen Nachmittag erkunden Sie die Porte de France und das alte Schloss, bevor die Sonne untergeht. Der frühe Abend lockt mit der Dämmerung an der Kirche und dem beleuchteten Belvédère.",
-            "ro": "Îmbrăcați-vă gros pentru o dimineață geroasă la La Grange aux Arts. La prânz, interiorul bisericii Saint-Dagobert și muzeul emailurilor vă vor încălzi. În după-amiaza rece, vizitați Porte de France și vechiul castel înainte să se întunece la ora 17. Seara devreme aduce o atmosferă crepusculară la biserică și priveliști înghețate de la Le Belvédère."
+            "ro": "Îmbrăcați-vă gros pentru o dimineață geroasă la La Grange aux Arts. La prânz, interiorul bisericii Saint-Dagobert și muzeul emailurilor vă vor încălzi. În după-amiaza rece, vizitați Porte de France și vechiul castel înainte să se întunece la ora 17. Seara devreme aduce o atmosferă crepusculară la biserică și priveliști înghețate de la Le Belvédère.",
+            "fr": "Couchez-vous chaudement pour une matinée vive à La Grange aux Arts. À midi, laissez-vous inviter à l'intérieur cosy de l'église Saint-Dagobert et du célèbre musée des émaux. Lorsque l'après-midi refroidit, explorez rapidement la Porte de France et le vieux château avant le crépuscule. La fin d'après-midi apporte des vues au crépuscule depuis l'église de la Trinité et le Belvédère illuminé et givré."
           },
           "stops": [
             {
@@ -306,13 +337,15 @@
                 "de": "La Grange aux Arts",
                 "hu": "La Grange aux Arts",
                 "ro": "La Grange aux Arts",
-                "en": "La Grange aux Arts"
+                "en": "La Grange aux Arts",
+                "fr": "La Grange aux Arts"
               },
               "tip_5lang": {
                 "en": "Enjoy the heated gallery spaces and take off your heavy winter coat while appreciating the local art.",
                 "hu": "Élvezze a fűtött galériatereket, és vegye le nehéz télikabátját, miközben a helyi művészetben gyönyörködik.",
                 "de": "Genießen Sie die beheizten Galerieräume und legen Sie Ihren Wintermantel ab, während Sie die lokale Kunst schätzen.",
-                "ro": "Bucurați-vă de galeriile încălzite și dați-vă jos paltonul gros de iarnă în timp ce apreciați arta locală."
+                "ro": "Bucurați-vă de galeriile încălzite și dați-vă jos paltonul gros de iarnă în timp ce apreciați arta locală.",
+                "fr": "Profitez des espaces chauffés de la galerie et enlevez votre lourd manteau d'hiver tout en appréciant l'art local."
               }
             },
             {
@@ -320,13 +353,15 @@
                 "de": "Kirche Saint-Dagobert",
                 "hu": "Szent Dagobert-templom",
                 "ro": "Biserica Saint-Dagobert",
-                "en": "Church of Saint-Dagobert"
+                "en": "Church of Saint-Dagobert",
+                "fr": "Église Saint-Dagobert"
               },
               "tip_5lang": {
                 "en": "Step inside to escape the biting winter wind and marvel at the tranquil, dimly lit historical interior.",
                 "hu": "Lépjen be, hogy elmeneküljön a metsző téli szél elől, és csodálja meg a nyugodt, félhomályos történelmi belső teret.",
                 "de": "Treten Sie ein, um dem eisigen Winterwind zu entkommen und das ruhige, schwach beleuchtete historische Innere zu bewundern.",
-                "ro": "Pășiți înăuntru pentru a scăpa de vântul tăios de iarnă și admirați interiorul istoric liniștit, slab luminat."
+                "ro": "Pășiți înăuntru pentru a scăpa de vântul tăios de iarnă și admirați interiorul istoric liniștit, slab luminat.",
+                "fr": "Entrez pour échapper au vent hivernal mordant et émerveillez-vous de l'intérieur historique tranquille et peu éclairé."
               }
             },
             {
@@ -334,13 +369,15 @@
                 "de": "Musée des émaux et faïences",
                 "hu": "Musée des émaux et faïences",
                 "ro": "Musée des émaux et faïences",
-                "en": "Musée des émaux et faïences"
+                "en": "Musée des émaux et faïences",
+                "fr": "Musée des émaux et faïences"
               },
               "tip_5lang": {
                 "en": "The museum is a cozy retreat from the winter cold, showcasing brilliantly colored ceramics to brighten the day.",
                 "hu": "A múzeum hangulatos menedék a téli hideg elől, ahol ragyogó színű kerámiák dobják fel a fagyos napot.",
                 "de": "Das Museum ist ein gemütlicher Rückzugsort vor der Winterkälte und zeigt farbenfrohe Keramiken, die den Tag erhellen.",
-                "ro": "Muzeul este un refugiu primitor din frigul iernii, expunând ceramică viu colorată pentru a vă înveseli ziua."
+                "ro": "Muzeul este un refugiu primitor din frigul iernii, expunând ceramică viu colorată pentru a vă înveseli ziua.",
+                "fr": "Le musée est un refuge douillet contre le froid hivernal, présentant des céramiques aux couleurs brillantes pour égayer la journée."
               }
             },
             {
@@ -348,13 +385,15 @@
                 "de": "Porte de France",
                 "hu": "Porte de France",
                 "ro": "Porte de France",
-                "en": "Porte de France"
+                "en": "Porte de France",
+                "fr": "Porte de France"
               },
               "tip_5lang": {
                 "en": "The majestic gate looks stunning against a gray winter sky, but watch out for icy patches near the entrance.",
                 "hu": "A fenséges kapu lenyűgözően mutat a szürke téli égbolt előtt, de ügyeljen a jeges foltokra a bejárat közelében.",
                 "de": "Das majestätische Tor sieht vor einem grauen Winterhimmel atemberaubend aus, aber achten Sie auf Eisflächen.",
-                "ro": "Poarta maiestuoasă arată uimitor pe un cer gri de iarnă, dar aveți grijă la peticele de gheață din apropierea intrării."
+                "ro": "Poarta maiestuoasă arată uimitor pe un cer gri de iarnă, dar aveți grijă la peticele de gheață din apropierea intrării.",
+                "fr": "La porte majestueuse est magnifique sur un ciel gris d'hiver, mais méfiez-vous des plaques de verglas près de l'entrée."
               }
             },
             {
@@ -362,13 +401,15 @@
                 "de": "Le vieux château",
                 "hu": "Le vieux château",
                 "ro": "Le vieux château",
-                "en": "Le vieux château"
+                "en": "Le vieux château",
+                "fr": "Le vieux château"
               },
               "tip_5lang": {
                 "en": "Explore these ruins briskly in the crisp afternoon air, as the exposed location gets very chilly before dusk.",
                 "hu": "Tempósan fedezze fel ezeket a romokat a csípős délutáni levegőben, mert a nyitott helyszín sötétedés előtt nagyon lehűl.",
                 "de": "Erkunden Sie diese Ruinen zügig in der klaren Nachmittagsluft, da es hier vor Einbruch der Dunkelheit sehr kühl wird.",
-                "ro": "Explorați aceste ruine alert în aerul rece de după-amiază, deoarece locația expusă devine foarte friguroasă înainte de amurg."
+                "ro": "Explorați aceste ruine alert în aerul rece de după-amiază, deoarece locația expusă devine foarte friguroasă înainte de amurg.",
+                "fr": "Explorez ces ruines d'un pas vif dans l'air frais de l'après-midi, car l'emplacement exposé devient très froid avant le crépuscule."
               }
             },
             {
@@ -376,13 +417,15 @@
                 "de": "Église de la Sainte-Trinité",
                 "hu": "Église de la Sainte-Trinité",
                 "ro": "Église de la Sainte-Trinité",
-                "en": "Église de la Sainte-Trinité"
+                "en": "Église de la Sainte-Trinité",
+                "fr": "Église de la Sainte-Trinité"
               },
               "tip_5lang": {
                 "en": "As the early winter night falls, the church provides a welcoming, warm atmosphere to rest your tired feet.",
                 "hu": "Ahogy leszáll a korai téli éjszaka, a templom barátságos, meleg légkört biztosít a fáradt lábak pihentetésére.",
                 "de": "Wenn die frühe Winternacht hereinbricht, bietet die Kirche eine einladende, warme Atmosphäre, um sich auszuruhen.",
-                "ro": "Pe măsură ce noaptea de iarnă coboară devreme, biserica oferă o atmosferă primitoare și caldă pentru a vă odihni picioarele."
+                "ro": "Pe măsură ce noaptea de iarnă coboară devreme, biserica oferă o atmosferă primitoare și caldă pentru a vă odihni picioarele.",
+                "fr": "À la tombée de la nuit en début d'hiver, l'église offre une atmosphère chaleureuse et accueillante pour reposer vos pieds fatigués."
               }
             },
             {
@@ -390,13 +433,15 @@
                 "de": "Le Belvédère",
                 "hu": "Le Belvédère",
                 "ro": "Le Belvédère",
-                "en": "Le Belvédère"
+                "en": "Le Belvédère",
+                "fr": "Le Belvédère"
               },
               "tip_5lang": {
                 "en": "Bundle up for the freezing twilight winds at this viewpoint, where the early sunset creates a frosty, magical vista.",
                 "hu": "Öltözzön fel jól a fagyos alkonyati szelekhez ezen a kilátóponton, ahol a korai naplemente varázslatos panorámát teremt.",
                 "de": "Packen Sie sich warm ein für die eisigen Winde an diesem Aussichtspunkt, wo der frühe Sonnenuntergang magisch wirkt.",
-                "ro": "Îmbrăcați-vă gros pentru vânturile înghețate de crepuscul la acest punct de belvedere, unde apusul timpuriu este magic."
+                "ro": "Îmbrăcați-vă gros pentru vânturile înghețate de crepuscul la acest punct de belvedere, unde apusul timpuriu este magic.",
+                "fr": "Couvrez-vous chaudement pour les vents glacés du crépuscule à ce point de vue, où le coucher de soleil précoce crée un panorama givré et magique."
               }
             }
           ]
@@ -416,7 +461,8 @@
             "de": "Chapelle Saint-Clément",
             "hu": "Chapelle Saint-Clément",
             "ro": "Chapelle Saint-Clément",
-            "en": "Chapelle Saint-Clément"
+            "en": "Chapelle Saint-Clément",
+            "fr": "Chapelle Saint-Clément"
           },
           "coords": [
             5.730335,
@@ -431,7 +477,8 @@
             "de": "Besuchen Sie diese abgelegene historische Kapelle, die einen ruhigen Einblick in lokale spirituelle Traditionen bietet, und machen Sie einen entspannten Spaziergang.",
             "hu": "Látogasson el ebbe az eldugott történelmi kápolnába, amely csendes bepillantást enged a helyi spirituális hagyományokba, és tegyen egy pihentető sétát a zöldellő környezetben.",
             "ro": "Vizitați această capelă istorică retrasă care oferă o privire liniștită asupra tradițiilor spirituale locale și faceți o plimbare relaxantă prin împrejurimile sale verzi.",
-            "en": "Visit this secluded historic chapel that offers a quiet glimpse into local spiritual traditions, and take a relaxing stroll around its remarkably peaceful green surroundings."
+            "en": "Visit this secluded historic chapel that offers a quiet glimpse into local spiritual traditions, and take a relaxing stroll around its remarkably peaceful green surroundings.",
+            "fr": "Visitez cette chapelle historique isolée qui offre un aperçu tranquille des traditions spirituelles locales, et faites une promenade relaxante autour de ses environs verts remarquablement paisibles."
           }
         },
         {
@@ -439,7 +486,8 @@
             "de": "La Grange aux Arts",
             "hu": "La Grange aux Arts",
             "ro": "La Grange aux Arts",
-            "en": "La Grange aux Arts"
+            "en": "La Grange aux Arts",
+            "fr": "La Grange aux Arts"
           },
           "coords": [
             5.764958,
@@ -454,7 +502,8 @@
             "de": "Entdecken Sie die regionale Kunst in diesem charmanten Museum, dessen vielfältige Ausstellungen lokales Talent zeigen, also prüfen Sie vorab das Programm.",
             "hu": "Fedezze fel a regionális művészetet ebben a hangulatos múzeumban, ahol a kiállítások helyi tehetségeket mutatnak be, ezért érkezés előtt ellenőrizze a programot.",
             "ro": "Descoperiți arta regională în acest muzeu fermecător, unde expozițiile prezintă talentul local, așa că verificați programul rotativ înainte de a vizita.",
-            "en": "Discover regional artistry in this charming museum, where diverse exhibitions showcase local talent, so check their rotating schedule before visiting."
+            "en": "Discover regional artistry in this charming museum, where diverse exhibitions showcase local talent, so check their rotating schedule before visiting.",
+            "fr": "Découvrez l'art régional dans ce charmant musée, où des expositions variées mettent en valeur les talents locaux ; vérifiez leur programmation itinérante avant de visiter."
           }
         },
         {
@@ -462,7 +511,8 @@
             "de": "Kirche Saint-Dagobert",
             "hu": "Szent Dagobert-templom",
             "ro": "Biserica Saint-Dagobert",
-            "en": "Church of Saint-Dagobert"
+            "en": "Church of Saint-Dagobert",
+            "fr": "Église Saint-Dagobert"
           },
           "coords": [
             5.762057,
@@ -477,7 +527,8 @@
             "de": "Bewundern Sie die markante Architektur dieser historischen Kirche, die das religiöse Erbe der Stadt wunderschön widerspiegelt, und genießen Sie das ruhige Innere.",
             "hu": "Csodálja meg e történelmi templom lenyűgöző építészetét, amely gyönyörűen tükrözi a város vallási örökségét, és töltsön el egy percet a békés belső térben.",
             "ro": "Admirați arhitectura impresionantă a acestei biserici istorice, care reflectă minunat moștenirea religioasă a orașului, și bucurați-vă de interiorul său liniștit.",
-            "en": "Admire the striking architecture of this historic church, which beautifully reflects the city's religious heritage, and take a moment to enjoy its peaceful interior."
+            "en": "Admire the striking architecture of this historic church, which beautifully reflects the city's religious heritage, and take a moment to enjoy its peaceful interior.",
+            "fr": "Admirez l'architecture saisissante de cette église historique, qui reflète magnifiquement le patrimoine religieux de la ville, et prenez un moment pour apprécier son intérieur paisible."
           }
         },
         {
@@ -485,7 +536,8 @@
             "de": "Musée des émaux et faïences",
             "hu": "Musée des émaux et faïences",
             "ro": "Musée des émaux et faïences",
-            "en": "Musée des émaux et faïences"
+            "en": "Musée des émaux et faïences",
+            "fr": "Musée des émaux et faïences"
           },
           "coords": [
             5.763368,
@@ -500,7 +552,8 @@
             "de": "Tauchen Sie in diesem umfassenden Museum in die berühmte Emaille- und Keramikgeschichte von Longwy ein und betrachten Sie die filigranen Cloisonné-Techniken genau.",
             "hu": "Merüljön el Longwy híres zománc- és kerámiatörténetében ebben a múzeumban, és mindenképpen vizsgálja meg közelebbről a kiállított bonyolult cloisonné technikákat.",
             "ro": "Aprofundați istoria faimosului email și a ceramicii din Longwy la acest muzeu și asigurați-vă că priviți îndeaproape tehnicile complexe de cloisonné expuse.",
-            "en": "Delve into Longwy's famous enamel and ceramics history at this comprehensive museum, and make sure to look closely at the intricate cloisonné techniques on display."
+            "en": "Delve into Longwy's famous enamel and ceramics history at this comprehensive museum, and make sure to look closely at the intricate cloisonné techniques on display.",
+            "fr": "Plongez dans la célèbre histoire des émaux et céramiques de Longwy dans ce musée complet, et assurez-vous d'observer de près les techniques de cloisonné riches en détails exposées."
           }
         },
         {
@@ -508,7 +561,8 @@
             "de": "Porte de France",
             "hu": "Porte de France",
             "ro": "Porte de France",
-            "en": "Porte de France"
+            "en": "Porte de France",
+            "fr": "Porte de France"
           },
           "coords": [
             5.763077,
@@ -523,7 +577,8 @@
             "de": "Schreiten Sie durch dieses von Vauban entworfene monumentale Tor, ein brillantes Stück Militärgeschichte, und bringen Sie Ihre Kamera für das beeindruckende Bauwerk mit.",
             "hu": "Sétáljon át ezen a Vauban által tervezett monumentális kapun, amely a hadtörténet ragyogó darabja, és hozzon fényképezőgépet a lenyűgöző erődített szerkezet megörökítéséhez.",
             "ro": "Pășiți prin această poartă monumentală proiectată de Vauban, o piesă strălucitoare de istorie militară, și aduceți aparatul foto pentru a surprinde structura fortificată.",
-            "en": "Walk through this monumental gate designed by Vauban, a brilliant piece of military history, and bring your camera to capture its impressive fortified structure."
+            "en": "Walk through this monumental gate designed by Vauban, a brilliant piece of military history, and bring your camera to capture its impressive fortified structure.",
+            "fr": "Traversez cette porte monumentale dessinée par Vauban, une brillante pièce d'histoire militaire, et prenez votre appareil photo pour capturer sa structure fortifiée impressionnante."
           }
         },
         {
@@ -531,7 +586,8 @@
             "de": "Le vieux château",
             "hu": "Le vieux château",
             "ro": "Le vieux château",
-            "en": "Le vieux château"
+            "en": "Le vieux château",
+            "fr": "Le vieux château"
           },
           "coords": [
             5.76251,
@@ -546,7 +602,8 @@
             "de": "Erkunden Sie die stimmungsvollen Ruinen des alten Schlosses, die auf die mittelalterliche Vergangenheit der Stadt hindeuten, und tragen Sie bequeme Wanderschuhe.",
             "hu": "Fedezze fel a régi kastély hangulatos romjait, amelyek a város középkori múltjára utalnak, és viseljen kényelmes cipőt, mivel a környező talaj egyenetlen lehet.",
             "ro": "Explorați ruinele pline de atmosferă ale vechiului castel care amintesc de trecutul medieval și purtați încălțăminte confortabilă, deoarece terenul poate fi denivelat.",
-            "en": "Explore the atmospheric ruins of the old castle that hint at the town's medieval past, and wear comfortable walking shoes as the surrounding grounds can be uneven."
+            "en": "Explore the atmospheric ruins of the old castle that hint at the town's medieval past, and wear comfortable walking shoes as the surrounding grounds can be uneven.",
+            "fr": "Explorez les ruines atmosphériques de l'ancien château qui évoquent le passé médiéval de la ville, et portez des chaussures de marche confortables car les terrains alentour peuvent être irréguliers."
           }
         },
         {
@@ -554,7 +611,8 @@
             "de": "Église de la Sainte-Trinité",
             "hu": "Église de la Sainte-Trinité",
             "ro": "Église de la Sainte-Trinité",
-            "en": "Église de la Sainte-Trinité"
+            "en": "Église de la Sainte-Trinité",
+            "fr": "Église de la Sainte-Trinité"
           },
           "coords": [
             5.76613,
@@ -569,7 +627,8 @@
             "de": "Betreten Sie diese bezaubernde Kirche, um ihre ruhige Atmosphäre und unaufdringliche Schönheit zu schätzen, ein perfekter Ort für stille Reflexion an Ihrem geschäftigen Tag.",
             "hu": "Lépjen be ebbe a bájos templomba, hogy értékelje nyugodt légkörét és visszafogott szépségét, amely tökéletes hely a csendes elmélkedésre a sűrű nap során.",
             "ro": "Pășiți în această biserică fermecătoare pentru a aprecia atmosfera sa senină și frumusețea discretă, fiind un loc perfect pentru reflecție liniștită în timpul zilei.",
-            "en": "Step inside this charming church to appreciate its serene atmosphere and understated beauty, making it a perfect spot for quiet reflection during your busy day."
+            "en": "Step inside this charming church to appreciate its serene atmosphere and understated beauty, making it a perfect spot for quiet reflection during your busy day.",
+            "fr": "Pénétrez dans cette charmante église pour apprécier son atmosphère sereine et sa beauté discrète, en faisant un lieu parfait pour une réflexion calme pendant votre journée chargée."
           }
         },
         {
@@ -577,7 +636,8 @@
             "de": "Le Belvédère",
             "hu": "Le Belvédère",
             "ro": "Le Belvédère",
-            "en": "Le Belvédère"
+            "en": "Le Belvédère",
+            "fr": "Le Belvédère"
           },
           "coords": [
             5.765198,
@@ -592,7 +652,8 @@
             "de": "Beenden Sie Ihre Tour mit einem weiten Panoramablick auf das gesamte Tal von diesem erhöhten natürlichen Aussichtspunkt, der der ideale Ort für spektakuläre Sonnenuntergangsfotos ist.",
             "hu": "Zárja túráját a völgyre nyíló elsöprő panorámával erről a magasan fekvő, természetes kilátópontról, amely ideális helyszín a látványos naplemente fotók elkészítéséhez.",
             "ro": "Încheiați-vă turul cu vederi panoramice ample asupra întregii văi de pe acest punct de belvedere natural elevat, fiind locul ideal pentru fotografii spectaculoase la apus.",
-            "en": "Conclude your tour with sweeping panoramic views of the entire valley from this elevated natural vantage point, making it the ideal spot for spectacular sunset photos."
+            "en": "Conclude your tour with sweeping panoramic views of the entire valley from this elevated natural vantage point, making it the ideal spot for spectacular sunset photos.",
+            "fr": "Concluez votre visite par de vastes vues panoramiques sur toute la vallée depuis ce point de vue naturel élevé, idéal pour des photos spectaculaires au coucher du soleil."
           }
         }
       ],
@@ -600,7 +661,8 @@
         "de": "Starten Sie Ihren Tag mit einer friedlichen Radtour zur abgelegenen Kapelle, bevor Sie ins Zentrum fahren, um lokale Kunst zu bewundern.\n\nGegen Mittag radeln Sie zum ikonischen Emaille-Museum und fahren durch Vaubans historisches befestigtes Tor.\n\nVerbringen Sie den Nachmittag damit, die faszinierenden alten Burgruinen zu erkunden und einen kurzen Stopp in der charmanten nahegelegenen Kirche einzulegen.\n\nIhr Abend endet mit einer malerischen Fahrt hinauf zum Aussichtspunkt, wo der Sonnenuntergang die Natur perfekt in Szene setzt.",
         "hu": "Indítsa a napot egy békés kerékpártúrával a félreeső kápolnához, mielőtt visszatérne a városközpontba a helyi művészetek megcsodálására.\n\nDél körül tekerjen az ikonikus zománcmúzeum felé, és haladjon át Vauban történelmi erődített kapuján.\n\nTöltse a délutánt a lenyűgöző régi kastélyromok felfedezésével, majd álljon meg egy pillanatra a közeli bájos templomnál.\n\nAz este egy festői utazással zárul a kilátóhoz, ahol a naplemente tökéletesen kiemeli a gyönyörű természeti tájat.",
         "ro": "Începeți-vă ziua cu o plimbare liniștită cu bicicleta la capela retrasă înainte de a vă întoarce în centrul orașului pentru artă locală.\n\nSpre prânz, pedalați către muzeul emblematic de email și treceți prin poarta fortificată istorică a lui Vauban.\n\nPetreceți după-amiaza explorând ruinele intrigante ale vechiului castel și făcând o scurtă oprire la fermecătoarea biserică din apropiere.\n\nSeara se încheie cu o plimbare pitorească până la punctul de belvedere, unde apusul evidențiază peisajul natural superb.",
-        "en": "Kick off your day with a peaceful bike ride to the secluded chapel before heading back to the city center to admire local art.\n\nBy midday, cycle towards the iconic enamel museum and pedal through Vauban’s historic fortified gate.\n\nSpend the afternoon exploring the intriguing old castle ruins and making a quick stop at the charming nearby church.\n\nYour evening concludes with a scenic ride up to the viewpoint, where the sunset perfectly highlights the beautiful natural landscape."
+        "en": "Kick off your day with a peaceful bike ride to the secluded chapel before heading back to the city center to admire local art.\n\nBy midday, cycle towards the iconic enamel museum and pedal through Vauban’s historic fortified gate.\n\nSpend the afternoon exploring the intriguing old castle ruins and making a quick stop at the charming nearby church.\n\nYour evening concludes with a scenic ride up to the viewpoint, where the sunset perfectly highlights the beautiful natural landscape.",
+        "fr": "Commencez votre journée par une balade à vélo paisible jusqu'à la chapelle isolée avant de retourner au centre-ville pour admirer l'art local.\n\nÀ midi, pédalez vers l'emblématique musée des émaux et traversez à vélo la porte fortifiée de Vauban.\n\nPassez l'après-midi à explorer les ruines intrigantes de l'ancien château et faites un arrêt rapide à la charmante église voisine.\n\nVotre soirée se termine par une montée pittoresque jusqu'au belvédère, où le coucher de soleil met parfaitement en valeur le beau paysage naturel."
       },
       "variants": {
         "rainy": {
@@ -608,7 +670,8 @@
             "en": "Cycle carefully to Chapelle Saint-Clément as the morning rain starts. Midday brings indoor cultural breaks at La Grange aux Arts, Saint-Dagobert, and the enamel museum, perfect for drying off. Afternoon showers require waterproof gear as you ride to Porte de France and the old castle. End the wet evening riding to Trinity Church and Le Belvédère, watching out for slippery leaves.",
             "hu": "Óvatosan tekerjen a Chapelle Saint-Clément-hoz a reggeli esőben. A dél csapadékos óráit a La Grange aux Arts, a Szent Dagobert és a zománcmúzeum falai között, szárazon töltheti. Délután vegyen fel esőruhát a Porte de France és a régi kastély felé vezető úton. Az estét a Szentháromság-templomnál és a Le Belvédère csúszós falevelekkel borított kilátójánál zárja.",
             "de": "Radeln Sie bei morgendlichem Regen vorsichtig zur Chapelle Saint-Clément. Mittags bieten La Grange aux Arts, Saint-Dagobert und das Emaille-Museum trockene, kulturelle Pausen. Nachmittags ist regenfeste Kleidung für die Fahrt zur Porte de France und zum alten Schloss unerlässlich. Beenden Sie den nassen Abend an der Dreifaltigkeitskirche und am Belvédère, achten Sie auf rutschiges Laub.",
-            "ro": "Pedalați cu grijă spre Chapelle Saint-Clément în ploaia de dimineață. La prânz, La Grange aux Arts, Saint-Dagobert și muzeul emailurilor oferă pauze culturale uscate. Aversele de după-amiază necesită echipament impermeabil pe drumul spre Porte de France și castel. Încheiați seara umedă la Biserica Sfintei Treimi și Le Belvédère, ferindu-vă de frunzele alunecoase."
+            "ro": "Pedalați cu grijă spre Chapelle Saint-Clément în ploaia de dimineață. La prânz, La Grange aux Arts, Saint-Dagobert și muzeul emailurilor oferă pauze culturale uscate. Aversele de după-amiază necesită echipament impermeabil pe drumul spre Porte de France și castel. Încheiați seara umedă la Biserica Sfintei Treimi și Le Belvédère, ferindu-vă de frunzele alunecoase.",
+            "fr": "Pédalez prudemment jusqu'à la Chapelle Saint-Clément alors que la pluie matinale commence. À midi, des pauses culturelles en intérieur à La Grange aux Arts, Saint-Dagobert et le musée des émaux sont idéales pour vous sécher. Les averses de l'après-midi exigent un équipement imperméable pour rejoindre la Porte de France et le vieux château. Terminez la soirée humide en roulant vers l'église de la Trinité et Le Belvédère, en faisant attention aux feuilles glissantes."
           },
           "stops": [
             {
@@ -616,13 +679,15 @@
                 "de": "Chapelle Saint-Clément",
                 "hu": "Chapelle Saint-Clément",
                 "ro": "Chapelle Saint-Clément",
-                "en": "Chapelle Saint-Clément"
+                "en": "Chapelle Saint-Clément",
+                "fr": "Chapelle Saint-Clément"
               },
               "tip_5lang": {
                 "en": "Put on your rain pants and brake early on the wet pavement as you approach this peaceful historic chapel.",
                 "hu": "Vegye fel az esőnadrágot, és fékezzen korán a vizes burkolaton, amikor megközelíti ezt a békés történelmi kápolnát.",
                 "de": "Ziehen Sie Ihre Regenhose an und bremsen Sie früh auf dem nassen Pflaster, wenn Sie sich dieser friedlichen Kapelle nähern.",
-                "ro": "Puneți-vă pantalonii de ploaie și frânați devreme pe pavajul umed în timp ce vă apropiați de această capelă istorică."
+                "ro": "Puneți-vă pantalonii de ploaie și frânați devreme pe pavajul umed în timp ce vă apropiați de această capelă istorică.",
+                "fr": "Enfilez votre pantalon de pluie et freinez tôt sur le revêtement mouillé en approchant de cette chapelle historique et paisible."
               }
             },
             {
@@ -630,13 +695,15 @@
                 "de": "La Grange aux Arts",
                 "hu": "La Grange aux Arts",
                 "ro": "La Grange aux Arts",
-                "en": "La Grange aux Arts"
+                "en": "La Grange aux Arts",
+                "fr": "La Grange aux Arts"
               },
               "tip_5lang": {
                 "en": "Lock your bike under a nearby tree and step inside to enjoy contemporary art, completely sheltered from the rain.",
                 "hu": "Zárja le kerékpárját egy közeli fa alatt, és élvezze az esőtől teljesen védett kortárs művészetet odabent.",
                 "de": "Schließen Sie Ihr Rad unter einem Baum ab und genießen Sie die zeitgenössische Kunst völlig regengeschützt drinnen.",
-                "ro": "Legați bicicleta sub un copac din apropiere și intrați pentru a vă bucura de arta contemporană la adăpost de ploaie."
+                "ro": "Legați bicicleta sub un copac din apropiere și intrați pentru a vă bucura de arta contemporană la adăpost de ploaie.",
+                "fr": "Attachez votre vélo sous un arbre proche et entrez pour profiter de l'art contemporain, complètement à l'abri de la pluie."
               }
             },
             {
@@ -644,13 +711,15 @@
                 "de": "Kirche Saint-Dagobert",
                 "hu": "Szent Dagobert-templom",
                 "ro": "Biserica Saint-Dagobert",
-                "en": "Church of Saint-Dagobert"
+                "en": "Church of Saint-Dagobert",
+                "fr": "Église Saint-Dagobert"
               },
               "tip_5lang": {
                 "en": "After a wet ride, the church's sturdy roof offers a dry haven to study its architecture in peace.",
                 "hu": "Egy vizes tekerés után a templom masszív teteje száraz menedéket nyújt az építészet békés tanulmányozásához.",
                 "de": "Nach einer nassen Fahrt bietet das Dach der Kirche einen trockenen Ort, um die Architektur in Ruhe zu studieren.",
-                "ro": "După o cursă umedă, acoperișul solid al bisericii oferă un refugiu uscat pentru a-i studia arhitectura în pace."
+                "ro": "După o cursă umedă, acoperișul solid al bisericii oferă un refugiu uscat pentru a-i studia arhitectura în pace.",
+                "fr": "Après une balade mouillée, le toit solide de l'église offre un havre sec pour étudier son architecture en paix."
               }
             },
             {
@@ -658,13 +727,15 @@
                 "de": "Musée des émaux et faïences",
                 "hu": "Musée des émaux et faïences",
                 "ro": "Musée des émaux et faïences",
-                "en": "Musée des émaux et faïences"
+                "en": "Musée des émaux et faïences",
+                "fr": "Musée des émaux et faïences"
               },
               "tip_5lang": {
                 "en": "Dry off while spending extra time exploring the exquisite enamels indoors during the heaviest showers.",
                 "hu": "Száradjon meg, miközben extra időt tölt a gyönyörű zománcok beltéri felfedezésével a legnagyobb záporok idején.",
                 "de": "Trocknen Sie sich auf und verbringen Sie bei starken Schauern extra Zeit mit den exquisiten Emaillearbeiten drinnen.",
-                "ro": "Uscați-vă petrecând timp suplimentar explorând emailurile rafinate în interior în timpul celor mai puternice averse."
+                "ro": "Uscați-vă petrecând timp suplimentar explorând emailurile rafinate în interior în timpul celor mai puternice averse.",
+                "fr": "Séchez-vous en passant plus de temps à explorer les émaux exquis à l'intérieur pendant les fortes averses."
               }
             },
             {
@@ -672,13 +743,15 @@
                 "de": "Porte de France",
                 "hu": "Porte de France",
                 "ro": "Porte de France",
-                "en": "Porte de France"
+                "en": "Porte de France",
+                "fr": "Porte de France"
               },
               "tip_5lang": {
                 "en": "Be very careful cycling over the wet cobblestones around this historic gate, as they can be extremely slippery.",
                 "hu": "Nagyon óvatosan tekerjen át a nedves macskaköveken a történelmi kapu körül, mert rendkívül csúszósak lehetnek.",
                 "de": "Radeln Sie sehr vorsichtig über das nasse Kopfsteinpflaster an diesem historischen Tor, da es extrem rutschig ist.",
-                "ro": "Pedalați cu mare atenție pe piatra cubică umedă din jurul acestei porți istorice, deoarece poate fi foarte alunecoasă."
+                "ro": "Pedalați cu mare atenție pe piatra cubică umedă din jurul acestei porți istorice, deoarece poate fi foarte alunecoasă.",
+                "fr": "Soyez très prudent en cyclant sur les pavés mouillés autour de cette porte historique, car ils peuvent être extrêmement glissants."
               }
             },
             {
@@ -686,13 +759,15 @@
                 "de": "Le vieux château",
                 "hu": "Le vieux château",
                 "ro": "Le vieux château",
-                "en": "Le vieux château"
+                "en": "Le vieux château",
+                "fr": "Le vieux château"
               },
               "tip_5lang": {
                 "en": "Leave your bike at the entrance and walk the muddy paths in waterproof boots to explore the ruins.",
                 "hu": "Hagyja a biciklit a bejáratnál, és vízálló csizmában sétáljon a sáros ösvényeken a romok felfedezéséhez.",
                 "de": "Lassen Sie Ihr Rad am Eingang und gehen Sie in wasserdichten Schuhen über die schlammigen Wege zu den Ruinen.",
-                "ro": "Lăsați bicicleta la intrare și mergeți pe potecile noroioase în cizme impermeabile pentru a explora ruinele."
+                "ro": "Lăsați bicicleta la intrare și mergeți pe potecile noroioase în cizme impermeabile pentru a explora ruinele.",
+                "fr": "Laissez votre vélo à l'entrée et parcourez les sentiers boueux en bottes imperméables pour explorer les ruines."
               }
             },
             {
@@ -700,13 +775,15 @@
                 "de": "Église de la Sainte-Trinité",
                 "hu": "Église de la Sainte-Trinité",
                 "ro": "Église de la Sainte-Trinité",
-                "en": "Église de la Sainte-Trinité"
+                "en": "Église de la Sainte-Trinité",
+                "fr": "Église de la Sainte-Trinité"
               },
               "tip_5lang": {
                 "en": "Seek refuge in this quiet church to warm your damp hands and enjoy the peaceful, rain-sheltered ambiance.",
                 "hu": "Keressen menedéket a csendes templomban, hogy felmelegítse nyirkos kezét, és élvezze az esőtől védett békét.",
                 "de": "Suchen Sie Zuflucht in dieser ruhigen Kirche, um Ihre klammen Hände zu wärmen und die regengeschützte Ruhe zu genießen.",
-                "ro": "Căutați refugiu în această biserică liniștită pentru a vă încălzi mâinile umede și a vă bucura de liniștea ferită de ploaie."
+                "ro": "Căutați refugiu în această biserică liniștită pentru a vă încălzi mâinile umede și a vă bucura de liniștea ferită de ploaie.",
+                "fr": "Recherchez refuge dans cette église paisible pour réchauffer vos mains humides et profiter de l'ambiance tranquille à l'abri de la pluie."
               }
             },
             {
@@ -714,13 +791,15 @@
                 "de": "Le Belvédère",
                 "hu": "Le Belvédère",
                 "ro": "Le Belvédère",
-                "en": "Le Belvédère"
+                "en": "Le Belvédère",
+                "fr": "Le Belvédère"
               },
               "tip_5lang": {
                 "en": "The panoramic view is dramatic, but secure your bike well as it gets very windy and wet at the edge.",
                 "hu": "A panoráma drámai, de rögzítse jól a kerékpárját, mert a peremen nagyon szeles és csapadékos lehet az idő.",
                 "de": "Der Panoramablick ist dramatisch, aber sichern Sie Ihr Rad gut, da es am Rand sehr windig und nass wird.",
-                "ro": "Priveliștea panoramică este dramatică, dar asigurați-vă bine bicicleta, deoarece la margine devine vântos și umed."
+                "ro": "Priveliștea panoramică este dramatică, dar asigurați-vă bine bicicleta, deoarece la margine devine vântos și umed.",
+                "fr": "La vue panoramique est spectaculaire, mais attachez bien votre vélo car il devient très venteux et humide au bord."
               }
             }
           ]
@@ -730,7 +809,8 @@
             "en": "Start your chilly bike ride to Chapelle Saint-Clément with thermal layers. By noon, thaw out inside La Grange aux Arts, Saint-Dagobert, and the enamel museum. The afternoon gets colder, so keep moving briskly to Porte de France and the old castle. As sunset hits early, use your bike lights to navigate to Trinity Church and Le Belvédère in the frosty twilight.",
             "hu": "Induljon a hideg reggeli tekerésre a Chapelle Saint-Clément-hoz meleg rétegekben. Délben engedjen fel a La Grange aux Arts, a Szent Dagobert és a zománcmúzeum fűtött tereiben. A fagyos délutánon haladjon tempósan a Porte de France és az öreg kastély felé. A korai sötétedés miatt kapcsolja be lámpáit, amikor a Szentháromság-templomhoz és a Le Belvédère-hez ér.",
             "de": "Beginnen Sie Ihre kühle Radtour zur Chapelle Saint-Clément mit dicker Thermokleidung. Mittags wärmen Sie sich in der La Grange aux Arts, Saint-Dagobert und im Emaille-Museum auf. Nachmittags wird es kälter, radeln Sie zügig zur Porte de France und zum alten Schloss. Da die Sonne früh untergeht, nutzen Sie Ihr Licht für die Fahrt zur Dreifaltigkeitskirche und zum Belvédère.",
-            "ro": "Începeți plimbarea rece cu bicicleta spre Chapelle Saint-Clément purtând straturi termice. La prânz, dezghețați-vă în La Grange aux Arts, Saint-Dagobert și muzeul emailurilor. După-amiaza devine mai rece, așa că pedalați alert spre Porte de France și vechiul castel. Odată cu apusul timpuriu, aprindeți farurile bicicletei spre Biserica Sfintei Treimi și Le Belvédère."
+            "ro": "Începeți plimbarea rece cu bicicleta spre Chapelle Saint-Clément purtând straturi termice. La prânz, dezghețați-vă în La Grange aux Arts, Saint-Dagobert și muzeul emailurilor. După-amiaza devine mai rece, așa că pedalați alert spre Porte de France și vechiul castel. Odată cu apusul timpuriu, aprindeți farurile bicicletei spre Biserica Sfintei Treimi și Le Belvédère.",
+            "fr": "Commencez votre balade à vélo dans le froid vers la Chapelle Saint-Clément en portant des couches thermiques. À midi, réchauffez-vous à l'intérieur de La Grange aux Arts, de Saint-Dagobert et du musée des émaux. L'après-midi devient plus froid, gardez un rythme soutenu pour rejoindre la Porte de France et le vieux château. Comme le soleil se couche tôt, utilisez vos lumières de vélo pour vous rendre à l'Église de la Sainte-Trinité et au Belvédère dans la froideur du crépuscule."
           },
           "stops": [
             {
@@ -738,13 +818,15 @@
                 "de": "Chapelle Saint-Clément",
                 "hu": "Chapelle Saint-Clément",
                 "ro": "Chapelle Saint-Clément",
-                "en": "Chapelle Saint-Clément"
+                "en": "Chapelle Saint-Clément",
+                "fr": "Chapelle Saint-Clément"
               },
               "tip_5lang": {
                 "en": "Wear a windproof face mask for the brisk morning ride to this peaceful, chilly chapel.",
                 "hu": "Viseljen szélálló maszkot a fagyos reggeli tekeréshez ehhez a békés, hűvös kápolnához.",
                 "de": "Tragen Sie eine winddichte Maske für die kühle Morgenfahrt zu dieser friedlichen, kalten Kapelle.",
-                "ro": "Purtați o mască de față rezistentă la vânt pentru cursa matinală geroasă spre această capelă pașnică."
+                "ro": "Purtați o mască de față rezistentă la vânt pentru cursa matinală geroasă spre această capelă pașnică.",
+                "fr": "Portez un masque coupe-vent pour le visage pour la fraîche balade matinale vers cette chapelle paisible et fraîche."
               }
             },
             {
@@ -752,13 +834,15 @@
                 "de": "La Grange aux Arts",
                 "hu": "La Grange aux Arts",
                 "ro": "La Grange aux Arts",
-                "en": "La Grange aux Arts"
+                "en": "La Grange aux Arts",
+                "fr": "La Grange aux Arts"
               },
               "tip_5lang": {
                 "en": "Park your cold bike and enjoy the heated gallery spaces, taking off your heavy winter layers inside.",
                 "hu": "Parkolja le hideg kerékpárját, és élvezze a fűtött galériatereket, miután levette a vastag téli rétegeket.",
                 "de": "Parken Sie Ihr kaltes Rad und genießen Sie die beheizten Galerien, nachdem Sie die dicken Winterschichten abgelegt haben.",
-                "ro": "Parcați bicicleta rece și bucurați-vă de galeriile încălzite, dând jos straturile groase de iarnă înăuntru."
+                "ro": "Parcați bicicleta rece și bucurați-vă de galeriile încălzite, dând jos straturile groase de iarnă înăuntru.",
+                "fr": "Garez votre vélo froid et profitez des espaces chauffés de la galerie en enlevant vos grosses couches d'hiver à l'intérieur."
               }
             },
             {
@@ -766,13 +850,15 @@
                 "de": "Kirche Saint-Dagobert",
                 "hu": "Szent Dagobert-templom",
                 "ro": "Biserica Saint-Dagobert",
-                "en": "Church of Saint-Dagobert"
+                "en": "Church of Saint-Dagobert",
+                "fr": "Church of Saint-Dagobert"
               },
               "tip_5lang": {
                 "en": "Step inside to escape the biting winter wind from your ride and marvel at the tranquil historical interior.",
                 "hu": "Lépjen be, hogy elmeneküljön a metsző téli szél elől, és csodálja meg a nyugodt történelmi belső teret.",
                 "de": "Treten Sie ein, um dem eisigen Winterwind Ihrer Fahrt zu entkommen und das ruhige historische Innere zu bewundern.",
-                "ro": "Intrați pentru a scăpa de vântul tăios de iarnă al cursei și admirați interiorul istoric liniștit."
+                "ro": "Intrați pentru a scăpa de vântul tăios de iarnă al cursei și admirați interiorul istoric liniștit.",
+                "fr": "Entrez pour échapper au vent hivernal mordant de votre trajet et admirez l'intérieur historique et tranquille."
               }
             },
             {
@@ -780,13 +866,15 @@
                 "de": "Musée des émaux et faïences",
                 "hu": "Musée des émaux et faïences",
                 "ro": "Musée des émaux et faïences",
-                "en": "Musée des émaux et faïences"
+                "en": "Musée des émaux et faïences",
+                "fr": "Musée des émaux et faïences"
               },
               "tip_5lang": {
                 "en": "The museum is a cozy retreat from the freezing cycle, showcasing brilliantly colored ceramics to warm the soul.",
                 "hu": "A múzeum hangulatos menedék a fagyos tekerés után, ahol a ragyogó színű kerámiák felmelegítik a lelket.",
                 "de": "Das Museum ist ein gemütlicher Rückzugsort von der frostigen Fahrt und zeigt farbenfrohe Keramiken für die Seele.",
-                "ro": "Muzeul este un refugiu cald din cursa înghețată, expunând ceramică viu colorată pentru a vă încălzi sufletul."
+                "ro": "Muzeul este un refugiu cald din cursa înghețată, expunând ceramică viu colorată pentru a vă încălzi sufletul.",
+                "fr": "Le musée est un refuge douillet contre le froid du vélo, présentant des céramiques aux couleurs brillantes pour réchauffer l'âme."
               }
             },
             {
@@ -794,13 +882,15 @@
                 "de": "Porte de France",
                 "hu": "Porte de France",
                 "ro": "Porte de France",
-                "en": "Porte de France"
+                "en": "Porte de France",
+                "fr": "Porte de France"
               },
               "tip_5lang": {
                 "en": "The majestic gate looks stunning, but watch out for dangerous icy patches on the bike path near the entrance.",
                 "hu": "A fenséges kapu lenyűgöző, de ügyeljen a kerékpárúton lévő veszélyes jeges foltokra a bejárat közelében.",
                 "de": "Das Tor ist atemberaubend, aber achten Sie auf gefährliche Eisflächen auf dem Radweg in der Nähe des Eingangs.",
-                "ro": "Poarta este uimitoare, dar aveți grijă la peticele periculoase de gheață de pe pista de biciclete de lângă intrare."
+                "ro": "Poarta este uimitoare, dar aveți grijă la peticele periculoase de gheață de pe pista de biciclete de lângă intrare.",
+                "fr": "La porte majestueuse est superbe, mais méfiez-vous des plaques de verglas dangereuses sur la piste cyclable près de l'entrée."
               }
             },
             {
@@ -808,13 +898,15 @@
                 "de": "Le vieux château",
                 "hu": "Le vieux château",
                 "ro": "Le vieux château",
-                "en": "Le vieux château"
+                "en": "Le vieux château",
+                "fr": "Le vieux château"
               },
               "tip_5lang": {
                 "en": "Explore these ruins briskly in the crisp air before sunset, as your body temperature might drop quickly here.",
                 "hu": "Tempósan fedezze fel a romokat a csípős levegőben sötétedés előtt, mert a testhőmérséklete itt gyorsan csökkenhet.",
                 "de": "Erkunden Sie die Ruinen zügig in der klaren Luft vor Sonnenuntergang, da Ihre Körpertemperatur hier schnell sinken kann.",
-                "ro": "Explorați ruinele alert în aerul rece înainte de apus, deoarece temperatura corpului poate scădea rapid aici."
+                "ro": "Explorați ruinele alert în aerul rece înainte de apus, deoarece temperatura corpului poate scădea rapid aici.",
+                "fr": "Explorez ces ruines d'un pas rapide dans l'air vif avant le coucher du soleil, car votre température corporelle peut chuter rapidement ici."
               }
             },
             {
@@ -822,13 +914,15 @@
                 "de": "Église de la Sainte-Trinité",
                 "hu": "Église de la Sainte-Trinité",
                 "ro": "Église de la Sainte-Trinité",
-                "en": "Église de la Sainte-Trinité"
+                "en": "Église de la Sainte-Trinité",
+                "fr": "Église de la Sainte-Trinité"
               },
               "tip_5lang": {
                 "en": "Turn on your bike lights as the early winter night falls, using the church's warmth to rest your freezing feet.",
                 "hu": "Kapcsolja be a kerékpárlámpát, ahogy leszáll a korai téli éjszaka, és használja a templom melegét a pihenésre.",
                 "de": "Schalten Sie Ihr Radlicht ein, wenn die frühe Winternacht fällt, und wärmen Sie Ihre Füße in der Kirche auf.",
-                "ro": "Aprindeți luminile bicicletei la lăsarea nopții timpurii de iarnă, folosind căldura bisericii pentru a vă odihni picioarele."
+                "ro": "Aprindeți luminile bicicletei la lăsarea nopții timpurii de iarnă, folosind căldura bisericii pentru a vă odihni picioarele.",
+                "fr": "Allumez vos lumières de vélo quand la nuit d'hiver tombe tôt, et utilisez la chaleur de l'église pour reposer vos pieds gelés."
               }
             },
             {
@@ -836,13 +930,15 @@
                 "de": "Le Belvédère",
                 "hu": "Le Belvédère",
                 "ro": "Le Belvédère",
-                "en": "Le Belvédère"
+                "en": "Le Belvédère",
+                "fr": "Le Belvédère"
               },
               "tip_5lang": {
                 "en": "Bundle up tightly against the freezing twilight winds at this viewpoint before your dark ride back down.",
                 "hu": "Öltözzön fel szorosan a fagyos alkonyati szelek ellen ezen a kilátón a sötét visszaút előtt.",
                 "de": "Packen Sie sich gegen die eisigen Winde am Aussichtspunkt ein, bevor Sie die dunkle Rückfahrt antreten.",
-                "ro": "Îmbrăcați-vă bine împotriva vânturilor înghețate de crepuscul înainte de cursa întunecată de întoarcere."
+                "ro": "Îmbrăcați-vă bine împotriva vânturilor înghețate de crepuscul înainte de cursa întunecată de întoarcere.",
+                "fr": "Couvrez-vous chaudement contre les vents glacés du crépuscule à ce point de vue avant votre retour sombre."
               }
             }
           ]
@@ -862,7 +958,8 @@
             "de": "Chapelle Saint-Clément",
             "hu": "Chapelle Saint-Clément",
             "ro": "Chapelle Saint-Clément",
-            "en": "Chapelle Saint-Clément"
+            "en": "Chapelle Saint-Clément",
+            "fr": "Chapelle Saint-Clément"
           },
           "coords": [
             5.730335,
@@ -877,7 +974,8 @@
             "de": "Besuchen Sie diese abgelegene historische Kapelle, die einen ruhigen Einblick in lokale spirituelle Traditionen bietet, und machen Sie einen entspannten Spaziergang.",
             "hu": "Látogasson el ebbe az eldugott történelmi kápolnába, amely csendes bepillantást enged a helyi spirituális hagyományokba, és tegyen egy pihentető sétát a zöldellő környezetben.",
             "ro": "Vizitați această capelă istorică retrasă care oferă o privire liniștită asupra tradițiilor spirituale locale și faceți o plimbare relaxantă prin împrejurimile sale verzi.",
-            "en": "Visit this secluded historic chapel that offers a quiet glimpse into local spiritual traditions, and take a relaxing stroll around its remarkably peaceful green surroundings."
+            "en": "Visit this secluded historic chapel that offers a quiet glimpse into local spiritual traditions, and take a relaxing stroll around its remarkably peaceful green surroundings.",
+            "fr": "Visitez cette chapelle historique isolée qui offre un aperçu tranquille des traditions spirituelles locales, et faites une promenade relaxante autour de son cadre vert remarquablement paisible."
           }
         },
         {
@@ -885,7 +983,8 @@
             "de": "La Grange aux Arts",
             "hu": "La Grange aux Arts",
             "ro": "La Grange aux Arts",
-            "en": "La Grange aux Arts"
+            "en": "La Grange aux Arts",
+            "fr": "La Grange aux Arts"
           },
           "coords": [
             5.764958,
@@ -900,7 +999,8 @@
             "de": "Entdecken Sie die regionale Kunst in diesem charmanten Museum, dessen vielfältige Ausstellungen lokales Talent zeigen, also prüfen Sie vorab das Programm.",
             "hu": "Fedezze fel a regionális művészetet ebben a hangulatos múzeumban, ahol a kiállítások helyi tehetségeket mutatnak be, ezért érkezés előtt ellenőrizze a programot.",
             "ro": "Descoperiți arta regională în acest muzeu fermecător, unde expozițiile prezintă talentul local, așa că verificați programul rotativ înainte de a vizita.",
-            "en": "Discover regional artistry in this charming museum, where diverse exhibitions showcase local talent, so check their rotating schedule before visiting."
+            "en": "Discover regional artistry in this charming museum, where diverse exhibitions showcase local talent, so check their rotating schedule before visiting.",
+            "fr": "Découvrez l'art régional dans ce charmant musée, où des expositions variées mettent en valeur les talents locaux ; consultez leur programmation tournante avant de visiter."
           }
         },
         {
@@ -908,7 +1008,8 @@
             "de": "Musée des émaux et faïences",
             "hu": "Musée des émaux et faïences",
             "ro": "Musée des émaux et faïences",
-            "en": "Musée des émaux et faïences"
+            "en": "Musée des émaux et faïences",
+            "fr": "Musée des émaux et faïences"
           },
           "coords": [
             5.763368,
@@ -923,7 +1024,8 @@
             "de": "Tauchen Sie in diesem umfassenden Museum in die berühmte Emaille- und Keramikgeschichte von Longwy ein und betrachten Sie die filigranen Cloisonné-Techniken genau.",
             "hu": "Merüljön el Longwy híres zománc- és kerámiatörténetében ebben a múzeumban, és mindenképpen vizsgálja meg közelebbről a kiállított bonyolult cloisonné technikákat.",
             "ro": "Aprofundați istoria faimosului email și a ceramicii din Longwy la acest muzeu și asigurați-vă că priviți îndeaproape tehnicile complexe de cloisonné expuse.",
-            "en": "Delve into Longwy's famous enamel and ceramics history at this comprehensive museum, and make sure to look closely at the intricate cloisonné techniques on display."
+            "en": "Delve into Longwy's famous enamel and ceramics history at this comprehensive museum, and make sure to look closely at the intricate cloisonné techniques on display.",
+            "fr": "Plongez dans l'histoire célèbre des émaux et céramiques de Longwy dans ce musée complet, et prenez le temps d'observer de près les techniques de cloisonné exposées."
           }
         },
         {
@@ -931,7 +1033,8 @@
             "de": "Porte de France",
             "hu": "Porte de France",
             "ro": "Porte de France",
-            "en": "Porte de France"
+            "en": "Porte de France",
+            "fr": "Porte de France"
           },
           "coords": [
             5.763077,
@@ -946,7 +1049,8 @@
             "de": "Schreiten Sie durch dieses von Vauban entworfene monumentale Tor, ein brillantes Stück Militärgeschichte, und bringen Sie Ihre Kamera für das beeindruckende Bauwerk mit.",
             "hu": "Sétáljon át ezen a Vauban által tervezett monumentális kapun, amely a hadtörténet ragyogó darabja, és hozzon fényképezőgépet a lenyűgöző erődített szerkezet megörökítéséhez.",
             "ro": "Pășiți prin această poartă monumentală proiectată de Vauban, o piesă strălucitoare de istorie militară, și aduceți aparatul foto pentru a surprinde structura fortificată.",
-            "en": "Walk through this monumental gate designed by Vauban, a brilliant piece of military history, and bring your camera to capture its impressive fortified structure."
+            "en": "Walk through this monumental gate designed by Vauban, a brilliant piece of military history, and bring your camera to capture its impressive fortified structure.",
+            "fr": "Parcourez cette porte monumentale conçue par Vauban, un brillant exemple d'histoire militaire, et prenez votre appareil photo pour capturer sa structure fortifiée impressionnante."
           }
         },
         {
@@ -954,7 +1058,8 @@
             "de": "Kirche Saint-Dagobert",
             "hu": "Szent Dagobert-templom",
             "ro": "Biserica Saint-Dagobert",
-            "en": "Church of Saint-Dagobert"
+            "en": "Church of Saint-Dagobert",
+            "fr": "Church of Saint-Dagobert"
           },
           "coords": [
             5.762057,
@@ -969,7 +1074,8 @@
             "de": "Bewundern Sie die markante Architektur dieser historischen Kirche, die das religiöse Erbe der Stadt wunderschön widerspiegelt, und genießen Sie das ruhige Innere.",
             "hu": "Csodálja meg e történelmi templom lenyűgöző építészetét, amely gyönyörűen tükrözi a város vallási örökségét, és töltsön el egy percet a békés belső térben.",
             "ro": "Admirați arhitectura impresionantă a acestei biserici istorice, care reflectă minunat moștenirea religioasă a orașului, și bucurați-vă de interiorul său liniștit.",
-            "en": "Admire the striking architecture of this historic church, which beautifully reflects the city's religious heritage, and take a moment to enjoy its peaceful interior."
+            "en": "Admire the striking architecture of this historic church, which beautifully reflects the city's religious heritage, and take a moment to enjoy its peaceful interior.",
+            "fr": "Admirez l'architecture saisissante de cette église historique, qui reflète magnifiquement le patrimoine religieux de la ville, et prenez un moment pour profiter de son intérieur paisible."
           }
         },
         {
@@ -977,7 +1083,8 @@
             "de": "Le vieux château",
             "hu": "Le vieux château",
             "ro": "Le vieux château",
-            "en": "Le vieux château"
+            "en": "Le vieux château",
+            "fr": "Le vieux château"
           },
           "coords": [
             5.76251,
@@ -992,7 +1099,8 @@
             "de": "Erkunden Sie die stimmungsvollen Ruinen des alten Schlosses, die auf die mittelalterliche Vergangenheit der Stadt hindeuten, und tragen Sie bequeme Wanderschuhe.",
             "hu": "Fedezze fel a régi kastély hangulatos romjait, amelyek a város középkori múltjára utalnak, és viseljen kényelmes cipőt, mivel a környező talaj egyenetlen lehet.",
             "ro": "Explorați ruinele pline de atmosferă ale vechiului castel care amintesc de trecutul medieval și purtați încălțăminte confortabilă, deoarece terenul poate fi denivelat.",
-            "en": "Explore the atmospheric ruins of the old castle that hint at the town's medieval past, and wear comfortable walking shoes as the surrounding grounds can be uneven."
+            "en": "Explore the atmospheric ruins of the old castle that hint at the town's medieval past, and wear comfortable walking shoes as the surrounding grounds can be uneven.",
+            "fr": "Explorez les ruines atmosphériques du vieux château qui évoquent le passé médiéval de la ville, et portez des chaussures de marche confortables car le terrain alentour peut être irrégulier."
           }
         },
         {
@@ -1000,7 +1108,8 @@
             "de": "Église de la Sainte-Trinité",
             "hu": "Église de la Sainte-Trinité",
             "ro": "Église de la Sainte-Trinité",
-            "en": "Église de la Sainte-Trinité"
+            "en": "Église de la Sainte-Trinité",
+            "fr": "Église de la Sainte-Trinité"
           },
           "coords": [
             5.76613,
@@ -1015,7 +1124,8 @@
             "de": "Betreten Sie diese bezaubernde Kirche, um ihre ruhige Atmosphäre und unaufdringliche Schönheit zu schätzen, ein perfekter Ort für stille Reflexion an Ihrem geschäftigen Tag.",
             "hu": "Lépjen be ebbe a bájos templomba, hogy értékelje nyugodt légkörét és visszafogott szépségét, amely tökéletes hely a csendes elmélkedésre a sűrű nap során.",
             "ro": "Pășiți în această biserică fermecătoare pentru a aprecia atmosfera sa senină și frumusețea discretă, fiind un loc perfect pentru reflecție liniștită în timpul zilei.",
-            "en": "Step inside this charming church to appreciate its serene atmosphere and understated beauty, making it a perfect spot for quiet reflection during your busy day."
+            "en": "Step inside this charming church to appreciate its serene atmosphere and understated beauty, making it a perfect spot for quiet reflection during your busy day.",
+            "fr": "Entrez dans cette charmante église pour apprécier son atmosphère sereine et sa beauté discrète, en faisant un endroit parfait pour la réflexion silencieuse pendant votre journée chargée."
           }
         },
         {
@@ -1023,7 +1133,8 @@
             "de": "Le Belvédère",
             "hu": "Le Belvédère",
             "ro": "Le Belvédère",
-            "en": "Le Belvédère"
+            "en": "Le Belvédère",
+            "fr": "Le Belvédère"
           },
           "coords": [
             5.765198,
@@ -1038,7 +1149,8 @@
             "de": "Beenden Sie Ihre Tour mit einem weiten Panoramablick auf das gesamte Tal von diesem erhöhten natürlichen Aussichtspunkt, der der ideale Ort für spektakuläre Sonnenuntergangsfotos ist.",
             "hu": "Zárja túráját a völgyre nyíló elsöprő panorámával erről a magasan fekvő, természetes kilátópontról, amely ideális helyszín a látványos naplemente fotók elkészítéséhez.",
             "ro": "Încheiați-vă turul cu vederi panoramice ample asupra întregii văi de pe acest punct de belvedere natural elevat, fiind locul ideal pentru fotografii spectaculoase la apus.",
-            "en": "Conclude your tour with sweeping panoramic views of the entire valley from this elevated natural vantage point, making it the ideal spot for spectacular sunset photos."
+            "en": "Conclude your tour with sweeping panoramic views of the entire valley from this elevated natural vantage point, making it the ideal spot for spectacular sunset photos.",
+            "fr": "Concluez votre visite avec des vues panoramiques à couper le souffle sur toute la vallée depuis ce point naturel en hauteur, un endroit idéal pour des photos spectaculaires du coucher du soleil."
           }
         }
       ],
@@ -1046,7 +1158,8 @@
         "de": "Beginnen Sie Ihre Autotour mit einem Besuch der historischen Kapelle am Stadtrand, gefolgt von einem inspirierenden Stopp im lokalen Kunstzentrum.\n\nIhr Mittagsprogramm bietet einen tiefen Einblick in feine Keramik im Emaille-Museum und einen Spaziergang an den imposanten historischen Stadttoren.\n\nAm Nachmittag parken Sie in der Nähe der alten Burgruine für eine historische Erkundung, bevor Sie die wunderschön friedliche lokale Kirche besuchen.\n\nBeenden Sie den perfekten Tagesausflug mit einer Fahrt zum atemberaubenden Aussichtspunkt für unvergessliche Panoramen in der Dämmerung.",
         "hu": "Kezdje autós túráját a külvárosi történelmi kápolna meglátogatásával, majd egy inspiráló megállóval a helyi művészeti központban.\n\nA déli program során mélyedjen el a finomkerámiákban a zománcmúzeumban, és sétáljon el az impozáns történelmi városkapuk mellett.\n\nDélután parkoljon le a régi kastély romjai közelében egy történelmi felfedezőútra, mielőtt meglátogatná a gyönyörűen békés helyi templomot.\n\nFejezze be a tökéletes napot úgy, hogy a lélegzetelállító kilátóhoz hajt a felejthetetlen alkonyati panorámáért.",
         "ro": "Începeți turul cu mașina vizitând capela istorică de la periferie, urmată de o oprire plină de inspirație la centrul de arte locale.\n\nProgramul de prânz include o incursiune în ceramica fină la muzeul de email și o plimbare pe lângă impunătoarele porți istorice ale orașului.\n\nDupă-amiaza, parcați lângă ruinele vechiului castel pentru o explorare istorică înainte de a vizita biserica locală frumos serenă.\n\nTerminați excursia perfectă conducând la punctul de belvedere care îți taie respirația pentru panorame de neuitat la amurg.",
-        "en": "Begin your driving tour by visiting the historic chapel on the outskirts, followed by an inspiring stop at the local arts center.\n\nYour midday schedule features a deep dive into fine ceramics at the enamel museum and a stroll past the imposing historic city gates.\n\nIn the afternoon, park near the old castle ruins for a historic exploration before visiting the beautifully serene local church.\n\nFinish the perfect day trip by driving to the breathtaking viewpoint for unforgettable twilight panoramas."
+        "en": "Begin your driving tour by visiting the historic chapel on the outskirts, followed by an inspiring stop at the local arts center.\n\nYour midday schedule features a deep dive into fine ceramics at the enamel museum and a stroll past the imposing historic city gates.\n\nIn the afternoon, park near the old castle ruins for a historic exploration before visiting the beautifully serene local church.\n\nFinish the perfect day trip by driving to the breathtaking viewpoint for unforgettable twilight panoramas.",
+        "fr": "Commencez votre circuit en voiture par la chapelle historique en périphérie, suivie d'un arrêt inspirant au centre des arts local.\n\nVotre programme de midi comprend une immersion dans les belles céramiques au musée des émaux et une promenade devant les imposantes portes historiques de la ville.\n\nL'après-midi, garez-vous près des ruines du vieux château pour une exploration historique avant de visiter la belle église paisible du centre.\n\nTerminez cette excursion d'une journée en conduisant jusqu'au point de vue à couper le souffle pour des panoramas crépusculaires inoubliables."
       },
       "variants": {
         "rainy": {
@@ -1054,7 +1167,8 @@
             "en": "Drive through the morning rain to Chapelle Saint-Clément. Midday stops at La Grange aux Arts, the enamel museum, and Porte de France require you to keep your umbrella handy. Escape the afternoon showers at Saint-Dagobert Church and be careful on the wet roads to the old castle. Finish your rainy evening driving to Trinity Church and Le Belvédère for a moody view.",
             "hu": "Vezessen a reggeli esőben a Chapelle Saint-Clément-hoz. A déli megállók a La Grange aux Arts, a zománcmúzeum és a Porte de France során tartsa kéznél az esernyőjét. Meneküljön a délutáni záporok elől a Szent Dagobert-templomba, és óvatosan vezessen a kastélyhoz. Zárja az estét a Szentháromság-templomnál és a Le Belvédère borongós panorámájánál.",
             "de": "Fahren Sie im Regen zur Chapelle Saint-Clément. Bei den Mittagsstopps an La Grange aux Arts, dem Emaille-Museum und der Porte de France halten Sie den Schirm bereit. Entfliehen Sie den Nachmittagsschauern in der Saint-Dagobert-Kirche und fahren Sie vorsichtig zum Schloss. Beenden Sie den Abend an der Dreifaltigkeitskirche und am Belvédère.",
-            "ro": "Conduceți prin ploaia de dimineață spre Chapelle Saint-Clément. La opririle de prânz la La Grange aux Arts, muzeul emailurilor și Porte de France țineți umbrela la îndemână. Scăpați de aversele de după-amiază la biserica Saint-Dagobert și conduceți cu atenție spre castel. Terminați seara ploioasă conducând spre Biserica Sfintei Treimi și Le Belvédère."
+            "ro": "Conduceți prin ploaia de dimineață spre Chapelle Saint-Clément. La opririle de prânz la La Grange aux Arts, muzeul emailurilor și Porte de France țineți umbrela la îndemână. Scăpați de aversele de după-amiază la biserica Saint-Dagobert și conduceți cu atenție spre castel. Terminați seara ploioasă conducând spre Biserica Sfintei Treimi și Le Belvédère.",
+            "fr": "Traversez la pluie du matin en voiture jusqu'à la Chapelle Saint-Clément. Les arrêts de midi à La Grange aux Arts, au musée des émaux et à la Porte de France exigent de garder votre parapluie à portée de main. Échappez aux averses de l'après-midi à l'église Saint-Dagobert et soyez prudent sur les routes mouillées en vous rendant au vieux château. Terminez votre soirée pluvieuse en voiture à l'Église de la Sainte-Trinité et au Belvédère pour une vue d'ambiance."
           },
           "stops": [
             {
@@ -1062,13 +1176,15 @@
                 "de": "Chapelle Saint-Clément",
                 "hu": "Chapelle Saint-Clément",
                 "ro": "Chapelle Saint-Clément",
-                "en": "Chapelle Saint-Clément"
+                "en": "Chapelle Saint-Clément",
+                "fr": "Chapelle Saint-Clément"
               },
               "tip_5lang": {
                 "en": "Finding a parking spot near the chapel saves you from walking too far in the heavy morning showers.",
                 "hu": "Ha talál egy parkolóhelyet a kápolna közelében, megússza a hosszú sétát a reggeli záporokban.",
                 "de": "Ein Parkplatz in der Nähe der Kapelle erspart Ihnen einen langen Fußweg in den morgendlichen Schauern.",
-                "ro": "Găsirea unui loc de parcare lângă capelă vă scutește de a merge prea mult în aversele grele de dimineață."
+                "ro": "Găsirea unui loc de parcare lângă capelă vă scutește de a merge prea mult în aversele grele de dimineață.",
+                "fr": "Trouver une place de parking près de la chapelle vous évite de marcher trop loin sous les fortes averses du matin."
               }
             },
             {
@@ -1076,13 +1192,15 @@
                 "de": "La Grange aux Arts",
                 "hu": "La Grange aux Arts",
                 "ro": "La Grange aux Arts",
-                "en": "La Grange aux Arts"
+                "en": "La Grange aux Arts",
+                "fr": "La Grange aux Arts"
               },
               "tip_5lang": {
                 "en": "Dash from your car to the gallery to enjoy a perfect indoor shelter filled with contemporary art.",
                 "hu": "Szaladjon át az autóból a galériába, és élvezze a kortárs művészettel teli, tökéletes beltéri menedéket.",
                 "de": "Huschen Sie vom Auto zur Galerie, um den perfekten, mit zeitgenössischer Kunst gefüllten Schutzraum zu genießen.",
-                "ro": "Alergați de la mașină la galerie pentru a vă bucura de un adăpost interior perfect, plin de artă contemporană."
+                "ro": "Alergați de la mașină la galerie pentru a vă bucura de un adăpost interior perfect, plin de artă contemporană.",
+                "fr": "Courez de votre voiture à la galerie pour profiter d'un abri intérieur parfait rempli d'art contemporain."
               }
             },
             {
@@ -1090,13 +1208,15 @@
                 "de": "Musée des émaux et faïences",
                 "hu": "Musée des émaux et faïences",
                 "ro": "Musée des émaux et faïences",
-                "en": "Musée des émaux et faïences"
+                "en": "Musée des émaux et faïences",
+                "fr": "Musée des émaux et faïences"
               },
               "tip_5lang": {
                 "en": "Park close by and spend extra time exploring the exquisite enamels indoors while waiting out the rain.",
                 "hu": "Parkoljon a közelben, és töltsön több időt a gyönyörű zománcok beltéri felfedezésével, amíg kint esik.",
                 "de": "Parken Sie in der Nähe und erkunden Sie die Emaillearbeiten drinnen, während Sie den Regen abwarten.",
-                "ro": "Parcați aproape și petreceți timp explorând emailurile rafinate în interior în timp ce așteptați să se oprească ploaia."
+                "ro": "Parcați aproape și petreceți timp explorând emailurile rafinate în interior în timp ce așteptați să se oprească ploaia.",
+                "fr": "Garez-vous à proximité et prenez le temps de découvrir les émaux exquis à l'abri en attendant que la pluie passe."
               }
             },
             {
@@ -1104,13 +1224,15 @@
                 "de": "Porte de France",
                 "hu": "Porte de France",
                 "ro": "Porte de France",
-                "en": "Porte de France"
+                "en": "Porte de France",
+                "fr": "Porte de France"
               },
               "tip_5lang": {
                 "en": "Drive slowly around the wet cobblestones of this historic gate, and keep your umbrella handy when stepping out.",
                 "hu": "Vezessen lassan a történelmi kapu nedves macskakövein, és tartsa kéznél az esernyőjét kiszálláskor.",
                 "de": "Fahren Sie langsam über das nasse Pflaster dieses Tors und halten Sie den Schirm beim Aussteigen bereit.",
-                "ro": "Conduceți încet pe piatra cubică umedă a acestei porți istorice și țineți umbrela la îndemână când ieșiți."
+                "ro": "Conduceți încet pe piatra cubică umedă a acestei porți istorice și țineți umbrela la îndemână când ieșiți.",
+                "fr": "Conduisez lentement sur les pavés mouillés de cette porte historique et gardez votre parapluie à portée en sortant."
               }
             },
             {
@@ -1118,13 +1240,15 @@
                 "de": "Kirche Saint-Dagobert",
                 "hu": "Szent Dagobert-templom",
                 "ro": "Biserica Saint-Dagobert",
-                "en": "Church of Saint-Dagobert"
+                "en": "Church of Saint-Dagobert",
+                "fr": "Church of Saint-Dagobert"
               },
               "tip_5lang": {
                 "en": "The short walk from your vehicle to the church's dry haven keeps you mostly shielded from the wet weather.",
                 "hu": "A járművétől a templom száraz menedékéig tartó rövid séta nagyrészt megvédi a nedves időjárástól.",
                 "de": "Der kurze Weg vom Auto zum trockenen Hafen der Kirche schützt Sie größtenteils vor dem nassen Wetter.",
-                "ro": "Scurta plimbare de la mașină până la refugiul uscat al bisericii vă protejează în mare măsură de vremea umedă."
+                "ro": "Scurta plimbare de la mașină până la refugiul uscat al bisericii vă protejează în mare măsură de vremea umedă.",
+                "fr": "La courte marche depuis votre véhicule jusqu'au havre sec de l'église vous garde en grande partie à l'abri du mauvais temps."
               }
             },
             {
@@ -1132,13 +1256,15 @@
                 "de": "Le vieux château",
                 "hu": "Le vieux château",
                 "ro": "Le vieux château",
-                "en": "Le vieux château"
+                "en": "Le vieux château",
+                "fr": "Le vieux château"
               },
               "tip_5lang": {
                 "en": "The ruined walls offer little cover, so bring your umbrella from the trunk for the muddy grassy paths.",
                 "hu": "A romos falak kevés fedezéket nyújtanak, ezért vegye elő az esernyőt a csomagtartóból a sáros füves ösvényekhez.",
                 "de": "Die Ruinen bieten wenig Schutz, holen Sie Ihren Regenschirm aus dem Kofferraum für die schlammigen Graswege.",
-                "ro": "Zidurile ruinate oferă puțin adăpost, așa că luați umbrela din portbagaj pentru potecile cu iarbă noroioase."
+                "ro": "Zidurile ruinate oferă puțin adăpost, așa că luați umbrela din portbagaj pentru potecile cu iarbă noroioase.",
+                "fr": "Les murs en ruine offrent peu d'abri, alors prenez votre parapluie dans le coffre pour les sentiers herbeux boueux."
               }
             },
             {
@@ -1146,13 +1272,15 @@
                 "de": "Église de la Sainte-Trinité",
                 "hu": "Église de la Sainte-Trinité",
                 "ro": "Église de la Sainte-Trinité",
-                "en": "Église de la Sainte-Trinité"
+                "en": "Église de la Sainte-Trinité",
+                "fr": "Église de la Sainte-Trinité"
               },
               "tip_5lang": {
                 "en": "Seek refuge in this quiet church to dry off and enjoy the peaceful ambiance before driving to the next stop.",
                 "hu": "Keressen menedéket a csendes templomban, hogy megszáradjon és élvezze a békét, mielőtt a következő ponthoz vezetne.",
                 "de": "Suchen Sie Zuflucht in dieser Kirche, um sich zu trocknen und die Ruhe zu genießen, bevor Sie weiterfahren.",
-                "ro": "Căutați refugiu în această biserică pentru a vă usca și a vă bucura de liniște înainte de a conduce spre următoarea oprire."
+                "ro": "Căutați refugiu în această biserică pentru a vă usca și a vă bucura de liniște înainte de a conduce spre următoarea oprire.",
+                "fr": "Cherchez refuge dans cette église tranquille pour vous sécher et profiter de l'ambiance paisible avant de reprendre la route."
               }
             },
             {
@@ -1160,13 +1288,15 @@
                 "de": "Le Belvédère",
                 "hu": "Le Belvédère",
                 "ro": "Le Belvédère",
-                "en": "Le Belvédère"
+                "en": "Le Belvédère",
+                "fr": "Le Belvédère"
               },
               "tip_5lang": {
                 "en": "You can enjoy part of the dramatic, rain-swept panoramic view right from the warmth of your parked car.",
                 "hu": "A drámai, eső áztatta panoráma egy részét akár a leparkolt autó melegéből is élvezheti.",
                 "de": "Sie können einen Teil des dramatischen, regnerischen Panoramablicks direkt aus der Wärme Ihres Autos genießen.",
-                "ro": "Vă puteți bucura de o parte din priveliștea dramatică bătută de ploaie chiar din căldura mașinii parcate."
+                "ro": "Vă puteți bucura de o parte din priveliștea dramatică bătută de ploaie chiar din căldura mașinii parcate.",
+                "fr": "Vous pouvez profiter d'une partie de la vue panoramique dramatique battue par la pluie depuis la chaleur de votre voiture garée."
               }
             }
           ]
@@ -1176,7 +1306,8 @@
             "en": "Warm up the car for a frosty morning drive to Chapelle Saint-Clément. Midday stops at La Grange aux Arts, the enamel museum, and the majestic Porte de France offer mixed indoor/outdoor sights. By mid-afternoon, escape the biting wind inside Saint-Dagobert Church before a brisk walk at the old castle. Turn on your headlights for the 5 PM darkness at Trinity Church and the icy Le Belvédère.",
             "hu": "Melegítse elő az autót a fagyos úthoz a Chapelle Saint-Clément felé. A La Grange aux Arts, a zománcmúzeum és a fenséges Porte de France déli megállói változatos látnivalókat kínálnak. Késő délután meneküljön a szél elől a Szent Dagobert-templomba a kastély előtti gyors sétához. Kapcsolja fel a fényszórókat az 5 órai sötétségben a Szentháromság-templomnál és a jeges Le Belvédère-nél.",
             "de": "Wärmen Sie das Auto für die Fahrt zur Chapelle Saint-Clément vor. Die Stopps an La Grange aux Arts, dem Emaille-Museum und der Porte de France bieten abwechslungsreiche Eindrücke. Am späten Nachmittag entkommen Sie dem Wind in der Saint-Dagobert-Kirche vor einem Spaziergang am Schloss. Schalten Sie das Licht ein für den Abend an der Dreifaltigkeitskirche und am eisigen Belvédère.",
-            "ro": "Încălziți mașina pentru drumul spre Chapelle Saint-Clément. Opririle de prânz la La Grange aux Arts, muzeul emailurilor și Porte de France oferă atracții variate. După-amiaza, scăpați de vânt în biserica Saint-Dagobert înainte de o scurtă plimbare la castel. Aprindeți farurile la ora 17 pentru Biserica Sfintei Treimi și înghețatul Le Belvédère."
+            "ro": "Încălziți mașina pentru drumul spre Chapelle Saint-Clément. Opririle de prânz la La Grange aux Arts, muzeul emailurilor și Porte de France oferă atracții variate. După-amiaza, scăpați de vânt în biserica Saint-Dagobert înainte de o scurtă plimbare la castel. Aprindeți farurile la ora 17 pentru Biserica Sfintei Treimi și înghețatul Le Belvédère.",
+            "fr": "Réchauffez la voiture pour une matinée glaciale en conduisant vers la Chapelle Saint-Clément. Les arrêts de midi à La Grange aux Arts, au musée des émaux et à la majestueuse Porte de France offrent des visites mixtes intérieur/extérieur. En milieu d'après-midi, échappez au vent mordant à l'intérieur de l'église Saint-Dagobert avant une marche rapide au vieux château. Allumez vos phares pour la noirceur de 17h à l'Église de la Sainte-Trinité et au glacial Belvédère."
           },
           "stops": [
             {
@@ -1184,13 +1315,15 @@
                 "de": "Chapelle Saint-Clément",
                 "hu": "Chapelle Saint-Clément",
                 "ro": "Chapelle Saint-Clément",
-                "en": "Chapelle Saint-Clément"
+                "en": "Chapelle Saint-Clément",
+                "fr": "Chapelle Saint-Clément"
               },
               "tip_5lang": {
                 "en": "The chapel looks picturesque in the winter morning, just watch out for frosty patches in the parking area.",
                 "hu": "A kápolna festői a téli reggelen, csak ügyeljen a parkoló jeges foltjaira.",
                 "de": "Die Kapelle sieht am Wintermorgen malerisch aus, achten Sie nur auf vereiste Stellen auf dem Parkplatz.",
-                "ro": "Capela arată pitoresc în dimineața de iarnă, aveți grijă doar la peticele înghețate din parcare."
+                "ro": "Capela arată pitoresc în dimineața de iarnă, aveți grijă doar la peticele înghețate din parcare.",
+                "fr": "La chapelle est pittoresque par un matin d'hiver, surveillez simplement les plaques de gelage dans la zone de parking."
               }
             },
             {
@@ -1198,13 +1331,15 @@
                 "de": "La Grange aux Arts",
                 "hu": "La Grange aux Arts",
                 "ro": "La Grange aux Arts",
-                "en": "La Grange aux Arts"
+                "en": "La Grange aux Arts",
+                "fr": "La Grange aux Arts"
               },
               "tip_5lang": {
                 "en": "Leave your heavy winter coat in the warm car while you appreciate the heated local art gallery spaces.",
                 "hu": "Hagyja vastag télikabátját a meleg autóban, miközben értékeli a fűtött helyi művészeti galéria tereit.",
                 "de": "Lassen Sie Ihren dicken Mantel im warmen Auto, während Sie die beheizten Räume der Kunstgalerie schätzen.",
-                "ro": "Lăsați-vă paltonul gros în mașina caldă în timp ce apreciați spațiile încălzite ale galeriei de artă locale."
+                "ro": "Lăsați-vă paltonul gros în mașina caldă în timp ce apreciați spațiile încălzite ale galeriei de artă locale.",
+                "fr": "Laissez votre lourd manteau d'hiver dans la voiture chaude pendant que vous appréciez les espaces chauffés de la galerie d'art locale."
               }
             },
             {
@@ -1212,13 +1347,15 @@
                 "de": "Musée des émaux et faïences",
                 "hu": "Musée des émaux et faïences",
                 "ro": "Musée des émaux et faïences",
-                "en": "Musée des émaux et faïences"
+                "en": "Musée des émaux et faïences",
+                "fr": "Musée des émaux et faïences"
               },
               "tip_5lang": {
                 "en": "The museum is a cozy retreat from the winter cold outside, showcasing brilliantly colored ceramics.",
                 "hu": "A múzeum hangulatos menedék a kinti téli hideg elől, ragyogó színű kerámiákat bemutatva.",
                 "de": "Das Museum ist ein gemütlicher Rückzugsort vor der Winterkälte draußen und zeigt farbenfrohe Keramiken.",
-                "ro": "Muzeul este un refugiu primitor de frigul iernii de afară, expunând ceramică viu colorată."
+                "ro": "Muzeul este un refugiu primitor de frigul iernii de afară, expunând ceramică viu colorată.",
+                "fr": "Le musée est un refuge douillet contre le froid hivernal extérieur, présentant des céramiques aux couleurs brillantes."
               }
             },
             {
@@ -1226,13 +1363,15 @@
                 "de": "Porte de France",
                 "hu": "Porte de France",
                 "ro": "Porte de France",
-                "en": "Porte de France"
+                "en": "Porte de France",
+                "fr": "Porte de France"
               },
               "tip_5lang": {
                 "en": "The majestic gate looks stunning against a gray winter sky, but watch out for icy patches when you park.",
                 "hu": "A fenséges kapu lenyűgöző a szürke téli égen, de parkoláskor ügyeljen a jeges foltokra.",
                 "de": "Das majestätische Tor ist vor einem grauen Himmel atemberaubend, aber achten Sie beim Parken auf Eis.",
-                "ro": "Poarta maiestuoasă arată uimitor pe un cer gri, dar aveți grijă la peticele de gheață când parcați."
+                "ro": "Poarta maiestuoasă arată uimitor pe un cer gri, dar aveți grijă la peticele de gheață când parcați.",
+                "fr": "La porte majestueuse est superbe sous un ciel gris d'hiver, mais méfiez-vous des plaques de verglas en vous garant."
               }
             },
             {
@@ -1240,13 +1379,15 @@
                 "de": "Kirche Saint-Dagobert",
                 "hu": "Szent Dagobert-templom",
                 "ro": "Biserica Saint-Dagobert",
-                "en": "Church of Saint-Dagobert"
+                "en": "Church of Saint-Dagobert",
+                "fr": "Church of Saint-Dagobert"
               },
               "tip_5lang": {
                 "en": "Step quickly from your heated car inside to escape the biting winter wind and marvel at the historical interior.",
                 "hu": "Lépjen be gyorsan a fűtött autóból, hogy elmeneküljön a metsző szél elől, és csodálja meg a történelmi belsőt.",
                 "de": "Huschen Sie schnell aus dem Auto ins Innere, um dem Wind zu entkommen und das historische Interieur zu bewundern.",
-                "ro": "Pășiți rapid din mașina încălzită înăuntru pentru a scăpa de vânt și a admira interiorul istoric."
+                "ro": "Pășiți rapid din mașina încălzită înăuntru pentru a scăpa de vânt și a admira interiorul istoric.",
+                "fr": "Entrez rapidement depuis votre voiture chauffée pour échapper au vent hivernal mordant et admirez l'intérieur historique."
               }
             },
             {
@@ -1254,13 +1395,15 @@
                 "de": "Le vieux château",
                 "hu": "Le vieux château",
                 "ro": "Le vieux château",
-                "en": "Le vieux château"
+                "en": "Le vieux château",
+                "fr": "Le vieux château"
               },
               "tip_5lang": {
                 "en": "Explore these ruins briskly, as the exposed location gets very chilly before you return to your warm vehicle.",
                 "hu": "Tempósan fedezze fel a romokat, mert a nyitott hely nagyon lehűl, mielőtt visszatérne a meleg járműbe.",
                 "de": "Erkunden Sie diese Ruinen zügig, da die exponierte Lage sehr kühl wird, bevor Sie ins warme Auto zurückkehren.",
-                "ro": "Explorați ruinele alert, deoarece locația expusă devine friguroasă înainte de a vă întoarce la mașina caldă."
+                "ro": "Explorați ruinele alert, deoarece locația expusă devine friguroasă înainte de a vă întoarce la mașina caldă.",
+                "fr": "Explorez ces ruines d'un pas vif, car l'emplacement exposé devient très frais avant que vous ne reveniez à votre véhicule chaud."
               }
             },
             {
@@ -1268,13 +1411,15 @@
                 "de": "Église de la Sainte-Trinité",
                 "hu": "Église de la Sainte-Trinité",
                 "ro": "Église de la Sainte-Trinité",
-                "en": "Église de la Sainte-Trinité"
+                "en": "Église de la Sainte-Trinité",
+                "fr": "Église de la Sainte-Trinité"
               },
               "tip_5lang": {
                 "en": "As the early winter night falls around 5 PM, the church provides a welcoming atmosphere before the dark drive.",
                 "hu": "Amikor 5 óra körül leszáll a téli éjszaka, a templom barátságos légkört biztosít a sötét út előtt.",
                 "de": "Wenn gegen 17 Uhr die Winternacht fällt, bietet die Kirche eine einladende Atmosphäre vor der dunklen Fahrt.",
-                "ro": "Când noaptea coboară în jurul orei 17, biserica oferă o atmosferă primitoare înainte de drumul întunecat."
+                "ro": "Când noaptea coboară în jurul orei 17, biserica oferă o atmosferă primitoare înainte de drumul întunecat.",
+                "fr": "Alors que la nuit d'hiver tombe vers 17h, l'église offre une atmosphère accueillante avant la route dans l'obscurité."
               }
             },
             {
@@ -1282,13 +1427,15 @@
                 "de": "Le Belvédère",
                 "hu": "Le Belvédère",
                 "ro": "Le Belvédère",
-                "en": "Le Belvédère"
+                "en": "Le Belvédère",
+                "fr": "Le Belvédère"
               },
               "tip_5lang": {
                 "en": "Keep the car heater running while you step out briefly to admire the early sunset's frosty, magical vista.",
                 "hu": "Hagyja járni a fűtést az autóban, amíg röviden kiszáll, hogy megcsodálja a korai naplemente varázslatos panorámáját.",
                 "de": "Lassen Sie die Autoheizung laufen, während Sie kurz aussteigen, um den magischen Sonnenuntergang zu bewundern.",
-                "ro": "Lăsați căldura pornită în timp ce ieșiți scurt pentru a admira priveliștea magică a apusului timpuriu."
+                "ro": "Lăsați căldura pornită în timp ce ieșiți scurt pentru a admira priveliștea magică a apusului timpuriu.",
+                "fr": "Laissez le chauffage de la voiture tourner pendant que vous sortez brièvement pour admirer la vue glacée et magique du coucher du soleil."
               }
             }
           ]

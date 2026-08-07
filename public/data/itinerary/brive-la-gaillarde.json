@@ -31,7 +31,8 @@
             "de": "Probieren Sie die berühmte 'Moutarde violette de Brive'.",
             "hu": "Kóstolja meg a híres 'Moutarde violette de Brive' lila mustárt.",
             "ro": "Gustați faimosul muștar violet de Brive.",
-            "en": "Try the famous 'Moutarde violette de Brive' violet mustard."
+            "en": "Try the famous 'Moutarde violette de Brive' violet mustard.",
+            "fr": "Goûtez la fameuse « Moutarde violette de Brive »."
           }
         },
         {
@@ -49,7 +50,8 @@
             "de": "Bewundern Sie die Kapitelle aus dem 12. Jahrhundert.",
             "hu": "Csodálja meg a 12. századi oszlopfőket.",
             "ro": "Admirați capitelurile sculptate din secolul al XII-lea.",
-            "en": "Admire the 12th-century sculpted capitals."
+            "en": "Admire the 12th-century sculpted capitals.",
+            "fr": "Admirez les chapiteaux sculptés du XIIe siècle."
           }
         },
         {
@@ -67,7 +69,8 @@
             "de": "Ein schönes Fotomotiv der modernen lokalen Kultur.",
             "hu": "Szép fotótéma a modern helyi kultúra jegyében.",
             "ro": "Un loc perfect pentru fotografii culturale moderne.",
-            "en": "A beautiful photo spot for modern local culture."
+            "en": "A beautiful photo spot for modern local culture.",
+            "fr": "Un beau lieu photo pour la culture locale moderne."
           }
         },
         {
@@ -85,7 +88,8 @@
             "de": "Besuchen Sie die Wandteppiche aus dem 17. Jahrhundert.",
             "hu": "Tekintse meg a 17. századi faliszőnyegeket.",
             "ro": "Vizitați tapiseriile magnifice din secolul al XVII-lea.",
-            "en": "Visit the magnificent 17th-century tapestries."
+            "en": "Visit the magnificent 17th-century tapestries.",
+            "fr": "Visitez les magnifiques tapisseries du XVIIe siècle."
           }
         },
         {
@@ -103,7 +107,8 @@
             "de": "Traditionelle Herstellung von Likören seit 1839.",
             "hu": "Hagyományos likőrgyártás 1839 óta.",
             "ro": "Producție tradițională de lichioruri din 1839.",
-            "en": "Traditional liqueur production since 1839."
+            "en": "Traditional liqueur production since 1839.",
+            "fr": "Production traditionnelle de liqueur depuis 1839."
           }
         },
         {
@@ -121,7 +126,8 @@
             "de": "Ein markanter Wasserturm mit Blick auf den Park.",
             "hu": "Jellegzetes víztorony kilátással a parkra.",
             "ro": "Turn de apă distinctiv cu vedere spre parc.",
-            "en": "Distinctive water tower overlooking the park."
+            "en": "Distinctive water tower overlooking the park.",
+            "fr": "Réservoir d'eau caractéristique dominant le parc."
           }
         },
         {
@@ -139,7 +145,8 @@
             "de": "Entspannen Sie am Ufer des Flusses Corrèze.",
             "hu": "Pihenjen a Corrèze folyó partján.",
             "ro": "Relaxați-vă pe malul râului Corrèze.",
-            "en": "Relax on the banks of the Corrèze river."
+            "en": "Relax on the banks of the Corrèze river.",
+            "fr": "Détendez-vous sur les berges de la rivière Corrèze."
           }
         }
       ],
@@ -147,7 +154,8 @@
         "de": "Beginnen Sie den Tag auf dem lebhaften Markt von Brassens, wo die Aromen des Limousin die Luft erfüllen. Nach einem Besuch der spirituellen Stätte Saint-Martin tauchen Sie im Musée Labenche in die Geschichte der Renaissance ein. Der Nachmittag gehört der Tradition in der Brennerei Denoix und endet mit einem entspannten Spaziergang durch den Parc de la Guierle.",
         "hu": "Kezdje a napot a nyüzsgő Brassens piacon, ahol a Limousin régió illatai töltik be a teret. A Saint-Martin kollégiumi templom megtekintése után merüljön el a reneszánsz történelemben a Musée Labenche falai között. A délutánt a Denoix lepárló hagyományainak szenteljük, majd egy pihentető sétával zárjuk a Parc de la Guierle árnyas fái alatt.",
         "ro": "Începeți ziua în piața vibrantă Brassens, unde aromele din Limousin umplu aerul. După o vizită la colegiala Saint-Martin, scufundați-vă în istoria Renașterii la Musée Labenche. După-amiaza este dedicată tradiției la distileria Denoix, încheind cu o plimbare relaxantă prin parcul Guierle, pe malul apei.",
-        "en": "Start your day at the bustling Brassens market, where the scents of Limousin fill the air. After visiting the spiritual heart of Saint-Martin, dive into Renaissance history at Musée Labenche. The afternoon is dedicated to tradition at the Denoix Distillery, ending with a relaxing stroll through the shady alleys of Parc de la Guierle."
+        "en": "Start your day at the bustling Brassens market, where the scents of Limousin fill the air. After visiting the spiritual heart of Saint-Martin, dive into Renaissance history at Musée Labenche. The afternoon is dedicated to tradition at the Denoix Distillery, ending with a relaxing stroll through the shady alleys of Parc de la Guierle.",
+        "fr": "Commencez la journée au marché animé Brassens, où flottent les senteurs du Limousin. Après avoir visité le cœur spirituel de Saint-Martin, plongez dans l'histoire de la Renaissance au Musée Labenche. L'après-midi est consacré à la tradition à la Distillerie Denoix, puis terminez par une promenade détendue dans les allées ombragées du Parc de la Guierle."
       },
       "gastro_picks": {
         "de": [
@@ -307,6 +315,12 @@
           "The old town is almost entirely pedestrianized.",
           "Try the walnut liqueur at Denoix.",
           "Park on the outskirts of the center and explore on foot."
+        ],
+        "fr": [
+          "Visitez le marché le samedi matin pour la meilleure ambiance.",
+          "La vieille ville est presque entièrement piétonne.",
+          "Goûtez la liqueur de noix chez Denoix.",
+          "Garez-vous en périphérie du centre et explorez à pied."
         ]
       }
     },
@@ -333,7 +347,8 @@
             "de": "Sicherer Fahrradabstellplatz am Markteingang.",
             "hu": "Biztonságos kerékpártároló a piac bejáratánál.",
             "ro": "Parcare sigură pentru biciclete la intrarea în piață.",
-            "en": "Safe bike parking at the market entrance."
+            "en": "Safe bike parking at the market entrance.",
+            "fr": "Stationnement vélo sécurisé à l'entrée du marché."
           }
         },
         {
@@ -351,7 +366,8 @@
             "de": "Das Herz der Stadt, leicht mit dem Rad erreichbar.",
             "hu": "A város szíve, kerékpárral könnyen megközelíthető.",
             "ro": "Inima orașului, ușor accesibilă cu bicicleta.",
-            "en": "The heart of the city, easily reached by bike."
+            "en": "The heart of the city, easily reached by bike.",
+            "fr": "Le cœur de la ville, facilement accessible à vélo."
           }
         },
         {
@@ -369,7 +385,8 @@
             "de": "Ein Renaissance-Juwel in den Gassen.",
             "hu": "Reneszánsz ékszerdoboz a sikátorok között.",
             "ro": "O bijuterie renascentistă ascunsă pe străduțe.",
-            "en": "A Renaissance gem tucked in the side streets."
+            "en": "A Renaissance gem tucked in the side streets.",
+            "fr": "Une perle de la Renaissance cachée dans les ruelles."
           }
         },
         {
@@ -387,7 +404,8 @@
             "de": "Parken Sie im Innenhof.",
             "hu": "Parkoljon a belső udvarban.",
             "ro": "Parcați bicicleta în curtea interioară.",
-            "en": "Park your bike in the inner courtyard."
+            "en": "Park your bike in the inner courtyard.",
+            "fr": "Garez votre vélo dans la cour intérieure."
           }
         },
         {
@@ -405,7 +423,8 @@
             "de": "Kurze Fahrt nach Süden durch die Alleen.",
             "hu": "Rövid tekerés délre a fasorokon keresztül.",
             "ro": "O scurtă plimbare spre sud prin alei.",
-            "en": "Short ride south through the boulevards."
+            "en": "Short ride south through the boulevards.",
+            "fr": "Courte traversée vers le sud le long des boulevards."
           }
         },
         {
@@ -423,7 +442,8 @@
             "de": "Gute Aussicht nach dem Anstieg.",
             "hu": "Jó kilátás a rövid emelkedő után.",
             "ro": "Vedere frumoasă după o mică urcare.",
-            "en": "Good view after a short incline."
+            "en": "Good view after a short incline.",
+            "fr": "Belle vue après une petite montée."
           }
         },
         {
@@ -441,7 +461,8 @@
             "de": "Radwege entlang des Flusses.",
             "hu": "Kerékpárutak a folyó mentén.",
             "ro": "Piste de biciclete de-a lungul râului.",
-            "en": "Bike paths along the river."
+            "en": "Bike paths along the river.",
+            "fr": "Pistes cyclables le long de la rivière."
           }
         }
       ],
@@ -449,7 +470,8 @@
         "de": "Brive lässt sich wunderbar mit dem Fahrrad erkunden. Vom lebhaften Markt im Zentrum radeln Sie durch historische Gassen zur Collégiale und zum Musée Labenche. Die breiten Boulevards führen Sie bequem zur Distillerie Denoix im Süden, bevor Sie den Tag entspannt auf den Radwegen entlang der Corrèze im Parc de la Guierle ausklingen lassen.",
         "hu": "Brive kerékpárral is remekül felfedezhető. A központi piactól indulva történelmi sikátorokon át tekerhetünk a kollégiumi templomhoz és a Labenche múzeumhoz. A széles körutak kényelmesen elvezetnek a déli Denoix lepárlóhoz, majd a napot a Corrèze folyó menti kerékpárutakon zárhatjuk a Parc de la Guierle-ben.",
         "ro": "Brive poate fi explorat minunat cu bicicleta. De la piața centrală, pedalați prin străduțe istorice spre colegială și Muzeul Labenche. Bulevardele largi vă duc confortabil la Distileria Denoix în sud, înainte de a încheia ziua relaxat pe pistele de biciclete de-a lungul râului Corrèze.",
-        "en": "Brive is wonderful to explore by bike. From the central market, pedal through historic alleys to the Collegiale and Labenche Museum. Wide boulevards take you comfortably to the Denoix Distillery in the south, before ending the day relaxed on the bike paths along the Corrèze river in Parc de la Guierle."
+        "en": "Brive is wonderful to explore by bike. From the central market, pedal through historic alleys to the Collegiale and Labenche Museum. Wide boulevards take you comfortably to the Denoix Distillery in the south, before ending the day relaxed on the bike paths along the Corrèze river in Parc de la Guierle.",
+        "fr": "Brive est agréable à explorer à vélo. Depuis le marché central, pédalez dans les ruelles historiques jusqu'à la Collégiale et au Musée Labenche. De larges boulevards vous mènent confortablement à la Distillerie Denoix au sud, puis terminez la journée détendu sur les pistes cyclables le long de la Corrèze dans le Parc de la Guierle."
       },
       "gastro_picks": {
         "de": [
@@ -553,6 +575,11 @@
           "Use the one-way streets open to cyclists.",
           "The city is mostly flat.",
           "Lock your bike securely in the park."
+        ],
+        "fr": [
+          "Utilisez les sens uniques ouverts aux cyclistes.",
+          "La ville est majoritairement plate.",
+          "Verrouillez bien votre vélo dans le parc."
         ]
       }
     },
@@ -579,7 +606,8 @@
             "de": "Parken Sie in der Tiefgarage Thiers.",
             "hu": "Parkoljon a Thiers mélygarázsban.",
             "ro": "Parcați în parcarea subterană Thiers.",
-            "en": "Park in the Thiers underground parking."
+            "en": "Park in the Thiers underground parking.",
+            "fr": "Garez-vous au parking souterrain Thiers."
           }
         },
         {
@@ -597,7 +625,8 @@
             "de": "Zu Fuß vom Markt erreichbar (Cluster 1).",
             "hu": "Gyalog elérhető a piactól (1. klaszter).",
             "ro": "Accesibil pe jos din piață (Cluster 1).",
-            "en": "Walkable from the market (Cluster 1)."
+            "en": "Walkable from the market (Cluster 1).",
+            "fr": "Accessible à pied depuis le marché (Cluster 1)."
           }
         },
         {
@@ -615,7 +644,8 @@
             "de": "Letzter Stopp im Zentrum-Cluster.",
             "hu": "Utolsó állomás a központi klaszterben.",
             "ro": "Ultima oprire în clusterul central.",
-            "en": "Last stop in the center cluster."
+            "en": "Last stop in the center cluster.",
+            "fr": "Dernier arrêt du cluster central."
           }
         },
         {
@@ -633,7 +663,8 @@
             "de": "Fahrt zum Cluster 2, Parkplatz in der Nähe.",
             "hu": "Autózás a 2. klaszterhez, közeli parkolóval.",
             "ro": "Drum spre Cluster 2, parcare în apropiere.",
-            "en": "Drive to Cluster 2, parking nearby."
+            "en": "Drive to Cluster 2, parking nearby.",
+            "fr": "Rejoignez le Cluster 2 en voiture, parking à proximité."
           }
         },
         {
@@ -651,7 +682,8 @@
             "de": "Zu Fuß vom Museum erreichbar.",
             "hu": "Gyalog elérhető a múzeumtól.",
             "ro": "Accesibil pe jos de la muzeu.",
-            "en": "Walkable from the museum."
+            "en": "Walkable from the museum.",
+            "fr": "Accessible à pied depuis le musée."
           }
         },
         {
@@ -669,7 +701,8 @@
             "de": "Fahrt zum Cluster 3 am Nordrand.",
             "hu": "Autózás az északi 3. klaszterhez.",
             "ro": "Drum spre Cluster 3 la marginea de nord.",
-            "en": "Drive to Cluster 3 on the northern edge."
+            "en": "Drive to Cluster 3 on the northern edge.",
+            "fr": "Allez en voiture au Cluster 3 en bordure nord."
           }
         },
         {
@@ -687,7 +720,8 @@
             "de": "Großer Parkplatz 'Guierle' direkt vor Ort.",
             "hu": "Nagy 'Guierle' parkoló közvetlenül a helyszínen.",
             "ro": "Parcare mare 'Guierle' chiar la fața locului.",
-            "en": "Large 'Guierle' parking right on site."
+            "en": "Large 'Guierle' parking right on site.",
+            "fr": "Grand parking 'Guierle' directement sur place."
           }
         }
       ],
@@ -695,7 +729,8 @@
         "de": "Mit dem Auto nutzen wir das Cluster-Konzept: Wir parken im Zentrum für Markt und Collégiale, fahren dann zum Musée Labenche und der Brennerei, und beenden den Tag im Norden beim Château d'Eau und dem Parc de la Guierle. So vermeiden wir unnötige Parkplatzsuche und genießen die Stadt entspannt.",
         "hu": "Autóval a klaszter-koncepciót alkalmazzuk: leparkolunk a központban a piac és a templom kedvéért, majd átmegyünk a Musée Labenche-hez és a lepárlóhoz, végül északon zárjuk a napot a víztoronynál és a parknál. Így elkerüljük a felesleges parkolókeresést és kényelmesen élvezzük a várost.",
         "ro": "Cu mașina folosim conceptul de clustere: parcăm în centru pentru piață și colegială, apoi conducem spre Muzeul Labenche și distilerie, încheind ziua în nord la turnul de apă și parcul Guierle. Astfel evităm căutarea inutilă a parcărilor și ne bucurăm de oraș relaxați.",
-        "en": "With a car, we use the cluster concept: park in the center for the market and Collegiale, then drive to Musée Labenche and the distillery, finishing the day in the north at the water tower and Parc de la Guierle. This avoids constant parking searches and lets you enjoy the city stress-free."
+        "en": "With a car, we use the cluster concept: park in the center for the market and Collegiale, then drive to Musée Labenche and the distillery, finishing the day in the north at the water tower and Parc de la Guierle. This avoids constant parking searches and lets you enjoy the city stress-free.",
+        "fr": "En voiture, nous utilisons le concept de clusters : garez-vous au centre pour le marché et la Collégiale, puis conduisez jusqu'au Musée Labenche et à la distillerie, en terminant la journée au nord au réservoir d'eau et au Parc de la Guierle. Cela évite les recherches constantes de parking et permet de profiter de la ville sans stress."
       },
       "gastro_picks": {
         "de": [
@@ -799,6 +834,11 @@
           "Use underground car parks, street parking is often full.",
           "Saturday is market day, arrive before 10 AM.",
           "The distillery has its own customer parking."
+        ],
+        "fr": [
+          "Utilisez les parkings souterrains, le stationnement en surface est souvent complet.",
+          "Le samedi c'est jour de marché, arrivez avant 10 h.",
+          "La distillerie dispose d'un parking client."
         ]
       }
     },
@@ -825,7 +865,8 @@
             "de": "Bushaltestelle 'Mairie' in der Nähe.",
             "hu": "Közeli 'Mairie' buszmegálló.",
             "ro": "Stația de autobuz 'Mairie' în apropiere.",
-            "en": "Bus stop 'Mairie' nearby."
+            "en": "Bus stop 'Mairie' nearby.",
+            "fr": "Arrêt de bus 'Mairie' à proximité."
           }
         },
         {
@@ -843,7 +884,8 @@
             "de": "Zentraler Cluster, alles zu Fuß.",
             "hu": "Központi klaszter, minden gyalog.",
             "ro": "Cluster central, totul pe jos.",
-            "en": "Central cluster, all on foot."
+            "en": "Central cluster, all on foot.",
+            "fr": "Cluster central, tout se fait à pied."
           }
         },
         {
@@ -861,7 +903,8 @@
             "de": "Transitfahrt zum Distrikt Labenche.",
             "hu": "Buszozás a Labenche negyedbe.",
             "ro": "Călătorie cu autobuzul spre districtul Labenche.",
-            "en": "Transit ride to the Labenche district."
+            "en": "Transit ride to the Labenche district.",
+            "fr": "Trajet en transport vers le quartier Labenche."
           }
         },
         {
@@ -879,7 +922,8 @@
             "de": "Kurzer Fußweg vom Museum.",
             "hu": "Rövid séta a múzeumtól.",
             "ro": "Scurtă plimbare de la muzeu.",
-            "en": "Short walk from the museum."
+            "en": "Short walk from the museum.",
+            "fr": "Courte promenade depuis le musée."
           }
         },
         {
@@ -897,7 +941,8 @@
             "de": "Busfahrt zum Guierle-Park-Distrikt.",
             "hu": "Buszozás a Guierle park negyedbe.",
             "ro": "Călătorie cu autobuzul spre districtul Guierle.",
-            "en": "Transit ride to the Guierle park district."
+            "en": "Transit ride to the Guierle park district.",
+            "fr": "Trajet en transport en commun jusqu'au quartier du parc Guierle."
           }
         },
         {
@@ -915,7 +960,8 @@
             "de": "Hauptknotenpunkt für Rückfahrten.",
             "hu": "Fő csomópont a visszautazáshoz.",
             "ro": "Nod principal pentru transportul de întoarcere.",
-            "en": "Main hub for return transit."
+            "en": "Main hub for return transit.",
+            "fr": "Nœud principal pour le retour en transport."
           }
         }
       ],
@@ -923,7 +969,8 @@
         "de": "Mit dem Libéo-Bussystem lassen sich die verschiedenen Stadtteile von Brive bequem verbinden. Wir erkunden den zentralen Distrikt zu Fuß, nehmen dann den Bus zum kulturellen Erbe im Süden und schließlich zum entspannenden Park im Norden. Eine umweltfreundliche Art, das Herz des Limousin zu erleben.",
         "hu": "A Libéo buszhálózattal kényelmesen összeköthetők Brive különböző városrészei. A központi negyedet gyalog fedezzük fel, majd busszal megyünk a déli kulturális örökséghez, végül pedig az északi pihenőparkhoz. Környezetbarát módja a Limousin szívének megismerésére.",
         "ro": "Cu sistemul de autobuze Libéo, diferitele cartiere ale orașului Brive pot fi conectate convenabil. Explorăm districtul central pe jos, apoi luăm autobuzul spre patrimoniul cultural din sud și, în final, spre parcul relaxant din nord. O modalitate ecologică de a experimenta inima regiunii Limousin.",
-        "en": "The Libéo bus network conveniently connects the different districts of Brive. We explore the central district on foot, then take a bus to the cultural heritage sites in the south, and finally to the relaxing park in the north. An eco-friendly way to experience the heart of Limousin."
+        "en": "The Libéo bus network conveniently connects the different districts of Brive. We explore the central district on foot, then take a bus to the cultural heritage sites in the south, and finally to the relaxing park in the north. An eco-friendly way to experience the heart of Limousin.",
+        "fr": "Le réseau de bus Libéo relie commodément les différents quartiers de Brive. Nous explorons le centre à pied, prenons ensuite un bus jusqu'aux sites du patrimoine culturel au sud, puis vers le parc relaxant au nord. Une façon écologique de découvrir le cœur du Limousin."
       },
       "gastro_picks": {
         "de": [
@@ -1027,6 +1074,11 @@
           "Buy a day pass for the Libéo network.",
           "Buses run very frequently in the center.",
           "Download the app for real-time departures."
+        ],
+        "fr": [
+          "Achetez un pass journalier pour le réseau Libéo.",
+          "Les bus passent très fréquemment au centre.",
+          "Téléchargez l'application pour les départs en temps réel."
         ]
       }
     }

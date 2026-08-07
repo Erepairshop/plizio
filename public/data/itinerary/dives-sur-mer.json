@@ -21,7 +21,8 @@
             "de": "Gallerie Collignal",
             "hu": "Gallerie Collignal",
             "ro": "Gallerie Collignal",
-            "en": "Gallerie Collignal"
+            "en": "Gallerie Collignal",
+            "fr": "Gallerie Collignal"
           },
           "coords": [
             -0.0968,
@@ -36,7 +37,8 @@
             "de": "Besuchen Sie diese charmante Galerie für lokale Kunstwerke und achten Sie auf die wechselnden Ausstellungen, die das kulturelle Erbe der Region perfekt einfangen.",
             "hu": "Fedezze fel ezt a bájos galériát a helyi műalkotásokért, és figyeljen az időszaki kiállításokra, amelyek tökéletesen megragadják a régió kulturális örökségét.",
             "ro": "Vizitați această galerie fermecătoare pentru opere de artă locale și urmăriți expozițiile temporare, care surprind perfect patrimoniul cultural al regiunii.",
-            "en": "Visit this charming gallery for local artworks and keep an eye on the temporary exhibitions that perfectly capture the region's rich cultural heritage."
+            "en": "Visit this charming gallery for local artworks and keep an eye on the temporary exhibitions that perfectly capture the region's rich cultural heritage.",
+            "fr": "Visitez cette charmante galerie pour des œuvres locales et surveillez les expositions temporaires qui captent parfaitement le riche patrimoine culturel de la région."
           }
         },
         {
@@ -44,7 +46,8 @@
             "de": "Villa du Temps retrouvé",
             "hu": "Villa du Temps retrouvé",
             "ro": "Villa du Temps retrouvé",
-            "en": "Villa du Temps retrouvé"
+            "en": "Villa du Temps retrouvé",
+            "fr": "Villa du Temps retrouvé"
           },
           "coords": [
             -0.11276,
@@ -59,7 +62,8 @@
             "de": "Tauchen Sie in diesem interaktiven Museum in die Belle Époque ein, aber buchen Sie Ihre Tickets im Voraus, um die immersive Marcel-Proust-Ausstellung ohne Wartezeit zu erleben.",
             "hu": "Merüljön el a Belle Époque világában ebben az interaktív múzeumban, de foglaljon jegyet előre, hogy sorban állás nélkül élvezhesse a Marcel Proust kiállítást.",
             "ro": "Cufundați-vă în atmosfera Belle Époque la acest muzeu interactiv, dar rezervați-vă biletele în avans pentru a vedea expoziția Marcel Proust fără a aștepta.",
-            "en": "Immerse yourself in the Belle Époque era at this interactive museum, but book your tickets in advance to enjoy the Marcel Proust exhibition without any waiting."
+            "en": "Immerse yourself in the Belle Époque era at this interactive museum, but book your tickets in advance to enjoy the Marcel Proust exhibition without any waiting.",
+            "fr": "Plongez dans l'époque Belle Époque dans ce musée interactif, mais réservez vos billets à l'avance pour profiter de l'exposition Marcel Proust sans attente."
           }
         },
         {
@@ -67,7 +71,8 @@
             "de": "Église Saint-Michel",
             "hu": "Église Saint-Michel",
             "ro": "Église Saint-Michel",
-            "en": "Église Saint-Michel"
+            "en": "Église Saint-Michel",
+            "fr": "Église Saint-Michel"
           },
           "coords": [
             -0.117844,
@@ -82,7 +87,8 @@
             "de": "Bewundern Sie die beeindruckende normannische Architektur dieser historischen Kirche und kommen Sie am frühen Nachmittag, wenn das Sonnenlicht die Buntglasfenster erhellt.",
             "hu": "Csodálja meg e történelmi templom lenyűgöző normann építészetét, és érkezzen kora délután, amikor a napfény csodásan megvilágítja a színes ólomüveg ablakokat.",
             "ro": "Admirați impresionanta arhitectură normandă a acestei biserici istorice și sosiți la începutul după-amiezii, când lumina soarelui luminează frumos vitraliile.",
-            "en": "Admire the impressive Norman architecture of this historic church, and arrive in the early afternoon when the sunlight beautifully illuminates the stained glass windows."
+            "en": "Admire the impressive Norman architecture of this historic church, and arrive in the early afternoon when the sunlight beautifully illuminates the stained glass windows.",
+            "fr": "Admirez l'impressionnante architecture normande de cette église historique et arrivez en début d'après-midi lorsque la lumière du soleil illumine magnifiquement les vitraux."
           }
         },
         {
@@ -90,7 +96,8 @@
             "de": "Table d'Orientation",
             "hu": "Table d'Orientation",
             "ro": "Table d'Orientation",
-            "en": "Table d'Orientation"
+            "en": "Table d'Orientation",
+            "fr": "Table d'Orientation"
           },
           "coords": [
             -0.128757,
@@ -105,7 +112,8 @@
             "de": "Genießen Sie den Panoramablick über die Flussmündung von diesem Aussichtspunkt und bringen Sie unbedingt eine Kamera mit, um die spektakuläre Küstenlandschaft festzuhalten.",
             "hu": "Élvezze a folyótorkolatra nyíló panorámát erről a kilátópontról, és mindenképpen hozzon magával fényképezőgépet, hogy megörökítse a látványos tengerparti tájat.",
             "ro": "Bucurați-vă de vederea panoramică asupra estuarului din acest punct de observație și asigurați-vă că aduceți un aparat foto pentru a surprinde peisajul de coastă.",
-            "en": "Enjoy the panoramic views over the estuary from this vantage point, and make sure to bring a camera to capture the truly spectacular coastal landscape."
+            "en": "Enjoy the panoramic views over the estuary from this vantage point, and make sure to bring a camera to capture the truly spectacular coastal landscape.",
+            "fr": "Profitez des vues panoramiques sur l'estuaire depuis ce point de vue et n'oubliez pas d'apporter un appareil photo pour capturer le paysage côtier vraiment spectaculaire."
           }
         },
         {
@@ -113,7 +121,8 @@
             "de": "SimRacing full motion",
             "hu": "SimRacing full motion",
             "ro": "SimRacing full motion",
-            "en": "SimRacing full motion"
+            "en": "SimRacing full motion",
+            "fr": "SimRacing full motion"
           },
           "coords": [
             -0.130494,
@@ -128,7 +137,8 @@
             "de": "Erleben Sie den Nervenkitzel des virtuellen Motorsports in diesen High-Tech-Simulatoren, wobei es ratsam ist, bequeme Kleidung für dieses actionreiche Familienabenteuer zu tragen.",
             "hu": "Élje át a virtuális autósport izgalmait ezekben a csúcstechnológiás szimulátorokban, és érdemes kényelmes ruházatot viselni ehhez az akciódús családi kalandhoz.",
             "ro": "Experimentați fiorul sporturilor cu motor virtuale în aceste simulatoare high-tech, fiind indicat să purtați haine confortabile pentru această aventură de familie.",
-            "en": "Experience the thrill of virtual motorsport in these high-tech simulators, and it is highly recommended to wear comfortable clothing for this action-packed family adventure."
+            "en": "Experience the thrill of virtual motorsport in these high-tech simulators, and it is highly recommended to wear comfortable clothing for this action-packed family adventure.",
+            "fr": "Vivez les sensations du sport automobile virtuel dans ces simulateurs high-tech, et il est fortement recommandé de porter des vêtements confortables pour cette aventure familiale pleine d'action."
           }
         }
       ],
@@ -136,7 +146,8 @@
         "de": "Beginnen Sie Ihren Spaziergang im Herzen der Stadt mit lokaler Kunst, bevor Sie in Richtung der Küste schlendern. Der Nachmittag bringt Sie in die faszinierende Zeit der Belle Époque. Ein historischer Kirchenbesuch und atemberaubende Ausblicke bereichern den Tag. Den Abschluss bildet ein rasantes virtuelles Erlebnis, das Moderne und Geschichte verbindet.",
         "hu": "Kezdje sétáját a város szívében a helyi művészetek felfedezésével, majd vegye az irányt a part felé. A délután a Belle Époque lenyűgöző világába kalauzolja el. Egy történelmi templomlátogatás és lélegzetelállító kilátás gazdagítja a napot. A programot egy pörgős virtuális élmény zárja, tökéletesen ötvözve a múltat a modern technológiával.",
         "ro": "Începeți plimbarea în inima orașului cu arta locală înainte de a vă îndrepta spre coastă. După-amiaza vă poartă în fascinanta eră Belle Époque. O vizită la o biserică istorică și priveliștile uimitoare îmbogățesc ziua. Turul se încheie cu o experiență virtuală rapidă, combinând istoria cu tehnologia de ultimă generație.",
-        "en": "Begin your walk in the heart of the town with local art before strolling towards the coast. The afternoon transports you into the fascinating Belle Époque era. A historical church visit and breathtaking panoramic views enrich the day. Your journey concludes with a fast-paced virtual racing experience, blending modern thrills with local history."
+        "en": "Begin your walk in the heart of the town with local art before strolling towards the coast. The afternoon transports you into the fascinating Belle Époque era. A historical church visit and breathtaking panoramic views enrich the day. Your journey concludes with a fast-paced virtual racing experience, blending modern thrills with local history.",
+        "fr": "Commencez votre promenade au cœur de la ville par de l'art local avant de vous diriger vers la côte. L'après-midi vous transporte dans la fascinante époque Belle Époque. Une visite d'église historique et des vues panoramiques à couper le souffle enrichissent la journée. Votre parcours se termine par une expérience de course virtuelle à grande vitesse, mêlant sensations modernes et histoire locale."
       },
       "variants": {
         "rainy": {
@@ -144,7 +155,8 @@
             "de": "Morgens bietet die Gallerie Collignal perfekten Schutz vor dem Regen. Mittags tauchen Sie in der Villa du Temps retrouvé in die Belle Époque ein, während es draußen gießt. Nachmittags besuchen Sie die geschützte Église Saint-Michel und beenden den Tag bei den Indoor-Aktivitäten von SimRacing. Achten Sie auf rutschige Gehwege und nutzen Sie die Passagen als Unterstand.",
             "hu": "A reggelt a Gallerie Collignal fedett terében indítjuk, elkerülve az égi áldást. Délben a Villa du Temps retrouvé múzeuma nyújt menedéket a szakadó eső elől. Délután az Église Saint-Michel csendje vár, majd a napot a SimRacing fedett szimulátoraiban zárjuk. Vigyázzon a csúszós macskakövekre a kikötő környékén, és vigyen magával egy strapabíró esernyőt.",
             "ro": "Dimineața, Gallerie Collignal oferă un refugiu artistic ideal împotriva ploii. La prânz, Villa du Temps retrouvé vă permite să explorați istoria la adăpost. După-amiaza vizităm interiorul bisericii Saint-Michel, iar seara ne distrăm la SimRacing. Atenție la pavajul alunecos și folosiți arcadele clădirilor pentru a rămâne uscați între obiective.",
-            "en": "Morning starts at Gallerie Collignal, a perfect indoor sanctuary from the drizzle. At noon, explore the immersive Villa du Temps retrouvé while staying completely dry. Spend the afternoon inside the peaceful Saint-Michel Church before finishing with high-speed indoor fun at SimRacing. Watch out for slippery surfaces on the harbor walks and keep a sturdy umbrella handy."
+            "en": "Morning starts at Gallerie Collignal, a perfect indoor sanctuary from the drizzle. At noon, explore the immersive Villa du Temps retrouvé while staying completely dry. Spend the afternoon inside the peaceful Saint-Michel Church before finishing with high-speed indoor fun at SimRacing. Watch out for slippery surfaces on the harbor walks and keep a sturdy umbrella handy.",
+            "fr": "La matinée commence à la Gallerie Collignal, un refuge intérieur parfait contre la bruine. À midi, explorez la Villa du Temps retrouvé sans vous mouiller. Passez l'après-midi à l'intérieur de la paisible Église Saint-Michel avant de finir par des sensations à grande vitesse au SimRacing. Attention aux surfaces glissantes sur les promenades du port et gardez un parapluie solide à portée de main."
           },
           "stops": [
             {
@@ -152,13 +164,15 @@
                 "de": "Gallerie Collignal",
                 "hu": "Gallerie Collignal",
                 "ro": "Gallerie Collignal",
-                "en": "Gallerie Collignal"
+                "en": "Gallerie Collignal",
+                "fr": "Gallerie Collignal"
               },
               "tip_5lang": {
                 "de": "Diese Kunstgalerie ist der ideale Ort, um dem Regen zu entfliehen und lokale Werke in einer gemütlichen Atmosphäre zu bewundern; tragen Sie wasserfeste Schuhe für den Weg.",
                 "hu": "Ez a művészeti galéria ideális hely az eső elől való menekülésre, ahol barátságos környezetben csodálhatjuk a helyi alkotásokat; a bejáratnál használja a kihelyezett esernyőtartót.",
                 "ro": "Această galerie de artă este locul ideal pentru a scăpa de ploaie și a admira lucrări locale într-o atmosferă primitoare; purtați încălțăminte impermeabilă pentru drum.",
-                "en": "This art gallery is the ideal spot to escape the rain and admire local works in a cozy atmosphere; make sure to wear waterproof shoes for the short walk between venues."
+                "en": "This art gallery is the ideal spot to escape the rain and admire local works in a cozy atmosphere; make sure to wear waterproof shoes for the short walk between venues.",
+                "fr": "Cette galerie d'art est l'endroit idéal pour échapper à la pluie et admirer des œuvres locales dans une ambiance cosy ; pensez à porter des chaussures imperméables pour la courte distance entre les lieux."
               }
             },
             {
@@ -166,13 +180,15 @@
                 "de": "Villa du Temps retrouvé",
                 "hu": "Villa du Temps retrouvé",
                 "ro": "Villa du Temps retrouvé",
-                "en": "Villa du Temps retrouvé"
+                "en": "Villa du Temps retrouvé",
+                "fr": "Villa du Temps retrouvé"
               },
               "tip_5lang": {
                 "de": "Ein großartiges Museum mit interaktiven Ausstellungen, in dem man Stunden im Trockenen verbringen kann; nutzen Sie die Garderobe für Ihre nassen Regenmäntel.",
                 "hu": "Kiváló múzeum interaktív kiállításokkal, ahol órákat tölthetünk el szárazon; használja a ruhatárat a vizes esőkabátok és ernyők biztonságos elhelyezésére.",
                 "ro": "Un muzeu excelent cu expoziții interactive unde puteți petrece ore întregi la adăpost; folosiți garderoba pentru a vă lăsa pelerinele de ploaie ude.",
-                "en": "A magnificent museum with interactive exhibits where you can spend hours indoors; use the cloakroom to store your wet coats and enjoy the visit comfortably."
+                "en": "A magnificent museum with interactive exhibits where you can spend hours indoors; use the cloakroom to store your wet coats and enjoy the visit comfortably.",
+                "fr": "Un magnifique musée avec des expositions interactives où vous pouvez passer des heures à l'intérieur ; utilisez le vestiaire pour ranger vos manteaux mouillés et profiter de la visite confortablement."
               }
             },
             {
@@ -180,13 +196,15 @@
                 "de": "Église Saint-Michel",
                 "hu": "Église Saint-Michel",
                 "ro": "Église Saint-Michel",
-                "en": "Église Saint-Michel"
+                "en": "Église Saint-Michel",
+                "fr": "Église Saint-Michel"
               },
               "tip_5lang": {
                 "de": "Die Kirche bietet eine stille und trockene Zuflucht mit beeindruckender Architektur; achten Sie beim Eintreten auf die durch Feuchtigkeit glatten Stufen am Portal.",
                 "hu": "A templom csendes és száraz menedéket nyújt lenyűgöző építészettel; belépéskor ügyeljen a nedvességtől csúszóssá vált lépcsőkre a főbejáratnál.",
                 "ro": "Biserica oferă un refugiu liniștit și uscat, cu o arhitectură impresionantă; atenție la treptele portalului care devin foarte alunecoase din cauza umidității.",
-                "en": "The church provides a quiet and dry refuge with impressive architecture; be careful when entering as the stone steps can become quite slick in the rain."
+                "en": "The church provides a quiet and dry refuge with impressive architecture; be careful when entering as the stone steps can become quite slick in the rain.",
+                "fr": "L'église offre un refuge calme et sec avec une architecture impressionnante ; faites attention en entrant car les marches en pierre peuvent devenir très glissantes sous la pluie."
               }
             },
             {
@@ -194,13 +212,15 @@
                 "de": "Table d'Orientation",
                 "hu": "Table d'Orientation",
                 "ro": "Table d'Orientation",
-                "en": "Table d'Orientation"
+                "en": "Table d'Orientation",
+                "fr": "Table d'Orientation"
               },
               "tip_5lang": {
                 "de": "Auch bei Regen bietet dieser Aussichtspunkt eine dramatische Sicht auf die Küste; ein windfester Regenschirm ist hier wegen der exponierten Lage unerlässlich.",
                 "hu": "Esőben is drámai kilátás nyílik innen a tengerpartra; a szeles, kitett helyszín miatt egy viharálló esernyő vagy kapucnis esőkabát elengedhetetlen a látogatáshoz.",
                 "ro": "Chiar și pe ploaie, acest punct de observație oferă o vedere dramatică asupra coastei; o umbrelă rezistentă la vânt este esențială din cauza locației expuse.",
-                "en": "Even in the rain, this viewpoint offers a dramatic vista of the coast; a windproof umbrella is essential here due to the exposed and windy cliffside location."
+                "en": "Even in the rain, this viewpoint offers a dramatic vista of the coast; a windproof umbrella is essential here due to the exposed and windy cliffside location.",
+                "fr": "Même sous la pluie, ce point de vue offre une vue spectaculaire sur la côte ; un parapluie coupe-vent est indispensable en raison de l'emplacement exposé et venteux de la falaise."
               }
             },
             {
@@ -208,13 +228,15 @@
                 "de": "SimRacing full motion",
                 "hu": "SimRacing full motion",
                 "ro": "SimRacing full motion",
-                "en": "SimRacing full motion"
+                "en": "SimRacing full motion",
+                "fr": "SimRacing full motion"
               },
               "tip_5lang": {
                 "de": "Die perfekte Indoor-Aktivität, um den Tag bei jedem Wetter actionreich abzuschließen; ideal, um sich aufzuwärmen und den Regen draußen völlig zu vergessen.",
                 "hu": "Tökéletes beltéri program, amivel bármilyen időjárás esetén akciódúsan zárhatjuk a napot; ideális hely felmelegedni és teljesen megfeledkezni a kinti esőről.",
                 "ro": "Activitatea indoor perfectă pentru a încheia ziua cu adrenalină indiferent de vreme; locul ideal pentru a vă încălzi și a uita complet de ploaia de afară.",
-                "en": "The perfect indoor activity to end your day with action regardless of the weather; it's a great spot to warm up and completely forget about the rain outside."
+                "en": "The perfect indoor activity to end your day with action regardless of the weather; it's a great spot to warm up and completely forget about the rain outside.",
+                "fr": "L'activité intérieure idéale pour terminer votre journée avec de l'action quelle que soit la météo ; c'est un excellent endroit pour se réchauffer et oublier complètement la pluie extérieure."
               }
             }
           ]
@@ -224,7 +246,8 @@
             "de": "Beginnen Sie Ihren Winterspaziergang in der warmen Galerie. Mittags wärmen Sie sich in den geheizten Räumen der Villa du Temps retrouvé auf. Nachmittags besuchen Sie die Kirche, bevor Sie um 17:00 Uhr den Sonnenuntergang an der Table d'Orientation bewundern. Beenden Sie den Tag im SimRacing-Zentrum. Tragen Sie Schichten und planen Sie Pausen in beheizten Cafés ein.",
             "hu": "Indítsa a téli sétát a jól fűtött galériában. Délben melegedjen fel a Villa du Temps retrouvé tárlatain, elkerülve a jeges tengeri szelet. Délután látogassa meg a templomot, majd 17:00-kor csodálja meg a korai naplementét a Table d'Orientation pontnál. A napot a meleg szimulátor-teremben zárja. Réteges öltözet és forró italok ajánlottak a parti szél miatt.",
             "ro": "Începeți plimbarea de iarnă în căldura galeriei. La prânz, încălziți-vă în camerele încălzite de la Villa du Temps retrouvé. Vizitați biserica după-amiaza, înainte de a admira apusul de la ora 17:00 la Table d'Orientation. Încheiați ziua la centrul SimRacing. Purtați haine groase în straturi și planificați pauze dese în cafenelele încălzite.",
-            "en": "Start your winter walk in the cozy warmth of the gallery. At noon, take refuge from the biting sea wind inside the heated Villa du Temps retrouvé. Visit the church in the afternoon, making sure to reach the Table d'Orientation by 17:00 for the winter sunset. End your day at the warm SimRacing center. Dress in layers and enjoy local hot chocolate along the way."
+            "en": "Start your winter walk in the cozy warmth of the gallery. At noon, take refuge from the biting sea wind inside the heated Villa du Temps retrouvé. Visit the church in the afternoon, making sure to reach the Table d'Orientation by 17:00 for the winter sunset. End your day at the warm SimRacing center. Dress in layers and enjoy local hot chocolate along the way.",
+            "fr": "Commencez votre promenade hivernale dans la chaleur cosy de la galerie. À midi, mettez-vous à l'abri du vent marin mordant à l'intérieur de la Villa du Temps retrouvé chauffée. Visitez l'église l'après-midi en veillant à atteindre la Table d'Orientation avant 17h00 pour le coucher de soleil d'hiver. Terminez votre journée au centre SimRacing chauffé. Habillez-vous en couches et dégustez un chocolat chaud local en chemin."
           },
           "stops": [
             {
@@ -232,13 +255,15 @@
                 "de": "Gallerie Collignal",
                 "hu": "Gallerie Collignal",
                 "ro": "Gallerie Collignal",
-                "en": "Gallerie Collignal"
+                "en": "Gallerie Collignal",
+                "fr": "Gallerie Collignal"
               },
               "tip_5lang": {
                 "de": "In den Wintermonaten ist die Galerie angenehm beheizt und bietet eine ruhige Atmosphäre für Kunstliebhaber; ideal, um sich vor dem nächsten Spaziergang aufzuwärmen.",
                 "hu": "A téli hónapokban a galéria kellemesen fűtött, és nyugodt légkört biztosít a művészetkedvelőknek; ideális hely a felmelegedésre a következő séta előtt.",
                 "ro": "În lunile de iarnă, galeria este încălzită plăcut și oferă o atmosferă liniștită pentru iubitorii de artă; ideal pentru a vă încălzi înainte de următoarea plimbare.",
-                "en": "During winter, the gallery is comfortably heated and offers a peaceful atmosphere for art lovers; it's the perfect spot to warm up before continuing your walk."
+                "en": "During winter, the gallery is comfortably heated and offers a peaceful atmosphere for art lovers; it's the perfect spot to warm up before continuing your walk.",
+                "fr": "En hiver, la galerie est confortablement chauffée et offre une atmosphère paisible pour les amateurs d'art ; c'est l'endroit parfait pour se réchauffer avant de poursuivre la promenade."
               }
             },
             {
@@ -246,13 +271,15 @@
                 "de": "Villa du Temps retrouvé",
                 "hu": "Villa du Temps retrouvé",
                 "ro": "Villa du Temps retrouvé",
-                "en": "Villa du Temps retrouvé"
+                "en": "Villa du Temps retrouvé",
+                "fr": "Villa du Temps retrouvé"
               },
               "tip_5lang": {
                 "de": "Besuchen Sie die Ausstellungen im Winter, wenn es weniger überlaufen ist, und genießen Sie die warme, einladende Umgebung dieses historischen Gebäudes.",
                 "hu": "Télen látogassa meg a kiállításokat, amikor kevesebb a turista, és élvezze e történelmi épület meleg, hívogató belső tereit a hideg szél elől menekülve.",
                 "ro": "Vizitați expozițiile iarna, când este mai puțin aglomerat, și bucurați-vă de mediul cald și primitor al acestei clădiri istorice ferite de ger.",
-                "en": "Visit the exhibits in winter when it's less crowded and enjoy the warm, inviting environment of this historic building while sheltered from the cold."
+                "en": "Visit the exhibits in winter when it's less crowded and enjoy the warm, inviting environment of this historic building while sheltered from the cold.",
+                "fr": "Visitez les expositions en hiver quand il y a moins d'affluence et profitez de l'ambiance chaleureuse et accueillante de ce bâtiment historique à l'abri du froid."
               }
             },
             {
@@ -260,13 +287,15 @@
                 "de": "Église Saint-Michel",
                 "hu": "Église Saint-Michel",
                 "ro": "Église Saint-Michel",
-                "en": "Église Saint-Michel"
+                "en": "Église Saint-Michel",
+                "fr": "Église Saint-Michel"
               },
               "tip_5lang": {
                 "de": "Obwohl die Kirche kühl sein kann, bietet sie Schutz vor dem Winterwind; bewundern Sie das Lichtspiel der tiefstehenden Wintersonne in den Fenstern.",
                 "hu": "Bár a templom hűvös lehet, jó védelmet nyújt a téli szél ellen; csodálja meg az alacsonyan járó téli nap fényét a gyönyörű ólomüveg ablakokon keresztül.",
                 "ro": "Deși biserica poate fi răcoroasă, oferă protecție împotriva vântului de iarnă; admirați jocul de lumini al soarelui de iarnă prin vitraliile colorate.",
-                "en": "Although the church interior can be chilly, it offers solid protection from the winter wind; admire how the low winter sun lights up the stained glass windows."
+                "en": "Although the church interior can be chilly, it offers solid protection from the winter wind; admire how the low winter sun lights up the stained glass windows.",
+                "fr": "Bien que l'intérieur de l'église puisse être frais, il offre une protection solide contre le vent d'hiver ; admirez comment le faible soleil d'hiver éclaire les vitraux."
               }
             },
             {
@@ -274,13 +303,15 @@
                 "de": "Table d'Orientation",
                 "hu": "Table d'Orientation",
                 "ro": "Table d'Orientation",
-                "en": "Table d'Orientation"
+                "en": "Table d'Orientation",
+                "fr": "Table d'Orientation"
               },
               "tip_5lang": {
                 "de": "Kommen Sie vor 17:00 Uhr hierher, um den klaren Winterhimmel beim Sonnenuntergang zu erleben; dicke Handschuhe und eine Mütze sind wegen der Kälte unverzichtbar.",
                 "hu": "Érkezzen 17:00 előtt, hogy lássa a tiszta téli égboltot naplementekor; a fagyos tengeri szél miatt a vastag kesztyű és sapka használata kötelező ezen a ponton.",
                 "ro": "Veniți aici înainte de ora 17:00 pentru a vedea cerul senin de iarnă la apus; mănușile groase și căciula sunt indispensabile din cauza frigului de pe faleză.",
-                "en": "Arrive before 17:00 to catch the crisp winter sky at sunset; thick gloves and a hat are indispensable due to the freezing sea breeze at this high point."
+                "en": "Arrive before 17:00 to catch the crisp winter sky at sunset; thick gloves and a hat are indispensable due to the freezing sea breeze at this high point.",
+                "fr": "Arrivez avant 17h00 pour observer le ciel d'hiver au coucher du soleil ; des gants épais et un bonnet sont indispensables en raison de la brise marine glaciale à ce point élevé."
               }
             },
             {
@@ -288,13 +319,15 @@
                 "de": "SimRacing full motion",
                 "hu": "SimRacing full motion",
                 "ro": "SimRacing full motion",
-                "en": "SimRacing full motion"
+                "en": "SimRacing full motion",
+                "fr": "SimRacing full motion"
               },
               "tip_5lang": {
                 "de": "Ein hervorragender Ort, um den Tag im Warmen ausklingen zu lassen, besonders wenn es draußen früh dunkel wird; die Bewegung im Simulator hält Sie warm.",
                 "hu": "Kiváló hely a nap melegben történő lezárásához, különösen, mivel kint korán sötétedik; a szimulátorban való aktív mozgás garantáltan felmelegíti a testét.",
                 "ro": "Un loc excelent pentru a încheia ziua la căldură, mai ales că afară se întunecă devreme; mișcarea în simulator vă va menține temperatura corpului ridicată.",
-                "en": "An excellent spot to end your day in the warmth, especially since it gets dark early; the active movement in the simulator will keep your energy levels high."
+                "en": "An excellent spot to end your day in the warmth, especially since it gets dark early; the active movement in the simulator will keep your energy levels high.",
+                "fr": "Un excellent endroit pour terminer la journée au chaud, surtout qu'il fait nuit tôt ; les mouvements actifs dans le simulateur maintiendront votre niveau d'énergie."
               }
             }
           ]
@@ -314,7 +347,8 @@
             "de": "Église Saint-Ouen",
             "hu": "Église Saint-Ouen",
             "ro": "Église Saint-Ouen",
-            "en": "Église Saint-Ouen"
+            "en": "Église Saint-Ouen",
+            "fr": "Église Saint-Ouen"
           },
           "coords": [
             -0.106063,
@@ -329,7 +363,8 @@
             "de": "Entdecken Sie die spirituelle Ruhe dieser alten Kirche und achten Sie besonders auf die detaillierten Holzschnitzereien, die oft von Besuchern übersehen werden.",
             "hu": "Fedezze fel e régi templom spirituális nyugalmát, és figyeljen a részletes fafaragásokra, amelyeket a látogatók gyakran hajlamosak figyelmen kívül hagyni.",
             "ro": "Descoperiți liniștea spirituală a acestei biserici vechi și acordați o atenție deosebită sculpturilor în lemn detaliate, care sunt adesea trecute cu vederea.",
-            "en": "Discover the spiritual tranquility of this ancient church and pay special attention to the detailed wood carvings that are frequently overlooked by casual visitors."
+            "en": "Discover the spiritual tranquility of this ancient church and pay special attention to the detailed wood carvings that are frequently overlooked by casual visitors.",
+            "fr": "Découvrez la tranquillité spirituelle de cette ancienne église et prêtez une attention particulière aux sculptures sur bois détaillées souvent négligées par les visiteurs occasionnels."
           }
         },
         {
@@ -337,7 +372,8 @@
             "de": "Gallerie Collignal",
             "hu": "Gallerie Collignal",
             "ro": "Gallerie Collignal",
-            "en": "Gallerie Collignal"
+            "en": "Gallerie Collignal",
+            "fr": "Gallerie Collignal"
           },
           "coords": [
             -0.0968,
@@ -352,7 +388,8 @@
             "de": "Besuchen Sie diese charmante Galerie für lokale Kunstwerke und achten Sie auf die wechselnden Ausstellungen, die das kulturelle Erbe der Region perfekt einfangen.",
             "hu": "Fedezze fel ezt a bájos galériát a helyi műalkotásokért, és figyeljen az időszaki kiállításokra, amelyek tökéletesen megragadják a régió kulturális örökségét.",
             "ro": "Vizitați această galerie fermecătoare pentru opere de artă locale și urmăriți expozițiile temporare, care surprind perfect patrimoniul cultural al regiunii.",
-            "en": "Visit this charming gallery for local artworks and keep an eye on the temporary exhibitions that perfectly capture the region's rich cultural heritage."
+            "en": "Visit this charming gallery for local artworks and keep an eye on the temporary exhibitions that perfectly capture the region's rich cultural heritage.",
+            "fr": "Visitez cette charmante galerie pour des œuvres locales et surveillez les expositions temporaires qui captent parfaitement le riche patrimoine culturel de la région."
           }
         },
         {
@@ -360,7 +397,8 @@
             "de": "Villa du Temps retrouvé",
             "hu": "Villa du Temps retrouvé",
             "ro": "Villa du Temps retrouvé",
-            "en": "Villa du Temps retrouvé"
+            "en": "Villa du Temps retrouvé",
+            "fr": "Villa du Temps retrouvé"
           },
           "coords": [
             -0.11276,
@@ -375,7 +413,8 @@
             "de": "Tauchen Sie in diesem interaktiven Museum in die Belle Époque ein, aber buchen Sie Ihre Tickets im Voraus, um die immersive Marcel-Proust-Ausstellung ohne Wartezeit zu erleben.",
             "hu": "Merüljön el a Belle Époque világában ebben az interaktív múzeumban, de foglaljon jegyet előre, hogy sorban állás nélkül élvezhesse a Marcel Proust kiállítást.",
             "ro": "Cufundați-vă în atmosfera Belle Époque la acest muzeu interactiv, dar rezervați-vă biletele în avans pentru a vedea expoziția Marcel Proust fără a aștepta.",
-            "en": "Immerse yourself in the Belle Époque era at this interactive museum, but book your tickets in advance to enjoy the Marcel Proust exhibition without any waiting."
+            "en": "Immerse yourself in the Belle Époque era at this interactive museum, but book your tickets in advance to enjoy the Marcel Proust exhibition without any waiting.",
+            "fr": "Plongez dans l'époque Belle Époque dans ce musée interactif, mais réservez vos billets à l'avance pour profiter de l'exposition Marcel Proust sans attente."
           }
         },
         {
@@ -383,7 +422,8 @@
             "de": "Club Mickey",
             "hu": "Club Mickey",
             "ro": "Club Mickey",
-            "en": "Club Mickey"
+            "en": "Club Mickey",
+            "fr": "Club Mickey"
           },
           "coords": [
             -0.121668,
@@ -398,7 +438,8 @@
             "de": "Dieser lebhafte Strandclub ist ideal für Kinder mit zahlreichen Aktivitäten, also bringen Sie ausreichend Sonnencreme mit, während die Kleinen den Sandstrand genießen.",
             "hu": "Ez a nyüzsgő strandklub rengeteg tevékenységgel várja a gyerekeket, ezért hozzon sok naptejet, amíg a legkisebbek a homokos tengerparton játszanak és szórakoznak.",
             "ro": "Acest club plin de viață pe plajă oferă numeroase activități pentru copii, așa că aduceți multă cremă de protecție solară în timp ce cei mici se bucură de nisip.",
-            "en": "This lively beach club offers numerous activities for children, so bring plenty of sunscreen while the little ones safely enjoy playing on the sandy beach."
+            "en": "This lively beach club offers numerous activities for children, so bring plenty of sunscreen while the little ones safely enjoy playing on the sandy beach.",
+            "fr": "Ce club de plage animé propose de nombreuses activités pour les enfants, pensez donc à prendre beaucoup de crème solaire pendant que les plus jeunes jouent en toute sécurité sur le sable."
           }
         },
         {
@@ -406,7 +447,8 @@
             "de": "Golf Miniature de Cabourg",
             "hu": "Golf Miniature de Cabourg",
             "ro": "Golf Miniature de Cabourg",
-            "en": "Golf Miniature de Cabourg"
+            "en": "Golf Miniature de Cabourg",
+            "fr": "Golf Miniature de Cabourg"
           },
           "coords": [
             -0.112126,
@@ -421,7 +463,8 @@
             "de": "Verbringen Sie eine unterhaltsame Stunde auf diesem gut gepflegten Minigolfplatz, der am späten Nachmittag weniger überlaufen ist und Spaß für alle Altersgruppen bietet.",
             "hu": "Töltsön el egy szórakoztató órát ezen a jól karbantartott minigolfpályán, amely késő délután kevésbé zsúfolt, és minden korosztály számára remek kikapcsolódás.",
             "ro": "Petreceți o oră distractivă pe acest teren de minigolf bine întreținut, care este mai puțin aglomerat după-amiaza târziu și oferă distracție pentru toate vârstele.",
-            "en": "Spend an entertaining hour at this well-maintained miniature golf course, which is less crowded in the late afternoon and provides fun for players of all ages."
+            "en": "Spend an entertaining hour at this well-maintained miniature golf course, which is less crowded in the late afternoon and provides fun for players of all ages.",
+            "fr": "Passez une heure divertissante sur ce parcours de mini-golf bien entretenu, qui est moins fréquenté en fin d'après-midi et offre du plaisir pour tous les âges."
           }
         },
         {
@@ -429,7 +472,8 @@
             "de": "Table d'Orientation",
             "hu": "Table d'Orientation",
             "ro": "Table d'Orientation",
-            "en": "Table d'Orientation"
+            "en": "Table d'Orientation",
+            "fr": "Table d'Orientation"
           },
           "coords": [
             -0.128757,
@@ -444,7 +488,8 @@
             "de": "Genießen Sie den Panoramablick über die Flussmündung von diesem Aussichtspunkt und bringen Sie unbedingt eine Kamera mit, um die spektakuläre Küstenlandschaft festzuhalten.",
             "hu": "Élvezze a folyótorkolatra nyíló panorámát erről a kilátópontról, és mindenképpen hozzon magával fényképezőgépet, hogy megörökítse a látványos tengerparti tájat.",
             "ro": "Bucurați-vă de vederea panoramică asupra estuarului din acest punct de observație și asigurați-vă că aduceți un aparat foto pentru a surprinde peisajul de coastă.",
-            "en": "Enjoy the panoramic views over the estuary from this vantage point, and make sure to bring a camera to capture the truly spectacular coastal landscape."
+            "en": "Enjoy the panoramic views over the estuary from this vantage point, and make sure to bring a camera to capture the truly spectacular coastal landscape.",
+            "fr": "Profitez des vues panoramiques sur l'estuaire depuis ce point de vue et n'oubliez pas d'apporter un appareil photo pour capturer le paysage côtier vraiment spectaculaire."
           }
         }
       ],
@@ -452,7 +497,8 @@
         "de": "Ihre Radtour startet an einer friedlichen historischen Kirche, weit entfernt vom Trubel. Radeln Sie weiter durch die Straßen zu kulturellen Highlights und prächtigen Museen. Am Nachmittag erwarten Sie familienfreundliche Stopps und unterhaltsame Strandaktivitäten. Schließlich belohnt Sie eine kurze Fahrt zur Küste mit einem unvergesslichen Sonnenuntergangspanorama.",
         "hu": "A kerékpártúra egy békés történelmi templomnál kezdődik, távol a zajtól. Tekerjen tovább az utcákon kulturális látnivalók és csodás múzeumok felé. Délután családbarát megállók és szórakoztató tengerparti tevékenységek várják. Végül egy rövid tekerés a part mentén felejthetetlen naplementés panorámával jutalmazza meg fáradozásait.",
         "ro": "Turul cu bicicleta începe la o biserică istorică pașnică, departe de agitație. Pedalați prin străzi către atracții culturale și muzee magnifice. După-amiaza vă așteaptă opriri potrivite pentru familii și activități pe plajă. În cele din urmă, o scurtă plimbare vă răsplătește cu o panoramă de neuitat a apusului de soare.",
-        "en": "Your cycling tour starts at a peaceful historic church, far from the bustling crowds. Pedal through the charming streets towards cultural highlights and magnificent museums. In the afternoon, family-friendly stops and fun beach activities await. Finally, a short ride along the coast rewards you with an unforgettable panoramic sunset view."
+        "en": "Your cycling tour starts at a peaceful historic church, far from the bustling crowds. Pedal through the charming streets towards cultural highlights and magnificent museums. In the afternoon, family-friendly stops and fun beach activities await. Finally, a short ride along the coast rewards you with an unforgettable panoramic sunset view.",
+        "fr": "Votre circuit à vélo commence à une église historique paisible, loin de la foule. Pédalez dans les rues charmantes vers des sites culturels et des musées magnifiques. L'après-midi, des arrêts familiaux et des activités de plage amusantes vous attendent. Enfin, une courte balade le long de la côte vous récompense par un coucher de soleil panoramique inoubliable."
       },
       "variants": {
         "rainy": {
@@ -460,7 +506,8 @@
             "de": "Eine Radtour im Regen erfordert Vorsicht auf den Küstenwegen. Besuchen Sie morgens die Kirche Saint-Ouen und mittags die Galerie und die Villa, um trocken zu bleiben. Nachmittags fordern der Club Mickey und der Golfplatz Ihre Wetterfestigkeit heraus, bevor Sie zur Table d'Orientation fahren. Achten Sie auf rutschige Kurven und tragen Sie eine hochwertige Regenjacke.",
             "hu": "Az esős bringázás óvatosságot igényel a parti utakon. Reggel a Saint-Ouen templom, délben a galéria és a Villa nyújt fedezéket. Délután a Club Mickey és a minigolf próbára teszi kitartását, mielőtt feltekerne a kilátóhoz. Ügyeljen a csúszós kanyarokra, használjon sárvédőt, és viseljen teljesen vízhatlan ruházatot a túra során.",
             "ro": "O tură cu bicicleta pe ploaie necesită prudență pe drumurile de coastă. Vizitați biserica Saint-Ouen dimineața, iar la prânz galeria și Villa pentru a rămâne uscați. După-amiaza, Club Mickey și minigolful vă vor testa rezistența, înainte de a urca la Table d'Orientation. Atenție la curbele alunecoase și purtați o pelerină de calitate.",
-            "en": "Cycling in the rain requires extra caution on the coastal paths. Visit Saint-Ouen Church in the morning, and use the gallery and Villa at noon as dry stops. In the afternoon, Club Mickey and the mini-golf will test your gear before the final ride to the viewpoint. Watch for slippery corners, use mudguards, and wear high-quality waterproof clothing."
+            "en": "Cycling in the rain requires extra caution on the coastal paths. Visit Saint-Ouen Church in the morning, and use the gallery and Villa at noon as dry stops. In the afternoon, Club Mickey and the mini-golf will test your gear before the final ride to the viewpoint. Watch for slippery corners, use mudguards, and wear high-quality waterproof clothing.",
+            "fr": "Le cyclisme sous la pluie nécessite une prudence accrue sur les sentiers côtiers. Visitez l'église Saint-Ouen le matin et utilisez la galerie et la Villa à midi comme points secs. L'après-midi, Club Mickey et le mini-golf mettront votre équipement à l'épreuve avant la dernière montée vers le point de vue. Méfiez-vous des virages glissants, utilisez des garde-boue et portez des vêtements imperméables de haute qualité."
           },
           "stops": [
             {
@@ -468,13 +515,15 @@
                 "de": "Église Saint-Ouen",
                 "hu": "Église Saint-Ouen",
                 "ro": "Église Saint-Ouen",
-                "en": "Église Saint-Ouen"
+                "en": "Église Saint-Ouen",
+                "fr": "Église Saint-Ouen"
               },
               "tip_5lang": {
                 "de": "Stellen Sie Ihr Rad unter und nutzen Sie die Kirche als trockenen Rückzugsort; achten Sie auf den nassen Boden beim Absteigen direkt vor dem Eingang.",
                 "hu": "Parkoljon le fedett helyen, és használja a templomot száraz pihenőként; vigyázzon a vizes aszfaltra, amikor közvetlenül a bejárat előtt leszáll a bringáról.",
                 "ro": "Parcați bicicleta la adăpost și folosiți biserica ca refugiu uscat; atenție la solul umed când coborâți de pe bicicletă chiar în fața intrării.",
-                "en": "Park your bike under shelter and use the church as a dry retreat; be careful of the wet ground when dismounting your bike right in front of the entrance."
+                "en": "Park your bike under shelter and use the church as a dry retreat; be careful of the wet ground when dismounting your bike right in front of the entrance.",
+                "fr": "Garez votre vélo à l'abri et utilisez l'église comme refuge sec ; faites attention au sol humide en descellant de votre vélo juste devant l'entrée."
               }
             },
             {
@@ -482,13 +531,15 @@
                 "de": "Gallerie Collignal",
                 "hu": "Gallerie Collignal",
                 "ro": "Gallerie Collignal",
-                "en": "Gallerie Collignal"
+                "en": "Gallerie Collignal",
+                "fr": "Gallerie Collignal"
               },
               "tip_5lang": {
                 "de": "Ein idealer Zwischenstopp, um sich aufzuwärmen und die Kleidung zu trocknen, während Sie Kunst bewundern; prüfen Sie Ihre Bremsen nach der Fahrt im Regen.",
                 "hu": "Ideális megálló a felmelegedésre és a ruha szárítására művészetnézés közben; az esőben való tekerés után ellenőrizze a fékpofák állapotát és hatékonyságát.",
                 "ro": "O oprire ideală pentru a vă încălzi și a vă usca hainele în timp ce admirați arta; verificați frânele după ce ați condus bicicleta prin ploaie.",
-                "en": "An ideal stop to warm up and let your gear dry while admiring the art; remember to check your brake pads after riding through the persistent rain."
+                "en": "An ideal stop to warm up and let your gear dry while admiring the art; remember to check your brake pads after riding through the persistent rain.",
+                "fr": "Un arrêt idéal pour se réchauffer et laisser sécher votre équipement tout en admirant l'art ; pensez à vérifier vos patins de frein après avoir roulé sous la pluie persistante."
               }
             },
             {
@@ -496,13 +547,15 @@
                 "de": "Villa du Temps retrouvé",
                 "hu": "Villa du Temps retrouvé",
                 "ro": "Villa du Temps retrouvé",
-                "en": "Villa du Temps retrouvé"
+                "en": "Villa du Temps retrouvé",
+                "fr": "Villa du Temps retrouvé"
               },
               "tip_5lang": {
                 "de": "Nutzen Sie die langen Besichtigungszeiten, um den stärksten Regen abzuwarten; es gibt Fahrradständer in der Nähe, die teils geschützt liegen.",
                 "hu": "Használja ki a hosszú látogatási időt a heves esőzés kivárására; a közelben találhatók kerékpártárolók, melyek részben védettek az égi áldástól.",
                 "ro": "Profitați de timpul lung de vizitare pentru a aștepta trecerea ploii torențiale; există rastele pentru biciclete în apropiere, parțial protejate de intemperii.",
-                "en": "Take advantage of the long indoor visiting times to wait out the heaviest rain; there are bicycle racks nearby, some of which are partially sheltered."
+                "en": "Take advantage of the long indoor visiting times to wait out the heaviest rain; there are bicycle racks nearby, some of which are partially sheltered.",
+                "fr": "Profitez des longues heures de visite à l'intérieur pour attendre la pluie la plus forte ; il y a des arceaux pour vélos à proximité, certains partiellement abrités."
               }
             },
             {
@@ -510,13 +563,15 @@
                 "de": "Club Mickey",
                 "hu": "Club Mickey",
                 "ro": "Club Mickey",
-                "en": "Club Mickey"
+                "en": "Club Mickey",
+                "fr": "Club Mickey"
               },
               "tip_5lang": {
                 "de": "Am Strand kann es bei Regen sehr windig sein; stellen Sie sicher, dass Ihr Rad sicher steht und nicht vom Wind umgeweht wird.",
                 "hu": "A tengerparton esőben nagyon szeles lehet az idő; győződjön meg róla, hogy a kerékpár stabilan áll, és a szél nem dönti fel a homokos talajon.",
                 "ro": "Pe plajă poate fi foarte vântos când plouă; asigurați-vă că bicicleta este parcată stabil și nu va fi răsturnată de rafalele puternice de vânt.",
-                "en": "The beachfront can get very windy during rain; ensure your bike is securely parked so the wind doesn't blow it over on the damp coastal path."
+                "en": "The beachfront can get very windy during rain; ensure your bike is securely parked so the wind doesn't blow it over on the damp coastal path.",
+                "fr": "Le bord de mer peut être très venteux sous la pluie ; assurez-vous que votre vélo est solidement garé pour éviter qu'il ne tombe sur le chemin côtier humide."
               }
             },
             {
@@ -524,13 +579,15 @@
                 "de": "Golf Miniature de Cabourg",
                 "hu": "Golf Miniature de Cabourg",
                 "ro": "Golf Miniature de Cabourg",
-                "en": "Golf Miniature de Cabourg"
+                "en": "Golf Miniature de Cabourg",
+                "fr": "Golf Miniature de Cabourg"
               },
               "tip_5lang": {
                 "de": "Das Spielen im Regen ist möglich, aber die Bahnen sind rutschig; tragen Sie griffige Schuhe, um auf dem feuchten Kunstrasen nicht auszurutschen.",
                 "hu": "Az esőben való játék lehetséges, de a pályák csúszósak; viseljen tapadós talpú cipőt, hogy elkerülje az elcsúszást a nedves műfüves felületeken.",
                 "ro": "Jocul pe ploaie este posibil, dar pistele sunt alunecoase; purtați încălțăminte cu aderență bună pentru a nu aluneca pe gazonul artificial umed.",
-                "en": "Playing in the rain is possible but the courses are slippery; wear shoes with good grip to avoid slipping on the wet artificial turf surfaces."
+                "en": "Playing in the rain is possible but the courses are slippery; wear shoes with good grip to avoid slipping on the wet artificial turf surfaces.",
+                "fr": "Il est possible de jouer sous la pluie mais les parcours deviennent glissants ; portez des chaussures à bonne adhérence pour éviter de glisser sur les surfaces d'herbe synthétique mouillées."
               }
             },
             {
@@ -538,13 +595,15 @@
                 "de": "Table d'Orientation",
                 "hu": "Table d'Orientation",
                 "ro": "Table d'Orientation",
-                "en": "Table d'Orientation"
+                "en": "Table d'Orientation",
+                "fr": "Table d'Orientation"
               },
               "tip_5lang": {
                 "de": "Der Aufstieg mit dem Rad ist bei Nässe anstrengender; genießen Sie die Aussicht kurz und achten Sie bei der Abfahrt auf Pfützen und Schlamm.",
                 "hu": "A kilátóhoz való feljutás nedves úton fárasztóbb; élvezze röviden a panorámát, lefelé menet pedig ügyeljen a tócsákra és a felhordott sárra.",
                 "ro": "Urcarea cu bicicleta pe carosabil umed este mai obositoare; bucurați-vă scurt de priveliște și atenție la bălți și noroi în timpul coborârii.",
-                "en": "Cycling uphill is more tiring in the wet; enjoy the view briefly and be very careful of puddles and mud patches during the descent back to town."
+                "en": "Cycling uphill is more tiring in the wet; enjoy the view briefly and be very careful of puddles and mud patches during the descent back to town.",
+                "fr": "Monter à vélo est plus fatigant par temps humide ; profitez brièvement de la vue et soyez très prudent avec les flaques et les plaques de boue pendant la descente vers la ville."
               }
             }
           ]
@@ -554,7 +613,8 @@
             "de": "Winterliches Radfahren erfordert warme Handschuhe gegen den Fahrtwind. Besuchen Sie morgens die Kirche Saint-Ouen und wärmen Sie sich mittags in der Galerie und der Villa auf. Nachmittags sind der Club Mickey und der Minigolfplatz ruhiger. Erreichen Sie die Table d'Orientation vor dem frühen Sonnenuntergang um 17:00 Uhr. Achten Sie auf gute Beleuchtung an Ihrem Fahrrad.",
             "hu": "A téli kerékpározáshoz elengedhetetlen a meleg kesztyű a menetszél ellen. Reggel a Saint-Ouen templomot látogassuk meg, délben a galéria és a Villa termeiben melegedjünk fel. Délután a Club Mickey és a minigolf nyugodtabb arcát mutatja. 17:00 előtt érjen fel a kilátóhoz a naplemente miatt. Ügyeljen a lámpákra, mert korán sötétedik.",
             "ro": "Ciclismul de iarnă necesită mănuși groase împotriva vântului rece. Vizitați biserica Saint-Ouen dimineața și încălziți-vă la prânz în galerie și la Villa. După-amiaza, Club Mickey și minigolful sunt mult mai liniștite. Ajungeți la Table d'Orientation înainte de apusul de la ora 17:00. Atenție la sistemul de iluminare al bicicletei.",
-            "en": "Winter cycling requires warm gloves to block the biting wind. Visit Saint-Ouen Church in the morning and warm up at noon in the gallery and the Villa. In the afternoon, Club Mickey and the mini-golf are much quieter. Make sure to reach the Table d'Orientation before the 17:00 sunset. Ensure your bike lights are working as it gets dark early."
+            "en": "Winter cycling requires warm gloves to block the biting wind. Visit Saint-Ouen Church in the morning and warm up at noon in the gallery and the Villa. In the afternoon, Club Mickey and the mini-golf are much quieter. Make sure to reach the Table d'Orientation before the 17:00 sunset. Ensure your bike lights are working as it gets dark early.",
+            "fr": "Le cyclisme hivernal nécessite des gants chauds pour bloquer le vent mordant. Visitez l'église Saint-Ouen le matin et réchauffez-vous à midi dans la galerie et la Villa. L'après-midi, Club Mickey et le mini-golf sont beaucoup plus calmes. Veillez à atteindre la Table d'Orientation avant le coucher du soleil à 17h00. Assurez-vous que vos lumières de vélo fonctionnent car il fait nuit tôt."
           },
           "stops": [
             {
@@ -562,13 +622,15 @@
                 "de": "Église Saint-Ouen",
                 "hu": "Église Saint-Ouen",
                 "ro": "Église Saint-Ouen",
-                "en": "Église Saint-Ouen"
+                "en": "Église Saint-Ouen",
+                "fr": "Église Saint-Ouen"
               },
               "tip_5lang": {
                 "de": "Nutzen Sie den Halt, um die Gliedmaßen zu lockern und sich im Windschatten der Kirche aufzuwärmen; die kalte Luft macht das Atmen beim Radfahren schwerer.",
                 "hu": "Használja ki a megállót a végtagok átmozgatására és a templom szélárnyékában való felmelegedésre; a hideg levegő miatt lassabb tempó javasolt a tekeréshez.",
                 "ro": "Folosiți oprirea pentru a vă dezmorți membrele și a vă încălzi la adăpostul bisericii; aerul rece face respirația mai dificilă în timpul efortului pe bicicletă.",
-                "en": "Use this stop to stretch your limbs and warm up in the lee of the church building; remember that cold air makes breathing harder during heavy cycling."
+                "en": "Use this stop to stretch your limbs and warm up in the lee of the church building; remember that cold air makes breathing harder during heavy cycling.",
+                "fr": "Utilisez cet arrêt pour étirer vos membres et vous réchauffer à l'abri du bâtiment de l'église ; rappelez-vous que l'air froid rend la respiration plus difficile lors d'efforts intenses à vélo."
               }
             },
             {
@@ -576,13 +638,15 @@
                 "de": "Gallerie Collignal",
                 "hu": "Gallerie Collignal",
                 "ro": "Gallerie Collignal",
-                "en": "Gallerie Collignal"
+                "en": "Gallerie Collignal",
+                "fr": "Gallerie Collignal"
               },
               "tip_5lang": {
                 "de": "Ein perfekter Ort, um die Kälte des Fahrtwinds zu vergessen und die lokale Kultur im Warmen zu genießen; parken Sie Ihr Rad nah am Eingang für einen schnellen Wechsel.",
                 "hu": "Tökéletes hely a menetszél hidegének elfelejtésére és a helyi kultúra melegben való élvezésére; parkoljon a bejárat közelében a gyors bejutás érdekében.",
                 "ro": "Un loc perfect pentru a uita de frigul vântului și a vă bucura de cultura locală la căldură; parcați bicicleta aproape de intrare pentru a intra rapid.",
-                "en": "A perfect place to forget the chill of the wind and enjoy local culture in the warmth; park your bike close to the entrance for a quick transition inside."
+                "en": "A perfect place to forget the chill of the wind and enjoy local culture in the warmth; park your bike close to the entrance for a quick transition inside.",
+                "fr": "Un endroit parfait pour oublier le froid du vent et profiter de la culture locale au chaud ; garez votre vélo près de l'entrée pour une transition rapide à l'intérieur."
               }
             },
             {
@@ -590,13 +654,15 @@
                 "de": "Villa du Temps retrouvé",
                 "hu": "Villa du Temps retrouvé",
                 "ro": "Villa du Temps retrouvé",
-                "en": "Villa du Temps retrouvé"
+                "en": "Villa du Temps retrouvé",
+                "fr": "Villa du Temps retrouvé"
               },
               "tip_5lang": {
                 "de": "Die beheizten Ausstellungsräume sind eine Wohltat nach der Fahrt entlang der Küste; nutzen Sie die Zeit, um Ihre Körpertemperatur wieder zu normalisieren.",
                 "hu": "A fűtött kiállítótermek valóságos áldást jelentenek a tengerparti tekerés után; szánjon elég időt arra, hogy testhőmérséklete visszaálljon a normális szintre.",
                 "ro": "Sălile de expoziție încălzite sunt o binecuvântare după plimbarea de-a lungul coastei; acordați-vă timp pentru ca temperatura corpului să revină la normal.",
-                "en": "The heated exhibition rooms are a true blessing after a ride along the cold coast; take your time here to let your body temperature return to normal."
+                "en": "The heated exhibition rooms are a true blessing after a ride along the cold coast; take your time here to let your body temperature return to normal.",
+                "fr": "Les salles d'exposition chauffées sont une véritable bénédiction après une balade le long de la côte froide ; prenez votre temps ici pour laisser votre température corporelle revenir à la normale."
               }
             },
             {
@@ -604,13 +670,15 @@
                 "de": "Club Mickey",
                 "hu": "Club Mickey",
                 "ro": "Club Mickey",
-                "en": "Club Mickey"
+                "en": "Club Mickey",
+                "fr": "Club Mickey"
               },
               "tip_5lang": {
                 "de": "Im Winter ist es hier oft verlassen, was eine ganz eigene, friedliche Atmosphäre schafft; ziehen Sie eine extra Schicht Kleidung gegen den Strandwind an.",
                 "hu": "Télen gyakran elhagyatott a környék, ami különleges, békés hangulatot áraszt; vegyen fel egy plusz réteg ruhát a metsző tengerparti szél ellen.",
                 "ro": "Iarna este adesea pustiu aici, ceea ce creează o atmosferă liniștită; puneți-vă un strat suplimentar de haine împotriva vântului tăios de pe plajă.",
-                "en": "In winter this spot is often deserted, creating a uniquely peaceful atmosphere; put on an extra layer of clothing against the biting beach winds."
+                "en": "In winter this spot is often deserted, creating a uniquely peaceful atmosphere; put on an extra layer of clothing against the biting beach winds.",
+                "fr": "En hiver, cet endroit est souvent désert, créant une atmosphère particulièrement paisible ; ajoutez une couche supplémentaire contre les vents mordants de la plage."
               }
             },
             {
@@ -618,13 +686,15 @@
                 "de": "Golf Miniature de Cabourg",
                 "hu": "Golf Miniature de Cabourg",
                 "ro": "Golf Miniature de Cabourg",
-                "en": "Golf Miniature de Cabourg"
+                "en": "Golf Miniature de Cabourg",
+                "fr": "Golf Miniature de Cabourg"
               },
               "tip_5lang": {
                 "de": "Die Anlage ist im Winter meist offen, aber es kann sehr kalt werden; heiße Getränke in der Thermoskanne sind bei dieser Aktivität sehr zu empfehlen.",
                 "hu": "A pálya télen is látogatható, de nagyon hideg lehet; javasolt forró italt vinni termoszban, hogy játék közben is melegen tartsa magát a szabadban.",
                 "ro": "Terenul este de obicei deschis și iarna, dar poate fi foarte frig; băuturile calde la termos sunt recomandate pentru a vă menține temperatura în timpul jocului.",
-                "en": "The course is usually open in winter but it can get very cold; bringing a thermos with a hot drink is highly recommended for this outdoor activity."
+                "en": "The course is usually open in winter but it can get very cold; bringing a thermos with a hot drink is highly recommended for this outdoor activity.",
+                "fr": "Le parcours est généralement ouvert en hiver mais il peut faire très froid ; emporter une thermos avec une boisson chaude est fortement recommandé pour cette activité en plein air."
               }
             },
             {
@@ -632,13 +702,15 @@
                 "de": "Table d'Orientation",
                 "hu": "Table d'Orientation",
                 "ro": "Table d'Orientation",
-                "en": "Table d'Orientation"
+                "en": "Table d'Orientation",
+                "fr": "Table d'Orientation"
               },
               "tip_5lang": {
                 "de": "Der Blick auf die winterliche See ist atemberaubend, aber die Kälte ist extrem; stellen Sie sicher, dass Ihre Radlichter für die Rückfahrt nach 17:00 Uhr bereit sind.",
                 "hu": "A téli tenger látványa lenyűgöző, de a hideg extrém ezen a ponton; győződjön meg róla, hogy a lámpái készen állnak a 17:00 utáni sötét visszútra.",
                 "ro": "Vederea mării iarna este uluitoare, dar frigul este extrem; asigurați-vă că luminile bicicletei sunt gata pentru drumul de întoarcere după ora 17:00.",
-                "en": "The view of the winter sea is breathtaking but the cold is extreme; ensure your bike lights are ready for the dark return journey after 17:00."
+                "en": "The view of the winter sea is breathtaking but the cold is extreme; ensure your bike lights are ready for the dark return journey after 17:00.",
+                "fr": "La vue sur la mer d'hiver est spectaculaire mais le froid est extrême ; assurez-vous que vos lumières de vélo sont prêtes pour le retour dans l'obscurité après 17h00."
               }
             }
           ]
@@ -658,7 +730,8 @@
             "de": "Église Saint-Ouen",
             "hu": "Église Saint-Ouen",
             "ro": "Église Saint-Ouen",
-            "en": "Église Saint-Ouen"
+            "en": "Église Saint-Ouen",
+            "fr": "Église Saint-Ouen"
           },
           "coords": [
             -0.106063,
@@ -673,7 +746,8 @@
             "de": "Entdecken Sie die spirituelle Ruhe dieser alten Kirche und achten Sie besonders auf die detaillierten Holzschnitzereien, die oft von Besuchern übersehen werden.",
             "hu": "Fedezze fel e régi templom spirituális nyugalmát, és figyeljen a részletes fafaragásokra, amelyeket a látogatók gyakran hajlamosak figyelmen kívül hagyni.",
             "ro": "Descoperiți liniștea spirituală a acestei biserici vechi și acordați o atenție deosebită sculpturilor în lemn detaliate, care sunt adesea trecute cu vederea.",
-            "en": "Discover the spiritual tranquility of this ancient church and pay special attention to the detailed wood carvings that are frequently overlooked by casual visitors."
+            "en": "Discover the spiritual tranquility of this ancient church and pay special attention to the detailed wood carvings that are frequently overlooked by casual visitors.",
+            "fr": "Découvrez la tranquillité spirituelle de cette ancienne église et prêtez une attention particulière aux sculptures sur bois détaillées souvent négligées par les visiteurs occasionnels."
           }
         },
         {
@@ -681,7 +755,8 @@
             "de": "Normandie Golf",
             "hu": "Normandie Golf",
             "ro": "Normandie Golf",
-            "en": "Normandie Golf"
+            "en": "Normandie Golf",
+            "fr": "Normandie Golf"
           },
           "coords": [
             -0.074166,
@@ -696,7 +771,8 @@
             "de": "Schlagen Sie auf diesem malerischen Golfplatz ab und reservieren Sie Ihre Abschlagzeit frühzeitig, um die fantastische Aussicht auf die normannische Landschaft zu genießen.",
             "hu": "Játsszon ezen a festői golfpályán, és foglaljon időpontot jó előre, hogy a játék közben élvezhesse a normandiai vidékre nyíló fantasztikus kilátást.",
             "ro": "Jucați pe acest teren de golf pitoresc și rezervați-vă ora de start din timp pentru a vă bucura de priveliștile fantastice ale peisajului din Normandia.",
-            "en": "Tee off at this picturesque golf course and be sure to book your tee time well in advance to enjoy the fantastic views of the beautiful Normandy countryside."
+            "en": "Tee off at this picturesque golf course and be sure to book your tee time well in advance to enjoy the fantastic views of the beautiful Normandy countryside.",
+            "fr": "Tee off sur ce parcours pittoresque et pensez à réserver votre départ bien à l'avance pour profiter des superbes vues sur la campagne normande."
           }
         },
         {
@@ -704,7 +780,8 @@
             "de": "Gallerie Collignal",
             "hu": "Gallerie Collignal",
             "ro": "Gallerie Collignal",
-            "en": "Gallerie Collignal"
+            "en": "Gallerie Collignal",
+            "fr": "Gallerie Collignal"
           },
           "coords": [
             -0.0968,
@@ -719,7 +796,8 @@
             "de": "Besuchen Sie diese charmante Galerie für lokale Kunstwerke und achten Sie auf die wechselnden Ausstellungen, die das kulturelle Erbe der Region perfekt einfangen.",
             "hu": "Fedezze fel ezt a bájos galériát a helyi műalkotásokért, és figyeljen az időszaki kiállításokra, amelyek tökéletesen megragadják a régió kulturális örökségét.",
             "ro": "Vizitați această galerie fermecătoare pentru opere de artă locale și urmăriți expozițiile temporare, care surprind perfect patrimoniul cultural al regiunii.",
-            "en": "Visit this charming gallery for local artworks and keep an eye on the temporary exhibitions that perfectly capture the region's rich cultural heritage."
+            "en": "Visit this charming gallery for local artworks and keep an eye on the temporary exhibitions that perfectly capture the region's rich cultural heritage.",
+            "fr": "Visitez cette charmante galerie pour des œuvres d'art locales et surveillez les expositions temporaires qui capturent parfaitement le riche patrimoine culturel de la région."
           }
         },
         {
@@ -727,7 +805,8 @@
             "de": "Villa du Temps retrouvé",
             "hu": "Villa du Temps retrouvé",
             "ro": "Villa du Temps retrouvé",
-            "en": "Villa du Temps retrouvé"
+            "en": "Villa du Temps retrouvé",
+            "fr": "Villa du Temps retrouvé"
           },
           "coords": [
             -0.11276,
@@ -742,7 +821,8 @@
             "de": "Tauchen Sie in diesem interaktiven Museum in die Belle Époque ein, aber buchen Sie Ihre Tickets im Voraus, um die immersive Marcel-Proust-Ausstellung ohne Wartezeit zu erleben.",
             "hu": "Merüljön el a Belle Époque világában ebben az interaktív múzeumban, de foglaljon jegyet előre, hogy sorban állás nélkül élvezhesse a Marcel Proust kiállítást.",
             "ro": "Cufundați-vă în atmosfera Belle Époque la acest muzeu interactiv, dar rezervați-vă biletele în avans pentru a vedea expoziția Marcel Proust fără a aștepta.",
-            "en": "Immerse yourself in the Belle Époque era at this interactive museum, but book your tickets in advance to enjoy the Marcel Proust exhibition without any waiting."
+            "en": "Immerse yourself in the Belle Époque era at this interactive museum, but book your tickets in advance to enjoy the Marcel Proust exhibition without any waiting.",
+            "fr": "Plongez dans l'époque Belle Époque dans ce musée interactif ; réservez vos billets à l'avance pour profiter de l'exposition Marcel Proust sans attente."
           }
         },
         {
@@ -750,7 +830,8 @@
             "de": "Table d'Orientation",
             "hu": "Table d'Orientation",
             "ro": "Table d'Orientation",
-            "en": "Table d'Orientation"
+            "en": "Table d'Orientation",
+            "fr": "Table d'Orientation"
           },
           "coords": [
             -0.128757,
@@ -765,7 +846,8 @@
             "de": "Genießen Sie den Panoramablick über die Flussmündung von diesem Aussichtspunkt und bringen Sie unbedingt eine Kamera mit, um die spektakuläre Küstenlandschaft festzuhalten.",
             "hu": "Élvezze a folyótorkolatra nyíló panorámát erről a kilátópontról, és mindenképpen hozzon magával fényképezőgépet, hogy megörökítse a látványos tengerparti tájat.",
             "ro": "Bucurați-vă de vederea panoramică asupra estuarului din acest punct de observație și asigurați-vă că aduceți un aparat foto pentru a surprinde peisajul de coastă.",
-            "en": "Enjoy the panoramic views over the estuary from this vantage point, and make sure to bring a camera to capture the truly spectacular coastal landscape."
+            "en": "Enjoy the panoramic views over the estuary from this vantage point, and make sure to bring a camera to capture the truly spectacular coastal landscape.",
+            "fr": "Appréciez la vue panoramique sur l'estuaire depuis ce point de vue et n'oubliez pas d'apporter un appareil photo pour capturer le spectaculaire paysage côtier."
           }
         },
         {
@@ -773,7 +855,8 @@
             "de": "SimRacing full motion",
             "hu": "SimRacing full motion",
             "ro": "SimRacing full motion",
-            "en": "SimRacing full motion"
+            "en": "SimRacing full motion",
+            "fr": "SimRacing full motion"
           },
           "coords": [
             -0.130494,
@@ -788,7 +871,8 @@
             "de": "Erleben Sie den Nervenkitzel des virtuellen Motorsports in diesen High-Tech-Simulatoren, wobei es ratsam ist, bequeme Kleidung für dieses actionreiche Familienabenteuer zu tragen.",
             "hu": "Élje át a virtuális autósport izgalmait ezekben a csúcstechnológiás szimulátorokban, és érdemes kényelmes ruházatot viselni ehhez az akciódús családi kalandhoz.",
             "ro": "Experimentați fiorul sporturilor cu motor virtuale în aceste simulatoare high-tech, fiind indicat să purtați haine confortabile pentru această aventură de familie.",
-            "en": "Experience the thrill of virtual motorsport in these high-tech simulators, and it is highly recommended to wear comfortable clothing for this action-packed family adventure."
+            "en": "Experience the thrill of virtual motorsport in these high-tech simulators, and it is highly recommended to wear comfortable clothing for this action-packed family adventure.",
+            "fr": "Vivez les sensations du sport automobile virtuel dans ces simulateurs high-tech ; il est fortement recommandé de porter des vêtements confortables pour cette aventure familiale pleine d'action."
           }
         }
       ],
@@ -796,7 +880,8 @@
         "de": "Die Autotour beginnt mit spiritueller Ruhe in einer alten Kirche, bevor es ins üppige Grün des Golfplatzes geht. Nach einer kurzen Fahrt erreichen Sie das kulturelle Zentrum und erstklassige Museen. Genießen Sie die atemberaubende Landschaft am Nachmittag von einem wunderschönen Aussichtspunkt. Den Tag runden Sie mit modernem, rasantem Sim-Racing-Spaß ab.",
         "hu": "Az autós túra spirituális nyugalommal indul egy régi templomban, mielőtt a golfpálya zöldjébe hajtana. Egy rövid út után eléri a kulturális központot és a kiváló múzeumokat. Délután élvezze a lenyűgöző tájat egy csodálatos kilátópontról. A napot modern és izgalmas, csúcstechnológiás szimulátorversenyzéssel zárja.",
         "ro": "Turul cu mașina începe cu liniște spirituală într-o veche biserică înainte de a merge pe verdele luxuriant al terenului de golf. După un scurt drum ajungeți la centrul cultural și muzee. Bucurați-vă de peisajul uimitor după-amiaza de la un punct de observație frumos. Ziua se încheie cu distracție modernă de curse simulate de mare viteză.",
-        "en": "The driving tour begins with spiritual tranquility at an ancient church before heading to the lush greens of the golf course. A short drive brings you to the cultural center and world-class museums. Enjoy the stunning afternoon scenery from a beautiful vantage point. You will cap off the day with modern, high-speed sim-racing fun."
+        "en": "The driving tour begins with spiritual tranquility at an ancient church before heading to the lush greens of the golf course. A short drive brings you to the cultural center and world-class museums. Enjoy the stunning afternoon scenery from a beautiful vantage point. You will cap off the day with modern, high-speed sim-racing fun.",
+        "fr": "La visite en voiture commence par la tranquillité spirituelle d'une ancienne église avant de se diriger vers les verts luxuriants du golf. Une courte route vous mène au centre culturel et à des musées de classe mondiale. Profitez du splendide paysage de l'après-midi depuis un beau point de vue. Vous terminerez la journée par le modernisme et la vitesse du sim-racing."
       },
       "variants": {
         "rainy": {
@@ -804,7 +889,8 @@
             "de": "Mit dem Auto ist Dives-sur-Mer auch bei Regen komfortabel. Besuchen Sie morgens die Kirche Saint-Ouen und mittags den Normandie Golfplatz (bei Starkregen im Clubhaus). Die Galerie und die Villa bieten am Nachmittag perfekten Schutz. Der kurze Weg zur Table d'Orientation ist bei Regen schnell erledigt, bevor Sie den Tag trocken im SimRacing ausklingen lassen.",
             "hu": "Autóval Dives-sur-Mer esőben is kényelmesen felfedezhető. Reggel a Saint-Ouen templomot nézzük meg, délben a Normandie Golf pályáját (heves esőben a klubházat). A galéria és a Villa délután tökéletes menedéket nyújt. A kilátóhoz tett rövid kitérő után a napot a SimRacing száraz szimulátoraiban fejezzük be. Ügyeljen a korlátozott látási viszonyokra.",
             "ro": "Cu mașina, Dives-sur-Mer este confortabil de explorat chiar și pe ploaie. Vizitați biserica Saint-Ouen dimineața și terenul Normandie Golf la prânz. Galeria și Villa oferă protecție perfectă după-amiaza. Scurta vizită la Table d'Orientation se poate face rapid între reprizele de ploaie, înainte de a încheia ziua la SimRacing. Atenție la vizibilitatea redusă pe drum.",
-            "en": "By car, Dives-sur-Mer is comfortable to explore even in heavy rain. Visit Saint-Ouen Church in the morning and Normandie Golf at noon (stay in the clubhouse if it pours). The gallery and Villa provide perfect shelter in the afternoon. A quick dash to the Table d'Orientation is easy between showers before ending the day dry at SimRacing. Watch for spray on the coastal roads."
+            "en": "By car, Dives-sur-Mer is comfortable to explore even in heavy rain. Visit Saint-Ouen Church in the morning and Normandie Golf at noon (stay in the clubhouse if it pours). The gallery and Villa provide perfect shelter in the afternoon. A quick dash to the Table d'Orientation is easy between showers before ending the day dry at SimRacing. Watch for spray on the coastal roads.",
+            "fr": "En voiture, Dives-sur-Mer se parcourt facilement même sous une forte pluie. Visitez l'église Saint-Ouen le matin et Normandie Golf à midi (restez au club-house s'il pleut). La galerie et la Villa offrent un abri parfait l'après-midi. Une courte course jusqu'à la Table d'Orientation est facile entre les averses avant de finir la journée au sec au SimRacing. Attention aux embruns sur les routes côtières."
           },
           "stops": [
             {
@@ -812,13 +898,15 @@
                 "de": "Église Saint-Ouen",
                 "hu": "Église Saint-Ouen",
                 "ro": "Église Saint-Ouen",
-                "en": "Église Saint-Ouen"
+                "en": "Église Saint-Ouen",
+                "fr": "Église Saint-Ouen"
               },
               "tip_5lang": {
                 "de": "Parken Sie so nah wie möglich am Eingang, um nicht nass zu werden; das Kircheninnere bietet eine prachtvolle, trockene Kulisse für Fotos.",
                 "hu": "Parkoljon a lehető legközelebb a bejárathoz, hogy elkerülje az ázást; a templom belső tere pompás és száraz helyszínt biztosít a fényképezéshez.",
                 "ro": "Parcați cât mai aproape de intrare pentru a nu vă uda; interiorul bisericii oferă un cadru magnific și uscat pentru fotografii reușite.",
-                "en": "Park as close to the entrance as possible to avoid getting wet; the church interior offers a grand, dry setting for taking beautiful photos."
+                "en": "Park as close to the entrance as possible to avoid getting wet; the church interior offers a grand, dry setting for taking beautiful photos.",
+                "fr": "Garez-vous aussi près que possible de l'entrée pour éviter d'être trempé ; l'intérieur de l'église offre un cadre sec et superbe pour de belles photos."
               }
             },
             {
@@ -826,13 +914,15 @@
                 "de": "Normandie Golf",
                 "hu": "Normandie Golf",
                 "ro": "Normandie Golf",
-                "en": "Normandie Golf"
+                "en": "Normandie Golf",
+                "fr": "Normandie Golf"
               },
               "tip_5lang": {
                 "de": "Bei Regen können Sie sich im Clubhaus aufhalten oder den überdachten Übungsplatz nutzen; die Zufahrt zum Parkplatz kann bei Nässe etwas rutschig sein.",
                 "hu": "Esőben tartózkodjon a klubházban vagy használja a fedett gyakorlópályát; a parkolóhoz vezető út nedves időben kissé csúszós lehet az autóval.",
                 "ro": "În caz de ploaie, puteți sta în club sau folosi zona de antrenament acoperită; accesul la parcare poate fi puțin alunecos când asfaltul este ud.",
-                "en": "In case of rain, you can stay in the clubhouse or use the covered practice range; the access road to the parking lot can be a bit slick when wet."
+                "en": "In case of rain, you can stay in the clubhouse or use the covered practice range; the access road to the parking lot can be a bit slick when wet.",
+                "fr": "En cas de pluie, vous pouvez rester au club-house ou utiliser le practice couvert ; la route d'accès au parking peut être un peu glissante quand elle est mouillée."
               }
             },
             {
@@ -840,13 +930,15 @@
                 "de": "Gallerie Collignal",
                 "hu": "Gallerie Collignal",
                 "ro": "Gallerie Collignal",
-                "en": "Gallerie Collignal"
+                "en": "Gallerie Collignal",
+                "fr": "Gallerie Collignal"
               },
               "tip_5lang": {
                 "de": "Suchen Sie sich einen Parkplatz in der Nähe, um die Zeit im Regen zu minimieren; im Inneren erwartet Sie eine warme und inspirierende Kunstwelt.",
                 "hu": "Keressen parkolóhelyet a közelben, hogy minimalizálja az esőben töltött időt; odabent meleg és inspiráló művészeti világ várja a látogatókat.",
                 "ro": "Căutați un loc de parcare în apropiere pentru a minimiza timpul petrecut în ploaie; în interior vă așteaptă o lume artistică caldă și plină de inspirație.",
-                "en": "Find a parking spot nearby to minimize your time out in the rain; inside, a warm and inspiring world of art awaits every visitor."
+                "en": "Find a parking spot nearby to minimize your time out in the rain; inside, a warm and inspiring world of art awaits every visitor.",
+                "fr": "Trouvez une place de parking à proximité pour minimiser votre temps sous la pluie ; à l'intérieur, un monde chaleureux et inspirant d'art attend chaque visiteur."
               }
             },
             {
@@ -854,13 +946,15 @@
                 "de": "Villa du Temps retrouvé",
                 "hu": "Villa du Temps retrouvé",
                 "ro": "Villa du Temps retrouvé",
-                "en": "Villa du Temps retrouvé"
+                "en": "Villa du Temps retrouvé",
+                "fr": "Villa du Temps retrouvé"
               },
               "tip_5lang": {
                 "de": "Das Museum ist der ideale Zufluchtsort bei schlechtem Wetter; lassen Sie Ihre nassen Sachen im Auto oder nutzen Sie die Garderobe vor Ort.",
                 "hu": "A múzeum ideális menedék rossz idő esetén; hagyja vizes holmijait az autóban, vagy használja a helyszíni ruhatárat a kényelmes nézelődéshez.",
                 "ro": "Muzeul este refugiul ideal în caz de vreme rea; lăsați lucrurile ude în mașină sau folosiți garderoba locației pentru o vizită relaxantă.",
-                "en": "The museum is the ideal sanctuary during bad weather; leave your wet gear in the car or use the on-site cloakroom for a comfortable visit."
+                "en": "The museum is the ideal sanctuary during bad weather; leave your wet gear in the car or use the on-site cloakroom for a comfortable visit.",
+                "fr": "Le musée est le sanctuaire idéal par mauvais temps ; laissez votre équipement mouillé dans la voiture ou utilisez le vestiaire sur place pour une visite confortable."
               }
             },
             {
@@ -868,13 +962,15 @@
                 "de": "Table d'Orientation",
                 "hu": "Table d'Orientation",
                 "ro": "Table d'Orientation",
-                "en": "Table d'Orientation"
+                "en": "Table d'Orientation",
+                "fr": "Table d'Orientation"
               },
               "tip_5lang": {
                 "de": "Genießen Sie den Blick bei starkem Regen einfach aus dem Auto heraus; der Parkplatz bietet oft eine gute Sicht direkt von der Fahrersitzposition.",
                 "hu": "Heves esőben élvezze a kilátást közvetlenül az autóból; a parkolóból gyakran kiváló panoráma nyílik a tengerre anélkül, hogy ki kellene szállnia.",
                 "ro": "Bucurați-vă de priveliște direct din mașină dacă plouă torențial; parcarea oferă adesea o vedere bună direct de pe scaunul șoferului.",
-                "en": "Enjoy the view from the comfort of your car if it's pouring; the parking area often provides a great panorama directly from the driver's seat."
+                "en": "Enjoy the view from the comfort of your car if it's pouring; the parking area often provides a great panorama directly from the driver's seat.",
+                "fr": "Profitez de la vue depuis le confort de votre voiture s'il pleut ; l'aire de stationnement offre souvent un panorama directement depuis le siège du conducteur."
               }
             },
             {
@@ -882,13 +978,15 @@
                 "de": "SimRacing full motion",
                 "hu": "SimRacing full motion",
                 "ro": "SimRacing full motion",
-                "en": "SimRacing full motion"
+                "en": "SimRacing full motion",
+                "fr": "SimRacing full motion"
               },
               "tip_5lang": {
                 "de": "Das Auto bringt Sie trocken zu dieser erstklassigen Indoor-Location; ideal, um den Tag gemütlich und wetterunabhängig mit viel Spaß zu beenden.",
                 "hu": "Az autóval szárazon juthat el ebbe a kiváló beltéri helyszínre; ideális a napot vidáman és az időjárástól függetlenül, nagy élménnyel zárni.",
                 "ro": "Mașina vă va duce la adăpost în această locație indoor excelentă; ideal pentru a încheia ziua cu multă distracție, indiferent de condițiile meteo.",
-                "en": "Your car will get you dry to this top-notch indoor location; it's ideal for ending the day with lots of fun, completely independent of the weather."
+                "en": "Your car will get you dry to this top-notch indoor location; it's ideal for ending the day with lots of fun, completely independent of the weather.",
+                "fr": "Votre voiture vous mènera au sec à ce site intérieur de premier ordre ; c'est l'endroit idéal pour terminer la journée en s'amusant, complètement indépendant de la météo."
               }
             }
           ]
@@ -898,7 +996,8 @@
             "de": "Im Winter ermöglicht das Auto eine warme Reise durch Dives-sur-Mer. Besuchen Sie morgens die Kirche und mittags den Golfplatz (kurze Wege im Freien). Die beheizte Galerie und Villa sind am Nachmittag ideale Stationen. Erleben Sie den Sonnenuntergang um 17:00 Uhr an der Table d'Orientation bequem vom Auto aus, bevor Sie den Tag im SimRacing-Zentrum beenden.",
             "hu": "Télen az autó meleg utazást biztosít Dives-sur-Mer környékén. Reggel a templom, délben a golfpálya látogatható (csak rövid időt kell kint tölteni). A fűtött galéria és a Villa délután kiváló állomások. A 17:00-s naplementét a Table d'Orientation pontnál kényelmesen, az autóból is megcsodálhatja, majd a napot a SimRacingben zárhatja.",
             "ro": "Iarna, mașina permite o călătorie călduroasă prin Dives-sur-Mer. Vizitați biserica dimineața și terenul de golf la prânz. Galeria și Villa încălzite sunt stații ideale după-amiaza. Admirați apusul de la ora 17:00 la Table d'Orientation confortabil din mașină, înainte de a încheia ziua la centrul SimRacing.",
-            "en": "In winter, the car ensures a warm journey through Dives-sur-Mer. Visit the church in the morning and the golf course at noon with minimal exposure to the cold. The heated gallery and Villa are ideal afternoon stops. Watch the 17:00 sunset at Table d'Orientation comfortably from your car before finishing the day at SimRacing."
+            "en": "In winter, the car ensures a warm journey through Dives-sur-Mer. Visit the church in the morning and the golf course at noon with minimal exposure to the cold. The heated gallery and Villa are ideal afternoon stops. Watch the 17:00 sunset at Table d'Orientation comfortably from your car before finishing the day at SimRacing.",
+            "fr": "En hiver, la voiture garantit un trajet chaud à travers Dives-sur-Mer. Visitez l'église le matin et le golf à midi avec une exposition minimale au froid. La galerie et la Villa chauffées sont des arrêts idéaux l'après-midi. Regardez le coucher du soleil à 17:00 depuis la Table d'Orientation confortablement depuis votre voiture avant de finir la journée au SimRacing."
           },
           "stops": [
             {
@@ -906,13 +1005,15 @@
                 "de": "Église Saint-Ouen",
                 "hu": "Église Saint-Ouen",
                 "ro": "Église Saint-Ouen",
-                "en": "Église Saint-Ouen"
+                "en": "Église Saint-Ouen",
+                "fr": "Église Saint-Ouen"
               },
               "tip_5lang": {
                 "de": "Die Kirche bietet Schutz vor dem eisigen Winterwind; genießen Sie die Ruhe im Inneren, während das Auto auf dem Parkplatz wieder aufwärmt.",
                 "hu": "A templom jó védelmet nyújt a jeges téli szél ellen; élvezze a belső csendet, miközben az autó a parkolóban várakozik a következő útra.",
                 "ro": "Biserica oferă protecție împotriva vântului înghețat de iarnă; bucurați-vă de liniștea din interior în timp ce mașina vă așteaptă în parcare.",
-                "en": "The church provides solid protection from the icy winter wind; enjoy the interior silence while your car waits nearby for the next leg of the trip."
+                "en": "The church provides solid protection from the icy winter wind; enjoy the interior silence while your car waits nearby for the next leg of the trip.",
+                "fr": "L'église offre une solide protection contre le vent hivernal glacial ; profitez du silence intérieur pendant que votre voiture attend à proximité pour la suite du trajet."
               }
             },
             {
@@ -920,13 +1021,15 @@
                 "de": "Normandie Golf",
                 "hu": "Normandie Golf",
                 "ro": "Normandie Golf",
-                "en": "Normandie Golf"
+                "en": "Normandie Golf",
+                "fr": "Normandie Golf"
               },
               "tip_5lang": {
                 "de": "Im Winter ist es auf dem Platz oft sehr frisch; nutzen Sie die kurzen Wege vom Parkplatz zum beheizten Clubhaus für eine warme Pause.",
                 "hu": "Télen a pályán gyakran metsző hideg van; használja ki a parkolóból a fűtött klubházba vezető rövid utat egy melegítő kávé vagy tea elfogyasztására.",
                 "ro": "Iarna este adesea foarte frig pe terenul de golf; profitați de distanța scurtă de la parcare la clubul încălzit pentru o pauză călduroasă.",
-                "en": "In winter it's often very chilly on the course; take advantage of the short walk from the car to the heated clubhouse for a warm break."
+                "en": "In winter it's often very chilly on the course; take advantage of the short walk from the car to the heated clubhouse for a warm break.",
+                "fr": "En hiver il fait souvent très frais sur le parcours ; profitez de la courte distance entre la voiture et le club-house chauffé pour une pause réconfortante."
               }
             },
             {
@@ -934,13 +1037,15 @@
                 "de": "Gallerie Collignal",
                 "hu": "Gallerie Collignal",
                 "ro": "Gallerie Collignal",
-                "en": "Gallerie Collignal"
+                "en": "Gallerie Collignal",
+                "fr": "Gallerie Collignal"
               },
               "tip_5lang": {
                 "de": "Die Galerie ist ein warmer Ort der Inspiration an kalten Tagen; achten Sie beim Aussteigen auf mögliche Glätte auf dem Parkplatzgelände.",
                 "hu": "A galéria az inspiráció meleg szigete a hideg téli napokon; kiszálláskor ügyeljen az esetleges jegesedésre a parkoló területén.",
                 "ro": "Galeria este un loc cald de inspirație în zilele reci de iarnă; atenție la posibila polei în parcare atunci când coborâți din mașină.",
-                "en": "The gallery is a warm place of inspiration on cold winter days; watch out for potential icy patches in the parking area when getting out of the car."
+                "en": "The gallery is a warm place of inspiration on cold winter days; watch out for potential icy patches in the parking area when getting out of the car.",
+                "fr": "La galerie est un lieu chaleureux d'inspiration pendant les journées froides d'hiver ; attention aux plaques de verglas possibles dans le parking en sortant de la voiture."
               }
             },
             {
@@ -948,13 +1053,15 @@
                 "de": "Villa du Temps retrouvé",
                 "hu": "Villa du Temps retrouvé",
                 "ro": "Villa du Temps retrouvé",
-                "en": "Villa du Temps retrouvé"
+                "en": "Villa du Temps retrouvé",
+                "fr": "Villa du Temps retrouvé"
               },
               "tip_5lang": {
                 "de": "Verbringen Sie den Nachmittag in den geheizten Museumsräumen; die Parkplätze in der Nähe ermöglichen einen schnellen Wechsel zurück ins warme Auto.",
                 "hu": "Töltse a délutánt a fűtött múzeumi termekben; a közeli parkolóhelyek lehetővé teszik a gyors visszatérést a meleg autóba a látogatás után.",
                 "ro": "Petreceți după-amiaza în sălile de muzeu încălzite; parcările din apropiere permit o întoarcere rapidă în mașina caldă după vizită.",
-                "en": "Spend the afternoon in the heated museum rooms; the nearby parking spots allow for a quick transition back into your warm vehicle."
+                "en": "Spend the afternoon in the heated museum rooms; the nearby parking spots allow for a quick transition back into your warm vehicle.",
+                "fr": "Passez l'après-midi dans les salles chauffées du musée ; les places de parking à proximité permettent une transition rapide vers votre véhicule chaud."
               }
             },
             {
@@ -962,13 +1069,15 @@
                 "de": "Table d'Orientation",
                 "hu": "Table d'Orientation",
                 "ro": "Table d'Orientation",
-                "en": "Table d'Orientation"
+                "en": "Table d'Orientation",
+                "fr": "Table d'Orientation"
               },
               "tip_5lang": {
                 "de": "Erleben Sie das Licht der untergehenden Wintersonne um 17:00 Uhr; die Heizung im Auto lässt Sie das Panorama ohne Frieren genießen.",
                 "hu": "Élje át a lemenő téli nap fényét 17:00-kor; az autó fűtése lehetővé teszi, hogy fagyoskodás nélkül élvezze a tengeri panorámát.",
                 "ro": "Admirați lumina soarelui de iarnă la apus, în jurul orei 17:00; încălzirea din mașină vă permite să vă bucurați de panoramă fără a îngheța.",
-                "en": "Experience the beautiful light of the setting winter sun at 17:00; the car's heater lets you enjoy the panorama without feeling the cold."
+                "en": "Experience the beautiful light of the setting winter sun at 17:00; the car's heater lets you enjoy the panorama without feeling the cold.",
+                "fr": "Vivez la belle lumière du coucher de soleil hivernal à 17:00 ; le chauffage de la voiture vous permet d'apprécier le panorama sans ressentir le froid."
               }
             },
             {
@@ -976,13 +1085,15 @@
                 "de": "SimRacing full motion",
                 "hu": "SimRacing full motion",
                 "ro": "SimRacing full motion",
-                "en": "SimRacing full motion"
+                "en": "SimRacing full motion",
+                "fr": "SimRacing full motion"
               },
               "tip_5lang": {
                 "de": "Ein perfekter Abschluss im Warmen, während es draußen bereits dunkel und kalt ist; der Parkplatz direkt vor der Tür ist im Winter sehr praktisch.",
                 "hu": "Tökéletes befejezés a melegben, miközben kint már sötét és hideg van; a közvetlenül az ajtó előtt található parkoló télen nagyon praktikus.",
                 "ro": "Un final perfect la căldură, în timp ce afară este deja întuneric și frig; parcarea chiar în fața ușii este foarte practică pe timp de iarnă.",
-                "en": "A perfect finish in the warmth while it's already dark and cold outside; the parking lot right in front of the door is very convenient in winter."
+                "en": "A perfect finish in the warmth while it's already dark and cold outside; the parking lot right in front of the door is very convenient in winter.",
+                "fr": "Une fin parfaite au chaud alors qu'il fait déjà sombre et froid dehors ; le parking juste devant la porte est très pratique en hiver."
               }
             }
           ]

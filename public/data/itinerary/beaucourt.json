@@ -21,7 +21,8 @@
             "de": "Japy-Museum",
             "hu": "Japy-Museum",
             "ro": "Japy-Museum",
-            "en": "Japy-Museum"
+            "en": "Japy-Museum",
+            "fr": "Japy-Museum"
           },
           "coords": [
             6.922627,
@@ -36,7 +37,8 @@
             "de": "Entdecken Sie die reiche Industriegeschichte der Familie Japy in diesem Museum, aber prüfen Sie vorab unbedingt die aktuellen Öffnungszeiten online.",
             "hu": "Fedezze fel a Japy család gazdag ipari történelmét ebben az izgalmas múzeumban, de látogatás előtt mindenképpen ellenőrizze az online nyitvatartást.",
             "ro": "Descoperiți bogata istorie industrială a familiei Japy în acest muzeu fascinant și asigurați-vă că verificați online programul înainte de vizită.",
-            "en": "Discover the rich industrial history of the Japy family in this fascinating museum, and be sure to check the opening hours online before your visit."
+            "en": "Discover the rich industrial history of the Japy family in this fascinating museum, and be sure to check the opening hours online before your visit.",
+            "fr": "Découvrez la riche histoire industrielle de la famille Japy dans ce musée fascinant, et n’oubliez pas de vérifier les heures d’ouverture en ligne avant votre visite."
           }
         },
         {
@@ -44,7 +46,8 @@
             "de": "Parc des Cèdres",
             "hu": "Parc des Cèdres",
             "ro": "Parc des Cèdres",
-            "en": "Parc des Cèdres"
+            "en": "Parc des Cèdres",
+            "fr": "Parc des Cèdres"
           },
           "coords": [
             6.9172,
@@ -59,7 +62,8 @@
             "de": "Entspannen Sie sich unter den alten Bäumen in diesem schönen öffentlichen Park und bringen Sie eine kleine Picknickdecke für eine erholsame Pause mit.",
             "hu": "Pihenjen meg a hatalmas, ősi fák árnyékában ebben a gyönyörű parkban, és hozzon magával egy pikniktakarót a séta közbeni kellemes kikapcsolódáshoz.",
             "ro": "Relaxați-vă sub copacii antici din acest parc public superb și aduceți o pătură de picnic pentru a vă bucura de o pauză senină în timpul plimbării.",
-            "en": "Relax under the ancient, towering trees in this beautiful public park, and bring a small picnic blanket to enjoy a serene break during your stroll."
+            "en": "Relax under the ancient, towering trees in this beautiful public park, and bring a small picnic blanket to enjoy a serene break during your stroll.",
+            "fr": "Détendez‑vous sous les arbres anciens et majestueux de ce beau parc public, et apportez une petite couverture de pique‑nique pour profiter d’une pause sereine lors de votre promenade."
           }
         },
         {
@@ -67,7 +71,8 @@
             "de": "Kirche Saint-François-de-Sales",
             "hu": "Kirche Saint-François-de-Sales",
             "ro": "Kirche Saint-François-de-Sales",
-            "en": "Kirche Saint-François-de-Sales"
+            "en": "Kirche Saint-François-de-Sales",
+            "fr": "Kirche Saint-François-de-Sales"
           },
           "coords": [
             6.928191,
@@ -82,7 +87,8 @@
             "de": "Bewundern Sie die markante Architektur dieser katholischen Kirche, die eine friedliche Atmosphäre bietet und zu ein paar Momenten der Stille einlädt.",
             "hu": "Csodálja meg e gyönyörű katolikus templom lenyűgöző építészetét, amely békés légkörével tökéletes helyszínt biztosít egy kis csendes elmélkedéshez.",
             "ro": "Admirați arhitectura remarcabilă a acestei biserici catolice frumoase, care oferă o atmosferă pașnică, perfectă pentru câteva momente de reflecție.",
-            "en": "Admire the striking architecture of this beautiful Catholic church, which offers a peaceful atmosphere perfect for a few moments of quiet reflection."
+            "en": "Admire the striking architecture of this beautiful Catholic church, which offers a peaceful atmosphere perfect for a few moments of quiet reflection.",
+            "fr": "Admirez l’architecture frappante de cette belle église catholique, qui offre une atmosphère paisible idéale pour quelques instants de recueillement."
           }
         },
         {
@@ -90,7 +96,8 @@
             "de": "Église Saint-Léger",
             "hu": "Église Saint-Léger",
             "ro": "Église Saint-Léger",
-            "en": "Église Saint-Léger"
+            "en": "Église Saint-Léger",
+            "fr": "Église Saint-Léger"
           },
           "coords": [
             6.918195,
@@ -105,7 +112,8 @@
             "de": "Erkunden Sie diese historische Pfarrkirche mit ihren atemberaubenden Buntglasfenstern am besten früh am Tag, wenn das Sonnenlicht das Kirchenschiff erhellt.",
             "hu": "Fedezze fel ezt a történelmi plébániatemplomot és lenyűgöző ólomüveg ablakait, érdemes korán érkezni, amikor a reggeli napfény bevilágítja a főhajót.",
             "ro": "Explorați această biserică parohială istorică cu vitraliile sale uimitoare și încercați să o vizitați devreme pentru a prinde lumina blândă a dimineții.",
-            "en": "Explore this historic parish church with its stunning stained glass windows, and try to visit early in the day when the morning sunlight illuminates the nave."
+            "en": "Explore this historic parish church with its stunning stained glass windows, and try to visit early in the day when the morning sunlight illuminates the nave.",
+            "fr": "Explorez cette église paroissiale historique avec ses magnifiques vitraux, et essayez de visiter tôt dans la journée lorsque la lumière du matin illumine la nef."
           }
         },
         {
@@ -113,7 +121,8 @@
             "de": "Temple",
             "hu": "Temple",
             "ro": "Temple",
-            "en": "Temple"
+            "en": "Temple",
+            "fr": "Temple"
           },
           "coords": [
             6.895668,
@@ -128,7 +137,8 @@
             "de": "Erleben Sie die ruhige Atmosphäre dieses architektonischen Juwels und vergessen Sie Ihre Kamera nicht, um die charmante Fassade festzuhalten.",
             "hu": "Tapasztalja meg e klasszikus építészeti gyöngyszem nyugodt hangulatát, és ne felejtse el a fényképezőgépét, hogy megörökítse a bájos homlokzatot.",
             "ro": "Experimentați ambianța liniștită a acestei bijuterii arhitecturale și nu uitați aparatul foto pentru a surprinde fațada fermecătoare de la stradă.",
-            "en": "Experience the tranquil ambiance of this classic architectural gem, and don't forget your camera to capture the charming facade from the street level."
+            "en": "Experience the tranquil ambiance of this classic architectural gem, and don't forget your camera to capture the charming facade from the street level.",
+            "fr": "Vivez l’ambiance tranquille de ce joyau architectural classique, et n’oubliez pas votre appareil photo pour capturer la façade charmante depuis le niveau de la rue."
           }
         }
       ],
@@ -136,7 +146,8 @@
         "de": "Beginnen Sie Ihren Morgen mit der reichen Industriegeschichte im Japy-Museum. Die Mittagszeit lädt zu einem friedlichen Spaziergang und zur Entspannung im Parc des Cèdres ein. Am Nachmittag können Sie die markante Architektur der Kirche Saint-François-de-Sales und der Église Saint-Léger bewundern. Beenden Sie den Abend am ruhigen Temple und lassen Sie den Tag Revue passieren.",
         "hu": "Kezdje a reggelt a Japy-Museum gazdag ipari történelmének felfedezésével. A délidő egy békés sétára és pihenésre hív a gyönyörű Parc des Cèdres parkban. Délután csodálja meg a Kirche Saint-François-de-Sales és az Église Saint-Léger lenyűgöző építészetét. Zárja az estét a nyugodt Temple épületénél, visszatekintve egy jól eltöltött napra.",
         "ro": "Începeți dimineața cufundat în bogata istorie industrială la Japy-Museum. Miezul zilei vă invită la o plimbare liniștită și relaxare în frumosul Parc des Cèdres. După-amiaza, admirați arhitectura remarcabilă a Kirche Saint-François-de-Sales și Église Saint-Léger. Încheiați seara la liniștitul Temple, reflectând asupra unei zile minunate.",
-        "en": "Start your morning immersed in the rich industrial history at the Japy-Museum. Midday invites a peaceful stroll and relaxation in the beautiful Parc des Cèdres. In the afternoon, marvel at the striking architecture of Kirche Saint-François-de-Sales and Église Saint-Léger. Conclude your evening at the tranquil Temple, reflecting on a day well spent."
+        "en": "Start your morning immersed in the rich industrial history at the Japy-Museum. Midday invites a peaceful stroll and relaxation in the beautiful Parc des Cèdres. In the afternoon, marvel at the striking architecture of Kirche Saint-François-de-Sales and Église Saint-Léger. Conclude your evening at the tranquil Temple, reflecting on a day well spent.",
+        "fr": "Commencez votre matinée plongé dans la riche histoire industrielle au Japy‑Museum. À midi, une promenade paisible et une détente au beau Parc des Cèdres vous attendent. L’après‑midi, admirez l’architecture remarquable de Kirche Saint‑François‑de‑Sales et de l’Église Saint‑Léger. Concluez votre soirée au calme du Temple, en réfléchissant à une journée bien remplie."
       },
       "variants": {
         "rainy": {
@@ -144,7 +155,8 @@
             "de": "Der Morgen beginnt geschützt im Japy-Museum, wo Sie die Industriegeschichte trocken erkunden. Mittags führt ein kurzer Gang durch den Parc des Cèdres, dessen Bäume begrenzten Schutz bieten. Am Nachmittag bieten die massiven Mauern der Kirchen und des Tempels trockene Rückzugsorte. Am Abend spiegelt sich das Licht in den nassen Straßen wider, was der Stadt einen melancholischen Glanz verleiht.",
             "hu": "A reggel a Japy-múzeum védett tereiben indul, ahol szárazon ismerkedhet az ipartörténettel. Délben egy rövid séta következik a Parc des Cèdres fái alatt, melyek némi védelmet nyújtanak. Délután a templomok vastag falai kínálnak menedéket a csapadék elől. Estére a vizes aszfalton megcsillanó fények különleges, melankolikus hangulatot kölcsönöznek a városnak, miközben a szállás felé vesszük az irányt.",
             "ro": "Dimineața începe la adăpost în Muzeul Japy, unde explorați istoria industrială la uscat. La prânz, o scurtă plimbare prin Parc des Cèdres oferă protecție limitată sub coroanele arborilor. După-amiaza, zidurile masive ale bisericilor și ale Templului oferă refugii uscate. Seara, lumina se reflectă în străzile umede, oferind orașului o strălucire melancolică în timp ce vă retrageți spre cazare.",
-            "en": "The morning starts sheltered in the Japy Museum, exploring industrial history in the dry. At noon, a short walk through Parc des Cèdres offers limited protection under the tree canopy. In the afternoon, the solid walls of the churches and the Temple provide dry retreats. By evening, the light reflects off the wet streets, giving the city a melancholic glow as you head back."
+            "en": "The morning starts sheltered in the Japy Museum, exploring industrial history in the dry. At noon, a short walk through Parc des Cèdres offers limited protection under the tree canopy. In the afternoon, the solid walls of the churches and the Temple provide dry retreats. By evening, the light reflects off the wet streets, giving the city a melancholic glow as you head back.",
+            "fr": "La matinée commence abritée au Japy Museum, explorant l’histoire industrielle à l’abri. À midi, une courte promenade à travers le Parc des Cèdres offre une protection limitée sous la canopée des arbres. L’après‑midi, les murs épais des églises et du Temple constituent des refuges secs. Le soir, la lumière se reflète sur les rues mouillées, donnant à la ville une lueur mélancolique lors du retour."
           },
           "stops": [
             {
@@ -152,13 +164,15 @@
                 "de": "Japy-Museum",
                 "hu": "Japy-Museum",
                 "ro": "Japy-Museum",
-                "en": "Japy-Museum"
+                "en": "Japy-Museum",
+                "fr": "Japy-Museum"
               },
               "tip_5lang": {
                 "de": "Entdecken Sie die Uhrmacherkunst in diesem beheizten Gebäude; es ist der ideale Ort, um den Regen draußen zu vergessen. Achten Sie auf rutschige Fliesen im Eingangsbereich.",
                 "hu": "Fedezze fel az órakészítés művészetét ebben a fűtött épületben; ideális hely az eső elöli menedékre. Ügyeljen a csúszós padlóra a bejáratnál, használja a lábtörlőt.",
                 "ro": "Descoperiți arta ceasornicăriei în această clădire încălzită; este locul ideal pentru a uita de ploaie. Atenție la gresia alunecoasă din zona de intrare a muzeului.",
-                "en": "Discover the art of watchmaking in this heated building; it is the ideal place to forget the rain outside. Watch out for slippery tiles in the museum entrance area."
+                "en": "Discover the art of watchmaking in this heated building; it is the ideal place to forget the rain outside. Watch out for slippery tiles in the museum entrance area.",
+                "fr": "Découvrez l’art de l’horlogerie dans ce bâtiment chauffé ; c’est l’endroit idéal pour oublier la pluie dehors. Méfiez‑vous des carreaux glissants à l’entrée du musée."
               }
             },
             {
@@ -166,13 +180,15 @@
                 "de": "Parc des Cèdres",
                 "hu": "Parc des Cèdres",
                 "ro": "Parc des Cèdres",
-                "en": "Parc des Cèdres"
+                "en": "Parc des Cèdres",
+                "fr": "Parc des Cèdres"
               },
               "tip_5lang": {
                 "de": "Genießen Sie den Duft der nassen Nadelbäume bei einem kurzen Spaziergang; festes Schuhwerk ist wichtig, da die Wege unter den Zedern bei Regen recht matschig sein können.",
                 "hu": "Élvezze a nedves fenyők illatát egy rövid séta során; a vízálló cipő fontos, mivel a cédrusok alatti ösvények esőben sárossá válhatnak a park területén.",
                 "ro": "Bucurați-vă de mirosul coniferelor umede într-o scurtă plimbare; încălțămintea solidă este esențială, deoarece potecile sub cedri pot deveni noroioase de la ploaie.",
-                "en": "Enjoy the scent of damp conifers during a short stroll; sturdy footwear is important as the paths under the cedars can be quite muddy when it rains in the park."
+                "en": "Enjoy the scent of damp conifers during a short stroll; sturdy footwear is important as the paths under the cedars can be quite muddy when it rains in the park.",
+                "fr": "Appréciez l’odeur des conifères humides durant une courte promenade ; des chaussures solides sont importantes car les sentiers sous les cèdres peuvent être boueux quand il pleut dans le parc."
               }
             },
             {
@@ -180,13 +196,15 @@
                 "de": "Kirche Saint-François-de-Sales",
                 "hu": "Kirche Saint-François-de-Sales",
                 "ro": "Kirche Saint-François-de-Sales",
-                "en": "Kirche Saint-François-de-Sales"
+                "en": "Kirche Saint-François-de-Sales",
+                "fr": "Kirche Saint-François-de-Sales"
               },
               "tip_5lang": {
                 "de": "Bewundern Sie die Architektur in der Stille des Kirchenschiffs, während es draußen stürmt; klopfen Sie Ihren Regenschirm vor dem Eintreten gut ab, um Pfützen zu vermeiden.",
                 "hu": "Csodálja meg az építészetet a templomhajó csendjében, miközben odakint esik; rázza le alaposan az esernyőjét belépés előtt, hogy elkerülje a tócsákat a padlón.",
                 "ro": "Admirați arhitectura în liniștea navei bisericii în timp ce afară plouă; scuturați bine umbrela înainte de a intra pentru a evita formarea bălților pe pardoseală.",
-                "en": "Admire the architecture in the silence of the nave while it storms outside; shake your umbrella well before entering to avoid creating puddles on the floor."
+                "en": "Admire the architecture in the silence of the nave while it storms outside; shake your umbrella well before entering to avoid creating puddles on the floor.",
+                "fr": "Admirez l’architecture dans le silence de la nef pendant que la tempête gronde dehors ; secouez bien votre parapluie avant d’entrer pour éviter de créer des flaques sur le sol."
               }
             },
             {
@@ -194,13 +212,15 @@
                 "de": "Église Saint-Léger",
                 "hu": "Église Saint-Léger",
                 "ro": "Église Saint-Léger",
-                "en": "Église Saint-Léger"
+                "en": "Église Saint-Léger",
+                "fr": "Église Saint-Léger"
               },
               "tip_5lang": {
                 "de": "Nutzen Sie diesen spirituellen Ort für eine trockene Pause; die Akustik bei Regen ist besonders beruhigend. Halten Sie eine Regenjacke für den Weg zum nächsten Ziel bereit.",
                 "hu": "Használja ki ezt a spirituális helyet egy száraz pihenőre; az eső kopogása a tetőn különleges akusztikát ad. Készítse elő az esőkabátot a következő szakaszhoz.",
                 "ro": "Folosiți acest loc spiritual pentru o pauză uscată; acustica în timpul ploii este deosebit de liniștitoare. Pregătiți pelerina pentru drumul spre următoarea destinație.",
-                "en": "Use this spiritual place for a dry break; the acoustics during rain are particularly soothing. Keep a raincoat ready for the walk to your next destination."
+                "en": "Use this spiritual place for a dry break; the acoustics during rain are particularly soothing. Keep a raincoat ready for the walk to your next destination.",
+                "fr": "Utilisez ce lieu spirituel pour une pause au sec ; l’acoustique sous la pluie est particulièrement apaisante. Gardez un imperméable à portée de main pour la marche vers votre prochaine destination."
               }
             },
             {
@@ -208,13 +228,15 @@
                 "de": "Temple",
                 "hu": "Temple",
                 "ro": "Temple",
-                "en": "Temple"
+                "en": "Temple",
+                "fr": "Temple"
               },
               "tip_5lang": {
                 "de": "Beenden Sie Ihre Tour in der schlichten Eleganz dieses Gebetshauses; das sanfte Licht bei bewölktem Himmel hebt die Details hervor. Ein warmes Getränk danach ist ratsam.",
                 "hu": "Zárja a túrát az imaház letisztult eleganciájával; a felhős égbolt lágy fénye kiemeli a belső részleteket. A túra után keressen egy helyet egy forró teára.",
                 "ro": "Încheiați turul în eleganța sobră a acestui lăcaș; lumina difuză a cerului înnorat pune în valoare detaliile. O băutură caldă după vizită este recomandată.",
-                "en": "End your tour in the simple elegance of this house of prayer; the soft light of the cloudy sky highlights the details. A warm drink afterwards is highly recommended."
+                "en": "End your tour in the simple elegance of this house of prayer; the soft light of the cloudy sky highlights the details. A warm drink afterwards is highly recommended.",
+                "fr": "Terminez votre visite dans la simplicité élégante de cette maison de prière ; la lumière douce du ciel couvert met en valeur les détails. Une boisson chaude ensuite est fortement recommandée."
               }
             }
           ]
@@ -224,7 +246,8 @@
             "de": "Ein frostiger Morgen beginnt im Japy-Museum, dessen Heizung die Kälte sofort vertreibt. Mittags bietet der Parc des Cèdres eine klare, erfrischende Luft unter zähen Winterbäumen. Am frühen Nachmittag besuchen wir die Kirchen, bevor die Dämmerung gegen 16:30 Uhr einsetzt. Der Abend endet bei frostigen Temperaturen, wenn die Straßenlaternen die winterliche Stille von Beaucourt beleuchten.",
             "hu": "A fagyos reggel a Japy-múzeumban indul, ahol a fűtés azonnal elűzi a hideget. Délben a Parc des Cèdres friss, tiszta levegőt kínál a zúzmarás fák között. Kora délután látogatjuk meg a templomokat, még mielőtt fél öt körül leszállna a szürkület. Az este fagyos hőmérséklettel zárul, miközben az utcai lámpák megvilágítják Beaucourt téli csendjét.",
             "ro": "O dimineață geroasă începe la Muzeul Japy, unde căldura alungă imediat frigul de afară. La prânz, Parc des Cèdres oferă un aer clar și revigorant printre arborii de iarnă. După-amiaza devreme vizităm bisericile înainte ca amurgul să se lase în jurul orei 16:30. Seara se încheie cu temperaturi scăzute, când felinarele iluminează liniștea hibernală din Beaucourt.",
-            "en": "A frosty morning begins in the Japy Museum, where the heating immediately dispels the cold. At noon, Parc des Cèdres offers clear, refreshing air among the winter trees. In the early afternoon, we visit the churches before dusk sets in around 4:30 PM. The evening ends with freezing temperatures as the streetlights illuminate the winter silence of Beaucourt."
+            "en": "A frosty morning begins in the Japy Museum, where the heating immediately dispels the cold. At noon, Parc des Cèdres offers clear, refreshing air among the winter trees. In the early afternoon, we visit the churches before dusk sets in around 4:30 PM. The evening ends with freezing temperatures as the streetlights illuminate the winter silence of Beaucourt.",
+            "fr": "Une matinée glaciale commence au Japy Museum, où le chauffage chasse immédiatement le froid. À midi, le Parc des Cèdres offre un air clair et vivifiant parmi les arbres d’hiver. En début d’après‑midi, nous visitons les églises avant que le crépuscule n’arrive vers 16:30. La soirée se termine avec des températures glaciales tandis que les réverbères illuminent le silence hivernal de Beaucourt."
           },
           "stops": [
             {
@@ -232,13 +255,15 @@
                 "de": "Japy-Museum",
                 "hu": "Japy-Museum",
                 "ro": "Japy-Museum",
-                "en": "Japy-Museum"
+                "en": "Japy-Museum",
+                "fr": "Japy-Museum"
               },
               "tip_5lang": {
                 "de": "Wärmen Sie sich in den Ausstellungsräumen auf, während Sie die filigranen Uhren bestaunen; die Garderobe ist ideal, um schwere Wintermäntel während des Besuchs abzulegen.",
                 "hu": "Melegedjen fel a kiállítótermekben, miközben a finom óraszerkezeteket csodálja; a ruhatárban érdemes letenni a nehéz téli kabátot a látogatás idejére.",
                 "ro": "Încălziți-vă în sălile de expoziție în timp ce admirați ceasurile delicate; garderoba este ideală pentru a lăsa hainele grele de iarnă pe durata vizitei.",
-                "en": "Warm up in the exhibition rooms while admiring the delicate watches; the cloakroom is ideal for leaving heavy winter coats during your visit to the museum."
+                "en": "Warm up in the exhibition rooms while admiring the delicate watches; the cloakroom is ideal for leaving heavy winter coats during your visit to the museum.",
+                "fr": "Réchauffez‑vous dans les salles d’exposition tout en admirant les montres délicates ; le vestiaire est idéal pour laisser les lourds manteaux d’hiver pendant votre visite au musée."
               }
             },
             {
@@ -246,13 +271,15 @@
                 "de": "Parc des Cèdres",
                 "hu": "Parc des Cèdres",
                 "ro": "Parc des Cèdres",
-                "en": "Parc des Cèdres"
+                "en": "Parc des Cèdres",
+                "fr": "Parc des Cèdres"
               },
               "tip_5lang": {
                 "de": "Beobachten Sie das Spiel von Frost und Licht auf den Zedernnadeln; tragen Sie Handschuhe, da der Wind in den offenen Bereichen des Parks im Winter sehr schneidend sein kann.",
                 "hu": "Figyelje meg a dér és a fény játékát a cédrusok tűlevelein; viseljen kesztyűt, mivel a szél a park nyitott részein télen nagyon metsző lehet.",
                 "ro": "Observați jocul de îngheț și lumină pe acele cedrilor; purtați mănuși, deoarece vântul în zonele deschise ale parcului poate fi foarte tăios în timpul iernii.",
-                "en": "Observe the play of frost and light on the cedar needles; wear gloves, as the wind in the open areas of the park can be very biting during the winter months."
+                "en": "Observe the play of frost and light on the cedar needles; wear gloves, as the wind in the open areas of the park can be very biting during the winter months.",
+                "fr": "Observez le jeu du givre et de la lumière sur les aiguilles des cèdres ; portez des gants, car le vent dans les espaces ouverts du parc peut être très mordant en hiver."
               }
             },
             {
@@ -260,13 +287,15 @@
                 "de": "Kirche Saint-François-de-Sales",
                 "hu": "Kirche Saint-François-de-Sales",
                 "ro": "Kirche Saint-François-de-Sales",
-                "en": "Kirche Saint-François-de-Sales"
+                "en": "Kirche Saint-François-de-Sales",
+                "fr": "Kirche Saint-François-de-Sales"
               },
               "tip_5lang": {
                 "de": "Die dicken Steinmauern halten die Kälte, also lassen Sie Ihre Jacke an; die gedämpfte Wintersonne erzeugt durch die Fenster eine ganz besondere, andächtige Stimmung.",
                 "hu": "A vastag kőfalak tartják a hideget, így ne vegye le a kabátját; a bágyadt téli napsütés az ablakokon keresztül különleges, áhítatos hangulatot teremt odabent.",
                 "ro": "Zidurile groase de piatră păstrează frigul, așa că păstrați haina pe dvs.; soarele slab de iarnă creează prin ferestre o atmosferă solemnă deosebită.",
-                "en": "The thick stone walls keep the cold in, so keep your jacket on; the muted winter sun through the windows creates a very special, prayerful atmosphere inside."
+                "en": "The thick stone walls keep the cold in, so keep your jacket on; the muted winter sun through the windows creates a very special, prayerful atmosphere inside.",
+                "fr": "Les murs épais en pierre retiennent le froid, gardez donc votre veste ; le soleil d’hiver tamisé à travers les vitres crée une atmosphère très spéciale et recueillie à l’intérieur."
               }
             },
             {
@@ -274,13 +303,15 @@
                 "de": "Église Saint-Léger",
                 "hu": "Église Saint-Léger",
                 "ro": "Église Saint-Léger",
-                "en": "Église Saint-Léger"
+                "en": "Église Saint-Léger",
+                "fr": "Église Saint-Léger"
               },
               "tip_5lang": {
                 "de": "Ein kurzer, besinnlicher Stopp vor dem Sonnenuntergang; achten Sie auf den Gehwegen auf eventuelles Glatteis, besonders im Schatten der Kirchenmauern.",
                 "hu": "Egy rövid, elmélyült megálló a naplemente előtt; ügyeljen a járdákon az esetleges jegesedésre, különösen a templomfalak árnyékosabb oldalán.",
                 "ro": "O scurtă oprire meditativă înainte de apusul soarelui; atenție la gheața de pe trotuare, în special în zonele umbrite de zidurile înalte ale bisericii.",
-                "en": "A short, contemplative stop before sunset; watch out for possible black ice on the sidewalks, especially in the shadows of the tall church walls."
+                "en": "A short, contemplative stop before sunset; watch out for possible black ice on the sidewalks, especially in the shadows of the tall church walls.",
+                "fr": "Une courte halte contemplative avant le coucher du soleil ; attention au verglas possible sur les trottoirs, surtout à l’ombre des hauts murs de l’église."
               }
             },
             {
@@ -288,13 +319,15 @@
                 "de": "Temple",
                 "hu": "Temple",
                 "ro": "Temple",
-                "en": "Temple"
+                "en": "Temple",
+                "fr": "Temple"
               },
               "tip_5lang": {
                 "de": "Besuchen Sie diesen Ort in der blauen Stunde, wenn die winterliche Dämmerung beginnt; die schlichte Fassade wirkt im Schnee oder Frost besonders edel und ruhig.",
                 "hu": "Látogasson el ide a kék órában, amikor a téli szürkület elkezdődik; a letisztult homlokzat hóban vagy dérben különösen nemes és nyugodt látványt nyújt.",
                 "ro": "Vizitați acest loc în ora albastră, când începe amurgul de iarnă; fațada simplă pare deosebit de nobilă și liniștită sub zăpadă sau îngheț.",
-                "en": "Visit this place during the blue hour as winter dusk begins; the simple facade looks particularly noble and calm under a layer of snow or frost."
+                "en": "Visit this place during the blue hour as winter dusk begins; the simple facade looks particularly noble and calm under a layer of snow or frost.",
+                "fr": "Visitez ce lieu pendant l’heure bleue au début du crépuscule hivernal ; la façade simple paraît particulièrement noble et calme sous une couche de neige ou de gel."
               }
             }
           ]
@@ -314,7 +347,8 @@
             "de": "Der Evangelische Tempel",
             "hu": "Der Evangelische Tempel",
             "ro": "Der Evangelische Tempel",
-            "en": "Der Evangelische Tempel"
+            "en": "Der Evangelische Tempel",
+            "fr": "Der Evangelische Tempel"
           },
           "coords": [
             6.838843,
@@ -329,7 +363,8 @@
             "de": "Betrachten Sie das schlichte Design dieses protestantischen Tempels, wo Sie feine Holzarbeiten bewundern und mehr über die lokale Geschichte erfahren.",
             "hu": "Tekintse meg ennek a protestáns templomnak a szerény kialakítását, ahol megcsodálhatja a famunkákat és megismerheti a helyi történelmet.",
             "ro": "Admirați designul modest al acestui templu protestant, unde puteți aprecia lemnăria fină și puteți învăța despre istoria religioasă locală.",
-            "en": "Take in the modest yet elegant design of this Protestant temple, where you can appreciate the intricate woodwork and learn about local religious history."
+            "en": "Take in the modest yet elegant design of this Protestant temple, where you can appreciate the intricate woodwork and learn about local religious history.",
+            "fr": "Appréciez le design sobre mais élégant de ce temple protestant, où vous pouvez admirer les boiseries élaborées et en apprendre davantage sur l'histoire religieuse locale."
           }
         },
         {
@@ -337,7 +372,8 @@
             "de": "Temple",
             "hu": "Temple",
             "ro": "Temple",
-            "en": "Temple"
+            "en": "Temple",
+            "fr": "Temple"
           },
           "coords": [
             6.895668,
@@ -352,7 +388,8 @@
             "de": "Erleben Sie die ruhige Atmosphäre dieses architektonischen Juwels und vergessen Sie Ihre Kamera nicht, um die charmante Fassade festzuhalten.",
             "hu": "Tapasztalja meg e klasszikus építészeti gyöngyszem nyugodt hangulatát, és ne felejtse el a fényképezőgépét, hogy megörökítse a bájos homlokzatot.",
             "ro": "Experimentați ambianța liniștită a acestei bijuterii arhitecturale și nu uitați aparatul foto pentru a surprinde fațada fermecătoare de la stradă.",
-            "en": "Experience the tranquil ambiance of this classic architectural gem, and don't forget your camera to capture the charming facade from the street level."
+            "en": "Experience the tranquil ambiance of this classic architectural gem, and don't forget your camera to capture the charming facade from the street level.",
+            "fr": "Vivez l'ambiance tranquille de ce joyau architectural classique, et n'oubliez pas votre appareil photo pour capturer la façade charmante au niveau de la rue."
           }
         },
         {
@@ -360,7 +397,8 @@
             "de": "Église Saint-Léger",
             "hu": "Église Saint-Léger",
             "ro": "Église Saint-Léger",
-            "en": "Église Saint-Léger"
+            "en": "Église Saint-Léger",
+            "fr": "Église Saint-Léger"
           },
           "coords": [
             6.918195,
@@ -375,7 +413,8 @@
             "de": "Erkunden Sie diese historische Pfarrkirche mit ihren atemberaubenden Buntglasfenstern am besten früh am Tag, wenn das Sonnenlicht das Kirchenschiff erhellt.",
             "hu": "Fedezze fel ezt a történelmi plébániatemplomot és lenyűgöző ólomüveg ablakait, érdemes korán érkezni, amikor a reggeli napfény bevilágítja a főhajót.",
             "ro": "Explorați această biserică parohială istorică cu vitraliile sale uimitoare și încercați să o vizitați devreme pentru a prinde lumina blândă a dimineții.",
-            "en": "Explore this historic parish church with its stunning stained glass windows, and try to visit early in the day when the morning sunlight illuminates the nave."
+            "en": "Explore this historic parish church with its stunning stained glass windows, and try to visit early in the day when the morning sunlight illuminates the nave.",
+            "fr": "Explorez cette église paroissiale historique aux superbes vitraux, et essayez de la visiter tôt dans la journée lorsque la lumière du matin illumine la nef."
           }
         },
         {
@@ -383,7 +422,8 @@
             "de": "Parc des Cèdres",
             "hu": "Parc des Cèdres",
             "ro": "Parc des Cèdres",
-            "en": "Parc des Cèdres"
+            "en": "Parc des Cèdres",
+            "fr": "Parc des Cèdres"
           },
           "coords": [
             6.9172,
@@ -398,7 +438,8 @@
             "de": "Entspannen Sie sich unter den alten Bäumen in diesem schönen öffentlichen Park und bringen Sie eine kleine Picknickdecke für eine erholsame Pause mit.",
             "hu": "Pihenjen meg a hatalmas, ősi fák árnyékában ebben a gyönyörű parkban, és hozzon magával egy pikniktakarót a séta közbeni kellemes kikapcsolódáshoz.",
             "ro": "Relaxați-vă sub copacii antici din acest parc public superb și aduceți o pătură de picnic pentru a vă bucura de o pauză senină în timpul plimbării.",
-            "en": "Relax under the ancient, towering trees in this beautiful public park, and bring a small picnic blanket to enjoy a serene break during your stroll."
+            "en": "Relax under the ancient, towering trees in this beautiful public park, and bring a small picnic blanket to enjoy a serene break during your stroll.",
+            "fr": "Détendez-vous sous les arbres anciens et majestueux de ce beau parc public, et apportez une petite couverture pour profiter d'une pause sereine lors de votre promenade."
           }
         },
         {
@@ -406,7 +447,8 @@
             "de": "Japy-Museum",
             "hu": "Japy-Museum",
             "ro": "Japy-Museum",
-            "en": "Japy-Museum"
+            "en": "Japy-Museum",
+            "fr": "Japy-Museum"
           },
           "coords": [
             6.922627,
@@ -421,7 +463,8 @@
             "de": "Entdecken Sie die reiche Industriegeschichte der Familie Japy in diesem Museum, aber prüfen Sie vorab unbedingt die aktuellen Öffnungszeiten online.",
             "hu": "Fedezze fel a Japy család gazdag ipari történelmét ebben az izgalmas múzeumban, de látogatás előtt mindenképpen ellenőrizze az online nyitvatartást.",
             "ro": "Descoperiți bogata istorie industrială a familiei Japy în acest muzeu fascinant și asigurați-vă că verificați online programul înainte de vizită.",
-            "en": "Discover the rich industrial history of the Japy family in this fascinating museum, and be sure to check the opening hours online before your visit."
+            "en": "Discover the rich industrial history of the Japy family in this fascinating museum, and be sure to check the opening hours online before your visit.",
+            "fr": "Découvrez la riche histoire industrielle de la famille Japy dans ce musée fascinant, et pensez à vérifier les horaires d'ouverture en ligne avant votre visite."
           }
         },
         {
@@ -429,7 +472,8 @@
             "de": "Kirche Saint-François-de-Sales",
             "hu": "Kirche Saint-François-de-Sales",
             "ro": "Kirche Saint-François-de-Sales",
-            "en": "Kirche Saint-François-de-Sales"
+            "en": "Kirche Saint-François-de-Sales",
+            "fr": "Kirche Saint-François-de-Sales"
           },
           "coords": [
             6.928191,
@@ -444,7 +488,8 @@
             "de": "Bewundern Sie die markante Architektur dieser katholischen Kirche, die eine friedliche Atmosphäre bietet und zu ein paar Momenten der Stille einlädt.",
             "hu": "Csodálja meg e gyönyörű katolikus templom lenyűgöző építészetét, amely békés légkörével tökéletes helyszínt biztosít egy kis csendes elmélkedéshez.",
             "ro": "Admirați arhitectura remarcabilă a acestei biserici catolice frumoase, care oferă o atmosferă pașnică, perfectă pentru câteva momente de reflecție.",
-            "en": "Admire the striking architecture of this beautiful Catholic church, which offers a peaceful atmosphere perfect for a few moments of quiet reflection."
+            "en": "Admire the striking architecture of this beautiful Catholic church, which offers a peaceful atmosphere perfect for a few moments of quiet reflection.",
+            "fr": "Admirez l'architecture frappante de cette belle église catholique, qui offre une atmosphère paisible parfaite pour quelques instants de réflexion."
           }
         }
       ],
@@ -452,7 +497,8 @@
         "de": "Starten Sie Ihre Radtour am Evangelischen Tempel und genießen Sie die frische Morgenluft. Fahren Sie gemütlich zum Temple und zur Église Saint-Léger, um die ruhige Atmosphäre zu erleben. Ihr Nachmittag bietet einen Stopp im Parc des Cèdres, bevor Sie im Japy-Museum in die Geschichte eintauchen. Beenden Sie den Tag an der Kirche Saint-François-de-Sales.",
         "hu": "Kezdje kerékpáros túráját a Der Evangelische Tempel épületénél, élvezve a friss reggeli levegőt. Tekerjen kényelmesen a Temple és az Église Saint-Léger felé a békés hangulatban. A délután egy frissítő megállót tartogat a Parc des Cèdres-ben, majd a Japy-Museum történelme következik. Zárja a napot a Kirche Saint-François-de-Sales megcsodálásával.",
         "ro": "Începeți turul cu bicicleta la Der Evangelische Tempel, bucurându-vă de aerul proaspăt al dimineții. Mergeți ușor spre Temple și Église Saint-Léger, savurând atmosfera senină. După-amiaza include o oprire revigorantă la Parc des Cèdres înainte de a explora istoria la Japy-Museum. Terminați ziua admirând Kirche Saint-François-de-Sales la amurg.",
-        "en": "Kick off your cycling tour at Der Evangelische Tempel, enjoying the crisp morning air. Ride smoothly towards the Temple and Église Saint-Léger, taking in the serene local atmosphere. Your afternoon includes a refreshing stop at Parc des Cèdres before delving into local history at the Japy-Museum. Finish the day admiring Kirche Saint-François-de-Sales at twilight."
+        "en": "Kick off your cycling tour at Der Evangelische Tempel, enjoying the crisp morning air. Ride smoothly towards the Temple and Église Saint-Léger, taking in the serene local atmosphere. Your afternoon includes a refreshing stop at Parc des Cèdres before delving into local history at the Japy-Museum. Finish the day admiring Kirche Saint-François-de-Sales at twilight.",
+        "fr": "Commencez votre circuit à vélo au Der Evangelische Tempel en profitant de l'air frais du matin. Roulez en douceur en direction du Temple et de l'Église Saint-Léger, en admirant l'atmosphère locale sereine. Votre après-midi comprend une pause rafraîchissante au Parc des Cèdres avant de plonger dans l'histoire locale au Japy-Museum. Terminez la journée en admirant Kirche Saint-François-de-Sales au crépuscule."
       },
       "variants": {
         "rainy": {
@@ -460,7 +506,8 @@
             "de": "Die Radtour startet bei Nieselregen am Evangelischen Tempel. Mittags gleiten wir vorsichtig über nasse Wege durch den Parc des Cèdres zum Japy-Museum, das eine perfekte trockene Pause bietet. Der Nachmittag ist geprägt von kurzen Fahrten zwischen den Kirchen, wobei Regenkleidung unerlässlich ist. Abends endet die Fahrt auf glänzenden Straßen, wenn die Sicht bei Regen abnimmt.",
             "hu": "A kerékpártúra szitáló esőben indul az Evangelische Tempel-nél. Délben óvatosan haladunk a vizes utakon a Parc des Cèdres-en át a Japy-múzeum felé, amely tökéletes száraz pihenőt kínál. A délutánt a templomok közötti rövid szakaszok jellemzik, ahol az esőruházat elengedhetetlen. Az este csillogó utakon ér véget, ahogy a látótávolság az esőben csökken.",
             "ro": "Turul cu bicicleta începe pe o ploaie fină la Templul Evanghelic. La prânz, pedalăm cu grijă pe drumuri umede prin Parc des Cèdres spre Muzeul Japy, care oferă o pauză uscată perfectă. După-amiaza este marcată de scurte deplasări între biserici, echipamentul impermeabil fiind esențial. Seara se încheie pe străzi strălucitoare, când vizibilitatea scade.",
-            "en": "The bike tour starts in drizzling rain at the Evangelical Temple. At noon, we glide carefully over wet paths through Parc des Cèdres to the Japy Museum, which offers a perfect dry break. The afternoon is characterized by short rides between churches, where rain gear is essential. The ride ends in the evening on shiny streets as visibility decreases."
+            "en": "The bike tour starts in drizzling rain at the Evangelical Temple. At noon, we glide carefully over wet paths through Parc des Cèdres to the Japy Museum, which offers a perfect dry break. The afternoon is characterized by short rides between churches, where rain gear is essential. The ride ends in the evening on shiny streets as visibility decreases.",
+            "fr": "La balade à vélo commence sous une pluie fine au Evangelical Temple. À midi, nous glissons prudemment sur des chemins mouillés à travers le Parc des Cèdres jusqu'au Japy Museum, qui offre une pause sèche idéale. L'après-midi se caractérise par de courts trajets entre les églises, où des vêtements de pluie sont indispensables. La sortie se termine le soir sur des rues brillantes à mesure que la visibilité diminue."
           },
           "stops": [
             {
@@ -468,13 +515,15 @@
                 "de": "Der Evangelische Tempel",
                 "hu": "Der Evangelische Tempel",
                 "ro": "Der Evangelische Tempel",
-                "en": "Der Evangelische Tempel"
+                "en": "Der Evangelische Tempel",
+                "fr": "Der Evangelische Tempel"
               },
               "tip_5lang": {
                 "de": "Beginnen Sie die Fahrt mit einer Besichtigung dieses ruhigen Ortes; prüfen Sie Ihre Bremsen, bevor Sie auf die nassen Straßen von Beaucourt aufbrechen.",
                 "hu": "Kezdje az utat ennek a nyugodt helynek a megtekintésével; ellenőrizze a fékeket, mielőtt elindulna Beaucourt vizes utcáin a kerékpárral.",
                 "ro": "Începeți călătoria cu vizitarea acestui loc liniștit; verificați frânele înainte de a pleca pe străzile umede din Beaucourt cu bicicleta.",
-                "en": "Start your journey by visiting this peaceful place; check your brakes before setting off on the wet streets of Beaucourt on your bicycle."
+                "en": "Start your journey by visiting this peaceful place; check your brakes before setting off on the wet streets of Beaucourt on your bicycle.",
+                "fr": "Commencez votre parcours en visitant cet endroit paisible ; vérifiez vos freins avant de partir sur les rues mouillées de Beaucourt à vélo."
               }
             },
             {
@@ -482,13 +531,15 @@
                 "de": "Temple",
                 "hu": "Temple",
                 "ro": "Temple",
-                "en": "Temple"
+                "en": "Temple",
+                "fr": "Temple"
               },
               "tip_5lang": {
                 "de": "Ein schneller Stopp im Trockenen; stellen Sie Ihr Rad an einem geschützten Ort ab, um den Sattel vor der Weiterfahrt trocken zu halten.",
                 "hu": "Egy gyors megálló a szárazon; állítsa le a kerékpárt védett helyen, hogy a nyereg száraz maradjon a következő szakaszig a városban.",
                 "ro": "O scurtă oprire la uscat; parcați bicicleta într-un loc protejat pentru a păstra șaua uscată până la următoarea etapă prin oraș.",
-                "en": "A quick stop in the dry; park your bike in a sheltered spot to keep the saddle dry until the next stage of your journey through town."
+                "en": "A quick stop in the dry; park your bike in a sheltered spot to keep the saddle dry until the next stage of your journey through town.",
+                "fr": "Un arrêt rapide à l'abri ; garez votre vélo dans un endroit couvert pour garder la selle sèche jusqu'à la prochaine étape de votre parcours en ville."
               }
             },
             {
@@ -496,13 +547,15 @@
                 "de": "Église Saint-Léger",
                 "hu": "Église Saint-Léger",
                 "ro": "Église Saint-Léger",
-                "en": "Église Saint-Léger"
+                "en": "Église Saint-Léger",
+                "fr": "Église Saint-Léger"
               },
               "tip_5lang": {
                 "de": "Die spirituelle Atmosphäre bietet Erholung vom Regen; tragen Sie eine helle Regenweste, um im grauen Wetter für Autofahrer besser sichtbar zu sein.",
                 "hu": "A spirituális légkör felüdülést nyújt az esőben; viseljen fényvisszaverő esőmellényt, hogy a szürke időben jobban látható legyen az autósoknak.",
                 "ro": "Atmosfera spirituală oferă relaxare în timpul ploii; purtați o vestă reflectorizantă pentru a fi mai vizibil pentru șoferi pe vreme gri.",
-                "en": "The spiritual atmosphere offers refreshment in the rain; wear a reflective rain vest to be more visible to drivers in the grey weather."
+                "en": "The spiritual atmosphere offers refreshment in the rain; wear a reflective rain vest to be more visible to drivers in the grey weather.",
+                "fr": "L'atmosphère spirituelle apporte un réconfort sous la pluie ; portez un gilet de pluie réfléchissant pour être mieux visible des automobilistes par temps gris."
               }
             },
             {
@@ -510,13 +563,15 @@
                 "de": "Parc des Cèdres",
                 "hu": "Parc des Cèdres",
                 "ro": "Parc des Cèdres",
-                "en": "Parc des Cèdres"
+                "en": "Parc des Cèdres",
+                "fr": "Parc des Cèdres"
               },
               "tip_5lang": {
                 "de": "Fahren Sie vorsichtig über nasses Laub auf den Parkwegen; die Bäume bieten nur minimalen Schutz, ein Cape ist hier sehr nützlich.",
                 "hu": "Vigyázzon a vizes levelekre a park ösvényein; a fák csak minimális védelmet adnak, egy esőponcsó itt nagyon hasznos lesz a tekerés közben.",
                 "ro": "Atenție la frunzele ude de pe potecile parcului; copacii oferă o protecție minimă, o pelerină de ploaie fiind foarte utilă în timpul pedalării.",
-                "en": "Watch out for wet leaves on the park paths; the trees offer minimal protection, so a rain poncho will be very useful while cycling here."
+                "en": "Watch out for wet leaves on the park paths; the trees offer minimal protection, so a rain poncho will be very useful while cycling here.",
+                "fr": "Attention aux feuilles mouillées sur les allées du parc ; les arbres offrent une protection limitée, donc une cape imperméable sera très utile en roulant ici."
               }
             },
             {
@@ -524,13 +579,15 @@
                 "de": "Japy-Museum",
                 "hu": "Japy-Museum",
                 "ro": "Japy-Museum",
-                "en": "Japy-Museum"
+                "en": "Japy-Museum",
+                "fr": "Japy-Museum"
               },
               "tip_5lang": {
                 "de": "Die ideale lange Pause zum Aufwärmen und Trocknen; nutzen Sie den Ständer vor dem Museum und sichern Sie Ihr Rad gut gegen den Wind.",
                 "hu": "Ideális hosszú pihenő a felmelegedéshez és száradáshoz; használja a múzeum előtti tárolót, és rögzítse jól a gépet az erős szél ellen.",
                 "ro": "O pauză lungă ideală pentru încălzire și uscare; folosiți suportul din fața muzeului și asigurați bine bicicleta împotriva vântului puternic.",
-                "en": "An ideal long break for warming up and drying off; use the rack in front of the museum and secure your bike well against the strong wind."
+                "en": "An ideal long break for warming up and drying off; use the rack in front of the museum and secure your bike well against the strong wind.",
+                "fr": "Une longue pause idéale pour se réchauffer et se sécher ; utilisez le porte-vélos devant le musée et attachez bien votre vélo contre le vent fort."
               }
             },
             {
@@ -538,13 +595,15 @@
                 "de": "Kirche Saint-François-de-Sales",
                 "hu": "Kirche Saint-François-de-Sales",
                 "ro": "Kirche Saint-François-de-Sales",
-                "en": "Kirche Saint-François-de-Sales"
+                "en": "Kirche Saint-François-de-Sales",
+                "fr": "Kirche Saint-François-de-Sales"
               },
               "tip_5lang": {
                 "de": "Beenden Sie die Tour mit einem Moment der Ruhe; wischen Sie die Bremsflanken vor der letzten Abfahrt kurz ab, um die Bremsleistung zu erhalten.",
                 "hu": "Zárja a túrát egy pillanatnyi nyugalommal; törölje le a fékfelületeket az utolsó gurulás előtt, hogy megőrizze a fékteljesítményt a nedves úton.",
                 "ro": "Încheiați turul cu un moment de liniște; ștergeți suprafețele de frânare înainte de ultima coborâre pentru a menține eficiența frânării pe drum ud.",
-                "en": "End the tour with a moment of peace; wipe the braking surfaces before the final descent to maintain braking performance on the wet road."
+                "en": "End the tour with a moment of peace; wipe the braking surfaces before the final descent to maintain braking performance on the wet road.",
+                "fr": "Terminez la visite par un moment de paix ; essuyez les surfaces de frein avant la descente finale pour conserver l'efficacité du freinage sur la route mouillée."
               }
             }
           ]
@@ -554,7 +613,8 @@
             "de": "Die Tour beginnt bei frostiger Luft am Evangelischen Tempel. Mittags halten wir uns durch aktives Radeln warm, während wir den Parc des Cèdres durchqueren. Das Japy-Museum bietet die nötige Aufwärmpause am frühen Nachmittag. Die Fahrt muss zügig fortgesetzt werden, da das Tageslicht früh schwindet. Der Abend endet bei Minusgraden, sobald die Sonne hinter den Hügeln verschwindet.",
             "hu": "A túra fagyos levegőben indul az Evangelische Tempel-nél. Délben az aktív tekeréssel tartjuk magunkat melegen, miközben átszeljük a Parc des Cèdres-t. A Japy-múzeum biztosítja a szükséges melegedőt kora délután. Az utat tempósan kell folytatni, mert a nappali fény hamar elfogy. Az este mínuszfokokkal zárul, amint a nap eltűnik a dombok mögött.",
             "ro": "Turul începe în aerul înghețat la Templul Evanghelic. La prânz, ne menținem calzi prin pedalare activă în timp ce traversăm Parc des Cèdres. Muzeul Japy oferă pauza de încălzire necesară după-amiaza devreme. Călătoria trebuie continuată rapid, deoarece lumina zilei scade repede. Seara se încheie cu temperaturi sub zero grade.",
-            "en": "The tour starts in freezing air at the Evangelical Temple. At noon, we stay warm through active cycling while crossing Parc des Cèdres. The Japy Museum provides the necessary warming break in the early afternoon. The journey must continue briskly as daylight fades early. The evening ends with sub-zero temperatures as the sun disappears."
+            "en": "The tour starts in freezing air at the Evangelical Temple. At noon, we stay warm through active cycling while crossing Parc des Cèdres. The Japy Museum provides the necessary warming break in the early afternoon. The journey must continue briskly as daylight fades early. The evening ends with sub-zero temperatures as the sun disappears.",
+            "fr": "La balade commence dans un air glacial au Evangelical Temple. À midi, nous restons au chaud grâce au vélo actif en traversant le Parc des Cèdres. Le Japy Museum offre la pause chauffante nécessaire en début d'après-midi. Le voyage doit poursuivre un rythme soutenu car la lumière du jour diminue tôt. La soirée se termine avec des températures négatives alors que le soleil disparaît."
           },
           "stops": [
             {
@@ -562,13 +622,15 @@
                 "de": "Der Evangelische Tempel",
                 "hu": "Der Evangelische Tempel",
                 "ro": "Der Evangelische Tempel",
-                "en": "Der Evangelische Tempel"
+                "en": "Der Evangelische Tempel",
+                "fr": "Der Evangelische Tempel"
               },
               "tip_5lang": {
                 "de": "Ein ruhiger Start in die Tour; tragen Sie warme Handschuhe, da der Fahrtwind bei Minustemperaturen Ihre Finger schnell auskühlen lässt.",
                 "hu": "Nyugodt kezdés a túrához; viseljen meleg kesztyűt, mivel a menetszél mínuszfokokban gyorsan lehűtheti az ujjait a kormányon.",
                 "ro": "Un început liniștit al turului; purtați mănuși groase, deoarece curentul de aer la temperaturi negative vă poate îngheța rapid degetele pe ghidon.",
-                "en": "A calm start to the tour; wear warm gloves, as the wind chill at sub-zero temperatures can quickly cool your fingers on the handlebars."
+                "en": "A calm start to the tour; wear warm gloves, as the wind chill at sub-zero temperatures can quickly cool your fingers on the handlebars.",
+                "fr": "Un départ calme pour la visite ; portez des gants chauds, car le refroidissement éolien à des températures négatives peut vite engourdir vos doigts sur le guidon."
               }
             },
             {
@@ -576,13 +638,15 @@
                 "de": "Temple",
                 "hu": "Temple",
                 "ro": "Temple",
-                "en": "Temple"
+                "en": "Temple",
+                "fr": "Temple"
               },
               "tip_5lang": {
                 "de": "Die schlichte Architektur wirkt im Winterlicht besonders klar; parken Sie das Rad kurz für ein Foto, aber bleiben Sie in Bewegung, um warm zu bleiben.",
                 "hu": "A letisztult építészet téli fényben különösen tiszta; álljon meg egy fotóra, de maradjon mozgásban, hogy testhőmérséklete ne csökkenjen le.",
                 "ro": "Arhitectura simplă pare deosebit de clară în lumina iernii; opriți bicicleta pentru o fotografie, dar rămâneți în mișcare pentru a vă menține căldura.",
-                "en": "The simple architecture looks particularly clear in the winter light; stop for a photo, but stay moving to keep your body temperature from dropping."
+                "en": "The simple architecture looks particularly clear in the winter light; stop for a photo, but stay moving to keep your body temperature from dropping.",
+                "fr": "L'architecture simple apparaît particulièrement nette à la lumière hivernale ; arrêtez-vous pour une photo, mais continuez à bouger pour maintenir votre température corporelle."
               }
             },
             {
@@ -590,13 +654,15 @@
                 "de": "Église Saint-Léger",
                 "hu": "Église Saint-Léger",
                 "ro": "Église Saint-Léger",
-                "en": "Église Saint-Léger"
+                "en": "Église Saint-Léger",
+                "fr": "Église Saint-Léger"
               },
               "tip_5lang": {
                 "de": "Ein friedlicher Ort für eine kurze Besinnung; achten Sie beim Absteigen auf eisige Stellen rund um den Fahrradständer oder die Treppen.",
                 "hu": "Békés hely egy rövid elmélyüléshez; leszálláskor ügyeljen a jeges foltokra a kerékpártároló környékén vagy a templom lépcsőinél.",
                 "ro": "Un loc pașnic pentru o scurtă meditație; la coborâre, atenție la porțiunile înghețate din jurul suportului de biciclete sau al scărilor.",
-                "en": "A peaceful place for a short reflection; when dismounting, watch out for icy patches around the bike rack or the church steps."
+                "en": "A peaceful place for a short reflection; when dismounting, watch out for icy patches around the bike rack or the church steps.",
+                "fr": "Un lieu paisible pour une courte réflexion ; en descendant de vélo, méfiez-vous des plaques de verglas autour du support à vélos ou des marches de l'église."
               }
             },
             {
@@ -604,13 +670,15 @@
                 "de": "Parc des Cèdres",
                 "hu": "Parc des Cèdres",
                 "ro": "Parc des Cèdres",
-                "en": "Parc des Cèdres"
+                "en": "Parc des Cèdres",
+                "fr": "Parc des Cèdres"
               },
               "tip_5lang": {
                 "de": "Genießen Sie die winterliche Stille des Parks; fahren Sie vorsichtig in Kurven, da gefrorener Boden die Bodenhaftung Ihrer Reifen verringert.",
                 "hu": "Élvezze a park téli csendjét; kanyarodjon óvatosan, mivel a fagyott talaj csökkenti a gumiabroncsok tapadását az ösvényeken.",
                 "ro": "Bucurați-vă de liniștea hibernală a parcului; virați cu atenție, deoarece solul înghețat reduce aderența anvelopelor pe poteci.",
-                "en": "Enjoy the winter silence of the park; corner carefully, as frozen ground reduces your tires' grip on the various paths."
+                "en": "Enjoy the winter silence of the park; corner carefully, as frozen ground reduces your tires' grip on the various paths.",
+                "fr": "Profitez du silence hivernal du parc ; prenez les virages prudemment, car le sol gelé réduit l'adhérence de vos pneus sur les différents sentiers."
               }
             },
             {
@@ -618,13 +686,15 @@
                 "de": "Japy-Museum",
                 "hu": "Japy-Museum",
                 "ro": "Japy-Museum",
-                "en": "Japy-Museum"
+                "en": "Japy-Museum",
+                "fr": "Japy-Museum"
               },
               "tip_5lang": {
                 "de": "Nutzen Sie den Museumsbesuch als Aufwärmpause; trinken Sie danach etwas Warmes, bevor Sie den letzten Abschnitt der Tour antreten.",
                 "hu": "Használja a múzeumlátogatást melegedő pihenőnek; igyon valami forrót utána, mielőtt nekivágna a túra utolsó szakaszának a városban.",
                 "ro": "Folosiți vizita la muzeu ca pauză de încălzire; beți ceva cald după aceea, înainte de a începe ultima etapă a turului prin oraș.",
-                "en": "Use the museum visit as a warming break; drink something hot afterwards before starting the final leg of the tour through the town."
+                "en": "Use the museum visit as a warming break; drink something hot afterwards before starting the final leg of the tour through the town.",
+                "fr": "Utilisez la visite du musée comme pause réchauffante ; buvez quelque chose de chaud ensuite avant d'entamer la dernière étape du parcours en ville."
               }
             },
             {
@@ -632,13 +702,15 @@
                 "de": "Kirche Saint-François-de-Sales",
                 "hu": "Kirche Saint-François-de-Sales",
                 "ro": "Kirche Saint-François-de-Sales",
-                "en": "Kirche Saint-François-de-Sales"
+                "en": "Kirche Saint-François-de-Sales",
+                "fr": "Kirche Saint-François-de-Sales"
               },
               "tip_5lang": {
                 "de": "Der krönende Abschluss bei einsetzender Dämmerung; schalten Sie Ihre Fahrradbeleuchtung frühzeitig ein, um im winterlichen Verkehr sicher zu sein.",
                 "hu": "A túra méltó lezárása a szürkületben; kapcsolja be korán a kerékpáros világítást, hogy biztonságban legyen a téli forgalomban.",
                 "ro": "Finalul binemeritat al turului la amurg; aprindeți din timp luminile bicicletei pentru a fi în siguranță în traficul de iarnă.",
-                "en": "The crowning conclusion of the tour at dusk; turn on your bike lights early to be safe in the winter traffic during the late afternoon."
+                "en": "The crowning conclusion of the tour at dusk; turn on your bike lights early to be safe in the winter traffic during the late afternoon.",
+                "fr": "La conclusion couronnante de la visite au crépuscule ; allumez vos éclairages de vélo tôt pour être en sécurité dans la circulation hivernale en fin d'après-midi."
               }
             }
           ]
@@ -658,7 +730,8 @@
             "de": "Der Evangelische Tempel",
             "hu": "Der Evangelische Tempel",
             "ro": "Der Evangelische Tempel",
-            "en": "Der Evangelische Tempel"
+            "en": "Der Evangelische Tempel",
+            "fr": "Der Evangelische Tempel"
           },
           "coords": [
             6.838843,
@@ -673,7 +746,8 @@
             "de": "Betrachten Sie das schlichte Design dieses protestantischen Tempels, wo Sie feine Holzarbeiten bewundern und mehr über die lokale Geschichte erfahren.",
             "hu": "Tekintse meg ennek a protestáns templomnak a szerény kialakítását, ahol megcsodálhatja a famunkákat és megismerheti a helyi történelmet.",
             "ro": "Admirați designul modest al acestui templu protestant, unde puteți aprecia lemnăria fină și puteți învăța despre istoria religioasă locală.",
-            "en": "Take in the modest yet elegant design of this Protestant temple, where you can appreciate the intricate woodwork and learn about local religious history."
+            "en": "Take in the modest yet elegant design of this Protestant temple, where you can appreciate the intricate woodwork and learn about local religious history.",
+            "fr": "Appréciez le design modeste mais élégant de ce temple protestant, où vous pouvez admirer les boiseries fines et apprendre l'histoire religieuse locale."
           }
         },
         {
@@ -681,7 +755,8 @@
             "de": "Temple",
             "hu": "Temple",
             "ro": "Temple",
-            "en": "Temple"
+            "en": "Temple",
+            "fr": "Temple"
           },
           "coords": [
             6.895668,
@@ -696,7 +771,8 @@
             "de": "Erleben Sie die ruhige Atmosphäre dieses architektonischen Juwels und vergessen Sie Ihre Kamera nicht, um die charmante Fassade festzuhalten.",
             "hu": "Tapasztalja meg e klasszikus építészeti gyöngyszem nyugodt hangulatát, és ne felejtse el a fényképezőgépét, hogy megörökítse a bájos homlokzatot.",
             "ro": "Experimentați ambianța liniștită a acestei bijuterii arhitecturale și nu uitați aparatul foto pentru a surprinde fațada fermecătoare de la stradă.",
-            "en": "Experience the tranquil ambiance of this classic architectural gem, and don't forget your camera to capture the charming facade from the street level."
+            "en": "Experience the tranquil ambiance of this classic architectural gem, and don't forget your camera to capture the charming facade from the street level.",
+            "fr": "Ressentez l'ambiance tranquille de ce joyau architectural classique, et n'oubliez pas votre appareil photo pour capturer la façade charmante depuis la rue."
           }
         },
         {
@@ -704,7 +780,8 @@
             "de": "Église Saint-Léger",
             "hu": "Église Saint-Léger",
             "ro": "Église Saint-Léger",
-            "en": "Église Saint-Léger"
+            "en": "Église Saint-Léger",
+            "fr": "Église Saint-Léger"
           },
           "coords": [
             6.918195,
@@ -719,7 +796,8 @@
             "de": "Erkunden Sie diese historische Pfarrkirche mit ihren atemberaubenden Buntglasfenstern am besten früh am Tag, wenn das Sonnenlicht das Kirchenschiff erhellt.",
             "hu": "Fedezze fel ezt a történelmi plébániatemplomot és lenyűgöző ólomüveg ablakait, érdemes korán érkezni, amikor a reggeli napfény bevilágítja a főhajót.",
             "ro": "Explorați această biserică parohială istorică cu vitraliile sale uimitoare și încercați să o vizitați devreme pentru a prinde lumina blândă a dimineții.",
-            "en": "Explore this historic parish church with its stunning stained glass windows, and try to visit early in the day when the morning sunlight illuminates the nave."
+            "en": "Explore this historic parish church with its stunning stained glass windows, and try to visit early in the day when the morning sunlight illuminates the nave.",
+            "fr": "Explorez cette église paroissiale historique aux vitraux splendides, et essayez de la visiter tôt le matin lorsque le soleil illumine la nef."
           }
         },
         {
@@ -727,7 +805,8 @@
             "de": "Japy-Museum",
             "hu": "Japy-Museum",
             "ro": "Japy-Museum",
-            "en": "Japy-Museum"
+            "en": "Japy-Museum",
+            "fr": "Japy-Museum"
           },
           "coords": [
             6.922627,
@@ -742,7 +821,8 @@
             "de": "Entdecken Sie die reiche Industriegeschichte der Familie Japy in diesem Museum, aber prüfen Sie vorab unbedingt die aktuellen Öffnungszeiten online.",
             "hu": "Fedezze fel a Japy család gazdag ipari történelmét ebben az izgalmas múzeumban, de látogatás előtt mindenképpen ellenőrizze az online nyitvatartást.",
             "ro": "Descoperiți bogata istorie industrială a familiei Japy în acest muzeu fascinant și asigurați-vă că verificați online programul înainte de vizită.",
-            "en": "Discover the rich industrial history of the Japy family in this fascinating museum, and be sure to check the opening hours online before your visit."
+            "en": "Discover the rich industrial history of the Japy family in this fascinating museum, and be sure to check the opening hours online before your visit.",
+            "fr": "Découvrez la riche histoire industrielle de la famille Japy dans ce musée fascinant, et assurez-vous de vérifier les horaires d'ouverture en ligne avant votre visite."
           }
         },
         {
@@ -750,7 +830,8 @@
             "de": "Kirche Saint-François-de-Sales",
             "hu": "Kirche Saint-François-de-Sales",
             "ro": "Kirche Saint-François-de-Sales",
-            "en": "Kirche Saint-François-de-Sales"
+            "en": "Kirche Saint-François-de-Sales",
+            "fr": "Kirche Saint-François-de-Sales"
           },
           "coords": [
             6.928191,
@@ -765,7 +846,8 @@
             "de": "Bewundern Sie die markante Architektur dieser katholischen Kirche, die eine friedliche Atmosphäre bietet und zu ein paar Momenten der Stille einlädt.",
             "hu": "Csodálja meg e gyönyörű katolikus templom lenyűgöző építészetét, amely békés légkörével tökéletes helyszínt biztosít egy kis csendes elmélkedéshez.",
             "ro": "Admirați arhitectura remarcabilă a acestei biserici catolice frumoase, care oferă o atmosferă pașnică, perfectă pentru câteva momente de reflecție.",
-            "en": "Admire the striking architecture of this beautiful Catholic church, which offers a peaceful atmosphere perfect for a few moments of quiet reflection."
+            "en": "Admire the striking architecture of this beautiful Catholic church, which offers a peaceful atmosphere perfect for a few moments of quiet reflection.",
+            "fr": "Admirez l'architecture remarquable de cette belle église catholique, qui offre une atmosphère paisible idéale pour quelques instants de réflexion."
           }
         },
         {
@@ -773,7 +855,8 @@
             "de": "Temple Luthérien",
             "hu": "Temple Luthérien",
             "ro": "Temple Luthérien",
-            "en": "Temple Luthérien"
+            "en": "Temple Luthérien",
+            "fr": "Temple Luthérien"
           },
           "coords": [
             6.939121,
@@ -788,7 +871,8 @@
             "de": "Bewundern Sie den besonderen Baustil dieses lutherischen Tempels im Norden der Stadt und bringen Sie ein Weitwinkelobjektiv für großartige Aufnahmen mit.",
             "hu": "Értékelje a város északi részén található evangélikus templom egyedi építészeti stílusát, és hozzon nagylátószögű objektívet a különleges szerkezet megörökítéséhez.",
             "ro": "Apreciați stilul arhitectural distinct al acestui templu luteran din nordul orașului, aducând un obiectiv cu unghi larg pentru a-i surprinde structura.",
-            "en": "Appreciate the distinct architectural style of this Lutheran temple in the northern part of town, bringing a wide-angle lens to capture its unique structure."
+            "en": "Appreciate the distinct architectural style of this Lutheran temple in the northern part of town, bringing a wide-angle lens to capture its unique structure.",
+            "fr": "Appréciez le style architectural distinct de ce temple luthérien dans la partie nord de la ville, emportez un objectif grand-angle pour en capter la structure unique."
           }
         },
         {
@@ -796,7 +880,8 @@
             "de": "Église Saint-Valère",
             "hu": "Église Saint-Valère",
             "ro": "Église Saint-Valère",
-            "en": "Église Saint-Valère"
+            "en": "Église Saint-Valère",
+            "fr": "Église Saint-Valère"
           },
           "coords": [
             6.951473,
@@ -811,7 +896,8 @@
             "de": "Betreten Sie diese charmante lokale Kirche, um den schönen Altar zu sehen, und denken Sie an angemessene Kleidung aus Respekt vor der Kirchengemeinde.",
             "hu": "Lépjen be ebbe a bájos helyi templomba, hogy megtekintse gyönyörű oltárát, és ne feledjen szerényen öltözködni az itt működő vallási közösség iránti tiszteletből.",
             "ro": "Pășiți în această biserică locală fermecătoare pentru a vedea altarul său frumos și amintiți-vă să vă îmbrăcați modest, din respect pentru comunitatea religioasă.",
-            "en": "Step inside this charming local church to view its beautiful altar, and remember to dress modestly out of respect for the active religious community here."
+            "en": "Step inside this charming local church to view its beautiful altar, and remember to dress modestly out of respect for the active religious community here.",
+            "fr": "Entrez dans cette charmante église locale pour voir son bel autel, et pensez à vous habiller modestement par respect pour la communauté religieuse active ici."
           }
         },
         {
@@ -819,7 +905,8 @@
             "de": "Église Saint-Pierre",
             "hu": "Église Saint-Pierre",
             "ro": "Église Saint-Pierre",
-            "en": "Église Saint-Pierre"
+            "en": "Église Saint-Pierre",
+            "fr": "Église Saint-Pierre"
           },
           "coords": [
             6.911054,
@@ -834,7 +921,8 @@
             "de": "Beenden Sie Ihre Reise an dieser historischen Kirche mit ihrer robusten Steinarchitektur und spazieren Sie über den umliegenden Friedhof für historische Einblicke.",
             "hu": "Zárja utazását ennél a robusztus kőépítészetéről ismert történelmi templomnál, és sétáljon egyet a csendes környező temetőben a történelmi perspektíváért.",
             "ro": "Încheiați călătoria la această biserică istorică cunoscută pentru arhitectura sa robustă din piatră și plimbați-vă prin cimitirul liniștit din împrejurimi.",
-            "en": "Conclude your journey at this historic church known for its robust stone architecture, and walk around the quiet surrounding graveyard for a historical perspective."
+            "en": "Conclude your journey at this historic church known for its robust stone architecture, and walk around the quiet surrounding graveyard for a historical perspective.",
+            "fr": "Concluez votre parcours à cette église historique connue pour sa robuste architecture en pierre, et faites le tour du cimetière calme environnant pour une perspective historique."
           }
         }
       ],
@@ -842,7 +930,8 @@
         "de": "Ihre morgendliche Fahrt beginnt am Evangelischen Tempel, bevor es zum Temple und zur Église Saint-Léger geht. Verbringen Sie den Mittag damit, im Japy-Museum tief in die industrielle Vergangenheit einzutauchen. Der Nachmittag führt Sie zu den nördlichen Sehenswürdigkeiten wie dem Temple Luthérien und der Église Saint-Valère. Beenden Sie die Tour an der Église Saint-Pierre.",
         "hu": "A reggeli autózás a Der Evangelische Tempel-nél indul, majd a Temple és az Église Saint-Léger következik. A délidőt a város ipari múltjának megismerésével töltheti a Japy-Museum-ban. A délutáni festői útvonal az északi látnivalókhoz vezet, köztük a Temple Luthérien és az Église Saint-Valère épületeihez. Zárja az átfogó túrát az Église Saint-Pierre-nél.",
         "ro": "Călătoria de dimineață începe la Der Evangelische Tempel înainte de a vă îndrepta spre Temple și Église Saint-Léger. Petreceți prânzul explorând trecutul industrial la Japy-Museum. După-amiaza vă poartă pe un traseu pitoresc prin atracțiile din nord, inclusiv Temple Luthérien și Église Saint-Valère. Încheiați turul cuprinzător la Église Saint-Pierre.",
-        "en": "Your morning drive begins at Der Evangelische Tempel before heading to the Temple and Église Saint-Léger. Spend your midday delving deeply into the town's industrial past at the expansive Japy-Museum. The afternoon takes you on a scenic route through the northern sights, including Temple Luthérien and Église Saint-Valère. Conclude your comprehensive tour at Église Saint-Pierre."
+        "en": "Your morning drive begins at Der Evangelische Tempel before heading to the Temple and Église Saint-Léger. Spend your midday delving deeply into the town's industrial past at the expansive Japy-Museum. The afternoon takes you on a scenic route through the northern sights, including Temple Luthérien and Église Saint-Valère. Conclude your comprehensive tour at Église Saint-Pierre.",
+        "fr": "Votre matinée commence au Der Evangelische Tempel avant de vous diriger vers le Temple et l'Église Saint-Léger. Passez votre milieu de journée à explorer en profondeur le passé industriel de la ville au vaste Japy-Museum. L'après-midi vous mène sur un itinéraire pittoresque à travers les sites du nord, y compris le Temple Luthérien et l'Église Saint-Valère. Concluez votre visite complète à l'Église Saint-Pierre."
       },
       "variants": {
         "rainy": {
@@ -850,7 +939,8 @@
             "de": "Die Fahrt beginnt komfortabel und trocken am Evangelischen Tempel. Mittags steuern wir das Japy-Museum an, wobei die Parkplatzsuche bei Regen oft einfacher ist. Der Nachmittag wird genutzt, um die verschiedenen Kirchen und Tempel der Region zu besuchen, während die Scheibenwischer den Rhythmus vorgeben. Der Abend endet bei nassen Straßenverhältnissen, wenn die Lichter der Stadt im Regen glitzern.",
             "hu": "Az utazás kényelmesen és szárazon indul az Evangelische Tempel-nél. Délben a Japy-múzeum felé vesszük az irányt, ahol esőben gyakran könnyebb a parkolás. A délutánt a környék különböző templomainak és templomainak meglátogatására használjuk, miközben az ablaktörlők adják a ritmust. Az este vizes útviszonyok között zárul, amikor a város fényei megcsillannak az esőben.",
             "ro": "Călătoria începe confortabil la Templul Evanghelic. La prânz ne îndreptăm spre Muzeul Japy, unde parcarea este adesea mai ușoară pe ploaie. După-amiaza este dedicată vizitării diverselor biserici din regiune, în timp ce ștergătoarele dau ritmul drumului. Seara se încheie cu drumuri umede, când luminile orașului strălucesc în ploaie.",
-            "en": "The journey starts comfortably and dry at the Evangelical Temple. At noon, we head for the Japy Museum, where parking is often easier in the rain. The afternoon is spent visiting the various churches and temples of the region, while the wipers set the rhythm. The evening ends with wet road conditions as the city lights shimmer in the rain."
+            "en": "The journey starts comfortably and dry at the Evangelical Temple. At noon, we head for the Japy Museum, where parking is often easier in the rain. The afternoon is spent visiting the various churches and temples of the region, while the wipers set the rhythm. The evening ends with wet road conditions as the city lights shimmer in the rain.",
+            "fr": "Le trajet démarre confortablement et à l'abri au Evangelical Temple. À midi, nous nous rendons au Japy Museum, où le stationnement est souvent plus facile sous la pluie. L'après-midi est consacré à la visite des différentes églises et temples de la région, tandis que les essuie-glaces donnent le tempo. La soirée se termine sur des routes mouillées alors que les lumières de la ville scintillent sous la pluie."
           },
           "stops": [
             {
@@ -858,13 +948,15 @@
                 "de": "Der Evangelische Tempel",
                 "hu": "Der Evangelische Tempel",
                 "ro": "Der Evangelische Tempel",
-                "en": "Der Evangelische Tempel"
+                "en": "Der Evangelische Tempel",
+                "fr": "Der Evangelische Tempel"
               },
               "tip_5lang": {
                 "de": "Beginnen Sie entspannt im Trockenen; prüfen Sie Ihre Scheibenwischerblätter, um bei der Fahrt zwischen den Orten eine klare Sicht zu behalten.",
                 "hu": "Kezdje pihentetően a látogatást a szárazon; ellenőrizze az ablaktörlőket, hogy tiszta kilátása legyen a helyszínek közötti vezetés során.",
                 "ro": "Începeți vizita relaxat, la adăpost; verificați lamelele ștergătoarelor pentru a avea o vizibilitate clară în timpul condusului între obiective.",
-                "en": "Start your visit in a relaxed way in the dry; check your wiper blades to ensure clear visibility while driving between the various locations."
+                "en": "Start your visit in a relaxed way in the dry; check your wiper blades to ensure clear visibility while driving between the various locations.",
+                "fr": "Commencez votre visite calmement et à l'abri ; vérifiez vos balais d'essuie-glace pour garantir une bonne visibilité lors des déplacements entre les différents sites."
               }
             },
             {
@@ -872,13 +964,15 @@
                 "de": "Temple",
                 "hu": "Temple",
                 "ro": "Temple",
-                "en": "Temple"
+                "en": "Temple",
+                "fr": "Temple"
               },
               "tip_5lang": {
                 "de": "Ein kurzer Stopp in schlichter Umgebung; lassen Sie den Schirm im Auto, wenn Sie nah am Eingang parken können, um nicht nass zu werden.",
                 "hu": "Rövid megálló letisztult környezetben; hagyja az esernyőt az autóban, ha sikerül a bejárat közelében parkolnia, így nem lesz vizes a ruhája.",
                 "ro": "O scurtă oprire într-un cadru simplu; lăsați umbrela în mașină dacă puteți parca aproape de intrare, pentru a evita să vă udați hainele.",
-                "en": "A short stop in simple surroundings; leave your umbrella in the car if you can park close to the entrance to avoid getting your clothes wet."
+                "en": "A short stop in simple surroundings; leave your umbrella in the car if you can park close to the entrance to avoid getting your clothes wet.",
+                "fr": "Un court arrêt dans un cadre simple ; laissez votre parapluie dans la voiture si vous pouvez vous garer près de l'entrée pour éviter d'imbiber vos vêtements."
               }
             },
             {
@@ -886,13 +980,15 @@
                 "de": "Église Saint-Léger",
                 "hu": "Église Saint-Léger",
                 "ro": "Église Saint-Léger",
-                "en": "Église Saint-Léger"
+                "en": "Église Saint-Léger",
+                "fr": "Église Saint-Léger"
               },
               "tip_5lang": {
                 "de": "Genießen Sie die Ruhe in der Kirche; achten Sie bei der Anfahrt auf Aquaplaning-Gefahr in tiefergelegenen Straßenabschnitten von Beaucourt.",
                 "hu": "Élvezze a templom nyugalmát; az odaúton ügyeljen a vízátfolyásokra és az aquaplaning veszélyére Beaucourt alacsonyabban fekvő útjain.",
                 "ro": "Bucurați-vă de liniștea bisericii; la drum, atenție la riscul de acvaplanare pe secțiunile de drum mai joase din Beaucourt după ploaie.",
-                "en": "Enjoy the peace in the church; watch out for aquaplaning risks on lower-lying road sections in Beaucourt during the drive between stops."
+                "en": "Enjoy the peace in the church; watch out for aquaplaning risks on lower-lying road sections in Beaucourt during the drive between stops.",
+                "fr": "Profitez du calme dans l'église ; attention aux risques d'aquaplaning sur les sections de route basses à Beaucourt lors des déplacements entre les arrêts."
               }
             },
             {
@@ -900,13 +996,15 @@
                 "de": "Japy-Museum",
                 "hu": "Japy-Museum",
                 "ro": "Japy-Museum",
-                "en": "Japy-Museum"
+                "en": "Japy-Museum",
+                "fr": "Japy-Museum"
               },
               "tip_5lang": {
                 "de": "Die perfekte Indoor-Aktivität für Regentage; nutzen Sie die Parkplätze direkt am Gebäude, um den Weg im Regen so kurz wie möglich zu halten.",
                 "hu": "Tökéletes beltéri program esős napokra; használja a közvetlenül az épület melletti parkolót, hogy minél kevesebbet kelljen az esőben gyalogolnia.",
                 "ro": "Activitatea perfectă de interior pentru zilele ploioase; folosiți parcarea de lângă clădire pentru a scurta la minimum drumul prin ploaie.",
-                "en": "The perfect indoor activity for rainy days; use the parking directly next to the building to keep the walk in the rain as short as possible."
+                "en": "The perfect indoor activity for rainy days; use the parking directly next to the building to keep the walk in the rain as short as possible.",
+                "fr": "L'activité idéale en intérieur pour les jours de pluie ; utilisez le parking juste à côté du bâtiment pour réduire au minimum la marche sous la pluie."
               }
             },
             {
@@ -914,13 +1012,15 @@
                 "de": "Kirche Saint-François-de-Sales",
                 "hu": "Kirche Saint-François-de-Sales",
                 "ro": "Kirche Saint-François-de-Sales",
-                "en": "Kirche Saint-François-de-Sales"
+                "en": "Kirche Saint-François-de-Sales",
+                "fr": "Kirche Saint-François-de-Sales"
               },
               "tip_5lang": {
                 "de": "Ein spiritueller Ort mit beeindruckender Akustik; schalten Sie das Abblendlicht ein, um bei starkem Regen von anderen Fahrern besser gesehen zu werden.",
                 "hu": "Spirituális hely lenyűgöző akusztikával; kapcsolja be a tompított fényszórót, hogy heves esőben is jobban látható legyen a többi autós számára.",
                 "ro": "Un loc spiritual cu o acustică impresionantă; aprindeți luminile de întâlnire pentru a fi mai vizibil pentru ceilalți șoferi în timpul ploii.",
-                "en": "A spiritual place with impressive acoustics; turn on your dipped headlights to be better seen by other drivers during the heavy rain shower."
+                "en": "A spiritual place with impressive acoustics; turn on your dipped headlights to be better seen by other drivers during the heavy rain shower.",
+                "fr": "Un lieu spirituel à l'acoustique impressionnante ; allumez vos feux de croisement pour être mieux vu des autres conducteurs pendant l'averse."
               }
             },
             {
@@ -928,13 +1028,15 @@
                 "de": "Temple Luthérien",
                 "hu": "Temple Luthérien",
                 "ro": "Temple Luthérien",
-                "en": "Temple Luthérien"
+                "en": "Temple Luthérien",
+                "fr": "Temple Luthérien"
               },
               "tip_5lang": {
                 "de": "Besuchen Sie dieses architektonische Kleinod; stellen Sie die Lüftung im Auto hoch, um das Beschlagen der Scheiben durch nasse Kleidung zu verhindern.",
                 "hu": "Látogassa meg ezt az építészeti gyöngyszemet; állítsa magasabbra az autó szellőzését, hogy megakadályozza a szélvédő párásodását a vizes ruhák miatt.",
                 "ro": "Vizitați această bijuterie arhitecturală; măriți ventilația în mașină pentru a preveni aburirea geamurilor cauzată de hainele umede ale pasagerilor.",
-                "en": "Visit this architectural gem; turn up the ventilation in your car to prevent the windows from fogging up due to wet clothing from the rain."
+                "en": "Visit this architectural gem; turn up the ventilation in your car to prevent the windows from fogging up due to wet clothing from the rain.",
+                "fr": "Visitez ce joyau architectural ; augmentez la ventilation dans votre voiture pour éviter que les vitres ne s'embuent à cause des vêtements mouillés."
               }
             },
             {
@@ -942,13 +1044,15 @@
                 "de": "Église Saint-Valère",
                 "hu": "Église Saint-Valère",
                 "ro": "Église Saint-Valère",
-                "en": "Église Saint-Valère"
+                "en": "Église Saint-Valère",
+                "fr": "Église Saint-Valère"
               },
               "tip_5lang": {
                 "de": "Ein friedlicher Halt auf Ihrer Route; parken Sie vorsichtig, da Fahrbahnmarkierungen bei Nässe extrem rutschig für Fußgänger sein können.",
                 "hu": "Békés állomás az útvonalon; parkoljon óvatosan, mivel az útburkolati jelek vizesen rendkívül csúszósak lehetnek a gyalogosok számára.",
                 "ro": "O oprire pașnică pe traseul dvs.; parcați cu atenție, deoarece marcajele rutiere umede pot fi extrem de alunecoase pentru pietonii care coboară.",
-                "en": "A peaceful stop on your route; park carefully as road markings can be extremely slippery for pedestrians when wet outside the car."
+                "en": "A peaceful stop on your route; park carefully as road markings can be extremely slippery for pedestrians when wet outside the car.",
+                "fr": "Un arrêt paisible sur votre itinéraire ; garez-vous prudemment car les marquages au sol peuvent être extrêmement glissants pour les piétons lorsque l'extérieur est mouillé."
               }
             },
             {
@@ -956,13 +1060,15 @@
                 "de": "Église Saint-Pierre",
                 "hu": "Église Saint-Pierre",
                 "ro": "Église Saint-Pierre",
-                "en": "Église Saint-Pierre"
+                "en": "Église Saint-Pierre",
+                "fr": "Église Saint-Pierre"
               },
               "tip_5lang": {
                 "de": "Schließen Sie die Tour andächtig ab; ein kurzes Stoßlüften im Auto vor der Heimfahrt hilft, die Feuchtigkeit aus dem Innenraum zu bekommen.",
                 "hu": "Zárja áhítatosan a túrát; egy rövid szellőztetés az autóban a hazaindulás előtt segít eltávolítani a nedvességet az utastérből.",
                 "ro": "Încheiați turul într-o notă solemnă; o scurtă aerisire a mașinii înainte de plecare ajută la eliminarea umidității din interiorul vehiculului.",
-                "en": "Conclude the tour solemnly; a short airing of the car before heading home will help remove moisture from the interior after the rainy day."
+                "en": "Conclude the tour solemnly; a short airing of the car before heading home will help remove moisture from the interior after the rainy day.",
+                "fr": "Concluez la visite avec solennité ; aérez brièvement la voiture avant de rentrer pour aider à dissiper l'humidité à l'intérieur après la journée pluvieuse."
               }
             }
           ]
@@ -972,7 +1078,8 @@
             "de": "Die winterliche Autofahrt startet bei frostigen Temperaturen am Evangelischen Tempel. Mittags genießen wir die wohlige Wärme im Fahrzeug zwischen den Stopps im Parc des Cèdres und dem Japy-Museum. Die Kirchenbesuche am Nachmittag bieten spirituelle Tiefe, bevor die Dunkelheit früh einsetzt. Der Abend endet bei beleuchteten Fassaden, wenn der Frost die Landschaft von Beaucourt überzieht.",
             "hu": "A téli autós túra fagyos hőmérsékletben indul az Evangelische Tempel-nél. Délben élvezzük a jármű kellemes melegét a Parc des Cèdres és a Japy-múzeum közötti megállók során. A délutáni templomlátogatások spirituális mélységet kínálnak, mielőtt korán leszállna a sötétség. Az este kivilágított homlokzatokkal zárul, miközben a fagy beborítja Beaucourt táját.",
             "ro": "Călătoria de iarnă cu mașina începe la temperaturi scăzute la Templul Evanghelic. La prânz, ne bucurăm de căldura din vehicul între opririle de la Parc des Cèdres și Muzeul Japy. Vizitele la biserici oferă profunzime spirituală înainte de lăsarea serii. Seara se încheie cu fațade iluminate, în timp ce gerul acoperă peisajul.",
-            "en": "The winter car tour starts in freezing temperatures at the Evangelical Temple. At noon, we enjoy the cozy warmth in the vehicle between stops at Parc des Cèdres and the Japy Museum. Afternoon church visits offer spiritual depth before darkness sets in early. The evening ends with illuminated facades as frost covers the landscape."
+            "en": "The winter car tour starts in freezing temperatures at the Evangelical Temple. At noon, we enjoy the cozy warmth in the vehicle between stops at Parc des Cèdres and the Japy Museum. Afternoon church visits offer spiritual depth before darkness sets in early. The evening ends with illuminated facades as frost covers the landscape.",
+            "fr": "La randonnée automobile hivernale commence par des températures glaciales au Evangelical Temple. À midi, nous profitons de la chaleur confortable du véhicule entre les arrêts au Parc des Cèdres et au Japy Museum. Les visites d'églises de l'après-midi offrent une profondeur spirituelle avant que l'obscurité n'arrive tôt. La soirée se termine avec des façades illuminées tandis que le givre recouvre le paysage."
           },
           "stops": [
             {
@@ -980,13 +1087,15 @@
                 "de": "Der Evangelische Tempel",
                 "hu": "Der Evangelische Tempel",
                 "ro": "Der Evangelische Tempel",
-                "en": "Der Evangelische Tempel"
+                "en": "Der Evangelische Tempel",
+                "fr": "Der Evangelische Tempel"
               },
               "tip_5lang": {
                 "de": "Starten Sie Ihre Tour in aller Ruhe; lassen Sie den Motor nicht unnötig im Stand warmlaufen, sondern nutzen Sie die Sitzheizung für schnellen Komfort.",
                 "hu": "Kezdje a túrát nyugodtan; ne járassa feleslegesen álló helyzetben a motort, használja inkább az ülésfűtést a gyors komfortérzet eléréséhez.",
                 "ro": "Începeți turul cu calm; nu lăsați motorul să se încălzească inutil pe loc, folosiți mai degrabă încălzirea în scaune pentru un confort rapid.",
-                "en": "Start your tour calmly; do not let the engine idle unnecessarily to warm up, use the seat heating instead for quick comfort in the morning chill."
+                "en": "Start your tour calmly; do not let the engine idle unnecessarily to warm up, use the seat heating instead for quick comfort in the morning chill.",
+                "fr": "Commencez votre visite calmement ; ne laissez pas le moteur tourner inutilement pour chauffer, utilisez plutôt le siège chauffant pour un confort rapide dans la fraîcheur matinale."
               }
             },
             {
@@ -994,13 +1103,15 @@
                 "de": "Temple",
                 "hu": "Temple",
                 "ro": "Temple",
-                "en": "Temple"
+                "en": "Temple",
+                "fr": "Temple"
               },
               "tip_5lang": {
                 "de": "Die klare Winterluft macht die Architektur besonders fotogen; achten Sie beim Parken auf gefrorene Pfützen, die auf dem Parkplatz rutschig sein können.",
                 "hu": "A tiszta téli levegő különösen fotogénné teszi az építészetet; parkoláskor ügyeljen a fagyott tócsákra, amelyek csúszósak lehetnek a parkolóban.",
                 "ro": "Aerul clar de iarnă face arhitectura foarte fotogenică; la parcare, atenție la bălțile înghețate care pot fi alunecoase în zona de staționare.",
-                "en": "The clear winter air makes the architecture particularly photogenic; watch out for frozen puddles when parking, as they can be slippery in the lot."
+                "en": "The clear winter air makes the architecture particularly photogenic; watch out for frozen puddles when parking, as they can be slippery in the lot.",
+                "fr": "L'air clair d'hiver rend l'architecture particulièrement photogénique ; méfiez-vous des flaques gelées au stationnement, car elles peuvent être glissantes sur le terrain."
               }
             },
             {
@@ -1008,13 +1119,15 @@
                 "de": "Église Saint-Léger",
                 "hu": "Église Saint-Léger",
                 "ro": "Église Saint-Léger",
-                "en": "Église Saint-Léger"
+                "en": "Église Saint-Léger",
+                "fr": "Église Saint-Léger"
               },
               "tip_5lang": {
                 "de": "Ein besinnlicher Ort, um dem kalten Wind zu entfliehen; prüfen Sie den Reifendruck, da dieser bei sinkenden Temperaturen im Winter oft abfällt.",
                 "hu": "Meghitt hely, ahol elmenekülhet a hideg szél elől; ellenőrizze a gumiabroncsok nyomását, mivel az a süllyedő téli hőmérsékletben gyakran csökken.",
                 "ro": "Un loc intim unde puteți scăpa de vântul rece; verificați presiunea în anvelope, deoarece aceasta scade adesea odată cu temperaturile de iarnă.",
-                "en": "A peaceful place to escape the cold wind; check your tire pressure, as it often drops with the falling winter temperatures during your travels."
+                "en": "A peaceful place to escape the cold wind; check your tire pressure, as it often drops with the falling winter temperatures during your travels.",
+                "fr": "Un lieu paisible pour échapper au vent froid ; vérifiez la pression de vos pneus, car elle baisse souvent avec la chute des températures hivernales pendant vos déplacements."
               }
             },
             {
@@ -1022,13 +1135,15 @@
                 "de": "Japy-Museum",
                 "hu": "Japy-Museum",
                 "ro": "Japy-Museum",
-                "en": "Japy-Museum"
+                "en": "Japy-Museum",
+                "fr": "Japy-Museum"
               },
               "tip_5lang": {
                 "de": "Genießen Sie die Wärme der Ausstellungsräume; nutzen Sie die Zeit, um das Auto komplett von Schnee oder Reif zu befreien, bevor Sie weiterfahren.",
                 "hu": "Élvezze a kiállítótermek melegét; használja ki az időt az autó teljes jégmentesítésére, mielőtt folytatná az utat a következő helyszínre.",
                 "ro": "Bucurați-vă de căldura sălilor de expoziție; folosiți timpul pentru a curăța complet mașina de gheață sau zăpadă înainte de a pleca mai departe.",
-                "en": "Enjoy the warmth of the exhibition rooms; use the time to completely clear your car of ice or frost before continuing to the next location."
+                "en": "Enjoy the warmth of the exhibition rooms; use the time to completely clear your car of ice or frost before continuing to the next location.",
+                "fr": "Profitez de la chaleur des salles d'exposition ; profitez-en pour dégivrer complètement votre voiture avant de repartir vers le lieu suivant."
               }
             },
             {
@@ -1036,13 +1151,15 @@
                 "de": "Kirche Saint-François-de-Sales",
                 "hu": "Kirche Saint-François-de-Sales",
                 "ro": "Kirche Saint-François-de-Sales",
-                "en": "Kirche Saint-François-de-Sales"
+                "en": "Kirche Saint-François-de-Sales",
+                "fr": "Kirche Saint-François-de-Sales"
               },
               "tip_5lang": {
                 "de": "Bewundern Sie die Stille dieses Ortes; stellen Sie sicher, dass Ihr Wischwasser genügend Frostschutz enthält, um bei der Fahrt freie Sicht zu haben.",
                 "hu": "Csodálja meg a hely csendjét; győződjön meg róla, hogy a szélvédőmosó folyadék elegendő fagyállót tartalmaz a biztonságos kilátás érdekében.",
                 "ro": "Admirați liniștea acestui loc; asigurați-vă că lichidul de parbriz conține suficient antigel pentru a avea o vizibilitate bună în timpul drumului.",
-                "en": "Admire the silence of this place; make sure your windshield washer fluid contains enough antifreeze to ensure a clear view while driving."
+                "en": "Admire the silence of this place; make sure your windshield washer fluid contains enough antifreeze to ensure a clear view while driving.",
+                "fr": "Admirez le silence de ce lieu ; assurez-vous que le liquide lave-glace contient suffisamment d'antigel pour garantir une visibilité claire en conduisant."
               }
             },
             {
@@ -1050,13 +1167,15 @@
                 "de": "Temple Luthérien",
                 "hu": "Temple Luthérien",
                 "ro": "Temple Luthérien",
-                "en": "Temple Luthérien"
+                "en": "Temple Luthérien",
+                "fr": "Temple Luthérien"
               },
               "tip_5lang": {
                 "de": "Ein schöner Stopp in der winterlichen Landschaft; achten Sie auf den Straßen auf Streusalzreste, die die Sicht durch den Scheinwerfer dämpfen können.",
                 "hu": "Szép megálló a téli tájban; ügyeljen az utakon az útszóró só maradványaira, amelyek bevonhatják a fényszórókat, csökkentve a látótávolságot.",
                 "ro": "O oprire frumoasă în peisajul de iarnă; atenție la reziduurile de sare de pe drum, care pot murdări farurile, reducând vizibilitatea pe timp de seară.",
-                "en": "A beautiful stop in the winter landscape; watch out for road salt residues on the roads, which can dim visibility by coating your headlights."
+                "en": "A beautiful stop in the winter landscape; watch out for road salt residues on the roads, which can dim visibility by coating your headlights.",
+                "fr": "Un bel arrêt dans le paysage hivernal ; attention aux résidus d'épandage de sel sur les routes, qui peuvent ternir la visibilité en encrassant vos phares."
               }
             },
             {
@@ -1064,13 +1183,15 @@
                 "de": "Église Saint-Valère",
                 "hu": "Église Saint-Valère",
                 "ro": "Église Saint-Valère",
-                "en": "Église Saint-Valère"
+                "en": "Église Saint-Valère",
+                "fr": "Église Saint-Valère"
               },
               "tip_5lang": {
                 "de": "Besuchen Sie diesen friedlichen Ort kurz vor Einbruch der Dunkelheit; achten Sie auf eisige Stellen auf den Gehwegen direkt vor dem Kircheneingang.",
                 "hu": "Látogassa meg ezt a békés helyet közvetlenül sötétedés előtt; ügyeljen a jeges foltokra a járdán, közvetlenül a templom bejárata előtti részen.",
                 "ro": "Vizitați acest loc pașnic chiar înainte de lăsarea întunericului; atenție la porțiunile înghețate de pe trotuar, chiar în fața intrării în biserică.",
-                "en": "Visit this peaceful place just before dark; watch out for icy patches on the sidewalks directly in front of the church entrance when getting out."
+                "en": "Visit this peaceful place just before dark; watch out for icy patches on the sidewalks directly in front of the church entrance when getting out.",
+                "fr": "Visitez cet endroit paisible juste avant la tombée de la nuit ; attention aux plaques de verglas sur les trottoirs devant l’entrée de l’église en sortant."
               }
             },
             {
@@ -1078,13 +1199,15 @@
                 "de": "Église Saint-Pierre",
                 "hu": "Église Saint-Pierre",
                 "ro": "Église Saint-Pierre",
-                "en": "Église Saint-Pierre"
+                "en": "Église Saint-Pierre",
+                "fr": "Église Saint-Pierre"
               },
               "tip_5lang": {
                 "de": "Ein würdiger Abschluss bei winterlicher Beleuchtung; checken Sie vor der Rückfahrt die Funktion aller Lichter, da es nun bereits komplett dunkel ist.",
                 "hu": "Méltó befejezés téli díszkivilágításban; a hazaindulás előtt ellenőrizze a fényszórók működését, mivel mostanra már teljesen besötétedett odakint.",
                 "ro": "Un final binemeritat sub iluminatul de iarnă; înainte de plecare, verificați funcționarea luminilor, deoarece afară este deja complet întuneric.",
-                "en": "A worthy conclusion under winter lighting; check the function of all lights before heading home, as it is already completely dark outside."
+                "en": "A worthy conclusion under winter lighting; check the function of all lights before heading home, as it is already completely dark outside.",
+                "fr": "Une conclusion digne sous l’éclairage hivernal ; vérifiez le fonctionnement de toutes les lumières avant de rentrer, car il fait déjà complètement nuit dehors."
               }
             }
           ]

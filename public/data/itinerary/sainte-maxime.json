@@ -21,7 +21,8 @@
             "de": "Port de Sainte-Maxime",
             "hu": "Sainte-Maxime kikötője",
             "ro": "Portul Sainte-Maxime",
-            "en": "Port of Sainte-Maxime"
+            "en": "Port of Sainte-Maxime",
+            "fr": "Port of Sainte-Maxime"
           },
           "coords": [
             6.641,
@@ -37,7 +38,7 @@
             "hu": "Halászhajók megfigyelése.",
             "ro": "Observați bărcile.",
             "en": "Watch the boats.",
-            "fr": "Observez les bateaux."
+            "fr": "Surveillez les bateaux."
           }
         },
         {
@@ -45,7 +46,8 @@
             "de": "Tour Carrée",
             "hu": "Tour Carrée",
             "ro": "Tour Carrée",
-            "en": "Tour Carrée"
+            "en": "Tour Carrée",
+            "fr": "Tour Carrée"
           },
           "coords": [
             6.6395,
@@ -69,7 +71,8 @@
             "de": "Église Sainte-Maxime",
             "hu": "Szent Maxime templom",
             "ro": "Biserica Sainte-Maxime",
-            "en": "Sainte-Maxime Church"
+            "en": "Sainte-Maxime Church",
+            "fr": "Sainte-Maxime Church"
           },
           "coords": [
             6.6375,
@@ -93,7 +96,8 @@
             "de": "Marché Couvert",
             "hu": "Fedett piac",
             "ro": "Piața acoperită",
-            "en": "Marché Couvert"
+            "en": "Marché Couvert",
+            "fr": "Marché Couvert"
           },
           "coords": [
             6.6365,
@@ -109,7 +113,7 @@
             "hu": "Friss finomságok.",
             "ro": "Delicii proaspete.",
             "en": "Fresh delicacies.",
-            "fr": "Délices frais."
+            "fr": "Produits frais."
           }
         },
         {
@@ -117,7 +121,8 @@
             "de": "Promenade Simon Lorière",
             "hu": "Promenade Simon Lorière",
             "ro": "Promenade Simon Lorière",
-            "en": "Promenade Simon Lorière"
+            "en": "Promenade Simon Lorière",
+            "fr": "Promenade Simon Lorière"
           },
           "coords": [
             6.6435,
@@ -133,7 +138,7 @@
             "hu": "Kilátás St-Tropez-ra.",
             "ro": "Vedere spre St-Tropez.",
             "en": "View of St-Tropez.",
-            "fr": "Vue sur St-Tropez."
+            "fr": "Vue sur Saint-Tropez."
           }
         },
         {
@@ -141,7 +146,8 @@
             "de": "Jardin Botanique des Myrtes",
             "hu": "Myrtes botanikus kert",
             "ro": "Grădina Botanică des Myrtes",
-            "en": "Jardin Botanique des Myrtes"
+            "en": "Jardin Botanique des Myrtes",
+            "fr": "Jardin Botanique des Myrtes"
           },
           "coords": [
             6.655,
@@ -166,7 +172,7 @@
         "hu": "Fedezze fel Sainte-Maxime-ot gyalog. Kezdje a kikötőnél, és nézze meg a Tour Carrée toronyt. A templom után irány a piac. Délben sétáljon a sétányon, élvezve a kilátást Saint-Tropez-ra, majd zárja a napot a Jardin des Myrtes kertben.",
         "ro": "Experimentați Sainte-Maxime pe jos. Începeți în port și vizitați Tour Carrée. După biserică, explorați piața acoperită. La prânz, plimbați-vă pe faleză cu vedere spre Saint-Tropez, apoi încheiați ziua în grădină botanică Jardin des Myrtes.",
         "en": "Experience Sainte-Maxime on foot. Start at the harbor and visit the Tour Carrée. After the church, explore the Marché Couvert. At midday, stroll along the promenade with a view of Saint-Tropez, before ending your day in the Jardin des Myrtes botanical garden.",
-        "fr": "Découvrez Sainte-Maxime à pied. Commencez par le port et visitez la Tour Carrée. Après l'église, explorez le Marché Couvert. À midi, flânez sur la promenade avec vue sur Saint-Tropez, avant de terminer votre journée au Jardin des Myrtes."
+        "fr": "Découvrez Sainte-Maxime à pied. Commencez au port et visitez la Tour Carrée. Après l'église, explorez le Marché Couvert. À midi, promenez-vous le long de la promenade avec vue sur Saint-Tropez, puis terminez la journée au Jardin des Myrtes."
       },
       "gastro_picks": {
         "de": [
@@ -305,7 +311,8 @@
             "de": "Port de Sainte-Maxime",
             "hu": "Sainte-Maxime kikötője",
             "ro": "Portul Sainte-Maxime",
-            "en": "Port of Sainte-Maxime"
+            "en": "Port of Sainte-Maxime",
+            "fr": "Port of Sainte-Maxime"
           },
           "coords": [
             6.641,
@@ -329,7 +336,8 @@
             "de": "Promenade Simon Lorière",
             "hu": "Promenade Simon Lorière",
             "ro": "Promenade Simon Lorière",
-            "en": "Promenade Simon Lorière"
+            "en": "Promenade Simon Lorière",
+            "fr": "Promenade Simon Lorière"
           },
           "coords": [
             6.6435,
@@ -353,7 +361,8 @@
             "de": "Jardin Botanique des Myrtes",
             "hu": "Myrtes botanikus kert",
             "ro": "Grădina Botanică des Myrtes",
-            "en": "Jardin Botanique des Myrtes"
+            "en": "Jardin Botanique des Myrtes",
+            "fr": "Jardin Botanique des Myrtes"
           },
           "coords": [
             6.655,
@@ -377,7 +386,8 @@
             "de": "Plage de la Nartelle",
             "hu": "La Nartelle strand",
             "ro": "Plaja La Nartelle",
-            "en": "La Nartelle Beach"
+            "en": "La Nartelle Beach",
+            "fr": "Plage de La Nartelle"
           },
           "coords": [
             6.675,
@@ -401,7 +411,8 @@
             "de": "Tour Carrée",
             "hu": "Tour Carrée",
             "ro": "Tour Carrée",
-            "en": "Tour Carrée"
+            "en": "Tour Carrée",
+            "fr": "Tour Carrée"
           },
           "coords": [
             6.6395,
@@ -417,7 +428,7 @@
             "hu": "Utolsó állomás.",
             "ro": "Ultima oprire.",
             "en": "Last stop.",
-            "fr": "Dernière étape."
+            "fr": "Dernier arrêt."
           }
         }
       ],
@@ -426,7 +437,7 @@
         "hu": "Fedezze fel Sainte-Maxime-ot biciklivel. Tekerjen a kikötőből a sétányon át a Jardin des Myrtes kertig. Folytassa az utat a La Nartelle strandig, majd visszafelé álljon meg a Tour Carrée toronynál.",
         "ro": "Descoperiți Sainte-Maxime cu bicicleta. Pedalați din port pe faleză până la Jardin des Myrtes. Continuați spre plaja La Nartelle, iar la întoarcere opriți-vă la Tour Carrée.",
         "en": "Discover Sainte-Maxime by bike. Ride from the harbor along the promenade to Jardin des Myrtes. Continue to the magnificent La Nartelle beach, and on the way back, stop at Tour Carrée.",
-        "fr": "Découvrez Sainte-Maxime à vélo. Roulez du port le long de la promenade jusqu'au Jardin des Myrtes. Continuez vers la magnifique plage de la Nartelle, et au retour, arrêtez-vous à la Tour Carrée."
+        "fr": "Découvrez Sainte-Maxime à vélo. Parcourez le port le long de la promenade jusqu'au Jardin des Myrtes. Continuez jusqu'à la magnifique plage de La Nartelle, et au retour, arrêtez-vous à la Tour Carrée."
       },
       "gastro_picks": {
         "de": [
@@ -547,7 +558,7 @@
           "Avoid the main road."
         ],
         "fr": [
-          "Suivez les sentiers côtiers.",
+          "Utilisez les chemins côtiers.",
           "Évitez la route principale."
         ]
       }
@@ -565,7 +576,8 @@
             "de": "Tour Carrée",
             "hu": "Tour Carrée",
             "ro": "Tour Carrée",
-            "en": "Tour Carrée"
+            "en": "Tour Carrée",
+            "fr": "Tour Carrée"
           },
           "coords": [
             6.6395,
@@ -589,7 +601,8 @@
             "de": "Plage de la Nartelle",
             "hu": "La Nartelle strand",
             "ro": "Plaja La Nartelle",
-            "en": "La Nartelle Beach"
+            "en": "La Nartelle Beach",
+            "fr": "Plage de La Nartelle"
           },
           "coords": [
             6.675,
@@ -613,7 +626,8 @@
             "de": "Beauvallon",
             "hu": "Beauvallon",
             "ro": "Beauvallon",
-            "en": "Beauvallon"
+            "en": "Beauvallon",
+            "fr": "Beauvallon"
           },
           "coords": [
             6.61,
@@ -629,7 +643,7 @@
             "hu": "Szép kilátás.",
             "ro": "Vedere frumoasă.",
             "en": "Beautiful view.",
-            "fr": "Vue magnifique."
+            "fr": "Beau panorama."
           }
         },
         {
@@ -637,7 +651,8 @@
             "de": "Port Grimaud",
             "hu": "Port Grimaud",
             "ro": "Port Grimaud",
-            "en": "Port Grimaud"
+            "en": "Port Grimaud",
+            "fr": "Port Grimaud"
           },
           "coords": [
             6.58,
@@ -653,7 +668,7 @@
             "hu": "Provence Velencéje.",
             "ro": "Veneția Provence-ului.",
             "en": "Venice of Provence.",
-            "fr": "La Venise de Provence."
+            "fr": "Venise de Provence."
           }
         },
         {
@@ -661,7 +676,8 @@
             "de": "Port de Sainte-Maxime",
             "hu": "Sainte-Maxime kikötője",
             "ro": "Portul Sainte-Maxime",
-            "en": "Port of Sainte-Maxime"
+            "en": "Port of Sainte-Maxime",
+            "fr": "Port de Sainte-Maxime"
           },
           "coords": [
             6.641,
@@ -686,7 +702,7 @@
         "hu": "Fedezze fel Sainte-Maxime-ot és környékét autóval. Kezdje a Tour Carrée toronynál, majd irány a La Nartelle strand. Beauvallon szép kilátást nyújt, mielőtt Port Grimaud-ba látogatna. A napot a kikötőben zárja.",
         "ro": "Explorați Sainte-Maxime și împrejurimile cu mașina. Începeți la Tour Carrée spre plaja La Nartelle. O oprire la Beauvallon oferă priveliști, apoi vizitați Port Grimaud. Încheiați ziua în portul Sainte-Maxime.",
         "en": "Explore Sainte-Maxime and surroundings by car. Start at Tour Carrée and drive to La Nartelle beach. A detour to Beauvallon offers views before visiting picturesque Port Grimaud. End your day at the harbor.",
-        "fr": "Explorez Sainte-Maxime et ses environs en voiture. Commencez par la Tour Carrée et conduisez jusqu'à la plage de la Nartelle. Un détour par les collines de Beauvallon offre de superbes vues avant de visiter le pittoresque Port Grimaud. Terminez votre journée au port."
+        "fr": "Explorez Sainte-Maxime et ses environs en voiture. Commencez à la Tour Carrée et conduisez jusqu'à la plage de La Nartelle. Un détour par Beauvallon offre des vues avant de visiter le pittoresque Port Grimaud. Terminez la journée au port."
       },
       "gastro_picks": {
         "de": [
@@ -825,7 +841,8 @@
             "de": "Port de Sainte-Maxime",
             "hu": "Sainte-Maxime kikötője",
             "ro": "Portul Sainte-Maxime",
-            "en": "Port of Sainte-Maxime"
+            "en": "Port of Sainte-Maxime",
+            "fr": "Port de Sainte-Maxime"
           },
           "coords": [
             6.641,
@@ -849,7 +866,8 @@
             "de": "Marché Couvert",
             "hu": "Fedett piac",
             "ro": "Piața acoperită",
-            "en": "Marché Couvert"
+            "en": "Marché Couvert",
+            "fr": "Marché Couvert"
           },
           "coords": [
             6.6365,
@@ -873,7 +891,8 @@
             "de": "Plage de la Nartelle",
             "hu": "La Nartelle strand",
             "ro": "Plaja La Nartelle",
-            "en": "La Nartelle Beach"
+            "en": "La Nartelle Beach",
+            "fr": "Plage de La Nartelle"
           },
           "coords": [
             6.675,
@@ -897,7 +916,8 @@
             "de": "Promenade Simon Lorière",
             "hu": "Promenade Simon Lorière",
             "ro": "Promenade Simon Lorière",
-            "en": "Promenade Simon Lorière"
+            "en": "Promenade Simon Lorière",
+            "fr": "Promenade Simon Lorière"
           },
           "coords": [
             6.6435,
@@ -921,7 +941,8 @@
             "de": "Musée du Phonographe",
             "hu": "Fonográf Múzeum",
             "ro": "Muzeul Fonografului",
-            "en": "Museum of the Phonograph"
+            "en": "Museum of the Phonograph",
+            "fr": "Musée du Phonographe"
           },
           "coords": [
             6.65,
@@ -946,7 +967,7 @@
         "hu": "Fedezze fel Sainte-Maxime-ot tömegközlekedéssel. Induljon a kikötőből a piacra. Az ingajárat elviszi a La Nartelle strandra, délután pedig sétáljon a sétányon és látogassa meg a Fonográf Múzeumot.",
         "ro": "Descoperiți Sainte-Maxime cu transportul public. Mergeți din port la piață. Autobuzul de transfer vă duce la plaja La Nartelle, apoi plimbați-vă pe faleză și vizitați Muzeul Fonografului.",
         "en": "Explore Sainte-Maxime by public transport. Go from the harbor to the market. The shuttle takes you to La Nartelle beach, then stroll along the promenade and visit the Phonograph Museum.",
-        "fr": "Explorez Sainte-Maxime en transports en commun. Allez du port au marché. La navette vous emmène à la plage de la Nartelle, puis flânez sur la promenade et visitez le Musée du Phonographe."
+        "fr": "Explorez Sainte-Maxime en transports en commun. Allez du port au marché. La navette vous amène à la plage de La Nartelle, puis flânez le long de la promenade et visitez le Musée du Phonographe."
       },
       "gastro_picks": {
         "de": [
@@ -1068,7 +1089,7 @@
         ],
         "fr": [
           "Utilisez les bateaux.",
-          "Vérifiez les bus."
+          "Vérifiez le bus."
         ]
       }
     }

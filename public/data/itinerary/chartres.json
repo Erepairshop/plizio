@@ -32,7 +32,7 @@
             "hu": "Figyelje meg a padló labirintusát és a világhírű kék üvegablakokat.",
             "ro": "Observați labirintul din podea și faimoasele vitralii albastre.",
             "en": "Observe the floor labyrinth and the world-famous blue stained glass windows.",
-            "fr": "Observez le labyrinthe au sol et les vitraux bleus mondialement célèbres."
+            "fr": "Observez le labyrinthe au sol et les vitraux bleus mondialement connus."
           }
         },
         {
@@ -51,7 +51,7 @@
             "hu": "Közvetlenül a katedrális mellett található, mélyebb betekintést ad az üvegművészetbe.",
             "ro": "Situat chiar lângă catedrală, oferă o perspectivă profundă asupra artei vitraliului.",
             "en": "Located right next to the cathedral, it offers deep insight into the art of stained glass.",
-            "fr": "Situé juste à côté de la cathédrale, il offre un aperçu profond de l'art du vitrail."
+            "fr": "Situé juste à côté de la cathédrale, il offre un profond aperçu de l'art du vitrail."
           }
         },
         {
@@ -89,7 +89,7 @@
             "hu": "Egy alulértékelt gótikus gyöngyszem lenyűgöző ablakokkal.",
             "ro": "O perlă gotică subestimată, cu ferestre impresionante.",
             "en": "An underrated Gothic gem with impressive windows.",
-            "fr": "Un joyau gothique méconnu avec des vitraux impressionnants."
+            "fr": "Un joyau gothique sous-estimé aux vitraux impressionnants."
           }
         },
         {
@@ -136,7 +136,7 @@
         "hu": "A reggel a fenséges katedrálisnál kezdődik, amely a gótika remekműve, majd az üvegművészet titkait fedezzük fel. Délben a szépművészeti múzeumban merülünk el a történelemben. A délután az Eure folyó partjára vezet, ahol középkori idill és nyugalom vár ránk. Végezetül a Place Billard hangulatát élvezzük egy kávé mellett.",
         "ro": "Dimineața începe la catedrala maiestuoasă, o capodoperă gotică, urmată de descoperirea secretelor artei vitraliului. La prânz, ne cufundăm în istorie la muzeul de artă. După-amiaza ne duce pe malul râului Eure, unde domnește idila medievală și liniștea. În încheiere, ne bucurăm de atmosfera din Place Billard.",
         "en": "The morning starts at the majestic cathedral, a Gothic masterpiece, followed by the discovery of stained glass secrets at the Vitrail center. At midday, we dive into history at the fine arts museum. The afternoon leads to the banks of the Eure river, where medieval idyll and tranquility await. Finally, we enjoy the atmosphere at Place Billard.",
-        "fr": "La matinée commence à la majestueuse cathédrale, chef-d'œuvre gothique, suivie de la découverte des secrets des vitraux au Centre International du Vitrail. À midi, plongez dans l'histoire au musée des beaux-arts. L'après-midi vous mène aux bords de l'Eure, où idylle médiévale et tranquillité vous attendent. Enfin, profitez de l'ambiance de la Place Billard."
+        "fr": "La matinée commence à la cathédrale majestueuse, chef-d'œuvre gothique, suivie de la découverte des secrets du vitrail au Centre du Vitrail. À midi, nous plongeons dans l'histoire au musée des beaux-arts. L'après-midi mène aux rives de l'Eure, où idylles médiévales et tranquillité vous attendent. Enfin, nous profitons de l'atmosphère de la Place Billard."
       },
       "gastro_picks": {
         "de": [
@@ -312,7 +312,8 @@
             "de": "Der Morgen beginnt an der majestätischen Kathedrale, einem Meisterwerk der Gotik, gefolgt von der Entdeckung der geheimen Glaskunst im Vitrail-Zentrum. Mittags tauchen wir im Kunstmuseum in die Geschichte ein. Der Nachmittag führt uns hinunter zum Fluss Eure, wo mittelalterliche Idylle und Ruhe herrschen. Zum Abschluss genießen wir die Atmosphäre auf der Place Billard.",
             "hu": "A reggel a fenséges katedrálisnál kezdődik, amely a gótika remekműve, majd az üvegművészet titkait fedezzük fel. Délben a szépművészeti múzeumban merülünk el a történelemben. A délután az Eure folyó partjára vezet, ahol középkori idill és nyugalom vár ránk. Végezetül a Place Billard hangulatát élvezzük egy kávé mellett.",
             "ro": "Dimineața începe la catedrala maiestuoasă, o capodoperă gotică, urmată de descoperirea secretelor artei vitraliului. La prânz, ne cufundăm în istorie la muzeul de artă. După-amiaza ne duce pe malul râului Eure, unde domnește idila medievală și liniștea. În încheiere, ne bucurăm de atmosfera din Place Billard.",
-            "en": "The morning starts at the majestic cathedral, a Gothic masterpiece, followed by the discovery of stained glass secrets at the Vitrail center. At midday, we dive into history at the fine arts museum. The afternoon leads to the banks of the Eure river, where medieval idyll and tranquility await. Finally, we enjoy the atmosphere at Place Billard."
+            "en": "The morning starts at the majestic cathedral, a Gothic masterpiece, followed by the discovery of stained glass secrets at the Vitrail center. At midday, we dive into history at the fine arts museum. The afternoon leads to the banks of the Eure river, where medieval idyll and tranquility await. Finally, we enjoy the atmosphere at Place Billard.",
+            "fr": "La matinée commence à la cathédrale majestueuse, chef-d'œuvre gothique, suivie de la découverte des secrets du vitrail au Centre du Vitrail. À midi, nous plongeons dans l'histoire au musée des beaux-arts. L'après-midi mène aux rives de l'Eure, où idylles médiévales et tranquillité vous attendent. Enfin, nous profitons de l'atmosphère de la Place Billard."
           },
           "stops": [
             {
@@ -321,7 +322,8 @@
                 "de": "Beachten Sie das Labyrinth im Boden und die berühmten blauen Glasfenster.",
                 "hu": "Figyelje meg a padló labirintusát és a világhírű kék üvegablakokat.",
                 "ro": "Observați labirintul din podea și faimoasele vitralii albastre.",
-                "en": "Observe the floor labyrinth and the world-famous blue stained glass windows."
+                "en": "Observe the floor labyrinth and the world-famous blue stained glass windows.",
+                "fr": "Observez le labyrinthe au sol et les vitraux bleus mondialement connus."
               }
             },
             {
@@ -330,7 +332,8 @@
                 "de": "Direkt neben der Kathedrale gelegen, vertieft es das Wissen über Glaskunst.",
                 "hu": "Közvetlenül a katedrális mellett található, mélyebb betekintést ad az üvegművészetbe.",
                 "ro": "Situat chiar lângă catedrală, oferă o perspectivă profundă asupra artei vitraliului.",
-                "en": "Located right next to the cathedral, it offers deep insight into the art of stained glass."
+                "en": "Located right next to the cathedral, it offers deep insight into the art of stained glass.",
+                "fr": "Situé juste à côté de la cathédrale, il offre un profond aperçu de l'art du vitrail."
               }
             },
             {
@@ -339,7 +342,8 @@
                 "de": "Der ehemalige Bischofspalast beherbergt eine reiche Kunstsammlung.",
                 "hu": "Az egykori püspöki palota gazdag művészeti gyűjteménynek ad otthont.",
                 "ro": "Fostul palat episcopal găzduiește o bogată colecție de artă.",
-                "en": "The former episcopal palace houses a rich art collection."
+                "en": "The former episcopal palace houses a rich art collection.",
+                "fr": "L'ancien palais épiscopal abrite une riche collection d'art."
               }
             },
             {
@@ -348,7 +352,8 @@
                 "de": "Eine unterschätzte gotische Perle mit beeindruckenden Fenstern.",
                 "hu": "Egy alulértékelt gótikus gyöngyszem lenyűgöző ablakokkal.",
                 "ro": "O perlă gotică subestimată, cu ferestre impresionante.",
-                "en": "An underrated Gothic gem with impressive windows."
+                "en": "An underrated Gothic gem with impressive windows.",
+                "fr": "Un joyau gothique sous-estimé aux vitraux impressionnants."
               }
             },
             {
@@ -357,7 +362,8 @@
                 "de": "Spaziergang entlang der alten Kanäle und Fachwerkhäuser der Unterstadt.",
                 "hu": "Séta az óváros csatornái és favázas házai mentén az alsóvárosban.",
                 "ro": "Plimbare de-a lungul vechilor canale și case din lemn ale orașului de jos.",
-                "en": "Walk along the old canals and half-timbered houses of the lower town."
+                "en": "Walk along the old canals and half-timbered houses of the lower town.",
+                "fr": "Promenez-vous le long des anciens canaux et des maisons à colombages de la basse-ville."
               }
             },
             {
@@ -366,7 +372,8 @@
                 "de": "Ein belebter Platz, ideal für einen Kaffee am späten Nachmittag.",
                 "hu": "Hangulatos tér, ideális egy délutáni kávéhoz.",
                 "ro": "O piață plină de viață, ideală pentru o cafea după-amiaza.",
-                "en": "A lively square, ideal for a late afternoon coffee."
+                "en": "A lively square, ideal for a late afternoon coffee.",
+                "fr": "Une place animée, idéale pour un café en fin d'après-midi."
               }
             }
           ],
@@ -504,6 +511,10 @@
             "en": [
               "Wear comfortable shoes for the cobblestone streets.",
               "Visit the cathedral crypt only with a guided tour."
+            ],
+            "fr": [
+              "Portez des chaussures confortables pour les rues pavées.",
+              "Visitez la crypte de la cathédrale uniquement avec une visite guidée."
             ]
           }
         },
@@ -513,7 +524,7 @@
             "hu": "A délelőtt a székesegyház falai között telik, ahol az eső kopogása még áhítatosabbá teszi a hangulatot. Délben a múzeumok nyújtanak menedéket a víz elől. Délután az Eure-parti séta esernyővel is varázslatos a tükröződések miatt. Az este a Place Billard környéki fedett részeken zárul.",
             "ro": "Dimineața în catedrală oferă adăpost împotriva ploii, în timp ce lumina trece mistic prin vitralii. La prânz, muzeele permit o experiență culturală uscată. Plimbarea de după-amiază pe malul râului Eure necesită umbrelă, dar este foarte atmosferică. Seara se încheie confortabil sub arcadele din Place Billard.",
             "en": "Morning inside the cathedral provides shelter while rain taps against the historic glass. At noon, the museums offer a perfect dry cultural escape. The afternoon walk by the Eure is moody and beautiful under an umbrella. The evening ends cozily near the sheltered spots of Place Billard.",
-            "fr": "La matinée à l'intérieur de la cathédrale offre un abri tandis que la pluie crépite contre les vitraux historiques. À midi, les musées offrent une parfaite évasion culturelle au sec. La promenade de l'après-midi au bord de l'Eure est mélancolique et belle sous un parapluie. La soirée se termine confortablement près des zones abritées de la Place Billard."
+            "fr": "La matinée à l'intérieur de la cathédrale offre un abri pendant que la pluie tambourine contre les vitraux historiques. À midi, les musées offrent une parfaite escapade culturelle au sec. La promenade de l'après-midi le long de l'Eure est mélancolique et belle sous un parapluie. La soirée se termine agréablement près des zones abritées de la Place Billard."
           },
           "stops": [
             {
@@ -523,7 +534,7 @@
                 "hu": "Használja az északi kaput a gyors, fedett bejutáshoz.",
                 "ro": "Utilizați portalul de nord pentru o intrare rapidă și uscată.",
                 "en": "Use the North Portal for quick, dry access to the nave.",
-                "fr": "Utilisez le portail nord pour un accès rapide et sec à la nef."
+                "fr": "Utilisez le portail nord pour un accès rapide et abrité à la nef."
               }
             },
             {
@@ -533,7 +544,7 @@
                 "hu": "Tökéletes hely a hevesebb eső átvárására.",
                 "ro": "Locul perfect pentru a aștepta trecerea ploii torențiale.",
                 "en": "Perfect place to wait out the heaviest rain showers.",
-                "fr": "L'endroit idéal pour attendre la fin des plus fortes averses."
+                "fr": "Endroit parfait pour attendre les averses les plus fortes."
               }
             },
             {
@@ -543,7 +554,7 @@
                 "hu": "Van ruhatár, ahol biztonságban hagyhatja a vizes kabátokat.",
                 "ro": "Garderobă disponibilă pentru a lăsa hainele ude în siguranță.",
                 "en": "Cloakroom available to safely leave your wet coats.",
-                "fr": "Vestiaire disponible pour laisser vos manteaux mouillés en toute sécurité."
+                "fr": "Vestiaire disponible pour déposer vos manteaux mouillés en sécurité."
               }
             },
             {
@@ -553,7 +564,7 @@
                 "hu": "Csendes, száraz menedék a tömegtől távol.",
                 "ro": "Un refugiu liniștit și uscat, departe de mulțime.",
                 "en": "A quiet, dry retreat away from the main tourist crowds.",
-                "fr": "Une retraite calme et sèche loin des foules de touristes."
+                "fr": "Un refuge calme et sec, à l'écart des foules touristiques."
               }
             },
             {
@@ -563,7 +574,7 @@
                 "hu": "A kövezett utak esőben is jól járhatóak maradnak.",
                 "ro": "Potecile pavate rămân ușor de parcurs în ciuda ploii.",
                 "en": "The paved paths remain easily walkable despite the rain.",
-                "fr": "Les sentiers pavés restent facilement praticables malgré la pluie."
+                "fr": "Les chemins pavés restent facilement praticables malgré la pluie."
               }
             },
             {
@@ -604,9 +615,9 @@
             ],
             "fr": [
               "Portez des chaussures imperméables pour les ruelles pavées.",
-              "Un parapluie solide est essentiel en raison du vent près de la cathédrale.",
+              "Un parapluie solide est essentiel en raison des vents près de la cathédrale.",
               "Profitez des nombreux cafés de la haute-ville comme abris contre la pluie.",
-              "Les couleurs des vitraux paraissent particulièrement intenses sous un ciel nuageux."
+              "Les couleurs des vitraux paraissent particulièrement intenses sous un ciel couvert."
             ]
           }
         },
@@ -616,7 +627,7 @@
             "hu": "A fagyos reggel a székesegyházban való bemelegedéssel indul. Délben a múzeumok nyújtanak kellemes meleget és kultúrát. A korai sötétedés csillogó téli tájjá változtatja az Eure partját. Az este a Place Billard-nál az óváros ünnepi fényei miatt válik varázslatossá.",
             "ro": "Dimineața geroasă începe cu încălzirea în catedrală. La prânz, muzeele oferă căldură plăcută și cultură. Amurgul timpuriu transformă malurile râului Eure într-un peisaj de iarnă strălucitor. Seara în Place Billard devine magică datorită iluminatului festiv al orașului vechi.",
             "en": "The frosty morning begins with warming up inside the cathedral. At noon, museums offer cozy heat and culture. Early twilight transforms the Eure banks into a glittering winter landscape. The evening at Place Billard is made magical by the festive lighting of the old town.",
-            "fr": "La matinée glaciale commence par un réchauffement à l'intérieur de la cathédrale. À midi, les musées offrent une chaleur douillette et de la culture. Le crépuscule précoce transforme les bords de l'Eure en un paysage d'hiver scintillant. La soirée à la Place Billard devient magique grâce aux illuminations festives de la vieille ville."
+            "fr": "La matinée froide commence par un réchauffement à l'intérieur de la cathédrale. À midi, les musées offrent chaleur et culture. La tombée précoce du soir transforme les berges de l'Eure en un paysage hivernal scintillant. La soirée sur la Place Billard devient magique grâce à l'éclairage festif de la vieille ville."
           },
           "stops": [
             {
@@ -626,7 +637,7 @@
                 "hu": "Látogassa meg a kriptát, télen ott gyakran melegebb van.",
                 "ro": "Vizitați cripta, este adesea mai cald acolo în timpul iernii.",
                 "en": "Visit the crypt, it is often warmer there during winter.",
-                "fr": "Visitez la crypte, il y fait souvent plus chaud pendant l'hiver."
+                "fr": "Visitez la crypte, elle est souvent plus chaude en hiver."
               }
             },
             {
@@ -646,7 +657,7 @@
                 "hu": "Ideális hely a séta közbeni felmelegedésre.",
                 "ro": "Un loc ideal pentru a vă încălzi între plimbări.",
                 "en": "An ideal spot to warm up between outdoor walks.",
-                "fr": "Un endroit idéal pour se réchauffer entre deux promenades en extérieur."
+                "fr": "Un lieu idéal pour se réchauffer entre deux promenades extérieures."
               }
             },
             {
@@ -656,7 +667,7 @@
                 "hu": "Fagy esetén vigyázzon a bejáratnál a csúszós lépcsőkre.",
                 "ro": "Atenție la treptele alunecoase de la intrare în caz de îngheț.",
                 "en": "Watch out for slippery steps at the entrance during frost.",
-                "fr": "Attention aux marches glissantes à l'entrée en cas de gel."
+                "fr": "Faites attention aux marches glissantes à l'entrée en cas de gel."
               }
             },
             {
@@ -676,7 +687,7 @@
                 "hu": "Kóstolja meg a helyi téli különlegességeket a piacon.",
                 "ro": "Gustați specialitățile locale de iarnă din piață.",
                 "en": "Try local winter specialties at the market stalls.",
-                "fr": "Goûtez aux spécialités hivernales locales sur les étals du marché."
+                "fr": "Goûtez aux spécialités hivernales locales aux étals du marché."
               }
             }
           ],
@@ -706,10 +717,10 @@
               "Use the midday hours for outdoor photos during peak light."
             ],
             "fr": [
-              "Le soleil se couche dès 17h00 en hiver.",
-              "Portez des vêtements thermiques pour votre temps sur les berges de la rivière.",
-              "Les cathédrales peuvent être soumises aux courants d'air ; un bonnet est conseillé même à l'intérieur.",
-              "Utilisez les heures de la mi-journée pour les photos en extérieur pendant le pic de lumière."
+              "Le soleil se couche dès 17:00 en hiver.",
+              "Portez des vêtements thermiques lors de vos promenades sur les berges.",
+              "Les cathédrales peuvent être fraîches et courant d’air ; un chapeau est conseillé même à l’intérieur.",
+              "Profitez des heures de midi pour les photos en extérieur quand la lumière est optimale."
             ]
           }
         }
@@ -758,7 +769,7 @@
             "hu": "Egy ház, amely teljesen törött edények mozaikjaiból épült.",
             "ro": "O casă construită integral din mozaicuri de veselă spartă.",
             "en": "A house built entirely from mosaics of broken crockery.",
-            "fr": "Une maison entièrement construite de mosaïques de vaisselle brisée."
+            "fr": "Une maison entièrement construite en mosaïques de vaisselle cassée."
           }
         },
         {
@@ -777,7 +788,7 @@
             "hu": "Tökéletes kerékpáros túrához a folyó mentén.",
             "ro": "Perfect pentru o tură cu bicicleta de-a lungul râului.",
             "en": "Perfect for a bike tour along the river.",
-            "fr": "Parfait pour une excursion à vélo le long de la rivière."
+            "fr": "Parfait pour une balade à vélo le long de la rivière."
           }
         },
         {
@@ -796,7 +807,7 @@
             "hu": "Régi román stílusú templom közvetlenül a folyóparton.",
             "ro": "Veche biserică romanică chiar pe malul râului.",
             "en": "Old Romanesque church right on the riverbank.",
-            "fr": "Ancienne église romane située directement sur les berges."
+            "fr": "Vieille église romane juste au bord de la rivière."
           }
         },
         {
@@ -815,7 +826,7 @@
             "hu": "Központi csomópont, ideális egy frissítőhöz.",
             "ro": "Nod central, ideal pentru o răcoritoare.",
             "en": "Central hub, ideal for a refreshment.",
-            "fr": "Plaque tournante centrale, idéale pour un rafraîchissement."
+            "fr": "Pôle central, idéal pour se rafraîchir."
           }
         }
       ],
@@ -824,7 +835,7 @@
         "hu": "Kerékpárral fedezzük fel a katedrálist, majd a különleges Picassiette-házhoz tekerünk. Ezután az Eure menti zöldövezetben pihenünk. A délután román kori építészetet kínál, majd a modern városközpontban zárjuk a napot.",
         "ro": "Cu bicicleta explorăm mai întâi catedrala, înainte de a pedala spre fascinanta Casă Picassiette. Apoi ne bucurăm de plămânul verde al orașului de-a lungul Eure. După-amiaza oferă arhitectură romanică și se încheie relaxat în centrul modern.",
         "en": "By bike, we explore the cathedral first before cycling to the fascinating Picassiette House. Then we enjoy the city's green lung along the Eure. The afternoon offers Romanesque architecture and ends relaxingly in the modern city center.",
-        "fr": "À vélo, nous explorons d'abord la cathédrale avant de pédaler vers la fascinante Maison Picassiette. Nous profitons ensuite du poumon vert de la ville le long de l'Eure. L'après-midi offre de l'architecture romane et se termine de façon relaxante dans le centre-ville moderne."
+        "fr": "À vélo, nous visitons d’abord la cathédrale puis pédalons jusqu’à la fascinante Maison Picassiette. Ensuite, nous profitons du poumon vert de la ville le long de l’Eure. L’après‑midi offre de l’architecture romane et se termine paisiblement dans le centre‑ville moderne."
       },
       "gastro_picks": {
         "de": [
@@ -945,8 +956,8 @@
           "Watch out for wet cobblestones in the center."
         ],
         "fr": [
-          "Utilisez les pistes balisées sur les berges de la rivière.",
-          "Attention aux pavés mouillés dans le centre."
+          "Utilisez les sentiers balisés sur les berges.",
+          "Attention aux pavés mouillés au centre."
         ]
       },
       "variants": {
@@ -955,7 +966,8 @@
             "de": "Mit dem Rad erkunden wir erst die Kathedrale, bevor wir zur faszinierenden Maison Picassiette fahren. Danach genießen wir die grüne Lunge der Stadt entlang der Eure. Der Nachmittag bietet romanische Architektur und endet entspannt im modernen Stadtzentrum.",
             "hu": "Kerékpárral fedezzük fel a katedrálist, majd a különleges Picassiette-házhoz tekerünk. Ezután az Eure menti zöldövezetben pihenünk. A délután román kori építészetet kínál, majd a modern városközpontban zárjuk a napot.",
             "ro": "Cu bicicleta explorăm mai întâi catedrala, înainte de a pedala spre fascinanta Casă Picassiette. Apoi ne bucurăm de plămânul verde al orașului de-a lungul Eure. După-amiaza oferă arhitectură romanică și se încheie relaxat în centrul modern.",
-            "en": "By bike, we explore the cathedral first before cycling to the fascinating Picassiette House. Then we enjoy the city's green lung along the Eure. The afternoon offers Romanesque architecture and ends relaxingly in the modern city center."
+            "en": "By bike, we explore the cathedral first before cycling to the fascinating Picassiette House. Then we enjoy the city's green lung along the Eure. The afternoon offers Romanesque architecture and ends relaxingly in the modern city center.",
+            "fr": "À vélo, nous visitons d’abord la cathédrale puis pédalons jusqu’à la fascinante Maison Picassiette. Ensuite, nous profitons du poumon vert de la ville le long de l’Eure. L’après‑midi offre de l’architecture romane et se termine paisiblement dans le centre‑ville moderne."
           },
           "stops": [
             {
@@ -964,7 +976,8 @@
                 "de": "Fahrrad am Vorplatz parken und zu Fuß eintreten.",
                 "hu": "Parkolja le a bringát a téren és gyalog menjen be.",
                 "ro": "Parcați bicicleta în piață și intrați pe jos.",
-                "en": "Park the bike in the square and enter on foot."
+                "en": "Park the bike in the square and enter on foot.",
+                "fr": "Garez le vélo sur la place et entrez à pied."
               }
             },
             {
@@ -973,7 +986,8 @@
                 "de": "Ein Haus, komplett aus Mosaiken aus zerbrochenem Geschirr gebaut.",
                 "hu": "Egy ház, amely teljesen törött edények mozaikjaiból épült.",
                 "ro": "O casă construită integral din mozaicuri de veselă spartă.",
-                "en": "A house built entirely from mosaics of broken crockery."
+                "en": "A house built entirely from mosaics of broken crockery.",
+                "fr": "Une maison entièrement construite en mosaïques de vaisselle cassée."
               }
             },
             {
@@ -982,7 +996,8 @@
                 "de": "Perfekt für eine Fahrradtour entlang des Flusses.",
                 "hu": "Tökéletes kerékpáros túrához a folyó mentén.",
                 "ro": "Perfect pentru o tură cu bicicleta de-a lungul râului.",
-                "en": "Perfect for a bike tour along the river."
+                "en": "Perfect for a bike tour along the river.",
+                "fr": "Parfait pour une balade à vélo le long de la rivière."
               }
             },
             {
@@ -991,7 +1006,8 @@
                 "de": "Alte romanische Kirche direkt am Flussufer.",
                 "hu": "Régi román stílusú templom közvetlenül a folyóparton.",
                 "ro": "Veche biserică romanică chiar pe malul râului.",
-                "en": "Old Romanesque church right on the riverbank."
+                "en": "Old Romanesque church right on the riverbank.",
+                "fr": "Vieille église romane juste au bord de la rivière."
               }
             },
             {
@@ -1000,7 +1016,8 @@
                 "de": "Zentraler Knotenpunkt, ideal für eine Erfrischung.",
                 "hu": "Központi csomópont, ideális egy frissítőhöz.",
                 "ro": "Nod central, ideal pentru o răcoritoare.",
-                "en": "Central hub, ideal for a refreshment."
+                "en": "Central hub, ideal for a refreshment.",
+                "fr": "Pôle central, idéal pour se rafraîchir."
               }
             }
           ],
@@ -1102,6 +1119,10 @@
             "en": [
               "Use the marked paths on the riverbank.",
               "Watch out for wet cobblestones in the center."
+            ],
+            "fr": [
+              "Utilisez les sentiers balisés sur les berges.",
+              "Attention aux pavés mouillés au centre."
             ]
           }
         },
@@ -1111,7 +1132,7 @@
             "hu": "A katedrálisnál való indulás vizes időben csúszós, legyen óvatos. A Maison Picassiette-hez vezető út vizes, de a mozaikok esőben is ragyognak. Délben a park csendes, az utak szilárdak. A nap biztonságban zárul a felsőváros kivilágított terein.",
             "ro": "Pornirea de la catedrală este alunecoasă pe umiditate, atenție sporită. Drumul spre Maison Picassiette este pe străzi ude, dar mozaicurile strălucesc și în ploaie. La prânz în parc este liniște, potecile sunt ferme. Ziua se încheie în siguranță în piețele iluminate.",
             "en": "Starting at the cathedral is slippery when wet, exercise caution. The ride to Maison Picassiette is via wet streets, but the mosaics shine even in rain. At noon the park is quiet, paths are solid. The day ends safely in the illuminated squares of the upper town.",
-            "fr": "Le départ à la cathédrale est glissant par temps humide, soyez prudent. Le trajet vers la Maison Picassiette se fait par des rues mouillées, mais les mosaïques brillent même sous la pluie. À midi, le parc est calme et les sentiers sont stables. La journée se termine en toute sécurité sur les places illuminées de la haute-ville."
+            "fr": "Le départ depuis la cathédrale est glissant lorsqu’il fait humide, soyez prudent. Le trajet vers la Maison Picassiette passe par des rues mouillées, mais les mosaïques brillent même sous la pluie. À midi le parc est calme et les chemins sont solides. La journée se termine en sécurité sur les places éclairées de la haute ville."
           },
           "stops": [
             {
@@ -1121,7 +1142,7 @@
                 "hu": "Használja a fedett kerékpártárolókat a Place des Épars-nál.",
                 "ro": "Folosiți rastelele de biciclete acoperite din Place des Épars.",
                 "en": "Use the sheltered bike racks near Place des Épars.",
-                "fr": "Utilisez les arceaux à vélos abrités près de la Place des Épars."
+                "fr": "Utilisez les abris‑vélos près de la Place des Épars."
               }
             },
             {
@@ -1141,7 +1162,7 @@
                 "hu": "Lassítson a vélhetően falevelekkel borított utakon.",
                 "ro": "Reduceți viteza pe potecile eventual acoperite cu frunze.",
                 "en": "Reduce speed on paths that may be covered with wet leaves.",
-                "fr": "Réduisez votre vitesse sur les chemins qui peuvent être couverts de feuilles mouillées."
+                "fr": "Réduisez la vitesse sur les chemins qui peuvent être couverts de feuilles mouillées."
               }
             },
             {
@@ -1151,7 +1172,7 @@
                 "hu": "A templom előtti tér esőben nagyon csúszós lehet.",
                 "ro": "Piațeta din fața bisericii poate fi foarte alunecoasă.",
                 "en": "The square in front of the church can be very slick.",
-                "fr": "Le parvis devant l'église peut être très glissant."
+                "fr": "La place devant l’église peut être très glissante."
               }
             },
             {
@@ -1161,7 +1182,7 @@
                 "hu": "Száraz ülőhelyek a környező kávézókban.",
                 "ro": "Locuri de șezut uscate în cafenelele din jur.",
                 "en": "Dry seating options available in the surrounding cafes.",
-                "fr": "Options de sièges au sec disponibles dans les cafés environnants."
+                "fr": "Des places assises sèches sont disponibles dans les cafés alentours."
               }
             }
           ],
@@ -1191,7 +1212,7 @@
               "Use the Filibus buses if the rain becomes too heavy."
             ],
             "fr": [
-              "Les garde-boue sont essentiels pour les flaques d'eau à Chartres.",
+              "Les garde‑boue sont indispensables à cause des flaques à Chartres.",
               "Freinez tôt et prudemment sur les pavés.",
               "Évitez les marquages au sol car ils deviennent très glissants.",
               "Utilisez les bus Filibus si la pluie devient trop forte."
@@ -1204,7 +1225,7 @@
             "hu": "Hűvös indulás a katedrálisnál kesztyűben. A Maison Picassiette-hez vezető téli külvárosi út koncentrációt igényel az esetleges jegesedés miatt. Délben a park magányosnak és békésnek tűnik. Az esti visszatérés a kivilágított városba melegítő jutalmat kínál a kávézókban.",
             "ro": "Un start răcoros la catedrală cu mănuși. Drumul prin suburbia de iarnă spre Maison Picassiette necesită concentrare din cauza poleiului. La prânz parcul pare solitar și pașnic. Întoarcerea în orașul iluminat seara oferă o recompensă caldă în cafenele.",
             "en": "A cool start at the cathedral with gloves. The ride through the winter suburbs to Maison Picassiette requires concentration due to potential ice. At noon the park feels solitary and peaceful. Returning to the lit city in the evening offers a warming reward in the cafes.",
-            "fr": "Un départ frais à la cathédrale avec des gants. Le trajet à travers les faubourgs hivernaux vers la Maison Picassiette demande de la concentration en raison du risque de verglas. À midi, le parc semble solitaire et paisible. Le retour vers la ville illuminée en soirée offre une récompense chaleureuse dans les cafés."
+            "fr": "Début frais à la cathédrale avec des gants. La traversée des faubourgs hivernaux jusqu’à la Maison Picassiette demande de la concentration à cause du verglas potentiel. À midi le parc est solitaire et paisible. Le retour vers la ville éclairée le soir offre une récompense réchauffante dans les cafés."
           },
           "stops": [
             {
@@ -1214,7 +1235,7 @@
                 "hu": "Rövid bemelegedés bent a továbbindulás előtt.",
                 "ro": "Scurtă încălzire în interior înainte de a continua.",
                 "en": "Quick warm-up inside before continuing your ride.",
-                "fr": "Échauffement rapide à l'intérieur avant de poursuivre votre route."
+                "fr": "Réchauffez‑vous rapidement à l’intérieur avant de continuer votre parcours."
               }
             },
             {
@@ -1224,7 +1245,7 @@
                 "hu": "Ellenőrizze előre a rövidített téli nyitvatartást.",
                 "ro": "Verificați din timp programul scurt de iarnă.",
                 "en": "Check the shortened winter opening hours in advance.",
-                "fr": "Vérifiez les horaires d'ouverture hivernaux réduits à l'avance."
+                "fr": "Vérifiez d’avance les horaires d’ouverture raccourcis en hiver."
               }
             },
             {
@@ -1234,7 +1255,7 @@
                 "hu": "Ügyeljen a fagyott foltokra az árnyékos részeken.",
                 "ro": "Atenție la zonele înghețate în locurile umbrite.",
                 "en": "Watch for frozen patches in shaded areas.",
-                "fr": "Surveillez les plaques de gel dans les zones ombragées."
+                "fr": "Surveillez les plaques de glace dans les zones ombragées."
               }
             },
             {
@@ -1244,7 +1265,7 @@
                 "hu": "Hideg fém: a kerékpárzárat kesztyűben kezelje.",
                 "ro": "Metal rece: manevrați încuietoarea bicicletei cu mănuși.",
                 "en": "Cold metal: handle your bike lock with gloves on.",
-                "fr": "Métal froid : manipulez votre antivol avec des gants."
+                "fr": "Métal froid : manipulez votre antivol avec des gants."
               }
             },
             {
@@ -1284,10 +1305,10 @@
               "Windproof clothing is vital for descents into the lower town."
             ],
             "fr": [
-              "Des lumières vives sont obligatoires en raison de l'obscurité précoce.",
-              "Gardez la chaîne bien lubrifiée à cause du sel de déneigement.",
-              "Évitez de rouler immédiatement après le coucher du soleil à cause du risque de gel.",
-              "Des vêtements coupe-vent sont vitaux pour les descentes vers la basse-ville."
+              "Les éclairages puissants sont obligatoires en raison de l’obscurité précoce.",
+              "Gardez la chaîne bien lubrifiée à cause du sel de déneigement sur la route.",
+              "Évitez de rouler immédiatement après le coucher du soleil à cause du risque de verglas.",
+              "Des vêtements coupe‑vent sont indispensables pour les descentes vers la basse ville."
             ]
           }
         }
@@ -1317,7 +1338,7 @@
             "hu": "Használja a 'Hôtel de Ville' parkolóházat a központban.",
             "ro": "Folosiți parcarea subterană 'Hôtel de Ville' din centru.",
             "en": "Use the 'Hôtel de Ville' parking garage right in the center.",
-            "fr": "Utilisez le parking 'Hôtel de Ville' situé en plein centre."
+            "fr": "Utilisez le parking « Hôtel de Ville » en plein centre."
           }
         },
         {
@@ -1336,7 +1357,7 @@
             "hu": "Lenyűgöző kastély XIV. Lajos vízvezetékének romjaival.",
             "ro": "Castel impresionant cu ruinele unui apeduct construit de Ludovic al XIV-lea.",
             "en": "Impressive castle with the ruins of an aqueduct by Louis XIV.",
-            "fr": "Château impressionnant avec les ruines d'un aqueduc de Louis XIV."
+            "fr": "Château impressionnant avec les ruines d’un aqueduc datant de l’époque de Louis XIV."
           }
         },
         {
@@ -1355,7 +1376,7 @@
             "hu": "A naiv művészet egyedülálló példája, autóval könnyen elérhető.",
             "ro": "Exemplu unic de artă naivă, ușor accesibil cu mașina.",
             "en": "Unique example of naive art, easily accessible by car.",
-            "fr": "Exemple unique d'art naïf, facilement accessible en voiture."
+            "fr": "Exemple unique d’art naïf, facilement accessible en voiture."
           }
         },
         {
@@ -1374,7 +1395,7 @@
             "hu": "A legjobb hely egy késői ebédhez vagy délutáni uzsonnához.",
             "ro": "Cel mai bun loc pentru un prânz târziu sau o gustare.",
             "en": "Best place for a late lunch or afternoon snack.",
-            "fr": "Meilleur endroit pour un déjeuner tardif ou un goûter."
+            "fr": "Meilleur endroit pour un déjeuner tardif ou une collation l’après‑midi."
           }
         }
       ],
@@ -1383,7 +1404,7 @@
         "hu": "Reggel a katedrálist csodáljuk meg, majd a pompás Maintenon-kastélyhoz autózunk. A visszatérés után meglátogatjuk a különc Picassiette-házat, a napot pedig gasztronómiai élményekkel zárjuk az óvárosban.",
         "ro": "Dimineața admirăm catedrala, apoi conducem spre splendidul Castel Maintenon. După întoarcere, vizităm bizara Casă Picassiette și încheiem ziua cu experiențe culinare în centrul vechi.",
         "en": "In the morning we admire the cathedral before driving to the magnificent Château de Maintenon. After returning, we visit the whimsical Picassiette House and end the day with culinary experiences in the old town.",
-        "fr": "Le matin, admirez la cathédrale avant de rouler vers le magnifique Château de Maintenon. De retour, visitez l'insolite Maison Picassiette et terminez la journée par des expériences culinaires dans la vieille ville."
+        "fr": "Le matin nous admirons la cathédrale avant de conduire vers le magnifique Château de Maintenon. Après le retour, nous visitons la fantaisiste Maison Picassiette et terminons la journée par des découvertes culinaires dans la vieille ville."
       },
       "gastro_picks": {
         "de": [
@@ -1504,8 +1525,8 @@
           "Book tickets for Maintenon in advance."
         ],
         "fr": [
-          "Garez-vous au centre et explorez la vieille ville à pied.",
-          "Réservez vos billets pour Maintenon à l'avance."
+          "Garez‑vous au centre et explorez la vieille ville à pied.",
+          "Réservez les billets pour Maintenon à l’avance."
         ]
       },
       "variants": {
@@ -1514,7 +1535,8 @@
             "de": "Morgens bewundern wir die Kathedrale, bevor wir zum prachtvollen Château de Maintenon fahren. Nach der Rückkehr besuchen wir das skurrile Haus Picassiette und lassen den Tag kulinarisch in der Altstadt ausklingen.",
             "hu": "Reggel a katedrálist csodáljuk meg, majd a pompás Maintenon-kastélyhoz autózunk. A visszatérés után meglátogatjuk a különc Picassiette-házat, a napot pedig gasztronómiai élményekkel zárjuk az óvárosban.",
             "ro": "Dimineața admirăm catedrala, apoi conducem spre splendidul Castel Maintenon. După întoarcere, vizităm bizara Casă Picassiette și încheiem ziua cu experiențe culinare în centrul vechi.",
-            "en": "In the morning we admire the cathedral before driving to the magnificent Château de Maintenon. After returning, we visit the whimsical Picassiette House and end the day with culinary experiences in the old town."
+            "en": "In the morning we admire the cathedral before driving to the magnificent Château de Maintenon. After returning, we visit the whimsical Picassiette House and end the day with culinary experiences in the old town.",
+            "fr": "Le matin nous admirons la cathédrale avant de conduire vers le magnifique Château de Maintenon. Après le retour, nous visitons la fantaisiste Maison Picassiette et terminons la journée par des découvertes culinaires dans la vieille ville."
           },
           "stops": [
             {
@@ -1523,7 +1545,8 @@
                 "de": "Nutzen Sie das Parkhaus 'Hôtel de Ville' direkt im Zentrum.",
                 "hu": "Használja a 'Hôtel de Ville' parkolóházat a központban.",
                 "ro": "Folosiți parcarea subterană 'Hôtel de Ville' din centru.",
-                "en": "Use the 'Hôtel de Ville' parking garage right in the center."
+                "en": "Use the 'Hôtel de Ville' parking garage right in the center.",
+                "fr": "Utilisez le parking « Hôtel de Ville » en plein centre."
               }
             },
             {
@@ -1532,7 +1555,8 @@
                 "de": "Beeindruckendes Schloss mit den Ruinen eines Aquädukts von Ludwig XIV.",
                 "hu": "Lenyűgöző kastély XIV. Lajos vízvezetékének romjaival.",
                 "ro": "Castel impresionant cu ruinele unui apeduct construit de Ludovic al XIV-lea.",
-                "en": "Impressive castle with the ruins of an aqueduct by Louis XIV."
+                "en": "Impressive castle with the ruins of an aqueduct by Louis XIV.",
+                "fr": "Château impressionnant avec les ruines d’un aqueduc datant de l’époque de Louis XIV."
               }
             },
             {
@@ -1541,7 +1565,8 @@
                 "de": "Einzigartiges Beispiel naiver Kunst, nur mit dem Auto leicht erreichbar.",
                 "hu": "A naiv művészet egyedülálló példája, autóval könnyen elérhető.",
                 "ro": "Exemplu unic de artă naivă, ușor accesibil cu mașina.",
-                "en": "Unique example of naive art, easily accessible by car."
+                "en": "Unique example of naive art, easily accessible by car.",
+                "fr": "Exemple unique d’art naïf, facilement accessible en voiture."
               }
             },
             {
@@ -1550,7 +1575,8 @@
                 "de": "Bester Ort für ein spätes Mittagessen oder Nachmittagssnack.",
                 "hu": "A legjobb hely egy késői ebédhez vagy délutáni uzsonnához.",
                 "ro": "Cel mai bun loc pentru un prânz târziu sau o gustare.",
-                "en": "Best place for a late lunch or afternoon snack."
+                "en": "Best place for a late lunch or afternoon snack.",
+                "fr": "Meilleur endroit pour un déjeuner tardif ou une collation l’après‑midi."
               }
             }
           ],
@@ -1652,6 +1678,10 @@
             "en": [
               "Park in the center and explore the old town on foot.",
               "Book tickets for Maintenon in advance."
+            ],
+            "fr": [
+              "Garez‑vous au centre et explorez la vieille ville à pied.",
+              "Réservez les billets pour Maintenon à l’avance."
             ]
           }
         },
@@ -1661,7 +1691,7 @@
             "hu": "A székesegyház kényelmesen elérhető a közeli parkolóházból. Az esőben Maintenon kastélyához vezető út szép kilátást nyújt az Eure-síkságra. Délben a Maison Picassiette-nél mobilis és száraz marad az ember. Az óvárosi gasztro-zárás a rövid sétautak miatt előnyös.",
             "ro": "Catedrala poate fi accesată confortabil din parcarea supraetajată din apropiere. Drumul prin ploaie spre Castelul Maintenon oferă vederi frumoase asupra câmpiei Eure. La prânz, la Maison Picassiette, rămâneți mobil și uscat. Finalul gastronomic din orașul vechi beneficiază de distanțe scurte până la mașină.",
             "en": "The cathedral is easily reached from the nearby multi-story parking. The drive through rain to Maintenon Castle offers lovely views of the Eure plain. At noon at Maison Picassiette, you stay mobile and dry. The gastronomic finish in the old town benefits from short walks to the car.",
-            "fr": "La cathédrale est facilement accessible depuis le parking couvert à proximité. Le trajet sous la pluie vers le Château de Maintenon offre de belles vues sur la plaine de l'Eure. À midi à la Maison Picassiette, vous restez mobile et au sec. Le final gastronomique dans la vieille ville bénéficie de courtes marches jusqu'à la voiture."
+            "fr": "La cathédrale est facilement accessible depuis le parking à étages à proximité. La route sous la pluie vers le Château de Maintenon offre de belles vues sur la plaine de l’Eure. À midi à la Maison Picassiette, vous restez mobile et au sec. La finale gastronomique dans la vieille ville bénéficie des courtes promenades vers la voiture."
           },
           "stops": [
             {
@@ -1671,7 +1701,7 @@
                 "hu": "A Q-Park Cœur de Ville parkolóházból lift visz a felszínre.",
                 "ro": "Parcarea Q-Park Cœur de Ville oferă lift direct către suprafață.",
                 "en": "Q-Park Cœur de Ville offers a direct elevator to the surface.",
-                "fr": "Le parking Q-Park Cœur de Ville offre un ascenseur direct vers la surface."
+                "fr": "Q‑Park Cœur de Ville offre un ascenseur direct vers la surface."
               }
             },
             {
@@ -1681,7 +1711,7 @@
                 "hu": "Parkoljon közel a bejárathoz, hogy elkerülje az elázást.",
                 "ro": "Parcați aproape de intrare pentru a evita ploaia.",
                 "en": "Park close to the entrance to avoid getting wet.",
-                "fr": "Garez-vous près de l'entrée pour éviter d'être mouillé."
+                "fr": "Garez‑vous près de l’entrée pour éviter d’être mouillé."
               }
             },
             {
@@ -1691,7 +1721,7 @@
                 "hu": "Ingyenes parkolás lehetséges a környező utcákban.",
                 "ro": "Parcare gratuită posibilă pe străzile din jur.",
                 "en": "Free street parking is usually available nearby.",
-                "fr": "Des places de stationnement gratuites dans la rue sont généralement disponibles à proximité."
+                "fr": "Le stationnement gratuit dans la rue est généralement disponible à proximité."
               }
             },
             {
@@ -1701,7 +1731,7 @@
                 "hu": "Használja az 'Hôtel de Ville' parkolót a rövid séta érdekében.",
                 "ro": "Folosiți parcarea 'Hôtel de Ville' pentru distanțe scurte.",
                 "en": "Use the 'Hôtel de Ville' parking for the shortest walk.",
-                "fr": "Utilisez le parking 'Hôtel de Ville' pour la marche la plus courte."
+                "fr": "Utilisez le parking « Hôtel de Ville » pour la plus courte marche."
               }
             }
           ],
@@ -1731,10 +1761,10 @@
               "Allow extra time for city traffic during rainy weather."
             ],
             "fr": [
-              "Attention à l'aquaplaning sur la N154 en direction de Maintenon.",
-              "Les parkings souterrains du centre permettent de garder la voiture au sec.",
-              "Gardez des parapluies dans le coffre pour les courts trajets à pied.",
-              "Prévoyez du temps supplémentaire pour la circulation urbaine par temps de pluie."
+              "Surveillez le risque d’aquaplanage sur la N154 en direction de Maintenon.",
+              "Les parkings souterrains au centre gardent la voiture au sec.",
+              "Gardez des parapluies dans le coffre pour les courtes marches.",
+              "Prévoyez du temps supplémentaire pour la circulation en ville par temps de pluie."
             ]
           }
         },
@@ -1744,7 +1774,7 @@
             "hu": "A téli reggel meleg utazással indul a székesegyházhoz. A Maintenon felé vezető út a francia vidék kopár, tágas szépségét mutatja. Délben a Maison Picassiette rövid, fagyos megálló. A nap regionális különlegességekkel zárul a kellemesen fűtött óvárosban.",
             "ro": "Dimineața de iarnă începe cu un drum călduros spre catedrală. Ruta spre Maintenon arată frumusețea golașă și vastă a peisajului francez. La prânz, Maison Picassiette este o oprire scurtă și geroasă. Ziua se încheie cu specialități regionale în orașul vechi bine încălzit.",
             "en": "The winter morning starts with a warm drive to the cathedral. The route to Maintenon reveals the stark, vast beauty of the French countryside. At noon, Maison Picassiette is a short, frosty stop. The day concludes with regional specialties in the warmly heated old town.",
-            "fr": "La matinée d'hiver commence par un trajet au chaud vers la cathédrale. La route vers Maintenon révèle la beauté brute et vaste de la campagne française. À midi, la Maison Picassiette est une courte étape givrée. La journée se termine avec des spécialités régionales dans la vieille ville bien chauffée."
+            "fr": "La matinée hivernale commence par une conduite chaude vers la cathédrale. L’itinéraire vers Maintenon révèle la beauté austère et vaste de la campagne française. À midi, la Maison Picassiette est un arrêt court et frisquet. La journée se conclut par des spécialités régionales dans la vieille ville bien chauffée."
           },
           "stops": [
             {
@@ -1754,7 +1784,7 @@
                 "hu": "A parkolóház megvédi az autót a reggeli jégkaparástól.",
                 "ro": "Parcarea protejează mașina de răzuitul parbrizului dimineața.",
                 "en": "Parking in a garage saves you from scraping ice off windows.",
-                "fr": "Se garer dans un parking couvert vous évite de gratter la glace sur les vitres."
+                "fr": "Se garer dans un garage vous évite de gratter la glace sur les vitres."
               }
             },
             {
@@ -1774,7 +1804,7 @@
                 "hu": "Kevés a fűtés a helyszínen; maradjon melegen felöltözve.",
                 "ro": "Puțină căldură la fața locului; rămâneți bine îmbrăcat.",
                 "en": "Limited heating on site; stay warmly dressed for this stop.",
-                "fr": "Chauffage limité sur place ; restez chaudement habillé pour cette étape."
+                "fr": "Chauffage limité sur place ; restez bien habillé pour cette étape."
               }
             },
             {
@@ -1784,7 +1814,7 @@
                 "hu": "A parkolóházak télen gyakran melegebbek a külső helyeknél.",
                 "ro": "Parcările sunt adesea mai calde decât cele exterioare iarna.",
                 "en": "Parking garages are often warmer than outdoor lots in winter.",
-                "fr": "Les parkings couverts sont souvent plus chauds que les parkings extérieurs en hiver."
+                "fr": "Les parkings couverts sont souvent plus chauds que les places extérieures en hiver."
               }
             }
           ],
@@ -1814,10 +1844,10 @@
               "Parking garages provide shelter from freezing rain."
             ],
             "fr": [
-              "Vérifiez la pression des pneus lors des coups de froid soudains.",
-              "L'antigel dans le liquide lave-glace est indispensable.",
-              "Évitez les routes secondaires en cas de chutes de neige potentielles.",
-              "Les parkings couverts offrent un abri contre la pluie verglaçante."
+              "Vérifiez la pression des pneus lors de brusques baisses de température.",
+              "De l’antigel pour le liquide lave‑glace est indispensable.",
+              "Évitez les routes secondaires en cas de chute de neige potentielle.",
+              "Les parkings souterrains offrent un abri contre la pluie verglaçante."
             ]
           }
         }
@@ -1885,7 +1915,7 @@
             "hu": "A katedrális térrel szemben.",
             "ro": "Vis-a-vis de piața catedralei.",
             "en": "Opposite the cathedral square.",
-            "fr": "En face du parvis de la cathédrale."
+            "fr": "Face à la place de la cathédrale."
           }
         },
         {
@@ -1904,7 +1934,7 @@
             "hu": "Csendes hely távol a turisták tömegétől.",
             "ro": "Loc liniștit, departe de mulțimile de turiști.",
             "en": "Quiet place away from the tourist crowds.",
-            "fr": "Lieu calme loin de la foule touristique."
+            "fr": "Endroit tranquille à l’écart des foules touristiques."
           }
         },
         {
@@ -1923,7 +1953,7 @@
             "hu": "A 4-es buszjárat összeköti az alsóvárost a vasútállomással.",
             "ro": "Linia de autobuz 4 leagă orașul de jos de gară.",
             "en": "Bus line 4 connects the lower town to the train station.",
-            "fr": "La ligne de bus 4 relie la basse-ville à la gare."
+            "fr": "La ligne de bus 4 relie la basse ville à la gare."
           }
         }
       ],
@@ -1932,7 +1962,7 @@
         "hu": "A vasútállomás közelségének köszönhetően Chartres tökéletesen felfedezhető vonattal. A katedrálistól indulva múzeumokon és templomokon át sétálunk. A délután az alsóvárosé, mielőtt kényelmesen visszabuszoznánk.",
         "ro": "Datorită proximității gării, Chartres poate fi explorat perfect cu trenul. Începem la catedrală și ne plimbăm prin muzee și biserici. După-amiaza aparține orașului de jos, înainte de a ne întoarce confortabil cu autobuzul.",
         "en": "Thanks to its proximity to the station, Chartres is perfect to explore by train. We start at the cathedral and wander through museums and churches. The afternoon belongs to the lower town before heading back comfortably by bus.",
-        "fr": "Grâce à sa proximité avec la gare, Chartres est parfaite à explorer en train. Nous commençons par la cathédrale et errons entre musées et églises. L'après-midi appartient à la basse-ville avant un retour confortable en bus."
+        "fr": "Grâce à sa proximité de la gare, Chartres est parfait à explorer en train. Nous commençons par la cathédrale et nous promenons dans les musées et les églises. L’après‑midi appartient à la basse ville avant de retourner confortablement en bus."
       },
       "gastro_picks": {
         "de": [
@@ -2053,7 +2083,7 @@
           "The train station offers lockers for luggage."
         ],
         "fr": [
-          "Utilisez la navette Filibus pour les plus longues distances.",
+          "Utilisez la navette Filibus pour les trajets plus longs.",
           "La gare propose des consignes pour les bagages."
         ]
       },
@@ -2063,7 +2093,8 @@
             "de": "Dank der Nähe zum Bahnhof lässt sich Chartres perfekt mit dem Zug erkunden. Wir starten bei der Kathedrale und wandern durch Museen und Kirchen. Der Nachmittag gehört der Unterstadt, bevor wir bequem mit dem Stadtbus zurückfahren.",
             "hu": "A vasútállomás közelségének köszönhetően Chartres tökéletesen felfedezhető vonattal. A katedrálistól indulva múzeumokon és templomokon át sétálunk. A délután az alsóvárosé, mielőtt kényelmesen visszabuszoznánk.",
             "ro": "Datorită proximității gării, Chartres poate fi explorat perfect cu trenul. Începem la catedrală și ne plimbăm prin muzee și biserici. După-amiaza aparține orașului de jos, înainte de a ne întoarce confortabil cu autobuzul.",
-            "en": "Thanks to its proximity to the station, Chartres is perfect to explore by train. We start at the cathedral and wander through museums and churches. The afternoon belongs to the lower town before heading back comfortably by bus."
+            "en": "Thanks to its proximity to the station, Chartres is perfect to explore by train. We start at the cathedral and wander through museums and churches. The afternoon belongs to the lower town before heading back comfortably by bus.",
+            "fr": "Grâce à sa proximité de la gare, Chartres est parfait à explorer en train. Nous commençons par la cathédrale et nous promenons dans les musées et les églises. L’après‑midi appartient à la basse ville avant de retourner confortablement en bus."
           },
           "stops": [
             {
@@ -2072,7 +2103,8 @@
                 "de": "Nur 10 Gehminuten vom Bahnhof entfernt.",
                 "hu": "Csak 10 perc séta a vasútállomástól.",
                 "ro": "La doar 10 minute de mers pe jos de gară.",
-                "en": "Only 10 minutes walk from the train station."
+                "en": "Only 10 minutes walk from the train station.",
+                "fr": "À seulement 10 minutes à pied de la gare."
               }
             },
             {
@@ -2081,7 +2113,8 @@
                 "de": "Ideal für Kulturliebhaber ohne Auto.",
                 "hu": "Ideális kulturális élmény autó nélkül.",
                 "ro": "Ideal pentru iubitorii de cultură fără mașină.",
-                "en": "Ideal for culture lovers without a car."
+                "en": "Ideal for culture lovers without a car.",
+                "fr": "Idéal pour les amateurs de culture sans voiture."
               }
             },
             {
@@ -2090,7 +2123,8 @@
                 "de": "Gegenüber dem Kathedralenplatz.",
                 "hu": "A katedrális térrel szemben.",
                 "ro": "Vis-a-vis de piața catedralei.",
-                "en": "Opposite the cathedral square."
+                "en": "Opposite the cathedral square.",
+                "fr": "Face à la place de la cathédrale."
               }
             },
             {
@@ -2099,7 +2133,8 @@
                 "de": "Ruhiger Ort abseits der Touristenmassen.",
                 "hu": "Csendes hely távol a turisták tömegétől.",
                 "ro": "Loc liniștit, departe de mulțimile de turiști.",
-                "en": "Quiet place away from the tourist crowds."
+                "en": "Quiet place away from the tourist crowds.",
+                "fr": "Endroit tranquille à l’écart des foules touristiques."
               }
             },
             {
@@ -2108,7 +2143,8 @@
                 "de": "Buslinie 4 verbindet die Unterstadt mit dem Bahnhof.",
                 "hu": "A 4-es buszjárat összeköti az alsóvárost a vasútállomással.",
                 "ro": "Linia de autobuz 4 leagă orașul de jos de gară.",
-                "en": "Bus line 4 connects the lower town to the train station."
+                "en": "Bus line 4 connects the lower town to the train station.",
+                "fr": "La ligne de bus 4 relie la basse ville à la gare."
               }
             }
           ],
@@ -2210,6 +2246,10 @@
             "en": [
               "Use the 'Filibus' shuttle bus for longer distances.",
               "The train station offers lockers for luggage."
+            ],
+            "fr": [
+              "Utilisez la navette Filibus pour les trajets plus longs.",
+              "La gare offre des consignes pour les bagages."
             ]
           }
         },
@@ -2219,7 +2259,7 @@
             "hu": "A busz szárazon viszi a székesegyházhoz. A múzeumok jól megközelíthetőek és védelmet nyújtanak a záporok ellen. Délben az alsóvárosban a Filibus vonalak megkönnyítik a haladást esőben. Az Eure partja így hosszú séta nélkül is felfedezhető vizes időben.",
             "ro": "Autobuzul vă duce la catedrală fără să vă udați. Muzeele sunt bine conectate și oferă protecție împotriva averselor. La prânz, în orașul de jos, liniile Filibus ușurează deplasarea pe ploaie. Malurile râului Eure pot fi explorate astfel fără plimbări lungi.",
             "en": "The bus takes you dry to the cathedral. Museums are well-connected and offer shelter from showers. At noon in the lower town, Filibus lines make moving around easier in the rain. The Eure banks can thus be explored without long walks in the wet.",
-            "fr": "Le bus vous emmène au sec jusqu'à la cathédrale. Les musées sont bien desservis et offrent un abri contre les averses. À midi dans la basse-ville, les lignes Filibus facilitent les déplacements sous la pluie. Les bords de l'Eure peuvent ainsi être explorés sans longues marches sous l'eau."
+            "fr": "Le bus vous conduit au sec jusqu'à la cathédrale. Les musées sont bien desservis et offrent un abri contre les averses. À midi, dans la basse-ville, les lignes Filibus facilitent les déplacements sous la pluie. Les rives de l'Eure peuvent ainsi être explorées sans longues marches sous l'eau."
           },
           "stops": [
             {
@@ -2229,7 +2269,7 @@
                 "hu": "Az 'Hôtel de Ville' megálló nagyon közel van a kapuhoz.",
                 "ro": "Stația 'Hôtel de Ville' este foarte aproape de portal.",
                 "en": "The 'Hôtel de Ville' stop is very close to the portal.",
-                "fr": "L'arrêt 'Hôtel de Ville' est très proche du portail."
+                "fr": "L'arrêt « Hôtel de Ville » est tout près du portail."
               }
             },
             {
@@ -2239,7 +2279,7 @@
                 "hu": "Használja ki a buszok közötti rövid időközöket.",
                 "ro": "Profitați de intervalele scurte dintre autobuze.",
                 "en": "Take advantage of the short intervals between buses.",
-                "fr": "Profitez des intervalles courts entre les bus."
+                "fr": "Profitez des courts intervalles entre les bus."
               }
             },
             {
@@ -2259,7 +2299,7 @@
                 "hu": "A 4-es járat szinte közvetlenül a templom előtt áll meg.",
                 "ro": "Linia 4 oprește aproape direct în fața bisericii.",
                 "en": "Line 4 stops almost directly in front of the church.",
-                "fr": "La ligne 4 s'arrête presque directement devant l'église."
+                "fr": "La ligne 4 s'arrête presque juste devant l'église."
               }
             },
             {
@@ -2269,7 +2309,7 @@
                 "hu": "A 'Morard' megállónál szállva közel lesz a vízhez.",
                 "ro": "Coborâți la 'Morard' pentru a fi aproape de apă.",
                 "en": "Getting off at 'Morard' puts you close to the water.",
-                "fr": "Descendre à l'arrêt 'Morard' vous rapproche de l'eau."
+                "fr": "Descendre à « Morard » vous place près de l'eau."
               }
             }
           ],
@@ -2302,7 +2342,7 @@
               "Utilisez l'application Filibus pour des infos en temps réel sous la pluie.",
               "Les zones d'attente à la gare offrent une bonne protection contre les intempéries.",
               "Les tickets peuvent être payés sans contact dans le bus.",
-              "Combinez les trajets en bus pour combler les périodes les plus pluvieuses."
+              "Combinez les trajets en bus pour couvrir les périodes les plus pluvieuses."
             ]
           }
         },
@@ -2312,7 +2352,7 @@
             "hu": "Meleg buszos indulás a téli reggelen. A múzeumok a tömegközlekedésnek köszönhetően hosszú fagyoskodás nélkül elérhetőek. Délben a tranzit lehetővé teszi a gyors visszatérést a fűtött terekbe. Az Eure partja télen is vonzó, ha a városba való visszautút rövid és egyszerű.",
             "ro": "Un start călduros cu autobuzul în dimineața de iarnă. Muzeele sunt accesibile fără îngheț prelungit datorită transportului public. La prânz, tranzitul permite o întoarcere rapidă în spații încălzite. Malurile râului Eure sunt atractive și iarna, când drumul înapoi este scurt.",
             "en": "A warm bus start to the winter morning. The museums are accessible without long periods of freezing thanks to public transport. At noon, transit allows a quick return to heated spaces. The Eure banks are attractive in winter too, when the trip back is short and simple.",
-            "fr": "Un départ en bus au chaud pour cette matinée d'hiver. Les musées sont accessibles sans longues périodes de froid grâce aux transports en commun. À midi, le transit permet un retour rapide vers des espaces chauffés. Les bords de l'Eure sont attractifs aussi en hiver, quand le trajet de retour est court et simple."
+            "fr": "Un démarrage hivernal au chaud dans le bus. Les musées sont accessibles sans longues périodes de gel grâce aux transports publics. À midi, le réseau permet un retour rapide vers des espaces chauffés. Les rives de l'Eure sont attrayantes aussi en hiver, quand le trajet de retour est court et simple."
           },
           "stops": [
             {
@@ -2322,7 +2362,7 @@
                 "hu": "A buszok télen is megbízhatóan közlekednek menetrend szerint.",
                 "ro": "Autobuzele circulă fiabil conform orarului și iarna.",
                 "en": "Buses run reliably according to schedule even in winter.",
-                "fr": "Les bus circulent de manière fiable selon l'horaire même en hiver."
+                "fr": "Les bus circulent régulièrement selon l'horaire même en hiver."
               }
             },
             {
@@ -2332,7 +2372,7 @@
                 "hu": "Meleg ruházat a megállók közötti rövid sétákhoz.",
                 "ro": "Haine groase pentru scurtele plimbări între stații.",
                 "en": "Warm clothing for the short walks between stops.",
-                "fr": "Vêtements chauds pour les courtes marches entre les arrêts."
+                "fr": "Vêtements chauds pour les courts trajets entre arrêts."
               }
             },
             {
@@ -2342,7 +2382,7 @@
                 "hu": "Központi csomópont; számos járat érkezik ide.",
                 "ro": "Nod central; multe linii duc aici.",
                 "en": "Central hub; many bus lines lead to this area.",
-                "fr": "Plaque tournante centrale ; de nombreuses lignes mènent à cette zone."
+                "fr": "Nœud central ; de nombreuses lignes de bus convergent vers ce secteur."
               }
             },
             {
@@ -2352,7 +2392,7 @@
                 "hu": "Várjon a buszra a közeli üzletekben.",
                 "ro": "Așteptați autobuzul în magazinele din apropiere.",
                 "en": "Wait for the bus inside nearby shops if it's very cold.",
-                "fr": "Attendez le bus à l'intérieur des boutiques voisines s'il fait très froid."
+                "fr": "Attendez le bus à l'intérieur des commerces voisins s'il fait très froid."
               }
             },
             {
@@ -2362,7 +2402,7 @@
                 "hu": "Ügyeljen az este enyhén módosított téli menetrendre.",
                 "ro": "Atenție la orarul de iarnă ușor modificat seara.",
                 "en": "Check for slightly adjusted winter schedules in the evening.",
-                "fr": "Vérifiez les horaires d'hiver légèrement ajustés en soirée."
+                "fr": "Vérifiez les légers ajustements des horaires d'hiver en soirée."
               }
             }
           ],
@@ -2392,10 +2432,10 @@
               "The darkness makes buses safer than lonely walking routes."
             ],
             "fr": [
-              "Prévoyez du temps supplémentaire en cas de chutes de neige.",
+              "Prévoyez du temps supplémentaire en cas de chute de neige.",
               "Les bus sont agréablement chauffés pendant les mois d'hiver.",
-              "Profitez de la proximité de la gare pour les correspondances tardives.",
-              "L'obscurité rend les bus plus sûrs que les itinéraires à pied isolés."
+              "Profitez de la proximité de la gare pour des correspondances tardives.",
+              "L'obscurité rend les bus plus sûrs que des trajets pédestres solitaires."
             ]
           }
         }

@@ -32,7 +32,7 @@
             "hu": "Élvezze a sima tengerparti sétányt és a kilátást Beaulieu-sur-Mer felé.",
             "ro": "Bucurați-vă de poteca de coastă plană cu vedere spre Beaulieu-sur-Mer.",
             "en": "Enjoy the flat coastal path with views towards Beaulieu-sur-Mer.",
-            "fr": "Profitez du sentier côtier plat avec vue sur Beaulieu-sur-Mer."
+            "fr": "Profitez du chemin côtier plat avec des vues en direction de Beaulieu-sur-Mer."
           }
         },
         {
@@ -51,7 +51,7 @@
             "hu": "Foglaljon jegyet online, hogy elkerülje a sorban állást a bejáratnál.",
             "ro": "Rezervați bilete online pentru a evita coada de la intrare.",
             "en": "Book tickets online to skip the queue at the entrance.",
-            "fr": "Réservez vos billets en ligne pour éviter la file d'attente à l'entrée."
+            "fr": "Réservez vos billets en ligne pour éviter la file à l'entrée."
           }
         },
         {
@@ -70,7 +70,7 @@
             "hu": "Ne hagyja ki a zenélő szökőkutakat minden 20 percben.",
             "ro": "Nu ratați fântânile muzicale care pornesc la fiecare 20 de minute.",
             "en": "Don't miss the musical fountains performing every 20 minutes.",
-            "fr": "Ne manquez pas les fontaines musicales toutes les 20 minutes."
+            "fr": "Ne manquez pas les fontaines musicales qui se produisent toutes les 20 minutes."
           }
         },
         {
@@ -89,7 +89,7 @@
             "hu": "Tökéletes hely egy tengeri herkentyűs ebédhez a kikötőben.",
             "ro": "Locul perfect pentru un prânz cu fructe de mare proaspete în port.",
             "en": "Perfect spot for a fresh seafood lunch by the harbor.",
-            "fr": "Un endroit parfait pour un déjeuner de fruits de mer frais sur le port."
+            "fr": "Endroit parfait pour un déjeuner de fruits de mer frais au bord du port."
           }
         },
         {
@@ -108,7 +108,7 @@
             "hu": "Védett strand, ideális úszáshoz a kristálytiszta vízben.",
             "ro": "O plajă protejată, ideală pentru înot în ape cristaline.",
             "en": "A sheltered beach, ideal for swimming in crystal-clear water.",
-            "fr": "Une plage abritée, idéale pour se baigner dans une eau cristalline."
+            "fr": "Une plage abritée, idéale pour la baignade dans une eau cristalline."
           }
         },
         {
@@ -127,7 +127,7 @@
             "hu": "Csodálja meg mellette a Szűz Mária impozáns bronzszobrát.",
             "ro": "Admirați statuia impunătoare de bronz a Fecioarei Maria de lângă.",
             "en": "Admire the imposing bronze statue of the Virgin Mary next to it.",
-            "fr": "Admirez l'imposante statue de bronze de la Vierge Marie juste à côté."
+            "fr": "Admirez la imposante statue en bronze de la Vierge Marie à côté."
           }
         }
       ],
@@ -136,7 +136,7 @@
         "hu": "Kezdje a napot egy kellemes sétával a Maurice Rouvier sétányon, ahonnan gyönyörű kilátás nyílik az öbölre. Délelőtt fedezze fel a pompás Villa Ephrussi de Rothschild épületét és annak kilenc tematikus kertjét.\n\nEbédre élvezze Saint-Jean falu hangulatát a kikötő melletti éttermek egyikében. A délutánt töltse pihenéssel a híres Paloma strandon, majd látogasson el a történelmi Saint-Hospice kápolnához a félsziget csúcsán.",
         "ro": "Începeți ziua cu o plimbare ușoară pe faleza Maurice Rouvier, care oferă vederi superbe asupra golfului. Dimineața, explorați fastuoasa Villa Ephrussi de Rothschild și cele nouă grădini tematice ale sale.\n\nLa prânz, bucurați-vă de atmosfera din satul Saint-Jean cu un prânz mediteranean lângă port. După-amiaza este dedicată relaxării pe faimoasa plajă Paloma, urmată de o vizită la capela istorică Saint-Hospice.",
         "en": "Start your day with a gentle stroll along the Maurice Rouvier promenade, offering stunning views of the bay. In the morning, explore the magnificent Villa Ephrussi de Rothschild and its nine themed gardens.\n\nAt lunch, enjoy the atmosphere of Saint-Jean village with a Mediterranean meal by the port. The afternoon is dedicated to relaxation at the famous Paloma Beach, followed by a visit to the historic Saint-Hospice chapel at the tip of the peninsula.",
-        "fr": "Commencez votre journée par une promenade paisible le long de la promenade Maurice Rouvier, offrant une vue imprenable sur la baie. Le matin, explorez la magnifique Villa Ephrussi de Rothschild et ses neuf jardins thématiques.\n\nAu déjeuner, profitez de l'ambiance du village de Saint-Jean avec un repas méditerranéen sur le port. L'après-midi est consacré à la détente sur la célèbre plage de Paloma, suivi d'une visite de la chapelle historique de Saint-Hospice à la pointe de la presqu'île."
+        "fr": "Commencez la journée par une promenade douce le long de la promenade Maurice Rouvier, offrant de superbes vues sur la baie. Le matin, explorez la magnifique Villa Ephrussi de Rothschild et ses neuf jardins thématiques.\n\nÀ midi, profitez de l'ambiance du village de Saint-Jean avec un repas méditerranéen au port. L'après-midi est consacré à la détente sur la célèbre plage de la Paloma, puis à la visite de la chapelle historique Saint-Hospice à la pointe de la presqu'île."
       },
       "gastro_picks": {
         "de": [
@@ -331,9 +331,9 @@
         ],
         "fr": [
           "Portez des chaussures de marche confortables pour les sentiers côtiers.",
-          "La Villa Ephrussi est très fréquentée à la mi-journée, allez-y tôt.",
-          "Prévoyez beaucoup d'eau pour la marche jusqu'à la chapelle.",
-          "Le stationnement est très difficile en été ; utilisez la ligne de bus 15."
+          "La Villa Ephrussi est la plus fréquentée à midi, donc allez-y tôt.",
+          "Prenez beaucoup d'eau pour la marche jusqu'à la chapelle.",
+          "Le stationnement est très difficile en été ; prenez la ligne de bus 15."
         ]
       },
       "variants": {
@@ -342,7 +342,8 @@
             "de": "Beginnen Sie Ihren Tag mit einem sanften Spaziergang entlang der Maurice Rouvier Promenade, die einen herrlichen Blick auf die Bucht bietet. Am Vormittag erkunden Sie die prächtige Villa Ephrussi de Rothschild und ihre neun thematischen Gärten.\n\nMittags genießen Sie die lebhafte Atmosphäre im Dorf Saint-Jean bei einem mediterranen Mittagessen am Hafen. Der Nachmittag gehört der Entspannung am berühmten Paloma Beach, gefolgt von einem Besuch der historischen Saint-Hospice Kapelle an der Spitze der Halbinsel.",
             "hu": "Kezdje a napot egy kellemes sétával a Maurice Rouvier sétányon, ahonnan gyönyörű kilátás nyílik az öbölre. Délelőtt fedezze fel a pompás Villa Ephrussi de Rothschild épületét és annak kilenc tematikus kertjét.\n\nEbédre élvezze Saint-Jean falu hangulatát a kikötő melletti éttermek egyikében. A délutánt töltse pihenéssel a híres Paloma strandon, majd látogasson el a történelmi Saint-Hospice kápolnához a félsziget csúcsán.",
             "ro": "Începeți ziua cu o plimbare ușoară pe faleza Maurice Rouvier, care oferă vederi superbe asupra golfului. Dimineața, explorați fastuoasa Villa Ephrussi de Rothschild și cele nouă grădini tematice ale sale.\n\nLa prânz, bucurați-vă de atmosfera din satul Saint-Jean cu un prânz mediteranean lângă port. După-amiaza este dedicată relaxării pe faimoasa plajă Paloma, urmată de o vizită la capela istorică Saint-Hospice.",
-            "en": "Start your day with a gentle stroll along the Maurice Rouvier promenade, offering stunning views of the bay. In the morning, explore the magnificent Villa Ephrussi de Rothschild and its nine themed gardens.\n\nAt lunch, enjoy the atmosphere of Saint-Jean village with a Mediterranean meal by the port. The afternoon is dedicated to relaxation at the famous Paloma Beach, followed by a visit to the historic Saint-Hospice chapel at the tip of the peninsula."
+            "en": "Start your day with a gentle stroll along the Maurice Rouvier promenade, offering stunning views of the bay. In the morning, explore the magnificent Villa Ephrussi de Rothschild and its nine themed gardens.\n\nAt lunch, enjoy the atmosphere of Saint-Jean village with a Mediterranean meal by the port. The afternoon is dedicated to relaxation at the famous Paloma Beach, followed by a visit to the historic Saint-Hospice chapel at the tip of the peninsula.",
+            "fr": "Commencez la journée par une promenade douce le long de la Promenade Maurice Rouvier, offrant des vues splendides sur la baie. Le matin, explorez la magnifique Villa Ephrussi de Rothschild et ses neuf jardins thématiques.\n\nÀ midi, profitez de l'ambiance du village de Saint-Jean avec un repas méditerranéen au bord du port. L'après-midi est dédiée à la détente à la célèbre plage de la Paloma, suivie d'une visite de la chapelle historique Saint-Hospice à la pointe de la presqu'île."
           },
           "stops": [
             {
@@ -351,7 +352,8 @@
                 "de": "Genießen Sie den flachen Küstenweg mit Blick auf Beaulieu-sur-Mer.",
                 "hu": "Élvezze a sima tengerparti sétányt és a kilátást Beaulieu-sur-Mer felé.",
                 "ro": "Bucurați-vă de poteca de coastă plană cu vedere spre Beaulieu-sur-Mer.",
-                "en": "Enjoy the flat coastal path with views towards Beaulieu-sur-Mer."
+                "en": "Enjoy the flat coastal path with views towards Beaulieu-sur-Mer.",
+                "fr": "Profitez du chemin côtier plat avec vue en direction de Beaulieu-sur-Mer."
               }
             },
             {
@@ -360,7 +362,8 @@
                 "de": "Buchen Sie Tickets online, um die Warteschlange am Eingang zu umgehen.",
                 "hu": "Foglaljon jegyet online, hogy elkerülje a sorban állást a bejáratnál.",
                 "ro": "Rezervați bilete online pentru a evita coada de la intrare.",
-                "en": "Book tickets online to skip the queue at the entrance."
+                "en": "Book tickets online to skip the queue at the entrance.",
+                "fr": "Réservez vos billets en ligne pour éviter la file à l'entrée."
               }
             },
             {
@@ -369,7 +372,8 @@
                 "de": "Verpassen Sie nicht die musikalischen Springbrunnen alle 20 Minuten.",
                 "hu": "Ne hagyja ki a zenélő szökőkutakat minden 20 percben.",
                 "ro": "Nu ratați fântânile muzicale care pornesc la fiecare 20 de minute.",
-                "en": "Don't miss the musical fountains performing every 20 minutes."
+                "en": "Don't miss the musical fountains performing every 20 minutes.",
+                "fr": "Ne manquez pas les fontaines musicales qui se produisent toutes les 20 minutes."
               }
             },
             {
@@ -378,7 +382,8 @@
                 "de": "Perfekter Ort für ein Mittagessen mit frischen Meeresfrüchten am Hafen.",
                 "hu": "Tökéletes hely egy tengeri herkentyűs ebédhez a kikötőben.",
                 "ro": "Locul perfect pentru un prânz cu fructe de mare proaspete în port.",
-                "en": "Perfect spot for a fresh seafood lunch by the harbor."
+                "en": "Perfect spot for a fresh seafood lunch by the harbor.",
+                "fr": "Endroit parfait pour un déjeuner de fruits de mer frais au bord du port."
               }
             },
             {
@@ -387,7 +392,8 @@
                 "de": "Ein geschützter Strand, ideal zum Schwimmen in kristallklarem Wasser.",
                 "hu": "Védett strand, ideális úszáshoz a kristálytiszta vízben.",
                 "ro": "O plajă protejată, ideală pentru înot în ape cristaline.",
-                "en": "A sheltered beach, ideal for swimming in crystal-clear water."
+                "en": "A sheltered beach, ideal for swimming in crystal-clear water.",
+                "fr": "Une plage abritée, idéale pour nager dans une eau cristalline."
               }
             },
             {
@@ -396,7 +402,8 @@
                 "de": "Bewundern Sie die imposante Bronzestatue der Jungfrau Maria daneben.",
                 "hu": "Csodálja meg mellette a Szűz Mária impozáns bronzszobrát.",
                 "ro": "Admirați statuia impunătoare de bronz a Fecioarei Maria de lângă.",
-                "en": "Admire the imposing bronze statue of the Virgin Mary next to it."
+                "en": "Admire the imposing bronze statue of the Virgin Mary next to it.",
+                "fr": "Admirez la imposante statue en bronze de la Vierge à côté."
               }
             }
           ],
@@ -558,6 +565,12 @@
               "Villa Ephrussi is busiest at midday, so go early.",
               "Take plenty of water for the walk to the chapel.",
               "Parking is very difficult in summer; use bus line 15."
+            ],
+            "fr": [
+              "Portez des chaussures de marche confortables pour les sentiers côtiers.",
+              "La Villa Ephrussi est la plus fréquentée à midi, donc allez-y tôt.",
+              "Prenez beaucoup d'eau pour la marche jusqu'à la chapelle.",
+              "Le stationnement est très difficile en été ; prenez la ligne de bus 15."
             ]
           }
         },
@@ -567,7 +580,7 @@
             "hu": "Kezdje a napot a Promenade Maurice Rouvier-n; az esős tenger látványa különleges hangulatot áraszt. A Villa Ephrussi ezután tökéletes fedett menedéket nyújt pazar belső tereivel.\n\nDélben használja ki a szüneteket a kert megtekintésére, vagy csodálja a panorámát a loggiákról. Egy hosszú ebéd a kikötőben segít kivárni a nagyobb záporok végét.\n\nDélután tegyen egy gyors sétát a Paloma strandhoz, ahol a hullámok ma látványosabbak. A Saint-Hospice kápolna csendes és száraz helyszín a nap zárásához.\n\nAz este a kikötő egyik hangulatos bárjában telik, miközben az eső kopog az ablakon, és a fények visszatükröződnek a vízen.",
             "ro": "Începeți ziua pe Promenade Maurice Rouvier; marea gri sub ploaie oferă un spectacol dramatic. Villa Ephrussi devine apoi refugiul perfect, oferind interioare somptuoase și uscate.\n\nLa prânz, explorați grădinile între reprizele de ploaie sau admirați-le de la adăpostul loggiilor. Un prânz prelungit în portul Saint-Jean vă va feri de intemperii.\n\nDupă-amiaza, o scurtă plimbare la Plage de Paloma vă permite să vedeți valurile agitate. Capela Saint-Hospice oferă un final de zi liniștit și ferit de umezeală.\n\nSeara se încheie confortabil într-un bar din port, ascultând ploaia și admirând reflexiile luminilor orașului în portul umed.",
             "en": "Start your day on Promenade Maurice Rouvier; the misty sea views have a unique, moody charm. Villa Ephrussi then provides the perfect dry sanctuary with its lavish indoor galleries.\n\nAt midday, catch the garden views between showers or enjoy them from the covered loggias. A leisurely lunch at the Port of Saint-Jean is the best way to wait out the heavier rain.\n\nIn the afternoon, head to Paloma Beach to watch the dramatic surf. The Saint-Hospice Chapel offers a peaceful, dry space to conclude your coastal exploration.\n\nSpend the evening in a cozy harbor-side bistro, watching the raindrops dance in the reflections of the yacht lights.",
-            "fr": "Commencez votre journée sur la promenade Maurice Rouvier ; la vue brumeuse sur la mer a un charme unique et mélancolique. La Villa Ephrussi offre ensuite un sanctuaire sec parfait avec ses somptueuses galeries intérieures.\n\nÀ la mi-journée, admirez les jardins entre deux averses ou depuis les loggias couvertes. Un déjeuner tranquille au port de Saint-Jean est le meilleur moyen d'attendre que la pluie se calme.\n\nL'après-midi, dirigez-vous vers la plage de Paloma pour observer le ressac spectaculaire. La chapelle Saint-Hospice offre un espace paisible et sec pour conclure votre exploration côtière.\n\nPassez la soirée dans un bistro confortable au bord du port, en regardant les gouttes de pluie danser dans les reflets des lumières des yachts."
+            "fr": "Commencez votre journée sur la Promenade Maurice Rouvier ; les vues marines embrumées ont un charme unique et mélancolique. La Villa Ephrussi offre ensuite le sanctuaire sec parfait avec ses somptueuses galeries intérieures.\n\nÀ la mi-journée, admirez les jardins entre les averses ou profitez-en depuis les loggias couvertes. Un déjeuner tranquille au port de Saint-Jean est le meilleur moyen d'attendre la pluie plus forte.\n\nL'après-midi, rendez-vous à la plage de la Paloma pour observer la houle spectaculaire. La chapelle Saint-Hospice offre un espace paisible et sec pour conclure votre exploration côtière.\n\nPassez la soirée dans un bistrot chaleureux au bord du port, en regardant les gouttes de pluie danser dans les reflets des lumières des yachts."
           },
           "stops": [
             {
@@ -577,7 +590,7 @@
                 "hu": "Viseljen csúszásmentes cipőt, mert a kövezet esőben síkos lehet.",
                 "ro": "Purtați încălțăminte aderentă, deoarece dalele pot fi alunecoase când sunt ude.",
                 "en": "Wear non-slip shoes as the paving stones can be slippery when wet.",
-                "fr": "Portez des chaussures antidérapantes car les pavés peuvent être glissants lorsqu'ils sont mouillés."
+                "fr": "Portez des chaussures antidérapantes car les pavés peuvent être glissants quand ils sont mouillés."
               }
             },
             {
@@ -597,7 +610,7 @@
                 "hu": "A francia kert aszfaltozott útjai esőben is jól járhatóak.",
                 "ro": "Aleile pavate din grădina franceză sunt accesibile chiar și pe ploaie.",
                 "en": "The paved paths in the French garden remain easily accessible in the rain.",
-                "fr": "Les allées pavées du jardin français restent facilement accessibles sous la pluie."
+                "fr": "Les allées pavées du jardin à la française restent facilement accessibles sous la pluie."
               }
             },
             {
@@ -607,7 +620,7 @@
                 "hu": "Válasszon fedett teraszos éttermet a kikötői kilátáshoz.",
                 "ro": "Alegeți un restaurant cu terasă acoperită pentru vedere la port.",
                 "en": "Choose a restaurant with a covered terrace for harbor views without getting wet.",
-                "fr": "Choisissez un restaurant avec une terrasse couverte pour une vue sur le port sans vous mouiller."
+                "fr": "Choisissez un restaurant avec terrasse couverte pour voir le port sans vous mouiller."
               }
             },
             {
@@ -617,7 +630,7 @@
                 "hu": "A parti étterem védelmet nyújt és remek kilátást a hullámzó öbölre.",
                 "ro": "Restaurantul de pe plajă oferă adăpost și o priveliște excelentă spre golf.",
                 "en": "The beach restaurant provides shelter and a great view of the stormy bay.",
-                "fr": "Le restaurant de la plage offre un abri et une vue imprenable sur la baie tempétueuse."
+                "fr": "Le restaurant de la plage offre un abri et une belle vue sur la baie orageuse."
               }
             },
             {
@@ -627,7 +640,7 @@
                 "hu": "Ideális helyszín egy száraz pihenőhöz és kulturális elmélyüléshez.",
                 "ro": "Un loc ideal pentru o pauză uscată și reculegere culturală.",
                 "en": "An ideal spot for a dry break and spiritual reflection.",
-                "fr": "Un endroit idéal pour une pause au sec et une réflexion spirituelle."
+                "fr": "Un lieu idéal pour une pause au sec et une réflexion spirituelle."
               }
             }
           ],
@@ -658,9 +671,9 @@
             ],
             "fr": [
               "La Villa Ephrussi est le meilleur refuge par mauvais temps sur la presqu'île.",
-              "Les sentiers du littoral peuvent être fermés en cas de fortes pluies ou de forte houle.",
-              "La plupart des cafés du port disposent de terrasses chauffées et couvertes.",
-              "Apportez un imperméable robuste ; les vents côtiers peuvent facilement casser les parapluies ici."
+              "Les sentiers côtiers (Sentier du Littoral) peuvent être fermés pendant de fortes pluies ou de fortes houles.",
+              "La plupart des cafés du port ont des places extérieures chauffées et couvertes.",
+              "Apportez un imperméable solide ; les vents côtiers peuvent facilement casser les parapluies ici."
             ]
           }
         },
@@ -670,7 +683,7 @@
             "hu": "Élvezze a lágy téli napsütést a Maurice Rouvier sétányon a nyári tömeg nélkül. A Villa Ephrussi eleganciája különösen érvényesül a tiszta téli fényben.\n\nDélben a kertek télen is zöldellő oázisok az egzotikus növényeknek köszönhetően. Egy melengető ebéd Saint-Jean faluban erőt ad a folytatáshoz.\n\nDélután a Paloma strand fényei fantasztikusak a fotózáshoz. Érjen el a Saint-Hospice kápolnához még a korai, 17:00 körüli naplemente előtt.\n\nAz este korán kezdődik; élvezze a kék órát a kikötőben, mielőtt a hűvös tengeri szellő elől egy barátságos étterembe húzódna.",
             "ro": "Bucurați-vă de soarele blând de iarnă pe Promenade Maurice Rouvier, fără aglomerația verii. Villa Ephrussi emană o eleganță aparte în lumina clară a iernii.\n\nLa prânz, grădinile rămân oaze verzi datorită plantelor exotice. Un prânz cald în satul Saint-Jean vă va oferi energia necesară pentru restul zilei.\n\nDupă-amiaza, lumina de la Plage de Paloma este fantastică pentru fotografii. Ajungeți la Capela Saint-Hospice înainte de apusul devreme, în jurul orei 17:00.\n\nSeara începe devreme; admirați „ora albastră” în port înainte ca briza rece să vă trimită spre confortul unui restaurant local.",
             "en": "Enjoy the mild winter sun on Promenade Maurice Rouvier without the summer crowds. Villa Ephrussi looks exceptionally elegant in the crisp, clear winter light.\n\nAt midday, the gardens remain lush green oases thanks to their exotic flora. A warming lunch in Saint-Jean village will recharge you for the afternoon walk.\n\nIn the afternoon, the lighting at Paloma Beach is spectacular for photography. Make sure to reach the Saint-Hospice Chapel before the early sunset around 5:00 PM.\n\nEvening comes early; enjoy the blue hour at the harbor before the chilly sea breeze leads you into a cozy local restaurant.",
-            "fr": "Profitez du doux soleil d'hiver sur la promenade Maurice Rouvier sans la foule estivale. La Villa Ephrussi est particulièrement élégante sous la lumière hivernale pure et cristalline.\n\nÀ la mi-journée, les jardins restent des oasis de verdure luxuriante grâce à leur flore exotique. Un déjeuner réconfortant dans le village de Saint-Jean vous rechargera pour la promenade de l'après-midi.\n\nL'après-midi, la lumière à la plage de Paloma est spectaculaire pour la photographie. Assurez-vous d'atteindre la chapelle Saint-Hospice avant le coucher du soleil précoce vers 17h00.\n\nLa soirée arrive tôt ; profitez de l'heure bleue sur le port avant que la brise marine fraîche ne vous guide vers un restaurant local chaleureux."
+            "fr": "Profitez du doux soleil hivernal sur la Promenade Maurice Rouvier sans la foule estivale. La Villa Ephrussi paraît exceptionnellement élégante sous la lumière hivernale claire et vive.\n\nÀ midi, les jardins restent de véritables oasis verdoyantes grâce à leur flore exotique. Un déjeuner réconfortant dans le village de Saint-Jean vous donnera de l'énergie pour la promenade de l'après-midi.\n\nL'après-midi, l'éclairage à la plage de la Paloma est spectaculaire pour la photographie. Veillez à atteindre la chapelle Saint-Hospice avant le coucher du soleil précoce vers 17:00.\n\nLa soirée arrive tôt ; profitez de l'heure bleue au port avant que la brise marine fraîche ne vous pousse vers un restaurant local chaleureux."
           },
           "stops": [
             {
@@ -730,7 +743,7 @@
                 "hu": "Nézze meg innen a korai naplementét a tenger felett.",
                 "ro": "Urmăriți de aici apusul devreme deasupra mării.",
                 "en": "Watch the early sunset over the sea from this vantage point.",
-                "fr": "Observez le coucher de soleil précoce sur la mer depuis ce point de vue."
+                "fr": "Admirez le coucher de soleil précoce sur la mer depuis ce point de vue."
               }
             }
           ],
@@ -760,10 +773,10 @@
               "Dress in layers to stay warm against the sea breeze in shaded areas."
             ],
             "fr": [
-              "Les températures diurnes sont souvent douces, entre 10 et 15°C.",
-              "Le soleil se couche dès 17h00 en décembre et janvier.",
-              "Certains établissements saisonniers de bord de plage ferment ; le port principal reste actif.",
-              "Habillez-vous par couches pour rester au chaud face à la brise marine dans les zones ombragées."
+              "Les températures diurnes sont souvent douces, autour de 10–15 °C (50–60 °F).",
+              "Le coucher du soleil a lieu dès 17:00 en décembre et janvier.",
+              "Certains établissements saisonniers en bord de mer ferment ; le port principal reste actif.",
+              "Habillez-vous en couches pour vous protéger de la brise maritime dans les zones ombragées."
             ]
           }
         }
@@ -812,7 +825,7 @@
             "hu": "Vannak kerékpártárolók a főbejáratnál.",
             "ro": "Există rastele de biciclete la intrarea principală.",
             "en": "There are bike racks at the main entrance.",
-            "fr": "Il y a des porte-vélos à l'entrée principale."
+            "fr": "Il y a des arceaux pour vélos à l'entrée principale."
           }
         },
         {
@@ -831,7 +844,7 @@
             "hu": "Élvezze a biciklizést a világítótoronyhoz vezető csendes úton.",
             "ro": "Bucurați-vă de plimbarea pe drumul puțin circulat către far.",
             "en": "Enjoy the ride on the quiet road leading to the lighthouse.",
-            "fr": "Profitez de la balade sur la route tranquille menant au phare."
+            "fr": "Profitez de la route tranquille qui mène au phare."
           }
         },
         {
@@ -850,7 +863,7 @@
             "hu": "Zárja le biztonságosan a biciklit, mielőtt lemegy a strandra.",
             "ro": "Încuiați bine bicicleta înainte de a merge la plajă.",
             "en": "Lock your bike securely before heading down to the beach.",
-            "fr": "Attachez solidement votre vélo avant de descendre à la plage."
+            "fr": "Verrouillez bien votre vélo avant de descendre à la plage."
           }
         },
         {
@@ -869,7 +882,7 @@
             "hu": "Az emelkedő a kápolnához rövid, de kissé meredek.",
             "ro": "Urcarea către capelă este scurtă, dar puțin abruptă.",
             "en": "The climb to the chapel is short but a bit steep.",
-            "fr": "La montée vers la chapelle est courte mais un peu raide."
+            "fr": "La montée jusqu'à la chapelle est courte mais un peu raide."
           }
         },
         {
@@ -897,7 +910,7 @@
         "hu": "Fedezze fel a félszigetet kerékpárral, Saint-Jean kikötőjéből indulva. Tekerjen fel a Villa Ephrussihoz, majd kövesse a festői parti utat a déli világítótoronyig.\n\nEgy pihentető palomai strandolás után az út a történelmi Saint-Hospice kápolnához vezet. Ez a túra ötvözi az építészeti remekműveket a vad tengerparti szakaszok természetes szépségével.",
         "ro": "Descoperiți peninsula cu bicicleta, pornind din portul Saint-Jean. Pedalați până la Villa Ephrussi, apoi urmați drumul de coastă pitoresc către farul sudic.\n\nDupă o pauză relaxantă la plaja Paloma, traseul duce la capela istorică Saint-Hospice. Acest tur combină punctele de atracție arhitecturale cu frumusețea naturală a zonelor de coastă sălbatice.",
         "en": "Explore the peninsula by bike, starting from the port of Saint-Jean. Cycle up to Villa Ephrussi and then follow the scenic coastal road to the southern lighthouse.\n\nAfter a relaxing break at Paloma Beach, the route leads to the historic Saint-Hospice chapel. This tour combines architectural highlights with the natural beauty of the wild coastal sections.",
-        "fr": "Explorez la presqu'île à vélo en partant du port de Saint-Jean. Montez jusqu'à la Villa Ephrussi puis suivez la route côtière panoramique jusqu'au phare au sud.\n\nAprès une pause relaxante à la plage de Paloma, l'itinéraire mène à la chapelle historique de Saint-Hospice. Ce tour combine des points forts architecturaux avec la beauté naturelle des sections côtières sauvages."
+        "fr": "Explorez la presqu'île à vélo, en partant du port de Saint-Jean. Montez jusqu'à la Villa Ephrussi puis suivez la route côtière pittoresque jusqu'au phare sud.\n\nAprès une pause détente à la plage de la Paloma, l'itinéraire mène à la chapelle historique Saint-Hospice. Cette boucle combine des points d'intérêt architecturaux et la beauté naturelle des sections côtières sauvages."
       },
       "gastro_picks": {
         "de": [
@@ -1026,10 +1039,10 @@
           "Wear sunscreen even while cycling."
         ],
         "fr": [
-          "Les routes sont étroites, faites attention aux voitures.",
-          "Un vélo électrique est fortement recommandé en raison des montées.",
+          "Les routes sont étroites, donc attention aux voitures.",
+          "Un vélo à assistance électrique est fortement recommandé en raison des côtes.",
           "Évitez les heures de pointe en fin d'après-midi.",
-          "Mettez de la crème solaire même en pédalant."
+          "Portez de la crème solaire même en roulant."
         ]
       },
       "variants": {
@@ -1038,7 +1051,8 @@
             "de": "Entdecken Sie die Halbinsel mit dem Fahrrad, beginnend am Hafen von Saint-Jean. Radeln Sie hinauf zur Villa Ephrussi und folgen Sie dann der malerischen Küstenstraße zum südlichen Leuchtturm.\n\nNach einer erholsamen Pause am Paloma Beach führt der Weg zur historischen Saint-Hospice Kapelle. Diese Tour kombiniert architektonische Highlights mit der natürlichen Schönheit der wilden Küstenabschnitte.",
             "hu": "Fedezze fel a félszigetet kerékpárral, Saint-Jean kikötőjéből indulva. Tekerjen fel a Villa Ephrussihoz, majd kövesse a festői parti utat a déli világítótoronyig.\n\nEgy pihentető palomai strandolás után az út a történelmi Saint-Hospice kápolnához vezet. Ez a túra ötvözi az építészeti remekműveket a vad tengerparti szakaszok természetes szépségével.",
             "ro": "Descoperiți peninsula cu bicicleta, pornind din portul Saint-Jean. Pedalați până la Villa Ephrussi, apoi urmați drumul de coastă pitoresc către farul sudic.\n\nDupă o pauză relaxantă la plaja Paloma, traseul duce la capela istorică Saint-Hospice. Acest tur combină punctele de atracție arhitecturale cu frumusețea naturală a zonelor de coastă sălbatice.",
-            "en": "Explore the peninsula by bike, starting from the port of Saint-Jean. Cycle up to Villa Ephrussi and then follow the scenic coastal road to the southern lighthouse.\n\nAfter a relaxing break at Paloma Beach, the route leads to the historic Saint-Hospice chapel. This tour combines architectural highlights with the natural beauty of the wild coastal sections."
+            "en": "Explore the peninsula by bike, starting from the port of Saint-Jean. Cycle up to Villa Ephrussi and then follow the scenic coastal road to the southern lighthouse.\n\nAfter a relaxing break at Paloma Beach, the route leads to the historic Saint-Hospice chapel. This tour combines architectural highlights with the natural beauty of the wild coastal sections.",
+            "fr": "Explorez la presqu'île à vélo, en partant du port de Saint-Jean. Montez jusqu'à la Villa Ephrussi puis suivez la route côtière pittoresque jusqu'au phare sud.\n\nAprès une pause détente à la plage de la Paloma, l'itinéraire mène à la chapelle historique Saint-Hospice. Cette boucle combine des points d'intérêt architecturaux et la beauté naturelle des sections côtières sauvages."
           },
           "stops": [
             {
@@ -1047,7 +1061,8 @@
                 "de": "Mieten Sie Ihr Fahrrad direkt im Dorf.",
                 "hu": "Bérelje ki a kerékpárt közvetlenül a faluban.",
                 "ro": "Închiriați bicicleta direct din sat.",
-                "en": "Rent your bike directly in the village."
+                "en": "Rent your bike directly in the village.",
+                "fr": "Louez votre vélo directement dans le village."
               }
             },
             {
@@ -1056,7 +1071,8 @@
                 "de": "Es gibt Fahrradständer am Haupteingang.",
                 "hu": "Vannak kerékpártárolók a főbejáratnál.",
                 "ro": "Există rastele de biciclete la intrarea principală.",
-                "en": "There are bike racks at the main entrance."
+                "en": "There are bike racks at the main entrance.",
+                "fr": "Il y a des arceaux pour vélos à l'entrée principale."
               }
             },
             {
@@ -1065,7 +1081,8 @@
                 "de": "Genießen Sie die Fahrt auf der wenig befahrenen Straße zum Leuchtturm.",
                 "hu": "Élvezze a biciklizést a világítótoronyhoz vezető csendes úton.",
                 "ro": "Bucurați-vă de plimbarea pe drumul puțin circulat către far.",
-                "en": "Enjoy the ride on the quiet road leading to the lighthouse."
+                "en": "Enjoy the ride on the quiet road leading to the lighthouse.",
+                "fr": "Profitez de la route tranquille qui mène au phare."
               }
             },
             {
@@ -1074,7 +1091,8 @@
                 "de": "Schließen Sie Ihr Rad sicher ab, bevor Sie zum Strand gehen.",
                 "hu": "Zárja le biztonságosan a biciklit, mielőtt lemegy a strandra.",
                 "ro": "Încuiați bine bicicleta înainte de a merge la plajă.",
-                "en": "Lock your bike securely before heading down to the beach."
+                "en": "Lock your bike securely before heading down to the beach.",
+                "fr": "Verrouillez bien votre vélo avant de descendre à la plage."
               }
             },
             {
@@ -1083,7 +1101,8 @@
                 "de": "Die Auffahrt zur Kapelle ist kurz, aber etwas steil.",
                 "hu": "Az emelkedő a kápolnához rövid, de kissé meredek.",
                 "ro": "Urcarea către capelă este scurtă, dar puțin abruptă.",
-                "en": "The climb to the chapel is short but a bit steep."
+                "en": "The climb to the chapel is short but a bit steep.",
+                "fr": "La montée jusqu'à la chapelle est courte mais un peu raide."
               }
             },
             {
@@ -1092,7 +1111,8 @@
                 "de": "Ein geschichtsträchtiger, friedlicher Ort mit Meerblick.",
                 "hu": "Történelmi, békés hely kilátással a tengerre.",
                 "ro": "Un loc istoric și liniștit cu vedere la mare.",
-                "en": "A historic, peaceful spot with sea views."
+                "en": "A historic, peaceful spot with sea views.",
+                "fr": "Un lieu historique et paisible avec vue sur la mer."
               }
             }
           ],
@@ -1202,6 +1222,12 @@
               "An e-bike is highly recommended due to the inclines.",
               "Avoid late afternoon rush hours.",
               "Wear sunscreen even while cycling."
+            ],
+            "fr": [
+              "Les routes sont étroites, donc attention aux voitures.",
+              "Un vélo à assistance électrique est fortement recommandé en raison des côtes.",
+              "Évitez les heures de pointe en fin d'après-midi.",
+              "Portez de la crème solaire même en roulant."
             ]
           }
         },
@@ -1211,7 +1237,7 @@
             "hu": "Az esős bringázás óvatosságot igényel a kikötőnél, de üresek az utak. A Villa Ephrussi kiváló hosszú megálló, ahol megszáradhatnak a ruhák.\n\nDélben tekerjen el a világítótoronyhoz, ahol a felcsapó hullámok látványa lenyűgöző. Egy meleg ebéd a faluban kötelező a nedves út után.\n\nDélután a Paloma strand és a kápolna a cél. Az eső áztatta fenyőerdők illata ilyenkor a legintenzívebb.\n\nAz este a biciklik leadásával és a kikötő melletti meghitt lazítással zárul, ahol az esőfüggöny mögött minden elcsendesedik.",
             "ro": "O plimbare cu bicicleta în ploaie necesită prudență, dar drumurile sunt libere. Villa Ephrussi este popasul ideal pentru a vă usca hainele.\n\nLa prânz, pedalați spre far, unde spectacolul valurilor ce se sparg de stânci este unic. Un prânz cald în sat este esențial după tura prin ploaie.\n\nDupă-amiaza vizitați Plage de Paloma și capela. Pădurile de pini ude emană un parfum intens și revigorant.\n\nSeara se încheie cu returnarea bicicletelor și o relaxare binemeritată lângă port, într-o atmosferă intimă.",
             "en": "Cycling in the rain requires care at the harbor but offers empty roads. Villa Ephrussi serves as a perfect extended stop to dry off and explore.\n\nAt midday, pedal to the lighthouse to see the spray crashing against the rocks. A warm meal in the village is mandatory after a damp ride.\n\nIn the afternoon, head to Paloma Beach and the chapel. The rain-soaked pine forests release a wonderful, intense Mediterranean fragrance.\n\nFinish the day by returning the bikes and enjoying a cozy evening near the harbor, where the atmosphere feels quiet and private.",
-            "fr": "Faire du vélo sous la pluie nécessite de la prudence au port mais offre des routes vides. La Villa Ephrussi constitue une escale prolongée parfaite pour se sécher et explorer.\n\nÀ la mi-journée, pédalez jusqu'au phare pour voir l'écume s'écraser contre les rochers. Un repas chaud dans le village est obligatoire après une balade humide.\n\nL'après-midi, dirigez-vous vers la plage de Paloma et la chapelle. Les pinèdes détrempées libèrent un parfum méditerranéen intense et merveilleux.\n\nTerminez la journée en rendant les vélos et en profitant d'une soirée chaleureuse près du port, où l'ambiance est calme et intimiste."
+            "fr": "Le cyclisme sous la pluie demande de la prudence au niveau du port mais offre des routes désertes. La Villa Ephrussi sert d'escale idéale pour se sécher et explorer.\n\nÀ midi, pédalez jusqu'au phare pour voir les embruns frapper les rochers. Un repas chaud au village est indispensable après une sortie humide.\n\nL'après-midi, rendez-vous à la plage de la Paloma et à la chapelle. Les forêts de pins humide dégagent un parfum méditerranéen intense et merveilleux.\n\nTerminez la journée en ramenant les vélos et en profitant d'une soirée cosy près du port, où l'atmosphère paraît calme et intime."
           },
           "stops": [
             {
@@ -1231,7 +1257,7 @@
                 "hu": "A kerékpártárolók a főbejárat közelében találhatóak.",
                 "ro": "Suporturile pentru biciclete se află lângă intrarea principală.",
                 "en": "Bicycle racks are located near the main entrance.",
-                "fr": "Les porte-vélos sont situés près de l'entrée principale."
+                "fr": "Les arceaux à vélos se trouvent près de l'entrée principale."
               }
             },
             {
@@ -1241,7 +1267,7 @@
                 "hu": "A világítótoronyhoz vezető úton tócsák lehetnek; sárvédő ajánlott.",
                 "ro": "Drumul spre far poate avea bălți; aripile la bicicletă sunt recomandate.",
                 "en": "The path to the lighthouse may have puddles; mudguards are advised.",
-                "fr": "Le sentier vers le phare peut présenter des flaques d'eau ; des garde-boue sont conseillés."
+                "fr": "Le chemin vers le phare peut comporter des flaques ; des garde-boues sont recommandés."
               }
             },
             {
@@ -1261,7 +1287,7 @@
                 "hu": "A rövid emelkedő nedves úton jó gumiabroncs-tapadást igényel.",
                 "ro": "Urcarea scurtă necesită o bună aderență a pneurilor pe carosabil ud.",
                 "en": "The short climb requires good tire grip on the wet surface.",
-                "fr": "La courte montée nécessite une bonne adhérence des pneus sur la surface mouillée."
+                "fr": "La courte montée nécessite une bonne adhérence des pneus sur surface mouillée."
               }
             },
             {
@@ -1271,7 +1297,7 @@
                 "hu": "Nyugodt hely egy rövid csendes perchez a fák alatt.",
                 "ro": "Un loc liniștit pentru un moment scurt de reculegere sub copaci.",
                 "en": "A peaceful spot for a brief quiet moment under the trees.",
-                "fr": "Un endroit paisible pour un court moment de calme sous les arbres."
+                "fr": "Un endroit paisible pour un bref moment de calme sous les arbres."
               }
             }
           ],
@@ -1301,10 +1327,10 @@
               "Some bike rental shops provide waterproof panniers for your gear."
             ],
             "fr": [
-              "Portez un équipement imperméable haute visibilité.",
-              "Vérifiez vos freins avant de partir ; les distances d'arrêt augmentent sur route mouillée.",
-              "Soyez prudent dans les virages du boulevard Général de Gaulle.",
-              "Certains loueurs de vélos proposent des sacoches étanches pour vos affaires."
+              "Portez des vêtements imperméables à haute visibilité.",
+              "Vérifiez vos freins avant de partir ; les distances de freinage augmentent sur routes mouillées.",
+              "Soyez prudent dans les virages du Boulevard Général de Gaulle.",
+              "Certaines boutiques de location proposent des sacoches étanches pour votre équipement."
             ]
           }
         },
@@ -1314,7 +1340,7 @@
             "hu": "A kikötő hűvös reggeli levegője felfrissít az első szakaszon. A Villa Ephrussi meleg belső terei és a tiszta téli égbolt pazar látványt nyújtanak.\n\nDélben tekerjen el a világítótoronyhoz, ahol a szél erősebben fújhat. Saint-Jean falu hangulatos kávézói hívogatnak egy pihenőre.\n\nDélután a Paloma strand következik. Használja ki az enyhe fényeket panorámafotókhoz, mielőtt 17:00 körül elkezd sötétedni.\n\nAz este a visszatekeréssel zárul a fogyatkozó fényben; ne feledkezzen meg a kerékpár világításáról a biztonságos hazaút érdekében.",
             "ro": "Aerul rece de dimineață din port este revigorant pentru prima etapă. Villa Ephrussi oferă apoi căldură și un decor magnific sub cerul senin de iarnă.\n\nLa prânz, pedalați spre far, unde vântul poate fi mai puternic. Satul Saint-Jean vă atrage cu cafenele primitoare pentru o pauză.\n\nDupă-amiaza, mergeți la Plage de Paloma. Profitați de lumina blândă pentru fotografii panoramice înainte de lăsarea serii, în jurul orei 17:00.\n\nSeara se încheie cu drumul de întoarcere în lumină slabă; asigurați-vă că farurile bicicletei funcționează pentru o revenire în siguranță.",
             "en": "The crisp morning air at the harbor is invigorating during the first leg. Villa Ephrussi then offers warmth and a magnificent backdrop under the clear winter sky.\n\nAt midday, pedal to the lighthouse, where the wind can be quite strong. Saint-Jean village beckons with cozy cafes for a quick warm-up break.\n\nIn the afternoon, head to Paloma Beach. Capture the mild winter light in panoramic photos before the sun begins to set around 5:00 PM.\n\nFinish your day with a ride in the fading light; remember to use your bike lights for a safe return to the starting point.",
-            "fr": "L'air frais du matin sur le port est revigorant lors de la première étape. La Villa Ephrussi offre ensuite chaleur et un cadre magnifique sous le ciel clair de l'hiver.\n\nÀ la mi-journée, pédalez jusqu'au phare, où le vent peut être assez fort. Le village de Saint-Jean vous attend avec ses cafés chaleureux pour une pause réchauffante.\n\nL'après-midi, dirigez-vous vers la plage de Paloma. Capturez la douce lumière hivernale sur des photos panoramiques avant que le soleil ne se couche vers 17h00.\n\nTerminez votre journée par une balade dans la lumière déclinante ; n'oubliez pas d'utiliser vos éclairages pour un retour en toute sécurité."
+            "fr": "L'air matinal vif au port est vivifiant pendant le premier tronçon. La Villa Ephrussi offre ensuite chaleur et un magnifique décor sous le ciel hivernal clair.\n\nÀ midi, pédalez jusqu'au phare, où le vent peut être assez fort. Le village de Saint-Jean invite à des cafés chaleureux pour une pause réchauffante.\n\nL'après-midi, rendez-vous à la plage de la Paloma. Capturez la lumière hivernale douce en panoramas avant que le soleil ne commence à se coucher vers 17:00.\n\nTerminez votre journée par une sortie au crépuscule ; pensez à allumer vos feux pour un retour en toute sécurité au point de départ."
           },
           "stops": [
             {
@@ -1324,7 +1350,7 @@
                 "hu": "Viseljen kesztyűt a hűvös reggeli menetszél ellen.",
                 "ro": "Purtați mănuși pentru a vă proteja de vântul rece de dimineață.",
                 "en": "Wear gloves to protect against the chilly morning headwind.",
-                "fr": "Portez des gants pour vous protéger du vent de face frais du matin."
+                "fr": "Portez des gants pour vous protéger de la bise matinale fraîche."
               }
             },
             {
@@ -1334,7 +1360,7 @@
                 "hu": "A kávézó télen kiváló meleg italokat kínál.",
                 "ro": "Cafeneaua oferă băuturi calde excelente pe timpul iernii.",
                 "en": "The cafeteria offers excellent warm beverages during winter.",
-                "fr": "La cafétéria propose d'excellentes boissons chaudes pendant l'hiver."
+                "fr": "La cafétéria propose d'excellentes boissons chaudes en hiver."
               }
             },
             {
@@ -1364,7 +1390,7 @@
                 "hu": "Élvezze a tágas tengeri kilátást a tiszta téli fényben.",
                 "ro": "Admirați vederea largă spre mare în lumina clară de iarnă.",
                 "en": "Enjoy the expansive sea views in the crisp winter light.",
-                "fr": "Profitez de la vue imprenable sur la mer sous la lumière pure de l'hiver."
+                "fr": "Profitez des vastes vues sur la mer dans la lumière hivernale claire."
               }
             },
             {
@@ -1404,10 +1430,10 @@
               "Plan to be back at your destination by 5:15 PM at the latest."
             ],
             "fr": [
-              "Assurez-vous que vos éclairages de vélo sont parfaitement fonctionnels.",
-              "Portez des vêtements coupe-vent, surtout pour les descentes.",
-              "Le soleil disparaît tôt derrière les collines en hiver.",
-              "Prévoyez d'être de retour à votre destination à 17h15 au plus tard."
+              "Assurez-vous que les feux de votre vélo sont pleinement fonctionnels.",
+              "Portez des vêtements coupe-vent, surtout pour les sections en descente.",
+              "Le soleil disparaît derrière les collines tôt en hiver.",
+              "Prévoyez d'être de retour à votre destination au plus tard à 17:15."
             ]
           }
         }
@@ -1456,7 +1482,7 @@
             "hu": "Használja a 'Petit Port' parkolóházat.",
             "ro": "Folosiți parcarea supraetajată 'Petit Port'.",
             "en": "Use the 'Petit Port' parking garage.",
-            "fr": "Utilisez le parking couvert 'Petit Port'."
+            "fr": "Utilisez le parking « Petit Port »."
           }
         },
         {
@@ -1475,7 +1501,7 @@
             "hu": "Kevés parkolóhely van a kápolnánál, érkezzen időben.",
             "ro": "Sunt puține locuri de parcare la capelă, veniți la timp.",
             "en": "There are few parking spots at the chapel, so arrive on time.",
-            "fr": "Il y a peu de places à la chapelle, arrivez donc à l'heure."
+            "fr": "Il y a peu de places à la chapelle, arrivez à l'heure."
           }
         },
         {
@@ -1494,7 +1520,7 @@
             "hu": "Parkoljon az úton, és tegye meg gyalog az utolsó szakaszt.",
             "ro": "Parcați pe marginea drumului și parcurgeți ultima parte pe jos.",
             "en": "Park on the road and walk the final section.",
-            "fr": "Garez-vous sur la route et terminez la dernière section à pied."
+            "fr": "Garez-vous sur la route et marchez la dernière section."
           }
         },
         {
@@ -1513,7 +1539,7 @@
             "hu": "A Paloma Beach valet parkolása nyáron nagyon hasznos.",
             "ro": "Serviciul de valet de la Paloma Beach este util vara.",
             "en": "Paloma Beach valet parking is helpful in summer.",
-            "fr": "Le service de voiturier de la plage de Paloma est utile en été."
+            "fr": "Le service de voiturier de la plage de la Paloma est utile en été."
           }
         },
         {
@@ -1532,7 +1558,7 @@
             "hu": "Középkori falu egy sziklán, panorámás kilátással.",
             "ro": "Un sat medieval pe o stâncă cu vedere panoramică.",
             "en": "A medieval village on a rock with panoramic views.",
-            "fr": "Un village médiéval sur un rocher avec des vues panoramiques."
+            "fr": "Un village médiéval perché sur un rocher offrant des vues panoramiques."
           }
         }
       ],
@@ -1541,7 +1567,7 @@
         "hu": "Autóval kényelmesen elérheti a félsziget összes pontját. Kezdjen korán a Villa Ephrussinál, hogy biztosítson parkolóhelyet. Ezután fedezze fel a kikötőt és a Saint-Hospice kápolnát a keleti oldalon.\n\nA palomai strandolás után az autó lehetővé teszi, hogy gyorsan átugorjon a közeli Èze hegyi falujába, ahonnan lélegzetelállító kilátás nyílik az egész Riviérára.",
         "ro": "Cu mașina puteți ajunge confortabil în toate colțurile peninsulei. Începeți devreme la Villa Ephrussi pentru a vă asigura un loc de parcare. Apoi, explorați portul și capela Saint-Hospice din extremitatea estică.\n\nDupă vizita la plaja Paloma, mașina vă permite o excursie rapidă în satul montan apropiat Èze, care oferă o priveliște uluitoare asupra întregii Riviere.",
         "en": "By car, you can comfortably reach all corners of the peninsula. Start early at Villa Ephrussi to secure a parking spot. Then explore the harbor and the Saint-Hospice chapel at the eastern end.\n\nAfter visiting Paloma Beach, the car allows for a quick side trip to the nearby mountain village of Èze, offering breathtaking views over the entire Riviera.",
-        "fr": "En voiture, vous pouvez rejoindre confortablement tous les coins de la presqu'île. Commencez tôt à la Villa Ephrussi pour garantir une place de stationnement. Explorez ensuite le port et la chapelle Saint-Hospice à l'extrémité est.\n\nAprès avoir visité la plage de Paloma, la voiture permet une escapade rapide au village perché voisin d'Èze, offrant des vues époustouflantes sur toute la Riviera."
+        "fr": "En voiture, vous pouvez rejoindre confortablement tous les recoins de la presqu’île. Partez tôt de la Villa Ephrussi pour garantir une place de parking. Ensuite, explorez le port et la chapelle Saint-Hospice à l’extrémité est.\n\nAprès avoir visité la plage de la Paloma, la voiture permet une courte escapade jusqu’au village perché d’Èze, qui offre des vues à couper le souffle sur toute la Riviera."
       },
       "gastro_picks": {
         "de": [
@@ -1671,9 +1697,9 @@
         ],
         "fr": [
           "Les frais de stationnement sont très élevés en été.",
-          "Les virages serrés sur la Basse Corniche nécessitent de la prudence.",
-          "De nombreux horodateurs n'acceptent que les cartes de crédit.",
-          "Une petite voiture est avantageuse sur la presqu'île."
+          "Les virages serrés de la Basse Corniche exigent de la prudence.",
+          "De nombreux horodateurs n’acceptent que les cartes bancaires.",
+          "Une petite voiture est avantageuse sur la presqu’île."
         ]
       },
       "variants": {
@@ -1682,7 +1708,8 @@
             "de": "Mit dem Auto erreichen Sie bequem alle Ecken der Halbinsel. Beginnen Sie früh bei der Villa Ephrussi, um einen Parkplatz zu sichern. Erkunden Sie danach den Hafen und die Kapelle Saint-Hospice am östlichen Ende.\n\nNach dem Strandbesuch am Paloma Beach ermöglicht das Auto einen schnellen Abstecher in das nahegelegene Bergdorf Èze, das einen atemberaubenden Blick über die gesamte Riviera bietet.",
             "hu": "Autóval kényelmesen elérheti a félsziget összes pontját. Kezdjen korán a Villa Ephrussinál, hogy biztosítson parkolóhelyet. Ezután fedezze fel a kikötőt és a Saint-Hospice kápolnát a keleti oldalon.\n\nA palomai strandolás után az autó lehetővé teszi, hogy gyorsan átugorjon a közeli Èze hegyi falujába, ahonnan lélegzetelállító kilátás nyílik az egész Riviérára.",
             "ro": "Cu mașina puteți ajunge confortabil în toate colțurile peninsulei. Începeți devreme la Villa Ephrussi pentru a vă asigura un loc de parcare. Apoi, explorați portul și capela Saint-Hospice din extremitatea estică.\n\nDupă vizita la plaja Paloma, mașina vă permite o excursie rapidă în satul montan apropiat Èze, care oferă o priveliște uluitoare asupra întregii Riviere.",
-            "en": "By car, you can comfortably reach all corners of the peninsula. Start early at Villa Ephrussi to secure a parking spot. Then explore the harbor and the Saint-Hospice chapel at the eastern end.\n\nAfter visiting Paloma Beach, the car allows for a quick side trip to the nearby mountain village of Èze, offering breathtaking views over the entire Riviera."
+            "en": "By car, you can comfortably reach all corners of the peninsula. Start early at Villa Ephrussi to secure a parking spot. Then explore the harbor and the Saint-Hospice chapel at the eastern end.\n\nAfter visiting Paloma Beach, the car allows for a quick side trip to the nearby mountain village of Èze, offering breathtaking views over the entire Riviera.",
+            "fr": "En voiture, vous pouvez rejoindre confortablement tous les recoins de la presqu’île. Partez tôt de la Villa Ephrussi pour garantir une place de parking. Ensuite, explorez le port et la chapelle Saint-Hospice à l’extrémité est.\n\nAprès avoir visité la plage de la Paloma, la voiture permet une courte escapade jusqu’au village perché d’Èze, qui offre des vues à couper le souffle sur toute la Riviera."
           },
           "stops": [
             {
@@ -1691,7 +1718,8 @@
                 "de": "Kostenlose Parkplätze stehen direkt an der Villa zur Verfügung.",
                 "hu": "Ingyenes parkoló áll rendelkezésre közvetlenül a villánál.",
                 "ro": "Parcare gratuită disponibilă direct la vilă.",
-                "en": "Free parking is available directly at the villa."
+                "en": "Free parking is available directly at the villa.",
+                "fr": "Un parking gratuit est disponible directement à la villa."
               }
             },
             {
@@ -1700,7 +1728,8 @@
                 "de": "Nutzen Sie das Parkhaus 'Petit Port'.",
                 "hu": "Használja a 'Petit Port' parkolóházat.",
                 "ro": "Folosiți parcarea supraetajată 'Petit Port'.",
-                "en": "Use the 'Petit Port' parking garage."
+                "en": "Use the 'Petit Port' parking garage.",
+                "fr": "Utilisez le parking souterrain 'Petit Port'."
               }
             },
             {
@@ -1709,7 +1738,8 @@
                 "de": "Es gibt nur wenige Parkplätze an der Kapelle, kommen Sie pünktlich.",
                 "hu": "Kevés parkolóhely van a kápolnánál, érkezzen időben.",
                 "ro": "Sunt puține locuri de parcare la capelă, veniți la timp.",
-                "en": "There are few parking spots at the chapel, so arrive on time."
+                "en": "There are few parking spots at the chapel, so arrive on time.",
+                "fr": "Il y a peu de places de parking à la chapelle, arrivez à l’heure."
               }
             },
             {
@@ -1718,7 +1748,8 @@
                 "de": "Parken Sie an der Straße und gehen Sie den letzten Weg zu Fuß.",
                 "hu": "Parkoljon az úton, és tegye meg gyalog az utolsó szakaszt.",
                 "ro": "Parcați pe marginea drumului și parcurgeți ultima parte pe jos.",
-                "en": "Park on the road and walk the final section."
+                "en": "Park on the road and walk the final section.",
+                "fr": "Garez-vous sur la route et marchez pour la dernière portion."
               }
             },
             {
@@ -1727,7 +1758,8 @@
                 "de": "Der Valet-Service am Paloma Beach ist im Sommer hilfreich.",
                 "hu": "A Paloma Beach valet parkolása nyáron nagyon hasznos.",
                 "ro": "Serviciul de valet de la Paloma Beach este util vara.",
-                "en": "Paloma Beach valet parking is helpful in summer."
+                "en": "Paloma Beach valet parking is helpful in summer.",
+                "fr": "Le service de voiturier de la plage de la Paloma est utile en été."
               }
             },
             {
@@ -1736,7 +1768,8 @@
                 "de": "Ein mittelalterliches Dorf auf einem Felsen mit Panoramablick.",
                 "hu": "Középkori falu egy sziklán, panorámás kilátással.",
                 "ro": "Un sat medieval pe o stâncă cu vedere panoramică.",
-                "en": "A medieval village on a rock with panoramic views."
+                "en": "A medieval village on a rock with panoramic views.",
+                "fr": "Un village médiéval perché sur un rocher offrant des vues panoramiques."
               }
             }
           ],
@@ -1846,6 +1879,12 @@
               "Sharp curves on the Basse Corniche require caution.",
               "Many parking meters only accept credit cards.",
               "A small car is advantageous on the peninsula."
+            ],
+            "fr": [
+              "Les frais de stationnement sont très élevés en été.",
+              "Les virages serrés de la Basse Corniche exigent de la prudence.",
+              "De nombreux horodateurs n’acceptent que les cartes bancaires.",
+              "Une petite voiture est avantageuse sur la presqu’île."
             ]
           }
         },
@@ -1855,7 +1894,7 @@
             "hu": "Autóval Saint-Jean-Cap-Ferrat esőben is kényelmesen felfedezhető. Kezdjen szárazon a Villa Ephrussi műkincsei között.\n\nDélben parkoljon le a kikötőnél, és élvezze az ebédet, miközben az esőcseppeket figyeli a vízen. A világítótorony az autóból is jól látható.\n\nDélután guruljon el a Paloma strandhoz és a kápolnához. Az autó bármikor menedéket nyújt a záporok elől.\n\nAz este egy rövid kiruccanással zárul Èze falujába, ahol a középkori városka kivilágított, vizes utcái misztikus hangulatot árasztanak.",
             "ro": "Explorarea Saint-Jean-Cap-Ferrat cu mașina este ideală pe ploaie. Începeți confortabil la Villa Ephrussi, admirând comorile de artă.\n\nLa prânz, parcați în siguranță în port și savurați masa urmărind ploaia deasupra apei. Farul poate fi admirat chiar din mașină.\n\nDupă-amiaza conduceți spre Plage de Paloma și capelă. Vehiculul vă oferă protecție constantă împotriva reprizelor de ploaie.\n\nSeara se încheie cu o vizită în Èze Village, unde străzile medievale umede și luminate creează o atmosferă mistică.",
             "en": "Exploring Saint-Jean-Cap-Ferrat by car is the most comfortable option on a rainy day. Start dry at Villa Ephrussi, immersing yourself in its art collections.\n\nAt midday, park easily at the harbor and enjoy a premium lunch while watching the raindrops on the water. The lighthouse can be viewed from the comfort of your car.\n\nIn the afternoon, drive to Paloma Beach and the chapel. The car provides instant shelter whenever a heavy shower starts.\n\nConclude your day with a short trip to Èze Village, where the illuminated wet cobblestones of the medieval town create a mystical aura.",
-            "fr": "Explorer Saint-Jean-Cap-Ferrat en voiture est l'option la plus confortable par temps de pluie. Commencez au sec à la Villa Ephrussi, en vous imprégnant de ses collections d'art.\n\nÀ la mi-journée, garez-vous facilement au port et profitez d'un déjeuner de qualité tout en regardant les gouttes de pluie sur l'eau. Le phare peut être observé depuis le confort de votre voiture.\n\nL'après-midi, conduisez jusqu'à la plage de Paloma et la chapelle. La voiture offre un abri instantané dès qu'une forte averse commence.\n\nConcluez votre journée par une courte virée au village d'Èze, où les pavés mouillés et éclairés de la ville médiévale créent une aura mystique."
+            "fr": "Explorer Saint-Jean-Cap-Ferrat en voiture est l’option la plus confortable par temps pluvieux. Commencez au sec à la Villa Ephrussi et plongez dans ses collections d’art.\n\nÀ midi, garez-vous facilement au port et profitez d’un déjeuner de qualité en regardant les gouttes tomber sur l’eau. Le phare peut être observé depuis le confort de votre voiture.\n\nL’après-midi, conduisez jusqu’à la plage de la Paloma et à la chapelle. La voiture offre un abri instantané à chaque averse violente.\n\nTerminez votre journée par une courte escapade à Èze Village, où les pavés mouillés et illuminés de la ville médiévale créent une aura mystique."
           },
           "stops": [
             {
@@ -1885,7 +1924,7 @@
                 "hu": "Szinte közvetlenül a kápolna bejáratáig fel lehet hajtani.",
                 "ro": "Puteți conduce aproape până la intrarea în capelă.",
                 "en": "You can drive almost right up to the entrance of the chapel.",
-                "fr": "Vous pouvez conduire presque jusqu'à l'entrée de la chapelle."
+                "fr": "Vous pouvez presque conduire jusqu’à l’entrée de la chapelle."
               }
             },
             {
@@ -1915,7 +1954,7 @@
                 "hu": "A falu lábánál lévő parkolóház esőben is jól megközelíthető.",
                 "ro": "Parcarea de la baza satului este ușor accesibilă chiar și pe ploaie.",
                 "en": "The parking garage at the base of the village is easily accessible in the rain.",
-                "fr": "Le parking au pied du village est facilement accessible sous la pluie."
+                "fr": "Le parking à la base du village est facilement accessible sous la pluie."
               }
             }
           ],
@@ -1945,10 +1984,10 @@
               "Visibility can be significantly reduced on panoramic routes during heavy rain."
             ],
             "fr": [
-              "Conduisez avec une prudence accrue sur les routes côtières étroites lorsqu'elles sont mouillées.",
-              "Trouver une place de parking est généralement beaucoup plus facile par temps de pluie.",
-              "Surveillez les fermetures de routes dues aux risques de chutes de pierres sur les corniches.",
-              "La visibilité peut être considérablement réduite sur les routes panoramiques sous de fortes pluies."
+              "Conduisez avec une prudence accrue sur les routes côtières étroites quand elles sont mouillées.",
+              "Trouver une place est généralement beaucoup plus facile par temps de pluie.",
+              "Surveillez les fermetures de route dues au risque d’éboulement sur les Corniches.",
+              "La visibilité peut être fortement réduite sur les routes panoramiques pendant de fortes pluies."
             ]
           }
         },
@@ -1958,7 +1997,7 @@
             "hu": "A tél a legjobb időszak a félsziget bejárására parkolási gondok nélkül. A Villa Ephrussi fenséges nyugalommal fogadja.\n\nDélben Saint-Jean kikötője pihentető környezetet kínál egy napsütéses ebédhez. A világítótorony markánsan emelkedik a mélykék téli égbolt elé.\n\nDélután a Paloma strand és a kápolna következik. A tiszta levegő miatt akár Olaszországig is el lehet látni.\n\nAz este Èze falujában zárul. A középkori várváros téli kivilágítása varázslatos befejezése a napnak.",
             "ro": "Iarna este cel mai bun moment pentru a explora capul fără grija parcării. Villa Ephrussi vă întâmpină cu o liniște maiestuoasă.\n\nLa prânz, portul Saint-Jean oferă o atmosferă relaxată pentru un prânz la soare. Farul se profilează clar pe cerul albastru intens de iarnă.\n\nDupă-amiaza vizitați Plage de Paloma și capela. Claritatea aerului permite o vizibilitate incredibilă până spre Italia.\n\nSeara se încheie în Èze Village. Iluminatul de iarnă al orașului fortificat este un final magic pentru această zi.",
             "en": "Winter is the best time to drive around the Cape without any parking hassles. Villa Ephrussi welcomes you with majestic tranquility.\n\nAt midday, the Port of Saint-Jean offers a relaxed atmosphere for a sunny lunch. The lighthouse stands out strikingly against the deep blue winter sky.\n\nIn the afternoon, visit Paloma Beach and the chapel. The exceptional air clarity often allows views all the way to Italy.\n\nConclude your evening with a visit to Èze Village. The winter illumination of the hilltop town is a magical end to your journey.",
-            "fr": "L'hiver est le meilleur moment pour parcourir le Cap sans soucis de stationnement. La Villa Ephrussi vous accueille dans une tranquillité majestueuse.\n\nÀ la mi-journée, le port de Saint-Jean offre une atmosphère détendue pour un déjeuner ensoleillé. Le phare se détache nettement sur le ciel bleu profond de l'hiver.\n\nL'après-midi, visitez la plage de Paloma et la chapelle. La clarté exceptionnelle de l'air permet souvent de voir jusqu'en Italie.\n\nTerminez votre soirée par une visite du village d'Èze. L'illumination hivernale de la ville perchée clôture merveilleusement votre voyage."
+            "fr": "L’hiver est la meilleure période pour faire le tour du Cap sans tracas de stationnement. La Villa Ephrussi vous accueille dans une majestueuse quiétude.\n\nÀ midi, le port de Saint-Jean offre une atmosphère détendue pour un déjeuner ensoleillé. Le phare se détache de façon frappante sur le bleu profond du ciel hivernal.\n\nL’après-midi, visitez la plage de la Paloma et la chapelle. La clarté exceptionnelle de l’air permet souvent d’apercevoir jusqu’en Italie.\n\nTerminez votre soirée par une visite du village d’Èze. L’illumination hivernale de la cité perchée offre une fin de voyage magique."
           },
           "stops": [
             {
@@ -1968,7 +2007,7 @@
                 "hu": "Télen gond nélkül talál parkolóhelyet közvetlenül a bejáratnál.",
                 "ro": "Iarna veți găsi ușor un loc de parcare chiar lângă intrare.",
                 "en": "In winter, you'll easily find a parking spot right at the entrance.",
-                "fr": "En hiver, vous trouverez facilement une place juste devant l'entrée."
+                "fr": "En hiver, vous trouverez facilement une place de parking juste à l’entrée."
               }
             },
             {
@@ -1978,7 +2017,7 @@
                 "hu": "A kikötői parkolás az utószezonban gyakran ingyenes vagy olcsóbb.",
                 "ro": "Parcarea în port este adesea gratuită sau mai ieftină în extrasezon.",
                 "en": "Harbor parking is often free or cheaper during the off-season.",
-                "fr": "Le parking du port est souvent gratuit ou moins cher hors saison."
+                "fr": "Le stationnement au port est souvent gratuit ou moins cher en basse saison."
               }
             },
             {
@@ -1988,7 +2027,7 @@
                 "hu": "A kápolnánál lévő parkoló remek kilátást nyújt a pihenőkhöz.",
                 "ro": "Parcarea de la capelă oferă o priveliște excelentă pentru pauze.",
                 "en": "The parking area at the chapel offers great views for short breaks.",
-                "fr": "Le parking de la chapelle offre de superbes vues pour de courtes pauses."
+                "fr": "L’aire de stationnement de la chapelle offre de belles vues pour de courtes pauses."
               }
             },
             {
@@ -1998,7 +2037,7 @@
                 "hu": "A világítótoronyhoz vezető utak télen nagyon csendesek.",
                 "ro": "Drumurile spre far sunt foarte liniștite pe timpul iernii.",
                 "en": "The roads leading to the lighthouse are very quiet in winter.",
-                "fr": "Les routes menant au phare sont très calmes en hiver."
+                "fr": "Les routes menant au phare sont très tranquilles en hiver."
               }
             },
             {
@@ -2018,7 +2057,7 @@
                 "hu": "Télen az Èze-i parkolási helyzet lényegesen egyszerűbb.",
                 "ro": "Iarna, situația parcărilor în Èze este mult mai relaxată.",
                 "en": "In winter, the parking situation in Èze is much more manageable.",
-                "fr": "En hiver, le stationnement à Èze est beaucoup plus gérable."
+                "fr": "En hiver, la situation du stationnement à Èze est beaucoup plus gérable."
               }
             }
           ],
@@ -2048,10 +2087,10 @@
               "Check your tire pressure, as it can drop slightly in colder weather."
             ],
             "fr": [
-              "Profitez de la hors-saison pour des trajets panoramiques sans trafic.",
-              "Le soleil se couche tôt ; planifiez vos déplacements pendant les heures de jour.",
+              "Profitez de la basse saison pour des balades panoramiques sans trafic.",
+              "Le soleil se couche tôt ; planifiez vos trajets en journée.",
               "Les routes de la Moyenne et de la Grande Corniche offrent la meilleure visibilité en hiver.",
-              "Vérifiez la pression de vos pneus, car elle peut baisser légèrement par temps froid."
+              "Vérifiez la pression de vos pneus, car elle peut légèrement baisser par temps froid."
             ]
           }
         }
@@ -2081,7 +2120,7 @@
             "hu": "Használja a 15-ös buszt Nizzából vagy Beaulieu-ből.",
             "ro": "Folosiți autobuzul 15 din Nisa sau Beaulieu.",
             "en": "Use bus line 15 from Nice or Beaulieu.",
-            "fr": "Prenez la ligne 15 depuis Nice ou Beaulieu."
+            "fr": "Prenez le bus ligne 15 depuis Nice ou Beaulieu."
           }
         },
         {
@@ -2100,7 +2139,7 @@
             "hu": "A 'Saint-Jean-Village' megálló közvetlenül a központban van.",
             "ro": "Stația 'Saint-Jean-Village' este chiar în centru.",
             "en": "The 'Saint-Jean-Village' stop is right in the center.",
-            "fr": "L'arrêt 'Saint-Jean-Village' se trouve en plein centre."
+            "fr": "L’arrêt 'Saint-Jean-Village' se trouve en plein centre."
           }
         },
         {
@@ -2119,7 +2158,7 @@
             "hu": "A falutól egy rövid séta a strand.",
             "ro": "Din sat este o scurtă plimbare până la plajă.",
             "en": "It's a short walk from the village to the beach.",
-            "fr": "La plage est à quelques minutes à pied du village."
+            "fr": "C’est une courte marche du village jusqu’à la plage."
           }
         },
         {
@@ -2138,7 +2177,7 @@
             "hu": "A 'Point Saint-Hospice' gyalogút a Paloma strandnál kezdődik.",
             "ro": "Traseul 'Point Saint-Hospice' începe de la plaja Paloma.",
             "en": "The 'Point Saint-Hospice' hiking path starts at Paloma Beach.",
-            "fr": "Le sentier de randonnée 'Pointe Saint-Hospice' commence à la plage de Paloma."
+            "fr": "Le sentier de randonnée 'Point Saint-Hospice' commence à la plage de la Paloma."
           }
         },
         {
@@ -2157,7 +2196,7 @@
             "hu": "Csendes lezárás a visszabuszozás előtt.",
             "ro": "Un final liniștit înainte de întoarcerea cu autobuzul.",
             "en": "A quiet finish before taking the bus back.",
-            "fr": "Une fin de journée paisible avant de reprendre le bus."
+            "fr": "Une fin paisible avant de reprendre le bus."
           }
         }
       ],
@@ -2166,7 +2205,7 @@
         "hu": "A 15-ös busz a legjobb módja Cap Ferrat felfedezésének parkolási gondok nélkül. Közvetlenül a Villa Ephrussihoz és Saint-Jean központjába visz.\n\nA kikötői ebéd után sétáljon el a Paloma strandra, majd tovább a kápolnához. A jól kiépített buszhálózat ideálisan összeköti a félszigetet Nizzával és Villefranche-sal.",
         "ro": "Autobuzul 15 este cea mai bună modalitate de a explora Cap Ferrat fără grija parcării. Vă lasă chiar la Villa Ephrussi și în centrul localității Saint-Jean.\n\nDupă prânzul în port, mergeți pe jos la plaja Paloma și mai departe la capelă. Rețeaua de autobuze conectează ideal peninsula de Nisa și Villefranche.",
         "en": "Bus line 15 is the best way to explore Cap Ferrat without parking worries. It takes you directly to Villa Ephrussi and the center of Saint-Jean.\n\nAfter lunch in the port, walk to Paloma Beach and then on to the chapel. The well-established bus network ideally connects the peninsula with Nice and Villefranche.",
-        "fr": "La ligne de bus 15 est le meilleur moyen d'explorer le Cap Ferrat sans soucis de stationnement. Elle vous dépose directement à la Villa Ephrussi et au centre de Saint-Jean.\n\nAprès un déjeuner sur le port, marchez jusqu'à la plage de Paloma puis continuez vers la chapelle. Le réseau de bus bien établi relie idéalement la presqu'île à Nice et Villefranche."
+        "fr": "La ligne de bus 15 est le meilleur moyen d’explorer Cap Ferrat sans souci de stationnement. Elle vous conduit directement à la Villa Ephrussi et au centre de Saint-Jean.\n\nAprès le déjeuner au port, marchez jusqu’à la plage de la Paloma puis à la chapelle. Le réseau de bus bien établi relie idéalement la presqu’île à Nice et Villefranche."
       },
       "gastro_picks": {
         "de": [
@@ -2295,10 +2334,10 @@
           "The last evening connection is often earlier than expected."
         ],
         "fr": [
-          "Validez votre ticket dès la montée dans le bus.",
+          "Validez votre titre de transport à la montée dans le bus.",
           "Les bus circulent environ toutes les 20 minutes en été.",
-          "Téléchargez l'application 'Lignes d'Azur' pour les infos en temps réel.",
-          "La dernière correspondance le soir est souvent plus tôt qu'on ne le pense."
+          "Téléchargez l’application 'Lignes d’Azur' pour des infos en temps réel.",
+          "La dernière liaison du soir est souvent plus tôt que prévu."
         ]
       },
       "variants": {
@@ -2307,7 +2346,8 @@
             "de": "Der Bus 15 ist der beste Weg, um Cap Ferrat ohne Parkplatzsorgen zu erkunden. Er bringt Sie direkt zur Villa Ephrussi und ins Zentrum von Saint-Jean.\n\nNach dem Mittagessen im Hafen spazieren Sie zum Paloma Beach und weiter zur Kapelle. Das gut ausgebaute Busnetz verbindet die Halbinsel ideal mit Nizza und Villefranche.",
             "hu": "A 15-ös busz a legjobb módja Cap Ferrat felfedezésének parkolási gondok nélkül. Közvetlenül a Villa Ephrussihoz és Saint-Jean központjába visz.\n\nA kikötői ebéd után sétáljon el a Paloma strandra, majd tovább a kápolnához. A jól kiépített buszhálózat ideálisan összeköti a félszigetet Nizzával és Villefranche-sal.",
             "ro": "Autobuzul 15 este cea mai bună modalitate de a explora Cap Ferrat fără grija parcării. Vă lasă chiar la Villa Ephrussi și în centrul localității Saint-Jean.\n\nDupă prânzul în port, mergeți pe jos la plaja Paloma și mai departe la capelă. Rețeaua de autobuze conectează ideal peninsula de Nisa și Villefranche.",
-            "en": "Bus line 15 is the best way to explore Cap Ferrat without parking worries. It takes you directly to Villa Ephrussi and the center of Saint-Jean.\n\nAfter lunch in the port, walk to Paloma Beach and then on to the chapel. The well-established bus network ideally connects the peninsula with Nice and Villefranche."
+            "en": "Bus line 15 is the best way to explore Cap Ferrat without parking worries. It takes you directly to Villa Ephrussi and the center of Saint-Jean.\n\nAfter lunch in the port, walk to Paloma Beach and then on to the chapel. The well-established bus network ideally connects the peninsula with Nice and Villefranche.",
+            "fr": "La ligne de bus 15 est le meilleur moyen d’explorer Cap Ferrat sans souci de stationnement. Elle vous conduit directement à la Villa Ephrussi et au centre de Saint-Jean.\n\nAprès le déjeuner au port, marchez jusqu’à la plage de la Paloma puis à la chapelle. Le réseau de bus bien établi relie idéalement la presqu’île à Nice et Villefranche."
           },
           "stops": [
             {
@@ -2316,7 +2356,8 @@
                 "de": "Nutzen Sie den Bus 15 ab Nizza oder Beaulieu.",
                 "hu": "Használja a 15-ös buszt Nizzából vagy Beaulieu-ből.",
                 "ro": "Folosiți autobuzul 15 din Nisa sau Beaulieu.",
-                "en": "Use bus line 15 from Nice or Beaulieu."
+                "en": "Use bus line 15 from Nice or Beaulieu.",
+                "fr": "Prenez la ligne 15 depuis Nice ou Beaulieu."
               }
             },
             {
@@ -2325,7 +2366,8 @@
                 "de": "Die Haltestelle 'Saint-Jean-Village' liegt direkt am Zentrum.",
                 "hu": "A 'Saint-Jean-Village' megálló közvetlenül a központban van.",
                 "ro": "Stația 'Saint-Jean-Village' este chiar în centru.",
-                "en": "The 'Saint-Jean-Village' stop is right in the center."
+                "en": "The 'Saint-Jean-Village' stop is right in the center.",
+                "fr": "L’arrêt 'Saint-Jean-Village' se trouve en plein centre."
               }
             },
             {
@@ -2334,7 +2376,8 @@
                 "de": "Vom Dorf aus ist es ein kurzer Spaziergang zum Strand.",
                 "hu": "A falutól egy rövid séta a strand.",
                 "ro": "Din sat este o scurtă plimbare până la plajă.",
-                "en": "It's a short walk from the village to the beach."
+                "en": "It's a short walk from the village to the beach.",
+                "fr": "C’est une courte marche du village jusqu’à la plage."
               }
             },
             {
@@ -2343,7 +2386,8 @@
                 "de": "Der Wanderpfad 'Point Saint-Hospice' beginnt am Paloma Beach.",
                 "hu": "A 'Point Saint-Hospice' gyalogút a Paloma strandnál kezdődik.",
                 "ro": "Traseul 'Point Saint-Hospice' începe de la plaja Paloma.",
-                "en": "The 'Point Saint-Hospice' hiking path starts at Paloma Beach."
+                "en": "The 'Point Saint-Hospice' hiking path starts at Paloma Beach.",
+                "fr": "Le sentier 'Point Saint-Hospice' commence à la plage de la Paloma."
               }
             },
             {
@@ -2352,7 +2396,8 @@
                 "de": "Ein ruhiger Abschluss vor der Rückfahrt mit dem Bus.",
                 "hu": "Csendes lezárás a visszabuszozás előtt.",
                 "ro": "Un final liniștit înainte de întoarcerea cu autobuzul.",
-                "en": "A quiet finish before taking the bus back."
+                "en": "A quiet finish before taking the bus back.",
+                "fr": "Une fin paisible avant de reprendre le bus."
               }
             }
           ],
@@ -2462,6 +2507,12 @@
               "Buses run approximately every 20 minutes in summer.",
               "Download the 'Lignes d'Azur' app for real-time info.",
               "The last evening connection is often earlier than expected."
+            ],
+            "fr": [
+              "Validez votre titre de transport à la montée dans le bus.",
+              "Les bus circulent environ toutes les 20 minutes en été.",
+              "Téléchargez l’application 'Lignes d’Azur' pour des infos en temps réel.",
+              "La dernière liaison du soir est souvent plus tôt que prévu."
             ]
           }
         },
@@ -2471,7 +2522,7 @@
             "hu": "A busszal szinte közvetlenül a Villa Ephrussi kapujáig juthat, ami ideális esőben. Töltse a délelőttöt a pompás termek védelmében.\n\nDélben a 15-ös járat leviszi a kikötőbe. Élvezze az ebédet a parton, miközben az eső lágy fénybe vonja a tájat.\n\nDélután tegyen egy rövid kitérőt a Paloma strandhoz, majd látogasson el a kápolnához. A buszok száraz átmenetet biztosítanak a célpontok között.\n\nAz este a visszautazással zárul, miközben az eső áztatta ablakokon keresztül figyeli a kivilágított parti utat.",
             "ro": "Autobuzul vă lasă aproape de poarta Villa Ephrussi, ideal pe timp de ploaie. Petreceți dimineața protejat în sălile somptuoase.\n\nLa prânz, linia 15 vă duce în portul Saint-Jean. Savurați masa pe malul mării, în timp ce ploaia scaldă peisajul într-o lumină difuză.\n\nDupă-amiaza este posibilă o scurtă vizită la Plage de Paloma înainte de capelă. Autobuzele oferă intervale uscate între obiective.\n\nSeara se încheie cu drumul de întoarcere, admirând coasta luminată prin ferestrele ude de ploaie ale autobuzului.",
             "en": "The bus takes you almost directly to the gate of Villa Ephrussi, perfect for a rainy start. Spend your morning protected within its opulent halls.\n\nAt midday, line 15 carries you down to the Port of Saint-Jean. Enjoy a harbor-side lunch while the rain creates a soft, atmospheric glow over the water.\n\nIn the afternoon, make a quick trip to Paloma Beach followed by the chapel. Buses provide dry transitions between your stops.\n\nConclude your evening with a bus ride back, enjoying the view of the illuminated coastline through the rain-streaked windows.",
-            "fr": "Le bus vous dépose presque devant la grille de la Villa Ephrussi, idéal pour un début de journée pluvieux. Passez votre matinée à l'abri dans ses salles opulentes.\n\nÀ la mi-journée, la ligne 15 vous emmène au port de Saint-Jean. Profitez d'un déjeuner au bord de l'eau pendant que la pluie crée une lueur douce et atmosphérique sur l'eau.\n\nL'après-midi, faites une courte visite à la plage de Paloma suivie de la chapelle. Les bus assurent des transitions au sec entre vos étapes.\n\nConcluez votre soirée par un trajet de retour en bus, en profitant de la vue sur la côte illuminée à travers les vitres striées de pluie."
+            "fr": "Le bus vous emmène presque directement jusqu’à la grille de la Villa Ephrussi, idéal pour un départ sous la pluie. Passez votre matinée à l’abri dans ses halls opulents.\n\nÀ midi, la ligne 15 vous descend au port de Saint-Jean. Profitez d’un déjeuner au bord du port tandis que la pluie crée une douce atmosphère sur l’eau.\n\nL’après-midi, faites un aller rapide à la plage de la Paloma puis à la chapelle. Les bus offrent des transitions au sec entre vos étapes.\n\nTerminez votre soirée par le trajet de retour en bus, en admirant la côte illuminée à travers les vitres striées de pluie."
           },
           "stops": [
             {
@@ -2481,7 +2532,7 @@
                 "hu": "A 'Passable / Rothschild' buszmegálló közvetlenül a bejáratnál van.",
                 "ro": "Stația de autobuz 'Passable / Rothschild' este chiar la intrare.",
                 "en": "The 'Passable / Rothschild' bus stop is located right by the entrance.",
-                "fr": "L'arrêt de bus 'Passable / Rothschild' est situé juste devant l'entrée."
+                "fr": "L’arrêt 'Passable / Rothschild' se situe juste à l’entrée."
               }
             },
             {
@@ -2491,7 +2542,7 @@
                 "hu": "A busz a falu központjában áll meg, közel a fedett éttermekhez.",
                 "ro": "Autobuzul oprește în centrul satului, aproape de restaurantele acoperite.",
                 "en": "The bus stops in the village center, near many covered restaurants.",
-                "fr": "Le bus s'arrête au centre du village, près de nombreux restaurants couverts."
+                "fr": "Le bus s’arrête au centre du village, près de nombreux restaurants couverts."
               }
             },
             {
@@ -2501,7 +2552,7 @@
                 "hu": "A falu központjától csak rövid, részben védett séta.",
                 "ro": "De la centrul satului este doar o scurtă plimbare, parțial protejată.",
                 "en": "It is only a short, partially sheltered walk from the village center.",
-                "fr": "Le trajet à pied depuis le centre du village est court et partiellement abrité."
+                "fr": "Ce n’est qu’une courte marche, en partie abritée, depuis le centre du village."
               }
             },
             {
@@ -2511,7 +2562,7 @@
                 "hu": "Ellenőrizze a helyi 15-ös buszjárat menetrendjét.",
                 "ro": "Verificați orele de plecare ale liniei locale de autobuz 15.",
                 "en": "Check the departure times for the local bus line 15.",
-                "fr": "Vérifiez les horaires de départ de la ligne de bus locale 15."
+                "fr": "Vérifiez les horaires de départ de la ligne locale 15."
               }
             },
             {
@@ -2551,10 +2602,10 @@
               "In heavy rain, buses may experience slight delays due to traffic."
             ],
             "fr": [
-              "Utilisez l'application 'Zou!' pour les mises à jour en temps réel par temps de pluie.",
+              "Utilisez l’application 'Zou!' pour des informations de transport en temps réel pendant la pluie.",
               "La ligne 15 relie de manière fiable Nice à Saint-Jean-Cap-Ferrat.",
-              "Préparez votre ticket pour monter rapidement et rester au sec.",
-              "En cas de fortes pluies, les bus peuvent subir de légers retards dus au trafic."
+              "Ayez votre titre de transport prêt pour monter rapidement et rester au sec.",
+              "En cas de fortes pluies, les bus peuvent subir de légers retards liés à la circulation."
             ]
           }
         },
@@ -2564,7 +2615,7 @@
             "hu": "Használja a buszt a kényelmes érkezéshez a Villa Ephrussihoz. A tiszta téli fényben a parti utazás különleges élmény.\n\nDélben a tömegközlekedés leviszi a kikötőbe, ahol élvezheti az enyhe napsütést. A menetrendek az utószezonban is megbízhatóak.\n\nDélután a Paloma strand és a kápolna várja. Ügyeljen az időre, hogy elérje a buszt a korai, 17:00-as naplemente előtt.\n\nAz este a visszautazással zárul; a fűtött buszok kényelmes befejezést nyújtanak a hűvös téli nap végén.",
             "ro": "Folosiți autobuzul pentru o sosire relaxată la Villa Ephrussi. Lumina clară de iarnă transformă drumul de coastă într-o experiență deosebită.\n\nLa prânz, transportul public vă duce în port, unde vă puteți bucura de soarele blând. Orarele sunt fiabile și în extrasezon.\n\nDupă-amiaza vizitați Plage de Paloma și capela. Fiți atenți la orar pentru a prinde autobuzul înainte de apusul de la ora 17:00.\n\nSeara se încheie cu drumul de întoarcere; autobuzele încălzite oferă un final confortabil după o zi răcoroasă de iarnă.",
             "en": "Take the bus for a stress-free arrival at Villa Ephrussi. The clear winter light turns the coastal journey into a beautiful sightseeing tour.\n\nAt midday, transit brings you to the harbor, where you can enjoy the mild sunshine. Schedules remain reliable even during the off-season.\n\nIn the afternoon, visit Paloma Beach and the chapel. Keep an eye on the time to catch your bus before the early 5:00 PM sunset.\n\nConclude your day with the return journey; heated buses provide a comfortable end to a crisp winter day by the sea.",
-            "fr": "Prenez le bus pour une arrivée sans stress à la Villa Ephrussi. La lumière hivernale pure transforme le trajet côtier en un magnifique circuit touristique.\n\nÀ la mi-journée, les transports vous déposent au port où vous pourrez profiter du doux soleil. Les horaires restent fiables même pendant la hors-saison.\n\nL'après-midi, visitez la plage de Paloma et la chapelle. Gardez un œil sur l'heure pour ne pas rater votre bus avant le coucher du soleil à 17h00.\n\nConcluez votre journée par le trajet retour ; les bus chauffés offrent une fin confortable à une journée d'hiver tonifiante au bord de la mer."
+            "fr": "Prenez le bus pour une arrivée sans stress à la Villa Ephrussi. La lumière hivernale claire transforme le trajet côtier en une belle visite panoramique.\n\nÀ midi, le transit vous amène au port, où vous pourrez profiter d’un soleil doux. Les horaires restent fiables même en basse saison.\n\nL’après-midi, visitez la plage de la Paloma et la chapelle. Gardez un œil sur l’heure pour attraper votre bus avant le coucher du soleil anticipé à 17:00.\n\nTerminez votre journée avec le trajet de retour ; les bus chauffés offrent une fin confortable à une matinée vivifiante au bord de la mer."
           },
           "stops": [
             {
@@ -2574,7 +2625,7 @@
                 "hu": "Télen a busz sokkal kevésbé zsúfolt, mint nyáron.",
                 "ro": "Iarna, autobuzul este mult mai puțin aglomerat decât vara.",
                 "en": "Buses are much less crowded in winter than during the summer season.",
-                "fr": "Les bus sont beaucoup moins fréquentés en hiver qu'en saison estivale."
+                "fr": "Les bus sont beaucoup moins fréquentés en hiver qu’en été."
               }
             },
             {
@@ -2584,7 +2635,7 @@
                 "hu": "A faluban lévő buszmegálló jó tájékozódási pont.",
                 "ro": "Stația de autobuz din sat este un punct bun de orientare.",
                 "en": "The bus stop in the village is a great central landmark.",
-                "fr": "L'arrêt de bus du village est un excellent point de repère central."
+                "fr": "L’arrêt de bus du village est un excellent repère central."
               }
             },
             {
@@ -2594,7 +2645,7 @@
                 "hu": "Élvezze a sétát a busztól a strandig a friss levegőn.",
                 "ro": "Bucurați-vă de plimbarea de la autobuz la plajă în aerul curat.",
                 "en": "Enjoy the walk from the bus stop to the beach in the fresh air.",
-                "fr": "Profitez de la marche entre l'arrêt de bus et la plage au grand air."
+                "fr": "Appréciez la marche depuis l’arrêt de bus jusqu’à la plage à l’air frais."
               }
             },
             {
@@ -2604,7 +2655,7 @@
                 "hu": "Tervezze meg a visszautat a megállóhoz sötétedés előtt.",
                 "ro": "Planificați întoarcerea la stație înainte de lăsarea întunericului.",
                 "en": "Plan your walk back to the bus stop before it gets dark.",
-                "fr": "Prévoyez votre retour à l'arrêt de bus avant qu'il ne fasse nuit."
+                "fr": "Planifiez votre retour à l’arrêt de bus avant la tombée de la nuit."
               }
             },
             {
@@ -2614,7 +2665,7 @@
                 "hu": "A 'Pont Saint-Jean' megálló kényelmes közelségben van.",
                 "ro": "Stația 'Pont Saint-Jean' este situată convenabil în apropiere.",
                 "en": "The 'Pont Saint-Jean' stop is conveniently located nearby.",
-                "fr": "L'arrêt 'Pont Saint-Jean' est idéalement situé à proximité."
+                "fr": "L’arrêt 'Pont Saint-Jean' est idéalement situé à proximité."
               }
             }
           ],
@@ -2645,9 +2696,9 @@
             ],
             "fr": [
               "Notez que les horaires du week-end peuvent être légèrement réduits.",
-              "Les bus sont bien chauffés et confortables pendant les mois d'hiver.",
-              "Achetez vos billets à l'avance via l'application pour éviter tout retard.",
-              "Le dernier bus part souvent un peu plus tôt en hiver qu'en été."
+              "Les bus sont bien chauffés et confortables en hiver.",
+              "Achetez vos billets à l’avance via l’application pour éviter tout délai.",
+              "Le dernier bus part souvent un peu plus tôt en hiver qu’en été."
             ]
           }
         }

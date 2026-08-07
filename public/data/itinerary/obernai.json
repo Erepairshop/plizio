@@ -51,7 +51,7 @@
             "hu": "A város jelképe, egykor őrtoronyként szolgált.",
             "ro": "Simbolul orașului, fost turn de veghe.",
             "en": "The symbol of the town, formerly a watchtower.",
-            "fr": "Le symbole de la ville, autrefois tour de guet."
+            "fr": "Le symbole de la ville, anciennement une tour de guet."
           }
         },
         {
@@ -70,7 +70,7 @@
             "hu": "Pompás reneszánsz kút 1579-ből.",
             "ro": "O fântână renascentistă superbă din 1579.",
             "en": "A magnificent Renaissance well from 1579.",
-            "fr": "Un magnifique puits de la Renaissance datant de 1579."
+            "fr": "Un magnifique puits Renaissance de 1579."
           }
         },
         {
@@ -89,7 +89,7 @@
             "hu": "Csodálja meg a neogótikus üvegablakokat.",
             "ro": "Admirați vitraliile neo-gotice impresionante.",
             "en": "Admire the impressive neo-Gothic stained glass.",
-            "fr": "Admirez les impressionnants vitraux néogothiques."
+            "fr": "Admirez les impressionnants vitraux néo‑gothiques."
           }
         },
         {
@@ -127,7 +127,7 @@
             "hu": "Kóstolja meg az elzászi specialitásokat itt.",
             "ro": "Gustați specialitățile alsaciene în această zonă.",
             "en": "Taste the Alsatian specialties in this area.",
-            "fr": "Dégustez les spécialités alsaciennes dans ce quartier."
+            "fr": "Goûtez les spécialités alsaciennes dans ce quartier."
           }
         }
       ],
@@ -136,7 +136,7 @@
         "hu": "Kezdje a napot Obernai szívében, a nyüzsgő piactéren. Csodálja meg a Kappelturm-ot és a reneszánsz kutat. A lenyűgöző templom megtekintése után sétáljon a városfalak mentén, élvezve a nyugalmat. A napot egy kulináris élménnyel zárja az óvárosban.",
         "ro": "Începeți ziua în inima orașului Obernai, în piața centrală animată. Admirați Turnul Kappel și fântâna renascentistă. După vizitarea bisericii impunătoare, plimbați-vă de-a lungul zidurilor cetății pentru liniște. Încheiați ziua cu o experiență culinară în centrul vechi.",
         "en": "Start your day in the heart of Obernai at the lively market square. Admire the Kappelturm and the Renaissance well. After visiting the imposing church, walk along the city walls to enjoy the peace. Conclude the day with a culinary experience in the old town.",
-        "fr": "Commencez votre journée au cœur d'Obernai sur la place du marché animée. Admirez le Kappelturm et le puits de la Renaissance. Après avoir visité l'imposante église, promenez-vous le long des remparts pour savourer le calme. Concluez la journée par une expérience culinaire dans la vieille ville."
+        "fr": "Commencez votre journée au cœur d’Obernai sur la place animée du marché. Admirez le Kappelturm et le puits Renaissance. Après la visite de l’imposante église, promenez‑vous le long des remparts pour profiter du calme. Concluez la journée par une expérience culinaire dans la vieille ville."
       },
       "gastro_picks": {
         "de": [
@@ -266,9 +266,9 @@
         ],
         "fr": [
           "Portez des chaussures confortables pour les rues pavées.",
-          "Garez-vous au grand parking des 'Remparts'.",
+          "Garez‑vous au grand parking « Remparts ».",
           "Visitez la ville pendant la période de Noël.",
-          "Réservez vos restaurants à l'avance."
+          "Réservez les restaurants à l’avance."
         ]
       }
     },
@@ -296,7 +296,7 @@
             "hu": "Kezdje a túrát a piactéren.",
             "ro": "Începeți turul din piața centrală.",
             "en": "Start your tour at the market square.",
-            "fr": "Commencez votre tour sur la place du marché."
+            "fr": "Commencez votre visite sur la place du marché."
           }
         },
         {
@@ -315,7 +315,7 @@
             "hu": "Biciklizés a szőlőültetvények között.",
             "ro": "Plimbare prin podgorii cu vedere frumoasă.",
             "en": "Ride through the vineyards with great views.",
-            "fr": "Roulez à travers les vignes avec des vues imprenables."
+            "fr": "Parcourez les vignobles en profitant de superbes panoramas."
           }
         },
         {
@@ -353,7 +353,7 @@
             "hu": "Rathsamhausen várromok megtekintése.",
             "ro": "Ruinele castelului Rathsamhausen.",
             "en": "View the ruins of Rathsamhausen castle.",
-            "fr": "Observez les ruines du château de Rathsamhausen."
+            "fr": "Contemplez les ruines du château de Rathsamhausen."
           }
         },
         {
@@ -372,7 +372,7 @@
             "hu": "Pihenés a túra után a városi parkban.",
             "ro": "Relaxare în parcul orașului după tur.",
             "en": "Relax in the city park after the tour.",
-            "fr": "Détendez-vous dans le parc de la ville après la balade."
+            "fr": "Détendez‑vous dans le parc municipal après la visite."
           }
         }
       ],
@@ -381,7 +381,7 @@
         "hu": "Ez a kerékpártúra Obernai gyönyörű szőlőültetvényein vezet keresztül. Meglátogatja a bájos Bernardswiller falut és az ottrotti várromokat. Az útvonal látványos kilátást nyújt a Vogézekre és az elzászi síkságra.",
         "ro": "Acest tur cu bicicleta vă poartă prin podgoriile superbe din jurul orașului Obernai. Veți vizita satul Bernardswiller și ruinele castelelor din Ottrott. Traseul oferă vederi spectaculoase spre Munții Vosgi și câmpia Alsaciei.",
         "en": "This bike tour takes you through the beautiful vineyards around Obernai. You will visit the charming village of Bernardswiller and the castle ruins of Ottrott. The route offers spectacular views of the Vosges Mountains and the Alsatian plain.",
-        "fr": "Ce tour à vélo vous emmène à travers les magnifiques vignobles entourant Obernai. Vous visiterez le charmant village de Bernardswiller et les ruines du château d'Ottrott. L'itinéraire offre des vues spectaculaires sur les Vosges et la plaine d'Alsace."
+        "fr": "Cette boucle à vélo vous emmène à travers les magnifiques vignobles autour d’Obernai. Vous visiterez le charmant village de Bernardswiller et les ruines du château d’Ottrott. L’itinéraire offre des vues spectaculaires sur les Vosges et la plaine d’Alsace."
       },
       "gastro_picks": {
         "de": [
@@ -510,10 +510,10 @@
           "Be careful in the narrow village streets."
         ],
         "fr": [
-          "Louez des vélos électriques pour les collines.",
-          "Emportez suffisamment d'eau avec vous.",
-          "Les sentiers sont bien balisés.",
-          "Soyez prudent dans les rues étroites des villages."
+          "Louez des vélos à assistance électrique pour les montées.",
+          "Emportez suffisamment d’eau.",
+          "Les chemins sont bien balisés.",
+          "Soyez prudent dans les rues étroites du village."
         ]
       }
     },
@@ -541,7 +541,7 @@
             "hu": "Reggeli az óvárosban.",
             "ro": "Mic dejun în centrul vechi.",
             "en": "Breakfast in the old town.",
-            "fr": "Petit-déjeuner dans la vieille ville."
+            "fr": "Petit‑déjeuner dans la vieille ville."
           }
         },
         {
@@ -560,7 +560,7 @@
             "hu": "Fontos zarándokhely kolostorral.",
             "ro": "Loc de pelerinaj important cu mănăstire.",
             "en": "Important pilgrimage site with a monastery.",
-            "fr": "Important site de pèlerinage avec un monastère."
+            "fr": "Important lieu de pèlerinage avec un monastère."
           }
         },
         {
@@ -579,7 +579,7 @@
             "hu": "Rejtélyes őskori falmaradvány.",
             "ro": "Zid preistoric misterios.",
             "en": "Mysterious prehistoric wall.",
-            "fr": "Mystérieuse enceinte préhistorique."
+            "fr": "Mur préhistorique mystérieux."
           }
         },
         {
@@ -598,7 +598,7 @@
             "hu": "Látogatás Alsó-Rajna borfővárosában.",
             "ro": "Vizită în capitala vinului din Bas-Rhin.",
             "en": "Visit the wine capital of Bas-Rhin.",
-            "fr": "Visitez la capitale viticole du Bas-Rhin."
+            "fr": "Visitez la capitale viticole du Bas‑Rhin."
           }
         },
         {
@@ -626,7 +626,7 @@
         "hu": "Ez az autós útvonal Obernai báját ötvözi a Mont Sainte-Odile szakralitásával. Élvezze a kilátást a csúcsról, fedezze fel a titokzatos Pogány-falat, és zárja a napot a szomszédos borvárosban, Barrban.",
         "ro": "Acest traseu auto combină farmecul orașului Obernai cu spiritualitatea de la Mont Sainte-Odile. Bucurați-vă de priveliște, explorați misteriosul Zid Păgân și încheiați ziua în orașul vecin, Barr.",
         "en": "This car route combines the charm of Obernai with the spirituality of Mont Sainte-Odile. Enjoy the views from the summit, explore the mysterious Pagan Wall, and end the day in the neighboring wine town of Barr.",
-        "fr": "Cet itinéraire en voiture combine le charme d'Obernai avec la spiritualité du Mont Sainte-Odile. Profitez de la vue depuis le sommet, explorez le mystérieux mur païen et terminez la journée dans la ville viticole voisine de Barr."
+        "fr": "Cet itinéraire en voiture associe le charme d’Obernai à la spiritualité du Mont Sainte‑Odile. Profitez des vues depuis le sommet, explorez le mystérieux Mur Païen et terminez la journée dans la ville viticole voisine de Barr."
       },
       "gastro_picks": {
         "de": [
@@ -755,7 +755,7 @@
           "Visit Barr for a less touristy feel."
         ],
         "fr": [
-          "Le parking du Mont Sainte-Odile se remplit rapidement.",
+          "Le parking au Mont Sainte‑Odile se remplit rapidement.",
           "Conduisez prudemment sur les routes de montagne.",
           "Attention aux randonneurs sur la route.",
           "Visitez Barr pour une ambiance moins touristique."
@@ -852,7 +852,7 @@
         "hu": "Vonattal kényelmesen elérhető Obernai. Az óváros megtekintése után egy rövid kirándulás tehető a közeli Sélestat-ba. Élvezze az elzászi építészetet és kultúrát autó nélkül, stresszmentesen.",
         "ro": "Obernai este ușor accesibil cu trenul. După vizitarea centrului vechi, puteți face o scurtă excursie în orașul vecin Sélestat. Bucurați-vă de arhitectura și cultura alsaciană fără grija mașinii.",
         "en": "Obernai is easily accessible by train. After visiting the old town, a short excursion to nearby Sélestat is possible. Enjoy Alsatian architecture and culture stress-free without a car.",
-        "fr": "Obernai est facilement accessible en train. Après avoir visité la vieille ville, une courte excursion à Sélestat est possible. Profitez de l'architecture et de la culture alsaciennes sans stress et sans voiture."
+        "fr": "Obernai est facilement accessible en train. Après la visite de la vieille ville, une courte excursion vers la proche Sélestat est possible. Profitez de l’architecture et de la culture alsaciennes sans stress, sans voiture."
       },
       "gastro_picks": {
         "de": [
@@ -981,7 +981,7 @@
           "Check the timetable online."
         ],
         "fr": [
-          "Utilisez les billets régionaux Fluo.",
+          "Utilisez les billets Fluo région.",
           "Les trains circulent régulièrement vers Strasbourg.",
           "La gare est accessible.",
           "Consultez les horaires en ligne."

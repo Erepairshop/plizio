@@ -31,7 +31,8 @@
             "de": "Bewundern Sie die festungsartige Architektur dieser Kathedrale.",
             "hu": "Csodáld meg a székesegyház erődtemplomra emlékeztető tömör falait.",
             "ro": "Admirați arhitectura defensivă unică a acestei catedrale-fortărețe.",
-            "en": "Admire the fortress-like architecture of this unique cathedral."
+            "en": "Admire the fortress-like architecture of this unique cathedral.",
+            "fr": "Admirez l’architecture forteresse de cette cathédrale unique."
           }
         },
         {
@@ -49,7 +50,8 @@
             "de": "Entdecken Sie die bretonische Webtradition und lokale Kunst.",
             "hu": "Fedezd fel a breton szövőhagyományokat és a helyi művészetet.",
             "ro": "Descoperiți tradițiile textile bretone și arta locală.",
-            "en": "Explore Breton weaving traditions and local history exhibits."
+            "en": "Explore Breton weaving traditions and local history exhibits.",
+            "fr": "Explorez les traditions du tissage breton et les expositions sur l’histoire locale."
           }
         },
         {
@@ -67,7 +69,8 @@
             "de": "Probieren Sie eine Galette-Saucisse in der Rue Saint-Guillaume.",
             "hu": "Kóstolj meg egy kolbászos galette-et a középkori utcákban.",
             "ro": "Gustați o galette-saucisse pe străzile medievale ale orașului.",
-            "en": "Try a traditional galette-saucisse in the medieval streets."
+            "en": "Try a traditional galette-saucisse in the medieval streets.",
+            "fr": "Goûtez une galette-saucisse traditionnelle dans les rues médiévales."
           }
         },
         {
@@ -85,7 +88,8 @@
             "de": "Eine elegante Kirche aus dem 19. Jahrhundert im neoklassizistischen Stil.",
             "hu": "Elegáns, 19. századi neoklasszicista templom a város szívében.",
             "ro": "O biserică neoclasică elegantă din secolul al XIX-lea.",
-            "en": "An elegant 19th-century neoclassical church in the heart of town."
+            "en": "An elegant 19th-century neoclassical church in the heart of town.",
+            "fr": "Une élégante église néoclassique du XIXe siècle au cœur de la ville."
           }
         },
         {
@@ -103,7 +107,8 @@
             "de": "Genießen Sie den Blick über das Gouët-Tal von dieser Brücke.",
             "hu": "Élvezd a kilátást a Gouët-völgyre erről a történelmi hídról.",
             "ro": "Bucurați-vă de panorama asupra văii Gouët de pe acest viaduct.",
-            "en": "Enjoy the panoramic views over the Gouët valley from this bridge."
+            "en": "Enjoy the panoramic views over the Gouët valley from this bridge.",
+            "fr": "Profitez des vues panoramiques sur la vallée du Gouët depuis ce pont."
           }
         },
         {
@@ -121,7 +126,8 @@
             "de": "Spazieren Sie am Kai entlang und bewundern Sie die Schiffe.",
             "hu": "Sétálj a rakparton és csodáld meg a felújított hajókat.",
             "ro": "Plimbați-vă pe chei și admirați ambarcațiunile restaurate.",
-            "en": "Stroll along the quays and admire the beautifully restored boats."
+            "en": "Stroll along the quays and admire the beautifully restored boats.",
+            "fr": "Promenez-vous le long des quais et admirez les bateaux magnifiquement restaurés."
           }
         }
       ],
@@ -129,7 +135,8 @@
         "de": "Morgens erkunden Sie die befestigte Kathedrale und das Museum im historischen Zentrum. Mittags genießen Sie bretonische Spezialitäten in den Gassen. Nachmittags spazieren Sie über den Viadukt von Toupin, bevor Sie den Abstieg zum malerischen Hafen von Légué wagen, wo der Tag gemütlich am Wasser ausklingt.",
         "hu": "Reggel a történelmi központ erődített székesegyházát és múzeumát fedezzük fel. Ebédre jöhet egy igazi breton palacsinta. Délután a Toupin-viadukton sétálva élvezzük a kilátást, majd leereszkedünk a festői Légué kikötőbe, ahol a napot a vízparti teraszok egyikén zárjuk.",
         "ro": "Dimineața vizităm catedrala fortificată și muzeul din centrul istoric. La prânz, savurăm specialități bretone pe străzile medievale. După-amiaza traversăm viaductul Toupin pentru panorame superbe, apoi coborâm spre portul Légué, locul perfect pentru o seară relaxantă la malul apei.",
-        "en": "Morning starts with the fortified cathedral and history museum in the old center. After a local lunch, walk across the Toupin Viaduct for valley views. Finish your day at the Port de Légué, a vibrant maritime district with beautifully restored quays and welcoming cafes."
+        "en": "Morning starts with the fortified cathedral and history museum in the old center. After a local lunch, walk across the Toupin Viaduct for valley views. Finish your day at the Port de Légué, a vibrant maritime district with beautifully restored quays and welcoming cafes.",
+        "fr": "La matinée commence par la cathédrale fortifiée et le musée d’histoire dans le vieux centre. Après un déjeuner local, traversez le Viaduc du Toupin pour les vues sur la vallée. Terminez la journée au Port de Légué, un quartier maritime animé avec des quais restaurés et des cafés accueillants."
       },
       "gastro_picks": {
         "de": [
@@ -249,6 +256,11 @@
           "The town layout is quite hilly, so wear comfortable walking shoes.",
           "Visit the local market on Wednesday or Saturday for fresh produce.",
           "The walk down to the harbor is steep but very scenic."
+        ],
+        "fr": [
+          "La topographie de la ville est assez vallonnée, donc portez des chaussures de marche confortables.",
+          "Visitez le marché local le mercredi ou le samedi pour des produits frais.",
+          "La descente vers le port est raide mais très pittoresque."
         ]
       }
     },
@@ -275,7 +287,8 @@
             "de": "Starten Sie Ihre Tour im Herzen des historischen Viertels.",
             "hu": "Kezezd a túrát a történelmi negyed szívében.",
             "ro": "Începeți turul în inima cartierului istoric.",
-            "en": "Start your cycling tour in the heart of the historic quarter."
+            "en": "Start your cycling tour in the heart of the historic quarter.",
+            "fr": "Commencez votre circuit à vélo au cœur du quartier historique."
           }
         },
         {
@@ -293,7 +306,8 @@
             "de": "Kurzer Stopp für Kunst und Kultur.",
             "hu": "Gyors kulturális kitérő a múzeumban.",
             "ro": "O scurtă oprire pentru artă și cultură.",
-            "en": "A quick cultural detour at the history museum."
+            "en": "A quick cultural detour at the history museum.",
+            "fr": "Une courte escale culturelle au musée d’histoire."
           }
         },
         {
@@ -311,7 +325,8 @@
             "de": "Ein prächtiges Anwesen mit Blick auf den Hafen.",
             "hu": "Pazar villaépület kilátással a kikötőre.",
             "ro": "O vilă magnifică cu vedere spre port.",
-            "en": "A magnificent villa overlooking the harbor entrance."
+            "en": "A magnificent villa overlooking the harbor entrance.",
+            "fr": "Une magnifique villa dominant l’entrée du port."
           }
         },
         {
@@ -329,7 +344,8 @@
             "de": "Perfekter Ort für eine Mittagspause am Wasser.",
             "hu": "Tökéletes hely egy vízparti ebédhez.",
             "ro": "Locul perfect pentru un prânz la malul apei.",
-            "en": "The ideal spot for a lunch break by the water."
+            "en": "The ideal spot for a lunch break by the water.",
+            "fr": "L’endroit idéal pour une pause déjeuner au bord de l’eau."
           }
         },
         {
@@ -347,7 +363,8 @@
             "de": "Überreste eines mittelalterlichen Turms an der Küste.",
             "hu": "Egy középkori torony maradványai a tengerparton.",
             "ro": "Vestigiile unui turn medieval pe coasta mării.",
-            "en": "The ruins of a medieval tower guarding the bay."
+            "en": "The ruins of a medieval tower guarding the bay.",
+            "fr": "Les ruines d’une tour médiévale gardant la baie."
           }
         },
         {
@@ -365,7 +382,8 @@
             "de": "Überqueren Sie den Viadukt auf dem Rückweg ins Zentrum.",
             "hu": "Tekerj át a viadukton visszafelé a központba.",
             "ro": "Traversați viaductul la întoarcerea spre centru.",
-            "en": "Ride across the viaduct on your way back to center."
+            "en": "Ride across the viaduct on your way back to center.",
+            "fr": "Traversez le viaduc en revenant vers le centre."
           }
         },
         {
@@ -383,7 +401,8 @@
             "de": "Ein letzter kultureller Stopp vor Tourende.",
             "hu": "Utolsó kulturális megálló a túra végén.",
             "ro": "O ultimă oprire culturală înainte de final.",
-            "en": "One last cultural stop before finishing your tour."
+            "en": "One last cultural stop before finishing your tour.",
+            "fr": "Une dernière halte culturelle avant de terminer votre circuit."
           }
         }
       ],
@@ -391,7 +410,8 @@
         "de": "Mit dem Rad überwinden Sie die Höhenunterschiede der Stadt spielend. Nach dem historischen Zentrum fahren Sie zur prachtvollen Villa Rohannec'h und weiter zum Hafen. Ein Highlight ist die Fahrt zur Tour de Cesson mit Panoramablick über die Bucht, bevor Sie über den Toupin-Viadukt zurückkehren.",
         "hu": "Kerékpárral könnyen leküzdhetők a város szintkülönbségei. A központ után a Rohannec'h villa és a kikötő következik. A túra fénypontja a Cesson-torony a tengerparti panorámával, majd a Toupin-viadukton keresztül tekerünk vissza a felsővárosba.",
         "ro": "Cu bicicleta, veți depăși ușor diferențele de nivel ale orașului. După centrul istoric, pedalați spre vila Rohannec'h și port. Punctul culminant este Turnul Cesson cu panorama sa asupra golfului, urmat de o întoarcere spectaculoasă peste viaductul Toupin.",
-        "en": "Cycling is the perfect way to bridge the gap between the upper town and the maritime districts. Visit the grand Villa Rohannec'h, enjoy the lively port atmosphere, and ride out to the historic Cesson Tower for sweeping bay views before returning via the iconic viaducts."
+        "en": "Cycling is the perfect way to bridge the gap between the upper town and the maritime districts. Visit the grand Villa Rohannec'h, enjoy the lively port atmosphere, and ride out to the historic Cesson Tower for sweeping bay views before returning via the iconic viaducts.",
+        "fr": "Le vélo est le moyen idéal pour relier la partie haute de la ville aux quartiers maritimes. Visitez la grande Villa Rohannec’h, profitez de l’atmosphère animée du port et roulez jusqu’à la tour historique de Cesson pour des vues panoramiques sur la baie avant de revenir via les viaducs emblématiques."
       },
       "gastro_picks": {
         "de": [
@@ -495,6 +515,11 @@
           "An e-bike is highly recommended due to the steep terrain.",
           "Coastal paths offer smooth riding with great views.",
           "Be mindful of pedestrians in the narrow old town streets."
+        ],
+        "fr": [
+          "Un vélo à assistance électrique est fortement recommandé en raison du terrain pentu.",
+          "Les sentiers côtiers offrent une belle surface de roulage et de superbes panoramas.",
+          "Faites attention aux piétons dans les ruelles étroites de la vieille ville."
         ]
       }
     },
@@ -521,7 +546,8 @@
             "de": "Parken Sie im Parkhaus 'Poulain-Corbion'.",
             "hu": "Parkolj a Poulain-Corbion garázsban, közel a központhoz.",
             "ro": "Parcați în garajul Poulain-Corbion pentru acces facil.",
-            "en": "Park at the Poulain-Corbion garage for easy city access."
+            "en": "Park at the Poulain-Corbion garage for easy city access.",
+            "fr": "Garez-vous au garage Poulain-Corbion pour un accès facile à la ville."
           }
         },
         {
@@ -539,7 +565,8 @@
             "de": "Ein kurzer Spaziergang vom Parkplatz aus.",
             "hu": "Rövid séta a parkolótól a múzeumig.",
             "ro": "O scurtă plimbare de la parcare la muzeu.",
-            "en": "A short walk from the parking area to the museum."
+            "en": "A short walk from the parking area to the museum.",
+            "fr": "Une courte promenade depuis l’aire de stationnement jusqu’au musée."
           }
         },
         {
@@ -557,7 +584,8 @@
             "de": "Teil des Altstadt-Clusters, zu Fuß erreichbar.",
             "hu": "Az óvárosi séta része, gyalogosan elérhető.",
             "ro": "Parte din grupul central, accesibil pe jos.",
-            "en": "Part of the central cluster, easily reached on foot."
+            "en": "Part of the central cluster, easily reached on foot.",
+            "fr": "Fait partie du noyau central, facilement accessible à pied."
           }
         },
         {
@@ -575,7 +603,8 @@
             "de": "Ein magischer Ort mit riesigen Granitblöcken im Fluss.",
             "hu": "Mágikus hely hatalmas gránitsziklákkal a folyóban.",
             "ro": "Un loc magic cu blocuri gigantice de granit în râu.",
-            "en": "A magical natural site with massive granite boulders in the river."
+            "en": "A magical natural site with massive granite boulders in the river.",
+            "fr": "Un site naturel magique avec d’énormes rochers granitiques dans la rivière."
           }
         },
         {
@@ -593,7 +622,8 @@
             "de": "Genießen Sie frische Meeresfrüchte am Kai.",
             "hu": "Élvezd a friss tengeri herkentyűket a parton.",
             "ro": "Savurați fructe de mare proaspete la malul apei.",
-            "en": "Enjoy fresh seafood by the bustling quayside."
+            "en": "Enjoy fresh seafood by the bustling quayside.",
+            "fr": "Dégustez des fruits de mer frais au bord des quais animés."
           }
         },
         {
@@ -611,7 +641,8 @@
             "de": "Vom Hafen aus zu Fuß in 10 Minuten erreichbar.",
             "hu": "A kikötőtől gyalog 10 perc alatt elérhető.",
             "ro": "Accesibil în 10 minute de mers pe jos din port.",
-            "en": "Reach the villa in a 10-minute walk from the port."
+            "en": "Reach the villa in a 10-minute walk from the port.",
+            "fr": "Rejoignez la villa en 10 minutes à pied depuis le port."
           }
         },
         {
@@ -629,7 +660,8 @@
             "de": "Parkplatz direkt am Fuße des Turms vorhanden.",
             "hu": "Parkoló közvetlenül a torony lábánál.",
             "ro": "Parcare disponibilă chiar la baza turnului.",
-            "en": "Parking is available right at the base of the tower."
+            "en": "Parking is available right at the base of the tower.",
+            "fr": "Un parking est disponible au pied de la tour."
           }
         },
         {
@@ -647,7 +679,8 @@
             "de": "Fotostopp auf dem Rückweg zum Hotel.",
             "hu": "Gyors fotómegálló visszafelé menet.",
             "ro": "Oprire foto la întoarcerea spre hotel.",
-            "en": "Quick photo stop on your way back from the tour."
+            "en": "Quick photo stop on your way back from the tour.",
+            "fr": "Arrêt photo rapide sur le chemin du retour de la visite."
           }
         }
       ],
@@ -655,7 +688,8 @@
         "de": "Mit dem Auto erkunden Sie sowohl das Herz von Saint-Brieuc als auch seine wilde Umgebung. Vormittags besuchen Sie den historischen Stadtkern. Ein Ausflug führt Sie zu den faszinierenden 'Chaos du Gouët', bevor Sie im Hafen von Légué zu Mittag essen. Der Nachmittag gehört der Küstenlandschaft mit der Villa Rohannec'h und der Tour de Cesson.",
         "hu": "Autóval Saint-Brieuc szívét és vadregényes környékét is felfedezhetjük. Délelőtt a központ látnivalói után kirándulást teszünk a lenyűgöző Chaos du Gouët szikláihoz. Ebéd a Légué kikötőben, majd délután a tengerparti Rohannec'h villa és a Cesson-torony zárja a programot.",
         "ro": "Cu mașina, explorați atât inima orașului Saint-Brieuc, cât și împrejurimile sale sălbatice. Dimineața vizităm centrul istoric, urmat de o excursie la fascinantele 'Chaos du Gouët'. Prânzul în portul Légué precede o după-amiază pe coastă, vizitând vila Rohannec'h și turnul Cesson.",
-        "en": "The car allows you to combine urban highlights with wilder natural sites. Start in the historic center, then drive out to the mystical Chaos du Gouët boulders. Enjoy lunch at the port, and spend your afternoon visiting the coastal landmarks of Rohannec'h and the ruins of Cesson Tower."
+        "en": "The car allows you to combine urban highlights with wilder natural sites. Start in the historic center, then drive out to the mystical Chaos du Gouët boulders. Enjoy lunch at the port, and spend your afternoon visiting the coastal landmarks of Rohannec'h and the ruins of Cesson Tower.",
+        "fr": "La voiture vous permet de combiner les attractions urbaines avec des sites naturels plus sauvages. Commencez dans le centre historique, puis partez en voiture vers les mystérieux chaos du Gouët. Déjeunez au port et passez l’après-midi à visiter les sites côtiers de Rohannec’h et les ruines de la tour de Cesson."
       },
       "gastro_picks": {
         "de": [
@@ -759,6 +793,11 @@
           "Use Park & Ride lots if the city center is crowded.",
           "The road to Chaos du Gouët is narrow, so drive carefully.",
           "Parking at Port de Légué is often easier than in the city center."
+        ],
+        "fr": [
+          "Utilisez les parkings relais si le centre-ville est encombré.",
+          "La route vers le Chaos du Gouët est étroite, alors conduisez prudemment.",
+          "Se garer au Port de Légué est souvent plus facile qu'en centre-ville."
         ]
       }
     },
@@ -785,7 +824,8 @@
             "de": "Zentrale Haltestelle 'Combat des Trente' nutzen.",
             "hu": "Használd a 'Combat des Trente' központi buszmegállót.",
             "ro": "Folosiți stația centrală 'Combat des Trente'.",
-            "en": "Use the central 'Combat des Trente' bus stop."
+            "en": "Use the central 'Combat des Trente' bus stop.",
+            "fr": "Utilisez l'arrêt de bus central « Combat des Trente »."
           }
         },
         {
@@ -803,7 +843,8 @@
             "de": "Kurzer Fußweg im Zentrum-Cluster.",
             "hu": "Rövid séta a központi zónán belül.",
             "ro": "O scurtă plimbare în cadrul grupului central.",
-            "en": "Short walk within the central city cluster."
+            "en": "Short walk within the central city cluster.",
+            "fr": "Courte marche au sein du noyau central de la ville."
           }
         },
         {
@@ -821,7 +862,8 @@
             "de": "Buslinie A verbindet das Zentrum mit dem Hafen.",
             "hu": "Az 'A' jelű busz köti össze a központot a kikötővel.",
             "ro": "Linia A de autobuz leagă centrul de port.",
-            "en": "Bus line A connects the city center with the port."
+            "en": "Bus line A connects the city center with the port.",
+            "fr": "La ligne A relie le centre-ville au port."
           }
         },
         {
@@ -839,7 +881,8 @@
             "de": "Vom Hafen aus zu Fuß erreichbar.",
             "hu": "Gyalogosan könnyen elérhető a kikötőtől.",
             "ro": "Accesibil pe jos din zona portului.",
-            "en": "Easily accessible on foot from the port area."
+            "en": "Easily accessible on foot from the port area.",
+            "fr": "Facilement accessible à pied depuis la zone portuaire."
           }
         },
         {
@@ -857,7 +900,8 @@
             "de": "Bus zurück Richtung Zentrum nehmen.",
             "hu": "Szállj buszra visszafelé a központ irányába.",
             "ro": "Luați autobuzul înapoi spre centru.",
-            "en": "Take the bus back towards the city center."
+            "en": "Take the bus back towards the city center.",
+            "fr": "Prenez le bus en direction du centre-ville pour le retour."
           }
         },
         {
@@ -875,7 +919,8 @@
             "de": "Letzter Stopp im Zentrum vor der Abreise.",
             "hu": "Utolsó megálló a központban hazaindulás előtt.",
             "ro": "Ultima oprire în centru înainte de plecare.",
-            "en": "Final stop in the center before your departure."
+            "en": "Final stop in the center before your departure.",
+            "fr": "Dernier arrêt au centre avant votre départ."
           }
         }
       ],
@@ -883,7 +928,8 @@
         "de": "Dank des TUB-Busnetzes erkunden Sie Saint-Brieuc entspannt. Das Zentrum mit Kathedrale und Museum bildet den ersten Block. Mit der Linie A gelangen Sie schnell zum Hafen von Légué für ein Mittagessen am Wasser und einen Besuch der Villa Rohannec'h, bevor Sie für den Ausklang zurück ins Zentrum fahren.",
         "hu": "A TUB buszhálózat segítségével kényelmesen bejárható a város. A központ látnivalói után az A vonal gyorsan levisz a Légué kikötőbe, ahol a Rohannec'h villa és a vízparti éttermek várnak. A napot végül a felsőváros neoklasszicista templománál zárjuk.",
         "ro": "Rețeaua de autobuze TUB facilitează explorarea orașului. Începem cu centrul istoric, apoi linia A ne duce rapid în portul Légué pentru prânz și o vizită la vila Rohannec'h. Încheiem ziua cu o plimbare peste viaductul Toupin și o vizită la biserica Saint-Michel.",
-        "en": "Saint-Brieuc's TUB bus network makes it easy to hop between the upper town and the port. Start with the historic sights, then take the frequent shuttle down to Port de Légué. Enjoy the maritime atmosphere and the Rohannec'h estate before returning to the center for a final sunset view."
+        "en": "Saint-Brieuc's TUB bus network makes it easy to hop between the upper town and the port. Start with the historic sights, then take the frequent shuttle down to Port de Légué. Enjoy the maritime atmosphere and the Rohannec'h estate before returning to the center for a final sunset view.",
+        "fr": "Le réseau de bus TUB de Saint-Brieuc facilite les allers-retours entre la haute ville et le port. Commencez par les sites historiques, puis prenez la navette fréquente jusqu'au Port de Légué. Profitez de l'atmosphère maritime et du domaine de Rohannec'h avant de revenir au centre pour une dernière vue au coucher du soleil."
       },
       "gastro_picks": {
         "de": [
@@ -987,6 +1033,11 @@
           "Buy a day pass directly from the bus driver for convenience.",
           "Line A is your primary link between center and port.",
           "Buses run less frequently on weekends, so check the schedule."
+        ],
+        "fr": [
+          "Achetez un pass journée directement auprès du conducteur pour plus de commodité.",
+          "La ligne A est votre lien principal entre le centre et le port.",
+          "Les bus circulent moins souvent le week-end, vérifiez donc les horaires."
         ]
       }
     }

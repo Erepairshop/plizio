@@ -31,7 +31,8 @@
             "de": "Genießen Sie den Kaffee zwischen den Fachwerkhäusern aus dem 15. Jahrhundert.",
             "hu": "Kávézzon a 15. századi gerendás házak között a város legélénkebb terén.",
             "ro": "Savurați o cafea între casele cu bârne de lemn din secolul al XV-lea.",
-            "en": "Enjoy a coffee among the 15th-century timber-framed houses in the liveliest square."
+            "en": "Enjoy a coffee among the 15th-century timber-framed houses in the liveliest square.",
+            "fr": "Dégustez un café parmi les maisons à colombages du XVe siècle sur la place la plus animée."
           }
         },
         {
@@ -49,7 +50,8 @@
             "de": "Besuchen Sie die Krypta mit dem Grab des Heiligen Martin, dem Schutzpatron von Tours.",
             "hu": "Látogasson el a kriptába, ahol Szent Márton, Tours védőszentjének sírja található.",
             "ro": "Vizitați cripta cu mormântul Sfântului Martin, patronul orașului Tours.",
-            "en": "Visit the crypt containing the tomb of Saint Martin, the patron saint of Tours."
+            "en": "Visit the crypt containing the tomb of Saint Martin, the patron saint of Tours.",
+            "fr": "Visitez la crypte contenant le tombeau de Saint Martin, patron de Tours."
           }
         },
         {
@@ -67,7 +69,8 @@
             "de": "Bewundern Sie die prächtige Renaissance-Fassade dieses ehemaligen Privathauses.",
             "hu": "Csodálja meg ennek az egykori magánháznak a pompás reneszánsz homlokzatát.",
             "ro": "Admirați fațada splendidă în stil renascentist a acestei foste reședințe private.",
-            "en": "Admire the magnificent Renaissance facade of this former private residence."
+            "en": "Admire the magnificent Renaissance facade of this former private residence.",
+            "fr": "Admirez la magnifique façade Renaissance de cette ancienne demeure privée."
           }
         },
         {
@@ -85,7 +88,8 @@
             "de": "Der beste Ort für Fotos der Loire und der Stadt Silhouette.",
             "hu": "A legjobb hely fotózáshoz a Loire-folyóról és a város sziluettjéről.",
             "ro": "Cel mai bun loc pentru fotografii cu Loira și silueta orașului.",
-            "en": "The best spot for photos of the Loire river and the city skyline."
+            "en": "The best spot for photos of the Loire river and the city skyline.",
+            "fr": "Le meilleur endroit pour des photos de la Loire et de la silhouette urbaine."
           }
         },
         {
@@ -103,7 +107,8 @@
             "de": "Entdecken Sie die wechselnden Kunstausstellungen in den historischen Mauern.",
             "hu": "Fedezze fel a változó művészeti kiállításokat a történelmi falak között.",
             "ro": "Descoperiți expozițiile de artă temporare în interiorul zidurilor istorice.",
-            "en": "Discover the rotating art exhibitions within the historic walls."
+            "en": "Discover the rotating art exhibitions within the historic walls.",
+            "fr": "Découvrez les expositions d'art temporaires à l'intérieur des murs historiques."
           }
         },
         {
@@ -121,7 +126,8 @@
             "de": "Staunen Sie über die Glasmalereien aus dem 13. Jahrhundert in der Hauptkapelle.",
             "hu": "Ámuljon el a főhajó 13. századi üvegablakainak színein.",
             "ro": "Admirați vitraliile din secolul al XIII-lea din capela principală.",
-            "en": "Marvel at the 13th-century stained glass windows in the main chapel."
+            "en": "Marvel at the 13th-century stained glass windows in the main chapel.",
+            "fr": "Émerveillez-vous devant les vitraux du XIIIe siècle dans la chapelle principale."
           }
         },
         {
@@ -139,7 +145,8 @@
             "de": "Verpassen Sie nicht die beeindruckende Zeder im Garten des Museums.",
             "hu": "Ne hagyja ki a múzeum kertjében álló lenyűgöző cédrusfát.",
             "ro": "Nu ratați cedrul impresionant din grădina muzeului.",
-            "en": "Don't miss the impressive cedar tree in the museum's garden."
+            "en": "Don't miss the impressive cedar tree in the museum's garden.",
+            "fr": "Ne manquez pas le cèdre imposant dans le jardin du musée."
           }
         }
       ],
@@ -147,7 +154,8 @@
         "de": "Morgens erkunden Sie das Herz des mittelalterlichen Tours am Place Plumereau und besuchen die Basilika des Heiligen Martin. Mittags spazieren Sie entlang der Loire über die Pont Wilson. Der Nachmittag gehört der Kunst im Schloss von Tours und der prächtigen Kathedrale Saint-Gatien. Den Tag beenden Sie im Kunstmuseum, umgeben von Geschichte und einem wunderschönen Garten.",
         "hu": "A reggelt Tours középkori szívében, a Place Plumereau-n indítjuk, majd Szent Márton nyomába eredünk. Délben a Loire partján és a Pont Wilsonon sétálunk. A délután a művészeté és a történelemé: a Tours-i kastély és a gótikus katedrális vár ránk. A napot a Szépművészeti Múzeum kincsei és kertje körében zárjuk.",
         "ro": "Dimineața explorăm inima medievală a orașului în Place Plumereau și vizităm Basilica Sfântului Martin. La prânz ne plimbăm pe malul Loirei și pe Pont Wilson. După-amiaza este dedicată artei la Castelul din Tours și măreței Catedrale Saint-Gatien. Încheiem ziua la Muzeul de Arte Frumoase, înconjurați de istorie și o grădină superbă.",
-        "en": "In the morning, explore the heart of medieval Tours at Place Plumereau and visit Saint Martin's Basilica. At midday, stroll along the Loire via Pont Wilson. The afternoon is dedicated to art at the Castle of Tours and the magnificent Saint-Gatien Cathedral. Finish the day at the Museum of Fine Arts, surrounded by history and a beautiful garden."
+        "en": "In the morning, explore the heart of medieval Tours at Place Plumereau and visit Saint Martin's Basilica. At midday, stroll along the Loire via Pont Wilson. The afternoon is dedicated to art at the Castle of Tours and the magnificent Saint-Gatien Cathedral. Finish the day at the Museum of Fine Arts, surrounded by history and a beautiful garden.",
+        "fr": "Le matin, explorez le cœur médiéval de Tours à la Place Plumereau et visitez la basilique Saint-Martin. À midi, promenez-vous le long de la Loire via le pont Wilson. L'après-midi est consacré à l'art au Château de Tours et à la magnifique cathédrale Saint-Gatien. Terminez la journée au Musée des Beaux-Arts, entouré d'histoire et d'un beau jardin."
       },
       "gastro_picks": {
         "de": [
@@ -287,6 +295,11 @@
           "Tours is very flat and perfect for exploring on foot.",
           "Most sights in the center are within easy walking distance of each other.",
           "Wear comfortable shoes for the cobblestone streets in the old town."
+        ],
+        "fr": [
+          "Tours est très plate et parfaite pour être parcourue à pied.",
+          "La plupart des sites du centre sont faciles d'accès à pied les uns des autres.",
+          "Portez des chaussures confortables pour les pavés de la vieille ville."
         ]
       }
     },
@@ -313,7 +326,8 @@
             "de": "Besuchen Sie das kleine Gehege mit den Tieren im hinteren Teil des Gartens.",
             "hu": "Látogassa meg a kert hátuljában található kis állatkarámot.",
             "ro": "Vizitați mica incintă cu animale din partea din spate a grădinii.",
-            "en": "Visit the small animal enclosure at the back of the garden."
+            "en": "Visit the small animal enclosure at the back of the garden.",
+            "fr": "Visitez le petit enclos d'animaux à l'arrière du jardin."
           }
         },
         {
@@ -331,7 +345,8 @@
             "de": "Schließen Sie Ihr Fahrrad sicher an den markierten Ständern an.",
             "hu": "Zárja le biztonságosan kerékpárját a kijelölt tárolóknál.",
             "ro": "Legatț bicicleta în siguranță la suporturile marcate.",
-            "en": "Lock your bike securely at the designated stands."
+            "en": "Lock your bike securely at the designated stands.",
+            "fr": "Verrouillez votre vélo solidement aux arceaux prévus à cet effet."
           }
         },
         {
@@ -349,7 +364,8 @@
             "de": "In den engen Gassen ist Schieben oft besser als Fahren.",
             "hu": "A szűk utcákban gyakran jobb tolni a biciklit, mint tekerni.",
             "ro": "În străzile înguste, este adesea mai bine să mergeți pe lângă bicicletă.",
-            "en": "In the narrow streets, pushing your bike is often better than riding."
+            "en": "In the narrow streets, pushing your bike is often better than riding.",
+            "fr": "Dans les rues étroites, pousser son vélo est souvent mieux que rouler."
           }
         },
         {
@@ -367,7 +383,8 @@
             "de": "Nutzen Sie den breiten Radweg für die Überquerung der Loire.",
             "hu": "Használja a széles kerékpárutat a Loire-on való átkeléshez.",
             "ro": "Folosiți pista largă de biciclete pentru a traversa Loira.",
-            "en": "Use the wide bike lane for crossing the Loire river."
+            "en": "Use the wide bike lane for crossing the Loire river.",
+            "fr": "Utilisez la large piste cyclable pour traverser la Loire."
           }
         },
         {
@@ -385,7 +402,8 @@
             "de": "Die Uferstraße bietet eine flache und schnelle Verbindung zum Schloss.",
             "hu": "A folyóparti út sík és gyors összeköttetést kínál a kastélyhoz.",
             "ro": "Drumul de pe malul râului oferă o legătură plată și rapidă către castel.",
-            "en": "The riverside road offers a flat and fast connection to the castle."
+            "en": "The riverside road offers a flat and fast connection to the castle.",
+            "fr": "La route en bord de rivière offre une liaison plate et rapide vers le château."
           }
         },
         {
@@ -403,7 +421,8 @@
             "de": "Das Viertel um die Kathedrale ist ruhig und ideal zum Radeln.",
             "hu": "A székesegyház környéke csendes és ideális a biciklizéshez.",
             "ro": "Cartierul din jurul catedralei este liniștit și ideal pentru ciclism.",
-            "en": "The area around the cathedral is quiet and ideal for cycling."
+            "en": "The area around the cathedral is quiet and ideal for cycling.",
+            "fr": "Le secteur autour de la cathédrale est calme et idéal pour le vélo."
           }
         }
       ],
@@ -411,7 +430,8 @@
         "de": "Diese Fahrradtour führt Sie vom üppigen Botanischen Garten durch die Altstadt bis zur Loire. Sie überqueren den Fluss auf der Pont Wilson und fahren entlang des Ufers zum Schloss. Die Tour endet an der majestätischen Kathedrale, nachdem Sie die Stadt aus einer dynamischen Perspektive erlebt haben.",
         "hu": "Ez a kerékpáros túra a dús Botanikus kerttől az óvároson át egészen a Loire-ig vezet. Átkelünk a folyón a Pont Wilsonon, majd a part mentén tekerünk a kastélyig. A túra a fenséges székesegyháznál ér véget, miután dinamikus perspektívából ismertük meg a várost.",
         "ro": "Acest tur cu bicicleta vă poartă de la Grădina Botanică luxuriantă, prin centrul vechi, până la Loira. Traversăm râul pe Pont Wilson și pedalăm de-a lungul malului până la castel. Turul se încheie la catedrala maiestuoasă, după ce ați experimentat orașul dintr-o perspectivă dinamică.",
-        "en": "This bike tour takes you from the lush Botanical Garden through the old town all the way to the Loire. Cross the river on Pont Wilson and ride along the banks to the castle. The tour ends at the majestic cathedral after experiencing the city from a dynamic perspective."
+        "en": "This bike tour takes you from the lush Botanical Garden through the old town all the way to the Loire. Cross the river on Pont Wilson and ride along the banks to the castle. The tour ends at the majestic cathedral after experiencing the city from a dynamic perspective.",
+        "fr": "Cette balade à vélo vous mène du luxuriant Jardin botanique à travers la vieille ville jusqu'à la Loire. Traversez le fleuve sur le pont Wilson et roulez le long des berges jusqu'au château. La visite se termine à la majestueuse cathédrale après avoir découvert la ville sous un angle dynamique."
       },
       "gastro_picks": {
         "de": [
@@ -515,6 +535,11 @@
           "Tours is part of the 'La Loire à Vélo' cycling route.",
           "The paths are excellently developed and well-marked.",
           "Use the 'Indigo' bike rental stations in the city center."
+        ],
+        "fr": [
+          "Tours fait partie de l'itinéraire cyclable 'La Loire à Vélo'.",
+          "Les pistes sont très bien aménagées et correctement balisées.",
+          "Utilisez les stations de location de vélos 'Indigo' en centre-ville."
         ]
       }
     },
@@ -541,7 +566,8 @@
             "de": "Parken Sie im Parkhaus 'Halles' und gehen Sie zu Fuß weiter.",
             "hu": "Parkoljon a 'Halles' parkolóházban, és menjen tovább gyalog.",
             "ro": "Parcați în parcarea 'Halles' și continuați pe jos.",
-            "en": "Park in the 'Halles' parking garage and continue on foot."
+            "en": "Park in the 'Halles' parking garage and continue on foot.",
+            "fr": "Garez-vous au parking 'Halles' et continuez à pied."
           }
         },
         {
@@ -559,7 +585,8 @@
             "de": "Kurzer Fußweg vom Place Plumereau (Cluster Altstadt).",
             "hu": "Rövid séta a Place Plumereau-tól (Óváros klaszter).",
             "ro": "Scurtă plimbare din Place Plumereau (Clusterul Orașul Vechi).",
-            "en": "Short walk from Place Plumereau (Old Town cluster)."
+            "en": "Short walk from Place Plumereau (Old Town cluster).",
+            "fr": "Courte marche depuis la Place Plumereau (ensemble Vieux Tours)."
           }
         },
         {
@@ -577,7 +604,8 @@
             "de": "Teil des geführten Spaziergangs durch das Viertel Vieux Tours.",
             "hu": "A Vieux Tours negyeden átvezető vezetett séta része.",
             "ro": "Parte a plimbării ghidate prin cartierul Vieux Tours.",
-            "en": "Part of the guided walk through the Vieux Tours district."
+            "en": "Part of the guided walk through the Vieux Tours district.",
+            "fr": "Fait partie de la visite guidée du quartier du Vieux Tours."
           }
         },
         {
@@ -595,7 +623,8 @@
             "de": "Fahrt zum Cluster Kathedrale; nutzen Sie die Parkplätze an der Place de la Cathédrale.",
             "hu": "Vezetés a Székesegyház klaszterhez; használja a katedrális téri parkolókat.",
             "ro": "Mergeți spre Clusterul Catedralei; folosiți locurile de parcare din Place de la Cathédrale.",
-            "en": "Drive to the Cathedral cluster; use the parking spots at Place de la Cathédrale."
+            "en": "Drive to the Cathedral cluster; use the parking spots at Place de la Cathédrale.",
+            "fr": "Conduisez jusqu'au secteur de la Cathédrale ; utilisez les places à la Place de la Cathédrale."
           }
         },
         {
@@ -613,7 +642,8 @@
             "de": "Direkt neben der Kathedrale (zu Fuß erreichbar).",
             "hu": "Közvetlenül a katedrális mellett (gyalogosan elérhető).",
             "ro": "Chiar lângă catedrală (accesibil pe jos).",
-            "en": "Right next to the cathedral (accessible on foot)."
+            "en": "Right next to the cathedral (accessible on foot).",
+            "fr": "Juste à côté de la cathédrale (accessible à pied)."
           }
         },
         {
@@ -631,7 +661,8 @@
             "de": "Letzter Stopp in diesem Cluster, bevor es zum Garten geht.",
             "hu": "Utolsó állomás ebben a klaszterben, mielőtt a kerthez mennénk.",
             "ro": "Ultima oprire în acest cluster înainte de a merge la grădină.",
-            "en": "Last stop in this cluster before heading to the garden."
+            "en": "Last stop in this cluster before heading to the garden.",
+            "fr": "Dernier arrêt de ce secteur avant de se rendre au jardin."
           }
         },
         {
@@ -649,7 +680,8 @@
             "de": "Fahrt zum westlichen Ende der Stadt; Parkplatz direkt am Haupteingang.",
             "hu": "Vezetés a város nyugati szélére; parkoló közvetlenül a főbejáratnál.",
             "ro": "Mergeți spre marginea de vest a orașului; parcare chiar la intrarea principală.",
-            "en": "Drive to the western edge of the city; parking right at the main entrance."
+            "en": "Drive to the western edge of the city; parking right at the main entrance.",
+            "fr": "Conduisez jusqu'à la lisière ouest de la ville ; parking juste à l'entrée principale."
           }
         }
       ],
@@ -657,7 +689,8 @@
         "de": "Mit dem Auto erkunden Sie Tours in effizienten Clustern. Zuerst parken Sie in der Altstadt für den Place Plumereau und Saint-Martin. Danach fahren Sie zum Kathedralen-Viertel, wo Sie die Kirche, das Schloss und das Kunstmuseum gesammelt besuchen. Zum Abschluss führt die Fahrt zum ruhigen Botanischen Garten im Westen der Stadt.",
         "hu": "Autóval hatékony klaszterekben fedezzük fel Tours-t. Először az óvárosban parkolunk a Place Plumereau és a Szent Márton bazilika meglátogatásához. Ezután a Katedrális-negyedbe hajtunk, ahol a templom, a kastély és a múzeum vár. Végül a város nyugati részén fekvő csendes Botanikus kertbe látogatunk.",
         "ro": "Cu mașina, explorăm orașul Tours în clustere eficiente. Mai întâi parcați în centrul vechi pentru Place Plumereau și Saint-Martin. Apoi conduceți spre cartierul Catedralei, unde vizitați biserica, castelul și muzeul de artă. La final, drumul vă duce la liniștita Grădină Botanică din vestul orașului.",
-        "en": "By car, explore Tours in efficient clusters. First, park in the old town for Place Plumereau and Saint Martin. Then, drive to the Cathedral district to visit the church, castle, and art museum together. Finally, head to the peaceful Botanical Garden on the western edge of the city."
+        "en": "By car, explore Tours in efficient clusters. First, park in the old town for Place Plumereau and Saint Martin. Then, drive to the Cathedral district to visit the church, castle, and art museum together. Finally, head to the peaceful Botanical Garden on the western edge of the city.",
+        "fr": "En voiture, explorez Tours par secteurs efficaces. D'abord, garez-vous dans la vieille ville pour Place Plumereau et Saint-Martin. Ensuite, conduisez jusqu'au quartier de la Cathédrale pour visiter l'église, le château et le musée d'art ensemble. Enfin, rendez-vous au paisible Jardin botanique à la lisière ouest de la ville."
       },
       "gastro_picks": {
         "de": [
@@ -761,6 +794,11 @@
           "Avoid driving directly into the pedestrian zones of the old town.",
           "Use the Park-and-Ride (P+R) lots at the tram termini.",
           "On-street parking in the center is often time-limited."
+        ],
+        "fr": [
+          "Évitez de conduire directement dans les zones piétonnes de la vieille ville.",
+          "Utilisez les parkings relais (P+R) aux terminus du tram.",
+          "Le stationnement dans la rue au centre est souvent limité dans le temps."
         ]
       }
     },
@@ -787,7 +825,8 @@
             "de": "Nehmen Sie die Tram Linie A bis zur Haltestelle 'Porte de Loire'.",
             "hu": "Szálljon fel az 'A' villamosra a 'Porte de Loire' megállóig.",
             "ro": "Luați tramvaiul linia A până la stația 'Porte de Loire'.",
-            "en": "Take tram line A to the 'Porte de Loire' stop."
+            "en": "Take tram line A to the 'Porte de Loire' stop.",
+            "fr": "Prenez la ligne de tram A jusqu'à l'arrêt 'Porte de Loire'."
           }
         },
         {
@@ -805,7 +844,8 @@
             "de": "Vom Place Plumereau aus leicht zu Fuß erreichbar.",
             "hu": "A Place Plumereau-tól könnyen elérhető gyalogosan.",
             "ro": "Accesibil ușor pe jos din Place Plumereau.",
-            "en": "Easily accessible on foot from Place Plumereau."
+            "en": "Easily accessible on foot from Place Plumereau.",
+            "fr": "Facilement accessible à pied depuis la Place Plumereau."
           }
         },
         {
@@ -823,7 +863,8 @@
             "de": "Die Tram überquert die Brücke; steigen Sie für die Aussicht aus.",
             "hu": "A villamos áthalad a hídon; szálljon le a kilátás kedvéért.",
             "ro": "Tramvaiul traversează podul; coborâți pentru panoramă.",
-            "en": "The tram crosses the bridge; get off to enjoy the view."
+            "en": "The tram crosses the bridge; get off to enjoy the view.",
+            "fr": "Le tram traverse le pont ; descendez pour profiter de la vue."
           }
         },
         {
@@ -841,7 +882,8 @@
             "de": "Nutzen Sie den Bus Linie 54 oder die Tram bis 'Nationale'.",
             "hu": "Használja az 54-es buszt vagy a villamost a 'Nationale' megállóig.",
             "ro": "Folosiți autobuzul linia 54 sau tramvaiul până la 'Nationale'.",
-            "en": "Use bus line 54 or the tram to the 'Nationale' stop."
+            "en": "Use bus line 54 or the tram to the 'Nationale' stop.",
+            "fr": "Prenez la ligne de bus 54 ou le tram jusqu'à l'arrêt 'Nationale'."
           }
         },
         {
@@ -859,7 +901,8 @@
             "de": "Vom Kathedralen-Distrikt aus ein kurzer Spaziergang zum Fluss.",
             "hu": "A Katedrális-negyedtől rövid séta a folyó felé.",
             "ro": "Din zona catedralei, o scurtă plimbare spre râu.",
-            "en": "A short walk towards the river from the cathedral district."
+            "en": "A short walk towards the river from the cathedral district.",
+            "fr": "Courte marche en direction du fleuve depuis le quartier de la cathédrale."
           }
         },
         {
@@ -877,7 +920,8 @@
             "de": "Nehmen Sie den Bus Linie 4 direkt bis zur Haltestelle 'Botanique'.",
             "hu": "Szálljon fel a 4-es buszra közvetlenül a 'Botanique' megállóig.",
             "ro": "Luați autobuzul linia 4 direct până la stația 'Botanique'.",
-            "en": "Take bus line 4 directly to the 'Botanique' stop."
+            "en": "Take bus line 4 directly to the 'Botanique' stop.",
+            "fr": "Prenez la ligne de bus 4 directement jusqu'à l'arrêt 'Botanique'."
           }
         }
       ],
@@ -885,7 +929,8 @@
         "de": "Nutzen Sie das ausgezeichnete Tram- und Bussystem von Tours. Wir starten im Zentrum und fahren über die Pont Wilson zum Kathedralen-Viertel. Nach dem Besuch der historischen Monumente bringt uns der Bus direkt zum Botanischen Garten, wo wir die Tour im Grünen entspannt ausklingen lassen.",
         "hu": "Használja Tours kiváló villamos- és buszhálózatát. A központból indulunk, átkelünk a Pont Wilsonon a Katedrális-negyedig. A történelmi műemlékek megtekintése után busz visz minket közvetlenül a Botanikus kertbe, ahol a túrát a zöldben, pihentetően zárjuk.",
         "ro": "Folosiți sistemul excelent de tramvai și autobuz din Tours. Pornim din centru și traversăm Pont Wilson spre cartierul Catedralei. După vizitarea monumentelor istorice, autobuzul ne duce direct la Grădina Botanică, unde încheiem turul relaxat, în mijlocul naturii.",
-        "en": "Make use of Tours' excellent tram and bus network. We start in the center and travel via Pont Wilson to the Cathedral district. After visiting the historic monuments, a bus takes us directly to the Botanical Garden, where we end the tour with a relaxing break in the greenery."
+        "en": "Make use of Tours' excellent tram and bus network. We start in the center and travel via Pont Wilson to the Cathedral district. After visiting the historic monuments, a bus takes us directly to the Botanical Garden, where we end the tour with a relaxing break in the greenery.",
+        "fr": "Profitez du excellent réseau tram-bus de Tours. Nous commençons au centre et passons par le pont Wilson vers le quartier de la Cathédrale. Après la visite des monuments historiques, un bus nous emmène directement au Jardin botanique, où nous terminons la visite par une pause détente au milieu de la verdure."
       },
       "gastro_picks": {
         "de": [
@@ -989,6 +1034,11 @@
           "Download the 'Fil Bleu' app for real-time schedules.",
           "Tickets can be purchased directly from machines at the tram stops.",
           "A day pass is often cheaper than multiple single tickets."
+        ],
+        "fr": [
+          "Téléchargez l'application 'Fil Bleu' pour les horaires en temps réel.",
+          "Les tickets peuvent être achetés directement aux distributeurs aux arrêts de tram.",
+          "Un pass journée est souvent moins cher que plusieurs tickets simples."
         ]
       }
     }

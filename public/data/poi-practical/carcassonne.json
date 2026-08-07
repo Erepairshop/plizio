@@ -3,55 +3,64 @@
     "de": "Place du Château, 11000 Carcassonne",
     "hu": "Place du Château, 11000 Carcassonne",
     "ro": "Place du Château, 11000 Carcassonne",
-    "en": "Place du Château, 11000 Carcassonne"
+    "en": "Place du Château, 11000 Carcassonne",
+    "fr": "Place du Château, 11000 Carcassonne"
   },
   "openingHours": {
     "de": "24/7",
     "hu": "0-24",
     "ro": "24/7",
-    "en": "24/7"
+    "en": "24/7",
+    "fr": "24/7"
   },
   "entranceFee": {
     "de": "Stadtbesichtigung kostenlos",
     "hu": "A városnézés ingyenes",
     "ro": "Vizitarea orașului este gratuită",
-    "en": "City sightseeing free"
+    "en": "City sightseeing free",
+    "fr": "visite de la ville gratuite"
   },
   "website": "https://www.tourisme-carcassonne.fr",
   "publicTransport": {
     "de": "Navette 'Le Petit Train' ab Unterstadt zum Burgtor",
     "hu": "'Le Petit Train' kisvonat az alsóvárostól a várkapuig",
     "ro": "Naveta 'Le Petit Train' din orașul de jos până la poarta castelului",
-    "en": "'Le Petit Train' shuttle from the lower town to the castle gate"
+    "en": "'Le Petit Train' shuttle from the lower town to the castle gate",
+    "fr": "« Le Petit Train » navette de la ville basse jusqu'à la porte du château"
   },
   "parking": {
     "de": "Parkplatz P1 an der Cité, ca. €4.00 für 2 Std.",
     "hu": "P1 parkoló a Cité-nél, kb. 4€ két órára.",
     "ro": "Parcarea P1 la Cité, aprox. 4€ pentru 2 ore.",
-    "en": "P1 parking lot at the Cité, approx. €4.00 for 2 hours."
+    "en": "P1 parking lot at the Cité, approx. €4.00 for 2 hours.",
+    "fr": "Parking P1 à la Cité, env. 4,00 € pour 2 heures."
   },
   "accessibility": {
     "de": "Kopfsteinpflaster, für Rollstühle sehr mühsam.",
     "hu": "Macskaköves burkolat, kerekesszékkel nagyon nehezen járható.",
     "ro": "Pavaj cu piatră cubică, foarte anevoios pentru scaune cu rotile.",
-    "en": "Cobblestones, very difficult for wheelchairs."
+    "en": "Cobblestones, very difficult for wheelchairs.",
+    "fr": "Pavés, très difficile pour les fauteuils roulants."
   },
   "photoRules": {
     "de": "Uneingeschränkt erlaubt.",
     "hu": "Korlátozás nélkül megengedett.",
     "ro": "Permis fără restricții.",
-    "en": "Unrestricted permission."
+    "en": "Unrestricted permission.",
+    "fr": "Autorisation sans restriction."
   },
   "bestTimeToVisit": {
     "de": "Spätabends, wenn die Tagestouristen weg sind.",
     "hu": "Késő este, amikor az egynapos turisták már elmentek.",
     "ro": "Seara târziu, când turiștii de o zi au plecat.",
-    "en": "Late evening when the day tourists have left."
+    "en": "Late evening when the day tourists have left.",
+    "fr": "Tard le soir quand les touristes du jour sont partis."
   },
   "audioGuide": {
     "de": "nein",
     "hu": "nincs",
     "ro": "nu",
-    "en": "no"
+    "en": "no",
+    "fr": "non"
   }
 }

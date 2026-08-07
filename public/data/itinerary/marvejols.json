@@ -21,7 +21,8 @@
             "de": "Statue von Heinrich IV",
             "hu": "IV. Henrik szobra",
             "ro": "Statuia lui Henric al IV-lea",
-            "en": "Statue of Henri IV"
+            "en": "Statue of Henri IV",
+            "fr": "Statue of Henri IV"
           },
           "coords": [
             3.291079,
@@ -36,7 +37,8 @@
             "de": "Bewundern Sie die beeindruckende Statue von Heinrich IV., die den König ehrt, der beim Wiederaufbau der Stadt half, und nehmen Sie sich Zeit für die Inschrift am Sockel.",
             "hu": "Csodálja meg IV. Henrik szobrát, amely a város újjáépítését segítő királynak állít emléket, és mindenképpen olvassa el a talapzaton található feliratot.",
             "ro": "Admirați impresionanta statuie a lui Henric al IV-lea, care onorează regele ce a ajutat la reconstrucția orașului, și citiți inscripția interesantă de pe piedestal.",
-            "en": "Admire the striking statue of Henri IV, which celebrates the king who helped rebuild the town, and take a moment to read the inscription on its pedestal."
+            "en": "Admire the striking statue of Henri IV, which celebrates the king who helped rebuild the town, and take a moment to read the inscription on its pedestal.",
+            "fr": "Admirez la statue saisissante d'Henri IV, qui célèbre le roi qui contribua à rebâtir la ville, et prenez un moment pour lire l'inscription sur son socle."
           }
         },
         {
@@ -44,7 +46,8 @@
             "de": "Porte de Soubeyran",
             "hu": "Porte de Soubeyran",
             "ro": "Porte de Soubeyran",
-            "en": "Porte de Soubeyran"
+            "en": "Porte de Soubeyran",
+            "fr": "Porte de Soubeyran"
           },
           "coords": [
             3.29079,
@@ -59,7 +62,8 @@
             "de": "Schreiten Sie durch dieses mittelalterliche Tor, das die alten Verteidigungsanlagen von Marvejols zeigt, und beachten Sie das gut erhaltene Mauerwerk.",
             "hu": "Sétáljon át ezen a középkori kapun, amely Marvejols ősi védelmét mutatja be, és figyelje meg a jó állapotban fennmaradt kőművesmunkát.",
             "ro": "Treceți prin această poartă medievală ce demonstrează apărarea străveche a orașului Marvejols și observați zidăria bine conservată înainte de a intra în centru.",
-            "en": "Pass through this medieval gateway that showcases Marvejols' ancient defenses, and notice the well-preserved stonework before heading into the historic center."
+            "en": "Pass through this medieval gateway that showcases Marvejols' ancient defenses, and notice the well-preserved stonework before heading into the historic center.",
+            "fr": "Passez par cette porte médiévale qui met en valeur les anciennes défenses de Marvejols, et remarquez les pierres bien conservées avant d'entrer dans le centre historique."
           }
         },
         {
@@ -67,7 +71,8 @@
             "de": "Kirche Notre-Dame-de-la-Carce",
             "hu": "Notre-Dame-de-la-Carce templom",
             "ro": "Biserica Notre-Dame-de-la-Carce",
-            "en": "Church of Notre-Dame-de-la-Carce"
+            "en": "Church of Notre-Dame-de-la-Carce",
+            "fr": "Church of Notre-Dame-de-la-Carce"
           },
           "coords": [
             3.288563,
@@ -82,7 +87,8 @@
             "de": "Betreten Sie diese wunderschöne Stiftskirche, um ihre großartige Architektur und die Buntglasfenster zu bewundern, die Ihrem Tag eine stille Ehrfurcht verleihen.",
             "hu": "Lépjen be ebbe a gyönyörű társaskáptalani templomba, hogy megcsodálja lenyűgöző építészetét és ólomüveg ablakait, melyek nyugodt hangulatot árasztanak.",
             "ro": "Pășiți în interiorul acestei frumoase biserici colegiale pentru a-i aprecia arhitectura grandioasă și vitraliile care aduc o reverență tăcută zilei dumneavoastră.",
-            "en": "Step inside this beautiful collegiate church to appreciate its grand architecture and stained glass windows, bringing a quiet reverence to your day."
+            "en": "Step inside this beautiful collegiate church to appreciate its grand architecture and stained glass windows, bringing a quiet reverence to your day.",
+            "fr": "Pénétrez dans cette belle collégiale pour apprécier sa grande architecture et ses vitraux, apportant un recueillement tranquille à votre journée."
           }
         },
         {
@@ -90,7 +96,8 @@
             "de": "Haus Besoin de Berc",
             "hu": "Besoin de Berc ház",
             "ro": "Casa Besoin de Berc",
-            "en": "Besoin de Berc House"
+            "en": "Besoin de Berc House",
+            "fr": "Besoin de Berc House"
           },
           "coords": [
             3.290187,
@@ -105,7 +112,8 @@
             "de": "Entdecken Sie die elegante Fassade des Hauses Besoin de Berc, ein hervorragendes Beispiel lokaler historischer Architektur, und achten Sie auf die einzigartigen Fensterdetails.",
             "hu": "Fedezze fel a Besoin de Berc ház elegáns homlokzatát, amely a helyi történelmi építészet kiváló példája, és figyelje meg az egyedi ablakdíszítéseket.",
             "ro": "Descoperiți fațada elegantă a casei Besoin de Berc, un exemplu excelent de arhitectură istorică locală, și fiți atenți la detaliile unice ale ferestrelor.",
-            "en": "Discover the elegant facade of the Besoin de Berc House, an excellent example of local historic architecture, and look out for its unique window details."
+            "en": "Discover the elegant facade of the Besoin de Berc House, an excellent example of local historic architecture, and look out for its unique window details.",
+            "fr": "Découvrez la façade élégante de la Besoin de Berc House, un excellent exemple de l'architecture historique locale, et repérez ses détails de fenêtres uniques."
           }
         },
         {
@@ -113,7 +121,8 @@
             "de": "Porte du Thérond",
             "hu": "Porte du Thérond",
             "ro": "Porte du Thérond",
-            "en": "Porte du Thérond"
+            "en": "Porte du Thérond",
+            "fr": "Porte du Thérond"
           },
           "coords": [
             3.291872,
@@ -128,7 +137,8 @@
             "de": "Erkunden Sie dieses robuste steinerne Festungstor, das einst den östlichen Zugang bewachte, und machen Sie unbedingt einige Fotos des imposanten Torbogens.",
             "hu": "Fedezze fel ezt a robusztus kőből épült erődítménykaput, amely egykor a keleti bejáratot őrizte, és mindenképpen készítsen fotókat az impozáns boltívről.",
             "ro": "Explorați această poartă robustă de fortăreață din piatră, care păzea odată intrarea estică, și asigurați-vă că faceți câteva fotografii ale arcadei impunătoare.",
-            "en": "Explore this robust stone fortress gate that once guarded the eastern approach, and make sure to capture some photos of the imposing archway."
+            "en": "Explore this robust stone fortress gate that once guarded the eastern approach, and make sure to capture some photos of the imposing archway.",
+            "fr": "Explorez cette robuste porte-forteresse en pierre qui gardait autrefois l'approche est, et pensez à photographier l'arc imposant."
           }
         },
         {
@@ -136,7 +146,8 @@
             "de": "Porte de Chanelles",
             "hu": "Porte de Chanelles",
             "ro": "Porte de Chanelles",
-            "en": "Porte de Chanelles"
+            "en": "Porte de Chanelles",
+            "fr": "Porte de Chanelles"
           },
           "coords": [
             3.289942,
@@ -151,7 +162,8 @@
             "de": "Beenden Sie Ihren Spaziergang am südlichen Tor und bewundern Sie die massiven runden Türme, die die militärische Vergangenheit unterstreichen, bevor Sie sich entspannen.",
             "hu": "Fejezze be sétáját a déli kapunál, megcsodálva a katonai múltat idéző masszív kerek tornyokat, mielőtt megpihenne egy közeli kávézóban.",
             "ro": "Încheiați-vă plimbarea la poarta de sud, admirând turnurile rotunde masive care evidențiază trecutul militar, înainte de a vă relaxa la o cafenea din apropiere.",
-            "en": "Conclude your walk at the southern gate, admiring the massive round towers that highlight the military past, before relaxing at a nearby cafe."
+            "en": "Conclude your walk at the southern gate, admiring the massive round towers that highlight the military past, before relaxing at a nearby cafe.",
+            "fr": "Concluez votre promenade à la porte sud, en admirant les grosses tours rondes qui témoignent du passé militaire, puis détendez-vous dans un café à proximité."
           }
         }
       ],
@@ -159,7 +171,8 @@
         "de": "Beginnen Sie Ihren Morgen mit der königlichen Geschichte an der Statue von Heinrich IV., bevor Sie durch die mittelalterliche Porte de Soubeyran gehen. Der Mittag bietet einen ruhigen Moment in der Kirche Notre-Dame-de-la-Carce. Am Nachmittag erkunden Sie die architektonischen Details des Besoin de Berc Hauses und die Porte du Thérond. Beenden Sie Ihren Spaziergang an der Porte de Chanelles.",
         "hu": "Kezdje a reggelt a királyi történelem magába szívásával IV. Henrik szobránál, majd keljen át a középkori Porte de Soubeyran kapun. A dél csendes pillanatot hoz a Notre-Dame-de-la-Carce templomban. Délután fedezze fel a Besoin de Berc ház részleteit és a lenyűgöző Porte du Thérond-t. Fejezze be történelmi sétáját este a robusztus Porte de Chanelles-nél.",
         "ro": "Începeți dimineața absorbind istoria regală la Statuia lui Henric al IV-lea, înainte de a trece prin Porte de Soubeyran. Amiaza aduce un moment de calm în Biserica Notre-Dame-de-la-Carce. După-amiaza, explorați detaliile arhitecturale ale Casei Besoin de Berc și impunătoarea Porte du Thérond. Încheiați plimbarea istorică seara la robusta Porte de Chanelles.",
-        "en": "Start your morning absorbing the regal history at the Statue of Henri IV before crossing through the medieval Porte de Soubeyran. Midday brings a calm moment of reflection inside the magnificent Church of Notre-Dame-de-la-Carce. In the afternoon, explore the architectural details of the Besoin de Berc House and the imposing Porte du Thérond. Conclude at the robust Porte de Chanelles."
+        "en": "Start your morning absorbing the regal history at the Statue of Henri IV before crossing through the medieval Porte de Soubeyran. Midday brings a calm moment of reflection inside the magnificent Church of Notre-Dame-de-la-Carce. In the afternoon, explore the architectural details of the Besoin de Berc House and the imposing Porte du Thérond. Conclude at the robust Porte de Chanelles.",
+        "fr": "Commencez la matinée en vous imprégnant de l'histoire royale à la statue d'Henri IV avant de traverser la porte médiévale de Soubeyran. À midi, profitez d'un moment de recueillement dans la magnifique église Notre-Dame-de-la-Carce. L'après-midi, explorez les détails architecturaux de la Besoin de Berc House et l'imposante porte du Thérond. Terminez à la robuste porte de Chanelles."
       },
       "variants": {
         "rainy": {
@@ -167,7 +180,8 @@
             "de": "Der Morgen beginnt an der Statue Heinrichs IV., wobei die Torbögen Schutz vor dem Regen bieten. Mittags lädt die Kirche zur trockenen Besichtigung ein. Am Nachmittag erkunden wir die historischen Tore, während das nasse Kopfsteinpflaster die Gassen glänzen lässt. Der Abend endet in der mystischen Atmosphäre der regennassen Altstadt, in der das Licht der Laternen stimmungsvoll reflektiert wird.",
             "hu": "A reggelt IV. Henrik szobránál indítjuk, az eső elől a középkori kapuk boltívei alatt keresve menedéket. Délben a templom csendes, száraz belső tere nyújt pihenőt. Délután a Thérond és Chanelles kapuk között sétálunk, figyelve a csúszós macskakövekre. Este a város sötétedő, esőtől fénylő utcái különleges, misztikus hangulatot árasztanak a történelmi falak között.",
             "ro": "Dimineața începe la statuia lui Henric al IV-lea, unde arcadele porților oferă adăpost împotriva ploii. La prânz, biserica invită la o vizită uscată. După-amiaza explorăm porțile istorice, în timp ce pavajul umed face străzile să strălucească. Seara se încheie în atmosfera mistică a orașului vechi udat de ploaie, unde lumina felinarelor se reflectă spectaculos pe piatră.",
-            "en": "The morning starts at the statue of Henri IV, with the medieval archways providing shelter from the rain. At noon, the church offers a dry sanctuary for quiet reflection. In the afternoon, we explore the historic gates as the wet cobblestones glisten underfoot. The evening ends in the mystical atmosphere of the rain-soaked old town, where streetlights reflect beautifully on the stones."
+            "en": "The morning starts at the statue of Henri IV, with the medieval archways providing shelter from the rain. At noon, the church offers a dry sanctuary for quiet reflection. In the afternoon, we explore the historic gates as the wet cobblestones glisten underfoot. The evening ends in the mystical atmosphere of the rain-soaked old town, where streetlights reflect beautifully on the stones.",
+            "fr": "La matinée débute à la statue d'Henri IV, les arches médiévales offrant un abri contre la pluie. À midi, l'église constitue un sanctuaire sec pour un moment de recueillement. L'après-midi, nous explorons les portes historiques tandis que les pavés mouillés brillent sous nos pas. La soirée se termine dans l'atmosphère mystique de la vieille ville trempée, où les réverbères se reflètent magnifiquement sur la pierre."
           },
           "stops": [
             {
@@ -175,13 +189,15 @@
                 "de": "Statue von Heinrich IV",
                 "hu": "IV. Henrik szobra",
                 "ro": "Statuia lui Henric al IV-lea",
-                "en": "Statue of Henri IV"
+                "en": "Statue of Henri IV",
+                "fr": "Statue of Henri IV"
               },
               "tip_5lang": {
                 "de": "Bewundern Sie die Bronzestatue aus dem Schutz eines nahen Hauseingangs; das nasse Metall glänzt im Regen besonders eindrucksvoll.",
                 "hu": "Csodálja meg a bronzszobrot egy közeli kapualj védelméből; a nedves fém különleges fénnyel csillog az esős időben.",
                 "ro": "Admirați statuia de bronz la adăpostul unei intrări din apropiere; metalul umed strălucește deosebit de frumos în ploaie.",
-                "en": "Admire the bronze statue from the shelter of a nearby doorway; the wet metal glistens with a unique shine in the rainy weather."
+                "en": "Admire the bronze statue from the shelter of a nearby doorway; the wet metal glistens with a unique shine in the rainy weather.",
+                "fr": "Admirez la statue en bronze depuis l'abri d'une porte voisine ; le métal humide scintille d'un éclat particulier sous la pluie."
               }
             },
             {
@@ -189,13 +205,15 @@
                 "de": "Porte de Soubeyran",
                 "hu": "Porte de Soubeyran",
                 "ro": "Porte de Soubeyran",
-                "en": "Porte de Soubeyran"
+                "en": "Porte de Soubeyran",
+                "fr": "Porte de Soubeyran"
               },
               "tip_5lang": {
                 "de": "Nutzen Sie den massiven Torbogen als natürlichen Regenschirm; hier können Sie in Ruhe die Karte prüfen, ohne nass zu werden.",
                 "hu": "Használja a hatalmas boltívet természetes esernyőként; itt nyugodtan ellenőrizheti az útvonalat anélkül, hogy megázna.",
                 "ro": "Folosiți arcada masivă ca pe o umbrelă naturală; este locul perfect pentru a verifica harta fără a vă uda în ploaie.",
-                "en": "Use the massive archway as a natural umbrella; it is a perfect spot to check your map while staying completely dry."
+                "en": "Use the massive archway as a natural umbrella; it is a perfect spot to check your map while staying completely dry.",
+                "fr": "Utilisez l'arche massive comme un parapluie naturel ; c'est l'endroit parfait pour vérifier votre carte en restant au sec."
               }
             },
             {
@@ -203,13 +221,15 @@
                 "de": "Kirche Notre-Dame-de-la-Carce",
                 "hu": "Notre-Dame-de-la-Carce templom",
                 "ro": "Biserica Notre-Dame-de-la-Carce",
-                "en": "Church of Notre-Dame-de-la-Carce"
+                "en": "Church of Notre-Dame-de-la-Carce",
+                "fr": "Church of Notre-Dame-de-la-Carce"
               },
               "tip_5lang": {
                 "de": "Das Innere ist der ideale Zufluchtsort; genießen Sie die Glasmalereien, die gegen den grauen Himmel besonders dramatisch wirken.",
                 "hu": "A templom belső tere ideális menedék; élvezze az üvegablakokat, amelyek a szürke égbolt előtt még drámaibb látványt nyújtanak.",
                 "ro": "Interiorul este refugiul ideal; admirați vitraliile care par și mai dramatice pe fundalul cerului gri de afară.",
-                "en": "The interior is the ideal refuge; enjoy the stained glass windows, which look even more dramatic against the grey sky."
+                "en": "The interior is the ideal refuge; enjoy the stained glass windows, which look even more dramatic against the grey sky.",
+                "fr": "L'intérieur est le refuge idéal ; appréciez les vitraux, qui paraissent encore plus dramatiques sous le ciel gris."
               }
             },
             {
@@ -217,13 +237,15 @@
                 "de": "Haus Besoin de Berc",
                 "hu": "Besoin de Berc ház",
                 "ro": "Casa Besoin de Berc",
-                "en": "Besoin de Berc House"
+                "en": "Besoin de Berc House",
+                "fr": "Besoin de Berc House"
               },
               "tip_5lang": {
                 "de": "Betrachten Sie die Renaissance-Details unter einem Regenschirm; die feuchten Steine offenbaren Texturen, die sonst kaum auffallen.",
                 "hu": "Szemlélje meg a reneszánsz részleteket esernyő alól; a nedves kőzet olyan textúrákat mutat meg, amik szárazon rejtve maradnak.",
                 "ro": "Observați detaliile renascentiste de sub umbrelă; piatra umedă dezvăluie texturi care altfel sunt greu de observat pe uscat.",
-                "en": "Observe the Renaissance details from under your umbrella; the damp stone reveals textures that are barely visible when dry."
+                "en": "Observe the Renaissance details from under your umbrella; the damp stone reveals textures that are barely visible when dry.",
+                "fr": "Observez les détails Renaissance depuis votre parapluie ; la pierre humide révèle des textures à peine visibles lorsqu'elle est sèche."
               }
             },
             {
@@ -231,13 +253,15 @@
                 "de": "Porte du Thérond",
                 "hu": "Porte du Thérond",
                 "ro": "Porte du Thérond",
-                "en": "Porte du Thérond"
+                "en": "Porte du Thérond",
+                "fr": "Porte du Thérond"
               },
               "tip_5lang": {
                 "de": "Vorsicht auf dem Kopfsteinpflaster rund um das Tor, da es bei Nässe rutschig wird; feste Schuhe mit gutem Profil sind hier wichtig.",
                 "hu": "Vigyázzon a kapu körüli macskaköveken, mert nedvesen csúszóssá válnak; a jó tapadású talpú cipő elengedhetetlen itt.",
                 "ro": "Atenție pe pavajul din jurul porții, deoarece devine alunecos când este ud; încălțămintea cu talpă aderentă este esențială aici.",
-                "en": "Watch your step on the cobblestones around the gate as they become slippery when wet; wear shoes with good grip."
+                "en": "Watch your step on the cobblestones around the gate as they become slippery when wet; wear shoes with good grip.",
+                "fr": "Faites attention aux pavés autour de la porte, ils deviennent glissants sous la pluie ; portez des chaussures à bonne adhérence."
               }
             },
             {
@@ -245,13 +269,15 @@
                 "de": "Porte de Chanelles",
                 "hu": "Porte de Chanelles",
                 "ro": "Porte de Chanelles",
-                "en": "Porte de Chanelles"
+                "en": "Porte de Chanelles",
+                "fr": "Porte de Chanelles"
               },
               "tip_5lang": {
                 "de": "Die massiven Verteidigungsmauern wirken im Regen besonders trutzig; ein kurzer Sprint zum nächsten Café beendet den Rundgang trocken.",
                 "hu": "A vaskos védőfalak még zordabbnak tűnnek az esőben; egy rövid vágta a legközelebbi kávézóig szárazon zárja a túrát.",
                 "ro": "Zidurile masive de apărare par și mai impunătoare în ploaie; o scurtă fugă până la cea mai apropiată cafenea încheie turul.",
-                "en": "The massive defensive walls look even more imposing in the rain; a quick dash to the nearest cafe completes the tour dry."
+                "en": "The massive defensive walls look even more imposing in the rain; a quick dash to the nearest cafe completes the tour dry.",
+                "fr": "Les imposants murs défensifs paraissent encore plus menaçants sous la pluie ; un petit sprint jusqu'au café le plus proche permet de terminer la visite au sec."
               }
             }
           ]
@@ -261,7 +287,8 @@
             "de": "Ein frostiger Morgen beginnt an der Statue, wo wir uns dick eingepackt auf den Weg machen. Mittags bietet die Kirche Notre-Dame einen windgeschützten Ort der Ruhe. Am Nachmittag erkunden wir die historischen Tore im weichen Winterlicht. Da die Sonne gegen 17:00 Uhr untergeht, hüllt die frühe Dämmerung die Stadt in ein warmes Licht, während wir uns auf den gemütlichen Abend vorbereiten.",
             "hu": "A csípős téli reggelen IV. Henrik szobránál indulunk, rétegesen felöltözve vágunk neki a városnak. Délben a templom vastag falai között keresünk szélvédett menedéket. Délután a történelmi kapukat járjuk be a puha téli fényekben. Mivel 17 óra körül sötétedik, a korai alkonyat meghitt fénybe vonja a várost a nap végére.",
             "ro": "O dimineață geroasă începe la statuie, unde pornim la drum bine înfofoliți. La prânz, biserica Notre-Dame oferă un loc liniștit și ferit de vânt. După-amiaza explorăm porțile istorice în lumina blândă a iernii. Deoarece soarele apune în jurul orei 17:00, amurgul timpuriu îmbracă orașul într-o lumină caldă spre finalul zilei.",
-            "en": "A frosty morning begins at the statue, where we set off well-wrapped against the cold. At noon, the Church of Notre-Dame provides a wind-sheltered place for a break. In the afternoon, we explore the historic gates in the soft winter light. As the sun sets around 17:00, the early twilight bathes the town in a cozy glow to end the day."
+            "en": "A frosty morning begins at the statue, where we set off well-wrapped against the cold. At noon, the Church of Notre-Dame provides a wind-sheltered place for a break. In the afternoon, we explore the historic gates in the soft winter light. As the sun sets around 17:00, the early twilight bathes the town in a cozy glow to end the day.",
+            "fr": "Une matinée glaciale commence à la statue, où l'on part bien emmitouflé contre le froid. À midi, l'église Notre-Dame offre un endroit abrité du vent pour une pause. L'après-midi, nous explorons les portes historiques à la douce lumière hivernale. Au coucher du soleil vers 17:00, le crépuscule précoce baigne la ville d'une chaleureuse lueur pour terminer la journée."
           },
           "stops": [
             {
@@ -269,13 +296,15 @@
                 "de": "Statue von Heinrich IV",
                 "hu": "IV. Henrik szobra",
                 "ro": "Statuia lui Henric al IV-lea",
-                "en": "Statue of Henri IV"
+                "en": "Statue of Henri IV",
+                "fr": "Statue of Henri IV"
               },
               "tip_5lang": {
                 "de": "Machen Sie ein schnelles Foto vom frostigen König, bevor die Kälte in die Finger kriecht; Handschuhe sind heute Ihr bester Freund.",
                 "hu": "Készítsen egy gyors fotót a fagyos királyról, mielőtt a hideg átjárná az ujjait; a kesztyű ma a legjobb barátja lesz.",
                 "ro": "Faceți o poză rapidă cu regele înghețat înainte ca frigul să vă pătrundă în degete; mănușile sunt cel mai bun prieten astăzi.",
-                "en": "Take a quick photo of the frosty king before the cold bites your fingers; gloves are your best friend during this visit."
+                "en": "Take a quick photo of the frosty king before the cold bites your fingers; gloves are your best friend during this visit.",
+                "fr": "Prenez une photo rapide du roi givré avant que le froid ne vous mord les doigts ; des gants sont indispensables pendant cette visite."
               }
             },
             {
@@ -283,13 +312,15 @@
                 "de": "Porte de Soubeyran",
                 "hu": "Porte de Soubeyran",
                 "ro": "Porte de Soubeyran",
-                "en": "Porte de Soubeyran"
+                "en": "Porte de Soubeyran",
+                "fr": "Porte de Soubeyran"
               },
               "tip_5lang": {
                 "de": "Die hohen Steinmauern brechen den kalten Winterwind; nutzen Sie diesen Moment, um Ihren Schal für den weiteren Weg festzuziehen.",
                 "hu": "A magas kőfalak megtörik a hideg téli szelet; használja ki ezt a pillanatot, hogy szorosabbra húzza sálját a folytatás előtt.",
                 "ro": "Zidurile înalte de piatră sparg vântul rece de iarnă; profitați de acest moment pentru a vă aranja fularul înainte de drum.",
-                "en": "The tall stone walls break the cold winter wind; take this moment to adjust your scarf before continuing your walk."
+                "en": "The tall stone walls break the cold winter wind; take this moment to adjust your scarf before continuing your walk.",
+                "fr": "Les hauts murs de pierre rompent le vent hivernal ; profitez-en pour réajuster votre écharpe avant de poursuivre la promenade."
               }
             },
             {
@@ -297,13 +328,15 @@
                 "de": "Kirche Notre-Dame-de-la-Carce",
                 "hu": "Notre-Dame-de-la-Carce templom",
                 "ro": "Biserica Notre-Dame-de-la-Carce",
-                "en": "Church of Notre-Dame-de-la-Carce"
+                "en": "Church of Notre-Dame-de-la-Carce",
+                "fr": "Church of Notre-Dame-de-la-Carce"
               },
               "tip_5lang": {
                 "de": "Die dicken Mauern halten die Kälte draußen; ein wunderbarer Ort, um sich kurz aufzuwärmen und die Stille zu genießen.",
                 "hu": "A vastag falak kint tartják a metsző hideget; csodálatos hely egy rövid felmelegedéshez és a csend élvezetéhez.",
                 "ro": "Zidurile groase țin frigul afară; este un loc minunat pentru a vă încălzi puțin și pentru a vă bucura de liniște.",
-                "en": "The thick walls keep out the biting cold; it is a wonderful place to warm up briefly and enjoy the peaceful silence."
+                "en": "The thick walls keep out the biting cold; it is a wonderful place to warm up briefly and enjoy the peaceful silence.",
+                "fr": "Les murs épais coupent le froid mordant ; c'est un endroit idéal pour se réchauffer brièvement et apprécier le silence paisible."
               }
             },
             {
@@ -311,13 +344,15 @@
                 "de": "Haus Besoin de Berc",
                 "hu": "Besoin de Berc ház",
                 "ro": "Casa Besoin de Berc",
-                "en": "Besoin de Berc House"
+                "en": "Besoin de Berc House",
+                "fr": "Besoin de Berc House"
               },
               "tip_5lang": {
                 "de": "Betrachten Sie die Fassade im klaren Winterlicht, das die architektonischen Details besonders scharf hervorhebt.",
                 "hu": "Szemlélje meg a homlokzatot a tiszta téli fényben, amely különösen élesen emeli ki az építészeti részleteket.",
                 "ro": "Admirați fațada în lumina clară a iernii, care scoate în evidență detaliile arhitecturale cu o claritate deosebită.",
-                "en": "Observe the facade in the clear winter light, which highlights the architectural details with exceptional sharpness."
+                "en": "Observe the facade in the clear winter light, which highlights the architectural details with exceptional sharpness.",
+                "fr": "Observez la façade à la lumière claire de l'hiver, qui met en valeur les détails architecturaux avec une netteté exceptionnelle."
               }
             },
             {
@@ -325,13 +360,15 @@
                 "de": "Porte du Thérond",
                 "hu": "Porte du Thérond",
                 "ro": "Porte du Thérond",
-                "en": "Porte du Thérond"
+                "en": "Porte du Thérond",
+                "fr": "Porte du Thérond"
               },
               "tip_5lang": {
                 "de": "Achten Sie auf mögliche Eisstellen im Schatten des Tors; gehen Sie langsam und genießen Sie den Anblick der historischen Steine.",
                 "hu": "Ügyeljen az esetleges jeges foltokra a kapu árnyékában; haladjon lassan, és élvezze a történelmi kövek látványát.",
                 "ro": "Atenție la eventualele porțiuni cu gheață la umbra porții; mergeți încet și bucurați-vă de vederea pietrelor istorice.",
-                "en": "Watch out for potential icy patches in the shadow of the gate; walk slowly and enjoy the sight of the historic stones."
+                "en": "Watch out for potential icy patches in the shadow of the gate; walk slowly and enjoy the sight of the historic stones.",
+                "fr": "Attention aux plaques de verglas potentielles à l'ombre de la porte ; marchez lentement et profitez du spectacle des pierres historiques."
               }
             },
             {
@@ -339,13 +376,15 @@
                 "de": "Porte de Chanelles",
                 "hu": "Porte de Chanelles",
                 "ro": "Porte de Chanelles",
-                "en": "Porte de Chanelles"
+                "en": "Porte de Chanelles",
+                "fr": "Porte de Chanelles"
               },
               "tip_5lang": {
                 "de": "Da es nun dämmert, wirken die Tore wie Wächter der Zeit; beeilen Sie sich, ein warmes Getränk in einer nahen Bar zu finden.",
                 "hu": "Mivel már alkonyodik, a kapuk az idő őreinek tűnnek; igyekezzen keresni egy forró italt a közeli bárok egyikében.",
                 "ro": "Cum se lasă amurgul, porțile par niște străjeri ai timpului; grăbiți-vă să găsiți o băutură caldă într-un bar din apropiere.",
-                "en": "As twilight falls, the gates look like guardians of time; head to a nearby bar for a warm drink to finish your tour."
+                "en": "As twilight falls, the gates look like guardians of time; head to a nearby bar for a warm drink to finish your tour.",
+                "fr": "Au crépuscule, les portes ressemblent à des gardiens du temps ; rendez-vous dans un bar voisin pour une boisson chaude afin de clore la visite."
               }
             }
           ]
@@ -365,7 +404,8 @@
             "de": "Enfants Denkmal",
             "hu": "Enfants műemlék",
             "ro": "Monumentul Enfants",
-            "en": "Enfants Monument"
+            "en": "Enfants Monument",
+            "fr": "Enfants Monument"
           },
           "coords": [
             3.290805,
@@ -380,7 +420,8 @@
             "de": "Besuchen Sie diese bewegende historische Stätte, die das tiefe Erbe der Region widerspiegelt, und nehmen Sie sich Zeit für die informativen Tafeln.",
             "hu": "Látogasson el erre a megható történelmi helyszínre, amely a régió gazdag örökségét tükrözi, és szánjon egy percet a közeli információs táblák elolvasására.",
             "ro": "Vizitați acest sit istoric emoționant care reflectă moștenirea profundă a regiunii și luați-vă un moment pentru a citi plăcuțele informative din apropiere.",
-            "en": "Visit this poignant historical site that reflects the region's deep heritage, and take a moment to read the informational plaques nearby."
+            "en": "Visit this poignant historical site that reflects the region's deep heritage, and take a moment to read the informational plaques nearby.",
+            "fr": "Visitez ce site historique poignant qui reflète le riche patrimoine de la région, et prenez un moment pour lire les panneaux d'information à proximité."
           }
         },
         {
@@ -388,7 +429,8 @@
             "de": "Statue von Heinrich IV",
             "hu": "IV. Henrik szobra",
             "ro": "Statuia lui Henric al IV-lea",
-            "en": "Statue of Henri IV"
+            "en": "Statue of Henri IV",
+            "fr": "Statue of Henri IV"
           },
           "coords": [
             3.291079,
@@ -403,7 +445,8 @@
             "de": "Bewundern Sie die beeindruckende Statue von Heinrich IV., die den König ehrt, der beim Wiederaufbau der Stadt half, und nehmen Sie sich Zeit für die Inschrift am Sockel.",
             "hu": "Csodálja meg IV. Henrik szobrát, amely a város újjáépítését segítő királynak állít emléket, és mindenképpen olvassa el a talapzaton található feliratot.",
             "ro": "Admirați impresionanta statuie a lui Henric al IV-lea, care onorează regele ce a ajutat la reconstrucția orașului, și citiți inscripția interesantă de pe piedestal.",
-            "en": "Admire the striking statue of Henri IV, which celebrates the king who helped rebuild the town, and take a moment to read the inscription on its pedestal."
+            "en": "Admire the striking statue of Henri IV, which celebrates the king who helped rebuild the town, and take a moment to read the inscription on its pedestal.",
+            "fr": "Admirez la statue saisissante d'Henri IV, qui célèbre le roi qui contribua à rebâtir la ville, et prenez un moment pour lire l'inscription sur son socle."
           }
         },
         {
@@ -411,7 +454,8 @@
             "de": "Porte de Soubeyran",
             "hu": "Porte de Soubeyran",
             "ro": "Porte de Soubeyran",
-            "en": "Porte de Soubeyran"
+            "en": "Porte de Soubeyran",
+            "fr": "Porte de Soubeyran"
           },
           "coords": [
             3.29079,
@@ -426,7 +470,8 @@
             "de": "Schreiten Sie durch dieses mittelalterliche Tor, das die alten Verteidigungsanlagen von Marvejols zeigt, und beachten Sie das gut erhaltene Mauerwerk.",
             "hu": "Sétáljon át ezen a középkori kapun, amely Marvejols ősi védelmét mutatja be, és figyelje meg a jó állapotban fennmaradt kőművesmunkát.",
             "ro": "Treceți prin această poartă medievală ce demonstrează apărarea străveche a orașului Marvejols și observați zidăria bine conservată înainte de a intra în centru.",
-            "en": "Pass through this medieval gateway that showcases Marvejols' ancient defenses, and notice the well-preserved stonework before heading into the historic center."
+            "en": "Pass through this medieval gateway that showcases Marvejols' ancient defenses, and notice the well-preserved stonework before heading into the historic center.",
+            "fr": "Passez par cette porte médiévale qui met en valeur les anciennes défenses de Marvejols, et remarquez les pierres bien conservées avant d'entrer dans le centre historique."
           }
         },
         {
@@ -434,7 +479,8 @@
             "de": "Kirche Notre-Dame-de-la-Carce",
             "hu": "Notre-Dame-de-la-Carce templom",
             "ro": "Biserica Notre-Dame-de-la-Carce",
-            "en": "Church of Notre-Dame-de-la-Carce"
+            "en": "Church of Notre-Dame-de-la-Carce",
+            "fr": "Church of Notre-Dame-de-la-Carce"
           },
           "coords": [
             3.288563,
@@ -449,7 +495,8 @@
             "de": "Betreten Sie diese wunderschöne Stiftskirche, um ihre großartige Architektur und die Buntglasfenster zu bewundern, die Ihrem Tag eine stille Ehrfurcht verleihen.",
             "hu": "Lépjen be ebbe a gyönyörű társaskáptalani templomba, hogy megcsodálja lenyűgöző építészetét és ólomüveg ablakait, melyek nyugodt hangulatot árasztanak.",
             "ro": "Pășiți în interiorul acestei frumoase biserici colegiale pentru a-i aprecia arhitectura grandioasă și vitraliile care aduc o reverență tăcută zilei dumneavoastră.",
-            "en": "Step inside this beautiful collegiate church to appreciate its grand architecture and stained glass windows, bringing a quiet reverence to your day."
+            "en": "Step inside this beautiful collegiate church to appreciate its grand architecture and stained glass windows, bringing a quiet reverence to your day.",
+            "fr": "Pénétrez dans cette belle collégiale pour apprécier sa grande architecture et ses vitraux, apportant un recueillement tranquille à votre journée."
           }
         },
         {
@@ -457,7 +504,8 @@
             "de": "Porte de Chanelles",
             "hu": "Porte de Chanelles",
             "ro": "Porte de Chanelles",
-            "en": "Porte de Chanelles"
+            "en": "Porte de Chanelles",
+            "fr": "Porte de Chanelles"
           },
           "coords": [
             3.289942,
@@ -472,7 +520,8 @@
             "de": "Beenden Sie Ihren Spaziergang am südlichen Tor und bewundern Sie die massiven runden Türme, die die militärische Vergangenheit unterstreichen, bevor Sie sich entspannen.",
             "hu": "Fejezze be sétáját a déli kapunál, megcsodálva a katonai múltat idéző masszív kerek tornyokat, mielőtt megpihenne egy közeli kávézóban.",
             "ro": "Încheiați-vă plimbarea la poarta de sud, admirând turnurile rotunde masive care evidențiază trecutul militar, înainte de a vă relaxa la o cafenea din apropiere.",
-            "en": "Conclude your walk at the southern gate, admiring the massive round towers that highlight the military past, before relaxing at a nearby cafe."
+            "en": "Conclude your walk at the southern gate, admiring the massive round towers that highlight the military past, before relaxing at a nearby cafe.",
+            "fr": "Concluez votre promenade à la porte sud, en admirant les grosses tours rondes qui témoignent du passé militaire, puis détendez-vous dans un café à proximité."
           }
         },
         {
@@ -480,7 +529,8 @@
             "de": "Domaine de Saint-Lambert",
             "hu": "Domaine de Saint-Lambert",
             "ro": "Domaine de Saint-Lambert",
-            "en": "Domaine de Saint-Lambert"
+            "en": "Domaine de Saint-Lambert",
+            "fr": "Domaine de Saint-Lambert"
           },
           "coords": [
             3.289134,
@@ -495,7 +545,8 @@
             "de": "Schlendern Sie über das Gelände dieses historischen Anwesens, um sich seine vergangene Pracht vorzustellen, und prüfen Sie, ob lokale Veranstaltungen stattfinden.",
             "hu": "Sétáljon ezen a történelmi birtokon, hogy elképzelje egykori pompáját, és érdeklődjön, vannak-e helyi rendezvények vagy túrák a látogatása során.",
             "ro": "Plimbați-vă pe domeniul acestei proprietăți istorice pentru a vă imagina grandoarea sa trecută și verificați dacă sunt programate evenimente locale.",
-            "en": "Wander around the grounds of this historic estate to imagine its past grandeur, and check if any local events or tours are scheduled during your visit."
+            "en": "Wander around the grounds of this historic estate to imagine its past grandeur, and check if any local events or tours are scheduled during your visit.",
+            "fr": "Flânez dans les jardins de ce domaine historique pour imaginer sa grandeur passée, et vérifiez si des événements locaux ou des visites sont programmés pendant votre séjour."
           }
         }
       ],
@@ -503,7 +554,8 @@
         "de": "Beginnen Sie Ihre Radtour am historischen Gelände Enfants und fahren Sie dann zur Statue von Heinrich IV. Der Mittag führt Sie durch die majestätische Porte de Soubeyran und zur Kirche Notre-Dame-de-la-Carce. Verbringen Sie den Nachmittag damit, nach Süden zur massiven Porte de Chanelles zu radeln. Lassen Sie Ihren aktiven Tag mit einem friedlichen Abend auf der Domaine de Saint-Lambert ausklingen.",
         "hu": "Kezdje kerékpártúráját a történelmi Enfants helyszínen, majd tekerjen le IV. Henrik szobrához. A dél a fenséges Porte de Soubeyran kapun és a nyugodt Notre-Dame-de-la-Carce templomon át vezet. Töltse a délutánt dél felé pedálozva, hogy megcsodálja a masszív Porte de Chanelles-t. Zárja aktív napját egy békés estével a Domaine de Saint-Lambert birtokon.",
         "ro": "Începeți turul cu bicicleta la situl istoric Enfants, apoi pedalați pentru a saluta Statuia lui Henric al IV-lea. Amiaza vă duce prin maiestuoasa Porte de Soubeyran și la Biserica Notre-Dame-de-la-Carce. Petreceți-vă după-amiaza pedalând spre sud pentru a admira Porte de Chanelles. Încheiați-vă ziua activă cu o seară liniștită explorând domeniul Saint-Lambert.",
-        "en": "Kick off your cycling tour in the northern outskirts at the historic Enfants site, then ride down to greet the Statue of Henri IV. Midday takes you through the majestic Porte de Soubeyran and to the serene Church of Notre-Dame-de-la-Carce. Spend your afternoon pedaling south to marvel at the massive Porte de Chanelles. Wind down your active day with a peaceful evening exploring Domaine de Saint-Lambert."
+        "en": "Kick off your cycling tour in the northern outskirts at the historic Enfants site, then ride down to greet the Statue of Henri IV. Midday takes you through the majestic Porte de Soubeyran and to the serene Church of Notre-Dame-de-la-Carce. Spend your afternoon pedaling south to marvel at the massive Porte de Chanelles. Wind down your active day with a peaceful evening exploring Domaine de Saint-Lambert.",
+        "fr": "Lancez votre circuit à vélo dans la périphérie nord au site historique des Enfants, puis descendez pour saluer la statue d'Henri IV. À midi, traversez l'imposante porte de Soubeyran et visitez la sereine église Notre-Dame-de-la-Carce. Passez l'après-midi à pédaler vers le sud pour admirer la massive porte de Chanelles. Terminez votre journée active par une soirée paisible au Domaine de Saint-Lambert."
       },
       "variants": {
         "rainy": {
@@ -511,7 +563,8 @@
             "de": "Eine erfrischende Tour beginnt am Enfants Denkmal, wobei wir uns auf regennassen Wegen vorsichtig bewegen. Mittags bietet die Kirche Schutz für eine Pause. Am Nachmittag radeln wir zum Domaine de Saint-Lambert, wobei wir besonders auf rutschige Kurven achten. Regenbekleidung ist heute unerlässlich, um die herbe Schönheit der Lozère-Landschaft im Regen zu genießen.",
             "hu": "Frissítő túra indul az Enfants műemléknél, óvatosan haladva a vizes utakon. Délben a templom nyújt menedéket a pihenőhöz. Délután a Domaine de Saint-Lambert felé tekerünk, külön figyelve a csúszós kanyarokra. Az esőruházat ma elengedhetetlen, hogy élvezhessük Lozère vidékének vad szépségét az esőben is.",
             "ro": "O tură revigorantă începe la Monumentul Enfants, pedalând cu grijă pe drumurile ude. La prânz, biserica oferă adăpost pentru o pauză. După-amiaza pedalăm spre Domaine de Saint-Lambert, fiind atenți la curbele alunecoase. Echipamentul de ploaie este esențial astăzi pentru a ne bucura de frumusețea zonei Lozère.",
-            "en": "A refreshing tour begins at the Enfants Monument, cycling carefully on wet roads. At noon, the church provides shelter for a break. In the afternoon, we head towards Domaine de Saint-Lambert, paying extra attention to slippery curves. Rain gear is essential today to enjoy the raw beauty of the Lozère region despite the downpour."
+            "en": "A refreshing tour begins at the Enfants Monument, cycling carefully on wet roads. At noon, the church provides shelter for a break. In the afternoon, we head towards Domaine de Saint-Lambert, paying extra attention to slippery curves. Rain gear is essential today to enjoy the raw beauty of the Lozère region despite the downpour.",
+            "fr": "Une balade revigorante débute au monument des Enfants, en pédalant prudemment sur des routes mouillées. À midi, l'église offre un abri pour la pause. L'après-midi, nous nous dirigeons vers le Domaine de Saint-Lambert en faisant particulièrement attention aux virages glissants. L'équipement de pluie est essentiel aujourd'hui pour profiter de la beauté brute de la Lozère malgré l'averse."
           },
           "stops": [
             {
@@ -519,13 +572,15 @@
                 "de": "Enfants Denkmal",
                 "hu": "Enfants műemlék",
                 "ro": "Monumentul Enfants",
-                "en": "Enfants Monument"
+                "en": "Enfants Monument",
+                "fr": "Enfants Monument"
               },
               "tip_5lang": {
                 "de": "Prüfen Sie Ihre Bremsen, bevor Sie losfahren; das Denkmal im Regen wirkt melancholisch und kraftvoll zugleich.",
                 "hu": "Ellenőrizze a fékeit indulás előtt; a műemlék az esőben egyszerre tűnik melankolikusnak és erőt sugárzónak.",
                 "ro": "Verificați frânele înainte de a pleca; monumentul în ploaie pare în același timp melancolic și plin de forță.",
-                "en": "Check your brakes before setting off; the monument in the rain appears both melancholic and powerful at once."
+                "en": "Check your brakes before setting off; the monument in the rain appears both melancholic and powerful at once.",
+                "fr": "Vérifiez vos freins avant de partir ; le monument sous la pluie apparaît à la fois mélancolique et puissant."
               }
             },
             {
@@ -533,13 +588,15 @@
                 "de": "Statue von Heinrich IV",
                 "hu": "IV. Henrik szobra",
                 "ro": "Statuia lui Henric al IV-lea",
-                "en": "Statue of Henri IV"
+                "en": "Statue of Henri IV",
+                "fr": "Statue of Henri IV"
               },
               "tip_5lang": {
                 "de": "Ein kurzer Stopp für ein Foto; achten Sie beim Absteigen auf das glatte Pflaster unter den Reifen.",
                 "hu": "Rövid megálló egy fotóra; leszálláskor ügyeljen a gumik alatt lévő sima, csúszós burkolatra.",
                 "ro": "O scurtă oprire pentru o fotografie; aveți grijă la pavajul alunecos sub roți când coborâți de pe bicicletă.",
-                "en": "A short stop for a photo; be careful of the smooth, slippery pavement under your tires when dismounting."
+                "en": "A short stop for a photo; be careful of the smooth, slippery pavement under your tires when dismounting.",
+                "fr": "Un court arrêt pour une photo ; méfiez-vous du pavement lisse et glissant sous vos pneus au moment de descendre."
               }
             },
             {
@@ -547,13 +604,15 @@
                 "de": "Porte de Soubeyran",
                 "hu": "Porte de Soubeyran",
                 "ro": "Porte de Soubeyran",
-                "en": "Porte de Soubeyran"
+                "en": "Porte de Soubeyran",
+                "fr": "Porte de Soubeyran"
               },
               "tip_5lang": {
                 "de": "Warten Sie einen starken Schauer unter dem Torbogen ab; die historische Kulisse bietet einen trockenen Unterstand für Radfahrer.",
                 "hu": "Várjon meg egy hevesebb záport a boltív alatt; a történelmi díszlet száraz menedéket nyújt a kerékpárosoknak.",
                 "ro": "Așteptați trecerea unei averse sub arcadă; acest cadru istoric oferă un adăpost uscat pentru bicicliști.",
-                "en": "Wait out a heavy shower under the archway; the historic setting provides a dry shelter for cyclists."
+                "en": "Wait out a heavy shower under the archway; the historic setting provides a dry shelter for cyclists.",
+                "fr": "Attendez la forte averse sous l'arche ; le site historique offre un abri sec pour les cyclistes."
               }
             },
             {
@@ -561,13 +620,15 @@
                 "de": "Kirche Notre-Dame-de-la-Carce",
                 "hu": "Notre-Dame-de-la-Carce templom",
                 "ro": "Biserica Notre-Dame-de-la-Carce",
-                "en": "Church of Notre-Dame-de-la-Carce"
+                "en": "Church of Notre-Dame-de-la-Carce",
+                "fr": "Church of Notre-Dame-de-la-Carce"
               },
               "tip_5lang": {
                 "de": "Stellen Sie Ihr Rad sicher ab und nutzen Sie die Pause im Trockenen, um Ihre Regenjacke kurz auszuschütteln.",
                 "hu": "Támassza le biztonságosan a biciklijét, és használja ki a száraz pihenőt, hogy kirázza az esőkabátját.",
                 "ro": "Parcați bicicleta în siguranță și profitați de pauza la adăpost pentru a vă scutura puțin pelerina de ploaie.",
-                "en": "Park your bike securely and use the dry break to shake out your raincoat and rest for a few minutes."
+                "en": "Park your bike securely and use the dry break to shake out your raincoat and rest for a few minutes.",
+                "fr": "Accrochez solidement votre vélo et profitez de la pause au sec pour secouer votre imperméable et vous reposer quelques minutes."
               }
             },
             {
@@ -575,13 +636,15 @@
                 "de": "Porte de Chanelles",
                 "hu": "Porte de Chanelles",
                 "ro": "Porte de Chanelles",
-                "en": "Porte de Chanelles"
+                "en": "Porte de Chanelles",
+                "fr": "Porte de Chanelles"
               },
               "tip_5lang": {
                 "de": "Passieren Sie das Tor langsam; bei Nässe können sich hier kleine Pfützen bilden, die den Untergrund rutschig machen.",
                 "hu": "Lassan haladjon át a kapun; nedves időben kis tócsák képződhetnek itt, amelyek csúszóssá teszik az aljzatot.",
                 "ro": "Treceți încet prin poartă; pe vreme umedă se pot forma mici bălți care fac suprafața destul de alunecoasă.",
-                "en": "Pass through the gate slowly; in wet weather, small puddles can form, making the ground quite slippery."
+                "en": "Pass through the gate slowly; in wet weather, small puddles can form, making the ground quite slippery.",
+                "fr": "Traversez la porte lentement ; par temps humide, de petites flaques peuvent se former, rendant le sol très glissant."
               }
             },
             {
@@ -589,13 +652,15 @@
                 "de": "Domaine de Saint-Lambert",
                 "hu": "Domaine de Saint-Lambert",
                 "ro": "Domaine de Saint-Lambert",
-                "en": "Domaine de Saint-Lambert"
+                "en": "Domaine de Saint-Lambert",
+                "fr": "Domaine de Saint-Lambert"
               },
               "tip_5lang": {
                 "de": "Der Parkweg kann weich sein; fahren Sie vorsichtig und genießen Sie den Anblick des Schlosses im Regen-Dunst.",
                 "hu": "A parki út felázhat; tekerjen óvatosan, és élvezze a kastély látványát az esős párában.",
                 "ro": "Aleea din parc poate fi moale; pedalați cu atenție și bucurați-vă de vederea castelului prin ceața ploii.",
-                "en": "The park path can get soft; cycle carefully and enjoy the sight of the castle through the misty rain."
+                "en": "The park path can get soft; cycle carefully and enjoy the sight of the castle through the misty rain.",
+                "fr": "Le chemin du parc peut devenir meuble ; pédalez prudemment et profitez de la vue du château à travers la pluie brumeuse."
               }
             }
           ]
@@ -605,7 +670,8 @@
             "de": "Ein kühler Morgen auf zwei Rädern beginnt am Enfants Denkmal. Mittags wärmen wir uns kurz an der Kirche auf, bevor wir weiter durch die historische Stadt radeln. Am Nachmittag erreichen wir das Domaine de Saint-Lambert im tiefstehenden Winterlicht. Wir beenden die Tour rechtzeitig vor Sonnenuntergang um 17:00 Uhr, wenn die Temperaturen schnell sinken und die Winterkälte spürbar wird.",
             "hu": "Hűvös reggel két keréken az Enfants műemléknél. Délben röviden felmelegszünk a templomnál, mielőtt tovább tekernénk a történelmi városon át. Délután a Domaine de Saint-Lambert-hez érünk az alacsony téli napfényben. A túrát időben, a 17 órai naplemente előtt fejezzük be, amikor a hőmérséklet gyorsan süllyedni kezd.",
             "ro": "O dimineață răcoroasă pe două roți începe la Monumentul Enfants. La prânz ne încălzim puțin la biserică înainte de a continua prin orașul istoric. După-amiaza ajungem la Domaine de Saint-Lambert în lumina joasă a iernii. Încheiem tura la timp, înainte de apusul de la ora 17:00, când temperaturile scad brusc.",
-            "en": "A cool morning on two wheels starts at the Enfants Monument. At noon, we briefly warm up near the church before cycling further through the historic town. In the afternoon, we reach Domaine de Saint-Lambert in the low winter sunlight. We finish the tour well before the 17:00 sunset, as temperatures drop rapidly afterward."
+            "en": "A cool morning on two wheels starts at the Enfants Monument. At noon, we briefly warm up near the church before cycling further through the historic town. In the afternoon, we reach Domaine de Saint-Lambert in the low winter sunlight. We finish the tour well before the 17:00 sunset, as temperatures drop rapidly afterward.",
+            "fr": "Une fraîche matinée à deux roues commence au monument des Enfants. À midi, nous nous réchauffons brièvement près de l'église avant de poursuivre à vélo à travers la ville historique. L'après-midi, nous atteignons le Domaine de Saint-Lambert sous la faible lumière hivernale. Nous terminons la balade bien avant le coucher du soleil à 17:00, car les températures chutent rapidement ensuite."
           },
           "stops": [
             {
@@ -613,13 +679,15 @@
                 "de": "Enfants Denkmal",
                 "hu": "Enfants műemlék",
                 "ro": "Monumentul Enfants",
-                "en": "Enfants Monument"
+                "en": "Enfants Monument",
+                "fr": "Enfants Monument"
               },
               "tip_5lang": {
                 "de": "Dicke Handschuhe sind beim Radfahren ein Muss; die klare Winterluft macht die Sicht auf das Denkmal besonders scharf.",
                 "hu": "A vastag kesztyű kötelező kerékpározáskor; a tiszta téli levegő különösen élessé teszi a kilátást a műemlékre.",
                 "ro": "Mănușile groase sunt obligatorii la pedalat; aerul curat de iarnă face vederea monumentului extrem de clară.",
-                "en": "Thick gloves are a must for winter cycling; the clear air makes the view of the monument exceptionally sharp."
+                "en": "Thick gloves are a must for winter cycling; the clear air makes the view of the monument exceptionally sharp.",
+                "fr": "Des gants épais sont indispensables pour le cyclisme hivernal ; l'air clair rend la vue du monument exceptionnellement nette."
               }
             },
             {
@@ -627,13 +695,15 @@
                 "de": "Statue von Heinrich IV",
                 "hu": "IV. Henrik szobra",
                 "ro": "Statuia lui Henric al IV-lea",
-                "en": "Statue of Henri IV"
+                "en": "Statue of Henri IV",
+                "fr": "Statue of Henri IV"
               },
               "tip_5lang": {
                 "de": "Ein schneller Stopp; halten Sie sich durch ständiges Treten warm, während Sie die historische Statue bewundern.",
                 "hu": "Gyors megálló; tartsa melegen magát folyamatos tekeréssel, miközben megcsodálja a történelmi szobrot.",
                 "ro": "O oprire rapidă; mențineți-vă căldura pedalând constant în timp ce admirați statuia istorică.",
-                "en": "A quick stop; keep yourself warm by pedaling consistently while you admire the historic statue."
+                "en": "A quick stop; keep yourself warm by pedaling consistently while you admire the historic statue.",
+                "fr": "Un arrêt rapide ; gardez-vous au chaud en pédalant régulièrement tout en admirant la statue historique."
               }
             },
             {
@@ -641,13 +711,15 @@
                 "de": "Porte de Soubeyran",
                 "hu": "Porte de Soubeyran",
                 "ro": "Porte de Soubeyran",
-                "en": "Porte de Soubeyran"
+                "en": "Porte de Soubeyran",
+                "fr": "Porte de Soubeyran"
               },
               "tip_5lang": {
                 "de": "Achten Sie auf Raureif am Boden im Schatten des Tors; bremsen Sie vorsichtig, bevor Sie den Torbogen passieren.",
                 "hu": "Ügyeljen a zúzmarára a földön a kapu árnyékos oldalán; fékezzen óvatosan, mielőtt áthaladna a boltív alatt.",
                 "ro": "Atenție la chiciura de pe jos în zonele umbrite ale porții; frânați cu grijă înainte de a trece pe sub arcadă.",
-                "en": "Watch out for frost on the ground in shaded areas of the gate; brake gently before passing under the archway."
+                "en": "Watch out for frost on the ground in shaded areas of the gate; brake gently before passing under the archway.",
+                "fr": "Attention au givre au sol dans les zones ombragées de la porte ; freinez doucement avant de passer sous l'arche."
               }
             },
             {
@@ -655,13 +727,15 @@
                 "de": "Kirche Notre-Dame-de-la-Carce",
                 "hu": "Notre-Dame-de-la-Carce templom",
                 "ro": "Biserica Notre-Dame-de-la-Carce",
-                "en": "Church of Notre-Dame-de-la-Carce"
+                "en": "Church of Notre-Dame-de-la-Carce",
+                "fr": "Church of Notre-Dame-de-la-Carce"
               },
               "tip_5lang": {
                 "de": "Nutzen Sie die windgeschützte Kirche für eine kurze Dehnpause, um die Glieder in der Kälte beweglich zu halten.",
                 "hu": "Használja ki a szélvédett templomot egy rövid nyújtásra, hogy a végtagjai mozgékonyak maradjanak a hidegben.",
                 "ro": "Folosiți biserica ferită de vânt pentru o scurtă pauză de stretching, menținându-vă articulațiile mobile în frig.",
-                "en": "Use the wind-sheltered church for a quick stretching break to keep your limbs mobile in the winter cold."
+                "en": "Use the wind-sheltered church for a quick stretching break to keep your limbs mobile in the winter cold.",
+                "fr": "Utilisez l'église abritée pour un bref étirement afin de garder vos membres mobiles dans le froid hivernal."
               }
             },
             {
@@ -669,13 +743,15 @@
                 "de": "Porte de Chanelles",
                 "hu": "Porte de Chanelles",
                 "ro": "Porte de Chanelles",
-                "en": "Porte de Chanelles"
+                "en": "Porte de Chanelles",
+                "fr": "Porte de Chanelles"
               },
               "tip_5lang": {
                 "de": "Die Sonne steht tief; achten Sie auf Blendung beim Fahren durch die historischen Gassen.",
                 "hu": "A nap alacsonyan jár; ügyeljen a vakító fényre, amikor a történelmi szűk utcákon teker keresztül.",
                 "ro": "Soarele este jos; atenție la reflexiile orbitoare când pedalați prin străduțele înguste și istorice.",
-                "en": "The sun is low; watch out for glaring light when cycling through the narrow historic streets."
+                "en": "The sun is low; watch out for glaring light when cycling through the narrow historic streets.",
+                "fr": "Le soleil est bas ; faites attention aux éblouissements en traversant les ruelles étroites à vélo."
               }
             },
             {
@@ -683,13 +759,15 @@
                 "de": "Domaine de Saint-Lambert",
                 "hu": "Domaine de Saint-Lambert",
                 "ro": "Domaine de Saint-Lambert",
-                "en": "Domaine de Saint-Lambert"
+                "en": "Domaine de Saint-Lambert",
+                "fr": "Domaine de Saint-Lambert"
               },
               "tip_5lang": {
                 "de": "Die Gärten wirken im Winter kahl, aber majestätisch; ein letztes Foto, bevor Sie sich auf den Heimweg ins Warme machen.",
                 "hu": "A kertek télen kopárnak, de fenségesnek tűnnek; egy utolsó fotó, mielőtt elindulna haza a melegbe.",
                 "ro": "Grădinile par golașe iarna, dar maiestoase; o ultimă fotografie înainte de a porni spre casă, la căldură.",
-                "en": "The gardens look bare in winter but remain majestic; take one last photo before heading home to the warmth."
+                "en": "The gardens look bare in winter but remain majestic; take one last photo before heading home to the warmth.",
+                "fr": "Les jardins paraissent dépouillés en hiver mais restent majestueux ; faites une dernière photo avant de rentrer au chaud."
               }
             }
           ]
@@ -709,7 +787,8 @@
             "de": "Enfants Denkmal",
             "hu": "Enfants műemlék",
             "ro": "Monumentul Enfants",
-            "en": "Enfants Monument"
+            "en": "Enfants Monument",
+            "fr": "Enfants Monument"
           },
           "coords": [
             3.290805,
@@ -724,7 +803,8 @@
             "de": "Besuchen Sie diese bewegende historische Stätte, die das tiefe Erbe der Region widerspiegelt, und nehmen Sie sich Zeit für die informativen Tafeln.",
             "hu": "Látogasson el erre a megható történelmi helyszínre, amely a régió gazdag örökségét tükrözi, és szánjon egy percet a közeli információs táblák elolvasására.",
             "ro": "Vizitați acest sit istoric emoționant care reflectă moștenirea profundă a regiunii și luați-vă un moment pentru a citi plăcuțele informative din apropiere.",
-            "en": "Visit this poignant historical site that reflects the region's deep heritage, and take a moment to read the informational plaques nearby."
+            "en": "Visit this poignant historical site that reflects the region's deep heritage, and take a moment to read the informational plaques nearby.",
+            "fr": "Visitez ce site historique poignant qui reflète le riche patrimoine de la région, et prenez un moment pour lire les panneaux d'information à proximité."
           }
         },
         {
@@ -732,7 +812,8 @@
             "de": "Porte de Soubeyran",
             "hu": "Porte de Soubeyran",
             "ro": "Porte de Soubeyran",
-            "en": "Porte de Soubeyran"
+            "en": "Porte de Soubeyran",
+            "fr": "Porte de Soubeyran"
           },
           "coords": [
             3.29079,
@@ -747,7 +828,8 @@
             "de": "Schreiten Sie durch dieses mittelalterliche Tor, das die alten Verteidigungsanlagen von Marvejols zeigt, und beachten Sie das gut erhaltene Mauerwerk.",
             "hu": "Sétáljon át ezen a középkori kapun, amely Marvejols ősi védelmét mutatja be, és figyelje meg a jó állapotban fennmaradt kőművesmunkát.",
             "ro": "Treceți prin această poartă medievală ce demonstrează apărarea străveche a orașului Marvejols și observați zidăria bine conservată înainte de a intra în centru.",
-            "en": "Pass through this medieval gateway that showcases Marvejols' ancient defenses, and notice the well-preserved stonework before heading into the historic center."
+            "en": "Pass through this medieval gateway that showcases Marvejols' ancient defenses, and notice the well-preserved stonework before heading into the historic center.",
+            "fr": "Franchissez cette porte médiévale qui montre les anciennes fortifications de Marvejols, et admirez la pierre bien conservée avant de pénétrer dans le centre historique."
           }
         },
         {
@@ -755,7 +837,8 @@
             "de": "Kirche Notre-Dame-de-la-Carce",
             "hu": "Notre-Dame-de-la-Carce templom",
             "ro": "Biserica Notre-Dame-de-la-Carce",
-            "en": "Church of Notre-Dame-de-la-Carce"
+            "en": "Church of Notre-Dame-de-la-Carce",
+            "fr": "Église Notre-Dame-de-la-Carce"
           },
           "coords": [
             3.288563,
@@ -770,7 +853,8 @@
             "de": "Betreten Sie diese wunderschöne Stiftskirche, um ihre großartige Architektur und die Buntglasfenster zu bewundern, die Ihrem Tag eine stille Ehrfurcht verleihen.",
             "hu": "Lépjen be ebbe a gyönyörű társaskáptalani templomba, hogy megcsodálja lenyűgöző építészetét és ólomüveg ablakait, melyek nyugodt hangulatot árasztanak.",
             "ro": "Pășiți în interiorul acestei frumoase biserici colegiale pentru a-i aprecia arhitectura grandioasă și vitraliile care aduc o reverență tăcută zilei dumneavoastră.",
-            "en": "Step inside this beautiful collegiate church to appreciate its grand architecture and stained glass windows, bringing a quiet reverence to your day."
+            "en": "Step inside this beautiful collegiate church to appreciate its grand architecture and stained glass windows, bringing a quiet reverence to your day.",
+            "fr": "Pénétrez dans cette magnifique collégiale pour apprécier sa vaste architecture et ses vitraux, apportant une discrète révérence à votre visite."
           }
         },
         {
@@ -778,7 +862,8 @@
             "de": "Domaine de Saint-Lambert",
             "hu": "Domaine de Saint-Lambert",
             "ro": "Domaine de Saint-Lambert",
-            "en": "Domaine de Saint-Lambert"
+            "en": "Domaine de Saint-Lambert",
+            "fr": "Domaine de Saint-Lambert"
           },
           "coords": [
             3.289134,
@@ -793,7 +878,8 @@
             "de": "Schlendern Sie über das Gelände dieses historischen Anwesens, um sich seine vergangene Pracht vorzustellen, und prüfen Sie, ob lokale Veranstaltungen stattfinden.",
             "hu": "Sétáljon ezen a történelmi birtokon, hogy elképzelje egykori pompáját, és érdeklődjön, vannak-e helyi rendezvények vagy túrák a látogatása során.",
             "ro": "Plimbați-vă pe domeniul acestei proprietăți istorice pentru a vă imagina grandoarea sa trecută și verificați dacă sunt programate evenimente locale.",
-            "en": "Wander around the grounds of this historic estate to imagine its past grandeur, and check if any local events or tours are scheduled during your visit."
+            "en": "Wander around the grounds of this historic estate to imagine its past grandeur, and check if any local events or tours are scheduled during your visit.",
+            "fr": "Promenez-vous dans le parc de ce domaine historique pour imaginer son ancienne splendeur, et vérifiez si des événements locaux ou des visites sont programmés pendant votre séjour."
           }
         },
         {
@@ -801,7 +887,8 @@
             "de": "Mascoussel",
             "hu": "Mascoussel",
             "ro": "Mascoussel",
-            "en": "Mascoussel"
+            "en": "Mascoussel",
+            "fr": "Mascoussel"
           },
           "coords": [
             3.29367,
@@ -816,7 +903,8 @@
             "de": "Genießen Sie einen entspannten Spaziergang durch die familienfreundliche Gegend von Mascoussel und bringen Sie ein Picknick mit, um die angenehme Umgebung zu nutzen.",
             "hu": "Élvezze a pihentető sétát Mascoussel családbarát területén, és hozzon magával piknikkosarat, hogy a legtöbbet hozza ki a kellemes szabadtéri környezetből.",
             "ro": "Bucurați-vă de o plimbare relaxantă prin zona prietenoasă cu familiile Mascoussel, aducând un picnic pentru a profita la maximum de mediul plăcut.",
-            "en": "Enjoy a relaxing stroll through the family-friendly area of Mascoussel, bringing a picnic to make the most of the pleasant outdoor environment."
+            "en": "Enjoy a relaxing stroll through the family-friendly area of Mascoussel, bringing a picnic to make the most of the pleasant outdoor environment.",
+            "fr": "Profitez d’une promenade détendue dans le quartier familial du Mascoussel, et pensez à emmener un pique-nique pour profiter pleinement du bel espace extérieur."
           }
         },
         {
@@ -824,7 +912,8 @@
             "de": "Chapelle Saint-Jean",
             "hu": "Chapelle Saint-Jean",
             "ro": "Chapelle Saint-Jean",
-            "en": "Chapelle Saint-Jean"
+            "en": "Chapelle Saint-Jean",
+            "fr": "Chapelle Saint-Jean"
           },
           "coords": [
             3.324897,
@@ -839,7 +928,8 @@
             "de": "Fahren Sie zu dieser ruhigen Kapelle vor einer wunderschönen Landschaft, nehmen Sie sich drinnen Zeit für stille Reflexion und genießen Sie die Aussicht.",
             "hu": "Vezessen el ehhez a gyönyörű tájba simuló békés kápolnához, töltsön el néhány percet csendes elmélkedéssel, majd gyönyörködjön a panorámában.",
             "ro": "Conduceți până la această capelă senină așezată pe un peisaj frumos, luându-vă câteva momente în interior pentru reflecție și bucurându-vă de priveliște.",
-            "en": "Drive out to this serene chapel set against beautiful landscapes, taking a few moments inside for quiet reflection and enjoying the panoramic views outside."
+            "en": "Drive out to this serene chapel set against beautiful landscapes, taking a few moments inside for quiet reflection and enjoying the panoramic views outside.",
+            "fr": "Parcourez la route jusqu’à cette chapelle sereine située au cœur de beaux paysages, prenez quelques instants à l’intérieur pour la réflexion et appréciez la vue panoramique extérieure."
           }
         }
       ],
@@ -847,7 +937,8 @@
         "de": "Ihr Roadtrip beginnt mit einer Fahrt zum historischen Wahrzeichen Enfants, gefolgt von einem kurzen Abstecher in die Stadt zur Porte de Soubeyran. Der Mittag ist perfekt für einen Spaziergang zur Kirche Notre-Dame-de-la-Carce, bevor Sie zur Domaine de Saint-Lambert fahren. Verbringen Sie einen entspannten Nachmittag im Freien bei Mascoussel. Beenden Sie den Tag malerisch an der Kapelle Saint-Jean.",
         "hu": "Autós utazása a történelmi Enfants nevezetességnél kezdődik, majd egy rövid városi ugrás következik a Porte de Soubeyranhoz. A dél tökéletes a Notre-Dame-de-la-Carce templom felfedezésére, mielőtt a Domaine de Saint-Lambert-hez hajtana. Töltsön el egy nyugodt délutánt a Mascoussel szabadtéri részein. Zárja a napot egy festői autózással a csendes Chapelle Saint-Jeanhoz.",
         "ro": "Excursia auto începe la reperul istoric Enfants, urmată de o scurtă oprire în oraș pentru a vedea Porte de Soubeyran. Amiaza este perfectă pentru o vizită la Biserica Notre-Dame-de-la-Carce, înainte de a conduce la Domaine de Saint-Lambert. Petreceți o după-amiază relaxantă în spațiile deschise de la Mascoussel. Încheiați ziua cu o plimbare pitorească până la liniștita Chapelle Saint-Jean.",
-        "en": "Your road trip begins with a drive to the historic Enfants landmark, followed by a quick hop into town to see the impressive Porte de Soubeyran. Midday is perfect for a short walk to the beautiful Church of Notre-Dame-de-la-Carce before driving to the grand Domaine de Saint-Lambert. Spend a leisurely afternoon enjoying the outdoor spaces at Mascoussel. End your day driving to the tranquil Chapelle Saint-Jean."
+        "en": "Your road trip begins with a drive to the historic Enfants landmark, followed by a quick hop into town to see the impressive Porte de Soubeyran. Midday is perfect for a short walk to the beautiful Church of Notre-Dame-de-la-Carce before driving to the grand Domaine de Saint-Lambert. Spend a leisurely afternoon enjoying the outdoor spaces at Mascoussel. End your day driving to the tranquil Chapelle Saint-Jean.",
+        "fr": "Votre road trip commence par un trajet vers le site historique des Enfants, suivi d’un bref arrêt en ville pour voir l’imposante Porte de Soubeyran. À midi, une courte promenade mène à la belle Église Notre-Dame-de-la-Carce avant de reprendre la route vers le grand Domaine de Saint-Lambert. Passez un après-midi tranquille à profiter des espaces extérieurs du Mascoussel. Terminez la journée en vous rendant à la paisible Chapelle Saint-Jean."
       },
       "variants": {
         "rainy": {
@@ -855,7 +946,8 @@
             "de": "Ein entspannter Tag beginnt am Enfants Denkmal, wobei das Auto uns trocken von Ort zu Ort bringt. Mittags besuchen wir die Kirche im historischen Zentrum. Am Nachmittag führt uns die Fahrt zum Domaine de Saint-Lambert und weiter nach Mascoussel, während der Regen gegen die Scheiben trommelt. Wir beenden den Tag an der Chapelle Saint-Jean mit einem weiten Blick über das vernebelte Tal.",
             "hu": "Pihentető nap indul az Enfants műemléknél, az autó szárazon juttat el egyik ponttól a másikig. Délben a történelmi központ templomát látogatjuk meg. Délután a Domaine de Saint-Lambert és Mascoussel felé autózunk, miközben az eső kopog a szélvédőn. A napot a Chapelle Saint-Jean-nál zárjuk, ahonnan ködös kilátás nyílik a völgyre.",
             "ro": "O zi relaxantă începe la Monumentul Enfants, mașina purtându-ne la uscat de la un obiectiv la altul. La prânz vizităm biserica din centrul istoric. După-amiaza conducem spre Domaine de Saint-Lambert și Mascoussel, în timp ce ploaia bate în geamuri. Încheiem ziua la Chapelle Saint-Jean, cu o priveliște cețoasă asupra văii.",
-            "en": "A relaxing day begins at the Enfants Monument, with the car keeping us dry as we move between sites. At noon, we visit the church in the historic center. In the afternoon, we drive to Domaine de Saint-Lambert and Mascoussel while the rain drums on the windshield. We end the day at Chapelle Saint-Jean with a misty view over the valley."
+            "en": "A relaxing day begins at the Enfants Monument, with the car keeping us dry as we move between sites. At noon, we visit the church in the historic center. In the afternoon, we drive to Domaine de Saint-Lambert and Mascoussel while the rain drums on the windshield. We end the day at Chapelle Saint-Jean with a misty view over the valley.",
+            "fr": "Une journée relax commence au Monument des Enfants, la voiture nous gardant au sec lors des déplacements entre les sites. À midi, nous visitons l’église du centre historique. L’après-midi, nous prenons la voiture pour le Domaine de Saint-Lambert et le Mascoussel pendant que la pluie tambourine sur le pare-brise. Nous terminons la journée à la Chapelle Saint-Jean avec une vue brumeuse sur la vallée."
           },
           "stops": [
             {
@@ -863,13 +955,15 @@
                 "de": "Enfants Denkmal",
                 "hu": "Enfants műemlék",
                 "ro": "Monumentul Enfants",
-                "en": "Enfants Monument"
+                "en": "Enfants Monument",
+                "fr": "Monument des Enfants"
               },
               "tip_5lang": {
                 "de": "Nutzen Sie den Parkplatz nah am Denkmal, um nur kurz durch den Regen zum Monument zu sprinten.",
                 "hu": "Használja a műemlékhez közeli parkolót, hogy csak röviden kelljen az esőben futnia a látnivalóig.",
                 "ro": "Folosiți parcarea de lângă monument pentru a alerga doar puțin prin ploaie până la obiectiv.",
-                "en": "Use the parking area close to the monument to minimize your time walking through the rain."
+                "en": "Use the parking area close to the monument to minimize your time walking through the rain.",
+                "fr": "Utilisez l’aire de stationnement proche du monument pour réduire au minimum le temps passé à marcher sous la pluie."
               }
             },
             {
@@ -877,13 +971,15 @@
                 "de": "Porte de Soubeyran",
                 "hu": "Porte de Soubeyran",
                 "ro": "Porte de Soubeyran",
-                "en": "Porte de Soubeyran"
+                "en": "Porte de Soubeyran",
+                "fr": "Porte de Soubeyran"
               },
               "tip_5lang": {
                 "de": "Das Parken im Zentrum kann schwierig sein; suchen Sie sich eine Lücke und nutzen Sie das Tor als trockenen Treffpunkt.",
                 "hu": "A központban nehéz lehet a parkolás; keressen egy szabad helyet, és használja a kaput száraz találkozópontként.",
                 "ro": "Parcarea în centru poate fi dificilă; căutați un loc liber și folosiți poarta ca punct de întâlnire uscat.",
-                "en": "Parking in the center can be tricky; find a spot and use the gate as a dry meeting point for your group."
+                "en": "Parking in the center can be tricky; find a spot and use the gate as a dry meeting point for your group.",
+                "fr": "Le stationnement au centre peut être difficile ; trouvez une place et utilisez la porte comme point de rendez-vous abrité pour votre groupe."
               }
             },
             {
@@ -891,13 +987,15 @@
                 "de": "Kirche Notre-Dame-de-la-Carce",
                 "hu": "Notre-Dame-de-la-Carce templom",
                 "ro": "Biserica Notre-Dame-de-la-Carce",
-                "en": "Church of Notre-Dame-de-la-Carce"
+                "en": "Church of Notre-Dame-de-la-Carce",
+                "fr": "Église Notre-Dame-de-la-Carce"
               },
               "tip_5lang": {
                 "de": "Ein idealer Stopp, wenn es draußen schüttet; die Kirche bietet Ruhe und Schutz vor dem nasskalten Wetter.",
                 "hu": "Ideális megálló, ha kint szakad az eső; a templom nyugalmat és védelmet nyújt a barátságtalan időben.",
                 "ro": "O oprire ideală când plouă torențial; biserica oferă liniște și protecție împotriva vremii de afară.",
-                "en": "An ideal stop when it's pouring outside; the church offers peace and protection from the wet weather."
+                "en": "An ideal stop when it's pouring outside; the church offers peace and protection from the wet weather.",
+                "fr": "Un arrêt idéal quand il pleut à verse ; l’église offre calme et protection contre l’humidité."
               }
             },
             {
@@ -905,13 +1003,15 @@
                 "de": "Domaine de Saint-Lambert",
                 "hu": "Domaine de Saint-Lambert",
                 "ro": "Domaine de Saint-Lambert",
-                "en": "Domaine de Saint-Lambert"
+                "en": "Domaine de Saint-Lambert",
+                "fr": "Domaine de Saint-Lambert"
               },
               "tip_5lang": {
                 "de": "Genießen Sie den Anblick des Schlosses bequem aus dem Auto, falls der Regen zu stark für einen Spaziergang ist.",
                 "hu": "Élvezze a kastély látványát kényelmesen az autóból, ha az eső túl erős lenne egy kiadós sétához.",
                 "ro": "Admirați castelul confortabil din mașină în cazul în care ploaia este prea puternică pentru o plimbare.",
-                "en": "Enjoy the view of the castle from the comfort of your car if the rain is too heavy for a walk."
+                "en": "Enjoy the view of the castle from the comfort of your car if the rain is too heavy for a walk.",
+                "fr": "Admirez la vue sur le château depuis le confort de votre voiture si la pluie est trop forte pour une promenade."
               }
             },
             {
@@ -919,13 +1019,15 @@
                 "de": "Mascoussel",
                 "hu": "Mascoussel",
                 "ro": "Mascoussel",
-                "en": "Mascoussel"
+                "en": "Mascoussel",
+                "fr": "Mascoussel"
               },
               "tip_5lang": {
                 "de": "Die Zufahrt kann bei Regen etwas matschig sein; fahren Sie langsam und achten Sie auf Pfützen am Wegrand.",
                 "hu": "A behajtó út esőben kissé sáros lehet; vezessen lassan, és ügyeljen az útmenti tócsákra.",
                 "ro": "Drumul de acces poate fi noroios pe ploaie; conduceți încet și aveți grijă la bălțile de pe margine.",
-                "en": "The access road can be a bit muddy in the rain; drive slowly and watch out for puddles along the way."
+                "en": "The access road can be a bit muddy in the rain; drive slowly and watch out for puddles along the way.",
+                "fr": "La route d’accès peut devenir boueuse sous la pluie ; roulez lentement et surveillez les flaques sur le chemin."
               }
             },
             {
@@ -933,13 +1035,15 @@
                 "de": "Chapelle Saint-Jean",
                 "hu": "Chapelle Saint-Jean",
                 "ro": "Chapelle Saint-Jean",
-                "en": "Chapelle Saint-Jean"
+                "en": "Chapelle Saint-Jean",
+                "fr": "Chapelle Saint-Jean"
               },
               "tip_5lang": {
                 "de": "Der Blick auf Marvejols im Regendunst ist spektakulär; bleiben Sie im Auto und genießen Sie das Panorama.",
                 "hu": "A kilátás Marvejols-ra az esős párában látványos; maradjon az autóban, és élvezze a panorámát.",
                 "ro": "Priveliștea asupra orașului Marvejols în ceața ploii este spectaculoasă; rămâneți în mașină și admirați panorama.",
-                "en": "The view over Marvejols in the misty rain is spectacular; stay in the car and enjoy the panoramic scene."
+                "en": "The view over Marvejols in the misty rain is spectacular; stay in the car and enjoy the panoramic scene.",
+                "fr": "La vue sur Marvejols dans la pluie brumeuse est spectaculaire ; restez dans la voiture et profitez du panorama."
               }
             }
           ]
@@ -949,7 +1053,8 @@
             "de": "Ein gemütlicher Wintertag beginnt am Enfants Denkmal, wobei die Autoheizung für Komfort sorgt. Mittags besuchen wir die Kirche im historischen Kern. Am Nachmittag führt die Fahrt zum Domaine de Saint-Lambert und weiter nach Mascoussel. Wir beenden den Ausflug an der Chapelle Saint-Jean genau zum Sonnenuntergang um 17:00 Uhr, wenn das Tal in kühles Blau getaucht wird.",
             "hu": "Kellemes téli nap indul az Enfants műemléknél, az autó fűtése gondoskodik a kényelemről. Délben a történelmi mag templomát látogatjuk meg. Délután a Domaine de Saint-Lambert és Mascoussel felé autózunk. A kirándulást a Chapelle Saint-Jean-nál zárjuk pontban a 17 órai naplementekor, amikor a völgy hűvös kékbe öltözik.",
             "ro": "O zi plăcută de iarnă începe la Monumentul Enfants, căldura din mașină asigurând tot confortul. La prânz vizităm biserica din nucleul istoric. După-amiaza conducem spre Domaine de Saint-Lambert și Mascoussel. Încheiem excursia la Chapelle Saint-Jean exact la apusul de la ora 17:00, când valea capătă nuanțe reci de albastru.",
-            "en": "A pleasant winter day begins at the Enfants Monument, with the car's heater providing comfort. At noon, we visit the church in the historic core. In the afternoon, the drive leads to Domaine de Saint-Lambert and Mascoussel. We end the trip at Chapelle Saint-Jean exactly at the 17:00 sunset, when the valley is bathed in cool blue tones."
+            "en": "A pleasant winter day begins at the Enfants Monument, with the car's heater providing comfort. At noon, we visit the church in the historic core. In the afternoon, the drive leads to Domaine de Saint-Lambert and Mascoussel. We end the trip at Chapelle Saint-Jean exactly at the 17:00 sunset, when the valley is bathed in cool blue tones.",
+            "fr": "Une agréable journée d’hiver commence au Monument des Enfants, avec le chauffage de la voiture pour le confort. À midi, nous visitons l’église du cœur historique. L’après-midi, la route mène au Domaine de Saint-Lambert et au Mascoussel. Nous terminons l’excursion à la Chapelle Saint-Jean exactement au coucher du soleil à 17:00, quand la vallée se baigne de tons bleus frais."
           },
           "stops": [
             {
@@ -957,13 +1062,15 @@
                 "de": "Enfants Denkmal",
                 "hu": "Enfants műemlék",
                 "ro": "Monumentul Enfants",
-                "en": "Enfants Monument"
+                "en": "Enfants Monument",
+                "fr": "Monument des Enfants"
               },
               "tip_5lang": {
                 "de": "Lassen Sie den Motor kurz laufen, um das Auto warm zu halten, während Sie für ein schnelles Foto aussteigen.",
                 "hu": "Hagyja járni a motort egy pillanatra, hogy melegen tartsa az autót, amíg kiszáll egy gyors fotóra.",
                 "ro": "Lăsați motorul pornit pentru un moment ca să mențineți căldura în mașină cât timp coborâți pentru o poză rapidă.",
-                "en": "Keep the car warm while you hop out for a quick photo; the winter light makes the monument stand out beautifully."
+                "en": "Keep the car warm while you hop out for a quick photo; the winter light makes the monument stand out beautifully.",
+                "fr": "Gardez la voiture chaude pendant que vous descendez pour une photo rapide ; la lumière hivernale met le monument en valeur."
               }
             },
             {
@@ -971,13 +1078,15 @@
                 "de": "Porte de Soubeyran",
                 "hu": "Porte de Soubeyran",
                 "ro": "Porte de Soubeyran",
-                "en": "Porte de Soubeyran"
+                "en": "Porte de Soubeyran",
+                "fr": "Porte de Soubeyran"
               },
               "tip_5lang": {
                 "de": "Die Altstadt ist eng; parken Sie etwas außerhalb und genießen Sie den kurzen, erfrischenden Gang durch das historische Tor.",
                 "hu": "Az óváros szűk; parkoljon kicsit távolabb, és élvezze a rövid, frissítő sétát a történelmi kapun keresztül.",
                 "ro": "Centrul vechi este îngust; parcați puțin mai departe și bucurați-vă de o scurtă plimbare revigorantă prin poartă.",
-                "en": "The old town is narrow; park a bit further away and enjoy a short, refreshing walk through the historic gate."
+                "en": "The old town is narrow; park a bit further away and enjoy a short, refreshing walk through the historic gate.",
+                "fr": "La vieille ville est étroite ; garez-vous un peu plus loin et appréciez une courte et vivifiante promenade à travers la porte historique."
               }
             },
             {
@@ -985,13 +1094,15 @@
                 "de": "Kirche Notre-Dame-de-la-Carce",
                 "hu": "Notre-Dame-de-la-Carce templom",
                 "ro": "Biserica Notre-Dame-de-la-Carce",
-                "en": "Church of Notre-Dame-de-la-Carce"
+                "en": "Church of Notre-Dame-de-la-Carce",
+                "fr": "Église Notre-Dame-de-la-Carce"
               },
               "tip_5lang": {
                 "de": "Die Kirche bietet einen ruhigen Ort zum Innehalten, bevor Sie zurück in das geheizte Auto steigen.",
                 "hu": "A templom csendes helyet kínál az elmélkedéshez, mielőtt visszaszállna a jól felfűtött autóba.",
                 "ro": "Biserica oferă un loc liniștit pentru reculegere înainte de a vă întoarce în mașina bine încălzită.",
-                "en": "The church offers a quiet place for reflection before you head back to the warmth of your heated car."
+                "en": "The church offers a quiet place for reflection before you head back to the warmth of your heated car.",
+                "fr": "L’église offre un lieu paisible pour la réflexion avant de retourner à la chaleur de votre voiture chauffée."
               }
             },
             {
@@ -999,13 +1110,15 @@
                 "de": "Domaine de Saint-Lambert",
                 "hu": "Domaine de Saint-Lambert",
                 "ro": "Domaine de Saint-Lambert",
-                "en": "Domaine de Saint-Lambert"
+                "en": "Domaine de Saint-Lambert",
+                "fr": "Domaine de Saint-Lambert"
               },
               "tip_5lang": {
                 "de": "Prüfen Sie die Straßenbedingungen auf dem Weg zum Schloss; bei Frost können die Nebenstraßen glatt sein.",
                 "hu": "Ellenőrizze az útviszonyokat a kastély felé; fagy esetén a mellékutak igencsak csúszósak lehetnek.",
                 "ro": "Verificați starea drumului spre castel; în caz de îngheț, drumurile secundare pot fi destul de alunecoase.",
-                "en": "Check the road conditions on your way to the castle; in case of frost, side roads can be quite slippery."
+                "en": "Check the road conditions on your way to the castle; in case of frost, side roads can be quite slippery.",
+                "fr": "Vérifiez l’état des routes en vous rendant au château ; en cas de gel, les chemins secondaires peuvent être très glissants."
               }
             },
             {
@@ -1013,13 +1126,15 @@
                 "de": "Mascoussel",
                 "hu": "Mascoussel",
                 "ro": "Mascoussel",
-                "en": "Mascoussel"
+                "en": "Mascoussel",
+                "fr": "Mascoussel"
               },
               "tip_5lang": {
                 "de": "Genießen Sie die winterliche Einsamkeit dieses Ortes; die kühle Luft lässt die Landschaft besonders weit erscheinen.",
                 "hu": "Élvezze a hely téli magányát; a hűvös levegő miatt a táj különösen tágasnak és távolinak tűnik.",
                 "ro": "Bucurați-vă de liniștea hibernală a acestui loc; aerul rece face ca peisajul să pară extrem de vast.",
-                "en": "Enjoy the winter solitude of this place; the crisp air makes the surrounding landscape feel vast and open."
+                "en": "Enjoy the winter solitude of this place; the crisp air makes the surrounding landscape feel vast and open.",
+                "fr": "Appréciez la solitude hivernale de cet endroit ; l’air vif donne une impression d’espace et d’ouverture au paysage environnant."
               }
             },
             {
@@ -1027,13 +1142,15 @@
                 "de": "Chapelle Saint-Jean",
                 "hu": "Chapelle Saint-Jean",
                 "ro": "Chapelle Saint-Jean",
-                "en": "Chapelle Saint-Jean"
+                "en": "Chapelle Saint-Jean",
+                "fr": "Chapelle Saint-Jean"
               },
               "tip_5lang": {
                 "de": "Kommen Sie rechtzeitig vor 17:00 Uhr an, um den Sonnenuntergang über den verschneiten oder frostigen Hügeln zu sehen.",
                 "hu": "Érkezzen meg időben 17:00 előtt, hogy láthassa a naplementét a havas vagy zúzmarás dombok felett.",
                 "ro": "Ajungeți din timp, înainte de ora 17:00, pentru a vedea apusul peste dealurile înghețate sau înzăpezite.",
-                "en": "Arrive before 17:00 to catch the sunset over the frosty or snow-dusted hills surrounding the town."
+                "en": "Arrive before 17:00 to catch the sunset over the frosty or snow-dusted hills surrounding the town.",
+                "fr": "Arrivez avant 17:00 pour assister au coucher du soleil sur les collines givrées ou saupoudrées de neige entourant la ville."
               }
             }
           ]

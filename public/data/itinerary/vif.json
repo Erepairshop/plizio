@@ -21,7 +21,8 @@
             "de": "Rathaus Vif",
             "hu": "Vif Városháza",
             "ro": "Primăria Vif",
-            "en": "Vif Town Hall"
+            "en": "Vif Town Hall",
+            "fr": "Hôtel de ville de Vif"
           },
           "coords": [
             5.669268,
@@ -36,7 +37,8 @@
             "de": "Bewundern Sie die elegante Fassade des Rathauses von Vif, ein stolzes Symbol der lokalen Stadtgeschichte, und besuchen Sie es morgens, um Menschenmassen zu vermeiden.",
             "hu": "Csodálja meg a vifi városháza elegáns homlokzatát, a helyi polgári történelem büszke szimbólumát, és a tömeg elkerülése érdekében időzítse látogatását a reggeli órákra.",
             "ro": "Admirați fațada elegantă a Primăriei din Vif, un simbol mândru al istoriei civice locale, și vizitați-o în orele dimineții pentru a evita aglomerația.",
-            "en": "Admire the elegant facade of the Vif Town Hall, a proud symbol of local civic history, and visit during morning hours for fewer crowds and better lighting."
+            "en": "Admire the elegant facade of the Vif Town Hall, a proud symbol of local civic history, and visit during morning hours for fewer crowds and better lighting.",
+            "fr": "Admirez la façade élégante de l'hôtel de ville de Vif, fier symbole de l'histoire civique locale, et visitez-le le matin pour moins de foule et un meilleur éclairage."
           }
         },
         {
@@ -44,7 +46,8 @@
             "de": "Kirche Saint-Jean-Baptiste",
             "hu": "Keresztelő Szent János Templom",
             "ro": "Biserica Saint-Jean-Baptiste",
-            "en": "Saint-Jean-Baptiste Church"
+            "en": "Saint-Jean-Baptiste Church",
+            "fr": "Église Saint-Jean-Baptiste"
           },
           "coords": [
             5.670645,
@@ -59,7 +62,8 @@
             "de": "Treten Sie in diese ruhige Kirche ein, um ihre Buntglasfenster zu bewundern, aber nehmen Sie beim Fotografieren unbedingt Rücksicht auf laufende Gottesdienste.",
             "hu": "Lépjen be ebbe a békés templomba, hogy megcsodálja a helyi hitet tükröző ólomüveg ablakokat, de fényképezéskor feltétlenül tartsa tiszteletben a folyamatban lévő miséket.",
             "ro": "Pășiți în această biserică senină pentru a admira vitraliile sale ce reprezintă credința locală, dar asigurați-vă că respectați slujbele în curs atunci când fotografiați.",
-            "en": "Step inside this serene church to marvel at its stained glass representing deep-rooted local faith, but be sure to respect ongoing services when photographing."
+            "en": "Step inside this serene church to marvel at its stained glass representing deep-rooted local faith, but be sure to respect ongoing services when photographing.",
+            "fr": "Entrez dans cette église sereine pour admirer ses vitraux représentant une foi locale profondément ancrée, mais veillez à respecter les offices en cours lors des prises de vue."
           }
         },
         {
@@ -67,7 +71,8 @@
             "de": "Champollion-Museum",
             "hu": "Champollion Múzeum",
             "ro": "Muzeul Champollion",
-            "en": "Champollion Museum"
+            "en": "Champollion Museum",
+            "fr": "Musée Champollion"
           },
           "coords": [
             5.669228,
@@ -82,7 +87,8 @@
             "de": "Erkunden Sie das faszinierende Champollion-Museum, um die Geheimnisse der Ägyptologie direkt in den Alpen zu lüften, und kaufen Sie Tickets vorab online.",
             "hu": "Fedezze fel a lenyűgöző Champollion Múzeumot, hogy megfejtse az egyiptológia titkait az Alpokban, és a sorban állás elkerülése érdekében vegye meg jegyét előre online.",
             "ro": "Explorați fascinantul Muzeu Champollion pentru a descoperi secretele egiptologiei chiar în Alpi și cumpărați biletele online în avans pentru a sări peste coadă.",
-            "en": "Explore the fascinating Champollion Museum to uncover the secrets of Egyptology right in the Alps, and buy your tickets online in advance to skip the queue."
+            "en": "Explore the fascinating Champollion Museum to uncover the secrets of Egyptology right in the Alps, and buy your tickets online in advance to skip the queue.",
+            "fr": "Explorez le fascinant musée Champollion pour percer les secrets de l'égyptologie au cœur des Alpes, et achetez vos billets en ligne à l'avance pour éviter la file d'attente."
           }
         },
         {
@@ -90,7 +96,8 @@
             "de": "Musikschule",
             "hu": "Zeneiskola",
             "ro": "Școala de muzică",
-            "en": "Music School"
+            "en": "Music School",
+            "fr": "École de musique"
           },
           "coords": [
             5.668689,
@@ -105,7 +112,8 @@
             "de": "Entdecken Sie die lebendige lokale Kultur in dieser aktiven Musikschule und schauen Sie am schwarzen Brett nach, ob kostenlose Abendvorstellungen stattfinden.",
             "hu": "Fedezze fel a pezsgő helyi kultúrát ebben az aktív zeneiskolában, amely a feltörekvő művészek központja, és keresse az ingyenes esti előadásokról szóló hirdetéseket.",
             "ro": "Descoperiți cultura locală vibrantă la această școală de muzică activă și verificați avizierul pentru a vedea dacă există spectacole gratuite de seară.",
-            "en": "Discover the vibrant local culture at this active music school, a hub for aspiring artists, and check the notice board outside for any free evening performances."
+            "en": "Discover the vibrant local culture at this active music school, a hub for aspiring artists, and check the notice board outside for any free evening performances.",
+            "fr": "Découvrez la culture locale vibrante dans cette école de musique active, un centre pour artistes en herbe, et consultez le panneau d'affichage extérieur pour d'éventuels concerts gratuits en soirée."
           }
         },
         {
@@ -113,7 +121,8 @@
             "de": "Le Pieu",
             "hu": "Le Pieu",
             "ro": "Le Pieu",
-            "en": "Le Pieu"
+            "en": "Le Pieu",
+            "fr": "Le Pieu"
           },
           "coords": [
             5.640776,
@@ -128,7 +137,8 @@
             "de": "Wandern Sie hinauf nach Le Pieu, um die weite Aussicht auf das Tal von Vif zu genießen, und tragen Sie festes Schuhwerk, da der Weg steinig und uneben sein kann.",
             "hu": "Túrázzon fel a Le Pieu-hez, hogy élvezhesse a Vif völgyére nyíló pazar kilátást, és mindenképpen viseljen masszív cipőt, mivel az ösvény egyenetlen és sziklás.",
             "ro": "Faceți o drumeție până la Le Pieu pentru a vă bucura de priveliștile asupra văii Vif, asigurându-vă că purtați încălțăminte robustă, deoarece poteca poate fi stâncoasă.",
-            "en": "Hike up to Le Pieu to enjoy sweeping natural views over the Vif valley, making sure to wear sturdy shoes as the ascending path can be quite uneven and rocky."
+            "en": "Hike up to Le Pieu to enjoy sweeping natural views over the Vif valley, making sure to wear sturdy shoes as the ascending path can be quite uneven and rocky.",
+            "fr": "Montez jusqu'au Pieu pour profiter de vastes vues naturelles sur la vallée de Vif, en veillant à porter des chaussures solides car le chemin montant peut être assez inégal et rocailleux."
           }
         }
       ],
@@ -136,7 +146,8 @@
         "de": "Beginnen Sie Ihren Morgen im historischen Zentrum mit dem Rathaus und der friedlichen Kirche Saint-Jean-Baptiste. \nErkunden Sie mittags die erstklassige Geschichte im Champollion-Museum und entdecken Sie die Verbindungen zur Ägyptologie. \nVerbringen Sie den Nachmittag damit, lokale Kultur an der Musikschule zu erleben, bevor Sie etwas weiter wandern. \nBeenden Sie Ihre Tour am Abend mit einer Wanderung zum Le Pieu und genießen Sie den herrlichen Sonnenuntergang über den Alpen.",
         "hu": "Kezdje a reggelt a történelmi városközpont felfedezésével, megcsodálva a városházát és a békés Keresztelő Szent János templomot. \nDélben merüljön el a világszínvonalú történelemben a Champollion Múzeumban, felfedezve az egyiptológiai kapcsolatokat. \nDélután szívja magába a helyi kultúrát a zeneiskolánál, mielőtt kissé eltávolodna a központtól. \nZárja a sétát egy esti túrával a Le Pieu felé, és gyönyörködjön a Francia-Alpok felett lemenő napban.",
         "ro": "Începeți dimineața explorând centrul civic istoric, admirând Primăria și biserica senină Saint-Jean-Baptiste. \nLa prânz, pătrundeți în istoria la nivel mondial la Muzeul Champollion, descoperind legăturile surprinzătoare cu egiptologia. \nPetreceți după-amiaza bucurându-vă de cultura locală la școala de muzică înainte de a ieși din centru. \nÎncheiați turul de mers pe jos cu o drumeție de seară spre Le Pieu, bucurându-vă de un apus frumos peste Alpii Francezi.",
-        "en": "Start your morning exploring the historic civic center, marveling at the Town Hall and the serene Saint-Jean-Baptiste Church. \nBy midday, delve into world-class history at the Champollion Museum, discovering the region's surprising links to Egyptology. \nSpend your afternoon soaking up local culture near the music school before heading slightly out of the center. \nConclude your walking tour with an evening hike up to Le Pieu, enjoying a beautiful sunset over the French Alps."
+        "en": "Start your morning exploring the historic civic center, marveling at the Town Hall and the serene Saint-Jean-Baptiste Church. \nBy midday, delve into world-class history at the Champollion Museum, discovering the region's surprising links to Egyptology. \nSpend your afternoon soaking up local culture near the music school before heading slightly out of the center. \nConclude your walking tour with an evening hike up to Le Pieu, enjoying a beautiful sunset over the French Alps.",
+        "fr": "Commencez votre matinée en explorant le centre civique historique, en admirant l'hôtel de ville et la sereine église Saint-Jean-Baptiste. À midi, plongez dans l'histoire de classe mondiale au musée Champollion, découvrant les liens surprenants de la région avec l'égyptologie. Passez votre après-midi à vous imprégner de la culture locale près de l'école de musique avant de vous éloigner légèrement du centre. Concluez votre visite pédestre par une randonnée en soirée jusqu'au Pieu, en profitant d'un magnifique coucher de soleil sur les Alpes françaises."
       },
       "variants": {
         "rainy": {
@@ -144,7 +155,8 @@
             "de": "Beginnen Sie den regnerischen Morgen im trockenen Rathaus und der historischen Kirche. Verbringen Sie den Mittag mit den faszinierenden Innen-Ausstellungen im Champollion-Museum. Am Nachmittag bietet die Musikschule Schutz vor den Schauern. Beenden Sie den Spaziergang am Le Pieu; wasserfeste Schuhe sind hier Pflicht.",
             "hu": "Kezdje az esős reggelt a városházánál és a templom menedékében. A déli órákat töltse a Champollion Múzeum lenyűgöző beltéri kiállításain. Délután a zeneiskola kulturális tereiben húzódhat meg a záporok elől. A napot a Le Pieu ösvényein zárja, ahová elengedhetetlen a vízálló lábbeli.",
             "ro": "Începeți dimineața ploioasă la primărie și biserică pentru a sta la adăpost. Petreceți prânzul explorând expozițiile interioare fascinante de la Muzeul Champollion. După-amiaza, bucurați-vă de atmosfera culturală a școlii de muzică, ferindu-vă de averse. Încheiați la Le Pieu; purtați cizme impermeabile pentru potecile umede.",
-            "en": "Start your rainy morning at the town hall and historic church to stay dry. Spend midday exploring the fascinating indoor exhibits at the Champollion Museum. In the afternoon, enjoy the cultural vibe of the music school while escaping the showers. Wrap up your walk at Le Pieu; wear sturdy waterproof boots for the wet trails."
+            "en": "Start your rainy morning at the town hall and historic church to stay dry. Spend midday exploring the fascinating indoor exhibits at the Champollion Museum. In the afternoon, enjoy the cultural vibe of the music school while escaping the showers. Wrap up your walk at Le Pieu; wear sturdy waterproof boots for the wet trails.",
+            "fr": "Commencez votre matinée pluvieuse à l'hôtel de ville et à l'église historique pour rester au sec. Passez le midi à explorer les fascinantes expositions intérieures du musée Champollion. L'après-midi, profitez de l'ambiance culturelle de l'école de musique tout en échappant aux averses. Terminez votre promenade au Pieu ; portez des chaussures de randonnée imperméables et robustes pour les sentiers boueux."
           },
           "stops": [
             {
@@ -152,13 +164,15 @@
                 "de": "Rathaus Vif",
                 "hu": "Vif Városháza",
                 "ro": "Primăria Vif",
-                "en": "Vif Town Hall"
+                "en": "Vif Town Hall",
+                "fr": "Hôtel de ville de Vif"
               },
               "tip_5lang": {
                 "de": "Bewundern Sie die Architektur unter Ihrem Regenschirm; das Gebäude bietet eine kurze Pause vom morgendlichen Nieselregen.",
                 "hu": "Csodálja meg az építészetet az esernyője alól; az épület rövid menedéket nyújt a reggeli szitálás elől.",
                 "ro": "Admirați arhitectura de sub umbrelă; clădirea oferă un scurt răgaz de la burnița matinală.",
-                "en": "Admire the civic architecture from under your umbrella; the building offers a brief respite from the morning drizzle."
+                "en": "Admire the civic architecture from under your umbrella; the building offers a brief respite from the morning drizzle.",
+                "fr": "Admirez l'architecture civique sous votre parapluie ; le bâtiment offre un bref abri contre la bruine matinale."
               }
             },
             {
@@ -166,13 +180,15 @@
                 "de": "Kirche Saint-Jean-Baptiste",
                 "hu": "Keresztelő Szent János Templom",
                 "ro": "Biserica Saint-Jean-Baptiste",
-                "en": "Saint-Jean-Baptiste Church"
+                "en": "Saint-Jean-Baptiste Church",
+                "fr": "Église Saint-Jean-Baptiste"
               },
               "tip_5lang": {
                 "de": "Treten Sie ein, um das historische Innere zu bewundern und einen friedlichen, trockenen Schutz vor dem Regen zu finden.",
                 "hu": "Lépjen be, hogy megcsodálja a történelmi belső teret, és békés, száraz menedéket találjon a kitartó eső elől.",
                 "ro": "Pășiți înăuntru pentru a aprecia interiorul istoric și a găsi un adăpost liniștit și uscat de ploaia persistentă.",
-                "en": "Step inside to appreciate the historic interiors and find a peaceful, dry shelter from the persistent rain outside."
+                "en": "Step inside to appreciate the historic interiors and find a peaceful, dry shelter from the persistent rain outside.",
+                "fr": "Entrez pour apprécier les intérieurs historiques et trouver un abri paisible et sec contre la pluie persistante."
               }
             },
             {
@@ -180,13 +196,15 @@
                 "de": "Champollion-Museum",
                 "hu": "Champollion Múzeum",
                 "ro": "Muzeul Champollion",
-                "en": "Champollion Museum"
+                "en": "Champollion Museum",
+                "fr": "Musée Champollion"
               },
               "tip_5lang": {
                 "de": "Tauchen Sie in diesem hervorragenden Innenbereich in die Ägyptologie ein, perfekt, um warm und völlig trocken zu bleiben.",
                 "hu": "Merüljön el az egyiptológiában és a helytörténetben ebben a kiváló beltéri térben, amely tökéletes a szárazon maradáshoz.",
                 "ro": "Explorați egiptologia și istoria locală în acest spațiu interior excelent, perfect pentru a rămâne cald și complet uscat.",
-                "en": "Dive into Egyptology and local history in this excellent indoor space, perfect for staying warm and completely dry."
+                "en": "Dive into Egyptology and local history in this excellent indoor space, perfect for staying warm and completely dry.",
+                "fr": "Plongez dans l'égyptologie et l'histoire locale dans cet excellent espace intérieur, parfait pour rester au chaud et complètement au sec."
               }
             },
             {
@@ -194,13 +212,15 @@
                 "de": "Musikschule",
                 "hu": "Zeneiskola",
                 "ro": "Școala de muzică",
-                "en": "Music School"
+                "en": "Music School",
+                "fr": "École de musique"
               },
               "tip_5lang": {
                 "de": "Lauschen Sie den Melodien auf den Fluren und genießen Sie diesen überdachten kulturellen Halt während der Nachmittagsschauer.",
                 "hu": "Hallgassa a folyosókról kiszűrődő dallamokat, miközben élvezi ezt a fedett kulturális megállót a délutáni záporok idején.",
                 "ro": "Ascultați melodiile de pe coridoare în timp ce vă bucurați de această oprire culturală acoperită în timpul averselor de după-amiază.",
-                "en": "Listen to the faint melodies from the corridors while enjoying this covered cultural stop during the afternoon showers."
+                "en": "Listen to the faint melodies from the corridors while enjoying this covered cultural stop during the afternoon showers.",
+                "fr": "Écoutez les faibles mélodies depuis les couloirs tout en profitant de cet arrêt culturel couvert pendant les averses de l'après-midi."
               }
             },
             {
@@ -208,13 +228,15 @@
                 "de": "Le Pieu",
                 "hu": "Le Pieu",
                 "ro": "Le Pieu",
-                "en": "Le Pieu"
+                "en": "Le Pieu",
+                "fr": "Le Pieu"
               },
               "tip_5lang": {
                 "de": "Die nasse Natur ist üppig und lebendig, aber stellen Sie sicher, dass Sie wasserfeste Wanderschuhe für die schlammigen Wege haben.",
                 "hu": "A nedves természeti környezet buja és élénk, de a saras ösvények miatt feltétlenül viseljen vízálló túracipőt.",
                 "ro": "Natura umedă este luxuriantă, dar asigurați-vă că aveți încălțăminte de drumeție impermeabilă pentru potecile noroioase.",
-                "en": "The wet natural surroundings are lush and vibrant, but ensure you have waterproof trekking shoes for the muddy trails."
+                "en": "The wet natural surroundings are lush and vibrant, but ensure you have waterproof trekking shoes for the muddy trails.",
+                "fr": "Les environs naturels humides sont luxuriants et vibrants, mais assurez-vous d'avoir des chaussures de randonnée imperméables pour les sentiers boueux."
               }
             }
           ]
@@ -224,7 +246,8 @@
             "de": "Der frische Wintermorgen beginnt am Rathaus und der Kirche, wo Sie sich drinnen aufwärmen können. Der Mittag ist perfekt für die beheizten Räume des Champollion-Museums. Nachmittags bietet die Musikschule Wärme, bevor die Sonne sinkt. Beenden Sie die Tour am Le Pieu vor dem Sonnenuntergang um 17:00 Uhr mit dicken Thermoschichten.",
             "hu": "A csípős téli reggel a városházánál és a templomnál indul, ahol bent felmelegedhet. A délidő tökéletes a Champollion Múzeum fűtött termeinek felfedezésére. Délután a zeneiskola nyújt melegedőt a lemenő napfényben. A Le Pieu ösvényeit még az 17:00 órás sötétedés előtt járja be, vastag termo rétegekben.",
             "ro": "Diminețile geroase de iarnă încep la primărie și biserică, unde vă puteți încălzi înăuntru. Prânzul este perfect pentru a explora camerele încălzite ale Muzeului Champollion. O vizită după-amiaza la școala de muzică vă ține de cald. Terminați la Le Pieu înainte de apusul de la 17:00; purtați straturi termice pentru a înfrunta gerul.",
-            "en": "Crisp winter mornings begin at the town hall and local church, where you can warm up inside. Midday is perfect for exploring the heated rooms of the Champollion Museum. An afternoon visit to the music school keeps you cozy as the sun dips lower. Finish at Le Pieu before the 17:00 sunset; wear thick thermal layers to brave the evening frost."
+            "en": "Crisp winter mornings begin at the town hall and local church, where you can warm up inside. Midday is perfect for exploring the heated rooms of the Champollion Museum. An afternoon visit to the music school keeps you cozy as the sun dips lower. Finish at Le Pieu before the 17:00 sunset; wear thick thermal layers to brave the evening frost.",
+            "fr": "Les matinées hivernales fraîches commencent à l'hôtel de ville et à l'église locale, où vous pouvez vous réchauffer à l'intérieur. Midi est parfait pour explorer les salles chauffées du musée Champollion. Une visite l'après-midi à l'école de musique vous garde au chaud alors que le soleil descend. Terminez au Pieu avant le coucher du soleil à 17:00 ; portez des couches thermiques épaisses pour affronter le gel du soir."
           },
           "stops": [
             {
@@ -232,13 +255,15 @@
                 "de": "Rathaus Vif",
                 "hu": "Vif Városháza",
                 "ro": "Primăria Vif",
-                "en": "Vif Town Hall"
+                "en": "Vif Town Hall",
+                "fr": "Hôtel de ville de Vif"
               },
               "tip_5lang": {
                 "de": "Betrachten Sie die gefrostete Fassade dieses Gebäudes; wickeln Sie sich warm in einen Schal gegen die morgendliche Winterkälte.",
                 "hu": "Nézze meg a középület deres homlokzatát; burkolózzon meleg sálba, hogy kivédje a reggeli téli hideget.",
                 "ro": "Vedeți fațada înghețată a acestei clădiri; înfășurați-vă călduros într-un fular pentru a combate frigul matinal de iarnă.",
-                "en": "See the frosted facade of this civic building; wrap up warmly in a scarf to combat the morning winter chill."
+                "en": "See the frosted facade of this civic building; wrap up warmly in a scarf to combat the morning winter chill.",
+                "fr": "Voyez la façade givrée de ce bâtiment civique ; enveloppez-vous chaudement d'une écharpe pour combattre la fraîcheur matinale."
               }
             },
             {
@@ -246,13 +271,15 @@
                 "de": "Kirche Saint-Jean-Baptiste",
                 "hu": "Keresztelő Szent János Templom",
                 "ro": "Biserica Saint-Jean-Baptiste",
-                "en": "Saint-Jean-Baptiste Church"
+                "en": "Saint-Jean-Baptiste Church",
+                "fr": "Église Saint-Jean-Baptiste"
               },
               "tip_5lang": {
                 "de": "Das ruhige, kühle Innere ist im Winter friedlich, auch wenn Sie drinnen Ihren Mantel brauchen; ein perfekter Ort der Besinnung.",
                 "hu": "A csendes, hűvös belső tér télen is nyugodt, bár a kabátra bent is szükség lehet; tökéletes hely az elmélyülésre.",
                 "ro": "Interiorul liniștit este senin iarna, deși s-ar putea să aveți nevoie de palton și înăuntru; o oprire perfectă pentru reflecție.",
-                "en": "The quiet, cool interior is serene in winter, though you might need your coat even inside; a perfect reflective stop."
+                "en": "The quiet, cool interior is serene in winter, though you might need your coat even inside; a perfect reflective stop.",
+                "fr": "L'intérieur calme et frais est serein en hiver, bien que vous puissiez avoir besoin de votre manteau même à l'intérieur ; un arrêt parfait pour la réflexion."
               }
             },
             {
@@ -260,13 +287,15 @@
                 "de": "Champollion-Museum",
                 "hu": "Champollion Múzeum",
                 "ro": "Muzeul Champollion",
-                "en": "Champollion Museum"
+                "en": "Champollion Museum",
+                "fr": "Musée Champollion"
               },
               "tip_5lang": {
                 "de": "Ziehen Sie sich in die gut beheizten Museumssäle zurück – ein idealer langer Mittagsstopp zum Aufwärmen und Lernen.",
                 "hu": "Húzódjon be a kényelmesen fűtött múzeumi termekbe, amely ideális hosszú déli megálló a felmelegedésre és a tanulásra.",
                 "ro": "Retrageți-vă în sălile confortabil încălzite ale muzeului, fiind o oprire ideală la prânz pentru a vă dezgheța în timp ce învățați.",
-                "en": "Retreat into the comfortably heated museum halls, making it an ideal long midday stop to thaw out while learning."
+                "en": "Retreat into the comfortably heated museum halls, making it an ideal long midday stop to thaw out while learning.",
+                "fr": "Retirez-vous dans les salles confortablement chauffées du musée, en faisant un excellent arrêt de midi pour vous réchauffer tout en apprenant."
               }
             },
             {
@@ -274,13 +303,15 @@
                 "de": "Musikschule",
                 "hu": "Zeneiskola",
                 "ro": "Școala de muzică",
-                "en": "Music School"
+                "en": "Music School",
+                "fr": "École de musique"
               },
               "tip_5lang": {
                 "de": "Genießen Sie die lebhafte Atmosphäre der Musikschule, die einen gemütlichen Rückzugsort vor den sinkenden Nachmittagstemperaturen bietet.",
                 "hu": "Élvezze a zeneiskola nyüzsgő légkörét, amely hangulatos beltéri menedéket nyújt a csökkenő délutáni hőmérséklet elől.",
                 "ro": "Bucurați-vă de atmosfera plină de viață a școlii de muzică, oferind o evadare confortabilă din calea temperaturilor scăzute.",
-                "en": "Enjoy the lively atmosphere of the music school, providing a cozy indoor escape from the dropping afternoon temperatures."
+                "en": "Enjoy the lively atmosphere of the music school, providing a cozy indoor escape from the dropping afternoon temperatures.",
+                "fr": "Profitez de l'atmosphère animée de l'école de musique, offrant une échappée intérieure et chaleureuse face à la baisse des températures l'après-midi."
               }
             },
             {
@@ -288,13 +319,15 @@
                 "de": "Le Pieu",
                 "hu": "Le Pieu",
                 "ro": "Le Pieu",
-                "en": "Le Pieu"
+                "en": "Le Pieu",
+                "fr": "Le Pieu"
               },
               "tip_5lang": {
                 "de": "Die Winterlandschaft ist kahl und schön; besuchen Sie sie vor dem frühen Sonnenuntergang um 17:00 Uhr und tragen Sie Handschuhe.",
                 "hu": "A téli táj zord és gyönyörű; látogassa meg a korai, 17:00 órás naplemente előtt, és viseljen kesztyűt a fagyos szél ellen.",
                 "ro": "Peisajul de iarnă este frumos; vizitați înainte de apusul devreme de la 17:00 și purtați mănuși pentru vânturile reci.",
-                "en": "The winter landscape is stark and beautiful; visit before the early 17:00 sunset and wear gloves for the chilly winds."
+                "en": "The winter landscape is stark and beautiful; visit before the early 17:00 sunset and wear gloves for the chilly winds.",
+                "fr": "Le paysage hivernal est austère et beau ; visitez avant le coucher du soleil anticipé à 17:00 et portez des gants contre les vents glacials."
               }
             }
           ]
@@ -314,7 +347,8 @@
             "de": "Rathaus Vif",
             "hu": "Vif Városháza",
             "ro": "Primăria Vif",
-            "en": "Vif Town Hall"
+            "en": "Vif Town Hall",
+            "fr": "Hôtel de ville de Vif"
           },
           "coords": [
             5.669268,
@@ -329,7 +363,8 @@
             "de": "Bewundern Sie die elegante Fassade des Rathauses von Vif, ein stolzes Symbol der lokalen Stadtgeschichte, und besuchen Sie es morgens, um Menschenmassen zu vermeiden.",
             "hu": "Csodálja meg a vifi városháza elegáns homlokzatát, a helyi polgári történelem büszke szimbólumát, és a tömeg elkerülése érdekében időzítse látogatását a reggeli órákra.",
             "ro": "Admirați fațada elegantă a Primăriei din Vif, un simbol mândru al istoriei civice locale, și vizitați-o în orele dimineții pentru a evita aglomerația.",
-            "en": "Admire the elegant facade of the Vif Town Hall, a proud symbol of local civic history, and visit during morning hours for fewer crowds and better lighting."
+            "en": "Admire the elegant facade of the Vif Town Hall, a proud symbol of local civic history, and visit during morning hours for fewer crowds and better lighting.",
+            "fr": "Admirez la façade élégante de l'hôtel de ville de Vif, un fier symbole de l'histoire civique locale, et visitez-le le matin pour moins de foule et un meilleur éclairage."
           }
         },
         {
@@ -337,7 +372,8 @@
             "de": "Kirche Saint-Jean-Baptiste",
             "hu": "Keresztelő Szent János Templom",
             "ro": "Biserica Saint-Jean-Baptiste",
-            "en": "Saint-Jean-Baptiste Church"
+            "en": "Saint-Jean-Baptiste Church",
+            "fr": "Église Saint-Jean-Baptiste"
           },
           "coords": [
             5.670645,
@@ -352,7 +388,8 @@
             "de": "Treten Sie in diese ruhige Kirche ein, um ihre Buntglasfenster zu bewundern, aber nehmen Sie beim Fotografieren unbedingt Rücksicht auf laufende Gottesdienste.",
             "hu": "Lépjen be ebbe a békés templomba, hogy megcsodálja a helyi hitet tükröző ólomüveg ablakokat, de fényképezéskor feltétlenül tartsa tiszteletben a folyamatban lévő miséket.",
             "ro": "Pășiți în această biserică senină pentru a admira vitraliile sale ce reprezintă credința locală, dar asigurați-vă că respectați slujbele în curs atunci când fotografiați.",
-            "en": "Step inside this serene church to marvel at its stained glass representing deep-rooted local faith, but be sure to respect ongoing services when photographing."
+            "en": "Step inside this serene church to marvel at its stained glass representing deep-rooted local faith, but be sure to respect ongoing services when photographing.",
+            "fr": "Entrez dans cette église sereine pour admirer ses vitraux représentant une foi locale profondément ancrée, mais veillez à respecter les offices en cours lors des prises de vue."
           }
         },
         {
@@ -360,7 +397,8 @@
             "de": "Champollion-Museum",
             "hu": "Champollion Múzeum",
             "ro": "Muzeul Champollion",
-            "en": "Champollion Museum"
+            "en": "Champollion Museum",
+            "fr": "Musée Champollion"
           },
           "coords": [
             5.669228,
@@ -375,7 +413,8 @@
             "de": "Erkunden Sie das faszinierende Champollion-Museum, um die Geheimnisse der Ägyptologie direkt in den Alpen zu lüften, und kaufen Sie Tickets vorab online.",
             "hu": "Fedezze fel a lenyűgöző Champollion Múzeumot, hogy megfejtse az egyiptológia titkait az Alpokban, és a sorban állás elkerülése érdekében vegye meg jegyét előre online.",
             "ro": "Explorați fascinantul Muzeu Champollion pentru a descoperi secretele egiptologiei chiar în Alpi și cumpărați biletele online în avans pentru a sări peste coadă.",
-            "en": "Explore the fascinating Champollion Museum to uncover the secrets of Egyptology right in the Alps, and buy your tickets online in advance to skip the queue."
+            "en": "Explore the fascinating Champollion Museum to uncover the secrets of Egyptology right in the Alps, and buy your tickets online in advance to skip the queue.",
+            "fr": "Explorez le fascinant musée Champollion pour percer les secrets de l'égyptologie au cœur des Alpes, et achetez vos billets en ligne à l'avance pour éviter la file d'attente."
           }
         },
         {
@@ -383,7 +422,8 @@
             "de": "Le Pieu",
             "hu": "Le Pieu",
             "ro": "Le Pieu",
-            "en": "Le Pieu"
+            "en": "Le Pieu",
+            "fr": "Le Pieu"
           },
           "coords": [
             5.640776,
@@ -398,7 +438,8 @@
             "de": "Wandern Sie hinauf nach Le Pieu, um die weite Aussicht auf das Tal von Vif zu genießen, und tragen Sie festes Schuhwerk, da der Weg steinig und uneben sein kann.",
             "hu": "Túrázzon fel a Le Pieu-hez, hogy élvezhesse a Vif völgyére nyíló pazar kilátást, és mindenképpen viseljen masszív cipőt, mivel az ösvény egyenetlen és sziklás.",
             "ro": "Faceți o drumeție până la Le Pieu pentru a vă bucura de priveliștile asupra văii Vif, asigurându-vă că purtați încălțăminte robustă, deoarece poteca poate fi stâncoasă.",
-            "en": "Hike up to Le Pieu to enjoy sweeping natural views over the Vif valley, making sure to wear sturdy shoes as the ascending path can be quite uneven and rocky."
+            "en": "Hike up to Le Pieu to enjoy sweeping natural views over the Vif valley, making sure to wear sturdy shoes as the ascending path can be quite uneven and rocky.",
+            "fr": "Montez jusqu'au Pieu pour profiter de vastes vues naturelles sur la vallée de Vif, en veillant à porter des chaussures solides car le chemin montant peut être assez inégal et rocailleux."
           }
         },
         {
@@ -406,7 +447,8 @@
             "de": "Les Perrins",
             "hu": "Les Perrins",
             "ro": "Les Perrins",
-            "en": "Les Perrins"
+            "en": "Les Perrins",
+            "fr": "Les Perrins"
           },
           "coords": [
             5.640497,
@@ -421,7 +463,8 @@
             "de": "Schlendern Sie durch die historische Gegend von Les Perrins, um einen Blick in die ländliche Vergangenheit zu werfen, und bringen Sie ein Weitwinkelobjektiv mit.",
             "hu": "Barangoljon a Les Perrins történelmi területén, hogy bepillantást nyerjen a régió vidéki múltjába, és hozzon magával nagylátószögű objektívet a táj megörökítéséhez.",
             "ro": "Plimbați-vă prin zona istorică Les Perrins pentru a vedea trecutul rural al regiunii și aduceți un obiectiv cu unghi larg pentru a surprinde peisajele locale.",
-            "en": "Wander through the historical area of Les Perrins to glimpse the region's ancient rural past, bringing a wide-angle lens to capture the sweeping local landscapes."
+            "en": "Wander through the historical area of Les Perrins to glimpse the region's ancient rural past, bringing a wide-angle lens to capture the sweeping local landscapes.",
+            "fr": "Parcourez le secteur historique des Perrins pour entrevoir le passé rural ancien de la région ; apportez un grand angle pour capturer les vastes paysages locaux."
           }
         },
         {
@@ -429,7 +472,8 @@
             "de": "Ruine",
             "hu": "Romok",
             "ro": "Ruine",
-            "en": "Ruins"
+            "en": "Ruins",
+            "fr": "Ruines"
           },
           "coords": [
             5.69497,
@@ -444,7 +488,8 @@
             "de": "Erkunden Sie diese faszinierenden mittelalterlichen Ruinen, die eine greifbare Verbindung zur Vergangenheit bieten, und treten Sie vorsichtig auf, da einige Steine lose sind.",
             "hu": "Vizsgálja meg ezeket a lenyűgöző középkori romokat, amelyek kézzelfogható kapcsolatot kínálnak a múlttal, és lépkedjen óvatosan, mivel néhány kő laza vagy mohás.",
             "ro": "Investigați aceste ruine medievale fascinante care oferă o legătură tangibilă cu trecutul și pășiți cu grijă, deoarece unele pietre antice sunt libere sau acoperite de mușchi.",
-            "en": "Investigate these intriguing medieval ruins that offer a tangible connection to the past, and tread carefully since some of the ancient scattered stones are loose or mossy."
+            "en": "Investigate these intriguing medieval ruins that offer a tangible connection to the past, and tread carefully since some of the ancient scattered stones are loose or mossy.",
+            "fr": "Explorez ces ruines médiévales intrigantes qui offrent un lien tangible avec le passé ; marchez prudemment car certaines pierres éparses sont instables ou couvertes de mousse."
           }
         }
       ],
@@ -452,7 +497,8 @@
         "de": "Ihr Fahrradabenteuer beginnt am Rathaus und der zentralen Kirche in der frischen Alpenluft. \nMittags tauchen Sie im Champollion-Museum in die faszinierenden Ausstellungen im Herzen von Vif ein. \nAm Nachmittag radeln Sie zum Le Pieu und dem historischen Gebiet von Les Perrins, um die weiten Landschaften zu erleben. \nBeenden Sie Ihre Fahrt am Abend bei der fesselnden alten Ruine in der ruhigen Atmosphäre der Dämmerung.",
         "hu": "A kerékpáros kaland a városházánál és a központi templomnál kezdődik, élvezve a friss alpesi levegőt. \nDélben merüljön el a Vif szívében található Champollion Múzeum lenyűgöző kiállításaiban. \nDélután tekerjen ki a Le Pieu-hez és Les Perrins történelmi területéhez, hogy megtapasztalja a völgy szélesebb tájait. \nFejezze be az utat este a lenyűgöző ősi romok elérésével, a szürkület nyugodt légkörében.",
         "ro": "Aventura dvs. pe bicicletă începe la Primărie și biserica centrală, bucurându-vă de aerul proaspăt alpin. \nLa prânz, explorați exponatele fascinante ale Muzeului Champollion, situat în inima orașului Vif. \nDupă-amiaza, pedalați spre Le Pieu și zona istorică Les Perrins pentru a vedea peisajele văii. \nÎncheiați călătoria seara ajungând la ruina antică captivantă, înconjurată de atmosfera liniștită a amurgului.",
-        "en": "Your biking adventure begins at the Town Hall and the beautiful central church, enjoying the crisp morning Alpine air. \nMidday brings a deep dive into the fascinating exhibits of the Champollion Museum, perfectly situated in the heart of Vif. \nIn the afternoon, pedal out to Le Pieu and the historical area of Les Perrins to experience the wider valley landscapes. \nFinish your ride in the evening by reaching the captivating ancient Ruine, surrounded by the tranquil atmosphere of twilight."
+        "en": "Your biking adventure begins at the Town Hall and the beautiful central church, enjoying the crisp morning Alpine air. \nMidday brings a deep dive into the fascinating exhibits of the Champollion Museum, perfectly situated in the heart of Vif. \nIn the afternoon, pedal out to Le Pieu and the historical area of Les Perrins to experience the wider valley landscapes. \nFinish your ride in the evening by reaching the captivating ancient Ruine, surrounded by the tranquil atmosphere of twilight.",
+        "fr": "Votre aventure à vélo commence à la mairie et à la belle église centrale, en profitant de l'air alpin matinal vif. \nÀ midi, plongez dans les fascinantes expositions du musée Champollion, idéalement situé au cœur de Vif. \nL'après‑midi, pédalez jusqu'à Le Pieu et le secteur historique des Perrins pour ressentir les paysages plus larges de la vallée. \nTerminez votre sortie en soirée en rejoignant la captivante Ruine, entourée de l'atmosphère paisible du crépuscule."
       },
       "variants": {
         "rainy": {
@@ -460,7 +506,8 @@
             "de": "Ihr nasser Radtag beginnt im Zentrum; tragen Sie auffällige Regenkleidung. Trocknen Sie sich mittags im faszinierenden Museum ab. Die nachmittägliche Fahrt zu Le Pieu und Les Perrins erfordert Vorsicht auf rutschigen Wegen. Beenden Sie den Tag an den Ruinen, aber achten Sie auf den schlammigen Boden im Nieselregen.",
             "hu": "Nedves kerékpáros napja a központban indul, viseljen feltűnő esőruhát! Száradjon meg délben a múzeum falai között. A délutáni tekerés a Le Pieu és a Les Perrins felé óvatosságot igényel a csúszós utakon. A napot a romoknál zárja, de legyen nagyon óvatos a saras terepen a késő délutáni szitálásban.",
             "ro": "Ziua ploioasă de ciclism începe în centru; purtați echipament de ploaie vizibil. Uscați-vă la prânz în muzeul fascinant. Plimbarea de după-amiază spre Le Pieu și Les Perrins necesită prudență pe drumurile alunecoase. Încheiați la Ruine, cu grijă pe terenul noroios în burnița de la sfârșitul zilei.",
-            "en": "Your wet cycling day starts at the civic center and church, so wear high-vis rain gear. Dry off at midday inside the fascinating museum. Afternoon riding to Le Pieu and Les Perrins demands caution on slick, wet paths. End your day at the Ruins, but be extra careful on the muddy terrain in the late afternoon drizzle."
+            "en": "Your wet cycling day starts at the civic center and church, so wear high-vis rain gear. Dry off at midday inside the fascinating museum. Afternoon riding to Le Pieu and Les Perrins demands caution on slick, wet paths. End your day at the Ruins, but be extra careful on the muddy terrain in the late afternoon drizzle.",
+            "fr": "Votre journée cycliste sous la pluie commence au centre civique et à l'église, donc portez des vêtements de pluie haute visibilité. Séchez‑vous à midi à l'intérieur du musée fascinant. L'après‑midi, la route vers Le Pieu et Les Perrins exige de la prudence sur des sentiers glissants et mouillés. Finissez la journée aux Ruines, mais soyez très vigilant sur le terrain boueux sous la bruine de fin d'après‑midi."
           },
           "stops": [
             {
@@ -468,13 +515,15 @@
                 "de": "Rathaus Vif",
                 "hu": "Vif Városháza",
                 "ro": "Primăria Vif",
-                "en": "Vif Town Hall"
+                "en": "Vif Town Hall",
+                "fr": "Mairie de Vif"
               },
               "tip_5lang": {
                 "de": "Halten Sie kurz vor diesem imposanten Bauwerk; prüfen Sie die Schutzbleche Ihres Fahrrads vor der Fahrt im Regen.",
                 "hu": "Álljon meg röviden a lenyűgöző épület előtt; az indulás előtt ellenőrizze a sárvédőket az esős úton.",
                 "ro": "Opriți-vă scurt în afara acestei structuri impunătoare; asigurați-vă că apărătoarele de noroi sunt fixate.",
-                "en": "Pause briefly outside this imposing structure; ensure your bike's mudguards are secure before heading into the rain."
+                "en": "Pause briefly outside this imposing structure; ensure your bike's mudguards are secure before heading into the rain.",
+                "fr": "Faites une courte pause devant cet édifice imposant ; assurez‑vous que les garde‑boues de votre vélo sont bien fixés avant d'entrer sous la pluie."
               }
             },
             {
@@ -482,13 +531,15 @@
                 "de": "Kirche Saint-Jean-Baptiste",
                 "hu": "Keresztelő Szent János Templom",
                 "ro": "Biserica Saint-Jean-Baptiste",
-                "en": "Saint-Jean-Baptiste Church"
+                "en": "Saint-Jean-Baptiste Church",
+                "fr": "Église Saint‑Jean‑Baptiste"
               },
               "tip_5lang": {
                 "de": "Treten Sie ein, um sich zu trocknen; eine kurze Pause hier lässt Sie die stärksten morgendlichen Regengüsse vermeiden.",
                 "hu": "Lépjen be, hogy teljesen megszáradjon; egy rövid pihenő itt segít elkerülni a leghevesebb reggeli záporokat.",
                 "ro": "Pășiți înăuntru pentru a vă usca; o scurtă pauză aici vă ajută să evitați cele mai puternice ploi matinale.",
-                "en": "Step inside to dry off completely; taking a short break here lets you avoid the heaviest morning downpours."
+                "en": "Step inside to dry off completely; taking a short break here lets you avoid the heaviest morning downpours.",
+                "fr": "Entrez pour vous sécher complètement ; une courte pause ici vous permet d'éviter les averses matinales les plus fortes."
               }
             },
             {
@@ -496,13 +547,15 @@
                 "de": "Champollion-Museum",
                 "hu": "Champollion Múzeum",
                 "ro": "Muzeul Champollion",
-                "en": "Champollion Museum"
+                "en": "Champollion Museum",
+                "fr": "Musée Champollion"
               },
               "tip_5lang": {
                 "de": "Schließen Sie das Fahrrad ab und genießen Sie dieses Museum, ein perfekter trockener Zufluchtsort im Mittagsregen.",
                 "hu": "Zárja le a kerékpárt, és élvezze ezt a hatalmas múzeumot, amely tökéletes száraz menedék a déli esőzésben.",
                 "ro": "Legați bicicleta și bucurați-vă de acest muzeu, un refugiu cald și uscat perfect în timpul ploii de la amiază.",
-                "en": "Lock up your bike and enjoy this extensive indoor museum, a perfect warm, dry refuge during the midday rain."
+                "en": "Lock up your bike and enjoy this extensive indoor museum, a perfect warm, dry refuge during the midday rain.",
+                "fr": "Verrouillez votre vélo et profitez de ce vaste musée intérieur, un refuge parfait, chaud et sec pendant la pluie de midi."
               }
             },
             {
@@ -510,13 +563,15 @@
                 "de": "Le Pieu",
                 "hu": "Le Pieu",
                 "ro": "Le Pieu",
-                "en": "Le Pieu"
+                "en": "Le Pieu",
+                "fr": "Le Pieu"
               },
               "tip_5lang": {
                 "de": "Die Radwege hier werden bei Nässe ziemlich rutschig; bremsen Sie früh und genießen Sie die regengewaschene Landschaft.",
                 "hu": "Az itteni kerékpárutak esőben csúszóssá válnak; fékezzen korán, és biztonságosan élvezze az eső áztatta tájat.",
                 "ro": "Pistele de biciclete devin alunecoase la umezeală; frânați devreme și bucurați-vă de peisajul spălat de ploaie.",
-                "en": "The cycle paths around here become quite slick when wet; brake early and enjoy the moody, rain-washed landscape safely."
+                "en": "The cycle paths around here become quite slick when wet; brake early and enjoy the moody, rain-washed landscape safely.",
+                "fr": "Les pistes cyclables autour d'ici deviennent assez glissantes quand elles sont mouillées ; freinez tôt et profitez en toute sécurité du paysage lavé par la pluie."
               }
             },
             {
@@ -524,13 +579,15 @@
                 "de": "Les Perrins",
                 "hu": "Les Perrins",
                 "ro": "Les Perrins",
-                "en": "Les Perrins"
+                "en": "Les Perrins",
+                "fr": "Les Perrins"
               },
               "tip_5lang": {
                 "de": "Seien Sie vorsichtig beim Absteigen auf nassen Steinen; die historische Stätte wirkt unter Sturmwolken dramatisch.",
                 "hu": "Legyen óvatos leszálláskor a nedves macskaköveken vagy füvön; a történelmi helyszín drámai a viharfelhők alatt.",
                 "ro": "Aveți grijă la descălecare pe pietrele umede; situl istoric arată incredibil de dramatic sub norii de furtună.",
-                "en": "Take extra care dismounting on the wet cobblestones or grass; the historic site looks incredibly dramatic under storm clouds."
+                "en": "Take extra care dismounting on the wet cobblestones or grass; the historic site looks incredibly dramatic under storm clouds.",
+                "fr": "Soyez très prudent en descendant de vélo sur les pavés ou l'herbe mouillés ; le site historique paraît incroyablement dramatique sous les nuages d'orage."
               }
             },
             {
@@ -538,13 +595,15 @@
                 "de": "Ruine",
                 "hu": "Romok",
                 "ro": "Ruine",
-                "en": "Ruins"
+                "en": "Ruins",
+                "fr": "Ruines"
               },
               "tip_5lang": {
                 "de": "Die Ruinen sind im Regen stimmungsvoll, aber die Anfahrt ist schlammig, fahren Sie also langsam, um nicht auszurutschen.",
                 "hu": "A romos falak esőben is hangulatosak, de a megközelítés saras, így a csúszás elkerülése végett lassan haladjon.",
                 "ro": "Zidurile ruinate sunt atmosferice în ploaie, dar drumul este noroios, așa că mergeți încet pentru a nu aluneca.",
-                "en": "The ruined walls are atmospheric in the rain, but the approach on bike is muddy, so keep your speed low to avoid slipping."
+                "en": "The ruined walls are atmospheric in the rain, but the approach on bike is muddy, so keep your speed low to avoid slipping.",
+                "fr": "Les murs en ruine sont atmosphériques sous la pluie, mais l'approche à vélo est boueuse, donc roulez lentement pour éviter de glisser."
               }
             }
           ]
@@ -554,7 +613,8 @@
             "de": "Frostige Radmorgen beginnen am Rathaus; tragen Sie winddichte Schichten gegen die Kälte. Der Mittag erlaubt einen warmen Stopp im Museum. Nachmittagsfahrten zu Le Pieu und Les Perrins sind kühl, aber schön. Beenden Sie die Tour an den Ruinen vor 17:00 Uhr, da Glatteis die Abendfahrt riskant macht.",
             "hu": "A fagyos kerékpáros reggel a központban indul; viseljen szélálló rétegeket. A délidő hosszú, meleg pihenőt kínál a múzeumban. A délutáni tekerés Le Pieu és Les Perrins felé zord, de szép. A romokhoz az 17:00 órás naplemente előtt érjen oda, mivel a fagy és a tükörjég veszélyessé teszi az esti utat.",
             "ro": "Diminețile geroase de ciclism încep în centru; purtați straturi rezistente la vânt. Prânzul permite o oprire caldă în muzeu. Mersul de după-amiază spre Le Pieu și Les Perrins este frumos, dar rece. Terminați la Ruine înainte de 17:00, deoarece gheața și frigul fac mersul de seară periculos.",
-            "en": "Frosty cycling mornings start at the town hall and church; dress in windproof layers to fight the chill. Midday allows a warm, long stop inside the museum. Afternoon riding to Le Pieu and Les Perrins is stark but beautiful. Finish at the Ruins before the 17:00 sunset, as freezing temperatures and black ice make evening riding risky."
+            "en": "Frosty cycling mornings start at the town hall and church; dress in windproof layers to fight the chill. Midday allows a warm, long stop inside the museum. Afternoon riding to Le Pieu and Les Perrins is stark but beautiful. Finish at the Ruins before the 17:00 sunset, as freezing temperatures and black ice make evening riding risky.",
+            "fr": "Les matinées glaciales à vélo commencent à la mairie et à l'église ; habillez‑vous en couches coupe‑vent pour combattre le froid. À midi, faites une longue halte au chaud à l'intérieur du musée. L'après‑midi vers Le Pieu et Les Perrins est austère mais superbe. Terminez aux Ruines avant le coucher du soleil à 17:00, car les températures glaciales et le verglas rendent les trajets nocturnes risqués."
           },
           "stops": [
             {
@@ -562,13 +622,15 @@
                 "de": "Rathaus Vif",
                 "hu": "Vif Városháza",
                 "ro": "Primăria Vif",
-                "en": "Vif Town Hall"
+                "en": "Vif Town Hall",
+                "fr": "Mairie de Vif"
               },
               "tip_5lang": {
                 "de": "Ein kurzer Fotostopp am gefrosteten Gebäude; stellen Sie sicher, dass Ihre Radhandschuhe dick genug für den Wind sind.",
                 "hu": "Gyors fotószünet a deres épületnél; győződjön meg róla, hogy a kerékpáros kesztyűje elég vastag a csípős szélhez.",
                 "ro": "O scurtă oprire foto la clădirea înghețată; asigurați-vă că mănușile de ciclism sunt groase pentru vântul rece.",
-                "en": "A quick photo stop at the frosted building; make sure your cycling gloves are thick enough for the biting morning wind."
+                "en": "A quick photo stop at the frosted building; make sure your cycling gloves are thick enough for the biting morning wind.",
+                "fr": "Un arrêt photo rapide devant le bâtiment givré ; assurez‑vous que vos gants de cyclisme sont assez épais pour le vent mordant du matin."
               }
             },
             {
@@ -576,13 +638,15 @@
                 "de": "Kirche Saint-Jean-Baptiste",
                 "hu": "Keresztelő Szent János Templom",
                 "ro": "Biserica Saint-Jean-Baptiste",
-                "en": "Saint-Jean-Baptiste Church"
+                "en": "Saint-Jean-Baptiste Church",
+                "fr": "Église Saint‑Jean‑Baptiste"
               },
               "tip_5lang": {
                 "de": "Treten Sie in die Steinkirche ein, um sich kurz aufzuwärmen, bevor Sie sich wieder in den Sattel schwingen.",
                 "hu": "Lépjen be a kőtemplomba, hogy egy pillanatra felmelegedjen, mielőtt visszapattanna a nyeregbe a téli úton.",
                 "ro": "Pășiți în biserica de piatră pentru a vă încălzi momentan fața înainte de a reveni în șa pentru plimbarea de iarnă.",
-                "en": "Step into the stone church to warm your face momentarily before hopping back on the saddle for your winter ride."
+                "en": "Step into the stone church to warm your face momentarily before hopping back on the saddle for your winter ride.",
+                "fr": "Entrez dans l'église de pierre pour réchauffer brièvement votre visage avant de remonter en selle pour la sortie hivernale."
               }
             },
             {
@@ -590,13 +654,15 @@
                 "de": "Champollion-Museum",
                 "hu": "Champollion Múzeum",
                 "ro": "Muzeul Champollion",
-                "en": "Champollion Museum"
+                "en": "Champollion Museum",
+                "fr": "Musée Champollion"
               },
               "tip_5lang": {
                 "de": "Der beste Ort, um sich aufzuwärmen; verbringen Sie ein bis zwei Stunden in den beheizten Ausstellungen.",
                 "hu": "A legjobb hely a teljes felmelegedésre; töltsön el egy-két órát a fűtött kiállításokon, mielőtt újra dacolna a hideggel.",
                 "ro": "Cel mai bun loc pentru a vă dezgheța complet; petreceți o oră-două bucurându-vă de expozițiile încălzite.",
-                "en": "The best place to completely thaw out; spend an hour or two enjoying the heated exhibits before facing the cold again."
+                "en": "The best place to completely thaw out; spend an hour or two enjoying the heated exhibits before facing the cold again.",
+                "fr": "Le meilleur endroit pour se réchauffer complètement ; passez une ou deux heures à profiter des expositions chauffées avant d'affronter de nouveau le froid."
               }
             },
             {
@@ -604,13 +670,15 @@
                 "de": "Le Pieu",
                 "hu": "Le Pieu",
                 "ro": "Le Pieu",
-                "en": "Le Pieu"
+                "en": "Le Pieu",
+                "fr": "Le Pieu"
               },
               "tip_5lang": {
                 "de": "Die kahlen Winterbäume bieten eine karge Aussicht; achten Sie auf Morgenfrost auf dem Radweg in schattigen Bereichen.",
                 "hu": "A csupasz téli fák zord kilátást nyújtanak; vigyázzon a kerékpárúton az árnyékos részeken lévő reggeli fagyfoltokra.",
                 "ro": "Copacii goi de iarnă oferă priveliști aspre; atenție la peticele de gheață matinală de pe pista de biciclete la umbră.",
-                "en": "The bare winter trees offer stark views; watch out for patches of morning frost on the cycle path in shaded areas."
+                "en": "The bare winter trees offer stark views; watch out for patches of morning frost on the cycle path in shaded areas.",
+                "fr": "Les arbres nus d'hiver offrent des vues nettes ; garez‑vous aux plaques de gel matinal sur la piste cyclable dans les zones ombragées."
               }
             },
             {
@@ -618,13 +686,15 @@
                 "de": "Les Perrins",
                 "hu": "Les Perrins",
                 "ro": "Les Perrins",
-                "en": "Les Perrins"
+                "en": "Les Perrins",
+                "fr": "Les Perrins"
               },
               "tip_5lang": {
                 "de": "Erkunden Sie dieses historische Wahrzeichen zügig, um Ihren Puls hochzuhalten und sich warm zu halten.",
                 "hu": "Fedezze fel fürgén ezt a történelmi nevezetességet, hogy felpörgesse a pulzusát és melegen maradjon a hideg délutánon.",
                 "ro": "Explorați alert acest reper istoric pentru a vă menține ritmul cardiac ridicat și a rămâne cald pe frig.",
-                "en": "Explore this historical landmark briskly to keep your heart rate up and stay warm against the dropping afternoon temps."
+                "en": "Explore this historical landmark briskly to keep your heart rate up and stay warm against the dropping afternoon temps.",
+                "fr": "Parcourez rapidement ce site historique pour maintenir votre rythme cardiaque et rester au chaud face à la baisse des températures l'après‑midi."
               }
             },
             {
@@ -632,13 +702,15 @@
                 "de": "Ruine",
                 "hu": "Romok",
                 "ro": "Ruine",
-                "en": "Ruins"
+                "en": "Ruins",
+                "fr": "Ruines"
               },
               "tip_5lang": {
                 "de": "Erreichen Sie die Ruinen kurz vor Sonnenuntergang um 17:00 Uhr; schalten Sie für die dunkle Rückfahrt Ihre hellen Lichter ein.",
                 "hu": "Érje el a hangulatos romokat kevéssel 17:00 óra előtt; azonnal kapcsolja be a lámpákat a sötét visszaúthoz.",
                 "ro": "Ajungeți la ruine chiar înainte de apusul de la 17:00; aprindeți imediat luminile bicicletei pentru drumul întunecat de întoarcere.",
-                "en": "Reach the atmospheric ruins just before the 17:00 sunset; turn on your bright bike lights immediately for the dark ride back."
+                "en": "Reach the atmospheric ruins just before the 17:00 sunset; turn on your bright bike lights immediately for the dark ride back.",
+                "fr": "Rejoignez les ruines atmosphériques juste avant le coucher du soleil à 17:00 ; allumez immédiatement vos puissants feux de vélo pour le retour dans l'obscurité."
               }
             }
           ]
@@ -658,7 +730,8 @@
             "de": "Kirche Saint-Jean-Baptiste",
             "hu": "Keresztelő Szent János Templom",
             "ro": "Biserica Saint-Jean-Baptiste",
-            "en": "Saint-Jean-Baptiste Church"
+            "en": "Saint-Jean-Baptiste Church",
+            "fr": "Église Saint‑Jean‑Baptiste"
           },
           "coords": [
             5.670645,
@@ -673,7 +746,8 @@
             "de": "Treten Sie in diese ruhige Kirche ein, um ihre Buntglasfenster zu bewundern, aber nehmen Sie beim Fotografieren unbedingt Rücksicht auf laufende Gottesdienste.",
             "hu": "Lépjen be ebbe a békés templomba, hogy megcsodálja a helyi hitet tükröző ólomüveg ablakokat, de fényképezéskor feltétlenül tartsa tiszteletben a folyamatban lévő miséket.",
             "ro": "Pășiți în această biserică senină pentru a admira vitraliile sale ce reprezintă credința locală, dar asigurați-vă că respectați slujbele în curs atunci când fotografiați.",
-            "en": "Step inside this serene church to marvel at its stained glass representing deep-rooted local faith, but be sure to respect ongoing services when photographing."
+            "en": "Step inside this serene church to marvel at its stained glass representing deep-rooted local faith, but be sure to respect ongoing services when photographing.",
+            "fr": "Entrez dans cette église sereine pour admirer ses vitraux représentant une foi locale ancienne, mais respectez les offices en cours lors de prises de vue."
           }
         },
         {
@@ -681,7 +755,8 @@
             "de": "Champollion-Museum",
             "hu": "Champollion Múzeum",
             "ro": "Muzeul Champollion",
-            "en": "Champollion Museum"
+            "en": "Champollion Museum",
+            "fr": "Musée Champollion"
           },
           "coords": [
             5.669228,
@@ -696,7 +771,8 @@
             "de": "Erkunden Sie das faszinierende Champollion-Museum, um die Geheimnisse der Ägyptologie direkt in den Alpen zu lüften, und kaufen Sie Tickets vorab online.",
             "hu": "Fedezze fel a lenyűgöző Champollion Múzeumot, hogy megfejtse az egyiptológia titkait az Alpokban, és a sorban állás elkerülése érdekében vegye meg jegyét előre online.",
             "ro": "Explorați fascinantul Muzeu Champollion pentru a descoperi secretele egiptologiei chiar în Alpi și cumpărați biletele online în avans pentru a sări peste coadă.",
-            "en": "Explore the fascinating Champollion Museum to uncover the secrets of Egyptology right in the Alps, and buy your tickets online in advance to skip the queue."
+            "en": "Explore the fascinating Champollion Museum to uncover the secrets of Egyptology right in the Alps, and buy your tickets online in advance to skip the queue.",
+            "fr": "Explorez le fascinant musée Champollion pour découvrir les secrets de l'égyptologie au cœur des Alpes, et achetez vos billets en ligne à l'avance pour éviter la file d'attente."
           }
         },
         {
@@ -704,7 +780,8 @@
             "de": "Kirche Saint-Paul",
             "hu": "Szent Pál Templom",
             "ro": "Biserica Saint-Paul",
-            "en": "Saint-Paul Church"
+            "en": "Saint-Paul Church",
+            "fr": "Église Saint‑Paul"
           },
           "coords": [
             5.643123,
@@ -719,7 +796,8 @@
             "de": "Schätzen Sie den ruhigen architektonischen Charme der Église Saint-Paul, ein verborgenes Juwel des lokalen Erbes, und bringen Sie eine leichte Jacke für das kühle Innere mit.",
             "hu": "Értékelje az Église Saint-Paul csendes építészeti varázsát, a helyi vallási örökség rejtett gyöngyszemét, és vigyen magával egy könnyű kabátot a hűvös belső tér miatt.",
             "ro": "Apreciați farmecul arhitectural liniștit al Bisericii Saint-Paul, o bijuterie ascunsă a patrimoniului religios local, și aduceți o jachetă ușoară pentru interiorul răcoros.",
-            "en": "Appreciate the quiet architectural charm of Église Saint-Paul, a hidden gem of local religious heritage, and bring a light jacket as the stone interior remains quite cool."
+            "en": "Appreciate the quiet architectural charm of Église Saint-Paul, a hidden gem of local religious heritage, and bring a light jacket as the stone interior remains quite cool.",
+            "fr": "Appréciez le charme architectural silencieux de l'Église Saint‑Paul, un trésor caché du patrimoine religieux local, et apportez une veste légère car l'intérieur en pierre reste assez frais."
           }
         },
         {
@@ -727,7 +805,8 @@
             "de": "Les Perrins",
             "hu": "Les Perrins",
             "ro": "Les Perrins",
-            "en": "Les Perrins"
+            "en": "Les Perrins",
+            "fr": "Les Perrins"
           },
           "coords": [
             5.640497,
@@ -742,7 +821,8 @@
             "de": "Schlendern Sie durch die historische Gegend von Les Perrins, um einen Blick in die ländliche Vergangenheit zu werfen, und bringen Sie ein Weitwinkelobjektiv mit.",
             "hu": "Barangoljon a Les Perrins történelmi területén, hogy bepillantást nyerjen a régió vidéki múltjába, és hozzon magával nagylátószögű objektívet a táj megörökítéséhez.",
             "ro": "Plimbați-vă prin zona istorică Les Perrins pentru a vedea trecutul rural al regiunii și aduceți un obiectiv cu unghi larg pentru a surprinde peisajele locale.",
-            "en": "Wander through the historical area of Les Perrins to glimpse the region's ancient rural past, bringing a wide-angle lens to capture the sweeping local landscapes."
+            "en": "Wander through the historical area of Les Perrins to glimpse the region's ancient rural past, bringing a wide-angle lens to capture the sweeping local landscapes.",
+            "fr": "Parcourez le secteur historique des Perrins pour entrevoir le passé rural ancien de la région ; apportez un grand angle pour capturer les vastes paysages locaux."
           }
         },
         {
@@ -750,7 +830,8 @@
             "de": "Le Pieu",
             "hu": "Le Pieu",
             "ro": "Le Pieu",
-            "en": "Le Pieu"
+            "en": "Le Pieu",
+            "fr": "Le Pieu"
           },
           "coords": [
             5.640776,
@@ -765,7 +846,8 @@
             "de": "Wandern Sie hinauf nach Le Pieu, um die weite Aussicht auf das Tal von Vif zu genießen, und tragen Sie festes Schuhwerk, da der Weg steinig und uneben sein kann.",
             "hu": "Túrázzon fel a Le Pieu-hez, hogy élvezhesse a Vif völgyére nyíló pazar kilátást, és mindenképpen viseljen masszív cipőt, mivel az ösvény egyenetlen és sziklás.",
             "ro": "Faceți o drumeție până la Le Pieu pentru a vă bucura de priveliștile asupra văii Vif, asigurându-vă că purtați încălțăminte robustă, deoarece poteca poate fi stâncoasă.",
-            "en": "Hike up to Le Pieu to enjoy sweeping natural views over the Vif valley, making sure to wear sturdy shoes as the ascending path can be quite uneven and rocky."
+            "en": "Hike up to Le Pieu to enjoy sweeping natural views over the Vif valley, making sure to wear sturdy shoes as the ascending path can be quite uneven and rocky.",
+            "fr": "Montez à pied jusqu'à Le Pieu pour profiter de vues panoramiques sur la vallée de Vif ; portez des chaussures robustes car le chemin en montée peut être inégal et rocheux."
           }
         },
         {
@@ -773,7 +855,8 @@
             "de": "Ruine",
             "hu": "Romok",
             "ro": "Ruine",
-            "en": "Ruins"
+            "en": "Ruins",
+            "fr": "Ruines"
           },
           "coords": [
             5.69497,
@@ -788,7 +871,8 @@
             "de": "Erkunden Sie diese faszinierenden mittelalterlichen Ruinen, die eine greifbare Verbindung zur Vergangenheit bieten, und treten Sie vorsichtig auf, da einige Steine lose sind.",
             "hu": "Vizsgálja meg ezeket a lenyűgöző középkori romokat, amelyek kézzelfogható kapcsolatot kínálnak a múlttal, és lépkedjen óvatosan, mivel néhány kő laza vagy mohás.",
             "ro": "Investigați aceste ruine medievale fascinante care oferă o legătură tangibilă cu trecutul și pășiți cu grijă, deoarece unele pietre antice sunt libere sau acoperite de mușchi.",
-            "en": "Investigate these intriguing medieval ruins that offer a tangible connection to the past, and tread carefully since some of the ancient scattered stones are loose or mossy."
+            "en": "Investigate these intriguing medieval ruins that offer a tangible connection to the past, and tread carefully since some of the ancient scattered stones are loose or mossy.",
+            "fr": "Explorez ces ruines médiévales intrigantes qui offrent un lien tangible avec le passé ; marchez prudemment car certaines pierres éparses sont instables ou couvertes de mousse."
           }
         },
         {
@@ -796,7 +880,8 @@
             "de": "Schneepflug-Wahrzeichen",
             "hu": "Hókotró Emlékmű",
             "ro": "Plug de Zăpadă",
-            "en": "Snowplow Landmark"
+            "en": "Snowplow Landmark",
+            "fr": "Monument du déneigeur"
           },
           "coords": [
             5.705325,
@@ -811,7 +896,8 @@
             "de": "Sehen Sie sich dieses einzigartige Schneepflug-Wahrzeichen an, das die harte Winterrealität der Region unterstreicht, und parken Sie sicher abseits der Hauptstraße.",
             "hu": "Tekintse meg ezt az egyedülálló hókotró-emlékművet, amely a régió zord téli valóságát jelképezi, és ügyeljen arra, hogy biztonságosan parkoljon le az út szélén.",
             "ro": "Vedeți acest plug de zăpadă unic care subliniază realitatea iernilor aspre din regiune, având grijă să parcați în siguranță în afara drumului principal când opriți.",
-            "en": "See this unique snowplow landmark that highlights the region's harsh winter reality, taking care to park safely off the main road when you stop to take photographs."
+            "en": "See this unique snowplow landmark that highlights the region's harsh winter reality, taking care to park safely off the main road when you stop to take photographs.",
+            "fr": "Voyez ce monument unique au déneigeur qui souligne la rudesse de l'hiver local ; garez‑vous hors de la route principale lorsque vous vous arrêtez pour photographier."
           }
         }
       ],
@@ -819,7 +905,8 @@
         "de": "Starten Sie Ihren Autotag mit dem Besuch der Kirche Saint-Jean-Baptiste und des Champollion-Museums, bevor der Andrang beginnt. \nFahren Sie mittags zur ruhigen Église Saint-Paul und den historischen Überresten von Les Perrins auf malerischen Bergstraßen. \nVerbringen Sie den späten Nachmittag mit einer kurzen Wanderung um Le Pieu und erkunden Sie die alte Ruine im Osten. \nWenn der Abend hereinbricht, beenden Sie Ihre Reise am Wahrzeichen Déneigeur und lassen den Tag Revue passieren.",
         "hu": "Kezdje az autós túrát a Keresztelő Szent János templom és a közeli Champollion Múzeum meglátogatásával a tömeg elkerülése végett. \nDélben vezessen el a békés Église Saint-Paul és Les Perrins történelmi maradványaihoz a festői hegyi utakon. \nA késő délutánt töltse egy rövid túrával a Le Pieu körül, és fedezze fel a keletre fekvő ősi romokat. \nEste zárja utazását az ikonikus hókotró emlékműnél, visszatekintve az alpesi felfedezésekkel teli napra.",
         "ro": "Începeți ziua de condus vizitând Biserica Saint-Jean-Baptiste și Muzeul Champollion înainte de sosirea aglomerației. \nLa prânz, conduceți spre liniștita Biserică Saint-Paul și rămășițele istorice din Les Perrins pe drumurile montane pitorești. \nPetreceți după-amiaza făcând o scurtă drumeție în jurul Le Pieu și explorând ruina antică din est. \nSpre seară, încheiați-vă călătoria la emblematicul plug de zăpadă, reflectând la o zi plină de descoperiri.",
-        "en": "Kick off your driving day by visiting the central Saint-Jean-Baptiste Church and the nearby Champollion Museum before the crowds arrive. \nBy midday, drive out to the tranquil Église Saint-Paul and the historical remnants of Les Perrins, enjoying the scenic mountain roads. \nSpend the late afternoon taking a short hike around Le Pieu and exploring the sprawling ancient Ruine to the east. \nAs evening falls, wrap up your journey at the iconic Déneigeur landmark, reflecting on a day full of diverse Alpine discoveries."
+        "en": "Kick off your driving day by visiting the central Saint-Jean-Baptiste Church and the nearby Champollion Museum before the crowds arrive. \nBy midday, drive out to the tranquil Église Saint-Paul and the historical remnants of Les Perrins, enjoying the scenic mountain roads. \nSpend the late afternoon taking a short hike around Le Pieu and exploring the sprawling ancient Ruine to the east. \nAs evening falls, wrap up your journey at the iconic Déneigeur landmark, reflecting on a day full of diverse Alpine discoveries.",
+        "fr": "Commencez votre journée de conduite en visitant l'église centrale Saint‑Jean‑Baptiste et le musée Champollion voisin avant l'arrivée des foules. \nÀ midi, conduisez jusqu'à la tranquille Église Saint‑Paul et aux vestiges historiques des Perrins, en profitant des routes de montagne pittoresques. \nPassez la fin d'après‑midi à faire une courte randonnée autour de Le Pieu et à explorer la vaste Ruine ancienne à l'est. \nAu crépuscule, concluez votre parcours au monument emblématique du Déneigeur, en réfléchissant à une journée riche en découvertes alpines variées."
       },
       "variants": {
         "rainy": {
@@ -827,7 +914,8 @@
             "de": "Beginnen Sie Ihre regnerische Fahrt an der Kirche mit laufender Heizung im Auto. Der Mittag verbringen Sie perfekt im trockenen Museum und der Kirche Saint-Paul. Die Nachmittagsfahrt bietet gemütliche Aussichten durch die Scheibenwischer. Beenden Sie die Tour an den Ruinen und am Schneepflug-Wahrzeichen und parken Sie abends vorsichtig im Schlamm.",
             "hu": "Esős autózását a templomnál kezdje, miközben az autó fűtése melegen tartja. A délidőt tökéletesen töltheti a száraz múzeumban és a Szent Pál templomban. A délutáni vezetés kényelmes kilátást nyújt az ablaktörlők mögül. Zárjon a romoknál és a hókotró emlékműnél, óvatosan parkolva a saras helyeken az esti szitálásban.",
             "ro": "Începeți plimbarea ploioasă vizitând biserica istorică, având căldura pornită în mașină. Prânzul este perfect în muzeul uscat și la biserica Saint-Paul. Condusul de după-amiază oferă priveliști confortabile din spatele ștergătoarelor. Încheiați la Ruine și Plugul de Zăpadă, parcând cu grijă în noroi în burnița de seară.",
-            "en": "Start your rainy drive visiting the historic Saint-Jean-Baptiste church with your car heater running. Midday is perfectly spent inside the dry museum and Saint-Paul church. Afternoon driving to Les Perrins and Le Pieu offers cozy, wiper-cleared views. Finish at the Ruins and Snowplow Landmark, navigating muddy parking spots carefully in the evening drizzle."
+            "en": "Start your rainy drive visiting the historic Saint-Jean-Baptiste church with your car heater running. Midday is perfectly spent inside the dry museum and Saint-Paul church. Afternoon driving to Les Perrins and Le Pieu offers cozy, wiper-cleared views. Finish at the Ruins and Snowplow Landmark, navigating muddy parking spots carefully in the evening drizzle.",
+            "fr": "Commencez votre trajet pluvieux en visitant l'historique église Saint‑Jean‑Baptiste avec le chauffage de la voiture allumé. Midi se passe idéalement à l'abri dans le musée sec et l'église Saint‑Paul. L'après‑midi, la route vers Les Perrins et Le Pieu offre des vues essuyées par les essuie‑glaces, confortables. Terminez aux Ruines et au Monument du déneigeur, en vous garant prudemment sur des places boueuses sous la bruine du soir."
           },
           "stops": [
             {
@@ -835,13 +923,15 @@
                 "de": "Kirche Saint-Jean-Baptiste",
                 "hu": "Keresztelő Szent János Templom",
                 "ro": "Biserica Saint-Jean-Baptiste",
-                "en": "Saint-Jean-Baptiste Church"
+                "en": "Saint-Jean-Baptiste Church",
+                "fr": "Église Saint‑Jean‑Baptiste"
               },
               "tip_5lang": {
                 "de": "Parken Sie nah am Eingang, um nicht nass zu werden; das friedliche Innere ist ein toller, trockener Start.",
                 "hu": "Parkoljon közel a bejárathoz, hogy elkerülje az esőt; a békés belső tér remek száraz kezdete a reggelnek.",
                 "ro": "Parcați aproape de intrare pentru a minimiza timpul în ploaie; interiorul liniștit este un început excelent și uscat.",
-                "en": "Park close to the entrance to minimize time in the rain; the peaceful interior is a great dry start to the morning."
+                "en": "Park close to the entrance to minimize time in the rain; the peaceful interior is a great dry start to the morning.",
+                "fr": "Garez‑vous près de l'entrée pour minimiser le temps sous la pluie ; l'intérieur paisible est un excellent départ sec pour la matinée."
               }
             },
             {
@@ -849,13 +939,15 @@
                 "de": "Champollion-Museum",
                 "hu": "Champollion Múzeum",
                 "ro": "Muzeul Champollion",
-                "en": "Champollion Museum"
+                "en": "Champollion Museum",
+                "fr": "Musée Champollion"
               },
               "tip_5lang": {
                 "de": "Parkplätze in der Nähe erleichtern den Zugang; genießen Sie eine lange, faszinierende Flucht vor dem Mittagsregen.",
                 "hu": "A közeli parkolókból a bejutás egyszerű; élvezze a hosszú, lenyűgöző menedéket a kitartó déli esőzés elől.",
                 "ro": "Parcările din apropiere facilitează accesul; bucurați-vă de o evadare lungă și fascinantă din calea ploii persistente de la amiază.",
-                "en": "The underground parking or nearby spots make access easy; enjoy a long, fascinating escape from the persistent midday rain."
+                "en": "The underground parking or nearby spots make access easy; enjoy a long, fascinating escape from the persistent midday rain.",
+                "fr": "Le parking souterrain ou les emplacements proches facilitent l'accès ; profitez d'une longue et fascinante évasion de la pluie persistante de midi."
               }
             },
             {
@@ -863,13 +955,15 @@
                 "de": "Kirche Saint-Paul",
                 "hu": "Szent Pál Templom",
                 "ro": "Biserica Saint-Paul",
-                "en": "Saint-Paul Church"
+                "en": "Saint-Paul Church",
+                "fr": "Église Saint‑Paul"
               },
               "tip_5lang": {
                 "de": "Ein weiteres tolles Gebäude; rennen Sie mit Regenschirm vom Auto, um die Architektur zu bewundern, ohne nass zu werden.",
                 "hu": "Egy újabb kiváló beltéri szentély; szaladjon be az autótól esernyővel, hogy elázás nélkül csodálja meg az építészetet.",
                 "ro": "Un alt sanctuar interior excelent; fugiți din mașină cu o umbrelă pentru a aprecia arhitectura fără a vă uda.",
-                "en": "Another excellent indoor sanctuary; dash from your car with an umbrella to appreciate the quiet architecture without getting soaked."
+                "en": "Another excellent indoor sanctuary; dash from your car with an umbrella to appreciate the quiet architecture without getting soaked.",
+                "fr": "Un autre excellent sanctuaire intérieur ; courez de votre voiture avec un parapluie pour apprécier l'architecture sans être trempé."
               }
             },
             {
@@ -877,13 +971,15 @@
                 "de": "Les Perrins",
                 "hu": "Les Perrins",
                 "ro": "Les Perrins",
-                "en": "Les Perrins"
+                "en": "Les Perrins",
+                "fr": "Les Perrins"
               },
               "tip_5lang": {
                 "de": "Genießen Sie die malerische Aussicht auf dieses Gebiet hauptsächlich bequem aus Ihrem trockenen Auto, wenn es stark regnet.",
                 "hu": "A történelmi terület festői látványát elsősorban a száraz autó kényelméből élvezze, ha az eső túl erős lenne.",
                 "ro": "Bucurați-vă de priveliștea pitorească a acestei zone istorice în principal din confortul mașinii uscate dacă plouă prea tare.",
-                "en": "Enjoy the scenic view of this historical area primarily from the comfort of your dry car if the rain gets too heavy."
+                "en": "Enjoy the scenic view of this historical area primarily from the comfort of your dry car if the rain gets too heavy.",
+                "fr": "Appréciez la vue pittoresque de ce secteur historique principalement depuis le confort de votre voiture sèche si la pluie devient trop forte."
               }
             },
             {
@@ -891,13 +987,15 @@
                 "de": "Le Pieu",
                 "hu": "Le Pieu",
                 "ro": "Le Pieu",
-                "en": "Le Pieu"
+                "en": "Le Pieu",
+                "fr": "Le Pieu"
               },
               "tip_5lang": {
                 "de": "Die Straßen hier können rutschig und mit nassen Blättern bedeckt sein; fahren Sie vorsichtig und genießen Sie die neblige Aussicht.",
                 "hu": "A természeti terület körüli utak csúszósak és nedves levelekkel borítottak lehetnek; vezessen óvatosan a ködös kilátásban.",
                 "ro": "Drumurile din jur pot fi alunecoase și pline de frunze ude; conduceți cu grijă și bucurați-vă de priveliștile cețoase.",
-                "en": "The roads around this natural area can be slick and covered in wet leaves; drive carefully and enjoy the moody, misty views."
+                "en": "The roads around this natural area can be slick and covered in wet leaves; drive carefully and enjoy the moody, misty views.",
+                "fr": "Les routes autour de cet espace naturel peuvent être glissantes et couvertes de feuilles mouillées ; conduisez prudemment et profitez des vues brumeuses et mélancoliques."
               }
             },
             {
@@ -905,13 +1003,15 @@
                 "de": "Ruine",
                 "hu": "Romok",
                 "ro": "Ruine",
-                "en": "Ruins"
+                "en": "Ruins",
+                "fr": "Ruines"
               },
               "tip_5lang": {
                 "de": "Bringen Sie einen stabilen Regenschirm für den kurzen Fußweg vom Parkplatz zu den Ruinen mit, da es keinen Schutz gibt.",
                 "hu": "Vigyen magával erős esernyőt a parkolótól a romokig tartó rövid sétára, mivel a nyílt terepen nincs menedék.",
                 "ro": "Aduceți o umbrelă solidă pentru scurta plimbare de la parcare la ruine, deoarece terenul deschis nu oferă adăpost.",
-                "en": "Bring a sturdy umbrella for the short walk from the parking area to the ruins, as the exposed grounds offer no shelter."
+                "en": "Bring a sturdy umbrella for the short walk from the parking area to the ruins, as the exposed grounds offer no shelter.",
+                "fr": "Prenez un parapluie solide pour la courte marche du parking aux ruines, car le terrain exposé ne protège pas des intempéries."
               }
             },
             {
@@ -919,13 +1019,15 @@
                 "de": "Schneepflug-Wahrzeichen",
                 "hu": "Hókotró Emlékmű",
                 "ro": "Plug de Zăpadă",
-                "en": "Snowplow Landmark"
+                "en": "Snowplow Landmark",
+                "fr": "Monument du déneigeur"
               },
               "tip_5lang": {
                 "de": "Es passt gut, diesen Schneepflug aus dem warmen Auto zu betrachten, während es draußen regnet; ein perfekter letzter Fotostopp.",
                 "hu": "Nagyon találó a meleg autóból nézni ezt a hókotrót, miközben kint szakad az eső; tökéletes, könnyű utolsó fotómegálló.",
                 "ro": "Este foarte potrivit să vedeți acest plug din mașina caldă în timp ce afară plouă; o oprire foto finală perfectă și ușoară.",
-                "en": "Very fitting to view this snowplow from your warm car while the rain lashes down outside; a perfect, easy final photo stop."
+                "en": "Very fitting to view this snowplow from your warm car while the rain lashes down outside; a perfect, easy final photo stop.",
+                "fr": "Il est très agréable de voir ce déneigeur depuis votre voiture chauffée pendant que la pluie frappe dehors ; un parfait dernier arrêt photo facile."
               }
             }
           ]
@@ -935,7 +1037,8 @@
             "de": "Ihre Winterfahrt beginnt an der Kirche mit Sitzheizung. Der Mittag ist perfekt, um das warme Museum und die Kirche Saint-Paul zu erkunden. Die Nachmittagsfahrt zu Les Perrins ist schön, erfordert aber Vorsicht vor eisigen Stellen. Besuchen Sie die Ruinen und den Schneepflug vor dem Sonnenuntergang um 17:00 Uhr, wenn es schnell kalt wird.",
             "hu": "Téli autózása a templomnál kezdődik, miközben az ülésfűtés melegen tartja. A délidő tökéletes a fűtött múzeum és a Szent Pál templom felfedezésére. A délutáni vezetés a természeti látványosságok felé óvatosságot igényel a jeges foltok miatt. A romokat és a hókotrót az 17:00 órás naplemente előtt nézze meg, mielőtt a hőmérséklet lezuhan.",
             "ro": "Plimbarea de iarnă cu mașina începe la biserică, cu scaunele încălzite. Prânzul este perfect pentru a explora muzeul cald și biserica Saint-Paul. Condusul după-amiaza este frumos, dar necesită atenție la peticele de gheață. Vizitați Ruinele și Plugul de Zăpadă înainte de apusul de la 17:00, deoarece temperaturile scad rapid.",
-            "en": "Your winter drive begins at the church with heated seats keeping you cozy. Midday is perfect for exploring the warm museum and Saint-Paul church. Afternoon driving to Les Perrins and Le Pieu is beautiful but requires caution for icy road patches. Ensure you visit the Ruins and Snowplow Landmark before the 17:00 sunset, as temperatures plummet quickly."
+            "en": "Your winter drive begins at the church with heated seats keeping you cozy. Midday is perfect for exploring the warm museum and Saint-Paul church. Afternoon driving to Les Perrins and Le Pieu is beautiful but requires caution for icy road patches. Ensure you visit the Ruins and Snowplow Landmark before the 17:00 sunset, as temperatures plummet quickly.",
+            "fr": "Votre trajet hivernal commence à l'église avec les sièges chauffants pour vous garder au chaud. Midi est parfait pour explorer le musée chauffé et l'église Saint‑Paul. L'après‑midi vers Les Perrins et Le Pieu est beau mais demande de la prudence face aux plaques de verglas. Assurez‑vous de visiter les Ruines et le Monument du déneigeur avant le coucher du soleil à 17:00, car les températures chutent rapidement."
           },
           "stops": [
             {
@@ -943,13 +1046,15 @@
                 "de": "Kirche Saint-Jean-Baptiste",
                 "hu": "Keresztelő Szent János Templom",
                 "ro": "Biserica Saint-Jean-Baptiste",
-                "en": "Saint-Jean-Baptiste Church"
+                "en": "Saint-Jean-Baptiste Church",
+                "fr": "Église Saint‑Jean‑Baptiste"
               },
               "tip_5lang": {
                 "de": "Die Steinkirche ist im Winter drinnen bitterkalt; packen Sie sich gut ein, bevor Sie das geheizte Auto verlassen.",
                 "hu": "A kőtemplom belseje télen rendkívül hideg; öltözzön fel jól, mielőtt elhagyja a fűtött autót egy gyors látogatásra.",
                 "ro": "Biserica de piatră este foarte rece înăuntru iarna; îmbrăcați-vă bine înainte de a părăsi mașina încălzită pentru o scurtă vizită.",
-                "en": "The stone church is bitterly cold inside during winter; bundle up well before leaving your heated car for a quick visit."
+                "en": "The stone church is bitterly cold inside during winter; bundle up well before leaving your heated car for a quick visit.",
+                "fr": "L'église de pierre est glaciale à l'intérieur en hiver ; couvrez‑vous bien avant de quitter votre voiture chauffée pour une visite rapide."
               }
             },
             {
@@ -957,13 +1062,15 @@
                 "de": "Champollion-Museum",
                 "hu": "Champollion Múzeum",
                 "ro": "Muzeul Champollion",
-                "en": "Champollion Museum"
+                "en": "Champollion Museum",
+                "fr": "Musée Champollion"
               },
               "tip_5lang": {
                 "de": "Ein hervorragender Ort, um den dicken Wintermantel abzulegen; verbringen Sie hier viel Zeit in einem beheizten Gebäude.",
                 "hu": "Kiváló hely arra, hogy levethesse vastag télikabátját; töltsön el itt bőséges időt a fűtött épület kényelmében tanulva.",
                 "ro": "Un loc excelent pentru a da jos paltonul gros de iarnă; petreceți mult timp aici învățând în confortul unei clădiri încălzite.",
-                "en": "An excellent spot to shed your thick winter coat; spend generous time here learning in the comfort of a fully heated building."
+                "en": "An excellent spot to shed your thick winter coat; spend generous time here learning in the comfort of a fully heated building.",
+                "fr": "Un excellent endroit pour enlever votre manteau d'hiver lourd ; passez du temps à apprendre confortablement dans un bâtiment entièrement chauffé."
               }
             },
             {
@@ -971,13 +1078,15 @@
                 "de": "Kirche Saint-Paul",
                 "hu": "Szent Pál Templom",
                 "ro": "Biserica Saint-Paul",
-                "en": "Saint-Paul Church"
+                "en": "Saint-Paul Church",
+                "fr": "Église Saint‑Paul"
               },
               "tip_5lang": {
                 "de": "Ein schneller Stopp, um die Architektur zu bewundern; lassen Sie den Motor laufen, damit das Auto bei der Rückkehr warm ist.",
                 "hu": "Gyors megálló az építészet megcsodálására; hagyja járni a motort, hogy az autó teljesen meleg maradjon a visszatérésig.",
                 "ro": "O scurtă oprire pentru a admira arhitectura; lăsați motorul pornit pentru a vă asigura că mașina rămâne complet caldă la întoarcere.",
-                "en": "A swift stop to admire the architecture; leave the engine running to ensure the car stays completely warm for your return."
+                "en": "A swift stop to admire the architecture; leave the engine running to ensure the car stays completely warm for your return.",
+                "fr": "Un arrêt rapide pour admirer l'architecture ; laissez le moteur tourner pour que la voiture reste bien chaude à votre retour."
               }
             },
             {
@@ -985,13 +1094,15 @@
                 "de": "Les Perrins",
                 "hu": "Les Perrins",
                 "ro": "Les Perrins",
-                "en": "Les Perrins"
+                "en": "Les Perrins",
+                "fr": "Les Perrins"
               },
               "tip_5lang": {
                 "de": "Die historische Umgebung sieht mit etwas Schnee großartig aus; seien Sie auf dem Parkplatz extrem vorsichtig mit Glatteis.",
                 "hu": "A történelmi környezet pompásan fest egy kis hóréteggel; legyen rendkívül óvatos a parkolóban lévő tükörjég miatt.",
                 "ro": "Împrejurimile istorice arată magnific cu un strat fin de zăpadă; fiți extrem de atent la gheața neagră din zona de parcare.",
-                "en": "The historical surroundings look magnificent with a dusting of snow; be extremely careful of black ice in the parking area."
+                "en": "The historical surroundings look magnificent with a dusting of snow; be extremely careful of black ice in the parking area.",
+                "fr": "Les alentours historiques sont magnifiques avec une fine couche de neige ; soyez extrêmement vigilant vis‑à‑vis du verglas dans le parking."
               }
             },
             {
@@ -999,13 +1110,15 @@
                 "de": "Le Pieu",
                 "hu": "Le Pieu",
                 "ro": "Le Pieu",
-                "en": "Le Pieu"
+                "en": "Le Pieu",
+                "fr": "Le Pieu"
               },
               "tip_5lang": {
                 "de": "Stellen Sie sicher, dass Ihr Auto Winterreifen hat, bevor Sie diese malerischen, potenziell rutschigen Strecken befahren.",
                 "hu": "Győződjön meg róla, hogy autója téli gumival van felszerelve, mielőtt ezeken a festői, de csúszós hegyoldali utakon haladna.",
                 "ro": "Asigurați-vă că mașina este echipată cu anvelope de iarnă înainte de a naviga pe aceste rute pitorești și alunecoase.",
-                "en": "Ensure your car is equipped with winter tires before navigating these scenic, potentially slippery natural hillside routes."
+                "en": "Ensure your car is equipped with winter tires before navigating these scenic, potentially slippery natural hillside routes.",
+                "fr": "Assurez‑vous que votre véhicule est équipé de pneus hiver avant d'emprunter ces routes de colline naturelles, pittoresques mais potentiellement glissantes."
               }
             },
             {
@@ -1013,13 +1126,15 @@
                 "de": "Ruine",
                 "hu": "Romok",
                 "ro": "Ruine",
-                "en": "Ruins"
+                "en": "Ruins",
+                "fr": "Ruines"
               },
               "tip_5lang": {
                 "de": "Das winterliche Nachmittagslicht eignet sich hier für tolle Fotos, aber verweilen Sie nicht zu lange im eisigen Wind.",
                 "hu": "A délutáni téli fények lenyűgöző fotókat eredményeznek, de ne időzzön sokat, mert a dombon fagyos szél fúj.",
                 "ro": "Lumina de iarnă de după-amiază este ideală pentru fotografii aici, dar nu zăboviți prea mult din cauza vânturilor reci.",
-                "en": "The afternoon winter light makes for stunning photography here, but don't linger too long as the freezing winds whip across the hill."
+                "en": "The afternoon winter light makes for stunning photography here, but don't linger too long as the freezing winds whip across the hill.",
+                "fr": "La lumière hivernale de l'après‑midi offre de superbes photos ici, mais ne traînez pas trop car les vents glacés balaient la colline."
               }
             },
             {
@@ -1027,13 +1142,15 @@
                 "de": "Schneepflug-Wahrzeichen",
                 "hu": "Hókotró Emlékmű",
                 "ro": "Plug de Zăpadă",
-                "en": "Snowplow Landmark"
+                "en": "Snowplow Landmark",
+                "fr": "Monument du déneigeur"
               },
               "tip_5lang": {
                 "de": "Beenden Sie den Tag hier, bevor es gegen 17:00 Uhr dunkel wird; ein Schneepflug ist ein passendes Denkmal im Winter!",
                 "hu": "Fejezze be a napját itt a 17:00 órás teljes sötétedés előtt; a hatalmas hókotró tökéletes emlékmű egy téli autós túrához!",
                 "ro": "Încheiați-vă ziua aici înainte să se întunece complet în jur de 17:00; un plug de zăpadă este un monument potrivit iarna!",
-                "en": "End your day here before it gets completely dark around 17:00; a massive snowplow is a fitting monument for a winter road trip!"
+                "en": "End your day here before it gets completely dark around 17:00; a massive snowplow is a fitting monument for a winter road trip!",
+                "fr": "Terminez votre journée ici avant la tombée complète de la nuit vers 17:00 ; un énorme déneigeur est un monument approprié pour une escapade routière hivernale !"
               }
             }
           ]

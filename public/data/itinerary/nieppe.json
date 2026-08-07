@@ -21,7 +21,8 @@
             "de": "Saint-Martin Kirche",
             "hu": "Saint-Martin Templom",
             "ro": "Biserica Saint-Martin",
-            "en": "Saint-Martin Church"
+            "en": "Saint-Martin Church",
+            "fr": "Église Saint-Martin"
           },
           "coords": [
             2.83935,
@@ -36,7 +37,8 @@
             "de": "Bewundern Sie die Buntglasfenster dieser zentralen Pfarrkirche, ein spiritueller Leuchtturm, der nach Kriegszerstörungen wiederaufgebaut wurde, ideal am Morgen.",
             "hu": "Csodálja meg a központi plébániatemplom színes üvegablakait, amely a háború után újjáépülve a legjobb arcát a kora reggeli napfényben mutatja a látogatóknak.",
             "ro": "Admirați vitraliile frumoase ale acestei biserici parohiale, un far spiritual reconstruit după război, de preferat a fi vizitată în lumina dimineții.",
-            "en": "Admire the beautiful stained glass of this central parish church, a spiritual beacon rebuilt after wartime destruction, best visited in the morning light."
+            "en": "Admire the beautiful stained glass of this central parish church, a spiritual beacon rebuilt after wartime destruction, best visited in the morning light.",
+            "fr": "Admirez les magnifiques vitraux de cette église paroissiale centrale, un phare spirituel reconstruit après la guerre, à visiter de préférence le matin."
           }
         },
         {
@@ -44,7 +46,8 @@
             "de": "Schloss Nieppe",
             "hu": "Nieppe Kastély",
             "ro": "Castelul Nieppe",
-            "en": "Nieppe Castle"
+            "en": "Nieppe Castle",
+            "fr": "Château de Nieppe"
           },
           "coords": [
             2.839224,
@@ -59,7 +62,8 @@
             "de": "Erkunden Sie das historische Gelände des Schlosses Nieppe, das an die aristokratische Vergangenheit erinnert, und prüfen Sie vorab die lokalen Öffnungszeiten.",
             "hu": "Fedezze fel a nieppe-i kastély történelmi parkját, amely a város arisztokratikus múltját idézi, de előtte érdemes pontosan ellenőrizni a nyitvatartást.",
             "ro": "Explorați domeniul istoric al Castelului Nieppe, ce amintește de trecutul aristocratic al orașului, verificând în prealabil orarul de funcționare.",
-            "en": "Explore the historic grounds of Nieppe Castle, which serves as a poignant reminder of the town's aristocratic past, checking the local hall's opening hours."
+            "en": "Explore the historic grounds of Nieppe Castle, which serves as a poignant reminder of the town's aristocratic past, checking the local hall's opening hours.",
+            "fr": "Explorez les terrains historiques du château de Nieppe, qui témoignent de l’ancien prestige aristocratique de la ville ; vérifiez les horaires d’ouverture de la salle communale."
           }
         },
         {
@@ -67,7 +71,8 @@
             "de": "Notre-Dame de Grâce",
             "hu": "Notre-Dame de Grâce",
             "ro": "Notre-Dame de Grâce",
-            "en": "Notre-Dame de Grâce"
+            "en": "Notre-Dame de Grâce",
+            "fr": "Notre-Dame de Grâce"
           },
           "coords": [
             2.836303,
@@ -82,7 +87,8 @@
             "de": "Halten Sie an diesem charmanten Wegschrein, der Unserer Lieben Frau der Gnade gewidmet ist, und genießen Sie einen Moment der friedlichen Besinnung.",
             "hu": "Álljon meg egy pillanatra ennél a Kegyelmes Miasszonyunknak szentelt útmenti szentélynél, amely békés elmélkedésre csábít a főút közelében.",
             "ro": "Opriți-vă la acest altar fermecător dedicat Maicii Domnului a Harului, care oferă un moment de reflecție pașnică la doar câțiva pași de drum.",
-            "en": "Pause at this charming wayside shrine dedicated to Our Lady of Grace, offering a peaceful moment of reflection, easily accessible just off the main path."
+            "en": "Pause at this charming wayside shrine dedicated to Our Lady of Grace, offering a peaceful moment of reflection, easily accessible just off the main path.",
+            "fr": "Faites une pause à ce charmant oratoire dédié à Notre-Dame de Grâce, offrant un moment de recueillement accessible juste à côté du chemin principal."
           }
         },
         {
@@ -90,7 +96,8 @@
             "de": "Kirche Notre-Dame",
             "hu": "Notre-Dame Templom",
             "ro": "Biserica Notre-Dame",
-            "en": "Église Notre-Dame"
+            "en": "Église Notre-Dame",
+            "fr": "Église Notre-Dame"
           },
           "coords": [
             2.856565,
@@ -105,7 +112,8 @@
             "de": "Bewundern Sie die markante Architektur dieser zweiten Pfarrkirche, die der lokalen Gemeinde Halt gibt und ein ruhiger Stopp auf Ihrem Spaziergang ist.",
             "hu": "Csodálja meg a helyi közösséget összefogó templom különleges építészetét, amely békés megállót jelent a környékbeli séták során.",
             "ro": "Minunați-vă de arhitectura distinctă a acestei a doua biserici parohiale ce ancorează comunitatea, fiind o oprire senină în timpul plimbării.",
-            "en": "Marvel at the distinct architecture of this secondary parish church that anchors the local community, making it a serene stop during your neighborhood stroll."
+            "en": "Marvel at the distinct architecture of this secondary parish church that anchors the local community, making it a serene stop during your neighborhood stroll.",
+            "fr": "Émerveillez-vous devant l’architecture distinctive de cette église paroissiale secondaire qui ancre la communauté locale ; c’est une halte sereine lors de votre balade de quartier."
           }
         },
         {
@@ -113,7 +121,8 @@
             "de": "Erweiterung des Friedhofs von Nieppe",
             "hu": "Nieppe Községi Temető Bővítése",
             "ro": "Extensia Cimitirului Comunal Nieppe",
-            "en": "Nieppe Communal Cemetery Extension"
+            "en": "Nieppe Communal Cemetery Extension",
+            "fr": "Extension du cimetière communal de Nieppe"
           },
           "coords": [
             2.855779,
@@ -128,7 +137,8 @@
             "de": "Erweisen Sie an dieser gepflegten Erweiterung der Commonwealth-Kriegsgräber Ihren Respekt, einem Ort, der ein ruhiges Verhalten voraussetzt.",
             "hu": "Fejezze ki tiszteletét ezen a gondosan karbantartott nemzetközösségi háborús temetőben, ahol a csendes és tiszteletteljes viselkedés alapvető.",
             "ro": "Aduceți un omagiu la această extensie a cimitirului de război al Commonwealth-ului, un loc istoric unde un comportament respectuos este esențial.",
-            "en": "Pay your respects at this meticulously maintained Commonwealth War Graves extension, a sobering historical site where a quiet, respectful demeanor is essential."
+            "en": "Pay your respects at this meticulously maintained Commonwealth War Graves extension, a sobering historical site where a quiet, respectful demeanor is essential.",
+            "fr": "Rendez hommage dans cette extension du cimetière des Commonwealth War Graves, soigneusement entretenue ; c’est un lieu historique solennel où le respect et le silence sont essentiels."
           }
         }
       ],
@@ -136,7 +146,8 @@
         "de": "Der Morgen beginnt im Herzen von Nieppe mit der Erkundung der Pfarrkirche und des historischen Schlosses. Gegen Mittag machen Sie sich auf den Weg zu einem charmanten Wegschrein. Der Nachmittag wird besinnlich, wenn Sie in den südlichen Teil der Stadt schlendern und die zweite Kirche besuchen. Der Abend bricht ruhig am Militärfriedhof herein und bietet Zeit für tiefgründige Reflexionen.",
         "hu": "A reggel Nieppe szívében indul, a plébániatemplom és a történelmi kastély felfedezésével. Délben észak felé veszi az irányt egy bájos útmenti szentélyhez. A délután elmélyültebb, ahogy a város déli részén lévő második templomhoz sétál. Az este csendesen ereszkedik le a katonai temetőnél, teret engedve a régió történelmén való mélyebb gondolkodásnak.",
         "ro": "Dimineața începe în inima orașului Nieppe, explorând biserica parohială și domeniul castelului istoric. La prânz, vă veți îndrepta spre un altar fermecător. După-amiaza ia o turnură reflectivă pe măsură ce vă plimbați prin partea de sud, vizitând a doua biserică. Seara coboară liniștit lângă cimitirul militar, oferind timp pentru reflecție asupra istoriei regiunii.",
-        "en": "Morning begins in the heart of Nieppe, exploring the main parish church and the historic castle grounds. By midday, you'll head north towards a charming wayside shrine. The afternoon takes a reflective turn as you wander towards the southern part of town, visiting the secondary parish church. Evening falls quietly by the military cemetery, offering time for deep reflection on the region's history."
+        "en": "Morning begins in the heart of Nieppe, exploring the main parish church and the historic castle grounds. By midday, you'll head north towards a charming wayside shrine. The afternoon takes a reflective turn as you wander towards the southern part of town, visiting the secondary parish church. Evening falls quietly by the military cemetery, offering time for deep reflection on the region's history.",
+        "fr": "La matinée commence au cœur de Nieppe, par la découverte de l’église paroissiale principale et des terrains du château. À midi, vous vous dirigez vers le nord vers un charmant oratoire. L’après-midi prend une tonalité réfléchie en vous promenant vers le sud de la ville pour visiter l’église paroissiale secondaire. La soirée tombe paisiblement près du cimetière militaire, offrant un temps de réflexion sur l’histoire de la région."
       },
       "variants": {
         "rainy": {
@@ -144,7 +155,8 @@
             "de": "Beginnen Sie Ihren regnerischen Spaziergang bei Saint-Martin und dem Schloss mit einem Regenschirm. Mittags besuchen Sie die Kapellen und die Kirche Notre-Dame; wasserfeste Schuhe sind Pflicht. Nachmittags am Friedhof auf nassem Gras aufpassen. Abends drinnen aufwärmen.",
             "hu": "Kezdje az esős sétát a Saint-Martin templomnál és a kastélynál, legyen kéznél esernyő. Délben fedezze fel a kápolnákat és a Notre-Dame templomot, vízálló cipő ajánlott. Délután a temetőbővítésnél óvatosan lépkedjen a vizes füvön. Este melegedjen fel egy belső térben.",
             "ro": "Începeți plimbarea ploioasă la Saint-Martin și Castel cu o umbrelă. La prânz, vizitați capelele și Biserica Notre-Dame, cu încălțăminte impermeabilă pe străzile ude. După-amiaza la cimitir necesită atenție pe iarba umedă. Seara încălziți-vă în interior.",
-            "en": "Start your rainy walk at Saint-Martin and the Castle with a sturdy umbrella. Midday, visit the chapels and Église Notre-Dame, ensuring your shoes are waterproof for the wet streets. End the afternoon at the cemetery extension, where the wet grounds require extra care. Evening calls for a hot drink indoors."
+            "en": "Start your rainy walk at Saint-Martin and the Castle with a sturdy umbrella. Midday, visit the chapels and Église Notre-Dame, ensuring your shoes are waterproof for the wet streets. End the afternoon at the cemetery extension, where the wet grounds require extra care. Evening calls for a hot drink indoors.",
+            "fr": "Commencez votre promenade pluvieuse à Saint-Martin et au château avec un parapluie solide. À midi, visitez les chapelles et l’Église Notre-Dame en vous assurant que vos chaussures sont imperméables pour les rues mouillées. Terminez l’après-midi à l’extension du cimetière, où le sol humide demande plus de prudence. Le soir, réchauffez-vous avec une boisson chaude à l’intérieur."
           },
           "stops": [
             {
@@ -152,13 +164,15 @@
                 "de": "Saint-Martin Kirche",
                 "hu": "Saint-Martin Templom",
                 "ro": "Biserica Saint-Martin",
-                "en": "Saint-Martin Church"
+                "en": "Saint-Martin Church",
+                "fr": "Église Saint-Martin"
               },
               "tip_5lang": {
                 "de": "Bewundern Sie die herrlichen Buntglasfenster der Kirche im Trockenen und stellen Sie Ihren nassen Regenschirm am Eingang ab, um den historischen Boden zu schonen.",
                 "hu": "Csodálja meg a templom lenyűgöző üvegablakait teljesen szárazon, de a biztonság érdekében hagyja a csöpögő esernyőt a bejáratnál kialakított tárolóban.",
                 "ro": "Admirați superbele vitralii ale bisericii stând perfect la adăpost, dar asigurați-vă că lăsați umbrela udă la intrare pentru a păstra podelele sigure și uscate.",
-                "en": "Admire the church's gorgeous stained glass while staying perfectly dry inside, but remember to leave your dripping umbrella at the entrance to keep floors safe."
+                "en": "Admire the church's gorgeous stained glass while staying perfectly dry inside, but remember to leave your dripping umbrella at the entrance to keep floors safe.",
+                "fr": "Admirez les superbes vitraux de l’église tout en restant parfaitement sec à l’intérieur, mais pensez à laisser votre parapluie dégoulinant à l’entrée pour préserver les sols."
               }
             },
             {
@@ -166,13 +180,15 @@
                 "de": "Schloss Nieppe",
                 "hu": "Nieppe Kastély",
                 "ro": "Castelul Nieppe",
-                "en": "Nieppe Castle"
+                "en": "Nieppe Castle",
+                "fr": "Château de Nieppe"
               },
               "tip_5lang": {
                 "de": "Erkunden Sie die faszinierenden Innenräume des Schlosses als perfekten Regenschutz; Vorsicht jedoch im umliegenden Park, da die Wege recht schlammig werden.",
                 "hu": "Fedezze fel a kastély lenyűgöző belső termeit kiváló esővédőként; kint azonban vigyázzon, mert a környező park romantikus ösvényei ilyenkor nagyon sárosak.",
                 "ro": "Explorați interioarele fascinante ale castelului ca adăpost perfect împotriva ploii; fiți atenți afară, deoarece aleile parcului pot deveni destul de noroioase.",
-                "en": "Explore the fascinating indoor halls of the castle as a perfect rain shelter; just be careful outside as the surrounding park paths may become quite muddy."
+                "en": "Explore the fascinating indoor halls of the castle as a perfect rain shelter; just be careful outside as the surrounding park paths may become quite muddy.",
+                "fr": "Explorez les halls intérieurs fascinants du château comme abri idéal contre la pluie ; soyez simplement prudent à l’extérieur car les allées du parc peuvent devenir très boueuses."
               }
             },
             {
@@ -180,13 +196,15 @@
                 "de": "Notre-Dame de Grâce",
                 "hu": "Notre-Dame de Grâce",
                 "ro": "Notre-Dame de Grâce",
-                "en": "Notre-Dame de Grâce"
+                "en": "Notre-Dame de Grâce",
+                "fr": "Notre-Dame de Grâce"
               },
               "tip_5lang": {
                 "de": "Diese historische kleine Kapelle an der Straße bietet einen kurzen, aber extrem willkommenen trockenen Unterschlupf bei einem plötzlichen, heftigen Regenschauer.",
                 "hu": "Ez a hangulatos, történelmi útszéli kápolna rövid, de hihetetlenül hasznos menedéket nyújt, ha egy hirtelen jött, intenzív zápor közepén találja magát gyalog.",
                 "ro": "Această capelă istorică pitorească oferă un adăpost uscat scurt, dar incredibil de util, dacă sunteți surprins afară în timpul unei averse bruște și intense.",
-                "en": "This quaint, historic roadside chapel offers a brief but incredibly welcome dry shelter if you are caught out during a sudden, intense winter or autumn downpour."
+                "en": "This quaint, historic roadside chapel offers a brief but incredibly welcome dry shelter if you are caught out during a sudden, intense winter or autumn downpour.",
+                "fr": "Cette petite chapelle routière historique offre un abri bref mais très apprécié si vous êtes pris par une averse intense en automne ou en hiver."
               }
             },
             {
@@ -194,13 +212,15 @@
                 "de": "Kirche Notre-Dame",
                 "hu": "Notre-Dame Templom",
                 "ro": "Biserica Notre-Dame",
-                "en": "Église Notre-Dame"
+                "en": "Église Notre-Dame",
+                "fr": "Église Notre-Dame"
               },
               "tip_5lang": {
                 "de": "Die beeindruckende Ziegelarchitektur wirkt im Regen dramatisch dunkler; treten Sie ein und genießen Sie die ruhige, trockene Atmosphäre fernab des Sturms.",
                 "hu": "A lenyűgöző téglaépítészet drámaian sötétebbnek hat az esőben; lépjen be, hogy élvezze a csendes, száraz atmoszférát, teljesen védve a kinti heves vihartól.",
                 "ro": "Impresionanta arhitectură din cărămidă pare dramatic mai închisă în ploaie; intrați pentru a vă bucura de atmosfera liniștită, complet protejați de furtună.",
-                "en": "The impressive brick architecture looks dramatically darker in the rain; step inside to enjoy the quiet, dry atmosphere completely sheltered from the fierce storm."
+                "en": "The impressive brick architecture looks dramatically darker in the rain; step inside to enjoy the quiet, dry atmosphere completely sheltered from the fierce storm.",
+                "fr": "L’impressionnante architecture en brique paraît dramatiquement plus sombre sous la pluie ; entrez pour profiter du calme et de la sécheresse, complètement à l’abri de la tempête."
               }
             },
             {
@@ -208,13 +228,15 @@
                 "de": "Erweiterung des Friedhofs von Nieppe",
                 "hu": "Nieppe Községi Temető Bővítése",
                 "ro": "Extensia Cimitirului Comunal Nieppe",
-                "en": "Nieppe Communal Cemetery Extension"
+                "en": "Nieppe Communal Cemetery Extension",
+                "fr": "Extension du cimetière communal de Nieppe"
               },
               "tip_5lang": {
                 "de": "Reflektieren Sie friedlich an den historischen Gräbern, aber bleiben Sie unbedingt auf den gepflasterten Wegen, um auf dem nassen und schlammigen Gras nicht auszurutschen.",
                 "hu": "Emlékezzen békésen a történelmi síroknál, de mindenképpen maradjon a kövezett utakon, nehogy veszélyesen elcsússzon a rendkívül nedves és sáros, csúszós füvön.",
                 "ro": "Reflectați în pace la mormintele istorice, dar asigurați-vă că rămâneți pe cărările pavate pentru a evita alunecarea periculoasă pe iarba extrem de udă și noroioasă.",
-                "en": "Reflect peacefully at the historic gravesides, but ensure you strictly stick to the paved paths to avoid dangerously slipping on the extremely wet, muddy grass."
+                "en": "Reflect peacefully at the historic gravesides, but ensure you strictly stick to the paved paths to avoid dangerously slipping on the extremely wet, muddy grass.",
+                "fr": "Recueillez-vous paisiblement près des tombes historiques, mais tenez-vous strictement aux chemins pavés pour éviter de glisser dangereusement sur l’herbe très humide et boueuse."
               }
             }
           ]
@@ -224,7 +246,8 @@
             "de": "Ein klarer Winterspaziergang beginnt bei Saint-Martin und dem Schloss; ziehen Sie sich warm an. Mittags trotzen Sie der Kälte bei den Kapellen und der Kirche Notre-Dame. Nachmittags am Friedhof die frühe Dämmerung gegen 17 Uhr beachten. Abends drinnen entspannen.",
             "hu": "A fagyos téli séta a Saint-Martin templomnál és a kastélynál indul, öltözzön rétegesen. Délben dacoljon a hideggel a kápolnáknál és a Notre-Dame templomnál. Délután a temetőnél már a korai sötétedés várja 17 óra körül. Este pihenjen le egy fűtött helyen.",
             "ro": "O plimbare de iarnă începe la Saint-Martin și Castel, deci îmbrăcați-vă gros. La prânz, înfruntați frigul la capele și Biserica Notre-Dame. După-amiaza la cimitir se apropie de amurgul timpuriu din jurul orei 17. Seara relaxați-vă la căldură.",
-            "en": "A crisp winter walk begins at Saint-Martin and the Castle, so dress in warm layers. Midday, brave the cold to see the chapels and Église Notre-Dame, keeping your scarf tight. End the afternoon at the cemetery extension as the early dusk approaches around 5 PM. Relax indoors as the dark winter evening sets in."
+            "en": "A crisp winter walk begins at Saint-Martin and the Castle, so dress in warm layers. Midday, brave the cold to see the chapels and Église Notre-Dame, keeping your scarf tight. End the afternoon at the cemetery extension as the early dusk approaches around 5 PM. Relax indoors as the dark winter evening sets in.",
+            "fr": "Une promenade hivernale vive commence à Saint-Martin et au château, habillez-vous en couches chaudes. À midi, bravez le froid pour voir les chapelles et l’Église Notre-Dame en serrant bien votre écharpe. Terminez l’après-midi à l’extension du cimetière alors que le crépuscule arrive autour de 17h. Détendez-vous à l’intérieur quand la nuit hivernale tombe."
           },
           "stops": [
             {
@@ -232,13 +255,15 @@
                 "de": "Saint-Martin Kirche",
                 "hu": "Saint-Martin Templom",
                 "ro": "Biserica Saint-Martin",
-                "en": "Saint-Martin Church"
+                "en": "Saint-Martin Church",
+                "fr": "Église Saint-Martin"
               },
               "tip_5lang": {
                 "de": "Der atemberaubende historische Altar ist sehenswert, aber das Kircheninnere bleibt kühl; behalten Sie Ihren dicken Wintermantel an, um angenehm warm zu bleiben.",
                 "hu": "A lenyűgöző történelmi oltárt mindenképpen érdemes megnézni, de a templom belseje hűvös marad, így tartsa magán a vastag téli kabátját a kényelmes melegért.",
                 "ro": "Uimitorul altar istoric merită cu siguranță văzut, dar interiorul bisericii rămâne răcoros, deci păstrați-vă haina groasă de iarnă pentru a vă menține la căldură.",
-                "en": "The stunning historical altar is definitely worth seeing, but the church interior remains chilly, so keep your heavy winter coat on to stay comfortably warm."
+                "en": "The stunning historical altar is definitely worth seeing, but the church interior remains chilly, so keep your heavy winter coat on to stay comfortably warm.",
+                "fr": "Le superbe autel historique vaut vraiment la visite, mais l’intérieur de l’église reste frais ; gardez votre manteau d’hiver épais pour rester confortable."
               }
             },
             {
@@ -246,13 +271,15 @@
                 "de": "Schloss Nieppe",
                 "hu": "Nieppe Kastély",
                 "ro": "Castelul Nieppe",
-                "en": "Nieppe Castle"
+                "en": "Nieppe Castle",
+                "fr": "Château de Nieppe"
               },
               "tip_5lang": {
                 "de": "Die majestätischen, kahlen Winterbäume bieten freie Sicht auf die Schlossfassade; ziehen Sie sich für den wunderschönen, aber eisigen Parkspaziergang sehr warm an.",
                 "hu": "A fenséges, de csupasz téli fák teljesen szabad kilátást nyújtanak a kastély homlokzatára; öltözzön nagyon melegen a gyönyörű, de fagyos és szeles parki sétához.",
                 "ro": "Copacii de iarnă maiestuoși, dar goi, oferă o vedere clară asupra fațadei castelului; asigurați-vă că vă îmbrăcați foarte gros pentru plimbarea frumoasă, dar înghețată.",
-                "en": "The majestic but bare winter trees offer a completely clear view of the castle facade; be sure to dress very warmly for the beautiful yet freezing park stroll."
+                "en": "The majestic but bare winter trees offer a completely clear view of the castle facade; be sure to dress very warmly for the beautiful yet freezing park stroll.",
+                "fr": "Les arbres hivernaux, majestueux mais dénudés, offrent une vue totalement dégagée sur la façade du château ; habillez-vous très chaudement pour cette belle mais glaciale promenade dans le parc."
               }
             },
             {
@@ -260,13 +287,15 @@
                 "de": "Notre-Dame de Grâce",
                 "hu": "Notre-Dame de Grâce",
                 "ro": "Notre-Dame de Grâce",
-                "en": "Notre-Dame de Grâce"
+                "en": "Notre-Dame de Grâce",
+                "fr": "Notre-Dame de Grâce"
               },
               "tip_5lang": {
                 "de": "Machen Sie eine Pause an dieser kleinen, historischen Kapelle; der frostige Winterwind kann hier extrem beißend sein, also wickeln Sie Ihren Schal eng um sich.",
                 "hu": "Tartson egy elmélyült szünetet ennél a pici, történelmi kápolnánál; a fagyos téli szél rendkívül csípős lehet ezen a nyílt útszakaszon, így húzza szorosra a sálját.",
                 "ro": "Faceți o pauză la această mică capelă istorică; vântul înghețat de iarnă poate fi extrem de tăios pe acest drum deschis, așa că înfășurați-vă strâns cu fularul.",
-                "en": "Take a thoughtful pause at this tiny, historic chapel; the frosty winter wind can be extremely biting along this open, exposed road, so wrap your scarf tightly."
+                "en": "Take a thoughtful pause at this tiny, historic chapel; the frosty winter wind can be extremely biting along this open, exposed road, so wrap your scarf tightly.",
+                "fr": "Faites une pause réfléchie dans cette petite chapelle historique ; le vent hivernal glacé est très mordant le long de cette route exposée, alors resserrez bien votre écharpe."
               }
             },
             {
@@ -274,13 +303,15 @@
                 "de": "Kirche Notre-Dame",
                 "hu": "Notre-Dame Templom",
                 "ro": "Biserica Notre-Dame",
-                "en": "Église Notre-Dame"
+                "en": "Église Notre-Dame",
+                "fr": "Église Notre-Dame"
               },
               "tip_5lang": {
                 "de": "Wärmen Sie sich in dieser wunderschönen historischen Kirche etwas auf; das klare, tief stehende Winterlicht, das magisch durch die Fenster fällt, ist atemberaubend.",
                 "hu": "Melegedjen fel kissé ebben a mélyen történelmi és gyönyörű templomban; a magas ablakokon varázslatosan átszűrődő éles, alacsony szögű téli fény igazán lenyűgöző.",
                 "ro": "Încălziți-vă puțin în această biserică istorică profundă și frumoasă; lumina clară de iarnă cu unghi redus, care filtrează magic prin ferestre, este uluitoare.",
-                "en": "Warm up slightly inside this deeply historic and beautiful church; the crisp, low-angled winter light filtering magically through the tall windows is truly stunning."
+                "en": "Warm up slightly inside this deeply historic and beautiful church; the crisp, low-angled winter light filtering magically through the tall windows is truly stunning.",
+                "fr": "Réchauffez-vous un peu à l’intérieur de cette église profondément historique et belle ; la lumière hivernale basse et nette filtrant par les grandes fenêtres est vraiment remarquable."
               }
             },
             {
@@ -288,13 +319,15 @@
                 "de": "Erweiterung des Friedhofs von Nieppe",
                 "hu": "Nieppe Községi Temető Bővítése",
                 "ro": "Extensia Cimitirului Comunal Nieppe",
-                "en": "Nieppe Communal Cemetery Extension"
+                "en": "Nieppe Communal Cemetery Extension",
+                "fr": "Extension du cimetière communal de Nieppe"
               },
               "tip_5lang": {
                 "de": "Erweisen Sie an den Kriegsgräbern die Ehre, wenn die frühe Winterdämmerung gegen 17 Uhr hereinbricht; packen Sie sich dick gegen die offene Kälte der Felder ein.",
                 "hu": "Rója le tiszteletét a katonasíroknál, ahogy a korai téli szürkület 17 óra körül leszáll; öltözzön be alaposan a sík mezők felől érkező metsző, nyílt hideg ellen.",
                 "ro": "Aduceți un omagiu la mormintele de război când amurgul de iarnă cade în jurul orei 17; înfofoliți-vă bine împotriva frigului sever deschis de pe câmpurile plate.",
-                "en": "Pay your respects at the war graves as the early winter dusk falls around 5 PM; bundle up thoroughly against the severe open cold coming directly from the flat fields."
+                "en": "Pay your respects at the war graves as the early winter dusk falls around 5 PM; bundle up thoroughly against the severe open cold coming directly from the flat fields.",
+                "fr": "Rendez hommage aux tombes de guerre alors que le crépuscule hivernal tombe vers 17h ; emmitouflez-vous bien contre le froid vif venant directement des champs plats."
               }
             }
           ]
@@ -314,7 +347,8 @@
             "de": "Saint-Martin Kirche",
             "hu": "Saint-Martin Templom",
             "ro": "Biserica Saint-Martin",
-            "en": "Saint-Martin Church"
+            "en": "Saint-Martin Church",
+            "fr": "Église Saint-Martin"
           },
           "coords": [
             2.83935,
@@ -329,7 +363,8 @@
             "de": "Bewundern Sie die Buntglasfenster dieser zentralen Pfarrkirche, ein spiritueller Leuchtturm, der nach Kriegszerstörungen wiederaufgebaut wurde, ideal am Morgen.",
             "hu": "Csodálja meg a központi plébániatemplom színes üvegablakait, amely a háború után újjáépülve a legjobb arcát a kora reggeli napfényben mutatja a látogatóknak.",
             "ro": "Admirați vitraliile frumoase ale acestei biserici parohiale, un far spiritual reconstruit după război, de preferat a fi vizitată în lumina dimineții.",
-            "en": "Admire the beautiful stained glass of this central parish church, a spiritual beacon rebuilt after wartime destruction, best visited in the morning light."
+            "en": "Admire the beautiful stained glass of this central parish church, a spiritual beacon rebuilt after wartime destruction, best visited in the morning light.",
+            "fr": "Admirez les magnifiques vitraux de cette église paroissiale centrale, un phare spirituel reconstruit après la guerre, à visiter de préférence le matin."
           }
         },
         {
@@ -337,7 +372,8 @@
             "de": "Schloss Nieppe",
             "hu": "Nieppe Kastély",
             "ro": "Castelul Nieppe",
-            "en": "Nieppe Castle"
+            "en": "Nieppe Castle",
+            "fr": "Château de Nieppe"
           },
           "coords": [
             2.839224,
@@ -352,7 +388,8 @@
             "de": "Erkunden Sie das historische Gelände des Schlosses Nieppe, das an die aristokratische Vergangenheit erinnert, und prüfen Sie vorab die lokalen Öffnungszeiten.",
             "hu": "Fedezze fel a nieppe-i kastély történelmi parkját, amely a város arisztokratikus múltját idézi, de előtte érdemes pontosan ellenőrizni a nyitvatartást.",
             "ro": "Explorați domeniul istoric al Castelului Nieppe, ce amintește de trecutul aristocratic al orașului, verificând în prealabil orarul de funcționare.",
-            "en": "Explore the historic grounds of Nieppe Castle, which serves as a poignant reminder of the town's aristocratic past, checking the local hall's opening hours."
+            "en": "Explore the historic grounds of Nieppe Castle, which serves as a poignant reminder of the town's aristocratic past, checking the local hall's opening hours.",
+            "fr": "Explorez les terrains historiques du château de Nieppe, qui témoignent de l’ancien prestige aristocratique de la ville ; vérifiez les horaires d’ouverture de la salle communale."
           }
         },
         {
@@ -360,7 +397,8 @@
             "de": "Notre-Dame de Grâce",
             "hu": "Notre-Dame de Grâce",
             "ro": "Notre-Dame de Grâce",
-            "en": "Notre-Dame de Grâce"
+            "en": "Notre-Dame de Grâce",
+            "fr": "Notre-Dame de Grâce"
           },
           "coords": [
             2.836303,
@@ -375,7 +413,8 @@
             "de": "Halten Sie an diesem charmanten Wegschrein, der Unserer Lieben Frau der Gnade gewidmet ist, und genießen Sie einen Moment der friedlichen Besinnung.",
             "hu": "Álljon meg egy pillanatra ennél a Kegyelmes Miasszonyunknak szentelt útmenti szentélynél, amely békés elmélkedésre csábít a főút közelében.",
             "ro": "Opriți-vă la acest altar fermecător dedicat Maicii Domnului a Harului, care oferă un moment de reflecție pașnică la doar câțiva pași de drum.",
-            "en": "Pause at this charming wayside shrine dedicated to Our Lady of Grace, offering a peaceful moment of reflection, easily accessible just off the main path."
+            "en": "Pause at this charming wayside shrine dedicated to Our Lady of Grace, offering a peaceful moment of reflection, easily accessible just off the main path.",
+            "fr": "Faites une pause à ce charmant oratoire dédié à Notre-Dame de Grâce, offrant un moment de recueillement accessible juste à côté du chemin principal."
           }
         },
         {
@@ -383,7 +422,8 @@
             "de": "Militärfriedhof Pont d'Achelles",
             "hu": "Pont d'Achelles Katonai Temető",
             "ro": "Cimitirul Militar Pont d'Achelles",
-            "en": "Pont d'Achelles Military Cemetery"
+            "en": "Pont d'Achelles Military Cemetery",
+            "fr": "Cimetière militaire de Pont d’Achelles"
           },
           "coords": [
             2.819175,
@@ -398,7 +438,8 @@
             "de": "Besuchen Sie diesen ergreifenden Militärfriedhof aus dem Ersten Weltkrieg, um über die Verluste der Region nachzudenken, und bringen Sie einen Schirm mit.",
             "hu": "Látogasson el erre a megrendítő első világháborús katonai temetőbe, és ne felejtsen el esernyőt vinni, mivel a területen kevés a menedék.",
             "ro": "Vizitați acest cimitir militar emoționant din Primul Război Mondial pentru a reflecta asupra istoriei, aducând o umbrelă din cauza lipsei adăposturilor.",
-            "en": "Visit this poignant First World War military cemetery to reflect on the region's heavy toll, bringing an umbrella as there is very little shelter available."
+            "en": "Visit this poignant First World War military cemetery to reflect on the region's heavy toll, bringing an umbrella as there is very little shelter available.",
+            "fr": "Visitez ce poignant cimetière militaire de la Première Guerre mondiale pour réfléchir au lourd tribut de la région ; prenez un parapluie car il y a très peu d’abris."
           }
         },
         {
@@ -406,7 +447,8 @@
             "de": "Notre-Dame du Rosaire",
             "hu": "Notre-Dame du Rosaire",
             "ro": "Notre-Dame du Rosaire",
-            "en": "Notre-Dame du Rosaire"
+            "en": "Notre-Dame du Rosaire",
+            "fr": "Notre-Dame du Rosaire"
           },
           "coords": [
             2.821885,
@@ -421,7 +463,8 @@
             "de": "Betrachten Sie die feinen Details dieses kleinen, der Rosenkranzkönigin gewidmeten Wahrzeichens, ideal für ein schnelles Foto auf dem Weg nach Westen.",
             "hu": "Figyelje meg a Rózsafüzér Királynőjének szentelt apró helyi nevezetesség finom részleteit, amely tökéletes egy gyors fotóhoz nyugat felé tartva.",
             "ro": "Observați detaliile delicate ale acestui mic reper de cartier dedicat Fecioarei Rozariului, perfect pentru o fotografie rapidă pe drumul spre vest.",
-            "en": "Observe the delicate details of this small neighborhood landmark dedicated to Our Lady of the Rosary, perfect for a quick photo as you travel westward."
+            "en": "Observe the delicate details of this small neighborhood landmark dedicated to Our Lady of the Rosary, perfect for a quick photo as you travel westward.",
+            "fr": "Observez les détails délicats de ce petit repère de quartier dédié à Notre-Dame du Rosaire, parfait pour une photo rapide en vous dirigeant vers l’ouest."
           }
         },
         {
@@ -429,7 +472,8 @@
             "de": "Ferme des Orgues",
             "hu": "Ferme des Orgues Múzeum",
             "ro": "Ferme des Orgues",
-            "en": "Ferme des Orgues - Musée de la musique mécanique"
+            "en": "Ferme des Orgues - Musée de la musique mécanique",
+            "fr": "Ferme des Orgues - Musée de la musique mécanique"
           },
           "coords": [
             2.805898,
@@ -444,7 +488,8 @@
             "de": "Erleben Sie die skurrile Welt der mechanischen Musik in diesem einzigartigen Bauernhof-Museum und kommen Sie rechtzeitig zu einer geführten Vorführung.",
             "hu": "Tapasztalja meg a gépzene varázslatos világát ebben az egyedülálló múzeumfarmon, és érkezzen időben az egyik lenyűgöző tárlatvezetésre.",
             "ro": "Experimentați lumea fantezistă a muzicii mecanice la această fermă-muzeu unică, asigurându-vă că ajungeți la timp pentru o demonstrație ghidată.",
-            "en": "Experience the whimsical world of mechanical music at this unique museum farm, ensuring you arrive in time for one of their captivating guided demonstrations."
+            "en": "Experience the whimsical world of mechanical music at this unique museum farm, ensuring you arrive in time for one of their captivating guided demonstrations.",
+            "fr": "Découvrez l’univers fantaisiste de la musique mécanique dans ce musée-ferme unique ; arrivez à l’heure pour l’une de leurs démonstrations guidées captivantes."
           }
         }
       ],
@@ -452,7 +497,8 @@
         "de": "Beginnen Sie Ihre Fahrt an der Kirche und dem Schloss, bevor Sie in Richtung Norden radeln. Mittags passieren Sie kleine Schreine und einen Weltkriegsfriedhof. Der Nachmittag ist geprägt von den lebhaften Melodien des Museums für mechanische Musik am Stadtrand. Beenden Sie Ihr Radabenteuer am Abend und blicken Sie auf eine perfekte Mischung aus Geschichte und Kultur zurück.",
         "hu": "Kezdje a túrát a központi templomnál és a kastélynál, mielőtt észak felé pedálozna. A délidő kis szentélyek és egy első világháborús temető érintésével telik. A délutánt a külvárosi gépzenei múzeum vidám dallamai töltik ki. Zárja a kerékpáros kalandot az este közeledtével, visszagondolva a történelmet és a helyi kultúrát tökéletesen ötvöző napra.",
         "ro": "Începeți plimbarea la biserica centrală și la castel, înainte de a pedala spre nord. Prânzul vă aduce pe lângă mici altare și un cimitir din Primul Război Mondial. După-amiaza este plină de melodiile vesele ale muzeului de muzică mecanică. Încheiați-vă aventura ciclistă pe măsură ce se apropie seara, reflectând la o zi care a echilibrat istoria cu o cultură locală inedită.",
-        "en": "Start your ride at the central church and castle before pedaling north into the open air. Midday brings you past small shrines to a solemn World War I cemetery. The afternoon is filled with the lively tunes of the mechanical music museum on the outskirts. Conclude your cycling adventure as evening approaches, reflecting on a day that perfectly balanced profound history with quirky local culture."
+        "en": "Start your ride at the central church and castle before pedaling north into the open air. Midday brings you past small shrines to a solemn World War I cemetery. The afternoon is filled with the lively tunes of the mechanical music museum on the outskirts. Conclude your cycling adventure as evening approaches, reflecting on a day that perfectly balanced profound history with quirky local culture.",
+        "fr": "Commencez votre balade à vélo à l’église centrale et au château avant de pédaler vers le nord à l’air libre. À midi, passez devant de petits oratoires jusqu’à un cimetière de la Première Guerre mondiale. L’après-midi est animé par les airs entraînants du musée de la musique mécanique en périphérie. Concluez votre aventure cycliste en soirée en réfléchissant à cette journée qui a équilibré histoire profonde et culture locale insolite."
       },
       "variants": {
         "rainy": {
@@ -460,7 +506,8 @@
             "de": "Radeln Sie im Regen zu Saint-Martin und dem Schloss in gut sichtbarer, wasserdichter Kleidung. Mittags zum Pont d'Achelles auf rutschigen nassen Straßen vorsichtig sein. Nachmittags bietet die Ferme des Orgues eine tolle Flucht nach drinnen. Sicherer Abend.",
             "hu": "Induljon kerékpárral esőben a Saint-Martinhoz és a kastélyhoz, viseljen feltűnő vízálló ruhát. Délben a Pont d'Achelles felé óvatosan tekerjen a csúszós utakon. Délután a Ferme des Orgues remek beltéri menedék a zivatar elől. Biztonságos estét.",
             "ro": "Începeți cu bicicleta spre Saint-Martin și Castel în ploaie, purtând echipament impermeabil vizibil. La prânz spre Pont d'Achelles mergeți cu grijă pe drumurile alunecoase. După-amiaza Ferme des Orgues este un refugiu perfect. O seară sigură.",
-            "en": "Start biking to Saint-Martin and the Castle in the rain, wearing high-visibility waterproof gear. Midday cycling to Pont d'Achelles needs caution on slippery wet roads. Afternoon brings you to Ferme des Orgues, a great indoor escape from the downpour. End the wet evening safely."
+            "en": "Start biking to Saint-Martin and the Castle in the rain, wearing high-visibility waterproof gear. Midday cycling to Pont d'Achelles needs caution on slippery wet roads. Afternoon brings you to Ferme des Orgues, a great indoor escape from the downpour. End the wet evening safely.",
+            "fr": "Commencez à vélo vers Saint-Martin et le château sous la pluie, en portant des vêtements imperméables haute visibilité. À midi, soyez prudent sur la route glissante en vous rendant à Pont d’Achelles. L’après-midi vous mène à la Ferme des Orgues, un excellent refuge intérieur face à l’averse. Terminez la soirée humide en toute sécurité."
           },
           "stops": [
             {
@@ -468,13 +515,15 @@
                 "de": "Saint-Martin Kirche",
                 "hu": "Saint-Martin Templom",
                 "ro": "Biserica Saint-Martin",
-                "en": "Saint-Martin Church"
+                "en": "Saint-Martin Church",
+                "fr": "Église Saint-Martin"
               },
               "tip_5lang": {
                 "de": "Bewundern Sie die herrlichen Buntglasfenster der Kirche im Trockenen und stellen Sie Ihren nassen Regenschirm am Eingang ab, um den historischen Boden zu schonen.",
                 "hu": "Csodálja meg a templom lenyűgöző üvegablakait teljesen szárazon, de a biztonság érdekében hagyja a csöpögő esernyőt a bejáratnál kialakított tárolóban.",
                 "ro": "Admirați superbele vitralii ale bisericii stând perfect la adăpost, dar asigurați-vă că lăsați umbrela udă la intrare pentru a păstra podelele sigure și uscate.",
-                "en": "Admire the church's gorgeous stained glass while staying perfectly dry inside, but remember to leave your dripping umbrella at the entrance to keep floors safe."
+                "en": "Admire the church's gorgeous stained glass while staying perfectly dry inside, but remember to leave your dripping umbrella at the entrance to keep floors safe.",
+                "fr": "Admirez les superbes vitraux de l’église tout en restant parfaitement sec à l’intérieur, mais pensez à laisser votre parapluie dégoulinant à l’entrée pour préserver les sols."
               }
             },
             {
@@ -482,13 +531,15 @@
                 "de": "Schloss Nieppe",
                 "hu": "Nieppe Kastély",
                 "ro": "Castelul Nieppe",
-                "en": "Nieppe Castle"
+                "en": "Nieppe Castle",
+                "fr": "Château de Nieppe"
               },
               "tip_5lang": {
                 "de": "Erkunden Sie die faszinierenden Innenräume des Schlosses als perfekten Regenschutz; Vorsicht jedoch im umliegenden Park, da die Wege recht schlammig werden.",
                 "hu": "Fedezze fel a kastély lenyűgöző belső termeit kiváló esővédőként; kint azonban vigyázzon, mert a környező park romantikus ösvényei ilyenkor nagyon sárosak.",
                 "ro": "Explorați interioarele fascinante ale castelului ca adăpost perfect împotriva ploii; fiți atenți afară, deoarece aleile parcului pot deveni destul de noroioase.",
-                "en": "Explore the fascinating indoor halls of the castle as a perfect rain shelter; just be careful outside as the surrounding park paths may become quite muddy."
+                "en": "Explore the fascinating indoor halls of the castle as a perfect rain shelter; just be careful outside as the surrounding park paths may become quite muddy.",
+                "fr": "Explorez les halls intérieurs fascinants du château comme abri idéal contre la pluie ; soyez simplement prudent à l’extérieur car les allées du parc peuvent devenir très boueuses."
               }
             },
             {
@@ -496,13 +547,15 @@
                 "de": "Notre-Dame de Grâce",
                 "hu": "Notre-Dame de Grâce",
                 "ro": "Notre-Dame de Grâce",
-                "en": "Notre-Dame de Grâce"
+                "en": "Notre-Dame de Grâce",
+                "fr": "Notre-Dame de Grâce"
               },
               "tip_5lang": {
                 "de": "Diese historische kleine Kapelle an der Straße bietet einen kurzen, aber extrem willkommenen trockenen Unterschlupf bei einem plötzlichen, heftigen Regenschauer.",
                 "hu": "Ez a hangulatos, történelmi útszéli kápolna rövid, de hihetetlenül hasznos menedéket nyújt, ha egy hirtelen jött, intenzív zápor közepén találja magát gyalog.",
                 "ro": "Această capelă istorică pitorească oferă un adăpost uscat scurt, dar incredibil de util, dacă sunteți surprins afară în timpul unei averse bruște și intense.",
-                "en": "This quaint, historic roadside chapel offers a brief but incredibly welcome dry shelter if you are caught out during a sudden, intense winter or autumn downpour."
+                "en": "This quaint, historic roadside chapel offers a brief but incredibly welcome dry shelter if you are caught out during a sudden, intense winter or autumn downpour.",
+                "fr": "Cette petite chapelle routière historique offre un abri bref mais très apprécié si vous êtes pris par une averse intense en automne ou en hiver."
               }
             },
             {
@@ -510,13 +563,15 @@
                 "de": "Militärfriedhof Pont d'Achelles",
                 "hu": "Pont d'Achelles Katonai Temető",
                 "ro": "Cimitirul Militar Pont d'Achelles",
-                "en": "Pont d'Achelles Military Cemetery"
+                "en": "Pont d'Achelles Military Cemetery",
+                "fr": "Cimetière militaire de Pont d’Achelles"
               },
               "tip_5lang": {
                 "de": "Dieser historische Militärfriedhof ist ein feierlicher Anblick; achten Sie auf die nassen Steine und schieben Sie Ihr Fahrrad stets vorsichtig auf den glatten Wegen.",
                 "hu": "Ez a történelmi katonai temető ünnepélyes látvány, de a nedves kövekre különösen ügyeljen, és a veszélyesen csúszós ösvényeken mindig óvatosan tolja a kerékpárját.",
                 "ro": "Acest cimitir militar istoric este o priveliște solemnă, dar fiți foarte atenți la pietrele umede și împingeți-vă mereu bicicleta cu grijă pe aleile alunecoase.",
-                "en": "This historic military cemetery is a solemn sight, but be extra mindful of the wet stones and always push your bike carefully on the dangerously slippery paths."
+                "en": "This historic military cemetery is a solemn sight, but be extra mindful of the wet stones and always push your bike carefully on the dangerously slippery paths.",
+                "fr": "Ce cimetière militaire historique est un lieu solennel, mais faites particulièrement attention aux pierres mouillées et poussez toujours votre vélo avec précaution sur les chemins dangereusement glissants."
               }
             },
             {
@@ -524,13 +579,15 @@
                 "de": "Notre-Dame du Rosaire",
                 "hu": "Notre-Dame du Rosaire",
                 "ro": "Notre-Dame du Rosaire",
-                "en": "Notre-Dame du Rosaire"
+                "en": "Notre-Dame du Rosaire",
+                "fr": "Notre-Dame du Rosaire"
               },
               "tip_5lang": {
                 "de": "Machen Sie einen sehr kurzen Halt an diesem bekannten Wahrzeichen; tragen Sie einen langlebigen Regenponcho, da hier absolut keine trockenen Unterstände verfügbar sind.",
                 "hu": "Tegyen egy nagyon rövid megállót, hogy megnézze ezt a helyi nevezetességet; viseljen strapabíró esőponcsót, mivel itt egyáltalán nincs elérhető száraz menedék.",
                 "ro": "Faceți o oprire foarte scurtă pentru a vedea acest reper local; asigurați-vă că purtați un poncho de ploaie durabil, deoarece aici nu există deloc adăposturi uscate.",
-                "en": "Make a very brief stop to view this well-known local landmark; ensure you wear a highly durable rain poncho as there are absolutely no dry shelters available here."
+                "en": "Make a very brief stop to view this well-known local landmark; ensure you wear a highly durable rain poncho as there are absolutely no dry shelters available here.",
+                "fr": "Faites une très brève halte pour voir ce repère local bien connu ; portez une cape de pluie très résistante car il n’y a absolument aucun abri sec ici."
               }
             },
             {
@@ -538,13 +595,15 @@
                 "de": "Ferme des Orgues",
                 "hu": "Ferme des Orgues Múzeum",
                 "ro": "Ferme des Orgues",
-                "en": "Ferme des Orgues - Musée de la musique mécanique"
+                "en": "Ferme des Orgues - Musée de la musique mécanique",
+                "fr": "Ferme des Orgues - Musée de la musique mécanique"
               },
               "tip_5lang": {
                 "de": "Das Museum für mechanische Musik bietet ein fantastisches Indoor-Erlebnis; es ist absolut perfekt, um einen lang anhaltenden, heftigen sintflutartigen Regen abzuwarten.",
                 "hu": "A mechanikus hangszerek múzeuma fantasztikus, lebilincselő beltéri élményt kínál; teljesen tökéletes arra, hogy kényelmesen átvészeljen egy elhúzódó, heves felhőszakadást.",
                 "ro": "Muzeul de muzică mecanică oferă o experiență interioară fantastică; este complet perfect pentru a aștepta confortabil trecerea unei ploi torențiale prelungite și grele.",
-                "en": "The mechanical music museum offers a fantastic, engaging indoor experience; it is completely perfect for comfortably waiting out a prolonged and heavy torrential rain."
+                "en": "The mechanical music museum offers a fantastic, engaging indoor experience; it is completely perfect for comfortably waiting out a prolonged and heavy torrential rain.",
+                "fr": "Le musée de la musique mécanique offre une expérience intérieure fantastique et divertissante ; il est idéal pour attendre confortablement une pluie torrentielle prolongée."
               }
             }
           ]
@@ -554,7 +613,8 @@
             "de": "Eine frostige Radtour beginnt bei Saint-Martin und dem Schloss; dicke Handschuhe tragen. Mittags wärmt das Radeln zur Ferme des Orgues, aber Vorsicht vor Eis. Nachmittags dämmert es früh um 17 Uhr, abends sind Fahrradlichter wichtig.",
             "hu": "Fagyos kerékpározás indul a Saint-Martintól. Viseljen vastag kesztyűt! Délben a Pont d'Achelles és a Ferme des Orgues felé kimelegszik, de figyeljen a jégre. Délután korán, 17:00 körül sötétedik, este a biciklilámpa kötelező.",
             "ro": "O plimbare geroasă cu bicicleta începe la Saint-Martin; purtați mănuși groase. La prânz pedalarea spre Ferme des Orgues vă încălzește, dar atenție la gheață. După-amiaza se întunecă la 17:00, luminile sunt esențiale seara.",
-            "en": "A frosty bike ride starts at Saint-Martin and the Castle. Wear thick gloves. Midday cycling to Pont d'Achelles and Ferme des Orgues keeps you warm, but beware of icy patches. Afternoon brings early twilight around 5 PM, so bike lights are essential for the evening."
+            "en": "A frosty bike ride starts at Saint-Martin and the Castle. Wear thick gloves. Midday cycling to Pont d'Achelles and Ferme des Orgues keeps you warm, but beware of icy patches. Afternoon brings early twilight around 5 PM, so bike lights are essential for the evening.",
+            "fr": "Une balade à vélo glaciale commence à Saint-Martin et au château. Portez des gants épais. À midi, le trajet vers Pont d’Achelles et la Ferme des Orgues vous tient au chaud, mais méfiez-vous des plaques de verglas. L’après-midi apporte le crépuscule précoce vers 17h, donc les lumières de vélo sont indispensables pour la soirée."
           },
           "stops": [
             {
@@ -562,13 +622,15 @@
                 "de": "Saint-Martin Kirche",
                 "hu": "Saint-Martin Templom",
                 "ro": "Biserica Saint-Martin",
-                "en": "Saint-Martin Church"
+                "en": "Saint-Martin Church",
+                "fr": "Église Saint-Martin"
               },
               "tip_5lang": {
                 "de": "Der atemberaubende historische Altar ist sehenswert, aber das Kircheninnere bleibt kühl; behalten Sie Ihren dicken Wintermantel an, um angenehm warm zu bleiben.",
                 "hu": "A lenyűgöző történelmi oltárt mindenképpen érdemes megnézni, de a templom belseje hűvös marad, így tartsa magán a vastag téli kabátját a kényelmes melegért.",
                 "ro": "Uimitorul altar istoric merită cu siguranță văzut, dar interiorul bisericii rămâne răcoros, deci păstrați-vă haina groasă de iarnă pentru a vă menține la căldură.",
-                "en": "The stunning historical altar is definitely worth seeing, but the church interior remains chilly, so keep your heavy winter coat on to stay comfortably warm."
+                "en": "The stunning historical altar is definitely worth seeing, but the church interior remains chilly, so keep your heavy winter coat on to stay comfortably warm.",
+                "fr": "Le superbe autel historique vaut vraiment la visite, mais l’intérieur de l’église reste frais ; gardez votre manteau d’hiver épais pour rester confortable."
               }
             },
             {
@@ -576,13 +638,15 @@
                 "de": "Schloss Nieppe",
                 "hu": "Nieppe Kastély",
                 "ro": "Castelul Nieppe",
-                "en": "Nieppe Castle"
+                "en": "Nieppe Castle",
+                "fr": "Château de Nieppe"
               },
               "tip_5lang": {
                 "de": "Die majestätischen, kahlen Winterbäume bieten freie Sicht auf die Schlossfassade; ziehen Sie sich für den wunderschönen, aber eisigen Parkspaziergang sehr warm an.",
                 "hu": "A fenséges, de csupasz téli fák teljesen szabad kilátást nyújtanak a kastély homlokzatára; öltözzön nagyon melegen a gyönyörű, de fagyos és szeles parki sétához.",
                 "ro": "Copacii de iarnă maiestuoși, dar goi, oferă o vedere clară asupra fațadei castelului; asigurați-vă că vă îmbrăcați foarte gros pentru plimbarea frumoasă, dar înghețată.",
-                "en": "The majestic but bare winter trees offer a completely clear view of the castle facade; be sure to dress very warmly for the beautiful yet freezing park stroll."
+                "en": "The majestic but bare winter trees offer a completely clear view of the castle facade; be sure to dress very warmly for the beautiful yet freezing park stroll.",
+                "fr": "Les arbres hivernaux, majestueux mais dénudés, offrent une vue totalement dégagée sur la façade du château ; habillez-vous très chaudement pour cette belle mais glaciale promenade dans le parc."
               }
             },
             {
@@ -590,13 +654,15 @@
                 "de": "Notre-Dame de Grâce",
                 "hu": "Notre-Dame de Grâce",
                 "ro": "Notre-Dame de Grâce",
-                "en": "Notre-Dame de Grâce"
+                "en": "Notre-Dame de Grâce",
+                "fr": "Notre-Dame de Grâce"
               },
               "tip_5lang": {
                 "de": "Machen Sie eine Pause an dieser kleinen, historischen Kapelle; der frostige Winterwind kann hier extrem beißend sein, also wickeln Sie Ihren Schal eng um sich.",
                 "hu": "Tartson egy elmélyült szünetet ennél a pici, történelmi kápolnánál; a fagyos téli szél rendkívül csípős lehet ezen a nyílt útszakaszon, így húzza szorosra a sálját.",
                 "ro": "Faceți o pauză la această mică capelă istorică; vântul înghețat de iarnă poate fi extrem de tăios pe acest drum deschis, așa că înfășurați-vă strâns cu fularul.",
-                "en": "Take a thoughtful pause at this tiny, historic chapel; the frosty winter wind can be extremely biting along this open, exposed road, so wrap your scarf tightly."
+                "en": "Take a thoughtful pause at this tiny, historic chapel; the frosty winter wind can be extremely biting along this open, exposed road, so wrap your scarf tightly.",
+                "fr": "Faites une pause réfléchie dans cette petite chapelle historique ; le vent hivernal glacé est très mordant le long de cette route exposée, alors resserrez bien votre écharpe."
               }
             },
             {
@@ -604,13 +670,15 @@
                 "de": "Militärfriedhof Pont d'Achelles",
                 "hu": "Pont d'Achelles Katonai Temető",
                 "ro": "Cimitirul Militar Pont d'Achelles",
-                "en": "Pont d'Achelles Military Cemetery"
+                "en": "Pont d'Achelles Military Cemetery",
+                "fr": "Cimetière militaire de Pont d’Achelles"
               },
               "tip_5lang": {
                 "de": "Der gepflegte historische Friedhof ist im Winter tief ruhig; achten Sie auf den morgendlichen Raureif, der die gepflasterten Wege für Fahrräder gefährlich glatt macht.",
                 "hu": "A gondosan karbantartott történelmi temető mélyen csendes télen; ügyeljen a reggeli zúzmarára, amely a burkolt ösvényeket veszélyesen csúszóssá teszi a kerékpárok számára.",
                 "ro": "Cimitirul istoric este profund liniștit iarna; fiți atenți la bruma dimineții care face cărările pavate periculos de alunecoase pentru anvelopele de bicicletă.",
-                "en": "The meticulously kept historical cemetery is profoundly quiet in winter; watch out for morning hoarfrost which makes the paved pathways dangerously slippery for bikes."
+                "en": "The meticulously kept historical cemetery is profoundly quiet in winter; watch out for morning hoarfrost which makes the paved pathways dangerously slippery for bikes.",
+                "fr": "Le cimetière historique, soigneusement entretenu, est profondément silencieux en hiver ; méfiez-vous du givre matinal qui rend les allées pavées dangereusement glissantes pour les vélos."
               }
             },
             {
@@ -618,13 +686,15 @@
                 "de": "Notre-Dame du Rosaire",
                 "hu": "Notre-Dame du Rosaire",
                 "ro": "Notre-Dame du Rosaire",
-                "en": "Notre-Dame du Rosaire"
+                "en": "Notre-Dame du Rosaire",
+                "fr": "Notre-Dame du Rosaire"
               },
               "tip_5lang": {
                 "de": "Betrachten Sie kurz dieses Wahrzeichen, aber behalten Sie Ihre Wintermütze auf, da der eisige Fahrtwind auf dem Fahrrad Ihre Ohren sonst unglaublich schnell abkühlen lässt.",
                 "hu": "Szánjon egy percet erre az ikonikus nevezetességre, de tartsa szorosan a fején a téli sapkáját, mivel a kerékpározásból eredő metsző menetszél hihetetlenül gyorsan lefagyasztja.",
                 "ro": "Priviți acest reper iconic, dar păstrați-vă căciula de iarnă pe cap, deoarece vântul tăios de la pedalat vă va îngheța urechile incredibil de repede pe acest drum deschis.",
-                "en": "Take a moment to view this iconic landmark, but keep your warm winter hat firmly on, as the biting wind chill from your ride will freeze your ears incredibly quickly."
+                "en": "Take a moment to view this iconic landmark, but keep your warm winter hat firmly on, as the biting wind chill from your ride will freeze your ears incredibly quickly.",
+                "fr": "Prenez un moment pour voir ce repère emblématique, mais gardez votre bonnet d’hiver bien en place, car la morsure du vent de votre trajet gèlera très vite vos oreilles."
               }
             },
             {
@@ -632,13 +702,15 @@
                 "de": "Ferme des Orgues",
                 "hu": "Ferme des Orgues Múzeum",
                 "ro": "Ferme des Orgues",
-                "en": "Ferme des Orgues - Musée de la musique mécanique"
+                "en": "Ferme des Orgues - Musée de la musique mécanique",
+                "fr": "Ferme des Orgues - Musée de la musique mécanique"
               },
               "tip_5lang": {
                 "de": "Gehen Sie in das herrlich beheizte Museum, um sich aufzuwärmen und Ihre frostigen, steifen Glieder vor der abendlichen, kalten Radfahrt nach Hause ausgiebig zu lockern.",
                 "hu": "Térjen be a csodálatosan fűtött múzeumba élvezni a zenét, teljesen felmelegedni, és kilazítani a fagyos, merev végtagjait, mielőtt elkezdené a hideg esti kerékpárutat.",
                 "ro": "Intrați în muzeul minunat încălzit pentru a vă bucura de muzică, a vă încălzi complet și a vă relaxa membrele înghețate înainte de a începe cursa rece de seară spre casă.",
-                "en": "Head inside the wonderfully heated museum to enjoy the music, fully warm up, and loosen your frosty, stiff limbs before starting your cold evening bike ride back home."
+                "en": "Head inside the wonderfully heated museum to enjoy the music, fully warm up, and loosen your frosty, stiff limbs before starting your cold evening bike ride back home.",
+                "fr": "Entrez dans le musée merveilleusement chauffé pour profiter de la musique, vous réchauffer complètement et délier vos membres engourdis avant de commencer votre balade à vélo nocturne dans le froid."
               }
             }
           ]
@@ -658,7 +730,8 @@
             "de": "Saint-Martin Kirche",
             "hu": "Saint-Martin Templom",
             "ro": "Biserica Saint-Martin",
-            "en": "Saint-Martin Church"
+            "en": "Saint-Martin Church",
+            "fr": "Église Saint-Martin"
           },
           "coords": [
             2.83935,
@@ -673,7 +746,8 @@
             "de": "Bewundern Sie die Buntglasfenster dieser zentralen Pfarrkirche, ein spiritueller Leuchtturm, der nach Kriegszerstörungen wiederaufgebaut wurde, ideal am Morgen.",
             "hu": "Csodálja meg a központi plébániatemplom színes üvegablakait, amely a háború után újjáépülve a legjobb arcát a kora reggeli napfényben mutatja a látogatóknak.",
             "ro": "Admirați vitraliile frumoase ale acestei biserici parohiale, un far spiritual reconstruit după război, de preferat a fi vizitată în lumina dimineții.",
-            "en": "Admire the beautiful stained glass of this central parish church, a spiritual beacon rebuilt after wartime destruction, best visited in the morning light."
+            "en": "Admire the beautiful stained glass of this central parish church, a spiritual beacon rebuilt after wartime destruction, best visited in the morning light.",
+            "fr": "Admirez les magnifiques vitraux de cette église paroissiale centrale, un phare spirituel reconstruit après la guerre, à visiter de préférence à la lumière du matin."
           }
         },
         {
@@ -681,7 +755,8 @@
             "de": "Schloss Nieppe",
             "hu": "Nieppe Kastély",
             "ro": "Castelul Nieppe",
-            "en": "Nieppe Castle"
+            "en": "Nieppe Castle",
+            "fr": "Château de Nieppe"
           },
           "coords": [
             2.839224,
@@ -696,7 +771,8 @@
             "de": "Erkunden Sie das historische Gelände des Schlosses Nieppe, das an die aristokratische Vergangenheit erinnert, und prüfen Sie vorab die lokalen Öffnungszeiten.",
             "hu": "Fedezze fel a nieppe-i kastély történelmi parkját, amely a város arisztokratikus múltját idézi, de előtte érdemes pontosan ellenőrizni a nyitvatartást.",
             "ro": "Explorați domeniul istoric al Castelului Nieppe, ce amintește de trecutul aristocratic al orașului, verificând în prealabil orarul de funcționare.",
-            "en": "Explore the historic grounds of Nieppe Castle, which serves as a poignant reminder of the town's aristocratic past, checking the local hall's opening hours."
+            "en": "Explore the historic grounds of Nieppe Castle, which serves as a poignant reminder of the town's aristocratic past, checking the local hall's opening hours.",
+            "fr": "Explorez les jardins historiques du château de Nieppe, qui rappellent le passé aristocratique de la ville ; vérifiez les heures d'ouverture de la salle municipale."
           }
         },
         {
@@ -704,7 +780,8 @@
             "de": "Notre-Dame de Grâce",
             "hu": "Notre-Dame de Grâce",
             "ro": "Notre-Dame de Grâce",
-            "en": "Notre-Dame de Grâce"
+            "en": "Notre-Dame de Grâce",
+            "fr": "Notre-Dame de Grâce"
           },
           "coords": [
             2.836303,
@@ -719,7 +796,8 @@
             "de": "Halten Sie an diesem charmanten Wegschrein, der Unserer Lieben Frau der Gnade gewidmet ist, und genießen Sie einen Moment der friedlichen Besinnung.",
             "hu": "Álljon meg egy pillanatra ennél a Kegyelmes Miasszonyunknak szentelt útmenti szentélynél, amely békés elmélkedésre csábít a főút közelében.",
             "ro": "Opriți-vă la acest altar fermecător dedicat Maicii Domnului a Harului, care oferă un moment de reflecție pașnică la doar câțiva pași de drum.",
-            "en": "Pause at this charming wayside shrine dedicated to Our Lady of Grace, offering a peaceful moment of reflection, easily accessible just off the main path."
+            "en": "Pause at this charming wayside shrine dedicated to Our Lady of Grace, offering a peaceful moment of reflection, easily accessible just off the main path.",
+            "fr": "Faites une pause à ce charmant oratoire dédié à Notre-Dame de Grâce, offrant un moment paisible de réflexion, facilement accessible juste à côté du chemin principal."
           }
         },
         {
@@ -727,7 +805,8 @@
             "de": "Militärfriedhof Pont d'Achelles",
             "hu": "Pont d'Achelles Katonai Temető",
             "ro": "Cimitirul Militar Pont d'Achelles",
-            "en": "Pont d'Achelles Military Cemetery"
+            "en": "Pont d'Achelles Military Cemetery",
+            "fr": "Cimetière militaire du Pont d'Achelles"
           },
           "coords": [
             2.819175,
@@ -742,7 +821,8 @@
             "de": "Besuchen Sie diesen ergreifenden Militärfriedhof aus dem Ersten Weltkrieg, um über die Verluste der Region nachzudenken, und bringen Sie einen Schirm mit.",
             "hu": "Látogasson el erre a megrendítő első világháborús katonai temetőbe, és ne felejtsen el esernyőt vinni, mivel a területen kevés a menedék.",
             "ro": "Vizitați acest cimitir militar emoționant din Primul Război Mondial pentru a reflecta asupra istoriei, aducând o umbrelă din cauza lipsei adăposturilor.",
-            "en": "Visit this poignant First World War military cemetery to reflect on the region's heavy toll, bringing an umbrella as there is very little shelter available."
+            "en": "Visit this poignant First World War military cemetery to reflect on the region's heavy toll, bringing an umbrella as there is very little shelter available.",
+            "fr": "Visitez ce poignant cimetière militaire de la Première Guerre mondiale pour réfléchir au lourd tribut de la région ; prenez un parapluie car il y a très peu d'abris."
           }
         },
         {
@@ -750,7 +830,8 @@
             "de": "Ferme des Orgues",
             "hu": "Ferme des Orgues Múzeum",
             "ro": "Ferme des Orgues",
-            "en": "Ferme des Orgues - Musée de la musique mécanique"
+            "en": "Ferme des Orgues - Musée de la musique mécanique",
+            "fr": "Ferme des Orgues - Musée de la musique mécanique"
           },
           "coords": [
             2.805898,
@@ -765,7 +846,8 @@
             "de": "Erleben Sie die skurrile Welt der mechanischen Musik in diesem einzigartigen Bauernhof-Museum und kommen Sie rechtzeitig zu einer geführten Vorführung.",
             "hu": "Tapasztalja meg a gépzene varázslatos világát ebben az egyedülálló múzeumfarmon, és érkezzen időben az egyik lenyűgöző tárlatvezetésre.",
             "ro": "Experimentați lumea fantezistă a muzicii mecanice la această fermă-muzeu unică, asigurându-vă că ajungeți la timp pentru o demonstrație ghidată.",
-            "en": "Experience the whimsical world of mechanical music at this unique museum farm, ensuring you arrive in time for one of their captivating guided demonstrations."
+            "en": "Experience the whimsical world of mechanical music at this unique museum farm, ensuring you arrive in time for one of their captivating guided demonstrations.",
+            "fr": "Plongez dans l'univers fantaisiste de la musique mécanique à ce musée-ferme unique, en veillant à arriver à temps pour une de leurs captivantes démonstrations guidées."
           }
         },
         {
@@ -773,7 +855,8 @@
             "de": "Kirche Notre-Dame",
             "hu": "Notre-Dame Templom",
             "ro": "Biserica Notre-Dame",
-            "en": "Église Notre-Dame"
+            "en": "Église Notre-Dame",
+            "fr": "Église Notre-Dame"
           },
           "coords": [
             2.856565,
@@ -788,7 +871,8 @@
             "de": "Bewundern Sie die markante Architektur dieser zweiten Pfarrkirche, die der lokalen Gemeinde Halt gibt und ein ruhiger Stopp auf Ihrem Spaziergang ist.",
             "hu": "Csodálja meg a helyi közösséget összefogó templom különleges építészetét, amely békés megállót jelent a környékbeli séták során.",
             "ro": "Minunați-vă de arhitectura distinctă a acestei a doua biserici parohiale ce ancorează comunitatea, fiind o oprire senină în timpul plimbării.",
-            "en": "Marvel at the distinct architecture of this secondary parish church that anchors the local community, making it a serene stop during your neighborhood stroll."
+            "en": "Marvel at the distinct architecture of this secondary parish church that anchors the local community, making it a serene stop during your neighborhood stroll.",
+            "fr": "Émerveillez-vous devant l'architecture distincte de cette église paroissiale secondaire qui ancre la communauté locale ; c'est un arrêt serein lors de votre promenade de quartier."
           }
         },
         {
@@ -796,7 +880,8 @@
             "de": "Erweiterung des Friedhofs von Nieppe",
             "hu": "Nieppe Községi Temető Bővítése",
             "ro": "Extensia Cimitirului Comunal Nieppe",
-            "en": "Nieppe Communal Cemetery Extension"
+            "en": "Nieppe Communal Cemetery Extension",
+            "fr": "Extension du cimetière communal de Nieppe"
           },
           "coords": [
             2.855779,
@@ -811,7 +896,8 @@
             "de": "Erweisen Sie an dieser gepflegten Erweiterung der Commonwealth-Kriegsgräber Ihren Respekt, einem Ort, der ein ruhiges Verhalten voraussetzt.",
             "hu": "Fejezze ki tiszteletét ezen a gondosan karbantartott nemzetközösségi háborús temetőben, ahol a csendes és tiszteletteljes viselkedés alapvető.",
             "ro": "Aduceți un omagiu la această extensie a cimitirului de război al Commonwealth-ului, un loc istoric unde un comportament respectuos este esențial.",
-            "en": "Pay your respects at this meticulously maintained Commonwealth War Graves extension, a sobering historical site where a quiet, respectful demeanor is essential."
+            "en": "Pay your respects at this meticulously maintained Commonwealth War Graves extension, a sobering historical site where a quiet, respectful demeanor is essential.",
+            "fr": "Rendez hommage dans cette extension du Commonwealth War Graves soigneusement entretenue, un site historique sobre où une attitude calme et respectueuse est essentielle."
           }
         }
       ],
@@ -819,7 +905,8 @@
         "de": "Fahren Sie ins Zentrum von Nieppe, um die Kirche und das markante Schloss zu erkunden. Mittags führt eine kurze Fahrt zum nördlichen Militärfriedhof und einem Wegschrein. Der Nachmittag ist dem charmanten Museum für mechanische Musik vorbehalten. Beenden Sie Ihre umfassende Tour am späten Nachmittag, indem Sie dem südlichen Militärfriedhof bei einsetzender Dämmerung Respekt zollen.",
         "hu": "Vezessen be Nieppe központjába a templom és a kastély felfedezésére. Délben tegyen gyors kitérőt az északi katonai temetőhöz és egy finom útszéli szentélyhez. A délután a lenyűgöző gépzenei múzeumé, amely igazi auditív élmény. Fejezze be átfogó túráját késő délután, a déli katonai temetőben leróva kegyeletét, ahogy az alkonyat leszáll.",
         "ro": "Conduceți spre centrul orașului Nieppe pentru a explora biserica și castelul proeminent. La prânz, bucurați-vă de o călătorie rapidă spre cimitirul militar din nord și un altar de pe marginea drumului. După-amiaza este rezervată muzeului de muzică mecanică. Terminați-vă turul în târziul după-amiezii, aducând un omagiu la cimitirul militar din sud odată cu lăsarea serii.",
-        "en": "Drive into Nieppe's core to explore its central church and prominent castle. Midday allows a swift journey to the northern military cemetery and a delicate roadside shrine. The afternoon is reserved for the delightful mechanical music museum, an auditory treat. Finish your comprehensive tour in the late afternoon by paying respects at the southern military cemetery as dusk sets in."
+        "en": "Drive into Nieppe's core to explore its central church and prominent castle. Midday allows a swift journey to the northern military cemetery and a delicate roadside shrine. The afternoon is reserved for the delightful mechanical music museum, an auditory treat. Finish your comprehensive tour in the late afternoon by paying respects at the southern military cemetery as dusk sets in.",
+        "fr": "Conduisez jusqu'au centre de Nieppe pour visiter son église centrale et son château. En fin de matinée, un trajet rapide mène au cimetière militaire du nord et à un délicat oratoire routier. L'après-midi est consacré au délicieux musée de la musique mécanique, une fête pour les oreilles. Terminez votre visite complète en fin d'après-midi en rendant hommage au cimetière militaire du sud au crépuscule."
       },
       "variants": {
         "rainy": {
@@ -827,7 +914,8 @@
             "de": "Fahren Sie bei Regen zu Saint-Martin und dem Schloss. Mittags vorsichtig zum Pont d'Achelles und zur Ferme des Orgues navigieren, überflutete Straßen meiden. Nachmittags bietet die Kirche Notre-Dame trockenen Hafen. Sichere Fahrt am Abend.",
             "hu": "Vezessen a Saint-Martin és a kastély között, miközben az ablaktörlő dolgozik az esőben. Délben óvatosan haladjon a Pont d'Achelles és a Ferme des Orgues felé az elöntött szakaszokat kerülve. Délután a Notre-Dame templom nyújt száraz menedéket. Óvatosan este is.",
             "ro": "Conduceți la Saint-Martin și Castel, cu ștergătoarele curățând ploaia. La prânz navigați cu grijă la Pont d'Achelles și Ferme des Orgues, evitând zonele inundate. După-amiaza Biserica Notre-Dame e un refugiu uscat. Conduceți cu grijă seara.",
-            "en": "Drive your car starting at Saint-Martin and the Castle, enjoying the wipers clearing the rain. Midday, navigate carefully to Pont d'Achelles and Ferme des Orgues, avoiding flooded road patches. Afternoon at Église Notre-Dame offers a dry haven. Drive safely into the rainy evening."
+            "en": "Drive your car starting at Saint-Martin and the Castle, enjoying the wipers clearing the rain. Midday, navigate carefully to Pont d'Achelles and Ferme des Orgues, avoiding flooded road patches. Afternoon at Église Notre-Dame offers a dry haven. Drive safely into the rainy evening.",
+            "fr": "Conduisez en commençant par Saint-Martin et le château, en profitant des essuie-glaces qui dégagent la pluie. À midi, naviguez prudemment vers Pont d'Achelles et la Ferme des Orgues, en évitant les zones inondées. L'après-midi, l'Église Notre-Dame offre un havre sec. Rentrez prudemment sous la pluie du soir."
           },
           "stops": [
             {
@@ -835,13 +923,15 @@
                 "de": "Saint-Martin Kirche",
                 "hu": "Saint-Martin Templom",
                 "ro": "Biserica Saint-Martin",
-                "en": "Saint-Martin Church"
+                "en": "Saint-Martin Church",
+                "fr": "Église Saint-Martin"
               },
               "tip_5lang": {
                 "de": "Bewundern Sie die herrlichen Buntglasfenster der Kirche im Trockenen und stellen Sie Ihren nassen Regenschirm am Eingang ab, um den historischen Boden zu schonen.",
                 "hu": "Csodálja meg a templom lenyűgöző üvegablakait teljesen szárazon, de a biztonság érdekében hagyja a csöpögő esernyőt a bejáratnál kialakított tárolóban.",
                 "ro": "Admirați superbele vitralii ale bisericii stând perfect la adăpost, dar asigurați-vă că lăsați umbrela udă la intrare pentru a păstra podelele sigure și uscate.",
-                "en": "Admire the church's gorgeous stained glass while staying perfectly dry inside, but remember to leave your dripping umbrella at the entrance to keep floors safe."
+                "en": "Admire the church's gorgeous stained glass while staying perfectly dry inside, but remember to leave your dripping umbrella at the entrance to keep floors safe.",
+                "fr": "Admirez les superbes vitraux de l'église tout en restant parfaitement au sec à l'intérieur, mais pensez à laisser votre parapluie dégoulinant à l'entrée pour préserver le sol."
               }
             },
             {
@@ -849,13 +939,15 @@
                 "de": "Schloss Nieppe",
                 "hu": "Nieppe Kastély",
                 "ro": "Castelul Nieppe",
-                "en": "Nieppe Castle"
+                "en": "Nieppe Castle",
+                "fr": "Château de Nieppe"
               },
               "tip_5lang": {
                 "de": "Erkunden Sie die faszinierenden Innenräume des Schlosses als perfekten Regenschutz; Vorsicht jedoch im umliegenden Park, da die Wege recht schlammig werden.",
                 "hu": "Fedezze fel a kastély lenyűgöző belső termeit kiváló esővédőként; kint azonban vigyázzon, mert a környező park romantikus ösvényei ilyenkor nagyon sárosak.",
                 "ro": "Explorați interioarele fascinante ale castelului ca adăpost perfect împotriva ploii; fiți atenți afară, deoarece aleile parcului pot deveni destul de noroioase.",
-                "en": "Explore the fascinating indoor halls of the castle as a perfect rain shelter; just be careful outside as the surrounding park paths may become quite muddy."
+                "en": "Explore the fascinating indoor halls of the castle as a perfect rain shelter; just be careful outside as the surrounding park paths may become quite muddy.",
+                "fr": "Explorez les fascinantes salles intérieures du château comme parfait abri contre la pluie ; faites juste attention dehors car les allées du parc peuvent devenir très boueuses."
               }
             },
             {
@@ -863,13 +955,15 @@
                 "de": "Notre-Dame de Grâce",
                 "hu": "Notre-Dame de Grâce",
                 "ro": "Notre-Dame de Grâce",
-                "en": "Notre-Dame de Grâce"
+                "en": "Notre-Dame de Grâce",
+                "fr": "Notre-Dame de Grâce"
               },
               "tip_5lang": {
                 "de": "Diese historische kleine Kapelle an der Straße bietet einen kurzen, aber extrem willkommenen trockenen Unterschlupf bei einem plötzlichen, heftigen Regenschauer.",
                 "hu": "Ez a hangulatos, történelmi útszéli kápolna rövid, de hihetetlenül hasznos menedéket nyújt, ha egy hirtelen jött, intenzív zápor közepén találja magát gyalog.",
                 "ro": "Această capelă istorică pitorească oferă un adăpost uscat scurt, dar incredibil de util, dacă sunteți surprins afară în timpul unei averse bruște și intense.",
-                "en": "This quaint, historic roadside chapel offers a brief but incredibly welcome dry shelter if you are caught out during a sudden, intense winter or autumn downpour."
+                "en": "This quaint, historic roadside chapel offers a brief but incredibly welcome dry shelter if you are caught out during a sudden, intense winter or autumn downpour.",
+                "fr": "Cette charmante chapelle routière offre un abri bref mais très apprécié si vous êtes surpris par une averse d'automne ou d'hiver soudaine et intense."
               }
             },
             {
@@ -877,13 +971,15 @@
                 "de": "Militärfriedhof Pont d'Achelles",
                 "hu": "Pont d'Achelles Katonai Temető",
                 "ro": "Cimitirul Militar Pont d'Achelles",
-                "en": "Pont d'Achelles Military Cemetery"
+                "en": "Pont d'Achelles Military Cemetery",
+                "fr": "Cimetière militaire du Pont d'Achelles"
               },
               "tip_5lang": {
                 "de": "Dieser historische Militärfriedhof ist ein feierlicher Anblick; parken Sie vorsichtig und bringen Sie einen großen Regenschirm mit, da es hier keine überdachten Strukturen gibt.",
                 "hu": "Ez a történelmi katonai temető ünnepélyes látvány; parkoljon óvatosan és hozzon nagy esernyőt, mivel nincsenek fedett építmények, amelyek megvédenék a heves esőtől.",
                 "ro": "Acest cimitir militar istoric este o priveliște solemnă; parcați cu grijă și aduceți o umbrelă mare, deoarece nu există structuri acoperite care să vă protejeze de ploaie.",
-                "en": "This historic military cemetery is a solemn sight; park carefully and bring a large umbrella, as there are no covered structures to protect you from the driving rain."
+                "en": "This historic military cemetery is a solemn sight; park carefully and bring a large umbrella, as there are no covered structures to protect you from the driving rain.",
+                "fr": "Ce cimetière militaire historique est un lieu solennel ; garez-vous avec précaution et apportez un grand parapluie, car il n'y a pas de structures couvertes pour vous protéger de la pluie battante."
               }
             },
             {
@@ -891,13 +987,15 @@
                 "de": "Ferme des Orgues",
                 "hu": "Ferme des Orgues Múzeum",
                 "ro": "Ferme des Orgues",
-                "en": "Ferme des Orgues - Musée de la musique mécanique"
+                "en": "Ferme des Orgues - Musée de la musique mécanique",
+                "fr": "Ferme des Orgues - Musée de la musique mécanique"
               },
               "tip_5lang": {
                 "de": "Das Museum für mechanische Musik bietet ein fantastisches Indoor-Erlebnis; parken Sie nahe am Eingang und huschen Sie schnell hinein, um den heftigen Regen abzuwarten.",
                 "hu": "A mechanikus hangszerek múzeuma fantasztikus beltéri élményt kínál; parkoljon közel a bejárathoz, és szaladjon be, hogy kényelmesen átvészelje a heves felhőszakadást.",
                 "ro": "Muzeul de muzică mecanică oferă o experiență interioară fantastică; parcați aproape de intrare și fugiți înăuntru pentru a aștepta confortabil trecerea ploii torențiale.",
-                "en": "The mechanical music museum offers a fantastic, engaging indoor experience; park close to the entrance and sprint inside to comfortably wait out the heavy torrential rain."
+                "en": "The mechanical music museum offers a fantastic, engaging indoor experience; park close to the entrance and sprint inside to comfortably wait out the heavy torrential rain.",
+                "fr": "Le musée de la musique mécanique propose une expérience intérieure fantastique et engageante ; garez-vous près de l'entrée et courez à l'intérieur pour attendre confortablement la forte pluie torrentielle."
               }
             },
             {
@@ -905,13 +1003,15 @@
                 "de": "Kirche Notre-Dame",
                 "hu": "Notre-Dame Templom",
                 "ro": "Biserica Notre-Dame",
-                "en": "Église Notre-Dame"
+                "en": "Église Notre-Dame",
+                "fr": "Église Notre-Dame"
               },
               "tip_5lang": {
                 "de": "Die beeindruckende Ziegelarchitektur wirkt im Regen dramatisch dunkler; treten Sie ein und genießen Sie die ruhige, trockene Atmosphäre fernab des Sturms.",
                 "hu": "A lenyűgöző téglaépítészet drámaian sötétebbnek hat az esőben; lépjen be, hogy élvezze a csendes, száraz atmoszférát, teljesen védve a kinti heves vihartól.",
                 "ro": "Impresionanta arhitectură din cărămidă pare dramatic mai închisă în ploaie; intrați pentru a vă bucura de atmosfera liniștită, complet protejați de furtună.",
-                "en": "The impressive brick architecture looks dramatically darker in the rain; step inside to enjoy the quiet, dry atmosphere completely sheltered from the fierce storm."
+                "en": "The impressive brick architecture looks dramatically darker in the rain; step inside to enjoy the quiet, dry atmosphere completely sheltered from the fierce storm.",
+                "fr": "L'impressionnante architecture en brique paraît dramatiquement plus sombre sous la pluie ; entrez pour profiter de l'atmosphère calme et sèche, entièrement à l'abri de la tempête."
               }
             },
             {
@@ -919,13 +1019,15 @@
                 "de": "Erweiterung des Friedhofs von Nieppe",
                 "hu": "Nieppe Községi Temető Bővítése",
                 "ro": "Extensia Cimitirului Comunal Nieppe",
-                "en": "Nieppe Communal Cemetery Extension"
+                "en": "Nieppe Communal Cemetery Extension",
+                "fr": "Extension du cimetière communal de Nieppe"
               },
               "tip_5lang": {
                 "de": "Reflektieren Sie friedlich an den historischen Gräbern, aber bleiben Sie unbedingt auf den gepflasterten Wegen, um auf dem nassen und schlammigen Gras nicht auszurutschen.",
                 "hu": "Emlékezzen békésen a történelmi síroknál, de mindenképpen maradjon a kövezett utakon, nehogy veszélyesen elcsússzon a rendkívül nedves és sáros, csúszós füvön.",
                 "ro": "Reflectați în pace la mormintele istorice, dar asigurați-vă că rămâneți pe cărările pavate pentru a evita alunecarea periculoasă pe iarba extrem de udă și noroioasă.",
-                "en": "Reflect peacefully at the historic gravesides, but ensure you strictly stick to the paved paths to avoid dangerously slipping on the extremely wet, muddy grass."
+                "en": "Reflect peacefully at the historic gravesides, but ensure you strictly stick to the paved paths to avoid dangerously slipping on the extremely wet, muddy grass.",
+                "fr": "Réfléchissez paisiblement auprès des tombes historiques, mais restez strictement sur les sentiers pavés pour éviter de glisser dangereusement sur l'herbe extrêmement mouillée et boueuse."
               }
             }
           ]
@@ -935,7 +1037,8 @@
             "de": "Eine gemütliche Winterfahrt beginnt bei Saint-Martin und dem Schloss mit Heizung. Mittags zur Pont d'Achelles und Ferme des Orgues fahren und die warme Kabine genießen. Nachmittags endet am Friedhof beim frühen Sonnenuntergang um 17 Uhr. Warmer Abend.",
             "hu": "Kényelmes téli autózás indul a Saint-Martintól és a kastélytól fűtéssel. Délben vezessen a Pont d'Achelles és a Ferme des Orgues felé, élvezve a meleg utasteret. A délután a temetőnél ér véget a korai, 17 órás naplemente fényében. Kellemes meleg estét.",
             "ro": "O plimbare confortabilă de iarnă începe la Saint-Martin cu încălzirea pornită. La prânz conduceți spre Pont d'Achelles și Ferme des Orgues, bucurându-vă de cabina caldă. După-amiaza se termină la cimitir la apusul de la ora 17. Seară caldă.",
-            "en": "A cozy winter drive begins at Saint-Martin and the Castle. Keep the car heater on. Midday, drive to Pont d'Achelles and Ferme des Orgues, enjoying the warm cabin between stops. Afternoon ends at the cemetery extension just as the early 5 PM sunset paints the sky. Enjoy a warm evening."
+            "en": "A cozy winter drive begins at Saint-Martin and the Castle. Keep the car heater on. Midday, drive to Pont d'Achelles and Ferme des Orgues, enjoying the warm cabin between stops. Afternoon ends at the cemetery extension just as the early 5 PM sunset paints the sky. Enjoy a warm evening.",
+            "fr": "Une randonnée hivernale en voiture commence à Saint-Martin et au château. Gardez le chauffage de la voiture allumé. En milieu de journée, conduisez vers Pont d'Achelles et la Ferme des Orgues en appréciant l'habitacle chaud entre les étapes. L'après-midi se termine à l'extension du cimetière juste au moment où le coucher du soleil à 17 h colore le ciel. Passez une soirée chaleureuse."
           },
           "stops": [
             {
@@ -943,13 +1046,15 @@
                 "de": "Saint-Martin Kirche",
                 "hu": "Saint-Martin Templom",
                 "ro": "Biserica Saint-Martin",
-                "en": "Saint-Martin Church"
+                "en": "Saint-Martin Church",
+                "fr": "Église Saint-Martin"
               },
               "tip_5lang": {
                 "de": "Der atemberaubende historische Altar ist sehenswert, aber das Kircheninnere bleibt kühl; behalten Sie Ihren dicken Wintermantel an, um angenehm warm zu bleiben.",
                 "hu": "A lenyűgöző történelmi oltárt mindenképpen érdemes megnézni, de a templom belseje hűvös marad, így tartsa magán a vastag téli kabátját a kényelmes melegért.",
                 "ro": "Uimitorul altar istoric merită cu siguranță văzut, dar interiorul bisericii rămâne răcoros, deci păstrați-vă haina groasă de iarnă pentru a vă menține la căldură.",
-                "en": "The stunning historical altar is definitely worth seeing, but the church interior remains chilly, so keep your heavy winter coat on to stay comfortably warm."
+                "en": "The stunning historical altar is definitely worth seeing, but the church interior remains chilly, so keep your heavy winter coat on to stay comfortably warm.",
+                "fr": "Le magnifique autel historique vaut vraiment le détour, mais l'intérieur de l'église reste frais : conservez votre manteau d'hiver épais pour rester confortablement au chaud."
               }
             },
             {
@@ -957,13 +1062,15 @@
                 "de": "Schloss Nieppe",
                 "hu": "Nieppe Kastély",
                 "ro": "Castelul Nieppe",
-                "en": "Nieppe Castle"
+                "en": "Nieppe Castle",
+                "fr": "Château de Nieppe"
               },
               "tip_5lang": {
                 "de": "Die majestätischen, kahlen Winterbäume bieten freie Sicht auf die Schlossfassade; ziehen Sie sich für den wunderschönen, aber eisigen Parkspaziergang sehr warm an.",
                 "hu": "A fenséges, de csupasz téli fák teljesen szabad kilátást nyújtanak a kastély homlokzatára; öltözzön nagyon melegen a gyönyörű, de fagyos és szeles parki sétához.",
                 "ro": "Copacii de iarnă maiestuoși, dar goi, oferă o vedere clară asupra fațadei castelului; asigurați-vă că vă îmbrăcați foarte gros pentru plimbarea frumoasă, dar înghețată.",
-                "en": "The majestic but bare winter trees offer a completely clear view of the castle facade; be sure to dress very warmly for the beautiful yet freezing park stroll."
+                "en": "The majestic but bare winter trees offer a completely clear view of the castle facade; be sure to dress very warmly for the beautiful yet freezing park stroll.",
+                "fr": "Les arbres hivernaux, majestueux mais dépouillés, offrent une vue totalement dégagée sur la façade du château ; habillez-vous très chaudement pour la belle mais glaciale promenade dans le parc."
               }
             },
             {
@@ -971,13 +1078,15 @@
                 "de": "Notre-Dame de Grâce",
                 "hu": "Notre-Dame de Grâce",
                 "ro": "Notre-Dame de Grâce",
-                "en": "Notre-Dame de Grâce"
+                "en": "Notre-Dame de Grâce",
+                "fr": "Notre-Dame de Grâce"
               },
               "tip_5lang": {
                 "de": "Machen Sie eine Pause an dieser kleinen, historischen Kapelle; der frostige Winterwind kann hier extrem beißend sein, also wickeln Sie Ihren Schal eng um sich.",
                 "hu": "Tartson egy elmélyült szünetet ennél a pici, történelmi kápolnánál; a fagyos téli szél rendkívül csípős lehet ezen a nyílt útszakaszon, így húzza szorosra a sálját.",
                 "ro": "Faceți o pauză la această mică capelă istorică; vântul înghețat de iarnă poate fi extrem de tăios pe acest drum deschis, așa că înfășurați-vă strâns cu fularul.",
-                "en": "Take a thoughtful pause at this tiny, historic chapel; the frosty winter wind can be extremely biting along this open, exposed road, so wrap your scarf tightly."
+                "en": "Take a thoughtful pause at this tiny, historic chapel; the frosty winter wind can be extremely biting along this open, exposed road, so wrap your scarf tightly.",
+                "fr": "Faites une pause réfléchie à cette petite chapelle historique ; le vent hivernal glacial peut être très mordant le long de cette route exposée, alors serrez bien votre écharpe."
               }
             },
             {
@@ -985,13 +1094,15 @@
                 "de": "Militärfriedhof Pont d'Achelles",
                 "hu": "Pont d'Achelles Katonai Temető",
                 "ro": "Cimitirul Militar Pont d'Achelles",
-                "en": "Pont d'Achelles Military Cemetery"
+                "en": "Pont d'Achelles Military Cemetery",
+                "fr": "Cimetière militaire du Pont d'Achelles"
               },
               "tip_5lang": {
                 "de": "Der gepflegte historische Friedhof ist im Winter tief ruhig; tragen Sie warme Schichten, wenn Sie aus Ihrem beheizten Auto in die extrem eisige Landluft steigen.",
                 "hu": "A gondosan karbantartott történelmi temető mélyen csendes télen; mindenképpen viseljen meleg rétegeket, amikor kiszáll a fűtött autóból a fagyos vidéki levegőre.",
                 "ro": "Cimitirul istoric este profund liniștit iarna; asigurați-vă că purtați straturi foarte calde când ieșiți din mașina încălzită în aerul înghețat al zonei rurale deschise.",
-                "en": "The meticulously kept historical cemetery is profoundly quiet in winter; ensure you wear very warm layers when stepping out of your heated car into the freezing country air."
+                "en": "The meticulously kept historical cemetery is profoundly quiet in winter; ensure you wear very warm layers when stepping out of your heated car into the freezing country air.",
+                "fr": "Le cimetière historique, méticuleusement entretenu, est profondément silencieux en hiver ; assurez-vous de porter des couches très chaudes lorsque vous sortez de votre voiture chauffée dans l'air glacé de la campagne."
               }
             },
             {
@@ -999,13 +1110,15 @@
                 "de": "Ferme des Orgues",
                 "hu": "Ferme des Orgues Múzeum",
                 "ro": "Ferme des Orgues",
-                "en": "Ferme des Orgues - Musée de la musique mécanique"
+                "en": "Ferme des Orgues - Musée de la musique mécanique",
+                "fr": "Ferme des Orgues - Musée de la musique mécanique"
               },
               "tip_5lang": {
                 "de": "Gehen Sie in das herrlich beheizte Museum, um die Musik zu genießen; eine perfekte, gemütliche Pause vom Winterfrost, bevor Sie Ihre nachmittägliche Autofahrt fortsetzen.",
                 "hu": "Térjen be a csodálatosan fűtött múzeumba élvezni a zenét; tökéletes, hangulatos szünet a téli hidegben, mielőtt folytatná a festői, zúzmarás délutáni kocsikázást.",
                 "ro": "Intrați în muzeul minunat încălzit pentru a vă bucura de muzică; este o pauză perfectă și confortabilă de la frigul iernii înainte de a continua drumul de după-amiază.",
-                "en": "Head inside the wonderfully heated museum to enjoy the music; it's a perfect cozy break from the winter chill before continuing your scenic, frost-covered afternoon drive."
+                "en": "Head inside the wonderfully heated museum to enjoy the music; it's a perfect cozy break from the winter chill before continuing your scenic, frost-covered afternoon drive.",
+                "fr": "Rendez-vous à l'intérieur du musée merveilleusement chauffé pour profiter de la musique ; c'est une pause chaleureuse parfaite contre le froid hivernal avant de poursuivre votre après-midi panoramique couvert de givre."
               }
             },
             {
@@ -1013,13 +1126,15 @@
                 "de": "Kirche Notre-Dame",
                 "hu": "Notre-Dame Templom",
                 "ro": "Biserica Notre-Dame",
-                "en": "Église Notre-Dame"
+                "en": "Église Notre-Dame",
+                "fr": "Église Notre-Dame"
               },
               "tip_5lang": {
                 "de": "Wärmen Sie sich in dieser wunderschönen historischen Kirche etwas auf; das klare, tief stehende Winterlicht, das magisch durch die Fenster fällt, ist atemberaubend.",
                 "hu": "Melegedjen fel kissé ebben a mélyen történelmi és gyönyörű templomban; a magas ablakokon varázslatosan átszűrődő éles, alacsony szögű téli fény igazán lenyűgöző.",
                 "ro": "Încălziți-vă puțin în această biserică istorică profundă și frumoasă; lumina clară de iarnă cu unghi redus, care filtrează magic prin ferestre, este uluitoare.",
-                "en": "Warm up slightly inside this deeply historic and beautiful church; the crisp, low-angled winter light filtering magically through the tall windows is truly stunning."
+                "en": "Warm up slightly inside this deeply historic and beautiful church; the crisp, low-angled winter light filtering magically through the tall windows is truly stunning.",
+                "fr": "Réchauffez-vous légèrement à l'intérieur de cette église profondément historique et belle ; la lumière hivernale rasante et nette filtrant par les hautes fenêtres est vraiment magnifique."
               }
             },
             {
@@ -1027,13 +1142,15 @@
                 "de": "Erweiterung des Friedhofs von Nieppe",
                 "hu": "Nieppe Községi Temető Bővítése",
                 "ro": "Extensia Cimitirului Comunal Nieppe",
-                "en": "Nieppe Communal Cemetery Extension"
+                "en": "Nieppe Communal Cemetery Extension",
+                "fr": "Extension du cimetière communal de Nieppe"
               },
               "tip_5lang": {
                 "de": "Erweisen Sie an den Kriegsgräbern die Ehre, wenn die frühe Winterdämmerung gegen 17 Uhr hereinbricht; packen Sie sich dick gegen die offene Kälte der Felder ein.",
                 "hu": "Rója le tiszteletét a katonasíroknál, ahogy a korai téli szürkület 17 óra körül leszáll; öltözzön be alaposan a sík mezők felől érkező metsző, nyílt hideg ellen.",
                 "ro": "Aduceți un omagiu la mormintele de război când amurgul de iarnă cade în jurul orei 17; înfofoliți-vă bine împotriva frigului sever deschis de pe câmpurile plate.",
-                "en": "Pay your respects at the war graves as the early winter dusk falls around 5 PM; bundle up thoroughly against the severe open cold coming directly from the flat fields."
+                "en": "Pay your respects at the war graves as the early winter dusk falls around 5 PM; bundle up thoroughly against the severe open cold coming directly from the flat fields.",
+                "fr": "Rendez hommage aux tombes de guerre alors que la tombée précoce du soir d'hiver survient vers 17 h ; emmitouflez-vous bien contre le froid vif venu directement des champs plats."
               }
             }
           ]

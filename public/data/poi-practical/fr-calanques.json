@@ -3,55 +3,64 @@
     "de": "Parc national des Calanques, 13009 Marseille",
     "hu": "Parc national des Calanques, 13009 Marseille",
     "ro": "Parc national des Calanques, 13009 Marsilia",
-    "en": "Parc national des Calanques, 13009 Marseille"
+    "en": "Parc national des Calanques, 13009 Marseille",
+    "fr": "Parc national des Calanques, 13009 Marseille"
   },
   "openingHours": {
     "de": "24/7",
     "hu": "0-24 óráig",
     "ro": "24/7",
-    "en": "24/7"
+    "en": "24/7",
+    "fr": "24/7"
   },
   "entranceFee": {
     "de": "free",
     "hu": "ingyenes",
     "ro": "gratuit",
-    "en": "free"
+    "en": "free",
+    "fr": "gratuit"
   },
   "website": "http://www.calanques-parcnational.fr",
   "publicTransport": {
     "de": "Bus 21 (Luminy) oder 24 ab Metro Dromel in Marseille",
     "hu": "21-es busz (Luminy) vagy 24-es a marseille-i Dromel metróállomástól",
     "ro": "Autobuzul 21 (Luminy) sau 24 de la stația de metrou Dromel din Marsilia",
-    "en": "Bus 21 (Luminy) or 24 from Metro Dromel in Marseille"
+    "en": "Bus 21 (Luminy) or 24 from Metro Dromel in Marseille",
+    "fr": "Bus 21 (Luminy) ou 24 depuis le métro Dromel à Marseille"
   },
   "parking": {
     "de": "Parkplatz Luminy, oft ab 9 Uhr morgens vollständig belegt",
     "hu": "Luminy parkoló, reggel 9 óra után gyakran már teljesen megtelik",
     "ro": "Parcarea Luminy, adesea complet ocupată după ora 9 dimineața",
-    "en": "Luminy parking lot, often completely full after 9 AM"
+    "en": "Luminy parking lot, often completely full after 9 AM",
+    "fr": "Parking de Luminy, souvent complet après 9 h"
   },
   "accessibility": {
     "de": "Nicht rollstuhlgerecht, steile und steinige Wanderwege erforderlich",
     "hu": "Nem akadálymentesített, meredek és köves túraútvonalakra kell készülni",
     "ro": "Nu este accesibil pentru scaune cu rotile, necesită trasee de drumeție abrupte și stâncoase",
-    "en": "Not wheelchair accessible, requires steep and rocky hiking trails"
+    "en": "Not wheelchair accessible, requires steep and rocky hiking trails",
+    "fr": "Non accessible en fauteuil, nécessite des sentiers raides et rocheux"
   },
   "photoRules": {
     "de": "Frei erlaubt, Naturschutzregeln für Drohnen beachten",
     "hu": "Szabadon engedélyezett, drónok használatánál a természetvédelmi szabályok betartása kötelező",
     "ro": "Permis liber, respectați regulile de protecție a naturii pentru drone",
-    "en": "Freely permitted, observe nature conservation rules for drones"
+    "en": "Freely permitted, observe nature conservation rules for drones",
+    "fr": "Libre mais respectez les règles de protection de la nature pour les drones"
   },
   "bestTimeToVisit": {
     "de": "Frühling oder Herbst; im Sommer oft Sperrung wegen Brandgefahr",
     "hu": "Tavasz vagy ősz; nyáron gyakran lezárják a tűzveszély miatt",
     "ro": "Primăvara sau toamna; vara este adesea închis din cauza riscului de incendiu",
-    "en": "Spring or autumn; often closed in summer due to fire risk"
+    "en": "Spring or autumn; often closed in summer due to fire risk",
+    "fr": "Printemps ou automne ; souvent fermé en été en raison du risque d’incendie"
   },
   "audioGuide": {
     "de": "no",
     "hu": "nincs",
     "ro": "nu",
-    "en": "no"
+    "en": "no",
+    "fr": "non"
   }
 }

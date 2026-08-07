@@ -21,7 +21,8 @@
             "de": "Bahnhof Limoges-Bénédictins",
             "hu": "Gare de Limoges-Bénédictins vasútállomás",
             "ro": "Gara Limoges-Bénédictins",
-            "en": "Gare de Limoges-Bénédictins"
+            "en": "Gare de Limoges-Bénédictins",
+            "fr": "Gare de Limoges-Bénédictins"
           },
           "coords": [
             1.267,
@@ -36,7 +37,8 @@
             "de": "Bewundern Sie die Kuppel und den Glockenturm dieses architektonischen Juwels.",
             "hu": "Csodáld meg a kupolát és a harangtornyot ebben az építészeti ékszerdobozban.",
             "ro": "Admirați cupola și turnul cu ceas al acestei bijuterii arhitecturale.",
-            "en": "Admire the dome and the bell tower of this architectural jewel."
+            "en": "Admire the dome and the bell tower of this architectural jewel.",
+            "fr": "Admirez le dôme et le clocher de ce joyau architectural."
           }
         },
         {
@@ -44,7 +46,8 @@
             "de": "Cour du Temple",
             "hu": "Cour du Temple udvar",
             "ro": "Cour du Temple",
-            "en": "Cour du Temple"
+            "en": "Cour du Temple",
+            "fr": "Cour du Temple"
           },
           "coords": [
             1.258,
@@ -59,7 +62,8 @@
             "de": "Ein versteckter Innenhof mit wunderschönen Renaissance-Arkaden.",
             "hu": "Egy rejtett udvar gyönyörű reneszánsz árkádokkal.",
             "ro": "O curte interioară ascunsă, cu arcade renascentiste superbe.",
-            "en": "A hidden courtyard with beautiful Renaissance arcades."
+            "en": "A hidden courtyard with beautiful Renaissance arcades.",
+            "fr": "Une cour cachée avec de belles arcades Renaissance."
           }
         },
         {
@@ -67,7 +71,8 @@
             "de": "Quartier de la Boucherie",
             "hu": "Mészárosok negyede",
             "ro": "Cartierul Boucherie",
-            "en": "Quartier de la Boucherie"
+            "en": "Quartier de la Boucherie",
+            "fr": "Quartier de la Boucherie"
           },
           "coords": [
             1.257,
@@ -82,7 +87,8 @@
             "de": "Fachwerkhäuser und die kleine Kapelle St-Aurélien prägen dieses Viertel.",
             "hu": "Fagerendás házak és a Szent Aurélien kápolna jellemzi ezt a negyedet.",
             "ro": "Case cu pereți de lemn și capela St-Aurélien definesc acest cartier.",
-            "en": "Half-timbered houses and the St-Aurélien chapel define this district."
+            "en": "Half-timbered houses and the St-Aurélien chapel define this district.",
+            "fr": "Maisons à colombages et chapelle Saint-Aurélien caractérisent ce quartier."
           }
         },
         {
@@ -90,7 +96,8 @@
             "de": "Kathedrale Saint-Étienne",
             "hu": "Szent István-székesegyház",
             "ro": "Catedrala Saint-Étienne",
-            "en": "Cathédrale Saint-Étienne"
+            "en": "Cathédrale Saint-Étienne",
+            "fr": "Cathédrale Saint-Étienne"
           },
           "coords": [
             1.267,
@@ -105,7 +112,8 @@
             "de": "Besichtigen Sie den Lettner aus der Renaissance im Inneren.",
             "hu": "Nézd meg a reneszánsz szentélyrekesztőt a belső térben.",
             "ro": "Vizitați amvonul renascentist din interiorul catedralei.",
-            "en": "Visit the Renaissance rood screen inside the cathedral."
+            "en": "Visit the Renaissance rood screen inside the cathedral.",
+            "fr": "Visitez le jubé Renaissance à l'intérieur de la cathédrale."
           }
         },
         {
@@ -113,7 +121,8 @@
             "de": "Museum der Résistance",
             "hu": "Ellenállási Múzeum",
             "ro": "Muzeul Rezistenței",
-            "en": "Musée de la Résistance"
+            "en": "Musée de la Résistance",
+            "fr": "Musée de la Résistance"
           },
           "coords": [
             1.266,
@@ -128,7 +137,8 @@
             "de": "Erfahren Sie mehr über die mutige Rolle der Region im Zweiten Weltkrieg.",
             "hu": "Ismerd meg a régió bátor szerepét a második világháborúban.",
             "ro": "Aflați despre rolul curajos al regiunii în Al Doilea Război Mondial.",
-            "en": "Learn about the region's brave role during World War II."
+            "en": "Learn about the region's brave role during World War II.",
+            "fr": "Découvrez le rôle courageux de la région pendant la Seconde Guerre mondiale."
           }
         },
         {
@@ -136,7 +146,8 @@
             "de": "Gärten des Bistums",
             "hu": "Püspöki kertek",
             "ro": "Grădinile Évêché",
-            "en": "Jardins de l'Évêché"
+            "en": "Jardins de l'Évêché",
+            "fr": "Jardins de l'Évêché"
           },
           "coords": [
             1.268,
@@ -151,7 +162,8 @@
             "de": "Terrassengärten mit Blick auf die Vienne – perfekt für eine Pause.",
             "hu": "Teraszos kertek kilátással a Vienne-re – tökéletes egy pihenőhöz.",
             "ro": "Grădini terasate cu vedere la Vienne – perfecte pentru o pauză.",
-            "en": "Terraced gardens with views over the Vienne – perfect for a break."
+            "en": "Terraced gardens with views over the Vienne – perfect for a break.",
+            "fr": "Jardins en terrasses avec vue sur la Vienne – parfaits pour une pause."
           }
         }
       ],
@@ -159,7 +171,8 @@
         "de": "Morgens bestaunen wir den prächtigen Bahnhof, ein Wahrzeichen der Stadt. Danach schlendern wir durch die engen Gassen des historischen Zentrums bis zum Cour du Temple. Mittags erkunden wir das malerische Quartier de la Boucherie mit seinen traditionellen Fachwerkhäusern. Der Nachmittag gehört der imposanten gotischen Kathedrale und den friedlichen Gärten des Bistums über dem Fluss.",
         "hu": "Reggel a város jelképének számító, lenyűgöző vasútállomással kezdünk. Ezután a történelmi központ szűk utcáin sétálunk a Cour du Temple udvaráig. Délben a hangulatos Mészárosok negyedét fedezzük fel, ahol megmaradt a középkori hangulat. A délutánt az impozáns gótikus székesegyháznak és a folyó felett elterülő békés püspöki kerteknek szenteljük.",
         "ro": "Dimineața admirăm gara magnifică, un simbol al orașului. Apoi ne plimbăm pe străzile înguste ale centrului istoric până la Cour du Temple. La prânz explorăm pitorescul cartier Boucherie, cu casele sale tradiționale din lemn. După-amiaza este dedicată impunătoarei catedrale gotice și liniștitulor grădini ale episcopiei, situate deasupra râului.",
-        "en": "In the morning, we marvel at the magnificent railway station, a landmark of the city. Then we stroll through the narrow streets of the historic center to Cour du Temple. At midday, we explore the picturesque Quartier de la Boucherie with its traditional half-timbered houses. The afternoon is dedicated to the imposing Gothic cathedral and the peaceful Bishop's Gardens overlooking the river."
+        "en": "In the morning, we marvel at the magnificent railway station, a landmark of the city. Then we stroll through the narrow streets of the historic center to Cour du Temple. At midday, we explore the picturesque Quartier de la Boucherie with its traditional half-timbered houses. The afternoon is dedicated to the imposing Gothic cathedral and the peaceful Bishop's Gardens overlooking the river.",
+        "fr": "Le matin, nous admirons la magnifique gare, symbole de la ville. Ensuite, nous flânons dans les ruelles du centre historique jusqu'à la Cour du Temple. À midi, nous explorons le pittoresque Quartier de la Boucherie avec ses maisons à colombages. L'après-midi est consacré à la cathédrale gothique imposante et aux paisibles Jardins de l'Évêché dominant la rivière."
       },
       "gastro_picks": {
         "de": [
@@ -315,6 +328,11 @@
           "Limoges is quite hilly, so wear comfortable walking shoes.",
           "Most porcelain factories are located slightly outside the city center.",
           "Many museums and small shops are closed on Mondays."
+        ],
+        "fr": [
+          "Limoges est assez vallonnée, pensez à porter des chaussures de marche confortables.",
+          "La plupart des manufactures de porcelaine se trouvent un peu en dehors du centre-ville.",
+          "De nombreux musées et petites boutiques sont fermés le lundi."
         ]
       }
     },
@@ -331,7 +349,8 @@
             "de": "Bahnhof Limoges-Bénédictins",
             "hu": "Gare de Limoges-Bénédictins",
             "ro": "Gara Bénédictins",
-            "en": "Gare de Limoges-Bénédictins"
+            "en": "Gare de Limoges-Bénédictins",
+            "fr": "Gare de Limoges-Bénédictins"
           },
           "coords": [
             1.267,
@@ -346,7 +365,8 @@
             "de": "Startpunkt an einem der schönsten Bahnhöfe Frankreichs.",
             "hu": "Kezdőpont Franciaország egyik legszebb állomásánál.",
             "ro": "Punct de plecare la una dintre cele mai frumoase gări din Franța.",
-            "en": "Starting point at one of France's most beautiful stations."
+            "en": "Starting point at one of France's most beautiful stations.",
+            "fr": "Point de départ à l'une des plus belles gares de France."
           }
         },
         {
@@ -354,7 +374,8 @@
             "de": "Porzellanmuseum Adrien Dubouché",
             "hu": "Adrien Dubouché Porcelánmúzeum",
             "ro": "Muzeul Național Adrien Dubouché",
-            "en": "Musée National Adrien Dubouché"
+            "en": "Musée National Adrien Dubouché",
+            "fr": "Musée National Adrien Dubouché"
           },
           "coords": [
             1.251,
@@ -369,7 +390,8 @@
             "de": "Die weltweit bedeutendste Sammlung von Limoges-Porzellan.",
             "hu": "A világ legjelentősebb limoges-i porcelángyűjteménye.",
             "ro": "Cea mai importantă colecție de porțelan de Limoges din lume.",
-            "en": "The world's most significant collection of Limoges porcelain."
+            "en": "The world's most significant collection of Limoges porcelain.",
+            "fr": "La plus importante collection mondiale de porcelaine de Limoges."
           }
         },
         {
@@ -377,7 +399,8 @@
             "de": "Cour du Temple",
             "hu": "Cour du Temple",
             "ro": "Cour du Temple",
-            "en": "Cour du Temple"
+            "en": "Cour du Temple",
+            "fr": "Cour du Temple"
           },
           "coords": [
             1.258,
@@ -392,7 +415,8 @@
             "de": "Fahrrad abstellen und den Renaissance-Hof zu Fuß erkunden.",
             "hu": "Tedd le a biciklit és fedezd fel a reneszánsz udvart gyalog.",
             "ro": "Parcați bicicleta și explorați curtea renascentistă la pas.",
-            "en": "Park your bike and explore the Renaissance courtyard on foot."
+            "en": "Park your bike and explore the Renaissance courtyard on foot.",
+            "fr": "Garez votre vélo et explorez la cour Renaissance à pied."
           }
         },
         {
@@ -400,7 +424,8 @@
             "de": "Quartier de la Boucherie",
             "hu": "Mészárosok negyede",
             "ro": "Cartierul Boucherie",
-            "en": "Quartier de la Boucherie"
+            "en": "Quartier de la Boucherie",
+            "fr": "Quartier de la Boucherie"
           },
           "coords": [
             1.257,
@@ -415,7 +440,8 @@
             "de": "Ein Muss für Geschichtsliebhaber im Stadtzentrum.",
             "hu": "Történelemkedvelőknek kötelező látnivaló a városközpontban.",
             "ro": "O vizită obligatorie pentru iubitorii de istorie din centrul orașului.",
-            "en": "A must-visit for history lovers in the city center."
+            "en": "A must-visit for history lovers in the city center.",
+            "fr": "Incontournable pour les amateurs d'histoire au centre-ville."
           }
         },
         {
@@ -423,7 +449,8 @@
             "de": "Sankt-Martial-Brücke",
             "hu": "Szent Martial híd",
             "ro": "Podul Saint-Martial",
-            "en": "Pont Saint-Martial"
+            "en": "Pont Saint-Martial",
+            "fr": "Pont Saint-Martial"
           },
           "coords": [
             1.26,
@@ -438,7 +465,8 @@
             "de": "Diese Brücke steht auf den Fundamenten einer römischen Brücke.",
             "hu": "Ez a híd egy római kori híd alapjaira épült.",
             "ro": "Acest pod este construit pe fundațiile unui pod roman.",
-            "en": "This bridge is built on the foundations of a Roman bridge."
+            "en": "This bridge is built on the foundations of a Roman bridge.",
+            "fr": "Ce pont est bâti sur les fondations d'un pont romain."
           }
         },
         {
@@ -446,7 +474,8 @@
             "de": "Kathedrale Saint-Étienne",
             "hu": "Szent István-székesegyház",
             "ro": "Catedrala Saint-Étienne",
-            "en": "Cathédrale Saint-Étienne"
+            "en": "Cathédrale Saint-Étienne",
+            "fr": "Cathédrale Saint-Étienne"
           },
           "coords": [
             1.267,
@@ -461,7 +490,8 @@
             "de": "Bewundern Sie die gotische Architektur am Flussufer.",
             "hu": "Csodáld meg a gótikus építészetet a folyóparton.",
             "ro": "Admirați arhitectura gotică de pe malul râului.",
-            "en": "Admire the Gothic architecture on the riverbank."
+            "en": "Admire the Gothic architecture on the riverbank.",
+            "fr": "Admirez l'architecture gothique sur les rives."
           }
         },
         {
@@ -469,7 +499,8 @@
             "de": "Museum der Résistance",
             "hu": "Ellenállási Múzeum",
             "ro": "Muzeul Rezistenței",
-            "en": "Musée de la Résistance"
+            "en": "Musée de la Résistance",
+            "fr": "Musée de la Résistance"
           },
           "coords": [
             1.266,
@@ -484,7 +515,8 @@
             "de": "Ein bewegendes Museum in einem alten Klostergebäude.",
             "hu": "Megható múzeum egy régi kolostorépületben.",
             "ro": "Un muzeu emoționant într-o veche clădire monahală.",
-            "en": "A moving museum housed in an old convent building."
+            "en": "A moving museum housed in an old convent building.",
+            "fr": "Un musée émouvant installé dans un ancien couvent."
           }
         },
         {
@@ -492,7 +524,8 @@
             "de": "Gärten des Bistums",
             "hu": "Püspöki kertek",
             "ro": "Grădinile Évêché",
-            "en": "Jardins de l'Évêché"
+            "en": "Jardins de l'Évêché",
+            "fr": "Jardins de l'Évêché"
           },
           "coords": [
             1.268,
@@ -507,7 +540,8 @@
             "de": "Genießen Sie den weiten Blick über das Vienne-Tal.",
             "hu": "Élvezd a tágas kilátást a Vienne völgyére.",
             "ro": "Bucurați-vă de priveliștea largă asupra văii Vienne.",
-            "en": "Enjoy the expansive views over the Vienne valley."
+            "en": "Enjoy the expansive views over the Vienne valley.",
+            "fr": "Profitez des vastes vues sur la vallée de la Vienne."
           }
         }
       ],
@@ -515,7 +549,8 @@
         "de": "Mit dem Fahrrad erkunden wir heute die Porzellanstadt Limoges großräumiger. Nach dem architektonischen Start am Bahnhof besuchen wir das weltberühmte Porzellanmuseum. Mittags radeln wir durch die Altstadt und überqueren die historische Brücke Saint-Martial. Der Tag endet entspannt am Cité-Hügel bei der Kathedrale und den terrassierten Gärten des Bistums.",
         "hu": "Biciklivel ma tágabb körben fedezzük fel a porcelán városát. Az állomástól indulva meglátogatjuk a világhírű porcelánmúzeumot. Délben az óvárosban tekerünk, majd átkelünk a történelmi Szent Martial hídon. A napot a Cité-dombon zárjuk a székesegyház és a teraszos püspöki kertek mellett.",
         "ro": "Cu bicicleta explorăm astăzi orașul porțelanului într-un mod mai amplu. După startul de la gară, vizităm celebrul muzeu al porțelanului. La prânz pedalăm prin orașul vechi și traversăm podul istoric Saint-Martial. Ziua se încheie relaxat pe dealul Cité, lângă catedrală și grădinile terasate ale episcopiei.",
-        "en": "By bike, we explore the porcelain city of Limoges more extensively today. After the architectural start at the station, we visit the world-famous porcelain museum. At midday, we cycle through the old town and cross the historic Saint-Martial bridge. The day ends relaxingly on the Cité hill by the cathedral and the terraced Bishop's Gardens."
+        "en": "By bike, we explore the porcelain city of Limoges more extensively today. After the architectural start at the station, we visit the world-famous porcelain museum. At midday, we cycle through the old town and cross the historic Saint-Martial bridge. The day ends relaxingly on the Cité hill by the cathedral and the terraced Bishop's Gardens.",
+        "fr": "À vélo, nous explorons plus largement la cité de la porcelaine aujourd'hui. Après le départ architectural à la gare, nous visitons le célèbre musée de la porcelaine. À midi, nous traversons la vieille ville et le pont historique Saint-Martial. La journée se termine en détente sur la colline de la Cité, près de la cathédrale et des Jardins de l'Évêché en terrasses."
       },
       "gastro_picks": {
         "de": [
@@ -635,6 +670,11 @@
           "Use the Vélolim rental bikes for your excursion.",
           "The riverside promenade of the Vienne is ideal for cycling.",
           "Caution: cobblestones in the old town can be slippery."
+        ],
+        "fr": [
+          "Utilisez les vélos de location Vélolim pour votre excursion.",
+          "La promenade le long de la Vienne est idéale pour le vélo.",
+          "Attention : les pavés du vieux centre peuvent être glissants."
         ]
       }
     },
@@ -651,7 +691,8 @@
             "de": "Bahnhof Limoges-Bénédictins",
             "hu": "Gare de Limoges-Bénédictins",
             "ro": "Gara Bénédictins",
-            "en": "Gare de Limoges-Bénédictins"
+            "en": "Gare de Limoges-Bénédictins",
+            "fr": "Gare de Limoges-Bénédictins"
           },
           "coords": [
             1.267,
@@ -666,7 +707,8 @@
             "de": "Parken Sie direkt am Bahnhof, um das Bauwerk zu besichtigen.",
             "hu": "Parkolj közvetlenül az állomásnál az épület megtekintéséhez.",
             "ro": "Parcați direct la gară pentru a vizita clădirea.",
-            "en": "Park directly at the station to visit the building."
+            "en": "Park directly at the station to visit the building.",
+            "fr": "Garez-vous directement à la gare pour visiter le bâtiment."
           }
         },
         {
@@ -674,7 +716,8 @@
             "de": "Porzellanmuseum Adrien Dubouché",
             "hu": "Adrien Dubouché Porcelánmúzeum",
             "ro": "Muzeul Național Adrien Dubouché",
-            "en": "Musée National Adrien Dubouché"
+            "en": "Musée National Adrien Dubouché",
+            "fr": "Musée National Adrien Dubouché"
           },
           "coords": [
             1.251,
@@ -689,7 +732,8 @@
             "de": "Cluster 1: Kunst und Industrie im westlichen Teil.",
             "hu": "1. klaszter: Művészet és ipar a nyugati részen.",
             "ro": "Cluster 1: Artă și industrie în partea de vest.",
-            "en": "Cluster 1: Art and industry in the western part."
+            "en": "Cluster 1: Art and industry in the western part.",
+            "fr": "Cluster 1 : Art et industrie dans la partie occidentale."
           }
         },
         {
@@ -697,7 +741,8 @@
             "de": "Quartier de la Boucherie",
             "hu": "Mészárosok negyede",
             "ro": "Cartierul Boucherie",
-            "en": "Quartier de la Boucherie"
+            "en": "Quartier de la Boucherie",
+            "fr": "Quartier de la Boucherie"
           },
           "coords": [
             1.257,
@@ -712,7 +757,8 @@
             "de": "Cluster 2: Parken Sie im Parkhaus Place de la Motte.",
             "hu": "2. klaszter: Parkolj a Place de la Motte parkolóházban.",
             "ro": "Cluster 2: Parcați în parcarea Place de la Motte.",
-            "en": "Cluster 2: Park in the Place de la Motte car park."
+            "en": "Cluster 2: Park in the Place de la Motte car park.",
+            "fr": "Cluster 2 : Parc dans le parking Place de la Motte."
           }
         },
         {
@@ -720,7 +766,8 @@
             "de": "Cour du Temple",
             "hu": "Cour du Temple",
             "ro": "Cour du Temple",
-            "en": "Cour du Temple"
+            "en": "Cour du Temple",
+            "fr": "Cour du Temple"
           },
           "coords": [
             1.258,
@@ -735,7 +782,8 @@
             "de": "Nur 2 Minuten Fußweg von der Boucherie entfernt.",
             "hu": "Csak 2 perc séta a Boucherie negyedtől.",
             "ro": "La doar 2 minute de mers pe jos de Boucherie.",
-            "en": "Just a 2-minute walk from the Boucherie district."
+            "en": "Just a 2-minute walk from the Boucherie district.",
+            "fr": "À seulement 2 minutes à pied du quartier de la Boucherie."
           }
         },
         {
@@ -743,7 +791,8 @@
             "de": "Kathedrale Saint-Étienne",
             "hu": "Szent István-székesegyház",
             "ro": "Catedrala Saint-Étienne",
-            "en": "Cathédrale Saint-Étienne"
+            "en": "Cathédrale Saint-Étienne",
+            "fr": "Cathédrale Saint-Étienne"
           },
           "coords": [
             1.267,
@@ -758,7 +807,8 @@
             "de": "Cluster 3: Der Cité-Bezirk am Flussufer.",
             "hu": "3. klaszter: A folyóparti Cité negyed.",
             "ro": "Cluster 3: Districtul Cité de pe malul râului.",
-            "en": "Cluster 3: The Cité district by the riverside."
+            "en": "Cluster 3: The Cité district by the riverside.",
+            "fr": "Cluster 3 : Le quartier de la Cité au bord de la rivière."
           }
         },
         {
@@ -766,7 +816,8 @@
             "de": "Gärten des Bistums",
             "hu": "Püspöki kertek",
             "ro": "Grădinile Évêché",
-            "en": "Jardins de l'Évêché"
+            "en": "Jardins de l'Évêché",
+            "fr": "Jardins de l'Évêché"
           },
           "coords": [
             1.268,
@@ -781,7 +832,8 @@
             "de": "Spaziergang durch die Gärten direkt nach der Kathedrale.",
             "hu": "Séta a kertekben közvetlenül a katedrális után.",
             "ro": "Plimbare prin grădini imediat după vizitarea catedralei.",
-            "en": "Walk through the gardens immediately after the cathedral."
+            "en": "Walk through the gardens immediately after the cathedral.",
+            "fr": "Parcourez les jardins immédiatement après la cathédrale."
           }
         }
       ],
@@ -789,7 +841,8 @@
         "de": "Dank des Autos verbinden wir heute die verschiedenen Stadtteile von Limoges mühelos. Wir beginnen im Norden am Bahnhof und fahren dann zum Porzellanmuseum. Mittags parken wir im Zentrum, um die mittelalterliche Altstadt zu Fuß zu erkunden. Den Abschluss bildet der Cité-Bezirk mit der prächtigen Kathedrale und den terrassierten botanischen Gärten direkt an der Vienne.",
         "hu": "Az autónak köszönhetően ma könnyedén összekötjük Limoges különböző városnegyedeit. Északon kezdünk az állomásnál, majd a porcelánmúzeumhoz hajtunk. Délben a központban parkolunk, hogy gyalog fedezzük fel a középkori óvárost. A napot a Cité negyed zárja a pompás székesegyházzal és a közvetlenül a Vienne partján elterülő botanikus kertekkel.",
         "ro": "Datorită mașinii, conectăm astăzi fără efort diferitele cartiere din Limoges. Începem în nord, la gară, apoi conducem către muzeul porțelanului. La prânz parcăm în centru pentru a explora orașul vechi medieval la pas. Finalul aparține districtului Cité, cu catedrala sa magnifică și grădinile botanice terasate de pe malul Viennei.",
-        "en": "Thanks to the car, we easily connect the different districts of Limoges today. We start in the north at the station and then drive to the porcelain museum. At midday, we park in the center to explore the medieval old town on foot. The trip concludes in the Cité district with the magnificent cathedral and the terraced botanical gardens right on the Vienne."
+        "en": "Thanks to the car, we easily connect the different districts of Limoges today. We start in the north at the station and then drive to the porcelain museum. At midday, we park in the center to explore the medieval old town on foot. The trip concludes in the Cité district with the magnificent cathedral and the terraced botanical gardens right on the Vienne.",
+        "fr": "Grâce à la voiture, nous relions facilement aujourd'hui les différents quartiers de Limoges. Nous commençons au nord à la gare puis roulons vers le musée de la porcelaine. À midi, nous nous garons au centre pour explorer la vieille ville médiévale à pied. Le trajet se termine dans le quartier de la Cité avec la magnifique cathédrale et les jardins botaniques en terrasses au bord de la Vienne."
       },
       "gastro_picks": {
         "de": [
@@ -893,6 +946,11 @@
           "The 'Place de la Motte' car park is ideal for the center.",
           "Avoid rush hour around Place Jourdan.",
           "Parking spaces at the cathedral are often limited."
+        ],
+        "fr": [
+          "Le parking « Place de la Motte » est idéal pour le centre.",
+          "Évitez les heures de pointe autour de la Place Jourdan.",
+          "Les places de stationnement à la cathédrale sont souvent limitées."
         ]
       }
     },
@@ -909,7 +967,8 @@
             "de": "Bahnhof Limoges-Bénédictins",
             "hu": "Gare de Limoges-Bénédictins",
             "ro": "Gara Bénédictins",
-            "en": "Gare de Limoges-Bénédictins"
+            "en": "Gare de Limoges-Bénédictins",
+            "fr": "Gare de Limoges-Bénédictins"
           },
           "coords": [
             1.267,
@@ -924,7 +983,8 @@
             "de": "Der zentrale Knotenpunkt des Nahverkehrs.",
             "hu": "A tömegközlekedés központi csomópontja.",
             "ro": "Nodul central al transportului public.",
-            "en": "The central hub of public transport."
+            "en": "The central hub of public transport.",
+            "fr": "Le nœud central des transports en commun."
           }
         },
         {
@@ -932,7 +992,8 @@
             "de": "Porzellanmuseum Adrien Dubouché",
             "hu": "Adrien Dubouché Porcelánmúzeum",
             "ro": "Muzeul Național Adrien Dubouché",
-            "en": "Musée National Adrien Dubouché"
+            "en": "Musée National Adrien Dubouché",
+            "fr": "Musée National Adrien Dubouché"
           },
           "coords": [
             1.251,
@@ -947,7 +1008,8 @@
             "de": "Mit dem Trolleybus Linie 1 direkt erreichbar.",
             "hu": "Az 1-es trolibusszal közvetlenül elérhető.",
             "ro": "Accesibil direct cu troleibuzul linia 1.",
-            "en": "Directly accessible via trolleybus line 1."
+            "en": "Directly accessible via trolleybus line 1.",
+            "fr": "Accessible directement via la ligne de trolleybus 1."
           }
         },
         {
@@ -955,7 +1017,8 @@
             "de": "Cour du Temple",
             "hu": "Cour du Temple",
             "ro": "Cour du Temple",
-            "en": "Cour du Temple"
+            "en": "Cour du Temple",
+            "fr": "Cour du Temple"
           },
           "coords": [
             1.258,
@@ -970,7 +1033,8 @@
             "de": "Kurzer Fußweg von der Haltestelle Place Winston Churchill.",
             "hu": "Rövid séta a Place Winston Churchill megállótól.",
             "ro": "Scurtă plimbare de la stația Place Winston Churchill.",
-            "en": "Short walk from the Place Winston Churchill stop."
+            "en": "Short walk from the Place Winston Churchill stop.",
+            "fr": "À une courte distance à pied de l'arrêt Place Winston Churchill."
           }
         },
         {
@@ -978,7 +1042,8 @@
             "de": "Quartier de la Boucherie",
             "hu": "Mészárosok negyede",
             "ro": "Cartierul Boucherie",
-            "en": "Quartier de la Boucherie"
+            "en": "Quartier de la Boucherie",
+            "fr": "Quartier de la Boucherie"
           },
           "coords": [
             1.257,
@@ -993,7 +1058,8 @@
             "de": "Zentraler Bereich, ideal zum zu Fuß erkunden.",
             "hu": "Központi terület, ideális gyalogos felfedezéshez.",
             "ro": "Zonă centrală, ideală pentru explorare la pas.",
-            "en": "Central area, ideal for exploring on foot."
+            "en": "Central area, ideal for exploring on foot.",
+            "fr": "Secteur central, idéal pour explorer à pied."
           }
         },
         {
@@ -1001,7 +1067,8 @@
             "de": "Kathedrale Saint-Étienne",
             "hu": "Szent István-székesegyház",
             "ro": "Catedrala Saint-Étienne",
-            "en": "Cathédrale Saint-Étienne"
+            "en": "Cathédrale Saint-Étienne",
+            "fr": "Cathédrale Saint-Étienne"
           },
           "coords": [
             1.267,
@@ -1016,7 +1083,8 @@
             "de": "Nehmen Sie den Bus zum Viertel 'Cité'.",
             "hu": "Szállj buszra a 'Cité' negyed felé.",
             "ro": "Luați autobuzul către cartierul 'Cité'.",
-            "en": "Take the bus to the 'Cité' district."
+            "en": "Take the bus to the 'Cité' district.",
+            "fr": "Prenez le bus jusqu'au quartier de la « Cité »."
           }
         },
         {
@@ -1024,7 +1092,8 @@
             "de": "Gärten des Bistums",
             "hu": "Püspöki kertek",
             "ro": "Grădinile Évêché",
-            "en": "Jardins de l'Évêché"
+            "en": "Jardins de l'Évêché",
+            "fr": "Jardins de l'Évêché"
           },
           "coords": [
             1.268,
@@ -1039,7 +1108,8 @@
             "de": "Entspannung pur am Ende der Tour.",
             "hu": "Tiszta pihenés a túra végén.",
             "ro": "Relaxare pură la finalul turului.",
-            "en": "Pure relaxation at the end of the tour."
+            "en": "Pure relaxation at the end of the tour.",
+            "fr": "Pure détente à la fin de la visite."
           }
         }
       ],
@@ -1047,7 +1117,8 @@
         "de": "Mit den berühmten Trolleybussen von Limoges erleben wir die Stadt wie die Einheimischen. Vom prachtvollen Bahnhof fahren wir bequem zum Porzellanmuseum. Mittags erkunden wir die Altstadt rund um die Boucherie, die gut an das Busnetz angebunden ist. Den Nachmittag verbringen wir im Cité-Viertel bei der Kathedrale und den terrassierten Gärten direkt am Fluss.",
         "hu": "Limoges híres trolibuszaival úgy élhetjük át a várost, mint a helyiek. A pompás állomástól kényelmesen utazunk a porcelánmúzeumhoz. Délben a Boucherie környéki óvárost fedezzük fel, amely jól kapcsolódik a buszhálózathoz. A délutánt a Cité negyedben töltjük a székesegyháznál és a közvetlenül a folyó partján fekvő teraszos kertekben.",
         "ro": "Cu faimoasele troleibuze din Limoges, experimentăm orașul ca localnicii. De la gara splendidă, mergem confortabil la muzeul porțelanului. La prânz explorăm orașul vechi din jurul Boucherie, bine conectat la rețeaua de autobuze. După-amiaza o petrecem în cartierul Cité, lângă catedrală și grădinile terasate de pe malul râului.",
-        "en": "With Limoges' famous trolleybuses, we experience the city like the locals. From the splendid station, we travel comfortably to the porcelain museum. At midday, we explore the old town around the Boucherie district, which is well-connected to the bus network. The afternoon is spent in the Cité district by the cathedral and the terraced gardens right by the river."
+        "en": "With Limoges' famous trolleybuses, we experience the city like the locals. From the splendid station, we travel comfortably to the porcelain museum. At midday, we explore the old town around the Boucherie district, which is well-connected to the bus network. The afternoon is spent in the Cité district by the cathedral and the terraced gardens right by the river.",
+        "fr": "Avec les célèbres trolleybus de Limoges, nous découvrons la ville comme les locaux. Depuis la splendide gare, nous voyageons confortablement jusqu'au musée de la porcelaine. À midi, nous explorons la vieille ville autour du quartier de la Boucherie, bien desservi par le réseau de bus. L'après-midi se passe dans le quartier de la Cité près de la cathédrale et des jardins en terrasses au bord de la rivière."
       },
       "gastro_picks": {
         "de": [
@@ -1151,6 +1222,11 @@
           "Limoges has one of the oldest trolleybus networks in the world.",
           "Buy a day pass for unlimited travel.",
           "Buses run very frequently in the center."
+        ],
+        "fr": [
+          "Limoges possède l'un des plus anciens réseaux de trolleybus au monde.",
+          "Achetez un ticket journalier pour des trajets illimités.",
+          "Les bus circulent très fréquemment au centre."
         ]
       }
     }

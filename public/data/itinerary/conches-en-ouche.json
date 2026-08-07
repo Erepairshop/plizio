@@ -21,7 +21,8 @@
             "de": "Haus der Kunst und des Tourismus",
             "hu": "Művészetek és Turizmus Háza",
             "ro": "Casa Artelor și Turismului",
-            "en": "House of Arts and Tourism"
+            "en": "House of Arts and Tourism",
+            "fr": "Maison des Arts et du Tourisme"
           },
           "coords": [
             0.943068,
@@ -36,7 +37,8 @@
             "de": "Entdecken Sie hier lokale Kunstausstellungen und besorgen Sie sich wichtige Stadtpläne, bevor Sie Ihre historische Tour starten.",
             "hu": "Fedezze fel a helyi művészeti kiállításokat, és szerezzen be egy várostérképet, mielőtt nekivágna a történelmi sétának.",
             "ro": "Descoperiți expozițiile de artă locale și luați o hartă a orașului de aici înainte de a începe turul istoric al așezării.",
-            "en": "Discover local art exhibitions and gather essential town maps here before starting your historical tour of Conches."
+            "en": "Discover local art exhibitions and gather essential town maps here before starting your historical tour of Conches.",
+            "fr": "Découvrez des expositions d'art local et récupérez ici les plans indispensables de la ville avant de commencer votre visite historique de Conches."
           }
         },
         {
@@ -44,7 +46,8 @@
             "de": "Burg von Conches",
             "hu": "Conches-i kastély",
             "ro": "Castelul din Conches",
-            "en": "Castle of Conches"
+            "en": "Castle of Conches",
+            "fr": "Château de Conches"
           },
           "coords": [
             0.94329,
@@ -59,7 +62,8 @@
             "de": "Bewundern Sie die imposanten Ruinen dieser mittelalterlichen Festung und tragen Sie festes Schuhwerk für das unebene Gelände.",
             "hu": "Csodálja meg ennek a középkori erődnek a lenyűgöző romjait, és mindenképpen viseljen kényelmes cipőt az egyenetlen talaj miatt.",
             "ro": "Admirați ruinele impresionante ale acestei fortărețe medievale și purtați încălțăminte comodă pentru a explora terenul accidentat.",
-            "en": "Admire the impressive ruins of this medieval stronghold, and be sure to wear sturdy shoes for walking around the uneven grounds."
+            "en": "Admire the impressive ruins of this medieval stronghold, and be sure to wear sturdy shoes for walking around the uneven grounds.",
+            "fr": "Admirez les impressionnantes ruines de cette forteresse médiévale et pensez à porter des chaussures solides pour circuler sur les sols irréguliers."
           }
         },
         {
@@ -67,7 +71,8 @@
             "de": "Kirche Saint Faith",
             "hu": "Szent Hit templom",
             "ro": "Biserica Sfânta Credință",
-            "en": "Saint Faith Church"
+            "en": "Saint Faith Church",
+            "fr": "Église Sainte-Foy"
           },
           "coords": [
             0.942152,
@@ -82,7 +87,8 @@
             "de": "Bestaunen Sie die spektakulären Buntglasfenster aus dem 16. Jahrhundert am besten an einem sonnigen Morgen für die schönsten Farben.",
             "hu": "Csodálja meg a látványos, tizenhatodik századi ólomüveg ablakokat, amelyeket egy napsütéses reggelen a legérdemesebb megtekinteni.",
             "ro": "Admirați vitraliile spectaculoase din secolul al șaisprezecelea, ideal într-o dimineață însorită pentru a vă bucura de culori.",
-            "en": "Marvel at the spectacular 16th-century stained glass windows, and visit on a sunny morning to see the colors at their best."
+            "en": "Marvel at the spectacular 16th-century stained glass windows, and visit on a sunny morning to see the colors at their best.",
+            "fr": "Émerveillez‑vous devant les spectaculaires vitraux du XVIe siècle et visitez par une matinée ensoleillée pour voir les couleurs à leur meilleur."
           }
         },
         {
@@ -90,7 +96,8 @@
             "de": "Festungsturm von Conches",
             "hu": "Conches-i erőd",
             "ro": "Fortăreața din Conches",
-            "en": "Keep of Conches"
+            "en": "Keep of Conches",
+            "fr": "Donjon de Conches"
           },
           "coords": [
             0.940574,
@@ -105,7 +112,8 @@
             "de": "Erkunden Sie die Überreste dieses historischen Wehrturms, der einen fantastischen Panoramablick über das umliegende Ouche-Tal bietet.",
             "hu": "Fedezze fel a történelmi védőtorony maradványait, ahonnan fantasztikus panoráma nyílik a környező festői Ouche-völgyre.",
             "ro": "Explorați rămășițele acestui turn defensiv istoric, care oferă o vedere panoramică fantastică asupra văii pitorești Ouche.",
-            "en": "Explore the remnants of this historic defensive tower, which offers fantastic panoramic views over the surrounding Ouche valley."
+            "en": "Explore the remnants of this historic defensive tower, which offers fantastic panoramic views over the surrounding Ouche valley.",
+            "fr": "Explorez les vestiges de cette tour défensive historique, qui offre de fantastiques vues panoramiques sur la vallée de l'Ouche."
           }
         },
         {
@@ -113,7 +121,8 @@
             "de": "Glasmuseum François Décorchemont",
             "hu": "François Décorchemont Üvegmúzeum",
             "ro": "Muzeul Sticlei François Décorchemont",
-            "en": "François Décorchemont Glass Museum"
+            "en": "François Décorchemont Glass Museum",
+            "fr": "Musée du verre François Décorchemont"
           },
           "coords": [
             0.942952,
@@ -128,7 +137,8 @@
             "de": "Erleben Sie die faszinierende Entwicklung der Glaskunst in diesem Museum und prüfen Sie den Plan für Live-Glasbläservorführungen.",
             "hu": "Ismerje meg az üvegművészet lenyűgöző fejlődését ebben a múzeumban, és érdemes előre tájékozódni az élő üvegfúvó bemutatókról.",
             "ro": "Descoperiți evoluția fascinantă a artei sticlei în acest muzeu și verificați programul pentru demonstrațiile de suflare a sticlei.",
-            "en": "Experience the fascinating evolution of glass art in this dedicated museum, and check the schedule for live glassblowing demos."
+            "en": "Experience the fascinating evolution of glass art in this dedicated museum, and check the schedule for live glassblowing demos.",
+            "fr": "Découvrez l'évolution fascinante de l'art verrier dans ce musée dédié et consultez le programme pour les démonstrations de soufflage de verre en direct."
           }
         },
         {
@@ -136,7 +146,8 @@
             "de": "Abtei Saint-Pierre und Saint-Paul",
             "hu": "Szent Péter és Szent Pál Apátság",
             "ro": "Abația Sfântul Petru și Sfântul Pavel",
-            "en": "Abbey of Saint Peter and Saint Paul"
+            "en": "Abbey of Saint Peter and Saint Paul",
+            "fr": "Abbaye Saint‑Pierre et Saint‑Paul"
           },
           "coords": [
             0.944001,
@@ -151,7 +162,8 @@
             "de": "Schlendern Sie durch das friedliche Gelände dieser alten Abtei und nehmen Sie sich Zeit für die ruhige Atmosphäre der Kreuzgänge.",
             "hu": "Sétáljon végig az ősi apátság békés területén, és szánjon időt a történelmi kerengők nyugodt atmoszférájának élvezetére.",
             "ro": "Plimbați-vă pe domeniul liniștit al acestei abații antice și acordați-vă timp pentru a aprecia atmosfera senină a curților istorice.",
-            "en": "Wander through the peaceful grounds of this ancient abbey, taking time to appreciate the serene atmosphere of the historic cloisters."
+            "en": "Wander through the peaceful grounds of this ancient abbey, taking time to appreciate the serene atmosphere of the historic cloisters.",
+            "fr": "Promenez‑vous dans les paisibles jardins de cette ancienne abbaye et prenez le temps d'apprécier l'atmosphère sereine des cloîtres historiques."
           }
         }
       ],
@@ -159,7 +171,8 @@
         "de": "Vormittag: Beginnen Sie im Herzen von Conches beim Tourismusbüro, bevor Sie zu den Burgruinen schlendern. Mittag: Bewundern Sie die Buntglasfenster der Kirche Saint Faith und erkunden Sie den imposanten mittelalterlichen Wehrturm. Nachmittag: Widmen Sie sich dem faszinierenden Glasmuseum, einem echten Highlight des künstlerischen Erbes der Stadt. Abend: Beenden Sie Ihren Rundgang mit einem ruhigen Spaziergang über das Gelände der alten Abtei und genießen Sie das historische Flair.",
         "hu": "Délelőtt: Kezdje a napot Conches szívében a turisztikai irodánál, majd sétáljon a félelmetes várromok felé. Délben: Csodálja meg a Saint Faith templom ólomüvegeit, majd folytassa útját az impozáns Öregtoronyhoz. Délután: Szentelje a délutánt a lenyűgöző Üvegmúzeumnak, amely a város művészeti örökségének fénypontja. Este: Zárja sétáját egy békés barangolással az ősi apátság területén, visszatekintve a város történelmi bájára.",
         "ro": "Dimineața: Începeți ziua în inima orașului Conches la biroul de turism, înainte de a vă îndrepta spre ruinele castelului. La prânz: Admirați vitraliile bisericii Saint Faith, apoi continuați spre Donjon pentru atmosfera sa medievală. După-amiaza: Dedicați-vă după-amiaza fascinantului Muzeu al Sticlei, un punct de atracție al patrimoniului artistic local. Seara: Încheiați plimbarea cu o vizită liniștită pe domeniul vechii abații, reflectând la farmecul istoric al orașului.",
-        "en": "Morning: Begin your day in the heart of Conches at the tourism office before wandering towards the formidable castle ruins. Midday: Marvel at the intricate stained glass of Saint Faith Church, then continue to the impressive Keep to soak up the medieval atmosphere. Afternoon: Dedicate your afternoon to the fascinating Glass Museum, a true highlight of the town's artistic heritage. Evening: Conclude your walk with a peaceful stroll around the old abbey grounds, reflecting on the historical charm of the town."
+        "en": "Morning: Begin your day in the heart of Conches at the tourism office before wandering towards the formidable castle ruins. Midday: Marvel at the intricate stained glass of Saint Faith Church, then continue to the impressive Keep to soak up the medieval atmosphere. Afternoon: Dedicate your afternoon to the fascinating Glass Museum, a true highlight of the town's artistic heritage. Evening: Conclude your walk with a peaceful stroll around the old abbey grounds, reflecting on the historical charm of the town.",
+        "fr": "Matin : Commencez votre journée au cœur de Conches au bureau de tourisme avant de vous diriger vers les imposantes ruines du château. Midi : Admirez les vitraux complexes de l'église Sainte‑Foy, puis continuez vers le Donjon pour vous imprégner de l'atmosphère médiévale. Après‑midi : Consacrez votre après‑midi au fascinant Musée du verre, véritable point fort du patrimoine artistique de la ville. Soir : Concluez votre promenade par une balade paisible autour des jardins de l'abbaye, en réfléchissant au charme historique de la ville."
       },
       "variants": {
         "rainy": {
@@ -167,7 +180,8 @@
             "de": "Ein regnerischer Morgen in Conches beginnt geschützt im Haus des Tourismus. Mittags erkunden wir das Schloss und die Kirche, ausgestattet mit festem Schuhwerk und Schirm. Am Nachmittag bietet das Glasmuseum eine warme, trockene Zuflucht für Kunstliebhaber. Der Abend endet an der mystischen Abtei, wo die nassen Steine im fahlen Licht glänzen und Vorsicht auf den rutschigen Wegen geboten ist.",
             "hu": "Esős reggel Conches-ben, a Turisztikai Ház fedélzetén kezdünk. Délben a kastélyt és a templomot fedezzük fel, gumicsizmában és esernyővel felszerelkezve. Délután az üvegmúzeum nyújt meleg és száraz menedéket a művészet kedvelőinek. A nap az apátságnál ér véget, ahol a nedves kövek csillognak a halvány fényben, és a csúszós utakon óvatosság ajánlott.",
             "ro": "O dimineață ploioasă în Conches începe protejată la Casa Turismului. La prânz explorăm castelul și biserica, echipați cu încălțăminte solidă și umbrelă. După-amiaza, Muzeul Sticlei oferă un refugiu cald și uscat pentru iubitorii de artă. Seara se încheie la abația mistică, unde pietrele umede strălucesc în lumina slabă, fiind necesară prudență pe drumurile alunecoase.",
-            "en": "A rainy morning in Conches starts sheltered at the House of Tourism. At noon, we explore the castle and church equipped with sturdy shoes and umbrellas. In the afternoon, the Glass Museum provides a warm, dry refuge for art lovers. The evening ends at the mystical abbey, where wet stones glisten in the dim light, and caution is advised on slippery paths."
+            "en": "A rainy morning in Conches starts sheltered at the House of Tourism. At noon, we explore the castle and church equipped with sturdy shoes and umbrellas. In the afternoon, the Glass Museum provides a warm, dry refuge for art lovers. The evening ends at the mystical abbey, where wet stones glisten in the dim light, and caution is advised on slippery paths.",
+            "fr": "Une matinée pluvieuse à Conches commence à l'abri à la Maison du Tourisme. À midi, nous explorons le château et l'église équipés de chaussures solides et d'un parapluie. L'après‑midi, le Musée du verre offre un refuge chaud et sec pour les amateurs d'art. La soirée se termine à l'abbaye mystique, où les pierres mouillées scintillent dans la faible lumière ; attention aux chemins glissants."
           },
           "stops": [
             {
@@ -175,13 +189,15 @@
                 "de": "Haus der Kunst und des Tourismus",
                 "hu": "Művészetek és Turizmus Háza",
                 "ro": "Casa Artelor și Turismului",
-                "en": "House of Arts and Tourism"
+                "en": "House of Arts and Tourism",
+                "fr": "Maison des Arts et du Tourisme"
               },
               "tip_5lang": {
                 "de": "Nutzen Sie diesen geschützten Raum, um Informationen zu sammeln; die Ausstellungen im Inneren sind perfekt, um den ersten Regenschauer des Tages trocken abzuwarten.",
                 "hu": "Használja ezt a védett teret az információszerzésre; a belső kiállítások tökéletesek arra, hogy szárazon várja meg a nap első esőjének elvonulását.",
                 "ro": "Folosiți acest spațiu protejat pentru a aduna informații; expozițiile din interior sunt perfecte pentru a aștepta la uscat trecerea primei ploi a zilei.",
-                "en": "Use this sheltered space to gather information; the indoor exhibitions are perfect for waiting out the day's first rain shower in comfort and dry."
+                "en": "Use this sheltered space to gather information; the indoor exhibitions are perfect for waiting out the day's first rain shower in comfort and dry.",
+                "fr": "Utilisez cet espace abrité pour rassembler des informations ; les expositions intérieures sont parfaites pour attendre confortablement la première averse du jour à l'abri et au sec."
               }
             },
             {
@@ -189,13 +205,15 @@
                 "de": "Burg von Conches",
                 "hu": "Conches-i kastély",
                 "ro": "Castelul din Conches",
-                "en": "Castle of Conches"
+                "en": "Castle of Conches",
+                "fr": "Château de Conches"
               },
               "tip_5lang": {
                 "de": "Besuchen Sie die Ruinen zügig zwischen den Schauern; tragen Sie wasserfeste Kleidung, da die alten Mauern nur wenig Schutz vor dem direkten Wind und Regen bieten.",
                 "hu": "Látogassa meg a romokat gyorsan a záporok között; viseljen vízálló ruházatot, mivel a régi falak kevés védelmet nyújtanak a közvetlen szél és eső ellen.",
                 "ro": "Vizitați ruinele rapid între averse; purtați haine impermeabile, deoarece zidurile vechi oferă puțină protecție împotriva vântului și ploii directe.",
-                "en": "Visit the ruins quickly between showers; wear waterproof clothing as the old walls offer little protection against the direct wind and driving rain."
+                "en": "Visit the ruins quickly between showers; wear waterproof clothing as the old walls offer little protection against the direct wind and driving rain.",
+                "fr": "Visitez rapidement les ruines entre deux averses ; portez des vêtements imperméables car les vieux murs offrent peu de protection contre le vent et la pluie battante."
               }
             },
             {
@@ -203,13 +221,15 @@
                 "de": "Kirche Saint Faith",
                 "hu": "Szent Hit templom",
                 "ro": "Biserica Sfânta Credință",
-                "en": "Saint Faith Church"
+                "en": "Saint Faith Church",
+                "fr": "Église Sainte-Foy"
               },
               "tip_5lang": {
                 "de": "Bewundern Sie die leuchtenden Glasfenster im trockenen Kirchenschiff; dies ist der beste Ort, um bei einem starken Wolkenbruch innezuhalten und Kunst zu genießen.",
                 "hu": "Csodálja meg a ragyogó üvegablakokat a száraz templomhajóban; ez a legjobb hely a megállásra és a művészet élvezetére egy erős felhőszakadás idején.",
                 "ro": "Admirați vitraliile strălucitoare în nava uscată a bisericii; acesta este cel mai bun loc pentru a face o pauză și a savura arta în timpul unei ploi torențiale.",
-                "en": "Admire the glowing stained glass windows in the dry nave; this is the best place to pause and enjoy art during a heavy downpour or long rain."
+                "en": "Admire the glowing stained glass windows in the dry nave; this is the best place to pause and enjoy art during a heavy downpour or long rain.",
+                "fr": "Admirez les vitraux éclatants dans la nef sèche ; c'est l'endroit idéal pour faire une pause et profiter de l'art pendant une forte averse ou une longue pluie."
               }
             },
             {
@@ -217,13 +237,15 @@
                 "de": "Festungsturm von Conches",
                 "hu": "Conches-i erőd",
                 "ro": "Fortăreața din Conches",
-                "en": "Keep of Conches"
+                "en": "Keep of Conches",
+                "fr": "Donjon de Conches"
               },
               "tip_5lang": {
                 "de": "Seien Sie vorsichtig auf den steilen Stufen zum Turm, die bei Nässe extrem rutschig sein können; genießen Sie den dramatischen Ausblick auf die graue Landschaft.",
                 "hu": "Legyen óvatos a toronyhoz vezető meredek lépcsőkön, amelyek nedvesen rendkívül csúszósak lehetnek; élvezze a drámai kilátást a szürke tájra.",
                 "ro": "Fiți atenți pe treptele abrupte spre turn, care pot fi extrem de alunecoase când sunt ude; bucurați-vă de vederea dramatică asupra peisajului gri.",
-                "en": "Be careful on the steep steps to the keep, which can be extremely slippery when wet; enjoy the dramatic view of the grey landscape from the top."
+                "en": "Be careful on the steep steps to the keep, which can be extremely slippery when wet; enjoy the dramatic view of the grey landscape from the top.",
+                "fr": "Soyez prudent sur les marches raides du donjon, qui peuvent être extrêmement glissantes lorsqu'elles sont mouillées ; profitez de la vue dramatique sur le paysage gris depuis le sommet."
               }
             },
             {
@@ -231,13 +253,15 @@
                 "de": "Glasmuseum François Décorchemont",
                 "hu": "François Décorchemont Üvegmúzeum",
                 "ro": "Muzeul Sticlei François Décorchemont",
-                "en": "François Décorchemont Glass Museum"
+                "en": "François Décorchemont Glass Museum",
+                "fr": "Musée du verre François Décorchemont"
               },
               "tip_5lang": {
                 "de": "Verbringen Sie hier viel Zeit, um die filigrane Glaskünste im Trockenen zu bewundern; die hell beleuchteten Vitrinen vertreiben die trübe Stimmung draußen sofort.",
                 "hu": "Töltsön itt sok időt a filigrán üvegművészet megcsodálásával a szárazban; a világos tárlók azonnal elűzik a kinti borongós hangulatot.",
                 "ro": "Petreceți mult timp aici admirând arta delicată a sticlei la adăpost; vitrinele luminate puternic alungă imediat atmosfera mohorâtă de afară.",
-                "en": "Spend plenty of time here admiring delicate glass art in the dry; the brightly lit displays will immediately dispel the gloomy atmosphere outside."
+                "en": "Spend plenty of time here admiring delicate glass art in the dry; the brightly lit displays will immediately dispel the gloomy atmosphere outside.",
+                "fr": "Passez-y beaucoup de temps à admirer le délicat travail du verre à l'abri ; les vitrines bien éclairées dissiperont immédiatement l'atmosphère morose extérieure."
               }
             },
             {
@@ -245,13 +269,15 @@
                 "de": "Abtei Saint-Pierre und Saint-Paul",
                 "hu": "Szent Péter és Szent Pál Apátság",
                 "ro": "Abația Sfântul Petru și Sfântul Pavel",
-                "en": "Abbey of Saint Peter and Saint Paul"
+                "en": "Abbey of Saint Peter and Saint Paul",
+                "fr": "Abbaye Saint‑Pierre et Saint‑Paul"
               },
               "tip_5lang": {
                 "de": "Die Ruinen der Abtei wirken im Regen besonders geheimnisvoll; nutzen Sie den Schirm für den Spaziergang durch die Gärten und achten Sie auf Pfützen.",
                 "hu": "Az apátság romjai esőben különösen titokzatosnak tűnnek; használja az esernyőt a kerteken átvezető sétához, és ügyeljen a tócsákra.",
                 "ro": "Ruinele abației par deosebit de misterioase în ploaie; folosiți umbrela pentru plimbarea prin grădini și aveți grijă la bălțile formate pe alei.",
-                "en": "The abbey ruins look particularly mysterious in the rain; use your umbrella for the stroll through the gardens and watch out for puddles on paths."
+                "en": "The abbey ruins look particularly mysterious in the rain; use your umbrella for the stroll through the gardens and watch out for puddles on paths.",
+                "fr": "Les ruines de l'abbaye sont particulièrement mystérieuses sous la pluie ; utilisez votre parapluie pour la promenade dans les jardins et méfiez‑vous des flaques sur les sentiers."
               }
             }
           ]
@@ -261,7 +287,8 @@
             "de": "Kalter Wintermorgen, wir wärmen uns im Tourismushaus auf. Mittags besichtigen wir das Schloss und die Kirche, bevor die frühe Dämmerung einsetzt. Am Nachmittag lockt das beheizte Glasmuseum mit seinen leuchtenden Schätzen. Der Abend endet bereits um 17 Uhr bei Sonnenuntergang an der Abtei, wenn die Winterluft frostig wird.",
             "hu": "Hideg téli reggel, a Turisztikai Házban melegszünk fel. Délben a kastélyt és a templomot látogatjuk meg, még a korai sötétedés előtt. Délután a fűtött üvegmúzeum hívogat ragyogó kincseivel. A nap már 17 órakor, naplementekor véget ér az apátságnál, amikor a téli levegő fagyossá válik.",
             "ro": "O dimineață rece de iarnă, ne încălzim la Casa Turismului. La prânz vizităm castelul și biserica, înainte de lăsarea timpurie a întunericului. După-amiaza, muzeul sticlei încălzit atrage cu comorile sale strălucitoare. Ziua se încheie la ora 17 la abație, când aerul devine înghețat.",
-            "en": "A cold winter morning, we warm up at the House of Tourism. At noon, we visit the castle and church before the early dusk sets in. In the afternoon, the heated glass museum beckons with its glowing treasures. The day ends at 5 PM at sunset by the abbey, when the winter air turns frosty."
+            "en": "A cold winter morning, we warm up at the House of Tourism. At noon, we visit the castle and church before the early dusk sets in. In the afternoon, the heated glass museum beckons with its glowing treasures. The day ends at 5 PM at sunset by the abbey, when the winter air turns frosty.",
+            "fr": "Par une froide matinée d'hiver, nous nous réchauffons à la Maison du Tourisme. À midi, nous visitons le château et l'église avant que la nuit tombe tôt. L'après‑midi, le Musée du verre chauffé attire avec ses trésors lumineux. La journée se termine à 17 h au coucher du soleil près de l'abbaye, lorsque l'air hivernal devient glacé."
           },
           "stops": [
             {
@@ -269,13 +296,15 @@
                 "de": "Haus der Kunst und des Tourismus",
                 "hu": "Művészetek és Turizmus Háza",
                 "ro": "Casa Artelor și Turismului",
-                "en": "House of Arts and Tourism"
+                "en": "House of Arts and Tourism",
+                "fr": "Maison des Arts et du Tourisme"
               },
               "tip_5lang": {
                 "de": "Beginnen Sie Ihren Besuch in der Wärme dieses Gebäudes; informieren Sie sich über die Winteröffnungszeiten der anderen Sehenswürdigkeiten bei einer heißen Tasse Tee.",
                 "hu": "Kezdje látogatását az épület melegében; tájékozódjon a többi látnivaló téli nyitvatartásáról egy forró tea társaságában.",
                 "ro": "Începeți vizita în căldura acestei clădiri; informați-vă despre programul de iarnă al celorlalte obiective turistice la o ceașcă de ceai fierbinte.",
-                "en": "Start your visit in the warmth of this building; check the winter opening hours of other attractions while enjoying the cozy indoor temperature."
+                "en": "Start your visit in the warmth of this building; check the winter opening hours of other attractions while enjoying the cozy indoor temperature.",
+                "fr": "Commencez votre visite à l'abri et au chaud dans ce bâtiment ; vérifiez les horaires d'ouverture hivernaux des autres attractions tout en profitant de la température intérieure confortable."
               }
             },
             {
@@ -283,13 +312,15 @@
                 "de": "Burg von Conches",
                 "hu": "Conches-i kastély",
                 "ro": "Castelul din Conches",
-                "en": "Castle of Conches"
+                "en": "Castle of Conches",
+                "fr": "Château de Conches"
               },
               "tip_5lang": {
                 "de": "Die kahlen Bäume geben den Blick auf die Schlossmauern frei; tragen Sie warme Schichten, da der Wind ungehindert durch die offenen Ruinen wehen kann.",
                 "hu": "A kopasz fák szabaddá teszik a kilátást a várfalakra; viseljen meleg rétegeket, mivel a szél akadálytalanul fújhat át a nyitott romokon.",
                 "ro": "Copacii golași dezvăluie zidurile castelului; purtați straturi calde de haine, deoarece vântul poate sufla nestingherit prin ruinele deschise.",
-                "en": "The bare trees reveal a clear view of the castle walls; wear warm layers as the wind can blow unimpeded through the open and exposed ruins."
+                "en": "The bare trees reveal a clear view of the castle walls; wear warm layers as the wind can blow unimpeded through the open and exposed ruins.",
+                "fr": "Les arbres dépouillés offrent une vue dégagée sur les murailles du château ; portez des couches chaudes car le vent peut souffler sans obstacle à travers les ruines ouvertes et exposées."
               }
             },
             {
@@ -297,13 +328,15 @@
                 "de": "Kirche Saint Faith",
                 "hu": "Szent Hit templom",
                 "ro": "Biserica Sfânta Credință",
-                "en": "Saint Faith Church"
+                "en": "Saint Faith Church",
+                "fr": "Église Sainte-Foy"
               },
               "tip_5lang": {
                 "de": "Die dicken Steinmauern halten die Kälte, also bleiben Sie in Bewegung; bewundern Sie, wie das tiefe Winterlicht die Farben der Glasfenster verändert.",
                 "hu": "A vastag kőfalak tartják a hideget, ezért maradjon mozgásban; csodálja meg, ahogy az alacsony téli fény megváltoztatja az üvegablakok színeit.",
                 "ro": "Zidurile groase de piatră păstrează frigul, așa că rămâneți în mișcare; admirați cum lumina joasă de iarnă schimbă culorile vitraliilor.",
-                "en": "The thick stone walls hold the cold, so keep moving; admire how the low winter light changes the colors and intensity of the stained glass windows."
+                "en": "The thick stone walls hold the cold, so keep moving; admire how the low winter light changes the colors and intensity of the stained glass windows.",
+                "fr": "Les épaisses pierres retiennent le froid, donc gardez le mouvement ; admirez comment la faible lumière hivernale change les couleurs et l'intensité des vitraux."
               }
             },
             {
@@ -311,13 +344,15 @@
                 "de": "Festungsturm von Conches",
                 "hu": "Conches-i erőd",
                 "ro": "Fortăreața din Conches",
-                "en": "Keep of Conches"
+                "en": "Keep of Conches",
+                "fr": "Donjon de Conches"
               },
               "tip_5lang": {
                 "de": "Erklimmen Sie den Turm für eine klare Fernsicht über die winterliche Normandie; achten Sie auf eventuelles Glatteis auf den Stufen und am Aussichtspunkt.",
                 "hu": "Másszon fel a toronyba a téli Normandia feletti tiszta kilátásért; ügyeljen az esetleges jegesedésre a lépcsőkön és a kilátóponton.",
                 "ro": "Urcați în turn pentru o vedere clară asupra Normandiei de iarnă; aveți grijă la eventuala gheață de pe trepte și de la punctul de observație.",
-                "en": "Climb the tower for a clear view over wintry Normandy; watch out for potential ice on the steps and at the viewing point during freezing mornings."
+                "en": "Climb the tower for a clear view over wintry Normandy; watch out for potential ice on the steps and at the viewing point during freezing mornings.",
+                "fr": "Montez dans la tour pour une vue dégagée sur la Normandie hivernale ; surveillez la présence de verglas sur les marches et au point de vue lors des matinées glaciales."
               }
             },
             {
@@ -325,13 +360,15 @@
                 "de": "Glasmuseum François Décorchemont",
                 "hu": "François Décorchemont Üvegmúzeum",
                 "ro": "Muzeul Sticlei François Décorchemont",
-                "en": "François Décorchemont Glass Museum"
+                "en": "François Décorchemont Glass Museum",
+                "fr": "Musée du verre François Décorchemont"
               },
               "tip_5lang": {
                 "de": "Dies ist der wärmste Ort des Tages; genießen Sie die filigrane Kunst in aller Ruhe, während draußen der frostige Wind um die Museumsmauern heult.",
                 "hu": "Ez a nap legmelegebb helyszíne; élvezze a filigrán művészetet teljes nyugalomban, miközben kint a fagyos szél fütyül a múzeum falai körül.",
                 "ro": "Acesta este cel mai cald loc al zilei; bucurați-vă de arta delicată în liniște, în timp ce afară vântul înghețat șuieră pe lângă zidurile muzeului.",
-                "en": "This is the warmest spot of the day; enjoy the delicate art in total peace while the frosty wind howls around the museum walls outside."
+                "en": "This is the warmest spot of the day; enjoy the delicate art in total peace while the frosty wind howls around the museum walls outside.",
+                "fr": "C'est l'endroit le plus chaud de la journée ; profitez des œuvres délicates en toute tranquillité pendant que le vent glacial hurle autour des murs du musée."
               }
             },
             {
@@ -339,13 +376,15 @@
                 "de": "Abtei Saint-Pierre und Saint-Paul",
                 "hu": "Szent Péter és Szent Pál Apátság",
                 "ro": "Abația Sfântul Petru și Sfântul Pavel",
-                "en": "Abbey of Saint Peter and Saint Paul"
+                "en": "Abbey of Saint Peter and Saint Paul",
+                "fr": "Abbaye Saint‑Pierre et Saint‑Paul"
               },
               "tip_5lang": {
                 "de": "Beenden Sie Ihren Rundgang vor Sonnenuntergang gegen 17 Uhr; das blaue Licht der Dämmerung verleiht den gefrorenen Gärten eine märchenhafte Aura.",
                 "hu": "Fejezze be a körutat naplemente előtt, 17 óra körül; a szürkület kék fénye mesebeli aurát kölcsönöz a fagyos kerteknek és a romoknak.",
                 "ro": "Încheiați turul înainte de apus, în jurul orei 17; lumina albastră a amurgului conferă grădinilor înghețate o aură de basm și mister.",
-                "en": "Finish your tour before sunset around 5 PM; the blue light of dusk gives the frozen gardens and the ruins a fairytale-like and magical aura."
+                "en": "Finish your tour before sunset around 5 PM; the blue light of dusk gives the frozen gardens and the ruins a fairytale-like and magical aura.",
+                "fr": "Terminez votre visite avant le coucher du soleil vers 17 h ; la lumière bleutée du crépuscule donne aux jardins gelés et aux ruines une aura féerique et magique."
               }
             }
           ]
@@ -365,7 +404,8 @@
             "de": "Haus der Kunst und des Tourismus",
             "hu": "Művészetek és Turizmus Háza",
             "ro": "Casa Artelor și Turismului",
-            "en": "House of Arts and Tourism"
+            "en": "House of Arts and Tourism",
+            "fr": "Maison des Arts et du Tourisme"
           },
           "coords": [
             0.943068,
@@ -380,7 +420,8 @@
             "de": "Entdecken Sie hier lokale Kunstausstellungen und besorgen Sie sich wichtige Stadtpläne, bevor Sie Ihre historische Tour starten.",
             "hu": "Fedezze fel a helyi művészeti kiállításokat, és szerezzen be egy várostérképet, mielőtt nekivágna a történelmi sétának.",
             "ro": "Descoperiți expozițiile de artă locale și luați o hartă a orașului de aici înainte de a începe turul istoric al așezării.",
-            "en": "Discover local art exhibitions and gather essential town maps here before starting your historical tour of Conches."
+            "en": "Discover local art exhibitions and gather essential town maps here before starting your historical tour of Conches.",
+            "fr": "Découvrez des expositions d'art local et récupérez ici les plans indispensables de la ville avant de commencer votre visite historique de Conches."
           }
         },
         {
@@ -388,7 +429,8 @@
             "de": "Kirche Saint Faith",
             "hu": "Szent Hit templom",
             "ro": "Biserica Sfânta Credință",
-            "en": "Saint Faith Church"
+            "en": "Saint Faith Church",
+            "fr": "Église Sainte-Foy"
           },
           "coords": [
             0.942152,
@@ -403,7 +445,8 @@
             "de": "Bestaunen Sie die spektakulären Buntglasfenster aus dem 16. Jahrhundert am besten an einem sonnigen Morgen für die schönsten Farben.",
             "hu": "Csodálja meg a látványos, tizenhatodik századi ólomüveg ablakokat, amelyeket egy napsütéses reggelen a legérdemesebb megtekinteni.",
             "ro": "Admirați vitraliile spectaculoase din secolul al șaisprezecelea, ideal într-o dimineață însorită pentru a vă bucura de culori.",
-            "en": "Marvel at the spectacular 16th-century stained glass windows, and visit on a sunny morning to see the colors at their best."
+            "en": "Marvel at the spectacular 16th-century stained glass windows, and visit on a sunny morning to see the colors at their best.",
+            "fr": "Émerveillez‑vous devant les spectaculaires vitraux du XVIe siècle et visitez par une matinée ensoleillée pour voir les couleurs à leur meilleur."
           }
         },
         {
@@ -411,7 +454,8 @@
             "de": "Festungsturm von Conches",
             "hu": "Conches-i erőd",
             "ro": "Fortăreața din Conches",
-            "en": "Keep of Conches"
+            "en": "Keep of Conches",
+            "fr": "Donjon de Conches"
           },
           "coords": [
             0.940574,
@@ -426,7 +470,8 @@
             "de": "Erkunden Sie die Überreste dieses historischen Wehrturms, der einen fantastischen Panoramablick über das umliegende Ouche-Tal bietet.",
             "hu": "Fedezze fel a történelmi védőtorony maradványait, ahonnan fantasztikus panoráma nyílik a környező festői Ouche-völgyre.",
             "ro": "Explorați rămășițele acestui turn defensiv istoric, care oferă o vedere panoramică fantastică asupra văii pitorești Ouche.",
-            "en": "Explore the remnants of this historic defensive tower, which offers fantastic panoramic views over the surrounding Ouche valley."
+            "en": "Explore the remnants of this historic defensive tower, which offers fantastic panoramic views over the surrounding Ouche valley.",
+            "fr": "Explorez les vestiges de cette tour défensive historique, qui offre de fantastiques vues panoramiques sur la vallée de l'Ouche."
           }
         },
         {
@@ -434,7 +479,8 @@
             "de": "Glasmuseum François Décorchemont",
             "hu": "François Décorchemont Üvegmúzeum",
             "ro": "Muzeul Sticlei François Décorchemont",
-            "en": "François Décorchemont Glass Museum"
+            "en": "François Décorchemont Glass Museum",
+            "fr": "Musée du verre François Décorchemont"
           },
           "coords": [
             0.942952,
@@ -449,7 +495,8 @@
             "de": "Erleben Sie die faszinierende Entwicklung der Glaskunst in diesem Museum und prüfen Sie den Plan für Live-Glasbläservorführungen.",
             "hu": "Ismerje meg az üvegművészet lenyűgöző fejlődését ebben a múzeumban, és érdemes előre tájékozódni az élő üvegfúvó bemutatókról.",
             "ro": "Descoperiți evoluția fascinantă a artei sticlei în acest muzeu și verificați programul pentru demonstrațiile de suflare a sticlei.",
-            "en": "Experience the fascinating evolution of glass art in this dedicated museum, and check the schedule for live glassblowing demos."
+            "en": "Experience the fascinating evolution of glass art in this dedicated museum, and check the schedule for live glassblowing demos.",
+            "fr": "Découvrez l'évolution fascinante de l'art verrier dans ce musée dédié et consultez le programme pour les démonstrations de soufflage de verre en direct."
           }
         },
         {
@@ -457,7 +504,8 @@
             "de": "Schloss Quenet",
             "hu": "Quenet Kastély",
             "ro": "Castelul Quenet",
-            "en": "Quenet Castle"
+            "en": "Quenet Castle",
+            "fr": "Château de Quenet"
           },
           "coords": [
             0.95816,
@@ -472,7 +520,8 @@
             "de": "Machen Sie einen kurzen Ausflug, um dieses charmante aristokratische Anwesen von außen zu betrachten, da die Architektur fotogen ist.",
             "hu": "Tegyen egy rövid kitérőt, és csodálja meg kívülről ezt a bájos arisztokrata birtokot, mivel klasszikus építészete igazán fotogén.",
             "ro": "Faceți o scurtă excursie pentru a vedea această moșie aristocratică fermecătoare, deoarece arhitectura sa clasică este foarte fotogenică.",
-            "en": "Take a short trip out to view this charming aristocratic estate from the outside, as the classical architecture is truly photogenic."
+            "en": "Take a short trip out to view this charming aristocratic estate from the outside, as the classical architecture is truly photogenic.",
+            "fr": "Faites une courte excursion pour voir cette charmante demeure aristocratique de l'extérieur ; l'architecture classique est très photogénique."
           }
         },
         {
@@ -480,7 +529,8 @@
             "de": "Kirche Saint-Élier",
             "hu": "Saint-Élier Templom",
             "ro": "Biserica Saint-Élier",
-            "en": "Saint-Élier Church"
+            "en": "Saint-Élier Church",
+            "fr": "Église Saint‑Élier"
           },
           "coords": [
             0.967382,
@@ -495,7 +545,8 @@
             "de": "Besuchen Sie diese ruhige ländliche Kirche, um ihren schlichten, aber eleganten Baustil zu bewundern, der das Erbe der Region widerspiegelt.",
             "hu": "Látogasson el ebbe a csendes vidéki templomba, hogy megcsodálja egyszerű, de elegáns építészeti stílusát, amely a régió örökségét tükrözi.",
             "ro": "Vizitați această biserică rurală liniștită pentru a admira stilul său arhitectural simplu, care reflectă perfect patrimoniul regiunii.",
-            "en": "Visit this quiet rural church to admire its simple yet elegant architectural style that perfectly reflects the region's heritage."
+            "en": "Visit this quiet rural church to admire its simple yet elegant architectural style that perfectly reflects the region's heritage.",
+            "fr": "Visitez cette paisible église rurale pour admirer son style architectural simple mais élégant, qui reflète parfaitement le patrimoine de la région."
           }
         }
       ],
@@ -503,7 +554,8 @@
         "de": "Vormittag: Starten Sie Ihre Radtour mit Plänen aus dem Zentrum und fahren Sie zügig zur wunderschönen Kirche Saint Faith. Mittag: Radeln Sie zum majestätischen Wehrturm für einen weiten Blick ins Tal, bevor Sie das berühmte Glasmuseum besuchen. Nachmittag: Verlassen Sie das Zentrum in Richtung des eleganten Château de Quenet und genießen Sie die frische Luft der Normandie. Abend: Beenden Sie Ihr Abenteuer an der ruhigen ländlichen Kirche Saint-Élier im milden Abendlicht.",
         "hu": "Délelőtt: Kezdje kerékpáros útvonalát a központban, majd tekerjen el a gyönyörű Saint Faith templomhoz. Délben: Haladjon a fenséges Öregtorony felé a völgyre nyíló kilátásért, mielőtt felfedezné az Üvegmúzeumot. Délután: Kerekezzen ki a központból az elegáns Château de Quenet felé, élvezve a normandiai vidék friss levegőjét. Este: Fejezze be kerékpáros kalandját a csendes Église Saint-Élier-nél, ahol megcsodálhatja a mezők felett lenyugvó napot.",
         "ro": "Dimineața: Începeți traseul de ciclism preluând hărți din centru, apoi pedalați spre frumoasa biserică Saint Faith. La prânz: Mergeți spre maiestuosul Donjon pentru vederi panoramice, înainte de a vizita renumitul Muzeu al Sticlei. După-amiaza: Ieșiți din centrul aglomerat spre elegantul Château de Quenet, bucurându-vă de aerul proaspăt din Normandia. Seara: Terminați aventura la liniștita Église Saint-Élier, admirând apusul peste câmpurile rurale.",
-        "en": "Morning: Start your cycling route by gathering maps in the center, then quickly ride over to the beautiful Saint Faith Church. Midday: Pedal towards the majestic Keep to enjoy sweeping views of the valley before visiting the renowned Glass Museum. Afternoon: Ride out of the dense center towards the elegant Château de Quenet, enjoying the fresh air of the Normandy countryside. Evening: Finish your cycling adventure at the quiet rural Église Saint-Élier, where you can watch the sun lower over the fields."
+        "en": "Morning: Start your cycling route by gathering maps in the center, then quickly ride over to the beautiful Saint Faith Church. Midday: Pedal towards the majestic Keep to enjoy sweeping views of the valley before visiting the renowned Glass Museum. Afternoon: Ride out of the dense center towards the elegant Château de Quenet, enjoying the fresh air of the Normandy countryside. Evening: Finish your cycling adventure at the quiet rural Église Saint-Élier, where you can watch the sun lower over the fields.",
+        "fr": "Matin : Commencez votre itinéraire cycliste en récupérant des plans au centre, puis roulez rapidement jusqu'à la belle église Sainte‑Foy. Midi : Pédalez vers le majestueux Donjon pour profiter d'une vue plongeante sur la vallée avant de visiter le réputé Musée du verre. Après‑midi : Sortez du centre dense en direction du élégant Château de Quenet, en profitant de l'air frais de la campagne normande. Soir : Terminez votre aventure cycliste à la paisible Église Saint‑Élier, où vous pourrez regarder le soleil descendre sur les champs."
       },
       "variants": {
         "rainy": {
@@ -511,7 +563,8 @@
             "de": "Eine nasse Radtour durch Conches startet vorsichtig am Tourismushaus. Mittags radeln wir zur Kirche und zum Festungsturm, wobei wir auf rutschigen Untergrund achten. Der Nachmittag gehört dem Glasmuseum, wo wir uns aufwärmen können. Den Abschluss bilden Schloss Quenet und die Kirche Saint-Élier.",
             "hu": "Vizes biciklitúra Conches-ben, óvatosan indulunk a Turisztikai Háztól. Délben a templomhoz és az erődhöz tekerünk, ügyelve a csúszós talajra. A délután az üvegmúzeumé, ahol felmelegedhetünk. A napot a Quenet kastély és a Saint-Élier templom zárja.",
             "ro": "O tură cu bicicleta prin Conches pe ploaie, plecăm cu prudență de la Casa Turismului. La prânz pedalăm spre biserică și fortăreață, atenți la solul alunecos. După-amiaza aparține Muzeului Sticlei, unde ne putem încălzi. Finalul este marcat de Castelul Quenet și Biserica Saint-Élier.",
-            "en": "A wet bike tour through Conches, starting cautiously at the House of Tourism. At noon, we cycle to the church and the keep, paying attention to the slippery ground. The afternoon belongs to the Glass Museum, where we can warm up. The day ends at Quenet Castle and Saint-Élier Church."
+            "en": "A wet bike tour through Conches, starting cautiously at the House of Tourism. At noon, we cycle to the church and the keep, paying attention to the slippery ground. The afternoon belongs to the Glass Museum, where we can warm up. The day ends at Quenet Castle and Saint-Élier Church.",
+            "fr": "Une randonnée à vélo humide à travers Conches, en commençant prudemment à la Maison du Tourisme. À midi, nous pédalons jusqu'à l'église et au donjon, en faisant attention aux sols glissants. L'après‑midi est consacré au Musée du verre, où l'on peut se réchauffer. La journée se termine au Château de Quenet et à l'Église Saint‑Élier."
           },
           "stops": [
             {
@@ -519,13 +572,15 @@
                 "de": "Haus der Kunst und des Tourismus",
                 "hu": "Művészetek és Turizmus Háza",
                 "ro": "Casa Artelor și Turismului",
-                "en": "House of Arts and Tourism"
+                "en": "House of Arts and Tourism",
+                "fr": "Maison des Arts et du Tourisme"
               },
               "tip_5lang": {
                 "de": "Prüfen Sie Ihre Regenausrüstung in der trockenen Eingangshalle; ein idealer Ort, um die Route so zu planen, dass Sie möglichst oft im Trockenen stehen.",
                 "hu": "Ellenőrizze esőfelszerelését a száraz bejárati csarnokban; ideális hely az útvonal megtervezésére, hogy a lehető legtöbbször fedett helyen legyen.",
                 "ro": "Verificați echipamentul de ploaie în holul de intrare uscat; un loc ideal pentru a planifica ruta astfel încât să stați cât mai mult la adăpost.",
-                "en": "Check your rain gear in the dry entrance hall; an ideal place to plan the route so that you are under cover as often as possible between stops."
+                "en": "Check your rain gear in the dry entrance hall; an ideal place to plan the route so that you are under cover as often as possible between stops.",
+                "fr": "Vérifiez votre équipement de pluie dans le hall sec ; un endroit idéal pour planifier l'itinéraire afin d'être abrité le plus souvent possible entre les étapes."
               }
             },
             {
@@ -533,13 +588,15 @@
                 "de": "Kirche Saint Faith",
                 "hu": "Szent Hit templom",
                 "ro": "Biserica Sfânta Credință",
-                "en": "Saint Faith Church"
+                "en": "Saint Faith Church",
+                "fr": "Église Sainte-Foy"
               },
               "tip_5lang": {
                 "de": "Stellen Sie Ihr Rad sicher ab und genießen Sie die Stille im Inneren; die farbenfrohen Fenster sind ein wunderbarer Kontrast zum grauen Regenwetter draußen.",
                 "hu": "Parkolja le biztonságosan a biciklijét és élvezze a benti csendet; a színes ablakok csodálatos kontrasztot alkotnak a kinti szürke esős idővel.",
                 "ro": "Parcați bicicleta în siguranță și bucurați-vă de liniștea din interior; ferestrele colorate sunt un contrast minunat cu vremea gri și ploioasă de afară.",
-                "en": "Park your bike safely and enjoy the silence inside; the colorful windows are a wonderful contrast to the grey rainy weather outside the church walls."
+                "en": "Park your bike safely and enjoy the silence inside; the colorful windows are a wonderful contrast to the grey rainy weather outside the church walls.",
+                "fr": "Garez votre vélo en sécurité et profitez du silence intérieur ; les vitraux colorés contrastent merveilleusement avec le temps gris et pluvieux à l'extérieur."
               }
             },
             {
@@ -547,13 +604,15 @@
                 "de": "Festungsturm von Conches",
                 "hu": "Conches-i erőd",
                 "ro": "Fortăreața din Conches",
-                "en": "Keep of Conches"
+                "en": "Keep of Conches",
+                "fr": "Donjon de Conches"
               },
               "tip_5lang": {
                 "de": "Achten Sie beim Absteigen auf den nassen Rasen und das Kopfsteinpflaster; der Aufstieg zum Turm bietet auch bei Regen eine majestätische Atmosphäre.",
                 "hu": "Vigyázzon a leszálláskor a nedves fűre és a macskakőre; a toronyba való feljutás esőben is fenséges hangulatot áraszt a látogatóknak.",
                 "ro": "Fiți atenți la coborâre la iarba umedă și pavaj; urcarea în turn oferă o atmosferă maiestuoasă chiar și pe ploaie pentru toți vizitatorii.",
-                "en": "Be careful when dismounting on the wet grass and cobblestones; the climb to the keep offers a majestic atmosphere even in the pouring rain."
+                "en": "Be careful when dismounting on the wet grass and cobblestones; the climb to the keep offers a majestic atmosphere even in the pouring rain.",
+                "fr": "Soyez prudent en descendant du vélo sur l'herbe humide et les pavés ; la montée au donjon offre une atmosphère majestueuse même sous la pluie battante."
               }
             },
             {
@@ -561,13 +620,15 @@
                 "de": "Glasmuseum François Décorchemont",
                 "hu": "François Décorchemont Üvegmúzeum",
                 "ro": "Muzeul Sticlei François Décorchemont",
-                "en": "François Décorchemont Glass Museum"
+                "en": "François Décorchemont Glass Museum",
+                "fr": "Musée du verre François Décorchemont"
               },
               "tip_5lang": {
                 "de": "Nutzen Sie den langen Aufenthalt für eine Pause vom Radfahren im Regen; die filigrane Glaskunst wird Sie die Nässe draußen schnell vergessen lassen.",
                 "hu": "Használja ki a hosszú tartózkodást egy szünetre az esőben való biciklizés után; a filigrán üvegművészet gyorsan feledteti Önnel a kinti nedvességet.",
                 "ro": "Profită de șederea lungă pentru o pauză de la pedalatul prin ploaie; arta delicată a sticlei te va face să uiți rapid de umezeala de afară.",
-                "en": "Take advantage of the long stay for a break from cycling in the rain; the delicate glass art will quickly make you forget the dampness outside."
+                "en": "Take advantage of the long stay for a break from cycling in the rain; the delicate glass art will quickly make you forget the dampness outside.",
+                "fr": "Profitez d'une longue halte pour faire une pause du vélo sous la pluie ; le délicat travail du verre vous fera vite oublier l'humidité extérieure."
               }
             },
             {
@@ -575,13 +636,15 @@
                 "de": "Schloss Quenet",
                 "hu": "Quenet Kastély",
                 "ro": "Castelul Quenet",
-                "en": "Quenet Castle"
+                "en": "Quenet Castle",
+                "fr": "Château de Quenet"
               },
               "tip_5lang": {
                 "de": "Der Weg zum Schloss kann bei Regen schlammig sein, fahren Sie vorsichtig; die Ansicht des Schlosses im Regen hat einen ganz eigenen, romantischen Charme.",
                 "hu": "A kastélyhoz vezető út esőben sáros lehet, hajtson óvatosan; a kastély látványa az esőben teljesen egyedi, romantikus bájjal rendelkezik.",
                 "ro": "Drumul spre castel poate fi noroios pe ploaie, pedalează cu grijă; vederea castelului în ploaie are un farmec romantic cu totul aparte.",
-                "en": "The path to the castle can be muddy in the rain, so ride carefully; the view of the castle in the rain has a very unique, romantic charm."
+                "en": "The path to the castle can be muddy in the rain, so ride carefully; the view of the castle in the rain has a very unique, romantic charm.",
+                "fr": "Le chemin vers le château peut être boueux sous la pluie, alors roulez prudemment ; la vue du château sous la pluie a un charme romantique très particulier."
               }
             },
             {
@@ -589,13 +652,15 @@
                 "de": "Kirche Saint-Élier",
                 "hu": "Saint-Élier Templom",
                 "ro": "Biserica Saint-Élier",
-                "en": "Saint-Élier Church"
+                "en": "Saint-Élier Church",
+                "fr": "Église Saint‑Élier"
               },
               "tip_5lang": {
                 "de": "Beenden Sie Ihre Tour in dieser friedlichen Kirche und trocknen Sie sich ab; achten Sie beim Radfahren auf die Gischt der vorbeifahrenden Fahrzeuge.",
                 "hu": "Fejezze be túráját ebben a békés templomban és szárítkozzon meg; biciklizés közben ügyeljen a mellette elhaladó járművek által felvert vízpermetre.",
                 "ro": "Încheie turul în această biserică liniștită și usucă-te; în timp ce pedalezi, ai grijă la apa aruncată de vehiculele care trec pe lângă tine.",
-                "en": "End your tour in this peaceful church and dry off; while cycling, watch out for the spray from passing vehicles on the wet country roads."
+                "en": "End your tour in this peaceful church and dry off; while cycling, watch out for the spray from passing vehicles on the wet country roads.",
+                "fr": "Terminez votre circuit dans cette église paisible et séchez‑vous ; en pédalant, faites attention aux projections d'eau provoquées par les véhicules sur les routes de campagne mouillées."
               }
             }
           ]
@@ -605,7 +670,8 @@
             "de": "Winterliche Radtour durch die Normandie, wir starten dick eingepackt am Tourismushaus. Mittags geht es zur Kirche und zum Turm, wobei wir die frostige Brise spüren. Der Nachmittag im Glasmuseum ist perfekt, um die Finger aufzuwärmen. Wir beenden die Tour bei Sonnenuntergang um 17 Uhr an der Kirche Saint-Élier.",
             "hu": "Téli biciklitúra Normandiában, vastagon beöltözve indulunk a Turisztikai Háztól. Délben a templomhoz és a toronyhoz tekerünk, érezve arcunkon a fagyos szellőt. A délután az üvegmúzeumban tökéletes alkalom a felmelegedésre. A túrát naplementekor, 17 órakor zárjuk a Saint-Élier templomnál.",
             "ro": "Tură de iarnă cu bicicleta prin Normandia, plecăm bine înfofoliți de la Casa Turismului. La prânz mergem spre biserică și turn, simțind briza înghețată pe față. După-amiaza la Muzeul Sticlei este ocazia perfectă pentru încălzire. Încheiem turul la apus, ora 17, la Biserica Saint-Élier.",
-            "en": "A winter bike tour through Normandy, starting warmly dressed at the House of Tourism. At noon, we head to the church and the keep, feeling the frosty breeze on our faces. The afternoon at the Glass Museum is the perfect chance to warm up. We end the tour at sunset at 5 PM at Saint-Élier Church."
+            "en": "A winter bike tour through Normandy, starting warmly dressed at the House of Tourism. At noon, we head to the church and the keep, feeling the frosty breeze on our faces. The afternoon at the Glass Museum is the perfect chance to warm up. We end the tour at sunset at 5 PM at Saint-Élier Church.",
+            "fr": "Une randonnée à vélo hivernale en Normandie, en commençant bien emmitouflé à la Maison du Tourisme. À midi, nous nous rendons à l'église et au donjon, ressentant la brise glaciale sur le visage. L'après‑midi au Musée du verre est l'occasion idéale de se réchauffer. Nous terminons la visite au coucher du soleil à 17 h à l'Église Saint‑Élier."
           },
           "stops": [
             {
@@ -613,13 +679,15 @@
                 "de": "Haus der Kunst und des Tourismus",
                 "hu": "Művészetek és Turizmus Háza",
                 "ro": "Casa Artelor și Turismului",
-                "en": "House of Arts and Tourism"
+                "en": "House of Arts and Tourism",
+                "fr": "Maison des Arts et du Tourisme"
               },
               "tip_5lang": {
                 "de": "Nutzen Sie den beheizten Raum, um Ihre Handschuhe und Mütze zurechtzurücken; informieren Sie sich über den Zustand der Radwege bei winterlichem Wetter.",
                 "hu": "Használja a fűtött teret kesztyűje és sapkája megigazítására; tájékozódjon a kerékpárutak állapotáról a téli időjárási körülmények között.",
                 "ro": "Folosiți spațiul încălzit pentru a vă aranja mănușile și căciula; informați-vă despre starea pistelor de biciclete în condiții de iarnă.",
-                "en": "Use the heated space to adjust your gloves and hat; find out about the condition of the cycle paths in winter weather conditions before you set off."
+                "en": "Use the heated space to adjust your gloves and hat; find out about the condition of the cycle paths in winter weather conditions before you set off.",
+                "fr": "Utilisez l'espace chauffé pour régler vos gants et votre bonnet ; renseignez-vous sur l'état des pistes cyclables en hiver avant de partir."
               }
             },
             {
@@ -627,13 +695,15 @@
                 "de": "Kirche Saint Faith",
                 "hu": "Szent Hit templom",
                 "ro": "Biserica Sfânta Credință",
-                "en": "Saint Faith Church"
+                "en": "Saint Faith Church",
+                "fr": "Église Sainte-Foy"
               },
               "tip_5lang": {
                 "de": "Die Kirche bietet Windschutz, aber ziehen Sie sich warm an, da es im Inneren kühl sein kann; das Winterlicht lässt die Glasfenster in klaren Farben erstrahlen.",
                 "hu": "A templom szélvédelmet nyújt, de öltözzön melegen, mert odabent hűvös lehet; a téli fény tiszta színekben ragyogtatja fel az üvegablakokat.",
                 "ro": "Biserica oferă protecție împotriva vântului, dar îmbrăcați-vă bine, deoarece poate fi răcoare interior; lumina de iarnă face vitraliile să strălucească.",
-                "en": "The church offers wind protection, but dress warmly as it can be cool inside; the winter light makes the stained glass windows shine in clear colors."
+                "en": "The church offers wind protection, but dress warmly as it can be cool inside; the winter light makes the stained glass windows shine in clear colors.",
+                "fr": "L'église offre un abri contre le vent, mais habillez-vous chaudement car il peut faire frais à l'intérieur ; la lumière hivernale fait briller les vitraux aux couleurs nettes."
               }
             },
             {
@@ -641,13 +711,15 @@
                 "de": "Festungsturm von Conches",
                 "hu": "Conches-i erőd",
                 "ro": "Fortăreața din Conches",
-                "en": "Keep of Conches"
+                "en": "Keep of Conches",
+                "fr": "Donjon de Conches"
               },
               "tip_5lang": {
                 "de": "Der Fahrtwind auf dem Weg zum Turm ist eisig, tragen Sie einen Schal; oben angekommen belohnt Sie eine weite Sicht über die schneefreie, kahle Landschaft.",
                 "hu": "A toronyhoz vezető úton a menetszél jeges, viseljen sálat; felérve messzi kilátás kárpótolja Önt a hómentes, de kopár és fagyos táj felett.",
                 "ro": "Vântul pe drumul spre turn este tăios, poartă un fular; odată ajuns sus, o vedere largă te va răsplăti peste peisajul golaș și înghețat de iarnă.",
-                "en": "The wind on the way to the keep is icy, so wear a scarf; once at the top, a wide view over the snow-free but bare wintry landscape will reward you."
+                "en": "The wind on the way to the keep is icy, so wear a scarf; once at the top, a wide view over the snow-free but bare wintry landscape will reward you.",
+                "fr": "Le vent sur le chemin du donjon est glacial, portez une écharpe ; une fois au sommet, une vaste vue sur le paysage hivernal dégagé de neige mais dépouillé vous récompensera."
               }
             },
             {
@@ -655,13 +727,15 @@
                 "de": "Glasmuseum François Décorchemont",
                 "hu": "François Décorchemont Üvegmúzeum",
                 "ro": "Muzeul Sticlei François Décorchemont",
-                "en": "François Décorchemont Glass Museum"
+                "en": "François Décorchemont Glass Museum",
+                "fr": "Musée du verre François Décorchemont"
               },
               "tip_5lang": {
                 "de": "Parken Sie Ihr Rad und genießen Sie die Wärme des Museums; die leuchtenden Glaskunstwerke sind an dunklen Wintertagen eine wahre Wohltat für die Augen.",
                 "hu": "Parkolja le a biciklijét és élvezze a múzeum melegét; a ragyogó üvegművészeti alkotások a sötét téli napokon igazi felüdülést jelentenek a szemnek.",
                 "ro": "Parchează bicicleta și bucură-te de căldura muzeului; operele de artă din sticlă strălucitoare sunt o adevărată desfătare pentru ochi în zilele întunecate.",
-                "en": "Park your bike and enjoy the warmth of the museum; the glowing glass artworks are a true treat for the eyes on dark and cold winter days."
+                "en": "Park your bike and enjoy the warmth of the museum; the glowing glass artworks are a true treat for the eyes on dark and cold winter days.",
+                "fr": "Garez votre vélo et profitez de la chaleur du musée ; les œuvres en verre lumineuses sont un vrai régal pour les yeux les jours d'hiver sombres et froids."
               }
             },
             {
@@ -669,13 +743,15 @@
                 "de": "Schloss Quenet",
                 "hu": "Quenet Kastély",
                 "ro": "Castelul Quenet",
-                "en": "Quenet Castle"
+                "en": "Quenet Castle",
+                "fr": "Château de Quenet"
               },
               "tip_5lang": {
                 "de": "Radeln Sie zügig, um warm zu bleiben, während Sie sich dem Schloss nähern; das Gebäude wirkt in der klaren Winterluft besonders scharf gezeichnet.",
                 "hu": "Tekerjen tempósan, hogy melegen maradjon, miközben közeledik a kastélyhoz; az épület a tiszta téli levegőben különösen élesnek és impozánsnak tűnik.",
                 "ro": "Pedalează alert pentru a te menține cald în timp ce te apropii de castel; clădirea pare deosebit de clară și impunătoare în aerul curat de iarnă.",
-                "en": "Cycle briskly to stay warm as you approach the castle; the building appears particularly sharp-edged and imposing in the clear and crisp winter air."
+                "en": "Cycle briskly to stay warm as you approach the castle; the building appears particularly sharp-edged and imposing in the clear and crisp winter air.",
+                "fr": "Pédalez d'un bon pas pour rester au chaud en approchant du château ; le bâtiment apparaît particulièrement incisif et imposant dans l'air clair et vif de l'hiver."
               }
             },
             {
@@ -683,13 +759,15 @@
                 "de": "Kirche Saint-Élier",
                 "hu": "Saint-Élier Templom",
                 "ro": "Biserica Saint-Élier",
-                "en": "Saint-Élier Church"
+                "en": "Saint-Élier Church",
+                "fr": "Église Saint-Élier"
               },
               "tip_5lang": {
                 "de": "Erreichen Sie Ihr Ziel vor Einbruch der Dunkelheit um 17 Uhr; die winterliche Stille an der Kirche lädt zu einem kurzen Moment der Besinnung ein.",
                 "hu": "Érje el célját sötétedés előtt, 17 óráig; a templomnál tapasztalható téli csend rövid elmélyülésre hívja a látogatót a túra végén.",
                 "ro": "Ajungeți la destinație înainte de lăsarea întunericului, la ora 17; liniștea iernii de la biserică invită la un scurt moment de reflecție la final.",
-                "en": "Reach your destination before dark at 5 PM; the winter silence at the church invites a brief moment of reflection at the very end of your cycling tour."
+                "en": "Reach your destination before dark at 5 PM; the winter silence at the church invites a brief moment of reflection at the very end of your cycling tour.",
+                "fr": "Arrivez à destination avant la tombée de la nuit à 17 h ; le silence hivernal à l'église invite à un bref moment de réflexion à la toute fin de votre circuit à vélo."
               }
             }
           ]
@@ -709,7 +787,8 @@
             "de": "Haus der Kunst und des Tourismus",
             "hu": "Művészetek és Turizmus Háza",
             "ro": "Casa Artelor și Turismului",
-            "en": "House of Arts and Tourism"
+            "en": "House of Arts and Tourism",
+            "fr": "Maison des Arts et du Tourisme"
           },
           "coords": [
             0.943068,
@@ -724,7 +803,8 @@
             "de": "Entdecken Sie hier lokale Kunstausstellungen und besorgen Sie sich wichtige Stadtpläne, bevor Sie Ihre historische Tour starten.",
             "hu": "Fedezze fel a helyi művészeti kiállításokat, és szerezzen be egy várostérképet, mielőtt nekivágna a történelmi sétának.",
             "ro": "Descoperiți expozițiile de artă locale și luați o hartă a orașului de aici înainte de a începe turul istoric al așezării.",
-            "en": "Discover local art exhibitions and gather essential town maps here before starting your historical tour of Conches."
+            "en": "Discover local art exhibitions and gather essential town maps here before starting your historical tour of Conches.",
+            "fr": "Découvrez les expositions d'art locales et récupérez ici les cartes indispensables de la ville avant de commencer votre visite historique de Conches."
           }
         },
         {
@@ -732,7 +812,8 @@
             "de": "Festungsturm von Conches",
             "hu": "Conches-i erőd",
             "ro": "Fortăreața din Conches",
-            "en": "Keep of Conches"
+            "en": "Keep of Conches",
+            "fr": "Donjon de Conches"
           },
           "coords": [
             0.940574,
@@ -747,7 +828,8 @@
             "de": "Erkunden Sie die Überreste dieses historischen Wehrturms, der einen fantastischen Panoramablick über das umliegende Ouche-Tal bietet.",
             "hu": "Fedezze fel a történelmi védőtorony maradványait, ahonnan fantasztikus panoráma nyílik a környező festői Ouche-völgyre.",
             "ro": "Explorați rămășițele acestui turn defensiv istoric, care oferă o vedere panoramică fantastică asupra văii pitorești Ouche.",
-            "en": "Explore the remnants of this historic defensive tower, which offers fantastic panoramic views over the surrounding Ouche valley."
+            "en": "Explore the remnants of this historic defensive tower, which offers fantastic panoramic views over the surrounding Ouche valley.",
+            "fr": "Explorez les vestiges de cette tour défensive historique, qui offre de fantastiques vues panoramiques sur la vallée de l'Ouche environnante."
           }
         },
         {
@@ -755,7 +837,8 @@
             "de": "Glasmuseum François Décorchemont",
             "hu": "François Décorchemont Üvegmúzeum",
             "ro": "Muzeul Sticlei François Décorchemont",
-            "en": "François Décorchemont Glass Museum"
+            "en": "François Décorchemont Glass Museum",
+            "fr": "Musée du verre François Décorchemont"
           },
           "coords": [
             0.942952,
@@ -770,7 +853,8 @@
             "de": "Erleben Sie die faszinierende Entwicklung der Glaskunst in diesem Museum und prüfen Sie den Plan für Live-Glasbläservorführungen.",
             "hu": "Ismerje meg az üvegművészet lenyűgöző fejlődését ebben a múzeumban, és érdemes előre tájékozódni az élő üvegfúvó bemutatókról.",
             "ro": "Descoperiți evoluția fascinantă a artei sticlei în acest muzeu și verificați programul pentru demonstrațiile de suflare a sticlei.",
-            "en": "Experience the fascinating evolution of glass art in this dedicated museum, and check the schedule for live glassblowing demos."
+            "en": "Experience the fascinating evolution of glass art in this dedicated museum, and check the schedule for live glassblowing demos.",
+            "fr": "Parcourez l'évolution fascinante de l'art du verre dans ce musée dédié et consultez le programme pour les démonstrations de soufflage de verre en direct."
           }
         },
         {
@@ -778,7 +862,8 @@
             "de": "Schloss Quenet",
             "hu": "Quenet Kastély",
             "ro": "Castelul Quenet",
-            "en": "Quenet Castle"
+            "en": "Quenet Castle",
+            "fr": "Château de Quenet"
           },
           "coords": [
             0.95816,
@@ -793,7 +878,8 @@
             "de": "Machen Sie einen kurzen Ausflug, um dieses charmante aristokratische Anwesen von außen zu betrachten, da die Architektur fotogen ist.",
             "hu": "Tegyen egy rövid kitérőt, és csodálja meg kívülről ezt a bájos arisztokrata birtokot, mivel klasszikus építészete igazán fotogén.",
             "ro": "Faceți o scurtă excursie pentru a vedea această moșie aristocratică fermecătoare, deoarece arhitectura sa clasică este foarte fotogenică.",
-            "en": "Take a short trip out to view this charming aristocratic estate from the outside, as the classical architecture is truly photogenic."
+            "en": "Take a short trip out to view this charming aristocratic estate from the outside, as the classical architecture is truly photogenic.",
+            "fr": "Faites une courte sortie pour admirer ce charmant domaine aristocratique de l'extérieur, l'architecture classique étant vraiment photogénique."
           }
         },
         {
@@ -801,7 +887,8 @@
             "de": "Kirche Saint-Élier",
             "hu": "Saint-Élier Templom",
             "ro": "Biserica Saint-Élier",
-            "en": "Saint-Élier Church"
+            "en": "Saint-Élier Church",
+            "fr": "Église Saint-Élier"
           },
           "coords": [
             0.967382,
@@ -816,7 +903,8 @@
             "de": "Besuchen Sie diese ruhige ländliche Kirche, um ihren schlichten, aber eleganten Baustil zu bewundern, der das Erbe der Region widerspiegelt.",
             "hu": "Látogasson el ebbe a csendes vidéki templomba, hogy megcsodálja egyszerű, de elegáns építészeti stílusát, amely a régió örökségét tükrözi.",
             "ro": "Vizitați această biserică rurală liniștită pentru a admira stilul său arhitectural simplu, care reflectă perfect patrimoniul regiunii.",
-            "en": "Visit this quiet rural church to admire its simple yet elegant architectural style that perfectly reflects the region's heritage."
+            "en": "Visit this quiet rural church to admire its simple yet elegant architectural style that perfectly reflects the region's heritage.",
+            "fr": "Visitez cette tranquille église rurale pour admirer son style architectural simple mais élégant qui reflète parfaitement le patrimoine de la région."
           }
         },
         {
@@ -824,7 +912,8 @@
             "de": "Kirche Saint-Léonard",
             "hu": "Saint-Léonard Templom",
             "ro": "Biserica Saint-Léonard",
-            "en": "Saint-Léonard Church"
+            "en": "Saint-Léonard Church",
+            "fr": "Chapelle Saint-Léonard"
           },
           "coords": [
             0.973859,
@@ -839,7 +928,8 @@
             "de": "Beenden Sie Ihre Tour durch die Landschaft an dieser charmanten historischen Kapelle und genießen Sie die friedliche Umgebung.",
             "hu": "Zárja vidéki körútját ennél a bájos történelmi kápolnánál, szánjon egy pillanatot a pihenésre és élvezze a békés környezetet.",
             "ro": "Încheiați turul la această capelă istorică fermecătoare, luându-vă un moment pentru a vă relaxa și a vă bucura de peisajul rural.",
-            "en": "Conclude your countryside tour at this charming historic chapel, taking a moment to relax and enjoy the peaceful rural surroundings."
+            "en": "Conclude your countryside tour at this charming historic chapel, taking a moment to relax and enjoy the peaceful rural surroundings.",
+            "fr": "Concluez votre balade à la campagne à cette charmante chapelle historique, prenez un moment pour vous détendre et profiter du calme des environs ruraux."
           }
         }
       ],
@@ -847,7 +937,8 @@
         "de": "Vormittag: Beginnen Sie am Tourismusbüro im Stadtzentrum zur Orientierung, bevor Sie die kurze Fahrt zum alten Wehrturm antreten. Mittag: Tauchen Sie im Glasmuseum in die Kunstgeschichte der Region ein, nur eine kurze Fahrt entfernt. Nachmittag: Fahren Sie in die malerische Landschaft, um das Château de Quenet und die charmante Kirche Saint-Élier zu bewundern. Abend: Fahren Sie weiter zur friedlichen Kirche Saint-Léonard und beenden Sie den Tag mit einer landschaftlich reizvollen Fahrt in den Sonnenuntergang.",
         "hu": "Délelőtt: Kezdje a városközpont turisztikai irodájánál a tájékozódást, majd tegyen egy rövid utat az ősi Öregtoronyhoz. Délben: Merüljön el a régió művészeti történelmében az Üvegmúzeumban, amely könnyen megközelíthető autóval. Délután: Vezessen ki a festői vidékre, hogy megcsodálja a Château de Quenet-t és a bájos Église Saint-Élier-t. Este: Hajtson tovább a békés Église Saint-Léonard-hoz, és zárja a napot egy pihentető, naplementés autózással.",
         "ro": "Dimineața: Începeți la biroul de turism din centrul orașului pentru a vă orienta înainte de scurta plimbare spre Donjonul antic. La prânz: Aprofundați istoria artistică a regiunii la Muzeul Sticlei, aflat la mică distanță cu mașina. După-amiaza: Conduceți prin peisajul rural pitoresc pentru a admira Château de Quenet și cocheta biserică Saint-Élier. Seara: Mergeți mai departe spre liniștita Église Saint-Léonard, încheind ziua cu un drum relaxant la apus.",
-        "en": "Morning: Begin at the tourism office in the town center to orient yourself before making the short drive to the ancient Keep. Midday: Delve into the region's artistic history at the Glass Museum, a comfortable drive from the main historical sites. Afternoon: Drive out into the picturesque countryside to admire the exterior of Château de Quenet and the quaint Église Saint-Élier. Evening: Drive further out to the peaceful Église Saint-Léonard, concluding your day trip with a scenic and relaxing sunset drive."
+        "en": "Morning: Begin at the tourism office in the town center to orient yourself before making the short drive to the ancient Keep. Midday: Delve into the region's artistic history at the Glass Museum, a comfortable drive from the main historical sites. Afternoon: Drive out into the picturesque countryside to admire the exterior of Château de Quenet and the quaint Église Saint-Élier. Evening: Drive further out to the peaceful Église Saint-Léonard, concluding your day trip with a scenic and relaxing sunset drive.",
+        "fr": "Matin : Commencez à l'office de tourisme au centre-ville pour vous orienter avant de faire le court trajet jusqu'au Donjon ancien. Midi : Plongez dans l'histoire artistique de la région au Musée du Verre, à une courte distance des principaux sites historiques. Après-midi : Partez à la découverte de la campagne pittoresque pour admirer l'extérieur du Château de Quenet et la pittoresque Église Saint-Élier. Soir : Poursuivez jusqu'à la paisible Chapelle Saint-Léonard, concluant votre excursion d'une conduite panoramique et reposante au coucher du soleil."
       },
       "variants": {
         "rainy": {
@@ -855,7 +946,8 @@
             "de": "Ein entspannter Regentag im Auto startet am Haus des Tourismus. Mittags besuchen wir den Festungsturm und das Glasmuseum, wobei wir nur kurze Wege im Regen zurücklegen. Der Nachmittag führt uns zum Schloss Quenet und zur Kirche Saint-Élier. Wir beenden die Tour an der Kirche Saint-Léonard.",
             "hu": "Egy pihentető esős nap autóval Conches-ben, a Turisztikai Háznál kezdünk. Délben az erődöt és az üvegmúzeumot látogatjuk meg, csak rövid utakat téve meg az esőben. A délután a Quenet kastélyhoz és a Saint-Élier templomhoz vezet. A túrát a Saint-Léonard templomnál zárjuk.",
             "ro": "O zi relaxantă de ploaie cu mașina prin Conches, începem la Casa Turismului. La prânz vizităm fortăreața și Muzeul Sticlei, parcurgând doar distanțe scurte prin ploaie. După-amiaza ne duce la Castelul Quenet și Biserica Saint-Élier. Încheiem turul la Biserica Saint-Léonard.",
-            "en": "A relaxed rainy day by car through Conches, starting at the House of Tourism. At noon, we visit the keep and the Glass Museum, making only short trips in the rain. The afternoon leads us to Quenet Castle and Saint-Élier Church. We end the tour at Saint-Léonard Church."
+            "en": "A relaxed rainy day by car through Conches, starting at the House of Tourism. At noon, we visit the keep and the Glass Museum, making only short trips in the rain. The afternoon leads us to Quenet Castle and Saint-Élier Church. We end the tour at Saint-Léonard Church.",
+            "fr": "Une journée pluvieuse et détendue en voiture à travers Conches, en commençant à la Maison du Tourisme. À midi, nous visitons le donjon et le Musée du Verre, en ne faisant que de courts trajets sous la pluie. L'après-midi nous mène au Château de Quenet et à l'Église Saint-Élier. Nous terminons la visite à la Chapelle Saint-Léonard."
           },
           "stops": [
             {
@@ -863,13 +955,15 @@
                 "de": "Haus der Kunst und des Tourismus",
                 "hu": "Művészetek és Turizmus Háza",
                 "ro": "Casa Artelor și Turismului",
-                "en": "House of Arts and Tourism"
+                "en": "House of Arts and Tourism",
+                "fr": "Maison des Arts et du Tourisme"
               },
               "tip_5lang": {
                 "de": "Parken Sie in der Nähe und nutzen Sie das Gebäude als trockene Basis; hier können Sie in Ruhe die Route für die Fahrt durch die regnerische Umgebung planen.",
                 "hu": "Parkoljon a közelben és használja az épületet száraz bázisként; itt nyugodtan megtervezheti az útvonalat az esős környéken való autózáshoz.",
                 "ro": "Parcați în apropiere și folosiți clădirea ca bază uscată; aici puteți planifica în liniște ruta pentru drumul prin împrejurimile ploioase.",
-                "en": "Park nearby and use the building as a dry base; here you can quietly plan the route for the drive through the rainy surroundings and nearby sights."
+                "en": "Park nearby and use the building as a dry base; here you can quietly plan the route for the drive through the rainy surroundings and nearby sights.",
+                "fr": "Garez-vous à proximité et utilisez le bâtiment comme base sèche ; ici vous pouvez calmement planifier l'itinéraire de la promenade en voiture à travers les alentours pluvieux et les sites proches."
               }
             },
             {
@@ -877,13 +971,15 @@
                 "de": "Festungsturm von Conches",
                 "hu": "Conches-i erőd",
                 "ro": "Fortăreața din Conches",
-                "en": "Keep of Conches"
+                "en": "Keep of Conches",
+                "fr": "Donjon de Conches"
               },
               "tip_5lang": {
                 "de": "Halten Sie einen Regenschirm für den kurzen Fußweg vom Parkplatz bereit; der Aufstieg bietet bei Regen eine dramatische Sicht auf die nassen Dächer der Stadt.",
                 "hu": "Tartson készenlétben egy esernyőt a parkolótól vezető rövid sétához; a toronyba való feljutás esőben drámai kilátást nyújt a város vizes háztetőire.",
                 "ro": "Pregătiți o umbrelă pentru scurta plimbare de la parcare; urcarea oferă o vedere dramatică asupra acoperișurilor ude ale orașului pe timp de ploaie.",
-                "en": "Keep an umbrella ready for the short walk from the parking lot; the climb offers a dramatic view of the city's wet rooftops in the rainy weather."
+                "en": "Keep an umbrella ready for the short walk from the parking lot; the climb offers a dramatic view of the city's wet rooftops in the rainy weather.",
+                "fr": "Gardez un parapluie prêt pour la courte marche depuis le parking ; la montée offre une vue spectaculaire sur les toits mouillés de la ville par temps de pluie."
               }
             },
             {
@@ -891,13 +987,15 @@
                 "de": "Glasmuseum François Décorchemont",
                 "hu": "François Décorchemont Üvegmúzeum",
                 "ro": "Muzeul Sticlei François Décorchemont",
-                "en": "François Décorchemont Glass Museum"
+                "en": "François Décorchemont Glass Museum",
+                "fr": "Musée du verre François Décorchemont"
               },
               "tip_5lang": {
                 "de": "Genießen Sie den Komfort, direkt vor dem Museum zu parken und ins Trockene zu flüchten; die Glasausstellung ist der perfekte Ort für einen regnerischen Nachmittag.",
                 "hu": "Élvezze a kényelmet, hogy közvetlenül a múzeum előtt parkolhat és a szárazba menekülhet; az üvegkiállítás tökéletes helyszín egy esős délutánra.",
                 "ro": "Bucurați-vă de confortul de a parca chiar în fața muzeului și de a fugi la adăpost; expoziția de sticlă este locul perfect pentru o după-amiază ploioasă.",
-                "en": "Enjoy the convenience of parking right in front of the museum and escaping into the dry; the glass exhibition is the perfect place for a rainy afternoon."
+                "en": "Enjoy the convenience of parking right in front of the museum and escaping into the dry; the glass exhibition is the perfect place for a rainy afternoon.",
+                "fr": "Profitez de la facilité de stationnement juste devant le musée et échappez à l'humidité ; l'exposition de verre est l'endroit parfait pour un après-midi pluvieux."
               }
             },
             {
@@ -905,13 +1003,15 @@
                 "de": "Schloss Quenet",
                 "hu": "Quenet Kastély",
                 "ro": "Castelul Quenet",
-                "en": "Quenet Castle"
+                "en": "Quenet Castle",
+                "fr": "Château de Quenet"
               },
               "tip_5lang": {
                 "de": "Achten Sie bei der Anfahrt auf Pfützen und schlechte Sicht; das Schloss wirkt im Regen besonders herrschaftlich und lädt zu einem kurzen Fotostopp ein.",
                 "hu": "Vigyázzon a tócsákra és a rossz látási viszonyokra az odavezető úton; a kastély esőben különösen előkelőnek tűnik és egy rövid fotómegállóra csábít.",
                 "ro": "Atenție la bălți și vizibilitate redusă la sosire; castelul pare deosebit de nobil în ploaie și invită la o scurtă oprire pentru fotografii.",
-                "en": "Watch out for puddles and poor visibility on the drive there; the castle looks particularly stately in the rain and invites a quick photo stop."
+                "en": "Watch out for puddles and poor visibility on the drive there; the castle looks particularly stately in the rain and invites a quick photo stop.",
+                "fr": "Attention aux flaques et à la mauvaise visibilité sur la route ; le château paraît particulièrement majestueux sous la pluie et invite à un arrêt photo rapide."
               }
             },
             {
@@ -919,13 +1019,15 @@
                 "de": "Kirche Saint-Élier",
                 "hu": "Saint-Élier Templom",
                 "ro": "Biserica Saint-Élier",
-                "en": "Saint-Élier Church"
+                "en": "Saint-Élier Church",
+                "fr": "Église Saint-Élier"
               },
               "tip_5lang": {
                 "de": "Nutzen Sie den Schutz Ihres Autos für die Fahrt zur Kirche; im Inneren finden Sie einen ruhigen Ort, um dem Prasseln des Regens auf das Dach zu lauschen.",
                 "hu": "Használja autója védelmét a templomhoz vezető úton; odabent csendes helyet talál, ahol hallgathatja az eső kopogását a templomtetőn.",
                 "ro": "Folosiți protecția mașinii pentru drumul spre biserică; în interior veți găsi un loc liniștit unde puteți asculta ropotul ploii pe acoperiș.",
-                "en": "Use the protection of your car for the drive to the church; inside, you will find a quiet place to listen to the patter of rain on the church roof."
+                "en": "Use the protection of your car for the drive to the church; inside, you will find a quiet place to listen to the patter of rain on the church roof.",
+                "fr": "Utilisez la protection de votre voiture pour le trajet jusqu'à l'église ; à l'intérieur, vous trouverez un lieu calme pour écouter le clapotis de la pluie sur le toit de l'église."
               }
             },
             {
@@ -933,13 +1035,15 @@
                 "de": "Kirche Saint-Léonard",
                 "hu": "Saint-Léonard Templom",
                 "ro": "Biserica Saint-Léonard",
-                "en": "Saint-Léonard Church"
+                "en": "Saint-Léonard Church",
+                "fr": "Chapelle Saint-Léonard"
               },
               "tip_5lang": {
                 "de": "Beenden Sie den Tag bei dieser abgelegenen Kirche, die Sie bequem mit dem Auto erreichen; achten Sie auf nasse Straßenoberflächen bei der Rückfahrt.",
                 "hu": "Zárja a napot ennél a távolabb eső templomnál, amelyet kényelmesen elérhet autóval; ügyeljen a nedves útfelületre a visszaút során.",
                 "ro": "Încheiați ziua la această biserică retrasă, la care puteți ajunge confortabil cu mașina; atenție la suprafața umedă a drumului la întoarcere.",
-                "en": "End the day at this more remote church, which you can reach comfortably by car; watch out for wet road surfaces on the drive back to the city center."
+                "en": "End the day at this more remote church, which you can reach comfortably by car; watch out for wet road surfaces on the drive back to the city center.",
+                "fr": "Terminez la journée dans cette église plus isolée, accessible confortablement en voiture ; méfiez-vous des chaussées mouillées en revenant au centre-ville."
               }
             }
           ]
@@ -949,7 +1053,8 @@
             "de": "Eine gemütliche winterliche Autofahrt durch die Normandie startet im beheizten Wagen am Tourismushaus. Mittags besuchen wir den Turm und das Glasmuseum. Der Nachmittag führt uns zum Schloss Quenet und zur Kirche Saint-Élier. Wir beenden die Tour bei Sonnenuntergang um 17 Uhr an der Kirche Saint-Léonard.",
             "hu": "Egy barátságos téli autózás Normandiában, a fűtött kocsiban indulunk a Turisztikai Háztól. Délben a tornyot és az üvegmúzeumot látogatjuk meg. A délután a Quenet kastélyhoz és a Saint-Élier templomhoz vezet. A túrát naplementekor, 17 órakor zárjuk a Saint-Léonard templomnál.",
             "ro": "O plimbare plăcută de iarnă cu mașina prin Normandia, plecăm în vehiculul încălzit de la Casa Turismului. La prânz vizităm turnul și Muzeul Sticlei. După-amiaza ne duce la Castelul Quenet și Biserica Saint-Élier. Încheiem turul la apus, ora 17, la Biserica Saint-Léonard.",
-            "en": "A cozy winter drive through Normandy, starting in a heated car at the House of Tourism. At noon, we visit the keep and the Glass Museum. The afternoon leads us to Quenet Castle and Saint-Élier Church. We end the tour at sunset at 5 PM at Saint-Léonard Church."
+            "en": "A cozy winter drive through Normandy, starting in a heated car at the House of Tourism. At noon, we visit the keep and the Glass Museum. The afternoon leads us to Quenet Castle and Saint-Élier Church. We end the tour at sunset at 5 PM at Saint-Léonard Church.",
+            "fr": "Une agréable balade hivernale en voiture à travers la Normandie, en commençant dans une voiture chauffée à la Maison du Tourisme. À midi, nous visitons le donjon et le Musée du Verre. L'après-midi nous mène au Château de Quenet et à l'Église Saint-Élier. Nous terminons la visite au coucher du soleil à 17 h à la Chapelle Saint-Léonard."
           },
           "stops": [
             {
@@ -957,13 +1062,15 @@
                 "de": "Haus der Kunst und des Tourismus",
                 "hu": "Művészetek és Turizmus Háza",
                 "ro": "Casa Artelor și Turismului",
-                "en": "House of Arts and Tourism"
+                "en": "House of Arts and Tourism",
+                "fr": "Maison des Arts et du Tourisme"
               },
               "tip_5lang": {
                 "de": "Nutzen Sie den Aufenthalt im warmen Gebäude, um die Heizung Ihres Autos für die nächste Etappe optimal einzustellen; prüfen Sie die winterlichen Straßenbedingungen.",
                 "hu": "Használja ki a meleg épületben töltött időt az autó fűtésének beállítására a következő szakaszhoz; ellenőrizze a téli útviszonyokat az indulás előtt.",
                 "ro": "Profită de șederea în clădirea caldă pentru a regla optim încălzirea mașinii pentru următoarea etapă; verifică condițiile de drum de iarnă înainte de plecare.",
-                "en": "Take advantage of the stay in the warm building to optimally set your car's heating for the next stage; check the winter road conditions before starting."
+                "en": "Take advantage of the stay in the warm building to optimally set your car's heating for the next stage; check the winter road conditions before starting.",
+                "fr": "Profitez de votre séjour dans le bâtiment chauffé pour régler au mieux le chauffage de la voiture pour l'étape suivante ; vérifiez les conditions hivernales des routes avant de démarrer."
               }
             },
             {
@@ -971,13 +1078,15 @@
                 "de": "Festungsturm von Conches",
                 "hu": "Conches-i erőd",
                 "ro": "Fortăreața din Conches",
-                "en": "Keep of Conches"
+                "en": "Keep of Conches",
+                "fr": "Donjon de Conches"
               },
               "tip_5lang": {
                 "de": "Wickeln Sie sich für den Aufstieg zum Turm warm ein, oben weht oft ein beißender Winterwind; die klare Luft sorgt für eine fantastische Weitsicht über die Region.",
                 "hu": "Burkolózzon be melegen a toronyba való feljutáshoz, fent gyakran harapós téli szél fúj; a tiszta levegő fantasztikus messzi kilátást biztosít a régióra.",
                 "ro": "Înfofolește-te bine pentru urcarea în turn, sus suflă adesea un vânt tăios de iarnă; aerul curat asigură o vedere panoramică fantastică asupra regiunii.",
-                "en": "Wrap up warm for the climb to the keep, as a biting winter wind often blows at the top; the clear air provides a fantastic long-distance view over the region."
+                "en": "Wrap up warm for the climb to the keep, as a biting winter wind often blows at the top; the clear air provides a fantastic long-distance view over the region.",
+                "fr": "Couvrez-vous chaudement pour la montée au donjon, car un vent hivernal mordant souffle souvent au sommet ; l'air clair offre une vue fantastique à longue distance sur la région."
               }
             },
             {
@@ -985,13 +1094,15 @@
                 "de": "Glasmuseum François Décorchemont",
                 "hu": "François Décorchemont Üvegmúzeum",
                 "ro": "Muzeul Sticlei François Décorchemont",
-                "en": "François Décorchemont Glass Museum"
+                "en": "François Décorchemont Glass Museum",
+                "fr": "Musée du verre François Décorchemont"
               },
               "tip_5lang": {
                 "de": "Ein perfekter Stopp im Winter, da das Museum angenehm temperiert ist; die leuchtenden Farben der Glaskunst sind ein wunderbarer Kontrast zum winterlichen Grau.",
                 "hu": "Tökéletes megálló télen, mivel a múzeumban kellemes a hőmérséklet; az üvegművészet ragyogó színei csodálatos kontrasztot alkotnak a téli szürkeséggel.",
                 "ro": "O oprire perfectă iarna, deoarece muzeul are o temperatură plăcută; culorile strălucitoare ale artei sticlei sunt un contrast minunat cu griul iernii.",
-                "en": "A perfect stop in winter as the museum is pleasantly tempered; the glowing colors of the glass art are a wonderful contrast to the wintry grey outside."
+                "en": "A perfect stop in winter as the museum is pleasantly tempered; the glowing colors of the glass art are a wonderful contrast to the wintry grey outside.",
+                "fr": "Une halte idéale en hiver car le musée est agréablement tempéré ; les couleurs éclatantes des œuvres en verre contrastent merveilleusement avec le gris hivernal extérieur."
               }
             },
             {
@@ -999,13 +1110,15 @@
                 "de": "Schloss Quenet",
                 "hu": "Quenet Kastély",
                 "ro": "Castelul Quenet",
-                "en": "Quenet Castle"
+                "en": "Quenet Castle",
+                "fr": "Château de Quenet"
               },
               "tip_5lang": {
                 "de": "Genießen Sie den Anblick des imposanten Schlosses bequem vom Auto aus oder bei einem kurzen Spaziergang; die winterliche Einsamkeit verleiht dem Ort etwas Magisches.",
                 "hu": "Élvezze az impozáns kastély látványát kényelmesen az autóból vagy egy rövid séta során; a téli magányosság valami varázslatosat kölcsönöz a helynek.",
                 "ro": "Bucurați-vă de vederea castelului impunător confortabil din mașină sau într-o scurtă plimbare; singurătatea iernii conferă locului ceva magic și deosebit.",
-                "en": "Enjoy the view of the imposing castle comfortably from the car or on a short walk; the wintry solitude gives the place something truly magical and special."
+                "en": "Enjoy the view of the imposing castle comfortably from the car or on a short walk; the wintry solitude gives the place something truly magical and special.",
+                "fr": "Appréciez la vue de l'imposant château confortablement depuis la voiture ou lors d'une courte promenade ; la solitude hivernale confère au lieu un charme vraiment magique et singulier."
               }
             },
             {
@@ -1013,13 +1126,15 @@
                 "de": "Kirche Saint-Élier",
                 "hu": "Saint-Élier Templom",
                 "ro": "Biserica Saint-Élier",
-                "en": "Saint-Élier Church"
+                "en": "Saint-Élier Church",
+                "fr": "Église Saint-Élier"
               },
               "tip_5lang": {
                 "de": "Die Kirche bietet Schutz vor dem kalten Wind, aber denken Sie an warme Kleidung; die dämmerige Beleuchtung im Winter schafft eine andächtige Stimmung im Inneren.",
                 "hu": "A templom védelmet nyújt a hideg szél ellen, de ne feledkezzen meg a meleg ruháról; a téli szürkületi világítás áhítatos hangulatot teremt odabent.",
                 "ro": "Biserica oferă protecție împotriva vântului rece, dar nu uita de hainele groase; iluminatul de amurg de iarnă creează o atmosferă pioasă în interior.",
-                "en": "The church offers protection from the cold wind, but remember warm clothing; the twilight lighting in winter creates a prayerful and solemn mood inside."
+                "en": "The church offers protection from the cold wind, but remember warm clothing; the twilight lighting in winter creates a prayerful and solemn mood inside.",
+                "fr": "L'église offre une protection contre le vent froid, mais pensez à des vêtements chauds ; la lumière du crépuscule en hiver crée une atmosphère priante et solennelle à l'intérieur."
               }
             },
             {
@@ -1027,13 +1142,15 @@
                 "de": "Kirche Saint-Léonard",
                 "hu": "Saint-Léonard Templom",
                 "ro": "Biserica Saint-Léonard",
-                "en": "Saint-Léonard Church"
+                "en": "Saint-Léonard Church",
+                "fr": "Chapelle Saint-Léonard"
               },
               "tip_5lang": {
                 "de": "Besuchen Sie diesen abgeschiedenen Ort vor Sonnenuntergang um 17 Uhr; achten Sie bei der Fahrt durch die winterliche Landschaft auf eventuelle Glätte auf Nebenstraßen.",
                 "hu": "Látogassa meg ezt az eldugott helyet naplemente előtt, 17 óráig; a téli tájon át vezető úton ügyeljen az esetleges jegesedésre a mellékutakon.",
                 "ro": "Vizitați acest loc retras înainte de apus, la ora 17; pe drumul prin peisajul de iarnă, aveți grijă la eventualul polei de pe drumurile secundare.",
-                "en": "Visit this secluded spot before sunset at 5 PM; while driving through the wintry landscape, watch out for potential ice on the narrow and rural back roads."
+                "en": "Visit this secluded spot before sunset at 5 PM; while driving through the wintry landscape, watch out for potential ice on the narrow and rural back roads.",
+                "fr": "Visitez ce lieu isolé avant le coucher du soleil à 17 h ; en traversant le paysage hivernal, attention aux risques de verglas sur les petites routes rurales."
               }
             }
           ]

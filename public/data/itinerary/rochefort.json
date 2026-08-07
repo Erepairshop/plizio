@@ -31,7 +31,8 @@
             "de": "Genießen Sie einen Kaffee auf dem berühmten Platz aus dem Film 'Die Mädchen von Rochefort'.",
             "hu": "Igyon egy kávét a híres téren, ahol a 'Rochefort-i lányok' filmet forgatták.",
             "ro": "Savurați o cafea în celebra piață din filmul 'Domnișoarele din Rochefort'.",
-            "en": "Enjoy a coffee in the famous square from the film 'The Young Ladies of Rochefort'."
+            "en": "Enjoy a coffee in the famous square from the film 'The Young Ladies of Rochefort'.",
+            "fr": "Dégustez un café sur la place célèbre du film « Les Demoiselles de Rochefort »."
           }
         },
         {
@@ -49,7 +50,8 @@
             "de": "Ein exotisches Haus, das die Reisen des berühmten Schriftstellers widerspiegelt.",
             "hu": "Egy egzotikus ház, amely a híres író utazásait tükrözi.",
             "ro": "O casă exotică ce reflectă călătoriile celebrului scriitor.",
-            "en": "An exotic house reflecting the travels of the famous writer."
+            "en": "An exotic house reflecting the travels of the famous writer.",
+            "fr": "Une maison exotique témoignant des voyages du célèbre écrivain."
           }
         },
         {
@@ -67,7 +69,8 @@
             "de": "Spazieren Sie durch diesen Garten, der an die Expeditionen der Marine erinnert.",
             "hu": "Sétáljon ebben a kertben, amely a tengerészeti expedíciókra emlékeztet.",
             "ro": "Plimbați-vă prin această grădină care amintește de expedițiile marinei.",
-            "en": "Stroll through this garden that recalls naval expeditions."
+            "en": "Stroll through this garden that recalls naval expeditions.",
+            "fr": "Promenez‑vous dans ce jardin qui rappelle les expéditions navales."
           }
         },
         {
@@ -85,7 +88,8 @@
             "de": "Die beeindruckende 374 Meter lange Seilerei aus dem 17. Jahrhundert.",
             "hu": "A lenyűgöző, 374 méter hosszú kötélverőde a 17. századból.",
             "ro": "Impresionanta frânghierie de 374 de metri lungime din secolul al XVII-lea.",
-            "en": "The impressive 374-meter long rope factory from the 17th century."
+            "en": "The impressive 374-meter long rope factory from the 17th century.",
+            "fr": "La spectaculaire corde‑usine de 374 mètres de long du XVIIe siècle."
           }
         },
         {
@@ -103,7 +107,8 @@
             "de": "Entdecken Sie die Geschichte des Arsenals von Rochefort.",
             "hu": "Fedezze fel a rochefort-i arzenál történetét.",
             "ro": "Descoperiți istoria arsenalului din Rochefort.",
-            "en": "Discover the history of the Rochefort arsenal."
+            "en": "Discover the history of the Rochefort arsenal.",
+            "fr": "Découvrez l’histoire de l’arsenal de Rochefort."
           }
         },
         {
@@ -121,7 +126,8 @@
             "de": "Besuchen Sie die Nachbildung der berühmten Fregatte von Lafayette.",
             "hu": "Látogasson el Lafayette híres fregattjának másolatához.",
             "ro": "Vizitați replica celebrei fregate a lui Lafayette.",
-            "en": "Visit the replica of Lafayette's famous frigate."
+            "en": "Visit the replica of Lafayette's famous frigate.",
+            "fr": "Visitez la réplique de la célèbre frégate de La Fayette."
           }
         }
       ],
@@ -129,7 +135,8 @@
         "de": "Morgens tauchen Sie im Stadtzentrum auf dem Place Colbert in die Atmosphäre des 17. Jahrhunderts ein. Mittags erkunden Sie die prächtige Corderie Royale am Ufer der Charente. Nachmittags widmen Sie sich der maritimen Geschichte im Marinemuseum und bewundern das Abenteuer der Hermione. Der Abend klingt entspannt am Hafen aus, umgeben von der Geschichte der französischen Marine.",
         "hu": "Reggel a Place Colbert-en merüljön el a 17. századi hangulatban. Délben fedezze fel a pompás Corderie Royale-t a Charente partján. Délután szentelje idejét a tengerészeti történelemnek a Marinemuseumban, és csodálja meg a Hermione fregatt kalandjait. Az este pihentetően telik a kikötőben, a francia haditengerészet történelmével körülvéve.",
         "ro": "Dimineața, în Place Colbert, scufundați-vă în atmosfera secolului al XVII-lea. La prânz, explorați splendida Corderie Royale pe malul râului Charente. După-amiaza, dedicați-vă istoriei maritime la Marinemuseum și admirați aventura fregatei Hermione. Seara se încheie relaxant în port, înconjurat de istoria marinei franceze.",
-        "en": "In the morning, immerse yourself in the 17th-century atmosphere at Place Colbert. At noon, explore the magnificent Corderie Royale on the banks of the Charente. In the afternoon, dedicate your time to maritime history at the Marinemuseum and admire the adventure of the Hermione. The evening ends relaxingly at the harbor, surrounded by French naval history."
+        "en": "In the morning, immerse yourself in the 17th-century atmosphere at Place Colbert. At noon, explore the magnificent Corderie Royale on the banks of the Charente. In the afternoon, dedicate your time to maritime history at the Marinemuseum and admire the adventure of the Hermione. The evening ends relaxingly at the harbor, surrounded by French naval history.",
+        "fr": "Le matin, plongez dans l’atmosphère du XVIIe siècle sur la Place Colbert. À midi, explorez la magnifique Corderie Royale sur les rives de la Charente. L’après‑midi, consacrez du temps à l’histoire maritime au Musée de la Marine et admirez l’aventure de l’Hermione. La soirée se termine agréablement au port, entouré par l’histoire navale française."
       },
       "gastro_picks": {
         "de": [
@@ -249,6 +256,11 @@
           "Rochefort is flat and ideal for walking.",
           "Ask for combo tickets for the museums at the tourist office.",
           "The Corderie Royale offers evening guided tours in summer."
+        ],
+        "fr": [
+          "Rochefort est plat et idéal pour la marche.",
+          "Demandez des billets combinés pour les musées à l’office de tourisme.",
+          "La Corderie Royale propose des visites guidées en soirée en été."
         ]
       }
     },
@@ -275,7 +287,8 @@
             "de": "Zentraler Treffpunkt.",
             "hu": "Központi találkozóhely.",
             "ro": "Punct central de întâlnire.",
-            "en": "Central meeting point."
+            "en": "Central meeting point.",
+            "fr": "Point de rendez‑vous central."
           }
         },
         {
@@ -293,7 +306,8 @@
             "de": "Einzigartige Architektur.",
             "hu": "Egyedülálló építészet.",
             "ro": "Arhitectură unică.",
-            "en": "Unique architecture."
+            "en": "Unique architecture.",
+            "fr": "Architecture unique."
           }
         },
         {
@@ -311,7 +325,8 @@
             "de": "Ein Stück lebendige Geschichte.",
             "hu": "Egy darab élő történelem.",
             "ro": "O parte din istoria vie.",
-            "en": "A piece of living history."
+            "en": "A piece of living history.",
+            "fr": "Un fragment d’histoire vivante."
           }
         },
         {
@@ -329,7 +344,8 @@
             "de": "Überqueren Sie die Charente mit der letzten Schwebefähre Frankreichs.",
             "hu": "Keljen át a Charente-on Franciaország utolsó lebegő hídján.",
             "ro": "Traversați Charente cu ultimul pod transbordor din Franța.",
-            "en": "Cross the Charente with the last transporter bridge in France."
+            "en": "Cross the Charente with the last transporter bridge in France.",
+            "fr": "Traversez la Charente via le dernier pont transbordeur de France."
           }
         },
         {
@@ -347,7 +363,8 @@
             "de": "Flugzeuge und Hubschrauber der Marine.",
             "hu": "A haditengerészet repülőgépei és helikopterei.",
             "ro": "Avioane și elicoptere ale marinei.",
-            "en": "Naval aircraft and helicopters."
+            "en": "Naval aircraft and helicopters.",
+            "fr": "Aéronefs et hélicoptères navals."
           }
         }
       ],
@@ -355,7 +372,8 @@
         "de": "Mit dem Fahrrad erkunden Sie das Arsenal und fahren dann entlang des Flusses zur spektakulären Schwebefähre. Nach einer Überfahrt besuchen Sie das Marinefliegermuseum am Stadtrand.",
         "hu": "Kerékpárral fedezze fel az arzenált, majd tekerjen a folyó mentén a látványos lebegő hídig. Az átkelés után látogasson el a város szélén lévő tengerészeti repülőmúzeumba.",
         "ro": "Cu bicicleta, explorați arsenalul și apoi pedalați de-a lungul râului până la spectaculosul pod transbordor. După o traversare, vizitați muzeul aviației navale de la marginea orașului.",
-        "en": "By bike, explore the arsenal and then cycle along the river to the spectacular transporter bridge. After a crossing, visit the naval aviation museum on the outskirts."
+        "en": "By bike, explore the arsenal and then cycle along the river to the spectacular transporter bridge. After a crossing, visit the naval aviation museum on the outskirts.",
+        "fr": "À vélo, explorez l’arsenal puis suivez la rivière jusqu’au spectaculaire pont transbordeur. Après la traversée, visitez le musée de l’aviation navale en périphérie."
       },
       "gastro_picks": {
         "de": [
@@ -451,6 +469,9 @@
         ],
         "en": [
           "The paths along the Charente are perfect for cyclists."
+        ],
+        "fr": [
+          "Les voies le long de la Charente sont parfaites pour les cyclistes."
         ]
       }
     },
@@ -477,7 +498,8 @@
             "de": "Parken Sie hier für das Arsenal.",
             "hu": "Parkoljon itt az arzenálhoz.",
             "ro": "Parcați aici pentru arsenal.",
-            "en": "Park here for the arsenal."
+            "en": "Park here for the arsenal.",
+            "fr": "Garez‑vous ici pour l’arsenal."
           }
         },
         {
@@ -495,7 +517,8 @@
             "de": "Zu Fuß erreichbar.",
             "hu": "Gyalogosan elérhető.",
             "ro": "Accesibil pe jos.",
-            "en": "Accessible on foot."
+            "en": "Accessible on foot.",
+            "fr": "Accessible à pied."
           }
         },
         {
@@ -513,7 +536,8 @@
             "de": "Parkhaus im Zentrum nutzen.",
             "hu": "Használja a központi parkolóházat.",
             "ro": "Folosiți parcarea din centru.",
-            "en": "Use the central parking garage."
+            "en": "Use the central parking garage.",
+            "fr": "Utilisez le parking central couvert."
           }
         },
         {
@@ -531,7 +555,8 @@
             "de": "Regionale Spezialitäten.",
             "hu": "Regionális specialitások.",
             "ro": "Specialități regionale.",
-            "en": "Regional specialties."
+            "en": "Regional specialties.",
+            "fr": "Spécialités régionales."
           }
         },
         {
@@ -549,7 +574,8 @@
             "de": "Einzigartiges Fotomotiv.",
             "hu": "Egyedülálló fotótéma.",
             "ro": "Subiect foto unic.",
-            "en": "Unique photo spot."
+            "en": "Unique photo spot.",
+            "fr": "Emplacement photo unique."
           }
         },
         {
@@ -567,7 +593,8 @@
             "de": "Ideal für Flugzeugfans.",
             "hu": "Ideális repülőgép-rajongóknak.",
             "ro": "Ideal pentru fanii avioanelor.",
-            "en": "Ideal for aviation fans."
+            "en": "Ideal for aviation fans.",
+            "fr": "Idéal pour les fans d’aviation."
           }
         }
       ],
@@ -575,7 +602,8 @@
         "de": "Nutzen Sie das Auto, um zwischen dem historischen Arsenal, dem lebhaften Zentrum und den technischeren Sehenswürdigkeiten wie der Schwebefähre und dem Fliegermuseum zu pendeln. Parken Sie in Clustern, um die Atmosphäre zu Fuß zu genießen.",
         "hu": "Használja az autót a történelmi arzenál, a nyüzsgő központ és a technikai látnivalók, például a lebegő híd és a repülőmúzeum közötti ingázáshoz. Parkoljon le a csomópontoknál, hogy gyalogosan is élvezhesse a hangulatot.",
         "ro": "Folosiți mașina pentru a face naveta între arsenalul istoric, centrul plin de viață și obiectivele tehnice precum podul transbordor și muzeul aviației. Parcați în clustere pentru a vă bucura de atmosferă pe jos.",
-        "en": "Use the car to commute between the historic arsenal, the lively center, and technical sights like the transporter bridge and the aviation museum. Park in clusters to enjoy the atmosphere on foot."
+        "en": "Use the car to commute between the historic arsenal, the lively center, and technical sights like the transporter bridge and the aviation museum. Park in clusters to enjoy the atmosphere on foot.",
+        "fr": "Utilisez la voiture pour vous déplacer entre l’arsenal historique, le centre animé et les sites techniques comme le pont transbordeur et le musée de l’aviation. Garez‑vous par zones pour profiter de l’ambiance à pied."
       },
       "gastro_picks": {
         "de": [
@@ -671,6 +699,9 @@
         ],
         "en": [
           "Pay attention to parking zones in the city center."
+        ],
+        "fr": [
+          "Faites attention aux zones de stationnement dans le centre‑ville."
         ]
       }
     },
@@ -697,7 +728,8 @@
             "de": "Zentraler Busknotenpunkt.",
             "hu": "Központi buszcsomópont.",
             "ro": "Nod central de autobuz.",
-            "en": "Central bus hub."
+            "en": "Central bus hub.",
+            "fr": "Nœud de bus central."
           }
         },
         {
@@ -715,7 +747,8 @@
             "de": "Kurzer Fußweg vom Zentrum.",
             "hu": "Rövid séta a központból.",
             "ro": "Scurtă plimbare din centru.",
-            "en": "Short walk from the center."
+            "en": "Short walk from the center.",
+            "fr": "Courte marche depuis le centre."
           }
         },
         {
@@ -733,7 +766,8 @@
             "de": "Besuchermagnet.",
             "hu": "Látogatói mágnes.",
             "ro": "Magnet pentru vizitatori.",
-            "en": "Visitor magnet."
+            "en": "Visitor magnet.",
+            "fr": "Aimant à visiteurs."
           }
         },
         {
@@ -751,7 +785,8 @@
             "de": "Buslinie D ab Place Colbert.",
             "hu": "D buszjárat a Place Colbert-ről.",
             "ro": "Linia de autobuz D din Place Colbert.",
-            "en": "Bus line D from Place Colbert."
+            "en": "Bus line D from Place Colbert.",
+            "fr": "Ligne de bus D depuis la Place Colbert."
           }
         }
       ],
@@ -759,7 +794,8 @@
         "de": "Nutzen Sie das effiziente Busnetz von Rochefort (R'bus), um die Stadtteile zu verbinden. Das Zentrum und das Arsenal sind zu Fuß erreichbar, während der Bus Sie bequem zur Schwebefähre bringt.",
         "hu": "Használja Rochefort hatékony buszhálózatát (R'bus) a városrészek összekapcsolásához. A központ és az arzenál gyalog is bejárható, míg a busz kényelmesen elviszi a lebegő hídhoz.",
         "ro": "Folosiți rețeaua eficientă de autobuze din Rochefort (R'bus) pentru a conecta cartierele. Centrul și arsenalul sunt accesibile pe jos, în timp ce autobuzul vă duce confortabil la podul transbordor.",
-        "en": "Use Rochefort's efficient bus network (R'bus) to connect the districts. The center and the arsenal can be explored on foot, while the bus takes you comfortably to the transporter bridge."
+        "en": "Use Rochefort's efficient bus network (R'bus) to connect the districts. The center and the arsenal can be explored on foot, while the bus takes you comfortably to the transporter bridge.",
+        "fr": "Utilisez le réseau de bus efficace de Rochefort (R'bus) pour relier les quartiers. Le centre et l'arsenal se visitent à pied, tandis que le bus vous conduit confortablement au pont-transbordeur."
       },
       "gastro_picks": {
         "de": [
@@ -855,6 +891,9 @@
         ],
         "en": [
           "The 'R'bus' app shows departures in real time."
+        ],
+        "fr": [
+          "L'application « R'bus » affiche les départs en temps réel."
         ]
       }
     }

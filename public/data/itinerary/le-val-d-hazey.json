@@ -21,7 +21,8 @@
             "de": "Espace Culturel Marcel Pagnol",
             "hu": "Espace Culturel Marcel Pagnol",
             "ro": "Espace Culturel Marcel Pagnol",
-            "en": "Espace Culturel Marcel Pagnol"
+            "en": "Espace Culturel Marcel Pagnol",
+            "fr": "Espace Culturel Marcel Pagnol"
           },
           "coords": [
             1.340266,
@@ -36,7 +37,8 @@
             "de": "Entdecken Sie lokale Kunst in diesem modernen Kulturzentrum und prüfen Sie vorab den Veranstaltungsplan für aktuelle Ausstellungen.",
             "hu": "Fedezze fel a helyi művészetet ebben a modern kulturális központban, és előzetesen ellenőrizze az aktuális kiállítások programját.",
             "ro": "Descoperiți arta locală în acest centru cultural modern și verificați din timp programul evenimentelor pentru expozițiile actuale.",
-            "en": "Discover local art in this modern cultural center, and be sure to check the event schedule in advance for current exhibitions."
+            "en": "Discover local art in this modern cultural center, and be sure to check the event schedule in advance for current exhibitions.",
+            "fr": "Découvrez l'art local dans ce centre culturel moderne et pensez à vérifier le programme des événements à l'avance pour les expositions en cours."
           }
         },
         {
@@ -44,7 +46,8 @@
             "de": "Saint-Georges Church",
             "hu": "Saint-Georges Church",
             "ro": "Saint-Georges Church",
-            "en": "Saint-Georges Church"
+            "en": "Saint-Georges Church",
+            "fr": "Saint-Georges Church"
           },
           "coords": [
             1.328049,
@@ -59,7 +62,8 @@
             "de": "Bewundern Sie die klassischen architektonischen Details dieser friedlichen Kirche und achten Sie besonders auf die kunstvollen Glasfenster im Hauptschiff.",
             "hu": "Csodálja meg a békés templom klasszikus építészeti részleteit, és figyeljen a főhajóban található díszes ólomüveg ablakokra.",
             "ro": "Admirați detaliile arhitecturale clasice ale acestei biserici pașnice și acordați o atenție deosebită vitraliilor artistice din naosul principal.",
-            "en": "Admire the classical architectural details of this peaceful church, paying special attention to the ornate stained glass windows in the main nave."
+            "en": "Admire the classical architectural details of this peaceful church, paying special attention to the ornate stained glass windows in the main nave.",
+            "fr": "Admirez les détails architecturaux classiques de cette église paisible en prêtant une attention particulière aux vitraux ornés de la nef principale."
           }
         },
         {
@@ -67,7 +71,8 @@
             "de": "Sainte-Barbe Church",
             "hu": "Sainte-Barbe Church",
             "ro": "Sainte-Barbe Church",
-            "en": "Sainte-Barbe Church"
+            "en": "Sainte-Barbe Church",
+            "fr": "Sainte-Barbe Church"
           },
           "coords": [
             1.321744,
@@ -82,7 +87,8 @@
             "de": "Genießen Sie die intime Atmosphäre dieses kleineren Gotteshauses, das sich perfekt für einen Moment der Stille abseits der Hauptwege eignet.",
             "hu": "Élvezze ennek a kisebb imahelynek az intim hangulatát, amely tökéletes egy pillanatnyi csendre a forgalmasabb utaktól távol.",
             "ro": "Bucurați-vă de atmosfera intimă a acestui lăcaș de cult mai mic, perfect pentru un moment de liniște departe de traseele principale.",
-            "en": "Enjoy the intimate atmosphere of this smaller place of worship, which is perfect for a quiet moment away from the main thoroughfares."
+            "en": "Enjoy the intimate atmosphere of this smaller place of worship, which is perfect for a quiet moment away from the main thoroughfares.",
+            "fr": "Appréciez l'atmosphère intimiste de ce lieu de culte plus petit, parfait pour un moment de tranquillité loin des artères principales."
           }
         },
         {
@@ -90,7 +96,8 @@
             "de": "Manoir de Grosmenil",
             "hu": "Manoir de Grosmenil",
             "ro": "Manoir de Grosmenil",
-            "en": "Manoir de Grosmenil"
+            "en": "Manoir de Grosmenil",
+            "fr": "Manoir de Grosmenil"
           },
           "coords": [
             1.329943,
@@ -105,7 +112,8 @@
             "de": "Bestaunen Sie die historische Fassade dieses eleganten Herrenhauses und fotografieren Sie die wunderschön erhaltenen Gärten, die das Anwesen umgeben.",
             "hu": "Csodálja meg ennek az elegáns kúriának a történelmi homlokzatát, és fotózza le a birtokot körülvevő, gyönyörűen karbantartott kerteket.",
             "ro": "Admirați fațada istorică a acestui conac elegant și fotografiați grădinile frumos conservate care înconjoară proprietatea.",
-            "en": "Marvel at the historic facade of this elegant manor, and take time to photograph the beautifully preserved gardens surrounding the estate."
+            "en": "Marvel at the historic facade of this elegant manor, and take time to photograph the beautifully preserved gardens surrounding the estate.",
+            "fr": "Émerveillez-vous de la façade historique de ce manoir élégant et prenez le temps de photographier les jardins magnifiquement préservés entourant le domaine."
           }
         },
         {
@@ -113,7 +121,8 @@
             "de": "Château de Tournebut",
             "hu": "Château de Tournebut",
             "ro": "Château de Tournebut",
-            "en": "Château de Tournebut"
+            "en": "Château de Tournebut",
+            "fr": "Château de Tournebut"
           },
           "coords": [
             1.329994,
@@ -128,7 +137,8 @@
             "de": "Tauchen Sie in die Geschichte dieses beeindruckenden Schlosses ein und suchen Sie nach dem besten Aussichtspunkt für ein unvergessliches Erinnerungsfoto.",
             "hu": "Merüljön el ennek a lenyűgöző kastélynak a történelmében, és keresse meg a legjobb kilátópontot egy felejthetetlen emlékfotóhoz.",
             "ro": "Cufundați-vă în istoria acestui castel impresionant și căutați cel mai bun punct de observație pentru o fotografie de neuitat.",
-            "en": "Immerse yourself in the history of this impressive castle, and seek out the best vantage point for an unforgettable souvenir photo."
+            "en": "Immerse yourself in the history of this impressive castle, and seek out the best vantage point for an unforgettable souvenir photo.",
+            "fr": "Imprégnez-vous de l'histoire de cet impressionnant château et cherchez le meilleur point de vue pour une photo-souvenir inoubliable."
           }
         }
       ],
@@ -136,7 +146,8 @@
         "de": "Beginnen Sie Ihren Tag im Espace Culturel Marcel Pagnol, wo das moderne Herz der Stadt schlägt. Danach spazieren Sie in Richtung Süden zur historischen Saint-Georges-Kirche, um deren ruhige Atmosphäre zu genießen. Am Nachmittag lockt ein gemütlicher Spaziergang zur charmanten Sainte-Barbe-Kirche. Der späte Nachmittag ist den beeindruckenden Anwesen Manoir de Grosmenil und Château de Tournebut gewidmet.",
         "hu": "Kezdje a napot az Espace Culturel Marcel Pagnol kulturális központban, ahol megismerheti a helyi művészetet. Ezután sétáljon dél felé a történelmi Saint-Georges templomhoz, amelynek nyugodt légköre magával ragadó. Délután egy kellemes séta vár a bájos Sainte-Barbe templomhoz. A késő délutánt a lenyűgöző Manoir de Grosmenil és a fenséges Château de Tournebut kastélyok felfedezésével töltheti.",
         "ro": "Începeți ziua la Espace Culturel Marcel Pagnol, unde bate inima modernă a orașului. Apoi, plimbați-vă spre sud până la istorica Biserică Saint-Georges, pentru a savura atmosfera sa liniștită. După-amiaza vă invită la o plimbare plăcută către fermecătoarea Biserică Sainte-Barbe. Spre seară, explorați moșiile impresionante Manoir de Grosmenil și Château de Tournebut.",
-        "en": "Start your day at the Espace Culturel Marcel Pagnol, where the modern heart of the town beats. Afterwards, walk south to the historical Saint-Georges Church to soak in its peaceful atmosphere. The afternoon invites you to a pleasant stroll towards the charming Sainte-Barbe Church. The late afternoon is dedicated to exploring the impressive estates of Manoir de Grosmenil and Château de Tournebut."
+        "en": "Start your day at the Espace Culturel Marcel Pagnol, where the modern heart of the town beats. Afterwards, walk south to the historical Saint-Georges Church to soak in its peaceful atmosphere. The afternoon invites you to a pleasant stroll towards the charming Sainte-Barbe Church. The late afternoon is dedicated to exploring the impressive estates of Manoir de Grosmenil and Château de Tournebut.",
+        "fr": "Commencez votre journée à l'Espace Culturel Marcel Pagnol, où bat le cœur moderne de la ville. Ensuite, marchez vers le sud jusqu'à la historique église Saint-Georges pour en ressentir l'atmosphère paisible. L'après-midi vous invite à une agréable promenade vers la charmante église Sainte-Barbe. En fin d'après-midi, consacrez du temps à explorer les impressionnantes demeures du Manoir de Grosmenil et du Château de Tournebut."
       },
       "variants": {
         "rainy": {
@@ -144,7 +155,8 @@
             "de": "Beginnen Sie Ihren regnerischen Spaziergang im Kulturzentrum, einem perfekten trockenen Zufluchtsort. Mittags erkunden Sie die historischen Kirchen, deren Buntglasfenster unter dem grauen Himmel atemberaubend wirken. Trotzen Sie am Nachmittag dem Nieselregen, um das örtliche Herrenhaus und Schloss zu bewundern. Beenden Sie den Tag in einem warmen Café. Tragen Sie wasserfeste Schuhe.",
             "hu": "Kezdje az esős sétát a kulturális központban, amely kiváló fedett menedék. Délben fedezze fel a történelmi templomokat, ahol az üvegablakok szürkés fényben is gyönyörűek. Délután dacoljon a szitáló esővel, és csodálja meg a kúria és a kastély külsejét. Este keressen egy meleg kávézót a közelben. Vízálló cipő és esernyő mindenképpen ajánlott.",
             "ro": "Începeți plimbarea ploioasă la centrul cultural, un refugiu uscat perfect. La prânz, explorați bisericile istorice unde vitraliile arată uimitor sub cerul gri. După-amiaza, înfruntați burnița pentru a admira conacul local și exteriorul castelului. Încheiați ziua găsind o cafenea caldă în apropiere, în timp ce ploaia spală străzile vechi. Purtați încălțăminte impermeabilă.",
-            "en": "Start your rainy walk indoors at the cultural center, a perfect dry refuge. Midday, explore the historic churches where intricate stained glass looks stunning under gray skies. In the afternoon, brave the drizzle to admire the local manor and castle exteriors. End the day finding a warm cafe nearby as the rain washes the old streets clean. Wear waterproof shoes."
+            "en": "Start your rainy walk indoors at the cultural center, a perfect dry refuge. Midday, explore the historic churches where intricate stained glass looks stunning under gray skies. In the afternoon, brave the drizzle to admire the local manor and castle exteriors. End the day finding a warm cafe nearby as the rain washes the old streets clean. Wear waterproof shoes.",
+            "fr": "Commencez votre promenade pluvieuse à l'intérieur du centre culturel, un parfait refuge sec. À midi, explorez les églises historiques où les vitraux délicats sont superbes sous un ciel gris. L'après-midi, bravez la bruine pour admirer les extérieurs du manoir et du château. Terminez la journée en trouvant un café chaleureux à proximité pendant que la pluie nettoie les vieilles rues. Portez des chaussures imperméables."
           },
           "stops": [
             {
@@ -152,13 +164,15 @@
                 "de": "Espace Culturel Marcel Pagnol",
                 "hu": "Espace Culturel Marcel Pagnol",
                 "ro": "Espace Culturel Marcel Pagnol",
-                "en": "Espace Culturel Marcel Pagnol"
+                "en": "Espace Culturel Marcel Pagnol",
+                "fr": "Espace Culturel Marcel Pagnol"
               },
               "tip_5lang": {
                 "de": "Genießen Sie die Ausstellungen im Innenbereich und bleiben Sie völlig trocken; bringen Sie eine Hülle für Ihren nassen Regenschirm mit.",
                 "hu": "Élvezze a benti kiállításokat és maradjon teljesen szárazon a helyi művészeteket csodálva; az esernyőnek hozzon tokot.",
                 "ro": "Bucurați-vă de expozițiile interioare și rămâneți complet uscat în timp ce apreciați arta locală; aduceți o husă pentru umbrelă.",
-                "en": "Enjoy the indoor exhibits and stay completely dry while appreciating local art; bring your dripping umbrella in a cover."
+                "en": "Enjoy the indoor exhibits and stay completely dry while appreciating local art; bring your dripping umbrella in a cover.",
+                "fr": "Profitez des expositions intérieures et restez complètement au sec tout en appréciant l'art local ; rangez votre parapluie mouillé dans une housse."
               }
             },
             {
@@ -166,13 +180,15 @@
                 "de": "Saint-Georges Church",
                 "hu": "Saint-Georges Church",
                 "ro": "Saint-Georges Church",
-                "en": "Saint-Georges Church"
+                "en": "Saint-Georges Church",
+                "fr": "Église Saint-Georges"
               },
               "tip_5lang": {
                 "de": "Bewundern Sie das friedliche Innere und den wunderschönen Altar abseits des Regens; Vorsicht, die steinernen Eingangsstufen können rutschig sein.",
                 "hu": "Csodálja meg a békés belső teret és a gyönyörű oltárt az eső elől menedéket lelve; vigyázzon a csúszós kőlépcsőkkel a bejáratnál.",
                 "ro": "Admirați interiorul liniștit și altarul frumos, departe de ploaie; aveți grijă, deoarece treptele de piatră de la intrare pot fi alunecoase.",
-                "en": "Admire the tranquil interior and beautiful altar away from the rain; be careful as the stone entrance steps can be slippery when wet."
+                "en": "Admire the tranquil interior and beautiful altar away from the rain; be careful as the stone entrance steps can be slippery when wet.",
+                "fr": "Admirez l'intérieur tranquille et le bel autel à l'abri de la pluie ; attention, les marches d'entrée en pierre peuvent être glissantes par temps humide."
               }
             },
             {
@@ -180,13 +196,15 @@
                 "de": "Sainte-Barbe Church",
                 "hu": "Sainte-Barbe Church",
                 "ro": "Sainte-Barbe Church",
-                "en": "Sainte-Barbe Church"
+                "en": "Sainte-Barbe Church",
+                "fr": "Église Sainte-Barbe"
               },
               "tip_5lang": {
                 "de": "Suchen Sie Schutz in dieser historischen Kirche, um die Holzarbeiten zu betrachten; die Beleuchtung ist bei starkem Regen besonders stimmungsvoll.",
                 "hu": "Keressen menedéket ebben a történelmi templomban, és figyelje meg a fafaragásokat; a hangulatvilágítás tökéletes a heves záporok idején.",
                 "ro": "Căutați adăpost în această biserică istorică pentru a observa detaliile din lemn; iluminatul este captivant în timpul averselor de ploaie.",
-                "en": "Seek shelter inside this historic church to observe its detailed woodwork; the lighting is moody and perfect during heavy rain showers."
+                "en": "Seek shelter inside this historic church to observe its detailed woodwork; the lighting is moody and perfect during heavy rain showers.",
+                "fr": "Abritez-vous à l'intérieur de cette église historique pour observer son travail du bois détaillé ; l'éclairage y est d'ambiance et parfait lors des fortes averses."
               }
             },
             {
@@ -194,13 +212,15 @@
                 "de": "Manoir de Grosmenil",
                 "hu": "Manoir de Grosmenil",
                 "ro": "Manoir de Grosmenil",
-                "en": "Manoir de Grosmenil"
+                "en": "Manoir de Grosmenil",
+                "fr": "Manoir de Grosmenil"
               },
               "tip_5lang": {
                 "de": "Betrachten Sie die markante Architektur dieses Herrenhauses vom Weg aus; ziehen Sie Ihre Regenjacke zu, da hier oft Wind weht.",
                 "hu": "Nézze meg a kúria lenyűgöző építészetét az ösvényről; húzza fel az esőkabátját, mert a nyílt terepen gyakran fúj a szél.",
                 "ro": "Priviți arhitectura impresionantă a acestui conac de pe potecă; închideți-vă bine geaca de ploaie, deoarece vântul bate adesea pe terenul deschis.",
-                "en": "View the striking architecture of this manor from the path; have your rain jacket fully zipped as wind often sweeps across the open grounds."
+                "en": "View the striking architecture of this manor from the path; have your rain jacket fully zipped as wind often sweeps across the open grounds.",
+                "fr": "Observez l'architecture saisissante de ce manoir depuis le chemin ; fermez bien votre veste imperméable car le vent balaie souvent les espaces ouverts."
               }
             },
             {
@@ -208,13 +228,15 @@
                 "de": "Château de Tournebut",
                 "hu": "Château de Tournebut",
                 "ro": "Château de Tournebut",
-                "en": "Château de Tournebut"
+                "en": "Château de Tournebut",
+                "fr": "Château de Tournebut"
               },
               "tip_5lang": {
                 "de": "Bestaunen Sie das majestätische, im Regen glänzende Schloss; wasserdichte Stiefel sind hier unerlässlich, da die Wege sehr matschig werden.",
                 "hu": "Csodálja meg a hatalmas kastély esőben csillogó külsejét; a vízálló bakancs elengedhetetlen, mert a környező ösvények nagyon sarasak lesznek.",
                 "ro": "Minunați-vă de exteriorul grandios al castelului strălucind în ploaie; cizmele impermeabile sunt esențiale, deoarece potecile devin foarte noroioase.",
-                "en": "Marvel at the grand castle exterior glistening in the rain; sturdy waterproof boots are essential here as the surrounding paths get very muddy."
+                "en": "Marvel at the grand castle exterior glistening in the rain; sturdy waterproof boots are essential here as the surrounding paths get very muddy.",
+                "fr": "Admirez la façade imposante du château scintillant sous la pluie ; des bottes imperméables robustes sont indispensables car les chemins alentour deviennent très boueux."
               }
             }
           ]
@@ -224,7 +246,8 @@
             "de": "Beginnen Sie Ihren Wintermorgen im beheizten Kulturzentrum. Besuchen Sie gegen Mittag die örtlichen Kirchen und wärmen Sie sich dabei etwas auf. Spazieren Sie am Nachmittag zügig zum Herrenhaus und Schloss, um das klare Winterlicht einzufangen. Gegen 17:00 Uhr taucht der frühe Sonnenuntergang die Stadt in ein sanftes Zwielicht. Tragen Sie warme Kleidung im Zwiebellook.",
             "hu": "Kezdje a téli reggelt a fűtött kulturális központban. Dél körül látogassa meg a helyi templomokat, összekötve a történelmi városnézést egy kis felmelegedéssel. Délután tegyen tempós sétát a kúriához és a kastélyhoz a ropogós téli fényben. 17:00 órára a korai naplemente gyönyörű alkonyati fényt vet a városra. Öltözzön rétegesen és melegen.",
             "ro": "Începeți dimineața de iarnă explorând centrul cultural încălzit. În jurul prânzului, vizitați bisericile locale, combinând vizitarea istorică cu opriri rapide pentru încălzire. După-amiaza, mergeți vioi spre conac și castel pentru a prinde lumina clară a iernii. La ora 17:00, apusul timpuriu aruncă o strălucire de amurg, perfectă pentru întoarcere. Îmbrăcați-vă gros.",
-            "en": "Start your winter morning exploring the heated cultural center. Around noon, visit the local churches, combining historical sightseeing with quick warm-up stops. In the afternoon, walk briskly to the manor and castle to catch the beautiful, crisp winter daylight. By 17:00, the early sunset casts a twilight glow over the town, perfect for heading back. Dress in warm layers."
+            "en": "Start your winter morning exploring the heated cultural center. Around noon, visit the local churches, combining historical sightseeing with quick warm-up stops. In the afternoon, walk briskly to the manor and castle to catch the beautiful, crisp winter daylight. By 17:00, the early sunset casts a twilight glow over the town, perfect for heading back. Dress in warm layers.",
+            "fr": "Commencez votre matinée d'hiver en explorant le centre culturel chauffé. Vers midi, visitez les églises locales, combinant visites historiques et pauses pour vous réchauffer. L'après-midi, marchez d'un bon pas jusqu'au manoir et au château pour profiter de la belle lumière hivernale claire. Vers 17:00, le coucher du soleil précoce saisit la ville d'une lueur crépusculaire, idéal pour revenir. Habillez-vous en couches chaudes."
           },
           "stops": [
             {
@@ -232,13 +255,15 @@
                 "de": "Espace Culturel Marcel Pagnol",
                 "hu": "Espace Culturel Marcel Pagnol",
                 "ro": "Espace Culturel Marcel Pagnol",
-                "en": "Espace Culturel Marcel Pagnol"
+                "en": "Espace Culturel Marcel Pagnol",
+                "fr": "Espace Culturel Marcel Pagnol"
               },
               "tip_5lang": {
                 "de": "Nutzen Sie die beheizten Räume, um die Ausstellungen in Ruhe zu erkunden; der beste Ort, um die Finger vor dem Rausgehen aufzuwärmen.",
                 "hu": "Használja ki a fűtött belső teret a kiállítások alapos felfedezésére; ez a legjobb hely az ujjainak felmelegítésére, mielőtt kimenne.",
                 "ro": "Profitați de interiorul încălzit pentru a explora în detaliu expozițiile; este cel mai bun loc pentru a vă dezgheța degetele înainte de a ieși.",
-                "en": "Take advantage of the heated interior to thoroughly explore the exhibits; it is the best place to thaw your fingers before heading out."
+                "en": "Take advantage of the heated interior to thoroughly explore the exhibits; it is the best place to thaw your fingers before heading out.",
+                "fr": "Profitez de l'intérieur chauffé pour explorer les expositions en profondeur ; c'est l'endroit idéal pour réchauffer vos doigts avant de ressortir."
               }
             },
             {
@@ -246,13 +271,15 @@
                 "de": "Saint-Georges Church",
                 "hu": "Saint-Georges Church",
                 "ro": "Saint-Georges Church",
-                "en": "Saint-Georges Church"
+                "en": "Saint-Georges Church",
+                "fr": "Église Saint-Georges"
               },
               "tip_5lang": {
                 "de": "Betreten Sie dieses ruhige Heiligtum, um die Steindetails zu bewundern und dem eisigen Winterwind zu entfliehen, auch wenn der Boden kühl ist.",
                 "hu": "Lépjen be ebbe a csendes szentélybe, csodálja meg a kőből készült részleteket, és meneküljön el a metsző téli szél elől a fagyos padlók ellenére.",
                 "ro": "Intrați în acest sanctuar liniștit pentru a admira detaliile din piatră și a scăpa de vântul tăios de iarnă, deși podelele istorice rămân reci.",
-                "en": "Step inside this quiet sanctuary to admire the stone details and escape the biting winter wind, though the historic stone floors remain chilly."
+                "en": "Step inside this quiet sanctuary to admire the stone details and escape the biting winter wind, though the historic stone floors remain chilly.",
+                "fr": "Entrez dans ce sanctuaire paisible pour admirer les détails en pierre et échapper au vent hivernal mordant, bien que le sol en pierre historique reste frais."
               }
             },
             {
@@ -260,13 +287,15 @@
                 "de": "Sainte-Barbe Church",
                 "hu": "Sainte-Barbe Church",
                 "ro": "Sainte-Barbe Church",
-                "en": "Sainte-Barbe Church"
+                "en": "Sainte-Barbe Church",
+                "fr": "Église Sainte-Barbe"
               },
               "tip_5lang": {
                 "de": "Entdecken Sie die einzigartige Architektur dieser Kirche; behalten Sie Mütze und Handschuhe an, da historische Sakralbauten oft ungeheizt sind.",
                 "hu": "Fedezze fel e templom egyedi építészetét, miközben kifújja magát; tartsa magán a sapkát és a kesztyűt, mert a régi épület nem fűtött.",
                 "ro": "Descoperiți arhitectura unică a acestei biserici în timp ce vă trageți sufletul; păstrați-vă căciula și mănușile, deoarece clădirea nu este încălzită.",
-                "en": "Discover the unique architecture of this church while catching your breath; keep your hat and gloves on as older religious buildings lack heating."
+                "en": "Discover the unique architecture of this church while catching your breath; keep your hat and gloves on as older religious buildings lack heating.",
+                "fr": "Découvrez l'architecture unique de cette église tout en reprenant votre souffle ; gardez votre bonnet et vos gants car les vieux bâtiments religieux sont dépourvus de chauffage."
               }
             },
             {
@@ -274,13 +303,15 @@
                 "de": "Manoir de Grosmenil",
                 "hu": "Manoir de Grosmenil",
                 "ro": "Manoir de Grosmenil",
-                "en": "Manoir de Grosmenil"
+                "en": "Manoir de Grosmenil",
+                "fr": "Manoir de Grosmenil"
               },
               "tip_5lang": {
                 "de": "Fotografieren Sie die eleganten Linien des Herrenhauses vor dem Winterhimmel; gehen Sie zügig um das Gelände, um nicht auszukühlen.",
                 "hu": "Fényképezze le a kúria elegáns vonalait a zord téli égbolt előtt; sétáljon tempósan a kerítés mentén, hogy melegen tartsa a testét.",
                 "ro": "Fotografiați liniile elegante ale conacului pe fundalul cerului de iarnă; plimbați-vă vioi în jurul perimetrului pentru a vă menține căldura corporală.",
-                "en": "Photograph the elegant lines of the manor against the bleak winter sky; walk briskly around the perimeter to keep your core temperature up."
+                "en": "Photograph the elegant lines of the manor against the bleak winter sky; walk briskly around the perimeter to keep your core temperature up.",
+                "fr": "Photographiez les lignes élégantes du manoir contre le ciel hivernal morne ; marchez vite autour du périmètre pour maintenir votre température corporelle."
               }
             },
             {
@@ -288,13 +319,15 @@
                 "de": "Château de Tournebut",
                 "hu": "Château de Tournebut",
                 "ro": "Château de Tournebut",
-                "en": "Château de Tournebut"
+                "en": "Château de Tournebut",
+                "fr": "Château de Tournebut"
               },
               "tip_5lang": {
                 "de": "Beobachten Sie das schwindende Nachmittagslicht auf den Schlossmauern; beenden Sie Ihren Besuch hier vor 16:30 Uhr, bevor es ganz dunkel wird.",
                 "hu": "Kapja el a kastély falaira vetülő halványuló délutáni fényt; tervezze úgy, hogy 16:30 előtt befejezi a látogatást, mielőtt teljesen besötétedik.",
                 "ro": "Prindeți lumina estompată a după-amiezii lovind frumos zidurile castelului; planificați să terminați vizita aici înainte de 16:30, când se întunecă.",
-                "en": "Catch the fading afternoon light hitting the castle walls beautifully; plan to finish your visit here before 16:30 when it gets completely dark."
+                "en": "Catch the fading afternoon light hitting the castle walls beautifully; plan to finish your visit here before 16:30 when it gets completely dark.",
+                "fr": "Profitez de la lumière déclinante de l'après-midi qui frappe magnifiquement les murs du château ; prévoyez de terminer votre visite ici avant 16:30 quand il fait complètement sombre."
               }
             }
           ]
@@ -314,7 +347,8 @@
             "de": "Parc des Acacias",
             "hu": "Parc des Acacias",
             "ro": "Parc des Acacias",
-            "en": "Parc des Acacias"
+            "en": "Parc des Acacias",
+            "fr": "Parc des Acacias"
           },
           "coords": [
             1.362363,
@@ -329,7 +363,8 @@
             "de": "Machen Sie einen gemütlichen Spaziergang unter den schattigen Bäumen dieses Parks, der ideale Ort für ein entspanntes Picknick am Vormittag.",
             "hu": "Tegyen egy kellemes sétát a park árnyas fái alatt, amely ideális helyszín egy pihentető délelőtti piknikhez.",
             "ro": "Faceți o plimbare liniștită sub copacii umbroși ai acestui parc, locul ideal pentru un picnic relaxant de dimineață.",
-            "en": "Take a leisurely stroll beneath the shady trees of this park, which serves as the ideal spot for a relaxing morning picnic."
+            "en": "Take a leisurely stroll beneath the shady trees of this park, which serves as the ideal spot for a relaxing morning picnic.",
+            "fr": "Faites une promenade tranquille sous les arbres ombrageux de ce parc, qui constitue l'endroit idéal pour un pique-nique matinal relaxant."
           }
         },
         {
@@ -337,7 +372,8 @@
             "de": "Espace Culturel Marcel Pagnol",
             "hu": "Espace Culturel Marcel Pagnol",
             "ro": "Espace Culturel Marcel Pagnol",
-            "en": "Espace Culturel Marcel Pagnol"
+            "en": "Espace Culturel Marcel Pagnol",
+            "fr": "Espace Culturel Marcel Pagnol"
           },
           "coords": [
             1.340266,
@@ -352,7 +388,8 @@
             "de": "Entdecken Sie lokale Kunst in diesem modernen Kulturzentrum und prüfen Sie vorab den Veranstaltungsplan für aktuelle Ausstellungen.",
             "hu": "Fedezze fel a helyi művészetet ebben a modern kulturális központban, és előzetesen ellenőrizze az aktuális kiállítások programját.",
             "ro": "Descoperiți arta locală în acest centru cultural modern și verificați din timp programul evenimentelor pentru expozițiile actuale.",
-            "en": "Discover local art in this modern cultural center, and be sure to check the event schedule in advance for current exhibitions."
+            "en": "Discover local art in this modern cultural center, and be sure to check the event schedule in advance for current exhibitions.",
+            "fr": "Découvrez l'art local dans ce centre culturel moderne et n'oubliez pas de consulter le calendrier des événements à l'avance pour les expositions en cours."
           }
         },
         {
@@ -360,7 +397,8 @@
             "de": "Saint-Georges Church",
             "hu": "Saint-Georges Church",
             "ro": "Saint-Georges Church",
-            "en": "Saint-Georges Church"
+            "en": "Saint-Georges Church",
+            "fr": "Église Saint-Georges"
           },
           "coords": [
             1.328049,
@@ -375,7 +413,8 @@
             "de": "Bewundern Sie die klassischen architektonischen Details dieser friedlichen Kirche und achten Sie besonders auf die kunstvollen Glasfenster im Hauptschiff.",
             "hu": "Csodálja meg a békés templom klasszikus építészeti részleteit, és figyeljen a főhajóban található díszes ólomüveg ablakokra.",
             "ro": "Admirați detaliile arhitecturale clasice ale acestei biserici pașnice și acordați o atenție deosebită vitraliilor artistice din naosul principal.",
-            "en": "Admire the classical architectural details of this peaceful church, paying special attention to the ornate stained glass windows in the main nave."
+            "en": "Admire the classical architectural details of this peaceful church, paying special attention to the ornate stained glass windows in the main nave.",
+            "fr": "Admirez les détails architecturaux classiques de cette église paisible, en prêtant une attention particulière aux vitraux ornés de la nef principale."
           }
         },
         {
@@ -383,7 +422,8 @@
             "de": "Manoir de Grosmenil",
             "hu": "Manoir de Grosmenil",
             "ro": "Manoir de Grosmenil",
-            "en": "Manoir de Grosmenil"
+            "en": "Manoir de Grosmenil",
+            "fr": "Manoir de Grosmenil"
           },
           "coords": [
             1.329943,
@@ -398,7 +438,8 @@
             "de": "Bestaunen Sie die historische Fassade dieses eleganten Herrenhauses und fotografieren Sie die wunderschön erhaltenen Gärten, die das Anwesen umgeben.",
             "hu": "Csodálja meg ennek az elegáns kúriának a történelmi homlokzatát, és fotózza le a birtokot körülvevő, gyönyörűen karbantartott kerteket.",
             "ro": "Admirați fațada istorică a acestui conac elegant și fotografiați grădinile frumos conservate care înconjoară proprietatea.",
-            "en": "Marvel at the historic facade of this elegant manor, and take time to photograph the beautifully preserved gardens surrounding the estate."
+            "en": "Marvel at the historic facade of this elegant manor, and take time to photograph the beautifully preserved gardens surrounding the estate.",
+            "fr": "Émerveillez-vous devant la façade historique de cet élégant manoir et prenez le temps de photographier les jardins magnifiquement préservés entourant le domaine."
           }
         },
         {
@@ -406,7 +447,8 @@
             "de": "Château de Tournebut",
             "hu": "Château de Tournebut",
             "ro": "Château de Tournebut",
-            "en": "Château de Tournebut"
+            "en": "Château de Tournebut",
+            "fr": "Château de Tournebut"
           },
           "coords": [
             1.329994,
@@ -421,7 +463,8 @@
             "de": "Tauchen Sie in die Geschichte dieses beeindruckenden Schlosses ein und suchen Sie nach dem besten Aussichtspunkt für ein unvergessliches Erinnerungsfoto.",
             "hu": "Merüljön el ennek a lenyűgöző kastélynak a történelmében, és keresse meg a legjobb kilátópontot egy felejthetetlen emlékfotóhoz.",
             "ro": "Cufundați-vă în istoria acestui castel impresionant și căutați cel mai bun punct de observație pentru o fotografie de neuitat.",
-            "en": "Immerse yourself in the history of this impressive castle, and seek out the best vantage point for an unforgettable souvenir photo."
+            "en": "Immerse yourself in the history of this impressive castle, and seek out the best vantage point for an unforgettable souvenir photo.",
+            "fr": "Imprégnez-vous de l'histoire de cet impressionnant château et cherchez le meilleur point de vue pour une photo-souvenir inoubliable."
           }
         },
         {
@@ -429,7 +472,8 @@
             "de": "Pont de Courcelles",
             "hu": "Pont de Courcelles",
             "ro": "Pont de Courcelles",
-            "en": "Pont de Courcelles"
+            "en": "Pont de Courcelles",
+            "fr": "Pont de Courcelles"
           },
           "coords": [
             1.353748,
@@ -444,7 +488,8 @@
             "de": "Erleben Sie die tolle Aussicht auf den Fluss von dieser historischen Brücke und besuchen Sie sie am besten am späten Nachmittag für weiches Licht.",
             "hu": "Élvezze a folyóra nyíló remek kilátást erről a történelmi hídról, amelyet a lágy fények miatt a késő délutáni órákban érdemes felkeresni.",
             "ro": "Experimentați priveliștea minunată asupra râului de pe acest pod istoric, fiind recomandat să-l vizitați după-amiaza târziu pentru o lumină blândă.",
-            "en": "Experience the great river views from this historical bridge, and visit late in the afternoon to take advantage of the soft lighting."
+            "en": "Experience the great river views from this historical bridge, and visit late in the afternoon to take advantage of the soft lighting.",
+            "fr": "Profitez des superbes vues sur la rivière depuis ce pont historique et visitez-le en fin d'après-midi pour bénéficier d'un éclairage doux."
           }
         }
       ],
@@ -452,7 +497,8 @@
         "de": "Starten Sie Ihre Fahrradtour im malerischen Parc des Acacias, bevor Sie zur kulturellen Vielfalt des Espace Marcel Pagnol weiterradeln. Zur Mittagszeit besichtigen Sie die altehrwürdige Saint-Georges-Kirche im Zentrum. Der Nachmittag bringt Sie zu den prächtigen historischen Herrenhäusern, dem Manoir de Grosmenil und dem Château de Tournebut. Den Abschluss bildet der Ausblick am Pont de Courcelles.",
         "hu": "Indítsa kerékpártúráját a festői Parc des Acacias parkban, majd tekerjen tovább a Marcel Pagnol Kulturális Központba. Délben a központban található, nagy múltú Saint-Georges templomot érdemes megtekinteni. A délután folyamán a pompás Manoir de Grosmenil és a Château de Tournebut történelmi kastélyok felé veheti az irányt. A napot a Pont de Courcelles hídnál lévő kilátással zárhatja.",
         "ro": "Începeți turul cu bicicleta în pitorescul Parc des Acacias, înainte de a pedala spre diversitatea culturală a Espace Marcel Pagnol. La prânz, vizitați vechea Biserică Saint-Georges din centru. După-amiaza vă duce la magnificele conace istorice, Manoir de Grosmenil și Château de Tournebut. Ziua se încheie cu panorama de la Pont de Courcelles.",
-        "en": "Start your bike tour in the picturesque Parc des Acacias before pedaling on to the cultural diversity of the Espace Marcel Pagnol. Around midday, visit the venerable Saint-Georges Church in the center. The afternoon takes you to the magnificent historical manors, the Manoir de Grosmenil and the Château de Tournebut. Conclude your day enjoying the view at the Pont de Courcelles."
+        "en": "Start your bike tour in the picturesque Parc des Acacias before pedaling on to the cultural diversity of the Espace Marcel Pagnol. Around midday, visit the venerable Saint-Georges Church in the center. The afternoon takes you to the magnificent historical manors, the Manoir de Grosmenil and the Château de Tournebut. Conclude your day enjoying the view at the Pont de Courcelles.",
+        "fr": "Commencez votre circuit à vélo dans le pittoresque Parc des Acacias avant de pédaler vers la diversité culturelle de l'Espace Marcel Pagnol. Vers midi, visitez la vénérable église Saint-Georges au centre. L'après-midi vous mène aux magnifiques demeures historiques, le Manoir de Grosmenil et le Château de Tournebut. Concluez la journée en profitant de la vue au Pont de Courcelles."
       },
       "variants": {
         "rainy": {
@@ -460,7 +506,8 @@
             "de": "Beginnen Sie Ihre nasse Radtour im Park und bewundern Sie das frisch gewaschene Grün. Suchen Sie mittags im Kulturzentrum und der Kirche Schutz, um sich abzutrocknen. Radeln Sie am Nachmittag vorsichtig am Herrenhaus und Schloss vorbei, da die Wege rutschig sind. Beenden Sie die Fahrt an der Brücke. Schutzbleche und gut sichtbare Regenkleidung werden dringend empfohlen.",
             "hu": "Kezdje a nedves biciklitúrát a parkban, gyönyörködve az eső áztatta növényzetben. Délben keressen menedéket a kulturális központban és a helyi templomban. Délután óvatosan tekerjen el a kúria és a kastély mellett, mivel az utak csúszósak lehetnek. Zárja az utat a hídnál, figyelve a megáradt folyót. Sárvédő és láthatósági esőruha kifejezetten ajánlott.",
             "ro": "Începeți turul de ciclism umed în parc, admirând verdeața proaspătă spălată de ploaie. La prânz, căutați refugiu în centrul cultural și în biserica locală pentru a vă usca. După-amiaza, pedalați cu prudență pe lângă conac și castel, deoarece potecile pot fi alunecoase. Încheiați la pod. Apărătorile de noroi și echipamentul de ploaie reflectorizant sunt foarte recomandate.",
-            "en": "Start your wet cycling tour at the park, admiring the fresh, rain-washed greenery. By midday, seek refuge inside the cultural center and the local church to dry off. In the afternoon, pedal cautiously past the manor and castle, as the paths can be slick. Conclude your ride at the bridge, taking in the swollen river. Mudguards and high-visibility rain gear are highly recommended."
+            "en": "Start your wet cycling tour at the park, admiring the fresh, rain-washed greenery. By midday, seek refuge inside the cultural center and the local church to dry off. In the afternoon, pedal cautiously past the manor and castle, as the paths can be slick. Conclude your ride at the bridge, taking in the swollen river. Mudguards and high-visibility rain gear are highly recommended.",
+            "fr": "Commencez votre circuit cycliste humide au parc, en admirant la verdure fraîche lavée par la pluie. À midi, réfugiez-vous à l'intérieur du centre culturel et de l'église locale pour vous sécher. L'après-midi, pédalez prudemment devant le manoir et le château, car les chemins peuvent être glissants. Terminez votre balade au pont en observant la rivière gonflée. Garde-boue et équipement de pluie haute visibilité sont fortement recommandés."
           },
           "stops": [
             {
@@ -468,13 +515,15 @@
                 "de": "Parc des Acacias",
                 "hu": "Parc des Acacias",
                 "ro": "Parc des Acacias",
-                "en": "Parc des Acacias"
+                "en": "Parc des Acacias",
+                "fr": "Parc des Acacias"
               },
               "tip_5lang": {
                 "de": "Genießen Sie den intensiven Geruch der Natur im Regen; bleiben Sie auf den gepflasterten Radwegen, da die unbefestigten Pfade schnell matschig werden.",
                 "hu": "Élvezze a természet intenzívebb illatát esőben; maradjon a burkolt kerékpárutakon, mert a füves és földes ösvények hamar sártengerré válnak.",
                 "ro": "Bucurați-vă de mirosul intensificat al naturii în timpul ploii; rămâneți pe pistele de biciclete pavate, deoarece traseele de pământ devin capcane de noroi.",
-                "en": "Enjoy the intensified smell of nature during the rain; stick to the paved main cycling paths as the grass and dirt trails quickly become mud traps."
+                "en": "Enjoy the intensified smell of nature during the rain; stick to the paved main cycling paths as the grass and dirt trails quickly become mud traps.",
+                "fr": "Appréciez l'odeur intensifiée de la nature pendant la pluie ; restez sur les pistes cyclables principales goudronnées car les sentiers d'herbe et de terre deviennent vite des pièges de boue."
               }
             },
             {
@@ -482,13 +531,15 @@
                 "de": "Espace Culturel Marcel Pagnol",
                 "hu": "Espace Culturel Marcel Pagnol",
                 "ro": "Espace Culturel Marcel Pagnol",
-                "en": "Espace Culturel Marcel Pagnol"
+                "en": "Espace Culturel Marcel Pagnol",
+                "fr": "Espace Culturel Marcel Pagnol"
               },
               "tip_5lang": {
                 "de": "Parken Sie Ihr Fahrrad nach Möglichkeit unter einem Vordach und wärmen Sie sich drinnen auf, um die Ausstellungen regengeschützt zu genießen.",
                 "hu": "Parkolja le a kerékpárt egy eresz alatt, ha lehetséges, és menjen be felmelegedni, hogy a kiállításokat az esőtől teljesen védve élvezhesse.",
                 "ro": "Parcați bicicleta sub o copertină dacă este posibil și intrați pentru a vă încălzi și a vă bucura de expoziții, complet la adăpost de ploaie.",
-                "en": "Park your bike under a temporary overhang if available and head inside to warm up and enjoy the exhibitions completely sheltered from the rain."
+                "en": "Park your bike under a temporary overhang if available and head inside to warm up and enjoy the exhibitions completely sheltered from the rain.",
+                "fr": "Garez votre vélo sous un auvent provisoire si disponible et allez à l'intérieur pour vous réchauffer et profiter des expositions complètement à l'abri de la pluie."
               }
             },
             {
@@ -496,13 +547,15 @@
                 "de": "Saint-Georges Church",
                 "hu": "Saint-Georges Church",
                 "ro": "Saint-Georges Church",
-                "en": "Saint-Georges Church"
+                "en": "Saint-Georges Church",
+                "fr": "Église Saint-Georges"
               },
               "tip_5lang": {
                 "de": "Machen Sie eine Pause vom Radfahren im feuchten Wetter, um das ruhige Kircheninnere zu betrachten; bremsen Sie sanft auf dem rutschigen Steinhof.",
                 "hu": "Tartson szünetet a nyirkos időben való tekerésben, és nézze meg a templom békés belső terét; fékezzen óvatosan a csúszós kőudvaron.",
                 "ro": "Luați o pauză de la ciclism pe vremea umedă pentru a vedea interiorul bisericii; frânați ușor când ajungeți în curtea interioară de piatră alunecoasă.",
-                "en": "Take a break from cycling in the damp weather to view the serene church interior; brake gently when pulling up to the slippery stone courtyard."
+                "en": "Take a break from cycling in the damp weather to view the serene church interior; brake gently when pulling up to the slippery stone courtyard.",
+                "fr": "Faites une pause de votre vélo par temps humide pour visiter l'intérieur serein de l'église ; freinez doucement en arrivant sur la cour en pierre glissante."
               }
             },
             {
@@ -510,13 +563,15 @@
                 "de": "Manoir de Grosmenil",
                 "hu": "Manoir de Grosmenil",
                 "ro": "Manoir de Grosmenil",
-                "en": "Manoir de Grosmenil"
+                "en": "Manoir de Grosmenil",
+                "fr": "Manoir de Grosmenil"
               },
               "tip_5lang": {
                 "de": "Radeln Sie an diesem schönen historischen Herrenhaus vorbei; bei starkem Regen kann die Sicht eingeschränkt sein, schalten Sie also das Fahrradlicht ein.",
                 "hu": "Tekerjen el a gyönyörű történelmi kúria mellett; heves esőben csökkenhet a látótávolság, ezért nappal is kapcsolja be a kerékpárlámpákat.",
                 "ro": "Pedalați pe lângă acest frumos conac istoric; vizibilitatea poate fi redusă în ploi abundente, așa că asigurați-vă că luminile bicicletei sunt aprinse.",
-                "en": "Cycle past this beautiful historic manor; visibility might be reduced in heavy rain, so ensure your bike lights are on even during the day."
+                "en": "Cycle past this beautiful historic manor; visibility might be reduced in heavy rain, so ensure your bike lights are on even during the day.",
+                "fr": "Passez à vélo devant ce beau manoir historique ; la visibilité peut être réduite par forte pluie, assurez-vous donc que vos lumières sont allumées même en journée."
               }
             },
             {
@@ -524,13 +579,15 @@
                 "de": "Château de Tournebut",
                 "hu": "Château de Tournebut",
                 "ro": "Château de Tournebut",
-                "en": "Château de Tournebut"
+                "en": "Château de Tournebut",
+                "fr": "Château de Tournebut"
               },
               "tip_5lang": {
                 "de": "Bewundern Sie das imposante Schlossgelände vom Sattel aus; das nasse Laub auf der Zufahrtsstraße kann für schmale Fahrradreifen sehr tückisch sein.",
                 "hu": "Csodálja meg az impozáns kastélyparkot a nyeregből; a bekötőúton lévő nedves falevelek nagyon veszélyesek lehetnek a keskeny bicikligumikra.",
                 "ro": "Admirați terenurile impunătoare ale castelului din șa; frunzele umede de pe drumul de acces pot fi foarte periculoase pentru anvelopele înguste.",
-                "en": "Admire the imposing castle grounds from the saddle; the wet leaves on the approach road can be very treacherous for narrow bicycle tires."
+                "en": "Admire the imposing castle grounds from the saddle; the wet leaves on the approach road can be very treacherous for narrow bicycle tires.",
+                "fr": "Admirez les imposants terrains du château depuis la selle ; les feuilles mouillées sur la route d'approche peuvent être très traîtresses pour les pneus étroits des bicyclettes."
               }
             },
             {
@@ -538,13 +595,15 @@
                 "de": "Pont de Courcelles",
                 "hu": "Pont de Courcelles",
                 "ro": "Pont de Courcelles",
-                "en": "Pont de Courcelles"
+                "en": "Pont de Courcelles",
+                "fr": "Pont de Courcelles"
               },
               "tip_5lang": {
                 "de": "Halten Sie auf der Brücke an und beobachten Sie, wie der Regen auf das Wasser trifft; achten Sie auf Metallgitter oder Dehnungsfugen, die nass sehr rutschig sind.",
                 "hu": "Álljon meg a hídon, és nézze, ahogy az eső veri a lenti vizet; ügyeljen a fémrácsokra vagy a dilatációs hézagokra, amelyek nedvesen csúsznak.",
                 "ro": "Opriți-vă pe pod pentru a privi ploaia lovind apa curgătoare; fiți atenți la grătarele metalice sau rosturile de dilatație care sunt alunecoase când sunt umede.",
-                "en": "Stop on the bridge to watch the rain hit the flowing water below; be mindful of the metal grates or expansion joints which are slick when wet."
+                "en": "Stop on the bridge to watch the rain hit the flowing water below; be mindful of the metal grates or expansion joints which are slick when wet.",
+                "fr": "Arrêtez-vous sur le pont pour regarder la pluie frapper l'eau qui s'écoule en dessous ; méfiez-vous des grilles métalliques ou des joints de dilatation qui sont glissants lorsqu'ils sont mouillés."
               }
             }
           ]
@@ -554,7 +613,8 @@
             "de": "Beginnen Sie Ihre frische Winterfahrt im Park und genießen Sie die frostbedeckten Bäume. Machen Sie mittags eine Aufwärmpause im Kulturzentrum. Die nachmittägliche Fahrt zum Herrenhaus und Schloss erfordert wegen möglicher Eisflächen besondere Vorsicht. Beenden Sie Ihre Tour frühzeitig an der Brücke, wenn um 17:00 Uhr die Dämmerung einsetzt. Thermohandschuhe sind ein absolutes Muss.",
             "hu": "Kezdje a frissítő téli tekerést a parkban, gyönyörködve a fagyos fákban. Délben tartson egy fontos melegedő szünetet a kulturális központban. A délutáni út a kúriához és a kastélyhoz extra óvatosságot igényel a lehetséges jeges foltok miatt. Fejezze be az utat a hídnál, ahogy 17:00 körül leszáll a szürkület. Termo kesztyű és szélálló kerékpáros kabát kötelező.",
             "ro": "Începeți plimbarea revigorantă de iarnă în parc, bucurându-vă de copacii acoperiți de chiciură. La prânz, luați o pauză crucială de încălzire la centrul cultural. Plimbarea de după-amiază spre conac și castel necesită o atenție sporită din cauza posibilelor pete de gheață. Încheiați călătoria devreme la pod, la lăsarea serii în jur de 17:00. Mănușile termice sunt obligatorii.",
-            "en": "Kick off your brisk winter ride in the park, enjoying the stark, frost-covered trees. By noon, take a crucial warming break at the cultural center before cycling to the church. The afternoon ride to the manor and castle requires extra care due to possible icy patches. End your journey early at the bridge as dusk settles by 17:00. Thermal gloves and a windproof cycling jacket are absolute must-haves."
+            "en": "Kick off your brisk winter ride in the park, enjoying the stark, frost-covered trees. By noon, take a crucial warming break at the cultural center before cycling to the church. The afternoon ride to the manor and castle requires extra care due to possible icy patches. End your journey early at the bridge as dusk settles by 17:00. Thermal gloves and a windproof cycling jacket are absolute must-haves.",
+            "fr": "Commencez votre vélo d'hiver tonique dans le parc, en profitant des arbres dépouillés couverts de gel. À midi, faites une pause réchauffante cruciale au centre culturel avant de rouler vers l'église. La balade de l'après-midi vers le manoir et le château nécessite une attention supplémentaire à cause des plaques de verglas possibles. Terminez votre parcours tôt au pont car le crépuscule tombe vers 17:00. Gants thermiques et veste de vélo coupe-vent sont indispensables."
           },
           "stops": [
             {
@@ -562,13 +622,15 @@
                 "de": "Parc des Acacias",
                 "hu": "Parc des Acacias",
                 "ro": "Parc des Acacias",
-                "en": "Parc des Acacias"
+                "en": "Parc des Acacias",
+                "fr": "Parc des Acacias"
               },
               "tip_5lang": {
                 "de": "Drehen Sie eine schnelle Runde auf den ruhigen, gefrorenen Parkwegen; fahren Sie mäßig schnell, um den eisigen Fahrtwind im Gesicht zu vermeiden.",
                 "hu": "Tegyen egy gyors kört a csendes, dérlepte parki ösvényeken; tartsa mérsékelten a sebességet, hogy elkerülje az arcát érő fagyos menetszelet.",
                 "ro": "Faceți o tură rapidă pe aleile liniștite și înghețate ale parcului; mențineți o viteză moderată pentru a evita vântul rece pe fața expusă.",
-                "en": "Take a quick spin through the quiet, frosted park paths; keep your speed moderate to avoid freezing wind chill on your exposed face."
+                "en": "Take a quick spin through the quiet, frosted park paths; keep your speed moderate to avoid freezing wind chill on your exposed face.",
+                "fr": "Faites une petite boucle sur les chemins calmes et givrés du parc ; gardez une vitesse modérée pour éviter le froid éolien sur votre visage exposé."
               }
             },
             {
@@ -576,13 +638,15 @@
                 "de": "Espace Culturel Marcel Pagnol",
                 "hu": "Espace Culturel Marcel Pagnol",
                 "ro": "Espace Culturel Marcel Pagnol",
-                "en": "Espace Culturel Marcel Pagnol"
+                "en": "Espace Culturel Marcel Pagnol",
+                "fr": "Espace Culturel Marcel Pagnol"
               },
               "tip_5lang": {
                 "de": "Schließen Sie Ihr Fahrrad sicher ab und gehen Sie sofort hinein, um sich aufzuwärmen; der beste Ort, um sich ein heißes Getränk zu holen.",
                 "hu": "Zárja le biztonságosan a kerékpárt, és azonnal menjen be felengedni; ez a legjobb hely, hogy igyon egy forró italt a közeli automatából vagy kávézóból.",
                 "ro": "Blocați bicicleta în siguranță și intrați imediat pentru a vă dezgheța; acesta este cel mai bun loc pentru a lua o băutură caldă din apropiere.",
-                "en": "Lock your bike securely and head inside immediately to thaw out; this is the best spot to grab a hot drink from a nearby machine or cafe."
+                "en": "Lock your bike securely and head inside immediately to thaw out; this is the best spot to grab a hot drink from a nearby machine or cafe.",
+                "fr": "Verrouillez solidement votre vélo et entrez immédiatement pour vous réchauffer ; c'est l'endroit idéal pour prendre une boisson chaude d'une machine ou d'un café à proximité."
               }
             },
             {
@@ -590,13 +654,15 @@
                 "de": "Saint-Georges Church",
                 "hu": "Saint-Georges Church",
                 "ro": "Saint-Georges Church",
-                "en": "Saint-Georges Church"
+                "en": "Saint-Georges Church",
+                "fr": "Église Saint-Georges"
               },
               "tip_5lang": {
                 "de": "Vertreten Sie sich die Beine bei einem Spaziergang in der historischen Kirche; die kalte Luft staut sich in den Steinecken, behalten Sie die Mütze auf.",
                 "hu": "Nyújtsa ki a lábait, sétálva a történelmi templomban; a hideg levegő megreked a kősarkokban, ezért tartsa a kerékpáros sapkát a sisak alatt.",
                 "ro": "Întindeți-vă picioarele plimbându-vă prin biserica istorică; aerul rece se adună în colțurile de piatră, așa că păstrați-vă căciula sub cască.",
-                "en": "Stretch your legs walking inside the historic church; the cold air settles in the stone corners, so keep your cycling beanie under your helmet."
+                "en": "Stretch your legs walking inside the historic church; the cold air settles in the stone corners, so keep your cycling beanie under your helmet.",
+                "fr": "Détendez vos jambes en marchant à l'intérieur de l'église historique ; l'air froid se rassemble dans les recoins en pierre, gardez votre bonnet de cyclisme sous votre casque."
               }
             },
             {
@@ -604,13 +670,15 @@
                 "de": "Manoir de Grosmenil",
                 "hu": "Manoir de Grosmenil",
                 "ro": "Manoir de Grosmenil",
-                "en": "Manoir de Grosmenil"
+                "en": "Manoir de Grosmenil",
+                "fr": "Manoir de Grosmenil"
               },
               "tip_5lang": {
                 "de": "Betrachten Sie die Wintersilhouette des Herrenhauses; achten Sie auf Glatteis auf den schattigen Abschnitten des Radwegs in der Nähe der Mauern.",
                 "hu": "Figyelje meg a kúria téli sziluettjét; vigyázzon a fekete jégre a kerékpárút árnyékos szakaszain, a nagy határoló falak közelében.",
                 "ro": "Priviți cu atenție silueta de iarnă a conacului; aveți grijă la gheața neagră pe porțiunile umbrite ale pistei de biciclete de lângă ziduri.",
-                "en": "Look closely at the manor's winter silhouette; watch out for black ice on the shaded sections of the cycling path near the large boundary walls."
+                "en": "Look closely at the manor's winter silhouette; watch out for black ice on the shaded sections of the cycling path near the large boundary walls.",
+                "fr": "Observez attentivement la silhouette hivernale du manoir ; faites attention au verglas noir sur les sections ombragées du chemin cyclable près des grands murs de clôture."
               }
             },
             {
@@ -618,13 +686,15 @@
                 "de": "Château de Tournebut",
                 "hu": "Château de Tournebut",
                 "ro": "Château de Tournebut",
-                "en": "Château de Tournebut"
+                "en": "Château de Tournebut",
+                "fr": "Château de Tournebut"
               },
               "tip_5lang": {
                 "de": "Genießen Sie den imposanten Anblick des Schlosses in der klaren Luft; stellen Sie sicher, dass Ihre Fahrradlichter voll aufgeladen und sichtbar sind.",
                 "hu": "Élvezze a kastély impozáns látványát a friss levegőn; ahogy későre jár, ellenőrizze, hogy az első és hátsó lámpái feltöltve és jól láthatóak legyenek.",
                 "ro": "Bucurați-vă de priveliștile impunătoare ale castelului în aerul rece; pe măsură ce se face târziu, asigurați-vă că luminile bicicletei sunt încărcate.",
-                "en": "Enjoy the imposing views of the castle in the crisp air; as it gets late, make sure your bike's front and rear lights are fully charged and visible."
+                "en": "Enjoy the imposing views of the castle in the crisp air; as it gets late, make sure your bike's front and rear lights are fully charged and visible.",
+                "fr": "Profitez des vues imposantes du château dans l'air vif ; à mesure que la soirée avance, assurez-vous que les feux avant et arrière de votre vélo sont entièrement chargés et visibles."
               }
             },
             {
@@ -632,13 +702,15 @@
                 "de": "Pont de Courcelles",
                 "hu": "Pont de Courcelles",
                 "ro": "Pont de Courcelles",
-                "en": "Pont de Courcelles"
+                "en": "Pont de Courcelles",
+                "fr": "Pont de Courcelles"
               },
               "tip_5lang": {
                 "de": "Blicken Sie bei Sonnenuntergang über den eiskalten Fluss; überqueren Sie die Brücke vorsichtig, da die Oberflächentemperatur hier schnell sinkt.",
                 "hu": "Nézzen le a fagyos folyóra naplemente közben; óvatosan keljen át a hídon, mert a felület hőmérséklete itt gyorsan csökken a késő délutáni órákban.",
                 "ro": "Priviți râul înghețat la apus; traversați podul cu grijă, deoarece temperatura suprafeței scade rapid aici la sfârșitul după-amiezii.",
-                "en": "Gaze over the freezing river as the sun sets; cross the bridge carefully as the surface temperature drops rapidly here in the late afternoon."
+                "en": "Gaze over the freezing river as the sun sets; cross the bridge carefully as the surface temperature drops rapidly here in the late afternoon.",
+                "fr": "Contemplez la rivière gelée au coucher du soleil ; traversez le pont avec précaution car la température de surface y baisse rapidement en fin d'après-midi."
               }
             }
           ]
@@ -658,7 +730,8 @@
             "de": "Église Saint-Ursin",
             "hu": "Église Saint-Ursin",
             "ro": "Église Saint-Ursin",
-            "en": "Église Saint-Ursin"
+            "en": "Église Saint-Ursin",
+            "fr": "Église Saint-Ursin"
           },
           "coords": [
             1.314792,
@@ -673,7 +746,8 @@
             "de": "Bewundern Sie die robuste Architektur dieser historischen Kirche im Norden und nutzen Sie das sanfte Morgenlicht für beeindruckende Außenaufnahmen.",
             "hu": "Csodálja meg ennek az északi történelmi templomnak a masszív építészetét, és használja ki a lágy reggeli fényeket a lenyűgöző külső fotókhoz.",
             "ro": "Admirați arhitectura robustă a acestei biserici istorice din nord și profitați de lumina blândă a dimineții pentru fotografii exterioare impresionante.",
-            "en": "Admire the robust architecture of this historic northern church, and take advantage of the soft morning light for stunning exterior photos."
+            "en": "Admire the robust architecture of this historic northern church, and take advantage of the soft morning light for stunning exterior photos.",
+            "fr": "Admirez l'architecture robuste de cette église historique du nord et profitez de la douce lumière du matin pour de superbes photos extérieures."
           }
         },
         {
@@ -681,7 +755,8 @@
             "de": "Château de Tournebut",
             "hu": "Château de Tournebut",
             "ro": "Château de Tournebut",
-            "en": "Château de Tournebut"
+            "en": "Château de Tournebut",
+            "fr": "Château de Tournebut"
           },
           "coords": [
             1.329994,
@@ -696,7 +771,8 @@
             "de": "Tauchen Sie in die Geschichte dieses beeindruckenden Schlosses ein und suchen Sie nach dem besten Aussichtspunkt für ein unvergessliches Erinnerungsfoto.",
             "hu": "Merüljön el ennek a lenyűgöző kastélynak a történelmében, és keresse meg a legjobb kilátópontot egy felejthetetlen emlékfotóhoz.",
             "ro": "Cufundați-vă în istoria acestui castel impresionant și căutați cel mai bun punct de observație pentru o fotografie de neuitat.",
-            "en": "Immerse yourself in the history of this impressive castle, and seek out the best vantage point for an unforgettable souvenir photo."
+            "en": "Immerse yourself in the history of this impressive castle, and seek out the best vantage point for an unforgettable souvenir photo.",
+            "fr": "Imprégnez-vous de l'histoire de cet impressionnant château et cherchez le meilleur point de vue pour une photo-souvenir inoubliable."
           }
         },
         {
@@ -704,7 +780,8 @@
             "de": "Manoir de Grosmenil",
             "hu": "Manoir de Grosmenil",
             "ro": "Manoir de Grosmenil",
-            "en": "Manoir de Grosmenil"
+            "en": "Manoir de Grosmenil",
+            "fr": "Manoir de Grosmenil"
           },
           "coords": [
             1.329943,
@@ -719,7 +796,8 @@
             "de": "Bestaunen Sie die historische Fassade dieses eleganten Herrenhauses und fotografieren Sie die wunderschön erhaltenen Gärten, die das Anwesen umgeben.",
             "hu": "Csodálja meg ennek az elegáns kúriának a történelmi homlokzatát, és fotózza le a birtokot körülvevő, gyönyörűen karbantartott kerteket.",
             "ro": "Admirați fațada istorică a acestui conac elegant și fotografiați grădinile frumos conservate care înconjoară proprietatea.",
-            "en": "Marvel at the historic facade of this elegant manor, and take time to photograph the beautifully preserved gardens surrounding the estate."
+            "en": "Marvel at the historic facade of this elegant manor, and take time to photograph the beautifully preserved gardens surrounding the estate.",
+            "fr": "Émerveillez-vous devant la façade historique de cet élégant manoir et prenez le temps de photographier les jardins magnifiquement préservés entourant le domaine."
           }
         },
         {
@@ -727,7 +805,8 @@
             "de": "Espace Culturel Marcel Pagnol",
             "hu": "Espace Culturel Marcel Pagnol",
             "ro": "Espace Culturel Marcel Pagnol",
-            "en": "Espace Culturel Marcel Pagnol"
+            "en": "Espace Culturel Marcel Pagnol",
+            "fr": "Espace Culturel Marcel Pagnol"
           },
           "coords": [
             1.340266,
@@ -742,7 +821,8 @@
             "de": "Entdecken Sie lokale Kunst in diesem modernen Kulturzentrum und prüfen Sie vorab den Veranstaltungsplan für aktuelle Ausstellungen.",
             "hu": "Fedezze fel a helyi művészetet ebben a modern kulturális központban, és előzetesen ellenőrizze az aktuális kiállítások programját.",
             "ro": "Descoperiți arta locală în acest centru cultural modern și verificați din timp programul evenimentelor pentru expozițiile actuale.",
-            "en": "Discover local art in this modern cultural center, and be sure to check the event schedule in advance for current exhibitions."
+            "en": "Discover local art in this modern cultural center, and be sure to check the event schedule in advance for current exhibitions.",
+            "fr": "Découvrez l'art local dans ce centre culturel moderne et n'oubliez pas de consulter le calendrier des événements à l'avance pour les expositions en cours."
           }
         },
         {
@@ -750,7 +830,8 @@
             "de": "Parc des Acacias",
             "hu": "Parc des Acacias",
             "ro": "Parc des Acacias",
-            "en": "Parc des Acacias"
+            "en": "Parc des Acacias",
+            "fr": "Parc des Acacias"
           },
           "coords": [
             1.362363,
@@ -765,7 +846,8 @@
             "de": "Machen Sie einen gemütlichen Spaziergang unter den schattigen Bäumen dieses Parks, der ideale Ort für ein entspanntes Picknick am Vormittag.",
             "hu": "Tegyen egy kellemes sétát a park árnyas fái alatt, amely ideális helyszín egy pihentető délelőtti piknikhez.",
             "ro": "Faceți o plimbare liniștită sub copacii umbroși ai acestui parc, locul ideal pentru un picnic relaxant de dimineață.",
-            "en": "Take a leisurely stroll beneath the shady trees of this park, which serves as the ideal spot for a relaxing morning picnic."
+            "en": "Take a leisurely stroll beneath the shady trees of this park, which serves as the ideal spot for a relaxing morning picnic.",
+            "fr": "Faites une promenade tranquille sous les arbres ombrageux de ce parc, qui constitue l'endroit idéal pour un pique-nique matinal relaxant."
           }
         },
         {
@@ -773,7 +855,8 @@
             "de": "Église Notre-Dame-de-Bon-Secours",
             "hu": "Église Notre-Dame-de-Bon-Secours",
             "ro": "Église Notre-Dame-de-Bon-Secours",
-            "en": "Église Notre-Dame-de-Bon-Secours"
+            "en": "Église Notre-Dame-de-Bon-Secours",
+            "fr": "Église Notre-Dame-de-Bon-Secours"
           },
           "coords": [
             1.359185,
@@ -788,7 +871,8 @@
             "de": "Besuchen Sie diese friedliche Kirche und betrachten Sie die feinen Details des Altars, der eine tiefe spirituelle Atmosphäre ausstrahlt.",
             "hu": "Látogasson el ebbe a békés templomba, és tekintse meg az oltár finom részleteit, amely mély spirituális atmoszférát áraszt.",
             "ro": "Vizitați această biserică pașnică și priviți detaliile fine ale altarului, care emană o atmosferă profund spirituală.",
-            "en": "Visit this peaceful church and examine the fine details of the altar, which exudes a deeply spiritual atmosphere."
+            "en": "Visit this peaceful church and examine the fine details of the altar, which exudes a deeply spiritual atmosphere.",
+            "fr": "Visitez cette église paisible et examinez les fins détails de l'autel, qui dégage une atmosphère profondément spirituelle."
           }
         },
         {
@@ -796,7 +880,8 @@
             "de": "Pont de Courcelles",
             "hu": "Pont de Courcelles",
             "ro": "Pont de Courcelles",
-            "en": "Pont de Courcelles"
+            "en": "Pont de Courcelles",
+            "fr": "Pont de Courcelles"
           },
           "coords": [
             1.353748,
@@ -811,7 +896,8 @@
             "de": "Erleben Sie die tolle Aussicht auf den Fluss von dieser historischen Brücke und besuchen Sie sie am besten am späten Nachmittag für weiches Licht.",
             "hu": "Élvezze a folyóra nyíló remek kilátást erről a történelmi hídról, amelyet a lágy fények miatt a késő délutáni órákban érdemes felkeresni.",
             "ro": "Experimentați priveliștea minunată asupra râului de pe acest pod istoric, fiind recomandat să-l vizitați după-amiaza târziu pentru o lumină blândă.",
-            "en": "Experience the great river views from this historical bridge, and visit late in the afternoon to take advantage of the soft lighting."
+            "en": "Experience the great river views from this historical bridge, and visit late in the afternoon to take advantage of the soft lighting.",
+            "fr": "Profitez des superbes vues sur la rivière depuis ce pont historique et visitez-le en fin d'après-midi pour bénéficier d'un éclairage doux."
           }
         }
       ],
@@ -819,7 +905,8 @@
         "de": "Beginnen Sie die Autofahrt im Norden bei der charmanten Église Saint-Ursin und dem benachbarten Château de Tournebut. Fahren Sie weiter zum eleganten Manoir de Grosmenil, das die reiche Architektur der Region zeigt. Nach einer kulturellen Pause im Espace Marcel Pagnol entspannen Sie im grünen Parc des Acacias. Beenden Sie den Tag bei der Kirche Notre-Dame und dem historischen Pont de Courcelles.",
         "hu": "Kezdje az autós körutat északon a bájos Saint-Ursin templomnál és a szomszédos Château de Tournebut kastélynál. Utazzon tovább az elegáns Manoir de Grosmenilhez, amely a régió gazdag építészetét mutatja be. A Marcel Pagnol központban tett kulturális szünet után pihenjen meg a zöld Acacias parkban. Zárja a napot a Notre-Dame templomnál és a történelmi Courcelles hídnál.",
         "ro": "Începeți traseul auto în nord, la fermecătoarea Biserică Saint-Ursin și la Château de Tournebut, aflat în vecinătate. Conduceți spre elegantul Manoir de Grosmenil, care ilustrează bogata arhitectură a regiunii. După o pauză culturală la Espace Marcel Pagnol, relaxați-vă în verdele Parc des Acacias. Încheiați ziua la Biserica Notre-Dame și la istoricul Pont de Courcelles.",
-        "en": "Begin your drive in the north at the charming Église Saint-Ursin and the neighboring Château de Tournebut. Continue to the elegant Manoir de Grosmenil, which showcases the region's rich architecture. After a cultural break at the Espace Marcel Pagnol, relax in the verdant Parc des Acacias. End the day at the Notre-Dame Church and the historical Pont de Courcelles."
+        "en": "Begin your drive in the north at the charming Église Saint-Ursin and the neighboring Château de Tournebut. Continue to the elegant Manoir de Grosmenil, which showcases the region's rich architecture. After a cultural break at the Espace Marcel Pagnol, relax in the verdant Parc des Acacias. End the day at the Notre-Dame Church and the historical Pont de Courcelles.",
+        "fr": "Commencez votre trajet vers le nord à la charmante Église Saint-Ursin et au Château de Tournebut voisin. Continuez vers l'élégant Manoir de Grosmenil, qui met en valeur la riche architecture de la région. Après une pause culturelle à l'Espace Marcel Pagnol, détendez-vous dans le verdoyant Parc des Acacias. Terminez la journée à l'Église Notre-Dame-de-Bon-Secours et au historique Pont de Courcelles."
       },
       "variants": {
         "rainy": {
@@ -827,7 +914,8 @@
             "de": "Eine regnerische Morgenfahrt beginnt an der Kirche, die einen trockenen Ort bietet, um die Architektur zu bewundern. Fahren Sie mittags am Schloss und Herrenhaus vorbei. Am Nachmittag ist das Kulturzentrum ein perfekter trockener Zufluchtsort, gefolgt von einer kurzen Fahrt entlang des Parks. Beenden Sie den Tag an der Brücke. Bewahren Sie einen Regenschirm für kurze Wege auf.",
             "hu": "Egy esős reggeli autózás a templomnál kezdődik, amely száraz menedéket nyújt az építészet csodálásához. Délben hajtson el a kastély és a kúria mellett, élvezve borongós, romantikus sziluettjüket. Délután a kulturális központ tökéletes menedék, amelyet egy gyors gurulás követ a park mellett. Zárja a napot a hídnál. Tartson esernyőt az autóban a parkolótól való rövid sétákhoz.",
             "ro": "O plimbare matinală ploioasă cu mașina începe la biserică, oferind un loc uscat pentru a admira arhitectura. La prânz, conduceți pe lângă castel și conac, apreciind siluetele lor romantice prin ștergătoare. După-amiaza, centrul cultural este un refugiu perfect uscat, urmat de o scurtă plimbare cu mașina pe lângă parc. Încheiați ziua la pod. Păstrați o umbrelă în mașină pentru plimbări scurte.",
-            "en": "A rainy morning drive begins at the church, offering a dry spot to admire the architecture. By midday, drive past the castle and manor, appreciating their gloomy, romantic silhouettes through the wipers. In the afternoon, the cultural center is a perfect dry haven, followed by a quick drive by the park. End the day at the bridge. Keep an umbrella in the car for short walks from parking spaces."
+            "en": "A rainy morning drive begins at the church, offering a dry spot to admire the architecture. By midday, drive past the castle and manor, appreciating their gloomy, romantic silhouettes through the wipers. In the afternoon, the cultural center is a perfect dry haven, followed by a quick drive by the park. End the day at the bridge. Keep an umbrella in the car for short walks from parking spaces.",
+            "fr": "Une matinée de conduite pluvieuse commence à l'église, offrant un abri sec pour admirer l'architecture. Vers midi, conduisez devant le château et le manoir, appréciant leurs silhouettes romantiques et mélancoliques à travers les essuie-glaces. L'après-midi, le centre culturel est un parfait havre sec, suivi d'un passage rapide près du parc. Terminez la journée au pont. Gardez un parapluie dans la voiture pour de courtes promenades depuis les places de stationnement."
           },
           "stops": [
             {
@@ -835,13 +923,15 @@
                 "de": "Église Saint-Ursin",
                 "hu": "Église Saint-Ursin",
                 "ro": "Église Saint-Ursin",
-                "en": "Église Saint-Ursin"
+                "en": "Église Saint-Ursin",
+                "fr": "Église Saint-Ursin"
               },
               "tip_5lang": {
                 "de": "Steigen Sie schnell aus, um das trockene Innere dieser charmanten Kirche zu genießen; parken Sie so nah wie möglich, um nicht nass zu werden.",
                 "hu": "Lépjen ki gyorsan, hogy élvezze a bájos templom száraz belső terét; parkoljon a lehető legközelebb, hogy minimálisra csökkentse az esőben töltött időt.",
                 "ro": "Ieșiți rapid pentru a vă bucura de interiorul uscat al acestei biserici fermecătoare; parcați cât mai aproape posibil pentru a minimiza expunerea la ploaie.",
-                "en": "Step out quickly to enjoy the dry interior of this charming church; park as close as legally possible to minimize your exposure to the rain."
+                "en": "Step out quickly to enjoy the dry interior of this charming church; park as close as legally possible to minimize your exposure to the rain.",
+                "fr": "Sortez rapidement pour profiter de l'intérieur sec de cette charmante église ; garez-vous le plus près possible dans le respect du code afin de réduire votre exposition à la pluie."
               }
             },
             {
@@ -849,13 +939,15 @@
                 "de": "Château de Tournebut",
                 "hu": "Château de Tournebut",
                 "ro": "Château de Tournebut",
-                "en": "Château de Tournebut"
+                "en": "Château de Tournebut",
+                "fr": "Château de Tournebut"
               },
               "tip_5lang": {
                 "de": "Betrachten Sie das majestätische Schlossgelände bequem von Ihrem beheizten Auto aus; öffnen Sie das Fenster leicht für Fotos, damit die Linse nicht nass wird.",
                 "hu": "Tekintse meg a fenséges kastélyparkot fűtött autója kényelméből; húzza le kissé az ablakot a fotózáshoz, hogy elkerülje a lencse vizesedését.",
                 "ro": "Priviți terenurile maiestuoase ale castelului din confortul mașinii încălzite; lăsați puțin geamul în jos pentru fotografii pentru a evita udarea lentilei.",
-                "en": "View the majestic castle grounds from the comfort of your heated car; roll down the window slightly for photos to avoid getting your lens wet."
+                "en": "View the majestic castle grounds from the comfort of your heated car; roll down the window slightly for photos to avoid getting your lens wet.",
+                "fr": "Voyez les majestueux jardins du château depuis le confort de votre voiture chauffée ; baissez légèrement la fenêtre pour des photos afin d'éviter d'imbiber votre objectif."
               }
             },
             {
@@ -863,13 +955,15 @@
                 "de": "Manoir de Grosmenil",
                 "hu": "Manoir de Grosmenil",
                 "ro": "Manoir de Grosmenil",
-                "en": "Manoir de Grosmenil"
+                "en": "Manoir de Grosmenil",
+                "fr": "Manoir de Grosmenil"
               },
               "tip_5lang": {
                 "de": "Fahren Sie langsam am Herrenhaus vorbei, um die im Regen glänzenden Steindetails zu bewundern; achten Sie auf tiefe Pfützen am Straßenrand.",
                 "hu": "Hajtson lassan el a kúria mellett, hogy megcsodálja az esőben csillogó kőrészleteket; óvakodjon a mély pocsolyáktól, amelyek az út szélén alakulnak ki.",
                 "ro": "Conduceți încet pe lângă conac pentru a admira detaliile din piatră strălucind în ploaie; fiți atenți la bălțile adânci care se formează pe marginea drumului.",
-                "en": "Drive slowly past the manor to admire its stone details shining under the rain; be cautious of deep puddles that form along the country road verges."
+                "en": "Drive slowly past the manor to admire its stone details shining under the rain; be cautious of deep puddles that form along the country road verges.",
+                "fr": "Roulez lentement devant le manoir pour admirer ses détails de pierre brillants sous la pluie ; méfiez-vous des grandes flaques qui se forment le long des bords des routes de campagne."
               }
             },
             {
@@ -877,13 +971,15 @@
                 "de": "Espace Culturel Marcel Pagnol",
                 "hu": "Espace Culturel Marcel Pagnol",
                 "ro": "Espace Culturel Marcel Pagnol",
-                "en": "Espace Culturel Marcel Pagnol"
+                "en": "Espace Culturel Marcel Pagnol",
+                "fr": "Espace Culturel Marcel Pagnol"
               },
               "tip_5lang": {
                 "de": "Machen Sie eine lange, trockene Pause drinnen, um die Ausstellungen zu erkunden; nutzen Sie den Parkplatz, um einen matschigen Weg zu vermeiden.",
                 "hu": "Tartson egy hosszú, száraz pihenőt bent, hogy felfedezze a kiállításokat; használja a kijelölt parkolót, hogy elkerülje a saras sétát a mellékutcákból.",
                 "ro": "Luați o pauză lungă și uscată înăuntru pentru a explora expozițiile locale; folosiți parcarea dedicată pentru a evita o plimbare noroioasă din stradă.",
-                "en": "Take a long, dry break inside to explore the local exhibits; use the dedicated parking lot to avoid a muddy walk from off-street parking."
+                "en": "Take a long, dry break inside to explore the local exhibits; use the dedicated parking lot to avoid a muddy walk from off-street parking.",
+                "fr": "Faites une longue pause à l'abri pour explorer les expositions locales ; utilisez le parking dédié pour éviter une marche boueuse depuis un stationnement hors voirie."
               }
             },
             {
@@ -891,13 +987,15 @@
                 "de": "Parc des Acacias",
                 "hu": "Parc des Acacias",
                 "ro": "Parc des Acacias",
-                "en": "Parc des Acacias"
+                "en": "Parc des Acacias",
+                "fr": "Parc des Acacias"
               },
               "tip_5lang": {
                 "de": "Genießen Sie eine malerische Fahrt um den Park und beobachten Sie die regennassen Bäume; das Betreten des Grases wird ohne Gummistiefel nicht empfohlen.",
                 "hu": "Tegyen egy festői autózást a park körül, megfigyelve az eső áztatta fákat; a fűre lépés nem ajánlott, hacsak nincs gumicsizmája.",
                 "ro": "Bucurați-vă de o plimbare pitorească în jurul perimetrului parcului observând copacii udați de ploaie; aventurarea pe iarbă nu este recomandată.",
-                "en": "Enjoy a scenic drive around the park perimeter observing the rain-soaked trees; venturing onto the grass is not advised unless you have wellington boots."
+                "en": "Enjoy a scenic drive around the park perimeter observing the rain-soaked trees; venturing onto the grass is not advised unless you have wellington boots.",
+                "fr": "Profitez d'une route panoramique autour du parc en observant les arbres imbibés de pluie ; s'aventurer sur la pelouse n'est pas conseillé sauf si vous avez des bottes en caoutchouc."
               }
             },
             {
@@ -905,13 +1003,15 @@
                 "de": "Église Notre-Dame-de-Bon-Secours",
                 "hu": "Église Notre-Dame-de-Bon-Secours",
                 "ro": "Église Notre-Dame-de-Bon-Secours",
-                "en": "Église Notre-Dame-de-Bon-Secours"
+                "en": "Église Notre-Dame-de-Bon-Secours",
+                "fr": "Église Notre-Dame-de-Bon-Secours"
               },
               "tip_5lang": {
                 "de": "Laufen Sie schnell hinein, um das schöne Kirchenschiff sturmgeschützt zu sehen; achten Sie auf die rutschigen Pflastersteine vor dem Haupteingang.",
                 "hu": "Szaladjon be, hogy megnézze a gyönyörű főhajót a vihar elől védve; vigyázzon a lépéseire a főbejárathoz vezető csúszós, nedves térköveken.",
                 "ro": "Fugiți înăuntru pentru a vedea naosul frumos adăpostit de furtună; aveți grijă la pietrele de pavaj alunecoase care duc la intrarea principală.",
-                "en": "Dash inside to see the beautiful nave sheltered from the storm; watch your step on the slick wet paving stones leading up to the main entrance."
+                "en": "Dash inside to see the beautiful nave sheltered from the storm; watch your step on the slick wet paving stones leading up to the main entrance.",
+                "fr": "Courez à l'intérieur pour voir la belle nef abritée de la tempête ; faites attention à votre pas sur les dalles mouillées et glissantes menant à l'entrée principale."
               }
             },
             {
@@ -919,13 +1019,15 @@
                 "de": "Pont de Courcelles",
                 "hu": "Pont de Courcelles",
                 "ro": "Pont de Courcelles",
-                "en": "Pont de Courcelles"
+                "en": "Pont de Courcelles",
+                "fr": "Pont de Courcelles"
               },
               "tip_5lang": {
                 "de": "Überqueren Sie die Brücke langsam, hören Sie dem Regen auf dem Dach zu und beobachten Sie sicher das schnell fließende Wasser unter Ihnen.",
                 "hu": "Keljen át lassan a hídon a járművével, hallgatva, ahogy a heves eső veri a tetőt, miközben biztonságosan figyeli a gyorsan folyó vizet.",
                 "ro": "Traversați podul încet în vehicul, ascultând ploaia puternică lovind acoperișul, în timp ce urmăriți în siguranță apele curgătoare dedesubt.",
-                "en": "Cross the bridge slowly in your vehicle, listening to the heavy rain hit the roof while safely watching the fast-flowing waters below."
+                "en": "Cross the bridge slowly in your vehicle, listening to the heavy rain hit the roof while safely watching the fast-flowing waters below.",
+                "fr": "Traversez le pont lentement en voiture, en écoutant la pluie battante sur le toit tout en regardant prudemment les eaux rapides en dessous."
               }
             }
           ]
@@ -935,7 +1037,8 @@
             "de": "Ihre Winterfahrt beginnt angenehm mit einem Stopp an der ersten Kirche, während die Autoheizung dazwischen läuft. Mittags zeigen sich die frostbedeckten Anlagen des Schlosses und Herrenhauses. Betreten Sie am Nachmittag das beheizte Kulturzentrum. Fahren Sie am Park und der zweiten Kirche vorbei, bevor Sie gegen 17:00 Uhr bei Einbruch der Dunkelheit die Brücke erreichen. Halten Sie warme Kleidung bereit.",
             "hu": "A téli autózás kellemesen indul egy gyors megállóval az első templomnál, miközben a két helyszín között élvezi az autó fűtését. Délben elénk tárul a kastély és a kúria fagyos parkja. Délután lépjen be a kényelmesen fűtött kulturális központba egy hosszabb látogatásra. Hajtson el a park és a második templom mellett, mielőtt 17:00-ra, a korai sötétedés idejére a hídhoz érne. Tartson kéznél meleg ruhát.",
             "ro": "Conducerea de iarnă începe plăcut cu o scurtă oprire la prima biserică, bucurându-vă de căldura mașinii între opriri. La prânz, terenurile acoperite de gheață ale castelului și conacului se dezvăluie. După-amiaza, intrați în centrul cultural încălzit confortabil. Treceți pe lângă parc și a doua biserică înainte de a ajunge la pod până la 17:00, când se lasă întunericul devreme.",
-            "en": "Your winter drive begins pleasantly with a quick stop at the first church, running the car heater in between. Midday reveals the frost-covered grounds of the castle and manor. By afternoon, step into the comfortably heated cultural center for a longer stay. Drive past the starkly beautiful park and second church before reaching the bridge by 17:00, when the early darkness falls. Keep warm layers handy."
+            "en": "Your winter drive begins pleasantly with a quick stop at the first church, running the car heater in between. Midday reveals the frost-covered grounds of the castle and manor. By afternoon, step into the comfortably heated cultural center for a longer stay. Drive past the starkly beautiful park and second church before reaching the bridge by 17:00, when the early darkness falls. Keep warm layers handy.",
+            "fr": "Votre trajet d'hiver commence agréablement par un arrêt rapide à la première église, en faisant fonctionner le chauffage de la voiture entre les étapes. À midi, découvrez les terrains givrés du château et du manoir. L'après-midi, entrez dans l'espace culturel chauffé pour un plus long séjour. Passez devant le parc d'une beauté austère et la deuxième église avant d'atteindre le pont vers 17:00, quand l'obscurité tombe tôt. Gardez des vêtements chauds à portée de main."
           },
           "stops": [
             {
@@ -943,13 +1046,15 @@
                 "de": "Église Saint-Ursin",
                 "hu": "Église Saint-Ursin",
                 "ro": "Église Saint-Ursin",
-                "en": "Église Saint-Ursin"
+                "en": "Église Saint-Ursin",
+                "fr": "Église Saint-Ursin"
               },
               "tip_5lang": {
                 "de": "Bewundern Sie die robuste Steinfassade, die der Winterkälte trotzt; lassen Sie den Motor kurz laufen, damit die Kabine bei Ihrer Rückkehr warm ist.",
                 "hu": "Csodálja meg a téli hidegnek ellenálló, robusztus kőhomHomlokzatot; járassa egy kicsit a motort, hogy az utastér meleg legyen, mire visszatér.",
                 "ro": "Admirați fațada robustă din piatră care rezistă frigului iernii; lăsați motorul pornit momentan pentru a vă asigura că habitaclul este cald la întoarcere.",
-                "en": "Admire the robust stone facade resisting the winter chill; keep your engine running momentarily to ensure the cabin is toasty when you return."
+                "en": "Admire the robust stone facade resisting the winter chill; keep your engine running momentarily to ensure the cabin is toasty when you return.",
+                "fr": "Admirez la robuste façade en pierre résistant au froid hivernal ; laissez le moteur tourner un instant pour que l'habitacle soit bien chaud à votre retour."
               }
             },
             {
@@ -957,13 +1062,15 @@
                 "de": "Château de Tournebut",
                 "hu": "Château de Tournebut",
                 "ro": "Château de Tournebut",
-                "en": "Château de Tournebut"
+                "en": "Château de Tournebut",
+                "fr": "Château de Tournebut"
               },
               "tip_5lang": {
                 "de": "Halten Sie sicher an, um die schneebedeckten Dächer des Schlosses zu fotografieren; achten Sie auf vereinzelte Eisflächen auf den ruhigen Straßen hier.",
                 "hu": "Húzódjon le biztonságosan, hogy megörökítse a hóval vagy dérrel borított kastélytetőket; vigyázzon a birtokot körülvevő csendes utakon kialakuló jégfoltokra.",
                 "ro": "Trageți pe dreapta în siguranță pentru a surprinde acoperișurile pudrate cu zăpadă ale castelului; feriți-vă de gheața care se formează pe drumurile liniștite.",
-                "en": "Pull over safely to capture the snow-dusted or frosted castle rooflines; beware of patchy ice forming on the quiet roads surrounding the estate."
+                "en": "Pull over safely to capture the snow-dusted or frosted castle rooflines; beware of patchy ice forming on the quiet roads surrounding the estate.",
+                "fr": "Garez-vous en sécurité pour capturer les lignes de toiture poudrées de neige ou de givre ; méfiez-vous des plaques de verglas formées par endroits sur les routes tranquilles entourant le domaine."
               }
             },
             {
@@ -971,13 +1078,15 @@
                 "de": "Manoir de Grosmenil",
                 "hu": "Manoir de Grosmenil",
                 "ro": "Manoir de Grosmenil",
-                "en": "Manoir de Grosmenil"
+                "en": "Manoir de Grosmenil",
+                "fr": "Manoir de Grosmenil"
               },
               "tip_5lang": {
                 "de": "Beachten Sie, wie die kahlen Winterbäume mehr von der eleganten Struktur des Herrenhauses freigeben; stellen Sie sicher, dass Ihre Windschutzscheibe enteist ist.",
                 "hu": "Figyelje meg, hogy a csupasz téli fák mennyit engednek láttatni a kúria elegáns szerkezetéből; a legjobb kilátás érdekében teljesen jégmentesítse a szélvédőt.",
                 "ro": "Observați cum copacii goi de iarnă dezvăluie mai mult din structura elegantă a conacului; asigurați-vă că parbrizul este complet dezghețat pentru o vedere optimă.",
-                "en": "Notice how the bare winter trees reveal more of the manor's elegant structure; make sure your windshield is fully defrosted for the best view."
+                "en": "Notice how the bare winter trees reveal more of the manor's elegant structure; make sure your windshield is fully defrosted for the best view.",
+                "fr": "Remarquez comment les arbres d'hiver dépouillés dévoilent davantage l'élégante structure du manoir ; assurez-vous que votre pare-brise est totalement dégivré pour une meilleure vue."
               }
             },
             {
@@ -985,13 +1094,15 @@
                 "de": "Espace Culturel Marcel Pagnol",
                 "hu": "Espace Culturel Marcel Pagnol",
                 "ro": "Espace Culturel Marcel Pagnol",
-                "en": "Espace Culturel Marcel Pagnol"
+                "en": "Espace Culturel Marcel Pagnol",
+                "fr": "Espace Culturel Marcel Pagnol"
               },
               "tip_5lang": {
                 "de": "Entfliehen Sie der Kälte in diesem beheizten Gebäude, während Sie die Kunst genießen; ein großartiger Stopp am Nachmittag, um die dicken Wintermäntel abzulegen.",
                 "hu": "Meneküljön el teljesen a hideg elől ebbe a fűtött épületbe, miközben a művészetet élvezi; remek kora délutáni megálló a nehéz téli kabátok levételére és a pihenésre.",
                 "ro": "Scăpați complet de frig în această locație încălzită în timp ce vă bucurați de artă; este o oprire excelentă la mijlocul după-amiezii pentru a vă relaxa.",
-                "en": "Escape the cold entirely in this heated venue while enjoying the art; it is a great mid-afternoon stop to peel off heavy winter coats and relax."
+                "en": "Escape the cold entirely in this heated venue while enjoying the art; it is a great mid-afternoon stop to peel off heavy winter coats and relax.",
+                "fr": "Échappez complètement au froid dans ce lieu chauffé tout en profitant de l'art ; c'est un excellent arrêt en milieu d'après-midi pour enlever les lourds manteaux d'hiver et vous détendre."
               }
             },
             {
@@ -999,13 +1110,15 @@
                 "de": "Parc des Acacias",
                 "hu": "Parc des Acacias",
                 "ro": "Parc des Acacias",
-                "en": "Parc des Acacias"
+                "en": "Parc des Acacias",
+                "fr": "Parc des Acacias"
               },
               "tip_5lang": {
                 "de": "Fahren Sie an der ruhenden, frostigen Parklandschaft vorbei; wenn Sie an die frische Luft gehen, packen Sie sich gut ein, da hier oft eisige Winde wehen.",
                 "hu": "Hajtson el a szunnyadó, deres park mellett; ha kiszáll a friss levegőre, öltözzön be alaposan, mert a nyitott területen nagyon metsző szelek fújnak.",
                 "ro": "Treceți pe lângă peisajul parcului adormit și înghețat; dacă ieșiți la aer curat, înfofoliți-vă bine, deoarece zona deschisă are vânturi foarte aspre.",
-                "en": "Drive by the dormant, frosty park landscape; if you step out for fresh air, bundle up securely as the open area gets very biting winds."
+                "en": "Drive by the dormant, frosty park landscape; if you step out for fresh air, bundle up securely as the open area gets very biting winds.",
+                "fr": "Passez en voiture devant le paysage hivernal endormi et givré du parc ; si vous sortez pour prendre l'air, emmitouflez-vous bien car l'espace ouvert est très exposé aux vents mordants."
               }
             },
             {
@@ -1013,13 +1126,15 @@
                 "de": "Église Notre-Dame-de-Bon-Secours",
                 "hu": "Église Notre-Dame-de-Bon-Secours",
                 "ro": "Église Notre-Dame-de-Bon-Secours",
-                "en": "Église Notre-Dame-de-Bon-Secours"
+                "en": "Église Notre-Dame-de-Bon-Secours",
+                "fr": "Église Notre-Dame-de-Bon-Secours"
               },
               "tip_5lang": {
                 "de": "Besuchen Sie diese zweite Kirche, wenn das Licht am späten Nachmittag tiefer wird; treten Sie vorsichtig auf den frostigen Bürgersteig vom Parkplatz zur Tür.",
                 "hu": "Látogassa meg ezt a második templomot, ahogy a késő délutáni fény mélyül; lépjen óvatosan a parkolótól az ajtóhoz vezető fagyos járdán.",
                 "ro": "Vizitați această a doua biserică pe măsură ce lumina după-amiezii târzii se adâncește; pășiți cu grijă pe pavajul înghețat care duce de la parcare la ușă.",
-                "en": "Visit this second church as the late afternoon light deepens; step carefully on the frosty pavement leading from the parking area to the door."
+                "en": "Visit this second church as the late afternoon light deepens; step carefully on the frosty pavement leading from the parking area to the door.",
+                "fr": "Visitez cette deuxième église alors que la lumière de fin d'après-midi s'intensifie ; marchez prudemment sur le pavé gelé menant du parking à la porte."
               }
             },
             {
@@ -1027,13 +1142,15 @@
                 "de": "Pont de Courcelles",
                 "hu": "Pont de Courcelles",
                 "ro": "Pont de Courcelles",
-                "en": "Pont de Courcelles"
+                "en": "Pont de Courcelles",
+                "fr": "Pont de Courcelles"
               },
               "tip_5lang": {
                 "de": "Erreichen Sie die Brücke kurz vor dem Sonnenuntergang um 17:00 Uhr für einen magischen winterlichen Dämmerungsblick; beachten Sie, dass Brückenoberflächen schneller gefrieren.",
                 "hu": "Érkezzen a hídhoz közvetlenül a 17:00 órás naplemente előtt a varázslatos téli alkonyati kilátásért; ne feledje, hogy a hidak felülete gyorsabban fagy, mint a normál utaké.",
                 "ro": "Ajungeți la pod chiar înainte de apusul de la ora 17:00 pentru o vedere magică a amurgului de iarnă; fiți conștienți că suprafețele podului îngheață mai repede.",
-                "en": "Arrive at the bridge right before the 17:00 sunset for a magical winter twilight view; be aware that bridge surfaces freeze faster than regular roads."
+                "en": "Arrive at the bridge right before the 17:00 sunset for a magical winter twilight view; be aware that bridge surfaces freeze faster than regular roads.",
+                "fr": "Arrivez au pont juste avant le coucher du soleil à 17:00 pour une vue magique au crépuscule hivernal ; sachez que les surfaces des ponts gèlent plus vite que les routes ordinaires."
               }
             }
           ]

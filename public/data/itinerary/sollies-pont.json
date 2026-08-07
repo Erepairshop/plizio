@@ -21,7 +21,8 @@
             "de": "Église Saint-Jean-Baptiste",
             "hu": "Église Saint-Jean-Baptiste",
             "ro": "Église Saint-Jean-Baptiste",
-            "en": "Église Saint-Jean-Baptiste"
+            "en": "Église Saint-Jean-Baptiste",
+            "fr": "Église Saint-Jean-Baptiste"
           },
           "coords": [
             6.040312,
@@ -36,7 +37,8 @@
             "de": "Bewundern Sie die wunderschönen Buntglasfenster dieser zentralen Kirche und achten Sie auf das schwarze Brett für die Termine lokaler Chorauftritte.",
             "hu": "Csodálja meg ennek a központi templomnak a gyönyörű ólomüveg ablakait, és ne felejtse el megnézni a hirdetőtáblán a helyi kórusok fellépési idejét.",
             "ro": "Admirați vitraliile frumoase ale acestei biserici centrale și nu uitați să verificați panoul informativ pentru programul spectacolelor corale locale.",
-            "en": "Admire the beautiful stained glass windows of this central church, and remember to check the notice board for local choir performance schedules."
+            "en": "Admire the beautiful stained glass windows of this central church, and remember to check the notice board for local choir performance schedules.",
+            "fr": "Admirez les beaux vitraux de cette église centrale et n’oubliez pas de consulter le panneau d’affichage pour les horaires des chorales locales."
           }
         },
         {
@@ -44,7 +46,8 @@
             "de": "Forbin Castle",
             "hu": "Forbin Kastély",
             "ro": "Castelul Forbin",
-            "en": "Forbin Castle"
+            "en": "Forbin Castle",
+            "fr": "Château de Forbin"
           },
           "coords": [
             6.0423,
@@ -59,7 +62,8 @@
             "de": "Erkunden Sie die großartige Renaissance-Architektur dieses historischen Schlosses und ruhen Sie sich auf den schattigen Bänken im gepflegten Innenhof aus.",
             "hu": "Fedezze fel e történelmi kastély pompás reneszánsz építészetét, és pihenjen meg egy pillanatra az árnyékos padokon a gyönyörűen gondozott udvaron.",
             "ro": "Explorați arhitectura renascentistă grandioasă a acestui castel istoric și luați un moment pentru a vă odihni pe băncile umbrite din curtea sa frumos îngrijită.",
-            "en": "Explore the grand Renaissance architecture of this historic castle, and take a moment to rest on the shaded benches in its beautifully manicured courtyard."
+            "en": "Explore the grand Renaissance architecture of this historic castle, and take a moment to rest on the shaded benches in its beautifully manicured courtyard.",
+            "fr": "Explorez la grande architecture de la Renaissance de ce château historique et accordez-vous un moment de repos sur les bancs ombragés de sa cour magnifiquement entretenue."
           }
         },
         {
@@ -67,7 +71,8 @@
             "de": "Chapelle Saint-Roch",
             "hu": "Saint-Roch Kápolna",
             "ro": "Capela Saint-Roch",
-            "en": "Chapelle Saint-Roch"
+            "en": "Chapelle Saint-Roch",
+            "fr": "Chapelle Saint-Roch"
           },
           "coords": [
             6.052297,
@@ -82,7 +87,8 @@
             "de": "Betreten Sie diese friedliche, intime Kapelle, um der Mittagshitze zu entfliehen, und achten Sie darauf, die von den Einheimischen gewünschte Stille zu respektieren.",
             "hu": "Lépjen be ebbe a békés, meghitt kápolnába, hogy elmeneküljön a déli hőség elől, ügyelve arra, hogy tiszteletben tartsa a helyi hívek által kért csendet.",
             "ro": "Pășiți în această capelă pașnică și intimă pentru a scăpa de căldura amiezii, având grijă să respectați liniștea cerută de enoriașii locali.",
-            "en": "Step inside this peaceful, intimate chapel to escape the midday heat, taking care to respect the silence requested by the local parishioners."
+            "en": "Step inside this peaceful, intimate chapel to escape the midday heat, taking care to respect the silence requested by the local parishioners.",
+            "fr": "Entrez dans cette chapelle paisible et intime pour échapper à la chaleur de midi, en veillant à respecter le silence demandé par les paroissiens locaux."
           }
         },
         {
@@ -90,7 +96,8 @@
             "de": "Musée du vêtement provençal",
             "hu": "Musée du vêtement provençal",
             "ro": "Musée du vêtement provençal",
-            "en": "Musée du vêtement provençal"
+            "en": "Musée du vêtement provençal",
+            "fr": "Musée du vêtement provençal"
           },
           "coords": [
             6.039883,
@@ -105,7 +112,8 @@
             "de": "Entdecken Sie in diesem Spezialmuseum die lebendige Geschichte traditioneller regionaler Kleidung und bringen Sie Bargeld für lokal gewebte Souvenirs mit.",
             "hu": "Fedezze fel a hagyományos regionális öltözetek élénk történetét ebben a speciális múzeumban, és hozzon készpénzt, ha helyben szőtt ajándéktárgyat szeretne venni.",
             "ro": "Descoperiți istoria vibrantă a ținutei regionale tradiționale în acest muzeu specializat și aduceți numerar dacă doriți să cumpărați un suvenir țesut local.",
-            "en": "Discover the vibrant history of traditional regional attire in this specialized museum, and bring cash if you wish to buy a locally woven souvenir."
+            "en": "Discover the vibrant history of traditional regional attire in this specialized museum, and bring cash if you wish to buy a locally woven souvenir.",
+            "fr": "Découvrez l’histoire vibrante des tenues régionales traditionnelles dans ce musée spécialisé et prévoyez des espèces si vous souhaitez acheter un souvenir tissé localement."
           }
         },
         {
@@ -113,7 +121,8 @@
             "de": "Château de Forbin (ruines)",
             "hu": "Forbin Kastély (romok)",
             "ro": "Château de Forbin (ruine)",
-            "en": "Château de Forbin (ruines)"
+            "en": "Château de Forbin (ruines)",
+            "fr": "Château de Forbin (ruines)"
           },
           "coords": [
             6.038057,
@@ -128,7 +137,8 @@
             "de": "Fotografieren Sie die bröckelnden Mauern dieser mittelalterlichen Ruinen, aber tragen Sie festes Schuhwerk, da der Weg dorthin recht steinig sein kann.",
             "hu": "Fényképezze le ezen a város szélén található középkori romok beszédes, omladozó falait, de viseljen masszív cipőt, mivel a felfelé vezető út meglehetősen sziklás.",
             "ro": "Fotografiați zidurile evocatoare ale acestor ruine medievale de la marginea orașului, dar purtați încălțăminte rezistentă deoarece poteca este destul de stâncoasă.",
-            "en": "Photograph the evocative crumbling walls of these medieval ruins at the edge of town, but wear sturdy shoes as the path leading up can be quite rocky."
+            "en": "Photograph the evocative crumbling walls of these medieval ruins at the edge of town, but wear sturdy shoes as the path leading up can be quite rocky.",
+            "fr": "Photographiez les murs évocateurs en ruines de ce site médiéval à la lisière de la ville, mais portez des chaussures solides car le chemin d’accès peut être très caillouteux."
           }
         }
       ],
@@ -136,7 +146,8 @@
         "de": "Der Morgen in Solliès-Pont offenbart eine charmante Mischung aus Erbe und Spiritualität, beginnend mit den ruhigen Kirchen, die diese provenzalische Stadt verankern.\nWenn der Mittag naht, erhellt die Sonne die alten Steinmauern und lädt zu einem langsameren Tempo ein, während Sie an Kapellen und jahrhundertealten Wundern vorbeischlendern.\nAm Nachmittag verlagert sich der Fokus auf die Kultur, mit Museen, die die traditionelle Kleidung und Literaturgeschichte der Var-Region präsentieren.\nWenn der Abend näher rückt, werfen die markanten Naturlandschaften und rauen Ruinen lange Schatten und bieten einen perfekten Abschluss Ihrer Reise.",
         "hu": "A Solliès-Pont-i reggel az örökség és a spiritualitás elbűvölő keverékét tárja elénk, a békés templomoktól kezdve, amelyek e provence-i város alapját adják.\nA dél közeledtével a nap bevilágítja a régi kőfalakat, lassabb tempóra csábítva, miközben kápolnák és évszázados építészeti csodák mellett sétál el.\nA délután folyamán a figyelem a gazdag helyi kultúrára irányul, a múzeumok a Var régió hagyományos öltözékeit és irodalmi történelmét mutatják be.\nAz este közeledtével a lenyűgöző természeti tájak és a város szélén lévő zord romok hosszú árnyékot vetnek, tökéletes befejezést nyújtva utazásának.",
         "ro": "Dimineața în Solliès-Pont dezvăluie un amestec fermecător de moștenire și spiritualitate, începând cu bisericile liniștite care ancorează acest oraș provensal.\nPe măsură ce se apropie amiaza, soarele luminează vechile ziduri de piatră, invitând la un ritm mai lent în timp ce vă plimbați pe lângă capele și minuni arhitecturale.\nDupă-amiaza mută accentul pe cultura locală bogată, cu muzee care prezintă îmbrăcămintea tradițională și istoria literară unică a regiunii Var.\nOdată cu lăsarea serii, peisajele naturale uimitoare și ruinele aspre de la marginea orașului aruncă umbre lungi, oferind o concluzie pașnică călătoriei dumneavoastră.",
-        "en": "Morning in Solliès-Pont reveals a charming blend of heritage and spirituality, starting with the tranquil churches and historic centers that anchor this Provençal town.\nAs midday approaches, the sun brightens the old stone walls, inviting a slower pace as you wander past chapels and centuries-old architectural marvels.\nThe afternoon shifts focus towards rich local culture, with museums showcasing the vibrant traditional clothing and literary history unique to the Var region.\nAs evening nears, the striking natural landscapes and rugged ruins at the town's edge cast long shadows, providing a perfect, peaceful conclusion to your journey."
+        "en": "Morning in Solliès-Pont reveals a charming blend of heritage and spirituality, starting with the tranquil churches and historic centers that anchor this Provençal town.\nAs midday approaches, the sun brightens the old stone walls, inviting a slower pace as you wander past chapels and centuries-old architectural marvels.\nThe afternoon shifts focus towards rich local culture, with museums showcasing the vibrant traditional clothing and literary history unique to the Var region.\nAs evening nears, the striking natural landscapes and rugged ruins at the town's edge cast long shadows, providing a perfect, peaceful conclusion to your journey.",
+        "fr": "Le matin à Solliès-Pont révèle un charmant mélange de patrimoine et de spiritualité, à commencer par les églises tranquilles et les centres historiques qui ancrent cette ville provençale.\nÀ l’approche de midi, le soleil illumine les vieux murs de pierre, invitant à ralentir le pas en déambulant devant chapelles et merveilles architecturales séculaires.\nL’après-midi met l’accent sur la riche culture locale, avec des musées présentant le vêtement traditionnel et l’histoire littéraire propres au département du Var.\nÀ l’approche du soir, les paysages naturels saisissants et les ruines escarpées en lisière de ville projettent de longues ombres, offrant une conclusion parfaite et paisible à votre parcours."
       },
       "variants": {
         "rainy": {
@@ -144,7 +155,8 @@
             "de": "Beginnen Sie Ihren regnerischen Morgen in der Kirche Saint-Jean-Baptiste. Gegen Mittag bietet das Schloss Forbin einen tollen trockenen Zufluchtsort. Verbringen Sie den nassen Nachmittag im Bekleidungsmuseum, um der Witterung zu entfliehen. Beenden Sie den Tag bei den Schlossruinen, achten Sie jedoch auf die rutschigen Steine.",
             "hu": "Kezdje az esős reggelt a gyönyörű Saint-Jean-Baptiste templomban. Délben a Forbin kastély nyújt kiváló fedett menedéket a záporok elől. A kora délutánt töltse a helyi viselettörténeti múzeumban, ahol garantáltan száraz marad. Késő délután sétáljon el a kastélyromokhoz, de vigyázzon a csúszós, nedves köveken.",
             "ro": "Începeți dimineața ploioasă la frumoasa biserică Saint-Jean-Baptiste. La prânz, castelul Forbin vă oferă un refugiu perfect împotriva ploii. Petreceți după-amiaza umedă explorând muzeul hainelor tradiționale la adăpost. Încheiați ziua lângă ruinele castelului, având grijă la pietrele alunecoase de pe poteci.",
-            "en": "Start your wet morning at the beautiful Saint-Jean-Baptiste church. By noon, the impressive Forbin Castle offers a great indoor refuge from the rain. Spend your rainy afternoon diving into local history at the clothing museum. Wrap up the day near the castle ruins, treading carefully on the wet paths before heading to a cozy spot."
+            "en": "Start your wet morning at the beautiful Saint-Jean-Baptiste church. By noon, the impressive Forbin Castle offers a great indoor refuge from the rain. Spend your rainy afternoon diving into local history at the clothing museum. Wrap up the day near the castle ruins, treading carefully on the wet paths before heading to a cozy spot.",
+            "fr": "Commencez votre matinée pluvieuse à la belle église Saint-Jean-Baptiste. À midi, l’imposant château de Forbin offre un excellent abri intérieur contre la pluie. Passez votre après-midi pluvieux à plonger dans l’histoire locale au musée du vêtement. Terminez la journée près des ruines du château, en marchant prudemment sur les sentiers mouillés avant de vous réfugier dans un endroit accueillant."
           },
           "stops": [
             {
@@ -152,13 +164,15 @@
                 "de": "Église Saint-Jean-Baptiste",
                 "hu": "Église Saint-Jean-Baptiste",
                 "ro": "Église Saint-Jean-Baptiste",
-                "en": "Église Saint-Jean-Baptiste"
+                "en": "Église Saint-Jean-Baptiste",
+                "fr": "Église Saint-Jean-Baptiste"
               },
               "tip_5lang": {
                 "de": "Bewundern Sie die Innenausstattung, während Sie Schutz vor dem Regen suchen.",
                 "hu": "Csodálja meg a belső teret, miközben menedéket talál a kinti eső elől.",
                 "ro": "Admirați interiorul superb în timp ce așteptați să se oprească ploaia.",
-                "en": "Admire the beautiful interior artworks while waiting for the rain to stop outside."
+                "en": "Admire the beautiful interior artworks while waiting for the rain to stop outside.",
+                "fr": "Admirez les belles œuvres d’art intérieures en attendant que la pluie cesse dehors."
               }
             },
             {
@@ -166,13 +180,15 @@
                 "de": "Forbin Castle",
                 "hu": "Forbin Kastély",
                 "ro": "Castelul Forbin",
-                "en": "Forbin Castle"
+                "en": "Forbin Castle",
+                "fr": "Château de Forbin"
               },
               "tip_5lang": {
                 "de": "Erkunden Sie die Innenräume des Schlosses; halten Sie einen Schirm für den Hof bereit.",
                 "hu": "Fedezze fel a kastély termeit, de tartsa kéznél az esernyőt a nyitott udvaron.",
                 "ro": "Explorați sălile interioare ale castelului și păstrați umbrela aproape pentru curte.",
-                "en": "Explore the rich history of the castle's interior; keep an umbrella handy for the courtyard."
+                "en": "Explore the rich history of the castle's interior; keep an umbrella handy for the courtyard.",
+                "fr": "Explorez la riche histoire de l’intérieur du château ; gardez un parapluie à portée de main pour la cour."
               }
             },
             {
@@ -180,13 +196,15 @@
                 "de": "Chapelle Saint-Roch",
                 "hu": "Saint-Roch Kápolna",
                 "ro": "Capela Saint-Roch",
-                "en": "Chapelle Saint-Roch"
+                "en": "Chapelle Saint-Roch",
+                "fr": "Chapelle Saint-Roch"
               },
               "tip_5lang": {
                 "de": "Eine kleine Kapelle, um sich aufzuwärmen und vor dem Regen zu schützen.",
                 "hu": "Kis kápolna, ahol egy rövid ideig megszáradhat az esős séta közben.",
                 "ro": "O capelă mică, perfectă pentru a vă usca rapid în timpul plimbării pe ploaie.",
-                "en": "A small but lovely chapel to quickly dry off before continuing your rainy walk."
+                "en": "A small but lovely chapel to quickly dry off before continuing your rainy walk.",
+                "fr": "Une petite chapelle charmante pour se sécher rapidement avant de poursuivre votre promenade sous la pluie."
               }
             },
             {
@@ -194,13 +212,15 @@
                 "de": "Musée du vêtement provençal",
                 "hu": "Musée du vêtement provençal",
                 "ro": "Musée du vêtement provençal",
-                "en": "Musée du vêtement provençal"
+                "en": "Musée du vêtement provençal",
+                "fr": "Musée du vêtement provençal"
               },
               "tip_5lang": {
                 "de": "Perfekte Innenaktivität an Regentagen; entdecken Sie die traditionellen regionalen Outfits.",
                 "hu": "Ideális fedett program esős napokra; fedezze fel kényelmesen a hagyományos öltözékeket.",
                 "ro": "Activitate de interior ideală; descoperiți confortabil hainele tradiționale regionale.",
-                "en": "Perfect indoor activity for a wet day; discover the traditional regional outfits in comfort."
+                "en": "Perfect indoor activity for a wet day; discover the traditional regional outfits in comfort.",
+                "fr": "Activité idéale en intérieur pour une journée humide ; découvrez les tenues traditionnelles régionales au sec et confortablement."
               }
             },
             {
@@ -208,13 +228,15 @@
                 "de": "Château de Forbin (ruines)",
                 "hu": "Forbin Kastély (romok)",
                 "ro": "Château de Forbin (ruine)",
-                "en": "Château de Forbin (ruines)"
+                "en": "Château de Forbin (ruines)",
+                "fr": "Château de Forbin (ruines)"
               },
               "tip_5lang": {
                 "de": "Die Ruinen wirken im Regen mystisch, aber seien Sie vorsichtig auf den rutschigen Steinen.",
                 "hu": "A romok misztikusak az esőben, de lépjen nagyon óvatosan a csúszós, vizes köveken.",
                 "ro": "Ruinele sunt mistice în ploaie, dar pășiți cu mare atenție pe pietrele alunecoase.",
-                "en": "The ruins look mystical in the rain, but tread very carefully on the slippery, wet stones."
+                "en": "The ruins look mystical in the rain, but tread very carefully on the slippery, wet stones.",
+                "fr": "Les ruines paraissent mystiques sous la pluie, mais avancez très prudemment sur les pierres glissantes et mouillées."
               }
             }
           ]
@@ -224,7 +246,8 @@
             "de": "Genießen Sie den klaren Wintermorgen in der Kirche Saint-Jean-Baptiste. Mittags bieten die dicken Mauern des Schlosses Forbin Schutz vor der Kälte. Verbringen Sie den Nachmittag im warmen und faszinierenden Bekleidungsmuseum. Gegen 17:00 Uhr taucht der frühe Sonnenuntergang die Schlossruinen in ein dramatisches Licht.",
             "hu": "Élvezze a fagyos téli reggelt a Saint-Jean-Baptiste templom csodás épületében. Délben a Forbin kastély vastag falai védenek a hideg széltől. A délutánt töltse a fűtött és lenyűgöző helyi viselettörténeti múzeumban. A 17:00 óra körüli korai naplemente drámai fényekkel világítja meg a régi kastélyromokat.",
             "ro": "Bucurați-vă de dimineața geroasă la biserica Saint-Jean-Baptiste. La prânz, zidurile groase ale castelului Forbin vă protejează de vântul rece. Petreceți după-amiaza la căldură, în fascinantul muzeu al hainelor. În jurul orei 17:00, apusul timpuriu oferă o lumină dramatică peste ruinele vechiului castel.",
-            "en": "Enjoy a crisp winter morning admiring the architecture of Saint-Jean-Baptiste. At noon, the sturdy walls of Forbin Castle provide a break from the cold wind. Spend your afternoon staying warm inside the fascinating clothing museum. By 17:00, the early sunset casts a dramatic winter light over the castle ruins."
+            "en": "Enjoy a crisp winter morning admiring the architecture of Saint-Jean-Baptiste. At noon, the sturdy walls of Forbin Castle provide a break from the cold wind. Spend your afternoon staying warm inside the fascinating clothing museum. By 17:00, the early sunset casts a dramatic winter light over the castle ruins.",
+            "fr": "Profitez d’une fraîche matinée d’hiver en admirant l’architecture de Saint-Jean-Baptiste. À midi, les murs solides du château de Forbin offrent une pause contre le vent glacial. Passez votre après-midi au chaud dans le fascinant musée du vêtement. À 17:00, le coucher de soleil précoce projette une lumière hivernale dramatique sur les ruines du château."
           },
           "stops": [
             {
@@ -232,13 +255,15 @@
                 "de": "Église Saint-Jean-Baptiste",
                 "hu": "Église Saint-Jean-Baptiste",
                 "ro": "Église Saint-Jean-Baptiste",
-                "en": "Église Saint-Jean-Baptiste"
+                "en": "Église Saint-Jean-Baptiste",
+                "fr": "Église Saint-Jean-Baptiste"
               },
               "tip_5lang": {
                 "de": "Das Morgenlicht macht die Kirche magisch; ziehen Sie sich warm an, es ist kühl.",
                 "hu": "A reggeli fény varázslatossá teszi a templomot; öltözzön melegen, a kő hideg.",
                 "ro": "Lumina dimineții face biserica magică; îmbrăcați-vă gros, interiorul din piatră e rece.",
-                "en": "The quiet morning light makes the church magical; dress warmly as the stone interior is cold."
+                "en": "The quiet morning light makes the church magical; dress warmly as the stone interior is cold.",
+                "fr": "La lumière douce du matin rend l’église magique ; habillez-vous chaudement car l’intérieur en pierre est froid."
               }
             },
             {
@@ -246,13 +271,15 @@
                 "de": "Forbin Castle",
                 "hu": "Forbin Kastély",
                 "ro": "Castelul Forbin",
-                "en": "Forbin Castle"
+                "en": "Forbin Castle",
+                "fr": "Château de Forbin"
               },
               "tip_5lang": {
                 "de": "Entdecken Sie die historischen Säle, die einen tollen Schutz vor dem beißenden Wind bieten.",
                 "hu": "Fedezze fel a történelmi termeket, amelyek kiváló menedéket nyújtanak a csípős téli szél elől.",
                 "ro": "Descoperiți sălile istorice care oferă o evadare excelentă din calea vântului tăios de iarnă.",
-                "en": "Discover the historical halls, which offer a great escape from the biting winter wind."
+                "en": "Discover the historical halls, which offer a great escape from the biting winter wind.",
+                "fr": "Découvrez les salles historiques, qui offrent un excellent abri contre le vent hivernal mordant."
               }
             },
             {
@@ -260,13 +287,15 @@
                 "de": "Chapelle Saint-Roch",
                 "hu": "Saint-Roch Kápolna",
                 "ro": "Capela Saint-Roch",
-                "en": "Chapelle Saint-Roch"
+                "en": "Chapelle Saint-Roch",
+                "fr": "Chapelle Saint-Roch"
               },
               "tip_5lang": {
                 "de": "Ein friedlicher Stopp, um während des Winterspaziergangs die Hände aufzuwärmen.",
                 "hu": "Békés megálló, ahol kifújhatja magát és felmelegítheti a kezét a fagyos séta során.",
                 "ro": "O oprire liniștită pentru a vă trage sufletul și a vă încălzi mâinile pe traseul rece.",
-                "en": "A peaceful stop to catch your breath and warm your hands during a brisk winter walk."
+                "en": "A peaceful stop to catch your breath and warm your hands during a brisk winter walk.",
+                "fr": "Un arrêt paisible pour reprendre votre souffle et réchauffer vos mains lors d’une balade hivernale vivifiante."
               }
             },
             {
@@ -274,13 +303,15 @@
                 "de": "Musée du vêtement provençal",
                 "hu": "Musée du vêtement provençal",
                 "ro": "Musée du vêtement provençal",
-                "en": "Musée du vêtement provençal"
+                "en": "Musée du vêtement provençal",
+                "fr": "Musée du vêtement provençal"
               },
               "tip_5lang": {
                 "de": "Verbringen Sie Zeit in diesem beheizten Museum und lernen Sie die Winterkleidung kennen.",
                 "hu": "Töltsön sok időt a fűtött múzeumban, ismerje meg a vastag hagyományos téli ruhákat.",
                 "ro": "Petreceți mult timp în acest muzeu încălzit pentru a vedea hainele groase tradiționale.",
-                "en": "Spend plenty of time inside this heated museum learning about thick traditional winter wear."
+                "en": "Spend plenty of time inside this heated museum learning about thick traditional winter wear.",
+                "fr": "Passez du temps à l’intérieur de ce musée chauffé pour en apprendre davantage sur les vêtements traditionnels épais d’hiver."
               }
             },
             {
@@ -288,13 +319,15 @@
                 "de": "Château de Forbin (ruines)",
                 "hu": "Forbin Kastély (romok)",
                 "ro": "Château de Forbin (ruine)",
-                "en": "Château de Forbin (ruines)"
+                "en": "Château de Forbin (ruines)",
+                "fr": "Château de Forbin (ruines)"
               },
               "tip_5lang": {
                 "de": "Besuchen Sie die Ruinen vor Sonnenuntergang um 17:00 Uhr; tragen Sie warmes Schuhwerk.",
                 "hu": "Látogassa meg a 17:00 órás naplemente előtt; viseljen meleg bakancsot a hideg talajon.",
                 "ro": "Vizitați înainte de apusul de la ora 17:00; purtați bocanci pentru terenul rece și denivelat.",
-                "en": "Visit before the early 17:00 sunset; wear good boots for the cold and uneven ground."
+                "en": "Visit before the early 17:00 sunset; wear good boots for the cold and uneven ground.",
+                "fr": "Visitez avant le coucher du soleil précoce à 17:00 ; portez de bonnes bottes pour le froid et les sols irréguliers."
               }
             }
           ]
@@ -314,7 +347,8 @@
             "de": "Saint Christine Chapel",
             "hu": "Szent Krisztina Kápolna",
             "ro": "Capela Saint Christine",
-            "en": "Saint Christine Chapel"
+            "en": "Saint Christine Chapel",
+            "fr": "Chapelle Sainte-Christine"
           },
           "coords": [
             6.043608,
@@ -329,7 +363,8 @@
             "de": "Beginnen Sie Ihre Tour an dieser ruhigen Kapelle mit weitem Blick über das Tal und kommen Sie früh, um das sanfte Morgenlicht auf der Steinfassade zu erleben.",
             "hu": "Kezdje túráját ennél a nyugodt, magasan fekvő kápolnánál, amely pazar kilátást nyújt a völgyre, és érkezzen korán, hogy elcsípje a kőhomlokzatot megvilágító reggeli fényt.",
             "ro": "Începeți turul la această capelă liniștită, înaltă, care oferă vederi ample asupra văii, ajungând devreme pentru a prinde lumina blândă a dimineții pe fațadă.",
-            "en": "Begin your tour at this serene, elevated chapel offering sweeping valley views, arriving early to catch the gentle morning light illuminating its stone facade."
+            "en": "Begin your tour at this serene, elevated chapel offering sweeping valley views, arriving early to catch the gentle morning light illuminating its stone facade.",
+            "fr": "Commencez votre visite par cette chapelle sereine et élevée offrant de larges vues sur la vallée, arrivez tôt pour profiter de la douce lumière du matin qui illumine sa façade en pierre."
           }
         },
         {
@@ -337,7 +372,8 @@
             "de": "Forbin Castle",
             "hu": "Forbin Kastély",
             "ro": "Castelul Forbin",
-            "en": "Forbin Castle"
+            "en": "Forbin Castle",
+            "fr": "Château de Forbin"
           },
           "coords": [
             6.0423,
@@ -352,7 +388,8 @@
             "de": "Erkunden Sie die großartige Renaissance-Architektur dieses historischen Schlosses und ruhen Sie sich auf den schattigen Bänken im gepflegten Innenhof aus.",
             "hu": "Fedezze fel e történelmi kastély pompás reneszánsz építészetét, és pihenjen meg egy pillanatra az árnyékos padokon a gyönyörűen gondozott udvaron.",
             "ro": "Explorați arhitectura renascentistă grandioasă a acestui castel istoric și luați un moment pentru a vă odihni pe băncile umbrite din curtea sa frumos îngrijită.",
-            "en": "Explore the grand Renaissance architecture of this historic castle, and take a moment to rest on the shaded benches in its beautifully manicured courtyard."
+            "en": "Explore the grand Renaissance architecture of this historic castle, and take a moment to rest on the shaded benches in its beautifully manicured courtyard.",
+            "fr": "Explorez la grande architecture de la Renaissance de ce château historique et accordez-vous un moment pour vous reposer sur les bancs ombragés de sa cour magnifiquement entretenue."
           }
         },
         {
@@ -360,7 +397,8 @@
             "de": "Église Saint-Jean-Baptiste",
             "hu": "Église Saint-Jean-Baptiste",
             "ro": "Église Saint-Jean-Baptiste",
-            "en": "Église Saint-Jean-Baptiste"
+            "en": "Église Saint-Jean-Baptiste",
+            "fr": "Église Saint-Jean-Baptiste"
           },
           "coords": [
             6.040312,
@@ -375,7 +413,8 @@
             "de": "Bewundern Sie die wunderschönen Buntglasfenster dieser zentralen Kirche und achten Sie auf das schwarze Brett für die Termine lokaler Chorauftritte.",
             "hu": "Csodálja meg ennek a központi templomnak a gyönyörű ólomüveg ablakait, és ne felejtse el megnézni a hirdetőtáblán a helyi kórusok fellépési idejét.",
             "ro": "Admirați vitraliile frumoase ale acestei biserici centrale și nu uitați să verificați panoul informativ pentru programul spectacolelor corale locale.",
-            "en": "Admire the beautiful stained glass windows of this central church, and remember to check the notice board for local choir performance schedules."
+            "en": "Admire the beautiful stained glass windows of this central church, and remember to check the notice board for local choir performance schedules.",
+            "fr": "Admirez les beaux vitraux de cette église centrale et n’oubliez pas de consulter le panneau d’affichage pour les horaires des chorales locales."
           }
         },
         {
@@ -383,7 +422,8 @@
             "de": "Musée Jean Aicard",
             "hu": "Musée Jean Aicard",
             "ro": "Muzeul Jean Aicard",
-            "en": "Musée Jean Aicard"
+            "en": "Musée Jean Aicard",
+            "fr": "Musée Jean Aicard"
           },
           "coords": [
             6.039024,
@@ -398,7 +438,8 @@
             "de": "Tauchen Sie im ehemaligen Wohnhaus des Autors in das literarische Erbe der Provence ein und nutzen Sie den kostenlosen Audioguide für das erhaltene Arbeitszimmer.",
             "hu": "Merüljön el Provence irodalmi örökségében az író egykori otthonában, és kérje az ingyenes audioguide-ot, hogy teljes mértékben értékelni tudja a megőrzött dolgozószobát.",
             "ro": "Cufundați-vă în moștenirea literară a regiunii Provence la fosta casă a autorului și luați ghidul audio gratuit pentru a aprecia pe deplin biroul conservat.",
-            "en": "Immerse yourself in the literary heritage of Provence at this author's former home, and pick up the free audio guide to fully appreciate the preserved study."
+            "en": "Immerse yourself in the literary heritage of Provence at this author's former home, and pick up the free audio guide to fully appreciate the preserved study.",
+            "fr": "Imprégnez-vous du patrimoine littéraire de Provence dans l’ancienne demeure de cet auteur et prenez l’audioguide gratuit pour mieux apprécier le bureau préservé."
           }
         },
         {
@@ -406,7 +447,8 @@
             "de": "Château de Forbin (ruines)",
             "hu": "Forbin Kastély (romok)",
             "ro": "Château de Forbin (ruine)",
-            "en": "Château de Forbin (ruines)"
+            "en": "Château de Forbin (ruines)",
+            "fr": "Château de Forbin (ruines)"
           },
           "coords": [
             6.038057,
@@ -421,7 +463,8 @@
             "de": "Fotografieren Sie die bröckelnden Mauern dieser mittelalterlichen Ruinen, aber tragen Sie festes Schuhwerk, da der Weg dorthin recht steinig sein kann.",
             "hu": "Fényképezze le ezen a város szélén található középkori romok beszédes, omladozó falait, de viseljen masszív cipőt, mivel a felfelé vezető út meglehetősen sziklás.",
             "ro": "Fotografiați zidurile evocatoare ale acestor ruine medievale de la marginea orașului, dar purtați încălțăminte rezistentă deoarece poteca este destul de stâncoasă.",
-            "en": "Photograph the evocative crumbling walls of these medieval ruins at the edge of town, but wear sturdy shoes as the path leading up can be quite rocky."
+            "en": "Photograph the evocative crumbling walls of these medieval ruins at the edge of town, but wear sturdy shoes as the path leading up can be quite rocky.",
+            "fr": "Photographiez les murs évocateurs en ruines de ce site médiéval à la lisière de la ville, mais portez des chaussures solides car le chemin d’accès peut être très caillouteux."
           }
         },
         {
@@ -429,7 +472,8 @@
             "de": "Bau Rouge",
             "hu": "Bau Rouge",
             "ro": "Bau Rouge",
-            "en": "Bau Rouge"
+            "en": "Bau Rouge",
+            "fr": "Bau Rouge"
           },
           "coords": [
             6.012021,
@@ -444,7 +488,8 @@
             "de": "Genießen Sie einen Spaziergang am späten Nachmittag durch dieses auffällige Naturgebiet aus rotem Gestein und nehmen Sie zusätzliches Wasser sowie einen Hut mit.",
             "hu": "Élvezze a késő délutáni sétát ezen a lenyűgöző, vörös sziklás természeti területen, és vigyen magával extra vizet, mivel az árnyék meglepően ritka lehet.",
             "ro": "Bucurați-vă de o plimbare după-amiaza târziu prin această zonă naturală uimitoare cu roci roșii, purtând apă suplimentară deoarece umbra poate fi surprinzător de rară.",
-            "en": "Enjoy a late afternoon walk through this striking red-rock natural area, carrying extra water and a wide-brimmed hat as shade can be surprisingly sparse."
+            "en": "Enjoy a late afternoon walk through this striking red-rock natural area, carrying extra water and a wide-brimmed hat as shade can be surprisingly sparse.",
+            "fr": "Profitez d’une promenade en fin d’après-midi à travers ce remarquable site de roches rouges ; emportez de l’eau supplémentaire et un chapeau à large bord car l’ombre peut être surprenamment rare."
           }
         }
       ],
@@ -452,7 +497,8 @@
         "de": "Der Morgen in Solliès-Pont offenbart eine charmante Mischung aus Erbe und Spiritualität, beginnend mit den ruhigen Kirchen, die diese provenzalische Stadt verankern.\nWenn der Mittag naht, erhellt die Sonne die alten Steinmauern und lädt zu einem langsameren Tempo ein, während Sie an Kapellen und jahrhundertealten Wundern vorbeischlendern.\nAm Nachmittag verlagert sich der Fokus auf die Kultur, mit Museen, die die traditionelle Kleidung und Literaturgeschichte der Var-Region präsentieren.\nWenn der Abend näher rückt, werfen die markanten Naturlandschaften und rauen Ruinen lange Schatten und bieten einen perfekten Abschluss Ihrer Reise.",
         "hu": "A Solliès-Pont-i reggel az örökség és a spiritualitás elbűvölő keverékét tárja elénk, a békés templomoktól kezdve, amelyek e provence-i város alapját adják.\nA dél közeledtével a nap bevilágítja a régi kőfalakat, lassabb tempóra csábítva, miközben kápolnák és évszázados építészeti csodák mellett sétál el.\nA délután folyamán a figyelem a gazdag helyi kultúrára irányul, a múzeumok a Var régió hagyományos öltözékeit és irodalmi történelmét mutatják be.\nAz este közeledtével a lenyűgöző természeti tájak és a város szélén lévő zord romok hosszú árnyékot vetnek, tökéletes befejezést nyújtva utazásának.",
         "ro": "Dimineața în Solliès-Pont dezvăluie un amestec fermecător de moștenire și spiritualitate, începând cu bisericile liniștite care ancorează acest oraș provensal.\nPe măsură ce se apropie amiaza, soarele luminează vechile ziduri de piatră, invitând la un ritm mai lent în timp ce vă plimbați pe lângă capele și minuni arhitecturale.\nDupă-amiaza mută accentul pe cultura locală bogată, cu muzee care prezintă îmbrăcămintea tradițională și istoria literară unică a regiunii Var.\nOdată cu lăsarea serii, peisajele naturale uimitoare și ruinele aspre de la marginea orașului aruncă umbre lungi, oferind o concluzie pașnică călătoriei dumneavoastră.",
-        "en": "Morning in Solliès-Pont reveals a charming blend of heritage and spirituality, starting with the tranquil churches and historic centers that anchor this Provençal town.\nAs midday approaches, the sun brightens the old stone walls, inviting a slower pace as you wander past chapels and centuries-old architectural marvels.\nThe afternoon shifts focus towards rich local culture, with museums showcasing the vibrant traditional clothing and literary history unique to the Var region.\nAs evening nears, the striking natural landscapes and rugged ruins at the town's edge cast long shadows, providing a perfect, peaceful conclusion to your journey."
+        "en": "Morning in Solliès-Pont reveals a charming blend of heritage and spirituality, starting with the tranquil churches and historic centers that anchor this Provençal town.\nAs midday approaches, the sun brightens the old stone walls, inviting a slower pace as you wander past chapels and centuries-old architectural marvels.\nThe afternoon shifts focus towards rich local culture, with museums showcasing the vibrant traditional clothing and literary history unique to the Var region.\nAs evening nears, the striking natural landscapes and rugged ruins at the town's edge cast long shadows, providing a perfect, peaceful conclusion to your journey.",
+        "fr": "Le matin à Solliès-Pont révèle un charmant mélange de patrimoine et de spiritualité, à commencer par les églises tranquilles et les centres historiques qui ancrent cette ville provençale.\nÀ l’approche de midi, le soleil illumine les vieux murs de pierre, invitant à ralentir le pas en déambulant devant chapelles et merveilles architecturales séculaires.\nL’après-midi met l’accent sur la riche culture locale, avec des musées présentant le vêtement traditionnel et l’histoire littéraire propres au département du Var.\nÀ l’approche du soir, les paysages naturels saisissants et les ruines escarpées en lisière de ville projettent de longues ombres, offrant une conclusion parfaite et paisible à votre parcours."
       },
       "variants": {
         "rainy": {
@@ -460,7 +506,8 @@
             "de": "Ziehen Sie wasserfeste Kleidung für die nasse Fahrt zur Kapelle an. Das Schloss Forbin bietet am späten Vormittag trockenen Schutz. Verbringen Sie den Mittag geschützt in der Kirche und im Museum. Die nachmittägliche Fahrt zum Bau Rouge ist rutschig, bremsen Sie also im Regen vorsichtig.",
             "hu": "Vegyen fel vízálló ruhát a reggeli esős biciklizéshez a kápolnához. Késő délelőtt a Forbin kastély száraz menedéket nyújt. A delet töltse a védett templomban és a múzeumban. A délutáni út a Bau Rouge felé csúszós lesz, óvatosan fékezzen a vizes úton.",
             "ro": "Echipați-vă cu pelerine pentru plimbarea matinală ploioasă spre capelă. Castelul Forbin oferă un adăpost uscat. Petreceți prânzul explorând biserica și muzeul Jean Aicard, feriți de intemperii. Drumul de după-amiază spre Bau Rouge va fi alunecos, deci frânați ușor.",
-            "en": "Gear up with waterproofs for a wet morning ride to Saint Christine Chapel. The Forbin Castle offers dry relief by late morning. Spend midday exploring the sheltered church and the fascinating Jean Aicard museum. Your afternoon ride towards Bau Rouge will have slippery paths, so brake gently."
+            "en": "Gear up with waterproofs for a wet morning ride to Saint Christine Chapel. The Forbin Castle offers dry relief by late morning. Spend midday exploring the sheltered church and the fascinating Jean Aicard museum. Your afternoon ride towards Bau Rouge will have slippery paths, so brake gently.",
+            "fr": "Équipez-vous d’imperméables pour une matinée humide à vélo vers la chapelle Sainte-Christine. Le château de Forbin offre un abri sec en fin de matinée. Passez le midi à explorer l’église abritée et le fascinant musée Jean Aicard. Votre trajet de l’après-midi vers Bau Rouge comportera des chemins glissants, freinez en douceur."
           },
           "stops": [
             {
@@ -468,13 +515,15 @@
                 "de": "Saint Christine Chapel",
                 "hu": "Szent Krisztina Kápolna",
                 "ro": "Capela Saint Christine",
-                "en": "Saint Christine Chapel"
+                "en": "Saint Christine Chapel",
+                "fr": "Chapelle Sainte-Christine"
               },
               "tip_5lang": {
                 "de": "Ein ruhiger Halt, um den Sattel zu trocknen; der Weg kann schlammig sein.",
                 "hu": "Békés megálló, ahol letörölheti a vizes nyerget; a megközelítés kissé saras lehet.",
                 "ro": "Oprire liniștită pentru a șterge șaua; drumul poate fi noroios pe ploaie.",
-                "en": "A peaceful stop to dry your bike saddle; the approach can be muddy in the rain."
+                "en": "A peaceful stop to dry your bike saddle; the approach can be muddy in the rain.",
+                "fr": "Un arrêt paisible pour faire sécher votre selle de vélo ; l’approche peut être boueuse sous la pluie."
               }
             },
             {
@@ -482,13 +531,15 @@
                 "de": "Forbin Castle",
                 "hu": "Forbin Kastély",
                 "ro": "Castelul Forbin",
-                "en": "Forbin Castle"
+                "en": "Forbin Castle",
+                "fr": "Château de Forbin"
               },
               "tip_5lang": {
                 "de": "Schließen Sie das Rad unter Bäumen an und genießen Sie die trockenen Schlossräume.",
                 "hu": "Zárja le a biciklit a fák alatt, és élvezze a kastély száraz, történelmi termeit.",
                 "ro": "Legați bicicleta sub copaci și bucurați-vă de interioarele uscate și istorice.",
-                "en": "Lock your bike under the trees and enjoy the dry, historical interiors of the castle."
+                "en": "Lock your bike under the trees and enjoy the dry, historical interiors of the castle.",
+                "fr": "Attachez votre vélo sous les arbres et profitez des intérieurs secs et historiques du château."
               }
             },
             {
@@ -496,13 +547,15 @@
                 "de": "Église Saint-Jean-Baptiste",
                 "hu": "Église Saint-Jean-Baptiste",
                 "ro": "Église Saint-Jean-Baptiste",
-                "en": "Église Saint-Jean-Baptiste"
+                "en": "Église Saint-Jean-Baptiste",
+                "fr": "Église Saint-Jean-Baptiste"
               },
               "tip_5lang": {
                 "de": "Treten Sie ein, um den Schauern zu entkommen und die Architektur zu bewundern.",
                 "hu": "Lépjen be, hogy elmeneküljön a záporok elől, és csodálja meg az építészetet.",
                 "ro": "Intrați pentru a scăpa de ploaie și pentru a admira arhitectura în timp ce vă încălziți.",
-                "en": "Step inside to escape the showers and marvel at the architecture while you warm up."
+                "en": "Step inside to escape the showers and marvel at the architecture while you warm up.",
+                "fr": "Entrez pour échapper aux averses et admirez l’architecture tout en vous réchauffant."
               }
             },
             {
@@ -510,13 +563,15 @@
                 "de": "Musée Jean Aicard",
                 "hu": "Musée Jean Aicard",
                 "ro": "Muzeul Jean Aicard",
-                "en": "Musée Jean Aicard"
+                "en": "Musée Jean Aicard",
+                "fr": "Musée Jean Aicard"
               },
               "tip_5lang": {
                 "de": "Ein toller Zufluchtsort während eines Regengusses mit faszinierenden Einblicken.",
                 "hu": "Kiváló fedett menedék egy felhőszakadás idején, lenyűgöző kulturális betekintéssel.",
                 "ro": "Un sanctuar interior excelent în timpul ploii, oferind perspective culturale fascinante.",
-                "en": "A great indoor sanctuary during a downpour, offering fascinating cultural insights."
+                "en": "A great indoor sanctuary during a downpour, offering fascinating cultural insights.",
+                "fr": "Un excellent refuge intérieur pendant une averse, offrant des aperçus culturels fascinants."
               }
             },
             {
@@ -524,13 +579,15 @@
                 "de": "Château de Forbin (ruines)",
                 "hu": "Forbin Kastély (romok)",
                 "ro": "Château de Forbin (ruine)",
-                "en": "Château de Forbin (ruines)"
+                "en": "Château de Forbin (ruines)",
+                "fr": "Château de Forbin (ruines)"
               },
               "tip_5lang": {
                 "de": "Achten Sie auf rutschigen Schlamm bei den Ruinen; bleiben Sie auf befestigten Wegen.",
                 "hu": "Vigyázzon a csúszós sárra a romok körül; tartsa a biciklit a burkolt részeken.",
                 "ro": "Atenție la noroiul alunecos din jurul ruinelor; mențineți bicicleta pe pavaj.",
-                "en": "Watch out for slippery mud around the ruins; keep your bike on the paved sections."
+                "en": "Watch out for slippery mud around the ruins; keep your bike on the paved sections.",
+                "fr": "Faites attention à la boue glissante autour des ruines ; gardez votre vélo sur les sections pavées."
               }
             },
             {
@@ -538,13 +595,15 @@
                 "de": "Bau Rouge",
                 "hu": "Bau Rouge",
                 "ro": "Bau Rouge",
-                "en": "Bau Rouge"
+                "en": "Bau Rouge",
+                "fr": "Bau Rouge"
               },
               "tip_5lang": {
                 "de": "Die nassen roten Felsen sind atemberaubend, aber der Weg ist rutschig – steigen Sie ab.",
                 "hu": "A vizes vörös sziklák lenyűgözőek, de az ösvény nagyon csúszik – ha kell, szálljon le.",
                 "ro": "Stâncile roșii ude sunt uimitoare, dar poteca e alunecoasă; coborâți dacă e nevoie.",
-                "en": "The wet red rocks are stunning, but the path is very slippery—dismount if necessary."
+                "en": "The wet red rocks are stunning, but the path is very slippery—dismount if necessary.",
+                "fr": "Les roches rouges mouillées sont magnifiques, mais le sentier est très glissant — descendez de vélo si nécessaire."
               }
             }
           ]
@@ -554,7 +613,8 @@
             "de": "Ziehen Sie sich in Schichten an für die kühle morgendliche Fahrt zur Kapelle. Wärmen Sie sich mittags im Schloss und in der Kirche auf. Das Museum ist am frühen Nachmittag ein gemütlicher Rückzugsort. Erreichen Sie Bau Rouge vor dem frühen Sonnenuntergang gegen 17:00 Uhr.",
             "hu": "Öltözzön rétegesen a reggeli fagyos tekeréshez a kápolnához. Délben melegedjen fel a történelmi kastély falai között és a templomban. A múzeum fűtött és kényelmes pihenőt kínál. Érjen a Bau Rouge-hoz a korai, 17:00 órás sötétedés előtt, hogy elkerülje a fagyos éjszakai utakat.",
             "ro": "Îmbrăcați-vă în straturi pentru o cursă rece de dimineață. La prânz, încălziți-vă în castel și în biserică. Muzeul oferă un refugiu confortabil și încălzit după-amiaza. Ajungeți la Bau Rouge înainte de apusul de la ora 17:00 pentru a evita drumurile înghețate și întunecate.",
-            "en": "Bundle up in layers for a brisk morning ride to the quiet chapel. By noon, warm up inside the historic castle walls and the local church. The museum provides a cozy, heated retreat early in the afternoon. Make sure to reach Bau Rouge and return before the early 17:00 sunset."
+            "en": "Bundle up in layers for a brisk morning ride to the quiet chapel. By noon, warm up inside the historic castle walls and the local church. The museum provides a cozy, heated retreat early in the afternoon. Make sure to reach Bau Rouge and return before the early 17:00 sunset.",
+            "fr": "Couvrez-vous en couches pour une matinée fraîche à vélo vers la chapelle tranquille. À midi, réchauffez-vous à l’intérieur des murs historiques du château et de l’église locale. Le musée offre un retrait chaleureux et chauffé en début d’après-midi. Veillez à atteindre Bau Rouge et revenir avant le coucher du soleil précoce à 17:00."
           },
           "stops": [
             {
@@ -562,13 +622,15 @@
                 "de": "Saint Christine Chapel",
                 "hu": "Szent Krisztina Kápolna",
                 "ro": "Capela Saint Christine",
-                "en": "Saint Christine Chapel"
+                "en": "Saint Christine Chapel",
+                "fr": "Chapelle Sainte-Christine"
               },
               "tip_5lang": {
                 "de": "Die kühle Morgenluft erfordert Handschuhe; die Kapelle bietet eine windstille Pause.",
                 "hu": "A fagyos reggeli levegő kesztyűt kíván; a kis kápolna szélvédett pihenőt nyújt.",
                 "ro": "Aerul rece necesită mănuși; mica capelă oferă o pauză rapidă, ferită de vânt.",
-                "en": "The chilly morning air requires gloves; the small chapel offers a quick, wind-free break."
+                "en": "The chilly morning air requires gloves; the small chapel offers a quick, wind-free break.",
+                "fr": "L’air matinal frais exige des gants ; la petite chapelle offre une courte halte à l’abri du vent."
               }
             },
             {
@@ -576,13 +638,15 @@
                 "de": "Forbin Castle",
                 "hu": "Forbin Kastély",
                 "ro": "Castelul Forbin",
-                "en": "Forbin Castle"
+                "en": "Forbin Castle",
+                "fr": "Château de Forbin"
               },
               "tip_5lang": {
                 "de": "Ein majestätischer Anblick im Winter; wärmen Sie nach der Fahrt Ihre Hände in den Sälen.",
                 "hu": "Fenséges téli látvány; tekerés után melegítse fel a kezét a belső termekben.",
                 "ro": "O priveliște majestuoasă de iarnă; încălziți-vă mâinile în interior după plimbare.",
-                "en": "A majestic winter sight; warm your hands in the indoor halls after your crisp ride."
+                "en": "A majestic winter sight; warm your hands in the indoor halls after your crisp ride.",
+                "fr": "Une vue majestueuse en hiver ; réchauffez vos mains dans les salles intérieures après votre promenade fraîche."
               }
             },
             {
@@ -590,13 +654,15 @@
                 "de": "Église Saint-Jean-Baptiste",
                 "hu": "Église Saint-Jean-Baptiste",
                 "ro": "Église Saint-Jean-Baptiste",
-                "en": "Église Saint-Jean-Baptiste"
+                "en": "Église Saint-Jean-Baptiste",
+                "fr": "Église Saint-Jean-Baptiste"
               },
               "tip_5lang": {
                 "de": "Die Winteratmosphäre ist schön, auch wenn die Steinmauern recht kalt bleiben.",
                 "hu": "A csendes téli hangulat csodás, bár a kőfalak között továbbra is elég hideg van.",
                 "ro": "Atmosfera de iarnă este minunată, deși pereții din piatră rămân destul de reci.",
-                "en": "The quiet winter atmosphere here is lovely, though the stone walls remain quite cold."
+                "en": "The quiet winter atmosphere here is lovely, though the stone walls remain quite cold.",
+                "fr": "L’atmosphère hivernale tranquille y est charmante, bien que les murs de pierre restent assez froids."
               }
             },
             {
@@ -604,13 +670,15 @@
                 "de": "Musée Jean Aicard",
                 "hu": "Musée Jean Aicard",
                 "ro": "Muzeul Jean Aicard",
-                "en": "Musée Jean Aicard"
+                "en": "Musée Jean Aicard",
+                "fr": "Musée Jean Aicard"
               },
               "tip_5lang": {
                 "de": "Perfekter Nachmittagsstopp für Kunst und etwas Wärme, bevor Sie weiterfahren.",
                 "hu": "Tökéletes délutáni megálló, hogy művészetet és egy kis fűtést is magába szívjon.",
                 "ro": "Oprire perfectă pentru artă și puțină căldură binevenită înainte de a continua.",
-                "en": "Perfect afternoon stop to soak in some art and much-needed heating before riding on."
+                "en": "Perfect afternoon stop to soak in some art and much-needed heating before riding on.",
+                "fr": "Un arrêt parfait l’après-midi pour s’imprégner d’art et bénéficier d’un chauffage bienvenu avant de reprendre la route."
               }
             },
             {
@@ -618,13 +686,15 @@
                 "de": "Château de Forbin (ruines)",
                 "hu": "Forbin Kastély (romok)",
                 "ro": "Château de Forbin (ruine)",
-                "en": "Château de Forbin (ruines)"
+                "en": "Château de Forbin (ruines)",
+                "fr": "Château de Forbin (ruines)"
               },
               "tip_5lang": {
                 "de": "Die Wintersonne beleuchtet die Ruinen; achten Sie auf Eisflächen auf dem Weg.",
                 "hu": "A téli nap gyönyörűen megvilágítja a romokat; ügyeljen az ösvény jeges foltjaira.",
                 "ro": "Soarele de iarnă evidențiază ruinele; atenție la porțiunile de gheață de pe traseu.",
-                "en": "The winter sun highlights the ruins beautifully; beware of ice patches on the path."
+                "en": "The winter sun highlights the ruins beautifully; beware of ice patches on the path.",
+                "fr": "Le soleil d’hiver met les ruines en valeur ; méfiez-vous des plaques de verglas sur le chemin."
               }
             },
             {
@@ -632,13 +702,15 @@
                 "de": "Bau Rouge",
                 "hu": "Bau Rouge",
                 "ro": "Bau Rouge",
-                "en": "Bau Rouge"
+                "en": "Bau Rouge",
+                "fr": "Bau Rouge"
               },
               "tip_5lang": {
                 "de": "Schönes Winterlicht auf den Klippen; fahren Sie vor 16:30 Uhr bei Tageslicht zurück.",
                 "hu": "A vörös sziklákat csodás téli fény éri; induljon vissza 16:30 előtt, hogy világosban érjen be.",
                 "ro": "Lumină superbă de iarnă pe stânci; plecați înainte de 16:30 pentru a vă întoarce pe lumină.",
-                "en": "Beautiful winter light hits the red cliffs; leave before 16:30 to ride back in daylight."
+                "en": "Beautiful winter light hits the red cliffs; leave before 16:30 to ride back in daylight.",
+                "fr": "La belle lumière hivernale illumine les falaises rouges ; partez avant 16:30 pour rentrer en trajet de jour."
               }
             }
           ]
@@ -658,7 +730,8 @@
             "de": "Saint Christine Chapel",
             "hu": "Szent Krisztina Kápolna",
             "ro": "Capela Saint Christine",
-            "en": "Saint Christine Chapel"
+            "en": "Saint Christine Chapel",
+            "fr": "Chapelle Sainte-Christine"
           },
           "coords": [
             6.043608,
@@ -673,7 +746,8 @@
             "de": "Beginnen Sie Ihre Tour an dieser ruhigen Kapelle mit weitem Blick über das Tal und kommen Sie früh, um das sanfte Morgenlicht auf der Steinfassade zu erleben.",
             "hu": "Kezdje túráját ennél a nyugodt, magasan fekvő kápolnánál, amely pazar kilátást nyújt a völgyre, és érkezzen korán, hogy elcsípje a kőhomlokzatot megvilágító reggeli fényt.",
             "ro": "Începeți turul la această capelă liniștită, înaltă, care oferă vederi ample asupra văii, ajungând devreme pentru a prinde lumina blândă a dimineții pe fațadă.",
-            "en": "Begin your tour at this serene, elevated chapel offering sweeping valley views, arriving early to catch the gentle morning light illuminating its stone facade."
+            "en": "Begin your tour at this serene, elevated chapel offering sweeping valley views, arriving early to catch the gentle morning light illuminating its stone facade.",
+            "fr": "Commencez votre visite par cette chapelle sereine et élevée offrant de larges vues sur la vallée, arrivez tôt pour profiter de la douce lumière du matin qui illumine sa façade en pierre."
           }
         },
         {
@@ -681,7 +755,8 @@
             "de": "Chapelle Saint-Roch",
             "hu": "Saint-Roch Kápolna",
             "ro": "Capela Saint-Roch",
-            "en": "Chapelle Saint-Roch"
+            "en": "Chapelle Saint-Roch",
+            "fr": "Chapelle Saint-Roch"
           },
           "coords": [
             6.052297,
@@ -696,7 +771,8 @@
             "de": "Betreten Sie diese friedliche, intime Kapelle, um der Mittagshitze zu entfliehen, und achten Sie darauf, die von den Einheimischen gewünschte Stille zu respektieren.",
             "hu": "Lépjen be ebbe a békés, meghitt kápolnába, hogy elmeneküljön a déli hőség elől, ügyelve arra, hogy tiszteletben tartsa a helyi hívek által kért csendet.",
             "ro": "Pășiți în această capelă pașnică și intimă pentru a scăpa de căldura amiezii, având grijă să respectați liniștea cerută de enoriașii locali.",
-            "en": "Step inside this peaceful, intimate chapel to escape the midday heat, taking care to respect the silence requested by the local parishioners."
+            "en": "Step inside this peaceful, intimate chapel to escape the midday heat, taking care to respect the silence requested by the local parishioners.",
+            "fr": "Entrez dans cette chapelle paisible et intime pour échapper à la chaleur de midi, en veillant à respecter le silence demandé par les paroissiens locaux."
           }
         },
         {
@@ -704,7 +780,8 @@
             "de": "Forbin Castle",
             "hu": "Forbin Kastély",
             "ro": "Castelul Forbin",
-            "en": "Forbin Castle"
+            "en": "Forbin Castle",
+            "fr": "Château de Forbin"
           },
           "coords": [
             6.0423,
@@ -719,7 +796,8 @@
             "de": "Erkunden Sie die großartige Renaissance-Architektur dieses historischen Schlosses und ruhen Sie sich auf den schattigen Bänken im gepflegten Innenhof aus.",
             "hu": "Fedezze fel e történelmi kastély pompás reneszánsz építészetét, és pihenjen meg egy pillanatra az árnyékos padokon a gyönyörűen gondozott udvaron.",
             "ro": "Explorați arhitectura renascentistă grandioasă a acestui castel istoric și luați un moment pentru a vă odihni pe băncile umbrite din curtea sa frumos îngrijită.",
-            "en": "Explore the grand Renaissance architecture of this historic castle, and take a moment to rest on the shaded benches in its beautifully manicured courtyard."
+            "en": "Explore the grand Renaissance architecture of this historic castle, and take a moment to rest on the shaded benches in its beautifully manicured courtyard.",
+            "fr": "Explorez la grande architecture Renaissance de ce château historique, et prenez un moment pour vous reposer sur les bancs ombragés de sa cour magnifiquement entretenue."
           }
         },
         {
@@ -727,7 +805,8 @@
             "de": "Église Saint-Jean-Baptiste",
             "hu": "Église Saint-Jean-Baptiste",
             "ro": "Église Saint-Jean-Baptiste",
-            "en": "Église Saint-Jean-Baptiste"
+            "en": "Église Saint-Jean-Baptiste",
+            "fr": "Église Saint-Jean-Baptiste"
           },
           "coords": [
             6.040312,
@@ -742,7 +821,8 @@
             "de": "Bewundern Sie die wunderschönen Buntglasfenster dieser zentralen Kirche und achten Sie auf das schwarze Brett für die Termine lokaler Chorauftritte.",
             "hu": "Csodálja meg ennek a központi templomnak a gyönyörű ólomüveg ablakait, és ne felejtse el megnézni a hirdetőtáblán a helyi kórusok fellépési idejét.",
             "ro": "Admirați vitraliile frumoase ale acestei biserici centrale și nu uitați să verificați panoul informativ pentru programul spectacolelor corale locale.",
-            "en": "Admire the beautiful stained glass windows of this central church, and remember to check the notice board for local choir performance schedules."
+            "en": "Admire the beautiful stained glass windows of this central church, and remember to check the notice board for local choir performance schedules.",
+            "fr": "Admirez les magnifiques vitraux de cette église centrale, et pensez à consulter le panneau d'informations pour les horaires des concerts de la chorale locale."
           }
         },
         {
@@ -750,7 +830,8 @@
             "de": "Musée du vêtement provençal",
             "hu": "Musée du vêtement provençal",
             "ro": "Musée du vêtement provençal",
-            "en": "Musée du vêtement provençal"
+            "en": "Musée du vêtement provençal",
+            "fr": "Musée du vêtement provençal"
           },
           "coords": [
             6.039883,
@@ -765,7 +846,8 @@
             "de": "Entdecken Sie in diesem Spezialmuseum die lebendige Geschichte traditioneller regionaler Kleidung und bringen Sie Bargeld für lokal gewebte Souvenirs mit.",
             "hu": "Fedezze fel a hagyományos regionális öltözetek élénk történetét ebben a speciális múzeumban, és hozzon készpénzt, ha helyben szőtt ajándéktárgyat szeretne venni.",
             "ro": "Descoperiți istoria vibrantă a ținutei regionale tradiționale în acest muzeu specializat și aduceți numerar dacă doriți să cumpărați un suvenir țesut local.",
-            "en": "Discover the vibrant history of traditional regional attire in this specialized museum, and bring cash if you wish to buy a locally woven souvenir."
+            "en": "Discover the vibrant history of traditional regional attire in this specialized museum, and bring cash if you wish to buy a locally woven souvenir.",
+            "fr": "Découvrez l'histoire vibrante des costumes régionaux traditionnels dans ce musée spécialisé, et prévoyez des espèces si vous souhaitez acheter un souvenir tissé localement."
           }
         },
         {
@@ -773,7 +855,8 @@
             "de": "Musée Jean Aicard",
             "hu": "Musée Jean Aicard",
             "ro": "Muzeul Jean Aicard",
-            "en": "Musée Jean Aicard"
+            "en": "Musée Jean Aicard",
+            "fr": "Musée Jean Aicard"
           },
           "coords": [
             6.039024,
@@ -788,7 +871,8 @@
             "de": "Tauchen Sie im ehemaligen Wohnhaus des Autors in das literarische Erbe der Provence ein und nutzen Sie den kostenlosen Audioguide für das erhaltene Arbeitszimmer.",
             "hu": "Merüljön el Provence irodalmi örökségében az író egykori otthonában, és kérje az ingyenes audioguide-ot, hogy teljes mértékben értékelni tudja a megőrzött dolgozószobát.",
             "ro": "Cufundați-vă în moștenirea literară a regiunii Provence la fosta casă a autorului și luați ghidul audio gratuit pentru a aprecia pe deplin biroul conservat.",
-            "en": "Immerse yourself in the literary heritage of Provence at this author's former home, and pick up the free audio guide to fully appreciate the preserved study."
+            "en": "Immerse yourself in the literary heritage of Provence at this author's former home, and pick up the free audio guide to fully appreciate the preserved study.",
+            "fr": "Plongez dans le patrimoine littéraire de Provence à la maison de cet auteur, et prenez l'audioguide gratuit pour apprécier pleinement le cabinet conservé."
           }
         },
         {
@@ -796,7 +880,8 @@
             "de": "Bau Rouge",
             "hu": "Bau Rouge",
             "ro": "Bau Rouge",
-            "en": "Bau Rouge"
+            "en": "Bau Rouge",
+            "fr": "Bau Rouge"
           },
           "coords": [
             6.012021,
@@ -811,7 +896,8 @@
             "de": "Genießen Sie einen Spaziergang am späten Nachmittag durch dieses auffällige Naturgebiet aus rotem Gestein und nehmen Sie zusätzliches Wasser sowie einen Hut mit.",
             "hu": "Élvezze a késő délutáni sétát ezen a lenyűgöző, vörös sziklás természeti területen, és vigyen magával extra vizet, mivel az árnyék meglepően ritka lehet.",
             "ro": "Bucurați-vă de o plimbare după-amiaza târziu prin această zonă naturală uimitoare cu roci roșii, purtând apă suplimentară deoarece umbra poate fi surprinzător de rară.",
-            "en": "Enjoy a late afternoon walk through this striking red-rock natural area, carrying extra water and a wide-brimmed hat as shade can be surprisingly sparse."
+            "en": "Enjoy a late afternoon walk through this striking red-rock natural area, carrying extra water and a wide-brimmed hat as shade can be surprisingly sparse.",
+            "fr": "Profitez d’une balade en fin d’après‑midi à travers ce remarquable site naturel de roches rouges, en emportant de l'eau supplémentaire et un chapeau à large bord car l'ombre peut être rare."
           }
         }
       ],
@@ -819,7 +905,8 @@
         "de": "Der Morgen in Solliès-Pont offenbart eine charmante Mischung aus Erbe und Spiritualität, beginnend mit den ruhigen Kirchen, die diese provenzalische Stadt verankern.\nWenn der Mittag naht, erhellt die Sonne die alten Steinmauern und lädt zu einem langsameren Tempo ein, während Sie an Kapellen und jahrhundertealten Wundern vorbeischlendern.\nAm Nachmittag verlagert sich der Fokus auf die Kultur, mit Museen, die die traditionelle Kleidung und Literaturgeschichte der Var-Region präsentieren.\nWenn der Abend näher rückt, werfen die markanten Naturlandschaften und rauen Ruinen lange Schatten und bieten einen perfekten Abschluss Ihrer Reise.",
         "hu": "A Solliès-Pont-i reggel az örökség és a spiritualitás elbűvölő keverékét tárja elénk, a békés templomoktól kezdve, amelyek e provence-i város alapját adják.\nA dél közeledtével a nap bevilágítja a régi kőfalakat, lassabb tempóra csábítva, miközben kápolnák és évszázados építészeti csodák mellett sétál el.\nA délután folyamán a figyelem a gazdag helyi kultúrára irányul, a múzeumok a Var régió hagyományos öltözékeit és irodalmi történelmét mutatják be.\nAz este közeledtével a lenyűgöző természeti tájak és a város szélén lévő zord romok hosszú árnyékot vetnek, tökéletes befejezést nyújtva utazásának.",
         "ro": "Dimineața în Solliès-Pont dezvăluie un amestec fermecător de moștenire și spiritualitate, începând cu bisericile liniștite care ancorează acest oraș provensal.\nPe măsură ce se apropie amiaza, soarele luminează vechile ziduri de piatră, invitând la un ritm mai lent în timp ce vă plimbați pe lângă capele și minuni arhitecturale.\nDupă-amiaza mută accentul pe cultura locală bogată, cu muzee care prezintă îmbrăcămintea tradițională și istoria literară unică a regiunii Var.\nOdată cu lăsarea serii, peisajele naturale uimitoare și ruinele aspre de la marginea orașului aruncă umbre lungi, oferind o concluzie pașnică călătoriei dumneavoastră.",
-        "en": "Morning in Solliès-Pont reveals a charming blend of heritage and spirituality, starting with the tranquil churches and historic centers that anchor this Provençal town.\nAs midday approaches, the sun brightens the old stone walls, inviting a slower pace as you wander past chapels and centuries-old architectural marvels.\nThe afternoon shifts focus towards rich local culture, with museums showcasing the vibrant traditional clothing and literary history unique to the Var region.\nAs evening nears, the striking natural landscapes and rugged ruins at the town's edge cast long shadows, providing a perfect, peaceful conclusion to your journey."
+        "en": "Morning in Solliès-Pont reveals a charming blend of heritage and spirituality, starting with the tranquil churches and historic centers that anchor this Provençal town.\nAs midday approaches, the sun brightens the old stone walls, inviting a slower pace as you wander past chapels and centuries-old architectural marvels.\nThe afternoon shifts focus towards rich local culture, with museums showcasing the vibrant traditional clothing and literary history unique to the Var region.\nAs evening nears, the striking natural landscapes and rugged ruins at the town's edge cast long shadows, providing a perfect, peaceful conclusion to your journey.",
+        "fr": "Le matin à Solliès-Pont révèle un charmant mélange de patrimoine et de spiritualité, à commencer par les églises tranquilles et les centres historiques qui ancrent cette ville provençale.\nÀ l'approche de midi, le soleil éclaire les murs de pierre anciens, invitant à un rythme plus lent tandis que vous flânez devant chapelles et merveilles architecturales séculaires.\nL'après‑midi met l'accent sur la riche culture locale, avec des musées présentant les vêtements traditionnels et l'histoire littéraire propres au Var.\nLe soir venu, les paysages naturels saisissants et les ruines escarpées en bordure de ville projettent de longues ombres, offrant une conclusion parfaite et paisible à votre journée."
       },
       "variants": {
         "rainy": {
@@ -827,7 +914,8 @@
             "de": "Beginnen Sie Ihre regnerische Fahrt zu den Kapellen und zum Schloss. Der Mittag ist perfekt für lange, trockene Besuche in der Kirche und im Bekleidungsmuseum. Setzen Sie den geschützten Nachmittag im Museum Jean Aicard fort. Beenden Sie den Tag mit der Fahrt zum Bau Rouge, aber achten Sie auf tiefe Pfützen und rutschige Aussichtspunkte.",
             "hu": "Az esős autózás a kápolnákkal és a kastéllyal indul, az autó remek menedéket ad a helyszínek között. A dél tökéletes a templom és a múzeum hosszas, száraz felfedezésére. A védett délután a Jean Aicard múzeumban folytatódik. A nap végén vezessen el a Bau Rouge-hoz, de figyeljen a nagy tócsákra és a csúszós kilátópontokra.",
             "ro": "Începeți traseul ploios cu mașina între capele și castel, bucurându-vă de adăpost. Prânzul este perfect pentru vizite uscate în biserică și muzeul hainelor. Continuați după-amiaza la adăpost în muzeul Jean Aicard. Încheiați ziua conducând spre Bau Rouge, dar aveți grijă la bălțile adânci și punctele de belvedere alunecoase.",
-            "en": "Start your rainy drive hopping between the chapels and the castle, using your car as a mobile umbrella. Noon is perfect for long, dry visits inside the historic church and the clothing museum. Continue your sheltered afternoon at the Jean Aicard museum. End the day driving to Bau Rouge, watching out for deep puddles."
+            "en": "Start your rainy drive hopping between the chapels and the castle, using your car as a mobile umbrella. Noon is perfect for long, dry visits inside the historic church and the clothing museum. Continue your sheltered afternoon at the Jean Aicard museum. End the day driving to Bau Rouge, watching out for deep puddles.",
+            "fr": "Commencez votre trajet pluvieux en sautant de chapelle en château, utilisant la voiture comme parapluie mobile. Midi est idéal pour de longues visites sèches à l'intérieur de l'église historique et du musée du vêtement. Poursuivez votre après‑midi abrité au musée Jean Aicard. Terminez la journée en conduisant vers Bau Rouge, en surveillant les flaques profondes."
           },
           "stops": [
             {
@@ -835,13 +923,15 @@
                 "de": "Saint Christine Chapel",
                 "hu": "Szent Krisztina Kápolna",
                 "ro": "Capela Saint Christine",
-                "en": "Saint Christine Chapel"
+                "en": "Saint Christine Chapel",
+                "fr": "Chapelle Sainte‑Christine"
               },
               "tip_5lang": {
                 "de": "Parken Sie in der Nähe und huschen Sie hinein; ein schneller, trockener Stopp im Regen.",
                 "hu": "Parkoljon közel, és szaladjon be; gyors és száraz történelmi megálló a nagy esőben.",
                 "ro": "Parcați aproape și fugiți înăuntru; o oprire istorică rapidă și uscată pe ploaie.",
-                "en": "Park close by and dash inside; a quick and dry historical stop in the heavy rain."
+                "en": "Park close by and dash inside; a quick and dry historical stop in the heavy rain.",
+                "fr": "Garez‑vous à proximité et courez à l'intérieur ; une halte historique rapide et sèche sous la forte pluie."
               }
             },
             {
@@ -849,13 +939,15 @@
                 "de": "Chapelle Saint-Roch",
                 "hu": "Saint-Roch Kápolna",
                 "ro": "Capela Saint-Roch",
-                "en": "Chapelle Saint-Roch"
+                "en": "Chapelle Saint-Roch",
+                "fr": "Chapelle Saint‑Roch"
               },
               "tip_5lang": {
                 "de": "Ein kurzer Spaziergang vom Auto; halten Sie Ihren Schirm für den Weg bereit.",
                 "hu": "Rövid séta az autótól; tartsa kéznél az esernyőt a kinti rövid távolságra.",
                 "ro": "O scurtă plimbare de la mașină; țineți umbrela la îndemână pentru porțiunea de afară.",
-                "en": "A short walk from the car; keep your umbrella handy for the brief outdoor stretch."
+                "en": "A short walk from the car; keep your umbrella handy for the brief outdoor stretch.",
+                "fr": "Une courte marche depuis la voiture ; gardez votre parapluie à portée de main pour le bref trajet extérieur."
               }
             },
             {
@@ -863,13 +955,15 @@
                 "de": "Forbin Castle",
                 "hu": "Forbin Kastély",
                 "ro": "Castelul Forbin",
-                "en": "Forbin Castle"
+                "en": "Forbin Castle",
+                "fr": "Château de Forbin"
               },
               "tip_5lang": {
                 "de": "Genießen Sie die großen, trockenen Innenräume, während es draußen regnet.",
                 "hu": "Élvezze a hatalmas, száraz belső tereket, miközben kint szakad az eső.",
                 "ro": "Bucurați-vă de spațiile interioare uscate ale acestui sit istoric, în timp ce afară plouă.",
-                "en": "Enjoy the massive, dry indoor spaces of this historic site as the rain pours outside."
+                "en": "Enjoy the massive, dry indoor spaces of this historic site as the rain pours outside.",
+                "fr": "Profitez des vastes espaces intérieurs et secs de ce site historique pendant que la pluie tombe dehors."
               }
             },
             {
@@ -877,13 +971,15 @@
                 "de": "Église Saint-Jean-Baptiste",
                 "hu": "Église Saint-Jean-Baptiste",
                 "ro": "Église Saint-Jean-Baptiste",
-                "en": "Église Saint-Jean-Baptiste"
+                "en": "Église Saint-Jean-Baptiste",
+                "fr": "Église Saint-Jean-Baptiste"
               },
               "tip_5lang": {
                 "de": "Der Regen verstärkt die ruhige Stimmung; parken Sie vorsichtig auf nassen Straßen.",
                 "hu": "Az eső fokozza a benti békés hangulatot; parkoljon óvatosan a vizes, csúszós utcákon.",
                 "ro": "Ploaia amplifică starea de liniște; parcați cu atenție pe străzile ude și alunecoase.",
-                "en": "The rain enhances the serene mood inside; park carefully on the wet, slippery streets."
+                "en": "The rain enhances the serene mood inside; park carefully on the wet, slippery streets.",
+                "fr": "La pluie renforce l'atmosphère sereine à l'intérieur ; garez‑vous prudemment sur les rues mouillées et glissantes."
               }
             },
             {
@@ -891,13 +987,15 @@
                 "de": "Musée du vêtement provençal",
                 "hu": "Musée du vêtement provençal",
                 "ro": "Musée du vêtement provençal",
-                "en": "Musée du vêtement provençal"
+                "en": "Musée du vêtement provençal",
+                "fr": "Musée du vêtement provençal"
               },
               "tip_5lang": {
                 "de": "Hervorragender Zufluchtsort bei schlechtem Wetter, um lokale Traditionen zu lernen.",
                 "hu": "Kiváló fedett menedék a rossz idő elől, miközben helyi hagyományokat tanul.",
                 "ro": "Refugiu excelent la interior pentru a scăpa de vremea rea și a învăța tradiții locale.",
-                "en": "Excellent indoor refuge to escape the bad weather while learning local traditions."
+                "en": "Excellent indoor refuge to escape the bad weather while learning local traditions.",
+                "fr": "Excellent refuge intérieur pour échapper au mauvais temps tout en découvrant les traditions locales."
               }
             },
             {
@@ -905,13 +1003,15 @@
                 "de": "Musée Jean Aicard",
                 "hu": "Musée Jean Aicard",
                 "ro": "Muzeul Jean Aicard",
-                "en": "Musée Jean Aicard"
+                "en": "Musée Jean Aicard",
+                "fr": "Musée Jean Aicard"
               },
               "tip_5lang": {
                 "de": "Setzen Sie hier Ihren trockenen Nachmittag fort; es gibt Platz für nasse Schirme.",
                 "hu": "Folytassa a száraz kulturális délutánt; a bejáratnál van hely a vizes ernyőknek.",
                 "ro": "Continuați după-amiaza culturală aici; intrarea are spațiu pentru umbrele ude.",
-                "en": "Continue your dry, cultural afternoon here; the entrance area has space for wet umbrellas."
+                "en": "Continue your dry, cultural afternoon here; the entrance area has space for wet umbrellas.",
+                "fr": "Poursuivez ici votre après‑midi culturel à l'abri ; le hall d'entrée offre un espace pour les parapluies mouillés."
               }
             },
             {
@@ -919,13 +1019,15 @@
                 "de": "Bau Rouge",
                 "hu": "Bau Rouge",
                 "ro": "Bau Rouge",
-                "en": "Bau Rouge"
+                "en": "Bau Rouge",
+                "fr": "Bau Rouge"
               },
               "tip_5lang": {
                 "de": "Fahren Sie langsam an der Küste; der Regen macht die Aussichtspunkte oft schlammig.",
                 "hu": "Vezessen lassan a parti utakon; az eső miatt a kilátópontok nagyon sarasak lehetnek.",
                 "ro": "Conduceți încet pe coastă; ploaia face punctele de belvedere foarte noroioase.",
-                "en": "Drive slowly on the coastal roads; the rain makes the red rock viewpoints quite muddy."
+                "en": "Drive slowly on the coastal roads; the rain makes the red rock viewpoints quite muddy.",
+                "fr": "Roulez lentement sur les routes côtières ; la pluie rend les points de vue sur les roches rouges très boueux."
               }
             }
           ]
@@ -935,7 +1037,8 @@
             "de": "Lassen Sie die Heizung an einem klaren Wintermorgen laufen, während Sie die Kapellen und das Schloss besuchen. Verbringen Sie den Mittag im Warmen in der Kirche und im Museum. Fahren Sie nach dem Museum Jean Aicard am Nachmittag zum Bau Rouge, um den frühen Sonnenuntergang gegen 17:00 Uhr zu erleben.",
             "hu": "Fűtse fel az autót a fagyos téli reggelen, miközben bejárja a kápolnákat és a kastélyt. A telet töltse melegben a helyi templom és a viselettörténeti múzeum felfedezésével. A Jean Aicard múzeum után kora délután vezessen el a Bau Rouge-hoz, hogy elcsípje a lenyűgöző, 17:00 óra körüli korai naplementét.",
             "ro": "Păstrați căldura în mașină într-o dimineață de iarnă, vizitând capelele și castelul. Petreceți prânzul la căldură, explorând biserica și muzeul de haine. După muzeul Jean Aicard, conduceți spre Bau Rouge la mijlocul după-amiezii pentru a prinde apusul superb de la ora 17:00.",
-            "en": "Keep the car heater on during a crisp winter morning tour of the chapels and the sturdy castle. Spend midday staying comfortably warm while exploring the local church and the fascinating clothing museum. After visiting the Jean Aicard museum, drive to Bau Rouge to catch the breathtaking sunset around 17:00."
+            "en": "Keep the car heater on during a crisp winter morning tour of the chapels and the sturdy castle. Spend midday staying comfortably warm while exploring the local church and the fascinating clothing museum. After visiting the Jean Aicard museum, drive to Bau Rouge to catch the breathtaking sunset around 17:00.",
+            "fr": "Gardez le chauffage de la voiture pendant une fraîche matinée hivernale à la découverte des chapelles et du robuste château. Passez le midi bien au chaud en explorant l'église locale et le fascinant musée du vêtement. Après la visite du musée Jean Aicard, conduisez jusqu'à Bau Rouge pour admirer le coucher de soleil vers 17:00."
           },
           "stops": [
             {
@@ -943,13 +1046,15 @@
                 "de": "Saint Christine Chapel",
                 "hu": "Szent Krisztina Kápolna",
                 "ro": "Capela Saint Christine",
-                "en": "Saint Christine Chapel"
+                "en": "Saint Christine Chapel",
+                "fr": "Chapelle Sainte‑Christine"
               },
               "tip_5lang": {
                 "de": "Die Autoheizung macht den Wechsel in die kalte Kapelle erträglich; warm anziehen.",
                 "hu": "Az autófűtés segít elviselni a hideg kőkápolnába való átlépést; öltözzön melegen.",
                 "ro": "Căldura mașinii face trecerea în capela rece mai ușoară; îmbrăcați-vă gros.",
-                "en": "The car heater makes the transition to the cold stone chapel manageable; dress warmly."
+                "en": "The car heater makes the transition to the cold stone chapel manageable; dress warmly.",
+                "fr": "Le chauffage de la voiture facilite la transition vers la chapelle en pierre froide ; habillez‑vous chaudement."
               }
             },
             {
@@ -957,13 +1062,15 @@
                 "de": "Chapelle Saint-Roch",
                 "hu": "Saint-Roch Kápolna",
                 "ro": "Capela Saint-Roch",
-                "en": "Chapelle Saint-Roch"
+                "en": "Chapelle Saint-Roch",
+                "fr": "Chapelle Saint‑Roch"
               },
               "tip_5lang": {
                 "de": "Ein malerischer Winterstopp; achten Sie beim Parken auf morgendlichen Frost.",
                 "hu": "Festői téli megálló; parkoláskor figyeljen a reggeli dérre az utakon.",
                 "ro": "O oprire pitorească de iarnă; atenție la bruma de pe drum la parcare.",
-                "en": "A picturesque winter stop; watch out for morning frost on the road when parking."
+                "en": "A picturesque winter stop; watch out for morning frost on the road when parking.",
+                "fr": "Une halte hivernale pittoresque ; attention au verglas matinal sur la route en se garant."
               }
             },
             {
@@ -971,13 +1078,15 @@
                 "de": "Forbin Castle",
                 "hu": "Forbin Kastély",
                 "ro": "Castelul Forbin",
-                "en": "Forbin Castle"
+                "en": "Forbin Castle",
+                "fr": "Château de Forbin"
               },
               "tip_5lang": {
                 "de": "Die großen Säle bieten Schutz vor der Winterluft; ein majestätischer Anblick in der Sonne.",
                 "hu": "A nagy termek védelmet nyújtanak a csípős levegő ellen; fenséges látvány a téli napban.",
                 "ro": "Sălile mari oferă o pauză de la aerul rece; o priveliște majestuoasă în soarele de iarnă.",
-                "en": "The grand halls offer a break from the crisp winter air; a majestic sight in the winter sun."
+                "en": "The grand halls offer a break from the crisp winter air; a majestic sight in the winter sun.",
+                "fr": "Les grandes salles offrent une pause contre l'air vif d'hiver ; une vue majestueuse sous le soleil hivernal."
               }
             },
             {
@@ -985,13 +1094,15 @@
                 "de": "Église Saint-Jean-Baptiste",
                 "hu": "Église Saint-Jean-Baptiste",
                 "ro": "Église Saint-Jean-Baptiste",
-                "en": "Église Saint-Jean-Baptiste"
+                "en": "Église Saint-Jean-Baptiste",
+                "fr": "Église Saint-Jean-Baptiste"
               },
               "tip_5lang": {
                 "de": "Das blasse Winterlicht durch die Fenster ist toll; ziehen Sie sich warm an, keine Heizung.",
                 "hu": "A sápadt téli fény az ablakokon át lenyűgöző; öltözzön fel jól, mert nincs fűtés.",
                 "ro": "Lumina palidă de iarnă prin ferestre este superbă; îmbrăcați-vă bine, nu e încălzire.",
-                "en": "The pale winter light through the windows is stunning; wrap up well as there's no heating."
+                "en": "The pale winter light through the windows is stunning; wrap up well as there's no heating.",
+                "fr": "La lumière hivernale pâle à travers les vitraux est superbe ; emmitouflez‑vous car il n'y a pas de chauffage."
               }
             },
             {
@@ -999,13 +1110,15 @@
                 "de": "Musée du vêtement provençal",
                 "hu": "Musée du vêtement provençal",
                 "ro": "Musée du vêtement provençal",
-                "en": "Musée du vêtement provençal"
+                "en": "Musée du vêtement provençal",
+                "fr": "Musée du vêtement provençal"
               },
               "tip_5lang": {
                 "de": "Ein gemütlicher, beheizter Stopp, wo Sie den Mantel öffnen und entspannen können.",
                 "hu": "Kényelmes, fűtött megálló, ahol kigombolhatja a kabátot, és nyugodtan nézelődhet.",
                 "ro": "O oprire încălzită unde vă puteți descheia haina de iarnă și explora relaxat.",
-                "en": "A cozy, heated stop where you can unbutton your winter coat and relax while exploring."
+                "en": "A cozy, heated stop where you can unbutton your winter coat and relax while exploring.",
+                "fr": "Une halte confortable et chauffée où vous pouvez déboutonner votre manteau d'hiver et vous détendre en visitant."
               }
             },
             {
@@ -1013,13 +1126,15 @@
                 "de": "Musée Jean Aicard",
                 "hu": "Musée Jean Aicard",
                 "ro": "Muzeul Jean Aicard",
-                "en": "Musée Jean Aicard"
+                "en": "Musée Jean Aicard",
+                "fr": "Musée Jean Aicard"
               },
               "tip_5lang": {
                 "de": "Eine weitere warme Innenattraktion, um die Winterkälte am Nachmittag fernzuhalten.",
                 "hu": "Újabb csodálatosan meleg benti látványosság, amely távol tartja a délutáni téli hideget.",
                 "ro": "Încă o atracție interioară caldă pentru a ține frigul iernii la distanță după-amiaza.",
-                "en": "Another wonderfully warm indoor attraction to keep the winter chill at bay during the afternoon."
+                "en": "Another wonderfully warm indoor attraction to keep the winter chill at bay during the afternoon.",
+                "fr": "Une autre attraction intérieure merveilleusement chaleureuse pour tenir le froid hivernal à distance pendant l'après‑midi."
               }
             },
             {
@@ -1027,13 +1142,15 @@
                 "de": "Bau Rouge",
                 "hu": "Bau Rouge",
                 "ro": "Bau Rouge",
-                "en": "Bau Rouge"
+                "en": "Bau Rouge",
+                "fr": "Bau Rouge"
               },
               "tip_5lang": {
                 "de": "Kommen Sie bis 16:30 Uhr für eine magische goldene Stunde; der Seewind ist eisig.",
                 "hu": "Érkezzen 16:30-ra a varázslatos aranyórához; a tengeri szél nagyon metsző tud lenni télen.",
                 "ro": "Ajungeți la 16:30 pentru ora de aur; vântul dinspre mare este foarte tăios iarna.",
-                "en": "Aim to arrive by 16:30 for a magical golden hour; the sea wind is very biting in winter."
+                "en": "Aim to arrive by 16:30 for a magical golden hour; the sea wind is very biting in winter.",
+                "fr": "Visez une arrivée vers 16:30 pour une heure dorée magique ; le vent marin mord en hiver."
               }
             }
           ]

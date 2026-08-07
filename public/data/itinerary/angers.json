@@ -21,7 +21,8 @@
             "de": "Place du Ralliement",
             "hu": "Place du Ralliement",
             "ro": "Place du Ralliement",
-            "en": "Place du Ralliement"
+            "en": "Place du Ralliement",
+            "fr": "Place du Ralliement"
           },
           "coords": [
             -0.5508,
@@ -45,7 +46,8 @@
             "de": "Maison d'Adam",
             "hu": "Ádám-ház",
             "ro": "Casa lui Adam",
-            "en": "Adam's House"
+            "en": "Adam's House",
+            "fr": "Maison d'Adam"
           },
           "coords": [
             -0.5532,
@@ -61,7 +63,7 @@
             "hu": "Keresse meg a faragott figurákat a fagerendákon.",
             "ro": "Căutați figurile sculptate pe structura de lemn.",
             "en": "Look for the carved figures on the timber frame.",
-            "fr": "Cherchez les figures sculptées sur les pans de bois."
+            "fr": "Cherchez les figures sculptées sur le colombage."
           }
         },
         {
@@ -69,7 +71,8 @@
             "de": "Kathedrale Saint-Maurice",
             "hu": "Szent Móric-székesegyház",
             "ro": "Catedrala Saint-Maurice",
-            "en": "Saint-Maurice Cathedral"
+            "en": "Saint-Maurice Cathedral",
+            "fr": "Cathédrale Saint-Maurice"
           },
           "coords": [
             -0.5551,
@@ -93,7 +96,8 @@
             "de": "Schloss Angers",
             "hu": "Angers-i vár",
             "ro": "Castelul Angers",
-            "en": "Angers Castle"
+            "en": "Angers Castle",
+            "fr": "Château d'Angers"
           },
           "coords": [
             -0.5601,
@@ -109,7 +113,7 @@
             "hu": "Az Apokalipszis-kárpit egy külön galériában található.",
             "ro": "Tapiseria Apocalipsei se află într-o galerie specială.",
             "en": "The Apocalypse Tapestry is housed in a special gallery.",
-            "fr": "La tenture de l'Apocalypse est conservée dans une galerie spéciale."
+            "fr": "La Tapisserie de l'Apocalypse est conservée dans une galerie spéciale."
           }
         },
         {
@@ -117,7 +121,8 @@
             "de": "Musée des Beaux-Arts",
             "hu": "Szépművészeti Múzeum",
             "ro": "Muzeul de Arte Frumoase",
-            "en": "Museum of Fine Arts"
+            "en": "Museum of Fine Arts",
+            "fr": "Musée des Beaux-Arts"
           },
           "coords": [
             -0.5539,
@@ -133,7 +138,7 @@
             "hu": "A múzeum egy pompás 15. századi kúriában kapott helyet.",
             "ro": "Muzeul este situat într-un conac magnific din secolul al XV-lea.",
             "en": "The museum is located in a magnificent 15th-century mansion.",
-            "fr": "Le musée se trouve dans un magnifique hôtel particulier du XVe siècle."
+            "fr": "Le musée se situe dans un magnifique hôtel particulier du XVe siècle."
           }
         },
         {
@@ -141,7 +146,8 @@
             "de": "Promenade du Bout du Monde",
             "hu": "Világvége sétány",
             "ro": "Promenada Bout du Monde",
-            "en": "Bout du Monde Promenade"
+            "en": "Bout du Monde Promenade",
+            "fr": "Promenade du Bout du Monde"
           },
           "coords": [
             -0.5612,
@@ -157,7 +163,7 @@
             "hu": "A legjobb kilátás a Maine folyóra és a várra.",
             "ro": "Cea mai bună vedere asupra râului Maine și a castelului.",
             "en": "Best view of the Maine river and the castle.",
-            "fr": "Meilleure vue sur la Maine et le château."
+            "fr": "Meilleure vue sur la rivière Maine et le château."
           }
         }
       ],
@@ -166,7 +172,7 @@
         "hu": "Kezdje a napot Angers nyüzsgő szívében, a Place du Ralliement téren, ahol a Grand Théâtre épülete dominál. Sétáljon tovább a középkori utcákon az Ádám-házig, amely különleges faragványaival a város egyik legszebb fagerendás háza.\n\nDélkörül fedezze fel a Szent Móric-székesegyházat, majd lépjen be a hatalmas, 17 tornyos várba. Itt őrzik a monumentális Apokalipszis-kárpitot, amely a középkori művészet egyik legjelentősebb alkotása.\n\nA délutánt szentelje a Szépművészeti Múzeumnak, amely egy történelmi palotában várja a látogatókat. A klasszikus festményektől a modern alkotásokig terjedő tárlat után pihenjen meg a múzeum belső kertjében.\n\nZárja az utazást a Világvége sétányon. A Maine folyóra és a völgyre nyíló panoráma az alkonyati fényekben felejthetetlen látványt nyújt, miközben a vár falai magasodnak Ön felett.",
         "ro": "Începeți ziua în inima vibrantă a orașului Angers, în Place du Ralliement, unde Grand Théâtre dă tonul eleganței. Plimbați-vă pe străzile medievale până la Casa lui Adam, o bijuterie arhitecturală cu sculpturi curioase.\n\nLa prânz, explorați catedrala Saint-Maurice, apoi intrați în monumentalul castel cu 17 turnuri. Aici vă așteaptă uriașa Tapiserie a Apocalipsei, o capodoperă a artei medievale unică în lume.\n\nDupă-amiaza este dedicată artei la Muzeul de Arte Frumoase, găzduit într-un palat istoric. Bucurați-vă de amestecul de artă modernă și pictură clasică într-o atmosferă relaxată și rafinată.\n\nÎncheiați ziua la promenada Bout du Monde. Vederea panoramică asupra râului Maine și a văii, sub zidurile groase ale fortăreței în lumina aurie a serii, oferă finalul perfect pentru această vizită.",
         "en": "Start your day in the lively heart of Angers at Place du Ralliement, where the grand theater sets the tone. Wander through medieval streets to Adam's House, an architectural gem with whimsical carvings.\n\nAround midday, explore the striking Saint-Maurice Cathedral before entering the monumental castle with its 17 towers. Here, the giant Apocalypse Tapestry awaits, a medieval masterpiece of immense scale.\n\nSpend the afternoon immersed in art at the Museum of Fine Arts, housed in a historic mansion. Enjoy the blend of modern art and classical painting in a relaxed atmosphere.\n\nEnd your trip at the Bout du Monde Promenade. The sweeping view over the Maine river valley and the castle walls in the golden evening light provides the perfect conclusion.",
-        "fr": "Commencez votre journée au cœur animé d'Angers, sur la Place du Ralliement, où le Grand Théâtre donne le ton. Flânez dans les rues médiévales jusqu'à la Maison d'Adam, un joyau architectural orné de sculptures fantaisistes.\n\nVers midi, explorez l'imposante Cathédrale Saint-Maurice avant de pénétrer dans le château monumental et ses 17 tours. Ici vous attend la tenture de l'Apocalypse, un chef-d'œuvre médiéval d'une dimension immense.\n\nPassez l'après-midi en immersion artistique au Musée des Beaux-Arts, installé dans un hôtel particulier historique. Profitez du mélange d'art moderne et de peinture classique dans une atmosphère détendue.\n\nTerminez votre périple à la Promenade du Bout du Monde. La vue panoramique sur la vallée de la Maine et les remparts du château sous la lumière dorée du soir constitue une conclusion parfaite."
+        "fr": "Commencez votre journée au cœur animé d'Angers, sur la Place du Ralliement, où le grand théâtre donne le ton. Promenez-vous dans les rues médiévales jusqu'à la Maison d'Adam, un joyau architectural aux sculptures fantaisistes.\n\nVers midi, découvrez la remarquable cathédrale Saint-Maurice avant de pénétrer dans le château monumental aux 17 tours. Là vous attend la gigantesque Tapisserie de l'Apocalypse, un chef-d'œuvre médiéval d'une dimension impressionnante.\n\nPassez l'après-midi plongé dans l'art au Musée des Beaux-Arts, installé dans un hôtel particulier historique. Profitez du mélange d'art moderne et de peinture classique dans une atmosphère détendue.\n\nTerminez votre visite à la Promenade du Bout du Monde. La vue panoramique sur la vallée de la Maine et les remparts du château dans la lumière dorée du soir offre une conclusion idéale."
       },
       "gastro_picks": {
         "de": [
@@ -364,11 +370,11 @@
           "Be mindful of the cobblestones in the old town; wear comfortable shoes."
         ],
         "fr": [
-          "Angers est très accueillante pour les piétons ; le centre est compact et facile à explorer.",
-          "Visitez le château tôt le matin pour admirer les tapisseries sans la foule.",
+          "Angers est très propice aux piétons ; le centre est compact et facile à parcourir.",
+          "Visitez le château tôt le matin pour voir les tapisseries sans la foule.",
           "Goûtez un cocktail au Cointreau, la célèbre liqueur ayant été inventée ici.",
-          "La ville offre de nombreux parcs gratuits, parfaits pour de courtes pauses.",
-          "Attention aux pavés dans la vieille ville ; portez des chaussures confortables."
+          "La ville offre de nombreux parcs gratuits parfaits pour de courtes pauses.",
+          "Faites attention aux pavés dans la vieille ville ; portez des chaussures confortables."
         ]
       },
       "variants": {
@@ -377,7 +383,8 @@
             "de": "Beginnen Sie Ihren Tag im lebendigen Herzen von Angers auf der Place du Ralliement, wo das prächtige Theater den Ton angibt. Schlendern Sie durch die mittelalterlichen Gassen zur Maison d'Adam, einem architektonischen Juwel mit skurrilen Schnitzereien.\n\nAm Mittag erkunden Sie die beeindruckende Kathedrale Saint-Maurice, bevor Sie das monumentale Schloss mit seinen 17 Türmen betreten. Hier erwartet Sie der gigantische Wandteppich der Apokalypse, ein Meisterwerk des Mittelalters.\n\nDer Nachmittag ist der Kunst im Musée des Beaux-Arts gewidmet, das in einem historischen Palast untergebracht ist. Genießen Sie die Mischung aus moderner Kunst und klassischer Malerei in einer entspannten Atmosphäre.\n\nLassen Sie den Tag an der Promenade du Bout du Monde ausklingen. Der weite Blick über das Flusstal der Maine und die dicken Mauern der Festung im goldenen Abendlicht bietet den perfekten Abschluss.",
             "hu": "Kezdje a napot Angers nyüzsgő szívében, a Place du Ralliement téren, ahol a Grand Théâtre épülete dominál. Sétáljon tovább a középkori utcákon az Ádám-házig, amely különleges faragványaival a város egyik legszebb fagerendás háza.\n\nDélkörül fedezze fel a Szent Móric-székesegyházat, majd lépjen be a hatalmas, 17 tornyos várba. Itt őrzik a monumentális Apokalipszis-kárpitot, amely a középkori művészet egyik legjelentősebb alkotása.\n\nA délutánt szentelje a Szépművészeti Múzeumnak, amely egy történelmi palotában várja a látogatókat. A klasszikus festményektől a modern alkotásokig terjedő tárlat után pihenjen meg a múzeum belső kertjében.\n\nZárja az utazást a Világvége sétányon. A Maine folyóra és a völgyre nyíló panoráma az alkonyati fényekben felejthetetlen látványt nyújt, miközben a vár falai magasodnak Ön felett.",
             "ro": "Începeți ziua în inima vibrantă a orașului Angers, în Place du Ralliement, unde Grand Théâtre dă tonul eleganței. Plimbați-vă pe străzile medievale până la Casa lui Adam, o bijuterie arhitecturală cu sculpturi curioase.\n\nLa prânz, explorați catedrala Saint-Maurice, apoi intrați în monumentalul castel cu 17 turnuri. Aici vă așteaptă uriașa Tapiserie a Apocalipsei, o capodoperă a artei medievale unică în lume.\n\nDupă-amiaza este dedicată artei la Muzeul de Arte Frumoase, găzduit într-un palat istoric. Bucurați-vă de amestecul de artă modernă și pictură clasică într-o atmosferă relaxată și rafinată.\n\nÎncheiați ziua la promenada Bout du Monde. Vederea panoramică asupra râului Maine și a văii, sub zidurile groase ale fortăreței în lumina aurie a serii, oferă finalul perfect pentru această vizită.",
-            "en": "Start your day in the lively heart of Angers at Place du Ralliement, where the grand theater sets the tone. Wander through medieval streets to Adam's House, an architectural gem with whimsical carvings.\n\nAround midday, explore the striking Saint-Maurice Cathedral before entering the monumental castle with its 17 towers. Here, the giant Apocalypse Tapestry awaits, a medieval masterpiece of immense scale.\n\nSpend the afternoon immersed in art at the Museum of Fine Arts, housed in a historic mansion. Enjoy the blend of modern art and classical painting in a relaxed atmosphere.\n\nEnd your trip at the Bout du Monde Promenade. The sweeping view over the Maine river valley and the castle walls in the golden evening light provides the perfect conclusion."
+            "en": "Start your day in the lively heart of Angers at Place du Ralliement, where the grand theater sets the tone. Wander through medieval streets to Adam's House, an architectural gem with whimsical carvings.\n\nAround midday, explore the striking Saint-Maurice Cathedral before entering the monumental castle with its 17 towers. Here, the giant Apocalypse Tapestry awaits, a medieval masterpiece of immense scale.\n\nSpend the afternoon immersed in art at the Museum of Fine Arts, housed in a historic mansion. Enjoy the blend of modern art and classical painting in a relaxed atmosphere.\n\nEnd your trip at the Bout du Monde Promenade. The sweeping view over the Maine river valley and the castle walls in the golden evening light provides the perfect conclusion.",
+            "fr": "Commencez votre journée au cœur animé d'Angers, sur la Place du Ralliement, où le grand théâtre donne le ton. Promenez-vous dans les rues médiévales jusqu'à la Maison d'Adam, un joyau architectural aux sculptures fantaisistes.\n\nVers midi, découvrez la remarquable cathédrale Saint-Maurice avant de pénétrer dans le château monumental aux 17 tours. Là vous attend la gigantesque Tapisserie de l'Apocalypse, un chef-d'œuvre médiéval d'une dimension impressionnante.\n\nPassez l'après-midi plongé dans l'art au Musée des Beaux-Arts, installé dans un hôtel particulier historique. Profitez du mélange d'art moderne et de peinture classique dans une atmosphère détendue.\n\nTerminez votre visite à la Promenade du Bout du Monde. La vue panoramique sur la vallée de la Maine et les remparts du château dans la lumière dorée du soir offre une conclusion idéale."
           },
           "stops": [
             {
@@ -385,13 +392,15 @@
                 "de": "Place du Ralliement",
                 "hu": "Place du Ralliement",
                 "ro": "Place du Ralliement",
-                "en": "Place du Ralliement"
+                "en": "Place du Ralliement",
+                "fr": "Place du Ralliement"
               },
               "tip_5lang": {
                 "de": "Bewundern Sie die Fassade des Grand Théâtre.",
                 "hu": "Csodálja meg a Grand Théâtre homlokzatát.",
                 "ro": "Admirați fațada teatrului Grand Théâtre.",
-                "en": "Admire the facade of the Grand Théâtre."
+                "en": "Admire the facade of the Grand Théâtre.",
+                "fr": "Admirez la façade du Grand Théâtre."
               }
             },
             {
@@ -399,13 +408,15 @@
                 "de": "Maison d'Adam",
                 "hu": "Ádám-ház",
                 "ro": "Casa lui Adam",
-                "en": "Adam's House"
+                "en": "Adam's House",
+                "fr": "Maison d'Adam"
               },
               "tip_5lang": {
                 "de": "Suchen Sie nach den geschnitzten Figuren am Fachwerk.",
                 "hu": "Keresse meg a faragott figurákat a fagerendákon.",
                 "ro": "Căutați figurile sculptate pe structura de lemn.",
-                "en": "Look for the carved figures on the timber frame."
+                "en": "Look for the carved figures on the timber frame.",
+                "fr": "Cherchez les figures sculptées sur le colombage."
               }
             },
             {
@@ -413,13 +424,15 @@
                 "de": "Kathedrale Saint-Maurice",
                 "hu": "Szent Móric-székesegyház",
                 "ro": "Catedrala Saint-Maurice",
-                "en": "Saint-Maurice Cathedral"
+                "en": "Saint-Maurice Cathedral",
+                "fr": "Cathédrale Saint-Maurice"
               },
               "tip_5lang": {
                 "de": "Die Glasmalereien aus dem 12. Jahrhundert sind ein Muss.",
                 "hu": "A 12. századi üvegablakokat látni kell.",
                 "ro": "Vitraliile din secolul al XII-lea sunt de neratat.",
-                "en": "The 12th-century stained glass windows are a must-see."
+                "en": "The 12th-century stained glass windows are a must-see.",
+                "fr": "Les vitraux du XIIe siècle sont incontournables."
               }
             },
             {
@@ -427,13 +440,15 @@
                 "de": "Schloss Angers",
                 "hu": "Angers-i vár",
                 "ro": "Castelul Angers",
-                "en": "Angers Castle"
+                "en": "Angers Castle",
+                "fr": "Château d'Angers"
               },
               "tip_5lang": {
                 "de": "Der Wandteppich der Apokalypse befindet sich in einer speziellen Galerie.",
                 "hu": "Az Apokalipszis-kárpit egy külön galériában található.",
                 "ro": "Tapiseria Apocalipsei se află într-o galerie specială.",
-                "en": "The Apocalypse Tapestry is housed in a special gallery."
+                "en": "The Apocalypse Tapestry is housed in a special gallery.",
+                "fr": "La Tapisserie de l'Apocalypse est abritée dans une galerie protégée."
               }
             },
             {
@@ -441,13 +456,15 @@
                 "de": "Musée des Beaux-Arts",
                 "hu": "Szépművészeti Múzeum",
                 "ro": "Muzeul de Arte Frumoase",
-                "en": "Museum of Fine Arts"
+                "en": "Museum of Fine Arts",
+                "fr": "Musée des Beaux-Arts"
               },
               "tip_5lang": {
                 "de": "Das Museum befindet sich in einem prächtigen Herrenhaus aus dem 15. Jahrhundert.",
                 "hu": "A múzeum egy pompás 15. századi kúriában kapott helyet.",
                 "ro": "Muzeul este situat într-un conac magnific din secolul al XV-lea.",
-                "en": "The museum is located in a magnificent 15th-century mansion."
+                "en": "The museum is located in a magnificent 15th-century mansion.",
+                "fr": "Le musée se trouve dans un magnifique hôtel particulier du XVe siècle."
               }
             },
             {
@@ -455,13 +472,15 @@
                 "de": "Promenade du Bout du Monde",
                 "hu": "Világvége sétány",
                 "ro": "Promenada Bout du Monde",
-                "en": "Bout du Monde Promenade"
+                "en": "Bout du Monde Promenade",
+                "fr": "Promenade du Bout du Monde"
               },
               "tip_5lang": {
                 "de": "Der beste Blick auf den Fluss Maine und das Schloss.",
                 "hu": "A legjobb kilátás a Maine folyóra és a várra.",
                 "ro": "Cea mai bună vedere asupra râului Maine și a castelului.",
-                "en": "Best view of the Maine river and the castle."
+                "en": "Best view of the Maine river and the castle.",
+                "fr": "Meilleure vue sur la rivière Maine et le château."
               }
             }
           ],
@@ -627,6 +646,13 @@
               "Try a Cointreau cocktail, as the famous liqueur was invented here.",
               "The city offers many free parks perfect for short breaks.",
               "Be mindful of the cobblestones in the old town; wear comfortable shoes."
+            ],
+            "fr": [
+              "Angers est très propice aux piétons ; le centre est compact et facile à parcourir.",
+              "Visitez le château tôt le matin pour voir les tapisseries sans la foule.",
+              "Goûtez un cocktail au Cointreau, la célèbre liqueur ayant été inventée ici.",
+              "La ville offre de nombreux parcs gratuits parfaits pour de courtes pauses.",
+              "Faites attention aux pavés dans la vieille ville ; portez des chaussures confortables."
             ]
           }
         },
@@ -636,7 +662,7 @@
             "hu": "A reggel a Place du Ralliement színházának árkádjai alatt indul, védve az esőtől. Délben a Saint-Maurice székesegyház nyújt száraz menedéket és lenyűgöző belső tereket. Délután az Angers-i vár fedett galériáit járjuk be, ahol az Apokalipszis-falikárpit látható. Az estét a Szépművészeti Múzeum tárlatai között töltjük, tökéletes program esős időben.",
             "ro": "Dimineața începe sub arcadele teatrului din Place du Ralliement, la adăpost de ploaie. La prânz, Catedrala Saint-Maurice oferă un refugiu uscat și o arhitectură impresionantă. După-amiaza explorăm galeriile acoperite ale Castelului Angers, unde se află Tapiseria Apocalipsei. Seara este rezervată Muzeului de Arte Frumoase, ideal pentru a evita vremea instabilă.",
             "en": "The morning starts under the arches of the Grand Théâtre at Place du Ralliement, protected from the rain. At midday, Saint-Maurice Cathedral provides a dry sanctuary with stunning interiors. The afternoon is spent in the covered galleries of Angers Castle, home to the Apocalypse Tapestry. The evening concludes at the Fine Arts Museum, perfect for staying dry.",
-            "fr": "La matinée débute sous les arches du Grand Théâtre, Place du Ralliement, à l'abri de la pluie. À midi, la Cathédrale Saint-Maurice offre un sanctuaire sec avec des intérieurs superbes. L'après-midi se passe dans les galeries couvertes du Château d'Angers, qui abrite la tenture de l'Apocalypse. La soirée se termine au Musée des Beaux-Arts, idéal pour rester au sec."
+            "fr": "La matinée commence sous les arches du Grand Théâtre sur la Place du Ralliement, à l'abri de la pluie. À midi, la cathédrale Saint-Maurice offre un sanctuaire sec aux intérieurs splendides. L'après-midi se passe dans les galeries couvertes du Château d'Angers, qui abrite la Tapisserie de l'Apocalypse. La soirée se conclut au Musée des Beaux-Arts, parfait pour rester au sec."
           },
           "stops": [
             {
@@ -646,7 +672,7 @@
                 "hu": "Használja a Grand Théâtre előcsarnokát száraz találkozópontként.",
                 "ro": "Folosiți copertina de la Grand Théâtre ca punct de întâlnire uscat.",
                 "en": "Use the Grand Théâtre porch as a dry meeting point.",
-                "fr": "Utilisez le porche du Grand Théâtre comme point de rendez-vous au sec."
+                "fr": "Utilisez le porche du Grand Théâtre comme point de rendez-vous abrité."
               }
             },
             {
@@ -656,7 +682,7 @@
                 "hu": "Csodálja meg a faragványokat a szemközti üzletek eresze alól.",
                 "ro": "Admirați sculpturile de la adăpostul magazinelor de vizavi.",
                 "en": "Admire the carvings from the shelter of the shops opposite.",
-                "fr": "Admirez les sculptures à l'abri des boutiques d'en face."
+                "fr": "Admirez les sculptures depuis l'abri des boutiques en face."
               }
             },
             {
@@ -666,7 +692,7 @@
                 "hu": "Tökéletes hely egy intenzívebb zápor átvészelésére a falakon belül.",
                 "ro": "Locul perfect pentru a aștepta trecerea unei ploi torențiale în interior.",
                 "en": "Perfect place to wait out a heavy downpour inside.",
-                "fr": "Lieu parfait pour attendre la fin d'une averse à l'intérieur."
+                "fr": "Endroit parfait pour attendre une forte averse à l'intérieur."
               }
             },
             {
@@ -676,7 +702,7 @@
                 "hu": "Az Apokalipszis-falikárpitok egy védett, elsötétített teremben vannak.",
                 "ro": "Tapiseriile Apocalipsei se află într-o sală protejată și întunecată.",
                 "en": "The Apocalypse tapestries are housed in a protected, darkened gallery.",
-                "fr": "Les tapisseries de l'Apocalypse sont conservées dans une galerie protégée et sombre."
+                "fr": "Les tapisseries de l'Apocalypse sont exposées dans une galerie protégée et tamisée."
               }
             },
             {
@@ -686,7 +712,7 @@
                 "hu": "A ruhatár kiváló a vizes kabátok és esernyők biztonságos elhelyezésére.",
                 "ro": "Garderoba este ideală pentru a lăsa hainele ude și umbrelele.",
                 "en": "The cloakroom is ideal for dropping off wet coats and umbrellas.",
-                "fr": "Le vestiaire est idéal pour déposer les manteaux et parapluies mouillés."
+                "fr": "Le vestiaire est idéal pour déposer manteaux et parapluies mouillés."
               }
             },
             {
@@ -696,7 +722,7 @@
                 "hu": "Gyors kilátás a folyóra, majd irány a közeli kávézók egyike.",
                 "ro": "O privire scurtă spre râu, apoi retrageți-vă rapid la o cafenea.",
                 "en": "Quick view of the river, then head to a nearby café.",
-                "fr": "Vue rapide sur la rivière, puis direction un café à proximité."
+                "fr": "Vue rapide sur la rivière, puis dirigez-vous vers un café à proximité."
               }
             }
           ],
@@ -730,11 +756,11 @@
               "Look for local bakeries for a quick, dry indoor snack break."
             ],
             "fr": [
-              "Utilisez la ligne A du tramway pour éviter de longues marches sous la pluie battante.",
-              "Le Passage du Commerce offre un raccourci couvert dans le centre-ville.",
-              "Portez des chaussures imperméables, car les pavés peuvent devenir très glissants.",
-              "Prévoyez le château pour l'après-midi, lorsque la pluie est plus probable.",
-              "Cherchez les boulangeries locales pour une pause collation rapide et au sec."
+              "Prenez la ligne de tram A pour éviter de longues marches sous une forte pluie.",
+              "Le Passage du Commerce offre un raccourci couvert en centre-ville.",
+              "Portez des chaussures imperméables car les pavés peuvent devenir très glissants.",
+              "Prévoyez la visite du château pour l'après-midi lorsque la pluie est plus probable.",
+              "Cherchez les boulangeries locales pour une pause-snack rapide et abritée."
             ]
           }
         },
@@ -744,7 +770,7 @@
             "hu": "A fagyos reggel egy forró itallal indul a Place du Ralliement-n. A téli napsütés éles fénybe vonja a székesegyházat, miközben a levegő csípős. Délután a vár belső kiállítóterei kínálnak meleget a látogatóknak. Mivel korán sötétedik, a Bout du Monde sétány már délután 5 körül varázslatos téli panorámát nyújt a Maine-völgy felett.",
             "ro": "O dimineață geroasă începe cu o băutură caldă în Place du Ralliement. Soarele de iarnă luminează catedrala, în timp ce aerul este tăios. După-amiaza, încălziți-vă în sălile de expoziție ale castelului. Deoarece se întunecă devreme, promenada Bout du Monde oferă deja pe la ora 17 o vedere hibernală magică asupra văii Maine.",
             "en": "A frosty morning starts with a hot drink at Place du Ralliement. The winter sun casts sharp light on the cathedral, though the air is biting. In the afternoon, warm up inside the castle’s exhibition halls. With early dusk, the Bout du Monde promenade offers a magical wintry view over the Maine valley by 5 PM.",
-            "fr": "Une matinée givrée commence par une boisson chaude Place du Ralliement. Le soleil d'hiver jette une lumière vive sur la cathédrale, bien que l'air soit vif. L'après-midi, réchauffez-vous dans les salles d'exposition du château. À la tombée précoce du jour, la promenade du Bout du Monde offre une vue hivernale magique sur la vallée de la Maine dès 17h."
+            "fr": "Une matinée glaciale commence par une boisson chaude sur la Place du Ralliement. Le soleil d'hiver projette une lumière vive sur la cathédrale, bien que l'air soit mordant. L'après-midi, réchauffez-vous dans les salles d'exposition du château. Avec la tombée de la nuit précoce, la Promenade du Bout du Monde offre une vue hivernale magique sur la vallée de la Maine vers 17:00."
           },
           "stops": [
             {
@@ -754,7 +780,7 @@
                 "hu": "Élvezze a forralt bort az árusoknál, ha épp tart a karácsonyi vásár.",
                 "ro": "Savurați un vin fiert la tarabe dacă este perioada târgului de Crăciun.",
                 "en": "Enjoy a mulled wine at the stalls if the Christmas market is on.",
-                "fr": "Savourez un vin chaud aux stands si le marché de Noël est installé."
+                "fr": "Dégustez un vin chaud aux stands si le marché de Noël est installé."
               }
             },
             {
@@ -764,7 +790,7 @@
                 "hu": "A favázas szerkezet a téli szórt fényben különösen rusztikusnak hat.",
                 "ro": "Structura din lemn pare deosebit de rustică în lumina difuză de iarnă.",
                 "en": "The half-timbered structure looks particularly rustic in winter light.",
-                "fr": "La structure à pans de bois est particulièrement rustique sous la lumière d'hiver."
+                "fr": "La structure à colombages paraît particulièrement rustique sous la lumière d'hiver."
               }
             },
             {
@@ -774,7 +800,7 @@
                 "hu": "A vastag falak tartják a hideget; érdemes a kabátot magunkon hagyni.",
                 "ro": "Zidurile groase rețin frigul; păstrați haina pe dumneavoastră.",
                 "en": "The thick walls retain the cold; keep your coat on inside.",
-                "fr": "Les murs épais gardent le froid ; gardez votre manteau à l'intérieur."
+                "fr": "Les murs épais retiennent le froid ; gardez votre manteau à l'intérieur."
               }
             },
             {
@@ -784,7 +810,7 @@
                 "hu": "A várárok télen gyakran zúzmarás – kiváló fotótéma.",
                 "ro": "Șanțurile castelului sunt adesea acoperite de chiciură – ocazie foto excelentă.",
                 "en": "The castle moats are often covered in hoarfrost – great photo spot.",
-                "fr": "Les douves du château sont souvent couvertes de givre – superbe spot photo."
+                "fr": "Les douves du château sont souvent couvertes de givre – excellent spot photo."
               }
             },
             {
@@ -794,7 +820,7 @@
                 "hu": "Tökéletesen fűtött helyszín a nap leghidegebb óráira.",
                 "ro": "Un loc perfect încălzit pentru cele mai reci ore ale zilei.",
                 "en": "A perfectly heated location for the coldest hours of the day.",
-                "fr": "Un endroit parfaitement chauffé pour les heures les plus froides de la journée."
+                "fr": "Un lieu parfaitement chauffé pour les heures les plus froides de la journée."
               }
             },
             {
@@ -804,7 +830,7 @@
                 "hu": "A naplemente télen már délután 5 óra körül bekövetkezik.",
                 "ro": "Apusul de soare are loc în jurul orei 17:00 pe timpul iernii.",
                 "en": "Sunset occurs around 5:00 PM during the winter months.",
-                "fr": "Le coucher du soleil a lieu vers 17h00 pendant les mois d'hiver."
+                "fr": "Le coucher du soleil a lieu vers 17:00 pendant les mois d'hiver."
               }
             }
           ],
@@ -838,11 +864,11 @@
               "Some parks close earlier in winter; check the posted signs at gates."
             ],
             "fr": [
-              "Habillez-vous par couches pour gérer la transition entre l'air froid et les musées chauffés.",
-              "Le soleil reste bas ; attention à l'éblouissement lors des photos au bord de l'eau.",
-              "Prévoyez toutes les visites extérieures avant 16h en raison de la luminosité.",
-              "Les pauses café sont essentielles pour maintenir votre température corporelle.",
-              "Certains parcs ferment plus tôt en hiver ; vérifiez les panneaux aux entrées."
+              "Habillez-vous en couches pour gérer la transition entre l'air froid et les musées chauffés.",
+              "Le soleil reste bas ; attention aux reflets lors des photos au bord de la rivière.",
+              "Prévoyez toutes les visites extérieures avant 16:00 en raison de l'éclairage.",
+              "Les pauses café sont essentielles pour maintenir la température corporelle.",
+              "Certains parcs ferment plus tôt en hiver ; vérifiez les panneaux affichés aux grilles."
             ]
           }
         }
@@ -861,7 +887,8 @@
             "de": "Château d'Angers",
             "hu": "Angers-i vár",
             "ro": "Castelul Angers",
-            "en": "Angers Castle"
+            "en": "Angers Castle",
+            "fr": "Château d'Angers"
           },
           "coords": [
             -0.5601,
@@ -885,7 +912,8 @@
             "de": "Musée Jean-Lurçat",
             "hu": "Jean-Lurçat Múzeum",
             "ro": "Muzeul Jean-Lurçat",
-            "en": "Jean-Lurçat Museum"
+            "en": "Jean-Lurçat Museum",
+            "fr": "Musée Jean-Lurçat"
           },
           "coords": [
             -0.5592,
@@ -909,7 +937,8 @@
             "de": "Jardin des Plantes",
             "hu": "Fűvészkert",
             "ro": "Grădina Botanică",
-            "en": "Plant Garden"
+            "en": "Plant Garden",
+            "fr": "Jardin des Plantes"
           },
           "coords": [
             -0.5435,
@@ -925,7 +954,7 @@
             "hu": "Tökéletes hely egy piknikhez az öreg fák árnyékában.",
             "ro": "Locul perfect pentru un picnic la umbra arborilor bătrâni.",
             "en": "Perfect spot for a picnic under the shade of old trees.",
-            "fr": "Endroit parfait pour un pique-nique à l'ombre des arbres centenaires."
+            "fr": "Endroit parfait pour un pique-nique à l'ombre de vieux arbres."
           }
         },
         {
@@ -933,7 +962,8 @@
             "de": "Maine-Uferweg (La Loire à Vélo)",
             "hu": "Maine-parti kerékpárút",
             "ro": "Pista de biciclete de-a lungul râului Maine",
-            "en": "Maine River Path"
+            "en": "Maine River Path",
+            "fr": "Chemin du Maine"
           },
           "coords": [
             -0.5645,
@@ -949,7 +979,7 @@
             "hu": "Élvezze a sík utat közvetlenül a vízparton.",
             "ro": "Bucurați-vă de drumul drept de-a lungul apei.",
             "en": "Enjoy the flat path directly along the water.",
-            "fr": "Profitez du sentier plat directement le long de l'eau."
+            "fr": "Profitez du parcours plat directement le long de l'eau."
           }
         },
         {
@@ -957,7 +987,8 @@
             "de": "Lac de Maine",
             "hu": "Maine-tó",
             "ro": "Lacul Maine",
-            "en": "Lac de Maine"
+            "en": "Lac de Maine",
+            "fr": "Lac de Maine"
           },
           "coords": [
             -0.5855,
@@ -973,7 +1004,7 @@
             "hu": "Hatalmas pihenőövezet strandolási lehetőséggel.",
             "ro": "O zonă mare de agrement cu posibilitate de înot.",
             "en": "A large recreational area with swimming possibilities.",
-            "fr": "Une grande zone de loisirs avec possibilité de baignade."
+            "fr": "Un grand espace de loisirs avec possibilité de baignade."
           }
         },
         {
@@ -981,7 +1012,8 @@
             "de": "Quai des Carmes",
             "hu": "Quai des Carmes",
             "ro": "Quai des Carmes",
-            "en": "Quai des Carmes"
+            "en": "Quai des Carmes",
+            "fr": "Quai des Carmes"
           },
           "coords": [
             -0.5615,
@@ -997,7 +1029,7 @@
             "hu": "Nézze a hajókat a Maine folyón a nap végén.",
             "ro": "Priviți bărcile pe râul Maine la finalul zilei.",
             "en": "Watch the boats on the Maine river at the end of the day.",
-            "fr": "Observez les bateaux sur la Maine en fin de journée."
+            "fr": "Regardez les bateaux sur la Maine en fin de journée."
           }
         }
       ],
@@ -1006,7 +1038,7 @@
         "hu": "Fedezze fel Angerst két keréken, kezdve a hatalmas várnál. A széles utak kiváló rálátást biztosítanak a masszív falakra, mielőtt átkelne a folyón a Jean-Lurçat Múzeumhoz, amely egy lenyűgöző középkori épületben található.\n\nDélben tekerjen át a városon a Fűvészkertbe, amely a nyugalom zöld szigete. Élvezze az utat a kerékpárosbarát negyedeken keresztül, ahol a történelmi örökség találkozik a modern életminőséggel.\n\nA délután a Maine folyó mentén, a híres 'Loire à Vélo' útvonalon telik. A Maine-tóhoz vezető szakasz sík és pihentető, folyóparti tájakon és természetvédelmi területeken vezet keresztül.\n\nZárja a túrát a Quai des Carmes rakparton. Itt a város pezsgő diákélete találkozik a történelmi díszletekkel, tökéletes hely a naplemente megtekintéséhez a vízparton, szemben a várral.",
         "ro": "Descoperiți Angers pe două roți, începând de la castelul impunător. Drumurile largi oferă bicicliștilor o perspectivă excelentă asupra zidurilor masive, înainte de a traversa râul spre Muzeul Jean-Lurçat.\n\nLa prânz, pedalați prin oraș către Jardin des Plantes, o oază verde de liniște. Bucurați-vă de plimbarea prin cartierele prietenoase cu bicicliștii, care îmbină moștenirea bogată cu calitatea vieții moderne.\n\nDupă-amiaza vă poartă de-a lungul râului Maine pe celebrul traseu 'Loire à Vélo'. Ruta către Lacul Maine este plată și relaxantă, trecând pe lângă peisaje fluviale și zone naturale protejate.\n\nÎncheiați turul la Quai des Carmes. Aici, viața studențească vibrantă se întâlnește cu decorul istoric, fiind locul ideal pentru a admira apusul peste apă cu vedere spre castel.",
         "en": "Discover Angers on two wheels, starting at the mighty castle. The wide paths offer cyclists an excellent perspective of the massive walls before crossing the river to the Jean-Lurçat Museum.\n\nAt midday, cycle through the city to the Jardin des Plantes, a green oasis of peace. Enjoy the ride through bike-friendly neighborhoods that combine rich heritage with modern quality of life.\n\nIn the afternoon, follow the Maine river on the famous 'Loire à Vélo' path. The route to Lac de Maine is flat and relaxing, passing through river landscapes and nature reserves.\n\nEnd your tour at Quai des Carmes. Here, the city's vibrant student life meets the historic backdrop, ideal for enjoying the sunset over the water with a view of the castle.",
-        "fr": "Découvrez Angers à deux roues en commençant par l'imposant château. Les larges pistes offrent aux cyclistes une excellente perspective sur les remparts massifs avant de traverser la rivière vers le Musée Jean-Lurçat.\n\nÀ midi, pédalez à travers la ville jusqu'au Jardin des Plantes, une oasis de verdure et de paix. Profitez de la balade dans des quartiers cyclables qui allient patrimoine riche et qualité de vie moderne.\n\nL'après-midi, suivez la Maine sur le célèbre itinéraire de la « Loire à Vélo ». La route vers le Lac de Maine est plate et relaxante, traversant des paysages de rivière et des réserves naturelles.\n\nTerminez votre tour au Quai des Carmes. Ici, la vie étudiante dynamique rencontre le décor historique, idéal pour admirer le coucher du soleil sur l'eau avec vue sur le château."
+        "fr": "Découvrez Angers à vélo, en commençant par le puissant château. Les larges allées offrent aux cyclistes une excellente perspective des murailles imposantes avant de traverser la rivière jusqu'au musée Jean-Lurçat.\n\nÀ midi, traversez la ville à vélo jusqu'au Jardin des Plantes, une oasis verte de calme. Appréciez la balade dans des quartiers accueillants pour les vélos, qui allient riche patrimoine et qualité de vie moderne.\n\nL'après-midi, suivez la Maine sur le célèbre itinéraire « Loire à Vélo ». La route vers le Lac de Maine est plate et relaxante, traversant paysages fluviaux et réserves naturelles.\n\nTerminez votre circuit au Quai des Carmes. Ici, la vie étudiante animée de la ville rencontre le décor historique, idéal pour admirer le coucher du soleil sur l'eau avec vue sur le château."
       },
       "gastro_picks": {
         "de": [
@@ -1204,11 +1236,11 @@
           "A sturdy bike lock is essential for sightseeing stops."
         ],
         "fr": [
-          "Utilisez le système de vélos en libre-service « Pony » si vous n'avez pas votre propre vélo.",
-          "Les sentiers le long de la Maine sont presque entièrement sans voiture.",
-          "Attention aux rails du tramway dans le centre-ville.",
-          "Envisagez un arrêt à l'Île Saint-Aubin (vérifiez les horaires du bac saisonnier).",
-          "Un cadenas solide est essentiel pour les arrêts touristiques."
+          "Utilisez le service de vélos en libre-service « Pony » si vous n'avez pas votre propre vélo.",
+          "Les chemins le long de la Maine sont presque entièrement sans voitures.",
+          "Attention aux voies de tramway dans le centre-ville.",
+          "Envisagez une halte à l'Île Saint-Aubin (vérifiez les horaires saisonniers des navettes).",
+          "Un antivol solide est essentiel pour les arrêts touristiques."
         ]
       },
       "variants": {
@@ -1217,7 +1249,8 @@
             "de": "Entdecken Sie Angers auf zwei Rädern, beginnend am mächtigen Schloss. Die weiten Wege bieten Radfahrern eine hervorragende Perspektive auf die massiven Mauern, bevor es über den Fluss zum Musée Jean-Lurçat geht.\n\nMittags radeln Sie durch die Stadt zum Jardin des Plantes, einer grünen Oase der Ruhe. Genießen Sie die Fahrt durch die fahrradfreundlichen Viertel, die das reiche Erbe der Stadt mit moderner Lebensqualität verbinden.\n\nDer Nachmittag führt Sie entlang der Maine auf dem berühmten 'Loire à Vélo' Weg. Die Route zum Lac de Maine ist flach und entspannend, vorbei an Flusslandschaften und Naturschutzgebieten.\n\nBeenden Sie Ihre Tour am Quai des Carmes. Hier trifft das studentische Leben der Stadt auf die historische Kulisse, ideal um den Sonnenuntergang über dem Wasser mit Blick auf das Schloss zu genießen.",
             "hu": "Fedezze fel Angerst két keréken, kezdve a hatalmas várnál. A széles utak kiváló rálátást biztosítanak a masszív falakra, mielőtt átkelne a folyón a Jean-Lurçat Múzeumhoz, amely egy lenyűgöző középkori épületben található.\n\nDélben tekerjen át a városon a Fűvészkertbe, amely a nyugalom zöld szigete. Élvezze az utat a kerékpárosbarát negyedeken keresztül, ahol a történelmi örökség találkozik a modern életminőséggel.\n\nA délután a Maine folyó mentén, a híres 'Loire à Vélo' útvonalon telik. A Maine-tóhoz vezető szakasz sík és pihentető, folyóparti tájakon és természetvédelmi területeken vezet keresztül.\n\nZárja a túrát a Quai des Carmes rakparton. Itt a város pezsgő diákélete találkozik a történelmi díszletekkel, tökéletes hely a naplemente megtekintéséhez a vízparton, szemben a várral.",
             "ro": "Descoperiți Angers pe două roți, începând de la castelul impunător. Drumurile largi oferă bicicliștilor o perspectivă excelentă asupra zidurilor masive, înainte de a traversa râul spre Muzeul Jean-Lurçat.\n\nLa prânz, pedalați prin oraș către Jardin des Plantes, o oază verde de liniște. Bucurați-vă de plimbarea prin cartierele prietenoase cu bicicliștii, care îmbină moștenirea bogată cu calitatea vieții moderne.\n\nDupă-amiaza vă poartă de-a lungul râului Maine pe celebrul traseu 'Loire à Vélo'. Ruta către Lacul Maine este plată și relaxantă, trecând pe lângă peisaje fluviale și zone naturale protejate.\n\nÎncheiați turul la Quai des Carmes. Aici, viața studențească vibrantă se întâlnește cu decorul istoric, fiind locul ideal pentru a admira apusul peste apă cu vedere spre castel.",
-            "en": "Discover Angers on two wheels, starting at the mighty castle. The wide paths offer cyclists an excellent perspective of the massive walls before crossing the river to the Jean-Lurçat Museum.\n\nAt midday, cycle through the city to the Jardin des Plantes, a green oasis of peace. Enjoy the ride through bike-friendly neighborhoods that combine rich heritage with modern quality of life.\n\nIn the afternoon, follow the Maine river on the famous 'Loire à Vélo' path. The route to Lac de Maine is flat and relaxing, passing through river landscapes and nature reserves.\n\nEnd your tour at Quai des Carmes. Here, the city's vibrant student life meets the historic backdrop, ideal for enjoying the sunset over the water with a view of the castle."
+            "en": "Discover Angers on two wheels, starting at the mighty castle. The wide paths offer cyclists an excellent perspective of the massive walls before crossing the river to the Jean-Lurçat Museum.\n\nAt midday, cycle through the city to the Jardin des Plantes, a green oasis of peace. Enjoy the ride through bike-friendly neighborhoods that combine rich heritage with modern quality of life.\n\nIn the afternoon, follow the Maine river on the famous 'Loire à Vélo' path. The route to Lac de Maine is flat and relaxing, passing through river landscapes and nature reserves.\n\nEnd your tour at Quai des Carmes. Here, the city's vibrant student life meets the historic backdrop, ideal for enjoying the sunset over the water with a view of the castle.",
+            "fr": "Découvrez Angers à vélo, en commençant par le puissant château. Les larges allées offrent aux cyclistes une excellente perspective des murailles imposantes avant de traverser la rivière jusqu'au musée Jean-Lurçat.\n\nÀ midi, traversez la ville à vélo jusqu'au Jardin des Plantes, une oasis verte de calme. Appréciez la balade dans des quartiers accueillants pour les vélos, qui allient riche patrimoine et qualité de vie moderne.\n\nL'après-midi, suivez la Maine sur le célèbre itinéraire « Loire à Vélo ». La route vers le Lac de Maine est plate et relaxante, traversant paysages fluviaux et réserves naturelles.\n\nTerminez votre circuit au Quai des Carmes. Ici, la vie étudiante animée de la ville rencontre le décor historique, idéal pour admirer le coucher du soleil sur l'eau avec vue sur le château."
           },
           "stops": [
             {
@@ -1225,13 +1258,15 @@
                 "de": "Château d'Angers",
                 "hu": "Angers-i vár",
                 "ro": "Castelul Angers",
-                "en": "Angers Castle"
+                "en": "Angers Castle",
+                "fr": "Château d'Angers"
               },
               "tip_5lang": {
                 "de": "Sichere Fahrradparkplätze am Eingang vorhanden.",
                 "hu": "Biztonságos biciklitárolók a bejáratnál.",
                 "ro": "Parcare securizată pentru biciclete la intrare.",
-                "en": "Secure bike parking available at the entrance."
+                "en": "Secure bike parking available at the entrance.",
+                "fr": "Parking vélo sécurisé disponible à l'entrée."
               }
             },
             {
@@ -1239,13 +1274,15 @@
                 "de": "Musée Jean-Lurçat",
                 "hu": "Jean-Lurçat Múzeum",
                 "ro": "Muzeul Jean-Lurçat",
-                "en": "Jean-Lurçat Museum"
+                "en": "Jean-Lurçat Museum",
+                "fr": "Musée Jean-Lurçat"
               },
               "tip_5lang": {
                 "de": "Bewundern Sie 'Le Chant du Monde' im alten Lazarett.",
                 "hu": "Csodálja meg 'A világ dala' kárpitot a régi ispotályban.",
                 "ro": "Admirați 'Cântecul Lumii' în vechiul spital.",
-                "en": "Admire 'Le Chant du Monde' in the old hospital building."
+                "en": "Admire 'Le Chant du Monde' in the old hospital building.",
+                "fr": "Admirez « Le Chant du Monde » dans l'ancien bâtiment de l'hôpital."
               }
             },
             {
@@ -1253,13 +1290,15 @@
                 "de": "Jardin des Plantes",
                 "hu": "Fűvészkert",
                 "ro": "Grădina Botanică",
-                "en": "Plant Garden"
+                "en": "Plant Garden",
+                "fr": "Jardin des Plantes"
               },
               "tip_5lang": {
                 "de": "Perfekter Ort für ein Picknick im Schatten alter Bäume.",
                 "hu": "Tökéletes hely egy piknikhez az öreg fák árnyékában.",
                 "ro": "Locul perfect pentru un picnic la umbra arborilor bătrâni.",
-                "en": "Perfect spot for a picnic under the shade of old trees."
+                "en": "Perfect spot for a picnic under the shade of old trees.",
+                "fr": "Endroit parfait pour un pique-nique à l'ombre de vieux arbres."
               }
             },
             {
@@ -1267,13 +1306,15 @@
                 "de": "Maine-Uferweg (La Loire à Vélo)",
                 "hu": "Maine-parti kerékpárút",
                 "ro": "Pista de biciclete de-a lungul râului Maine",
-                "en": "Maine River Path"
+                "en": "Maine River Path",
+                "fr": "Chemin du Maine"
               },
               "tip_5lang": {
                 "de": "Genießen Sie den flachen Weg entlang des Wassers.",
                 "hu": "Élvezze a sík utat közvetlenül a vízparton.",
                 "ro": "Bucurați-vă de drumul drept de-a lungul apei.",
-                "en": "Enjoy the flat path directly along the water."
+                "en": "Enjoy the flat path directly along the water.",
+                "fr": "Profitez du parcours plat directement le long de l'eau."
               }
             },
             {
@@ -1281,13 +1322,15 @@
                 "de": "Lac de Maine",
                 "hu": "Maine-tó",
                 "ro": "Lacul Maine",
-                "en": "Lac de Maine"
+                "en": "Lac de Maine",
+                "fr": "Lac de Maine"
               },
               "tip_5lang": {
                 "de": "Ein großes Erholungsgebiet mit Bademöglichkeit.",
                 "hu": "Hatalmas pihenőövezet strandolási lehetőséggel.",
                 "ro": "O zonă mare de agrement cu posibilitate de înot.",
-                "en": "A large recreational area with swimming possibilities."
+                "en": "A large recreational area with swimming possibilities.",
+                "fr": "Un grand espace de loisirs avec possibilité de baignade."
               }
             },
             {
@@ -1295,13 +1338,15 @@
                 "de": "Quai des Carmes",
                 "hu": "Quai des Carmes",
                 "ro": "Quai des Carmes",
-                "en": "Quai des Carmes"
+                "en": "Quai des Carmes",
+                "fr": "Quai des Carmes"
               },
               "tip_5lang": {
                 "de": "Beobachten Sie die Boote auf der Maine zum Tagesabschluss.",
                 "hu": "Nézze a hajókat a Maine folyón a nap végén.",
                 "ro": "Priviți bărcile pe râul Maine la finalul zilei.",
-                "en": "Watch the boats on the Maine river at the end of the day."
+                "en": "Watch the boats on the Maine river at the end of the day.",
+                "fr": "Regardez les bateaux sur la Maine en fin de journée."
               }
             }
           ],
@@ -1467,6 +1512,13 @@
               "Watch out for tram tracks in the city center.",
               "Consider adding a stop at Île Saint-Aubin (check seasonal ferry times).",
               "A sturdy bike lock is essential for sightseeing stops."
+            ],
+            "fr": [
+              "Utilisez le service de vélos en libre-service « Pony » si vous n'avez pas votre propre vélo.",
+              "Les chemins le long de la Maine sont presque entièrement sans voitures.",
+              "Attention aux voies de tramway dans le centre-ville.",
+              "Envisagez une halte à l'Île Saint-Aubin (vérifiez les horaires saisonniers des navettes).",
+              "Un antivol solide est essentiel pour les arrêts touristiques."
             ]
           }
         },
@@ -1476,7 +1528,7 @@
             "hu": "Az eső ellenére a Maine menti tekerés frissítő. Délelőtt a vár nyújt védelmet, majd a Jean-Lurçat galéria kínál fedett művészeti élményt. Délben a Jardin des Plantes buja növényei az esőben is szépek, mielőtt visszatérnénk a folyópartra. A nedves Quai des Carmes rakparton óvatosan közlekedjünk.",
             "ro": "În ciuda ploii, plimbarea de-a lungul râului Maine este revigorantă. Dimineața castelul oferă protecție, urmat de galeria Jean-Lurçat cu artă la interior. La prânz, Jardin des Plantes este o experiență umedă, înainte de a reveni pe malul râului. Atenție pe Quai des Carmes care poate fi ud.",
             "en": "Despite the rain, cycling along the Maine is refreshing. The morning offers shelter at the castle, followed by indoor art at the Jean-Lurçat gallery. Midday in the Jardin des Plantes is a damp but lush experience before returning to the riverbank. Caution is advised on the wet Quai des Carmes.",
-            "fr": "Malgré la pluie, pédaler le long de la Maine est rafraîchissant. La matinée offre un abri au château, suivi par l'art intérieur à la galerie Jean-Lurçat. Midi au Jardin des Plantes est une expérience humide mais luxuriante avant de revenir sur les berges. La prudence est de mise sur le Quai des Carmes mouillé."
+            "fr": "Malgré la pluie, pédaler le long de la Maine est vivifiant. Le matin, vous pouvez trouver un abri au château, suivi d'art en intérieur à la galerie Jean-Lurçat. Midi au Jardin des Plantes est humide mais luxuriant avant de revenir au bord de la rivière. Soyez prudent sur le Quai des Carmes, qui peut être glissant."
           },
           "stops": [
             {
@@ -1496,7 +1548,7 @@
                 "hu": "Kiváló megálló a ruházat rövid szárítására.",
                 "ro": "O oprire excelentă pentru a vă usca puțin hainele.",
                 "en": "An excellent stop to dry off your gear for a bit.",
-                "fr": "Un excellent arrêt pour faire sécher votre équipement quelques instants."
+                "fr": "Un excellent arrêt pour faire sécher un peu votre équipement."
               }
             },
             {
@@ -1506,7 +1558,7 @@
                 "hu": "Vigyázzon a csúszós levelekre az ösvényeken.",
                 "ro": "Atenție la frunzele alunecoase de pe alei.",
                 "en": "Watch out for slippery leaves on the garden paths.",
-                "fr": "Attention aux feuilles glissantes sur les sentiers du jardin."
+                "fr": "Attention aux feuilles glissantes sur les allées du jardin."
               }
             },
             {
@@ -1516,7 +1568,7 @@
                 "hu": "Használjon sárvédőt a felcsapódó víz ellen.",
                 "ro": "Folosiți aripi la bicicletă pentru a evita stropirea.",
                 "en": "Use mudguards to avoid splashes from the wet path.",
-                "fr": "Utilisez des garde-boue pour éviter les éclaboussures de la piste mouillée."
+                "fr": "Utilisez des garde-boue pour éviter les éclaboussures sur le chemin mouillé."
               }
             },
             {
@@ -1526,7 +1578,7 @@
                 "hu": "A talaj felázhat, maradjon a leaszfaltozott utakon.",
                 "ro": "Solul poate fi moale, rămâneți pe potecile asfaltate.",
                 "en": "The ground may be soft; stick to the paved paths.",
-                "fr": "Le sol peut être meuble ; restez sur les sentiers pavés."
+                "fr": "Le sol peut être meuble ; restez sur les chemins goudronnés."
               }
             },
             {
@@ -1536,7 +1588,7 @@
                 "hu": "Fékezzen időben a nedves útfelületen.",
                 "ro": "Frânați din timp pe suprafața udă.",
                 "en": "Brake early on the wet road surface.",
-                "fr": "Freinez tôt sur la chaussée mouillée."
+                "fr": "Freinez tôt sur chaussée humide."
               }
             }
           ],
@@ -1570,11 +1622,11 @@
               "Dry your brakes by applying them lightly every now and then."
             ],
             "fr": [
-              "Un équipement imperméable complet est essentiel pour cet itinéraire.",
-              "Évitez de traverser les rails mouillés du tramway avec un angle trop fermé.",
+              "Une tenue entièrement imperméable est indispensable pour cet itinéraire à vélo.",
+              "Évitez de traverser les rails de tram mouillés à angle aigu.",
               "La visibilité peut être réduite par la pluie ; gardez vos lumières allumées.",
-              "Les vélos de location ont souvent des paniers pour ne pas porter de sac au dos.",
-              "Séchez vos freins en les actionnant légèrement de temps en temps."
+              "Les vélos de location ont souvent des paniers pour éviter de porter les sacs sur le dos.",
+              "Séchez vos freins en les sollicitant légèrement de temps en temps."
             ]
           }
         },
@@ -1584,7 +1636,7 @@
             "hu": "A téli túra Angers tiszta levegőjén vezet keresztül. Délelőtt a mozgás melegít fel a vár felé menet. Délben a Jean-Lurçat múzeumban tarthatunk egy szükséges melegedő szünetet. A Lac de Maine felé fúj a szél, de a tiszta kilátás kárpótol. Mivel korán sötétedik, a túra a Quai des Carmes hangulatos fényeiben ér véget.",
             "ro": "Turul de iarnă trece prin aerul curat al orașului Angers. Mișcarea vă încălzește pe drumul spre castel. La prânz, muzeul Jean-Lurçat oferă o pauză necesară pentru încălzire. Drumul spre Lac de Maine este vântos, dar vizibilitatea largă merită efortul. Se întunecă devreme, deci turul se încheie în luminile de pe Quai des Carmes.",
             "en": "The winter tour takes you through the crisp Angers air. Movement keeps you warm on the way to the castle. At midday, the Jean-Lurçat museum provides a necessary warm-up break. The ride to Lac de Maine is windy, but the clear views reward the effort. With early darkness, the tour ends under the atmospheric lights of Quai des Carmes.",
-            "fr": "Le tour hivernal vous emmène à travers l'air pur d'Angers. Le mouvement vous garde au chaud sur le chemin du château. À midi, le musée Jean-Lurçat offre une pause réchauffante nécessaire. La balade vers le Lac de Maine est venteuse, mais les vues dégagées récompensent l'effort. À la nuit tombée, le tour s'achève sous les lumières d'ambiance du Quai des Carmes."
+            "fr": "La balade hivernale vous fait traverser l'air vif d'Angers. Le mouvement vous réchauffe en chemin vers le château. À midi, le musée Jean-Lurçat offre une pause réconfortante en intérieur. La route vers le Lac de Maine est venteuse, mais les vues claires récompensent l'effort. Avec la tombée de la nuit plus tôt, le circuit se termine sous les lumières atmosphériques du Quai des Carmes."
           },
           "stops": [
             {
@@ -1594,7 +1646,7 @@
                 "hu": "Viseljen kesztyűt, hogy ne fagyjanak rá ujjai a kormányra.",
                 "ro": "Purtați mănuși pentru a nu vă îngheța degetele pe ghidon.",
                 "en": "Wear gloves to keep your fingers from freezing on the handlebars.",
-                "fr": "Portez des gants pour éviter que vos doigts ne gèlent sur le guidon."
+                "fr": "Portez des gants pour éviter d'avoir les doigts gelés sur le guidon."
               }
             },
             {
@@ -1604,7 +1656,7 @@
                 "hu": "Használja ki az időt a végtagok átmelegítésére.",
                 "ro": "Folosiți timpul aici pentru a vă dezmorți membrele.",
                 "en": "Use your time here to warm up your extremities.",
-                "fr": "Profitez de ce temps ici pour réchauffer vos extrémités."
+                "fr": "Profitez de votre pause pour réchauffer vos extrémités."
               }
             },
             {
@@ -1614,7 +1666,7 @@
                 "hu": "A fagy miatt az utak helyenként csúszósak lehetnek.",
                 "ro": "Potecile pot fi alunecoase pe alocuri din cauza înghețului.",
                 "en": "Paths may be icy in patches during frosty weather.",
-                "fr": "Les sentiers peuvent être verglacés par plaques par temps de gel."
+                "fr": "Les chemins peuvent être verglacés par endroits par temps de gel."
               }
             },
             {
@@ -1624,7 +1676,7 @@
                 "hu": "A folyóparti szél felerősíti a hidegérzetet.",
                 "ro": "Vântul de pe malul râului accentuează senzația de frig.",
                 "en": "River winds will make the air feel much colder.",
-                "fr": "Le vent de la rivière rendra l'air beaucoup plus froid."
+                "fr": "Les vents du fleuve rendent l'air beaucoup plus froid."
               }
             },
             {
@@ -1634,7 +1686,7 @@
                 "hu": "Gyönyörű tiszta téli levegő, de gyakran nagyon szeles.",
                 "ro": "Aer curat de iarnă, dar adesea bate vântul foarte tare.",
                 "en": "Beautiful clear winter air, but often very windy here.",
-                "fr": "Bel air d'hiver pur, mais souvent très venteux ici."
+                "fr": "Bel air d'hiver clair, mais souvent très venté ici."
               }
             },
             {
@@ -1644,7 +1696,7 @@
                 "hu": "Ügyeljen a működő világításra a visszaúton.",
                 "ro": "Asigurați-vă că aveți luminile aprinse la întoarcere.",
                 "en": "Ensure your lights are working for the return trip.",
-                "fr": "Assurez-vous que vos lumières fonctionnent pour le trajet de retour."
+                "fr": "Vérifiez que vos lumières fonctionnent pour le trajet de retour."
               }
             }
           ],
@@ -1678,11 +1730,11 @@
               "Avoid shaded forest paths where ice may linger longer."
             ],
             "fr": [
-              "Un tour de cou protège votre visage du vent froid et mordant.",
-              "Vérifiez la pression des pneus ; elle baisse légèrement par temps froid.",
-              "Le soleil se couche tôt ; essayez de finir votre balade vers 17h30.",
-              "Apportez un thermos de thé chaud pour vos temps de repos.",
-              "Évitez les sentiers forestiers ombragés où le givre peut persister plus longtemps."
+              "Un tour de cou protège votre visage du vent froid mordant.",
+              "Contrôlez la pression des pneus ; elle baisse légèrement par temps froid.",
+              "Le coucher du soleil est tôt ; prévoyez de finir votre sortie avant 17h30.",
+              "Apportez un thermos de thé chaud pour vos pauses.",
+              "Évitez les sentiers forestiers ombragés où la glace peut persister plus longtemps."
             ]
           }
         }
@@ -1701,7 +1753,8 @@
             "de": "Château d'Angers",
             "hu": "Angers-i vár",
             "ro": "Castelul Angers",
-            "en": "Angers Castle"
+            "en": "Angers Castle",
+            "fr": "Château d'Angers"
           },
           "coords": [
             -0.5601,
@@ -1717,7 +1770,7 @@
             "hu": "Parkoljon a 'Château' parkolóházban közvetlenül szemben.",
             "ro": "Parcați în parcarea 'Château' situată chiar vizavi.",
             "en": "Park in the 'Château' parking garage directly opposite.",
-            "fr": "Garez-vous au parking « Château » juste en face."
+            "fr": "Garez-vous dans le parking 'Château' juste en face."
           }
         },
         {
@@ -1725,7 +1778,8 @@
             "de": "Terra Botanica",
             "hu": "Terra Botanica",
             "ro": "Terra Botanica",
-            "en": "Terra Botanica"
+            "en": "Terra Botanica",
+            "fr": "Terra Botanica"
           },
           "coords": [
             -0.5655,
@@ -1741,7 +1795,7 @@
             "hu": "Európa első tematikus parkja, amely kizárólag a növényeknek szentelt.",
             "ro": "Primul parc tematic din Europa dedicat exclusiv plantelor.",
             "en": "Europe's first theme park dedicated entirely to plants.",
-            "fr": "Premier parc à thème d'Europe entièrement dédié au végétal."
+            "fr": "Le premier parc à thème d'Europe entièrement dédié aux plantes."
           }
         },
         {
@@ -1749,7 +1803,8 @@
             "de": "Béhuard (Kleines Dorf)",
             "hu": "Béhuard (Kisfalu)",
             "ro": "Béhuard (Sat mic)",
-            "en": "Béhuard (Small Village)"
+            "en": "Béhuard (Small Village)",
+            "fr": "Béhuard (petit village)"
           },
           "coords": [
             -0.6435,
@@ -1765,7 +1820,7 @@
             "hu": "Bájos falu a Loire folyó egyik szigetén.",
             "ro": "Un sat fermecător pe o insulă în mijlocul Loarei.",
             "en": "A charming village located on an island in the Loire river.",
-            "fr": "Un charmant village situé sur une île de la Loire."
+            "fr": "Un village charmant situé sur une île de la Loire."
           }
         },
         {
@@ -1773,7 +1828,8 @@
             "de": "Château de Brissac",
             "hu": "Brissac-kastély",
             "ro": "Castelul Brissac",
-            "en": "Château de Brissac"
+            "en": "Château de Brissac",
+            "fr": "Château de Brissac"
           },
           "coords": [
             -0.4485,
@@ -1789,7 +1845,7 @@
             "hu": "Franciaország legmagasabb kastélya hét emelettel.",
             "ro": "Cel mai înalt castel din Franța, având șapte etaje.",
             "en": "The tallest castle in France, featuring seven stories.",
-            "fr": "Le plus haut château de France, comptant sept étages."
+            "fr": "Le plus haut château de France, comportant sept étages."
           }
         },
         {
@@ -1797,7 +1853,8 @@
             "de": "Place du Ralliement",
             "hu": "Place du Ralliement",
             "ro": "Place du Ralliement",
-            "en": "Place du Ralliement"
+            "en": "Place du Ralliement",
+            "fr": "Place du Ralliement"
           },
           "coords": [
             -0.5508,
@@ -1813,7 +1870,7 @@
             "hu": "Tökéletes vacsorához a nyüzsgő belvárosban.",
             "ro": "Perfect pentru o cină în centrul animat al orașului.",
             "en": "Perfect for a dinner in the bustling city center.",
-            "fr": "Parfait pour un dîner dans le centre-ville animé."
+            "fr": "Parfaite pour un dîner au cœur du centre-ville animé."
           }
         }
       ],
@@ -1822,7 +1879,7 @@
         "hu": "Autóval nemcsak Angers szívét, hanem a környék pazar látnivalóit is felfedezheti. Kezdjen a belvárosban a masszív várnál, majd guruljon el a Terra Botanicához, amely egy egyedülálló növényi élménypark a város északi részén.\n\nDélben az út kivezeti Önt a városból az idilli Loire-völgybe. Béhuard, egy szigeten fekvő falu, középkori bájt és csendet kínál a turistaáradattól távol.\n\nA délután a 'Loire-völgy óriásáé', a Brissac-kastélyé. Franciaország legmagasabb kastélya barokk építészetével és hatalmas parkjával nyűgözi le a látogatókat, amely tökéletes egy sétához.\n\nEste térjen vissza Angers-be, és parkoljon le a Place du Ralliement közelében. A kivilágított belváros kiváló éttermeket kínál, ahol helyi finomságokkal zárhatja a napot.",
         "ro": "Cu mașina, veți explora nu doar inima orașului Angers, ci și împrejurimile superbe. Începeți în centrul orașului la castelul masiv, înainte de a conduce spre Terra Botanica, un parc tematic unic dedicat plantelor în nordul orașului.\n\nLa prânz, drumul vă scoate din oraș spre idilica Vale a Loarei. Béhuard, un sat situat pe o insulă, oferă farmec medieval și liniște departe de fluxurile mari de turiști.\n\nDupă-amiaza aparține 'Gigantului Văii Loarei', Castelul Brissac. Cel mai înalt castel din Franța impresionează prin arhitectura sa barocă și parcurile vaste care invită la plimbare.\n\nSeara, reveniți în Angers și parcați lângă Place du Ralliement. Centrul luminat oferă o selecție excelentă de restaurante pentru a încheia ziua cu gastronomie locală de calitate.",
         "en": "By car, you can explore not only the heart of Angers but also its magnificent surroundings. Start in the city center at the massive castle before driving to Terra Botanica, a unique plant-themed adventure park in the north.\n\nAt midday, head out of the city into the idyllic Loire Valley. Béhuard, a village situated on an island, offers medieval charm and tranquility away from the tourist crowds.\n\nThe afternoon is dedicated to the 'Giant of the Loire Valley,' the Château de Brissac. The tallest castle in France impresses with its Baroque architecture and vast grounds perfect for a stroll.\n\nReturn to Angers in the evening and park near Place du Ralliement. The illuminated city center provides an excellent choice of restaurants to enjoy local gastronomy at the end of the day.",
-        "fr": "En voiture, vous pouvez explorer non seulement le cœur d'Angers mais aussi ses magnifiques environs. Commencez au centre-ville par le château massif avant de vous rendre à Terra Botanica, un parc d'aventure unique sur le thème du végétal, au nord.\n\nÀ midi, quittez la ville pour l'idyllique vallée de la Loire. Béhuard, un village situé sur une île, offre charme médiéval et tranquillité, loin de la foule touristique.\n\nL'après-midi est dédié au « Géant du Val de Loire », le Château de Brissac. Le plus haut château de France impressionne par son architecture baroque et son vaste domaine parfait pour une promenade.\n\nRetournez à Angers en soirée et garez-vous près de la Place du Ralliement. Le centre-ville illuminé offre un excellent choix de restaurants pour savourer la gastronomie locale en fin de journée."
+        "fr": "En voiture, vous pouvez explorer non seulement le cœur d'Angers mais aussi ses magnifiques environs. Commencez au centre-ville par le château imposant avant de conduire jusqu'à Terra Botanica, un parc d'attractions unique dédié aux plantes au nord.\n\nÀ midi, sortez de la ville vers l'idyllique vallée de la Loire. Béhuard, un village situé sur une île, offre charme médiéval et tranquillité, loin des foules touristiques.\n\nL'après-midi est consacré au « Géant de la Vallée de la Loire », le Château de Brissac. Le plus haut château de France impressionne par son architecture baroque et ses vastes jardins, parfaits pour une promenade.\n\nRetournez à Angers en soirée et garez-vous près de la Place du Ralliement. Le centre-ville illuminé offre un excellent choix de restaurants pour déguster la gastronomie locale en fin de journée."
       },
       "gastro_picks": {
         "de": [
@@ -2020,9 +2077,9 @@
           "Avoid rush hour traffic near the Maine river bridges."
         ],
         "fr": [
-          "Angers dispose de zones à faibles émissions ; assurez-vous que votre voiture a une vignette Crit'Air.",
-          "Privilégiez les parkings couverts au centre, car le stationnement en rue est limité.",
-          "Conduire à travers la vallée de la Loire offre de superbes routes panoramiques.",
+          "Angers dispose de zones à faibles émissions ; assurez-vous que votre véhicule possède une vignette Crit'Air.",
+          "Privilégiez les parkings couverts au centre, le stationnement dans la rue étant limité.",
+          "Conduire dans la vallée de la Loire offre de splendides routes panoramiques.",
           "Réservez votre visite du Château de Brissac à l'avance.",
           "Évitez les heures de pointe près des ponts sur la Maine."
         ]
@@ -2033,7 +2090,8 @@
             "de": "Mit dem Auto erkunden Sie nicht nur das Herz von Angers, sondern auch die prachtvolle Umgebung. Beginnen Sie im Stadtzentrum beim massiven Schloss, bevor Sie zum Terra Botanica fahren, einem einzigartigen Pflanzen-Erlebnispark im Norden der Stadt.\n\nMittags führt Sie die Fahrt aus der Stadt hinaus in das idyllische Loire-Tal. Béhuard, ein auf einer Insel gelegenes Dorf, bietet mittelalterlichen Charme und Ruhe abseits der Touristenströme.\n\nDer Nachmittag gehört dem 'Riesen des Loire-Tals', dem Château de Brissac. Das höchste Schloss Frankreichs beeindruckt durch seine barocke Architektur und die weiten Parkanlagen, die zum Spaziergang einladen.\n\nKehren Sie am Abend nach Angers zurück und parken Sie nahe der Place du Ralliement. Das beleuchtete Stadtzentrum bietet eine hervorragende Auswahl an Restaurants, um den Tag bei lokaler Gastronomie Revue passieren zu lassen.",
             "hu": "Autóval nemcsak Angers szívét, hanem a környék pazar látnivalóit is felfedezheti. Kezdjen a belvárosban a masszív várnál, majd guruljon el a Terra Botanicához, amely egy egyedülálló növényi élménypark a város északi részén.\n\nDélben az út kivezeti Önt a városból az idilli Loire-völgybe. Béhuard, egy szigeten fekvő falu, középkori bájt és csendet kínál a turistaáradattól távol.\n\nA délután a 'Loire-völgy óriásáé', a Brissac-kastélyé. Franciaország legmagasabb kastélya barokk építészetével és hatalmas parkjával nyűgözi le a látogatókat, amely tökéletes egy sétához.\n\nEste térjen vissza Angers-be, és parkoljon le a Place du Ralliement közelében. A kivilágított belváros kiváló éttermeket kínál, ahol helyi finomságokkal zárhatja a napot.",
             "ro": "Cu mașina, veți explora nu doar inima orașului Angers, ci și împrejurimile superbe. Începeți în centrul orașului la castelul masiv, înainte de a conduce spre Terra Botanica, un parc tematic unic dedicat plantelor în nordul orașului.\n\nLa prânz, drumul vă scoate din oraș spre idilica Vale a Loarei. Béhuard, un sat situat pe o insulă, oferă farmec medieval și liniște departe de fluxurile mari de turiști.\n\nDupă-amiaza aparține 'Gigantului Văii Loarei', Castelul Brissac. Cel mai înalt castel din Franța impresionează prin arhitectura sa barocă și parcurile vaste care invită la plimbare.\n\nSeara, reveniți în Angers și parcați lângă Place du Ralliement. Centrul luminat oferă o selecție excelentă de restaurante pentru a încheia ziua cu gastronomie locală de calitate.",
-            "en": "By car, you can explore not only the heart of Angers but also its magnificent surroundings. Start in the city center at the massive castle before driving to Terra Botanica, a unique plant-themed adventure park in the north.\n\nAt midday, head out of the city into the idyllic Loire Valley. Béhuard, a village situated on an island, offers medieval charm and tranquility away from the tourist crowds.\n\nThe afternoon is dedicated to the 'Giant of the Loire Valley,' the Château de Brissac. The tallest castle in France impresses with its Baroque architecture and vast grounds perfect for a stroll.\n\nReturn to Angers in the evening and park near Place du Ralliement. The illuminated city center provides an excellent choice of restaurants to enjoy local gastronomy at the end of the day."
+            "en": "By car, you can explore not only the heart of Angers but also its magnificent surroundings. Start in the city center at the massive castle before driving to Terra Botanica, a unique plant-themed adventure park in the north.\n\nAt midday, head out of the city into the idyllic Loire Valley. Béhuard, a village situated on an island, offers medieval charm and tranquility away from the tourist crowds.\n\nThe afternoon is dedicated to the 'Giant of the Loire Valley,' the Château de Brissac. The tallest castle in France impresses with its Baroque architecture and vast grounds perfect for a stroll.\n\nReturn to Angers in the evening and park near Place du Ralliement. The illuminated city center provides an excellent choice of restaurants to enjoy local gastronomy at the end of the day.",
+            "fr": "En voiture, vous pouvez explorer non seulement le cœur d'Angers mais aussi ses magnifiques environs. Commencez au centre-ville par le château imposant avant de conduire jusqu'à Terra Botanica, un parc d'attractions unique dédié aux plantes au nord.\n\nÀ midi, sortez de la ville vers l'idyllique vallée de la Loire. Béhuard, un village situé sur une île, offre charme médiéval et tranquillité, loin des foules touristiques.\n\nL'après-midi est consacré au « Géant de la Vallée de la Loire », le Château de Brissac. Le plus haut château de France impressionne par son architecture baroque et ses vastes jardins, parfaits pour une promenade.\n\nRetournez à Angers en soirée et garez-vous près de la Place du Ralliement. Le centre-ville illuminé offre un excellent choix de restaurants pour déguster la gastronomie locale en fin de journée."
           },
           "stops": [
             {
@@ -2041,13 +2099,15 @@
                 "de": "Château d'Angers",
                 "hu": "Angers-i vár",
                 "ro": "Castelul Angers",
-                "en": "Angers Castle"
+                "en": "Angers Castle",
+                "fr": "Château d'Angers"
               },
               "tip_5lang": {
                 "de": "Parken Sie im Parkhaus 'Château' direkt gegenüber.",
                 "hu": "Parkoljon a 'Château' parkolóházban közvetlenül szemben.",
                 "ro": "Parcați în parcarea 'Château' situată chiar vizavi.",
-                "en": "Park in the 'Château' parking garage directly opposite."
+                "en": "Park in the 'Château' parking garage directly opposite.",
+                "fr": "Garez-vous dans le parking 'Château' juste en face."
               }
             },
             {
@@ -2055,13 +2115,15 @@
                 "de": "Terra Botanica",
                 "hu": "Terra Botanica",
                 "ro": "Terra Botanica",
-                "en": "Terra Botanica"
+                "en": "Terra Botanica",
+                "fr": "Terra Botanica"
               },
               "tip_5lang": {
                 "de": "Der erste Themenpark Europas, der ausschließlich Pflanzen gewidmet ist.",
                 "hu": "Európa első tematikus parkja, amely kizárólag a növényeknek szentelt.",
                 "ro": "Primul parc tematic din Europa dedicat exclusiv plantelor.",
-                "en": "Europe's first theme park dedicated entirely to plants."
+                "en": "Europe's first theme park dedicated entirely to plants.",
+                "fr": "Le premier parc à thème d'Europe entièrement dédié aux plantes."
               }
             },
             {
@@ -2069,13 +2131,15 @@
                 "de": "Béhuard (Kleines Dorf)",
                 "hu": "Béhuard (Kisfalu)",
                 "ro": "Béhuard (Sat mic)",
-                "en": "Béhuard (Small Village)"
+                "en": "Béhuard (Small Village)",
+                "fr": "Béhuard (petit village)"
               },
               "tip_5lang": {
                 "de": "Ein charmantes Dorf auf einer Insel in der Loire.",
                 "hu": "Bájos falu a Loire folyó egyik szigetén.",
                 "ro": "Un sat fermecător pe o insulă în mijlocul Loarei.",
-                "en": "A charming village located on an island in the Loire river."
+                "en": "A charming village located on an island in the Loire river.",
+                "fr": "Un village charmant situé sur une île de la Loire."
               }
             },
             {
@@ -2083,13 +2147,15 @@
                 "de": "Château de Brissac",
                 "hu": "Brissac-kastély",
                 "ro": "Castelul Brissac",
-                "en": "Château de Brissac"
+                "en": "Château de Brissac",
+                "fr": "Château de Brissac"
               },
               "tip_5lang": {
                 "de": "Das höchste Schloss Frankreichs mit sieben Stockwerken.",
                 "hu": "Franciaország legmagasabb kastélya hét emelettel.",
                 "ro": "Cel mai înalt castel din Franța, având șapte etaje.",
-                "en": "The tallest castle in France, featuring seven stories."
+                "en": "The tallest castle in France, featuring seven stories.",
+                "fr": "Le plus haut château de France, comportant sept étages."
               }
             },
             {
@@ -2097,13 +2163,15 @@
                 "de": "Place du Ralliement",
                 "hu": "Place du Ralliement",
                 "ro": "Place du Ralliement",
-                "en": "Place du Ralliement"
+                "en": "Place du Ralliement",
+                "fr": "Place du Ralliement"
               },
               "tip_5lang": {
                 "de": "Perfekt für ein Abendessen in der belebten Innenstadt.",
                 "hu": "Tökéletes vacsorához a nyüzsgő belvárosban.",
                 "ro": "Perfect pentru o cină în centrul animat al orașului.",
-                "en": "Perfect for a dinner in the bustling city center."
+                "en": "Perfect for a dinner in the bustling city center.",
+                "fr": "Parfait pour un dîner dans le centre-ville animé."
               }
             }
           ],
@@ -2269,6 +2337,13 @@
               "Driving through the Loire Valley offers beautiful scenic routes.",
               "Book your tour of Château de Brissac in advance.",
               "Avoid rush hour traffic near the Maine river bridges."
+            ],
+            "fr": [
+              "Angers dispose de zones à faibles émissions ; assurez-vous que votre voiture a une vignette Crit'Air.",
+              "Privilégiez les parkings souterrains au centre, le stationnement dans la rue étant limité.",
+              "Conduire à travers la vallée de la Loire offre de magnifiques itinéraires panoramiques.",
+              "Réservez votre visite du Château de Brissac à l'avance.",
+              "Évitez les heures de pointe près des ponts sur la Maine."
             ]
           }
         },
@@ -2278,7 +2353,7 @@
             "hu": "Az út szárazon indul a vár közeli parkolóházban. Délben a Terra Botanica felé vesszük az irányt, ahol az üvegházak tökéletes védelmet nyújtanak. A ködös Béhuard felé vezető út különösen hangulatos esőben. Délután a Brissac-kastélyt látogatjuk meg, majd a napot a Place du Ralliement-n zárjuk egy vacsorával.",
             "ro": "Călătoria începe la uscat într-o parcare supraetajată lângă castel. La prânz, ruta duce spre Terra Botanica, unde serele oferă protecție perfectă. Drumul spre Béhuard este atmosferic în ceață. După-amiaza vizitați Castelul Brissac, înainte de a încheia ziua cu o cină în Place du Ralliement.",
             "en": "The trip starts dry in a parking garage near the castle. Midday leads to Terra Botanica, where greenhouses offer perfect shelter. The drive to charming Béhuard is especially atmospheric in the mist. In the afternoon, visit Brissac Castle before ending the day with dinner at Place du Ralliement.",
-            "fr": "Le voyage commence au sec dans un parking couvert près du château. Midi mène à Terra Botanica, où les serres offrent un abri parfait. Le trajet vers le charmant village de Béhuard est particulièrement atmosphérique dans la brume. L'après-midi, visitez le château de Brissac avant de terminer la journée par un dîner Place du Ralliement."
+            "fr": "Le trajet commence à l'abri dans un parking près du château. En milieu de journée, direction Terra Botanica, où les serres offrent un abri parfait. La route vers le charmant Béhuard est particulièrement atmosphérique dans la brume. L'après-midi, visitez le château de Brissac avant de terminer la journée par un dîner à la Place du Ralliement."
           },
           "stops": [
             {
@@ -2288,7 +2363,7 @@
                 "hu": "Használja a 'Parking du Château' garázst a száraz kiszálláshoz.",
                 "ro": "Folosiți parcarea 'Parking du Château' pentru a coborî la uscat.",
                 "en": "Use 'Parking du Château' to exit the car while staying dry.",
-                "fr": "Utilisez le « Parking du Château » pour sortir de voiture tout en restant au sec."
+                "fr": "Utilisez le « Parking du Château » pour quitter la voiture tout en restant à l'abri."
               }
             },
             {
@@ -2308,7 +2383,7 @@
                 "hu": "A szűk utcák esőben gyakran néptelenek és misztikusak.",
                 "ro": "Străduțele înguste sunt adesea pustii și mistice pe ploaie.",
                 "en": "The narrow streets are often deserted and mystical in the rain.",
-                "fr": "Les rues étroites sont souvent désertes et mystiques sous la pluie."
+                "fr": "Les ruelles étroites sont souvent désertes et mystiques sous la pluie."
               }
             },
             {
@@ -2318,7 +2393,7 @@
                 "hu": "A pompás belső terek a borús napok fénypontjai.",
                 "ro": "Interioarele magnifice sunt punctul culminant al zilelor ploioase.",
                 "en": "The magnificent interiors are a highlight for rainy days.",
-                "fr": "Les magnifiques intérieurs sont un point fort pour les jours de pluie."
+                "fr": "Les intérieurs magnifiques sont un point fort pour les jours de pluie."
               }
             },
             {
@@ -2328,7 +2403,7 @@
                 "hu": "Válasszon olyan éttermet, amely közel van a parkolóhoz.",
                 "ro": "Alegeți un restaurant aproape de parcare.",
                 "en": "Choose a restaurant with easy access from the nearby parking.",
-                "fr": "Choisissez un restaurant facile d'accès depuis le parking voisin."
+                "fr": "Choisissez un restaurant facilement accessible depuis le parking à proximité."
               }
             }
           ],
@@ -2362,11 +2437,11 @@
               "Keep an umbrella handy in the driver's side door pocket."
             ],
             "fr": [
-              "Attention à l'aquaplaning sur les routes rurales vers Brissac.",
-              "Utilisez les parkings souterrains au centre-ville pour un confort maximum.",
-              "Vérifiez vos balais d'essuie-glace avant de partir.",
+              "Attention au phénomène d'aquaplanage sur les routes rurales vers Brissac.",
+              "Utilisez un parking souterrain au centre-ville pour un confort maximal.",
+              "Vérifiez vos balais d'essuie-glace avant de prendre la route.",
               "Terra Botanica propose de nombreuses attractions intérieures pour les familles.",
-              "Gardez un parapluie à portée de main dans le bac de porte conducteur."
+              "Gardez un parapluie à portée de main dans la pochette de la porte côté conducteur."
             ]
           }
         },
@@ -2376,7 +2451,7 @@
             "hu": "Tiszta téli nap autóval. Délelőtt a várat látogatjuk meg, melynek falai csillognak a fagyban. A Terra Botanica felé vezető út téli tájakon át visz. Béhuard különösen békés téli álmát aludva. A délutánt a Brissac-kastély melegében töltjük, majd visszatérünk a kivilágított Place du Ralliement-ra.",
             "ro": "O zi senină de iarnă cu mașina. Dimineața vizitați castelul, ale cărui ziduri strălucesc în ger. Drumul spre Terra Botanica trece prin peisaje hibernale. Béhuard pare extrem de liniștit în somnul de iarnă. După-amiaza o petreceți în căldura Castelului Brissac, înainte de a reveni în Place du Ralliement luminată.",
             "en": "A clear winter day by car. In the morning, visit the castle, its stone walls glistening in the frost. The drive to Terra Botanica passes through wintry landscapes. Béhuard feels exceptionally peaceful in its winter sleep. Spend the afternoon in the warmth of Brissac Castle before returning to the lit-up Place du Ralliement.",
-            "fr": "Une journée d'hiver claire en voiture. Le matin, visitez le château, ses murs de pierre scintillant sous le gel. Le trajet vers Terra Botanica traverse des paysages hivernaux. Béhuard semble exceptionnellement paisible dans son sommeil hivernal. Passez l'après-midi au chaud au château de Brissac avant de retrouver l'animation lumineuse de la Place du Ralliement."
+            "fr": "Une journée d'hiver claire en voiture. Le matin, visitez le château, ses murs de pierre scintillant sous le givre. La route vers Terra Botanica traverse des paysages hivernaux. Béhuard paraît exceptionnellement paisible dans son sommeil hivernal. Passez l'après-midi au chaud dans le château de Brissac avant de revenir à la Place du Ralliement illuminée."
           },
           "stops": [
             {
@@ -2396,7 +2471,7 @@
                 "hu": "Előzetesen ellenőrizze a téli nyitvatartást.",
                 "ro": "Verificați programul de iarnă în prealabil.",
                 "en": "Check winter operating hours in advance.",
-                "fr": "Vérifiez les horaires d'ouverture hivernaux à l'avance."
+                "fr": "Vérifiez les horaires d'hiver à l'avance."
               }
             },
             {
@@ -2406,7 +2481,7 @@
                 "hu": "Élvezze a szinte üres falu csendjét.",
                 "ro": "Bucurați-vă de liniștea satului aproape pustiu.",
                 "en": "Enjoy the silence of the almost empty village.",
-                "fr": "Profitez du silence de ce village presque vide."
+                "fr": "Profitez du silence du village presque vide."
               }
             },
             {
@@ -2416,7 +2491,7 @@
                 "hu": "A kastélytúrák kellemes menekülést kínálnak a hideg elől.",
                 "ro": "Tururile castelului oferă o evadare binevenită din frig.",
                 "en": "Castle tours provide a welcome escape from the outdoor cold.",
-                "fr": "Les visites de château offrent une échappatoire bienvenue au froid extérieur."
+                "fr": "Les visites du château offrent une bienvenue échappatoire au froid extérieur."
               }
             },
             {
@@ -2426,7 +2501,7 @@
                 "hu": "A város esti fényei télen különösen szépek.",
                 "ro": "Luminile de seară ale orașului sunt superbe iarna.",
                 "en": "The city's evening lights are particularly beautiful in winter.",
-                "fr": "Les lumières du soir en ville sont particulièrement belles en hiver."
+                "fr": "Les illuminations nocturnes de la ville sont particulièrement belles en hiver."
               }
             }
           ],
@@ -2460,11 +2535,11 @@
               "Plan your return journey before it gets fully dark."
             ],
             "fr": [
-              "Gardez un grattoir et un spray dégivrant dans la voiture.",
-              "Attention au verglas sur les sections de route près de la rivière.",
-              "Le chauffage de la voiture offre un confort entre les étapes de visite.",
+              "Gardez un grattoir à glace et un spray dégivrant dans la voiture.",
+              "Attention au verglas sur les sections proches de la rivière.",
+              "Le chauffage de la voiture apporte du confort entre les étapes touristiques.",
               "Brissac est souvent bien moins fréquenté pendant les mois d'hiver.",
-              "Planifiez votre voyage de retour avant qu'il ne fasse nuit noire."
+              "Planifiez votre retour avant qu'il ne fasse totalement nuit."
             ]
           }
         }
@@ -2483,7 +2558,8 @@
             "de": "Gare d'Angers-Saint-Laud",
             "hu": "Angers-Saint-Laud vasútállomás",
             "ro": "Gara Angers-Saint-Laud",
-            "en": "Angers-Saint-Laud Station"
+            "en": "Angers-Saint-Laud Station",
+            "fr": "Gare d'Angers-Saint-Laud"
           },
           "coords": [
             -0.5565,
@@ -2499,7 +2575,7 @@
             "hu": "A villamosok és buszok központi csomópontja.",
             "ro": "Principalul nod pentru tramvaie și autobuze.",
             "en": "The main hub for trams and buses in the city.",
-            "fr": "Le hub principal pour les trams et bus de la ville."
+            "fr": "Le principal nœud pour les trams et les bus de la ville."
           }
         },
         {
@@ -2507,7 +2583,8 @@
             "de": "Château d'Angers",
             "hu": "Angers-i vár",
             "ro": "Castelul Angers",
-            "en": "Angers Castle"
+            "en": "Angers Castle",
+            "fr": "Château d'Angers"
           },
           "coords": [
             -0.5601,
@@ -2523,7 +2600,7 @@
             "hu": "'Château' megálló (A villamosvonal).",
             "ro": "Stația 'Château' (linia de tramvai A).",
             "en": "'Château' stop (Tram line A).",
-            "fr": "Arrêt « Château » (Tram ligne A)."
+            "fr": "Arrêt « Château » (ligne A du tram)."
           }
         },
         {
@@ -2531,7 +2608,8 @@
             "de": "Musée Jean-Lurçat",
             "hu": "Jean-Lurçat Múzeum",
             "ro": "Muzeul Jean-Lurçat",
-            "en": "Jean-Lurçat Museum"
+            "en": "Jean-Lurçat Museum",
+            "fr": "Musée Jean-Lurçat"
           },
           "coords": [
             -0.5592,
@@ -2547,7 +2625,7 @@
             "hu": "Használja a 3-as buszt a vár felől.",
             "ro": "Folosiți autobuzul linia 3 de la castel.",
             "en": "Use bus line 3 from the castle area.",
-            "fr": "Utilisez la ligne de bus 3 depuis la zone du château."
+            "fr": "Prenez la ligne de bus 3 depuis le secteur du château."
           }
         },
         {
@@ -2555,7 +2633,8 @@
             "de": "Terra Botanica",
             "hu": "Terra Botanica",
             "ro": "Terra Botanica",
-            "en": "Terra Botanica"
+            "en": "Terra Botanica",
+            "fr": "Terra Botanica"
           },
           "coords": [
             -0.5655,
@@ -2579,7 +2658,8 @@
             "de": "Place du Ralliement",
             "hu": "Place du Ralliement",
             "ro": "Place du Ralliement",
-            "en": "Place du Ralliement"
+            "en": "Place du Ralliement",
+            "fr": "Place du Ralliement"
           },
           "coords": [
             -0.5508,
@@ -2604,7 +2684,7 @@
         "hu": "Használja Angers kiváló villamoshálózatát a stresszmentes városnézéshez. Kezdjen a Saint-Laud vasútállomáson, és menjen az A vonallal közvetlenül a várhoz. A modern villamosról nagyszerű kilátás nyílik a forgalmas sugárutakra.\n\nA várlátogatás után busszal keljen át a Maine folyón a Jean-Lurçat Múzeumhoz. A folyó túloldalán fekvő Doutre negyed csendesebb, és a város autentikusabb, kevésbé turisztikai oldalát mutatja meg.\n\nA tömegközlekedők számára kiemelt élmény a villamosozás az A vonal végállomásáig, a Terra Botanicáig. A park tökéletesen megközelíthető, és hatalmas zöld területet kínál a felfedezésre és a kikapcsolódásra.\n\nVillamossal térjen vissza a Place du Ralliement térre. Itt, a lüktető központban találkoznak a vonalak, és egy ital mellett figyelheti a város pezsgését az egyik kávézó teraszáról.",
         "ro": "Utilizați rețeaua excelentă de tramvai din Angers pentru o zi fără stres. Începeți de la gara Saint-Laud și luați linia A direct până la castel. Tramvaiul modern oferă o vedere excelentă asupra bulevardelor animate.\n\nDupă vizitarea castelului, luați autobuzul peste râul Maine până la Muzeul Jean-Lurçat. Cartierul Doutre de pe cealaltă parte a râului este mai liniștit și arată o latură autentică, mai puțin turistică a orașului.\n\nUn punct culminant pentru utilizatorii de transport public este călătoria cu tramvaiul până la capătul liniei, la Terra Botanica. Parcul este perfect conectat și oferă un spațiu verde imens pentru explorare și relaxare.\n\nReveniți cu tramvaiul în Place du Ralliement. Aici, în centrul vibrant, liniile se intersectează, iar dumneavoastră puteți încheia ziua cu o băutură la una dintre numeroasele cafenele, privind forfota orașului.",
         "en": "Use Angers' excellent tram network for a stress-free day of sightseeing. Start at Saint-Laud station and take line A directly to the castle. The modern tram offers great views of the busy boulevards along the way.\n\nAfter visiting the castle, take a bus across the Maine river to the Jean-Lurçat Museum. The Doutre district on the other side of the river is quieter and shows an authentic, less touristy side of the city.\n\nA highlight for transit users is the tram ride to the terminus at Terra Botanica. The park is perfectly connected and offers a vast green space for discovery and relaxation.\n\nReturn by tram to Place du Ralliement. Here, in the pulsing center, the lines intersect, and you can end your day with a drink at one of the many cafes, watching the world go by.",
-        "fr": "Utilisez l'excellent réseau de tramway d'Angers pour une journée de visites sans stress. Commencez à la gare Saint-Laud et prenez la ligne A directement jusqu'au château. Le tramway moderne offre de belles vues sur les boulevards animés en chemin.\n\nAprès avoir visité le château, prenez un bus pour traverser la Maine vers le Musée Jean-Lurçat. Le quartier de la Doutre, sur l'autre rive, est plus calme et montre un côté authentique et moins touristique de la ville.\n\nUn moment fort pour les usagers des transports est le trajet en tram jusqu'au terminus de Terra Botanica. Le parc est parfaitement desservi et offre un vaste espace vert de découverte et de détente.\n\nRevenez en tram à la Place du Ralliement. Ici, dans le centre vibrant, les lignes s'entrecroisent, et vous pouvez finir votre journée avec un verre à l'un des nombreux cafés, en observant le passage."
+        "fr": "Utilisez l'excellent réseau de trams d'Angers pour une journée de visite sans stress. Commencez à la gare Saint-Laud et prenez la ligne A directement jusqu'au château. Le tram moderne offre de belles vues sur les boulevards animés en chemin.\n\nAprès la visite du château, prenez un bus pour traverser la Maine jusqu'au musée Jean-Lurçat. Le quartier de la Doutre de l'autre côté de la rivière est plus calme et montre un visage authentique et moins touristique de la ville.\n\nUn point fort pour les usagers des transports est le trajet en tram jusqu'au terminus de Terra Botanica. Le parc est parfaitement connecté et offre un vaste espace vert pour la découverte et la détente.\n\nRetournez en tram jusqu'à la Place du Ralliement. Ici, au centre vibrant, les lignes se croisent et vous pouvez terminer votre journée par un verre dans l'un des nombreux cafés, en regardant le monde passer."
       },
       "gastro_picks": {
         "de": [
@@ -2802,11 +2882,11 @@
           "Stops are clearly announced inside the trams."
         ],
         "fr": [
-          "Achetez un pass journée pour le réseau de transport IRIGO.",
+          "Achetez un pass journée pour le réseau de transports IRIGO.",
           "La ligne A du tram circule toutes les 6 à 10 minutes.",
-          "N'oubliez pas de valider votre ticket en montant.",
+          "N'oubliez pas de composter votre ticket en montant à bord.",
           "Téléchargez l'application « Irigo » pour les horaires en temps réel.",
-          "Les arrêts sont clairement annoncés à l'intérieur des tramways."
+          "Les arrêts sont clairement annoncés à l'intérieur des trams."
         ]
       },
       "variants": {
@@ -2815,7 +2895,8 @@
             "de": "Nutzen Sie das hervorragende Straßenbahnnetz von Angers für einen stressfreien Tag. Starten Sie am Bahnhof Saint-Laud und nehmen Sie die Linie A direkt zum Schloss. Die moderne Tram bietet einen tollen Blick auf die belebten Boulevards.\n\nNach der Schlossbesichtigung bringt Sie der Bus über die Maine zum Musée Jean-Lurçat. Das Viertel Doutre auf der anderen Flussseite ist ruhiger und zeigt eine authentische, weniger touristische Seite der Stadt.\n\nEin Highlight für Transit-Nutzer ist die Fahrt mit der Straßenbahn bis zur Endstation Terra Botanica. Der Park ist perfekt an den öffentlichen Nahverkehr angebunden und bietet eine riesige Grünfläche zum Entdecken und Entspannen.\n\nKehren Sie mit der Tram zur Place du Ralliement zurück. Hier, im pulsierenden Zentrum, kreuzen sich die Linien, und Sie können den Tag bei einem Getränk in einem der vielen Cafés ausklingen lassen, während die Welt an Ihnen vorbeizieht.",
             "hu": "Használja Angers kiváló villamoshálózatát a stresszmentes városnézéshez. Kezdjen a Saint-Laud vasútállomáson, és menjen az A vonallal közvetlenül a várhoz. A modern villamosról nagyszerű kilátás nyílik a forgalmas sugárutakra.\n\nA várlátogatás után busszal keljen át a Maine folyón a Jean-Lurçat Múzeumhoz. A folyó túloldalán fekvő Doutre negyed csendesebb, és a város autentikusabb, kevésbé turisztikai oldalát mutatja meg.\n\nA tömegközlekedők számára kiemelt élmény a villamosozás az A vonal végállomásáig, a Terra Botanicáig. A park tökéletesen megközelíthető, és hatalmas zöld területet kínál a felfedezésre és a kikapcsolódásra.\n\nVillamossal térjen vissza a Place du Ralliement térre. Itt, a lüktető központban találkoznak a vonalak, és egy ital mellett figyelheti a város pezsgését az egyik kávézó teraszáról.",
             "ro": "Utilizați rețeaua excelentă de tramvai din Angers pentru o zi fără stres. Începeți de la gara Saint-Laud și luați linia A direct până la castel. Tramvaiul modern oferă o vedere excelentă asupra bulevardelor animate.\n\nDupă vizitarea castelului, luați autobuzul peste râul Maine până la Muzeul Jean-Lurçat. Cartierul Doutre de pe cealaltă parte a râului este mai liniștit și arată o latură autentică, mai puțin turistică a orașului.\n\nUn punct culminant pentru utilizatorii de transport public este călătoria cu tramvaiul până la capătul liniei, la Terra Botanica. Parcul este perfect conectat și oferă un spațiu verde imens pentru explorare și relaxare.\n\nReveniți cu tramvaiul în Place du Ralliement. Aici, în centrul vibrant, liniile se intersectează, iar dumneavoastră puteți încheia ziua cu o băutură la una dintre numeroasele cafenele, privind forfota orașului.",
-            "en": "Use Angers' excellent tram network for a stress-free day of sightseeing. Start at Saint-Laud station and take line A directly to the castle. The modern tram offers great views of the busy boulevards along the way.\n\nAfter visiting the castle, take a bus across the Maine river to the Jean-Lurçat Museum. The Doutre district on the other side of the river is quieter and shows an authentic, less touristy side of the city.\n\nA highlight for transit users is the tram ride to the terminus at Terra Botanica. The park is perfectly connected and offers a vast green space for discovery and relaxation.\n\nReturn by tram to Place du Ralliement. Here, in the pulsing center, the lines intersect, and you can end your day with a drink at one of the many cafes, watching the world go by."
+            "en": "Use Angers' excellent tram network for a stress-free day of sightseeing. Start at Saint-Laud station and take line A directly to the castle. The modern tram offers great views of the busy boulevards along the way.\n\nAfter visiting the castle, take a bus across the Maine river to the Jean-Lurçat Museum. The Doutre district on the other side of the river is quieter and shows an authentic, less touristy side of the city.\n\nA highlight for transit users is the tram ride to the terminus at Terra Botanica. The park is perfectly connected and offers a vast green space for discovery and relaxation.\n\nReturn by tram to Place du Ralliement. Here, in the pulsing center, the lines intersect, and you can end your day with a drink at one of the many cafes, watching the world go by.",
+            "fr": "Utilisez l'excellent réseau de trams d'Angers pour une journée de visite sans stress. Commencez à la gare Saint-Laud et prenez la ligne A directement jusqu'au château. Le tram moderne offre de belles vues sur les boulevards animés en chemin.\n\nAprès la visite du château, prenez un bus pour traverser la Maine jusqu'au musée Jean-Lurçat. Le quartier de la Doutre de l'autre côté de la rivière est plus calme et montre un visage authentique et moins touristique de la ville.\n\nUn point fort pour les usagers des transports est le trajet en tram jusqu'au terminus de Terra Botanica. Le parc est parfaitement connecté et offre un vaste espace vert pour la découverte et la détente.\n\nRetournez en tram jusqu'à la Place du Ralliement. Ici, au centre vibrant, les lignes se croisent et vous pouvez terminer votre journée par un verre dans l'un des nombreux cafés, en regardant le monde passer."
           },
           "stops": [
             {
@@ -2823,13 +2904,15 @@
                 "de": "Gare d'Angers-Saint-Laud",
                 "hu": "Angers-Saint-Laud vasútállomás",
                 "ro": "Gara Angers-Saint-Laud",
-                "en": "Angers-Saint-Laud Station"
+                "en": "Angers-Saint-Laud Station",
+                "fr": "Gare d'Angers-Saint-Laud"
               },
               "tip_5lang": {
                 "de": "Der Knotenpunkt für Straßenbahnen und Busse.",
                 "hu": "A villamosok és buszok központi csomópontja.",
                 "ro": "Principalul nod pentru tramvaie și autobuze.",
-                "en": "The main hub for trams and buses in the city."
+                "en": "The main hub for trams and buses in the city.",
+                "fr": "Le principal nœud pour les trams et les bus de la ville."
               }
             },
             {
@@ -2837,13 +2920,15 @@
                 "de": "Château d'Angers",
                 "hu": "Angers-i vár",
                 "ro": "Castelul Angers",
-                "en": "Angers Castle"
+                "en": "Angers Castle",
+                "fr": "Château d'Angers"
               },
               "tip_5lang": {
                 "de": "Haltestelle 'Château' (Straßenbahn Linie A).",
                 "hu": "'Château' megálló (A villamosvonal).",
                 "ro": "Stația 'Château' (linia de tramvai A).",
-                "en": "'Château' stop (Tram line A)."
+                "en": "'Château' stop (Tram line A).",
+                "fr": "Arrêt « Château » (ligne A du tram)."
               }
             },
             {
@@ -2851,13 +2936,15 @@
                 "de": "Musée Jean-Lurçat",
                 "hu": "Jean-Lurçat Múzeum",
                 "ro": "Muzeul Jean-Lurçat",
-                "en": "Jean-Lurçat Museum"
+                "en": "Jean-Lurçat Museum",
+                "fr": "Musée Jean-Lurçat"
               },
               "tip_5lang": {
                 "de": "Nutzen Sie den Bus Linie 3 ab dem Schloss.",
                 "hu": "Használja a 3-as buszt a vár felől.",
                 "ro": "Folosiți autobuzul linia 3 de la castel.",
-                "en": "Use bus line 3 from the castle area."
+                "en": "Use bus line 3 from the castle area.",
+                "fr": "Prenez la ligne de bus 3 depuis le secteur du château."
               }
             },
             {
@@ -2865,13 +2952,15 @@
                 "de": "Terra Botanica",
                 "hu": "Terra Botanica",
                 "ro": "Terra Botanica",
-                "en": "Terra Botanica"
+                "en": "Terra Botanica",
+                "fr": "Terra Botanica"
               },
               "tip_5lang": {
                 "de": "Endstation der Straßenbahn Linie A.",
                 "hu": "Az A villamosvonal végállomása.",
                 "ro": "Capătul liniei de tramvai A.",
-                "en": "Terminus of tram line A."
+                "en": "Terminus of tram line A.",
+                "fr": "Terminus de la ligne A du tram."
               }
             },
             {
@@ -2879,13 +2968,15 @@
                 "de": "Place du Ralliement",
                 "hu": "Place du Ralliement",
                 "ro": "Place du Ralliement",
-                "en": "Place du Ralliement"
+                "en": "Place du Ralliement",
+                "fr": "Place du Ralliement"
               },
               "tip_5lang": {
                 "de": "Zentrale Haltestelle im Herzen der Stadt.",
                 "hu": "Központi megálló a város szívében.",
                 "ro": "Stație centrală în inima orașului.",
-                "en": "Central tram stop in the heart of the city."
+                "en": "Central tram stop in the heart of the city.",
+                "fr": "Arrêt de tram central au cœur de la ville."
               }
             }
           ],
@@ -3051,6 +3142,13 @@
               "Remember to validate your ticket when boarding.",
               "Download the 'Irigo' app for real-time schedules.",
               "Stops are clearly announced inside the trams."
+            ],
+            "fr": [
+              "Achetez un pass journée pour le réseau de transports IRIGO.",
+              "La ligne A du tram circule toutes les 6 à 10 minutes.",
+              "N'oubliez pas de composter votre ticket en montant à bord.",
+              "Téléchargez l'application « Irigo » pour les horaires en temps réel.",
+              "Les arrêts sont clairement annoncés à l'intérieur des trams."
             ]
           }
         },
@@ -3060,7 +3158,7 @@
             "hu": "A tömegközlekedéssel mobilis maradhat esőben is. A Saint-Laud állomástól gyorsan elérhető a vár. A Jean-Lurçat múzeum busszal könnyen megközelíthető. Délben a busz közvetlenül a Terra Botanica bejáratához visz, ahol fedett helyen maradhatunk. A nap a villamoshálózat központjában, a Place du Ralliement-n zárul.",
             "ro": "Cu transportul public rămâneți mobil și uscat. De la gara Saint-Laud ajungeți rapid la castel. Muzeul Jean-Lurçat este ușor accesibil cu autobuzul. La prânz, autobuzul vă lasă direct la intrarea în Terra Botanica. Ziua se încheie confortabil în Place du Ralliement, nodul rețelei de tramvai.",
             "en": "Public transit keeps you mobile and dry throughout the day. From Saint-Laud station, the castle is quickly accessible. The Jean-Lurçat museum is easily reached by bus. At midday, the bus drops you right at the Terra Botanica entrance. The day ends comfortably at Place du Ralliement, the heart of the tram network.",
-            "fr": "Les transports publics vous permettent de rester mobile et au sec toute la journée. Depuis la gare Saint-Laud, le château est rapidement accessible. Le musée Jean-Lurçat se rejoint facilement en bus. À midi, le bus vous dépose juste devant l'entrée de Terra Botanica. La journée se termine confortablement Place du Ralliement, cœur du réseau de tramway."
+            "fr": "Les transports en commun vous gardent mobiles et au sec toute la journée. Depuis la gare Saint-Laud, le château est rapidement accessible. Le musée Jean-Lurçat se rejoint facilement en bus. À midi, le bus vous dépose juste à l'entrée de Terra Botanica. La journée se termine confortablement à la Place du Ralliement, cœur du réseau de tram."
           },
           "stops": [
             {
@@ -3080,7 +3178,7 @@
                 "hu": "A villamosmegálló csak pár lépésre van a bejárattól.",
                 "ro": "Stația de tramvai este la doar câțiva pași de intrare.",
                 "en": "The tram stop is located just a few steps from the entrance.",
-                "fr": "L'arrêt de tram est situé à quelques pas de l'entrée."
+                "fr": "L'arrêt de tram se trouve à quelques pas de l'entrée."
               }
             },
             {
@@ -3090,7 +3188,7 @@
                 "hu": "Használja a buszvonalat, amely közvetlenül a múzeum előtt áll meg.",
                 "ro": "Folosiți linia de autobuz care oprește chiar în fața muzeului.",
                 "en": "Use the bus line that stops directly in front of the museum.",
-                "fr": "Utilisez la ligne de bus qui s'arrête directement devant le musée."
+                "fr": "Prenez la ligne de bus qui s'arrête directement devant le musée."
               }
             },
             {
@@ -3100,7 +3198,7 @@
                 "hu": "A buszjáratok ritkábbak hétvégén, ellenőrizze az alkalmazást.",
                 "ro": "Frecvența autobuzelor este mai mică în weekend, verificați aplicația.",
                 "en": "Bus frequency is lower on weekends; check the official app.",
-                "fr": "La fréquence des bus est plus faible le week-end ; vérifiez l'appli officielle."
+                "fr": "La fréquence des bus est plus faible le week-end ; vérifiez l'application officielle."
               }
             },
             {
@@ -3110,7 +3208,7 @@
                 "hu": "Központi helyszín a száraz átszálláshoz minden irányba.",
                 "ro": "Punct central pentru a schimba mijlocul de transport la uscat.",
                 "en": "Central hub for transferring to other lines while staying dry.",
-                "fr": "Hub central pour changer de ligne tout en restant au sec."
+                "fr": "Nœud central pour changer de ligne tout en restant à l'abri."
               }
             }
           ],
@@ -3144,11 +3242,11 @@
               "Keep your ticket ready to avoid fumbling at the doors."
             ],
             "fr": [
-              "Téléchargez l'application « Irigo » pour les horaires en temps réel.",
-              "Un pass journée est rentable pour plusieurs trajets sous la pluie.",
+              "Téléchargez l'application « Irigo » pour les informations d'horaires en temps réel.",
+              "Un pass journée est économique pour plusieurs trajets sous la pluie.",
               "Les trams sont climatisés et offrent de belles vues sur la ville.",
-              "Cherchez les arrêts de bus équipés d'abribus solides.",
-              "Gardez votre ticket prêt pour éviter de chercher aux portes."
+              "Recherchez les arrêts de bus avec des abris solides contre les intempéries.",
+              "Gardez votre ticket à portée de main pour éviter de chercher à la porte."
             ]
           }
         },
@@ -3158,7 +3256,7 @@
             "hu": "Téli kényelem busszal és villamossal. Délelőtt a fűtött villamost használjuk a várig. A Terra Botanica látogatása télen nyugodt, a busz melegen visz a célhoz. Délután a múzeumban melegedhetünk fel. Mivel korán sötétedik, a kivilágított villamoson való visszatérés a Place du Ralliement-ra szép zárása a napnak.",
             "ro": "Confort de iarnă cu autobuzul și tramvaiul. Dimineața folosiți tramvaiul încălzit până la castel. Vizita la Terra Botanica este liniștită iarna, autobuzul vă duce la căldură. După-amiaza vă încălziți în muzeu. Deoarece se întunecă devreme, întoarcerea spre Place du Ralliement cu tramvaiul luminat este un final frumos.",
             "en": "Winter comfort with buses and trams. In the morning, take the heated tram to the castle. A winter visit to Terra Botanica is peaceful, with the bus keeping you warm on the way. Spend the afternoon warming up in the museum. With early dusk, the tram ride back to Place du Ralliement offers a cozy view of the city lights.",
-            "fr": "Confort hivernal en bus et tram. Le matin, prenez le tram chauffé vers le château. Une visite hivernale à Terra Botanica est paisible, le bus vous gardant au chaud pendant le trajet. Passez l'après-midi à vous réchauffer au musée. À la nuit tombante, le trajet de retour en tram vers la Place du Ralliement offre une vue douillette sur les lumières de la ville."
+            "fr": "Confort hivernal avec bus et trams. Le matin, prenez le tram chauffé jusqu'au château. Une visite hivernale de Terra Botanica est paisible, le bus vous gardant au chaud en chemin. Passez l'après-midi à vous réchauffer au musée. Avec la tombée précoce de la nuit, le trajet en tram de retour vers la Place du Ralliement offre une vue cosy des lumières de la ville."
           },
           "stops": [
             {
@@ -3168,7 +3266,7 @@
                 "hu": "Az állomáson vannak kávézók egy forró italhoz indulás előtt.",
                 "ro": "Gara are cafenele pentru o băutură caldă înainte de plecare.",
                 "en": "The station offers cafés for a hot drink before your departure.",
-                "fr": "La gare propose des cafés pour une boisson chaude avant votre départ."
+                "fr": "La gare propose des cafés pour boire un boisson chaude avant votre départ."
               }
             },
             {
@@ -3178,7 +3276,7 @@
                 "hu": "A megálló jól kivilágított és biztonságos.",
                 "ro": "Stația este bine iluminată și sigură.",
                 "en": "The stop is well-lit and safe for evening transfers.",
-                "fr": "L'arrêt est bien éclairé et sûr pour les correspondances du soir."
+                "fr": "L'arrêt est bien éclairé et sûr pour les correspondances en soirée."
               }
             },
             {
@@ -3188,7 +3286,7 @@
                 "hu": "Rövid séta a buszmegállótól, ügyeljen a fagyra.",
                 "ro": "Drum scurt de la stația de autobuz, atenție la îngheț.",
                 "en": "Short walk from the bus stop; watch your step for ice.",
-                "fr": "Courte marche depuis l'arrêt de bus ; attention au verglas."
+                "fr": "Courte marche depuis l'arrêt de bus ; faites attention au verglas."
               }
             },
             {
@@ -3198,7 +3296,7 @@
                 "hu": "A busz a legmelegebb opció ehhez a külvárosi részhez.",
                 "ro": "Autobuzul este cea mai călduroasă opțiune spre suburbie.",
                 "en": "The bus is the warmest travel option for this suburban area.",
-                "fr": "Le bus est l'option la plus chaude pour cette zone suburbaine."
+                "fr": "Le bus est l'option la plus chaude pour cette zone périurbaine."
               }
             },
             {
@@ -3242,10 +3340,10 @@
               "Darkness arrives early, but all major stops are well-illuminated."
             ],
             "fr": [
-              "Portez des vêtements chauds pour les temps d'attente aux arrêts extérieurs.",
-              "Les horaires des trams restent très fiables pendant les mois d'hiver.",
-              "Prévoyez un peu de temps supplémentaire pour d'éventuels retards liés météo.",
-              "Utilisez les navettes de centre-ville pour les courtes distances entre les sites.",
+              "Portez des vêtements chauds pour les périodes d'attente aux arrêts extérieurs.",
+              "Les horaires de tram restent très fiables pendant les mois d'hiver.",
+              "Prévoyez du temps supplémentaire pour d'éventuels retards liés aux intempéries.",
+              "Utilisez les navettes du centre-ville pour de courtes distances entre les sites.",
               "L'obscurité arrive tôt, mais tous les arrêts principaux sont bien éclairés."
             ]
           }

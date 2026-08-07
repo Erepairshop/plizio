@@ -3,55 +3,64 @@
     "de": "67600 Orschwiller",
     "hu": "67600 Orschwiller",
     "ro": "67600 Orschwiller",
-    "en": "67600 Orschwiller"
+    "en": "67600 Orschwiller",
+    "fr": "67600 Orschwiller"
   },
   "openingHours": {
     "de": "Mo-Su 09:30-18:00",
     "hu": "Hé-Vas 09:30-18:00",
     "ro": "Lun-Dum 09:30-18:00",
-    "en": "Mon-Sun 09:30-18:00"
+    "en": "Mon-Sun 09:30-18:00",
+    "fr": "Lun-Dim 09:30-18:00"
   },
   "entranceFee": {
     "de": "€9.00 Erwachsene, €5.00 ermäßigt",
     "hu": "9.00€ felnőtt, 5.00€ kedvezményes",
     "ro": "9.00€ adulți, 5.00€ redus",
-    "en": "€9.00 adults, €5.00 reduced"
+    "en": "€9.00 adults, €5.00 reduced",
+    "fr": "€9,00 adultes, €5,00 tarif réduit"
   },
   "website": "https://www.haut-koenigsbourg.fr",
   "publicTransport": {
     "de": "Navette Haut-Kœnigsbourg ab Bahnhof Sélestat",
     "hu": "Haut-Kœnigsbourg transzferjárat Sélestat vasútállomástól",
     "ro": "Naveta Haut-Kœnigsbourg de la gara Sélestat",
-    "en": "Haut-Kœnigsbourg shuttle from Sélestat station"
+    "en": "Haut-Kœnigsbourg shuttle from Sélestat station",
+    "fr": "Navette Haut-Kœnigsbourg depuis la gare de Sélestat"
   },
   "parking": {
     "de": "Kostenlose Parkplätze entlang der Zufahrtsstraße.",
     "hu": "Ingyenes parkolóhelyek a bevezető út mentén.",
     "ro": "Locuri de parcare gratuite de-a lungul drumului de acces.",
-    "en": "Free parking along the access road."
+    "en": "Free parking along the access road.",
+    "fr": "Parking gratuit le long de la route d'accès."
   },
   "accessibility": {
     "de": "Historische Anlage mit vielen Stufen, kaum barrierefrei.",
     "hu": "Történelmi épületegyüttes sok lépcsővel, alig akadálymentesített.",
     "ro": "Situl istoric are multe trepte, fiind greu accesibil.",
-    "en": "Historical site with many steps, hardly accessible for wheelchairs."
+    "en": "Historical site with many steps, hardly accessible for wheelchairs.",
+    "fr": "Site historique avec de nombreuses marches, difficilement accessible aux fauteuils roulants."
   },
   "photoRules": {
     "de": "Erlaubt ohne Blitz im Innenbereich.",
     "hu": "A belső terekben vaku nélkül megengedett.",
     "ro": "Permis fără bliț în interior.",
-    "en": "Permitted without flash in the interior."
+    "en": "Permitted without flash in the interior.",
+    "fr": "Autorisé sans flash dans l'intérieur."
   },
   "bestTimeToVisit": {
     "de": "Vormittags unter der Woche für weniger Gedränge.",
     "hu": "Hétköznap délelőtt, a tömeg elkerülése végett.",
     "ro": "În timpul săptămânii dimineața pentru a evita aglomerația.",
-    "en": "Weekday mornings for fewer crowds."
+    "en": "Weekday mornings for fewer crowds.",
+    "fr": "Matinées en semaine pour moins de monde."
   },
   "audioGuide": {
     "de": "Deutsch, Englisch, Französisch, Italienisch.",
     "hu": "Német, angol, francia, olasz.",
     "ro": "Germană, engleză, franceză, italiană.",
-    "en": "German, English, French, Italian."
+    "en": "German, English, French, Italian.",
+    "fr": "Allemand, anglais, français, italien."
   }
 }

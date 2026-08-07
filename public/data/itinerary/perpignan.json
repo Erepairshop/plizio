@@ -32,7 +32,7 @@
             "hu": "Mássz fel a tetőre a város háztetőire nyíló panorámáért.",
             "ro": "Urcați pe acoperiș pentru o vedere panoramică asupra orașului.",
             "en": "Climb to the roof for a panoramic view over the city's rooftops.",
-            "fr": "Montez sur le toit pour une vue panoramique sur les toits de la ville."
+            "fr": "Grimpez sur le toit pour une vue panoramique sur les toits de la ville."
           }
         },
         {
@@ -89,7 +89,7 @@
             "hu": "Fedezd fel Picasso és helyi művészek alkotásait.",
             "ro": "Descoperiți lucrări de Picasso și artiști locali.",
             "en": "Discover works by Picasso and local artists.",
-            "fr": "Découvrez des œuvres de Picasso et d'artistes locaux."
+            "fr": "Découvrez des œuvres de Picasso et d’artistes locaux."
           }
         },
         {
@@ -127,7 +127,7 @@
             "hu": "Pihenj meg az évszázados platánfák árnyékában.",
             "ro": "Relaxați-vă la umbra platanilor seculari.",
             "en": "Relax in the shade of century-old plane trees.",
-            "fr": "Détendez-vous à l'ombre de platanes centenaires."
+            "fr": "Détendez-vous à l’ombre des platanes centenaires."
           }
         },
         {
@@ -146,7 +146,7 @@
             "hu": "Zárd a napot egy pohár roussilloni borral.",
             "ro": "Încheiați ziua cu un pahar de vin de Roussillon.",
             "en": "End the day with a glass of Roussillon wine.",
-            "fr": "Terminez la journée avec un verre de vin du Roussillon."
+            "fr": "Terminez la journée par un verre de vin du Roussillon."
           }
         }
       ],
@@ -155,7 +155,7 @@
         "hu": "Perpignan, Mallorca egykori királyi székhelye, katalán hangulattal várja. A túrát a város jelképénél, a Castilletnél kezdjük. Délelőtt a katedrális és a Campo Santo gótikus örökségét fedezzük fel.\n\nDélidőben a Place de la Loge színes forgatagába merülünk, majd a Rigaud Múzeumban művészettörténetet szippantunk. A Mallorcai Királyok Palotájába tett látogatás a délután fénypontja.\n\nA késő délután a nyugalomé a Square Bir Hakeim parkban, ahol a természet a központban virágzik. Egy séta a szűk utcákon át vezet vissza a város lüktető szívébe.\n\nZárásként a Place de la République hangulatát élvezzük. Az okkersárga homlokzatok és pálmafák között itt igazán érezhető Spanyolország közelsége és a mediterrán életérzés.",
         "ro": "Perpignan, fosta capitală a Regatului de Mallorca, vă întâmpină cu farmecul său catalan. Începem la Castillet, simbolul orașului. Dimineața explorăm moștenirea gotică din jurul catedralei și Campo Santo.\n\nLa prânz ne cufundăm în agitația colorată din Place de la Loge, înainte de a respira istoria artei la Muzeul Rigaud. Urcarea la Palatul Regilor de Mallorca este punctul culminant al după-amiezii.\n\nTârziu după-amiaza aparține liniștii din Square Bir Hakeim, unde natura înflorește chiar în centru. O plimbare prin străzile înguste ne duce înapoi în inima vibrantă a orașului.\n\nLa final, ne bucurăm de atmosfera din Place de la République. Între fațadele ocru și palmieri, se simte aici proximitatea Spaniei și stilul de viață mediteranean.",
         "en": "Perpignan, the former capital of the Kingdom of Mallorca, welcomes you with its Catalan charm. We begin at Le Castillet, the city's emblem. In the morning, we explore the Gothic heritage around the cathedral and the Campo Santo.\n\nAt midday, we immerse ourselves in the colorful bustle of Place de la Loge before breathing in art history at the Rigaud Museum. The visit to the Palace of the Kings of Mallorca is the highlight of the afternoon.\n\nLate afternoon is dedicated to tranquility in Square Bir Hakeim, where nature flourishes right in the center. A stroll through narrow streets leads us back to the vibrant heart of the city.\n\nFinally, we enjoy the atmosphere at Place de la République. Between ochre facades and palm trees, the proximity to Spain and the Mediterranean lifestyle are truly felt here.",
-        "fr": "Perpignan, l'ancienne capitale du Royaume de Majorque, vous accueille avec son charme catalan. Nous commençons par le Castillet, l'emblème de la ville. Le matin, nous explorons le patrimoine gothique autour de la cathédrale et du Campo Santo.\n\nÀ midi, nous nous plongeons dans l'effervescence colorée de la place de la Loge avant de s'imprégner de l'histoire de l'art au Musée Rigaud. La visite du Palais des Rois de Majorque est le moment fort de l'après-midi.\n\nLa fin d'après-midi est dédiée à la tranquillité au Square Bir Hakeim, où la nature s'épanouit en plein centre. Une promenade à travers les ruelles étroites nous ramène vers le cœur vibrant de la cité.\n\nEnfin, nous profitons de l'ambiance de la Place de la République. Entre façades ocres et palmiers, la proximité avec l'Espagne et l'art de vivre méditerranéen se font ici pleinement ressentir."
+        "fr": "Perpignan, ancienne capitale du royaume de Majorque, vous accueille avec son charme catalan. Nous commençons au Castillet, emblème de la ville. Le matin, nous explorons le patrimoine gothique autour de la cathédrale et du Campo Santo.\n\nÀ midi, nous plongeons dans l’animation colorée de la Place de la Loge avant de respirer l’histoire de l’art au musée Rigaud. La visite du Palais des Rois de Majorque est le temps fort de l’après-midi.\n\nLa fin d’après-midi est dédiée à la tranquillité du square Bir Hakeim, où la nature prospère en plein centre. Une promenade dans les ruelles nous ramène au cœur vibrant de la ville.\n\nEnfin, nous profitons de l’ambiance de la Place de la République. Entre façades ocre et palmiers, la proximité de l’Espagne et le mode de vie méditerranéen se font vraiment sentir ici."
       },
       "gastro_picks": {
         "de": [
@@ -394,9 +394,9 @@
           "Wear comfortable shoes for the cobblestone streets in the old town."
         ],
         "fr": [
-          "Le centre historique est compact et idéal à explorer à pied.",
-          "Cherchez les plaques de rue bilingues (français et catalan).",
-          "De nombreux petits commerces ferment entre 12h00 et 14h00 pour le déjeuner.",
+          "Le centre historique est compact et idéal pour la visite à pied.",
+          "Repérez les plaques bilingues (français et catalan).",
+          "Beaucoup de petits commerces ferment entre 12:00 et 14:00 pour le déjeuner.",
           "Portez des chaussures confortables pour les rues pavées de la vieille ville."
         ]
       },
@@ -406,7 +406,8 @@
             "de": "Perpignan, die ehemalige Hauptstadt des Königreichs Mallorca, empfängt Sie mit katalanischem Charme. Wir beginnen am Castillet, dem Wahrzeichen der Stadt. Am Vormittag erkunden wir das gotische Erbe rund um die Kathedrale und den Campo Santo.\n\nMittags tauchen wir in das bunte Treiben der Place de la Loge ein, bevor wir im Rigaud-Museum Kunstgeschichte atmen. Der Aufstieg zum Palast der Könige von Mallorca ist der Höhepunkt des Nachmittags.\n\nDer späte Nachmittag gehört der Ruhe im Square Bir Hakeim, wo die Natur mitten im Zentrum blüht. Ein Spaziergang durch die engen Gassen führt uns zurück zum belebten Herz der Stadt.\n\nZum Abschluss genießen wir die Atmosphäre auf der Place de la République. Zwischen ockerfarbenen Fassaden und Palmen spürt man hier die Nähe zu Spanien und das mediterrane Lebensgefühl.",
             "hu": "Perpignan, Mallorca egykori királyi székhelye, katalán hangulattal várja. A túrát a város jelképénél, a Castilletnél kezdjük. Délelőtt a katedrális és a Campo Santo gótikus örökségét fedezzük fel.\n\nDélidőben a Place de la Loge színes forgatagába merülünk, majd a Rigaud Múzeumban művészettörténetet szippantunk. A Mallorcai Királyok Palotájába tett látogatás a délután fénypontja.\n\nA késő délután a nyugalomé a Square Bir Hakeim parkban, ahol a természet a központban virágzik. Egy séta a szűk utcákon át vezet vissza a város lüktető szívébe.\n\nZárásként a Place de la République hangulatát élvezzük. Az okkersárga homlokzatok és pálmafák között itt igazán érezhető Spanyolország közelsége és a mediterrán életérzés.",
             "ro": "Perpignan, fosta capitală a Regatului de Mallorca, vă întâmpină cu farmecul său catalan. Începem la Castillet, simbolul orașului. Dimineața explorăm moștenirea gotică din jurul catedralei și Campo Santo.\n\nLa prânz ne cufundăm în agitația colorată din Place de la Loge, înainte de a respira istoria artei la Muzeul Rigaud. Urcarea la Palatul Regilor de Mallorca este punctul culminant al după-amiezii.\n\nTârziu după-amiaza aparține liniștii din Square Bir Hakeim, unde natura înflorește chiar în centru. O plimbare prin străzile înguste ne duce înapoi în inima vibrantă a orașului.\n\nLa final, ne bucurăm de atmosfera din Place de la République. Între fațadele ocru și palmieri, se simte aici proximitatea Spaniei și stilul de viață mediteranean.",
-            "en": "Perpignan, the former capital of the Kingdom of Mallorca, welcomes you with its Catalan charm. We begin at Le Castillet, the city's emblem. In the morning, we explore the Gothic heritage around the cathedral and the Campo Santo.\n\nAt midday, we immerse ourselves in the colorful bustle of Place de la Loge before breathing in art history at the Rigaud Museum. The visit to the Palace of the Kings of Mallorca is the highlight of the afternoon.\n\nLate afternoon is dedicated to tranquility in Square Bir Hakeim, where nature flourishes right in the center. A stroll through narrow streets leads us back to the vibrant heart of the city.\n\nFinally, we enjoy the atmosphere at Place de la République. Between ochre facades and palm trees, the proximity to Spain and the Mediterranean lifestyle are truly felt here."
+            "en": "Perpignan, the former capital of the Kingdom of Mallorca, welcomes you with its Catalan charm. We begin at Le Castillet, the city's emblem. In the morning, we explore the Gothic heritage around the cathedral and the Campo Santo.\n\nAt midday, we immerse ourselves in the colorful bustle of Place de la Loge before breathing in art history at the Rigaud Museum. The visit to the Palace of the Kings of Mallorca is the highlight of the afternoon.\n\nLate afternoon is dedicated to tranquility in Square Bir Hakeim, where nature flourishes right in the center. A stroll through narrow streets leads us back to the vibrant heart of the city.\n\nFinally, we enjoy the atmosphere at Place de la République. Between ochre facades and palm trees, the proximity to Spain and the Mediterranean lifestyle are truly felt here.",
+            "fr": "Perpignan, ancienne capitale du royaume de Majorque, vous accueille avec son charme catalan. Nous commençons au Castillet, emblème de la ville. Le matin, nous explorons le patrimoine gothique autour de la cathédrale et du Campo Santo.\n\nÀ midi, nous plongeons dans l’animation colorée de la Place de la Loge avant de respirer l’histoire de l’art au musée Rigaud. La visite du Palais des Rois de Majorque est le temps fort de l’après-midi.\n\nLa fin d’après-midi est dédiée à la tranquillité du square Bir Hakeim, où la nature prospère en plein centre. Une promenade dans les ruelles nous ramène au cœur vibrant de la ville.\n\nEnfin, nous profitons de l’ambiance de la Place de la République. Entre façades ocre et palmiers, la proximité de l’Espagne et le mode de vie méditerranéen se font vraiment sentir ici."
           },
           "stops": [
             {
@@ -415,7 +416,8 @@
                 "de": "Steigen Sie auf das Dach für einen Blick über die Dächer der Stadt.",
                 "hu": "Mássz fel a tetőre a város háztetőire nyíló panorámáért.",
                 "ro": "Urcați pe acoperiș pentru o vedere panoramică asupra orașului.",
-                "en": "Climb to the roof for a panoramic view over the city's rooftops."
+                "en": "Climb to the roof for a panoramic view over the city's rooftops.",
+                "fr": "Grimpez sur le toit pour une vue panoramique sur les toits de la ville."
               }
             },
             {
@@ -424,7 +426,8 @@
                 "de": "Bewundern Sie die Loge de Mer und die Statue von Maillol.",
                 "hu": "Csodáld meg a Loge de Mer épületét és Maillol szobrát.",
                 "ro": "Admirați Loge de Mer și statuia lui Maillol.",
-                "en": "Admire the Loge de Mer and the statue by Maillol."
+                "en": "Admire the Loge de Mer and the statue by Maillol.",
+                "fr": "Admirez la Loge de Mer et la statue de Maillol."
               }
             },
             {
@@ -433,7 +436,8 @@
                 "de": "Besuchen Sie das angrenzende Campo Santo, einen gotischen Kreuzgang-Friedhof.",
                 "hu": "Látogasd meg a szomszédos Campo Santót, a gótikus kerengő-temetőt.",
                 "ro": "Vizitați Campo Santo, un cimitir-cloistru gotic adiacent.",
-                "en": "Visit the adjacent Campo Santo, a Gothic cloister-cemetery."
+                "en": "Visit the adjacent Campo Santo, a Gothic cloister-cemetery.",
+                "fr": "Visitez le Campo Santo adjacent, un cloître-cimetière gothique."
               }
             },
             {
@@ -442,7 +446,8 @@
                 "de": "Entdecken Sie Werke von Picasso und lokalen Künstlern.",
                 "hu": "Fedezd fel Picasso és helyi művészek alkotásait.",
                 "ro": "Descoperiți lucrări de Picasso și artiști locali.",
-                "en": "Discover works by Picasso and local artists."
+                "en": "Discover works by Picasso and local artists.",
+                "fr": "Découvrez des œuvres de Picasso et d’artistes locaux."
               }
             },
             {
@@ -451,7 +456,8 @@
                 "de": "Diese Festung aus dem 13. Jahrhundert bietet einen Blick auf den Canigou.",
                 "hu": "Ez a 13. századi erőd kilátást nyújt a Canigou-hegyre.",
                 "ro": "Această fortăreață din secolul al XIII-lea oferă vedere spre Canigou.",
-                "en": "This 13th-century fortress offers views toward Mount Canigou."
+                "en": "This 13th-century fortress offers views toward Mount Canigou.",
+                "fr": "Cette forteresse du XIIIe siècle offre des vues vers le mont Canigou."
               }
             },
             {
@@ -460,7 +466,8 @@
                 "de": "Entspannen Sie im Schatten der jahrhundertealten Platanen.",
                 "hu": "Pihenj meg az évszázados platánfák árnyékában.",
                 "ro": "Relaxați-vă la umbra platanilor seculari.",
-                "en": "Relax in the shade of century-old plane trees."
+                "en": "Relax in the shade of century-old plane trees.",
+                "fr": "Détendez-vous à l’ombre des platanes centenaires."
               }
             },
             {
@@ -469,7 +476,8 @@
                 "de": "Beenden Sie den Tag mit einem Glas Roussillon-Wein.",
                 "hu": "Zárd a napot egy pohár roussilloni borral.",
                 "ro": "Încheiați ziua cu un pahar de vin de Roussillon.",
-                "en": "End the day with a glass of Roussillon wine."
+                "en": "End the day with a glass of Roussillon wine.",
+                "fr": "Terminez la journée par un verre de vin du Roussillon."
               }
             }
           ],
@@ -667,6 +675,12 @@
               "Look out for the bilingual street signs (French and Catalan).",
               "Many small shops close between 12:00 and 14:00 for lunch.",
               "Wear comfortable shoes for the cobblestone streets in the old town."
+            ],
+            "fr": [
+              "Le centre historique est compact et idéal pour la visite à pied.",
+              "Repérez les plaques bilingues (français et catalan).",
+              "Beaucoup de petits commerces ferment entre 12:00 et 14:00 pour le déjeuner.",
+              "Portez des chaussures confortables pour les rues pavées de la vieille ville."
             ]
           }
         },
@@ -676,7 +690,7 @@
             "hu": "Az eső ellenére a Théâtre de l'Archipeltől indulunk. A Têt-parti tekerés óvatosságot igényel a vizes aszfalton. A délutánt Saint-Vicens környékén töltjük, ahol rövid pihenőt tarthatunk fedett helyen. A palotához vezető út nedvesen nehezebb, de a látvány kárpótol. A túrát a vasútállomáson fejezzük be, ahol gyorsan száraz helyre érhetünk.",
             "ro": "În ciuda ploii, pornim de la Théâtre de l'Archipel. Plimbarea de-a lungul râului Têt necesită atenție pe asfaltul ud. Petrecem prânzul la Saint-Vicens, unde ne putem usca puțin. Urcarea spre palat este solicitantă pe ploaie, dar priveliștea merită. Încheiem turul la gară, unde putem schimba rapid cu un tren sau autobuz uscat.",
             "en": "Despite the rain, we cycle off from Théâtre de l'Archipel. The ride along the Têt requires caution on wet asphalt. We spend midday in Saint-Vicens, where we can dry off briefly. The climb to the Palace is challenging when wet, but the view makes up for it. We end the tour at the station, where we can quickly switch to a dry train or bus.",
-            "fr": "Malgré la pluie, nous partons à vélo du Théâtre de l'Archipel. La balade le long de la Têt demande de la prudence sur l'asphalte mouillé. Nous passons le midi à Saint-Vicens, où nous pouvons nous sécher brièvement. La montée vers le Palais est exigeante sous la pluie, mais la vue en vaut la peine. Nous terminons le tour à la gare, d'où nous pouvons rapidement rejoindre un train ou un bus au sec."
+            "fr": "Malgré la pluie, nous partons à vélo depuis le Théâtre de l’Archipel. La piste le long de la Têt exige de la prudence sur l’asphalte mouillé. Nous passons le midi à Saint-Vicens pour nous sécher un peu. La montée vers le Palais est difficile quand c’est humide, mais la vue compense. Nous terminons la balade à la gare, où l’on peut rapidement prendre un train ou un bus au sec."
           },
           "stops": [
             {
@@ -686,7 +700,7 @@
                 "hu": "Modern építészet, amely esőben fémesen csillog; jó kiindulópont.",
                 "ro": "Arhitectură modernă care strălucește metalic pe ploaie; punct bun de start.",
                 "en": "Modern architecture that shines metallically in the rain; good starting point.",
-                "fr": "Architecture moderne qui brille d'un éclat métallique sous la pluie ; bon point de départ."
+                "fr": "Architecture moderne qui brille métallisée sous la pluie ; bon point de départ."
               }
             },
             {
@@ -696,7 +710,7 @@
                 "hu": "Vigyázat a tócsákkal; a kerékpárutak csúszósak lehetnek.",
                 "ro": "Atenție la bălți; pistele de biciclete pot fi alunecoase.",
                 "en": "Watch out for puddles; the bike paths can be slippery.",
-                "fr": "Attention aux flaques d'eau ; les pistes cyclables peuvent être glissantes."
+                "fr": "Attention aux flaques ; les pistes cyclables peuvent être glissantes."
               }
             },
             {
@@ -706,7 +720,7 @@
                 "hu": "Keressen menedéket a műhelyekben vagy kiállítótermekben.",
                 "ro": "Căutați adăpost în ateliere sau sălile de expoziție.",
                 "en": "Seek shelter in the workshops or exhibition rooms.",
-                "fr": "Cherchez refuge dans les ateliers ou les salles d'exposition."
+                "fr": "Cherchez un abri dans les ateliers ou les salles d’exposition."
               }
             },
             {
@@ -716,7 +730,7 @@
                 "hu": "Tolja a biciklit a legmeredekebb, nedves szakaszokon.",
                 "ro": "Împingeți bicicleta pe secțiunile cele mai abrupte și ude.",
                 "en": "Push your bike on the steepest, wet sections.",
-                "fr": "Poussez votre vélo sur les sections mouillées les plus raides."
+                "fr": "Poussez votre vélo sur les sections les plus raides et mouillées."
               }
             },
             {
@@ -726,7 +740,7 @@
                 "hu": "Az utak sarasak lehetnek; maradjon a fő útvonalakon.",
                 "ro": "Potecile pot fi noroioase; rămâneți pe rutele principale.",
                 "en": "Paths can be muddy; stay on the main routes.",
-                "fr": "Les sentiers peuvent être boueux ; restez sur les itinéraires principaux."
+                "fr": "Les chemins peuvent être boueux ; restez sur les itinéraires principaux."
               }
             },
             {
@@ -736,7 +750,7 @@
                 "hu": "Fedett biciklitárolók elérhetők; ideális hely a bemelegedésre.",
                 "ro": "Rasteluri de biciclete acoperite disponibile; loc ideal pentru încălzire.",
                 "en": "Covered bike racks available; ideal place to warm up.",
-                "fr": "Abris à vélos couverts disponibles ; endroit idéal pour se réchauffer."
+                "fr": "Arceaux vélo couverts disponibles ; lieu idéal pour se réchauffer."
               }
             }
           ],
@@ -770,7 +784,7 @@
               "Check tire pressure for better grip in wet conditions."
             ],
             "fr": [
-              "Utilisez des garde-boue pour vous protéger des éclaboussures.",
+              "Utilisez des garde-boue pour vous protéger des projections.",
               "Évitez les freinages brusques sur les pavés.",
               "La promenade de la Têt peut être fermée en cas de fortes pluies.",
               "Portez une veste de pluie haute visibilité.",
@@ -784,7 +798,7 @@
             "hu": "A téli biciklis túra frissen indul a Théâtre-nál. A Têt mentén érezni a hűvös szellőt, de a nap kellemesen melegít. Délben érjük el Saint-Vicenst, ahol a vörös kőzetek ragyognak a napfényben. A palota után a téli parkon tekerünk át. A túrát a Salvador Dalí pályaudvarnál zárjuk, mielőtt túl sötét és hideg lenne a folytatáshoz.",
             "ro": "Un tur de iarnă cu bicicleta începe proaspăt la Théâtre. De-a lungul Têt-ului se simte briza răcoroasă, dar soarele încălzește plăcut. La prânz ajungem la Saint-Vicens, unde piatra roșie strălucește în soare. După vizita la palat, pedalăm prin parcul de iarnă. Finalul este la gara Salvador Dalí, înainte de a se face prea întuneric și frig.",
             "en": "A winter bike tour starts fresh at the Théâtre. Along the Têt, you feel the cool breeze, but the sun warms pleasantly. At noon, we reach Saint-Vicens, where the red rocks glow in the sunlight. After visiting the Palace, we cycle through the winter park. The tour ends at the Salvador Dalí station before it gets too dark and cold to continue.",
-            "fr": "Un tour à vélo hivernal commence dans la fraîcheur au Théâtre. Le long de la Têt, on sent la brise fraîche, mais le soleil réchauffe agréablement. À midi, nous atteignons Saint-Vicens, où les roches rouges rougeoient sous la lumière du soleil. Après la visite du Palais, nous pédalons à travers le parc d'hiver. Le tour se termine à la gare Salvador Dalí avant qu'il ne fasse trop sombre et froid pour continuer."
+            "fr": "Une sortie à vélo hivernale commence au Théâtre. Le long de la Têt, la brise est fraîche, mais le soleil réchauffe agréablement. À midi, nous atteignons Saint-Vicens, où les roches rouges brillent au soleil. Après la visite du Palais, nous traversons le parc d’hiver. La balade se termine à la station Salvador Dalí avant qu’il ne fasse trop sombre et froid pour continuer."
           },
           "stops": [
             {
@@ -814,7 +828,7 @@
                 "hu": "Napsütötte hely, ahol rövid időre elfelejtheti a téli hideget.",
                 "ro": "Un loc însorit pentru a uita scurt de frigul iernii.",
                 "en": "A sunny spot to briefly forget the winter cold.",
-                "fr": "Un endroit ensoleillé pour oublier brièvement le froid de l'hiver."
+                "fr": "Un coin ensoleillé pour oublier brièvement le froid hivernal."
               }
             },
             {
@@ -824,7 +838,7 @@
                 "hu": "Az emelkedő beindítja a keringést és felmelegít.",
                 "ro": "Urcarea pune sângele în mișcare și vă încălzește.",
                 "en": "The climb gets your circulation going and warms you up.",
-                "fr": "La montée stimule la circulation et vous réchauffe."
+                "fr": "La montée fait circuler le sang et vous réchauffe."
               }
             },
             {
@@ -834,7 +848,7 @@
                 "hu": "Az alacsony napállás hosszú árnyékokat és szép fényeket produkál.",
                 "ro": "Soarele jos creează umbre lungi și o lumină superbă.",
                 "en": "Low sun position creates long shadows and great light.",
-                "fr": "La position basse du soleil crée de longues ombres et une superbe lumière."
+                "fr": "La basse position du soleil crée de longues ombres et une belle lumière."
               }
             },
             {
@@ -844,7 +858,7 @@
                 "hu": "Ellenőrizze a világítást; télen korán sötétedik.",
                 "ro": "Verificați luminile; se întunecă devreme iarna.",
                 "en": "Check your lights; it gets dark early in winter.",
-                "fr": "Vérifiez vos éclairages ; la nuit tombe tôt en hiver."
+                "fr": "Vérifiez vos feux ; il fait nuit tôt en hiver."
               }
             }
           ],
@@ -878,10 +892,10 @@
               "A warm tea in a thermos is a good companion."
             ],
             "fr": [
-              "Le système des couches de vêtements aide contre le vent de face froid.",
+              "Les vêtements superposés protègent du vent froid.",
               "Utilisez un baume à lèvres contre le vent sec.",
               "Les pistes cyclables sont moins fréquentées et plus calmes en hiver.",
-              "Planifiez votre retour avant le coucher du soleil (environ 17h15).",
+              "Préparez votre retour avant le coucher du soleil (env. 17h15).",
               "Un thé chaud dans un thermos est un bon compagnon."
             ]
           }
@@ -931,7 +945,7 @@
             "hu": "Élvezd a sík kerékpárutat a folyóparton.",
             "ro": "Bucurați-vă de pista plată de biciclete de pe malul râului.",
             "en": "Enjoy the flat cycling path along the riverbank.",
-            "fr": "Profitez de la piste cyclable plate sur la rive de la rivière."
+            "fr": "Profitez de la piste cyclable plate le long des berges."
           }
         },
         {
@@ -969,7 +983,7 @@
             "hu": "Zárd le biztonságosan a biciklit a bejáratnál.",
             "ro": "Parcați bicicleta în siguranță la intrare.",
             "en": "Park your bike securely at the entrance.",
-            "fr": "Garez votre vélo en toute sécurité à l'entrée."
+            "fr": "Garez votre vélo en sécurité à l'entrée."
           }
         },
         {
@@ -1007,7 +1021,7 @@
             "hu": "Dali a 'világ közepének' nevezte ezt a helyet.",
             "ro": "Dali a numit acest loc 'centrul lumii'.",
             "en": "Dali called this place the 'center of the world'.",
-            "fr": "Dalí a qualifié cet endroit de 'centre du monde'."
+            "fr": "Dalí appelait cet endroit « le centre du monde »."
           }
         }
       ],
@@ -1016,7 +1030,7 @@
         "hu": "Két keréken fedezzük fel Perpignant a határain túl is. A modern Théâtre de l'Archipel-től indulunk, és a Têt-folyót követjük zöld ösvényeken.\n\nAz út a művészettel teli Saint-Vicens negyedbe vezet, mielőtt felkapaszkodnánk a királyi palota dombjára. Az utak többnyire síkak és biciklibarátok.\n\nA Parc Sant Vicens-ben tartott pihenő után a sugárutakon tekerünk vissza nyugat felé.\n\nA túrát a pályaudvarnál zárjuk, amely egy különleges, szürrealista történetekkel teli hely, és amelyet már Salvador Dalí is imádott.",
         "ro": "Pe două roți explorăm Perpignan dincolo de limitele sale. Pornim de la modernul Théâtre de l'Archipel și urmăm râul Têt pe poteci verzi.\n\nTraseul ne duce spre cartierul artistic Saint-Vicens, înainte de a urca dealul spre palatul regal. Drumurile sunt în mare parte plate și prietenoase cu bicicletele.\n\nDupă o pauză în Parc Sant Vicens, pedalăm pe bulevarde înapoi spre vest.\n\nÎncheiem la gară, un loc bizar plin de istorie suprarealistă, pe care Salvador Dalí l-a adorat.",
         "en": "On two wheels, we explore Perpignan beyond its limits. We start at the modern Théâtre de l'Archipel and follow the Têt River along green paths.\n\nThe ride leads us to the artistic Saint-Vicens district before climbing the hill to the Royal Palace. The paths are mostly flat and bike-friendly.\n\nAfter a break in Parc Sant Vicens, we cycle through the avenues back toward the west.\n\nWe conclude at the train station, a peculiar place full of surrealist history that Salvador Dalí himself worshipped.",
-        "fr": "Sur deux roues, nous explorons Perpignan au-delà de ses limites. Nous commençons au moderne Théâtre de l'Archipel et suivons la rivière Têt le long de sentiers verdoyants.\n\nLa balade nous mène au quartier artistique de Saint-Vicens avant de grimper sur la colline du Palais des Rois de Majorque. Les chemins sont pour la plupart plats et adaptés aux vélos.\n\nAprès une pause au Parc Sant Vicens, nous pédalons à travers les avenues en revenant vers l'ouest.\n\nNous concluons à la gare, un lieu singulier chargé d'histoire surréaliste que Salvador Dalí lui-même vénérait."
+        "fr": "À deux roues, nous explorons Perpignan au-delà de ses limites. Nous commençons au moderne Théâtre de l'Archipel et longeons la Têt sur des voies vertes.\n\nLa balade nous mène au quartier artistique de Saint-Vicens avant de gravir la colline jusqu'au Palais Royal. Les chemins sont majoritairement plats et adaptés aux vélos.\n\nAprès une pause au Parc Sant Vicens, nous reprenons les avenues vers l'ouest.\n\nNous terminons à la gare, un lieu singulier chargé d'histoire surréaliste que Salvador Dalí lui-même vénérait."
       },
       "gastro_picks": {
         "de": [
@@ -1191,9 +1205,9 @@
         ],
         "fr": [
           "Perpignan dispose d'un bon système de vélos en libre-service (Bip!).",
-          "Utilisez les pistes cyclables le long de la rivière pour une balade détendue.",
+          "Utilisez les pistes cyclables le long du fleuve pour une balade détendue.",
           "Certaines rues à sens unique de la vieille ville sont ouvertes aux cyclistes dans les deux sens.",
-          "Évitez de circuler à vélo dans les zones piétonnes les plus étroites à l'heure du déjeuner."
+          "Évitez de circuler à vélo dans les zones piétonnes les plus étroites à midi."
         ]
       },
       "variants": {
@@ -1202,7 +1216,8 @@
             "de": "Auf zwei Rädern erkunden wir Perpignan über seine Grenzen hinaus. Wir starten am modernen Théâtre de l'Archipel und folgen dem Fluss Têt auf grünen Wegen.\n\nDie Fahrt führt uns zum kunstvollen Viertel Saint-Vicens, bevor wir den Hügel zum Königspalast erklimmen. Die Wege sind meist flach und fahrradfreundlich.\n\nNach einer Pause im Parc Sant Vicens radeln wir durch die Alleen zurück Richtung Westen.\n\nDen Abschluss bildet der Bahnhof, ein skurriler Ort voller surrealistischer Geschichte, den schon Salvador Dalí verehrte.",
             "hu": "Két keréken fedezzük fel Perpignant a határain túl is. A modern Théâtre de l'Archipel-től indulunk, és a Têt-folyót követjük zöld ösvényeken.\n\nAz út a művészettel teli Saint-Vicens negyedbe vezet, mielőtt felkapaszkodnánk a királyi palota dombjára. Az utak többnyire síkak és biciklibarátok.\n\nA Parc Sant Vicens-ben tartott pihenő után a sugárutakon tekerünk vissza nyugat felé.\n\nA túrát a pályaudvarnál zárjuk, amely egy különleges, szürrealista történetekkel teli hely, és amelyet már Salvador Dalí is imádott.",
             "ro": "Pe două roți explorăm Perpignan dincolo de limitele sale. Pornim de la modernul Théâtre de l'Archipel și urmăm râul Têt pe poteci verzi.\n\nTraseul ne duce spre cartierul artistic Saint-Vicens, înainte de a urca dealul spre palatul regal. Drumurile sunt în mare parte plate și prietenoase cu bicicletele.\n\nDupă o pauză în Parc Sant Vicens, pedalăm pe bulevarde înapoi spre vest.\n\nÎncheiem la gară, un loc bizar plin de istorie suprarealistă, pe care Salvador Dalí l-a adorat.",
-            "en": "On two wheels, we explore Perpignan beyond its limits. We start at the modern Théâtre de l'Archipel and follow the Têt River along green paths.\n\nThe ride leads us to the artistic Saint-Vicens district before climbing the hill to the Royal Palace. The paths are mostly flat and bike-friendly.\n\nAfter a break in Parc Sant Vicens, we cycle through the avenues back toward the west.\n\nWe conclude at the train station, a peculiar place full of surrealist history that Salvador Dalí himself worshipped."
+            "en": "On two wheels, we explore Perpignan beyond its limits. We start at the modern Théâtre de l'Archipel and follow the Têt River along green paths.\n\nThe ride leads us to the artistic Saint-Vicens district before climbing the hill to the Royal Palace. The paths are mostly flat and bike-friendly.\n\nAfter a break in Parc Sant Vicens, we cycle through the avenues back toward the west.\n\nWe conclude at the train station, a peculiar place full of surrealist history that Salvador Dalí himself worshipped.",
+            "fr": "À deux roues, nous explorons Perpignan au-delà de ses limites. Nous commençons au moderne Théâtre de l'Archipel et longeons la Têt sur des voies vertes.\n\nLa balade nous mène au quartier artistique de Saint-Vicens avant de gravir la colline jusqu'au Palais Royal. Les chemins sont majoritairement plats et adaptés aux vélos.\n\nAprès une pause au Parc Sant Vicens, nous reprenons les avenues vers l'ouest.\n\nNous terminons à la gare, un lieu singulier chargé d'histoire surréaliste que Salvador Dalí lui-même vénérait."
           },
           "stops": [
             {
@@ -1211,7 +1226,8 @@
                 "de": "Bewundern Sie die moderne Architektur von Jean Nouvel.",
                 "hu": "Csodáld meg Jean Nouvel modern építészetét.",
                 "ro": "Admirați arhitectura modernă a lui Jean Nouvel.",
-                "en": "Admire the modern architecture by Jean Nouvel."
+                "en": "Admire the modern architecture by Jean Nouvel.",
+                "fr": "Admirez l'architecture moderne de Jean Nouvel."
               }
             },
             {
@@ -1220,7 +1236,8 @@
                 "de": "Genießen Sie den flachen Radweg am Flussufer.",
                 "hu": "Élvezd a sík kerékpárutat a folyóparton.",
                 "ro": "Bucurați-vă de pista plată de biciclete de pe malul râului.",
-                "en": "Enjoy the flat cycling path along the riverbank."
+                "en": "Enjoy the flat cycling path along the riverbank.",
+                "fr": "Profitez de la piste cyclable plate le long des berges."
               }
             },
             {
@@ -1229,7 +1246,8 @@
                 "de": "Besuchen Sie die Keramikwerkstatt, die Dali und Picasso inspirierte.",
                 "hu": "Látogasd meg a kerámiaműhelyt, amely Dalit és Picassót is megihlette.",
                 "ro": "Vizitați atelierul de ceramică ce i-a inspirat pe Dali și Picasso.",
-                "en": "Visit the ceramics workshop that inspired Dali and Picasso."
+                "en": "Visit the ceramics workshop that inspired Dali and Picasso.",
+                "fr": "Visitez l'atelier de céramique qui a inspiré Dalí et Picasso."
               }
             },
             {
@@ -1238,7 +1256,8 @@
                 "de": "Stellen Sie Ihr Fahrrad am Eingang sicher ab.",
                 "hu": "Zárd le biztonságosan a biciklit a bejáratnál.",
                 "ro": "Parcați bicicleta în siguranță la intrare.",
-                "en": "Park your bike securely at the entrance."
+                "en": "Park your bike securely at the entrance.",
+                "fr": "Garez votre vélo en sécurité à l'entrée."
               }
             },
             {
@@ -1247,7 +1266,8 @@
                 "de": "Ein moderner Park ideal für eine Radpause.",
                 "hu": "Modern park, ideális egy kerékpáros pihenőhöz.",
                 "ro": "Un parc modern ideal pentru o pauză de bicicletă.",
-                "en": "A modern park ideal for a cycling break."
+                "en": "A modern park ideal for a cycling break.",
+                "fr": "Un parc moderne idéal pour une pause à vélo."
               }
             },
             {
@@ -1256,7 +1276,8 @@
                 "de": "Dali nannte dies das 'Zentrum der Welt'.",
                 "hu": "Dali a 'világ közepének' nevezte ezt a helyet.",
                 "ro": "Dali a numit acest loc 'centrul lumii'.",
-                "en": "Dali called this place the 'center of the world'."
+                "en": "Dali called this place the 'center of the world'.",
+                "fr": "Dalí appelait cet endroit « le centre du monde »."
               }
             }
           ],
@@ -1402,6 +1423,12 @@
               "Use the bike paths along the river for a relaxed ride.",
               "Some one-way streets in the old town are open to cyclists in both directions.",
               "Avoid cycling in the narrowest pedestrian zones at midday."
+            ],
+            "fr": [
+              "Perpignan dispose d'un bon système de vélos en libre-service (Bip!).",
+              "Utilisez les pistes cyclables le long du fleuve pour une balade détendue.",
+              "Certaines rues à sens unique de la vieille ville sont ouvertes aux cyclistes dans les deux sens.",
+              "Évitez de circuler à vélo dans les zones piétonnes les plus étroites à midi."
             ]
           }
         },
@@ -1411,7 +1438,7 @@
             "hu": "Az esős nap tökéletes egy autós túrához. A palotától indulunk a Castillet felé, ahol a parkolóházak száraz bejutást biztosítanak. Délben Canet-en-Roussillon felé vesszük az irányt, hogy megnézzük a viharos tengert. A délutánt a festői Collioure-ban töltjük, amely esőben misztikus hangulatot áraszt. A napot biztonságban zárjuk Perpignan központjában.",
             "ro": "O zi ploioasă este perfectă pentru un tur cu mașina. Pornim de la palat spre Castillet, unde parcările subterane oferă acces uscat. La prânz mergem la Canet-en-Roussillon pentru a observa marea agitată. Petrecem după-amiaza în pitorescul Collioure, care emană o atmosferă mistică pe ploaie. Încheiem ziua în siguranță în centrul orașului Perpignan.",
             "en": "A rainy day is perfect for a car tour. We start at the Palace and drive to Le Castillet, where parking garages offer dry access. At noon, we head to Canet-en-Roussillon to watch the stormy sea. We spend the afternoon in picturesque Collioure, which exudes a mystical atmosphere in the rain. We end the day safely in the city center of Perpignan.",
-            "fr": "Une journée pluvieuse est parfaite pour un tour en voiture. Nous commençons au Palais et nous dirigeons vers le Castillet, où les parkings couverts offrent un accès au sec. À midi, nous partons vers Canet-en-Roussillon pour observer la mer déchaînée. Nous passons l'après-midi dans le pittoresque village de Collioure, qui dégage une atmosphère mystique sous la pluie. Nous terminons la journée en toute sécurité dans le centre-ville de Perpignan."
+            "fr": "Une journée pluvieuse est parfaite pour un circuit en voiture. Nous commençons au Palais et roulons jusqu'au Castillet, où des parkings offrent un accès à l'abri. À midi, nous allons à Canet-en-Roussillon pour observer la mer agitée. L'après-midi est consacré à la pittoresque Collioure, qui dégage une atmosphère mystique sous la pluie. Nous terminons la journée en toute sécurité au centre-ville de Perpignan."
           },
           "stops": [
             {
@@ -1431,7 +1458,7 @@
                 "hu": "Használja a 'Parking Wilson' parkolóházat a száraz közlekedéshez.",
                 "ro": "Folosiți parcarea 'Parking Wilson' pentru a rămâne uscat.",
                 "en": "Use the 'Parking Wilson' garage for dry access.",
-                "fr": "Utilisez le parking 'Wilson' pour un accès au sec."
+                "fr": "Utilisez le parking 'Wilson' pour un accès à l'abri."
               }
             },
             {
@@ -1441,7 +1468,7 @@
                 "hu": "Figyelje a tengert biztonságban a sétány egyik kávézójából.",
                 "ro": "Observați marea în siguranță de la una dintre cafenelele de pe faleză.",
                 "en": "Watch the sea safely from one of the cafes on the promenade.",
-                "fr": "Observez la mer en toute sécurité depuis l'un des cafés de la promenade."
+                "fr": "Regardez la mer en toute sécurité depuis l'un des cafés sur la promenade."
               }
             },
             {
@@ -1461,7 +1488,7 @@
                 "hu": "Csendes, történelmi hely, amely esőben is bájos.",
                 "ro": "Un loc liniștit și istoric care are mult farmec chiar și pe ploaie.",
                 "en": "A quiet, historical place that has a lot of charm even in the rain.",
-                "fr": "Un lieu calme et historique qui a beaucoup de charme même sous la pluie."
+                "fr": "Un lieu historique et calme qui garde beaucoup de charme même sous la pluie."
               }
             },
             {
@@ -1471,7 +1498,7 @@
                 "hu": "A központi parkolás gyors éttermi látogatást tesz lehetővé.",
                 "ro": "Parcarea ușoară în centru permite o vizită rapidă la restaurant.",
                 "en": "Easy parking in the center allows for a quick restaurant visit.",
-                "fr": "Le stationnement facile au centre permet une visite rapide au restaurant."
+                "fr": "Un stationnement facile au centre permet une visite rapide au restaurant."
               }
             }
           ],
@@ -1505,11 +1532,11 @@
               "An umbrella in the trunk is essential."
             ],
             "fr": [
-              "Vérifiez vos balais d'essuie-glace avant le départ.",
-              "Les routes côtières peuvent être arrosées par les embruns en cas de vent.",
-              "Utilisez l'application 'Perpignan Park' pour connaître les places disponibles.",
+              "Vérifiez les balais d'essuie-glace avant le départ.",
+              "Les routes côtières peuvent être aspergées par les embruns par temps de vent.",
+              "Utilisez l'application 'Perpignan Park' pour les places disponibles.",
               "Gardez vos distances sur les routes de campagne souvent glissantes.",
-              "Un parapluie dans le coffre est essentiel."
+              "Un parapluie dans le coffre est indispensable."
             ]
           }
         },
@@ -1519,7 +1546,7 @@
             "hu": "Télen az autós túra a tiszta Roussillon vidéken vezet keresztül. A palota után a Castilletet keressük fel. A canet-i út télen üres strandokat és friss levegőt ígér. Collioure-ban élvezzük a meleg délutáni fényeket a nyári tömeg nélkül. Egy elne-i megálló után térünk vissza Perpignanba, amikor a város téli díszben ragyog.",
             "ro": "Iarna, turul cu mașina ne poartă prin regiunea clară Roussillon. După palat vizităm Castillet. Drumul spre Canet oferă plaje pustii și aer proaspăt. În Collioure ne bucurăm de lumina caldă a după-amiezii fără masele de turiști. După o oprire în Elne ne întoarcem în Perpignan, când orașul este luminat feeric.",
             "en": "In winter, the car tour takes us through the clear Roussillon region. After the Palace, we visit Le Castillet. The drive to Canet offers empty beaches and fresh air in winter. In Collioure, we enjoy the warm afternoon light without the summer crowds. After a stop in Elne, we return to Perpignan as the city is lit up in winter magic.",
-            "fr": "En hiver, le tour en voiture nous emmène à travers la région limpide du Roussillon. Après le Palais, nous visitons le Castillet. Le trajet vers Canet offre des plages désertes et de l'air frais en hiver. À Collioure, nous profitons de la lumière chaude de l'après-midi sans la foule estivale. Après une halte à Elne, nous retournons à Perpignan alors que la ville s'illumine de la magie de l'hiver."
+            "fr": "En hiver, la visite en voiture nous fait traverser le clair Roussillon. Après le Palais, nous visitons le Castillet. La route vers Canet offre des plages vides et l'air frais de l'hiver. À Collioure, nous profitons de la lumière chaude de l'après-midi sans la foule estivale. Après un arrêt à Elne, nous rentrons à Perpignan alors que la ville s'illumine de sa magie hivernale."
           },
           "stops": [
             {
@@ -1529,7 +1556,7 @@
                 "hu": "Élvezze a fűtést az autóban a következő megállóig.",
                 "ro": "Bucurați-vă de căldura din mașină în drum spre următoarea oprire.",
                 "en": "Enjoy the heater in the car on the way to the next stop.",
-                "fr": "Profitez du chauffage de la voiture en route vers la prochaine étape."
+                "fr": "Profitez du chauffage de la voiture en route vers l'étape suivante."
               }
             },
             {
@@ -1539,7 +1566,7 @@
                 "hu": "A központi parkolás rövid gyalogutat tesz lehetővé a hidegben.",
                 "ro": "Parcarea centrală permite drumuri scurte pe jos prin frig.",
                 "en": "Central parking allows for short walks through the cold.",
-                "fr": "Le parking central permet de courtes marches dans le froid."
+                "fr": "Le stationnement central permet de courtes marches dans le froid."
               }
             },
             {
@@ -1579,7 +1606,7 @@
                 "hu": "A központ téli kivilágítása az autóból is gyönyörű.",
                 "ro": "Iluminatul de iarnă din centru este superb văzut din mașină.",
                 "en": "The winter lighting in the center is beautiful from the car.",
-                "fr": "L'éclairage d'hiver du centre est magnifique vu de la voiture."
+                "fr": "Les illuminations hivernales du centre sont belles depuis la voiture."
               }
             }
           ],
@@ -1613,11 +1640,11 @@
               "Windshield washer fluid with antifreeze is advisable."
             ],
             "fr": [
-              "Attention au givre sur les ponts tôt le matin.",
-              "La visibilité est souvent excellente pour les photos en hiver.",
-              "Les frais de stationnement sont réduits dans certaines zones pendant l'hiver.",
-              "Prévoyez une couverture pour les pauses sur la plage.",
-              "Un liquide lave-glace avec antigel est conseillé."
+              "Attention au verglas sur les ponts en tout début de matinée.",
+              "La visibilité est souvent brillante pour les photos en hiver.",
+              "Les frais de stationnement sont réduits dans certaines zones en hiver.",
+              "Prenez une couverture pour les pauses sur la plage.",
+              "Un liquide lave-glace antigel est conseillé."
             ]
           }
         }
@@ -1723,7 +1750,7 @@
             "hu": "Megható történelmi helyszín a második világháborúból.",
             "ro": "Un loc istoric emoționant din Al Doilea Război Mondial.",
             "en": "A touching historical site from World War II.",
-            "fr": "Un site historique émouvant de la Seconde Guerre mondiale."
+            "fr": "Un lieu historique émouvant de la Seconde Guerre mondiale."
           }
         },
         {
@@ -1751,7 +1778,7 @@
         "hu": "Autóval összekötjük a történelmi Perpignant a Földközi-tenger partvidékének vad szépségével. A reggeli városi kulturális program után Canet széles homokos strandja felé vesszük az irányt.\n\nDélben friss halat élvezünk közvetlenül a parton. A tengerparti út délre visz minket a festői Collioure-ba, amelyet minden látogatónak látnia kell.\n\nA délután Collioure művészetének és történelmének felfedezésével telik, majd visszaúton megállunk Elne-ben.\n\nVégül visszatérünk Perpignanba, hogy katalán tapaszokkal zárjuk a napot.",
         "ro": "Cu mașina legăm Perpignan-ul istoric de frumusețea sălbatică a coastei mediteraneene. După programul cultural de dimineață din oraș, pornim spre plaja largă cu nisip din Canet.\n\nLa prânz ne bucurăm de pește proaspăt chiar pe malul mării. Drumul de coastă ne duce mai departe spre sud, în pitorescul Collioure, o destinație obligatorie.\n\nDupă-amiaza este dedicată artei și istoriei din Collioure, înainte de a face o oprire în Elne la întoarcere.\n\nLa final revenim în Perpignan pentru a încheia ziua cu tapas catalane.",
         "en": "By car, we combine historic Perpignan with the wild beauty of the Mediterranean coast. After the morning cultural program in the city, we head to the wide sandy beach of Canet.\n\nAt lunch, we enjoy fresh fish right by the water. The coastal road takes us further south to picturesque Collioure, a must-see for every visitor.\n\nThe afternoon is spent exploring the art and history of Collioure before stopping in Elne on the way back.\n\nFinally, we return to Perpignan to end the day with some Catalan tapas.",
-        "fr": "En voiture, nous combinons le Perpignan historique avec la beauté sauvage de la côte méditerranéenne. Après le programme culturel du matin en ville, nous nous dirigeons vers la large plage de sable de Canet.\n\nAu déjeuner, nous dégustons du poisson frais au bord de l'eau. La route côtière nous emmène plus au sud vers le pittoresque Collioure, un incontournable pour tout visiteur.\n\nL'après-midi est consacré à l'exploration de l'art et de l'histoire de Collioure avant de s'arrêter à Elne sur le chemin du retour.\n\nEnfin, nous retournons à Perpignan pour terminer la journée avec quelques tapas catalanes."
+        "fr": "En voiture, nous combinons le Perpignan historique avec la beauté sauvage de la côte méditerranéenne. Après le programme culturel du matin en ville, nous nous dirigeons vers la large plage de sable de Canet.\n\nÀ midi, nous dégustons du poisson frais au bord de l'eau. La route côtière nous mène plus au sud jusqu'à la pittoresque Collioure, incontournable pour tout visiteur.\n\nL'après-midi est consacré à l'exploration de l'art et de l'histoire de Collioure avant un arrêt à Elne sur le chemin du retour.\n\nEnfin, nous rentrons à Perpignan pour terminer la journée autour de quelques tapas catalanes."
       },
       "gastro_picks": {
         "de": [
@@ -1926,9 +1953,9 @@
         ],
         "fr": [
           "Le stationnement à Collioure est très difficile en été ; arrivez tôt.",
-          "L'autoroute A9 est rapide, mais la route côtière est beaucoup plus panoramique.",
-          "À Canet, il y a de nombreuses places de parking gratuites près de la plage.",
-          "Soyez conscient des vents forts (Tramontane) qui soufflent souvent sur la côte."
+          "L'autoroute A9 est rapide, mais la route côtière est bien plus pittoresque.",
+          "À Canet, de nombreuses places gratuites se trouvent près de la plage.",
+          "Attention aux vents forts (Tramontane) qui soufflent souvent sur la côte."
         ]
       },
       "variants": {
@@ -1937,7 +1964,8 @@
             "de": "Mit dem Auto verbinden wir das historische Perpignan mit der wilden Schönheit der Mittelmeerküste. Nach dem morgendlichen Kulturprogramm in der Stadt fahren wir zum breiten Sandstrand von Canet.\n\nMittags genießen wir frischen Fisch direkt am Wasser. Die Küstenstraße führt uns weiter nach Süden in das malerische Collioure, ein Muss für jeden Besucher.\n\nDer Nachmittag steht im Zeichen der Kunst und Geschichte in Collioure, bevor wir auf dem Rückweg einen Halt in Elne einlegen.\n\nZum Abschluss kehren wir nach Perpignan zurück, um den Tag bei katalanischen Tapas ausklingen zu lassen.",
             "hu": "Autóval összekötjük a történelmi Perpignant a Földközi-tenger partvidékének vad szépségével. A reggeli városi kulturális program után Canet széles homokos strandja felé vesszük az irányt.\n\nDélben friss halat élvezünk közvetlenül a parton. A tengerparti út délre visz minket a festői Collioure-ba, amelyet minden látogatónak látnia kell.\n\nA délután Collioure művészetének és történelmének felfedezésével telik, majd visszaúton megállunk Elne-ben.\n\nVégül visszatérünk Perpignanba, hogy katalán tapaszokkal zárjuk a napot.",
             "ro": "Cu mașina legăm Perpignan-ul istoric de frumusețea sălbatică a coastei mediteraneene. După programul cultural de dimineață din oraș, pornim spre plaja largă cu nisip din Canet.\n\nLa prânz ne bucurăm de pește proaspăt chiar pe malul mării. Drumul de coastă ne duce mai departe spre sud, în pitorescul Collioure, o destinație obligatorie.\n\nDupă-amiaza este dedicată artei și istoriei din Collioure, înainte de a face o oprire în Elne la întoarcere.\n\nLa final revenim în Perpignan pentru a încheia ziua cu tapas catalane.",
-            "en": "By car, we combine historic Perpignan with the wild beauty of the Mediterranean coast. After the morning cultural program in the city, we head to the wide sandy beach of Canet.\n\nAt lunch, we enjoy fresh fish right by the water. The coastal road takes us further south to picturesque Collioure, a must-see for every visitor.\n\nThe afternoon is spent exploring the art and history of Collioure before stopping in Elne on the way back.\n\nFinally, we return to Perpignan to end the day with some Catalan tapas."
+            "en": "By car, we combine historic Perpignan with the wild beauty of the Mediterranean coast. After the morning cultural program in the city, we head to the wide sandy beach of Canet.\n\nAt lunch, we enjoy fresh fish right by the water. The coastal road takes us further south to picturesque Collioure, a must-see for every visitor.\n\nThe afternoon is spent exploring the art and history of Collioure before stopping in Elne on the way back.\n\nFinally, we return to Perpignan to end the day with some Catalan tapas.",
+            "fr": "En voiture, nous combinons le Perpignan historique avec la beauté sauvage de la côte méditerranéenne. Après le programme culturel du matin en ville, nous nous dirigeons vers la large plage de sable de Canet.\n\nÀ midi, nous dégustons du poisson frais au bord de l'eau. La route côtière nous mène plus au sud jusqu'à la pittoresque Collioure, incontournable pour tout visiteur.\n\nL'après-midi est consacré à l'exploration de l'art et de l'histoire de Collioure avant un arrêt à Elne sur le chemin du retour.\n\nEnfin, nous rentrons à Perpignan pour terminer la journée autour de quelques tapas catalanes."
           },
           "stops": [
             {
@@ -1946,7 +1974,8 @@
                 "de": "Großer Parkplatz direkt am Eingang verfügbar.",
                 "hu": "Nagy parkoló közvetlenül a bejáratnál.",
                 "ro": "Parcare mare disponibilă chiar la intrare.",
-                "en": "Large parking lot available right at the entrance."
+                "en": "Large parking lot available right at the entrance.",
+                "fr": "Grand parking disponible juste à l'entrée."
               }
             },
             {
@@ -1955,7 +1984,8 @@
                 "de": "Nutzen Sie das Parkhaus 'Arago' in der Nähe.",
                 "hu": "Használd a közeli 'Arago' parkolóházat.",
                 "ro": "Folosiți parcarea subterană 'Arago' din apropiere.",
-                "en": "Use the 'Arago' parking garage nearby."
+                "en": "Use the 'Arago' parking garage nearby.",
+                "fr": "Utilisez le parking 'Arago' à proximité."
               }
             },
             {
@@ -1964,7 +1994,8 @@
                 "de": "Genießen Sie ein Mittagessen mit Blick auf das Meer.",
                 "hu": "Élvezz egy ebédet tengerre néző kilátással.",
                 "ro": "Bucurați-vă de un prânz cu vedere la mare.",
-                "en": "Enjoy a lunch with a view of the sea."
+                "en": "Enjoy a lunch with a view of the sea.",
+                "fr": "Profitez d'un déjeuner avec vue sur la mer."
               }
             },
             {
@@ -1973,7 +2004,8 @@
                 "de": "Die Perle der Küste, Heimat des Fauvismus.",
                 "hu": "A part gyöngyszeme, a fauvizmus hazája.",
                 "ro": "Perla coastei, locul de naștere al fauvismului.",
-                "en": "The pearl of the coast, home of Fauvism."
+                "en": "The pearl of the coast, home of Fauvism.",
+                "fr": "La perle de la côte, berceau du fauvisme."
               }
             },
             {
@@ -1982,7 +2014,8 @@
                 "de": "Ein berührender Ort der Geschichte aus dem Zweiten Weltkrieg.",
                 "hu": "Megható történelmi helyszín a második világháborúból.",
                 "ro": "Un loc istoric emoționant din Al Doilea Război Mondial.",
-                "en": "A touching historical site from World War II."
+                "en": "A touching historical site from World War II.",
+                "fr": "Un lieu historique émouvant de la Seconde Guerre mondiale."
               }
             },
             {
@@ -1991,7 +2024,8 @@
                 "de": "Abendessen in der Nähe des beleuchteten Castillet.",
                 "hu": "Vacsora a kivilágított Castillet közelében.",
                 "ro": "Cină în apropierea monumentului Castillet iluminat.",
-                "en": "Dinner near the illuminated Castillet."
+                "en": "Dinner near the illuminated Castillet.",
+                "fr": "Dîner près du Castillet illuminé."
               }
             }
           ],
@@ -2137,6 +2171,12 @@
               "The A9 highway is fast, but the coastal road is much more scenic.",
               "In Canet, there are many free parking spots near the beach.",
               "Be aware of the strong winds (Tramontane) that often blow on the coast."
+            ],
+            "fr": [
+              "Le stationnement à Collioure est très difficile en été ; arrivez tôt.",
+              "L'autoroute A9 est rapide, mais la route côtière est bien plus pittoresque.",
+              "À Canet, de nombreuses places gratuites se trouvent près de la plage.",
+              "Attention aux vents forts (Tramontane) qui soufflent souvent sur la côte."
             ]
           }
         },
@@ -2146,7 +2186,7 @@
             "hu": "Busszal az esős Perpignanban. Az állomástól indulunk, és a helyi járatokat használjuk, hogy szárazon jussunk el a Castillethez. Délben a busz a palotához visz minket. Saint-Vicensben élvezzük a csendet, mielőtt a Place de la République-ra utaznánk. A megállók fedettek, így a várakozás nem probléma, és egész nap szárazak maradunk.",
             "ro": "Cu autobuzul prin Perpignanul ploios. Pornim de la gară și folosim liniile pentru a ajunge uscați la Castillet. La prânz, autobuzul ne duce la palat. În Saint-Vicens ne bucurăm de liniște înainte de a merge spre Place de la République. Timpii de așteptare în stații nu sunt o problemă datorită copertinelor, iar noi rămânem uscați toată ziua.",
             "en": "By bus through rainy Perpignan. We start at the station and use the lines to get dry to Le Castillet. At noon, the bus takes us to the Palace. In Saint-Vicens we enjoy the silence before traveling to Place de la République. The waiting times at the stops are no problem thanks to the roofing, and we stay dry all day long.",
-            "fr": "En bus à travers Perpignan sous la pluie. Nous commençons à la gare et utilisons les lignes pour rejoindre le Castillet au sec. À midi, le bus nous emmène au Palais. À Saint-Vicens, nous profitons du silence avant de nous rendre Place de la République. Les temps d'attente aux arrêts ne sont pas un problème grâce aux abris, et nous restons au sec toute la journée."
+            "fr": "En bus à travers un Perpignan pluvieux. Nous commençons à la gare et prenons les lignes pour atteindre à l'abri le Castillet. À midi, le bus nous conduit jusqu'au Palais. À Saint-Vicens, nous profitons du calme avant de nous rendre à la Place de la République. Les temps d'attente aux arrêts ne posent pas de problème grâce aux abris, et nous restons au sec toute la journée."
           },
           "stops": [
             {
@@ -2156,7 +2196,7 @@
                 "hu": "A nagy pályaudvari csarnok tökéletes védelmet nyújt az eső ellen.",
                 "ro": "Holul mare al gării oferă protecție perfectă împotriva ploii.",
                 "en": "Large station hall offers perfect protection from the rain.",
-                "fr": "Le grand hall de la gare offre une protection parfaite contre la pluie."
+                "fr": "La grande salle de la gare offre une parfaite protection contre la pluie."
               }
             },
             {
@@ -2176,7 +2216,7 @@
                 "hu": "Rövid gyalogút a buszmegállótól a főbejáratig.",
                 "ro": "Drum scurt pe jos de la stația de autobuz până la intrarea principală.",
                 "en": "Short walk from the bus stop to the main entrance.",
-                "fr": "Courte marche de l'arrêt de bus à l'entrée principale."
+                "fr": "Courte marche de l'arrêt de bus jusqu'à l'entrée principale."
               }
             },
             {
@@ -2196,7 +2236,7 @@
                 "hu": "Számos járat vezet innen vissza az állomásra vagy a hotelhez.",
                 "ro": "Multe linii duc de aici înapoi la gară sau la hotel.",
                 "en": "Many lines lead from here back to the station or hotel.",
-                "fr": "De nombreuses lignes mènent d'ici vers la gare ou l'hôtel."
+                "fr": "De nombreuses lignes partent d'ici vers la gare ou l'hôtel."
               }
             }
           ],
@@ -2230,11 +2270,11 @@
               "Watch out for splashing water at the curbs."
             ],
             "fr": [
-              "Utilisez l'application 'Sankéo' pour des informations en temps réel.",
+              "Utilisez l'application 'Sankéo' pour les informations en temps réel.",
               "La plupart des arrêts du centre sont couverts.",
-              "Un ticket à la journée vaut particulièrement le coup par mauvais temps.",
-              "Les bus sont souvent bondés sous la pluie ; prévoyez du temps supplémentaire.",
-              "Attention aux projections d'eau au bord des trottoirs."
+              "Un ticket journée est particulièrement rentable par mauvais temps.",
+              "Les bus sont souvent bondés par temps de pluie ; prévoyez du temps supplémentaire.",
+              "Attention aux éclaboussures d'eau aux bordures."
             ]
           }
         },
@@ -2244,7 +2284,7 @@
             "hu": "A téli túra tömegközlekedéssel kényelmes és meleg. A perpignani állomástól indulunk a Castillet felé. Délben a busz a palotához visz minket, ahol élvezzük a kilátást. Saint-Vicens látogatása jól kombinálható a buszjáratokkal. A napot a Place de la République-on zárjuk, ahonnan könnyen visszajuthatunk a szállásra.",
             "ro": "Un tur de iarnă cu transportul public este confortabil și călduros. Pornim de la gara Perpignan și mergem spre Castillet. La prânz autobuzul ne duce la palat, unde admirăm priveliștea. Vizita la Saint-Vicens se combină bine cu liniile de autobuz. Încheiem ziua la Place de la République, fiind bine conectați pentru drumul spre căldură.",
             "en": "A winter tour by public transport is comfortable and warm. We start at Perpignan station and travel to Le Castillet. At noon, the bus takes us to the Palace, where we enjoy the view. A visit to Saint-Vicens can be easily combined with the bus lines. We end the day at Place de la République, well connected for the trip back to the warmth.",
-            "fr": "Un tour hivernal en transports en commun est confortable et chaud. Nous commençons à la gare de Perpignan et nous rendons au Castillet. À midi, le bus nous emmène au Palais, d'où nous profitons de la vue. Une visite à Saint-Vicens peut être facilement combinée avec les lignes de bus. Nous terminons la journée Place de la République, bien desservie pour le retour au chaud."
+            "fr": "Une visite hivernale en transports en commun est confortable et chaude. Nous commençons à la gare de Perpignan et rejoignons Le Castillet. À midi, le bus nous conduit au Palais, où nous profitons de la vue. Une visite à Saint-Vicens se combine facilement avec les lignes de bus. Nous terminons la journée à la Place de la République, bien desservie pour le retour vers la chaleur."
           },
           "stops": [
             {
@@ -2264,7 +2304,7 @@
                 "hu": "A gyakori járatok rugalmas utazást tesznek lehetővé télen.",
                 "ro": "Conexiunile frecvente permit călătorii flexibile iarna.",
                 "en": "Frequent connections allow for flexible travel in winter.",
-                "fr": "Les correspondances fréquentes permettent des déplacements flexibles en hiver."
+                "fr": "Des correspondances fréquentes permettent une grande flexibilité de déplacement en hiver."
               }
             },
             {
@@ -2274,7 +2314,7 @@
                 "hu": "Használja a buszt, hogy lerövidítse a szeles emelkedőt.",
                 "ro": "Folosiți autobuzul pentru a scurta urcarea vântoasă.",
                 "en": "Use the bus to shorten the windy climb.",
-                "fr": "Utilisez le bus pour raccourcir la montée venteuse."
+                "fr": "Prenez le bus pour raccourcir la montée venteuse."
               }
             },
             {
@@ -2294,7 +2334,7 @@
                 "hu": "Központi csomópont, ideális a gyors hazaúthoz.",
                 "ro": "Nod central, ideal pentru drumul rapid spre casă.",
                 "en": "Central hub, ideal for a quick way home.",
-                "fr": "Pôle central, idéal pour un retour rapide à la maison."
+                "fr": "Nœud central, idéal pour un retour rapide à la maison."
               }
             }
           ],
@@ -2329,10 +2369,10 @@
             ],
             "fr": [
               "Les bus sont bien chauffés en hiver.",
-              "Évitez d'attendre aux coins de rues exposés aux courants d'air.",
-              "Profitez du temps dans le bus pour trier vos photos.",
+              "Évitez d'attendre aux coins de rue exposés aux courants d'air.",
+              "Profitez du trajet en bus pour trier vos photos.",
               "La fréquence peut être réduite les jours fériés.",
-              "Achetez vos tickets à l'avance via l'application pour éviter le froid aux distributeurs."
+              "Achetez vos billets à l'avance via l'application pour éviter le froid aux distributeurs."
             ]
           }
         }
@@ -2362,7 +2402,7 @@
             "hu": "Minden buszjárat központi csomópontja.",
             "ro": "Hub principal pentru toate liniile de autobuz.",
             "en": "Main hub for all bus lines.",
-            "fr": "Principal pôle pour toutes les lignes de bus."
+            "fr": "Pôle principal pour toutes les lignes de bus."
           }
         },
         {
@@ -2447,7 +2487,7 @@
         "hu": "A 'Sankéo' hatékony buszhálózatával stresszmentesen fedezzük fel Perpignant. Az építészetileg egyedülálló pályaudvartól indulunk, és egyenesen a Castillethez utazunk.\n\nAz óvárosi séta után a busz felvisz minket a dombon álló fenséges királyi palotához. Az átszállás a központban egyszerű és jól kitáblázott.\n\nEgy kitérő a Saint-Vicens negyedbe megmutatja a város művészi arcát, mielőtt visszatérnénk Perpignan szívébe.\n\nA napot nyugodtan zárjuk a Place de la République-on, ahol egy kávé mellett figyelhetjük a város forgatagát.",
         "ro": "Cu sistemul eficient de autobuze 'Sankéo', explorăm Perpignan fără stres. Începem la gară, un obiectiv arhitectural unic, și mergem direct la Castillet.\n\nDupă vizitarea centrului vechi, autobuzul ne duce la maiestuosul palat regal de pe deal. Schimbarea liniilor în centru este simplă și bine semnalizată.\n\nO scurtă vizită în cartierul Saint-Vicens ne arată latura artistică a orașului, înainte de a reveni în inima Perpignanului.\n\nZiua se încheie relaxat în Place de la République, unde puteți observa agitația orașului la o cafea.",
         "en": "With the efficient 'Sankéo' bus network, we explore Perpignan stress-free. We start at the architecturally unique train station and travel straight to Le Castillet.\n\nAfter visiting the old town, the bus takes us up to the majestic Royal Palace on the hill. Transferring in the center is easy and well-signposted.\n\nA detour to the Saint-Vicens district shows us the artistic side of the city before we head back to the heart of Perpignan.\n\nThe day ends peacefully at Place de la République, where you can watch the city's bustle over a coffee.",
-        "fr": "Avec le réseau de bus efficace 'Sankéo', nous explorons Perpignan sans stress. Nous commençons par la gare à l'architecture unique et nous rendons directement au Castillet.\n\nAprès avoir visité la vieille ville, le bus nous emmène jusqu'au majestueux Palais des Rois de Majorque sur la colline. Les correspondances au centre sont faciles et bien signalées.\n\nUn détour par le quartier Saint-Vicens nous montre le côté artistique de la ville avant de retourner au cœur de Perpignan.\n\nLa journée se termine paisiblement Place de la République, où l'on peut observer l'animation de la ville autour d'un café."
+        "fr": "Avec le réseau de bus 'Sankéo' efficace, nous explorons Perpignan sans stress. Nous commençons à la gare à l'architecture unique et allons directement au Castillet.\n\nAprès la visite de la vieille ville, le bus nous monte au majestueux Palais Royal sur la colline. Les correspondances au centre sont faciles et bien signalées.\n\nUn détour par le quartier Saint-Vicens révèle le côté artistique de la ville avant de revenir au cœur de Perpignan.\n\nLa journée se termine paisiblement à la Place de la République, où vous pouvez regarder l'animation de la ville autour d'un café."
       },
       "gastro_picks": {
         "de": [
@@ -2576,10 +2616,10 @@
           "Buses run less frequently on Sundays; plan ahead."
         ],
         "fr": [
-          "Achetez un ticket à la journée pour le réseau Sankéo pour des voyages illimités.",
+          "Achetez un billet journée pour le réseau Sankéo pour des trajets illimités.",
           "Les 'P'tit Bus' sont de petites navettes électriques qui circulent gratuitement dans la vieille ville.",
-          "Les arrêts de bus sont souvent équipés d'écrans en temps réel.",
-          "Les bus circulent moins fréquemment le dimanche ; planifiez à l'avance."
+          "Les arrêts de bus sont souvent équipés d'affichages en temps réel.",
+          "Les bus circulent moins fréquemment le dimanche ; prévoyez à l'avance."
         ]
       },
       "variants": {
@@ -2588,7 +2628,8 @@
             "de": "Mit dem effizienten Bussystem 'Sankéo' erkunden wir Perpignan stressfrei. Wir beginnen am architektonisch einzigartigen Bahnhof und fahren direkt zum Castillet.\n\nNach dem Besuch der Altstadt bringt uns der Bus zum majestätischen Königspalast auf dem Hügel. Das Umsteigen im Zentrum ist einfach und gut beschildert.\n\nEin Abstecher in das Viertel Saint-Vicens zeigt uns die künstlerische Seite der Stadt, bevor wir zurück ins Herz von Perpignan fahren.\n\nDer Tag endet entspannt auf der Place de la République, wo man das Treiben der Stadt bei einem Kaffee beobachten kann.",
             "hu": "A 'Sankéo' hatékony buszhálózatával stresszmentesen fedezzük fel Perpignant. Az építészetileg egyedülálló pályaudvartól indulunk, és egyenesen a Castillethez utazunk.\n\nAz óvárosi séta után a busz felvisz minket a dombon álló fenséges királyi palotához. Az átszállás a központban egyszerű és jól kitáblázott.\n\nEgy kitérő a Saint-Vicens negyedbe megmutatja a város művészi arcát, mielőtt visszatérnénk Perpignan szívébe.\n\nA napot nyugodtan zárjuk a Place de la République-on, ahol egy kávé mellett figyelhetjük a város forgatagát.",
             "ro": "Cu sistemul eficient de autobuze 'Sankéo', explorăm Perpignan fără stres. Începem la gară, un obiectiv arhitectural unic, și mergem direct la Castillet.\n\nDupă vizitarea centrului vechi, autobuzul ne duce la maiestuosul palat regal de pe deal. Schimbarea liniilor în centru este simplă și bine semnalizată.\n\nO scurtă vizită în cartierul Saint-Vicens ne arată latura artistică a orașului, înainte de a reveni în inima Perpignanului.\n\nZiua se încheie relaxat în Place de la République, unde puteți observa agitația orașului la o cafea.",
-            "en": "With the efficient 'Sankéo' bus network, we explore Perpignan stress-free. We start at the architecturally unique train station and travel straight to Le Castillet.\n\nAfter visiting the old town, the bus takes us up to the majestic Royal Palace on the hill. Transferring in the center is easy and well-signposted.\n\nA detour to the Saint-Vicens district shows us the artistic side of the city before we head back to the heart of Perpignan.\n\nThe day ends peacefully at Place de la République, where you can watch the city's bustle over a coffee."
+            "en": "With the efficient 'Sankéo' bus network, we explore Perpignan stress-free. We start at the architecturally unique train station and travel straight to Le Castillet.\n\nAfter visiting the old town, the bus takes us up to the majestic Royal Palace on the hill. Transferring in the center is easy and well-signposted.\n\nA detour to the Saint-Vicens district shows us the artistic side of the city before we head back to the heart of Perpignan.\n\nThe day ends peacefully at Place de la République, where you can watch the city's bustle over a coffee.",
+            "fr": "Avec le réseau de bus 'Sankéo' efficace, nous explorons Perpignan sans stress. Nous commençons à la gare à l'architecture unique et allons directement au Castillet.\n\nAprès la visite de la vieille ville, le bus nous monte au majestueux Palais Royal sur la colline. Les correspondances au centre sont faciles et bien signalées.\n\nUn détour par le quartier Saint-Vicens révèle le côté artistique de la ville avant de revenir au cœur de Perpignan.\n\nLa journée se termine paisiblement à la Place de la République, où vous pouvez regarder l'animation de la ville autour d'un café."
           },
           "stops": [
             {
@@ -2597,7 +2638,8 @@
                 "de": "Hauptknotenpunkt für alle Buslinien.",
                 "hu": "Minden buszjárat központi csomópontja.",
                 "ro": "Hub principal pentru toate liniile de autobuz.",
-                "en": "Main hub for all bus lines."
+                "en": "Main hub for all bus lines.",
+                "fr": "Pôle principal pour toutes les lignes de bus."
               }
             },
             {
@@ -2606,7 +2648,8 @@
                 "de": "Linien 1, 2 und 3 halten hier direkt am Eingang zur Altstadt.",
                 "hu": "Az 1-es, 2-es és 3-as buszok közvetlenül az óváros bejáratánál állnak meg.",
                 "ro": "Liniile 1, 2 și 3 opresc aici, chiar la intrarea în centrul vechi.",
-                "en": "Lines 1, 2, and 3 stop here, right at the old town entrance."
+                "en": "Lines 1, 2, and 3 stop here, right at the old town entrance.",
+                "fr": "Les lignes 1, 2 et 3 s'arrêtent ici, juste à l'entrée de la vieille ville."
               }
             },
             {
@@ -2615,7 +2658,8 @@
                 "de": "Nutzen Sie den Shuttle 'Le P'tit Bus' für das Zentrum.",
                 "hu": "Használd a 'Le P'tit Bus' ingajáratot a központban.",
                 "ro": "Folosiți naveta 'Le P'tit Bus' pentru zona centrală.",
-                "en": "Use 'Le P'tit Bus' shuttle for the city center."
+                "en": "Use 'Le P'tit Bus' shuttle for the city center.",
+                "fr": "Utilisez la navette 'Le P'tit Bus' pour le centre-ville."
               }
             },
             {
@@ -2624,7 +2668,8 @@
                 "de": "Erreichbar mit der Linie 4 vom Zentrum aus.",
                 "hu": "A központból a 4-es busszal érhető el.",
                 "ro": "Accesibil cu linia 4 din centru.",
-                "en": "Accessible via line 4 from the center."
+                "en": "Accessible via line 4 from the center.",
+                "fr": "Accessible via la ligne 4 depuis le centre."
               }
             },
             {
@@ -2633,7 +2678,8 @@
                 "de": "Zentraler Platz, umgeben von Cafés.",
                 "hu": "Központi tér, kávézókkal körbevéve.",
                 "ro": "Piață centrală, înconjurată de cafenele.",
-                "en": "Central square, surrounded by cafes."
+                "en": "Central square, surrounded by cafes.",
+                "fr": "Place centrale, entourée de cafés."
               }
             }
           ],
@@ -2743,6 +2789,12 @@
               "The 'P'tit Bus' are small electric shuttles that run for free through the old town.",
               "Bus stops are often equipped with real-time displays.",
               "Buses run less frequently on Sundays; plan ahead."
+            ],
+            "fr": [
+              "Achetez un billet journée pour le réseau Sankéo pour des trajets illimités.",
+              "Les 'P'tit Bus' sont de petites navettes électriques qui circulent gratuitement dans la vieille ville.",
+              "Les arrêts de bus sont souvent équipés d'affichages en temps réel.",
+              "Les bus circulent moins fréquemment le dimanche ; prévoyez à l'avance."
             ]
           }
         }

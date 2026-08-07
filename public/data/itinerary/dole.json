@@ -21,7 +21,8 @@
             "de": "Museum der Schönen Künste",
             "hu": "Szépművészeti Múzeum",
             "ro": "Muzeul de Arte Frumoase",
-            "en": "Museum of Fine Arts"
+            "en": "Museum of Fine Arts",
+            "fr": "Musée des Beaux‑Arts"
           },
           "coords": [
             5.489147,
@@ -36,7 +37,8 @@
             "de": "Entdecken Sie regionale Kunstwerke im charmanten Kunstmuseum, wo Sie besonders auf die lokal gefertigten Skulpturen im Erdgeschoss achten sollten.",
             "hu": "Fedezze fel a regionális műalkotásokat a bájos Szépművészeti Múzeumban, ahol érdemes külön figyelmet szentelni a helyi szobroknak a földszinten.",
             "ro": "Descoperiți opere de artă regionale în fermecătorul muzeu de arte frumoase, unde ar trebui să acordați atenție sculpturilor locale de la parter.",
-            "en": "Discover regional artworks in the charming Museum of Fine Arts, where you should pay special attention to the local sculptures on the ground floor."
+            "en": "Discover regional artworks in the charming Museum of Fine Arts, where you should pay special attention to the local sculptures on the ground floor.",
+            "fr": "Découvrez des œuvres régionales dans le charmant Musée des Beaux‑Arts, où vous devriez prêter une attention particulière aux sculptures locales au rez‑de‑chaussée."
           }
         },
         {
@@ -44,7 +46,8 @@
             "de": "Hôtel-Dieu de Dole",
             "hu": "Hôtel-Dieu de Dole",
             "ro": "Hôtel-Dieu de Dole",
-            "en": "Hôtel-Dieu de Dole"
+            "en": "Hôtel-Dieu de Dole",
+            "fr": "Hôtel‑Dieu de Dole"
           },
           "coords": [
             5.4926,
@@ -59,7 +62,8 @@
             "de": "Bewundern Sie die Renaissance-Architektur dieses historischen Krankenhauses und machen Sie unbedingt ein Foto vom beeindruckenden Innenhof am Vormittag.",
             "hu": "Csodálja meg e történelmi kórház reneszánsz építészetét, és mindenképpen készítsen egy fotót a lenyűgöző belső udvarról a délelőtti fényekben.",
             "ro": "Admirați arhitectura renascentistă a acestui spital istoric și asigurați-vă că faceți o fotografie a curții interioare impresionante în lumina dimineții.",
-            "en": "Admire the Renaissance architecture of this historic hospital and be sure to capture a photo of the breathtaking interior courtyard in the morning light."
+            "en": "Admire the Renaissance architecture of this historic hospital and be sure to capture a photo of the breathtaking interior courtyard in the morning light.",
+            "fr": "Admirez l’architecture de la Renaissance de cet hôpital historique et pensez à photographier la splendide cour intérieure à la lumière du matin."
           }
         },
         {
@@ -67,7 +71,8 @@
             "de": "Stiftskirche Notre-Dame",
             "hu": "Notre-Dame társaskáptalani templom",
             "ro": "Biserica Colegială Notre-Dame",
-            "en": "Collégiale Notre-Dame"
+            "en": "Collégiale Notre-Dame",
+            "fr": "Collégiale Notre‑Dame"
           },
           "coords": [
             5.49471,
@@ -82,7 +87,8 @@
             "de": "Besichtigen Sie die majestätische Stiftskirche mit ihrem markanten Glockenturm, für den sich ein Fernglas zur Detailbetrachtung der Fassade lohnt.",
             "hu": "Látogassa meg a fenséges társaskáptalani templomot és annak jellegzetes harangtornyát, amihez érdemes távcsövet hozni a homlokzat részletei miatt.",
             "ro": "Vizitați biserica colegială maiestuoasă cu turnul său clopotniță distinctiv, pentru care merită să aveți un binoclu pentru a vedea detaliile fațadei.",
-            "en": "Visit the majestic collegiate church with its distinctive bell tower, bringing binoculars to appreciate the intricate architectural details on the facade."
+            "en": "Visit the majestic collegiate church with its distinctive bell tower, bringing binoculars to appreciate the intricate architectural details on the facade.",
+            "fr": "Visitez la majestueuse collégiale au clocher distinctif ; apportez des jumelles pour apprécier les détails architecturaux complexes de la façade."
           }
         },
         {
@@ -90,7 +96,8 @@
             "de": "Cours Saint-Mauris Park",
             "hu": "Cours Saint-Mauris Park",
             "ro": "Parcul Cours Saint-Mauris",
-            "en": "Cours Saint-Mauris Park"
+            "en": "Cours Saint-Mauris Park",
+            "fr": "Parc Cours Saint‑Mauris"
           },
           "coords": [
             5.498003,
@@ -105,7 +112,8 @@
             "de": "Entspannen Sie in diesem malerischen Park mit wunderbaren Ausblicken, ideal für ein kleines Picknick am Nachmittag auf einer der schattigen Bänke.",
             "hu": "Pihenjen meg ebben a festői, csodás kilátást nyújtó parkban, amely tökéletes helyszín egy kora délutáni piknikhez az egyik kényelmes, árnyékos padon.",
             "ro": "Relaxați-vă în acest parc pitoresc cu priveliști minunate, fiind un loc ideal pentru un scurt picnic de după-amiază pe una dintre băncile umbrite.",
-            "en": "Relax in this picturesque park offering wonderful views, making it an ideal spot for a short afternoon picnic on one of the comfortable, shaded benches."
+            "en": "Relax in this picturesque park offering wonderful views, making it an ideal spot for a short afternoon picnic on one of the comfortable, shaded benches.",
+            "fr": "Détendez‑vous dans ce parc pittoresque offrant de belles vues, idéal pour un court pique‑nique l’après‑midi sur un des bancs ombragés et confortables."
           }
         },
         {
@@ -113,7 +121,8 @@
             "de": "Rückhaltebecken",
             "hu": "Bassin de rétention",
             "ro": "Bassin de rétention",
-            "en": "Bassin de rétention"
+            "en": "Bassin de rétention",
+            "fr": "Bassin de rétention"
           },
           "coords": [
             5.534082,
@@ -128,7 +137,8 @@
             "de": "Genießen Sie die ruhige Atmosphäre an diesem Wasserspeicher, wo festes Schuhwerk für einen Spaziergang entlang der unbefestigten Uferwege sehr zu empfehlen ist.",
             "hu": "Élvezze a nyugodt légkört ezen a víztározón, ahol a part menti sétához erősen ajánlott egy kényelmes, zárt cipő viselése a kavicsos ösvényeken.",
             "ro": "Bucurați-vă de atmosfera liniștită la acest bazin de retenție, unde încălțămintea confortabilă este recomandată pentru o plimbare pe malul neasfaltat.",
-            "en": "Enjoy the tranquil atmosphere at this retention basin, where wearing sturdy walking shoes is highly recommended for a stroll along the unpaved banks."
+            "en": "Enjoy the tranquil atmosphere at this retention basin, where wearing sturdy walking shoes is highly recommended for a stroll along the unpaved banks.",
+            "fr": "Profitez de l’atmosphère paisible de ce bassin de rétention ; portez des chaussures de marche solides recommandées pour une promenade le long des berges non revêtues."
           }
         }
       ],
@@ -136,7 +146,8 @@
         "de": "Beginnen Sie Ihren Tag in Dole mit einem inspirierenden Besuch im Kunstmuseum. Gegen Mittag bewundern Sie das historische Hôtel-Dieu. Am Nachmittag schlendern Sie zur majestätischen Stiftskirche und entspannen im Cours Saint-Mauris Park. Der Abend klingt gemütlich bei einem langen Spaziergang am Bassin de rétention aus.",
         "hu": "Kezdje a napot Dole városában a Szépművészeti Múzeum felfedezésével. Dél körül csodálja meg a történelmi Hôtel-Dieu épületét. Délután sétáljon el a fenséges Notre-Dame templomhoz, majd pihenjen a Cours Saint-Mauris parkban. Az estét a Bassin de rétention nyugodt vizénél zárhatja egy frissítő séta keretében.",
         "ro": "Începeți-vă ziua în Dole explorând Muzeul de Arte Frumoase. La prânz, admirați impresionantul Hôtel-Dieu. După-amiaza, vizitați maiestuoasa biserică Notre-Dame și relaxați-vă în Parcul Cours Saint-Mauris. Seara se încheie liniștit cu o plimbare revigorantă de-a lungul apei la Bassin de rétention.",
-        "en": "Start your day in Dole with an inspiring visit to the Museum of Fine Arts. Around midday, admire the historical architecture of Hôtel-Dieu. In the afternoon, stroll to the majestic collegiate church and relax in Cours Saint-Mauris Park. Your evening concludes peacefully with a long walk by the Bassin de rétention."
+        "en": "Start your day in Dole with an inspiring visit to the Museum of Fine Arts. Around midday, admire the historical architecture of Hôtel-Dieu. In the afternoon, stroll to the majestic collegiate church and relax in Cours Saint-Mauris Park. Your evening concludes peacefully with a long walk by the Bassin de rétention.",
+        "fr": "Commencez votre journée à Dole par une visite inspirante du Musée des Beaux‑Arts. Vers midi, admirez l’architecture historique de l’Hôtel‑Dieu. L’après‑midi, promenez‑vous jusqu’à la collégiale majestueuse et détendez‑vous dans le parc Cours Saint‑Mauris. Votre soirée se termine paisiblement par une longue promenade le long du Bassin de rétention."
       },
       "variants": {
         "rainy": {
@@ -144,7 +155,8 @@
             "de": "Der Morgen beginnt im Kunstmuseum, einem perfekten Zufluchtsort vor dem Regen. Mittags erkunden Sie die beeindruckenden Innenräume des Hôtel-Dieu und der Stiftskirche, um trocken zu bleiben. Am Nachmittag trotzen Sie dem Nieselregen im Park mit einem Regenschirm. Der Abend endet am Rückhaltebecken, wo die Wasserspiegelungen im Regen einzigartig sind.",
             "hu": "A reggel a művészeti múzeumban indul, mely tökéletes menedék az eső elől. Délben az Hôtel-Dieu és a templom lenyűgöző belső tereiben maradhatsz szárazon. Délután egy jó esernyővel dacolj a szitáló esővel a parkban. Az este a víztározónál ér véget, ahol a víz tükröződései az esőben különleges hangulatot árasztanak.",
             "ro": "Dimineața începe la muzeul de artă, un refugiu perfect din calea ploii. La prânz, explorează interioarele uimitoare de la Hôtel-Dieu și biserica colegială pentru a sta uscat. După-amiaza, înfruntă burnița în parcul orașului cu o umbrelă bună. Seara se încheie la bazinul de retenție, unde reflexiile apei sunt unice în ploaie.",
-            "en": "Morning starts at the art museum, a perfect refuge from the rain. Midday, explore the Hôtel-Dieu and the collegiate church's stunning interiors to stay dry. In the afternoon, brave the drizzle in the park with a good umbrella. The evening ends by the retention basin, where the water reflections are uniquely atmospheric in the rain."
+            "en": "Morning starts at the art museum, a perfect refuge from the rain. Midday, explore the Hôtel-Dieu and the collegiate church's stunning interiors to stay dry. In the afternoon, brave the drizzle in the park with a good umbrella. The evening ends by the retention basin, where the water reflections are uniquely atmospheric in the rain.",
+            "fr": "La matinée commence au musée d’art, un refuge parfait contre la pluie. À midi, explorez l’Hôtel‑Dieu et les intérieurs splendides de la collégiale pour rester au sec. L’après‑midi, bravez la bruine dans le parc avec un bon parapluie. La soirée se termine au bassin de rétention, où les reflets sur l’eau sont particulièrement atmosphériques sous la pluie."
           },
           "stops": [
             {
@@ -152,13 +164,15 @@
                 "de": "Museum der Schönen Künste",
                 "hu": "Szépművészeti Múzeum",
                 "ro": "Muzeul de Arte Frumoase",
-                "en": "Museum of Fine Arts"
+                "en": "Museum of Fine Arts",
+                "fr": "Musée des Beaux‑Arts"
               },
               "tip_5lang": {
                 "de": "Bewundern Sie die beeindruckenden lokalen Kunstsammlungen in diesem trockenen Heiligtum; geben Sie Ihren Regenschirm am Eingang ab.",
                 "hu": "Csodáld meg a helyi művészeti gyűjteményeket ebben a száraz szentélyben; az esernyődet hagyd a bejáratnál.",
                 "ro": "Admiră colecțiile impresionante de artă locală în acest sanctuar uscat; lasă-ți umbrela la intrare.",
-                "en": "Admire the impressive collections of local art inside this dry sanctuary; check your umbrella at the entrance."
+                "en": "Admire the impressive collections of local art inside this dry sanctuary; check your umbrella at the entrance.",
+                "fr": "Admirez les collections impressionnantes d’art local dans ce sanctuaire sec ; déposez votre parapluie à l’entrée."
               }
             },
             {
@@ -166,13 +180,15 @@
                 "de": "Hôtel-Dieu de Dole",
                 "hu": "Hôtel-Dieu de Dole",
                 "ro": "Hôtel-Dieu de Dole",
-                "en": "Hôtel-Dieu de Dole"
+                "en": "Hôtel-Dieu de Dole",
+                "fr": "Hôtel‑Dieu de Dole"
               },
               "tip_5lang": {
                 "de": "Erkunden Sie die faszinierende historische Apotheke und die überdachten Arkaden, die Sie perfekt vor dem Platzregen schützen.",
                 "hu": "Fedezd fel a lenyűgöző történelmi patikát és a fedett árkádokat, amelyek tökéletesen megvédenek a felhőszakadástól.",
                 "ro": "Explorează fascinanta farmacie istorică și arcadele adăpostite, care te protejează perfect de aversa de ploaie.",
-                "en": "Explore the fascinating historical pharmacy and sheltered arcades, keeping you perfectly protected from the downpour."
+                "en": "Explore the fascinating historical pharmacy and sheltered arcades, keeping you perfectly protected from the downpour.",
+                "fr": "Explorez la pharmacie historique fascinante et les arcades abritées qui vous protègent parfaitement de l’averse."
               }
             },
             {
@@ -180,13 +196,15 @@
                 "de": "Stiftskirche Notre-Dame",
                 "hu": "Notre-Dame társaskáptalani templom",
                 "ro": "Biserica Colegială Notre-Dame",
-                "en": "Collégiale Notre-Dame"
+                "en": "Collégiale Notre-Dame",
+                "fr": "Collégiale Notre‑Dame"
               },
               "tip_5lang": {
                 "de": "Bewundern Sie die aufstrebende Architektur und suchen Sie Schutz vor dem Regen unter den massiven, trockenen Steingewölben.",
                 "hu": "Gyönyörködj a lenyűgöző építészetben, miközben menedéket találsz az eső elől a masszív, száraz kőboltozatok alatt.",
                 "ro": "Minunează-te de arhitectura înălțătoare în timp ce te adăpostești de ploaie sub bolțile sale masive și uscate de piatră.",
-                "en": "Marvel at the soaring architecture while taking shelter from the rain under its massive, dry stone vaults."
+                "en": "Marvel at the soaring architecture while taking shelter from the rain under its massive, dry stone vaults.",
+                "fr": "Émerveillez‑vous devant l’architecture élevée tout en vous abritant de la pluie sous ses massives voûtes de pierre sèches."
               }
             },
             {
@@ -194,13 +212,15 @@
                 "de": "Cours Saint-Mauris Park",
                 "hu": "Cours Saint-Mauris Park",
                 "ro": "Parcul Cours Saint-Mauris",
-                "en": "Cours Saint-Mauris Park"
+                "en": "Cours Saint-Mauris Park",
+                "fr": "Parc Cours Saint‑Mauris"
               },
               "tip_5lang": {
                 "de": "Machen Sie einen erfrischenden Spaziergang durch die üppigen, regengewaschenen Alleen; tragen Sie wasserdichte Schuhe.",
                 "hu": "Tegyél egy frissítő sétát a buja, eső áztatta sétányokon; viselj strapabíró, vízálló cipőt a nedves utakon.",
                 "ro": "Fă o plimbare revigorantă pe aleile spălate de ploaie; poartă pantofi impermeabili pentru a merge în siguranță.",
-                "en": "Take a refreshing stroll through the lush, rain-washed alleys; wear sturdy, waterproof shoes to safely navigate the wet paths."
+                "en": "Take a refreshing stroll through the lush, rain-washed alleys; wear sturdy, waterproof shoes to safely navigate the wet paths.",
+                "fr": "Faites une promenade rafraîchissante dans les allées luxuriantes lavées par la pluie ; portez des chaussures imperméables et solides pour circuler en sécurité sur les sentiers mouillés."
               }
             },
             {
@@ -208,13 +228,15 @@
                 "de": "Rückhaltebecken",
                 "hu": "Bassin de rétention",
                 "ro": "Bassin de rétention",
-                "en": "Bassin de rétention"
+                "en": "Bassin de rétention",
+                "fr": "Bassin de rétention"
               },
               "tip_5lang": {
                 "de": "Beobachten Sie, wie der Regen die Atmosphäre des Beckens verändert, aber halten Sie Abstand zu den rutschigen Betonkanten.",
                 "hu": "Figyeld meg, hogyan változtatja meg az eső a medence hangulatát, de tarts biztonságos távolságot a csúszós betonperemtől.",
                 "ro": "Observă cum ploaia schimbă dramatic atmosfera bazinului, dar păstrează o distanță sigură de marginile de beton alunecoase.",
-                "en": "Observe how the rain dramatically changes the basin's atmosphere, but keep a safe distance from the slippery concrete edges."
+                "en": "Observe how the rain dramatically changes the basin's atmosphere, but keep a safe distance from the slippery concrete edges.",
+                "fr": "Observez comment la pluie transforme dramatiquement l’atmosphère du bassin, mais gardez une distance de sécurité par rapport aux bords en béton glissants."
               }
             }
           ]
@@ -224,7 +246,8 @@
             "de": "Klare Wintermorgen sind ideal, um Doles reiche Museumssammlungen zu erkunden. Mittags bieten das historische Hôtel-Dieu und Notre-Dame Wärme. Nachmittagsspaziergänge durch den frostigen Park erfordern warme Kleidung. Der frühe Sonnenuntergang wirft ein kaltes, schönes Licht auf das Becken.",
             "hu": "A csípős téli reggelek ideálisak Dole gazdag beltéri múzeumi gyűjteményeinek felfedezésére. Délben az Hôtel-Dieu és a Notre-Dame melegséget nyújt. A fagyos parkban tett délutáni sétákhoz meleg rétegekre van szükség. A korai naplemente hideg, gyönyörű fényt vet a víztározóra, ahogy leszáll az esti fagy.",
             "ro": "Diminețile de iarnă sunt ideale pentru a explora colecțiile muzeelor din Dole. La prânz, Hôtel-Dieu și Notre-Dame oferă căldură. Plimbările de după-amiază prin parcul înghețat necesită haine groase. Apusul devreme aruncă o lumină rece, dar frumoasă, asupra bazinului, pe măsură ce se lasă frigul.",
-            "en": "Crisp winter mornings are ideal for exploring Dole's rich indoor museum collections. By noon, the historical Hôtel-Dieu and Notre-Dame offer warmth and quiet reflection. Afternoon walks through the frosty park require warm layers and brisk steps. The early sunset casts a cold, beautiful light over the basin as the evening chill sets in."
+            "en": "Crisp winter mornings are ideal for exploring Dole's rich indoor museum collections. By noon, the historical Hôtel-Dieu and Notre-Dame offer warmth and quiet reflection. Afternoon walks through the frosty park require warm layers and brisk steps. The early sunset casts a cold, beautiful light over the basin as the evening chill sets in.",
+            "fr": "Les matins vifs d’hiver sont parfaits pour explorer les riches collections intérieures de Dole. À midi, l’Hôtel‑Dieu historique et Notre‑Dame offrent chaleur et recueillement. Les promenades de l’après‑midi dans le parc givré exigent des couches chaudes et des pas vifs. Le coucher du soleil précoce jette une lumière froide et belle sur le bassin à mesure que la fraîcheur du soir s’installe."
           },
           "stops": [
             {
@@ -232,13 +255,15 @@
                 "de": "Museum der Schönen Künste",
                 "hu": "Szépművészeti Múzeum",
                 "ro": "Muzeul de Arte Frumoase",
-                "en": "Museum of Fine Arts"
+                "en": "Museum of Fine Arts",
+                "fr": "Musée des Beaux‑Arts"
               },
               "tip_5lang": {
                 "de": "Entdecken Sie die warmen Galerien mit regionalen Meisterwerken; nehmen Sie sich Zeit zum Aufwärmen, bevor Sie wieder hinausgehen.",
                 "hu": "Fedezd fel a meleg, jól megvilágított galériákat a helyi remekművekkel; szánj időt a felmelegedésre, mielőtt újra kimész.",
                 "ro": "Descoperă galeriile calde, pline de capodopere regionale; ia-ți timp să te încălzești înainte de a ieși din nou afară.",
-                "en": "Discover the warm, well-lit galleries featuring regional masterpieces; take your time to warm up before heading back outside."
+                "en": "Discover the warm, well-lit galleries featuring regional masterpieces; take your time to warm up before heading back outside.",
+                "fr": "Découvrez les galeries chaudes et bien éclairées présentant des chefs‑d’œuvre régionaux ; prenez le temps de vous réchauffer avant de ressortir."
               }
             },
             {
@@ -246,13 +271,15 @@
                 "de": "Hôtel-Dieu de Dole",
                 "hu": "Hôtel-Dieu de Dole",
                 "ro": "Hôtel-Dieu de Dole",
-                "en": "Hôtel-Dieu de Dole"
+                "en": "Hôtel-Dieu de Dole",
+                "fr": "Hôtel‑Dieu de Dole"
               },
               "tip_5lang": {
                 "de": "Wandern Sie durch die erhaltenen Innenhöfe; die dicken Steinmauern bieten eine hervorragende Isolierung gegen die Winterkälte.",
                 "hu": "Sétálj végig a gyönyörűen megőrzött udvarokon; a vastag kőfalak kiváló szigetelést nyújtanak a téli hideg ellen.",
                 "ro": "Plimbă-te prin curțile frumos conservate; pereții groși de piatră oferă o izolație excelentă împotriva frigului de iarnă.",
-                "en": "Wander through the beautifully preserved courtyards; the thick stone walls provide great insulation against the winter cold."
+                "en": "Wander through the beautifully preserved courtyards; the thick stone walls provide great insulation against the winter cold.",
+                "fr": "Promenez‑vous dans les cours magnifiquement préservées ; les murs épais en pierre offrent une excellente isolation contre le froid hivernal."
               }
             },
             {
@@ -260,13 +287,15 @@
                 "de": "Stiftskirche Notre-Dame",
                 "hu": "Notre-Dame társaskáptalani templom",
                 "ro": "Biserica Colegială Notre-Dame",
-                "en": "Collégiale Notre-Dame"
+                "en": "Collégiale Notre-Dame",
+                "fr": "Collégiale Notre‑Dame"
               },
               "tip_5lang": {
                 "de": "Bewundern Sie die Buntglasfenster in der tiefstehenden Wintersonne; das große Innere kann kühl sein, behalten Sie Ihren Mantel an.",
                 "hu": "Csodáld meg az alacsony téli nap által megvilágított ólomüvegeket; a hatalmas belső tér hűvös lehet, így tartsd magadon a kabátot.",
                 "ro": "Admiră vitraliile uimitoare luminate de soarele de iarnă; interiorul vast poate fi răcoros, așa că ține-ți paltonul pe tine.",
-                "en": "Admire the stunning stained glass illuminated by the low winter sun; the vast interior can be chilly, so keep your coat on."
+                "en": "Admire the stunning stained glass illuminated by the low winter sun; the vast interior can be chilly, so keep your coat on.",
+                "fr": "Admirez les magnifiques vitraux illuminés par le bas soleil d’hiver ; l’immense intérieur peut être frais, gardez votre manteau."
               }
             },
             {
@@ -274,13 +303,15 @@
                 "de": "Cours Saint-Mauris Park",
                 "hu": "Cours Saint-Mauris Park",
                 "ro": "Parcul Cours Saint-Mauris",
-                "en": "Cours Saint-Mauris Park"
+                "en": "Cours Saint-Mauris Park",
+                "fr": "Parc Cours Saint‑Mauris"
               },
               "tip_5lang": {
                 "de": "Genießen Sie die frostbedeckten Bäume entlang der ruhigen Wege; packen Sie sich mit einem guten Schal ein, da der Wind beißen kann.",
                 "hu": "Élvezd a nyugodt, zúzmarás fákat a csendes ösvények mentén; öltözz fel melegen egy sállal, mert a szél harapós lehet.",
                 "ro": "Bucură-te de copacii acoperiți de gheață de-a lungul aleilor; înfofolește-te cu un fular bun, deoarece vântul poate fi tăios.",
-                "en": "Enjoy the serene, frost-covered trees along the tranquil pathways; bundle up with a good scarf as the wind can be biting."
+                "en": "Enjoy the serene, frost-covered trees along the tranquil pathways; bundle up with a good scarf as the wind can be biting.",
+                "fr": "Appréciez les arbres sereins couverts de givre le long des allées tranquilles ; emmitouflez‑vous d’une bonne écharpe car le vent peut être mordant."
               }
             },
             {
@@ -288,13 +319,15 @@
                 "de": "Rückhaltebecken",
                 "hu": "Bassin de rétention",
                 "ro": "Bassin de rétention",
-                "en": "Bassin de rétention"
+                "en": "Bassin de rétention",
+                "fr": "Bassin de rétention"
               },
               "tip_5lang": {
                 "de": "Erleben Sie die eisige Wasseroberfläche, die die frühe Dämmerung widerspiegelt; tragen Sie thermische Kleidung für diesen offenen Bereich.",
                 "hu": "Légy tanúja a víz békés, jeges felszínének, amely tükrözi a korai szürkületet; öltözz termikus rétegekbe ezen a nyílt területen.",
                 "ro": "Fii martor la suprafața înghețată a apei care reflectă amurgul devreme; îmbracă-te cu straturi termice pentru această zonă deschisă.",
-                "en": "Witness the peaceful, icy surface of the water reflecting the early twilight; dress in thermal layers for this open, breezy area."
+                "en": "Witness the peaceful, icy surface of the water reflecting the early twilight; dress in thermal layers for this open, breezy area.",
+                "fr": "Admirez la surface paisible et glacée de l'eau reflétant le crépuscule naissant ; habillez-vous en couches thermiques pour cette zone ouverte et venteuse."
               }
             }
           ]
@@ -314,7 +347,8 @@
             "de": "Geburtshaus von Louis Pasteur",
             "hu": "Louis Pasteur Szülőháza",
             "ro": "Casa natală a lui Louis Pasteur",
-            "en": "Louis Pasteur's Birthplace"
+            "en": "Louis Pasteur's Birthplace",
+            "fr": "Lieu de naissance de Louis Pasteur"
           },
           "coords": [
             5.417912,
@@ -329,7 +363,8 @@
             "de": "Tauchen Sie in das Leben des berühmten Wissenschaftlers ein und prüfen Sie die Öffnungszeiten vorab, da diese je nach Saison stark variieren können.",
             "hu": "Merüljön el a híres tudós életében, de mindenképpen ellenőrizze előre a nyitvatartást, mivel az évszaktól függően jelentősen változhat a nap folyamán.",
             "ro": "Explorați viața celebrului om de știință și verificați programul în avans, deoarece acesta poate varia semnificativ în funcție de sezonul turistic.",
-            "en": "Delve into the life of the famous scientist, but make sure to check the opening hours in advance as they can vary greatly depending on the season."
+            "en": "Delve into the life of the famous scientist, but make sure to check the opening hours in advance as they can vary greatly depending on the season.",
+            "fr": "Plongez dans la vie du célèbre scientifique, mais vérifiez les horaires d'ouverture à l'avance car ils peuvent beaucoup varier selon la saison."
           }
         },
         {
@@ -337,7 +372,8 @@
             "de": "Wasserpark Isis",
             "hu": "Aquaparc Isis",
             "ro": "Aquaparc Isis",
-            "en": "Aquaparc Isis"
+            "en": "Aquaparc Isis",
+            "fr": "Aquaparc Isis"
           },
           "coords": [
             5.486208,
@@ -352,7 +388,8 @@
             "de": "Erleben Sie Spaß für die ganze Familie im Wasserpark, bei dem Sie eigene Handtücher und ausreichend Sonnencreme für den Außenbereich nicht vergessen sollten.",
             "hu": "Élvezze a családi szórakozást ebben az élményfürdőben, és semmiképpen se felejtsen el saját törölközőt, illetve elegendő naptejet hozni a kinti részekhez.",
             "ro": "Experimentați distracția în familie la parcul acvatic, unde nu ar trebui să uitați să vă aduceți propriile prosoape și multă cremă de protecție solară.",
-            "en": "Experience fun for the whole family at the water park, remembering to bring your own towels and plenty of sunscreen for the outdoor swimming areas."
+            "en": "Experience fun for the whole family at the water park, remembering to bring your own towels and plenty of sunscreen for the outdoor swimming areas.",
+            "fr": "Profitez d'activités pour toute la famille au parc aquatique, en n'oubliant pas d'apporter vos serviettes et beaucoup de crème solaire pour les bassins extérieurs."
           }
         },
         {
@@ -360,7 +397,8 @@
             "de": "Museum der Schönen Künste",
             "hu": "Szépművészeti Múzeum",
             "ro": "Muzeul de Arte Frumoase",
-            "en": "Museum of Fine Arts"
+            "en": "Museum of Fine Arts",
+            "fr": "Musée des Beaux-Arts"
           },
           "coords": [
             5.489147,
@@ -375,7 +413,8 @@
             "de": "Entdecken Sie regionale Kunstwerke im charmanten Kunstmuseum, wo Sie besonders auf die lokal gefertigten Skulpturen im Erdgeschoss achten sollten.",
             "hu": "Fedezze fel a regionális műalkotásokat a bájos Szépművészeti Múzeumban, ahol érdemes külön figyelmet szentelni a helyi szobroknak a földszinten.",
             "ro": "Descoperiți opere de artă regionale în fermecătorul muzeu de arte frumoase, unde ar trebui să acordați atenție sculpturilor locale de la parter.",
-            "en": "Discover regional artworks in the charming Museum of Fine Arts, where you should pay special attention to the local sculptures on the ground floor."
+            "en": "Discover regional artworks in the charming Museum of Fine Arts, where you should pay special attention to the local sculptures on the ground floor.",
+            "fr": "Découvrez les œuvres régionales dans le charmant Musée des Beaux-Arts, en accordant une attention particulière aux sculptures locales au rez-de-chaussée."
           }
         },
         {
@@ -383,7 +422,8 @@
             "de": "Hôtel-Dieu de Dole",
             "hu": "Hôtel-Dieu de Dole",
             "ro": "Hôtel-Dieu de Dole",
-            "en": "Hôtel-Dieu de Dole"
+            "en": "Hôtel-Dieu de Dole",
+            "fr": "Hôtel-Dieu de Dole"
           },
           "coords": [
             5.4926,
@@ -398,7 +438,8 @@
             "de": "Bewundern Sie die Renaissance-Architektur dieses historischen Krankenhauses und machen Sie unbedingt ein Foto vom beeindruckenden Innenhof am Vormittag.",
             "hu": "Csodálja meg e történelmi kórház reneszánsz építészetét, és mindenképpen készítsen egy fotót a lenyűgöző belső udvarról a délelőtti fényekben.",
             "ro": "Admirați arhitectura renascentistă a acestui spital istoric și asigurați-vă că faceți o fotografie a curții interioare impresionante în lumina dimineții.",
-            "en": "Admire the Renaissance architecture of this historic hospital and be sure to capture a photo of the breathtaking interior courtyard in the morning light."
+            "en": "Admire the Renaissance architecture of this historic hospital and be sure to capture a photo of the breathtaking interior courtyard in the morning light.",
+            "fr": "Admirez l'architecture Renaissance de cet hôpital historique et pensez à photographier la cour intérieure époustouflante à la lumière du matin."
           }
         },
         {
@@ -406,7 +447,8 @@
             "de": "Stiftskirche Notre-Dame",
             "hu": "Notre-Dame társaskáptalani templom",
             "ro": "Biserica Colegială Notre-Dame",
-            "en": "Collégiale Notre-Dame"
+            "en": "Collégiale Notre-Dame",
+            "fr": "Collégiale Notre-Dame"
           },
           "coords": [
             5.49471,
@@ -421,7 +463,8 @@
             "de": "Besichtigen Sie die majestätische Stiftskirche mit ihrem markanten Glockenturm, für den sich ein Fernglas zur Detailbetrachtung der Fassade lohnt.",
             "hu": "Látogassa meg a fenséges társaskáptalani templomot és annak jellegzetes harangtornyát, amihez érdemes távcsövet hozni a homlokzat részletei miatt.",
             "ro": "Vizitați biserica colegială maiestuoasă cu turnul său clopotniță distinctiv, pentru care merită să aveți un binoclu pentru a vedea detaliile fațadei.",
-            "en": "Visit the majestic collegiate church with its distinctive bell tower, bringing binoculars to appreciate the intricate architectural details on the facade."
+            "en": "Visit the majestic collegiate church with its distinctive bell tower, bringing binoculars to appreciate the intricate architectural details on the facade.",
+            "fr": "Visitez la majestueuse collégiale au clocher distinctif, et emportez des jumelles pour apprécier les détails architecturaux complexes de la façade."
           }
         },
         {
@@ -429,7 +472,8 @@
             "de": "Cours Saint-Mauris Park",
             "hu": "Cours Saint-Mauris Park",
             "ro": "Parcul Cours Saint-Mauris",
-            "en": "Cours Saint-Mauris Park"
+            "en": "Cours Saint-Mauris Park",
+            "fr": "Parc Cours Saint-Mauris"
           },
           "coords": [
             5.498003,
@@ -444,7 +488,8 @@
             "de": "Entspannen Sie in diesem malerischen Park mit wunderbaren Ausblicken, ideal für ein kleines Picknick am Nachmittag auf einer der schattigen Bänke.",
             "hu": "Pihenjen meg ebben a festői, csodás kilátást nyújtó parkban, amely tökéletes helyszín egy kora délutáni piknikhez az egyik kényelmes, árnyékos padon.",
             "ro": "Relaxați-vă în acest parc pitoresc cu priveliști minunate, fiind un loc ideal pentru un scurt picnic de după-amiază pe una dintre băncile umbrite.",
-            "en": "Relax in this picturesque park offering wonderful views, making it an ideal spot for a short afternoon picnic on one of the comfortable, shaded benches."
+            "en": "Relax in this picturesque park offering wonderful views, making it an ideal spot for a short afternoon picnic on one of the comfortable, shaded benches.",
+            "fr": "Détendez-vous dans ce parc pittoresque offrant de superbes panoramas, idéal pour un court pique-nique l'après-midi sur un des bancs ombragés et confortables."
           }
         }
       ],
@@ -452,7 +497,8 @@
         "de": "Starten Sie am Geburtshaus von Louis Pasteur und radeln Sie dann zum erfrischenden Aquaparc Isis. Mittags erkunden Sie die Kunstschätze im Museum. Der Nachmittag gehört der Altstadt mit dem Hôtel-Dieu und der imposanten Notre-Dame. Abends entspannen Sie Ihre Beine im wunderschönen Cours Saint-Mauris Park.",
         "hu": "Induljon Louis Pasteur szülőházától, majd kerékpározzon el a frissítő Aquaparc Isishez. Délben fedezze fel a Múzeum kincseit. A délutánt az óváros történelmi Hôtel-Dieu és a Notre-Dame felfedezésének szentelheti. Este pedig lazítsa el fáradt lábait a gyönyörű Cours Saint-Mauris park zöldellő fái alatt.",
         "ro": "Porniți de la casa natală a lui Louis Pasteur și pedalați către revigorantul Aquaparc Isis. La prânz, explorați comorile Muzeului de Artă. După-amiaza aparține orașului vechi, cu Hôtel-Dieu și impresionanta Notre-Dame. Seara, relaxați-vă picioarele în frumosul Parc Cours Saint-Mauris sub copacii umbroși.",
-        "en": "Start at the birthplace of Louis Pasteur and bike towards the refreshing Aquaparc Isis. At midday, explore the treasures of the Museum of Fine Arts. The afternoon belongs to the old town with Hôtel-Dieu and the imposing Notre-Dame. In the evening, rest your legs in the beautiful Cours Saint-Mauris Park."
+        "en": "Start at the birthplace of Louis Pasteur and bike towards the refreshing Aquaparc Isis. At midday, explore the treasures of the Museum of Fine Arts. The afternoon belongs to the old town with Hôtel-Dieu and the imposing Notre-Dame. In the evening, rest your legs in the beautiful Cours Saint-Mauris Park.",
+        "fr": "Commencez au lieu de naissance de Louis Pasteur et pédalez vers le rafraîchissant Aquaparc Isis. À midi, explorez les trésors du Musée des Beaux-Arts. L'après-midi appartient à la vieille ville avec l'Hôtel-Dieu et la imposante Notre-Dame. En soirée, reposez vos jambes dans le magnifique parc Cours Saint-Mauris."
       },
       "variants": {
         "rainy": {
@@ -460,7 +506,8 @@
             "de": "Beginnen Sie Ihre regnerische Fahrt in Pasteurs Geburtshaus, bevor Sie zum Wasserpark radeln. Mittags bieten das Kunstmuseum und das Hôtel-Dieu kulturelle Zuflucht. Der Nachmittag geht zur Kirche und endet im nebligen Park. Fahren Sie vorsichtig auf nassem Kopfsteinpflaster und tragen Sie einen Regenponcho.",
             "hu": "Kezdd az esős tekerést Pasteur szülőházánál, majd csobbanj a vízi park felé. Délben a művészeti múzeum és az Hôtel-Dieu nyújt kulturális menedéket. Délután folytasd az utat a templomhoz, és a ködös parkban fejezd be. Óvatosan kerékpározz a nedves macskaköveken, és viselj minőségi esőponcsót.",
             "ro": "Începe plimbarea ploioasă la casa lui Pasteur, înainte de a merge spre parcul acvatic. La prânz, muzeul de artă și Hôtel-Dieu oferă un refugiu cultural. După-amiaza continuă la biserica grandioasă și se termină în parcul cețos. Mergi cu grijă pe piatra cubică udă și poartă un poncho de ploaie de calitate.",
-            "en": "Start your rainy ride at Pasteur's indoor birthplace before splashing towards the water park. Midday brings cultural refuge at the art museum and Hôtel-Dieu to dry off. The afternoon continues to the grand church and ends in the misty park. Ride cautiously on wet cobblestones and wear a high-quality rain poncho."
+            "en": "Start your rainy ride at Pasteur's indoor birthplace before splashing towards the water park. Midday brings cultural refuge at the art museum and Hôtel-Dieu to dry off. The afternoon continues to the grand church and ends in the misty park. Ride cautiously on wet cobblestones and wear a high-quality rain poncho.",
+            "fr": "Commencez votre balade pluvieuse au lieu de naissance couvert de Pasteur avant de vous diriger vers le parc aquatique. À midi, trouvez refuge culturel au musée d'art et à l'Hôtel-Dieu pour vous sécher. L'après-midi se poursuit vers la grande église et se termine dans le parc brumeux. Roulez prudemment sur les pavés mouillés et portez un poncho de pluie de qualité."
           },
           "stops": [
             {
@@ -468,13 +515,15 @@
                 "de": "Geburtshaus von Louis Pasteur",
                 "hu": "Louis Pasteur Szülőháza",
                 "ro": "Casa natală a lui Louis Pasteur",
-                "en": "Louis Pasteur's Birthplace"
+                "en": "Louis Pasteur's Birthplace",
+                "fr": "Lieu de naissance de Louis Pasteur"
               },
               "tip_5lang": {
                 "de": "Lernen Sie das frühe Leben des Wissenschaftlers drinnen kennen, während Sie den Morgenschauer abwarten; lagern Sie nasse Sachen an der Tür.",
                 "hu": "Ismerd meg a tudós korai életét a beltérben, amíg a reggeli záporok elvonulnak; a nedves felszerelésedet hagyd az ajtónál.",
                 "ro": "Află despre viața savantului în interior, așteptând să treacă aversele de dimineață; lasă-ți echipamentul ud la ușă.",
-                "en": "Learn about the great scientist's early life indoors while waiting out the morning showers; store your wet gear by the door."
+                "en": "Learn about the great scientist's early life indoors while waiting out the morning showers; store your wet gear by the door.",
+                "fr": "Apprenez-en davantage sur la jeunesse du grand scientifique à l'intérieur en attendant les averses du matin ; rangez votre équipement humide près de la porte."
               }
             },
             {
@@ -482,13 +531,15 @@
                 "de": "Wasserpark Isis",
                 "hu": "Aquaparc Isis",
                 "ro": "Aquaparc Isis",
-                "en": "Aquaparc Isis"
+                "en": "Aquaparc Isis",
+                "fr": "Aquaparc Isis"
               },
               "tip_5lang": {
                 "de": "Genießen Sie das Wasserthema in dieser Indoor-Anlage; perfekt für einen nassen Tag, wenn das Radfahren draußen zu anstrengend wird.",
                 "hu": "Élvezd a vizes témát ebben a fedett létesítményben; tökéletes egy nedves napon, amikor a kinti tekerés túl nehézzé válik.",
                 "ro": "Bucură-te de tema apei la această facilitate interioară; perfect pentru o zi umedă, când ciclismul exterior devine prea greu.",
-                "en": "Embrace the water theme at this indoor facility; perfect for a wet weather day when outdoor cycling gets too tough."
+                "en": "Embrace the water theme at this indoor facility; perfect for a wet weather day when outdoor cycling gets too tough.",
+                "fr": "Adoptez le thème aquatique dans cette installation couverte ; parfaite pour une journée de mauvais temps quand le vélo en extérieur devient trop difficile."
               }
             },
             {
@@ -496,13 +547,15 @@
                 "de": "Museum der Schönen Künste",
                 "hu": "Szépművészeti Múzeum",
                 "ro": "Muzeul de Arte Frumoase",
-                "en": "Museum of Fine Arts"
+                "en": "Museum of Fine Arts",
+                "fr": "Musée des Beaux-Arts"
               },
               "tip_5lang": {
                 "de": "Trocknen Sie sich ab, während Sie die Kunstausstellungen erkunden; das ruhige Innere ist eine tolle Pause vom Radfahren im Regen.",
                 "hu": "Száradj meg, miközben felfedezed a regionális művészeti kiállításokat; a nyugodt belső tér nagyszerű pihenő az esőben tekerés után.",
                 "ro": "Usucă-te explorând expozițiile de artă regională; interiorul calm este o pauză excelentă de la ciclismul prin ploaie.",
-                "en": "Dry off while exploring the extensive regional art exhibits; the calm interior is a great break from cycling in the rain."
+                "en": "Dry off while exploring the extensive regional art exhibits; the calm interior is a great break from cycling in the rain.",
+                "fr": "Séchez-vous tout en explorant les vastes expositions d'art régional ; l'intérieur calme est un excellent répit au vélo sous la pluie."
               }
             },
             {
@@ -510,13 +563,15 @@
                 "de": "Hôtel-Dieu de Dole",
                 "hu": "Hôtel-Dieu de Dole",
                 "ro": "Hôtel-Dieu de Dole",
-                "en": "Hôtel-Dieu de Dole"
+                "en": "Hôtel-Dieu de Dole",
+                "fr": "Hôtel-Dieu de Dole"
               },
               "tip_5lang": {
                 "de": "Ruhen Sie sich in den geschützten Kreuzgängen aus und entfliehen Sie dem anhaltenden Nieselregen am Nachmittag.",
                 "hu": "Pihenj meg egy pillanatra a védett kolostorokban és a történelmi kórházi szobákban, elmenekülve a kitartó délutáni szitáló eső elől.",
                 "ro": "Odihnește-te un moment în mănăstirile adăpostite și în camerele istorice, scăpând de burnița persistentă de după-amiază.",
-                "en": "Take a moment to rest in the sheltered cloisters and historical hospital rooms, escaping the persistent afternoon drizzle."
+                "en": "Take a moment to rest in the sheltered cloisters and historical hospital rooms, escaping the persistent afternoon drizzle.",
+                "fr": "Prenez un moment pour vous reposer dans les cloîtres abrités et les salles historiques de l'hôpital, échappant à la bruine persistante de l'après-midi."
               }
             },
             {
@@ -524,13 +579,15 @@
                 "de": "Stiftskirche Notre-Dame",
                 "hu": "Notre-Dame társaskáptalani templom",
                 "ro": "Biserica Colegială Notre-Dame",
-                "en": "Collégiale Notre-Dame"
+                "en": "Collégiale Notre-Dame",
+                "fr": "Collégiale Notre-Dame"
               },
               "tip_5lang": {
                 "de": "Betreten Sie dieses majestätische Heiligtum, um die Kunstwerke zu bewundern und vor der letzten Etappe völlig trocken zu bleiben.",
                 "hu": "Lépj be ebbe a fenséges szentélybe, hogy megcsodáld a műalkotásokat, és teljesen száraz maradj az utolsó tekerés előtt.",
                 "ro": "Intră în acest sanctuar maiestuos pentru a-i admira arta și pentru a rămâne complet uscat înainte de ultima parte a plimbării.",
-                "en": "Step inside this majestic sanctuary to admire its artwork and stay completely dry before the final leg of your bike ride."
+                "en": "Step inside this majestic sanctuary to admire its artwork and stay completely dry before the final leg of your bike ride.",
+                "fr": "Entrez dans ce sanctuaire majestueux pour admirer ses œuvres et rester complètement au sec avant la dernière étape de votre balade à vélo."
               }
             },
             {
@@ -538,13 +595,15 @@
                 "de": "Cours Saint-Mauris Park",
                 "hu": "Cours Saint-Mauris Park",
                 "ro": "Parcul Cours Saint-Mauris",
-                "en": "Cours Saint-Mauris Park"
+                "en": "Cours Saint-Mauris Park",
+                "fr": "Parc Cours Saint-Mauris"
               },
               "tip_5lang": {
                 "de": "Radeln Sie vorsichtig durch die regendurchtränkten Wege; achten Sie auf rutschige, nasse Blätter auf Ihren Reifen.",
                 "hu": "Óvatosan tekerj át az eső áztatta ösvényeken a lombok alatt; vigyázz a csúszós, nedves levelekre a gumiabroncsokon.",
                 "ro": "Mergi cu atenție pe aleile pline de ploaie de sub copaci; ai grijă la frunzele ude și alunecoase sub roțile tale.",
-                "en": "Cycle carefully through the rain-soaked paths under the tree canopy; watch out for slippery wet leaves on your tires."
+                "en": "Cycle carefully through the rain-soaked paths under the tree canopy; watch out for slippery wet leaves on your tires.",
+                "fr": "Pédalez prudemment sur les chemins détrempés sous la canopée ; attention aux feuilles mouillées glissantes sur vos pneus."
               }
             }
           ]
@@ -554,7 +613,8 @@
             "de": "Eine frische Winterfahrt beginnt in Pasteurs Haus, perfekt zum frühen Aufwärmen. Mittags bieten das Schwimmbad und das Kunstmuseum beheizte Pausen. Am Nachmittag bieten das Hôtel-Dieu und die Kirche majestätische Innenpausen. Beenden Sie Ihre kühle Fahrt im Park vor dem Sonnenuntergang um 17:00 Uhr; tragen Sie isolierte Handschuhe!",
             "hu": "A frissítő téli tekerés Pasteur otthonánál kezdődik, ami tökéletes a korai felmelegedéshez. Délben az aquapark és a múzeum fűtött menedéket nyújt a fagyos levegő elől. Délután az Hôtel-Dieu és a templom biztosít fenséges beltéri szüneteket. Fejezd be a hideg utat a parkban a 17:00 órás naplemente előtt; viselj bélelt kesztyűt!",
             "ro": "O plimbare de iarnă începe la casa lui Pasteur, perfectă pentru a te încălzi devreme. La prânz, centrul acvatic și muzeul oferă refugii încălzite din aerul înghețat. După-amiaza, Hôtel-Dieu și biserica oferă pauze interioare. Termină-ți traseul rece în parc înainte de apusul de la ora 17:00; poartă mănuși izolate!",
-            "en": "A brisk winter ride starts at Pasteur's home, perfect for warming up early. Noon visits to the aquatic center and art museum offer heated reprieves from the frosty air. In the afternoon, the Hôtel-Dieu and collegiate church provide majestic indoor breaks. End your chilly cycle in the park before the 17:00 sunset; wear insulated gloves!"
+            "en": "A brisk winter ride starts at Pasteur's home, perfect for warming up early. Noon visits to the aquatic center and art museum offer heated reprieves from the frosty air. In the afternoon, the Hôtel-Dieu and collegiate church provide majestic indoor breaks. End your chilly cycle in the park before the 17:00 sunset; wear insulated gloves!",
+            "fr": "Une balade hivernale tonique commence à la maison de Pasteur, idéale pour se réchauffer tôt. Les visites de midi au centre aquatique et au musée d'art offrent des répit chauffés contre l'air glacé. L'après-midi, l'Hôtel-Dieu et la collégiale fournissent de majestueuses pauses intérieures. Terminez votre circuit frais dans le parc avant le coucher du soleil à 17:00 ; portez des gants isolants !"
           },
           "stops": [
             {
@@ -562,13 +622,15 @@
                 "de": "Geburtshaus von Louis Pasteur",
                 "hu": "Louis Pasteur Szülőháza",
                 "ro": "Casa natală a lui Louis Pasteur",
-                "en": "Louis Pasteur's Birthplace"
+                "en": "Louis Pasteur's Birthplace",
+                "fr": "Lieu de naissance de Louis Pasteur"
               },
               "tip_5lang": {
                 "de": "Erkunden Sie die gemütlichen Räume, in denen der Wissenschaftler aufwuchs; ein toller Ort, um die Hände aufzuwärmen.",
                 "hu": "Fedezd fel a hangulatos szobákat, ahol a tudós felnőtt; remek hely a kezeid felmelegítésére az első hideg tekerés után.",
                 "ro": "Explorează camerele confortabile unde a crescut savantul; este un loc minunat pentru a-ți încălzi mâinile după prima cursă.",
-                "en": "Explore the cozy rooms where the scientist grew up; it's a great spot to warm your hands after the first cold ride."
+                "en": "Explore the cozy rooms where the scientist grew up; it's a great spot to warm your hands after the first cold ride.",
+                "fr": "Explorez les pièces chaleureuses où le scientifique a grandi ; c'est un excellent endroit pour réchauffer vos mains après la première sortie froide."
               }
             },
             {
@@ -576,13 +638,15 @@
                 "de": "Wasserpark Isis",
                 "hu": "Aquaparc Isis",
                 "ro": "Aquaparc Isis",
-                "en": "Aquaparc Isis"
+                "en": "Aquaparc Isis",
+                "fr": "Aquaparc Isis"
               },
               "tip_5lang": {
                 "de": "Genießen Sie die beheizten Innenpools als tollen Kontrast zu den eisigen Wintertemperaturen draußen; bringen Sie ein Handtuch mit.",
                 "hu": "Élvezd a fűtött beltéri medencéket, mint fantasztikus kontrasztot a kinti fagyos hőmérséklettel szemben; hozz extra törölközőt.",
                 "ro": "Bucură-te de piscinele interioare încălzite ca un contrast la temperaturile de îngheț de afară; adu un prosop în plus.",
-                "en": "Enjoy the heated indoor pools as a fantastic contrast to the freezing winter temperatures outside; bring an extra towel to dry completely."
+                "en": "Enjoy the heated indoor pools as a fantastic contrast to the freezing winter temperatures outside; bring an extra towel to dry completely.",
+                "fr": "Profitez des piscines intérieures chauffées comme contraste fantastique avec les températures hivernales glaciales à l'extérieur ; apportez une serviette supplémentaire pour vous sécher complètement."
               }
             },
             {
@@ -590,13 +654,15 @@
                 "de": "Museum der Schönen Künste",
                 "hu": "Szépművészeti Múzeum",
                 "ro": "Muzeul de Arte Frumoase",
-                "en": "Museum of Fine Arts"
+                "en": "Museum of Fine Arts",
+                "fr": "Musée des Beaux-Arts"
               },
               "tip_5lang": {
                 "de": "Machen Sie eine kulturell bereichernde und wärmende Pause in den geräumigen, beheizten Galerien, um dem Winterwind zu entkommen.",
                 "hu": "Tarts egy kulturálisan gazdagító és testileg is felmelegítő szünetet a tágas, fűtött galériákban a csípős téli szél elől.",
                 "ro": "Ia o pauză culturală și caldă în galeriile spațioase și încălzite, pentru a scăpa de vântul tăios de iarnă.",
-                "en": "Take a culturally enriching and physically warming break in the spacious, heated galleries to escape the biting winter wind."
+                "en": "Take a culturally enriching and physically warming break in the spacious, heated galleries to escape the biting winter wind.",
+                "fr": "Faites une pause culturellement enrichissante et physiquement réchauffante dans les vastes galeries chauffées pour échapper au vent hivernal mordant."
               }
             },
             {
@@ -604,13 +670,15 @@
                 "de": "Hôtel-Dieu de Dole",
                 "hu": "Hôtel-Dieu de Dole",
                 "ro": "Hôtel-Dieu de Dole",
-                "en": "Hôtel-Dieu de Dole"
+                "en": "Hôtel-Dieu de Dole",
+                "fr": "Hôtel-Dieu de Dole"
               },
               "tip_5lang": {
                 "de": "Wandern Sie durch die Korridore dieses alten Krankenhauses; seine massive Struktur bietet einen geschützten Rückzugsort.",
                 "hu": "Sétálj végig ennek az ősi kórháznak a lenyűgöző folyosóin; masszív szerkezete csendes, védett menedéket nyújt a hideg elől.",
                 "ro": "Plimbă-te pe coridoarele fascinante ale acestui vechi spital; structura sa masivă oferă un refugiu liniștit și adăpostit.",
-                "en": "Wander the fascinating corridors of this ancient hospital; its massive structure offers a quiet, sheltered retreat from the cold."
+                "en": "Wander the fascinating corridors of this ancient hospital; its massive structure offers a quiet, sheltered retreat from the cold.",
+                "fr": "Flânez dans les couloirs fascinants de cet ancien hôpital ; sa structure massive offre un refuge calme et abrité contre le froid."
               }
             },
             {
@@ -618,13 +686,15 @@
                 "de": "Stiftskirche Notre-Dame",
                 "hu": "Notre-Dame társaskáptalani templom",
                 "ro": "Biserica Colegială Notre-Dame",
-                "en": "Collégiale Notre-Dame"
+                "en": "Collégiale Notre-Dame",
+                "fr": "Collégiale Notre-Dame"
               },
               "tip_5lang": {
                 "de": "Bewundern Sie das hoch aufragende Innere; beachten Sie, dass solche großen Steinkirchen auch im Winter recht kühl bleiben.",
                 "hu": "Csodáld meg a tornyosuló belső teret; vedd figyelembe, hogy az ilyen nagy kőtemplomok télen is meglehetősen hűvösek maradnak.",
                 "ro": "Minunează-te de interiorul înalt; fii conștient că astfel de biserici mari din piatră rămân destul de reci chiar și iarna.",
-                "en": "Marvel at the towering interior and peaceful atmosphere; be aware that such large stone churches remain quite cool even in winter."
+                "en": "Marvel at the towering interior and peaceful atmosphere; be aware that such large stone churches remain quite cool even in winter.",
+                "fr": "Admirez l'intérieur imposant et l'atmosphère paisible ; sachez que ces grandes églises de pierre restent assez fraîches même en hiver."
               }
             },
             {
@@ -632,13 +702,15 @@
                 "de": "Cours Saint-Mauris Park",
                 "hu": "Cours Saint-Mauris Park",
                 "ro": "Parcul Cours Saint-Mauris",
-                "en": "Cours Saint-Mauris Park"
+                "en": "Cours Saint-Mauris Park",
+                "fr": "Parc Cours Saint-Mauris"
               },
               "tip_5lang": {
                 "de": "Genießen Sie eine letzte Fahrt durch die kahlen, frostigen Bäume; schalten Sie Ihre Fahrradlichter ein, da es schnell dunkel wird.",
                 "hu": "Élvezd a frissítő, utolsó tekerést a csupasz, fagyos fák között; gondoskodj a világításról, mert a téli délután gyorsan sötétedik.",
                 "ro": "Bucură-te de o ultimă plimbare rapidă printre copacii înghețați; asigură-te că luminile bicicletei sunt aprinse, se întunecă repede.",
-                "en": "Enjoy a brisk, final ride through the bare, frosty trees; ensure your bike lights are on as the winter afternoon darkens quickly."
+                "en": "Enjoy a brisk, final ride through the bare, frosty trees; ensure your bike lights are on as the winter afternoon darkens quickly.",
+                "fr": "Profitez d'une dernière promenade tonique à travers les arbres nus et givrés ; assurez-vous que vos lumières de vélo sont allumées car l'après-midi hivernal s'assombrit rapidement."
               }
             }
           ]
@@ -658,7 +730,8 @@
             "de": "Geburtshaus von Louis Pasteur",
             "hu": "Louis Pasteur Szülőháza",
             "ro": "Casa natală a lui Louis Pasteur",
-            "en": "Louis Pasteur's Birthplace"
+            "en": "Louis Pasteur's Birthplace",
+            "fr": "Lieu de naissance de Louis Pasteur"
           },
           "coords": [
             5.417912,
@@ -673,7 +746,8 @@
             "de": "Tauchen Sie in das Leben des berühmten Wissenschaftlers ein und prüfen Sie die Öffnungszeiten vorab, da diese je nach Saison stark variieren können.",
             "hu": "Merüljön el a híres tudós életében, de mindenképpen ellenőrizze előre a nyitvatartást, mivel az évszaktól függően jelentősen változhat a nap folyamán.",
             "ro": "Explorați viața celebrului om de știință și verificați programul în avans, deoarece acesta poate varia semnificativ în funcție de sezonul turistic.",
-            "en": "Delve into the life of the famous scientist, but make sure to check the opening hours in advance as they can vary greatly depending on the season."
+            "en": "Delve into the life of the famous scientist, but make sure to check the opening hours in advance as they can vary greatly depending on the season.",
+            "fr": "Plongez dans la vie du célèbre scientifique, mais vérifiez les horaires d'ouverture à l'avance car ils peuvent beaucoup varier selon la saison."
           }
         },
         {
@@ -681,7 +755,8 @@
             "de": "Wasserpark Isis",
             "hu": "Aquaparc Isis",
             "ro": "Aquaparc Isis",
-            "en": "Aquaparc Isis"
+            "en": "Aquaparc Isis",
+            "fr": "Aquaparc Isis"
           },
           "coords": [
             5.486208,
@@ -696,7 +771,8 @@
             "de": "Erleben Sie Spaß für die ganze Familie im Wasserpark, bei dem Sie eigene Handtücher und ausreichend Sonnencreme für den Außenbereich nicht vergessen sollten.",
             "hu": "Élvezze a családi szórakozást ebben az élményfürdőben, és semmiképpen se felejtsen el saját törölközőt, illetve elegendő naptejet hozni a kinti részekhez.",
             "ro": "Experimentați distracția în familie la parcul acvatic, unde nu ar trebui să uitați să vă aduceți propriile prosoape și multă cremă de protecție solară.",
-            "en": "Experience fun for the whole family at the water park, remembering to bring your own towels and plenty of sunscreen for the outdoor swimming areas."
+            "en": "Experience fun for the whole family at the water park, remembering to bring your own towels and plenty of sunscreen for the outdoor swimming areas.",
+            "fr": "Profitez d'activités pour toute la famille au parc aquatique, en n'oubliant pas d'apporter vos serviettes et beaucoup de crème solaire pour les bassins extérieurs."
           }
         },
         {
@@ -704,7 +780,8 @@
             "de": "Museum der Schönen Künste",
             "hu": "Szépművészeti Múzeum",
             "ro": "Muzeul de Arte Frumoase",
-            "en": "Museum of Fine Arts"
+            "en": "Museum of Fine Arts",
+            "fr": "Musée des Beaux-Arts"
           },
           "coords": [
             5.489147,
@@ -719,7 +796,8 @@
             "de": "Entdecken Sie regionale Kunstwerke im charmanten Kunstmuseum, wo Sie besonders auf die lokal gefertigten Skulpturen im Erdgeschoss achten sollten.",
             "hu": "Fedezze fel a regionális műalkotásokat a bájos Szépművészeti Múzeumban, ahol érdemes külön figyelmet szentelni a helyi szobroknak a földszinten.",
             "ro": "Descoperiți opere de artă regionale în fermecătorul muzeu de arte frumoase, unde ar trebui să acordați atenție sculpturilor locale de la parter.",
-            "en": "Discover regional artworks in the charming Museum of Fine Arts, where you should pay special attention to the local sculptures on the ground floor."
+            "en": "Discover regional artworks in the charming Museum of Fine Arts, where you should pay special attention to the local sculptures on the ground floor.",
+            "fr": "Découvrez les œuvres régionales dans le charmant Musée des Beaux-Arts, en accordant une attention particulière aux sculptures locales au rez-de-chaussée."
           }
         },
         {
@@ -727,7 +805,8 @@
             "de": "Stiftskirche Notre-Dame",
             "hu": "Notre-Dame társaskáptalani templom",
             "ro": "Biserica Colegială Notre-Dame",
-            "en": "Collégiale Notre-Dame"
+            "en": "Collégiale Notre-Dame",
+            "fr": "Collégiale Notre-Dame"
           },
           "coords": [
             5.49471,
@@ -742,7 +821,8 @@
             "de": "Besichtigen Sie die majestätische Stiftskirche mit ihrem markanten Glockenturm, für den sich ein Fernglas zur Detailbetrachtung der Fassade lohnt.",
             "hu": "Látogassa meg a fenséges társaskáptalani templomot és annak jellegzetes harangtornyát, amihez érdemes távcsövet hozni a homlokzat részletei miatt.",
             "ro": "Vizitați biserica colegială maiestuoasă cu turnul său clopotniță distinctiv, pentru care merită să aveți un binoclu pentru a vedea detaliile fațadei.",
-            "en": "Visit the majestic collegiate church with its distinctive bell tower, bringing binoculars to appreciate the intricate architectural details on the facade."
+            "en": "Visit the majestic collegiate church with its distinctive bell tower, bringing binoculars to appreciate the intricate architectural details on the facade.",
+            "fr": "Visitez la majestueuse collégiale au clocher distinctif, et emportez des jumelles pour apprécier les détails architecturaux complexes de la façade."
           }
         },
         {
@@ -750,7 +830,8 @@
             "de": "Cours Saint-Mauris Park",
             "hu": "Cours Saint-Mauris Park",
             "ro": "Parcul Cours Saint-Mauris",
-            "en": "Cours Saint-Mauris Park"
+            "en": "Cours Saint-Mauris Park",
+            "fr": "Parc Cours Saint-Mauris"
           },
           "coords": [
             5.498003,
@@ -765,7 +846,8 @@
             "de": "Entspannen Sie in diesem malerischen Park mit wunderbaren Ausblicken, ideal für ein kleines Picknick am Nachmittag auf einer der schattigen Bänke.",
             "hu": "Pihenjen meg ebben a festői, csodás kilátást nyújtó parkban, amely tökéletes helyszín egy kora délutáni piknikhez az egyik kényelmes, árnyékos padon.",
             "ro": "Relaxați-vă în acest parc pitoresc cu priveliști minunate, fiind un loc ideal pentru un scurt picnic de după-amiază pe una dintre băncile umbrite.",
-            "en": "Relax in this picturesque park offering wonderful views, making it an ideal spot for a short afternoon picnic on one of the comfortable, shaded benches."
+            "en": "Relax in this picturesque park offering wonderful views, making it an ideal spot for a short afternoon picnic on one of the comfortable, shaded benches.",
+            "fr": "Détendez-vous dans ce parc pittoresque offrant de superbes panoramas, idéal pour un court pique-nique l'après-midi sur un des bancs ombragés et confortables."
           }
         },
         {
@@ -773,7 +855,8 @@
             "de": "Rückhaltebecken",
             "hu": "Bassin de rétention",
             "ro": "Bassin de rétention",
-            "en": "Bassin de rétention"
+            "en": "Bassin de rétention",
+            "fr": "Bassin de rétention"
           },
           "coords": [
             5.534082,
@@ -788,7 +871,8 @@
             "de": "Genießen Sie die ruhige Atmosphäre an diesem Wasserspeicher, wo festes Schuhwerk für einen Spaziergang entlang der unbefestigten Uferwege sehr zu empfehlen ist.",
             "hu": "Élvezze a nyugodt légkört ezen a víztározón, ahol a part menti sétához erősen ajánlott egy kényelmes, zárt cipő viselése a kavicsos ösvényeken.",
             "ro": "Bucurați-vă de atmosfera liniștită la acest bazin de retenție, unde încălțămintea confortabilă este recomandată pentru o plimbare pe malul neasfaltat.",
-            "en": "Enjoy the tranquil atmosphere at this retention basin, where wearing sturdy walking shoes is highly recommended for a stroll along the unpaved banks."
+            "en": "Enjoy the tranquil atmosphere at this retention basin, where wearing sturdy walking shoes is highly recommended for a stroll along the unpaved banks.",
+            "fr": "Appréciez l'atmosphère tranquille de ce bassin de rétention, où le port de chaussures de marche robustes est fortement recommandé pour se promener le long des berges non goudronnées."
           }
         },
         {
@@ -796,7 +880,8 @@
             "de": "Vèze-Teich",
             "hu": "Étang de la Vèze",
             "ro": "Lacul Vèze",
-            "en": "Étang de la Vèze"
+            "en": "Étang de la Vèze",
+            "fr": "Étang de la Vèze"
           },
           "coords": [
             5.560823,
@@ -811,7 +896,8 @@
             "de": "Entdecken Sie die unberührte Natur rund um diesen idyllischen See, der ein perfektes Fotomotiv für den späten Nachmittag kurz vor dem Sonnenuntergang bietet.",
             "hu": "Fedezze fel a természetet ezen idillikus tó körül, amely tökéletes fotótémát kínál a késő délutáni órákban, közvetlenül a lenyűgöző naplemente előtt.",
             "ro": "Descoperiți natura din jurul acestui lac idilic, care oferă un subiect foto perfect pentru sfârșitul după-amiezii, chiar înainte de frumosul apus de soare.",
-            "en": "Discover the natural beauty around this idyllic lake, providing a perfect photography subject in the late afternoon just before the breathtaking sun sets."
+            "en": "Discover the natural beauty around this idyllic lake, providing a perfect photography subject in the late afternoon just before the breathtaking sun sets.",
+            "fr": "Découvrez la beauté naturelle autour de ce lac idyllique, parfait pour la photographie en fin d'après-midi juste avant le spectaculaire coucher de soleil."
           }
         }
       ],
@@ -819,7 +905,8 @@
         "de": "Nach einem Morgen im Pasteur-Museum fahren Sie direkt zum familienfreundlichen Aquaparc. Die Mittagszeit verbringen Sie mit Kultur im Kunstmuseum. Am Nachmittag besichtigen Sie die Notre-Dame und den Cours Saint-Mauris. Der Tag endet mit malerischen Fahrten zum Bassin de rétention und dem Étang de la Vèze.",
         "hu": "A Pasteur-múzeumban töltött reggel után vezessen a családbarát Aquaparcba. A delet kulturális élményekkel töltheti a Szépművészeti Múzeumban. Délután tekintse meg a Notre-Dame-ot és a Cours Saint-Mauris parkot. A napot a Bassin de rétention és az Étang de la Vèze festői szépségű tavainál zárja.",
         "ro": "După o dimineață la Muzeul Pasteur, conduceți direct la Aquaparc-ul familial. Petreceți prânzul cu cultură la Muzeul de Artă. După-amiaza, vizitați Notre-Dame și pitorescul Parc Cours Saint-Mauris. Ziua se încheie cu plimbări pitorești către Bassin de rétention și liniștitul Étang de la Vèze.",
-        "en": "After a morning at the Pasteur Museum, drive to the family-friendly Aquaparc. Spend your midday soaking up culture at the Fine Arts Museum. In the afternoon, visit Notre-Dame and the Cours Saint-Mauris Park. The day wraps up with scenic drives to the Bassin de rétention and Étang de la Vèze."
+        "en": "After a morning at the Pasteur Museum, drive to the family-friendly Aquaparc. Spend your midday soaking up culture at the Fine Arts Museum. In the afternoon, visit Notre-Dame and the Cours Saint-Mauris Park. The day wraps up with scenic drives to the Bassin de rétention and Étang de la Vèze.",
+        "fr": "Après une matinée au musée Pasteur, conduisez jusqu'à l'Aquaparc familial. Passez votre midi à vous imprégner de culture au Musée des Beaux-Arts. L'après-midi, visitez Notre-Dame et le parc Cours Saint-Mauris. La journée se termine par de pittoresques trajets vers le Bassin de rétention et l'Étang de la Vèze."
       },
       "variants": {
         "rainy": {
@@ -827,7 +914,8 @@
             "de": "Ihre regnerische Fahrt beginnt im faszinierenden Pasteur-Museum, bevor es zum Wasserpark geht. Parken Sie mittags in der Nähe des Museums und der Kirche. Der Nachmittag führt Sie durch den nebligen Stadtpark. Beenden Sie den Tag mit einer Fahrt zum Becken und zum Étang de la Vèze und genießen Sie die Aussicht vom Auto aus.",
             "hu": "Az esős autózás a lenyűgöző Pasteur múzeumnál kezdődik, majd az aquapark felé veszi az irányt. Délben parkolj a múzeum és a templom közelében a séta minimalizálása érdekében. A délután a ködös városi parkon vezet át. Zárásként vezess a víztározóhoz és az Étang de la Vèze-hez, élvezve a drámai, eső áztatta kilátást az autóból.",
             "ro": "Plimbarea cu mașina începe la muzeul Pasteur, înainte de a merge la parcul acvatic. În jurul prânzului, parchează aproape de muzeu și de biserică. După-amiaza te duce prin parcul orașului. Încheie ziua ploioasă conducând către bazin și Étang de la Vèze, bucurându-te de priveliștile dramatice direct din mașină.",
-            "en": "Your rainy drive begins at the fascinating Pasteur museum before heading to the water park. Around noon, park near the fine arts museum and the grand church to minimize outdoor walking. The afternoon takes you through the misty city park. Conclude your wet day driving to the retention basin and Étang de la Vèze, enjoying the dramatic, rain-swept views from the car."
+            "en": "Your rainy drive begins at the fascinating Pasteur museum before heading to the water park. Around noon, park near the fine arts museum and the grand church to minimize outdoor walking. The afternoon takes you through the misty city park. Conclude your wet day driving to the retention basin and Étang de la Vèze, enjoying the dramatic, rain-swept views from the car.",
+            "fr": "Votre trajet pluvieux commence au fascinant musée Pasteur avant de vous diriger vers le parc aquatique. Vers midi, garez-vous près du musée des beaux-arts et de la grande église pour minimiser les promenades extérieures. L'après-midi vous conduit à travers le parc urbain brumeux. Concluez votre journée humide en voiture au bassin de rétention et à l'Étang de la Vèze, en profitant des vues dramatiques arrosées de pluie depuis la voiture."
           },
           "stops": [
             {
@@ -835,13 +923,15 @@
                 "de": "Geburtshaus von Louis Pasteur",
                 "hu": "Louis Pasteur Szülőháza",
                 "ro": "Casa natală a lui Louis Pasteur",
-                "en": "Louis Pasteur's Birthplace"
+                "en": "Louis Pasteur's Birthplace",
+                "fr": "Lieu de naissance de Louis Pasteur"
               },
               "tip_5lang": {
                 "de": "Tauchen Sie in diesem trockenen Museum in die Geschichte der Wissenschaft ein; halten Sie einen Regenschirm für den kurzen Weg bereit.",
                 "hu": "Merülj el a tudománytörténetben ebben a száraz beltéri múzeumban; tarts kéznél esernyőt a parkolótól való rövid sprinthez.",
                 "ro": "Pătrunde în istoria științei în acest muzeu uscat; ține o umbrelă la îndemână pentru sprintul scurt de la mașină.",
-                "en": "Dive into the history of science in this dry indoor museum; keep an umbrella handy for the short dash from your parked car."
+                "en": "Dive into the history of science in this dry indoor museum; keep an umbrella handy for the short dash from your parked car.",
+                "fr": "Plongez dans l'histoire des sciences dans ce musée intérieur et sec ; gardez un parapluie à portée de main pour la courte course depuis votre voiture garée."
               }
             },
             {
@@ -849,13 +939,15 @@
                 "de": "Wasserpark Isis",
                 "hu": "Aquaparc Isis",
                 "ro": "Aquaparc Isis",
-                "en": "Aquaparc Isis"
+                "en": "Aquaparc Isis",
+                "fr": "Aquaparc Isis"
               },
               "tip_5lang": {
                 "de": "Genießen Sie die überdachten Wasseranlagen, während es draußen in Strömen regnet; parken Sie nah am Eingang, um nicht nass zu werden.",
                 "hu": "Élvezd a fedett vízi létesítményeket, miközben kint zuhog az eső; parkolj minél közelebb a bejárathoz, nehogy elázz.",
                 "ro": "Bucură-te de facilitățile acvatice interioare în timp ce afară plouă; parchează cât mai aproape de intrare pentru a nu te uda.",
-                "en": "Enjoy the indoor aquatic facilities while the rain pours outside; park as close to the entrance as possible to avoid getting drenched."
+                "en": "Enjoy the indoor aquatic facilities while the rain pours outside; park as close to the entrance as possible to avoid getting drenched.",
+                "fr": "Profitez des installations aquatiques couvertes pendant que la pluie tombe dehors ; garez-vous le plus près possible de l'entrée pour éviter d'être trempé."
               }
             },
             {
@@ -863,13 +955,15 @@
                 "de": "Museum der Schönen Künste",
                 "hu": "Szépművészeti Múzeum",
                 "ro": "Muzeul de Arte Frumoase",
-                "en": "Museum of Fine Arts"
+                "en": "Museum of Fine Arts",
+                "fr": "Musée des Beaux-Arts"
               },
               "tip_5lang": {
                 "de": "Verbringen Sie eine Stunde in diesen trockenen Galerien mit lokaler Kultur; ein perfekter Zufluchtsort vor dem unerbittlichen Regen.",
                 "hu": "Tölts el egy órát a helyi kultúra befogadásával ezekben a száraz galériákban; tökéletes déli menedék a kinti könyörtelen eső elől.",
                 "ro": "Petrece o oră absorbind cultura locală în aceste galerii uscate; un refugiu perfect la amiază de ploaia necruțătoare de afară.",
-                "en": "Spend an hour absorbing local culture in these dry galleries; a perfect midday refuge from the unrelenting heavy rain outside."
+                "en": "Spend an hour absorbing local culture in these dry galleries; a perfect midday refuge from the unrelenting heavy rain outside.",
+                "fr": "Passez une heure à absorber la culture locale dans ces galeries sèches ; un refuge parfait de midi contre la pluie battante extérieure."
               }
             },
             {
@@ -877,13 +971,15 @@
                 "de": "Stiftskirche Notre-Dame",
                 "hu": "Notre-Dame társaskáptalani templom",
                 "ro": "Biserica Colegială Notre-Dame",
-                "en": "Collégiale Notre-Dame"
+                "en": "Collégiale Notre-Dame",
+                "fr": "Collégiale Notre-Dame"
               },
               "tip_5lang": {
                 "de": "Bewundern Sie die beeindruckende religiöse Architektur und die Orgel, während Sie Schutz suchen; das Innere ist an trüben Tagen spektakulär.",
                 "hu": "Csodáld meg a lenyűgöző vallási építészetet és a hatalmas orgonát, miközben menedéket keresel; a belső tér borús napokon is látványos.",
                 "ro": "Admiră arhitectura religioasă impresionantă și orga imensă în timp ce te adăpostești; interiorul este spectaculos în zilele mohorâte.",
-                "en": "Admire the impressive religious architecture and towering organ while taking shelter; the grand interior is spectacular on gloomy days."
+                "en": "Admire the impressive religious architecture and towering organ while taking shelter; the grand interior is spectacular on gloomy days.",
+                "fr": "Admirez l'impressionnante architecture religieuse et l'orgue monumental tout en vous abritant ; l'intérieur grandiose est spectaculaire les jours gris."
               }
             },
             {
@@ -891,13 +987,15 @@
                 "de": "Cours Saint-Mauris Park",
                 "hu": "Cours Saint-Mauris Park",
                 "ro": "Parcul Cours Saint-Mauris",
-                "en": "Cours Saint-Mauris Park"
+                "en": "Cours Saint-Mauris Park",
+                "fr": "Parc Cours Saint-Mauris"
               },
               "tip_5lang": {
                 "de": "Machen Sie einen kurzen Spaziergang mit dem Regenschirm, wenn der Regen nachlässt; ansonsten genießen Sie das üppige, nasse Grün vom Rand aus.",
                 "hu": "Tegyél egy rövid sétát esernyővel, ha az eső csillapodik; egyébként csak élvezd a buja, nedves növényzetet a park széléről.",
                 "ro": "Fă o scurtă plimbare sub umbrelă dacă ploaia se mai potolește; altfel, bucură-te pur și simplu de verdeața udă de la marginea parcului.",
-                "en": "Take a brief stroll under your umbrella if the rain lightens; otherwise, simply enjoy the lush, wet greenery from the edge of the park."
+                "en": "Take a brief stroll under your umbrella if the rain lightens; otherwise, simply enjoy the lush, wet greenery from the edge of the park.",
+                "fr": "Faites une brève promenade sous votre parapluie si la pluie faiblit ; sinon, appréciez simplement la végétation humide et luxuriante depuis le bord du parc."
               }
             },
             {
@@ -905,13 +1003,15 @@
                 "de": "Rückhaltebecken",
                 "hu": "Bassin de rétention",
                 "ro": "Bassin de rétention",
-                "en": "Bassin de rétention"
+                "en": "Bassin de rétention",
+                "fr": "Bassin de rétention"
               },
               "tip_5lang": {
                 "de": "Beobachten Sie, wie die Regentropfen auf dem Wasser tanzen; die gepflasterten Bereiche können rutschig sein, treten Sie vorsichtig auf.",
                 "hu": "Figyeld, ahogy a nehéz esőcseppek táncolnak a víz felszínén; a kövezett területek csúszósak lehetnek, ezért lépj óvatosan.",
                 "ro": "Privește picăturile grele de ploaie dansând pe apă; zonele pavate din jur pot fi alunecoase, deci calcă cu grijă dacă ieși.",
-                "en": "Watch the heavy raindrops dance on the water's surface; the paved areas around it can be slippery, so tread carefully if you step out."
+                "en": "Watch the heavy raindrops dance on the water's surface; the paved areas around it can be slippery, so tread carefully if you step out.",
+                "fr": "Regardez les grosses gouttes danser à la surface de l'eau ; les zones pavées autour peuvent être glissantes, alors avancez prudemment si vous sortez."
               }
             },
             {
@@ -919,13 +1019,15 @@
                 "de": "Vèze-Teich",
                 "hu": "Étang de la Vèze",
                 "ro": "Lacul Vèze",
-                "en": "Étang de la Vèze"
+                "en": "Étang de la Vèze",
+                "fr": "Étang de la Vèze"
               },
               "tip_5lang": {
                 "de": "Beobachten Sie die neblige Schönheit des Sees bequem von Ihrem warmen Fahrzeug aus; die schlammigen Pfade sollten heute gemieden werden.",
                 "hu": "Figyeld meg a tó ködös, melankolikus szépségét a meleg járműved kényelméből; a környező sáros ösvényeket ma jobb elkerülni.",
                 "ro": "Observă frumusețea melancolică și cețoasă a lacului din confortul vehiculului tău cald; traseele noroioase din jur sunt cel mai bine de evitat azi.",
-                "en": "Observe the misty, melancholic beauty of the lake from the comfort of your warm vehicle; the surrounding muddy trails are best avoided today."
+                "en": "Observe the misty, melancholic beauty of the lake from the comfort of your warm vehicle; the surrounding muddy trails are best avoided today.",
+                "fr": "Observez la beauté brumeuse et mélancolique du lac depuis le confort de votre véhicule chaud ; les sentiers boueux alentour sont à éviter aujourd'hui."
               }
             }
           ]
@@ -935,7 +1037,8 @@
             "de": "Beginnen Sie Ihren Winter-Roadtrip im gemütlichen Pasteur-Museum, bevor Sie sich im Indoor-Wasserpark aufwärmen. Mittags erkunden Sie das Kunstmuseum und die Kirche. Der kurze Winternachmittag ermöglicht einen Spaziergang im Park, bevor Sie zum Becken fahren. Erleben Sie den frühen Sonnenuntergang um 17:00 Uhr über dem eisigen Étang de la Vèze aus Ihrem beheizten Auto.",
             "hu": "Kezdd a téli autózást a hangulatos Pasteur múzeumban, majd melegedj fel a fedett aquaparkban. Délben fedezd fel a művészeti múzeumot és a templomot. A rövid téli délután egy frissítő sétát tesz lehetővé a parkban, mielőtt a tározóhoz hajtanál. Nézd meg a korai, 17:00 órás naplementét a jeges Étang de la Vèze felett a fűtött autódból.",
             "ro": "Începe excursia de iarnă la muzeul Pasteur înainte de a te încălzi la parcul acvatic. La prânz, explorează muzeul de artă și biserica colegială. Scurta după-amiază de iarnă permite o plimbare în parc înainte de a conduce spre bazin. Prinde apusul devreme, la ora 17:00, peste lacul înghețat, direct din mașina încălzită.",
-            "en": "Start your winter road trip at the cozy Pasteur museum before warming up at the indoor water park. Midday, explore the art museum and the towering collegiate church. The short winter afternoon allows for a crisp walk in the park before driving to the basin. Catch the early 17:00 sunset over the icy Étang de la Vèze from your heated car."
+            "en": "Start your winter road trip at the cozy Pasteur museum before warming up at the indoor water park. Midday, explore the art museum and the towering collegiate church. The short winter afternoon allows for a crisp walk in the park before driving to the basin. Catch the early 17:00 sunset over the icy Étang de la Vèze from your heated car.",
+            "fr": "Commencez votre road‑trip hivernal au cosy musée Pasteur avant de vous réchauffer au parc aquatique couvert. À midi, explorez le musée d'art et la collégiale imposante. La courte après‑midi d'hiver permet une promenade vive dans le parc avant de conduire au bassin. Admirez le coucher du soleil anticipé à 17:00 sur l'Étang de la Vèze glacé depuis votre voiture chauffée."
           },
           "stops": [
             {
@@ -943,13 +1046,15 @@
                 "de": "Geburtshaus von Louis Pasteur",
                 "hu": "Louis Pasteur Szülőháza",
                 "ro": "Casa natală a lui Louis Pasteur",
-                "en": "Louis Pasteur's Birthplace"
+                "en": "Louis Pasteur's Birthplace",
+                "fr": "Lieu de naissance de Louis Pasteur"
               },
               "tip_5lang": {
                 "de": "Beginnen Sie den Tag mit der Erkundung der warmen, historischen Räume des Elternhauses dieses Wissenschaftlers; eine tolle Flucht vor dem Morgenfrost.",
                 "hu": "Kezdd a napot a híres tudós gyermekkori otthonának meleg, történelmi szobáinak felfedezésével; remek menedék a reggeli fagy elől.",
                 "ro": "Începe-ți ziua explorând camerele calde și istorice ale casei copilăriei acestui faimos savant; o evadare excelentă din gerul dimineții.",
-                "en": "Start your day exploring the warm, historic rooms of this famous scientist's childhood home; a great escape from the morning frost."
+                "en": "Start your day exploring the warm, historic rooms of this famous scientist's childhood home; a great escape from the morning frost.",
+                "fr": "Commencez la journée en explorant les pièces chaudes et historiques de la maison d'enfance de ce célèbre scientifique ; une belle échappée au gel matinal."
               }
             },
             {
@@ -957,13 +1062,15 @@
                 "de": "Wasserpark Isis",
                 "hu": "Aquaparc Isis",
                 "ro": "Aquaparc Isis",
-                "en": "Aquaparc Isis"
+                "en": "Aquaparc Isis",
+                "fr": "Aquaparc Isis"
               },
               "tip_5lang": {
                 "de": "Tauen Sie in den beheizten Innenpools komplett auf; ein wunderbar warmer Kontrast zu den eisigen Wintertemperaturen draußen.",
                 "hu": "Olvadj ki teljesen a fűtött beltéri medencékben; csodálatosan meleg kontraszt a kinti fagyos téli hőmérséklettel szemben.",
                 "ro": "Dezgheață-te complet în piscinele interioare încălzite; este un contrast minunat și cald față de temperaturile de îngheț de afară.",
-                "en": "Thaw out completely in the heated indoor pools; it's a wonderfully warm contrast to the freezing winter temperatures outside."
+                "en": "Thaw out completely in the heated indoor pools; it's a wonderfully warm contrast to the freezing winter temperatures outside.",
+                "fr": "Dégel complet dans les piscines intérieures chauffées ; c'est un contraste merveilleusement chaud avec les températures hivernales glaciales extérieures."
               }
             },
             {
@@ -971,13 +1078,15 @@
                 "de": "Museum der Schönen Künste",
                 "hu": "Szépművészeti Múzeum",
                 "ro": "Muzeul de Arte Frumoase",
-                "en": "Museum of Fine Arts"
+                "en": "Museum of Fine Arts",
+                "fr": "Musée des Beaux-Arts"
               },
               "tip_5lang": {
                 "de": "Schlendern Sie durch die hell erleuchteten, gut beheizten Ausstellungshallen; nehmen Sie sich Zeit, um sich in der Mittagskälte aufzuwärmen.",
                 "hu": "Sétálj végig a fényesen megvilágított, jól fűtött kiállítótermeken; szánj időt az alapos felmelegedésre a déli hidegben.",
                 "ro": "Plimbă-te prin sălile de expoziție luminate și bine încălzite; ia-ți timp aici pentru a te încălzi bine în frigul amiezii.",
-                "en": "Wander through the brightly lit, well-heated exhibition halls; take your time here to thoroughly warm up during the midday chill."
+                "en": "Wander through the brightly lit, well-heated exhibition halls; take your time here to thoroughly warm up during the midday chill.",
+                "fr": "Parcourez les salles d'exposition bien éclairées et bien chauffées ; prenez votre temps ici pour vous réchauffer soigneusement durant la fraîcheur de midi."
               }
             },
             {
@@ -985,13 +1094,15 @@
                 "de": "Stiftskirche Notre-Dame",
                 "hu": "Notre-Dame társaskáptalani templom",
                 "ro": "Biserica Colegială Notre-Dame",
-                "en": "Collégiale Notre-Dame"
+                "en": "Collégiale Notre-Dame",
+                "fr": "Collégiale Notre-Dame"
               },
               "tip_5lang": {
                 "de": "Treten Sie ein, um die prächtigen Ausmaße und Buntglasfenster zu bewundern; das riesige Steingebäude kann kalt sein, behalten Sie Ihren Wintermantel an.",
                 "hu": "Lépj be, hogy megcsodáld a csodálatos méreteket és az ólomüveget; a hatalmas kőépület hideg lehet, ezért tartsd magadon a télikabátot.",
                 "ro": "Intră pentru a admira scara magnifică și vitraliile; imensa clădire de piatră poate fi rece, așa că ține-ți haina de iarnă pe tine.",
-                "en": "Step inside to admire the magnificent scale and stained glass; the vast stone building can be cold, so keep your winter coat on."
+                "en": "Step inside to admire the magnificent scale and stained glass; the vast stone building can be cold, so keep your winter coat on.",
+                "fr": "Entrez pour admirer l'échelle magnifique et les vitraux ; le vaste bâtiment de pierre peut être froid, gardez votre manteau d'hiver."
               }
             },
             {
@@ -999,13 +1110,15 @@
                 "de": "Cours Saint-Mauris Park",
                 "hu": "Cours Saint-Mauris Park",
                 "ro": "Parcul Cours Saint-Mauris",
-                "en": "Cours Saint-Mauris Park"
+                "en": "Cours Saint-Mauris Park",
+                "fr": "Parc Cours Saint-Mauris"
               },
               "tip_5lang": {
                 "de": "Genießen Sie einen Spaziergang durch die frostigen, kahlen Bäume; packen Sie sich warm ein, da der offene Park wenig Schutz vor dem Winterwind bietet.",
                 "hu": "Élvezd a frissítő sétát a fagyos, csupasz fák között; öltözz fel melegen, mert a nyitott park kevés védelmet nyújt a téli széllel szemben.",
                 "ro": "Bucură-te de o plimbare revigorantă printre copacii înghețați; îmbracă-te gros, deoarece parcul deschis oferă puțină protecție împotriva vântului.",
-                "en": "Enjoy a brisk walk through the frosty, bare trees; wrap up warmly as the open park offers little protection from the winter breeze."
+                "en": "Enjoy a brisk walk through the frosty, bare trees; wrap up warmly as the open park offers little protection from the winter breeze.",
+                "fr": "Profitez d'une marche tonique à travers les arbres gelés et dénudés ; couvrez-vous chaudement car le parc ouvert offre peu de protection contre la brise hivernale."
               }
             },
             {
@@ -1013,13 +1126,15 @@
                 "de": "Rückhaltebecken",
                 "hu": "Bassin de rétention",
                 "ro": "Bassin de rétention",
-                "en": "Bassin de rétention"
+                "en": "Bassin de rétention",
+                "fr": "Bassin de rétention"
               },
               "tip_5lang": {
                 "de": "Werfen Sie einen kurzen Blick auf das teilweise gefrorene Wasser und den markanten Winterhimmel; kehren Sie schnell in Ihr warmes Auto zurück.",
                 "hu": "Vess egy gyors pillantást a részben befagyott vízre és a lenyűgöző téli égre; gyorsan térj vissza az autód melegébe, hogy elkerüld a hideget.",
                 "ro": "Aruncă o privire rapidă la apa parțial înghețată și la cerul izbitor de iarnă; întoarce-te repede la căldura mașinii pentru a evita frigul.",
-                "en": "Take a quick look at the partially frozen water and striking winter sky; return to the warmth of your car quickly to avoid the cold."
+                "en": "Take a quick look at the partially frozen water and striking winter sky; return to the warmth of your car quickly to avoid the cold.",
+                "fr": "Jetez un coup d'œil rapide à l'eau partiellement gelée et au ciel d'hiver saisissant ; retournez vite à la chaleur de votre voiture pour éviter le froid."
               }
             },
             {
@@ -1027,13 +1142,15 @@
                 "de": "Vèze-Teich",
                 "hu": "Étang de la Vèze",
                 "ro": "Lacul Vèze",
-                "en": "Étang de la Vèze"
+                "en": "Étang de la Vèze",
+                "fr": "Étang de la Vèze"
               },
               "tip_5lang": {
                 "de": "Fahren Sie hierher, um einen spektakulären frühen Wintersonnenuntergang über dem eisigen See zu erleben; genießen Sie die Aussicht aus Ihrem beheizten Fahrzeug.",
                 "hu": "Vezess ide, hogy szemtanúja lehess egy látványos, kora téli naplementének a jeges tavon; élvezd a nyugodt kilátást közvetlenül a fűtött járművedből.",
                 "ro": "Condu până aici pentru a asista la un apus spectaculos de iarnă, devreme, peste lacul înghețat; bucură-te de priveliște direct din vehicul.",
-                "en": "Drive here to witness a spectacular, early winter sunset reflecting off the icy lake; enjoy the serene view directly from your heated vehicle."
+                "en": "Drive here to witness a spectacular, early winter sunset reflecting off the icy lake; enjoy the serene view directly from your heated vehicle.",
+                "fr": "Conduisez ici pour assister à un spectaculaire coucher de soleil hivernal précoce se reflétant sur le lac glacé ; profitez de la vue sereine directement depuis votre véhicule chauffé."
               }
             }
           ]

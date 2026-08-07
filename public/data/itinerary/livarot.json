@@ -21,7 +21,8 @@
             "de": "Graindorge Käserei",
             "hu": "Graindorge Sajtgyár",
             "ro": "Fabrica de brânză Graindorge",
-            "en": "Graindorge Cheese Factory"
+            "en": "Graindorge Cheese Factory",
+            "fr": "Fromagerie Graindorge"
           },
           "coords": [
             0.152137,
@@ -36,7 +37,8 @@
             "de": "Entdecken Sie den faszinierenden Herstellungsprozess der berühmten Normandie-Käse durch eine verglaste Galerie, aber kommen Sie rechtzeitig vor dem Mittagessen, um die aktive Morgenproduktion in vollem Gange zu sehen.",
             "hu": "Fedezze fel Normandia híres sajtjainak készítési folyamatát egy üvegfalú galérián keresztül, de feltétlenül érkezzen ebéd előtt, hogy még láthassa az aktív reggeli termelést.",
             "ro": "Descoperiți procesul fascinant din spatele celebrelor brânzeturi normande printr-o galerie vitrată, dar sosiți înainte de prânz pentru a prinde liniile de producție active.",
-            "en": "Discover the fascinating process behind Normandy's famous PDO cheeses through a glass-walled gallery, but arrive before lunch to catch the active morning production lines."
+            "en": "Discover the fascinating process behind Normandy's famous PDO cheeses through a glass-walled gallery, but arrive before lunch to catch the active morning production lines.",
+            "fr": "Découvrez le processus fascinant des célèbres fromages AOP normands à travers une galerie vitrée, mais arrivez avant le déjeuner pour assister aux lignes de production actives du matin."
           }
         },
         {
@@ -44,7 +46,8 @@
             "de": "Manoir de l'Isle",
             "hu": "Manoir de l'Isle",
             "ro": "Manoir de l'Isle",
-            "en": "Manoir de l'Isle"
+            "en": "Manoir de l'Isle",
+            "fr": "Manoir de l'Isle"
           },
           "coords": [
             0.146944,
@@ -59,7 +62,8 @@
             "de": "Spazieren Sie um dieses elegante historische Herrenhaus, das klassische normannische Architektur zeigt, und nutzen Sie die Gelegenheit, sich in den wunderschön gepflegten angrenzenden öffentlichen Gärten zu entspannen.",
             "hu": "Sétáljon a klasszikus normann építészetet bemutató elegáns történelmi kúria körül, és szánjon egy percet a pihenésre a gyönyörűen karbantartott szomszédos közkertekben.",
             "ro": "Plimbați-vă în jurul acestui conac istoric elegant care prezintă arhitectura clasică normandă și faceți un moment pentru a vă relaxa în grădinile publice adiacente frumos întreținute.",
-            "en": "Stroll around this elegant historic manor that showcases classical Norman architecture, and take a moment to relax in its beautifully maintained adjacent public gardens."
+            "en": "Stroll around this elegant historic manor that showcases classical Norman architecture, and take a moment to relax in its beautifully maintained adjacent public gardens.",
+            "fr": "Promenez-vous autour de cet élégant manoir historique qui met en valeur l'architecture classique normande, et prenez un moment pour vous détendre dans ses jardins publics magnifiquement entretenus."
           }
         },
         {
@@ -67,7 +71,8 @@
             "de": "Manoir de Carel",
             "hu": "Manoir de Carel",
             "ro": "Manoir de Carel",
-            "en": "Manoir de Carel"
+            "en": "Manoir de Carel",
+            "fr": "Manoir de Carel"
           },
           "coords": [
             0.146572,
@@ -82,7 +87,8 @@
             "de": "Bewundern Sie den markanten Kontrast aus Stein und Ziegel an diesem von einem Wassergraben umgebenen Schloss, beachten Sie jedoch, dass es in Privatbesitz ist und die beste Aussicht von der Begrenzungsmauer aus besteht.",
             "hu": "Csodálja meg a kő és tégla feltűnő kontrasztját ennél a várárokkal körülvett 18. századi kastélynál, de vegye figyelembe, hogy magántulajdonban van, így a legjobban az útról tekinthető meg.",
             "ro": "Admirați contrastul izbitor de piatră și cărămidă la acest castel din secolul al XVIII-lea înconjurat de un șanț, deși rețineți că este proprietate privată și vizionarea este optimă de pe drum.",
-            "en": "Admire the striking contrast of stone and brick at this 18th-century chateau surrounded by a moat, though be aware it is privately owned so viewing is best from the perimeter road."
+            "en": "Admire the striking contrast of stone and brick at this 18th-century chateau surrounded by a moat, though be aware it is privately owned so viewing is best from the perimeter road.",
+            "fr": "Admirez le contraste saisissant de la pierre et de la brique de ce château du XVIIIe siècle entouré d'un fossé, mais sachez qu'il est privé : la meilleure vue se fait depuis la route périphérique."
           }
         },
         {
@@ -90,7 +96,8 @@
             "de": "Église Saint-Pierre",
             "hu": "Église Saint-Pierre",
             "ro": "Église Saint-Pierre",
-            "en": "Église Saint-Pierre"
+            "en": "Église Saint-Pierre",
+            "fr": "Église Saint-Pierre"
           },
           "coords": [
             0.142889,
@@ -105,7 +112,8 @@
             "de": "Treten Sie in diese charmante Kirche ein, um ihre Buntglasfenster und die friedliche Atmosphäre zu schätzen, und achten Sie besonders auf die aufwendigen Holzschnitzereien in der Nähe des Altars.",
             "hu": "Lépjen be ebbe a bájos templomba, hogy megcsodálhassa az ólomüveg ablakokat és a békés légkört, figyelve az oltár melletti bonyolult és értékes fafaragásokra.",
             "ro": "Pășiți în această biserică fermecătoare pentru a-i aprecia vitraliile și atmosfera pașnică, fiind atenți la sculpturile complicate în lemn din apropierea altarului principal.",
-            "en": "Step into this charming church to appreciate its stained glass windows and peaceful atmosphere, keeping an eye out for the intricate wooden carvings near the main altar."
+            "en": "Step into this charming church to appreciate its stained glass windows and peaceful atmosphere, keeping an eye out for the intricate wooden carvings near the main altar.",
+            "fr": "Pénétrez dans cette charmante église pour apprécier ses vitraux et son atmosphère paisible, en gardant un œil sur les sculptures sur bois détaillées près du maître-autel."
           }
         },
         {
@@ -113,7 +121,8 @@
             "de": "DevalKart",
             "hu": "DevalKart",
             "ro": "DevalKart",
-            "en": "DevalKart"
+            "en": "DevalKart",
+            "fr": "DevalKart"
           },
           "coords": [
             0.132065,
@@ -128,7 +137,8 @@
             "de": "Erleben Sie einen Adrenalinstoß, indem Sie auf unmotorisierten Karts die grasbewachsenen Hänge hinunterrasen, und bringen Sie bequeme geschlossene Schuhe für den sicheren Rücktransport mit dem Skilift mit.",
             "hu": "Tapasztalja meg az adrenalint, ahogy nem motorizált gokartokon száguld le a füves lejtőkön, és hozzon kényelmes, zárt cipőt a sílifttel való biztonságos visszatéréshez.",
             "ro": "Experimentați o descărcare de adrenalină concurând pe pantele cu iarbă pe karturi nemotorizate, aducând încălțăminte confortabilă și închisă pentru a naviga în siguranță la întoarcerea cu teleschiul.",
-            "en": "Experience an adrenaline rush by racing down the grassy slopes on non-motorized karts, bringing comfortable closed-toe shoes to safely navigate the uphill ski-lift return."
+            "en": "Experience an adrenaline rush by racing down the grassy slopes on non-motorized karts, bringing comfortable closed-toe shoes to safely navigate the uphill ski-lift return.",
+            "fr": "Vivez une montée d'adrénaline en descendant les pentes herbeuses en karts non motorisés ; apportez des chaussures fermées et confortables pour remonter en toute sécurité avec le télésiège ou le retour mécanique."
           }
         }
       ],
@@ -136,7 +146,8 @@
         "de": "Beginnen Sie Ihren Tag in Livarot mit einem kulinarischen Erlebnis und entdecken Sie die Geheimnisse der lokalen Käseherstellung in der berühmten Graindorge-Fabrik.\nWenn die Mittagszeit naht, wechseln Sie von der Gastronomie zur Geschichte, indem Sie das elegante Manoir de l'Isle und das von einem Wassergraben umgebene Manoir de Carel erkunden.\nVerbringen Sie den Nachmittag damit, die spirituelle Architektur des Dorfes in der Église Saint-Pierre zu bewundern, die eine friedliche Pause bietet.\nLassen Sie den Tag mit unbeschwertem Spaß auf den DevalKart-Strecken ausklingen, bevor Sie ein entspanntes Abendessen im Dorf genießen.",
         "hu": "Kezdje a napot Livarotban egy igazi kulináris élménnyel, felfedezve a helyi sajtkészítés titkait a híres Graindorge gyárban.\nAz ebédidő közeledtével váltson a gasztronómiáról a helyi történelemre az elegáns Manoir de l'Isle és a várárokkal körülvett Manoir de Carel felfedezésével.\nTöltse a délutánt a falu építészetének megcsodálásával, látogasson el az Église Saint-Pierre templomba, amely csendes, elmélyült pihenést kínál.\nZárja a napot egy kis vidám szórakozással a DevalKart pályáin, majd fogyasszon el egy pihentető vacsorát a faluban.",
         "ro": "Începeți-vă ziua în Livarot cu o experiență culinară de excepție, descoperind secretele preparării brânzei la renumita fabrică Graindorge.\nPe măsură ce se apropie ora prânzului, treceți la istoria locală, explorând grațiosul Manoir de l'Isle și pitorescul Manoir de Carel.\nPetreceți-vă după-amiaza admirând arhitectura spirituală a satului la Église Saint-Pierre, care oferă un răgaz liniștit și contemplativ.\nÎncheiați ziua cu puțină distracție plină de adrenalină pe pistele DevalKart, înainte de a vă bucura de o cină relaxată în sat.",
-        "en": "Start your day in Livarot with a quintessential culinary experience, uncovering the secrets of local cheese making at the renowned Graindorge factory.\nAs lunchtime approaches, transition from gastronomy to local history by exploring the graceful Manoir de l'Isle and the moated Manoir de Carel.\nSpend your afternoon taking in the spiritual architecture of the village at Église Saint-Pierre, which offers a quiet, contemplative respite.\nWrap up the day with some lighthearted fun at the DevalKart tracks before enjoying a relaxed dinner back in the heart of the village."
+        "en": "Start your day in Livarot with a quintessential culinary experience, uncovering the secrets of local cheese making at the renowned Graindorge factory.\nAs lunchtime approaches, transition from gastronomy to local history by exploring the graceful Manoir de l'Isle and the moated Manoir de Carel.\nSpend your afternoon taking in the spiritual architecture of the village at Église Saint-Pierre, which offers a quiet, contemplative respite.\nWrap up the day with some lighthearted fun at the DevalKart tracks before enjoying a relaxed dinner back in the heart of the village.",
+        "fr": "Commencez votre journée à Livarot par une expérience culinaire typique, en découvrant les secrets de la fabrication du fromage local à la réputée fromagerie Graindorge. À l'approche du déjeuner, passez de la gastronomie à l'histoire locale en explorant le gracieux Manoir de l'Isle et le Manoir de Carel ceint d'eau. Passez l'après‑midi à admirer l'architecture sacrée du village à l'Église Saint-Pierre, qui offre un répit calme et contemplatif. Terminez la journée par un moment de détente et de plaisir au DevalKart avant de savourer un dîner tranquille au cœur du village."
       },
       "variants": {
         "rainy": {
@@ -144,7 +155,8 @@
             "de": "Beginnen Sie den regnerischen Morgen in einer überdachten Käserei. Mittags ist ein stabiler Regenschirm für den Spaziergang zu den Herrenhäusern unerlässlich. Der Nachmittag bietet trockene Zuflucht in der Kirche, während das Kartfahren draußen schlammig wird. Beenden Sie den feuchten Spaziergang mit einem Heißgetränk.",
             "hu": "Kezdje az esős reggelt egy fedett sajtüzemben. Kora délután egy erős esernyő elengedhetetlen a történelmi udvarházakhoz vezető sétához. A délután menedéket nyújt a helyi templomban, a szabadtéri gokartozás viszont saras lehet. Zárja a nedves sétát egy forró itallal a közelben.",
             "ro": "Începeți dimineața ploioasă la o fabrică de brânză acoperită. La prânz, o umbrelă rezistentă este esențială pentru plimbarea spre conace. După-amiaza oferă un sanctuar uscat în biserică, deși kartingul în aer liber poate fi noroios. Încheiați plimbarea umedă cu o băutură caldă.",
-            "en": "Start your rainy morning discovering local cheese production indoors. By midday, a sturdy umbrella is essential as you walk to the historic manors. The afternoon offers dry sanctuary inside the local church, though outdoor karting might be muddy. Conclude your wet walk with a hot drink at a nearby café."
+            "en": "Start your rainy morning discovering local cheese production indoors. By midday, a sturdy umbrella is essential as you walk to the historic manors. The afternoon offers dry sanctuary inside the local church, though outdoor karting might be muddy. Conclude your wet walk with a hot drink at a nearby café.",
+            "fr": "Commencez votre matinée pluvieuse en découvrant la production locale de fromage à l'intérieur. À midi, un parapluie solide est indispensable pour marcher jusqu'aux manoirs historiques. L'après‑midi offre un abri sec à l'intérieur de l'église locale, bien que le karting extérieur puisse être boueux. Concluez votre promenade humide par une boisson chaude dans un café à proximité."
           },
           "stops": [
             {
@@ -152,13 +164,15 @@
                 "de": "Graindorge Käserei",
                 "hu": "Graindorge Sajtgyár",
                 "ro": "Fabrica de brânză Graindorge",
-                "en": "Graindorge Cheese Factory"
+                "en": "Graindorge Cheese Factory",
+                "fr": "Fromagerie Graindorge"
               },
               "tip_5lang": {
                 "de": "Besichtigen Sie die trockene Käserei, während es draußen regnet; tragen Sie rutschfeste Schuhe für den nassen Eingangsbereich.",
                 "hu": "Járja be a meleg, száraz sajtgyárat és kóstoljon helyi ízeket, miközben kint esik; a nedves bejáratnál viseljen csúszásmentes cipőt.",
                 "ro": "Vizitați fabrica uscată de brânză în timp ce plouă afară; purtați încălțăminte antiderapantă pentru intrarea umedă.",
-                "en": "Tour the warm, dry cheese factory and taste local flavors while the rain pours outside; wear non-slip shoes for the wet entrance."
+                "en": "Tour the warm, dry cheese factory and taste local flavors while the rain pours outside; wear non-slip shoes for the wet entrance.",
+                "fr": "Visitez la fromagerie, chaleureuse et sèche, et dégustez les saveurs locales pendant que la pluie tombe dehors ; portez des chaussures antidérapantes pour l'entrée humide."
               }
             },
             {
@@ -166,13 +180,15 @@
                 "de": "Manoir de l'Isle",
                 "hu": "Manoir de l'Isle",
                 "ro": "Manoir de l'Isle",
-                "en": "Manoir de l'Isle"
+                "en": "Manoir de l'Isle",
+                "fr": "Manoir de l'Isle"
               },
               "tip_5lang": {
                 "de": "Bewundern Sie dieses Fachwerkhaus unter dem Regenschirm; das Gelände wird schlammig, bleiben Sie also bei Regen auf befestigten Wegen.",
                 "hu": "Csodálja meg ezt a favázas szépséget esernyője alól; a park saras lehet, így heves esőzéskor maradjon a burkolt ösvényeken.",
                 "ro": "Admirați această frumusețe din lemn sub umbrelă; terenul devine noroios, așa că rămâneți pe cărările pavate în timpul averselor.",
-                "en": "Admire this half-timbered beauty from beneath your umbrella; the grounds get very muddy, so stick to the paved paths during heavy showers."
+                "en": "Admire this half-timbered beauty from beneath your umbrella; the grounds get very muddy, so stick to the paved paths during heavy showers.",
+                "fr": "Admirez cette beauté à colombages sous votre parapluie ; les terrains deviennent très boueux, donc restez sur les chemins pavés lors de fortes averses."
               }
             },
             {
@@ -180,13 +196,15 @@
                 "de": "Manoir de Carel",
                 "hu": "Manoir de Carel",
                 "ro": "Manoir de Carel",
-                "en": "Manoir de Carel"
+                "en": "Manoir de Carel",
+                "fr": "Manoir de Carel"
               },
               "tip_5lang": {
                 "de": "Betrachten Sie die klassische Architektur aus der Ferne; wasserdichte Stiefel sind ratsam, da sich auf den Wiesen Pfützen bilden.",
                 "hu": "Figyelje meg a klasszikus építészetet távolról; a vízálló csizma erősen ajánlott, mivel a környező réteken megáll a víz.",
                 "ro": "Observați arhitectura clasică de la distanță; cizmele impermeabile sunt recomandate, deoarece pe pajiștile din jur se strânge apa.",
-                "en": "Observe the classical architecture from a distance; waterproof boots are highly recommended as the surrounding meadows collect standing water."
+                "en": "Observe the classical architecture from a distance; waterproof boots are highly recommended as the surrounding meadows collect standing water.",
+                "fr": "Observez l'architecture classique à distance ; des bottes imperméables sont fortement recommandées car les prés environnants retiennent l'eau."
               }
             },
             {
@@ -194,13 +212,15 @@
                 "de": "Église Saint-Pierre",
                 "hu": "Église Saint-Pierre",
                 "ro": "Église Saint-Pierre",
-                "en": "Église Saint-Pierre"
+                "en": "Église Saint-Pierre",
+                "fr": "Église Saint-Pierre"
               },
               "tip_5lang": {
                 "de": "Machen Sie eine ruhige Pause in der Steinkirche, um sich vor dem Platzregen zu schützen; die Buntglasfenster wirken an grauen Tagen dramatisch.",
                 "hu": "Tartson egy csendes pihenőt a kőtemplomban, hogy megszáradjon; az ólomüveg ablakok drámaiak és hangulatosak a szürke napokon.",
                 "ro": "Faceți o pauză liniștită în această biserică de piatră pentru a vă usca; vitraliile arată dramatic și plin de stare în zilele gri.",
-                "en": "Take a quiet break inside this stone church to dry off and escape the downpour; the stained glass looks moody and dramatic on grey days."
+                "en": "Take a quiet break inside this stone church to dry off and escape the downpour; the stained glass looks moody and dramatic on grey days.",
+                "fr": "Faites une pause tranquille à l'intérieur de cette église de pierre pour vous sécher et échapper à l'averse ; les vitraux paraissent dramatiques et d'humeur sombre les jours gris."
               }
             },
             {
@@ -208,13 +228,15 @@
                 "de": "DevalKart",
                 "hu": "DevalKart",
                 "ro": "DevalKart",
-                "en": "DevalKart"
+                "en": "DevalKart",
+                "fr": "DevalKart"
               },
               "tip_5lang": {
                 "de": "Das Outdoor-Rennen kann bei Regen abgesagt oder sehr rutschig werden; bringen Sie eine Regenjacke mit und rufen Sie vorher an.",
                 "hu": "A szabadtéri versenyzés csúszós lehet vagy elmaradhat esőben; hozzon vízálló kabátot, és előre érdeklődjön a nyitvatartásról.",
                 "ro": "Cursele în aer liber pot fi anulate sau foarte alunecoase pe ploaie; aduceți o jachetă impermeabilă și sunați în prealabil pentru confirmare.",
-                "en": "Outdoor racing here might be canceled or very slippery during rain; bring a waterproof jacket and call ahead to confirm if the track is open."
+                "en": "Outdoor racing here might be canceled or very slippery during rain; bring a waterproof jacket and call ahead to confirm if the track is open.",
+                "fr": "Les courses extérieures peuvent être annulées ou très glissantes sous la pluie ; apportez une veste imperméable et appelez pour confirmer si la piste est ouverte."
               }
             }
           ]
@@ -224,7 +246,8 @@
             "de": "Ein knackiger Winterspaziergang beginnt mit einer warmen Käse-Tour. Mittags sollten Sie sich warm einpacken, wenn Sie die historischen Herrenhäuser erkunden. Das Nachmittagslicht schwindet früh gegen 17 Uhr, ideal für die Kirche. Beenden Sie den frostigen Tag in einem gemütlichen Bistro.",
             "hu": "A fagyos téli séta egy meleg, beltéri sajttúrával indul. Délben öltözzön meleg rétegekbe a történelmi udvarházak felfedezéséhez. A délutáni fény 17:00 körül korán elhalványul, így a kőtemplom meghitt menedéket ad. Zárja a fagyos napot egy hangulatos helyi bisztróban.",
             "ro": "O plimbare de iarnă începe cu un tur cald la brânzeturi. La prânz, îmbrăcați-vă gros pentru a explora conacele istorice în briza rece. Lumina de după-amiază scade devreme în jur de ora 17, făcând din biserică un refugiu confortabil. Încheiați ziua geroasă la un bistro local cald.",
-            "en": "A crisp winter walk begins with a warm indoor cheese tour. By noon, wrap up in thermal layers as you explore the historic manors in the chilly breeze. Afternoon light fades early around 5 PM, making the church a cozy retreat before heading to the karting track. Finish your frosty day at a warm local bistro."
+            "en": "A crisp winter walk begins with a warm indoor cheese tour. By noon, wrap up in thermal layers as you explore the historic manors in the chilly breeze. Afternoon light fades early around 5 PM, making the church a cozy retreat before heading to the karting track. Finish your frosty day at a warm local bistro.",
+            "fr": "Une promenade hivernale fraîche commence par une visite fromagère chaleureuse à l'intérieur. À midi, emmitouflez-vous dans des couches thermiques pour explorer les manoirs historiques dans la brise glacée. La lumière de l'après‑midi baisse tôt vers 17:00, faisant de l'église un refuge douillet avant de se rendre sur la piste de karting. Terminez votre journée glaciale dans un bistrot local chaleureux."
           },
           "stops": [
             {
@@ -232,13 +255,15 @@
                 "de": "Graindorge Käserei",
                 "hu": "Graindorge Sajtgyár",
                 "ro": "Fabrica de brânză Graindorge",
-                "en": "Graindorge Cheese Factory"
+                "en": "Graindorge Cheese Factory",
+                "fr": "Fromagerie Graindorge"
               },
               "tip_5lang": {
                 "de": "Genießen Sie das beheizte Besucherzentrum; ein heißer Kaffee hier ist perfekt, bevor Sie in die frostige Morgenluft hinausgehen.",
                 "hu": "Élvezze a fűtött látogatóközpontot; egy forró kávé felhörpintése tökéletes a fagyos reggeli levegő előtt.",
                 "ro": "Bucurați-vă de centrul încălzit pentru vizitatori; o cafea fierbinte aici este perfectă înainte de a înfrunta aerul rece al dimineții.",
-                "en": "Enjoy the heated visitor center to learn about cheese making; grabbing a hot coffee here is perfect before facing the frosty morning air."
+                "en": "Enjoy the heated visitor center to learn about cheese making; grabbing a hot coffee here is perfect before facing the frosty morning air.",
+                "fr": "Profitez du centre d'accueil chauffé pour en apprendre davantage sur la fabrication du fromage ; prendre un café chaud ici est parfait avant d'affronter l'air matinal glacé."
               }
             },
             {
@@ -246,13 +271,15 @@
                 "de": "Manoir de l'Isle",
                 "hu": "Manoir de l'Isle",
                 "ro": "Manoir de l'Isle",
-                "en": "Manoir de l'Isle"
+                "en": "Manoir de l'Isle",
+                "fr": "Manoir de l'Isle"
               },
               "tip_5lang": {
                 "de": "Fotografieren Sie das frostbedeckte Herrenhaus; tragen Sie isolierte Handschuhe, da das offene Gelände dem beißenden Winterwind ausgesetzt ist.",
                 "hu": "Készítsen fotókat a dérrel borított udvarházról; viseljen bélelt kesztyűt, mivel a nyitott birtokot metsző téli szelek érik.",
                 "ro": "Fotografiați conacul acoperit de brumă; purtați mănuși izolate, deoarece domeniul deschis este expus vânturilor tăioase de iarnă.",
-                "en": "Capture photos of the frost-covered manor and its stark trees; wear insulated gloves as the open estate grounds are exposed to biting winter winds."
+                "en": "Capture photos of the frost-covered manor and its stark trees; wear insulated gloves as the open estate grounds are exposed to biting winter winds.",
+                "fr": "Prenez des photos du manoir couvert de givre et de ses arbres dépouillés ; portez des gants isolants car les terrains ouverts sont exposés aux vents mordants d'hiver."
               }
             },
             {
@@ -260,13 +287,15 @@
                 "de": "Manoir de Carel",
                 "hu": "Manoir de Carel",
                 "ro": "Manoir de Carel",
-                "en": "Manoir de Carel"
+                "en": "Manoir de Carel",
+                "fr": "Manoir de Carel"
               },
               "tip_5lang": {
                 "de": "Der Wassergraben sieht leicht gefroren atemberaubend aus; ein warmer Schal und feste Winterstiefel sind für diesen Fotostopp unerlässlich.",
                 "hu": "A vizesárok lenyűgöző kissé befagyva, de az utak jegesek lehetnek; meleg sál és masszív téli csizma elengedhetetlen ide.",
                 "ro": "Șanțul arată uimitor ușor înghețat, dar cărările pot fi alunecoase; un fular cald și cizme de iarnă solide sunt esențiale aici.",
-                "en": "The moat looks stunning slightly frozen, but the paths can be icy; a warm scarf and sturdy winter boots are essential for this quick photo stop."
+                "en": "The moat looks stunning slightly frozen, but the paths can be icy; a warm scarf and sturdy winter boots are essential for this quick photo stop.",
+                "fr": "Le fossé est superbe légèrement gelé, mais les chemins peuvent être verglacés ; une écharpe chaude et des bottes d'hiver robustes sont essentielles pour ce rapide arrêt photo."
               }
             },
             {
@@ -274,13 +303,15 @@
                 "de": "Église Saint-Pierre",
                 "hu": "Église Saint-Pierre",
                 "ro": "Église Saint-Pierre",
-                "en": "Église Saint-Pierre"
+                "en": "Église Saint-Pierre",
+                "fr": "Église Saint-Pierre"
               },
               "tip_5lang": {
                 "de": "Treten Sie hinter die dicken Steinmauern, um der Kälte zu entkommen; das Winterlicht sorgt für eine friedliche Atmosphäre in der Kirche.",
                 "hu": "Lépjen be a vastag kőfalak közé, hogy elmeneküljön a metsző hideg elől; a téli fény békés, nyugodt légkört teremt a templomban.",
                 "ro": "Pășiți înăuntrul pereților groși de piatră pentru a scăpa de frigul tăios; lumina iernii creează o atmosferă pașnică și senină.",
-                "en": "Step inside the thick stone walls to escape the biting cold; the winter light filtering through the windows creates a peaceful, serene atmosphere."
+                "en": "Step inside the thick stone walls to escape the biting cold; the winter light filtering through the windows creates a peaceful, serene atmosphere.",
+                "fr": "Entrez dans les murs épais en pierre pour échapper au froid mordant ; la lumière hivernale filtrant à travers les vitraux crée une atmosphère paisible et sereine."
               }
             },
             {
@@ -288,13 +319,15 @@
                 "de": "DevalKart",
                 "hu": "DevalKart",
                 "ro": "DevalKart",
-                "en": "DevalKart"
+                "en": "DevalKart",
+                "fr": "DevalKart"
               },
               "tip_5lang": {
                 "de": "Die Bahn schließt früh bei Sonnenuntergang; ziehen Sie sich warm an, da der Fahrtwind bergab extrem kalt sein kann.",
                 "hu": "A pálya korán, 17:00 körül zár, így érkezzen időben; öltözzön fel jól, mert a lejtőn lefelé a menetszél intenzív fagyérzetet ad.",
                 "ro": "Pistele se închid devreme la apus; îmbrăcați-vă foarte gros, deoarece senzația de frig din cauza vântului la coborâre este intensă.",
-                "en": "The tracks close early at sunset around 5 PM, so arrive in time; bundle up completely because the wind chill while driving downhill is intense."
+                "en": "The tracks close early at sunset around 5 PM, so arrive in time; bundle up completely because the wind chill while driving downhill is intense.",
+                "fr": "Les pistes ferment tôt au coucher du soleil vers 17:00, donc arrivez à l'heure ; emmitouflez-vous complètement car la sensation de froid due au vent en descente est intense."
               }
             }
           ]
@@ -314,7 +347,8 @@
             "de": "Graindorge Käserei",
             "hu": "Graindorge Sajtgyár",
             "ro": "Fabrica de brânză Graindorge",
-            "en": "Graindorge Cheese Factory"
+            "en": "Graindorge Cheese Factory",
+            "fr": "Fromagerie Graindorge"
           },
           "coords": [
             0.152137,
@@ -329,7 +363,8 @@
             "de": "Entdecken Sie den faszinierenden Herstellungsprozess der berühmten Normandie-Käse durch eine verglaste Galerie, aber kommen Sie rechtzeitig vor dem Mittagessen, um die aktive Morgenproduktion in vollem Gange zu sehen.",
             "hu": "Fedezze fel Normandia híres sajtjainak készítési folyamatát egy üvegfalú galérián keresztül, de feltétlenül érkezzen ebéd előtt, hogy még láthassa az aktív reggeli termelést.",
             "ro": "Descoperiți procesul fascinant din spatele celebrelor brânzeturi normande printr-o galerie vitrată, dar sosiți înainte de prânz pentru a prinde liniile de producție active.",
-            "en": "Discover the fascinating process behind Normandy's famous PDO cheeses through a glass-walled gallery, but arrive before lunch to catch the active morning production lines."
+            "en": "Discover the fascinating process behind Normandy's famous PDO cheeses through a glass-walled gallery, but arrive before lunch to catch the active morning production lines.",
+            "fr": "Découvrez le processus fascinant des célèbres fromages AOP normands à travers une galerie vitrée, mais arrivez avant le déjeuner pour assister aux lignes de production actives du matin."
           }
         },
         {
@@ -337,7 +372,8 @@
             "de": "Manoir de l'Isle",
             "hu": "Manoir de l'Isle",
             "ro": "Manoir de l'Isle",
-            "en": "Manoir de l'Isle"
+            "en": "Manoir de l'Isle",
+            "fr": "Manoir de l'Isle"
           },
           "coords": [
             0.146944,
@@ -352,7 +388,8 @@
             "de": "Spazieren Sie um dieses elegante historische Herrenhaus, das klassische normannische Architektur zeigt, und nutzen Sie die Gelegenheit, sich in den wunderschön gepflegten angrenzenden öffentlichen Gärten zu entspannen.",
             "hu": "Sétáljon a klasszikus normann építészetet bemutató elegáns történelmi kúria körül, és szánjon egy percet a pihenésre a gyönyörűen karbantartott szomszédos közkertekben.",
             "ro": "Plimbați-vă în jurul acestui conac istoric elegant care prezintă arhitectura clasică normandă și faceți un moment pentru a vă relaxa în grădinile publice adiacente frumos întreținute.",
-            "en": "Stroll around this elegant historic manor that showcases classical Norman architecture, and take a moment to relax in its beautifully maintained adjacent public gardens."
+            "en": "Stroll around this elegant historic manor that showcases classical Norman architecture, and take a moment to relax in its beautifully maintained adjacent public gardens.",
+            "fr": "Promenez-vous autour de cet élégant manoir historique qui met en valeur l'architecture classique normande, et prenez un moment pour vous détendre dans ses jardins publics magnifiquement entretenus."
           }
         },
         {
@@ -360,7 +397,8 @@
             "de": "Manoir de Carel",
             "hu": "Manoir de Carel",
             "ro": "Manoir de Carel",
-            "en": "Manoir de Carel"
+            "en": "Manoir de Carel",
+            "fr": "Manoir de Carel"
           },
           "coords": [
             0.146572,
@@ -375,7 +413,8 @@
             "de": "Bewundern Sie den markanten Kontrast aus Stein und Ziegel an diesem von einem Wassergraben umgebenen Schloss, beachten Sie jedoch, dass es in Privatbesitz ist und die beste Aussicht von der Begrenzungsmauer aus besteht.",
             "hu": "Csodálja meg a kő és tégla feltűnő kontrasztját ennél a várárokkal körülvett 18. századi kastélynál, de vegye figyelembe, hogy magántulajdonban van, így a legjobban az útról tekinthető meg.",
             "ro": "Admirați contrastul izbitor de piatră și cărămidă la acest castel din secolul al XVIII-lea înconjurat de un șanț, deși rețineți că este proprietate privată și vizionarea este optimă de pe drum.",
-            "en": "Admire the striking contrast of stone and brick at this 18th-century chateau surrounded by a moat, though be aware it is privately owned so viewing is best from the perimeter road."
+            "en": "Admire the striking contrast of stone and brick at this 18th-century chateau surrounded by a moat, though be aware it is privately owned so viewing is best from the perimeter road.",
+            "fr": "Admirez le contraste saisissant de la pierre et de la brique de ce château du XVIIIe siècle entouré d'un fossé, mais sachez qu'il est privé : la meilleure vue se fait depuis la route périphérique."
           }
         },
         {
@@ -383,7 +422,8 @@
             "de": "Église Saint-Michel",
             "hu": "Église Saint-Michel",
             "ro": "Église Saint-Michel",
-            "en": "Église Saint-Michel"
+            "en": "Église Saint-Michel",
+            "fr": "Église Saint-Michel"
           },
           "coords": [
             0.134321,
@@ -398,7 +438,8 @@
             "de": "Besuchen Sie diese malerische ländliche Kirche inmitten der üppigen Landschaft der Normandie, die nachmittags ein ruhiges Fotomotiv auf Ihrer Radtour bietet.",
             "hu": "Látogasson el erre a festői vidéki templomra, amelyet Normandia buja vidéke vesz körül, és amely a kora délutáni órákban derűs fotózási lehetőséget kínál.",
             "ro": "Vizitați această biserică rurală pitorească înconjurată de mediul rural luxuriant din Normandia, oferind o oportunitate foto senină în timpul plimbării cu bicicleta.",
-            "en": "Visit this picturesque rural church surrounded by Normandy's lush countryside, offering a serene photo opportunity as you cycle through the idyllic landscape."
+            "en": "Visit this picturesque rural church surrounded by Normandy's lush countryside, offering a serene photo opportunity as you cycle through the idyllic landscape.",
+            "fr": "Visitez cette pittoresque église rurale entourée de la campagne luxuriante de Normandie, offrant une belle opportunité photo lors de votre parcours à vélo dans le paysage idyllique."
           }
         },
         {
@@ -406,7 +447,8 @@
             "de": "Église Saint-Pierre",
             "hu": "Église Saint-Pierre",
             "ro": "Église Saint-Pierre",
-            "en": "Église Saint-Pierre"
+            "en": "Église Saint-Pierre",
+            "fr": "Église Saint-Pierre"
           },
           "coords": [
             0.142889,
@@ -421,7 +463,8 @@
             "de": "Treten Sie in diese charmante Kirche ein, um ihre Buntglasfenster und die friedliche Atmosphäre zu schätzen, und achten Sie besonders auf die aufwendigen Holzschnitzereien in der Nähe des Altars.",
             "hu": "Lépjen be ebbe a bájos templomba, hogy megcsodálhassa az ólomüveg ablakokat és a békés légkört, figyelve az oltár melletti bonyolult és értékes fafaragásokra.",
             "ro": "Pășiți în această biserică fermecătoare pentru a-i aprecia vitraliile și atmosfera pașnică, fiind atenți la sculpturile complicate în lemn din apropierea altarului principal.",
-            "en": "Step into this charming church to appreciate its stained glass windows and peaceful atmosphere, keeping an eye out for the intricate wooden carvings near the main altar."
+            "en": "Step into this charming church to appreciate its stained glass windows and peaceful atmosphere, keeping an eye out for the intricate wooden carvings near the main altar.",
+            "fr": "Pénétrez dans cette charmante église pour apprécier ses vitraux et son atmosphère paisible, en gardant un œil sur les sculptures sur bois détaillées près du maître-autel."
           }
         },
         {
@@ -429,7 +472,8 @@
             "de": "DevalKart",
             "hu": "DevalKart",
             "ro": "DevalKart",
-            "en": "DevalKart"
+            "en": "DevalKart",
+            "fr": "DevalKart"
           },
           "coords": [
             0.132065,
@@ -444,7 +488,8 @@
             "de": "Erleben Sie einen Adrenalinstoß, indem Sie auf unmotorisierten Karts die grasbewachsenen Hänge hinunterrasen, und bringen Sie bequeme geschlossene Schuhe für den sicheren Rücktransport mit dem Skilift mit.",
             "hu": "Tapasztalja meg az adrenalint, ahogy nem motorizált gokartokon száguld le a füves lejtőkön, és hozzon kényelmes, zárt cipőt a sílifttel való biztonságos visszatéréshez.",
             "ro": "Experimentați o descărcare de adrenalină concurând pe pantele cu iarbă pe karturi nemotorizate, aducând încălțăminte confortabilă și închisă pentru a naviga în siguranță la întoarcerea cu teleschiul.",
-            "en": "Experience an adrenaline rush by racing down the grassy slopes on non-motorized karts, bringing comfortable closed-toe shoes to safely navigate the uphill ski-lift return."
+            "en": "Experience an adrenaline rush by racing down the grassy slopes on non-motorized karts, bringing comfortable closed-toe shoes to safely navigate the uphill ski-lift return.",
+            "fr": "Vivez une montée d'adrénaline en descendant les pentes herbeuses en karts non motorisés ; apportez des chaussures fermées et confortables pour remonter en toute sécurité avec le télésiège ou le retour mécanique."
           }
         }
       ],
@@ -452,7 +497,8 @@
         "de": "Radeln Sie in den Tag mit einem faszinierenden Stopp in der Graindorge-Käserei, wo der Duft von frischem Käse Ihre Sinne weckt.\nDie Mittagsroute führt Sie vorbei an historischen Schätzen wie dem Manoir de l'Isle und dem beeindruckenden, von Wasser umgebenen Manoir de Carel.\nAm Nachmittag radeln Sie entspannt durch die ländliche Normandie, um malerische Dorfkirchen wie Saint-Michel und Saint-Pierre zu besichtigen.\nLassen Sie das Fahrrad kurz ruhen und genießen Sie eine rasante Abfahrt auf den DevalKart-Pisten, um den Tag sportlich abzuschließen.",
         "hu": "Indítsa a kerékpáros napot egy lenyűgöző megállóval a Graindorge sajtgyárban, ahol a friss normann sajtok illata ébreszti az érzékeit.\nA déli útvonal olyan történelmi kincsek mellett vezet el, mint a Manoir de l'Isle és a lenyűgöző, vízzel körülvett Manoir de Carel.\nDélután nyugodtan kerékpározzon a vidéki tájon, hogy felfedezze az olyan festői templomokat, mint a Saint-Michel és a Saint-Pierre.\nPihentesse meg a kerékpárt egy kicsit, és élvezze a gyors ereszkedést a DevalKart pályáin, hogy sportosan zárja a napot.",
         "ro": "Începeți ziua de ciclism cu o oprire fascinantă la fabrica de brânză Graindorge, unde parfumul brânzei proaspete vă va trezi simțurile.\nTraseul de prânz vă poartă pe lângă comori istorice precum Manoir de l'Isle și impresionantul Manoir de Carel înconjurat de apă.\nDupă-amiaza, pedalați relaxat prin peisajul rural normand pentru a vizita biserici pitorești de sat precum Saint-Michel și Saint-Pierre.\nLăsați bicicleta să se odihnească și bucurați-vă de o coborâre rapidă pe pistele DevalKart pentru a încheia ziua într-un mod sportiv.",
-        "en": "Pedal into your day with a fascinating stop at the Graindorge cheese factory, where the scent of fresh Normandy dairy awakens the senses.\nYour midday cycling route weaves past historic treasures like the Manoir de l'Isle and the impressive, water-ringed Manoir de Carel.\nIn the afternoon, enjoy a relaxed ride through the lush countryside to visit picturesque village churches like Saint-Michel and Saint-Pierre.\nGive the bike a brief rest and enjoy a thrilling downhill ride on the DevalKart tracks to round off a brilliant active day."
+        "en": "Pedal into your day with a fascinating stop at the Graindorge cheese factory, where the scent of fresh Normandy dairy awakens the senses.\nYour midday cycling route weaves past historic treasures like the Manoir de l'Isle and the impressive, water-ringed Manoir de Carel.\nIn the afternoon, enjoy a relaxed ride through the lush countryside to visit picturesque village churches like Saint-Michel and Saint-Pierre.\nGive the bike a brief rest and enjoy a thrilling downhill ride on the DevalKart tracks to round off a brilliant active day.",
+        "fr": "Partez à vélo pour la journée en faisant un arrêt fascinant à la fromagerie Graindorge, où le parfum du lait normand frais éveille les sens. Votre itinéraire de midi serpente devant des trésors historiques comme le Manoir de l'Isle et l'impressionnant Manoir de Carel entouré d'eau. L'après‑midi, profitez d'une balade détendue à travers la campagne verdoyante pour visiter des églises de village pittoresques comme Saint-Michel et Saint-Pierre. Accordez une pause au vélo pour vivre une descente palpitante sur les pistes de DevalKart et conclure une brillante journée active."
       },
       "variants": {
         "rainy": {
@@ -460,7 +506,8 @@
             "de": "Die morgendliche Fahrt ist nass, tragen Sie eine gut sichtbare Regenjacke. Mittags werden die Straßen zu den Anwesen rutschig. Nachmittags bieten Kirchen einen trockenen Zufluchtsort. Putzen Sie abends Ihr Rad und essen Sie warm.",
             "hu": "A reggeli kerékpározás esős, viseljen jól látható esőkabátot. Délben a kastélyok felé az utak csúszósak. A délutáni záporok miatt a templomok nyújtanak száraz menedéket. Este törölje le saras bringáját, és egyen valami meleget.",
             "ro": "Ciclismul de dimineață este umed, purtați o jachetă impermeabilă vizibilă. La prânz, drumurile spre conace sunt alunecoase. După-amiaza cere un sanctuar uscat în biserici. Seara, curățați bicicleta și mâncați cald.",
-            "en": "Morning cycle starts wet, so wear a high-vis waterproof jacket. Midday brings slippery roads towards the estates—brake early and corner carefully. Afternoon rain requires a dry sanctuary inside the churches. Evening calls for a hot meal as you wipe down your muddy bike."
+            "en": "Morning cycle starts wet, so wear a high-vis waterproof jacket. Midday brings slippery roads towards the estates—brake early and corner carefully. Afternoon rain requires a dry sanctuary inside the churches. Evening calls for a hot meal as you wipe down your muddy bike.",
+            "fr": "Le matin du cycle commence sous la pluie : portez une veste imperméable haute visibilité. À midi, les routes deviennent glissantes vers les domaines : freinez tôt et prenez les virages avec prudence. L'après‑midi nécessite un refuge sec dans les églises. Le soir, prévoyez un repas chaud pendant que vous essuyez votre vélo boueux."
           },
           "stops": [
             {
@@ -468,13 +515,15 @@
                 "de": "Graindorge Käserei",
                 "hu": "Graindorge Sajtgyár",
                 "ro": "Fabrica de brânză Graindorge",
-                "en": "Graindorge Cheese Factory"
+                "en": "Graindorge Cheese Factory",
+                "fr": "Fromagerie Graindorge"
               },
               "tip_5lang": {
                 "de": "Schließen Sie das nasse Rad ab und genießen Sie das trockene Innere der Käserei; perfekt, um den morgendlichen Regen abzuwarten.",
                 "hu": "Zárja le vizes kerékpárját, és élvezze a sajtgyár száraz, meleg belsejét; tökéletes hely a reggeli záporok átvészelésére.",
                 "ro": "Legați bicicleta udă și bucurați-vă de interiorul uscat și cald al fabricii; perfect pentru a aștepta trecerea ploilor de dimineață.",
-                "en": "Lock your wet bike outside and enjoy the dry, warm interior of the cheese factory; a perfect spot to wait out the heavy morning showers."
+                "en": "Lock your wet bike outside and enjoy the dry, warm interior of the cheese factory; a perfect spot to wait out the heavy morning showers.",
+                "fr": "Accrochez votre vélo mouillé à l'extérieur et profitez de l'intérieur sec et chaleureux de la fromagerie ; un endroit parfait pour attendre la forte averse matinale."
               }
             },
             {
@@ -482,13 +531,15 @@
                 "de": "Manoir de l'Isle",
                 "hu": "Manoir de l'Isle",
                 "ro": "Manoir de l'Isle",
-                "en": "Manoir de l'Isle"
+                "en": "Manoir de l'Isle",
+                "fr": "Manoir de l'Isle"
               },
               "tip_5lang": {
                 "de": "Bremsen Sie auf dem nassen Kopfsteinpflaster sanft; betrachten Sie das Fachwerkhaus vom gepflasterten Weg aus, um Schlamm zu vermeiden.",
                 "hu": "Fékezzen óvatosan a nedves macskaköveken; nézze meg a favázas udvarházat a burkolt útról, hogy elkerülje a mély sarat.",
                 "ro": "Frânați ușor pe piatra cubică umedă; priviți conacul din lemn de pe aleea pavată pentru a evita noroiul adânc.",
-                "en": "Brake gently as you approach on wet cobblestones; view the half-timbered manor from the paved path to keep your tires out of deep mud."
+                "en": "Brake gently as you approach on wet cobblestones; view the half-timbered manor from the paved path to keep your tires out of deep mud.",
+                "fr": "Freinez doucement en approchant sur les pavés mouillés ; observez le manoir à colombages depuis le chemin pavé pour éviter d'enfouir vos pneus dans la boue."
               }
             },
             {
@@ -496,13 +547,15 @@
                 "de": "Manoir de Carel",
                 "hu": "Manoir de Carel",
                 "ro": "Manoir de Carel",
-                "en": "Manoir de Carel"
+                "en": "Manoir de Carel",
+                "fr": "Manoir de Carel"
               },
               "tip_5lang": {
                 "de": "Auf den Landstraßen bilden sich schnell Pfützen; lassen Sie die Schutzbleche dran und fahren Sie langsam beim Fotografieren.",
                 "hu": "A vidéki utakon gyorsan gyűlnek a tócsák; tartsa fenn a sárvédőket, és lassan tekerjen, hogy ne verje fel a vizet fotózáskor.",
                 "ro": "Drumurile rurale adună rapid bălți; păstrați apărătoarele de noroi și pedalați încet pentru a nu vă stropi când faceți poze.",
-                "en": "The rural roads here accumulate puddles quickly; keep your mudguards attached and cycle slowly to avoid spraying water as you take photos."
+                "en": "The rural roads here accumulate puddles quickly; keep your mudguards attached and cycle slowly to avoid spraying water as you take photos.",
+                "fr": "Les routes rurales ici forment rapidement des flaques ; gardez vos garde‑boue et roulez lentement pour éviter d'envoyer de l'eau en éclaboussant en prenant des photos."
               }
             },
             {
@@ -510,13 +563,15 @@
                 "de": "Église Saint-Michel",
                 "hu": "Église Saint-Michel",
                 "ro": "Église Saint-Michel",
-                "en": "Église Saint-Michel"
+                "en": "Église Saint-Michel",
+                "fr": "Église Saint-Michel"
               },
               "tip_5lang": {
                 "de": "Ein willkommener trockener Schutz vor dem Regen; wischen Sie den Sattel ab und lauschen Sie dem Regen auf dem Dach.",
                 "hu": "Szívesen látott száraz menedék az eső elől; törölje le a nyerget, mielőtt bemegy, és élvezze az eső hangját a tetőn.",
                 "ro": "Un adăpost uscat binevenit de ploaie; ștergeți șaua înainte de a intra și bucurați-vă de sunetul ploii pe acoperiș.",
-                "en": "A welcome dry shelter from the rain; wipe your bike seat before heading inside, and enjoy the quiet, atmospheric sound of rain on the roof."
+                "en": "A welcome dry shelter from the rain; wipe your bike seat before heading inside, and enjoy the quiet, atmospheric sound of rain on the roof.",
+                "fr": "Un abri sec bienvenu contre la pluie ; essuyez votre selle de vélo avant d'entrer et profitez du son atmosphérique de la pluie sur le toit."
               }
             },
             {
@@ -524,13 +579,15 @@
                 "de": "Église Saint-Pierre",
                 "hu": "Église Saint-Pierre",
                 "ro": "Église Saint-Pierre",
-                "en": "Église Saint-Pierre"
+                "en": "Église Saint-Pierre",
+                "fr": "Église Saint-Pierre"
               },
               "tip_5lang": {
                 "de": "Eine weitere Pause im Trockenen, um die Hände aufzuwärmen; fahren Sie im Zentrum vorsichtig über die rutschigen Straßenmarkierungen.",
                 "hu": "Újabb beltéri pihenő a kezek felmelegítésére; óvatosan kerékpározzon a központban, mert a festett útburkolati jelek csúsznak.",
                 "ro": "O altă pauză în interior pentru a vă încălzi mâinile; pedalați cu prudență în centru, unde marcajele rutiere devin alunecoase.",
-                "en": "Another indoor break to warm up your hands; cycle cautiously around the town center where painted road markings get extremely slick."
+                "en": "Another indoor break to warm up your hands; cycle cautiously around the town center where painted road markings get extremely slick.",
+                "fr": "Un autre arrêt intérieur pour réchauffer vos mains ; circulez prudemment dans le centre‑ville où le marquage au sol peint devient extrêmement glissant."
               }
             },
             {
@@ -538,13 +595,15 @@
                 "de": "DevalKart",
                 "hu": "DevalKart",
                 "ro": "DevalKart",
-                "en": "DevalKart"
+                "en": "DevalKart",
+                "fr": "DevalKart"
               },
               "tip_5lang": {
                 "de": "Das Kartfahren ist bei starkem Regen zu rutschig oder geschlossen; trinken Sie lieber eine heiße Schokolade in der Nähe.",
                 "hu": "A lejtős gokart túl csúszós vagy zárva van heves esőben; igyon egy forró csokit a közelben a veszélyesen saras lejtők helyett.",
                 "ro": "Kartingul la vale este prea alunecos sau închis pe ploaie abundentă; beți o ciocolată caldă în loc să riscați pe pantele noroioase.",
-                "en": "Downhill karting is likely too slippery or closed in heavy rain; grab a hot chocolate nearby instead of riding the dangerous muddy slopes."
+                "en": "Downhill karting is likely too slippery or closed in heavy rain; grab a hot chocolate nearby instead of riding the dangerous muddy slopes.",
+                "fr": "Le karting en descente est probablement trop glissant ou fermé en forte pluie ; prenez plutôt un chocolat chaud à proximité au lieu de risquer les pentes boueuses dangereuses."
               }
             }
           ]
@@ -554,7 +613,8 @@
             "de": "Beginnen Sie das Winterradeln in winddichten Schichten. Mittags weht eisiger Wind zu den Herrenhäusern. Nachmittags brauchen Sie gute Lichter, da es um 17 Uhr dunkel wird. Tauen Sie abends Ihre Finger bei einem Heißgetränk auf.",
             "hu": "Kezdje a téli kerékpározást szélálló rétegekben. Délben a kastélyok felé fagyos szél fúj, viseljen thermo kesztyűt. Délutánra működő lámpák kellenek, mert 17:00 körül sötétedik. Este egy forró itallal olvassza ki ujjait.",
             "ro": "Începeți ciclismul de iarnă în straturi rezistente la vânt. La prânz, vântul îngheață pe drumul spre conace. După-amiaza necesită lumini bune la bicicletă, deoarece se întunecă devreme la 17:00. Seara, dezghețați-vă degetele cu o băutură caldă.",
-            "en": "Start your winter cycling wrapped in windproof layers. Midday routes to the manors feature freezing winds—wear thermal gloves. Afternoon requires working bike lights as dusk falls early around 5 PM near the churches. Evening finishes with a hot drink to thaw your fingers."
+            "en": "Start your winter cycling wrapped in windproof layers. Midday routes to the manors feature freezing winds—wear thermal gloves. Afternoon requires working bike lights as dusk falls early around 5 PM near the churches. Evening finishes with a hot drink to thaw your fingers.",
+            "fr": "Commencez votre cyclisme hivernal emmitouflé dans des couches coupe‑vent. Les itinéraires de midi vers les manoirs sont soumis à des vents glacials : portez des gants thermiques. L'après‑midi nécessite des éclairages de vélo en état de marche car la nuit tombe tôt vers 17:00 près des églises. Terminez la soirée par une boisson chaude pour réchauffer vos doigts."
           },
           "stops": [
             {
@@ -562,13 +622,15 @@
                 "de": "Graindorge Käserei",
                 "hu": "Graindorge Sajtgyár",
                 "ro": "Fabrica de brânză Graindorge",
-                "en": "Graindorge Cheese Factory"
+                "en": "Graindorge Cheese Factory",
+                "fr": "Fromagerie Graindorge"
               },
               "tip_5lang": {
                 "de": "Wärmen Sie sich in der Fabrik auf; die Käseverkostung gibt Energie für die weitere kalte Fahrradroute.",
                 "hu": "Melegedjen fel a fűtött gyárban egy csípős reggeli tekerés után; a sajt kóstolása remek energia a hideg útra.",
                 "ro": "Încălziți-vă în această fabrică după o plimbare rece; degustarea de brânză este o modalitate excelentă de a lua energie.",
-                "en": "Warm up inside this heated factory after a chilly morning ride; enjoying the cheese tasting is a great way to fuel up for the cold route ahead."
+                "en": "Warm up inside this heated factory after a chilly morning ride; enjoying the cheese tasting is a great way to fuel up for the cold route ahead.",
+                "fr": "Réchauffez‑vous à l'intérieur de cette fromagerie chauffée après une matinée fraîche en vélo ; déguster le fromage est un excellent moyen de reprendre des forces pour la route froide à venir."
               }
             },
             {
@@ -576,13 +638,15 @@
                 "de": "Manoir de l'Isle",
                 "hu": "Manoir de l'Isle",
                 "ro": "Manoir de l'Isle",
-                "en": "Manoir de l'Isle"
+                "en": "Manoir de l'Isle",
+                "fr": "Manoir de l'Isle"
               },
               "tip_5lang": {
                 "de": "Die Winterlandschaft um das Herrenhaus ist kahl und schön; achten Sie am frühen Tag auf Glatteis auf den Zufahrtswegen.",
                 "hu": "Az udvarház körüli téli táj zord és gyönyörű; a nap elején ügyeljen a fekete jégfoltokra a bekötőutakon.",
                 "ro": "Peisajul de iarnă din jurul conacului este frumos și aspru; atenție la peticele de gheață neagră de pe drumurile de acces.",
-                "en": "The winter landscape around the manor is stark and beautiful; watch out for patches of black ice on the access roads early in the day."
+                "en": "The winter landscape around the manor is stark and beautiful; watch out for patches of black ice on the access roads early in the day.",
+                "fr": "Le paysage hivernal autour du manoir est austère et beau ; méfiez‑vous des plaques de verglas invisibles sur les voies d'accès tôt le matin."
               }
             },
             {
@@ -590,13 +654,15 @@
                 "de": "Manoir de Carel",
                 "hu": "Manoir de Carel",
                 "ro": "Manoir de Carel",
-                "en": "Manoir de Carel"
+                "en": "Manoir de Carel",
+                "fr": "Manoir de Carel"
               },
               "tip_5lang": {
                 "de": "Halten Sie Ihren Oberkörper warm gegen den eisigen Wind; ein schneller Fotostopp am gefrorenen Wassergraben, dann radeln Sie weiter.",
                 "hu": "Tartsa melegen a törzsét, mert a nyílt mezőkön jeges szél fúj; gyors fotó a fagyott vizesárokról, aztán haladjon tovább a vérkeringésért.",
                 "ro": "Mențineți-vă trunchiul cald, deoarece câmpurile deschise atrag vânturi de gheață; faceți rapid poze și pedalați pentru a vă încălzi.",
-                "en": "Keep your core warm as the open fields funnel icy winds; a quick stop to photograph the frosted moat before moving to keep the blood flowing."
+                "en": "Keep your core warm as the open fields funnel icy winds; a quick stop to photograph the frosted moat before moving to keep the blood flowing.",
+                "fr": "Gardez le torse au chaud car les champs ouverts canalisent des vents glacials ; faites un arrêt rapide pour photographier le fossé givré avant de repartir pour relancer la circulation sanguine."
               }
             },
             {
@@ -604,13 +670,15 @@
                 "de": "Église Saint-Michel",
                 "hu": "Église Saint-Michel",
                 "ro": "Église Saint-Michel",
-                "en": "Église Saint-Michel"
+                "en": "Église Saint-Michel",
+                "fr": "Église Saint-Michel"
               },
               "tip_5lang": {
                 "de": "Steigen Sie ab, um die kalten Beine zu strecken; drinnen ist es kühl, behalten Sie also Ihre Fahrradjacke an.",
                 "hu": "Szálljon le a kerékpárról, és nyújtsa ki hideg lábait a kőépületben; bent is hűvös van, hagyja magán a kabátot.",
                 "ro": "Coborâți de pe bicicletă pentru a vă întinde picioarele reci în clădirea de piatră; înăuntru este răcoare, păstrați jacheta pe voi.",
-                "en": "Step off your bike to stretch cold legs inside this stone building; the temperature inside is cool, so keep your cycling jacket on."
+                "en": "Step off your bike to stretch cold legs inside this stone building; the temperature inside is cool, so keep your cycling jacket on.",
+                "fr": "Descendez du vélo pour étirer vos jambes engourdies à l'intérieur de ce bâtiment en pierre ; la température y est fraîche, donc conservez votre veste de cyclisme."
               }
             },
             {
@@ -618,13 +686,15 @@
                 "de": "Église Saint-Pierre",
                 "hu": "Église Saint-Pierre",
                 "ro": "Église Saint-Pierre",
-                "en": "Église Saint-Pierre"
+                "en": "Église Saint-Pierre",
+                "fr": "Église Saint-Pierre"
               },
               "tip_5lang": {
                 "de": "Wenn das Winterlicht gegen 16 Uhr schwindet, schalten Sie die Lichter ein; die Silhouette der Kirche wirkt beeindruckend.",
                 "hu": "Ahogy a téli fény délután 4 körül halványul, kapcsolja fel a kerékpár lámpáit; a templom sziluettje lenyűgöző az alkonyati égen.",
                 "ro": "Pe măsură ce lumina iernii scade, aprindeți luminile bicicletei; silueta bisericii este izbitoare pe cerul amurgului.",
-                "en": "As the winter light begins to fade around 4 PM, turn on your bike lights; the church's silhouette looks striking against the twilight sky."
+                "en": "As the winter light begins to fade around 4 PM, turn on your bike lights; the church's silhouette looks striking against the twilight sky.",
+                "fr": "Alors que la lumière hivernale commence à faiblir vers 16:00, allumez vos feux de vélo ; la silhouette de l'église est saisissante contre le ciel du crépuscule."
               }
             },
             {
@@ -632,13 +702,15 @@
                 "de": "DevalKart",
                 "hu": "DevalKart",
                 "ro": "DevalKart",
-                "en": "DevalKart"
+                "en": "DevalKart",
+                "fr": "DevalKart"
               },
               "tip_5lang": {
                 "de": "Stellen Sie sicher, dass Ihre Lampen für den dunklen Heimweg geladen sind; ziehen Sie sich beim Kartfahren extrem warm an.",
                 "hu": "Gondoskodjon róla, hogy a lámpák feltöltve legyenek a sötét hazaúthoz; a szélsőséges hideg megkeményíti a pályát, öltözzön be, ha nyitva.",
                 "ro": "Asigurați-vă că bateriile sunt încărcate pentru drumul întunecat; frigul extrem face pistele rigide, așa că îmbrăcați-vă foarte gros.",
-                "en": "Ensure your dynamo or batteries are fully charged for the dark ride home; extreme cold makes the karting tracks stiff, so bundle up if open."
+                "en": "Ensure your dynamo or batteries are fully charged for the dark ride home; extreme cold makes the karting tracks stiff, so bundle up if open.",
+                "fr": "Assurez-vous que votre dynamo ou vos batteries sont entièrement chargées pour le trajet sombre du retour ; le froid extrême rigidifie les pistes de karting, donc emmitouflez-vous si l'installation est en plein air."
               }
             }
           ]
@@ -658,7 +730,8 @@
             "de": "Graindorge Käserei",
             "hu": "Graindorge Sajtgyár",
             "ro": "Fabrica de brânză Graindorge",
-            "en": "Graindorge Cheese Factory"
+            "en": "Graindorge Cheese Factory",
+            "fr": "Fromagerie Graindorge"
           },
           "coords": [
             0.152137,
@@ -673,7 +746,8 @@
             "de": "Entdecken Sie den faszinierenden Herstellungsprozess der berühmten Normandie-Käse durch eine verglaste Galerie, aber kommen Sie rechtzeitig vor dem Mittagessen, um die aktive Morgenproduktion in vollem Gange zu sehen.",
             "hu": "Fedezze fel Normandia híres sajtjainak készítési folyamatát egy üvegfalú galérián keresztül, de feltétlenül érkezzen ebéd előtt, hogy még láthassa az aktív reggeli termelést.",
             "ro": "Descoperiți procesul fascinant din spatele celebrelor brânzeturi normande printr-o galerie vitrată, dar sosiți înainte de prânz pentru a prinde liniile de producție active.",
-            "en": "Discover the fascinating process behind Normandy's famous PDO cheeses through a glass-walled gallery, but arrive before lunch to catch the active morning production lines."
+            "en": "Discover the fascinating process behind Normandy's famous PDO cheeses through a glass-walled gallery, but arrive before lunch to catch the active morning production lines.",
+            "fr": "Découvrez le fascinant processus derrière les célèbres fromages AOP de Normandie à travers une galerie vitrée, mais arrivez avant le déjeuner pour voir les lignes de production actives du matin."
           }
         },
         {
@@ -681,7 +755,8 @@
             "de": "Manoir de Carel",
             "hu": "Manoir de Carel",
             "ro": "Manoir de Carel",
-            "en": "Manoir de Carel"
+            "en": "Manoir de Carel",
+            "fr": "Manoir de Carel"
           },
           "coords": [
             0.146572,
@@ -696,7 +771,8 @@
             "de": "Bewundern Sie den markanten Kontrast aus Stein und Ziegel an diesem von einem Wassergraben umgebenen Schloss, beachten Sie jedoch, dass es in Privatbesitz ist und die beste Aussicht von der Begrenzungsmauer aus besteht.",
             "hu": "Csodálja meg a kő és tégla feltűnő kontrasztját ennél a várárokkal körülvett 18. századi kastélynál, de vegye figyelembe, hogy magántulajdonban van, így a legjobban az útról tekinthető meg.",
             "ro": "Admirați contrastul izbitor de piatră și cărămidă la acest castel din secolul al XVIII-lea înconjurat de un șanț, deși rețineți că este proprietate privată și vizionarea este optimă de pe drum.",
-            "en": "Admire the striking contrast of stone and brick at this 18th-century chateau surrounded by a moat, though be aware it is privately owned so viewing is best from the perimeter road."
+            "en": "Admire the striking contrast of stone and brick at this 18th-century chateau surrounded by a moat, though be aware it is privately owned so viewing is best from the perimeter road.",
+            "fr": "Admirez le contraste saisissant de la pierre et de la brique à ce château du XVIIIe siècle entouré d’un fossé, mais sachez qu’il est privé : la vue est meilleure depuis la route périphérique."
           }
         },
         {
@@ -704,7 +780,8 @@
             "de": "Église Saint-Michel",
             "hu": "Église Saint-Michel",
             "ro": "Église Saint-Michel",
-            "en": "Église Saint-Michel"
+            "en": "Église Saint-Michel",
+            "fr": "Église Saint-Michel"
           },
           "coords": [
             0.134321,
@@ -719,7 +796,8 @@
             "de": "Besuchen Sie diese malerische ländliche Kirche inmitten der üppigen Landschaft der Normandie, die ein ruhiges Fotomotiv bietet, wo Sie Ihr Auto direkt in der Nähe parken können.",
             "hu": "Látogasson el erre a festői vidéki templomra, amelyet Normandia buja vidéke vesz körül, és amely derűs fotózási lehetőséget kínál kényelmes parkolással.",
             "ro": "Vizitați această biserică rurală pitorească înconjurată de mediul rural luxuriant din Normandia, oferind o oportunitate foto senină cu parcare ușoară în apropiere.",
-            "en": "Visit this picturesque rural church surrounded by Normandy's lush countryside, offering a serene photo opportunity with the convenience of easy nearby parking."
+            "en": "Visit this picturesque rural church surrounded by Normandy's lush countryside, offering a serene photo opportunity with the convenience of easy nearby parking.",
+            "fr": "Visitez cette église rurale pittoresque entourée de la campagne luxuriante de Normandie, offrant une agréable opportunité photo avec la commodité d’un parking facile à proximité."
           }
         },
         {
@@ -727,7 +805,8 @@
             "de": "Église Saint-Pierre",
             "hu": "Église Saint-Pierre",
             "ro": "Église Saint-Pierre",
-            "en": "Église Saint-Pierre"
+            "en": "Église Saint-Pierre",
+            "fr": "Église Saint-Pierre"
           },
           "coords": [
             0.142889,
@@ -742,7 +821,8 @@
             "de": "Treten Sie in diese charmante Kirche ein, um ihre Buntglasfenster und die friedliche Atmosphäre zu schätzen, und achten Sie besonders auf die aufwendigen Holzschnitzereien in der Nähe des Altars.",
             "hu": "Lépjen be ebbe a bájos templomba, hogy megcsodálhassa az ólomüveg ablakokat és a békés légkört, figyelve az oltár melletti bonyolult és értékes fafaragásokra.",
             "ro": "Pășiți în această biserică fermecătoare pentru a-i aprecia vitraliile și atmosfera pașnică, fiind atenți la sculpturile complicate în lemn din apropierea altarului principal.",
-            "en": "Step into this charming church to appreciate its stained glass windows and peaceful atmosphere, keeping an eye out for the intricate wooden carvings near the main altar."
+            "en": "Step into this charming church to appreciate its stained glass windows and peaceful atmosphere, keeping an eye out for the intricate wooden carvings near the main altar.",
+            "fr": "Pénétrez dans cette charmante église pour apprécier ses vitraux et son atmosphère paisible, en gardant un œil sur les délicates sculptures sur bois près du maître-autel."
           }
         },
         {
@@ -750,7 +830,8 @@
             "de": "DevalKart",
             "hu": "DevalKart",
             "ro": "DevalKart",
-            "en": "DevalKart"
+            "en": "DevalKart",
+            "fr": "DevalKart"
           },
           "coords": [
             0.132065,
@@ -765,7 +846,8 @@
             "de": "Erleben Sie einen Adrenalinstoß, indem Sie auf unmotorisierten Karts die grasbewachsenen Hänge hinunterrasen, und bringen Sie bequeme geschlossene Schuhe für den sicheren Rücktransport mit dem Skilift mit.",
             "hu": "Tapasztalja meg az adrenalint, ahogy nem motorizált gokartokon száguld le a füves lejtőkön, és hozzon kényelmes, zárt cipőt a sílifttel való biztonságos visszatéréshez.",
             "ro": "Experimentați o descărcare de adrenalină concurând pe pantele cu iarbă pe karturi nemotorizate, aducând încălțăminte confortabilă și închisă pentru a naviga în siguranță la întoarcerea cu teleschiul.",
-            "en": "Experience an adrenaline rush by racing down the grassy slopes on non-motorized karts, bringing comfortable closed-toe shoes to safely navigate the uphill ski-lift return."
+            "en": "Experience an adrenaline rush by racing down the grassy slopes on non-motorized karts, bringing comfortable closed-toe shoes to safely navigate the uphill ski-lift return.",
+            "fr": "Vivez une montée d’adrénaline en dévalant les pentes herbeuses sur des karts sans moteur ; apportez des chaussures fermées et confortables pour remonter en toute sécurité avec le téléski."
           }
         },
         {
@@ -773,7 +855,8 @@
             "de": "Église Saint-Jacques-le-Majeur",
             "hu": "Église Saint-Jacques-le-Majeur",
             "ro": "Église Saint-Jacques-le-Majeur",
-            "en": "Église Saint-Jacques-le-Majeur"
+            "en": "Église Saint-Jacques-le-Majeur",
+            "fr": "Église Saint-Jacques-le-Majeur"
           },
           "coords": [
             0.140478,
@@ -788,7 +871,8 @@
             "de": "Erkunden Sie diese historisch bedeutsame Pfarrkirche mit ihrem traditionellen regionalen Glockenturm und überprüfen Sie das örtliche schwarze Brett auf gelegentliche sommerliche Choraufführungen.",
             "hu": "Fedezze fel ezt a történelmileg jelentős plébániatemplomot hagyományos regionális harangtornyával, és ellenőrizze a helyi hirdetőtáblát az alkalmi nyári kóruselőadások miatt.",
             "ro": "Explorați această biserică parohială semnificativă din punct de vedere istoric cu clopotnița sa regională tradițională, verificând panoul local pentru spectacole ocazionale ale corului de vară.",
-            "en": "Explore this historically significant parish church with its traditional regional bell tower, checking the local notice board for occasional summer choral performances."
+            "en": "Explore this historically significant parish church with its traditional regional bell tower, checking the local notice board for occasional summer choral performances.",
+            "fr": "Explorez cette paroisse historiquement significative avec son clocheton régional traditionnel, en consultant le panneau d’affichage local pour d’éventuelles prestations chorales estivales."
           }
         },
         {
@@ -796,7 +880,8 @@
             "de": "Saint-Ouen Church",
             "hu": "Saint-Ouen templom",
             "ro": "Biserica Saint-Ouen",
-            "en": "Saint-Ouen Church"
+            "en": "Saint-Ouen Church",
+            "fr": "Église Saint-Ouen"
           },
           "coords": [
             0.185,
@@ -811,7 +896,8 @@
             "de": "Beenden Sie Ihre Tour an diesem malerischen religiösen Denkmal etwas außerhalb des Dorfes, das das tiefe spirituelle Erbe von Livarot inmitten einer idyllischen Fahrt widerspiegelt.",
             "hu": "Fejezze be túráját ennél a falun kívül fekvő, festői vallási emlékműnél, amely a Livarot régió mély spirituális örökségét tükrözi egy idilli autózás közepette.",
             "ro": "Încheiați-vă turul la acest monument religios pitoresc situat în afara satului, reflectând moștenirea spirituală profundă a regiunii Livarot în mijlocul unei plimbări idilice.",
-            "en": "Conclude your driving tour at this quaint religious monument set slightly outside the village, reflecting the deep spiritual heritage of Livarot amidst an idyllic countryside setting."
+            "en": "Conclude your driving tour at this quaint religious monument set slightly outside the village, reflecting the deep spiritual heritage of Livarot amidst an idyllic countryside setting.",
+            "fr": "Concluez votre circuit en voiture à ce charmant monument religieux situé un peu à l’écart du village, reflétant le profond héritage spirituel de Livarot dans un cadre campagnard idyllique."
           }
         }
       ],
@@ -819,7 +905,8 @@
         "de": "Ein Roadtrip durch Livarot beginnt idealerweise mit den aromatischen Käsehallen von Graindorge, wo der Morgen dem Handwerk gewidmet ist.\nMit dem Auto erreichen Sie schnell historische Perlen wie das Manoir de Carel sowie charmante ländliche Kirchen wie Saint-Michel, die über das Umland verstreut sind.\nDer Nachmittag verbindet Spaß im DevalKart-Park mit spiritueller Besinnung in der Église Saint-Jacques-le-Majeur im Süden der Stadt.\nZum Abschluss fahren Sie hinaus zur idyllisch gelegenen Saint-Ouen Church, wo Sie den Tag in völliger normannischer Ruhe ausklingen lassen können.",
         "hu": "Egy livaroti autós utazás ideálisan a Graindorge sajtgyár aromás csarnokaiban kezdődik, ahol a délelőttöt a kézművességnek szentelik.\nAutóval gyorsan elérheti az olyan történelmi gyöngyszemeket, mint a Manoir de Carel, valamint a környéken szétszórt bájos vidéki templomokat.\nA délután a DevalKart parkban nyújtott szórakozást a város déli részén található Église Saint-Jacques-le-Majeur spirituális elmélyülésével ötvözi.\nVégül kocsikázzon ki az idillien elhelyezkedő Saint-Ouen templomhoz, ahol a napot teljes normann nyugalomban zárhatja.",
         "ro": "O excursie cu mașina prin Livarot începe ideal cu sălile aromate de brânză de la Graindorge, unde dimineața este dedicată meșteșugului.\nCu mașina, puteți ajunge rapid la perle istorice precum Manoir de Carel și biserici rurale fermecătoare precum Saint-Michel, împrăștiate în împrejurimi.\nDupă-amiaza combină distracția în parcul DevalKart cu contemplarea spirituală la Église Saint-Jacques-le-Majeur din sudul orașului.\nÎn cele din urmă, conduceți spre Biserica Saint-Ouen situată idilic, unde puteți încheia ziua într-o pace normandă completă.",
-        "en": "A road trip through Livarot ideally begins at the aromatic cheese halls of Graindorge, diving deep into the region's famous culinary craft.\nHaving a car allows quick hops to historic gems like the moated Manoir de Carel and scattered rural parishes like Église Saint-Michel.\nThe afternoon perfectly balances adrenaline at the DevalKart track with architectural appreciation at the beautifully constructed Église Saint-Jacques-le-Majeur.\nFinally, take a short scenic drive out to the idyllic Saint-Ouen Church, wrapping up your day in complete Norman tranquility."
+        "en": "A road trip through Livarot ideally begins at the aromatic cheese halls of Graindorge, diving deep into the region's famous culinary craft.\nHaving a car allows quick hops to historic gems like the moated Manoir de Carel and scattered rural parishes like Église Saint-Michel.\nThe afternoon perfectly balances adrenaline at the DevalKart track with architectural appreciation at the beautifully constructed Église Saint-Jacques-le-Majeur.\nFinally, take a short scenic drive out to the idyllic Saint-Ouen Church, wrapping up your day in complete Norman tranquility.",
+        "fr": "Un road-trip à travers Livarot commence idéalement aux halls aromatiques du fromage Graindorge, plongeant au cœur de l’art culinaire de la région. Avoir une voiture permet de courts sauts vers des trésors historiques comme le Manoir de Carel entouré d’un fossé et des paroisses rurales disséminées comme l’Église Saint-Michel. L’après-midi équilibre parfaitement adrénaline sur la piste DevalKart et appréciation architecturale à la belle Église Saint-Jacques-le-Majeur. Enfin, faites une courte promenade panoramique jusqu’à la paisible Église Saint-Ouen pour conclure votre journée dans une complète tranquillité normande."
       },
       "variants": {
         "rainy": {
@@ -827,7 +914,8 @@
             "de": "Eine regnerische Autofahrt ist ideal für Fabrikbesichtigungen. Mittags ist auf nassen Landstraßen zu den Herrenhäusern Vorsicht geboten. Nachmittags springen Sie einfach vom Auto trocken in die Kirchen. Abends erfordert der nasse Asphalt achtsames Fahren.",
             "hu": "Az esős reggeli autózás tökéletes a beltéri gyárlátogatásokhoz. Délben óvatos vezetés kell a kastélyokat összekötő nedves vidéki utakon. Délután a templomoknál gyorsan átszaladhat az autóból a menedékbe. Az esti vezetés óvatosságot igényel a csillogó aszfalton.",
             "ro": "O plimbare ploioasă matinală este perfectă pentru tururi interioare. La prânz, conduceți atent pe drumurile rurale umede. Bisericile de după-amiază oferă sărituri rapide din mașină la adăpost. Condusul de seară necesită prudență pe asfaltul umed și alunecos.",
-            "en": "A rainy morning drive is perfect for indoor factory tours. Midday requires careful driving on wet rural roads connecting the old manors. Afternoon church stops offer quick jumps from car to shelter without getting soaked. Evening driving demands caution with rain-slicked asphalt and reflections."
+            "en": "A rainy morning drive is perfect for indoor factory tours. Midday requires careful driving on wet rural roads connecting the old manors. Afternoon church stops offer quick jumps from car to shelter without getting soaked. Evening driving demands caution with rain-slicked asphalt and reflections.",
+            "fr": "Une matinée pluvieuse est parfaite pour les visites d’ateliers couverts. À midi, la conduite demande de la prudence sur les routes rurales mouillées reliant les vieux manoirs. Les haltes d’après-midi aux églises permettent de passer rapidement de la voiture à l’abri sans être trempé. Le soir, conduisez avec précaution sur l’asphalte glissant et les reflets."
           },
           "stops": [
             {
@@ -835,13 +923,15 @@
                 "de": "Graindorge Käserei",
                 "hu": "Graindorge Sajtgyár",
                 "ro": "Fabrica de brânză Graindorge",
-                "en": "Graindorge Cheese Factory"
+                "en": "Graindorge Cheese Factory",
+                "fr": "Fromagerie Graindorge"
               },
               "tip_5lang": {
                 "de": "Parken Sie direkt vor der Tür und treten Sie ins Trockene; die Käse-Tour ist ideal, um den morgendlichen Platzregen zu meiden.",
                 "hu": "Parkoljon közvetlenül kint, és lépjen be a száraz melegbe; a beltéri sajttúra ideális a heves reggeli záporok elkerülésére.",
                 "ro": "Parcați chiar afară și pășiți rapid în căldura uscată; turul brânzei în interior este ideal pentru a evita ploile abundente de dimineață.",
-                "en": "Park right outside and step quickly into the dry warmth; the indoor cheese tour is the ideal way to avoid the heaviest morning downpours."
+                "en": "Park right outside and step quickly into the dry warmth; the indoor cheese tour is the ideal way to avoid the heaviest morning downpours.",
+                "fr": "Garez-vous juste devant et entrez rapidement à l’abri et au chaud ; la visite intérieure de la fromagerie est idéale pour éviter les fortes averses matinales."
               }
             },
             {
@@ -849,13 +939,15 @@
                 "de": "Manoir de Carel",
                 "hu": "Manoir de Carel",
                 "ro": "Manoir de Carel",
-                "en": "Manoir de Carel"
+                "en": "Manoir de Carel",
+                "fr": "Manoir de Carel"
               },
               "tip_5lang": {
                 "de": "Kurbeln Sie das Fenster für einen trockenen Blick auf das Herrenhaus herunter; der grasbewachsene Parkplatz wird schnell schlammig.",
                 "hu": "Tekerje le az ablakot egy gyors, száraz pillantásért az udvarházra, ha nagyon esik; a füves parkoló nagyon saras lehet.",
                 "ro": "Lăsați geamul în jos pentru o vedere uscată a conacului dacă plouă prea tare; parcarea pe iarbă poate fi foarte noroioasă.",
-                "en": "Roll down your car window for a quick, dry view of the manor if the rain is too heavy; the grass parking area can get very muddy."
+                "en": "Roll down your car window for a quick, dry view of the manor if the rain is too heavy; the grass parking area can get very muddy.",
+                "fr": "Baissez la vitre pour une vue rapide et à l’abri du manoir si la pluie est trop forte ; l’aire herbeuse de stationnement peut devenir très boueuse."
               }
             },
             {
@@ -863,13 +955,15 @@
                 "de": "Église Saint-Michel",
                 "hu": "Église Saint-Michel",
                 "ro": "Église Saint-Michel",
-                "en": "Église Saint-Michel"
+                "en": "Église Saint-Michel",
+                "fr": "Église Saint-Michel"
               },
               "tip_5lang": {
                 "de": "Halten Sie einen Regenschirm im Auto bereit für den kurzen Sprint zur Kirche; drinnen ist die Akustik des Regens faszinierend.",
                 "hu": "Tartson esernyőt az autóban a templomajtóhoz való rövid sprinthez; bent a tetőn doboló eső akusztikája lenyűgöző.",
                 "ro": "Păstrați o umbrelă în mașină pentru un sprint scurt spre biserică; înăuntru, acustica ploii pe acoperiș este fascinantă.",
-                "en": "Keep an umbrella handy in the car for the short sprint to the church doors; inside, the acoustics of the rain hitting the roof are mesmerising."
+                "en": "Keep an umbrella handy in the car for the short sprint to the church doors; inside, the acoustics of the rain hitting the roof are mesmerising.",
+                "fr": "Gardez un parapluie dans la voiture pour le court sprint jusqu’aux portes de l’église ; à l’intérieur, l’acoustique de la pluie sur le toit est envoûtante."
               }
             },
             {
@@ -877,13 +971,15 @@
                 "de": "Église Saint-Pierre",
                 "hu": "Église Saint-Pierre",
                 "ro": "Église Saint-Pierre",
-                "en": "Église Saint-Pierre"
+                "en": "Église Saint-Pierre",
+                "fr": "Église Saint-Pierre"
               },
               "tip_5lang": {
                 "de": "Nutzen Sie befestigte Parkplätze, um Pfützen zu meiden; dieses steinerne Heiligtum bietet einen friedlichen Ausweg aus dem grauen Wetter.",
                 "hu": "Használja a burkolt utcai parkolót a saras tócsák elkerülésére; ez a hatalmas kőszentély békés, száraz menedék a szürke időben.",
                 "ro": "Folosiți parcarea pavată pentru a evita bălțile; înăuntru, acest sanctuar de piatră oferă o evadare pașnică și uscată.",
-                "en": "Use the paved street parking to avoid muddy puddles; inside, this vast stone sanctuary offers a peaceful, dry escape from the grey weather."
+                "en": "Use the paved street parking to avoid muddy puddles; inside, this vast stone sanctuary offers a peaceful, dry escape from the grey weather.",
+                "fr": "Utilisez le stationnement sur rue pavée pour éviter les flaques boueuses ; à l’intérieur, ce vaste sanctuaire de pierre offre un refuge paisible et sec par temps gris."
               }
             },
             {
@@ -891,13 +987,15 @@
                 "de": "DevalKart",
                 "hu": "DevalKart",
                 "ro": "DevalKart",
-                "en": "DevalKart"
+                "en": "DevalKart",
+                "fr": "DevalKart"
               },
               "tip_5lang": {
                 "de": "Prüfen Sie im Auto die Website, da die Bahn bei Regen oft schließt; fahren Sie stattdessen lieber zu einem Café.",
                 "hu": "Mielőtt kiszállna, ellenőrizze weblapjukat az autóból, mert a gokart esőben zárva lehet; fontolja meg, hogy inkább egy kávézóba vezet.",
                 "ro": "Verificați site-ul din mașină înainte de a ieși, deoarece karturile se închid pe ploaie; luați în considerare să conduceți la o cafenea.",
-                "en": "Check their website from your car before exiting, as outdoor go-karts often close during rain; consider driving to a nearby café instead."
+                "en": "Check their website from your car before exiting, as outdoor go-karts often close during rain; consider driving to a nearby café instead.",
+                "fr": "Consultez leur site depuis la voiture avant de sortir, car les karts extérieurs ferment souvent par pluie ; envisagez plutôt de vous rendre dans un café à proximité."
               }
             },
             {
@@ -905,13 +1003,15 @@
                 "de": "Église Saint-Jacques-le-Majeur",
                 "hu": "Église Saint-Jacques-le-Majeur",
                 "ro": "Église Saint-Jacques-le-Majeur",
-                "en": "Église Saint-Jacques-le-Majeur"
+                "en": "Église Saint-Jacques-le-Majeur",
+                "fr": "Église Saint-Jacques-le-Majeur"
               },
               "tip_5lang": {
                 "de": "Reduzieren Sie die Geschwindigkeit auf den nassen Straßen; genießen Sie das regengewaschene Äußere dieser historischen Stätte vom Auto aus.",
                 "hu": "A környező nedves utakon csökkentse a sebességet; élvezze a történelmi vallási helyszín eső áztatta külsejét a járművéből.",
                 "ro": "Navigarea pe drumurile umede necesită viteză redusă; bucurați-vă de exteriorul ploios al acestui sit istoric din mașina dvs.",
-                "en": "Navigating the surrounding wet roads requires lower speed; enjoy the moody, rain-washed exterior of this historic religious site from your vehicle."
+                "en": "Navigating the surrounding wet roads requires lower speed; enjoy the moody, rain-washed exterior of this historic religious site from your vehicle.",
+                "fr": "La navigation sur les routes mouillées alentour demande de réduire la vitesse ; profitez de l’extérieur lavé par la pluie de ce site religieux historique depuis votre véhicule."
               }
             },
             {
@@ -919,13 +1019,15 @@
                 "de": "Saint-Ouen Church",
                 "hu": "Saint-Ouen templom",
                 "ro": "Biserica Saint-Ouen",
-                "en": "Saint-Ouen Church"
+                "en": "Saint-Ouen Church",
+                "fr": "Église Saint-Ouen"
               },
               "tip_5lang": {
                 "de": "Das regnerische Tageslicht sorgt hier für eine dramatische Stimmung; achten Sie beim Aussteigen auf tiefe Pfützen am Parkplatz.",
                 "hu": "A halványuló esős nappali fény drámai alaphangot ad az utolsó megállónak; kiszálláskor ügyeljen a mély tócsákra a parkolóban.",
                 "ro": "Lumina ploioasă scurtă creează un ton dramatic; atenție la bălțile adânci din parcare când coborâți din mașină.",
-                "en": "The fading rainy daylight sets a dramatic tone for this final stop; watch out for deep puddles in the parking area when stepping out."
+                "en": "The fading rainy daylight sets a dramatic tone for this final stop; watch out for deep puddles in the parking area when stepping out.",
+                "fr": "La lumière pluvieuse déclinante crée une ambiance dramatique pour cette dernière halte ; faites attention aux flaques profondes sur le parking en sortant."
               }
             }
           ]
@@ -935,7 +1037,8 @@
             "de": "Beheizte Sitze machen die frühe Fahrt zur Käserei zur Freude. Mittags erfordern frostige Straßen Aufmerksamkeit, halten Sie die Scheiben eisfrei. Nachmittags ist Planung wichtig, da es um 17 Uhr dunkel wird. Abends können die Straßen vereisen.",
             "hu": "A fűtött ülések örömmé teszik a kora reggeli vezetést. Délben a deres udvarházaknál le kell kaparni a jeget a szélvédőről. A délutáni tervezés kritikus, mert 17:00-ra besötétedik, így a templomokat már szürkületben látja.",
             "ro": "Scaunele încălzite fac din condusul matinal o bucurie. La prânz, condusul pe lângă conacele acoperite de brumă necesită parbrizul curat. Planificarea de după-amiază este crucială, deoarece amurgul apare la ora 17, iar drumurile pot îngheța seara.",
-            "en": "Heated car seats make early morning driving a joy before touring the cheese factory. Midday drives past frost-covered manors require clearing ice from your windshield. Afternoon planning is crucial as dusk hits by 5 PM, meaning you'll see the churches in fading light. Evening roads might ice over."
+            "en": "Heated car seats make early morning driving a joy before touring the cheese factory. Midday drives past frost-covered manors require clearing ice from your windshield. Afternoon planning is crucial as dusk hits by 5 PM, meaning you'll see the churches in fading light. Evening roads might ice over.",
+            "fr": "Les sièges chauffants de la voiture rendent la conduite matinale agréable avant la visite de la fromagerie. À midi, les trajets devant des manoirs givrés nécessitent de déglacer votre pare-brise. L’après-midi demande une planification car le crépuscule arrive vers 17 h, ce qui fait voir les églises dans une lumière déclinante. Le soir, les routes peuvent geler."
           },
           "stops": [
             {
@@ -943,13 +1046,15 @@
                 "de": "Graindorge Käserei",
                 "hu": "Graindorge Sajtgyár",
                 "ro": "Fabrica de brânză Graindorge",
-                "en": "Graindorge Cheese Factory"
+                "en": "Graindorge Cheese Factory",
+                "fr": "Fromagerie Graindorge"
               },
               "tip_5lang": {
                 "de": "Lassen Sie die dicke Jacke im Kofferraum, während Sie die warme Fabrik besichtigen; ein perfekter Start in den frostigen Tag.",
                 "hu": "Hagyja a vastag kabátot a csomagtartóban a meleg, klimatizált gyárban; tökéletes, hangulatos kezdés, mielőtt dacolna a téli hideggel.",
                 "ro": "Lăsați haina groasă în portbagaj în interiorul fabricii calde; un început perfect și confortabil înainte de a înfrunta frigul de afară.",
-                "en": "Keep your heavy coat in the trunk while inside the warm, climate-controlled factory; a perfect, cozy start before braving the winter chill outside."
+                "en": "Keep your heavy coat in the trunk while inside the warm, climate-controlled factory; a perfect, cozy start before braving the winter chill outside.",
+                "fr": "Laissez votre manteau lourd dans le coffre pendant que vous êtes à l’intérieur de l’usine chauffée et climatisée ; un début parfait et douillet avant d’affronter le froid hivernal extérieur."
               }
             },
             {
@@ -957,13 +1062,15 @@
                 "de": "Manoir de Carel",
                 "hu": "Manoir de Carel",
                 "ro": "Manoir de Carel",
-                "en": "Manoir de Carel"
+                "en": "Manoir de Carel",
+                "fr": "Manoir de Carel"
               },
               "tip_5lang": {
                 "de": "Die Autoheizung ist ein Segen nach dem Fotografieren des eisigen Wassergrabens; fahren Sie vorsichtig ran, die Seitenstreifen können gefroren sein.",
                 "hu": "Az autó fűtése áldás a jeges vizesárok fotózása után; óvatosan húzódjon le, mert a vidéki útpadkák veszélyesen fagyosak lehetnek.",
                 "ro": "Încălzirea mașinii este o binecuvântare după pozele cu șanțul înghețat; trageți cu atenție pe dreapta, marginile drumului pot fi înghețate.",
-                "en": "The car's heater is a blessing after snapping photos of the icy moat; be careful pulling off the road as the rural verges can be dangerously frozen."
+                "en": "The car's heater is a blessing after snapping photos of the icy moat; be careful pulling off the road as the rural verges can be dangerously frozen.",
+                "fr": "Le chauffage de la voiture est une bénédiction après avoir pris des photos du fossé gelé ; soyez prudent en vous rabattant sur la route car les accotements ruraux peuvent être dangereusement verglacés."
               }
             },
             {
@@ -971,13 +1078,15 @@
                 "de": "Église Saint-Michel",
                 "hu": "Église Saint-Michel",
                 "ro": "Église Saint-Michel",
-                "en": "Église Saint-Michel"
+                "en": "Église Saint-Michel",
+                "fr": "Église Saint-Michel"
               },
               "tip_5lang": {
                 "de": "Genießen Sie die winterliche Fahrt zur Kirche; tragen Sie eine warme Mütze für den kurzen Weg vom Parkplatz, da der Wind eisig ist.",
                 "hu": "Élvezze a festői, fagyos autózást a templomig; viseljen meleg sapkát a parkolótól, mert itt erős a fagyos szél.",
                 "ro": "Bucurați-vă de drumul înghețat până la biserică; purtați o căciulă caldă pentru scurta plimbare de la parcare, vântul este rece.",
-                "en": "Enjoy the scenic, frost-bitten drive up to the church; wear a warm hat for the short walk from the parking lot, as the wind chill is strong here."
+                "en": "Enjoy the scenic, frost-bitten drive up to the church; wear a warm hat for the short walk from the parking lot, as the wind chill is strong here.",
+                "fr": "Profitez de la route pittoresque et givrante jusqu’à l’église ; portez un bonnet chaud pour la courte marche depuis le parking, car le refroidissement éolien est marqué ici."
               }
             },
             {
@@ -985,13 +1094,15 @@
                 "de": "Église Saint-Pierre",
                 "hu": "Église Saint-Pierre",
                 "ro": "Église Saint-Pierre",
-                "en": "Église Saint-Pierre"
+                "en": "Église Saint-Pierre",
+                "fr": "Église Saint-Pierre"
               },
               "tip_5lang": {
                 "de": "Gegen 17 Uhr beginnt der Sonnenuntergang; ziehen Sie sich warm an, um das unbeheizte Innere dieser Steinkirche zu erkunden.",
                 "hu": "Mivel 17:00 körül közeledik a naplemente, öltözzön fel melegen a fűtetlen belső tér felfedezéséhez.",
                 "ro": "Cu apusul apropiindu-se de ora 17, îmbrăcați-vă gros pentru a explora interiorul neîncălzit al acestei biserici de piatră.",
-                "en": "With sunset approaching around 5 PM, the warm glow of the dashboard contrasts with the cold stone exterior; dress warmly to explore the unheated interior."
+                "en": "With sunset approaching around 5 PM, the warm glow of the dashboard contrasts with the cold stone exterior; dress warmly to explore the unheated interior.",
+                "fr": "Avec le coucher du soleil vers 17 h, la lueur chaude du tableau de bord contraste avec l’extérieur de pierre froide ; habillez-vous chaudement pour explorer l’intérieur non chauffé."
               }
             },
             {
@@ -999,13 +1110,15 @@
                 "de": "DevalKart",
                 "hu": "DevalKart",
                 "ro": "DevalKart",
-                "en": "DevalKart"
+                "en": "DevalKart",
+                "fr": "DevalKart"
               },
               "tip_5lang": {
                 "de": "Die unbefestigten Strecken frieren steinhart zu; tragen Sie dicke Schichten, oder bleiben Sie im warmen Auto und genießen Sie die Sicht.",
                 "hu": "A földutak kőkeménnyé fagynak; ha nyitva van, viseljen vastag thermo rétegeket, különben maradjon a fűtött autóban.",
                 "ro": "Pistele de pământ îngheață bocnă; dacă sunt deschise, purtați straturi groase, altfel, rămâneți în mașina încălzită.",
-                "en": "The dirt tracks get rock-hard in freezing temperatures; if open, wear thick thermal layers, otherwise, stay in the heated car and enjoy the landscape."
+                "en": "The dirt tracks get rock-hard in freezing temperatures; if open, wear thick thermal layers, otherwise, stay in the heated car and enjoy the landscape.",
+                "fr": "Les pistes d’herbe deviennent dures comme de la pierre en cas de gel ; si l’installation est ouverte, portez des couches thermiques épaisses, sinon restez dans la voiture chauffée et profitez du paysage."
               }
             },
             {
@@ -1013,13 +1126,15 @@
                 "de": "Église Saint-Jacques-le-Majeur",
                 "hu": "Église Saint-Jacques-le-Majeur",
                 "ro": "Église Saint-Jacques-le-Majeur",
-                "en": "Église Saint-Jacques-le-Majeur"
+                "en": "Église Saint-Jacques-le-Majeur",
+                "fr": "Église Saint-Jacques-le-Majeur"
               },
               "tip_5lang": {
                 "de": "Die frühe Dämmerung verleiht der Kirche eine mysteriöse Aura; stellen Sie sicher, dass Ihre Scheinwerfer für die Rückfahrt salzfrei sind.",
                 "hu": "A korai alkonyat titokzatos téli aurát ad a templomnak; a visszaútra gondoskodjon a fényszórók sómentes tisztításáról.",
                 "ro": "Amurgul devreme oferă acestei biserici o aură de iarnă misterioasă; asigurați-vă că farurile mașinii sunt curățate de sare.",
-                "en": "The early twilight gives this church a mysterious winter aura; ensure your car's headlights are wiped clean of road salt for the drive back."
+                "en": "The early twilight gives this church a mysterious winter aura; ensure your car's headlights are wiped clean of road salt for the drive back.",
+                "fr": "Le crépuscule matinal confère à cette église une aura hivernale mystérieuse ; assurez-vous que vos phares sont nettoyés du sel de la route pour le retour."
               }
             },
             {
@@ -1027,13 +1142,15 @@
                 "de": "Saint-Ouen Church",
                 "hu": "Saint-Ouen templom",
                 "ro": "Biserica Saint-Ouen",
-                "en": "Saint-Ouen Church"
+                "en": "Saint-Ouen Church",
+                "fr": "Église Saint-Ouen"
               },
               "tip_5lang": {
                 "de": "Nach Einbruch der Dunkelheit sehen Sie das beleuchtete Äußere; hüten Sie sich vor Glatteis auf den Dorfstraßen am Abend.",
                 "hu": "Sötétedés után többnyire a kivilágított külsejét látja; vigyázzon a fekete jégre a falusi utakon, ahogy az esti hőmérséklet zuhan.",
                 "ro": "După lăsarea întunericului veți vedea exteriorul iluminat; fiți precauți la gheața neagră care se formează pe drumurile satului seara.",
-                "en": "Visiting after dark means you'll mostly see the floodlit exterior; be cautious of black ice forming on the village roads as the evening temperatures plummet."
+                "en": "Visiting after dark means you'll mostly see the floodlit exterior; be cautious of black ice forming on the village roads as the evening temperatures plummet.",
+                "fr": "Visiter après la nuit signifie voir surtout l’extérieur éclairé ; méfiez-vous du verglas sur les routes villageoises alors que les températures chutent le soir."
               }
             }
           ]

@@ -21,7 +21,8 @@
             "de": "Kapelle Saint-Roch",
             "hu": "Saint-Roch kápolna",
             "ro": "Capela Saint-Roch",
-            "en": "Saint-Roch Chapel"
+            "en": "Saint-Roch Chapel",
+            "fr": "Chapelle Saint‑Roch"
           },
           "coords": [
             6.070458,
@@ -36,7 +37,8 @@
             "de": "Bewundern Sie die reizvolle Architektur dieser historischen Kapelle, die dem Heiligen Rochus gewidmet ist, und genießen Sie hier einen Moment der Stille.",
             "hu": "Csodálja meg a Szent Rókusnak szentelt kápolna bájos építészetét, amely békés menedéket nyújt a sétálók számára egy csendes reggeli pihenéshez.",
             "ro": "Admirați arhitectura fermecătoare a acestei capele istorice închinate Sfântului Rochus, un loc perfect pentru a vă bucura de un moment de liniște dimineața.",
-            "en": "Admire the charming architecture of this historic chapel dedicated to Saint Roch, a serene spot where you can pause for a quiet moment during your walk."
+            "en": "Admire the charming architecture of this historic chapel dedicated to Saint Roch, a serene spot where you can pause for a quiet moment during your walk.",
+            "fr": "Admirez l’architecture charmante de cette chapelle historique dédiée à saint Roch, un lieu serein où vous pouvez faire une pause tranquille pendant votre promenade."
           }
         },
         {
@@ -44,7 +46,8 @@
             "de": "Kirche Saint-Martin",
             "hu": "Saint-Martin templom",
             "ro": "Biserica Saint-Martin",
-            "en": "Saint-Martin Church"
+            "en": "Saint-Martin Church",
+            "fr": "Église Saint‑Martin"
           },
           "coords": [
             6.079034,
@@ -59,7 +62,8 @@
             "de": "Erkunden Sie diese beeindruckende Kirche mit ihren bemerkenswerten Buntglasfenstern und prüfen Sie am Eingang die Aushänge auf mögliche Chorauftritte.",
             "hu": "Fedezze fel ezt a lenyűgöző templomot és csodálatos ólomüveg ablakait, de előtte érdemes ellenőrizni a helyi kórusfellépések és események időpontjait is.",
             "ro": "Explorați această biserică uimitoare cu vitralii remarcabile și verificați programul local pentru a prinde un eventual concert de cor în timpul vizitei.",
-            "en": "Explore this stunning religious site featuring remarkable stained glass windows, and be sure to check the local schedule for any upcoming choir performances."
+            "en": "Explore this stunning religious site featuring remarkable stained glass windows, and be sure to check the local schedule for any upcoming choir performances.",
+            "fr": "Explorez ce site religieux remarquable doté de vitraux impressionnants, et vérifiez le programme local pour d’éventuels concerts de chœur."
           }
         },
         {
@@ -67,7 +71,8 @@
             "de": "Römisches Aquädukt Gorze-Metz",
             "hu": "Gorze-Metz római vízvezeték",
             "ro": "Apeductul roman Gorze-Metz",
-            "en": "Gorze-Metz Roman Aqueduct"
+            "en": "Gorze-Metz Roman Aqueduct",
+            "fr": "Aqueduc romain de Gorze‑Metz"
           },
           "coords": [
             6.070107,
@@ -82,7 +87,8 @@
             "de": "Bestaunen Sie die Überreste dieser antiken römischen Ingenieurskunst im Tal und bringen Sie Ihre Kamera mit, um die majestätischen Steinbögen festzuhalten.",
             "hu": "Ámuljon el az ősi római mérnöki munka völgyön átívelő maradványain, és mindenképpen hozzon fényképezőgépet a fenséges kőívek lenyűgöző megörökítéséhez.",
             "ro": "Minunați-vă de rămășițele acestei capodopere inginerești romane care traversează valea și nu uitați aparatul foto pentru a surprinde arcadele maiestuoase.",
-            "en": "Marvel at the monumental remains of this ancient Roman engineering feat spanning the valley, bringing your camera to capture the majestic stone arches."
+            "en": "Marvel at the monumental remains of this ancient Roman engineering feat spanning the valley, bringing your camera to capture the majestic stone arches.",
+            "fr": "Admirez les vestiges monumentaux de cet ouvrage d’ingénierie romaine s’étendant sur la vallée ; prenez votre appareil pour capturer les arches de pierre majestueuses."
           }
         },
         {
@@ -90,7 +96,8 @@
             "de": "Kirche Saint-André",
             "hu": "Saint-André templom",
             "ro": "Biserica Saint-André",
-            "en": "Saint-André Church"
+            "en": "Saint-André Church",
+            "fr": "Église Saint‑André"
           },
           "coords": [
             6.07516,
@@ -105,7 +112,8 @@
             "de": "Entdecken Sie das reiche Erbe dieser einladenden Pfarrkirche, die für ihre friedliche Atmosphäre bekannt ist – ideal für eine kurze, besinnliche Pause.",
             "hu": "Ismerje meg ennek a barátságos plébániatemplomnak a gazdag örökségét és békés hangulatát, amely tökéletes egy rövid elmélkedéshez a kulturális túrán.",
             "ro": "Descoperiți moștenirea bogată a acestei biserici parohiale primitoare, renumită pentru ambianța sa pașnică, perfectă pentru o scurtă pauză de reflecție.",
-            "en": "Discover the rich heritage of this welcoming parish church known for its peaceful ambiance, perfect for a short reflective pause on your cultural tour."
+            "en": "Discover the rich heritage of this welcoming parish church known for its peaceful ambiance, perfect for a short reflective pause on your cultural tour.",
+            "fr": "Découvrez le riche patrimoine de cette paroisse accueillante connue pour son ambiance paisible, parfaite pour une courte pause réfléchie lors de votre visite culturelle."
           }
         },
         {
@@ -113,7 +121,8 @@
             "de": "Park Espace Marie et Mathias",
             "hu": "Espace Marie et Mathias park",
             "ro": "Parcul Espace Marie et Mathias",
-            "en": "Espace Marie et Mathias Park"
+            "en": "Espace Marie et Mathias Park",
+            "fr": "Parc Espace Marie et Mathias"
           },
           "coords": [
             6.06177,
@@ -128,7 +137,8 @@
             "de": "Entspannen Sie in diesem wunderschön angelegten Park der Erinnerung und des Friedens und bringen Sie ein Picknick mit, um die gepflegten Wege zu genießen.",
             "hu": "Pihenjen meg ebben a gyönyörűen parkosított, emlékezésnek és békének szentelt parkban, ahová érdemes piknikkosarat hozni a zöldellő környezet élvezetéhez.",
             "ro": "Relaxați-vă în acest parc frumos amenajat dedicat memoriei și păcii, aducând un mic coș de picnic pentru a vă bucura pe deplin de verdeața luxuriantă.",
-            "en": "Relax in this beautifully landscaped park dedicated to memory and peace, bringing a small picnic to enjoy the lush greenery and well-maintained pathways."
+            "en": "Relax in this beautifully landscaped park dedicated to memory and peace, bringing a small picnic to enjoy the lush greenery and well-maintained pathways.",
+            "fr": "Détendez‑vous dans ce parc paysager dédié à la mémoire et à la paix ; apportez un petit pique‑nique pour profiter de la verdure soignée et des allées bien entretenues."
           }
         }
       ],
@@ -136,7 +146,8 @@
         "de": "Beginnen Sie den Morgen ruhig an der Chapelle Saint-Roch. Mittags lockt die Église Saint-Martin, gefolgt vom imposanten römischen Aquädukt. Am Nachmittag entdecken Sie das Erbe der Église Saint-André. Lassen Sie den Tag mit einem entspannten Nachmittagsspaziergang im Espace Marie et Mathias friedlich ausklingen.",
         "hu": "Kezdje a reggelt a bájos Chapelle Saint-Roch csendes meglátogatásával. Délben a Saint-Martin templom, majd a lenyűgöző római vízvezeték következik. Délután fedezze fel az Église Saint-André történelmi falait. A napot az Espace Marie et Mathias park békés, délutáni sétájával érdemes lezárni.",
         "ro": "Începeți dimineața cu o vizită liniștită la Chapelle Saint-Roch. La prânz, admirați vitraliile Bisericii Saint-Martin, urmate de impresionantul apeduct roman. După-amiaza este dedicată Bisericii Saint-André. Încheiați ziua cu o plimbare relaxantă în liniștitul Espace Marie et Mathias.",
-        "en": "Start your morning with a quiet visit to the charming Chapelle Saint-Roch, setting a serene tone. Midday reveals the impressive stained glass of Saint-Martin Church, followed by the towering Gorze-Metz Roman Aqueduct. Spend the afternoon exploring the historic Église Saint-André nearby. Conclude your day with a relaxing stroll and a late picnic in the peaceful Espace Marie et Mathias."
+        "en": "Start your morning with a quiet visit to the charming Chapelle Saint-Roch, setting a serene tone. Midday reveals the impressive stained glass of Saint-Martin Church, followed by the towering Gorze-Metz Roman Aqueduct. Spend the afternoon exploring the historic Église Saint-André nearby. Conclude your day with a relaxing stroll and a late picnic in the peaceful Espace Marie et Mathias.",
+        "fr": "Commencez la matinée par une visite tranquille de la charmante chapelle Saint‑Roch pour instaurer un ton serein. À midi, découvrez les vitraux impressionnants de l’église Saint‑Martin, puis admirez l’imposant aqueduc romain de Gorze‑Metz. Passez l’après‑midi à explorer l’église Saint‑André toute proche. Concluez la journée par une promenade relaxante et un pique‑nique tardif dans l’Espace Marie et Mathias."
       },
       "variants": {
         "rainy": {
@@ -144,7 +155,8 @@
             "de": "Beginnen Sie den Tag unter dem schützenden Dach der Kapelle. Mittags bieten die Kirchen trockene Zuflucht vor dem Regen. Nachmittags ist am Aquädukt wegen rutschiger Steine Vorsicht geboten. Der Abend im Park ist kurz, da der Regen zunimmt; wasserfeste Schuhe sind hier ein Muss für den schlammigen Untergrund.",
             "hu": "Kezdje a reggelt a kápolna védelmező fedele alatt. Délben a templomok belső terei nyújtanak száraz menedéket a csapadék elől. Délután a vízvezeték köveinél vigyázzon a csúszós felületekre. Az esti sétaterv a parkban lerövidül az eső miatt; a sár ellen mindenképpen viseljen vízhatlan, masszív lábbelit.",
             "ro": "Începeți ziua sub acoperișul protector al capelei. La prânz, interiorul bisericilor oferă un refugiu uscat împotriva ploii. După-amiaza, aveți grijă la pietrele alunecoase de lângă apeduct. Seara în parc va fi scurtă din cauza precipitațiilor; purtați neapărat încălțăminte impermeabilă pentru terenul noroios.",
-            "en": "Start your day under the protective roof of the chapel. At noon, the church interiors provide dry sanctuary from the rain. In the afternoon, be careful of slippery surfaces near the aqueduct. The evening walk in the park will be brief as rain intensifies; waterproof footwear is essential for the muddy ground."
+            "en": "Start your day under the protective roof of the chapel. At noon, the church interiors provide dry sanctuary from the rain. In the afternoon, be careful of slippery surfaces near the aqueduct. The evening walk in the park will be brief as rain intensifies; waterproof footwear is essential for the muddy ground.",
+            "fr": "Commencez la journée sous le toit protecteur de la chapelle. À midi, l’intérieur de l’église offre un refuge sec contre la pluie. L’après‑midi, faites attention aux surfaces glissantes près de l’aqueduc. La promenade du soir dans le parc sera brève à mesure que la pluie s’intensifie ; des chaussures imperméables sont essentielles pour le sol boueux."
           },
           "stops": [
             {
@@ -152,13 +164,15 @@
                 "de": "Kapelle Saint-Roch",
                 "hu": "Saint-Roch kápolna",
                 "ro": "Capela Saint-Roch",
-                "en": "Saint-Roch Chapel"
+                "en": "Saint-Roch Chapel",
+                "fr": "Chapelle Saint‑Roch"
               },
               "tip_5lang": {
                 "de": "Bewundern Sie die Architektur vom Eingang aus, um trocken zu bleiben, und nutzen Sie den Moment für Fotos bei dramatischem Regenlicht.",
                 "hu": "Csodálja meg az építészetet a bejárat felől, hogy száraz maradjon, és használja ki a pillanatot a drámai esőfényben készült fotókhoz.",
                 "ro": "Admirați arhitectura de la intrare pentru a rămâne uscat și profitați de moment pentru fotografii în lumina dramatică a ploii.",
-                "en": "Admire the architecture from the entrance to stay dry and take advantage of the moment for photos in the dramatic rainy light."
+                "en": "Admire the architecture from the entrance to stay dry and take advantage of the moment for photos in the dramatic rainy light.",
+                "fr": "Admirez l’architecture depuis l’entrée pour rester au sec et profitez du moment pour des photos dans la lumière dramatique de pluie."
               }
             },
             {
@@ -166,13 +180,15 @@
                 "de": "Kirche Saint-Martin",
                 "hu": "Saint-Martin templom",
                 "ro": "Biserica Saint-Martin",
-                "en": "Saint-Martin Church"
+                "en": "Saint-Martin Church",
+                "fr": "Église Saint‑Martin"
               },
               "tip_5lang": {
                 "de": "Nutzen Sie das Kirchenschiff als ruhigen Unterstand vor dem Guss und lassen Sie die Stille auf sich wirken, während es draußen regnet.",
                 "hu": "Használja a templomhajót csendes menedékként a zápor elől, és élvezze a belső nyugalmat, miközben odakint dobol az eső a tetőn.",
                 "ro": "Folosiți nava bisericii ca adăpost liniștit împotriva aversei și bucurați-vă de liniștea interioară în timp ce afară plouă torențial.",
-                "en": "Use the church nave as a quiet shelter from the downpour and enjoy the interior peace while it rains heavily outside."
+                "en": "Use the church nave as a quiet shelter from the downpour and enjoy the interior peace while it rains heavily outside.",
+                "fr": "Utilisez la nef de l’église comme abri silencieux lors de l’averse et profitez de la paix intérieure pendant qu’il pleut dehors."
               }
             },
             {
@@ -180,13 +196,15 @@
                 "de": "Römisches Aquädukt Gorze-Metz",
                 "hu": "Gorze-Metz római vízvezeték",
                 "ro": "Apeductul roman Gorze-Metz",
-                "en": "Gorze-Metz Roman Aqueduct"
+                "en": "Gorze-Metz Roman Aqueduct",
+                "fr": "Aqueduc romain de Gorze‑Metz"
               },
               "tip_5lang": {
                 "de": "Die antiken Steine glänzen im Regen wunderschön, aber achten Sie auf den unebenen Pfad, der bei Nässe sehr rutschig werden kann.",
                 "hu": "Az ősi kövek gyönyörűen csillognak az esőben, de ügyeljen az egyenetlen ösvényre, amely nedvesen rendkívül csúszóssá válhat.",
                 "ro": "Pietrele antice strălucesc frumos în ploaie, dar aveți grijă la poteca denivelată care poate deveni foarte alunecoasă când este udă.",
-                "en": "The ancient stones shine beautifully in the rain, but watch out for the uneven path which can become very slippery when wet."
+                "en": "The ancient stones shine beautifully in the rain, but watch out for the uneven path which can become very slippery when wet.",
+                "fr": "Les pierres anciennes brillent magnifiquement sous la pluie, mais attention au chemin irrégulier qui peut devenir très glissant lorsqu’il est mouillé."
               }
             },
             {
@@ -194,13 +212,15 @@
                 "de": "Kirche Saint-André",
                 "hu": "Saint-André templom",
                 "ro": "Biserica Saint-André",
-                "en": "Saint-André Church"
+                "en": "Saint-André Church",
+                "fr": "Église Saint‑André"
               },
               "tip_5lang": {
                 "de": "Suchen Sie hier Schutz vor dem Nachmittagsregen und betrachten Sie die Glasfenster, die bei grauem Wetter besonders kräftig leuchten.",
                 "hu": "Itt keressen oltalmat a délutáni eső elől, és figyelje meg az üvegablakokat, amelyek szürke időben különösen élénken ragyognak.",
                 "ro": "Căutați adăpost aici de ploaia de după-amiază și observați vitraliile care strălucesc deosebit de intens pe vreme gri.",
-                "en": "Seek shelter here from the afternoon rain and observe the stained glass windows that glow particularly vividly in gray weather."
+                "en": "Seek shelter here from the afternoon rain and observe the stained glass windows that glow particularly vividly in gray weather.",
+                "fr": "Refugez‑vous ici de la pluie de l’après‑midi et observez les vitraux qui s’illuminent particulièrement bien par temps gris."
               }
             },
             {
@@ -208,13 +228,15 @@
                 "de": "Park Espace Marie et Mathias",
                 "hu": "Espace Marie et Mathias park",
                 "ro": "Parcul Espace Marie et Mathias",
-                "en": "Espace Marie et Mathias Park"
+                "en": "Espace Marie et Mathias Park",
+                "fr": "Parc Espace Marie et Mathias"
               },
               "tip_5lang": {
                 "de": "Wählen Sie die befestigten Wege am Parkrand, um tiefe Pfützen zu vermeiden, und genießen Sie den frischen Duft der nassen Natur.",
                 "hu": "Válassza a park szélén lévő szilárd burkolatú utakat a mély tócsák elkerülésére, és élvezze a vizes természet friss illatát.",
                 "ro": "Alegeți potecile pavate de la marginea parcului pentru a evita bălțile adânci și bucurați-vă de mirosul proaspăt al naturii ude.",
-                "en": "Choose the paved paths at the edge of the park to avoid deep puddles and enjoy the fresh scent of wet nature."
+                "en": "Choose the paved paths at the edge of the park to avoid deep puddles and enjoy the fresh scent of wet nature.",
+                "fr": "Choisissez les allées pavées en lisière du parc pour éviter les grandes flaques et profiter du parfum frais de la nature mouillée."
               }
             }
           ]
@@ -224,7 +246,8 @@
             "de": "Der frostige Morgen beginnt an der Kapelle; ziehen Sie sich warm an gegen den kalten Wind. Mittags spenden die dicken Kirchenmauern spirituelle Wärme. Nachmittags ist das Aquädukt im Winterlicht beeindruckend, doch beeilen Sie sich wegen der frühen Dämmerung um 17:00 Uhr. Der Abend im Park endet bei sinkenden Temperaturen.",
             "hu": "A fagyos reggel a kápolnánál indul; öltözzön rétegesen a metsző szél ellen. Napközben a templomok vastag falai nyújtanak némi enyhülést a hidegben. Délután a vízvezeték látványa a téli fényben lenyűgöző, de siessen a korai sötétedés miatt. Az este a parkban a gyorsan hűlő levegőben ér véget.",
             "ro": "Dimineața geroasă începe la capelă; îmbrăcați-vă gros împotriva vântului rece. La prânz, zidurile groase ale bisericilor oferă un refugiu spiritual. După-amiaza, apeductul este impresionant în lumina iernii, dar grăbiți-vă din cauza amurgului timpuriu de la ora 17:00. Seara în parc se încheie pe măsură ce temperaturile scad rapid.",
-            "en": "The frosty morning starts at the chapel; dress warmly against the biting wind. At noon, the thick church walls provide spiritual warmth. In the afternoon, the aqueduct is impressive in the winter light, but hurry due to the early sunset at 5:00 PM. The evening in the park ends as temperatures drop quickly."
+            "en": "The frosty morning starts at the chapel; dress warmly against the biting wind. At noon, the thick church walls provide spiritual warmth. In the afternoon, the aqueduct is impressive in the winter light, but hurry due to the early sunset at 5:00 PM. The evening in the park ends as temperatures drop quickly.",
+            "fr": "La matinée gelée commence à la chapelle ; habillez‑vous chaudement contre le vent mordant. À midi, les murs épais de l’église apportent une chaleur spirituelle. L’après‑midi, l’aqueduc est impressionnant dans la lumière hivernale, mais pressez‑vous à cause du coucher du soleil précoce à 17:00. La soirée au parc se termine alors que les températures chutent rapidement."
           },
           "stops": [
             {
@@ -232,13 +255,15 @@
                 "de": "Kapelle Saint-Roch",
                 "hu": "Saint-Roch kápolna",
                 "ro": "Capela Saint-Roch",
-                "en": "Saint-Roch Chapel"
+                "en": "Saint-Roch Chapel",
+                "fr": "Chapelle Saint‑Roch"
               },
               "tip_5lang": {
                 "de": "Bewundern Sie die klare Winterruhe des Ortes und tragen Sie Handschuhe, da die Kälte hier oben auf dem Hügel oft stärker spürbar ist.",
                 "hu": "Csodálja meg a hely tiszta téli nyugalmát, és viseljen kesztyűt, mivel a hideg itt a dombtetőn gyakran sokkal erősebben érezhető.",
                 "ro": "Admirați liniștea clară de iarnă a locului și purtați mănuși, deoarece frigul de aici de pe deal este adesea mult mai intens.",
-                "en": "Admire the clear winter serenity of the place and wear gloves, as the cold up here on the hill is often felt much more intensely."
+                "en": "Admire the clear winter serenity of the place and wear gloves, as the cold up here on the hill is often felt much more intensely.",
+                "fr": "Admirez la sérénité hivernale nette du lieu et portez des gants, car le froid en haut de la colline se ressent souvent beaucoup plus intensément."
               }
             },
             {
@@ -246,13 +271,15 @@
                 "de": "Kirche Saint-Martin",
                 "hu": "Saint-Martin templom",
                 "ro": "Biserica Saint-Martin",
-                "en": "Saint-Martin Church"
+                "en": "Saint-Martin Church",
+                "fr": "Église Saint‑Martin"
               },
               "tip_5lang": {
                 "de": "Genießen Sie die windgeschützte Atmosphäre im Inneren und nutzen Sie die Pause, um sich für den weiteren Weg durch die Kälte zu sammeln.",
                 "hu": "Élvezze a szélvédett belső atmoszférát, és használja ki a pihenőt, hogy erőt gyűjtsön a hidegben folytatódó további úthoz.",
                 "ro": "Bucurați-vă de atmosfera interioară protejată de vânt și folosiți pauza pentru a vă reculege pentru continuarea drumului prin frig.",
-                "en": "Enjoy the wind-protected interior atmosphere and use the break to gather strength for the rest of the journey through the cold."
+                "en": "Enjoy the wind-protected interior atmosphere and use the break to gather strength for the rest of the journey through the cold.",
+                "fr": "Appréciez l’atmosphère intérieure protégée du vent et profitez de la pause pour reprendre des forces pour la suite du parcours dans le froid."
               }
             },
             {
@@ -260,13 +287,15 @@
                 "de": "Römisches Aquädukt Gorze-Metz",
                 "hu": "Gorze-Metz római vízvezeték",
                 "ro": "Apeductul roman Gorze-Metz",
-                "en": "Gorze-Metz Roman Aqueduct"
+                "en": "Gorze-Metz Roman Aqueduct",
+                "fr": "Aqueduc romain de Gorze‑Metz"
               },
               "tip_5lang": {
                 "de": "Das antike Mauerwerk wirkt im tiefen Sonnenstand besonders plastisch; achten Sie auf vereiste Stellen auf den umliegenden Pfaden.",
                 "hu": "Az antik falazat az alacsony napállásban különösen látványos; ügyeljen a jeges foltokra a környező ösvényeken.",
                 "ro": "Zidăria antică pare deosebit de plastică în lumina joasă a soarelui; aveți grijă la porțiunile înghețate de pe potecile din jur.",
-                "en": "The ancient masonry looks particularly sculptural in the low sun; watch out for icy patches on the surrounding paths."
+                "en": "The ancient masonry looks particularly sculptural in the low sun; watch out for icy patches on the surrounding paths.",
+                "fr": "La maçonnerie ancienne apparaît particulièrement sculpturale sous le soleil bas ; méfiez‑vous des plaques de verglas sur les chemins alentours."
               }
             },
             {
@@ -274,13 +303,15 @@
                 "de": "Kirche Saint-André",
                 "hu": "Saint-André templom",
                 "ro": "Biserica Saint-André",
-                "en": "Saint-André Church"
+                "en": "Saint-André Church",
+                "fr": "Église Saint-André"
               },
               "tip_5lang": {
                 "de": "Besuchen Sie die Kirche am späten Nachmittag, wenn das schwindende Tageslicht eine andächtige Stimmung in den kalten Raum zaubert.",
                 "hu": "Látogassa meg a templomot késő délután, amikor a fogyatkozó nappali fény áhítatos hangulatot varázsol a hideg belső térbe.",
                 "ro": "Vizitați biserica la sfârșitul după-amiezii, când lumina slabă a zilei creează o atmosferă evlavioasă în spațiul rece.",
-                "en": "Visit the church in the late afternoon when the fading daylight creates a reverent atmosphere in the cold interior."
+                "en": "Visit the church in the late afternoon when the fading daylight creates a reverent atmosphere in the cold interior.",
+                "fr": "Visitez l'église en fin d'après-midi lorsque la lumière déclinante crée une atmosphère recueillie dans l'intérieur froid."
               }
             },
             {
@@ -288,13 +319,15 @@
                 "de": "Park Espace Marie et Mathias",
                 "hu": "Espace Marie et Mathias park",
                 "ro": "Parcul Espace Marie et Mathias",
-                "en": "Espace Marie et Mathias Park"
+                "en": "Espace Marie et Mathias Park",
+                "fr": "Parc Espace Marie et Mathias"
               },
               "tip_5lang": {
                 "de": "Machen Sie einen kurzen Spaziergang vor Sonnenuntergang und nutzen Sie die festen Wege, um der Kälte des gefrorenen Bodens zu trotzen.",
                 "hu": "Tegyen egy rövid sétát naplemente előtt, és használja a szilárd utakat, hogy dacoljon a fagyott talaj áradó hidegével.",
                 "ro": "Faceți o scurtă plimbare înainte de apus și folosiți potecile solide pentru a înfrunta frigul emanat de solul înghețat.",
-                "en": "Take a short walk before sunset and use the solid paths to brave the cold radiating from the frozen ground."
+                "en": "Take a short walk before sunset and use the solid paths to brave the cold radiating from the frozen ground.",
+                "fr": "Faites une courte promenade avant le coucher du soleil et empruntez les chemins solides pour braver le froid qui émane du sol gelé."
               }
             }
           ]
@@ -314,7 +347,8 @@
             "de": "Kirche Saint-Rémy",
             "hu": "Saint-Rémy templom",
             "ro": "Biserica Saint-Rémy",
-            "en": "Saint-Rémy Church"
+            "en": "Saint-Rémy Church",
+            "fr": "Église Saint-Rémy"
           },
           "coords": [
             6.079828,
@@ -329,7 +363,8 @@
             "de": "Besuchen Sie diese charmante Dorfkirche im Norden, um die traditionelle Steinfassade zu bewundern, und kommen Sie früh, um das beste Licht zu nutzen.",
             "hu": "Látogasson el ebbe a bájos északi falusi templomba, hogy megcsodálja a hagyományos kőhomlokzatot, és érkezzen kora reggel a legjobb fényviszonyokért.",
             "ro": "Vizitați această biserică fermecătoare pentru a-i aprecia fațada tradițională din piatră și încercați să ajungeți devreme pentru cea mai bună lumină.",
-            "en": "Visit this charming northern village church to appreciate its traditional stone facade, and try to arrive early in the morning for the best natural lighting."
+            "en": "Visit this charming northern village church to appreciate its traditional stone facade, and try to arrive early in the morning for the best natural lighting.",
+            "fr": "Visitez cette charmante église du village nordique pour apprécier sa façade en pierre traditionnelle, et essayez d'arriver tôt le matin pour la meilleure lumière naturelle."
           }
         },
         {
@@ -337,7 +372,8 @@
             "de": "Kapelle Saint-Roch",
             "hu": "Saint-Roch kápolna",
             "ro": "Capela Saint-Roch",
-            "en": "Saint-Roch Chapel"
+            "en": "Saint-Roch Chapel",
+            "fr": "Chapelle Saint-Roch"
           },
           "coords": [
             6.070458,
@@ -352,7 +388,8 @@
             "de": "Bewundern Sie die reizvolle Architektur dieser historischen Kapelle, die dem Heiligen Rochus gewidmet ist, und genießen Sie hier einen Moment der Stille.",
             "hu": "Csodálja meg a Szent Rókusnak szentelt kápolna bájos építészetét, amely békés menedéket nyújt a sétálók számára egy csendes reggeli pihenéshez.",
             "ro": "Admirați arhitectura fermecătoare a acestei capele istorice închinate Sfântului Rochus, un loc perfect pentru a vă bucura de un moment de liniște dimineața.",
-            "en": "Admire the charming architecture of this historic chapel dedicated to Saint Roch, a serene spot where you can pause for a quiet moment during your walk."
+            "en": "Admire the charming architecture of this historic chapel dedicated to Saint Roch, a serene spot where you can pause for a quiet moment during your walk.",
+            "fr": "Admirez l'architecture charmante de cette chapelle historique dédiée à Saint Roch, un endroit serein où vous pouvez faire une pause tranquille pendant votre promenade."
           }
         },
         {
@@ -360,7 +397,8 @@
             "de": "Kirche Saint-Martin",
             "hu": "Saint-Martin templom",
             "ro": "Biserica Saint-Martin",
-            "en": "Saint-Martin Church"
+            "en": "Saint-Martin Church",
+            "fr": "Église Saint-Martin"
           },
           "coords": [
             6.079034,
@@ -375,7 +413,8 @@
             "de": "Erkunden Sie diese beeindruckende Kirche mit ihren bemerkenswerten Buntglasfenstern und prüfen Sie am Eingang die Aushänge auf mögliche Chorauftritte.",
             "hu": "Fedezze fel ezt a lenyűgöző templomot és csodálatos ólomüveg ablakait, de előtte érdemes ellenőrizni a helyi kórusfellépések és események időpontjait is.",
             "ro": "Explorați această biserică uimitoare cu vitralii remarcabile și verificați programul local pentru a prinde un eventual concert de cor în timpul vizitei.",
-            "en": "Explore this stunning religious site featuring remarkable stained glass windows, and be sure to check the local schedule for any upcoming choir performances."
+            "en": "Explore this stunning religious site featuring remarkable stained glass windows, and be sure to check the local schedule for any upcoming choir performances.",
+            "fr": "Explorez ce magnifique lieu de culte présentant de remarquables vitraux, et pensez à consulter le programme local pour d'éventuelles prestations de chorale."
           }
         },
         {
@@ -383,7 +422,8 @@
             "de": "Römisches Aquädukt Gorze-Metz",
             "hu": "Gorze-Metz római vízvezeték",
             "ro": "Apeductul roman Gorze-Metz",
-            "en": "Gorze-Metz Roman Aqueduct"
+            "en": "Gorze-Metz Roman Aqueduct",
+            "fr": "Aqueduc romain de Gorze-Metz"
           },
           "coords": [
             6.070107,
@@ -398,7 +438,8 @@
             "de": "Bestaunen Sie die Überreste dieser antiken römischen Ingenieurskunst im Tal und bringen Sie Ihre Kamera mit, um die majestätischen Steinbögen festzuhalten.",
             "hu": "Ámuljon el az ősi római mérnöki munka völgyön átívelő maradványain, és mindenképpen hozzon fényképezőgépet a fenséges kőívek lenyűgöző megörökítéséhez.",
             "ro": "Minunați-vă de rămășițele acestei capodopere inginerești romane care traversează valea și nu uitați aparatul foto pentru a surprinde arcadele maiestuoase.",
-            "en": "Marvel at the monumental remains of this ancient Roman engineering feat spanning the valley, bringing your camera to capture the majestic stone arches."
+            "en": "Marvel at the monumental remains of this ancient Roman engineering feat spanning the valley, bringing your camera to capture the majestic stone arches.",
+            "fr": "Émerveillez-vous devant les vestiges monumentaux de cet ouvrage d'ingénierie romaine ancien qui enjambe la vallée ; apportez votre appareil photo pour capturer les majestueuses arches de pierre."
           }
         },
         {
@@ -406,7 +447,8 @@
             "de": "Kirche Saint-André",
             "hu": "Saint-André templom",
             "ro": "Biserica Saint-André",
-            "en": "Saint-André Church"
+            "en": "Saint-André Church",
+            "fr": "Église Saint-André"
           },
           "coords": [
             6.07516,
@@ -421,7 +463,8 @@
             "de": "Entdecken Sie das reiche Erbe dieser einladenden Pfarrkirche, die für ihre friedliche Atmosphäre bekannt ist – ideal für eine kurze, besinnliche Pause.",
             "hu": "Ismerje meg ennek a barátságos plébániatemplomnak a gazdag örökségét és békés hangulatát, amely tökéletes egy rövid elmélkedéshez a kulturális túrán.",
             "ro": "Descoperiți moștenirea bogată a acestei biserici parohiale primitoare, renumită pentru ambianța sa pașnică, perfectă pentru o scurtă pauză de reflecție.",
-            "en": "Discover the rich heritage of this welcoming parish church known for its peaceful ambiance, perfect for a short reflective pause on your cultural tour."
+            "en": "Discover the rich heritage of this welcoming parish church known for its peaceful ambiance, perfect for a short reflective pause on your cultural tour.",
+            "fr": "Découvrez le riche patrimoine de cette paroisse accueillante connue pour son ambiance paisible, parfaite pour une courte pause réfléchie lors de votre visite culturelle."
           }
         },
         {
@@ -429,7 +472,8 @@
             "de": "Park Espace Marie et Mathias",
             "hu": "Espace Marie et Mathias park",
             "ro": "Parcul Espace Marie et Mathias",
-            "en": "Espace Marie et Mathias Park"
+            "en": "Espace Marie et Mathias Park",
+            "fr": "Parc Espace Marie et Mathias"
           },
           "coords": [
             6.06177,
@@ -444,7 +488,8 @@
             "de": "Entspannen Sie in diesem wunderschön angelegten Park der Erinnerung und des Friedens und bringen Sie ein Picknick mit, um die gepflegten Wege zu genießen.",
             "hu": "Pihenjen meg ebben a gyönyörűen parkosított, emlékezésnek és békének szentelt parkban, ahová érdemes piknikkosarat hozni a zöldellő környezet élvezetéhez.",
             "ro": "Relaxați-vă în acest parc frumos amenajat dedicat memoriei și păcii, aducând un mic coș de picnic pentru a vă bucura pe deplin de verdeața luxuriantă.",
-            "en": "Relax in this beautifully landscaped park dedicated to memory and peace, bringing a small picnic to enjoy the lush greenery and well-maintained pathways."
+            "en": "Relax in this beautifully landscaped park dedicated to memory and peace, bringing a small picnic to enjoy the lush greenery and well-maintained pathways.",
+            "fr": "Détendez-vous dans ce parc magnifiquement aménagé dédié à la mémoire et à la paix, en apportant un petit pique-nique pour profiter de la verdure et des allées bien entretenues."
           }
         }
       ],
@@ -452,7 +497,8 @@
         "de": "Starten Sie Ihre Radtour im Norden an der Église Saint-Rémy. Mittags radeln Sie vorbei an der Chapelle Saint-Roch zur Kirche Saint-Martin und zum beeindruckenden römischen Aquädukt. Nachmittags geht es zur Église Saint-André. Ihre Tour endet mit entspannter Ruhe im grünen Espace Marie et Mathias.",
         "hu": "Kezdje a kerékpártúrát északon, az Église Saint-Rémy templomnál. Délben a Chapelle Saint-Roch és a Saint-Martin templom, majd az ókori római vízvezeték várja. Délután tekerjen délre a barátságos Église Saint-André felé. Utazása a zöldellő Espace Marie et Mathias park nyugalmával zárul.",
         "ro": "Începeți turul cu bicicleta la Biserica Saint-Rémy din nord. La prânz, treceți pe lângă Chapelle Saint-Roch spre Biserica Saint-Martin și apeductul roman. După-amiaza pedalați spre primitoarea Biserică Saint-André. Călătoria se încheie liniștit în verdeața parcului Espace Marie et Mathias.",
-        "en": "Kick off your cycling tour up north at the traditional Église Saint-Rémy before heading back down. Midday brings you past Chapelle Saint-Roch to the stunning Saint-Martin Church and the grand Roman Aqueduct. Afternoon riding takes you south towards the welcoming Église Saint-André. Your journey wraps up with a tranquil unwinding amid the lush greenery of Espace Marie et Mathias."
+        "en": "Kick off your cycling tour up north at the traditional Église Saint-Rémy before heading back down. Midday brings you past Chapelle Saint-Roch to the stunning Saint-Martin Church and the grand Roman Aqueduct. Afternoon riding takes you south towards the welcoming Église Saint-André. Your journey wraps up with a tranquil unwinding amid the lush greenery of Espace Marie et Mathias.",
+        "fr": "Commencez votre circuit à vélo au nord à la traditionnelle Église Saint-Rémy avant de redescendre. À midi, passez par la Chapelle Saint-Roch jusqu'à la splendide Église Saint-Martin et le grand Aqueduc romain. L'après-midi, roulez vers le sud en direction de la chaleureuse Église Saint-André. Votre parcours se termine par une pause tranquille au milieu de la verdure de l'Espace Marie et Mathias."
       },
       "variants": {
         "rainy": {
@@ -460,7 +506,8 @@
             "de": "Regnerisches Radeln erfordert volle Konzentration auf den glatten Straßen. Starten Sie vorsichtig an der Kirche Saint-Rémy. Mittags bieten die sakralen Bauten willkommene Pausen im Trockenen. Nachmittags sind die Wege zum Aquädukt schlammig; reduzieren Sie Ihr Tempo. Der Abschluss im Park erfordert gute Schutzbleche und helle Beleuchtung bei schlechter Sicht.",
             "hu": "Az esős kerékpározás teljes koncentrációt igényel a csúszós utakon. Kezdjen óvatosan a Saint-Rémy templomnál. Napközben a szakrális épületek várva várt száraz pihenőket kínálnak. Délután a vízvezetékhez vezető utak sarasak; lassítson a kanyarokban. A parki záráshoz jó sárvédő és erős világítás szükséges a rossz látási viszonyok miatt.",
             "ro": "Ciclismul pe ploaie necesită concentrare maximă pe străzile alunecoase. Începeți cu prudență la biserica Saint-Rémy. La prânz, clădirile sacre oferă pauze binevenite la uscat. După-amiaza, drumurile spre apeduct sunt noroioase; reduceți viteza. Finalul în parc necesită aripi bune la bicicletă și iluminare puternică pentru vizibilitate redusă.",
-            "en": "Rainy cycling requires full concentration on slippery roads. Start cautiously at Saint-Rémy Church. At noon, the sacred buildings offer welcome dry breaks. In the afternoon, paths to the aqueduct are muddy; reduce your speed. The finish in the park requires good fenders and bright lighting due to poor visibility."
+            "en": "Rainy cycling requires full concentration on slippery roads. Start cautiously at Saint-Rémy Church. At noon, the sacred buildings offer welcome dry breaks. In the afternoon, paths to the aqueduct are muddy; reduce your speed. The finish in the park requires good fenders and bright lighting due to poor visibility.",
+            "fr": "Le cyclisme sous la pluie demande une concentration totale sur des routes glissantes. Débutez prudemment à l'Église Saint-Rémy. À midi, les édifices sacrés offrent de bienvenues pauses au sec. L'après-midi, les chemins vers l'aqueduc sont boueux ; réduisez votre vitesse. La fin du parcours dans le parc nécessite de bons garde-boue et un éclairage puissant en raison de la faible visibilité."
           },
           "stops": [
             {
@@ -468,13 +515,15 @@
                 "de": "Kirche Saint-Rémy",
                 "hu": "Saint-Rémy templom",
                 "ro": "Biserica Saint-Rémy",
-                "en": "Saint-Rémy Church"
+                "en": "Saint-Rémy Church",
+                "fr": "Église Saint-Rémy"
               },
               "tip_5lang": {
                 "de": "Prüfen Sie vor dem Start Ihre Bremsen auf Nässetauglichkeit und nutzen Sie das Vordach für letzte Einstellungen am Rad.",
                 "hu": "Indulás előtt ellenőrizze a fékek hatékonyságát nedves időben, és használja az előtetőt a kerékpár utolsó beállításaihoz.",
                 "ro": "Verificați eficiența frânelor pe vreme umedă înainte de plecare și folosiți copertina pentru ultimele reglaje la bicicletă.",
-                "en": "Check your brakes for wet weather effectiveness before starting and use the porch for final bike adjustments."
+                "en": "Check your brakes for wet weather effectiveness before starting and use the porch for final bike adjustments.",
+                "fr": "Vérifiez l'efficacité de vos freins par temps humide avant de partir et utilisez le porche pour les derniers réglages du vélo."
               }
             },
             {
@@ -482,13 +531,15 @@
                 "de": "Kapelle Saint-Roch",
                 "hu": "Saint-Roch kápolna",
                 "ro": "Capela Saint-Roch",
-                "en": "Saint-Roch Chapel"
+                "en": "Saint-Roch Chapel",
+                "fr": "Chapelle Saint-Roch"
               },
               "tip_5lang": {
                 "de": "Stellen Sie Ihr Rad an einem geschützten Ort ab und nutzen Sie die Pause, um Ihre Regenbekleidung für die Weiterfahrt zu richten.",
                 "hu": "Támassza le kerékpárját védett helyen, és használja ki a pihenőt az esőruházat igazítására a további szakasz előtt.",
                 "ro": "Parcați bicicleta într-un loc protejat și folosiți pauza pentru a vă ajusta echipamentul de ploaie pentru următoarea etapă.",
-                "en": "Park your bike in a protected spot and use the break to adjust your rain gear for the next stage."
+                "en": "Park your bike in a protected spot and use the break to adjust your rain gear for the next stage.",
+                "fr": "Garez votre vélo dans un endroit abrité et profitez de la pause pour ajuster votre tenue de pluie pour l'étape suivante."
               }
             },
             {
@@ -496,13 +547,15 @@
                 "de": "Kirche Saint-Martin",
                 "hu": "Saint-Martin templom",
                 "ro": "Biserica Saint-Martin",
-                "en": "Saint-Martin Church"
+                "en": "Saint-Martin Church",
+                "fr": "Église Saint-Martin"
               },
               "tip_5lang": {
                 "de": "Vermeiden Sie beim Parken Metallgitter am Boden, die extrem rutschig sind, und wärmen Sie sich kurz im trockenen Kirchenschiff auf.",
                 "hu": "Parkoláskor kerülje a földön lévő fémrácsokat, amelyek rendkívül csúszósak, és melegedjen fel kicsit a száraz templomhajóban.",
                 "ro": "Evitați grătarele metalice de pe sol la parcare, deoarece sunt extrem de alunecoase, și încălziți-vă puțin în nava uscată a bisericii.",
-                "en": "Avoid metal grates on the ground when parking as they are extremely slippery, and warm up briefly in the dry church nave."
+                "en": "Avoid metal grates on the ground when parking as they are extremely slippery, and warm up briefly in the dry church nave.",
+                "fr": "Évitez les grilles métalliques au sol lors du stationnement car elles sont extrêmement glissantes, et réchauffez-vous brièvement dans la nef sèche de l'église."
               }
             },
             {
@@ -510,13 +563,15 @@
                 "de": "Römisches Aquädukt Gorze-Metz",
                 "hu": "Gorze-Metz római vízvezeték",
                 "ro": "Apeductul roman Gorze-Metz",
-                "en": "Gorze-Metz Roman Aqueduct"
+                "en": "Gorze-Metz Roman Aqueduct",
+                "fr": "Aqueduc romain de Gorze-Metz"
               },
               "tip_5lang": {
                 "de": "Fahren Sie auf dem unebenen Gelände besonders vorsichtig und achten Sie auf Pfützen, die tiefe Schlaglöcher verbergen könnten.",
                 "hu": "Hajtson különösen óvatosan az egyenetlen terepen, és ügyeljen a tócsákra, amelyek mély kátyúkat rejthetnek az út mentén.",
                 "ro": "Conduceți cu mare prudență pe terenul accidentat și aveți grijă la bălțile care pot ascunde gropi adânci de-a lungul drumului.",
-                "en": "Ride particularly carefully on the uneven terrain and watch out for puddles that could hide deep potholes along the way."
+                "en": "Ride particularly carefully on the uneven terrain and watch out for puddles that could hide deep potholes along the way.",
+                "fr": "Roulez avec une prudence particulière sur le terrain irrégulier et méfiez-vous des flaques qui peuvent cacher des nids-de-poule profonds sur le trajet."
               }
             },
             {
@@ -524,13 +579,15 @@
                 "de": "Kirche Saint-André",
                 "hu": "Saint-André templom",
                 "ro": "Biserica Saint-André",
-                "en": "Saint-André Church"
+                "en": "Saint-André Church",
+                "fr": "Église Saint-André"
               },
               "tip_5lang": {
                 "de": "Nutzen Sie den Halt, um Ihre Brille oder Ihr Visier zu reinigen, damit Sie trotz Regen klare Sicht auf die Straße behalten.",
                 "hu": "Használja ki a megállót a szemüveg vagy a sisakrostély megtisztítására, hogy az eső ellenére is tisztán lássa az utat.",
                 "ro": "Profitați de oprire pentru a vă curăța ochelarii sau viziera, astfel încât să aveți o vedere clară asupra drumului în ciuda ploii.",
-                "en": "Use the stop to clean your glasses or visor so you maintain a clear view of the road despite the rain."
+                "en": "Use the stop to clean your glasses or visor so you maintain a clear view of the road despite the rain.",
+                "fr": "Profitez de l'arrêt pour nettoyer vos lunettes ou votre visière afin de garder une vision claire de la route malgré la pluie."
               }
             },
             {
@@ -538,13 +595,15 @@
                 "de": "Park Espace Marie et Mathias",
                 "hu": "Espace Marie et Mathias park",
                 "ro": "Parcul Espace Marie et Mathias",
-                "en": "Espace Marie et Mathias Park"
+                "en": "Espace Marie et Mathias Park",
+                "fr": "Parc Espace Marie et Mathias"
               },
               "tip_5lang": {
                 "de": "Bleiben Sie auf den asphaltierten Wegen, da nasse Wiesen für Reifen keinen Halt bieten und das Radfahren dort riskant ist.",
                 "hu": "Maradjon az aszfaltozott utakon, mivel a vizes fű nem ad tapadást a gumiknak, és a kerékpározás ott kockázatos lehet.",
                 "ro": "Rămâneți pe aleile asfaltate, deoarece iarba udă nu oferă aderență anvelopelor și mersul pe bicicletă acolo este riscant.",
-                "en": "Stay on the paved paths as wet grass provides no grip for tires and cycling there is risky."
+                "en": "Stay on the paved paths as wet grass provides no grip for tires and cycling there is risky.",
+                "fr": "Restez sur les chemins goudronnés car l'herbe mouillée n'offre aucune adhérence pour les pneus et y circuler est risqué."
               }
             }
           ]
@@ -554,7 +613,8 @@
             "de": "Winterliches Radfahren erfordert Thermokleidung und Vorsicht bei möglichem Glatteis. Der Morgen an der Saint-Rémy Kirche ist klirrend kalt. Mittags dienen die Kirchenbesuche zum Aufwärmen der Finger. Nachmittags sinkt die Sonne früh; beenden Sie die Tour am Aquädukt zügig. Der Abend im Park findet bereits in der Dämmerung bei Frost statt, gute Beleuchtung ist Pflicht.",
             "hu": "A téli kerékpározáshoz termoruha és óvatosság szükséges a jegesedés veszélye miatt. A reggel a Saint-Rémy templomnál csípősen hideg. Napközben a templomlátogatások segítik az elgémberedett ujjak felmelegítését. Délután a nap korán lebukik; a vízvezetéknél siessen. Az este a parkban már szürkületben és fagyban telik, a világítás kötelező.",
             "ro": "Ciclismul de iarnă necesită îmbrăcăminte termică și prudență din cauza riscului de gheață. Dimineața la biserica Saint-Rémy este extrem de friguroasă. La prânz, vizitele la biserici ajută la încălzirea degetelor amorțite. După-amiaza soarele apune devreme; grăbiți-vă la apeduct. Seara în parc are loc deja în amurg și ger, iluminarea fiind obligatorie.",
-            "en": "Winter cycling requires thermal clothing and caution due to potential ice. The morning at Saint-Rémy Church is bitterly cold. At noon, church visits help warm up numbed fingers. In the afternoon, the sun sets early; finish the tour at the aqueduct quickly. The evening in the park takes place in twilight and frost; lighting is mandatory."
+            "en": "Winter cycling requires thermal clothing and caution due to potential ice. The morning at Saint-Rémy Church is bitterly cold. At noon, church visits help warm up numbed fingers. In the afternoon, the sun sets early; finish the tour at the aqueduct quickly. The evening in the park takes place in twilight and frost; lighting is mandatory.",
+            "fr": "Le cyclisme en hiver exige des vêtements thermiques et de la prudence en raison du risque de verglas. Le matin à l'Église Saint-Rémy est particulièrement froid. À midi, les visites d'église aident à réchauffer les doigts engourdis. L'après-midi, le soleil se couche tôt ; terminez rapidement la visite de l'aqueduc. La soirée au parc se déroule dans le crépuscule et le givre ; un éclairage est obligatoire."
           },
           "stops": [
             {
@@ -562,13 +622,15 @@
                 "de": "Kirche Saint-Rémy",
                 "hu": "Saint-Rémy templom",
                 "ro": "Biserica Saint-Rémy",
-                "en": "Saint-Rémy Church"
+                "en": "Saint-Rémy Church",
+                "fr": "Église Saint-Rémy"
               },
               "tip_5lang": {
                 "de": "Tragen Sie winddichte Handschuhe und bewegen Sie Ihre Zehen regelmäßig, um die Durchblutung während der kalten Fahrt zu fördern.",
                 "hu": "Viseljen szélálló kesztyűt, és mozgassa rendszeresen a lábujjait, hogy serkentse a vérkeringést a hideg tekerés közben.",
                 "ro": "Purtați mănuși rezistente la vânt și mișcați-vă degetele de la picioare regulat pentru a stimula circulația în timpul cursei reci.",
-                "en": "Wear windproof gloves and move your toes regularly to stimulate circulation during the cold ride."
+                "en": "Wear windproof gloves and move your toes regularly to stimulate circulation during the cold ride.",
+                "fr": "Portez des gants coupe-vent et bougez régulièrement les orteils pour stimuler la circulation pendant la sortie froide."
               }
             },
             {
@@ -576,13 +638,15 @@
                 "de": "Kapelle Saint-Roch",
                 "hu": "Saint-Roch kápolna",
                 "ro": "Capela Saint-Roch",
-                "en": "Saint-Roch Chapel"
+                "en": "Saint-Roch Chapel",
+                "fr": "Chapelle Saint-Roch"
               },
               "tip_5lang": {
                 "de": "Vorsicht beim Absteigen auf gefrorenem Boden; suchen Sie sich eine flache, eisfreie Stelle, um sicher vom Rad zu kommen.",
                 "hu": "Vigyázzon a leszálláskor a fagyott talajon; keressen egy sík, jégmentes helyet, hogy biztonságosan leszállhasson a kerékpárról.",
                 "ro": "Atenție la coborârea de pe bicicletă pe solul înghețat; căutați un loc plan, fără gheață, pentru a coborî în siguranță.",
-                "en": "Be careful when dismounting on frozen ground; look for a flat, ice-free spot to safely get off the bike."
+                "en": "Be careful when dismounting on frozen ground; look for a flat, ice-free spot to safely get off the bike.",
+                "fr": "Faites attention en descendant du vélo sur un sol gelé ; cherchez un endroit plat et sans glace pour descendre en toute sécurité."
               }
             },
             {
@@ -590,13 +654,15 @@
                 "de": "Kirche Saint-Martin",
                 "hu": "Saint-Martin templom",
                 "ro": "Biserica Saint-Martin",
-                "en": "Saint-Martin Church"
+                "en": "Saint-Martin Church",
+                "fr": "Église Saint-Martin"
               },
               "tip_5lang": {
                 "de": "Nutzen Sie die kurze Pause im Inneren, um die Kälte aus den Gliedern zu schütteln, bevor Sie sich wieder in den Winterwind wagen.",
                 "hu": "Használja ki a rövid benti szünetet, hogy kiűzze a hideget a végtagjaiból, mielőtt újra nekivágna a téli szélnek.",
                 "ro": "Profitați de scurta pauză din interior pentru a alunga frigul din membre înainte de a înfrunta din nou vântul de iarnă.",
-                "en": "Use the short indoor break to shake the cold out of your limbs before venturing back into the winter wind."
+                "en": "Use the short indoor break to shake the cold out of your limbs before venturing back into the winter wind.",
+                "fr": "Profitez de la courte pause à l'intérieur pour chasser le froid de vos membres avant de retourner affronter le vent hivernal."
               }
             },
             {
@@ -604,13 +670,15 @@
                 "de": "Römisches Aquädukt Gorze-Metz",
                 "hu": "Gorze-Metz római vízvezeték",
                 "ro": "Apeductul roman Gorze-Metz",
-                "en": "Gorze-Metz Roman Aqueduct"
+                "en": "Gorze-Metz Roman Aqueduct",
+                "fr": "Aqueduc romain de Gorze-Metz"
               },
               "tip_5lang": {
                 "de": "Achten Sie auf Schattenseiten des Weges, wo sich Raureif oder Eis länger halten können, und fahren Sie dort besonders vorausschauend.",
                 "hu": "Ügyeljen az út árnyékos oldalaira, ahol a zúzmara vagy a jég tovább megmaradhat, és vezessen ott különösen előrelátóan.",
                 "ro": "Aveți grijă la porțiunile umbrite ale drumului, unde chiciura sau gheața pot persista mai mult, și conduceți cu mare atenție.",
-                "en": "Watch out for shaded sides of the path where hoarfrost or ice can linger longer, and ride particularly proactively there."
+                "en": "Watch out for shaded sides of the path where hoarfrost or ice can linger longer, and ride particularly proactively there.",
+                "fr": "Méfiez-vous des côtés ombragés du chemin où le givre ou la glace peuvent persister plus longtemps, et roulez avec une prudence accrue à ces endroits."
               }
             },
             {
@@ -618,13 +686,15 @@
                 "de": "Kirche Saint-André",
                 "hu": "Saint-André templom",
                 "ro": "Biserica Saint-André",
-                "en": "Saint-André Church"
+                "en": "Saint-André Church",
+                "fr": "Église Saint-André"
               },
               "tip_5lang": {
                 "de": "Die einsetzende Kälte am späten Nachmittag erfordert eine zusätzliche Kleidungsschicht; nutzen Sie den Halt für einen schnellen Kleiderwechsel.",
                 "hu": "A késő délutáni hűvösödés miatt szüksége lehet egy plusz rétegre; használja ki a megállót egy gyors öltözködésre.",
                 "ro": "Răcirea de la sfârșitul după-amiezii necesită un strat suplimentar de haine; profitați de oprire pentru o schimbare rapidă.",
-                "en": "The cooling in the late afternoon requires an extra layer of clothing; use the stop for a quick clothing adjustment."
+                "en": "The cooling in the late afternoon requires an extra layer of clothing; use the stop for a quick clothing adjustment.",
+                "fr": "Le refroidissement en fin d'après-midi nécessite une couche supplémentaire de vêtement ; profitez de l'arrêt pour un rapide ajustement vestimentaire."
               }
             },
             {
@@ -632,13 +702,15 @@
                 "de": "Park Espace Marie et Mathias",
                 "hu": "Espace Marie et Mathias park",
                 "ro": "Parcul Espace Marie et Mathias",
-                "en": "Espace Marie et Mathias Park"
+                "en": "Espace Marie et Mathias Park",
+                "fr": "Parc Espace Marie et Mathias"
               },
               "tip_5lang": {
                 "de": "Schalten Sie Ihr Licht rechtzeitig ein, da die Sicht im winterlichen Park schnell abnimmt und die Wege unübersichtlich werden.",
                 "hu": "Kapcsolja be időben a világítást, mivel a látótávolság a téli parkban gyorsan csökken, és az utak beláthatatlanná válnak.",
                 "ro": "Aprindeți luminile la timp, deoarece vizibilitatea în parcul de iarnă scade rapid și potecile devin greu de urmărit.",
-                "en": "Turn on your lights in good time, as visibility in the winter park decreases rapidly and the paths become unclear."
+                "en": "Turn on your lights in good time, as visibility in the winter park decreases rapidly and the paths become unclear.",
+                "fr": "Allumez vos éclairages en temps utile, car la visibilité dans le parc hivernal diminue rapidement et les sentiers deviennent peu visibles."
               }
             }
           ]
@@ -658,7 +730,8 @@
             "de": "Kirche Saint-Rémy",
             "hu": "Saint-Rémy templom",
             "ro": "Biserica Saint-Rémy",
-            "en": "Saint-Rémy Church"
+            "en": "Saint-Rémy Church",
+            "fr": "Église Saint-Rémy"
           },
           "coords": [
             6.079828,
@@ -673,7 +746,8 @@
             "de": "Besuchen Sie diese charmante Dorfkirche im Norden, um die traditionelle Steinfassade zu bewundern, und kommen Sie früh, um das beste Licht zu nutzen.",
             "hu": "Látogasson el ebbe a bájos északi falusi templomba, hogy megcsodálja a hagyományos kőhomlokzatot, és érkezzen kora reggel a legjobb fényviszonyokért.",
             "ro": "Vizitați această biserică fermecătoare pentru a-i aprecia fațada tradițională din piatră și încercați să ajungeți devreme pentru cea mai bună lumină.",
-            "en": "Visit this charming northern village church to appreciate its traditional stone facade, and try to arrive early in the morning for the best natural lighting."
+            "en": "Visit this charming northern village church to appreciate its traditional stone facade, and try to arrive early in the morning for the best natural lighting.",
+            "fr": "Visitez cette charmante église du village nordique pour apprécier sa façade en pierre traditionnelle, et essayez d'arriver tôt le matin pour la meilleure lumière naturelle."
           }
         },
         {
@@ -681,7 +755,8 @@
             "de": "Kirche Saint-Martin",
             "hu": "Saint-Martin templom",
             "ro": "Biserica Saint-Martin",
-            "en": "Saint-Martin Church"
+            "en": "Saint-Martin Church",
+            "fr": "Église Saint-Martin"
           },
           "coords": [
             6.079034,
@@ -696,7 +771,8 @@
             "de": "Erkunden Sie diese beeindruckende Kirche mit ihren bemerkenswerten Buntglasfenstern und prüfen Sie am Eingang die Aushänge auf mögliche Chorauftritte.",
             "hu": "Fedezze fel ezt a lenyűgöző templomot és csodálatos ólomüveg ablakait, de előtte érdemes ellenőrizni a helyi kórusfellépések és események időpontjait is.",
             "ro": "Explorați această biserică uimitoare cu vitralii remarcabile și verificați programul local pentru a prinde un eventual concert de cor în timpul vizitei.",
-            "en": "Explore this stunning religious site featuring remarkable stained glass windows, and be sure to check the local schedule for any upcoming choir performances."
+            "en": "Explore this stunning religious site featuring remarkable stained glass windows, and be sure to check the local schedule for any upcoming choir performances.",
+            "fr": "Explorez ce magnifique lieu de culte présentant de remarquables vitraux, et pensez à consulter le programme local pour d'éventuelles prestations de chorale."
           }
         },
         {
@@ -704,7 +780,8 @@
             "de": "Römisches Aquädukt Gorze-Metz",
             "hu": "Gorze-Metz római vízvezeték",
             "ro": "Apeductul roman Gorze-Metz",
-            "en": "Gorze-Metz Roman Aqueduct"
+            "en": "Gorze-Metz Roman Aqueduct",
+            "fr": "Aqueduc romain de Gorze-Metz"
           },
           "coords": [
             6.070107,
@@ -719,7 +796,8 @@
             "de": "Bestaunen Sie die Überreste dieser antiken römischen Ingenieurskunst im Tal und bringen Sie Ihre Kamera mit, um die majestätischen Steinbögen festzuhalten.",
             "hu": "Ámuljon el az ősi római mérnöki munka völgyön átívelő maradványain, és mindenképpen hozzon fényképezőgépet a fenséges kőívek lenyűgöző megörökítéséhez.",
             "ro": "Minunați-vă de rămășițele acestei capodopere inginerești romane care traversează valea și nu uitați aparatul foto pentru a surprinde arcadele maiestuoase.",
-            "en": "Marvel at the monumental remains of this ancient Roman engineering feat spanning the valley, bringing your camera to capture the majestic stone arches."
+            "en": "Marvel at the monumental remains of this ancient Roman engineering feat spanning the valley, bringing your camera to capture the majestic stone arches.",
+            "fr": "Émerveillez-vous devant les vestiges monumentaux de cet ouvrage d'ingénierie romaine ancien qui enjambe la vallée ; apportez votre appareil photo pour capturer les majestueuses arches de pierre."
           }
         },
         {
@@ -727,7 +805,8 @@
             "de": "Park Espace Marie et Mathias",
             "hu": "Espace Marie et Mathias park",
             "ro": "Parcul Espace Marie et Mathias",
-            "en": "Espace Marie et Mathias Park"
+            "en": "Espace Marie et Mathias Park",
+            "fr": "Parc Espace Marie et Mathias"
           },
           "coords": [
             6.06177,
@@ -742,7 +821,8 @@
             "de": "Entspannen Sie in diesem wunderschön angelegten Park der Erinnerung und des Friedens und bringen Sie ein Picknick mit, um die gepflegten Wege zu genießen.",
             "hu": "Pihenjen meg ebben a gyönyörűen parkosított, emlékezésnek és békének szentelt parkban, ahová érdemes piknikkosarat hozni a zöldellő környezet élvezetéhez.",
             "ro": "Relaxați-vă în acest parc frumos amenajat dedicat memoriei și păcii, aducând un mic coș de picnic pentru a vă bucura pe deplin de verdeața luxuriantă.",
-            "en": "Relax in this beautifully landscaped park dedicated to memory and peace, bringing a small picnic to enjoy the lush greenery and well-maintained pathways."
+            "en": "Relax in this beautifully landscaped park dedicated to memory and peace, bringing a small picnic to enjoy the lush greenery and well-maintained pathways.",
+            "fr": "Détendez-vous dans ce parc magnifiquement aménagé dédié à la mémoire et à la paix, en apportant un petit pique-nique pour profiter de la verdure et des allées bien entretenues."
           }
         },
         {
@@ -750,7 +830,8 @@
             "de": "Mariä-Himmelfahrt-Kirche",
             "hu": "Nagyboldogasszony-templom",
             "ro": "Biserica Adormirea Maicii Domnului",
-            "en": "Church of the Assumption"
+            "en": "Church of the Assumption",
+            "fr": "Église de l'Assomption"
           },
           "coords": [
             6.059457,
@@ -765,7 +846,8 @@
             "de": "Treten Sie in dieses anmutig gestaltete Heiligtum ein, um den historischen Altar zu bewundern, und kleiden Sie sich respektvoll für diesen aktiven Ort.",
             "hu": "Lépjen be ebbe a kecses kialakítású szentélybe, hogy megcsodálja a történelmi oltárt, és ügyeljen a tisztelettudó öltözködésre az aktív hitélet miatt.",
             "ro": "Pășiți în acest sanctuar religios proiectat cu grație pentru a-i admira altarul istoric, asigurându-vă că vă îmbrăcați respectuos în acest loc activ.",
-            "en": "Step inside this gracefully designed religious sanctuary to admire its historic altar, making sure to dress respectfully as it remains an active community site."
+            "en": "Step inside this gracefully designed religious sanctuary to admire its historic altar, making sure to dress respectfully as it remains an active community site.",
+            "fr": "Pénétrez dans ce sanctuaire religieux au design gracieux pour admirer son autel historique, en veillant à vous habiller respectueusement car il reste un lieu de culte actif."
           }
         },
         {
@@ -773,7 +855,8 @@
             "de": "Les Acrobates",
             "hu": "Les Acrobates",
             "ro": "Les Acrobates",
-            "en": "Les Acrobates"
+            "en": "Les Acrobates",
+            "fr": "Les Acrobates"
           },
           "coords": [
             6.099053,
@@ -788,7 +871,8 @@
             "de": "Gönnen Sie der Familie Spaß auf diesem lebhaften Indoor-Spielplatz, wo bequeme Socken erforderlich sind, damit die Kinder sicher klettern können.",
             "hu": "Lepje meg a családot egy vidám programmal ebben a nyüzsgő beltéri játszóházban, ahol kényelmes zokni viselése kötelező a gyerekek számára a mászáshoz.",
             "ro": "Răsfățați familia cu o sesiune plină de distracție la acest loc de joacă interior, unde șosetele confortabile sunt obligatorii pentru cei mici.",
-            "en": "Treat the family to a fun-filled session at this lively indoor playground, where wearing comfortable socks is required for the children to enjoy the structures."
+            "en": "Treat the family to a fun-filled session at this lively indoor playground, where wearing comfortable socks is required for the children to enjoy the structures.",
+            "fr": "Offrez à la famille une séance ludique dans cet aires de jeux intérieure animée, où le port de chaussettes confortables est requis pour que les enfants puissent profiter des installations."
           }
         },
         {
@@ -796,7 +880,8 @@
             "de": "Air Jump Metz",
             "hu": "Air Jump Metz",
             "ro": "Air Jump Metz",
-            "en": "Air Jump Metz"
+            "en": "Air Jump Metz",
+            "fr": "Air Jump Metz"
           },
           "coords": [
             6.107388,
@@ -811,7 +896,8 @@
             "de": "Powern Sie sich in diesem riesigen Trampolinpark aus, der für alle Altersgruppen geeignet ist, und buchen Sie online im Voraus, um Wartezeiten zu vermeiden.",
             "hu": "Vezesse le az energiáit ebben a minden korosztály számára megfelelő trambulinparkban, de mindenképpen foglaljon időpontot online a sorban állás elkerülésére.",
             "ro": "Consumați-vă energia în acest parc masiv de trambuline potrivit pentru toate vârstele și rezervați biletul online în avans pentru a evita cozile.",
-            "en": "Bounce your energy away at this massive trampoline park suitable for all ages, and book your jumping slot online in advance to avoid waiting in line."
+            "en": "Bounce your energy away at this massive trampoline park suitable for all ages, and book your jumping slot online in advance to avoid waiting in line.",
+            "fr": "Défoulez-vous dans ce gigantesque parc de trampolines adapté à tous les âges, et réservez votre créneau en ligne à l'avance pour éviter l'attente."
           }
         }
       ],
@@ -819,7 +905,8 @@
         "de": "Fahren Sie morgens zur Église Saint-Rémy, um das schöne Licht zu genießen. Mittags erkunden Sie die Kirche Saint-Martin und die atemberaubenden Ruinen des römischen Aquädukts. Nachmittags besuchen Sie den Espace Marie et Mathias und die nahegelegene Kirche. Der Nachmittag bietet dann Action pur bei Les Acrobates und Air Jump Metz.",
         "hu": "Autózzon az északi Église Saint-Rémy templomhoz a szép reggeli fényekért. Délben fedezze fel a Saint-Martin templomot és a lélegzetelállító római vízvezeték romjait. Délután látogasson el az Espace Marie et Mathias parkba és a közeli templomba. A késő délután pedig izgalmas családi programokat kínál a trambulinparkokban.",
         "ro": "Conduceți la Biserica Saint-Rémy dimineața pentru cea mai bună lumină. La prânz, explorați Biserica Saint-Martin și ruinele uluitoare ale apeductului roman. După-amiaza, vizitați Espace Marie et Mathias și biserica din apropiere. După-amiaza târziu schimbă complet ritmul, cu distracție în familie la Les Acrobates și Air Jump Metz.",
-        "en": "Drive to the northern Église Saint-Rémy to start your day with lovely morning light. Midday involves exploring the town's core at Saint-Martin Church, followed by the breathtaking Roman Aqueduct ruins. In the afternoon, visit the Espace Marie et Mathias and the nearby church for quiet reflection. The later part of the day shifts gear completely with family fun at Les Acrobates and Air Jump Metz."
+        "en": "Drive to the northern Église Saint-Rémy to start your day with lovely morning light. Midday involves exploring the town's core at Saint-Martin Church, followed by the breathtaking Roman Aqueduct ruins. In the afternoon, visit the Espace Marie et Mathias and the nearby church for quiet reflection. The later part of the day shifts gear completely with family fun at Les Acrobates and Air Jump Metz.",
+        "fr": "Partez en voiture jusqu'à l'Église Saint-Rémy au nord pour commencer la journée avec une belle lumière matinale. À midi, explorez le cœur de la ville à l'Église Saint-Martin, puis découvrez les ruines impressionnantes de l'Aqueduc romain. L'après-midi, visitez l'Espace Marie et Mathias et l'église voisine pour une réflexion tranquille. La fin de journée change complètement d'ambiance avec des activités familiales aux Acrobates et à Air Jump Metz."
       },
       "variants": {
         "rainy": {
@@ -827,7 +914,8 @@
             "de": "Eine Autotour ist ideal für Regentage. Starten Sie trocken bei Saint-Rémy. Mittags bieten das Aquädukt und die Kirchen beeindruckende Stopps ohne langes Laufen im Regen. Der Nachmittag in den Indoor-Anlagen 'Les Acrobates' und 'Air Jump' ist die perfekte Lösung, um aktiv zu bleiben, während es draußen stürmt. Der Tag endet entspannt und trocken im Fahrzeug.",
             "hu": "Az autós túra ideális választás esős napokra. Kezdjen szárazon a Saint-Rémy templomnál. Napközben a vízvezeték és a templomok lenyűgöző megállókat kínálnak hosszú ázás nélkül. A délutáni program a 'Les Acrobates' és 'Air Jump' fedett pályáin tökéletes az aktív kikapcsolódáshoz a viharos időben is. A nap kényelmesen és szárazon ér véget az autóban.",
             "ro": "Un tur cu mașina este ideal pentru zilele ploioase. Începeți uscat la Saint-Rémy. La prânz, apeductul și bisericile oferă opriri impresionante fără a sta mult în ploaie. După-amiaza la centrele indoor 'Les Acrobates' și 'Air Jump' este soluția perfectă pentru a rămâne activ în timp ce afară este furtună. Ziua se încheie relaxat și uscat în vehicul.",
-            "en": "A car tour is ideal for rainy days. Start dry at Saint-Rémy. At noon, the aqueduct and churches offer impressive stops without long walks in the rain. The afternoon at 'Les Acrobates' and 'Air Jump' indoor facilities is the perfect solution to stay active while it's stormy outside. The day ends relaxed and dry in the vehicle."
+            "en": "A car tour is ideal for rainy days. Start dry at Saint-Rémy. At noon, the aqueduct and churches offer impressive stops without long walks in the rain. The afternoon at 'Les Acrobates' and 'Air Jump' indoor facilities is the perfect solution to stay active while it's stormy outside. The day ends relaxed and dry in the vehicle.",
+            "fr": "Un circuit en voiture est idéal les jours de pluie. Commencez au sec à Saint-Rémy. À midi, l'aqueduc et les églises offrent des arrêts impressionnants sans longues marches sous la pluie. L'après-midi, les structures intérieures 'Les Acrobates' et 'Air Jump' sont la solution parfaite pour rester actif pendant l'orage. La journée se termine détendue et au sec dans le véhicule."
           },
           "stops": [
             {
@@ -835,13 +923,15 @@
                 "de": "Kirche Saint-Rémy",
                 "hu": "Saint-Rémy templom",
                 "ro": "Biserica Saint-Rémy",
-                "en": "Saint-Rémy Church"
+                "en": "Saint-Rémy Church",
+                "fr": "Église Saint-Rémy"
               },
               "tip_5lang": {
                 "de": "Parken Sie so nah wie möglich am Eingang, um den kurzen Weg durch den Regen trocken zu überbrücken und die Architektur zu genießen.",
                 "hu": "Parkoljon a lehető legközelebb a bejárathoz, hogy az eső ellenére is szárazon juthasson be az épületbe megcsodálni az építészetet.",
                 "ro": "Parcați cât mai aproape de intrare pentru a parcurge drumul scurt prin ploaie cât mai uscat și pentru a vă bucura de arhitectură.",
-                "en": "Park as close as possible to the entrance to bridge the short distance through the rain dry and enjoy the architecture."
+                "en": "Park as close as possible to the entrance to bridge the short distance through the rain dry and enjoy the architecture.",
+                "fr": "Garez-vous le plus près possible de l'entrée pour raccourcir la distance sous la pluie et profiter de l'architecture."
               }
             },
             {
@@ -849,13 +939,15 @@
                 "de": "Kirche Saint-Martin",
                 "hu": "Saint-Martin templom",
                 "ro": "Biserica Saint-Martin",
-                "en": "Saint-Martin Church"
+                "en": "Saint-Martin Church",
+                "fr": "Église Saint-Martin"
               },
               "tip_5lang": {
                 "de": "Lassen Sie Ihren Schirm im Vorraum abtropfen, damit das Kircheninnere trocken bleibt, während Sie die sakrale Kunst betrachten.",
                 "hu": "Hagyja az esernyőjét az előtérben lecsepegni, hogy a templom belseje száraz maradjon, miközben ön a szakrális művészetben gyönyörködik.",
                 "ro": "Lăsați umbrela la scurs în pridvor pentru ca interiorul bisericii să rămână uscat în timp ce priviți arta sacră.",
-                "en": "Let your umbrella drip dry in the porch so the church interior stays dry while you view the sacred art."
+                "en": "Let your umbrella drip dry in the porch so the church interior stays dry while you view the sacred art.",
+                "fr": "Laissez votre parapluie égoutter dans le porche afin que l'intérieur de l'église reste sec pendant que vous admirez l'art sacré."
               }
             },
             {
@@ -863,13 +955,15 @@
                 "de": "Römisches Aquädukt Gorze-Metz",
                 "hu": "Gorze-Metz római vízvezeték",
                 "ro": "Apeductul roman Gorze-Metz",
-                "en": "Gorze-Metz Roman Aqueduct"
+                "en": "Gorze-Metz Roman Aqueduct",
+                "fr": "Aqueduc romain de Gorze-Metz"
               },
               "tip_5lang": {
                 "de": "Genießen Sie den Blick auf das Bauwerk zunächst aus dem warmen Auto und nutzen Sie eine Regenpause für einen kurzen Fotostopp.",
                 "hu": "Élvezze a kilátást az építményre először a meleg autóból, majd használjon ki egy esőszünetet egy rövid fotózáshoz.",
                 "ro": "Bucurați-vă de vederea asupra structurii mai întâi din mașina caldă și profitați de o pauză de ploaie pentru o scurtă oprire foto.",
-                "en": "Enjoy the view of the structure first from the warm car and use a break in the rain for a quick photo stop."
+                "en": "Enjoy the view of the structure first from the warm car and use a break in the rain for a quick photo stop.",
+                "fr": "Appréciez d'abord la vue de la structure depuis la voiture chauffée et profitez d'une accalmie dans la pluie pour un arrêt photo rapide."
               }
             },
             {
@@ -877,13 +971,15 @@
                 "de": "Park Espace Marie et Mathias",
                 "hu": "Espace Marie et Mathias park",
                 "ro": "Parcul Espace Marie et Mathias",
-                "en": "Espace Marie et Mathias Park"
+                "en": "Espace Marie et Mathias Park",
+                "fr": "Parc Espace Marie et Mathias"
               },
               "tip_5lang": {
                 "de": "Bleiben Sie für einen kurzen Rundblick im befestigten Bereich des Parkplatzes, um nasse Füße im aufgeweichten Gras zu vermeiden.",
                 "hu": "Maradjon a parkoló szilárd burkolatú részén egy rövid körbetekintésre, hogy elkerülje a vizes lábakat a felázott fűben.",
                 "ro": "Rămâneți în zona pavată a parcării pentru o scurtă privire de ansamblu, pentru a evita udarea picioarelor în iarba îmbibată cu apă.",
-                "en": "Stay in the paved area of the parking lot for a quick look around to avoid wet feet in the soaked grass."
+                "en": "Stay in the paved area of the parking lot for a quick look around to avoid wet feet in the soaked grass.",
+                "fr": "Restez sur la zone goudronnée du parking pour un rapide tour afin d'éviter les pieds mouillés dans l'herbe trempée."
               }
             },
             {
@@ -891,13 +987,15 @@
                 "de": "Mariä-Himmelfahrt-Kirche",
                 "hu": "Nagyboldogasszony-templom",
                 "ro": "Biserica Adormirea Maicii Domnului",
-                "en": "Church of the Assumption"
+                "en": "Church of the Assumption",
+                "fr": "Église de l'Assomption"
               },
               "tip_5lang": {
                 "de": "Nutzen Sie den Halt für eine trockene Besichtigung und bewundern Sie die Innenausstattung, während draußen der Regen gegen die Fenster peitscht.",
                 "hu": "Használja ki a megállót egy száraz látogatásra, és csodálja meg a belső teret, miközben odakint az eső veri az ablakokat.",
                 "ro": "Profitați de oprire pentru o vizită uscată și admirați interiorul în timp ce afară ploaia bate în ferestre.",
-                "en": "Use the stop for a dry visit and admire the interior while outside the rain lashes against the windows."
+                "en": "Use the stop for a dry visit and admire the interior while outside the rain lashes against the windows.",
+                "fr": "Profitez de l'arrêt pour une visite au sec et admirez l'intérieur pendant que la pluie frappe les vitres dehors."
               }
             },
             {
@@ -905,13 +1003,15 @@
                 "de": "Les Acrobates",
                 "hu": "Les Acrobates",
                 "ro": "Les Acrobates",
-                "en": "Les Acrobates"
+                "en": "Les Acrobates",
+                "fr": "Les Acrobates"
               },
               "tip_5lang": {
                 "de": "Der perfekte Ort für Kinder bei Regen; hier können sie sich im Trockenen austoben, während das Wetter draußen ungemütlich ist.",
                 "hu": "Tökéletes hely gyerekeknek esőben; itt szárazon vezetheti le az energiáikat, miközben odakint barátságtalan az időjárás.",
                 "ro": "Locul perfect pentru copii pe ploaie; aici se pot juca în voie la uscat, în timp ce vremea de afară este neplăcută.",
-                "en": "The perfect place for kids in the rain; here they can let off steam in the dry while the weather outside is unpleasant."
+                "en": "The perfect place for kids in the rain; here they can let off steam in the dry while the weather outside is unpleasant.",
+                "fr": "L'endroit parfait pour les enfants sous la pluie ; ici ils peuvent se défouler au sec pendant que le temps est désagréable dehors."
               }
             },
             {
@@ -919,13 +1019,15 @@
                 "de": "Air Jump Metz",
                 "hu": "Air Jump Metz",
                 "ro": "Air Jump Metz",
-                "en": "Air Jump Metz"
+                "en": "Air Jump Metz",
+                "fr": "Air Jump Metz"
               },
               "tip_5lang": {
                 "de": "Beenden Sie den regnerischen Tag mit Action in dieser Halle, wo Sie die Nässe draußen völlig vergessen können.",
                 "hu": "Zárja az esős napot akcióval ebben a csarnokban, ahol teljesen elfelejtheti a kinti nedvességet és szürkeséget.",
                 "ro": "Încheiați ziua ploioasă cu acțiune în această hală, unde puteți uita complet de umezeala de afară.",
-                "en": "End the rainy day with action in this hall, where you can completely forget the wetness outside."
+                "en": "End the rainy day with action in this hall, where you can completely forget the wetness outside.",
+                "fr": "Terminez la journée pluvieuse par de l'action dans cette salle, où l'on peut totalement oublier l'humidité extérieure."
               }
             }
           ]
@@ -935,7 +1037,8 @@
             "de": "Die winterliche Autotour bietet Komfort und Wärme zwischen den Stopps. Der frostige Morgen beginnt an der Saint-Rémy Kirche. Mittags ist das Aquädukt im klaren Winterlicht ein Highlight, bevor die Kälte zu beißend wird. Der Nachmittag in den beheizten Familienzentren ist ideal, um der frühen Dunkelheit ab 17:00 Uhr zu entfliehen. Ein gemütlicher Abschluss für die ganze Familie.",
             "hu": "A téli autós túra kényelmet és meleget nyújt a megállók között. A fagyos reggel a Saint-Rémy templomnál indul. Napközben a vízvezeték a tiszta téli fényben igazi fénypont, mielőtt a hideg túl metszővé válna. A délután a fűtött családi központokban ideális a korai sötétedés elől való menekülésre. Kellemes zárás az egész családnak.",
             "ro": "Turul cu mașina pe timp de iarnă oferă confort și căldură între opriri. Dimineața geroasă începe la biserica Saint-Rémy. La prânz, apeductul în lumina clară a iernii este un punct culminant. După-amiaza în centrele familiale încălzite este ideală pentru a scăpa de întunericul timpuriu de la ora 17:00. Un final plăcut pentru întreaga familie.",
-            "en": "The winter car tour offers comfort and warmth between stops. The frosty morning starts at Saint-Rémy Church. At noon, the aqueduct in clear winter light is a highlight before the cold becomes too biting. The afternoon in the heated family centers is ideal to escape the early darkness starting at 5:00 PM. A cozy finish for the whole family."
+            "en": "The winter car tour offers comfort and warmth between stops. The frosty morning starts at Saint-Rémy Church. At noon, the aqueduct in clear winter light is a highlight before the cold becomes too biting. The afternoon in the heated family centers is ideal to escape the early darkness starting at 5:00 PM. A cozy finish for the whole family.",
+            "fr": "La visite hivernale en voiture offre confort et chaleur entre les étapes. La matinée froide commence à l'Église Saint-Rémy. À midi, l'aqueduc sous une lumière hivernale claire est un point fort avant que le froid ne devienne trop mordant. L'après-midi dans les centres familiaux chauffés est idéal pour échapper à l'obscurité précoce qui commence à 17:00. Une fin de journée conviviale pour toute la famille."
           },
           "stops": [
             {
@@ -943,13 +1046,15 @@
                 "de": "Kirche Saint-Rémy",
                 "hu": "Saint-Rémy templom",
                 "ro": "Biserica Saint-Rémy",
-                "en": "Saint-Rémy Church"
+                "en": "Saint-Rémy Church",
+                "fr": "Église Saint-Rémy"
               },
               "tip_5lang": {
                 "de": "Genießen Sie den kurzen Weg vom geheizten Auto in die Kirche und bewundern Sie die Architektur in der ruhigen Winteratmosphäre.",
                 "hu": "Élvezze a rövid utat a fűtött autóból a templomba, és csodálja meg az építészetet a nyugodt téli atmoszférában.",
                 "ro": "Bucurați-vă de drumul scurt de la mașina încălzită până la biserică și admirați arhitectura în atmosfera liniștită de iarnă.",
-                "en": "Enjoy the short walk from the heated car to the church and admire the architecture in the quiet winter atmosphere."
+                "en": "Enjoy the short walk from the heated car to the church and admire the architecture in the quiet winter atmosphere.",
+                "fr": "Appréciez la courte marche depuis la voiture chauffée jusqu'à l'église et admirez l'architecture dans la paisible atmosphère hivernale."
               }
             },
             {
@@ -957,13 +1062,15 @@
                 "de": "Kirche Saint-Martin",
                 "hu": "Saint-Martin templom",
                 "ro": "Biserica Saint-Martin",
-                "en": "Saint-Martin Church"
+                "en": "Saint-Martin Church",
+                "fr": "Église Saint-Martin"
               },
               "tip_5lang": {
                 "de": "Nutzen Sie den Stopp für eine spirituelle Pause im windgeschützten Inneren, bevor Sie die Fahrt durch die Winterlandschaft fortsetzen.",
                 "hu": "Használja ki a megállót egy spirituális pihenőre a szélvédett belső térben, mielőtt folytatná útját a téli tájon át.",
                 "ro": "Folosiți oprirea pentru o pauză spirituală în interiorul protejat de vânt, înainte de a continua drumul prin peisajul de iarnă.",
-                "en": "Use the stop for a spiritual break in the wind-protected interior before continuing your drive through the winter landscape."
+                "en": "Use the stop for a spiritual break in the wind-protected interior before continuing your drive through the winter landscape.",
+                "fr": "Profitez de l'arrêt pour une pause spirituelle à l'abri du vent avant de poursuivre votre trajet à travers le paysage hivernal."
               }
             },
             {
@@ -971,13 +1078,15 @@
                 "de": "Römisches Aquädukt Gorze-Metz",
                 "hu": "Gorze-Metz római vízvezeték",
                 "ro": "Apeductul roman Gorze-Metz",
-                "en": "Gorze-Metz Roman Aqueduct"
+                "en": "Gorze-Metz Roman Aqueduct",
+                "fr": "Aqueduc romain de Gorze-Metz"
               },
               "tip_5lang": {
                 "de": "Vorsicht bei der Zufahrt und beim Parken auf möglicherweise vereisten Flächen in der Nähe dieses antiken Denkmals.",
                 "hu": "Vigyázzon a megközelítéskor és a parkoláskor az esetlegesen jeges felületekre az antik emlékmű közelében.",
                 "ro": "Atenție la acces și parcare pe suprafețele posibil înghețate din apropierea acestui monument antic.",
-                "en": "Be careful when approaching and parking on potentially icy surfaces near this ancient monument."
+                "en": "Be careful when approaching and parking on potentially icy surfaces near this ancient monument.",
+                "fr": "Faites attention en vous approchant et en vous garant sur des surfaces potentiellement verglacées près de ce monument ancien."
               }
             },
             {
@@ -985,13 +1094,15 @@
                 "de": "Park Espace Marie et Mathias",
                 "hu": "Espace Marie et Mathias park",
                 "ro": "Parcul Espace Marie et Mathias",
-                "en": "Espace Marie et Mathias Park"
+                "en": "Espace Marie et Mathias Park",
+                "fr": "Parc Espace Marie et Mathias"
               },
               "tip_5lang": {
                 "de": "Ein kurzer Blick auf den gefrorenen Park lohnt sich; bleiben Sie danach im warmen Auto, um die Aussicht weiter zu genießen.",
                 "hu": "Érdemes egy rövid pillantást vetni a fagyott parkra, majd maradjon a meleg autóban, hogy tovább élvezze a kilátást.",
                 "ro": "O scurtă privire asupra parcului înghețat merită; după aceea rămâneți în mașina caldă pentru a vă bucura de priveliște.",
-                "en": "A quick look at the frozen park is worth it; afterwards stay in the warm car to continue enjoying the view."
+                "en": "A quick look at the frozen park is worth it; afterwards stay in the warm car to continue enjoying the view.",
+                "fr": "Un rapide coup d'œil au parc gelé en vaut la peine ; restez ensuite dans la voiture chaude pour continuer à profiter du paysage."
               }
             },
             {
@@ -999,13 +1110,15 @@
                 "de": "Mariä-Himmelfahrt-Kirche",
                 "hu": "Nagyboldogasszony-templom",
                 "ro": "Biserica Adormirea Maicii Domnului",
-                "en": "Church of the Assumption"
+                "en": "Church of the Assumption",
+                "fr": "Église de l'Assomption"
               },
               "tip_5lang": {
                 "de": "Besuchen Sie diesen Ort für einen Moment der Stille, während das warme Licht im Inneren einen schönen Kontrast zur Winterkälte draußen bildet.",
                 "hu": "Látogasson el ide egy pillanatnyi csendre, miközben a benti meleg fények szép kontrasztot alkotnak a kinti téli hideggel.",
                 "ro": "Vizitați acest loc pentru un moment de liniște, în timp ce lumina caldă din interior oferă un contrast frumos cu frigul iernii de afară.",
-                "en": "Visit this place for a moment of silence while the warm lights inside create a beautiful contrast to the winter cold outside."
+                "en": "Visit this place for a moment of silence while the warm lights inside create a beautiful contrast to the winter cold outside.",
+                "fr": "Visitez ce lieu pour un moment de silence pendant que les lumières chaudes à l'intérieur créent un beau contraste avec le froid hivernal extérieur."
               }
             },
             {
@@ -1013,13 +1126,15 @@
                 "de": "Les Acrobates",
                 "hu": "Les Acrobates",
                 "ro": "Les Acrobates",
-                "en": "Les Acrobates"
+                "en": "Les Acrobates",
+                "fr": "Les Acrobates"
               },
               "tip_5lang": {
                 "de": "In der kalten Jahreszeit die ideale Zuflucht für Familien, um sich in einer gut beheizten Umgebung sportlich zu betätigen.",
                 "hu": "A hideg évszakban ideális menedék családoknak, hogy jól fűtött környezetben mozoghassanak és játsszanak.",
                 "ro": "În sezonul rece, refugiul ideal pentru familii, pentru a face mișcare și a se juca într-un mediu bine încălzit.",
-                "en": "In the cold season, the ideal refuge for families to be active and play in a well-heated environment."
+                "en": "In the cold season, the ideal refuge for families to be active and play in a well-heated environment.",
+                "fr": "En saison froide, le refuge idéal pour que les familles restent actives et jouent dans un environnement bien chauffé."
               }
             },
             {
@@ -1027,13 +1142,15 @@
                 "de": "Air Jump Metz",
                 "hu": "Air Jump Metz",
                 "ro": "Air Jump Metz",
-                "en": "Air Jump Metz"
+                "en": "Air Jump Metz",
+                "fr": "Air Jump Metz"
               },
               "tip_5lang": {
                 "de": "Nutzen Sie die hell erleuchtete Halle als perfekten Abschluss, um der frühen winterlichen Dunkelheit aktiv zu begegnen.",
                 "hu": "Használja a világos csarnokot tökéletes zárásként, hogy aktívan tölthesse el a korai téli sötétség óráit.",
                 "ro": "Folosiți hala bine luminată ca final perfect pentru a înfrunta activ întunericul timpuriu de iarnă.",
-                "en": "Use the brightly lit hall as a perfect finish to actively face the early winter darkness."
+                "en": "Use the brightly lit hall as a perfect finish to actively face the early winter darkness.",
+                "fr": "Profitez de la salle bien éclairée comme d’une excellente manière de terminer la journée et d’affronter activement l’obscurité hivernale naissante."
               }
             }
           ]

@@ -21,7 +21,8 @@
             "de": "Place du 8 Mai 1945",
             "hu": "Place du 8 Mai 1945",
             "ro": "Place du 8 Mai 1945",
-            "en": "Place du 8 Mai 1945"
+            "en": "Place du 8 Mai 1945",
+            "fr": "Place du 8 Mai 1945"
           },
           "coords": [
             4.927747,
@@ -36,7 +37,8 @@
             "de": "Bewundern Sie das zentrale Treiben an diesem historischen Platz der Befreiung und genießen Sie einen entspannten Kaffee auf einer der sonnigen Terrassen.",
             "hu": "Csodálja meg a város központi életét ezen a felszabadulásra emlékező történelmi téren, és tartson egy rövid pihenőt egy napos terasz kávézójában.",
             "ro": "Admirați viața centrală a orașului în această piață istorică a eliberării și luați o pauză binemeritată la o cafenea cu terasă însorită din apropiere.",
-            "en": "Admire the central life of the town at this historic square, which commemorates liberation, and take a moment to sip coffee at a nearby sunny terrace."
+            "en": "Admire the central life of the town at this historic square, which commemorates liberation, and take a moment to sip coffee at a nearby sunny terrace.",
+            "fr": "Admirez la vie centrale de la ville sur cette place historique qui commémore la libération, et prenez un moment pour siroter un café sur une terrasse ensoleillée à proximité."
           }
         },
         {
@@ -44,7 +46,8 @@
             "de": "Pont sur la Sorgue",
             "hu": "Pont sur la Sorgue",
             "ro": "Pont sur la Sorgue",
-            "en": "Pont sur la Sorgue"
+            "en": "Pont sur la Sorgue",
+            "fr": "Pont sur la Sorgue"
           },
           "coords": [
             4.931189,
@@ -59,7 +62,8 @@
             "de": "Überqueren Sie diese charmante Brücke über die Sorgue für malerische Ausblicke auf das Wasser, aber achten Sie bei starkem Mistralwind auf Ihren Hut.",
             "hu": "Sétáljon át a Sorgue folyó ezen a bájos hídján, hogy élvezze a festői vízi kilátást, de erős misztrál szél esetén mindenképpen fogja meg a kalapját.",
             "ro": "Traversați acest pod fermecător peste râul Sorgue pentru a admira priveliștile pitorești, dar aveți grijă la pălării atunci când bate vântul mistral.",
-            "en": "Cross this charming bridge over the Sorgue river to enjoy picturesque water views, but be sure to hold onto your hat during the strong mistral winds."
+            "en": "Cross this charming bridge over the Sorgue river to enjoy picturesque water views, but be sure to hold onto your hat during the strong mistral winds.",
+            "fr": "Traversez ce charmant pont sur la Sorgue pour profiter de vues pittoresques sur l'eau, mais accrochez votre chapeau quand le mistral souffle fort."
           }
         },
         {
@@ -67,7 +71,8 @@
             "de": "Berges de la Sorgue",
             "hu": "Berges de la Sorgue",
             "ro": "Berges de la Sorgue",
-            "en": "Berges de la Sorgue"
+            "en": "Berges de la Sorgue",
+            "fr": "Berges de la Sorgue"
           },
           "coords": [
             4.922707,
@@ -82,7 +87,8 @@
             "de": "Spazieren Sie entlang der ruhigen, naturbelassenen und grünen Flussufer, was diesen Ort ideal für einen friedlichen Morgenspaziergang macht.",
             "hu": "Sétáljon a buja növényzettel körülvett, nyugodt folyóparton, amely tökéletes helyszínt biztosít egy békés reggeli sétához és madármegfigyeléshez.",
             "ro": "Plimbați-vă de-a lungul malurilor naturale liniștite, înconjurate de verdeață luxuriantă, locul perfect pentru o dimineață relaxantă la pas.",
-            "en": "Walk along the tranquil natural riverbanks surrounded by lush greenery, making it the perfect spot for a peaceful morning stroll and some birdwatching."
+            "en": "Walk along the tranquil natural riverbanks surrounded by lush greenery, making it the perfect spot for a peaceful morning stroll and some birdwatching.",
+            "fr": "Promenez‑vous le long des berges naturelles et tranquilles entourées d'une végétation luxuriante, un endroit idéal pour une balade matinale paisible et de l'observation d'oiseaux."
           }
         },
         {
@@ -90,7 +96,8 @@
             "de": "Square Les Jardins",
             "hu": "Square Les Jardins",
             "ro": "Square Les Jardins",
-            "en": "Square Les Jardins"
+            "en": "Square Les Jardins",
+            "fr": "Square Les Jardins"
           },
           "coords": [
             4.907139,
@@ -105,7 +112,8 @@
             "de": "Entdecken Sie diese charmante grüne Oase, in der sich Einheimische entspannen und Familien viel Schatten finden, also bringen Sie Wasser und Snacks mit.",
             "hu": "Fedezze fel ezt a bájos lakossági zöldterületet, ahol a helyiek is kikapcsolódnak; árnyékos pihenőt kínál, ezért érdemes vizet és rágcsálnivalót hozni.",
             "ro": "Descoperiți acest spațiu verde fermecător unde se relaxează localnicii, oferind un refugiu umbros pentru familii, așa că aduceți apă și o gustare.",
-            "en": "Discover this charming residential green space where locals relax, offering a nice shady retreat for families, so bring some water and a light snack."
+            "en": "Discover this charming residential green space where locals relax, offering a nice shady retreat for families, so bring some water and a light snack.",
+            "fr": "Découvrez cet agréable espace vert résidentiel où les locaux se détendent, offrant un joli refuge ombragé pour les familles ; apportez de l'eau et une collation légère."
           }
         },
         {
@@ -113,7 +121,8 @@
             "de": "Ancien Lavoir",
             "hu": "Ancien Lavoir",
             "ro": "Ancien Lavoir",
-            "en": "Ancien Lavoir"
+            "en": "Ancien Lavoir",
+            "fr": "Ancien Lavoir"
           },
           "coords": [
             4.940336,
@@ -128,7 +137,8 @@
             "de": "Erkunden Sie dieses gut erhaltene historische Waschhaus, das vom provenzalischen Alltag erzählt, und bewundern Sie die typisch robuste Steinarchitektur.",
             "hu": "Fedezze fel ezt a jól megőrzött történelmi mosóházat, amely a mindennapi provence-i életről mesél, és figyelje meg a régió jellegzetes kőépítészetét.",
             "ro": "Explorați această spălătorie istorică bine conservată care povestește despre viața cotidiană provensală și remarcați arhitectura robustă din piatră.",
-            "en": "Explore this well-preserved historic washhouse that tells the story of daily Provencal life, and notice the robust stone architecture typical of the region."
+            "en": "Explore this well-preserved historic washhouse that tells the story of daily Provencal life, and notice the robust stone architecture typical of the region.",
+            "fr": "Explorez ce lavoir historique bien préservé qui raconte la vie quotidienne provençale, et remarquez la robuste architecture en pierre typique de la région."
           }
         }
       ],
@@ -136,7 +146,8 @@
         "de": "Beginnen Sie den Tag am historischen Platz und genießen Sie das Morgenlicht. Ein kurzer Spaziergang führt zur Brücke über die Sorgue, wo Sie das klare Wasser beobachten können.\n\nSpazieren Sie an den friedlichen Flussufern entlang, umgeben von üppiger Vegetation. Dieser schattige Bereich ist perfekt für eine entspannte Mittagspause.\n\nGehen Sie weiter in die südlichen Viertel, um eine schöne lokale Grünfläche zu entdecken. Der Park bietet Einblicke in den Alltag mit Platz zum Ausruhen.\n\nBeenden Sie die Tour mit einem Besuch des historischen Waschhauses. Die alten Steine leuchten in der Abenddämmerung warm und bieten einen besinnlichen Abschluss.",
         "hu": "Kezdje a napot a történelmi téren, élvezve a reggeli fényeket. Egy rövid séta elvezet a Sorgue feletti hídhoz, ahol megfigyelheti a tiszta vizet.\n\nSétáljon a békés folyóparton, buja növényzettel körülvéve. Ez az árnyékos terület tökéletes egy nyugodt déli pihenőhöz, távol a központtól.\n\nFolytassa útját a déli negyedek felé, és fedezzen fel egy szép helyi zöldterületet. A park bepillantást enged a mindennapi életbe.\n\nZárja a napot a történelmi mosóház meglátogatásával, amely a régió örökségét őrzi. Az öreg kövek melegen ragyognak alkonyatkor, békés befejezést kínálva.",
         "ro": "Începeți ziua în piața istorică, bucurându-vă de lumina dimineții. O scurtă plimbare duce la podul peste râul Sorgue, unde puteți privi apele limpezi.\n\nPlimbați-vă de-a lungul malurilor pașnice ale râului, înconjurați de vegetație luxuriantă. Această zonă umbrită este perfectă pentru o pauză relaxantă la prânz.\n\nContinuați spre cartierele sudice pentru a descoperi un spațiu verde minunat. Parcul oferă o privire în viața de zi cu zi și un loc bun de odihnă.\n\nÎncheiați cu o vizită la spălătoria istorică, o mărturie a patrimoniului local. Pietrele vechi strălucesc cald la amurg, oferind un final liniștit.",
-        "en": "Start the day at the historic square, soaking in the morning light. A short walk leads to the bridge over the Sorgue, where you can watch the clear waters flow.\n\nStroll along the peaceful riverbanks, surrounded by lush vegetation. This shaded area is perfect to enjoy a relaxed midday break away from the town center.\n\nContinue towards the southern neighborhoods to discover a lovely local green space. The park offers a glimpse into daily life with room to rest under mature trees.\n\nConclude with a visit to the historic washhouse, a testament to the region's heritage. The old stones glow warmly at dusk, offering a reflective end to the tour."
+        "en": "Start the day at the historic square, soaking in the morning light. A short walk leads to the bridge over the Sorgue, where you can watch the clear waters flow.\n\nStroll along the peaceful riverbanks, surrounded by lush vegetation. This shaded area is perfect to enjoy a relaxed midday break away from the town center.\n\nContinue towards the southern neighborhoods to discover a lovely local green space. The park offers a glimpse into daily life with room to rest under mature trees.\n\nConclude with a visit to the historic washhouse, a testament to the region's heritage. The old stones glow warmly at dusk, offering a reflective end to the tour.",
+        "fr": "Commencez la journée sur la place historique en profitant de la lumière du matin. Une courte promenade mène au pont sur la Sorgue, où l'on peut observer les eaux claires.\n\nPromenez‑vous le long des berges paisibles, entourées d'une végétation luxuriante. Cet espace ombragé est parfait pour une pause de midi tranquille, à l'écart du centre-ville.\n\nContinuez vers les quartiers sud pour découvrir un charmant espace vert local. Le parc offre un aperçu de la vie quotidienne avec des places pour se reposer sous de grands arbres.\n\nTerminez par une visite à l'ancien lavoir, témoignage du patrimoine régional. Les pierres anciennes prennent une teinte chaleureuse au crépuscule, offrant une fin contemplative à la balade."
       },
       "variants": {
         "rainy": {
@@ -144,7 +155,8 @@
             "de": "Der Morgen beginnt auf dem regenbenetzten Hauptplatz unter einem Regenschirm. Mittags bietet die Sorgue-Brücke einen stimmungsvollen Blick auf das angeschwollene Wasser. Am Nachmittag sind die Uferwege der Sorgue üppig grün, aber Vorsicht vor rutschigem Schlamm. Der Tag endet trocken im historischen Waschhaus. Tragen Sie wasserfeste Schuhe für diesen atmosphärischen Spaziergang.",
             "hu": "A reggel az eső áztatta főtéren indul, ernyővel a kézben. Délben a Sorgue hídja hangulatos kilátást nyújt a megduzzadt folyóra. Délután a folyóparti ösvények üde zöldek, de vigyázzon a csúszós sárral. A nap végén a történelmi mosóház nyújt száraz menedéket. Viseljen vízálló cipőt ehhez a hangulatos provence-i sétához.",
             "ro": "Dimineața începe în piața principală udă de ploaie, sub umbrelă. La prânz, podul Sorgue oferă o vedere atmosferică asupra apei umflate. După-amiaza, potecile de pe malul râului sunt de un verde crud, dar atenție la noroiul alunecos. Ziua se încheie la adăpost în vechiul lavoar. Purtați încălțăminte impermeabilă pentru această plimbare poetică în Provence.",
-            "en": "The morning begins on the rain-slicked main square under an umbrella. At noon, the Sorgue bridge offers an atmospheric view of the swollen river. In the afternoon, the riverbank paths are lush and green, but beware of slippery mud. The day ends dry inside the historic wash house. Wear waterproof shoes for this moody Provencal walk through the misty town."
+            "en": "The morning begins on the rain-slicked main square under an umbrella. At noon, the Sorgue bridge offers an atmospheric view of the swollen river. In the afternoon, the riverbank paths are lush and green, but beware of slippery mud. The day ends dry inside the historic wash house. Wear waterproof shoes for this moody Provencal walk through the misty town.",
+            "fr": "La matinée commence sur la place principale détrempée sous un parapluie. À midi, le pont de la Sorgue offre une vue d'ambiance sur la rivière en crue. L'après-midi, les sentiers des berges sont luxuriants mais attention à la boue glissante. La journée se termine à l'abri dans l'ancien lavoir. Portez des chaussures imperméables pour cette promenade provençale brumeuse à travers la ville."
           },
           "stops": [
             {
@@ -152,13 +164,15 @@
                 "de": "Place du 8 Mai 1945",
                 "hu": "Place du 8 Mai 1945",
                 "ro": "Place du 8 Mai 1945",
-                "en": "Place du 8 Mai 1945"
+                "en": "Place du 8 Mai 1945",
+                "fr": "Place du 8 Mai 1945"
               },
               "tip_5lang": {
                 "de": "Beobachten Sie das Treiben auf dem Platz vom Schutz der umliegenden Arkaden aus; die nassen Pflastersteine spiegeln die Fassaden wunderschön wider.",
                 "hu": "Figyelje a tér életét a környező árkádok védelméből; a nedves macskakövek gyönyörűen tükrözik vissza a történelmi homlokzatokat.",
                 "ro": "Urmăriți viața pieței din protecția arcadelor din jur; pavajul umed reflectă frumos fațadele istorice în lumina difuză a ploii.",
-                "en": "Watch the square's life from the shelter of nearby arcades; the wet cobblestones beautifully reflect the historic facades during the rain."
+                "en": "Watch the square's life from the shelter of nearby arcades; the wet cobblestones beautifully reflect the historic facades during the rain.",
+                "fr": "Observez la vie de la place depuis l'abri des arcades proches ; les pavés mouillés reflètent magnifiquement les façades historiques sous la pluie."
               }
             },
             {
@@ -166,13 +180,15 @@
                 "de": "Pont sur la Sorgue",
                 "hu": "Pont sur la Sorgue",
                 "ro": "Pont sur la Sorgue",
-                "en": "Pont sur la Sorgue"
+                "en": "Pont sur la Sorgue",
+                "fr": "Pont sur la Sorgue"
               },
               "tip_5lang": {
                 "de": "Die Brücke bietet einen dramatischen Blick auf den rauschenden Fluss; halten Sie sich am Geländer fest, da die Steinstufen bei Nässe glatt sind.",
                 "hu": "A híd drámai kilátást nyújt a rohanó folyóra; kapaszkodjon meg a korlátban, mert a kőlépcsők nedvesen nagyon csúszósak lehetnek.",
                 "ro": "Podul oferă o vedere dramatică asupra râului învolburat; țineți-vă de balustradă, deoarece treptele de piatră pot fi alunecoase când sunt ude.",
-                "en": "The bridge offers a dramatic view of the rushing river; hold onto the railing as the stone steps can be quite slippery when wet."
+                "en": "The bridge offers a dramatic view of the rushing river; hold onto the railing as the stone steps can be quite slippery when wet.",
+                "fr": "Le pont offre une vue dramatique sur la rivière en furie ; tenez‑vous à la rampe car les marches en pierre peuvent être très glissantes quand elles sont mouillées."
               }
             },
             {
@@ -180,13 +196,15 @@
                 "de": "Berges de la Sorgue",
                 "hu": "Berges de la Sorgue",
                 "ro": "Berges de la Sorgue",
-                "en": "Berges de la Sorgue"
+                "en": "Berges de la Sorgue",
+                "fr": "Berges de la Sorgue"
               },
               "tip_5lang": {
                 "de": "Genießen Sie den Duft der feuchten Natur unter den Bäumen, die begrenzten Schutz bieten; bleiben Sie für besseren Halt auf den befestigten Wegen.",
                 "hu": "Élvezze a nedves természet illatát a fák alatt, amelyek korlátozott védelmet nyújtanak; a jobb tapadás érdekében maradjon a burkolt utakon.",
                 "ro": "Bucurați-vă de mirosul naturii umede sub copacii care oferă adăpost limitat; rămâneți pe potecile pavate pentru o aderență mai bună.",
-                "en": "Enjoy the scent of damp nature under the trees which offer limited shelter; stay on the paved sections for better footing in the mud."
+                "en": "Enjoy the scent of damp nature under the trees which offer limited shelter; stay on the paved sections for better footing in the mud.",
+                "fr": "Appréciez l'odeur de la nature humide sous les arbres qui offrent un abri limité ; restez sur les sections pavées pour une meilleure adhérence dans la boue."
               }
             },
             {
@@ -194,13 +212,15 @@
                 "de": "Square Les Jardins",
                 "hu": "Square Les Jardins",
                 "ro": "Square Les Jardins",
-                "en": "Square Les Jardins"
+                "en": "Square Les Jardins",
+                "fr": "Square Les Jardins"
               },
               "tip_5lang": {
                 "de": "Ein kurzer Spaziergang durch den Garten zeigt die herbstliche Pracht im Regen; suchen Sie Unterschlupf unter den großen Platanen bei schweren Güssen.",
                 "hu": "Egy rövid séta a kertben megmutatja az esőben fürdő természet szépségét; heves zápor esetén keressen menedéket a nagy platánfák alatt.",
                 "ro": "O scurtă plimbare prin grădină dezvăluie frumusețea naturii sub ploaie; căutați adăpost sub platanii mari în caz de averse torențiale.",
-                "en": "A short stroll through the garden shows the beauty of nature in the rain; seek cover under the large plane trees during heavy downpours."
+                "en": "A short stroll through the garden shows the beauty of nature in the rain; seek cover under the large plane trees during heavy downpours.",
+                "fr": "Une courte balade dans le jardin révèle la beauté de la nature sous la pluie ; abritez‑vous sous les grands platanes pendant les fortes averses."
               }
             },
             {
@@ -208,13 +228,15 @@
                 "de": "Ancien Lavoir",
                 "hu": "Ancien Lavoir",
                 "ro": "Ancien Lavoir",
-                "en": "Ancien Lavoir"
+                "en": "Ancien Lavoir",
+                "fr": "Ancien Lavoir"
               },
               "tip_5lang": {
                 "de": "Dieses überdachte Denkmal ist der ideale Ort, um dem Regen zu entkommen und gleichzeitig die lokale Geschichte der Wäscherinnen zu erkunden.",
                 "hu": "Ez a fedett műemlék ideális hely az eső elöli menekülésre, miközben felfedezi a helyi mosónők történetét és a víz jelentőségét.",
                 "ro": "Acest monument acoperit este locul ideal pentru a scăpa de ploaie în timp ce explorați istoria locală a spălătoreaselor și rolul apei.",
-                "en": "This covered monument is the ideal spot to escape the rain while exploring local history and the significance of water in the village."
+                "en": "This covered monument is the ideal spot to escape the rain while exploring local history and the significance of water in the village.",
+                "fr": "Ce monument couvert est l’endroit idéal pour échapper à la pluie tout en découvrant l’histoire locale et l’importance de l’eau dans le village."
               }
             }
           ]
@@ -224,7 +246,8 @@
             "de": "Der Wintermorgen ist frisch und klar auf dem Platz des 8. Mai. Mittags wärmt die tiefstehende Sonne die Brücke über die Sorgue. Der Nachmittag am Flussufer ist ruhig und friedlich unter dem kahlen Blätterdach. Da die Sonne bereits um 17:00 Uhr untergeht, endet der Tag am beleuchteten Waschhaus. Kleiden Sie sich in warme Schichten für diesen kühlen, aber sonnigen Rundgang.",
             "hu": "A téli reggel friss és tiszta a főtéren. Délben az alacsony téli nap melengeti a Sorgue feletti hidat. A délután a folyóparton csendes és békés a kopár lombok alatt. Mivel a nap már 17:00-kor lemegy, a nap a kivilágított mosóháznál ér véget. Öltözzön melegen és rétegesen ehhez a hűvös, de napsütéses sétához.",
             "ro": "Dimineața de iarnă este proaspătă și senină în piață. La prânz, soarele slab încălzește podul peste Sorgue. După-amiaza pe malul râului este liniștită sub coronamentul golaș. Deoarece soarele apune la ora 17:00, ziua se încheie la lavoarul iluminat. Îmbrăcați-vă în straturi groase pentru această plimbare răcoroasă dar plăcută.",
-            "en": "The winter morning is crisp and clear on the main square. At noon, the low sun warms the bridge over the Sorgue. The afternoon by the riverbank is quiet and peaceful under the bare branches. As sunset arrives early at 17:00, the day concludes at the illuminated wash house. Dress in warm layers for this chilly but bright winter stroll through the town."
+            "en": "The winter morning is crisp and clear on the main square. At noon, the low sun warms the bridge over the Sorgue. The afternoon by the riverbank is quiet and peaceful under the bare branches. As sunset arrives early at 17:00, the day concludes at the illuminated wash house. Dress in warm layers for this chilly but bright winter stroll through the town.",
+            "fr": "La matinée d’hiver est fraîche et claire sur la place principale. À midi, le soleil bas réchauffe le pont sur la Sorgue. L’après‑midi au bord de la rivière est calme et paisible sous les branches nues. Le coucher de soleil arrivant tôt à 17:00, la journée se termine au lavoir illuminé. Habillez‑vous en couches chaudes pour cette balade hivernale fraîche mais ensoleillée à travers la ville."
           },
           "stops": [
             {
@@ -232,13 +255,15 @@
                 "de": "Place du 8 Mai 1945",
                 "hu": "Place du 8 Mai 1945",
                 "ro": "Place du 8 Mai 1945",
-                "en": "Place du 8 Mai 1945"
+                "en": "Place du 8 Mai 1945",
+                "fr": "Place du 8 Mai 1945"
               },
               "tip_5lang": {
                 "de": "Genießen Sie die klare Winterluft auf dem Platz; ein heißes Getränk in einer der umliegenden Bars ist der perfekte Start in den kalten Morgen.",
                 "hu": "Élvezze a friss téli levegőt a téren; egy forró ital az egyik közeli bárban tökéletes kezdés a hideg reggelen a séta előtt.",
                 "ro": "Bucurați-vă de aerul proaspăt de iarnă din piață; o băutură caldă la unul dintre barurile din jur este începutul perfect pentru o dimineață rece.",
-                "en": "Enjoy the crisp winter air on the square; a hot drink at one of the surrounding bars is the perfect start to a cold morning start."
+                "en": "Enjoy the crisp winter air on the square; a hot drink at one of the surrounding bars is the perfect start to a cold morning start.",
+                "fr": "Profitez de l’air vif de l’hiver sur la place ; une boisson chaude dans l’un des bars alentours est le début parfait d’une matinée froide."
               }
             },
             {
@@ -246,13 +271,15 @@
                 "de": "Pont sur la Sorgue",
                 "hu": "Pont sur la Sorgue",
                 "ro": "Pont sur la Sorgue",
-                "en": "Pont sur la Sorgue"
+                "en": "Pont sur la Sorgue",
+                "fr": "Pont sur la Sorgue"
               },
               "tip_5lang": {
                 "de": "Das eiskalte Wasser der Sorgue wirkt im Winter noch klarer; die Brücke bietet einen großartigen Aussichtspunkt für Fotos bei flachem Licht.",
                 "hu": "A Sorgue jéghideg vize télen még tisztábbnak tűnik; a híd nagyszerű kilátópont a fotózáshoz az alacsonyan járó téli napsütésben.",
                 "ro": "Apa înghețată a râului Sorgue pare și mai limpede iarna; podul oferă un punct de observație excelent pentru fotografii în lumina joasă.",
-                "en": "The ice-cold water of the Sorgue looks even clearer in winter; the bridge provides a great vantage point for photos in the low light."
+                "en": "The ice-cold water of the Sorgue looks even clearer in winter; the bridge provides a great vantage point for photos in the low light.",
+                "fr": "L’eau glacée de la Sorgue paraît encore plus claire en hiver ; le pont offre un excellent point de vue pour des photos dans la faible lumière."
               }
             },
             {
@@ -260,13 +287,15 @@
                 "de": "Berges de la Sorgue",
                 "hu": "Berges de la Sorgue",
                 "ro": "Berges de la Sorgue",
-                "en": "Berges de la Sorgue"
+                "en": "Berges de la Sorgue",
+                "fr": "Berges de la Sorgue"
               },
               "tip_5lang": {
                 "de": "Die entlaubten Bäume geben den Blick auf die Architektur am Fluss frei; ein zügiges Gehtempo hilft Ihnen, am schattigen Ufer warm zu bleiben.",
                 "hu": "A lombkorona nélküli fák feltárják a folyóparti építészet részleteit; a gyorsabb tempó segít melegen maradni az árnyékosabb partszakaszokon.",
                 "ro": "Copacii desfrunziți dezvăluie detaliile arhitecturii de pe malul râului; un ritm de mers vioi vă va ajuta să vă mențineți căldura pe mal.",
-                "en": "The leafless trees reveal architectural details along the river; a brisk walking pace will help you stay warm on the shaded banks."
+                "en": "The leafless trees reveal architectural details along the river; a brisk walking pace will help you stay warm on the shaded banks.",
+                "fr": "Les arbres sans feuilles révèlent des détails architecturaux le long de la rivière ; une bonne allure de marche vous aidera à rester au chaud sur les berges ombragées."
               }
             },
             {
@@ -274,13 +303,15 @@
                 "de": "Square Les Jardins",
                 "hu": "Square Les Jardins",
                 "ro": "Square Les Jardins",
-                "en": "Square Les Jardins"
+                "en": "Square Les Jardins",
+                "fr": "Square Les Jardins"
               },
               "tip_5lang": {
                 "de": "Die tiefstehende Sonne erzeugt lange Schatten im Garten; nutzen Sie die sonnigen Bänke für eine kurze Pause, bevor die Kälte am späten Nachmittag anzieht.",
                 "hu": "Az alacsony nap hosszú árnyékokat vet a kertben; használja ki a napsütötte padokat egy rövid pihenőre, mielőtt a késő délutáni fagy beállna.",
                 "ro": "Soarele jos creează umbre lungi în grădină; profitați de băncile însorite pentru o scurtă pauză înainte ca frigul să se intensifice spre seară.",
-                "en": "The low sun creates long shadows in the garden; take advantage of the sunny benches for a quick break before the late afternoon chill sets in."
+                "en": "The low sun creates long shadows in the garden; take advantage of the sunny benches for a quick break before the late afternoon chill sets in.",
+                "fr": "Le soleil bas crée de longues ombres dans le jardin ; profitez des bancs ensoleillés pour une courte pause avant que la fraîcheur de la fin d’après‑midi ne s’installe."
               }
             },
             {
@@ -288,13 +319,15 @@
                 "de": "Ancien Lavoir",
                 "hu": "Ancien Lavoir",
                 "ro": "Ancien Lavoir",
-                "en": "Ancien Lavoir"
+                "en": "Ancien Lavoir",
+                "fr": "Ancien Lavoir"
               },
               "tip_5lang": {
                 "de": "Besuchen Sie diesen Ort kurz vor 17:00 Uhr, um den Sonnenuntergang zu erleben; die Mauern bieten Schutz vor dem kalten Mistral-Wind.",
                 "hu": "Látogasson el ide közvetlenül 17:00 előtt, hogy elcsípje a naplementét; a falak jó védelmet nyújtanak a hideg Misztrál szél ellen.",
                 "ro": "Vizitați acest loc chiar înainte de ora 17:00 pentru a prinde apusul; zidurile oferă o protecție bună împotriva vântului rece Mistral.",
-                "en": "Visit here just before 17:00 to catch the early sunset; the thick walls provide good shelter against the cold Mistral wind."
+                "en": "Visit here just before 17:00 to catch the early sunset; the thick walls provide good shelter against the cold Mistral wind.",
+                "fr": "Visitez cet endroit juste avant 17:00 pour assister au coucher de soleil précoce ; les murs épais offrent une bonne protection contre le vent froid du Mistral."
               }
             }
           ]
@@ -314,7 +347,8 @@
             "de": "Place du 8 Mai 1945",
             "hu": "Place du 8 Mai 1945",
             "ro": "Place du 8 Mai 1945",
-            "en": "Place du 8 Mai 1945"
+            "en": "Place du 8 Mai 1945",
+            "fr": "Place du 8 Mai 1945"
           },
           "coords": [
             4.927747,
@@ -329,7 +363,8 @@
             "de": "Bewundern Sie das zentrale Treiben an diesem historischen Platz der Befreiung und genießen Sie einen entspannten Kaffee auf einer der sonnigen Terrassen.",
             "hu": "Csodálja meg a város központi életét ezen a felszabadulásra emlékező történelmi téren, és tartson egy rövid pihenőt egy napos terasz kávézójában.",
             "ro": "Admirați viața centrală a orașului în această piață istorică a eliberării și luați o pauză binemeritată la o cafenea cu terasă însorită din apropiere.",
-            "en": "Admire the central life of the town at this historic square, which commemorates liberation, and take a moment to sip coffee at a nearby sunny terrace."
+            "en": "Admire the central life of the town at this historic square, which commemorates liberation, and take a moment to sip coffee at a nearby sunny terrace.",
+            "fr": "Admirez la vie centrale de la ville sur cette place historique qui commémore la libération, et prenez un moment pour siroter un café sur une terrasse ensoleillée à proximité."
           }
         },
         {
@@ -337,7 +372,8 @@
             "de": "Pont sur la Sorgue",
             "hu": "Pont sur la Sorgue",
             "ro": "Pont sur la Sorgue",
-            "en": "Pont sur la Sorgue"
+            "en": "Pont sur la Sorgue",
+            "fr": "Pont sur la Sorgue"
           },
           "coords": [
             4.931189,
@@ -352,7 +388,8 @@
             "de": "Überqueren Sie diese charmante Brücke über die Sorgue für malerische Ausblicke auf das Wasser, aber achten Sie bei starkem Mistralwind auf Ihren Hut.",
             "hu": "Sétáljon át a Sorgue folyó ezen a bájos hídján, hogy élvezze a festői vízi kilátást, de erős misztrál szél esetén mindenképpen fogja meg a kalapját.",
             "ro": "Traversați acest pod fermecător peste râul Sorgue pentru a admira priveliștile pitorești, dar aveți grijă la pălării atunci când bate vântul mistral.",
-            "en": "Cross this charming bridge over the Sorgue river to enjoy picturesque water views, but be sure to hold onto your hat during the strong mistral winds."
+            "en": "Cross this charming bridge over the Sorgue river to enjoy picturesque water views, but be sure to hold onto your hat during the strong mistral winds.",
+            "fr": "Traversez ce charmant pont sur la Sorgue pour profiter de vues pittoresques sur l’eau, mais accrochez‑vous à votre chapeau lors des forts vents de mistral."
           }
         },
         {
@@ -360,7 +397,8 @@
             "de": "Berges de la Sorgue",
             "hu": "Berges de la Sorgue",
             "ro": "Berges de la Sorgue",
-            "en": "Berges de la Sorgue"
+            "en": "Berges de la Sorgue",
+            "fr": "Berges de la Sorgue"
           },
           "coords": [
             4.922707,
@@ -375,7 +413,8 @@
             "de": "Spazieren Sie entlang der ruhigen, naturbelassenen und grünen Flussufer, was diesen Ort ideal für einen friedlichen Morgenspaziergang macht.",
             "hu": "Sétáljon a buja növényzettel körülvett, nyugodt folyóparton, amely tökéletes helyszínt biztosít egy békés reggeli sétához és madármegfigyeléshez.",
             "ro": "Plimbați-vă de-a lungul malurilor naturale liniștite, înconjurate de verdeață luxuriantă, locul perfect pentru o dimineață relaxantă la pas.",
-            "en": "Walk along the tranquil natural riverbanks surrounded by lush greenery, making it the perfect spot for a peaceful morning stroll and some birdwatching."
+            "en": "Walk along the tranquil natural riverbanks surrounded by lush greenery, making it the perfect spot for a peaceful morning stroll and some birdwatching.",
+            "fr": "Promenez‑vous le long des berges naturelles tranquilles entourées d’une végétation luxuriante, un lieu parfait pour une promenade matinale paisible et un peu d’observation d’oiseaux."
           }
         },
         {
@@ -383,7 +422,8 @@
             "de": "Parc Spirou",
             "hu": "Parc Spirou",
             "ro": "Parc Spirou",
-            "en": "Parc Spirou"
+            "en": "Parc Spirou",
+            "fr": "Parc Spirou"
           },
           "coords": [
             4.970712,
@@ -398,7 +438,8 @@
             "de": "Tauchen Sie in diesem lebhaften Vergnügungspark in die Welt der Comics ein und buchen Sie Ihre Tickets vorab online, um die Warteschlangen zu umgehen.",
             "hu": "Merüljön el a klasszikus karaktereknek szentelt vidámpark képregényes játékaiban, és foglalja le a jegyeket előre online, hogy elkerülje a sorban állást.",
             "ro": "Explorați atracțiile cu tematică de benzi desenate în acest parc de distracții animat și rezervați-vă biletele online în avans pentru a evita cozile.",
-            "en": "Dive into the comic-themed rides at this lively amusement park dedicated to classic characters, and book tickets online in advance to skip the queues."
+            "en": "Dive into the comic-themed rides at this lively amusement park dedicated to classic characters, and book tickets online in advance to skip the queues.",
+            "fr": "Plongez dans les attractions sur le thème de la bande dessinée de ce parc d’attractions animé dédié aux personnages classiques, et réservez vos billets en ligne à l’avance pour éviter les files d’attente."
           }
         },
         {
@@ -406,7 +447,8 @@
             "de": "Wave Island",
             "hu": "Wave Island",
             "ro": "Wave Island",
-            "en": "Wave Island"
+            "en": "Wave Island",
+            "fr": "Wave Island"
           },
           "coords": [
             4.967132,
@@ -421,7 +463,8 @@
             "de": "Erleben Sie adrenalingeladene Wasserrutschen in diesem riesigen tropischen Wasserpark, aber kommen Sie früh, um eine gute Liege an den Pools zu sichern.",
             "hu": "Próbálja ki az adrenalint növelő csúszdákat ebben a hatalmas trópusi víziparkban, de érkezzen korán, hogy jó napozóágyat találjon a medencék mellett.",
             "ro": "Experimentați toboganele pline de adrenalină la acest parc acvatic masiv, dar ajungeți devreme pentru a vă asigura un șezlong bun lângă piscine.",
-            "en": "Experience adrenaline-pumping water slides at this massive tropical-themed aqua park, but arrive early to secure a good sunbed near the main pools."
+            "en": "Experience adrenaline-pumping water slides at this massive tropical-themed aqua park, but arrive early to secure a good sunbed near the main pools.",
+            "fr": "Vivez des sensations fortes sur des toboggans aquatiques dans ce vaste parc aquatique à thème tropical, mais arrivez tôt pour sécuriser un bon transat près des bassins principaux."
           }
         },
         {
@@ -429,7 +472,8 @@
             "de": "Da wave",
             "hu": "Da wave",
             "ro": "Da wave",
-            "en": "Da wave"
+            "en": "Da wave",
+            "fr": "Da wave"
           },
           "coords": [
             4.965705,
@@ -444,7 +488,8 @@
             "de": "Testen Sie Ihre Surfkünste auf diesem riesigen künstlichen Wellensimulator, wobei es sich empfiehlt, einen gut sitzenden Badeanzug mitzubringen.",
             "hu": "Tesztelje szörftudását ezen a minden szintnek megfelelő hatalmas mesterséges hullámszimulátoron, bár a jól illeszkedő fürdőruha használata nagyon ajánlott.",
             "ro": "Testați-vă abilitățile de surfing pe acest simulator uriaș de valuri artificiale, deși este foarte recomandat să aduceți un costum de baie potrivit.",
-            "en": "Test your surfing skills on this massive artificial wave simulator perfect for all levels, though bringing your own well-fitting swimsuit is highly advised."
+            "en": "Test your surfing skills on this massive artificial wave simulator perfect for all levels, though bringing your own well-fitting swimsuit is highly advised.",
+            "fr": "Testez vos compétences de surf sur ce simulateur de vague artificielle géant, parfait pour tous les niveaux ; il est toutefois fortement conseillé d’apporter votre propre maillot de bain bien ajusté."
           }
         }
       ],
@@ -452,7 +497,8 @@
         "de": "Starten Sie Ihre Tour im Zentrum und bewundern Sie den historischen Platz, bevor Sie über die ikonische Brücke fahren. Folgen Sie den sanften Kurven des Flusses.\n\nLassen Sie die ruhigen Wege hinter sich und radeln Sie in Richtung des Vergnügungsviertels. Die flachen provenzalischen Straßen sorgen für eine angenehme Fahrt.\n\nTauchen Sie ein in die aufregenden Achterbahnen. Tauschen Sie den Helm gegen Badesachen und kühlen Sie sich in den riesigen tropischen Pools ab.\n\nBeenden Sie den aktiven Tag, indem Sie Ihre Balance auf dem Surfsimulator testen. Ein energiegeladener Abschluss für einen aufregenden Ausflug.",
         "hu": "Kezdje túráját az élénk központban, megtekintve a történelmi teret, mielőtt áttekerne a hídon. Kövesse a folyópart lágy íveit a reggeli szellőben.\n\nHagyja maga mögött a csendes utakat, és tekerjen észak felé a szórakozónegyedbe. A sík provence-i utak könnyű és kellemes kerékpározást biztosítanak.\n\nMerüljön el a képregényes hullámvasutak izgalmaiban. Cserélje le sisakját fürdőruhára, és hűsöljön az óriási trópusi medencékben.\n\nFejezze be az aktív napot a mesterséges szörfszimulátor kipróbálásával. Ez egy energikus módja az izgalmas kerékpártúra lezárásának.",
         "ro": "Începeți turul în centrul plin de viață, admirând piața istorică înainte de a traversa podul iconic. Urmați curbele blânde ale malurilor râului.\n\nLăsați în urmă aleile liniștite și pedalați spre nord, către zona de divertisment. Drumurile provensale plate asigură o plimbare ușoară și plăcută.\n\nScufundați-vă în entuziasmul roller coasterelor tematice. Schimbați casca de bicicletă cu un costum de baie și răcoriți-vă în piscinele tropicale gigantice.\n\nÎncheiați ziua activă testându-vă echilibrul pe simulatorul de surf artificial. Este un mod plin de energie pentru a încheia o excursie captivantă.",
-        "en": "Kick off your tour in the lively center, taking in the historical square before riding over the iconic bridge. Follow the gentle curves of the riverbank.\n\nLeave the quiet river pathways behind and cycle northwards towards the entertainment district. The flat Provencal roads make for an easy and pleasant ride.\n\nDive into the excitement with comic-themed rollercoasters and attractions. Swap your bike helmet for a swimsuit and cool off in the giant tropical pools.\n\nFinish your active day by testing your balance on the ultimate artificial surf simulator. It's an energetic way to cap off a thrilling bike trip."
+        "en": "Kick off your tour in the lively center, taking in the historical square before riding over the iconic bridge. Follow the gentle curves of the riverbank.\n\nLeave the quiet river pathways behind and cycle northwards towards the entertainment district. The flat Provencal roads make for an easy and pleasant ride.\n\nDive into the excitement with comic-themed rollercoasters and attractions. Swap your bike helmet for a swimsuit and cool off in the giant tropical pools.\n\nFinish your active day by testing your balance on the ultimate artificial surf simulator. It's an energetic way to cap off a thrilling bike trip.",
+        "fr": "Commencez votre circuit dans le centre animé, en découvrant la place historique avant de traverser le pont emblématique. Suivez les courbes douces des berges.\n\nLaissez derrière vous les chemins tranquilles de la rivière et pédalez vers le nord en direction du quartier de divertissement. Les routes provençales plates offrent une balade facile et agréable.\n\nPlongez dans l’excitation avec des montagnes russes et attractions inspirées des BD. Changez votre casque de vélo contre un maillot de bain et rafraîchissez‑vous dans les immenses bassins tropicaux.\n\nTerminez votre journée active en testant votre équilibre sur l’ultime simulateur de surf artificiel. C’est une façon énergique de conclure une sortie à vélo pleine d’adrénaline."
       },
       "variants": {
         "rainy": {
@@ -460,7 +506,8 @@
             "de": "Ein regnerischer Radtag beginnt am Hauptplatz. Achten Sie auf nassen Asphalt auf dem Weg zur Sorgue-Brücke. Mittags radeln Sie vorsichtig am rutschigen Flussufer entlang. Am Nachmittag bieten die Freizeitparks Parc Spirou und Wave Island trotz Regen Abenteuer, oft mit weniger Wartezeiten. Beenden Sie die Tour vorsichtig bei Da Wave. Regenkleidung und gute Bremsen sind heute Pflicht.",
             "hu": "Egy esős kerékpáros nap kezdődik a főtéren. Ügyeljen a nedves aszfaltra a Sorgue hídja felé. Délben óvatosan tekerjen a csúszós folyóparton. Délután a Parc Spirou és a Wave Island az eső ellenére is kalandokat kínál, gyakran kisebb sorokkal. A túrát óvatosan fejezze be a Da Wave-nél. Az esőruha és a jó fékek ma elengedhetetlenek.",
             "ro": "O zi ploioasă pe bicicletă începe în piața principală. Atenție la asfaltul ud spre podul Sorgue. La prânz, pedalați cu grijă pe malul alunecos al râului. După-amiaza, Parc Spirou și Wave Island oferă aventură în ciuda ploii, adesea cu cozi mai mici. Încheiați tura cu prudență la Da Wave. Pelerina de ploaie și frânele bune sunt obligatorii azi.",
-            "en": "A rainy cycling day starts at the main square. Watch for slick asphalt on your way to the Sorgue bridge. At noon, cycle carefully along the slippery riverbanks. In the afternoon, Parc Spirou and Wave Island offer thrills despite the rain, often with shorter queues. End your ride cautiously at Da Wave. Waterproof gear and reliable brakes are essential today."
+            "en": "A rainy cycling day starts at the main square. Watch for slick asphalt on your way to the Sorgue bridge. At noon, cycle carefully along the slippery riverbanks. In the afternoon, Parc Spirou and Wave Island offer thrills despite the rain, often with shorter queues. End your ride cautiously at Da Wave. Waterproof gear and reliable brakes are essential today.",
+            "fr": "Une journée pluvieuse à vélo commence sur la place principale. Méfiez‑vous du bitume glissant en direction du pont de la Sorgue. À midi, pédalez prudemment le long des berges glissantes. L’après‑midi, Parc Spirou et Wave Island offrent des sensations malgré la pluie, souvent avec des files d’attente plus courtes. Terminez votre parcours prudemment à Da Wave. Un équipement imperméable et des freins fiables sont essentiels aujourd’hui."
           },
           "stops": [
             {
@@ -468,13 +515,15 @@
                 "de": "Place du 8 Mai 1945",
                 "hu": "Place du 8 Mai 1945",
                 "ro": "Place du 8 Mai 1945",
-                "en": "Place du 8 Mai 1945"
+                "en": "Place du 8 Mai 1945",
+                "fr": "Place du 8 Mai 1945"
               },
               "tip_5lang": {
                 "de": "Starten Sie vorsichtig auf dem nassen Pflaster; prüfen Sie Ihre Bremsen, bevor Sie die Tour durch die Altstadt in Richtung Fluss fortsetzen.",
                 "hu": "Induljon óvatosan a nedves macskaköveken; ellenőrizze a fékeket, mielőtt folytatná a túrát az óvároson keresztül a folyó irányába.",
                 "ro": "Porniți cu prudență pe pavajul umed; verificați frânele înainte de a continua tura prin centrul vechi către râu.",
-                "en": "Start cautiously on the wet cobblestones; check your brakes before continuing the tour through the old town towards the river."
+                "en": "Start cautiously on the wet cobblestones; check your brakes before continuing the tour through the old town towards the river.",
+                "fr": "Commencez prudemment sur les pavés mouillés ; vérifiez vos freins avant de continuer la visite à travers la vieille ville vers la rivière."
               }
             },
             {
@@ -482,13 +531,15 @@
                 "de": "Pont sur la Sorgue",
                 "hu": "Pont sur la Sorgue",
                 "ro": "Pont sur la Sorgue",
-                "en": "Pont sur la Sorgue"
+                "en": "Pont sur la Sorgue",
+                "fr": "Pont sur la Sorgue"
               },
               "tip_5lang": {
                 "de": "Überqueren Sie die Brücke langsam, da der Boden rutschig sein kann; die Aussicht auf die graue Sorgue ist besonders mystisch.",
                 "hu": "Lassan haladjon át a hídon, mert az útfelület csúszós lehet; a szürke Sorgue látványa ilyenkor különösen misztikus.",
                 "ro": "Traversați podul încet, deoarece suprafața poate fi alunecoasă; vederea râului Sorgue în nuanțe gri este deosebit de mistică.",
-                "en": "Cross the bridge slowly as the surface can be slippery; the view of the grey Sorgue is particularly mystical in this weather."
+                "en": "Cross the bridge slowly as the surface can be slippery; the view of the grey Sorgue is particularly mystical in this weather.",
+                "fr": "Traversez le pont lentement car la surface peut être glissante ; la vue de la Sorgue grise est particulièrement mystique par ce temps."
               }
             },
             {
@@ -496,13 +547,15 @@
                 "de": "Berges de la Sorgue",
                 "hu": "Berges de la Sorgue",
                 "ro": "Berges de la Sorgue",
-                "en": "Berges de la Sorgue"
+                "en": "Berges de la Sorgue",
+                "fr": "Berges de la Sorgue"
               },
               "tip_5lang": {
                 "de": "Der Uferweg kann schlammig sein; fahren Sie in der Mitte des Weges und meiden Sie tiefe Pfützen, um nicht auszurutschen.",
                 "hu": "A folyóparti út sáros lehet; haladjon az út közepén, és kerülje a mély tócsákat, hogy elkerülje a megcsúszást.",
                 "ro": "Poteca de pe malul râului poate fi noroioasă; mergeți pe mijlocul drumului și evitați bălțile adânci pentru a nu aluneca.",
-                "en": "The riverbank path may be muddy; ride in the center of the track and avoid deep puddles to prevent any loss of traction."
+                "en": "The riverbank path may be muddy; ride in the center of the track and avoid deep puddles to prevent any loss of traction.",
+                "fr": "Le chemin de la rive peut être boueux ; roulez au centre de la piste et évitez les flaques profondes pour prévenir toute perte d’adhérence."
               }
             },
             {
@@ -510,13 +563,15 @@
                 "de": "Parc Spirou",
                 "hu": "Parc Spirou",
                 "ro": "Parc Spirou",
-                "en": "Parc Spirou"
+                "en": "Parc Spirou",
+                "fr": "Parc Spirou"
               },
               "tip_5lang": {
                 "de": "Stellen Sie Ihr Rad an einem überdachten Ort ab; viele Attraktionen sind auch bei Regen in Betrieb, bringen Sie also ein Handtuch mit.",
                 "hu": "Parkolja le a kerékpárt fedett helyen; sok attrakció esőben is üzemel, ezért érdemes törölközőt hozni magával.",
                 "ro": "Parcați bicicleta într-un loc acoperit; multe atracții funcționează și pe ploaie, așa că este util să aveți un prosop la îndemână.",
-                "en": "Park your bike in a covered area; many attractions operate in the rain, so it is helpful to bring a towel along with you."
+                "en": "Park your bike in a covered area; many attractions operate in the rain, so it is helpful to bring a towel along with you.",
+                "fr": "Garez votre vélo dans un endroit couvert ; de nombreuses attractions fonctionnent sous la pluie, il est donc utile d’apporter une serviette."
               }
             },
             {
@@ -524,13 +579,15 @@
                 "de": "Wave Island",
                 "hu": "Wave Island",
                 "ro": "Wave Island",
-                "en": "Wave Island"
+                "en": "Wave Island",
+                "fr": "Wave Island"
               },
               "tip_5lang": {
                 "de": "Nass werden Sie hier sowieso! Achten Sie beim Verlassen des Parks mit dem Rad auf den Übergang zum nassen Asphalt.",
                 "hu": "Itt mindenképpen vizes lesz! A park elhagyásakor ügyeljen a kerékpárral a nedves aszfaltra való áttérésnél.",
                 "ro": "Oricum vă veți uda aici! La ieșirea din parc, fiți atenți la tranziția cu bicicleta pe asfaltul umed de afară.",
-                "en": "You will get wet here anyway! When leaving the park, pay attention to the transition back to wet asphalt with your bike."
+                "en": "You will get wet here anyway! When leaving the park, pay attention to the transition back to wet asphalt with your bike.",
+                "fr": "Vous allez de toute façon vous mouiller ici ! En quittant le parc, faites attention à la transition vers le bitume humide avec votre vélo."
               }
             },
             {
@@ -538,13 +595,15 @@
                 "de": "Da wave",
                 "hu": "Da wave",
                 "ro": "Da wave",
-                "en": "Da wave"
+                "en": "Da wave",
+                "fr": "Da wave"
               },
               "tip_5lang": {
                 "de": "Diese Indoor-Option ist perfekt bei Regen; wärmen Sie sich nach dem Surfen gut auf, bevor Sie die Rückfahrt im Regen antreten.",
                 "hu": "Ez a fedett opció tökéletes esőben; szörfözés után melegedjen fel alaposan, mielőtt elindulna a visszaútra az esőben.",
                 "ro": "Această opțiune de interior este perfectă pe ploaie; încălziți-vă bine după surfing înainte de a porni pe drumul de întoarcere.",
-                "en": "This indoor option is perfect for rainy days; warm up thoroughly after surfing before heading back out into the rain."
+                "en": "This indoor option is perfect for rainy days; warm up thoroughly after surfing before heading back out into the rain.",
+                "fr": "Cette option intérieure est parfaite pour les jours de pluie ; réchauffez‑vous soigneusement après le surf avant de ressortir sous la pluie."
               }
             }
           ]
@@ -554,7 +613,8 @@
             "de": "Starten Sie Ihre Wintertour gut eingepackt am Hauptplatz. Der Gegenwind am Mittag entlang der Sorgue kann beißend kalt sein. Am Nachmittag bieten Parc Spirou und Wave Island ein ruhigeres Erlebnis mit winterlichem Charme. Beenden Sie den Tag bei Da Wave, wo Sie der Kälte entfliehen können. Da es um 17:00 Uhr dunkel wird, ist eine funktionierende Fahrradbeleuchtung für den Rückweg unerlässlich.",
             "hu": "Indítsa téli túráját jól beöltözve a főtéren. A Sorgue menti ellenszél délben metszően hideg lehet. Délután a Parc Spirou és a Wave Island csendesebb élményt nyújt téli bájjal. A napot a Da Wave-nél zárja, ahol elmenekülhet a fagy elől. Mivel 17:00-kor sötétedik, a működő kerékpáros világítás elengedhetetlen a hazaúthoz.",
             "ro": "Începeți tura de iarnă bine echipat în piața principală. Vântul din față de-a lungul râului Sorgue la prânz poate fi tăios de rece. După-amiaza, Parc Spirou și Wave Island oferă o experiență mai liniștită, cu farmec hibernal. Încheiați ziua la Da Wave, unde puteți scăpa de ger. Deoarece se întunecă la 17:00, luminile funcționale la bicicletă sunt esențiale.",
-            "en": "Start your winter ride well-bundled at the main square. The headwind along the Sorgue at noon can be bitingly cold. In the afternoon, Parc Spirou and Wave Island offer a quieter experience with winter charm. End your day at Da Wave, where you can escape the freezing air. As it gets dark at 17:00, working bike lights are essential for the return journey."
+            "en": "Start your winter ride well-bundled at the main square. The headwind along the Sorgue at noon can be bitingly cold. In the afternoon, Parc Spirou and Wave Island offer a quieter experience with winter charm. End your day at Da Wave, where you can escape the freezing air. As it gets dark at 17:00, working bike lights are essential for the return journey.",
+            "fr": "Commencez votre sortie hivernale bien emmitouflé sur la place principale. Le vent de face le long de la Sorgue à midi peut être mordant. L’après‑midi, Parc Spirou et Wave Island offrent une expérience plus tranquille avec un charme hivernal. Terminez votre journée à Da Wave, où vous pouvez échapper à l’air glacial. Comme la nuit tombe à 17:00, des éclairages de vélo fonctionnels sont essentiels pour le retour."
           },
           "stops": [
             {
@@ -562,13 +622,15 @@
                 "de": "Place du 8 Mai 1945",
                 "hu": "Place du 8 Mai 1945",
                 "ro": "Place du 8 Mai 1945",
-                "en": "Place du 8 Mai 1945"
+                "en": "Place du 8 Mai 1945",
+                "fr": "Place du 8 Mai 1945"
               },
               "tip_5lang": {
                 "de": "Tragen Sie warme Handschuhe, da der Fahrtwind am Morgen sehr kalt sein kann; der Platz ist im Winterlicht besonders fotogen.",
                 "hu": "Viseljen meleg kesztyűt, mert a menetszél reggel nagyon hideg lehet; a tér a téli fényekben különösen fotogén.",
                 "ro": "Purtați mănuși groase, deoarece curentul de aer poate fi foarte rece dimineața; piața este deosebit de fotogenică în lumina iernii.",
-                "en": "Wear warm gloves as the wind chill can be very cold in the morning; the square is particularly photogenic in the winter light."
+                "en": "Wear warm gloves as the wind chill can be very cold in the morning; the square is particularly photogenic in the winter light.",
+                "fr": "Portez des gants chauds car le refroidissement éolien peut être très intense le matin ; la place est particulièrement photogénique sous la lumière hivernale."
               }
             },
             {
@@ -576,13 +638,15 @@
                 "de": "Pont sur la Sorgue",
                 "hu": "Pont sur la Sorgue",
                 "ro": "Pont sur la Sorgue",
-                "en": "Pont sur la Sorgue"
+                "en": "Pont sur la Sorgue",
+                "fr": "Pont sur la Sorgue"
               },
               "tip_5lang": {
                 "de": "Genießen Sie den weiten Blick über den Fluss; achten Sie auf mögliche Glätte auf der Brücke durch gefrierende Feuchtigkeit am Morgen.",
                 "hu": "Élvezze a tágas kilátást a folyóra; ügyeljen az esetleges jegesedésre a hídon a reggeli fagyos pára miatt.",
                 "ro": "Bucurați-vă de vederea largă asupra râului; atenție la posibila gheață de pe pod cauzată de umezeala care îngheață dimineața.",
-                "en": "Enjoy the wide view over the river; watch for potential icy patches on the bridge caused by freezing morning mist."
+                "en": "Enjoy the wide view over the river; watch for potential icy patches on the bridge caused by freezing morning mist.",
+                "fr": "Profitez de la vue large sur la rivière ; surveillez d’éventuelles plaques de verglas sur le pont causées par la brume matinale gelée."
               }
             },
             {
@@ -590,13 +654,15 @@
                 "de": "Berges de la Sorgue",
                 "hu": "Berges de la Sorgue",
                 "ro": "Berges de la Sorgue",
-                "en": "Berges de la Sorgue"
+                "en": "Berges de la Sorgue",
+                "fr": "Berges de la Sorgue"
               },
               "tip_5lang": {
                 "de": "Die klare Luft macht das Atmen beim Radeln leicht, aber ein Schal schützt Ihren Hals vor der Kälte in den schattigen Flussabschnitten.",
                 "hu": "A tiszta levegő megkönnyíti a légzést tekerés közben, de egy sál jól védi a torkát a hidegtől az árnyékos folyóparti szakaszokon.",
                 "ro": "Aerul curat facilitează respirația în timpul mersului, dar un fular vă va proteja gâtul de frig în secțiunile umbrite de pe mal.",
-                "en": "The crisp air makes breathing easy while cycling, but a scarf will protect your throat from the chill in the shaded river sections."
+                "en": "The crisp air makes breathing easy while cycling, but a scarf will protect your throat from the chill in the shaded river sections.",
+                "fr": "L’air vif facilite la respiration en pédalant, mais une écharpe protégera votre gorge du froid dans les sections ombragées de la rivière."
               }
             },
             {
@@ -604,13 +670,15 @@
                 "de": "Parc Spirou",
                 "hu": "Parc Spirou",
                 "ro": "Parc Spirou",
-                "en": "Parc Spirou"
+                "en": "Parc Spirou",
+                "fr": "Parc Spirou"
               },
               "tip_5lang": {
                 "de": "Bewegen Sie sich viel, um warm zu bleiben; im Winter sind die Wartezeiten kurz, sodass Sie mehr Fahrten in kürzerer Zeit schaffen.",
                 "hu": "Mozogjon sokat, hogy melegen tartsa magát; télen a várakozási idő rövid, így több menetet is teljesíthet rövid idő alatt.",
                 "ro": "Mențineți-vă activ pentru a vă păstra căldura; iarna cozile sunt scurte, permițându-vă să bifați mai multe atracții rapid.",
-                "en": "Stay active to keep warm; in winter, wait times are short, allowing you to enjoy more rides in a shorter amount of time."
+                "en": "Stay active to keep warm; in winter, wait times are short, allowing you to enjoy more rides in a shorter amount of time.",
+                "fr": "Restez actif pour garder la chaleur ; en hiver, les temps d’attente sont courts, ce qui vous permet de profiter de plus d’attractions en moins de temps."
               }
             },
             {
@@ -618,13 +686,15 @@
                 "de": "Wave Island",
                 "hu": "Wave Island",
                 "ro": "Wave Island",
-                "en": "Wave Island"
+                "en": "Wave Island",
+                "fr": "Wave Island"
               },
               "tip_5lang": {
                 "de": "Prüfen Sie die winterlichen Öffnungszeiten; die Anlage wirkt in der Nebensaison surreal und friedlich für eine kurze Radpause.",
                 "hu": "Ellenőrizze a téli nyitvatartást; a létesítmény a holtszezonban szürreális és békés helyszín egy rövid kerékpáros pihenőhöz.",
                 "ro": "Verificați programul de iarnă; locația pare suprarealistă și liniștită în extrasezon pentru o scurtă pauză de bicicletă.",
-                "en": "Check the winter opening hours; the facility feels surreal and peaceful in the off-season for a quick cycling break."
+                "en": "Check the winter opening hours; the facility feels surreal and peaceful in the off-season for a quick cycling break.",
+                "fr": "Vérifiez les horaires d’ouverture hivernaux ; l’établissement paraît surréaliste et paisible en basse saison pour une courte pause à vélo."
               }
             },
             {
@@ -632,13 +702,15 @@
                 "de": "Da wave",
                 "hu": "Da wave",
                 "ro": "Da wave",
-                "en": "Da wave"
+                "en": "Da wave",
+                "fr": "Da wave"
               },
               "tip_5lang": {
                 "de": "Dies ist der wärmste Ort des Tages; tanken Sie Energie für die Heimfahrt, die Sie unbedingt vor der Dunkelheit um 17:00 Uhr antreten sollten.",
                 "hu": "Ez a nap legmelegebb helyszíne; tankoljon fel energiával a hazaúthoz, amit érdemes a 17:00-as sötétedés előtt megkezdeni.",
                 "ro": "Acesta este cel mai călduros loc al zilei; reîncărcați-vă bateriile pentru drumul spre casă, pe care e bine să-l începeți înainte de 17:00.",
-                "en": "This is the warmest spot of the day; recharge your energy for the ride home, which you should start before dark at 17:00."
+                "en": "This is the warmest spot of the day; recharge your energy for the ride home, which you should start before dark at 17:00.",
+                "fr": "C’est l’endroit le plus chaud de la journée ; rechargez vos forces pour le trajet de retour, que vous devriez commencer avant la tombée de la nuit à 17:00."
               }
             }
           ]
@@ -658,7 +730,8 @@
             "de": "Ancien Lavoir",
             "hu": "Ancien Lavoir",
             "ro": "Ancien Lavoir",
-            "en": "Ancien Lavoir"
+            "en": "Ancien Lavoir",
+            "fr": "Ancien Lavoir"
           },
           "coords": [
             4.940336,
@@ -673,7 +746,8 @@
             "de": "Erkunden Sie dieses gut erhaltene historische Waschhaus, das vom provenzalischen Alltag erzählt, und bewundern Sie die typisch robuste Steinarchitektur.",
             "hu": "Fedezze fel ezt a jól megőrzött történelmi mosóházat, amely a mindennapi provence-i életről mesél, és figyelje meg a régió jellegzetes kőépítészetét.",
             "ro": "Explorați această spălătorie istorică bine conservată care povestește despre viața cotidiană provensală și remarcați arhitectura robustă din piatră.",
-            "en": "Explore this well-preserved historic washhouse that tells the story of daily Provencal life, and notice the robust stone architecture typical of the region."
+            "en": "Explore this well-preserved historic washhouse that tells the story of daily Provencal life, and notice the robust stone architecture typical of the region.",
+            "fr": "Explorez ce lavoir historique bien conservé qui raconte la vie quotidienne provençale, et remarquez l’architecture en pierre robuste typique de la région."
           }
         },
         {
@@ -681,7 +755,8 @@
             "de": "Place du 8 Mai 1945",
             "hu": "Place du 8 Mai 1945",
             "ro": "Place du 8 Mai 1945",
-            "en": "Place du 8 Mai 1945"
+            "en": "Place du 8 Mai 1945",
+            "fr": "Place du 8 Mai 1945"
           },
           "coords": [
             4.927747,
@@ -696,7 +771,8 @@
             "de": "Bewundern Sie das zentrale Treiben an diesem historischen Platz der Befreiung und genießen Sie einen entspannten Kaffee auf einer der sonnigen Terrassen.",
             "hu": "Csodálja meg a város központi életét ezen a felszabadulásra emlékező történelmi téren, és tartson egy rövid pihenőt egy napos terasz kávézójában.",
             "ro": "Admirați viața centrală a orașului în această piață istorică a eliberării și luați o pauză binemeritată la o cafenea cu terasă însorită din apropiere.",
-            "en": "Admire the central life of the town at this historic square, which commemorates liberation, and take a moment to sip coffee at a nearby sunny terrace."
+            "en": "Admire the central life of the town at this historic square, which commemorates liberation, and take a moment to sip coffee at a nearby sunny terrace.",
+            "fr": "Admirez la vie centrale de la ville sur cette place historique qui commémore la libération, et prenez un moment pour siroter un café sur une terrasse ensoleillée à proximité."
           }
         },
         {
@@ -704,7 +780,8 @@
             "de": "Berges de la Sorgue",
             "hu": "Berges de la Sorgue",
             "ro": "Berges de la Sorgue",
-            "en": "Berges de la Sorgue"
+            "en": "Berges de la Sorgue",
+            "fr": "Berges de la Sorgue"
           },
           "coords": [
             4.922707,
@@ -719,7 +796,8 @@
             "de": "Spazieren Sie entlang der ruhigen, naturbelassenen und grünen Flussufer, was diesen Ort ideal für einen friedlichen Morgenspaziergang macht.",
             "hu": "Sétáljon a buja növényzettel körülvett, nyugodt folyóparton, amely tökéletes helyszínt biztosít egy békés reggeli sétához és madármegfigyeléshez.",
             "ro": "Plimbați-vă de-a lungul malurilor naturale liniștite, înconjurate de verdeață luxuriantă, locul perfect pentru o dimineață relaxantă la pas.",
-            "en": "Walk along the tranquil natural riverbanks surrounded by lush greenery, making it the perfect spot for a peaceful morning stroll and some birdwatching."
+            "en": "Walk along the tranquil natural riverbanks surrounded by lush greenery, making it the perfect spot for a peaceful morning stroll and some birdwatching.",
+            "fr": "Promenez‑vous le long des berges naturelles tranquilles entourées d’une végétation luxuriante, un lieu parfait pour une promenade matinale paisible et un peu d’observation d’oiseaux."
           }
         },
         {
@@ -727,7 +805,8 @@
             "de": "Pont sur la Sorgue",
             "hu": "Pont sur la Sorgue",
             "ro": "Pont sur la Sorgue",
-            "en": "Pont sur la Sorgue"
+            "en": "Pont sur la Sorgue",
+            "fr": "Pont sur la Sorgue"
           },
           "coords": [
             4.931189,
@@ -742,7 +821,8 @@
             "de": "Überqueren Sie diese charmante Brücke über die Sorgue für malerische Ausblicke auf das Wasser, aber achten Sie bei starkem Mistralwind auf Ihren Hut.",
             "hu": "Sétáljon át a Sorgue folyó ezen a bájos hídján, hogy élvezze a festői vízi kilátást, de erős misztrál szél esetén mindenképpen fogja meg a kalapját.",
             "ro": "Traversați acest pod fermecător peste râul Sorgue pentru a admira priveliștile pitorești, dar aveți grijă la pălării atunci când bate vântul mistral.",
-            "en": "Cross this charming bridge over the Sorgue river to enjoy picturesque water views, but be sure to hold onto your hat during the strong mistral winds."
+            "en": "Cross this charming bridge over the Sorgue river to enjoy picturesque water views, but be sure to hold onto your hat during the strong mistral winds.",
+            "fr": "Traversez ce charmant pont sur la Sorgue pour profiter de vues pittoresques sur l’eau, mais accrochez‑vous à votre chapeau lors des forts vents de mistral."
           }
         },
         {
@@ -750,7 +830,8 @@
             "de": "Le château des Aventuriers",
             "hu": "Le château des Aventuriers",
             "ro": "Le château des Aventuriers",
-            "en": "Le château des Aventuriers"
+            "en": "Le château des Aventuriers",
+            "fr": "Le château des Aventuriers"
           },
           "coords": [
             4.967204,
@@ -765,7 +846,8 @@
             "de": "Begeistern Sie Ihre Familie mit interaktiven Rätseln und immersiven Themenbereichen, wobei bequeme Schuhe für das viele Laufen sehr zu empfehlen sind.",
             "hu": "Kösse le a családot az itt található interaktív rejtvényekkel és tematikus területekkel, és viseljen kényelmes cipőt a rengeteg energikus gyalogláshoz.",
             "ro": "Atrageți-vă familia în puzzle-urile interactive și zonele tematice de aici și asigurați-vă că purtați încălțăminte confortabilă pentru plimbările lungi.",
-            "en": "Engage your family with the interactive puzzles and immersive themed areas here, making sure to wear comfortable shoes for all the energetic walking involved."
+            "en": "Engage your family with the interactive puzzles and immersive themed areas here, making sure to wear comfortable shoes for all the energetic walking involved.",
+            "fr": "Faites participer votre famille aux énigmes interactives et aux zones thématiques immersives ici, en veillant à porter des chaussures confortables pour toutes les marches énergiques."
           }
         },
         {
@@ -773,7 +855,8 @@
             "de": "La Baie des Sirènes",
             "hu": "La Baie des Sirènes",
             "ro": "La Baie des Sirènes",
-            "en": "La Baie des Sirènes"
+            "en": "La Baie des Sirènes",
+            "fr": "La Baie des Sirènes"
           },
           "coords": [
             4.968116,
@@ -788,7 +871,8 @@
             "de": "Entspannen Sie im ruhigen Wasser dieser familienfreundlichen Attraktion für alle Altersgruppen und behalten Sie kleinere Kinder gut im Auge.",
             "hu": "Pihenjen a minden korosztálynak tervezett, családbarát látványosság nyugodt vizeiben, és figyeljen a kisebb gyerekekre, mert a vizes elemek izgalmasak.",
             "ro": "Relaxați-vă în apele liniștite ale acestei atracții destinate familiilor și fiți cu ochii pe copiii mici, deoarece jocurile de apă pot fi foarte tentante.",
-            "en": "Relax in the calm waters of this family-friendly attraction designed for all ages, and keep an eye on younger children as the water features can be exciting."
+            "en": "Relax in the calm waters of this family-friendly attraction designed for all ages, and keep an eye on younger children as the water features can be exciting.",
+            "fr": "Détendez‑vous dans les eaux calmes de cette attraction familiale conçue pour tous les âges, et gardez un œil sur les plus jeunes car les jeux d’eau peuvent être excitants."
           }
         }
       ],
@@ -796,7 +880,8 @@
         "de": "Starten Sie Ihre Autotour am historischen Waschhaus am Rande der Stadt und bewundern Sie die alte Architektur. Fahren Sie ins Zentrum, um die lebhafte Atmosphäre zu erleben.\n\nParken Sie in der Nähe und spazieren Sie gemütlich an den Ufern der Sorgue entlang. Überqueren Sie die malerische Brücke, um tolle Fotos vom Wasser zu machen.\n\nFahren Sie mit dem Auto in Richtung Norden zum aufregenden Vergnügungspark. Verbringen Sie den Nachmittag damit, Rätsel in den Themenbereichen zu lösen.\n\nLassen Sie den Roadtrip entspannt in der nahegelegenen Meerjungfrauenbucht ausklingen. Die ruhige Umgebung bietet einen erfrischenden Abschluss.",
         "hu": "Kezdje autós túráját a város szélén található történelmi mosóháznál, megcsodálva az ősi építészetet. Hajtson a központba az élénk reggeli hangulatért.\n\nParkoljon le a közelben, és tegyen egy kényelmes sétát a Sorgue folyó gyönyörű partján. Keljen át a festői hídon, hogy fotókat készítsen a csillogó vízről.\n\nPattanjon vissza az autóba egy rövid útra az északi szórakoztató központ felé. Töltse a délutánt rejtvények megoldásával és a tematikus zónák felfedezésével.\n\nZárja le az utazást a közeli sellő-öbölben való csobbanással és pihenéssel. A nyugodt vízi környezet frissítő befejezést kínál egy változatos naphoz.",
         "ro": "Începeți turul cu mașina la spălătoria istorică de la marginea orașului, apreciind arhitectura veche. Conduceți în centru pentru a experimenta atmosfera vibrantă.\n\nParcați în apropiere și faceți o plimbare pe malurile frumoase ale râului Sorgue. Traversați podul pitoresc pentru a face fotografii cu apele sclipitoare.\n\nUrcați din nou în mașină pentru un scurt drum spre nord, la zona de distracții. Petreceți după-amiaza rezolvând puzzle-uri și explorând zonele tematice.\n\nÎncheiați-vă călătoria relaxându-vă în golful sirenelor din apropiere. Mediul acvatic calm oferă o concluzie revigorantă pentru o zi diversă.",
-        "en": "Start your driving tour at the historic washhouse on the town's outskirts, appreciating its ancient architecture. Drive into the center to experience the vibrant morning atmosphere.\n\nPark nearby and take a leisurely walk along the beautiful banks of the Sorgue river. Cross the scenic bridge to capture photos of the sparkling waters.\n\nHop back in the car for a short drive to the exciting amusement cluster to the north. Spend the afternoon solving puzzles and exploring the themed zones.\n\nWind down your road trip splashing and relaxing at the nearby mermaid bay. The calm aquatic environment provides a refreshing conclusion to a diverse day."
+        "en": "Start your driving tour at the historic washhouse on the town's outskirts, appreciating its ancient architecture. Drive into the center to experience the vibrant morning atmosphere.\n\nPark nearby and take a leisurely walk along the beautiful banks of the Sorgue river. Cross the scenic bridge to capture photos of the sparkling waters.\n\nHop back in the car for a short drive to the exciting amusement cluster to the north. Spend the afternoon solving puzzles and exploring the themed zones.\n\nWind down your road trip splashing and relaxing at the nearby mermaid bay. The calm aquatic environment provides a refreshing conclusion to a diverse day.",
+        "fr": "Commencez votre circuit en voiture au lavoir historique en périphérie de la ville, en appréciant son architecture ancienne. Roulez vers le centre pour vivre l’animation matinale.\n\nGarez‑vous à proximité et faites une promenade tranquille le long des belles berges de la Sorgue. Traversez le pont pittoresque pour capturer des photos des eaux scintillantes.\n\nRemontez en voiture pour un court trajet vers le pôle d’attractions au nord. Passez l’après‑midi à résoudre des énigmes et explorer les zones thématiques.\n\nTerminez votre road‑trip en vous éclaboussant et en vous relaxant à la baie des sirènes voisine. L’environnement aquatique calme offre une conclusion rafraîchissante à une journée variée."
       },
       "variants": {
         "rainy": {
@@ -804,7 +889,8 @@
             "de": "Ein entspannter Regentag beginnt am überdachten Ancien Lavoir. Mittags bietet der Platz des 8. Mai schnelle Wege zu Cafés. Am Nachmittag genießen Sie die Aussicht auf die Sorgue bequem aus dem Auto oder bei kurzen Stopps. Die Freizeitangebote wie Le Château des Aventuriers sorgen für trockenen Spaß. Planen Sie mehr Zeit für die Parkplatzsuche bei Regen ein und achten Sie auf Pfützen.",
             "hu": "Egy pihentető esős nap indul a fedett Ancien Lavoirnál. Délben a főtér gyors utat kínál a kávézókhoz. Délután a Sorgue látványát kényelmesen, az autóból vagy rövid megállókkal élvezheti. Az olyan helyszínek, mint a Le Château des Aventuriers, száraz szórakozást nyújtanak. Számoljon több idővel a parkolásra esőben, és ügyeljen a mély tócsákra.",
             "ro": "O zi relaxantă pe ploaie începe la vechiul lavoar acoperit. La prânz, piața oferă acces rapid la cafenele. După-amiaza, admirați vederea spre Sorgue confortabil din mașină sau prin opriri scurte. Locații precum Le Château des Aventuriers oferă distracție la uscat. Alocați mai mult timp pentru parcare pe ploaie și atenție la bălți.",
-            "en": "A relaxed rainy day starts at the covered Ancien Lavoir. At noon, the main square offers quick access to cafes. In the afternoon, enjoy views of the Sorgue comfortably from your car or during short stops. Venues like Le Château des Aventuriers provide dry entertainment. Allow extra time for parking in the rain and be mindful of deep puddles."
+            "en": "A relaxed rainy day starts at the covered Ancien Lavoir. At noon, the main square offers quick access to cafes. In the afternoon, enjoy views of the Sorgue comfortably from your car or during short stops. Venues like Le Château des Aventuriers provide dry entertainment. Allow extra time for parking in the rain and be mindful of deep puddles.",
+            "fr": "Une journée détendue sous la pluie commence au couvert Ancien Lavoir. À midi, la place principale offre un accès rapide aux cafés. L’après‑midi, admirez la Sorgue confortablement depuis votre voiture ou lors de courts arrêts. Des lieux comme Le Château des Aventuriers proposent des divertissements à l’abri. Prévoyez du temps supplémentaire pour vous garer sous la pluie et méfiez‑vous des flaques profondes."
           },
           "stops": [
             {
@@ -812,13 +898,15 @@
                 "de": "Ancien Lavoir",
                 "hu": "Ancien Lavoir",
                 "ro": "Ancien Lavoir",
-                "en": "Ancien Lavoir"
+                "en": "Ancien Lavoir",
+                "fr": "Ancien Lavoir"
               },
               "tip_5lang": {
                 "de": "Parken Sie so nah wie möglich am Eingang; dieses überdachte Juwel ist der perfekte Ort, um den Tag trocken zu beginnen.",
                 "hu": "Parkoljon minél közelebb a bejárathoz; ez a fedett gyöngyszem tökéletes helyszín a nap száraz indításához az esőben.",
                 "ro": "Parcați cât mai aproape de intrare; acest monument acoperit este locul perfect pentru a începe ziua la uscat pe ploaie.",
-                "en": "Park as close as possible to the entrance; this covered gem is the perfect spot to start your day dry during the rain."
+                "en": "Park as close as possible to the entrance; this covered gem is the perfect spot to start your day dry during the rain.",
+                "fr": "Garez‑vous au plus près de l’entrée ; ce joyau couvert est l’endroit parfait pour commencer la journée au sec sous la pluie."
               }
             },
             {
@@ -826,13 +914,15 @@
                 "de": "Place du 8 Mai 1945",
                 "hu": "Place du 8 Mai 1945",
                 "ro": "Place du 8 Mai 1945",
-                "en": "Place du 8 Mai 1945"
+                "en": "Place du 8 Mai 1945",
+                "fr": "Place du 8 Mai 1945"
               },
               "tip_5lang": {
                 "de": "Nutzen Sie die Parkplätze in den Nebenstraßen; von dort aus gelangen Sie schnell unter die schützenden Markisen der Geschäfte am Platz.",
                 "hu": "Használja a mellékutcák parkolóit; onnan gyorsan elérheti a főtér üzleteinek védelmet nyújtó napellenzőit és árkádjait.",
                 "ro": "Folosiți parcările de pe străzile adiacente; de acolo puteți ajunge rapid sub copertinele protectoare ale magazinelor din piață.",
-                "en": "Use the parking spaces in the side streets; from there, you can quickly reach the protective awnings of the shops on the square."
+                "en": "Use the parking spaces in the side streets; from there, you can quickly reach the protective awnings of the shops on the square.",
+                "fr": "Utilisez les places de stationnement dans les rues adjacentes ; de là, vous rejoignez rapidement les auvents protecteurs des boutiques sur la place."
               }
             },
             {
@@ -840,13 +930,15 @@
                 "de": "Berges de la Sorgue",
                 "hu": "Berges de la Sorgue",
                 "ro": "Berges de la Sorgue",
-                "en": "Berges de la Sorgue"
+                "en": "Berges de la Sorgue",
+                "fr": "Berges de la Sorgue"
               },
               "tip_5lang": {
                 "de": "Fahren Sie langsam am Ufer entlang, um die Aussicht zu genießen, ohne nass zu werden; die Bäume spiegeln sich herrlich in den Pfützen.",
                 "hu": "Hajtson lassan a part mentén, hogy élvezze a kilátást anélkül, hogy megázna; a fák tükröződése a tócsákban ilyenkor lenyűgöző.",
                 "ro": "Conduceți încet pe mal pentru a vă bucura de priveliște fără a vă uda; reflexia copacilor în bălți este spectaculoasă acum.",
-                "en": "Drive slowly along the bank to enjoy the view without getting wet; the reflection of trees in the puddles is stunning right now."
+                "en": "Drive slowly along the bank to enjoy the view without getting wet; the reflection of trees in the puddles is stunning right now.",
+                "fr": "Roulez doucement le long de la rive pour profiter de la vue sans vous mouiller ; le reflet des arbres dans les flaques est magnifique en ce moment."
               }
             },
             {
@@ -854,13 +946,15 @@
                 "de": "Pont sur la Sorgue",
                 "hu": "Pont sur la Sorgue",
                 "ro": "Pont sur la Sorgue",
-                "en": "Pont sur la Sorgue"
+                "en": "Pont sur la Sorgue",
+                "fr": "Pont sur la Sorgue"
               },
               "tip_5lang": {
                 "de": "Ein kurzer Stopp reicht für ein Foto vom Fenster aus; die Sorgue wirkt bei Regen besonders wild und kraftvoll.",
                 "hu": "Egy rövid megálló is elég egy ablakból készített fotóhoz; a Sorgue esőben különösen vadnak és erőteljesnek tűnik a hídról.",
                 "ro": "O scurtă oprire este suficientă pentru o fotografie din mașină; râul Sorgue pare deosebit de sălbatic și puternic pe ploaie.",
-                "en": "A short stop is enough for a photo from your car window; the Sorgue looks particularly wild and powerful in the rain."
+                "en": "A short stop is enough for a photo from your car window; the Sorgue looks particularly wild and powerful in the rain.",
+                "fr": "Un court arrêt suffit pour une photo depuis la fenêtre de votre voiture ; la Sorgue paraît particulièrement sauvage et puissante sous la pluie."
               }
             },
             {
@@ -868,13 +962,15 @@
                 "de": "Le château des Aventuriers",
                 "hu": "Le château des Aventuriers",
                 "ro": "Le château des Aventuriers",
-                "en": "Le château des Aventuriers"
+                "en": "Le château des Aventuriers",
+                "fr": "Le château des Aventuriers"
               },
               "tip_5lang": {
                 "de": "Dieser Ort bietet viele Aktivitäten im Inneren; ein idealer Zufluchtsort für Familien, um den Nachmittag bei schlechtem Wetter zu verbringen.",
                 "hu": "Ez a helyszín számos beltéri tevékenységet kínál; ideális menedék családoknak a délután eltöltésére rossz idő esetén.",
                 "ro": "Această locație oferă multe activități în interior; un refugiu ideal pentru familii pentru a petrece după-amiaza pe vreme rea.",
-                "en": "This venue offers many indoor activities; it is an ideal sanctuary for families to spend the afternoon during bad weather."
+                "en": "This venue offers many indoor activities; it is an ideal sanctuary for families to spend the afternoon during bad weather.",
+                "fr": "Ce lieu propose de nombreuses activités couvertes ; c’est un sanctuaire idéal pour les familles souhaitant passer l’après‑midi par mauvais temps."
               }
             },
             {
@@ -882,13 +978,15 @@
                 "de": "La Baie des Sirènes",
                 "hu": "La Baie des Sirènes",
                 "ro": "La Baie des Sirènes",
-                "en": "La Baie des Sirènes"
+                "en": "La Baie des Sirènes",
+                "fr": "La Baie des Sirènes"
               },
               "tip_5lang": {
                 "de": "Beenden Sie den Tag hier gemütlich; die Anlage ist bei Regen weniger überlaufen, was für eine entspannte Atmosphäre sorgt.",
                 "hu": "Zárja itt a napot kényelmesen; a létesítmény esőben kevésbé zsúfolt, ami igazán pihentető légkört teremt a látogatáshoz.",
                 "ro": "Încheiați ziua aici confortabil; locația este mai puțin aglomerată pe ploaie, ceea ce creează o atmosferă relaxantă.",
-                "en": "End your day here comfortably; the facility is less crowded in the rain, which creates a truly relaxing atmosphere for your visit."
+                "en": "End your day here comfortably; the facility is less crowded in the rain, which creates a truly relaxing atmosphere for your visit.",
+                "fr": "Terminez votre journée ici confortablement ; l’établissement est moins fréquenté sous la pluie, ce qui crée une atmosphère vraiment relaxante pour votre visite."
               }
             }
           ]
@@ -898,7 +996,8 @@
             "de": "Starten Sie Ihren Wintertag komfortabel beheizt beim Ancien Lavoir. Mittags bietet der Platz des 8. Mai eine helle Kulisse für einen kurzen Spaziergang. Am Nachmittag erleben Sie die stille Sorgue vom Auto aus. Besuchen Sie Le Château des Aventuriers für winterliche Entdeckungen. Da die Sonne um 17:00 Uhr untergeht, ist die Rückfahrt bei Dämmerung besonders stimmungsvoll.",
             "hu": "Indítsa téli napját kényelmesen, az autó fűtését élvezve az Ancien Lavoirnál. Délben a főtér világos hátteret nyújt egy rövid sétához. Délután az autó ablakából csodálhatja meg a csendes Sorgue-t. Látogasson el a Le Château des Aventuriers-hez téli felfedezésekért. Mivel a nap 17:00-kor lemegy, a hazautazás a szürkületben különösen hangulatos.",
             "ro": "Începeți ziua de iarnă confortabil, profitând de căldura mașinii la vechiul lavoar. La prânz, piața oferă un cadru luminos pentru o plimbare scurtă. După-amiaza, admirați râul liniștit din mașină. Vizitați Le Château des Aventuriers pentru explorări hibernale. Deoarece soarele apune la 17:00, drumul de întoarcere în amurg este foarte pitoresc.",
-            "en": "Start your winter day comfortably with the car heater on at Ancien Lavoir. At noon, the main square provides a bright backdrop for a short walk. In the afternoon, admire the quiet Sorgue from your car window. Visit Le Château des Aventuriers for some winter exploration. Since the sun sets at 17:00, the drive back in the dusk is particularly scenic."
+            "en": "Start your winter day comfortably with the car heater on at Ancien Lavoir. At noon, the main square provides a bright backdrop for a short walk. In the afternoon, admire the quiet Sorgue from your car window. Visit Le Château des Aventuriers for some winter exploration. Since the sun sets at 17:00, the drive back in the dusk is particularly scenic.",
+            "fr": "Commencez votre journée d’hiver confortablement avec le chauffage de la voiture allumé à l’Ancien Lavoir. À midi, la place principale offre un cadre lumineux pour une courte promenade. L’après‑midi, admirez la Sorgue tranquille depuis la fenêtre de votre voiture. Visitez Le Château des Aventuriers pour une exploration hivernale. Comme le soleil se couche à 17:00, le retour au crépuscule est particulièrement pittoresque."
           },
           "stops": [
             {
@@ -906,13 +1005,15 @@
                 "de": "Ancien Lavoir",
                 "hu": "Ancien Lavoir",
                 "ro": "Ancien Lavoir",
-                "en": "Ancien Lavoir"
+                "en": "Ancien Lavoir",
+                "fr": "Ancien Lavoir"
               },
               "tip_5lang": {
                 "de": "Die dicken Mauern schützen vor dem kalten Wind; besuchen Sie diesen Ort früh am Morgen, wenn das Licht besonders klar ist.",
                 "hu": "A vastag falak jól védenek a hideg szél ellen; látogasson el ide kora reggel, amikor a téli fények a legtisztábbak.",
                 "ro": "Zidurile groase protejează bine împotriva vântului rece; vizitați acest loc dimineața devreme, când lumina iernii este cea mai clară.",
-                "en": "The thick walls provide good protection against the cold wind; visit here early in the morning when the winter light is clearest."
+                "en": "The thick walls provide good protection against the cold wind; visit here early in the morning when the winter light is clearest.",
+                "fr": "Les murs épais offrent une bonne protection contre le vent froid ; visitez tôt le matin lorsque la lumière hivernale est la plus nette."
               }
             },
             {
@@ -920,13 +1021,15 @@
                 "de": "Place du 8 Mai 1945",
                 "hu": "Place du 8 Mai 1945",
                 "ro": "Place du 8 Mai 1945",
-                "en": "Place du 8 Mai 1945"
+                "en": "Place du 8 Mai 1945",
+                "fr": "Place du 8 Mai 1945"
               },
               "tip_5lang": {
                 "de": "Parken Sie in der Sonne, um das Auto warm zu halten; der Platz wirkt im Winter sehr friedlich und weniger touristisch.",
                 "hu": "Parkoljon a napos oldalon, hogy az autó melegen maradjon; a főtér télen nagyon békés és kevésbé turistás hangulatú.",
                 "ro": "Parcați pe partea însorită pentru a menține mașina caldă; piața pare foarte liniștită iarna și mai puțin turistică.",
-                "en": "Park on the sunny side to keep the car warm; the main square feels very peaceful and less touristy during the winter months."
+                "en": "Park on the sunny side to keep the car warm; the main square feels very peaceful and less touristy during the winter months.",
+                "fr": "Garez‑vous du côté ensoleillé pour garder la voiture chaude ; la place principale est très paisible et moins touristique pendant l’hiver."
               }
             },
             {
@@ -934,13 +1037,15 @@
                 "de": "Berges de la Sorgue",
                 "hu": "Berges de la Sorgue",
                 "ro": "Berges de la Sorgue",
-                "en": "Berges de la Sorgue"
+                "en": "Berges de la Sorgue",
+                "fr": "Berges de la Sorgue"
               },
               "tip_5lang": {
                 "de": "Die kahlen Bäume ermöglichen weite Ausblicke auf den Fluss vom Auto aus; ideal für Naturbeobachtungen ohne zu frieren.",
                 "hu": "A kopár fák széles kilátást tesznek lehetővé a folyóra az autóból; ideális a természet megfigyeléséhez fázás nélkül.",
                 "ro": "Copacii golași permit vederi largi asupra râului din mașină; ideal pentru observarea naturii fără a vă fi frig.",
-                "en": "The bare trees allow for wide views of the river from your car; ideal for nature spotting without feeling the cold."
+                "en": "The bare trees allow for wide views of the river from your car; ideal for nature spotting without feeling the cold.",
+                "fr": "Les arbres dénudés permettent de larges vues sur la rivière depuis votre voiture ; idéal pour observer la nature sans ressentir le froid."
               }
             },
             {
@@ -948,13 +1053,15 @@
                 "de": "Pont sur la Sorgue",
                 "hu": "Pont sur la Sorgue",
                 "ro": "Pont sur la Sorgue",
-                "en": "Pont sur la Sorgue"
+                "en": "Pont sur la Sorgue",
+                "fr": "Pont sur la Sorgue"
               },
               "tip_5lang": {
                 "de": "Halten Sie kurz an, um den Sonnenstand über dem Wasser zu bewundern; die tiefstehende Sonne glitzert herrlich auf der Sorgue.",
                 "hu": "Álljon meg egy pillanatra, hogy megcsodálja a nap állását a víz felett; az alacsony napfény csodásan csillog a Sorgue-on.",
                 "ro": "Opriți scurt pentru a admira poziția soarelui deasupra apei; soarele jos strălucește superb pe suprafața râului Sorgue.",
-                "en": "Stop briefly to admire the sun's position over the water; the low winter sun sparkles beautifully on the Sorgue river."
+                "en": "Stop briefly to admire the sun's position over the water; the low winter sun sparkles beautifully on the Sorgue river.",
+                "fr": "Arrêtez-vous brièvement pour admirer la position du soleil sur l'eau ; le soleil bas d'hiver scintille magnifiquement sur la rivière Sorgue."
               }
             },
             {
@@ -962,13 +1069,15 @@
                 "de": "Le château des Aventuriers",
                 "hu": "Le château des Aventuriers",
                 "ro": "Le château des Aventuriers",
-                "en": "Le château des Aventuriers"
+                "en": "Le château des Aventuriers",
+                "fr": "Le château des Aventuriers"
               },
               "tip_5lang": {
                 "de": "Prüfen Sie die winterlichen Sonderveranstaltungen; das Schloss hat in der kalten Jahreszeit eine ganz eigene, mystische Atmosphäre.",
                 "hu": "Ellenőrizze a különleges téli eseményeket; a kastélynak a hideg évszakban sajátos, misztikus hangulata van.",
                 "ro": "Verificați evenimentele speciale de iarnă; castelul are o atmosferă mistică aparte în timpul sezonului rece.",
-                "en": "Check for special winter events; the castle has its own unique, mystical atmosphere during the colder season."
+                "en": "Check for special winter events; the castle has its own unique, mystical atmosphere during the colder season.",
+                "fr": "Vérifiez les événements spéciaux d'hiver ; le château possède une atmosphère unique et mystique durant la saison froide."
               }
             },
             {
@@ -976,13 +1085,15 @@
                 "de": "La Baie des Sirènes",
                 "hu": "La Baie des Sirènes",
                 "ro": "La Baie des Sirènes",
-                "en": "La Baie des Sirènes"
+                "en": "La Baie des Sirènes",
+                "fr": "La Baie des Sirènes"
               },
               "tip_5lang": {
                 "de": "Beenden Sie den Tag vor Sonnenuntergang um 17:00 Uhr; die Beleuchtung der Anlage wirkt in der Winternacht sehr einladend.",
                 "hu": "Fejezze be a napot a 17:00-as naplemente előtt; a létesítmény kivilágítása a téli estén nagyon hívogató és hangulatos.",
                 "ro": "Încheiați ziua înainte de apusul de la ora 17:00; iluminarea locației pare foarte primitoare în serile de iarnă.",
-                "en": "Finish your day before the 17:00 sunset; the facility's lighting looks very inviting and atmospheric in the winter evening."
+                "en": "Finish your day before the 17:00 sunset; the facility's lighting looks very inviting and atmospheric in the winter evening.",
+                "fr": "Terminez votre journée avant le coucher du soleil à 17:00 ; l'éclairage du site est très accueillant et atmosphérique en soirée d'hiver."
               }
             }
           ]

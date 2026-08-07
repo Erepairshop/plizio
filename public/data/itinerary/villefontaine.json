@@ -21,7 +21,8 @@
             "de": "Le Vellein",
             "hu": "Le Vellein",
             "ro": "Le Vellein",
-            "en": "Le Vellein"
+            "en": "Le Vellein",
+            "fr": "Le Vellein"
           },
           "coords": [
             5.144547,
@@ -36,7 +37,8 @@
             "de": "Entdecken Sie regionale Aufführungen in diesem Kulturzentrum und prüfen Sie den Saisonkalender für kostenlose Ausstellungen im Foyer.",
             "hu": "Fedezze fel a kortárs regionális előadásokat ebben a kulturális központban, és mindenképpen ellenőrizze a szezonnaptárat az ingyenes kiállításokért.",
             "ro": "Descoperiți spectacole contemporane regionale în acest centru cultural și verificați calendarul sezonier pentru expoziții gratuite în foaier.",
-            "en": "Discover regional contemporary performances at this cultural hub, and be sure to check their seasonal calendar for free lobby exhibitions."
+            "en": "Discover regional contemporary performances at this cultural hub, and be sure to check their seasonal calendar for free lobby exhibitions.",
+            "fr": "Découvrez des spectacles contemporains régionaux dans ce pôle culturel, et consultez leur calendrier saisonnier pour des expositions gratuites dans le hall."
           }
         },
         {
@@ -44,7 +46,8 @@
             "de": "Vellein 1",
             "hu": "Vellein 1",
             "ro": "Vellein 1",
-            "en": "Vellein 1"
+            "en": "Vellein 1",
+            "fr": "Vellein 1"
           },
           "coords": [
             5.147288,
@@ -59,7 +62,8 @@
             "de": "Entspannen Sie in dieser grünen Oase für Familien und bringen Sie frisches Brot mit, um die freundlichen Enten der Umgebung zu füttern.",
             "hu": "Pihenjen meg ebben a családok számára tökéletes zöldövezetben, és hozzon magával friss kenyeret, hogy megetethesse a barátságos helyi kacsákat.",
             "ro": "Relaxați-vă în acest spațiu verde fermecător, ideal pentru familii, și aduceți puțină pâine proaspătă pentru a hrăni rațele prietenoase.",
-            "en": "Relax in this charming green pocket perfect for families, and bring some fresh bread to feed the friendly local ducks if they are around."
+            "en": "Relax in this charming green pocket perfect for families, and bring some fresh bread to feed the friendly local ducks if they are around.",
+            "fr": "Détendez‑vous dans ce charmant espace vert idéal pour les familles ; apportez du pain frais pour nourrir les canards locaux si vous en trouvez."
           }
         },
         {
@@ -67,7 +71,8 @@
             "de": "Étang de Vaugelas",
             "hu": "Étang de Vaugelas",
             "ro": "Étang de Vaugelas",
-            "en": "Étang de Vaugelas"
+            "en": "Étang de Vaugelas",
+            "fr": "Étang de Vaugelas"
           },
           "coords": [
             5.153366,
@@ -82,7 +87,8 @@
             "de": "Spazieren Sie den schattigen Uferweg entlang, um die Vogelwelt zu genießen, und packen Sie ein leichtes Picknick für die Holzbänke ein.",
             "hu": "Sétáljon végig az árnyékos tóparti ösvényen a gazdag madárvilágért, és hozzon magával egy könnyű pikniket a szépen karbantartott fapadokra.",
             "ro": "Plimbați-vă pe cărarea umbrită de pe malul lacului pentru a admira păsările și aduceți un picnic ușor de savurat pe băncile din lemn.",
-            "en": "Stroll along the shaded lakeside path to enjoy the rich birdlife, packing a light picnic to eat on the well-maintained wooden benches."
+            "en": "Stroll along the shaded lakeside path to enjoy the rich birdlife, packing a light picnic to eat on the well-maintained wooden benches.",
+            "fr": "Promenez‑vous le long du sentier ombragé du lac pour observer la riche avifaune, en prévoyant un pique‑nique léger à déguster sur les bancs en bois bien entretenus."
           }
         },
         {
@@ -90,7 +96,8 @@
             "de": "piscine",
             "hu": "piscine",
             "ro": "piscine",
-            "en": "piscine"
+            "en": "piscine",
+            "fr": "piscine"
           },
           "coords": [
             5.160026,
@@ -105,7 +112,8 @@
             "de": "Genießen Sie ein erfrischendes Bad in dieser modernen Anlage, aber denken Sie daran, dass in Frankreich enge Badehosen obligatorisch sind.",
             "hu": "Élvezze a frissítő úszást ebben a modern létesítményben, de ne feledje, hogy Franciaországban a szoros fürdőruha viselése kötelező.",
             "ro": "Bucurați-vă de o baie răcoritoare în acest complex modern, dar nu uitați că slipul clasic este obligatoriu pentru acces în Franța.",
-            "en": "Enjoy a refreshing swim in this modern facility, but remember that standard tight-fitting swimwear is mandatory for entry in France."
+            "en": "Enjoy a refreshing swim in this modern facility, but remember that standard tight-fitting swimwear is mandatory for entry in France.",
+            "fr": "Profitez d’une baignade revigorante dans cet équipement moderne, mais souvenez‑vous que le maillot de bain ajusté standard est obligatoire pour l’accès en France."
           }
         },
         {
@@ -113,7 +121,8 @@
             "de": "Saint-Bonnet Nature Reserve",
             "hu": "Saint-Bonnet Nature Reserve",
             "ro": "Saint-Bonnet Nature Reserve",
-            "en": "Saint-Bonnet Nature Reserve"
+            "en": "Saint-Bonnet Nature Reserve",
+            "fr": "Réserve naturelle de Saint‑Bonnet"
           },
           "coords": [
             5.167082,
@@ -128,7 +137,8 @@
             "de": "Erkunden Sie die ökologischen Zonen auf den markierten Holzstegen und tragen Sie festes Schuhwerk für die gelegentlich schlammigen Abschnitte.",
             "hu": "Fedezze fel a változatos ökológiai zónákat a kijelölt fapallókon, és feltétlenül viseljen túracipőt az esetenként saras szakaszok miatt.",
             "ro": "Explorați zonele ecologice diverse pe podețele din lemn marcate, asigurându-vă că purtați încălțăminte robustă pentru porțiunile noroioase.",
-            "en": "Explore the diverse ecological zones on the marked wooden boardwalks, taking care to wear sturdy shoes for the occasionally muddy sections."
+            "en": "Explore the diverse ecological zones on the marked wooden boardwalks, taking care to wear sturdy shoes for the occasionally muddy sections.",
+            "fr": "Explorez les diverses zones écologiques sur les passerelles en bois balisées, en veillant à porter des chaussures solides pour les sections parfois boueuses."
           }
         },
         {
@@ -136,7 +146,8 @@
             "de": "Étang de Saint-Bonnet",
             "hu": "Étang de Saint-Bonnet",
             "ro": "Étang de Saint-Bonnet",
-            "en": "Étang de Saint-Bonnet"
+            "en": "Étang de Saint-Bonnet",
+            "fr": "Étang de Saint‑Bonnet"
           },
           "coords": [
             5.167409,
@@ -151,7 +162,8 @@
             "de": "Bewundern Sie die friedlichen Sonnenuntergangsreflexionen an diesem Teich und bringen Sie Mückenspray mit, falls Sie bis zum Abend bleiben.",
             "hu": "Csodálja meg a békés naplemente tükröződését ezen az érintetlen tavon, és feltétlenül vigyen magával szúnyogriasztót, ha estig marad.",
             "ro": "Admirați reflexiile calme ale apusului pe acest iaz curat și asigurați-vă că aveți spray anti-țânțari dacă zăboviți târziu în seară.",
-            "en": "Admire the calm sunset reflections at this pristine pond, making sure to bring mosquito repellent if you linger late into the warm evening."
+            "en": "Admire the calm sunset reflections at this pristine pond, making sure to bring mosquito repellent if you linger late into the warm evening.",
+            "fr": "Admirez les reflets du coucher de soleil sur cet étang préservé, et pensez à prendre un répulsif contre les moustiques si vous traînez tard par une soirée chaude."
           }
         }
       ],
@@ -159,7 +171,8 @@
         "de": "Beginnen Sie Ihren Morgen am Le Vellein mit lokaler Kultur, bevor Sie zum angrenzenden Vellein 1 schlendern. Mittags erreichen Sie die ruhigen Ufer des Étang de Vaugelas, die sich perfekt für eine entspannte Pause am Wasser eignen. Genießen Sie am Nachmittag eine aktive Zeit in der Nähe der Piscine, bevor Sie die grünen Pfade des Naturschutzgebiets Saint-Bonnet erkunden. Beenden Sie Ihren Tag am friedlichen Étang de Saint-Bonnet und beobachten Sie die abendlichen Spiegelungen.",
         "hu": "Kezdje a reggelt a Le Vellein kulturális terén, majd sétáljon át a szomszédos Vellein 1 pihenőövezetbe. A délben elérhető Étang de Vaugelas nyugodt partjai tökéletes helyszínt nyújtanak egy kis vízparti pihenésre. Délután élvezze az aktív időtöltést a Piscine közelében, mielőtt felfedezné a Saint-Bonnet Természetvédelmi Terület zöldellő ösvényeit. Zárja a napot a békés Étang de Saint-Bonnet mellett, gyönyörködve a lemenő nap vízi tükröződésében.",
         "ro": "Începeți dimineața la Le Vellein pentru a simți pulsul cultural local, înainte de a face o scurtă plimbare spre zona Vellein 1. La prânz vă veți relaxa pe malurile liniștite ale lacului Étang de Vaugelas, ideal pentru o pauză reconfortantă. După-amiaza aduce momente active lângă Piscine, urmate de o explorare a potecilor verzi din Rezervația Naturală Saint-Bonnet. Încheiați ziua pe malul pașnic al lacului Étang de Saint-Bonnet, admirând reflexiile serii pe apă.",
-        "en": "Start your morning at Le Vellein, immersing yourself in local culture before taking a brief stroll to the adjacent Vellein 1 area. Midday brings you to the tranquil shores of Étang de Vaugelas, perfect for a relaxing waterside break. In the afternoon, enjoy some active time near the piscine before exploring the verdant trails of the Saint-Bonnet Nature Reserve. Conclude your day by the peaceful Étang de Saint-Bonnet, watching the evening reflections on the calm water."
+        "en": "Start your morning at Le Vellein, immersing yourself in local culture before taking a brief stroll to the adjacent Vellein 1 area. Midday brings you to the tranquil shores of Étang de Vaugelas, perfect for a relaxing waterside break. In the afternoon, enjoy some active time near the piscine before exploring the verdant trails of the Saint-Bonnet Nature Reserve. Conclude your day by the peaceful Étang de Saint-Bonnet, watching the evening reflections on the calm water.",
+        "fr": "Commencez la matinée au Vellein, en vous imprégnant de la culture locale avant une brève promenade jusqu’à l’espace Vellein 1 adjacent. À midi, rendez‑vous aux rives tranquilles de l’Étang de Vaugelas pour une pause au bord de l’eau.\n\nL’après‑midi, profitez d’un moment actif près de la piscine avant d’explorer les sentiers verdoyants de la Réserve naturelle de Saint‑Bonnet. Terminez la journée au paisible Étang de Saint‑Bonnet, en observant les reflets du soir sur l’eau calme."
       },
       "variants": {
         "rainy": {
@@ -167,7 +180,8 @@
             "de": "Der Tag beginnt im Le Vellein, wo das moderne Gebäude Schutz vor dem Regen bietet. Mittags führt der Weg kurz zum Vellein 1, bevor wir die neblige Atmosphäre am Étang de Vaugelas genießen.\n\nNachmittags ist das Hallenbad (piscine) der ideale Ort, um trocken zu bleiben. Danach wandern wir durch das Saint-Bonnet Reservat, dessen Bäume wie ein natürlicher Schirm wirken.\n\nAm Abend erreichen wir den Étang de Saint-Bonnet. Die Wege können rutschig sein, daher ist bei der Dämmerung Vorsicht geboten.",
             "hu": "A reggel a Le Vellein kulturális központ fedett tereiben indul, védve az esőtől. Délben a Vellein 1 parkot érintjük, majd az Étang de Vaugelas ködös, vízi világát fedezzük fel esernyővel.\n\nDélután az uszoda (piscine) épülete nyújt tökéletes menedéket a záporok elől. Később a Saint-Bonnet természetvédelmi terület sűrű lombjai alatt sétálunk tovább.\n\nEste az Étang de Saint-Bonnet partján zárjuk a napot. A sárban csúszóssá váló ösvényeken fokozott figyelemmel közlekedjünk a szürkületben.",
             "ro": "Dimineața începe la centrul cultural Le Vellein, oferind un adăpost perfect împotriva ploii. La prânz vizităm scurt Vellein 1, apoi explorăm atmosfera mistică a Étang de Vaugelas.\n\nDupă-amiaza, piscina acoperită este locul ideal pentru a rămâne uscat. Ulterior, ne plimbăm prin Rezervația Saint-Bonnet, unde coronamentul arborilor acționează ca o umbrelă naturală.\n\nSeara ajungem la Étang de Saint-Bonnet. Atenție pe potecile care devin alunecoase din cauza noroiului în pragul serii.",
-            "en": "Start your morning at Le Vellein cultural center, staying dry while enjoying the arts. At noon, pass through Vellein 1 before admiring the misty, rain-soaked landscape of Étang de Vaugelas.\n\nIn the afternoon, the local pool (piscine) provides a warm refuge from the downpour. Later, explore the Saint-Bonnet Nature Reserve where the dense forest canopy offers some shelter.\n\nEnd the day at Étang de Saint-Bonnet. Be careful on the muddy trails as the light fades, and ensure you have waterproof footwear."
+            "en": "Start your morning at Le Vellein cultural center, staying dry while enjoying the arts. At noon, pass through Vellein 1 before admiring the misty, rain-soaked landscape of Étang de Vaugelas.\n\nIn the afternoon, the local pool (piscine) provides a warm refuge from the downpour. Later, explore the Saint-Bonnet Nature Reserve where the dense forest canopy offers some shelter.\n\nEnd the day at Étang de Saint-Bonnet. Be careful on the muddy trails as the light fades, and ensure you have waterproof footwear.",
+            "fr": "Commencez la matinée au centre culturel Le Vellein, à l’abri tout en profitant des arts. À midi, traversez Vellein 1 avant d’admirer le paysage brumeux et détrempé de l’Étang de Vaugelas.\n\nL’après‑midi, la piscine offre un refuge chauffé contre l’averse. Ensuite, explorez la Réserve naturelle de Saint‑Bonnet où la canopée dense offre un certain abri.\n\nTerminez la journée à l’Étang de Saint‑Bonnet. Faites attention aux sentiers boueux à mesure que la lumière baisse et munissez‑vous de chaussures imperméables."
           },
           "stops": [
             {
@@ -175,13 +189,15 @@
                 "de": "Le Vellein",
                 "hu": "Le Vellein",
                 "ro": "Le Vellein",
-                "en": "Le Vellein"
+                "en": "Le Vellein",
+                "fr": "Le Vellein"
               },
               "tip_4lang": {
                 "de": "Genießen Sie die Architektur und Ausstellungen im Inneren; es ist der perfekte Ort, um den ersten Regenschauer des Tages im Trockenen abzuwarten.",
                 "hu": "Élvezze a belső kiállításokat és a modern építészetet; ez a legjobb hely a városban, hogy szárazon vészelje át a reggeli záporokat.",
                 "ro": "Bucurați-vă de expozițiile interioare și de arhitectura modernă; este locul ideal pentru a aștepta trecerea ploii de dimineață la adăpost.",
-                "en": "Enjoy the indoor exhibitions and modern architecture; it is the perfect spot to wait out the morning rain showers while staying completely dry."
+                "en": "Enjoy the indoor exhibitions and modern architecture; it is the perfect spot to wait out the morning rain showers while staying completely dry.",
+                "fr": "Profitez des expositions intérieures et de l’architecture moderne ; c’est l’endroit parfait pour attendre la pluie du matin à l’abri complet."
               }
             },
             {
@@ -189,13 +205,15 @@
                 "de": "Vellein 1",
                 "hu": "Vellein 1",
                 "ro": "Vellein 1",
-                "en": "Vellein 1"
+                "en": "Vellein 1",
+                "fr": "Vellein 1"
               },
               "tip_4lang": {
                 "de": "Ein kurzer Stopp an diesem Platz ist auch bei Regen lohnenswert; achten Sie auf Pfützen auf den gepflasterten Bereichen rund um die Anlage.",
                 "hu": "Egy rövid megálló esőben is belefér; ügyeljen a burkolt felületeken kialakuló tócsákra és a csúszós részekre a park környékén.",
                 "ro": "O scurtă oprire merită chiar și pe ploaie; aveți grijă la bălțile care se formează pe zonele pavate din jurul facilităților.",
-                "en": "A brief stop here is worth it even in the rain; watch out for puddles forming on the paved sections around the playground area."
+                "en": "A brief stop here is worth it even in the rain; watch out for puddles forming on the paved sections around the playground area.",
+                "fr": "Une brève halte ici vaut le coup même sous la pluie ; attention aux flaques qui se forment sur les parties pavées autour de l’aire de jeux."
               }
             },
             {
@@ -203,13 +221,15 @@
                 "de": "Étang de Vaugelas",
                 "hu": "Étang de Vaugelas",
                 "ro": "Étang de Vaugelas",
-                "en": "Étang de Vaugelas"
+                "en": "Étang de Vaugelas",
+                "fr": "Étang de Vaugelas"
               },
               "tip_4lang": {
                 "de": "Der See wirkt im Regen besonders melancholisch; tragen Sie wasserfeste Wanderschuhe, da die ufernahen Pfade bei Nässe sehr weich und schlammig werden.",
                 "hu": "A tó partja esőben különlegesen nyugodt; viseljen vízálló túrabakancsot, mert a partmenti ösvények ilyenkor mélyek és sárosak lehetnek.",
                 "ro": "Lacul are o atmosferă melancolică pe ploaie; purtați bocanci impermeabili, deoarece potecile de pe mal devin foarte moi și noroioase.",
-                "en": "The lake has a melancholic beauty in the rain; wear waterproof hiking boots as the lakeside trails become very soft and muddy when wet."
+                "en": "The lake has a melancholic beauty in the rain; wear waterproof hiking boots as the lakeside trails become very soft and muddy when wet.",
+                "fr": "Le lac a une beauté mélancolique sous la pluie ; portez des chaussures de randonnée imperméables car les sentiers au bord du lac deviennent très meubles et boueux quand ils sont mouillés."
               }
             },
             {
@@ -217,13 +237,15 @@
                 "de": "piscine",
                 "hu": "piscine",
                 "ro": "piscine",
-                "en": "piscine"
+                "en": "piscine",
+                "fr": "piscine"
               },
               "tip_4lang": {
                 "de": "Nutzen Sie das Hallenbad für eine sportliche Pause im Warmen; es ist die beste Alternative, wenn der Regen draußen zu stark für lange Spaziergänge wird.",
                 "hu": "Használja ki a fedett uszodát egy meleg, vizes kikapcsolódásra; ez a legjobb választás, ha kint túl erősen esne az eső a sétához.",
                 "ro": "Folosiți piscina acoperită pentru o pauză sportivă la căldură; este cea mai bună alternativă când ploaia devine prea densă pentru plimbări.",
-                "en": "Take advantage of the indoor pool for a warm break; it is the best alternative if the rain outside becomes too heavy for long walks."
+                "en": "Take advantage of the indoor pool for a warm break; it is the best alternative if the rain outside becomes too heavy for long walks.",
+                "fr": "Profitez de la piscine intérieure pour une pause chaude ; c’est la meilleure alternative si la pluie dehors devient trop forte pour de longues promenades."
               }
             },
             {
@@ -231,13 +253,15 @@
                 "de": "Saint-Bonnet Nature Reserve",
                 "hu": "Saint-Bonnet Nature Reserve",
                 "ro": "Saint-Bonnet Nature Reserve",
-                "en": "Saint-Bonnet Nature Reserve"
+                "en": "Saint-Bonnet Nature Reserve",
+                "fr": "Réserve Naturelle de Saint-Bonnet"
               },
               "tip_4lang": {
                 "de": "Die dichten Baumkronen bieten Schutz, doch die nassen Blätter am Boden sind rutschig; nutzen Sie einen stabilen Wanderstock für besseren Halt.",
                 "hu": "A sűrű lombok védenek az esőtől, de a vizes levelek csúszósak; használjon túrabotot a biztonságos haladáshoz az erdei talajon.",
                 "ro": "Coronamentul des oferă protecție, dar frunzele ude de pe sol sunt alunecoase; folosiți un băț de trekking pentru o mai bună stabilitate.",
-                "en": "The thick canopy provides some shelter, but wet leaves on the ground are slippery; use a trekking pole for better balance on the forest floor."
+                "en": "The thick canopy provides some shelter, but wet leaves on the ground are slippery; use a trekking pole for better balance on the forest floor.",
+                "fr": "Le feuillage dense offre un certain abri, mais les feuilles mouillées au sol sont glissantes ; utilisez un bâton de randonnée pour mieux vous équilibrer sur le plancher forestier."
               }
             },
             {
@@ -245,13 +269,15 @@
                 "de": "Étang de Saint-Bonnet",
                 "hu": "Étang de Saint-Bonnet",
                 "ro": "Étang de Saint-Bonnet",
-                "en": "Étang de Saint-Bonnet"
+                "en": "Étang de Saint-Bonnet",
+                "fr": "Étang de Saint-Bonnet"
               },
               "tip_4lang": {
                 "de": "Der Blick über das Wasser bei Regen ist faszinierend; suchen Sie sich einen Platz unter den Bäumen und genießen Sie die Stille der Natur.",
                 "hu": "Az esőben megcsillanó vízfelület látványa lenyűgöző; keressen egy védett helyet a fák alatt, és élvezze a természet csendjét a túra végén.",
                 "ro": "Vederea peste apă în timpul ploii este fascinantă; găsiți un loc sub copaci și bucurați-vă de liniștea naturii la finalul traseului.",
-                "en": "The view over the water during rain is fascinating; find a sheltered spot under the trees and enjoy the silence of nature at the end of your hike."
+                "en": "The view over the water during rain is fascinating; find a sheltered spot under the trees and enjoy the silence of nature at the end of your hike.",
+                "fr": "La vue sur l’eau sous la pluie est fascinante ; trouvez un endroit abrité sous les arbres et profitez du silence de la nature à la fin de votre randonnée."
               }
             }
           ]
@@ -261,7 +287,8 @@
             "de": "Am klaren Wintermorgen wärmen wir uns im Le Vellein auf. Mittags führt ein kurzer Spaziergang durch den Vellein 1 Park, wo die kühle Luft die Sinne belebt.\n\nNachmittags wandern wir am frostigen Étang de Vaugelas entlang, bevor wir uns im beheizten Hallenbad (piscine) regenerieren.\n\nDa die Sonne gegen 17:00 Uhr untergeht, besuchen wir das Saint-Bonnet Reservat und den See in der Dämmerung, wenn der Frost die Landschaft verzaubert.",
             "hu": "A tiszta téli reggelen a Le Vellein fűtött falai között kezdünk. Délben rövid sétát teszünk a Vellein 1 parkban, élvezve a frissítő, fagyos levegőt.\n\nDélután az Étang de Vaugelas jeges partja mentén haladunk, majd az uszoda (piscine) trópusi melegében melegszünk fel.\n\nA nap korán, 17:00 körül nyugszik, így a Saint-Bonnet területét már a szürkületi fényekben, zúzmarás tájjal fedezzük fel a nap végén.",
             "ro": "În dimineața geroasă de iarnă, ne încălzim la centrul Le Vellein. La prânz, o scurtă plimbare prin parcul Vellein 1 ne revigorează simțurile cu aerul rece.\n\nDupă-amiaza mergem pe malul înghețat al Étang de Vaugelas, înainte de a ne relaxa la piscina încălzită.\n\nSoarele apune devreme, în jur de ora 17:00, așa că vizităm Rezervația Saint-Bonnet și lacul în penumbră, când chiciura acoperă peisajul.",
-            "en": "On a crisp winter morning, warm up inside Le Vellein. At noon, take a short walk through Vellein 1 park, where the cool air is truly invigorating.\n\nIn the afternoon, walk along the frosty shores of Étang de Vaugelas before retreating to the heated indoor pool (piscine).\n\nWith sunset around 17:00, explore the Saint-Bonnet Reserve and the lake as the frost settles, creating a magical atmosphere in the fading light."
+            "en": "On a crisp winter morning, warm up inside Le Vellein. At noon, take a short walk through Vellein 1 park, where the cool air is truly invigorating.\n\nIn the afternoon, walk along the frosty shores of Étang de Vaugelas before retreating to the heated indoor pool (piscine).\n\nWith sunset around 17:00, explore the Saint-Bonnet Reserve and the lake as the frost settles, creating a magical atmosphere in the fading light.",
+            "fr": "Par un matin d’hiver vif, réchauffez-vous à l’intérieur du Vellein. À midi, faites une courte promenade dans le parc Vellein 1, où l’air frais est revigorant.\n\nL’après-midi, marchez le long des rives givrées de l’Étang de Vaugelas avant de regagner la piscine chauffée (piscine).\n\nAvec le coucher du soleil vers 17:00, explorez la Réserve de Saint-Bonnet et le lac tandis que le givre s’installe, créant une atmosphère magique dans la lumière déclinante."
           },
           "stops": [
             {
@@ -269,13 +296,15 @@
                 "de": "Le Vellein",
                 "hu": "Le Vellein",
                 "ro": "Le Vellein",
-                "en": "Le Vellein"
+                "en": "Le Vellein",
+                "fr": "Le Vellein"
               },
               "tip_4lang": {
                 "de": "Nutzen Sie das warme Foyer des Kulturzentrums für eine Pause; die Innenräume sind perfekt, um sich vor der winterlichen Kälte draußen zu schützen.",
                 "hu": "Használja ki a kulturális központ fűtött előcsarnokát egy pihenőre; a belső terek tökéletesek a téli hideg elleni védekezéshez.",
                 "ro": "Folosiți holul încălzit al centrului cultural pentru o pauză; spațiile interioare sunt perfecte pentru a vă proteja de frigul iernii.",
-                "en": "Use the heated lobby of the cultural center for a break; the interior spaces are perfect for shielding yourself from the winter chill."
+                "en": "Use the heated lobby of the cultural center for a break; the interior spaces are perfect for shielding yourself from the winter chill.",
+                "fr": "Utilisez le hall chauffé du centre culturel pour une pause ; les espaces intérieurs sont parfaits pour vous protéger du froid hivernal."
               }
             },
             {
@@ -283,13 +312,15 @@
                 "de": "Vellein 1",
                 "hu": "Vellein 1",
                 "ro": "Vellein 1",
-                "en": "Vellein 1"
+                "en": "Vellein 1",
+                "fr": "Vellein 1"
               },
               "tip_4lang": {
                 "de": "Bewegen Sie sich zügig, um warm zu bleiben; der offene Platz kann im Winter sehr zugig sein, daher ist eine winddichte Jacke hier unerlässlich.",
                 "hu": "Mozogjon tempósan, hogy megőrizze testhőjét; a nyitott tér télen szeles lehet, ezért egy szélálló dzseki elengedhetetlen ezen a ponton.",
                 "ro": "Mișcați-vă rapid pentru a vă menține căldura; spațiul deschis poate fi foarte vântos iarna, deci o jachetă rezistentă la vânt este esențială.",
-                "en": "Keep moving briskly to stay warm; the open area can be quite drafty in winter, so a windproof jacket is essential here."
+                "en": "Keep moving briskly to stay warm; the open area can be quite drafty in winter, so a windproof jacket is essential here.",
+                "fr": "Restez en mouvement pour conserver la chaleur ; la zone ouverte peut être très venteuse en hiver, donc une veste coupe-vent est essentielle ici."
               }
             },
             {
@@ -297,13 +328,15 @@
                 "de": "Étang de Vaugelas",
                 "hu": "Étang de Vaugelas",
                 "ro": "Étang de Vaugelas",
-                "en": "Étang de Vaugelas"
+                "en": "Étang de Vaugelas",
+                "fr": "Étang de Vaugelas"
               },
               "tip_4lang": {
                 "de": "Die gefrorenen Schilfufer sind ein tolles Fotomotiv; tragen Sie warme Thermosocken, da die Kälte vom Wasser her besonders intensiv in die Schuhe zieht.",
                 "hu": "A befagyott nádasok látványa remek fotótéma; viseljen meleg termozoknit, mert a víz felőli hideg ilyenkor gyorsan áthűti a lábakat.",
                 "ro": "Malurile înghețate sunt ideale pentru fotografii; purtați șosete termice groase, deoarece frigul de lângă apă pătrunde rapid prin încălțăminte.",
-                "en": "The frozen reeds offer great photo opportunities; wear warm thermal socks as the cold from the water level can quickly chill your feet."
+                "en": "The frozen reeds offer great photo opportunities; wear warm thermal socks as the cold from the water level can quickly chill your feet.",
+                "fr": "Les roseaux gelés offrent de belles opportunités photo ; portez des chaussettes thermiques chaudes car le froid provenant du niveau de l’eau peut rapidement engourdir vos pieds."
               }
             },
             {
@@ -311,13 +344,15 @@
                 "de": "piscine",
                 "hu": "piscine",
                 "ro": "piscine",
-                "en": "piscine"
+                "en": "piscine",
+                "fr": "piscine"
               },
               "tip_4lang": {
                 "de": "Ein Besuch im Winter ist besonders wohltuend für die Gelenke; vergessen Sie nicht, sich nach dem Schwimmen gut abzutrocknen, bevor Sie in die Kälte gehen.",
                 "hu": "A téli látogatás különösen jót tesz a fázós ízületeknek; ne felejtsen el alaposan megszáradni úszás után, mielőtt visszatérne a kinti hidegbe.",
                 "ro": "O vizită iarna este benefică pentru articulațiile amorțite; nu uitați să vă uscați bine după înot înainte de a ieși din nou în frig.",
-                "en": "A winter visit is especially soothing for stiff joints; don't forget to dry off thoroughly after swimming before heading back into the cold."
+                "en": "A winter visit is especially soothing for stiff joints; don't forget to dry off thoroughly after swimming before heading back into the cold.",
+                "fr": "Une visite hivernale est particulièrement apaisante pour les articulations raides ; n’oubliez pas de vous sécher soigneusement après la baignade avant de retourner au froid."
               }
             },
             {
@@ -325,13 +360,15 @@
                 "de": "Saint-Bonnet Nature Reserve",
                 "hu": "Saint-Bonnet Nature Reserve",
                 "ro": "Saint-Bonnet Nature Reserve",
-                "en": "Saint-Bonnet Nature Reserve"
+                "en": "Saint-Bonnet Nature Reserve",
+                "fr": "Réserve Naturelle de Saint-Bonnet"
               },
               "tip_4lang": {
                 "de": "Die kahlen Bäume lassen viel Licht durch, aber der Boden kann gefroren und uneben sein; achten Sie auf festen Tritt bei der Wanderung durch den Wald.",
                 "hu": "A csupasz fák között több a fény, de a talaj fagyott és egyenetlen lehet; figyeljen a lába elé az erdei ösvényeken a botlások elkerülésére.",
                 "ro": "Copacii golași lasă lumina să treacă, dar solul poate fi înghețat și denivelat; atenție sporită la fiecare pas pe potecile din pădure.",
-                "en": "The bare trees allow more light through, but the ground can be frozen and uneven; watch your step on the forest paths to avoid tripping."
+                "en": "The bare trees allow more light through, but the ground can be frozen and uneven; watch your step on the forest paths to avoid tripping.",
+                "fr": "Les arbres dépouillés laissent passer plus de lumière, mais le sol peut être gelé et irrégulier ; faites attention à vos pas sur les sentiers forestiers pour éviter les chutes."
               }
             },
             {
@@ -339,13 +376,15 @@
                 "de": "Étang de Saint-Bonnet",
                 "hu": "Étang de Saint-Bonnet",
                 "ro": "Étang de Saint-Bonnet",
-                "en": "Étang de Saint-Bonnet"
+                "en": "Étang de Saint-Bonnet",
+                "fr": "Étang de Saint-Bonnet"
               },
               "tip_4lang": {
                 "de": "Genießen Sie die winterliche Ruhe am Seeufer kurz vor Sonnenuntergang um 17 Uhr; eine Thermoskanne mit heißem Tee ist jetzt der ideale Begleiter.",
                 "hu": "Élvezze a téli nyugalmat a tóparton közvetlenül a 17 órai napnyugta előtt; egy termosz forró tea ilyenkor a legjobb társ a hidegben.",
                 "ro": "Bucurați-vă de liniștea iernii pe malul lacului înainte de apusul de la ora 17; un termos cu ceai fierbinte este companionul ideal acum.",
-                "en": "Enjoy the winter serenity by the lake just before the 17:00 sunset; a thermos of hot tea is the ideal companion in the cold right now."
+                "en": "Enjoy the winter serenity by the lake just before the 17:00 sunset; a thermos of hot tea is the ideal companion in the cold right now.",
+                "fr": "Appréciez la sérénité hivernale au bord du lac juste avant le coucher du soleil à 17:00 ; un thermos de thé chaud est le compagnon idéal par ce froid."
               }
             }
           ]
@@ -365,7 +404,8 @@
             "de": "Étang de Fallavier",
             "hu": "Étang de Fallavier",
             "ro": "Étang de Fallavier",
-            "en": "Étang de Fallavier"
+            "en": "Étang de Fallavier",
+            "fr": "Étang de Fallavier"
           },
           "coords": [
             5.130302,
@@ -380,7 +420,8 @@
             "de": "Machen Sie einen gemütlichen Spaziergang um diesen historischen See und halten Sie Ausschau nach den alten Ruinen im nahegelegenen Wald.",
             "hu": "Tegyen egy kényelmes sétát a történelmi tó hatalmas peremén, és tartsa nyitva a szemét a közeli erdőben rejtőző ősi romok után.",
             "ro": "Faceți o plimbare relaxantă în jurul acestui lac istoric și fiți cu ochii în patru pentru ruinele antice ascunse în pădurea din apropiere.",
-            "en": "Take a leisurely walk around the vast perimeter of this historic lake, and keep an eye out for the ancient ruins hidden in the nearby forest."
+            "en": "Take a leisurely walk around the vast perimeter of this historic lake, and keep an eye out for the ancient ruins hidden in the nearby forest.",
+            "fr": "Faites une promenade tranquille autour du vaste périmètre de ce lac historique, en gardant l’œil ouvert pour les ruines anciennes cachées dans la forêt voisine."
           }
         },
         {
@@ -388,7 +429,8 @@
             "de": "Le Vellein",
             "hu": "Le Vellein",
             "ro": "Le Vellein",
-            "en": "Le Vellein"
+            "en": "Le Vellein",
+            "fr": "Le Vellein"
           },
           "coords": [
             5.144547,
@@ -403,7 +445,8 @@
             "de": "Entdecken Sie regionale Aufführungen in diesem Kulturzentrum und prüfen Sie den Saisonkalender für kostenlose Ausstellungen im Foyer.",
             "hu": "Fedezze fel a kortárs regionális előadásokat ebben a kulturális központban, és mindenképpen ellenőrizze a szezonnaptárat az ingyenes kiállításokért.",
             "ro": "Descoperiți spectacole contemporane regionale în acest centru cultural și verificați calendarul sezonier pentru expoziții gratuite în foaier.",
-            "en": "Discover regional contemporary performances at this cultural hub, and be sure to check their seasonal calendar for free lobby exhibitions."
+            "en": "Discover regional contemporary performances at this cultural hub, and be sure to check their seasonal calendar for free lobby exhibitions.",
+            "fr": "Découvrez des spectacles contemporains régionaux dans ce pôle culturel, et pensez à consulter leur calendrier saisonnier pour les expositions gratuites dans le hall."
           }
         },
         {
@@ -411,7 +454,8 @@
             "de": "Vellein 1",
             "hu": "Vellein 1",
             "ro": "Vellein 1",
-            "en": "Vellein 1"
+            "en": "Vellein 1",
+            "fr": "Vellein 1"
           },
           "coords": [
             5.147288,
@@ -426,7 +470,8 @@
             "de": "Entspannen Sie in dieser grünen Oase für Familien und bringen Sie frisches Brot mit, um die freundlichen Enten der Umgebung zu füttern.",
             "hu": "Pihenjen meg ebben a családok számára tökéletes zöldövezetben, és hozzon magával friss kenyeret, hogy megetethesse a barátságos helyi kacsákat.",
             "ro": "Relaxați-vă în acest spațiu verde fermecător, ideal pentru familii, și aduceți puțină pâine proaspătă pentru a hrăni rațele prietenoase.",
-            "en": "Relax in this charming green pocket perfect for families, and bring some fresh bread to feed the friendly local ducks if they are around."
+            "en": "Relax in this charming green pocket perfect for families, and bring some fresh bread to feed the friendly local ducks if they are around.",
+            "fr": "Détendez-vous dans ce charmant coin vert parfait pour les familles, et apportez du pain frais pour nourrir les canards locaux amicaux s’ils sont présents."
           }
         },
         {
@@ -434,7 +479,8 @@
             "de": "Étang de Vaugelas",
             "hu": "Étang de Vaugelas",
             "ro": "Étang de Vaugelas",
-            "en": "Étang de Vaugelas"
+            "en": "Étang de Vaugelas",
+            "fr": "Étang de Vaugelas"
           },
           "coords": [
             5.153366,
@@ -449,7 +495,8 @@
             "de": "Spazieren Sie den schattigen Uferweg entlang, um die Vogelwelt zu genießen, und packen Sie ein leichtes Picknick für die Holzbänke ein.",
             "hu": "Sétáljon végig az árnyékos tóparti ösvényen a gazdag madárvilágért, és hozzon magával egy könnyű pikniket a szépen karbantartott fapadokra.",
             "ro": "Plimbați-vă pe cărarea umbrită de pe malul lacului pentru a admira păsările și aduceți un picnic ușor de savurat pe băncile din lemn.",
-            "en": "Stroll along the shaded lakeside path to enjoy the rich birdlife, packing a light picnic to eat on the well-maintained wooden benches."
+            "en": "Stroll along the shaded lakeside path to enjoy the rich birdlife, packing a light picnic to eat on the well-maintained wooden benches.",
+            "fr": "Promenez-vous le long du sentier ombragé pour profiter de la riche avifaune, en emportant un léger pique-nique à manger sur les bancs en bois bien entretenus."
           }
         },
         {
@@ -457,7 +504,8 @@
             "de": "Saint-Bonnet Nature Reserve",
             "hu": "Saint-Bonnet Nature Reserve",
             "ro": "Saint-Bonnet Nature Reserve",
-            "en": "Saint-Bonnet Nature Reserve"
+            "en": "Saint-Bonnet Nature Reserve",
+            "fr": "Réserve Naturelle de Saint-Bonnet"
           },
           "coords": [
             5.167082,
@@ -472,7 +520,8 @@
             "de": "Erkunden Sie die ökologischen Zonen auf den markierten Holzstegen und tragen Sie festes Schuhwerk für die gelegentlich schlammigen Abschnitte.",
             "hu": "Fedezze fel a változatos ökológiai zónákat a kijelölt fapallókon, és feltétlenül viseljen túracipőt az esetenként saras szakaszok miatt.",
             "ro": "Explorați zonele ecologice diverse pe podețele din lemn marcate, asigurându-vă că purtați încălțăminte robustă pentru porțiunile noroioase.",
-            "en": "Explore the diverse ecological zones on the marked wooden boardwalks, taking care to wear sturdy shoes for the occasionally muddy sections."
+            "en": "Explore the diverse ecological zones on the marked wooden boardwalks, taking care to wear sturdy shoes for the occasionally muddy sections.",
+            "fr": "Explorez les différentes zones écologiques sur les passerelles en bois balisées, en veillant à porter des chaussures robustes pour les sections parfois boueuses."
           }
         },
         {
@@ -480,7 +529,8 @@
             "de": "Étang neuf 1",
             "hu": "Étang neuf 1",
             "ro": "Étang neuf 1",
-            "en": "Étang neuf 1"
+            "en": "Étang neuf 1",
+            "fr": "Étang neuf 1"
           },
           "coords": [
             5.180431,
@@ -495,7 +545,8 @@
             "de": "Finden Sie ein friedliches Plätzchen zum Angeln am Wasser, aber überprüfen Sie die örtlichen Vorschriften, bevor Sie Ihre Angel auswerfen.",
             "hu": "Keressen egy békés horgászhelyet vagy csak pihenjen a vízparton, de előtte feltétlenül tájékozódjon a helyi horgászati szabályokról.",
             "ro": "Găsiți un loc liniștit pentru pescuit sau relaxare, dar asigurați-vă că verificați regulamentele locale înainte de a arunca undița.",
-            "en": "Find a peaceful spot for fishing or simply resting by the water, but verify local angling regulations before casting your line here."
+            "en": "Find a peaceful spot for fishing or simply resting by the water, but verify local angling regulations before casting your line here.",
+            "fr": "Trouvez un endroit paisible pour pêcher ou simplement vous reposer au bord de l’eau, mais vérifiez le règlement local de pêche avant de lancer votre ligne ici."
           }
         },
         {
@@ -503,7 +554,8 @@
             "de": "Quincia",
             "hu": "Quincia",
             "ro": "Quincia",
-            "en": "Quincia"
+            "en": "Quincia",
+            "fr": "Quincia"
           },
           "coords": [
             5.180493,
@@ -518,7 +570,8 @@
             "de": "Lassen Sie die Kinder auf diesem Spielplatz Energie abbauen, der hervorragende Sitzbereiche bietet, auf denen Eltern bei einem Kaffee entspannen können.",
             "hu": "Hagyja, hogy a gyerekek levezessék az energiájukat ezen a jól felszerelt játszótéren, amely kiváló ülőhelyeket kínál a szülőknek egy kávé mellé.",
             "ro": "Lăsați copiii să-și consume energia în acest spațiu recreativ bine echipat, care oferă zone de relaxare excelente pentru părinți la o cafea.",
-            "en": "Let the kids burn off energy in this well-equipped recreational space, which offers excellent seating areas for parents to relax with a coffee."
+            "en": "Let the kids burn off energy in this well-equipped recreational space, which offers excellent seating areas for parents to relax with a coffee.",
+            "fr": "Laissez les enfants dépenser leur énergie dans cet espace récréatif bien équipé, qui offre d’excellents sièges pour que les parents puissent se détendre avec un café."
           }
         }
       ],
@@ -526,7 +579,8 @@
         "de": "Starten Sie Ihre Radtour am historischen Étang de Fallavier, genießen Sie den Blick aufs Wasser und radeln Sie dann zum Kulturzentrum Le Vellein. Ein kurzes Stück führt zu Vellein 1 und ebnet den Weg für eine schöne Mittagspause am Étang de Vaugelas. Verbringen Sie den Nachmittag mit einer Fahrt durch das Naturschutzgebiet Saint-Bonnet zum Étang neuf 1. Beenden Sie die Fahrt im familienfreundlichen Quincia und genießen Sie das weiche Abendlicht.",
         "hu": "Kezdje kerékpártúráját a történelmi Étang de Fallavier partjánál, gyönyörködjön a vízben, majd tekerjen a Le Vellein kulturális központjához. Egy rövid szakasz elvezeti a Vellein 1-hez, amely egy remek déli pihenőt készít elő az Étang de Vaugelas-nál. A délutánt a Saint-Bonnet Természetvédelmi Területen át az Étang neuf 1-ig kerekezve töltheti. Zárja az utat a családbarát Quincia-nál, élvezve a lágy esti fényeket.",
         "ro": "Începeți turul cu bicicleta la istoricul Étang de Fallavier, admirând priveliștile înainte de a pedala spre centrul cultural Le Vellein. Un scurt traseu vă duce la Vellein 1, pregătind o pauză de prânz la Étang de Vaugelas. Petreceți după-amiaza traversând Rezervația Naturală Saint-Bonnet până la Étang neuf 1. Încheiați plimbarea la spațiul familial Quincia, bucurându-vă de lumina blândă a serii pe drumul de întoarcere.",
-        "en": "Kick off your cycling tour at the historic Étang de Fallavier, taking in the grand water views before riding to the cultural hub of Le Vellein. A short pedal takes you to Vellein 1, paving the way for a lovely midday rest at Étang de Vaugelas. Spend your afternoon cruising through the pristine Saint-Bonnet Nature Reserve and arriving at Étang neuf 1. Conclude your ride at the family-friendly Quincia, enjoying the soft evening light on your relaxing journey back."
+        "en": "Kick off your cycling tour at the historic Étang de Fallavier, taking in the grand water views before riding to the cultural hub of Le Vellein. A short pedal takes you to Vellein 1, paving the way for a lovely midday rest at Étang de Vaugelas. Spend your afternoon cruising through the pristine Saint-Bonnet Nature Reserve and arriving at Étang neuf 1. Conclude your ride at the family-friendly Quincia, enjoying the soft evening light on your relaxing journey back.",
+        "fr": "Commencez votre tour à vélo à l’historique Étang de Fallavier, en profitant des grandes vues sur l’eau avant de rouler vers le pôle culturel du Vellein. Une courte pédalée vous mène à Vellein 1, ouvrant la voie pour une agréable pause de midi à l’Étang de Vaugelas. Passez votre après-midi à traverser la préservée Réserve de Saint-Bonnet et à arriver à l’Étang neuf 1. Concluez votre balade à la familiale Quincia, en profitant de la douce lumière du soir lors de votre retour relaxant."
       },
       "variants": {
         "rainy": {
@@ -534,7 +588,8 @@
             "de": "Die Radtour startet am Étang de Fallavier, wo wir auf rutschigen Wegen vorsichtig fahren. Mittags erreichen wir das Le Vellein und suchen Schutz vor dem Regen.\n\nNachmittags radeln wir am Étang de Vaugelas vorbei zum Saint-Bonnet Reservat. Die nassen Reifen erfordern in den Kurven besondere Aufmerksamkeit.\n\nDen Abend lassen wir am Étang neuf 1 und in Quincia ausklingen. Reflektierende Kleidung ist bei dem trüben Wetter für die Sicherheit unerlässlich.",
             "hu": "A bringatúra az Étang de Fallavier-nél indul, ahol óvatosan hajtunk a csúszós utakon. Délben a Le Vellein épületénél tartunk egy fedett pihenőt.\n\nDélután az Étang de Vaugelas mellett eltekerve érjük el a Saint-Bonnet területét. A vizes gumiabroncsok miatt a kanyarokban tartsunk nagyobb távolságot.\n\nAz estét az Étang neuf 1 és Quincia környékén zárjuk. A borús időben a fényvisszaverő ruházat és a jó lámpa életmentő lehet.",
             "ro": "Turul cu bicicleta începe la Étang de Fallavier, unde pedalăm cu grijă pe drumurile alunecoase. La prânz ajungem la Le Vellein pentru o pauză la adăpost.\n\nDupă-amiaza trecem pe lângă Étang de Vaugelas spre Rezervația Saint-Bonnet. Anvelopele ude necesită atenție sporită în curbele strânse.\n\nÎncheiem seara la Étang neuf 1 și Quincia. Îmbrăcămintea reflectorizantă este esențială pentru siguranță pe această vreme mohorâtă.",
-            "en": "The bike tour starts at Étang de Fallavier, where we cycle carefully on slippery paths. At noon, head to Le Vellein for a well-deserved sheltered break.\n\nIn the afternoon, ride past Étang de Vaugelas to the Saint-Bonnet Reserve. Wet tires require extra caution, especially when taking sharp turns.\n\nFinish the evening near Étang neuf 1 and Quincia. Reflective gear and good lights are vital for your safety in this gloomy, rainy weather."
+            "en": "The bike tour starts at Étang de Fallavier, where we cycle carefully on slippery paths. At noon, head to Le Vellein for a well-deserved sheltered break.\n\nIn the afternoon, ride past Étang de Vaugelas to the Saint-Bonnet Reserve. Wet tires require extra caution, especially when taking sharp turns.\n\nFinish the evening near Étang neuf 1 and Quincia. Reflective gear and good lights are vital for your safety in this gloomy, rainy weather.",
+            "fr": "La balade à vélo commence à l’Étang de Fallavier, où nous roulons prudemment sur des chemins glissants. À midi, dirigez-vous vers Le Vellein pour une pause abritée bien méritée.\n\nL’après-midi, passez près de l’Étang de Vaugelas en direction de la Réserve de Saint-Bonnet. Les pneus mouillés exigent une prudence accrue, surtout dans les virages serrés.\n\nTerminez la soirée près de l’Étang neuf 1 et de Quincia. Les équipements réfléchissants et de bonnes lumières sont indispensables pour votre sécurité par ce temps maussade et pluvieux."
           },
           "stops": [
             {
@@ -542,13 +597,15 @@
                 "de": "Étang de Fallavier",
                 "hu": "Étang de Fallavier",
                 "ro": "Étang de Fallavier",
-                "en": "Étang de Fallavier"
+                "en": "Étang de Fallavier",
+                "fr": "Étang de Fallavier"
               },
               "tip_4lang": {
                 "de": "Prüfen Sie Ihre Bremsen vor der Abfahrt am See; die asphaltierten Wege können bei Nässe sehr glatt sein, besonders wenn Laub auf der Fahrbahn liegt.",
                 "hu": "Ellenőrizze a fékeket az indulás előtt; az aszfaltozott utak nagyon csúszósak lehetnek, különösen, ha vizes levelek borítják az útfelületet.",
                 "ro": "Verificați frânele înainte de plecare; drumurile asfaltate pot fi foarte alunecoase pe ploaie, mai ales dacă există frunze ude pe carosabil.",
-                "en": "Check your brakes before setting off from the lake; paved paths can be very slippery when wet, especially with fallen leaves on the ground."
+                "en": "Check your brakes before setting off from the lake; paved paths can be very slippery when wet, especially with fallen leaves on the ground.",
+                "fr": "Vérifiez vos freins avant de partir du lac ; les chemins pavés peuvent être très glissants lorsqu’ils sont mouillés, surtout avec des feuilles tombées au sol."
               }
             },
             {
@@ -556,13 +613,15 @@
                 "de": "Le Vellein",
                 "hu": "Le Vellein",
                 "ro": "Le Vellein",
-                "en": "Le Vellein"
+                "en": "Le Vellein",
+                "fr": "Le Vellein"
               },
               "tip_4lang": {
                 "de": "Suchen Sie den Fahrradständer in der Nähe des Eingangs; das Kulturzentrum bietet eine ideale Gelegenheit, um sich kurz abzutrocknen und aufzuwärmen.",
                 "hu": "Keresse a bejárathoz közeli biciklitárolókat; a kulturális központ remek hely, hogy kicsit megszáradjon és átmelegedjen a következő szakasz előtt.",
                 "ro": "Căutați rastelele de biciclete de lângă intrare; centrul cultural oferă o ocazie excelentă pentru a vă usca și încălzi puțin.",
-                "en": "Look for the bike racks near the entrance; the cultural center provides a great opportunity to dry off and warm up before the next leg of the trip."
+                "en": "Look for the bike racks near the entrance; the cultural center provides a great opportunity to dry off and warm up before the next leg of the trip.",
+                "fr": "Cherchez les arceaux à vélos près de l’entrée ; le centre culturel offre une excellente occasion de vous sécher et de vous réchauffer avant la prochaine étape."
               }
             },
             {
@@ -570,13 +629,15 @@
                 "de": "Vellein 1",
                 "hu": "Vellein 1",
                 "ro": "Vellein 1",
-                "en": "Vellein 1"
+                "en": "Vellein 1",
+                "fr": "Vellein 1"
               },
               "tip_4lang": {
                 "de": "Halten Sie nur kurz an, um nicht auszukühlen; achten Sie beim Aufsteigen auf den nassen Untergrund, um ein Wegrutschen der Räder zu vermeiden.",
                 "hu": "Csak rövid ideig álljon meg, nehogy kihűljön; a nyeregbe szálláskor ügyeljen a vizes talajra, hogy elkerülje a kerekek megcsúszását.",
                 "ro": "Opriți doar pentru scurt timp ca să nu vă răciți; aveți grijă la solul ud când urcați pe bicicletă pentru a evita deraparea roților.",
-                "en": "Stop only briefly to avoid getting chilled; be careful when mounting your bike on the wet ground to prevent the wheels from slipping."
+                "en": "Stop only briefly to avoid getting chilled; be careful when mounting your bike on the wet ground to prevent the wheels from slipping.",
+                "fr": "Ne vous arrêtez que brièvement pour éviter d’avoir froid ; faites attention en montant sur votre vélo sur le sol mouillé pour empêcher les roues de déraper."
               }
             },
             {
@@ -584,13 +645,15 @@
                 "de": "Étang de Vaugelas",
                 "hu": "Étang de Vaugelas",
                 "ro": "Étang de Vaugelas",
-                "en": "Étang de Vaugelas"
+                "en": "Étang de Vaugelas",
+                "fr": "Étang de Vaugelas"
               },
               "tip_4lang": {
                 "de": "Fahren Sie langsam auf den unbefestigten Uferwegen; Schutzbleche am Fahrrad sind hier Gold wert, um sich vor aufwirbelndem Schlamm zu schützen.",
                 "hu": "Hajtson lassan a fövenyes part menti utakon; a sárvédő itt aranyat ér, hogy megvédje ruházatát a felverődő sártól és víztől.",
                 "ro": "Pedalați încet pe drumurile neasfaltate de pe mal; aripile la bicicletă sunt esențiale aici pentru a vă proteja de noroiul împroșcat.",
-                "en": "Ride slowly on the unpaved lakeside paths; mudguards are invaluable here to protect your clothes from splashing mud and water."
+                "en": "Ride slowly on the unpaved lakeside paths; mudguards are invaluable here to protect your clothes from splashing mud and water.",
+                "fr": "Roulez lentement sur les sentiers non revêtus au bord du lac ; les garde-boue sont précieux ici pour protéger vos vêtements des éclaboussures de boue et d’eau."
               }
             },
             {
@@ -598,13 +661,15 @@
                 "de": "Saint-Bonnet Nature Reserve",
                 "hu": "Saint-Bonnet Nature Reserve",
                 "ro": "Saint-Bonnet Nature Reserve",
-                "en": "Saint-Bonnet Nature Reserve"
+                "en": "Saint-Bonnet Nature Reserve",
+                "fr": "Réserve Naturelle de Saint-Bonnet"
               },
               "tip_4lang": {
                 "de": "Vermeiden Sie scharfes Bremsen auf den Waldwegen; das feuchte Holz der Brücken und Wurzeln im Reservat ist bei Regen extrem rutschig.",
                 "hu": "Kerülje a hirtelen fékezést az erdei utakon; a hidak nedves fafelületei és a gyökerek rendkívül csúszósak lehetnek esőben.",
                 "ro": "Evitați frânarea bruscă pe drumurile de pădure; lemnul umed al podurilor și rădăcinile din rezervație sunt extrem de alunecoase pe ploaie.",
-                "en": "Avoid sudden braking on forest paths; the wet wood of bridges and exposed roots in the reserve are extremely slippery when it rains."
+                "en": "Avoid sudden braking on forest paths; the wet wood of bridges and exposed roots in the reserve are extremely slippery when it rains.",
+                "fr": "Évitez les freinages brusques sur les sentiers forestiers ; le bois mouillé des passerelles et les racines apparentes dans la réserve sont extrêmement glissants quand il pleut."
               }
             },
             {
@@ -612,13 +677,15 @@
                 "de": "Étang neuf 1",
                 "hu": "Étang neuf 1",
                 "ro": "Étang neuf 1",
-                "en": "Étang neuf 1"
+                "en": "Étang neuf 1",
+                "fr": "Étang neuf 1"
               },
               "tip_4lang": {
                 "de": "Prüfen Sie Ihre Beleuchtung für den letzten Abschnitt; bei Regen verschlechtert sich die Sicht massiv, besonders in der Nähe der Wasserflächen.",
                 "hu": "Ellenőrizze a világítást az utolsó szakasz előtt; esőben a látási viszonyok sokat romlanak, különösen a vízparti szakaszokon.",
                 "ro": "Verificați luminile pentru ultima secțiune; pe ploaie vizibilitatea scade masiv, în special în apropierea suprafețelor de apă.",
-                "en": "Check your lights for the final stretch; visibility drops significantly in the rain, especially when riding near open water areas."
+                "en": "Check your lights for the final stretch; visibility drops significantly in the rain, especially when riding near open water areas.",
+                "fr": "Vérifiez vos lumières pour la dernière étape ; la visibilité chute fortement sous la pluie, surtout en roulant près des zones d’eau ouvertes."
               }
             },
             {
@@ -626,13 +693,15 @@
                 "de": "Quincia",
                 "hu": "Quincia",
                 "ro": "Quincia",
-                "en": "Quincia"
+                "en": "Quincia",
+                "fr": "Quincia"
               },
               "tip_4lang": {
                 "de": "Suchen Sie sich einen überdachten Platz für das Fahrrad; wischen Sie Kette und Schaltung nach der Tour trocken, um Rostbildung vorzubeugen.",
                 "hu": "Keressen fedett helyet a kerékpárnak; a túra után törölje szárazra a láncot és a váltót, hogy megelőzze a rozsdásodást.",
                 "ro": "Căutați un loc acoperit pentru bicicletă; ștergeți lanțul și schimbătorul după tură pentru a preveni formarea ruginii.",
-                "en": "Find a sheltered spot for your bike; wipe down the chain and gears after the ride to prevent rust from forming after the rain."
+                "en": "Find a sheltered spot for your bike; wipe down the chain and gears after the ride to prevent rust from forming after the rain.",
+                "fr": "Trouvez un endroit abrité pour votre vélo ; essuyez la chaîne et les pignons après la sortie pour éviter la formation de rouille après la pluie."
               }
             }
           ]
@@ -642,7 +711,8 @@
             "de": "Die Wintertour beginnt am Étang de Fallavier bei frostigen Temperaturen. Wir radeln zügig zum Le Vellein, um uns in der warmen Lobby kurz aufzuwärmen.\n\nMittags geht es weiter über Vellein 1 zum Étang de Vaugelas. Die kalte Luft erfordert gute Handschuhe und eine warme Kopfbedeckung unter dem Helm.\n\nAm Nachmittag erkunden wir das Saint-Bonnet Reservat. Vor dem frühen Sonnenuntergang gegen 17:00 Uhr erreichen wir den Étang neuf 1 und Quincia im fahlen Winterlicht.",
             "hu": "A téli bringázás fagyos hangulatban indul az Étang de Fallavier partján. Gyorsan tekerünk a Le Vellein-ig, hogy a fűtött előtérben kicsit felengedjünk.\n\nDélben a Vellein 1-en át az Étang de Vaugelas felé vesszük az irányt. A menetszél miatt a réteges öltözködés és a bélelt kesztyű kötelező.\n\nDélután a Saint-Bonnet természetvédelmi területet járjuk be. A 17:00-s napnyugta előtt érünk az Étang neuf 1-hez és Quincia környékére.",
             "ro": "Turul de iarnă începe la Étang de Fallavier în temperaturi scăzute. Pedalăm rapid spre Le Vellein pentru a ne încălzi puțin în holul primitor.\n\nLa prânz continuăm prin Vellein 1 spre Étang de Vaugelas. Aerul rece necesită mănuși bune și o protecție termică sub casca de protecție.\n\nDupă-amiaza explorăm Rezervația Saint-Bonnet. Înainte de apusul devreme de la ora 17:00, ajungem la Étang neuf 1 și Quincia în lumina palidă a iernii.",
-            "en": "Start your winter ride at Étang de Fallavier in freezing temperatures. Cycle briskly to Le Vellein to warm up for a few minutes in the heated lobby.\n\nAt noon, proceed via Vellein 1 to Étang de Vaugelas. The wind chill requires good gloves and a warm thermal cap under your cycling helmet.\n\nIn the afternoon, explore the Saint-Bonnet Reserve. Before the early 17:00 sunset, reach Étang neuf 1 and Quincia while the winter light is still lingering."
+            "en": "Start your winter ride at Étang de Fallavier in freezing temperatures. Cycle briskly to Le Vellein to warm up for a few minutes in the heated lobby.\n\nAt noon, proceed via Vellein 1 to Étang de Vaugelas. The wind chill requires good gloves and a warm thermal cap under your cycling helmet.\n\nIn the afternoon, explore the Saint-Bonnet Reserve. Before the early 17:00 sunset, reach Étang neuf 1 and Quincia while the winter light is still lingering.",
+            "fr": "Commencez votre sortie hivernale à l’Étang de Fallavier par des températures glaciales. Pédalez rapidement jusqu’au Vellein pour vous réchauffer quelques minutes dans le hall chauffé.\n\nÀ midi, poursuivez via Vellein 1 jusqu’à l’Étang de Vaugelas. Le refroidissement éolien exige de bons gants et un bonnet thermique sous votre casque de vélo.\n\nL’après-midi, explorez la Réserve de Saint-Bonnet. Avant le coucher du soleil précoce à 17:00, atteignez l’Étang neuf 1 et Quincia pendant que la lumière hivernale persiste."
           },
           "stops": [
             {
@@ -650,13 +720,15 @@
                 "de": "Étang de Fallavier",
                 "hu": "Étang de Fallavier",
                 "ro": "Étang de Fallavier",
-                "en": "Étang de Fallavier"
+                "en": "Étang de Fallavier",
+                "fr": "Étang de Fallavier"
               },
               "tip_4lang": {
                 "de": "Achten Sie auf überfrierende Nässe auf den Brücken am See; reduzieren Sie den Reifendruck minimal für eine bessere Bodenhaftung auf glattem Untergrund.",
                 "hu": "Ügyeljen a tó feletti hidakon kialakuló jegesedésre; csökkentse minimálisan a keréknyomást a jobb tapadás érdekében a csúszós utakon.",
                 "ro": "Atenție la poleiul de pe podurile peste lac; reduceți minim presiunea în anvelope pentru o aderență mai bună pe suprafețele înghețate.",
-                "en": "Watch out for black ice on the bridges over the lake; slightly lower your tire pressure for better traction on potentially frozen surfaces."
+                "en": "Watch out for black ice on the bridges over the lake; slightly lower your tire pressure for better traction on potentially frozen surfaces.",
+                "fr": "Méfiez-vous du verglas sur les ponts au-dessus du lac ; baissez légèrement la pression des pneus pour une meilleure traction sur des surfaces potentiellement gelées."
               }
             },
             {
@@ -664,13 +736,15 @@
                 "de": "Le Vellein",
                 "hu": "Le Vellein",
                 "ro": "Le Vellein",
-                "en": "Le Vellein"
+                "en": "Le Vellein",
+                "fr": "Le Vellein"
               },
               "tip_4lang": {
                 "de": "Nutzen Sie den Stopp, um die gefrorenen Finger aufzuwärmen; die Innenräume bieten Schutz vor dem eisigen Fahrtwind der Wintermonate.",
                 "hu": "Használja ki a megállót az átfagyott ujjai felmelegítésére; a belső terek védelmet nyújtanak a téli hónapok jeges menetszele ellen.",
                 "ro": "Folosiți oprirea pentru a vă încălzi degetele amorțite; spațiile interioare oferă protecție împotriva vântului tăios de iarnă.",
-                "en": "Use this stop to warm up your frozen fingers; the indoor areas offer protection from the icy wind chill during the winter months."
+                "en": "Use this stop to warm up your frozen fingers; the indoor areas offer protection from the icy wind chill during the winter months.",
+                "fr": "Utilisez cet arrêt pour réchauffer vos doigts engourdis ; les espaces intérieurs offrent une protection contre le vent glacial en hiver."
               }
             },
             {
@@ -678,13 +752,15 @@
                 "de": "Vellein 1",
                 "hu": "Vellein 1",
                 "ro": "Vellein 1",
-                "en": "Vellein 1"
+                "en": "Vellein 1",
+                "fr": "Vellein 1"
               },
               "tip_4lang": {
                 "de": "Bleiben Sie nicht zu lange stehen, um Muskelverspannungen durch Kälte zu vermeiden; eine kurze Dehnung hilft, die Durchblutung wieder anzuregen.",
                 "hu": "Ne álljon meg túl sokáig, nehogy az izmai megmerevedjenek a hidegben; egy rövid nyújtás segít a keringés frissítésében a továbbhaladás előtt.",
                 "ro": "Nu staționați prea mult pentru a evita rigidizarea mușchilor din cauza frigului; o scurtă întindere ajută la reactivarea circulației sanguine.",
-                "en": "Don't stop for too long to avoid muscle stiffness from the cold; a brief stretch helps stimulate circulation before you continue riding."
+                "en": "Don't stop for too long to avoid muscle stiffness from the cold; a brief stretch helps stimulate circulation before you continue riding.",
+                "fr": "Ne vous arrêtez pas trop longtemps pour éviter la raideur musculaire due au froid ; un bref étirement aide à stimuler la circulation avant de reprendre la route."
               }
             },
             {
@@ -692,13 +768,15 @@
                 "de": "Étang de Vaugelas",
                 "hu": "Étang de Vaugelas",
                 "ro": "Étang de Vaugelas",
-                "en": "Étang de Vaugelas"
+                "en": "Étang de Vaugelas",
+                "fr": "Étang de Vaugelas"
               },
               "tip_4lang": {
                 "de": "Die kalte Luft am See ist sehr trocken; tragen Sie eine Fettcreme auf das Gesicht auf, um die Haut vor dem kalten Winterwind zu schützen.",
                 "hu": "A tóparti levegő ilyenkor nagyon száraz; használjon zsírosabb arckrémet, hogy megvédje bőrét a hideg téli szél okozta kiszáradástól.",
                 "ro": "Aerul de lângă lac este foarte uscat; aplicați o cremă hidratantă pe față pentru a vă proteja pielea de vântul rece de iarnă.",
-                "en": "The lakeside air is very dry in winter; apply a protective face cream to shield your skin from the biting cold winter winds while cycling."
+                "en": "The lakeside air is very dry in winter; apply a protective face cream to shield your skin from the biting cold winter winds while cycling.",
+                "fr": "L’air au bord du lac est très sec en hiver ; appliquez une crème protectrice sur le visage pour protéger votre peau des vents hivernaux mordants pendant le vélo."
               }
             },
             {
@@ -706,13 +784,15 @@
                 "de": "Saint-Bonnet Nature Reserve",
                 "hu": "Saint-Bonnet Nature Reserve",
                 "ro": "Saint-Bonnet Nature Reserve",
-                "en": "Saint-Bonnet Nature Reserve"
+                "en": "Saint-Bonnet Nature Reserve",
+                "fr": "Réserve Naturelle de Saint-Bonnet"
               },
               "tip_4lang": {
                 "de": "Waldwege können im Winter hart gefroren sein; fahren Sie mit vorausschauendem Blick, um gefrorenen Pfützen und Spurrillen rechtzeitig auszuweichen.",
                 "hu": "Az erdei utak télen keményre fagyhatnak; tekerjen előrelátóan, hogy időben elkerülje a fagyott tócsákat és a mély keréknyomokat.",
                 "ro": "Drumurile de pădure pot fi înghețate bocnă; pedalați cu prudență pentru a evita din timp bălțile înghețate și șanțurile adânci.",
-                "en": "Forest paths can be frozen hard in winter; ride with foresight to avoid frozen puddles and deep ruts in the ground well in advance."
+                "en": "Forest paths can be frozen hard in winter; ride with foresight to avoid frozen puddles and deep ruts in the ground well in advance.",
+                "fr": "Les sentiers forestiers peuvent être gelés et durs en hiver ; roulez avec anticipation pour éviter les flaques gelées et les ornières profondes bien en avance."
               }
             },
             {
@@ -720,13 +800,15 @@
                 "de": "Étang neuf 1",
                 "hu": "Étang neuf 1",
                 "ro": "Étang neuf 1",
-                "en": "Étang neuf 1"
+                "en": "Étang neuf 1",
+                "fr": "Étang neuf 1"
               },
               "tip_4lang": {
                 "de": "Die Sonne steht tief und blendet stark; eine Radbrille mit hellen Gläsern hilft, Hindernisse im Schnee oder Reif besser zu erkennen.",
                 "hu": "Az alacsonyan járó nap erősen vakíthat; egy világos lencséjű bringás szemüveg segít a hóban vagy zúzmarában lévő akadályok észlelésében.",
                 "ro": "Soarele jos poate fi foarte orbitor; ochelarii de ciclism cu lentile clare ajută la detectarea obstacolelor prin zăpadă sau chiciură.",
-                "en": "The low winter sun can be very blinding; cycling glasses with clear or bright lenses help you spot obstacles in the frost or snow more easily."
+                "en": "The low winter sun can be very blinding; cycling glasses with clear or bright lenses help you spot obstacles in the frost or snow more easily.",
+                "fr": "Le soleil hivernal bas peut être très aveuglant ; des lunettes de cyclisme à verres clairs ou lumineux vous aident à repérer les obstacles dans le gel ou la neige plus facilement."
               }
             },
             {
@@ -734,13 +816,15 @@
                 "de": "Quincia",
                 "hu": "Quincia",
                 "ro": "Quincia",
-                "en": "Quincia"
+                "en": "Quincia",
+                "fr": "Quincia"
               },
               "tip_4lang": {
                 "de": "Beenden Sie die Tour zügig, bevor die Temperaturen nach Sonnenuntergang drastisch fallen; Reflektoren am Rad sind in der frühen Dunkelheit wichtig.",
                 "hu": "Fejezze be a túrát időben, mielőtt a hőmérséklet drasztikusan esni kezd napnyugta után; a prizmák fontosak a korai sötétedésben.",
                 "ro": "Încheiați turul rapid înainte ca temperaturile să scadă drastic după apus; catadioptrii sunt importanți în întunericul care se lasă devreme.",
-                "en": "Finish the ride promptly before temperatures drop drastically after sunset; reflectors on your bike are crucial in the early darkness."
+                "en": "Finish the ride promptly before temperatures drop drastically after sunset; reflectors on your bike are crucial in the early darkness.",
+                "fr": "Terminez la sortie rapidement avant que les températures ne chutent drastiquement après le coucher du soleil ; les réflecteurs sur votre vélo sont cruciaux dans la pénombre précoce."
               }
             }
           ]
@@ -760,7 +844,8 @@
             "de": "Noirée Park",
             "hu": "Noirée Park",
             "ro": "Noirée Park",
-            "en": "Noirée Park"
+            "en": "Noirée Park",
+            "fr": "Parc Noirée"
           },
           "coords": [
             5.115469,
@@ -775,7 +860,8 @@
             "de": "Beginnen Sie den Morgen flott auf den weiten Laufstrecken dieses großen Parks und bringen Sie Wasser mit, da es nur wenige Trinkbrunnen gibt.",
             "hu": "Kezdje a reggelt egy frissítő kocogással a hatalmas park kiterjedt ösvényein, és hozzon magával kulacsot, mivel ritkák az ivókutak.",
             "ro": "Începeți dimineața energic pe traseele extinse de alergare din acest parc vast, aducând propria sticlă cu apă, deoarece cișmelele sunt rare.",
-            "en": "Start your morning briskly on the extensive jogging trails of this vast park, bringing your own water bottle as fountains are sparsely located."
+            "en": "Start your morning briskly on the extensive jogging trails of this vast park, bringing your own water bottle as fountains are sparsely located.",
+            "fr": "Commencez votre matinée d’un bon pas sur les larges sentiers de jogging de ce vaste parc, en apportant votre gourde car les fontaines y sont rares."
           }
         },
         {
@@ -783,7 +869,8 @@
             "de": "Étang de Fallavier",
             "hu": "Étang de Fallavier",
             "ro": "Étang de Fallavier",
-            "en": "Étang de Fallavier"
+            "en": "Étang de Fallavier",
+            "fr": "Étang de Fallavier"
           },
           "coords": [
             5.130302,
@@ -798,7 +885,8 @@
             "de": "Machen Sie einen gemütlichen Spaziergang um diesen historischen See und halten Sie Ausschau nach den alten Ruinen im nahegelegenen Wald.",
             "hu": "Tegyen egy kényelmes sétát a történelmi tó hatalmas peremén, és tartsa nyitva a szemét a közeli erdőben rejtőző ősi romok után.",
             "ro": "Faceți o plimbare relaxantă în jurul acestui lac istoric și fiți cu ochii în patru pentru ruinele antice ascunse în pădurea din apropiere.",
-            "en": "Take a leisurely walk around the vast perimeter of this historic lake, and keep an eye out for the ancient ruins hidden in the nearby forest."
+            "en": "Take a leisurely walk around the vast perimeter of this historic lake, and keep an eye out for the ancient ruins hidden in the nearby forest.",
+            "fr": "Faites une promenade tranquille autour du vaste périmètre de ce lac historique, en gardant l’œil ouvert pour les ruines anciennes cachées dans la forêt voisine."
           }
         },
         {
@@ -806,7 +894,8 @@
             "de": "Le Vellein",
             "hu": "Le Vellein",
             "ro": "Le Vellein",
-            "en": "Le Vellein"
+            "en": "Le Vellein",
+            "fr": "Le Vellein"
           },
           "coords": [
             5.144547,
@@ -821,7 +910,8 @@
             "de": "Entdecken Sie regionale Aufführungen in diesem Kulturzentrum und prüfen Sie den Saisonkalender für kostenlose Ausstellungen im Foyer.",
             "hu": "Fedezze fel a kortárs regionális előadásokat ebben a kulturális központban, és mindenképpen ellenőrizze a szezonnaptárat az ingyenes kiállításokért.",
             "ro": "Descoperiți spectacole contemporane regionale în acest centru cultural și verificați calendarul sezonier pentru expoziții gratuite în foaier.",
-            "en": "Discover regional contemporary performances at this cultural hub, and be sure to check their seasonal calendar for free lobby exhibitions."
+            "en": "Discover regional contemporary performances at this cultural hub, and be sure to check their seasonal calendar for free lobby exhibitions.",
+            "fr": "Découvrez des spectacles contemporains régionaux dans ce pôle culturel, et pensez à consulter leur calendrier saisonnier pour les expositions gratuites dans le hall."
           }
         },
         {
@@ -829,7 +919,8 @@
             "de": "Saint-Bonnet Nature Reserve",
             "hu": "Saint-Bonnet Nature Reserve",
             "ro": "Saint-Bonnet Nature Reserve",
-            "en": "Saint-Bonnet Nature Reserve"
+            "en": "Saint-Bonnet Nature Reserve",
+            "fr": "Réserve Naturelle de Saint-Bonnet"
           },
           "coords": [
             5.167082,
@@ -844,7 +935,8 @@
             "de": "Erkunden Sie die ökologischen Zonen auf den markierten Holzstegen und tragen Sie festes Schuhwerk für die gelegentlich schlammigen Abschnitte.",
             "hu": "Fedezze fel a változatos ökológiai zónákat a kijelölt fapallókon, és feltétlenül viseljen túracipőt az esetenként saras szakaszok miatt.",
             "ro": "Explorați zonele ecologice diverse pe podețele din lemn marcate, asigurându-vă că purtați încălțăminte robustă pentru porțiunile noroioase.",
-            "en": "Explore the diverse ecological zones on the marked wooden boardwalks, taking care to wear sturdy shoes for the occasionally muddy sections."
+            "en": "Explore the diverse ecological zones on the marked wooden boardwalks, taking care to wear sturdy shoes for the occasionally muddy sections.",
+            "fr": "Explorez les différentes zones écologiques sur les passerelles en bois balisées, en veillant à porter des chaussures robustes pour les sections parfois boueuses."
           }
         },
         {
@@ -852,7 +944,8 @@
             "de": "Étang neuf 1",
             "hu": "Étang neuf 1",
             "ro": "Étang neuf 1",
-            "en": "Étang neuf 1"
+            "en": "Étang neuf 1",
+            "fr": "Étang neuf 1"
           },
           "coords": [
             5.180431,
@@ -867,7 +960,8 @@
             "de": "Finden Sie ein friedliches Plätzchen zum Angeln am Wasser, aber überprüfen Sie die örtlichen Vorschriften, bevor Sie Ihre Angel auswerfen.",
             "hu": "Keressen egy békés horgászhelyet vagy csak pihenjen a vízparton, de előtte feltétlenül tájékozódjon a helyi horgászati szabályokról.",
             "ro": "Găsiți un loc liniștit pentru pescuit sau relaxare, dar asigurați-vă că verificați regulamentele locale înainte de a arunca undița.",
-            "en": "Find a peaceful spot for fishing or simply resting by the water, but verify local angling regulations before casting your line here."
+            "en": "Find a peaceful spot for fishing or simply resting by the water, but verify local angling regulations before casting your line here.",
+            "fr": "Trouvez un endroit paisible pour pêcher ou simplement vous reposer au bord de l’eau, mais vérifiez le règlement local de pêche avant de lancer votre ligne ici."
           }
         },
         {
@@ -875,7 +969,8 @@
             "de": "Aire de Jeux de Turitin",
             "hu": "Aire de Jeux de Turitin",
             "ro": "Aire de Jeux de Turitin",
-            "en": "Aire de Jeux de Turitin"
+            "en": "Aire de Jeux de Turitin",
+            "fr": "Aire de Jeux de Turitin"
           },
           "coords": [
             5.163068,
@@ -890,7 +985,8 @@
             "de": "Beenden Sie den Tag an diesem spielerischen Ort mit sicheren Klettergerüsten und packen Sie eine leichte Jacke ein, da die Temperaturen abends sinken.",
             "hu": "Zárja a napot ezen a modern mászókákkal felszerelt családi helyen, és ne felejtsen el egy vékony kabátot hozni az esti lehűléshez.",
             "ro": "Încheiați ziua la acest loc de joacă modern și sigur pentru familii, asigurându-vă că luați o jachetă subțire, deoarece temperaturile scad seara.",
-            "en": "End the day at this playful family spot featuring safe, modern climbing structures, ensuring you pack a light jacket as evening temperatures drop."
+            "en": "End the day at this playful family spot featuring safe, modern climbing structures, ensuring you pack a light jacket as evening temperatures drop.",
+            "fr": "Terminez la journée à cet endroit ludique pour les familles avec des structures d’escalade modernes et sûres ; pensez à emporter une veste légère car la température baisse en soirée."
           }
         }
       ],
@@ -898,7 +994,8 @@
         "de": "Ihr Autotag beginnt im weitläufigen Noirée Park, einem perfekten Ort für einen morgendlichen Spaziergang. Fahren Sie dann zum malerischen Étang de Fallavier und weiter zum Le Vellein für regionale Kunst. Der Nachmittag bietet einen tiefen Einblick in die lokale Ökologie im Naturschutzgebiet Saint-Bonnet und führt Sie zu den ruhigen Ufern des Étang neuf 1. Beenden Sie den Tag am lebhaften Aire de Jeux de Turitin, wo sich alle entspannen können.",
         "hu": "Az autós nap a hatalmas Noirée Parkban kezdődik, amely tökéletes egy energikus reggeli sétához. Ezután vezessen a festői Étang de Fallavier-hez a tóparti kilátásért, majd a Le Vellein-be a regionális művészetekért. A délután folyamán merüljön el a helyi ökológiában a Saint-Bonnet Természetvédelmi Területen, amely simán átvezet az Étang neuf 1 csendes partjaira. Fejezze be a napot a nyüzsgő Aire de Jeux de Turitin játszótérnél.",
         "ro": "Ziua cu mașina începe în vastul Parc Noirée, perfect pentru o plimbare energică de dimineață. Conduceți apoi spre pitorescul Étang de Fallavier, înainte de a vizita Le Vellein pentru a admira artele regionale. După-amiaza oferă o incursiune în ecologia locală la Rezervația Naturală Saint-Bonnet, trecând lin spre malurile liniștite ale lacului Étang neuf 1. Încheiați ziua la parcul plin de viață Aire de Jeux de Turitin, relaxându-vă înainte de apus.",
-        "en": "Your driving day begins at the expansive Noirée Park, a perfect place for an energetic morning stroll. Next, drive to the scenic Étang de Fallavier for majestic lake views before heading to Le Vellein to soak in some regional arts. The afternoon features a deep dive into local ecology at the Saint-Bonnet Nature Reserve, seamlessly transitioning to the quiet shores of Étang neuf 1. Finish the day at the lively Aire de Jeux de Turitin, where everyone can unwind before sunset."
+        "en": "Your driving day begins at the expansive Noirée Park, a perfect place for an energetic morning stroll. Next, drive to the scenic Étang de Fallavier for majestic lake views before heading to Le Vellein to soak in some regional arts. The afternoon features a deep dive into local ecology at the Saint-Bonnet Nature Reserve, seamlessly transitioning to the quiet shores of Étang neuf 1. Finish the day at the lively Aire de Jeux de Turitin, where everyone can unwind before sunset.",
+        "fr": "Votre journée en voiture commence au vaste Parc Noirée, un lieu parfait pour une promenade matinale énergique. Ensuite, conduisez jusqu’à l’attrayant Étang de Fallavier pour des vues majestueuses sur le lac avant de vous rendre au Vellein pour une immersion dans les arts régionaux. L’après-midi propose une plongée dans l’écologie locale à la Réserve de Saint-Bonnet, enchaînée avec les rives tranquilles de l’Étang neuf 1. Terminez la journée à la vivante Aire de Jeux de Turitin, où chacun peut se détendre avant le coucher du soleil."
       },
       "variants": {
         "rainy": {
@@ -906,7 +1003,8 @@
             "de": "Die Fahrt im Regen beginnt am Noirée Park, wo wir parken und die Aussicht genießen. Danach geht es zum Étang de Fallavier, einem idealen Ort für kurze Pausen.\n\nMittags bietet das Le Vellein eine kulturelle Zuflucht. Das Auto bleibt in der Nähe geparkt, sodass wir trocken von Ort zu Ort gelangen.\n\nAm Nachmittag besuchen wir das Saint-Bonnet Reservat und beenden den Tag bei den Spielplätzen, wo wir im trockenen Fahrzeug auf das Ende der Schauer warten.",
             "hu": "Az esős autós túra a Noirée Parknál indul, ahol a kocsiból is élvezhető a kilátás. Ezután az Étang de Fallavier-hez hajtunk egy rövid, esernyős sétára.\n\nDélben a Le Vellein épülete nyújt kulturális menedéket. Az autóval kényelmesen, szárazon jutunk el egyik helyszíntől a másikig.\n\nDélután a Saint-Bonnet területét érintjük, majd a napot a játszótereknél zárjuk, a kocsi biztonságából figyelve a lassan elálló záporokat.",
             "ro": "Călătoria pe ploaie începe la Noirée Park, unde parcăm și admirăm peisajul. Apoi mergem la Étang de Fallavier, un loc ideal pentru pauze scurte.\n\nLa prânz, Le Vellein oferă un refugiu cultural. Mașina rămâne parcată aproape, permițându-ne să ajungem uscați de la un punct la altul.\n\nDupă-amiaza vizităm Rezervația Saint-Bonnet și încheiem ziua la locurile de joacă, așteptând în vehiculul uscat oprirea averselor.",
-            "en": "Start your rainy drive at Noirée Park, enjoying the views from the comfort of your car. Next, visit Étang de Fallavier for a short, umbrella-aided walk.\n\nAt noon, Le Vellein offers a perfect cultural escape from the weather. Your car serves as a dry base as you move effortlessly between the different sites.\n\nIn the afternoon, head to Saint-Bonnet Reserve and finish the day at the playgrounds, using your vehicle to stay dry between the passing showers."
+            "en": "Start your rainy drive at Noirée Park, enjoying the views from the comfort of your car. Next, visit Étang de Fallavier for a short, umbrella-aided walk.\n\nAt noon, Le Vellein offers a perfect cultural escape from the weather. Your car serves as a dry base as you move effortlessly between the different sites.\n\nIn the afternoon, head to Saint-Bonnet Reserve and finish the day at the playgrounds, using your vehicle to stay dry between the passing showers.",
+            "fr": "Commencez votre trajet pluvieux au Parc Noirée, en profitant des vues depuis le confort de votre voiture. Ensuite, visitez l’Étang de Fallavier pour une courte promenade à l’abri d’un parapluie.\n\nÀ midi, Le Vellein offre une parfaite échappée culturelle contre le mauvais temps. Votre voiture sert de base sèche tandis que vous vous déplacez sans effort entre les différents sites.\n\nL’après-midi, rendez-vous à la Réserve de Saint-Bonnet et terminez la journée aux aires de jeux, en utilisant votre véhicule pour rester au sec entre les averses passagères."
           },
           "stops": [
             {
@@ -914,13 +1012,15 @@
                 "de": "Noirée Park",
                 "hu": "Noirée Park",
                 "ro": "Noirée Park",
-                "en": "Noirée Park"
+                "en": "Noirée Park",
+                "fr": "Parc Noirée"
               },
               "tip_4lang": {
                 "de": "Parken Sie auf den befestigten Plätzen, um nicht im nassen Gras stecken zu bleiben; die Aussicht aus dem Fenster ist auch bei Regen sehr entspannend.",
                 "hu": "Parkoljon a szilárd burkolatú helyeken, hogy elkerülje az elakadást a vizes fűben; a kilátás az ablakból esőben is rendkívül megnyugtató.",
                 "ro": "Parcați pe locurile pavate pentru a nu rămâne blocați în iarba udă; priveliștea de pe geam este foarte relaxantă chiar și pe ploaie.",
-                "en": "Park on the paved areas to avoid getting stuck in wet grass; the view from your car window is very relaxing even during a downpour."
+                "en": "Park on the paved areas to avoid getting stuck in wet grass; the view from your car window is very relaxing even during a downpour.",
+                "fr": "Garez-vous sur les zones pavées pour éviter de rester coincé dans l’herbe mouillée ; la vue depuis la fenêtre de votre voiture est très relaxante même sous une forte pluie."
               }
             },
             {
@@ -928,13 +1028,15 @@
                 "de": "Étang de Fallavier",
                 "hu": "Étang de Fallavier",
                 "ro": "Étang de Fallavier",
-                "en": "Étang de Fallavier"
+                "en": "Étang de Fallavier",
+                "fr": "Étang de Fallavier"
               },
               "tip_4lang": {
                 "de": "Lassen Sie den Regenschirm griffbereit im Auto; der Weg vom Parkplatz zum Seeufer ist kurz, aber ungeschützt vor dem Wind und Regen.",
                 "hu": "Tartsa az esernyőt kézközelben az autóban; a parkolótól a tópartig vezető út rövid, de teljesen kitett a szélnek és az esőnek.",
                 "ro": "Păstrați umbrela la îndemână în mașină; drumul de la parcare la malul lacului este scurt, dar neprotejat în fața vântului și ploii.",
-                "en": "Keep your umbrella within reach in the car; the walk from the parking lot to the lakeside is short but fully exposed to the wind and rain."
+                "en": "Keep your umbrella within reach in the car; the walk from the parking lot to the lakeside is short but fully exposed to the wind and rain.",
+                "fr": "Gardez votre parapluie à portée de main dans la voiture ; la marche du parking au bord du lac est courte mais totalement exposée au vent et à la pluie."
               }
             },
             {
@@ -942,13 +1044,15 @@
                 "de": "Le Vellein",
                 "hu": "Le Vellein",
                 "ro": "Le Vellein",
-                "en": "Le Vellein"
+                "en": "Le Vellein",
+                "fr": "Le Vellein"
               },
               "tip_4lang": {
                 "de": "Nutzen Sie die Parkmöglichkeiten direkt vor dem Gebäude; das Kulturzentrum ist der ideale Ort für eine längere, trockene Pause während der Tour.",
                 "hu": "Használja ki az épület előtti közvetlen parkolási lehetőséget; a kulturális központ tökéletes helyszín egy hosszabb, száraz pihenőre a túra során.",
                 "ro": "Utilizați locurile de parcare direct în fața clădirii; centrul cultural este locul ideal pentru o pauză lungă și uscată în timpul traseului.",
-                "en": "Use the parking spaces directly in front of the building; the cultural center is the perfect spot for a longer, dry break during your tour."
+                "en": "Use the parking spaces directly in front of the building; the cultural center is the perfect spot for a longer, dry break during your tour.",
+                "fr": "Utilisez les places de parking directement devant le bâtiment ; le centre culturel est l'endroit idéal pour une pause longue et au sec pendant votre visite."
               }
             },
             {
@@ -956,13 +1060,15 @@
                 "de": "Saint-Bonnet Nature Reserve",
                 "hu": "Saint-Bonnet Nature Reserve",
                 "ro": "Saint-Bonnet Nature Reserve",
-                "en": "Saint-Bonnet Nature Reserve"
+                "en": "Saint-Bonnet Nature Reserve",
+                "fr": "Réserve naturelle de Saint-Bonnet"
               },
               "tip_4lang": {
                 "de": "Fahren Sie vorsichtig auf den Zufahrtswegen, da sich bei starkem Regen Aquaplaning-Gefahr durch stehendes Wasser in den Senken bilden kann.",
                 "hu": "Vezessen óvatosan a bekötőutakon, mert heves esőzéskor a mélyedésekben megálló víz miatt fennáll az aquaplaning veszélye.",
                 "ro": "Conduceți cu atenție pe drumurile de acces, deoarece în timpul ploilor torențiale există risc de acvaplanare în zonele joase unde stă apa.",
-                "en": "Drive carefully on the access roads; during heavy rain, standing water in low-lying areas can cause a significant risk of aquaplaning."
+                "en": "Drive carefully on the access roads; during heavy rain, standing water in low-lying areas can cause a significant risk of aquaplaning.",
+                "fr": "Conduisez prudemment sur les voies d'accès ; en cas de fortes pluies, l'eau stagnante dans les zones basses peut provoquer un risque important d'aquaplanage."
               }
             },
             {
@@ -970,13 +1076,15 @@
                 "de": "Étang neuf 1",
                 "hu": "Étang neuf 1",
                 "ro": "Étang neuf 1",
-                "en": "Étang neuf 1"
+                "en": "Étang neuf 1",
+                "fr": "Étang neuf 1"
               },
               "tip_4lang": {
                 "de": "Stellen Sie das Fahrzeug so ab, dass Sie einen guten Blick auf den See haben; so können Sie die Natur beobachten, ohne nass zu werden.",
                 "hu": "Úgy parkoljon le a járművel, hogy jó rálátása legyen a tóra; így a kocsi száraz melegéből is megfigyelheti a természetet az esőben.",
                 "ro": "Parcați vehiculul astfel încât să aveți o vedere bună asupra lacului; astfel puteți observa natura fără a vă uda deloc.",
-                "en": "Position your car so you have a clear view of the lake; this allows you to observe the wildlife while staying completely dry inside."
+                "en": "Position your car so you have a clear view of the lake; this allows you to observe the wildlife while staying completely dry inside.",
+                "fr": "Positionnez votre voiture pour avoir une vue dégagée sur le lac ; cela vous permet d'observer la faune tout en restant complètement au sec à l'intérieur."
               }
             },
             {
@@ -984,13 +1092,15 @@
                 "de": "Aire de Jeux de Turitin",
                 "hu": "Aire de Jeux de Turitin",
                 "ro": "Aire de Jeux de Turitin",
-                "en": "Aire de Jeux de Turitin"
+                "en": "Aire de Jeux de Turitin",
+                "fr": "Aire de Jeux de Turitin"
               },
               "tip_4lang": {
                 "de": "Warten Sie eine Regenpause ab, bevor Sie die Spielgeräte nutzen; achten Sie darauf, dass die Oberflächen sehr rutschig und nass sein können.",
                 "hu": "Várjon meg egy esőszünetet, mielőtt használnák a játékokat; ügyeljen rá, hogy a felületek ilyenkor rendkívül csúszósak és vizesek lehetnek.",
                 "ro": "Așteptați o pauză între averse înainte de a folosi echipamentele de joacă; rețineți că suprafețele pot fi extrem de alunecoase și ude.",
-                "en": "Wait for a break in the rain before using the play equipment; keep in mind that the surfaces can be extremely slippery and wet."
+                "en": "Wait for a break in the rain before using the play equipment; keep in mind that the surfaces can be extremely slippery and wet.",
+                "fr": "Attendez une accalmie avant d'utiliser les jeux ; gardez à l'esprit que les surfaces peuvent être extrêmement glissantes et mouillées."
               }
             }
           ]
@@ -1000,7 +1110,8 @@
             "de": "Die Wintertour mit dem Auto startet im Noirée Park, wo wir den Frost auf den Wiesen bewundern. Danach geht es zum Étang de Fallavier in der klaren Morgenluft.\n\nMittags genießen wir die Wärme im Le Vellein. Die Fahrt zwischen den Stationen ist dank der Sitzheizung besonders komfortabel und angenehm.\n\nAm Nachmittag erkunden wir das Saint-Bonnet Reservat und die Spielplätze. Vor dem Sonnenuntergang um 17:00 Uhr genießen wir die winterliche Stille am See.",
             "hu": "A téli autós túra a Noirée Parknál indul, megcsodálva a réteken megülő zúzmarát. Ezután a friss reggeli levegőn az Étang de Fallavier-hez hajtunk.\n\nDélben a Le Vellein belső tereiben melegszünk fel. Az állomások közötti utazás az autó fűtésének köszönhetően kényelmes és pihentető.\n\nDélután a Saint-Bonnet területét és a játszótereket keressük fel. A 17:00-s napnyugta előtt még élvezzük a tóparti csendet a kocsi melegéből.",
             "ro": "Călătoria de iarnă cu mașina începe la Noirée Park, admirând chiciura de pe pajiști. Apoi mergem la Étang de Fallavier în aerul curat al dimineții.\n\nLa prânz ne bucurăm de căldura de la Le Vellein. Deplasarea între stații este confortabilă datorită sistemului de încălzire al mașinii.\n\nDupă-amiaza explorăm Rezervația Saint-Bonnet și locurile de joacă. Înainte de apusul de la ora 17:00, savurăm liniștea iernii de pe malul lacului.",
-            "en": "Your winter drive starts at Noirée Park, where you can admire the frost-covered meadows. Next, visit Étang de Fallavier in the crisp morning air.\n\nAt noon, enjoy the warmth inside Le Vellein. Traveling between the stops is comfortable and pleasant thanks to your car's heating system.\n\nIn the afternoon, explore the Saint-Bonnet Reserve and the playgrounds. Before the 17:00 sunset, soak in the winter silence by the lake from your car."
+            "en": "Your winter drive starts at Noirée Park, where you can admire the frost-covered meadows. Next, visit Étang de Fallavier in the crisp morning air.\n\nAt noon, enjoy the warmth inside Le Vellein. Traveling between the stops is comfortable and pleasant thanks to your car's heating system.\n\nIn the afternoon, explore the Saint-Bonnet Reserve and the playgrounds. Before the 17:00 sunset, soak in the winter silence by the lake from your car.",
+            "fr": "Votre balade hivernale commence au parc de la Noirée, où vous pourrez admirer les prés couverts de givre. Ensuite, visitez l'Étang de Fallavier dans l'air frais du matin.\n\nÀ midi, profitez de la chaleur à l'intérieur du Vellein. Les trajets entre les étapes sont confortables et agréables grâce au chauffage de votre voiture.\n\nL'après‑midi, explorez la réserve de Saint-Bonnet et les aires de jeux. Avant le coucher du soleil à 17:00, savourez le silence hivernal au bord du lac depuis votre voiture."
           },
           "stops": [
             {
@@ -1008,13 +1119,15 @@
                 "de": "Noirée Park",
                 "hu": "Noirée Park",
                 "ro": "Noirée Park",
-                "en": "Noirée Park"
+                "en": "Noirée Park",
+                "fr": "Parc de la Noirée"
               },
               "tip_4lang": {
                 "de": "Nutzen Sie die Standheizung, während Sie die winterliche Landschaft betrachten; die tiefstehende Sonne sorgt für ein tolles Lichtspiel auf dem Reif.",
                 "hu": "Használja az állóhelyzeti fűtést, miközben a téli tájat szemléli; az alacsony napállás csodás fényjátékot produkál a zúzmarás réteken.",
                 "ro": "Folosiți încălzirea auxiliară în timp ce admirați peisajul de iarnă; soarele jos creează un joc de lumini superb pe chiciura de afară.",
-                "en": "Use your car's heater while taking in the winter scenery; the low sun creates a beautiful play of light on the frost-covered grass."
+                "en": "Use your car's heater while taking in the winter scenery; the low sun creates a beautiful play of light on the frost-covered grass.",
+                "fr": "Utilisez le chauffage de la voiture tout en profitant du paysage hivernal ; le soleil bas crée un beau jeu de lumière sur l'herbe givrée."
               }
             },
             {
@@ -1022,13 +1135,15 @@
                 "de": "Étang de Fallavier",
                 "hu": "Étang de Fallavier",
                 "ro": "Étang de Fallavier",
-                "en": "Étang de Fallavier"
+                "en": "Étang de Fallavier",
+                "fr": "Étang de Fallavier"
               },
               "tip_4lang": {
                 "de": "Achten Sie auf Glatteis auf dem Parkplatz; die Wege zum See können im Schatten der Bäume den ganzen Tag über gefroren bleiben.",
                 "hu": "Ügyeljen a parkolóban kialakuló jegesedésre; a tóhoz vezető ösvények a fák árnyékában egész nap fagyottak maradhatnak.",
                 "ro": "Atenție la poleiul din parcare; aleile spre lac pot rămâne înghețate toată ziua în zonele umbrite de copaci.",
-                "en": "Watch out for icy patches in the parking lot; paths leading to the lake can remain frozen all day in the shadows of the trees."
+                "en": "Watch out for icy patches in the parking lot; paths leading to the lake can remain frozen all day in the shadows of the trees.",
+                "fr": "Attention aux plaques de verglas sur le parking ; les chemins menant au lac peuvent rester gelés toute la journée à l'ombre des arbres."
               }
             },
             {
@@ -1036,13 +1151,15 @@
                 "de": "Le Vellein",
                 "hu": "Le Vellein",
                 "ro": "Le Vellein",
-                "en": "Le Vellein"
+                "en": "Le Vellein",
+                "fr": "Le Vellein"
               },
               "tip_4lang": {
                 "de": "Ein idealer Ort, um die Kälte für eine Weile zu vergessen; genießen Sie die warme Atmosphäre des Gebäudes und die kulturellen Highlights.",
                 "hu": "Tökéletes helyszín, hogy egy időre elfelejtse a kinti hideget; élvezze az épület meleg hangulatát és a kulturális látnivalókat.",
                 "ro": "Un loc ideal pentru a uita de frigul de afară pentru o vreme; bucurați-vă de atmosfera caldă a clădirii și de punctele de atracție culturale.",
-                "en": "A perfect spot to forget the cold outside for a while; enjoy the warm atmosphere of the building and the cultural highlights inside."
+                "en": "A perfect spot to forget the cold outside for a while; enjoy the warm atmosphere of the building and the cultural highlights inside.",
+                "fr": "Un endroit parfait pour oublier le froid dehors pendant un moment ; profitez de l'atmosphère chaleureuse du bâtiment et des richesses culturelles à l'intérieur."
               }
             },
             {
@@ -1050,13 +1167,15 @@
                 "de": "Saint-Bonnet Nature Reserve",
                 "hu": "Saint-Bonnet Nature Reserve",
                 "ro": "Saint-Bonnet Nature Reserve",
-                "en": "Saint-Bonnet Nature Reserve"
+                "en": "Saint-Bonnet Nature Reserve",
+                "fr": "Réserve naturelle de Saint-Bonnet"
               },
               "tip_4lang": {
                 "de": "Die Straßen im Waldgebiet können rutschig sein; fahren Sie mit angemessener Geschwindigkeit und achten Sie auf Wildwechsel in der Dämmerung.",
                 "hu": "Az erdei szakaszokon az utak csúszósak lehetnek; vezessen mérsékelt sebességgel, és figyeljen a szürkületben felbukkanó vadakra.",
                 "ro": "Drumurile din zona de pădure pot fi alunecoase; conduceți cu viteză adaptată și atenție la animalele sălbatice în prag de seară.",
-                "en": "Roads in the forested area can be slippery; drive at a moderate speed and watch out for wildlife crossing during the early twilight."
+                "en": "Roads in the forested area can be slippery; drive at a moderate speed and watch out for wildlife crossing during the early twilight.",
+                "fr": "Les routes en zone boisée peuvent être glissantes ; roulez à vitesse modérée et soyez attentif aux animaux traversant au crépuscule."
               }
             },
             {
@@ -1064,13 +1183,15 @@
                 "de": "Étang neuf 1",
                 "hu": "Étang neuf 1",
                 "ro": "Étang neuf 1",
-                "en": "Étang neuf 1"
+                "en": "Étang neuf 1",
+                "fr": "Étang neuf 1"
               },
               "tip_4lang": {
                 "de": "Der Blick auf den See im Winterlicht ist einmalig; bleiben Sie im warmen Auto, wenn der Wind draußen zu schneidend wird.",
                 "hu": "A tó látványa a téli fényekben egyedülálló; maradjon a kocsi melegében, ha a kinti szél túl metszővé válna a nézelődéshez.",
                 "ro": "Vederea lacului în lumina iernii este unică; rămâneți în mașina caldă dacă vântul de afară devine prea tăios pentru plimbare.",
-                "en": "The view of the lake in winter light is unique; stay inside the warm car if the wind outside becomes too biting for comfortable viewing."
+                "en": "The view of the lake in winter light is unique; stay inside the warm car if the wind outside becomes too biting for comfortable viewing.",
+                "fr": "La vue du lac sous la lumière hivernale est unique ; restez dans la voiture chauffée si le vent devient trop mordant pour observer confortablement."
               }
             },
             {
@@ -1078,13 +1199,15 @@
                 "de": "Aire de Jeux de Turitin",
                 "hu": "Aire de Jeux de Turitin",
                 "ro": "Aire de Jeux de Turitin",
-                "en": "Aire de Jeux de Turitin"
+                "en": "Aire de Jeux de Turitin",
+                "fr": "Aire de Jeux de Turitin"
               },
               "tip_4lang": {
                 "de": "Die Spielgeräte können im Winter sehr kalt sein; stellen Sie sicher, dass die Kinder warme Handschuhe tragen, um Hautreizungen zu vermeiden.",
                 "hu": "A játékok fém részei télen nagyon lehűlhetnek; ügyeljen rá, hogy a gyerekek viseljenek kesztyűt a fagyos felületek érintésekor.",
                 "ro": "Echipamentele de joacă pot fi foarte reci iarna; asigurați-vă că micuții poartă mănuși groase pentru a evita contactul cu suprafețele înghețate.",
-                "en": "The play equipment can be very cold in winter; ensure that children wear warm gloves when touching the frozen metal or plastic surfaces."
+                "en": "The play equipment can be very cold in winter; ensure that children wear warm gloves when touching the frozen metal or plastic surfaces.",
+                "fr": "Les équipements de jeux peuvent être très froids en hiver ; veillez à ce que les enfants portent des gants chauds lorsqu'ils touchent les surfaces métalliques ou plastiques gelées."
               }
             }
           ]

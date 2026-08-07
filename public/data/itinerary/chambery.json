@@ -21,7 +21,8 @@
             "de": "Elefantenbrunnen",
             "hu": "Elefántos kút",
             "ro": "Fântâna Elefanților",
-            "en": "Elephants Fountain"
+            "en": "Elephants Fountain",
+            "fr": "Fontaine des Éléphants"
           },
           "coords": [
             5.9221,
@@ -37,7 +38,7 @@
             "hu": "A város jelképe, 1838-ban épült de Boigne tábornok tiszteletére.",
             "ro": "Simbolul orașului, construit în 1838 în onoarea generalului de Boigne.",
             "en": "The city's landmark, built in 1838 to honor General de Boigne.",
-            "fr": "Le monument emblématique de la ville, érigé en 1838 en l'honneur du général de Boigne."
+            "fr": "Le monument emblématique de la ville, construit en 1838 pour honorer le général de Boigne."
           }
         },
         {
@@ -45,7 +46,8 @@
             "de": "Kathedrale Saint-François-de-Sales",
             "hu": "Saint-François-de-Sales székesegyház",
             "ro": "Catedrala Saint-François-de-Sales",
-            "en": "Saint-François-de-Sales Cathedral"
+            "en": "Saint-François-de-Sales Cathedral",
+            "fr": "Cathédrale Saint‑François‑de‑Sales"
           },
           "coords": [
             5.9215,
@@ -61,7 +63,7 @@
             "hu": "Csodálja meg Európa legnagyobb trompe-l'oeil festményét a belső térben.",
             "ro": "Admirați cea mai mare pictură trompe-l'oeil din Europa în interior.",
             "en": "Admire the largest trompe-l'oeil painting in Europe inside.",
-            "fr": "Admirez à l'intérieur la plus grande peinture en trompe-l'œil d'Europe."
+            "fr": "Admirez le plus grand trompe‑l'œil d'Europe à l'intérieur."
           }
         },
         {
@@ -69,7 +71,8 @@
             "de": "Museum der Schönen Künste",
             "hu": "Szépművészeti Múzeum",
             "ro": "Muzeul de Arte Frumoase",
-            "en": "Museum of Fine Arts"
+            "en": "Museum of Fine Arts",
+            "fr": "Musée des Beaux‑Arts"
           },
           "coords": [
             5.923,
@@ -93,7 +96,8 @@
             "de": "Place Saint-Léger",
             "hu": "Place Saint-Léger",
             "ro": "Place Saint-Léger",
-            "en": "Place Saint-Léger"
+            "en": "Place Saint-Léger",
+            "fr": "Place Saint‑Léger"
           },
           "coords": [
             5.92,
@@ -109,7 +113,7 @@
             "hu": "Élvezzen egy savoyai ebédet az óváros szívében.",
             "ro": "Bucurați-vă de un prânz savoiard în inima orașului vechi.",
             "en": "Enjoy a Savoyard lunch in the heart of the old town.",
-            "fr": "Profitez d'un déjeuner savoyard au cœur de la vieille ville."
+            "fr": "Savourez un déjeuner savoyard au cœur de la vieille ville."
           }
         },
         {
@@ -117,7 +121,8 @@
             "de": "Schloss der Herzöge von Savoyen",
             "hu": "Savoia hercegeinek kastélya",
             "ro": "Castelul Ducilor de Savoia",
-            "en": "Castle of the Dukes of Savoy"
+            "en": "Castle of the Dukes of Savoy",
+            "fr": "Château des Ducs de Savoie"
           },
           "coords": [
             5.9185,
@@ -133,7 +138,7 @@
             "hu": "Látogasson el a Sainte-Chapelle-be a híres harangjátékkal.",
             "ro": "Vizitați Sainte-Chapelle cu faimosul său carillon.",
             "en": "Visit the Sainte-Chapelle with its famous carillon.",
-            "fr": "Visitez la Sainte-Chapelle et son célèbre carillon."
+            "fr": "Visitez la Sainte‑Chapelle avec son célèbre carillon."
           }
         },
         {
@@ -141,7 +146,8 @@
             "de": "Rue de Boigne",
             "hu": "Rue de Boigne",
             "ro": "Rue de Boigne",
-            "en": "Rue de Boigne"
+            "en": "Rue de Boigne",
+            "fr": "Rue de Boigne"
           },
           "coords": [
             5.921,
@@ -157,7 +163,7 @@
             "hu": "Elegáns árkádok helyi finomságokkal és butikokkal.",
             "ro": "Arcade elegante cu delicatese locale și buticuri.",
             "en": "Elegant arcades with local delicacies and boutiques.",
-            "fr": "Élégantes arcades abritant des délices locaux et des boutiques."
+            "fr": "Élégantes arcades avec délices locaux et boutiques."
           }
         },
         {
@@ -165,7 +171,8 @@
             "de": "Parc du Clos Savoiroux",
             "hu": "Parc du Clos Savoiroux",
             "ro": "Parc du Clos Savoiroux",
-            "en": "Parc du Clos Savoiroux"
+            "en": "Parc du Clos Savoiroux",
+            "fr": "Parc du Clos Savoiroux"
           },
           "coords": [
             5.924,
@@ -190,7 +197,7 @@
         "hu": "Reggelét az ikonikus Elefántos kútnál indítja, majd felfedezi a székesegyház lenyűgöző optikai csalódásait. A Szépművészeti Múzeumban elmélyedhet az itáliai reneszánsz művészet remekeiben.\n\nDélben a Place Saint-Léger pezsgő élete várja Önt. A színes homlokzatok és a savoyai konyha ízei tökéletes hátteret biztosítanak egy élvezetes pihenőhöz az óváros szívében.\n\nAz délután a Savoia hercegek hatalmának jegyében telik. A kastélyegyüttes felfedezése és a Rue de Boigne elegáns árkádjai alatt tett séta életre kelti a város dicső múltját.\n\nEste felé sétáljon el a Parc du Clos Savoiroux parkba. Ahogy a nap lenyugszik az Alpok vonulatai mögött, élvezze a csendet és a panorámát Savoia történelmi fővárosára.",
         "ro": "Dimineața începe la emblematica Fântână a Elefanților, înainte de a explora iluziile optice fascinante ale catedralei. O incursiune în istoria artei vă așteaptă la Muzeul de Arte Frumoase.\n\nLa prânz, vă scufundați în viața vibrantă din Place Saint-Léger. Fațadele colorate și bucătăria savoiardă oferă cadrul perfect pentru o pauză delicioasă în centrul istoric.\n\nDupă-amiaza este dedicată puterii Ducilor de Savoia. Explorarea complexului castelului și arcadele elegante de pe Rue de Boigne readuc la viață trecutul glorios al orașului.\n\nSpre seară, plimbați-vă până la Parcul Clos Savoiroux. În timp ce soarele apune peste Alpi, bucurați-vă de liniștea și panorama asupra capitalei istorice a Savoniei.",
         "en": "Your morning starts at the iconic Elephant Fountain before exploring the fascinating optical illusions of the Cathedral. A deep dive into art history awaits you at the Museum of Fine Arts.\n\nAt midday, immerse yourself in the vibrant life of Place Saint-Léger. The colorful facades and Savoyard cuisine provide the perfect backdrop for an enjoyable break in the historic center.\n\nThe afternoon is dedicated to the power of the Dukes of Savoy. Exploring the castle complex and the elegant arcades of Rue de Boigne brings the city's glorious past to life.\n\nTowards evening, stroll to the Parc du Clos Savoiroux. As the sun sets behind the Alps, enjoy the peace and panoramic view over the historic capital of Savoy.",
-        "fr": "Votre matinée commence à l'emblématique Fontaine des Éléphants avant d'explorer les fascinantes illusions d'optique de la Cathédrale. Une plongée dans l'histoire de l'art vous attend ensuite au Musée des Beaux-Arts.\n\nÀ la mi-journée, imprégnez-vous de la vie vibrante de la Place Saint-Léger. Les façades colorées et la cuisine savoyarde offrent le cadre idéal pour une pause agréable dans le centre historique.\n\nL'après-midi est dédié à la puissance des ducs de Savoie. L'exploration du complexe du château et des élégantes arcades de la rue de Boigne fait revivre le passé glorieux de la ville.\n\nVers le soir, promenez-vous jusqu'au Parc du Clos Savoiroux. Alors que le soleil se couche derrière les Alpes, profitez de la paix et de la vue panoramique sur la capitale historique de la Savoie."
+        "fr": "Votre matinée commence à l'emblématique Fontaine des Éléphants avant d'explorer les fascinantes illusions d'optique de la Cathédrale. Une plongée approfondie dans l'histoire de l'art vous attend au Musée des Beaux‑Arts.\n\nÀ midi, imprégnez‑vous de la vie vibrante de la Place Saint‑Léger. Les façades colorées et la cuisine savoyarde offrent le cadre parfait pour une pause agréable dans le centre historique.\n\nL'après‑midi est dédié au pouvoir des ducs de Savoie. Explorer le complexe du château et les élégantes arcades de la Rue de Boigne fait revivre le passé glorieux de la ville.\n\nVers le soir, promenez‑vous jusqu'au Parc du Clos Savoiroux. Alors que le soleil se couche derrière les Alpes, profitez du calme et de la vue panoramique sur la capitale historique de la Savoie."
       },
       "gastro_picks": {
         "de": [
@@ -433,11 +440,11 @@
           "Buy cheese at the Halles in the morning for the best selection."
         ],
         "fr": [
-          "La vieille ville est presque entièrement piétonne et idéale à explorer à pied.",
+          "La vieille ville est presque entièrement piétonnière et idéale pour être explorée à pied.",
           "Cherchez les passages cachés (traboules) entre les bâtiments.",
-          "Goûtez au Vermouth de Chambéry local dans l'un des cafés.",
-          "La Sainte-Chapelle du château possède un carillon de 70 cloches.",
-          "Achetez du fromage aux Halles le matin pour avoir le meilleur choix."
+          "Goûtez le vermouth local de Chambéry dans un des cafés.",
+          "La Sainte‑Chapelle du château possède un carillon de 70 cloches.",
+          "Achetez du fromage aux Halles le matin pour la meilleure sélection."
         ]
       },
       "variants": {
@@ -446,7 +453,8 @@
             "de": "Ihr Morgen beginnt am ikonischen Elefantenbrunnen, bevor Sie die faszinierenden optischen Täuschungen der Kathedrale erkunden. Ein tiefer Einblick in die Kunstgeschichte erwartet Sie im Musée des Beaux-Arts.\n\nMittags tauchen Sie in das pulsierende Leben der Place Saint-Léger ein. Die bunten Fassaden und die savoyische Küche bieten die perfekte Kulisse für eine genussvolle Pause im historischen Zentrum.\n\nDer Nachmittag steht im Zeichen der Macht der Herzöge von Savoyen. Die Erkundung der Schlossanlage und die eleganten Arkaden der Rue de Boigne lassen die glanzvolle Vergangenheit der Stadt lebendig werden.\n\nZum Abend hin spazieren Sie zum Parc du Clos Savoiroux. Während die Sonne hinter den Alpen versinkt, genießen Sie die Ruhe und den Panoramablick über die geschichtsträchtige Hauptstadt Savoyens.",
             "hu": "Reggelét az ikonikus Elefántos kútnál indítja, majd felfedezi a székesegyház lenyűgöző optikai csalódásait. A Szépművészeti Múzeumban elmélyedhet az itáliai reneszánsz művészet remekeiben.\n\nDélben a Place Saint-Léger pezsgő élete várja Önt. A színes homlokzatok és a savoyai konyha ízei tökéletes hátteret biztosítanak egy élvezetes pihenőhöz az óváros szívében.\n\nAz délután a Savoia hercegek hatalmának jegyében telik. A kastélyegyüttes felfedezése és a Rue de Boigne elegáns árkádjai alatt tett séta életre kelti a város dicső múltját.\n\nEste felé sétáljon el a Parc du Clos Savoiroux parkba. Ahogy a nap lenyugszik az Alpok vonulatai mögött, élvezze a csendet és a panorámát Savoia történelmi fővárosára.",
             "ro": "Dimineața începe la emblematica Fântână a Elefanților, înainte de a explora iluziile optice fascinante ale catedralei. O incursiune în istoria artei vă așteaptă la Muzeul de Arte Frumoase.\n\nLa prânz, vă scufundați în viața vibrantă din Place Saint-Léger. Fațadele colorate și bucătăria savoiardă oferă cadrul perfect pentru o pauză delicioasă în centrul istoric.\n\nDupă-amiaza este dedicată puterii Ducilor de Savoia. Explorarea complexului castelului și arcadele elegante de pe Rue de Boigne readuc la viață trecutul glorios al orașului.\n\nSpre seară, plimbați-vă până la Parcul Clos Savoiroux. În timp ce soarele apune peste Alpi, bucurați-vă de liniștea și panorama asupra capitalei istorice a Savoniei.",
-            "en": "Your morning starts at the iconic Elephant Fountain before exploring the fascinating optical illusions of the Cathedral. A deep dive into art history awaits you at the Museum of Fine Arts.\n\nAt midday, immerse yourself in the vibrant life of Place Saint-Léger. The colorful facades and Savoyard cuisine provide the perfect backdrop for an enjoyable break in the historic center.\n\nThe afternoon is dedicated to the power of the Dukes of Savoy. Exploring the castle complex and the elegant arcades of Rue de Boigne brings the city's glorious past to life.\n\nTowards evening, stroll to the Parc du Clos Savoiroux. As the sun sets behind the Alps, enjoy the peace and panoramic view over the historic capital of Savoy."
+            "en": "Your morning starts at the iconic Elephant Fountain before exploring the fascinating optical illusions of the Cathedral. A deep dive into art history awaits you at the Museum of Fine Arts.\n\nAt midday, immerse yourself in the vibrant life of Place Saint-Léger. The colorful facades and Savoyard cuisine provide the perfect backdrop for an enjoyable break in the historic center.\n\nThe afternoon is dedicated to the power of the Dukes of Savoy. Exploring the castle complex and the elegant arcades of Rue de Boigne brings the city's glorious past to life.\n\nTowards evening, stroll to the Parc du Clos Savoiroux. As the sun sets behind the Alps, enjoy the peace and panoramic view over the historic capital of Savoy.",
+            "fr": "Votre matinée commence à l'emblématique Fontaine des Éléphants avant d'explorer les fascinantes illusions d'optique de la Cathédrale. Une plongée approfondie dans l'histoire de l'art vous attend au Musée des Beaux‑Arts.\n\nÀ midi, imprégnez‑vous de la vie vibrante de la Place Saint‑Léger. Les façades colorées et la cuisine savoyarde offrent le cadre parfait pour une pause agréable dans le centre historique.\n\nL'après‑midi est dédié au pouvoir des ducs de Savoie. Explorer le complexe du château et les élégantes arcades de la Rue de Boigne fait revivre le passé glorieux de la ville.\n\nVers le soir, promenez‑vous jusqu'au Parc du Clos Savoiroux. Alors que le soleil se couche derrière les Alpes, profitez du calme et de la vue panoramique sur la capitale historique de la Savoie."
           },
           "stops": [
             {
@@ -454,13 +462,15 @@
                 "de": "Elefantenbrunnen",
                 "hu": "Elefántos kút",
                 "ro": "Fântâna Elefanților",
-                "en": "Elephants Fountain"
+                "en": "Elephants Fountain",
+                "fr": "Fontaine des Éléphants"
               },
               "tip_5lang": {
                 "de": "Das Wahrzeichen der Stadt, erbaut 1838 zu Ehren von General de Boigne.",
                 "hu": "A város jelképe, 1838-ban épült de Boigne tábornok tiszteletére.",
                 "ro": "Simbolul orașului, construit în 1838 în onoarea generalului de Boigne.",
-                "en": "The city's landmark, built in 1838 to honor General de Boigne."
+                "en": "The city's landmark, built in 1838 to honor General de Boigne.",
+                "fr": "Le monument emblématique de la ville, construit en 1838 pour honorer le général de Boigne."
               }
             },
             {
@@ -468,13 +478,15 @@
                 "de": "Kathedrale Saint-François-de-Sales",
                 "hu": "Saint-François-de-Sales székesegyház",
                 "ro": "Catedrala Saint-François-de-Sales",
-                "en": "Saint-François-de-Sales Cathedral"
+                "en": "Saint-François-de-Sales Cathedral",
+                "fr": "Cathédrale Saint‑François‑de‑Sales"
               },
               "tip_5lang": {
                 "de": "Bewundern Sie die größte Trompe-l'oeil-Malerei Europas im Inneren.",
                 "hu": "Csodálja meg Európa legnagyobb trompe-l'oeil festményét a belső térben.",
                 "ro": "Admirați cea mai mare pictură trompe-l'oeil din Europa în interior.",
-                "en": "Admire the largest trompe-l'oeil painting in Europe inside."
+                "en": "Admire the largest trompe-l'oeil painting in Europe inside.",
+                "fr": "Admirez le plus grand trompe‑l'œil d'Europe à l'intérieur."
               }
             },
             {
@@ -482,13 +494,15 @@
                 "de": "Museum der Schönen Künste",
                 "hu": "Szépművészeti Múzeum",
                 "ro": "Muzeul de Arte Frumoase",
-                "en": "Museum of Fine Arts"
+                "en": "Museum of Fine Arts",
+                "fr": "Musée des Beaux‑Arts"
               },
               "tip_5lang": {
                 "de": "Eine beeindruckende Sammlung italienischer Renaissance-Malerei.",
                 "hu": "Impresszív olasz reneszánsz festészeti gyűjtemény várja.",
                 "ro": "O colecție impresionantă de pictură renascentistă italiană.",
-                "en": "An impressive collection of Italian Renaissance paintings."
+                "en": "An impressive collection of Italian Renaissance paintings.",
+                "fr": "Une impressionnante collection de peintures de la Renaissance italienne."
               }
             },
             {
@@ -496,13 +510,15 @@
                 "de": "Place Saint-Léger",
                 "hu": "Place Saint-Léger",
                 "ro": "Place Saint-Léger",
-                "en": "Place Saint-Léger"
+                "en": "Place Saint-Léger",
+                "fr": "Place Saint‑Léger"
               },
               "tip_5lang": {
                 "de": "Genießen Sie ein savoyisches Mittagessen im Herzen der Altstadt.",
                 "hu": "Élvezzen egy savoyai ebédet az óváros szívében.",
                 "ro": "Bucurați-vă de un prânz savoiard în inima orașului vechi.",
-                "en": "Enjoy a Savoyard lunch in the heart of the old town."
+                "en": "Enjoy a Savoyard lunch in the heart of the old town.",
+                "fr": "Savourez un déjeuner savoyard au cœur de la vieille ville."
               }
             },
             {
@@ -510,13 +526,15 @@
                 "de": "Schloss der Herzöge von Savoyen",
                 "hu": "Savoia hercegeinek kastélya",
                 "ro": "Castelul Ducilor de Savoia",
-                "en": "Castle of the Dukes of Savoy"
+                "en": "Castle of the Dukes of Savoy",
+                "fr": "Château des Ducs de Savoie"
               },
               "tip_5lang": {
                 "de": "Besuchen Sie die Sainte-Chapelle mit ihrem berühmten Glockenspiel.",
                 "hu": "Látogasson el a Sainte-Chapelle-be a híres harangjátékkal.",
                 "ro": "Vizitați Sainte-Chapelle cu faimosul său carillon.",
-                "en": "Visit the Sainte-Chapelle with its famous carillon."
+                "en": "Visit the Sainte-Chapelle with its famous carillon.",
+                "fr": "Visitez la Sainte-Chapelle avec son célèbre carillon."
               }
             },
             {
@@ -524,13 +542,15 @@
                 "de": "Rue de Boigne",
                 "hu": "Rue de Boigne",
                 "ro": "Rue de Boigne",
-                "en": "Rue de Boigne"
+                "en": "Rue de Boigne",
+                "fr": "Rue de Boigne"
               },
               "tip_5lang": {
                 "de": "Elegante Arkaden mit lokalen Delikatessen und Boutiquen.",
                 "hu": "Elegáns árkádok helyi finomságokkal és butikokkal.",
                 "ro": "Arcade elegante cu delicatese locale și buticuri.",
-                "en": "Elegant arcades with local delicacies and boutiques."
+                "en": "Elegant arcades with local delicacies and boutiques.",
+                "fr": "Elégantes arcades avec des spécialités locales et des boutiques."
               }
             },
             {
@@ -538,13 +558,15 @@
                 "de": "Parc du Clos Savoiroux",
                 "hu": "Parc du Clos Savoiroux",
                 "ro": "Parc du Clos Savoiroux",
-                "en": "Parc du Clos Savoiroux"
+                "en": "Parc du Clos Savoiroux",
+                "fr": "Parc du Clos Savoiroux"
               },
               "tip_5lang": {
                 "de": "Ein herrlicher Blick auf die Dächer der Stadt zum Abschluss.",
                 "hu": "Pazar kilátás a város tetőire a nap végén.",
                 "ro": "O vedere superbă asupra acoperișurilor orașului la final.",
-                "en": "A magnificent view of the city's rooftops to finish."
+                "en": "A magnificent view of the city's rooftops to finish.",
+                "fr": "Une vue magnifique sur les toits de la ville pour terminer."
               }
             }
           ],
@@ -746,6 +768,13 @@
               "Try the local Vermouth de Chambéry at one of the cafes.",
               "The Sainte-Chapelle in the castle has a carillon with 70 bells.",
               "Buy cheese at the Halles in the morning for the best selection."
+            ],
+            "fr": [
+              "La vieille ville est presque entièrement piétonne et idéale pour se promener à pied.",
+              "Cherchez les passages cachés (traboules) entre les bâtiments.",
+              "Goûtez le Vermouth de Chambéry dans l'un des cafés.",
+              "La Sainte-Chapelle du château possède un carillon de 70 cloches.",
+              "Achetez du fromage aux Halles le matin pour le meilleur choix."
             ]
           }
         },
@@ -755,7 +784,7 @@
             "hu": "Reggel az esőben megcsodáljuk az elefántokat, majd a katedrálisban keresünk menedéket. Délben a Rue de Boigne árkádjai biztosítanak száraz utat az ebédhez. Délután a Szépművészeti Múzeum tárlatait böngésszük, távol a szürkeségtől. Este egy rövid, frissítő sétával zárjuk a napot a vizes parkban.",
             "ro": "Dimineața admirăm elefanții în ploaie înainte de a ne adăposti în catedrală. La prânz, arcadele de pe Rue de Boigne oferă căi uscate spre restaurant. După-amiaza explorăm Muzeul de Arte Frumoase, departe de griul de afară. Seara încheiem ziua cu o scurtă plimbare revigorantă prin parcul ud.",
             "en": "Morning starts with the elephants in the rain before seeking refuge in the cathedral. At midday, the arcades of Rue de Boigne provide dry paths for lunch. In the afternoon, we explore the Museum of Fine Arts, away from the gray skies. The evening ends with a short, refreshing walk through the wet park.",
-            "fr": "La matinée commence avec les éléphants sous la pluie avant de chercher refuge dans la cathédrale. À midi, les arcades de la rue de Boigne offrent des passages secs pour le déjeuner. L'après-midi, nous explorons le Musée des Beaux-Arts, loin du ciel gris. La soirée s'achève par une courte promenade rafraîchissante dans le parc humide."
+            "fr": "La matinée commence avec les éléphants sous la pluie avant de chercher refuge dans la cathédrale. À midi, les arcades de la Rue de Boigne offrent des chemins abrités pour le déjeuner. L'après-midi, nous explorons le Musée des Beaux-Arts, à l'écart des ciels gris. La soirée se termine par une courte et rafraîchissante promenade à travers le parc humide."
           },
           "stops": [
             {
@@ -765,7 +794,7 @@
                 "hu": "Egy gyors pillantás elég; az elefántok szinte életre kelnek az esőben.",
                 "ro": "O privire rapidă este suficientă; elefanții par aproape vii în ploaie.",
                 "en": "A quick look is enough; the elephants look almost alive in the rain.",
-                "fr": "Un coup d'œil rapide suffit ; les éléphants semblent presque vivants sous la pluie."
+                "fr": "Un rapide coup d'œil suffit ; les éléphants semblent presque vivants sous la pluie."
               }
             },
             {
@@ -775,7 +804,7 @@
                 "hu": "Tökéletes hely a szárazon maradáshoz és a trompe-l’œil festmények megcsodálásához.",
                 "ro": "Locul perfect pentru a rămâne uscat și a admira picturile trompe-l'œil.",
                 "en": "Perfect place to stay dry and admire the trompe-l'œil paintings.",
-                "fr": "Lieu parfait pour rester au sec tout en admirant les trompe-l'œil."
+                "fr": "Endroit parfait pour rester au sec et admirer les peintures en trompe-l'œil."
               }
             },
             {
@@ -815,7 +844,7 @@
                 "hu": "A híres árkádok a legjobb védelmet nyújtják az eső ellen vásárlás közben.",
                 "ro": "Celebrele arcade sunt cea mai bună protecție împotriva ploii la cumpărături.",
                 "en": "The famous arcades are the best protection against rain while shopping.",
-                "fr": "Les célèbres arcades sont la meilleure protection contre la pluie pendant le shopping."
+                "fr": "Les arcades célèbres sont la meilleure protection contre la pluie pendant vos achats."
               }
             },
             {
@@ -859,11 +888,11 @@
               "The cathedral offers a quiet, dry break."
             ],
             "fr": [
-              "Utilisez systématiquement les arcades de la rue de Boigne.",
+              "Utilisez systématiquement les arcades de la Rue de Boigne.",
               "Portez des chaussures imperméables pour les rues pavées.",
               "Les musées sont des abris idéaux lors des fortes averses.",
               "Un parapluie pliant est plus pratique pour les rues étroites.",
-              "La cathédrale offre une pause calme et sèche."
+              "La cathédrale offre une pause calme et au sec."
             ]
           }
         },
@@ -873,7 +902,7 @@
             "hu": "A dér csillog az elefántokon, miközben a délelőttöt a hűvös katedrálisban kezdjük. Délben a Place Saint-Léger kávézóiban melegszünk fel. Délután a vár kínál történelmi betekintést meleg környezetben. Mivel a nap korán nyugszik, a park kék fényeit már 16:30 körül élvezhetjük.",
             "ro": "Bruma strălucește pe elefanți în timp ce începem dimineața în catedrala răcoroasă. La prânz ne încălzim în cafenelele din Place Saint-Léger. După-amiaza, castelul oferă perspective istorice într-o atmosferă caldă. Deoarece soarele apune devreme, ne bucurăm de lumina albastră din parc deja pe la 16:30.",
             "en": "Frost sparkles on the elephants as we begin the morning in the cool cathedral. At midday, we warm up in the cafes of Place Saint-Léger. In the afternoon, the castle offers historical insights in a warm atmosphere. As the sun sets early, we enjoy the blue hour in the park around 4:30 PM.",
-            "fr": "Le givre scintille sur les éléphants alors que nous commençons la matinée dans la fraîcheur de la cathédrale. À midi, nous nous réchauffons dans les cafés de la Place Saint-Léger. L'après-midi, le château offre des perspectives historiques dans une atmosphère chaleureuse. Comme le soleil se couche tôt, nous profitons de l'heure bleue dans le parc vers 16h30."
+            "fr": "Le givre scintille sur les éléphants lorsque nous commençons la matinée dans la cathédrale fraîche. À midi, nous nous réchauffons dans les cafés de la Place Saint-Léger. L'après-midi, le château offre des éclairages historiques dans une ambiance chaleureuse. Comme le soleil se couche tôt, nous profitons de l'heure bleue dans le parc vers 16h30."
           },
           "stops": [
             {
@@ -883,7 +912,7 @@
                 "hu": "Vigyázzon a jégfoltokra a medence körül.",
                 "ro": "Atenție la porțiunile cu gheață din jurul bazinului.",
                 "en": "Watch out for patches of ice around the basin.",
-                "fr": "Attention aux plaques de glace autour du bassin."
+                "fr": "Attention aux plaques de verglas autour du bassin."
               }
             },
             {
@@ -913,7 +942,7 @@
                 "hu": "Kóstoljon meg egy forró csokoládét a hangulatos kávézók egyikében.",
                 "ro": "Încercați o ciocolată caldă într-una dintre cafenelele primitoare.",
                 "en": "Try a hot chocolate in one of the cozy cafes.",
-                "fr": "Dégustez un chocolat chaud dans l'un des cafés accueillants."
+                "fr": "Essayez un chocolat chaud dans l'un des cafés douillets."
               }
             },
             {
@@ -977,11 +1006,11 @@
               "Local tea or mulled wine warms you up after the park."
             ],
             "fr": [
-              "Des vêtements chauds sont obligatoires pour les rues venteuses.",
+              "Des vêtements chauds sont obligatoires pour les rues pleines de courant d'air.",
               "Le soleil disparaît tôt derrière les montagnes.",
               "Les pavés peuvent être très glissants en cas de gel.",
-              "Utilisez les heures de la mi-journée pour les visites en extérieur.",
-              "Un thé local ou un vin chaud vous réchauffera après le parc."
+              "Profitez des heures de midi pour les visites en plein air.",
+              "Un thé local ou du vin chaud vous réchauffe après le parc."
             ]
           }
         }
@@ -1000,7 +1029,8 @@
             "de": "Avenue Verte Nord",
             "hu": "Északi Zöld Út",
             "ro": "Avenue Verte Nord",
-            "en": "Avenue Verte Nord"
+            "en": "Avenue Verte Nord",
+            "fr": "Avenue Verte Nord"
           },
           "coords": [
             5.91,
@@ -1016,7 +1046,7 @@
             "hu": "Biztonságos kerékpárút, amely egyenesen a Bourget-tóhoz vezet.",
             "ro": "Pistă de biciclete sigură care duce direct la Lac du Bourget.",
             "en": "Safe cycle path leading directly to Lac du Bourget.",
-            "fr": "Piste cyclable sécurisée menant directement au lac du Bourget."
+            "fr": "Piste cyclable sécurisée menant directement au Lac du Bourget."
           }
         },
         {
@@ -1024,7 +1054,8 @@
             "de": "Lac du Bourget - Le Bourget-du-Lac",
             "hu": "Bourget-tó - Le Bourget-du-Lac",
             "ro": "Lac du Bourget - Le Bourget-du-Lac",
-            "en": "Lac du Bourget - Le Bourget-du-Lac"
+            "en": "Lac du Bourget - Le Bourget-du-Lac",
+            "fr": "Lac du Bourget - Le Bourget-du-Lac"
           },
           "coords": [
             5.865,
@@ -1048,7 +1079,8 @@
             "de": "Schlossruine Thomas II",
             "hu": "II. Tamás kastélyrom",
             "ro": "Ruinele Castelului Thomas II",
-            "en": "Thomas II Castle Ruins"
+            "en": "Thomas II Castle Ruins",
+            "fr": "Ruines du Château Thomas II"
           },
           "coords": [
             5.86,
@@ -1064,7 +1096,7 @@
             "hu": "Középkori romok közvetlenül a tóparton.",
             "ro": "Ruine medievale situate chiar pe malul lacului.",
             "en": "Medieval ruins located right on the lakeshore.",
-            "fr": "Ruines médiévales situées directement au bord de l'eau."
+            "fr": "Ruines médiévales situées au bord du lac."
           }
         },
         {
@@ -1072,7 +1104,8 @@
             "de": "Port des Miradelles",
             "hu": "Port des Miradelles",
             "ro": "Port des Miradelles",
-            "en": "Port des Miradelles"
+            "en": "Port des Miradelles",
+            "fr": "Port des Miradelles"
           },
           "coords": [
             5.875,
@@ -1096,7 +1129,8 @@
             "de": "Parc de Buisson-Rond",
             "hu": "Parc de Buisson-Rond",
             "ro": "Parc de Buisson-Rond",
-            "en": "Parc de Buisson-Rond"
+            "en": "Parc de Buisson-Rond",
+            "fr": "Parc de Buisson-Rond"
           },
           "coords": [
             5.94,
@@ -1112,7 +1146,7 @@
             "hu": "Pompás rózsakert és egy előkelő udvarház.",
             "ro": "O grădină de trandafiri superbă și un domeniu nobiliar.",
             "en": "A magnificent rose garden and a grand estate.",
-            "fr": "Une roseraie magnifique et un grand domaine."
+            "fr": "Un magnifique roseraie et un grand domaine."
           }
         },
         {
@@ -1120,7 +1154,8 @@
             "de": "Les Charmettes",
             "hu": "Les Charmettes",
             "ro": "Les Charmettes",
-            "en": "Les Charmettes"
+            "en": "Les Charmettes",
+            "fr": "Les Charmettes"
           },
           "coords": [
             5.93,
@@ -1145,7 +1180,7 @@
         "hu": "A szabadság napja két keréken! Az Avenue Verte Nord-on indul, egy tökéletesen kiépített kerékpárúton, amely zöld tájakon keresztül egyenesen a Bourget-tó partjára vezeti Önt.\n\nDélben élvezze a napsütést Le Bourget-du-Lac strandján, és fedezze fel II. Tamás kastélyának középkori romjait. A kikötő frissen fogott halakat kínál nyugodt környezetben.\n\nDélután visszateker Chambéry felé, és tesz egy kitérőt az elegáns Parc de Buisson-Rond-hoz, amely pompás rózsakertjéről híres.\n\nA nap a Les Charmettes lankás dombjai között ér véget. Rousseau kertjében élvezheti a naplementét és azt a csendet, amely egykor a híres filozófust is megihlette.",
         "ro": "O zi de libertate pe două roți! Începeți pe Avenue Verte Nord, o pistă de biciclete perfect amenajată, care vă duce prin peisaje verzi direct pe malul Lacului Bourget.\n\nLa prânz, bucurați-vă de soare pe plaja din Le Bourget-du-Lac și explorați ruinele medievale ale castelului Thomas II. Portul oferă pește proaspăt într-o atmosferă relaxată.\n\nDupă-amiaza, pedalați înapoi spre Chambéry și faceți o oprire la elegantul Parc de Buisson-Rond, cunoscut pentru grădina sa de trandafiri superbă.\n\nZiua se încheie pe dealurile domoale de la Les Charmettes. În grădina lui Rousseau, bucurați-vă de apus și de liniștea care l-a inspirat pe celebrul filozof.",
         "en": "A day of freedom on two wheels! You start on the Avenue Verte Nord, a perfectly maintained cycle path that leads you through green landscapes directly to the shores of Lac du Bourget.\n\nAt midday, enjoy the sun at the beach of Le Bourget-du-Lac and explore the medieval ruins of Thomas II Castle. The harbor offers fresh lake fish in a relaxed atmosphere.\n\nIn the afternoon, cycle back towards Chambéry and take a detour to the elegant Parc de Buisson-Rond, known for its magnificent rose garden.\n\nThe day ends in the gentle hills of Les Charmettes. In Rousseau's garden, enjoy the sunset and the silence that once inspired the famous philosopher.",
-        "fr": "Une journée de liberté sur deux roues ! Vous commencez sur l'Avenue Verte Nord, une piste cyclable parfaitement entretenue qui vous mène à travers des paysages verdoyants directement aux rives du lac du Bourget.\n\nÀ midi, profitez du soleil sur la plage du Bourget-du-Lac et explorez les ruines médiévales du château de Thomas II. Le port propose du poisson frais du lac dans une atmosphère détendue.\n\nL'après-midi, pédalez vers Chambéry et faites un détour par l'élégant parc de Buisson-Rond, connu pour sa magnifique roseraie.\n\nLa journée se termine dans les douces collines des Charmettes. Dans le jardin de Rousseau, profitez du coucher de soleil et du silence qui a jadis inspiré le célèbre philosophe."
+        "fr": "Une journée de liberté à deux roues ! Vous commencez sur l'Avenue Verte Nord, une piste cyclable parfaitement entretenue qui vous mène à travers des paysages verdoyants jusqu'aux rives du Lac du Bourget.\n\nÀ midi, profitez du soleil sur la plage du Bourget-du-Lac et explorez les ruines médiévales du Château Thomas II. Le port propose du poisson frais du lac dans une ambiance détendue.\n\nL'après-midi, revenez à vélo vers Chambéry et faites un détour par l'élégant Parc de Buisson-Rond, réputé pour sa magnifique roseraie.\n\nLa journée se termine dans les douces collines des Charmettes. Dans le jardin de Rousseau, profitez du coucher de soleil et du silence qui a inspiré autrefois le célèbre philosophe."
       },
       "gastro_picks": {
         "de": [
@@ -1323,11 +1358,11 @@
           "Watch out for wind conditions on the lake (Tramontane)."
         ],
         "fr": [
-          "L'itinéraire vers le lac est plat et très bien balisé.",
-          "Prévoyez beaucoup d'eau, surtout en été au bord du lac.",
-          "Il existe des plages publiques gratuites au Bourget-du-Lac.",
+          "La route vers le lac est plate et très bien balisée.",
+          "Prenez beaucoup d'eau, surtout en été au bord du lac.",
+          "Il y a des plages publiques gratuites au Bourget-du-Lac.",
           "La Vélostation à la gare est le meilleur endroit pour louer des vélos.",
-          "Surveillez les conditions de vent sur le lac (Tramontane)."
+          "Attention aux conditions de vent sur le lac (Tramontane)."
         ]
       },
       "variants": {
@@ -1336,7 +1371,8 @@
             "de": "Ein Tag voller Freiheit auf zwei Rädern! Sie starten auf der Avenue Verte Nord, einem perfekt ausgebauten Radweg, der Sie durch grüne Landschaften direkt zum Ufer des Lac du Bourget führt.\n\nMittags genießen Sie die Sonne am Strand von Le Bourget-du-Lac und erkunden die mittelalterlichen Ruinen des Schlosses Thomas II. Der Hafen bietet fangfrischen Fisch in entspannter Atmosphäre.\n\nAm Nachmittag radeln Sie zurück Richtung Chambéry und machen einen Abstecher zum eleganten Parc de Buisson-Rond, der für seinen prachtvollen Rosengarten bekannt ist.\n\nDer Tag endet in den sanften Hügeln von Les Charmettes. In Rousseaus Garten genießen Sie den Sonnenuntergang und die Stille, die schon den berühmten Philosophen inspirierte.",
             "hu": "A szabadság napja két keréken! Az Avenue Verte Nord-on indul, egy tökéletesen kiépített kerékpárúton, amely zöld tájakon keresztül egyenesen a Bourget-tó partjára vezeti Önt.\n\nDélben élvezze a napsütést Le Bourget-du-Lac strandján, és fedezze fel II. Tamás kastélyának középkori romjait. A kikötő frissen fogott halakat kínál nyugodt környezetben.\n\nDélután visszateker Chambéry felé, és tesz egy kitérőt az elegáns Parc de Buisson-Rond-hoz, amely pompás rózsakertjéről híres.\n\nA nap a Les Charmettes lankás dombjai között ér véget. Rousseau kertjében élvezheti a naplementét és azt a csendet, amely egykor a híres filozófust is megihlette.",
             "ro": "O zi de libertate pe două roți! Începeți pe Avenue Verte Nord, o pistă de biciclete perfect amenajată, care vă duce prin peisaje verzi direct pe malul Lacului Bourget.\n\nLa prânz, bucurați-vă de soare pe plaja din Le Bourget-du-Lac și explorați ruinele medievale ale castelului Thomas II. Portul oferă pește proaspăt într-o atmosferă relaxată.\n\nDupă-amiaza, pedalați înapoi spre Chambéry și faceți o oprire la elegantul Parc de Buisson-Rond, cunoscut pentru grădina sa de trandafiri superbă.\n\nZiua se încheie pe dealurile domoale de la Les Charmettes. În grădina lui Rousseau, bucurați-vă de apus și de liniștea care l-a inspirat pe celebrul filozof.",
-            "en": "A day of freedom on two wheels! You start on the Avenue Verte Nord, a perfectly maintained cycle path that leads you through green landscapes directly to the shores of Lac du Bourget.\n\nAt midday, enjoy the sun at the beach of Le Bourget-du-Lac and explore the medieval ruins of Thomas II Castle. The harbor offers fresh lake fish in a relaxed atmosphere.\n\nIn the afternoon, cycle back towards Chambéry and take a detour to the elegant Parc de Buisson-Rond, known for its magnificent rose garden.\n\nThe day ends in the gentle hills of Les Charmettes. In Rousseau's garden, enjoy the sunset and the silence that once inspired the famous philosopher."
+            "en": "A day of freedom on two wheels! You start on the Avenue Verte Nord, a perfectly maintained cycle path that leads you through green landscapes directly to the shores of Lac du Bourget.\n\nAt midday, enjoy the sun at the beach of Le Bourget-du-Lac and explore the medieval ruins of Thomas II Castle. The harbor offers fresh lake fish in a relaxed atmosphere.\n\nIn the afternoon, cycle back towards Chambéry and take a detour to the elegant Parc de Buisson-Rond, known for its magnificent rose garden.\n\nThe day ends in the gentle hills of Les Charmettes. In Rousseau's garden, enjoy the sunset and the silence that once inspired the famous philosopher.",
+            "fr": "Une journée de liberté à deux roues ! Vous commencez sur l'Avenue Verte Nord, une piste cyclable parfaitement entretenue qui vous mène à travers des paysages verdoyants jusqu'aux rives du Lac du Bourget.\n\nÀ midi, profitez du soleil sur la plage du Bourget-du-Lac et explorez les ruines médiévales du Château Thomas II. Le port propose du poisson frais du lac dans une ambiance détendue.\n\nL'après-midi, revenez à vélo vers Chambéry et faites un détour par l'élégant Parc de Buisson-Rond, réputé pour sa magnifique roseraie.\n\nLa journée se termine dans les douces collines des Charmettes. Dans le jardin de Rousseau, profitez du coucher de soleil et du silence qui a inspiré autrefois le célèbre philosophe."
           },
           "stops": [
             {
@@ -1344,13 +1380,15 @@
                 "de": "Avenue Verte Nord",
                 "hu": "Északi Zöld Út",
                 "ro": "Avenue Verte Nord",
-                "en": "Avenue Verte Nord"
+                "en": "Avenue Verte Nord",
+                "fr": "Avenue Verte Nord"
               },
               "tip_5lang": {
                 "de": "Sicherer Radweg, der direkt zum Lac du Bourget führt.",
                 "hu": "Biztonságos kerékpárút, amely egyenesen a Bourget-tóhoz vezet.",
                 "ro": "Pistă de biciclete sigură care duce direct la Lac du Bourget.",
-                "en": "Safe cycle path leading directly to Lac du Bourget."
+                "en": "Safe cycle path leading directly to Lac du Bourget.",
+                "fr": "Piste cyclable sécurisée menant directement au Lac du Bourget."
               }
             },
             {
@@ -1358,13 +1396,15 @@
                 "de": "Lac du Bourget - Le Bourget-du-Lac",
                 "hu": "Bourget-tó - Le Bourget-du-Lac",
                 "ro": "Lac du Bourget - Le Bourget-du-Lac",
-                "en": "Lac du Bourget - Le Bourget-du-Lac"
+                "en": "Lac du Bourget - Le Bourget-du-Lac",
+                "fr": "Lac du Bourget - Le Bourget-du-Lac"
               },
               "tip_5lang": {
                 "de": "Der größte natürliche See Frankreichs lädt zum Baden ein.",
                 "hu": "Franciaország legnagyobb természetes tava várja a fürdőzőket.",
                 "ro": "Cel mai mare lac natural din Franța vă invită la scăldat.",
-                "en": "France's largest natural lake invites you for a swim."
+                "en": "France's largest natural lake invites you for a swim.",
+                "fr": "Le plus grand lac naturel de France vous invite à la baignade."
               }
             },
             {
@@ -1372,13 +1412,15 @@
                 "de": "Schlossruine Thomas II",
                 "hu": "II. Tamás kastélyrom",
                 "ro": "Ruinele Castelului Thomas II",
-                "en": "Thomas II Castle Ruins"
+                "en": "Thomas II Castle Ruins",
+                "fr": "Ruines du Château Thomas II"
               },
               "tip_5lang": {
                 "de": "Mittelalterliche Ruinen direkt am Seeufer gelegen.",
                 "hu": "Középkori romok közvetlenül a tóparton.",
                 "ro": "Ruine medievale situate chiar pe malul lacului.",
-                "en": "Medieval ruins located right on the lakeshore."
+                "en": "Medieval ruins located right on the lakeshore.",
+                "fr": "Ruines médiévales situées au bord du lac."
               }
             },
             {
@@ -1386,13 +1428,15 @@
                 "de": "Port des Miradelles",
                 "hu": "Port des Miradelles",
                 "ro": "Port des Miradelles",
-                "en": "Port des Miradelles"
+                "en": "Port des Miradelles",
+                "fr": "Port des Miradelles"
               },
               "tip_5lang": {
                 "de": "Genießen Sie frischen Fisch aus dem See in einem der Hafenrestaurants.",
                 "hu": "Élvezze a tóból származó friss halakat a kikötői éttermekben.",
                 "ro": "Savurați pește proaspăt din lac la unul dintre restaurantele din port.",
-                "en": "Enjoy fresh lake fish at one of the harbor restaurants."
+                "en": "Enjoy fresh lake fish at one of the harbor restaurants.",
+                "fr": "Dégustez du poisson frais du lac dans l'un des restaurants du port."
               }
             },
             {
@@ -1400,13 +1444,15 @@
                 "de": "Parc de Buisson-Rond",
                 "hu": "Parc de Buisson-Rond",
                 "ro": "Parc de Buisson-Rond",
-                "en": "Parc de Buisson-Rond"
+                "en": "Parc de Buisson-Rond",
+                "fr": "Parc de Buisson-Rond"
               },
               "tip_5lang": {
                 "de": "Ein herrlicher Rosengarten und ein herrschaftliches Anwesen.",
                 "hu": "Pompás rózsakert és egy előkelő udvarház.",
                 "ro": "O grădină de trandafiri superbă și un domeniu nobiliar.",
-                "en": "A magnificent rose garden and a grand estate."
+                "en": "A magnificent rose garden and a grand estate.",
+                "fr": "Une magnifique roseraie et un grand domaine."
               }
             },
             {
@@ -1414,13 +1460,15 @@
                 "de": "Les Charmettes",
                 "hu": "Les Charmettes",
                 "ro": "Les Charmettes",
-                "en": "Les Charmettes"
+                "en": "Les Charmettes",
+                "fr": "Les Charmettes"
               },
               "tip_5lang": {
                 "de": "Das ehemalige Haus von Jean-Jacques Rousseau in idyllischer Lage.",
                 "hu": "Jean-Jacques Rousseau egykori háza idilli környezetben.",
                 "ro": "Fosta casă a lui Jean-Jacques Rousseau într-o locație idilică.",
-                "en": "Jean-Jacques Rousseau's former house in an idyllic setting."
+                "en": "Jean-Jacques Rousseau's former house in an idyllic setting.",
+                "fr": "L'ancienne maison de Jean-Jacques Rousseau dans un cadre idyllique."
               }
             }
           ],
@@ -1570,6 +1618,13 @@
               "There are free public beaches in Le Bourget-du-Lac.",
               "The Vélostation at the station is the best place for bike rentals.",
               "Watch out for wind conditions on the lake (Tramontane)."
+            ],
+            "fr": [
+              "La route vers le lac est plate et très bien balisée.",
+              "Prenez beaucoup d'eau, surtout en été au bord du lac.",
+              "Il y a des plages publiques gratuites au Bourget-du-Lac.",
+              "La Vélostation à la gare est le meilleur endroit pour louer des vélos.",
+              "Attention aux conditions de vent sur le lac (Tramontane)."
             ]
           }
         },
@@ -1579,7 +1634,7 @@
             "hu": "Az Avenue Verte-en kezdünk, ahol az aszfalt nedvesen is jól tapad. A Lac du Bourget-nál misztikus, ködös hangulat vár ránk. Egy laktató kikötői ebéd után óvatosan kerekezünk vissza az őszi parkokon keresztül, miközben az eső halkan kopog a leveleken.",
             "ro": "Începem pe Avenue Verte, unde asfaltul oferă aderență bună și pe ploaie. La Lac du Bourget experimentăm o atmosferă mistică și cețoasă. După un prânz consistent în port, pedalăm cu grijă înapoi prin parcurile tomnatice, în timp ce ploaia bate ușor în frunze.",
             "en": "We start on the Avenue Verte, where the asphalt provides good grip even when wet. At Lac du Bourget, we experience a mystical, misty atmosphere. After a hearty lunch at the port, we cycle carefully back through the autumnal parks while the rain taps quietly on the leaves.",
-            "fr": "Nous partons sur l'Avenue Verte, où l'asphalte offre une bonne adhérence même mouillé. Au lac du Bourget, nous vivons une atmosphère mystique et brumeuse. Après un copieux déjeuner au port, nous retournons prudemment à vélo à travers les parcs automnaux tandis que la pluie tapote doucement sur les feuilles."
+            "fr": "Nous partons de l'Avenue Verte, où l'asphalte offre une bonne adhérence même par temps humide. Au Lac du Bourget, nous vivons une atmosphère mystique et brumeuse. Après un copieux déjeuner au port, nous rentrons prudemment à vélo à travers les parcs automnaux tandis que la pluie tape doucement sur les feuilles."
           },
           "stops": [
             {
@@ -1589,7 +1644,7 @@
                 "hu": "Az útvonal jól aszfaltozott, de ügyeljen a tócsákra.",
                 "ro": "Traseul este bine asfaltat, dar atenție la bălți.",
                 "en": "The route is well paved, but watch out for puddles.",
-                "fr": "La route est bien pavée, mais attention aux flaques d'eau."
+                "fr": "L'itinéraire est bien goudronné, mais attention aux flaques."
               }
             },
             {
@@ -1599,7 +1654,7 @@
                 "hu": "A tóparti sétány szeles és esős időben kellemetlen lehet.",
                 "ro": "Promenada poate fi inconfortabilă pe vânt și ploaie.",
                 "en": "The lakeside promenade can be uncomfortable in wind and rain.",
-                "fr": "La promenade au bord du lac peut être inconfortable par vent et pluie."
+                "fr": "La promenade au bord du lac peut être désagréable par vent et pluie."
               }
             },
             {
@@ -1609,7 +1664,7 @@
                 "hu": "A fű a romok körül nagyon csúszós; maradjon az utakon.",
                 "ro": "Iarba din jurul ruinelor este foarte alunecoasă; rămâneți pe poteci.",
                 "en": "The grass around the ruins is very slippery; stay on the paths.",
-                "fr": "L'herbe autour des ruines est très glissante ; restez sur les chemins."
+                "fr": "L'herbe autour des ruines est très glissante ; restez sur les sentiers."
               }
             },
             {
@@ -1619,7 +1674,7 @@
                 "hu": "Keressen egy benti helyet kilátással a vízre.",
                 "ro": "Căutați un loc în interior cu vedere la apă.",
                 "en": "Find an indoor spot with a view of the water.",
-                "fr": "Trouvez une place à l'intérieur avec vue sur l'eau."
+                "fr": "Trouvez un endroit couvert avec vue sur l'eau."
               }
             },
             {
@@ -1629,7 +1684,7 @@
                 "hu": "A fák alatti utak némi természetes védelmet nyújtanak.",
                 "ro": "Potecile de sub copaci oferă puțină protecție naturală.",
                 "en": "The paths under the trees offer some natural protection.",
-                "fr": "Les sentiers sous les arbres offrent une certaine protection naturelle."
+                "fr": "Les chemins sous les arbres offrent une protection naturelle."
               }
             },
             {
@@ -1639,7 +1694,7 @@
                 "hu": "Az emelkedő nedvesen fárasztóbb; ereszkedjen le lassan.",
                 "ro": "Urcarea este mai obositoare pe ploaie; coborâți cu grijă.",
                 "en": "The climb is more strenuous when wet; descend slowly.",
-                "fr": "La montée est plus fatigante quand il pleut ; descendez lentement."
+                "fr": "La montée est plus exigeante quand elle est mouillée ; descendez lentement."
               }
             }
           ],
@@ -1673,10 +1728,10 @@
               "A warm tea at the port works wonders against the cold."
             ],
             "fr": [
-              "Les garde-boue sont essentiels pour rouler sous la pluie.",
+              "Les garde-boue sont essentiels quand on circule à vélo sous la pluie.",
               "Freinez tôt car les distances d'arrêt sont plus longues.",
-              "Portez des vêtements clairs et imperméables pour une meilleure visibilité.",
-              "Évitez les feuilles mortes mouillées et les marquages au sol.",
+              "Portez des vêtements imperméables et voyants pour une meilleure visibilité.",
+              "Évitez les feuilles mouillées et les marquages au sol.",
               "Un thé chaud au port fait des merveilles contre le froid."
             ]
           }
@@ -1687,7 +1742,7 @@
             "hu": "A csípős hidegben az Avenue Verte mentén kerekezünk, élvezve a tiszta hegyi levegőt. A Lac du Bourget csendesen és téliesen terül el. Egy melegítő ebéd után történelmi helyszíneket fedezünk fel, mielőtt a szürkület utolér a Buisson-Rond parkban. A napot a Charmettes-nél zárjuk az utolsó fényeknél.",
             "ro": "În gerul tăios, pedalăm de-a lungul Avenue Verte, bucurându-ne de aerul curat de munte. Lac du Bourget zace liniștit sub mantia de iarnă. După un prânz cald, explorăm siturile istorice înainte ca amurgul să ne prindă în parcul Buisson-Rond. Încheiem ziua la Charmettes în ultimele raze de lumină.",
             "en": "In the biting cold, we cycle along Avenue Verte, enjoying the clear mountain air. Lac du Bourget lies still and wintery. After a warming lunch, we explore historical sites before twilight catches us in Buisson-Rond Park. We conclude the day at Les Charmettes in the last daylight.",
-            "fr": "Dans le froid mordant, nous pédalons le long de l'Avenue Verte, profitant de l'air pur des montagnes. Le lac du Bourget est calme et hivernal. Après un déjeuner réchauffant, nous explorons les sites historiques avant que le crépuscule ne nous rattrape au parc de Buisson-Rond. Nous concluons la journée aux Charmettes dans les dernières lueurs du jour."
+            "fr": "Dans le froid mordant, nous roulons le long de l'Avenue Verte, profitant de l'air montagnard clair. Le Lac du Bourget reste immobile et hivernal. Après un déjeuner réchauffant, nous explorons des sites historiques avant que le crépuscule ne nous atteigne au Parc de Buisson-Rond. Nous concluons la journée aux Charmettes dans la dernière lumière du jour."
           },
           "stops": [
             {
@@ -1697,7 +1752,7 @@
                 "hu": "Ügyeljen a zúzmarára vagy a jegesedésre a kerékpárúton.",
                 "ro": "Atenție la chiciură sau polei pe pista de biciclete.",
                 "en": "Watch out for hoarfrost or black ice on the bike path.",
-                "fr": "Attention au givre ou au verglas sur la piste cyclable."
+                "fr": "Attention au givre ou à la glace noire sur la piste cyclable."
               }
             },
             {
@@ -1707,7 +1762,7 @@
                 "hu": "A tó felől fújó szél jelentősen csökkentheti a hőérzetet.",
                 "ro": "Vântul de pe lac poate scădea mult temperatura resimțită.",
                 "en": "The wind from the lake can significantly lower the perceived temperature.",
-                "fr": "Le vent du lac peut faire chuter considérablement la température ressentie."
+                "fr": "Le vent venant du lac peut abaisser sensiblement la température ressentie."
               }
             },
             {
@@ -1717,7 +1772,7 @@
                 "hu": "Egy rövid megálló elég; maradjon mozgásban a melegedésért.",
                 "ro": "O scurtă oprire e suficientă; rămâneți în mișcare pentru a vă încălzi.",
                 "en": "A short stop is enough; keep moving to stay warm.",
-                "fr": "Un court arrêt suffit ; restez en mouvement pour rester au chaud."
+                "fr": "Un court arrêt suffit ; continuez à bouger pour rester au chaud."
               }
             },
             {
@@ -1737,7 +1792,7 @@
                 "hu": "A délutáni fények tökéletesek a havas csúcsok fotózásához.",
                 "ro": "Lumina de după-amiază este perfectă pentru poze cu vârfurile înzăpezite.",
                 "en": "The afternoon light is perfect for photos of the snowy peaks.",
-                "fr": "La lumière de l'après-midi est parfaite pour photographier les sommets enneigés."
+                "fr": "La lumière de l'après-midi est parfaite pour les photos des sommets enneigés."
               }
             },
             {
@@ -1747,7 +1802,7 @@
                 "hu": "Figyeljen a fényre; 17:00 után sötétedik.",
                 "ro": "Atenție la lumină; se întunecă după ora 17:00.",
                 "en": "Watch the light; it gets dark after 5:00 PM.",
-                "fr": "Surveillez la lumière ; il fait nuit noire après 17h00."
+                "fr": "Surveillez la lumière ; il fait sombre après 17h00."
               }
             }
           ],
@@ -1781,11 +1836,11 @@
               "Plan the tour to be back before 5 PM."
             ],
             "fr": [
-              "Des gants coupe-vent et des couvre-chaussures sont vitaux.",
-              "L'autonomie des batteries de vélos électriques est réduite par le froid.",
-              "Assurez-vous d'avoir des feux fonctionnels pour le trajet du retour.",
-              "Buvez suffisamment d'eau, même par temps froid.",
-              "Planifiez le tour pour être de retour avant 17h."
+              "Gants coupe-vent et couvre-chaussures sont indispensables.",
+              "L'autonomie des batteries des VAE est réduite par le froid.",
+              "Assurez-vous d'avoir des feux en état de marche pour le retour.",
+              "Buvez suffisamment d'eau même par temps froid.",
+              "Planifiez la randonnée pour être de retour avant 17h00."
             ]
           }
         }
@@ -1804,7 +1859,8 @@
             "de": "Belvédère de la Chambotte",
             "hu": "Belvédère de la Chambotte",
             "ro": "Belvédère de la Chambotte",
-            "en": "Belvédère de la Chambotte"
+            "en": "Belvédère de la Chambotte",
+            "fr": "Belvédère de la Chambotte"
           },
           "coords": [
             5.856,
@@ -1820,7 +1876,7 @@
             "hu": "A leglátványosabb panoráma a teljes Bourget-tóra.",
             "ro": "Cea mai spectaculoasă vedere panoramică asupra întregului Lac Bourget.",
             "en": "The most spectacular panoramic view over the entire Lac du Bourget.",
-            "fr": "Le point de vue panoramique le plus spectaculaire sur tout le lac du Bourget."
+            "fr": "La vue panoramique la plus spectaculaire sur l'ensemble du Lac du Bourget."
           }
         },
         {
@@ -1828,7 +1884,8 @@
             "de": "Abtei Hautecombe",
             "hu": "Hautecombe apátság",
             "ro": "Abația Hautecombe",
-            "en": "Hautecombe Abbey"
+            "en": "Hautecombe Abbey",
+            "fr": "Abbaye de Hautecombe"
           },
           "coords": [
             5.833,
@@ -1852,7 +1909,8 @@
             "de": "Chanaz - Das kleine Venedig Savoyens",
             "hu": "Chanaz - Savoia kis Velencéje",
             "ro": "Chanaz - Mica Veneție a Savoniei",
-            "en": "Chanaz - The Little Venice of Savoy"
+            "en": "Chanaz - The Little Venice of Savoy",
+            "fr": "Chanaz - La Petite Venise de Savoie"
           },
           "coords": [
             5.789,
@@ -1868,7 +1926,7 @@
             "hu": "Festői falu a Savières-csatorna partján kézműves boltokkal.",
             "ro": "Un sat pitoresc pe canalul Savières cu ateliere meșteșugărești.",
             "en": "A picturesque village on the Savières Canal with craft shops.",
-            "fr": "Un village pittoresque sur le canal de Savières avec des boutiques d'artisanat."
+            "fr": "Un village pittoresque sur le canal de Savières avec des ateliers d'artisans."
           }
         },
         {
@@ -1876,7 +1934,8 @@
             "de": "Mont Granier - Massiv der Bauges",
             "hu": "Mont Granier - Bauges-masszívum",
             "ro": "Mont Granier - Masivul Bauges",
-            "en": "Mont Granier - Bauges Massif"
+            "en": "Mont Granier - Bauges Massif",
+            "fr": "Mont Granier - Massif des Bauges"
           },
           "coords": [
             5.915,
@@ -1892,7 +1951,7 @@
             "hu": "Lenyűgöző sziklafal és hegyi túrák kiindulópontja.",
             "ro": "Perete stâncos impresionant și punct de plecare pentru drumeții.",
             "en": "Impressive rock face and starting point for mountain hikes.",
-            "fr": "Face rocheuse impressionnante et point de départ de randonnées en montagne."
+            "fr": "Impressionnante paroi rocheuse et point de départ pour les randonnées en montagne."
           }
         },
         {
@@ -1900,7 +1959,8 @@
             "de": "Chambéry Zentrum",
             "hu": "Chambéry központ",
             "ro": "Centrul Chambéry",
-            "en": "Chambéry Center"
+            "en": "Chambéry Center",
+            "fr": "Centre de Chambéry"
           },
           "coords": [
             5.9203,
@@ -1925,7 +1985,7 @@
         "hu": "Fedezze fel Chambéry látványos környékét autóval. A nap a Belvédère de la Chambotte kilátónál indul, ahonnan az egész Bourget-tóra rálátni.\n\nEzt követően az út a nyugati parton fekvő fenséges Hautecombe apátsághoz vezet. Délben eléri a bájos Chanaz falut, ahol a csatorna partján ebédelhet és helyi olajütőket látogathat meg.\n\nDélután a Bauges Regionális Natúrparkba látogat, közvetlenül a Mont Granier hatalmas északi fala alá. Savoia hegyvilága itt mutatja meg legdrámaibb arcát.\n\nVégezetül térjen vissza Chambérybe. Egy hangulatos lezárás Savoia történelmi fővárosában teszi teljessé az alpesi tájakon tett felfedezőutat.",
         "ro": "Descoperiți împrejurimile spectaculoase ale orașului Chambéry cu mașina. Ziua începe sus, la Belvédère de la Chambotte, de unde puteți vedea întregul Lac Bourget.\n\nUlterior, drumul vă duce la maiestuoasa Abație Hautecombe de pe malul de vest. La prânz ajungeți în fermecătorul Chanaz, unde puteți lua masa pe malul canalului și vizita mori de ulei locale.\n\nDupă-amiaza vă poartă în Parcul Natural Regional Bauges, chiar sub peretele nordic uriaș al Muntelui Granier. Lumea montană a Savoniei își arată aici întreaga dramatism.\n\nLa final, reveniți în Chambéry. O încheiere relaxată în capitala istorică a Savoniei completează turul dumneavoastră prin peisajele alpine.",
         "en": "Discover the spectacular surroundings of Chambéry by car. The day starts high up at the Belvédère de la Chambotte, offering a view over the entire Lac du Bourget.\n\nAfterward, the drive leads to the majestic Hautecombe Abbey on the west shore. At midday, you reach the charming village of Chanaz, where you can dine by the canal and visit local oil mills.\n\nThe afternoon takes you into the Bauges Regional Nature Park, directly under the massive north face of Mont Granier. The mountain world of Savoy shows its full drama here.\n\nFinally, return to Chambéry. A cozy finish in the historic capital of Savoy rounds off your exploration tour through the Alpine landscape.",
-        "fr": "Découvrez les environs spectaculaires de Chambéry en voiture. La journée commence en altitude au Belvédère de la Chambotte, offrant une vue sur l'ensemble du lac du Bourget.\n\nEnsuite, la route mène à la majestueuse Abbaye d'Hautecombe sur la rive ouest. À midi, vous atteignez le charmant village de Chanaz, où vous pourrez dîner au bord du canal et visiter les huileries locales.\n\nL'après-midi vous emmène dans le Parc Naturel Régional des Bauges, directement sous l'imposante face nord du Mont Granier. Le monde alpin de la Savoie montre ici tout son caractère dramatique.\n\nEnfin, retournez à Chambéry. Une fin de journée chaleureuse dans la capitale historique de la Savoie vient clore votre tour d'exploration à travers le paysage alpin."
+        "fr": "Découvrez les environs spectaculaires de Chambéry en voiture. La journée commence en hauteur au Belvédère de la Chambotte, offrant une vue sur l'ensemble du Lac du Bourget.\n\nEnsuite, la route mène à la majestueuse abbaye de Hautecombe sur la rive ouest. À midi, vous atteignez le charmant village de Chanaz, où vous pouvez déjeuner au bord du canal et visiter des moulins à huile locaux.\n\nL'après-midi vous conduit dans le Parc naturel régional des Bauges, au pied de la massive face nord du Mont Granier. Le monde montagnard de Savoie y montre tout son drame.\n\nEnfin, retour à Chambéry. Une conclusion conviviale dans la capitale historique de la Savoie achève votre circuit d'exploration à travers le paysage alpin."
       },
       "gastro_picks": {
         "de": [
@@ -2123,9 +2183,9 @@
           "Visit Miolans Castle if you have time for another fortress."
         ],
         "fr": [
-          "Les routes le long du lac du Bourget sont sinueuses mais très pittoresques.",
+          "Les routes le long du Lac du Bourget sont sinueuses mais très pittoresques.",
           "Il y a un grand parking à l'entrée de Chanaz.",
-          "L'Abbaye d'Hautecombe est souvent fermée aux visiteurs le lundi.",
+          "L'abbaye de Hautecombe est souvent fermée aux visiteurs le lundi.",
           "Faites le plein à Chambéry, car il y a moins de stations-service en montagne.",
           "Visitez le château de Miolans si vous avez le temps pour une autre forteresse."
         ]
@@ -2136,7 +2196,8 @@
             "de": "Entdecken Sie die spektakuläre Umgebung Chambérys mit dem Auto. Der Tag beginnt hoch oben am Belvédère de la Chambotte, von wo aus Sie den gesamten Lac du Bourget überblicken können.\n\nAnschließend führt die Fahrt zur majestätischen Abtei Hautecombe am Westufer. Mittags erreichen Sie das charmante Chanaz, wo Sie am Kanal speisen und lokale Ölmühlen besuchen können.\n\nDer Nachmittag bringt Sie in den regionalen Naturpark Bauges, direkt unter die gewaltige Nordwand des Mont Granier. Die Bergwelt Savoyens zeigt hier ihre ganze Dramatik.\n\nZum Abschluss kehren Sie nach Chambéry zurück. Ein gemütlicher Ausklang in der historischen Hauptstadt Savoyens rundet Ihre Erkundungstour durch die Alpenlandschaft ab.",
             "hu": "Fedezze fel Chambéry látványos környékét autóval. A nap a Belvédère de la Chambotte kilátónál indul, ahonnan az egész Bourget-tóra rálátni.\n\nEzt követően az út a nyugati parton fekvő fenséges Hautecombe apátsághoz vezet. Délben eléri a bájos Chanaz falut, ahol a csatorna partján ebédelhet és helyi olajütőket látogathat meg.\n\nDélután a Bauges Regionális Natúrparkba látogat, közvetlenül a Mont Granier hatalmas északi fala alá. Savoia hegyvilága itt mutatja meg legdrámaibb arcát.\n\nVégezetül térjen vissza Chambérybe. Egy hangulatos lezárás Savoia történelmi fővárosában teszi teljessé az alpesi tájakon tett felfedezőutat.",
             "ro": "Descoperiți împrejurimile spectaculoase ale orașului Chambéry cu mașina. Ziua începe sus, la Belvédère de la Chambotte, de unde puteți vedea întregul Lac Bourget.\n\nUlterior, drumul vă duce la maiestuoasa Abație Hautecombe de pe malul de vest. La prânz ajungeți în fermecătorul Chanaz, unde puteți lua masa pe malul canalului și vizita mori de ulei locale.\n\nDupă-amiaza vă poartă în Parcul Natural Regional Bauges, chiar sub peretele nordic uriaș al Muntelui Granier. Lumea montană a Savoniei își arată aici întreaga dramatism.\n\nLa final, reveniți în Chambéry. O încheiere relaxată în capitala istorică a Savoniei completează turul dumneavoastră prin peisajele alpine.",
-            "en": "Discover the spectacular surroundings of Chambéry by car. The day starts high up at the Belvédère de la Chambotte, offering a view over the entire Lac du Bourget.\n\nAfterward, the drive leads to the majestic Hautecombe Abbey on the west shore. At midday, you reach the charming village of Chanaz, where you can dine by the canal and visit local oil mills.\n\nThe afternoon takes you into the Bauges Regional Nature Park, directly under the massive north face of Mont Granier. The mountain world of Savoy shows its full drama here.\n\nFinally, return to Chambéry. A cozy finish in the historic capital of Savoy rounds off your exploration tour through the Alpine landscape."
+            "en": "Discover the spectacular surroundings of Chambéry by car. The day starts high up at the Belvédère de la Chambotte, offering a view over the entire Lac du Bourget.\n\nAfterward, the drive leads to the majestic Hautecombe Abbey on the west shore. At midday, you reach the charming village of Chanaz, where you can dine by the canal and visit local oil mills.\n\nThe afternoon takes you into the Bauges Regional Nature Park, directly under the massive north face of Mont Granier. The mountain world of Savoy shows its full drama here.\n\nFinally, return to Chambéry. A cozy finish in the historic capital of Savoy rounds off your exploration tour through the Alpine landscape.",
+            "fr": "Découvrez les environs spectaculaires de Chambéry en voiture. La journée commence en hauteur au Belvédère de la Chambotte, offrant une vue sur l'ensemble du Lac du Bourget.\n\nEnsuite, la route mène à la majestueuse abbaye de Hautecombe sur la rive ouest. À midi, vous atteignez le charmant village de Chanaz, où vous pouvez déjeuner au bord du canal et visiter des moulins à huile locaux.\n\nL'après-midi vous conduit dans le Parc naturel régional des Bauges, au pied de la massive face nord du Mont Granier. Le monde montagnard de Savoie y montre tout son drame.\n\nEnfin, retour à Chambéry. Une conclusion conviviale dans la capitale historique de la Savoie achève votre circuit d'exploration à travers le paysage alpin."
           },
           "stops": [
             {
@@ -2144,13 +2205,15 @@
                 "de": "Belvédère de la Chambotte",
                 "hu": "Belvédère de la Chambotte",
                 "ro": "Belvédère de la Chambotte",
-                "en": "Belvédère de la Chambotte"
+                "en": "Belvédère de la Chambotte",
+                "fr": "Belvédère de la Chambotte"
               },
               "tip_5lang": {
                 "de": "Der spektakulärste Panoramablick über den gesamten Lac du Bourget.",
                 "hu": "A leglátványosabb panoráma a teljes Bourget-tóra.",
                 "ro": "Cea mai spectaculoasă vedere panoramică asupra întregului Lac Bourget.",
-                "en": "The most spectacular panoramic view over the entire Lac du Bourget."
+                "en": "The most spectacular panoramic view over the entire Lac du Bourget.",
+                "fr": "La vue panoramique la plus spectaculaire sur l'ensemble du Lac du Bourget."
               }
             },
             {
@@ -2158,13 +2221,15 @@
                 "de": "Abtei Hautecombe",
                 "hu": "Hautecombe apátság",
                 "ro": "Abația Hautecombe",
-                "en": "Hautecombe Abbey"
+                "en": "Hautecombe Abbey",
+                "fr": "Abbaye de Hautecombe"
               },
               "tip_5lang": {
                 "de": "Grablege der Fürsten von Savoyen mit prunkvollen Skulpturen.",
                 "hu": "A savoyai uralkodók temetkezési helye díszes szobrokkal.",
                 "ro": "Locul de înmormântare al prinților de Savoia, cu sculpturi somptuoase.",
-                "en": "Burial place of the Princes of Savoy with magnificent sculptures."
+                "en": "Burial place of the Princes of Savoy with magnificent sculptures.",
+                "fr": "Lieu de sépulture des princes de Savoie avec de magnifiques sculptures."
               }
             },
             {
@@ -2172,13 +2237,15 @@
                 "de": "Chanaz - Das kleine Venedig Savoyens",
                 "hu": "Chanaz - Savoia kis Velencéje",
                 "ro": "Chanaz - Mica Veneție a Savoniei",
-                "en": "Chanaz - The Little Venice of Savoy"
+                "en": "Chanaz - The Little Venice of Savoy",
+                "fr": "Chanaz - La Petite Venise de Savoie"
               },
               "tip_5lang": {
                 "de": "Ein malerisches Dorf am Kanal von Savières mit Handwerksläden.",
                 "hu": "Festői falu a Savières-csatorna partján kézműves boltokkal.",
                 "ro": "Un sat pitoresc pe canalul Savières cu ateliere meșteșugărești.",
-                "en": "A picturesque village on the Savières Canal with craft shops."
+                "en": "A picturesque village on the Savières Canal with craft shops.",
+                "fr": "Un village pittoresque sur le canal de Savières avec des ateliers d'artisans."
               }
             },
             {
@@ -2186,13 +2253,15 @@
                 "de": "Mont Granier - Massiv der Bauges",
                 "hu": "Mont Granier - Bauges-masszívum",
                 "ro": "Mont Granier - Masivul Bauges",
-                "en": "Mont Granier - Bauges Massif"
+                "en": "Mont Granier - Bauges Massif",
+                "fr": "Mont Granier - Massif des Bauges"
               },
               "tip_5lang": {
                 "de": "Beeindruckende Felswand und Ausgangspunkt für Bergwanderungen.",
                 "hu": "Lenyűgöző sziklafal és hegyi túrák kiindulópontja.",
                 "ro": "Perete stâncos impresionant și punct de plecare pentru drumeții.",
-                "en": "Impressive rock face and starting point for mountain hikes."
+                "en": "Impressive rock face and starting point for mountain hikes.",
+                "fr": "Impressionnante paroi rocheuse et point de départ pour les randonnées en montagne."
               }
             },
             {
@@ -2200,13 +2269,15 @@
                 "de": "Chambéry Zentrum",
                 "hu": "Chambéry központ",
                 "ro": "Centrul Chambéry",
-                "en": "Chambéry Center"
+                "en": "Chambéry Center",
+                "fr": "Centre de Chambéry"
               },
               "tip_5lang": {
                 "de": "Abschluss des Tages mit einem Spaziergang durch die beleuchtete Altstadt.",
                 "hu": "A nap zárása sétával a kivilágított óvárosban.",
                 "ro": "Încheierea zilei cu o plimbare prin orașul vechi iluminat.",
-                "en": "End the day with a walk through the illuminated old town."
+                "en": "End the day with a walk through the illuminated old town.",
+                "fr": "Terminez la journée par une promenade dans la vieille ville illuminée."
               }
             }
           ],
@@ -2372,6 +2443,13 @@
               "Hautecombe Abbey is often closed to visitors on Mondays.",
               "Refuel in Chambéry, as there are fewer gas stations in the mountains.",
               "Visit Miolans Castle if you have time for another fortress."
+            ],
+            "fr": [
+              "Les routes le long du Lac du Bourget sont sinueuses mais très pittoresques.",
+              "Il y a un grand parking à l'entrée de Chanaz.",
+              "L'abbaye de Hautecombe est souvent fermée aux visiteurs le lundi.",
+              "Faites le plein à Chambéry, car il y a moins de stations-service en montagne.",
+              "Visitez le château de Miolans si vous avez le temps pour une autre forteresse."
             ]
           }
         },
@@ -2381,7 +2459,7 @@
             "hu": "A felhők ellenére a Chambotte-kilátó drámai kilátást nyújt a viharos tóra. A fenséges Hautecombe apátságba menekülünk, hogy szárazon ismerjük meg a történelmet. A csatorna menti ebédet Chanazban élvezzük, miközben kint kopog az eső. A délutánt a Bauges-hegységben töltjük, majd a belvárosban parkolunk.",
             "ro": "În ciuda norilor, Belvédère de la Chambotte oferă o priveliște dramatică asupra lacului agitat. Ne refugiem în maiestuoasa Abație Hautecombe pentru a trăi istoria la adăpost. Prânzul în Chanaz îl savurăm lângă canal, în timp ce ploaia bate afară. După-amiaza o petrecem în masivul Bauges înainte de a parca în centru.",
             "en": "Despite the clouds, the Belvédère de la Chambotte offers a dramatic view of the stormy lake. We escape to the majestic Hautecombe Abbey to experience history while staying dry. We enjoy lunch by the canal in Chanaz while the rain taps outside. The afternoon is spent in the Bauges before parking in the city center.",
-            "fr": "Malgré les nuages, le Belvédère de la Chambotte offre une vue dramatique sur le lac tourmenté. Nous nous échappons vers la majestueuse Abbaye d'Hautecombe pour vivre l'histoire tout en restant au sec. Nous déjeunons au bord du canal à Chanaz pendant que la pluie crépite dehors. L'après-midi se passe dans les Bauges avant de se garer en centre-ville."
+            "fr": "Malgré les nuages, le Belvédère de la Chambotte offre une vue dramatique sur le lac orageux. Nous nous réfugions à la majestueuse abbaye de Hautecombe pour vivre l'histoire au sec. Nous déjeunons au bord du canal à Chanaz pendant que la pluie tambourine dehors. L'après-midi se passe dans les Bauges avant de nous garer au centre-ville."
           },
           "stops": [
             {
@@ -2391,7 +2469,7 @@
                 "hu": "Vigyázat a felfelé úton; a kanyarok csúszósak lehetnek.",
                 "ro": "Atenție la urcare; virajele pot fi alunecoase.",
                 "en": "Be careful on the drive up; the curves can be slippery.",
-                "fr": "Attention lors de la montée ; les virages peuvent être glissants."
+                "fr": "Soyez prudent sur la montée ; les virages peuvent être glissants."
               }
             },
             {
@@ -2411,7 +2489,7 @@
                 "hu": "A csatorna menti kávézók hangulatos helyeket kínálnak esőben.",
                 "ro": "Cafenelele de pe canal oferă locuri primitoare pe ploaie.",
                 "en": "The canal-side cafes offer cozy spots in the rain.",
-                "fr": "Les cafés au bord du canal offrent des coins douillets sous la pluie."
+                "fr": "Les cafés au bord du canal offrent des coins chaleureux sous la pluie."
               }
             },
             {
@@ -2421,7 +2499,7 @@
                 "hu": "Heves esőzéskor a hegyi utak gyakran ködösek.",
                 "ro": "Pe ploaie torențială, drumurile montane sunt adesea cețoase.",
                 "en": "In heavy rain, mountain roads are often foggy.",
-                "fr": "Par forte pluie, les routes de montagne sont souvent brumeuses."
+                "fr": "Par fortes pluies, les routes de montagne sont souvent embrumées."
               }
             },
             {
@@ -2431,7 +2509,7 @@
                 "hu": "Használja a parkolóházakat, hogy szárazon jusson a városba.",
                 "ro": "Folosiți parcările supraetajate pentru a ajunge uscat în oraș.",
                 "en": "Use parking garages to get into the city dry.",
-                "fr": "Utilisez les parkings souterrains pour entrer en ville au sec."
+                "fr": "Utilisez les parkings couverts pour entrer en ville à l'abri."
               }
             }
           ],
@@ -2465,11 +2543,11 @@
               "Check tire pressure for better grip on wet roads."
             ],
             "fr": [
-              "La visibilité au point de vue peut être limitée par les nuages.",
-              "Conduisez avec une prudence accrue sur les routes de montagne.",
-              "L'Abbaye d'Hautecombe est le meilleur refuge en cas de forte pluie.",
+              "La visibilité au belvédère peut être limitée par les nuages.",
+              "Conduisez avec encore plus de prudence sur les routes de montagne.",
+              "L'abbaye de Hautecombe est le meilleur endroit par forte pluie.",
               "Les parkings couverts du centre vous évitent de marcher sous la pluie.",
-              "Vérifiez la pression des pneus pour une meilleure adhérence sur sol mouillé."
+              "Vérifiez la pression des pneus pour une meilleure adhérence sur routes mouillées."
             ]
           }
         },
@@ -2479,7 +2557,7 @@
             "hu": "A havas tájon keresztül hajtunk a kilátóhoz, ahol az Alpok tiszta fehérben ragyognak. A Hautecombe apátság a téli fényben különösen áhítatosnak tűnik. Egy kellemes chanazi ebéd után a Granier felé tartunk, melynek csúcsa gyakran felhőkbe vész. A napot Chambéry ünnepi kivilágítású belvárosában zárjuk.",
             "ro": "Conducem prin peisajul înzăpezit spre Belvédère, unde Alpii strălucesc într-un alb pur. Abația Hautecombe pare deosebit de solemnă în lumina iernii. După un prânz plăcut în Chanaz, mergem spre Granier, al cărui vârf este adesea învăluit în nori. Încheiem ziua în centrul festiv iluminat al orașului Chambéry.",
             "en": "We drive through the snowy landscape to the viewpoint, where the Alps shine in pure white. Hautecombe Abbey looks particularly solemn in the winter light. After a cozy lunch in Chanaz, we head to Granier, whose peak is often shrouded in clouds. We finish the day in the festively lit city center of Chambéry.",
-            "fr": "Nous traversons le paysage enneigé vers le point de vue, où les Alpes brillent d'un blanc pur. L'Abbaye d'Hautecombe semble particulièrement solennelle dans la lumière hivernale. Après un déjeuner chaleureux à Chanaz, nous nous dirigeons vers le Granier, dont le sommet est souvent enveloppé de nuages. Nous finissons la journée dans le centre-ville de Chambéry paré de ses lumières festives."
+            "fr": "Nous traversons le paysage enneigé jusqu'au belvédère, où les Alpes brillent d'un blanc immaculé. L'abbaye de Hautecombe paraît particulièrement solennelle dans la lumière hivernale. Après un déjeuner chaleureux à Chanaz, nous nous dirigeons vers le Granier, dont le sommet est souvent enveloppé de nuages. Nous terminons la journée dans le centre de Chambéry, illuminé pour les fêtes."
           },
           "stops": [
             {
@@ -2489,7 +2567,7 @@
                 "hu": "Téli gumi vagy hólánc szükséges lehet friss hó esetén.",
                 "ro": "Anvelopele de iarnă sau lanțurile pot fi necesare la zăpadă proaspătă.",
                 "en": "Winter tires or chains may be required with fresh snow.",
-                "fr": "Pneus hiver ou chaînes peuvent être requis en cas de neige fraîche."
+                "fr": "Pneus hiver ou chaînes peuvent être obligatoires en cas de neige fraîche."
               }
             },
             {
@@ -2499,7 +2577,7 @@
                 "hu": "Indulás előtt ellenőrizze a téli nyitvatartást.",
                 "ro": "Verificați programul de iarnă înainte de plecare.",
                 "en": "Check winter opening hours before departure.",
-                "fr": "Vérifiez les horaires d'ouverture hivernaux avant le départ."
+                "fr": "Vérifiez les horaires d'hiver avant le départ."
               }
             },
             {
@@ -2509,7 +2587,7 @@
                 "hu": "Sok üzletnek korlátozott a nyitvatartása télen.",
                 "ro": "Multe magazine au program redus pe timp de iarnă.",
                 "en": "Many shops have limited hours in winter.",
-                "fr": "De nombreux magasins ont des horaires réduits en hiver."
+                "fr": "De nombreux commerces ont des horaires réduits en hiver."
               }
             },
             {
@@ -2529,7 +2607,7 @@
                 "hu": "Élvezze a karácsonyi vásárt vagy az esti fényeket.",
                 "ro": "Bucurați-vă de târgul de Crăciun sau de luminile de seară.",
                 "en": "Enjoy the Christmas market or the lights in the evening.",
-                "fr": "Profitez du marché de Noël ou des illuminations en soirée."
+                "fr": "Profitez du marché de Noël ou des illuminations le soir."
               }
             }
           ],
@@ -2563,11 +2641,11 @@
               "Hot drinks in Chanaz keep the spirits high."
             ],
             "fr": [
-              "L'équipement d'hiver pour la voiture est obligatoire dans cette région.",
-              "Un grattoir à glace et de l'antigel sont indispensables.",
-              "Le crépuscule commence très tôt dans les montagnes.",
-              "Certains cols de montagne peuvent être fermés en hiver.",
-              "Des boissons chaudes à Chanaz gardent le moral au plus haut."
+              "L'équipement d'hiver dans la voiture est obligatoire dans cette région.",
+              "Un grattoir à glace et un antigel sont essentiels.",
+              "Le crépuscule commence très tôt en montagne.",
+              "Certains cols montagneux peuvent être fermés en hiver.",
+              "Les boissons chaudes à Chanaz remontent le moral."
             ]
           }
         }
@@ -2586,7 +2664,8 @@
             "de": "Fontaine des Éléphants",
             "hu": "Elefántos kút",
             "ro": "Fântâna Elefanților",
-            "en": "Elephants Fountain"
+            "en": "Elephants Fountain",
+            "fr": "Fontaine des Éléphants"
           },
           "coords": [
             5.9221,
@@ -2602,7 +2681,7 @@
             "hu": "A városi buszok központi csomópontja.",
             "ro": "Nodul central al autobuzelor urbane.",
             "en": "Central hub for city buses.",
-            "fr": "Pôle central pour les bus de la ville."
+            "fr": "Hub central pour les bus urbains."
           }
         },
         {
@@ -2610,7 +2689,8 @@
             "de": "Les Charmettes (Bus B)",
             "hu": "Les Charmettes (B busz)",
             "ro": "Les Charmettes (Autobuz B)",
-            "en": "Les Charmettes (Bus B)"
+            "en": "Les Charmettes (Bus B)",
+            "fr": "Les Charmettes (Bus B)"
           },
           "coords": [
             5.93,
@@ -2626,7 +2706,7 @@
             "hu": "Látogassa meg Jean-Jacques Rousseau házát a dombok között.",
             "ro": "Vizitați casa lui Jean-Jacques Rousseau de pe dealuri.",
             "en": "Visit Jean-Jacques Rousseau's house in the hills.",
-            "fr": "Visitez la maison de Jean-Jacques Rousseau sur les hauteurs."
+            "fr": "Visitez la maison de Jean-Jacques Rousseau dans les collines."
           }
         },
         {
@@ -2634,7 +2714,8 @@
             "de": "Place Saint-Léger",
             "hu": "Place Saint-Léger",
             "ro": "Place Saint-Léger",
-            "en": "Place Saint-Léger"
+            "en": "Place Saint-Léger",
+            "fr": "Place Saint-Léger"
           },
           "coords": [
             5.92,
@@ -2658,7 +2739,8 @@
             "de": "Musée Savoisien",
             "hu": "Savoyai Múzeum",
             "ro": "Muzeul Savoiard",
-            "en": "Savoyard Museum"
+            "en": "Savoyard Museum",
+            "fr": "Musée Savoisien"
           },
           "coords": [
             5.918,
@@ -2682,7 +2764,8 @@
             "de": "Parc de Buisson-Rond",
             "hu": "Parc de Buisson-Rond",
             "ro": "Parc de Buisson-Rond",
-            "en": "Parc de Buisson-Rond"
+            "en": "Parc de Buisson-Rond",
+            "fr": "Parc de Buisson-Rond"
           },
           "coords": [
             5.94,
@@ -2698,7 +2781,7 @@
             "hu": "Csendes park a Buisson-Rond kastéllyal és rózsakerttel.",
             "ro": "Parc liniștit cu castelul Buisson-Rond și grădina de trandafiri.",
             "en": "Quiet park with the Buisson-Rond castle and rose garden.",
-            "fr": "Parc paisible avec le château de Buisson-Rond et sa roseraie."
+            "fr": "Parc tranquille avec le château du Buisson-Rond et un rosier."
           }
         },
         {
@@ -2706,7 +2789,8 @@
             "de": "Rue de Boigne (Zentrum)",
             "hu": "Rue de Boigne (központ)",
             "ro": "Rue de Boigne (centru)",
-            "en": "Rue de Boigne (center)"
+            "en": "Rue de Boigne (center)",
+            "fr": "Rue de Boigne (centre)"
           },
           "coords": [
             5.921,
@@ -2722,7 +2806,7 @@
             "hu": "Egy utolsó séta az elegáns árkádok alatt.",
             "ro": "O ultimă plimbare sub arcadele elegante.",
             "en": "A final stroll through the elegant arcades.",
-            "fr": "Une dernière flânerie sous les arcades élégantes."
+            "fr": "Une dernière promenade sous les élégantes arcades."
           }
         }
       ],
@@ -2731,7 +2815,7 @@
         "hu": "Használja ki Chambéry kényelmes buszhálózatát. A reggel a Les Charmettes-be vezeti, Rousseau idilli vidéki házához, amely a B vonallal tökéletesen elérhető.\n\nDélben térjen vissza az óváros szívébe. A Place Saint-Léger kulináris felfedezésre hív, mielőtt a Savoyai Múzeumban mélyen elmerülne a régió identitásában.\n\nAz délután a kikapcsolódásé a tágas Parc de Buisson-Rond-ban. Sétáljon a rózsakertben és csodálja meg a kastélyt, mielőtt busszal visszatérne a központba.\n\nA nap stílusosan a Rue de Boigne-ban ér véget. A kivilágított árkádok és a hangulatos kávézók ideális környezetet biztosítanak a hercegi városban szerzett élmények felidézéséhez.",
         "ro": "Utilizați rețeaua convenabilă de autobuze din Chambéry. Dimineața vă poartă la Les Charmettes, casa idilică de la țară a lui Rousseau, perfect accesibilă cu linia B.\n\nLa prânz, reveniți în inima orașului vechi. Place Saint-Léger vă invită la o explorare culinară, înainte de a aprofunda identitatea regiunii la Muzeul Savoiard.\n\nDupă-amiaza este dedicată relaxării în vastul Parc de Buisson-Rond. Plimbați-vă prin grădina de trandafiri și admirați castelul înainte de a lua autobuzul înapoi spre centru.\n\nZiua se încheie cu stil pe Rue de Boigne. Arcadele iluminate și cafenelele primitoare oferă cadrul ideal pentru a reflecta asupra impresiilor lăsate de orașul ducal.",
         "en": "Make use of Chambéry's convenient bus network. The morning takes you up to Les Charmettes, Rousseau's idyllic country house, perfectly accessible with line B.\n\nAt midday, return to the heart of the old town. Place Saint-Léger invites you on a culinary journey before you dive deep into the region's identity at the Musée Savoisien.\n\nThe afternoon is dedicated to relaxation in the spacious Parc de Buisson-Rond. Stroll through the rose garden and admire the castle before taking the bus back to the center.\n\nThe day ends in style on Rue de Boigne. The illuminated arcades and cozy cafes offer the ideal setting to review the impressions of the ducal city.",
-        "fr": "Profitez du réseau de bus pratique de Chambéry. Le matin vous emmène aux Charmettes, l'idyllique maison de campagne de Rousseau, parfaitement accessible avec la ligne B.\n\nÀ midi, retournez au cœur de la vieille ville. La Place Saint-Léger vous invite à un voyage culinaire avant de plonger dans l'identité de la région au Musée Savoisien.\n\nL'après-midi est consacré à la détente dans le vaste parc de Buisson-Rond. Promenez-vous dans la roseraie et admirez le château avant de reprendre le bus pour le centre.\n\nLa journée se termine avec style rue de Boigne. Les arcades illuminées et les cafés chaleureux offrent le cadre idéal pour passer en revue les impressions de la cité ducale."
+        "fr": "Profitez du réseau de bus pratique de Chambéry. La matinée vous mène aux Charmettes, la maison champêtre idyllique de Rousseau, accessible avec la ligne B.\n\nÀ midi, retour au cœur de la vieille ville. La place Saint-Léger vous invite à un voyage culinaire avant de plonger dans l'identité régionale au Musée Savoisien.\n\nL'après-midi est dédié à la détente dans le spacieux parc de Buisson-Rond. Promenez-vous dans le jardin de roses et admirez le château avant de reprendre le bus pour le centre.\n\nLa journée se termine en beauté sur la rue de Boigne. Les arcades illuminées et les cafés cosy offrent le cadre idéal pour revenir sur vos impressions de la ville ducale."
       },
       "gastro_picks": {
         "de": [
@@ -2929,11 +3013,11 @@
           "Tickets can be bought directly from the driver or at machines."
         ],
         "fr": [
-          "Téléchargez l'application 'Synchro Bus' pour les horaires en temps réel.",
-          "Un ticket journée est rentable dès trois trajets.",
-          "Les bus passent très fréquemment au centre, moins vers la périphérie.",
+          "Téléchargez l'application « Synchro Bus » pour les départs en temps réel.",
+          "Un ticket journalier est rentable dès trois trajets.",
+          "Les bus sont très fréquents dans le centre, mais moins vers la périphérie.",
           "Le dimanche, le service de bus est nettement réduit.",
-          "Les tickets peuvent être achetés directement auprès du chauffeur ou aux bornes."
+          "Les tickets peuvent être achetés directement auprès du conducteur ou aux distributeurs."
         ]
       },
       "variants": {
@@ -2942,7 +3026,8 @@
             "de": "Nutzen Sie das bequeme Busnetz von Chambéry. Der Morgen führt Sie hinauf zu Les Charmettes, dem idyllischen Landhaus von Rousseau, das perfekt mit der Linie B erreichbar ist.\n\nMittags kehren Sie ins Herz der Altstadt zurück. Die Place Saint-Léger lädt zu einer kulinarischen Entdeckungsreise ein, bevor Sie im Musée Savoisien tief in die Identität der Region eintauchen.\n\nDer Nachmittag gehört der Entspannung im weitläufigen Parc de Buisson-Rond. Spazieren Sie durch den Rosengarten und bewundern Sie das Schloss, bevor Sie mit dem Bus zurück ins Zentrum fahren.\n\nDer Tag endet stilvoll in der Rue de Boigne. Die beleuchteten Arkaden und gemütlichen Cafés bieten den idealen Rahmen, um die Eindrücke der herzoglichen Stadt Revue passieren zu lassen.",
             "hu": "Használja ki Chambéry kényelmes buszhálózatát. A reggel a Les Charmettes-be vezeti, Rousseau idilli vidéki házához, amely a B vonallal tökéletesen elérhető.\n\nDélben térjen vissza az óváros szívébe. A Place Saint-Léger kulináris felfedezésre hív, mielőtt a Savoyai Múzeumban mélyen elmerülne a régió identitásában.\n\nAz délután a kikapcsolódásé a tágas Parc de Buisson-Rond-ban. Sétáljon a rózsakertben és csodálja meg a kastélyt, mielőtt busszal visszatérne a központba.\n\nA nap stílusosan a Rue de Boigne-ban ér véget. A kivilágított árkádok és a hangulatos kávézók ideális környezetet biztosítanak a hercegi városban szerzett élmények felidézéséhez.",
             "ro": "Utilizați rețeaua convenabilă de autobuze din Chambéry. Dimineața vă poartă la Les Charmettes, casa idilică de la țară a lui Rousseau, perfect accesibilă cu linia B.\n\nLa prânz, reveniți în inima orașului vechi. Place Saint-Léger vă invită la o explorare culinară, înainte de a aprofunda identitatea regiunii la Muzeul Savoiard.\n\nDupă-amiaza este dedicată relaxării în vastul Parc de Buisson-Rond. Plimbați-vă prin grădina de trandafiri și admirați castelul înainte de a lua autobuzul înapoi spre centru.\n\nZiua se încheie cu stil pe Rue de Boigne. Arcadele iluminate și cafenelele primitoare oferă cadrul ideal pentru a reflecta asupra impresiilor lăsate de orașul ducal.",
-            "en": "Make use of Chambéry's convenient bus network. The morning takes you up to Les Charmettes, Rousseau's idyllic country house, perfectly accessible with line B.\n\nAt midday, return to the heart of the old town. Place Saint-Léger invites you on a culinary journey before you dive deep into the region's identity at the Musée Savoisien.\n\nThe afternoon is dedicated to relaxation in the spacious Parc de Buisson-Rond. Stroll through the rose garden and admire the castle before taking the bus back to the center.\n\nThe day ends in style on Rue de Boigne. The illuminated arcades and cozy cafes offer the ideal setting to review the impressions of the ducal city."
+            "en": "Make use of Chambéry's convenient bus network. The morning takes you up to Les Charmettes, Rousseau's idyllic country house, perfectly accessible with line B.\n\nAt midday, return to the heart of the old town. Place Saint-Léger invites you on a culinary journey before you dive deep into the region's identity at the Musée Savoisien.\n\nThe afternoon is dedicated to relaxation in the spacious Parc de Buisson-Rond. Stroll through the rose garden and admire the castle before taking the bus back to the center.\n\nThe day ends in style on Rue de Boigne. The illuminated arcades and cozy cafes offer the ideal setting to review the impressions of the ducal city.",
+            "fr": "Profitez du réseau de bus pratique de Chambéry. La matinée vous mène aux Charmettes, la maison champêtre idyllique de Rousseau, accessible avec la ligne B.\n\nÀ midi, retour au cœur de la vieille ville. La place Saint-Léger vous invite à un voyage culinaire avant de plonger dans l'identité régionale au Musée Savoisien.\n\nL'après-midi est dédié à la détente dans le spacieux parc de Buisson-Rond. Promenez-vous dans le jardin de roses et admirez le château avant de reprendre le bus pour le centre.\n\nLa journée se termine en beauté sur la rue de Boigne. Les arcades illuminées et les cafés cosy offrent le cadre idéal pour revenir sur vos impressions de la ville ducale."
           },
           "stops": [
             {
@@ -2950,13 +3035,15 @@
                 "de": "Fontaine des Éléphants",
                 "hu": "Elefántos kút",
                 "ro": "Fântâna Elefanților",
-                "en": "Elephants Fountain"
+                "en": "Elephants Fountain",
+                "fr": "Fontaine des Éléphants"
               },
               "tip_5lang": {
                 "de": "Zentraler Knotenpunkt der Stadtbusse.",
                 "hu": "A városi buszok központi csomópontja.",
                 "ro": "Nodul central al autobuzelor urbane.",
-                "en": "Central hub for city buses."
+                "en": "Central hub for city buses.",
+                "fr": "Nœud central pour les bus urbains."
               }
             },
             {
@@ -2964,13 +3051,15 @@
                 "de": "Les Charmettes (Bus B)",
                 "hu": "Les Charmettes (B busz)",
                 "ro": "Les Charmettes (Autobuz B)",
-                "en": "Les Charmettes (Bus B)"
+                "en": "Les Charmettes (Bus B)",
+                "fr": "Les Charmettes (Bus B)"
               },
               "tip_5lang": {
                 "de": "Besuchen Sie das Haus von Jean-Jacques Rousseau in den Hügeln.",
                 "hu": "Látogassa meg Jean-Jacques Rousseau házát a dombok között.",
                 "ro": "Vizitați casa lui Jean-Jacques Rousseau de pe dealuri.",
-                "en": "Visit Jean-Jacques Rousseau's house in the hills."
+                "en": "Visit Jean-Jacques Rousseau's house in the hills.",
+                "fr": "Visitez la maison de Jean-Jacques Rousseau dans les collines."
               }
             },
             {
@@ -2978,13 +3067,15 @@
                 "de": "Place Saint-Léger",
                 "hu": "Place Saint-Léger",
                 "ro": "Place Saint-Léger",
-                "en": "Place Saint-Léger"
+                "en": "Place Saint-Léger",
+                "fr": "Place Saint-Léger"
               },
               "tip_5lang": {
                 "de": "Zentraler Platz für ein traditionelles Mittagessen.",
                 "hu": "Központi tér egy hagyományos ebédhez.",
                 "ro": "Piața centrală pentru un prânz tradițional.",
-                "en": "Central square for a traditional lunch."
+                "en": "Central square for a traditional lunch.",
+                "fr": "Place centrale pour un déjeuner traditionnel."
               }
             },
             {
@@ -2992,13 +3083,15 @@
                 "de": "Musée Savoisien",
                 "hu": "Savoyai Múzeum",
                 "ro": "Muzeul Savoiard",
-                "en": "Savoyard Museum"
+                "en": "Savoyard Museum",
+                "fr": "Musée savoyard"
               },
               "tip_5lang": {
                 "de": "Geschichte und Kultur Savoyens in einem ehemaligen Kloster.",
                 "hu": "Savoia történelme és kultúrája egy egykori kolostorban.",
                 "ro": "Istoria și cultura Savoniei într-o fostă mănăstire.",
-                "en": "History and culture of Savoy in a former monastery."
+                "en": "History and culture of Savoy in a former monastery.",
+                "fr": "Histoire et culture de la Savoie dans un ancien monastère."
               }
             },
             {
@@ -3006,13 +3099,15 @@
                 "de": "Parc de Buisson-Rond",
                 "hu": "Parc de Buisson-Rond",
                 "ro": "Parc de Buisson-Rond",
-                "en": "Parc de Buisson-Rond"
+                "en": "Parc de Buisson-Rond",
+                "fr": "Parc du Buisson-Rond"
               },
               "tip_5lang": {
                 "de": "Ruhiger Park mit dem Schloss Buisson-Rond und Rosengarten.",
                 "hu": "Csendes park a Buisson-Rond kastéllyal és rózsakerttel.",
                 "ro": "Parc liniștit cu castelul Buisson-Rond și grădina de trandafiri.",
-                "en": "Quiet park with the Buisson-Rond castle and rose garden."
+                "en": "Quiet park with the Buisson-Rond castle and rose garden.",
+                "fr": "Parc tranquille avec le château du Buisson-Rond et un roseraie."
               }
             },
             {
@@ -3020,13 +3115,15 @@
                 "de": "Rue de Boigne (Zentrum)",
                 "hu": "Rue de Boigne (központ)",
                 "ro": "Rue de Boigne (centru)",
-                "en": "Rue de Boigne (center)"
+                "en": "Rue de Boigne (center)",
+                "fr": "Rue de Boigne (centre)"
               },
               "tip_5lang": {
                 "de": "Ein letzter Bummel durch die eleganten Arkaden.",
                 "hu": "Egy utolsó séta az elegáns árkádok alatt.",
                 "ro": "O ultimă plimbare sub arcadele elegante.",
-                "en": "A final stroll through the elegant arcades."
+                "en": "A final stroll through the elegant arcades.",
+                "fr": "Une dernière promenade sous les élégantes arcades."
               }
             }
           ],
@@ -3192,6 +3289,13 @@
               "Buses run very frequently in the center, but less so to the outskirts.",
               "On Sundays, the bus service is significantly reduced.",
               "Tickets can be bought directly from the driver or at machines."
+            ],
+            "fr": [
+              "Téléchargez l’application « Synchro Bus » pour les départs en temps réel.",
+              "Un ticket journée est rentable dès trois trajets.",
+              "Les bus circulent très fréquemment au centre, mais moins en périphérie.",
+              "Le dimanche, le service de bus est fortement réduit.",
+              "Les tickets peuvent être achetés directement auprès du conducteur ou aux distributeurs."
             ]
           }
         },
@@ -3201,7 +3305,7 @@
             "hu": "Az elefántos kúttól busszal megyünk a Charmettes-hez, ahol az előtető alól figyeljük az esőt. Délben visszatérünk a száraz belvárosba, és a Place Saint-Légeren ebédelünk. A délutánt a Savoyárd Múzeumban töltjük, tökéletes védve az időjárástól. A nap a Rue de Boigne árkádjai alatt zárul.",
             "ro": "De la fântâna cu elefanți luăm autobuzul spre Charmettes, unde privim ploaia de sub streașină. La prânz revenim în centrul uscat și savurăm masa în Place Saint-Léger. După-amiaza o petrecem la Muzeul Savoyard, perfect protejați de vreme. Ziua se încheie sigur sub arcadele de pe Rue de Boigne.",
             "en": "From the Elephant Fountain, we take the bus to Les Charmettes, where we watch the rain from under the porch. At midday, we return to the dry center and enjoy lunch at Place Saint-Léger. The afternoon is spent at the Savoyard Museum, perfectly protected from the weather. The day ends safely in the arcades of Rue de Boigne.",
-            "fr": "Depuis la Fontaine des Éléphants, nous prenons le bus pour les Charmettes, où nous regardons la pluie depuis le porche. À midi, nous revenons au centre sec et profitons du déjeuner à la Place Saint-Léger. L'après-midi se passe au Musée Savoisien, parfaitement protégé des intempéries. La journée se termine en toute sécurité sous les arcades de la rue de Boigne."
+            "fr": "Depuis la Fontaine de l’Éléphant, nous prenons le bus pour Les Charmettes, où nous regardons la pluie depuis le porche. À midi, nous retournons au centre à l’abri et déjeunons à la Place Saint-Léger. L’après‑midi est consacré au Musée savoyard, parfaitement protégé des intempéries. La journée se termine en sécurité sous les arcades de la Rue de Boigne."
           },
           "stops": [
             {
@@ -3211,7 +3315,7 @@
                 "hu": "A legközelebbi buszmegálló védelmet nyújt az eső ellen.",
                 "ro": "Cea mai apropiată stație de autobuz oferă adăpost.",
                 "en": "The nearest bus stop provides shelter from the rain.",
-                "fr": "L'arrêt de bus le plus proche offre un abri contre la pluie."
+                "fr": "L’arrêt de bus le plus proche offre un abri contre la pluie."
               }
             },
             {
@@ -3221,7 +3325,7 @@
                 "hu": "A busz közel áll meg a bejárathoz; egy esernyő azért jól jön.",
                 "ro": "Autobuzul oprește aproape de intrare; o umbrelă e totuși utilă.",
                 "en": "The bus stops near the entrance; an umbrella is still useful.",
-                "fr": "Le bus s'arrête près de l'entrée ; un parapluie reste utile."
+                "fr": "Le bus s’arrête près de l’entrée ; un parapluie reste utile."
               }
             },
             {
@@ -3231,7 +3335,7 @@
                 "hu": "Sok kávézónak van fedett kültéri része.",
                 "ro": "Multe cafenele au spații exterioare acoperite.",
                 "en": "Many cafes have covered outdoor areas.",
-                "fr": "De nombreux cafés ont des terrasses couvertes."
+                "fr": "De nombreux cafés disposent d’espaces extérieurs couverts."
               }
             },
             {
@@ -3241,7 +3345,7 @@
                 "hu": "Kiváló úti cél a délután szárazon történő eltöltéséhez.",
                 "ro": "O destinație excelentă pentru a petrece după-amiaza la adăpost.",
                 "en": "An excellent destination to spend the afternoon in the dry.",
-                "fr": "Une excellente destination pour passer l'après-midi au sec."
+                "fr": "Excellente destination pour passer l’après‑midi au sec."
               }
             },
             {
@@ -3251,7 +3355,7 @@
                 "hu": "Használja a buszjáratot, hogy elkerülje a vizes utakat a parkban.",
                 "ro": "Folosiți autobuzul pentru a evita aleile ude din parc.",
                 "en": "Use the bus connection to avoid wet paths in the park.",
-                "fr": "Utilisez la connexion de bus pour éviter les chemins mouillés dans le parc."
+                "fr": "Utilisez la correspondance de bus pour éviter les chemins mouillés dans le parc."
               }
             },
             {
@@ -3295,11 +3399,11 @@
               "Many sights are located near the bus lines."
             ],
             "fr": [
-              "Vérifiez les départs en temps réel sur l'application Synchro.",
-              "Les arrêts de bus sont des endroits idéaux pour attendre la fin d'une averse.",
+              "Vérifiez les départs en temps réel dans l’application Synchro.",
+              "Les arrêts de bus sont des endroits idéaux pour attendre la fin des averses.",
               "Les bus sont bien ventilés et restent secs.",
-              "Un ticket journée est particulièrement intéressant par mauvais temps.",
-              "De nombreux sites touristiques sont situés près des lignes de bus."
+              "Un ticket journée est particulièrement rentable par mauvais temps.",
+              "De nombreux sites sont situés à proximité des lignes de bus."
             ]
           }
         },
@@ -3309,7 +3413,7 @@
             "hu": "A fűtött buszon kezdjük túránkat, élvezve a havas város látványát. A Charmettes a téli fényben mintha egy másik korból származna. Délben a központban melegszünk fel, majd a délutánt a múzeumban töltjük. A korai sötétség különösen hangulatossá teszi a Buisson-Rond fényeit, mielőtt visszatérnénk.",
             "ro": "Începem turul în autobuzul încălzit, bucurându-ne de priveliștea orașului înzăpezit. Charmettes pare desprins din altă epocă în lumina iernii. La prânz ne încălzim în centru înainte de a petrece după-amiaza la muzeu. Întunericul timpuriu face luminile din Buisson-Rond deosebit de sugestive înainte de întoarcere.",
             "en": "We start our tour in the heated bus, enjoying the view of the snowy city. Les Charmettes looks like it's from another era in the winter light. At midday, we warm up in the center before spending the afternoon at the museum. The early darkness makes the lights at Buisson-Rond particularly atmospheric before we return.",
-            "fr": "Nous commençons notre tour dans le bus chauffé, profitant de la vue sur la ville enneigée. Les Charmettes semblent sortir d'une autre époque dans la lumière hivernale. À midi, nous nous réchauffons au centre avant de passer l'après-midi au musée. L'obscurité précoce rend les lumières de Buisson-Rond particulièrement atmosphériques avant notre retour."
+            "fr": "Nous commençons notre tour dans le bus chauffé, en profitant de la vue sur la ville enneigée. Les Charmettes semble venir d’une autre époque sous la lumière hivernale. À midi, nous nous réchauffons au centre avant de passer l’après‑midi au musée. L’obscurité précoce rend les lumières du Buisson-Rond particulièrement atmosphériques avant notre retour."
           },
           "stops": [
             {
@@ -3319,7 +3423,7 @@
                 "hu": "Vigyázzon a fel- és leszálláskor a csúszós járdákon.",
                 "ro": "Atenție la urcare și coborâre pe trotuarele alunecoase.",
                 "en": "Be careful when getting on and off on slippery sidewalks.",
-                "fr": "Faites attention en montant et descendant sur les trottoirs glissants."
+                "fr": "Faites attention lors des montées et descentes sur des trottoirs glissants."
               }
             },
             {
@@ -3339,7 +3443,7 @@
                 "hu": "Élvezze a meghitt meleget a hagyományos kávézókban.",
                 "ro": "Bucurați-vă de căldura primitoare din cafenelele tradiționale.",
                 "en": "Enjoy the cozy warmth in the traditional cafes.",
-                "fr": "Profitez de la chaleur accueillante des cafés traditionnels."
+                "fr": "Profitez de la chaleur douillette dans les cafés traditionnels."
               }
             },
             {
@@ -3349,7 +3453,7 @@
                 "hu": "Használja a ruhatárat; bent kellemesen meleg van.",
                 "ro": "Folosiți garderoba; în interior este plăcut și cald.",
                 "en": "Use the cloakroom; it is pleasantly warm inside.",
-                "fr": "Utilisez le vestiaire ; il fait agréablement chaud à l'intérieur."
+                "fr": "Utilisez le vestiaire ; il fait agréablement chaud à l’intérieur."
               }
             },
             {
@@ -3359,7 +3463,7 @@
                 "hu": "A park télen kivilágított a sötétség beálltakor.",
                 "ro": "Parcul este iluminat iarna odată cu lăsarea întunericului.",
                 "en": "The park is lit in winter when darkness falls.",
-                "fr": "Le parc est illuminé en hiver dès la tombée de la nuit."
+                "fr": "Le parc est éclairé en hiver lorsque la nuit tombe."
               }
             },
             {
@@ -3369,7 +3473,7 @@
                 "hu": "A téli kivilágítás az árkádok alatt megér egy látogatást.",
                 "ro": "Iluminatul de iarnă sub arcade merită văzut.",
                 "en": "The winter lighting under the arcades is worth seeing.",
-                "fr": "L'éclairage hivernal sous les arcades vaut le détour."
+                "fr": "L’éclairage hivernal sous les arcades vaut le détour."
               }
             }
           ],
@@ -3403,10 +3507,10 @@
               "Combine bus trips with visits to warm museums."
             ],
             "fr": [
-              "Les bus circulent de manière fiable en hiver, mais prévoyez un peu plus de temps.",
+              "Les bus roulent de manière fiable en hiver, mais prévoyez du temps supplémentaire.",
               "Utilisez le chauffage des bus pour vous réchauffer.",
-              "Portez des chaussures avec une bonne adhérence pour les arrêts de bus.",
-              "Le crépuscule commence dès 16h30.",
+              "Portez des chaussures à bonne accroche pour les arrêts de bus.",
+              "La tombée du jour commence dès 16h30.",
               "Combinez les trajets en bus avec des visites de musées chauffés."
             ]
           }

@@ -21,7 +21,8 @@
             "de": "Rathaus",
             "hu": "Városháza",
             "ro": "Primăria",
-            "en": "Town Hall (Hôtel de Ville)"
+            "en": "Town Hall (Hôtel de Ville)",
+            "fr": "Hôtel de Ville"
           },
           "coords": [
             -0.55103,
@@ -36,7 +37,8 @@
             "de": "Beginnen Sie Ihren Rundgang am historischen Rathaus, dem zivilen Herzen der Stadt, und bewundern Sie die Nachkriegsarchitektur, bevor Sie zu den nahegelegenen Kirchen gehen.",
             "hu": "Kezdje a gyalogos túrát a történelmi Városházánál, a város civil központjánál, és figyelje meg a háború utáni újjáépítés építészetét, mielőtt a közeli templomokhoz indulna.",
             "ro": "Începeți turul pietonal la Primăria istorică, inima civică a orașului, și observați arhitectura de reconstrucție postbelică înainte de a vă îndrepta spre bisericile din apropiere.",
-            "en": "Start your walking tour at the historic Town Hall, the civic heart of the city, and notice the post-war reconstruction architecture before heading to the nearby churches."
+            "en": "Start your walking tour at the historic Town Hall, the civic heart of the city, and notice the post-war reconstruction architecture before heading to the nearby churches.",
+            "fr": "Commencez votre visite à pied à l'Hôtel de Ville historique, cœur civique de la ville, et remarquez l'architecture de reconstruction d'après-guerre avant de vous diriger vers les églises proches."
           }
         },
         {
@@ -44,7 +46,8 @@
             "de": "Église Saint-Sauveur",
             "hu": "Église Saint-Sauveur",
             "ro": "Biserica Saint-Sauveur",
-            "en": "Église Saint-Sauveur"
+            "en": "Église Saint-Sauveur",
+            "fr": "Église Saint-Sauveur"
           },
           "coords": [
             -0.548907,
@@ -59,7 +62,8 @@
             "de": "Bewundern Sie die beeindruckenden Buntglasfenster dieser zentralen Kirche, ein architektonisches Juwel der Stadt, und genießen Sie die friedliche Atmosphäre im Hauptschiff.",
             "hu": "Csodálja meg e központi templom lenyűgöző ólomüveg ablakait, a város építészeti ékkövét, és szánjon egy percet arra, hogy élvezze a békés hangulatot a főhajóban.",
             "ro": "Admirați vitraliile impresionante ale acestei biserici centrale, o bijuterie arhitecturală a orașului, și acordați-vă un moment pentru a vă bucura de atmosfera liniștită.",
-            "en": "Admire the impressive stained glass windows of this central church, an architectural gem of the town, and take a moment to enjoy the peaceful atmosphere inside the nave."
+            "en": "Admire the impressive stained glass windows of this central church, an architectural gem of the town, and take a moment to enjoy the peaceful atmosphere inside the nave.",
+            "fr": "Admirez les impressionnants vitraux de cette église centrale, joyau architectural de la ville, et prenez un moment pour savourer l'atmosphère paisible à l'intérieur de la nef."
           }
         },
         {
@@ -67,7 +71,8 @@
             "de": "Tempel",
             "hu": "Protestáns templom",
             "ro": "Templul protestant",
-            "en": "Temple"
+            "en": "Temple",
+            "fr": "Temple protestant"
           },
           "coords": [
             -0.546051,
@@ -82,7 +87,8 @@
             "de": "Entdecken Sie den bescheidenen, aber faszinierenden protestantischen Tempel, der die religiöse Vielfalt widerspiegelt, und prüfen Sie das Schwarze Brett auf Choraufführungen.",
             "hu": "Fedezze fel a szerény, ám lenyűgöző protestáns templomot, amely a helyi vallási sokszínűséget tükrözi, és feltétlenül ellenőrizze a hirdetőtáblát az esetleges kóruselőadásokról.",
             "ro": "Descoperiți Templul protestant modest, dar fascinant, care reflectă diversitatea religioasă locală, asigurându-vă că verificați panoul informativ pentru concertele de cor ocazionale.",
-            "en": "Discover the modest yet fascinating Protestant Temple which reflects the local religious diversity, making sure to check the notice board for occasional choir performances."
+            "en": "Discover the modest yet fascinating Protestant Temple which reflects the local religious diversity, making sure to check the notice board for occasional choir performances.",
+            "fr": "Découvrez le modeste mais fascinant Temple protestant qui reflète la diversité religieuse locale, en pensant à consulter le panneau d'affichage pour d'éventuels concerts de chœur."
           }
         },
         {
@@ -90,7 +96,8 @@
             "de": "Ufer der Noireau",
             "hu": "A Noireau partja",
             "ro": "Malurile râului Noireau",
-            "en": "Banks of the Noireau"
+            "en": "Banks of the Noireau",
+            "fr": "Bords de la Noireau"
           },
           "coords": [
             -0.550716,
@@ -105,7 +112,8 @@
             "de": "Spazieren Sie an den malerischen Ufern des Flusses Noireau, um die industrielle Vergangenheit der Stadt zu verstehen, und bringen Sie Brotkrümel mit, um die Enten zu füttern.",
             "hu": "Sétáljon végig a Noireau folyó festői partján, hogy megértse a város ipari múltját, és hozzon magával néhány kenyérmorzsát, ha szeretné megetetni a barátságos kacsákat.",
             "ro": "Plimbați-vă de-a lungul malurilor pitorești ale râului Noireau pentru a înțelege trecutul industrial, și aduceți câteva firimituri de pâine dacă doriți să hrăniți rațele.",
-            "en": "Stroll along the picturesque banks of the Noireau river to understand the town's industrial past, and bring some bread crumbs if you wish to feed the friendly ducks nearby."
+            "en": "Stroll along the picturesque banks of the Noireau river to understand the town's industrial past, and bring some bread crumbs if you wish to feed the friendly ducks nearby.",
+            "fr": "Promenez-vous le long des pittoresques bords de la Noireau pour comprendre le passé industriel de la ville, et apportez quelques miettes de pain si vous souhaitez nourrir les canards amicaux à proximité."
           }
         },
         {
@@ -113,7 +121,8 @@
             "de": "Charles Léandre Museum",
             "hu": "Charles Léandre Múzeum",
             "ro": "Muzeul Charles Léandre",
-            "en": "Charles Léandre Museum"
+            "en": "Charles Léandre Museum",
+            "fr": "Musée Charles Léandre"
           },
           "coords": [
             -0.551285,
@@ -128,7 +137,8 @@
             "de": "Tauchen Sie in diesem modernen Museum in die Werke von Charles Léandre und die lokale Geschichte ein, aber denken Sie daran, größere Rucksäcke an der kostenlosen Garderobe abzugeben.",
             "hu": "Merüljön el Charles Léandre műveiben és a helyi történelemben ebben a modern múzeumban, de ne felejtse el ingyenes ruhatárban hagyni a nagyobb hátizsákokat a kényelem érdekében.",
             "ro": "Cufundați-vă în operele lui Charles Léandre și în istoria locală din acest muzeu modern, dar nu uitați să lăsați rucsacurile mai mari la garderoba gratuită de la intrare.",
-            "en": "Immerse yourself in the works of Charles Léandre and local history inside this modern museum, but remember to leave larger backpacks at the complimentary cloakroom counter."
+            "en": "Immerse yourself in the works of Charles Léandre and local history inside this modern museum, but remember to leave larger backpacks at the complimentary cloakroom counter.",
+            "fr": "Plongez dans les œuvres de Charles Léandre et dans l'histoire locale au sein de ce musée moderne, mais pensez à déposer les grands sacs au vestiaire gratuit."
           }
         },
         {
@@ -136,7 +146,8 @@
             "de": "Église Saint-Pierre",
             "hu": "Église Saint-Pierre",
             "ro": "Biserica Saint-Pierre",
-            "en": "Église Saint-Pierre"
+            "en": "Église Saint-Pierre",
+            "fr": "Église Saint-Pierre"
           },
           "coords": [
             -0.548127,
@@ -151,7 +162,8 @@
             "de": "Beenden Sie Ihren Spaziergang an dieser alten Kirche mit wunderschöner religiöser Kunst der Region und umrunden Sie das ruhige Außengelände, um die Steinfassade zu bewundern.",
             "hu": "Fejezze be a sétát ennél az ősi templomnál, amely a régió gyönyörű vallásos művészetét kínálja, és sétálja körbe a csendes külső ösvényeket, hogy értékelje a kőhomlokzatot.",
             "ro": "Încheiați-vă plimbarea la această biserică veche, care oferă artă religioasă frumoasă din regiune, și plimbați-vă pe aleile exterioare liniștite pentru a-i aprecia fațada de piatră.",
-            "en": "Conclude your walk at this ancient church offering beautiful religious art from the region, and walk around the quiet exterior pathways to fully appreciate its stone facade."
+            "en": "Conclude your walk at this ancient church offering beautiful religious art from the region, and walk around the quiet exterior pathways to fully appreciate its stone facade.",
+            "fr": "Concluez votre promenade à cette église ancienne offrant de belles œuvres religieuses de la région, et faites le tour des chemins extérieurs tranquilles pour apprécier pleinement sa façade de pierre."
           }
         }
       ],
@@ -159,7 +171,8 @@
         "de": "Morgen: Beginnen Sie Ihren Tag im historischen Zentrum, entdecken Sie das zivile Herz von Condé-sur-Noireau am Rathaus und bewundern Sie die widerstandsfähige Architektur.\nMittag: Wechseln Sie vom städtischen Leben zum spirituellen Erbe, indem Sie die Église Saint-Sauveur und den friedlichen protestantischen Tempel im Herzen der Stadt erkunden.\nNachmittag: Genießen Sie einen Spaziergang an den Ufern des Flusses Noireau und tauchen Sie im Charles Léandre Museum in die reiche lokale Kunst und Geschichte ein.\nAbend: Beenden Sie Ihren Rundgang an der charmanten Église Saint-Pierre und nehmen Sie sich Zeit, in der ruhigen Atmosphäre nachzudenken, während der Abend einkehrt.",
         "hu": "Délelőtt: Kezdje a napot a történelmi központban, fedezze fel Condé-sur-Noireau civil szívét a Városházán, és csodálja meg építészetének figyelemre méltó rugalmasságát.\nDél: Váltson a városi életről a spirituális örökségre a központi Église Saint-Sauveur és a város szívében található békés protestáns templom felfedezésével.\nDélután: Élvezze a pihentető sétát a Noireau folyó partján, majd merüljön el a gazdag helyi művészetben és történelemben a modern Charles Léandre Múzeumban.\nEste: Fejezze be gyalogos utazását a bájos Église Saint-Pierre-nél, és szánjon időt az elmélkedésre a nyugodt környezetben, ahogy a város csendes estébe burkolózik.",
         "ro": "Dimineață: Începeți ziua în centrul istoric, descoperind inima civică a orașului Condé-sur-Noireau la Primărie și admirând reziliența reflectată în arhitectura sa.\nAmiază: Faceți tranziția de la viața civică la moștenirea spirituală, explorând centrala Église Saint-Sauveur și pașnicul Templu protestant, situate în inima orașului.\nDupă-amiază: Bucurați-vă de o plimbare relaxantă de-a lungul malurilor râului Noireau, apoi cufundați-vă în arta și istoria locală la Muzeul Charles Léandre.\nSeară: Încheiați-vă călătoria pietonală la fermecătoarea Église Saint-Pierre, făcându-vă timp pentru a reflecta în ambianța liniștită pe măsură ce seara se lasă peste oraș.",
-        "en": "Morning: Begin your day in the historic center, discovering the civic heart of Condé-sur-Noireau at the Town Hall and admiring the resilience in its architecture.\nMidday: Transition from civic life to spiritual heritage by exploring the central Église Saint-Sauveur and the peaceful Protestant Temple located right in the heart of town.\nAfternoon: Enjoy a relaxing stroll along the banks of the Noireau river, then immerse yourself in rich local art and history at the Charles Léandre Museum.\nEvening: Conclude your walking journey at the charming Église Saint-Pierre, taking time to reflect in the tranquil ambiance as the town settles into a quiet evening."
+        "en": "Morning: Begin your day in the historic center, discovering the civic heart of Condé-sur-Noireau at the Town Hall and admiring the resilience in its architecture.\nMidday: Transition from civic life to spiritual heritage by exploring the central Église Saint-Sauveur and the peaceful Protestant Temple located right in the heart of town.\nAfternoon: Enjoy a relaxing stroll along the banks of the Noireau river, then immerse yourself in rich local art and history at the Charles Léandre Museum.\nEvening: Conclude your walking journey at the charming Église Saint-Pierre, taking time to reflect in the tranquil ambiance as the town settles into a quiet evening.",
+        "fr": "Matin : Commencez votre journée au centre historique, découvrez le cœur civique de Condé-sur-Noireau à l'Hôtel de Ville et admirez la résilience de son architecture. Midi : Passez de la vie civique au patrimoine spirituel en visitant l'Église Saint-Sauveur centrale et le paisible Temple protestant situé en plein cœur de la ville. Après-midi : Profitez d'une promenade relaxante le long des bords de la Noireau, puis immergez-vous dans l'art et l'histoire locaux au Musée Charles Léandre. Soir : Concluez votre parcours pédestre à la charmante Église Saint-Pierre, prenez le temps de réfléchir dans l'ambiance tranquille alors que la ville s'installe dans une soirée calme."
       },
       "variants": {
         "rainy": {
@@ -167,7 +180,8 @@
             "de": "Der Morgen beginnt am Rathaus, dessen Vorplatz Schutz vor dem normannischen Nieselregen bietet.\n\nMittags bieten die Innenräume der Kirchen trockene Zuflucht und Raum für stille Betrachtung.\n\nAm Nachmittag besuchen wir das Museum, den idealen Ort, um lokale Kunst zu bewundern, während es draußen regnet.\n\nDer Abend endet bei Saint-Pierre, wo dicke Granitwände uns vor dem feuchten Wind schützen.",
             "hu": "A reggel a városháza környékén indul, ahol az árkádok menedéket nyújtanak a szemerkélő eső elől.\n\nDélben a modern és a hagyományos templomok belső tereiben találunk nyugalmat és száraz pihenőt.\n\nDélután a folyóparti séta után a múzeumba húzódunk be a komolyabb záporok elől.\n\nAz este a Saint-Pierre templom gránitfalai között ér minket, biztonságban a széltől és az esőtől.",
             "ro": "Dimineața începe la Primărie, unde pridvorul oferă adăpost împotriva burniței normande.\n\nLa prânz, interioarele bisericilor oferă un răgaz uscat și momente de liniște pentru reflexie.\n\nDupă-amiaza ne retragem la muzeu, refugiul perfect pentru a admira arta locală în timp ce ploaia se intensifică.\n\nSeara se încheie la Saint-Pierre, unde zidurile groase de granit ne protejează de vântul umed de afară.",
-            "en": "Morning starts at the Town Hall, where the porch provides shelter from the drizzle.\n\nBy noon, the interiors of the modern and historic churches offer dry respite and quiet reflection.\n\nAfternoon brings us to the museum, the perfect indoor escape to admire local art while the rain intensifies outside.\n\nEvening concludes at Saint-Pierre, where thick granite walls protect us from the damp winds."
+            "en": "Morning starts at the Town Hall, where the porch provides shelter from the drizzle.\n\nBy noon, the interiors of the modern and historic churches offer dry respite and quiet reflection.\n\nAfternoon brings us to the museum, the perfect indoor escape to admire local art while the rain intensifies outside.\n\nEvening concludes at Saint-Pierre, where thick granite walls protect us from the damp winds.",
+            "fr": "La matinée commence à l'Hôtel de Ville, où le porche protège de la bruine. À midi, l'intérieur des églises modernes et historiques offre un refuge sec et un moment de recueillement. L'après-midi nous mène au musée, l'évasion intérieure parfaite pour admirer l'art local tandis que la pluie s'intensifie à l'extérieur. La soirée se termine à Saint-Pierre, où les épaisses murailles de granit nous protègent des vents humides."
           },
           "stops": [
             {
@@ -175,13 +189,15 @@
                 "de": "Rathaus",
                 "hu": "Városháza",
                 "ro": "Primăria",
-                "en": "Town Hall (Hôtel de Ville)"
+                "en": "Town Hall (Hôtel de Ville)",
+                "fr": "Hôtel de Ville"
               },
               "tip_5lang": {
                 "de": "Bewundern Sie die Nachkriegsarchitektur vom geschützten Eingang des Rathauses aus und bleiben Sie trocken, während Sie die geometrischen Linien beobachten.",
                 "hu": "Csodáld meg a háború utáni építészetet a városháza védett bejárata alól, így szárazon maradva figyelheted meg az újjáépítés geometrikus vonalait.",
                 "ro": "Admiră arhitectura postbelică de la intrarea adăpostită a Primăriei, rămânând uscat în timp ce observi liniile geometrice ale reconstrucției.",
-                "en": "Admire the post-war architecture from the sheltered entrance of the Town Hall, keeping dry while observing the geometric lines of the reconstruction."
+                "en": "Admire the post-war architecture from the sheltered entrance of the Town Hall, keeping dry while observing the geometric lines of the reconstruction.",
+                "fr": "Admirez l'architecture d'après-guerre depuis l'entrée abritée de l'Hôtel de Ville, en restant au sec tout en observant les lignes géométriques de la reconstruction."
               }
             },
             {
@@ -189,13 +205,15 @@
                 "de": "Église Saint-Sauveur",
                 "hu": "Église Saint-Sauveur",
                 "ro": "Biserica Saint-Sauveur",
-                "en": "Église Saint-Sauveur"
+                "en": "Église Saint-Sauveur",
+                "fr": "Église Saint-Sauveur"
               },
               "tip_5lang": {
                 "de": "Treten Sie ein, um die modernen Glasmalereien zu bewundern; das Innere bietet den perfekten Schutz vor einem plötzlichen normannischen Regenschauer.",
                 "hu": "Lépj be a templomba, hogy megcsodáld a modern üvegablakokat; a belső tér tökéletes menedéket nyújt egy hirtelen jött normandiai zápor elől.",
                 "ro": "Intră pentru a admira vitraliile moderne; interiorul oferă adăpostul perfect împotriva unei averse bruște normande în timpul plimbării tale.",
-                "en": "Step inside to admire the modern stained glass; the interior provides the perfect shelter from a sudden Norman rain shower during your tour."
+                "en": "Step inside to admire the modern stained glass; the interior provides the perfect shelter from a sudden Norman rain shower during your tour.",
+                "fr": "Entrez pour admirer les vitraux modernes ; l'intérieur constitue l'abri parfait contre une averse normande soudaine lors de votre visite."
               }
             },
             {
@@ -203,13 +221,15 @@
                 "de": "Tempel",
                 "hu": "Protestáns templom",
                 "ro": "Templul protestant",
-                "en": "Temple"
+                "en": "Temple",
+                "fr": "Temple protestant"
               },
               "tip_5lang": {
                 "de": "Beobachten Sie die schlichte Betonarchitektur dieses Tempels von innen, wo es trocken ist und der Regen auf dem Dach eine meditative Atmosphäre schafft.",
                 "hu": "Figyeld meg a templom letisztult betonépítészetét belülről, ahol szárazon maradhatsz, miközben az eső kopogása különleges, meditatív hangulatot áraszt.",
                 "ro": "Observă arhitectura sobră din beton a acestui templu din interior, unde este uscat, iar sunetul ploii pe acoperiș creează o atmosferă meditativă.",
-                "en": "Observe the sleek concrete architecture of this temple from the dry interior, where the sound of rain on the roof creates a meditative atmosphere."
+                "en": "Observe the sleek concrete architecture of this temple from the dry interior, where the sound of rain on the roof creates a meditative atmosphere.",
+                "fr": "Observez l'architecture sobre en béton de ce temple depuis l'intérieur sec, où le bruit de la pluie sur le toit crée une atmosphère méditative."
               }
             },
             {
@@ -217,13 +237,15 @@
                 "de": "Ufer der Noireau",
                 "hu": "A Noireau partja",
                 "ro": "Malurile râului Noireau",
-                "en": "Banks of the Noireau"
+                "en": "Banks of the Noireau",
+                "fr": "Bords de la Noireau"
               },
               "tip_5lang": {
                 "de": "Genießen Sie den Blick auf den Fluss von der Brücke aus, aber tragen Sie wasserfeste Schuhe, da die Uferwege bei Regen stellenweise rutschig sein können.",
                 "hu": "Élvezd a folyóra nyíló kilátást a híd fedezékéből, de viselj vízálló cipőt, mert a parti ösvények esőben helyenként csúszósak lehetnek.",
                 "ro": "Bucură-te de vederea spre râu de la adăpostul podului, dar poartă încălțăminte impermeabilă, deoarece potecile pot fi alunecoase pe timp de ploaie.",
-                "en": "Enjoy the river views from the shelter of the bridge, but wear waterproof shoes as the riverside paths can be slippery in places when it rains."
+                "en": "Enjoy the river views from the shelter of the bridge, but wear waterproof shoes as the riverside paths can be slippery in places when it rains.",
+                "fr": "Profitez de la vue sur la rivière depuis l'abri du pont, mais portez des chaussures imperméables car les chemins riverains peuvent être glissants par endroits lorsqu'il pleut."
               }
             },
             {
@@ -231,13 +253,15 @@
                 "de": "Charles Léandre Museum",
                 "hu": "Charles Léandre Múzeum",
                 "ro": "Muzeul Charles Léandre",
-                "en": "Charles Léandre Museum"
+                "en": "Charles Léandre Museum",
+                "fr": "Musée Charles Léandre"
               },
               "tip_5lang": {
                 "de": "Nutzen Sie den Regen für einen ausgiebigen Museumsbesuch; es ist der beste Ort, um Stunden im Trockenen zwischen faszinierender Kunst zu verbringen.",
                 "hu": "Használd ki az esőt egy hosszabb múzeumlátogatásra; ez a legjobb hely a városban, hogy órákat tölts el szárazon a lenyűgöző műalkotások között.",
                 "ro": "Profită de ploaie pentru o vizită prelungită la acest muzeu; este cel mai bun loc pentru a petrece ore în șir la adăpost, printre opere de artă.",
-                "en": "Take advantage of the rain for an extended museum visit; it is the best place in town to spend hours in the dry among fascinating artworks."
+                "en": "Take advantage of the rain for an extended museum visit; it is the best place in town to spend hours in the dry among fascinating artworks.",
+                "fr": "Profitez de la pluie pour une visite prolongée du musée ; c'est le meilleur endroit en ville pour passer des heures au sec parmi des œuvres fascinantes."
               }
             },
             {
@@ -245,13 +269,15 @@
                 "de": "Église Saint-Pierre",
                 "hu": "Église Saint-Pierre",
                 "ro": "Biserica Saint-Pierre",
-                "en": "Église Saint-Pierre"
+                "en": "Église Saint-Pierre",
+                "fr": "Église Saint-Pierre"
               },
               "tip_5lang": {
                 "de": "Beenden Sie Ihren Tag in dieser robusten Granitkirche, deren dicke Mauern jeglichen Lärm des Regens und Windes draußen halten und für Stille sorgen.",
                 "hu": "Zárd a napot ebben a robusztus gránittemplomban, melynek vastag falai teljesen kirekesztik a kinti eső és szél zaját, biztosítva a belső csendet.",
                 "ro": "Încheie ziua în această biserică robustă de granit, ale cărei ziduri groase izolează perfect zgomotul ploii și al vântului de afară.",
-                "en": "End your day in this robust granite church, whose thick walls shut out all noise of the rain and wind outside, ensuring a peaceful atmosphere."
+                "en": "End your day in this robust granite church, whose thick walls shut out all noise of the rain and wind outside, ensuring a peaceful atmosphere.",
+                "fr": "Terminez votre journée dans cette robuste église de granit, dont les murs épais étouffent le bruit de la pluie et du vent à l'extérieur, assurant une atmosphère paisible."
               }
             }
           ]
@@ -261,7 +287,8 @@
             "de": "Der frostige Morgen beginnt am Rathausplatz, wo die klare Luft die Konturen des Gebäudes scharf hervortreten lässt.\n\nMittags bieten die beheizten Innenräume der Kirchen einen warmen Zufluchtsort während des Spaziergangs.\n\nAm Nachmittag lädt das Museum mit seiner reichen Sammlung ein, wo man sich gemütlich zwischen den Kunstwerken aufwärmen kann.\n\nDer Abend bricht früh gegen 17 Uhr an, daher besuchen wir Saint-Pierre, bevor die Dunkelheit einsetzt.",
             "hu": "A fagyos reggelt a városháza előtti téren kezdjük, ahol a hideg levegőben élesebben látszanak az épület kontúrjai.\n\nDélben a fűtött templomok belső terei nyújtanak meleg menedéket és lelki feltöltődést a séta közben.\n\nDélután a múzeum gazdag gyűjteménye vár, ahol kényelmesen átmelegedhetünk a műalkotások között.\n\nAz este korán, már öt óra körül leszáll, így a Saint-Pierre templomot még a sötétedés előtt érdemes meglátogatni.",
             "ro": "Dimineața geroasă începe în piața Primăriei, unde aerul rece face ca contururile clădirii să iasă în evidență cu claritate.\n\nLa prânz, interioarele încălzite ale bisericilor oferă un sanctuar cald și relaxare în timpul plimbării.\n\nDupă-amiaza ne invită la colecția bogată a muzeului, unde ne putem încălzi confortabil printre operele de artă.\n\nSeara cade devreme, în jurul orei 17:00, așa că vizităm Biserica Saint-Pierre înainte de lăsarea întunericului.",
-            "en": "The frosty morning begins at the Town Hall square, where the crisp air makes the building's contours stand out sharply.\n\nAt noon, the heated interiors of the churches provide a warm sanctuary and spiritual refreshment during the walk.\n\nThe afternoon invites us to the museum's rich collection, where we can comfortably warm up among the artworks.\n\nEvening falls early around 5 PM, so visit Saint-Pierre Church before the winter darkness sets in completely."
+            "en": "The frosty morning begins at the Town Hall square, where the crisp air makes the building's contours stand out sharply.\n\nAt noon, the heated interiors of the churches provide a warm sanctuary and spiritual refreshment during the walk.\n\nThe afternoon invites us to the museum's rich collection, where we can comfortably warm up among the artworks.\n\nEvening falls early around 5 PM, so visit Saint-Pierre Church before the winter darkness sets in completely.",
+            "fr": "La matinée gelée commence sur la place de l'Hôtel de Ville, où l'air vif fait ressortir nettement les contours du bâtiment. À midi, les intérieurs chauffés des églises offrent un sanctuaire chaleureux et un ressourcement spirituel durant la promenade. L'après-midi nous invite à la riche collection du musée, où nous pouvons nous réchauffer confortablement parmi les œuvres. Le soir tombe tôt vers 17 h, pensez à visiter l'église Saint-Pierre avant que l'obscurité hivernale ne s'installe complètement."
           },
           "stops": [
             {
@@ -269,13 +296,15 @@
                 "de": "Rathaus",
                 "hu": "Városháza",
                 "ro": "Primăria",
-                "en": "Town Hall (Hôtel de Ville)"
+                "en": "Town Hall (Hôtel de Ville)",
+                "fr": "Hôtel de Ville"
               },
               "tip_5lang": {
                 "de": "Achten Sie auf Frostmuster auf dem Platz und tragen Sie Thermokleidung, um die Erklärungen zur Wiederaufbaugeschichte der Stadt im Freien zu genießen.",
                 "hu": "Figyeld meg a zúzmarát a téren, és viselj réteges öltözetet, hogy kényelmesen hallgasd végig a város újjáépítésének történetét a szabadban.",
                 "ro": "Observă modelele de chiciură din piață și poartă haine termice pentru a te bucura de explicațiile despre reconstrucția orașului în aer liber.",
-                "en": "Notice the frost patterns on the square and wear thermal layers to enjoy the outdoor explanation of the city's reconstruction history comfortably."
+                "en": "Notice the frost patterns on the square and wear thermal layers to enjoy the outdoor explanation of the city's reconstruction history comfortably.",
+                "fr": "Remarquez les motifs de givre sur la place et portez des couches thermiques pour profiter confortablement de l'explication en plein air sur l'histoire de la reconstruction de la ville."
               }
             },
             {
@@ -283,13 +312,15 @@
                 "de": "Église Saint-Sauveur",
                 "hu": "Église Saint-Sauveur",
                 "ro": "Biserica Saint-Sauveur",
-                "en": "Église Saint-Sauveur"
+                "en": "Église Saint-Sauveur",
+                "fr": "Église Saint-Sauveur"
               },
               "tip_5lang": {
                 "de": "Genießen Sie das moderne Buntglas, das selbst bei tiefstehender Wintersonne ein einzigartiges Leuchten erzeugt und eine warme Pause bietet.",
                 "hu": "Csodáld meg a modern üvegablakokat, melyek még az alacsonyan járó téli napfényben is különleges fényt árasztanak, miközben bent megpihensz.",
                 "ro": "Admiră vitraliile moderne care creează o strălucire unică chiar și sub soarele slab de iarnă, oferind o pauză caldă de la frigul de afară.",
-                "en": "Appreciate the modern stained glass which creates a unique glow even with the low winter sun, providing a peaceful and warm break from the cold."
+                "en": "Appreciate the modern stained glass which creates a unique glow even with the low winter sun, providing a peaceful and warm break from the cold.",
+                "fr": "Appréciez les vitraux modernes qui créent une lueur unique même avec le faible soleil d'hiver, offrant une pause paisible et chaude du froid."
               }
             },
             {
@@ -297,13 +328,15 @@
                 "de": "Tempel",
                 "hu": "Protestáns templom",
                 "ro": "Templul protestant",
-                "en": "Temple"
+                "en": "Temple",
+                "fr": "Temple protestant"
               },
               "tip_5lang": {
                 "de": "Betrachten Sie die schlichte Schönheit dieses Tempels, der in der ruhigen, grauen Winteratmosphäre der Normandie besonders feierlich wirkt.",
                 "hu": "Figyeld meg a templom minimalista szépségét, amely különösen ünnepélyesnek hat Normandia csendes, szürke téli hangulatában a séta során.",
                 "ro": "Observă frumusețea minimalistă a acestui templu, care pare deosebit de solemn în atmosfera liniștită și gri de iarnă a regiunii Normandia.",
-                "en": "Observe the minimalist beauty of this temple, which feels particularly solemn in the quiet, grey winter atmosphere of Normandy during your walk."
+                "en": "Observe the minimalist beauty of this temple, which feels particularly solemn in the quiet, grey winter atmosphere of Normandy during your walk.",
+                "fr": "Observez la beauté minimaliste de ce temple, qui paraît particulièrement solennel dans l'atmosphère grise et calme de l'hiver normand lors de votre promenade."
               }
             },
             {
@@ -311,13 +344,15 @@
                 "de": "Ufer der Noireau",
                 "hu": "A Noireau partja",
                 "ro": "Malurile râului Noireau",
-                "en": "Banks of the Noireau"
+                "en": "Banks of the Noireau",
+                "fr": "Bords de la Noireau"
               },
               "tip_5lang": {
                 "de": "Beobachten Sie den Morgennebel über dem kalten Fluss, aber gehen Sie zügig und tragen Sie warme Stiefel, um eventuelle vereiste Stellen zu meiden.",
                 "hu": "Figyeld meg a reggeli párát a hideg folyó felett, de haladj tempósan és viselj meleg bakancsot az esetleges jeges foltok elkerülése érdekében.",
                 "ro": "Observă ceața dimineții deasupra râului rece, dar mergi vioi și poartă cizme călduroase pentru a evita eventualele porțiuni înghețate.",
-                "en": "Watch the morning mist rise from the cold river water, but keep your walk brisk and wear warm boots to handle any potential icy patches on the path."
+                "en": "Watch the morning mist rise from the cold river water, but keep your walk brisk and wear warm boots to handle any potential icy patches on the path.",
+                "fr": "Regardez la brume matinale s'élever de l'eau froide de la rivière, mais gardez un rythme soutenu et portez des bottes chaudes pour affronter d'éventuelles plaques de verglas sur le chemin."
               }
             },
             {
@@ -325,13 +360,15 @@
                 "de": "Charles Léandre Museum",
                 "hu": "Charles Léandre Múzeum",
                 "ro": "Muzeul Charles Léandre",
-                "en": "Charles Léandre Museum"
+                "en": "Charles Léandre Museum",
+                "fr": "Musée Charles Léandre"
               },
               "tip_5lang": {
                 "de": "Verweilen Sie länger in den beheizten Galerien; dies ist der beste Ort, um dem beißenden Nachmittagswind und der Kälte draußen zu entkommen.",
                 "hu": "Tölts el több időt a fűtött galériákban; ez a legjobb hely a városban, hogy elmenekülj a csípős délutáni szél és a kinti hideg elől.",
                 "ro": "Petrece mai mult timp în galeriile încălzite; acesta este cel mai bun loc pentru a scăpa de vântul tăios de după-amiază și de frigul de afară.",
-                "en": "Spend extra time in the heated galleries; this is the best place in town to escape the biting afternoon wind and the freezing cold outside."
+                "en": "Spend extra time in the heated galleries; this is the best place in town to escape the biting afternoon wind and the freezing cold outside.",
+                "fr": "Passez plus de temps dans les salles chauffées ; c’est le meilleur endroit en ville pour échapper au vent piquant de l’après‑midi et au froid glacial extérieur."
               }
             },
             {
@@ -339,13 +376,15 @@
                 "de": "Église Saint-Pierre",
                 "hu": "Église Saint-Pierre",
                 "ro": "Biserica Saint-Pierre",
-                "en": "Église Saint-Pierre"
+                "en": "Église Saint-Pierre",
+                "fr": "Église Saint‑Pierre"
               },
               "tip_5lang": {
                 "de": "Kommen Sie vor dem Sonnenuntergang um 17 Uhr an, um die Granitstruktur im Licht der blauen Stunde zu sehen, und tragen Sie eine warme Mütze.",
                 "hu": "Érkezz meg az ötszöri naplemente előtt, hogy még lásd a gránit falakat a kék óra fényeiben, és ne felejts el meleg sapkát húzni.",
                 "ro": "Sosește înainte de apusul de la ora 17:00 pentru a vedea textura granitului în lumina orei albastre și asigură-te că ai o căciulă călduroasă.",
-                "en": "Arrive here before the 5 PM sunset to see the granite texture in the blue hour light, and ensure you have a warm hat for the final stretch."
+                "en": "Arrive here before the 5 PM sunset to see the granite texture in the blue hour light, and ensure you have a warm hat for the final stretch.",
+                "fr": "Arrivez ici avant le coucher du soleil à 17h pour voir la texture du granit à l’heure bleue, et assurez‑vous d’avoir un bonnet chaud pour la dernière partie."
               }
             }
           ]
@@ -365,7 +404,8 @@
             "de": "Chapelle Saint-Jacques",
             "hu": "Chapelle Saint-Jacques",
             "ro": "Capela Saint-Jacques",
-            "en": "Chapelle Saint-Jacques"
+            "en": "Chapelle Saint-Jacques",
+            "fr": "Chapelle Saint‑Jacques"
           },
           "coords": [
             -0.53694,
@@ -380,7 +420,8 @@
             "de": "Beginnen Sie Ihre Radtour an dieser charmanten Kapelle im Grünen und achten Sie darauf, Ihr Fahrrad sicher an der alten Steinmauer abzustellen, bevor Sie eintreten.",
             "hu": "Kezdje a kerékpártúrát ennél a bájos, zöldövezetben megbúvó út menti kápolnánál, és ügyeljen arra, hogy a kerékpárját biztonságosan a régi kőfalhoz rögzítse belépés előtt.",
             "ro": "Începeți turul cu bicicleta la această capelă fermecătoare de pe marginea drumului, ascunsă în verdeață, având grijă să vă parcați bicicleta în siguranță la zidul vechi de piatră.",
-            "en": "Kick off your cycling tour at this charming roadside chapel nestled in greenery, taking care to park your bike securely by the old stone wall before entering."
+            "en": "Kick off your cycling tour at this charming roadside chapel nestled in greenery, taking care to park your bike securely by the old stone wall before entering.",
+            "fr": "Commencez votre randonnée à vélo à cette charmante chapelle de bord de route nichée dans la verdure en veillant à garer votre vélo en sécurité contre le vieux mur de pierre avant d’entrer."
           }
         },
         {
@@ -388,7 +429,8 @@
             "de": "Rathaus",
             "hu": "Városháza",
             "ro": "Primăria",
-            "en": "Town Hall (Hôtel de Ville)"
+            "en": "Town Hall (Hôtel de Ville)",
+            "fr": "Hôtel de Ville"
           },
           "coords": [
             -0.55103,
@@ -403,7 +445,8 @@
             "de": "Radeln Sie ins Stadtzentrum, um den belebten Rathausplatz als Symbol des modernen Wiederaufbaus zu sehen, und machen Sie eine Pause in einem Café für ein kaltes lokales Getränk.",
             "hu": "Tekerjen be a városközpontba, hogy megtekintse a nyüzsgő városháza teret, amely a modern újjáépítést képviseli, és tartson szünetet egy közeli kávézóban egy hideg italra.",
             "ro": "Mergeți cu bicicleta în centrul orașului pentru a vedea piața primăriei ce reprezintă reconstrucția modernă, oprindu-vă la o cafenea din apropiere pentru a vă răcori cu o băutură.",
-            "en": "Cycle into the town center to view the bustling town hall square representing the modern rebuild, pausing at a nearby café to refresh yourself with a cold local beverage."
+            "en": "Cycle into the town center to view the bustling town hall square representing the modern rebuild, pausing at a nearby café to refresh yourself with a cold local beverage.",
+            "fr": "Roulez jusqu’au centre‑ville pour voir la place animée de l’hôtel de ville représentant la reconstruction moderne, en faisant une pause dans un café voisin pour vous rafraîchir avec une boisson locale froide."
           }
         },
         {
@@ -411,7 +454,8 @@
             "de": "Charles Léandre Museum",
             "hu": "Charles Léandre Múzeum",
             "ro": "Muzeul Charles Léandre",
-            "en": "Charles Léandre Museum"
+            "en": "Charles Léandre Museum",
+            "fr": "Musée Charles Léandre"
           },
           "coords": [
             -0.551285,
@@ -426,7 +470,8 @@
             "de": "Erkunden Sie eine außergewöhnliche Sammlung von Karikaturen und Gemälden, die den Geist der Normandie einfangen, und nutzen Sie die Fahrradständer direkt gegenüber dem Eingang.",
             "hu": "Fedezze fel a karikatúrák és festmények kivételes gyűjteményét, amely megragadja Normandia szellemét, és használja a főbejárattal szemben található kényelmes kerékpártárolókat.",
             "ro": "Explorați o colecție excepțională de caricaturi și picturi care surprind spiritul Normandiei și folosiți suporturile pentru biciclete situate chiar vizavi de intrarea principală.",
-            "en": "Explore an exceptional collection of caricatures and paintings that capture Normandy’s spirit, and use the convenient bike racks located directly opposite the main entrance."
+            "en": "Explore an exceptional collection of caricatures and paintings that capture Normandy’s spirit, and use the convenient bike racks located directly opposite the main entrance.",
+            "fr": "Explorez une exceptionnelle collection de caricatures et de peintures qui captent l’esprit de la Normandie, et utilisez les arceaux à vélos pratiques situés juste en face de l’entrée principale."
           }
         },
         {
@@ -434,7 +479,8 @@
             "de": "Ufer der Noireau",
             "hu": "A Noireau partja",
             "ro": "Malurile râului Noireau",
-            "en": "Banks of the Noireau"
+            "en": "Banks of the Noireau",
+            "fr": "Bords de la Noireau"
           },
           "coords": [
             -0.550716,
@@ -449,7 +495,8 @@
             "de": "Fahren Sie gemütlich an den Uferwegen entlang und beobachten Sie die historischen Mühlenstandorte, wobei Sie auf Fußgänger achten sollten, die diese schöne Route teilen.",
             "hu": "Kerekezzen kényelmesen a folyóparti ösvényeken, megfigyelve a történelmi malmokat, és ügyeljen a gyalogosokra, akik szintén ezt a gyönyörű, festői vízparti útvonalat használják.",
             "ro": "Mergeți relaxat de-a lungul potecilor râului, observând siturile istorice ale morilor, fiind atenți la pietonii care împart această rută pitorească de pe malul apei.",
-            "en": "Ride leisurely along the river pathways observing the gentle flow and historical mill sites, being mindful of pedestrians who share this lovely scenic waterside route."
+            "en": "Ride leisurely along the river pathways observing the gentle flow and historical mill sites, being mindful of pedestrians who share this lovely scenic waterside route.",
+            "fr": "Roulez tranquillement le long des chemins riverains en observant le cours paisible et les anciens sites de moulins, en faisant attention aux piétons qui partagent ce joli itinéraire au bord de l’eau."
           }
         },
         {
@@ -457,7 +504,8 @@
             "de": "Maurice Piard Park",
             "hu": "Maurice Piard Park",
             "ro": "Parcul Maurice Piard",
-            "en": "Maurice Piard Park"
+            "en": "Maurice Piard Park",
+            "fr": "Parc Maurice Piard"
           },
           "coords": [
             -0.576551,
@@ -472,7 +520,8 @@
             "de": "Genießen Sie eine längere Fahrt zu diesem weitläufigen grünen Park, der ideal für ein Picknick ist, und achten Sie darauf, auf den ausgewiesenen Radwegen im Erholungsgebiet zu bleiben.",
             "hu": "Élvezze a hosszabb utat ehhez a tágas zöld parkhoz, amely ideális egy déli piknikhez és pihenéshez, de ügyeljen arra, hogy a kijelölt kerékpárutakon maradjon a pihenőövezetben.",
             "ro": "Bucurați-vă de o plimbare mai lungă până la acest parc verde spațios, ideal pentru un picnic și relaxare la prânz, asigurându-vă că rămâneți pe pistele de biciclete desemnate.",
-            "en": "Enjoy a longer ride out to this spacious green park ideal for a midday picnic and relaxation, making sure to stick to the designated cycling paths within the recreational area."
+            "en": "Enjoy a longer ride out to this spacious green park ideal for a midday picnic and relaxation, making sure to stick to the designated cycling paths within the recreational area.",
+            "fr": "Profitez d’une longue balade jusqu’à ce vaste parc verdoyant idéal pour un pique‑nique et la détente à midi, en veillant à rester sur les pistes cyclables désignées de l’aire de loisirs."
           }
         },
         {
@@ -480,7 +529,8 @@
             "de": "Chapelle Saint-Martin-des-Champs",
             "hu": "Chapelle Saint-Martin-des-Champs",
             "ro": "Capela Saint-Martin-des-Champs",
-            "en": "Chapelle Saint-Martin-des-Champs"
+            "en": "Chapelle Saint-Martin-des-Champs",
+            "fr": "Chapelle Saint‑Martin‑des‑Champs"
           },
           "coords": [
             -0.514679,
@@ -495,7 +545,8 @@
             "de": "Radeln Sie zu dieser abgelegenen, von Feldern umgebenen alten Kapelle, um Ihren Tag in völliger Ruhe zu beenden, aber bringen Sie Wasser mit, da es hier kaum Einrichtungen gibt.",
             "hu": "Tekerjen el ehhez a mezőkkel körülvett, eldugott ősi kápolnához, hogy teljes nyugalomban fejezze be a napját, de hozzon magával vizet, mivel a vidéki külvárosban kevés a szolgáltatás.",
             "ro": "Pedalați către această capelă antică izolată, înconjurată de câmpuri, pentru a vă încheia ziua în seninătate, dar aduceți o sticlă de apă, deoarece facilitățile rurale sunt rare.",
-            "en": "Pedal to this secluded ancient chapel surrounded by fields to end your day in total serenity, but bring a water bottle as amenities in this rural outskirts location are scarce."
+            "en": "Pedal to this secluded ancient chapel surrounded by fields to end your day in total serenity, but bring a water bottle as amenities in this rural outskirts location are scarce.",
+            "fr": "Pédalez jusqu’à cette chapelle rurale isolée entourée de champs pour finir la journée en totale sérénité, mais emportez une bouteille d’eau car les commodités en périphérie rurale sont rares."
           }
         }
       ],
@@ -503,7 +554,8 @@
         "de": "Morgen: Beginnen Sie Ihr Radabenteuer mit einem Besuch der ruhigen Chapelle Saint-Jacques am Stadtrand, bevor Sie ins belebte Zentrum zum Rathaus fahren.\nMittag: Tauchen Sie im Charles Léandre Museum in das lokale Erbe ein und entdecken Sie unglaubliche regionale Kunstwerke direkt im pulsierenden Kern der Stadt.\nNachmittag: Folgen Sie dem beruhigenden Flusslauf des Noireau mit dem Fahrrad und fahren Sie dann zum weitläufigen Maurice Piard Park für eine wohlverdiente Pause in der Natur.\nAbend: Beenden Sie Ihren Tag mit einer malerischen Fahrt zur ländlichen Chapelle Saint-Martin-des-Champs und genießen Sie die ruhigen Landstraßen in der Abenddämmerung.",
         "hu": "Délelőtt: Kezdje kerékpáros kalandját a város szélén álló békés Chapelle Saint-Jacques meglátogatásával, mielőtt a nyüzsgő központba indulna a Városháza felé.\nDél: Merüljön el a helyi örökségben egy alapos látogatással a Charles Léandre Múzeumban, felfedezve a hihetetlen regionális alkotásokat a város vibráló szívében.\nDélután: Kövesse kerékpárral a Noireau folyó megnyugtató áramlását, majd tekerjen ki a kiterjedt Maurice Piard Parkba egy jól megérdemelt pihenésre a természet lágy ölén.\nEste: Fejezze be a napot egy festői kerékpározással a vidéki Chapelle Saint-Martin-des-Champs felé, élvezve a csendes vidéki utakat, ahogy a nap lassan lenyugszik.",
         "ro": "Dimineață: Începeți aventura cu bicicleta vizitând senina Chapelle Saint-Jacques la marginea orașului, înainte de a vă îndrepta spre centrul plin de viață pentru Primărie.\nAmiază: Pătrundeți în moștenirea locală cu o vizită extinsă la Muzeul Charles Léandre, descoperind opere de artă regionale incredibile chiar în nucleul vibrant al orașului.\nDupă-amiază: Urmați curgerea liniștitoare a râului Noireau pe bicicletă, apoi mergeți către parcul spațios Maurice Piard pentru o odihnă binemeritată în mijlocul naturii.\nSeară: Încheiați ziua cu o plimbare pitorească spre rurala Chapelle Saint-Martin-des-Champs, bucurându-vă de drumurile de țară liniștite pe măsură ce soarele apune.",
-        "en": "Morning: Kick off your cycling adventure by visiting the serene Chapelle Saint-Jacques on the town's edge before heading into the bustling center to see the Town Hall.\nMidday: Dive into the local heritage with an extensive visit to the Charles Léandre Museum, discovering incredible regional artwork right in the vibrant core of the city.\nAfternoon: Follow the soothing flow of the Noireau river on your bike, then ride out to the expansive Maurice Piard Park for a well-deserved rest amidst nature.\nEvening: Finish your day with a scenic ride out to the rural Chapelle Saint-Martin-des-Champs, enjoying the quiet countryside roads as the sun slowly begins to set."
+        "en": "Morning: Kick off your cycling adventure by visiting the serene Chapelle Saint-Jacques on the town's edge before heading into the bustling center to see the Town Hall.\nMidday: Dive into the local heritage with an extensive visit to the Charles Léandre Museum, discovering incredible regional artwork right in the vibrant core of the city.\nAfternoon: Follow the soothing flow of the Noireau river on your bike, then ride out to the expansive Maurice Piard Park for a well-deserved rest amidst nature.\nEvening: Finish your day with a scenic ride out to the rural Chapelle Saint-Martin-des-Champs, enjoying the quiet countryside roads as the sun slowly begins to set.",
+        "fr": "Matin : Lancez votre aventure à vélo par la visite de la sereine Chapelle Saint‑Jacques à la périphérie de la ville avant de vous diriger vers le centre animé pour voir l’Hôtel de Ville.\nMidi : Plongez dans le patrimoine local avec une visite approfondie du Musée Charles Léandre, découvrant des œuvres régionales remarquables en plein cœur vibrant de la ville.\nAprès‑midi : Suivez le cours apaisant de la Noireau à vélo, puis rejoignez le vaste Parc Maurice Piard pour un repos bien mérité au milieu de la nature.\nSoir : Terminez la journée par une balade panoramique jusqu’à la Chapelle Saint‑Martin‑des‑Champs en milieu rural, en profitant des routes tranquilles alors que le soleil commence à se coucher."
       },
       "variants": {
         "rainy": {
@@ -511,7 +563,8 @@
             "de": "Der Morgen beginnt mit einer feuchten Fahrt zur Kapelle, wobei die regnerischen Hügel eine mystische Atmosphäre schaffen.\n\nMittags suchen wir Schutz im Stadtzentrum, wo das Rathaus einen trockenen Punkt für eine kurze Pause bietet.\n\nDer Nachmittag ist dem Museum gewidmet, der perfekten Gelegenheit, um Kleidung zu trocknen und Kunst zu genießen.\n\nAm Abend radeln wir vorsichtig auf nassen Straßen zurück, während die Lichter der Stadt im Regen glänzen.",
             "hu": "A reggel nedves úton indul a kápolna felé, az esős dombok misztikus hangulatot árasztanak. Délben a központban keresünk menedéket, ahol a városháza száraz pontot kínál a pihenéshez. A délután a múzeumé, ami tökéletes hely a ruhák megszárítására és a művészet élvezetére. Este óvatosan kerekezünk a vizes utakon, miközben a város fényei megcsillannak a tócsákban.",
             "ro": "Dimineața începe cu o plimbare umedă spre capelă, dealurile ploioase creând o atmosferă mistică în peisaj.\n\nLa prânz căutăm adăpost în centrul orașului, unde zona Primăriei oferă un punct uscat pentru o scurtă pauză.\n\nDupă-amiaza este dedicată muzeului, ocazia perfectă pentru a usca hainele și a te bucura de artă la adăpost.\n\nSeara pedalăm cu atenție pe străzile ude, în timp ce luminile orașului se reflectă în ploaie.",
-            "en": "The morning starts with a damp ride to the chapel, with the rainy hills creating a mystical atmosphere in the landscape.\n\nAt noon we seek shelter in the town center, where the Town Hall area offers a dry spot for a quick break.\n\nThe afternoon is dedicated to the museum, the perfect opportunity to dry off clothes and enjoy art away from the rain.\n\nIn the evening, we cycle back carefully on wet roads as the city lights shimmer in the rain."
+            "en": "The morning starts with a damp ride to the chapel, with the rainy hills creating a mystical atmosphere in the landscape.\n\nAt noon we seek shelter in the town center, where the Town Hall area offers a dry spot for a quick break.\n\nThe afternoon is dedicated to the museum, the perfect opportunity to dry off clothes and enjoy art away from the rain.\n\nIn the evening, we cycle back carefully on wet roads as the city lights shimmer in the rain.",
+            "fr": "La matinée commence par une sortie humide vers la chapelle, les collines pluvieuses créant une atmosphère mystique sur le paysage.\n\nÀ midi nous cherchons un abri au centre‑ville, où la zone de l’Hôtel de Ville offre un endroit sec pour une courte pause.\n\nL’après‑midi est consacré au musée, l’occasion parfaite de sécher vos vêtements et d’apprécier l’art à l’abri de la pluie.\n\nLe soir, nous revenons à vélo prudemment sur des routes mouillées tandis que les lumières de la ville scintillent sous la pluie."
           },
           "stops": [
             {
@@ -519,13 +572,15 @@
                 "de": "Chapelle Saint-Jacques",
                 "hu": "Chapelle Saint-Jacques",
                 "ro": "Capela Saint-Jacques",
-                "en": "Chapelle Saint-Jacques"
+                "en": "Chapelle Saint-Jacques",
+                "fr": "Chapelle Saint‑Jacques"
               },
               "tip_5lang": {
                 "de": "Seien Sie vorsichtig beim Aufstieg, da die Straße zur Kapelle bei Nässe rutschig sein kann; der Blick auf das Tal ist im Regen sehr stimmungsvoll.",
                 "hu": "Légy óvatos az emelkedőn, mert a kápolnához vezető út nedvesen csúszós lehet; a völgyre nyíló kilátás esőben is rendkívül hangulatos.",
                 "ro": "Fii atent la urcare, deoarece drumul spre capelă poate fi alunecos când este ud; vederea spre vale este foarte pitorească chiar și pe ploaie.",
-                "en": "Use caution on the ascent as the road to the chapel can be slippery when wet; the view of the valley is moody and beautiful in the rain."
+                "en": "Use caution on the ascent as the road to the chapel can be slippery when wet; the view of the valley is moody and beautiful in the rain.",
+                "fr": "Faites attention à la montée car la route vers la chapelle peut être glissante par temps humide ; la vue sur la vallée est d’humeur mélancolique et superbe sous la pluie."
               }
             },
             {
@@ -533,13 +588,15 @@
                 "de": "Rathaus",
                 "hu": "Városháza",
                 "ro": "Primăria",
-                "en": "Town Hall (Hôtel de Ville)"
+                "en": "Town Hall (Hôtel de Ville)",
+                "fr": "Hôtel de Ville"
               },
               "tip_5lang": {
                 "de": "Machen Sie eine kurze Pause unter dem Dachvorsprung des Rathauses, um Ihre Ausrüstung zu überprüfen; der zentrale Ort bietet guten Schutz für Radfahrer.",
                 "hu": "Tarts egy rövid szünetet a városháza eresze alatt, hogy ellenőrizd a felszerelésedet; a központi helyszín jó védelmet nyújt a kerékpárosoknak.",
                 "ro": "Fă o scurtă pauză sub streașina Primăriei pentru a-ți verifica echipamentul; locația centrală oferă un adăpost bun pentru bicicliști pe ploaie.",
-                "en": "Take a short break under the town hall's overhang to check your gear; the central location provides good shelter for cyclists during a downpour."
+                "en": "Take a short break under the town hall's overhang to check your gear; the central location provides good shelter for cyclists during a downpour.",
+                "fr": "Faites une courte pause sous le auvent de l’hôtel de ville pour vérifier votre équipement ; l’emplacement central offre un bon abri pour les cyclistes pendant une averse."
               }
             },
             {
@@ -547,13 +604,15 @@
                 "de": "Charles Léandre Museum",
                 "hu": "Charles Léandre Múzeum",
                 "ro": "Muzeul Charles Léandre",
-                "en": "Charles Léandre Museum"
+                "en": "Charles Léandre Museum",
+                "fr": "Musée Charles Léandre"
               },
               "tip_5lang": {
                 "de": "Dies ist der perfekte Ort, um Ihre Fahrradkleidung trocknen zu lassen, während Sie die faszinierenden Kunstsammlungen im Inneren erkunden.",
                 "hu": "Ez a tökéletes helyszín, hogy hagyd megszáradni a kerékpáros ruházatodat, miközben felfedezed a bent található lenyűgöző művészeti gyűjteményt.",
                 "ro": "Acesta este locul perfect pentru a-ți lăsa hainele de ciclism să se usuce în timp ce explorezi colecțiile fascinante de artă din interior.",
-                "en": "This is the perfect long stop to let your cycling clothes dry off while you explore the fascinating art and history collections indoors."
+                "en": "This is the perfect long stop to let your cycling clothes dry off while you explore the fascinating art and history collections indoors.",
+                "fr": "C’est l’arrêt parfait pour laisser sécher vos vêtements de cyclisme pendant que vous explorez les fascinantes collections d’art et d’histoire à l’intérieur."
               }
             },
             {
@@ -561,13 +620,15 @@
                 "de": "Ufer der Noireau",
                 "hu": "A Noireau partja",
                 "ro": "Malurile râului Noireau",
-                "en": "Banks of the Noireau"
+                "en": "Banks of the Noireau",
+                "fr": "Bords de la Noireau"
               },
               "tip_5lang": {
                 "de": "Fahren Sie langsam am Flussweg entlang, um Spritzer zu vermeiden, und genießen Sie die satten grünen Farben, die der Regen hervorbringt.",
                 "hu": "Kerekezz lassan a folyóparti úton, hogy elkerüld a felfröccsenő vizet, és élvezd a buja zöld színeket, amiket az eső csal elő a tájból.",
                 "ro": "Pedalează încet pe poteca de lângă râu pentru a evita stropirea și bucură-te de culorile verzi intense pe care ploaia le scoate în evidență.",
-                "en": "Cycle slowly along the river path to avoid splashing, and enjoy the lush green colors that the rain brings out in the Norman landscape."
+                "en": "Cycle slowly along the river path to avoid splashing, and enjoy the lush green colors that the rain brings out in the Norman landscape.",
+                "fr": "Roulez lentement le long du chemin longeant la rivière pour éviter les éclaboussures, et profitez des verts luxuriants que la pluie fait ressortir dans le paysage normand."
               }
             },
             {
@@ -575,13 +636,15 @@
                 "de": "Maurice Piard Park",
                 "hu": "Maurice Piard Park",
                 "ro": "Parcul Maurice Piard",
-                "en": "Maurice Piard Park"
+                "en": "Maurice Piard Park",
+                "fr": "Parc Maurice Piard"
               },
               "tip_5lang": {
                 "de": "Bleiben Sie auf den asphaltierten Hauptwegen im Park, um Schlamm zu vermeiden, und suchen Sie unter großen Bäumen Schutz, wenn es stark regnet.",
                 "hu": "Maradj a park fő aszfaltozott útjain, hogy elkerüld a sarat, és keress menedéket a nagy fák alatt, ha eleredne a hevesebb eső.",
                 "ro": "Rămâi pe aleile principale asfaltate din parc pentru a evita noroiul și caută adăpost sub copacii mari dacă începe o ploaie torențială.",
-                "en": "Stick to the main paved avenues within the park to avoid mud, and find shelter under the large trees if a heavy shower starts."
+                "en": "Stick to the main paved avenues within the park to avoid mud, and find shelter under the large trees if a heavy shower starts.",
+                "fr": "Restez sur les grandes allées goudronnées du parc pour éviter la boue, et trouvez refuge sous les grands arbres si une forte averse survient."
               }
             },
             {
@@ -589,13 +652,15 @@
                 "de": "Chapelle Saint-Martin-des-Champs",
                 "hu": "Chapelle Saint-Martin-des-Champs",
                 "ro": "Capela Saint-Martin-des-Champs",
-                "en": "Chapelle Saint-Martin-des-Champs"
+                "en": "Chapelle Saint-Martin-des-Champs",
+                "fr": "Chapelle Saint‑Martin‑des‑Champs"
               },
               "tip_5lang": {
                 "de": "Prüfen Sie Ihre Bremsen vor der Abfahrt zu dieser Kapelle; nasse Felgen erfordern längere Bremswege in dieser ländlichen Gegend.",
                 "hu": "Ellenőrizd a fékeket a lejtő előtt ennél a kápolnánál; a vizes felnik hosszabb fékutat igényelnek ezen a csúszós vidéki szakaszon.",
                 "ro": "Verifică-ți frânele înainte de coborârea spre această chapelă izolată; jantele ude necesită distanțe de frânare mai mari în această zonă.",
-                "en": "Check your brakes before the final descent to this secluded chapel, as wet rims require longer stopping distances in this rural area."
+                "en": "Check your brakes before the final descent to this secluded chapel, as wet rims require longer stopping distances in this rural area.",
+                "fr": "Vérifiez vos freins avant la dernière descente vers cette chapelle isolée, car les jantes mouillées demandent des distances de freinage plus longues en zone rurale."
               }
             }
           ]
@@ -605,7 +670,8 @@
             "de": "Der frostige Morgen erfordert warme Schichten für die Fahrt zur Kapelle, wo die klare Winterluft weite Ausblicke ermöglicht.\n\nMittags machen wir einen schnellen Halt im Zentrum, bevor wir uns im beheizten Museum wieder aufwärmen.\n\nDer Nachmittag führt uns durch den winterlichen Park, wo die kahlen Bäume eine ganz eigene Schönheit entfalten.\n\nAm Abend müssen wir die Tour früh beenden, da die Temperaturen nach 16 Uhr drastisch sinken und es schnell dunkel wird.",
             "hu": "A fagyos reggel meleg rétegeket igényel a kápolnáig vezető úton, ahol a tiszta téli levegő messzi kilátást enged. Délben gyors megállót tartunk a központban, mielőtt a fűtött múzeumban engednénk fel a hideg után. A délután a téli parkon át vezet, ahol a kopár fák különleges szépséget mutatnak. Este korán be kell fejeznünk a túrát, mivel 16 óra után a hőmérséklet drasztikusan esik.",
             "ro": "Dimineața geroasă necesită straturi calde pentru drumul spre capelă, unde aerul curat de iarnă permite vederi panoramice asupra văii.\n\nLa prânz facem o scurtă oprire în centru, înainte de a ne încălzi din nou în muzeul primitor.\n\nDupă-amiaza ne poartă prin parcul hibernal, unde copacii golași dezvăluie o frumusețe aparte.\n\nSeara trebuie să încheiem turul devreme, deoarece se întunecă repede după ora 16:00.",
-            "en": "The frosty morning requires warm layers for the ride to the chapel, where the clear winter air allows for distant views over the valley.\n\nAt noon we make a quick stop in the center before warming up again in the heated museum.\n\nThe afternoon takes us through the winter park, where the bare trees reveal a unique, raw beauty in the low sun.\n\nIn the evening, we must finish the tour early as temperatures drop drastically after 4 PM and it gets dark quickly."
+            "en": "The frosty morning requires warm layers for the ride to the chapel, where the clear winter air allows for distant views over the valley.\n\nAt noon we make a quick stop in the center before warming up again in the heated museum.\n\nThe afternoon takes us through the winter park, where the bare trees reveal a unique, raw beauty in the low sun.\n\nIn the evening, we must finish the tour early as temperatures drop drastically after 4 PM and it gets dark quickly.",
+            "fr": "La matinée glaciale exige des couches chaudes pour la balade jusqu’à la chapelle, où l’air hivernal clair permet des vues lointaines sur la vallée.\n\nÀ midi nous faisons une courte halte au centre avant de nous réchauffer de nouveau au musée chauffé.\n\nL’après‑midi nous traverse le parc d’hiver, où les arbres dénudés révèlent une beauté brute unique sous le soleil bas.\n\nLe soir, il faut terminer la visite tôt car les températures chutent fortement après 16h et l’obscurité arrive vite."
           },
           "stops": [
             {
@@ -613,13 +679,15 @@
                 "de": "Chapelle Saint-Jacques",
                 "hu": "Chapelle Saint-Jacques",
                 "ro": "Capela Saint-Jacques",
-                "en": "Chapelle Saint-Jacques"
+                "en": "Chapelle Saint-Jacques",
+                "fr": "Chapelle Saint‑Jacques"
               },
               "tip_5lang": {
                 "de": "Tragen Sie winddichte Handschuhe für den Aufstieg zur Kapelle; die klare Winterluft bietet dort oben eine außergewöhnlich gute Fernsicht.",
                 "hu": "Viselj szélálló kesztyűt a kápolnához vezető emelkedőn; a tiszta téli levegő kivételesen messzi kilátást biztosít onnan fentről.",
                 "ro": "Poartă mănuși rezistente la vânt pentru urcarea spre capelă; aerul curat de iarnă oferă o vizibilitate excepțional de bună de acolo de sus.",
-                "en": "Wear windproof gloves for the uphill climb to the chapel; the clear winter air offers exceptionally clear views over the valley from up there."
+                "en": "Wear windproof gloves for the uphill climb to the chapel; the clear winter air offers exceptionally clear views over the valley from up there.",
+                "fr": "Portez des gants coupe‑vent pour la montée jusqu’à la chapelle ; l’air hivernal clair offre des vues exceptionnellement nettes sur la vallée depuis là‑haut."
               }
             },
             {
@@ -627,13 +695,15 @@
                 "de": "Rathaus",
                 "hu": "Városháza",
                 "ro": "Primăria",
-                "en": "Town Hall (Hôtel de Ville)"
+                "en": "Town Hall (Hôtel de Ville)",
+                "fr": "Hôtel de Ville"
               },
               "tip_5lang": {
                 "de": "Ein kurzer Halt auf dem Platz reicht bei der Kälte; bemerken Sie, wie die tiefe Sonne die Betonstrukturen der Nachkriegsbauten betont.",
                 "hu": "Egy rövid megálló a téren elég a hidegben; figyeld meg, hogyan emeli ki az alacsony napállás a háború utáni épületek betontextúráit.",
                 "ro": "O scurtă oprire în piață este suficientă pe frigul acesta; observă cum soarele jos scoate în evidență texturile de beton ale clădirilor postbelice.",
-                "en": "A quick stop at the square is enough in the cold; notice how the low sun highlights the post-war concrete textures of the central buildings."
+                "en": "A quick stop at the square is enough in the cold; notice how the low sun highlights the post-war concrete textures of the central buildings.",
+                "fr": "Une courte halte sur la place suffit par temps froid ; remarquez comment le soleil bas met en valeur les textures de béton d’après‑guerre des bâtiments centraux."
               }
             },
             {
@@ -641,13 +711,15 @@
                 "de": "Charles Léandre Museum",
                 "hu": "Charles Léandre Múzeum",
                 "ro": "Muzeul Charles Léandre",
-                "en": "Charles Léandre Museum"
+                "en": "Charles Léandre Museum",
+                "fr": "Musée Charles Léandre"
               },
               "tip_5lang": {
                 "de": "Nutzen Sie den Museumsbesuch als Aufwärmpause, um das Gefühl in Ihren Fingern wiederzuerlangen, bevor Sie die Fahrt fortsetzen.",
                 "hu": "Használd a múzeumlátogatást fő melegedő szünetként, hogy visszanyerd az érzést az ujjaidban, mielőtt folytatnád a tekerést a hidegben.",
                 "ro": "Folosește vizita la muzeu ca pauză principală de încălzire pentru a-ți recăpăta sensibilitatea în degete înainte de a continua drumul.",
-                "en": "Use the museum visit as a primary warm-up break to regain feeling in your fingers before continuing your ride through the cold countryside."
+                "en": "Use the museum visit as a primary warm-up break to regain feeling in your fingers before continuing your ride through the cold countryside.",
+                "fr": "Utilisez la visite du musée comme principal moment pour vous réchauffer et retrouver la sensibilité des doigts avant de poursuivre votre route à travers la campagne froide."
               }
             },
             {
@@ -655,13 +727,15 @@
                 "de": "Ufer der Noireau",
                 "hu": "A Noireau partja",
                 "ro": "Malurile râului Noireau",
-                "en": "Banks of the Noireau"
+                "en": "Banks of the Noireau",
+                "fr": "Bords de la Noireau"
               },
               "tip_5lang": {
                 "de": "Achten Sie auf Glatteis am Flussufer, besonders am frühen Morgen oder in schattigen Abschnitten der Strecke; fahren Sie vorsichtig.",
                 "hu": "Vigyázz a felfagyásokkal a folyópart mentén, különösen kora reggel vagy az árnyékos szakaszokon; kerekezz fokozott figyelemmel.",
                 "ro": "Ai grijă la polei pe malul râului, în special dimineața devreme sau pe secțiunile umbrite ale traseului; pedalează cu maximă prudență.",
-                "en": "Be mindful of black ice near the water's edge on the river path, especially in the early morning or shaded sections of the route."
+                "en": "Be mindful of black ice near the water's edge on the river path, especially in the early morning or shaded sections of the route.",
+                "fr": "Faites attention au verglas près du bord de l’eau sur le chemin de la rivière, surtout tôt le matin ou dans les sections ombragées de l’itinéraire."
               }
             },
             {
@@ -669,13 +743,15 @@
                 "de": "Maurice Piard Park",
                 "hu": "Maurice Piard Park",
                 "ro": "Parcul Maurice Piard",
-                "en": "Maurice Piard Park"
+                "en": "Maurice Piard Park",
+                "fr": "Parc Maurice Piard"
               },
               "tip_5lang": {
                 "de": "Genießen Sie die herbe Schönheit der Winterbäume, aber beenden Sie Ihren Besuch im Park bis 15:30 Uhr wegen der sinkenden Temperaturen.",
                 "hu": "Élvezd a téli fák nyers szépségét, de tervezd úgy, hogy 15:30-ig befejezd a parklátogatást a gyorsan csökkenő hőmérséklet miatt.",
                 "ro": "Bucură-te de frumusețea austeră a copacilor de iarnă, dar încearcă să închei vizita în parc până la ora 15:30 din cauza frigului.",
-                "en": "Enjoy the stark beauty of the winter trees, but aim to finish your park visit by 3:30 PM to avoid the rapidly dropping temperatures."
+                "en": "Enjoy the stark beauty of the winter trees, but aim to finish your park visit by 3:30 PM to avoid the rapidly dropping temperatures.",
+                "fr": "Appréciez la beauté austère des arbres d’hiver, mais prévoyez de terminer votre visite du parc avant 15h30 pour éviter la chute rapide des températures."
               }
             },
             {
@@ -683,13 +759,15 @@
                 "de": "Chapelle Saint-Martin-des-Champs",
                 "hu": "Chapelle Saint-Martin-des-Champs",
                 "ro": "Capela Saint-Martin-des-Champs",
-                "en": "Chapelle Saint-Martin-des-Champs"
+                "en": "Chapelle Saint-Martin-des-Champs",
+                "fr": "Chapelle Saint‑Martin‑des‑Champs"
               },
               "tip_5lang": {
                 "de": "Stellen Sie sicher, dass Ihre Fahrradbeleuchtung funktioniert, da das Licht an dieser Kapelle nach 16:30 Uhr schnell nachlässt.",
                 "hu": "Győződj meg róla, hogy a lámpáid működnek, mivel a fény ennél az elszigetelt kápolnánál 16:30 után már nagyon gyorsan fogyatkozik.",
                 "ro": "Asigură-te că luminile bicicletei funcționează, deoarece lumina scade rapid lângă această capelă izolată după ora 16:30.",
-                "en": "Ensure your bike lights are working for the return trip, as the light fades fast near this remote chapel after 4:30 PM in winter."
+                "en": "Ensure your bike lights are working for the return trip, as the light fades fast near this remote chapel after 4:30 PM in winter.",
+                "fr": "Assurez‑vous que vos lumières de vélo fonctionnent pour le retour, car la lumière baisse rapidement près de cette chapelle isolée après 16h30 en hiver."
               }
             }
           ]
@@ -709,7 +787,8 @@
             "de": "Chapelle Notre-Dame-des-Vallées",
             "hu": "Chapelle Notre-Dame-des-Vallées",
             "ro": "Capela Notre-Dame-des-Vallées",
-            "en": "Chapelle Notre-Dame-des-Vallées"
+            "en": "Chapelle Notre-Dame-des-Vallées",
+            "fr": "Chapelle Notre‑Dame‑des‑Vallées"
           },
           "coords": [
             -0.515881,
@@ -724,7 +803,8 @@
             "de": "Fahren Sie zu dieser wunderschön restaurierten Talkapelle mit weitem Blick über die normannische Landschaft und parken Sie vorsichtig am schmalen Schotterrand in der Nähe.",
             "hu": "Vezessen ki ehhez a gyönyörűen felújított völgyi kápolnához, amely lenyűgöző kilátást nyújt a normann vidékre, és óvatosan parkoljon a helyszínt megközelítő keskeny kavicsos padkán.",
             "ro": "Conduceți spre această capelă de vale frumos restaurată, care oferă vederi panoramice ale peisajului normand, și parcați cu atenție pe acostamentul îngust de pietriș de la intrare.",
-            "en": "Drive out to this beautifully restored valley chapel offering sweeping views of the Norman countryside, and park carefully along the narrow gravel shoulder approaching the site."
+            "en": "Drive out to this beautifully restored valley chapel offering sweeping views of the Norman countryside, and park carefully along the narrow gravel shoulder approaching the site.",
+            "fr": "Partez en voiture jusqu’à cette chapelle de vallée magnifiquement restaurée offrant des vues panoramiques de la campagne normande, et garez‑vous avec précaution sur la petite bande de gravier étroite menant au site."
           }
         },
         {
@@ -732,7 +812,8 @@
             "de": "Chapelle Saint-Martin-des-Champs",
             "hu": "Chapelle Saint-Martin-des-Champs",
             "ro": "Capela Saint-Martin-des-Champs",
-            "en": "Chapelle Saint-Martin-des-Champs"
+            "en": "Chapelle Saint-Martin-des-Champs",
+            "fr": "Chapelle Saint‑Martin‑des‑Champs"
           },
           "coords": [
             -0.514679,
@@ -747,7 +828,8 @@
             "de": "Erleben Sie die zeitlose Atmosphäre dieses rustikalen ländlichen Heiligtums inmitten von Feldern und nutzen Sie den kleinen ausgewiesenen Parkplatz direkt hinter dem Hauptgebäude.",
             "hu": "Tapasztalja meg ennek a kiterjedt mezők közepén fekvő, rusztikus vidéki szentélynek az időtlen hangulatát, kihasználva a főépület mögött található kis kijelölt parkolóhelyet.",
             "ro": "Experimentați atmosfera atemporală a acestui altar rural rustic situat în mijlocul câmpurilor întinse, profitând de mica parcare desemnată chiar în spatele structurii principale.",
-            "en": "Experience the timeless atmosphere of this rustic rural shrine set amidst sprawling fields, taking advantage of the small designated parking area just behind the main structure."
+            "en": "Experience the timeless atmosphere of this rustic rural shrine set amidst sprawling fields, taking advantage of the small designated parking area just behind the main structure.",
+            "fr": "Vivez l’atmosphère intemporelle de ce sanctuaire rural rustique au milieu de champs à perte de vue, en profitant du petit parking désigné juste derrière l’édifice principal."
           }
         },
         {
@@ -755,7 +837,8 @@
             "de": "Rathaus",
             "hu": "Városháza",
             "ro": "Primăria",
-            "en": "Town Hall (Hôtel de Ville)"
+            "en": "Town Hall (Hôtel de Ville)",
+            "fr": "Hôtel de Ville"
           },
           "coords": [
             -0.55103,
@@ -770,7 +853,8 @@
             "de": "Fahren Sie ins Stadtzentrum, um die beeindruckende städtische Nachkriegsarchitektur zu bewundern, und nutzen Sie den großen kostenlosen öffentlichen Parkplatz nur einen Block entfernt.",
             "hu": "Irány a városközpont, hogy megcsodálja a lenyűgöző háború utáni önkormányzati építészetet, kihasználva a tértől mindössze egy saroknyira található nagy ingyenes nyilvános parkolót.",
             "ro": "Îndreptați-vă spre centrul urban pentru a admira impresionanta arhitectură municipală postbelică, utilizând marea parcare publică gratuită situată la doar un bloc distanță de piață.",
-            "en": "Head into the urban center to admire the impressive post-war municipal architecture, utilizing the large free public parking lot situated merely a block away from the square."
+            "en": "Head into the urban center to admire the impressive post-war municipal architecture, utilizing the large free public parking lot situated merely a block away from the square.",
+            "fr": "Dirigez‑vous vers le centre urbain pour admirer l’impressionnante architecture municipale d’après‑guerre, en utilisant le grand parking public gratuit situé à seulement un pâté de maisons de la place."
           }
         },
         {
@@ -778,7 +862,8 @@
             "de": "Charles Léandre Museum",
             "hu": "Charles Léandre Múzeum",
             "ro": "Muzeul Charles Léandre",
-            "en": "Charles Léandre Museum"
+            "en": "Charles Léandre Museum",
+            "fr": "Musée Charles Léandre"
           },
           "coords": [
             -0.551285,
@@ -793,7 +878,8 @@
             "de": "Tauchen Sie in dieser gut kuratierten Kunsteinrichtung tief ins kulturelle Erbe der Region ein, wo Sie an Wochentagen morgens problemlos barrierefreie Straßenparkplätze finden.",
             "hu": "Merüljön el a régió kulturális örökségében ebben a jól gondozott művészeti intézményben, ahol hétköznap délelőttönként könnyen találhat akadálymentesített utcai parkolóhelyet.",
             "ro": "Aprofundați moștenirea culturală a regiunii la această facilitate de artă bine curatoriată, unde puteți găsi cu ușurință parcare stradală accesibilă în diminețile tipice de zi cu zi.",
-            "en": "Dive deep into the cultural heritage of the region at this well-curated art facility, where you can easily find accessible street parking during typical weekday morning hours."
+            "en": "Dive deep into the cultural heritage of the region at this well-curated art facility, where you can easily find accessible street parking during typical weekday morning hours.",
+            "fr": "Plongez dans le patrimoine culturel de la région dans ce centre d’art bien conçu, où vous pouvez facilement trouver du stationnement dans la rue accessible en semaine le matin."
           }
         },
         {
@@ -801,7 +887,8 @@
             "de": "Maurice Piard Park",
             "hu": "Maurice Piard Park",
             "ro": "Parcul Maurice Piard",
-            "en": "Maurice Piard Park"
+            "en": "Maurice Piard Park",
+            "fr": "Parc Maurice Piard"
           },
           "coords": [
             -0.576551,
@@ -816,7 +903,8 @@
             "de": "Beenden Sie Ihren Ausflug in diesem weitläufigen Park, der sich perfekt zum Beinevertreten eignet, und lassen Sie Ihr Auto sicher auf dem großen Parkplatz nahe den Sportanlagen.",
             "hu": "Zárja az autós utazást ebben a kiterjedt parkban, amely tökéletes a lábak kinyújtóztatására, és hagyja járművét biztonságosan a fő sportlétesítmények melletti tágas parkolózónában.",
             "ro": "Încheiați-vă călătoria cu mașina în acest parc întins, perfect pentru a vă dezmorți picioarele, lăsându-vă vehiculul în siguranță în zona spațioasă de parcare de lângă sport.",
-            "en": "Wrap up your road trip at this expansive park perfect for stretching your legs, leaving your vehicle securely in the spacious parking zone near the main sports facilities."
+            "en": "Wrap up your road trip at this expansive park perfect for stretching your legs, leaving your vehicle securely in the spacious parking zone near the main sports facilities.",
+            "fr": "Terminez votre road‑trip dans ce parc spacieux parfait pour s’étirer les jambes, en laissant votre véhicule en toute sécurité dans la vaste zone de stationnement près des installations sportives principales."
           }
         }
       ],
@@ -824,7 +912,8 @@
         "de": "Morgen: Beginnen Sie Ihre malerische Fahrt am Stadtrand von Condé-sur-Noireau und entdecken Sie die wunderschön restaurierte, von Tälern umgebene Chapelle Notre-Dame-des-Vallées.\nMittag: Setzen Sie Ihre ländliche Erkundung an der zeitlosen Chapelle Saint-Martin-des-Champs fort, bevor Sie ins Zentrum fahren, um die städtische Architektur zu bewundern.\nNachmittag: Tauchen Sie bei einem ausführlichen Besuch im Charles Léandre Museum in das künstlerische Erbe der Stadt ein, das über die zentralen Boulevards leicht erreichbar ist.\nAbend: Beenden Sie Ihren Ausflug mit einer kurzen Fahrt nach Norden zum Maurice Piard Park, wo Sie sich die Beine vertreten und einen friedlichen Spaziergang genießen können.",
         "hu": "Délelőtt: Kezdje festői autózását Condé-sur-Noireau külvárosában, felfedezve a zöldellő völgyekkel körülvett, gyönyörűen felújított Chapelle Notre-Dame-des-Vallées-t.\nDél: Folytassa vidéki felfedezését az időtlen Chapelle Saint-Martin-des-Champs-nál, mielőtt a városközpontba hajtana, hogy megcsodálja a modern önkormányzati építészetet.\nDélután: Merüljön el a város művészeti örökségében a Charles Léandre Múzeum alapos meglátogatásával, amely a főbb központi körutakon keresztül könnyen megközelíthető.\nEste: Zárja utazását egy rövid északi autózással a Maurice Piard Parkba, ahol kinyújtóztathatja lábait és élvezheti a békés sétát, ahogy a nap lassan a végéhez közeledik.",
         "ro": "Dimineață: Începeți-vă plimbarea pitorească cu mașina la periferia orașului Condé-sur-Noireau, descoperind frumos restaurata Chapelle Notre-Dame-des-Vallées, înconjurată de văi verzi.\nAmiază: Continuați-vă explorarea rurală la atemporala Chapelle Saint-Martin-des-Champs înainte de a conduce în centrul urban pentru a admira arhitectura municipală modernă.\nDupă-amiază: Cufundați-vă în moștenirea artistică a orașului cu o vizită detaliată la Muzeul Charles Léandre, ușor accesibil prin bulevardele centrale principale.\nSeară: Încheiați călătoria cu mașina cu o scurtă deplasare spre nord, spre parcul Maurice Piard, unde vă puteți dezmorți picioarele și vă puteți bucura de o plimbare liniștită.",
-        "en": "Morning: Start your scenic drive on the outskirts of Condé-sur-Noireau, discovering the beautifully restored Chapelle Notre-Dame-des-Vallées surrounded by green valleys.\nMidday: Continue your rural exploration at the timeless Chapelle Saint-Martin-des-Champs before driving into the urban center to admire the modern municipal architecture.\nAfternoon: Immerse yourself in the town's artistic legacy with a thorough visit to the Charles Léandre Museum, easily accessible via the main central boulevards.\nEvening: Conclude your road trip with a short drive north to Maurice Piard Park, where you can stretch your legs and enjoy a peaceful stroll as the day comes to a close."
+        "en": "Morning: Start your scenic drive on the outskirts of Condé-sur-Noireau, discovering the beautifully restored Chapelle Notre-Dame-des-Vallées surrounded by green valleys.\nMidday: Continue your rural exploration at the timeless Chapelle Saint-Martin-des-Champs before driving into the urban center to admire the modern municipal architecture.\nAfternoon: Immerse yourself in the town's artistic legacy with a thorough visit to the Charles Léandre Museum, easily accessible via the main central boulevards.\nEvening: Conclude your road trip with a short drive north to Maurice Piard Park, where you can stretch your legs and enjoy a peaceful stroll as the day comes to a close.",
+        "fr": "Matin : Commencez votre promenade pittoresque en périphérie de Condé‑sur‑Noireau, en découvrant la Chapelle Notre‑Dame‑des‑Vallées magnifiquement restaurée entourée de vallées verdoyantes.\nMidi : Poursuivez votre exploration rurale à la Chapelle Saint‑Martin‑des‑Champs avant de vous rendre au centre‑ville pour admirer l’architecture municipale moderne.\nAprès‑midi : Imprégnez‑vous de l’héritage artistique de la ville lors d’une visite approfondie du Musée Charles Léandre, facilement accessible via les boulevards centraux.\nSoir : Concluez votre road‑trip par une courte route vers le nord jusqu’au Parc Maurice Piard, où vous pourrez vous dégourdir les jambes et profiter d’une promenade paisible à la fin de la journée."
       },
       "variants": {
         "rainy": {
@@ -832,7 +921,8 @@
             "de": "Der Morgen beginnt mit einer Fahrt zur Aussichtskapelle, wobei wir die regnerische Landschaft bequem vom Auto aus betrachten.\n\nMittags steuern wir das Stadtzentrum an, wo wir in der Nähe der Sehenswürdigkeiten parken, um den Regen zu minimieren.\n\nDer Nachmittag gehört ganz dem Museum, dem idealen Rückzugsort für einen längeren Aufenthalt im Trockenen.\n\nAm Abend fahren wir sicher durch die nassen Gassen der Stadt zurück, während die Scheibenwischer den Takt des Regens vorgeben.",
             "hu": "A reggel az autóból figyelve indul a panorámás kápolna felé, élvezve az esős táj látványát a kényelmes utastérből. Délben a központ felé vesszük az irányt, ahol a látnivalók közelében parkolunk, hogy minimalizáljuk a kinti ázást. A délután teljesen a múzeumé, ami ideális menedék egy tartalmas és teljesen száraz programhoz. Este biztonságban autózunk vissza a vizes utcákon.",
             "ro": "Dimineața începe cu o plimbare spre capela panoramică, admirând peisajul ploios din confortul mașinii, la adăpost și uscat.\n\nLa prânz ne îndreptăm spre centrul orașului, unde parcăm aproape de obiective pentru a minimiza expunerea la ploaie.\n\nDupă-amiaza aparține în întregime muzeului, refugiul ideal pentru un program prelungit și complet uscat.\n\nSeara conducem în siguranță pe străzile umede ale orașului.",
-            "en": "The morning starts with a drive to the panoramic chapel, enjoying the rainy landscape from the dry comfort of the car.\n\nAt noon we head to the town center, parking near the main sights to minimize walking in the rain between stops.\n\nThe afternoon belongs entirely to the museum, the ideal indoor retreat for an extended and completely dry visit.\n\nIn the evening we drive back safely through the wet city streets as the wipers beat to the rhythm of the falling rain."
+            "en": "The morning starts with a drive to the panoramic chapel, enjoying the rainy landscape from the dry comfort of the car.\n\nAt noon we head to the town center, parking near the main sights to minimize walking in the rain between stops.\n\nThe afternoon belongs entirely to the museum, the ideal indoor retreat for an extended and completely dry visit.\n\nIn the evening we drive back safely through the wet city streets as the wipers beat to the rhythm of the falling rain.",
+            "fr": "La matinée commence par un trajet en voiture jusqu’à la chapelle panoramique, profitant du paysage pluvieux à l’abri et au sec du véhicule.\n\nÀ midi nous nous rendons au centre‑ville pour nous garer près des principaux sites afin de limiter les déplacements à pied sous la pluie entre les arrêts.\n\nL’après‑midi appartient entièrement au musée, le refuge intérieur idéal pour une visite prolongée et totalement au sec.\n\nLe soir nous rentrons prudemment par les rues mouillées de la ville tandis que les essuie‑glaces battent la cadence de la pluie."
           },
           "stops": [
             {
@@ -840,13 +930,15 @@
                 "de": "Chapelle Notre-Dame-des-Vallées",
                 "hu": "Chapelle Notre-Dame-des-Vallées",
                 "ro": "Capela Notre-Dame-des-Vallées",
-                "en": "Chapelle Notre-Dame-des-Vallées"
+                "en": "Chapelle Notre-Dame-des-Vallées",
+                "fr": "Chapelle Notre‑Dame‑des‑Vallées"
               },
               "tip_5lang": {
                 "de": "Genießen Sie den Panoramablick auf das regnerische Tal bequem vom Auto aus, bevor Sie mit dem Regenschirm kurz zur Kapelle huschen.",
                 "hu": "Élvezd a panorámás kilátást az esős völgyre az autó kényelméből, mielőtt egy esernyővel gyorsan átugranál a kápolnához.",
                 "ro": "Bucură-te de vederea panoramică asupra văii ploioase din confortul mașinii, înainte de o scurtă vizită la capelă cu umbrela.",
-                "en": "Enjoy the panoramic views of the rainy valley from the comfort of your car before a quick, umbrella-assisted dash to the chapel."
+                "en": "Enjoy the panoramic views of the rainy valley from the comfort of your car before a quick, umbrella-assisted dash to the chapel.",
+                "fr": "Profitez des vues panoramiques de la vallée pluvieuse depuis le confort de votre voiture avant une brève traversée sous parapluie jusqu’à la chapelle."
               }
             },
             {
@@ -854,13 +946,15 @@
                 "de": "Chapelle Saint-Martin-des-Champs",
                 "hu": "Chapelle Saint-Martin-des-Champs",
                 "ro": "Capela Saint-Martin-des-Champs",
-                "en": "Chapelle Saint-Martin-des-Champs"
+                "en": "Chapelle Saint-Martin-des-Champs",
+                "fr": "Chapelle Saint‑Martin‑des‑Champs"
               },
               "tip_5lang": {
                 "de": "Fahren Sie vorsichtig auf den schmalen Landwegen; Pfützen können Schlaglöcher verbergen und die Straßenoberflächen können rutschig sein.",
                 "hu": "Vezess óvatosan a szűk vidéki utakon; a tócsák kátyúkat rejthetnek, és az útfelület helyenként váratlanul csúszós lehet az esőben.",
                 "ro": "Condu cu atenție pe drumurile rurale înguste; bălțile pot ascunde gropi, iar suprafața drumului poate fi alunecoasă pe timp de ploaie.",
-                "en": "Drive carefully on the narrow rural lanes leading here, as puddles can hide potholes and the road surfaces may be slick when wet."
+                "en": "Drive carefully on the narrow rural lanes leading here, as puddles can hide potholes and the road surfaces may be slick when wet.",
+                "fr": "Conduisez prudemment sur les petites routes rurales menant ici, car les flaques peuvent cacher des nids‑de‑poule et la chaussée peut être glissante quand elle est mouillée."
               }
             },
             {
@@ -868,13 +962,15 @@
                 "de": "Rathaus",
                 "hu": "Városháza",
                 "ro": "Primăria",
-                "en": "Town Hall (Hôtel de Ville)"
+                "en": "Town Hall (Hôtel de Ville)",
+                "fr": "Hôtel de Ville"
               },
               "tip_5lang": {
                 "de": "Parken Sie auf dem zentralen Parkplatz und gehen Sie kurz zum geschützten Eingang des Rathauses, um mehr über die Stadtgeschichte zu erfahren.",
                 "hu": "Parkolj le a központi parkolóban, és tegyél egy rövid sétát a városháza védett bejáratáig, hogy megismerd a város újjáépítésének történetét.",
                 "ro": "Parchează în parcarea centrală și fă o scurtă plimbare până la intrarea adăpostită a Primăriei pentru a afla despre istoria orașului.",
-                "en": "Park in the central lot and take a brief walk to the town hall's sheltered entrance to learn about the town's impressive reconstruction history."
+                "en": "Park in the central lot and take a brief walk to the town hall's sheltered entrance to learn about the town's impressive reconstruction history.",
+                "fr": "Garez‑vous dans le parking central et faites une courte promenade jusqu’à l’entrée abritée de l’hôtel de ville pour en apprendre davantage sur l’histoire impressionnante de la reconstruction de la ville."
               }
             },
             {
@@ -882,13 +978,15 @@
                 "de": "Charles Léandre Museum",
                 "hu": "Charles Léandre Múzeum",
                 "ro": "Muzeul Charles Léandre",
-                "en": "Charles Léandre Museum"
+                "en": "Charles Léandre Museum",
+                "fr": "Musée Charles Léandre"
               },
               "tip_5lang": {
                 "de": "Dieses Museum ist das Highlight an einem Regentag und bietet eine warme und trockene Umgebung, um Stunden in der Kunst einzutauchen.",
                 "hu": "Ez a múzeum az esős nap fénypontja, meleg és száraz környezetet biztosítva, hogy órákat merülhess el a helyi művészetben és kultúrában.",
                 "ro": "Acest muzeu este punctul culminant al unei zile ploioase, oferind un mediu cald și uscat pentru a te imersa ore în șir în arta locală.",
-                "en": "This museum is the highlight of a rainy day, offering a warm and dry environment to spend several hours immersed in local art and culture."
+                "en": "This museum is the highlight of a rainy day, offering a warm and dry environment to spend several hours immersed in local art and culture.",
+                "fr": "Ce musée est le point d’orgue d’une journée pluvieuse, offrant un environnement chaud et sec pour passer plusieurs heures immergé dans l’art et la culture locale."
               }
             },
             {
@@ -896,13 +994,15 @@
                 "de": "Maurice Piard Park",
                 "hu": "Maurice Piard Park",
                 "ro": "Parcul Maurice Piard",
-                "en": "Maurice Piard Park"
+                "en": "Maurice Piard Park",
+                "fr": "Parc Maurice Piard"
               },
               "tip_5lang": {
                 "de": "Fahren Sie durch die erlaubten Parkbereiche oder parken Sie nah an den Hauptsehenswürdigkeiten, um den Fußweg im Regen zu minimieren.",
                 "hu": "Hajts át a megengedett parki területeken, vagy parkolj a főbb látnivalók közelében, hogy minimalizáld az esőben való gyaloglást.",
                 "ro": "Condu prin zonele permise ale parcului sau parchează aproape de principalele atracții pentru a minimiza mersul pe jos prin ploaie.",
-                "en": "Drive through the park areas where permitted or park close to the main sights to minimize walking in the rain while enjoying the greenery."
+                "en": "Drive through the park areas where permitted or park close to the main sights to minimize walking in the rain while enjoying the greenery.",
+                "fr": "Parcourez le parc en voiture là où c’est permis ou garez‑vous près des principaux points d’intérêt pour limiter la marche sous la pluie tout en profitant de la verdure."
               }
             }
           ]
@@ -912,7 +1012,8 @@
             "de": "Der frostige Morgen beginnt mit einer Fahrt zu den Höhenzügen, wobei die Heizung im Auto für wohlige Wärme sorgt.\n\nMittags machen wir einen kurzen Stopp im Zentrum, um die winterliche Architektur zu bewundern, bevor wir ins Museum gehen.\n\nDer Nachmittag führt uns zum Park, wo wir das klare Winterlicht für Fotos nutzen, solange die Sonne noch tief am Horizont steht.\n\nAm Abend treten wir die Heimreise früh an, da der Sonnenuntergang gegen 17 Uhr die Temperaturen schnell sinken lässt.",
             "hu": "A fagyos reggel autós túrával indul a dombtetőkre, miközben a fűtés kellemes meleget ad a zúzmarás táj ellenére. Délben rövid megállót tartunk a központban, hogy megcsodáljuk az építészetet, mielőtt a fűtött múzeumba vonulnánk. A délután a parkba vezet, kihasználva a tiszta téli fényeket a fotózáshoz. Este korán hazaindulunk, mivel az ötszöri naplemente után a hőmérséklet gyorsan esik.",
             "ro": "Dimineața geroasă începe cu o plimbare spre înălțimi, în timp ce căldura din mașină oferă confort împotriva peisajului înghețat.\n\nLa prânz facem o scurtă oprire în centru pentru a admira arhitectura hibernală, înainte de a ne refugia în muzeul încălzit.\n\nDupă-amiaza ne îndreptăm spre parc, unde profităm de lumina clară de iarnă pentru fotografii.\n\nSeara pornim spre casă devreme, deoarece apusul face ca temperaturile să scadă rapid.",
-            "en": "The frosty morning begins with a drive to the heights, while the car's heater provides cozy warmth against the frozen landscape.\n\nAt noon we make a short stop in the center to admire the winter architecture before heading into the heated museum.\n\nThe afternoon takes us to the park, where we take advantage of the clear winter light for photos while the sun is still out.\n\nIn the evening we head back early, as the sunset around 5 PM causes temperatures to drop quickly across the town."
+            "en": "The frosty morning begins with a drive to the heights, while the car's heater provides cozy warmth against the frozen landscape.\n\nAt noon we make a short stop in the center to admire the winter architecture before heading into the heated museum.\n\nThe afternoon takes us to the park, where we take advantage of the clear winter light for photos while the sun is still out.\n\nIn the evening we head back early, as the sunset around 5 PM causes temperatures to drop quickly across the town.",
+            "fr": "La matinée glaciale commence par un trajet en voiture vers les hauteurs, le chauffage du véhicule offrant une chaleur douillette face au paysage gelé.\n\nÀ midi nous faisons une courte halte au centre pour admirer l’architecture hivernale avant de gagner le musée chauffé.\n\nL’après‑midi nous mène au parc, où nous profitons de la lumière hivernale pour des photos tant que le soleil est présent.\n\nLe soir nous rentrons tôt, car le coucher du soleil vers 17h entraîne une chute rapide des températures dans toute la ville."
           },
           "stops": [
             {
@@ -920,13 +1021,15 @@
                 "de": "Chapelle Notre-Dame-des-Vallées",
                 "hu": "Chapelle Notre-Dame-des-Vallées",
                 "ro": "Capela Notre-Dame-des-Vallées",
-                "en": "Chapelle Notre-Dame-des-Vallées"
+                "en": "Chapelle Notre-Dame-des-Vallées",
+                "fr": "Chapelle Notre‑Dame‑des‑Vallées"
               },
               "tip_5lang": {
                 "de": "Der hohe Aussichtspunkt bietet einen atemberaubenden Blick auf das frostbedeckte Tal; stellen Sie sicher, dass Ihre Autoheizung gut funktioniert.",
                 "hu": "A magaslati pontról lenyűgöző kilátás nyílik a zúzmarás völgyre; győződj meg róla, hogy az autó fűtése jól működik a felfelé úton.",
                 "ro": "Punctul de observație înalt oferă o vedere uimitoare asupra văii acoperite de chiciură; asigură-te că încălzirea mașinii funcționează bine.",
-                "en": "The high vantage point offers stunning views of the frost-covered valley; ensure your car's heater is working well for the drive up."
+                "en": "The high vantage point offers stunning views of the frost-covered valley; ensure your car's heater is working well for the drive up.",
+                "fr": "Le point de vue en hauteur offre des panoramas époustouflants sur la vallée couverte de givre ; vérifiez que le chauffage de votre voiture fonctionne bien pour la montée."
               }
             },
             {
@@ -934,13 +1037,15 @@
                 "de": "Chapelle Saint-Martin-des-Champs",
                 "hu": "Chapelle Saint-Martin-des-Champs",
                 "ro": "Capela Saint-Martin-des-Champs",
-                "en": "Chapelle Saint-Martin-des-Champs"
+                "en": "Chapelle Saint-Martin-des-Champs",
+                "fr": "Chapelle Saint‑Martin‑des‑Champs"
               },
               "tip_5lang": {
                 "de": "Achten Sie auf vereiste Stellen in den schattigen Kurven der kleinen Straßen, die zu dieser Kapelle führen, und genießen Sie die stille Landschaft.",
                 "hu": "Figyelj a jeges foltokra a kápolnához vezető kis utak árnyékos kanyarjaiban, és élvezd a békés, tiszta téli táj látványát menet közben.",
                 "ro": "Ai grijă la porțiunile înghețate de pe curbele umbrite ale drumurilor mici care duc la această capelă și bucură-te de peisajul liniștit.",
-                "en": "Check for icy patches on the shaded curves of the small roads leading to this chapel, and enjoy the serene winter landscape while driving."
+                "en": "Check for icy patches on the shaded curves of the small roads leading to this chapel, and enjoy the serene winter landscape while driving.",
+                "fr": "Surveillez les plaques de verglas sur les courbes ombragées des petites routes menant à cette chapelle, et appréciez le paysage hivernal paisible pendant la conduite."
               }
             },
             {
@@ -948,13 +1053,15 @@
                 "de": "Rathaus",
                 "hu": "Városháza",
                 "ro": "Primăria",
-                "en": "Town Hall (Hôtel de Ville)"
+                "en": "Town Hall (Hôtel de Ville)",
+                "fr": "Hôtel de Ville"
               },
               "tip_5lang": {
                 "de": "Der zentrale Platz sieht mit Winterbeleuchtung wunderschön aus; ein kurzer Spaziergang vom Auto aus reicht, um die Architektur ohne Kälte zu sehen.",
                 "hu": "A központi tér gyönyörű a téli fényekkel; egy rövid séta az autótól éppen elég, hogy megnézd az építészetet anélkül, hogy túlságosan áthűlnél.",
                 "ro": "Piața centrală arată minunat cu luminile de iarnă; o scurtă plimbare de la mașină este suficientă pentru a vedea arhitectura fără a îngheța.",
-                "en": "The central square looks beautiful with winter lights; a short walk from the car is perfect to see the architecture without getting too cold."
+                "en": "The central square looks beautiful with winter lights; a short walk from the car is perfect to see the architecture without getting too cold.",
+                "fr": "La place centrale est jolie avec les illuminations d’hiver ; une courte marche depuis la voiture suffit pour voir l’architecture sans trop se refroidir."
               }
             },
             {
@@ -962,13 +1069,15 @@
                 "de": "Charles Léandre Museum",
                 "hu": "Charles Léandre Múzeum",
                 "ro": "Muzeul Charles Léandre",
-                "en": "Charles Léandre Museum"
+                "en": "Charles Léandre Museum",
+                "fr": "Musée Charles Léandre"
               },
               "tip_5lang": {
                 "de": "Parken Sie in der Nähe und genießen Sie das Museum als Hauptaktivität im Haus, das Schutz vor den eisigen Nachmittagstemperaturen bietet.",
                 "hu": "Parkolj le a közelben, és élvezd a múzeumot mint fő benti programot, mely védelmet nyújt a fagyos délutáni hőmérsékletek elől a városban.",
                 "ro": "Parchează în apropiere și bucură-te de muzeu ca activitate principală la interior, oferind protecție împotriva temperaturilor scăzute.",
-                "en": "Park nearby and enjoy the museum as your main indoor activity, providing a cozy atmosphere and protection from the freezing afternoon temperatures."
+                "en": "Park nearby and enjoy the museum as your main indoor activity, providing a cozy atmosphere and protection from the freezing afternoon temperatures.",
+                "fr": "Garez‑vous à proximité et profitez du musée comme activité principale en intérieur, offrant une atmosphère chaleureuse et une protection contre le froid glacial de l’après‑midi."
               }
             },
             {
@@ -976,13 +1085,15 @@
                 "de": "Maurice Piard Park",
                 "hu": "Maurice Piard Park",
                 "ro": "Parcul Maurice Piard",
-                "en": "Maurice Piard Park"
+                "en": "Maurice Piard Park",
+                "fr": "Parc Maurice Piard"
               },
               "tip_5lang": {
                 "de": "Besuchen Sie den Park am frühen Nachmittag, um das beste Licht einzufangen, da die Wintersonne früh untergeht und die Kälte danach zunimmt.",
                 "hu": "Látogasd meg a parkot kora délután, hogy elkapd a legszebb fényeket, mivel a téli nap korán nyugszik, és utána hirtelen hűl le a levegő.",
                 "ro": "Vizitează parcul după-amiaza devreme pentru a surprinde cea mai bună lumină, deoarece soarele apune devreme și frigul se intensifică.",
-                "en": "Visit the park in the early afternoon to catch the best light, as the winter sun sets early and the temperatures drop quickly after 4 PM."
+                "en": "Visit the park in the early afternoon to catch the best light, as the winter sun sets early and the temperatures drop quickly after 4 PM.",
+                "fr": "Visitez le parc en début d’après‑midi pour capter la meilleure lumière, car le soleil d’hiver se couche tôt et les températures chutent rapidement après 16h."
               }
             }
           ]

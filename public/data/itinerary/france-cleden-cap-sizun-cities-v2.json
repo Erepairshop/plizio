@@ -21,7 +21,8 @@
             "de": "Église Saint-Clet",
             "hu": "Église Saint-Clet",
             "ro": "Église Saint-Clet",
-            "en": "Église Saint-Clet"
+            "en": "Église Saint-Clet",
+            "fr": "Église Saint‑Clet"
           },
           "coords": [
             -4.647488,
@@ -36,7 +37,8 @@
             "de": "Bewundern Sie die markante Architektur dieser historischen Kirche im Zentrum und kommen Sie früh, um das Morgenlicht auf der Fassade einzufangen.",
             "hu": "Csodálja meg ennek a történelmi templomnak a lenyűgöző építészetét a központban, és érkezzen korán, hogy elcsípje a reggeli fényeket a homlokzaton.",
             "ro": "Admirați arhitectura remarcabilă a acestei biserici istorice din centru și vizitați devreme pentru a surprinde lumina frumoasă a dimineții pe fațadă.",
-            "en": "Admire the striking architecture of this historic church in the village center, and try to visit early to capture the beautiful morning light on its facade."
+            "en": "Admire the striking architecture of this historic church in the village center, and try to visit early to capture the beautiful morning light on its facade.",
+            "fr": "Admirez l'architecture saisissante de cette église historique du centre du village, et essayez de la visiter tôt pour profiter de la belle lumière matinale sur sa façade."
           }
         },
         {
@@ -44,7 +46,8 @@
             "de": "moulin",
             "hu": "moulin",
             "ro": "moulin",
-            "en": "moulin"
+            "en": "moulin",
+            "fr": "moulin"
           },
           "coords": [
             -4.642869,
@@ -59,7 +62,8 @@
             "de": "Entdecken Sie diese klassische bretonische Windmühle als stolzes Zeugnis des ländlichen Erbes, und umrunden Sie sie, um das erhaltene Mauerwerk zu sehen.",
             "hu": "Fedezze fel ezt a klasszikus breton szélmalmot, amely a vidéki örökség büszke tanúja, és sétálja körbe, hogy megfigyelje a megőrzött kőművesmunkát.",
             "ro": "Descoperiți această moară de vânt bretonă clasică, o dovadă mândră a moștenirii rurale, și plimbați-vă în jurul ei pentru a vedea detaliile din piatră.",
-            "en": "Discover this classic Breton windmill which stands as a proud testament to rural heritage, so walk around its base to see the preserved stonework details."
+            "en": "Discover this classic Breton windmill which stands as a proud testament to rural heritage, so walk around its base to see the preserved stonework details.",
+            "fr": "Découvrez ce moulin breton classique qui témoigne fièrement du patrimoine rural ; faites le tour de sa base pour voir les détails de la maçonnerie préservée."
           }
         },
         {
@@ -67,7 +71,8 @@
             "de": "Menhirs de Ar Peulven",
             "hu": "Menhirs de Ar Peulven",
             "ro": "Menhirs de Ar Peulven",
-            "en": "Menhirs de Ar Peulven"
+            "en": "Menhirs de Ar Peulven",
+            "fr": "Menhirs de Ar Peulven"
           },
           "coords": [
             -4.648763,
@@ -82,7 +87,8 @@
             "de": "Erkunden Sie diese alten Menhire, die an eine prähistorische Ära erinnern, und tragen Sie feste Wanderschuhe, da das umliegende Gelände uneben ist.",
             "hu": "Fedezze fel ezeket az ősi állóköveket, amelyek egy elfeledett történelem előtti korszakot idéznek, és viseljen túracipőt az egyenetlen terep miatt.",
             "ro": "Explorați aceste pietre antice care evocă o eră preistorică uitată și purtați încălțăminte de drumeție robustă, deoarece terenul înconjurător este denivelat.",
-            "en": "Explore these ancient standing stones that echo a forgotten prehistoric era, and wear sturdy walking shoes as the surrounding terrain can be quite uneven."
+            "en": "Explore these ancient standing stones that echo a forgotten prehistoric era, and wear sturdy walking shoes as the surrounding terrain can be quite uneven.",
+            "fr": "Explorez ces anciens menhirs qui évoquent une époque préhistorique oubliée, et portez des chaussures de marche robustes car le terrain environnant peut être assez irrégulier."
           }
         },
         {
@@ -90,7 +96,8 @@
             "de": "Chapelle Notre-Dame de Bon Voyage",
             "hu": "Chapelle Notre-Dame de Bon Voyage",
             "ro": "Chapelle Notre-Dame de Bon Voyage",
-            "en": "Chapelle Notre-Dame de Bon Voyage"
+            "en": "Chapelle Notre-Dame de Bon Voyage",
+            "fr": "Chapelle Notre‑Dame de Bon Voyage"
           },
           "coords": [
             -4.649856,
@@ -105,7 +112,8 @@
             "de": "Nehmen Sie sich einen Moment der Besinnung in dieser maritimen Kapelle, in der Seeleute beteten, und achten Sie auf die nautischen Motive im Inneren.",
             "hu": "Töltsön el egy percet elmélkedéssel ennél a tengerészeti kápolnánál, ahol egykor tengerészek imádkoztak, és figyelje meg a belső tengeri motívumokat.",
             "ro": "Profitați de un moment de reflecție la această capelă maritimă unde se rugau marinarii și priviți îndeaproape motivele nautice care o decorează.",
-            "en": "Take a moment of reflection at this maritime chapel where sailors once prayed, and look closely at the intricate nautical motifs adorning the interior."
+            "en": "Take a moment of reflection at this maritime chapel where sailors once prayed, and look closely at the intricate nautical motifs adorning the interior.",
+            "fr": "Prenez un moment de recueillement dans cette chapelle maritime où priaient autrefois les marins, et regardez de près les motifs nautiques complexes qui ornent l'intérieur."
           }
         },
         {
@@ -113,7 +121,8 @@
             "de": "Église Saint-Collodan",
             "hu": "Église Saint-Collodan",
             "ro": "Église Saint-Collodan",
-            "en": "Église Saint-Collodan"
+            "en": "Église Saint-Collodan",
+            "fr": "Église Saint-Collodan"
           },
           "coords": [
             -4.665501,
@@ -128,7 +137,8 @@
             "de": "Besuchen Sie diese friedliche Pfarrkirche, um die Buntglasfenster zu schätzen, und sprechen Sie leise, da es ein aktiver Ort der Anbetung bleibt.",
             "hu": "Látogasson el ebbe a békés plébániatemplomba, hogy megcsodálja ólomüveg ablakait, és beszéljen halkan, mivel ez ma is aktív istentiszteleti hely.",
             "ro": "Vizitați această biserică parohială liniștită pentru a aprecia vitraliile sale și păstrați liniștea, deoarece rămâne un lăcaș de cult activ.",
-            "en": "Visit this peaceful parish church to appreciate its stained glass windows, and ensure you keep your voice down as it remains an active place of worship."
+            "en": "Visit this peaceful parish church to appreciate its stained glass windows, and ensure you keep your voice down as it remains an active place of worship.",
+            "fr": "Visitez cette paisible église paroissiale pour apprécier ses vitraux, et veillez à parler à voix basse car c’est un lieu de culte encore en activité."
           }
         }
       ],
@@ -136,7 +146,8 @@
         "de": "Ihr Morgen beginnt an der markanten Église Saint-Clet, gefolgt von einem kurzen Spaziergang zur historischen Mühle.\n\nGegen Mittag tauchen Sie bei den Menhirs de Ar Peulven in die tiefe Vorgeschichte ein.\n\nAm frühen Nachmittag bietet die Chapelle Notre-Dame de Bon Voyage einen Moment der maritimen Besinnung.\n\nDer Tag endet harmonisch mit einem Besuch der friedlichen Église Saint-Collodan im Westen.",
         "hu": "A délelőtt a lenyűgöző Église Saint-Clet megtekintésével indul, majd egy rövid séta következik a történelmi malomhoz.\n\nDél körül merüljön el a mély őstörténetben a lenyűgöző Menhirs de Ar Peulven köveinél.\n\nKora délután a Chapelle Notre-Dame de Bon Voyage kínál egy kis tengerészeti elmélkedést.\n\nA nap nyugodtan zárul a békés Église Saint-Collodan meglátogatásával a nyugati oldalon.",
         "ro": "Dimineața dumneavoastră începe la uimitoarea Église Saint-Clet, urmată de o scurtă plimbare la moara istorică.\n\nLa prânz, pătrundeți în preistoria profundă explorând pietrele antice Menhirs de Ar Peulven.\n\nDupă-amiaza devreme, Chapelle Notre-Dame de Bon Voyage oferă un moment de reflecție maritimă.\n\nZiua se încheie armonios cu o vizită la liniștita Église Saint-Collodan, situată mai la vest.",
-        "en": "Your morning begins at the striking Église Saint-Clet, followed by a short stroll to the historic windmill nearby.\n\nAround midday, you will delve into deep prehistory at the ancient standing stones of Menhirs de Ar Peulven.\n\nIn the early afternoon, the Chapelle Notre-Dame de Bon Voyage offers a moment of maritime reflection.\n\nThe day concludes peacefully with a visit to the quiet Église Saint-Collodan in the west."
+        "en": "Your morning begins at the striking Église Saint-Clet, followed by a short stroll to the historic windmill nearby.\n\nAround midday, you will delve into deep prehistory at the ancient standing stones of Menhirs de Ar Peulven.\n\nIn the early afternoon, the Chapelle Notre-Dame de Bon Voyage offers a moment of maritime reflection.\n\nThe day concludes peacefully with a visit to the quiet Église Saint-Collodan in the west.",
+        "fr": "Votre matinée commence à la saisissante Église Saint-Clet, suivie d’une courte promenade jusqu’au vieux moulin historique à proximité.\n\nVers midi, vous plongerez dans la préhistoire profonde auprès des menhirs de Ar Peulven.\n\nEn début d’après-midi, la Chapelle Notre‑Dame de Bon Voyage offre un moment de recueillement maritime.\n\nLa journée se termine paisiblement par une visite de la tranquille Église Saint-Collodan à l’ouest."
       },
       "variants": {
         "rainy": {
@@ -144,7 +155,8 @@
             "de": "Ein verregneter Vormittag beginnt in der schützenden Stille der Église Saint-Clet, bevor es zum alten Moulin geht. Gegen Mittag trotzen wir dem Wind bei den Menhirs, wobei festes Schuhwerk auf den aufgeweichten Pfaden wichtig ist. Nachmittags suchen wir Zuflucht in den Kapellen, während die Küste im Nebel versinkt. Der Tag endet gemütlich bei prasselndem Regen in einer warmen Teestube.",
             "hu": "Esős reggel kezdődik a Saint-Clet templom oltalmazó csendjében, majd a szélfútta malom felé vesszük az irányt. Délben a menhirek közt dacolunk az elemekkel, sárálló bakancsban a csúszós ösvényeken. Délután a kápolnák belső nyugalma nyújt menedéket a ködös partvidék elől. Az este egy meleg teázóban ér véget, miközben kint dobol az eső a párás ablaküvegen.",
             "ro": "O dimineață ploioasă începe în liniștea protectoare a Bisericii Saint-Clet, înainte de a porni spre vechea moară. La prânz explorăm menhirii, având nevoie de încălțăminte aderentă pe cărările noroioase. După-amiaza căutăm adăpost în capelele istorice, în timp ce coasta bretonă este învăluită în ceață. Seara se încheie confortabil într-o ceainărie locală, ascultând ropotul ploii.",
-            "en": "A rainy morning starts in the protective silence of Église Saint-Clet before heading to the old windmill. At midday, we face the coastal winds by the menhirs, requiring sturdy boots for the muddy paths. In the afternoon, the local chapels offer shelter as the Brittany coast fades into the mist. The day ends cozily in a warm tea house while the rain taps on the windows."
+            "en": "A rainy morning starts in the protective silence of Église Saint-Clet before heading to the old windmill. At midday, we face the coastal winds by the menhirs, requiring sturdy boots for the muddy paths. In the afternoon, the local chapels offer shelter as the Brittany coast fades into the mist. The day ends cozily in a warm tea house while the rain taps on the windows.",
+            "fr": "Une matinée pluvieuse commence dans le silence protecteur de l’Église Saint-Clet avant de se diriger vers le vieux moulin. À midi, nous affrontons les vents côtiers près des menhirs, prévoyez des bottes solides pour les sentiers boueux. L’après‑midi, les chapelles locales offrent un abri tandis que la côte bretonne s’efface dans la brume. La journée se termine au chaud dans un salon de thé pendant que la pluie tambourine aux fenêtres."
           },
           "stops": [
             {
@@ -152,13 +164,15 @@
                 "de": "Église Saint-Clet",
                 "hu": "Église Saint-Clet",
                 "ro": "Église Saint-Clet",
-                "en": "Église Saint-Clet"
+                "en": "Église Saint-Clet",
+                "fr": "Église Saint-Clet"
               },
               "tip_5lang": {
                 "de": "Bewundern Sie die Innendetails dieser Kirche, die einen perfekten Schutz vor dem ersten Regenschauer bietet; nutzen Sie den Windfang zum Abtropfen.",
                 "hu": "Csodálja meg a templom belső részleteit, amely tökéletes menedéket nyújt az első zápor elől; használja a szélfogót a vizes kabátok lerázására.",
                 "ro": "Admirați detaliile interioare ale acestei biserici, care oferă un adăpost perfect împotriva primei averse; folosiți vestibulul pentru a vă scutura de apă.",
-                "en": "Admire the interior details of this church, which provides perfect shelter from the first downpour; use the vestibule to shake off any water."
+                "en": "Admire the interior details of this church, which provides perfect shelter from the first downpour; use the vestibule to shake off any water.",
+                "fr": "Admirez les détails intérieurs de cette église, qui offre un abri parfait contre la première averse ; utilisez le vestibule pour vous débarrasser de l’eau."
               }
             },
             {
@@ -166,13 +180,15 @@
                 "de": "moulin",
                 "hu": "moulin",
                 "ro": "moulin",
-                "en": "moulin"
+                "en": "moulin",
+                "fr": "moulin"
               },
               "tip_5lang": {
                 "de": "Die alte Mühle wirkt im Regen besonders atmosphärisch, aber Vorsicht auf den grasbewachsenen Wegen, die bei Nässe sehr rutschig sein können.",
                 "hu": "A régi malom különösen hangulatos az esőben, de legyen óvatos a füves utakon, amelyek nedvesen rendkívül csúszóssá válhatnak.",
                 "ro": "Moara veche pare deosebit de atmosferică în ploaie, dar aveți grijă pe potecile înierbate care pot deveni foarte alunecoase când sunt ude.",
-                "en": "The old mill looks particularly atmospheric in the rain, but be careful on the grassy paths which can become very slippery when wet."
+                "en": "The old mill looks particularly atmospheric in the rain, but be careful on the grassy paths which can become very slippery when wet.",
+                "fr": "Le vieux moulin a une atmosphère particulière sous la pluie, mais faites attention aux chemins herbeux qui deviennent très glissants quand ils sont mouillés."
               }
             },
             {
@@ -180,13 +196,15 @@
                 "de": "Menhirs de Ar Peulven",
                 "hu": "Menhirs de Ar Peulven",
                 "ro": "Menhirs de Ar Peulven",
-                "en": "Menhirs de Ar Peulven"
+                "en": "Menhirs de Ar Peulven",
+                "fr": "Menhirs de Ar Peulven"
               },
               "tip_5lang": {
                 "de": "Die nassen Granitsteine glänzen silbrig unter dem grauen Himmel; eine windfeste Regenjacke ist hier wegen der exponierten Lage unerlässlich.",
                 "hu": "A nedves gránitkövek ezüstösen csillognak a szürke ég alatt; a szélálló esőkabát itt az open-air helyszín miatt elengedhetetlen kellék.",
                 "ro": "Pietrele de granit ude strălucesc argintiu sub cerul cenușiu; o jachetă de ploaie rezistentă la vânt este esențială aici datorită poziției expuse.",
-                "en": "The wet granite stones shine silvery under the grey sky; a windproof raincoat is essential here due to the exposed coastal location."
+                "en": "The wet granite stones shine silvery under the grey sky; a windproof raincoat is essential here due to the exposed coastal location.",
+                "fr": "Les pierres de granit mouillées brillent d’un éclat argenté sous le ciel gris ; un imperméable coupe‑vent est indispensable ici en raison de l’emplacement exposé en bord de mer."
               }
             },
             {
@@ -194,13 +212,15 @@
                 "de": "Chapelle Notre-Dame de Bon Voyage",
                 "hu": "Chapelle Notre-Dame de Bon Voyage",
                 "ro": "Chapelle Notre-Dame de Bon Voyage",
-                "en": "Chapelle Notre-Dame de Bon Voyage"
+                "en": "Chapelle Notre-Dame de Bon Voyage",
+                "fr": "Chapelle Notre-Dame de Bon Voyage"
               },
               "tip_5lang": {
                 "de": "Diese Kapelle ist ein idealer Ort, um den stärksten Regen abzuwarten; genießen Sie die Ruhe im Inneren und prüfen Sie Ihre Wanderkarte im Trockenen.",
                 "hu": "Ez a kápolna ideális hely a hevesebb eső kivárására; élvezze a belső csendet, és ellenőrizze a térképet a száraz menedékben.",
                 "ro": "Această chapelă este locul ideal pentru a aștepta trecerea ploii mai torențiale; bucurați-vă de liniștea din interior și verificați harta la uscat.",
-                "en": "This chapel is an ideal place to wait out the heavier rain; enjoy the interior silence and check your map in the dry shelter."
+                "en": "This chapel is an ideal place to wait out the heavier rain; enjoy the interior silence and check your map in the dry shelter.",
+                "fr": "Cette chapelle est un endroit idéal pour attendre la forte pluie ; profitez du silence intérieur et consultez votre carte à l’abri."
               }
             },
             {
@@ -208,13 +228,15 @@
                 "de": "Église Saint-Collodan",
                 "hu": "Église Saint-Collodan",
                 "ro": "Église Saint-Collodan",
-                "en": "Église Saint-Collodan"
+                "en": "Église Saint-Collodan",
+                "fr": "Église Saint-Collodan"
               },
               "tip_5lang": {
                 "de": "Beenden Sie Ihre Tour in dieser warmen Kirche; achten Sie beim Verlassen auf Pfützen vor dem Eingang und suchen Sie danach ein nahes Café auf.",
                 "hu": "Zárja túráját ebben a barátságos templomban; távozáskor ügyeljen a bejárat előtti tócsákra, majd keressen fel egy közeli fűtött kávézót.",
                 "ro": "Încheiați turul în această biserică primitoare; la plecare aveți grijă la bălțile din fața intrării, apoi căutați o cafenea încălzită în apropiere.",
-                "en": "End your tour in this welcoming church; watch out for puddings at the entrance when leaving, then find a heated nearby café to dry off."
+                "en": "End your tour in this welcoming church; watch out for puddings at the entrance when leaving, then find a heated nearby café to dry off.",
+                "fr": "Terminez votre visite dans cette église accueillante ; faites attention aux flaques à l’entrée en sortant, puis trouvez un café chauffé à proximité pour vous sécher."
               }
             }
           ]
@@ -224,7 +246,8 @@
             "de": "Der frostige Morgen beginnt mit der beeindruckenden Architektur der Église Saint-Clet, wo warme Kleidung ein Muss ist. Mittags besuchen wir die historischen Menhirs im klaren Winterlicht, bevor die Kälte spürbarer wird. Am Nachmittag erkunden wir die abgelegenen Kapellen und beeilen uns, da die Sonne gegen 17:00 Uhr untergeht. Der Abend gehört der wohligen Wärme am Kamin.",
             "hu": "A fagyos reggel a Saint-Clet templom lenyűgöző falaival indul, ahol a réteges öltözet elengedhetetlen. Délben a menhireket látogatjuk meg a tiszta téli fényben, mielőtt a hideg igazán felerősödne. Délután a távoli kápolnákat fedezzük fel, ügyelve az időre, mert 17:00-kor már sötétedik. Az estét a kandalló melege mellett, pihenéssel töltjük.",
             "ro": "Dimineața geroasă începe cu arhitectura impresionantă a Bisericii Saint-Clet, unde hainele groase sunt obligatorii. La prânz vizităm menhirii în lumina clară de iarnă, înainte ca frigul să devină mai tăios. După-amiaza explorăm capelele izolate, grăbindu-ne deoarece soarele apune deja la ora 17:00. Seara este dedicată relaxării la căldura șemineului.",
-            "en": "The frosty morning starts with the impressive architecture of Église Saint-Clet, where warm layers are a must. At midday, we visit the historic menhirs in the clear winter light before the cold intensifies. In the afternoon, we explore the secluded chapels, keeping an eye on the clock as the sun sets by 17:00. The evening is spent relaxing by the fireplace."
+            "en": "The frosty morning starts with the impressive architecture of Église Saint-Clet, where warm layers are a must. At midday, we visit the historic menhirs in the clear winter light before the cold intensifies. In the afternoon, we explore the secluded chapels, keeping an eye on the clock as the sun sets by 17:00. The evening is spent relaxing by the fireplace.",
+            "fr": "La matinée glaciale commence par l’architecture impressionnante de l’Église Saint-Clet, où des couches chaudes sont indispensables. À midi, nous visitons les menhirs historiques sous la lumière hivernale claire avant que le froid n’empire. L’après‑midi, nous explorons les chapelles isolées, en surveillant l’heure car le soleil se couche à 17:00. La soirée se passe à se détendre près de la cheminée."
           },
           "stops": [
             {
@@ -232,13 +255,15 @@
                 "de": "Église Saint-Clet",
                 "hu": "Église Saint-Clet",
                 "ro": "Église Saint-Clet",
-                "en": "Église Saint-Clet"
+                "en": "Église Saint-Clet",
+                "fr": "Église Saint-Clet"
               },
               "tip_5lang": {
                 "de": "Die dicken Steinmauern halten die Kälte; tragen Sie Thermounterwäsche, um die religiöse Kunst auch bei niedrigen Innentemperaturen genießen zu können.",
                 "hu": "A vastag kőfalak tartják a hideget; viseljen hőtartó aláöltözetet, hogy az alacsony belső hőmérséklet ellenére is élvezhesse a vallási művészetet.",
                 "ro": "Zidurile groase de piatră mențin frigul; purtați lenjerie termică pentru a vă bucura de arta religioasă chiar și la temperaturi interioare scăzute.",
-                "en": "The thick stone walls hold the cold; wear thermal layers to enjoy the religious art even when the interior temperature is quite low."
+                "en": "The thick stone walls hold the cold; wear thermal layers to enjoy the religious art even when the interior temperature is quite low.",
+                "fr": "Les murs épais en pierre retiennent le froid ; portez des couches thermiques pour apprécier l’art religieux même si la température intérieure est assez basse."
               }
             },
             {
@@ -246,13 +271,15 @@
                 "de": "moulin",
                 "hu": "moulin",
                 "ro": "moulin",
-                "en": "moulin"
+                "en": "moulin",
+                "fr": "moulin"
               },
               "tip_5lang": {
                 "de": "Die Mühle steht einsam im Winterwind; ein Schal und Handschuhe schützen Sie vor der beißenden Brise, während Sie das Panorama bewundern.",
                 "hu": "A malom magányosan dacol a téli széllel; sál és kesztyű véd a csípős szellő ellen, miközben a környék panorámáját csodálja.",
                 "ro": "Moara stă solitară în vântul de iarnă; un fular și mănuși vă vor proteja de briza tăioasă în timp ce admirați panorama zonei.",
-                "en": "The mill stands lonely in the winter wind; a scarf and gloves will protect you from the biting breeze while you admire the surrounding panorama."
+                "en": "The mill stands lonely in the winter wind; a scarf and gloves will protect you from the biting breeze while you admire the surrounding panorama.",
+                "fr": "Le moulin se tient solitaire dans le vent d’hiver ; une écharpe et des gants vous protégeront de la bise mordante pendant que vous admirez le panorama environnant."
               }
             },
             {
@@ -260,13 +287,15 @@
                 "de": "Menhirs de Ar Peulven",
                 "hu": "Menhirs de Ar Peulven",
                 "ro": "Menhirs de Ar Peulven",
-                "en": "Menhirs de Ar Peulven"
+                "en": "Menhirs de Ar Peulven",
+                "fr": "Menhirs de Ar Peulven"
               },
               "tip_5lang": {
                 "de": "Das klare Winterlicht lässt die Menhirs dramatisch erscheinen; planen Sie diesen Halt vor 15:30 Uhr ein, um die beste Sicht zu haben.",
                 "hu": "A tiszta téli fényben a menhirek drámai látványt nyújtanak; tervezze ezt a megállót 15:30 előttre a legjobb láthatóság érdekében.",
                 "ro": "Lumina clară de iarnă face ca menhirii să pară dramatici; planificați această oprire înainte de 15:30 pentru cea mai bună vizibilitate.",
-                "en": "The clear winter light makes the menhirs appear dramatic; plan this stop before 15:30 to have the best visibility and photos."
+                "en": "The clear winter light makes the menhirs appear dramatic; plan this stop before 15:30 to have the best visibility and photos.",
+                "fr": "La lumière hivernale claire rend les menhirs très spectaculaires ; prévoyez cet arrêt avant 15:30 pour bénéficier de la meilleure visibilité et des meilleures photos."
               }
             },
             {
@@ -274,13 +303,15 @@
                 "de": "Chapelle Notre-Dame de Bon Voyage",
                 "hu": "Chapelle Notre-Dame de Bon Voyage",
                 "ro": "Chapelle Notre-Dame de Bon Voyage",
-                "en": "Chapelle Notre-Dame de Bon Voyage"
+                "en": "Chapelle Notre-Dame de Bon Voyage",
+                "fr": "Chapelle Notre-Dame de Bon Voyage"
               },
               "tip_5lang": {
                 "de": "Nutzen Sie diesen ruhigen Ort für eine kurze Meditation; achten Sie auf den frühen Sonnenuntergang und bringen Sie eine Taschenlampe mit.",
                 "hu": "Használja ezt a csendes helyet egy rövid meditációra; ügyeljen a korai naplementére, és legyen önnél egy zseblámpa a visszaúthoz.",
                 "ro": "Folosiți acest loc liniștit pentru o scurtă meditație; atenție la apusul devreme și aveți o lanternă la îndemână pentru drumul de întoarcere.",
-                "en": "Use this quiet spot for a short meditation; be mindful of the early sunset and keep a flashlight handy for the walk back."
+                "en": "Use this quiet spot for a short meditation; be mindful of the early sunset and keep a flashlight handy for the walk back.",
+                "fr": "Utilisez ce lieu calme pour une courte méditation ; soyez attentif au coucher du soleil précoce et gardez une lampe de poche à portée de main pour le retour."
               }
             },
             {
@@ -288,13 +319,15 @@
                 "de": "Église Saint-Collodan",
                 "hu": "Église Saint-Collodan",
                 "ro": "Église Saint-Collodan",
-                "en": "Église Saint-Collodan"
+                "en": "Église Saint-Collodan",
+                "fr": "Église Saint-Collodan"
               },
               "tip_5lang": {
                 "de": "Ein würdiger Abschluss bei Dämmerung; beeilen Sie sich zum Rückweg, da die Temperaturen nach 17:00 Uhr drastisch sinken.",
                 "hu": "Méltó befejezés a szürkületben; siessen vissza a szálláshelyre, mert a hőmérséklet 17:00 után drasztikusan csökkenni kezd.",
                 "ro": "Un final demn la amurg; grăbiți-vă spre întoarcere deoarece temperaturile scad drastic după ora 17:00.",
-                "en": "A worthy conclusion at dusk; hurry back to your accommodation as temperatures drop drastically after 17:00."
+                "en": "A worthy conclusion at dusk; hurry back to your accommodation as temperatures drop drastically after 17:00.",
+                "fr": "Une conclusion méritée au crépuscule ; rentrez vite à votre hébergement car les températures chutent fortement après 17:00."
               }
             }
           ]
@@ -314,7 +347,8 @@
             "de": "Église Saint-Clet",
             "hu": "Église Saint-Clet",
             "ro": "Église Saint-Clet",
-            "en": "Église Saint-Clet"
+            "en": "Église Saint-Clet",
+            "fr": "Église Saint-Clet"
           },
           "coords": [
             -4.647488,
@@ -329,7 +363,8 @@
             "de": "Bewundern Sie die markante Architektur dieser historischen Kirche im Zentrum und kommen Sie früh, um das Morgenlicht auf der Fassade einzufangen.",
             "hu": "Csodálja meg ennek a történelmi templomnak a lenyűgöző építészetét a központban, és érkezzen korán, hogy elcsípje a reggeli fényeket a homlokzaton.",
             "ro": "Admirați arhitectura remarcabilă a acestei biserici istorice din centru și vizitați devreme pentru a surprinde lumina frumoasă a dimineții pe fațadă.",
-            "en": "Admire the striking architecture of this historic church in the village center, and try to visit early to capture the beautiful morning light on its facade."
+            "en": "Admire the striking architecture of this historic church in the village center, and try to visit early to capture the beautiful morning light on its facade.",
+            "fr": "Admirez l’architecture frappante de cette église historique au centre du village, et essayez de la visiter tôt pour capter la belle lumière matinale sur sa façade."
           }
         },
         {
@@ -337,7 +372,8 @@
             "de": "Moulin de Mesguen",
             "hu": "Moulin de Mesguen",
             "ro": "Moulin de Mesguen",
-            "en": "Moulin de Mesguen"
+            "en": "Moulin de Mesguen",
+            "fr": "Moulin de Mesguen"
           },
           "coords": [
             -4.655836,
@@ -352,7 +388,8 @@
             "de": "Inspizieren Sie die robuste Struktur dieser traditionellen Steinmühle im Grünen und bringen Sie eine Kamera für bezaubernde Landschaftsfotos mit.",
             "hu": "Vizsgálja meg ennek a zöldellő környezetben megbúvó hagyományos kőmalomnak a robusztus szerkezetét, és hozzon magával fényképezőgépet a tájképekhez.",
             "ro": "Inspectați structura robustă a acestei mori tradiționale din piatră ascunsă în verdeață și aduceți un aparat foto pentru fotografii de peisaj fermecătoare.",
-            "en": "Inspect the robust structure of this traditional stone mill nestled in the greenery, and bring a camera for some charming countryside photography."
+            "en": "Inspect the robust structure of this traditional stone mill nestled in the greenery, and bring a camera for some charming countryside photography.",
+            "fr": "Inspectez la structure robuste de ce moulin en pierre traditionnel niché dans la verdure, et prenez un appareil photo pour quelques clichés charmants de campagne."
           }
         },
         {
@@ -360,7 +397,8 @@
             "de": "Plage de Porz Théolen",
             "hu": "Plage de Porz Théolen",
             "ro": "Plage de Porz Théolen",
-            "en": "Plage de Porz Théolen"
+            "en": "Plage de Porz Théolen",
+            "fr": "Plage de Porz Théolen"
           },
           "coords": [
             -4.672448,
@@ -375,7 +413,8 @@
             "de": "Entspannen Sie sich an diesem unberührten Sandstrand mit herrlichem Meerblick, aber seien Sie vorsichtig bei starker Flut, wenn Sie am Wasser spazieren.",
             "hu": "Pihenjen ezen az érintetlen homokos tengerparton, amely drámai óceáni kilátást nyújt, de legyen óvatos az erős árapállyal, ha a víz közelében sétál.",
             "ro": "Relaxați-vă pe această plajă nisipoasă virgină, care oferă vederi dramatice la ocean, dar aveți grijă la curenții puternici dacă vă plimbați pe mal.",
-            "en": "Relax on this pristine stretch of sandy coastline offering dramatic ocean views, but be cautious of the strong tides if you plan to walk near the water."
+            "en": "Relax on this pristine stretch of sandy coastline offering dramatic ocean views, but be cautious of the strong tides if you plan to walk near the water.",
+            "fr": "Détendez‑vous sur cette étendue immaculée de sable offrant des vues océaniques dramatiques, mais soyez prudent des marées fortes si vous prévoyez de marcher près de l’eau."
           }
         },
         {
@@ -383,7 +422,8 @@
             "de": "Moulin de Kernot",
             "hu": "Moulin de Kernot",
             "ro": "Moulin de Kernot",
-            "en": "Moulin de Kernot"
+            "en": "Moulin de Kernot",
+            "fr": "Moulin de Kernot"
           },
           "coords": [
             -4.679783,
@@ -398,7 +438,8 @@
             "de": "Halten Sie an dieser stimmungsvollen Windmühlenruine, die ein romantisches Bild gegen den Küstenhimmel malt, und überprüfen Sie die Windrichtung.",
             "hu": "Álljon meg ennél a hangulatos szélmalom romnál, amely romantikus képet fest a parti égboltra, és figyelje meg a szélirányt a működésének elképzeléséhez.",
             "ro": "Opriți-vă la această ruină evocatoare a unei mori de vânt care conturează o imagine romantică pe cerul coastei și verificați direcția vântului aici.",
-            "en": "Stop by this evocative windmill ruin that paints a romantic picture against the coastal sky, and check the wind direction to guess how it once operated."
+            "en": "Stop by this evocative windmill ruin that paints a romantic picture against the coastal sky, and check the wind direction to guess how it once operated.",
+            "fr": "Arrêtez‑vous devant cette ruine de moulin évocatrice qui dessine un tableau romantique contre le ciel côtier, et vérifiez la direction du vent pour imaginer son ancien fonctionnement."
           }
         },
         {
@@ -406,7 +447,8 @@
             "de": "Chapelle Saint-Yves",
             "hu": "Chapelle Saint-Yves",
             "ro": "Chapelle Saint-Yves",
-            "en": "Chapelle Saint-Yves"
+            "en": "Chapelle Saint-Yves",
+            "fr": "Chapelle Saint-Yves"
           },
           "coords": [
             -4.677053,
@@ -421,7 +463,8 @@
             "de": "Entdecken Sie die ruhige Atmosphäre dieser abgelegenen Kapelle, die Saint Yves gewidmet ist, und suchen Sie nach den zarten Schnitzereien an den Türen.",
             "hu": "Fedezze fel ennek a Szent Yves-nek szentelt, eldugott kápolnának a nyugodt légkörét, és belépés előtt keresse meg a faajtók finom faragásait.",
             "ro": "Descoperiți atmosfera senină a acestei capele izolate închinate Sfântului Yves și căutați sculpturile delicate de pe ușile de lemn înainte de a intra.",
-            "en": "Discover the serene atmosphere of this secluded chapel dedicated to Saint Yves, and look for the delicate carvings on the wooden doors before entering."
+            "en": "Discover the serene atmosphere of this secluded chapel dedicated to Saint Yves, and look for the delicate carvings on the wooden doors before entering.",
+            "fr": "Découvrez l’atmosphère sereine de cette chapelle isolée dédiée à Saint Yves, et cherchez les délicates sculptures sur les portes en bois avant d’entrer."
           }
         },
         {
@@ -429,7 +472,8 @@
             "de": "Église Saint-Collodan",
             "hu": "Église Saint-Collodan",
             "ro": "Église Saint-Collodan",
-            "en": "Église Saint-Collodan"
+            "en": "Église Saint-Collodan",
+            "fr": "Église Saint-Collodan"
           },
           "coords": [
             -4.665501,
@@ -444,7 +488,8 @@
             "de": "Besuchen Sie diese friedliche Pfarrkirche, um die Buntglasfenster zu schätzen, und sprechen Sie leise, da es ein aktiver Ort der Anbetung bleibt.",
             "hu": "Látogasson el ebbe a békés plébániatemplomba, hogy megcsodálja ólomüveg ablakait, és beszéljen halkan, mivel ez ma is aktív istentiszteleti hely.",
             "ro": "Vizitați această biserică parohială liniștită pentru a aprecia vitraliile sale și păstrați liniștea, deoarece rămâne un lăcaș de cult activ.",
-            "en": "Visit this peaceful parish church to appreciate its stained glass windows, and ensure you keep your voice down as it remains an active place of worship."
+            "en": "Visit this peaceful parish church to appreciate its stained glass windows, and ensure you keep your voice down as it remains an active place of worship.",
+            "fr": "Visitez cette paisible église paroissiale pour apprécier ses vitraux, et veillez à parler à voix basse car c’est un lieu de culte encore en activité."
           }
         }
       ],
@@ -452,7 +497,8 @@
         "de": "Ihre Radtour beginnt im Herzen bei der Église Saint-Clet, bevor Sie zur traditionellen Moulin de Mesguen radeln.\n\nAm Vormittag erreichen Sie die Küste, um die frische Brise an der Plage de Porz Théolen zu genießen.\n\nNach einer Pause fahren Sie an der malerischen Moulin de Kernot vorbei zur ruhigen Chapelle Saint-Yves.\n\nDie Tour endet entspannt bei der charmanten Église Saint-Collodan, wo Sie die reiche Geschichte ausklingen lassen.",
         "hu": "Kerékpártúrája a központban, az Église Saint-Clet-nél kezdődik, mielőtt eltekerne a hagyományos Moulin de Mesguen-hez.\n\nDélelőtt elérheti a tengerpartot, hogy élvezze a friss szelet a Plage de Porz Théolen strandján.\n\nEgy pihenő után tekerjen el a festői Moulin de Kernot mellett a csendes Chapelle Saint-Yves kápolnáig.\n\nA túra kényelmesen zárul a bájos Église Saint-Collodan-nál, ahol nyugodtan elmélyedhet a történelemben.",
         "ro": "Turul cu bicicleta începe în centru la Église Saint-Clet, înainte de a pedala spre tradiționala Moulin de Mesguen.\n\nSpre prânz, ajungeți pe coastă pentru a vă bucura de briza mării la frumoasa Plage de Porz Théolen.\n\nDupă o pauză, treceți pe lângă pitoreasca Moulin de Kernot spre liniștita Chapelle Saint-Yves.\n\nPlimbarea se încheie relaxant la fermecătoarea Église Saint-Collodan, lăsând istoria locului să vă inspire.",
-        "en": "Your cycling adventure starts at the central Église Saint-Clet before pedaling out to the traditional Moulin de Mesguen.\n\nBy mid-morning, you will reach the coast to enjoy the fresh sea breeze at the stunning Plage de Porz Théolen.\n\nAfter a refreshing stop, ride past the picturesque Moulin de Kernot down to the quiet Chapelle Saint-Yves.\n\nThe tour wraps up with a relaxing visit to the charming Église Saint-Collodan, steeped in local heritage."
+        "en": "Your cycling adventure starts at the central Église Saint-Clet before pedaling out to the traditional Moulin de Mesguen.\n\nBy mid-morning, you will reach the coast to enjoy the fresh sea breeze at the stunning Plage de Porz Théolen.\n\nAfter a refreshing stop, ride past the picturesque Moulin de Kernot down to the quiet Chapelle Saint-Yves.\n\nThe tour wraps up with a relaxing visit to the charming Église Saint-Collodan, steeped in local heritage.",
+        "fr": "Votre balade à vélo commence à l’Église Saint-Clet au centre avant de pédaler vers le traditionnel Moulin de Mesguen.\n\nEn fin de matinée, vous atteindrez la côte pour profiter de la brise marine à la magnifique Plage de Porz Théolen.\n\nAprès un arrêt revigorant, longez le pittoresque Moulin de Kernot jusqu’à la tranquille Chapelle Saint‑Yves.\n\nLa randonnée se termine par une visite reposante de la charmante Église Saint-Collodan, riche du patrimoine local."
       },
       "variants": {
         "rainy": {
@@ -460,7 +506,8 @@
             "de": "Ein regnerischer Tag auf zwei Rädern erfordert gute Regenbekleidung für die Fahrt zwischen den Mühlen und Kapellen. Mittags am Strand von Porz Théolen peitscht die Gischt hoch, ein dramatischer Anblick unter grauen Wolken. Nachmittags radeln wir vorsichtig auf den nassen Straßen zurück zum Dorf. Der Abend endet bei einer heißen Schokolade, während die Ausrüstung trocknet.",
             "hu": "Az esős kerékpáros nap vízálló öltözetet kíván a malmok és kápolnák közötti tekeréshez. Délben a Porz Théolen strandon a felcsapó tajték drámai látványt nyújt a szürke fellegek alatt. Délután óvatosan pedálozunk a csúszós aszfalton vissza a falu felé. Az este forró csokoládé mellett telik, amíg a felszerelésünk szárad a melegben.",
             "ro": "O zi ploioasă pe două roți necesită echipament impermeabil pentru drumul dintre mori și capele. La prânz, pe plaja Porz Théolen, valurile oferă un spectacol dramatic sub norii cenușii. După-amiaza pedalăm cu grijă pe asfaltul ud înapoi spre sat. Seara se încheie cu o ciocolată caldă, în timp ce echipamentul se usucă la căldură.",
-            "en": "A rainy day on two wheels requires good waterproof gear for the ride between windmills and chapels. At midday, the spray at Porz Théolen beach is a dramatic sight under the grey clouds. In the afternoon, we cycle carefully on the wet roads back towards the village. The evening ends with a hot chocolate while our gear dries off."
+            "en": "A rainy day on two wheels requires good waterproof gear for the ride between windmills and chapels. At midday, the spray at Porz Théolen beach is a dramatic sight under the grey clouds. In the afternoon, we cycle carefully on the wet roads back towards the village. The evening ends with a hot chocolate while our gear dries off.",
+            "fr": "Une journée pluvieuse à vélo nécessite un équipement imperméable pour les trajets entre moulins et chapelles. À midi, les embruns à la plage de Porz Théolen offrent un spectacle dramatique sous les nuages gris. L’après‑midi, nous roulons prudemment sur les routes mouillées vers le village. La soirée se termine par un chocolat chaud pendant que notre équipement sèche."
           },
           "stops": [
             {
@@ -468,13 +515,15 @@
                 "de": "Église Saint-Clet",
                 "hu": "Église Saint-Clet",
                 "ro": "Église Saint-Clet",
-                "en": "Église Saint-Clet"
+                "en": "Église Saint-Clet",
+                "fr": "Église Saint-Clet"
               },
               "tip_5lang": {
                 "de": "Suchen Sie hier Schutz vor dem ersten Guss; nutzen Sie die Zeit, um Ihre Kette zu prüfen, während es draußen regnet.",
                 "hu": "Keressen itt menedéket az első zápor elől; használja ki az időt a lánc ellenőrzésére, amíg kint esik az eső.",
                 "ro": "Căutați adăpost aici de prima ploaie; folosiți timpul pentru a verifica lanțul bicicletei în timp ce afară plouă.",
-                "en": "Seek shelter here from the first shower; use the time to check your bike chain while it rains outside."
+                "en": "Seek shelter here from the first shower; use the time to check your bike chain while it rains outside.",
+                "fr": "Cherchez un abri ici dès la première averse ; profitez‑en pour vérifier la chaîne de votre vélo pendant qu’il pleut dehors."
               }
             },
             {
@@ -482,13 +531,15 @@
                 "de": "Moulin de Mesguen",
                 "hu": "Moulin de Mesguen",
                 "ro": "Moulin de Mesguen",
-                "en": "Moulin de Mesguen"
+                "en": "Moulin de Mesguen",
+                "fr": "Moulin de Mesguen"
               },
               "tip_5lang": {
                 "de": "Die Mühle bietet wenig Unterstand; halten Sie nur kurz für ein Foto und tragen Sie eine wasserdichte Helmabdeckung.",
                 "hu": "A malom kevés védelmet nyújt; csak rövid időre álljon meg egy fotóra, és viseljen vízálló sisakhuzatot.",
                 "ro": "Moara oferă puțin adăpost; opriți-vă doar scurt pentru o fotografie și purtați o protecție impermeabilă pentru cască.",
-                "en": "The mill offers little shelter; stop only briefly for a photo and ensure you are wearing a waterproof helmet cover."
+                "en": "The mill offers little shelter; stop only briefly for a photo and ensure you are wearing a waterproof helmet cover.",
+                "fr": "Le moulin offre peu d’abri ; arrêtez‑vous seulement brièvement pour une photo et assurez‑vous d’avoir une housse imperméable pour votre casque."
               }
             },
             {
@@ -496,13 +547,15 @@
                 "de": "Plage de Porz Théolen",
                 "hu": "Plage de Porz Théolen",
                 "ro": "Plage de Porz Théolen",
-                "en": "Plage de Porz Théolen"
+                "en": "Plage de Porz Théolen",
+                "fr": "Plage de Porz Théolen"
               },
               "tip_5lang": {
                 "de": "Das raue Meer ist beeindruckend; meiden Sie bei Sturm die untersten Felsen, da die Gischt das Radfahren gefährlich machen kann.",
                 "hu": "A vad tenger lenyűgöző; viharos időben kerülje az alsó sziklákat, mert a felcsapó víz veszélyessé teheti a kerékpározást.",
                 "ro": "Marea agitată este impresionantă; evitați stâncile de jos în caz de furtună, deoarece apa pulverizată poate face pedalatul periculos.",
-                "en": "The rough sea is impressive; avoid the lower rocks during storms as the spray can make cycling nearby quite hazardous."
+                "en": "The rough sea is impressive; avoid the lower rocks during storms as the spray can make cycling nearby quite hazardous.",
+                "fr": "La mer agitée est impressionnante ; évitez les rochers inférieurs lors des tempêtes car les embruns peuvent rendre le cyclisme à proximité assez dangereux."
               }
             },
             {
@@ -510,13 +563,15 @@
                 "de": "Moulin de Kernot",
                 "hu": "Moulin de Kernot",
                 "ro": "Moulin de Kernot",
-                "en": "Moulin de Kernot"
+                "en": "Moulin de Kernot",
+                "fr": "Moulin de Kernot"
               },
               "tip_5lang": {
                 "de": "Die Wege zur Mühle können schlammig sein; fahren Sie langsam, um Schlammspritzer auf Ihrer Kleidung zu vermeiden.",
                 "hu": "A malomhoz vezető utak sarasak lehetnek; haladjon lassan, hogy elkerülje a sárfelcsapódást a ruházatára.",
                 "ro": "Drumurile spre moară pot fi noroioase; pedalați încet pentru a evita stropirea hainelor cu noroi.",
-                "en": "The paths to the mill can be muddy; ride slowly to avoid mud splashes on your clothing and gear."
+                "en": "The paths to the mill can be muddy; ride slowly to avoid mud splashes on your clothing and gear.",
+                "fr": "Les chemins menant au moulin peuvent être boueux ; roulez lentement pour éviter les éclaboussures de boue sur vos vêtements et votre équipement."
               }
             },
             {
@@ -524,13 +579,15 @@
                 "de": "Chapelle Saint-Yves",
                 "hu": "Chapelle Saint-Yves",
                 "ro": "Chapelle Saint-Yves",
-                "en": "Chapelle Saint-Yves"
+                "en": "Chapelle Saint-Yves",
+                "fr": "Chapelle Saint-Yves"
               },
               "tip_5lang": {
                 "de": "Ein guter Ort zum Aufwärmen und Verschnaufen; prüfen Sie Ihre Bremsen, bevor Sie die nächste nasse Abfahrt antreten.",
                 "hu": "Kiváló hely a bemelegedésre és pihenésre; ellenőrizze a fékeket, mielőtt nekivág a következő vizes lejtőnek.",
                 "ro": "Un loc excelent pentru încălzire și odihnă; verificați frânele înainte de a începe următoarea coborâre pe ud.",
-                "en": "A great place to warm up and take a breather; check your brakes before tackling the next wet downhill stretch."
+                "en": "A great place to warm up and take a breather; check your brakes before tackling the next wet downhill stretch.",
+                "fr": "Un excellent endroit pour se réchauffer et reprendre son souffle ; vérifiez vos freins avant d’attaquer la prochaine descente humide."
               }
             },
             {
@@ -538,13 +595,15 @@
                 "de": "Église Saint-Collodan",
                 "hu": "Église Saint-Collodan",
                 "ro": "Église Saint-Collodan",
-                "en": "Église Saint-Collodan"
+                "en": "Église Saint-Collodan",
+                "fr": "Église Saint-Collodan"
               },
               "tip_5lang": {
                 "de": "Beenden Sie die Fahrt hier und parken Sie das Rad an einem geschützten Ort; trocknen Sie die Felgen ab, um Rost zu vermeiden.",
                 "hu": "Itt fejezze be az utat, és parkolja a kerékpárt védett helyen; törölje szárazra a felniket a rozsdásodás megelőzése érdekében.",
                 "ro": "Încheiați călătoria aici și parcați bicicleta într-un loc protejat; ștergeți jantele pentru a preveni rugina.",
-                "en": "Finish your ride here and park the bike in a sheltered spot; wipe the rims dry to prevent rust after the rainy trip."
+                "en": "Finish your ride here and park the bike in a sheltered spot; wipe the rims dry to prevent rust after the rainy trip.",
+                "fr": "Terminez votre sortie ici et garez le vélo dans un endroit abrité ; essuyez les jantes pour éviter la rouille après le trajet pluvieux."
               }
             }
           ]
@@ -554,7 +613,8 @@
             "de": "Die Wintertour beginnt in der Kälte des Morgens, wobei der Wind am Moulin de Mesguen besonders frisch weht. Mittags bietet der Strand von Porz Théolen eine raue, einsame Schönheit, ideal für einen kurzen Halt. Am Nachmittag radeln wir zügig zu den letzten Kapellen, um vor der Dunkelheit um 17:00 Uhr zurück zu sein. Der Tag endet in der wohligen Wärme einer lokalen Gaststube.",
             "hu": "A téli túra a reggeli fagyban indul, a Moulin de Mesguen környékén a szél különösen friss. Délben a Porz Théolen strand nyers, magányos szépsége lenyűgöző, tökéletes egy rövid megállóra. Délután tempósan tekerünk az utolsó kápolnákhoz, hogy a 17:00-ás sötétedés előtt visszaérjünk. A nap egy helyi vendéglő barátságos melegében ér véget.",
             "ro": "Turul de iarnă începe în gerul dimineții, vântul fiind deosebit de tăios lângă Moulin de Mesguen. La prânz, plaja Porz Théolen oferă o frumusețe brută și solitară, ideală pentru o oprire scurtă. După-amiaza pedalăm rapid spre ultimele capele pentru a ne întoarce înainte de întunericul de la ora 17:00. Ziua se încheie la căldura unei taverne locale.",
-            "en": "The winter tour starts in the morning frost, with the wind feeling especially brisk near Moulin de Mesguen. At midday, Porz Théolen beach offers a raw, solitary beauty, perfect for a short stop. In the afternoon, we cycle briskly to the final chapels to return before the 17:00 darkness. The day ends in the cozy warmth of a local tavern."
+            "en": "The winter tour starts in the morning frost, with the wind feeling especially brisk near Moulin de Mesguen. At midday, Porz Théolen beach offers a raw, solitary beauty, perfect for a short stop. In the afternoon, we cycle briskly to the final chapels to return before the 17:00 darkness. The day ends in the cozy warmth of a local tavern.",
+            "fr": "La randonnée hivernale commence dans le givre matinal, le vent se faisant particulièrement vif près du Moulin de Mesguen. À midi, la plage de Porz Théolen offre une beauté brute et solitaire, parfaite pour un court arrêt. L’après‑midi, nous pédalons rapidement vers les chapelles finales pour revenir avant l’obscurité de 17:00. La journée se termine dans la chaleur conviviale d’une taverne locale."
           },
           "stops": [
             {
@@ -562,13 +622,15 @@
                 "de": "Église Saint-Clet",
                 "hu": "Église Saint-Clet",
                 "ro": "Église Saint-Clet",
-                "en": "Église Saint-Clet"
+                "en": "Église Saint-Clet",
+                "fr": "Église Saint-Clet"
               },
               "tip_5lang": {
                 "de": "Die Kirche bietet Schutz vor dem eisigen Wind; bewegen Sie Ihre Finger und Zehen regelmäßig, um die Durchblutung zu fördern.",
                 "hu": "A templom védelmet nyújt a jeges szél ellen; mozgassa rendszeresen az ujjait és lábujjait a keringés fenntartásához.",
                 "ro": "Biserica oferă protecție împotriva vântului înghețat; mișcați-vă degetele constant pentru a menține circulația sângelui.",
-                "en": "The church provides protection from the icy wind; move your fingers and toes regularly to maintain circulation while stopped."
+                "en": "The church provides protection from the icy wind; move your fingers and toes regularly to maintain circulation while stopped.",
+                "fr": "L’église protège du vent glacial ; bougez régulièrement doigts et orteils pour maintenir la circulation pendant l’arrêt."
               }
             },
             {
@@ -576,13 +638,15 @@
                 "de": "Moulin de Mesguen",
                 "hu": "Moulin de Mesguen",
                 "ro": "Moulin de Mesguen",
-                "en": "Moulin de Mesguen"
+                "en": "Moulin de Mesguen",
+                "fr": "Moulin de Mesguen"
               },
               "tip_5lang": {
                 "de": "Hier ist es sehr zugig; tragen Sie eine winddichte Weste über Ihrer Jacke, um die Körperwärme beim Fotografieren zu halten.",
                 "hu": "Itt nagyon huzatos a levegő; viseljen szélálló mellényt a kabátja felett, hogy megőrizze a testhőt fotózás közben.",
                 "ro": "Aici este foarte mult curent; purtați o vestă rezistentă la vânt peste jachetă pentru a menține căldura corpului în timp ce fotografiați.",
-                "en": "It is very drafty here; wear a windproof vest over your jacket to preserve body heat while taking photos of the mill."
+                "en": "It is very drafty here; wear a windproof vest over your jacket to preserve body heat while taking photos of the mill.",
+                "fr": "Il y a beaucoup de courant d’air ici ; portez un gilet coupe‑vent par‑dessus votre veste pour conserver la chaleur corporelle en prenant des photos du moulin."
               }
             },
             {
@@ -590,13 +654,15 @@
                 "de": "Plage de Porz Théolen",
                 "hu": "Plage de Porz Théolen",
                 "ro": "Plage de Porz Théolen",
-                "en": "Plage de Porz Théolen"
+                "en": "Plage de Porz Théolen",
+                "fr": "Plage de Porz Théolen"
               },
               "tip_5lang": {
                 "de": "Ein kurzer, intensiver Aufenthalt; die Luft ist sehr salzig und kalt, trinken Sie einen Schluck warmen Tee aus Ihrer Thermoskanne.",
                 "hu": "Rövid, intenzív megálló; a levegő sós és hideg, igyon egy korty meleg teát a termoszhából az energia pótlására.",
                 "ro": "O oprire scurtă și intensă; aerul este sărat și rece, beți o gură de ceai cald din termos pentru a vă revigora.",
-                "en": "A short, intense stop; the air is salty and cold, take a sip of warm tea from your thermos to keep your energy up."
+                "en": "A short, intense stop; the air is salty and cold, take a sip of warm tea from your thermos to keep your energy up.",
+                "fr": "Un arrêt court et intense ; l’air est salé et froid, buvez une gorgée de thé chaud dans votre thermos pour garder de l’énergie."
               }
             },
             {
@@ -604,13 +670,15 @@
                 "de": "Moulin de Kernot",
                 "hu": "Moulin de Kernot",
                 "ro": "Moulin de Kernot",
-                "en": "Moulin de Kernot"
+                "en": "Moulin de Kernot",
+                "fr": "Moulin de Kernot"
               },
               "tip_5lang": {
                 "de": "Die Wintersonne steht tief und blendet; tragen Sie eine Sonnenbrille, um die eisigen Wege beim Radfahren besser sehen zu können.",
                 "hu": "A téli nap alacsonyan jár és vakít; viseljen napszemüveget, hogy jobban lássa a jeges utakat kerékpározás közben.",
                 "ro": "Soarele de iarnă este jos și orbitor; purtați ochelari de soare pentru a vedea mai bine drumurile înghețate în timp ce pedalați.",
-                "en": "The winter sun is low and blinding; wear sunglasses to see the icy paths better while cycling between locations."
+                "en": "The winter sun is low and blinding; wear sunglasses to see the icy paths better while cycling between locations.",
+                "fr": "Le soleil d’hiver est bas et éblouissant ; portez des lunettes de soleil pour mieux voir les chemins gelés en roulant entre les lieux."
               }
             },
             {
@@ -618,13 +686,15 @@
                 "de": "Chapelle Saint-Yves",
                 "hu": "Chapelle Saint-Yves",
                 "ro": "Chapelle Saint-Yves",
-                "en": "Chapelle Saint-Yves"
+                "en": "Chapelle Saint-Yves",
+                "fr": "Chapelle Saint-Yves"
               },
               "tip_5lang": {
                 "de": "Suchen Sie das warme Licht im Inneren; achten Sie auf die Zeit, da die Dämmerung im Winter sehr schnell einsetzt.",
                 "hu": "Keresse a belső tér meleg fényeit; ügyeljen az időre, mert a szürkület télen rendkívül gyorsan leszáll.",
                 "ro": "Căutați lumina caldă din interior; atenție la timp, deoarece amurgul se lasă foarte repede pe timp de iarnă.",
-                "en": "Seek the warm light inside the chapel; keep an eye on the time as twilight sets in very quickly during winter."
+                "en": "Seek the warm light inside the chapel; keep an eye on the time as twilight sets in very quickly during winter.",
+                "fr": "Cherchez la lumière chaude à l’intérieur de la chapelle ; surveillez l’heure car le crépuscule arrive très vite en hiver."
               }
             },
             {
@@ -632,13 +702,15 @@
                 "de": "Église Saint-Collodan",
                 "hu": "Église Saint-Collodan",
                 "ro": "Église Saint-Collodan",
-                "en": "Église Saint-Collodan"
+                "en": "Église Saint-Collodan",
+                "fr": "Église Saint-Collodan"
               },
               "tip_5lang": {
                 "de": "Beenden Sie Ihre Tour vor 17:00 Uhr; schalten Sie Ihre Fahrradbeleuchtung frühzeitig ein, um sicher zurückzukommen.",
                 "hu": "Fejezze be a túrát 17:00 előtt; kapcsolja be korán a kerékpárlámpákat a biztonságos visszatérés érdekében.",
                 "ro": "Încheiați turul înainte de ora 17:00; aprindeți luminile bicicletei din timp pentru a vă întoarce în siguranță.",
-                "en": "Finish your tour before 17:00; turn on your bike lights early to ensure a safe return in the fading winter light."
+                "en": "Finish your tour before 17:00; turn on your bike lights early to ensure a safe return in the fading winter light.",
+                "fr": "Terminez votre circuit avant 17:00 ; allumez vos lumières de vélo tôt pour assurer un retour sûr dans la faible lumière hivernale."
               }
             }
           ]
@@ -658,7 +730,8 @@
             "de": "Chapelle de Langroas",
             "hu": "Chapelle de Langroas",
             "ro": "Chapelle de Langroas",
-            "en": "Chapelle de Langroas"
+            "en": "Chapelle de Langroas",
+            "fr": "Chapelle de Langroas"
           },
           "coords": [
             -4.617007,
@@ -673,7 +746,8 @@
             "de": "Beginnen Sie Ihre Reise an dieser charmanten östlichen Kapelle mit authentischem bretonischem Design und bewundern Sie die friedlichen Felder ringsum.",
             "hu": "Kezdje útját ennél a bájos keleti kápolnánál, amely autentikus breton dizájnnal büszkélkedhet, és szánjon egy percet a békés vidéki mezők megcsodálására.",
             "ro": "Începeți călătoria la această fermecătoare capelă estică cu design breton autentic și acordați-vă un moment pentru a admira câmpurile rurale pașnice.",
-            "en": "Start your journey at this charming eastern chapel featuring authentic Breton design, and take a moment to admire the peaceful rural fields surrounding it."
+            "en": "Start your journey at this charming eastern chapel featuring authentic Breton design, and take a moment to admire the peaceful rural fields surrounding it.",
+            "fr": "Commencez votre parcours à cette charmante chapelle orientale présentant un véritable design breton, et prenez un instant pour admirer les paisibles champs ruraux qui l’entourent."
           }
         },
         {
@@ -681,7 +755,8 @@
             "de": "Église Saint-Clet",
             "hu": "Église Saint-Clet",
             "ro": "Église Saint-Clet",
-            "en": "Église Saint-Clet"
+            "en": "Église Saint-Clet",
+            "fr": "Église Saint-Clet"
           },
           "coords": [
             -4.647488,
@@ -696,7 +771,8 @@
             "de": "Bewundern Sie die markante Architektur dieser historischen Kirche im Zentrum und kommen Sie früh, um das Morgenlicht auf der Fassade einzufangen.",
             "hu": "Csodálja meg ennek a történelmi templomnak a lenyűgöző építészetét a központban, és érkezzen korán, hogy elcsípje a reggeli fényeket a homlokzaton.",
             "ro": "Admirați arhitectura remarcabilă a acestei biserici istorice din centru și vizitați devreme pentru a surprinde lumina frumoasă a dimineții pe fațadă.",
-            "en": "Admire the striking architecture of this historic church in the village center, and try to visit early to capture the beautiful morning light on its facade."
+            "en": "Admire the striking architecture of this historic church in the village center, and try to visit early to capture the beautiful morning light on its facade.",
+            "fr": "Admirez l’architecture frappante de cette église historique au centre du village, et essayez de la visiter tôt pour capter la belle lumière matinale sur sa façade."
           }
         },
         {
@@ -704,7 +780,8 @@
             "de": "Plage de Porz Théolen",
             "hu": "Plage de Porz Théolen",
             "ro": "Plage de Porz Théolen",
-            "en": "Plage de Porz Théolen"
+            "en": "Plage de Porz Théolen",
+            "fr": "Plage de Porz Théolen"
           },
           "coords": [
             -4.672448,
@@ -719,7 +796,8 @@
             "de": "Entspannen Sie sich an diesem unberührten Sandstrand mit herrlichem Meerblick, aber seien Sie vorsichtig bei starker Flut, wenn Sie am Wasser spazieren.",
             "hu": "Pihenjen ezen az érintetlen homokos tengerparton, amely drámai óceáni kilátást nyújt, de legyen óvatos az erős árapállyal, ha a víz közelében sétál.",
             "ro": "Relaxați-vă pe această plajă nisipoasă virgină, care oferă vederi dramatice la ocean, dar aveți grijă la curenții puternici dacă vă plimbați pe mal.",
-            "en": "Relax on this pristine stretch of sandy coastline offering dramatic ocean views, but be cautious of the strong tides if you plan to walk near the water."
+            "en": "Relax on this pristine stretch of sandy coastline offering dramatic ocean views, but be cautious of the strong tides if you plan to walk near the water.",
+            "fr": "Détendez‑vous sur cette étendue immaculée de sable offrant des vues océaniques dramatiques, mais soyez prudent des marées fortes si vous prévoyez de marcher près de l’eau."
           }
         },
         {
@@ -727,7 +805,8 @@
             "de": "Chapelle Saint-Yves",
             "hu": "Chapelle Saint-Yves",
             "ro": "Chapelle Saint-Yves",
-            "en": "Chapelle Saint-Yves"
+            "en": "Chapelle Saint-Yves",
+            "fr": "Chapelle Saint-Yves"
           },
           "coords": [
             -4.677053,
@@ -742,7 +821,8 @@
             "de": "Entdecken Sie die ruhige Atmosphäre dieser abgelegenen Kapelle, die Saint Yves gewidmet ist, und suchen Sie nach den zarten Schnitzereien an den Türen.",
             "hu": "Fedezze fel ennek a Szent Yves-nek szentelt, eldugott kápolnának a nyugodt légkörét, és belépés előtt keresse meg a faajtók finom faragásait.",
             "ro": "Descoperiți atmosfera senină a acestei capele izolate închinate Sfântului Yves și căutați sculpturile delicate de pe ușile de lemn înainte de a intra.",
-            "en": "Discover the serene atmosphere of this secluded chapel dedicated to Saint Yves, and look for the delicate carvings on the wooden doors before entering."
+            "en": "Discover the serene atmosphere of this secluded chapel dedicated to Saint Yves, and look for the delicate carvings on the wooden doors before entering.",
+            "fr": "Découvrez l’atmosphère sereine de cette chapelle isolée dédiée à Saint Yves, et cherchez les délicates sculptures sur les portes en bois avant d’entrer."
           }
         },
         {
@@ -750,7 +830,8 @@
             "de": "Menhirs de Ar Peulven",
             "hu": "Menhirs de Ar Peulven",
             "ro": "Menhirs de Ar Peulven",
-            "en": "Menhirs de Ar Peulven"
+            "en": "Menhirs de Ar Peulven",
+            "fr": "Menhirs de Ar Peulven"
           },
           "coords": [
             -4.648763,
@@ -765,7 +846,8 @@
             "de": "Erkunden Sie diese alten Menhire, die an eine prähistorische Ära erinnern, und tragen Sie feste Wanderschuhe, da das umliegende Gelände uneben ist.",
             "hu": "Fedezze fel ezeket az ősi állóköveket, amelyek egy elfeledett történelem előtti korszakot idéznek, és viseljen túracipőt az egyenetlen terep miatt.",
             "ro": "Explorați aceste pietre antice care evocă o eră preistorică uitată și purtați încălțăminte de drumeție robustă, deoarece terenul înconjurător este denivelat.",
-            "en": "Explore these ancient standing stones that echo a forgotten prehistoric era, and wear sturdy walking shoes as the surrounding terrain can be quite uneven."
+            "en": "Explore these ancient standing stones that echo a forgotten prehistoric era, and wear sturdy walking shoes as the surrounding terrain can be quite uneven.",
+            "fr": "Explorez ces anciens menhirs qui évoquent une ère préhistorique oubliée, et portez des chaussures de marche robustes car le terrain environnant peut être assez inégal."
           }
         },
         {
@@ -773,7 +855,8 @@
             "de": "Chapelle Notre-Dame de Bon Voyage",
             "hu": "Chapelle Notre-Dame de Bon Voyage",
             "ro": "Chapelle Notre-Dame de Bon Voyage",
-            "en": "Chapelle Notre-Dame de Bon Voyage"
+            "en": "Chapelle Notre-Dame de Bon Voyage",
+            "fr": "Chapelle Notre-Dame de Bon Voyage"
           },
           "coords": [
             -4.649856,
@@ -788,7 +871,8 @@
             "de": "Nehmen Sie sich einen Moment der Besinnung in dieser maritimen Kapelle, in der Seeleute beteten, und achten Sie auf die nautischen Motive im Inneren.",
             "hu": "Töltsön el egy percet elmélkedéssel ennél a tengerészeti kápolnánál, ahol egykor tengerészek imádkoztak, és figyelje meg a belső tengeri motívumokat.",
             "ro": "Profitați de un moment de reflecție la această capelă maritimă unde se rugau marinarii și priviți îndeaproape motivele nautice care o decorează.",
-            "en": "Take a moment of reflection at this maritime chapel where sailors once prayed, and look closely at the intricate nautical motifs adorning the interior."
+            "en": "Take a moment of reflection at this maritime chapel where sailors once prayed, and look closely at the intricate nautical motifs adorning the interior.",
+            "fr": "Prenez un moment de recueillement dans cette chapelle maritime où jadis priaient les marins, et observez les motifs nautiques complexes ornant l’intérieur."
           }
         }
       ],
@@ -796,7 +880,8 @@
         "de": "Ihr Roadtrip beginnt malerisch an der östlichen Chapelle de Langroas, gefolgt von der zentralen Église Saint-Clet.\n\nGegen Mittag fahren Sie zur Plage de Porz Théolen, um die majestätische Küstenlinie und das weite Meer zu bewundern.\n\nNach der Küste erkunden Sie die abgelegene Chapelle Saint-Yves und die prähistorischen Menhirs de Ar Peulven.\n\nDer Tag findet einen perfekten maritimen Abschluss bei der Chapelle Notre-Dame de Bon Voyage im Süden.",
         "hu": "Autós utazása a keleti Chapelle de Langroas festői látványával indul, amelyet a központi Église Saint-Clet követ.\n\nDél körül a Plage de Porz Théolen strandhoz hajt, hogy megcsodálja a fenséges tengerpartot és a nyílt óceánt.\n\nA part után felfedezi a félreeső Chapelle Saint-Yves-t és az ősi Menhirs de Ar Peulven köveit.\n\nA nap tökéletes tengerészeti lezárást kap a déli Chapelle Notre-Dame de Bon Voyage kápolnánál.",
         "ro": "Călătoria dumneavoastră pitorească începe la est cu Chapelle de Langroas, urmată de centrala Église Saint-Clet.\n\nSpre prânz, conduceți spre Plage de Porz Théolen pentru a admira coasta maiestuoasă și oceanul vast.\n\nDupă o pauză pe coastă, explorați izolată Chapelle Saint-Yves și preistoricele Menhirs de Ar Peulven.\n\nZiua are un final maritim perfect la Chapelle Notre-Dame de Bon Voyage, situată în sud.",
-        "en": "Your scenic drive kicks off at the eastern Chapelle de Langroas, followed by a visit to the central Église Saint-Clet.\n\nAround midday, cruise over to the Plage de Porz Théolen to soak in the majestic coastline and vast ocean views.\n\nAfter the coast, you will explore the secluded Chapelle Saint-Yves and the prehistoric Menhirs de Ar Peulven.\n\nThe day reaches a perfect maritime conclusion at the Chapelle Notre-Dame de Bon Voyage in the south."
+        "en": "Your scenic drive kicks off at the eastern Chapelle de Langroas, followed by a visit to the central Église Saint-Clet.\n\nAround midday, cruise over to the Plage de Porz Théolen to soak in the majestic coastline and vast ocean views.\n\nAfter the coast, you will explore the secluded Chapelle Saint-Yves and the prehistoric Menhirs de Ar Peulven.\n\nThe day reaches a perfect maritime conclusion at the Chapelle Notre-Dame de Bon Voyage in the south.",
+        "fr": "Votre promenade pittoresque débute à l’est, à la Chapelle de Langroas, suivie d’une visite à l’Église Saint-Clet au centre.\n\nVers midi, gagnez la Plage de Porz Théolen pour profiter de la côte majestueuse et des vastes vues sur l’océan.\n\nAprès le rivage, vous explorerez la discrète Chapelle Saint‑Yves et les menhirs préhistoriques de Ar Peulven.\n\nLa journée trouve sa conclusion maritime idéale à la Chapelle Notre‑Dame de Bon Voyage au sud."
       },
       "variants": {
         "rainy": {
@@ -804,7 +889,8 @@
             "de": "Im Auto erkunden wir das Cap Sizun geschützt vor dem bretonischen Regen, der die Kapellen in ein mystisches Licht taucht. Mittags am Strand beobachten wir das Wetterspiel aus dem trockenen Innenraum, bevor es zu den Menhirs geht. Nachmittags gleiten wir über die nassen Küstenstraßen zu versteckten religiösen Schätzen. Der Abend endet bei einem festlichen Abendessen in einer warmen Brasserie.",
             "hu": "Autóval fedezzük fel Cap Sizun vidékét, védve a breton esőtől, amely misztikus fénybe vonja a kápolnákat. Délben a tengerparti vihart a száraz utastérből figyeljük, majd a menhirek felé vesszük az irányt. Délután a vizes parti utakon suhanunk az elrejtett vallási kincsek felé. Az este egy ünnepi vacsorával zárul egy meleg brasserie-ben.",
             "ro": "Cu mașina explorăm Cap Sizun protejați de ploaia bretonă, care scaldă capelele într-o lumină mistică. La prânz admirăm furtuna de pe coastă din interiorul uscat al vehiculului, apoi pornim spre menhiri. După-amiaza conducem pe drumurile ude spre comorile religioase ascunse. Seara se încheie cu o cină festivă într-o braserie primitoare.",
-            "en": "By car, we explore Cap Sizun protected from the Brittany rain, which bathes the chapels in a mystical light. At midday, we watch the coastal storm from the dry interior before heading to the menhirs. In the afternoon, we glide along the wet coastal roads toward hidden religious treasures. The evening ends with a festive dinner in a warm brasserie."
+            "en": "By car, we explore Cap Sizun protected from the Brittany rain, which bathes the chapels in a mystical light. At midday, we watch the coastal storm from the dry interior before heading to the menhirs. In the afternoon, we glide along the wet coastal roads toward hidden religious treasures. The evening ends with a festive dinner in a warm brasserie.",
+            "fr": "En voiture, nous explorons le Cap Sizun à l’abri de la pluie bretonne, qui baigne les chapelles d’une lumière mystique. À midi, nous observons la tempête côtière depuis l’intérieur sec avant de nous rendre aux menhirs. L’après‑midi, nous longeons les routes côtières mouillées vers des trésors religieux cachés. La soirée se termine par un dîner festif dans une brasserie chaleureuse."
           },
           "stops": [
             {
@@ -812,13 +898,15 @@
                 "de": "Chapelle de Langroas",
                 "hu": "Chapelle de Langroas",
                 "ro": "Chapelle de Langroas",
-                "en": "Chapelle de Langroas"
+                "en": "Chapelle de Langroas",
+                "fr": "Chapelle de Langroas"
               },
               "tip_5lang": {
                 "de": "Parken Sie nah am Eingang, um nicht nass zu werden; die Kapelle ist ein ruhiger Ort, um dem Prasseln des Regens zu lauschen.",
                 "hu": "Parkoljon közvetlenül a bejáratnál, hogy elkerülje az ázást; a kápolna nyugodt hely az eső kopogásának hallgatására.",
                 "ro": "Parcați aproape de intrare pentru a evita udarea; capela este un loc liniștit pentru a asculta ropotul ploii.",
-                "en": "Park close to the entrance to stay dry; the chapel is a peaceful spot to listen to the patter of rain on the roof."
+                "en": "Park close to the entrance to stay dry; the chapel is a peaceful spot to listen to the patter of rain on the roof.",
+                "fr": "Garez‑vous près de l’entrée pour rester au sec ; la chapelle est un endroit paisible pour écouter la pluie tomber sur le toit."
               }
             },
             {
@@ -826,13 +914,15 @@
                 "de": "Église Saint-Clet",
                 "hu": "Église Saint-Clet",
                 "ro": "Église Saint-Clet",
-                "en": "Église Saint-Clet"
+                "en": "Église Saint-Clet",
+                "fr": "Église Saint-Clet"
               },
               "tip_5lang": {
                 "de": "Nutzen Sie den überdachten Eingang; drinnen ist es trocken und ideal, um die kunstvollen Details in Ruhe zu betrachten.",
                 "hu": "Használja a fedett bejáratot; odabent száraz az idő, ideális a művészi részletek nyugodt megtekintéséhez.",
                 "ro": "Folosiți intrarea acoperită; în interior este uscat și ideal pentru a admira detaliile artistice în liniște.",
-                "en": "Take advantage of the covered entrance; inside it's dry and ideal for observing the artistic details in peace."
+                "en": "Take advantage of the covered entrance; inside it's dry and ideal for observing the artistic details in peace.",
+                "fr": "Profitez du porche couvert ; à l’intérieur c’est sec et idéal pour observer les détails artistiques en toute tranquillité."
               }
             },
             {
@@ -840,13 +930,15 @@
                 "de": "Plage de Porz Théolen",
                 "hu": "Plage de Porz Théolen",
                 "ro": "Plage de Porz Théolen",
-                "en": "Plage de Porz Théolen"
+                "en": "Plage de Porz Théolen",
+                "fr": "Plage de Porz Théolen"
               },
               "tip_5lang": {
                 "de": "Genießen Sie den Blick auf die tosenden Wellen aus dem Auto; der Parkplatz bietet eine gute Sicht, ohne dass Sie nass werden.",
                 "hu": "Élvezze a tomboló hullámok látványát az autóból; a parkolóból kiváló a kilátás anélkül, hogy megázna a szélben.",
                 "ro": "Bucurați-vă de vederea valurilor învolburate din mașină; parcarea oferă o vizibilitate bună fără să vă udați.",
-                "en": "Enjoy the view of the crashing waves from your car; the parking lot offers a great vantage point without getting wet."
+                "en": "Enjoy the view of the crashing waves from your car; the parking lot offers a great vantage point without getting wet.",
+                "fr": "Appréciez la vue des vagues déchaînées depuis votre voiture ; le parking offre un excellent point de vue sans se mouiller."
               }
             },
             {
@@ -854,13 +946,15 @@
                 "de": "Chapelle Saint-Yves",
                 "hu": "Chapelle Saint-Yves",
                 "ro": "Chapelle Saint-Yves",
-                "en": "Chapelle Saint-Yves"
+                "en": "Chapelle Saint-Yves",
+                "fr": "Chapelle Saint-Yves"
               },
               "tip_5lang": {
                 "de": "Halten Sie einen Regenschirm bereit für den kurzen Weg vom Parkplatz; die Kapelle bietet eine mystische Atmosphäre bei Regen.",
                 "hu": "Legyen kéznél esernyő a parkolótól vezető rövid útra; a kápolna misztikus hangulatot áraszt az esős időben.",
                 "ro": "Aveți o umbrelă pregătită pentru drumul scurt de la parcare; capela emană o atmosferă mistică pe timp de ploaie.",
-                "en": "Have an umbrella ready for the short walk from the car; the chapel exudes a mystical atmosphere during rainy weather."
+                "en": "Have an umbrella ready for the short walk from the car; the chapel exudes a mystical atmosphere during rainy weather.",
+                "fr": "Ayez un parapluie pour la courte marche depuis la voiture ; la chapelle dégage une atmosphère mystique par temps de pluie."
               }
             },
             {
@@ -868,13 +962,15 @@
                 "de": "Menhirs de Ar Peulven",
                 "hu": "Menhirs de Ar Peulven",
                 "ro": "Menhirs de Ar Peulven",
-                "en": "Menhirs de Ar Peulven"
+                "en": "Menhirs de Ar Peulven",
+                "fr": "Menhirs de Ar Peulven"
               },
               "tip_5lang": {
                 "de": "Die dunklen Steine bilden einen starken Kontrast zum grauen Himmel; ein schneller Stopp reicht, um den magischen Ort zu erleben.",
                 "hu": "A sötét kövek erős kontrasztot alkotnak a szürke éggel; egy gyors megálló is elég a mágikus helyszín átéléséhez.",
                 "ro": "Pietrele întunecate formează un contrast puternic cu cerul gri; o oprire rapidă este suficientă pentru a experimenta locul magic.",
-                "en": "The dark stones create a strong contrast with the grey sky; a quick stop is enough to experience this magical site."
+                "en": "The dark stones create a strong contrast with the grey sky; a quick stop is enough to experience this magical site.",
+                "fr": "Les pierres sombres contrastent fortement avec le ciel gris ; un arrêt rapide suffit pour ressentir la magie du site."
               }
             },
             {
@@ -882,13 +978,15 @@
                 "de": "Chapelle Notre-Dame de Bon Voyage",
                 "hu": "Chapelle Notre-Dame de Bon Voyage",
                 "ro": "Chapelle Notre-Dame de Bon Voyage",
-                "en": "Chapelle Notre-Dame de Bon Voyage"
+                "en": "Chapelle Notre-Dame de Bon Voyage",
+                "fr": "Chapelle Notre-Dame de Bon Voyage"
               },
               "tip_5lang": {
                 "de": "Der perfekte Ort für einen besinnlichen Abschluss; prüfen Sie vor der Abfahrt Ihre Scheibenwischer auf volle Funktion.",
                 "hu": "Tökéletes helyszín egy elmélyült befejezéshez; indulás előtt ellenőrizze az ablaktörlők megfelelő működését.",
                 "ro": "Locul perfect pentru un final meditativ; înainte de plecare, verificați funcționarea corectă a ștergătoarelor.",
-                "en": "The perfect location for a contemplative conclusion; check your windshield wipers for full functionality before driving off."
+                "en": "The perfect location for a contemplative conclusion; check your windshield wipers for full functionality before driving off.",
+                "fr": "L'endroit parfait pour une conclusion contemplative ; vérifiez le bon fonctionnement de vos essuie-glaces avant de repartir."
               }
             }
           ]
@@ -898,7 +996,8 @@
             "de": "Die winterliche Panoramafahrt führt uns durch die frostige Landschaft zu den historischen Kapellen des Kaps. Mittags bietet die Aussicht auf die Klippen bei Porz Théolen ein majestätisches Bild, während die Heizung im Auto für Komfort sorgt. Am Nachmittag besuchen wir die Menhirs, bevor das Licht um 17:00 Uhr schwindet. Der Tag endet entspannt bei einem Glas Wein in einer beheizten Unterkunft.",
             "hu": "A téli panorámaút a fagyos tájon át vezet a félsziget történelmi kápolnáihoz. Délben a Porz Théolen szikláiról nyíló kilátás fenséges, miközben az autó fűtése biztosítja a kényelmet. Délután a menhireket keressük fel, mielőtt 17:00-kor fogyni kezd a fény. A nap egy pohár bor mellett, egy fűtött szálláshelyen ér véget.",
             "ro": "Traseul panoramic de iarnă ne poartă prin peisajul înghețat spre capelele istorice ale capului. La prânz, vederea spre stâncile de la Porz Théolen este maiestuoasă, în timp ce căldura din mașină asigură confortul. După-amiaza vizităm menhirii înainte ca lumina să dispară la ora 17:00. Ziua se încheie relaxat cu un pahar de vin într-o locație încălzită.",
-            "en": "The winter scenic drive takes us through the frosty landscape to the historic chapels of the cape. At midday, the view of the cliffs at Porz Théolen is majestic, while the car's heater ensures comfort. In the afternoon, we visit the menhirs before the light fades at 17:00. The day ends relaxedly with a glass of wine in a heated accommodation."
+            "en": "The winter scenic drive takes us through the frosty landscape to the historic chapels of the cape. At midday, the view of the cliffs at Porz Théolen is majestic, while the car's heater ensures comfort. In the afternoon, we visit the menhirs before the light fades at 17:00. The day ends relaxedly with a glass of wine in a heated accommodation.",
+            "fr": "La balade hivernale nous mène à travers le paysage givré jusqu'aux chapelles historiques du cap. À midi, la vue sur les falaises de Porz Théolen est majestueuse, tandis que le chauffage de la voiture assure le confort. L'après-midi, nous visitons les menhirs avant que la lumière ne disparaisse à 17:00. La journée se termine calmement par un verre de vin dans un hébergement chauffé."
           },
           "stops": [
             {
@@ -906,13 +1005,15 @@
                 "de": "Chapelle de Langroas",
                 "hu": "Chapelle de Langroas",
                 "ro": "Chapelle de Langroas",
-                "en": "Chapelle de Langroas"
+                "en": "Chapelle de Langroas",
+                "fr": "Chapelle de Langroas"
               },
               "tip_5lang": {
                 "de": "Die Kapelle ist im Winter sehr kühl; lassen Sie die Sitzheizung im Auto an, damit Sie sich nach der Besichtigung schnell aufwärmen.",
                 "hu": "A kápolna télen nagyon hűvös; hagyja bekapcsolva az ülésfűtést az autóban, hogy látogatás után gyorsan felmelegedhessen.",
                 "ro": "Capela este foarte răcoroasă iarna; lăsați încălzirea în scaune pornită pentru a vă încălzi rapid după vizită.",
-                "en": "The chapel is very chilly in winter; keep your car's seat heaters on to warm up quickly after your visit."
+                "en": "The chapel is very chilly in winter; keep your car's seat heaters on to warm up quickly after your visit.",
+                "fr": "La chapelle est très froide en hiver ; gardez les chauffages de sièges de votre voiture allumés pour vous réchauffer rapidement après la visite."
               }
             },
             {
@@ -920,13 +1021,15 @@
                 "de": "Église Saint-Clet",
                 "hu": "Église Saint-Clet",
                 "ro": "Église Saint-Clet",
-                "en": "Église Saint-Clet"
+                "en": "Église Saint-Clet",
+                "fr": "Église Saint-Clet"
               },
               "tip_5lang": {
                 "de": "Bewundern Sie die Architektur bei klarem Winterhimmel; achten Sie auf glatte Stellen auf dem gepflasterten Vorplatz.",
                 "hu": "Csodálja meg az építészetet a tiszta téli égbolt alatt; ügyeljen a jeges foltokra a kövezett bejárat környékén.",
                 "ro": "Admirați arhitectura sub cerul clar de iarnă; atenție la porțiunile înghețate de pe esplanada pavată.",
-                "en": "Admire the architecture under the clear winter sky; watch out for icy patches on the paved square in front of the church."
+                "en": "Admire the architecture under the clear winter sky; watch out for icy patches on the paved square in front of the church.",
+                "fr": "Admirez l'architecture sous le ciel hivernal clair ; méfiez-vous des plaques de verglas sur la place pavée devant l'église."
               }
             },
             {
@@ -934,13 +1037,15 @@
                 "de": "Plage de Porz Théolen",
                 "hu": "Plage de Porz Théolen",
                 "ro": "Plage de Porz Théolen",
-                "en": "Plage de Porz Théolen"
+                "en": "Plage de Porz Théolen",
+                "fr": "Plage de Porz Théolen"
               },
               "tip_5lang": {
                 "de": "Die Wintersonne glitzert auf dem Wasser; bleiben Sie im Auto, um die Aussicht ohne den beißenden Küstenwind zu genießen.",
                 "hu": "A téli nap csillog a vízen; maradjon az autóban, hogy élvezhesse a kilátást a csípős parti szél nélkül.",
                 "ro": "Soarele de iarnă sclipește pe apă; rămâneți în mașină pentru a vă bucura de priveliște fără vântul tăios de pe coastă.",
-                "en": "The winter sun sparkles on the water; stay in the car to enjoy the view without the biting coastal wind."
+                "en": "The winter sun sparkles on the water; stay in the car to enjoy the view without the biting coastal wind.",
+                "fr": "Le soleil d'hiver scintille sur l'eau ; restez dans la voiture pour profiter de la vue sans le vent marin mordant."
               }
             },
             {
@@ -948,13 +1053,15 @@
                 "de": "Chapelle Saint-Yves",
                 "hu": "Chapelle Saint-Yves",
                 "ro": "Chapelle Saint-Yves",
-                "en": "Chapelle Saint-Yves"
+                "en": "Chapelle Saint-Yves",
+                "fr": "Chapelle Saint-Yves"
               },
               "tip_5lang": {
                 "de": "Ein schöner Ort für winterliche Fotos; die tiefe Sonne wirft lange Schatten auf das alte Mauerwerk der Kapelle.",
                 "hu": "Szép helyszín téli fotókhoz; az alacsonyan járó nap hosszú árnyékokat vet a kápolna ősi falaira.",
                 "ro": "Un loc frumos pentru fotografii de iarnă; soarele jos proiectează umbre lungi pe zidurile vechi ale capelei.",
-                "en": "A beautiful spot for winter photos; the low sun casts long shadows on the chapel's ancient stonework."
+                "en": "A beautiful spot for winter photos; the low sun casts long shadows on the chapel's ancient stonework.",
+                "fr": "Un bel endroit pour des photos d'hiver ; le soleil bas projette de longues ombres sur la pierre ancienne de la chapelle."
               }
             },
             {
@@ -962,13 +1069,15 @@
                 "de": "Menhirs de Ar Peulven",
                 "hu": "Menhirs de Ar Peulven",
                 "ro": "Menhirs de Ar Peulven",
-                "en": "Menhirs de Ar Peulven"
+                "en": "Menhirs de Ar Peulven",
+                "fr": "Menhirs de Ar Peulven"
               },
               "tip_5lang": {
                 "de": "Besuchen Sie die Steine im letzten Tageslicht; die Menhirs wirken in der winterlichen Einsamkeit besonders erhaben.",
                 "hu": "Látogassa meg a köveket az utolsó fényeknél; a menhirek a téli magányban különösen fenséges látványt nyújtanak.",
                 "ro": "Vizitați pietrele în ultima lumină a zilei; menhirii par deosebit de impunători în singurătatea iernii.",
-                "en": "Visit the stones in the last light of day; the menhirs look particularly majestic in the winter solitude."
+                "en": "Visit the stones in the last light of day; the menhirs look particularly majestic in the winter solitude.",
+                "fr": "Visitez les pierres dans la dernière lumière du jour ; les menhirs sont particulièrement majestueux dans la solitude hivernale."
               }
             },
             {
@@ -976,13 +1085,15 @@
                 "de": "Chapelle Notre-Dame de Bon Voyage",
                 "hu": "Chapelle Notre-Dame de Bon Voyage",
                 "ro": "Chapelle Notre-Dame de Bon Voyage",
-                "en": "Chapelle Notre-Dame de Bon Voyage"
+                "en": "Chapelle Notre-Dame de Bon Voyage",
+                "fr": "Chapelle Notre-Dame de Bon Voyage"
               },
               "tip_5lang": {
                 "de": "Beenden Sie die Fahrt, bevor es um 17:00 Uhr dunkel wird; schalten Sie das Abblendlicht für die Rückfahrt frühzeitig ein.",
                 "hu": "Fejezze be az utat, mielőtt 17:00-kor besötétedik; kapcsolja be időben a tompított fényszórót a visszatéréshez.",
                 "ro": "Încheiați călătoria înainte de întunericul de la ora 17:00; aprindeți farurile din timp pentru drumul de întoarcere.",
-                "en": "End your drive before it gets dark at 17:00; turn on your low beams early for the return journey."
+                "en": "End your drive before it gets dark at 17:00; turn on your low beams early for the return journey.",
+                "fr": "Terminez votre trajet avant la tombée de la nuit à 17:00 ; allumez vos feux de croisement tôt pour le chemin du retour."
               }
             }
           ]

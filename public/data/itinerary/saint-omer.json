@@ -21,7 +21,8 @@
             "de": "Rathaus",
             "hu": "Városháza",
             "ro": "Primăria",
-            "en": "Town Hall"
+            "en": "Town Hall",
+            "fr": "Hôtel de Ville"
           },
           "coords": [
             2.262667,
@@ -36,7 +37,8 @@
             "de": "Bewundern Sie die beeindruckende Architektur dieses Rathauses, erfahren Sie mehr über die lokale Geschichte und kommen Sie früh für das beste Fotolicht.",
             "hu": "Csodálja meg e lenyűgöző városháza építészeti részleteit, ismerje meg a helyi közigazgatás történelmét, és érkezzen kora reggel a legjobb fotózási fényekért.",
             "ro": "Admirați arhitectura impresionantă a acestei primării, descoperind istoria guvernării locale, și ajungeți devreme pentru a prinde fațada în lumină bună.",
-            "en": "Admire the striking architecture of this civic center, learning about local governance history, and arrive early to capture its facade in the morning light."
+            "en": "Admire the striking architecture of this civic center, learning about local governance history, and arrive early to capture its facade in the morning light.",
+            "fr": "Admirez l'architecture frappante de ce centre civique, découvrez l'histoire du gouvernement local, et arrivez tôt pour capturer sa façade à la lumière du matin."
           }
         },
         {
@@ -44,7 +46,8 @@
             "de": "Ruinen der Abtei Saint-Bertin",
             "hu": "Saint-Bertin apátság romjai",
             "ro": "Ruinele Abației Saint-Bertin",
-            "en": "Saint-Bertin Abbey Ruins"
+            "en": "Saint-Bertin Abbey Ruins",
+            "fr": "Vestiges de l'Abbaye Saint-Bertin"
           },
           "coords": [
             2.263892,
@@ -59,7 +62,8 @@
             "de": "Wandern Sie durch die stimmungsvollen Ruinen dieser alten Abtei, um ihre einstigen Ausmaße zu erfassen, und tragen Sie bequeme Schuhe für das unebene Gelände.",
             "hu": "Sétáljon végig ezen az ősi apátság hangulatos romjain, hogy megértse egykori méreteit, és viseljen kényelmes cipőt a biztonságos felfedezés érdekében.",
             "ro": "Plimbați-vă prin ruinele pline de atmosferă ale acestei abații pentru a înțelege fosta sa măreție și purtați încălțăminte confortabilă pentru terenul accidentat.",
-            "en": "Wander through the atmospheric ruins of this ancient abbey to grasp its former grand scale, and bring comfortable shoes for exploring the uneven historical terrain."
+            "en": "Wander through the atmospheric ruins of this ancient abbey to grasp its former grand scale, and bring comfortable shoes for exploring the uneven historical terrain.",
+            "fr": "Parcourez les ruines atmosphériques de cette ancienne abbaye pour en saisir l'ampleur passée, et apportez des chaussures confortables pour explorer le terrain historique inégal."
           }
         },
         {
@@ -67,7 +71,8 @@
             "de": "Museum Hôtel Sandelin",
             "hu": "Hôtel Sandelin Múzeum",
             "ro": "Muzeul Hôtel Sandelin",
-            "en": "Hôtel Sandelin Museum"
+            "en": "Hôtel Sandelin Museum",
+            "fr": "Musée Hôtel Sandelin"
           },
           "coords": [
             2.25639,
@@ -82,7 +87,8 @@
             "de": "Erkunden Sie eine umfangreiche Kunst- und Keramiksammlung in diesem Herrenhaus und nehmen Sie sich ausreichend Zeit für die seltenen mittelalterlichen Artefakte.",
             "hu": "Fedezze fel e csodás kúriában található hatalmas művészeti gyűjteményt, szánjon időt a középkori leletekre, és érdeklődjön az időszaki kiállításokról.",
             "ro": "Explorați o colecție extinsă de artă și ceramică găzduită într-un conac frumos, acordând timp artefactelor medievale și verificând expozițiile temporare.",
-            "en": "Explore an extensive collection of art and ceramics housed in a beautiful mansion, taking time to appreciate the medieval artifacts and temporary exhibits."
+            "en": "Explore an extensive collection of art and ceramics housed in a beautiful mansion, taking time to appreciate the medieval artifacts and temporary exhibits.",
+            "fr": "Explorez une vaste collection d’art et de céramiques abritée dans une belle demeure, en prenant le temps d’apprécier les objets médiévaux et les expositions temporaires."
           }
         },
         {
@@ -90,7 +96,8 @@
             "de": "Kathedrale Notre-Dame",
             "hu": "Notre-Dame katedrális",
             "ro": "Catedrala Notre-Dame",
-            "en": "Notre-Dame Cathedral"
+            "en": "Notre-Dame Cathedral",
+            "fr": "Notre-Dame Cathedral"
           },
           "coords": [
             2.252778,
@@ -105,7 +112,8 @@
             "de": "Bewundern Sie die gotischen Details dieser prächtigen Kathedrale, betrachten Sie die astronomische Uhr und denken Sie daran, im Inneren leise zu sprechen.",
             "hu": "Gyönyörködjön e lenyűgöző katedrális gótikus részleteiben, fedezze fel a csillagászati órát, és ne feledjen tiszteletteljesen, halkan beszélni odabent.",
             "ro": "Minunați-vă de detaliile gotice ale acestei catedrale magnifice, observând ceasul astronomic istoric, și amintiți-vă să păstrați liniștea din respect.",
-            "en": "Marvel at the intricate Gothic details of this magnificent cathedral, observing the historic astronomical clock, and remember to keep your voice down out of respect."
+            "en": "Marvel at the intricate Gothic details of this magnificent cathedral, observing the historic astronomical clock, and remember to keep your voice down out of respect.",
+            "fr": "Admirez les détails gothiques complexes de cette magnifique cathédrale, observez l’horloge astronomique historique et pensez à garder la voix basse par respect."
           }
         },
         {
@@ -113,7 +121,8 @@
             "de": "Jeu de petit Chevaux",
             "hu": "Jeu de petit Chevaux",
             "ro": "Jeu de petit Chevaux",
-            "en": "Jeu de petit Chevaux"
+            "en": "Jeu de petit Chevaux",
+            "fr": "Jeu de petit Chevaux"
           },
           "coords": [
             2.251688,
@@ -128,7 +137,8 @@
             "de": "Nehmen Sie an dieser nostalgischen Familienattraktion teil, die Besucher jeden Alters begeistert, und halten Sie etwas Kleingeld für die Teilnahme bereit.",
             "hu": "Vegyen részt ezen a bájos és nosztalgikus családi attrakción, amely minden korosztályt elbűvöl, és tartson magánál némi aprópénzt a zökkenőmentes játékhoz.",
             "ro": "Participați la această atracție de familie fermecătoare și nostalgică ce încântă vizitatorii și pregătiți niște mărunțiș pentru a lua parte la jocuri.",
-            "en": "Engage in this charming and nostalgic family attraction that delights visitors of all ages, soaking in local culture, and have loose change ready to participate."
+            "en": "Engage in this charming and nostalgic family attraction that delights visitors of all ages, soaking in local culture, and have loose change ready to participate.",
+            "fr": "Participez à cette attraction familiale charmante et nostalgique qui ravit les visiteurs de tous âges, imprégnez-vous de la culture locale et ayez de la petite monnaie prête pour participer."
           }
         },
         {
@@ -136,7 +146,8 @@
             "de": "Stadtpark",
             "hu": "Városliget",
             "ro": "Parcul Orașului",
-            "en": "City Park"
+            "en": "City Park",
+            "fr": "City Park"
           },
           "coords": [
             2.248665,
@@ -151,7 +162,8 @@
             "de": "Entspannen Sie sich in dieser wunderschön angelegten Naturoase direkt in der Stadt und bringen Sie eine kleine Decke für ein schnelles Picknick im Gras mit.",
             "hu": "Pihenjen meg ebben a gyönyörűen parkosított, városi természetes oázisban, élvezve a virágágyásokat, és hozzon magával egy kis takarót egy rövid piknikhez.",
             "ro": "Relaxați-vă în această oază naturală frumos amenajată din oraș, bucurându-vă de florile vibrante, și aduceți o pătură mică pentru un picnic în aer liber.",
-            "en": "Relax in this beautifully landscaped natural oasis right in the city, enjoying the vibrant flower beds, and bring a small blanket for a quick relaxing picnic."
+            "en": "Relax in this beautifully landscaped natural oasis right in the city, enjoying the vibrant flower beds, and bring a small blanket for a quick relaxing picnic.",
+            "fr": "Détendez-vous dans cette oasis naturelle magnifiquement paysagée en plein cœur de la ville, profitez des parterres de fleurs colorés et apportez une petite couverture pour un pique-nique rapide et relaxant."
           }
         }
       ],
@@ -159,7 +171,8 @@
         "de": "Morgen: Beginnen Sie am eleganten Rathaus, um die Stadtgeschichte zu verinnerlichen, und spazieren Sie dann in der frischen Morgenluft zu den alten Abteiruinen.\nMittag: Tauchen Sie im Hôtel Sandelin in Kunst und Geschichte ein und spazieren Sie dann zur majestätischen Kathedrale Notre-Dame.\nNachmittag: Treten Sie hinaus auf die belebten Plätze für nostalgischen Familienspaß beim Jeu de petit Chevaux.\nAbend: Beenden Sie Ihren Rundgang mit einem friedlichen Rückzug in das üppige Grün des Stadtparks, während die Sonne langsam untergeht.",
         "hu": "Délelőtt: Kezdje a napot az elegáns Városházánál a történelem elnyelésével, majd sétáljon át a lenyűgöző, ősi Saint-Bertin apátság romjaihoz a friss levegőn.\nDél: Merüljön el a művészetekben a Hôtel Sandelin Múzeumban, majd tegyen egy rövid sétát a fenséges Notre-Dame katedrálishoz.\nDélután: Élvezze a játékos családi szórakozást a közeli tereken a Jeu de petit Chevaux-nál, átérezve a belváros lüktetését.\nEste: Zárja a gyalogos túrát egy békés visszavonulással a Városliget buja zöldjébe, megpihenve a naplementében.",
         "ro": "Dimineața: Începeți la eleganta Primărie pentru a absorbi istoria civică, apoi plimbați-vă pentru a admira vechile ruine ale abației în aerul proaspăt.\nPrânz: Cufundați-vă în artă la Muzeul Hôtel Sandelin, apoi faceți o scurtă plimbare până la maiestuoasa Catedrală Notre-Dame.\nDupă-amiaza: Ieșiți în piețele pline de viață pentru o distracție în familie la atracția Jeu de petit Chevaux.\nSeara: Încheiați turul pietonal cu o retragere pașnică în verdeața luxuriantă a Parcului Orașului, reflectând la descoperirile zilei la apus.",
-        "en": "Morning: Start at the elegant Town Hall to absorb civic history, then stroll over to marvel at the ancient Saint-Bertin abbey ruins in the crisp morning air.\nMidday: Dive into art and history at the Hôtel Sandelin Museum, then take a short walk to the majestic Notre-Dame cathedral to admire its Gothic interiors.\nAfternoon: Step out into the lively nearby squares for some playful family fun at the Jeu de petit Chevaux.\nEvening: Conclude your walking tour with a peaceful retreat into the lush greenery of the City Park, reflecting on the day’s discoveries as the sun sets."
+        "en": "Morning: Start at the elegant Town Hall to absorb civic history, then stroll over to marvel at the ancient Saint-Bertin abbey ruins in the crisp morning air.\nMidday: Dive into art and history at the Hôtel Sandelin Museum, then take a short walk to the majestic Notre-Dame cathedral to admire its Gothic interiors.\nAfternoon: Step out into the lively nearby squares for some playful family fun at the Jeu de petit Chevaux.\nEvening: Conclude your walking tour with a peaceful retreat into the lush greenery of the City Park, reflecting on the day’s discoveries as the sun sets.",
+        "fr": "Matin : Commencez à l’élégant hôtel de ville pour vous imprégner de l’histoire civique, puis promenez-vous jusqu’aux ruines de l’ancienne abbaye Saint-Bertin dans l’air frais du matin.\nMidi : Plongez dans l’art et l’histoire au musée Hôtel Sandelin, puis faites une courte marche jusqu’à la majestueuse cathédrale Notre-Dame pour admirer ses intérieurs gothiques.\nAprès-midi : Sortez dans les places animées à proximité pour un peu de divertissement familial au Jeu de petit Chevaux.\nSoir : Concluez votre promenade en vous retirant paisiblement dans la verdure du City Park, en réfléchissant aux découvertes de la journée au coucher du soleil."
       },
       "variants": {
         "rainy": {
@@ -167,7 +180,8 @@
             "de": "Beginnen Sie Ihren Morgen mit Regenschirm am Rathaus, bevor Sie kurz die nassen Abteiruinen besuchen.\n\nSuchen Sie mittags Zuflucht im Museum Hôtel Sandelin, wo trockene Säle spannende Geschichte bieten.\n\nVerbringen Sie den Nachmittag geschützt in der Kathedrale Notre-Dame und beim Jeu de petit Chevaux.\n\nBeenden Sie den verregneten Spaziergang mit einem schnellen, pfützenausweichenden Besuch im Stadtpark.",
             "hu": "Kezdje a reggelt esernyővel a Városházánál, majd tegyen egy gyors, esős sétát az apátság romjainál.\n\nDélben keressen menedéket a Hôtel Sandelin Múzeum száraz termeiben, mely történelmi kincseket rejt.\n\nDélután maradjon szárazon a Notre-Dame katedrálisban és a Jeu de petit Chevaux benti szórakozásainál.\n\nZárja a napot egy tempós, pocsolyakerülgető sétával a Városligetben, mielőtt beülne melegedni.",
             "ro": "Începeți dimineața sub umbrelă la Primărie, urmată de o scurtă plimbare umedă la ruinele abației.\n\nLa prânz, găsiți refugiu în sălile uscate ale Muzeului Hôtel Sandelin, pline de istorie fascinantă.\n\nPetreceți după-amiaza la adăpost, explorând Catedrala Notre-Dame și atracțiile de la Jeu de petit Chevaux.\n\nÎncheiați plimbarea ploioasă cu o vizită rapidă prin Parcul Orașului, evitând cu grijă bălțile.",
-            "en": "Start your morning under an umbrella at the Town Hall, followed by a quick, wet stroll to the abbey ruins.\n\nSeek refuge by midday inside the Hôtel Sandelin Museum, where dry halls offer fascinating exhibits.\n\nSpend the afternoon staying dry exploring the Notre-Dame Cathedral and the indoor amusements of Jeu de petit Chevaux.\n\nConclude your rainy walk with a brisk, puddle-dodging visit to the City Park."
+            "en": "Start your morning under an umbrella at the Town Hall, followed by a quick, wet stroll to the abbey ruins.\n\nSeek refuge by midday inside the Hôtel Sandelin Museum, where dry halls offer fascinating exhibits.\n\nSpend the afternoon staying dry exploring the Notre-Dame Cathedral and the indoor amusements of Jeu de petit Chevaux.\n\nConclude your rainy walk with a brisk, puddle-dodging visit to the City Park.",
+            "fr": "Commencez votre matinée sous un parapluie à l’hôtel de ville, suivi d’une courte promenade mouillée jusqu’aux ruines de l’abbaye.\n\nCherchez refuge à midi à l’intérieur du musée Hôtel Sandelin, où des salles sèches offrent des expositions fascinantes.\n\nPassez l’après-midi au sec en explorant la cathédrale Notre-Dame et les amusements intérieurs du Jeu de petit Chevaux.\n\nTerminez votre promenade sous la pluie par une visite rapide du City Park en évitant les flaques."
           },
           "stops": [
             {
@@ -175,13 +189,15 @@
                 "de": "Rathaus",
                 "hu": "Városháza",
                 "ro": "Primăria",
-                "en": "Town Hall"
+                "en": "Town Hall",
+                "fr": "Town Hall"
               },
               "tip_5lang": {
                 "de": "Bewundern Sie die Fassade des Rathauses von außen; nehmen Sie einen stabilen Regenschirm gegen den Wind mit.",
                 "hu": "Csodálja meg a Városháza homlokzatát; egy szélálló esernyő mindenképpen ajánlott ezen a nyílt téren.",
                 "ro": "Admirați fațada Primăriei din exterior; o umbrelă robustă este recomandată împotriva vântului de aici.",
-                "en": "Admire the Town Hall's neoclassical facade; keep a sturdy umbrella handy as the open square gets quite windy."
+                "en": "Admire the Town Hall's neoclassical facade; keep a sturdy umbrella handy as the open square gets quite windy.",
+                "fr": "Admirez la façade néoclassique de l’hôtel de ville ; gardez un parapluie solide à portée de main car la place ouverte peut être très venteuse."
               }
             },
             {
@@ -189,13 +205,15 @@
                 "de": "Ruinen der Abtei Saint-Bertin",
                 "hu": "Saint-Bertin apátság romjai",
                 "ro": "Ruinele Abației Saint-Bertin",
-                "en": "Saint-Bertin Abbey Ruins"
+                "en": "Saint-Bertin Abbey Ruins",
+                "fr": "Saint-Bertin Abbey Ruins"
               },
               "tip_5lang": {
                 "de": "Die nassen Ruinen wirken bei Regen dramatisch. Tragen Sie wasserdichte Schuhe, da das Gras extrem rutschig ist.",
                 "hu": "A vizes romok drámai látványt nyújtanak esőben. Viseljen vízálló cipőt, mert a füves részek csúszósak lehetnek.",
                 "ro": "Ruinele umede arată dramatic în ploaie. Purtați încălțăminte impermeabilă, deoarece iarba devine foarte alunecoasă.",
-                "en": "The wet ruins look striking in the rain. Wear waterproof shoes to navigate the slippery grassy areas safely."
+                "en": "The wet ruins look striking in the rain. Wear waterproof shoes to navigate the slippery grassy areas safely.",
+                "fr": "Les ruines humides sont frappantes sous la pluie. Portez des chaussures imperméables pour naviguer en toute sécurité sur les zones herbeuses glissantes."
               }
             },
             {
@@ -203,13 +221,15 @@
                 "de": "Museum Hôtel Sandelin",
                 "hu": "Hôtel Sandelin Múzeum",
                 "ro": "Muzeul Hôtel Sandelin",
-                "en": "Hôtel Sandelin Museum"
+                "en": "Hôtel Sandelin Museum",
+                "fr": "Hôtel Sandelin Museum"
               },
               "tip_5lang": {
                 "de": "Entfliehen Sie dem Regen in diesem weitläufigen Museum. Nehmen Sie sich Zeit für die Kunst in völliger Trockenheit.",
                 "hu": "Meneküljön el az eső elől ebbe a tágas múzeumba. Szánjon időt a képzőművészeti kiállítások kényelmes felfedezésére.",
                 "ro": "Scăpați de ploaie în acest muzeu spațios. Luați-vă timp pentru a explora arta plastică în confort și uscăciune.",
-                "en": "Escape the rain entirely in this expansive museum. Take your time exploring the fine arts in complete dryness."
+                "en": "Escape the rain entirely in this expansive museum. Take your time exploring the fine arts in complete dryness.",
+                "fr": "Échappez complètement à la pluie dans ce vaste musée. Prenez le temps d’explorer les beaux-arts au sec."
               }
             },
             {
@@ -217,13 +237,15 @@
                 "de": "Kathedrale Notre-Dame",
                 "hu": "Notre-Dame katedrális",
                 "ro": "Catedrala Notre-Dame",
-                "en": "Notre-Dame Cathedral"
+                "en": "Notre-Dame Cathedral",
+                "fr": "Notre-Dame Cathedral"
               },
               "tip_5lang": {
                 "de": "Das riesige Innere der Kathedrale bietet perfekten Schutz vor dem Regen. Vorsicht auf den nassen Eingangssteinen.",
                 "hu": "A hatalmas belső tér tökéletes menedéket nyújt a zápor elől. Vigyázzon a lépéseire a vizes kőpadlón a bejáratnál.",
                 "ro": "Interiorul catedralei oferă un adăpost perfect împotriva ploii. Pășiți cu grijă pe pietrele umede de la intrare.",
-                "en": "The cathedral’s grand interior offers perfect shelter from the downpour. Watch your step on the wet entrance stones."
+                "en": "The cathedral’s grand interior offers perfect shelter from the downpour. Watch your step on the wet entrance stones.",
+                "fr": "Le grand intérieur de la cathédrale offre un abri parfait contre l’averse. Faites attention aux pierres mouillées à l’entrée."
               }
             },
             {
@@ -231,13 +253,15 @@
                 "de": "Jeu de petit Chevaux",
                 "hu": "Jeu de petit Chevaux",
                 "ro": "Jeu de petit Chevaux",
-                "en": "Jeu de petit Chevaux"
+                "en": "Jeu de petit Chevaux",
+                "fr": "Jeu de petit Chevaux"
               },
               "tip_5lang": {
                 "de": "Diese Indoor-Aktivität ist ideal, um heftige Schauer abzuwarten. Entspannen Sie sich bei traditionellen Spielen.",
                 "hu": "Ez a benti program ideális a heves esőzések átvészeléséhez. Pihenjen és élvezze a hagyományos játékokat szárazon.",
                 "ro": "Această activitate de interior este ideală pentru a aștepta trecerea ploii. Relaxați-vă și bucurați-vă de jocuri.",
-                "en": "This indoor activity is ideal for waiting out heavy showers. Relax and enjoy the traditional games in comfort."
+                "en": "This indoor activity is ideal for waiting out heavy showers. Relax and enjoy the traditional games in comfort.",
+                "fr": "Cette activité intérieure est idéale pour attendre les fortes averses. Détendez-vous et profitez des jeux traditionnels confortablement."
               }
             },
             {
@@ -245,13 +269,15 @@
                 "de": "Stadtpark",
                 "hu": "Városliget",
                 "ro": "Parcul Orașului",
-                "en": "City Park"
+                "en": "City Park",
+                "fr": "City Park"
               },
               "tip_5lang": {
                 "de": "Der Regen lässt das Grün leuchten, aber die Wege werden schlammig. Ein kurzer Spaziergang mit Stiefeln wird empfohlen.",
                 "hu": "Az eső élénkké teszi a zöldeket, de az utak sárosak lesznek. Vízálló bakancsban érdemes egy rövid sétát tenni.",
                 "ro": "Ploaia accentuează verdeața, dar potecile devin noroioase. Se recomandă o plimbare scurtă cu cizme impermeabile.",
-                "en": "The rain brings out vibrant greens, but the paths get muddy. A quick walk with waterproof boots is recommended."
+                "en": "The rain brings out vibrant greens, but the paths get muddy. A quick walk with waterproof boots is recommended.",
+                "fr": "La pluie fait ressortir des verts vibrants, mais les chemins deviennent boueux. Une courte balade avec des bottes imperméables est recommandée."
               }
             }
           ]
@@ -261,7 +287,8 @@
             "de": "Packen Sie sich für einen eisigen Morgen am Rathaus ein und bewundern Sie den Frost auf den Abteiruinen.\n\nWärmen Sie sich mittags bei einem tiefen Einblick in die Geschichte in den beheizten Galerien des Museums auf.\n\nVerbringen Sie einen kühlen Nachmittag in der Architektur der Kathedrale, gefolgt von Indoor-Spaß beim Jeu de petit Chevaux.\n\nBeenden Sie die Tour vor dem frühen Sonnenuntergang im Stadtpark und genießen Sie die ruhige Winterdämmerung.",
             "hu": "Öltözzön fel melegen a reggeli sétához a Városházától, és csodálja meg a zúzmarás apátsági romokat.\n\nDélben melegedjen fel a Hôtel Sandelin Múzeum fűtött termeiben, elmerülve a helyi történelemben.\n\nTöltsön egy hűvös délutánt a Notre-Dame katedrális építészetének megcsodálásával és benti szórakozással.\n\nFejezze be a sétát a korai naplemente előtt a Városligetben, élvezve a csendes téli alkonyatot.",
             "ro": "Îmbrăcați-vă bine pentru dimineața rece la Primărie și admirați pietrele acoperite de gheață ale ruinelor.\n\nÎncălziți-vă la prânz cu o incursiune în istorie, în sălile încălzite ale Muzeului Hôtel Sandelin.\n\nPetreceți o după-amiază răcoroasă la Catedrala Notre-Dame, urmată de distracție în interior la Jeu de petit Chevaux.\n\nFinalizați înainte de apusul devreme în Parcul Orașului, bucurându-vă de atmosfera liniștită de iarnă.",
-            "en": "Bundle up for a crisp morning walk starting at the Town Hall and admire the frost-covered abbey ruins.\n\nWarm up your midday with a deep dive into local history inside the heated galleries of the Hôtel Sandelin Museum.\n\nSpend a chilly afternoon marveling at the architecture of Notre-Dame Cathedral, followed by indoor fun at Jeu de petit Chevaux.\n\nFinish before the early sunset in the City Park, enjoying the quiet winter atmosphere under the twilight sky."
+            "en": "Bundle up for a crisp morning walk starting at the Town Hall and admire the frost-covered abbey ruins.\n\nWarm up your midday with a deep dive into local history inside the heated galleries of the Hôtel Sandelin Museum.\n\nSpend a chilly afternoon marveling at the architecture of Notre-Dame Cathedral, followed by indoor fun at Jeu de petit Chevaux.\n\nFinish before the early sunset in the City Park, enjoying the quiet winter atmosphere under the twilight sky.",
+            "fr": "Couvrez-vous pour une balade fraîche du matin en partant de l’hôtel de ville et admirez les ruines de l’abbaye couvertes de givre.\n\nRéchauffez-vous à midi en plongeant dans l’histoire locale dans les galeries chauffées du musée Hôtel Sandelin.\n\nPassez un après-midi frais à admirer l’architecture de la cathédrale Notre-Dame, suivi de divertissements intérieurs au Jeu de petit Chevaux.\n\nTerminez avant le coucher de soleil précoce au City Park, en profitant de l’atmosphère hivernale paisible sous le ciel crépusculaire."
           },
           "stops": [
             {
@@ -269,13 +296,15 @@
                 "de": "Rathaus",
                 "hu": "Városháza",
                 "ro": "Primăria",
-                "en": "Town Hall"
+                "en": "Town Hall",
+                "fr": "Town Hall"
               },
               "tip_5lang": {
                 "de": "Starten Sie hier Ihren Winterspaziergang. Der Platz ist morgens frostig, tragen Sie also extra warme Schichten.",
                 "hu": "Kezdje itt a téli sétát. A tér a reggeli fagyban gyönyörű, de mindenképpen viseljen vastag, meleg rétegeket.",
                 "ro": "Începeți aici plimbarea de iarnă. Piața este frumoasă în înghețul dimineții, așa că purtați haine foarte groase.",
-                "en": "Start your crisp winter walk here. The square looks beautiful in the morning frost, so wear extra warm layers."
+                "en": "Start your crisp winter walk here. The square looks beautiful in the morning frost, so wear extra warm layers.",
+                "fr": "Commencez votre promenade hivernale fraîche ici. La place est belle sous le givre matinal, alors portez des couches bien chaudes."
               }
             },
             {
@@ -283,13 +312,15 @@
                 "de": "Ruinen der Abtei Saint-Bertin",
                 "hu": "Saint-Bertin apátság romjai",
                 "ro": "Ruinele Abației Saint-Bertin",
-                "en": "Saint-Bertin Abbey Ruins"
+                "en": "Saint-Bertin Abbey Ruins",
+                "fr": "Saint-Bertin Abbey Ruins"
               },
               "tip_5lang": {
                 "de": "Die Abteiruinen sind atemberaubend mit Frost. Bleiben Sie in Bewegung, da der offene Bereich sehr kalt ist.",
                 "hu": "A zúzmarával borított romok lenyűgözőek. Maradjon mozgásban, mert ezen a nyílt területen nagyon hideg lehet.",
                 "ro": "Ruinele sunt uimitoare acoperite de chiciură. Continuați să vă mișcați pentru a vă încălzi în această zonă deschisă.",
-                "en": "The abbey ruins are stunning when dusted with frost. Keep moving to stay warm as the open area gets quite chilly."
+                "en": "The abbey ruins are stunning when dusted with frost. Keep moving to stay warm as the open area gets quite chilly.",
+                "fr": "Les ruines de l’abbaye sont superbes quand elles sont saupoudrées de givre. Continuez à marcher pour rester au chaud car l’espace ouvert est assez froid."
               }
             },
             {
@@ -297,13 +328,15 @@
                 "de": "Museum Hôtel Sandelin",
                 "hu": "Hôtel Sandelin Múzeum",
                 "ro": "Muzeul Hôtel Sandelin",
-                "en": "Hôtel Sandelin Museum"
+                "en": "Hôtel Sandelin Museum",
+                "fr": "Hôtel Sandelin Museum"
               },
               "tip_5lang": {
                 "de": "Wärmen Sie sich im eleganten Museum auf. Ein toller Zwischenstopp, um der beißenden Winterkälte zu entfliehen.",
                 "hu": "Melegedjen fel ebben az elegáns múzeumban. Tökéletes déli megálló a metsző téli hideg elől, művészettel körülvéve.",
                 "ro": "Încălziți-vă în acest muzeu elegant. O oprire excelentă la prânz pentru a scăpa de frigul pătrunzător al iernii.",
-                "en": "Warm up inside this elegant museum. It’s a great midday stop to escape the biting winter cold while admiring art."
+                "en": "Warm up inside this elegant museum. It’s a great midday stop to escape the biting winter cold while admiring art.",
+                "fr": "Réchauffez-vous à l’intérieur de ce musée élégant. C’est une excellente halte de midi pour fuir le froid hivernal mordant tout en admirant l’art."
               }
             },
             {
@@ -311,13 +344,15 @@
                 "de": "Kathedrale Notre-Dame",
                 "hu": "Notre-Dame katedrális",
                 "ro": "Catedrala Notre-Dame",
-                "en": "Notre-Dame Cathedral"
+                "en": "Notre-Dame Cathedral",
+                "fr": "Notre-Dame Cathedral"
               },
               "tip_5lang": {
                 "de": "Die Kathedrale ist atemberaubend, aber unbeheizt; behalten Sie Ihren Mantel an, während Sie das Winterlicht bewundern.",
                 "hu": "A katedrális gyönyörű, de fűtetlen; tartsa magán a kabátot, miközben megcsodálja a beszűrődő téli fényeket.",
                 "ro": "Catedrala este superbă, dar neîncălzită; păstrați haina pe dumneavoastră în timp ce admirați lumina iernii.",
-                "en": "The cathedral is breathtaking but unheated; wear your coat inside while admiring the stunning winter light."
+                "en": "The cathedral is breathtaking but unheated; wear your coat inside while admiring the stunning winter light.",
+                "fr": "La cathédrale est à couper le souffle mais non chauffée ; gardez votre manteau pour admirer la superbe lumière hivernale."
               }
             },
             {
@@ -325,13 +360,15 @@
                 "de": "Jeu de petit Chevaux",
                 "hu": "Jeu de petit Chevaux",
                 "ro": "Jeu de petit Chevaux",
-                "en": "Jeu de petit Chevaux"
+                "en": "Jeu de petit Chevaux",
+                "fr": "Jeu de petit Chevaux"
               },
               "tip_5lang": {
                 "de": "Eine gemütliche Indoor-Ablenkung. Perfekt, um eine Pause von den eisigen Temperaturen draußen einzulegen.",
                 "hu": "Egy kényelmes és meleg benti kikapcsolódás. Tökéletes egy kis pihenőre a kinti fagyos hőmérsékletek elől.",
                 "ro": "O diversiune caldă în interior. Perfect pentru a lua o pauză de la temperaturile de îngheț de afară.",
-                "en": "A cozy and warm indoor diversion. Perfect for families looking to take a break from the freezing temperatures outside."
+                "en": "A cozy and warm indoor diversion. Perfect for families looking to take a break from the freezing temperatures outside.",
+                "fr": "Une distraction intérieure chaleureuse et cosy. Parfaite pour les familles qui souhaitent faire une pause loin du froid glacial extérieur."
               }
             },
             {
@@ -339,13 +376,15 @@
                 "de": "Stadtpark",
                 "hu": "Városliget",
                 "ro": "Parcul Orașului",
-                "en": "City Park"
+                "en": "City Park",
+                "fr": "City Park"
               },
               "tip_5lang": {
                 "de": "Besuchen Sie den Park vor 17 Uhr, da die Sonne früh untergeht. Packen Sie sich für die Dämmerung dick ein.",
                 "hu": "Látogasson el a parkba délután 5 előtt, mert a nap korán nyugszik. Bugyolálja be magát a fagyos esti sétához.",
                 "ro": "Vizitați parcul înainte de ora 17:00. Înfofoliți-vă bine pentru o plimbare liniștită la amurgul înghețat.",
-                "en": "Visit the park before 5 PM as the sun sets early. Wrap up in a thick scarf for a peaceful, frosty twilight stroll."
+                "en": "Visit the park before 5 PM as the sun sets early. Wrap up in a thick scarf for a peaceful, frosty twilight stroll.",
+                "fr": "Visitez le parc avant 17 h car le soleil se couche tôt. Enveloppez-vous d’une grosse écharpe pour une paisible promenade crépusculaire et givrée."
               }
             }
           ]
@@ -365,7 +404,8 @@
             "de": "Rathaus",
             "hu": "Városháza",
             "ro": "Primăria",
-            "en": "Town Hall"
+            "en": "Town Hall",
+            "fr": "Town Hall"
           },
           "coords": [
             2.262667,
@@ -380,7 +420,8 @@
             "de": "Bewundern Sie die beeindruckende Architektur dieses Rathauses, erfahren Sie mehr über die lokale Geschichte und kommen Sie früh für das beste Fotolicht.",
             "hu": "Csodálja meg e lenyűgöző városháza építészeti részleteit, ismerje meg a helyi közigazgatás történelmét, és érkezzen kora reggel a legjobb fotózási fényekért.",
             "ro": "Admirați arhitectura impresionantă a acestei primării, descoperind istoria guvernării locale, și ajungeți devreme pentru a prinde fațada în lumină bună.",
-            "en": "Admire the striking architecture of this civic center, learning about local governance history, and arrive early to capture its facade in the morning light."
+            "en": "Admire the striking architecture of this civic center, learning about local governance history, and arrive early to capture its facade in the morning light.",
+            "fr": "Admirez l’architecture frappante de ce centre civique, apprenez l’histoire du gouvernement local et arrivez tôt pour capter sa façade à la lumière du matin."
           }
         },
         {
@@ -388,7 +429,8 @@
             "de": "Museum Hôtel Sandelin",
             "hu": "Hôtel Sandelin Múzeum",
             "ro": "Muzeul Hôtel Sandelin",
-            "en": "Hôtel Sandelin Museum"
+            "en": "Hôtel Sandelin Museum",
+            "fr": "Hôtel Sandelin Museum"
           },
           "coords": [
             2.25639,
@@ -403,7 +445,8 @@
             "de": "Erkunden Sie eine umfangreiche Kunst- und Keramiksammlung in diesem Herrenhaus und nehmen Sie sich ausreichend Zeit für die seltenen mittelalterlichen Artefakte.",
             "hu": "Fedezze fel e csodás kúriában található hatalmas művészeti gyűjteményt, szánjon időt a középkori leletekre, és érdeklődjön az időszaki kiállításokról.",
             "ro": "Explorați o colecție extinsă de artă și ceramică găzduită într-un conac frumos, acordând timp artefactelor medievale și verificând expozițiile temporare.",
-            "en": "Explore an extensive collection of art and ceramics housed in a beautiful mansion, taking time to appreciate the medieval artifacts and temporary exhibits."
+            "en": "Explore an extensive collection of art and ceramics housed in a beautiful mansion, taking time to appreciate the medieval artifacts and temporary exhibits.",
+            "fr": "Explorez une vaste collection d’art et de céramiques abritée dans une belle demeure, en prenant le temps d’apprécier les objets médiévaux et les expositions temporaires."
           }
         },
         {
@@ -411,7 +454,8 @@
             "de": "Kathedrale Notre-Dame",
             "hu": "Notre-Dame katedrális",
             "ro": "Catedrala Notre-Dame",
-            "en": "Notre-Dame Cathedral"
+            "en": "Notre-Dame Cathedral",
+            "fr": "Notre-Dame Cathedral"
           },
           "coords": [
             2.252778,
@@ -426,7 +470,8 @@
             "de": "Bewundern Sie die gotischen Details dieser prächtigen Kathedrale, betrachten Sie die astronomische Uhr und denken Sie daran, im Inneren leise zu sprechen.",
             "hu": "Gyönyörködjön e lenyűgöző katedrális gótikus részleteiben, fedezze fel a csillagászati órát, és ne feledjen tiszteletteljesen, halkan beszélni odabent.",
             "ro": "Minunați-vă de detaliile gotice ale acestei catedrale magnifice, observând ceasul astronomic istoric, și amintiți-vă să păstrați liniștea din respect.",
-            "en": "Marvel at the intricate Gothic details of this magnificent cathedral, observing the historic astronomical clock, and remember to keep your voice down out of respect."
+            "en": "Marvel at the intricate Gothic details of this magnificent cathedral, observing the historic astronomical clock, and remember to keep your voice down out of respect.",
+            "fr": "Admirez les détails gothiques complexes de cette magnifique cathédrale, observez l’horloge astronomique historique et pensez à garder la voix basse par respect."
           }
         },
         {
@@ -434,7 +479,8 @@
             "de": "Stadtpark",
             "hu": "Városliget",
             "ro": "Parcul Orașului",
-            "en": "City Park"
+            "en": "City Park",
+            "fr": "City Park"
           },
           "coords": [
             2.248665,
@@ -449,7 +495,8 @@
             "de": "Entspannen Sie sich in dieser wunderschön angelegten Naturoase direkt in der Stadt und bringen Sie eine kleine Decke für ein schnelles Picknick im Gras mit.",
             "hu": "Pihenjen meg ebben a gyönyörűen parkosított, városi természetes oázisban, élvezve a virágágyásokat, és hozzon magával egy kis takarót egy rövid piknikhez.",
             "ro": "Relaxați-vă în această oază naturală frumos amenajată din oraș, bucurându-vă de florile vibrante, și aduceți o pătură mică pentru un picnic în aer liber.",
-            "en": "Relax in this beautifully landscaped natural oasis right in the city, enjoying the vibrant flower beds, and bring a small blanket for a quick relaxing picnic."
+            "en": "Relax in this beautifully landscaped natural oasis right in the city, enjoying the vibrant flower beds, and bring a small blanket for a quick relaxing picnic.",
+            "fr": "Détendez-vous dans cette oasis naturelle magnifiquement paysagée en plein cœur de la ville, profitez des parterres de fleurs colorés et apportez une petite couverture pour un pique-nique rapide et relaxant."
           }
         },
         {
@@ -457,7 +504,8 @@
             "de": "Ruinen der Abtei Saint-Bertin",
             "hu": "Saint-Bertin apátság romjai",
             "ro": "Ruinele Abației Saint-Bertin",
-            "en": "Saint-Bertin Abbey Ruins"
+            "en": "Saint-Bertin Abbey Ruins",
+            "fr": "Saint-Bertin Abbey Ruins"
           },
           "coords": [
             2.263892,
@@ -472,7 +520,8 @@
             "de": "Wandern Sie durch die stimmungsvollen Ruinen dieser alten Abtei, um ihre einstigen Ausmaße zu erfassen, und tragen Sie bequeme Schuhe für das unebene Gelände.",
             "hu": "Sétáljon végig ezen az ősi apátság hangulatos romjain, hogy megértse egykori méreteit, és viseljen kényelmes cipőt a biztonságos felfedezés érdekében.",
             "ro": "Plimbați-vă prin ruinele pline de atmosferă ale acestei abații pentru a înțelege fosta sa măreție și purtați încălțăminte confortabilă pentru terenul accidentat.",
-            "en": "Wander through the atmospheric ruins of this ancient abbey to grasp its former grand scale, and bring comfortable shoes for exploring the uneven historical terrain."
+            "en": "Wander through the atmospheric ruins of this ancient abbey to grasp its former grand scale, and bring comfortable shoes for exploring the uneven historical terrain.",
+            "fr": "Parcourez les ruines atmosphériques de cette ancienne abbaye pour comprendre son ancienne grandeur, et portez des chaussures confortables pour explorer le terrain historique irrégulier."
           }
         },
         {
@@ -480,7 +529,8 @@
             "de": "Kanu-Kajak-Club",
             "hu": "Canoë Kayak Club",
             "ro": "Clubul de Canoe și Caiac",
-            "en": "Canoe Kayak Club"
+            "en": "Canoe Kayak Club",
+            "fr": "Canoe Kayak Club"
           },
           "coords": [
             2.274666,
@@ -495,7 +545,8 @@
             "de": "Mieten Sie ein Kajak, um die sanften lokalen Wasserwege aus einer neuen Perspektive zu erkunden, und tragen Sie unempfindliche Kleidung gegen Wasserspritzer.",
             "hu": "Béreljen kajakot, hogy egy frissítő új perspektívából fedezze fel a szelíd helyi vízi utakat, és viseljen olyan ruházatot, amelyet nem sajnál, ha kissé vizes lesz.",
             "ro": "Închiriați un caiac pentru a explora cursurile de apă locale dintr-o perspectivă nouă și purtați haine de schimb, în caz că vă udați puțin.",
-            "en": "Rent a kayak to explore the gentle local waterways from a refreshing new perspective, embracing the lush aquatic environment in clothes you don't mind getting damp."
+            "en": "Rent a kayak to explore the gentle local waterways from a refreshing new perspective, embracing the lush aquatic environment in clothes you don't mind getting damp.",
+            "fr": "Louez un kayak pour explorer les douces voies d’eau locales sous un nouvel angle rafraîchissant, en profitant du milieu aquatique luxuriant avec des vêtements que vous n’avez pas peur d’humidifier."
           }
         }
       ],
@@ -503,7 +554,8 @@
         "de": "Morgen: Beginnen Sie Ihre Radtour, indem Sie die Fassade des Rathauses bewundern, und radeln Sie dann sanft zu den Schätzen des Hôtel Sandelin.\nMittag: Fahren Sie weiter zur hoch aufragenden Kathedrale Notre-Dame, bevor Sie eine erfrischende Pause unter den Bäumen des Stadtparks genießen.\nNachmittag: Fahren Sie zu den monumentalen Ruinen der Abtei Saint-Bertin und bewundern Sie die Größe dieser antiken Stätte.\nAbend: Beenden Sie Ihren aktiven Tag im Kanu-Kajak-Club und tauschen Sie vielleicht das Fahrrad gegen ein Boot, um sanft über das Wasser zu gleiten.",
         "hu": "Délelőtt: Kezdje kerékpáros útját a Városháza homlokzatának megcsodálásával, majd tekerjen kényelmesen a Hôtel Sandelin Múzeum kincseihez.\nDél: Biciklizzen tovább a magasba törő Notre-Dame katedrálishoz, mielőtt egy frissítő pihenőt tartana a Városliget árnyas fái alatt.\nDélután: Tekerjen a monumentális Saint-Bertin apátság romjai felé, felfedezve a csendes történelmi ösvényeket és az ősi helyszín léptékét.\nEste: Zárja ezt az energikus napot a Canoë Kayak Clubnál, esetleg hajóra cserélve a biciklit egy laza, naplemente előtti evezéshez.",
         "ro": "Dimineața: Începeți călătoria cu bicicleta admirând fațada Primăriei, apoi pedalați ușor pe străzi pentru a descoperi comorile Muzeului Hôtel Sandelin.\nPrânz: Mergeți spre impresionanta Catedrală Notre-Dame, acordând un moment măreției sale, înainte de a vă bucura de o pauză sub copacii Parcului Orașului.\nDupă-amiaza: Călătoriți spre ruinele abației Saint-Bertin, navigând pe căile istorice și admirând amploarea acestui sit antic.\nSeara: Încheiați ziua energică la Clubul de Caiac, poate schimbând bicicleta pe o barcă pentru a aluneca ușor pe căile navigabile pitorești.",
-        "en": "Morning: Kick off your cycling journey by admiring the Town Hall's facade, then pedal smoothly through the streets to discover the treasures of Hôtel Sandelin Museum.\nMidday: Cycle onwards to the soaring Notre-Dame cathedral, taking a moment to appreciate its grandeur, before enjoying a refreshing break under the trees of the City Park.\nAfternoon: Ride towards the monumental Saint-Bertin abbey ruins, navigating the quiet historical paths and taking in the breathtaking scale of this ancient site.\nEvening: End your energetic day at the Canoe Kayak Club, perhaps swapping your bike for a boat to glide gently along the city's scenic waterways."
+        "en": "Morning: Kick off your cycling journey by admiring the Town Hall's facade, then pedal smoothly through the streets to discover the treasures of Hôtel Sandelin Museum.\nMidday: Cycle onwards to the soaring Notre-Dame cathedral, taking a moment to appreciate its grandeur, before enjoying a refreshing break under the trees of the City Park.\nAfternoon: Ride towards the monumental Saint-Bertin abbey ruins, navigating the quiet historical paths and taking in the breathtaking scale of this ancient site.\nEvening: End your energetic day at the Canoe Kayak Club, perhaps swapping your bike for a boat to glide gently along the city's scenic waterways.",
+        "fr": "Matin : Lancez votre parcours à vélo en admirant la façade de l’hôtel de ville, puis pédalez tranquillement à travers les rues pour découvrir les trésors du musée Hôtel Sandelin.\nMidi : Poursuivez à vélo jusqu’à la haute cathédrale Notre-Dame, prenez un instant pour apprécier sa grandeur, puis profitez d’une pause rafraîchissante à l’ombre des arbres du City Park.\nAprès-midi : Roulez vers les monumentales ruines de l’abbaye Saint-Bertin en empruntant des chemins historiques tranquilles et admirez l’échelle impressionnante de ce site ancien.\nSoir : Terminez votre journée énergique au Canoe Kayak Club, en échangeant peut‑être votre vélo contre un bateau pour glisser doucement le long des voies d’eau pittoresques de la ville."
       },
       "variants": {
         "rainy": {
@@ -511,7 +563,8 @@
             "de": "Beginnen Sie Ihre nasse Fahrt am Rathaus und achten Sie auf Schutzbleche für das rutschige Kopfsteinpflaster.\n\nTrocknen Sie sich mittags im Museum Hôtel Sandelin und der majestätischen Kathedrale ab, um dem Regen zu entgehen.\n\nFahren Sie nachmittags vorsichtig zum Stadtpark und den regengepeitschten Ruinen der Abtei Saint-Bertin.\n\nBeenden Sie Ihre Radtour am Kanuclub; wasserdichte Kleidung ist heute beim Paddeln absolut unerlässlich.",
             "hu": "Kezdje a nedves kerékpározást a Városházánál, ügyelve a csúszós macskakövekre és sárvédő használatára.\n\nDélben szárítkozzon meg a Hôtel Sandelin Múzeumban és a lenyűgöző katedrálisban, elkerülve a záporokat.\n\nDélután tekerjen óvatosan a Városligetbe és az esőáztatta Saint-Bertin apátság drámai romjaihoz.\n\nZárja az esős túrát a Kajak-Kenu Klubnál; a vízre szálláshoz ma elengedhetetlen a teljes vízálló felszerelés.",
             "ro": "Începeți traseul umed la Primărie, asigurându-vă că bicicleta are apărători pentru piatra cubică alunecoasă.\n\nLa prânz, uscați-vă în Muzeul Hôtel Sandelin și în Catedrala maiestuoasă pentru a scăpa de ploaie.\n\nDupă-amiaza, pedalați cu grijă spre Parcul Orașului și spre ruinele dramatice ale Abației Saint-Bertin.\n\nÎncheiați la Clubul de Canoe; dacă vâsliți, echipamentul complet impermeabil este absolut esențial astăzi.",
-            "en": "Begin your wet ride at the Town Hall, ensuring your bike has good mudguards for the slippery cobblestones.\n\nBy midday, dry off inside the Hôtel Sandelin Museum and the majestic Notre-Dame Cathedral to escape the downpours.\n\nSpend the afternoon riding carefully to the City Park and the dramatic, rain-swept Saint-Bertin Abbey Ruins.\n\nFinish your damp cycling tour at the Canoe Kayak Club; if you paddle, waterproof gear is absolutely essential today."
+            "en": "Begin your wet ride at the Town Hall, ensuring your bike has good mudguards for the slippery cobblestones.\n\nBy midday, dry off inside the Hôtel Sandelin Museum and the majestic Notre-Dame Cathedral to escape the downpours.\n\nSpend the afternoon riding carefully to the City Park and the dramatic, rain-swept Saint-Bertin Abbey Ruins.\n\nFinish your damp cycling tour at the Canoe Kayak Club; if you paddle, waterproof gear is absolutely essential today.",
+            "fr": "Commencez votre balade mouillée à vélo à l’hôtel de ville en vous assurant que votre vélo a de bons garde‑boue pour les pavés glissants.\n\nÀ midi, séchez‑vous à l’intérieur du musée Hôtel Sandelin et de la majestueuse cathédrale Notre-Dame pour échapper aux averses.\n\nPassez l’après-midi à rouler prudemment vers le City Park et les dramatiques ruines de l’abbaye Saint-Bertin balayées par la pluie.\n\nTerminez votre circuit cycliste humide au Canoe Kayak Club ; si vous pagayez, un équipement imperméable est absolument indispensable aujourd’hui."
           },
           "stops": [
             {
@@ -519,13 +572,15 @@
                 "de": "Rathaus",
                 "hu": "Városháza",
                 "ro": "Primăria",
-                "en": "Town Hall"
+                "en": "Town Hall",
+                "fr": "Town Hall"
               },
               "tip_5lang": {
                 "de": "Achten Sie auf nasses, rutschiges Kopfsteinpflaster. Reduzieren Sie den Reifendruck leicht für besseren Halt.",
                 "hu": "Vigyázzon a vizes, csúszós macskakövekre. Engedjen ki egy kis nyomást a gumikból a jobb tapadás érdekében.",
                 "ro": "Atenție la piatra cubică umedă și alunecoasă. Reduceți ușor presiunea în anvelope pentru o aderență mai bună.",
-                "en": "Start here, but watch out for wet, slippery cobblestones. Lower your tire pressure slightly for better grip."
+                "en": "Start here, but watch out for wet, slippery cobblestones. Lower your tire pressure slightly for better grip.",
+                "fr": "Commencez ici, mais méfiez‑vous des pavés humides et glissants. Baissez légèrement la pression des pneus pour une meilleure adhérence."
               }
             },
             {
@@ -533,13 +588,15 @@
                 "de": "Museum Hôtel Sandelin",
                 "hu": "Hôtel Sandelin Múzeum",
                 "ro": "Muzeul Hôtel Sandelin",
-                "en": "Hôtel Sandelin Museum"
+                "en": "Hôtel Sandelin Museum",
+                "fr": "Hôtel Sandelin Museum"
               },
               "tip_5lang": {
                 "de": "Parken Sie Ihr Fahrrad und trocknen Sie sich drinnen ab. Dieser kulturelle Stopp ist eine willkommene Pause vom Regen.",
                 "hu": "Parkolja le a biciklit és szárítkozzon meg bent. Ez a benti kulturális megálló remek menedék az eső elől.",
                 "ro": "Parcați bicicleta și uscați-vă în interior. Această oprire culturală este o pauză binevenită de la ploaie.",
-                "en": "Park your bike and dry off inside. This warm, indoor cultural stop is a welcome break from the persistent rain."
+                "en": "Park your bike and dry off inside. This warm, indoor cultural stop is a welcome break from the persistent rain.",
+                "fr": "Garez votre vélo et séchez‑vous à l’intérieur. Cette halte culturelle intérieure et chaleureuse est un répit bienvenu face à la pluie persistante."
               }
             },
             {
@@ -547,13 +604,15 @@
                 "de": "Kathedrale Notre-Dame",
                 "hu": "Notre-Dame katedrális",
                 "ro": "Catedrala Notre-Dame",
-                "en": "Notre-Dame Cathedral"
+                "en": "Notre-Dame Cathedral",
+                "fr": "Notre-Dame Cathedral"
               },
               "tip_5lang": {
                 "de": "Ein weiterer großartiger Zufluchtsort. Die Steinböden können nass rutschig sein, seien Sie also vorsichtig.",
                 "hu": "Egy újabb remek benti menedék. A kőpadló vizesen nagyon csúszós lehet, ezért óvatosan lépkedjen.",
                 "ro": "Un alt refugiu interior excelent. Podelele din piatră pot fi alunecoase când sunt umede, deci pășiți cu grijă.",
-                "en": "Another great indoor refuge. Bring your wet gear inside carefully; the stone floors can be slippery when wet."
+                "en": "Another great indoor refuge. Bring your wet gear inside carefully; the stone floors can be slippery when wet.",
+                "fr": "Un autre excellent refuge intérieur. Rentrez soigneusement votre équipement humide ; les sols en pierre peuvent être glissants lorsqu’ils sont mouillés."
               }
             },
             {
@@ -561,13 +620,15 @@
                 "de": "Stadtpark",
                 "hu": "Városliget",
                 "ro": "Parcul Orașului",
-                "en": "City Park"
+                "en": "City Park",
+                "fr": "City Park"
               },
               "tip_5lang": {
                 "de": "Die asphaltierten Wege sind zugänglich, meiden Sie die Grasflächen. Eine wasserdichte Jacke ist hier ein Muss.",
                 "hu": "A burkolt kerékpárutak járhatóak, de kerülje a saras füves részeket. A vízálló kabát itt elengedhetetlen.",
                 "ro": "Potecile pavate sunt accesibile, dar evitați secțiunile noroioase de iarbă. O jachetă impermeabilă este obligatorie.",
-                "en": "The paved paths remain accessible, but avoid the muddy grassy sections. A waterproof jacket is a must here."
+                "en": "The paved paths remain accessible, but avoid the muddy grassy sections. A waterproof jacket is a must here.",
+                "fr": "Les chemins pavés restent praticables, mais évitez les sections herbeuses boueuses. Une veste imperméable est indispensable ici."
               }
             },
             {
@@ -575,13 +636,15 @@
                 "de": "Ruinen der Abtei Saint-Bertin",
                 "hu": "Saint-Bertin apátság romjai",
                 "ro": "Ruinele Abației Saint-Bertin",
-                "en": "Saint-Bertin Abbey Ruins"
+                "en": "Saint-Bertin Abbey Ruins",
+                "fr": "Saint-Bertin Abbey Ruins"
               },
               "tip_5lang": {
                 "de": "Die Ruinen sind bei Regen sehr eindrucksvoll. Parken Sie sicher und erkunden Sie den rutschigen Boden zu Fuß.",
                 "hu": "A romok hangulatosak esőben. Parkoljon le biztonságosan, és gyalog fedezze fel a területet, vigyázva a csúszásveszélyre.",
                 "ro": "Ruinele sunt evocatoare în ploaie. Parcați în siguranță și explorați pe jos, cu pantofi cu aderență bună.",
-                "en": "The ruins are evocative in the rain. Park safely and explore on foot, wearing shoes with good traction."
+                "en": "The ruins are evocative in the rain. Park safely and explore on foot, wearing shoes with good traction.",
+                "fr": "Les ruines sont évocatrices sous la pluie. Garez‑vous en sécurité et explorez à pied en portant des chaussures à bonne traction."
               }
             },
             {
@@ -589,13 +652,15 @@
                 "de": "Kanu-Kajak-Club",
                 "hu": "Canoë Kayak Club",
                 "ro": "Clubul de Canoe și Caiac",
-                "en": "Canoe Kayak Club"
+                "en": "Canoe Kayak Club",
+                "fr": "Canoe Kayak Club"
               },
               "tip_5lang": {
                 "de": "Gehen Sie nur mit vollständiger wasserdichter Ausrüstung aufs Wasser oder genießen Sie die Aussicht im Trockenen.",
                 "hu": "Csak akkor szálljon vízre, ha teljes vízálló felszerelése van, különben csak élvezze a kilátást az ereszték alól.",
                 "ro": "Aventurați-vă pe apă doar dacă aveți echipament impermeabil complet, altfel bucurați-vă de priveliște de la adăpost.",
-                "en": "Only venture onto the water if you have full waterproof gear, otherwise just enjoy the view from the shelter."
+                "en": "Only venture onto the water if you have full waterproof gear, otherwise just enjoy the view from the shelter.",
+                "fr": "N’allez sur l’eau que si vous disposez d’un équipement totalement imperméable, sinon contentez‑vous d’admirer la vue depuis l’abri."
               }
             }
           ]
@@ -605,7 +670,8 @@
             "de": "Starten Sie Ihre frostige Radtour am Rathaus. Thermohandschuhe sind unerlässlich für die kalten Lenkergriffe.\n\nWärmen Sie sich mittags bei ausgedehnten Innenbesuchen im Museum Hôtel Sandelin und der spektakulären Kathedrale auf.\n\nRadeln Sie durch die kühle Nachmittagsluft zum Stadtpark und den wunderschön vereisten Ruinen der Abtei Saint-Bertin.\n\nBeenden Sie die Tour vor der frühen Dunkelheit am Kanu-Kajak-Club; Winterpaddeln erfordert spezielle Kaltwasserausrüstung.",
             "hu": "Kezdje a fagyos kerékpározást a Városházánál. A termálkesztyű elengedhetetlen a hideg kormány fogásához.\n\nDélben melegedjen fel a Hôtel Sandelin Múzeum és a lenyűgöző Notre-Dame katedrális benti, védett tereiben.\n\nTekerjen át a hűvös délutáni levegőn a Városligetbe és a zúzmarás Saint-Bertin apátság gyönyörű romjaihoz.\n\nFejezze be a túrát a korai sötétedés előtt a Kajak-Kenu Klubnál; a téli evezéshez speciális védőfelszerelés szükséges.",
             "ro": "Începeți traseul înghețat la Primărie. Mănușile termice sunt esențiale pentru a prinde ghidonul rece.\n\nÎncălziți-vă la prânz cu vizite prelungite la Muzeul Hôtel Sandelin și la spectaculoasa Catedrală Notre-Dame.\n\nPedalați prin aerul rece de după-amiază spre Parcul Orașului și ruinele Abației Saint-Bertin, frumoase sub chiciură.\n\nÎncheiați înainte de întunericul timpuriu la Clubul de Canoe; vâslitul iarna necesită echipament special pentru apă rece.",
-            "en": "Kick off your frosty bike ride at the Town Hall. Thermal gloves are essential for gripping the cold handlebars.\n\nWarm up during midday with extended indoor visits to the Hôtel Sandelin Museum and the spectacular Notre-Dame Cathedral.\n\nCycle through the chilly afternoon air to the City Park and the Saint-Bertin Abbey Ruins, beautiful in the frost.\n\nConclude before the early dark at the Canoe Kayak Club; winter paddling requires specialized cold-water equipment."
+            "en": "Kick off your frosty bike ride at the Town Hall. Thermal gloves are essential for gripping the cold handlebars.\n\nWarm up during midday with extended indoor visits to the Hôtel Sandelin Museum and the spectacular Notre-Dame Cathedral.\n\nCycle through the chilly afternoon air to the City Park and the Saint-Bertin Abbey Ruins, beautiful in the frost.\n\nConclude before the early dark at the Canoe Kayak Club; winter paddling requires specialized cold-water equipment.",
+            "fr": "Commencez votre balade à vélo glaciale à l’hôtel de ville. Des gants thermiques sont essentiels pour tenir les guidons gelés.\n\nRéchauffez‑vous à midi lors de longues visites intérieures au musée Hôtel Sandelin et à la spectaculaire cathédrale Notre-Dame.\n\nParcourez l’après‑midi dans l’air froid à vélo jusqu’au City Park et aux ruines de l’abbaye Saint-Bertin, magnifiques sous le givre.\n\nConcluez avant la nuit précoce au Canoe Kayak Club ; le pagayage hivernal nécessite un équipement spécialisé pour eaux froides."
           },
           "stops": [
             {
@@ -613,13 +679,15 @@
                 "de": "Rathaus",
                 "hu": "Városháza",
                 "ro": "Primăria",
-                "en": "Town Hall"
+                "en": "Town Hall",
+                "fr": "Town Hall"
               },
               "tip_5lang": {
                 "de": "Die Winterluft ist beißend. Stellen Sie sicher, dass Sie Thermohandschuhe und eine winddichte Jacke haben.",
                 "hu": "A téli reggeli levegő metsző. Indulás előtt győződjön meg róla, hogy van szélálló dzsekije és meleg kesztyűje.",
                 "ro": "Aerul dimineții de iarnă este tăios. Asigurați-vă că aveți mănuși termice și o jachetă rezistentă la vânt.",
-                "en": "The winter morning air is biting. Ensure you have thermal gloves and a windproof jacket before setting off."
+                "en": "The winter morning air is biting. Ensure you have thermal gloves and a windproof jacket before setting off.",
+                "fr": "L’air du matin en hiver est mordant. Assurez‑vous d’avoir des gants thermiques et une veste coupe‑vent avant de partir."
               }
             },
             {
@@ -627,13 +695,15 @@
                 "de": "Museum Hôtel Sandelin",
                 "hu": "Hôtel Sandelin Múzeum",
                 "ro": "Muzeul Hôtel Sandelin",
-                "en": "Hôtel Sandelin Museum"
+                "en": "Hôtel Sandelin Museum",
+                "fr": "Hôtel Sandelin Museum"
               },
               "tip_5lang": {
                 "de": "Ein perfekter Stopp, um die Finger aufzutauen. Genießen Sie die beheizten Galerien dieses feinen Museums.",
                 "hu": "Tökéletes megálló a megfagyott ujjak felolvasztására. Sétáljon kényelmesen a fűtött múzeumi termekben.",
                 "ro": "O oprire perfectă pentru a vă dezgheța degetele. Luați-vă timp plimbându-vă prin galeriile încălzite ale muzeului.",
-                "en": "A perfect stop to thaw your frozen fingers. Take your time wandering the heated galleries of this fine museum."
+                "en": "A perfect stop to thaw your frozen fingers. Take your time wandering the heated galleries of this fine museum.",
+                "fr": "Un arrêt parfait pour décongeler vos doigts gelés. Prenez votre temps pour flâner dans les galeries chauffées de ce beau musée."
               }
             },
             {
@@ -641,13 +711,15 @@
                 "de": "Kathedrale Notre-Dame",
                 "hu": "Notre-Dame katedrális",
                 "ro": "Catedrala Notre-Dame",
-                "en": "Notre-Dame Cathedral"
+                "en": "Notre-Dame Cathedral",
+                "fr": "Notre-Dame Cathedral"
               },
               "tip_5lang": {
                 "de": "Das Innere der Kathedrale kann zugig sein. Behalten Sie Ihren Wintermantel an, während Sie die Details bewundern.",
                 "hu": "A katedrális lenyűgöző, de huzatos lehet. Tartsa magán a téli kabátot, amíg megcsodálja a részleteket.",
                 "ro": "Interiorul catedralei poate avea curenți reci de aer. Păstrați haina de iarnă pe dumneavoastră în timp ce o vizitați.",
-                "en": "The cathedral's interior is stunning but can be draughty. Keep your winter coat on while admiring the details."
+                "en": "The cathedral's interior is stunning but can be draughty. Keep your winter coat on while admiring the details.",
+                "fr": "L’intérieur de la cathédrale est splendide mais peut être courant d’air. Gardez votre manteau pour admirer les détails."
               }
             },
             {
@@ -655,13 +727,15 @@
                 "de": "Stadtpark",
                 "hu": "Városliget",
                 "ro": "Parcul Orașului",
-                "en": "City Park"
+                "en": "City Park",
+                "fr": "City Park"
               },
               "tip_5lang": {
                 "de": "Die kahlen Winterbäume bieten eine karge Schönheit. Vorsicht vor versteckten Eisflächen auf den Radwegen.",
                 "hu": "A csupasz téli fák zord szépséget kínálnak. Legyen nagyon óvatos a kerékpárutak árnyékos részein megbújó jégfoltokkal.",
                 "ro": "Copacii goi de iarnă oferă o frumusețe sobră. Atenție la peticele ascunse de gheață de pe pistele de biciclete.",
-                "en": "The bare winter trees offer a stark beauty. Be cautious of hidden ice patches on the bike paths in the shade."
+                "en": "The bare winter trees offer a stark beauty. Be cautious of hidden ice patches on the bike paths in the shade.",
+                "fr": "Les arbres nus de l’hiver offrent une beauté austère. Méfiez‑vous des plaques de verglas cachées sur les pistes cyclables à l’ombre."
               }
             },
             {
@@ -669,13 +743,15 @@
                 "de": "Ruinen der Abtei Saint-Bertin",
                 "hu": "Saint-Bertin apátság romjai",
                 "ro": "Ruinele Abației Saint-Bertin",
-                "en": "Saint-Bertin Abbey Ruins"
+                "en": "Saint-Bertin Abbey Ruins",
+                "fr": "Saint-Bertin Abbey Ruins"
               },
               "tip_5lang": {
                 "de": "Die frostbedeckten Steine sind ein Muss. Die Sonne geht früh unter, fangen Sie hier das winterliche Nachmittagslicht ein.",
                 "hu": "A dérlepte kövek csodásak. A nap korán nyugszik, próbálja meg itt elcsípni a gyönyörű téli délutáni fényeket.",
                 "ro": "Pietrele acoperite de chiciură trebuie văzute. Soarele apune devreme, așa că prindeți aici lumina frumoasă de după-amiază.",
-                "en": "The frost-covered stones are a must-see. The sun sets early, so catch the beautiful afternoon winter light here."
+                "en": "The frost-covered stones are a must-see. The sun sets early, so catch the beautiful afternoon winter light here.",
+                "fr": "Les pierres couvertes de givre valent le détour. Le soleil se couche tôt, alors profitez de la belle lumière hivernale de l’après‑midi ici."
               }
             },
             {
@@ -683,13 +759,15 @@
                 "de": "Kanu-Kajak-Club",
                 "hu": "Canoë Kayak Club",
                 "ro": "Clubul de Canoe și Caiac",
-                "en": "Canoe Kayak Club"
+                "en": "Canoe Kayak Club",
+                "fr": "Canoe Kayak Club"
               },
               "tip_5lang": {
                 "de": "Winterpaddeln ist nur für Erfahrene mit Spezialausrüstung. Machen Sie alternativ einen flotten Spaziergang.",
                 "hu": "A téli evezés csak a tapasztaltaknak és megfelelően felszerelteknek való. Alternatívaként tegyen egy gyors sétát a parton.",
                 "ro": "Vâslitul de iarnă este strict pentru cei experimentați și echipați. Alternativ, bucurați-vă de o plimbare rapidă în apropiere.",
-                "en": "Winter paddling is strictly for the experienced and properly equipped. Alternatively, enjoy a brisk walk nearby."
+                "en": "Winter paddling is strictly for the experienced and properly equipped. Alternatively, enjoy a brisk walk nearby.",
+                "fr": "Le pagayage hivernal est strictement réservé aux expérimentés et bien équipés. Sinon, profitez d’une promenade vivifiante à proximité."
               }
             }
           ]
@@ -709,7 +787,8 @@
             "de": "Rathaus",
             "hu": "Városháza",
             "ro": "Primăria",
-            "en": "Town Hall"
+            "en": "Town Hall",
+            "fr": "Town Hall"
           },
           "coords": [
             2.262667,
@@ -724,7 +803,8 @@
             "de": "Bewundern Sie die beeindruckende Architektur dieses Rathauses, erfahren Sie mehr über die lokale Geschichte und kommen Sie früh für das beste Fotolicht.",
             "hu": "Csodálja meg e lenyűgöző városháza építészeti részleteit, ismerje meg a helyi közigazgatás történelmét, és érkezzen kora reggel a legjobb fotózási fényekért.",
             "ro": "Admirați arhitectura impresionantă a acestei primării, descoperind istoria guvernării locale, și ajungeți devreme pentru a prinde fațada în lumină bună.",
-            "en": "Admire the striking architecture of this civic center, learning about local governance history, and arrive early to capture its facade in the morning light."
+            "en": "Admire the striking architecture of this civic center, learning about local governance history, and arrive early to capture its facade in the morning light.",
+            "fr": "Admirez l’architecture frappante de ce centre civique, apprenez l’histoire du gouvernement local et arrivez tôt pour capter sa façade à la lumière du matin."
           }
         },
         {
@@ -732,7 +812,8 @@
             "de": "Kathedrale Notre-Dame",
             "hu": "Notre-Dame katedrális",
             "ro": "Catedrala Notre-Dame",
-            "en": "Notre-Dame Cathedral"
+            "en": "Notre-Dame Cathedral",
+            "fr": "Notre-Dame Cathedral"
           },
           "coords": [
             2.252778,
@@ -747,7 +828,8 @@
             "de": "Bewundern Sie die gotischen Details dieser prächtigen Kathedrale, betrachten Sie die astronomische Uhr und denken Sie daran, im Inneren leise zu sprechen.",
             "hu": "Gyönyörködjön e lenyűgöző katedrális gótikus részleteiben, fedezze fel a csillagászati órát, és ne feledjen tiszteletteljesen, halkan beszélni odabent.",
             "ro": "Minunați-vă de detaliile gotice ale acestei catedrale magnifice, observând ceasul astronomic istoric, și amintiți-vă să păstrați liniștea din respect.",
-            "en": "Marvel at the intricate Gothic details of this magnificent cathedral, observing the historic astronomical clock, and remember to keep your voice down out of respect."
+            "en": "Marvel at the intricate Gothic details of this magnificent cathedral, observing the historic astronomical clock, and remember to keep your voice down out of respect.",
+            "fr": "Admirez les détails gothiques complexes de cette magnifique cathédrale, observez l’horloge astronomique historique et pensez à garder la voix basse par respect."
           }
         },
         {
@@ -755,7 +837,8 @@
             "de": "Museum Hôtel Sandelin",
             "hu": "Hôtel Sandelin Múzeum",
             "ro": "Muzeul Hôtel Sandelin",
-            "en": "Hôtel Sandelin Museum"
+            "en": "Hôtel Sandelin Museum",
+            "fr": "Hôtel Sandelin Museum"
           },
           "coords": [
             2.25639,
@@ -770,7 +853,8 @@
             "de": "Erkunden Sie eine umfangreiche Kunst- und Keramiksammlung in diesem Herrenhaus und nehmen Sie sich ausreichend Zeit für die seltenen mittelalterlichen Artefakte.",
             "hu": "Fedezze fel e csodás kúriában található hatalmas művészeti gyűjteményt, szánjon időt a középkori leletekre, és érdeklődjön az időszaki kiállításokról.",
             "ro": "Explorați o colecție extinsă de artă și ceramică găzduită într-un conac frumos, acordând timp artefactelor medievale și verificând expozițiile temporare.",
-            "en": "Explore an extensive collection of art and ceramics housed in a beautiful mansion, taking time to appreciate the medieval artifacts and temporary exhibits."
+            "en": "Explore an extensive collection of art and ceramics housed in a beautiful mansion, taking time to appreciate the medieval artifacts and temporary exhibits.",
+            "fr": "Explorez une vaste collection d’art et de céramiques abritée dans une belle demeure, en prenant le temps d’apprécier les objets médiévaux et les expositions temporaires."
           }
         },
         {
@@ -778,7 +862,8 @@
             "de": "Ruinen der Abtei Saint-Bertin",
             "hu": "Saint-Bertin apátság romjai",
             "ro": "Ruinele Abației Saint-Bertin",
-            "en": "Saint-Bertin Abbey Ruins"
+            "en": "Saint-Bertin Abbey Ruins",
+            "fr": "Saint-Bertin Abbey Ruins"
           },
           "coords": [
             2.263892,
@@ -793,7 +878,8 @@
             "de": "Wandern Sie durch die stimmungsvollen Ruinen dieser alten Abtei, um ihre einstigen Ausmaße zu erfassen, und tragen Sie bequeme Schuhe für das unebene Gelände.",
             "hu": "Sétáljon végig ezen az ősi apátság hangulatos romjain, hogy megértse egykori méreteit, és viseljen kényelmes cipőt a biztonságos felfedezés érdekében.",
             "ro": "Plimbați-vă prin ruinele pline de atmosferă ale acestei abații pentru a înțelege fosta sa măreție și purtați încălțăminte confortabilă pentru terenul accidentat.",
-            "en": "Wander through the atmospheric ruins of this ancient abbey to grasp its former grand scale, and bring comfortable shoes for exploring the uneven historical terrain."
+            "en": "Wander through the atmospheric ruins of this ancient abbey to grasp its former grand scale, and bring comfortable shoes for exploring the uneven historical terrain.",
+            "fr": "Parcourez les ruines atmosphériques de cette ancienne abbaye pour comprendre son ancienne grandeur, et portez des chaussures confortables pour explorer le terrain historique irrégulier."
           }
         },
         {
@@ -801,7 +887,8 @@
             "de": "Audomarois-Sumpfgebiet",
             "hu": "Audomarois mocsárvidék",
             "ro": "Mlaștina Audomarois",
-            "en": "Audomarois Marshland"
+            "en": "Audomarois Marshland",
+            "fr": "Audomarois Marshland"
           },
           "coords": [
             2.232222,
@@ -816,7 +903,8 @@
             "de": "Entdecken Sie das einzigartige Ökosystem dieses weitläufigen Sumpfgebiets bei einer geführten Bootstour und bringen Sie im Sommer unbedingt Mückenspray mit.",
             "hu": "Fedezze fel e kiterjedt mocsárvidék egyedülálló ökoszisztémáját egy vezetett csónaktúra keretében, és nyáron feltétlenül hozzon magával szúnyogriasztót.",
             "ro": "Descoperiți ecosistemul unic al acestei rețele de mlaștini într-un tur cu barca, apreciind fauna diversă, și luați la voi un repelent de țânțari vara.",
-            "en": "Discover the unique ecosystem of this expansive marshland network on a guided boat tour, appreciating the diverse wildlife, and carry mosquito repellent in summer."
+            "en": "Discover the unique ecosystem of this expansive marshland network on a guided boat tour, appreciating the diverse wildlife, and carry mosquito repellent in summer.",
+            "fr": "Découvrez l’écosystème unique de ce vaste réseau de marais lors d’une visite guidée en bateau, appréciez la faune diversifiée et emportez un répulsif contre les moustiques en été."
           }
         }
       ],
@@ -824,7 +912,8 @@
         "de": "Morgen: Beginnen Sie Ihre Autotour am großen Rathaus im Stadtzentrum und navigieren Sie dann einfach zur beeindruckenden Kathedrale Notre-Dame.\nMittag: Fahren Sie hinüber zum Hôtel Sandelin, um in klassische Kunst einzutauchen, und besuchen Sie dann die stimmungsvollen Ruinen der Abtei Saint-Bertin.\nNachmittag: Lassen Sie die Steinstraßen hinter sich und fahren Sie in die weiten Grünflächen des Audomarois-Sumpfgebiets für einen ökologischen Ausflug.\nAbend: Lassen Sie den Tag mit einer ruhigen Bootsfahrt oder einem Spaziergang am Rande der Sümpfe ausklingen und genießen Sie die unberührte Natur.",
         "hu": "Délelőtt: Kezdje autós útitervét a hatalmas Városházánál a központban, majd guruljon át a közeli Notre-Dame katedrálishoz egy lenyűgöző látogatásra.\nDél: Parkoljon le a Hôtel Sandelin Múzeumnál, hogy elmerüljön a klasszikus művészetekben, majd vezessen át a Saint-Bertin apátság ünnepélyes romjaihoz.\nDélután: Hagyja maga mögött a város köves utcáit, és hajtson ki az Audomarois mocsárvidék hatalmas, zöld kiterjedésébe egy felejthetetlen ökológiai kirándulásra.\nEste: Zárja a napot egy békés csónakázással vagy sétával a mocsarak szélén, magába szívva a régió érintetlen természeti szépségét.",
         "ro": "Dimineața: Începeți itinerariul auto la grandioasa Primărie din centrul orașului, apoi navigați ușor spre Catedrala Notre-Dame pentru o vizită impresionantă.\nPrânz: Treceți pe la Muzeul Hôtel Sandelin pentru a vă scufunda în arta clasică, apoi conduceți scurt spre ruinele solemne ale abației Saint-Bertin.\nDupă-amiaza: Lăsați în urmă străzile de piatră și conduceți spre întinderile verzi și vaste ale mlaștinii Audomarois pentru o excursie ecologică de neuitat.\nSeara: Încheiați ziua bucurându-vă de o plimbare liniștită cu barca sau de o promenadă la marginea mlaștinilor, absorbind frumusețea naturală curată.",
-        "en": "Morning: Begin your driving itinerary at the grand Town Hall in the town center, then easily navigate to the nearby Notre-Dame cathedral for an awe-inspiring visit.\nMidday: Hop over to the Hôtel Sandelin Museum to immerse yourself in classical art, then drive briefly to the solemn and atmospheric ruins of Saint-Bertin abbey.\nAfternoon: Leave the city's stone streets behind as you drive out to the vast, green expanses of the Audomarois marshland for an unforgettable ecological excursion.\nEvening: Wrap up the day enjoying a tranquil boat ride or a sunset walk at the edge of the marshes, soaking in the pristine natural beauty of the region."
+        "en": "Morning: Begin your driving itinerary at the grand Town Hall in the town center, then easily navigate to the nearby Notre-Dame cathedral for an awe-inspiring visit.\nMidday: Hop over to the Hôtel Sandelin Museum to immerse yourself in classical art, then drive briefly to the solemn and atmospheric ruins of Saint-Bertin abbey.\nAfternoon: Leave the city's stone streets behind as you drive out to the vast, green expanses of the Audomarois marshland for an unforgettable ecological excursion.\nEvening: Wrap up the day enjoying a tranquil boat ride or a sunset walk at the edge of the marshes, soaking in the pristine natural beauty of the region.",
+        "fr": "Matin : Commencez votre itinéraire en voiture à l’imposant hôtel de ville du centre, puis rejoignez facilement la cathédrale Notre-Dame toute proche pour une visite impressionnante.\nMidi : Faites un saut au musée Hôtel Sandelin pour vous immerger dans l’art classique, puis conduisez brièvement jusqu’aux ruines solennelles et atmosphériques de l’abbaye Saint‑Bertin.\nAprès‑midi : Quittez les rues de pierre de la ville en voiture pour rejoindre les vastes étendues vertes des marais de l’Audomarois pour une excursion écologique inoubliable.\nSoir : Terminez la journée par une balade en bateau tranquille ou une promenade au coucher du soleil au bord des marais, en profitant de la beauté naturelle préservée de la région."
       },
       "variants": {
         "rainy": {
@@ -832,7 +921,8 @@
             "de": "Nutzen Sie das Auto am Rathaus, um bequem und trocken zwischen den Indoor-Standorten zu wechseln.\n\nVerbringen Sie den Mittag mit der Erkundung der Kathedrale und des Museums, und parken Sie so nah wie möglich.\n\nMachen Sie nachmittags einen kurzen Stopp mit dem Regenschirm an den Ruinen, bevor Sie zum Sumpfgebiet fahren.\n\nBeenden Sie den Tag am Sumpfgebiet Audomarois; wählen Sie eine überdachte Bootstour oder genießen Sie die neblige Aussicht vom Auto aus.",
             "hu": "Induljon a Városházától, kihasználva az autó nyújtotta kényelmet, hogy szárazon ugrálhasson a benti helyszínek között.\n\nDélben fedezze fel a lenyűgöző katedrálist és a Hôtel Sandelin Múzeumot, a lehető legközelebb parkolva a bejáratokhoz.\n\nDélután tegyen egy rövid, esernyős megállót az apátság romjainál, mielőtt a mocsárvidék felé venné az irányt.\n\nZárja a napot az Audomarois mocsárvidéknél; válasszon fedett hajótúrát, vagy csak csodálja a párás tájat az autóból.",
             "ro": "Începeți la Primărie, folosind confortul mașinii pentru a trece rapid între locațiile interioare fără a vă uda.\n\nPetreceți prânzul explorând Catedrala și Muzeul Hôtel Sandelin, parcând cât mai aproape posibil de intrări.\n\nDupă-amiaza, faceți o scurtă oprire cu umbrela la Ruinele Abației Saint-Bertin, înainte de a merge la mlaștini.\n\nÎncheiați la Mlaștina Audomarois; optați pentru o plimbare cu barca acoperită sau admirați peisajul ploios din mașină.",
-            "en": "Start at the Town Hall, enjoying the convenience of your car to quickly hop between indoor locations without getting soaked.\n\nSpend midday exploring the magnificent Notre-Dame Cathedral and the Hôtel Sandelin Museum, parking as close as possible.\n\nIn the afternoon, make a brief stop at the Saint-Bertin Abbey Ruins with an umbrella before heading to the marshlands.\n\nEnd at the Audomarois Marshland; opt for a covered boat tour or simply admire the misty, rain-swept landscape from the car."
+            "en": "Start at the Town Hall, enjoying the convenience of your car to quickly hop between indoor locations without getting soaked.\n\nSpend midday exploring the magnificent Notre-Dame Cathedral and the Hôtel Sandelin Museum, parking as close as possible.\n\nIn the afternoon, make a brief stop at the Saint-Bertin Abbey Ruins with an umbrella before heading to the marshlands.\n\nEnd at the Audomarois Marshland; opt for a covered boat tour or simply admire the misty, rain-swept landscape from the car.",
+            "fr": "Commencez à l’hôtel de ville, profitez de la commodité de votre voiture pour passer rapidement entre les lieux couverts sans être trempé.\n\nPassez le midi à explorer la magnifique cathédrale Notre-Dame et le musée Hôtel Sandelin, en vous garant au plus près.\n\nL’après‑midi, faites une brève halte aux ruines de l’abbaye Saint‑Bertin avec un parapluie avant de vous diriger vers les marais.\n\nTerminez aux marais de l’Audomarois ; optez pour une visite en bateau couvert ou contentez‑vous d’admirer le paysage brumeux et balayé par la pluie depuis la voiture."
           },
           "stops": [
             {
@@ -840,13 +930,15 @@
                 "de": "Rathaus",
                 "hu": "Városháza",
                 "ro": "Primăria",
-                "en": "Town Hall"
+                "en": "Town Hall",
+                "fr": "Hôtel de ville"
               },
               "tip_5lang": {
                 "de": "Ein Regenschirm ist wichtig, da das Parken einen kurzen Fußweg im Regenguss erfordern könnte.",
                 "hu": "Az esernyő elengedhetetlen, mivel a parkolás valószínűleg egy rövid sétát igényel a szakadó esőben a térig.",
                 "ro": "O umbrelă este esențială, deoarece parcarea ar putea necesita o scurtă plimbare prin ploaia torențială.",
-                "en": "An umbrella is essential as parking might require a short walk in the downpour to reach the square."
+                "en": "An umbrella is essential as parking might require a short walk in the downpour to reach the square.",
+                "fr": "Un parapluie est indispensable car le parking peut nécessiter une courte marche sous la pluie pour rejoindre la place."
               }
             },
             {
@@ -854,13 +946,15 @@
                 "de": "Kathedrale Notre-Dame",
                 "hu": "Notre-Dame katedrális",
                 "ro": "Catedrala Notre-Dame",
-                "en": "Notre-Dame Cathedral"
+                "en": "Notre-Dame Cathedral",
+                "fr": "Cathédrale Notre-Dame"
               },
               "tip_5lang": {
                 "de": "Parken Sie in der Nähe und rennen Sie hinein, um die Architektur bequem im Trockenen zu bewundern.",
                 "hu": "Parkoljon a közelben, és siessen be az ajtón, hogy száraz kényelemben csodálhassa meg az építészetet.",
                 "ro": "Parcați în apropiere și grăbiți-vă înăuntru pentru a admira arhitectura într-un confort uscat.",
-                "en": "Park nearby and dash inside to admire the architecture in dry comfort. The heavy doors block the wind perfectly."
+                "en": "Park nearby and dash inside to admire the architecture in dry comfort. The heavy doors block the wind perfectly.",
+                "fr": "Garez-vous à proximité et courez à l'intérieur pour admirer l'architecture à l'abri. Les lourdes portes coupent parfaitement le vent."
               }
             },
             {
@@ -868,13 +962,15 @@
                 "de": "Museum Hôtel Sandelin",
                 "hu": "Hôtel Sandelin Múzeum",
                 "ro": "Muzeul Hôtel Sandelin",
-                "en": "Hôtel Sandelin Museum"
+                "en": "Hôtel Sandelin Museum",
+                "fr": "Musée Hôtel Sandelin"
               },
               "tip_5lang": {
                 "de": "Ein fantastischer Rückzugsort für drinnen. Verbringen Sie hier ein paar Stunden abgeschirmt vom nassen Wetter.",
                 "hu": "Fantasztikus benti menedék. Töltsön itt egy-két órát, teljesen védve a kinti esős, barátságtalan időtől.",
                 "ro": "O retragere fantastică în interior. Petreceți câteva ore aici, complet protejat de vremea umedă de afară.",
-                "en": "A fantastic indoor retreat. Spend an hour or two here completely shielded from the dreary, wet weather outside."
+                "en": "A fantastic indoor retreat. Spend an hour or two here completely shielded from the dreary, wet weather outside.",
+                "fr": "Un fantastique refuge intérieur. Passez une heure ou deux ici, complètement à l'abri du temps morne et humide dehors."
               }
             },
             {
@@ -882,13 +978,15 @@
                 "de": "Ruinen der Abtei Saint-Bertin",
                 "hu": "Saint-Bertin apátság romjai",
                 "ro": "Ruinele Abației Saint-Bertin",
-                "en": "Saint-Bertin Abbey Ruins"
+                "en": "Saint-Bertin Abbey Ruins",
+                "fr": "Ruines de l'abbaye Saint-Bertin"
               },
               "tip_5lang": {
                 "de": "Betrachten Sie die Ruinen aus dem Auto, wenn es gießt, oder machen Sie einen kurzen Spaziergang mit großem Regenschirm.",
                 "hu": "Szakadó esőben nézze meg a drámai romokat az autóból, vagy tegyen egy gyors, óvatos sétát egy nagy esernyővel.",
                 "ro": "Priviți ruinele din mașină dacă toarnă cu găleata, sau faceți o plimbare scurtă și atentă cu o umbrelă mare.",
-                "en": "View the dramatic wet ruins from the car if it's pouring, or take a quick, careful walk with a large umbrella."
+                "en": "View the dramatic wet ruins from the car if it's pouring, or take a quick, careful walk with a large umbrella.",
+                "fr": "Admirez les ruines dramatiques depuis la voiture s'il pleut à verse, ou faites une courte promenade prudente avec un grand parapluie."
               }
             },
             {
@@ -896,13 +994,15 @@
                 "de": "Audomarois-Sumpfgebiet",
                 "hu": "Audomarois mocsárvidék",
                 "ro": "Mlaștina Audomarois",
-                "en": "Audomarois Marshland"
+                "en": "Audomarois Marshland",
+                "fr": "Marais Audomarois"
               },
               "tip_5lang": {
                 "de": "Die Sümpfe sind extrem nass. Suchen Sie nach geschlossenen Bootstouren, um die Kanäle ohne Nässe zu genießen.",
                 "hu": "A mocsár nagyon vizes és sáros. Keressen zárt, fedett hajótúrákat, hogy megázás nélkül élvezhesse a csatornákat.",
                 "ro": "Mlaștinile sunt foarte umede. Căutați plimbări cu bărci închise pentru a vă bucura de canale fără a vă uda.",
-                "en": "The marshes are very wet and muddy. Look for closed, covered boat tours to enjoy the canals without getting soaked."
+                "en": "The marshes are very wet and muddy. Look for closed, covered boat tours to enjoy the canals without getting soaked.",
+                "fr": "Les marais sont très humides et boueux. Cherchez des promenades en barque fermées et couvertes pour profiter des canaux sans être trempé."
               }
             }
           ]
@@ -912,7 +1012,8 @@
             "de": "Beginnen Sie Ihre Fahrt am Rathaus und nutzen Sie die Autoheizung, um zwischen den kalten Stopps gemütlich zu bleiben.\n\nParken Sie mittags nahe der Kathedrale und dem Museum, um kalte Fußwege mit warmen Innenräumen auszugleichen.\n\nFahren Sie nachmittags zu den Ruinen der Abtei, um die frostigen Steine zu sehen, bevor die Temperatur weiter sinkt.\n\nSchließen Sie am Sumpfgebiet vor dem frühen Sonnenuntergang um 17 Uhr ab; der Winternebel über dem Wasser ist magisch.",
             "hu": "Induljon a Városházától, használva az autó fűtését, hogy melegen tartsa magát a csípős, hideg szabadtéri megállók között.\n\nDélben parkoljon a katedrális és a múzeum közelében, kiegyensúlyozva a hideg sétákat a meleg benti terekkel.\n\nDélután vezessen el az apátság romjaihoz, hogy még azelőtt lássa a fagyos köveket, mielőtt a hőmérséklet tovább esne.\n\nZárjon az Audomarois mocsárvidéknél a korai, 17 órai naplemente előtt; a téli köd a víz felett varázslatos látvány.",
             "ro": "Începeți traseul la Primărie, folosind căldura mașinii pentru a rămâne confortabil între opririle reci în aer liber.\n\nParcați lângă Catedrală și Muzeu la prânz, echilibrând plimbările reci cu interioarele calde.\n\nConduceți spre Ruinele Abației după-amiaza pentru a vedea pietrele înghețate înainte ca temperatura să scadă mai mult.\n\nÎncheiați la Mlaștina Audomarois înainte de apusul de la ora 17:00; ceața de iarnă deasupra apei este magică.",
-            "en": "Begin your drive at the Town Hall, using the car's heater to stay cozy between the crisp, cold outdoor stops.\n\nPark near the Notre-Dame Cathedral and the Hôtel Sandelin Museum at midday, balancing cold walks with warm interiors.\n\nDrive to the Saint-Bertin Abbey Ruins in the afternoon to see the frosty stones before the temperature drops further.\n\nConclude at the Audomarois Marshland before the early 5 PM sunset; the winter mist over the water is truly magical."
+            "en": "Begin your drive at the Town Hall, using the car's heater to stay cozy between the crisp, cold outdoor stops.\n\nPark near the Notre-Dame Cathedral and the Hôtel Sandelin Museum at midday, balancing cold walks with warm interiors.\n\nDrive to the Saint-Bertin Abbey Ruins in the afternoon to see the frosty stones before the temperature drops further.\n\nConclude at the Audomarois Marshland before the early 5 PM sunset; the winter mist over the water is truly magical.",
+            "fr": "Commencez votre parcours à l'Hôtel de ville, en utilisant le chauffage de la voiture pour rester au chaud entre les arrêts froids et vivifiants en extérieur.\n\nGarez-vous près de la Cathédrale Notre-Dame et du Musée Hôtel Sandelin en milieu de journée, en alternant balades fraîches et intérieurs chaleureux.\n\nRendez-vous aux Ruines de l'abbaye Saint-Bertin dans l'après-midi pour voir les pierres givrées avant que la température ne baisse davantage.\n\nConcluez aux Marais Audomarois avant le coucher de soleil à 17h00 ; la brume hivernale sur l'eau est vraiment magique."
           },
           "stops": [
             {
@@ -920,13 +1021,15 @@
                 "de": "Rathaus",
                 "hu": "Városháza",
                 "ro": "Primăria",
-                "en": "Town Hall"
+                "en": "Town Hall",
+                "fr": "Hôtel de ville"
               },
               "tip_5lang": {
                 "de": "Lassen Sie die Heizung laufen. Steigen Sie kurz aus, um den frostigen Platz mit warmer Mütze und Mantel zu sehen.",
                 "hu": "Járassa az autó fűtését. Szálljon ki egy pillanatra meleg sapkában és kabátban, hogy lássa a zúzmarás teret.",
                 "ro": "Lăsați căldura pornită. Ieșiți scurt pentru a vedea piața înghețată, purtând o căciulă caldă și o haină groasă.",
-                "en": "Keep the car heater running. Step out briefly to see the frosty square, wearing a warm hat and heavy coat."
+                "en": "Keep the car heater running. Step out briefly to see the frosty square, wearing a warm hat and heavy coat.",
+                "fr": "Gardez le chauffage de la voiture allumé. Sortez brièvement pour voir la place givrée, en portant un bonnet chaud et un manteau épais."
               }
             },
             {
@@ -934,13 +1037,15 @@
                 "de": "Kathedrale Notre-Dame",
                 "hu": "Notre-Dame katedrális",
                 "ro": "Catedrala Notre-Dame",
-                "en": "Notre-Dame Cathedral"
+                "en": "Notre-Dame Cathedral",
+                "fr": "Cathédrale Notre-Dame"
               },
               "tip_5lang": {
                 "de": "Der Innenraum ist wunderschön, aber kälter als Ihr Auto. Tragen Sie Schichten, da Steingebäude die Kälte speichern.",
                 "hu": "A belső tér gyönyörű, de sokkal hidegebb, mint az autója. Öltözzön rétegesen, mert a kőépületek tartják a hideget.",
                 "ro": "Interiorul este frumos, dar mai rece decât mașina. Purtați straturi, deoarece clădirile din piatră rețin frigul.",
-                "en": "The interior is beautiful but chillier than your car. Wear layers, as stone buildings hold the winter cold."
+                "en": "The interior is beautiful but chillier than your car. Wear layers, as stone buildings hold the winter cold.",
+                "fr": "L'intérieur est magnifique mais plus frais que votre voiture. Portez des couches, les bâtiments en pierre gardent le froid hivernal."
               }
             },
             {
@@ -948,13 +1053,15 @@
                 "de": "Museum Hôtel Sandelin",
                 "hu": "Hôtel Sandelin Múzeum",
                 "ro": "Muzeul Hôtel Sandelin",
-                "en": "Hôtel Sandelin Museum"
+                "en": "Hôtel Sandelin Museum",
+                "fr": "Musée Hôtel Sandelin"
               },
               "tip_5lang": {
                 "de": "Ein großartiger Ort, um die Füße aufzuwärmen. Die beheizten Räume machen dies zu einem perfekten Stopp im Winter.",
                 "hu": "Remek hely a lábak felmelegítésére. A fűtött termek miatt ez a tökéletes, kényelmes déli megálló télen.",
                 "ro": "Un loc excelent pentru a vă încălzi picioarele. Camerele încălzite fac din aceasta o oprire perfectă pe timp de iarnă.",
-                "en": "A great place to warm up your feet. The heated rooms make this a perfect, cozy midday stop in the winter."
+                "en": "A great place to warm up your feet. The heated rooms make this a perfect, cozy midday stop in the winter.",
+                "fr": "Un excellent endroit pour réchauffer vos pieds. Les salles chauffées en font une étape parfaite et cosy à midi en hiver."
               }
             },
             {
@@ -962,13 +1069,15 @@
                 "de": "Ruinen der Abtei Saint-Bertin",
                 "hu": "Saint-Bertin apátság romjai",
                 "ro": "Ruinele Abației Saint-Bertin",
-                "en": "Saint-Bertin Abbey Ruins"
+                "en": "Saint-Bertin Abbey Ruins",
+                "fr": "Ruines de l'abbaye Saint-Bertin"
               },
               "tip_5lang": {
                 "de": "Die Ruinen sehen mit Frost bestäubt spektakulär aus. Steigen Sie für ein Foto aus, aber packen Sie sich warm ein.",
                 "hu": "A romok zúzmarával borítva lenyűgözőek. Szálljon ki egy gyors fotóra, de bugyolálja be magát a hideg szél ellen.",
                 "ro": "Ruinele arată spectaculos acoperite de gheață. Ieșiți pentru o fotografie, dar înfofoliți-vă împotriva vântului rece.",
-                "en": "The ruins look spectacular dusted in frost. Step out for a quick photo, but bundle up against the cold wind."
+                "en": "The ruins look spectacular dusted in frost. Step out for a quick photo, but bundle up against the cold wind.",
+                "fr": "Les ruines sont splendides saupoudrées de givre. Sortez pour une photo rapide, mais emmitouflez-vous contre le vent glacial."
               }
             },
             {
@@ -976,13 +1085,15 @@
                 "de": "Audomarois-Sumpfgebiet",
                 "hu": "Audomarois mocsárvidék",
                 "ro": "Mlaștina Audomarois",
-                "en": "Audomarois Marshland"
+                "en": "Audomarois Marshland",
+                "fr": "Marais Audomarois"
               },
               "tip_5lang": {
                 "de": "Kommen Sie vor Sonnenuntergang, um das Winterlicht auf dem Wasser zu sehen. Ziehen Sie sich bei Bootsfahrten warm an.",
                 "hu": "Érkezzen jóval naplemente előtt, hogy lássa a téli fényeket a vízen. Öltözzön extrém melegen, ha hajóra száll.",
                 "ro": "Ajungeți înainte de apus pentru a vedea lumina iernii pe apă. Îmbrăcați-vă foarte gros dacă faceți o excursie cu barca.",
-                "en": "Arrive well before sunset to see the winter light on the water. Dress extremely warmly if you take a boat trip."
+                "en": "Arrive well before sunset to see the winter light on the water. Dress extremely warmly if you take a boat trip.",
+                "fr": "Arrivez bien avant le coucher du soleil pour voir la lumière hivernale sur l'eau. Habillez-vous très chaudement si vous faites une promenade en bateau."
               }
             }
           ]

@@ -21,7 +21,8 @@
             "de": "Vieux-Port",
             "hu": "Régi Kikötő",
             "ro": "Portul Vechi",
-            "en": "Old Port"
+            "en": "Old Port",
+            "fr": "Vieux-Port"
           },
           "coords": [
             5.373,
@@ -37,7 +38,7 @@
             "hu": "Nézze meg a reggeli halpiacot a rakparton.",
             "ro": "Vizitați piața de pește de dimineață.",
             "en": "Check out the morning fish market on the quay.",
-            "fr": "Découvrez le marché aux poissons du matin sur le quai."
+            "fr": "Visitez le marché aux poissons du matin sur le quai."
           }
         },
         {
@@ -45,7 +46,8 @@
             "de": "Le Panier Viertel",
             "hu": "Le Panier negyed",
             "ro": "Cartierul Le Panier",
-            "en": "Le Panier District"
+            "en": "Le Panier District",
+            "fr": "Quartier du Panier"
           },
           "coords": [
             5.3685,
@@ -61,7 +63,7 @@
             "hu": "A város legrégebbi, hangulatos szűk utcái.",
             "ro": "Cea mai veche zonă cu străzi înguste.",
             "en": "The oldest area with narrow atmospheric streets.",
-            "fr": "Le plus vieux quartier avec ses rues étroites et atmosphériques."
+            "fr": "Le plus vieux quartier aux ruelles étroites et chargées d’atmosphère."
           }
         },
         {
@@ -69,7 +71,8 @@
             "de": "Kathedrale de la Major",
             "hu": "Marseille-i székesegyház",
             "ro": "Catedrala de la Major",
-            "en": "Marseille Cathedral"
+            "en": "Marseille Cathedral",
+            "fr": "Cathédrale de la Major"
           },
           "coords": [
             5.3648,
@@ -85,7 +88,7 @@
             "hu": "Lenyűgöző neobizánci építészeti stílus.",
             "ro": "Arhitectură neobizantină impresionantă.",
             "en": "Impressive Neo-Byzantine architecture.",
-            "fr": "Impressionnante architecture néo-byzantine."
+            "fr": "Imposante architecture néo-byzantine."
           }
         },
         {
@@ -93,7 +96,8 @@
             "de": "MuCEM Museum",
             "hu": "MuCEM Múzeum",
             "ro": "Muzeul MuCEM",
-            "en": "MuCEM Museum"
+            "en": "MuCEM Museum",
+            "fr": "Musée MuCEM"
           },
           "coords": [
             5.3615,
@@ -109,7 +113,7 @@
             "hu": "Sétáljon át a hídon az erőd felé.",
             "ro": "Traversați podul suspendat către fort.",
             "en": "Walk across the high footbridge to the fort.",
-            "fr": "Traversez la haute passerelle menant au fort."
+            "fr": "Traversez la passerelle haute jusqu’au fort."
           }
         },
         {
@@ -117,7 +121,8 @@
             "de": "Fort Saint-Jean",
             "hu": "Szent János-erőd",
             "ro": "Fortul Saint-Jean",
-            "en": "Fort Saint-Jean"
+            "en": "Fort Saint-Jean",
+            "fr": "Fort Saint-Jean"
           },
           "coords": [
             5.3625,
@@ -141,7 +146,8 @@
             "de": "Palais du Pharo",
             "hu": "Pharo-palota",
             "ro": "Palatul Pharo",
-            "en": "Palais du Pharo"
+            "en": "Palais du Pharo",
+            "fr": "Palais du Pharo"
           },
           "coords": [
             5.3585,
@@ -157,7 +163,7 @@
             "hu": "Tökéletes helyszín a naplemente nézéséhez.",
             "ro": "Locul perfect pentru a vedea apusul.",
             "en": "Perfect spot to watch the sunset over the port.",
-            "fr": "Lieu idéal pour admirer le coucher de soleil sur le port."
+            "fr": "Endroit parfait pour regarder le coucher de soleil sur le port."
           }
         }
       ],
@@ -166,7 +172,7 @@
         "hu": "Marseille gyalogos felfedezése a lüktető Régi Kikötőben kezdődik, ahol a város tengeri szíve dobog. A délelőtt a Le Panier negyed kanyargós utcáié, majd a monumentális székesegyház és a modern MuCEM következik. A napot a Pharo-palota kertjében zárjuk, ahonnan páratlan kilátás nyílik az egész öbölre.",
         "ro": "Explorarea Marsiliei pe jos începe în vibrantul Port Vechi, inima maritimă a orașului. Dimineața este dedicată străduțelor din Le Panier, urmată de catedrala monumentală și MuCEM-ul modern. Finalul zilei aparține grădinilor Palatului Pharo, oferind o perspectivă spectaculoasă asupra întregului golf.",
         "en": "Exploring Marseille on foot starts at the vibrant Old Port, the maritime heart of the city. The morning is spent in the winding alleys of Le Panier, followed by the monumental Cathedral and the modern MuCEM. The day ends at the Palais du Pharo gardens, offering an unmatched view across the entire bay.",
-        "fr": "Explorer Marseille à pied commence par le Vieux-Port animé, le cœur maritime de la ville. La matinée se passe dans les ruelles sinueuses du Panier, suivie par la Cathédrale monumentale et le MuCEM moderne. La journée se termine dans les jardins du Palais du Pharo, offrant une vue inégalée sur toute la baie."
+        "fr": "Explorer Marseille à pied commence au vibrant Vieux-Port, le cœur maritime de la ville. La matinée se passe dans les ruelles sinueuses du Panier, suivie par la cathédrale monumentale et le MuCEM moderne. La journée se termine dans les jardins du Palais du Pharo, offrant une vue inégalée sur toute la baie."
       },
       "gastro_picks": {
         "de": [
@@ -358,7 +364,7 @@
         "fr": [
           "Portez des chaussures confortables pour les pavés du Panier.",
           "Utilisez le Ferry Boat gratuit pour traverser rapidement le Vieux-Port.",
-          "Réservez vos billets pour le MuCEM en ligne pour éviter les longues files d'attente."
+          "Réservez vos billets du MuCEM en ligne pour éviter les longues files d’attente."
         ]
       },
       "variants": {
@@ -368,7 +374,7 @@
             "hu": "Reggel a Vieux-Port tükröződő tetője alatt húzódunk meg az eső elől. Délben a Le Panier negyed szűk utcáin sétálunk, ahol a házak felfogják a szelet. Délután a MuCEM modern épületében fedezzük fel a mediterrán kultúrát, szárazon maradva. Este a Quai du Port éttermeiben zárjuk a napot, figyelve az eső áztatta kikötő fényeit.",
             "ro": "Dimineața ne adăpostim sub copertina oglindită din Vieux-Port. La prânz explorăm cartierul Le Panier, unde străzile înguste oferă protecție împotriva ploii. După-amiaza este dedicată MuCEM, o capodoperă arhitecturală perfectă pentru o zi ploioasă. Seara se încheie cu o cină caldă lângă port, admirând reflexiile luminilor în apa mării.",
             "en": "Morning starts under the mirrored Ombrière at the Old Port, keeping us dry. By noon, we wander Le Panier's narrow streets which offer some shelter. The afternoon is spent inside the MuCEM, appreciating its lattice design against the gray sky. Evening concludes with a cozy dinner by the harbor, watching the rain create patterns on the Mediterranean surface.",
-            "fr": "La matinée commence sous l'Ombrière miroir du Vieux-Port, pour rester au sec. À midi, on déambule dans les rues étroites du Panier qui offrent un peu d'abri. L'après-midi se passe à l'intérieur du MuCEM, en appréciant sa structure en résille sous le ciel gris. La soirée se conclut par un dîner chaleureux près du port, en regardant la pluie dessiner des motifs sur la surface de la Méditerranée."
+            "fr": "La matinée commence sous l’Ombrière réfléchissante au Vieux-Port, nous gardant au sec. À midi, nous arpentons les rues étroites du Panier qui offrent un peu d’abri. L’après-midi se passe à l’intérieur du MuCEM, appréciant sa structure en treillis sur fond de ciel gris. La soirée se conclut par un dîner chaleureux au bord du port, en regardant la pluie tracer des motifs à la surface de la Méditerranée."
           },
           "stops": [
             {
@@ -377,7 +383,8 @@
                 "de": "Nutzen Sie das Spiegeldach von Norman Foster als Regenschutz.",
                 "hu": "Használja Norman Foster tükörtetőjét esernyő helyett.",
                 "ro": "Folosiți acoperișul oglindit al lui Norman Foster pentru adăpost.",
-                "en": "Use Norman Foster's mirrored canopy as a giant umbrella."
+                "en": "Use Norman Foster's mirrored canopy as a giant umbrella.",
+                "fr": "Utilisez la canopée réfléchissante de Norman Foster comme un grand parapluie."
               }
             },
             {
@@ -386,7 +393,8 @@
                 "de": "Vorsicht auf den glatten Pflastersteinen in den Gassen.",
                 "hu": "Vigyázat, a macskaköves sikátorok esőben csúszósak lehetnek.",
                 "ro": "Atenție la pavajul alunecos de pe străzile înguste.",
-                "en": "Be careful on the slippery cobblestones in the narrow alleys."
+                "en": "Be careful on the slippery cobblestones in the narrow alleys.",
+                "fr": "Faites attention aux pavés glissants dans les ruelles étroites."
               }
             },
             {
@@ -395,7 +403,8 @@
                 "de": "Ein idealer, trockener Ort, um die Mosaike zu bewundern.",
                 "hu": "Tökéletes száraz menedék a mozaikok megcsodálásához.",
                 "ro": "Un loc uscat ideal pentru a admira mozaicurile superbe.",
-                "en": "A perfect dry sanctuary to admire the stunning mosaics."
+                "en": "A perfect dry sanctuary to admire the stunning mosaics.",
+                "fr": "Un sanctuaire parfaitement sec pour admirer les mosaïques étonnantes."
               }
             },
             {
@@ -404,7 +413,8 @@
                 "de": "Nutzen Sie die überdachten Glasgänge zwischen den Ausstellungen.",
                 "hu": "Használja a fedett üvegfolyosókat a kiállítások között.",
                 "ro": "Folosiți pasajele de sticlă acoperite între expoziții.",
-                "en": "Use the covered glass walkways between the exhibitions."
+                "en": "Use the covered glass walkways between the exhibitions.",
+                "fr": "Utilisez les passerelles vitrées couvertes entre les expositions."
               }
             },
             {
@@ -413,7 +423,8 @@
                 "de": "Wählen Sie ein Restaurant mit beheizter, überdachter Terrasse.",
                 "hu": "Válasszon fűtött, fedett teraszos éttermet a kikötőnél.",
                 "ro": "Alegeți un restaurant cu terasă acoperită și încălzită.",
-                "en": "Choose a restaurant with a heated, covered terrace."
+                "en": "Choose a restaurant with a heated, covered terrace.",
+                "fr": "Choisissez un restaurant avec une terrasse couverte et chauffée."
               }
             },
             {
@@ -422,7 +433,8 @@
                 "de": "Der Blick auf den Hafen ist auch bei Regen spektakulär.",
                 "hu": "A kikötői panoráma esőben is lenyűgöző a kertből.",
                 "ro": "Panorama portului este spectaculoasă chiar și pe ploaie.",
-                "en": "The harbor panorama is spectacular even in the rain."
+                "en": "The harbor panorama is spectacular even in the rain.",
+                "fr": "Le panorama du port est spectaculaire même sous la pluie."
               }
             }
           ],
@@ -453,8 +465,8 @@
             ],
             "fr": [
               "Portez des chaussures imperméables pour les escaliers du quartier du Panier.",
-              "Le MuCEM est souvent moins fréquenté le lundi, idéal pour les jours de pluie.",
-              "La station de métro Vieux-Port est un bon point de départ au sec.",
+              "Le MuCEM est souvent moins fréquenté le lundi, idéal pour les journées pluvieuses.",
+              "La station de métro Vieux-Port est un bon point de départ à l’abri.",
               "Achetez un parapluie solide dans les boutiques autour de la Canebière."
             ]
           }
@@ -465,7 +477,7 @@
             "hu": "A tiszta téli reggel friss mediterrán levegőt hoz a kikötőbe. Délben a nap sugarai melengetnek minket a Panier negyedben, miközben helyi szappanokat nézünk. Délután a katedrális aranyló téli fényben tündököl, majd a MuCEM-et látogatjuk meg. Mivel korán sötétedik, a Pharo Palace kertjéből már délután ötkor csodálhatjuk a naplementét.",
             "ro": "O dimineață senină de iarnă în Vieux-Port aduce aer proaspăt mediteranean. La prânz, soarele ne încălzește în Le Panier în timp ce descoperim artizanatul local. După-amiaza, catedrala strălucește în lumina aurie a iernii, urmată de MuCEM. Deoarece soarele apune devreme, admirăm orizontul de la Palatul Pharo deja la ora 17:00.",
             "en": "A crisp winter morning at the Old Port brings refreshing sea air. By noon, the sun warms Le Panier's streets as we browse local crafts. The afternoon sees the Cathedral glowing in golden winter light, followed by a MuCEM visit. As sunset is early, we catch the spectacular view from Pharo Palace by 5 PM, watching the sky turn orange over the sea.",
-            "fr": "Un matin d'hiver tonifiant au Vieux-Port apporte l'air marin rafraîchissant. À midi, le soleil réchauffe les rues du Panier pendant que nous parcourons l'artisanat local. L'après-midi voit la Cathédrale briller sous la lumière dorée de l'hiver, suivie d'une visite au MuCEM. Comme le soleil se couche tôt, nous profitons de la vue spectaculaire du Palais du Pharo dès 17h, en regardant le ciel virer à l'orange sur la mer."
+            "fr": "Une matinée d’hiver vive au Vieux-Port apporte un air marin revigorant. À midi, le soleil réchauffe les rues du Panier pendant que nous parcourons l’artisanat local. L’après-midi, la cathédrale brille d’une lumière dorée hivernale, suivie d’une visite au MuCEM. Comme le coucher du soleil est tôt, nous admirons la vue spectaculaire depuis le Palais du Pharo vers 17h00, regardant le ciel virer à l’orange au-dessus de la mer."
           },
           "stops": [
             {
@@ -474,7 +486,8 @@
                 "de": "Genießen Sie einen heißen Kaffee an den sonnigen Tischen.",
                 "hu": "Élvezzen egy forró kávét a napsütötte asztaloknál.",
                 "ro": "Savurați o cafea fierbinte la mesele însorite de afară.",
-                "en": "Enjoy a hot coffee at the sunny outdoor tables."
+                "en": "Enjoy a hot coffee at the sunny outdoor tables.",
+                "fr": "Savourez un café chaud aux tables ensoleillées en extérieur."
               }
             },
             {
@@ -483,7 +496,8 @@
                 "de": "Suchen Sie die windgeschützten, sonnigen Plätze für eine Pause.",
                 "hu": "Keressen szélvédett, napos tereket egy rövid pihenőhöz.",
                 "ro": "Căutați piețele însorite și ferite de vânt pentru o pauză.",
-                "en": "Look for wind-sheltered, sunny squares for a short break."
+                "en": "Look for wind-sheltered, sunny squares for a short break.",
+                "fr": "Cherchez des places ensoleillées et abritées du vent pour une courte pause."
               }
             },
             {
@@ -492,7 +506,8 @@
                 "de": "Das Licht am späten Nachmittag ist perfekt für Fotos.",
                 "hu": "A késő délutáni fények tökéletesek a fotózáshoz.",
                 "ro": "Lumina de după-amiază târzie este perfectă pentru fotografii.",
-                "en": "The late afternoon light is perfect for photography."
+                "en": "The late afternoon light is perfect for photography.",
+                "fr": "La lumière de fin d’après-midi est parfaite pour la photographie."
               }
             },
             {
@@ -501,7 +516,8 @@
                 "de": "Die Dachterrasse bietet einen klaren Blick auf das Meer.",
                 "hu": "A tetőterasz tiszta kilátást nyújt a téli tengerre.",
                 "ro": "Terasa de pe acoperiș oferă o vedere clară asupra mării.",
-                "en": "The rooftop terrace offers a clear view of the winter sea."
+                "en": "The rooftop terrace offers a clear view of the winter sea.",
+                "fr": "La terrasse sur le toit offre une vue dégagée sur la mer d’hiver."
               }
             },
             {
@@ -510,7 +526,8 @@
                 "de": "Probieren Sie eine traditionelle, wärmende Bouillabaisse.",
                 "hu": "Kóstoljon meg egy hagyományos, melengető Bouillabaisse-t.",
                 "ro": "Încercați o Bouillabaisse tradițională care vă va încălzi.",
-                "en": "Try a traditional, warming Bouillabaisse fish soup."
+                "en": "Try a traditional, warming Bouillabaisse fish soup.",
+                "fr": "Goûtez une bouillabaisse traditionnelle et réconfortante."
               }
             },
             {
@@ -519,7 +536,8 @@
                 "de": "Seien Sie vor 17 Uhr hier, um den Sonnenuntergang zu sehen.",
                 "hu": "Érkezzen 17 óra előtt, hogy lássa a naplementét.",
                 "ro": "Ajungeți înainte de ora 17:00 pentru a prinde apusul.",
-                "en": "Be here before 5 PM to catch the winter sunset."
+                "en": "Be here before 5 PM to catch the winter sunset.",
+                "fr": "Soyez ici avant 17h00 pour voir le coucher de soleil d’hiver."
               }
             }
           ],
@@ -549,10 +567,10 @@
               "The light for photography is best between 2 PM and 4 PM."
             ],
             "fr": [
-              "Attention au Mistral ; un bonnet chaud est conseillé.",
+              "Méfiez-vous du Mistral ; un bonnet chaud est conseillé.",
               "En hiver, le soleil se couche vers 17h15 à Marseille.",
-              "De nombreux cafés proposent des plaids sur leurs terrasses.",
-              "La lumière pour la photographie est optimale entre 14h et 16h."
+              "De nombreux cafés proposent des couvertures pour leurs terrasses extérieures.",
+              "La lumière pour la photographie est optimale entre 14h00 et 16h00."
             ]
           }
         }
@@ -571,7 +589,8 @@
             "de": "Vieux-Port Start",
             "hu": "Régi Kikötő rajt",
             "ro": "Start Port Vechi",
-            "en": "Old Port Start"
+            "en": "Old Port Start",
+            "fr": "Départ : Vieux-Port"
           },
           "coords": [
             5.3725,
@@ -587,7 +606,7 @@
             "hu": "Béreljen Levélo biciklit a kikötői állomáson.",
             "ro": "Închiriați o bicicletă Levélo din stație.",
             "en": "Rent a Levélo bike at the harbor station.",
-            "fr": "Louez un vélo Levélo à la station du port."
+            "fr": "Louez un vélo Le Vélo à la station du port."
           }
         },
         {
@@ -595,7 +614,8 @@
             "de": "Vallon des Auffes",
             "hu": "Vallon des Auffes",
             "ro": "Vallon des Auffes",
-            "en": "Vallon des Auffes"
+            "en": "Vallon des Auffes",
+            "fr": "Vallon des Auffes"
           },
           "coords": [
             5.3515,
@@ -611,7 +631,7 @@
             "hu": "Gleccservölgy-szerű festői kis halászkikötő.",
             "ro": "Un mic port de pescari pitoresc.",
             "en": "A picturesque small fishing harbor hidden away.",
-            "fr": "Un petit port de pêche pittoresque et caché."
+            "fr": "Un pittoresque petit port de pêche caché."
           }
         },
         {
@@ -619,7 +639,8 @@
             "de": "Corniche Kennedy",
             "hu": "Corniche Kennedy",
             "ro": "Corniche Kennedy",
-            "en": "Corniche Kennedy"
+            "en": "Corniche Kennedy",
+            "fr": "Corniche Kennedy"
           },
           "coords": [
             5.353,
@@ -635,7 +656,7 @@
             "hu": "A világ leghosszabb padja tengeri kilátással.",
             "ro": "Cea mai lungă bancă din lume cu vedere la mare.",
             "en": "The world's longest bench with sea views.",
-            "fr": "Le plus long banc du monde avec vue sur la mer."
+            "fr": "Le banc le plus long du monde avec vue sur la mer."
           }
         },
         {
@@ -643,7 +664,8 @@
             "de": "Prado Strände",
             "hu": "Prado strandok",
             "ro": "Plajele Prado",
-            "en": "Prado Beaches"
+            "en": "Prado Beaches",
+            "fr": "Plages du Prado"
           },
           "coords": [
             5.375,
@@ -659,7 +681,7 @@
             "hu": "Ideális hely egy hosszú pihenőre a víznél.",
             "ro": "Ideal pentru o pauză lungă lângă apă.",
             "en": "Ideal spot for a long break by the water.",
-            "fr": "Endroit idéal pour une longue pause au bord de l'eau."
+            "fr": "Endroit idéal pour une longue pause au bord de l’eau."
           }
         },
         {
@@ -667,7 +689,8 @@
             "de": "Parc Borély",
             "hu": "Borély-park",
             "ro": "Parcul Borély",
-            "en": "Borély Park"
+            "en": "Borély Park",
+            "fr": "Parc Borély"
           },
           "coords": [
             5.382,
@@ -683,7 +706,7 @@
             "hu": "Látogasson el a botanikus kertbe.",
             "ro": "Vizitați grădina botanică din interior.",
             "en": "Visit the botanical garden inside the park.",
-            "fr": "Visitez le jardin botanique à l'intérieur du parc."
+            "fr": "Visitez le jardin botanique à l’intérieur du parc."
           }
         }
       ],
@@ -692,7 +715,7 @@
         "hu": "Ez a kerékpáros túra a tengerparti Corniche Kennedy úton halad végig. A kikötő nyüzsgésétől az idilli Vallon des Auffes-ig, majd tovább a Prado tágas strandjaiig tekerünk. A nap a zöld Borély-parkban zárul, mielőtt visszatérnénk a központba.",
         "ro": "Acest traseu cu bicicleta urmează drumul de coastă Corniche Kennedy. De la dinamismul portului ajungem la idilicul Vallon des Auffes și mai departe la plajele largi Prado. Ziua se încheie relaxat în parcul Borély, înainte de întoarcerea în centru.",
         "en": "This cycling tour follows the scenic Corniche Kennedy coastal road. From the harbor's energy to the idyllic Vallon des Auffes and on to the wide Prado beaches, you'll feel the sea breeze. The day ends peacefully in Borély Park before heading back.",
-        "fr": "Ce tour à vélo suit la route côtière panoramique de la Corniche Kennedy. De l'énergie du port au Vallon des Auffes idyllique jusqu'aux larges plages du Prado, vous sentirez la brise marine. La journée se termine paisiblement au parc Borély avant de rentrer."
+        "fr": "Cette balade à vélo suit la pittoresque Corniche Kennedy. De l’énergie du port jusqu’au charmant Vallon des Auffes et aux larges plages du Prado, vous sentirez la brise marine. La journée se termine paisiblement au parc Borély avant de retourner."
       },
       "gastro_picks": {
         "de": [
@@ -817,9 +840,9 @@
           "Bring plenty of water for the ride along the coast."
         ],
         "fr": [
-          "La Corniche dispose d'une piste cyclable bien entretenue.",
-          "Attention au Mistral, qui peut rendre le pédalage difficile.",
-          "Apportez beaucoup d'eau pour la balade le long de la côte."
+          "La Corniche dispose d’une piste cyclable bien entretenue.",
+          "Soyez conscient du Mistral, qui peut rendre le pédalage difficile.",
+          "Apportez suffisamment d’eau pour la balade le long de la côte."
         ]
       },
       "variants": {
@@ -829,7 +852,7 @@
             "hu": "Az eső ellenére megfelelő felszereléssel indulunk a kikötőből. A Vallon des Auffes felé vezető út kihívás a vizes aszfalton, de a látvány megéri. Délben óvatosan tekerünk a Corniche Kennedy mentén, ahol a hullámok felcsapnak. A délutánt a Borély park védettebb részein töltjük, mielőtt visszaadnánk a bicikliket.",
             "ro": "În ciuda ploii, pornim din Portul Vechi cu echipament adecvat. Drumul spre Vallon des Auffes este o provocare pe asfaltul ud, dar priveliștea merită. La prânz pedalăm cu grijă pe Corniche Kennedy, unde valurile se sparg de țărm. După-amiaza o petrecem în parcul Borély înainte de a returna bicicletele.",
             "en": "Despite the rain, we start at the Old Port with proper gear. The ride to Vallon des Auffes is challenging on wet roads, but the view is worth it. By noon, we cycle carefully along Corniche Kennedy, where the surf hits the rocks. The afternoon is spent in the sheltered areas of Borély Park before safely returning the bikes.",
-            "fr": "Malgré la pluie, nous partons du Vieux-Port avec l'équipement adéquat. Le trajet jusqu'au Vallon des Auffes est un défi sur routes mouillées, mais la vue en vaut la peine. À midi, nous pédalons prudemment le long de la Corniche Kennedy, où les vagues frappent les rochers. L'après-midi se passe dans les zones abritées du parc Borély avant de rendre les vélos en toute sécurité."
+            "fr": "Malgré la pluie, nous commençons au Vieux-Port équipés. La route jusqu’au Vallon des Auffes est difficile sur chaussée mouillée, mais la vue en vaut la peine. À midi, nous roulons prudemment le long de la Corniche Kennedy, où le ressac frappe les rochers. L’après-midi se passe dans les zones abritées du parc Borély avant de rendre les vélos en toute sécurité."
           },
           "stops": [
             {
@@ -838,7 +861,8 @@
                 "de": "Fragen Sie nach einem Helm mit Visier und Regenponcho.",
                 "hu": "Kérjen sisakot plexivel és esőponcsót a kölcsönzőben.",
                 "ro": "Cereți o cască cu vizieră și un pelerină de ploaie.",
-                "en": "Ask for a helmet with a visor and a rain poncho."
+                "en": "Ask for a helmet with a visor and a rain poncho.",
+                "fr": "Demandez un casque avec visière et un poncho de pluie."
               }
             },
             {
@@ -847,7 +871,8 @@
                 "de": "Die steilen Zugangswege können bei Nässe rutschig sein.",
                 "hu": "A meredek lejárók nagyon csúszósak lehetnek esőben.",
                 "ro": "Căile de acces abrupte pot fi alunecoase când sunt ude.",
-                "en": "The steep access paths can be very slippery when wet."
+                "en": "The steep access paths can be very slippery when wet.",
+                "fr": "Les chemins d’accès raides peuvent être très glissants lorsqu’ils sont mouillés."
               }
             },
             {
@@ -856,7 +881,8 @@
                 "de": "Achten Sie auf Seitenwind und Gischt von der See.",
                 "hu": "Vigyázzon az oldalszélre és a felcsapó sós permetre.",
                 "ro": "Atenție la vântul lateral și la stropii de apă de mare.",
-                "en": "Watch out for crosswinds and sea spray from the waves."
+                "en": "Watch out for crosswinds and sea spray from the waves.",
+                "fr": "Attention aux rafales latérales et aux embruns de mer."
               }
             },
             {
@@ -865,7 +891,8 @@
                 "de": "Die Radwege sind hier breit, aber oft mit Pfützen übersät.",
                 "hu": "A kerékpárutak itt szélesek, de gyakran tócsásak.",
                 "ro": "Pistele de biciclete sunt largi, dar adesea au bălți.",
-                "en": "Bike lanes are wide here but often covered in puddles."
+                "en": "Bike lanes are wide here but often covered in puddles.",
+                "fr": "Les pistes cyclables sont larges ici mais souvent couvertes de flaques."
               }
             },
             {
@@ -874,7 +901,8 @@
                 "de": "Suchen Sie Schutz unter den großen Bäumen oder im Café.",
                 "hu": "Keressen menedéket a nagy fák alatt vagy a kávézóban.",
                 "ro": "Căutați adăpost sub copacii mari sau la cafenea.",
-                "en": "Seek shelter under the large trees or at the cafe."
+                "en": "Seek shelter under the large trees or at the cafe.",
+                "fr": "Cherchez refuge sous les grands arbres ou au café."
               }
             }
           ],
@@ -904,10 +932,10 @@
               "Use the tunnels under Pharo for brief shelter from downpours."
             ],
             "fr": [
-              "Évitez les freinages brusques sur l'asphalte mouillé.",
+              "Évitez les freinages brusques sur l’asphalte mouillé.",
               "Vérifiez si les vélos de location ont des garde-boue fonctionnels.",
-              "Portez des vêtements clairs et réfléchissants par temps gris.",
-              "Utilisez les tunnels sous le Pharo pour un bref abri en cas d'averse."
+              "Portez des vêtements lumineux et réfléchissants par temps gris.",
+              "Utilisez les tunnels sous le Pharo pour un abri rapide des fortes averses."
             ]
           }
         },
@@ -917,7 +945,7 @@
             "hu": "Frissítő téli reggel indul a kikötőben. A Vallon des Auffes felé tekerve tiszta kilátás nyílik a Frioul-szigetekre. Délben a Corniche Kennedy mentén haladunk, ahol a hideg szél fokozza a fizikai kihívást. A Prado strandok télen üresek és békések. A délutánt a napos Borély parkban töltjük, mielőtt az alkonyattal lehűlne a levegő.",
             "ro": "O dimineață răcoritoare de iarnă începe în port. Drumul spre Vallon des Auffes oferă o vedere clară spre insulele Frioul. La prânz pedalăm pe Corniche Kennedy, unde vântul rece sporește efortul. Plajele Prado sunt pustii și liniștite iarna. După-amiaza o petrecem în parcul însorit Borély înainte de lăsarea serii.",
             "en": "A refreshing winter morning kicks off at the harbor. The ride to Vallon des Auffes offers crystal clear views of the Frioul Islands. By noon, we pedal along Corniche Kennedy, where the cold wind adds to the workout. Prado beaches are empty and peaceful in winter. The afternoon is spent in the sunny Borély Park before the twilight chill sets in.",
-            "fr": "Une matinée d'hiver rafraîchissante commence au port. Le trajet vers le Vallon des Auffes offre des vues cristallines sur les îles du Frioul. À midi, nous pédalons le long de la Corniche Kennedy, où le vent froid intensifie l'effort. Les plages du Prado sont désertes et paisibles en hiver. L'après-midi se passe au parc Borély ensoleillé avant que le froid du crépuscule ne s'installe."
+            "fr": "Une matinée d’hiver vivifiante commence au port. La balade jusqu’au Vallon des Auffes offre des vues cristallines sur les îles du Frioul. À midi, nous pédalons le long de la Corniche Kennedy, où le vent froid accentue l’effort. Les plages du Prado sont vides et paisibles en hiver. L’après-midi se passe dans le parc Borély ensoleillé avant que la fraîcheur du crépuscule n’arrive."
           },
           "stops": [
             {
@@ -926,7 +954,8 @@
                 "de": "Handschuhe sind bei Fahrten am Meer im Winter unerlässlich.",
                 "hu": "A kesztyű elengedhetetlen a téli tengerparti tekeréshez.",
                 "ro": "Mănușile sunt esențiale pentru plimbările de iarnă pe malul mării.",
-                "en": "Gloves are essential for winter rides along the coast."
+                "en": "Gloves are essential for winter rides along the coast.",
+                "fr": "Des gants sont essentiels pour les balades hivernales le long de la côte."
               }
             },
             {
@@ -935,7 +964,8 @@
                 "de": "Das Fischerdorf wirkt im Winterlicht besonders malerisch.",
                 "hu": "A halászfalu különösen festői a téli fényekben.",
                 "ro": "Satul pescăresc arată deosebit de pitoresc în lumina iernii.",
-                "en": "The fishing village looks especially picturesque in winter light."
+                "en": "The fishing village looks especially picturesque in winter light.",
+                "fr": "Le village de pêche semble particulièrement pittoresque sous la lumière hivernale."
               }
             },
             {
@@ -944,7 +974,8 @@
                 "de": "Der Mistral kann hier sehr stark wehen; halten Sie den Lenker fest.",
                 "hu": "A Misztrál nagyon erős lehet itt; fogja szorosan a kormányt.",
                 "ro": "Mistralul poate fi foarte puternic aici; țineți bine ghidonul.",
-                "en": "The Mistral can be very strong here; grip the handlebars firmly."
+                "en": "The Mistral can be very strong here; grip the handlebars firmly.",
+                "fr": "Le Mistral peut être très fort ici ; tenez fermement le guidon."
               }
             },
             {
@@ -953,7 +984,8 @@
                 "de": "Ideal für eine Pause in der Mittagssonne ohne Sommertrubel.",
                 "hu": "Ideális egy pihenőre a déli napsütésben a nyári tömeg nélkül.",
                 "ro": "Ideal pentru o pauză la soarele amiezii fără agitația verii.",
-                "en": "Ideal for a break in the midday sun without summer crowds."
+                "en": "Ideal for a break in the midday sun without summer crowds.",
+                "fr": "Idéal pour une pause au soleil de midi sans la foule estivale."
               }
             },
             {
@@ -962,7 +994,8 @@
                 "de": "Die botanischen Gärten sind auch im Winter sehenswert.",
                 "hu": "A botanikus kert télen is érdekes látnivalókat kínál.",
                 "ro": "Grădinile botanice merită vizitate și în timpul iernii.",
-                "en": "The botanical gardens are worth visiting even in winter."
+                "en": "The botanical gardens are worth visiting even in winter.",
+                "fr": "Les jardins botaniques valent la visite même en hiver."
               }
             }
           ],
@@ -992,10 +1025,10 @@
               "Plan to return by 5 PM as it gets dark and cold quickly."
             ],
             "fr": [
-              "Habillez-vous par couches pour vous protéger du vent marin cinglant.",
-              "Les pistes cyclables du Prado sont beaucoup plus sûres en hiver.",
-              "Vérifiez la pression des pneus ; l'air froid la fait chuter.",
-              "Prévoyez d'être de retour vers 17h, car l'obscurité et le froid arrivent vite."
+              "Habillez-vous en couches pour vous protéger du vent mordant de la mer.",
+              "Les pistes cyclables au Prado sont beaucoup plus sûres en hiver.",
+              "Vérifiez la pression des pneus ; l’air froid la fait baisser.",
+              "Prévoyez de revenir avant 17h00 car il fait vite sombre et froid."
             ]
           }
         }
@@ -1014,7 +1047,8 @@
             "de": "Vieux-Port (Cluster A)",
             "hu": "Régi Kikötő (A-klaszter)",
             "ro": "Port Vechi (Cluster A)",
-            "en": "Old Port (Cluster A)"
+            "en": "Old Port (Cluster A)",
+            "fr": "Vieux-Port (Groupe A)"
           },
           "coords": [
             5.3735,
@@ -1038,7 +1072,8 @@
             "de": "Le Panier (Cluster A)",
             "hu": "Le Panier (A-klaszter)",
             "ro": "Le Panier (Cluster A)",
-            "en": "Le Panier (Cluster A)"
+            "en": "Le Panier (Cluster A)",
+            "fr": "Panier (Groupe A)"
           },
           "coords": [
             5.368,
@@ -1054,7 +1089,7 @@
             "hu": "Rövid séta a parkolótól.",
             "ro": "Scurtă plimbare de la parcare.",
             "en": "A short walk from the parking area.",
-            "fr": "Une courte marche depuis la zone de stationnement."
+            "fr": "À une courte distance de marche de la zone de stationnement."
           }
         },
         {
@@ -1062,7 +1097,8 @@
             "de": "Notre-Dame de la Garde",
             "hu": "Notre-Dame de la Garde",
             "ro": "Notre-Dame de la Garde",
-            "en": "Notre-Dame de la Garde"
+            "en": "Notre-Dame de la Garde",
+            "fr": "Notre-Dame de la Garde"
           },
           "coords": [
             5.3703,
@@ -1078,7 +1114,7 @@
             "hu": "A 'Jó Anya' vigyázza a várost.",
             "ro": "Sfânta Fecioară 'Bonne Mère' veghează orașul.",
             "en": "The 'Bonne Mère' watches over the city.",
-            "fr": "La 'Bonne Mère' veille sur la ville."
+            "fr": "La « Bonne Mère » veille sur la ville."
           }
         },
         {
@@ -1086,7 +1122,8 @@
             "de": "Goudes Dorf (Cluster B)",
             "hu": "Goudes falu (B-klaszter)",
             "ro": "Satul Goudes (Cluster B)",
-            "en": "Goudes Village (Cluster B)"
+            "en": "Goudes Village (Cluster B)",
+            "fr": "Village des Goudes (Cluster B)"
           },
           "coords": [
             5.348,
@@ -1102,7 +1139,7 @@
             "hu": "Marseille 'világvége' hangulatú pontja.",
             "ro": "Capătul lumii pentru marseillezi.",
             "en": "Considered the 'end of the world' in Marseille.",
-            "fr": "Considéré comme le 'bout du monde' à Marseille."
+            "fr": "Considéré comme le « bout du monde » à Marseille."
           }
         },
         {
@@ -1110,7 +1147,8 @@
             "de": "Cap Croisette (Cluster B)",
             "hu": "Cap Croisette (B-klaszter)",
             "ro": "Cap Croisette (Cluster B)",
-            "en": "Cap Croisette (Cluster B)"
+            "en": "Cap Croisette (Cluster B)",
+            "fr": "Cap Croisette (Cluster B)"
           },
           "coords": [
             5.338,
@@ -1126,7 +1164,7 @@
             "hu": "Vad kilátás a Maïre-szigetre.",
             "ro": "Vedere sălbatică spre insula Maïre.",
             "en": "Wild views of Maïre Island.",
-            "fr": "Vues sauvages sur l'île de Maïre."
+            "fr": "Vues sauvages sur l'île Maïre."
           }
         },
         {
@@ -1134,7 +1172,8 @@
             "de": "Palais Longchamp",
             "hu": "Longchamp-palota",
             "ro": "Palatul Longchamp",
-            "en": "Palais Longchamp"
+            "en": "Palais Longchamp",
+            "fr": "Palais Longchamp"
           },
           "coords": [
             5.394,
@@ -1150,7 +1189,7 @@
             "hu": "Gyönyörű szökőkút és park.",
             "ro": "Fântână și parc superbe.",
             "en": "Beautiful fountain and park complex.",
-            "fr": "Magnifique ensemble de fontaine et de parc."
+            "fr": "Superbe ensemble de fontaines et de parc."
           }
         },
         {
@@ -1158,7 +1197,8 @@
             "de": "Cours Julien",
             "hu": "Cours Julien",
             "ro": "Cours Julien",
-            "en": "Cours Julien"
+            "en": "Cours Julien",
+            "fr": "Cours Julien"
           },
           "coords": [
             5.3835,
@@ -1183,7 +1223,7 @@
         "hu": "Autóval hatékonyan elérheti Marseille legjellegzetesebb pontjait. A kikötői negyed után a Notre-Dame de la Garde bazilikához megyünk a legjobb panorámáért. Kiemelt pont a kirándulás Les Goudes halászfalujába a Calanques szélén, mielőtt a nap a pompás Longchamp-palotánál zárulna.",
         "ro": "Cu mașina puteți ajunge eficient în cele mai emblematice puncte ale Marsiliei. După zona portului, urcăm la bazilica Notre-Dame de la Garde pentru cea mai bună panoramă. Un punct culminant este vizita în satul pescăresc Les Goudes, la marginea Calanques, urmată de palatul Longchamp.",
         "en": "By car, you can efficiently reach Marseille's most iconic landmarks. After the harbor, head up to the Notre-Dame de la Garde basilica for the best panorama. A highlight is the trip to the fishing village of Les Goudes at the edge of the Calanques before ending at Palais Longchamp.",
-        "fr": "En voiture, vous pouvez rejoindre efficacement les monuments les plus emblématiques de Marseille. Après le port, montez à la basilique Notre-Dame de la Garde pour le meilleur panorama. Un moment fort est l'excursion au village de pêcheurs des Goudes à l'entrée des Calanques, avant de terminer au Palais Longchamp."
+        "fr": "En voiture, vous pouvez rejoindre efficacement les monuments les plus emblématiques de Marseille. Après le port, montez à la basilique Notre‑Dame‑de‑la‑Garde pour le meilleur panorama. Un moment fort est l'excursion au village de pêcheurs des Goudes, au bord des Calanques, avant de finir au Palais Longchamp."
       },
       "gastro_picks": {
         "de": [
@@ -1308,9 +1348,9 @@
           "The road to Les Goudes is often restricted on weekends."
         ],
         "fr": [
-          "Se garer peut être difficile ; optez toujours pour des parkings sécurisés.",
-          "Évitez le trafic aux heures de pointe dans le tunnel du Vieux-Port.",
-          "La route vers les Goudes est souvent restreinte le week-end."
+          "Le stationnement peut être difficile ; préférez toujours les parkings sécurisés.",
+          "Évitez les heures de pointe dans le tunnel du Vieux‑Port.",
+          "La route vers Les Goudes est souvent restreinte le week‑end."
         ]
       },
       "variants": {
@@ -1320,7 +1360,7 @@
             "hu": "Esős napunkat a Notre-Dame de la Garde bazilikánál kezdjük, ahol fedett helyről nézünk körül. Délben a Palais Longchamp felé vesszük az irányt, melynek múzeumaiban elkerülhetjük a vizet. Délután Les Goudes faluba autózunk, hogy lássuk a viharos tengert. A napot a Calanques-nál zárjuk, biztonságban az autóban, hallgatva az eső kopogását.",
             "ro": "O zi ploioasă începe cu un drum spre Notre-Dame de la Garde, admirând vederea la adăpost. La prânz conducem spre Palais Longchamp, ale cărui muzee sunt ideale pe vreme rea. După-amiaza mergem spre Les Goudes pentru a vedea marea agitată. Încheiem ziua la Calanques, în siguranță în mașină, ascultând ploaia pe plafon.",
             "en": "A rainy day starts with a drive to Notre-Dame de la Garde, enjoying the view from inside. By noon, we head to Palais Longchamp, whose museums are perfect for escaping the wet. In the afternoon, we drive to Les Goudes to witness the stormy sea. The day ends at the Calanques, staying safe and dry in the car while listening to the rain on the roof.",
-            "fr": "Une journée pluvieuse commence par un trajet vers Notre-Dame de la Garde, en profitant de la vue depuis l'intérieur. À midi, direction le Palais Longchamp, dont les musées sont parfaits pour échapper à l'humidité. L'après-midi, nous conduisons vers les Goudes pour admirer la mer déchaînée. La journée se termine aux Calanques, au sec dans la voiture en écoutant la pluie sur le toit."
+            "fr": "Une journée pluvieuse commence par une route vers Notre‑Dame‑de‑la‑Garde, en profitant de la vue depuis l'intérieur. À midi, nous nous rendons au Palais Longchamp, dont les musées sont parfaits pour échapper à l'humidité. L'après‑midi, nous conduisons vers Les Goudes pour contempler la mer agitée. La journée se termine aux Calanques, en restant en sécurité et au sec dans la voiture en écoutant la pluie sur le toit."
           },
           "stops": [
             {
@@ -1329,7 +1369,8 @@
                 "de": "Parken Sie im Parkhaus direkt unter der Basilika.",
                 "hu": "Használja a bazilika alatti közvetlen parkolót.",
                 "ro": "Parcați în parcarea situată direct sub bazilică.",
-                "en": "Park in the parking garage directly under the basilica."
+                "en": "Park in the parking garage directly under the basilica.",
+                "fr": "Garez‑vous dans le parking directement sous la basilique."
               }
             },
             {
@@ -1338,7 +1379,8 @@
                 "de": "Besuchen Sie das Naturkundemuseum im linken Flügel.",
                 "hu": "Látogassa meg a Természettudományi Múzeumot a bal szárnyban.",
                 "ro": "Vizitați Muzeul de Istorie Naturală din aripa stângă.",
-                "en": "Visit the Natural History Museum in the left wing."
+                "en": "Visit the Natural History Museum in the left wing.",
+                "fr": "Visitez le Muséum d'Histoire naturelle dans l'aile gauche."
               }
             },
             {
@@ -1347,7 +1389,8 @@
                 "de": "Die schmale Straße kann bei Starkregen teilweise überflutet sein.",
                 "hu": "A keskeny út heves esőben néhol víz alá kerülhet.",
                 "ro": "Drumul îngust poate fi parțial inundat la ploi torențiale.",
-                "en": "The narrow road can be partially flooded during heavy rain."
+                "en": "The narrow road can be partially flooded during heavy rain.",
+                "fr": "La route étroite peut être partiellement inondée lors de fortes pluies."
               }
             },
             {
@@ -1356,7 +1399,8 @@
                 "de": "Bleiben Sie auf dem Parkplatz oben, wenn die Straße rutschig ist.",
                 "hu": "Maradjon a felső parkolóban, ha az út túl csúszósnak tűnik.",
                 "ro": "Rămâneți în parcarea de sus dacă drumul este alunecos.",
-                "en": "Stay in the upper parking area if the road is too slippery."
+                "en": "Stay in the upper parking area if the road is too slippery.",
+                "fr": "Restez dans la zone de stationnement supérieure si la route est trop glissante."
               }
             }
           ],
@@ -1386,10 +1430,10 @@
               "The view from 'Bonne Mère' is often mystical during rainfall."
             ],
             "fr": [
-              "La circulation à Marseille est extrêmement lente sous la pluie ; prévoyez du temps supplémentaire.",
-              "Utilisez les parkings souterrains du centre-ville pour rester au sec.",
-              "Évitez les routes côtières en cas d'alerte tempête à cause des embruns.",
-              "La vue depuis la 'Bonne Mère' est souvent mystique sous la pluie."
+              "La circulation marseillaise est extrêmement lente sous la pluie ; prévoyez du temps supplémentaire.",
+              "Utilisez les parkings souterrains du centre‑ville pour rester au sec.",
+              "Évitez les routes côtières lors d'alertes tempête à cause des embruns.",
+              "La vue depuis la « Bonne Mère » est souvent mystique pendant les averses."
             ]
           }
         },
@@ -1399,7 +1443,7 @@
             "hu": "A téli reggel a Notre-Dame de la Garde-nál szeles, de a látótávolság verhetetlen. Délben a Palais Longchamp-hoz hajtunk, ahol a szökőkutak a tiszta fényben ragyognak. Délután Les Goudes következik, amely télen mutatja meg igazi, nyers szépségét. A naplementét a Sormiou-öbölnél nézzük meg, majd sötétben autózunk vissza.",
             "ro": "Dimineața de iarnă la Notre-Dame de la Garde este vântoasă, dar vizibilitatea este imbatabilă. La prânz conducem spre Palais Longchamp, unde fântânile strălucesc în lumina clară. După-amiaza mergem la Les Goudes, care își arată frumusețea brută iarna. Vedem apusul la Calanque de Sormiou înainte de a conduce înapoi pe întuneric.",
             "en": "The winter morning at Notre-Dame de la Garde is windy, but the visibility is unbeatable. By noon, we drive to Palais Longchamp, where the fountains sparkle in the crisp light. The afternoon route leads to Les Goudes, showing its raw beauty in winter. We catch the sunset at Calanque de Sormiou before heading back safely in the dark.",
-            "fr": "Le matin d'hiver à Notre-Dame de la Garde est venteux, but la visibilité est imbattable. À midi, nous allons au Palais Longchamp, où les fontaines scintillent sous la lumière vive. L'itinéraire de l'après-midi mène aux Goudes, révélant sa beauté brute en hiver. Nous admirons le coucher de soleil à la Calanque de Sormiou avant de rentrer prudemment dans l'obscurité."
+            "fr": "Le matin d'hiver à Notre‑Dame‑de‑la‑Garde est venteux, mais la visibilité est imbattable. À midi, nous nous rendons au Palais Longchamp, où les fontaines scintillent dans la lumière claire. L'itinéraire de l'après‑midi mène aux Goudes, révélant leur beauté brute en hiver. Nous attrapons le coucher du soleil à la Calanque de Sormiou avant de rentrer en toute sécurité dans la nuit."
           },
           "stops": [
             {
@@ -1408,7 +1452,8 @@
                 "de": "Vorsicht beim Aussteigen; der Wind auf dem Hügel ist im Winter beißend.",
                 "hu": "Vigyázzon a kiszállásnál; a szél a dombtetőn télen metsző lehet.",
                 "ro": "Atenție la coborâre; vântul de pe deal este tăios iarna.",
-                "en": "Be careful when exiting; the wind on the hill is biting in winter."
+                "en": "Be careful when exiting; the wind on the hill is biting in winter.",
+                "fr": "Faites attention en sortant ; le vent sur la colline est mordant en hiver."
               }
             },
             {
@@ -1417,7 +1462,8 @@
                 "de": "Der Park ist im Winter weniger besucht und sehr friedlich.",
                 "hu": "A park télen kevésbé látogatott és rendkívül békés.",
                 "ro": "Parcul este mai puțin vizitat iarna și foarte liniștit.",
-                "en": "The park is less crowded in winter and very peaceful."
+                "en": "The park is less crowded in winter and very peaceful.",
+                "fr": "Le parc est moins fréquenté en hiver et très paisible."
               }
             },
             {
@@ -1426,7 +1472,8 @@
                 "de": "Die Parkplätze sind im Winter viel leichter zu finden.",
                 "hu": "A parkolóhelyek télen sokkal könnyebben megtalálhatóak.",
                 "ro": "Locurile de parcare sunt mult mai ușor de găsit iarna.",
-                "en": "Parking spots are much easier to find during the winter months."
+                "en": "Parking spots are much easier to find during the winter months.",
+                "fr": "Les places de parking sont beaucoup plus faciles à trouver pendant les mois d'hiver."
               }
             },
             {
@@ -1435,7 +1482,8 @@
                 "de": "Die Straße ist im Winter meist für Autos geöffnet (anders als im Sommer).",
                 "hu": "Az út télen általában nyitva áll az autók előtt (nyárral ellentétben).",
                 "ro": "Drumul este de obicei deschis mașinilor iarna (spre deosebire de vară).",
-                "en": "The road is usually open to cars in winter (unlike in summer)."
+                "en": "The road is usually open to cars in winter (unlike in summer).",
+                "fr": "La route est généralement ouverte aux voitures en hiver (contrairement à l'été)."
               }
             }
           ],
@@ -1465,10 +1513,10 @@
               "Note: Some restaurants in Les Goudes close earlier in winter."
             ],
             "fr": [
-              "Vérifiez si la route de la Calanque est ouverte avant de partir.",
-              "Le chauffage de la voiture est une bénédiction après le vent à la 'Bonne Mère'.",
-              "Profitez de la lumière claire de l'hiver pour les panoramas de la ville.",
-              "Note : certains restaurants des Goudes ferment plus tôt en hiver."
+              "Vérifiez si la route vers la Calanque est ouverte avant de partir.",
+              "Le chauffage de la voiture est une bénédiction après le vent à la « Bonne Mère ».",
+              "Profitez de la lumière claire d'hiver pour les panoramas de la ville.",
+              "Remarque : certains restaurants aux Goudes ferment plus tôt en hiver."
             ]
           }
         }
@@ -1487,7 +1535,8 @@
             "de": "Vieux-Port (Hafen)",
             "hu": "Vieux-Port (Kikötő)",
             "ro": "Vieux-Port (Port)",
-            "en": "Vieux-Port (Harbor)"
+            "en": "Vieux-Port (Harbor)",
+            "fr": "Vieux‑Port (Port)"
           },
           "coords": [
             5.3745,
@@ -1503,7 +1552,7 @@
             "hu": "Vásároljon napijegyet a buszra/metróra.",
             "ro": "Cumpărați un card de o zi pentru transport.",
             "en": "Buy a day pass for bus and metro travel.",
-            "fr": "Achetez un pass d'un jour pour les trajets en bus et métro."
+            "fr": "Achetez un pass journalier pour bus et métro."
           }
         },
         {
@@ -1511,7 +1560,8 @@
             "de": "Mucem (Bus 60)",
             "hu": "Mucem (60-as busz)",
             "ro": "Mucem (Autobuz 60)",
-            "en": "Mucem (Bus 60)"
+            "en": "Mucem (Bus 60)",
+            "fr": "Mucem (Bus 60)"
           },
           "coords": [
             5.361,
@@ -1535,7 +1585,8 @@
             "de": "Notre-Dame de la Garde (Bus 60)",
             "hu": "Notre-Dame de la Garde (60-as busz)",
             "ro": "Notre-Dame de la Garde",
-            "en": "Notre-Dame de la Garde"
+            "en": "Notre-Dame de la Garde",
+            "fr": "Notre‑Dame‑de‑la‑Garde"
           },
           "coords": [
             5.3705,
@@ -1551,7 +1602,7 @@
             "hu": "Spórolja meg a meredek hegymenetet.",
             "ro": "Evitați urcușul abrupt mergând cu autobuzul.",
             "en": "Save yourself the steep walk uphill.",
-            "fr": "Évitez-vous la montée raide à pied."
+            "fr": "Épargnez‑vous la montée raide à pied."
           }
         },
         {
@@ -1559,7 +1610,8 @@
             "de": "Palais Longchamp (Metro M1)",
             "hu": "Longchamp-palota (M1 metró)",
             "ro": "Palatul Longchamp",
-            "en": "Palais Longchamp"
+            "en": "Palais Longchamp",
+            "fr": "Palais Longchamp"
           },
           "coords": [
             5.3942,
@@ -1575,7 +1627,7 @@
             "hu": "Cinq-Avenues Longchamp metrómegálló.",
             "ro": "Stația de metrou Cinq-Avenues Longchamp.",
             "en": "Exit at Cinq-Avenues Longchamp station.",
-            "fr": "Sortez à la station Cinq-Avenues Longchamp."
+            "fr": "Descendez à la station Cinq‑Avenues Longchamp."
           }
         },
         {
@@ -1583,7 +1635,8 @@
             "de": "Cours Julien (Metro M2)",
             "hu": "Cours Julien (M2 metró)",
             "ro": "Cours Julien",
-            "en": "Cours Julien"
+            "en": "Cours Julien",
+            "fr": "Cours Julien"
           },
           "coords": [
             5.384,
@@ -1599,7 +1652,7 @@
             "hu": "Színes negyed a Notre-Dame-du-Mont közelében.",
             "ro": "Cartier colorat lângă metroul Notre-Dame-du-Mont.",
             "en": "Colorful district near Notre-Dame-du-Mont metro.",
-            "fr": "Quartier coloré près du métro Notre-Dame-du-Mont."
+            "fr": "Quartier coloré près de la station Notre‑Dame‑du‑Mont métro."
           }
         },
         {
@@ -1607,7 +1660,8 @@
             "de": "Vieux-Port Abschluss",
             "hu": "Vieux-Port befejezés",
             "ro": "Vieux-Port final",
-            "en": "Vieux-Port Conclusion"
+            "en": "Vieux-Port Conclusion",
+            "fr": "Conclusion Vieux‑Port"
           },
           "coords": [
             5.374,
@@ -1623,7 +1677,7 @@
             "hu": "Vacsora a központban.",
             "ro": "Cină în centrul orașului.",
             "en": "Dinner in the city center.",
-            "fr": "Dîner dans le centre-ville."
+            "fr": "Dîner dans le centre‑ville."
           }
         }
       ],
@@ -1632,7 +1686,7 @@
         "hu": "Marseille felfedezése busszal és metróval stresszmentes. A legendás 60-as busz közvetlenül köti össze a kikötőt a bazilikával. Az M1-es metró gyorsan elviszi a Longchamp-palotához, míg az M2-es az alternatív Cours Julien negyedbe, amely híres az utcai művészetéről.",
         "ro": "Descoperirea Marsiliei cu autobuzul și metroul este lipsită de stres. Legendarul autobuz 60 leagă portul direct de bazilică. Metroul M1 vă duce rapid la Palatul Longchamp, iar M2 în cartierul alternativ Cours Julien, faimos pentru arta stradală.",
         "en": "Discovering Marseille by bus and metro is stress-free. The legendary bus line 60 connects the harbor directly to the Basilica. Metro M1 takes you quickly to Palais Longchamp, while M2 drops you in the alternative Cours Julien district, famous for its street art.",
-        "fr": "Découvrir Marseille en bus et en métro se fait sans stress. La légendaire ligne de bus 60 relie directement le port à la Basilique. Le métro M1 vous emmène rapidement au Palais Longchamp, tandis que le M2 vous dépose dans le quartier alternatif du Cours Julien, célèbre pour son street art."
+        "fr": "Découvrir Marseille en bus et métro est sans stress. La légendaire ligne de bus 60 relie directement le port à la Basilique. Le métro M1 vous emmène rapidement au Palais Longchamp, tandis que M2 vous dépose dans le quartier alternatif du Cours Julien, célèbre pour son street art."
       },
       "gastro_picks": {
         "de": [
@@ -1757,8 +1811,8 @@
           "Night buses (Fluo) are available after midnight."
         ],
         "fr": [
-          "Téléchargez l'application RTM pour les horaires en temps réel.",
-          "Le bus 60 est souvent très fréquenté ; essayez d'embarquer au premier arrêt.",
+          "Téléchargez l'application RTM pour les horaires de transport en temps réel.",
+          "Le bus 60 est souvent très chargé ; essayez de monter au premier arrêt.",
           "Des bus de nuit (Fluo) sont disponibles après minuit."
         ]
       },
@@ -1769,7 +1823,7 @@
             "hu": "Az esős napot a Vieux-Port metróállomásnál kezdjük. Délben komppal megyünk a Frioul-szigetekre, ha a tenger engedi; az út az esőben hangulatos. Délután a 60-as busz visz fel minket a Notre-Dame de la Garde-hoz, így szárazon maradunk. Az estét a Canebière sugárúton töltjük, kihasználva az üzletek fedett részeit.",
             "ro": "Începem ziua ploioasă la metroul Vieux-Port. La prânz luăm feribotul spre insulele Frioul, dacă marea permite; călătoria pe ploaie este atmosferică. După-amiaza, autobuzul 60 ne duce direct la Notre-Dame de la Garde, unde rămânem uscați. Seara o petrecem pe Canebière, folosind pasajele acoperite ale magazinelor.",
             "en": "We start the rainy day at the Vieux-Port metro. By noon, we take the ferry to Frioul Islands if sea conditions allow; the rainy crossing is atmospheric. In the afternoon, bus 60 takes us straight to Notre-Dame de la Garde, keeping us dry. The evening is spent on Canebière, making use of the covered shop entrances.",
-            "fr": "Nous commençons la journée pluvieuse au métro Vieux-Port. À midi, nous prenons le ferry pour les îles du Frioul si l'état de la mer le permet ; la traversée sous la pluie est atmosphérique. L'après-midi, le bus 60 nous emmène directement à Notre-Dame de la Garde, nous gardant au sec. La soirée se passe sur la Canebière, en profitant des entrées de magasins couvertes."
+            "fr": "Nous commençons la journée pluvieuse à la station Vieux‑Port. À midi, nous prenons le ferry pour les îles du Frioul si les conditions de mer le permettent ; la traversée sous la pluie est atmosphérique. L'après‑midi, le bus 60 nous emmène directement à Notre‑Dame‑de‑la‑Garde, nous gardant au sec. La soirée se passe sur la Canebière, en profitant des entrées couvertes des magasins."
           },
           "stops": [
             {
@@ -1778,7 +1832,8 @@
                 "de": "Warten Sie in der Metrostation, bis der Bus direkt vor der Tür hält.",
                 "hu": "Várjon a metróállomáson, amíg a busz közvetlenül megérkezik.",
                 "ro": "Așteptați în stația de metrou până când autobuzul oprește la ușă.",
-                "en": "Wait inside the metro station until the bus stops right outside."
+                "en": "Wait inside the metro station until the bus stops right outside.",
+                "fr": "Attendez à l'intérieur de la station de métro jusqu'à ce que le bus s'arrête juste à l'extérieur."
               }
             },
             {
@@ -1787,7 +1842,8 @@
                 "de": "Bleiben Sie während der Überfahrt im geschlossenen Deck der Fähre.",
                 "hu": "A kompon maradjon a zárt fedélzeten az átkelés alatt.",
                 "ro": "Rămâneți pe puntea închisă a feribotului în timpul traversării.",
-                "en": "Stay in the enclosed lower deck of the ferry during the crossing."
+                "en": "Stay in the enclosed lower deck of the ferry during the crossing.",
+                "fr": "Restez dans le pont inférieur fermé du ferry pendant la traversée."
               }
             },
             {
@@ -1796,7 +1852,8 @@
                 "de": "Der Bus hält direkt vor dem Kircheneingang; kein langer Fußweg.",
                 "hu": "A busz közvetlenül a bejáratnál áll meg; nem kell sokat gyalogolni.",
                 "ro": "Autobuzul oprește chiar la intrare; nu e nevoie de mers pe jos.",
-                "en": "The bus stops right at the entrance; no long walk in the rain."
+                "en": "The bus stops right at the entrance; no long walk in the rain.",
+                "fr": "Le bus s'arrête juste à l'entrée ; pas de longue marche sous la pluie."
               }
             },
             {
@@ -1805,7 +1862,8 @@
                 "de": "Nutzen Sie die Straßenbahn (Tram), um im Trockenen die Straße entlangzufahren.",
                 "hu": "Használja a villamost, hogy szárazon utazzon végig a sugárúton.",
                 "ro": "Folosiți tramvaiul pentru a parcurge bulevardul la adăpost.",
-                "en": "Use the tram to travel down the boulevard while staying dry."
+                "en": "Use the tram to travel down the boulevard while staying dry.",
+                "fr": "Utilisez le tram pour descendre le boulevard tout en restant au sec."
               }
             }
           ],
@@ -1836,9 +1894,9 @@
             ],
             "fr": [
               "L'application Marseille City Pass donne des infos en temps réel sur les annulations.",
-              "Les ferries sont souvent annulés par vent fort ; consultez régulièrement RTM.fr.",
-              "Les lignes de métro M1 et M2 sont les moyens les plus secs pour circuler.",
-              "Prévoyez de la monnaie ou une carte pour acheter des tickets au chauffeur de bus."
+              "Les ferries sont souvent annulés par grand vent ; consultez régulièrement RTM.fr.",
+              "Les lignes de métro M1 et M2 sont les moyens les plus secs de circuler en ville.",
+              "Ayez de la monnaie ou une carte prête pour acheter les tickets auprès du conducteur."
             ]
           }
         },
@@ -1848,7 +1906,7 @@
             "hu": "Tiszta téli reggelen indulunk a Vieux-Port metrótól. Délben komppal megyünk a Frioul-szigetekre; a tiszta levegő fantasztikus kilátást biztosít. Délután a 60-as busz visz fel a Notre-Dame de la Garde-hoz, ahol érezni a hideg Misztrált. Az estét a kivilágított Canebière sugárúton zárjuk, majd villamossal megyünk tovább.",
             "ro": "O dimineață senină de iarnă ne duce la metroul Vieux-Port. La prânz luăm feribotul spre insulele Frioul; aerul curat oferă vederi fantastice. După-amiaza, autobuzul 60 ne duce la Notre-Dame de la Garde, unde simțim Mistralul rece. Încheiem seara pe Canebière iluminată festiv înainte de a lua tramvaiul.",
             "en": "A clear winter morning leads us to the Vieux-Port metro. By noon, we take the ferry to Frioul Islands; the crisp air offers fantastic views. In the afternoon, bus 60 takes us to Notre-Dame de la Garde, where the cold Mistral is palpable. We end the evening on the festively lit Canebière before a comfortable tram ride back.",
-            "fr": "Un matin d'hiver clair nous mène au métro Vieux-Port. À midi, nous prenons le ferry pour les îles du Frioul ; l'air vif offre des vues fantastiques. L'après-midi, le bus 60 nous emmène à Notre-Dame de la Garde, où le Mistral froid est palpable. Nous terminons la soirée sur la Canebière aux illuminations festives avant un retour confortable en tramway."
+            "fr": "Un matin clair d'hiver nous mène à la station Vieux‑Port. À midi, nous prenons le ferry pour les îles du Frioul ; l'air vif offre des vues fantastiques. L'après‑midi, le bus 60 nous mène à Notre‑Dame‑de‑la‑Garde, où le Mistral froid se fait sentir. Nous terminons la soirée sur la Canebière illuminée avant un retour confortable en tram."
           },
           "stops": [
             {
@@ -1857,7 +1915,8 @@
                 "de": "Holen Sie sich einen warmen Tee am Kiosk vor der Abfahrt.",
                 "hu": "Vegyen egy forró teát a büfénél az indulás előtt.",
                 "ro": "Luați un ceai cald de la chioșc înainte de plecare.",
-                "en": "Grab a hot tea from the kiosk before your departure."
+                "en": "Grab a hot tea from the kiosk before your departure.",
+                "fr": "Prenez un thé chaud au kiosque avant votre départ."
               }
             },
             {
@@ -1866,7 +1925,8 @@
                 "de": "Die Boote sind im Winter weniger voll; genießen Sie die Ruhe.",
                 "hu": "A hajók télen kevésbé zsúfoltak; élvezze a nyugalmat.",
                 "ro": "Bărciile sunt mai puțin aglomerate iarna; bucurați-vă de liniște.",
-                "en": "Ferries are less crowded in winter; enjoy the peaceful crossing."
+                "en": "Ferries are less crowded in winter; enjoy the peaceful crossing.",
+                "fr": "Les ferries sont moins fréquentés en hiver ; profitez de la traversée paisible."
               }
             },
             {
@@ -1875,7 +1935,8 @@
                 "de": "Der Bus ist beheizt, was nach der Kälte auf dem Gipfel ideal ist.",
                 "hu": "A busz fűtött, ami ideális a hegytetőn tapasztalt hideg után.",
                 "ro": "Autobuzul este încălzit, ideal după frigul de pe culme.",
-                "en": "The bus is heated, which is great after the cold at the summit."
+                "en": "The bus is heated, which is great after the cold at the summit.",
+                "fr": "Le bus est chauffé, ce qui est appréciable après le froid au sommet."
               }
             },
             {
@@ -1884,7 +1945,8 @@
                 "de": "Die Weihnachtsbeleuchtung ist hier im Dezember wunderschön.",
                 "hu": "A karácsonyi kivilágítás gyönyörű itt decemberben.",
                 "ro": "Iluminatul de Crăciun este superb aici în decembrie.",
-                "en": "The Christmas lights here are beautiful during December."
+                "en": "The Christmas lights here are beautiful during December.",
+                "fr": "Les illuminations de Noël sont belles ici en décembre."
               }
             }
           ],
@@ -1914,10 +1976,10 @@
               "The T2 tram offers a great view of the city's festive decorations."
             ],
             "fr": [
-              "Les ferries circulent moins fréquemment en hiver ; vérifiez bien les horaires.",
+              "Les ferries circulent moins fréquemment en hiver ; vérifiez attentivement les horaires.",
               "Les stations de métro sont agréablement chaudes pendant les mois d'hiver.",
-              "Achetez un pass 24h à 5,20 € pour un usage illimité des transports.",
-              "Le tramway T2 offre une superbe vue sur les décorations festives de la ville."
+              "Achetez un pass 24 heures pour 5,20 € pour des déplacements illimités.",
+              "Le tram T2 offre une belle vue sur les décorations festives de la ville."
             ]
           }
         }

@@ -21,7 +21,8 @@
             "de": "Place Carnot",
             "hu": "Place Carnot",
             "ro": "Place Carnot",
-            "en": "Place Carnot"
+            "en": "Place Carnot",
+            "fr": "Place Carnot"
           },
           "coords": [
             4.700996,
@@ -36,7 +37,8 @@
             "de": "Bewundern Sie die lebhafte Atmosphäre der Place Carnot, dem historischen Herzen der Stadt, und machen Sie unbedingt Halt in einem lokalen Café für ein frisches Gebäck.",
             "hu": "Csodálja meg a Place Carnot élénk hangulatát, a város történelmi szívét, és mindenképpen térjen be egy helyi kávézóba egy friss süteményért, mielőtt tovább sétál.",
             "ro": "Admirați atmosfera vibrantă din Place Carnot, inima istorică a orașului, și asigurați-vă că vă opriți la o cafenea locală pentru o patiserie proaspătă înainte de a continua.",
-            "en": "Admire the vibrant atmosphere of Place Carnot, the historical heart of the city, and make sure to stop by a local café to grab a fresh pastry before continuing your walk."
+            "en": "Admire the vibrant atmosphere of Place Carnot, the historical heart of the city, and make sure to stop by a local café to grab a fresh pastry before continuing your walk.",
+            "fr": "Admirez l'atmosphère vivante de la Place Carnot, cœur historique de la ville, et n'oubliez pas de vous arrêter dans un café local pour prendre une pâtisserie fraîche avant de poursuivre votre promenade."
           }
         },
         {
@@ -44,7 +46,8 @@
             "de": "Kirche Saint-Maurille",
             "hu": "Saint-Maurille-templom",
             "ro": "Biserica Saint-Maurille",
-            "en": "Church of Saint-Maurille"
+            "en": "Church of Saint-Maurille",
+            "fr": "Église Saint-Maurille"
           },
           "coords": [
             4.704212,
@@ -59,7 +62,8 @@
             "de": "Bestaunen Sie das prächtige Renaissanceportal der Kirche Saint-Maurille, ein beeindruckendes Meisterwerk, und kommen Sie früh, um das schöne Morgenlicht zu genießen.",
             "hu": "Csodálja meg a Saint-Maurille-templom csodálatos reneszánsz portálját, egy lenyűgöző építészeti remekművet, és érkezzen korán, hogy élvezhesse a gyönyörű reggeli fényeket.",
             "ro": "Minunați-vă de magnificul portal renascentist al Bisericii Saint-Maurille, o capodoperă arhitecturală uimitoare, și sosiți devreme pentru a vă bucura de lumina dimineții.",
-            "en": "Marvel at the magnificent Renaissance portal of the Church of Saint-Maurille, a stunning architectural masterpiece, and arrive early to enjoy the beautiful morning light."
+            "en": "Marvel at the magnificent Renaissance portal of the Church of Saint-Maurille, a stunning architectural masterpiece, and arrive early to enjoy the beautiful morning light.",
+            "fr": "Émerveillez-vous devant le magnifique portail renaissance de l'Église Saint-Maurille, un chef-d'œuvre architectural, et venez tôt pour profiter de la belle lumière du matin."
           }
         },
         {
@@ -67,7 +71,8 @@
             "de": "Kino Les Tourelles",
             "hu": "Les Tourelles mozi",
             "ro": "Cinematograful Les Tourelles",
-            "en": "Les Tourelles Cinema"
+            "en": "Les Tourelles Cinema",
+            "fr": "Les Tourelles Cinema"
           },
           "coords": [
             4.700805,
@@ -82,7 +87,8 @@
             "de": "Entdecken Sie die lokale Kultur im Kino Les Tourelles, einem ikonischen Art-déco-Gebäude, und überprüfen Sie den Spielplan im Voraus, um einen unabhängigen Film zu sehen.",
             "hu": "Fedezze fel a helyi kultúrát a Les Tourelles moziban, egy ikonikus Art Deco épületben, és előre ellenőrizze a műsorrendet, hogy elcsíphessen egy érdekes független filmet.",
             "ro": "Descoperiți cultura locală la cinematograful Les Tourelles, o clădire Art Deco iconică, și verificați programul în avans pentru a viziona un film independent captivant.",
-            "en": "Discover local culture at Les Tourelles Cinema, an iconic Art Deco building that hosts regular screenings, and check the schedule in advance to catch an independent film."
+            "en": "Discover local culture at Les Tourelles Cinema, an iconic Art Deco building that hosts regular screenings, and check the schedule in advance to catch an independent film.",
+            "fr": "Découvrez la culture locale aux Cinémas Les Tourelles, un bâtiment Art déco emblématique qui programme régulièrement des projections ; consultez l'horaire à l'avance pour voir un film indépendant."
           }
         },
         {
@@ -90,7 +96,8 @@
             "de": "Grab von Roland Garros",
             "hu": "Roland Garros sírja",
             "ro": "Mormântul lui Roland Garros",
-            "en": "Tomb of Roland Garros"
+            "en": "Tomb of Roland Garros",
+            "fr": "Tomb of Roland Garros"
           },
           "coords": [
             4.689443,
@@ -105,7 +112,8 @@
             "de": "Erweisen Sie am Grab von Roland Garros, dem berühmten Fliegerhelden auf dem Friedhof, die Ehre und suchen Sie nach dem einzigartigen Propellerdenkmal an seinem Grab.",
             "hu": "Tisztelegjen Roland Garros sírjánál, a híres pilóta hős nyughelyénél a helyi temetőben, és keresse meg a pontos sírját jelző különleges, propeller formájú emlékművet.",
             "ro": "Aduceți un omagiu la Mormântul lui Roland Garros, celebrul erou aviator din cimitirul local, și căutați monumentul unic în formă de elice care marchează mormântul său.",
-            "en": "Pay your respects at the Tomb of Roland Garros, the famous aviator hero resting in the local cemetery, and look for the unique propeller monument marking his exact grave."
+            "en": "Pay your respects at the Tomb of Roland Garros, the famous aviator hero resting in the local cemetery, and look for the unique propeller monument marking his exact grave.",
+            "fr": "Rendez hommage à la tombe de Roland Garros, le célèbre aviateur reposant dans le cimetière local, et cherchez le monument en forme d'hélice qui marque précisément sa sépulture."
           }
         },
         {
@@ -113,7 +121,8 @@
             "de": "Église Saint-Remi",
             "hu": "Église Saint-Remi",
             "ro": "Église Saint-Remi",
-            "en": "Église Saint-Remi"
+            "en": "Église Saint-Remi",
+            "fr": "Église Saint-Remi"
           },
           "coords": [
             4.700358,
@@ -128,7 +137,8 @@
             "de": "Erkunden Sie die ruhige Église Saint-Remi, eine elegante Steinkirche, die eine friedliche Flucht bietet, und nehmen Sie sich einen Moment Zeit für die Buntglasfenster.",
             "hu": "Fedezze fel a nyugodt Église Saint-Remi elegáns kőtemplomát, amely békés menedéket nyújt, és szánjon egy percet a gyönyörű ólomüveg ablakok részleteinek megcsodálására.",
             "ro": "Explorați senina Église Saint-Remi, o biserică elegantă din piatră ce oferă o evadare pașnică, și alocați-vă un moment pentru a aprecia superbele vitralii istorice.",
-            "en": "Explore the serene Église Saint-Remi, an elegant stone church offering a peaceful escape from the bustling streets, and take a moment to appreciate the stained glass windows."
+            "en": "Explore the serene Église Saint-Remi, an elegant stone church offering a peaceful escape from the bustling streets, and take a moment to appreciate the stained glass windows.",
+            "fr": "Explorez la sereine Église Saint-Remi, une élégante église de pierre offrant une échappée paisible des rues animées, et prenez un instant pour admirer les vitraux."
           }
         }
       ],
@@ -136,7 +146,8 @@
         "de": "Ihr Morgen beginnt auf dem lebhaften Place Carnot, wo Sie die Atmosphäre aufsaugen können, bevor Sie das Portal der Kirche Saint-Maurille bewundern. Mittags gehen Sie nach Süden zum Kino Les Tourelles. Am Nachmittag denken Sie am Grab des Pioniers Roland Garros über Geschichte nach. Wenn der Abend naht, finden Sie Ruhe in der friedlichen Église Saint-Remi.",
         "hu": "A reggel a nyüzsgő Place Carnot-n indul, ahol magába szívhatja a helyi hangulatot, majd megcsodálhatja a Saint-Maurille-templom lenyűgöző portálját. Délben dél felé veszi az irányt a Les Tourelles mozihoz. Délután a híres Roland Garros sírjánál merülhet el a történelemben. Az este közeledtével pedig megnyugvást találhat a békés Église Saint-Remi falai között.",
         "ro": "Dimineața începe în animata Place Carnot, unde vă puteți bucura de atmosfera locală înainte de a admira portalul Bisericii Saint-Maurille. La amiază mergeți spre sud pentru a vedea cinematograful Les Tourelles. După-amiaza, reflectați la istorie la mormântul pionierului Roland Garros. Pe măsură ce se apropie seara, găsiți liniște la serena Église Saint-Remi.",
-        "en": "Your morning starts in the lively Place Carnot, where you can soak in the local atmosphere before admiring the stunning portal of the Church of Saint-Maurille. Midday takes you slightly south to appreciate local arts at Les Tourelles Cinema. In the afternoon, reflect on history at the tomb of aviation pioneer Roland Garros. As evening approaches, find peace at the serene Église Saint-Remi."
+        "en": "Your morning starts in the lively Place Carnot, where you can soak in the local atmosphere before admiring the stunning portal of the Church of Saint-Maurille. Midday takes you slightly south to appreciate local arts at Les Tourelles Cinema. In the afternoon, reflect on history at the tomb of aviation pioneer Roland Garros. As evening approaches, find peace at the serene Église Saint-Remi.",
+        "fr": "Votre matinée commence sur la dynamique Place Carnot, où vous pouvez vous imprégner de l'ambiance locale avant d'admirer le superbe portail de l'Église Saint-Maurille. En milieu de journée, dirigez-vous un peu au sud pour apprécier les arts locaux aux Cinémas Les Tourelles. L'après-midi, réfléchissez à l'histoire auprès de la tombe du pionnier de l'aviation Roland Garros. En soirée, trouvez la paix à la tranquille Église Saint-Remi."
       },
       "variants": {
         "rainy": {
@@ -144,7 +155,8 @@
             "de": "Der Morgen beginnt am zentralen Platz, bevor Sie in der Kirche Schutz vor dem Regen suchen. Der Mittag ist perfekt für das Kinomuseum. Nachmittags spazieren Sie nass zum Grab und enden in der zweiten Kirche. Bringen Sie einen Regenschirm und wasserfeste Schuhe für die Pfützen mit.",
             "hu": "A reggel a főtéren indul, majd a templomban keresünk menedéket az eső elől. A dél közepe tökéletes a mozimúzeumhoz. Délután egy vizes séta vár a sírhoz, a napot a második templomban zárva. Vízálló cipő és egy erős esernyő erősen ajánlott a tócsák miatt.",
             "ro": "Dimineața începe în piața centrală, mutându-ne rapid în biserică pentru a scăpa de ploaie. Prânzul este perfect pentru muzeul cinematografic. După-amiaza implică o plimbare umedă la mormânt, terminând în a doua biserică. Luați o umbrelă și încălțăminte impermeabilă.",
-            "en": "Morning starts at the central square, quickly moving indoors to the church to escape the rain. Midday is perfect for the cinema museum. Afternoon involves a wet walk to the tomb, ending in the second church. Bring an umbrella and waterproof shoes for the puddles."
+            "en": "Morning starts at the central square, quickly moving indoors to the church to escape the rain. Midday is perfect for the cinema museum. Afternoon involves a wet walk to the tomb, ending in the second church. Bring an umbrella and waterproof shoes for the puddles.",
+            "fr": "La matinée commence sur la place centrale, puis on se réfugie rapidement dans l'église pour échapper à la pluie. Le milieu de journée est idéal pour le musée du cinéma. L'après-midi comprend une marche humide jusqu'à la tombe, pour finir dans la deuxième église. Prenez un parapluie et des chaussures imperméables pour les flaques."
           },
           "stops": [
             {
@@ -152,13 +164,15 @@
                 "de": "Place Carnot",
                 "hu": "Place Carnot",
                 "ro": "Place Carnot",
-                "en": "Place Carnot"
+                "en": "Place Carnot",
+                "fr": "Place Carnot"
               },
               "tip_5lang": {
                 "de": "Bewundern Sie kurz die schöne Stadtarchitektur, bevor Sie vor dem Regen Schutz suchen; ein starker Regenschirm ist hier unerlässlich, um trocken zu bleiben.",
                 "hu": "Csodálja meg röviden a gyönyörű városi építészetet, mielőtt menedéket keresne az eső elől; egy erős esernyő itt elengedhetetlen a szárazon maradáshoz.",
                 "ro": "Admirați scurt frumoasa arhitectură a orașului înainte de a căuta adăpost de ploaie; o umbrelă rezistentă este absolut esențială aici pentru a rămâne uscat.",
-                "en": "Admire the beautiful town architecture briefly before seeking shelter from the rain; a sturdy umbrella is absolutely essential here to stay comfortably dry."
+                "en": "Admire the beautiful town architecture briefly before seeking shelter from the rain; a sturdy umbrella is absolutely essential here to stay comfortably dry.",
+                "fr": "Admirez brièvement la belle architecture de la ville avant de chercher un abri contre la pluie ; un parapluie solide est absolument essentiel ici pour rester confortablement au sec."
               }
             },
             {
@@ -166,13 +180,15 @@
                 "de": "Kirche Saint-Maurille",
                 "hu": "Saint-Maurille-templom",
                 "ro": "Biserica Saint-Maurille",
-                "en": "Church of Saint-Maurille"
+                "en": "Church of Saint-Maurille",
+                "fr": "Église Saint-Maurille"
               },
               "tip_5lang": {
                 "de": "Erkunden Sie das atemberaubende Renaissance-Portal von außen und treten Sie dann ein, um während der Schauer im historischen Kirchenschiff trocken zu bleiben.",
                 "hu": "Fedezze fel a lenyűgöző reneszánsz portált kívülről, majd lépjen be, hogy teljesen száraz maradjon a történelmi templomhajó békés belsejében a záporok alatt.",
                 "ro": "Explorați impresionantul portal renascentist de afară, apoi pășiți înăuntru pentru a rămâne perfect uscat în nava istorică a bisericii în timpul averselor.",
-                "en": "Explore the stunning Renaissance portal from the outside, then step in to stay perfectly dry inside the historic and peaceful church nave during the showers."
+                "en": "Explore the stunning Renaissance portal from the outside, then step in to stay perfectly dry inside the historic and peaceful church nave during the showers.",
+                "fr": "Explorez le magnifique portail renaissance depuis l'extérieur, puis entrez pour rester parfaitement au sec dans la nef historique et paisible pendant les averses."
               }
             },
             {
@@ -180,13 +196,15 @@
                 "de": "Kino Les Tourelles",
                 "hu": "Les Tourelles mozi",
                 "ro": "Cinematograful Les Tourelles",
-                "en": "Les Tourelles Cinema"
+                "en": "Les Tourelles Cinema",
+                "fr": "Les Tourelles Cinema"
               },
               "tip_5lang": {
                 "de": "Tauchen Sie in diesem gemütlichen Museum in die lokale Kinogeschichte ein; es ist der ultimative Zufluchtsort an Regentagen und ein faszinierender kultureller Stopp.",
                 "hu": "Merüljön el a helyi mozi történelmében ebben a hangulatos múzeumban; ez a tökéletes esős napi menedék és egy lenyűgöző kulturális állomás a városban.",
                 "ro": "Scufundați-vă în istoria cinematografică locală în acest muzeu confortabil; este refugiul suprem într-o zi ploioasă și o oprire culturală fascinantă în oraș.",
-                "en": "Dive into local cinematic history in this cozy museum; it is the ultimate rainy-day refuge and a fascinating cultural stop to escape the wet weather in town."
+                "en": "Dive into local cinematic history in this cozy museum; it is the ultimate rainy-day refuge and a fascinating cultural stop to escape the wet weather in town.",
+                "fr": "Plongez dans l'histoire cinématographique locale dans ce musée douillet ; c'est le refuge idéal par temps de pluie et une halte culturelle fascinante pour échapper au mauvais temps en ville."
               }
             },
             {
@@ -194,13 +212,15 @@
                 "de": "Grab von Roland Garros",
                 "hu": "Roland Garros sírja",
                 "ro": "Mormântul lui Roland Garros",
-                "en": "Tomb of Roland Garros"
+                "en": "Tomb of Roland Garros",
+                "fr": "Tomb of Roland Garros"
               },
               "tip_5lang": {
                 "de": "Erweisen Sie dem legendären Flugpionier die Ehre; der unbefestigte Weg kann bei Regen sehr schlammig und rutschig sein, achten Sie also gut auf Ihre Schritte.",
                 "hu": "Rója le tiszteletét a legendás repülés úttörője előtt; a burkolatlan ösvény nagyon saras és csúszós lehet az esőben, ezért nagyon óvatosan lépkedjen.",
                 "ro": "Aduceți un omagiu legendarului pionier al aviației; poteca nepavată poate fi foarte noroioasă și alunecoasă în ploaie, așa că aveți mare grijă unde pășiți.",
-                "en": "Pay your respects to the legendary aviation pioneer; the unpaved path can be very muddy and slippery in the rain, so watch your step carefully on the way."
+                "en": "Pay your respects to the legendary aviation pioneer; the unpaved path can be very muddy and slippery in the rain, so watch your step carefully on the way.",
+                "fr": "Rendez hommage au légendaire pionnier de l'aviation ; le chemin non adapté peut être très boueux et glissant sous la pluie, alors faites très attention à vos pas en chemin."
               }
             },
             {
@@ -208,13 +228,15 @@
                 "de": "Église Saint-Remi",
                 "hu": "Église Saint-Remi",
                 "ro": "Église Saint-Remi",
-                "en": "Église Saint-Remi"
+                "en": "Église Saint-Remi",
+                "fr": "Église Saint-Remi"
               },
               "tip_5lang": {
                 "de": "Beenden Sie Ihren nassen Spaziergang in dieser massiven Steinkirche, die eine friedliche Flucht vor dem ständigen Nieselregen und einen Ort der Ruhe bietet.",
                 "hu": "Zárja a vizes sétát ebben a masszív kőtemplomban, amely békés menedéket és csendes elmélkedést kínál az állandó szitáló eső és a kinti nedvesség elől.",
                 "ro": "Încheiați plimbarea umedă contemplând în liniște această biserică solidă din piatră, o evadare pașnică din calea burniței constante și a vremii umede.",
-                "en": "End your wet walk in the quiet contemplation of this solid ancient stone church, offering a completely peaceful escape from the constant drizzle outside."
+                "en": "End your wet walk in the quiet contemplation of this solid ancient stone church, offering a completely peaceful escape from the constant drizzle outside.",
+                "fr": "Terminez votre promenade humide par la contemplation tranquille de cette solide église ancienne en pierre, offrant une évasion totalement paisible de la bruine persistante dehors."
               }
             }
           ]
@@ -224,7 +246,8 @@
             "de": "Ein klarer Winterspaziergang beginnt am frostigen Platz. Die Kirchen bieten kalte Schönheit, das Kino eine warme Mittagspause. Der Nachmittagsweg zum Grab des Fliegers ist schön, aber kühl. Beenden Sie die Tour unbedingt vor dem frühen Sonnenuntergang gegen 17 Uhr.",
             "hu": "A ropogós téli séta a fagyos főtéren indul. A templomok hideg szépséget sugároznak, a mozi pedig meleg déli pihenőt nyújt. A délutáni séta a pilóta sírjához hűvös, de szép. Érdemes a 17 órai korai sötétedés előtt befejezni a napot a hideg miatt.",
             "ro": "O plimbare de iarnă în Vouziers începe în piața înghețată. Bisericile oferă o frumusețe rece, în timp ce cinematograful e o pauză caldă. Plimbarea spre mormântul aviatorului este rece, terminându-se înaintea apusului timpuriu din jurul orei 17:00.",
-            "en": "A crisp winter walk in Vouziers begins at the frosty square. The churches offer a quiet, cold beauty, while the cinema provides a warm midday break. The afternoon walk to the aviator's tomb is beautiful but chilly, wrapping up before the early sunset around 5 PM."
+            "en": "A crisp winter walk in Vouziers begins at the frosty square. The churches offer a quiet, cold beauty, while the cinema provides a warm midday break. The afternoon walk to the aviator's tomb is beautiful but chilly, wrapping up before the early sunset around 5 PM.",
+            "fr": "Une promenade hivernale fraîche à Vouziers commence sur la place givrée. Les églises offrent une beauté calme et froide, tandis que le cinéma propose une pause chaleureuse à midi. La promenade de l'après-midi vers la tombe de l'aviateur est belle mais froide, et se termine avant le coucher du soleil précoce vers 17h."
           },
           "stops": [
             {
@@ -232,13 +255,15 @@
                 "de": "Place Carnot",
                 "hu": "Place Carnot",
                 "ro": "Place Carnot",
-                "en": "Place Carnot"
+                "en": "Place Carnot",
+                "fr": "Place Carnot"
               },
               "tip_5lang": {
                 "de": "Genießen Sie die klare und frische Winterluft im Stadtzentrum, aber stellen Sie sicher, dass Sie sich extrem warm einpacken, bevor Sie Ihren Spaziergang beginnen.",
                 "hu": "Élvezze a friss és ropogós téli reggeli levegőt a városközpontban, de mindenképpen öltözzön fel rendkívül melegen, mielőtt elindulna a hosszú sétára.",
                 "ro": "Bucurați-vă de aerul proaspăt și curat al dimineții de iarnă în centrul orașului, dar asigurați-vă că vă îmbrăcați extrem de gros înainte de a porni la plimbare.",
-                "en": "Enjoy the crisp and fresh winter morning air in the town center, but ensure you bundle up extremely warmly with thick layers before heading out to walk."
+                "en": "Enjoy the crisp and fresh winter morning air in the town center, but ensure you bundle up extremely warmly with thick layers before heading out to walk.",
+                "fr": "Profitez de l'air hivernal vif et frais du matin au centre-ville, mais assurez-vous de vous emmitoufler très chaudement avec des couches épaisses avant de partir en promenade."
               }
             },
             {
@@ -246,13 +271,15 @@
                 "de": "Kirche Saint-Maurille",
                 "hu": "Saint-Maurille-templom",
                 "ro": "Biserica Saint-Maurille",
-                "en": "Church of Saint-Maurille"
+                "en": "Church of Saint-Maurille",
+                "fr": "Église Saint-Maurille"
               },
               "tip_5lang": {
                 "de": "Das komplexe Steinportal wirkt im weichen Winterlicht wirklich magisch, obwohl das weite Innere der Kirche recht kühl zum längeren Erkunden sein kann.",
                 "hu": "A bonyolult kőportál igazán varázslatosan fest a lágy téli fényben, bár a templom tágas belseje meglehetősen hűvös lehet a hosszabb felfedezéshez.",
                 "ro": "Portalul complex din piatră pare cu adevărat magic în lumina blândă de iarnă, deși interiorul spațios al bisericii poate fi destul de rece pentru explorare.",
-                "en": "The intricate stone portal looks truly magical in the soft winter light, though the spacious interior of the church can be quite chilly to explore for long."
+                "en": "The intricate stone portal looks truly magical in the soft winter light, though the spacious interior of the church can be quite chilly to explore for long.",
+                "fr": "Le portail de pierre finement ciselé paraît vraiment magique dans la douce lumière hivernale, bien que l'intérieur spacieux de l'église puisse être assez froid à explorer longtemps."
               }
             },
             {
@@ -260,13 +287,15 @@
                 "de": "Kino Les Tourelles",
                 "hu": "Les Tourelles mozi",
                 "ro": "Cinematograful Les Tourelles",
-                "en": "Les Tourelles Cinema"
+                "en": "Les Tourelles Cinema",
+                "fr": "Les Tourelles Cinema"
               },
               "tip_5lang": {
                 "de": "Wärmen Sie sich in diesem faszinierenden Kinomuseum gründlich auf; es macht es zu einem perfekten und gemütlichen Rückzugsort vor den eisigen Außentemperaturen.",
                 "hu": "Melegedjen fel alaposan ebben a lenyűgöző mozimúzeumban; ez tökéletes és hangulatos déli menedékké teszi a fagyos kinti hőmérséklet elől.",
                 "ro": "Încălziți-vă bine în acest fascinant muzeu cinematografic; îl face un refugiu perfect și confortabil la prânz împotriva temperaturilor de îngheț de afară.",
-                "en": "Warm up thoroughly in this fascinating cinema museum; it makes it a perfect and cozy midday retreat from the freezing winter temperatures outside."
+                "en": "Warm up thoroughly in this fascinating cinema museum; it makes it a perfect and cozy midday retreat from the freezing winter temperatures outside.",
+                "fr": "Réchauffez-vous profondément dans ce fascinant musée du cinéma ; c'est une halte parfaite et cosy à midi pour échapper aux températures glaciales extérieures."
               }
             },
             {
@@ -274,13 +303,15 @@
                 "de": "Grab von Roland Garros",
                 "hu": "Roland Garros sírja",
                 "ro": "Mormântul lui Roland Garros",
-                "en": "Tomb of Roland Garros"
+                "en": "Tomb of Roland Garros",
+                "fr": "Tomb of Roland Garros"
               },
               "tip_5lang": {
                 "de": "Besuchen Sie das Grab des berühmten Fliegers; der eisige Winterwind weht ungehindert über den offenen Friedhof, tragen Sie also unbedingt einen dicken Schal.",
                 "hu": "Látogassa meg a híres pilóta nyughelyét; a jeges téli szél akadálytalanul végigsöpör a nyitott temetőn, ezért feltétlenül viseljen vastag sálat.",
                 "ro": "Vizitați locul de odihnă al celebrului aviator; vântul înghețat de iarnă mătură nestingherit cimitirul deschis, așa că purtați neapărat un fular gros.",
-                "en": "Visit the famous aviator's resting place; the freezing winter wind sweeps completely unhindered across the open cemetery, so wear a thick, warm scarf."
+                "en": "Visit the famous aviator's resting place; the freezing winter wind sweeps completely unhindered across the open cemetery, so wear a thick, warm scarf.",
+                "fr": "Visitez la célèbre sépulture de l'aviateur ; le vent hivernal glacial balaie complètement sans obstacle le cimetière ouvert, alors portez une grosse écharpe chaude."
               }
             },
             {
@@ -288,13 +319,15 @@
                 "de": "Église Saint-Remi",
                 "hu": "Église Saint-Remi",
                 "ro": "Église Saint-Remi",
-                "en": "Église Saint-Remi"
+                "en": "Église Saint-Remi",
+                "fr": "Église Saint-Remi"
               },
               "tip_5lang": {
                 "de": "Bestaunen Sie die karge Winterschönheit dieser alten Kirche; beenden Sie den Besuch rechtzeitig, bevor der frühe Sonnenuntergang die Kälte noch weiter verstärkt.",
                 "hu": "Csodálja meg ennek az ősi templomnak a zord téli szépségét; fejezze be a látogatást időben, mielőtt a korai sötétedés még tovább fokozná a metsző hideget.",
                 "ro": "Admirați frumusețea aspră de iarnă a acestei vechi biserici; terminați vizita la timp, înainte ca apusul timpuriu să intensifice și mai mult frigul pătrunzător.",
-                "en": "Marvel at the stark winter beauty of this ancient stone church; aim to finish your visit in time before the early sunset deepens the evening chill significantly."
+                "en": "Marvel at the stark winter beauty of this ancient stone church; aim to finish your visit in time before the early sunset deepens the evening chill significantly.",
+                "fr": "Admirez la beauté hivernale austère de cette ancienne église de pierre ; visez à terminer votre visite avant que le coucher du soleil précoce n'accentue fortement la fraîcheur du soir."
               }
             }
           ]
@@ -314,7 +347,8 @@
             "de": "Place Carnot",
             "hu": "Place Carnot",
             "ro": "Place Carnot",
-            "en": "Place Carnot"
+            "en": "Place Carnot",
+            "fr": "Place Carnot"
           },
           "coords": [
             4.700996,
@@ -329,7 +363,8 @@
             "de": "Bewundern Sie die lebhafte Atmosphäre der Place Carnot, dem historischen Herzen der Stadt, und machen Sie unbedingt Halt in einem lokalen Café für ein frisches Gebäck.",
             "hu": "Csodálja meg a Place Carnot élénk hangulatát, a város történelmi szívét, és mindenképpen térjen be egy helyi kávézóba egy friss süteményért, mielőtt tovább sétál.",
             "ro": "Admirați atmosfera vibrantă din Place Carnot, inima istorică a orașului, și asigurați-vă că vă opriți la o cafenea locală pentru o patiserie proaspătă înainte de a continua.",
-            "en": "Admire the vibrant atmosphere of Place Carnot, the historical heart of the city, and make sure to stop by a local café to grab a fresh pastry before continuing your walk."
+            "en": "Admire the vibrant atmosphere of Place Carnot, the historical heart of the city, and make sure to stop by a local café to grab a fresh pastry before continuing your walk.",
+            "fr": "Admirez l'atmosphère vivante de la Place Carnot, cœur historique de la ville, et n'oubliez pas de vous arrêter dans un café local pour prendre une pâtisserie fraîche avant de poursuivre votre promenade."
           }
         },
         {
@@ -337,7 +372,8 @@
             "de": "Kirche Saint-Maurille",
             "hu": "Saint-Maurille-templom",
             "ro": "Biserica Saint-Maurille",
-            "en": "Church of Saint-Maurille"
+            "en": "Church of Saint-Maurille",
+            "fr": "Église Saint-Maurille"
           },
           "coords": [
             4.704212,
@@ -352,7 +388,8 @@
             "de": "Bestaunen Sie das prächtige Renaissanceportal der Kirche Saint-Maurille, ein beeindruckendes Meisterwerk, und kommen Sie früh, um das schöne Morgenlicht zu genießen.",
             "hu": "Csodálja meg a Saint-Maurille-templom csodálatos reneszánsz portálját, egy lenyűgöző építészeti remekművet, és érkezzen korán, hogy élvezhesse a gyönyörű reggeli fényeket.",
             "ro": "Minunați-vă de magnificul portal renascentist al Bisericii Saint-Maurille, o capodoperă arhitecturală uimitoare, și sosiți devreme pentru a vă bucura de lumina dimineții.",
-            "en": "Marvel at the magnificent Renaissance portal of the Church of Saint-Maurille, a stunning architectural masterpiece, and arrive early to enjoy the beautiful morning light."
+            "en": "Marvel at the magnificent Renaissance portal of the Church of Saint-Maurille, a stunning architectural masterpiece, and arrive early to enjoy the beautiful morning light.",
+            "fr": "Émerveillez-vous devant le magnifique portail renaissance de l'Église Saint-Maurille, un chef-d'œuvre architectural, et venez tôt pour profiter de la belle lumière du matin."
           }
         },
         {
@@ -360,7 +397,8 @@
             "de": "Gloire à la 7 Division d'Infanterie",
             "hu": "Gloire à la 7 Division d'Infanterie",
             "ro": "Gloire à la 7 Division d'Infanterie",
-            "en": "Gloire à la 7 Division d'Infanterie"
+            "en": "Gloire à la 7 Division d'Infanterie",
+            "fr": "Gloire à la 7 Division d'Infanterie"
           },
           "coords": [
             4.727033,
@@ -375,7 +413,8 @@
             "de": "Stehen Sie vor dem Denkmal Gloire à la 7 Division d'Infanterie für tapfere Soldaten des Ersten Weltkriegs und lesen Sie die eingravierten Namen, um die Opfer zu ehren.",
             "hu": "Álljon meg a Gloire à la 7 Division d'Infanterie emlékmű előtt, amely a hős katonáknak állít emléket, és olvassa el a neveket a helyi áldozatok mélyebb megértéséhez.",
             "ro": "Stați în fața monumentului Gloire à la 7 Division d'Infanterie, ce onorează soldații curajoși, și citiți cu atenție numele înscrise pentru a înțelege sacrificiul local.",
-            "en": "Stand before the monument Gloire à la 7 Division d'Infanterie, which honors brave WWI soldiers, and carefully read the inscribed names to understand the local sacrifice."
+            "en": "Stand before the monument Gloire à la 7 Division d'Infanterie, which honors brave WWI soldiers, and carefully read the inscribed names to understand the local sacrifice.",
+            "fr": "Tenez-vous devant le monument Gloire à la 7e Division d'Infanterie, qui rend hommage aux courageux soldats de la Première Guerre mondiale, et lisez attentivement les noms gravés pour comprendre le sacrifice local."
           }
         },
         {
@@ -383,7 +422,8 @@
             "de": "Monument Tchécoslovaques",
             "hu": "Monument Tchécoslovaques",
             "ro": "Monument Tchécoslovaques",
-            "en": "Monument Tchécoslovaques"
+            "en": "Monument Tchécoslovaques",
+            "fr": "Monument Tchécoslovaques"
           },
           "coords": [
             4.728124,
@@ -398,7 +438,8 @@
             "de": "Besuchen Sie das Monument Tchécoslovaques, eine bewegende Hommage an ausländische Freiwillige, und kombinieren Sie diesen Halt mit dem nahegelegenen Infanteriedenkmal.",
             "hu": "Látogasson el a Monument Tchécoslovaques-hez, amely a külföldi önkéntesek előtt tiszteleg, és kösse össze ezt a megállót a közeli gyalogsági emlékmű megtekintésével.",
             "ro": "Vizitați Monumentul Tchécoslovaques, un tribut emoționant adus voluntarilor străini, și combinați această oprire cu memorialul infanteriei din apropiere pentru context.",
-            "en": "Visit the Monument Tchécoslovaques, a poignant tribute to foreign volunteers who fought in the region, and combine this stop with the nearby infantry memorial for context."
+            "en": "Visit the Monument Tchécoslovaques, a poignant tribute to foreign volunteers who fought in the region, and combine this stop with the nearby infantry memorial for context.",
+            "fr": "Visitez le Monument Tchécoslovaques, un hommage poignant aux volontaires étrangers qui ont combattu dans la région, et combinez cet arrêt avec le mémorial d'infanterie à proximité pour le contexte."
           }
         },
         {
@@ -406,7 +447,8 @@
             "de": "Grab von Roland Garros",
             "hu": "Roland Garros sírja",
             "ro": "Mormântul lui Roland Garros",
-            "en": "Tomb of Roland Garros"
+            "en": "Tomb of Roland Garros",
+            "fr": "Tomb of Roland Garros"
           },
           "coords": [
             4.689443,
@@ -421,7 +463,8 @@
             "de": "Erweisen Sie am Grab von Roland Garros, dem berühmten Fliegerhelden auf dem Friedhof, die Ehre und suchen Sie nach dem einzigartigen Propellerdenkmal an seinem Grab.",
             "hu": "Tisztelegjen Roland Garros sírjánál, a híres pilóta hős nyughelyénél a helyi temetőben, és keresse meg a pontos sírját jelző különleges, propeller formájú emlékművet.",
             "ro": "Aduceți un omagiu la Mormântul lui Roland Garros, celebrul erou aviator din cimitirul local, și căutați monumentul unic în formă de elice care marchează mormântul său.",
-            "en": "Pay your respects at the Tomb of Roland Garros, the famous aviator hero resting in the local cemetery, and look for the unique propeller monument marking his exact grave."
+            "en": "Pay your respects at the Tomb of Roland Garros, the famous aviator hero resting in the local cemetery, and look for the unique propeller monument marking his exact grave.",
+            "fr": "Rendez hommage à la tombe de Roland Garros, le célèbre aviateur reposant dans le cimetière local, et cherchez le monument en forme d'hélice qui marque précisément sa sépulture."
           }
         }
       ],
@@ -429,7 +472,8 @@
         "de": "Beginnen Sie Ihre Radtour am Place Carnot, bevor Sie zur prächtigen Kirche Saint-Maurille fahren. Mittags radeln Sie zu den Denkmälern für die 7. Infanteriedivision und die tschechoslowakischen Freiwilligen. Verbringen Sie den Nachmittag am Grab von Roland Garros und denken Sie über die Geschichte der Luftfahrt nach. Beenden Sie den Tag mit einer ruhigen Fahrt ins Zentrum.",
         "hu": "Kezdje a kerékpártúrát a Place Carnot-n, majd tekerjen el a csodálatos Saint-Maurille-templomhoz. Délben látogasson el a 7. gyalogos hadosztály és a csehszlovák önkéntesek katonai emlékműveihez. Töltse a délutánt Roland Garros végső nyughelyénél, a hősies repüléstörténeten merengve. Zárja az aktív napot egy kellemes, belvárosba vezető kerékpározással.",
         "ro": "Începeți turul cu bicicleta în Place Carnot înainte de a merge la magnifica Biserică Saint-Maurille. La amiază, pedalați spre monumentele militare ce onorează Divizia 7 Infanterie și voluntarii cehoslovaci. Petreceți după-amiaza la mormântul lui Roland Garros, reflectând la istoria aviației. Încheiați ziua activă cu o plimbare ușoară înapoi spre centrul orașului.",
-        "en": "Begin your cycling tour at Place Carnot before riding to the magnificent Church of Saint-Maurille. By midday, pedal out to the powerful military monuments honoring the 7th Infantry Division and Czechoslovak volunteers. Spend your afternoon at the resting place of Roland Garros, reflecting on heroic aviation history. Wrap up your active day with a gentle ride back to the town center."
+        "en": "Begin your cycling tour at Place Carnot before riding to the magnificent Church of Saint-Maurille. By midday, pedal out to the powerful military monuments honoring the 7th Infantry Division and Czechoslovak volunteers. Spend your afternoon at the resting place of Roland Garros, reflecting on heroic aviation history. Wrap up your active day with a gentle ride back to the town center.",
+        "fr": "Commencez votre circuit à vélo sur la Place Carnot avant de rouler jusqu'à la magnifique Église Saint-Maurille. À midi, pédalez jusqu'aux puissants monuments militaires honorant la 7e division d'infanterie et les volontaires tchécoslovaques. Passez l'après-midi au lieu de repos de Roland Garros, en réfléchissant à l'histoire héroïque de l'aviation. Terminez votre journée active par une douce balade de retour au centre-ville."
       },
       "variants": {
         "rainy": {
@@ -437,7 +481,8 @@
             "de": "Radfahren im Regen in Vouziers erfordert gute wasserdichte Kleidung. Starten Sie am Hauptplatz, machen Sie eine Pause in der Kirche und fahren Sie zu den Denkmälern. Die Route zum Grab von Roland Garros kann sehr rutschig sein, bremsen Sie sanft auf nassen Wegen.",
             "hu": "Esőben kerékpározni Vouziers-ben jó vízálló felszerelést igényel. Kezdjen a főtéren, tartson száraz szünetet a templomban, majd tekerjen az emlékművekhez. A Roland Garros sírjához vezető út csúszós lehet, ezért nagyon óvatosan fékezzen a vizes utakon.",
             "ro": "Ciclismul prin ploaie în Vouziers necesită echipament impermeabil bun. Începeți în piața principală, faceți o pauză la biserică, apoi mergeți la monumente. Traseul spre mormântul lui Roland Garros poate fi alunecos, frânați ușor pe drumurile umede.",
-            "en": "Cycling Vouziers in the rain requires good waterproof gear. Start at the main square, take a dry break at the church, then ride to the military monuments. The route to Roland Garros's tomb can be slippery, so brake gently on wet cobblestones and paths."
+            "en": "Cycling Vouziers in the rain requires good waterproof gear. Start at the main square, take a dry break at the church, then ride to the military monuments. The route to Roland Garros's tomb can be slippery, so brake gently on wet cobblestones and paths.",
+            "fr": "Faire du vélo à Vouziers sous la pluie exige un bon équipement imperméable. Commencez sur la place principale, faites une pause au sec à l'église, puis roulez vers les monuments militaires. La route vers la tombe de Roland Garros peut être glissante, alors freinez doucement sur les pavés et les chemins mouillés."
           },
           "stops": [
             {
@@ -445,13 +490,15 @@
                 "de": "Place Carnot",
                 "hu": "Place Carnot",
                 "ro": "Place Carnot",
-                "en": "Place Carnot"
+                "en": "Place Carnot",
+                "fr": "Place Carnot"
               },
               "tip_5lang": {
                 "de": "Starten Sie hier Ihre nasse Fahrt; stellen Sie sicher, dass Ihre Regenjacke bis oben hin gut geschlossen ist, bevor Sie auf die extrem rutschigen Straßen fahren.",
                 "hu": "Kezdje itt a vizes tekerést; győződjön meg róla, hogy a vízálló kabátja teljesen be van cipzározva, mielőtt a rendkívül csúszós városi utcákra hajt.",
                 "ro": "Începeți plimbarea umedă aici; asigurați-vă că jacheta impermeabilă este complet închisă înainte de a ieși pe străzile extrem de alunecoase ale orașului.",
-                "en": "Start your wet ride here; make absolutely sure your waterproof jacket is fully zipped up before hitting the extremely slippery and wet town streets."
+                "en": "Start your wet ride here; make absolutely sure your waterproof jacket is fully zipped up before hitting the extremely slippery and wet town streets.",
+                "fr": "Commencez votre sortie humide ici ; assurez-vous absolument que votre veste imperméable est entièrement fermée avant d'affronter les rues de la ville extrêmement glissantes et mouillées."
               }
             },
             {
@@ -459,13 +506,15 @@
                 "de": "Kirche Saint-Maurille",
                 "hu": "Saint-Maurille-templom",
                 "ro": "Biserica Saint-Maurille",
-                "en": "Church of Saint-Maurille"
+                "en": "Church of Saint-Maurille",
+                "fr": "Église Saint-Maurille"
               },
               "tip_5lang": {
                 "de": "Machen Sie eine willkommene Pause vom Sattel und dem starken Regen, um das prächtige, völlig trockene Innere dieser großen historischen Kirche zu bewundern.",
                 "hu": "Tartson egy szívesen látott szünetet a nyeregtől és a heves esőtől, hogy megcsodálja e nagyszerű történelmi templom lenyűgöző, teljesen száraz belső terét.",
                 "ro": "Luați o pauză binevenită de la șa și de la ploaia abundentă pentru a admira interiorul magnific și complet uscat al acestei mari biserici istorice.",
-                "en": "Take a highly welcome break from the saddle and the heavy rain to admire the magnificent, completely dry interior of this grand historic church."
+                "en": "Take a highly welcome break from the saddle and the heavy rain to admire the magnificent, completely dry interior of this grand historic church.",
+                "fr": "Offrez-vous une pause la bienvenue de la selle et de la forte pluie pour admirer l'intérieur magnifique et complètement sec de cette grande église historique."
               }
             },
             {
@@ -473,13 +522,15 @@
                 "de": "Gloire à la 7 Division d'Infanterie",
                 "hu": "Gloire à la 7 Division d'Infanterie",
                 "ro": "Gloire à la 7 Division d'Infanterie",
-                "en": "Gloire à la 7 Division d'Infanterie"
+                "en": "Gloire à la 7 Division d'Infanterie",
+                "fr": "Gloire à la 7 Division d'Infanterie"
               },
               "tip_5lang": {
                 "de": "Das Denkmal steht feierlich im strömenden Regen; schalten Sie Ihre Fahrradlichter für eine deutlich bessere Sicht auf den düsteren Landstraßen ein.",
                 "hu": "Az emlékmű ünnepélyesen áll a szakadó esőben; kapcsolja be a kerékpár lámpáit a lényegesen jobb látási viszonyok érdekében a borús vidéki utakon.",
                 "ro": "Monumentul stă solemn în ploaia torențială; aprindeți luminile bicicletei pentru o vizibilitate mult mai bună pe drumurile de țară întunecate.",
-                "en": "The monument stands perfectly solemn in the pouring rain; make sure to keep your bike lights on for much better visibility on the gloomy country roads."
+                "en": "The monument stands perfectly solemn in the pouring rain; make sure to keep your bike lights on for much better visibility on the gloomy country roads.",
+                "fr": "Le monument reste parfaitement solennel sous la pluie battante ; pensez à laisser vos lumières de vélo allumées pour une bien meilleure visibilité sur les routes rurales sombres."
               }
             },
             {
@@ -487,13 +538,15 @@
                 "de": "Monument Tchécoslovaques",
                 "hu": "Monument Tchécoslovaques",
                 "ro": "Monument Tchécoslovaques",
-                "en": "Monument Tchécoslovaques"
+                "en": "Monument Tchécoslovaques",
+                "fr": "Monument Tchécoslovaques"
               },
               "tip_5lang": {
                 "de": "Ein kurzer Halt zu Ehren der Gefallenen; die umliegenden Wege werden bei Regen sehr schlammig, achten Sie also gut auf Ihre Reifen und festen Stand.",
                 "hu": "Egy gyors megálló az elesettek tiszteletére; a környező ösvények nagyon sarasak lesznek az esőben, ezért nagyon vigyázzon a gumikra és a stabil lépésekre.",
                 "ro": "O scurtă oprire pentru a onora eroii; potecile din jur devin foarte noroioase pe ploaie, așa că aveți mare grijă la anvelope și la stabilitatea pașilor.",
-                "en": "A quick stop to officially honor the fallen; the surrounding dirt paths get extremely muddy in the rain, so carefully mind your bike tires and footing."
+                "en": "A quick stop to officially honor the fallen; the surrounding dirt paths get extremely muddy in the rain, so carefully mind your bike tires and footing.",
+                "fr": "Un arrêt rapide pour honorer officiellement les morts ; les chemins de terre environnants deviennent extrêmement boueux par temps de pluie, alors surveillez soigneusement vos pneus et votre position."
               }
             },
             {
@@ -501,13 +554,15 @@
                 "de": "Grab von Roland Garros",
                 "hu": "Roland Garros sírja",
                 "ro": "Mormântul lui Roland Garros",
-                "en": "Tomb of Roland Garros"
+                "en": "Tomb of Roland Garros",
+                "fr": "Tomb of Roland Garros"
               },
               "tip_5lang": {
                 "de": "Kommen Sie vorsichtig am Friedhof an; nasses Laub macht die letzte Strecke extrem rutschig für Fahrräder, also bremsen Sie besonders sanft und langsam.",
                 "hu": "Óvatosan érkezzen a temetőbe; a nedves őszi levelek rendkívül csúszóssá teszik az utolsó szakaszt a kerékpárok számára, ezért különösen finoman és lassan fékezzen.",
                 "ro": "Ajungeți la cimitir cu multă grijă; frunzele ude fac ultima porțiune extrem de alunecoasă pentru biciclete, așa că frânați deosebit de lin și încet.",
-                "en": "Arrive at the cemetery with great care; wet fallen leaves make the final stretch extremely slippery for bikes, so brake especially smoothly and very slowly."
+                "en": "Arrive at the cemetery with great care; wet fallen leaves make the final stretch extremely slippery for bikes, so brake especially smoothly and very slowly.",
+                "fr": "Arrivez au cimetière avec grande prudence ; les feuilles mouillées rendent la dernière portion extrêmement glissante pour les vélos, alors freinez tout particulièrement en douceur et très lentement."
               }
             }
           ]
@@ -517,7 +572,8 @@
             "de": "Eine Winterradtour in Vouziers ist frisch und lohnend. Frostige Morgenstunden am Platz weichen dem kalten Stein der Kirche. Die Fahrt zu den Denkmälern erfordert Thermokleidung und dicke Handschuhe. Beenden Sie die Route aus Sicherheitsgründen vor der Dunkelheit um 17 Uhr.",
             "hu": "A téli kerékpártúra frissítő élmény. A fagyos reggelt a templom hideg kövei váltják. Az emlékművekhez vezető úton meleg aláöltözet és vastag kesztyű szükséges. Biztonsági okokból mindenképpen fejezze be az utat a 17 órás sötétedés előtt.",
             "ro": "O plimbare de iarnă cu bicicleta e revigorantă. Diminețile geroase fac loc pietrei reci a bisericii. Drumul spre monumente necesită straturi termice și mănuși groase. Terminați traseul înainte de întunericul de la ora 17:00 pentru siguranță maximă.",
-            "en": "A winter bike tour in Vouziers is brisk and rewarding. Frosty mornings at the square give way to the cold stone of the historic church. The ride to the monuments requires thermal layers and thick gloves. Finish the route before the 5 PM darkness sets in for safety."
+            "en": "A winter bike tour in Vouziers is brisk and rewarding. Frosty mornings at the square give way to the cold stone of the historic church. The ride to the monuments requires thermal layers and thick gloves. Finish the route before the 5 PM darkness sets in for safety.",
+            "fr": "Une balade à vélo hivernale à Vouziers est vive et gratifiante. Les matins givrants sur la place laissent place à la pierre froide de l'église historique. La route vers les monuments exige des couches thermiques et des gants épais. Terminez l'itinéraire avant l'obscurité de 17h pour des raisons de sécurité."
           },
           "stops": [
             {
@@ -525,13 +581,15 @@
                 "de": "Place Carnot",
                 "hu": "Place Carnot",
                 "ro": "Place Carnot",
-                "en": "Place Carnot"
+                "en": "Place Carnot",
+                "fr": "Place Carnot"
               },
               "tip_5lang": {
                 "de": "Starten Sie Ihre eiskalte Fahrt im ruhigen Zentrum; dicke, winddichte Radhandschuhe sind ein absolutes Muss, um den kalten Lenker sicher zu greifen.",
                 "hu": "Kezdje a jéghideg tekerést a csendes központban; a vastag, szélálló kerékpáros kesztyű abszolút elengedhetetlen a hideg kormány biztonságos fogásához.",
                 "ro": "Începeți plimbarea rece ca gheața în centrul liniștit; mănușile groase și rezistente la vânt sunt absolut obligatorii pentru a prinde sigur ghidonul rece.",
-                "en": "Kick off your freezing cold ride in the quiet town center; thick, windproof cycling gloves are an absolute must for securely gripping the cold handlebars."
+                "en": "Kick off your freezing cold ride in the quiet town center; thick, windproof cycling gloves are an absolute must for securely gripping the cold handlebars.",
+                "fr": "Lancez votre sortie glaciale au centre-ville tranquille ; des gants de cyclisme épais et coupe-vent sont absolument indispensables pour tenir fermement le guidon froid."
               }
             },
             {
@@ -539,13 +597,15 @@
                 "de": "Kirche Saint-Maurille",
                 "hu": "Saint-Maurille-templom",
                 "ro": "Biserica Saint-Maurille",
-                "en": "Church of Saint-Maurille"
+                "en": "Church of Saint-Maurille",
+                "fr": "Église Saint-Maurille"
               },
               "tip_5lang": {
                 "de": "Treten Sie kurz ein, um die Architektur zu bewundern und dem beißenden Winterwind für eine Weile zu entfliehen, um dringend benötigte Körperwärme zurückzugewinnen.",
                 "hu": "Lépjen be röviden, hogy megcsodálja az építészetet, és meneküljön el egy időre a harapós téli szél elől, hogy visszanyerje a nagyon szükséges testhőt.",
                 "ro": "Intrați scurt pentru a aprecia arhitectura și pentru a scăpa o vreme de vântul tăios de iarnă, recăpătând astfel căldura corporală atât de necesară.",
-                "en": "Step inside briefly to appreciate the architecture and escape the biting winter wind for a short while to actively regain some much-needed body warmth."
+                "en": "Step inside briefly to appreciate the architecture and escape the biting winter wind for a short while to actively regain some much-needed body warmth.",
+                "fr": "Entrez brièvement pour apprécier l'architecture et échapper un moment au vent hivernal cinglant afin de reprendre un peu de chaleur corporelle nécessaire."
               }
             },
             {
@@ -553,13 +613,15 @@
                 "de": "Gloire à la 7 Division d'Infanterie",
                 "hu": "Gloire à la 7 Division d'Infanterie",
                 "ro": "Gloire à la 7 Division d'Infanterie",
-                "en": "Gloire à la 7 Division d'Infanterie"
+                "en": "Gloire à la 7 Division d'Infanterie",
+                "fr": "Gloire à la 7 Division d'Infanterie"
               },
               "tip_5lang": {
                 "de": "Das Schlachtfelddenkmal ist in der tiefen Winterkälte karg und bewegend; bewegen Sie beim Halten weiterhin Ihre Beine, um die Körperwärme zu erhalten.",
                 "hu": "A csatatéri emlékmű zord és megható a mély téli hidegben; megálláskor is mozgassa folyamatosan a lábát, hogy megőrizze a létfontosságú testhőmérsékletét.",
                 "ro": "Monumentul este auster și emoționant în frigul adânc al iernii; continuați să vă mișcați picioarele la oprire pentru a menține căldura corporală esențială.",
-                "en": "The battlefield monument is stark and moving in the deep winter cold; make sure to keep moving your legs when stopped to maintain essential body heat."
+                "en": "The battlefield monument is stark and moving in the deep winter cold; make sure to keep moving your legs when stopped to maintain essential body heat.",
+                "fr": "Le monument du champ de bataille est sobre et émouvant par grand froid ; pensez à remuer les jambes quand vous vous arrêtez pour maintenir la chaleur corporelle essentielle."
               }
             },
             {
@@ -567,13 +629,15 @@
                 "de": "Monument Tchécoslovaques",
                 "hu": "Monument Tchécoslovaques",
                 "ro": "Monument Tchécoslovaques",
-                "en": "Monument Tchécoslovaques"
+                "en": "Monument Tchécoslovaques",
+                "fr": "Monument Tchécoslovaques"
               },
               "tip_5lang": {
                 "de": "Halten Sie kurz an diesem feierlichen Ort; die frostige, ungeschützte Luft macht die historische Atmosphäre hier noch deutlich tiefgründiger und kälter.",
                 "hu": "Álljon meg röviden ezen az ünnepélyes helyen; a fagyos, védtelen levegő még határozottabban mélyebbé és hidegebbé teszi az itteni történelmi hangulatot.",
                 "ro": "Opriți-vă scurt în acest loc solemn; aerul înghețat și neprotejat face ca atmosfera istorică de aici să fie și mai profundă și vizibil mai rece.",
-                "en": "Pause briefly at this solemn site; the completely frosty, open air makes the historical atmosphere here feel even more profoundly moving and chilling."
+                "en": "Pause briefly at this solemn site; the completely frosty, open air makes the historical atmosphere here feel even more profoundly moving and chilling.",
+                "fr": "Faites une brève pause à ce site solennel ; l'air complètement givré et ouvert rend l'atmosphère historique encore plus poignante et glaciale."
               }
             },
             {
@@ -581,13 +645,15 @@
                 "de": "Grab von Roland Garros",
                 "hu": "Roland Garros sírja",
                 "ro": "Mormântul lui Roland Garros",
-                "en": "Tomb of Roland Garros"
+                "en": "Tomb of Roland Garros",
+                "fr": "Tomb of Roland Garros"
               },
               "tip_5lang": {
                 "de": "Beenden Sie Ihre kühle Fahrt am Grab; überprüfen Sie sorgfältig, ob Ihre starken Fahrradlichter funktionieren, da die frühe Winterdämmerung sehr schnell naht.",
                 "hu": "Zárja a fagyos tekerést a sírnál; gondosan ellenőrizze, hogy az erős kerékpár lámpái működnek-e, mivel a korai téli szürkület nagyon gyorsan közeledik.",
                 "ro": "Încheiați plimbarea rece la mormânt; verificați cu atenție dacă luminile puternice ale bicicletei funcționează bine, deoarece amurgul de iarnă se apropie rapid.",
-                "en": "Conclude your chilly ride at the grave; carefully ensure your bright bike lights work perfectly well as the early winter dusk approaches extremely fast."
+                "en": "Conclude your chilly ride at the grave; carefully ensure your bright bike lights work perfectly well as the early winter dusk approaches extremely fast.",
+                "fr": "Concluez votre sortie fraîche au tombeau ; assurez-vous soigneusement que vos phares de vélo fonctionnent parfaitement car le crépuscule hivernal arrive très vite."
               }
             }
           ]
@@ -607,7 +673,8 @@
             "de": "Place Carnot",
             "hu": "Place Carnot",
             "ro": "Place Carnot",
-            "en": "Place Carnot"
+            "en": "Place Carnot",
+            "fr": "Place Carnot"
           },
           "coords": [
             4.700996,
@@ -622,7 +689,8 @@
             "de": "Bewundern Sie die lebhafte Atmosphäre der Place Carnot, dem historischen Herzen der Stadt, und machen Sie unbedingt Halt in einem lokalen Café für ein frisches Gebäck.",
             "hu": "Csodálja meg a Place Carnot élénk hangulatát, a város történelmi szívét, és mindenképpen térjen be egy helyi kávézóba egy friss süteményért, mielőtt tovább sétál.",
             "ro": "Admirați atmosfera vibrantă din Place Carnot, inima istorică a orașului, și asigurați-vă că vă opriți la o cafenea locală pentru o patiserie proaspătă înainte de a continua.",
-            "en": "Admire the vibrant atmosphere of Place Carnot, the historical heart of the city, and make sure to stop by a local café to grab a fresh pastry before continuing your walk."
+            "en": "Admire the vibrant atmosphere of Place Carnot, the historical heart of the city, and make sure to stop by a local café to grab a fresh pastry before continuing your walk.",
+            "fr": "Admirez l'atmosphère vivante de la Place Carnot, cœur historique de la ville, et n'oubliez pas de vous arrêter dans un café local pour prendre une pâtisserie fraîche avant de poursuivre votre promenade."
           }
         },
         {
@@ -630,7 +698,8 @@
             "de": "Butte de Théline",
             "hu": "Butte de Théline",
             "ro": "Butte de Théline",
-            "en": "Butte de Théline"
+            "en": "Butte de Théline",
+            "fr": "Butte de Théline"
           },
           "coords": [
             4.667641,
@@ -645,7 +714,8 @@
             "de": "Wandern Sie auf die historische Butte de Théline, um Überreste strategischer Kriegspositionen zu erkunden, und tragen Sie festes Schuhwerk für das unebene Gelände.",
             "hu": "Túrázzon fel a történelmi Butte de Théline-re, hogy felfedezze a stratégiai katonai pozíciók maradványait, és viseljen túracipőt az egyenetlen, füves terep miatt.",
             "ro": "Urcați pe istorica Butte de Théline pentru a explora rămășițele pozițiilor de război strategice și purtați încălțăminte robustă pentru terenul cu iarbă denivelat.",
-            "en": "Hike up the historical Butte de Théline to explore remnants of strategic wartime positions, and wear sturdy shoes to safely navigate the uneven grassy terrain at the top."
+            "en": "Hike up the historical Butte de Théline to explore remnants of strategic wartime positions, and wear sturdy shoes to safely navigate the uneven grassy terrain at the top.",
+            "fr": "Grimpez la Butte de Théline historique pour explorer les vestiges de positions stratégiques de guerre, et portez des chaussures solides pour naviguer en toute sécurité le terrain herbeux et inégal au sommet."
           }
         },
         {
@@ -653,7 +723,8 @@
             "de": "Église Notre-Dame",
             "hu": "Église Notre-Dame",
             "ro": "Église Notre-Dame",
-            "en": "Église Notre-Dame"
+            "en": "Église Notre-Dame",
+            "fr": "Église Notre-Dame"
           },
           "coords": [
             4.727089,
@@ -668,7 +739,8 @@
             "de": "Bewundern Sie die markante Silhouette der Église Notre-Dame mit ihren verschiedenen Architekturstilen und besuchen Sie sie am späten Vormittag für das beste Sonnenlicht.",
             "hu": "Csodálja meg az Église Notre-Dame feltűnő sziluettjét, amely ötvözi a különböző építészeti stílusokat, és látogasson el késő délelőtt, hogy lássa a napfényes belső teret.",
             "ro": "Admirați silueta uimitoare a Bisericii Notre-Dame, combinând stiluri arhitecturale distincte, și vizitați târziu dimineața pentru a vedea interiorul iluminat de soare.",
-            "en": "Admire the striking silhouette of Église Notre-Dame, blending distinct architectural styles, and visit during the late morning to see the interior illuminated by sunlight."
+            "en": "Admire the striking silhouette of Église Notre-Dame, blending distinct architectural styles, and visit during the late morning to see the interior illuminated by sunlight.",
+            "fr": "Admirez la silhouette frappante de l'Église Notre-Dame, mêlant des styles architecturaux distincts, et visitez-la en fin de matinée pour voir l'intérieur illuminé par le soleil."
           }
         },
         {
@@ -676,7 +748,8 @@
             "de": "Gloire à la 7 Division d'Infanterie",
             "hu": "Gloire à la 7 Division d'Infanterie",
             "ro": "Gloire à la 7 Division d'Infanterie",
-            "en": "Gloire à la 7 Division d'Infanterie"
+            "en": "Gloire à la 7 Division d'Infanterie",
+            "fr": "Gloire à la 7 Division d'Infanterie"
           },
           "coords": [
             4.727033,
@@ -691,7 +764,8 @@
             "de": "Stehen Sie vor dem Denkmal Gloire à la 7 Division d'Infanterie für tapfere Soldaten des Ersten Weltkriegs und lesen Sie die eingravierten Namen, um die Opfer zu ehren.",
             "hu": "Álljon meg a Gloire à la 7 Division d'Infanterie emlékmű előtt, amely a hős katonáknak állít emléket, és olvassa el a neveket a helyi áldozatok mélyebb megértéséhez.",
             "ro": "Stați în fața monumentului Gloire à la 7 Division d'Infanterie, ce onorează soldații curajoși, și citiți cu atenție numele înscrise pentru a înțelege sacrificiul local.",
-            "en": "Stand before the monument Gloire à la 7 Division d'Infanterie, which honors brave WWI soldiers, and carefully read the inscribed names to understand the local sacrifice."
+            "en": "Stand before the monument Gloire à la 7 Division d'Infanterie, which honors brave WWI soldiers, and carefully read the inscribed names to understand the local sacrifice.",
+            "fr": "Tenez-vous devant le monument Gloire à la 7e Division d'Infanterie, qui rend hommage aux courageux soldats de la Première Guerre mondiale, et lisez attentivement les noms gravés pour comprendre le sacrifice local."
           }
         },
         {
@@ -699,7 +773,8 @@
             "de": "Monument Tchécoslovaques",
             "hu": "Monument Tchécoslovaques",
             "ro": "Monument Tchécoslovaques",
-            "en": "Monument Tchécoslovaques"
+            "en": "Monument Tchécoslovaques",
+            "fr": "Monument Tchécoslovaques"
           },
           "coords": [
             4.728124,
@@ -714,7 +789,8 @@
             "de": "Besuchen Sie das Monument Tchécoslovaques, eine bewegende Hommage an ausländische Freiwillige, und kombinieren Sie diesen Halt mit dem nahegelegenen Infanteriedenkmal.",
             "hu": "Látogasson el a Monument Tchécoslovaques-hez, amely a külföldi önkéntesek előtt tiszteleg, és kösse össze ezt a megállót a közeli gyalogsági emlékmű megtekintésével.",
             "ro": "Vizitați Monumentul Tchécoslovaques, un tribut emoționant adus voluntarilor străini, și combinați această oprire cu memorialul infanteriei din apropiere pentru context.",
-            "en": "Visit the Monument Tchécoslovaques, a poignant tribute to foreign volunteers who fought in the region, and combine this stop with the nearby infantry memorial for context."
+            "en": "Visit the Monument Tchécoslovaques, a poignant tribute to foreign volunteers who fought in the region, and combine this stop with the nearby infantry memorial for context.",
+            "fr": "Visitez le Monument Tchécoslovaques, un hommage poignant aux volontaires étrangers qui ont combattu dans la région, et combinez cet arrêt avec le mémorial d'infanterie à proximité pour le contexte."
           }
         },
         {
@@ -722,7 +798,8 @@
             "de": "Kirche Saint-Maurille",
             "hu": "Saint-Maurille-templom",
             "ro": "Biserica Saint-Maurille",
-            "en": "Church of Saint-Maurille"
+            "en": "Church of Saint-Maurille",
+            "fr": "Église Saint-Maurille"
           },
           "coords": [
             4.704212,
@@ -737,7 +814,8 @@
             "de": "Bestaunen Sie das prächtige Renaissanceportal der Kirche Saint-Maurille, ein beeindruckendes Meisterwerk, und kommen Sie früh, um das schöne Morgenlicht zu genießen.",
             "hu": "Csodálja meg a Saint-Maurille-templom csodálatos reneszánsz portálját, egy lenyűgöző építészeti remekművet, és érkezzen korán, hogy élvezhesse a gyönyörű reggeli fényeket.",
             "ro": "Minunați-vă de magnificul portal renascentist al Bisericii Saint-Maurille, o capodoperă arhitecturală uimitoare, și sosiți devreme pentru a vă bucura de lumina dimineții.",
-            "en": "Marvel at the magnificent Renaissance portal of the Church of Saint-Maurille, a stunning architectural masterpiece, and arrive early to enjoy the beautiful morning light."
+            "en": "Marvel at the magnificent Renaissance portal of the Church of Saint-Maurille, a stunning architectural masterpiece, and arrive early to enjoy the beautiful morning light.",
+            "fr": "Émerveillez-vous devant le magnifique portail renaissance de l'Église Saint-Maurille, un chef-d'œuvre architectural, et venez tôt pour profiter de la belle lumière du matin."
           }
         }
       ],
@@ -745,7 +823,8 @@
         "de": "Fahren Sie zuerst zum Place Carnot für einen Kaffee, dann zur historischen Butte de Théline, um die Höhen zu erkunden. Mittags besuchen Sie die schöne Église Notre-Dame und die nahegelegenen Kriegsdenkmäler der Infanterie und der tschechoslowakischen Truppen. Beenden Sie Ihre Tour an der Kirche Saint-Maurille und genießen Sie ihre Renaissance-Details.",
         "hu": "Először hajtson a Place Carnot-hoz egy gyors kávéra, majd vegye az irányt a történelmi Butte de Théline felé, hogy felfedezze a festői magaslatokat. Délben látogasson el az Église Notre-Dame-hoz és a közeli katonai emlékművekhez. Fejezze be az autós túrát a lenyűgöző Saint-Maurille-templomnál, megcsodálva annak finoman kidolgozott reneszánsz részleteit.",
         "ro": "Conduceți spre Place Carnot pentru o cafea, apoi mergeți la istorica Butte de Théline. La amiază vizitați frumoasa Biserică Notre-Dame și memorialele de război din apropiere dedicate infanteriei și forțelor cehoslovace. Încheiați turul la Biserica Saint-Maurille, bucurându-vă de detaliile sale renascentiste.",
-        "en": "Drive first to Place Carnot for a quick coffee, then head out to the historic Butte de Théline to explore the scenic heights. Midday involves visiting the beautiful Église Notre-Dame and the nearby war memorials dedicated to the infantry and Czechoslovak forces. Conclude your driving tour at the stunning Church of Saint-Maurille, soaking in its intricate Renaissance details."
+        "en": "Drive first to Place Carnot for a quick coffee, then head out to the historic Butte de Théline to explore the scenic heights. Midday involves visiting the beautiful Église Notre-Dame and the nearby war memorials dedicated to the infantry and Czechoslovak forces. Conclude your driving tour at the stunning Church of Saint-Maurille, soaking in its intricate Renaissance details.",
+        "fr": "Conduisez d'abord jusqu'à la Place Carnot pour un café rapide, puis dirigez-vous vers la Butte de Théline historique pour explorer les hauteurs pittoresques. Le midi, visitez la belle Église Notre-Dame et les monuments commémoratifs proches dédiés à l'infanterie et aux forces tchécoslovaques. Concluez votre circuit en voiture à la splendide Église Saint-Maurille, en vous imprégnant de ses détails renaissants complexes."
       },
       "variants": {
         "rainy": {
@@ -753,7 +832,8 @@
             "de": "Die Fahrt durch Vouziers ist ideal für Regentage. Fahren Sie zwischen dem Platz, historischen Stätten und Kirchen, während die Heizung läuft. Die Denkmäler sind mit minimalem Gehen erreichbar. Bringen Sie einen Regenschirm für kurze Sprints vom Auto zu den Sehenswürdigkeiten mit.",
             "hu": "Vouziers autós bejárása ideális esős napokon. Ugráljon a főtér, a történelmi helyszínek és a templomok között, miközben folyamatosan fűt az autóban. Az emlékművek minimális sétával elérhetők. Legyen kéznél egy esernyő a parkolóból a látványosságokig tartó rövid sprintekhez.",
             "ro": "Să conduci prin Vouziers este ideal pentru o zi ploioasă. Mutați-vă între piața centrală, situri și biserici cu încălzirea pornită. Monumentele sunt accesibile cu mers minim. Luați o umbrelă pentru scurtele fugi de la mașina parcată la obiectivele turistice majore.",
-            "en": "Driving through Vouziers is ideal for a rainy day. Hop between the central square, historical sites, and grand churches while keeping the car's heater on. The monuments are accessible with minimal walking. Bring an umbrella for the short dashes from your parked vehicle to the sights."
+            "en": "Driving through Vouziers is ideal for a rainy day. Hop between the central square, historical sites, and grand churches while keeping the car's heater on. The monuments are accessible with minimal walking. Bring an umbrella for the short dashes from your parked vehicle to the sights.",
+            "fr": "Rouler à travers Vouziers est idéal par temps de pluie. Faites des sauts entre la place centrale, les sites historiques et les grandes églises tout en gardant le chauffage de la voiture allumé. Les monuments sont accessibles avec peu de marche. Prenez un parapluie pour les courts trajets entre votre voiture garée et les sites."
           },
           "stops": [
             {
@@ -761,13 +841,15 @@
                 "de": "Place Carnot",
                 "hu": "Place Carnot",
                 "ro": "Place Carnot",
-                "en": "Place Carnot"
+                "en": "Place Carnot",
+                "fr": "Place Carnot"
               },
               "tip_5lang": {
                 "de": "Betrachten Sie den belebten Platz aus der trockenen und warmen Bequemlichkeit Ihres Autos und steigen Sie nur kurz mit einem Schirm aus für schnelle Fotos.",
                 "hu": "Nézze meg a nyüzsgő teret autója száraz és meleg kényelméből, majd lépjen ki csak röviden egy esernyővel, hogy gyorsan készítsen néhány nagyszerű fotót.",
                 "ro": "Priviți piața plină de viață din confortul uscat și cald al mașinii, ieșind doar foarte scurt cu o umbrelă pentru a face câteva fotografii rapide și bune.",
-                "en": "View the bustling square from the perfectly dry and warm comfort of your car, stepping out only briefly with a sturdy umbrella to take some quick photos."
+                "en": "View the bustling square from the perfectly dry and warm comfort of your car, stepping out only briefly with a sturdy umbrella to take some quick photos.",
+                "fr": "Observez la place animée depuis le confort parfaitement sec et chaud de votre voiture, en ne descendant que brièvement avec un parapluie solide pour prendre quelques photos rapides."
               }
             },
             {
@@ -775,13 +857,15 @@
                 "de": "Butte de Théline",
                 "hu": "Butte de Théline",
                 "ro": "Butte de Théline",
-                "en": "Butte de Théline"
+                "en": "Butte de Théline",
+                "fr": "Butte de Théline"
               },
               "tip_5lang": {
                 "de": "Fahren Sie direkt zu diesem historischen Ort; der Regen sorgt für eine fantastische Stimmung, aber Vorsicht, der unbefestigte Boden draußen wird sehr schlammig sein.",
                 "hu": "Vezessen közvetlenül ehhez a történelmi helyhez; az eső fantasztikus hangulatot teremt, de vigyázzon, a burkolatlan talaj kint rendkívül saras lesz a cipőjének.",
                 "ro": "Conduceți direct la acest loc istoric; ploaia creează o atmosferă fantastică, dar atenție că solul nepavat de afară va fi extrem de noroios pentru pantofi.",
-                "en": "Drive directly up to this historical spot; the rain adds a fantastic moody atmosphere, but beware that the unpaved ground outside will be very muddy for shoes."
+                "en": "Drive directly up to this historical spot; the rain adds a fantastic moody atmosphere, but beware that the unpaved ground outside will be very muddy for shoes.",
+                "fr": "Montez directement en voiture jusqu'à ce site historique ; la pluie ajoute une atmosphère formidablement mélancolique, mais attention : le sol non goudronné à l'extérieur sera très boueux pour les chaussures."
               }
             },
             {
@@ -789,13 +873,15 @@
                 "de": "Église Notre-Dame",
                 "hu": "Église Notre-Dame",
                 "ro": "Église Notre-Dame",
-                "en": "Église Notre-Dame"
+                "en": "Église Notre-Dame",
+                "fr": "Église Notre-Dame"
               },
               "tip_5lang": {
                 "de": "Parken Sie ganz in der Nähe und eilen Sie schnell hinein, um das sehr friedliche, völlig trockene Heiligtum abseits der schweren Regengüsse zu genießen.",
                 "hu": "Parkoljon le egészen közel, és siessen be gyorsan, hogy élvezze a nagyon békés, teljesen száraz szentélyt, biztonságban távol a kinti heves felhőszakadásoktól.",
                 "ro": "Parcați foarte aproape și fugiți rapid înăuntru pentru a vă bucura de sanctuarul foarte pașnic și complet uscat, în siguranță departe de ploile torențiale.",
-                "en": "Park very close by and dash quickly inside to enjoy the very peaceful, completely dry sanctuary safely away from the heavy and persistent downpours outside."
+                "en": "Park very close by and dash quickly inside to enjoy the very peaceful, completely dry sanctuary safely away from the heavy and persistent downpours outside.",
+                "fr": "Garez-vous tout près et courez rapidement à l'intérieur pour profiter du sanctuaire paisible et complètement sec, bien à l'abri des fortes et persistantes averses extérieures."
               }
             },
             {
@@ -803,13 +889,15 @@
                 "de": "Gloire à la 7 Division d'Infanterie",
                 "hu": "Gloire à la 7 Division d'Infanterie",
                 "ro": "Gloire à la 7 Division d'Infanterie",
-                "en": "Gloire à la 7 Division d'Infanterie"
+                "en": "Gloire à la 7 Division d'Infanterie",
+                "fr": "Gloire à la 7e Division d'Infanterie"
               },
               "tip_5lang": {
                 "de": "Die Fahrt zu diesem Denkmal ist auch bei Regen extrem einfach; kurbeln Sie einfach das Fenster für einen schnellen, trockenen Blick und ein perfektes Foto herunter.",
                 "hu": "Az emlékműhöz vezető út még esőben is rendkívül egyszerű; csak tekerje le az ablakot egy gyors, kényelmes, száraz pillantásért és egy tökéletes fotóért.",
                 "ro": "Drumul spre acest monument este extrem de ușor chiar și pe ploaie; pur și simplu coborâți geamul pentru o privire rapidă, uscată și o fotografie perfectă.",
-                "en": "The short drive to this monument is extremely easy even in the rain; simply roll down your car window for a quick, dry look and to snap a perfect photo."
+                "en": "The short drive to this monument is extremely easy even in the rain; simply roll down your car window for a quick, dry look and to snap a perfect photo.",
+                "fr": "La courte route jusqu'à ce monument est extrêmement facile même sous la pluie ; baissez simplement la fenêtre de votre voiture pour un aperçu rapide et sec et prendre une photo parfaite."
               }
             },
             {
@@ -817,13 +905,15 @@
                 "de": "Monument Tchécoslovaques",
                 "hu": "Monument Tchécoslovaques",
                 "ro": "Monument Tchécoslovaques",
-                "en": "Monument Tchécoslovaques"
+                "en": "Monument Tchécoslovaques",
+                "fr": "Monument Tchécoslovaque"
               },
               "tip_5lang": {
                 "de": "Ein kurzer Halt auf Ihrer Regenfahrt; halten Sie Ihren Regenmantel griffbereit für den kurzen, aber sehr nassen Weg zum beeindruckenden Gedenkstein im Freien.",
                 "hu": "Rövid megálló az esős vezetés során; tartsa a keze ügyében az esőkabátját a rövid, de nagyon nedves sétához a lenyűgöző szabadtéri emlékkőhöz a sárban.",
                 "ro": "O scurtă oprire în cursa ploioasă; țineți pelerina la îndemână pentru scurta, dar foarte umeda plimbare până la impresionanta piatră memorială în aer liber.",
-                "en": "A brief stop on your rainy drive; keep your waterproof raincoat very handy for the short, but quite wet walk to view the impressive memorial stone outside."
+                "en": "A brief stop on your rainy drive; keep your waterproof raincoat very handy for the short, but quite wet walk to view the impressive memorial stone outside.",
+                "fr": "Arrêt bref lors de votre trajet pluvieux ; gardez votre imperméable très à portée de main pour la courte mais très humide promenade vers la imposante pierre commémorative extérieure."
               }
             },
             {
@@ -831,13 +921,15 @@
                 "de": "Kirche Saint-Maurille",
                 "hu": "Saint-Maurille-templom",
                 "ro": "Biserica Saint-Maurille",
-                "en": "Church of Saint-Maurille"
+                "en": "Church of Saint-Maurille",
+                "fr": "Église Saint-Maurille"
               },
               "tip_5lang": {
                 "de": "Beenden Sie Ihre Tour am faszinierenden Renaissance-Portal, ein wirklich großartiger und trockener Innenabschluss für einen ansonsten sehr nassen Fahrtag.",
                 "hu": "Zárja a túrát a lenyűgöző reneszánsz portál csodálatával, amely egy igazán nagyszerű és teljesen száraz beltéri befejezés egy egyébként nagyon esős autós napon.",
                 "ro": "Încheiați turul la fascinantul portal renascentist, o concluzie interioară cu adevărat excelentă și uscată pentru o zi de condus altfel foarte ploioasă.",
-                "en": "End your sightseeing tour marveling at the Renaissance portal, a truly great and completely dry indoor conclusion to an otherwise very wet driving day."
+                "en": "End your sightseeing tour marveling at the Renaissance portal, a truly great and completely dry indoor conclusion to an otherwise very wet driving day.",
+                "fr": "Terminez votre visite en admirant le portail Renaissance, une conclusion intérieure vraiment superbe et complètement sèche à une journée de route sinon très mouillée."
               }
             }
           ]
@@ -847,7 +939,8 @@
             "de": "Eine Winterfahrt in Vouziers bietet wunderbare Wärme und Komfort. Erkunden Sie den Platz und die Butte de Théline von gemütlich beheizten Sitzen aus. Denkmäler und Kirchen sind wunderschön karg gegen den Frost. Straßen können eisig sein, fahren Sie vorsichtig und beenden Sie die Tour vor 17 Uhr.",
             "hu": "Egy téli autózás Vouziers-ben csodálatos meleget és kényelmet nyújt. Fedezze fel a főteret és a Butte de Théline-t a kényelmesen fűtött ülésekből. Az emlékművek gyönyörűen zordak a fagyban. Az utak jegesek lehetnek, vezessen óvatosan, és fejezze be a városnézést a 17 órás sötétedés előtt.",
             "ro": "O plimbare de iarnă cu mașina oferă căldură minunată și confort. Explorați piața și Butte de Théline de pe scaunele confortabil încălzite. Monumentele sunt frumos de austere în ger. Drumurile pot fi înghețate, conduceți atent și terminați vizita înainte de apusul de la ora 17:00.",
-            "en": "A winter drive in Vouziers offers wonderful warmth and comfort. Explore the town square and Butte de Théline from cozy heated car seats. The monuments and churches are beautifully stark against the frost. Roads can be icy, so drive carefully and plan to finish your sightseeing before the 5 PM sunset."
+            "en": "A winter drive in Vouziers offers wonderful warmth and comfort. Explore the town square and Butte de Théline from cozy heated car seats. The monuments and churches are beautifully stark against the frost. Roads can be icy, so drive carefully and plan to finish your sightseeing before the 5 PM sunset.",
+            "fr": "Une promenade hivernale en voiture à Vouziers offre une chaleur et un confort merveilleux. Explorez la place du village et la Butte de Théline depuis les sièges chauffants douillets de la voiture. Les monuments et les églises se détachent magnifiquement sur le givre. Les routes peuvent être verglacées, conduisez donc prudemment et prévoyez de terminer vos visites avant le coucher du soleil à 17h."
           },
           "stops": [
             {
@@ -855,13 +948,15 @@
                 "de": "Place Carnot",
                 "hu": "Place Carnot",
                 "ro": "Place Carnot",
-                "en": "Place Carnot"
+                "en": "Place Carnot",
+                "fr": "Place Carnot"
               },
               "tip_5lang": {
                 "de": "Starten Sie Ihre Fahrt im frostigen Zentrum; genießen Sie die Sitzheizung ausgiebig, bevor Sie mutig in die eisige und kalte Luft nach draußen treten.",
                 "hu": "Kezdje az autós túrát a fagyos központban; élvezze ki az autó fűtött üléseit alaposan, mielőtt bátran kilépne a jeges és metszően hideg kinti levegőre.",
                 "ro": "Începeți turul cu mașina în centrul înghețat; bucurați-vă din plin de scaunele încălzite înainte de a păși curajos afară, în aerul extrem de rece și înghețat.",
-                "en": "Start your driving tour right in the frosty center; fully enjoy the cozy heated seats of your car before bravely stepping out into the icy cold morning air."
+                "en": "Start your driving tour right in the frosty center; fully enjoy the cozy heated seats of your car before bravely stepping out into the icy cold morning air.",
+                "fr": "Commencez votre circuit en voiture au centre givré ; profitez pleinement des sièges chauffants de votre voiture avant de sortir courageusement dans l'air glacial du matin."
               }
             },
             {
@@ -869,13 +964,15 @@
                 "de": "Butte de Théline",
                 "hu": "Butte de Théline",
                 "ro": "Butte de Théline",
-                "en": "Butte de Théline"
+                "en": "Butte de Théline",
+                "fr": "Butte de Théline"
               },
               "tip_5lang": {
                 "de": "Der historische Hügel sieht frostbedeckt absolut markant aus; achten Sie jedoch sehr auf heimtückische eisige Stellen, wenn Sie den Hügel hinaufgehen möchten.",
                 "hu": "A történelmi domb lenyűgözően fest vastag faggyal borítva; de nagyon vigyázzon az alattomos, csúszós jeges foltokra, ha úgy dönt, hogy felsétál a dombra.",
                 "ro": "Movila istorică arată absolut impresionant acoperită de ger; dar fiți foarte atenți la peticele de gheață perfide dacă decideți să urcați pe deal pe jos.",
-                "en": "The historical mound looks absolutely striking completely covered in frost; but watch out very carefully for treacherous icy patches if you decide to walk up."
+                "en": "The historical mound looks absolutely striking completely covered in frost; but watch out very carefully for treacherous icy patches if you decide to walk up.",
+                "fr": "La butte historique paraît absolument saisissante entièrement couverte de givre ; mais méfiez-vous des plaques de verglas traîtresses si vous décidez de monter à pied."
               }
             },
             {
@@ -883,13 +980,15 @@
                 "de": "Église Notre-Dame",
                 "hu": "Église Notre-Dame",
                 "ro": "Église Notre-Dame",
-                "en": "Église Notre-Dame"
+                "en": "Église Notre-Dame",
+                "fr": "Église Notre-Dame"
               },
               "tip_5lang": {
                 "de": "Steigen Sie aus dem warmen Auto, um diese ruhige Kirche zu erkunden, die einen wirklich schönen architektonischen Anblick gegen den blassen Winterhimmel bietet.",
                 "hu": "Lépjen ki a kellemesen meleg autóból, hogy felfedezze ezt a csendes templomot, amely igazán gyönyörű építészeti látvány a zord és sápadt téli égbolt előtt.",
                 "ro": "Ieșiți din mașina caldă pentru a explora această biserică liniștită, care oferă o priveliște arhitecturală cu adevărat frumoasă pe fundalul cerului palid de iarnă.",
-                "en": "Step out of the warm car to briefly explore this quiet church, which forms a truly beautiful architectural sight directly against the bleak, pale winter sky."
+                "en": "Step out of the warm car to briefly explore this quiet church, which forms a truly beautiful architectural sight directly against the bleak, pale winter sky.",
+                "fr": "Sortez de la voiture chaude pour explorer brièvement cette église tranquille, qui offre une vue architecturale vraiment belle contre le ciel hivernal pâle et austère."
               }
             },
             {
@@ -897,13 +996,15 @@
                 "de": "Gloire à la 7 Division d'Infanterie",
                 "hu": "Gloire à la 7 Division d'Infanterie",
                 "ro": "Gloire à la 7 Division d'Infanterie",
-                "en": "Gloire à la 7 Division d'Infanterie"
+                "en": "Gloire à la 7 Division d'Infanterie",
+                "fr": "Gloire à la 7e Division d'Infanterie"
               },
               "tip_5lang": {
                 "de": "Fahren Sie extrem sicher zu diesem Denkmal; kleine Landstraßen können im Winter glatt sein, aber der feierliche, schneebedeckte Anblick ist es absolut wert.",
                 "hu": "Vezessen rendkívül biztonságosan ehhez az emlékműhöz; a kis téli utak csúszósak lehetnek, de az ünnepélyes, enyhén hóval borított látvány mindenképpen megéri.",
                 "ro": "Conduceți extrem de sigur la acest memorial; drumurile mici de iarnă pot fi alunecoase, dar priveliștea solemnă, pudrată delicat cu zăpadă, merită absolut.",
-                "en": "Drive extremely safely to this memorial; the small winter country roads can be very slick, but the completely solemn snow-dusted view is absolutely worth the trip."
+                "en": "Drive extremely safely to this memorial; the small winter country roads can be very slick, but the completely solemn snow-dusted view is absolutely worth the trip.",
+                "fr": "Conduisez très prudemment jusqu'à ce mémorial ; les petites routes d'hiver de campagne peuvent être très glissantes, mais la vue solennelle poudrée de neige vaut absolument le détour."
               }
             },
             {
@@ -911,13 +1012,15 @@
                 "de": "Monument Tchécoslovaques",
                 "hu": "Monument Tchécoslovaques",
                 "ro": "Monument Tchécoslovaques",
-                "en": "Monument Tchécoslovaques"
+                "en": "Monument Tchécoslovaques",
+                "fr": "Monument Tchécoslovaque"
               },
               "tip_5lang": {
                 "de": "Pausieren Sie in Ihrem Auto an diesem abgelegenen Denkmal; die extrem karge Winterlandschaft und der eisige Wind unterstreichen die Ernsthaftigkeit enorm.",
                 "hu": "Álljon meg az autójában ennél a távoli emlékműnél; a rendkívül zord téli táj és a fagyos szél óriási mértékben hangsúlyozza a történelmi helyszín ünnepélyességét.",
                 "ro": "Opriți-vă în mașină la acest monument izolat; peisajul de iarnă extrem de aspru și vântul înghețat subliniază enorm solemnitatea acestui sit istoric.",
-                "en": "Pause briefly in your warm car at this remote monument; the stark, completely frozen winter landscape and freezing wind highly emphasize the site's solemnity."
+                "en": "Pause briefly in your warm car at this remote monument; the stark, completely frozen winter landscape and freezing wind highly emphasize the site's solemnity.",
+                "fr": "Faites une courte halte dans votre voiture chaude à ce monument isolé ; le paysage hivernal complètement gelé et le vent glacial accentuent fortement la solennité du site."
               }
             },
             {
@@ -925,13 +1028,15 @@
                 "de": "Kirche Saint-Maurille",
                 "hu": "Saint-Maurille-templom",
                 "ro": "Biserica Saint-Maurille",
-                "en": "Church of Saint-Maurille"
+                "en": "Church of Saint-Maurille",
+                "fr": "Église Saint-Maurille"
               },
               "tip_5lang": {
                 "de": "Beenden Sie Ihre tolle Winterfahrt an dieser Kirche; bewundern Sie ihre detaillierte Fassade, bevor der viel zu frühe Sonnenuntergang die Stadt verdunkelt.",
                 "hu": "Fejezze be nagyszerű téli autózását ennél a templomnál; csodálja meg részletes homlokzatát, mielőtt a túlságosan is korai naplemente teljesen sötétségbe borítja a várost.",
                 "ro": "Încheiați minunata plimbare de iarnă la această biserică; admirați fațada sa detaliată înainte ca apusul mult prea timpuriu să scufunde complet orașul în întuneric.",
-                "en": "Finish your wonderful winter drive at this stunning church; admire its intricate facade just before the much too early sunset entirely plunges the town into darkness."
+                "en": "Finish your wonderful winter drive at this stunning church; admire its intricate facade just before the much too early sunset entirely plunges the town into darkness.",
+                "fr": "Terminez votre superbe balade hivernale à cette église magnifique ; admirez sa façade finement ouvragée juste avant que le coucher de soleil bien trop précoce plonge la ville dans l'obscurité."
               }
             }
           ]

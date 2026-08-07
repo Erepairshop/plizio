@@ -31,7 +31,8 @@
             "de": "Bewundern Sie das Rathaus im Art-déco-Stil am Platz.",
             "hu": "Csodáld meg a városháza Art Deco stílusát a téren.",
             "ro": "Admirați primăria în stil Art Deco din piață.",
-            "en": "Admire the Art Deco style of the town hall on the square."
+            "en": "Admire the Art Deco style of the town hall on the square.",
+            "fr": "Admirez le style Art déco de la mairie sur la place."
           }
         },
         {
@@ -49,7 +50,8 @@
             "de": "Sehenswert sind die Glasmalereien im Inneren.",
             "hu": "Érdemes megnézni a belső ólomüveg ablakokat.",
             "ro": "Merită văzute vitraliile din interior.",
-            "en": "The stained glass windows inside are worth seeing."
+            "en": "The stained glass windows inside are worth seeing.",
+            "fr": "Les vitraux à l’intérieur valent le détour."
           }
         },
         {
@@ -67,7 +69,8 @@
             "de": "Das Gebäude ähnelt einer Dampflokomotive.",
             "hu": "Az épület egy gőzmozdonyt formáz.",
             "ro": "Clădirea seamănă cu o locomotivă cu abur.",
-            "en": "The building resembles a steam locomotive."
+            "en": "The building resembles a steam locomotive.",
+            "fr": "Le bâtiment rappelle une locomotive à vapeur."
           }
         },
         {
@@ -85,7 +88,8 @@
             "de": "Ein emotionales Denkmal für die Bergleute des Krieges.",
             "hu": "Érzelmes emlékmű a háború bányászainak.",
             "ro": "Un monument emoționant pentru minerii din război.",
-            "en": "An emotional monument to the miners of the war."
+            "en": "An emotional monument to the miners of the war.",
+            "fr": "Un monument émouvant en hommage aux mineurs de la guerre."
           }
         },
         {
@@ -103,7 +107,8 @@
             "de": "Besuchen Sie die Galerie der Zeit.",
             "hu": "Látogasd meg az Idő Galériáját.",
             "ro": "Vizitați Galeria Timpului.",
-            "en": "Visit the Gallery of Time."
+            "en": "Visit the Gallery of Time.",
+            "fr": "Visitez la Galerie du Temps."
           }
         },
         {
@@ -121,7 +126,8 @@
             "de": "Die Kathedrale des Fußballs in Nordfrankreich.",
             "hu": "Észak-Franciaország futballkatedrálisa.",
             "ro": "Catedrala fotbalului din nordul Franței.",
-            "en": "The cathedral of football in Northern France."
+            "en": "The cathedral of football in Northern France.",
+            "fr": "La cathédrale du football dans le Nord de la France."
           }
         }
       ],
@@ -129,7 +135,8 @@
         "de": "Entdecken Sie das Herz von Lens zu Fuß. Wir beginnen am zentralen Jean-Jaurès-Platz, bevor wir die historische Saint-Léger-Kirche besichtigen. Der Bahnhof beeindruckt durch seine einzigartige Architektur. Den Vormittag verbringen wir in der beeindruckenden Galerie des Louvre-Lens. Zum Abschluss blicken wir auf das legendäre Stadion Bollaert, das Wahrzeichen der Stadtidentität.",
         "hu": "Fedezze fel Lens szívét gyalogosan. A központi Place Jean Jaurès-nél kezdünk, majd megtekintjük a történelmi Saint-Léger templomot. A vasútállomás egyedülálló építészetével nyűgöz le. A délelőttöt a Louvre-Lens lenyűgöző galériájában töltjük. Végül megtekintjük a legendás Bollaert stadiont, amely a város identitásának jelképe.",
         "ro": "Descoperiți inima orașului Lens la pas. Începem în centrul Place Jean Jaurès, înainte de a vizita biserica istorică Saint-Léger. Gara impresionează prin arhitectura sa unică. Petrecem dimineața în galeria impresionantă a Louvre-Lens. La final, privim legendarul stadion Bollaert, simbolul identității orașului.",
-        "en": "Discover the heart of Lens on foot. We start at the central Place Jean Jaurès before visiting the historic Saint-Léger church. The railway station impresses with its unique architecture. We spend the morning in the impressive gallery of the Louvre-Lens. Finally, we look at the legendary Bollaert stadium, the symbol of the city's identity."
+        "en": "Discover the heart of Lens on foot. We start at the central Place Jean Jaurès before visiting the historic Saint-Léger church. The railway station impresses with its unique architecture. We spend the morning in the impressive gallery of the Louvre-Lens. Finally, we look at the legendary Bollaert stadium, the symbol of the city's identity.",
+        "fr": "Découvrez le cœur de Lens à pied. Nous commençons sur la Place Jean Jaurès avant de visiter l’église historique Saint‑Léger. La gare impressionne par son architecture unique. Nous passons la matinée dans l’imposante galerie du Louvre‑Lens. Enfin, nous admirons le stade légendaire Bollaert, symbole de l’identité de la ville."
       },
       "gastro_picks": {
         "de": [
@@ -245,6 +252,10 @@
         "en": [
           "Wear comfortable shoes for the park at the Louvre.",
           "Most sights are close to each other."
+        ],
+        "fr": [
+          "Portez des chaussures confortables pour le parc du Louvre.",
+          "La plupart des sites sont proches les uns des autres."
         ]
       }
     },
@@ -271,7 +282,8 @@
             "de": "Startpunkt mit toller Art-déco-Fassade.",
             "hu": "Kiindulópont nagyszerű Art Deco homlokzattal.",
             "ro": "Punct de plecare cu o fațadă Art Deco superbă.",
-            "en": "Starting point with a great Art Deco facade."
+            "en": "Starting point with a great Art Deco facade.",
+            "fr": "Point de départ avec une belle façade Art déco."
           }
         },
         {
@@ -289,7 +301,8 @@
             "de": "Fahren Sie einmal um das Stadion herum.",
             "hu": "Kerülje meg egyszer a stadiont.",
             "ro": "Ocoliți stadionul o dată.",
-            "en": "Ride around the stadium once."
+            "en": "Ride around the stadium once.",
+            "fr": "Faites le tour du stade une fois à vélo."
           }
         },
         {
@@ -307,7 +320,8 @@
             "de": "Es gibt sichere Fahrradabstellplätze.",
             "hu": "Biztonságos kerékpártárolók állnak rendelkezésre.",
             "ro": "Există locuri sigure de parcare pentru biciclete.",
-            "en": "There are secure bicycle parking spaces."
+            "en": "There are secure bicycle parking spaces.",
+            "fr": "Il y a des emplacements de stationnement vélo sécurisés."
           }
         },
         {
@@ -325,7 +339,8 @@
             "de": "Erklimmen Sie die höchsten Halden Europas.",
             "hu": "Másszon fel Európa legmagasabb meddőhányóira.",
             "ro": "Urcați pe cele mai înalte halde din Europa.",
-            "en": "Climb the highest slag heaps in Europe."
+            "en": "Climb the highest slag heaps in Europe.",
+            "fr": "Grimpez sur les plus hautes terrils d’Europe."
           }
         },
         {
@@ -343,7 +358,8 @@
             "de": "Genießen Sie ein Getränk nach der Tour.",
             "hu": "Élvezzen egy italt a túra után.",
             "ro": "Savurați o băutură după tur.",
-            "en": "Enjoy a drink after the tour."
+            "en": "Enjoy a drink after the tour.",
+            "fr": "Prenez un verre après la visite."
           }
         }
       ],
@@ -351,7 +367,8 @@
         "de": "Mit dem Fahrrad erkunden wir die Bergbaugeschichte von Lens. Wir starten am Bahnhof und fahren am Stadion vorbei zum Louvre-Lens. Das Highlight ist die Base 11/19 mit ihren riesigen Halden, die eine tolle Aussicht bieten. Die Tour endet gemütlich im Stadtzentrum auf dem Jean-Jaurès-Platz.",
         "hu": "Kerékpárral fedezzük fel Lens bányászati múltját. Az állomástól indulunk, a stadion mellett elhaladva a Louvre-Lens-hez. A fénypont a Base 11/19 óriási meddőhányóival, amelyek nagyszerű kilátást nyújtanak. A túra kellemesen ér véget a városközpontban, a Jean Jaurès téren.",
         "ro": "Explorăm istoria minieră a orașului Lens cu bicicleta. Plecăm de la gară, trecem pe lângă stadion către Louvre-Lens. Punctul culminant este Base 11/19 cu haldele sale uriașe, care oferă o priveliște minunată. Turul se încheie relaxat în centrul orașului, în Place Jean Jaurès.",
-        "en": "By bike, we explore the mining history of Lens. We start at the station, passing the stadium to the Louvre-Lens. The highlight is Base 11/19 with its giant slag heaps, which offer a great view. The tour ends comfortably in the city center on Place Jean Jaurès."
+        "en": "By bike, we explore the mining history of Lens. We start at the station, passing the stadium to the Louvre-Lens. The highlight is Base 11/19 with its giant slag heaps, which offer a great view. The tour ends comfortably in the city center on Place Jean Jaurès.",
+        "fr": "À vélo, nous explorons l’histoire minière de Lens. Nous commençons à la gare, passons devant le stade jusqu’au Louvre‑Lens. Le point fort est la Base 11/19 avec ses terrils géants offrant une belle vue. La visite se termine confortablement au centre‑ville sur la Place Jean Jaurès."
       },
       "gastro_picks": {
         "de": [
@@ -451,6 +468,10 @@
         "en": [
           "The paths to the slag heaps can be steep.",
           "Use the marked cycle paths in the park."
+        ],
+        "fr": [
+          "Les sentiers vers les terrils peuvent être raides.",
+          "Utilisez les pistes cyclables balisées dans le parc."
         ]
       }
     },
@@ -477,7 +498,8 @@
             "de": "Parken Sie im Parkhaus im Zentrum.",
             "hu": "Parkoljon a központi parkolóházban.",
             "ro": "Parcați în parcarea din centru.",
-            "en": "Park in the parking garage in the center."
+            "en": "Park in the parking garage in the center.",
+            "fr": "Garez‑vous dans le parking souterrain du centre."
           }
         },
         {
@@ -495,7 +517,8 @@
             "de": "Kurzer Spaziergang vom Platz aus.",
             "hu": "Rövid séta a térről.",
             "ro": "Scurtă plimbare din piață.",
-            "en": "Short walk from the square."
+            "en": "Short walk from the square.",
+            "fr": "Courte marche depuis la place."
           }
         },
         {
@@ -513,7 +536,8 @@
             "de": "Einzigartige Art-déco-Architektur.",
             "hu": "Egyedülálló Art Deco építészet.",
             "ro": "Arhitectură Art Deco unică.",
-            "en": "Unique Art Deco architecture."
+            "en": "Unique Art Deco architecture.",
+            "fr": "Architecture Art déco unique."
           }
         },
         {
@@ -531,7 +555,8 @@
             "de": "Großer kostenloser Parkplatz vorhanden.",
             "hu": "Nagy ingyenes parkoló áll rendelkezésre.",
             "ro": "Parcare mare gratuită disponibilă.",
-            "en": "Large free parking available."
+            "en": "Large free parking available.",
+            "fr": "Grand parking gratuit disponible."
           }
         },
         {
@@ -549,7 +574,8 @@
             "de": "Besuchen Sie den Fanshop des RC Lens.",
             "hu": "Látogasson el az RC Lens szurkolói boltjába.",
             "ro": "Vizitați magazinul pentru fani al RC Lens.",
-            "en": "Visit the RC Lens fan shop."
+            "en": "Visit the RC Lens fan shop.",
+            "fr": "Visitez la boutique des supporters du RC Lens."
           }
         },
         {
@@ -567,7 +593,8 @@
             "de": "Das UNESCO-Welterbe der Bergbauregion.",
             "hu": "A bányavidék UNESCO világörökségi helyszíne.",
             "ro": "Sit UNESCO din regiunea minieră.",
-            "en": "UNESCO World Heritage site of the mining region."
+            "en": "UNESCO World Heritage site of the mining region.",
+            "fr": "Site du patrimoine mondial de l’UNESCO de la région minière."
           }
         },
         {
@@ -585,7 +612,8 @@
             "de": "Zentrum der Bergbaugeschichte.",
             "hu": "A bányászati történelem központja.",
             "ro": "Centrul istoriei miniere.",
-            "en": "Center of mining history."
+            "en": "Center of mining history.",
+            "fr": "Centre de l’histoire minière."
           }
         }
       ],
@@ -593,7 +621,8 @@
         "de": "Diese Autotour kombiniert das Stadtzentrum von Lens mit den wichtigsten Industrie-Highlights. Nach einem Besuch im Art-déco-Zentrum fahren wir zum Louvre-Lens und zum berühmten Bollaert-Stadion. Den Nachmittag verbringen wir an der Base 11/19, wo die höchsten Abraumhalden Europas einen weiten Blick über die Region bieten.",
         "hu": "Ez az autós túra ötvözi Lens városközpontját a legfontosabb ipari látnivalókkal. Az Art Deco központ meglátogatása után a Louvre-Lens-hez és a híres Bollaert stadionhoz hajtunk. A délutánt a Base 11/19-nél töltjük, ahol Európa legmagasabb meddőhányói nyújtanak széles kilátást a régióra.",
         "ro": "Acest tur cu mașina combină centrul orașului Lens cu cele mai importante obiective industriale. După o vizită în centrul Art Deco, mergem la Louvre-Lens și la faimosul stadion Bollaert. Petrecem după-amiaza la Base 11/19, unde cele mai înalte halde din Europa oferă o vedere panoramică asupra regiunii.",
-        "en": "This car tour combines Lens city center with the most important industrial highlights. After a visit to the Art Deco center, we drive to the Louvre-Lens and the famous Bollaert stadium. We spend the afternoon at Base 11/19, where the highest slag heaps in Europe offer a wide view over the region."
+        "en": "This car tour combines Lens city center with the most important industrial highlights. After a visit to the Art Deco center, we drive to the Louvre-Lens and the famous Bollaert stadium. We spend the afternoon at Base 11/19, where the highest slag heaps in Europe offer a wide view over the region.",
+        "fr": "Cette balade en voiture combine le centre‑ville de Lens avec les principaux sites industriels. Après une visite du centre Art déco, nous nous rendons au Louvre‑Lens et au célèbre stade Bollaert. Nous passons l’après‑midi à la Base 11/19, où les plus hauts terrils d’Europe offrent une vaste vue sur la région."
       },
       "gastro_picks": {
         "de": [
@@ -693,6 +722,10 @@
         "en": [
           "On match days, parking at the stadium is difficult.",
           "Base 11/19 is only a 10-minute drive from the center."
+        ],
+        "fr": [
+          "Les jours de match, le stationnement au stade est difficile.",
+          "La Base 11/19 est à seulement 10 minutes en voiture du centre."
         ]
       }
     },
@@ -719,7 +752,8 @@
             "de": "Zentraler Verkehrsknotenpunkt.",
             "hu": "Központi közlekedési csomópont.",
             "ro": "Nod central de transport.",
-            "en": "Central transport hub."
+            "en": "Central transport hub.",
+            "fr": "Nœud de correspondance central."
           }
         },
         {
@@ -737,7 +771,8 @@
             "de": "Vom Bahnhof aus leicht zu Fuß erreichbar.",
             "hu": "Az állomástól könnyen elérhető gyalog.",
             "ro": "Ușor accesibil pe jos de la gară.",
-            "en": "Easily accessible on foot from the station."
+            "en": "Easily accessible on foot from the station.",
+            "fr": "Facilement accessible à pied depuis la gare."
           }
         },
         {
@@ -755,7 +790,8 @@
             "de": "Nutzen Sie den kostenlosen Shuttlebus 'Bulle'.",
             "hu": "Használja az ingyenes 'Bulle' ingajáratot.",
             "ro": "Folosiți autobuzul gratuit 'Bulle'.",
-            "en": "Use the free 'Bulle' shuttle bus."
+            "en": "Use the free 'Bulle' shuttle bus.",
+            "fr": "Utilisez la navette gratuite « Bulle »."
           }
         },
         {
@@ -773,7 +809,8 @@
             "de": "Nahe am Louvre-Lens gelegen.",
             "hu": "A Louvre-Lens közelében található.",
             "ro": "Situat aproape de Louvre-Lens.",
-            "en": "Located near the Louvre-Lens."
+            "en": "Located near the Louvre-Lens.",
+            "fr": "Situé à proximité du Louvre‑Lens."
           }
         },
         {
@@ -791,7 +828,8 @@
             "de": "Erreichbar mit dem Bus (Linie 11).",
             "hu": "Busszal elérhető (11-es vonal).",
             "ro": "Accesibil cu autobuzul (linia 11).",
-            "en": "Accessible by bus (line 11)."
+            "en": "Accessible by bus (line 11).",
+            "fr": "Accessible en bus (ligne 11)."
           }
         }
       ],
@@ -799,7 +837,8 @@
         "de": "Lens lässt sich hervorragend mit dem öffentlichen Nahverkehr entdecken. Wir starten am Bahnhof und erkunden das Stadtzentrum. Der kostenlose Shuttle bringt Sie direkt zum Louvre-Lens. Zum Abschluss fahren wir mit dem Bus zur Base 11/19, um das industrielle Erbe hautnah zu erleben.",
         "hu": "Lens kiválóan felfedezhető tömegközlekedéssel. Az állomástól indulunk, és felfedezzük a városközpontot. Az ingyenes ingajárat közvetlenül a Louvre-Lens-hez viszi. Végül busszal utazunk a Base 11/19-hez, hogy testközelből tapasztaljuk meg az ipari örökséget.",
         "ro": "Lens poate fi descoperit excelent cu transportul public. Începem de la gară și explorăm centrul orașului. Naveta gratuită vă duce direct la Louvre-Lens. La final, mergem cu autobuzul la Base 11/19 pentru a experimenta moștenirea industrială îndeaproape.",
-        "en": "Lens is excellent to discover by public transport. We start at the station and explore the city center. The free shuttle takes you directly to the Louvre-Lens. Finally, we take the bus to Base 11/19 to experience the industrial heritage firsthand."
+        "en": "Lens is excellent to discover by public transport. We start at the station and explore the city center. The free shuttle takes you directly to the Louvre-Lens. Finally, we take the bus to Base 11/19 to experience the industrial heritage firsthand.",
+        "fr": "Lens se découvre très bien en transports en commun. Nous commençons à la gare et explorons le centre‑ville. La navette gratuite vous mène directement au Louvre‑Lens. Enfin, nous prenons le bus jusqu’à la Base 11/19 pour vivre le patrimoine industriel de près."
       },
       "gastro_picks": {
         "de": [
@@ -899,6 +938,10 @@
         "en": [
           "Check the bus schedules in advance.",
           "The 'Tadao' network connects all mining sites."
+        ],
+        "fr": [
+          "Vérifiez les horaires de bus à l’avance.",
+          "Le réseau « Tadao » relie tous les sites miniers."
         ]
       }
     }

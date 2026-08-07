@@ -31,7 +31,8 @@
             "de": "Beeindruckende Betonkolosse aus dem Zweiten Weltkrieg.",
             "hu": "Hatalmas második világháborús betonerőd a kikötőben.",
             "ro": "Bază masivă de submarine din cel de-al Doilea Război Mondial.",
-            "en": "Massive WWII submarine base located in the harbor."
+            "en": "Massive WWII submarine base located in the harbor.",
+            "fr": "Base sous-marine massive de la Seconde Guerre mondiale située dans le port."
           }
         },
         {
@@ -49,7 +50,8 @@
             "de": "Tauchen Sie ein in die Welt der großen Ozeandampfer.",
             "hu": "Fedezze fel az óceánjárók luxus világát a bázison belül.",
             "ro": "Explorați lumea luxoasă a pacheboturilor transatlantice.",
-            "en": "Explore the luxury world of ocean liners inside the base."
+            "en": "Explore the luxury world of ocean liners inside the base.",
+            "fr": "Explorez le monde du luxe des paquebots à l’intérieur de la base."
           }
         },
         {
@@ -67,7 +69,8 @@
             "de": "Besichtigen Sie das Innere eines echten U-Boots.",
             "hu": "Látogasson el egy igazi, vízen lebegő tengeralattjáró belsejébe.",
             "ro": "Vizitați interiorul unui submarin real aflat în port.",
-            "en": "Visit the interior of a real submarine floating in the port."
+            "en": "Visit the interior of a real submarine floating in the port.",
+            "fr": "Visitez l’intérieur d’un vrai sous-marin flottant dans le port."
           }
         },
         {
@@ -85,7 +88,8 @@
             "de": "Erfahren Sie alles über den Schiffbau und die Stadtgeschichte.",
             "hu": "Ismerje meg a város és a hajógyártás izgalmas történetét.",
             "ro": "Aflați totul despre construcția de nave și istoria orașului.",
-            "en": "Learn all about shipbuilding and the city's history."
+            "en": "Learn all about shipbuilding and the city's history.",
+            "fr": "Apprenez tout sur la construction navale et l’histoire de la ville."
           }
         },
         {
@@ -103,7 +107,8 @@
             "de": "Ein botanisches Juwel direkt am Meer gelegen.",
             "hu": "Botanikai ékszerdoboz közvetlenül a tengerpart mellett.",
             "ro": "O bijuterie botanică situată chiar lângă malul mării.",
-            "en": "A botanical gem located right by the seaside."
+            "en": "A botanical gem located right by the seaside.",
+            "fr": "Un joyau botanique situé en bord de mer."
           }
         },
         {
@@ -121,7 +126,8 @@
             "de": "Bekannt aus dem Film von Jacques Tati.",
             "hu": "Jacques Tati híres filmjének ikonikus helyszíne.",
             "ro": "Plajă faimoasă din filmul lui Jacques Tati.",
-            "en": "Famous beach from Jacques Tati's iconic movie."
+            "en": "Famous beach from Jacques Tati's iconic movie.",
+            "fr": "Plage célèbre du film emblématique de Jacques Tati."
           }
         }
       ],
@@ -129,7 +135,8 @@
         "de": "Vormittags erkunden Sie das industrielle Erbe im U-Boot-Bunker. Mittags tauchen Sie in die Geschichte der Ozeanriesen im Escal'Atlantic ein. Nachmittags genießen Sie die Ruhe im Botanischen Garten und spazieren entlang der Küste zum berühmten Monsieur-Hulot-Strand, wo Sie den Tag entspannt ausklingen lassen.",
         "hu": "A délelőttöt a monumentális tengeralattjáró-bázis felfedezésével töltjük. Délben az óceánjárók luxusába kóstolunk bele, majd egy igazi tengeralattjárót is megnézünk. A nap második felében a tengerparti botanikus kertben pihenünk, végül elsétálunk a Monsieur Hulot-ról elnevezett ikonikus strandra.",
         "ro": "Dimineața este dedicată patrimoniului industrial în baza de submarine. La prânz, descoperiți eleganța pacheboturilor la Escal'Atlantic și vizitați submarinul Espadon. După-amiaza, relaxați-vă în Grădina Botanică și pe plaja Monsieur Hulot, celebră pentru farmecul său cinematografic.",
-        "en": "Spend your morning exploring the industrial heritage of the submarine base. At midday, dive into the history of luxury liners at Escal'Atlantic and visit a real submarine. In the afternoon, relax in the Jardin des Plantes and walk along the coast to the famous Monsieur Hulot beach for a perfect ending."
+        "en": "Spend your morning exploring the industrial heritage of the submarine base. At midday, dive into the history of luxury liners at Escal'Atlantic and visit a real submarine. In the afternoon, relax in the Jardin des Plantes and walk along the coast to the famous Monsieur Hulot beach for a perfect ending.",
+        "fr": "Passez votre matinée à explorer le patrimoine industriel de la base sous-marine. À midi, plongez dans l’histoire des paquebots de luxe à Escal’Atlantic et visitez un véritable sous-marin. L’après-midi, détendez-vous dans le Jardin des Plantes et promenez-vous le long de la côte jusqu’à la célèbre plage de Monsieur Hulot pour une conclusion parfaite."
       },
       "gastro_picks": {
         "de": [
@@ -237,6 +244,12 @@
           "Book your Escal'Atlantic tickets online to avoid queues.",
           "Bring a light jacket as the Atlantic breeze can be chilly.",
           "Use the free parking lots available near the submarine base."
+        ],
+        "fr": [
+          "Des chaussures confortables sont indispensables pour explorer le port.",
+          "Réservez vos billets pour Escal’Atlantic en ligne pour éviter les files d’attente.",
+          "Apportez une veste légère car la brise de l’Atlantique peut être fraîche.",
+          "Utilisez les parkings gratuits disponibles près de la base sous-marine."
         ]
       }
     },
@@ -263,7 +276,8 @@
             "de": "Startpunkt an den historischen U-Boot-Docks.",
             "hu": "Kezdje a túrát a történelmi dokkoknál.",
             "ro": "Punct de plecare la docurile istorice de submarine.",
-            "en": "Start your tour at the historical submarine docks."
+            "en": "Start your tour at the historical submarine docks.",
+            "fr": "Commencez votre visite aux quais historiques des sous-marins."
           }
         },
         {
@@ -281,7 +295,8 @@
             "de": "Schnellbesuch im Bauch der Espadon.",
             "hu": "Gyors látogatás az Espadon gyomrában.",
             "ro": "O vizită rapidă în pântecele submarinului Espadon.",
-            "en": "A quick visit inside the belly of the Espadon."
+            "en": "A quick visit inside the belly of the Espadon.",
+            "fr": "Une visite rapide à l’intérieur du ventre de l’Espadon."
           }
         },
         {
@@ -299,7 +314,8 @@
             "de": "Panoramablick auf die imposante Brücke.",
             "hu": "Pazar kilátás az impozáns hídra.",
             "ro": "Vedere panoramică asupra podului impunător.",
-            "en": "Panoramic view of the imposing bridge."
+            "en": "Panoramic view of the imposing bridge.",
+            "fr": "Vue panoramique du pont imposant."
           }
         },
         {
@@ -317,7 +333,8 @@
             "de": "Perfekter Ort für eine kleine Pause im Schatten.",
             "hu": "Tökéletes hely egy kis árnyas pihenőre.",
             "ro": "Locul perfect pentru o scurtă pauză la umbră.",
-            "en": "Perfect place for a short break in the shade."
+            "en": "Perfect place for a short break in the shade.",
+            "fr": "Endroit parfait pour une courte pause à l’ombre."
           }
         },
         {
@@ -335,7 +352,8 @@
             "de": "Mittagspause und Strandzeit in Saint-Marc.",
             "hu": "Ebédszünet és strandolás Saint-Marc-ban.",
             "ro": "Pauză de prânz și timp de plajă în Saint-Marc.",
-            "en": "Lunch break and beach time in Saint-Marc."
+            "en": "Lunch break and beach time in Saint-Marc.",
+            "fr": "Pause déjeuner et moment plage à Saint-Marc."
           }
         },
         {
@@ -353,7 +371,8 @@
             "de": "Prähistorisches Grabmal im Hinterland.",
             "hu": "Prehisztorikus síremlék a hátországban.",
             "ro": "Monument funerar preistoric în hinterland.",
-            "en": "Prehistoric burial site in the hinterland."
+            "en": "Prehistoric burial site in the hinterland.",
+            "fr": "Site funéraire préhistorique dans l’arrière-pays."
           }
         }
       ],
@@ -361,7 +380,8 @@
         "de": "Diese Radtour verbindet die industrielle Hafenfront mit der natürlichen Schönheit der Küste. Nach der Besichtigung des U-Boots radeln Sie zur Brücke für ein Foto, dann entlang der Strände bis zum legendären Saint-Marc-sur-Mer. Der Rückweg führt über das mystische prähistorische Tumulus-Grabmal.",
         "hu": "Ez a biciklis túra összeköti az ipari kikötőt a tengerpart természetes szépségével. A tengeralattjáró után a hídhoz tekerünk, majd a part mentén eljutunk a legendás Saint-Marc-sur-Mer-ig. A visszaút az ősi, misztikus Dissignac síremlék érintésével vezet.",
         "ro": "Acest tur cu bicicleta îmbină portul industrial cu frumusețea naturală a coastei. După submarin, pedalați spre pod pentru o fotografie, apoi de-a lungul plajelor până la legendarul Saint-Marc-sur-Mer. Întoarcerea trece pe la misticul mormânt preistoric Tumulus.",
-        "en": "This bike tour connects the industrial harbor front with the natural beauty of the coast. After visiting the submarine, pedal to the bridge for a photo, then along the beaches to the legendary Saint-Marc-sur-Mer. The return path takes you via the mystic prehistoric Tumulus monument."
+        "en": "This bike tour connects the industrial harbor front with the natural beauty of the coast. After visiting the submarine, pedal to the bridge for a photo, then along the beaches to the legendary Saint-Marc-sur-Mer. The return path takes you via the mystic prehistoric Tumulus monument.",
+        "fr": "Cette boucle à vélo relie le front portuaire industriel à la beauté naturelle de la côte. Après avoir visité le sous-marin, pédalez jusqu’au pont pour une photo, puis le long des plages jusqu’au légendaire Saint-Marc-sur-Mer. Le chemin du retour vous fait passer par le mystique tumulus préhistorique."
       },
       "gastro_picks": {
         "de": [
@@ -469,6 +489,12 @@
           "Follow the 'Vélocéan' cycle route signs for the best paths.",
           "Carry enough water, especially for the inland Tumulus leg.",
           "Expect strong winds near the bridge viewpoint area."
+        ],
+        "fr": [
+          "La route jusqu'à Saint-Marc est essentiellement plate et agréable.",
+          "Suivez les panneaux de la voie cyclable 'Vélocéan' pour les meilleurs itinéraires.",
+          "Emportez suffisamment d'eau, surtout pour la section intérieure du Tumulus.",
+          "Attendez-vous à des vents forts près du point de vue du pont."
         ]
       }
     },
@@ -495,7 +521,8 @@
             "de": "Parken Sie direkt an der Basis (Cluster A).",
             "hu": "Parkoljon közvetlenül a bázisnál (A-klaszter).",
             "ro": "Parcați direct la bază (Cluster A).",
-            "en": "Park directly at the base (Cluster A)."
+            "en": "Park directly at the base (Cluster A).",
+            "fr": "Garez-vous directement à la base (Cluster A)."
           }
         },
         {
@@ -513,7 +540,8 @@
             "de": "Kurzer Fußweg innerhalb der Basis (Cluster A).",
             "hu": "Rövid séta a bázison belül (A-klaszter).",
             "ro": "Scurtă plimbare în interiorul bazei (Cluster A).",
-            "en": "Short walk inside the base (Cluster A)."
+            "en": "Short walk inside the base (Cluster A).",
+            "fr": "Courte promenade à l'intérieur de la base (Cluster A)."
           }
         },
         {
@@ -531,7 +559,8 @@
             "de": "Besuch am Hafenbecken zu Fuß (Cluster A).",
             "hu": "Látogatás gyalog a kikötői medencénél (A-klaszter).",
             "ro": "Vizită la bazinul portuar pe jos (Cluster A).",
-            "en": "Visit the harbor basin on foot (Cluster A)."
+            "en": "Visit the harbor basin on foot (Cluster A).",
+            "fr": "Visitez le bassin du port à pied (Cluster A)."
           }
         },
         {
@@ -549,7 +578,8 @@
             "de": "Fahrt zum Aussichtspunkt an der Brücke (Cluster B).",
             "hu": "Autózás a híd kilátópontjához (B-klaszter).",
             "ro": "Conduceți spre punctul de observație (Cluster B).",
-            "en": "Drive to the bridge viewpoint (Cluster B)."
+            "en": "Drive to the bridge viewpoint (Cluster B).",
+            "fr": "Conduisez jusqu'au point de vue du pont (Cluster B)."
           }
         },
         {
@@ -567,7 +597,8 @@
             "de": "Fahrt ins Grüne zum Tumulus (Cluster C).",
             "hu": "Vezetés a zöldbe a Dissignac síremlékhez (C-klaszter).",
             "ro": "Conduceți în natură spre Tumulus (Cluster C).",
-            "en": "Drive into the green area to the Tumulus (Cluster C)."
+            "en": "Drive into the green area to the Tumulus (Cluster C).",
+            "fr": "Roulez dans la zone verte jusqu'au Tumulus (Cluster C)."
           }
         },
         {
@@ -585,7 +616,8 @@
             "de": "Parken in Saint-Marc für den Strandtag (Cluster D).",
             "hu": "Parkolás Saint-Marc-ban a strandoláshoz (D-klaszter).",
             "ro": "Parcați în Saint-Marc pentru plajă (Cluster D).",
-            "en": "Park in Saint-Marc for beach time (Cluster D)."
+            "en": "Park in Saint-Marc for beach time (Cluster D).",
+            "fr": "Garez-vous à Saint-Marc pour profiter de la plage (Cluster D)."
           }
         }
       ],
@@ -593,7 +625,8 @@
         "de": "Mit dem Auto erreichen Sie mühelos alle Highlights von Saint-Nazaire. Vormittags konzentriert sich das Programm auf das Hafenviertel mit Bunker und Ozeanriesen. Mittags überqueren Sie die spektakuläre Brücke, bevor es zu den prähistorischen Stätten und schließlich zum Entspannen an den weiten Strand von Monsieur Hulot geht.",
         "hu": "Autóval könnyedén elérheti Saint-Nazaire összes látnivalóját. A délelőtt a kikötői negyedé: a hatalmas bunker és az óceánjárók világa. Délben átgurulunk a látványos hídon, majd a történelem előtti síremlék és végül a Monsieur Hulot strand tágas partja következik.",
         "ro": "Cu mașina, ajungeți ușor la toate punctele de atracție. Dimineața se concentrează pe zona portuară cu baza de submarine și pacheboturi. La prânz, traversați podul spectaculos, înainte de a vizita siturile preistorice și de a vă relaxa pe plaja spațioasă Monsieur Hulot.",
-        "en": "By car, you can effortlessly reach all the highlights. The morning focuses on the harbor district with the bunker and ocean liners. At midday, drive across the spectacular bridge before heading to the prehistoric sites and finally relaxing at the expansive Monsieur Hulot beach."
+        "en": "By car, you can effortlessly reach all the highlights. The morning focuses on the harbor district with the bunker and ocean liners. At midday, drive across the spectacular bridge before heading to the prehistoric sites and finally relaxing at the expansive Monsieur Hulot beach.",
+        "fr": "En voiture, vous pouvez rejoindre sans effort tous les points d'intérêt. La matinée est consacrée au quartier du port avec le bunker et les paquebots. À midi, traversez le spectaculaire pont avant de vous diriger vers les sites préhistoriques et enfin de vous détendre sur l'immense plage Monsieur Hulot."
       },
       "gastro_picks": {
         "de": [
@@ -701,6 +734,12 @@
           "Central parking garages fill up quickly on weekends.",
           "The submarine base offers plenty of free parking space.",
           "The drive to Saint-Marc-sur-Mer takes only about 15 minutes."
+        ],
+        "fr": [
+          "Le pont est sans péage mais peut être fermé par grand vent.",
+          "Les parkings centraux se remplissent rapidement le week-end.",
+          "La base sous-marine offre beaucoup de places de stationnement gratuites.",
+          "Le trajet jusqu'à Saint-Marc-sur-Mer ne prend qu'environ 15 minutes en voiture."
         ]
       }
     },
@@ -727,7 +766,8 @@
             "de": "Erreichbar mit der HélYce-Linie vom Bahnhof.",
             "hu": "A vasútállomástól az HélYce járattal érhető el.",
             "ro": "Accesibil cu linia HélYce de la gară.",
-            "en": "Accessible with the HélYce line from the station."
+            "en": "Accessible with the HélYce line from the station.",
+            "fr": "Accessible avec la ligne HélYce depuis la gare."
           }
         },
         {
@@ -745,7 +785,8 @@
             "de": "Fußläufig innerhalb des Hafenclusters.",
             "hu": "Gyalogosan elérhető a kikötői negyeden belül.",
             "ro": "La mică distanță de mers pe jos în zona portului.",
-            "en": "Within walking distance in the harbor cluster."
+            "en": "Within walking distance in the harbor cluster.",
+            "fr": "À distance de marche dans le cluster du port."
           }
         },
         {
@@ -763,7 +804,8 @@
             "de": "Ein Muss im Hafen, nur 5 Min. Fußweg.",
             "hu": "Kihagyhatatlan látnivaló, 5 perc séta.",
             "ro": "O vizită obligatorie, la doar 5 minute de mers.",
-            "en": "A must-see in the harbor, just 5 min walk away."
+            "en": "A must-see in the harbor, just 5 min walk away.",
+            "fr": "À ne pas manquer dans le port, à seulement 5 min à pied."
           }
         },
         {
@@ -781,7 +823,8 @@
             "de": "Kurze Busfahrt oder Spaziergang entlang des Wassers.",
             "hu": "Rövid buszozás vagy séta a vízpart mentén.",
             "ro": "Scurtă călătorie cu autobuzul sau plimbare pe mal.",
-            "en": "Short bus ride or walk along the waterfront."
+            "en": "Short bus ride or walk along the waterfront.",
+            "fr": "Court trajet en bus ou promenade le long du front de mer."
           }
         },
         {
@@ -799,7 +842,8 @@
             "de": "Nehmen Sie die Linie U1/U3 nach Saint-Marc.",
             "hu": "Használja az U1 vagy U3 buszt Saint-Marc felé.",
             "ro": "Luați linia U1/U3 spre Saint-Marc.",
-            "en": "Take line U1/U3 towards Saint-Marc."
+            "en": "Take line U1/U3 towards Saint-Marc.",
+            "fr": "Prenez la ligne U1/U3 en direction de Saint-Marc."
           }
         }
       ],
@@ -807,7 +851,8 @@
         "de": "Das effiziente HélYce-Bussystem macht Saint-Nazaire ohne Auto leicht erkundbar. Der Vormittag gehört den monumentalen Hafenanlagen. Mittags spazieren Sie durch den botanischen Garten, bevor Sie der Bus bequem in das charmante Saint-Marc-sur-Mer bringt, um den Nachmittag am legendären Hulot-Strand zu verbringen.",
         "hu": "A hatékony HélYce buszhálózatnak köszönhetően Saint-Nazaire autó nélkül is könnyen felfedezhető. A délelőtt a monumentális kikötői létesítményeké. Délben sétálunk a botanikus kertben, majd busszal kényelmesen eljutunk Saint-Marc-sur-Mer-be, a legendás Hulot-strandra.",
         "ro": "Sistemul eficient de autobuze HélYce face ca Saint-Nazaire să fie ușor de explorat fără mașină. Dimineața aparține instalațiilor portuare monumentale. La prânz, plimbați-vă prin grădina botanică, apoi autobuzul vă duce confortabil în Saint-Marc-sur-Mer pentru plajă.",
-        "en": "The efficient HélYce bus system makes Saint-Nazaire easy to explore without a car. The morning is dedicated to the monumental harbor facilities. At midday, stroll through the botanical garden before the bus takes you comfortably to charming Saint-Marc-sur-Mer for the afternoon."
+        "en": "The efficient HélYce bus system makes Saint-Nazaire easy to explore without a car. The morning is dedicated to the monumental harbor facilities. At midday, stroll through the botanical garden before the bus takes you comfortably to charming Saint-Marc-sur-Mer for the afternoon.",
+        "fr": "Le système de bus HélYce rend Saint-Nazaire facile à explorer sans voiture. La matinée est dédiée aux imposantes installations portuaires. À midi, flânez dans le jardin botanique avant que le bus ne vous emmène confortablement à la charmante Saint-Marc-sur-Mer pour l'après-midi."
       },
       "gastro_picks": {
         "de": [
@@ -915,6 +960,12 @@
           "HélYce buses run frequently between the station and harbor.",
           "The bus ride to Saint-Marc takes about 30 minutes.",
           "Download the STRAN app for real-time bus tracking and info."
+        ],
+        "fr": [
+          "Achetez un pass journée pour le réseau de transports publics STRAN.",
+          "Les bus HélYce circulent fréquemment entre la gare et le port.",
+          "Le trajet en bus jusqu'à Saint-Marc dure environ 30 minutes.",
+          "Téléchargez l'application STRAN pour le suivi en temps réel des bus et les infos."
         ]
       }
     }

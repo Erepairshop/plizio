@@ -21,7 +21,8 @@
             "de": "Place Nationale",
             "hu": "Place Nationale",
             "ro": "Piața Națională",
-            "en": "Place Nationale"
+            "en": "Place Nationale",
+            "fr": "Place Nationale"
           },
           "coords": [
             1.3533,
@@ -36,7 +37,8 @@
             "de": "Bewundern Sie die doppelte Arkadenreihe aus rosa Backstein.",
             "hu": "Csodáld meg a kettős árkádsort a rózsaszín téglás házak alatt.",
             "ro": "Admirați rândurile duble de arcade din cărămidă roz.",
-            "en": "Admire the double row of arcades built from pink bricks."
+            "en": "Admire the double row of arcades built from pink bricks.",
+            "fr": "Admirez la double rangée d'arcades en briques roses."
           }
         },
         {
@@ -44,7 +46,8 @@
             "de": "Église Saint-Jacques",
             "hu": "Szent Jakab-templom",
             "ro": "Biserica Sfântul Iacob",
-            "en": "Saint-Jacques Church"
+            "en": "Saint-Jacques Church",
+            "fr": "Église Saint-Jacques"
           },
           "coords": [
             1.3517,
@@ -59,7 +62,8 @@
             "de": "Achten Sie auf die Einschlaglöcher von Kanonenkugeln am Turm.",
             "hu": "Keresd meg az ágyúgolyók nyomait a harangtornyon.",
             "ro": "Căutați urmele ghiulelelor de tun pe clopotniță.",
-            "en": "Look for the cannonball marks on the bell tower."
+            "en": "Look for the cannonball marks on the bell tower.",
+            "fr": "Cherchez les marques de boulet de canon sur le clocher."
           }
         },
         {
@@ -67,7 +71,8 @@
             "de": "Musée Ingres Bourdelle",
             "hu": "Ingres Bourdelle Múzeum",
             "ro": "Muzeul Ingres Bourdelle",
-            "en": "Musée Ingres Bourdelle"
+            "en": "Musée Ingres Bourdelle",
+            "fr": "Musée Ingres Bourdelle"
           },
           "coords": [
             1.3507,
@@ -82,7 +87,8 @@
             "de": "Besuchen Sie den 'Salle du Prince Noir' im Untergeschoss.",
             "hu": "Nézd meg a Fekete Herceg termét az alagsorban.",
             "ro": "Vizitați Sala Prințului Negru la subsol.",
-            "en": "Visit the Black Prince's room in the basement."
+            "en": "Visit the Black Prince's room in the basement.",
+            "fr": "Visitez la chambre du Prince Noir au sous‑sol."
           }
         },
         {
@@ -90,7 +96,8 @@
             "de": "Pont Vieux",
             "hu": "Öreg híd",
             "ro": "Podul Vechi",
-            "en": "Old Bridge"
+            "en": "Old Bridge",
+            "fr": "Vieux Pont"
           },
           "coords": [
             1.3494,
@@ -105,7 +112,8 @@
             "de": "Der beste Ort für ein Panoramafoto der Stadt am Tarn.",
             "hu": "A legjobb hely egy panorámafotóhoz a Tarn-folyó partján.",
             "ro": "Cel mai bun loc pentru o fotografie panoramică a orașului.",
-            "en": "The best spot for a panoramic photo of the city by the Tarn."
+            "en": "The best spot for a panoramic photo of the city by the Tarn.",
+            "fr": "Le meilleur endroit pour une photo panoramique de la ville sur le Tarn."
           }
         },
         {
@@ -113,7 +121,8 @@
             "de": "Cathédrale Notre-Dame",
             "hu": "Notre-Dame katedrális",
             "ro": "Catedrala Notre-Dame",
-            "en": "Cathédrale Notre-Dame"
+            "en": "Cathédrale Notre-Dame",
+            "fr": "Cathédrale Notre-Dame"
           },
           "coords": [
             1.3552,
@@ -128,7 +137,8 @@
             "de": "Sehen Sie Ingres' Gemälde 'Das Gelübde Ludwigs XIII.'.",
             "hu": "Tekintsd meg Ingres híres festményét a templomban.",
             "ro": "Vedeți pictura lui Ingres, 'Jurământul lui Ludovic al XIII-lea'.",
-            "en": "See Ingres' painting 'The Vow of Louis XIII' inside."
+            "en": "See Ingres' painting 'The Vow of Louis XIII' inside.",
+            "fr": "Voir le tableau d'Ingres « Le Vœu de Louis XIII » à l'intérieur."
           }
         },
         {
@@ -136,7 +146,8 @@
             "de": "Jardin des Plantes",
             "hu": "Fűvészkert",
             "ro": "Grădina Botanică",
-            "en": "Jardin des Plantes"
+            "en": "Jardin des Plantes",
+            "fr": "Jardin des Plantes"
           },
           "coords": [
             1.3595,
@@ -151,7 +162,8 @@
             "de": "Perfekt für einen entspannten Nachmittagsspaziergang.",
             "hu": "Tökéletes hely egy nyugodt délutáni sétához.",
             "ro": "Perfect pentru o plimbare relaxantă de după-amiază.",
-            "en": "Perfect for a relaxing afternoon stroll."
+            "en": "Perfect for a relaxing afternoon stroll.",
+            "fr": "Parfait pour une promenade détendue l'après‑midi."
           }
         }
       ],
@@ -159,7 +171,8 @@
         "de": "Ihr Tag beginnt im Herzen der 'rosa Stadt' auf dem prächtigen Place Nationale. Nach der Besichtigung der gotischen Kirchen tauchen Sie im Musée Ingres in die Kunstgeschichte ein. Ein Spaziergang über die alte Brücke bietet herrliche Ausblicke auf den Tarn, gefolgt von der kühnen weißen Kathedrale. Den Abschluss bildet die Ruhe des botanischen Gartens.",
         "hu": "A napot a 'rózsaszín város' szívében, a lenyűgöző Place Nationale-on kezdjük. A gótikus templomok után az Ingres Múzeumban merülünk el a művészetben. Az Öreg híd panorámája után a fehér kőből épült katedrális következik, végül pedig a botanikus kert békéje zárja a montaubani kalandot.",
         "ro": "Ziua începe în inima 'orașului roz', în superba Place Nationale. După vizitarea bisericilor gotice, descoperiți arta la Muzeul Ingres. O plimbare pe Podul Vechi oferă vederi superbe asupra râului Tarn, urmată de catedrala albă impunătoare. Încheiați ziua în liniștea grădinii botanice.",
-        "en": "Your day starts in the heart of the 'pink city' at the magnificent Place Nationale. After exploring Gothic churches, immerse yourself in art at the Musée Ingres. A walk across the Old Bridge offers stunning Tarn views, followed by the bold white cathedral. The day concludes in the peaceful botanical gardens."
+        "en": "Your day starts in the heart of the 'pink city' at the magnificent Place Nationale. After exploring Gothic churches, immerse yourself in art at the Musée Ingres. A walk across the Old Bridge offers stunning Tarn views, followed by the bold white cathedral. The day concludes in the peaceful botanical gardens.",
+        "fr": "Votre journée commence au cœur de la « ville rose » sur la magnifique Place Nationale. Après avoir exploré des églises gothiques, immergez‑vous dans l'art au Musée Ingres. Une promenade sur le Vieux Pont offre de superbes vues sur le Tarn, suivie de la cathédrale blanche imposante. La journée se termine dans les paisibles jardins botaniques."
       },
       "gastro_picks": {
         "de": [
@@ -315,6 +328,11 @@
           "Montauban is very pedestrian-friendly; wear comfortable shoes for the cobblestones.",
           "The pink bricks glow beautifully in the late afternoon sun.",
           "Museums are often closed on Mondays; check the schedule in advance."
+        ],
+        "fr": [
+          "Montauban est très adaptée aux piétons ; portez des chaussures confortables pour les pavés.",
+          "Les briques roses prennent une belle lueur au soleil de fin d'après‑midi.",
+          "Les musées sont souvent fermés le lundi ; vérifiez les horaires à l'avance."
         ]
       }
     },
@@ -331,7 +349,8 @@
             "de": "Jardin des Plantes",
             "hu": "Fűvészkert",
             "ro": "Grădina Botanică",
-            "en": "Jardin des Plantes"
+            "en": "Jardin des Plantes",
+            "fr": "Jardin des Plantes"
           },
           "coords": [
             1.3595,
@@ -346,7 +365,8 @@
             "de": "Starten Sie ruhig in den Tag im Schatten alter Bäume.",
             "hu": "Kezdd a napot az öreg fák árnyékában.",
             "ro": "Începeți ziua la umbra arborilor seculari.",
-            "en": "Start your day under the shade of ancient trees."
+            "en": "Start your day under the shade of ancient trees.",
+            "fr": "Commencez votre journée à l'ombre d'arbres centenaires."
           }
         },
         {
@@ -354,7 +374,8 @@
             "de": "Cathédrale Notre-Dame",
             "hu": "Katedrális",
             "ro": "Catedrala",
-            "en": "Cathedral"
+            "en": "Cathedral",
+            "fr": "Cathédrale"
           },
           "coords": [
             1.3552,
@@ -369,7 +390,8 @@
             "de": "Das weiße Steingebäude bildet einen starken Kontrast zum Ziegel.",
             "hu": "A fehér kőépület éles kontrasztban áll a város tégláival.",
             "ro": "Edificiul din piatră albă contrastează cu restul orașului.",
-            "en": "The white stone building contrasts sharply with the city's bricks."
+            "en": "The white stone building contrasts sharply with the city's bricks.",
+            "fr": "Le bâtiment en pierre blanche contraste fortement avec les briques de la ville."
           }
         },
         {
@@ -377,7 +399,8 @@
             "de": "Ancien Collège",
             "hu": "Régi Kollégium",
             "ro": "Vechiul Colegiu",
-            "en": "Ancien Collège"
+            "en": "Ancien Collège",
+            "fr": "Ancien Collège"
           },
           "coords": [
             1.3558,
@@ -392,7 +415,8 @@
             "de": "Ein prächtiges Gebäude, das heute als Kulturzentrum dient.",
             "hu": "Lenyűgöző épület, ma kulturális központ.",
             "ro": "O clădire splendidă care acum servește ca centru cultural.",
-            "en": "A magnificent building now serving as a cultural center."
+            "en": "A magnificent building now serving as a cultural center.",
+            "fr": "Un magnifique édifice servant désormais de centre culturel."
           }
         },
         {
@@ -400,7 +424,8 @@
             "de": "Place Nationale",
             "hu": "Place Nationale",
             "ro": "Piața Națională",
-            "en": "Place Nationale"
+            "en": "Place Nationale",
+            "fr": "Place Nationale"
           },
           "coords": [
             1.3533,
@@ -415,7 +440,8 @@
             "de": "Stellen Sie Ihr Fahrrad sicher ab und genießen Sie den Platz.",
             "hu": "Zárd le a biciklit és élvezd a tér hangulatát.",
             "ro": "Parcați bicicleta și bucurați-vă de atmosferă.",
-            "en": "Park your bike and enjoy the atmosphere of the square."
+            "en": "Park your bike and enjoy the atmosphere of the square.",
+            "fr": "Garez votre vélo et profitez de l'ambiance de la place."
           }
         },
         {
@@ -423,7 +449,8 @@
             "de": "Musée Ingres Bourdelle",
             "hu": "Ingres Múzeum",
             "ro": "Muzeul Ingres",
-            "en": "Musée Ingres"
+            "en": "Musée Ingres",
+            "fr": "Musée Ingres"
           },
           "coords": [
             1.3507,
@@ -438,7 +465,8 @@
             "de": "Das ehemalige Bischofsschloss direkt am Fluss.",
             "hu": "Az egykori püspöki palota a folyó mellett.",
             "ro": "Fostul palat episcopal de pe malul râului.",
-            "en": "The former bishop's palace right by the river."
+            "en": "The former bishop's palace right by the river.",
+            "fr": "L'ancien palais épiscopal juste au bord de la rivière."
           }
         },
         {
@@ -446,7 +474,8 @@
             "de": "Pont Vieux",
             "hu": "Öreg híd",
             "ro": "Podul Vechi",
-            "en": "Old Bridge"
+            "en": "Old Bridge",
+            "fr": "Vieux Pont"
           },
           "coords": [
             1.3494,
@@ -461,7 +490,8 @@
             "de": "Fahren Sie vorsichtig über diese historische Brücke.",
             "hu": "Óvatosan tekerj át ezen a történelmi hídon.",
             "ro": "Traversați cu atenție acest pod istoric.",
-            "en": "Ride carefully across this historical bridge."
+            "en": "Ride carefully across this historical bridge.",
+            "fr": "Traversez prudemment ce pont historique."
           }
         },
         {
@@ -469,7 +499,8 @@
             "de": "Cours Foucault",
             "hu": "Cours Foucault",
             "ro": "Cours Foucault",
-            "en": "Cours Foucault"
+            "en": "Cours Foucault",
+            "fr": "Cours Foucault"
           },
           "coords": [
             1.344,
@@ -484,7 +515,8 @@
             "de": "Weite Alleen, ideal für eine letzte Fahrradrunde.",
             "hu": "Széles sétányok, ideális egy utolsó biciklis körhöz.",
             "ro": "Alei largi, ideale pentru o ultimă plimbare cu bicicleta.",
-            "en": "Wide avenues, ideal for a final bike loop."
+            "en": "Wide avenues, ideal for a final bike loop.",
+            "fr": "De larges avenues, idéales pour une dernière boucle à vélo."
           }
         }
       ],
@@ -492,7 +524,8 @@
         "de": "Mit dem Fahrrad erkunden Sie Montauban effizient von den Gärten bis zum Stadtzentrum. Nach dem Besuch der Kathedrale und des alten Kollegs erreichen Sie den Place Nationale. Der Weg führt weiter zum Ingres-Museum und über den Pont Vieux bis zum weitläufigen Cours Foucault am Ufer des Tarn.",
         "hu": "Biciklivel hatékonyan fedezheted fel Montaubant a kertektől a belvárosig. A katedrális és a régi kollégium után a Place Nationale következik. Az út az Ingres Múzeumhoz vezet, majd az Öreg hídon át a tágas Cours Foucault sétányig a Tarn partján.",
         "ro": "Cu bicicleta explorați eficient Montauban de la grădini până în centru. După catedrală și vechiul colegiu, ajungeți în Place Nationale. Traseul continuă spre Muzeul Ingres și peste Podul Vechi până la promenada Cours Foucault de pe malul râului.",
-        "en": "By bike, you'll efficiently explore Montauban from the gardens to the city center. After visiting the cathedral and the old college, head to Place Nationale. The route continues to the Ingres Museum, across the Old Bridge, and finally to the spacious Cours Foucault by the Tarn."
+        "en": "By bike, you'll efficiently explore Montauban from the gardens to the city center. After visiting the cathedral and the old college, head to Place Nationale. The route continues to the Ingres Museum, across the Old Bridge, and finally to the spacious Cours Foucault by the Tarn.",
+        "fr": "À vélo, vous explorerez efficacement Montauban des jardins au centre-ville. Après avoir visité la cathédrale et l'ancien collège, dirigez‑vous vers la Place Nationale. L'itinéraire se poursuit vers le Musée Ingres, traverse le Vieux Pont et termine enfin au spacieux Cours Foucault, au bord du Tarn."
       },
       "gastro_picks": {
         "de": [
@@ -592,6 +625,10 @@
         "en": [
           "Use the bike paths along the Tarn river.",
           "Watch out for pedestrians in the old town."
+        ],
+        "fr": [
+          "Utilisez les pistes cyclables le long du Tarn.",
+          "Faites attention aux piétons dans la vieille ville."
         ]
       }
     },
@@ -608,7 +645,8 @@
             "de": "Musée Ingres Bourdelle",
             "hu": "Ingres Múzeum",
             "ro": "Muzeul Ingres",
-            "en": "Musée Ingres"
+            "en": "Musée Ingres",
+            "fr": "Musée Ingres"
           },
           "coords": [
             1.3507,
@@ -623,7 +661,8 @@
             "de": "Parken Sie im Parkhaus 'Griffoul' ganz in der Nähe.",
             "hu": "Parkolj a közeli Griffoul parkolóházban.",
             "ro": "Parcați în parcarea Griffoul din apropiere.",
-            "en": "Park in the nearby Griffoul parking garage."
+            "en": "Park in the nearby Griffoul parking garage.",
+            "fr": "Garez‑vous dans le parking Griffoul à proximité."
           }
         },
         {
@@ -631,7 +670,8 @@
             "de": "Place Nationale",
             "hu": "Place Nationale",
             "ro": "Piața Națională",
-            "en": "Place Nationale"
+            "en": "Place Nationale",
+            "fr": "Place Nationale"
           },
           "coords": [
             1.3533,
@@ -646,7 +686,8 @@
             "de": "Cluster-Stop 2: Kurzer Fußweg vom Museum.",
             "hu": "Gyalogos megálló a múzeumtól.",
             "ro": "Oprire pietonală de la muzeu.",
-            "en": "Short walk from the museum."
+            "en": "Short walk from the museum.",
+            "fr": "Courte marche depuis le musée."
           }
         },
         {
@@ -654,7 +695,8 @@
             "de": "Église Saint-Jacques",
             "hu": "Szent Jakab-templom",
             "ro": "Biserica Sfântul Iacob",
-            "en": "Saint-Jacques Church"
+            "en": "Saint-Jacques Church",
+            "fr": "Église Saint‑Jacques"
           },
           "coords": [
             1.3517,
@@ -669,7 +711,8 @@
             "de": "Cluster-Stop 3: Weiter zu Fuß durch die Gassen.",
             "hu": "Folytasd gyalog az utcákon át.",
             "ro": "Continuați pe jos prin străduțe.",
-            "en": "Continue on foot through the alleys."
+            "en": "Continue on foot through the alleys.",
+            "fr": "Poursuivez à pied par les ruelles."
           }
         },
         {
@@ -677,7 +720,8 @@
             "de": "Pont Vieux",
             "hu": "Öreg híd",
             "ro": "Podul Vechi",
-            "en": "Old Bridge"
+            "en": "Old Bridge",
+            "fr": "Vieux Pont"
           },
           "coords": [
             1.3494,
@@ -692,7 +736,8 @@
             "de": "Letzter Cluster-Stop: Blick auf den Fluss vor der Weiterfahrt.",
             "hu": "Utolsó gyalogos megálló a továbbindulás előtt.",
             "ro": "Ultima oprire pietonală înainte de plecare.",
-            "en": "Last cluster stop before driving."
+            "en": "Last cluster stop before driving.",
+            "fr": "Dernier arrêt de groupe avant de prendre la voiture."
           }
         },
         {
@@ -700,7 +745,8 @@
             "de": "Cathédrale Notre-Dame",
             "hu": "Katedrális",
             "ro": "Catedrala",
-            "en": "Cathedral"
+            "en": "Cathedral",
+            "fr": "Cathédrale"
           },
           "coords": [
             1.3552,
@@ -715,7 +761,8 @@
             "de": "Neuer Parkplatz in der Nähe der Kathedrale suchen.",
             "hu": "Keress új parkolóhelyet a katedrális közelében.",
             "ro": "Căutați o parcare nouă lângă catedrală.",
-            "en": "Find a new parking spot near the cathedral."
+            "en": "Find a new parking spot near the cathedral.",
+            "fr": "Trouvez une nouvelle place de parking près de la cathédrale."
           }
         },
         {
@@ -723,7 +770,8 @@
             "de": "Ancien Collège",
             "hu": "Régi Kollégium",
             "ro": "Vechiul Colegiu",
-            "en": "Ancien Collège"
+            "en": "Ancien Collège",
+            "fr": "Ancien Collège"
           },
           "coords": [
             1.3558,
@@ -738,7 +786,8 @@
             "de": "Cluster-Stop 2: Ein kurzer Spaziergang von der Kathedrale.",
             "hu": "Rövid séta a katedrálistól.",
             "ro": "O scurtă plimbare de la catedrală.",
-            "en": "A short walk from the cathedral."
+            "en": "A short walk from the cathedral.",
+            "fr": "À une courte distance de marche de la cathédrale."
           }
         },
         {
@@ -746,7 +795,8 @@
             "de": "Cours Foucault",
             "hu": "Cours Foucault",
             "ro": "Cours Foucault",
-            "en": "Cours Foucault"
+            "en": "Cours Foucault",
+            "fr": "Cours Foucault"
           },
           "coords": [
             1.344,
@@ -761,7 +811,8 @@
             "de": "Großer Parkplatz direkt am Eingang des Parks.",
             "hu": "Nagy parkoló közvetlenül a park bejáratánál.",
             "ro": "Parcare mare chiar la intrarea în parc.",
-            "en": "Large parking area right at the park entrance."
+            "en": "Large parking area right at the park entrance.",
+            "fr": "Grand espace de stationnement juste à l'entrée du parc."
           }
         },
         {
@@ -769,7 +820,8 @@
             "de": "Jardin des Plantes",
             "hu": "Fűvészkert",
             "ro": "Grădina Botanică",
-            "en": "Jardin des Plantes"
+            "en": "Jardin des Plantes",
+            "fr": "Jardin des Plantes"
           },
           "coords": [
             1.3595,
@@ -784,7 +836,8 @@
             "de": "Ruhiger Abschluss im botanischen Garten.",
             "hu": "Csendes lezárás a botanikus kertben.",
             "ro": "Încheiere liniștită în grădina botanică.",
-            "en": "Quiet conclusion in the botanical garden."
+            "en": "Quiet conclusion in the botanical garden.",
+            "fr": "Conclusion paisible dans le jardin botanique."
           }
         }
       ],
@@ -792,7 +845,8 @@
         "de": "Mit dem Auto nutzen wir die Cluster-Strategie: Zuerst erkunden wir das Zentrum zu Fuß vom Ingres-Museum aus. Danach fahren wir zur Kathedrale und dem alten Kolleg. Den Nachmittag verbringen wir in den weitläufigen Parks am Stadtrand, dem Cours Foucault und dem Botanischen Garten.",
         "hu": "Autóval a klaszter-stratégiát követjük: először a központot fedezzük fel gyalog az Ingres Múzeumtól indulva. Ezután átgurulunk a katedrálishoz és a régi kollégiumhoz. A délutánt a város szélén lévő tágas parkokban, a Cours Foucault-nál és a botanikus kertben töltjük.",
         "ro": "Cu mașina folosim strategia clusterelor: mai întâi explorăm centrul pe jos pornind de la Muzeul Ingres. Apoi conducem spre catedrală și vechiul colegiu. După-amiaza o petrecem în parcurile spațioase de la marginea orașului, Cours Foucault și Grădina Botanică.",
-        "en": "By car, we follow a cluster strategy: first exploring the center on foot from the Ingres Museum. Then, we drive to the cathedral and the old college. The afternoon is spent in the spacious parks on the outskirts, Cours Foucault and the Botanical Garden."
+        "en": "By car, we follow a cluster strategy: first exploring the center on foot from the Ingres Museum. Then, we drive to the cathedral and the old college. The afternoon is spent in the spacious parks on the outskirts, Cours Foucault and the Botanical Garden.",
+        "fr": "En voiture, nous suivons une stratégie de regroupement : d'abord explorer le centre à pied depuis le Musée Ingres. Ensuite, nous conduisons jusqu'à la cathédrale et l'ancien collège. L'après‑midi se passe dans les vastes parcs en périphérie, le Cours Foucault et le Jardin des Plantes."
       },
       "gastro_picks": {
         "de": [
@@ -892,6 +946,10 @@
         "en": [
           "Parking in the center can be tough; use parking garages.",
           "One-way streets in the old town can be confusing."
+        ],
+        "fr": [
+          "Le stationnement au centre peut être difficile ; utilisez les parkings couverts.",
+          "Les sens uniques dans la vieille ville peuvent prêter à confusion."
         ]
       }
     },
@@ -908,7 +966,8 @@
             "de": "Place Nationale",
             "hu": "Place Nationale",
             "ro": "Piața Națională",
-            "en": "Place Nationale"
+            "en": "Place Nationale",
+            "fr": "Place Nationale"
           },
           "coords": [
             1.3533,
@@ -923,7 +982,8 @@
             "de": "Zentraler Ausstiegspunkt für die meisten Buslinien.",
             "hu": "Központi megálló a legtöbb buszjáratnak.",
             "ro": "Punct central de coborâre pentru majoritatea liniilor.",
-            "en": "Central drop-off point for most bus lines."
+            "en": "Central drop-off point for most bus lines.",
+            "fr": "Point de dépose central pour la plupart des lignes de bus."
           }
         },
         {
@@ -931,7 +991,8 @@
             "de": "Cathédrale Notre-Dame",
             "hu": "Katedrális",
             "ro": "Catedrala",
-            "en": "Cathedral"
+            "en": "Cathedral",
+            "fr": "Cathédrale"
           },
           "coords": [
             1.3552,
@@ -946,7 +1007,8 @@
             "de": "Cluster 1: Kurzer Fußweg von der Place Nationale.",
             "hu": "Első klaszter: Rövid séta a főtértől.",
             "ro": "Cluster 1: O scurtă plimbare de la Piața Națională.",
-            "en": "Cluster 1: Short walk from Place Nationale."
+            "en": "Cluster 1: Short walk from Place Nationale.",
+            "fr": "Groupe 1 : courte marche depuis la Place Nationale."
           }
         },
         {
@@ -954,7 +1016,8 @@
             "de": "Musée Ingres Bourdelle",
             "hu": "Ingres Múzeum",
             "ro": "Muzeul Ingres",
-            "en": "Musée Ingres"
+            "en": "Musée Ingres",
+            "fr": "Musée Ingres"
           },
           "coords": [
             1.3507,
@@ -969,7 +1032,8 @@
             "de": "Nehmen Sie den Bus zum Quai Villebourbon.",
             "hu": "Szállj buszra a Quai Villebourbon felé.",
             "ro": "Luați autobuzul spre Quai Villebourbon.",
-            "en": "Take the bus towards Quai Villebourbon."
+            "en": "Take the bus towards Quai Villebourbon.",
+            "fr": "Prenez le bus en direction du Quai Villebourbon."
           }
         },
         {
@@ -977,7 +1041,8 @@
             "de": "Pont Vieux",
             "hu": "Öreg híd",
             "ro": "Podul Vechi",
-            "en": "Old Bridge"
+            "en": "Old Bridge",
+            "fr": "Vieux Pont"
           },
           "coords": [
             1.3494,
@@ -992,7 +1057,8 @@
             "de": "Cluster 2: Zu Fuß vom Museum aus erreichbar.",
             "hu": "Második klaszter: Gyalog a múzeumtól.",
             "ro": "Cluster 2: Accesibil pe jos de la muzeu.",
-            "en": "Cluster 2: Accessible on foot from the museum."
+            "en": "Cluster 2: Accessible on foot from the museum.",
+            "fr": "Groupe 2 : accessible à pied depuis le musée."
           }
         },
         {
@@ -1000,7 +1066,8 @@
             "de": "Jardin des Plantes",
             "hu": "Fűvészkert",
             "ro": "Grădina Botanică",
-            "en": "Jardin des Plantes"
+            "en": "Jardin des Plantes",
+            "fr": "Jardin des Plantes"
           },
           "coords": [
             1.3595,
@@ -1015,7 +1082,8 @@
             "de": "Nutzen Sie die Linie zum 'Jardin'.",
             "hu": "Használd a kerthez (Jardin) tartó járatot.",
             "ro": "Folosiți linia care merge spre grădină.",
-            "en": "Use the bus line going to the garden."
+            "en": "Use the bus line going to the garden.",
+            "fr": "Prenez la ligne de bus en direction du jardin."
           }
         },
         {
@@ -1023,7 +1091,8 @@
             "de": "Ancien Collège",
             "hu": "Régi Kollégium",
             "ro": "Vechiul Colegiu",
-            "en": "Ancien Collège"
+            "en": "Ancien Collège",
+            "fr": "Ancien Collège"
           },
           "coords": [
             1.3558,
@@ -1038,7 +1107,8 @@
             "de": "Rückfahrt ins Zentrum zum Abschluss.",
             "hu": "Visszatérés a központba a nap végén.",
             "ro": "Întoarcere în centru pentru finalul zilei.",
-            "en": "Return to the center for the conclusion."
+            "en": "Return to the center for the conclusion.",
+            "fr": "Retournez au centre pour la conclusion."
           }
         }
       ],
@@ -1046,7 +1116,8 @@
         "de": "Das Busnetz von Montauban verbindet die wichtigsten Sehenswürdigkeiten. Wir starten am Place Nationale und der Kathedrale (Cluster 1). Ein kurzer Bustransfer bringt uns zum Ingres-Museum und der alten Brücke (Cluster 2), bevor wir den Nachmittag im botanischen Garten und am alten Kolleg ausklingen lassen.",
         "hu": "Montauban buszhálózata jól összeköti a fő látnivalókat. A Place Nationale-nél és a katedrálisnál kezdünk (1. klaszter). Egy rövid buszozás után az Ingres Múzeum és az Öreg híd következik (2. klaszter), végül a botanikus kertben és a régi kollégiumnál zárjuk a napot.",
         "ro": "Rețeaua de autobuze din Montauban face legătura între principalele atracții. Începem la Place Nationale și catedrală (Cluster 1). Un scurt transfer ne duce la Muzeul Ingres și Podul Vechi (Cluster 2), încheind ziua la grădina botanică și vechiul colegiu.",
-        "en": "Montauban's bus network links the main sights. We start at Place Nationale and the cathedral (Cluster 1). A short bus transfer takes us to the Ingres Museum and the Old Bridge (Cluster 2), before ending the day at the botanical garden and the old college."
+        "en": "Montauban's bus network links the main sights. We start at Place Nationale and the cathedral (Cluster 1). A short bus transfer takes us to the Ingres Museum and the Old Bridge (Cluster 2), before ending the day at the botanical garden and the old college.",
+        "fr": "Le réseau de bus de Montauban relie les principaux sites. Nous commençons à la Place Nationale et à la cathédrale (Groupe 1). Un court transfert en bus nous mène au Musée Ingres et au Vieux Pont (Groupe 2), avant de terminer la journée au jardin botanique et à l'ancien collège."
       },
       "gastro_picks": {
         "de": [
@@ -1146,6 +1217,10 @@
         "en": [
           "Buy a day pass for the bus.",
           "The 'TMontauban' app helps with schedules."
+        ],
+        "fr": [
+          "Achetez un pass journée pour le bus.",
+          "L'application 'TMontauban' aide pour les horaires."
         ]
       }
     }

@@ -31,7 +31,8 @@
             "de": "Besuchen Sie das Zimmer von General Bertrand, Napoleons treuem Begleiter.",
             "hu": "Nézze meg Bertrand tábornok szobáját, aki Napóleon hűséges kísérője volt.",
             "ro": "Vizitați camera generalului Bertrand, companionul loial al lui Napoleon.",
-            "en": "Visit the room of General Bertrand, Napoleon's loyal companion."
+            "en": "Visit the room of General Bertrand, Napoleon's loyal companion.",
+            "fr": "Visitez la chambre du général Bertrand, fidèle compagnon de Napoléon."
           }
         },
         {
@@ -49,7 +50,8 @@
             "de": "Bester Blick auf das Schloss von der Brücke über die Indre.",
             "hu": "A legjobb kilátás a kastélyra az Indre folyó hídjáról nyílik.",
             "ro": "Cea mai bună vedere a castelului de pe podul peste râul Indre.",
-            "en": "Best view of the castle from the bridge over the Indre river."
+            "en": "Best view of the castle from the bridge over the Indre river.",
+            "fr": "Meilleure vue du château depuis le pont sur la rivière Indre."
           }
         },
         {
@@ -67,7 +69,8 @@
             "de": "Bewundern Sie die neugotischen Glasfenster im Inneren.",
             "hu": "Csodálja meg a belső tér neogótikus üvegablakait.",
             "ro": "Admirați vitraliile neogotice din interior.",
-            "en": "Admire the neo-Gothic stained glass windows inside."
+            "en": "Admire the neo-Gothic stained glass windows inside.",
+            "fr": "Admirez les vitraux néo-gothiques à l'intérieur."
           }
         },
         {
@@ -85,7 +88,8 @@
             "de": "Ein ehemaliges Kloster, das heute für Kunstausstellungen genutzt wird.",
             "hu": "Egykori kolostor, amely ma művészeti kiállításoknak ad otthont.",
             "ro": "O fostă mănăstire care acum găzduiește expoziții de artă.",
-            "en": "A former convent now used for art exhibitions."
+            "en": "A former convent now used for art exhibitions.",
+            "fr": "Un ancien couvent aujourd'hui utilisé pour des expositions d'art."
           }
         },
         {
@@ -103,7 +107,8 @@
             "de": "Ein friedlicher Ort am Ufer der Indre, ideal für eine Pause.",
             "hu": "Békés hely az Indre partján, ideális egy kis pihenéshez.",
             "ro": "Un loc liniștit pe malul râului Indre, ideal pentru o pauză.",
-            "en": "A peaceful spot on the banks of the Indre, ideal for a break."
+            "en": "A peaceful spot on the banks of the Indre, ideal for a break.",
+            "fr": "Un endroit paisible sur les rives de l'Indre, idéal pour une pause."
           }
         },
         {
@@ -121,7 +126,8 @@
             "de": "Achten Sie auf die Details des romanisch-byzantinischen Stils.",
             "hu": "Figyelje meg a román-bizánci stílus részleteit.",
             "ro": "Observați detaliile stilului romano-bizantin.",
-            "en": "Observe the details of the Romanesque-Byzantine style."
+            "en": "Observe the details of the Romanesque-Byzantine style.",
+            "fr": "Observez les détails du style romano-byzantin."
           }
         },
         {
@@ -139,7 +145,8 @@
             "de": "Das Herz der Stadt, perfekt um den Tag ausklingen zu lassen.",
             "hu": "A város szíve, tökéletes hely a nap lezárásához.",
             "ro": "Inima orașului, locul perfect pentru a încheia ziua.",
-            "en": "The heart of the city, the perfect place to end the day."
+            "en": "The heart of the city, the perfect place to end the day.",
+            "fr": "Le cœur de la ville, l'endroit parfait pour terminer la journée."
           }
         }
       ],
@@ -147,7 +154,8 @@
         "de": "Beginnen Sie Ihren Tag im Musée Bertrand, einem prächtigen Herrenhaus voller Geschichte. Ein kurzer Spaziergang führt Sie zum Château Raoul, dem Wahrzeichen der Stadt am Flussufer. Mittags erkunden Sie die prächtige Kirche Saint-André und das kulturelle Zentrum im Cordeliers-Kloster. Der Nachmittag gehört der Natur im Jardin Public und der Architektur von Notre-Dame. Beenden Sie Ihren Rundgang im lebhaften Stadtzentrum auf dem Place de la République.",
         "hu": "Kezdje a napot a Bertrand Múzeumban, egy történelmi emlékekkel teli pompás kúriában. Rövid séta után elérjük a város jelképét, a folyóparti Raoul-kastélyt. Dél körül fedezze fel a Szent András-templomot és a Cordeliers kolostor kulturális központját. A délután a természeté a Közparkban és a Notre-Dame építészetéé. Zárja a sétát a város élénk központjában, a Köztársaság téren.",
         "ro": "Începeți ziua la Muzeul Bertrand, un conac magnific plin de istorie. O scurtă plimbare vă duce la Château Raoul, simbolul orașului de pe malul râului. La prânz, explorați biserica Saint-André și centrul cultural din mănăstirea Cordeliers. După-amiaza este dedicată naturii în Grădina Publică și arhitecturii bisericii Notre-Dame. Încheiați turul în centrul plin de viață al orașului, în Place de la République.",
-        "en": "Start your day at the Musée Bertrand, a magnificent mansion full of history. A short walk leads you to Château Raoul, the city's symbol on the riverbank. At midday, explore the grand Saint-André church and the cultural center in the Cordeliers convent. The afternoon belongs to nature in the Jardin Public and the architecture of Notre-Dame. End your walk in the lively city center at Place de la République."
+        "en": "Start your day at the Musée Bertrand, a magnificent mansion full of history. A short walk leads you to Château Raoul, the city's symbol on the riverbank. At midday, explore the grand Saint-André church and the cultural center in the Cordeliers convent. The afternoon belongs to nature in the Jardin Public and the architecture of Notre-Dame. End your walk in the lively city center at Place de la République.",
+        "fr": "Commencez votre journée au Musée Bertrand, un magnifique hôtel particulier chargé d'histoire. Une courte promenade vous mène au Château Raoul, symbole de la ville sur les rives. À midi, explorez la grande église Saint-André et le centre culturel du couvent des Cordeliers. L'après-midi appartient à la nature dans le Jardin Public et à l'architecture de Notre-Dame. Terminez votre balade dans le centre animé à la Place de la République."
       },
       "gastro_picks": {
         "de": [
@@ -307,6 +315,12 @@
           "Many museums are closed on Mondays, plan accordingly.",
           "The paths along the Indre are well signposted.",
           "Try the local Reuilly wine with dinner."
+        ],
+        "fr": [
+          "La ville est très plate et idéale pour être explorée à pied.",
+          "De nombreux musées sont fermés le lundi, planifiez en conséquence.",
+          "Les chemins le long de l'Indre sont bien balisés.",
+          "Goûtez le vin local de Reuilly avec le dîner."
         ]
       }
     },
@@ -333,7 +347,8 @@
             "de": "Kostenlose Fahrradabstellplätze am Museum.",
             "hu": "Ingyenes kerékpártároló a múzeumnál.",
             "ro": "Parcare gratuită pentru biciclete la muzeu.",
-            "en": "Free bike parking at the museum."
+            "en": "Free bike parking at the museum.",
+            "fr": "Parking gratuit pour vélos au musée."
           }
         },
         {
@@ -351,7 +366,8 @@
             "de": "Fahren Sie am Flussufer entlang für das beste Panorama.",
             "hu": "Tekerjen a folyóparton a legjobb panorámáért.",
             "ro": "Pedalați pe malul râului pentru cea mai bună panoramă.",
-            "en": "Ride along the riverbank for the best panorama."
+            "en": "Ride along the riverbank for the best panorama.",
+            "fr": "Parcourez la rive pour le meilleur panorama."
           }
         },
         {
@@ -369,7 +385,8 @@
             "de": "Beeindruckende Ruinen einer einst mächtigen Abtei.",
             "hu": "Egykor hatalmas apátság lenyűgöző romjai.",
             "ro": "Ruine impresionante ale unei abații odinioară puternice.",
-            "en": "Impressive ruins of a once powerful abbey."
+            "en": "Impressive ruins of a once powerful abbey.",
+            "fr": "Ruines impressionnantes d'une abbaye autrefois puissante."
           }
         },
         {
@@ -387,7 +404,8 @@
             "de": "Perfekter Ort für ein Picknick am See.",
             "hu": "Tökéletes hely egy tóparti piknikhez.",
             "ro": "Locul perfect pentru un picnic lângă lac.",
-            "en": "Perfect spot for a lakeside picnic."
+            "en": "Perfect spot for a lakeside picnic.",
+            "fr": "Endroit parfait pour un pique-nique au bord du lac."
           }
         },
         {
@@ -405,7 +423,8 @@
             "de": "Besuchen Sie den Garten hinter dem Kloster.",
             "hu": "Látogassa meg a kolostor mögötti kertet.",
             "ro": "Vizitați grădina din spatele mănăstirii.",
-            "en": "Visit the garden behind the convent."
+            "en": "Visit the garden behind the convent.",
+            "fr": "Visitez le jardin derrière le couvent."
           }
         },
         {
@@ -423,7 +442,8 @@
             "de": "Die Kuppel ist weithin sichtbar.",
             "hu": "A kupola már messziről látható.",
             "ro": "Cupola este vizibilă de la distanță.",
-            "en": "The dome is visible from afar."
+            "en": "The dome is visible from afar.",
+            "fr": "Le dôme se voit de loin."
           }
         },
         {
@@ -441,7 +461,8 @@
             "de": "Zentraler Treffpunkt mit vielen Cafés.",
             "hu": "Központi találkozóhely számos kávézóval.",
             "ro": "Loc de întâlnire central cu multe cafenele.",
-            "en": "Central meeting point with many cafes."
+            "en": "Central meeting point with many cafes.",
+            "fr": "Point de rencontre central avec de nombreux cafés."
           }
         }
       ],
@@ -449,7 +470,8 @@
         "de": "Mit dem Fahrrad erweitern Sie Ihren Radius bis zur beeindruckenden Abbaye de Déols im Norden. Nach dem kulturellen Start im Zentrum bietet der Parc de Belle-Isle eine erholsame Fahrt am Wasser. Die Route kombiniert historische Monumente wie das Château Raoul mit modernen Grünanlagen.",
         "hu": "Kerékpárral kiterjesztheti az útvonalat az északi részen található lenyűgöző Déols-i apátságig. A központi kulturális kezdés után a Belle-Isle park kínál pihentető tekerést a vízparton. Az útvonal egyesíti a történelmi műemlékeket a modern zöldterületekkel.",
         "ro": "Cu bicicleta vă extindeți raza de acțiune până la impresionanta Abație Déols din nord. După un început cultural în centru, Parcul Belle-Isle oferă o plimbare relaxantă pe malul apei. Traseul combină monumente istorice precum Château Raoul cu spații verzi moderne.",
-        "en": "By bike, you extend your radius to the impressive Déols Abbey in the north. After a cultural start in the center, Belle-Isle Park offers a relaxing ride by the water. The route combines historical monuments like Château Raoul with modern green spaces."
+        "en": "By bike, you extend your radius to the impressive Déols Abbey in the north. After a cultural start in the center, Belle-Isle Park offers a relaxing ride by the water. The route combines historical monuments like Château Raoul with modern green spaces.",
+        "fr": "À vélo, vous élargissez votre rayon jusqu’à la imposante abbaye de Déols au nord. Après un départ culturel au centre, le parc Belle-Isle offre une balade relaxante au bord de l’eau. L’itinéraire combine des monuments historiques comme le Château Raoul et des espaces verts modernes."
       },
       "gastro_picks": {
         "de": [
@@ -553,6 +575,11 @@
           "Use the 'Voie Verte' bike paths.",
           "The city is designed to be bike-friendly.",
           "Rent e-bikes for longer tours."
+        ],
+        "fr": [
+          "Utilisez les pistes cyclables 'Voie Verte'.",
+          "La ville est conçue pour être conviviale pour les vélos.",
+          "Louez des vélos électriques pour les circuits plus longs."
         ]
       }
     },
@@ -579,7 +606,8 @@
             "de": "Parken Sie am Place Gambetta.",
             "hu": "Parkoljon a Place Gambetta-n.",
             "ro": "Parcați în Place Gambetta.",
-            "en": "Park at Place Gambetta."
+            "en": "Park at Place Gambetta.",
+            "fr": "Garez-vous à la Place Gambetta."
           }
         },
         {
@@ -598,7 +626,8 @@
             "de": "Kurzer Fußweg vom Museum.",
             "hu": "Rövid séta a múzeumtól.",
             "ro": "Scurtă plimbare de la muzeu.",
-            "en": "Short walk from the museum."
+            "en": "Short walk from the museum.",
+            "fr": "Courte promenade depuis le musée."
           }
         },
         {
@@ -617,7 +646,8 @@
             "de": "Genießen Sie die Ruhe im Klostergarten.",
             "hu": "Élvezze a nyugalmat a kolostorkertben.",
             "ro": "Bucurați-vă de liniște în grădina mănăstirii.",
-            "en": "Enjoy the peace in the convent garden."
+            "en": "Enjoy the peace in the convent garden.",
+            "fr": "Profitez du calme du jardin du couvent."
           }
         },
         {
@@ -636,7 +666,8 @@
             "de": "Ausreichend Parkplätze vor der Abtei.",
             "hu": "Bőséges parkolóhely az apátság előtt.",
             "ro": "Parcare suficientă în fața abației.",
-            "en": "Ample parking in front of the abbey."
+            "en": "Ample parking in front of the abbey.",
+            "fr": "Grand parking devant l’abbaye."
           }
         },
         {
@@ -655,7 +686,8 @@
             "de": "Zentrum für Freizeitaktivitäten am Wasser.",
             "hu": "Vízparti szabadidős központ.",
             "ro": "Centru de activități de agrement pe malul apei.",
-            "en": "Lakeside leisure activity center."
+            "en": "Lakeside leisure activity center.",
+            "fr": "Centre de loisirs en bord de lac."
           }
         },
         {
@@ -674,7 +706,8 @@
             "de": "Beeindruckende Kirchtürme.",
             "hu": "Lenyűgöző templomtornyok.",
             "ro": "Turnuri de biserică impresionante.",
-            "en": "Impressive church steeples."
+            "en": "Impressive church steeples.",
+            "fr": "Clochers d’église impressionnants."
           }
         },
         {
@@ -693,7 +726,8 @@
             "de": "Perfekt für einen letzten Drink.",
             "hu": "Tökéletes egy utolsó italhoz.",
             "ro": "Perfect pentru o ultimă băutură.",
-            "en": "Perfect for a last drink."
+            "en": "Perfect for a last drink.",
+            "fr": "Parfait pour un dernier verre."
           }
         }
       ],
@@ -701,7 +735,8 @@
         "de": "Diese Autotour nutzt Cluster-Hopping: Zuerst das historische Zentrum zu Fuß, dann Fahrt zur Abtei Déols und schließlich zum Erholungspark Belle-Isle. So sparen Sie Zeit und sehen die Highlights in der Umgebung.",
         "hu": "Ez az autós túra a 'cluster-hopping' módszert használja: először a történelmi központot járjuk be gyalog, majd átmegyünk a Déols apátsághoz, végül a Belle-Isle pihenőparkhoz. Így időt takarít meg és a környék nevezetességeit is látja.",
         "ro": "Acest tur auto folosește metoda 'cluster-hopping': mai întâi centrul istoric la pas, apoi deplasare la Abația Déols și în final la parcul de recreere Belle-Isle. Astfel economisiți timp și vedeți toate atracțiile din jur.",
-        "en": "This car tour uses cluster-hopping: first the historic center on foot, then a drive to Déols Abbey and finally to the Belle-Isle leisure park. This way you save time and see the highlights in the area."
+        "en": "This car tour uses cluster-hopping: first the historic center on foot, then a drive to Déols Abbey and finally to the Belle-Isle leisure park. This way you save time and see the highlights in the area.",
+        "fr": "Ce circuit en voiture utilise le 'cluster-hopping' : d’abord le centre historique à pied, puis un trajet jusqu’à l’abbaye de Déols et enfin le parc de loisirs Belle-Isle. Ainsi vous gagnez du temps et voyez les points forts de la région."
       },
       "gastro_picks": {
         "de": [
@@ -805,6 +840,11 @@
           "Parking in the center can be difficult, use parking garages.",
           "Déols is only a 5-minute drive away.",
           "Belle-Isle Park has large free parking lots."
+        ],
+        "fr": [
+          "Le stationnement au centre peut être difficile, utilisez les parkings souterrains.",
+          "Déols n’est qu’à 5 minutes en voiture.",
+          "Le parc Belle-Isle dispose de grands parkings gratuits."
         ]
       }
     },
@@ -831,7 +871,8 @@
             "de": "Buslinie 1 oder 2 ins Zentrum.",
             "hu": "1-es vagy 2-es busz a központba.",
             "ro": "Linia de autobuz 1 sau 2 spre centru.",
-            "en": "Bus line 1 or 2 to the center."
+            "en": "Bus line 1 or 2 to the center.",
+            "fr": "Ligne de bus 1 ou 2 jusqu’au centre."
           }
         },
         {
@@ -850,7 +891,8 @@
             "de": "Bequem zu Fuß vom Zentrum.",
             "hu": "Könnyű séta a központtól.",
             "ro": "Plimbare ușoară din centru.",
-            "en": "Easy walk from the center."
+            "en": "Easy walk from the center.",
+            "fr": "Facilement accessible à pied depuis le centre."
           }
         },
         {
@@ -869,7 +911,8 @@
             "de": "Nutzen Sie den Horizon-Bus nach Déols.",
             "hu": "Használja a Horizon buszt Déols felé.",
             "ro": "Folosiți autobuzul Horizon spre Déols.",
-            "en": "Use the Horizon bus to Déols."
+            "en": "Use the Horizon bus to Déols.",
+            "fr": "Prenez le bus Horizon jusqu’à Déols."
           }
         },
         {
@@ -888,7 +931,8 @@
             "de": "Haltestelle direkt am Parkeingang.",
             "hu": "Megálló közvetlenül a park bejáratánál.",
             "ro": "Stație chiar la intrarea în parc.",
-            "en": "Stop right at the park entrance."
+            "en": "Stop right at the park entrance.",
+            "fr": "Arrêt juste à l’entrée du parc."
           }
         },
         {
@@ -907,7 +951,8 @@
             "de": "Rückfahrt in Richtung Stadtpark.",
             "hu": "Visszautazás a városi park irányába.",
             "ro": "Întoarcere în direcția parcului orașului.",
-            "en": "Return towards the city park."
+            "en": "Return towards the city park.",
+            "fr": "Retour en direction du parc municipal."
           }
         },
         {
@@ -926,7 +971,8 @@
             "de": "Der zentrale Busknotenpunkt.",
             "hu": "A központi buszcsomópont.",
             "ro": "Nodul central de autobuz.",
-            "en": "The central bus hub."
+            "en": "The central bus hub.",
+            "fr": "Le pôle central de bus."
           }
         }
       ],
@@ -934,7 +980,8 @@
         "de": "Das Horizon-Busnetz ist kostenlos und effizient. Diese Route verbindet das historische Herz mit der Abtei Déols und dem Belle-Isle Park. Ein idealer Tag ohne Auto.",
         "hu": "A Horizon buszhálózat ingyenes és hatékony. Ez az útvonal összeköti a történelmi központot a Déols apátsággal és a Belle-Isle parkkal. Tökéletes nap autó nélkül.",
         "ro": "Rețeaua de autobuze Horizon este gratuită și eficientă. Acest traseu conectează inima istorică cu Abația Déols și Parcul Belle-Isle. O zi ideală fără mașină.",
-        "en": "The Horizon bus network is free and efficient. This route connects the historical heart with Déols Abbey and Belle-Isle Park. An ideal day without a car."
+        "en": "The Horizon bus network is free and efficient. This route connects the historical heart with Déols Abbey and Belle-Isle Park. An ideal day without a car.",
+        "fr": "Le réseau de bus Horizon est gratuit et efficace. Cet itinéraire relie le cœur historique à l’abbaye de Déols et au parc Belle-Isle. Une journée idéale sans voiture."
       },
       "gastro_picks": {
         "de": [
@@ -1038,6 +1085,11 @@
           "Buses are free in Châteauroux (Horizon network)!",
           "Check the schedules at the stops.",
           "Significantly fewer buses run on Sundays."
+        ],
+        "fr": [
+          "Les bus sont gratuits à Châteauroux (réseau Horizon) !",
+          "Consultez les horaires aux arrêts.",
+          "Beaucoup moins de bus circulent le dimanche."
         ]
       }
     }

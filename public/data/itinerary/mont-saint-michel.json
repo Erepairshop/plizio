@@ -21,7 +21,8 @@
             "de": "Grande Rue",
             "hu": "Grande Rue",
             "ro": "Grande Rue",
-            "en": "Grande Rue"
+            "en": "Grande Rue",
+            "fr": "Grande Rue"
           },
           "coords": [
             -1.5105,
@@ -37,7 +38,7 @@
             "hu": "Érkezz korán, hogy elkerüld a tömeget a szűk, meredek utcában.",
             "ro": "Vino devreme pentru a evita aglomerația pe strada principală îngustă.",
             "en": "Arrive early to avoid the crowds in the narrow, steep main street.",
-            "fr": "Arrivez tôt pour éviter la foule dans la rue principale étroite et escarpée."
+            "fr": "Arrivez tôt pour éviter la foule dans la rue principale étroite et pentue."
           }
         },
         {
@@ -45,7 +46,8 @@
             "de": "Logis Tiphaine",
             "hu": "Logis Tiphaine",
             "ro": "Logis Tiphaine",
-            "en": "Logis Tiphaine"
+            "en": "Logis Tiphaine",
+            "fr": "Logis Tiphaine"
           },
           "coords": [
             -1.5107,
@@ -69,7 +71,8 @@
             "de": "Église Saint-Pierre",
             "hu": "Szent Péter-templom",
             "ro": "Biserica Saint-Pierre",
-            "en": "Saint-Pierre Church"
+            "en": "Saint-Pierre Church",
+            "fr": "Saint-Pierre Church"
           },
           "coords": [
             -1.5108,
@@ -93,7 +96,8 @@
             "de": "Abbaye du Mont-Saint-Michel",
             "hu": "Mont-Saint-Michel apátság",
             "ro": "Abația Mont-Saint-Michel",
-            "en": "Mont-Saint-Michel Abbey"
+            "en": "Mont-Saint-Michel Abbey",
+            "fr": "Mont-Saint-Michel Abbey"
           },
           "coords": [
             -1.5112,
@@ -109,7 +113,7 @@
             "hu": "Foglald le a jegyedet előre, hogy elkerüld a hosszú sorban állást a bejáratnál.",
             "ro": "Rezervă biletul în avans pentru a evita cozile lungi de la intrare.",
             "en": "Book your ticket in advance to bypass long queues at the entrance.",
-            "fr": "Réservez votre billet à l'avance pour éviter les longues files d'attente à l'entrée."
+            "fr": "Réservez votre billet à l’avance pour éviter les longues files d’attente à l’entrée."
           }
         },
         {
@@ -117,7 +121,8 @@
             "de": "La Merveille",
             "hu": "La Merveille",
             "ro": "La Merveille",
-            "en": "La Merveille"
+            "en": "La Merveille",
+            "fr": "La Merveille"
           },
           "coords": [
             -1.5115,
@@ -133,7 +138,7 @@
             "hu": "Ámulj el az ebédlő és a szkriptórium lenyűgöző gótikus építészetén.",
             "ro": "Uimește-te de arhitectura gotică a trapezei și a scriptoriului.",
             "en": "Marvel at the Gothic architecture of the dining hall and scriptorium.",
-            "fr": "Émerveillez-vous devant l'architecture gothique du réfectoire et du scriptorium."
+            "fr": "Émerveillez‑vous devant l’architecture gothique de la salle des repas et du scriptorium."
           }
         },
         {
@@ -141,7 +146,8 @@
             "de": "Cloître de l'Abbaye",
             "hu": "Apátsági kolostorfolyosó",
             "ro": "Cloître de l'Abbaye",
-            "en": "Abbey Cloister"
+            "en": "Abbey Cloister",
+            "fr": "Abbey Cloister"
           },
           "coords": [
             -1.5111,
@@ -157,7 +163,7 @@
             "hu": "Élvezd a csendet ebben az ég és tenger között lebegő kertben.",
             "ro": "Bucură-te de liniște în această grădină suspendată între cer și mare.",
             "en": "Enjoy the silence in this hanging garden suspended between sky and sea.",
-            "fr": "Savourez le silence dans ce jardin suspendu entre ciel et mer."
+            "fr": "Appréciez le silence de ce jardin suspendu entre ciel et mer."
           }
         },
         {
@@ -165,7 +171,8 @@
             "de": "Remparts du Mont-Saint-Michel",
             "hu": "Mont-Saint-Michel várfalai",
             "ro": "Meterezele din Mont-Saint-Michel",
-            "en": "Ramparts of Mont-Saint-Michel"
+            "en": "Ramparts of Mont-Saint-Michel",
+            "fr": "Ramparts of Mont-Saint-Michel"
           },
           "coords": [
             -1.5098,
@@ -181,7 +188,7 @@
             "hu": "Sétálj végig a falakon az öbölre nyíló panorámás kilátásért.",
             "ro": "Plimbă-te pe ziduri pentru o vedere panoramică asupra golfului.",
             "en": "Walk along the walls for a panoramic view of the bay.",
-            "fr": "Marchez le long des remparts pour une vue panoramique sur la baie."
+            "fr": "Parcourez les remparts pour une vue panoramique sur la baie."
           }
         },
         {
@@ -189,7 +196,8 @@
             "de": "Tour Gabriel",
             "hu": "Gabriel-torony",
             "ro": "Turnul Gabriel",
-            "en": "Tour Gabriel"
+            "en": "Tour Gabriel",
+            "fr": "Tour Gabriel"
           },
           "coords": [
             -1.5126,
@@ -205,7 +213,7 @@
             "hu": "Ez az egykori szélmalom-torony egyedi perspektívát kínál a nyugati oldalra.",
             "ro": "Acest fost turn cu moară de vânt oferă o perspectivă unică asupra laturii de vest.",
             "en": "This former windmill tower offers a unique perspective on the west side.",
-            "fr": "Cet ancien moulin offre une perspective unique sur le côté ouest."
+            "fr": "Cette ancienne tour-moulin offre une perspective unique sur le côté ouest."
           }
         }
       ],
@@ -214,7 +222,7 @@
         "hu": "A napod a Grande Rue kanyargós utcáin kezdődik, ahol a középkor ma is élő valóság. A Logis Tiphaine és a falusi templom megtekintése után felkapaszkodsz a monumentális apátságba. Délben a 'Merveille' gótikus termeit és a békés kolostorkertet fedezed fel. Délután a hatalmas várfalakon sétálva csodálhatod meg az öblöt, végül a Gabriel-toronynál zárod a túrát, miközben az árapály lassan körbezárja a sziklát.",
         "ro": "Ziua începe pe străzile întortocheate din Grande Rue, unde Evul Mediu este încă viu. După o scurtă vizită la Logis Tiphaine și biserica satului, urcați la abația impunătoare. La prânz, explorați sălile gotice din 'Merveille' și claustrul liniștit. După-amiaza, vă plimbați de-a lungul zidurilor puternice de fortificație și încheiați turul la Turnul Gabriel, în timp ce fluxul înconjoară încet stânca.",
         "en": "Your day starts in the winding alleys of Grande Rue, where the Middle Ages are still alive. After a quick visit to Logis Tiphaine and the village church, ascend to the magnificent Abbey. At noon, explore the Gothic halls of 'La Merveille' and the peaceful cloister. In the afternoon, walk along the mighty fortress walls and finish your tour at Tour Gabriel as the tide slowly encircles the rock.",
-        "fr": "Votre journée commence dans les ruelles sinueuses de la Grande Rue, où le Moyen Âge est encore bien vivant. Après une courte visite au Logis Tiphaine et à l'église du village, montez vers la magnifique Abbaye. À midi, explorez les salles gothiques de « La Merveille » et son cloître paisible. L'après-midi, promenez-vous le long des puissants remparts et terminez votre tour à la Tour Gabriel alors que la marée encercle doucement le rocher."
+        "fr": "Votre journée commence dans les ruelles sinueuses de la Grande Rue, où le Moyen Âge est encore vivant. Après une rapide visite du Logis Tiphaine et de l'église du village, montez jusqu'à la magnifique Abbaye. À midi, explorez les salles gothiques de « La Merveille » et le paisible cloître. L'après-midi, marchez le long des puissants remparts et terminez votre visite à la Tour Gabriel tandis que la marée entoure lentement le rocher."
       },
       "gastro_picks": {
         "de": [
@@ -343,10 +351,10 @@
           "Bring a light jacket, as it is often windy on the walls."
         ],
         "fr": [
-          "Portez des chaussures robustes pour les escaliers raides et les pavés.",
-          "Consultez l'horaire des marées avant votre visite.",
+          "Portez des chaussures solides pour les escaliers raides et les pavés.",
+          "Vérifiez les horaires des marées avant votre visite.",
           "L'Abbaye ferme plus tôt que les remparts.",
-          "Apportez une veste légère, car il y a souvent du vent sur les remparts."
+          "Apportez une veste légère, il y a souvent du vent sur les remparts."
         ]
       },
       "variants": {
@@ -355,7 +363,8 @@
             "de": "Ihr Tag beginnt in den verwinkelten Gassen der Grande Rue, wo das Mittelalter noch lebendig ist. Nach einem kurzen Besuch im Logis Tiphaine und der Dorfkirche steigen Sie zur prächtigen Abtei hinauf. Mittags erkunden Sie die 'Merveille' und den friedlichen Kreuzgang. Am Nachmittag wandern Sie entlang der mächtigen Festungsmauern und beenden die Tour an der Tour Gabriel, während die Flut langsam den Felsen umschließt.",
             "hu": "A napod a Grande Rue kanyargós utcáin kezdődik, ahol a középkor ma is élő valóság. A Logis Tiphaine és a falusi templom megtekintése után felkapaszkodsz a monumentális apátságba. Délben a 'Merveille' gótikus termeit és a békés kolostorkertet fedezed fel. Délután a hatalmas várfalakon sétálva csodálhatod meg az öblöt, végül a Gabriel-toronynál zárod a túrát, miközben az árapály lassan körbezárja a sziklát.",
             "ro": "Ziua începe pe străzile întortocheate din Grande Rue, unde Evul Mediu este încă viu. După o scurtă vizită la Logis Tiphaine și biserica satului, urcați la abația impunătoare. La prânz, explorați sălile gotice din 'Merveille' și claustrul liniștit. După-amiaza, vă plimbați de-a lungul zidurilor puternice de fortificație și încheiați turul la Turnul Gabriel, în timp ce fluxul înconjoară încet stânca.",
-            "en": "Your day starts in the winding alleys of Grande Rue, where the Middle Ages are still alive. After a quick visit to Logis Tiphaine and the village church, ascend to the magnificent Abbey. At noon, explore the Gothic halls of 'La Merveille' and the peaceful cloister. In the afternoon, walk along the mighty fortress walls and finish your tour at Tour Gabriel as the tide slowly encircles the rock."
+            "en": "Your day starts in the winding alleys of Grande Rue, where the Middle Ages are still alive. After a quick visit to Logis Tiphaine and the village church, ascend to the magnificent Abbey. At noon, explore the Gothic halls of 'La Merveille' and the peaceful cloister. In the afternoon, walk along the mighty fortress walls and finish your tour at Tour Gabriel as the tide slowly encircles the rock.",
+            "fr": "Votre journée commence dans les ruelles sinueuses de la Grande Rue, où le Moyen Âge est encore vivant. Après une rapide visite du Logis Tiphaine et de l'église du village, montez jusqu'à la magnifique Abbaye. À midi, explorez les salles gothiques de « La Merveille » et le paisible cloître. L'après-midi, marchez le long des puissants remparts et terminez votre visite à la Tour Gabriel tandis que la marée entoure lentement le rocher."
           },
           "stops": [
             {
@@ -363,13 +372,15 @@
                 "de": "Grande Rue",
                 "hu": "Grande Rue",
                 "ro": "Grande Rue",
-                "en": "Grande Rue"
+                "en": "Grande Rue",
+                "fr": "Grande Rue"
               },
               "tip_5lang": {
                 "de": "Kommen Sie früh, um die Touristenströme in der schmalen Gasse zu vermeiden.",
                 "hu": "Érkezz korán, hogy elkerüld a tömeget a szűk, meredek utcában.",
                 "ro": "Vino devreme pentru a evita aglomerația pe strada principală îngustă.",
-                "en": "Arrive early to avoid the crowds in the narrow, steep main street."
+                "en": "Arrive early to avoid the crowds in the narrow, steep main street.",
+                "fr": "Arrivez tôt pour éviter la foule dans la rue principale, étroite et pentue."
               }
             },
             {
@@ -377,13 +388,15 @@
                 "de": "Logis Tiphaine",
                 "hu": "Logis Tiphaine",
                 "ro": "Logis Tiphaine",
-                "en": "Logis Tiphaine"
+                "en": "Logis Tiphaine",
+                "fr": "Logis Tiphaine"
               },
               "tip_5lang": {
                 "de": "Besuchen Sie das Haus von Bertrand du Guesclin aus dem 14. Jahrhundert.",
                 "hu": "Látogasd meg Bertrand du Guesclin 14. századi lakóházát.",
                 "ro": "Vizitează casa lui Bertrand du Guesclin din secolul al XIV-lea.",
-                "en": "Visit the 14th-century residence of Bertrand du Guesclin."
+                "en": "Visit the 14th-century residence of Bertrand du Guesclin.",
+                "fr": "Visitez la résidence du XIVe siècle de Bertrand du Guesclin."
               }
             },
             {
@@ -391,13 +404,15 @@
                 "de": "Église Saint-Pierre",
                 "hu": "Szent Péter-templom",
                 "ro": "Biserica Saint-Pierre",
-                "en": "Saint-Pierre Church"
+                "en": "Saint-Pierre Church",
+                "fr": "Église Saint-Pierre"
               },
               "tip_5lang": {
                 "de": "Bewundern Sie die Statue des Heiligen Michael in dieser bescheidenen Pfarrei.",
                 "hu": "Csodáld meg Szent Mihály szobrát ebben a szerény plébániatemplomban.",
                 "ro": "Admiră statuia Sfântului Mihail în această biserică parohială modestă.",
-                "en": "Admire the statue of Saint Michael in this modest parish church."
+                "en": "Admire the statue of Saint Michael in this modest parish church.",
+                "fr": "Admirez la statue de saint Michel dans cette modeste église paroissiale."
               }
             },
             {
@@ -405,13 +420,15 @@
                 "de": "Abbaye du Mont-Saint-Michel",
                 "hu": "Mont-Saint-Michel apátság",
                 "ro": "Abația Mont-Saint-Michel",
-                "en": "Mont-Saint-Michel Abbey"
+                "en": "Mont-Saint-Michel Abbey",
+                "fr": "Abbaye du Mont-Saint-Michel"
               },
               "tip_5lang": {
                 "de": "Buchen Sie Ihr Ticket im Voraus, um lange Warteschlangen am Eingang zu umgehen.",
                 "hu": "Foglald le a jegyedet előre, hogy elkerüld a hosszú sorban állást a bejáratnál.",
                 "ro": "Rezervă biletul în avans pentru a evita cozile lungi de la intrare.",
-                "en": "Book your ticket in advance to bypass long queues at the entrance."
+                "en": "Book your ticket in advance to bypass long queues at the entrance.",
+                "fr": "Réservez votre billet à l'avance pour éviter les longues files à l'entrée."
               }
             },
             {
@@ -419,13 +436,15 @@
                 "de": "La Merveille",
                 "hu": "La Merveille",
                 "ro": "La Merveille",
-                "en": "La Merveille"
+                "en": "La Merveille",
+                "fr": "La Merveille"
               },
               "tip_5lang": {
                 "de": "Staunen Sie über die gotische Architektur des Speisesaals und des Skriptoriums.",
                 "hu": "Ámulj el az ebédlő és a szkriptórium lenyűgöző gótikus építészetén.",
                 "ro": "Uimește-te de arhitectura gotică a trapezei și a scriptoriului.",
-                "en": "Marvel at the Gothic architecture of the dining hall and scriptorium."
+                "en": "Marvel at the Gothic architecture of the dining hall and scriptorium.",
+                "fr": "Émerveillez-vous devant l'architecture gothique de la salle à manger et du scriptorium."
               }
             },
             {
@@ -433,13 +452,15 @@
                 "de": "Cloître de l'Abbaye",
                 "hu": "Apátsági kolostorfolyosó",
                 "ro": "Cloître de l'Abbaye",
-                "en": "Abbey Cloister"
+                "en": "Abbey Cloister",
+                "fr": "Cloître de l'Abbaye"
               },
               "tip_5lang": {
                 "de": "Genießen Sie die Stille in diesem hängenden Garten zwischen Himmel und Meer.",
                 "hu": "Élvezd a csendet ebben az ég és tenger között lebegő kertben.",
                 "ro": "Bucură-te de liniște în această grădină suspendată între cer și mare.",
-                "en": "Enjoy the silence in this hanging garden suspended between sky and sea."
+                "en": "Enjoy the silence in this hanging garden suspended between sky and sea.",
+                "fr": "Profitez du silence dans ce jardin suspendu entre ciel et mer."
               }
             },
             {
@@ -447,13 +468,15 @@
                 "de": "Remparts du Mont-Saint-Michel",
                 "hu": "Mont-Saint-Michel várfalai",
                 "ro": "Meterezele din Mont-Saint-Michel",
-                "en": "Ramparts of Mont-Saint-Michel"
+                "en": "Ramparts of Mont-Saint-Michel",
+                "fr": "Remparts du Mont-Saint-Michel"
               },
               "tip_5lang": {
                 "de": "Spazieren Sie über die Mauern für einen Panoramablick auf die Bucht.",
                 "hu": "Sétálj végig a falakon az öbölre nyíló panorámás kilátásért.",
                 "ro": "Plimbă-te pe ziduri pentru o vedere panoramică asupra golfului.",
-                "en": "Walk along the walls for a panoramic view of the bay."
+                "en": "Walk along the walls for a panoramic view of the bay.",
+                "fr": "Parcourez les remparts pour une vue panoramique sur la baie."
               }
             },
             {
@@ -461,13 +484,15 @@
                 "de": "Tour Gabriel",
                 "hu": "Gabriel-torony",
                 "ro": "Turnul Gabriel",
-                "en": "Tour Gabriel"
+                "en": "Tour Gabriel",
+                "fr": "Tour Gabriel"
               },
               "tip_5lang": {
                 "de": "Dieses ehemalige Windrad bietet eine einzigartige Perspektive auf die Westseite.",
                 "hu": "Ez az egykori szélmalom-torony egyedi perspektívát kínál a nyugati oldalra.",
                 "ro": "Acest fost turn cu moară de vânt oferă o perspectivă unică asupra laturii de vest.",
-                "en": "This former windmill tower offers a unique perspective on the west side."
+                "en": "This former windmill tower offers a unique perspective on the west side.",
+                "fr": "Cette ancienne tour-moulin offre une perspective unique sur le côté ouest."
               }
             }
           ],
@@ -577,6 +602,12 @@
               "Check the tide schedule before your visit.",
               "The Abbey closes earlier than the ramparts.",
               "Bring a light jacket, as it is often windy on the walls."
+            ],
+            "fr": [
+              "Portez des chaussures solides pour les escaliers raides et les pavés.",
+              "Vérifiez les horaires des marées avant votre visite.",
+              "L'Abbaye ferme plus tôt que les remparts.",
+              "Apportez une veste légère, il y a souvent du vent sur les remparts."
             ]
           }
         },
@@ -586,7 +617,7 @@
             "hu": "Reggel: A köd misztikus ruhába öltözteti a Grande Rue-t, miközben az eső kopog a régi macskaköveken.\nDélben: Az apátság vaskos falai között lelhet menedéket a normandiai szél elől.\nDélután: A bástyákról nézve az árapály-síkság különösen drámai látványt nyújt a szürke égbolt alatt.\nEste: A hegy fényei csillogva tükröződnek a Tour Gabriel környéki vizes sikátorokban.",
             "ro": "Dimineața: Ceața îmbracă Grande Rue într-o atmosferă mistică, în timp ce picăturile de ploaie bat în pavajul vechi.\nLa prânz: În interiorul zidurilor masive ale abației găsiți adăpost împotriva vântului din Normandia.\nDupă-amiaza: De pe metereze, golful arată deosebit de dramatic sub cerul gri.\nSeara: Luminile muntelui se reflectă strălucitor pe străzile ude din jurul Tour Gabriel.",
             "en": "Morning: Mist wraps Grande Rue in a mystical atmosphere as raindrops drum on the old cobblestones.\nMidday: Within the massive walls of the Abbey, you find shelter from the Normandy winds.\nAfternoon: From the ramparts, the bay looks particularly dramatic under the grey sky.\nEvening: The lights of the mount reflect brilliantly in the wet alleys around Tour Gabriel.",
-            "fr": "Matin : La brume enveloppe la Grande Rue d'une atmosphère mystique alors que la pluie crépite sur les vieux pavés.\nMidi : Entre les murs massifs de l'Abbaye, vous trouverez un abri contre les vents de Normandie.\nAprès-midi : Depuis les remparts, la baie semble particulièrement dramatique sous le ciel gris.\nSoir : Les lumières du mont se reflètent avec éclat dans les ruelles mouillées autour de la Tour Gabriel."
+            "fr": "Matin : La brume enveloppe la Grande Rue d'une atmosphère mystique tandis que les gouttes martèlent les vieux pavés.\nMidi : À l'intérieur des massives murailles de l'Abbaye, vous trouvez un abri contre les vents normands.\nAprès-midi : Depuis les remparts, la baie est particulièrement dramatique sous le ciel gris.\nSoir : Les lumières du mont se reflètent brillamment dans les ruelles humides autour de la Tour Gabriel."
           },
           "stops": [
             {
@@ -626,7 +657,7 @@
                 "hu": "Bent száraz az idő, de a folyosókon huzat lehet.",
                 "ro": "În interior este uscat, dar pe coridoare poate fi curent.",
                 "en": "It is dry inside, but corridors can be drafty.",
-                "fr": "Il fait sec à l'intérieur, mais les couloirs peuvent être sujets aux courants d'air."
+                "fr": "Il fait sec à l'intérieur, mais les couloirs peuvent être courants d'air."
               }
             },
             {
@@ -636,7 +667,7 @@
                 "hu": "A gótikus csarnokok esőben különösen impozánsak.",
                 "ro": "Sălile gotice par deosebit de impunătoare pe ploaie.",
                 "en": "The Gothic halls look particularly imposing in the rain.",
-                "fr": "Les salles gothiques sont particulièrement imposantes sous la pluie."
+                "fr": "Les salles gothiques paraissent particulièrement imposantes sous la pluie."
               }
             },
             {
@@ -656,7 +687,7 @@
                 "hu": "Szélálló esernyő vagy esőkabát itt kötelező.",
                 "ro": "O umbrelă rezistentă la vânt sau o pelerină este obligatorie.",
                 "en": "A wind-resistant umbrella or raincoat is mandatory here.",
-                "fr": "Un parapluie résistant au vent ou un imperméable est obligatoire ici."
+                "fr": "Un parapluie coupe-vent ou un imperméable est indispensable ici."
               }
             },
             {
@@ -696,9 +727,9 @@
               "Use the many museums as interim stops to stay dry."
             ],
             "fr": [
-              "Portez des chaussures avec une bonne adhérence pour les pierres glissantes.",
+              "Portez des chaussures à bonne adhérence pour les pierres glissantes.",
               "Les navettes depuis le parking s'arrêtent juste devant la porte.",
-              "Les rafales de vent normandes peuvent facilement détruire les parapluies bon marché.",
+              "Les rafales de vent normandes peuvent facilement détruire de mauvais parapluies.",
               "Utilisez les nombreux musées comme étapes intermédiaires pour rester au sec."
             ]
           }
@@ -709,7 +740,7 @@
             "hu": "Reggel: A tiszta téli levegőben a hegy úgy emelkedik ki a homokból, mint egy délibáb.\nDélben: Az apátság falai között hűvös van, az ősi kövek hidege szinte tapintható.\nDélután: A naplemente 17:00 körül lágy narancssárgába öltözteti a falakat.\nEste: A sikátorok ilyenkor szinte néptelenek, amitől a hely mágikus és magányos lesz.",
             "ro": "Dimineața: Aerul curat de iarnă face ca muntele să pară o miraj răsărind din nisip.\nLa prânz: În abație este răcoare; frigul pietrelor vechi este aproape palpabil.\nDupă-amiaza: Apusul de soare scaldă zidurile într-o culoare portocalie blândă în jurul orei 17:00.\nSeara: Străzile sunt acum aproape pustii, făcând locul să pară magic și solitar.",
             "en": "Morning: The crisp winter air makes the mount rise from the sand like a mirage.\nMidday: It is cool inside the Abbey; the chill of the ancient stones is almost palpable.\nAfternoon: The sunset bathes the walls in a soft orange glow around 17:00.\nEvening: The alleys are now almost deserted, making the place feel magical and lonely.",
-            "fr": "Matin : L'air vif de l'hiver fait surgir le mont du sable comme un mirage.\nMidi : Il fait frais à l'intérieur de l'Abbaye ; la froideur des pierres anciennes est presque palpable.\nAprès-midi : Le coucher du soleil baigne les murs d'une douce lueur orangée vers 17h00.\nSoir : Les ruelles sont désormais presque désertes, rendant le lieu magique et solitaire."
+            "fr": "Matin : L'air vif de l'hiver fait surgir le mont du sable comme un mirage.\nMidi : Il fait frais à l'intérieur de l'Abbaye ; le froid des pierres anciennes est presque palpable.\nAprès-midi : Le coucher du soleil baigne les remparts d'une douce lumière orangée vers 17:00.\nSoir : Les ruelles sont désormais presque désertes, rendant le lieu magique et solitaire."
           },
           "stops": [
             {
@@ -719,7 +750,7 @@
                 "hu": "Élvezze a nyugalmat a szokásos turistatömeg nélkül.",
                 "ro": "Bucurați-vă de liniște fără mulțimile obișnuite de turiști.",
                 "en": "Enjoy the peace without the usual tourist crowds.",
-                "fr": "Appréciez le calme sans les foules touristiques habituelles."
+                "fr": "Profitez du calme sans la foule touristique habituelle."
               }
             },
             {
@@ -729,7 +760,7 @@
                 "hu": "Bent valamivel melegebb van, mint a huzatos sikátorokban.",
                 "ro": "În interior este puțin mai cald decât pe străzile cu curent.",
                 "en": "It is slightly warmer inside than in the drafty alleys.",
-                "fr": "Il fait légèrement plus chaud à l'intérieur que dans les ruelles exposées aux courants d'air."
+                "fr": "Il fait légèrement plus chaud à l'intérieur que dans les ruelles aérées."
               }
             },
             {
@@ -739,7 +770,7 @@
                 "hu": "Csendes hely a felmelegedésre és egy rövid imára.",
                 "ro": "Un loc liniștit pentru a vă încălzi și pentru o scurtă rugăciune.",
                 "en": "A quiet place to warm up and for a short prayer.",
-                "fr": "Un endroit calme pour se réchauffer et pour une courte prière."
+                "fr": "Un endroit tranquille pour se réchauffer et pour une courte prière."
               }
             },
             {
@@ -749,7 +780,7 @@
                 "hu": "Öltözzön rétegesen, mivel a csarnokok nincsenek fűtve.",
                 "ro": "Purtați mai multe straturi, deoarece sălile nu sunt încălzite.",
                 "en": "Wear layers, as the halls are not heated.",
-                "fr": "Portez plusieurs couches de vêtements, car les salles ne sont pas chauffées."
+                "fr": "Portez des couches de vêtements, car les salles ne sont pas chauffées."
               }
             },
             {
@@ -759,7 +790,7 @@
                 "hu": "Az alacsony napállás fényei ideálisak a fotózáshoz.",
                 "ro": "Lumina soarelui de iarnă este ideală pentru fotografii.",
                 "en": "The low winter sun light is ideal for photos.",
-                "fr": "La lumière basse du soleil d'hiver est idéale pour les photos."
+                "fr": "La basse lumière hivernale est idéale pour les photos."
               }
             },
             {
@@ -769,7 +800,7 @@
                 "hu": "A kert téli álmában különösen melankolikusnak tűnik.",
                 "ro": "Grădina pare deosebit de melancolică în somnul de iarnă.",
                 "en": "The garden looks particularly melancholic in its winter sleep.",
-                "fr": "Le jardin semble particulièrement mélancolique dans son sommeil hivernal."
+                "fr": "Le jardin paraît particulièrement mélancolique dans son sommeil hivernal."
               }
             },
             {
@@ -779,7 +810,7 @@
                 "hu": "Vigyázzon a tengerről fújó jéghideg széllel.",
                 "ro": "Atenție la vântul înghețat care bate dinspre mare.",
                 "en": "Watch out for the freezing wind blowing from the sea.",
-                "fr": "Attention au vent glacial soufflant de la mer."
+                "fr": "Méfiez-vous du vent glacial soufflant de la mer."
               }
             },
             {
@@ -789,7 +820,7 @@
                 "hu": "Tökéletes pont az utolsó nappali fények elkapásához.",
                 "ro": "Punct perfect pentru a surprinde ultima lumină a zilei.",
                 "en": "Perfect spot to catch the last daylight.",
-                "fr": "L'endroit parfait pour capter la dernière lumière du jour."
+                "fr": "Endroit parfait pour profiter des derniers rayons du jour."
               }
             }
           ],
@@ -819,8 +850,8 @@
               "Thermal underwear is recommended due to the sea wind."
             ],
             "fr": [
-              "Le soleil se couche dès 17h00 en hiver.",
-              "Un cidre chaud dans l'un des cafés fait des merveilles contre le froid.",
+              "Le soleil se couche dès 17:00 en hiver.",
+              "Un cidre chaud dans un des cafés fait des merveilles contre le froid.",
               "L'Abbaye ferme plus tôt en hiver qu'en été.",
               "Des sous-vêtements thermiques sont recommandés à cause du vent marin."
             ]
@@ -841,7 +872,8 @@
             "de": "Barrage sur le Couesnon",
             "hu": "Couesnon gát",
             "ro": "Barajul de pe Couesnon",
-            "en": "Couesnon Dam"
+            "en": "Couesnon Dam",
+            "fr": "Barrage du Couesnon"
           },
           "coords": [
             -1.5135,
@@ -857,7 +889,7 @@
             "hu": "Élvezd az első pillantást a Montra erről a modern gátról.",
             "ro": "Bucură-te de prima vedere asupra Mont-ului de pe acest baraj modern.",
             "en": "Enjoy your first view of the Mont from this modern dam.",
-            "fr": "Profitez de votre première vue sur le Mont depuis ce barrage moderne."
+            "fr": "Profitez de votre première vue du Mont depuis ce barrage moderne."
           }
         },
         {
@@ -865,7 +897,8 @@
             "de": "Grande Rue",
             "hu": "Grande Rue",
             "ro": "Grande Rue",
-            "en": "Grande Rue"
+            "en": "Grande Rue",
+            "fr": "Grande Rue"
           },
           "coords": [
             -1.5105,
@@ -881,7 +914,7 @@
             "hu": "Zárd le a kerékpárod a szikla lábánál kijelölt tárolóknál.",
             "ro": "Parchează bicicleta în locurile special amenajate la baza stâncii.",
             "en": "Park your bike in the designated areas at the base of the rock.",
-            "fr": "Garez votre vélo dans les zones prévues au pied du rocher."
+            "fr": "Garez votre vélo dans les zones prévues à la base du rocher."
           }
         },
         {
@@ -889,7 +922,8 @@
             "de": "Abbaye du Mont-Saint-Michel",
             "hu": "Mont-Saint-Michel apátság",
             "ro": "Abația Mont-Saint-Michel",
-            "en": "Mont-Saint-Michel Abbey"
+            "en": "Mont-Saint-Michel Abbey",
+            "fr": "Abbaye du Mont-Saint-Michel"
           },
           "coords": [
             -1.5112,
@@ -905,7 +939,7 @@
             "hu": "Az apátsághoz vezető út meredek lépcsőkön, gyalogosan tehető meg.",
             "ro": "Urcarea la abație se face pe jos, pe scări abrupte.",
             "en": "The ascent to the abbey is on foot via steep stairs.",
-            "fr": "La montée vers l'abbaye se fait à pied par des escaliers raides."
+            "fr": "L'ascension vers l'abbaye se fait à pied par des escaliers raides."
           }
         },
         {
@@ -913,7 +947,8 @@
             "de": "Remparts du Mont-Saint-Michel",
             "hu": "Mont-Saint-Michel várfalai",
             "ro": "Meterezele din Mont-Saint-Michel",
-            "en": "Ramparts of Mont-Saint-Michel"
+            "en": "Ramparts of Mont-Saint-Michel",
+            "fr": "Remparts du Mont-Saint-Michel"
           },
           "coords": [
             -1.5098,
@@ -929,7 +964,7 @@
             "hu": "Nézz le fentről a kerékpárútra, amin érkeztél.",
             "ro": "Privește de sus traseul de biciclete pe care ai venit.",
             "en": "Look down from above at the bike path you arrived on.",
-            "fr": "Regardez d'en haut la piste cyclable par laquelle vous êtes arrivé."
+            "fr": "Regardez en bas depuis le sommet le long de la piste cyclable par laquelle vous êtes arrivé."
           }
         },
         {
@@ -937,7 +972,8 @@
             "de": "Tour Gabriel",
             "hu": "Gabriel-torony",
             "ro": "Turnul Gabriel",
-            "en": "Tour Gabriel"
+            "en": "Tour Gabriel",
+            "fr": "Tour Gabriel"
           },
           "coords": [
             -1.5126,
@@ -961,7 +997,8 @@
             "de": "Pointe du Grouin du Sud",
             "hu": "Pointe du Grouin du Sud",
             "ro": "Pointe du Grouin du Sud",
-            "en": "Pointe du Grouin du Sud"
+            "en": "Pointe du Grouin du Sud",
+            "fr": "Pointe du Grouin du Sud"
           },
           "coords": [
             -1.435,
@@ -977,7 +1014,7 @@
             "hu": "Tekerj végig az öböl mentén a Mont távoli látványáért.",
             "ro": "Mergi cu bicicleta de-a lungul golfului pentru o vedere de la distanță a Mont-ului.",
             "en": "Cycle along the bay for a distant view of the Mont.",
-            "fr": "Pédalez le long de la baie pour une vue lointaine du Mont."
+            "fr": "Parcourez la baie à vélo pour une vue lointaine du Mont."
           }
         }
       ],
@@ -986,7 +1023,7 @@
         "hu": "Ez a túra ötvözi a kerékpáros megközelítést a Couesnon-gáton keresztül a kolostor felfedezésével. A bicikliket a szikla lábánál hagyva gyalogosan járjuk be a Grande Rue-t, az apátságot és a várfalakat. Végül a parton továbbtekerve egy szárazföldi kilátópontról csodálhatjuk meg a távolban trónoló hegyet.",
         "ro": "Acest tur combină abordarea pe bicicletă prin barajul Couesnon cu explorarea mănăstirii. Lăsați bicicletele la baza stâncii și vizitați pe jos Grande Rue, abația și meterezele. În final, pedalați de-a lungul coastei către un punct de belvedere de pe continent, de unde muntele tronează maiestuos în depărtare.",
         "en": "This tour combines a cycling approach across the Couesnon Dam with exploring the Abbey. Leave your bikes at the base of the rock and explore Grande Rue, the Abbey, and the ramparts on foot. Finally, cycle along the coast to a mainland viewpoint where the Mont sits majestically in the distance.",
-        "fr": "Ce circuit combine une approche à vélo via le barrage du Couesnon et l'exploration de l'Abbaye. Laissez vos vélos au pied du rocher pour découvrir la Grande Rue, l'Abbaye et les remparts à pied. Enfin, pédalez le long de la côte vers un point de vue sur le continent d'où le Mont trône majestueusement au loin."
+        "fr": "Cette visite combine une approche à vélo via le barrage du Couesnon et l'exploration de l'Abbaye. Laissez vos vélos à la base du rocher et explorez la Grande Rue, l'Abbaye et les remparts à pied. Enfin, roulez le long de la côte jusqu'à un point de vue sur le continent où le Mont se dresse majestueusement au loin."
       },
       "gastro_picks": {
         "de": [
@@ -1115,10 +1152,10 @@
           "Bring a sturdy bike lock."
         ],
         "fr": [
-          "Empruntez l'itinéraire cyclable de la « Véloscénie ».",
-          "Garez votre vélo uniquement dans les zones désignées.",
+          "Utilisez la véloroute « Véloscénie ».",
+          "Garez votre vélo uniquement dans les zones prévues.",
           "Il peut y avoir beaucoup de vent sur le barrage.",
-          "Apportez un antivol robuste."
+          "Apportez un antivol solide pour votre vélo."
         ]
       },
       "variants": {
@@ -1127,7 +1164,8 @@
             "de": "Diese Tour kombiniert die Anreise per Rad über den Couesnon-Damm mit der Erkundung des Klosters. Sie lassen die Räder am Fuße des Berges und besichtigen die Grande Rue, die Abtei und die Stadtmauern zu Fuß. Zum Abschluss radeln Sie an der Küste entlang zu einem Aussichtspunkt auf dem Festland, von dem aus der Mont majestätisch in der Ferne thront.",
             "hu": "Ez a túra ötvözi a kerékpáros megközelítést a Couesnon-gáton keresztül a kolostor felfedezésével. A bicikliket a szikla lábánál hagyva gyalogosan járjuk be a Grande Rue-t, az apátságot és a várfalakat. Végül a parton továbbtekerve egy szárazföldi kilátópontról csodálhatjuk meg a távolban trónoló hegyet.",
             "ro": "Acest tur combină abordarea pe bicicletă prin barajul Couesnon cu explorarea mănăstirii. Lăsați bicicletele la baza stâncii și vizitați pe jos Grande Rue, abația și meterezele. În final, pedalați de-a lungul coastei către un punct de belvedere de pe continent, de unde muntele tronează maiestuos în depărtare.",
-            "en": "This tour combines a cycling approach across the Couesnon Dam with exploring the Abbey. Leave your bikes at the base of the rock and explore Grande Rue, the Abbey, and the ramparts on foot. Finally, cycle along the coast to a mainland viewpoint where the Mont sits majestically in the distance."
+            "en": "This tour combines a cycling approach across the Couesnon Dam with exploring the Abbey. Leave your bikes at the base of the rock and explore Grande Rue, the Abbey, and the ramparts on foot. Finally, cycle along the coast to a mainland viewpoint where the Mont sits majestically in the distance.",
+            "fr": "Cette visite combine une approche à vélo via le barrage du Couesnon et l'exploration de l'Abbaye. Laissez vos vélos à la base du rocher et explorez la Grande Rue, l'Abbaye et les remparts à pied. Enfin, roulez le long de la côte jusqu'à un point de vue sur le continent où le Mont se dresse majestueusement au loin."
           },
           "stops": [
             {
@@ -1135,13 +1173,15 @@
                 "de": "Barrage sur le Couesnon",
                 "hu": "Couesnon gát",
                 "ro": "Barajul de pe Couesnon",
-                "en": "Couesnon Dam"
+                "en": "Couesnon Dam",
+                "fr": "Barrage du Couesnon"
               },
               "tip_5lang": {
                 "de": "Genießen Sie den ersten Blick auf den Mont von diesem modernen Damm.",
                 "hu": "Élvezd az első pillantást a Montra erről a modern gátról.",
                 "ro": "Bucură-te de prima vedere asupra Mont-ului de pe acest baraj modern.",
-                "en": "Enjoy your first view of the Mont from this modern dam."
+                "en": "Enjoy your first view of the Mont from this modern dam.",
+                "fr": "Profitez de votre première vue du Mont depuis ce barrage moderne."
               }
             },
             {
@@ -1149,13 +1189,15 @@
                 "de": "Grande Rue",
                 "hu": "Grande Rue",
                 "ro": "Grande Rue",
-                "en": "Grande Rue"
+                "en": "Grande Rue",
+                "fr": "Grande Rue"
               },
               "tip_5lang": {
                 "de": "Stellen Sie Ihr Rad an den vorgesehenen Plätzen am Fuße des Berges ab.",
                 "hu": "Zárd le a kerékpárod a szikla lábánál kijelölt tárolóknál.",
                 "ro": "Parchează bicicleta în locurile special amenajate la baza stâncii.",
-                "en": "Park your bike in the designated areas at the base of the rock."
+                "en": "Park your bike in the designated areas at the base of the rock.",
+                "fr": "Garez votre vélo dans les zones prévues à la base du rocher."
               }
             },
             {
@@ -1163,13 +1205,15 @@
                 "de": "Abbaye du Mont-Saint-Michel",
                 "hu": "Mont-Saint-Michel apátság",
                 "ro": "Abația Mont-Saint-Michel",
-                "en": "Mont-Saint-Michel Abbey"
+                "en": "Mont-Saint-Michel Abbey",
+                "fr": "Abbaye du Mont-Saint-Michel"
               },
               "tip_5lang": {
                 "de": "Der Aufstieg zur Abtei erfolgt zu Fuß über steile Treppen.",
                 "hu": "Az apátsághoz vezető út meredek lépcsőkön, gyalogosan tehető meg.",
                 "ro": "Urcarea la abație se face pe jos, pe scări abrupte.",
-                "en": "The ascent to the abbey is on foot via steep stairs."
+                "en": "The ascent to the abbey is on foot via steep stairs.",
+                "fr": "L'ascension vers l'abbaye se fait à pied par des escaliers raides."
               }
             },
             {
@@ -1177,13 +1221,15 @@
                 "de": "Remparts du Mont-Saint-Michel",
                 "hu": "Mont-Saint-Michel várfalai",
                 "ro": "Meterezele din Mont-Saint-Michel",
-                "en": "Ramparts of Mont-Saint-Michel"
+                "en": "Ramparts of Mont-Saint-Michel",
+                "fr": "Remparts du Mont-Saint-Michel"
               },
               "tip_5lang": {
                 "de": "Blicken Sie von oben auf den Fahrradweg, den Sie gekommen sind.",
                 "hu": "Nézz le fentről a kerékpárútra, amin érkeztél.",
                 "ro": "Privește de sus traseul de biciclete pe care ai venit.",
-                "en": "Look down from above at the bike path you arrived on."
+                "en": "Look down from above at the bike path you arrived on.",
+                "fr": "Regardez en bas depuis le sommet le long de la piste cyclable par laquelle vous êtes arrivé."
               }
             },
             {
@@ -1191,13 +1237,15 @@
                 "de": "Tour Gabriel",
                 "hu": "Gabriel-torony",
                 "ro": "Turnul Gabriel",
-                "en": "Tour Gabriel"
+                "en": "Tour Gabriel",
+                "fr": "Tour Gabriel"
               },
               "tip_5lang": {
                 "de": "Ein toller Ort, um die Weite des Meeres zu spüren.",
                 "hu": "Nagyszerű hely, hogy átérezd a tenger tágasságát.",
                 "ro": "Un loc minunat pentru a simți vastitatea mării.",
-                "en": "A great spot to feel the vastness of the sea."
+                "en": "A great spot to feel the vastness of the sea.",
+                "fr": "Un excellent endroit pour ressentir l'immensité de la mer."
               }
             },
             {
@@ -1205,13 +1253,15 @@
                 "de": "Pointe du Grouin du Sud",
                 "hu": "Pointe du Grouin du Sud",
                 "ro": "Pointe du Grouin du Sud",
-                "en": "Pointe du Grouin du Sud"
+                "en": "Pointe du Grouin du Sud",
+                "fr": "Pointe du Grouin du Sud"
               },
               "tip_5lang": {
                 "de": "Radeln Sie entlang der Bucht für eine Fernansicht des Mont.",
                 "hu": "Tekerj végig az öböl mentén a Mont távoli látványáért.",
                 "ro": "Mergi cu bicicleta de-a lungul golfului pentru o vedere de la distanță a Mont-ului.",
-                "en": "Cycle along the bay for a distant view of the Mont."
+                "en": "Cycle along the bay for a distant view of the Mont.",
+                "fr": "Parcourez la baie à vélo pour une vue lointaine du Mont."
               }
             }
           ],
@@ -1321,6 +1371,12 @@
               "Park your bike only in designated areas.",
               "It can be very windy on the dam.",
               "Bring a sturdy bike lock."
+            ],
+            "fr": [
+              "Suivez la voie cyclable « Véloscénie ».",
+              "Garez votre vélo uniquement dans les zones prévues à cet effet.",
+              "Il peut y avoir beaucoup de vent sur la digue.",
+              "Apportez un antivol solide pour vélo."
             ]
           }
         },
@@ -1330,7 +1386,7 @@
             "hu": "Reggel: A gáton való tekerés frissítő, de jó esőruházatot igényel.\nDélben: Hagyja a biciklit a bejáratnál, és fedezze fel a száraz apátságot.\nDélután: A falakról messzire látni az eső áztatta öböl felett.\nEste: A visszaút a Pointe du Grouin du Sud felé szélben igazi kihívás.",
             "ro": "Dimineața: Mersul pe bicicletă pe dig este revigorant, dar necesită echipament de ploaie bun.\nLa prânz: Lăsați bicicleta la intrare și explorați abația uscată.\nDupă-amiaza: De pe ziduri se vede largul golfului bătut de ploaie.\nSeara: Drumul de întoarcere spre Pointe du Grouin du Sud este o provocare pe vânt.",
             "en": "Morning: Cycling across the dam is refreshing but requires good rain gear.\nMidday: Leave your bike at the entrance and explore the dry Abbey.\nAfternoon: From the walls, there is a wide view over the rain-swept bay.\nEvening: The ride back to Pointe du Grouin du Sud is a real challenge in the wind.",
-            "fr": "Matin : Traverser le barrage à vélo est rafraîchissant mais nécessite un bon équipement de pluie.\nMidi : Laissez votre vélo à l'entrée et explorez l'Abbaye au sec.\nAprès-midi : Depuis les remparts, on a une vue imprenable sur la baie balayée par la pluie.\nSoir : Le retour vers la Pointe du Grouin du Sud est un véritable défi face au vent."
+            "fr": "Matin : Traverser la digue à vélo est vivifiant mais nécessite un bon équipement de pluie.\nMidi : Laissez votre vélo à l’entrée et visitez l’abbaye à l’abri.\nAprès‑midi : Depuis les remparts, la vue sur la baie battue par la pluie est vaste.\nSoir : Le retour jusqu’à la Pointe du Grouin du Sud est un vrai défi par vent fort."
           },
           "stops": [
             {
@@ -1340,7 +1396,7 @@
                 "hu": "A gát faborítása rendkívül csúszós lehet.",
                 "ro": "Puntea de lemn a digului poate fi extrem de alunecoasă.",
                 "en": "The wooden deck of the dam can be extremely slippery.",
-                "fr": "Le tablier en bois du barrage peut être extrêmement glissant."
+                "fr": "La passerelle en bois de la digue peut être extrêmement glissante."
               }
             },
             {
@@ -1350,7 +1406,7 @@
                 "hu": "Tolja a kerékpárt; a nedves kövezet veszélyes.",
                 "ro": "Împingeți bicicleta; pavajul ud este periculos.",
                 "en": "Push your bike; the wet pavement is dangerous.",
-                "fr": "Poussez votre vélo ; le pavé mouillé est dangereux."
+                "fr": "Poussez votre vélo ; le revêtement mouillé est dangereux."
               }
             },
             {
@@ -1360,7 +1416,7 @@
                 "hu": "Használja a főbejárat előtti kerékpártárolót.",
                 "ro": "Folosiți parcarea de biciclete din fața intrării principale.",
                 "en": "Use the bike parking area in front of the main entrance.",
-                "fr": "Utilisez le parking à vélos situé devant l'entrée principale."
+                "fr": "Utilisez l’aire de stationnement vélo devant l’entrée principale."
               }
             },
             {
@@ -1370,7 +1426,7 @@
                 "hu": "A szélvédett fülkék rövid pihenőt kínálnak.",
                 "ro": "Nișele protejate de vânt oferă scurte pauze.",
                 "en": "Wind-protected niches offer short breaks.",
-                "fr": "Des niches protégées du vent permettent de courtes pauses."
+                "fr": "Des niches protégées du vent offrent de courtes pauses."
               }
             },
             {
@@ -1380,7 +1436,7 @@
                 "hu": "Rögzítse jól a kerékpárt az erős széllökések ellen.",
                 "ro": "Asigurați bine bicicleta împotriva rafalelor puternice.",
                 "en": "Secure your bike well against strong wind gusts.",
-                "fr": "Sécurisez bien votre vélo contre les fortes rafales de vent."
+                "fr": "Attachez bien votre vélo pour le protéger des rafales de vent."
               }
             },
             {
@@ -1390,7 +1446,7 @@
                 "hu": "Figyelem: A talaj itt esőben nagyon sáros lehet.",
                 "ro": "Atenție: Terenul aici poate fi foarte noroios pe ploaie.",
                 "en": "Attention: The ground here can be very muddy when it rains.",
-                "fr": "Attention : le sol ici peut être très boueux quand il pleut."
+                "fr": "Attention : Le sol peut être très boueux lorsqu’il pleut ici."
               }
             }
           ],
@@ -1421,9 +1477,9 @@
             ],
             "fr": [
               "Vérifiez vos freins avant de rouler sur des surfaces mouillées.",
-              "Les garde-boue sur votre vélo sont essentiels par ce temps.",
-              "Évitez les virages brusques sur les planches de bois du pont.",
-              "Un sac à dos étanche protège vos objets de valeur des embruns."
+              "Des garde‑boue sont indispensables par ce temps.",
+              "Évitez les virages serrés sur les planches en bois du pont.",
+              "Un sac à dos imperméable protège vos objets de valeur des embruns."
             ]
           }
         },
@@ -1433,7 +1489,7 @@
             "hu": "Reggel: A metsző hidegben a gáton áttekerni minden érzéket felébreszt.\nDélben: Az apátság a halvány téli napsütésben szinte jégből faragottnak tűnik.\nDélután: Egy rövid megálló a falakon, mielőtt a hideg a végtagjaiba szökne.\nEste: A megérkezés a Pointe du Grouin du Sudhoz teljes csenddel jutalmaz.",
             "ro": "Dimineața: Mersul pe dig pe un ger pătrunzător trezește toate simțurile.\nLa prânz: Abația pare aproape sculptată în gheață în soarele palid de iarnă.\nDupă-amiaza: O scurtă oprire pe ziduri înainte ca frigul să intre în oase.\nSeara: Sosirea la Pointe du Grouin du Sud este răsplătită cu o liniște totală.",
             "en": "Morning: Cycling across the dam in the biting cold wakes up all your senses.\nMidday: The Abbey looks almost carved from ice in the pale winter sun.\nAfternoon: A short stop on the walls before the cold seeps into your limbs.\nEvening: Arriving at Pointe du Grouin du Sud rewards you with total silence.",
-            "fr": "Matin : Traverser le barrage à vélo dans le froid mordant réveille tous vos sens.\nMidi : L'Abbaye semble presque sculptée dans la glace sous le pâle soleil d'hiver.\nAprès-midi : Une courte halte sur les remparts avant que le froid ne s'insinue dans vos membres.\nSoir : L'arrivée à la Pointe du Grouin du Sud vous récompense par un silence total."
+            "fr": "Matin : Traverser la digue à vélo dans le froid mordant éveille tous vos sens.\nMidi : L’abbaye semble presque sculptée dans la glace sous le pâle soleil d’hiver.\nAprès‑midi : Une courte halte sur les remparts avant que le froid ne gagne vos membres.\nSoir : Arriver à la Pointe du Grouin du Sud vous récompense d’un silence total."
           },
           "stops": [
             {
@@ -1443,7 +1499,7 @@
                 "hu": "Viseljen meleg kesztyűt a hideg menetszél ellen.",
                 "ro": "Purtați mănuși calde pentru vântul rece din timpul mersului.",
                 "en": "Wear warm gloves for the cold headwind.",
-                "fr": "Portez des gants chauds pour affronter le vent de face glacial."
+                "fr": "Portez des gants chauds contre le vent froid de face."
               }
             },
             {
@@ -1453,7 +1509,7 @@
                 "hu": "A sikátorok télen kellemesen üresek a kerékpárosoknak.",
                 "ro": "Străzile sunt plăcut de goale pentru bicicliști iarna.",
                 "en": "The alleys are pleasantly empty for cyclists in winter.",
-                "fr": "Les ruelles sont agréablement vides pour les cyclistes en hiver."
+                "fr": "Les ruelles sont agréablement désertes pour les cyclistes en hiver."
               }
             },
             {
@@ -1463,7 +1519,7 @@
                 "hu": "Tervezzen elég időt a benti felmelegedésre.",
                 "ro": "Planificați suficient timp pentru a vă încălzi în interior.",
                 "en": "Plan enough time to warm up inside.",
-                "fr": "Prévoyez suffisamment de temps pour vous réchauffer à l'intérieur."
+                "fr": "Prévoyez assez de temps pour vous réchauffer à l’intérieur."
               }
             },
             {
@@ -1473,7 +1529,7 @@
                 "hu": "A kilátás a téli homokos síkságra lélegzetelállító.",
                 "ro": "Vederea asupra nisipului iernatic este uluitoare.",
                 "en": "The view over the winter sands is breathtaking.",
-                "fr": "La vue sur les sables d'hiver est à couper le souffle."
+                "fr": "La vue sur les sables d’hiver est à couper le souffle."
               }
             },
             {
@@ -1483,7 +1539,7 @@
                 "hu": "Itt fent télen rendkívül huzatos az idő.",
                 "ro": "Aici sus este extrem de mult curent iarna.",
                 "en": "It is extremely drafty up here in winter.",
-                "fr": "Il y a énormément de courants d'air ici en hiver."
+                "fr": "Il y a un courant d’air extrêmement fort ici en hiver."
               }
             },
             {
@@ -1493,7 +1549,7 @@
                 "hu": "A hideg tengeri szél szélálló ruházatot igényel.",
                 "ro": "Vântul rece de mare necesită haine rezistente la vânt.",
                 "en": "The cold sea wind requires windproof clothing.",
-                "fr": "Le vent marin glacial nécessite des vêtements coupe-vent."
+                "fr": "Le vent froid de mer exige des vêtements coupe‑vent."
               }
             }
           ],
@@ -1523,10 +1579,10 @@
               "The sun disappears early; plan your return before 17:00."
             ],
             "fr": [
-              "Assurez-vous que l'éclairage de votre vélo est en bon état de fonctionnement.",
-              "Les sentiers peuvent être gelés dans les zones ombragées.",
-              "Une boisson chaude dans votre gourde vous gardera au chaud en route.",
-              "Le soleil disparaît tôt ; prévoyez votre retour avant 17h00."
+              "Assurez‑vous que vos éclairages de vélo fonctionnent.",
+              "Les chemins peuvent être verglacés à l’ombre.",
+              "Une boisson thermos dans votre gourde vous gardera au chaud en route.",
+              "Le soleil se couche tôt ; prévoyez votre retour avant 17:00."
             ]
           }
         }
@@ -1545,7 +1601,8 @@
             "de": "Scriptorial d'Avranches",
             "hu": "Avranches-i Scriptorial",
             "ro": "Scriptorial d'Avranches",
-            "en": "Avranches Scriptorial"
+            "en": "Avranches Scriptorial",
+            "fr": "Scriptorial d’Avranches"
           },
           "coords": [
             -1.362,
@@ -1561,7 +1618,7 @@
             "hu": "Nézd meg az apátság eredeti kéziratait a szomszédos városban.",
             "ro": "Vezi manuscrisele originale ale abației în orașul vecin.",
             "en": "See the original manuscripts of the abbey in the neighboring town.",
-            "fr": "Découvrez les manuscrits originaux de l'abbaye dans la ville voisine."
+            "fr": "Voyez les manuscrits originaux de l’abbaye dans la ville voisine."
           }
         },
         {
@@ -1569,7 +1626,8 @@
             "de": "Abbaye du Mont-Saint-Michel",
             "hu": "Mont-Saint-Michel apátság",
             "ro": "Abația Mont-Saint-Michel",
-            "en": "Mont-Saint-Michel Abbey"
+            "en": "Mont-Saint-Michel Abbey",
+            "fr": "Abbaye du Mont‑Saint‑Michel"
           },
           "coords": [
             -1.5112,
@@ -1585,7 +1643,7 @@
             "hu": "Parkolj a hivatalos parkolóban, és szállj fel a transzferbuszra.",
             "ro": "Parchează în parcarea oficială și ia naveta.",
             "en": "Park in the official lot and take the 'Passeur' shuttle.",
-            "fr": "Garez-vous sur le parking officiel et prenez la navette « Le Passeur »."
+            "fr": "Garez‑vous dans le parking officiel et prenez la navette « Passeur »."
           }
         },
         {
@@ -1593,7 +1651,8 @@
             "de": "La Merveille",
             "hu": "La Merveille",
             "ro": "La Merveille",
-            "en": "La Merveille"
+            "en": "La Merveille",
+            "fr": "La Merveille"
           },
           "coords": [
             -1.5115,
@@ -1609,7 +1668,7 @@
             "hu": "Ez a gótikus remekmű a kolostor szíve.",
             "ro": "Splendoarea gotică este inima mănăstirii.",
             "en": "The Gothic splendor is the centerpiece of the monastery.",
-            "fr": "La splendeur gothique est la pièce maîtresse du monastère."
+            "fr": "La splendeur gothique est le point d’orgue du monastère."
           }
         },
         {
@@ -1617,7 +1676,8 @@
             "de": "Remparts du Mont-Saint-Michel",
             "hu": "Mont-Saint-Michel várfalai",
             "ro": "Meterezele din Mont-Saint-Michel",
-            "en": "Ramparts of Mont-Saint-Michel"
+            "en": "Ramparts of Mont-Saint-Michel",
+            "fr": "Remparts du Mont‑Saint‑Michel"
           },
           "coords": [
             -1.5098,
@@ -1633,7 +1693,7 @@
             "hu": "Tökéletes hely fotózni az öblöt a visszaindulás előtt.",
             "ro": "Loc perfect pentru fotografii cu golful înainte de plecare.",
             "en": "Perfect spot for photos of the bay before heading back.",
-            "fr": "Endroit parfait pour des photos de la baie avant de repartir."
+            "fr": "Endroit parfait pour des photos de la baie avant le retour."
           }
         },
         {
@@ -1641,7 +1701,8 @@
             "de": "Grande Rue",
             "hu": "Grande Rue",
             "ro": "Grande Rue",
-            "en": "Grande Rue"
+            "en": "Grande Rue",
+            "fr": "Grande Rue"
           },
           "coords": [
             -1.5105,
@@ -1657,7 +1718,7 @@
             "hu": "Vásárolj utolsó suvenireket, mielőtt visszatérnél az autóhoz.",
             "ro": "Cumpără ultimele suveniruri înainte de a te întoarce la mașină.",
             "en": "Buy last-minute souvenirs before heading back to the car.",
-            "fr": "Achetez des souvenirs de dernière minute avant de regagner votre voiture."
+            "fr": "Achetez des souvenirs de dernière minute avant de retourner à la voiture."
           }
         },
         {
@@ -1665,7 +1726,8 @@
             "de": "Alligator Bay",
             "hu": "Alligator Bay",
             "ro": "Alligator Bay",
-            "en": "Alligator Bay"
+            "en": "Alligator Bay",
+            "fr": "Alligator Bay"
           },
           "coords": [
             -1.508,
@@ -1681,7 +1743,7 @@
             "hu": "Nagyszerű megálló családoknak a visszaúton.",
             "ro": "O oprire excelentă pentru familii la întoarcere.",
             "en": "A great stop for families on the way back.",
-            "fr": "Une excellente étape pour les familles sur le chemin du retour."
+            "fr": "Une excellente halte pour les familles au retour."
           }
         }
       ],
@@ -1690,7 +1752,7 @@
         "hu": "Ez az autós túra az Avranches-i Scriptorialban kezdődik, hogy megértsd a történelmi hátteret. Ezután Mont-Saint-Michel felé veszed az irányt, meglátogatod az apátságot és élvezed a kilátást a várfalakról. A Grande Rue felfedezése után a visszaúton az Alligator Bay kínál izgalmas programot, különösen gyerekekkel.",
         "ro": "Acest tur cu mașina începe la Scriptorial din Avranches pentru a înțelege contextul istoric. Apoi te îndrepți spre Mont-Saint-Michel, vizitezi abația și te bucuri de priveliștea de pe metereze. După explorarea Grande Rue, la întoarcere, Alligator Bay oferă un program interesant, mai ales pentru familii.",
         "en": "This car tour starts at the Avranches Scriptorial to set the historical stage. Then head to Mont-Saint-Michel to visit the Abbey and enjoy the views from the ramparts. After a stroll through Grande Rue, a visit to Alligator Bay on the way back is a great option, especially for families.",
-        "fr": "Ce circuit en voiture commence au Scriptorial d'Avranches pour poser le décor historique. Dirigez-vous ensuite vers le Mont-Saint-Michel pour visiter l'Abbaye et profiter de la vue depuis les remparts. Après une promenade dans la Grande Rue, une visite à Alligator Bay sur le chemin du retour est une excellente option, surtout pour les familles."
+        "fr": "Cette excursion en voiture commence au Scriptorial d’Avranches pour donner le contexte historique. Ensuite, rendez‑vous au Mont‑Saint‑Michel pour visiter l’abbaye et profiter des vues depuis les remparts. Après une promenade dans la Grande Rue, une visite à Alligator Bay au retour est une excellente option, surtout pour les familles."
       },
       "gastro_picks": {
         "de": [
@@ -1819,9 +1881,9 @@
           "Allow extra time for the shuttle transfer."
         ],
         "fr": [
-          "Gardez votre ticket de parking en sécurité.",
-          "Le service de navette « Le Passeur » est gratuit.",
-          "Se garer à Avranches est souvent plus facile qu'au Mont.",
+          "Conservez précieusement votre ticket de stationnement.",
+          "Le service de navette « Passeur » est gratuit.",
+          "Se garer à Avranches est souvent plus facile qu’au Mont.",
           "Prévoyez du temps supplémentaire pour le transfert en navette."
         ]
       },
@@ -1831,7 +1893,8 @@
             "de": "Diese Autotour beginnt im Scriptorial von Avranches, um den historischen Kontext zu verstehen. Danach fahren Sie zum Mont-Saint-Michel, besuchen die Abtei und genießen die Aussicht von den Stadtmauern. Nach einem Bummel durch die Grande Rue bietet sich auf der Rückfahrt ein Besuch im Alligator Bay an, besonders wenn Sie mit Kindern reisen.",
             "hu": "Ez az autós túra az Avranches-i Scriptorialban kezdődik, hogy megértsd a történelmi hátteret. Ezután Mont-Saint-Michel felé veszed az irányt, meglátogatod az apátságot és élvezed a kilátást a várfalakról. A Grande Rue felfedezése után a visszaúton az Alligator Bay kínál izgalmas programot, különösen gyerekekkel.",
             "ro": "Acest tur cu mașina începe la Scriptorial din Avranches pentru a înțelege contextul istoric. Apoi te îndrepți spre Mont-Saint-Michel, vizitezi abația și te bucuri de priveliștea de pe metereze. După explorarea Grande Rue, la întoarcere, Alligator Bay oferă un program interesant, mai ales pentru familii.",
-            "en": "This car tour starts at the Avranches Scriptorial to set the historical stage. Then head to Mont-Saint-Michel to visit the Abbey and enjoy the views from the ramparts. After a stroll through Grande Rue, a visit to Alligator Bay on the way back is a great option, especially for families."
+            "en": "This car tour starts at the Avranches Scriptorial to set the historical stage. Then head to Mont-Saint-Michel to visit the Abbey and enjoy the views from the ramparts. After a stroll through Grande Rue, a visit to Alligator Bay on the way back is a great option, especially for families.",
+            "fr": "Cette excursion en voiture commence au Scriptorial d’Avranches pour donner le contexte historique. Ensuite, rendez‑vous au Mont‑Saint‑Michel pour visiter l’abbaye et profiter des vues depuis les remparts. Après une promenade dans la Grande Rue, une visite à Alligator Bay au retour est une excellente option, surtout pour les familles."
           },
           "stops": [
             {
@@ -1839,13 +1902,15 @@
                 "de": "Scriptorial d'Avranches",
                 "hu": "Avranches-i Scriptorial",
                 "ro": "Scriptorial d'Avranches",
-                "en": "Avranches Scriptorial"
+                "en": "Avranches Scriptorial",
+                "fr": "Scriptorial d’Avranches"
               },
               "tip_5lang": {
                 "de": "Sehen Sie die Originalmanuskripte der Abtei in der Nachbarstadt.",
                 "hu": "Nézd meg az apátság eredeti kéziratait a szomszédos városban.",
                 "ro": "Vezi manuscrisele originale ale abației în orașul vecin.",
-                "en": "See the original manuscripts of the abbey in the neighboring town."
+                "en": "See the original manuscripts of the abbey in the neighboring town.",
+                "fr": "Voyez les manuscrits originaux de l’abbaye dans la ville voisine."
               }
             },
             {
@@ -1853,13 +1918,15 @@
                 "de": "Abbaye du Mont-Saint-Michel",
                 "hu": "Mont-Saint-Michel apátság",
                 "ro": "Abația Mont-Saint-Michel",
-                "en": "Mont-Saint-Michel Abbey"
+                "en": "Mont-Saint-Michel Abbey",
+                "fr": "Abbaye du Mont‑Saint‑Michel"
               },
               "tip_5lang": {
                 "de": "Parken Sie auf dem offiziellen Parkplatz und nehmen Sie den Shuttle.",
                 "hu": "Parkolj a hivatalos parkolóban, és szállj fel a transzferbuszra.",
                 "ro": "Parchează în parcarea oficială și ia naveta.",
-                "en": "Park in the official lot and take the 'Passeur' shuttle."
+                "en": "Park in the official lot and take the 'Passeur' shuttle.",
+                "fr": "Garez‑vous dans le parking officiel et prenez la navette « Passeur »."
               }
             },
             {
@@ -1867,13 +1934,15 @@
                 "de": "La Merveille",
                 "hu": "La Merveille",
                 "ro": "La Merveille",
-                "en": "La Merveille"
+                "en": "La Merveille",
+                "fr": "La Merveille"
               },
               "tip_5lang": {
                 "de": "Die gotische Pracht ist das Herzstück des Klosters.",
                 "hu": "Ez a gótikus remekmű a kolostor szíve.",
                 "ro": "Splendoarea gotică este inima mănăstirii.",
-                "en": "The Gothic splendor is the centerpiece of the monastery."
+                "en": "The Gothic splendor is the centerpiece of the monastery.",
+                "fr": "La splendeur gothique est le point d’orgue du monastère."
               }
             },
             {
@@ -1881,13 +1950,15 @@
                 "de": "Remparts du Mont-Saint-Michel",
                 "hu": "Mont-Saint-Michel várfalai",
                 "ro": "Meterezele din Mont-Saint-Michel",
-                "en": "Ramparts of Mont-Saint-Michel"
+                "en": "Ramparts of Mont-Saint-Michel",
+                "fr": "Remparts du Mont‑Saint‑Michel"
               },
               "tip_5lang": {
                 "de": "Perfekter Ort für Fotos der Bucht vor der Rückfahrt.",
                 "hu": "Tökéletes hely fotózni az öblöt a visszaindulás előtt.",
                 "ro": "Loc perfect pentru fotografii cu golful înainte de plecare.",
-                "en": "Perfect spot for photos of the bay before heading back."
+                "en": "Perfect spot for photos of the bay before heading back.",
+                "fr": "Endroit parfait pour des photos de la baie avant le retour."
               }
             },
             {
@@ -1895,13 +1966,15 @@
                 "de": "Grande Rue",
                 "hu": "Grande Rue",
                 "ro": "Grande Rue",
-                "en": "Grande Rue"
+                "en": "Grande Rue",
+                "fr": "Grande Rue"
               },
               "tip_5lang": {
                 "de": "Letzte Souvenirs kaufen, bevor es zurück zum Auto geht.",
                 "hu": "Vásárolj utolsó suvenireket, mielőtt visszatérnél az autóhoz.",
                 "ro": "Cumpără ultimele suveniruri înainte de a te întoarce la mașină.",
-                "en": "Buy last-minute souvenirs before heading back to the car."
+                "en": "Buy last-minute souvenirs before heading back to the car.",
+                "fr": "Achetez des souvenirs de dernière minute avant de retourner à la voiture."
               }
             },
             {
@@ -1909,13 +1982,15 @@
                 "de": "Alligator Bay",
                 "hu": "Alligator Bay",
                 "ro": "Alligator Bay",
-                "en": "Alligator Bay"
+                "en": "Alligator Bay",
+                "fr": "Alligator Bay"
               },
               "tip_5lang": {
                 "de": "Ein toller Zwischenstopp für Familien auf dem Rückweg.",
                 "hu": "Nagyszerű megálló családoknak a visszaúton.",
                 "ro": "O oprire excelentă pentru familii la întoarcere.",
-                "en": "A great stop for families on the way back."
+                "en": "A great stop for families on the way back.",
+                "fr": "Une excellente halte pour les familles au retour."
               }
             }
           ],
@@ -2025,6 +2100,12 @@
               "The 'Passeur' shuttle service is free.",
               "Parking in Avranches is often easier than at the Mont.",
               "Allow extra time for the shuttle transfer."
+            ],
+            "fr": [
+              "Conservez précieusement votre ticket de stationnement.",
+              "Le service de navette « Passeur » est gratuit.",
+              "Se garer à Avranches est souvent plus facile qu’au Mont.",
+              "Prévoyez du temps supplémentaire pour le transfert en navette."
             ]
           }
         },
@@ -2034,7 +2115,7 @@
             "hu": "Reggel: Az avranches-i Scriptorial tökéletes menedék az eső elől.\nDélben: Parkoljon kényelmesen, és használja a buszt az apátsághoz.\nDélután: A La Merveille lenyűgöző belső terei ideálisak rossz időben.\nEste: Az Alligator Bay remek beltéri alternatíva a nap lezárásához.",
             "ro": "Dimineața: Scriptorial din Avranches este refugiul perfect împotriva ploii.\nLa prânz: Parcați confortabil și folosiți naveta către abație.\nDupă-amiaza: La Merveille oferă interioare impresionante, ideale pe vreme rea.\nSeara: Alligator Bay este o alternativă excelentă de interior pentru finalul zilei.",
             "en": "Morning: The Scriptorial in Avranches is the perfect refuge from the rain.\nMidday: Park comfortably and use the shuttle to the Abbey.\nAfternoon: La Merveille offers impressive interiors, ideal for bad weather.\nEvening: Alligator Bay is a great indoor alternative to end the day.",
-            "fr": "Matin : Le Scriptorial d'Avranches est le refuge idéal contre la pluie.\nMidi : Garez-vous confortablement et utilisez la navette pour rejoindre l'Abbaye.\nAprès-midi : La Merveille offre des intérieurs impressionnants, parfaits pour le mauvais temps.\nSoir : Alligator Bay est une excellente alternative couverte pour terminer la journée."
+            "fr": "Matin : Le Scriptorial d’Avranches est le refuge parfait contre la pluie.\nMidi : Garez‑vous confortablement et utilisez la navette pour l’abbaye.\nAprès‑midi : La Merveille offre des intérieurs impressionnants, idéaux par mauvais temps.\nSoir : Alligator Bay est une excellente alternative couverte pour terminer la journée."
           },
           "stops": [
             {
@@ -2044,7 +2125,7 @@
                 "hu": "Teljesen fedett, tökéletes esős délelőttökre.",
                 "ro": "Complet acoperit și perfect pentru diminețile ploioase.",
                 "en": "Fully covered and perfect for rainy mornings.",
-                "fr": "Entièrement couvert et parfait pour les matinées pluvieuses."
+                "fr": "Entièrement couvert et parfait pour les matins pluvieux."
               }
             },
             {
@@ -2064,7 +2145,7 @@
                 "hu": "Bent a kopogó eső alig zavarja meg a nyugalmat.",
                 "ro": "În interior ploaia care bate nu deranjează liniștea.",
                 "en": "Inside, the pattering rain hardly disturbs the peace.",
-                "fr": "À l'intérieur, le clapotis de la pluie ne trouble guère le calme."
+                "fr": "À l’intérieur, le bruit de la pluie trouble à peine le calme."
               }
             },
             {
@@ -2084,7 +2165,7 @@
                 "hu": "Sok üzlet kínál menedéket hirtelen zivatarok esetén.",
                 "ro": "Multe magazine oferă adăpost în caz de averse bruște.",
                 "en": "Many shops offer shelter during sudden downpours.",
-                "fr": "De nombreux magasins offrent un abri lors d'averses soudaines."
+                "fr": "De nombreuses boutiques offrent un abri lors des averses soudaines."
               }
             },
             {
@@ -2124,8 +2205,8 @@
               "Alligator Bay is a heated indoor attraction."
             ],
             "fr": [
-              "Utilisez les parkings couverts d'Avranches pour rester au sec.",
-              "Des navettes circulent toutes les quelques minutes vers le mont.",
+              "Utilisez les parkings couverts d’Avranches pour rester au sec.",
+              "Les navettes circulent toutes les quelques minutes vers le Mont.",
               "Laissez les parapluies mouillés dans la voiture si possible.",
               "Alligator Bay est une attraction intérieure chauffée."
             ]
@@ -2137,7 +2218,7 @@
             "hu": "Reggel: Az út a téli Normandián keresztül festői és nyugodt.\nDélben: Az apátság fenségesen magasodik a jeges öböl fölé.\nDélután: Egy séta a bástyákon felfrissíti az érzékeket a továbbindulás előtt.\nEste: Melegedjen fel az Alligator Bay-ben, mielőtt visszaindulna.",
             "ro": "Dimineața: Drumul prin Normandia iernatică este pitoresc și liniștit.\nLa prânz: Abația tronează maiestuos deasupra golfului înghețat.\nDupă-amiaza: O plimbare pe metereze revigorează simțurile înainte de plecare.\nSeara: Încălziți-vă la Alligator Bay înainte de a pleca înapoi.",
             "en": "Morning: The drive through wintery Normandy is picturesque and quiet.\nMidday: The Abbey towers majestically over the icy bay.\nAfternoon: A walk on the ramparts revives the senses before driving on.\nEvening: Warm up at Alligator Bay before heading back.",
-            "fr": "Matin : La route à travers la Normandie hivernale est pittoresque et paisible.\nMidi : L'Abbaye surplombe majestueusement la baie glacée.\nAprès-midi : Une promenade sur les remparts ravive les sens avant de reprendre la route.\nSoir : Réchauffez-vous à Alligator Bay avant de rentrer."
+            "fr": "Matin : La route à travers la Normandie hivernale est pittoresque et calme.\nMidi : L’abbaye domine majestueusement la baie glacée.\nAprès‑midi : Une promenade sur les remparts revigore les sens avant de reprendre la route.\nSoir : Réchauffez‑vous à Alligator Bay avant de repartir."
           },
           "stops": [
             {
@@ -2187,7 +2268,7 @@
                 "hu": "Kényeztesse magát egy forró csokoládéval a felmelegedéshez.",
                 "ro": "Răsfățați-vă cu o ciocolată caldă pentru a vă încălzi.",
                 "en": "Treat yourself to a hot chocolate to warm up.",
-                "fr": "Offrez-vous un chocolat chaud pour vous réchauffer."
+                "fr": "Offrez‑vous un chocolat chaud pour vous réchauffer."
               }
             },
             {
@@ -2197,7 +2278,7 @@
                 "hu": "A benti trópusi klíma igazi áldás télen.",
                 "ro": "Climatul tropic din interior este o binecuvântare iarna.",
                 "en": "The tropical climate inside is a blessing in winter.",
-                "fr": "Le climat tropical à l'intérieur est une bénédiction en hiver."
+                "fr": "Le climat tropical à l’intérieur est une bénédiction en hiver."
               }
             }
           ],
@@ -2227,10 +2308,10 @@
               "The car heater will be your best friend after the mountain walk."
             ],
             "fr": [
-              "Vérifiez la pression des pneus lors de basses températures.",
-              "Les parkings sont beaucoup plus proches du départ des navettes en hiver.",
-              "Évitez de conduire tard en cas de risque de routes verglacées.",
-              "Le chauffage de la voiture sera votre meilleur ami après la marche sur le mont."
+              "Vérifiez la pression des pneus par basses températures.",
+              "Les parkings sont beaucoup plus proches du départ de la navette en hiver.",
+              "Évitez de conduire tard en cas de routes potentiellement verglacées.",
+              "Le chauffage de la voiture sera votre meilleur allié après la balade sur la montagne."
             ]
           }
         }
@@ -2249,7 +2330,8 @@
             "de": "Grande Rue",
             "hu": "Grande Rue",
             "ro": "Grande Rue",
-            "en": "Grande Rue"
+            "en": "Grande Rue",
+            "fr": "Grande Rue"
           },
           "coords": [
             -1.5105,
@@ -2265,7 +2347,7 @@
             "hu": "Szállj fel a 'Le Passeur' buszra a parkoló melletti megállóban.",
             "ro": "Ia naveta 'Le Passeur' din stația de lângă parcare.",
             "en": "Take the 'Le Passeur' shuttle from the parking lot bus stop.",
-            "fr": "Prenez la navette « Le Passeur » à l'arrêt de bus du parking."
+            "fr": "Prenez la navette « Le Passeur » depuis l’arrêt bus du parking."
           }
         },
         {
@@ -2273,7 +2355,8 @@
             "de": "Abbaye du Mont-Saint-Michel",
             "hu": "Mont-Saint-Michel apátság",
             "ro": "Abația Mont-Saint-Michel",
-            "en": "Mont-Saint-Michel Abbey"
+            "en": "Mont-Saint-Michel Abbey",
+            "fr": "Abbaye du Mont‑Saint‑Michel"
           },
           "coords": [
             -1.5112,
@@ -2289,7 +2372,7 @@
             "hu": "Az apátság a kaptató végállomása.",
             "ro": "Abația este punctul final al urcușului.",
             "en": "The Abbey is the final stop of the steep climb.",
-            "fr": "L'Abbaye est le point final de la montée escarpée."
+            "fr": "L'abbaye est l'ultime étape de la montée raide."
           }
         },
         {
@@ -2297,7 +2380,8 @@
             "de": "La Merveille",
             "hu": "La Merveille",
             "ro": "La Merveille",
-            "en": "La Merveille"
+            "en": "La Merveille",
+            "fr": "La Merveille"
           },
           "coords": [
             -1.5115,
@@ -2313,7 +2397,7 @@
             "hu": "Építészeti csoda három szinten elosztva.",
             "ro": "O minune a arhitecturii pe trei niveluri.",
             "en": "An architectural marvel distributed across three levels.",
-            "fr": "Un chef-d'œuvre architectural réparti sur trois niveaux."
+            "fr": "Une merveille architecturale répartie sur trois niveaux."
           }
         },
         {
@@ -2321,7 +2405,8 @@
             "de": "Remparts du Mont-Saint-Michel",
             "hu": "Mont-Saint-Michel várfalai",
             "ro": "Meterezele din Mont-Saint-Michel",
-            "en": "Ramparts of Mont-Saint-Michel"
+            "en": "Ramparts of Mont-Saint-Michel",
+            "fr": "Remparts du Mont-Saint-Michel"
           },
           "coords": [
             -1.5098,
@@ -2337,7 +2422,7 @@
             "hu": "Élvezd a friss tengeri szellőt a falakon.",
             "ro": "Bucură-te de briza proaspătă a mării pe ziduri.",
             "en": "Enjoy the fresh sea breeze while walking the walls.",
-            "fr": "Profitez de la brise marine fraîche en parcourant les remparts."
+            "fr": "Profitez de la fraîche brise marine en parcourant les remparts."
           }
         },
         {
@@ -2345,7 +2430,8 @@
             "de": "Église Saint-Pierre",
             "hu": "Szent Péter-templom",
             "ro": "Biserica Saint-Pierre",
-            "en": "Saint-Pierre Church"
+            "en": "Saint-Pierre Church",
+            "fr": "Église Saint-Pierre"
           },
           "coords": [
             -1.5108,
@@ -2361,7 +2447,7 @@
             "hu": "Békés hely egy pillanatnyi elcsendesedéshez.",
             "ro": "Un loc liniștit pentru un moment de reflecție.",
             "en": "A peaceful place for a moment of quiet reflection.",
-            "fr": "Un lieu paisible pour un moment de réflexion silencieuse."
+            "fr": "Un lieu paisible pour un moment de recueillement."
           }
         }
       ],
@@ -2370,7 +2456,7 @@
         "hu": "Utazásod a modern transzferbusszal indul a sziklához. Felfedezed a Grande Rue forgatagát, majd felmászol a fenséges apátságba, hogy megcsodáld a 'Merveille' gótikus szépségét. Délután a várfalakon sétálva és a hangulatos falusi templomot meglátogatva búcsúzol, mielőtt a busz visszavisz a szárazföldre.",
         "ro": "Călătoria ta începe cu naveta modernă către stâncă. Explorezi agitația din Grande Rue, apoi urci la abația maiestuoasă pentru a admira frumusețea gotică a 'Merveille'. După-amiaza te plimbi pe metereze și vizitezi biserica pitorească a satului înainte ca naveta să te ducă înapoi pe continent.",
         "en": "Your trip begins with a modern shuttle ride to the rock. Explore the lively Grande Rue, then ascend to the majestic Abbey to admire the Gothic beauty of 'La Merveille'. Spend the afternoon walking the ramparts and visiting the quaint village church before catching the shuttle back to the mainland.",
-        "fr": "Votre voyage commence par un trajet moderne en navette vers le rocher. Explorez la Grande Rue animée, puis montez à la majestueuse Abbaye pour admirer la beauté gothique de « La Merveille ». Passez l'après-midi à parcourir les remparts et à visiter l'église pittoresque du village avant de reprendre la navette vers le continent."
+        "fr": "Votre excursion commence par une navette moderne vers le rocher. Explorez la vivante Grande Rue, puis montez à la majestueuse abbaye pour admirer la beauté gothique de « La Merveille ». Passez l'après-midi à parcourir les remparts et à visiter la charmante église du village avant de reprendre la navette pour le continent."
       },
       "gastro_picks": {
         "de": [
@@ -2499,10 +2585,10 @@
           "Horse-drawn carriages (Maringotes) are available as an alternative."
         ],
         "fr": [
-          "La navette circule toutes les quelques minutes.",
+          "La navette passe toutes les quelques minutes.",
           "Les temps d'attente peuvent être plus longs en fin d'après-midi.",
-          "Les chiens sont admis dans la navette avec une muselière.",
-          "Des calèches (Maringotes) sont disponibles comme alternative."
+          "Les chiens sont autorisés dans la navette s'ils portent une muselière.",
+          "Des voitures hippomobiles (maringotes) sont disponibles en alternative."
         ]
       },
       "variants": {
@@ -2511,7 +2597,8 @@
             "de": "Ihre Reise beginnt mit dem modernen Shuttle-Service zum Felsen. Sie erkunden die Grande Rue und steigen dann zur majestätischen Abtei hinauf, um die gótische Pracht der 'Merveille' zu bewundern. Am Nachmittag spazieren Sie über die Festungsmauern und besuchen die malerische Dorfkirche, bevor der Shuttle Sie zurück zum Festland bringt.",
             "hu": "Utazásod a modern transzferbusszal indul a sziklához. Felfedezed a Grande Rue forgatagát, majd felmászol a fenséges apátságba, hogy megcsodáld a 'Merveille' gótikus szépségét. Délután a várfalakon sétálva és a hangulatos falusi templomot meglátogatva búcsúzol, mielőtt a busz visszavisz a szárazföldre.",
             "ro": "Călătoria ta începe cu naveta modernă către stâncă. Explorezi agitația din Grande Rue, apoi urci la abația maiestuoasă pentru a admira frumusețea gotică a 'Merveille'. După-amiaza te plimbi pe metereze și vizitezi biserica pitorească a satului înainte ca naveta să te ducă înapoi pe continent.",
-            "en": "Your trip begins with a modern shuttle ride to the rock. Explore the lively Grande Rue, then ascend to the majestic Abbey to admire the Gothic beauty of 'La Merveille'. Spend the afternoon walking the ramparts and visiting the quaint village church before catching the shuttle back to the mainland."
+            "en": "Your trip begins with a modern shuttle ride to the rock. Explore the lively Grande Rue, then ascend to the majestic Abbey to admire the Gothic beauty of 'La Merveille'. Spend the afternoon walking the ramparts and visiting the quaint village church before catching the shuttle back to the mainland.",
+            "fr": "Votre excursion commence par une navette moderne vers le rocher. Explorez la vivante Grande Rue, puis montez à la majestueuse abbaye pour admirer la beauté gothique de « La Merveille ». Passez l'après-midi à parcourir les remparts et à visiter la charmante église du village avant de reprendre la navette pour le continent."
           },
           "stops": [
             {
@@ -2519,13 +2606,15 @@
                 "de": "Grande Rue",
                 "hu": "Grande Rue",
                 "ro": "Grande Rue",
-                "en": "Grande Rue"
+                "en": "Grande Rue",
+                "fr": "Grande Rue"
               },
               "tip_5lang": {
                 "de": "Nehmen Sie den Shuttle 'Le Passeur' von der Haltestelle am Parkplatz.",
                 "hu": "Szállj fel a 'Le Passeur' buszra a parkoló melletti megállóban.",
                 "ro": "Ia naveta 'Le Passeur' din stația de lângă parcare.",
-                "en": "Take the 'Le Passeur' shuttle from the parking lot bus stop."
+                "en": "Take the 'Le Passeur' shuttle from the parking lot bus stop.",
+                "fr": "Prenez la navette « Le Passeur » à l'arrêt du parking."
               }
             },
             {
@@ -2533,13 +2622,15 @@
                 "de": "Abbaye du Mont-Saint-Michel",
                 "hu": "Mont-Saint-Michel apátság",
                 "ro": "Abația Mont-Saint-Michel",
-                "en": "Mont-Saint-Michel Abbey"
+                "en": "Mont-Saint-Michel Abbey",
+                "fr": "Abbaye du Mont-Saint-Michel"
               },
               "tip_5lang": {
                 "de": "Die Abtei ist die Endstation des Aufstiegs.",
                 "hu": "Az apátság a kaptató végállomása.",
                 "ro": "Abația este punctul final al urcușului.",
-                "en": "The Abbey is the final stop of the steep climb."
+                "en": "The Abbey is the final stop of the steep climb.",
+                "fr": "L'abbaye est l'ultime étape de la montée raide."
               }
             },
             {
@@ -2547,13 +2638,15 @@
                 "de": "La Merveille",
                 "hu": "La Merveille",
                 "ro": "La Merveille",
-                "en": "La Merveille"
+                "en": "La Merveille",
+                "fr": "La Merveille"
               },
               "tip_5lang": {
                 "de": "Ein Wunderwerk der Architektur auf drei Ebenen.",
                 "hu": "Építészeti csoda három szinten elosztva.",
                 "ro": "O minune a arhitecturii pe trei niveluri.",
-                "en": "An architectural marvel distributed across three levels."
+                "en": "An architectural marvel distributed across three levels.",
+                "fr": "Une merveille architecturale répartie sur trois niveaux."
               }
             },
             {
@@ -2561,13 +2654,15 @@
                 "de": "Remparts du Mont-Saint-Michel",
                 "hu": "Mont-Saint-Michel várfalai",
                 "ro": "Meterezele din Mont-Saint-Michel",
-                "en": "Ramparts of Mont-Saint-Michel"
+                "en": "Ramparts of Mont-Saint-Michel",
+                "fr": "Remparts du Mont-Saint-Michel"
               },
               "tip_5lang": {
                 "de": "Genießen Sie die frische Meeresbrise auf den Mauern.",
                 "hu": "Élvezd a friss tengeri szellőt a falakon.",
                 "ro": "Bucură-te de briza proaspătă a mării pe ziduri.",
-                "en": "Enjoy the fresh sea breeze while walking the walls."
+                "en": "Enjoy the fresh sea breeze while walking the walls.",
+                "fr": "Profitez de la fraîche brise marine en parcourant les remparts."
               }
             },
             {
@@ -2575,13 +2670,15 @@
                 "de": "Église Saint-Pierre",
                 "hu": "Szent Péter-templom",
                 "ro": "Biserica Saint-Pierre",
-                "en": "Saint-Pierre Church"
+                "en": "Saint-Pierre Church",
+                "fr": "Église Saint-Pierre"
               },
               "tip_5lang": {
                 "de": "Ein friedlicher Ort für einen Moment der Besinnung.",
                 "hu": "Békés hely egy pillanatnyi elcsendesedéshez.",
                 "ro": "Un loc liniștit pentru un moment de reflecție.",
-                "en": "A peaceful place for a moment of quiet reflection."
+                "en": "A peaceful place for a moment of quiet reflection.",
+                "fr": "Un lieu paisible pour un moment de recueillement."
               }
             }
           ],
@@ -2691,6 +2788,12 @@
               "Wait times can be longer in the late afternoon.",
               "Dogs are allowed on the shuttle with a muzzle.",
               "Horse-drawn carriages (Maringotes) are available as an alternative."
+            ],
+            "fr": [
+              "La navette passe toutes les quelques minutes.",
+              "Les temps d'attente peuvent être plus longs en fin d'après-midi.",
+              "Les chiens sont autorisés dans la navette s'ils portent une muselière.",
+              "Des voitures hippomobiles (maringotes) sont disponibles en alternative."
             ]
           }
         },
@@ -2700,7 +2803,7 @@
             "hu": "Reggel: A busz szárazon viszi Önt majdnem a főkapuig.\nDélben: Az apátság a csúcspont, és védelmet nyújt a záporok elől.\nDélután: Egy rövid kitérő a Merveille-hez, mielőtt elered az eső.\nEste: A buszos visszaút egy vizes nap után nagyon kényelmes.",
             "ro": "Dimineața: Naveta vă duce la uscat până aproape de poarta principală.\nLa prânz: Abația este punctul culminant și oferă protecție împotriva averselor.\nDupă-amiaza: O scurtă vizită la Merveille înainte ca ploaia să se întețească.\nSeara: Întoarcerea cu autobuzul este foarte confortabilă după o zi ploioasă.",
             "en": "Morning: The shuttle takes you dry to just before the main gate.\nMidday: The Abbey is the highlight and provides protection from showers.\nAfternoon: A short detour to La Merveille before the rain increases.\nEvening: The bus ride back is very comfortable after a wet day.",
-            "fr": "Matin : La navette vous emmène au sec juste avant la porte principale.\nMidi : L'Abbaye est le point fort et offre une protection contre les averses.\nAprès-midi : Un court détour par La Merveille avant que la pluie ne redouble.\nSoir : Le trajet de retour en bus est très confortable après une journée humide."
+            "fr": "Matin : La navette vous emmène à sec juste avant la porte principale.\nMidi : L'abbaye est le point d'orgue et offre un abri contre les averses.\nAprès-midi : Un court détour vers La Merveille avant que la pluie n'augmente.\nSoir : Le trajet en bus du retour est très confortable après une journée humide."
           },
           "stops": [
             {
@@ -2710,7 +2813,7 @@
                 "hu": "Erős esőben keressen menedéket a kapualjakban.",
                 "ro": "Căutați adăpost în intrările porților în caz de ploaie puternică.",
                 "en": "Seek shelter in the gate entrances during heavy rain.",
-                "fr": "Cherchez refuge dans les entrées des portes lors de fortes pluies."
+                "fr": "Recherchez un abri dans les entrées des portes pendant les fortes pluies."
               }
             },
             {
@@ -2720,7 +2823,7 @@
                 "hu": "A jegypénztár környéke fedett, tökéletes a várakozáshoz.",
                 "ro": "Zona de bilete este acoperită, perfectă pentru așteptare.",
                 "en": "The ticket area is covered, perfect for waiting.",
-                "fr": "La zone de billetterie est couverte, parfaite pour attendre."
+                "fr": "La zone des billets est couverte, parfaite pour attendre."
               }
             },
             {
@@ -2730,7 +2833,7 @@
                 "hu": "Használja a benti időt a részletes nézelődésre.",
                 "ro": "Folosiți timpul în interior pentru vizitarea detaliată.",
                 "en": "Use the time inside for detailed sightseeing.",
-                "fr": "Utilisez le temps à l'intérieur pour une visite détaillée."
+                "fr": "Profitez du temps à l'intérieur pour un tourisme détaillé."
               }
             },
             {
@@ -2740,7 +2843,7 @@
                 "hu": "Szélben és esőben a lépcsők csúszósak lehetnek.",
                 "ro": "Pe vânt și ploaie treptele pot fi alunecoase.",
                 "en": "In wind and rain, the steps can be slippery.",
-                "fr": "Sous le vent et la pluie, les marches peuvent être glissantes."
+                "fr": "Par vent et pluie, les marches peuvent être glissantes."
               }
             },
             {
@@ -2750,7 +2853,7 @@
                 "hu": "Egy kicsi, száraz hely az elmélyüléshez.",
                 "ro": "Un loc mic și uscat pentru reflecție.",
                 "en": "A small, dry place for reflection.",
-                "fr": "Un petit endroit sec pour se recueillir."
+                "fr": "Un petit endroit sec pour la réflexion."
               }
             }
           ],
@@ -2780,9 +2883,9 @@
               "Buses can get very crowded when it rains."
             ],
             "fr": [
-              "La navette « Le Passeur » est gratuite et circule régulièrement.",
-              "Attendez le bus dans les zones d'attente couvertes.",
-              "Gardez votre ticket à portée de main pour éviter de le chercher sous la pluie.",
+              "La navette « Le Passeur » est gratuite et circule régulièrement.",
+              "Attendez le bus dans les abris couverts.",
+              "Gardez votre billet à portée de main pour éviter de le chercher sous la pluie.",
               "Les bus peuvent être très bondés lorsqu'il pleut."
             ]
           }
@@ -2793,7 +2896,7 @@
             "hu": "Reggel: A fűtött busz télen igazi áldás.",
             "ro": "Dimineața: Naveta încălzită este o adevărată binecuvântare iarna.\nLa prânz: Abația pare deosebit de magnifică sub soarele clar de iarnă.\nDupă-amiaza: O plimbare pe ziduri oferă aer curat și vederi superbe.\nSeara: Întoarcerea cu autobuzul vă face să uitați repede de frig.",
             "en": "Morning: The heated shuttle is a true blessing in winter.\nMidday: The Abbey looks particularly magnificent under the clear winter sun.\nAfternoon: A walk on the walls offers fresh air and great views.\nEvening: The return by bus makes you quickly forget the cold.",
-            "fr": "Matin : La navette chauffée est une véritable bénédiction en hiver.\nMidi : L'Abbaye est particulièrement magnifique sous le soleil clair d'hiver.\nAprès-midi : Une promenade sur les remparts offre de l'air frais et des vues superbes.\nSoir : Le retour en bus vous fait vite oublier le froid."
+            "fr": "Matin : La navette chauffée est une vraie bénédiction en hiver.\nMidi : L'abbaye paraît particulièrement magnifique sous le soleil hivernal clair.\nAprès-midi : Une promenade sur les remparts offre de l'air frais et de superbes vues.\nSoir : Le retour en bus vous fait vite oublier le froid."
           },
           "stops": [
             {
@@ -2803,7 +2906,7 @@
                 "hu": "A téli napfény megvilágítja a régi házak homlokzatát.",
                 "ro": "Soarele de iarnă luminează fațadele caselor vechi.",
                 "en": "Winter sun illuminates the facades of the old houses.",
-                "fr": "Le soleil d'hiver illumine les façades des maisons anciennes."
+                "fr": "Le soleil d'hiver illumine les façades des vieilles maisons."
               }
             },
             {
@@ -2813,7 +2916,7 @@
                 "hu": "Tervezze a látogatást a korai sötétedés előtt.",
                 "ro": "Planificați vizita înainte de amurgul timpuriu.",
                 "en": "Plan your visit before the early dusk.",
-                "fr": "Prévoyez votre visite avant le crépuscule précoce."
+                "fr": "Planifiez votre visite avant la tombée précoce du crépuscule."
               }
             },
             {
@@ -2833,7 +2936,7 @@
                 "hu": "Vigyázat a kőlépcsőkön kialakuló jegesedéssel.",
                 "ro": "Atenție la formarea gheții pe treptele de piatră.",
                 "en": "Watch out for ice formation on the stone steps.",
-                "fr": "Attention à la formation de glace sur les marches en pierre."
+                "fr": "Faites attention à la formation de verglas sur les marches en pierre."
               }
             },
             {
@@ -2843,7 +2946,7 @@
                 "hu": "Meleg hely egy pillanatnyi csendhez.",
                 "ro": "Un loc cald pentru un moment de liniște.",
                 "en": "A warm place for a moment of silence.",
-                "fr": "Un endroit chaleureux pour un moment de silence."
+                "fr": "Un endroit chaud pour un moment de silence."
               }
             }
           ],
@@ -2874,9 +2977,9 @@
             ],
             "fr": [
               "Les bus circulent moins fréquemment en hiver qu'en été.",
-              "Portez un bonnet contre le vent fort sur le pont.",
-              "Profitez des premières heures du matin pour prendre des photos sans personne.",
-              "L'Abbaye ferme déjà à 17h00."
+              "Portez un chapeau contre le vent fort sur le pont.",
+              "Utilisez les premières heures du matin pour des photos sans personnes.",
+              "L'abbaye ferme déjà à 17:00."
             ]
           }
         }

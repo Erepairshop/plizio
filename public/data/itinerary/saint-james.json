@@ -21,7 +21,8 @@
             "de": "Saint-James Strickwarenfabrik",
             "hu": "Saint-James Kötöttárugyár",
             "ro": "Fabrica de tricotaje Saint-James",
-            "en": "Saint-James Knitwear Factory"
+            "en": "Saint-James Knitwear Factory",
+            "fr": "Usine de Tricot Saint-James"
           },
           "coords": [
             -1.32375,
@@ -36,7 +37,8 @@
             "de": "Entdecken Sie die Geschichte des legendären Streifenpullovers; buchen Sie Ihre Führung frühzeitig, da die Plätze in der Fabrik sehr schnell vergeben sind.",
             "hu": "Fedezze fel az ikonikus csíkos pulóver örökségét ebben a működő gyárban; jó előre foglalja le a vezetett túrát, mert a helyek gyorsan betelnek.",
             "ro": "Descoperiți moștenirea puloverului cu dungi în această fabrică activă; rezervați-vă turul ghidat din timp, deoarece locurile se ocupă foarte repede.",
-            "en": "Discover the heritage of the iconic striped sweater in this active factory; book your guided tour well in advance as spots fill up very fast."
+            "en": "Discover the heritage of the iconic striped sweater in this active factory; book your guided tour well in advance as spots fill up very fast.",
+            "fr": "Découvrez le patrimoine du pull rayé emblématique dans cette usine en activité ; réservez votre visite guidée longtemps à l’avance car les places partent très vite."
           }
         },
         {
@@ -44,7 +46,8 @@
             "de": "Kirche Saint-Jacques",
             "hu": "Saint-Jacques templom",
             "ro": "Biserica Saint-Jacques",
-            "en": "Saint-Jacques Church"
+            "en": "Saint-Jacques Church",
+            "fr": "Église Saint-Jacques"
           },
           "coords": [
             -1.319874,
@@ -59,7 +62,8 @@
             "de": "Bewundern Sie die wunderschönen romanischen Bögen dieser historischen Kirche und achten Sie auf die aufwendig geschnitzten Holzdetails am Altar.",
             "hu": "Csodálja meg e történelmi templom gyönyörű román stílusú boltíveit, és szánjon egy percet az oltár melletti faragott fa részletek megfigyelésére.",
             "ro": "Admirați frumoasele arce romanice ale acestei biserici istorice și observați detaliile din lemn sculptate cu complexitate de lângă altarul principal.",
-            "en": "Admire the beautiful Romanesque arches of this historic church, and take a moment to notice the intricately carved wooden details near the altar."
+            "en": "Admire the beautiful Romanesque arches of this historic church, and take a moment to notice the intricately carved wooden details near the altar.",
+            "fr": "Admirez les belles arches romanes de cette église historique et prenez un instant pour remarquer les détails en bois finement sculptés près de l’autel."
           }
         },
         {
@@ -67,7 +71,8 @@
             "de": "Château de la Paluelle",
             "hu": "Château de la Paluelle",
             "ro": "Château de la Paluelle",
-            "en": "Château de la Paluelle"
+            "en": "Château de la Paluelle",
+            "fr": "Château de la Paluelle"
           },
           "coords": [
             -1.315069,
@@ -82,7 +87,8 @@
             "de": "Bestaunen Sie die elegante Architektur dieses privaten Anwesens aus dem 17. Jahrhundert; die umliegenden öffentlichen Wege bieten tolle Fotomotive.",
             "hu": "Csodálja meg e magánbirtok elegáns, 17. századi építészetét; bár a belső tér nem látogatható, a környező ösvények remek fotózási lehetőséget kínálnak.",
             "ro": "Minunați-vă de arhitectura elegantă de secol 17 a acestei proprietăți private; deși interiorul este restricționat, cărările din jur oferă poze grozave.",
-            "en": "Marvel at the elegant 17th-century architecture of this private estate; while the interior is restricted, the surrounding public paths offer great photos."
+            "en": "Marvel at the elegant 17th-century architecture of this private estate; while the interior is restricted, the surrounding public paths offer great photos.",
+            "fr": "Admirez l’élégante architecture du XVIIe siècle de ce domaine privé ; l’intérieur est fermé au public, mais les chemins publics alentour offrent d’excellentes photos."
           }
         },
         {
@@ -90,7 +96,8 @@
             "de": "Amerikanischer Friedhof in der Bretagne",
             "hu": "Bretagne-i Amerikai Temető",
             "ro": "Cimitirul American din Bretania",
-            "en": "Brittany American Cemetery"
+            "en": "Brittany American Cemetery",
+            "fr": "Cimetière américain de Bretagne"
           },
           "coords": [
             -1.304167,
@@ -105,7 +112,8 @@
             "de": "Spazieren Sie zwischen den weißen Kreuzen zu Ehren von 4.410 Soldaten des Zweiten Weltkriegs und holen Sie sich im Besucherzentrum eine Geländekarte.",
             "hu": "Sétáljon a 4410 második világháborús katonát tisztelő fehér keresztek között, és ne felejtsen el térképet kérni a területhez a látogatóközpontban.",
             "ro": "Plimbați-vă printre crucile albe aliniate care onorează 4.410 de soldați, și nu uitați să treceți pe la centrul de vizitatori pentru o hartă.",
-            "en": "Walk among the perfectly aligned white crosses honoring 4,410 WWII soldiers, and remember to check in at the visitor center for a map of the grounds."
+            "en": "Walk among the perfectly aligned white crosses honoring 4,410 WWII soldiers, and remember to check in at the visitor center for a map of the grounds.",
+            "fr": "Marchez parmi les croix blanches parfaitement alignées honorant 4 410 soldats de la Seconde Guerre mondiale, et pensez à vous renseigner au centre des visiteurs pour une carte du site."
           }
         },
         {
@@ -113,7 +121,8 @@
             "de": "Kapelle des amerikanischen Militärfriedhofs",
             "hu": "Katonai temető kápolnája",
             "ro": "Capela cimitirului militar american",
-            "en": "Chapelle du cimetière militaire américain"
+            "en": "Chapelle du cimetière militaire américain",
+            "fr": "Chapelle du cimetière militaire américain"
           },
           "coords": [
             -1.302192,
@@ -128,7 +137,8 @@
             "de": "Finden Sie einen Moment tiefer Stille in dieser Granitkapelle; die atemberaubenden Buntglasfenster fangen das sanfte Nachmittagslicht perfekt ein.",
             "hu": "Találjon egy pillanatnyi mély csendet ebben a gránitkápolnában; a lenyűgöző ólomüveg ablakok tökéletesen megörökítik a délutáni fényeket és színeket.",
             "ro": "Găsiți un moment de liniște profundă în această capelă de granit; vitraliile uimitoare captează perfect lumina caldă și blândă a după-amiezii.",
-            "en": "Find a moment of profound silence inside this solemn granite chapel; the stunning stained glass windows perfectly capture the afternoon light."
+            "en": "Find a moment of profound silence inside this solemn granite chapel; the stunning stained glass windows perfectly capture the afternoon light.",
+            "fr": "Trouvez un moment de silence profond à l’intérieur de cette chapelle solennelle en granit ; les magnifiques vitraux captent parfaitement la lumière de l’après‑midi."
           }
         }
       ],
@@ -136,7 +146,8 @@
         "de": "Beginnen Sie den Morgen mit der berühmten Strickwarenfabrik Saint-James und spazieren Sie zur ruhigen Kirche Saint-Jacques.\n\nMittags bewundern Sie die historische Architektur des Château de la Paluelle bei einem gemütlichen Stadtspaziergang.\n\nDer Nachmittag ist dem bewegenden amerikanischen Friedhof in der Bretagne gewidmet, der die gefallenen Soldaten ehrt.\n\nDer Abend lädt schließlich zu stiller Reflexion in der wunderschönen Friedhofskapelle ein.",
         "hu": "Kezdje a reggelt a híres Saint-James kötöttárugyárban, majd sétáljon át a békés Saint-Jacques templomhoz.\n\nDélben csodálja meg a Château de la Paluelle történelmi építészetét, mielőtt megebédelne a belvárosban.\n\nA délutánt a megható Bretagne-i Amerikai Temetőnek szenteljük, ahol az elesett katonákra emlékezhetünk.\n\nAz este csendes elmélkedésre hív a temető gyönyörű, békét árasztó kápolnájában.",
         "ro": "Începeți dimineața explorând faimoasa fabrică de tricotaje Saint-James, apoi plimbați-vă până la senina Biserică Saint-Jacques.\n\nLa prânz, admirați arhitectura istorică a Château de la Paluelle în timpul unei plimbări relaxante.\n\nDupă-amiaza este dedicată emoționantului Cimitir American din Bretania, onorând soldații căzuți.\n\nSeara invită la o reflecție liniștită în frumoasa și solemna capelă a cimitirului.",
-        "en": "Start your morning exploring the famous Saint-James Knitwear Factory, then stroll over to the serene Saint-Jacques Church.\n\nMidday, admire the historic architecture of Château de la Paluelle before enjoying a leisurely lunch in town.\n\nThe afternoon is dedicated to the moving Brittany American Cemetery, respectfully honoring the fallen soldiers.\n\nEvening invites a quiet reflection at the cemetery's beautiful and solemn granite chapel."
+        "en": "Start your morning exploring the famous Saint-James Knitwear Factory, then stroll over to the serene Saint-Jacques Church.\n\nMidday, admire the historic architecture of Château de la Paluelle before enjoying a leisurely lunch in town.\n\nThe afternoon is dedicated to the moving Brittany American Cemetery, respectfully honoring the fallen soldiers.\n\nEvening invites a quiet reflection at the cemetery's beautiful and solemn granite chapel.",
+        "fr": "Commencez la matinée par la célèbre usine de tricot Saint-James, puis promenez‑vous jusqu’à la paisible église Saint-Jacques.\n\nÀ midi, admirez l’architecture historique du Château de la Paluelle avant de déjeuner tranquillement en ville.\n\nL’après‑midi est consacré au poignant Cimetière américain de Bretagne, rendant hommage aux soldats tombés.\n\nLe soir invite à une réflexion calme dans la belle et solennelle chapelle du cimetière."
       },
       "variants": {
         "rainy": {
@@ -144,7 +155,8 @@
             "de": "Beginnen Sie Ihren Tag trocken in der Fabrik. Mittags geht es mit Regenschirm zur Kirche und zum Schlossgelände. Nachmittags ist der Friedhof sehr nass, aber die Kapelle bietet hervorragenden Schutz. Abends wärmen Sie sich am besten drinnen auf.",
             "hu": "Kezdje a napot szárazon a gyárban. Délben esernyővel induljon a templomhoz és a kastélyhoz. Délután a temető nyílt terepe nedves lehet, de a kápolna kiváló menedéket nyújt. Este érdemes egy meleg helyen megpihenni.",
             "ro": "Începeți ziua la uscat în fabrică. La prânz, luați umbrela spre biserică și domeniul castelului. După-amiaza cimitirul este umed, dar capela oferă un adăpost excelent. Seara, relaxați-vă la căldură în interior.",
-            "en": "Start your day dry inside the factory. Midday, take an umbrella to the church and the castle grounds. By afternoon, the open cemetery can be quite wet, but the chapel offers excellent shelter. Spend your evening warming up indoors."
+            "en": "Start your day dry inside the factory. Midday, take an umbrella to the church and the castle grounds. By afternoon, the open cemetery can be quite wet, but the chapel offers excellent shelter. Spend your evening warming up indoors.",
+            "fr": "Commencez la journée au sec à l’intérieur de l’usine. À midi, prenez un parapluie pour l’église et le parc du château. L’après‑midi, le cimetière ouvert peut être très humide, mais la chapelle offre un excellent abri. Passez la soirée à vous réchauffer à l’intérieur."
           },
           "stops": [
             {
@@ -152,13 +164,15 @@
                 "de": "Saint-James Strickwarenfabrik",
                 "hu": "Saint-James Kötöttárugyár",
                 "ro": "Fabrica de tricotaje Saint-James",
-                "en": "Saint-James Knitwear Factory"
+                "en": "Saint-James Knitwear Factory",
+                "fr": "Usine de Tricot Saint-James"
               },
               "tip_5lang": {
                 "de": "Genießen Sie die faszinierende Tour drinnen; ideal bei Regen. Kaufen Sie einen echten Wollpullover, falls Sie klamm sind.",
                 "hu": "Élvezze a benti túrát, amely tökéletes esős időben; vegyen egy híres gyapjúpulóvert, ha átfázott vagy elázott volna.",
                 "ro": "Bucurați-vă de turul interior perfect pe ploaie; cumpărați un pulover de lână autentic dacă vă este frig sau v-ați udat.",
-                "en": "Enjoy the fascinating indoor tour, perfect for rainy days. Pick up a famous woolen sweater if you feel damp or chilly."
+                "en": "Enjoy the fascinating indoor tour, perfect for rainy days. Pick up a famous woolen sweater if you feel damp or chilly.",
+                "fr": "Profitez de la fascinante visite intérieure, parfaite pour les jours de pluie. Achetez un célèbre pull en laine si vous êtes humide ou frigorifié."
               }
             },
             {
@@ -166,13 +180,15 @@
                 "de": "Kirche Saint-Jacques",
                 "hu": "Saint-Jacques templom",
                 "ro": "Biserica Saint-Jacques",
-                "en": "Saint-Jacques Church"
+                "en": "Saint-Jacques Church",
+                "fr": "Église Saint-Jacques"
               },
               "tip_5lang": {
                 "de": "Finden Sie hier perfekten Schutz vor dem Regen, während Sie die beeindruckenden Buntglasfenster in aller Ruhe bewundern.",
                 "hu": "Találjon itt tökéletes menedéket a záporok elől, miközben nyugodtan megcsodálja a lenyűgöző ólomüveg ablakokat.",
                 "ro": "Găsiți un adăpost perfect de ploaie aici, în timp ce admirați în liniște vitraliile impresionante ale clădirii.",
-                "en": "Find perfect shelter from the showers here while quietly admiring the impressive stained glass windows inside."
+                "en": "Find perfect shelter from the showers here while quietly admiring the impressive stained glass windows inside.",
+                "fr": "Abri idéal contre les averses tout en admirant paisiblement les beaux vitraux à l’intérieur."
               }
             },
             {
@@ -180,13 +196,15 @@
                 "de": "Château de la Paluelle",
                 "hu": "Château de la Paluelle",
                 "ro": "Château de la Paluelle",
-                "en": "Château de la Paluelle"
+                "en": "Château de la Paluelle",
+                "fr": "Château de la Paluelle"
               },
               "tip_5lang": {
                 "de": "Gehen Sie mit einem stabilen Schirm spazieren; die unbefestigten Wege im Park können bei starkem Regen sehr schlammig sein.",
                 "hu": "Sétáljon a birtokon strapabíró esernyővel; a park burkolatlan ösvényei heves esőzéskor meglehetősen sarasak lehetnek.",
                 "ro": "Plimbați-vă cu o umbrelă robustă; potecile neasfaltate din parc pot fi destul de noroioase în timpul ploilor abundente.",
-                "en": "Walk the grounds with a sturdy umbrella; the unpaved paths in the park can become quite muddy during heavy downpours."
+                "en": "Walk the grounds with a sturdy umbrella; the unpaved paths in the park can become quite muddy during heavy downpours.",
+                "fr": "Parcourez le domaine avec un parapluie solide ; les chemins non goudronnés du parc peuvent devenir très boueux lors de fortes pluies."
               }
             },
             {
@@ -194,13 +212,15 @@
                 "de": "Amerikanischer Friedhof in der Bretagne",
                 "hu": "Bretagne-i Amerikai Temető",
                 "ro": "Cimitirul American din Bretania",
-                "en": "Brittany American Cemetery"
+                "en": "Brittany American Cemetery",
+                "fr": "Cimetière américain de Bretagne"
               },
               "tip_5lang": {
                 "de": "Die offenen Felder sind dem Wetter völlig ausgesetzt; tragen Sie unbedingt eine gute Regenjacke und wasserdichte Schuhe.",
                 "hu": "A nyílt terep teljesen kitett az időjárásnak; mindenképpen viseljen jó minőségű esőkabátot és vízálló cipőt.",
                 "ro": "Câmpurile deschise sunt complet expuse vremii; asigurați-vă că purtați o jachetă de ploaie bună și încălțăminte impermeabilă.",
-                "en": "The open fields are completely exposed to the weather; ensure you wear a good rain jacket and waterproof footwear."
+                "en": "The open fields are completely exposed to the weather; ensure you wear a good rain jacket and waterproof footwear.",
+                "fr": "Les espaces ouverts sont complètement exposés aux intempéries ; portez une bonne veste imperméable et des chaussures étanches."
               }
             },
             {
@@ -208,13 +228,15 @@
                 "de": "Kapelle des amerikanischen Militärfriedhofs",
                 "hu": "Katonai temető kápolnája",
                 "ro": "Capela cimitirului militar american",
-                "en": "Chapelle du cimetière militaire américain"
+                "en": "Chapelle du cimetière militaire américain",
+                "fr": "Chapelle du cimetière militaire américain"
               },
               "tip_5lang": {
                 "de": "Trocknen Sie sich in diesem feierlichen, überdachten Gedenkraum ab und lassen Sie den nassen Tag ruhig ausklingen.",
                 "hu": "Száradjon meg ebben az ünnepélyes, fedett emlékhelyben, és zárja le békésen ezt a nedves, esős napot.",
                 "ro": "Uscați-vă în acest spațiu memorial solemn, acoperit, și încheiați ziua umedă într-o atmosferă pașnică.",
-                "en": "Dry off inside this solemn, covered memorial space, providing a peaceful end to a wet and rainy day out."
+                "en": "Dry off inside this solemn, covered memorial space, providing a peaceful end to a wet and rainy day out.",
+                "fr": "Séchez‑vous à l’intérieur de ce lieu commémoratif solennel et couvert, qui apporte une fin paisible à une journée humide et pluvieuse."
               }
             }
           ]
@@ -224,7 +246,8 @@
             "de": "Der frostige Morgen beginnt wärmend in der Strickwarenfabrik. Mittags erfordern Kirche und Schloss warme Schichten gegen die Kälte. Nachmittags bläst am Friedhof ein eisiger Wind. Beenden Sie den Tag in der Kapelle vor dem frühen Sonnenuntergang gegen 17:00 Uhr.",
             "hu": "A fagyos reggel kellemesen indul a meleg gyárban. Délben a templom és kastély vastag rétegeket igényel. Délután a temetőnél jeges szél fúj. Fejezze be a napot a kápolnában a korai, 17:00 óra körüli naplemente előtt.",
             "ro": "Dimineața geroasă începe plăcut în fabrica caldă. La prânz, biserica și castelul necesită haine groase. După-amiaza vântul este înghețat la cimitir. Încheiați la capelă înainte de apusul devreme, în jur de ora 17:00.",
-            "en": "The frosty morning starts warmly inside the factory. Midday visits to the church and castle require thick layers. Afternoon brings icy winds at the cemetery. Finish at the chapel before the early sunset around 17:00."
+            "en": "The frosty morning starts warmly inside the factory. Midday visits to the church and castle require thick layers. Afternoon brings icy winds at the cemetery. Finish at the chapel before the early sunset around 17:00.",
+            "fr": "La matinée froide commence agréablement au chaud dans l’usine. Les visites de midi à l’église et au château nécessitent des couches épaisses. L’après‑midi apporte des vents glacés au cimetière. Terminez à la chapelle avant le coucher du soleil précoce vers 17:00."
           },
           "stops": [
             {
@@ -232,13 +255,15 @@
                 "de": "Saint-James Strickwarenfabrik",
                 "hu": "Saint-James Kötöttárugyár",
                 "ro": "Fabrica de tricotaje Saint-James",
-                "en": "Saint-James Knitwear Factory"
+                "en": "Saint-James Knitwear Factory",
+                "fr": "Usine de Tricot Saint-James"
               },
               "tip_5lang": {
                 "de": "Ein perfekter, warmer Start in den Wintertag; besorgen Sie sich einen wärmenden Pullover für den Rest der Tour.",
                 "hu": "Tökéletes, meleg kezdése a téli napnak; szerezzen be egy melegítő pulóvert a túra hátralévő részére.",
                 "ro": "Un început cald și perfect pentru o zi de iarnă; cumpărați un pulover călduros pentru restul turului.",
-                "en": "A perfect, warm start to your winter day; pick up a cozy thermal sweater to keep you warm for the rest of the tour."
+                "en": "A perfect, warm start to your winter day; pick up a cozy thermal sweater to keep you warm for the rest of the tour.",
+                "fr": "Un départ hivernal parfait et chaleureux ; achetez un pull thermique douillet pour rester au chaud le reste de la visite."
               }
             },
             {
@@ -246,13 +271,15 @@
                 "de": "Kirche Saint-Jacques",
                 "hu": "Saint-Jacques templom",
                 "ro": "Biserica Saint-Jacques",
-                "en": "Saint-Jacques Church"
+                "en": "Saint-Jacques Church",
+                "fr": "Église Saint-Jacques"
               },
               "tip_5lang": {
                 "de": "Das steinerne Innere kann kühl sein, aber es bietet Schutz vor dem beißenden Winterwind. Behalten Sie die Jacke an.",
                 "hu": "A kőből épült belső tér hűvös lehet, de védelmet nyújt a csípős téli szél ellen. Tartsa magán a kabátot.",
                 "ro": "Interiorul din piatră poate fi răcoros, dar oferă protecție împotriva vântului tăios de iarnă. Păstrați geaca pe dumneavoastră.",
-                "en": "The stone interior can be chilly, but it offers great protection from the biting winter wind. Keep your coat zipped."
+                "en": "The stone interior can be chilly, but it offers great protection from the biting winter wind. Keep your coat zipped.",
+                "fr": "L’intérieur en pierre peut être frais, mais il protège bien du vent hivernal mordant. Gardez votre manteau fermé."
               }
             },
             {
@@ -260,13 +287,15 @@
                 "de": "Château de la Paluelle",
                 "hu": "Château de la Paluelle",
                 "ro": "Château de la Paluelle",
-                "en": "Château de la Paluelle"
+                "en": "Château de la Paluelle",
+                "fr": "Château de la Paluelle"
               },
               "tip_5lang": {
                 "de": "Der Frost auf dem Anwesen sieht wunderschön aus, aber ziehen Sie sich für den Rundgang im Freien unbedingt warm an.",
                 "hu": "A zúzmara a birtokon gyönyörűen mutat, de mindenképpen öltözzön fel melegen a kinti sétához.",
                 "ro": "Înghețul pe domeniu arată superb, dar asigurați-vă că vă îmbrăcați foarte gros pentru plimbarea în aer liber.",
-                "en": "The frost on the estate looks beautiful, but be absolutely sure to dress warmly for your outdoor walk here."
+                "en": "The frost on the estate looks beautiful, but be absolutely sure to dress warmly for your outdoor walk here.",
+                "fr": "Le givre sur le domaine est magnifique, mais habillez‑vous absolument chaudement pour votre promenade extérieure."
               }
             },
             {
@@ -274,13 +303,15 @@
                 "de": "Amerikanischer Friedhof in der Bretagne",
                 "hu": "Bretagne-i Amerikai Temető",
                 "ro": "Cimitirul American din Bretania",
-                "en": "Brittany American Cemetery"
+                "en": "Brittany American Cemetery",
+                "fr": "Cimetière américain de Bretagne"
               },
               "tip_5lang": {
                 "de": "Der kalte Wind weht ungebremst über die weiten Rasenflächen; Mütze und warme Handschuhe sind hier unerlässlich.",
                 "hu": "A hideg szél akadálytalanul fúj végig a tágas pázsitokon; a sapka és a meleg kesztyű itt elengedhetetlen.",
                 "ro": "Vântul rece bate fără obstacole peste peluzele întinse; căciula și mănușile groase sunt absolut esențiale aici.",
-                "en": "The cold wind sweeps unhindered across the vast lawns; a warm hat and gloves are absolutely essential here."
+                "en": "The cold wind sweeps unhindered across the vast lawns; a warm hat and gloves are absolutely essential here.",
+                "fr": "Le vent froid balaie sans obstruction les vastes pelouses ; un bonnet chaud et des gants sont indispensables."
               }
             },
             {
@@ -288,13 +319,15 @@
                 "de": "Kapelle des amerikanischen Militärfriedhofs",
                 "hu": "Katonai temető kápolnája",
                 "ro": "Capela cimitirului militar american",
-                "en": "Chapelle du cimetière militaire américain"
+                "en": "Chapelle du cimetière militaire américain",
+                "fr": "Chapelle du cimetière militaire américain"
               },
               "tip_5lang": {
                 "de": "Ein beheizter, ruhiger Ort zur Besinnung, den Sie idealerweise kurz vor Einbruch der frühen Dunkelheit erreichen.",
                 "hu": "Fűtött, csendes elmélkedőhely, amelyet ideális esetben nem sokkal a korai sötétedés beállta előtt ér el.",
                 "ro": "Un loc încălzit și liniștit pentru reflecție, ideal de vizitat chiar înainte de lăsarea devreme a întunericului.",
-                "en": "A heated, quiet place for reflection, ideally reached just before the early winter darkness sets in completely."
+                "en": "A heated, quiet place for reflection, ideally reached just before the early winter darkness sets in completely.",
+                "fr": "Un endroit chauffé et calme pour la réflexion, idéalement atteint juste avant l’obscurité hivernale précoce."
               }
             }
           ]
@@ -314,7 +347,8 @@
             "de": "Kirche Saint-Jacques",
             "hu": "Saint-Jacques templom",
             "ro": "Biserica Saint-Jacques",
-            "en": "Saint-Jacques Church"
+            "en": "Saint-Jacques Church",
+            "fr": "Église Saint-Jacques"
           },
           "coords": [
             -1.319874,
@@ -329,7 +363,8 @@
             "de": "Bewundern Sie die wunderschönen romanischen Bögen dieser historischen Kirche und achten Sie auf die aufwendig geschnitzten Holzdetails am Altar.",
             "hu": "Csodálja meg e történelmi templom gyönyörű román stílusú boltíveit, és szánjon egy percet az oltár melletti faragott fa részletek megfigyelésére.",
             "ro": "Admirați frumoasele arce romanice ale acestei biserici istorice și observați detaliile din lemn sculptate cu complexitate de lângă altarul principal.",
-            "en": "Admire the beautiful Romanesque arches of this historic church, and take a moment to notice the intricately carved wooden details near the altar."
+            "en": "Admire the beautiful Romanesque arches of this historic church, and take a moment to notice the intricately carved wooden details near the altar.",
+            "fr": "Admirez les belles arches romanes de cette église historique et prenez un instant pour remarquer les détails en bois finement sculptés près de l’autel."
           }
         },
         {
@@ -337,7 +372,8 @@
             "de": "Saint-James Strickwarenfabrik",
             "hu": "Saint-James Kötöttárugyár",
             "ro": "Fabrica de tricotaje Saint-James",
-            "en": "Saint-James Knitwear Factory"
+            "en": "Saint-James Knitwear Factory",
+            "fr": "Usine de Tricot Saint-James"
           },
           "coords": [
             -1.32375,
@@ -352,7 +388,8 @@
             "de": "Entdecken Sie die Geschichte des legendären Streifenpullovers; buchen Sie Ihre Führung frühzeitig, da die Plätze in der Fabrik sehr schnell vergeben sind.",
             "hu": "Fedezze fel az ikonikus csíkos pulóver örökségét ebben a működő gyárban; jó előre foglalja le a vezetett túrát, mert a helyek gyorsan betelnek.",
             "ro": "Descoperiți moștenirea puloverului cu dungi în această fabrică activă; rezervați-vă turul ghidat din timp, deoarece locurile se ocupă foarte repede.",
-            "en": "Discover the heritage of the iconic striped sweater in this active factory; book your guided tour well in advance as spots fill up very fast."
+            "en": "Discover the heritage of the iconic striped sweater in this active factory; book your guided tour well in advance as spots fill up very fast.",
+            "fr": "Découvrez le patrimoine du pull rayé emblématique dans cette usine en activité ; réservez votre visite guidée longtemps à l’avance car les places partent très vite."
           }
         },
         {
@@ -360,7 +397,8 @@
             "de": "Château de la Paluelle",
             "hu": "Château de la Paluelle",
             "ro": "Château de la Paluelle",
-            "en": "Château de la Paluelle"
+            "en": "Château de la Paluelle",
+            "fr": "Château de la Paluelle"
           },
           "coords": [
             -1.315069,
@@ -375,7 +413,8 @@
             "de": "Bestaunen Sie die elegante Architektur dieses privaten Anwesens aus dem 17. Jahrhundert; die umliegenden öffentlichen Wege bieten tolle Fotomotive.",
             "hu": "Csodálja meg e magánbirtok elegáns, 17. századi építészetét; bár a belső tér nem látogatható, a környező ösvények remek fotózási lehetőséget kínálnak.",
             "ro": "Minunați-vă de arhitectura elegantă de secol 17 a acestei proprietăți private; deși interiorul este restricționat, cărările din jur oferă poze grozave.",
-            "en": "Marvel at the elegant 17th-century architecture of this private estate; while the interior is restricted, the surrounding public paths offer great photos."
+            "en": "Marvel at the elegant 17th-century architecture of this private estate; while the interior is restricted, the surrounding public paths offer great photos.",
+            "fr": "Admirez l’élégante architecture du XVIIe siècle de ce domaine privé ; l’intérieur est fermé au public, mais les chemins publics alentour offrent d’excellentes photos."
           }
         },
         {
@@ -383,7 +422,8 @@
             "de": "Saint-Benoît Polissoir",
             "hu": "Saint-Benoît Polissoir",
             "ro": "Saint-Benoît Polissoir",
-            "en": "Saint-Benoît Polissoir"
+            "en": "Saint-Benoît Polissoir",
+            "fr": "Polissoir de Saint-Benoît"
           },
           "coords": [
             -1.318741,
@@ -398,7 +438,8 @@
             "de": "Reisen Sie in die Jungsteinzeit zu diesem faszinierenden megalithischen Polierstein, aber tragen Sie festes Schuhwerk, da das Feld schlammig sein kann.",
             "hu": "Lépjen vissza az újkőkorszakba ennél a lenyűgöző megalitikus csiszolókőnél, de viseljen strapabíró cipőt, mert a környező mező gyakran sáros lehet.",
             "ro": "Întoarceți-vă în neolitic la această piatră de lustruit megalitică, dar asigurați-vă că purtați încălțăminte rezistentă, deoarece câmpul poate fi noroios.",
-            "en": "Step back into the Neolithic era at this fascinating megalithic polishing stone, but be sure to wear sturdy shoes as the surrounding field can be muddy."
+            "en": "Step back into the Neolithic era at this fascinating megalithic polishing stone, but be sure to wear sturdy shoes as the surrounding field can be muddy.",
+            "fr": "Replongez à l’époque néolithique devant ce fascinant polissoir mégalithique, mais portez des chaussures solides car le champ alentour peut être boueux."
           }
         },
         {
@@ -406,7 +447,8 @@
             "de": "Église Saint-Martin",
             "hu": "Église Saint-Martin",
             "ro": "Église Saint-Martin",
-            "en": "Église Saint-Martin"
+            "en": "Église Saint-Martin",
+            "fr": "Église Saint-Martin"
           },
           "coords": [
             -1.290676,
@@ -421,7 +463,8 @@
             "de": "Erkunden Sie diese ländliche Gemeinde mit authentischem Mauerwerk; das Parken vor der Tür ist begrenzt, daher wird ein kurzer Fußweg empfohlen.",
             "hu": "Fedezze fel ezt a bájos vidéki plébániát, amely autentikus helyi falazattal büszkélkedhet; a parkolás korlátozott, így érdemes az útról besétálni.",
             "ro": "Explorați această parohie rurală fermecătoare cu zidărie locală autentică; parcarea este foarte limitată, așa că se recomandă mersul pe jos din stradă.",
-            "en": "Explore this charming countryside parish featuring authentic local masonry; parking is very limited outside, so walking from the main road is advised."
+            "en": "Explore this charming countryside parish featuring authentic local masonry; parking is very limited outside, so walking from the main road is advised.",
+            "fr": "Explorez cette charmante paroisse rurale présentant une maçonnerie locale authentique ; le stationnement est très limité à l’extérieur, il est donc conseillé de venir à pied depuis la route principale."
           }
         },
         {
@@ -429,7 +472,8 @@
             "de": "Amerikanischer Friedhof in der Bretagne",
             "hu": "Bretagne-i Amerikai Temető",
             "ro": "Cimitirul American din Bretania",
-            "en": "Brittany American Cemetery"
+            "en": "Brittany American Cemetery",
+            "fr": "Cimetière américain de Bretagne"
           },
           "coords": [
             -1.304167,
@@ -444,7 +488,8 @@
             "de": "Spazieren Sie zwischen den weißen Kreuzen zu Ehren von 4.410 Soldaten des Zweiten Weltkriegs und holen Sie sich im Besucherzentrum eine Geländekarte.",
             "hu": "Sétáljon a 4410 második világháborús katonát tisztelő fehér keresztek között, és ne felejtsen el térképet kérni a területhez a látogatóközpontban.",
             "ro": "Plimbați-vă printre crucile albe aliniate care onorează 4.410 de soldați, și nu uitați să treceți pe la centrul de vizitatori pentru o hartă.",
-            "en": "Walk among the perfectly aligned white crosses honoring 4,410 WWII soldiers, and remember to check in at the visitor center for a map of the grounds."
+            "en": "Walk among the perfectly aligned white crosses honoring 4,410 WWII soldiers, and remember to check in at the visitor center for a map of the grounds.",
+            "fr": "Marchez parmi les croix blanches parfaitement alignées honorant 4 410 soldats de la Seconde Guerre mondiale, et pensez à vous renseigner au centre des visiteurs pour une carte du site."
           }
         },
         {
@@ -452,7 +497,8 @@
             "de": "Kapelle des amerikanischen Militärfriedhofs",
             "hu": "Katonai temető kápolnája",
             "ro": "Capela cimitirului militar american",
-            "en": "Chapelle du cimetière militaire américain"
+            "en": "Chapelle du cimetière militaire américain",
+            "fr": "Chapelle du cimetière militaire américain"
           },
           "coords": [
             -1.302192,
@@ -467,7 +513,8 @@
             "de": "Finden Sie einen Moment tiefer Stille in dieser Granitkapelle; die atemberaubenden Buntglasfenster fangen das sanfte Nachmittagslicht perfekt ein.",
             "hu": "Találjon egy pillanatnyi mély csendet ebben a gránitkápolnában; a lenyűgöző ólomüveg ablakok tökéletesen megörökítik a délutáni fényeket és színeket.",
             "ro": "Găsiți un moment de liniște profundă în această capelă de granit; vitraliile uimitoare captează perfect lumina caldă și blândă a după-amiezii.",
-            "en": "Find a moment of profound silence inside this solemn granite chapel; the stunning stained glass windows perfectly capture the afternoon light."
+            "en": "Find a moment of profound silence inside this solemn granite chapel; the stunning stained glass windows perfectly capture the afternoon light.",
+            "fr": "Trouvez un moment de silence profond à l’intérieur de cette chapelle solennelle en granit ; les magnifiques vitraux captent parfaitement la lumière de l’après‑midi."
           }
         }
       ],
@@ -475,7 +522,8 @@
         "de": "Starten Sie Ihre Radtour an der Kirche Saint-Jacques, gefolgt von einem Besuch der ikonischen Strickwarenfabrik.\n\nMittags fahren Sie am eleganten Château de la Paluelle vorbei hinaus zum alten und geheimnisvollen Saint-Benoît Polissoir.\n\nVerbringen Sie den Nachmittag mit einer Fahrt zur Église Saint-Martin und weiter zum riesigen amerikanischen Friedhof.\n\nBeenden Sie den Tag mit einem sehr friedlichen und nachdenklichen Besuch der Gedenkkapelle im Abendlicht.",
         "hu": "Kezdje kerékpártúráját a Saint-Jacques templomnál, majd látogasson el az ikonikus kötöttárugyárba és fedezze fel a városközpontot.\n\nDélben a Château de la Paluelle mellett elhaladva az ősi és titokzatos Saint-Benoît Polissoirhoz tekerhet egy kis vidéki levegőért.\n\nA délutánt az Église Saint-Martin, majd a történelmi Amerikai Temető kényelmes felfedezésével töltheti.\n\nZárja a napot az emlékkápolna csendes és békés meglátogatásával az esti órák nyugalmat árasztó fényeiben.",
         "ro": "Începeți turul cu bicicleta la Biserica Saint-Jacques, urmat de o vizită la fabrica emblematică de tricotaje din centrul orașului.\n\nLa prânz, treceți pe lângă elegantul Château de la Paluelle și ajungeți la vechiul Saint-Benoît Polissoir.\n\nPetreceți după-amiaza pedalând liniștit spre Église Saint-Martin înainte de a vă îndrepta către vastul Cimitir American.\n\nÎncheiați ziua cu o vizită liniștită și solemnă la capela memorială, bucurându-vă de reflexia asfințitului.",
-        "en": "Kick off your cycling tour at Saint-Jacques Church, followed by a visit to the iconic knitwear factory in the heart of town.\n\nMidday takes you past the elegant Château de la Paluelle and out to the ancient Saint-Benoît Polissoir for a rustic pause.\n\nSpend the afternoon gently pedaling to the quaint Église Saint-Martin before heading out to the historic American Cemetery.\n\nConclude the day with a peaceful and solemn visit to the memorial chapel as the evening sun casts long shadows."
+        "en": "Kick off your cycling tour at Saint-Jacques Church, followed by a visit to the iconic knitwear factory in the heart of town.\n\nMidday takes you past the elegant Château de la Paluelle and out to the ancient Saint-Benoît Polissoir for a rustic pause.\n\nSpend the afternoon gently pedaling to the quaint Église Saint-Martin before heading out to the historic American Cemetery.\n\nConclude the day with a peaceful and solemn visit to the memorial chapel as the evening sun casts long shadows.",
+        "fr": "Commencez votre circuit à vélo à l’église Saint-Jacques, puis visitez l’emblématique usine de tricot au cœur de la ville.\n\nÀ midi, passez devant l’élégant Château de la Paluelle puis rendez‑vous au ancien polissoir de Saint-Benoît pour une pause rustique.\n\nL’après‑midi, pédalez tranquillement jusqu’à la pittoresque Église Saint-Martin avant de vous diriger vers le Cimetière américain historique.\n\nConcluez la journée par une visite paisible et solennelle de la chapelle commémorative tandis que le soleil du soir projette de longues ombres."
       },
       "variants": {
         "rainy": {
@@ -483,7 +531,8 @@
             "de": "Regen macht die Radtour anspruchsvoll. Morgens bleiben Sie in Kirche und Fabrik trocken. Mittags ist Vorsicht auf rutschigen Wegen zum Schloss geboten. Nachmittags kämpfen Sie gegen nasse Böen am Friedhof, belohnen sich aber in der trockenen Kapelle.",
             "hu": "Az eső kihívást jelent a biciklizésben. Reggel a templom és a gyár szárazon tart. Délben óvatosan a csúszós utakon a kastély felé. Délután nedves széllökések a temetőnél, majd a száraz kápolna nyújt vigaszt.",
             "ro": "Ploaia face mersul pe bicicletă provocator. Dimineața vă uscați în biserică și fabrică. La prânz, atenție la drumurile alunecoase spre castel. După-amiaza înfruntați rafale ude la cimitir, terminând în capela uscată.",
-            "en": "Rain makes cycling challenging. Morning keeps you dry at the church and factory. Midday requires caution on slippery paths to the castle. Afternoon means fighting wet gusts at the cemetery, rewarding yourself in the dry chapel."
+            "en": "Rain makes cycling challenging. Morning keeps you dry at the church and factory. Midday requires caution on slippery paths to the castle. Afternoon means fighting wet gusts at the cemetery, rewarding yourself in the dry chapel.",
+            "fr": "La pluie rend le vélo difficile. Le matin vous restez au sec à l’église et à l’usine. À midi, soyez prudent sur les chemins glissants vers le château. L’après‑midi apportera des rafales humides au cimetière, récompensées par la sécheresse de la chapelle."
           },
           "stops": [
             {
@@ -491,13 +540,15 @@
                 "de": "Kirche Saint-Jacques",
                 "hu": "Saint-Jacques templom",
                 "ro": "Biserica Saint-Jacques",
-                "en": "Saint-Jacques Church"
+                "en": "Saint-Jacques Church",
+                "fr": "Église Saint-Jacques"
               },
               "tip_5lang": {
                 "de": "Stellen Sie das nasse Rad ab und nutzen Sie die Kirche als erste trockene Zuflucht an diesem regnerischen Morgen.",
                 "hu": "Támassza le a nedves kerékpárt, és használja a templomot első száraz menedékként ezen az esős reggelen.",
                 "ro": "Lăsați bicicleta udă și folosiți biserica ca prim refugiu uscat în această dimineață ploioasă.",
-                "en": "Park your wet bike outside and use the church as your first dry refuge on this rainy morning."
+                "en": "Park your wet bike outside and use the church as your first dry refuge on this rainy morning.",
+                "fr": "Garez votre vélo mouillé dehors et utilisez l’église comme premier refuge sec lors de cette matinée pluvieuse."
               }
             },
             {
@@ -505,13 +556,15 @@
                 "de": "Saint-James Strickwarenfabrik",
                 "hu": "Saint-James Kötöttárugyár",
                 "ro": "Fabrica de tricotaje Saint-James",
-                "en": "Saint-James Knitwear Factory"
+                "en": "Saint-James Knitwear Factory",
+                "fr": "Usine de Tricot Saint-James"
               },
               "tip_5lang": {
                 "de": "Ein hervorragender Zwischenstopp im Trockenen, um sich beim Radfahren vor den schwersten Schauern zu schützen.",
                 "hu": "Kiváló beltéri megálló, ahol meghúzhatja magát a leghevesebb záporok elől biciklizés közben.",
                 "ro": "O oprire excelentă în interior pentru a vă proteja de cele mai grele averse în timpul plimbării cu bicicleta.",
-                "en": "An excellent indoor stop to take cover from the heaviest showers during your cycling trip."
+                "en": "An excellent indoor stop to take cover from the heaviest showers during your cycling trip.",
+                "fr": "Un excellent arrêt intérieur pour se protéger des fortes averses pendant votre parcours à vélo."
               }
             },
             {
@@ -519,13 +572,15 @@
                 "de": "Château de la Paluelle",
                 "hu": "Château de la Paluelle",
                 "ro": "Château de la Paluelle",
-                "en": "Château de la Paluelle"
+                "en": "Château de la Paluelle",
+                "fr": "Château de la Paluelle"
               },
               "tip_5lang": {
                 "de": "Bremsen Sie vorsichtig; nasses Laub und Kopfsteinpflaster rund um das Schloss können für Radfahrer extrem rutschig sein.",
                 "hu": "Fékezzen óvatosan; a nedves falevelek és a macskakő a kastély körül rendkívül csúszósak lehetnek a kerékpárosoknak.",
                 "ro": "Frânați cu prudență; frunzele ude și piatra cubică din jurul castelului pot fi extrem de alunecoase pentru bicicliști.",
-                "en": "Brake carefully; wet leaves and cobblestones around the castle grounds can be extremely slippery for cyclists."
+                "en": "Brake carefully; wet leaves and cobblestones around the castle grounds can be extremely slippery for cyclists.",
+                "fr": "Freinez prudemment ; les feuilles mouillées et les pavés autour du domaine peuvent être extrêmement glissants pour les cyclistes."
               }
             },
             {
@@ -533,13 +588,15 @@
                 "de": "Saint-Benoît Polissoir",
                 "hu": "Saint-Benoît Polissoir",
                 "ro": "Saint-Benoît Polissoir",
-                "en": "Saint-Benoît Polissoir"
+                "en": "Saint-Benoît Polissoir",
+                "fr": "Polissoir de Saint-Benoît"
               },
               "tip_5lang": {
                 "de": "Der Stein ist bei Nässe glatt. Stellen Sie das Fahrrad sicher ab und gehen Sie mit festem Schuhwerk dorthin.",
                 "hu": "A kő nedvesen csúszik. Támassza le biztonságosan a kerékpárt, és stabil lábbeliben sétáljon oda.",
                 "ro": "Piatra este alunecoasă la umezeală. Parcați bicicleta în siguranță și apropiați-vă purtând încălțăminte aderentă.",
-                "en": "The stone gets slick when wet. Park your bike safely and walk up to it wearing shoes with good grip."
+                "en": "The stone gets slick when wet. Park your bike safely and walk up to it wearing shoes with good grip.",
+                "fr": "La pierre devient glissante quand elle est mouillée. Garez votre vélo en sécurité et montez à pied en chaussure à bonne adhérence."
               }
             },
             {
@@ -547,13 +604,15 @@
                 "de": "Église Saint-Martin",
                 "hu": "Église Saint-Martin",
                 "ro": "Église Saint-Martin",
-                "en": "Église Saint-Martin"
+                "en": "Église Saint-Martin",
+                "fr": "Église Saint-Martin"
               },
               "tip_5lang": {
                 "de": "Ein weiterer überdachter Halt auf Ihrer Route, ideal, um Brille und Regenjacke kurz mit einem Tuch abzutrocknen.",
                 "hu": "Újabb fedett megálló az útvonalon, amely ideális a szemüveg és az esőkabát gyors megtörlésére.",
                 "ro": "O altă oprire acoperită pe traseu, ideală pentru a vă șterge rapid ochelarii și jacheta de ploaie.",
-                "en": "Another covered stop on your route, ideal for quickly wiping down your glasses and rain jacket."
+                "en": "Another covered stop on your route, ideal for quickly wiping down your glasses and rain jacket.",
+                "fr": "Un autre arrêt couvert sur votre itinéraire, idéal pour essuyer rapidement vos lunettes et votre veste de pluie."
               }
             },
             {
@@ -561,13 +620,15 @@
                 "de": "Amerikanischer Friedhof in der Bretagne",
                 "hu": "Bretagne-i Amerikai Temető",
                 "ro": "Cimitirul American din Bretania",
-                "en": "Brittany American Cemetery"
+                "en": "Brittany American Cemetery",
+                "fr": "Cimetière américain de Bretagne"
               },
               "tip_5lang": {
                 "de": "Die Anfahrt ist sehr exponiert; schließen Sie Ihre Regenjacke komplett, bevor Sie dieses offene Gelände betreten.",
                 "hu": "A megközelítés nagyon kitett; húzza fel teljesen az esőkabátja cipzárját, mielőtt erre a nyílt területre érne.",
                 "ro": "Apropierea este foarte expusă; închideți complet jacheta de ploaie înainte de a intra pe acest teren deschis.",
-                "en": "The approach is highly exposed; ensure your rain jacket is fully zipped before entering this open terrain."
+                "en": "The approach is highly exposed; ensure your rain jacket is fully zipped before entering this open terrain.",
+                "fr": "L’approche est très exposée ; assurez‑vous que votre veste imperméable est entièrement fermée avant d’entrer sur ce terrain ouvert."
               }
             },
             {
@@ -575,13 +636,15 @@
                 "de": "Kapelle des amerikanischen Militärfriedhofs",
                 "hu": "Katonai temető kápolnája",
                 "ro": "Capela cimitirului militar american",
-                "en": "Chapelle du cimetière militaire américain"
+                "en": "Chapelle du cimetière militaire américain",
+                "fr": "Chapelle du cimetière militaire américain"
               },
               "tip_5lang": {
                 "de": "Ein trockenes Refugium am Ende einer nassen und kräftezehrenden Radfahrt, wo Sie endlich durchatmen können.",
                 "hu": "Száraz menedék egy nedves és kimerítő kerékpározás végén, ahol végre fellélegezhet és megpihenhet.",
                 "ro": "Un refugiu uscat la sfârșitul unei plimbări umede și epuizante cu bicicleta, unde puteți respira în sfârșit.",
-                "en": "A dry sanctuary at the end of a wet and challenging bike ride, where you can finally catch your breath."
+                "en": "A dry sanctuary at the end of a wet and challenging bike ride, where you can finally catch your breath.",
+                "fr": "Un sanctuaire sec à la fin d’une randonnée à vélo humide et éprouvante, où vous pouvez enfin reprendre votre souffle."
               }
             }
           ]
@@ -591,7 +654,8 @@
             "de": "Ein frischer Winterritt. Morgens Hände wärmen in Kirche und Fabrik. Mittags ist die Route zu Schloss und Steinen frostig und erfordert Bewegung. Nachmittags erreichen Sie den Friedhof in der eisigen Brise und enden rechtzeitig vor 17:00 Uhr.",
             "hu": "Frissítő téli tekerés. Reggel melegítse fel kezét a templomban és a gyárban. Délben az út a kastélyhoz fagyos, mozgásban kell maradni. Délután a jeges szélben éri el a temetőt, és 17:00 előtt végez.",
             "ro": "O cursă de iarnă proaspătă. Dimineața încălziți-vă mâinile în biserică și fabrică. La prânz traseul spre castel e geros, necesită mișcare. După-amiaza ajungeți la cimitir în briza înghețată, terminând înainte de 17:00.",
-            "en": "A brisk winter ride. Warm your hands at the church and factory mornings. Midday route to the castle is frosty, requiring you to keep moving. Reach the cemetery in the icy afternoon breeze, finishing before 17:00."
+            "en": "A brisk winter ride. Warm your hands at the church and factory mornings. Midday route to the castle is frosty, requiring you to keep moving. Reach the cemetery in the icy afternoon breeze, finishing before 17:00.",
+            "fr": "Une balade hivernale tonique. Réchauffez vos mains à l’église et à l’usine le matin. L’itinéraire jusqu’au château à midi est givré, exigeant de rester en mouvement. Rejoignez le cimetière dans la brise glacée de l’après‑midi, en terminant avant 17:00."
           },
           "stops": [
             {
@@ -599,13 +663,15 @@
                 "de": "Kirche Saint-Jacques",
                 "hu": "Saint-Jacques templom",
                 "ro": "Biserica Saint-Jacques",
-                "en": "Saint-Jacques Church"
+                "en": "Saint-Jacques Church",
+                "fr": "Église Saint-Jacques"
               },
               "tip_5lang": {
                 "de": "Die Morgenluft auf dem Rad ist extrem kalt; treten Sie schnell ein, um Ihre klammen Finger aufzuwärmen.",
                 "hu": "A reggeli levegő a biciklin rendkívül hideg; lépjen be gyorsan, hogy felmelegítse dermedt ujjait.",
                 "ro": "Aerul dimineții pe bicicletă este extrem de rece; intrați repede pentru a vă încălzi degetele amorțite.",
-                "en": "The morning air on the bike is freezing; step inside quickly to warm up your numb fingers."
+                "en": "The morning air on the bike is freezing; step inside quickly to warm up your numb fingers.",
+                "fr": "L’air du matin à vélo est glacial ; entrez vite pour réchauffer vos doigts engourdis."
               }
             },
             {
@@ -613,13 +679,15 @@
                 "de": "Saint-James Strickwarenfabrik",
                 "hu": "Saint-James Kötöttárugyár",
                 "ro": "Fabrica de tricotaje Saint-James",
-                "en": "Saint-James Knitwear Factory"
+                "en": "Saint-James Knitwear Factory",
+                "fr": "Usine de Tricot Saint-James"
               },
               "tip_5lang": {
                 "de": "Die wohlige Hitze der Fabrik ist eine wunderbare Erleichterung für durchgefrorene Radfahrer an kalten Tagen.",
                 "hu": "A gyár kellemes melege csodálatos felüdülés az átfagyott kerékpárosok számára a hideg napokon.",
                 "ro": "Căldura plăcută a fabricii este o ușurare minunată pentru bicicliștii înghețați în zilele reci.",
-                "en": "The comforting heat of the working factory is a wonderful relief for frozen cyclists on cold days."
+                "en": "The comforting heat of the working factory is a wonderful relief for frozen cyclists on cold days.",
+                "fr": "La chaleur rassurante de l’usine en activité est un merveilleux soulagement pour les cyclistes frigorifiés."
               }
             },
             {
@@ -627,13 +695,15 @@
                 "de": "Château de la Paluelle",
                 "hu": "Château de la Paluelle",
                 "ro": "Château de la Paluelle",
-                "en": "Château de la Paluelle"
+                "en": "Château de la Paluelle",
+                "fr": "Château de la Paluelle"
               },
               "tip_5lang": {
                 "de": "Achten Sie auf versteckte Eisplatten auf den schattigen, bewaldeten Wegen rund um das Schlossgelände.",
                 "hu": "Ügyeljen a rejtett jégfoltokra a kastély körüli árnyékos, erdős ösvényeken a biciklijével.",
                 "ro": "Atenție la porțiunile ascunse de gheață de pe potecile umbrite și împădurite din jurul castelului.",
-                "en": "Watch out for hidden patches of ice on the shaded, wooded paths around the castle grounds."
+                "en": "Watch out for hidden patches of ice on the shaded, wooded paths around the castle grounds.",
+                "fr": "Attention aux plaques de verglas cachées sur les chemins ombragés et boisés autour du domaine."
               }
             },
             {
@@ -641,13 +711,15 @@
                 "de": "Saint-Benoît Polissoir",
                 "hu": "Saint-Benoît Polissoir",
                 "ro": "Saint-Benoît Polissoir",
-                "en": "Saint-Benoît Polissoir"
+                "en": "Saint-Benoît Polissoir",
+                "fr": "Polissoir de Saint-Benoît"
               },
               "tip_5lang": {
                 "de": "Der Megalith wirkt im Winter karg; halten Sie die Pause hier kurz, damit Sie auf dem Rad nicht auskühlen.",
                 "hu": "A megalit télen zordnak hat; tartsa rövidre az itteni pihenőt, nehogy kihűljön a kerékpáron.",
                 "ro": "Megalitul pare auster iarna; păstrați pauza scurtă aici, pentru a nu vă răci complet pe bicicletă.",
-                "en": "The megalith looks stark in winter; keep your pause here short so you don't freeze on the bike."
+                "en": "The megalith looks stark in winter; keep your pause here short so you don't freeze on the bike.",
+                "fr": "Le mégalithe a fière allure en hiver ; gardez la pause courte pour ne pas avoir trop froid sur le vélo."
               }
             },
             {
@@ -655,13 +727,15 @@
                 "de": "Église Saint-Martin",
                 "hu": "Église Saint-Martin",
                 "ro": "Église Saint-Martin",
-                "en": "Église Saint-Martin"
+                "en": "Église Saint-Martin",
+                "fr": "Église Saint-Martin"
               },
               "tip_5lang": {
                 "de": "Nutzen Sie den Innenraum, um kurz dem eisigen Gegenwind zu entkommen und sich mental aufzuwärmen.",
                 "hu": "Használja a belső teret, hogy egy pillanatra elmeneküljön a jeges ellenszélből és mentálisan felmelegedjen.",
                 "ro": "Folosiți interiorul pentru a scăpa scurt de vântul înghețat din față și a vă încălzi mental.",
-                "en": "Use the interior to briefly escape the freezing headwind and warm yourself up mentally before riding on."
+                "en": "Use the interior to briefly escape the freezing headwind and warm yourself up mentally before riding on.",
+                "fr": "Utilisez l’intérieur pour échapper brièvement au vent glacial de face et vous réchauffer moralement avant de reprendre la route."
               }
             },
             {
@@ -669,13 +743,15 @@
                 "de": "Amerikanischer Friedhof in der Bretagne",
                 "hu": "Bretagne-i Amerikai Temető",
                 "ro": "Cimitirul American din Bretania",
-                "en": "Brittany American Cemetery"
+                "en": "Brittany American Cemetery",
+                "fr": "Cimetière américain de Bretagne"
               },
               "tip_5lang": {
                 "de": "Dieses offene Gelände bietet keinen Windschutz; behalten Sie Ihre dicken Handschuhe unbedingt an.",
                 "hu": "Ez a nyílt terep nem nyújt szélvédelmet; mindenképpen tartsa magán a vastag kesztyűjét.",
                 "ro": "Acest teren deschis nu oferă protecție împotriva vântului; păstrați neapărat mănușile groase pe mâini.",
-                "en": "This open terrain offers zero windbreak; absolutely make sure to keep your thick gloves on."
+                "en": "This open terrain offers zero windbreak; absolutely make sure to keep your thick gloves on.",
+                "fr": "Ce terrain ouvert n’offre aucune protection contre le vent ; gardez absolument vos gants épais."
               }
             },
             {
@@ -683,13 +759,15 @@
                 "de": "Kapelle des amerikanischen Militärfriedhofs",
                 "hu": "Katonai temető kápolnája",
                 "ro": "Capela cimitirului militar american",
-                "en": "Chapelle du cimetière militaire américain"
+                "en": "Chapelle du cimetière militaire américain",
+                "fr": "Chapelle du cimetière militaire américain"
               },
               "tip_5lang": {
                 "de": "Kommen Sie unbedingt vor dem Sonnenuntergang um 17:00 Uhr an, bevor die Temperaturen auf dem Rad drastisch fallen.",
                 "hu": "Mindenképpen érkezzen meg a 17:00 órás naplemente előtt, mielőtt a hőmérséklet drasztikusan lecsökken a biciklin.",
                 "ro": "Ajungeți neapărat înainte de apusul de la ora 17:00, înainte ca temperaturile să scadă drastic pe bicicletă.",
-                "en": "Arrive safely before the 17:00 sunset, just before the temperatures drop drastically for cycling."
+                "en": "Arrive safely before the 17:00 sunset, just before the temperatures drop drastically for cycling.",
+                "fr": "Arrivez en toute sécurité avant le coucher du soleil à 17:00, juste avant que les températures ne chutent drastiquement pour le vélo."
               }
             }
           ]
@@ -709,7 +787,8 @@
             "de": "Mairie déléguée de Carnet",
             "hu": "Mairie déléguée de Carnet",
             "ro": "Mairie déléguée de Carnet",
-            "en": "Mairie déléguée de Carnet"
+            "en": "Mairie déléguée de Carnet",
+            "fr": "Mairie déléguée de Carnet"
           },
           "coords": [
             -1.356324,
@@ -724,7 +803,8 @@
             "de": "Betrachten Sie die traditionelle Architektur dieses ehemaligen Rathauses, das einen ruhigen Einblick in das ländliche Verwaltungsleben der Region bietet.",
             "hu": "Figyelje meg ennek a korábbi városházának a hagyományos építészetét, amely csendes bepillantást enged a régió vidéki közigazgatási mindennapjaiba.",
             "ro": "Observați arhitectura civică tradițională a acestei foste primării locale, care oferă o privire liniștită asupra vieții administrative rurale a regiunii.",
-            "en": "Observe the traditional civic architecture of this former local town hall, which offers a quiet glimpse into the rural administrative life of the region."
+            "en": "Observe the traditional civic architecture of this former local town hall, which offers a quiet glimpse into the rural administrative life of the region.",
+            "fr": "Observez l’architecture civique traditionnelle de cette ancienne mairie locale, qui offre un aperçu tranquille de la vie administrative rurale de la région."
           }
         },
         {
@@ -732,7 +812,8 @@
             "de": "Saint-James Strickwarenfabrik",
             "hu": "Saint-James Kötöttárugyár",
             "ro": "Fabrica de tricotaje Saint-James",
-            "en": "Saint-James Knitwear Factory"
+            "en": "Saint-James Knitwear Factory",
+            "fr": "Usine de tricot Saint-James"
           },
           "coords": [
             -1.32375,
@@ -747,7 +828,8 @@
             "de": "Entdecken Sie die Geschichte des legendären Streifenpullovers; buchen Sie Ihre Führung frühzeitig, da die Plätze in der Fabrik sehr schnell vergeben sind.",
             "hu": "Fedezze fel az ikonikus csíkos pulóver örökségét ebben a működő gyárban; jó előre foglalja le a vezetett túrát, mert a helyek gyorsan betelnek.",
             "ro": "Descoperiți moștenirea puloverului cu dungi în această fabrică activă; rezervați-vă turul ghidat din timp, deoarece locurile se ocupă foarte repede.",
-            "en": "Discover the heritage of the iconic striped sweater in this active factory; book your guided tour well in advance as spots fill up very fast."
+            "en": "Discover the heritage of the iconic striped sweater in this active factory; book your guided tour well in advance as spots fill up very fast.",
+            "fr": "Découvrez le patrimoine du célèbre pull rayé dans cette usine en activité ; réservez votre visite guidée bien à l’avance car les places se remplissent très vite."
           }
         },
         {
@@ -755,7 +837,8 @@
             "de": "Kirche Saint-Jacques",
             "hu": "Saint-Jacques templom",
             "ro": "Biserica Saint-Jacques",
-            "en": "Saint-Jacques Church"
+            "en": "Saint-Jacques Church",
+            "fr": "Église Saint-Jacques"
           },
           "coords": [
             -1.319874,
@@ -770,7 +853,8 @@
             "de": "Bewundern Sie die wunderschönen romanischen Bögen dieser historischen Kirche und achten Sie auf die aufwendig geschnitzten Holzdetails am Altar.",
             "hu": "Csodálja meg e történelmi templom gyönyörű román stílusú boltíveit, és szánjon egy percet az oltár melletti faragott fa részletek megfigyelésére.",
             "ro": "Admirați frumoasele arce romanice ale acestei biserici istorice și observați detaliile din lemn sculptate cu complexitate de lângă altarul principal.",
-            "en": "Admire the beautiful Romanesque arches of this historic church, and take a moment to notice the intricately carved wooden details near the altar."
+            "en": "Admire the beautiful Romanesque arches of this historic church, and take a moment to notice the intricately carved wooden details near the altar.",
+            "fr": "Admirez les belles arches romanesque de cette église historique et prenez un instant pour remarquer les détails en bois finement sculptés près de l’autel."
           }
         },
         {
@@ -778,7 +862,8 @@
             "de": "Château de la Paluelle",
             "hu": "Château de la Paluelle",
             "ro": "Château de la Paluelle",
-            "en": "Château de la Paluelle"
+            "en": "Château de la Paluelle",
+            "fr": "Château de la Paluelle"
           },
           "coords": [
             -1.315069,
@@ -793,7 +878,8 @@
             "de": "Bestaunen Sie die elegante Architektur dieses privaten Anwesens aus dem 17. Jahrhundert; die umliegenden öffentlichen Wege bieten tolle Fotomotive.",
             "hu": "Csodálja meg e magánbirtok elegáns, 17. századi építészetét; bár a belső tér nem látogatható, a környező ösvények remek fotózási lehetőséget kínálnak.",
             "ro": "Minunați-vă de arhitectura elegantă de secol 17 a acestei proprietăți private; deși interiorul este restricționat, cărările din jur oferă poze grozave.",
-            "en": "Marvel at the elegant 17th-century architecture of this private estate; while the interior is restricted, the surrounding public paths offer great photos."
+            "en": "Marvel at the elegant 17th-century architecture of this private estate; while the interior is restricted, the surrounding public paths offer great photos.",
+            "fr": "Émerveillez-vous devant l’élégante architecture du XVIIe siècle de cette propriété privée ; si l’intérieur est fermé, les sentiers publics alentours offrent d’excellentes photos."
           }
         },
         {
@@ -801,7 +887,8 @@
             "de": "Saint-Benoît Polissoir",
             "hu": "Saint-Benoît Polissoir",
             "ro": "Saint-Benoît Polissoir",
-            "en": "Saint-Benoît Polissoir"
+            "en": "Saint-Benoît Polissoir",
+            "fr": "Saint-Benoît Polissoir"
           },
           "coords": [
             -1.318741,
@@ -816,7 +903,8 @@
             "de": "Reisen Sie in die Jungsteinzeit zu diesem faszinierenden megalithischen Polierstein, aber tragen Sie festes Schuhwerk, da das Feld schlammig sein kann.",
             "hu": "Lépjen vissza az újkőkorszakba ennél a lenyűgöző megalitikus csiszolókőnél, de viseljen strapabíró cipőt, mert a környező mező gyakran sáros lehet.",
             "ro": "Întoarceți-vă în neolitic la această piatră de lustruit megalitică, dar asigurați-vă că purtați încălțăminte rezistentă, deoarece câmpul poate fi noroios.",
-            "en": "Step back into the Neolithic era at this fascinating megalithic polishing stone, but be sure to wear sturdy shoes as the surrounding field can be muddy."
+            "en": "Step back into the Neolithic era at this fascinating megalithic polishing stone, but be sure to wear sturdy shoes as the surrounding field can be muddy.",
+            "fr": "Faites un bond dans l’ère néolithique à ce fascinant polissoir mégalithique, mais veillez à porter des chaussures solides car le champ environnant peut être boueux."
           }
         },
         {
@@ -824,7 +912,8 @@
             "de": "Amerikanischer Friedhof in der Bretagne",
             "hu": "Bretagne-i Amerikai Temető",
             "ro": "Cimitirul American din Bretania",
-            "en": "Brittany American Cemetery"
+            "en": "Brittany American Cemetery",
+            "fr": "Cimetière américain de Bretagne"
           },
           "coords": [
             -1.304167,
@@ -839,7 +928,8 @@
             "de": "Spazieren Sie zwischen den weißen Kreuzen zu Ehren von 4.410 Soldaten des Zweiten Weltkriegs und holen Sie sich im Besucherzentrum eine Geländekarte.",
             "hu": "Sétáljon a 4410 második világháborús katonát tisztelő fehér keresztek között, és ne felejtsen el térképet kérni a területhez a látogatóközpontban.",
             "ro": "Plimbați-vă printre crucile albe aliniate care onorează 4.410 de soldați, și nu uitați să treceți pe la centrul de vizitatori pentru o hartă.",
-            "en": "Walk among the perfectly aligned white crosses honoring 4,410 WWII soldiers, and remember to check in at the visitor center for a map of the grounds."
+            "en": "Walk among the perfectly aligned white crosses honoring 4,410 WWII soldiers, and remember to check in at the visitor center for a map of the grounds.",
+            "fr": "Marchez parmi les croix blanches parfaitement alignées honorant 4 410 soldats de la Seconde Guerre mondiale, et n’oubliez pas de vous rendre au centre d’accueil pour obtenir un plan des lieux."
           }
         },
         {
@@ -847,7 +937,8 @@
             "de": "Kapelle des amerikanischen Militärfriedhofs",
             "hu": "Katonai temető kápolnája",
             "ro": "Capela cimitirului militar american",
-            "en": "Chapelle du cimetière militaire américain"
+            "en": "Chapelle du cimetière militaire américain",
+            "fr": "Chapelle du cimetière militaire américain"
           },
           "coords": [
             -1.302192,
@@ -862,7 +953,8 @@
             "de": "Finden Sie einen Moment tiefer Stille in dieser Granitkapelle; die atemberaubenden Buntglasfenster fangen das sanfte Nachmittagslicht perfekt ein.",
             "hu": "Találjon egy pillanatnyi mély csendet ebben a gránitkápolnában; a lenyűgöző ólomüveg ablakok tökéletesen megörökítik a délutáni fényeket és színeket.",
             "ro": "Găsiți un moment de liniște profundă în această capelă de granit; vitraliile uimitoare captează perfect lumina caldă și blândă a după-amiezii.",
-            "en": "Find a moment of profound silence inside this solemn granite chapel; the stunning stained glass windows perfectly capture the afternoon light."
+            "en": "Find a moment of profound silence inside this solemn granite chapel; the stunning stained glass windows perfectly capture the afternoon light.",
+            "fr": "Trouvez un moment de profond silence à l’intérieur de cette solennelle chapelle de granit ; les magnifiques vitraux captent parfaitement la lumière de l’après-midi."
           }
         }
       ],
@@ -870,7 +962,8 @@
         "de": "Fahren Sie zur Mairie déléguée de Carnet, bevor Sie in der Stadt die berühmte Fabrik und die örtliche Kirche bequem mit dem Auto erkunden.\n\nHalten Sie mittags, um das Château de la Paluelle und den historischen Polierstein von Saint-Benoît etwas außerhalb zu bewundern.\n\nAm Nachmittag fahren Sie zum riesigen amerikanischen Friedhof in der Bretagne, um Ihren Respekt in einer ruhigen Atmosphäre zu erweisen.\n\nDer Abend endet schließlich an der feierlichen Kapelle auf dem Gelände, bevor Sie Ihre entspannte Heimreise antreten.",
         "hu": "Autózzon el a Mairie déléguée de Carnet-hez, majd irány a város, hogy felfedezze a híres gyárat és a helyi templomot kényelmesen.\n\nÁlljon meg délben, és csodálja meg a Château de la Paluelle-t, valamint a kicsit távolabb fekvő Saint-Benoît polírozókövet.\n\nDélután vezessen el a hatalmas Bretagne-i Amerikai Temetőbe, hogy tisztelegjen és lerója tiszteletét a hősök emléke előtt.\n\nAz este a helyszínen lévő ünnepélyes kápolnában ér véget, amely tökéletes helyszínt biztosít a nyugodt elcsendesedéshez.",
         "ro": "Conduceți până la Mairie déléguée de Carnet, apoi explorați confortabil faimoasa fabrică și biserica locală din centrul orașului.\n\nOpriți-vă la prânz pentru a admira elegantul Château de la Paluelle și piatra istorică de la Saint-Benoît, aflată mai departe.\n\nDupă-amiaza, mergeți cu mașina pentru a vă prezenta omagiile respectuoase la vastul Cimitir American din regiunea Bretania.\n\nSeara se încheie la capela solemnă de pe amplasament, oferind un ultim moment de liniște înainte de a pleca mai departe.",
-        "en": "Drive out to the Mairie déléguée de Carnet to start your day, then head into town to conveniently explore the renowned factory and local church.\n\nStop midday to admire the magnificent grounds of Château de la Paluelle and the historic polishing stone of Saint-Benoît.\n\nIn the afternoon, drive out to respectfully pay your homage at the vast and moving Brittany American Cemetery complex.\n\nThe evening wraps up gracefully at the solemn chapel on site, offering a final moment of deep peace and reflection."
+        "en": "Drive out to the Mairie déléguée de Carnet to start your day, then head into town to conveniently explore the renowned factory and local church.\n\nStop midday to admire the magnificent grounds of Château de la Paluelle and the historic polishing stone of Saint-Benoît.\n\nIn the afternoon, drive out to respectfully pay your homage at the vast and moving Brittany American Cemetery complex.\n\nThe evening wraps up gracefully at the solemn chapel on site, offering a final moment of deep peace and reflection.",
+        "fr": "Partez en voiture vers la Mairie déléguée de Carnet pour commencer la journée, puis dirigez-vous vers la ville pour explorer facilement la célèbre usine et l’église locale.\n\nFaites une pause à midi pour admirer les magnifiques jardins du Château de la Paluelle et le polissoir historique de Saint-Benoît.\n\nL’après‑midi, rejoignez en voiture le vaste et émouvant complexe du Cimetière américain de Bretagne pour y rendre hommage avec respect.\n\nLa soirée se termine en douceur à la chapelle solennelle sur place, offrant un dernier moment de profonde paix et de recueillement."
       },
       "variants": {
         "rainy": {
@@ -878,7 +971,8 @@
             "de": "Das Auto hält Sie angenehm trocken. Morgens machen Sie kurze Sprints zur Mairie und zur Fabrik. Mittags parken Sie nah an Kirche und Schloss. Nachmittags ist der Friedhof verregnet, aber das Auto und die Kapelle bieten warmen und trockenen Komfort.",
             "hu": "Az autó kényelmesen szárazon tart. Reggel rövid sprintek a Mairie-hez és a gyárhoz. Délben parkoljon közel a templomhoz és a kastélyhoz. Délután a temető esős, de az autó és a kápolna száraz kényelmet biztosít.",
             "ro": "Mașina vă menține confortabil și uscat. Dimineața, alergări scurte spre Mairie și fabrică. La prânz parcați aproape de biserică și castel. După-amiaza cimitirul e ploios, dar mașina și capela oferă confort uscat.",
-            "en": "The car keeps you comfortably dry. Morning features short dashes to the Mairie and factory. Midday, park close to the church and castle. Afternoon brings a rainy cemetery, but your car and the chapel provide dry comfort."
+            "en": "The car keeps you comfortably dry. Morning features short dashes to the Mairie and factory. Midday, park close to the church and castle. Afternoon brings a rainy cemetery, but your car and the chapel provide dry comfort.",
+            "fr": "La voiture vous garde confortablement au sec. Le matin comporte de petits trajets vers la Mairie et l’usine. À midi, garez‑vous près de l’église et du château. L’après‑midi amène un cimetière pluvieux, mais votre voiture et la chapelle offrent un confort au sec."
           },
           "stops": [
             {
@@ -886,13 +980,15 @@
                 "de": "Mairie déléguée de Carnet",
                 "hu": "Mairie déléguée de Carnet",
                 "ro": "Mairie déléguée de Carnet",
-                "en": "Mairie déléguée de Carnet"
+                "en": "Mairie déléguée de Carnet",
+                "fr": "Mairie déléguée de Carnet"
               },
               "tip_5lang": {
                 "de": "Parken Sie ganz nah am Eingang, um dem Regen zu entgehen; ein kurzer Fotostopp reicht hier völlig aus.",
                 "hu": "Parkoljon egészen közel a bejárathoz, hogy elkerülje az esőt; itt egy gyors fotómegálló is bőven elegendő.",
                 "ro": "Parcați foarte aproape de intrare pentru a evita ploaia; o scurtă oprire pentru fotografii este suficientă aici.",
-                "en": "Park extremely close to the entrance to avoid the rain; a quick photo stop is more than enough here."
+                "en": "Park extremely close to the entrance to avoid the rain; a quick photo stop is more than enough here.",
+                "fr": "Garez‑vous très près de l’entrée pour éviter la pluie ; un arrêt photo rapide suffit amplement ici."
               }
             },
             {
@@ -900,13 +996,15 @@
                 "de": "Saint-James Strickwarenfabrik",
                 "hu": "Saint-James Kötöttárugyár",
                 "ro": "Fabrica de tricotaje Saint-James",
-                "en": "Saint-James Knitwear Factory"
+                "en": "Saint-James Knitwear Factory",
+                "fr": "Usine de tricot Saint-James"
               },
               "tip_5lang": {
                 "de": "Bleiben Sie während dieser faszinierenden Textiltour komplett im Trockenen, während es draußen stürmt.",
                 "hu": "Maradjon teljesen szárazon ezen a lenyűgöző textilipari túrán, miközben odakint vihar tombol.",
                 "ro": "Rămâneți complet uscat în timpul acestui tur textil fascinant, în timp ce afară plouă torențial.",
-                "en": "Stay completely dry and comfortable during this fascinating indoor textile tour while it pours outside."
+                "en": "Stay completely dry and comfortable during this fascinating indoor textile tour while it pours outside.",
+                "fr": "Restez complètement au sec et confortable pendant cette fascinante visite textile en intérieur pendant qu’il pleut dehors."
               }
             },
             {
@@ -914,13 +1012,15 @@
                 "de": "Kirche Saint-Jacques",
                 "hu": "Saint-Jacques templom",
                 "ro": "Biserica Saint-Jacques",
-                "en": "Saint-Jacques Church"
+                "en": "Saint-Jacques Church",
+                "fr": "Église Saint-Jacques"
               },
               "tip_5lang": {
                 "de": "Halten Sie den Schirm bereit für den kurzen Weg vom Parkplatz ins trockene Kirchenschiff.",
                 "hu": "Tartsa készenlétben az esernyőt a parkolóból a száraz templomhajóba vezető rövid sétához.",
                 "ro": "Țineți umbrela la îndemână pentru scurta plimbare de la parcare în naosul uscat al bisericii.",
-                "en": "Keep an umbrella handy for the very short walk from the parking lot into the dry church nave."
+                "en": "Keep an umbrella handy for the very short walk from the parking lot into the dry church nave.",
+                "fr": "Gardez un parapluie à portée de main pour la très courte marche du parking jusqu’à la nef sèche de l’église."
               }
             },
             {
@@ -928,13 +1028,15 @@
                 "de": "Château de la Paluelle",
                 "hu": "Château de la Paluelle",
                 "ro": "Château de la Paluelle",
-                "en": "Château de la Paluelle"
+                "en": "Château de la Paluelle",
+                "fr": "Château de la Paluelle"
               },
               "tip_5lang": {
                 "de": "Genießen Sie den dramatischen, grauen Himmel über dem Anwesen gemütlich und trocken durch das Autofenster.",
                 "hu": "Élvezze a birtok feletti drámai, szürke eget kényelmesen és szárazon az autó ablakából.",
                 "ro": "Bucurați-vă de cerul gri, dramatic, deasupra domeniului, confortabil și uscat prin geamul mașinii.",
-                "en": "Enjoy the dramatic grey skies over the expansive estate comfortably and dryly from your car window."
+                "en": "Enjoy the dramatic grey skies over the expansive estate comfortably and dryly from your car window.",
+                "fr": "Appréciez les ciels gris dramatiques au‑dessus de la vaste propriété confortablement et au sec depuis la fenêtre de votre voiture."
               }
             },
             {
@@ -942,13 +1044,15 @@
                 "de": "Saint-Benoît Polissoir",
                 "hu": "Saint-Benoît Polissoir",
                 "ro": "Saint-Benoît Polissoir",
-                "en": "Saint-Benoît Polissoir"
+                "en": "Saint-Benoît Polissoir",
+                "fr": "Saint-Benoît Polissoir"
               },
               "tip_5lang": {
                 "de": "Nur ein kurzer, aber schlammiger Fußweg von der Straße; ziehen Sie unbedingt wasserdichte Schuhe an.",
                 "hu": "Csak egy rövid, de saras séta az úttól; feltétlenül húzzon fel vízálló cipőt a sár ellen.",
                 "ro": "Doar o scurtă, dar noroioasă plimbare de la drum; asigurați-vă că purtați încălțăminte impermeabilă.",
-                "en": "Only a short but muddy walk from the road; be absolutely sure to wear sturdy waterproof shoes."
+                "en": "Only a short but muddy walk from the road; be absolutely sure to wear sturdy waterproof shoes.",
+                "fr": "Une marche courte mais boueuse depuis la route ; soyez absolument sûr de porter des chaussures étanches et solides."
               }
             },
             {
@@ -956,13 +1060,15 @@
                 "de": "Amerikanischer Friedhof in der Bretagne",
                 "hu": "Bretagne-i Amerikai Temető",
                 "ro": "Cimitirul American din Bretania",
-                "en": "Brittany American Cemetery"
+                "en": "Brittany American Cemetery",
+                "fr": "Cimetière américain de Bretagne"
               },
               "tip_5lang": {
                 "de": "Wenn es in Strömen regnet, können Sie einen Großteil der Anlage respektvoll aus dem geparkten Auto betrachten.",
                 "hu": "Ha szakad az eső, a terület nagy részét tiszteletteljesen megtekintheti a leparkolt autóból is.",
                 "ro": "Dacă plouă torențial, puteți vedea o mare parte a complexului cu respect din mașina parcată.",
-                "en": "If it is pouring rain, you can respectfully view much of the solemn layout from your parked car."
+                "en": "If it is pouring rain, you can respectfully view much of the solemn layout from your parked car.",
+                "fr": "S’il pleut des cordes, vous pouvez observer respectueusement une grande partie de la disposition solennelle depuis votre voiture garée."
               }
             },
             {
@@ -970,13 +1076,15 @@
                 "de": "Kapelle des amerikanischen Militärfriedhofs",
                 "hu": "Katonai temető kápolnája",
                 "ro": "Capela cimitirului militar american",
-                "en": "Chapelle du cimetière militaire américain"
+                "en": "Chapelle du cimetière militaire américain",
+                "fr": "Chapelle du cimetière militaire américain"
               },
               "tip_5lang": {
                 "de": "Laufen Sie schnell vom Auto hinein für einen trockenen, friedlichen Abschluss Ihrer verregneten Autotour.",
                 "hu": "Szaladjon be gyorsan az autóból egy száraz, békés befejezésért ezen az esős autós túrán.",
                 "ro": "Alergați repede din mașină înăuntru pentru o încheiere uscată și pașnică a turului dumneavoastră ploios.",
-                "en": "Run quickly from the car inside for a dry, peaceful reflection at the end of your rainy driving tour."
+                "en": "Run quickly from the car inside for a dry, peaceful reflection at the end of your rainy driving tour.",
+                "fr": "Courez rapidement de la voiture à l’intérieur pour une réflexion sèche et paisible à la fin de votre circuit sous la pluie."
               }
             }
           ]
@@ -986,7 +1094,8 @@
             "de": "Die Autoheizung ist heute Ihr bester Freund. Ein frostiger Morgen an der Mairie und in der Fabrik. Mittags fahren Sie im warmen Auto zu Kirche und Schloss. Erreichen Sie den Friedhof bis 14:00 Uhr, um das Tageslicht vor dem Sonnenuntergang um 17:00 Uhr zu nutzen.",
             "hu": "Az autófűtés a legjobb barátja ma. Fagyos reggel a Mairie-nél és a gyárban. Délben meleg autóval megy a templomhoz és a kastélyhoz. Érjen a temetőhöz 14:00-ig, hogy kihasználja a nappali fényt a 17:00 órás naplemente előtt.",
             "ro": "Încălzirea mașinii e cel mai bun prieten azi. Dimineață geroasă la Mairie și fabrică. La prânz conduceți la cald spre biserică și castel. Ajungeți la cimitir la 14:00 pentru a prinde lumină înainte de apusul de la 17:00.",
-            "en": "The car heater is your best friend today. Frosty mornings at the Mairie and factory. Midday, drive warmly to the church and castle. Reach the cemetery by 14:00 to ensure good daylight before the early 17:00 sunset."
+            "en": "The car heater is your best friend today. Frosty mornings at the Mairie and factory. Midday, drive warmly to the church and castle. Reach the cemetery by 14:00 to ensure good daylight before the early 17:00 sunset.",
+            "fr": "Le chauffage de la voiture est votre meilleur allié aujourd’hui. Matins givrés à la Mairie et à l’usine. À midi, conduisez au chaud vers l’église et le château. Atteignez le cimetière avant 14:00 pour assurer une bonne lumière du jour avant le coucher du soleil vers 17:00."
           },
           "stops": [
             {
@@ -994,13 +1103,15 @@
                 "de": "Mairie déléguée de Carnet",
                 "hu": "Mairie déléguée de Carnet",
                 "ro": "Mairie déléguée de Carnet",
-                "en": "Mairie déléguée de Carnet"
+                "en": "Mairie déléguée de Carnet",
+                "fr": "Mairie déléguée de Carnet"
               },
               "tip_5lang": {
                 "de": "Ein sehr kurzer Stopp; lassen Sie den Motor am besten laufen, um den Innenraum schön warm zu halten.",
                 "hu": "Nagyon rövid megálló; a legjobb, ha járva hagyja a motort, hogy a belső tér szép meleg maradjon.",
                 "ro": "O oprire foarte scurtă; lăsați motorul pornit pentru a menține habitaclul frumos și cald.",
-                "en": "A very quick stop; consider leaving the engine running briefly to keep the cabin nice and warm."
+                "en": "A very quick stop; consider leaving the engine running briefly to keep the cabin nice and warm.",
+                "fr": "Un arrêt très rapide ; envisagez de laisser le moteur tourner brièvement pour maintenir l’habitacle bien chaud."
               }
             },
             {
@@ -1008,13 +1119,15 @@
                 "de": "Saint-James Strickwarenfabrik",
                 "hu": "Saint-James Kötöttárugyár",
                 "ro": "Fabrica de tricotaje Saint-James",
-                "en": "Saint-James Knitwear Factory"
+                "en": "Saint-James Knitwear Factory",
+                "fr": "Usine de tricot Saint-James"
               },
               "tip_5lang": {
                 "de": "Ein gemütlicher Besuch im Warmen; kaufen Sie hier einen Schal aus Wolle für die eisigen Stopps draußen.",
                 "hu": "Kényelmes, meleg látogatás; vegyen itt egy gyapjúsálat a kinti, fagyos megállókhoz az út során.",
                 "ro": "O vizită confortabilă la căldură; cumpărați de aici un fular de lână pentru opririle înghețate de afară.",
-                "en": "A cozy, warm visit indoors; buy a woolen scarf here for the freezing outdoor stops later on."
+                "en": "A cozy, warm visit indoors; buy a woolen scarf here for the freezing outdoor stops later on.",
+                "fr": "Une visite confortable et chaleureuse à l’intérieur ; achetez une écharpe en laine ici pour les arrêts extérieurs glacials plus tard."
               }
             },
             {
@@ -1022,13 +1135,15 @@
                 "de": "Kirche Saint-Jacques",
                 "hu": "Saint-Jacques templom",
                 "ro": "Biserica Saint-Jacques",
-                "en": "Saint-Jacques Church"
+                "en": "Saint-Jacques Church",
+                "fr": "Église Saint-Jacques"
               },
               "tip_5lang": {
                 "de": "Trotz des kurzen Weges vom Auto ist das steinerne Innere kühl; lassen Sie Ihren dicken Wintermantel an.",
                 "hu": "Az autótól való rövid út ellenére a kőbelső hűvös; hagyja magán a vastag télikabátot odabent is.",
                 "ro": "În ciuda drumului scurt de la mașină, interiorul din piatră e rece; păstrați paltonul gros de iarnă pe dumneavoastră.",
-                "en": "Despite the short walk from the car, the stone interior is quite chilly; keep your heavy winter coat on."
+                "en": "Despite the short walk from the car, the stone interior is quite chilly; keep your heavy winter coat on.",
+                "fr": "Malgré la courte marche depuis la voiture, l’intérieur en pierre est assez frais ; gardez votre manteau d’hiver lourd."
               }
             },
             {
@@ -1036,13 +1151,15 @@
                 "de": "Château de la Paluelle",
                 "hu": "Château de la Paluelle",
                 "ro": "Château de la Paluelle",
-                "en": "Château de la Paluelle"
+                "en": "Château de la Paluelle",
+                "fr": "Château de la Paluelle"
               },
               "tip_5lang": {
                 "de": "Die frostigen Gärten sind atemberaubend; parken Sie so nah wie möglich, um den Fußweg in der Kälte zu minimieren.",
                 "hu": "A fagyos kertek lélegzetelállítóak; parkoljon a lehető legközelebb, hogy minimálisra csökkentse a hidegben való sétát.",
                 "ro": "Grădinile înghețate sunt uluitoare; parcați cât mai aproape posibil pentru a minimiza mersul prin frig.",
-                "en": "The frost-covered gardens are stunning; park as close as possible to minimize your walk in the freezing cold."
+                "en": "The frost-covered gardens are stunning; park as close as possible to minimize your walk in the freezing cold.",
+                "fr": "Les jardins couverts de givre sont magnifiques ; garez‑vous le plus près possible pour minimiser la marche dans le froid glacial."
               }
             },
             {
@@ -1050,13 +1167,15 @@
                 "de": "Saint-Benoît Polissoir",
                 "hu": "Saint-Benoît Polissoir",
                 "ro": "Saint-Benoît Polissoir",
-                "en": "Saint-Benoît Polissoir"
+                "en": "Saint-Benoît Polissoir",
+                "fr": "Saint-Benoît Polissoir"
               },
               "tip_5lang": {
                 "de": "Der Boden kann steinhart gefroren sein. Treten Sie vorsichtig auf und kehren Sie zügig ins warme Auto zurück.",
                 "hu": "A talaj kőkeményre fagyhatott. Lépjen óvatosan, és térjen vissza gyorsan a meleg autóba.",
                 "ro": "Pământul poate fi înghețat bocnă. Pășiți cu atenție și întoarceți-vă rapid în mașina încălzită.",
-                "en": "The ground may be frozen rock hard. Step carefully around the stone and return swiftly to your warm car."
+                "en": "The ground may be frozen rock hard. Step carefully around the stone and return swiftly to your warm car.",
+                "fr": "Le sol peut être gelé et très dur. Marchez prudemment autour de la pierre et retournez rapidement à votre voiture chaude."
               }
             },
             {
@@ -1064,13 +1183,15 @@
                 "de": "Amerikanischer Friedhof in der Bretagne",
                 "hu": "Bretagne-i Amerikai Temető",
                 "ro": "Cimitirul American din Bretania",
-                "en": "Brittany American Cemetery"
+                "en": "Brittany American Cemetery",
+                "fr": "Cimetière américain de Bretagne"
               },
               "tip_5lang": {
                 "de": "Der beißende Wind ist hier erbarmungslos; packen Sie sich dick ein, bevor Sie die Heizung des Autos verlassen.",
                 "hu": "A csípős szél itt könyörtelen; öltözzön fel nagyon vastagon, mielőtt elhagyja az autó fűtött melegét.",
                 "ro": "Vântul tăios este necruțător aici; înfofoliți-vă bine înainte de a părăsi confortul și căldura mașinii.",
-                "en": "The biting wind is fierce and relentless here; bundle up securely before leaving the heater of your car."
+                "en": "The biting wind is fierce and relentless here; bundle up securely before leaving the heater of your car.",
+                "fr": "Le vent mordant y est fort et implacable ; emmitouflez‑vous bien avant de quitter le chauffage de votre voiture."
               }
             },
             {
@@ -1078,13 +1199,15 @@
                 "de": "Kapelle des amerikanischen Militärfriedhofs",
                 "hu": "Katonai temető kápolnája",
                 "ro": "Capela cimitirului militar american",
-                "en": "Chapelle du cimetière militaire américain"
+                "en": "Chapelle du cimetière militaire américain",
+                "fr": "Chapelle du cimetière militaire américain"
               },
               "tip_5lang": {
                 "de": "Ein ruhiger, geschlossener Raum, um Ihre Tour abzuschließen, genau dann, wenn die winterliche Nacht hereinbricht.",
                 "hu": "Csendes, zárt tér a túra lezárásához, pontosan akkor, amikor a téli éjszaka sötétsége leszáll.",
                 "ro": "Un spațiu liniștit și închis pentru a vă încheia turul, exact când noaptea de iarnă se lasă rapid.",
-                "en": "A quiet, enclosed space to finish your trip peacefully, right as the early winter night quickly falls."
+                "en": "A quiet, enclosed space to finish your trip peacefully, right as the early winter night quickly falls.",
+                "fr": "Un espace calme et clos pour terminer votre visite paisiblement, juste au moment où la nuit hivernale tombe vite."
               }
             }
           ]

@@ -21,7 +21,8 @@
             "de": "Altes Rathaus",
             "hu": "Régi városháza",
             "ro": "Primăria Veche",
-            "en": "Old Town Hall"
+            "en": "Old Town Hall",
+            "fr": "Old Town Hall"
           },
           "coords": [
             0.8851,
@@ -36,7 +37,8 @@
             "de": "Achten Sie auf die Renaissance-Details an der Fassade.",
             "hu": "Figyelje meg a homlokzat reneszánsz részleteit.",
             "ro": "Observați detaliile renascentiste de pe fațadă.",
-            "en": "Look for the Renaissance details on the facade."
+            "en": "Look for the Renaissance details on the facade.",
+            "fr": "Recherchez les détails Renaissance sur la façade."
           }
         },
         {
@@ -44,7 +46,8 @@
             "de": "Maison Florent de la Varenne",
             "hu": "Florent de la Varenne háza",
             "ro": "Casa Florent de la Varenne",
-            "en": "Florent de la Varenne House"
+            "en": "Florent de la Varenne House",
+            "fr": "Florent de la Varenne House"
           },
           "coords": [
             0.8856,
@@ -59,7 +62,8 @@
             "de": "Ein prächtiges Beispiel bürgerlicher Architektur aus dem 15. Jahrhundert.",
             "hu": "A 15. századi polgári építészet pompás példája.",
             "ro": "Un exemplu splendid de arhitectură civică din secolul al XV-lea.",
-            "en": "A splendid example of 15th-century civic architecture."
+            "en": "A splendid example of 15th-century civic architecture.",
+            "fr": "Un splendide exemple d’architecture civile du XVe siècle."
           }
         },
         {
@@ -67,7 +71,8 @@
             "de": "Kirche Saint-Genest",
             "hu": "Saint-Genest-templom",
             "ro": "Biserica Saint-Genest",
-            "en": "Saint-Genest Church"
+            "en": "Saint-Genest Church",
+            "fr": "Saint-Genest Church"
           },
           "coords": [
             0.8861,
@@ -82,7 +87,8 @@
             "de": "Die romanischen Fresken im Inneren sind von seltener Schönheit.",
             "hu": "A belső román kori freskók ritka szépségűek.",
             "ro": "Frescele romanice din interior sunt de o frumusețe rară.",
-            "en": "The Romanesque frescoes inside are of rare beauty."
+            "en": "The Romanesque frescoes inside are of rare beauty.",
+            "fr": "Les fresques romanes à l’intérieur sont d’une rare beauté."
           }
         },
         {
@@ -90,7 +96,8 @@
             "de": "Rotten-Treppe",
             "hu": "Rotte-lépcső",
             "ro": "Scara Rotte",
-            "en": "Rotte Stairway"
+            "en": "Rotte Stairway",
+            "fr": "Rotte Stairway"
           },
           "coords": [
             0.8854,
@@ -105,7 +112,8 @@
             "de": "Dieser steile Pfad verbindet das Dorf mit der Burg.",
             "hu": "Ez a meredek ösvény köti össze a falut a várral.",
             "ro": "Această potecă abruptă leagă satul de castel.",
-            "en": "This steep path connects the village to the castle."
+            "en": "This steep path connects the village to the castle.",
+            "fr": "Ce chemin raide relie le village au château."
           }
         },
         {
@@ -113,7 +121,8 @@
             "de": "Schlossruine Lavardin",
             "hu": "Lavardin várrom",
             "ro": "Ruinele Castelului Lavardin",
-            "en": "Lavardin Castle Ruins"
+            "en": "Lavardin Castle Ruins",
+            "fr": "Lavardin Castle Ruins"
           },
           "coords": [
             0.8845,
@@ -128,7 +137,8 @@
             "de": "Erkunden Sie den 26 Meter hohen Bergfried aus dem 11. Jahrhundert.",
             "hu": "Fedezze fel a 11. századi, 26 méter magas öregtornyot.",
             "ro": "Explorați turnul principal de 26 de metri din secolul al XI-lea.",
-            "en": "Explore the 26-meter high keep from the 11th century."
+            "en": "Explore the 26-meter high keep from the 11th century.",
+            "fr": "Explorez le donjon haut de 26 m datant du XIe siècle."
           }
         },
         {
@@ -136,7 +146,8 @@
             "de": "Höhlenwohnungen",
             "hu": "Barlanglakások",
             "ro": "Locuințe troglodite",
-            "en": "Troglodyte Dwellings"
+            "en": "Troglodyte Dwellings",
+            "fr": "Troglodyte Dwellings"
           },
           "coords": [
             0.8831,
@@ -151,7 +162,8 @@
             "de": "Diese in den Tuffstein gehauenen Häuser sind typisch für das Loir-Tal.",
             "hu": "A tufába vájt házak jellemzőek a Loir völgyére.",
             "ro": "Aceste case săpate în tuf sunt tipice pentru Valea Loir.",
-            "en": "These houses carved into the tuff are typical of the Loir Valley."
+            "en": "These houses carved into the tuff are typical of the Loir Valley.",
+            "fr": "Ces maisons creusées dans le tuffeau sont typiques de la vallée du Loir."
           }
         },
         {
@@ -159,7 +171,8 @@
             "de": "Gotische Brücke",
             "hu": "Gótikus híd",
             "ro": "Podul Gotic",
-            "en": "Gothic Bridge"
+            "en": "Gothic Bridge",
+            "fr": "Gothic Bridge"
           },
           "coords": [
             0.8872,
@@ -174,7 +187,8 @@
             "de": "Genießen Sie den Blick auf die Spiegelung der Burg im Fluss Loir.",
             "hu": "Élvezze a vár Loir folyóban tükröződő látványát.",
             "ro": "Bucurați-vă de vederea castelului reflectat în râul Loir.",
-            "en": "Enjoy the view of the castle reflected in the Loir river."
+            "en": "Enjoy the view of the castle reflected in the Loir river.",
+            "fr": "Profitez de la vue du château se reflétant dans le Loir."
           }
         },
         {
@@ -182,7 +196,8 @@
             "de": "Loir-Uferpromenade",
             "hu": "Loir-parti sétány",
             "ro": "Promenada pe malul Loir",
-            "en": "Loir River Promenade"
+            "en": "Loir River Promenade",
+            "fr": "Loir River Promenade"
           },
           "coords": [
             0.8885,
@@ -197,7 +212,8 @@
             "de": "Der perfekte Ort, um den Tag entspannt ausklingen zu lassen.",
             "hu": "Tökéletes hely a nap pihentető lezárásához.",
             "ro": "Locul perfect pentru a încheia ziua relaxat.",
-            "en": "The perfect place to end the day in a relaxed way."
+            "en": "The perfect place to end the day in a relaxed way.",
+            "fr": "L’endroit idéal pour terminer la journée en toute détente."
           }
         }
       ],
@@ -205,7 +221,8 @@
         "de": "Lavardin, eines der schönsten Dörfer Frankreichs, empfängt Sie mit einer Zeitreise ins Mittelalter. Am Vormittag erkunden wir den historischen Kern mit seinen gotischen Fassaden und der romanischen Kirche Saint-Genest, die für ihre Fresken berühmt ist. Der Aufstieg zur Burgruine bietet einen dramatischen Blick über das Tal. Nachmittags entdecken wir die faszinierenden Höhlenwohnungen im Fels, bevor wir den Tag an den ruhigen Ufern des Loir beenden.",
         "hu": "Lavardin, Franciaország egyik legszebb faluja, középkori időutazásra hívja. Délelőtt a történelmi magot fedezzük fel gótikus homlokzataival és a freskóiról híres Saint-Genest-templommal. A várromhoz vezető kaptató drámai kilátást nyújt a völgyre. Délután a sziklába vájt különleges barlanglakásokat nézzük meg, majd a napot a Loir folyó csendes partján, a gótikus híd lábánál zárjuk.",
         "ro": "Lavardin, unul dintre cele mai frumoase sate din Franța, vă întâmpină cu o călătorie în timp în Evul Mediu. Dimineața explorăm nucleul istoric cu fațadele sale gotice și biserica Saint-Genest, celebră pentru frescele sale. Urcarea la ruinele castelului oferă o vedere dramatică asupra văii. După-amiaza descoperim fascinantele locuințe troglodite săpate în stâncă, înainte de a încheia ziua pe malurile liniștite ale râului Loir.",
-        "en": "Lavardin, one of the most beautiful villages in France, welcomes you with a journey back to the Middle Ages. In the morning, we explore the historical core with its Gothic facades and the Saint-Genest church, famous for its frescoes. The climb to the castle ruins offers a dramatic view over the valley. In the afternoon, we discover the fascinating troglodyte dwellings in the rock before ending the day on the quiet banks of the Loir river."
+        "en": "Lavardin, one of the most beautiful villages in France, welcomes you with a journey back to the Middle Ages. In the morning, we explore the historical core with its Gothic facades and the Saint-Genest church, famous for its frescoes. The climb to the castle ruins offers a dramatic view over the valley. In the afternoon, we discover the fascinating troglodyte dwellings in the rock before ending the day on the quiet banks of the Loir river.",
+        "fr": "Lavardin, l’un des plus beaux villages de France, vous accueille pour un voyage au Moyen Âge. Le matin, nous explorons le noyau historique avec ses façades gothiques et l’église Saint‑Genest, célèbre pour ses fresques. L’ascension jusqu’aux ruines du château offre une vue spectaculaire sur la vallée. L’après‑midi, nous découvrons les fascinantes habitations troglodytiques creusées dans la roche avant de terminer la journée sur les berges tranquilles du Loir."
       },
       "gastro_picks": {
         "de": [
@@ -345,6 +362,11 @@
           "Wear sturdy shoes for the climb to the castle ruins.",
           "The Saint-Genest church is often open only at specific times.",
           "Combine your visit with Montoire-sur-le-Loir nearby."
+        ],
+        "fr": [
+          "Portez des chaussures solides pour la montée jusqu’aux ruines du château.",
+          "L’église Saint‑Genest n’est souvent ouverte qu’à des horaires spécifiques.",
+          "Combinez votre visite avec Montoire‑sur‑le‑Loir à proximité."
         ]
       }
     },
@@ -361,7 +383,8 @@
             "de": "Gotische Brücke",
             "hu": "Gótikus híd",
             "ro": "Podul Gotic",
-            "en": "Gothic Bridge"
+            "en": "Gothic Bridge",
+            "fr": "Gothic Bridge"
           },
           "coords": [
             0.8872,
@@ -376,7 +399,8 @@
             "de": "Starten Sie mit dem klassischen Postkartenmotiv.",
             "hu": "Kezdje a klasszikus képeslap-látvánnyal.",
             "ro": "Începeți cu motivul clasic de carte poștală.",
-            "en": "Start with the classic postcard view."
+            "en": "Start with the classic postcard view.",
+            "fr": "Commencez par la vue carte postale classique."
           }
         },
         {
@@ -384,7 +408,8 @@
             "de": "Kirche Saint-Genest",
             "hu": "Saint-Genest-templom",
             "ro": "Biserica Saint-Genest",
-            "en": "Saint-Genest Church"
+            "en": "Saint-Genest Church",
+            "fr": "Saint-Genest Church"
           },
           "coords": [
             0.8861,
@@ -399,7 +424,8 @@
             "de": "Stellen Sie Ihr Rad vor dem Portal sicher ab.",
             "hu": "Zárja le biztonságosan a biciklit a kapu előtt.",
             "ro": "Parcați bicicleta în siguranță în fața portalului.",
-            "en": "Park your bike securely in front of the portal."
+            "en": "Park your bike securely in front of the portal.",
+            "fr": "Garez votre vélo en sécurité devant le portail."
           }
         },
         {
@@ -407,7 +433,8 @@
             "de": "Altes Rathaus",
             "hu": "Régi városháza",
             "ro": "Primăria Veche",
-            "en": "Old Town Hall"
+            "en": "Old Town Hall",
+            "fr": "Old Town Hall"
           },
           "coords": [
             0.8851,
@@ -422,7 +449,8 @@
             "de": "Ein schöner Platz für eine kurze Pause.",
             "hu": "Szép tér egy rövid pihenőhöz.",
             "ro": "O piață frumoasă pentru o scurtă pauză.",
-            "en": "A beautiful square for a short break."
+            "en": "A beautiful square for a short break.",
+            "fr": "Une belle place pour une courte pause."
           }
         },
         {
@@ -430,7 +458,8 @@
             "de": "Höhlenwohnungen",
             "hu": "Barlanglakások",
             "ro": "Locuințe troglodite",
-            "en": "Troglodyte Dwellings"
+            "en": "Troglodyte Dwellings",
+            "fr": "Troglodyte Dwellings"
           },
           "coords": [
             0.8831,
@@ -445,7 +474,8 @@
             "de": "Radeln Sie entlang der Felswand im Westen.",
             "hu": "Tekerjen a nyugati sziklafal mentén.",
             "ro": "Mergeți cu bicicleta de-a lungul peretelui de stâncă din vest.",
-            "en": "Cycle along the rock face in the west."
+            "en": "Cycle along the rock face in the west.",
+            "fr": "Pédalez le long de la falaise à l’ouest."
           }
         },
         {
@@ -453,7 +483,8 @@
             "de": "Schlossruine Lavardin",
             "hu": "Lavardin várrom",
             "ro": "Ruinele Castelului Lavardin",
-            "en": "Lavardin Castle Ruins"
+            "en": "Lavardin Castle Ruins",
+            "fr": "Lavardin Castle Ruins"
           },
           "coords": [
             0.8845,
@@ -468,7 +499,8 @@
             "de": "Der Anstieg ist kurz, aber knackig.",
             "hu": "Az emelkedő rövid, de intenzív.",
             "ro": "Urcarea este scurtă, dar intensă.",
-            "en": "The climb is short but steep."
+            "en": "The climb is short but steep.",
+            "fr": "La montée est courte mais raide."
           }
         },
         {
@@ -476,7 +508,8 @@
             "de": "Loir-Uferpromenade",
             "hu": "Loir-parti sétány",
             "ro": "Promenada pe malul Loir",
-            "en": "Loir River Promenade"
+            "en": "Loir River Promenade",
+            "fr": "Loir River Promenade"
           },
           "coords": [
             0.8885,
@@ -491,7 +524,8 @@
             "de": "Gemütliches Ausrollen am Flussufer.",
             "hu": "Kellemes levezető tekerés a folyóparton.",
             "ro": "Rulare relaxată pe malul râului.",
-            "en": "Gentle cycling along the riverbank to finish."
+            "en": "Gentle cycling along the riverbank to finish.",
+            "fr": "Une balade à vélo douce le long des berges pour finir."
           }
         }
       ],
@@ -499,7 +533,8 @@
         "de": "Mit dem Fahrrad lässt sich das Loir-Tal rund um Lavardin besonders entspannt erkunden. Wir starten an der gotischen Brücke und radeln durch die mittelalterlichen Gassen zum Herzen des Dorfes. Die Route führt uns unterhalb der imposanten Burgruine zu den faszinierenden Höhlenwohnungen, die in die weißen Kalksteinfelsen gehauen sind. Den Abschluss bildet eine flache Fahrt entlang des Flusses Loir, wo die Natur zum Verweilen einlädt.",
         "hu": "Kerékpárral különösen pihentető a Lavardin környéki Loir-völgy felfedezése. A gótikus hídnál kezdünk, majd a középkori utcákon át tekerünk a falu szívébe. Utunk az impozáns várrom alatt vezet a fehér mészkősziklákba vájt barlanglakásokhoz. A túrát a Loir folyó menti sík terepen zárjuk, ahol a természet közelsége segít a kikapcsolódásban.",
         "ro": "Explorarea Văii Loir în jurul Lavardin este deosebit de relaxantă cu bicicleta. Începem de la podul gotic și pedalăm prin străzile medievale către inima satului. Traseul ne duce pe sub ruinele impunătoare ale castelului către locuințele troglodite fascinante săpate în stâncile albe de calcar. Încheiem cu o plimbare plată de-a lungul râului Loir, unde natura vă invită la popas.",
-        "en": "Exploring the Loir Valley around Lavardin is particularly relaxing by bike. We start at the Gothic bridge and cycle through the medieval streets to the heart of the village. The route takes us beneath the imposing castle ruins to the fascinating troglodyte dwellings carved into the white limestone cliffs. We finish with a flat ride along the Loir river, where nature invites you to linger."
+        "en": "Exploring the Loir Valley around Lavardin is particularly relaxing by bike. We start at the Gothic bridge and cycle through the medieval streets to the heart of the village. The route takes us beneath the imposing castle ruins to the fascinating troglodyte dwellings carved into the white limestone cliffs. We finish with a flat ride along the Loir river, where nature invites you to linger.",
+        "fr": "Explorer la vallée du Loir autour de Lavardin est particulièrement reposant à vélo. Nous commençons au pont gothique et traversons les rues médiévales jusqu’au cœur du village. L’itinéraire nous mène sous les imposantes ruines du château jusqu’aux fascinantes habitations troglodytiques creusées dans les falaises de calcaire blanc. Nous terminons par une section plate le long du Loir, où la nature invite à la flânerie."
       },
       "gastro_picks": {
         "de": [
@@ -603,6 +638,11 @@
           "The terrain is mostly flat, except for the climb to the castle.",
           "Use the marked 'Loir à Vélo' routes.",
           "Please ride carefully in the narrow village streets."
+        ],
+        "fr": [
+          "Le terrain est majoritairement plat, sauf pour la montée au château.",
+          "Utilisez les itinéraires balisés « Loir à Vélo ».",
+          "Roulez prudemment dans les rues étroites du village."
         ]
       }
     },
@@ -619,7 +659,8 @@
             "de": "Altes Rathaus (Cluster Zentrum)",
             "hu": "Régi városháza (Központi klaszter)",
             "ro": "Primăria Veche (Cluster Centru)",
-            "en": "Old Town Hall (Center Cluster)"
+            "en": "Old Town Hall (Center Cluster)",
+            "fr": "Old Town Hall (Center Cluster)"
           },
           "coords": [
             0.8851,
@@ -634,7 +675,8 @@
             "de": "Parken Sie hier für den Rundgang durch das Unterdorf.",
             "hu": "Itt parkoljon az alsó falu felfedezéséhez.",
             "ro": "Parcați aici pentru turul satului de jos.",
-            "en": "Park here for the lower village tour."
+            "en": "Park here for the lower village tour.",
+            "fr": "Garez‑vous ici pour la visite du bas du village."
           }
         },
         {
@@ -642,7 +684,8 @@
             "de": "Kirche Saint-Genest",
             "hu": "Saint-Genest-templom",
             "ro": "Biserica Saint-Genest",
-            "en": "Saint-Genest Church"
+            "en": "Saint-Genest Church",
+            "fr": "Saint-Genest Church"
           },
           "coords": [
             0.8861,
@@ -657,7 +700,8 @@
             "de": "Zu Fuß erreichbar vom Rathausplatz.",
             "hu": "Gyalogosan elérhető a városháza térről.",
             "ro": "Accesibil pe jos din piața primăriei.",
-            "en": "Accessible on foot from the town hall square."
+            "en": "Accessible on foot from the town hall square.",
+            "fr": "Accessible à pied depuis la place de l’hôtel de ville."
           }
         },
         {
@@ -665,7 +709,8 @@
             "de": "Gotische Brücke",
             "hu": "Gótikus híd",
             "ro": "Podul Gotic",
-            "en": "Gothic Bridge"
+            "en": "Gothic Bridge",
+            "fr": "Gothic Bridge"
           },
           "coords": [
             0.8872,
@@ -680,7 +725,8 @@
             "de": "Kurzer Spaziergang entlang des Loir.",
             "hu": "Rövid séta a Loir mentén.",
             "ro": "Scurtă plimbare de-a lungul Loir.",
-            "en": "Short walk along the Loir."
+            "en": "Short walk along the Loir.",
+            "fr": "Courte promenade le long du Loir."
           }
         },
         {
@@ -688,7 +734,8 @@
             "de": "Schlossruine Lavardin (Cluster Burg)",
             "hu": "Lavardin várrom (Vár klaszter)",
             "ro": "Ruinele Castelului Lavardin (Cluster Castel)",
-            "en": "Lavardin Castle Ruins (Castle Cluster)"
+            "en": "Lavardin Castle Ruins (Castle Cluster)",
+            "fr": "Lavardin Castle Ruins (Castle Cluster)"
           },
           "coords": [
             0.8845,
@@ -703,7 +750,8 @@
             "de": "Neuer Parkplatz näher an der Burg für bequemeren Zugang.",
             "hu": "Új parkolóhely közelebb a várhoz a kényelmesebb bejutáshoz.",
             "ro": "Loc de parcare nou mai aproape de castel pentru acces facil.",
-            "en": "New parking spot closer to the castle for easier access."
+            "en": "New parking spot closer to the castle for easier access.",
+            "fr": "Nouveau parking plus proche du château pour un accès facilité."
           }
         },
         {
@@ -711,7 +759,8 @@
             "de": "Rotten-Treppe",
             "hu": "Rotte-lépcső",
             "ro": "Scara Rotte",
-            "en": "Rotte Stairway"
+            "en": "Rotte Stairway",
+            "fr": "Rotte Stairway"
           },
           "coords": [
             0.8854,
@@ -726,7 +775,8 @@
             "de": "Abstieg zu Fuß vom Burgparkplatz möglich.",
             "hu": "Gyalogos leereszkedés lehetséges a várparkolótól.",
             "ro": "Coborâre pe jos posibilă de la parcarea castelului.",
-            "en": "Foot descent possible from the castle parking."
+            "en": "Foot descent possible from the castle parking.",
+            "fr": "Descente possible à pied depuis le parking du château."
           }
         },
         {
@@ -734,7 +784,8 @@
             "de": "Höhlenwohnungen",
             "hu": "Barlanglakások",
             "ro": "Locuințe troglodite",
-            "en": "Troglodyte Dwellings"
+            "en": "Troglodyte Dwellings",
+            "fr": "Troglodyte Dwellings"
           },
           "coords": [
             0.8831,
@@ -749,7 +800,8 @@
             "de": "Besichtigen Sie die in den Fels gehauenen Fassaden.",
             "hu": "Tekintse meg a sziklába vájt homlokzatokat.",
             "ro": "Vizitați fațadele săpate în stâncă.",
-            "en": "View the facades carved into the rock."
+            "en": "View the facades carved into the rock.",
+            "fr": "Admirez les façades creusées dans la roche."
           }
         },
         {
@@ -757,7 +809,8 @@
             "de": "Loir-Uferpromenade",
             "hu": "Loir-parti sétány",
             "ro": "Promenada pe malul Loir",
-            "en": "Loir River Promenade"
+            "en": "Loir River Promenade",
+            "fr": "Loir River Promenade"
           },
           "coords": [
             0.8885,
@@ -772,7 +825,8 @@
             "de": "Ruhiger Parkplatz am Flussufer.",
             "hu": "Csendes parkoló a folyóparton.",
             "ro": "Parcare liniștită pe malul râului.",
-            "en": "Quiet parking by the riverbank."
+            "en": "Quiet parking by the riverbank.",
+            "fr": "Parking calme au bord de la rivière."
           }
         }
       ],
@@ -780,7 +834,8 @@
         "de": "Diese Autotour kombiniert den Besuch des Dorfzentrums mit den höher gelegenen Sehenswürdigkeiten. Wir parken zuerst im Herzen von Lavardin, um die gotischen Häuser und die romanische Kirche zu Fuß zu erkunden. Danach fahren wir hinauf zur Burgruine, von wo aus ein kurzer Spaziergang zu den Rotten-Treppen und den Höhlenwohnungen führt. Der Tag endet entspannt an der Uferpromenade des Loir.",
         "hu": "Ez az autós túra ötvözi a falu központjának és a magasabban fekvő látnivalók felkeresését. Először Lavardin szívében parkolunk, hogy gyalog fedezzük fel a gótikus házakat és a román kori templomot. Ezt követően felhajtunk a várromhoz, ahonnan rövid séta vezet a Rotte-lépcsőhöz és a barlanglakásokhoz. A napot a Loir-parti sétányon zárjuk.",
         "ro": "Acest tur cu mașina combină vizita centrului satului cu obiectivele situate la înălțime. Parcați mai întâi în inima Lavardin pentru a explora pe jos casele gotice și biserica romanică. Apoi conduceți până la ruinele castelului, de unde o scurtă plimbare duce la scările Rotte și locuințele troglodite. Ziua se încheie relaxat pe promenada de pe malul Loir.",
-        "en": "This car tour combines a visit to the village center with the sights located higher up. We first park in the heart of Lavardin to explore the Gothic houses and the Romanesque church on foot. Then we drive up to the castle ruins, from where a short walk leads to the Rotte stairs and the troglodyte dwellings. The day ends in a relaxed way on the Loir river promenade."
+        "en": "This car tour combines a visit to the village center with the sights located higher up. We first park in the heart of Lavardin to explore the Gothic houses and the Romanesque church on foot. Then we drive up to the castle ruins, from where a short walk leads to the Rotte stairs and the troglodyte dwellings. The day ends in a relaxed way on the Loir river promenade.",
+        "fr": "Cette visite en voiture combine la découverte du centre du village avec les sites situés en hauteur. Nous nous garons d’abord au cœur de Lavardin pour explorer à pied les maisons gothiques et l’église romane. Ensuite, nous montons en voiture jusqu’aux ruines du château, d’où une courte promenade mène aux escaliers de la Rotte et aux habitations troglodytiques. La journée se termine en douceur sur la promenade du Loir."
       },
       "gastro_picks": {
         "de": [
@@ -884,6 +939,11 @@
           "The village streets are very narrow, park in designated areas outside.",
           "Watch for one-way street regulations on approach.",
           "The castle parking fills up quickly in high season."
+        ],
+        "fr": [
+          "Les rues du village sont très étroites, garez‑vous dans les zones désignées en périphérie.",
+          "Respectez la signalisation sens unique à l’approche.",
+          "Le parking du château se remplit vite en haute saison."
         ]
       }
     },
@@ -900,7 +960,8 @@
             "de": "Gotische Brücke (Ankunft)",
             "hu": "Gótikus híd (Érkezés)",
             "ro": "Podul Gotic (Sosire)",
-            "en": "Gothic Bridge (Arrival)"
+            "en": "Gothic Bridge (Arrival)",
+            "fr": "Gothic Bridge (Arrival)"
           },
           "coords": [
             0.8872,
@@ -915,7 +976,8 @@
             "de": "Der Bus hält in der Nähe der Brücke.",
             "hu": "A buszmegálló a híd közelében található.",
             "ro": "Stația de autobuz este aproape de pod.",
-            "en": "The bus stop is located near the bridge."
+            "en": "The bus stop is located near the bridge.",
+            "fr": "L’arrêt de bus se situe près du pont."
           }
         },
         {
@@ -923,7 +985,8 @@
             "de": "Altes Rathaus",
             "hu": "Régi városháza",
             "ro": "Primăria Veche",
-            "en": "Old Town Hall"
+            "en": "Old Town Hall",
+            "fr": "Old Town Hall"
           },
           "coords": [
             0.8851,
@@ -938,7 +1001,8 @@
             "de": "Das Zentrum ist nur wenige Gehminuten entfernt.",
             "hu": "A központ csak pár perc séta.",
             "ro": "Centrul este la doar câteva minute de mers pe jos.",
-            "en": "The center is just a few minutes walk away."
+            "en": "The center is just a few minutes walk away.",
+            "fr": "Le centre est à quelques minutes à pied."
           }
         },
         {
@@ -946,7 +1010,8 @@
             "de": "Kirche Saint-Genest",
             "hu": "Saint-Genest-templom",
             "ro": "Biserica Saint-Genest",
-            "en": "Saint-Genest Church"
+            "en": "Saint-Genest Church",
+            "fr": "Saint-Genest Church"
           },
           "coords": [
             0.8861,
@@ -961,7 +1026,8 @@
             "de": "Ein Muss für Geschichtsinteressierte.",
             "hu": "Történelemkedvelőknek kötelező látnivaló.",
             "ro": "O necesitate pentru pasionații de istorie.",
-            "en": "A must-see for history buffs."
+            "en": "A must-see for history buffs.",
+            "fr": "Incontournable pour les amateurs d’histoire."
           }
         },
         {
@@ -969,7 +1035,8 @@
             "de": "Rotten-Treppe",
             "hu": "Rotte-lépcső",
             "ro": "Scara Rotte",
-            "en": "Rotte Stairway"
+            "en": "Rotte Stairway",
+            "fr": "Rotte Stairway"
           },
           "coords": [
             0.8854,
@@ -984,7 +1051,8 @@
             "de": "Der Fußweg zur Burg beginnt hier.",
             "hu": "Itt kezdődik a várhoz vezető gyalogút.",
             "ro": "Aici începe drumul pe jos către castel.",
-            "en": "The footpath to the castle starts here."
+            "en": "The footpath to the castle starts here.",
+            "fr": "Le sentier vers le château commence ici."
           }
         },
         {
@@ -992,7 +1060,8 @@
             "de": "Schlossruine Lavardin",
             "hu": "Lavardin várrom",
             "ro": "Ruinele Castelului Lavardin",
-            "en": "Lavardin Castle Ruins"
+            "en": "Lavardin Castle Ruins",
+            "fr": "Lavardin Castle Ruins"
           },
           "coords": [
             0.8845,
@@ -1007,7 +1076,8 @@
             "de": "Nehmen Sie sich Zeit für die Ruinen.",
             "hu": "Szánjon időt a romok bejárására.",
             "ro": "Acordați-vă timp pentru ruine.",
-            "en": "Take your time exploring the ruins."
+            "en": "Take your time exploring the ruins.",
+            "fr": "Prenez votre temps pour explorer les ruines."
           }
         },
         {
@@ -1015,7 +1085,8 @@
             "de": "Höhlenwohnungen",
             "hu": "Barlanglakások",
             "ro": "Locuințe troglodite",
-            "en": "Troglodyte Dwellings"
+            "en": "Troglodyte Dwellings",
+            "fr": "Troglodyte Dwellings"
           },
           "coords": [
             0.8831,
@@ -1030,7 +1101,8 @@
             "de": "Faszinierendes Erbe im Fels.",
             "hu": "Lenyűgöző örökség a sziklákban.",
             "ro": "Moștenire fascinantă în stâncă.",
-            "en": "Fascinating heritage in the rock."
+            "en": "Fascinating heritage in the rock.",
+            "fr": "Un patrimoine fascinant dans la roche."
           }
         },
         {
@@ -1038,7 +1110,8 @@
             "de": "Loir-Uferpromenade",
             "hu": "Loir-parti sétány",
             "ro": "Promenada pe malul Loir",
-            "en": "Loir River Promenade"
+            "en": "Loir River Promenade",
+            "fr": "Promenade du Loir"
           },
           "coords": [
             0.8885,
@@ -1053,7 +1126,8 @@
             "de": "Warten Sie hier entspannt auf Ihren Rückbus.",
             "hu": "Várja itt kényelmesen a visszautat.",
             "ro": "Așteptați aici relaxat autobuzul de întoarcere.",
-            "en": "Wait here comfortably for your return bus."
+            "en": "Wait here comfortably for your return bus.",
+            "fr": "Attendez ici confortablement pour votre bus de retour."
           }
         }
       ],
@@ -1061,7 +1135,8 @@
         "de": "Lavardin ist ein ideales Ziel für einen Tagesausflug mit öffentlichen Verkehrsmitteln (Bus von Montoire). Wir kommen an der gotischen Brücke an und spazieren durch den historischen Kern. Ein Cluster-Walk führt uns von der romanischen Kirche über die Rotten-Treppe hinauf zur Burgruine. Am Nachmittag entdecken wir die Höhlenwohnungen, bevor wir den Tag am Ufer des Loir ausklingen lassen, während wir auf die Rückfahrt warten.",
         "hu": "Lavardin ideális célpont egy tömegközlekedéssel tett naphoz (buszjárat Montoire-ból). A gótikus hídnál érkezünk, majd a történelmi magon át sétálunk. Egy központi gyalogos körút vezet a román kori templomtól a Rotte-lépcsőn át fel a várromhoz. Délután a barlanglakásokat fedezzük fel, majd a napot a Loir-parton zárjuk, kényelmesen várva a visszaindulást.",
         "ro": "Lavardin este o destinație ideală pentru o excursie de o zi cu transportul public (autobuz din Montoire). Sosim la podul gotic și ne plimbăm prin nucleul istoric. Un parcurs pe jos ne duce de la biserica romanică prin scările Rotte până la ruinele castelului. După-amiaza descoperim locuințele troglodite, înainte de a încheia ziua pe malul Loir, așteptând relaxați întoarcerea.",
-        "en": "Lavardin is an ideal destination for a day trip by public transport (bus from Montoire). We arrive at the Gothic bridge and walk through the historical core. A cluster walk takes us from the Romanesque church via the Rotte stairs up to the castle ruins. In the afternoon, we discover the troglodyte dwellings before ending the day on the banks of the Loir, waiting comfortably for the return trip."
+        "en": "Lavardin is an ideal destination for a day trip by public transport (bus from Montoire). We arrive at the Gothic bridge and walk through the historical core. A cluster walk takes us from the Romanesque church via the Rotte stairs up to the castle ruins. In the afternoon, we discover the troglodyte dwellings before ending the day on the banks of the Loir, waiting comfortably for the return trip.",
+        "fr": "Lavardin est une destination idéale pour une excursion d'une journée en transport en commun (bus depuis Montoire). Nous arrivons au pont gothique et traversons le cœur historique. Une balade en boucle nous mène de l'église romane via les escaliers de la Rotte jusqu'aux ruines du château. L'après-midi, nous découvrons les habitations troglodytes avant de terminer la journée sur les rives du Loir, en attendant confortablement le retour."
       },
       "gastro_picks": {
         "de": [
@@ -1165,6 +1240,11 @@
           "Check bus times in advance (Rémi line).",
           "Buses often run less frequently on weekends.",
           "Everything in the village is easily accessible on foot from the bus stop."
+        ],
+        "fr": [
+          "Vérifiez les horaires de bus à l'avance (ligne Rémi).",
+          "Les bus circulent souvent moins fréquemment le week-end.",
+          "Tout dans le village est facilement accessible à pied depuis l'arrêt de bus."
         ]
       }
     }

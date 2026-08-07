@@ -31,7 +31,8 @@
             "de": "Früh kommen für die besten lokalen Gewürze und Lavendelprodukte.",
             "hu": "Érdemes korán érkezni a friss fűszerekért és levendulatermékekért.",
             "ro": "Veniți devreme pentru cele mai bune condimente locale și produse cu lavandă.",
-            "en": "Arrive early for the best local spices and lavender products."
+            "en": "Arrive early for the best local spices and lavender products.",
+            "fr": "Arrivez tôt pour les meilleures épices locales et produits à la lavande."
           }
         },
         {
@@ -49,7 +50,8 @@
             "de": "Bewundern Sie die ockerfarbene Fassade und das Altarbild aus dem 16. Jahrhundert.",
             "hu": "Csodálja meg az okkersárga homlokzatot és a 16. századi oltárképet.",
             "ro": "Admirați fațada ocru și retablul din secolul al XVI-lea.",
-            "en": "Admire the ochre facade and the 16th-century altarpiece."
+            "en": "Admire the ochre facade and the 16th-century altarpiece.",
+            "fr": "Admirez la façade ocre et le retable du XVIe siècle."
           }
         },
         {
@@ -67,7 +69,8 @@
             "de": "Das Grimaldi-Schloss bietet einen fantastischen Blick auf das Meer.",
             "hu": "A Grimaldi-kastélyból fantasztikus kilátás nyílik a tengerre.",
             "ro": "Castelul Grimaldi oferă o vedere fantastică spre mare.",
-            "en": "The Grimaldi Castle offers a fantastic view of the sea."
+            "en": "The Grimaldi Castle offers a fantastic view of the sea.",
+            "fr": "Le château Grimaldi offre une vue fantastique sur la mer."
           }
         },
         {
@@ -85,7 +88,8 @@
             "de": "Gehen Sie in die monumentale Skulptur für ein tolles Fotomotiv.",
             "hu": "Sétáljon be a monumentális szobor belsejébe a legjobb fotókért.",
             "ro": "Intrați în sculptura monumentală pentru o oportunitate foto excelentă.",
-            "en": "Walk inside the monumental sculpture for a great photo op."
+            "en": "Walk inside the monumental sculpture for a great photo op.",
+            "fr": "Entrez dans la sculpture monumentale pour une belle photo."
           }
         },
         {
@@ -103,7 +107,8 @@
             "de": "Sehen Sie die luxuriösesten Yachten der Welt am Billionaire's Quay.",
             "hu": "Nézze meg a világ legluxusabb jachtjait a Milliárdosok Rakpartján.",
             "ro": "Vedeți cele mai luxoase iahturi din lume pe Billionaire's Quay.",
-            "en": "See the world's most luxurious yachts at Billionaire's Quay."
+            "en": "See the world's most luxurious yachts at Billionaire's Quay.",
+            "fr": "Voyez les yachts les plus luxueux du monde au Billionaire's Quay."
           }
         },
         {
@@ -121,7 +126,8 @@
             "de": "Nehmen Sie an einer geführten Tour teil, um Zugang zum Dach zu erhalten.",
             "hu": "Vegyen részt vezetett túrán, hogy feljuthasson a tetőre.",
             "ro": "Faceți un tur ghidat pentru a avea acces pe acoperiș.",
-            "en": "Take a guided tour to get access to the rooftop."
+            "en": "Take a guided tour to get access to the rooftop.",
+            "fr": "Faites une visite guidée pour accéder au toit."
           }
         },
         {
@@ -139,7 +145,8 @@
             "de": "Probieren Sie Socca, den berühmten Kichererbsenfladen der Region.",
             "hu": "Kóstolja meg a socca-t, a régió híres csicseriborsó lepényét.",
             "ro": "Gustați socca, celebra clătită de năut din regiune.",
-            "en": "Taste socca, the famous chickpea pancake of the region."
+            "en": "Taste socca, the famous chickpea pancake of the region.",
+            "fr": "Goûtez la socca, la célèbre galette de pois chiches de la région."
           }
         }
       ],
@@ -147,7 +154,8 @@
         "de": "Beginnen Sie Ihren Tag im duftenden provenzalischen Markt, bevor Sie die spirituelle Ruhe der Kathedrale und die künstlerische Genialität von Picasso im Grimaldi-Schloss erleben. Nach einem Mittagessen in der Altstadt spazieren Sie entlang der Stadtmauer zur Nomade-Skulptur. Der Nachmittag gehört dem Port Vauban mit seinen Superyachten und der imposanten sternförmigen Festung Fort Carré, die über der Bucht wacht.",
         "hu": "Kezdje a napot az illatos provence-i piacon, majd fedezze fel a székesegyház nyugalmát és Picasso zsenialitását a Grimaldi-kastélyban. Az óvárosi ebéd után sétáljon a várfalon a Nomád szoborhoz. A délutánt töltse a Port Vauban szuperjachtjai között, végül látogasson el a Fort Carré csillag alakú erődjébe, amely fenségesen magasodik az öböl fölé.",
         "ro": "Începeți ziua în piața provensală parfumată, apoi descoperiți liniștea catedralei și geniul lui Picasso în Castelul Grimaldi. După un prânz în orașul vechi, plimbați-vă pe zidurile cetății până la sculptura Nomade. După-amiaza aparține Portului Vauban cu super-iahturile sale, terminând la impunătoarea fortăreață Fort Carré, care veghează asupra golfului.",
-        "en": "Start your day at the fragrant Provençal market, then explore the spiritual peace of the Cathedral and Picasso's genius in the Grimaldi Castle. After lunch in the old town, walk along the ramparts to the Nomade sculpture. Spend the afternoon among the superyachts of Port Vauban, concluding at the imposing star-shaped Fort Carré watching over the bay."
+        "en": "Start your day at the fragrant Provençal market, then explore the spiritual peace of the Cathedral and Picasso's genius in the Grimaldi Castle. After lunch in the old town, walk along the ramparts to the Nomade sculpture. Spend the afternoon among the superyachts of Port Vauban, concluding at the imposing star-shaped Fort Carré watching over the bay.",
+        "fr": "Commencez la journée au parfumé marché provençal, puis explorez la quiétude de la Cathédrale et le génie de Picasso au château Grimaldi. Après le déjeuner dans la vieille ville, promenez-vous sur les remparts jusqu'à la sculpture Nomade. Passez l'après-midi parmi les superyachts du Port Vauban, et terminez au majestueux Fort Carré dominant la baie."
       },
       "gastro_picks": {
         "de": [
@@ -307,6 +315,12 @@
           "Pre-book the Picasso Museum to avoid long queues.",
           "The market closes around 1 PM, so visit in the morning.",
           "Fort Carré is often closed on Mondays, check the calendar."
+        ],
+        "fr": [
+          "Portez des chaussures confortables pour les rues pavées de la vieille ville.",
+          "Réservez à l'avance le musée Picasso pour éviter les longues files d'attente.",
+          "Le marché ferme vers 13h, visitez-le le matin.",
+          "Le Fort Carré est souvent fermé le lundi, vérifiez le calendrier."
         ]
       }
     },
@@ -333,7 +347,8 @@
             "de": "Kaufen Sie Picknickzutaten für später am Cap.",
             "hu": "Vegyen piknik alapanyagokat a későbbi megállóra.",
             "ro": "Cumpărați ingrediente pentru picnic pentru mai târziu.",
-            "en": "Buy picnic supplies for later at the Cap."
+            "en": "Buy picnic supplies for later at the Cap.",
+            "fr": "Achetez des provisions pour pique-nique plus tard au Cap."
           }
         },
         {
@@ -351,7 +366,8 @@
             "de": "Radeln Sie entspannt am Hafen entlang.",
             "hu": "Kerekezzen kényelmesen a kikötő mentén.",
             "ro": "Mergeți relaxat cu bicicleta de-a lungul portului.",
-            "en": "Cycle leisurely along the harbor."
+            "en": "Cycle leisurely along the harbor.",
+            "fr": "Parcourez le port à vélo tranquillement."
           }
         },
         {
@@ -369,7 +385,8 @@
             "de": "Sicherer Fahrradparkplatz am Eingang vorhanden.",
             "hu": "Biztonságos bicikliparkoló a bejáratnál.",
             "ro": "Parcare sigură pentru biciclete la intrare.",
-            "en": "Secure bike parking available at the entrance."
+            "en": "Secure bike parking available at the entrance.",
+            "fr": "Parking sécurisé pour vélos disponible à l'entrée."
           }
         },
         {
@@ -387,7 +404,8 @@
             "de": "Die Küstenstraße bietet atemberaubende Ausblicke.",
             "hu": "A tengerparti út lélegzetelállító kilátást nyújt.",
             "ro": "Drumul de coastă oferă vederi uluitoare.",
-            "en": "The coastal road offers breathtaking views."
+            "en": "The coastal road offers breathtaking views.",
+            "fr": "La route côtière offre des vues à couper le souffle."
           }
         },
         {
@@ -405,7 +423,8 @@
             "de": "Steiler Anstieg, aber die Aussicht lohnt sich.",
             "hu": "Meredek emelkedő, de a kilátás kárpótol.",
             "ro": "Urcare abruptă, dar vederea merită efortul.",
-            "en": "Steep climb, but the view is worth it."
+            "en": "Steep climb, but the view is worth it.",
+            "fr": "Montée raide, mais la vue en vaut la peine."
           }
         },
         {
@@ -423,7 +442,8 @@
             "de": "Perfekter Ort für eine Abkühlung im Meer.",
             "hu": "Tökéletes hely egy frissítő csobbanásra.",
             "ro": "Locul perfect pentru o baie răcoritoare.",
-            "en": "Perfect spot for a refreshing dip."
+            "en": "Perfect spot for a refreshing dip.",
+            "fr": "Endroit parfait pour un bain rafraîchissant."
           }
         }
       ],
@@ -431,7 +451,8 @@
         "de": "Erkunden Sie Antibes auf zwei Rädern! Starten Sie am Markt und fahren Sie am Hafen vorbei zum Fort Carré. Die Krönung ist die Fahrt entlang der Halbinsel Cap d'Antibes, vorbei an Luxusvillen bis zum Leuchtturm Garoupe und einem entspannten Strandnachmittag.",
         "hu": "Fedezze fel Antibes-t két keréken! Kezdjen a piacon, tekerjen végig a kikötőn a Fort Carréig. A nap fénypontja a Cap d'Antibes félsziget megkerülése lesz, luxusvillák mellett elhaladva a Garoupe világítótoronyig és egy pihentető strandolásig.",
         "ro": "Explorați Antibes pe două roți! Începeți la piață, mergeți pe lângă port până la Fort Carré. Punctul culminant este plimbarea pe peninsula Cap d'Antibes, pe lângă vile de lux până la farul Garoupe și o după-amiază relaxantă la plajă.",
-        "en": "Explore Antibes on two wheels! Start at the market, cycle along the harbor to Fort Carré. The highlight is the ride around the Cap d'Antibes peninsula, passing luxury villas to the Garoupe lighthouse and a relaxing beach afternoon."
+        "en": "Explore Antibes on two wheels! Start at the market, cycle along the harbor to Fort Carré. The highlight is the ride around the Cap d'Antibes peninsula, passing luxury villas to the Garoupe lighthouse and a relaxing beach afternoon.",
+        "fr": "Explorez Antibes à vélo ! Commencez au marché, longez le port jusqu'au Fort Carré. Le point fort est la balade autour de la péninsule du Cap d'Antibes, passant devant des villas de luxe jusqu'au phare de la Garoupe pour un après‑midi plage et détente."
       },
       "gastro_picks": {
         "de": [
@@ -539,6 +560,12 @@
           "An e-bike is recommended for the climb to the lighthouse.",
           "Always lock your bike securely.",
           "Take plenty of water for the Cap loop."
+        ],
+        "fr": [
+          "Évitez les heures de pointe dans les rues étroites.",
+          "Un vélo électrique est recommandé pour la montée vers le phare.",
+          "Verrouillez toujours votre vélo solidement.",
+          "Prenez suffisamment d'eau pour la boucle du Cap."
         ]
       }
     },
@@ -565,7 +592,8 @@
             "de": "Parken Sie im Parkhaus Pré des Pêcheurs.",
             "hu": "Parkoljon a Pré des Pêcheurs mélygarázsban.",
             "ro": "Parcați în parcarea Pré des Pêcheurs.",
-            "en": "Park at the Pré des Pêcheurs underground lot."
+            "en": "Park at the Pré des Pêcheurs underground lot.",
+            "fr": "Garez‑vous au parking souterrain du Pré des Pêcheurs."
           }
         },
         {
@@ -583,7 +611,8 @@
             "de": "Kurzer Fußweg vom Markt.",
             "hu": "Rövid séta a piactól.",
             "ro": "Scurtă plimbare de la piață.",
-            "en": "Short walk from the market."
+            "en": "Short walk from the market.",
+            "fr": "Courte promenade depuis le marché."
           }
         },
         {
@@ -601,7 +630,8 @@
             "de": "Einer der Cluster-Stopps im Zentrum.",
             "hu": "Az óvárosi megállók egyike.",
             "ro": "Una dintre oprirea din clusterul central.",
-            "en": "One of the central cluster stops."
+            "en": "One of the central cluster stops.",
+            "fr": "L'un des arrêts du cluster central."
           }
         },
         {
@@ -619,7 +649,8 @@
             "de": "Großer kostenloser Parkplatz direkt davor.",
             "hu": "Nagy ingyenes parkoló közvetlenül az erőd előtt.",
             "ro": "Parcare mare gratuită chiar în față.",
-            "en": "Large free parking lot right in front."
+            "en": "Large free parking lot right in front.",
+            "fr": "Grand parking gratuit juste en face."
           }
         },
         {
@@ -637,7 +668,8 @@
             "de": "Parkplatz oben am Leuchtturm verfügbar.",
             "hu": "Parkoló elérhető fent a toronynál.",
             "ro": "Parcare disponibilă sus la far.",
-            "en": "Parking available at the top near the lighthouse."
+            "en": "Parking available at the top near the lighthouse.",
+            "fr": "Parking disponible en haut près du phare."
           }
         },
         {
@@ -655,7 +687,8 @@
             "de": "Zu Fuß vom Leuchtturm erreichbar.",
             "hu": "Gyalogosan elérhető a toronytól.",
             "ro": "Accesibil pe jos de la far.",
-            "en": "Accessible on foot from the lighthouse."
+            "en": "Accessible on foot from the lighthouse.",
+            "fr": "Accessible à pied depuis le phare."
           }
         },
         {
@@ -673,7 +706,8 @@
             "de": "Genießen Sie ein Getränk mit Meerblick.",
             "hu": "Élvezzen egy italt tengeri kilátással.",
             "ro": "Savurați o băutură cu vedere la mare.",
-            "en": "Enjoy a drink with a sea view."
+            "en": "Enjoy a drink with a sea view.",
+            "fr": "Profitez d'une boisson avec vue sur la mer."
           }
         }
       ],
@@ -681,7 +715,8 @@
         "de": "Mit dem Auto kombinieren Sie das historische Zentrum mit der wilden Natur des Cap d'Antibes. Nach dem Marktbesuch und Picasso fahren Sie zur Festung Fort Carré. Den Nachmittag verbringen Sie auf der Halbinsel am Leuchtturm Garoupe und wandern ein Stück auf dem berühmten Küstenpfad.",
         "hu": "Autóval kombinálhatja a történelmi központot a Cap d'Antibes vad természetével. A piaci látogatás és Picasso után hajtson a Fort Carré erődhöz. A délutánt töltse a félszigeten a Garoupe világítótoronynál, és tegyen egy rövid túrát a híres tengerparti ösvényen.",
         "ro": "Cu mașina, combinați centrul istoric cu natura sălbatică de pe Cap d'Antibes. După vizitarea pieței și a lui Picasso, mergeți la fortăreața Fort Carré. Petreceți după-amiaza pe peninsulă la farul Garoupe și mergeți puțin pe faimoasa potecă de coastă.",
-        "en": "By car, combine the historical center with the wild nature of Cap d'Antibes. After the market visit and Picasso, drive to the Fort Carré fortress. Spend the afternoon on the peninsula at the Garoupe lighthouse and walk part of the famous coastal path."
+        "en": "By car, combine the historical center with the wild nature of Cap d'Antibes. After the market visit and Picasso, drive to the Fort Carré fortress. Spend the afternoon on the peninsula at the Garoupe lighthouse and walk part of the famous coastal path.",
+        "fr": "En voiture, combinez le centre historique avec la nature sauvage du Cap d'Antibes. Après le marché et le musée Picasso, dirigez‑vous vers la forteresse du Fort Carré. Passez l'après‑midi sur la péninsule à la Garoupe et marchez sur une partie du célèbre sentier côtier."
       },
       "gastro_picks": {
         "de": [
@@ -789,6 +824,12 @@
           "Avoid the coastal road on weekends due to traffic jams.",
           "Do not leave valuables in the car.",
           "The drive to the Cap offers great panoramic stops."
+        ],
+        "fr": [
+          "Le stationnement en vieille ville est difficile, utilisez les parkings couverts.",
+          "Évitez la route côtière le week‑end à cause des embouteillages.",
+          "Ne laissez pas d'objets de valeur dans la voiture.",
+          "La route vers le Cap offre d'excellents points panoramiques."
         ]
       }
     },
@@ -815,7 +856,8 @@
             "de": "Vom Bahnhof Antibes in 10 Min zu Fuß erreichbar.",
             "hu": "Az Antibes vasútállomástól 10 perc séta.",
             "ro": "La 10 minute de mers pe jos de gara Antibes.",
-            "en": "10-minute walk from Antibes train station."
+            "en": "10-minute walk from Antibes train station.",
+            "fr": "10 minutes à pied depuis la gare d'Antibes."
           }
         },
         {
@@ -833,7 +875,8 @@
             "de": "Spaziergang entlang der Quais zum Stadtzentrum.",
             "hu": "Séta a rakparton a városközpont felé.",
             "ro": "Plimbare pe chei spre centrul orașului.",
-            "en": "Walk along the quays towards the city center."
+            "en": "Walk along the quays towards the city center.",
+            "fr": "Marchez le long des quais en direction du centre-ville."
           }
         },
         {
@@ -851,7 +894,8 @@
             "de": "Zentraler Cluster-Stopp in der Altstadt.",
             "hu": "Központi megálló az óvárosban.",
             "ro": "Oprire centrală în orașul vechi.",
-            "en": "Central cluster stop in the old town."
+            "en": "Central cluster stop in the old town.",
+            "fr": "Arrêt du cluster central dans la vieille ville."
           }
         },
         {
@@ -869,7 +913,8 @@
             "de": "Zu Fuß vom Markt erreichbar.",
             "hu": "Gyalogosan elérhető a piactól.",
             "ro": "Accesibil pe jos de la piață.",
-            "en": "Accessible on foot from the market."
+            "en": "Accessible on foot from the market.",
+            "fr": "Accessible à pied depuis le marché."
           }
         },
         {
@@ -887,7 +932,8 @@
             "de": "Nutzen Sie die Envibus Linie 2.",
             "hu": "Használja az Envibus 2-es vonalát.",
             "ro": "Folosiți linia Envibus 2.",
-            "en": "Use Envibus line 2."
+            "en": "Use Envibus line 2.",
+            "fr": "Utilisez la ligne 2 d'Envibus."
           }
         },
         {
@@ -905,7 +951,8 @@
             "de": "Kurzer, steiler Spaziergang von der Bushaltestelle.",
             "hu": "Rövid, meredek séta a buszmegállótól.",
             "ro": "Scurtă plimbare abruptă de la stația de autobuz.",
-            "en": "Short, steep walk from the bus stop."
+            "en": "Short, steep walk from the bus stop.",
+            "fr": "Courte marche raide depuis l'arrêt de bus."
           }
         }
       ],
@@ -913,7 +960,8 @@
         "de": "Antibes lässt sich hervorragend mit dem Bus erkunden. Nach dem Besuch der Festung und des Hafens bringt Sie der Bus ins Herz der Altstadt zum Markt und dem Picasso-Museum. Am Nachmittag bringt Sie die Linie 2 direkt zum Cap d'Antibes für maritime Ausblicke am Leuchtturm.",
         "hu": "Antibes remekül felfedezhető busszal. Az erőd és a kikötő után a busz az óváros szívébe viszi, a piachoz és a Picasso Múzeumhoz. Délután a 2-es vonal egyenesen a Cap d'Antibes félszigetre viszi a világítótoronyhoz.",
         "ro": "Antibes poate fi explorat excelent cu autobuzul. După vizitarea cetății și a portului, autobuzul vă duce în inima orașului vechi la piață și Muzeul Picasso. După-amiaza, linia 2 vă duce direct pe Cap d'Antibes pentru vederi maritime la far.",
-        "en": "Antibes can be explored excellently by bus. After visiting the fortress and the harbor, the bus takes you to the heart of the old town for the market and Picasso Museum. In the afternoon, line 2 takes you straight to Cap d'Antibes for maritime views at the lighthouse."
+        "en": "Antibes can be explored excellently by bus. After visiting the fortress and the harbor, the bus takes you to the heart of the old town for the market and Picasso Museum. In the afternoon, line 2 takes you straight to Cap d'Antibes for maritime views at the lighthouse.",
+        "fr": "Antibes se découvre très bien en bus. Après la visite de la forteresse et du port, le bus vous mène au cœur de la vieille ville pour le marché et le musée Picasso. L'après‑midi, la ligne 2 vous emmène directement au Cap d'Antibes pour des vues maritimes au phare."
       },
       "gastro_picks": {
         "de": [
@@ -1021,6 +1069,12 @@
           "Buses at the Cap run less frequently, check the timetable.",
           "Use the 'Envibus' app for real-time information.",
           "Antibes train station is a good starting point."
+        ],
+        "fr": [
+          "Achetez un pass journée (Ticket Azur) pour des trajets illimités.",
+          "Les bus au Cap passent moins fréquemment, vérifiez les horaires.",
+          "Utilisez l'application « Envibus » pour les informations en temps réel.",
+          "La gare d'Antibes est un bon point de départ."
         ]
       }
     }

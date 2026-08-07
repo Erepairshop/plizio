@@ -21,7 +21,8 @@
             "de": "Vieille Ville",
             "hu": "Óváros",
             "ro": "Orașul Vechi",
-            "en": "Old Town"
+            "en": "Old Town",
+            "fr": "Vieille Ville"
           },
           "coords": [
             8.5953,
@@ -37,7 +38,7 @@
             "hu": "Figyeld a görög feliratú utcatáblákat.",
             "ro": "Observați numele străzilor în greacă.",
             "en": "Look for the Greek street names.",
-            "fr": "Cherchez les noms de rues en grec."
+            "fr": "Cherchez les noms de rues grecques."
           }
         },
         {
@@ -45,7 +46,8 @@
             "de": "Église Grecque",
             "hu": "Görög templom",
             "ro": "Biserica Greacă",
-            "en": "Greek Church"
+            "en": "Greek Church",
+            "fr": "Église grecque"
           },
           "coords": [
             8.5945,
@@ -69,7 +71,8 @@
             "de": "Église Latine",
             "hu": "Latin templom",
             "ro": "Biserica Latină",
-            "en": "Latin Church"
+            "en": "Latin Church",
+            "fr": "Église latine"
           },
           "coords": [
             8.5955,
@@ -93,7 +96,8 @@
             "de": "Port de Plaisance",
             "hu": "Kikötő",
             "ro": "Portul de Agrement",
-            "en": "Marina"
+            "en": "Marina",
+            "fr": "Marina"
           },
           "coords": [
             8.5965,
@@ -109,7 +113,7 @@
             "hu": "Tökéletes hely egy kávéhoz a vízparton.",
             "ro": "Ideal pentru o cafea pe malul apei.",
             "en": "Perfect for a coffee by the water.",
-            "fr": "Idéal pour un café au bord de l'eau."
+            "fr": "Parfait pour un café au bord de l'eau."
           }
         },
         {
@@ -117,7 +121,8 @@
             "de": "Plage de Menasina",
             "hu": "Menasina strand",
             "ro": "Plaja Menasina",
-            "en": "Menasina Beach"
+            "en": "Menasina Beach",
+            "fr": "Plage de Menasina"
           },
           "coords": [
             8.6015,
@@ -133,7 +138,7 @@
             "hu": "Kristálytiszta víz, ideális sznorkelezéshez.",
             "ro": "Apă cristalină, ideală pentru snorkeling.",
             "en": "Crystal clear water, ideal for snorkeling.",
-            "fr": "Une eau cristalline, idéale pour le snorkeling."
+            "fr": "Eau cristalline, idéale pour le snorkeling."
           }
         },
         {
@@ -141,7 +146,8 @@
             "de": "Chapelle Saint-Antoine",
             "hu": "Szent Antal kápolna",
             "ro": "Capela Sfântul Anton",
-            "en": "Chapelle Saint-Antoine"
+            "en": "Chapelle Saint-Antoine",
+            "fr": "Chapelle Saint-Antoine"
           },
           "coords": [
             8.5975,
@@ -157,7 +163,7 @@
             "hu": "Csendes hely a nap lezárásához.",
             "ro": "Un loc liniștit pentru finalul zilei.",
             "en": "A quiet spot to end the day.",
-            "fr": "Un endroit calme pour terminer la journée."
+            "fr": "Un endroit tranquille pour terminer la journée."
           }
         }
       ],
@@ -166,7 +172,7 @@
         "hu": "Reggel Cargèse kanyargós utcáin kalandozunk, ahol a 17. századi görög betelepülés nyomait kutatjuk. Délben meglátogatjuk a két ikonikus templomot, melyek egymással szemben állnak – a vallási türelem jelképei. Délután a Menasina strand türkizkék vizében pihenünk. Az estét a kikötőben vagy a tengerre néző Szent Antal kápolnánál zárjuk egy békés pillanattal.",
         "ro": "Dimineața explorați străzile șerpuite din Cargèse, marcate de imigrația greacă din secolul al XVII-lea. La prânz, vizitați cele două biserici iconice care stau față în față – un simbol al toleranței religioase. După-amiaza vă relaxați pe apele turcoaz ale plajei Menasina. Seara se încheie liniștit în port sau la mica capelă Saint-Antoine, cu vedere spre mare.",
         "en": "In the morning, explore the winding streets of Cargèse, shaped by the Greek immigration of the 17th century. At midday, visit the two iconic churches facing each other – a symbol of religious tolerance. In the afternoon, relax by the turquoise waters of Menasina Beach. End the evening peacefully at the marina or by the Saint-Antoine chapel overlooking the sea.",
-        "fr": "Le matin, explorez les ruelles sinueuses de Cargèse, façonnées par l'immigration grecque du XVIIe siècle. À midi, visitez les deux églises emblématiques qui se font face – un symbole de tolérance religieuse. L'après-midi, détendez-vous au bord des eaux turquoise de la plage de Menasina. Terminez la soirée paisiblement au port de plaisance ou près de la chapelle Saint-Antoine dominant la mer."
+        "fr": "Le matin, explorez les ruelles sinueuses de Cargèse, façonnées par l'immigration grecque du XVIIe siècle. À midi, visitez les deux églises emblématiques face à face – un symbole de tolérance religieuse. L'après-midi, détendez-vous près des eaux turquoise de la plage de Menasina. Terminez la soirée paisiblement à la marina ou près de la chapelle Saint-Antoine surplombant la mer."
       },
       "gastro_picks": {
         "de": [
@@ -360,10 +366,10 @@
           "Carry enough water for the walk to the beach."
         ],
         "fr": [
-          "Portez des chaussures confortables car le village possède des ruelles escarpées.",
+          "Portez des chaussures confortables car le village a des ruelles escarpées.",
           "Les églises ne sont souvent ouvertes que le matin.",
           "Garez-vous à l'entrée du village, le centre est très étroit.",
-          "Prévoyez suffisamment d'eau pour la marche jusqu'à la plage."
+          "Emportez assez d'eau pour la marche jusqu'à la plage."
         ]
       }
     },
@@ -380,7 +386,8 @@
             "de": "Port de Plaisance",
             "hu": "Kikötő",
             "ro": "Portul de Agrement",
-            "en": "Marina"
+            "en": "Marina",
+            "fr": "Marina"
           },
           "coords": [
             8.5965,
@@ -396,7 +403,7 @@
             "hu": "Tökéletes startpont a parti túrákhoz.",
             "ro": "Punct de plecare pentru tururi de coastă.",
             "en": "Starting point for coastal tours.",
-            "fr": "Point de départ des excursions côtières."
+            "fr": "Point de départ pour les tours côtiers."
           }
         },
         {
@@ -404,7 +411,8 @@
             "de": "Plage de Pero",
             "hu": "Pero strand",
             "ro": "Plaja Pero",
-            "en": "Pero Beach"
+            "en": "Pero Beach",
+            "fr": "Plage de Pero"
           },
           "coords": [
             8.5855,
@@ -428,7 +436,8 @@
             "de": "Tour d'Omigna",
             "hu": "Omigna torony",
             "ro": "Turnul Omigna",
-            "en": "Omigna Tower"
+            "en": "Omigna Tower",
+            "fr": "Tour d'Omigna"
           },
           "coords": [
             8.5655,
@@ -444,7 +453,7 @@
             "hu": "Magányos genoai torony a szikla szélén.",
             "ro": "Un turn genovez solitar pe faleză.",
             "en": "A solitary Genoese tower on the cliff edge.",
-            "fr": "Une tour génoise solitaire au bord de la falaise."
+            "fr": "Une tour génoise solitaire en bord de falaise."
           }
         },
         {
@@ -452,7 +461,8 @@
             "de": "Plage de Chiuni",
             "hu": "Chiuni strand",
             "ro": "Plaja Chiuni",
-            "en": "Chiuni Beach"
+            "en": "Chiuni Beach",
+            "fr": "Plage de Chiuni"
           },
           "coords": [
             8.5755,
@@ -468,7 +478,7 @@
             "hu": "Népszerű strand vízi sport lehetőségekkel.",
             "ro": "Plajă populară cu facilități pentru sporturi nautice.",
             "en": "Popular beach with water sports options.",
-            "fr": "Plage populaire proposant des sports nautiques."
+            "fr": "Plage prisée avec options de sports nautiques."
           }
         },
         {
@@ -476,7 +486,8 @@
             "de": "Vieille Ville",
             "hu": "Óváros",
             "ro": "Orașul Vechi",
-            "en": "Old Town"
+            "en": "Old Town",
+            "fr": "Vieille Ville"
           },
           "coords": [
             8.5953,
@@ -492,7 +503,7 @@
             "hu": "Zárd a napot egy kézműves fagyival.",
             "ro": "Bucurați-vă de o înghețată la final.",
             "en": "Enjoy an ice cream at the end.",
-            "fr": "Dégustez une glace pour finir."
+            "fr": "Savourez une glace en fin de parcours."
           }
         }
       ],
@@ -501,7 +512,7 @@
         "hu": "Ez a kerékpártúra Cargèse-től északra, a vad tengerpart mentén vezet. A kikötőből indulva tekerünk a tágas Pero strandig. A túra fénypontja az Omigna-fok, ahol egy büszke genoai torony őrzi a vizet. A Chiuni strandon tartott pihenő után térünk vissza a faluba, miközben a lemenő nap vörösre festi a parti sziklákat.",
         "ro": "Acest tur cu bicicleta vă poartă de-a lungul coastei sălbatice la nord de Cargèse. Începeți din port și pedalați spre plaja largă Pero. Punctul culminant este drumul spre vârful Omigna, unde un turn genovez mândru veghează marea. După o pauză pe plaja Chiuni, reveniți în sat în timp ce soarele apune lent, colorând stâncile în roșu.",
         "en": "This bike tour takes you along the wild coast north of Cargèse. Starting at the marina, cycle to the wide Pero beach. The highlight is the ride to the Omigna point, where a proud Genoese tower watches over the sea. After a break at Chiuni beach, return to the village as the setting sun begins to paint the rocks red.",
-        "fr": "Ce tour à vélo vous emmène le long de la côte sauvage au nord de Cargèse. En partant du port de plaisance, pédalez jusqu'à la grande plage de Pero. Le point fort est la balade jusqu'à la pointe d'Omigna, où une fière tour génoise veille sur la mer. Après une pause à la plage de Chiuni, retournez au village alors que le soleil couchant commence à teinter les rochers de rouge."
+        "fr": "Cette excursion à vélo vous mène le long de la côte sauvage au nord de Cargèse. En partant de la marina, rejoignez la large plage de Pero. Le point fort est la route vers le cap d'Omigna, où une fière tour génoise veille sur la mer. Après une pause à la plage de Chiuni, retournez au village alors que le soleil couchant commence à teindre les roches en rouge."
       },
       "gastro_picks": {
         "de": [
@@ -675,10 +686,10 @@
           "Secure your bike well during beach breaks."
         ],
         "fr": [
-          "Un VTT est recommandé pour les sentiers menant à la tour.",
-          "Attention aux randonneurs sur les sentiers côtiers.",
-          "L'itinéraire est vallonné, ne sous-estimez pas le soleil.",
-          "Sécurisez bien votre vélo pendant les pauses à la plage."
+          "Un VTT est recommandé pour les chemins menant à la tour.",
+          "Faites attention aux randonneurs sur les sentiers côtiers.",
+          "Le parcours est vallonné, ne sous-estimez pas le soleil.",
+          "Sécurisez bien votre vélo pendant les pauses plage."
         ]
       }
     },
@@ -695,7 +706,8 @@
             "de": "Église Grecque & Latine",
             "hu": "Görög és Latin templom",
             "ro": "Bisericile Greacă și Latină",
-            "en": "Greek & Latin Churches"
+            "en": "Greek & Latin Churches",
+            "fr": "Églises grecque et latine"
           },
           "coords": [
             8.595,
@@ -711,7 +723,7 @@
             "hu": "Látogasd meg mindkét templomot egyszerre.",
             "ro": "Vizitați ambele biserici într-o singură oprire.",
             "en": "Visit both churches in one stop.",
-            "fr": "Visitez les deux églises en un seul arrêt."
+            "fr": "Visitez les deux églises en une seule halte."
           }
         },
         {
@@ -719,7 +731,8 @@
             "de": "Tour d'Orchino",
             "hu": "Orchino torony",
             "ro": "Turnul Orchino",
-            "en": "Orchino Tower"
+            "en": "Orchino Tower",
+            "fr": "Tour d'Orchino"
           },
           "coords": [
             8.5255,
@@ -743,7 +756,8 @@
             "de": "Plage de Chiuni",
             "hu": "Chiuni strand",
             "ro": "Plaja Chiuni",
-            "en": "Chiuni Beach"
+            "en": "Chiuni Beach",
+            "fr": "Plage de Chiuni"
           },
           "coords": [
             8.5755,
@@ -759,7 +773,7 @@
             "hu": "Ideális egy hosszú déli fürdőzéshez.",
             "ro": "Ideal pentru o baie lungă la prânz.",
             "en": "Ideal for a long midday swim.",
-            "fr": "Idéal pour une longue baignade à la mi-journée."
+            "fr": "Idéale pour une longue baignade à midi."
           }
         },
         {
@@ -767,7 +781,8 @@
             "de": "Port de Plaisance",
             "hu": "Kikötő",
             "ro": "Portul de Agrement",
-            "en": "Marina"
+            "en": "Marina",
+            "fr": "Marina"
           },
           "coords": [
             8.5965,
@@ -783,7 +798,7 @@
             "hu": "Nézd a beérkező halászhajókat.",
             "ro": "Urmăriți bărcile de pescuit.",
             "en": "Watch the fishing boats coming in.",
-            "fr": "Regardez les bateaux de pêche rentrer au port."
+            "fr": "Regardez les bateaux de pêche rentrer."
           }
         },
         {
@@ -791,7 +806,8 @@
             "de": "Vieille Ville",
             "hu": "Óváros",
             "ro": "Orașul Vechi",
-            "en": "Old Town"
+            "en": "Old Town",
+            "fr": "Vieille Ville"
           },
           "coords": [
             8.5953,
@@ -816,7 +832,7 @@
         "hu": "Autóval kibővítjük a sugarat a távolabbi genoai tornyokig. A faluközpont egyedülálló templomainak megtekintése után az Orchino-félszigetre autózunk az ottani őrtoronyhoz. A délutánt a Chiuni strand tágas partján töltjük, majd kora este visszatérünk Cargèse kikötőjébe, és a napot egy pohár korzikai borral zárjuk a falu szívében.",
         "ro": "Cu mașina vă extindeți raza către turnurile genoveze mai îndepărtate. După vizitarea bisericilor unice din centrul satului, conduceți spre peninsula Orchino pentru a admira turnul de veghe. După-amiaza o petreceți pe plaja întinsă Chiuni, înainte de a reveni în portul Cargèse spre seară, încheind ziua cu un pahar de vin corsican în inima satului.",
         "en": "By car, you can expand your reach to the more distant Genoese towers. After visiting the unique churches in the village center, drive to the Orchino peninsula to admire the watchtower. Spend the afternoon at the expansive Chiuni beach before returning to the Cargèse marina in the early evening to end the day with a glass of Corsican wine in the heart of the village.",
-        "fr": "En voiture, vous pouvez élargir votre rayon d'action vers les tours génoises plus lointaines. Après avoir visité les églises uniques du centre du village, roulez vers la presqu'île d'Orchino pour admirer la tour de guet. Passez l'après-midi sur la vaste plage de Chiuni avant de revenir au port de Cargèse en début de soirée pour finir la journée avec un verre de vin corse au cœur du village."
+        "fr": "En voiture, vous pouvez étendre votre périmètre jusqu'aux tours génoises plus éloignées. Après avoir visité les églises uniques du centre du village, rendez-vous à la presqu'île d'Orchino pour admirer la tour de guet. Passez l'après-midi sur la vaste plage de Chiuni avant de revenir à la marina de Cargèse en début de soirée pour terminer la journée avec un verre de vin corse au cœur du village."
       },
       "gastro_picks": {
         "de": [
@@ -966,7 +982,7 @@
         ],
         "fr": [
           "Les routes sont étroites et sinueuses, conduisez prudemment.",
-          "Le stationnement à la plage de Chiuni est limité en été.",
+          "Le parking à la plage de Chiuni est limité en été.",
           "Faites le plein à l'avance car les stations-service sont rares.",
           "Attention aux chèvres sur la route."
         ]
@@ -985,7 +1001,8 @@
             "de": "Vieille Ville",
             "hu": "Óváros",
             "ro": "Orașul Vechi",
-            "en": "Old Town"
+            "en": "Old Town",
+            "fr": "Vieille Ville"
           },
           "coords": [
             8.5953,
@@ -1009,7 +1026,8 @@
             "de": "Église Grecque",
             "hu": "Görög templom",
             "ro": "Biserica Greacă",
-            "en": "Greek Church"
+            "en": "Greek Church",
+            "fr": "Église grecque"
           },
           "coords": [
             8.5945,
@@ -1025,7 +1043,7 @@
             "hu": "Rövid séta a falu központjától.",
             "ro": "Scurtă plimbare din centrul satului.",
             "en": "Short walk from the village center.",
-            "fr": "À quelques pas du centre du village."
+            "fr": "Courte marche depuis le centre du village."
           }
         },
         {
@@ -1033,7 +1051,8 @@
             "de": "Plage de Pero",
             "hu": "Pero strand",
             "ro": "Plaja Pero",
-            "en": "Pero Beach"
+            "en": "Pero Beach",
+            "fr": "Plage de Pero"
           },
           "coords": [
             8.5855,
@@ -1049,7 +1068,7 @@
             "hu": "Gyalog vagy shuttle járattal is elérhető.",
             "ro": "Accesibilă pe jos sau cu naveta din sat.",
             "en": "Accessible on foot or via shuttle from the village.",
-            "fr": "Accessible à pied ou via la navette depuis le village."
+            "fr": "Accessible à pied ou par navette depuis le village."
           }
         },
         {
@@ -1057,7 +1076,8 @@
             "de": "Port de Plaisance",
             "hu": "Kikötő",
             "ro": "Portul de Agrement",
-            "en": "Marina"
+            "en": "Marina",
+            "fr": "Marina"
           },
           "coords": [
             8.5965,
@@ -1073,7 +1093,7 @@
             "hu": "Utolsó megálló a visszautazás előtt.",
             "ro": "Ultima oprire înainte de plecare.",
             "en": "Final stop before heading back.",
-            "fr": "Dernier arrêt avant le retour."
+            "fr": "Dernière halte avant le retour."
           }
         }
       ],
@@ -1082,7 +1102,7 @@
         "hu": "Cargèse autó nélkül is jól felfedezhető. A faluközpontban kezdünk a történelmi épületekkel és a híres templomokkal. Rövid séta vagy utazás után elérjük a Pero strandot, ahol a tengerparton pihenhetünk. A délutánt a kikötőben töltjük, élvezve a tengeri hangulatot, mielőtt a busz visszaindulna.",
         "ro": "Cargèse poate fi descoperit cu ușurință și fără mașină personală. Începeți în centrul satului cu clădirile sale istorice și bisericile faimoase. După o scurtă plimbare sau călătorie, ajungeți la plaja Pero pentru ore relaxante la mare. După-amiaza o petreceți în zona portului, savurând atmosfera maritimă înainte de plecarea autobuzului.",
         "en": "Cargèse can be easily explored without a car. Start in the village center with its historical buildings and famous churches. After a short walk or ride, reach Pero beach for relaxing hours by the sea. Spend the afternoon in the marina area, enjoying the maritime atmosphere before your bus departs.",
-        "fr": "Cargèse peut être facilement explorée sans voiture. Commencez par le centre du village avec ses bâtiments historiques et ses célèbres églises. Après une courte marche ou un trajet, rejoignez la plage de Pero pour des heures de détente au bord de la mer. Passez l'après-midi dans le secteur du port de plaisance, en profitant de l'atmosphère maritime avant le départ de votre bus."
+        "fr": "Cargèse se visite facilement sans voiture. Commencez au centre du village avec ses bâtiments historiques et ses églises célèbres. Après une courte marche ou un trajet, rejoignez la plage de Pero pour des heures de détente au bord de la mer. Passez l'après-midi dans le secteur de la marina, en profitant de l'ambiance maritime avant le départ de votre bus."
       },
       "gastro_picks": {
         "de": [
@@ -1212,9 +1232,9 @@
         ],
         "fr": [
           "Vérifiez les horaires actuels des bus interurbains.",
-          "L'arrêt est généralement situé sur la route principale.",
+          "L'arrêt se situe généralement sur la route principale.",
           "En été, des navettes saisonnières vers les plages sont disponibles.",
-          "Prévoyez une marge de manœuvre pour d'éventuels retards."
+          "Prévoyez une marge pour d'éventuels retards."
         ]
       }
     }

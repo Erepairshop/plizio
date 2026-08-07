@@ -31,7 +31,8 @@
             "de": "Steigen Sie auf den Turm für den Blick auf den Ärmelkanal.",
             "hu": "Mássz fel a toronyba a csatornára nyíló kilátásért.",
             "ro": "Urcați în turn pentru vederea spre Canalul Mânecii.",
-            "en": "Climb the belfry for views across the English Channel."
+            "en": "Climb the belfry for views across the English Channel.",
+            "fr": "Montez dans le beffroi pour admirer la vue sur la Manche."
           }
         },
         {
@@ -49,7 +50,8 @@
             "de": "Rodins Meisterwerk direkt vor dem Rathaus.",
             "hu": "Rodin mesterműve közvetlenül a városháza előtt.",
             "ro": "Capodopera lui Rodin chiar în fața primăriei.",
-            "en": "Rodin's masterpiece located right in front of the town hall."
+            "en": "Rodin's masterpiece located right in front of the town hall.",
+            "fr": "Le chef-d'œuvre de Rodin situé juste devant l'hôtel de ville."
           }
         },
         {
@@ -67,7 +69,8 @@
             "de": "Erfahren Sie alles über die berühmte Calais-Spitze.",
             "hu": "Ismerd meg a híres calais-i csipke történetét.",
             "ro": "Aflați totul despre celebra dantelă de Calais.",
-            "en": "Discover the intricate history of famous Calais lace."
+            "en": "Discover the intricate history of famous Calais lace.",
+            "fr": "Découvrez l'histoire complexe de la célèbre dentelle de Calais."
           }
         },
         {
@@ -85,7 +88,8 @@
             "de": "Einzigartige englisch-gotische Architektur in Frankreich.",
             "hu": "Egyedülálló angol gótikus stílus Franciaországban.",
             "ro": "Arhitectură gotică engleză unică în Franța.",
-            "en": "Unique English-Gothic architecture found in France."
+            "en": "Unique English-Gothic architecture found in France.",
+            "fr": "Architecture anglo-gothique unique que l'on trouve en France."
           }
         },
         {
@@ -103,7 +107,8 @@
             "de": "Ein 58 Meter hoher Leuchtturm im Stadtzentrum.",
             "hu": "58 méter magas világítótorony a városközpontban.",
             "ro": "Un far de 58 de metri în centrul orașului.",
-            "en": "A 58-meter tall lighthouse located in the city center."
+            "en": "A 58-meter tall lighthouse located in the city center.",
+            "fr": "Un phare de 58 mètres situé en plein centre-ville."
           }
         },
         {
@@ -121,7 +126,8 @@
             "de": "Alte Festung, die den Hafen bewacht.",
             "hu": "A kikötőt őrző régi erődítmény.",
             "ro": "Vechea fortăreață care păzește portul.",
-            "en": "Old fortress guarding the entrance to the port."
+            "en": "Old fortress guarding the entrance to the port.",
+            "fr": "Ancienne forteresse gardant l'entrée du port."
           }
         },
         {
@@ -139,7 +145,8 @@
             "de": "Genießen Sie den feinen Sand und den Blick auf die Fähren.",
             "hu": "Élvezd a finom homokot és a kompok látványát.",
             "ro": "Bucurați-vă de nisipul fin și de vederea feriboturilor.",
-            "en": "Enjoy the fine sand and watch the ferries depart."
+            "en": "Enjoy the fine sand and watch the ferries depart.",
+            "fr": "Profitez du sable fin et regardez les ferries partir."
           }
         }
       ],
@@ -147,7 +154,8 @@
         "de": "Beginnen Sie Ihren Tag im prächtigen Rathaus und bewundern Sie Rodins berühmte Statuen. Nach einem Einblick in die Textilgeschichte im Spitzenmuseum spazieren Sie durch das historische Viertel zur Kirche Notre-Dame. Der Nachmittag gehört dem maritimen Erbe am Leuchtturm und dem Fort Risban, bevor Sie den Tag entspannt am weitläufigen Sandstrand ausklingen lassen.",
         "hu": "Kezdje a napot a pompás városházánál, megcsodálva Rodin híres szobrait. A csipkemúzeum textilipari történetei után sétáljon át a történelmi negyeden a Notre-Dame templomig. A délután a tengeri örökségé: látogasson el a világítótoronyhoz és a Fort Risban erődbe, majd zárja a napot pihenéssel a tágas homokos tengerparton.",
         "ro": "Începeți ziua la magnifica primărie și admirați faimoasele statui ale lui Rodin. După o incursiune în istoria textilă la Muzeul Dantelei, plimbați-vă prin cartierul istoric până la Biserica Notre-Dame. După-amiaza este dedicată moștenirii maritime la far și la Fort Risban, înainte de a încheia ziua relaxându-vă pe plaja întinsă de nisip.",
-        "en": "Start your day at the magnificent Town Hall and admire Rodin's famous statues. After diving into textile history at the Lace Museum, walk through the historic district to Notre-Dame Church. The afternoon focuses on maritime heritage at the lighthouse and Fort Risban, before ending the day relaxing on the expansive sandy beach."
+        "en": "Start your day at the magnificent Town Hall and admire Rodin's famous statues. After diving into textile history at the Lace Museum, walk through the historic district to Notre-Dame Church. The afternoon focuses on maritime heritage at the lighthouse and Fort Risban, before ending the day relaxing on the expansive sandy beach.",
+        "fr": "Commencez votre journée à la magnifique mairie et admirez les célèbres statues de Rodin. Après avoir plongé dans l'histoire textile au musée de la dentelle, parcourez le quartier historique jusqu'à l'église Notre-Dame. L'après-midi se concentre sur le patrimoine maritime au phare et au Fort Risban, avant de terminer la journée en vous relaxant sur la vaste plage de sable."
       },
       "gastro_picks": {
         "de": [
@@ -307,6 +315,12 @@
           "Watch the ferries departing on the horizon.",
           "Weather can change quickly by the coast.",
           "Combine city sightseeing with a long beach walk."
+        ],
+        "fr": [
+          "Calais est très plat et parfait pour être exploré à pied.",
+          "Regardez les ferries partir à l'horizon.",
+          "Le temps peut changer rapidement sur la côte.",
+          "Alliez visites en ville et longue promenade sur la plage."
         ]
       }
     },
@@ -333,7 +347,8 @@
             "de": "Sicherer Fahrradabstellplatz am Rathaus.",
             "hu": "Biztonságos kerékpártároló a városházánál.",
             "ro": "Parcare sigură pentru biciclete la primărie.",
-            "en": "Secure bike parking available at the town hall."
+            "en": "Secure bike parking available at the town hall.",
+            "fr": "Stationnement sécurisé pour vélos disponible à la mairie."
           }
         },
         {
@@ -351,7 +366,8 @@
             "de": "Ein Muss für Mode- und Geschichtsinteressierte.",
             "hu": "Divat és történelem kedvelőinek kötelező.",
             "ro": "Obligatoriu pentru iubitorii de modă și istorie.",
-            "en": "A must-visit for fashion and history enthusiasts."
+            "en": "A must-visit for fashion and history enthusiasts.",
+            "fr": "À ne pas manquer pour les amateurs de mode et d'histoire."
           }
         },
         {
@@ -369,7 +385,8 @@
             "de": "Besuchen Sie den Garten der Kirche.",
             "hu": "Látogasson el a templom kertjébe.",
             "ro": "Vizitați grădina bisericii.",
-            "en": "Visit the peaceful church garden."
+            "en": "Visit the peaceful church garden.",
+            "fr": "Visitez le paisible jardin de l'église."
           }
         },
         {
@@ -387,7 +404,8 @@
             "de": "Kurzer Stopp am Fuße des Leuchtturms.",
             "hu": "Rövid megálló a világítótorony lábánál.",
             "ro": "Scurtă oprire la baza farului.",
-            "en": "Short stop at the base of the lighthouse."
+            "en": "Short stop at the base of the lighthouse.",
+            "fr": "Court arrêt au pied du phare."
           }
         },
         {
@@ -405,7 +423,8 @@
             "de": "Radeln Sie entlang des Hafenbeckens.",
             "hu": "Tekerjen végig a kikötői medence mentén.",
             "ro": "Pedalați de-a lungul bazinului portului.",
-            "en": "Cycle along the harbor basin."
+            "en": "Cycle along the harbor basin.",
+            "fr": "Pédalez le long du bassin du port."
           }
         },
         {
@@ -423,7 +442,8 @@
             "de": "Historische Mauern mit Meerblick.",
             "hu": "Történelmi falak tengeri kilátással.",
             "ro": "Ziduri istorice cu vedere la mare.",
-            "en": "Historic walls with a sea view."
+            "en": "Historic walls with a sea view.",
+            "fr": "Remparts historiques avec vue sur la mer."
           }
         },
         {
@@ -441,7 +461,8 @@
             "de": "Fahren Sie auf dem Radweg direkt am Strand.",
             "hu": "Tekerjen a közvetlenül a parton lévő kerékpárúton.",
             "ro": "Mergeți pe pista de biciclete direct de pe plajă.",
-            "en": "Ride on the dedicated bike path right by the beach."
+            "en": "Ride on the dedicated bike path right by the beach.",
+            "fr": "Roulez sur la piste cyclable dédiée juste au bord de la plage."
           }
         },
         {
@@ -459,7 +480,8 @@
             "de": "Charmantes altes Hafenviertel.",
             "hu": "Bájos régi kikötőnegyed.",
             "ro": "Cartier portuar vechi și fermecător.",
-            "en": "Charming old harbor district."
+            "en": "Charming old harbor district.",
+            "fr": "Charmant ancien quartier du port."
           }
         }
       ],
@@ -467,7 +489,8 @@
         "de": "Entdecken Sie Calais mit dem Fahrrad auf flachen, Küstenwegen. Vom prunkvollen Zentrum radeln Sie zum Spitzenmuseum und weiter durch das Hafenviertel. Genießen Sie die Freiheit auf zwei Rädern entlang der Strandpromenade und besuchen Sie historische Festungen wie das Fort Risban. Ein perfekter Mix aus Kultur und frischer Meeresbrise.",
         "hu": "Fedezze fel Calais-t kerékpárral a sík, part menti utakon. A pompás központból tekerjen a csipkemúzeumhoz, majd tovább a kikötői negyeden át. Élvezze a szabadságot két keréken a tengerparti sétányon, és látogasson el olyan történelmi erődökbe, mint a Fort Risban. A kultúra és a friss tengeri szellő tökéletes keveréke.",
         "ro": "Descoperiți Calais cu bicicleta pe trasee plate de coastă. Din centrul somptuos, pedalați spre Muzeul Dantelei și continuați prin zona portuară. Bucurați-vă de libertatea pe două roți de-a lungul falezei și vizitați fortărețe istorice precum Fort Risban. Un mix perfect de cultură și briză marină proaspătă.",
-        "en": "Discover Calais by bike along flat, coastal paths. From the grand center, cycle to the Lace Museum and then through the harbor district. Enjoy the freedom of two wheels along the beachfront promenade and visit historic fortifications like Fort Risban. A perfect mix of culture and fresh sea breeze."
+        "en": "Discover Calais by bike along flat, coastal paths. From the grand center, cycle to the Lace Museum and then through the harbor district. Enjoy the freedom of two wheels along the beachfront promenade and visit historic fortifications like Fort Risban. A perfect mix of culture and fresh sea breeze.",
+        "fr": "Découvrez Calais à vélo le long de pistes côtières plates. Depuis le grand centre, pédalez jusqu'au Musée de la Dentelle puis traversez le quartier du port. Profitez de la liberté des deux roues sur la promenade en bord de mer et visitez des fortifications historiques comme le Fort Risban. Un parfait mélange de culture et d'air marin."
       },
       "gastro_picks": {
         "de": [
@@ -591,6 +614,12 @@
           "The wind can be strong when cycling on the coast.",
           "Always lock your bike securely.",
           "The city is very bike-friendly and flat."
+        ],
+        "fr": [
+          "Utilisez les pistes cyclables balisées le long du front de mer.",
+          "Le vent peut être fort quand on roule sur la côte.",
+          "Verrouillez toujours votre vélo en toute sécurité.",
+          "La ville est très adaptée aux vélos et plate."
         ]
       }
     },
@@ -617,7 +646,8 @@
             "de": "Parkplatz direkt hinter dem Rathaus.",
             "hu": "Parkoló közvetlenül a városháza mögött.",
             "ro": "Parcare chiar în spatele primăriei.",
-            "en": "Parking available right behind the town hall."
+            "en": "Parking available right behind the town hall.",
+            "fr": "Parking disponible juste derrière la mairie."
           }
         },
         {
@@ -635,7 +665,8 @@
             "de": "Zu Fuß vom Rathaus erreichbar.",
             "hu": "Gyalogosan elérhető a városházától.",
             "ro": "Accesibil pe jos de la primărie.",
-            "en": "Accessible on foot from the town hall."
+            "en": "Accessible on foot from the town hall.",
+            "fr": "Accessible à pied depuis la mairie."
           }
         },
         {
@@ -653,7 +684,8 @@
             "de": "Großer Parkplatz für Museumsbesucher.",
             "hu": "Nagy parkoló a múzeum látogatóinak.",
             "ro": "Parcare mare pentru vizitatorii muzeului.",
-            "en": "Large parking lot for museum visitors."
+            "en": "Large parking lot for museum visitors.",
+            "fr": "Grand parking pour les visiteurs du musée."
           }
         },
         {
@@ -671,7 +703,8 @@
             "de": "Zu Fuß vom Museum (kurzer Spaziergang).",
             "hu": "Gyalog a múzeumtól (rövid séta).",
             "ro": "Pe jos de la muzeu (o scurtă plimbare).",
-            "en": "Walk from the museum (short stroll)."
+            "en": "Walk from the museum (short stroll).",
+            "fr": "Marche depuis le musée (courte promenade)."
           }
         },
         {
@@ -689,7 +722,8 @@
             "de": "Parken in der Nähe des Courgain Maritime.",
             "hu": "Parkolás a Courgain Maritime közelében.",
             "ro": "Parcare în apropiere de Courgain Maritime.",
-            "en": "Park near the Courgain Maritime district."
+            "en": "Park near the Courgain Maritime district.",
+            "fr": "Garez-vous près du quartier Courgain Maritime."
           }
         },
         {
@@ -707,7 +741,8 @@
             "de": "Fahrt zum Hafen-Eingang.",
             "hu": "Vezetés a kikötő bejáratához.",
             "ro": "Conducți până la intrarea în port.",
-            "en": "Drive to the port entrance."
+            "en": "Drive to the port entrance.",
+            "fr": "Conduisez jusqu'à l'entrée du port."
           }
         },
         {
@@ -725,7 +760,8 @@
             "de": "Viele kostenlose Parkplätze direkt am Deich.",
             "hu": "Sok ingyenes parkoló közvetlenül a gáton.",
             "ro": "Multe locuri de parcare gratuite chiar pe dig.",
-            "en": "Plenty of free parking available right on the dike."
+            "en": "Plenty of free parking available right on the dike.",
+            "fr": "Beaucoup de places de parking gratuites directement sur la digue."
           }
         },
         {
@@ -743,7 +779,8 @@
             "de": "Spektakuläre Klippen 15 Min. von Calais entfernt.",
             "hu": "Látványos sziklák 15 percre Calais-tól.",
             "ro": "Stânci spectaculoase la 15 minute de Calais.",
-            "en": "Spectacular cliffs just 15 mins from Calais."
+            "en": "Spectacular cliffs just 15 mins from Calais.",
+            "fr": "Falaises spectaculaires à seulement 15 min de Calais."
           }
         }
       ],
@@ -751,7 +788,8 @@
         "de": "Mit dem Auto verbinden Sie die kulturellen Highlights von Calais mit der wilden Natur der Opalküste. Nach der Besichtigung des Zentrums und der Museen fahren Sie bequem zum Hafen und zum Strand. Den krönenden Abschluss bildet eine kurze Fahrt zum Cap Blanc-Nez, wo Sie einen atemberaubenden Blick über den Ärmelkanal bis nach England genießen können.",
         "hu": "Autóval összekötheti Calais kulturális látnivalóit az Opálpart vad természetével. A központ és a múzeumok megtekintése után kényelmesen átgurulhat a kikötőhöz és a strandra. A nap fénypontja egy rövid autóút a Cap Blanc-Nez-hez, ahonnan lélegzetelállító kilátás nyílik a csatornára, egészen Angliáig.",
         "ro": "Cu mașina, combinați punctele culturale ale Calais-ului cu natura sălbatică a Coastei de Opal. După vizitarea centrului și a muzeelor, conduceți confortabil spre port și plajă. Punctul culminant al zilei este o scurtă călătorie la Cap Blanc-Nez, de unde puteți savura o vedere uluitoare peste Canal spre Anglia.",
-        "en": "By car, you can combine the cultural highlights of Calais with the wild nature of the Opal Coast. After touring the center and museums, drive comfortably to the harbor and beach. The day concludes with a short drive to Cap Blanc-Nez, where you can enjoy breathtaking views across the Channel to England."
+        "en": "By car, you can combine the cultural highlights of Calais with the wild nature of the Opal Coast. After touring the center and museums, drive comfortably to the harbor and beach. The day concludes with a short drive to Cap Blanc-Nez, where you can enjoy breathtaking views across the Channel to England.",
+        "fr": "En voiture, vous pouvez combiner les incontournables culturels de Calais avec la nature sauvage de la Côte d'Opale. Après la visite du centre et des musées, conduisez confortablement jusqu'au port et à la plage. La journée se termine par un court trajet jusqu'au Cap Blanc-Nez, où vous pourrez profiter de vues à couper le souffle sur la Manche jusqu'à l'Angleterre."
       },
       "gastro_picks": {
         "de": [
@@ -859,6 +897,12 @@
           "The coastal road D940 offers great scenic views.",
           "Avoid rush hours around the ferry terminal.",
           "A car is ideal for visiting the nearby cliffs."
+        ],
+        "fr": [
+          "Le parking à la plage est souvent gratuit.",
+          "La route côtière D940 offre de superbes vues panoramiques.",
+          "Évitez les heures de pointe autour du terminal ferry.",
+          "La voiture est idéale pour visiter les falaises proches."
         ]
       }
     },
@@ -885,7 +929,8 @@
             "de": "Zentrale Bushaltestelle 'Théâtre' in der Nähe.",
             "hu": "Központi buszmegálló 'Théâtre' a közelben.",
             "ro": "Stația centrală de autobuz 'Théâtre' este în apropiere.",
-            "en": "Central bus stop 'Théâtre' is located nearby."
+            "en": "Central bus stop 'Théâtre' is located nearby.",
+            "fr": "L'arrêt central 'Théâtre' est situé à proximité."
           }
         },
         {
@@ -903,7 +948,8 @@
             "de": "Mit der Linie 1 oder 4 erreichbar.",
             "hu": "Az 1-es vagy 4-es busszal elérhető.",
             "ro": "Accesibil cu linia 1 sau 4.",
-            "en": "Accessible via bus line 1 or 4."
+            "en": "Accessible via bus line 1 or 4.",
+            "fr": "Accessible via les lignes de bus 1 ou 4."
           }
         },
         {
@@ -921,7 +967,8 @@
             "de": "Historischer Platz im Herzen von Calais-Nord.",
             "hu": "Történelmi tér Calais-Nord szívében.",
             "ro": "Piață istorică în inima Calais-Nord.",
-            "en": "Historic square in the heart of Calais-Nord."
+            "en": "Historic square in the heart of Calais-Nord.",
+            "fr": "Place historique au cœur de Calais-Nord."
           }
         },
         {
@@ -939,7 +986,8 @@
             "de": "Kurzer Fußweg vom Place d'Armes.",
             "hu": "Rövid séta a Place d'Armes-tól.",
             "ro": "Scurtă plimbare de la Place d'Armes.",
-            "en": "Short walk from Place d'Armes."
+            "en": "Short walk from Place d'Armes.",
+            "fr": "Courte marche depuis la Place d'Armes."
           }
         },
         {
@@ -957,7 +1005,8 @@
             "de": "Haltestelle 'Phare' direkt vor dem Turm.",
             "hu": "'Phare' megálló közvetlenül a torony előtt.",
             "ro": "Stația 'Phare' chiar în fața turnului.",
-            "en": "Bus stop 'Phare' right in front of the tower."
+            "en": "Bus stop 'Phare' right in front of the tower.",
+            "fr": "Arrêt de bus 'Phare' juste devant la tour."
           }
         },
         {
@@ -975,7 +1024,8 @@
             "de": "Grenzbereich zwischen Hafen und Stadt.",
             "hu": "Határterület a kikötő és a város között.",
             "ro": "Zona de graniță între port și oraș.",
-            "en": "The border area between the harbor and the city."
+            "en": "The border area between the harbor and the city.",
+            "fr": "La zone frontière entre le port et la ville."
           }
         },
         {
@@ -993,7 +1043,8 @@
             "de": "Die 'Navette de la Plage' (Strand-Shuttle) nutzen.",
             "hu": "Használja a 'Navette de la Plage' strandjáratot.",
             "ro": "Folosiți 'Navette de la Plage' (naveta plajei).",
-            "en": "Use the 'Navette de la Plage' beach shuttle."
+            "en": "Use the 'Navette de la Plage' beach shuttle.",
+            "fr": "Utilisez la 'Navette de la Plage'."
           }
         }
       ],
@@ -1001,7 +1052,8 @@
         "de": "Nutzen Sie das effiziente Bussystem von Calais, um stressfrei zwischen dem Zentrum, den Museen und dem Strand zu pendeln. Die kurzen Wege und gut getakteten Shuttles bringen Sie bequem zu allen Sehenswürdigkeiten, vom historischen Rathaus bis zum maritimen Hafenviertel, ohne Parkplatzsorgen.",
         "hu": "Használja Calais hatékony buszhálózatát, hogy stresszmentesen közlekedjen a központ, a múzeumok és a strand között. A rövid távolságok és a sűrűn járó buszok kényelmesen elviszik minden látnivalóhoz a városházától a kikötőig, parkolási gondok nélkül.",
         "ro": "Folosiți sistemul eficient de autobuze din Calais pentru a naveta fără stres între centru, muzee și plajă. Distanțele scurte și navetele bine programate vă duc confortabil la toate obiectivele, de la primăria istorică până la zona portuară, fără grija parcării.",
-        "en": "Use Calais's efficient bus system to commute stress-free between the center, museums, and the beach. Short distances and well-timed shuttles take you comfortably to all sights, from the historic Town Hall to the maritime harbor district, without any parking worries."
+        "en": "Use Calais's efficient bus system to commute stress-free between the center, museums, and the beach. Short distances and well-timed shuttles take you comfortably to all sights, from the historic Town Hall to the maritime harbor district, without any parking worries.",
+        "fr": "Utilisez le réseau de bus efficace de Calais pour vous déplacer sans stress entre le centre, les musées et la plage. De courtes distances et des navettes bien cadencées vous conduisent confortablement à tous les sites, de l'Hôtel de Ville historique au quartier maritime, sans soucis de stationnement."
       },
       "gastro_picks": {
         "de": [
@@ -1109,6 +1161,12 @@
           "Use the 'Vivabus' app for real-time departures.",
           "Line 5 goes directly to the beach.",
           "Calais-Ville station is the central transit hub."
+        ],
+        "fr": [
+          "Les bus à Calais sont partiellement gratuits (réseau Imag'in).",
+          "Utilisez l'application 'Vivabus' pour les départs en temps réel.",
+          "La ligne 5 va directement à la plage.",
+          "La gare Calais-Ville est le hub de transport central."
         ]
       }
     }

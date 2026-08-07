@@ -21,7 +21,8 @@
             "de": "Musée Val d'Histoire",
             "hu": "Val d'Histoire Múzeum",
             "ro": "Muzeul Val d'Histoire",
-            "en": "Val d'Histoire Museum"
+            "en": "Val d'Histoire Museum",
+            "fr": "Val d'Histoire Museum"
           },
           "coords": [
             6.9812,
@@ -37,7 +38,7 @@
             "hu": "Ismerd meg, hogyan lett a pásztorfaluból világklasszis síparadicsom.",
             "ro": "Aflați cum a devenit un sat de fermieri o stațiune de talie mondială.",
             "en": "Learn how a farming village transformed into a world-class resort.",
-            "fr": "Découvrez comment un village agricole s'est transformé en une station de classe mondiale."
+            "fr": "Découvrez comment un village agricole s'est transformé en une station de renommée mondiale."
           }
         },
         {
@@ -45,7 +46,8 @@
             "de": "Église Saint-Bernard",
             "hu": "Szent Bernát-templom",
             "ro": "Biserica Sfântul Bernard",
-            "en": "Saint-Bernard Church"
+            "en": "Saint-Bernard Church",
+            "fr": "Saint-Bernard Church"
           },
           "coords": [
             6.9801,
@@ -69,7 +71,8 @@
             "de": "Le Fornet",
             "hu": "Le Fornet ófalu",
             "ro": "Le Fornet",
-            "en": "Le Fornet"
+            "en": "Le Fornet",
+            "fr": "Le Fornet"
           },
           "coords": [
             7.0012,
@@ -85,7 +88,7 @@
             "hu": "Autentikus hegyi falu hagyományos kőházakkal és pala tetőkkel.",
             "ro": "Un sat autentic cu case tradiționale de piatră și acoperișuri de ardezie.",
             "en": "An authentic village with traditional stone houses and slate roofs.",
-            "fr": "Un village authentique avec des maisons traditionnelles en pierre et des toits en lauze."
+            "fr": "Un village authentique aux maisons en pierre traditionnelles et toits d'ardoise."
           }
         },
         {
@@ -93,7 +96,8 @@
             "de": "Cascade du Fornet",
             "hu": "Fornet-vízesés",
             "ro": "Cascada du Fornet",
-            "en": "Fornet Waterfall"
+            "en": "Fornet Waterfall",
+            "fr": "Fornet Waterfall"
           },
           "coords": [
             7.0045,
@@ -109,7 +113,7 @@
             "hu": "Rövid séta vezet ehhez a rejtett gyöngyszemhez az Isère partján.",
             "ro": "O scurtă plimbare duce la această bijuterie ascunsă de pe malul râului Isère.",
             "en": "A short walk leads to this hidden gem on the banks of the Isère river.",
-            "fr": "Une courte marche mène à ce joyau caché sur les rives de l'Isère."
+            "fr": "Une courte promenade mène à cette pépite cachée sur les rives de l'Isère."
           }
         },
         {
@@ -117,7 +121,8 @@
             "de": "Lac de l'Ouillette",
             "hu": "Ouillette-tó",
             "ro": "Lacul de l'Ouillette",
-            "en": "Ouillette Lake"
+            "en": "Ouillette Lake",
+            "fr": "Ouillette Lake"
           },
           "coords": [
             6.9655,
@@ -133,7 +138,7 @@
             "hu": "Használd a Solaise felvonót, hogy elérd ezt a 2500 méteren fekvő tavat.",
             "ro": "Folosiți telecabina Solaise pentru a ajunge la acest lac montan la 2500m.",
             "en": "Use the Solaise lift to reach this mountain lake at 2500m altitude.",
-            "fr": "Utilisez la remontée de Solaise pour atteindre ce lac de montagne à 2500 m d'altitude."
+            "fr": "Utilisez le téléphérique de la Solaise pour atteindre ce lac d'altitude à 2500 m."
           }
         }
       ],
@@ -142,7 +147,7 @@
         "hu": "A napot Val-d'Isère történelmi központjában kezdjük. A helyi múzeumban megismerhetjük a falu felemelkedését, majd a Szent Bernát-templom barokk falai között pihenhetünk. Egy kellemes séta vezet az Isère mentén Le Fornet-be, ahol a hagyományos kőházak között igazi alpesi hangulat fogad. A közeli vízesés megtekintése után felvonóval jutunk fel az Ouillette-tóhoz, ahol 2500 méteres magasságban, a csúcsok árnyékában zárhatjuk a napot.",
         "ro": "Ziua începe în centrul istoric al stațiunii Val-d'Isère. Descoperiți transformarea fascinantă a satului la muzeu, înainte de a vă bucura de liniștea barocă a bisericii Saint-Bernard. O plimbare frumoasă vă poartă în amonte spre cătunul Le Fornet, unde timpul pare să stea în loc printre casele de piatră. După ce vizitați cascada din apropiere, urcați cu telecabina la Lac de l'Ouillette pentru a încheia ziua cu o panoramă alpină spectaculoasă.",
         "en": "Your day begins in the historic heart of Val-d'Isère. Discover the village's fascinating transformation at the museum before enjoying the Baroque serenity of Saint-Bernard Church. A scenic walk takes you upstream to the hamlet of Le Fornet, where time seems to stand still among the stone houses. After visiting the nearby waterfall, take the cable car up to Lac de l'Ouillette to end your day surrounded by breathtaking Alpine panoramas at 2500 meters.",
-        "fr": "Votre journée commence dans le cœur historique de Val-d'Isère. Découvrez la fascinante transformation du village au musée avant de savourer la sérénité baroque de l'église Saint-Bernard. Une promenade pittoresque vous emmène ensuite vers l'amont jusqu'au hameau du Fornet, où le temps semble s'être arrêté parmi les maisons en pierre. Après avoir visité la cascade voisine, montez en téléphérique jusqu'au lac de l'Ouillette pour terminer votre journée entouré de panoramas alpins à couper le souffle à 2500 mètres."
+        "fr": "Votre journée commence au cœur historique de Val-d'Isère. Découvrez la fascinante transformation du village au musée avant d'apprécier la sérénité baroque de l'église Saint-Bernard. Une promenade pittoresque vous conduit en amont jusqu'au hameau du Fornet, où le temps semble s'arrêter parmi les maisons en pierre. Après la visite de la cascade voisine, prenez le téléphérique pour le Lac de l'Ouillette et terminez votre journée entouré de panoramas alpins à couper le souffle à 2500 mètres."
       },
       "gastro_picks": {
         "de": [
@@ -336,10 +341,10 @@
           "Val-d'Isère is compact; almost everything in the center is reachable within 15 minutes on foot."
         ],
         "fr": [
-          "Portez des chaussures de randonnée robustes, même en été, pour les sentiers autour du Fornet.",
-          "Le téléphérique de Solaise est souvent accessible aux piétons ; vérifiez les horaires d'été.",
+          "Portez des chaussures de randonnée robustes même en été pour les sentiers autour du Fornet.",
+          "Le téléphérique de la Solaise est souvent accessible aux piétons ; vérifiez les horaires d'été.",
           "Le soleil à 2500 m est très fort ; la crème solaire est indispensable.",
-          "Val-d'Isère est compacte ; presque tout dans le centre est accessible en 15 minutes à pied."
+          "Val-d'Isère est compact ; presque tout le centre est accessible en 15 minutes à pied."
         ]
       },
       "variants": {
@@ -348,7 +353,8 @@
             "de": "Ihr Tag beginnt im historischen Zentrum von Val-d'Isère. Entdecken Sie im Museum die faszinierende Verwandlung des Ortes, bevor Sie die barocke Stille der Kirche Saint-Bernard genießen. Ein schöner Spaziergang führt Sie flussaufwärts in den Ortsteil Le Fornet, wo die Zeit in den engen Gassen stillzustehen scheint. Nach dem Besuch des nahegelegenen Wasserfalls schweben Sie mit der Seilbahn zum Lac de l'Ouillette, um den Tag bei einem atemberaubenden Alpenpanorama ausklingen zu lassen.",
             "hu": "A napot Val-d'Isère történelmi központjában kezdjük. A helyi múzeumban megismerhetjük a falu felemelkedését, majd a Szent Bernát-templom barokk falai között pihenhetünk. Egy kellemes séta vezet az Isère mentén Le Fornet-be, ahol a hagyományos kőházak között igazi alpesi hangulat fogad. A közeli vízesés megtekintése után felvonóval jutunk fel az Ouillette-tóhoz, ahol 2500 méteres magasságban, a csúcsok árnyékában zárhatjuk a napot.",
             "ro": "Ziua începe în centrul istoric al stațiunii Val-d'Isère. Descoperiți transformarea fascinantă a satului la muzeu, înainte de a vă bucura de liniștea barocă a bisericii Saint-Bernard. O plimbare frumoasă vă poartă în amonte spre cătunul Le Fornet, unde timpul pare să stea în loc printre casele de piatră. După ce vizitați cascada din apropiere, urcați cu telecabina la Lac de l'Ouillette pentru a încheia ziua cu o panoramă alpină spectaculoasă.",
-            "en": "Your day begins in the historic heart of Val-d'Isère. Discover the village's fascinating transformation at the museum before enjoying the Baroque serenity of Saint-Bernard Church. A scenic walk takes you upstream to the hamlet of Le Fornet, where time seems to stand still among the stone houses. After visiting the nearby waterfall, take the cable car up to Lac de l'Ouillette to end your day surrounded by breathtaking Alpine panoramas at 2500 meters."
+            "en": "Your day begins in the historic heart of Val-d'Isère. Discover the village's fascinating transformation at the museum before enjoying the Baroque serenity of Saint-Bernard Church. A scenic walk takes you upstream to the hamlet of Le Fornet, where time seems to stand still among the stone houses. After visiting the nearby waterfall, take the cable car up to Lac de l'Ouillette to end your day surrounded by breathtaking Alpine panoramas at 2500 meters.",
+            "fr": "Votre journée commence au cœur historique de Val-d'Isère. Découvrez la fascinante transformation du village au musée avant d'apprécier la sérénité baroque de l'église Saint-Bernard. Une promenade pittoresque vous conduit en amont jusqu'au hameau du Fornet, où le temps semble s'arrêter parmi les maisons en pierre. Après la visite de la cascade voisine, prenez le téléphérique pour le Lac de l'Ouillette et terminez votre journée entouré de panoramas alpins à couper le souffle à 2500 mètres."
           },
           "stops": [
             {
@@ -356,13 +362,15 @@
                 "de": "Musée Val d'Histoire",
                 "hu": "Val d'Histoire Múzeum",
                 "ro": "Muzeul Val d'Histoire",
-                "en": "Val d'Histoire Museum"
+                "en": "Val d'Histoire Museum",
+                "fr": "Val d'Histoire Museum"
               },
               "tip_5lang": {
                 "de": "Erfahren Sie, wie aus einem Bauerndorf ein Weltklasse-Resort wurde.",
                 "hu": "Ismerd meg, hogyan lett a pásztorfaluból világklasszis síparadicsom.",
                 "ro": "Aflați cum a devenit un sat de fermieri o stațiune de talie mondială.",
-                "en": "Learn how a farming village transformed into a world-class resort."
+                "en": "Learn how a farming village transformed into a world-class resort.",
+                "fr": "Découvrez comment un village agricole s'est transformé en une station de renommée mondiale."
               }
             },
             {
@@ -370,13 +378,15 @@
                 "de": "Église Saint-Bernard",
                 "hu": "Szent Bernát-templom",
                 "ro": "Biserica Sfântul Bernard",
-                "en": "Saint-Bernard Church"
+                "en": "Saint-Bernard Church",
+                "fr": "Saint-Bernard Church"
               },
               "tip_5lang": {
                 "de": "Bewundern Sie den Barockaltar und den markanten Glockenturm aus dem 17. Jhd.",
                 "hu": "Csodáld meg a 17. századi barokk oltárt és a jellegzetes harangtornyot.",
                 "ro": "Admirați altarul baroc și clopotnița distinctivă din secolul al XVII-lea.",
-                "en": "Admire the 17th-century Baroque altar and the distinctive bell tower."
+                "en": "Admire the 17th-century Baroque altar and the distinctive bell tower.",
+                "fr": "Admirez l'autel baroque du XVIIe siècle et le clocher distinctif."
               }
             },
             {
@@ -384,13 +394,15 @@
                 "de": "Le Fornet",
                 "hu": "Le Fornet ófalu",
                 "ro": "Le Fornet",
-                "en": "Le Fornet"
+                "en": "Le Fornet",
+                "fr": "Le Fornet"
               },
               "tip_5lang": {
                 "de": "Ein authentisches Dorf mit traditionellen Steinhäusern und Schieferdächern.",
                 "hu": "Autentikus hegyi falu hagyományos kőházakkal és pala tetőkkel.",
                 "ro": "Un sat autentic cu case tradiționale de piatră și acoperișuri de ardezie.",
-                "en": "An authentic village with traditional stone houses and slate roofs."
+                "en": "An authentic village with traditional stone houses and slate roofs.",
+                "fr": "Un village authentique aux maisons en pierre traditionnelles et toits d'ardoise."
               }
             },
             {
@@ -398,13 +410,15 @@
                 "de": "Cascade du Fornet",
                 "hu": "Fornet-vízesés",
                 "ro": "Cascada du Fornet",
-                "en": "Fornet Waterfall"
+                "en": "Fornet Waterfall",
+                "fr": "Fornet Waterfall"
               },
               "tip_5lang": {
                 "de": "Ein kurzer Spaziergang führt zu diesem versteckten Juwel am Isère-Ufer.",
                 "hu": "Rövid séta vezet ehhez a rejtett gyöngyszemhez az Isère partján.",
                 "ro": "O scurtă plimbare duce la această bijuterie ascunsă de pe malul râului Isère.",
-                "en": "A short walk leads to this hidden gem on the banks of the Isère river."
+                "en": "A short walk leads to this hidden gem on the banks of the Isère river.",
+                "fr": "Une courte promenade mène à cette pépite cachée sur les rives de l'Isère."
               }
             },
             {
@@ -412,13 +426,15 @@
                 "de": "Lac de l'Ouillette",
                 "hu": "Ouillette-tó",
                 "ro": "Lacul de l'Ouillette",
-                "en": "Ouillette Lake"
+                "en": "Ouillette Lake",
+                "fr": "Ouillette Lake"
               },
               "tip_5lang": {
                 "de": "Nutzen Sie den Solaise-Lift, um diesen Bergsee auf 2500m zu erreichen.",
                 "hu": "Használd a Solaise felvonót, hogy elérd ezt a 2500 méteren fekvő tavat.",
                 "ro": "Folosiți telecabina Solaise pentru a ajunge la acest lac montan la 2500m.",
-                "en": "Use the Solaise lift to reach this mountain lake at 2500m altitude."
+                "en": "Use the Solaise lift to reach this mountain lake at 2500m altitude.",
+                "fr": "Utilisez le téléphérique de la Solaise pour atteindre ce lac d'altitude à 2500 m."
               }
             }
           ],
@@ -580,6 +596,12 @@
               "The Solaise cable car is often accessible to pedestrians; check summer schedules.",
               "The sun at 2500m is very strong; sunscreen is a must.",
               "Val-d'Isère is compact; almost everything in the center is reachable within 15 minutes on foot."
+            ],
+            "fr": [
+              "Portez des chaussures de randonnée robustes même en été pour les sentiers autour du Fornet.",
+              "Le téléphérique de la Solaise est souvent accessible aux piétons ; vérifiez les horaires d'été.",
+              "Le soleil à 2500 m est très fort ; la crème solaire est indispensable.",
+              "Val-d'Isère est compact ; presque tout le centre est accessible en 15 minutes à pied."
             ]
           }
         },
@@ -589,7 +611,7 @@
             "hu": "Reggel a múzeum fala biztosít száraz menedéket. Délben a templom csendje és fedele véd a záportól. Délután a Fornet-vízesés dübörgése elnyomja az eső kopogását a ködben. Este a Ouillette-tó partján a párás levegő különleges hangulatot áraszt.",
             "ro": "Dimineața, muzeul oferă un refugiu uscat împotriva ploii alpine. La prânz, biserica este locul ideal pentru un moment de liniște sub adăpost. După-amiaza, satul Le Fornet pare desprins din basme prin ceață. Seara se încheie cu o plimbare revigorantă pe malul lacului.",
             "en": "Morning starts undercover at the local museum. Midday brings a dry pause within the thick stone walls of the church. Afternoon reveals a moody, misty side of the waterfall and stone hamlets. Evening by the lake offers fresh, rain-washed air and serene mountain views.",
-            "fr": "Le matin commence à l'abri au musée local. Le midi offre une pause au sec entre les murs épais de l'église. L'après-midi révèle le côté brumeux de la cascade et des hameaux en pierre. La soirée au bord du lac offre un air frais lavé par la pluie et des vues sereines sur les montagnes."
+            "fr": "La matinée commence à l'abri au musée local. À midi, faites une pause sèche dans les épaisses murailles de pierre de l'église. L'après-midi révèle un côté brumeux et mélancolique de la cascade et des hameaux de pierre. Le soir au lac offre une air frais lavé par la pluie et des vues sereines sur la montagne."
           },
           "stops": [
             {
@@ -598,7 +620,8 @@
                 "de": "Idealer Ort, um den stärksten Regen am Morgen trocken zu überbrücken.",
                 "hu": "Tökéletes helyszín a reggeli záporok száraz átvészelésére.",
                 "ro": "Locul ideal pentru a evita ploaia puternică de dimineață.",
-                "en": "The perfect indoor spot to wait out the morning rain showers."
+                "en": "The perfect indoor spot to wait out the morning rain showers.",
+                "fr": "L'endroit parfait en intérieur pour attendre les averses du matin."
               }
             },
             {
@@ -607,7 +630,8 @@
                 "de": "Die massiven Holztüren bieten Schutz und eine ruhige Atmosphäre.",
                 "hu": "A vaskos falak és faajtók csendes, száraz menedéket nyújtanak.",
                 "ro": "Zidurile groase oferă adăpost și o atmosferă liniștită.",
-                "en": "Thick stone walls provide a quiet and dry sanctuary from the weather."
+                "en": "Thick stone walls provide a quiet and dry sanctuary from the weather.",
+                "fr": "Les murs épais en pierre offrent un sanctuaire calme et sec contre le mauvais temps."
               }
             },
             {
@@ -616,7 +640,8 @@
                 "de": "Die alten Steinhäuser wirken bei Regen besonders rustikal und gemütlich.",
                 "hu": "A régi kőházak az esőben még rusztikusabb látványt nyújtanak.",
                 "ro": "Casele vechi de piatră arată spectaculos sub cerul înnorat.",
-                "en": "Old stone houses look remarkably rustic and cozy in the rain."
+                "en": "Old stone houses look remarkably rustic and cozy in the rain.",
+                "fr": "Les vieilles maisons en pierre paraissent remarquablement rustiques et accueillantes sous la pluie."
               }
             },
             {
@@ -625,7 +650,8 @@
                 "de": "Vorsicht auf den nassen Felsen am Aussichtspunkt, Rutschgefahr.",
                 "hu": "Vigyázat a vizes sziklákon a kilátópontnál, rendkívül csúszósak.",
                 "ro": "Atenție pe stâncile umede de la punctul de belvedere, pericol de alunecare.",
-                "en": "Be careful on the wet rocks near the viewpoint; they are slippery."
+                "en": "Be careful on the wet rocks near the viewpoint; they are slippery.",
+                "fr": "Faites attention aux rochers mouillés près du point de vue ; ils sont glissants."
               }
             },
             {
@@ -634,7 +660,8 @@
                 "de": "Ein wasserfester Poncho ist am offenen Ufer bei Wind wichtig.",
                 "hu": "A nyitott tóparton a szél miatt elengedhetetlen a vízálló poncsó.",
                 "ro": "O pelerină impermeabilă este esențială pe malul expus al lacului.",
-                "en": "A waterproof poncho is essential on the exposed lakeshore during wind."
+                "en": "A waterproof poncho is essential on the exposed lakeshore during wind.",
+                "fr": "Une cape imperméable est essentielle sur la rive exposée du lac en cas de vent."
               }
             }
           ],
@@ -669,10 +696,10 @@
             ],
             "fr": [
               "Portez des chaussures de randonnée montantes pour une meilleure adhérence sur les pierres glissantes.",
-              "Utilisez les navettes gratuites si la pluie devient trop forte.",
-              "Les arches en pierre du vieux village offrent un abri temporaire.",
-              "Vérifiez les conditions de visibilité pour le sentier de la cascade avant de partir.",
-              "Gardez vos appareils électroniques dans des sacs étanches à l'intérieur de votre sac."
+              "Utilisez les bus navettes gratuits si la pluie devient trop forte.",
+              "Les arcades en pierre du vieux village offrent un abri temporaire.",
+              "Vérifiez les conditions de visibilité du sentier menant à la cascade avant de partir.",
+              "Gardez vos appareils électroniques dans des sacs étanches à l'intérieur de votre sac à dos."
             ]
           }
         },
@@ -682,7 +709,7 @@
             "hu": "Reggel a múzeum melege készít fel a téri kalandra. Délben a templom körüli hómező szikrázik a napsütésben. Délután Le Fornet kőházai között sétálva igazi hófödte mesevilágba csöppenünk. Este a befagyott tó felett a korai naplemente festi meg az eget.",
             "ro": "Dimineața, căldura muzeului vă pregătește pentru aventura în zăpadă. La prânz, zăpada sclipește în jurul vechii biserici de piatră. După-amiaza, satul Le Fornet devine un regat de gheață autentic. Seara se încheie devreme, cu reflexii pe suprafața înghețată a lacului.",
             "en": "Morning warmth in the museum provides a cozy start to the day. Midday light sparkles on the fresh snow surrounding the historic church. Afternoon strolls through Le Fornet feel like a journey into a winter fairy tale. Evening comes early, with the sun setting over the frozen lake surface.",
-            "fr": "La chaleur matinale du musée offre un début de journée douillet. La lumière de midi scintille sur la neige fraîche entourant l'église historique. Les balades de l'après-midi au Fornet ressemblent à un voyage dans un conte de fées hivernal. Le soir arrive tôt, avec le soleil se couchant sur la surface gelée du lac."
+            "fr": "La chaleur matinale au musée offre un début de journée cosy. À midi, la lumière scintille sur la neige fraîche entourant l'église historique. Les promenades de l'après-midi à travers Le Fornet ressemblent à un voyage dans un conte d'hiver. Le soir arrive tôt, le soleil se couchant sur la surface gelée du lac."
           },
           "stops": [
             {
@@ -691,7 +718,8 @@
                 "de": "Perfekt zum Aufwärmen zwischen den winterlichen Außenspaziergängen.",
                 "hu": "Tökéletes melegedőhely a téli szabadtéri séták között.",
                 "ro": "Locul perfect pentru încălzire între plimbările prin zăpadă.",
-                "en": "The perfect place to warm up between winter outdoor strolls."
+                "en": "The perfect place to warm up between winter outdoor strolls.",
+                "fr": "L'endroit parfait pour se réchauffer entre les balades hivernales extérieures."
               }
             },
             {
@@ -700,7 +728,8 @@
                 "de": "Achten Sie auf Eiszapfen, die von den historischen Dächern hängen.",
                 "hu": "Ügyeljen a történelmi tetőkről lelógó jégcsapokra a bejáratnál.",
                 "ro": "Atenție la țurțurii care atârnă de pe acoperișurile istorice.",
-                "en": "Watch out for icicles hanging from the historic rooftops near the entrance."
+                "en": "Watch out for icicles hanging from the historic rooftops near the entrance.",
+                "fr": "Attention aux stalactites de glace suspendues aux toits historiques près de l'entrée."
               }
             },
             {
@@ -709,7 +738,8 @@
                 "de": "Die engen Gassen sind oft tief verschneit, tragen Sie feste Stiefel.",
                 "hu": "A szűk utcák gyakran mély hóval borítottak, viseljen hótaposót.",
                 "ro": "Ulițele înguste sunt adesea acoperite de zăpadă mare, purtați ghete.",
-                "en": "The narrow alleys are often deep in snow; wear sturdy winter boots."
+                "en": "The narrow alleys are often deep in snow; wear sturdy winter boots.",
+                "fr": "Les ruelles étroites sont souvent profondes en neige ; portez des bottes d'hiver solides."
               }
             },
             {
@@ -718,7 +748,8 @@
                 "de": "Im Winter oft teilweise gefroren, ein beeindruckendes Naturschauspiel.",
                 "hu": "Télen gyakran részben befagy, lenyűgöző jégszobrokat alkotva.",
                 "ro": "Iarna este adesea parțial înghețată, formând sculpturi de gheață.",
-                "en": "Often partially frozen in winter, creating impressive ice sculptures."
+                "en": "Often partially frozen in winter, creating impressive ice sculptures.",
+                "fr": "Souvent partiellement gelée en hiver, créant d'impressionnantes sculptures de glace."
               }
             },
             {
@@ -727,7 +758,8 @@
                 "de": "Die Sonne verschwindet hier gegen 16:30 Uhr hinter den Bergen.",
                 "hu": "A nap itt 16:30 körül tűnik el a hegyek mögött.",
                 "ro": "Soarele dispare după munți aici în jurul orei 16:30.",
-                "en": "The sun disappears behind the mountains here around 16:30."
+                "en": "The sun disappears behind the mountains here around 16:30.",
+                "fr": "Le soleil disparaît derrière les montagnes ici vers 16:30."
               }
             }
           ],
@@ -761,11 +793,11 @@
               "Mountain air is very dry at this altitude; use sunblock and lip balm."
             ],
             "fr": [
-              "Habillez-vous en plusieurs couches et portez des sous-vêtements thermiques.",
+              "Habillez-vous en couches et portez des sous-vêtements thermiques pour vous protéger.",
               "Les sentiers peuvent être verglacés ; les crampons sont fortement recommandés.",
-              "Essayez de terminer votre promenade vers 17h00 avant l'obscurité totale.",
-              "Emportez un thermos de thé chaud pour vos pauses sur le sentier.",
-              "L'air de la montagne est très sec à cette altitude ; utilisez de la crème solaire et du baume à lèvres."
+              "Visez à terminer votre balade avant 17:00, avant la tombée totale de la nuit.",
+              "Emportez un thermos de thé chaud pour les pauses le long du sentier.",
+              "L'air de montagne est très sec à cette altitude ; utilisez de la crème solaire et un baume à lèvres."
             ]
           }
         }
@@ -784,7 +816,8 @@
             "de": "Le Fornet",
             "hu": "Le Fornet",
             "ro": "Le Fornet",
-            "en": "Le Fornet"
+            "en": "Le Fornet",
+            "fr": "Le Fornet"
           },
           "coords": [
             7.0012,
@@ -808,7 +841,8 @@
             "de": "Col de l'Iseran",
             "hu": "Iseran-hágó",
             "ro": "Pasul Iseran",
-            "en": "Col de l'Iseran"
+            "en": "Col de l'Iseran",
+            "fr": "Col de l'Iseran"
           },
           "coords": [
             7.0305,
@@ -824,7 +858,7 @@
             "hu": "Az Alpok legmagasabb aszfaltozott hágója, 2770 méteren.",
             "ro": "Cea mai înaltă trecătoare asfaltată din Alpi, la 2770m.",
             "en": "The highest paved mountain pass in the Alps at 2770m.",
-            "fr": "Le plus haut col routier des Alpes à 2770 m."
+            "fr": "Le plus haut col routier pavé des Alpes à 2770 m."
           }
         },
         {
@@ -832,7 +866,8 @@
             "de": "Rocher de Bellevarde",
             "hu": "Bellevarde-szikla",
             "ro": "Rocher de Bellevarde",
-            "en": "Rocher de Bellevarde"
+            "en": "Rocher de Bellevarde",
+            "fr": "Rocher de Bellevarde"
           },
           "coords": [
             6.9452,
@@ -848,7 +883,7 @@
             "hu": "Használd az Olympique felvonót a Bikepark lejtőihez.",
             "ro": "Folosiți telecabina Olympique pentru coborârea în Bikepark.",
             "en": "Use the Olympique lift for the Bikepark descent.",
-            "fr": "Utilisez la remontée Olympique pour la descente du Bikepark."
+            "fr": "Utilisez le télésiège Olympique pour la descente du Bikepark."
           }
         },
         {
@@ -856,7 +891,8 @@
             "de": "Lac de l'Ouillette",
             "hu": "Ouillette-tó",
             "ro": "Lacul de l'Ouillette",
-            "en": "Ouillette Lake"
+            "en": "Ouillette Lake",
+            "fr": "Ouillette Lake"
           },
           "coords": [
             6.9655,
@@ -880,7 +916,8 @@
             "de": "Parc National de la Vanoise",
             "hu": "Vanoise Nemzeti Park",
             "ro": "Parcul Național Vanoise",
-            "en": "Vanoise National Park"
+            "en": "Vanoise National Park",
+            "fr": "Vanoise National Park"
           },
           "coords": [
             6.985,
@@ -896,7 +933,7 @@
             "hu": "Figyeld a mormotákat az út szélén.",
             "ro": "Fiți atenți la marmote pe marginea drumului.",
             "en": "Watch out for marmots along the path.",
-            "fr": "Faites attention aux marmottes le long du chemin."
+            "fr": "Attention aux marmottes le long du sentier."
           }
         }
       ],
@@ -905,7 +942,7 @@
         "hu": "A kerékpárosok számára Val-d'Isère igazi paradicsom a legendás hágók és az adrenalindús lejtők között. Kezdjük a napot az Iseran-hágó meghódításával, ami minden országútis álma. Aki lazább élményre vágyik, vegye igénybe a felvonókat a Bellevarde-sziklához, a Bikepark központjához. Élvezzük a száguldást az Ouillette-tó felé, majd fedezzük fel a Vanoise Nemzeti Park érintetlen tájait, ahol a mormoták füttye kíséri utunkat.",
         "ro": "Pentru bicicliști, Val-d'Isère este un paradis între trecători legendare și coborâri pline de adrenalină. Începeți cu ascensiunea spre Col de l'Iseran, o provocare pentru orice ciclist de șosea. Cei care preferă relaxarea pot folosi telecabinele spre Rocher de Bellevarde, inima parcului de biciclete. Bucurați-vă de coborârea rapidă spre Lac de l'Ouillette și explorați natura virgină de la marginea Parcului Național Vanoise.",
         "en": "For cyclists, Val-d'Isère is a paradise ranging from legendary mountain passes to adrenaline-fueled downhills. Start with the climb to Col de l'Iseran, a bucket-list challenge for road cyclists. For a more relaxed experience, use the lifts to reach Rocher de Bellevarde, the heart of the Bikepark. Enjoy a thrilling descent toward Lac de l'Ouillette and explore the pristine nature on the edge of Vanoise National Park, where Alpine flora and fauna await.",
-        "fr": "Pour les cyclistes, Val-d'Isère est un paradis allant des cols de montagne légendaires aux descentes riches en adrénaline. Commencez par l'ascension du col de l'Iseran, un défi incontournable pour les cyclistes sur route. Pour une expérience plus détendue, utilisez les remontées mécaniques pour atteindre le Rocher de Bellevarde, le cœur du Bikepark. Profitez d'une descente palpitante vers le lac de l'Ouillette et explorez la nature préservée en bordure du parc national de la Vanoise, où la flore et la faune alpines vous attendent."
+        "fr": "Pour les cyclistes, Val-d'Isère est un paradis allant des cols légendaires aux descentes pleines d'adrénaline. Commencez par l'ascension du Col de l'Iseran, un défi incontournable pour les cyclistes sur route. Pour une expérience plus détendue, utilisez les remontées pour atteindre le Rocher de Bellevarde, cœur du Bikepark. Profitez d'une descente excitante vers le Lac de l'Ouillette et explorez la nature préservée à la lisière du Parc national de la Vanoise, où la flore et la faune alpines vous attendent."
       },
       "gastro_picks": {
         "de": [
@@ -1034,9 +1071,9 @@
           "The Bikepark offers trails for all skill levels, from green to black."
         ],
         "fr": [
-          "Les vélos électriques sont idéaux pour explorer les routes de montagne escarpées sans s'épuiser.",
-          "Vérifiez vos freins avant les longues descentes depuis le col de l'Iseran.",
-          "L'éclairage est obligatoire pour les tunnels sur la route du col.",
+          "Les VAE sont idéaux pour explorer les routes de montagne raides sans s'épuiser.",
+          "Vérifiez vos freins avant les longues descentes depuis le Col de l'Iseran.",
+          "Les éclairages pour vélo sont obligatoires dans les tunnels de la route du col.",
           "Le Bikepark propose des pistes pour tous les niveaux, du vert au noir."
         ]
       },
@@ -1046,7 +1083,8 @@
             "de": "Für Radfahrer ist Val-d'Isère ein Paradies zwischen legendären Passstraßen und adrenalingeladenen Downhills. Starten Sie mit dem Anstieg zum Col de l'Iseran, einer Herausforderung für jeden Rennradfahrer. Wer es entspannter mag, nutzt die Bergbahnen zum Rocher de Bellevarde, dem Herzstück des Bikeparks. Genießen Sie die rasante Abfahrt zum Lac de l'Ouillette und erkunden Sie die unberührte Natur am Rande des Vanoise-Nationalparks, wo die hochalpine Flora und Fauna Sie begeistern wird.",
             "hu": "A kerékpárosok számára Val-d'Isère igazi paradicsom a legendás hágók és az adrenalindús lejtők között. Kezdjük a napot az Iseran-hágó meghódításával, ami minden országútis álma. Aki lazább élményre vágyik, vegye igénybe a felvonókat a Bellevarde-sziklához, a Bikepark központjához. Élvezzük a száguldást az Ouillette-tó felé, majd fedezzük fel a Vanoise Nemzeti Park érintetlen tájait, ahol a mormoták füttye kíséri utunkat.",
             "ro": "Pentru bicicliști, Val-d'Isère este un paradis între trecători legendare și coborâri pline de adrenalină. Începeți cu ascensiunea spre Col de l'Iseran, o provocare pentru orice ciclist de șosea. Cei care preferă relaxarea pot folosi telecabinele spre Rocher de Bellevarde, inima parcului de biciclete. Bucurați-vă de coborârea rapidă spre Lac de l'Ouillette și explorați natura virgină de la marginea Parcului Național Vanoise.",
-            "en": "For cyclists, Val-d'Isère is a paradise ranging from legendary mountain passes to adrenaline-fueled downhills. Start with the climb to Col de l'Iseran, a bucket-list challenge for road cyclists. For a more relaxed experience, use the lifts to reach Rocher de Bellevarde, the heart of the Bikepark. Enjoy a thrilling descent toward Lac de l'Ouillette and explore the pristine nature on the edge of Vanoise National Park, where Alpine flora and fauna await."
+            "en": "For cyclists, Val-d'Isère is a paradise ranging from legendary mountain passes to adrenaline-fueled downhills. Start with the climb to Col de l'Iseran, a bucket-list challenge for road cyclists. For a more relaxed experience, use the lifts to reach Rocher de Bellevarde, the heart of the Bikepark. Enjoy a thrilling descent toward Lac de l'Ouillette and explore the pristine nature on the edge of Vanoise National Park, where Alpine flora and fauna await.",
+            "fr": "Pour les cyclistes, Val-d'Isère est un paradis allant des cols légendaires aux descentes pleines d'adrénaline. Commencez par l'ascension du Col de l'Iseran, un défi à inscrire sur votre liste pour les cyclistes sur route. Pour une expérience plus détendue, prenez les remontées mécaniques jusqu'au Rocher de Bellevarde, le cœur du Bikepark. Profitez d'une descente palpitante vers le Lac de l'Ouillette et explorez la nature préservée en lisière du Parc national de la Vanoise, où flore et faune alpines vous attendent."
           },
           "stops": [
             {
@@ -1054,13 +1092,15 @@
                 "de": "Le Fornet",
                 "hu": "Le Fornet",
                 "ro": "Le Fornet",
-                "en": "Le Fornet"
+                "en": "Le Fornet",
+                "fr": "Le Fornet"
               },
               "tip_5lang": {
                 "de": "Ein steiler aber lohnenswerter Anstieg vom Zentrum.",
                 "hu": "Meredek, de kifizetődő emelkedő a központból.",
                 "ro": "O urcare abruptă, dar care merită, din centru.",
-                "en": "A steep but rewarding climb from the center."
+                "en": "A steep but rewarding climb from the center.",
+                "fr": "Une montée raide mais gratifiante depuis le centre."
               }
             },
             {
@@ -1068,13 +1108,15 @@
                 "de": "Col de l'Iseran",
                 "hu": "Iseran-hágó",
                 "ro": "Pasul Iseran",
-                "en": "Col de l'Iseran"
+                "en": "Col de l'Iseran",
+                "fr": "Col de l'Iseran"
               },
               "tip_5lang": {
                 "de": "Der höchste asphaltierte Pass der Alpen auf 2770m.",
                 "hu": "Az Alpok legmagasabb aszfaltozott hágója, 2770 méteren.",
                 "ro": "Cea mai înaltă trecătoare asfaltată din Alpi, la 2770m.",
-                "en": "The highest paved mountain pass in the Alps at 2770m."
+                "en": "The highest paved mountain pass in the Alps at 2770m.",
+                "fr": "Le plus haut col routier pavé des Alpes à 2770 m."
               }
             },
             {
@@ -1082,13 +1124,15 @@
                 "de": "Rocher de Bellevarde",
                 "hu": "Bellevarde-szikla",
                 "ro": "Rocher de Bellevarde",
-                "en": "Rocher de Bellevarde"
+                "en": "Rocher de Bellevarde",
+                "fr": "Rocher de Bellevarde"
               },
               "tip_5lang": {
                 "de": "Nutzen Sie die Olympique-Bahn für den Bikepark-Abstieg.",
                 "hu": "Használd az Olympique felvonót a Bikepark lejtőihez.",
                 "ro": "Folosiți telecabina Olympique pentru coborârea în Bikepark.",
-                "en": "Use the Olympique lift for the Bikepark descent."
+                "en": "Use the Olympique lift for the Bikepark descent.",
+                "fr": "Utilisez la remontée Olympique pour la descente du Bikepark."
               }
             },
             {
@@ -1096,13 +1140,15 @@
                 "de": "Lac de l'Ouillette",
                 "hu": "Ouillette-tó",
                 "ro": "Lacul de l'Ouillette",
-                "en": "Ouillette Lake"
+                "en": "Ouillette Lake",
+                "fr": "Ouillette Lake"
               },
               "tip_5lang": {
                 "de": "Perfekt für eine Pause vor der finalen Abfahrt.",
                 "hu": "Tökéletes pihenőhely az utolsó lejtmenet előtt.",
                 "ro": "Perfect pentru o pauză înainte de coborârea finală.",
-                "en": "Perfect for a break before the final descent."
+                "en": "Perfect for a break before the final descent.",
+                "fr": "Parfait pour une pause avant la descente finale."
               }
             },
             {
@@ -1110,13 +1156,15 @@
                 "de": "Parc National de la Vanoise",
                 "hu": "Vanoise Nemzeti Park",
                 "ro": "Parcul Național Vanoise",
-                "en": "Vanoise National Park"
+                "en": "Vanoise National Park",
+                "fr": "Parc national de la Vanoise"
               },
               "tip_5lang": {
                 "de": "Achten Sie auf Murmeltiere am Wegesrand.",
                 "hu": "Figyeld a mormotákat az út szélén.",
                 "ro": "Fiți atenți la marmote pe marginea drumului.",
-                "en": "Watch out for marmots along the path."
+                "en": "Watch out for marmots along the path.",
+                "fr": "Attention aux marmottes le long du sentier."
               }
             }
           ],
@@ -1226,6 +1274,12 @@
               "Check your brakes before the long descents from Col de l'Iseran.",
               "Bike lights are mandatory for the tunnels on the mountain pass road.",
               "The Bikepark offers trails for all skill levels, from green to black."
+            ],
+            "fr": [
+              "Les VAE sont idéaux pour explorer les routes de montagne raides sans s'épuiser.",
+              "Vérifiez vos freins avant les longues descentes depuis le Col de l'Iseran.",
+              "Les éclairages pour vélo sont obligatoires dans les tunnels de la route du col.",
+              "Le Bikepark propose des pistes pour tous les niveaux, du vert au noir."
             ]
           }
         },
@@ -1235,7 +1289,7 @@
             "hu": "Reggel nedves aszfalton indulunk Le Fornet irányába. Délben az Iseran-hágó megmászása esőben komoly fegyelmet és jó fékeket igényel. Délután a Bellevarde körüli köd drámai látványt nyújt. Este a tóparti sárban küzdjük le az utolsó kilométereket.",
             "ro": "Dimineața pornim pe drumuri umede spre satul Le Fornet. La prânz, urcarea pe Iseran în condiții de ploaie necesită concentrare maximă. După-amiaza, norii joși de pe Bellevarde oferă un decor dramatic. Seara, tura umedă se încheie pe malul lacului.",
             "en": "Morning ride starts on damp roads heading toward Le Fornet. Midday climbing to Iseran in the rain demands focus and reliable brakes. Afternoon brings dramatic views as clouds cling to the Bellevarde ridges. Evening concludes the wet journey with a cool breeze by the lake.",
-            "fr": "Le trajet matinal commence sur des routes humides en direction du Fornet. Le midi, l'ascension de l'Iseran sous la pluie exige de la concentration et des freins fiables. L'après-midi offre des vues spectaculaires alors que les nuages s'accrochent aux crêtes de Bellevarde. La soirée conclut ce voyage humide par une brise fraîche au bord du lac."
+            "fr": "La sortie du matin débute sur des routes humides en direction du Fornet. L'ascension de midi vers l'Iseran sous la pluie exige concentration et freins fiables. L'après-midi offre des vues dramatiques alors que les nuages s'accrochent aux crêtes de la Bellevarde. La soirée conclut le parcours humide avec une brise fraîche au bord du lac."
           },
           "stops": [
             {
@@ -1244,7 +1298,8 @@
                 "de": "Vorsicht auf dem Kopfsteinpflaster im Dorf bei Nässe.",
                 "hu": "Vigyázat a faluban lévő macskaköveken, ha nedvesek.",
                 "ro": "Atenție la pavajul de piatră din sat când este ud.",
-                "en": "Use caution on the village cobblestones when they are wet."
+                "en": "Use caution on the village cobblestones when they are wet.",
+                "fr": "Faites attention aux pavés du village lorsqu'ils sont mouillés."
               }
             },
             {
@@ -1253,7 +1308,8 @@
                 "de": "Die Temperatur sinkt hier oben bei Regen drastisch, Jacke an!",
                 "hu": "Esőben a hőmérséklet drasztikusan esik fent, vegyen fel kabátot!",
                 "ro": "Temperatura scade drastic aici pe ploaie, purtați jachetă!",
-                "en": "Temperature drops drastically up here in the rain; put on a jacket!"
+                "en": "Temperature drops drastically up here in the rain; put on a jacket!",
+                "fr": "La température chute radicalement ici sous la pluie ; mettez une veste !"
               }
             },
             {
@@ -1262,7 +1318,8 @@
                 "de": "Schlammige Abschnitte auf den Trails erfordern gute Fahrtechnik.",
                 "hu": "A sáros szakaszok a pályákon jó technikai tudást igényelnek.",
                 "ro": "Porțiunile noroioase de pe traseu necesită tehnică bună.",
-                "en": "Muddy sections on the trails require good technical riding skills."
+                "en": "Muddy sections on the trails require good technical riding skills.",
+                "fr": "Les sections boueuses des sentiers demandent de bonnes compétences techniques."
               }
             },
             {
@@ -1271,7 +1328,8 @@
                 "de": "Der Boden am Seeufer kann sehr weich und rutschig sein.",
                 "hu": "A tóparti talaj nagyon puha és csúszós lehet ilyenkor.",
                 "ro": "Solul de pe malul lacului poate fi foarte moale și alunecos.",
-                "en": "The ground by the lakeshore can be very soft and slippery."
+                "en": "The ground by the lakeshore can be very soft and slippery.",
+                "fr": "Le sol au bord du lac peut être très mou et glissant."
               }
             },
             {
@@ -1280,7 +1338,8 @@
                 "de": "Die Vegetation ist bei Regen besonders grün und duftend.",
                 "hu": "A növényzet esőben különösen zöld és illatos a parkban.",
                 "ro": "Vegetația este deosebit de verde și parfumată pe ploaie.",
-                "en": "The vegetation is exceptionally green and fragrant in the rain."
+                "en": "The vegetation is exceptionally green and fragrant in the rain.",
+                "fr": "La végétation est exceptionnellement verte et parfumée sous la pluie."
               }
             }
           ],
@@ -1315,10 +1374,10 @@
             ],
             "fr": [
               "Assurez-vous que vos plaquettes de frein sont en bon état pour le temps humide.",
-              "Portez des vêtements haute visibilité en raison de la faible luminosité et du brouillard.",
-              "Utilisez des garde-boue pour vous protéger des projections de la route.",
-              "Évitez les virages agressifs sur les surfaces asphaltées mouillées.",
-              "Avoir un ensemble complet de vêtements secs à l'arrivée est un vrai soulagement."
+              "Portez des vêtements haute visibilité en raison du faible éclairage et de la brume.",
+              "Utilisez des garde-boues pour vous protéger des projections d'eau.",
+              "Évitez les trajectoires agressives sur l'asphalte mouillé.",
+              "Avoir un jeu de vêtements secs à l'arrivée est salvateur."
             ]
           }
         },
@@ -1328,7 +1387,7 @@
             "hu": "Reggel a tömör havon gurulunk Le Fornet felé. Délben az Iseran fehér sivatagát csak fatbike-kal lehet meghódítani. Délután a Bellevarde-ról lélegzetelállító kilátás nyílik a sípályákra. Este a Vanoise nemzeti parkban a csípős hidegben a csend uralkodik.",
             "ro": "Dimineața, anvelopele alunecă pe zăpada tasată spre Le Fornet. La prânz, Iseran este un deșert alb, accesibil doar cu fatbike-ul. După-amiaza, Bellevarde oferă o panoramă superbă asupra domeniului schiabil. Seara, liniștea se așterne peste parcul național în gerul tăios.",
             "en": "Morning tires crunch over packed snow on the way to Le Fornet. Midday finds Iseran a vast white wilderness, best tackled with a fatbike. Afternoon at Bellevarde offers panoramic views of the bustling ski resort below. Evening brings a sharp, cold silence to the Vanoise trails.",
-            "fr": "Le matin, les pneus crissent sur la neige tassée en direction du Fornet. Le midi, l'Iseran se révèle comme une vaste étendue blanche sauvage, idéale à parcourir en fatbike. L'après-midi à Bellevarde offre des vues panoramiques sur la station de ski animée en contrebas. Le soir apporte un silence froid et vif sur les sentiers de la Vanoise."
+            "fr": "Les pneus du matin crissent sur la neige tassée en route vers Le Fornet. À midi, l'Iseran est une vaste étendue blanche, à privilégier en fatbike. L'après-midi à Bellevarde offre des vues panoramiques sur la station de ski animée en contrebas. Le soir apporte un silence vif et glacial sur les sentiers de la Vanoise."
           },
           "stops": [
             {
@@ -1337,7 +1396,8 @@
                 "de": "Nutzen Sie präparierte Winterwanderwege für bessere Traktion.",
                 "hu": "Használja a kezelt téli utakat a jobb tapadás érdekében.",
                 "ro": "Folosiți potecile bătătorite pentru o tracțiune mai bună.",
-                "en": "Stick to groomed winter trails for much better traction."
+                "en": "Stick to groomed winter trails for much better traction.",
+                "fr": "Restez sur les itinéraires hivernaux damés pour une bien meilleure traction."
               }
             },
             {
@@ -1346,7 +1406,8 @@
                 "de": "Die Passstraße ist für Autos gesperrt, ideal für Extrem-Biker.",
                 "hu": "A hágó autókkal elzárt, ideális az extrém bringásoknak.",
                 "ro": "Pasul este închis pentru mașini, ideal pentru cicliștii extremi.",
-                "en": "The pass is closed to cars, making it a playground for extreme bikers."
+                "en": "The pass is closed to cars, making it a playground for extreme bikers.",
+                "fr": "Le col est fermé aux voitures, en faisant un terrain de jeu pour les vététistes extrêmes."
               }
             },
             {
@@ -1355,7 +1416,8 @@
                 "de": "Vorsicht vor Skifahrern, die Ihren Pfad kreuzen könnten.",
                 "hu": "Ügyeljen a síelőkre, akik keresztezhetik az útját.",
                 "ro": "Atenție la schiorii care v-ar putea tăia calea pe traseu.",
-                "en": "Be alert for skiers who might cross your path on shared sections."
+                "en": "Be alert for skiers who might cross your path on shared sections.",
+                "fr": "Soyez vigilant aux skieurs qui peuvent traverser votre trajectoire sur les sections partagées."
               }
             },
             {
@@ -1364,7 +1426,8 @@
                 "de": "Das Eis am Seeufer ist nicht immer tragfähig, bleiben Sie am Rand.",
                 "hu": "A jég a tóparton nem mindig teherbíró, maradjon a szélén.",
                 "ro": "Gheața de pe mal nu este mereu sigură, rămâneți la margine.",
-                "en": "Lakeside ice isn't always stable; stay on the marked perimeter."
+                "en": "Lakeside ice isn't always stable; stay on the marked perimeter.",
+                "fr": "La glace au bord du lac n'est pas toujours stable ; restez sur le périmètre balisé."
               }
             },
             {
@@ -1373,7 +1436,8 @@
                 "de": "Stören Sie die Wildtiere nicht, die im Schnee nach Futter suchen.",
                 "hu": "Ne zavarja a vadállatokat, amik a hóban keresnek élelmet.",
                 "ro": "Nu deranjați animalele sălbatice care caută hrană în zăpadă.",
-                "en": "Avoid disturbing wildlife searching for food in the deep snow."
+                "en": "Avoid disturbing wildlife searching for food in the deep snow.",
+                "fr": "Évitez de déranger la faune qui cherche de la nourriture dans la neige profonde."
               }
             }
           ],
@@ -1407,11 +1471,11 @@
               "Only ride on designated and authorized winter biking trails."
             ],
             "fr": [
-              "Réduisez la pression de vos pneus pour une bien meilleure adhérence sur la neige.",
-              "Portez des gants spécial hiver et envisagez des chaussettes chauffantes.",
-              "Évitez de freiner dans les virages sur les plaques de glace.",
-              "Le froid décharge les batteries des vélos électriques beaucoup plus vite que d'habitude.",
-              "Roulez uniquement sur les sentiers de vélo d'hiver désignés et autorisés."
+              "Baissez la pression des pneus pour une adhérence nettement meilleure sur la neige.",
+              "Portez des gants spécifiques hiver et envisagez des chaussettes chauffantes.",
+              "Évitez de freiner en courbe sur des plaques de glace.",
+              "Les basses températures déchargent beaucoup plus vite les batteries des VAE.",
+              "Ne roulez que sur les sentiers de vélo d'hiver désignés et autorisés."
             ]
           }
         }
@@ -1430,7 +1494,8 @@
             "de": "Col de l'Iseran",
             "hu": "Iseran-hágó",
             "ro": "Pasul Iseran",
-            "en": "Col de l'Iseran"
+            "en": "Col de l'Iseran",
+            "fr": "Col de l'Iseran"
           },
           "coords": [
             7.0305,
@@ -1454,7 +1519,8 @@
             "de": "Le Fornet",
             "hu": "Le Fornet",
             "ro": "Le Fornet",
-            "en": "Le Fornet"
+            "en": "Le Fornet",
+            "fr": "Le Fornet"
           },
           "coords": [
             7.0012,
@@ -1478,7 +1544,8 @@
             "de": "Musée Val d'Histoire",
             "hu": "Val d'Histoire Múzeum",
             "ro": "Muzeul Val d'Histoire",
-            "en": "Val d'Histoire Museum"
+            "en": "Val d'Histoire Museum",
+            "fr": "Val d'Histoire Museum"
           },
           "coords": [
             6.9812,
@@ -1502,7 +1569,8 @@
             "de": "Rocher de Bellevarde",
             "hu": "Bellevarde-szikla",
             "ro": "Rocher de Bellevarde",
-            "en": "Rocher de Bellevarde"
+            "en": "Rocher de Bellevarde",
+            "fr": "Rocher de Bellevarde"
           },
           "coords": [
             6.9452,
@@ -1518,7 +1586,7 @@
             "hu": "Feljutás az Olympique felvonóval (parkolás az állomásnál).",
             "ro": "Acces cu telecabina Olympique (parcare la stație).",
             "en": "Access via the Olympique cable car (parking at the station).",
-            "fr": "Accès via le téléphérique Olympique (parking à la gare)."
+            "fr": "Accès via le téléphérique Olympique (parking à la station)."
           }
         },
         {
@@ -1526,7 +1594,8 @@
             "de": "Lac de l'Ouillette",
             "hu": "Ouillette-tó",
             "ro": "Lacul de l'Ouillette",
-            "en": "Ouillette Lake"
+            "en": "Ouillette Lake",
+            "fr": "Ouillette Lake"
           },
           "coords": [
             6.9655,
@@ -1542,7 +1611,7 @@
             "hu": "A tóparti legmagasabb étterem teázásra hívogat.",
             "ro": "Cel mai înalt restaurant de pe malul lacului vă invită la un ceai.",
             "en": "The highest lakeside restaurant invites you for a tea break.",
-            "fr": "Le plus haut restaurant au bord d'un lac vous invite pour une pause thé."
+            "fr": "Le restaurant le plus élevé au bord du lac vous invite pour une pause thé."
           }
         },
         {
@@ -1550,7 +1619,8 @@
             "de": "Parc National de la Vanoise",
             "hu": "Vanoise Nemzeti Park",
             "ro": "Parcul Național Vanoise",
-            "en": "Vanoise National Park"
+            "en": "Vanoise National Park",
+            "fr": "Parc national de la Vanoise"
           },
           "coords": [
             6.985,
@@ -1566,7 +1636,7 @@
             "hu": "Parkolj a Manchet-völgy végén a rövid túrautakhoz.",
             "ro": "Parcați la capătul văii Manchet pentru trasee scurte.",
             "en": "Park at the end of Manchet Valley for short hiking trails.",
-            "fr": "Garez-vous au bout de la vallée du Manchet pour de courts sentiers de randonnée."
+            "fr": "Garez-vous au bout de la vallée de Manchet pour de courtes randonnées."
           }
         }
       ],
@@ -1575,7 +1645,7 @@
         "hu": "Autóval Savoya Alpokának teljes pompáját felfedezhetjük Val-d'Isère körül. Kezdjük korán az utat az Iseran-hágóra, mielőtt megnő a forgalom. Egy megálló után a patinás Le Fornet-ben, fedezzük fel a központot és múzeumát. Vegyük igénybe a modern felvonókat, hogy túrázás nélkül is elérjük a Bellevarde csúcsait és az idilli Ouillette-tavat. A napot egy nyugodt autózással zárjuk a Manchet-völgybe, amely a Vanoise Nemzeti Park kapuja.",
         "ro": "Cu mașina, puteți explora întreaga splendoare a Alpilor Savoiei în jurul stațiunii Val-d'Isère. Începeți devreme cu drumul spre Col de l'Iseran, înainte ca traficul să crească. După o oprire în pitorescul Le Fornet, explorați centrul și muzeul său. Folosiți telecabinele moderne pentru a ajunge la vârfurile de la Bellevarde și la idilicul Lac de l'Ouillette fără a urca pe jos. Încheiați cu o plimbare relaxantă în valea Manchet.",
         "en": "By car, you can unlock the full splendor of the Savoyard Alps surrounding Val-d'Isère. Start early with a drive up to Col de l'Iseran before the tourist traffic builds up. After a stop in the rustic Le Fornet, explore the center and its history museum. Utilize the modern ski lifts to reach the peaks of Bellevarde and the idyllic Lac de l'Ouillette without the hike. Conclude your day with a peaceful drive into the Manchet Valley, the gateway to Vanoise National Park.",
-        "fr": "En voiture, vous pouvez découvrir toute la splendeur des Alpes savoyardes entourant Val-d'Isère. Partez tôt pour monter au col de l'Iseran avant que le trafic touristique ne s'intensifie. Après un arrêt au hameau rustique du Fornet, explorez le centre et son musée d'histoire. Profitez des remontées mécaniques modernes pour atteindre les sommets de Bellevarde et l'idyllique lac de l'Ouillette sans marcher. Concluez votre journée par une promenade paisible en voiture dans la vallée du Manchet, porte d'entrée du parc national de la Vanoise."
+        "fr": "En voiture, vous pouvez découvrir toute la splendeur des Alpes savoyardes entourant Val-d'Isère. Partez tôt en direction du Col de l'Iseran avant que la circulation touristique n'augmente. Après un arrêt dans le rustique Le Fornet, explorez le centre et son musée historique. Utilisez les remontées mécaniques modernes pour atteindre les sommets de Bellevarde et l'idyllique Lac de l'Ouillette sans randonnée. Concluez votre journée par une paisible route dans la vallée de Manchet, porte d'entrée du Parc national de la Vanoise."
       },
       "gastro_picks": {
         "de": [
@@ -1704,8 +1774,8 @@
           "Fill up your tank in the valley; prices are significantly higher in the mountains."
         ],
         "fr": [
-          "La route du col de l'Iseran n'est ouverte que de juin à octobre.",
-          "Les parkings couverts du centre sont souvent moins chers en été qu'en hiver.",
+          "La route du Col de l'Iseran n'est ouverte que de juin à octobre.",
+          "Les parkings centraux sont souvent moins chers en été qu'en hiver.",
           "Faites attention aux motards sur la route sinueuse du col.",
           "Faites le plein dans la vallée ; les prix sont nettement plus élevés en montagne."
         ]
@@ -1716,7 +1786,8 @@
             "de": "Mit dem Auto erschließen Sie die gesamte Pracht der Savoyer Alpen rund um Val-d'Isère. Beginnen Sie früh mit der Fahrt zum Col de l'Iseran, bevor der Touristenverkehr zunimmt. Nach einem Stopp im urigen Le Fornet erkunden Sie das Zentrum und sein Museum. Nutzen Sie die modernen Bergbahnen, um auch ohne Wanderung die Gipfel am Bellevarde und den idyllischen Lac de l'Ouillette zu erreichen. Den Abschluss bildet eine entspannte Fahrt in das Manchet-Tal, das Tor zum Vanoise-Nationalpark.",
             "hu": "Autóval Savoya Alpokának teljes pompáját felfedezhetjük Val-d'Isère körül. Kezdjük korán az utat az Iseran-hágóra, mielőtt megnő a forgalom. Egy megálló után a patinás Le Fornet-ben, fedezzük fel a központot és múzeumát. Vegyük igénybe a modern felvonókat, hogy túrázás nélkül is elérjük a Bellevarde csúcsait és az idilli Ouillette-tavat. A napot egy nyugodt autózással zárjuk a Manchet-völgybe, amely a Vanoise Nemzeti Park kapuja.",
             "ro": "Cu mașina, puteți explora întreaga splendoare a Alpilor Savoiei în jurul stațiunii Val-d'Isère. Începeți devreme cu drumul spre Col de l'Iseran, înainte ca traficul să crească. După o oprire în pitorescul Le Fornet, explorați centrul și muzeul său. Folosiți telecabinele moderne pentru a ajunge la vârfurile de la Bellevarde și la idilicul Lac de l'Ouillette fără a urca pe jos. Încheiați cu o plimbare relaxantă în valea Manchet.",
-            "en": "By car, you can unlock the full splendor of the Savoyard Alps surrounding Val-d'Isère. Start early with a drive up to Col de l'Iseran before the tourist traffic builds up. After a stop in the rustic Le Fornet, explore the center and its history museum. Utilize the modern ski lifts to reach the peaks of Bellevarde and the idyllic Lac de l'Ouillette without the hike. Conclude your day with a peaceful drive into the Manchet Valley, the gateway to Vanoise National Park."
+            "en": "By car, you can unlock the full splendor of the Savoyard Alps surrounding Val-d'Isère. Start early with a drive up to Col de l'Iseran before the tourist traffic builds up. After a stop in the rustic Le Fornet, explore the center and its history museum. Utilize the modern ski lifts to reach the peaks of Bellevarde and the idyllic Lac de l'Ouillette without the hike. Conclude your day with a peaceful drive into the Manchet Valley, the gateway to Vanoise National Park.",
+            "fr": "En voiture, vous pouvez découvrir toute la splendeur des Alpes savoyardes entourant Val-d'Isère. Partez tôt en direction du Col de l'Iseran avant que la circulation touristique n'augmente. Après un arrêt dans le rustique Le Fornet, explorez le centre et son musée historique. Utilisez les remontées mécaniques modernes pour atteindre les sommets de Bellevarde et l'idyllique Lac de l'Ouillette sans randonnée. Concluez votre journée par une paisible route dans la vallée de Manchet, porte d'entrée du Parc national de la Vanoise."
           },
           "stops": [
             {
@@ -1724,13 +1795,15 @@
                 "de": "Col de l'Iseran",
                 "hu": "Iseran-hágó",
                 "ro": "Pasul Iseran",
-                "en": "Col de l'Iseran"
+                "en": "Col de l'Iseran",
+                "fr": "Col de l'Iseran"
               },
               "tip_5lang": {
                 "de": "Genießen Sie die Aussicht auf die Gletscher der Vanoise.",
                 "hu": "Élvezd a kilátást a Vanoise gleccsereire.",
                 "ro": "Bucurați-vă de vederea spre ghețarii Vanoise.",
-                "en": "Enjoy the view of the Vanoise glaciers."
+                "en": "Enjoy the view of the Vanoise glaciers.",
+                "fr": "Profitez de la vue sur les glaciers de la Vanoise."
               }
             },
             {
@@ -1738,13 +1811,15 @@
                 "de": "Le Fornet",
                 "hu": "Le Fornet",
                 "ro": "Le Fornet",
-                "en": "Le Fornet"
+                "en": "Le Fornet",
+                "fr": "Le Fornet"
               },
               "tip_5lang": {
                 "de": "Kostenlose Parkplätze am Ortseingang vorhanden.",
                 "hu": "Ingyenes parkolás a falu bejáratánál.",
                 "ro": "Parcare gratuită disponibilă la intrarea în sat.",
-                "en": "Free parking available at the village entrance."
+                "en": "Free parking available at the village entrance.",
+                "fr": "Parking gratuit disponible à l'entrée du village."
               }
             },
             {
@@ -1752,13 +1827,15 @@
                 "de": "Musée Val d'Histoire",
                 "hu": "Val d'Histoire Múzeum",
                 "ro": "Muzeul Val d'Histoire",
-                "en": "Val d'Histoire Museum"
+                "en": "Val d'Histoire Museum",
+                "fr": "Val d'Histoire Museum"
               },
               "tip_5lang": {
                 "de": "Zentrales Parkhaus 'Centre' nutzen.",
                 "hu": "Használd a 'Centre' központi parkolóházat.",
                 "ro": "Folosiți parcarea centrală 'Centre'.",
-                "en": "Use the 'Centre' central parking garage."
+                "en": "Use the 'Centre' central parking garage.",
+                "fr": "Utilisez le parking central 'Centre'."
               }
             },
             {
@@ -1766,13 +1843,15 @@
                 "de": "Rocher de Bellevarde",
                 "hu": "Bellevarde-szikla",
                 "ro": "Rocher de Bellevarde",
-                "en": "Rocher de Bellevarde"
+                "en": "Rocher de Bellevarde",
+                "fr": "Rocher de Bellevarde"
               },
               "tip_5lang": {
                 "de": "Auffahrt mit der Olympique-Seilbahn (Parken an der Station).",
                 "hu": "Feljutás az Olympique felvonóval (parkolás az állomásnál).",
                 "ro": "Acces cu telecabina Olympique (parcare la stație).",
-                "en": "Access via the Olympique cable car (parking at the station)."
+                "en": "Access via the Olympique cable car (parking at the station).",
+                "fr": "Accès via le téléphérique Olympique (parking à la station)."
               }
             },
             {
@@ -1780,13 +1859,15 @@
                 "de": "Lac de l'Ouillette",
                 "hu": "Ouillette-tó",
                 "ro": "Lacul de l'Ouillette",
-                "en": "Ouillette Lake"
+                "en": "Ouillette Lake",
+                "fr": "Ouillette Lake"
               },
               "tip_5lang": {
                 "de": "Das höchstgelegene Restaurant am See lädt zur Teepause ein.",
                 "hu": "A tóparti legmagasabb étterem teázásra hívogat.",
                 "ro": "Cel mai înalt restaurant de pe malul lacului vă invită la un ceai.",
-                "en": "The highest lakeside restaurant invites you for a tea break."
+                "en": "The highest lakeside restaurant invites you for a tea break.",
+                "fr": "Le restaurant le plus élevé au bord du lac vous invite pour une pause thé."
               }
             },
             {
@@ -1794,13 +1875,15 @@
                 "de": "Parc National de la Vanoise",
                 "hu": "Vanoise Nemzeti Park",
                 "ro": "Parcul Național Vanoise",
-                "en": "Vanoise National Park"
+                "en": "Vanoise National Park",
+                "fr": "Parc national de la Vanoise"
               },
               "tip_5lang": {
                 "de": "Parken Sie am Manchet-Tal Ende für kurze Wanderwege.",
                 "hu": "Parkolj a Manchet-völgy végén a rövid túrautakhoz.",
                 "ro": "Parcați la capătul văii Manchet pentru trasee scurte.",
-                "en": "Park at the end of Manchet Valley for short hiking trails."
+                "en": "Park at the end of Manchet Valley for short hiking trails.",
+                "fr": "Garez-vous au bout de la vallée de Manchet pour de courtes randonnées."
               }
             }
           ],
@@ -1910,6 +1993,12 @@
               "Central parking garages are often cheaper in summer than in winter.",
               "Watch out for motorcyclists on the winding mountain pass road.",
               "Fill up your tank in the valley; prices are significantly higher in the mountains."
+            ],
+            "fr": [
+              "La route du Col de l'Iseran n'est ouverte que de juin à octobre.",
+              "Les parkings centraux sont souvent moins chers en été qu'en hiver.",
+              "Faites attention aux motards sur la route sinueuse du col.",
+              "Faites le plein dans la vallée ; les prix sont nettement plus élevés en montagne."
             ]
           }
         },
@@ -1919,7 +2008,7 @@
             "hu": "Reggel az ablaktörlők ütemére kapaszkodunk fel az Iseran-hágóra. Délben Le Fornet esőáztatta kőházai közt suhanunk át. Délután a múzeum látogatása jelenti a száraz kikapcsolódást. Este a fényszórók fénye megcsillan a tóparti tócsákban.",
             "ro": "Dimineața, ștergătoarele lucrează din greu pe urcarea spre pasul Iseran. La prânz, satul Le Fornet pare o așezare atemporală sub ploaie. După-amiaza, vizita la muzeu este punctul culminant uscat al zilei. Seara, farurile se oglindesc în bălțile de lângă lac.",
             "en": "Morning wipers beat a steady rhythm climbing the Iseran Pass. Midday reveals a quiet, rain-soaked Le Fornet, its stone architecture glistening. Afternoon provides a welcome dry escape inside the local museum. Evening lights reflect beautifully in the puddles along the lakeside road.",
-            "fr": "Le matin, les essuie-glaces battent un rythme régulier lors de l'ascension du col de l'Iseran. Le midi révèle un Fornet calme et trempé par la pluie, son architecture en pierre étincelante. L'après-midi offre une escapade au sec bienvenue à l'intérieur du musée local. Le soir, les lumières se reflètent magnifiquement dans les flaques d'eau le long de la route du bord de lac."
+            "fr": "Les essuie-glaces du matin battent un rythme régulier en montant le col de l'Iseran. Midi révèle un Fornet calme et détrempé, son architecture de pierre scintillante. L'après-midi offre une bienvenue échappée sèche à l'intérieur du musée local. Le soir, les lumières se reflètent magnifiquement dans les flaques le long de la route du lac."
           },
           "stops": [
             {
@@ -1928,7 +2017,8 @@
                 "de": "Vorsicht bei Aquaplaning in den engen Serpentinen.",
                 "hu": "Vigyázat a vízenfutás (aquaplaning) veszélyére a szerpentineken.",
                 "ro": "Atenție la acvaplanare în serpentinele strânse ale pasului.",
-                "en": "Watch out for aquaplaning in the tight hairpin turns."
+                "en": "Watch out for aquaplaning in the tight hairpin turns.",
+                "fr": "Attention à l'aquaplaning dans les virages serrés en épingle."
               }
             },
             {
@@ -1937,7 +2027,8 @@
                 "de": "Kleine Parkplätze können bei Regen schnell matschig werden.",
                 "hu": "A kis parkolók esőben gyorsan sárossá válhatnak.",
                 "ro": "Parcările mici pot deveni rapid noroioase pe timp de ploaie.",
-                "en": "Small parking areas can get muddy quickly in heavy rain."
+                "en": "Small parking areas can get muddy quickly in heavy rain.",
+                "fr": "Les petits parkings peuvent devenir vite boueux par forte pluie."
               }
             },
             {
@@ -1946,7 +2037,8 @@
                 "de": "Nutzen Sie die Tiefgarage im Zentrum, um trocken zu bleiben.",
                 "hu": "Használja a központi mélygarázst, hogy szárazon maradjon.",
                 "ro": "Folosiți parcarea subterană centrală pentru a rămâne uscat.",
-                "en": "Use the central underground parking to stay completely dry."
+                "en": "Use the central underground parking to stay completely dry.",
+                "fr": "Utilisez le parking central souterrain pour rester complètement au sec."
               }
             },
             {
@@ -1955,7 +2047,8 @@
                 "de": "Die Auffahrt bietet bei Wolkenlücken tolle Fotomotive.",
                 "hu": "A felhajtó út a felhők közti résekben remek fotótémát kínál.",
                 "ro": "Urcarea oferă oportunități foto grozave când se risipește ceața.",
-                "en": "The drive up offers great photo opportunities during breaks in the clouds."
+                "en": "The drive up offers great photo opportunities during breaks in the clouds.",
+                "fr": "La montée offre de belles opportunités photos lors des éclaircies."
               }
             },
             {
@@ -1964,7 +2057,8 @@
                 "de": "Bleiben Sie auf den befestigten Wegen am Parkplatz.",
                 "hu": "Maradjon a kijelölt, kövezett utakon a parkolónál.",
                 "ro": "Rămâneți pe drumurile pavate din apropierea parcării.",
-                "en": "Stick to the paved paths near the parking area to avoid mud."
+                "en": "Stick to the paved paths near the parking area to avoid mud.",
+                "fr": "Restez sur les chemins pavés près du parking pour éviter la boue."
               }
             },
             {
@@ -1973,7 +2067,8 @@
                 "de": "Bäche am Straßenrand können nach Starkregen anschwellen.",
                 "hu": "Az út menti patakok hirtelen megáradhatnak heves esőzés után.",
                 "ro": "Pâraiele de la marginea drumului se pot umfla după ploi torențiale.",
-                "en": "Roadside streams can swell rapidly after heavy rainfall."
+                "en": "Roadside streams can swell rapidly after heavy rainfall.",
+                "fr": "Les ruisseaux de bord de route peuvent gonfler rapidement après de fortes pluies."
               }
             }
           ],
@@ -2007,11 +2102,11 @@
               "Allow extra time for finding a parking spot in the center."
             ],
             "fr": [
-              "Vérifiez si le col de l'Iseran est ouvert par mauvais temps.",
+              "Vérifiez si le Col de l'Iseran est ouvert par mauvais temps sévère.",
               "Maintenez une distance de sécurité supplémentaire sur les routes de montagne glissantes.",
-              "Utilisez le frein moteur dans les longues et fortes descentes.",
+              "Utilisez le frein moteur dans les longues sections de descente raide.",
               "Assurez-vous que vos phares sont propres et fonctionnent correctement.",
-              "Prévoyez plus de temps pour trouver une place de parking au centre."
+              "Prévoyez du temps supplémentaire pour trouver une place de parking au centre."
             ]
           }
         },
@@ -2021,7 +2116,7 @@
             "hu": "Reggel hatalmas hófalak közt autózunk az Iseran irányába. Délben Le Fornet házai szinte eltűnnek a fehér takaró alatt. Délután a múzeum jelenti a meleg menedéket a fagyban. Este a település ünnepi fényei varázslatos hangulatot teremtenek.",
             "ro": "Dimineața, conducem printre ziduri uriașe de zăpadă spre Iseran. La prânz, satul Le Fornet pare îngropat sub o pătură albă. După-amiaza, muzeul este un loc primitor și călduros. Seara, luminile de iarnă din stațiune creează o atmosferă magică.",
             "en": "Morning drive passes between towering walls of snow toward Iseran. Midday reveals Le Fornet buried under a thick white blanket. Afternoon finds the museum a warm and welcoming sanctuary. Evening brings a magical glow as winter lights illuminate the resort streets.",
-            "fr": "Le trajet matinal passe entre d'imposants murs de neige vers l'Iseran. Le midi révèle Le Fornet enseveli sous une épaisse couverture blanche. L'après-midi, le musée devient un sanctuaire chaud et accueillant. Le soir apporte une lueur magique alors que les illuminations d'hiver éclairent les rues de la station."
+            "fr": "La route du matin passe entre d’immenses murs de neige en direction de l'Iseran. À midi, Le Fornet est enfoui sous une épaisse couverture blanche. L'après-midi, le musée devient un refuge chaud et accueillant. Le soir, une lueur magique illumine les rues de la station grâce aux éclairages d'hiver."
           },
           "stops": [
             {
@@ -2030,7 +2125,8 @@
                 "de": "Wintersperre beachten, oft nur bis zur ersten Kehre befahrbar.",
                 "hu": "Figyeljen az útlezárásra, gyakran csak az első kanyarig járható.",
                 "ro": "Atenție la drumul închis, adesea circulabil doar până la prima curbă.",
-                "en": "Note the winter closure; often accessible only to the first hairpin."
+                "en": "Note the winter closure; often accessible only to the first hairpin.",
+                "fr": "Notez la fermeture hivernale ; souvent accessible seulement au premier virage en épingle."
               }
             },
             {
@@ -2039,7 +2135,8 @@
                 "de": "Schneekettenpflicht kann hier jederzeit angeordnet werden.",
                 "hu": "A hólánc használata itt bármikor kötelezővé válhat.",
                 "ro": "Utilizarea lanțurilor poate deveni obligatorie în orice moment.",
-                "en": "Snow chains may be legally required here at any moment."
+                "en": "Snow chains may be legally required here at any moment.",
+                "fr": "Les chaînes à neige peuvent être légalement obligatoires à tout moment ici."
               }
             },
             {
@@ -2048,7 +2145,8 @@
                 "de": "Parken Sie in der beheizten Garage, um Eis am Auto zu vermeiden.",
                 "hu": "Parkoljon fűtött garázsban, hogy elkerülje az autó jegesedését.",
                 "ro": "Parcați în garajul încălzit pentru a evita înghețarea mașinii.",
-                "en": "Park in a heated garage to avoid ice buildup on your vehicle."
+                "en": "Park in a heated garage to avoid ice buildup on your vehicle.",
+                "fr": "Garez-vous dans un garage chauffé pour éviter l'accumulation de glace sur votre véhicule."
               }
             },
             {
@@ -2057,7 +2155,8 @@
                 "de": "Genießen Sie den Blick auf die Skifahrer direkt vom Parkplatz.",
                 "hu": "Élvezze a síelők látványát közvetlenül a parkolóból.",
                 "ro": "Bucurați-vă de vederea schiorilor direct din parcare.",
-                "en": "Enjoy the view of the skiers directly from the parking area."
+                "en": "Enjoy the view of the skiers directly from the parking area.",
+                "fr": "Profitez de la vue sur les skieurs directement depuis l'aire de stationnement."
               }
             },
             {
@@ -2066,7 +2165,8 @@
                 "de": "Zufahrt kann bei starkem Schneefall eingeschränkt sein.",
                 "hu": "Erős havazás esetén az idevezető út korlátozott lehet.",
                 "ro": "Accesul poate fi restricționat în caz de ninsoare abundentă.",
-                "en": "Access road may be restricted during periods of heavy snowfall."
+                "en": "Access road may be restricted during periods of heavy snowfall.",
+                "fr": "La route d'accès peut être restreinte durant de fortes chutes de neige."
               }
             },
             {
@@ -2075,7 +2175,8 @@
                 "de": "Die Straße endet oft an einem beeindruckenden Schneewall.",
                 "hu": "Az út gyakran egy hatalmas hófalnál ér véget.",
                 "ro": "Drumul se termină adesea în fața unui perete uriaș de zăpadă.",
-                "en": "The road often ends abruptly at a massive wall of snow."
+                "en": "The road often ends abruptly at a massive wall of snow.",
+                "fr": "La route se termine souvent brusquement contre un mur massif de neige."
               }
             }
           ],
@@ -2110,9 +2211,9 @@
             ],
             "fr": [
               "Les pneus hiver et les chaînes à neige sont strictement obligatoires dans la voiture.",
-              "Gardez toujours votre réservoir de carburant à plus de la moitié en cas d'urgence.",
-              "Déneigez complètement le toit de votre véhicule avant de partir.",
-              "Consultez le bulletin d'avalanche quotidien pour la sécurité routière locale.",
+              "Gardez toujours votre réservoir de carburant rempli à plus de la moitié pour les urgences.",
+              "Enlevez complètement toute la neige du toit avant de repartir.",
+              "Consultez le bulletin avalanche quotidien pour la sécurité des routes locales.",
               "Conduisez prudemment et évitez tout mouvement brusque du volant."
             ]
           }
@@ -2132,7 +2233,8 @@
             "de": "Musée Val d'Histoire",
             "hu": "Val d'Histoire Múzeum",
             "ro": "Muzeul Val d'Histoire",
-            "en": "Val d'Histoire Museum"
+            "en": "Val d'Histoire Museum",
+            "fr": "Musée Val d'Histoire"
           },
           "coords": [
             6.9812,
@@ -2156,7 +2258,8 @@
             "de": "Rocher de Bellevarde",
             "hu": "Bellevarde-szikla",
             "ro": "Rocher de Bellevarde",
-            "en": "Rocher de Bellevarde"
+            "en": "Rocher de Bellevarde",
+            "fr": "Rocher de Bellevarde"
           },
           "coords": [
             6.9452,
@@ -2172,7 +2275,7 @@
             "hu": "Az 'Olympique' gondola közvetlenül a hómezőről indul.",
             "ro": "Telegondola 'Olympique' pleacă direct din Piața Zăpezii.",
             "en": "The 'Olympique' gondola starts directly from the snow front.",
-            "fr": "La télécabine 'Olympique' part directement du front de neige."
+            "fr": "La gondole 'Olympique' part directement du front de neige."
           }
         },
         {
@@ -2180,7 +2283,8 @@
             "de": "Lac de l'Ouillette",
             "hu": "Ouillette-tó",
             "ro": "Lacul de l'Ouillette",
-            "en": "Ouillette Lake"
+            "en": "Ouillette Lake",
+            "fr": "Lac de l'Ouillette"
           },
           "coords": [
             6.9655,
@@ -2196,7 +2300,7 @@
             "hu": "Csatlakozás a 'Solaise' gondolás felvonóval.",
             "ro": "Conexiune cu telecabina 'Solaise'.",
             "en": "Connection via the 'Solaise' gondola lift.",
-            "fr": "Connexion via la télécabine de 'Solaise'."
+            "fr": "Connexion via la télécabine 'Solaise'."
           }
         },
         {
@@ -2204,7 +2308,8 @@
             "de": "Le Fornet",
             "hu": "Le Fornet",
             "ro": "Le Fornet",
-            "en": "Le Fornet"
+            "en": "Le Fornet",
+            "fr": "Le Fornet"
           },
           "coords": [
             7.0012,
@@ -2220,7 +2325,7 @@
             "hu": "A piros 'Train Rouge' ingajárat 15 percenként jár.",
             "ro": "Autobuzul roșu 'Train Rouge' circulă la fiecare 15 minute.",
             "en": "The red 'Train Rouge' shuttle runs every 15 minutes.",
-            "fr": "La navette rouge 'Train Rouge' passe toutes les 15 minutes."
+            "fr": "La navette rouge 'Train Rouge' circule toutes les 15 minutes."
           }
         },
         {
@@ -2228,7 +2333,8 @@
             "de": "Cascade du Fornet",
             "hu": "Fornet-vízesés",
             "ro": "Cascada du Fornet",
-            "en": "Fornet Waterfall"
+            "en": "Fornet Waterfall",
+            "fr": "Cascade du Fornet"
           },
           "coords": [
             7.0045,
@@ -2244,7 +2350,7 @@
             "hu": "Csak 5 perc séta a Le Fornet buszvégállomástól.",
             "ro": "La doar 5 minute de mers pe jos de capătul liniei de autobuz Le Fornet.",
             "en": "Just a 5-minute walk from the Le Fornet bus terminus.",
-            "fr": "À seulement 5 minutes à pied du terminus des bus du Fornet."
+            "fr": "À seulement 5 minutes à pied du terminus de bus de Le Fornet."
           }
         }
       ],
@@ -2253,7 +2359,7 @@
         "hu": "A kiváló 'Train Rouge' ingyenes buszhálózatnak és a modern felvonóknak köszönhetően Val-d'Isère autó nélkül is tökéletesen bejárható. Kezdjük a központi múzeumban, majd repüljünk fel a Solaise felvonóval az Ouillette-tóhoz. Váltsunk a Bellevarde-ra a legjobb panorámáért, mielőtt a piros busz elvinne minket a bájos Le Fornet-be. Egy rövid séta a Fornet-vízeséshez tökéletesen zárja a savoyai hegyekben töltött napot.",
         "ro": "Datorită excelentului sistem de autobuze gratuite 'Train Rouge' și a telecabinelor moderne, Val-d'Isère poate fi explorat perfect fără mașină. Începeți la muzeul din centru, apoi urcați cu telecabina Solaise la Lac de l'Ouillette. Treceți la Bellevarde pentru cea mai bună panoramă, înainte ca autobuzul roșu să vă ducă în fermecătorul cartier Le Fornet. O scurtă plimbare la Cascada du Fornet completează ziua în munții savoiarzi.",
         "en": "Thanks to the excellent 'Train Rouge' free shuttle system and modern ski lifts, Val-d'Isère is perfectly accessible without a car. Start at the central museum before gliding up the Solaise lift to the high-alpine Lac de l'Ouillette. Switch to Bellevarde for the ultimate panorama before catching the red shuttle to the charming hamlet of Le Fornet. A short stroll to the Cascade du Fornet rounds off your day in the Savoyard mountains.",
-        "fr": "Grâce à l'excellent système de navettes gratuites 'Train Rouge' et aux remontées mécaniques modernes, Val-d'Isère est parfaitement accessible sans voiture. Commencez par le musée central avant de glisser vers le lac de l'Ouillette en altitude avec la remontée de Solaise. Changez pour Bellevarde pour le panorama ultime avant de prendre la navette rouge vers le charmant hameau du Fornet. Une courte promenade jusqu'à la cascade du Fornet complète votre journée dans les montagnes savoyardes."
+        "fr": "Grâce à l'excellent système de navettes gratuites 'Train Rouge' et aux remontées mécaniques modernes, Val-d'Isère est parfaitement accessible sans voiture. Commencez par le musée central avant de monter en douceur avec la Solaise jusqu'au lac d'altitude de l'Ouillette. Changez pour Bellevarde pour le panorama ultime, puis prenez la navette rouge jusqu'au charmant hameau du Fornet. Une courte promenade jusqu'à la Cascade du Fornet clôture votre journée dans les montagnes savoyardes."
       },
       "gastro_picks": {
         "de": [
@@ -2382,10 +2488,10 @@
           "The last lift ascent is usually around 4:30 PM; plan your return accordingly."
         ],
         "fr": [
-          "Les navettes sont gratuites dans tout le village ; aucun ticket n'est requis.",
-          "Les forfaits de remontées mécaniques d'été peuvent être achetés aux gares de départ.",
+          "Les navettes sont gratuites dans tout le village ; aucun ticket requis.",
+          "Les forfaits de remontées d'été peuvent être achetés aux gares de vallée.",
           "Téléchargez l'application 'Val d'Isère Ski' pour le suivi des bus en temps réel.",
-          "La dernière montée est généralement vers 16h30 ; planifiez votre retour en conséquence."
+          "La dernière montée en remontée est généralement aux alentours de 16h30 ; planifiez votre retour en conséquence."
         ]
       },
       "variants": {
@@ -2394,7 +2500,8 @@
             "de": "Dank des exzellenten Gratis-Bussystems 'Train Rouge' und der modernen Bergbahnen ist Val-d'Isère auch ohne Auto perfekt erlebbar. Starten Sie im Museum im Zentrum, bevor Sie mit der Solaise-Bahn in die alpine Höhe zum Lac de l'Ouillette schweben. Wechseln Sie zum Bellevarde für den besten Panoramablick, bevor Sie der rote Pendelbus in den charmanten Ortsteil Le Fornet bringt. Ein kurzer Spaziergang zur Cascade du Fornet rundet Ihren Tag in der savoyischen Bergwelt ab.",
             "hu": "A kiváló 'Train Rouge' ingyenes buszhálózatnak és a modern felvonóknak köszönhetően Val-d'Isère autó nélkül is tökéletesen bejárható. Kezdjük a központi múzeumban, majd repüljünk fel a Solaise felvonóval az Ouillette-tóhoz. Váltsunk a Bellevarde-ra a legjobb panorámáért, mielőtt a piros busz elvinne minket a bájos Le Fornet-be. Egy rövid séta a Fornet-vízeséshez tökéletesen zárja a savoyai hegyekben töltött napot.",
             "ro": "Datorită excelentului sistem de autobuze gratuite 'Train Rouge' și a telecabinelor moderne, Val-d'Isère poate fi explorat perfect fără mașină. Începeți la muzeul din centru, apoi urcați cu telecabina Solaise la Lac de l'Ouillette. Treceți la Bellevarde pentru cea mai bună panoramă, înainte ca autobuzul roșu să vă ducă în fermecătorul cartier Le Fornet. O scurtă plimbare la Cascada du Fornet completează ziua în munții savoiarzi.",
-            "en": "Thanks to the excellent 'Train Rouge' free shuttle system and modern ski lifts, Val-d'Isère is perfectly accessible without a car. Start at the central museum before gliding up the Solaise lift to the high-alpine Lac de l'Ouillette. Switch to Bellevarde for the ultimate panorama before catching the red shuttle to the charming hamlet of Le Fornet. A short stroll to the Cascade du Fornet rounds off your day in the Savoyard mountains."
+            "en": "Thanks to the excellent 'Train Rouge' free shuttle system and modern ski lifts, Val-d'Isère is perfectly accessible without a car. Start at the central museum before gliding up the Solaise lift to the high-alpine Lac de l'Ouillette. Switch to Bellevarde for the ultimate panorama before catching the red shuttle to the charming hamlet of Le Fornet. A short stroll to the Cascade du Fornet rounds off your day in the Savoyard mountains.",
+            "fr": "Grâce à l'excellent système de navettes gratuites 'Train Rouge' et aux remontées mécaniques modernes, Val-d'Isère est parfaitement accessible sans voiture. Commencez par le musée central avant de monter en douceur avec la Solaise jusqu'au lac d'altitude de l'Ouillette. Changez pour Bellevarde pour le panorama ultime, puis prenez la navette rouge jusqu'au charmant hameau du Fornet. Une courte promenade jusqu'à la Cascade du Fornet clôture votre journée dans les montagnes savoyardes."
           },
           "stops": [
             {
@@ -2402,13 +2509,15 @@
                 "de": "Musée Val d'Histoire",
                 "hu": "Val d'Histoire Múzeum",
                 "ro": "Muzeul Val d'Histoire",
-                "en": "Val d'Histoire Museum"
+                "en": "Val d'Histoire Museum",
+                "fr": "Musée Val d'Histoire"
               },
               "tip_5lang": {
                 "de": "Zentrale Haltestelle 'Gare Routière' nutzen.",
                 "hu": "Használd a 'Gare Routière' központi megállót.",
                 "ro": "Folosiți stația centrală 'Gare Routière'.",
-                "en": "Use the 'Gare Routière' central stop."
+                "en": "Use the 'Gare Routière' central stop.",
+                "fr": "Utilisez l'arrêt central 'Gare Routière'."
               }
             },
             {
@@ -2416,13 +2525,15 @@
                 "de": "Rocher de Bellevarde",
                 "hu": "Bellevarde-szikla",
                 "ro": "Rocher de Bellevarde",
-                "en": "Rocher de Bellevarde"
+                "en": "Rocher de Bellevarde",
+                "fr": "Rocher de Bellevarde"
               },
               "tip_5lang": {
                 "de": "Die 'Olympique' Gondel startet direkt am Schneeplatz.",
                 "hu": "Az 'Olympique' gondola közvetlenül a hómezőről indul.",
                 "ro": "Telegondola 'Olympique' pleacă direct din Piața Zăpezii.",
-                "en": "The 'Olympique' gondola starts directly from the snow front."
+                "en": "The 'Olympique' gondola starts directly from the snow front.",
+                "fr": "La gondole 'Olympique' part directement du front de neige."
               }
             },
             {
@@ -2430,13 +2541,15 @@
                 "de": "Lac de l'Ouillette",
                 "hu": "Ouillette-tó",
                 "ro": "Lacul de l'Ouillette",
-                "en": "Ouillette Lake"
+                "en": "Ouillette Lake",
+                "fr": "Lac de l'Ouillette"
               },
               "tip_5lang": {
                 "de": "Verbindung mit der 'Solaise' Gondelbahn.",
                 "hu": "Csatlakozás a 'Solaise' gondolás felvonóval.",
                 "ro": "Conexiune cu telecabina 'Solaise'.",
-                "en": "Connection via the 'Solaise' gondola lift."
+                "en": "Connection via the 'Solaise' gondola lift.",
+                "fr": "Connexion via la télécabine 'Solaise'."
               }
             },
             {
@@ -2444,13 +2557,15 @@
                 "de": "Le Fornet",
                 "hu": "Le Fornet",
                 "ro": "Le Fornet",
-                "en": "Le Fornet"
+                "en": "Le Fornet",
+                "fr": "Le Fornet"
               },
               "tip_5lang": {
                 "de": "Der rote 'Train Rouge' Pendelbus fährt alle 15 Minuten.",
                 "hu": "A piros 'Train Rouge' ingajárat 15 percenként jár.",
                 "ro": "Autobuzul roșu 'Train Rouge' circulă la fiecare 15 minute.",
-                "en": "The red 'Train Rouge' shuttle runs every 15 minutes."
+                "en": "The red 'Train Rouge' shuttle runs every 15 minutes.",
+                "fr": "La navette rouge 'Train Rouge' circule toutes les 15 minutes."
               }
             },
             {
@@ -2458,13 +2573,15 @@
                 "de": "Cascade du Fornet",
                 "hu": "Fornet-vízesés",
                 "ro": "Cascada du Fornet",
-                "en": "Fornet Waterfall"
+                "en": "Fornet Waterfall",
+                "fr": "Cascade du Fornet"
               },
               "tip_5lang": {
                 "de": "Nur 5 Gehminuten von der Bus-Endstation Le Fornet.",
                 "hu": "Csak 5 perc séta a Le Fornet buszvégállomástól.",
                 "ro": "La doar 5 minute de mers pe jos de capătul liniei de autobuz Le Fornet.",
-                "en": "Just a 5-minute walk from the Le Fornet bus terminus."
+                "en": "Just a 5-minute walk from the Le Fornet bus terminus.",
+                "fr": "À seulement 5 minutes à pied du terminus de bus de Le Fornet."
               }
             }
           ],
@@ -2574,6 +2691,12 @@
               "Summer lift passes can be purchased at the valley stations.",
               "Download the 'Val d'Isère Ski' app for real-time bus tracking.",
               "The last lift ascent is usually around 4:30 PM; plan your return accordingly."
+            ],
+            "fr": [
+              "Les navettes sont gratuites dans tout le village ; aucun ticket requis.",
+              "Les forfaits de remontées d'été peuvent être achetés aux gares de vallée.",
+              "Téléchargez l'application 'Val d'Isère Ski' pour le suivi des bus en temps réel.",
+              "La dernière montée en remontée est généralement aux alentours de 16h30 ; planifiez votre retour en conséquence."
             ]
           }
         },
@@ -2583,7 +2706,7 @@
             "hu": "Reggel az ingyenes busz szárazon visz a múzeumhoz. Délben a kabinos felvonó a felhők közé repít a Bellevarde-on. Délután a buszozás a tóhoz kellemes pihenő az esőben. Este a kivilágított, vizes utcákon át térünk vissza a szállásunkra.",
             "ro": "Dimineața, autobuzul vă duce confortabil și uscat la muzeu. La prânz, telecabina spre Bellevarde plutește prin nori. După-amiaza, drumul spre lac este o pauză relaxantă de la ploaie. Seara revenim prin satul luminat și ud cu autobuzul local.",
             "en": "Morning shuttles provide a dry and comfortable ride to the museum. Midday gondola trips to Bellevarde feel like floating through the clouds. Afternoon bus rides to the lake offer a peaceful break from the rain. Evening returns through the glowing, wet village streets by bus.",
-            "fr": "Le matin, les navettes offrent un trajet sec et confortable jusqu'au musée. Le midi, les trajets en télécabine vers Bellevarde donnent l'impression de flotter à travers les nuages. L'après-midi, le trajet en bus vers le lac offre une pause paisible loin de la pluie. Le soir, retour en bus à travers les rues mouillées et scintillantes du village."
+            "fr": "Les navettes du matin offrent un trajet sec et confortable jusqu'au musée. Les montées en télécabine à midi vers Bellevarde donnent l'impression de flotter dans les nuages. Les trajets en bus de l'après-midi vers le lac offrent une pause paisible loin de la pluie. Les retours du soir traversent le village humide et illuminé en bus."
           },
           "stops": [
             {
@@ -2592,7 +2715,8 @@
                 "de": "Die Bushaltestelle befindet sich direkt vor dem Eingang.",
                 "hu": "A buszmegálló közvetlenül a bejárat előtt található.",
                 "ro": "Stația de autobuz se află chiar în fața intrării.",
-                "en": "The bus stop is located conveniently right in front of the entrance."
+                "en": "The bus stop is located conveniently right in front of the entrance.",
+                "fr": "L'arrêt de bus se situe juste devant l'entrée, de façon pratique."
               }
             },
             {
@@ -2601,7 +2725,8 @@
                 "de": "Die Gondel bietet Schutz, aber oben kann es sehr windig sein.",
                 "hu": "A felvonó védett, de fent nagyon szeles lehet az idő.",
                 "ro": "Telecabina oferă protecție, dar sus poate fi foarte vântos.",
-                "en": "The gondola provides shelter, but it can be very windy at the top."
+                "en": "The gondola provides shelter, but it can be very windy at the top.",
+                "fr": "La télécabine abrite, mais il peut y avoir beaucoup de vent au sommet."
               }
             },
             {
@@ -2610,7 +2735,8 @@
                 "de": "Prüfen Sie den Fahrplan, bei Regen fahren Busse seltener.",
                 "hu": "Ellenőrizze a menetrendet, esőben ritkábban járhatnak a buszok.",
                 "ro": "Verificați orarul, autobuzele pot circula mai rar pe ploaie.",
-                "en": "Check the schedule; buses may run less frequently during heavy rain."
+                "en": "Check the schedule; buses may run less frequently during heavy rain.",
+                "fr": "Vérifiez les horaires ; les bus peuvent circuler moins fréquemment sous de fortes pluies."
               }
             },
             {
@@ -2619,7 +2745,8 @@
                 "de": "Überdachte Haltestellen bieten Schutz beim Warten.",
                 "hu": "A fedett buszvárók védelmet nyújtanak várakozás közben.",
                 "ro": "Stațiile de autobuz acoperite oferă adăpost în timp ce așteptați.",
-                "en": "Covered bus stops provide excellent protection while waiting."
+                "en": "Covered bus stops provide excellent protection while waiting.",
+                "fr": "Les abris d'arrêt couverts offrent une excellente protection en attendant."
               }
             },
             {
@@ -2628,7 +2755,8 @@
                 "de": "Ein kurzer Fußmarsch von der Haltestelle durch den Regen.",
                 "hu": "Rövid séta a buszmegállótól az esőben a vízesésig.",
                 "ro": "O scurtă plimbare prin ploaie de la stația de autobuz.",
-                "en": "A short walk through the rain from the nearest bus stop."
+                "en": "A short walk through the rain from the nearest bus stop.",
+                "fr": "Courte marche sous la pluie depuis l'arrêt de bus le plus proche."
               }
             }
           ],
@@ -2662,11 +2790,11 @@
               "Keep your transit pass dry and easily accessible for scanning."
             ],
             "fr": [
-              "Utilisez l'application locale pour obtenir les horaires de bus en temps réel.",
-              "Les bus sont bondés quand il pleut ; prévoyez un peu d'attente.",
-              "Retirez vos ponchos de pluie dégoulinants avant de monter dans le bus.",
-              "Les remontées mécaniques peuvent fermer temporairement en cas de vents forts.",
-              "Gardez votre forfait de transport au sec et facilement accessible pour le scan."
+              "Utilisez l'application locale pour l'information d'arrivée des bus en temps réel.",
+              "Les bus se remplissent par temps de pluie ; prévoyez des temps d'attente.",
+              "Retirez les ponchos trempés avant de monter dans le bus.",
+              "Les remontées et télécabines peuvent fermer temporairement par grand vent.",
+              "Gardez votre titre de transport au sec et facilement accessible pour la validation."
             ]
           }
         },
@@ -2676,7 +2804,7 @@
             "hu": "Reggel a fűtött síbusz repít a múzeum bejáratához. Délben a Bellevarde-felvonóból fentről csodálhatjuk a síelőket. Délután a buszablakból figyelhetjük a hófödte tájat a tó felé. Este a busz a kivilágított, hangulatos téli utcákon kanyarog.",
             "ro": "Dimineața, autobuzul încălzit vă lasă direct la muzeu. La prânz, urcarea spre Bellevarde oferă vederi spectaculoase asupra pârtiilor. După-amiaza, drumul spre lac este o călătorie printr-un peisaj de basm. Seara, autobuzul alunecă prin stațiunea luminată festiv.",
             "en": "Morning shuttles offer a warm ride straight to the museum entrance. Midday gondola ascents to Bellevarde provide stunning views of the ski runs. Afternoon transit to the lake feels like a journey through a white wonderland. Evening bus rides pass through the festively lit winter resort.",
-            "fr": "Le matin, les navettes offrent un trajet au chaud directement jusqu'à l'entrée du musée. Le midi, les ascensions en télécabine vers Bellevarde offrent des vues imprenables sur les pistes de ski. L'après-midi, le transport vers le lac ressemble à un voyage dans un monde féerique tout blanc. Le soir, les trajets en bus traversent la station de sports d'hiver aux illuminations festives."
+            "fr": "Les navettes du matin offrent un trajet chaud directement jusqu'à l'entrée du musée. Les ascensions en télécabine à midi vers Bellevarde offrent des vues magnifiques sur les pistes. Les trajets de l'après-midi vers le lac donnent l'impression d'un voyage dans un paysage blanc féerique. Les retours du soir en bus traversent la station d'hiver illuminée."
           },
           "stops": [
             {
@@ -2685,7 +2813,8 @@
                 "de": "Die Busse fahren im Winter sehr häufig (alle 5-10 Min).",
                 "hu": "A buszok télen nagyon gyakran (5-10 percenként) járnak.",
                 "ro": "Autobuzele circulă foarte des iarna (la fiecare 5-10 minute).",
-                "en": "Buses run very frequently in winter (every 5-10 minutes)."
+                "en": "Buses run very frequently in winter (every 5-10 minutes).",
+                "fr": "Les bus circulent très fréquemment en hiver (toutes les 5–10 minutes)."
               }
             },
             {
@@ -2694,7 +2823,8 @@
                 "de": "Kombinieren Sie die Fahrt mit einer Kaffeepause oben im Warmen.",
                 "hu": "Kösse össze a látogatást egy kávészünettel fent a melegben.",
                 "ro": "Combinați vizita cu o pauză de cafea la căldură, sus.",
-                "en": "Combine your trip with a hot chocolate break at the top station."
+                "en": "Combine your trip with a hot chocolate break at the top station.",
+                "fr": "Combinez votre excursion avec une pause chocolat chaud à la gare d'arrivée."
               }
             },
             {
@@ -2703,7 +2833,8 @@
                 "de": "Der letzte Bus zurück fährt kurz nach Sonnenuntergang.",
                 "hu": "Az utolsó busz visszafelé röviddel naplemente után indul.",
                 "ro": "Ultimul autobuz spre centru pleacă imediat după apus.",
-                "en": "The last bus back departs shortly after the winter sunset."
+                "en": "The last bus back departs shortly after the winter sunset.",
+                "fr": "Le dernier bus de retour part peu après le coucher du soleil hivernal."
               }
             },
             {
@@ -2712,7 +2843,8 @@
                 "de": "Beliebter Stopp für Skifahrer, planen Sie etwas Zeit ein.",
                 "hu": "Népszerű megálló a síelők körében, számoljon tömeggel.",
                 "ro": "Stație populară pentru schiori, așteptați-vă la aglomerație.",
-                "en": "A popular stop for skiers; expect some crowds during peak hours."
+                "en": "A popular stop for skiers; expect some crowds during peak hours.",
+                "fr": "Arrêt populaire auprès des skieurs ; attendez-vous à de l'affluence aux heures de pointe."
               }
             },
             {
@@ -2721,7 +2853,8 @@
                 "de": "Der Pfad von der Haltestelle kann festgetreten und glatt sein.",
                 "hu": "A megállótól vezető ösvény letaposott és csúszós lehet.",
                 "ro": "Poteca de la stație poate fi bătătorită și alunecoasă.",
-                "en": "The path from the bus stop can be packed down and slippery."
+                "en": "The path from the bus stop can be packed down and slippery.",
+                "fr": "Le chemin depuis l'arrêt de bus peut être compacté et glissant."
               }
             }
           ],
@@ -2755,11 +2888,11 @@
               "Wear boots with good tread for the walk to and from the stop."
             ],
             "fr": [
-              "Faites attention aux autres passagers qui transportent des skis à l'intérieur du bus.",
-              "L'intérieur des bus est souvent très chauffé ; habillez-vous en plusieurs couches.",
+              "Faites attention aux autres passagers portant des skis dans le bus.",
+              "L'intérieur des bus est souvent très chauffé ; habillez-vous en couches.",
               "Les navettes du soir sont parfaites pour explorer le village sans voiture.",
-              "Vérifiez toujours l'heure de fin de service des remontées pour votre retour.",
-              "Portez des chaussures avec une bonne adhérence pour la marche vers l'arrêt."
+              "Vérifiez toujours les heures de fermeture des dernières remontées pour votre retour.",
+              "Portez des chaussures avec une bonne adhérence pour les trajets vers et depuis l'arrêt."
             ]
           }
         }

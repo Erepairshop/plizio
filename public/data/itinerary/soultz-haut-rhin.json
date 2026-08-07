@@ -21,7 +21,8 @@
             "de": "Place de la République",
             "hu": "Köztársaság tér",
             "ro": "Piața Republicii",
-            "en": "Republic Square"
+            "en": "Republic Square",
+            "fr": "Place de la République"
           },
           "coords": [
             7.229478,
@@ -36,7 +37,8 @@
             "de": "Bewundern Sie die Architektur auf dem belebten Place de la République, dem Herzen von Soultz, und genießen Sie einen Kaffee in einem der kleinen Bistros in der Nähe.",
             "hu": "Csodálja meg az építészetet a nyüzsgő Republic Square-en, Soultz szívében, és igyon egy kávét a térhez közeli hangulatos kis bisztrók egyikében, miközben pihen.",
             "ro": "Admirați arhitectura din animata Piață a Republicii, inima orașului Soultz, și savurați o cafea relaxantă la unul dintre micile bistrouri aflate chiar în apropiere.",
-            "en": "Admire the architecture at the bustling Republic Square, the true heart of Soultz, and enjoy a relaxing coffee break at one of the small bistros located nearby."
+            "en": "Admire the architecture at the bustling Republic Square, the true heart of Soultz, and enjoy a relaxing coffee break at one of the small bistros located nearby.",
+            "fr": "Admirez l’architecture de la dynamique place de la République, véritable cœur de Soultz, et prenez un café relaxant dans l’un des petits bistrots situés à proximité."
           }
         },
         {
@@ -44,7 +46,8 @@
             "de": "Kirche Saint-Maurice",
             "hu": "Saint-Maurice templom",
             "ro": "Biserica Saint-Maurice",
-            "en": "Saint-Maurice Church"
+            "en": "Saint-Maurice Church",
+            "fr": "Église Saint-Maurice"
           },
           "coords": [
             7.230117,
@@ -59,7 +62,8 @@
             "de": "Besichtigen Sie die Kirche Saint-Maurice, ein gotisches Meisterwerk mit wunderschönen Glasfenstern, und achten Sie besonders auf die feinen Details der alten Orgel.",
             "hu": "Látogassa meg a Saint-Maurice templomot, ezt a gótikus remekművet, és figyelje meg a csodálatos üvegablakokat, valamint az ősi orgona lenyűgözően finom részleteit.",
             "ro": "Vizitați Biserica Saint-Maurice, o capodoperă gotică cu vitralii superbe, și acordați o atenție deosebită detaliilor fine și impresionante ale orgii sale antice.",
-            "en": "Visit Saint-Maurice Church, a Gothic masterpiece boasting beautiful stained glass windows, and pay special attention to the fine details of its remarkable ancient organ."
+            "en": "Visit Saint-Maurice Church, a Gothic masterpiece boasting beautiful stained glass windows, and pay special attention to the fine details of its remarkable ancient organ.",
+            "fr": "Visitez l’église Saint-Maurice, un chef-d’œuvre gothique doté de magnifiques vitraux, et prêtez une attention particulière aux détails de son remarquable orgue ancien."
           }
         },
         {
@@ -67,7 +71,8 @@
             "de": "Schloss Bucheneck",
             "hu": "Bucheneck kastély",
             "ro": "Castelul Bucheneck",
-            "en": "Bucheneck Castle"
+            "en": "Bucheneck Castle",
+            "fr": "Château de Bucheneck"
           },
           "coords": [
             7.227384,
@@ -82,7 +87,8 @@
             "de": "Entdecken Sie die lokale Geschichte im Schloss Bucheneck, das heute ein faszinierendes Museum beherbergt, und planen Sie genug Zeit für die historischen Artefakte ein.",
             "hu": "Fedezze fel a helyi történelmet a Bucheneck kastélyban, amely ma lenyűgöző múzeumként működik, és szánjon elegendő időt a ritka történelmi tárgyak megtekintésére.",
             "ro": "Descoperiți istoria locală la Castelul Bucheneck, care găzduiește acum un muzeu fascinant, și asigurați-vă că alocați suficient timp pentru a admira artefactele vechi.",
-            "en": "Discover local history at Bucheneck Castle, which now houses a fascinating museum, and make sure to allocate enough time to admire the rare historical artifacts."
+            "en": "Discover local history at Bucheneck Castle, which now houses a fascinating museum, and make sure to allocate enough time to admire the rare historical artifacts.",
+            "fr": "Découvrez l’histoire locale au château de Bucheneck, qui abrite aujourd’hui un musée fascinant ; prévoyez suffisamment de temps pour admirer les rares artefacts historiques."
           }
         },
         {
@@ -90,7 +96,8 @@
             "de": "Nef des Jouets",
             "hu": "Nef des Jouets",
             "ro": "Nef des Jouets",
-            "en": "Nef des Jouets"
+            "en": "Nef des Jouets",
+            "fr": "Nef des Jouets"
           },
           "coords": [
             7.227399,
@@ -105,7 +112,8 @@
             "de": "Tauchen Sie in der Nef des Jouets in die nostalgische Welt der alten Spielzeuge ein und bringen Sie Ihre Kinder mit, um die interaktiven Ausstellungsstücke zu erleben.",
             "hu": "Merüljön el a régi játékok nosztalgikus világában a Nef des Jouets múzeumban, és hozza el a gyerekeket is, hogy közösen fedezzék fel az interaktív kiállításokat.",
             "ro": "Pătrundeți în lumea nostalgică a jucăriilor vechi la muzeul Nef des Jouets și asigurați-vă că aduceți copiii pentru a se bucura de expozițiile interactive și unice.",
-            "en": "Dive into the nostalgic world of vintage toys at the Nef des Jouets museum, and be sure to bring your children along to fully enjoy the interactive exhibits on display."
+            "en": "Dive into the nostalgic world of vintage toys at the Nef des Jouets museum, and be sure to bring your children along to fully enjoy the interactive exhibits on display.",
+            "fr": "Plongez dans le monde nostalgique des jouets anciens au musée Nef des Jouets, et n’hésitez pas à amener vos enfants pour profiter pleinement des expositions interactives."
           }
         },
         {
@@ -113,7 +121,8 @@
             "de": "Synagoge",
             "hu": "Zsinagóga",
             "ro": "Sinagoga",
-            "en": "Synagogue"
+            "en": "Synagogue",
+            "fr": "Synagogue"
           },
           "coords": [
             7.227344,
@@ -128,7 +137,8 @@
             "de": "Betrachten Sie die architektonischen Besonderheiten der alten Synagoge von Soultz, die ein wichtiges Zeugnis der jüdischen Gemeinde ist, am besten bei Tageslicht.",
             "hu": "Figyelje meg a soultzi régi zsinagóga építészeti sajátosságait, amely a zsidó közösség fontos emlékhelye, és a legszebb arcát természetes nappali fénynél mutatja.",
             "ro": "Observați caracteristicile arhitecturale ale vechii sinagogi din Soultz, o mărturie importantă a comunității evreiești, de preferat în timpul zilei pentru o lumină bună.",
-            "en": "Observe the architectural features of the old Synagogue of Soultz, an important testament to the local Jewish community, best appreciated in natural daylight."
+            "en": "Observe the architectural features of the old Synagogue of Soultz, an important testament to the local Jewish community, best appreciated in natural daylight.",
+            "fr": "Observez les caractéristiques architecturales de l’ancienne synagogue de Soultz, un important témoignage de la communauté juive locale, à apprécier de préférence en lumière naturelle."
           }
         },
         {
@@ -136,7 +146,8 @@
             "de": "Kapelle Saint-Georges",
             "hu": "Saint-Georges kápolna",
             "ro": "Capela Saint-Georges",
-            "en": "Chapelle Saint-Georges"
+            "en": "Chapelle Saint-Georges",
+            "fr": "Chapelle Saint-Georges"
           },
           "coords": [
             7.235603,
@@ -151,7 +162,8 @@
             "de": "Genießen Sie die friedliche Atmosphäre der Chapelle Saint-Georges, einer malerischen Kapelle am Rande der Stadt, und machen Sie hier eine kurze Pause im Schatten.",
             "hu": "Élvezze a Chapelle Saint-Georges békés atmoszféráját, amely egy festői kápolna a város szélén, és tartson itt egy rövid, frissítő pihenőt a fák hűs árnyékában.",
             "ro": "Bucurați-vă de atmosfera pașnică de la Chapelle Saint-Georges, o capelă pitorească la marginea orașului, și faceți o scurtă pauză de relaxare la umbra copacilor.",
-            "en": "Enjoy the peaceful atmosphere of Chapelle Saint-Georges, a picturesque chapel on the edge of town, and take a short refreshing break in the shade of the trees here."
+            "en": "Enjoy the peaceful atmosphere of Chapelle Saint-Georges, a picturesque chapel on the edge of town, and take a short refreshing break in the shade of the trees here.",
+            "fr": "Appréciez l’atmosphère paisible de la chapelle Saint-Georges, une chapelle pittoresque en bordure de ville, et faites une courte pause revigorante à l’ombre des arbres."
           }
         }
       ],
@@ -159,7 +171,8 @@
         "de": "Beginnen Sie Ihren Rundgang im Herzen von Soultz auf dem belebten Place de la République. Genießen Sie die morgendliche Atmosphäre.\nDie majestätische Kirche Saint-Maurice und das faszinierende Schloss Bucheneck entführen Sie in die reiche Vergangenheit der Stadt.\nNachmittags weckt das Spielzeugmuseum Nef des Jouets nostalgische Gefühle, gefolgt von einem Besuch der alten Synagoge.\nDer Tag endet mit einem entspannten Spaziergang zur malerischen Chapelle Saint-Georges, wo Sie in Ruhe den Abend ausklingen lassen können.",
         "hu": "Kezdje a sétát Soultz szívében, a nyüzsgő Republic Square-en. Szívja magába a friss reggeli hangulatot és a kávézók illatát.\nA fenséges Saint-Maurice templom és a lenyűgöző Bucheneck kastély elkalauzolja Önt a város gazdag és fordulatos múltjába.\nDélután a Nef des Jouets játékmúzeum ébreszt nosztalgikus érzéseket, amelyet a régi zsinagóga megtekintése követ.\nA nap egy pihentető sétával zárul a festői Chapelle Saint-Georges felé, ahol békében és csendben élvezheti a csodálatos estét.",
         "ro": "Începeți turul în inima orașului Soultz, în animata Piață a Republicii. Bucurați-vă de atmosfera matinală și de aroma cafelei proaspete.\nMăreața Biserică Saint-Maurice și fascinantul Castel Bucheneck vă vor purta în trecutul bogat și interesant al acestui oraș istoric.\nDupă-amiaza, muzeul de jucării Nef des Jouets trezește sentimente nostalgice, urmat de o vizită la vechea și impresionanta sinagogă.\nZiua se încheie cu o plimbare relaxantă către pitoreasca Chapelle Saint-Georges, unde vă puteți bucura de o seară liniștită.",
-        "en": "Begin your walking tour in the heart of Soultz at the bustling Republic Square. Soak in the fresh morning atmosphere and lively vibe.\nThe majestic Saint-Maurice Church and the fascinating Bucheneck Castle will transport you back into the city's rich and vibrant past.\nIn the afternoon, the Nef des Jouets toy museum awakens nostalgic feelings, followed closely by a visit to the historic local synagogue.\nThe day concludes with a relaxing stroll to the picturesque Chapelle Saint-Georges, where you can unwind in peace as evening falls."
+        "en": "Begin your walking tour in the heart of Soultz at the bustling Republic Square. Soak in the fresh morning atmosphere and lively vibe.\nThe majestic Saint-Maurice Church and the fascinating Bucheneck Castle will transport you back into the city's rich and vibrant past.\nIn the afternoon, the Nef des Jouets toy museum awakens nostalgic feelings, followed closely by a visit to the historic local synagogue.\nThe day concludes with a relaxing stroll to the picturesque Chapelle Saint-Georges, where you can unwind in peace as evening falls.",
+        "fr": "Commencez votre visite à pied au cœur de Soultz sur la dynamique place de la République. Imprégnez-vous de l’air frais du matin et de l’ambiance animée.\nLa majestueuse église Saint-Maurice et le fascinant château de Bucheneck vous replongeront dans le riche passé de la ville.\nL’après-midi, le musée Nef des Jouets éveille la nostalgie, suivi de près par la visite de la synagogue historique locale.\nLa journée se termine par une promenade relaxante jusqu’à la pittoresque chapelle Saint-Georges, où vous pourrez vous détendre en paix au crépuscule."
       },
       "variants": {
         "rainy": {
@@ -167,7 +180,8 @@
             "de": "Beginnen Sie Ihren Rundgang am Place de la République mit einem festen Regenschirm. Die Vormittagsstunden verbringen Sie geschützt in der Saint-Maurice Kirche. Mittags bieten das Schloss Bucheneck und das Nef des Jouets ideale, trockene Zufluchtsorte für Kulturinteressierte. Den Nachmittag widmen wir sakralen Innenräumen, bevor der Abend bei sanftem Regen und glänzenden Gassen in der Altstadt ausklingt.",
             "hu": "Kezdje a sétát a Köztársaság téren egy stabil esernyővel, majd húzódjon be a Saint-Maurice templom boltívei alá. A déli órákban a Bucheneck kastély és a Nef des Jouets múzeum nyújt száraz menedéket és gazdag látnivalót. Délután a zsinagóga és a kápolna belső tereit fedezzük fel. Az estét a vizes macskaköveken megcsillanó fények teszik hangulatossá a városközpontban.",
             "ro": "Începeți plimbarea în Piața Republicii cu o umbrelă rezistentă, apoi adăpostiți-vă sub bolțile Bisericii Saint-Maurice. La prânz, Castelul Bucheneck și muzeul Nef des Jouets oferă refugii uscate și exponate fascinante. După-amiaza este dedicată interiorului sinagogii și capelei. Seara se încheie printre luminile reflectate pe pavajul umed, într-o atmosferă melancolică de oraș alsacian.",
-            "en": "Start your walk at Republic Square with a sturdy umbrella, then find shelter under the arches of Saint-Maurice Church. At noon, Bucheneck Castle and the Nef des Jouets museum provide perfect dry havens for culture lovers. Spend the afternoon exploring the interiors of the Synagogue and chapel. The evening ends with lights reflecting on the wet cobblestones in the historic center."
+            "en": "Start your walk at Republic Square with a sturdy umbrella, then find shelter under the arches of Saint-Maurice Church. At noon, Bucheneck Castle and the Nef des Jouets museum provide perfect dry havens for culture lovers. Spend the afternoon exploring the interiors of the Synagogue and chapel. The evening ends with lights reflecting on the wet cobblestones in the historic center.",
+            "fr": "Commencez votre promenade sur la place de la République avec un parapluie solide, puis abritez-vous sous les arcades de l’église Saint-Maurice. À midi, le château de Bucheneck et le musée Nef des Jouets offrent des refuges secs parfaits pour les amateurs de culture. Passez l’après-midi à explorer l’intérieur de la synagogue et de la chapelle. La soirée se termine avec les lumières se reflétant sur les pavés mouillés du centre historique."
           },
           "stops": [
             {
@@ -175,13 +189,15 @@
                 "de": "Place de la République",
                 "hu": "Köztársaság tér",
                 "ro": "Piața Republicii",
-                "en": "Republic Square"
+                "en": "Republic Square",
+                "fr": "Place de la République"
               },
               "tip_5lang": {
                 "de": "Betrachten Sie die Rathausfassade vom Schutz der Arkaden aus und achten Sie auf die bei Nässe besonders rutschigen Granitplatten.",
                 "hu": "Csodálja meg a városháza homlokzatát az árkádok védelméből, és ügyeljen a nedvesen rendkívül csúszós gránitlapokra a téren.",
                 "ro": "Admirați fațada primăriei din protecția arcadelor și aveți grijă la plăcile de granit care devin foarte alunecoase pe ploaie.",
-                "en": "Admire the town hall facade from the shelter of the arcades and be careful of the granite slabs which become very slippery when wet."
+                "en": "Admire the town hall facade from the shelter of the arcades and be careful of the granite slabs which become very slippery when wet.",
+                "fr": "Admirez la façade de la mairie depuis l’abri des arcades et méfiez-vous des dalles de granit qui deviennent très glissantes quand elles sont mouillées."
               }
             },
             {
@@ -189,13 +205,15 @@
                 "de": "Kirche Saint-Maurice",
                 "hu": "Saint-Maurice templom",
                 "ro": "Biserica Saint-Maurice",
-                "en": "Saint-Maurice Church"
+                "en": "Saint-Maurice Church",
+                "fr": "Église Saint-Maurice"
               },
               "tip_5lang": {
                 "de": "Nutzen Sie die Stille des gotischen Innenraums als Regenschutz und bewundern Sie die Details der Kanzel bei gedämpftem Licht.",
                 "hu": "Használja ki a gótikus belső tér csendjét eső elleni menedékként, és csodálja meg a szószék részleteit a tompa fényben.",
                 "ro": "Folosiți liniștea interiorului gotic ca adăpost împotriva ploii și admirați detaliile amvonului în lumina difuză de afară.",
-                "en": "Use the silence of the Gothic interior as a rain shelter and admire the pulpit details in the soft, natural light."
+                "en": "Use the silence of the Gothic interior as a rain shelter and admire the pulpit details in the soft, natural light.",
+                "fr": "Profitez du silence de l’intérieur gothique comme abri contre la pluie et admirez les détails du chœur sous une lumière douce et naturelle."
               }
             },
             {
@@ -203,13 +221,15 @@
                 "de": "Schloss Bucheneck",
                 "hu": "Bucheneck kastély",
                 "ro": "Castelul Bucheneck",
-                "en": "Bucheneck Castle"
+                "en": "Bucheneck Castle",
+                "fr": "Château de Bucheneck"
               },
               "tip_5lang": {
                 "de": "Die historischen Exponate im Inneren lassen Sie den Regen vergessen; nutzen Sie die Garderobe für Ihre nassen Mäntel im Eingang.",
                 "hu": "A belső történelmi kiállítások feledtetik az esőt; használja a bejáratnál található ruhatárat a vizes kabátok számára.",
                 "ro": "Exponatele istorice din interior vă vor face să uitați de ploaie; folosiți garderoba de la intrare pentru haina umedă.",
-                "en": "The historical exhibits inside will make you forget the rain; use the cloakroom at the entrance for your wet coats."
+                "en": "The historical exhibits inside will make you forget the rain; use the cloakroom at the entrance for your wet coats.",
+                "fr": "Les expositions historiques à l’intérieur vous feront oublier la pluie ; utilisez le vestiaire à l’entrée pour vos manteaux mouillés."
               }
             },
             {
@@ -217,13 +237,15 @@
                 "de": "Nef des Jouets",
                 "hu": "Nef des Jouets",
                 "ro": "Nef des Jouets",
-                "en": "Nef des Jouets"
+                "en": "Nef des Jouets",
+                "fr": "Nef des Jouets"
               },
               "tip_5lang": {
                 "de": "Dieses Spielzeugmuseum ist der perfekte Ort für einen längeren Aufenthalt bei Gussregen; ideal für Kinder und Nostalgiker.",
                 "hu": "Ez a játékmúzeum tökéletes hely egy hosszabb időtöltéshez szakadó esőben; ideális gyermekeknek és nosztalgiázóknak egyaránt.",
                 "ro": "Acest muzeu al jucăriilor este locul perfect pentru o ședere prelungită pe ploaie torențială; ideal pentru copii și nostalgici.",
-                "en": "This toy museum is the perfect place for an extended stay during heavy rain; ideal for children and nostalgics alike."
+                "en": "This toy museum is the perfect place for an extended stay during heavy rain; ideal for children and nostalgics alike.",
+                "fr": "Ce musée du jouet est l’endroit parfait pour une longue pause lors de fortes pluies ; idéal pour les enfants et les nostalgiques."
               }
             },
             {
@@ -231,13 +253,15 @@
                 "de": "Synagoge",
                 "hu": "Zsinagóga",
                 "ro": "Sinagoga",
-                "en": "Synagogue"
+                "en": "Synagogue",
+                "fr": "Synagogue"
               },
               "tip_5lang": {
                 "de": "Prüfen Sie vorab die Besuchszeiten, um sicherzustellen, dass Sie den Innenraum besichtigen können, ohne draußen warten zu müssen.",
                 "hu": "Ellenőrizze előre a látogatási időt, hogy biztosan bejuthasson a belső térbe, és ne kelljen az esőben várakoznia odakint.",
                 "ro": "Verificați programul în avans pentru a vă asigura că puteți vizita interiorul fără a fi nevoie să așteptați afară în ploaie.",
-                "en": "Check visiting hours in advance to ensure you can see the interior without having to wait outside in the rain."
+                "en": "Check visiting hours in advance to ensure you can see the interior without having to wait outside in the rain.",
+                "fr": "Vérifiez les horaires de visite à l’avance pour vous assurer de pouvoir voir l’intérieur sans attendre dehors sous la pluie."
               }
             },
             {
@@ -245,13 +269,15 @@
                 "de": "Kapelle Saint-Georges",
                 "hu": "Saint-Georges kápolna",
                 "ro": "Capela Saint-Georges",
-                "en": "Chapelle Saint-Georges"
+                "en": "Chapelle Saint-Georges",
+                "fr": "Chapelle Saint-Georges"
               },
               "tip_5lang": {
                 "de": "Ein kurzer Sprint führt Sie zur Kapelle; genießen Sie die andächtige Akustik, während der Regen gegen die alten Mauern peitscht.",
                 "hu": "Egy rövid futással elérheti a kápolnát; élvezze az áhítatos akusztikát, miközben az eső a régi falakat veri odakint.",
                 "ro": "Un scurt sprint vă va duce la capelă; bucurați-vă de acustica pioasă în timp ce ploaia bate în zidurile vechi de afară.",
-                "en": "A short sprint will take you to the chapel; enjoy the prayerful acoustics while the rain beats against the old walls."
+                "en": "A short sprint will take you to the chapel; enjoy the prayerful acoustics while the rain beats against the old walls.",
+                "fr": "Un court sprint vous mènera à la chapelle ; appréciez l’acoustique priante pendant que la pluie frappe les vieux murs."
               }
             }
           ]
@@ -261,7 +287,8 @@
             "de": "Erleben Sie Soultz im winterlichen Glanz, beginnend am frostigen Marktplatz. Vormittags wärmen die Kirchenmauern von Saint-Maurice die Seele. Mittags bieten die beheizten Museen Schutz vor der Kälte des Elsass. Der frühe Sonnenuntergang gegen 17:00 Uhr taucht die Stadt in ein magisches Licht, das Sie auf dem Weg zur Kapelle begleitet. Der Abend lädt zu einem heißen Getränk in der Altstadt ein.",
             "hu": "Fedezze fel Soultz-ot téli pompájában, a fagyos főtéren kezdve. Délelőtt a Saint-Maurice templom ódon falai között talál lelki nyugalmat. A déli órákat a fűtött múzeumokban tölthetjük, elmenekülve az elzászi hideg elől. A korai, 17 óra körüli naplemente különleges fényekbe öltözteti a várost a kápolna felé vezető úton. Az estét egy gőzölgő ital mellett érdemes zárni a belvárosban.",
             "ro": "Descoperiți Soultz în splendoarea sa hivernală, începând din piața centrală înghețată. Dimineața, zidurile bisericii Saint-Maurice oferă liniște sufletească. La prânz, muzeele încălzite asigură refugiul necesar împotriva frigului alsacian. Apusul devreme, în jurul orei 17:00, scaldă orașul într-o lumină magică spre capelă. Seara invită la o băutură fierbinte în centrul istoric.",
-            "en": "Experience Soultz in its winter glory, starting at the frosty main square. In the morning, the ancient walls of Saint-Maurice Church warm the soul. Spend midday in heated museums, escaping the Alsatian chill. The early sunset around 5 PM bathes the city in a magical glow on the way to the chapel. The evening invites you to enjoy a steaming drink in the historic center."
+            "en": "Experience Soultz in its winter glory, starting at the frosty main square. In the morning, the ancient walls of Saint-Maurice Church warm the soul. Spend midday in heated museums, escaping the Alsatian chill. The early sunset around 5 PM bathes the city in a magical glow on the way to the chapel. The evening invites you to enjoy a steaming drink in the historic center.",
+            "fr": "Vivez Soultz dans sa splendeur hivernale, en commençant par la place principale givrée. Le matin, les murs anciens de l’église Saint-Maurice réchauffent l’âme. Passez la mi-journée dans des musées chauffés pour échapper au froid alsacien. Le coucher de soleil précoce vers 17:00 baigne la ville d’une lueur magique en chemin vers la chapelle. Le soir, accordez-vous une boisson fumante dans le centre historique."
           },
           "stops": [
             {
@@ -269,13 +296,15 @@
                 "de": "Place de la République",
                 "hu": "Köztársaság tér",
                 "ro": "Piața Republicii",
-                "en": "Republic Square"
+                "en": "Republic Square",
+                "fr": "Place de la République"
               },
               "tip_5lang": {
                 "de": "Die Wintersonne steht tief und blendet; tragen Sie eine Sonnenbrille und achten Sie auf überfrierende Nässe im Schatten der Gebäude.",
                 "hu": "A téli nap alacsonyan jár és vakíthat; viseljen napszemüveget, és ügyeljen a házak árnyékában előforduló lefagyásokra.",
                 "ro": "Soarele de iarnă este jos și poate fi orbitor; purtați ochelari de soare și atenție la porțiunile înghețate din umbra clădirilor.",
-                "en": "The winter sun is low and can be blinding; wear sunglasses and watch out for frozen patches in the shadows of buildings."
+                "en": "The winter sun is low and can be blinding; wear sunglasses and watch out for frozen patches in the shadows of buildings.",
+                "fr": "Le soleil d’hiver est bas et peut éblouir ; portez des lunettes de soleil et surveillez les plaques de verglas à l’ombre des bâtiments."
               }
             },
             {
@@ -283,13 +312,15 @@
                 "de": "Kirche Saint-Maurice",
                 "hu": "Saint-Maurice templom",
                 "ro": "Biserica Saint-Maurice",
-                "en": "Saint-Maurice Church"
+                "en": "Saint-Maurice Church",
+                "fr": "Église Saint-Maurice"
               },
               "tip_5lang": {
                 "de": "Ziehen Sie sich warm an, da die Steinkirche im Winter sehr kühl sein kann; bewundern Sie die Krippe, falls Sie zur Weihnachtszeit kommen.",
                 "hu": "Öltözzön rétegesen, mert a kőtemplom télen nagyon hűvös lehet; karácsonyi időszakban feltétlenül nézze meg a kihelyezett betlehemet.",
                 "ro": "Îmbrăcați-vă gros, deoarece biserica de piatră poate fi foarte rece iarna; în perioada Crăciunului, nu ratați ieslea expusă.",
-                "en": "Dress in layers as the stone church can be very chilly in winter; during Christmas time, be sure to see the nativity scene."
+                "en": "Dress in layers as the stone church can be very chilly in winter; during Christmas time, be sure to see the nativity scene.",
+                "fr": "Habillez-vous en couches car l’église en pierre peut être très fraîche en hiver ; à la période de Noël, ne manquez pas la crèche."
               }
             },
             {
@@ -297,13 +328,15 @@
                 "de": "Schloss Bucheneck",
                 "hu": "Bucheneck kastély",
                 "ro": "Castelul Bucheneck",
-                "en": "Bucheneck Castle"
+                "en": "Bucheneck Castle",
+                "fr": "Château de Bucheneck"
               },
               "tip_5lang": {
                 "de": "Die Ausstellungen bieten eine willkommene Aufwärmpause; nutzen Sie die Zeit, um tief in die Regionalgeschichte einzutauchen.",
                 "hu": "A kiállítások kellemes felmelegedést nyújtanak a séta közben; szánjon időt a régió történelmének alapos megismerésére.",
                 "ro": "Expozițiile oferă o pauză de încălzire binevenită; acordați-vă timp pentru a cunoaște în profunzime istoria regională.",
-                "en": "The exhibits offer a welcome warming break; take your time to dive deep into the regional history while out of the cold."
+                "en": "The exhibits offer a welcome warming break; take your time to dive deep into the regional history while out of the cold.",
+                "fr": "Les expositions offrent une pause chaleureuse bienvenue ; prenez le temps de vous plonger dans l’histoire régionale à l’abri du froid."
               }
             },
             {
@@ -311,13 +344,15 @@
                 "de": "Nef des Jouets",
                 "hu": "Nef des Jouets",
                 "ro": "Nef des Jouets",
-                "en": "Nef des Jouets"
+                "en": "Nef des Jouets",
+                "fr": "Nef des Jouets"
               },
               "tip_5lang": {
                 "de": "Ein nostalgischer Ort, der im Winter besonders gemütlich wirkt; die Beleuchtung der Vitrinen schafft eine wohlige Atmosphäre.",
                 "hu": "Nosztalgikus helyszín, amely télen különösen otthonos; a vitrinek megvilágítása meghitt hangulatot áraszt a fűtött termekben.",
                 "ro": "O locație nostalgică, ce pare deosebit de primitoare iarna; iluminarea vitrinelor creează o atmosferă caldă în sălile încălzite.",
-                "en": "A nostalgic venue that feels extra cozy in winter; the showcase lighting creates a warm atmosphere in the heated rooms."
+                "en": "A nostalgic venue that feels extra cozy in winter; the showcase lighting creates a warm atmosphere in the heated rooms.",
+                "fr": "Un lieu nostalgique qui paraît particulièrement cosy en hiver ; l’éclairage des vitrines crée une atmosphère chaleureuse dans les salles chauffées."
               }
             },
             {
@@ -325,13 +360,15 @@
                 "de": "Synagoge",
                 "hu": "Zsinagóga",
                 "ro": "Sinagoga",
-                "en": "Synagogue"
+                "en": "Synagogue",
+                "fr": "Synagogue"
               },
               "tip_5lang": {
                 "de": "Der Weg zur Synagoge kann windig sein; ein Schal schützt Sie vor dem scharfen Winterwind in den Gassen.",
                 "hu": "A zsinagógához vezető út szeles lehet; egy sál megvédi Önt a szűk utcákban felerősödő metsző téli széltől.",
                 "ro": "Drumul spre sinagogă poate fi vântos; un fular vă va proteja de vântul tăios de iarnă din străduțele înguste.",
-                "en": "The path to the Synagogue can be windy; a scarf will protect you from the biting winter wind in the narrow alleys."
+                "en": "The path to the Synagogue can be windy; a scarf will protect you from the biting winter wind in the narrow alleys.",
+                "fr": "Le chemin vers la synagogue peut être exposé au vent ; une écharpe vous protégera du vent hivernal mordant dans les ruelles étroites."
               }
             },
             {
@@ -339,13 +376,15 @@
                 "de": "Kapelle Saint-Georges",
                 "hu": "Saint-Georges kápolna",
                 "ro": "Capela Saint-Georges",
-                "en": "Chapelle Saint-Georges"
+                "en": "Chapelle Saint-Georges",
+                "fr": "Chapelle Saint-Georges"
               },
               "tip_5lang": {
                 "de": "Besuchen Sie die Kapelle vor 16:30 Uhr, um das letzte Tageslicht auf dem Friedhofsgelände für Fotos zu nutzen.",
                 "hu": "Látogassa meg a kápolnát 16:30 előtt, hogy a temetőkertben még az utolsó nappali fényeket használhassa a fotózáshoz.",
                 "ro": "Vizitați capela înainte de 16:30 pentru a profita de ultima lumină a zilei din cimitir pentru fotografii reușite.",
-                "en": "Visit the chapel before 4:30 PM to catch the last daylight for photos in the surrounding cemetery grounds."
+                "en": "Visit the chapel before 4:30 PM to catch the last daylight for photos in the surrounding cemetery grounds.",
+                "fr": "Visitez la chapelle avant 16:30 pour profiter des dernières lueurs du jour pour des photos dans le cimetière environnant."
               }
             }
           ]
@@ -365,7 +404,8 @@
             "de": "Place de la République",
             "hu": "Köztársaság tér",
             "ro": "Piața Republicii",
-            "en": "Republic Square"
+            "en": "Republic Square",
+            "fr": "Place de la République"
           },
           "coords": [
             7.229478,
@@ -380,7 +420,8 @@
             "de": "Bewundern Sie die Architektur auf dem belebten Place de la République, dem Herzen von Soultz, und genießen Sie einen Kaffee in einem der kleinen Bistros in der Nähe.",
             "hu": "Csodálja meg az építészetet a nyüzsgő Republic Square-en, Soultz szívében, és igyon egy kávét a térhez közeli hangulatos kis bisztrók egyikében, miközben pihen.",
             "ro": "Admirați arhitectura din animata Piață a Republicii, inima orașului Soultz, și savurați o cafea relaxantă la unul dintre micile bistrouri aflate chiar în apropiere.",
-            "en": "Admire the architecture at the bustling Republic Square, the true heart of Soultz, and enjoy a relaxing coffee break at one of the small bistros located nearby."
+            "en": "Admire the architecture at the bustling Republic Square, the true heart of Soultz, and enjoy a relaxing coffee break at one of the small bistros located nearby.",
+            "fr": "Admirez l’architecture de la dynamique place de la République, véritable cœur de Soultz, et prenez un café relaxant dans l’un des petits bistrots situés à proximité."
           }
         },
         {
@@ -388,7 +429,8 @@
             "de": "Kirche Saint-Maurice",
             "hu": "Saint-Maurice templom",
             "ro": "Biserica Saint-Maurice",
-            "en": "Saint-Maurice Church"
+            "en": "Saint-Maurice Church",
+            "fr": "Église Saint-Maurice"
           },
           "coords": [
             7.230117,
@@ -403,7 +445,8 @@
             "de": "Besichtigen Sie die Kirche Saint-Maurice, ein gotisches Meisterwerk mit wunderschönen Glasfenstern, und achten Sie besonders auf die feinen Details der alten Orgel.",
             "hu": "Látogassa meg a Saint-Maurice templomot, ezt a gótikus remekművet, és figyelje meg a csodálatos üvegablakokat, valamint az ősi orgona lenyűgözően finom részleteit.",
             "ro": "Vizitați Biserica Saint-Maurice, o capodoperă gotică cu vitralii superbe, și acordați o atenție deosebită detaliilor fine și impresionante ale orgii sale antice.",
-            "en": "Visit Saint-Maurice Church, a Gothic masterpiece boasting beautiful stained glass windows, and pay special attention to the fine details of its remarkable ancient organ."
+            "en": "Visit Saint-Maurice Church, a Gothic masterpiece boasting beautiful stained glass windows, and pay special attention to the fine details of its remarkable ancient organ.",
+            "fr": "Visitez l’église Saint-Maurice, un chef-d’œuvre gothique doté de magnifiques vitraux, et prêtez une attention particulière aux détails de son remarquable orgue ancien."
           }
         },
         {
@@ -411,7 +454,8 @@
             "de": "Schloss Bucheneck",
             "hu": "Bucheneck kastély",
             "ro": "Castelul Bucheneck",
-            "en": "Bucheneck Castle"
+            "en": "Bucheneck Castle",
+            "fr": "Château de Bucheneck"
           },
           "coords": [
             7.227384,
@@ -426,7 +470,8 @@
             "de": "Entdecken Sie die lokale Geschichte im Schloss Bucheneck, das heute ein faszinierendes Museum beherbergt, und planen Sie genug Zeit für die historischen Artefakte ein.",
             "hu": "Fedezze fel a helyi történelmet a Bucheneck kastélyban, amely ma lenyűgöző múzeumként működik, és szánjon elegendő időt a ritka történelmi tárgyak megtekintésére.",
             "ro": "Descoperiți istoria locală la Castelul Bucheneck, care găzduiește acum un muzeu fascinant, și asigurați-vă că alocați suficient timp pentru a admira artefactele vechi.",
-            "en": "Discover local history at Bucheneck Castle, which now houses a fascinating museum, and make sure to allocate enough time to admire the rare historical artifacts."
+            "en": "Discover local history at Bucheneck Castle, which now houses a fascinating museum, and make sure to allocate enough time to admire the rare historical artifacts.",
+            "fr": "Découvrez l’histoire locale au château de Bucheneck, qui abrite aujourd’hui un musée fascinant ; prévoyez suffisamment de temps pour admirer les rares artefacts historiques."
           }
         },
         {
@@ -434,7 +479,8 @@
             "de": "Kirche Saint-Gilles",
             "hu": "Saint-Gilles templom",
             "ro": "Biserica Saint-Gilles",
-            "en": "Église Saint-Gilles"
+            "en": "Église Saint-Gilles",
+            "fr": "Église Saint-Gilles"
           },
           "coords": [
             7.20928,
@@ -449,7 +495,8 @@
             "de": "Erkunden Sie die historische Église Saint-Gilles, die durch ihre ruhige Umgebung besticht, und werfen Sie einen Blick auf die wunderschön verzierten Holzschnitzereien.",
             "hu": "Fedezze fel a történelmi Église Saint-Gilles-t, amely nyugodt környezetével hódít, és mindenképpen vessen egy pillantást a gyönyörűen díszített fafaragásokra is.",
             "ro": "Explorați istorica Église Saint-Gilles, care impresionează prin împrejurimile sale liniștite, și aruncați o privire atentă la sculpturile în lemn frumos decorate.",
-            "en": "Explore the historical Église Saint-Gilles, which impresses with its tranquil surroundings, and take a close look at the beautifully decorated interior wood carvings."
+            "en": "Explore the historical Église Saint-Gilles, which impresses with its tranquil surroundings, and take a close look at the beautifully decorated interior wood carvings.",
+            "fr": "Explorez la vieille église Saint-Gilles, qui impressionne par son cadre tranquille, et observez de près les belles sculptures sur bois décorant l’intérieur."
           }
         },
         {
@@ -457,7 +504,8 @@
             "de": "Schloss Hartmannswiller",
             "hu": "Hartmannswiller kastély",
             "ro": "Castelul Hartmannswiller",
-            "en": "Château de Hartmannswiller"
+            "en": "Château de Hartmannswiller",
+            "fr": "Château de Hartmannswiller"
           },
           "coords": [
             7.218807,
@@ -472,7 +520,8 @@
             "de": "Besuchen Sie das imposante Château de Hartmannswiller, eine beeindruckende Festungsanlage, und tragen Sie bequeme Schuhe für den Spaziergang auf dem Burggelände.",
             "hu": "Látogassa meg az impozáns Château de Hartmannswiller erődítményt, és mindenképpen viseljen kényelmes cipőt, hogy bejárhassa a vár kiterjedt és egyenetlen területét.",
             "ro": "Vizitați impunătorul Château de Hartmannswiller, o fortăreață impresionantă, și purtați încălțăminte confortabilă pentru a explora în voie terenurile accidentate.",
-            "en": "Visit the imposing Château de Hartmannswiller, an impressive historic fortress, and make sure to wear comfortable shoes to explore the extensive and uneven castle grounds."
+            "en": "Visit the imposing Château de Hartmannswiller, an impressive historic fortress, and make sure to wear comfortable shoes to explore the extensive and uneven castle grounds.",
+            "fr": "Visitez l’imposant château de Hartmannswiller, une forteresse historique impressionnante ; portez des chaussures confortables pour explorer les vastes et inégaux terrains du château."
           }
         },
         {
@@ -480,7 +529,8 @@
             "de": "Kirche Saint-Blaise",
             "hu": "Saint-Blaise templom",
             "ro": "Biserica Saint-Blaise",
-            "en": "Église Saint-Blaise"
+            "en": "Église Saint-Blaise",
+            "fr": "Église Saint-Blaise"
           },
           "coords": [
             7.218104,
@@ -495,7 +545,8 @@
             "de": "Bewundern Sie die Schlichtheit der Église Saint-Blaise in Hartmannswiller, einem ruhigen spirituellen Ort, der sich perfekt für einen besinnlichen Abschluss eignet.",
             "hu": "Csodálja meg a hartmannswilleri Église Saint-Blaise egyszerűségét, amely egy csendes spirituális hely, és tökéletes egy elmélyült, nyugodt napzáró elmélkedéshez.",
             "ro": "Admirați simplitatea Église Saint-Blaise din Hartmannswiller, un loc spiritual liniștit, absolut perfect pentru o reflecție profundă la sfârșitul unei zile pline.",
-            "en": "Admire the simplicity of Église Saint-Blaise in Hartmannswiller, a quiet spiritual location perfectly suited for peaceful reflection at the very end of your day."
+            "en": "Admire the simplicity of Église Saint-Blaise in Hartmannswiller, a quiet spiritual location perfectly suited for peaceful reflection at the very end of your day.",
+            "fr": "Admirez la simplicité de l’église Saint-Blaise à Hartmannswiller, un lieu spirituel paisible parfaitement adapté à la réflexion tranquille en fin de journée."
           }
         }
       ],
@@ -503,7 +554,8 @@
         "de": "Ihre Radtour startet zentral am Place de la République, bevor Sie die nahegelegene Kirche Saint-Maurice und ihre Architektur bewundern.\nDas Schloss Bucheneck bietet einen tiefen Einblick in die Geschichte, ideal als kultureller Zwischenstopp am späten Vormittag.\nAm Nachmittag radeln Sie entspannt durch die Landschaft zur Église Saint-Gilles und weiter zum imposanten Château de Hartmannswiller.\nDen Abschluss bildet die ruhige Église Saint-Blaise, bevor Sie mit dem Rad in der sanften Abendsonne den Heimweg antreten.",
         "hu": "Kerékpártúrája a központi Republic Square-en indul, mielőtt megcsodálná a közeli Saint-Maurice templomot és annak építészetét.\nA Bucheneck kastély mély bepillantást enged a történelembe, ami ideális kulturális megálló a késő délelőtti órákban a tekerés után.\nDélután kényelmesen kerékpározik a vidéki tájon át az Église Saint-Gilles-hez, majd a lenyűgöző Château de Hartmannswiller erődítményhez.\nA napot a csendes Église Saint-Blaise zárja, mielőtt a lemenő nap lágy fényében kellemesen visszakerekezne a szálláshelyére.",
         "ro": "Turul dvs. cu bicicleta începe central în Piața Republicii, înainte de a admira arhitectura bisericii din apropiere, Saint-Maurice.\nCastelul Bucheneck oferă o perspectivă profundă asupra istoriei, fiind o oprire culturală ideală în a doua parte a dimineții.\nDupă-amiaza, pedalați relaxat prin peisajul rural către Église Saint-Gilles și mai departe spre impunătorul Château de Hartmannswiller.\nZiua se încheie la liniștita Église Saint-Blaise, înainte de a vă întoarce cu bicicleta acasă sub razele blânde ale soarelui de seară.",
-        "en": "Your cycling tour starts centrally at Republic Square before you admire the nearby Saint-Maurice Church and its stunning architecture.\nBucheneck Castle offers a deep dive into local history, serving as an ideal cultural stop in the late morning after a short ride.\nIn the afternoon, pedal comfortably through the scenic countryside to Église Saint-Gilles and the imposing Château de Hartmannswiller.\nThe day wraps up at the quiet Église Saint-Blaise before you cycle back pleasantly under the soft glow of the setting evening sun."
+        "en": "Your cycling tour starts centrally at Republic Square before you admire the nearby Saint-Maurice Church and its stunning architecture.\nBucheneck Castle offers a deep dive into local history, serving as an ideal cultural stop in the late morning after a short ride.\nIn the afternoon, pedal comfortably through the scenic countryside to Église Saint-Gilles and the imposing Château de Hartmannswiller.\nThe day wraps up at the quiet Église Saint-Blaise before you cycle back pleasantly under the soft glow of the setting evening sun.",
+        "fr": "Votre circuit à vélo commence au centre sur la place de la République avant d’admirer la proche église Saint-Maurice et sa superbe architecture.\nLe château de Bucheneck offre une plongée dans l’histoire locale, constituant un arrêt culturel idéal en fin de matinée après une courte balade.\nL’après-midi, pédalez tranquillement à travers la campagne pittoresque jusqu’à l’église Saint-Gilles et l’imposant château de Hartmannswiller.\nLa journée se termine à la tranquille église Saint-Blaise avant de rentrer agréablement sous la douce lueur du soleil couchant."
       },
       "variants": {
         "rainy": {
@@ -511,7 +563,8 @@
             "de": "Eine Radtour im Regen erfordert Vorsicht auf den elsässischen Straßen. Starten Sie vorsichtig am Place de la République und nutzen Sie die Kirchen als trockene Stopps. Die Museen im Zentrum bieten lange Pausen, um die Ausrüstung zu trocknen. Nachmittags führt die Route durch Weinberge, wo Wege matschig sein können. Beenden Sie die Tour frühzeitig, bevor die Sicht im Regen nachlässt.",
             "hu": "Az esős biciklitúra óvatosságot igényel az elzászi utakon. Induljon lassan a Köztársaság térről, és használja a templomokat száraz pihenőként. A központi múzeumok hosszú szünetet biztosítanak a felszerelés megszárításához. Délután a szőlőültetvények közötti utak sárosak lehetnek. Fejezze be a túrát időben, mielőtt a látási viszonyok az esőben romlanának.",
             "ro": "O tură cu bicicleta pe ploaie necesită prudență pe drumurile alsaciene. Porniți cu grijă din Piața Republicii și folosiți bisericile ca opriri uscate. Muzeele centrale oferă pauze lungi pentru a vă usca echipamentul. După-amiaza, drumurile prin vii pot fi noroioase. Încheiați tura devreme, înainte ca vizibilitatea să scadă din cauza ploii.",
-            "en": "A rainy bike tour requires caution on Alsatian roads. Start carefully at Republic Square and use the churches as dry rest stops. Central museums offer long breaks to dry your gear. In the afternoon, vineyard paths may be muddy. Finish the tour early before visibility drops in the rain."
+            "en": "A rainy bike tour requires caution on Alsatian roads. Start carefully at Republic Square and use the churches as dry rest stops. Central museums offer long breaks to dry your gear. In the afternoon, vineyard paths may be muddy. Finish the tour early before visibility drops in the rain.",
+            "fr": "Une balade à vélo sous la pluie exige prudence sur les routes alsaciennes. Commencez prudemment sur la place de la République et utilisez les églises comme points de repos au sec. Les musées centraux offrent de longues pauses pour faire sécher votre équipement. L’après-midi, les chemins des vignobles peuvent être boueux. Finissez la sortie tôt avant que la visibilité ne diminue sous la pluie."
           },
           "stops": [
             {
@@ -519,13 +572,15 @@
                 "de": "Place de la République",
                 "hu": "Köztársaság tér",
                 "ro": "Piața Republicii",
-                "en": "Republic Square"
+                "en": "Republic Square",
+                "fr": "Place de la République"
               },
               "tip_5lang": {
                 "de": "Prüfen Sie Ihre Bremsen vor dem Start auf dem nassen Pflaster und parken Sie unter den Arkaden des Rathauses.",
                 "hu": "Indulás előtt ellenőrizze a fékeket a vizes aszfalton, és parkoljon a városháza árkádjai alatt a szárazabb pakoláshoz.",
                 "ro": "Verificați frânele înainte de pornire pe asfaltul umed și parcați sub arcadele primăriei pentru o pregătire uscată.",
-                "en": "Check your brakes before starting on the wet pavement and park under the town hall arcades for a drier departure."
+                "en": "Check your brakes before starting on the wet pavement and park under the town hall arcades for a drier departure.",
+                "fr": "Vérifiez vos freins avant de partir sur le pavé mouillé et garez-vous sous les arcades de la mairie pour un départ plus sec."
               }
             },
             {
@@ -533,13 +588,15 @@
                 "de": "Kirche Saint-Maurice",
                 "hu": "Saint-Maurice templom",
                 "ro": "Biserica Saint-Maurice",
-                "en": "Saint-Maurice Church"
+                "en": "Saint-Maurice Church",
+                "fr": "Église Saint-Maurice"
               },
               "tip_5lang": {
                 "de": "Suchen Sie einen geschützten Fahrradständer in der Nähe und nutzen Sie die Kirchenbank, um kurz zu verschnaufen und abzutrocknen.",
                 "hu": "Keressen egy védett kerékpártárolót a közelben, és használja ki a templomi padokat egy rövid pihenőre és szárítkozásra.",
                 "ro": "Căutați un suport de biciclete protejat în apropiere și folosiți băncile bisericii pentru un scurt popas și uscare.",
-                "en": "Find a sheltered bike rack nearby and use the church pews for a quick rest and to dry off from the rain."
+                "en": "Find a sheltered bike rack nearby and use the church pews for a quick rest and to dry off from the rain.",
+                "fr": "Trouvez un arceau à vélos abrité à proximité et utilisez les bancs de l’église pour une pause rapide et pour vous sécher de la pluie."
               }
             },
             {
@@ -547,13 +604,15 @@
                 "de": "Schloss Bucheneck",
                 "hu": "Bucheneck kastély",
                 "ro": "Castelul Bucheneck",
-                "en": "Bucheneck Castle"
+                "en": "Bucheneck Castle",
+                "fr": "Château de Bucheneck"
               },
               "tip_5lang": {
                 "de": "Ein idealer Ort für eine 100-minütige Regenpause; sichern Sie Ihr Rad gut und genießen Sie die Wärme der Innenräume.",
                 "hu": "Ideális helyszín egy 100 perces esőpihenőhöz; zárja le biztonságosan a kerékpárt, és élvezze a belső terek melegét.",
                 "ro": "Locație ideală pentru o pauză de ploaie de 100 de minute; asigurați bine bicicleta și bucurați-vă de căldura interiorului.",
-                "en": "An ideal spot for a 100-minute rain break; secure your bike well and enjoy the warmth of the indoor exhibits."
+                "en": "An ideal spot for a 100-minute rain break; secure your bike well and enjoy the warmth of the indoor exhibits.",
+                "fr": "Un endroit idéal pour une pause pluvieuse d’environ 100 minutes ; sécurisez bien votre vélo et profitez de la chaleur des expositions intérieures."
               }
             },
             {
@@ -561,13 +620,15 @@
                 "de": "Kirche Saint-Gilles",
                 "hu": "Saint-Gilles templom",
                 "ro": "Biserica Saint-Gilles",
-                "en": "Église Saint-Gilles"
+                "en": "Église Saint-Gilles",
+                "fr": "Église Saint-Gilles"
               },
               "tip_5lang": {
                 "de": "Vorsicht bei der Anfahrt auf unbefestigten Wegen; die Kirche bietet einen schlichten, aber trockenen Zufluchtsort im ländlichen Bereich.",
                 "hu": "Vigyázzon a kátyúkkal a vizes úton; a templom egyszerű, de száraz menedéket nyújt ezen a vidéki szakaszon.",
                 "ro": "Atenție la gropi pe drumul umed; biserica oferă un adăpost simplu, dar uscat, în această zonă rurală.",
-                "en": "Watch out for potholes on the wet road; the church offers a simple but dry refuge in this rural section of the route."
+                "en": "Watch out for potholes on the wet road; the church offers a simple but dry refuge in this rural section of the route.",
+                "fr": "Faites attention aux nids-de-poule sur la route mouillée ; l’église offre un refuge simple mais sec dans cette section rurale de l’itinéraire."
               }
             },
             {
@@ -575,13 +636,15 @@
                 "de": "Schloss Hartmannswiller",
                 "hu": "Hartmannswiller kastély",
                 "ro": "Castelul Hartmannswiller",
-                "en": "Château de Hartmannswiller"
+                "en": "Château de Hartmannswiller",
+                "fr": "Château de Hartmannswiller"
               },
               "tip_5lang": {
                 "de": "Das befestigte Schloss wirkt im Regen düster-romantisch; tragen Sie helle Regenkleidung, um auf der Landstraße sichtbar zu bleiben.",
                 "hu": "A megerősített kastély esőben komoran romantikus; viseljen élénk esőkabátot, hogy látható maradjon az országúton.",
                 "ro": "Castelul fortificat pare sumbru și romantic pe ploaie; purtați pelerină viu colorată pentru a fi vizibil pe drumul național.",
-                "en": "The fortified castle looks somberly romantic in the rain; wear bright rain gear to stay visible on the open road."
+                "en": "The fortified castle looks somberly romantic in the rain; wear bright rain gear to stay visible on the open road.",
+                "fr": "Le château fortifié paraît d’un romantisme sombre sous la pluie ; portez un équipement de pluie de couleur vive pour rester visible sur la route ouverte."
               }
             },
             {
@@ -589,13 +652,15 @@
                 "de": "Kirche Saint-Blaise",
                 "hu": "Saint-Blaise templom",
                 "ro": "Biserica Saint-Blaise",
-                "en": "Église Saint-Blaise"
+                "en": "Église Saint-Blaise",
+                "fr": "Église Saint-Blaise"
               },
               "tip_5lang": {
                 "de": "Schließen Sie die Tour mit einer andächtigen Besichtigung ab; wischen Sie den Sattel trocken, bevor Sie den Heimweg antreten.",
                 "hu": "Zárja a túrát egy elmélyült látogatással; törölje szárazra a nyerget, mielőtt elindulna a visszaúton a szállás felé.",
                 "ro": "Încheiați tura cu o vizită meditativă; ștergeți șaua înainte de a porni pe drumul de întoarcere spre cazare.",
-                "en": "End your tour with a quiet visit; wipe your saddle dry before heading back to your accommodation in the rain."
+                "en": "End your tour with a quiet visit; wipe your saddle dry before heading back to your accommodation in the rain.",
+                "fr": "Terminez votre circuit par une visite calme ; essuyez bien votre selle avant de retourner à votre hébergement sous la pluie."
               }
             }
           ]
@@ -605,7 +670,8 @@
             "de": "Winterliches Radeln erfordert warme Schichten und gute Beleuchtung. Starten Sie bei klarer, kalter Luft am Marktplatz. Vormittags bieten die Kirchen erste Aufwärmstopps. Mittags verweilen Sie länger im Schloss Bucheneck, um die Kälte zu vertreiben. Die Weiterfahrt nach Hartmannswiller sollte zügig erfolgen, da es im Winter früh dunkel wird. Beenden Sie die Tour bis 16:30 Uhr.",
             "hu": "A téli biciklizés meleg rétegeket és jó világítást igényel. Induljon a tiszta, hideg levegőn a főtérről. Délelőtt a templomok kínálnak első felmelegedési pontokat. Délben időzzön többet a Bucheneck kastélyban, hogy kiűzze a hideget a tagjaiból. A Hartmannswiller felé vezető utat tegye meg tempósan a korai sötétedés miatt. Fejezze be a túrát 16:30-ig.",
             "ro": "Ciclismul de iarnă necesită haine groase și iluminare bună. Porniți în aerul rece și curat din piața centrală. Dimineața, bisericile oferă primele puncte de încălzire. La prânz, zăboviți mai mult la Castelul Bucheneck pentru a alunga frigul. Drumul spre Hartmannswiller trebuie parcurs vioi din cauza întunericului timpuriu. Încheiați tura până la ora 16:30.",
-            "en": "Winter cycling requires warm layers and good lighting. Start in the crisp, cold air at the main square. In the morning, churches offer the first warming points. At noon, stay longer at Bucheneck Castle to shake off the chill. Ride briskly towards Hartmannswiller due to the early sunset. Finish your tour by 4:30 PM."
+            "en": "Winter cycling requires warm layers and good lighting. Start in the crisp, cold air at the main square. In the morning, churches offer the first warming points. At noon, stay longer at Bucheneck Castle to shake off the chill. Ride briskly towards Hartmannswiller due to the early sunset. Finish your tour by 4:30 PM.",
+            "fr": "Le cyclisme hivernal nécessite des couches chaudes et un bon éclairage. Commencez dans l’air vif et froid sur la place principale. Le matin, les églises offrent les premiers points de réchauffement. À midi, restez plus longtemps au château de Bucheneck pour vous débarrasser du froid. Roulez d’un bon rythme vers Hartmannswiller en raison du coucher de soleil précoce. Terminez votre circuit avant 16:30."
           },
           "stops": [
             {
@@ -613,13 +679,15 @@
                 "de": "Place de la République",
                 "hu": "Köztársaság tér",
                 "ro": "Piața Republicii",
-                "en": "Republic Square"
+                "en": "Republic Square",
+                "fr": "Place de la République"
               },
               "tip_5lang": {
                 "de": "Tragen Sie gefütterte Handschuhe, da der Fahrtwind bei Minustemperaturen Ihre Hände am Lenker schnell auskühlen lässt.",
                 "hu": "Viseljen bélelt kesztyűt, mert a menetszél mínuszfokokban gyorsan lehűtheti a kezeit a kormányon a reggeli induláskor.",
                 "ro": "Purtați mănuși căptușite, deoarece curentul de aer la temperaturi negative vă poate îngheța rapid mâinile pe ghidon.",
-                "en": "Wear lined gloves, as the wind chill at freezing temperatures can quickly numb your hands on the handlebars."
+                "en": "Wear lined gloves, as the wind chill at freezing temperatures can quickly numb your hands on the handlebars.",
+                "fr": "Portez des gants doublés, car le refroidissement éolien à des températures de gel peut rapidement engourdir vos mains sur le guidon."
               }
             },
             {
@@ -627,13 +695,15 @@
                 "de": "Kirche Saint-Maurice",
                 "hu": "Saint-Maurice templom",
                 "ro": "Biserica Saint-Maurice",
-                "en": "Saint-Maurice Church"
+                "en": "Saint-Maurice Church",
+                "fr": "Église Saint-Maurice"
               },
               "tip_5lang": {
                 "de": "Ein kurzer Stopp zum Aufwärmen im Vorraum; achten Sie beim Absteigen auf Eisflächen auf dem Kopfsteinpflaster.",
                 "hu": "Rövid megálló a felmelegedéshez az előcsarnokban; leszálláskor ügyeljen a macskakövön előforduló jeges foltokra.",
                 "ro": "Scurt popas pentru încălzire în vestibul; la coborâre, atenție la porțiunile înghețate de pe pavajul de piatră.",
-                "en": "A short stop to warm up in the vestibule; when dismounting, watch out for icy patches on the cobblestones."
+                "en": "A short stop to warm up in the vestibule; when dismounting, watch out for icy patches on the cobblestones.",
+                "fr": "Un court arrêt pour se réchauffer dans le vestibule ; en descendant du vélo, faites attention aux plaques de glace sur les pavés."
               }
             },
             {
@@ -641,13 +711,15 @@
                 "de": "Schloss Bucheneck",
                 "hu": "Bucheneck kastély",
                 "ro": "Castelul Bucheneck",
-                "en": "Bucheneck Castle"
+                "en": "Bucheneck Castle",
+                "fr": "Château de Bucheneck"
               },
               "tip_5lang": {
                 "de": "Nutzen Sie die lange Aufenthaltszeit, um Ihre Körpertemperatur zu stabilisieren; der Schlosspark bietet schöne Wintermotive.",
                 "hu": "Használja ki a hosszú tartózkodási időt testhőmérséklete stabilizálására; a kastélykert szép téli fotótémákat kínál.",
                 "ro": "Folosiți timpul lung de ședere pentru a vă stabiliza temperatura corporală; grădina castelului oferă cadre de iarnă superbe.",
-                "en": "Use the long stay to stabilize your body temperature; the castle garden offers beautiful winter photo opportunities."
+                "en": "Use the long stay to stabilize your body temperature; the castle garden offers beautiful winter photo opportunities.",
+                "fr": "Profitez du long arrêt pour stabiliser votre température corporelle ; le jardin du château offre de belles opportunités photos en hiver."
               }
             },
             {
@@ -655,13 +727,15 @@
                 "de": "Kirche Saint-Gilles",
                 "hu": "Saint-Gilles templom",
                 "ro": "Biserica Saint-Gilles",
-                "en": "Église Saint-Gilles"
+                "en": "Église Saint-Gilles",
+                "fr": "Église Saint-Gilles"
               },
               "tip_5lang": {
                 "de": "Im Winter wirkt die Umgebung der Kirche besonders still; prüfen Sie Ihre Beleuchtung für den nächsten Streckenabschnitt.",
                 "hu": "Télen a templom környéke különösen csendes; ellenőrizze a világítását a túra következő, külterületi szakasza előtt.",
                 "ro": "Iarna, împrejurimile bisericii sunt deosebit de liniștite; verificați luminile înainte de următoarea etapă de drum.",
-                "en": "In winter, the church surroundings are especially quiet; check your lights before the next rural section of the tour."
+                "en": "In winter, the church surroundings are especially quiet; check your lights before the next rural section of the tour.",
+                "fr": "En hiver, les abords de l'église sont particulièrement calmes ; vérifiez vos phares avant la prochaine section rurale du circuit."
               }
             },
             {
@@ -669,13 +743,15 @@
                 "de": "Schloss Hartmannswiller",
                 "hu": "Hartmannswiller kastély",
                 "ro": "Castelul Hartmannswiller",
-                "en": "Château de Hartmannswiller"
+                "en": "Château de Hartmannswiller",
+                "fr": "Château de Hartmannswiller"
               },
               "tip_5lang": {
                 "de": "Die Weinberge im Winterkleid sind ein Genuss; fahren Sie vorsichtig bei Schattenwurf, da dort Reif glatt sein kann.",
                 "hu": "A téli ruhát öltött szőlőhegyek látványa lenyűgöző; vezessen óvatosan az árnyékos részeken a csúszós zúzmara miatt.",
                 "ro": "Viile îmbrăcate în haine de iarnă sunt superbe; conduceți cu atenție în zonele umbrite din cauza chiciurei alunecoase.",
-                "en": "The vineyards in winter dress are a delight; ride carefully in shaded areas where frost can make the path slippery."
+                "en": "The vineyards in winter dress are a delight; ride carefully in shaded areas where frost can make the path slippery.",
+                "fr": "Les vignes en tenue hivernale sont un régal ; roulez prudemment dans les zones ombragées où le gel peut rendre le chemin glissant."
               }
             },
             {
@@ -683,13 +759,15 @@
                 "de": "Kirche Saint-Blaise",
                 "hu": "Saint-Blaise templom",
                 "ro": "Biserica Saint-Blaise",
-                "en": "Église Saint-Blaise"
+                "en": "Église Saint-Blaise",
+                "fr": "Église Saint-Blaise"
               },
               "tip_5lang": {
                 "de": "Beenden Sie die Tour zügig, bevor die Kälte nach Sonnenuntergang drastisch zunimmt; ein warmer Tee im Ziel ist ratsam.",
                 "hu": "Fejezze be a túrát gyorsan, mielőtt a hideg a naplemente után drasztikusan fokozódna; a célban egy forró tea javasolt.",
                 "ro": "Încheiați tura rapid înainte ca gerul să se întețească după apus; un ceai fierbinte la destinație este recomandat.",
-                "en": "Finish your tour quickly before the cold intensifies drastically after sunset; a warm tea at the finish is advised."
+                "en": "Finish your tour quickly before the cold intensifies drastically after sunset; a warm tea at the finish is advised.",
+                "fr": "Terminez votre circuit rapidement avant que le froid ne s'intensifie fortement après le coucher du soleil ; une tasse de thé chaud à l'arrivée est recommandée."
               }
             }
           ]
@@ -709,7 +787,8 @@
             "de": "Kirche Saint-André",
             "hu": "Saint-André templom",
             "ro": "Biserica Saint-André",
-            "en": "Église Saint-André"
+            "en": "Église Saint-André",
+            "fr": "Église Saint-André"
           },
           "coords": [
             7.250547,
@@ -724,7 +803,8 @@
             "de": "Starten Sie Ihren Tag an der Église Saint-André, einer charmanten Dorfkirche, und beachten Sie die einzigartige Dachkonstruktion, bevor Sie weiter ins Zentrum fahren.",
             "hu": "Kezdje a napot az Église Saint-André bájos falusi templománál, és figyelje meg az egyedi tetőszerkezetet, mielőtt tovább indulna a nyüzsgő városközpont felé.",
             "ro": "Începeți ziua la Église Saint-André, o biserică de sat fermecătoare, și observați structura unică a acoperișului înainte de a vă îndrepta spre centrul orașului.",
-            "en": "Start your day at Église Saint-André, a charming village church, and note its unique roof structure before driving onward towards the bustling town center."
+            "en": "Start your day at Église Saint-André, a charming village church, and note its unique roof structure before driving onward towards the bustling town center.",
+            "fr": "Commencez votre journée à l'Église Saint-André, une charmante église de village, et remarquez sa toiture unique avant de reprendre la route vers le centre-ville animé."
           }
         },
         {
@@ -732,7 +812,8 @@
             "de": "Nef des Jouets",
             "hu": "Nef des Jouets",
             "ro": "Nef des Jouets",
-            "en": "Nef des Jouets"
+            "en": "Nef des Jouets",
+            "fr": "Nef des Jouets"
           },
           "coords": [
             7.227399,
@@ -747,7 +828,8 @@
             "de": "Tauchen Sie in der Nef des Jouets in die nostalgische Welt der alten Spielzeuge ein und bringen Sie Ihre Kinder mit, um die interaktiven Ausstellungsstücke zu erleben.",
             "hu": "Merüljön el a régi játékok nosztalgikus világában a Nef des Jouets múzeumban, és hozza el a gyerekeket is, hogy közösen fedezzék fel az interaktív kiállításokat.",
             "ro": "Pătrundeți în lumea nostalgică a jucăriilor vechi la muzeul Nef des Jouets și asigurați-vă că aduceți copiii pentru a se bucura de expozițiile interactive și unice.",
-            "en": "Dive into the nostalgic world of vintage toys at the Nef des Jouets museum, and be sure to bring your children along to fully enjoy the interactive exhibits on display."
+            "en": "Dive into the nostalgic world of vintage toys at the Nef des Jouets museum, and be sure to bring your children along to fully enjoy the interactive exhibits on display.",
+            "fr": "Plongez dans le monde nostalgique des jouets anciens à la Nef des Jouets, et pensez à amener vos enfants pour profiter pleinement des expositions interactives."
           }
         },
         {
@@ -755,7 +837,8 @@
             "de": "Schloss Bucheneck",
             "hu": "Bucheneck kastély",
             "ro": "Castelul Bucheneck",
-            "en": "Bucheneck Castle"
+            "en": "Bucheneck Castle",
+            "fr": "Bucheneck Castle"
           },
           "coords": [
             7.227384,
@@ -770,7 +853,8 @@
             "de": "Entdecken Sie die lokale Geschichte im Schloss Bucheneck, das heute ein faszinierendes Museum beherbergt, und planen Sie genug Zeit für die historischen Artefakte ein.",
             "hu": "Fedezze fel a helyi történelmet a Bucheneck kastélyban, amely ma lenyűgöző múzeumként működik, és szánjon elegendő időt a ritka történelmi tárgyak megtekintésére.",
             "ro": "Descoperiți istoria locală la Castelul Bucheneck, care găzduiește acum un muzeu fascinant, și asigurați-vă că alocați suficient timp pentru a admira artefactele vechi.",
-            "en": "Discover local history at Bucheneck Castle, which now houses a fascinating museum, and make sure to allocate enough time to admire the rare historical artifacts."
+            "en": "Discover local history at Bucheneck Castle, which now houses a fascinating museum, and make sure to allocate enough time to admire the rare historical artifacts.",
+            "fr": "Découvrez l'histoire locale au château de Bucheneck, qui abrite désormais un musée fascinant, et prévoyez suffisamment de temps pour admirer les rares objets historiques."
           }
         },
         {
@@ -778,7 +862,8 @@
             "de": "Kirche Saint-Maurice",
             "hu": "Saint-Maurice templom",
             "ro": "Biserica Saint-Maurice",
-            "en": "Saint-Maurice Church"
+            "en": "Saint-Maurice Church",
+            "fr": "Saint-Maurice Church"
           },
           "coords": [
             7.230117,
@@ -793,7 +878,8 @@
             "de": "Besichtigen Sie die Kirche Saint-Maurice, ein gotisches Meisterwerk mit wunderschönen Glasfenstern, und achten Sie besonders auf die feinen Details der alten Orgel.",
             "hu": "Látogassa meg a Saint-Maurice templomot, ezt a gótikus remekművet, és figyelje meg a csodálatos üvegablakokat, valamint az ősi orgona lenyűgözően finom részleteit.",
             "ro": "Vizitați Biserica Saint-Maurice, o capodoperă gotică cu vitralii superbe, și acordați o atenție deosebită detaliilor fine și impresionante ale orgii sale antice.",
-            "en": "Visit Saint-Maurice Church, a Gothic masterpiece boasting beautiful stained glass windows, and pay special attention to the fine details of its remarkable ancient organ."
+            "en": "Visit Saint-Maurice Church, a Gothic masterpiece boasting beautiful stained glass windows, and pay special attention to the fine details of its remarkable ancient organ.",
+            "fr": "Visitez l'église Saint-Maurice, un chef-d'œuvre gothique aux magnifiques vitraux, et prêtez une attention particulière aux détails de son remarquable orgue ancien."
           }
         },
         {
@@ -801,7 +887,8 @@
             "de": "Schloss Hartmannswiller",
             "hu": "Hartmannswiller kastély",
             "ro": "Castelul Hartmannswiller",
-            "en": "Château de Hartmannswiller"
+            "en": "Château de Hartmannswiller",
+            "fr": "Château de Hartmannswiller"
           },
           "coords": [
             7.218807,
@@ -816,7 +903,8 @@
             "de": "Besuchen Sie das imposante Château de Hartmannswiller, eine beeindruckende Festungsanlage, und tragen Sie bequeme Schuhe für den Spaziergang auf dem Burggelände.",
             "hu": "Látogassa meg az impozáns Château de Hartmannswiller erődítményt, és mindenképpen viseljen kényelmes cipőt, hogy bejárhassa a vár kiterjedt és egyenetlen területét.",
             "ro": "Vizitați impunătorul Château de Hartmannswiller, o fortăreață impresionantă, și purtați încălțăminte confortabilă pentru a explora în voie terenurile accidentate.",
-            "en": "Visit the imposing Château de Hartmannswiller, an impressive historic fortress, and make sure to wear comfortable shoes to explore the extensive and uneven castle grounds."
+            "en": "Visit the imposing Château de Hartmannswiller, an impressive historic fortress, and make sure to wear comfortable shoes to explore the extensive and uneven castle grounds.",
+            "fr": "Visitez l'imposant Château de Hartmannswiller, une forteresse historique impressionnante, et assurez-vous de porter des chaussures confortables pour explorer les vastes et inégaux jardins du château."
           }
         },
         {
@@ -824,7 +912,8 @@
             "de": "Kirche Saint-Blaise",
             "hu": "Saint-Blaise templom",
             "ro": "Biserica Saint-Blaise",
-            "en": "Église Saint-Blaise"
+            "en": "Église Saint-Blaise",
+            "fr": "Église Saint-Blaise"
           },
           "coords": [
             7.218104,
@@ -839,7 +928,8 @@
             "de": "Bewundern Sie die Schlichtheit der Église Saint-Blaise in Hartmannswiller, einem ruhigen spirituellen Ort, der sich perfekt für einen besinnlichen Abschluss eignet.",
             "hu": "Csodálja meg a hartmannswilleri Église Saint-Blaise egyszerűségét, amely egy csendes spirituális hely, és tökéletes egy elmélyült, nyugodt napzáró elmélkedéshez.",
             "ro": "Admirați simplitatea Église Saint-Blaise din Hartmannswiller, un loc spiritual liniștit, absolut perfect pentru o reflecție profundă la sfârșitul unei zile pline.",
-            "en": "Admire the simplicity of Église Saint-Blaise in Hartmannswiller, a quiet spiritual location perfectly suited for peaceful reflection at the very end of your day."
+            "en": "Admire the simplicity of Église Saint-Blaise in Hartmannswiller, a quiet spiritual location perfectly suited for peaceful reflection at the very end of your day.",
+            "fr": "Admirez la simplicité de l'Église Saint-Blaise à Hartmannswiller, un lieu spirituel paisible parfaitement adapté à la réflexion en fin de journée."
           }
         }
       ],
@@ -847,7 +937,8 @@
         "de": "Mit dem Auto beginnen Sie im Norden an der charmanten Église Saint-André, bevor Sie bequem in das Zentrum von Soultz fahren.\nDas Spielzeugmuseum Nef des Jouets und das Schloss Bucheneck bieten faszinierende Einblicke in Kultur und Geschichte für die ganze Familie.\nNach einem Stopp an der Kirche Saint-Maurice fahren Sie in den Süden, um das mächtige Château de Hartmannswiller zu erkunden.\nDie Tour endet ruhig an der Église Saint-Blaise, von wo aus Sie entspannt mit dem Auto durch die Dämmerung zurückfahren können.",
         "hu": "Autóval induljon északról, a bájos Église Saint-André templomtól, mielőtt kényelmesen begurulna Soultz történelmi központjába.\nA Nef des Jouets játékmúzeum és a Bucheneck kastély lenyűgöző kulturális és történelmi betekintést nyújt az egész család számára.\nA Saint-Maurice templomnál tett rövid megálló után dél felé autózik, hogy felfedezze a hatalmas Château de Hartmannswiller erődítményt.\nA túra békésen ér véget az Église Saint-Blaise-nél, ahonnan kényelmesen és nyugodtan hazavezethet a lenyugvó nap fényében.",
         "ro": "Cu mașina, începeți din nord, la fermecătoarea Église Saint-André, înainte de a conduce confortabil spre centrul istoric din Soultz.\nMuzeul de jucării Nef des Jouets și Castelul Bucheneck oferă perspective culturale și istorice fascinante pentru întreaga familie.\nDupă o oprire la Biserica Saint-Maurice, conduceți spre sud pentru a explora impresionantul și masivul Château de Hartmannswiller.\nTurul se încheie pașnic la Église Saint-Blaise, de unde puteți conduce relaxat spre casă în timp ce se lasă ușor amurgul.",
-        "en": "Starting by car in the north at the charming Église Saint-André, you will then drive comfortably into the historical center of Soultz.\nThe Nef des Jouets toy museum and Bucheneck Castle offer fascinating cultural and historical insights that the whole family will love.\nAfter a brief stop at Saint-Maurice Church, drive south to thoroughly explore the massive and impressive Château de Hartmannswiller.\nThe tour ends peacefully at Église Saint-Blaise, from where you can drive back easily and relaxingly as twilight begins to settle in."
+        "en": "Starting by car in the north at the charming Église Saint-André, you will then drive comfortably into the historical center of Soultz.\nThe Nef des Jouets toy museum and Bucheneck Castle offer fascinating cultural and historical insights that the whole family will love.\nAfter a brief stop at Saint-Maurice Church, drive south to thoroughly explore the massive and impressive Château de Hartmannswiller.\nThe tour ends peacefully at Église Saint-Blaise, from where you can drive back easily and relaxingly as twilight begins to settle in.",
+        "fr": "En partant en voiture au nord depuis la charmante Église Saint-André, vous rejoindrez ensuite confortablement le centre historique de Soultz.\nLa Nef des Jouets et le château de Bucheneck offrent des aperçus culturels et historiques fascinants que toute la famille appréciera.\nAprès un bref arrêt à l'église Saint-Maurice, conduisez vers le sud pour explorer en profondeur le massif et impressionnant Château de Hartmannswiller.\nLa visite se termine paisiblement à l'Église Saint-Blaise, d'où vous pourrez facilement reprendre la route pour rentrer, tandis que le crépuscule commence à tomber."
       },
       "variants": {
         "rainy": {
@@ -855,7 +946,8 @@
             "de": "Mit dem Auto erkunden Sie Soultz und Umgebung völlig wetterunabhängig. Starten Sie vormittags im Norden und parken Sie nah an den Museen im Zentrum. Die Regenschauer begleiten Sie auf der Fahrt zu den Schlössern, während Sie im trockenen Innenraum die Landschaft genießen. Mittags und nachmittags bieten die Museen lange, trockene Aufenthalte. Der Abend schließt gemütlich bei Regengetrommel auf dem Autodach.",
             "hu": "Autóval az időjárástól függetlenül fedezheti fel Soultz-ot és környékét. Kezdje a délelőttöt északon, majd parkoljon a központi múzeumok közelében. Az esőzáporok elkísérik a kastélyokhoz vezető úton, miközben Ön a száraz utastérből élvezi a tájat. A déli és délutáni órákban a múzeumok hosszú, száraz programot kínálnak. Az este az autótetőn doboló eső mellett zárul.",
             "ro": "Cu mașina, puteți explora Soultz și împrejurimile indiferent de vreme. Începeți dimineața în nord și parcați aproape de muzeele centrale. Ploaia vă va însoți în drum spre castele, în timp ce vă bucurați de peisaj din interiorul uscat. La prânz și după-amiaza, muzeele oferă programe lungi la adăpost. Seara se încheie plăcut, cu sunetul ploii bătând în plafonul mașinii.",
-            "en": "By car, you can explore Soultz and its surroundings regardless of the weather. Start your morning in the north and park close to the central museums. Rain showers will accompany your drive to the castles while you enjoy the scenery from your dry seat. Museums offer long, dry stays at noon and in the afternoon. The evening ends cozily with the sound of rain on the car roof."
+            "en": "By car, you can explore Soultz and its surroundings regardless of the weather. Start your morning in the north and park close to the central museums. Rain showers will accompany your drive to the castles while you enjoy the scenery from your dry seat. Museums offer long, dry stays at noon and in the afternoon. The evening ends cozily with the sound of rain on the car roof.",
+            "fr": "En voiture, vous pouvez explorer Soultz et ses environs quelles que soient les conditions météorologiques. Commencez la matinée au nord et garez-vous près des musées centraux. Des averses accompagneront votre trajet vers les châteaux tandis que vous profiterez du paysage depuis votre siège au sec. Les musées offrent de longues pauses au sec à midi et l'après-midi. La soirée se termine confortablement au son de la pluie sur le toit de la voiture."
           },
           "stops": [
             {
@@ -863,13 +955,15 @@
                 "de": "Kirche Saint-André",
                 "hu": "Saint-André templom",
                 "ro": "Biserica Saint-André",
-                "en": "Église Saint-André"
+                "en": "Église Saint-André",
+                "fr": "Église Saint-André"
               },
               "tip_5lang": {
                 "de": "Parken Sie so nah wie möglich am Eingang, um den kurzen Weg im Regen trocken zu überstehen; innen ist es herrlich ruhig.",
                 "hu": "Parkoljon a lehető legközelebb a bejárathoz, hogy az esőben megtett rövid utat szárazon ússza meg; bent csodás nyugalom várja.",
                 "ro": "Parcați cât mai aproape de intrare pentru a parcurge drumul scurt prin ploaie fără a vă uda; în interior e o liniște divină.",
-                "en": "Park as close to the entrance as possible to stay dry during the short walk in the rain; inside, a wonderful calm awaits."
+                "en": "Park as close to the entrance as possible to stay dry during the short walk in the rain; inside, a wonderful calm awaits.",
+                "fr": "Garez-vous le plus près possible de l'entrée pour rester au sec pendant la courte marche sous la pluie ; à l'intérieur, un merveilleux calme vous attend."
               }
             },
             {
@@ -877,13 +971,15 @@
                 "de": "Nef des Jouets",
                 "hu": "Nef des Jouets",
                 "ro": "Nef des Jouets",
-                "en": "Nef des Jouets"
+                "en": "Nef des Jouets",
+                "fr": "Nef des Jouets"
               },
               "tip_5lang": {
                 "de": "Nutzen Sie die Parkmöglichkeiten in der Nähe des Schlosses Bucheneck, um beide Museen ohne langes Gehen im Regen zu besuchen.",
                 "hu": "Használja a Bucheneck kastély közeli parkolókat, így mindkét múzeumot meglátogathatja anélkül, hogy sokat kellene gyalogolnia az esőben.",
                 "ro": "Folosiți parcările din apropierea Castelului Bucheneck pentru a vizita ambele muzee fără a merge mult prin ploaie.",
-                "en": "Use the parking spaces near Bucheneck Castle to visit both museums without walking much in the rain."
+                "en": "Use the parking spaces near Bucheneck Castle to visit both museums without walking much in the rain.",
+                "fr": "Utilisez les places de parking près du château de Bucheneck pour visiter les deux musées sans trop marcher sous la pluie."
               }
             },
             {
@@ -891,13 +987,15 @@
                 "de": "Schloss Bucheneck",
                 "hu": "Bucheneck kastély",
                 "ro": "Castelul Bucheneck",
-                "en": "Bucheneck Castle"
+                "en": "Bucheneck Castle",
+                "fr": "Bucheneck Castle"
               },
               "tip_5lang": {
                 "de": "Ein perfekter Stopp bei starkem Regen; lassen Sie Ihren nassen Schirm im Auto, wenn Sie nah genug parken können.",
                 "hu": "Tökéletes állomás szakadó esőben; hagyja a vizes esernyőt az autóban, ha elég közel sikerül parkolnia a bejárathoz.",
                 "ro": "O oprire perfectă pe ploaie torențială; lăsați umbrela umedă în mașină dacă reușiți să parcați destul de aproape de intrare.",
-                "en": "A perfect stop during heavy rain; leave your wet umbrella in the car if you can park close enough to the entrance."
+                "en": "A perfect stop during heavy rain; leave your wet umbrella in the car if you can park close enough to the entrance.",
+                "fr": "Un arrêt parfait par forte pluie ; laissez votre parapluie mouillé dans la voiture si vous pouvez vous garer suffisamment près de l'entrée."
               }
             },
             {
@@ -905,13 +1003,15 @@
                 "de": "Kirche Saint-Maurice",
                 "hu": "Saint-Maurice templom",
                 "ro": "Biserica Saint-Maurice",
-                "en": "Saint-Maurice Church"
+                "en": "Saint-Maurice Church",
+                "fr": "Saint-Maurice Church"
               },
               "tip_5lang": {
                 "de": "Achten Sie auf Pfützen in den Gassen rund um die Kirche beim Aussteigen; der Innenraum bietet Schutz vor Windböen.",
                 "hu": "Kiszálláskor ügyeljen a templom körüli szűk utcákban kialakuló tócsákra; a belső tér védelmet nyújt a szeles lökések elől.",
                 "ro": "Atenție la bălțile din străduțele din jurul bisericii la coborâre; interiorul oferă protecție împotriva rafalelor de vânt.",
-                "en": "Watch out for puddles in the narrow streets around the church when getting out; the interior provides shelter from wind gusts."
+                "en": "Watch out for puddles in the narrow streets around the church when getting out; the interior provides shelter from wind gusts.",
+                "fr": "Attention aux flaques dans les rues étroites autour de l'église en descendant du véhicule ; l'intérieur offre un abri contre les rafales de vent."
               }
             },
             {
@@ -919,13 +1019,15 @@
                 "de": "Schloss Hartmannswiller",
                 "hu": "Hartmannswiller kastély",
                 "ro": "Castelul Hartmannswiller",
-                "en": "Château de Hartmannswiller"
+                "en": "Château de Hartmannswiller",
+                "fr": "Château de Hartmannswiller"
               },
               "tip_5lang": {
                 "de": "Genießen Sie den Anblick des Schlosses durch die nasse Windschutzscheibe, bevor Sie für den Besuch kurz hinausspringen.",
                 "hu": "Élvezze a kastély látványát a vizes szélvédőn keresztül, mielőtt egy rövid látogatás erejéig kiszállna az autóból.",
                 "ro": "Bucurați-vă de vederea castelului prin parbrizul umed înainte de a coborî din mașină pentru o scurtă vizită.",
-                "en": "Enjoy the view of the castle through the wet windshield before hopping out for a quick visit to the interior."
+                "en": "Enjoy the view of the castle through the wet windshield before hopping out for a quick visit to the interior.",
+                "fr": "Profitez de la vue du château à travers le pare-brise mouillé avant de sortir pour une visite rapide de l'intérieur."
               }
             },
             {
@@ -933,13 +1035,15 @@
                 "de": "Kirche Saint-Blaise",
                 "hu": "Saint-Blaise templom",
                 "ro": "Biserica Saint-Blaise",
-                "en": "Église Saint-Blaise"
+                "en": "Église Saint-Blaise",
+                "fr": "Église Saint-Blaise"
               },
               "tip_5lang": {
                 "de": "Schalten Sie bei der Abfahrt die Scheinwerfer ein, da der Regen die Sicht auf der Landstraße stark einschränken kann.",
                 "hu": "Induláskor kapcsolja be a fényszórókat, mert az eső erősen korlátozhatja a látási viszonyokat az országúton.",
                 "ro": "La plecare, aprindeți farurile, deoarece ploaia poate limita sever vizibilitatea pe drumul național.",
-                "en": "Turn on your headlights when leaving, as the rain can significantly limit visibility on the open country roads."
+                "en": "Turn on your headlights when leaving, as the rain can significantly limit visibility on the open country roads.",
+                "fr": "Allumez vos phares en repartant, car la pluie peut fortement réduire la visibilité sur les routes de campagne dégagées."
               }
             }
           ]
@@ -949,7 +1053,8 @@
             "de": "Eine winterliche Autofahrt durch das Elsass bietet Komfort und Wärme. Starten Sie vormittags bei klarem Frostwetter im Norden. Die Fahrtzeiten zwischen den Stopps sind kurz, sodass Sie die frostige Landschaft genießen können, ohne auszukühlen. Mittags laden die Museen zu ausgiebigen Besuchen ein. Nutzen Sie das Tageslicht bis 17:00 Uhr, bevor Sie die beleuchtete Heimreise durch die Dörfer antreten.",
             "hu": "A téli autózás Elzászban kényelmet és meleget nyújt. Kezdje a délelőttöt északon a tiszta, fagyos időben. Az állomások közötti menetidő rövid, így anélkül élvezheti a jeges tájat, hogy átfázna. Délben a múzeumok hívogatnak hosszabb látogatásra. Használja ki a nappali fényt 17 óráig, mielőtt elindulna a kivilágított falvakon át hazafelé.",
             "ro": "O plimbare cu mașina prin Alsacia iarna oferă confort și căldură. Începeți dimineața în nord pe o vreme geroasă și senină. Timpul de condus între opriri este scurt, permițându-vă să admirați peisajul înghețat fără a dârdâi. La prânz, muzeele vă invită la vizite lungi. Profitați de lumina zilei până la ora 17:00, înainte de drumul spre casă.",
-            "en": "A winter drive through Alsace offers comfort and warmth. Start your morning in the north during crisp, frosty weather. Driving times between stops are short, letting you enjoy the icy scenery without getting cold. At noon, the museums invite you for extended visits. Make use of the daylight until 5 PM before driving home through lit-up villages."
+            "en": "A winter drive through Alsace offers comfort and warmth. Start your morning in the north during crisp, frosty weather. Driving times between stops are short, letting you enjoy the icy scenery without getting cold. At noon, the museums invite you for extended visits. Make use of the daylight until 5 PM before driving home through lit-up villages.",
+            "fr": "Une balade hivernale en Alsace offre confort et chaleur. Commencez votre matinée au nord par un temps vif et givré. Les temps de trajet entre les étapes sont courts, vous permettant d'apprécier le paysage glacé sans avoir froid. À midi, les musées vous invitent pour des visites prolongées. Profitez de la lumière du jour jusqu'à 17 h avant de rentrer en traversant des villages illuminés."
           },
           "stops": [
             {
@@ -957,13 +1062,15 @@
                 "de": "Kirche Saint-André",
                 "hu": "Saint-André templom",
                 "ro": "Biserica Saint-André",
-                "en": "Église Saint-André"
+                "en": "Église Saint-André",
+                "fr": "Église Saint-André"
               },
               "tip_5lang": {
                 "de": "Nutzen Sie die Standheizung, falls vorhanden, damit das Auto während der Besichtigung der kühlen Kirche angenehm warm bleibt.",
                 "hu": "Használja az állófűtést, ha van, hogy az autó kellemesen meleg maradjon, amíg Ön a hűvös templomot látogatja.",
                 "ro": "Folosiți încălzirea auxiliară, dacă aveți, pentru ca mașina să rămână caldă în timp ce vizitați biserica răcoroasă.",
-                "en": "Use the auxiliary heating if available so the car stays pleasantly warm while you visit the cool stone church."
+                "en": "Use the auxiliary heating if available so the car stays pleasantly warm while you visit the cool stone church.",
+                "fr": "Utilisez le chauffage auxiliaire si disponible afin que la voiture reste agréablement chaude pendant que vous visitez la fraîche église de pierre."
               }
             },
             {
@@ -971,13 +1078,15 @@
                 "de": "Nef des Jouets",
                 "hu": "Nef des Jouets",
                 "ro": "Nef des Jouets",
-                "en": "Nef des Jouets"
+                "en": "Nef des Jouets",
+                "fr": "Nef des Jouets"
               },
               "tip_5lang": {
                 "de": "Parken Sie vorsichtig auf schneebedeckten Flächen; die Wärme der Spielzeugwelt ist ein toller Kontrast zur Außentemperatur.",
                 "hu": "Parkoljon óvatosan a havas felületeken; a játékvilág belső melege remek kontrasztot alkot a kinti hőmérséklettel.",
                 "ro": "Parcați cu atenție pe suprafețele înzăpezite; căldura din lumea jucăriilor este un contrast plăcut față de gerul de afară.",
-                "en": "Park carefully on snowy surfaces; the warmth of the toy world is a great contrast to the outside temperatures."
+                "en": "Park carefully on snowy surfaces; the warmth of the toy world is a great contrast to the outside temperatures.",
+                "fr": "Garez-vous prudemment sur les surfaces enneigées ; la chaleur du monde des jouets contraste agréablement avec les températures extérieures."
               }
             },
             {
@@ -985,13 +1094,15 @@
                 "de": "Schloss Bucheneck",
                 "hu": "Bucheneck kastély",
                 "ro": "Castelul Bucheneck",
-                "en": "Bucheneck Castle"
+                "en": "Bucheneck Castle",
+                "fr": "Bucheneck Castle"
               },
               "tip_5lang": {
                 "de": "Planen Sie hier Ihre längste Pause ein, um sich richtig aufzuwärmen, bevor Sie die Fahrt in den Süden fortsetzen.",
                 "hu": "Itt tervezze a leghosszabb pihenőt, hogy alaposan átmelegedjen, mielőtt folytatná az utat déli irányba.",
                 "ro": "Planificați aici cea mai lungă pauză pentru a vă încălzi bine înainte de a continua drumul spre sud.",
-                "en": "Plan your longest break here to warm up thoroughly before continuing your drive towards the south."
+                "en": "Plan your longest break here to warm up thoroughly before continuing your drive towards the south.",
+                "fr": "Prévoyez ici votre plus longue pause pour bien vous réchauffer avant de poursuivre votre route vers le sud."
               }
             },
             {
@@ -999,13 +1110,15 @@
                 "de": "Kirche Saint-Maurice",
                 "hu": "Saint-Maurice templom",
                 "ro": "Biserica Saint-Maurice",
-                "en": "Saint-Maurice Church"
+                "en": "Saint-Maurice Church",
+                "fr": "Saint-Maurice Church"
               },
               "tip_5lang": {
                 "de": "Der kurze Fußweg vom Parkplatz zur Kirche kann glatt sein; tragen Sie Schuhe mit gutem Profil trotz Autofahrt.",
                 "hu": "A parkolótól a templomig tartó rövid séta csúszós lehet; az autózás ellenére viseljen jó profilú téli cipőt.",
                 "ro": "Scurta plimbare de la parcare la biserică poate fi alunecoasă; purtați încălțăminte cu talpă aderentă în ciuda condusului.",
-                "en": "The short walk from the parking lot to the church can be slippery; wear shoes with good grip despite the car trip."
+                "en": "The short walk from the parking lot to the church can be slippery; wear shoes with good grip despite the car trip.",
+                "fr": "La courte marche depuis le parking jusqu'à l'église peut être glissante ; portez des chaussures à bonne adhérence malgré le trajet en voiture."
               }
             },
             {
@@ -1013,13 +1126,15 @@
                 "de": "Schloss Hartmannswiller",
                 "hu": "Hartmannswiller kastély",
                 "ro": "Castelul Hartmannswiller",
-                "en": "Château de Hartmannswiller"
+                "en": "Château de Hartmannswiller",
+                "fr": "Château de Hartmannswiller"
               },
               "tip_5lang": {
                 "de": "Die Anlage wirkt im Winterfrost besonders herrschaftlich; achten Sie auf Wildwechsel auf den Landstraßen in der Dämmerung.",
                 "hu": "Az épületegyüttes téli fagyban különösen impozáns; ügyeljen a vadakra az országúton a szürkületi órákban.",
                 "ro": "Ansamblul pare deosebit de impunător în gerul iernii; atenție la animalele sălbatice pe drumul național la amurg.",
-                "en": "The complex looks especially grand in the winter frost; watch out for wildlife on the country roads at dusk."
+                "en": "The complex looks especially grand in the winter frost; watch out for wildlife on the country roads at dusk.",
+                "fr": "L'ensemble paraît particulièrement grand sous le givre hivernal ; soyez vigilant quant à la faune sur les routes de campagne au crépuscule."
               }
             },
             {
@@ -1027,13 +1142,15 @@
                 "de": "Kirche Saint-Blaise",
                 "hu": "Saint-Blaise templom",
                 "ro": "Biserica Saint-Blaise",
-                "en": "Église Saint-Blaise"
+                "en": "Église Saint-Blaise",
+                "fr": "Église Saint-Blaise"
               },
               "tip_5lang": {
                 "de": "Prüfen Sie vor der Rückfahrt die Scheibenwaschanlage; Salz und Schneematsch können die Sicht schnell trüben.",
                 "hu": "A visszajövetel előtt ellenőrizze az ablakmosót; a só és a hólé gyorsan elhomályosíthatja a szélvédőt.",
                 "ro": "Înainte de întoarcere, verificați lichidul de parbriz; sarea și lapovița pot murdări rapid parbrizul.",
-                "en": "Check your windshield washer before the return trip; salt and slush can quickly blur your visibility."
+                "en": "Check your windshield washer before the return trip; salt and slush can quickly blur your visibility.",
+                "fr": "Vérifiez votre lave-glace avant le trajet de retour ; le sel et la boue fondue peuvent rapidement troubler votre visibilité."
               }
             }
           ]

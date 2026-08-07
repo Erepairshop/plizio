@@ -21,7 +21,8 @@
             "de": "Fontaine de la Rotonde",
             "hu": "Rotonde kút",
             "ro": "Fântâna Rotonde",
-            "en": "Fontaine de la Rotonde"
+            "en": "Fontaine de la Rotonde",
+            "fr": "Fontaine de la Rotonde"
           },
           "coords": [
             5.4452,
@@ -36,7 +37,8 @@
             "de": "Perfekter Treffpunkt am Eingang der Altstadt.",
             "hu": "Tökéletes találkozóhely az óváros bejáratánál.",
             "ro": "Locul perfect de întâlnire la intrarea în orașul vechi.",
-            "en": "Perfect meeting point at the entrance to the old town."
+            "en": "Perfect meeting point at the entrance to the old town.",
+            "fr": "Point de rendez-vous parfait à l'entrée de la vieille ville."
           }
         },
         {
@@ -44,7 +46,8 @@
             "de": "Cours Mirabeau",
             "hu": "Cours Mirabeau",
             "ro": "Cours Mirabeau",
-            "en": "Cours Mirabeau"
+            "en": "Cours Mirabeau",
+            "fr": "Cours Mirabeau"
           },
           "coords": [
             5.4478,
@@ -59,7 +62,8 @@
             "de": "Kaffee trinken unter den alten Platanen.",
             "hu": "Igyon egy kávét az öreg platánfák alatt.",
             "ro": "Savurați o cafea sub platanii bătrâni.",
-            "en": "Enjoy a coffee under the ancient plane trees."
+            "en": "Enjoy a coffee under the ancient plane trees.",
+            "fr": "Prenez un café sous les platanes centenaires."
           }
         },
         {
@@ -67,7 +71,8 @@
             "de": "Musée Granet",
             "hu": "Granet Múzeum",
             "ro": "Muzeul Granet",
-            "en": "Musée Granet"
+            "en": "Musée Granet",
+            "fr": "Musée Granet"
           },
           "coords": [
             5.452,
@@ -82,7 +87,8 @@
             "de": "Bewundern Sie die Werke von Cézanne.",
             "hu": "Csodálja meg Cézanne remekműveit.",
             "ro": "Admirați operele lui Cézanne.",
-            "en": "Admire the masterpieces of Cézanne."
+            "en": "Admire the masterpieces of Cézanne.",
+            "fr": "Admirez les chefs-d'œuvre de Cézanne."
           }
         },
         {
@@ -90,7 +96,8 @@
             "de": "Place des Cardeurs",
             "hu": "Place des Cardeurs",
             "ro": "Place des Cardeurs",
-            "en": "Place des Cardeurs"
+            "en": "Place des Cardeurs",
+            "fr": "Place des Cardeurs"
           },
           "coords": [
             5.4468,
@@ -105,7 +112,8 @@
             "de": "Ideal für ein provenzalisches Mittagessen.",
             "hu": "Ideális hely egy provence-i ebédhez.",
             "ro": "Ideal pentru un prânz provensal.",
-            "en": "Ideal for a typical Provencal lunch."
+            "en": "Ideal for a typical Provencal lunch.",
+            "fr": "Idéal pour un déjeuner typiquement provençal."
           }
         },
         {
@@ -113,7 +121,8 @@
             "de": "Cathédrale Saint-Sauveur",
             "hu": "Saint-Sauveur székesegyház",
             "ro": "Catedrala Saint-Sauveur",
-            "en": "Saint-Sauveur Cathedral"
+            "en": "Saint-Sauveur Cathedral",
+            "fr": "Cathédrale Saint-Sauveur"
           },
           "coords": [
             5.4478,
@@ -128,7 +137,8 @@
             "de": "Mischung aus Romanik, Gotik und Barock.",
             "hu": "Román, gótikus és barokk stílusok keveréke.",
             "ro": "Un amestec de stiluri romanic, gotic și baroc.",
-            "en": "A unique mix of Romanesque, Gothic, and Baroque styles."
+            "en": "A unique mix of Romanesque, Gothic, and Baroque styles.",
+            "fr": "Un mélange unique de styles roman, gothique et baroque."
           }
         },
         {
@@ -136,7 +146,8 @@
             "de": "Place de l'Hôtel de Ville",
             "hu": "Városháza tér",
             "ro": "Piața Primăriei",
-            "en": "City Hall Square"
+            "en": "City Hall Square",
+            "fr": "Place de l'Hôtel de Ville"
           },
           "coords": [
             5.4478,
@@ -151,7 +162,8 @@
             "de": "Besuchen Sie den Blumenmarkt am Morgen.",
             "hu": "Látogassa meg a virágpiacot délelőtt.",
             "ro": "Vizitați piața de flori în timpul dimineții.",
-            "en": "Visit the flower market during the morning."
+            "en": "Visit the flower market during the morning.",
+            "fr": "Visitez le marché aux fleurs le matin."
           }
         }
       ],
@@ -159,7 +171,8 @@
         "de": "Der Morgen beginnt an der Fontaine de la Rotonde, dem majestätischen Eingang zur Stadt. Von hier aus schlendern wir über den prachtvollen Cours Mirabeau, wo das Licht durch die Platanen tanzt.\n\nMittags tauchen wir im Musée Granet in die Welt von Cézanne und der klassischen Kunst ein, bevor wir uns in die Gassen des Quartier Mazarin zurückziehen.\n\nAm Nachmittag erkunden wir die beeindruckende Cathédrale Saint-Sauveur, ein Zeugnis jahrhundertelanger Architekturgeschichte inmitten der Altstadt.\n\nDer Abend klingt auf dem Place des Cardeurs aus. Hier genießen wir die lebhafte Atmosphäre bei einem Glas Rosé und lokalen Spezialitäten unter freiem Himmel.",
         "hu": "A reggelt a Fontaine de la Rotonde monumentális kútjánál kezdjük, amely a város kapujaként szolgál. Innen a Cours Mirabeau platánokkal szegélyezett elegáns sugárútján sétálunk tovább.\n\nDélben a Musée Granet termeiben gyönyörködünk Cézanne és más mesterek műveiben, majd felfedezzük a Quartier Mazarin csendesebb utcáit.\n\nDélután a Saint-Sauveur székesegyházhoz látogatunk, amely évszázadok építészeti emlékeit őrzi a római kortól a barokkig.\n\nAz estét a Place des Cardeurs pezsgő teraszain zárjuk. Ez a hely tökéletes egy pohár provence-i rozéhoz és a helyi gasztronómia élvezetéhez a csillagos ég alatt.",
         "ro": "Dimineața începe la Fontaine de la Rotonde, intrarea maiestuoasă în oraș. De aici, ne plimbăm pe elegantul Cours Mirabeau, unde lumina se joacă printre frunzele platanilor.\n\nLa prânz, explorăm universul lui Cézanne la Musée Granet, admirând colecțiile de artă clasică înainte de a ne pierde pe străduțele din Quartier Mazarin.\n\nDupă-amiaza este dedicată Catedralei Saint-Sauveur, o bijuterie arhitecturală ce îmbină stiluri din epoci diferite chiar în inima centrului istoric.\n\nSeara se încheie în Place des Cardeurs. Savurăm atmosfera vibrantă cu un pahar de vin rosé și specialități locale, sub cerul liber al Provencei.",
-        "en": "The morning begins at the Fontaine de la Rotonde, the majestic gateway to the city. From here, we stroll down the magnificent Cours Mirabeau, where light dances through the plane trees.\n\nAt midday, we immerse ourselves in the world of Cézanne and classical art at the Musée Granet before retreating into the charming streets of the Quartier Mazarin.\n\nIn the afternoon, we explore the impressive Saint-Sauveur Cathedral, a testament to centuries of architectural history in the middle of the old town.\n\nThe evening winds down at Place des Cardeurs. We enjoy the lively atmosphere with a glass of Rosé and local specialties under the open sky."
+        "en": "The morning begins at the Fontaine de la Rotonde, the majestic gateway to the city. From here, we stroll down the magnificent Cours Mirabeau, where light dances through the plane trees.\n\nAt midday, we immerse ourselves in the world of Cézanne and classical art at the Musée Granet before retreating into the charming streets of the Quartier Mazarin.\n\nIn the afternoon, we explore the impressive Saint-Sauveur Cathedral, a testament to centuries of architectural history in the middle of the old town.\n\nThe evening winds down at Place des Cardeurs. We enjoy the lively atmosphere with a glass of Rosé and local specialties under the open sky.",
+        "fr": "La matinée commence à la Fontaine de la Rotonde, la majestueuse porte d'entrée de la ville. De là, nous longeons le magnifique Cours Mirabeau, où la lumière danse à travers les platanes.\n\nÀ midi, nous nous immergeons dans l'univers de Cézanne et de l'art classique au Musée Granet avant de nous retirer dans les charmantes rues du Quartier Mazarin.\n\nL'après-midi, nous explorons la remarquable Cathédrale Saint-Sauveur, témoignage de siècles d'histoire architecturale au cœur de la vieille ville.\n\nLa soirée se termine sur la Place des Cardeurs. Nous profitons de l'atmosphère animée autour d'un verre de rosé et de spécialités locales à ciel ouvert."
       },
       "gastro_picks": {
         "de": [
@@ -283,6 +296,12 @@
           "Watch out for the many small fountains.",
           "Book museum visits in advance.",
           "Enjoy the market atmosphere in the morning."
+        ],
+        "fr": [
+          "Portez des chaussures confortables pour les pavés.",
+          "Faites attention aux nombreuses petites fontaines.",
+          "Réservez les visites de musée à l'avance.",
+          "Profitez de l'ambiance du marché le matin."
         ]
       },
       "variants": {
@@ -291,7 +310,8 @@
             "de": "Der Morgen beginnt an der Fontaine de la Rotonde, dem majestätischen Eingang zur Stadt. Von hier aus schlendern wir über den prachtvollen Cours Mirabeau, wo das Licht durch die Platanen tanzt.\n\nMittags tauchen wir im Musée Granet in die Welt von Cézanne und der klassischen Kunst ein, bevor wir uns in die Gassen des Quartier Mazarin zurückziehen.\n\nAm Nachmittag erkunden wir die beeindruckende Cathédrale Saint-Sauveur, ein Zeugnis jahrhundertelanger Architekturgeschichte inmitten der Altstadt.\n\nDer Abend klingt auf dem Place des Cardeurs aus. Hier genießen wir die lebhafte Atmosphäre bei einem Glas Rosé und lokalen Spezialitäten unter freiem Himmel.",
             "hu": "A reggelt a Fontaine de la Rotonde monumentális kútjánál kezdjük, amely a város kapujaként szolgál. Innen a Cours Mirabeau platánokkal szegélyezett elegáns sugárútján sétálunk tovább.\n\nDélben a Musée Granet termeiben gyönyörködünk Cézanne és más mesterek műveiben, majd felfedezzük a Quartier Mazarin csendesebb utcáit.\n\nDélután a Saint-Sauveur székesegyházhoz látogatunk, amely évszázadok építészeti emlékeit őrzi a római kortól a barokkig.\n\nAz estét a Place des Cardeurs pezsgő teraszain zárjuk. Ez a hely tökéletes egy pohár provence-i rozéhoz és a helyi gasztronómia élvezetéhez a csillagos ég alatt.",
             "ro": "Dimineața începe la Fontaine de la Rotonde, intrarea maiestuoasă în oraș. De aici, ne plimbăm pe elegantul Cours Mirabeau, unde lumina se joacă printre frunzele platanilor.\n\nLa prânz, explorăm universul lui Cézanne la Musée Granet, admirând colecțiile de artă clasică înainte de a ne pierde pe străduțele din Quartier Mazarin.\n\nDupă-amiaza este dedicată Catedralei Saint-Sauveur, o bijuterie arhitecturală ce îmbină stiluri din epoci diferite chiar în inima centrului istoric.\n\nSeara se încheie în Place des Cardeurs. Savurăm atmosfera vibrantă cu un pahar de vin rosé și specialități locale, sub cerul liber al Provencei.",
-            "en": "The morning begins at the Fontaine de la Rotonde, the majestic gateway to the city. From here, we stroll down the magnificent Cours Mirabeau, where light dances through the plane trees.\n\nAt midday, we immerse ourselves in the world of Cézanne and classical art at the Musée Granet before retreating into the charming streets of the Quartier Mazarin.\n\nIn the afternoon, we explore the impressive Saint-Sauveur Cathedral, a testament to centuries of architectural history in the middle of the old town.\n\nThe evening winds down at Place des Cardeurs. We enjoy the lively atmosphere with a glass of Rosé and local specialties under the open sky."
+            "en": "The morning begins at the Fontaine de la Rotonde, the majestic gateway to the city. From here, we stroll down the magnificent Cours Mirabeau, where light dances through the plane trees.\n\nAt midday, we immerse ourselves in the world of Cézanne and classical art at the Musée Granet before retreating into the charming streets of the Quartier Mazarin.\n\nIn the afternoon, we explore the impressive Saint-Sauveur Cathedral, a testament to centuries of architectural history in the middle of the old town.\n\nThe evening winds down at Place des Cardeurs. We enjoy the lively atmosphere with a glass of Rosé and local specialties under the open sky.",
+            "fr": "La matinée commence à la Fontaine de la Rotonde, la majestueuse porte d'entrée de la ville. De là, nous longeons le magnifique Cours Mirabeau, où la lumière danse à travers les platanes.\n\nÀ midi, nous nous immergeons dans l'univers de Cézanne et de l'art classique au Musée Granet avant de nous retirer dans les charmantes rues du Quartier Mazarin.\n\nL'après-midi, nous explorons la remarquable Cathédrale Saint-Sauveur, témoignage de siècles d'histoire architecturale au cœur de la vieille ville.\n\nLa soirée se termine sur la Place des Cardeurs. Nous profitons de l'atmosphère animée autour d'un verre de rosé et de spécialités locales à ciel ouvert."
           },
           "stops": [
             {
@@ -299,13 +319,15 @@
                 "de": "Fontaine de la Rotonde",
                 "hu": "Rotonde kút",
                 "ro": "Fântâna Rotonde",
-                "en": "Fontaine de la Rotonde"
+                "en": "Fontaine de la Rotonde",
+                "fr": "Fontaine de la Rotonde"
               },
               "tip_5lang": {
                 "de": "Perfekter Treffpunkt am Eingang der Altstadt.",
                 "hu": "Tökéletes találkozóhely az óváros bejáratánál.",
                 "ro": "Locul perfect de întâlnire la intrarea în orașul vechi.",
-                "en": "Perfect meeting point at the entrance to the old town."
+                "en": "Perfect meeting point at the entrance to the old town.",
+                "fr": "Point de rendez-vous parfait à l'entrée de la vieille ville."
               }
             },
             {
@@ -313,13 +335,15 @@
                 "de": "Cours Mirabeau",
                 "hu": "Cours Mirabeau",
                 "ro": "Cours Mirabeau",
-                "en": "Cours Mirabeau"
+                "en": "Cours Mirabeau",
+                "fr": "Cours Mirabeau"
               },
               "tip_5lang": {
                 "de": "Kaffee trinken unter den alten Platanen.",
                 "hu": "Igyon egy kávét az öreg platánfák alatt.",
                 "ro": "Savurați o cafea sub platanii bătrâni.",
-                "en": "Enjoy a coffee under the ancient plane trees."
+                "en": "Enjoy a coffee under the ancient plane trees.",
+                "fr": "Dégustez un café sous les platanes centenaires."
               }
             },
             {
@@ -327,13 +351,15 @@
                 "de": "Musée Granet",
                 "hu": "Granet Múzeum",
                 "ro": "Muzeul Granet",
-                "en": "Musée Granet"
+                "en": "Musée Granet",
+                "fr": "Musée Granet"
               },
               "tip_5lang": {
                 "de": "Bewundern Sie die Werke von Cézanne.",
                 "hu": "Csodálja meg Cézanne remekműveit.",
                 "ro": "Admirați operele lui Cézanne.",
-                "en": "Admire the masterpieces of Cézanne."
+                "en": "Admire the masterpieces of Cézanne.",
+                "fr": "Admirez les chefs-d'œuvre de Cézanne."
               }
             },
             {
@@ -341,13 +367,15 @@
                 "de": "Place des Cardeurs",
                 "hu": "Place des Cardeurs",
                 "ro": "Place des Cardeurs",
-                "en": "Place des Cardeurs"
+                "en": "Place des Cardeurs",
+                "fr": "Place des Cardeurs"
               },
               "tip_5lang": {
                 "de": "Ideal für ein provenzalisches Mittagessen.",
                 "hu": "Ideális hely egy provence-i ebédhez.",
                 "ro": "Ideal pentru un prânz provensal.",
-                "en": "Ideal for a typical Provencal lunch."
+                "en": "Ideal for a typical Provencal lunch.",
+                "fr": "Idéal pour un déjeuner typiquement provençal."
               }
             },
             {
@@ -355,13 +383,15 @@
                 "de": "Cathédrale Saint-Sauveur",
                 "hu": "Saint-Sauveur székesegyház",
                 "ro": "Catedrala Saint-Sauveur",
-                "en": "Saint-Sauveur Cathedral"
+                "en": "Saint-Sauveur Cathedral",
+                "fr": "Cathédrale Saint-Sauveur"
               },
               "tip_5lang": {
                 "de": "Mischung aus Romanik, Gotik und Barock.",
                 "hu": "Román, gótikus és barokk stílusok keveréke.",
                 "ro": "Un amestec de stiluri romanic, gotic și baroc.",
-                "en": "A unique mix of Romanesque, Gothic, and Baroque styles."
+                "en": "A unique mix of Romanesque, Gothic, and Baroque styles.",
+                "fr": "Un mélange unique de styles roman, gothique et baroque."
               }
             },
             {
@@ -369,13 +399,15 @@
                 "de": "Place de l'Hôtel de Ville",
                 "hu": "Városháza tér",
                 "ro": "Piața Primăriei",
-                "en": "City Hall Square"
+                "en": "City Hall Square",
+                "fr": "Place de l'Hôtel de Ville"
               },
               "tip_5lang": {
                 "de": "Besuchen Sie den Blumenmarkt am Morgen.",
                 "hu": "Látogassa meg a virágpiacot délelőtt.",
                 "ro": "Vizitați piața de flori în timpul dimineții.",
-                "en": "Visit the flower market during the morning."
+                "en": "Visit the flower market during the morning.",
+                "fr": "Visitez le marché aux fleurs le matin."
               }
             }
           ],
@@ -501,6 +533,12 @@
               "Watch out for the many small fountains.",
               "Book museum visits in advance.",
               "Enjoy the market atmosphere in the morning."
+            ],
+            "fr": [
+              "Portez des chaussures confortables pour les rues pavées.",
+              "Faites attention aux nombreuses petites fontaines.",
+              "Réservez les visites de musées à l'avance.",
+              "Profitez de l'ambiance du marché le matin."
             ]
           }
         },
@@ -509,7 +547,8 @@
             "de": "Beginnen Sie an der Fontaine de la Rotonde, wo der Regen den Stein zum Glänzen bringt. Die Platanen am Cours Mirabeau bieten begrenzten Schutz für einen kurzen Spaziergang zu einem gemütlichen Café.\nMittags ist das Musée Granet der ideale trockene Rückzugsort. Genießen Sie die Kunstschätze, während draußen der Regen fällt. Das Mittagessen an der Place des Cardeurs findet heute in einem der einladenden Innenräume statt.\nAm Nachmittag bietet die Kathedrale Saint-Sauveur eine ruhige, trockene Atmosphäre. Der nahegelegene Rathausplatz wirkt bei Regen besonders atmosphärisch, wenn sich die Lichter in den Pfützen spiegeln.\nBeenden Sie den Tag in den engen Gassen der Altstadt, die durch ihre Architektur natürlichen Schutz bieten. Ein Abendessen in einer warmen Brasserie lässt den Regentag perfekt ausklingen.",
             "hu": "Kezdje a napot a Fontaine de la Rotonde-nál, ahol az eső csillogóvá teszi a szobrokat. A Cours Mirabeau platánjai alatt sétálva keressen egy fedett teraszú kávézót a reggelihez.\nDélben a Musée Granet nyújt tökéletes menedéket az elemek elől. Merüljön el a művészetben, amíg kint esik. Ebédeljen a Place des Cardeurs egyik hangulatos éttermének belső termében.\nDélután a Saint-Sauveur székesegyház vastag falai között talál nyugalomra és szárazságra. A Városháza tere ilyenkor különleges fényben úszik a vizes macskakövek tükröződése miatt.\nZárja az estét az óváros szűk utcáin, ahol a házak közelsége némi védelmet nyújt az eső elől. Egy meleg provence-i vacsora a legjobb befejezés.",
             "ro": "Începeți ziua la Fontaine de la Rotonde, unde ploaia face piatra să strălucească. Plătanii de pe Cours Mirabeau oferă un adăpost parțial pentru o plimbare spre o cafenea primitoare.\nLa prânz, Musée Granet este refugiul ideal. Admirați capodoperele în timp ce sunetul ploii rămâne afară. Savurați prânzul în interiorul unui restaurant de pe Place des Cardeurs.\nDupă-amiaza, Catedrala Saint-Sauveur oferă o atmosferă liniștită și uscată. Piața Primăriei capătă un farmec aparte când luminile se oglindesc în pavajul umed.\nÎncheiați ziua în labirintul de străduțe din centrul vechi, unde clădirile apropiate oferă protecție naturală. O cină caldă într-o braserie locală este finalul perfect pentru o zi ploioasă.",
-            "en": "Start at the Fontaine de la Rotonde, where rain makes the stone sculpture glisten. The plane trees of Cours Mirabeau provide some cover for a short walk to a cozy cafe.\nAt noon, Musée Granet is the perfect dry sanctuary. Immerse yourself in art while the rain falls outside. Enjoy lunch indoors at one of the inviting restaurants on Place des Cardeurs.\nIn the afternoon, Saint-Sauveur Cathedral offers a peaceful and dry atmosphere. City Hall Square looks particularly atmospheric with lights reflecting in the wet cobblestones.\nEnd your day in the narrow streets of the old town, which offer natural shelter due to their architecture. A warm Provencal dinner is the best way to dry off and relax."
+            "en": "Start at the Fontaine de la Rotonde, where rain makes the stone sculpture glisten. The plane trees of Cours Mirabeau provide some cover for a short walk to a cozy cafe.\nAt noon, Musée Granet is the perfect dry sanctuary. Immerse yourself in art while the rain falls outside. Enjoy lunch indoors at one of the inviting restaurants on Place des Cardeurs.\nIn the afternoon, Saint-Sauveur Cathedral offers a peaceful and dry atmosphere. City Hall Square looks particularly atmospheric with lights reflecting in the wet cobblestones.\nEnd your day in the narrow streets of the old town, which offer natural shelter due to their architecture. A warm Provencal dinner is the best way to dry off and relax.",
+            "fr": "Commencez à la Fontaine de la Rotonde, où la pluie fait scintiller la sculpture de pierre. Les platanes du Cours Mirabeau offrent un peu d'abri pour une courte promenade jusqu'à un café chaleureux.\nÀ midi, le Musée Granet est le sanctuaire sec idéal. Imprégnez-vous d'art pendant que la pluie tombe dehors. Déjeunez à l'intérieur dans l'un des restaurants accueillants de la Place des Cardeurs.\nL'après-midi, la Cathédrale Saint-Sauveur offre une atmosphère paisible et à l'abri. La Place de l'Hôtel de Ville paraît particulièrement atmosphérique avec les lumières se reflétant dans les pavés mouillés.\nTerminez la journée dans les ruelles de la vieille ville, qui offrent un abri naturel grâce à leur architecture. Un dîner provençal chaud est la meilleure façon de se sécher et de se détendre."
           },
           "stops": [
             {
@@ -518,7 +557,8 @@
                 "de": "Nutzen Sie den Kiosk in der Nähe für einen schnellen Regenschirmkauf.",
                 "hu": "Használja a közeli újságosbódét egy gyors esernyővásárláshoz.",
                 "ro": "Folosiți chioșcul din apropiere pentru a cumpăra rapid o umbrelă.",
-                "en": "Use the nearby kiosk for a quick umbrella purchase if needed."
+                "en": "Use the nearby kiosk for a quick umbrella purchase if needed.",
+                "fr": "Utilisez le kiosque à proximité pour acheter rapidement un parapluie si besoin."
               }
             },
             {
@@ -527,7 +567,8 @@
                 "de": "Die Cafés auf der Nordseite haben oft große, schützende Markisen.",
                 "hu": "Az északi oldalon lévő kávézók gyakran nagy, védő napellenzőkkel rendelkeznek.",
                 "ro": "Cafenelele de pe partea de nord au adesea copertine mari protectoare.",
-                "en": "Cafes on the north side often have large, protective awnings."
+                "en": "Cafes on the north side often have large, protective awnings.",
+                "fr": "Les cafés côté nord ont souvent de grandes toiles protectrices."
               }
             },
             {
@@ -536,7 +577,8 @@
                 "de": "Nutzen Sie die Garderobe, um nasse Mäntel und Schirme sicher abzugeben.",
                 "hu": "Használja a ruhatárat a vizes kabátok és esernyők biztonságos elhelyezéséhez.",
                 "ro": "Folosiți garderoba pentru a lăsa hainele ude și umbrelele în siguranță.",
-                "en": "Use the cloakroom to safely leave wet coats and umbrellas."
+                "en": "Use the cloakroom to safely leave wet coats and umbrellas.",
+                "fr": "Utilisez le vestiaire pour laisser en sécurité manteaux et parapluies mouillés."
               }
             },
             {
@@ -545,7 +587,8 @@
                 "de": "Reservieren Sie einen Tisch im Innenbereich, da die Terrassen nass sind.",
                 "hu": "Foglaljon asztalt beltéren, mivel a teraszok vizesek lesznek.",
                 "ro": "Rezervați o masă în interior, deoarece terasele vor fi ude.",
-                "en": "Book a table indoors as the terraces will be wet."
+                "en": "Book a table indoors as the terraces will be wet.",
+                "fr": "Réservez une table à l'intérieur car les terrasses seront mouillées."
               }
             },
             {
@@ -554,7 +597,8 @@
                 "de": "Vorsicht beim Eintreten, die Steinstufen können bei Nässe glatt sein.",
                 "hu": "Vigyázzon a belépésnél, a kőlépcsők nedvesen csúszósak lehetnek.",
                 "ro": "Atenție la intrare, treptele de piatră pot fi alunecoase când sunt ude.",
-                "en": "Careful when entering, the stone steps can be slippery when wet."
+                "en": "Careful when entering, the stone steps can be slippery when wet.",
+                "fr": "Attention en entrant, les marches en pierre peuvent être glissantes lorsqu'elles sont mouillées."
               }
             },
             {
@@ -563,7 +607,8 @@
                 "de": "Der Uhrenturm bietet einen kleinen überdachten Durchgang zum Unterstehen.",
                 "hu": "Az óratorony egy kis fedett átjárót kínál a várakozáshoz.",
                 "ro": "Turnul cu ceas oferă o mică trecere acoperită pentru a sta la adăpost.",
-                "en": "The clock tower offers a small covered passage to stand under."
+                "en": "The clock tower offers a small covered passage to stand under.",
+                "fr": "Le beffroi offre un petit passage couvert où se tenir."
               }
             }
           ],
@@ -595,6 +640,13 @@
               "Museums in Aix are often closed on Mondays, so plan accordingly.",
               "A small collapsible umbrella is more practical in narrow streets than a large one.",
               "Cafes are the best spots to wait out short showers with a coffee."
+            ],
+            "fr": [
+              "Portez des chaussures imperméables car des flaques se forment souvent entre les pavés.",
+              "Utilisez les nombreux passages de la vieille ville comme raccourcis à l'abri.",
+              "Les musées à Aix sont souvent fermés le lundi, prévoyez en conséquence.",
+              "Un petit parapluie pliant est plus pratique dans les ruelles étroites qu'un grand.",
+              "Les cafés sont les meilleurs endroits pour attendre l'averse en buvant un café."
             ]
           }
         },
@@ -603,7 +655,8 @@
             "de": "Erleben Sie die Fontaine de la Rotonde im klaren Winterlicht. Die frische Morgenluft am Cours Mirabeau lädt zu einem zügigen Spaziergang ein, bevor Sie sich in ein beheiztes Café zurückziehen.\nMittags wärmen Sie sich im Musée Granet auf, während Sie die Kunstwerke genießen. Das Mittagessen auf der Place des Cardeurs bietet herzhafte provenzalische Winterküche in gemütlicher Atmosphäre.\nAm Nachmittag bietet die Kathedrale Saint-Sauveur einen besinnlichen Rückzugsort. Da die Sonne früh untergeht, erstrahlt der Rathausplatz schon bald in festlicher Abendbeleuchtung.\nBeenden Sie den Tag mit einem Spaziergang durch die festlich geschmückten Gassen. Ein heißer Wein oder Schokolade am Cours Mirabeau wärmt Sie vor dem Abendessen auf.",
             "hu": "Csodálja meg a Fontaine de la Rotonde-t a tiszta téli fényben. A friss reggeli levegő a Cours Mirabeau-n élénkítő sétára csábít, mielőtt betérne egy fűtött kávézóba.\nDélben melegedjen fel a Musée Granet termeiben a műalkotások között. A Place des Cardeurs éttermei ilyenkor kiadós téli provence-i fogásokkal várják a látogatókat.\nDélután a Saint-Sauveur székesegyház nyújt meghitt menedéket. Mivel a nap korán nyugszik, a Városháza tere hamar ünnepi esti kivilágításba öltözik.\nZárja a napot az ünnepi díszbe öltözött szűk utcákon. Egy forró ital a Cours Mirabeau-n segít felmelegedni a vacsora előtt.",
             "ro": "Experimentați Fontaine de la Rotonde în lumina clară a iernii. Aerul proaspăt de dimineață de pe Cours Mirabeau invită la o plimbare rapidă înainte de a intra într-o cafenea încălzită.\nLa prânz, încălziți-vă în Musée Granet în timp ce admirați operele de artă. Prânzul pe Place des Cardeurs oferă preparate provensale de iarnă într-o atmosferă primitoare.\nDupă-amiaza, Catedrala Saint-Sauveur oferă un refugiu liniștit. Deoarece soarele apune devreme, Piața Primăriei strălucește curând în iluminatul festiv de seară.\nÎncheiați ziua cu o plimbare pe străzile decorate. Un vin fiert sau o ciocolată caldă pe Cours Mirabeau vă va încălzi înainte de cină.",
-            "en": "Experience the Fontaine de la Rotonde in the crisp winter light. The fresh morning air on Cours Mirabeau invites a brisk walk before retreating to a heated cafe.\nAt noon, warm up in the galleries of Musée Granet while enjoying the artworks. Lunch at Place des Cardeurs offers hearty Provencal winter cuisine in a cozy atmosphere.\nIn the afternoon, Saint-Sauveur Cathedral provides a contemplative retreat. As the sun sets early, City Hall Square soon shines with festive evening illumination.\nEnd your day with a stroll through the decorated narrow streets. A hot drink on Cours Mirabeau will warm you up perfectly before dinner."
+            "en": "Experience the Fontaine de la Rotonde in the crisp winter light. The fresh morning air on Cours Mirabeau invites a brisk walk before retreating to a heated cafe.\nAt noon, warm up in the galleries of Musée Granet while enjoying the artworks. Lunch at Place des Cardeurs offers hearty Provencal winter cuisine in a cozy atmosphere.\nIn the afternoon, Saint-Sauveur Cathedral provides a contemplative retreat. As the sun sets early, City Hall Square soon shines with festive evening illumination.\nEnd your day with a stroll through the decorated narrow streets. A hot drink on Cours Mirabeau will warm you up perfectly before dinner.",
+            "fr": "Vivez la Fontaine de la Rotonde dans la lumière claire de l'hiver. L'air frais du matin sur le Cours Mirabeau invite à une promenade tonique avant de se réfugier dans un café chauffé.\nÀ midi, réchauffez-vous dans les galeries du Musée Granet en profitant des œuvres. Le déjeuner sur la Place des Cardeurs offre une cuisine provençale hivernale copieuse dans une atmosphère chaleureuse.\nL'après-midi, la Cathédrale Saint-Sauveur procure un retrait contemplatif. Comme le soleil se couche tôt, la Place de l'Hôtel de Ville s'illumine bientôt d'un éclairage festif du soir.\nTerminez la journée par une promenade dans les ruelles décorées. Une boisson chaude sur le Cours Mirabeau vous réchauffera parfaitement avant le dîner."
           },
           "stops": [
             {
@@ -612,7 +665,8 @@
                 "de": "Vorsicht vor gefrorenem Sprühwasser auf dem Boden rund um den Brunnen.",
                 "hu": "Vigyázzon a szökőkút körüli talajra fagyott vízpermettel.",
                 "ro": "Atenție la vaporii de apă înghețați pe solul din jurul fântânii.",
-                "en": "Watch out for frozen spray from the fountain on the ground."
+                "en": "Watch out for frozen spray from the fountain on the ground.",
+                "fr": "Faites attention aux projections gelées de la fontaine sur le sol."
               }
             },
             {
@@ -621,7 +675,8 @@
                 "de": "Genießen Sie den Weihnachtsmarkt, falls Sie im Dezember hier sind.",
                 "hu": "Élvezze a karácsonyi vásárt, ha decemberben jár erre.",
                 "ro": "Bucurați-vă de piața de Crăciun dacă sunteți aici în decembrie.",
-                "en": "Enjoy the Christmas market if you are visiting in December."
+                "en": "Enjoy the Christmas market if you are visiting in December.",
+                "fr": "Profitez du marché de Noël si vous visitez en décembre."
               }
             },
             {
@@ -630,7 +685,8 @@
                 "de": "Ideal, um den kalten Mistral-Wind für einige Zeit zu vergessen.",
                 "hu": "Ideális hely, hogy egy időre elfelejtse a hideg Mistral szelet.",
                 "ro": "Ideal pentru a uita de vântul rece Mistral pentru o perioadă.",
-                "en": "Ideal for forgetting the cold Mistral wind for a while."
+                "en": "Ideal for forgetting the cold Mistral wind for a while.",
+                "fr": "Idéal pour oublier un instant le froid du Mistral."
               }
             },
             {
@@ -639,7 +695,8 @@
                 "de": "Suchen Sie Plätze in der Nähe von Heizstrahlern, falls Sie draußen sitzen.",
                 "hu": "Keressen helyet a hősugárzók közelében, ha mégis kint ülne le.",
                 "ro": "Căutați locuri lângă încălzitoare dacă stați afară.",
-                "en": "Look for seats near outdoor heaters if you choose to sit outside."
+                "en": "Look for seats near outdoor heaters if you choose to sit outside.",
+                "fr": "Cherchez des places près des chauffages extérieurs si vous choisissez de vous asseoir dehors."
               }
             },
             {
@@ -648,7 +705,8 @@
                 "de": "Die Kathedrale kann im Winter sehr kühl sein, behalten Sie den Mantel an.",
                 "hu": "A székesegyház télen nagyon hűvös lehet, tartsa magán a kabátját.",
                 "ro": "Catedrala poate fi foarte răcoroasă iarna, păstrați haina pe dvs.",
-                "en": "The cathedral can be very chilly in winter, keep your coat on."
+                "en": "The cathedral can be very chilly in winter, keep your coat on.",
+                "fr": "La cathédrale peut être très froide en hiver, gardez votre manteau."
               }
             },
             {
@@ -657,7 +715,8 @@
                 "de": "Besuchen Sie die Krippenausstellung im Rathaus (während der Adventszeit).",
                 "hu": "Nézze meg a betlehemi kiállítást a városházán (adventi időszakban).",
                 "ro": "Vizitați expoziția de nașteri la primărie (în perioada adventului).",
-                "en": "Visit the nativity scene exhibition in the town hall (during Advent)."
+                "en": "Visit the nativity scene exhibition in the town hall (during Advent).",
+                "fr": "Visitez l'exposition de crèches à l'hôtel de ville (pendant l'Avent)."
               }
             }
           ],
@@ -689,6 +748,13 @@
               "Try 'Calissons', a local sweet that is perfect for the winter season.",
               "Wear layers as indoor spaces are often very heavily heated.",
               "Some fountains are turned off in winter to prevent frost damage."
+            ],
+            "fr": [
+              "Le Mistral peut abaisser significativement la sensation de température, portez des vêtements coupe-vent.",
+              "Le coucher du soleil est vers 17h15, planifiez les activités extérieures plus tôt dans la journée.",
+              "Essayez les calissons, une douceur locale parfaite pour la saison hivernale.",
+              "Portez des couches car les espaces intérieurs sont souvent très chauffés.",
+              "Certaines fontaines sont coupées en hiver pour éviter les dégâts dus au gel."
             ]
           }
         }
@@ -707,7 +773,8 @@
             "de": "Pavillon Vendôme",
             "hu": "Vendôme-pavilon",
             "ro": "Pavilionul Vendôme",
-            "en": "Pavillon Vendôme"
+            "en": "Pavillon Vendôme",
+            "fr": "Pavillon Vendôme"
           },
           "coords": [
             5.4428,
@@ -722,7 +789,8 @@
             "de": "Wunderschöner Barockgarten.",
             "hu": "Gyönyörű barokk kert.",
             "ro": "O grădină barocă superbă.",
-            "en": "Beautiful Baroque garden."
+            "en": "Beautiful Baroque garden.",
+            "fr": "Magnifique jardin baroque."
           }
         },
         {
@@ -730,7 +798,8 @@
             "de": "Atelier de Cézanne",
             "hu": "Cézanne műterme",
             "ro": "Atelierul lui Cézanne",
-            "en": "Cézanne's Studio"
+            "en": "Cézanne's Studio",
+            "fr": "Atelier de Cézanne"
           },
           "coords": [
             5.4462,
@@ -745,7 +814,8 @@
             "de": "Der Ort, an dem Cézanne arbeitete.",
             "hu": "A hely, ahol Cézanne dolgozott.",
             "ro": "Locul unde a lucrat Cézanne.",
-            "en": "The place where Cézanne worked."
+            "en": "The place where Cézanne worked.",
+            "fr": "L'endroit où Cézanne travaillait."
           }
         },
         {
@@ -753,7 +823,8 @@
             "de": "Terrain des Peintres",
             "hu": "Festők dombja",
             "ro": "Terenul Pictorilor",
-            "en": "Painters' Park"
+            "en": "Painters' Park",
+            "fr": "Terrain des Peintres"
           },
           "coords": [
             5.4452,
@@ -768,7 +839,8 @@
             "de": "Blick auf das Gebirge Sainte-Victoire.",
             "hu": "Kilátás a Sainte-Victoire hegységre.",
             "ro": "Vedere spre muntele Sainte-Victoire.",
-            "en": "View of the Sainte-Victoire mountain."
+            "en": "View of the Sainte-Victoire mountain.",
+            "fr": "Vue sur la montagne Sainte-Victoire."
           }
         },
         {
@@ -776,7 +848,8 @@
             "de": "Cathédrale Saint-Sauveur",
             "hu": "Saint-Sauveur székesegyház",
             "ro": "Catedrala Saint-Sauveur",
-            "en": "Saint-Sauveur Cathedral"
+            "en": "Saint-Sauveur Cathedral",
+            "fr": "Cathédrale Saint-Sauveur"
           },
           "coords": [
             5.4478,
@@ -791,7 +864,8 @@
             "de": "Historisches Zentrum der Stadt.",
             "hu": "A város történelmi központja.",
             "ro": "Centrul istoric al orașului.",
-            "en": "Historical center of the city."
+            "en": "Historical center of the city.",
+            "fr": "Centre historique de la ville."
           }
         },
         {
@@ -799,7 +873,8 @@
             "de": "Cours Mirabeau",
             "hu": "Cours Mirabeau",
             "ro": "Cours Mirabeau",
-            "en": "Cours Mirabeau"
+            "en": "Cours Mirabeau",
+            "fr": "Cours Mirabeau"
           },
           "coords": [
             5.4478,
@@ -814,7 +889,8 @@
             "de": "Abschluss im Herzen der Stadt.",
             "hu": "Zárja a napot a város szívében.",
             "ro": "Final de zi în inima orașului.",
-            "en": "Finish the day in the heart of the city."
+            "en": "Finish the day in the heart of the city.",
+            "fr": "Terminez la journée au cœur de la ville."
           }
         }
       ],
@@ -822,7 +898,8 @@
         "de": "Mit dem Fahrrad erkunden wir die grüne Seite von Aix. Wir starten am Pavillon Vendôme mit seinem ruhigen Barockgarten.\n\nWeiter geht es bergauf zum Atelier de Cézanne, wo die Zeit stehen geblieben scheint. Hier spürt man den Geist des Malers.\n\nMittags erreichen wir das Terrain des Peintres. Der Blick auf das Sainte-Victoire-Gebirge ist die perfekte Kulisse für ein Picknick.\n\nAm Nachmittag rollen wir zurück ins Zentrum zur Kathedrale und beenden die Tour auf dem belebten Cours Mirabeau.",
         "hu": "Kerékpárral fedezzük fel Aix zöldebb oldalát. A Pavillon Vendôme barokk kertjében kezdünk, amely nyugalmat áraszt.\n\nInnen felfelé tekerünk Cézanne műterméhez, ahol megállt az idő. A festő szelleme ma is belengi a szobákat.\n\nDélben elérjük a Festők dombját (Terrain des Peintres). A Sainte-Victoire hegység látványa tökéletes helyszín egy piknikhez.\n\nDélután visszagurulunk a központba a katedrálishoz, majd a napot a nyüzsgő Cours Mirabeau-n zárjuk.",
         "ro": "Explorăm partea verde a orașului Aix pe bicicletă. Începem la Pavilionul Vendôme, cu grădina sa barocă liniștită.\n\nContinuăm urcușul spre Atelierul lui Cézanne, unde timpul pare să fi stat în loc. Aici se simte spiritul pictorului.\n\nLa prânz ajungem la Terenul Pictorilor. Vederea spre muntele Sainte-Victoire este decorul perfect pentru un picnic.\n\nDupă-amiaza coborâm spre centru, vizităm catedrala și încheiem turul pe animatul Cours Mirabeau.",
-        "en": "We explore the green side of Aix by bike. We start at the Pavillon Vendôme with its quiet Baroque garden.\n\nNext, we cycle uphill to Cézanne's Studio, where time seems to have stood still. You can still feel the painter's spirit here.\n\nAt midday, we reach the Terrain des Peintres. The view of the Sainte-Victoire mountain is the perfect backdrop for a picnic.\n\nIn the afternoon, we roll back to the center to the cathedral and end the tour on the lively Cours Mirabeau."
+        "en": "We explore the green side of Aix by bike. We start at the Pavillon Vendôme with its quiet Baroque garden.\n\nNext, we cycle uphill to Cézanne's Studio, where time seems to have stood still. You can still feel the painter's spirit here.\n\nAt midday, we reach the Terrain des Peintres. The view of the Sainte-Victoire mountain is the perfect backdrop for a picnic.\n\nIn the afternoon, we roll back to the center to the cathedral and end the tour on the lively Cours Mirabeau.",
+        "fr": "Nous explorons le côté vert d'Aix à vélo. Nous commençons au Pavillon Vendôme avec son paisible jardin baroque.\n\nEnsuite, nous grimpons jusqu'à l'atelier de Cézanne, où le temps semble s'être arrêté. On ressent encore l'esprit du peintre ici.\n\nÀ midi, nous atteignons le Terrain des Peintres. La vue sur la montagne Sainte-Victoire est le cadre parfait pour un pique-nique.\n\nL'après-midi, nous revenons au centre vers la cathédrale et terminons la balade sur le vif Cours Mirabeau."
       },
       "gastro_picks": {
         "de": [
@@ -930,6 +1007,12 @@
           "Use the marked bike paths.",
           "Always lock your bike securely.",
           "The northern hills offer great views."
+        ],
+        "fr": [
+          "Certaines rues sont raides, un vélo à assistance est recommandé.",
+          "Utilisez les pistes cyclables marquées.",
+          "Verrouillez toujours votre vélo en toute sécurité.",
+          "Les collines nord offrent de superbes vues."
         ]
       },
       "variants": {
@@ -938,7 +1021,8 @@
             "de": "Mit dem Fahrrad erkunden wir die grüne Seite von Aix. Wir starten am Pavillon Vendôme mit seinem ruhigen Barockgarten.\n\nWeiter geht es bergauf zum Atelier de Cézanne, wo die Zeit stehen geblieben scheint. Hier spürt man den Geist des Malers.\n\nMittags erreichen wir das Terrain des Peintres. Der Blick auf das Sainte-Victoire-Gebirge ist die perfekte Kulisse für ein Picknick.\n\nAm Nachmittag rollen wir zurück ins Zentrum zur Kathedrale und beenden die Tour auf dem belebten Cours Mirabeau.",
             "hu": "Kerékpárral fedezzük fel Aix zöldebb oldalát. A Pavillon Vendôme barokk kertjében kezdünk, amely nyugalmat áraszt.\n\nInnen felfelé tekerünk Cézanne műterméhez, ahol megállt az idő. A festő szelleme ma is belengi a szobákat.\n\nDélben elérjük a Festők dombját (Terrain des Peintres). A Sainte-Victoire hegység látványa tökéletes helyszín egy piknikhez.\n\nDélután visszagurulunk a központba a katedrálishoz, majd a napot a nyüzsgő Cours Mirabeau-n zárjuk.",
             "ro": "Explorăm partea verde a orașului Aix pe bicicletă. Începem la Pavilionul Vendôme, cu grădina sa barocă liniștită.\n\nContinuăm urcușul spre Atelierul lui Cézanne, unde timpul pare să fi stat în loc. Aici se simte spiritul pictorului.\n\nLa prânz ajungem la Terenul Pictorilor. Vederea spre muntele Sainte-Victoire este decorul perfect pentru un picnic.\n\nDupă-amiaza coborâm spre centru, vizităm catedrala și încheiem turul pe animatul Cours Mirabeau.",
-            "en": "We explore the green side of Aix by bike. We start at the Pavillon Vendôme with its quiet Baroque garden.\n\nNext, we cycle uphill to Cézanne's Studio, where time seems to have stood still. You can still feel the painter's spirit here.\n\nAt midday, we reach the Terrain des Peintres. The view of the Sainte-Victoire mountain is the perfect backdrop for a picnic.\n\nIn the afternoon, we roll back to the center to the cathedral and end the tour on the lively Cours Mirabeau."
+            "en": "We explore the green side of Aix by bike. We start at the Pavillon Vendôme with its quiet Baroque garden.\n\nNext, we cycle uphill to Cézanne's Studio, where time seems to have stood still. You can still feel the painter's spirit here.\n\nAt midday, we reach the Terrain des Peintres. The view of the Sainte-Victoire mountain is the perfect backdrop for a picnic.\n\nIn the afternoon, we roll back to the center to the cathedral and end the tour on the lively Cours Mirabeau.",
+            "fr": "Nous explorons le côté vert d'Aix à vélo. Nous commençons au Pavillon Vendôme avec son paisible jardin baroque.\n\nEnsuite, nous grimpons jusqu'à l'atelier de Cézanne, où le temps semble s'être arrêté. On ressent encore l'esprit du peintre ici.\n\nÀ midi, nous atteignons le Terrain des Peintres. La vue sur la montagne Sainte-Victoire est le cadre parfait pour un pique-nique.\n\nL'après-midi, nous revenons au centre vers la cathédrale et terminons la balade sur le vif Cours Mirabeau."
           },
           "stops": [
             {
@@ -946,13 +1030,15 @@
                 "de": "Pavillon Vendôme",
                 "hu": "Vendôme-pavilon",
                 "ro": "Pavilionul Vendôme",
-                "en": "Pavillon Vendôme"
+                "en": "Pavillon Vendôme",
+                "fr": "Pavillon Vendôme"
               },
               "tip_5lang": {
                 "de": "Wunderschöner Barockgarten.",
                 "hu": "Gyönyörű barokk kert.",
                 "ro": "O grădină barocă superbă.",
-                "en": "Beautiful Baroque garden."
+                "en": "Beautiful Baroque garden.",
+                "fr": "Magnifique jardin baroque."
               }
             },
             {
@@ -960,13 +1046,15 @@
                 "de": "Atelier de Cézanne",
                 "hu": "Cézanne műterme",
                 "ro": "Atelierul lui Cézanne",
-                "en": "Cézanne's Studio"
+                "en": "Cézanne's Studio",
+                "fr": "Atelier de Cézanne"
               },
               "tip_5lang": {
                 "de": "Der Ort, an dem Cézanne arbeitete.",
                 "hu": "A hely, ahol Cézanne dolgozott.",
                 "ro": "Locul unde a lucrat Cézanne.",
-                "en": "The place where Cézanne worked."
+                "en": "The place where Cézanne worked.",
+                "fr": "L'endroit où Cézanne travaillait."
               }
             },
             {
@@ -974,13 +1062,15 @@
                 "de": "Terrain des Peintres",
                 "hu": "Festők dombja",
                 "ro": "Terenul Pictorilor",
-                "en": "Painters' Park"
+                "en": "Painters' Park",
+                "fr": "Terrain des Peintres"
               },
               "tip_5lang": {
                 "de": "Blick auf das Gebirge Sainte-Victoire.",
                 "hu": "Kilátás a Sainte-Victoire hegységre.",
                 "ro": "Vedere spre muntele Sainte-Victoire.",
-                "en": "View of the Sainte-Victoire mountain."
+                "en": "View of the Sainte-Victoire mountain.",
+                "fr": "Vue sur la montagne Sainte-Victoire."
               }
             },
             {
@@ -988,13 +1078,15 @@
                 "de": "Cathédrale Saint-Sauveur",
                 "hu": "Saint-Sauveur székesegyház",
                 "ro": "Catedrala Saint-Sauveur",
-                "en": "Saint-Sauveur Cathedral"
+                "en": "Saint-Sauveur Cathedral",
+                "fr": "Cathédrale Saint-Sauveur"
               },
               "tip_5lang": {
                 "de": "Historisches Zentrum der Stadt.",
                 "hu": "A város történelmi központja.",
                 "ro": "Centrul istoric al orașului.",
-                "en": "Historical center of the city."
+                "en": "Historical center of the city.",
+                "fr": "Centre historique de la ville."
               }
             },
             {
@@ -1002,13 +1094,15 @@
                 "de": "Cours Mirabeau",
                 "hu": "Cours Mirabeau",
                 "ro": "Cours Mirabeau",
-                "en": "Cours Mirabeau"
+                "en": "Cours Mirabeau",
+                "fr": "Cours Mirabeau"
               },
               "tip_5lang": {
                 "de": "Abschluss im Herzen der Stadt.",
                 "hu": "Zárja a napot a város szívében.",
                 "ro": "Final de zi în inima orașului.",
-                "en": "Finish the day in the heart of the city."
+                "en": "Finish the day in the heart of the city.",
+                "fr": "Terminez la journée au cœur de la ville."
               }
             }
           ],
@@ -1118,6 +1212,12 @@
               "Use the marked bike paths.",
               "Always lock your bike securely.",
               "The northern hills offer great views."
+            ],
+            "fr": [
+              "Certaines rues sont raides, un vélo à assistance est recommandé.",
+              "Utilisez les pistes cyclables marquées.",
+              "Verrouillez toujours votre vélo en toute sécurité.",
+              "Les collines nord offrent de superbes vues."
             ]
           }
         },
@@ -1126,7 +1226,8 @@
             "de": "Starten Sie vorsichtig am Pavillon Vendôme. Die nassen Gartenwege erfordern Aufmerksamkeit, bieten aber eine ruhige, fast mystische Atmosphäre.\nDer Weg zu Cézannes Atelier ist steil und bei Regen rutschig; nutzen Sie niedrige Gänge. Im Atelier finden Sie Schutz und Inspiration. Das Mittagessen im Painters' Park fällt kurz aus, vielleicht nur ein Blick auf das Motiv.\nAm Nachmittag radeln Sie zur Kathedrale Saint-Sauveur, um sich im Trockenen aufzuwärmen. Die Architektur bietet einen majestätischen Anblick hinter dem Regenschleier.\nBeenden Sie die Tour am Cours Mirabeau. Die breite Straße ist auch bei Nässe gut befahrbar. Ein heißes Getränk in einer Bar ist die verdiente Belohnung für wetterfeste Radfahrer.",
             "hu": "Kezdje óvatosan a Pavillon Vendôme-nál. A vizes kerti utak figyelmet igényelnek, de cserébe csendes, misztikus hangulatot árasztanak.\nA Cézanne műterméhez vezető út meredek és esőben csúszós, használjon alacsony fokozatot. A műteremben menedéket talál. A Painters' Parkban tett látogatás esőben rövid lesz, csak a látvány kedvéért.\nDélután tekerjen a Saint-Sauveur székesegyházhoz, hogy száraz helyen melegedjen fel. Az épület fenséges látványt nyújt az esőfüggöny mögött.\nZárja a túrát a Cours Mirabeau-n. A széles út nedvesen is jól járható. Egy forró ital egy bárban a megérdemelt jutalom a kitartó bicikliseknek.",
             "ro": "Începeți cu atenție la Pavillon Vendôme. Aleile umede din grădină necesită concentrare, dar oferă o atmosferă liniștită și mistică.\nDrumul spre Atelierul lui Cézanne este abrupt și alunecos pe ploaie; folosiți viteze mici. În atelier veți găsi adăpost. Vizita în Parcul Pictorilor va fi scurtă pe ploaie.\nDupă-amiaza, pedalați spre Catedrala Saint-Sauveur pentru a vă încălzi la uscat. Arhitectura oferă o vedere maiestuoasă prin perdeaua de ploaie.\nÎncheiați turul pe Cours Mirabeau. Bulevardul lat este ușor de parcurs și pe carosabil umed. O băutură caldă într-un bar este recompensa meritată.",
-            "en": "Start carefully at Pavillon Vendôme. The wet garden paths require attention but offer a quiet, almost mystical atmosphere.\nThe climb to Cézanne's Studio is steep and slippery in the rain; use low gears. The studio provides excellent shelter. Your stop at Painters' Park will be brief in these conditions.\nIn the afternoon, cycle to Saint-Sauveur Cathedral to warm up and stay dry. The architecture looks majestic through the veil of rain.\nFinish the tour at Cours Mirabeau. The wide street is manageable even when wet. A hot drink in a bar is a well-deserved reward for weatherproof cyclists."
+            "en": "Start carefully at Pavillon Vendôme. The wet garden paths require attention but offer a quiet, almost mystical atmosphere.\nThe climb to Cézanne's Studio is steep and slippery in the rain; use low gears. The studio provides excellent shelter. Your stop at Painters' Park will be brief in these conditions.\nIn the afternoon, cycle to Saint-Sauveur Cathedral to warm up and stay dry. The architecture looks majestic through the veil of rain.\nFinish the tour at Cours Mirabeau. The wide street is manageable even when wet. A hot drink in a bar is a well-deserved reward for weatherproof cyclists.",
+            "fr": "Commencez prudemment au Pavillon Vendôme. Les allées du jardin mouillées demandent de l'attention mais offrent une atmosphère calme, presque mystique.\nLa montée vers l'atelier de Cézanne est raide et glissante sous la pluie ; utilisez les vitesses basses. L'atelier procure un excellent abri. Votre arrêt au Terrain des Peintres sera bref dans ces conditions.\nL'après-midi, pédalez jusqu'à la Cathédrale Saint-Sauveur pour vous réchauffer et rester au sec. L'architecture paraît majestueuse à travers le voile de pluie.\nTerminez la visite au Cours Mirabeau. La large avenue reste praticable même mouillée. Une boisson chaude au bar est une récompense bien méritée pour les cyclistes résistants aux intempéries."
           },
           "stops": [
             {
@@ -1135,7 +1236,8 @@
                 "de": "Vermeiden Sie das Fahren auf nassem Gras, bleiben Sie auf den befestigten Wegen.",
                 "hu": "Kerülje a vizes fűvön való biciklizést, maradjon a kiépített utakon.",
                 "ro": "Evitați să mergeți pe iarba umedă, rămâneți pe aleile pavate.",
-                "en": "Avoid cycling on wet grass; stay on the paved paths."
+                "en": "Avoid cycling on wet grass; stay on the paved paths.",
+                "fr": "Évitez de rouler sur l'herbe mouillée ; restez sur les chemins pavés."
               }
             },
             {
@@ -1144,7 +1246,8 @@
                 "de": "Nutzen Sie den überdachten Bereich am Eingang, um Ihr Fahrrad zu sichern.",
                 "hu": "Használja a bejáratnál lévő fedett részt a bicikli lezárásához.",
                 "ro": "Folosiți zona acoperită de la intrare pentru a vă asigura bicicleta.",
-                "en": "Use the covered area near the entrance to secure your bike."
+                "en": "Use the covered area near the entrance to secure your bike.",
+                "fr": "Utilisez l'abri couvert près de l'entrée pour sécuriser votre vélo."
               }
             },
             {
@@ -1153,7 +1256,8 @@
                 "de": "Der Boden kann sehr schlammig sein, parken Sie das Rad am befestigten Rand.",
                 "hu": "A talaj nagyon sáros lehet, a biciklit a szilárd út szélén hagyja.",
                 "ro": "Solul poate fi noroios, parcați bicicleta la marginea pavată.",
-                "en": "The ground can be muddy; park your bike on the paved edge."
+                "en": "The ground can be muddy; park your bike on the paved edge.",
+                "fr": "Le sol peut être boueux ; garez votre vélo sur le bord pavé."
               }
             },
             {
@@ -1162,7 +1266,8 @@
                 "de": "Achten Sie auf die Metallgitter auf dem Boden, sie sind extrem rutschig.",
                 "hu": "Ügyeljen a földön lévő fémrácsokra, ezek rendkívül csúszósak.",
                 "ro": "Atenție la grătarele metalice de pe sol, sunt extrem de alunecoase.",
-                "en": "Watch out for metal grates on the ground; they are extremely slippery."
+                "en": "Watch out for metal grates on the ground; they are extremely slippery.",
+                "fr": "Faites attention aux grilles métalliques au sol ; elles sont extrêmement glissantes."
               }
             },
             {
@@ -1171,7 +1276,8 @@
                 "de": "Halten Sie Abstand zu den Bussen, da diese bei Regen längere Bremswege haben.",
                 "hu": "Tartson távolságot a buszoktól, mert esőben hosszabb a féktávjuk.",
                 "ro": "Păstrați distanța față de autobuze, au distanțe de frânare mai mari pe ploaie.",
-                "en": "Keep a safe distance from buses; they have longer braking distances in rain."
+                "en": "Keep a safe distance from buses; they have longer braking distances in rain.",
+                "fr": "Gardez une distance de sécurité avec les bus ; ils ont des distances de freinage plus longues sous la pluie."
               }
             }
           ],
@@ -1203,6 +1309,13 @@
               "Avoid riding on white road markings; they become like ice when wet.",
               "Use V'Aix rental bikes equipped with fenders to stay drier.",
               "A helmet with a visor will protect your eyes from direct driving rain."
+            ],
+            "fr": [
+              "Vérifiez vos freins avant de partir, l'humidité retarde leur efficacité.",
+              "Portez un imperméable de couleur vive pour rester visible par faible luminosité.",
+              "Évitez de rouler sur les marquages blancs au sol ; ils deviennent comme de la glace quand ils sont mouillés.",
+              "Utilisez les vélos de location V'Aix équipés de garde-boues pour rester plus sec.",
+              "Un casque avec visière protégera vos yeux de la pluie directe."
             ]
           }
         },
@@ -1211,7 +1324,8 @@
             "de": "Starten Sie Ihre Wintertour am Pavillon Vendôme. Der Raureif auf den Wegen sorgt für eine glitzernde Kulisse, erfordert aber eine vorsichtige Fahrweise.\nDer Anstieg zu Cézannes Atelier wärmt Sie auf. Genießen Sie die klare Sicht auf die Stadt von oben. Mittags bietet der Painters' Park das berühmte Licht, das Cézanne so liebte, auch im Winter.\nAm Nachmittag radeln Sie zur Kathedrale Saint-Sauveur. Die Bewegung hält Sie warm, bevor Sie das kühle, aber windgeschützte Innere besuchen.\nBeenden Sie den Tag am Cours Mirabeau. Die winterliche Abenddämmerung bricht früh an, achten Sie auf funktionierendes Licht am Fahrrad. Ein heißer Tee ist der perfekte Abschluss.",
             "hu": "Kezdje téli túráját a Pavillon Vendôme-nál. Az utakon lévő dér csillogó hátteret biztosít, de óvatos vezetést igényel.\nA Cézanne műterméhez vezető emelkedő segít bemelegedni. Élvezze a tiszta kilátást a városra. Délben a Painters' Parkban megtapasztalhatja azt a fényt, amit Cézanne annyira szeretett.\nDélután tekerjen a Saint-Sauveur székesegyházhoz. A mozgás melegen tartja, mielőtt meglátogatná a hűvös, de szélvédett belsőt.\nZárja a napot a Cours Mirabeau-n. A téli szürkület korán beköszönt, ügyeljen a működő kerékpárvilágításra. Egy forró tea a tökéletes befejezés.",
             "ro": "Începeți turul de iarnă la Pavillon Vendôme. Promoroaca de pe alei oferă un decor strălucitor, dar necesită o conducere prudentă.\nUrcarea spre Atelierul lui Cézanne vă va încălzi. Bucurați-vă de vederea clară asupra orașului. La prânz, Parcul Pictorilor oferă lumina celebră pe care Cézanne a iubit-o.\nDupă-amiaza, pedalați spre Catedrala Saint-Sauveur. Mișcarea vă menține cald înainte de a vizita interiorul răcoros, dar ferit de vânt.\nÎncheiați ziua pe Cours Mirabeau. Amurgul de iarnă vine devreme, asigurați-vă că luminile bicicletei funcționează. Un ceai fierbinte este finalul perfect.",
-            "en": "Start your winter bike tour at Pavillon Vendôme. The frost on the paths creates a sparkling backdrop but requires careful riding.\nThe climb to Cézanne's Studio will warm you up. Enjoy the clear winter views over the city. At noon, Painters' Park offers the famous light that Cézanne loved so much.\nIn the afternoon, cycle to Saint-Sauveur Cathedral. The movement keeps you warm before visiting the cool but wind-sheltered interior.\nEnd your day at Cours Mirabeau. Winter dusk arrives early, so ensure your bike lights are working. A hot tea is the perfect conclusion."
+            "en": "Start your winter bike tour at Pavillon Vendôme. The frost on the paths creates a sparkling backdrop but requires careful riding.\nThe climb to Cézanne's Studio will warm you up. Enjoy the clear winter views over the city. At noon, Painters' Park offers the famous light that Cézanne loved so much.\nIn the afternoon, cycle to Saint-Sauveur Cathedral. The movement keeps you warm before visiting the cool but wind-sheltered interior.\nEnd your day at Cours Mirabeau. Winter dusk arrives early, so ensure your bike lights are working. A hot tea is the perfect conclusion.",
+            "fr": "Commencez votre randonnée hivernale à vélo au Pavillon Vendôme. le givre sur les chemins crée un décor scintillant mais exige une conduite prudente.\nLa montée vers l'atelier de Cézanne vous réchauffera. Profitez des vues hivernales nettes sur la ville. À midi, le Terrain des Peintres offre la lumière célèbre que Cézanne aimait tant.\nL'après-midi, roulez jusqu'à la Cathédrale Saint-Sauveur. Le mouvement vous garde au chaud avant de visiter l'intérieur frais mais abrité du vent.\nTerminez la journée au Cours Mirabeau. Le crépuscule hivernal arrive tôt, assurez-vous que vos lumières de vélo fonctionnent. Un thé chaud est la conclusion parfaite."
           },
           "stops": [
             {
@@ -1220,7 +1334,8 @@
                 "de": "Achten Sie auf vereiste Stellen im Schatten der Bäume.",
                 "hu": "Ügyeljen a fák árnyékában lévő jeges foltokra.",
                 "ro": "Atenție la porțiunile înghețate de la umbra copacilor.",
-                "en": "Watch out for icy patches in the shade of the trees."
+                "en": "Watch out for icy patches in the shade of the trees.",
+                "fr": "Faites attention aux plaques de verglas à l'ombre des arbres."
               }
             },
             {
@@ -1229,7 +1344,8 @@
                 "de": "Stellen Sie Ihr Rad an einem sonnigen Platz ab, damit der Sattel nicht einfriert.",
                 "hu": "Hagyja a biciklit napos helyen, hogy a nyereg ne fagyjon át.",
                 "ro": "Lăsați bicicleta într-un loc însorit pentru ca șaua să nu înghețe.",
-                "en": "Park your bike in a sunny spot to prevent the saddle from freezing."
+                "en": "Park your bike in a sunny spot to prevent the saddle from freezing.",
+                "fr": "Garez votre vélo au soleil pour éviter que la selle ne gèle."
               }
             },
             {
@@ -1238,7 +1354,8 @@
                 "de": "Der Wind weht hier oben stärker, ziehen Sie eine zusätzliche Schicht an.",
                 "hu": "Itt fent erősebben fúj a szél, vegyen fel egy plusz réteget.",
                 "ro": "Vântul bate mai tare aici sus, puneți-vă un strat suplimentar.",
-                "en": "The wind blows stronger up here; put on an extra layer."
+                "en": "The wind blows stronger up here; put on an extra layer.",
+                "fr": "Le vent souffle plus fort ici ; mettez une couche supplémentaire."
               }
             },
             {
@@ -1247,7 +1364,8 @@
                 "de": "Nutzen Sie den Stop für Dehnübungen, um die Durchblutung anzuregen.",
                 "hu": "Használja ki a megállót egy kis nyújtásra a vérkeringés serkentéséhez.",
                 "ro": "Folosiți oprirea pentru exerciții de stretching pentru circulație.",
-                "en": "Use this stop for some stretching to stimulate blood circulation."
+                "en": "Use this stop for some stretching to stimulate blood circulation.",
+                "fr": "Profitez de cet arrêt pour vous étirer et stimuler la circulation sanguine."
               }
             },
             {
@@ -1256,7 +1374,8 @@
                 "de": "Vorsicht vor Fußgängern, die wegen der Kälte schneller unterwegs sind.",
                 "hu": "Vigyázzon a gyalogosokra, akik a hideg miatt sietősebben haladnak.",
                 "ro": "Atenție la pietonii care circulă mai repede din cauza frigului.",
-                "en": "Watch out for pedestrians moving faster because of the cold."
+                "en": "Watch out for pedestrians moving faster because of the cold.",
+                "fr": "Faites attention aux piétons qui se déplacent plus rapidement à cause du froid."
               }
             }
           ],
@@ -1288,6 +1407,13 @@
               "The sun disappears early behind buildings, and it gets suddenly colder.",
               "Stay hydrated even in the cold; warm drinks from a thermos are best.",
               "Wear bright clothing or reflectors for the early dusk."
+            ],
+            "fr": [
+              "Portez des gants chauds, car vos mains refroidissent vite sur le guidon.",
+              "Vérifiez la pression des pneus ; une pression légèrement plus basse offre une meilleure adhérence sur le givre.",
+              "Le soleil disparaît tôt derrière les bâtiments, et il fait soudainement plus froid.",
+              "Restez hydraté même par temps froid ; les boissons chaudes dans un thermos sont idéales.",
+              "Portez des vêtements lumineux ou des réflecteurs à la tombée du crépuscule."
             ]
           }
         }
@@ -1306,7 +1432,8 @@
             "de": "Fontaine de la Rotonde",
             "hu": "Rotonde kút",
             "ro": "Fântâna Rotonde",
-            "en": "Fontaine de la Rotonde"
+            "en": "Fontaine de la Rotonde",
+            "fr": "Fontaine de la Rotonde"
           },
           "coords": [
             5.4452,
@@ -1321,7 +1448,8 @@
             "de": "Parken Sie im Parkhaus Rotonde.",
             "hu": "Parkoljon a Rotonde mélygarázsban.",
             "ro": "Parcați în parcarea Rotonde.",
-            "en": "Park in the Rotonde parking garage."
+            "en": "Park in the Rotonde parking garage.",
+            "fr": "Garez-vous dans le parking Rotonde."
           }
         },
         {
@@ -1329,7 +1457,8 @@
             "de": "Montagne Sainte-Victoire",
             "hu": "Sainte-Victoire hegység",
             "ro": "Muntele Sainte-Victoire",
-            "en": "Sainte-Victoire Mountain"
+            "en": "Sainte-Victoire Mountain",
+            "fr": "Montagne Sainte-Victoire"
           },
           "coords": [
             5.5122,
@@ -1344,7 +1473,8 @@
             "de": "Wandern Sie am Fuße des Berges.",
             "hu": "Túrázzon a hegy lábánál.",
             "ro": "Drumeții la poalele muntelui.",
-            "en": "Hike at the foot of the mountain."
+            "en": "Hike at the foot of the mountain.",
+            "fr": "Randonnée au pied de la montagne."
           }
         },
         {
@@ -1352,7 +1482,8 @@
             "de": "Atelier de Cézanne",
             "hu": "Cézanne műterme",
             "ro": "Atelierul lui Cézanne",
-            "en": "Cézanne's Studio"
+            "en": "Cézanne's Studio",
+            "fr": "Atelier de Cézanne"
           },
           "coords": [
             5.4462,
@@ -1367,7 +1498,8 @@
             "de": "Kleiner Parkplatz vor Ort.",
             "hu": "Kis parkoló a helyszínen.",
             "ro": "Parcare mică la fața locului.",
-            "en": "Small parking lot on site."
+            "en": "Small parking lot on site.",
+            "fr": "Petit parking sur place."
           }
         },
         {
@@ -1375,7 +1507,8 @@
             "de": "Place des Cardeurs",
             "hu": "Place des Cardeurs",
             "ro": "Place des Cardeurs",
-            "en": "Place des Cardeurs"
+            "en": "Place des Cardeurs",
+            "fr": "Place des Cardeurs"
           },
           "coords": [
             5.4468,
@@ -1390,7 +1523,8 @@
             "de": "Vielzahl an Restaurants für den Abend.",
             "hu": "Számos étterem az esti órákra.",
             "ro": "O varietate de restaurante pentru seară.",
-            "en": "A variety of restaurants for the evening."
+            "en": "A variety of restaurants for the evening.",
+            "fr": "Une variété de restaurants pour la soirée."
           }
         }
       ],
@@ -1398,7 +1532,8 @@
         "de": "Mit dem Auto erreichen wir die ikonischen Landschaften um Aix. Nach einem kurzen Stopp im Zentrum fahren wir zum Fuße des Sainte-Victoire.\n\nMittags genießen wir die Natur und die wilde Schönheit der Provence, die Cézanne so sehr liebte.\n\nAm Nachmittag besuchen wir sein Atelier am Stadtrand, bevor wir zurück ins Herz von Aix fahren.\n\nDer Tag endet entspannt bei einem Abendessen auf dem Place des Cardeurs, wo das Stadtleben pulsiert.",
         "hu": "Autóval elérjük Aix ikonikus vidékeit. Egy rövid belvárosi megálló után a Sainte-Victoire hegység lábához hajtunk.\n\nDélben a természetet és Provence vad szépségét élvezzük, amelyet Cézanne oly nagyra tartott.\n\nDélután meglátogatjuk a festő műtermét a város szélén, majd visszatérünk Aix szívébe.\n\nA nap vacsorával zárul a Place des Cardeurs téren, ahol a városi élet lüktet.",
         "ro": "Cu mașina ajungem la peisajele emblematice din jurul orașului Aix. După o scurtă oprire în centru, conducem spre poalele muntelui Sainte-Victoire.\n\nLa prânz ne bucurăm de natură și de frumusețea sălbatică a Provencei, pe care Cézanne a iubit-o atât de mult.\n\nDupă-amiaza vizităm atelierul său de la marginea orașului, înainte de a ne întoarce în inima orașului Aix.\n\nZiua se încheie relaxat cu o cină în Place des Cardeurs, unde viața urbană pulsează.",
-        "en": "By car, we reach the iconic landscapes surrounding Aix. After a short stop in the center, we drive to the foot of Sainte-Victoire.\n\nAt midday, we enjoy the nature and wild beauty of Provence that Cézanne loved so much.\n\nIn the afternoon, we visit his studio on the outskirts before driving back into the heart of Aix.\n\nThe day ends with a relaxed dinner at Place des Cardeurs, where city life pulses."
+        "en": "By car, we reach the iconic landscapes surrounding Aix. After a short stop in the center, we drive to the foot of Sainte-Victoire.\n\nAt midday, we enjoy the nature and wild beauty of Provence that Cézanne loved so much.\n\nIn the afternoon, we visit his studio on the outskirts before driving back into the heart of Aix.\n\nThe day ends with a relaxed dinner at Place des Cardeurs, where city life pulses.",
+        "fr": "En voiture, nous atteignons les paysages emblématiques qui entourent Aix. Après un court arrêt au centre, nous nous rendons au pied de la Sainte-Victoire.\n\nÀ midi, nous profitons de la nature et de la beauté sauvage de Provence que Cézanne aimait tant.\n\nL'après-midi, nous visitons son atelier en périphérie avant de retourner au cœur d'Aix.\n\nLa journée se termine par un dîner détendu à la Place des Cardeurs, où la vie citadine bat son plein."
       },
       "gastro_picks": {
         "de": [
@@ -1506,6 +1641,12 @@
           "The roads to the mountain are narrow.",
           "Avoid rush hour.",
           "Book the Cézanne Studio online."
+        ],
+        "fr": [
+          "Le stationnement en centre-ville est cher, utilisez le Park-and-Ride.",
+          "Les routes menant à la montagne sont étroites.",
+          "Évitez l'heure de pointe.",
+          "Réservez l'atelier de Cézanne en ligne."
         ]
       },
       "variants": {
@@ -1514,7 +1655,8 @@
             "de": "Mit dem Auto erreichen wir die ikonischen Landschaften um Aix. Nach einem kurzen Stopp im Zentrum fahren wir zum Fuße des Sainte-Victoire.\n\nMittags genießen wir die Natur und die wilde Schönheit der Provence, die Cézanne so sehr liebte.\n\nAm Nachmittag besuchen wir sein Atelier am Stadtrand, bevor wir zurück ins Herz von Aix fahren.\n\nDer Tag endet entspannt bei einem Abendessen auf dem Place des Cardeurs, wo das Stadtleben pulsiert.",
             "hu": "Autóval elérjük Aix ikonikus vidékeit. Egy rövid belvárosi megálló után a Sainte-Victoire hegység lábához hajtunk.\n\nDélben a természetet és Provence vad szépségét élvezzük, amelyet Cézanne oly nagyra tartott.\n\nDélután meglátogatjuk a festő műtermét a város szélén, majd visszatérünk Aix szívébe.\n\nA nap vacsorával zárul a Place des Cardeurs téren, ahol a városi élet lüktet.",
             "ro": "Cu mașina ajungem la peisajele emblematice din jurul orașului Aix. După o scurtă oprire în centru, conducem spre poalele muntelui Sainte-Victoire.\n\nLa prânz ne bucurăm de natură și de frumusețea sălbatică a Provencei, pe care Cézanne a iubit-o atât de mult.\n\nDupă-amiaza vizităm atelierul său de la marginea orașului, înainte de a ne întoarce în inima orașului Aix.\n\nZiua se încheie relaxat cu o cină în Place des Cardeurs, unde viața urbană pulsează.",
-            "en": "By car, we reach the iconic landscapes surrounding Aix. After a short stop in the center, we drive to the foot of Sainte-Victoire.\n\nAt midday, we enjoy the nature and wild beauty of Provence that Cézanne loved so much.\n\nIn the afternoon, we visit his studio on the outskirts before driving back into the heart of Aix.\n\nThe day ends with a relaxed dinner at Place des Cardeurs, where city life pulses."
+            "en": "By car, we reach the iconic landscapes surrounding Aix. After a short stop in the center, we drive to the foot of Sainte-Victoire.\n\nAt midday, we enjoy the nature and wild beauty of Provence that Cézanne loved so much.\n\nIn the afternoon, we visit his studio on the outskirts before driving back into the heart of Aix.\n\nThe day ends with a relaxed dinner at Place des Cardeurs, where city life pulses.",
+            "fr": "En voiture, nous atteignons les paysages emblématiques qui entourent Aix. Après un court arrêt au centre, nous nous rendons au pied de la Sainte-Victoire.\n\nÀ midi, nous profitons de la nature et de la beauté sauvage de Provence que Cézanne aimait tant.\n\nL'après-midi, nous visitons son atelier en périphérie avant de retourner au cœur d'Aix.\n\nLa journée se termine par un dîner détendu à la Place des Cardeurs, où la vie citadine bat son plein."
           },
           "stops": [
             {
@@ -1522,13 +1664,15 @@
                 "de": "Fontaine de la Rotonde",
                 "hu": "Rotonde kút",
                 "ro": "Fântâna Rotonde",
-                "en": "Fontaine de la Rotonde"
+                "en": "Fontaine de la Rotonde",
+                "fr": "Fontaine de la Rotonde"
               },
               "tip_5lang": {
                 "de": "Parken Sie im Parkhaus Rotonde.",
                 "hu": "Parkoljon a Rotonde mélygarázsban.",
                 "ro": "Parcați în parcarea Rotonde.",
-                "en": "Park in the Rotonde parking garage."
+                "en": "Park in the Rotonde parking garage.",
+                "fr": "Garez-vous dans le parking Rotonde."
               }
             },
             {
@@ -1536,13 +1680,15 @@
                 "de": "Montagne Sainte-Victoire",
                 "hu": "Sainte-Victoire hegység",
                 "ro": "Muntele Sainte-Victoire",
-                "en": "Sainte-Victoire Mountain"
+                "en": "Sainte-Victoire Mountain",
+                "fr": "Montagne Sainte-Victoire"
               },
               "tip_5lang": {
                 "de": "Wandern Sie am Fuße des Berges.",
                 "hu": "Túrázzon a hegy lábánál.",
                 "ro": "Drumeții la poalele muntelui.",
-                "en": "Hike at the foot of the mountain."
+                "en": "Hike at the foot of the mountain.",
+                "fr": "Randonnée au pied de la montagne."
               }
             },
             {
@@ -1550,13 +1696,15 @@
                 "de": "Atelier de Cézanne",
                 "hu": "Cézanne műterme",
                 "ro": "Atelierul lui Cézanne",
-                "en": "Cézanne's Studio"
+                "en": "Cézanne's Studio",
+                "fr": "Atelier de Cézanne"
               },
               "tip_5lang": {
                 "de": "Kleiner Parkplatz vor Ort.",
                 "hu": "Kis parkoló a helyszínen.",
                 "ro": "Parcare mică la fața locului.",
-                "en": "Small parking lot on site."
+                "en": "Small parking lot on site.",
+                "fr": "Petit parking sur place."
               }
             },
             {
@@ -1564,13 +1712,15 @@
                 "de": "Place des Cardeurs",
                 "hu": "Place des Cardeurs",
                 "ro": "Place des Cardeurs",
-                "en": "Place des Cardeurs"
+                "en": "Place des Cardeurs",
+                "fr": "Place des Cardeurs"
               },
               "tip_5lang": {
                 "de": "Vielzahl an Restaurants für den Abend.",
                 "hu": "Számos étterem az esti órákra.",
                 "ro": "O varietate de restaurante pentru seară.",
-                "en": "A variety of restaurants for the evening."
+                "en": "A variety of restaurants for the evening.",
+                "fr": "Une variété de restaurants pour la soirée."
               }
             }
           ],
@@ -1680,6 +1830,12 @@
               "The roads to the mountain are narrow.",
               "Avoid rush hour.",
               "Book the Cézanne Studio online."
+            ],
+            "fr": [
+              "Le stationnement en centre-ville est cher, utilisez le Park-and-Ride.",
+              "Les routes menant à la montagne sont étroites.",
+              "Évitez l'heure de pointe.",
+              "Réservez l'atelier de Cézanne en ligne."
             ]
           }
         },
@@ -1688,7 +1844,8 @@
             "de": "Beginnen Sie bequem an der Fontaine de la Rotonde. Das Parken im nahen Parkhaus hält Sie trocken, während Sie den Brunnen bewundern.\nDie Fahrt zum Sainte-Victoire-Gebirge bietet dramatische Ausblicke, auch wenn die Gipfel in Wolken hängen. Fahren Sie vorsichtig auf den kurvigen Landstraßen. Mittags kehren Sie zurück in die Stadt zu Cézannes Atelier.\nAm Nachmittag genießen Sie ein langes Mittagessen an der Place des Cardeurs, während der Regen gegen die Scheiben trommelt. Die Fahrt durch die nassen Straßen von Aix ist entspannt.\nBeenden Sie den Tag mit einem kurzen Abstecher zu einem Einkaufszentrum am Stadtrand, um bequem im Trockenen Besorgungen zu machen, bevor Sie den Wagen abstellen.",
             "hu": "Kezdje kényelmesen a Fontaine de la Rotonde-nál. A közeli parkolóházban hagyva az autót szárazon csodálhatja meg a szökőkutat.\nA Sainte-Victoire-hegység felé vezető út drámai látványt nyújt, még ha a csúcsokat felhő takarja is. Vezessen óvatosan a kanyargós utakon. Délben térjen vissza a városba, Cézanne műterméhez.\nDélután élvezze a hosszú ebédet a Place des Cardeurs egyik éttermében, miközben az eső kopog az ablakon. Az autózás Aix vizes utcáin pihentető.\nZárja a napot egy rövid kitérővel egy városszéli bevásárlóközpontba, ahol kényelmesen, szárazon intézheti el a bevásárlást.",
             "ro": "Începeți confortabil la Fontaine de la Rotonde. Parcarea într-o structură apropiată vă ține uscat în timp ce admirați fântâna.\nDrumul spre Muntele Sainte-Victoire oferă vederi dramatice, chiar dacă vârfurile sunt în nori. Conduceți prudent pe drumurile șerpuite. La prânz reveniți la Atelierul lui Cézanne.\nDupă-amiaza, bucurați-vă de un prânz lung pe Place des Cardeurs, în timp ce ploaia bate în geamuri. Condusul pe străzile umede din Aix este relaxant.\nÎncheiați ziua cu o scurtă vizită la un centru comercial de la marginea orașului, pentru a face cumpărături la adăpost, înainte de a parca mașina.",
-            "en": "Start comfortably at Fontaine de la Rotonde. Parking in a nearby garage keeps you dry while you admire the fountain.\nThe drive to Sainte-Victoire Mountain offers dramatic views even if the peaks are shrouded in clouds. Drive carefully on the winding roads. At noon, return to the city for Cézanne's Studio.\nIn the afternoon, enjoy a long lunch at Place des Cardeurs while the rain drums against the windows. Driving through the wet streets of Aix is relaxing.\nEnd your day with a short trip to a shopping center on the outskirts to run errands conveniently in the dry before parking for the night."
+            "en": "Start comfortably at Fontaine de la Rotonde. Parking in a nearby garage keeps you dry while you admire the fountain.\nThe drive to Sainte-Victoire Mountain offers dramatic views even if the peaks are shrouded in clouds. Drive carefully on the winding roads. At noon, return to the city for Cézanne's Studio.\nIn the afternoon, enjoy a long lunch at Place des Cardeurs while the rain drums against the windows. Driving through the wet streets of Aix is relaxing.\nEnd your day with a short trip to a shopping center on the outskirts to run errands conveniently in the dry before parking for the night.",
+            "fr": "Commencez confortablement à la Fontaine de la Rotonde. Le stationnement dans un garage à proximité vous garde au sec pendant que vous admirez la fontaine.\nLa route vers la Montagne Sainte-Victoire offre des vues dramatiques même si les sommets sont enveloppés de nuages. Conduisez prudemment sur les routes sinueuses. À midi, retournez en ville pour l'atelier de Cézanne.\nL'après-midi, profitez d'un long déjeuner à la Place des Cardeurs pendant que la pluie tambourine contre les vitres. Conduire dans les rues mouillées d'Aix est relaxant.\nTerminez votre journée par un court trajet vers un centre commercial en périphérie pour faire des courses à l'abri avant de garer la voiture pour la nuit."
           },
           "stops": [
             {
@@ -1697,7 +1854,8 @@
                 "de": "Nutzen Sie das Parkhaus 'Rotonde' für den direkten, trockenen Zugang.",
                 "hu": "Használja a 'Rotonde' parkolóházat a közvetlen, száraz bejutáshoz.",
                 "ro": "Folosiți parcarea 'Rotonde' pentru acces direct și uscat.",
-                "en": "Use the 'Rotonde' parking garage for direct, dry access."
+                "en": "Use the 'Rotonde' parking garage for direct, dry access.",
+                "fr": "Utilisez le parking 'Rotonde' pour un accès direct et au sec."
               }
             },
             {
@@ -1706,7 +1864,8 @@
                 "de": "Achten Sie auf Aquaplaning auf den tiefer liegenden Landstraßen.",
                 "hu": "Vigyázzon a vízenfutásra (aquaplaning) az alacsonyabban fekvő utakon.",
                 "ro": "Atenție la acvaplanare pe drumurile județene mai joase.",
-                "en": "Watch out for aquaplaning on lower-lying rural roads."
+                "en": "Watch out for aquaplaning on lower-lying rural roads.",
+                "fr": "Faites attention à l'aquaplanage sur les routes rurales en contrebas."
               }
             },
             {
@@ -1715,7 +1874,8 @@
                 "de": "Parkplätze sind hier begrenzt; nutzen Sie das Parkhaus 'Pasteur'.",
                 "hu": "A parkolóhelyek itt korlátozottak; használja a 'Pasteur' parkolóházat.",
                 "ro": "Locurile de parcare sunt limitate; folosiți parcarea 'Pasteur'.",
-                "en": "Parking is limited here; use the 'Pasteur' parking garage."
+                "en": "Parking is limited here; use the 'Pasteur' parking garage.",
+                "fr": "Le stationnement est limité ici ; utilisez le parking 'Pasteur'."
               }
             },
             {
@@ -1724,7 +1884,8 @@
                 "de": "Das Parkhaus 'Cardeurs' befindet sich direkt unter dem Platz.",
                 "hu": "A 'Cardeurs' parkolóház közvetlenül a tér alatt található.",
                 "ro": "Parcarea 'Cardeurs' se află chiar sub piață.",
-                "en": "The 'Cardeurs' parking garage is located directly beneath the square."
+                "en": "The 'Cardeurs' parking garage is located directly beneath the square.",
+                "fr": "Le parking 'Cardeurs' se situe directement sous la place."
               }
             }
           ],
@@ -1756,6 +1917,13 @@
               "Use underground garages in the center to enter the city dry-shod.",
               "Check your windshield wipers before driving to the countryside.",
               "Allow extra time for parking, as more people use cars when it rains."
+            ],
+            "fr": [
+              "Allumez vos feux même en journée pour augmenter la visibilité sous la pluie.",
+              "Évitez les routes proches de petits cours d'eau lors de fortes pluies en raison des risques de crues éclair.",
+              "Utilisez les parkings souterrains du centre pour entrer en ville sans se mouiller les chaussures.",
+              "Vérifiez vos essuie-glaces avant de prendre la route pour la campagne.",
+              "Prévoyez du temps supplémentaire pour le stationnement, car plus de gens utilisent la voiture quand il pleut."
             ]
           }
         },
@@ -1764,7 +1932,8 @@
             "de": "Beginnen Sie den Wintertag an der Fontaine de la Rotonde. Die klare Luft sorgt für eine weite Sicht schon beim Aussteigen aus dem Wagen.\nDie Fahrt zum Sainte-Victoire ist im Winter spektakulär. Die schroffen Felsen treten im harten Licht besonders deutlich hervor. Mittags bietet Cézannes Atelier eine warme, inspirierende Pause.\nAm Nachmittag genießen Sie die herzliche Atmosphäre an der Place des Cardeurs. Die Stadt ist im Winter ruhiger, was die Parkplatzsuche etwas erleichtert.\nBeenden Sie den Tag mit einer Fahrt entlang des festlich beleuchteten Cours Mirabeau, bevor Sie den Wagen für den Abend parken.",
             "hu": "Kezdje a téli napot a Fontaine de la Rotonde-nál. A tiszta levegő messzi kilátást biztosít már az autóból kiszállva is.\nA Sainte-Victoire felé tartó autózás télen látványos. A zord sziklák az éles fényben különösen kirajzolódnak. Délben Cézanne műterme meleg, inspiráló pihenőt kínál.\nDélután élvezze a Place des Cardeurs barátságos hangulatát. A város télen csendesebb, ami megkönnyíti a parkolóhely-keresést.\nZárja a napot egy autózással az ünnepi díszben úszó Cours Mirabeau mentén, mielőtt leparkolna estére.",
             "ro": "Începeți ziua de iarnă la Fontaine de la Rotonde. Aerul clar oferă o vizibilitate mare încă de la coborârea din mașină.\nDrumul spre Sainte-Victoire este spectaculos iarna. Stâncile abrupte ies în evidență în lumina puternică. La prânz, Atelierul lui Cézanne oferă o pauză caldă.\nDupă-amiaza, bucurați-vă de atmosfera caldă de pe Place des Cardeurs. Orașul este mai liniștit iarna, ceea ce ușurează găsirea unui loc de parcare.\nÎncheiați ziua cu o plimbare cu mașina pe lângă Cours Mirabeau iluminat festiv, înainte de a parca pentru seară.",
-            "en": "Start your winter day at Fontaine de la Rotonde. The clear air ensures wide views as soon as you step out of the car.\nThe drive to Sainte-Victoire is spectacular in winter. The rugged cliffs stand out sharply in the harsh light. At noon, Cézanne's Studio offers a warm, inspiring break.\nIn the afternoon, enjoy the welcoming atmosphere at Place des Cardeurs. The city is quieter in winter, making parking slightly easier.\nEnd your day with a drive along the festively lit Cours Mirabeau before parking the car for the evening."
+            "en": "Start your winter day at Fontaine de la Rotonde. The clear air ensures wide views as soon as you step out of the car.\nThe drive to Sainte-Victoire is spectacular in winter. The rugged cliffs stand out sharply in the harsh light. At noon, Cézanne's Studio offers a warm, inspiring break.\nIn the afternoon, enjoy the welcoming atmosphere at Place des Cardeurs. The city is quieter in winter, making parking slightly easier.\nEnd your day with a drive along the festively lit Cours Mirabeau before parking the car for the evening.",
+            "fr": "Commencez votre journée d'hiver à la Fontaine de la Rotonde. L'air clair offre de larges panoramas dès que vous sortez de la voiture.\nLa route vers la Sainte-Victoire est spectaculaire en hiver. Les falaises escarpées se détachent nettement sous la lumière vive. À midi, l'atelier de Cézanne offre une pause chaleureuse et inspirante.\nL'après-midi, profitez de l'ambiance accueillante de la Place des Cardeurs. La ville est plus calme en hiver, rendant le stationnement un peu plus facile.\nTerminez la journée par une balade en voiture le long du Cours Mirabeau illuminé avant de garer la voiture pour la soirée."
           },
           "stops": [
             {
@@ -1773,7 +1942,8 @@
                 "de": "Das Auto heizt sich in der Sonne schnell auf, nutzen Sie das aus.",
                 "hu": "Az autó a napon hamar felmelegszik, használja ki ezt.",
                 "ro": "Mașina se încălzește repede la soare, profitați de acest lucru.",
-                "en": "The car warms up quickly in the sun; take advantage of it."
+                "en": "The car warms up quickly in the sun; take advantage of it.",
+                "fr": "La voiture se réchauffe rapidement au soleil ; profitez-en."
               }
             },
             {
@@ -1782,7 +1952,8 @@
                 "de": "Vorsicht vor Straßenglätte in schattigen Waldabschnitten.",
                 "hu": "Vigyázzon az út csúszósságára az árnyékos erdei szakaszokon.",
                 "ro": "Atenție la polei pe porțiunile de drum umbrite din pădure.",
-                "en": "Watch out for icy road conditions in shaded forest sections."
+                "en": "Watch out for icy road conditions in shaded forest sections.",
+                "fr": "Soyez vigilant aux conditions de routes verglacées dans les sections forestières ombragées."
               }
             },
             {
@@ -1791,7 +1962,8 @@
                 "de": "Nutzen Sie die Sitzheizung nach dem Besuch des kühlen Gartens.",
                 "hu": "Használja az ülésfűtést a hűvös kert meglátogatása után.",
                 "ro": "Folosiți încălzirea în scaune după vizitarea grădinii răcoroase.",
-                "en": "Turn on your seat heaters after visiting the chilly garden."
+                "en": "Turn on your seat heaters after visiting the chilly garden.",
+                "fr": "Allumez les sièges chauffants après la visite du jardin froid."
               }
             },
             {
@@ -1800,7 +1972,8 @@
                 "de": "Die Tiefgarage hält den Wagen frostfrei, während Sie essen.",
                 "hu": "A mélygarázs fagymentesen tartja az autót, amíg Ön eszik.",
                 "ro": "Parcarea subterană menține mașina fără îngheț în timp ce mâncați.",
-                "en": "Underground parking keeps the car frost-free while you eat."
+                "en": "Underground parking keeps the car frost-free while you eat.",
+                "fr": "Un parking souterrain garde la voiture sans gelée pendant que vous mangez."
               }
             }
           ],
@@ -1832,6 +2005,13 @@
               "Winter tires are advisable in the hills around Aix if frost is expected.",
               "Battery performance drops in the cold; ideally, park in garages.",
               "Enjoy your drive at sunset for the best colors on the rock faces."
+            ],
+            "fr": [
+              "Vérifiez le niveau d'antigel du liquide lave-glace avant de prendre la route.",
+              "Le Mistral peut surprendre en ouvrant les portes ; tenez-les fermement.",
+              "Les pneus hiver sont recommandés dans les collines autour d'Aix si du gel est prévu.",
+              "Les performances de la batterie diminuent par temps froid ; idéalement, garez en garage.",
+              "Profitez de votre trajet au coucher du soleil pour les meilleures couleurs sur les faces rocheuses."
             ]
           }
         }
@@ -1850,7 +2030,8 @@
             "de": "Fontaine de la Rotonde",
             "hu": "Rotonde kút",
             "ro": "Fântâna Rotonde",
-            "en": "Fontaine de la Rotonde"
+            "en": "Fontaine de la Rotonde",
+            "fr": "Fontaine de la Rotonde"
           },
           "coords": [
             5.4452,
@@ -1865,7 +2046,8 @@
             "de": "Zentraler Busknotenpunkt.",
             "hu": "Központi buszcsomópont.",
             "ro": "Nod central de autobuze.",
-            "en": "Central bus hub."
+            "en": "Central bus hub.",
+            "fr": "Nœud central des bus."
           }
         },
         {
@@ -1873,7 +2055,8 @@
             "de": "Musée Granet",
             "hu": "Granet Múzeum",
             "ro": "Muzeul Granet",
-            "en": "Musée Granet"
+            "en": "Musée Granet",
+            "fr": "Musée Granet"
           },
           "coords": [
             5.452,
@@ -1888,7 +2071,8 @@
             "de": "Erreichbar mit der Linie M3.",
             "hu": "Az M3-as vonallal elérhető.",
             "ro": "Accesibil cu linia M3.",
-            "en": "Accessible via line M3."
+            "en": "Accessible via line M3.",
+            "fr": "Accessible via la ligne M3."
           }
         },
         {
@@ -1896,7 +2080,8 @@
             "de": "Pavillon Vendôme",
             "hu": "Vendôme-pavilon",
             "ro": "Pavilionul Vendôme",
-            "en": "Pavillon Vendôme"
+            "en": "Pavillon Vendôme",
+            "fr": "Pavillon Vendôme"
           },
           "coords": [
             5.4428,
@@ -1911,7 +2096,8 @@
             "de": "Nutzen Sie den City-Shuttle 'Diabline'.",
             "hu": "Használja a 'Diabline' belvárosi járatot.",
             "ro": "Folosiți microbuzul 'Diabline'.",
-            "en": "Use the 'Diabline' city shuttle."
+            "en": "Use the 'Diabline' city shuttle.",
+            "fr": "Prenez la navette municipale 'Diabline'."
           }
         },
         {
@@ -1919,7 +2105,8 @@
             "de": "Les Allées Provençales",
             "hu": "Les Allées Provençales",
             "ro": "Les Allées Provençales",
-            "en": "Les Allées Provençales"
+            "en": "Les Allées Provençales",
+            "fr": "Les Allées Provençales"
           },
           "coords": [
             5.4435,
@@ -1934,7 +2121,8 @@
             "de": "Modernes Einkaufszentrum.",
             "hu": "Modern bevásárlóközpont.",
             "ro": "Centru comercial modern.",
-            "en": "Modern shopping center."
+            "en": "Modern shopping center.",
+            "fr": "Centre commercial moderne."
           }
         }
       ],
@@ -1942,7 +2130,8 @@
         "de": "Mit den effizienten Stadtbussen von Aix erkunden wir die Highlights. Wir starten an der Rotonde, dem Herzstück des Nahverkehrs.\n\nMittags bringt uns der Bus zum Musée Granet, wo wir Kunst von Weltruf entdecken.\n\nAm Nachmittag fahren wir mit der 'Diabline' zum ruhigen Pavillon Vendôme, einer Oase im Stadtzentrum.\n\nDer Tag endet in den modernen Allées Provençales, wo Shopping und Cafés zum Verweilen einladen.",
         "hu": "Aix hatékony buszhálózatával fedezzük fel a város nevezetességeit. A Rotonde-tól indulunk, amely a közlekedés szíve.\n\nDélben a busz elvisz minket a Musée Granet-be, ahol világhírű műalkotásokat láthatunk.\n\nDélután a 'Diabline' nevű kisbuszt használjuk, hogy eljussunk a csendes Pavillon Vendôme-hoz, a városi oázishoz.\n\nA nap a modern Allées Provençales negyedben zárul, ahol vásárlási lehetőségek és kávézók várnak ránk.",
         "ro": "Explorăm punctele culminante folosind rețeaua eficientă de autobuze din Aix. Începem la Rotonde, inima transportului local.\n\nLa prânz, autobuzul ne duce la Musée Granet, unde descoperim opere de artă de renume mondial.\n\nDupă-amiaza folosim microbuzul 'Diabline' pentru a ajunge la liniștitul Pavilion Vendôme, o oază în centrul orașului.\n\nZiua se încheie în cartierul modern Allées Provençales, unde cumpărăturile și cafenelele vă invită la relaxare.",
-        "en": "We explore the highlights using the efficient bus network of Aix. We start at the Rotonde, the hub of local transport.\n\nAt midday, the bus takes us to the Musée Granet, where we discover world-class art.\n\nIn the afternoon, we ride the 'Diabline' shuttle to the quiet Pavillon Vendôme, an oasis in the city center.\n\nThe day ends in the modern Allées Provençales, where shopping and cafés invite you to linger."
+        "en": "We explore the highlights using the efficient bus network of Aix. We start at the Rotonde, the hub of local transport.\n\nAt midday, the bus takes us to the Musée Granet, where we discover world-class art.\n\nIn the afternoon, we ride the 'Diabline' shuttle to the quiet Pavillon Vendôme, an oasis in the city center.\n\nThe day ends in the modern Allées Provençales, where shopping and cafés invite you to linger.",
+        "fr": "Nous explorons les incontournables en utilisant le réseau de bus efficace d'Aix. Nous commençons à la Rotonde, le point névralgique des transports locaux.\n\nÀ midi, le bus nous emmène au Musée Granet, où nous découvrons des œuvres de classe mondiale.\n\nL'après-midi, nous prenons la navette 'Diabline' jusqu'au paisible Pavillon Vendôme, une oasis au cœur de la ville.\n\nLa journée se termine aux modernes Allées Provençales, où magasins et cafés invitent à la flânerie."
       },
       "gastro_picks": {
         "de": [
@@ -2050,6 +2239,12 @@
           "The small 'Diabline' shuttles run through pedestrian zones.",
           "Buses are less frequent on weekends.",
           "Watch the digital displays at the bus stops."
+        ],
+        "fr": [
+          "Achetez un ticket journée dans l'application 'Aix en Bus'.",
+          "Les petites navettes 'Diabline' circulent dans les zones piétonnes.",
+          "Les bus sont moins fréquents le week-end.",
+          "Regardez les affichages numériques aux arrêts de bus."
         ]
       },
       "variants": {
@@ -2058,7 +2253,8 @@
             "de": "Mit den effizienten Stadtbussen von Aix erkunden wir die Highlights. Wir starten an der Rotonde, dem Herzstück des Nahverkehrs.\n\nMittags bringt uns der Bus zum Musée Granet, wo wir Kunst von Weltruf entdecken.\n\nAm Nachmittag fahren wir mit der 'Diabline' zum ruhigen Pavillon Vendôme, einer Oase im Stadtzentrum.\n\nDer Tag endet in den modernen Allées Provençales, wo Shopping und Cafés zum Verweilen einladen.",
             "hu": "Aix hatékony buszhálózatával fedezzük fel a város nevezetességeit. A Rotonde-tól indulunk, amely a közlekedés szíve.\n\nDélben a busz elvisz minket a Musée Granet-be, ahol világhírű műalkotásokat láthatunk.\n\nDélután a 'Diabline' nevű kisbuszt használjuk, hogy eljussunk a csendes Pavillon Vendôme-hoz, a városi oázishoz.\n\nA nap a modern Allées Provençales negyedben zárul, ahol vásárlási lehetőségek és kávézók várnak ránk.",
             "ro": "Explorăm punctele culminante folosind rețeaua eficientă de autobuze din Aix. Începem la Rotonde, inima transportului local.\n\nLa prânz, autobuzul ne duce la Musée Granet, unde descoperim opere de artă de renume mondial.\n\nDupă-amiaza folosim microbuzul 'Diabline' pentru a ajunge la liniștitul Pavilion Vendôme, o oază în centrul orașului.\n\nZiua se încheie în cartierul modern Allées Provençales, unde cumpărăturile și cafenelele vă invită la relaxare.",
-            "en": "We explore the highlights using the efficient bus network of Aix. We start at the Rotonde, the hub of local transport.\n\nAt midday, the bus takes us to the Musée Granet, where we discover world-class art.\n\nIn the afternoon, we ride the 'Diabline' shuttle to the quiet Pavillon Vendôme, an oasis in the city center.\n\nThe day ends in the modern Allées Provençales, where shopping and cafés invite you to linger."
+            "en": "We explore the highlights using the efficient bus network of Aix. We start at the Rotonde, the hub of local transport.\n\nAt midday, the bus takes us to the Musée Granet, where we discover world-class art.\n\nIn the afternoon, we ride the 'Diabline' shuttle to the quiet Pavillon Vendôme, an oasis in the city center.\n\nThe day ends in the modern Allées Provençales, where shopping and cafés invite you to linger.",
+            "fr": "Nous explorons les incontournables en utilisant le réseau de bus efficace d'Aix. Nous commençons à la Rotonde, le point névralgique des transports locaux.\n\nÀ midi, le bus nous emmène au Musée Granet, où nous découvrons des œuvres de classe mondiale.\n\nL'après-midi, nous prenons la navette 'Diabline' jusqu'au paisible Pavillon Vendôme, une oasis au cœur de la ville.\n\nLa journée se termine aux modernes Allées Provençales, où magasins et cafés invitent à la flânerie."
           },
           "stops": [
             {
@@ -2066,13 +2262,15 @@
                 "de": "Fontaine de la Rotonde",
                 "hu": "Rotonde kút",
                 "ro": "Fântâna Rotonde",
-                "en": "Fontaine de la Rotonde"
+                "en": "Fontaine de la Rotonde",
+                "fr": "Fontaine de la Rotonde"
               },
               "tip_5lang": {
                 "de": "Zentraler Busknotenpunkt.",
                 "hu": "Központi buszcsomópont.",
                 "ro": "Nod central de autobuze.",
-                "en": "Central bus hub."
+                "en": "Central bus hub.",
+                "fr": "Nœud central des bus."
               }
             },
             {
@@ -2080,13 +2278,15 @@
                 "de": "Musée Granet",
                 "hu": "Granet Múzeum",
                 "ro": "Muzeul Granet",
-                "en": "Musée Granet"
+                "en": "Musée Granet",
+                "fr": "Musée Granet"
               },
               "tip_5lang": {
                 "de": "Erreichbar mit der Linie M3.",
                 "hu": "Az M3-as vonallal elérhető.",
                 "ro": "Accesibil cu linia M3.",
-                "en": "Accessible via line M3."
+                "en": "Accessible via line M3.",
+                "fr": "Accessible via la ligne M3."
               }
             },
             {
@@ -2094,13 +2294,15 @@
                 "de": "Pavillon Vendôme",
                 "hu": "Vendôme-pavilon",
                 "ro": "Pavilionul Vendôme",
-                "en": "Pavillon Vendôme"
+                "en": "Pavillon Vendôme",
+                "fr": "Pavillon Vendôme"
               },
               "tip_5lang": {
                 "de": "Nutzen Sie den City-Shuttle 'Diabline'.",
                 "hu": "Használja a 'Diabline' belvárosi járatot.",
                 "ro": "Folosiți microbuzul 'Diabline'.",
-                "en": "Use the 'Diabline' city shuttle."
+                "en": "Use the 'Diabline' city shuttle.",
+                "fr": "Prenez la navette municipale 'Diabline'."
               }
             },
             {
@@ -2108,13 +2310,15 @@
                 "de": "Les Allées Provençales",
                 "hu": "Les Allées Provençales",
                 "ro": "Les Allées Provençales",
-                "en": "Les Allées Provençales"
+                "en": "Les Allées Provençales",
+                "fr": "Les Allées Provençales"
               },
               "tip_5lang": {
                 "de": "Modernes Einkaufszentrum.",
                 "hu": "Modern bevásárlóközpont.",
                 "ro": "Centru comercial modern.",
-                "en": "Modern shopping center."
+                "en": "Modern shopping center.",
+                "fr": "Centre commercial moderne."
               }
             }
           ],
@@ -2224,6 +2428,12 @@
               "The small 'Diabline' shuttles run through pedestrian zones.",
               "Buses are less frequent on weekends.",
               "Watch the digital displays at the bus stops."
+            ],
+            "fr": [
+              "Achetez un ticket journée dans l'application 'Aix en Bus'.",
+              "Les petites navettes 'Diabline' circulent dans les zones piétonnes.",
+              "Les bus sont moins fréquents le week-end.",
+              "Regardez les affichages numériques aux arrêts de bus."
             ]
           }
         },
@@ -2232,7 +2442,8 @@
             "de": "Starten Sie Ihre Tour mit dem Bus zur Fontaine de la Rotonde. Die Haltestellen bieten oft Schutz vor den ersten Tropfen.\nMittags bringt Sie der Bus schnell zum Musée Granet. Das Museum ist der ideale Ort, um dem Regen für Stunden zu entkommen. Danach geht es mit der Linie weiter Richtung Pavillon Vendôme.\nAm Nachmittag bietet der Pavillon Vendôme eine kurze, nasse Gartenrunde, bevor Sie sich wieder in den Bus setzen. Die Fahrt durch die Stadt bietet einen bequemen Blick auf die Architektur.\nBeenden Sie den Tag bei Les Allées Provençales. Die modernen Passagen sind teilweise überdacht und bieten ideale Bedingungen für trockene Einkäufe vor der Heimfahrt.",
             "hu": "Kezdje a túrát busszal a Fontaine de la Rotonde-hoz. A megállók gyakran védelmet nyújtanak az első esőcseppek ellen.\nDélben a busz gyorsan elviszi a Musée Granet-hez. A múzeum ideális hely, hogy órákra elmeneküljön az eső elől. Utána folytassa útját a Pavillon Vendôme felé.\nDélután a Pavillon Vendôme kertjében tehet egy rövid, vizes kört, mielőtt újra buszra szállna. A buszozás kényelmes rálátást biztosít a város építészetére.\nZárja a napot a Les Allées Provençales-nél. A modern passzázsok részben fedettek, így ideálisak a száraz vásárláshoz a hazaút előtt.",
             "ro": "Începeți turul cu autobuzul spre Fontaine de la Rotonde. Stațiile oferă adesea protecție împotriva primilor stropi.\nLa prânz, autobuzul vă duce rapid la Musée Granet. Muzeul este locul ideal pentru a scăpa de ploaie timp de câteva ore. Apoi continuați spre Pavillon Vendôme.\nDupă-amiaza, Pavillon Vendôme oferă o scurtă plimbare umedă în grădină, înainte de a urca din nou în autobuz. Călătoria oferă o vedere confortabilă asupra orașului.\nÎncheiați ziua la Les Allées Provençales. Pasajele moderne sunt parțial acoperite, oferind condiții ideale pentru cumpărături la uscat.",
-            "en": "Start your tour by taking the bus to Fontaine de la Rotonde. The bus stops often provide shelter from the first drops of rain.\nAt noon, the bus takes you quickly to Musée Granet. The museum is the ideal place to escape the rain for hours. Then continue by bus towards Pavillon Vendôme.\nIn the afternoon, Pavillon Vendôme offers a brief, wet garden stroll before you head back to the bus stop. The bus ride provides a comfortable view of the city architecture.\nEnd your day at Les Allées Provençales. The modern passages are partially covered, providing ideal conditions for dry shopping before heading home."
+            "en": "Start your tour by taking the bus to Fontaine de la Rotonde. The bus stops often provide shelter from the first drops of rain.\nAt noon, the bus takes you quickly to Musée Granet. The museum is the ideal place to escape the rain for hours. Then continue by bus towards Pavillon Vendôme.\nIn the afternoon, Pavillon Vendôme offers a brief, wet garden stroll before you head back to the bus stop. The bus ride provides a comfortable view of the city architecture.\nEnd your day at Les Allées Provençales. The modern passages are partially covered, providing ideal conditions for dry shopping before heading home.",
+            "fr": "Commencez votre visite en prenant le bus jusqu'à la Fontaine de la Rotonde. Les abribus offrent souvent un abri contre les premières gouttes.\nÀ midi, le bus vous conduit rapidement au Musée Granet. Le musée est l'endroit idéal pour échapper à la pluie pendant plusieurs heures. Puis continuez en bus vers le Pavillon Vendôme.\nL'après-midi, le Pavillon Vendôme offre une brève promenade humide dans le jardin avant de retourner à l'arrêt de bus. Le trajet en bus procure une vue confortable de l'architecture de la ville.\nTerminez votre journée aux Allées Provençales. Les passages modernes sont partiellement couverts, offrant des conditions idéales pour du shopping au sec avant de rentrer."
           },
           "stops": [
             {
@@ -2241,7 +2452,8 @@
                 "de": "Zahlreiche Buslinien kreuzen hier, nutzen Sie die Wartehäuschen.",
                 "hu": "Számos buszjárat találkozik itt, használja a várókat.",
                 "ro": "Numeroase linii de autobuz se intersectează aici, folosiți adăposturile.",
-                "en": "Numerous bus lines intersect here; use the shelters."
+                "en": "Numerous bus lines intersect here; use the shelters.",
+                "fr": "De nombreuses lignes de bus se croisent ici ; utilisez les abris."
               }
             },
             {
@@ -2250,7 +2462,8 @@
                 "de": "Die Bushaltestelle 'Saint-Jean' ist nur wenige Schritte vom Eingang entfernt.",
                 "hu": "A 'Saint-Jean' buszmegálló csak pár lépésre van a bejárattól.",
                 "ro": "Stația de autobuz 'Saint-Jean' este la doar câțiva pași de intrare.",
-                "en": "The 'Saint-Jean' bus stop is just a few steps from the entrance."
+                "en": "The 'Saint-Jean' bus stop is just a few steps from the entrance.",
+                "fr": "L'arrêt 'Saint-Jean' se situe à quelques pas de l'entrée."
               }
             },
             {
@@ -2259,7 +2472,8 @@
                 "de": "Achten Sie auf den Busfahrplan, da die Frequenz bei Regen variieren kann.",
                 "hu": "Figyelje a menetrendet, mert esőben változhat a buszok gyakorisága.",
                 "ro": "Verificați programul, deoarece frecvența poate varia pe ploaie.",
-                "en": "Check the bus schedule as frequency can vary during rain."
+                "en": "Check the bus schedule as frequency can vary during rain.",
+                "fr": "Vérifiez les horaires car la fréquence peut varier en cas de pluie."
               }
             },
             {
@@ -2268,7 +2482,8 @@
                 "de": "Der Busbahnhof liegt direkt nebenan, ideal für die Rückfahrt.",
                 "hu": "A buszpályaudvar közvetlenül mellette van, ideális a hazautazáshoz.",
                 "ro": "Autogara este chiar alături, ideal pentru călătoria de întoarcere.",
-                "en": "The bus station is right next door, ideal for the journey back."
+                "en": "The bus station is right next door, ideal for the journey back.",
+                "fr": "La gare routière est juste à côté, idéale pour le retour."
               }
             }
           ],
@@ -2300,6 +2515,13 @@
               "Avoid rush hours as buses often get very crowded when it rains.",
               "A small, sturdy umbrella is essential for the walk to the bus stop.",
               "Buses are well-heated, ideal for drying off during the journey."
+            ],
+            "fr": [
+              "Utilisez l'application 'Aix en Bus' pour les infos en temps réel et l'achat de billets.",
+              "Ayez votre ticket prêt pour accélérer la montée dans le bus sous la pluie.",
+              "Évitez les heures de pointe car les bus sont souvent très fréquentés lorsqu'il pleut.",
+              "Un petit parapluie solide est essentiel pour la marche jusqu'à l'arrêt de bus.",
+              "Les bus sont bien chauffés, idéaux pour se sécher pendant le trajet."
             ]
           }
         },
@@ -2308,7 +2530,8 @@
             "de": "Starten Sie Ihren Wintertag mit dem Bus zur Fontaine de la Rotonde. Die warmen Busse bieten einen angenehmen Kontrast zur kalten Morgenluft.\nMittags erreichen Sie bequem das Musée Granet. Die kurzen Wege zwischen Haltestelle und Museum minimieren die Zeit in der Kälte. Später geht es weiter zum Pavillon Vendôme.\nAm Nachmittag genießen Sie die winterliche Stille am Pavillon Vendôme. Da es früh dunkel wird, sind die beleuchteten Busse eine gemütliche Art, die Stadt zu durchqueren.\nBeenden Sie den Tag bei Les Allées Provençales. Die winterlichen Schaufenster und die warme Beleuchtung sorgen für eine angenehme Atmosphäre beim Shoppen vor dem Abendessen.",
             "hu": "Kezdje a téli napot busszal a Fontaine de la Rotonde-hoz. A meleg buszok kellemes kontrasztot nyújtanak a hideg reggeli levegővel.\nDélben kényelmesen eljuthat a Musée Granet-hez. A megálló és a múzeum közötti rövid táv minimalizálja a hidegben töltött időt. Később irány a Pavillon Vendôme.\nDélután élvezze a téli csendet a Pavillon Vendôme-nál. Mivel korán sötétedik, a kivilágított buszokkal való utazás hangulatos módja a városnézésnek.\nZárja a napot a Les Allées Provençales-nél. A téli kirakatok és a meleg fények kellemes hangulatot árasztanak a vacsora előtti vásárláshoz.",
             "ro": "Începeți ziua de iarnă cu autobuzul spre Fontaine de la Rotonde. Autobuzele calde oferă un contrast plăcut cu aerul rece de dimineață.\nLa prânz ajungeți confortabil la Musée Granet. Distanțele scurte între stație și muzeu reduc timpul petrecut în frig. Mai târziu continuați spre Pavillon Vendôme.\nDupă-amiaza, bucurați-vă de liniștea iernii la Pavillon Vendôme. Deoarece se întunecă devreme, autobuzele luminate sunt o modalitate plăcută de a traversa orașul.\nÎncheiați ziua la Les Allées Provençales. Vitrinele de iarnă și iluminatul cald creează o atmosferă plăcută pentru cumpărături înainte de cină.",
-            "en": "Start your winter day by taking the bus to Fontaine de la Rotonde. The warm buses provide a pleasant contrast to the cold morning air.\nAt noon, reach Musée Granet conveniently. The short distance between the stop and the museum minimizes time spent in the cold. Later, head to Pavillon Vendôme.\nIn the afternoon, enjoy the winter stillness at Pavillon Vendôme. As it gets dark early, the brightly lit buses are a cozy way to travel across the city.\nEnd your day at Les Allées Provençales. The winter window displays and warm lighting create a pleasant atmosphere for shopping before dinner."
+            "en": "Start your winter day by taking the bus to Fontaine de la Rotonde. The warm buses provide a pleasant contrast to the cold morning air.\nAt noon, reach Musée Granet conveniently. The short distance between the stop and the museum minimizes time spent in the cold. Later, head to Pavillon Vendôme.\nIn the afternoon, enjoy the winter stillness at Pavillon Vendôme. As it gets dark early, the brightly lit buses are a cozy way to travel across the city.\nEnd your day at Les Allées Provençales. The winter window displays and warm lighting create a pleasant atmosphere for shopping before dinner.",
+            "fr": "Commencez votre journée d'hiver en prenant le bus jusqu'à la Fontaine de la Rotonde. Les bus chauffés offrent un contraste agréable avec l'air froid du matin.\nÀ midi, rejoignez le Musée Granet facilement. La courte distance entre l'arrêt et le musée réduit le temps passé dans le froid. Ensuite, dirigez-vous vers le Pavillon Vendôme.\nL'après-midi, profitez du calme hivernal au Pavillon Vendôme. Comme il fait nuit tôt, les bus bien éclairés sont un moyen chaleureux de traverser la ville.\nTerminez la journée aux Allées Provençales. Les vitrines hivernales et l'éclairage chaleureux créent une atmosphère agréable pour faire du shopping avant le dîner."
           },
           "stops": [
             {
@@ -2317,7 +2540,8 @@
                 "de": "Die Wartehäuschen schützen vor dem kalten Mistral-Wind.",
                 "hu": "A buszvárók védenek a hideg Mistral szél ellen.",
                 "ro": "Adăposturile de autobuz protejează împotriva vântului rece Mistral.",
-                "en": "The bus shelters provide protection against the cold Mistral wind."
+                "en": "The bus shelters provide protection against the cold Mistral wind.",
+                "fr": "Les abribus protègent contre le froid du Mistral."
               }
             },
             {
@@ -2326,7 +2550,8 @@
                 "de": "Ideal, um die klammen Finger in den beheizten Ausstellungsräumen aufzuwärmen.",
                 "hu": "Ideális hely az elgémberedett ujjak felmelegítésére a fűtött termekben.",
                 "ro": "Ideal pentru a vă încălzi degetele amorțite în sălile încălzite.",
-                "en": "Ideal for warming up stiff fingers in the heated exhibition rooms."
+                "en": "Ideal for warming up stiff fingers in the heated exhibition rooms.",
+                "fr": "Idéal pour réchauffer des doigts raides dans les salles d'exposition chauffées."
               }
             },
             {
@@ -2335,7 +2560,8 @@
                 "de": "Nutzen Sie den Bus, um die Anreise durch den zugigen Park zu verkürzen.",
                 "hu": "Használja a buszt, hogy lerövidítse a szeles parkon átvezető utat.",
                 "ro": "Folosiți autobuzul pentru a scurta drumul prin parcul vântos.",
-                "en": "Use the bus to shorten the commute through the drafty park."
+                "en": "Use the bus to shorten the commute through the drafty park.",
+                "fr": "Utilisez le bus pour raccourcir le trajet à travers le parc courant d'air."
               }
             },
             {
@@ -2344,7 +2570,8 @@
                 "de": "Die Haltestellen sind abends gut beleuchtet und sicher.",
                 "hu": "A buszmegállók este jól kivilágítottak és biztonságosak.",
                 "ro": "Stațiile de autobuz sunt bine iluminate și sigure seara.",
-                "en": "The bus stops are well-lit and safe in the evenings."
+                "en": "The bus stops are well-lit and safe in the evenings.",
+                "fr": "Les arrêts de bus sont bien éclairés et sûrs le soir."
               }
             }
           ],
@@ -2376,6 +2603,13 @@
               "Buses are often the warmest places in the city; use them for short breaks.",
               "Wear touchscreen-compatible gloves to use the ticketing app.",
               "Watch out for slippery conditions at bus platforms during frost."
+            ],
+            "fr": [
+              "Les tickets de bus peuvent être achetés par SMS, très pratique par temps froid.",
+              "Certaines lignes circulent moins fréquemment en hiver ; vérifiez l'horaire hivernal.",
+              "Les bus sont souvent les endroits les plus chauds de la ville ; profitez-en pour faire de courtes pauses.",
+              "Portez des gants compatibles écran tactile pour utiliser l'application de billetterie.",
+              "Attention aux surfaces glissantes sur les quais en cas de gel."
             ]
           }
         }

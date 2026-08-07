@@ -21,7 +21,8 @@
             "de": "Château de Bernicourt",
             "hu": "Château de Bernicourt",
             "ro": "Château de Bernicourt",
-            "en": "Château de Bernicourt"
+            "en": "Château de Bernicourt",
+            "fr": "Château de Bernicourt"
           },
           "coords": [
             3.103573,
@@ -36,7 +37,8 @@
             "de": "Entdecken Sie die eleganten Räume dieses restaurierten Schlosses aus dem 18. Jahrhundert, das die lokale Adelsgeschichte lebendig macht, und besuchen Sie die obere Etage für tolle Ausblicke.",
             "hu": "Fedezze fel e felújított 18. századi kastély elegáns termeit, amely megeleveníti a helyi nemesi történelmet, és menjen fel az emeletre a csodálatos kilátásért.",
             "ro": "Explorați camerele elegante ale acestui castel restaurat din secolul al XVIII-lea, care aduce la viață istoria nobilimii locale, și urcați la etaj pentru o priveliște minunată.",
-            "en": "Explore the elegant rooms of this beautifully restored 18th-century castle that brings local noble history to life, and head to the upper floor for wonderful scenic views."
+            "en": "Explore the elegant rooms of this beautifully restored 18th-century castle that brings local noble history to life, and head to the upper floor for wonderful scenic views.",
+            "fr": "Explorez les pièces élégantes de ce château du XVIIIe siècle magnifiquement restauré qui fait revivre l'histoire locale de la noblesse, et montez à l'étage supérieur pour de superbes points de vue."
           }
         },
         {
@@ -44,7 +46,8 @@
             "de": "Saint-Martin Church",
             "hu": "Saint-Martin templom",
             "ro": "Biserica Saint-Martin",
-            "en": "Saint-Martin Church"
+            "en": "Saint-Martin Church",
+            "fr": "Saint-Martin Church"
           },
           "coords": [
             3.103562,
@@ -59,7 +62,8 @@
             "de": "Bewundern Sie die schlichte, aber beeindruckende Architektur dieser charmanten Gemeindekirche, die das historische Herz der Stadt bildet, und achten Sie auf die schönen Buntglasfenster.",
             "hu": "Csodálja meg e bájos plébániatemplom egyszerű, de lenyűgöző építészetét, amely a város történelmi szívét alkotja, és figyeljen a gyönyörű ólomüveg ablakokra.",
             "ro": "Admirați arhitectura simplă, dar impresionantă a acestei biserici parohiale fermecătoare, care formează inima istorică a orașului, și observați vitraliile frumoase.",
-            "en": "Admire the simple yet impressive architecture of this charming parish church that forms the historical heart of the town, and pay attention to the beautiful stained glass windows."
+            "en": "Admire the simple yet impressive architecture of this charming parish church that forms the historical heart of the town, and pay attention to the beautiful stained glass windows.",
+            "fr": "Admirez l'architecture simple mais impressionnante de cette charmante église paroissiale qui constitue le cœur historique de la ville, et prêtez attention aux beaux vitraux."
           }
         },
         {
@@ -67,7 +71,8 @@
             "de": "Réserve naturelle des Annelles, Lains et Pont Pinnet",
             "hu": "Réserve naturelle des Annelles",
             "ro": "Réserve naturelle des Annelles",
-            "en": "Réserve naturelle des Annelles"
+            "en": "Réserve naturelle des Annelles",
+            "fr": "Réserve naturelle des Annelles"
           },
           "coords": [
             3.094536,
@@ -82,7 +87,8 @@
             "de": "Genießen Sie die ruhige Atmosphäre dieses vielfältigen Naturschutzgebietes, das zahlreichen seltenen Vogelarten eine Heimat bietet, und bringen Sie unbedingt ein gutes Fernglas mit.",
             "hu": "Élvezze e változatos természetvédelmi terület nyugodt légkörét, amely számos ritka madárfajnak ad otthont, és feltétlenül hozzon magával egy jó távcsövet a megfigyeléshez.",
             "ro": "Bucurați-vă de atmosfera liniștită a acestei rezervații naturale diverse, care găzduiește multe specii rare de păsări, și asigurați-vă că aduceți un binoclu bun cu dumneavoastră.",
-            "en": "Enjoy the peaceful atmosphere of this diverse nature reserve that provides a home for many rare bird species, and be sure to bring a good pair of binoculars for birdwatching."
+            "en": "Enjoy the peaceful atmosphere of this diverse nature reserve that provides a home for many rare bird species, and be sure to bring a good pair of binoculars for birdwatching.",
+            "fr": "Profitez de l'atmosphère paisible de cette réserve naturelle diversifiée qui abrite de nombreuses espèces d'oiseaux rares ; n'oubliez pas d'apporter une bonne paire de jumelles pour l'observation."
           }
         },
         {
@@ -90,7 +96,8 @@
             "de": "Chapelle Sainte-Rita",
             "hu": "Sainte-Rita kápolna",
             "ro": "Capela Sainte-Rita",
-            "en": "Chapelle Sainte-Rita"
+            "en": "Chapelle Sainte-Rita",
+            "fr": "Chapelle Sainte-Rita"
           },
           "coords": [
             3.099677,
@@ -105,7 +112,8 @@
             "de": "Besuchen Sie diese beschauliche und spirituell bedeutsame Kapelle, die ein ruhiger Ort der lokalen Andacht ist, und zünden Sie als Zeichen der Besinnung eine traditionelle Kerze an.",
             "hu": "Látogasson el ebbe a békés és spirituálisan jelentős kápolnába, amely a helyi áhítat csendes helyszíne, és gyújtson meg egy hagyományos gyertyát az elmélkedés jeleként.",
             "ro": "Vizitați această capelă pașnică și semnificativă spiritual, care este un loc liniștit de devotament local, și aprindeți o lumânare tradițională ca semn de reflecție.",
-            "en": "Visit this peaceful and spiritually significant chapel, which serves as a quiet place of local devotion, and light a traditional candle as a sign of quiet reflection."
+            "en": "Visit this peaceful and spiritually significant chapel, which serves as a quiet place of local devotion, and light a traditional candle as a sign of quiet reflection.",
+            "fr": "Visitez cette chapelle paisible et spirituellement significative, lieu de dévotion locale, et allumez une bougie traditionnelle en signe de recueillement silencieux."
           }
         },
         {
@@ -113,7 +121,8 @@
             "de": "Arkéos",
             "hu": "Arkéos",
             "ro": "Arkéos",
-            "en": "Arkéos"
+            "en": "Arkéos",
+            "fr": "Arkéos"
           },
           "coords": [
             3.128331,
@@ -128,7 +137,8 @@
             "de": "Tauchen Sie in diesem archäologischen Museum tief in die spannende mittelalterliche Geschichte der Region ein und nehmen Sie an einer der faszinierenden interaktiven Führungen teil.",
             "hu": "Merüljön el a régió izgalmas középkori történelmében ebben a modern régészeti múzeumban, és vegyen részt az egyik lenyűgöző, interaktív és informatív tárlatvezetésen.",
             "ro": "Pătrundeți adânc în istoria medievală fascinantă a regiunii în acest muzeu arheologic modern și asigurați-vă că participați la unul dintre tururile interactive captivante.",
-            "en": "Delve deep into the region's fascinating medieval history at this modern archaeological museum, and make sure to participate in one of the highly engaging interactive guided tours."
+            "en": "Delve deep into the region's fascinating medieval history at this modern archaeological museum, and make sure to participate in one of the highly engaging interactive guided tours.",
+            "fr": "Plongez au cœur de la fascinante histoire médiévale de la région dans ce musée d'archéologie moderne, et veillez à participer à l'une des visites guidées interactives très engageantes."
           }
         }
       ],
@@ -136,7 +146,8 @@
         "de": "Beginnen Sie Ihren Tag am eleganten Château de Bernicourt, um in die edle Vergangenheit der Region einzutauchen.\nAm Mittag spazieren Sie zur historischen Saint-Martin Church, wo Sie Momente der Ruhe genießen können.\nDer Nachmittag führt Sie durch das grüne Paradies der Réserve naturelle und zur malerischen Chapelle Sainte-Rita.\nZum Abschluss tauchen Sie im Arkéos-Museum tief in das faszinierende nordfranzösische Mittelalter ein.",
         "hu": "Kezdje a napot az elegáns Château de Bernicourt-nál, hogy elmerüljön a régió nemesi múltjában és gazdag történelmében.\nDélben sétáljon át a történelmi Saint-Martin templomhoz, ahol békés pillanatokat és lelki nyugalmat élvezhet.\nA délután a Réserve naturelle zöldellő paradicsomán és a festői Chapelle Sainte-Rita-n keresztül vezet.\nZárásként az Arkéos múzeumban mélyülhet el a lenyűgöző észak-franciaországi középkori életben.",
         "ro": "Începeți ziua la elegantul Château de Bernicourt pentru a vă scufunda în trecutul nobil și fascinant al întregii regiuni.\nLa prânz, faceți o plimbare plăcută până la biserica istorică Saint-Martin, unde vă puteți bucura de momente de liniște.\nDupă-amiaza vă poartă prin paradisul verde al Réserve naturelle și la pitoreasca Chapelle Sainte-Rita.\nÎn cele din urmă, aprofundați fascinantul ev mediu nord-francez vizitând modernul muzeu Arkéos.",
-        "en": "Start your day at the elegant Château de Bernicourt to completely immerse yourself in the noble past of the region.\nAt midday, take a leisurely stroll to the historic Saint-Martin Church, where you can enjoy moments of pure tranquility.\nThe afternoon leads you through the green paradise of the Réserve naturelle and to the picturesque Chapelle Sainte-Rita.\nFinally, delve deep into the fascinating Northern French Middle Ages at the modern Arkéos museum."
+        "en": "Start your day at the elegant Château de Bernicourt to completely immerse yourself in the noble past of the region.\nAt midday, take a leisurely stroll to the historic Saint-Martin Church, where you can enjoy moments of pure tranquility.\nThe afternoon leads you through the green paradise of the Réserve naturelle and to the picturesque Chapelle Sainte-Rita.\nFinally, delve deep into the fascinating Northern French Middle Ages at the modern Arkéos museum.",
+        "fr": "Commencez votre journée au élégant Château de Bernicourt pour vous immerger complètement dans le passé noble de la région.\nÀ midi, promenez-vous tranquillement jusqu'à la historique Saint-Martin Church, où vous pourrez profiter de moments de pure tranquillité.\nL'après-midi vous conduit à travers le paradis vert de la Réserve naturelle puis à la pittoresque Chapelle Sainte-Rita.\nEnfin, plongez dans le fascinant Moyen Âge du Nord de la France au musée moderne Arkéos."
       },
       "variants": {
         "rainy": {
@@ -144,7 +155,8 @@
             "de": "Beginnen Sie den Tag im Château de Bernicourt, wo die dicken Mauern perfekten Schutz vor dem Regen bieten. Mittags führt der Weg zur Saint-Martin Kirche für einen Moment der Ruhe im Trockenen. Nachmittags erkunden Sie die feuchten Pfade der Réserve naturelle, bevor Sie im Arkéos Museum moderne Ausstellungen genießen. Abends reflektieren die Lichter der Stadt stimmungsvoll in den Pfützen.",
             "hu": "Kezdje a napot a Château de Bernicourt falai között, ahol a kiállítások védelmet nyújtanak az eső elől. Délben a Saint-Martin templom hűvös, de száraz belső tere várja. Délután a természetvédelmi terület vízi világa még látványosabb esőben, de készüljön sárra. A napot az Arkéos modern épületében fejezzük be, ahol fedett helyen tanulhatunk. Este a vizes aszfalton megcsillanó fények kísérik utunkat.",
             "ro": "Începeți ziua la Château de Bernicourt, unde expozițiile interioare vă feresc de ploaie. La prânz, Biserica Saint-Martin oferă un refugiu liniștit și uscat în centrul orașului. După-amiaza, rezervația naturală capătă un farmec aparte sub picăturile de ploaie, dar potecile pot fi noroioase. Seara se încheie la muzeul Arkéos, un spațiu modern și primitor, perfect pentru a evita vremea de afară.",
-            "en": "Start your day at Château de Bernicourt, where indoor exhibitions provide a perfect escape from the rain. At noon, Saint-Martin Church offers a peaceful, dry sanctuary in the heart of town. In the afternoon, the nature reserve's wetlands come alive in the rain, though paths may be muddy. Finish the day at the modern Arkéos museum, staying dry while exploring history as evening lights glow."
+            "en": "Start your day at Château de Bernicourt, where indoor exhibitions provide a perfect escape from the rain. At noon, Saint-Martin Church offers a peaceful, dry sanctuary in the heart of town. In the afternoon, the nature reserve's wetlands come alive in the rain, though paths may be muddy. Finish the day at the modern Arkéos museum, staying dry while exploring history as evening lights glow.",
+            "fr": "Commencez votre journée au Château de Bernicourt, où les expositions intérieures offrent une parfaite échappée à la pluie. À midi, l'église Saint-Martin propose un sanctuaire paisible et sec au cœur de la ville. L'après-midi, les zones humides de la réserve naturelle s'animent sous la pluie, bien que les sentiers puissent être boueux. Terminez la journée au musée moderne Arkéos, en restant au sec tout en explorant l'histoire alors que les lumières du soir s'allument."
           },
           "stops": [
             {
@@ -152,13 +164,15 @@
                 "de": "Château de Bernicourt",
                 "hu": "Château de Bernicourt",
                 "ro": "Château de Bernicourt",
-                "en": "Château de Bernicourt"
+                "en": "Château de Bernicourt",
+                "fr": "Château de Bernicourt"
               },
               "tip_5lang": {
                 "de": "Erkunden Sie die Bergbaugeschichte in den prunkvollen Sälen; ein Regenschirmständer befindet sich direkt am Haupteingang des Schlosses.",
                 "hu": "Fedezze fel a bányászati múltat a kastély elegáns termeiben; az esernyőtartókat közvetlenül a főbejáratnál találja a látogatáshoz.",
                 "ro": "Explorați istoria mineritului în sălile splendide ale castelului; suporturile pentru umbrele sunt disponibile chiar la intrarea principală.",
-                "en": "Explore the mining history within the castle's grand rooms; umbrella stands are conveniently located right at the main entrance."
+                "en": "Explore the mining history within the castle's grand rooms; umbrella stands are conveniently located right at the main entrance.",
+                "fr": "Explorez l'histoire minière dans les grandioses salles du château ; des porte-parapluies sont installés juste à l'entrée principale."
               }
             },
             {
@@ -166,13 +180,15 @@
                 "de": "Saint-Martin Church",
                 "hu": "Saint-Martin templom",
                 "ro": "Biserica Saint-Martin",
-                "en": "Saint-Martin Church"
+                "en": "Saint-Martin Church",
+                "fr": "Église Saint-Martin"
               },
               "tip_5lang": {
                 "de": "Bewundern Sie die Architektur der Kirche im Trockenen und nutzen Sie die Stille für eine kurze Pause während eines Regenschauers.",
                 "hu": "Csodálja meg a templom építészetét szárazon, és használja ki a csendet egy rövid pihenőre, amíg eláll az intenzív zápor.",
                 "ro": "Admirați arhitectura bisericii la adăpost și folosiți liniștea pentru o scurtă pauză în timpul unei averse de ploaie.",
-                "en": "Admire the church's architecture while staying dry, and use the quiet space for a brief rest during a heavy rain shower."
+                "en": "Admire the church's architecture while staying dry, and use the quiet space for a brief rest during a heavy rain shower.",
+                "fr": "Admirez l'architecture de l'église tout en restant au sec, et utilisez cet espace paisible pour un court repos pendant une forte averse."
               }
             },
             {
@@ -180,13 +196,15 @@
                 "de": "Réserve naturelle des Annelles, Lains et Pont Pinnet",
                 "hu": "Réserve naturelle des Annelles",
                 "ro": "Réserve naturelle des Annelles",
-                "en": "Réserve naturelle des Annelles"
+                "en": "Réserve naturelle des Annelles",
+                "fr": "Réserve naturelle des Annelles"
               },
               "tip_5lang": {
                 "de": "Beobachten Sie Wasservögel, die im Regen besonders aktiv sind; wasserfeste Wanderschuhe sind auf den aufgeweichten Naturpfaden unerlässlich.",
                 "hu": "Figyelje meg az esőben különösen aktív vízimadarakat; a felázott ösvényeken a vízálló túrabakancs viselete mindenképpen ajánlott.",
                 "ro": "Observați păsările de apă, care sunt active în timpul ploii; încălțămintea impermeabilă este esențială pe potecile naturale umede.",
-                "en": "Observe waterfowl that are active during the rain; waterproof hiking boots are essential on the softened natural paths today."
+                "en": "Observe waterfowl that are active during the rain; waterproof hiking boots are essential on the softened natural paths today.",
+                "fr": "Observez les oiseaux d'eau actifs sous la pluie ; des chaussures de randonnée imperméables sont indispensables sur les sentiers ramollis aujourd'hui."
               }
             },
             {
@@ -194,13 +212,15 @@
                 "de": "Chapelle Sainte-Rita",
                 "hu": "Sainte-Rita kápolna",
                 "ro": "Capela Sainte-Rita",
-                "en": "Chapelle Sainte-Rita"
+                "en": "Chapelle Sainte-Rita",
+                "fr": "Chapelle Sainte-Rita"
               },
               "tip_5lang": {
                 "de": "Diese kleine Kapelle bietet einen intimen Ort der Einkehr; klopfen Sie Ihre nasse Kleidung vor dem Eintreten kurz draußen ab.",
                 "hu": "Ez a kis kápolna meghitt helyszín az elmélyüléshez; belépés előtt rázza le a vizet a kabátjáról a küszöbön kívül.",
                 "ro": "Această capelă mică oferă un loc intim de reculegere; scuturați hainele ude afară înainte de a intra în spațiul sacru.",
-                "en": "This small chapel offers an intimate place for reflection; give your wet clothes a quick shake outside before entering."
+                "en": "This small chapel offers an intimate place for reflection; give your wet clothes a quick shake outside before entering.",
+                "fr": "Cette petite chapelle offre un lieu intime de recueillement ; secouez rapidement vos vêtements mouillés à l'extérieur avant d'entrer."
               }
             },
             {
@@ -208,13 +228,15 @@
                 "de": "Arkéos",
                 "hu": "Arkéos",
                 "ro": "Arkéos",
-                "en": "Arkéos"
+                "en": "Arkéos",
+                "fr": "Arkéos"
               },
               "tip_5lang": {
                 "de": "Tauchen Sie ein in die Archäologie in diesem modernen, beheizten Gebäude; das Café bietet warme Getränke nach einem regnerischen Tag.",
                 "hu": "Merüljön el a régészetben ebben a modern, fűtött épületben; a büfé meleg italokat kínál egy esős nap végén.",
                 "ro": "Explorați arheologia în această clădire modernă și încălzită; cafeneaua oferă băuturi calde după o zi întreagă de ploaie.",
-                "en": "Immerse yourself in archaeology in this modern, heated building; the café offers warm drinks after a rainy day of walking."
+                "en": "Immerse yourself in archaeology in this modern, heated building; the café offers warm drinks after a rainy day of walking.",
+                "fr": "Plongez dans l'archéologie dans ce bâtiment moderne et chauffé ; le café propose des boissons chaudes après une journée pluvieuse de marche."
               }
             }
           ]
@@ -224,7 +246,8 @@
             "de": "Ein frostiger Morgen beginnt am Schloss Bernicourt, dessen Park im Winterlicht magisch wirkt. Mittags wärmen wir uns in den Kirchen der Stadt auf. Der Nachmittag in der Réserve naturelle bietet klare Luft und kahle, weite Aussichten. Da die Sonne gegen 17:00 Uhr untergeht, planen wir den Besuch im Arkéos Museum für die späten Stunden ein, wo es hell und gemütlich ist.",
             "hu": "A fagyos reggel a Bernicourt kastélynál indul, ahol a park téli fényben tündököl. Délben a város templomaiban keresünk enyhülést a hideg ellen. A délutáni séta a természetvédelmi területen friss levegőt és tiszta kilátást kínál. Mivel 17:00 körül sötétedik, az Arkéos múzeum látogatását későbbre időzítjük, ahol világos és meleg környezet fogad minket.",
             "ro": "O dimineață geroasă începe la Castelul Bernicourt, al cărui parc arată magic în lumina iernii. La prânz, ne încălzim în bisericile din oraș. După-amiaza în rezervația naturală oferă aer curat și vederi panoramice clare. Deoarece soarele apune în jur de ora 17:00, planificăm vizita la muzeul Arkéos pentru orele târzii, unde este cald și bine luminat.",
-            "en": "A frosty morning begins at Bernicourt Castle, where the park shines in the crisp winter light. At noon, we find warmth inside the town's churches. The afternoon walk through the nature reserve offers fresh air and wide, clear views. Since the sun sets around 17:00, we schedule the Arkéos museum visit for the late hours, where it is bright and cozy."
+            "en": "A frosty morning begins at Bernicourt Castle, where the park shines in the crisp winter light. At noon, we find warmth inside the town's churches. The afternoon walk through the nature reserve offers fresh air and wide, clear views. Since the sun sets around 17:00, we schedule the Arkéos museum visit for the late hours, where it is bright and cozy.",
+            "fr": "Une matinée glaciale commence au Château de Bernicourt, où le parc scintille sous la lumière hivernale vive. À midi, nous trouvons la chaleur à l'intérieur des églises de la ville. La promenade de l'après-midi à travers la réserve naturelle offre de l'air frais et de larges vues dégagées. Comme le soleil se couche vers 17:00, nous prévoyons la visite du musée Arkéos pour la fin de journée, où il fait lumineux et confortable."
           },
           "stops": [
             {
@@ -232,13 +255,15 @@
                 "de": "Château de Bernicourt",
                 "hu": "Château de Bernicourt",
                 "ro": "Château de Bernicourt",
-                "en": "Château de Bernicourt"
+                "en": "Château de Bernicourt",
+                "fr": "Château de Bernicourt"
               },
               "tip_5lang": {
                 "de": "Genießen Sie den Blick auf die frostigen Gärten durch die Fenster der Prunkräume; warme Kleidung ist für den kurzen Weg vom Tor nötig.",
                 "hu": "Élvezze a fagyos kertek látványát a kastélyterem ablakaiból; a kaputól a bejáratig tartó rövid úthoz is vegyen fel meleg kabátot.",
                 "ro": "Bucurați-vă de vederea grădinilor înghețate prin ferestrele sălilor castelului; hainele groase sunt necesare pentru drumul scurt de la poartă.",
-                "en": "Enjoy the view of the frosty gardens through the windows of the grand rooms; warm clothing is needed for the short walk from the gate."
+                "en": "Enjoy the view of the frosty gardens through the windows of the grand rooms; warm clothing is needed for the short walk from the gate.",
+                "fr": "Profitez de la vue sur les jardins givrés à travers les fenêtres des grandes salles ; des vêtements chauds sont nécessaires pour la courte marche depuis la grille."
               }
             },
             {
@@ -246,13 +271,15 @@
                 "de": "Saint-Martin Church",
                 "hu": "Saint-Martin templom",
                 "ro": "Biserica Saint-Martin",
-                "en": "Saint-Martin Church"
+                "en": "Saint-Martin Church",
+                "fr": "Église Saint-Martin"
               },
               "tip_5lang": {
                 "de": "Die massiven Steinmauern halten die Kälte draußen; zünden Sie eine Kerze an, um die friedliche Winteratmosphäre im Inneren zu genießen.",
                 "hu": "A masszív kőfalak kint tartják a metsző hideget; gyújtson egy gyertyát, és élvezze a békés téli hangulatot a templomhajóban.",
                 "ro": "Zidurile masive de piatră țin frigul afară; aprindeți o lumânare pentru a vă bucura de atmosfera pașnică de iarnă din interior.",
-                "en": "The massive stone walls keep the biting cold outside; light a candle to enjoy the peaceful winter atmosphere inside the nave."
+                "en": "The massive stone walls keep the biting cold outside; light a candle to enjoy the peaceful winter atmosphere inside the nave.",
+                "fr": "Les massives murailles de pierre gardent le froid mordant à l'extérieur ; allumez une bougie pour apprécier l'atmosphère paisible de l'hiver dans la nef."
               }
             },
             {
@@ -260,13 +287,15 @@
                 "de": "Réserve naturelle des Annelles, Lains et Pont Pinnet",
                 "hu": "Réserve naturelle des Annelles",
                 "ro": "Réserve naturelle des Annelles",
-                "en": "Réserve naturelle des Annelles"
+                "en": "Réserve naturelle des Annelles",
+                "fr": "Réserve naturelle des Annelles"
               },
               "tip_5lang": {
                 "de": "Suchen Sie nach Tierspuren im Frost oder Schnee; tragen Sie Thermokleidung, da der Wind in den offenen Flächen der Reserve kalt weht.",
                 "hu": "Keressen állatnyomokat a fagyos talajon vagy a hóban; viseljen termaruházatot, mert a szél hidegen fúj a nyílt területeken.",
                 "ro": "Căutați urme de animale în îngheț sau zăpadă; purtați haine termice, deoarece vântul suflă rece în zonele deschise ale rezervației.",
-                "en": "Look for animal tracks in the frost or snow; wear thermal layers as the wind blows cold across the open areas of the reserve."
+                "en": "Look for animal tracks in the frost or snow; wear thermal layers as the wind blows cold across the open areas of the reserve.",
+                "fr": "Cherchez des empreintes d'animaux dans le givre ou la neige ; portez des couches thermiques car le vent souffle froid sur les zones ouvertes de la réserve."
               }
             },
             {
@@ -274,13 +303,15 @@
                 "de": "Chapelle Sainte-Rita",
                 "hu": "Sainte-Rita kápolna",
                 "ro": "Capela Sainte-Rita",
-                "en": "Chapelle Sainte-Rita"
+                "en": "Chapelle Sainte-Rita",
+                "fr": "Chapelle Sainte-Rita"
               },
               "tip_5lang": {
                 "de": "Ein wunderbarer Ort für ein kurzes Gebet in der Stille; achten Sie auf glatte Stellen auf den Gehwegen vor der Kapelle.",
                 "hu": "Csodálatos hely egy rövid, csendes imához a hidegben; ügyeljen a kápolna előtti járdák esetleges jeges, csúszós szakaszaira.",
                 "ro": "Un loc minunat pentru o scurtă rugăciune în liniște; aveți grijă la porțiunile alunecoase de pe trotuarele din fața capelei.",
-                "en": "A wonderful spot for a brief prayer in silence; watch out for slippery patches on the walkways leading to the chapel entrance."
+                "en": "A wonderful spot for a brief prayer in silence; watch out for slippery patches on the walkways leading to the chapel entrance.",
+                "fr": "Un endroit merveilleux pour une brève prière en silence ; attention aux plaques glissantes sur les allées menant à l'entrée de la chapelle."
               }
             },
             {
@@ -288,13 +319,15 @@
                 "de": "Arkéos",
                 "hu": "Arkéos",
                 "ro": "Arkéos",
-                "en": "Arkéos"
+                "en": "Arkéos",
+                "fr": "Arkéos"
               },
               "tip_5lang": {
                 "de": "Besuchen Sie das Museum kurz vor Sonnenuntergang, um die moderne Beleuchtung zu sehen; nutzen Sie die Garderobe für Ihre schwere Winterjacke.",
                 "hu": "Látogassa meg a múzeumot közvetlenül naplemente előtt a modern fények miatt; használja a ruhatárat a nehéz téli kabátokhoz.",
                 "ro": "Vizitați muzeul chiar înainte de apus pentru a vedea iluminatul modern; folosiți garderoba pentru haina groasă de iarnă.",
-                "en": "Visit the museum just before sunset to see the modern lighting; use the cloakroom to store your heavy winter coat while inside."
+                "en": "Visit the museum just before sunset to see the modern lighting; use the cloakroom to store your heavy winter coat while inside.",
+                "fr": "Visitez le musée juste avant le coucher du soleil pour voir l'éclairage moderne ; utilisez le vestiaire pour déposer votre lourd manteau d'hiver pendant la visite."
               }
             }
           ]
@@ -314,7 +347,8 @@
             "de": "Église Saint-Géry",
             "hu": "Saint-Géry templom",
             "ro": "Biserica Saint-Géry",
-            "en": "Église Saint-Géry"
+            "en": "Église Saint-Géry",
+            "fr": "Église Saint-Géry"
           },
           "coords": [
             3.100562,
@@ -329,7 +363,8 @@
             "de": "Entdecken Sie die historischen Details dieser wunderschönen alten Kirche, deren ruhiges Inneres zum Verweilen einlädt, und betrachten Sie die feinen handwerklichen Holzarbeiten.",
             "hu": "Fedezze fel ennek a gyönyörű régi templomnak a történelmi részleteit, amelynek nyugodt belseje maradásra csábít, és vegye szemügyre a finom kézműves famunkákat is.",
             "ro": "Descoperiți detaliile istorice ale acestei frumoase biserici vechi, al cărei interior liniștit vă invită să zăboviți, și priviți cu atenție detaliile fine din lemn sculptat.",
-            "en": "Discover the historical details of this beautiful old church, whose serene interior invites you to linger, and take a close look at the fine artisanal woodwork on display."
+            "en": "Discover the historical details of this beautiful old church, whose serene interior invites you to linger, and take a close look at the fine artisanal woodwork on display.",
+            "fr": "Découvrez les détails historiques de cette belle vieille église, dont l'intérieur serein invite à la flânerie, et regardez de près la belle menuiserie artisanale exposée."
           }
         },
         {
@@ -337,7 +372,8 @@
             "de": "Château de Bernicourt",
             "hu": "Château de Bernicourt",
             "ro": "Château de Bernicourt",
-            "en": "Château de Bernicourt"
+            "en": "Château de Bernicourt",
+            "fr": "Château de Bernicourt"
           },
           "coords": [
             3.103573,
@@ -352,7 +388,8 @@
             "de": "Entdecken Sie die eleganten Räume dieses restaurierten Schlosses aus dem 18. Jahrhundert, das die lokale Adelsgeschichte lebendig macht, und besuchen Sie die obere Etage für tolle Ausblicke.",
             "hu": "Fedezze fel e felújított 18. századi kastély elegáns termeit, amely megeleveníti a helyi nemesi történelmet, és menjen fel az emeletre a csodálatos kilátásért.",
             "ro": "Explorați camerele elegante ale acestui castel restaurat din secolul al XVIII-lea, care aduce la viață istoria nobilimii locale, și urcați la etaj pentru o priveliște minunată.",
-            "en": "Explore the elegant rooms of this beautifully restored 18th-century castle that brings local noble history to life, and head to the upper floor for wonderful scenic views."
+            "en": "Explore the elegant rooms of this beautifully restored 18th-century castle that brings local noble history to life, and head to the upper floor for wonderful scenic views.",
+            "fr": "Explorez les pièces élégantes de ce château du XVIIIe siècle magnifiquement restauré qui fait revivre l'histoire locale de la noblesse, et rendez-vous à l'étage supérieur pour de magnifiques vues panoramiques."
           }
         },
         {
@@ -360,7 +397,8 @@
             "de": "Saint-Martin Church",
             "hu": "Saint-Martin templom",
             "ro": "Biserica Saint-Martin",
-            "en": "Saint-Martin Church"
+            "en": "Saint-Martin Church",
+            "fr": "Église Saint-Martin"
           },
           "coords": [
             3.103562,
@@ -375,7 +413,8 @@
             "de": "Bewundern Sie die schlichte, aber beeindruckende Architektur dieser charmanten Gemeindekirche, die das historische Herz der Stadt bildet, und achten Sie auf die schönen Buntglasfenster.",
             "hu": "Csodálja meg e bájos plébániatemplom egyszerű, de lenyűgöző építészetét, amely a város történelmi szívét alkotja, és figyeljen a gyönyörű ólomüveg ablakokra.",
             "ro": "Admirați arhitectura simplă, dar impresionantă a acestei biserici parohiale fermecătoare, care formează inima istorică a orașului, și observați vitraliile frumoase.",
-            "en": "Admire the simple yet impressive architecture of this charming parish church that forms the historical heart of the town, and pay attention to the beautiful stained glass windows."
+            "en": "Admire the simple yet impressive architecture of this charming parish church that forms the historical heart of the town, and pay attention to the beautiful stained glass windows.",
+            "fr": "Admirez l'architecture simple mais impressionnante de cette charmante église paroissiale qui forme le cœur historique de la ville, et prêtez attention aux beaux vitraux."
           }
         },
         {
@@ -383,7 +422,8 @@
             "de": "Réserve naturelle des Annelles, Lains et Pont Pinnet",
             "hu": "Réserve naturelle des Annelles",
             "ro": "Réserve naturelle des Annelles",
-            "en": "Réserve naturelle des Annelles"
+            "en": "Réserve naturelle des Annelles",
+            "fr": "Réserve naturelle des Annelles"
           },
           "coords": [
             3.094536,
@@ -398,7 +438,8 @@
             "de": "Genießen Sie die ruhige Atmosphäre dieses vielfältigen Naturschutzgebietes, das zahlreichen seltenen Vogelarten eine Heimat bietet, und bringen Sie unbedingt ein gutes Fernglas mit.",
             "hu": "Élvezze e változatos természetvédelmi terület nyugodt légkörét, amely számos ritka madárfajnak ad otthont, és feltétlenül hozzon magával egy jó távcsövet a megfigyeléshez.",
             "ro": "Bucurați-vă de atmosfera liniștită a acestei rezervații naturale diverse, care găzduiește multe specii rare de păsări, și asigurați-vă că aduceți un binoclu bun cu dumneavoastră.",
-            "en": "Enjoy the peaceful atmosphere of this diverse nature reserve that provides a home for many rare bird species, and be sure to bring a good pair of binoculars for birdwatching."
+            "en": "Enjoy the peaceful atmosphere of this diverse nature reserve that provides a home for many rare bird species, and be sure to bring a good pair of binoculars for birdwatching.",
+            "fr": "Appréciez l'atmosphère paisible de cette réserve naturelle diversifiée qui abrite de nombreuses espèces d'oiseaux rares, et n'oubliez pas d'apporter une bonne paire de jumelles pour l'ornithologie."
           }
         },
         {
@@ -406,7 +447,8 @@
             "de": "Arkéos",
             "hu": "Arkéos",
             "ro": "Arkéos",
-            "en": "Arkéos"
+            "en": "Arkéos",
+            "fr": "Arkéos"
           },
           "coords": [
             3.128331,
@@ -421,7 +463,8 @@
             "de": "Tauchen Sie in diesem archäologischen Museum tief in die spannende mittelalterliche Geschichte der Region ein und nehmen Sie an einer der faszinierenden interaktiven Führungen teil.",
             "hu": "Merüljön el a régió izgalmas középkori történelmében ebben a modern régészeti múzeumban, és vegyen részt az egyik lenyűgöző, interaktív és informatív tárlatvezetésen.",
             "ro": "Pătrundeți adânc în istoria medievală fascinantă a regiunii în acest muzeu arheologic modern și asigurați-vă că participați la unul dintre tururile interactive captivante.",
-            "en": "Delve deep into the region's fascinating medieval history at this modern archaeological museum, and make sure to participate in one of the highly engaging interactive guided tours."
+            "en": "Delve deep into the region's fascinating medieval history at this modern archaeological museum, and make sure to participate in one of the highly engaging interactive guided tours.",
+            "fr": "Plongez au cœur de la fascinante histoire médiévale de la région dans ce musée archéologique moderne, et assurez-vous de participer à l'une des visites guidées interactives très engageantes."
           }
         },
         {
@@ -429,7 +472,8 @@
             "de": "Scarpe Canal",
             "hu": "Scarpe-csatorna",
             "ro": "Canalul Scarpe",
-            "en": "Scarpe Canal"
+            "en": "Scarpe Canal",
+            "fr": "Canal de la Scarpe"
           },
           "coords": [
             3.101286,
@@ -444,7 +488,8 @@
             "de": "Spazieren Sie entlang der malerischen Ufer dieses historischen Kanals, der früher eine wichtige Wasserstraße war, und mieten Sie ein Fahrrad für eine entspannte Fahrt am Wasser.",
             "hu": "Sétáljon e történelmi csatorna festői partjain, amely egykor fontos vízi út volt, és béreljen kerékpárt egy pihentető és frissítő délutáni túrához a víz mentén.",
             "ro": "Plimbați-vă pe malurile pitorești ale acestui canal istoric, care a fost cândva o cale navigabilă importantă, și închiriați o bicicletă pentru o plimbare relaxantă pe malul apei.",
-            "en": "Stroll along the picturesque banks of this historic canal, which was once an important regional waterway, and consider renting a bicycle for a relaxing ride right by the water."
+            "en": "Stroll along the picturesque banks of this historic canal, which was once an important regional waterway, and consider renting a bicycle for a relaxing ride right by the water.",
+            "fr": "Promenez-vous le long des berges pittoresques de ce canal historique, qui fut autrefois une importante voie navigable régionale, et pensez à louer un vélo pour une balade détendue au bord de l'eau."
           }
         }
       ],
@@ -452,7 +497,8 @@
         "de": "Starten Sie morgens an der Église Saint-Géry und radeln Sie dann zum prachtvollen Château de Bernicourt, um Geschichte hautnah zu erleben.\nZur Mittagszeit geht es weiter zur Saint-Martin Church und anschließend in die Natur der Réserve naturelle.\nNachmittags bringt Sie Ihr Fahrrad zum beeindruckenden Arkéos-Museum, wo Sie das regionale Kulturerbe erkunden.\nBeenden Sie den aktiven Tag mit einer entspannten Fahrt entlang der ruhigen Ufer des Scarpe-Kanals.",
         "hu": "Kezdje a reggelt az Église Saint-Géry-nél, majd tekerjen el a pompás Château de Bernicourt-hoz, hogy átélje a történelmet.\nDélben folytassa útját a Saint-Martin templom felé, majd élvezze a Réserve naturelle érintetlen természetét.\nDélután a kerékpárút a lenyűgöző Arkéos múzeumhoz vezet, ahol felfedezheti a gazdag regionális kulturális örökséget.\nFejezze be az aktív napot egy pihentető és frissítő tekeréssel a Scarpe-csatorna csendes és békés partjain.",
         "ro": "Începeți dimineața la Église Saint-Géry și apoi pedalați spre magnificul Château de Bernicourt pentru a experimenta istoria.\nLa prânz, continuați spre biserica Saint-Martin și apoi relaxați-vă în natura uimitoare din Réserve naturelle.\nDupă-amiaza, bicicleta vă aduce la impresionantul muzeu Arkéos, unde veți explora vastul patrimoniu cultural regional.\nÎncheiați ziua activă cu o plimbare complet relaxantă de-a lungul malurilor liniștite ale canalului pitoresc Scarpe.",
-        "en": "Start the morning at Église Saint-Géry and then cycle your way to the magnificent Château de Bernicourt to experience history.\nAt lunchtime, continue to the Saint-Martin Church and then step right into the pure nature of the Réserve naturelle.\nIn the afternoon, your bike brings you to the impressive Arkéos museum, where you can explore regional cultural heritage.\nEnd the active day with a wonderfully relaxing ride along the quiet and peaceful banks of the historic Scarpe Canal."
+        "en": "Start the morning at Église Saint-Géry and then cycle your way to the magnificent Château de Bernicourt to experience history.\nAt lunchtime, continue to the Saint-Martin Church and then step right into the pure nature of the Réserve naturelle.\nIn the afternoon, your bike brings you to the impressive Arkéos museum, where you can explore regional cultural heritage.\nEnd the active day with a wonderfully relaxing ride along the quiet and peaceful banks of the historic Scarpe Canal.",
+        "fr": "Commencez la matinée à l'Église Saint-Géry puis routez à vélo jusqu'au magnifique Château de Bernicourt pour vivre l'histoire.\nÀ l'heure du déjeuner, continuez vers l'Église Saint-Martin puis pénétrez dans la nature pure de la Réserve naturelle.\nL'après-midi, votre vélo vous mène au spectaculaire musée Arkéos, où vous pouvez explorer le patrimoine culturel régional.\nTerminez cette journée active par une balade merveilleusement relaxante le long des berges calmes et paisibles du canal historique de la Scarpe."
       },
       "variants": {
         "rainy": {
@@ -460,7 +506,8 @@
             "de": "Eine nasse Radtour erfordert Vorsicht auf den Radwegen nach Roost-Warendin. Vormittags bieten die Kirchen und das Schloss Bernicourt wichtige trockene Haltepunkte. Mittags radeln wir durch die frische, regnerische Luft zur Réserve naturelle. Nachmittags erkunden wir Arkéos, bevor wir den Tag am Scarpe-Kanal ausklingen lassen. Achten Sie auf rutschiges Laub und Pfützen auf den Uferwegen.",
             "hu": "A vizes kerékpározás óvatosságot igényel a Roost-Warendin felé vezető utakon. Délelőtt a templomok és a Bernicourt kastély kínálnak száraz pihenőket. Délben a friss, esős levegőn tekerünk a természetvédelmi területhez. Délután az Arkéos múzeumban pihenünk meg, majd a Scarpe-csatornánál fejezzük be a napot. Ügyeljen a csúszós levelekre és a tócsákra a parti utakon.",
             "ro": "O tură cu bicicleta pe ploaie necesită prudență pe pistele spre Roost-Warendin. Dimineața, bisericile și Castelul Bernicourt oferă opriri uscate esențiale. La prânz, pedalăm prin aerul proaspăt de ploaie către rezervația naturală. După-amiaza explorăm Arkéos, înainte de a încheia ziua la Canalul Scarpe. Atenție la frunzele alunecoase și bălțile de pe mal.",
-            "en": "A wet bike ride requires caution on the paths toward Roost-Warendin. In the morning, churches and Bernicourt Castle provide essential dry stops. At noon, we cycle through the fresh rainy air to the nature reserve. In the afternoon, explore Arkéos before ending the day by the Scarpe Canal. Watch out for slippery leaves and deep puddles on the riverside paths."
+            "en": "A wet bike ride requires caution on the paths toward Roost-Warendin. In the morning, churches and Bernicourt Castle provide essential dry stops. At noon, we cycle through the fresh rainy air to the nature reserve. In the afternoon, explore Arkéos before ending the day by the Scarpe Canal. Watch out for slippery leaves and deep puddles on the riverside paths.",
+            "fr": "Une balade à vélo sous la pluie nécessite de la prudence sur les chemins en direction de Roost-Warendin. Le matin, les églises et le château de Bernicourt offrent des arrêts secs indispensables. À midi, nous pédalons dans l'air frais et pluvieux jusqu'à la réserve naturelle. L'après-midi, explorez Arkéos avant de terminer la journée au canal de la Scarpe. Méfiez-vous des feuilles glissantes et des flaques profondes sur les chemins riverains."
           },
           "stops": [
             {
@@ -468,13 +515,15 @@
                 "de": "Église Saint-Géry",
                 "hu": "Saint-Géry templom",
                 "ro": "Biserica Saint-Géry",
-                "en": "Église Saint-Géry"
+                "en": "Église Saint-Géry",
+                "fr": "Église Saint-Géry"
               },
               "tip_5lang": {
                 "de": "Ein ruhiger Start im Trockenen; parken Sie Ihr Fahrrad sicher unter dem Dachvorsprung am Eingang, um den Sattel trocken zu halten.",
                 "hu": "Csendes kezdés fedett helyen; parkolja le kerékpárját biztonságosan a bejárat feletti előtető alatt, hogy a nyereg száraz maradjon.",
                 "ro": "Un început liniștit la adăpost; parcați bicicleta în siguranță sub streșina de la intrare pentru a păstra șaua uscată.",
-                "en": "A quiet start in the dry; park your bike securely under the roof overhang at the entrance to keep the saddle dry while visiting."
+                "en": "A quiet start in the dry; park your bike securely under the roof overhang at the entrance to keep the saddle dry while visiting.",
+                "fr": "Un démarrage au calme et au sec ; garez votre vélo en sécurité sous l'auvent à l'entrée pour garder la selle sèche pendant la visite."
               }
             },
             {
@@ -482,13 +531,15 @@
                 "de": "Château de Bernicourt",
                 "hu": "Château de Bernicourt",
                 "ro": "Château de Bernicourt",
-                "en": "Château de Bernicourt"
+                "en": "Château de Bernicourt",
+                "fr": "Château de Bernicourt"
               },
               "tip_5lang": {
                 "de": "Besichtigen Sie die Ausstellungen im Inneren; nutzen Sie die befestigten Wege im Park, um Schlamm an den Reifen zu vermeiden.",
                 "hu": "Tekintse meg a benti kiállításokat; használja a park burkolt útjait, hogy elkerülje a sár felhalmozódását a gumiabroncsokon.",
                 "ro": "Vizitați expozițiile din interior; folosiți potecile pavate din parc pentru a evita acumularea noroiului pe roțile bicicletei.",
-                "en": "View the indoor exhibitions; stick to the paved paths in the park to avoid getting too much mud on your bike tires today."
+                "en": "View the indoor exhibitions; stick to the paved paths in the park to avoid getting too much mud on your bike tires today.",
+                "fr": "Visitez les expositions intérieures ; restez sur les chemins pavés du parc pour éviter d'avoir trop de boue sur les pneus de votre vélo aujourd'hui."
               }
             },
             {
@@ -496,13 +547,15 @@
                 "de": "Saint-Martin Church",
                 "hu": "Saint-Martin templom",
                 "ro": "Biserica Saint-Martin",
-                "en": "Saint-Martin Church"
+                "en": "Saint-Martin Church",
+                "fr": "Église Saint-Martin"
               },
               "tip_5lang": {
                 "de": "Nutzen Sie den Halt für eine kurze Pause vom Regen; wischen Sie die Bremsbeläge kurz ab, da Nässe die Bremswirkung verringern kann.",
                 "hu": "Használja ki ezt a megállót egy rövid esőszünetre; törölje át a fékfelületeket, mert a nedvesség csökkentheti a fékhatást.",
                 "ro": "Folosiți oprirea pentru o pauză scurtă de ploaie; ștergeți sabloții de frână, deoarece umezeala poate reduce eficiența frânării.",
-                "en": "Take advantage of this stop for a break from the rain; wipe down your rims as moisture can reduce braking efficiency on your ride."
+                "en": "Take advantage of this stop for a break from the rain; wipe down your rims as moisture can reduce braking efficiency on your ride.",
+                "fr": "Profitez de cet arrêt pour faire une pause sous la pluie ; essuyez vos jantes car l'humidité peut réduire l'efficacité du freinage pendant la sortie."
               }
             },
             {
@@ -510,13 +563,15 @@
                 "de": "Réserve naturelle des Annelles, Lains et Pont Pinnet",
                 "hu": "Réserve naturelle des Annelles",
                 "ro": "Réserve naturelle des Annelles",
-                "en": "Réserve naturelle des Annelles"
+                "en": "Réserve naturelle des Annelles",
+                "fr": "Réserve naturelle des Annelles"
               },
               "tip_5lang": {
                 "de": "Genießen Sie die Natur im Regen; fahren Sie langsam auf den Holzstegen, da diese bei Nässe extrem rutschig sein können.",
                 "hu": "Élvezze a természetet az esőben; tekerjen lassan a fapallókon, mert azok nedvesen rendkívül csúszóssá válhatnak.",
                 "ro": "Bucurați-vă de natură pe ploaie; pedalați încet pe pasarelele de lemn, deoarece acestea devin extrem de alunecoase când sunt ude.",
-                "en": "Enjoy nature in the rain; cycle slowly on the wooden boardwalks, as they can become extremely slippery when wet."
+                "en": "Enjoy nature in the rain; cycle slowly on the wooden boardwalks, as they can become extremely slippery when wet.",
+                "fr": "Appréciez la nature sous la pluie ; roulez lentement sur les passerelles en bois, car elles peuvent devenir extrêmement glissantes quand elles sont mouillées."
               }
             },
             {
@@ -524,13 +579,15 @@
                 "de": "Arkéos",
                 "hu": "Arkéos",
                 "ro": "Arkéos",
-                "en": "Arkéos"
+                "en": "Arkéos",
+                "fr": "Arkéos"
               },
               "tip_5lang": {
                 "de": "Wärmen Sie sich im Museum auf; es gibt überdachte Fahrradständer, damit Ihr Rad während der langen Besichtigung trocken bleibt.",
                 "hu": "Melegedjen fel a múzeumban; fedett kerékpártárolók állnak rendelkezésre, így a bringa száraz marad a hosszú látogatás alatt.",
                 "ro": "Încălziți-vă în muzeu; există rastele acoperite pentru biciclete, astfel încât vehiculul să rămână uscat în timpul vizitei lungi.",
-                "en": "Warm up inside the museum; covered bike racks are available so your cycle stays dry during the long indoor visit."
+                "en": "Warm up inside the museum; covered bike racks are available so your cycle stays dry during the long indoor visit.",
+                "fr": "Réchauffez-vous à l'intérieur du musée ; des arceaux couverts sont disponibles pour garder votre vélo au sec pendant la longue visite intérieure."
               }
             },
             {
@@ -538,13 +595,15 @@
                 "de": "Scarpe Canal",
                 "hu": "Scarpe-csatorna",
                 "ro": "Canalul Scarpe",
-                "en": "Scarpe Canal"
+                "en": "Scarpe Canal",
+                "fr": "Canal de la Scarpe"
               },
               "tip_5lang": {
                 "de": "Eine stimmungsvolle Fahrt am Wasser; tragen Sie eine helle Regenjacke, um bei schlechter Sicht für andere besser erkennbar zu sein.",
                 "hu": "Hangulatos tekerés a vízparton; viseljen élénk színű esőkabátot, hogy a rossz látási viszonyok között is észrevegyék a többiek.",
                 "ro": "O plimbare atmosferică pe malul apei; purtați o pelerină de ploaie reflectorizantă pentru a fi vizibil în condiții de vizibilitate redusă.",
-                "en": "An atmospheric ride along the water; wear a bright raincoat to ensure you are visible to others in the low-light conditions."
+                "en": "An atmospheric ride along the water; wear a bright raincoat to ensure you are visible to others in the low-light conditions.",
+                "fr": "Une balade atmosphérique le long de l'eau ; portez un imperméable de couleur vive pour rester visible des autres dans les conditions de faible luminosité."
               }
             }
           ]
@@ -554,7 +613,8 @@
             "de": "Die winterliche Radtour führt durch frostige Landschaften und kühle Brisen. Vormittags besuchen wir die historischen Kirchen, wo die Luft stiller ist. Mittags bietet das Schloss Bernicourt eine prächtige Kulisse im fahlen Sonnenlicht. Nachmittags in der Réserve naturelle ist es wichtig, in Bewegung zu bleiben. Da es früh dunkel wird, nutzen wir die Abendstunden für das gemütliche Arkéos Museum und den beleuchteten Kanalweg.",
             "hu": "A téli kerékpártúra fagyos tájakon és hűvös szellőben vezet. Délelőtt a történelmi templomokat keressük fel, ahol megállt az idő. Délben a Bernicourt kastély nyújt pompás látványt a gyenge napsütésben. Délután a természetvédelmi területen fontos a mozgásban maradás a hideg ellen. Mivel korán sötétedik, az Arkéos múzeumot és a kivilágított csatornapartot estére hagyjuk.",
             "ro": "Turul cu bicicleta iarna trece prin peisaje înghețate și briză rece. Dimineața vizităm bisericile istorice, unde atmosfera este liniștită. La prânz, Castelul Bernicourt oferă un cadru magnific în lumina palidă a soarelui. După-amiaza în rezervație, este important să rămâneți în mișcare. Deoarece se întunecă devreme, lăsăm muzeul Arkéos și canalul iluminat pentru seară.",
-            "en": "The winter bike tour takes you through frosty landscapes and cool breezes. In the morning, visit historical churches where the air is still. At noon, Bernicourt Castle provides a magnificent backdrop in the pale sunlight. In the afternoon at the nature reserve, keep moving to stay warm. Since it gets dark early, save the cozy Arkéos museum and the lit canal path for the evening."
+            "en": "The winter bike tour takes you through frosty landscapes and cool breezes. In the morning, visit historical churches where the air is still. At noon, Bernicourt Castle provides a magnificent backdrop in the pale sunlight. In the afternoon at the nature reserve, keep moving to stay warm. Since it gets dark early, save the cozy Arkéos museum and the lit canal path for the evening.",
+            "fr": "La randonnée à vélo hivernale vous conduit à travers des paysages givrés et des brises fraîches. Le matin, visitez des églises historiques où l'air est immobile. À midi, le Château de Bernicourt offre un arrière-plan magnifique sous la lumière pâle. L'après-midi à la réserve naturelle, gardez le mouvement pour rester au chaud. Comme il fait nuit tôt, gardez le musée Arkéos chaleureux et la voie éclairée du canal pour la soirée."
           },
           "stops": [
             {
@@ -562,13 +622,15 @@
                 "de": "Église Saint-Géry",
                 "hu": "Saint-Géry templom",
                 "ro": "Biserica Saint-Géry",
-                "en": "Église Saint-Géry"
+                "en": "Église Saint-Géry",
+                "fr": "Église Saint-Géry"
               },
               "tip_5lang": {
                 "de": "Starten Sie ruhig und besonnen; tragen Sie winddichte Handschuhe, da der Fahrtwind bei Minustemperaturen sehr beißend sein kann.",
                 "hu": "Kezdjen nyugodtan és megfontoltan; viseljen szélálló kesztyűt, mert a menetszél fagypont környékén nagyon metsző lehet.",
                 "ro": "Începeți tura calm; purtați mănuși rezistente la vânt, deoarece curentul de aer poate fi foarte tăios la temperaturi scăzute.",
-                "en": "Start your ride calmly; wear windproof gloves, as the moving air can feel very biting when temperatures are near freezing."
+                "en": "Start your ride calmly; wear windproof gloves, as the moving air can feel very biting when temperatures are near freezing.",
+                "fr": "Commencez votre tour calmement ; portez des gants coupe-vent, car l'air en mouvement peut être très mordant quand les températures sont proches de zéro."
               }
             },
             {
@@ -576,13 +638,15 @@
                 "de": "Château de Bernicourt",
                 "hu": "Château de Bernicourt",
                 "ro": "Château de Bernicourt",
-                "en": "Château de Bernicourt"
+                "en": "Château de Bernicourt",
+                "fr": "Château de Bernicourt"
               },
               "tip_5lang": {
                 "de": "Bewundern Sie die Architektur im Winterlicht; stellen Sie sicher, dass Ihre Fahrradbeleuchtung für den späteren Rückweg einwandfrei funktioniert.",
                 "hu": "Csodálja meg az építészetet a téli fényben; győződjön meg róla, hogy a kerékpáros lámpák tökéletesen működnek a későbbi hazatéréshez.",
                 "ro": "Admirați arhitectura în lumina iernii; asigurați-vă că luminile bicicletei funcționează impecabil pentru drumul de întoarcere.",
-                "en": "Admire the architecture in the winter light; ensure your bike lights are functioning perfectly for the ride back later in the dark."
+                "en": "Admire the architecture in the winter light; ensure your bike lights are functioning perfectly for the ride back later in the dark.",
+                "fr": "Admirez l'architecture sous la lumière hivernale ; assurez-vous que les éclairages de votre vélo fonctionnent parfaitement pour le retour dans l'obscurité."
               }
             },
             {
@@ -590,13 +654,15 @@
                 "de": "Saint-Martin Church",
                 "hu": "Saint-Martin templom",
                 "ro": "Biserica Saint-Martin",
-                "en": "Saint-Martin Church"
+                "en": "Saint-Martin Church",
+                "fr": "Église Saint-Martin"
               },
               "tip_5lang": {
                 "de": "Ein Ort der Stille und Wärme; nutzen Sie den Stopp, um die Zehen kurz zu bewegen und die Durchblutung nach der Fahrt anzuregen.",
                 "hu": "A csend és a meleg szigete; használja ki a megállót, hogy átmozgassa lábujjait és serkentse a vérkeringést a tekerés után.",
                 "ro": "Un loc de liniște și căldură; folosiți oprirea pentru a vă mișca degetele de la picioare și a stimula circulația după pedalat.",
-                "en": "A place of silence and warmth; use the stop to wiggle your toes and stimulate circulation after cycling in the cold air."
+                "en": "A place of silence and warmth; use the stop to wiggle your toes and stimulate circulation after cycling in the cold air.",
+                "fr": "Un lieu de silence et de chaleur ; profitez de l'arrêt pour remuer les orteils et stimuler la circulation après avoir pédalé dans l'air froid."
               }
             },
             {
@@ -604,13 +670,15 @@
                 "de": "Réserve naturelle des Annelles, Lains et Pont Pinnet",
                 "hu": "Réserve naturelle des Annelles",
                 "ro": "Réserve naturelle des Annelles",
-                "en": "Réserve naturelle des Annelles"
+                "en": "Réserve naturelle des Annelles",
+                "fr": "Réserve naturelle des Annelles"
               },
               "tip_5lang": {
                 "de": "Klare Sicht über die gefrorenen Teiche; bleiben Sie auf den Hauptwegen, da Nebenpfade bei Frost sehr uneben und hart sein können.",
                 "hu": "Tiszta kilátás a befagyott tavakra; maradjon a főutakon, mert a mellékösvények fagyottan nagyon egyenetlenek és kemények lehetnek.",
                 "ro": "Vedere clară peste iazurile înghețate; rămâneți pe drumurile principale, deoarece potecile secundare pot fi foarte denivelate iarna.",
-                "en": "Clear views over the frozen ponds; stay on the main paths, as side trails can be very uneven and hard when frozen solid."
+                "en": "Clear views over the frozen ponds; stay on the main paths, as side trails can be very uneven and hard when frozen solid.",
+                "fr": "Vues dégagées sur les étangs gelés ; restez sur les sentiers principaux, car les sentiers secondaires peuvent être très irréguliers et durs lorsqu'ils sont gelés."
               }
             },
             {
@@ -618,13 +686,15 @@
                 "de": "Arkéos",
                 "hu": "Arkéos",
                 "ro": "Arkéos",
-                "en": "Arkéos"
+                "en": "Arkéos",
+                "fr": "Arkéos"
               },
               "tip_5lang": {
                 "de": "Das Museum bietet eine perfekte Aufwärmpause; genießen Sie die interaktiven Displays, während es draußen bereits zu dämmern beginnt.",
                 "hu": "A múzeum tökéletes melegedőhely; élvezze az interaktív kijelzőket, miközben odakint már lassan elkezd sötétedni.",
                 "ro": "Muzeul oferă o pauză perfectă pentru încălzire; bucurați-vă de ecranele interactive în timp ce afară începe deja să se însereze.",
-                "en": "The museum offers a perfect warm-up break; enjoy the interactive displays while it already begins to get dark outside."
+                "en": "The museum offers a perfect warm-up break; enjoy the interactive displays while it already begins to get dark outside.",
+                "fr": "Le musée offre une parfaite pause réchauffante ; profitez des expositions interactives alors qu'il commence déjà à faire sombre dehors."
               }
             },
             {
@@ -632,13 +702,15 @@
                 "de": "Scarpe Canal",
                 "hu": "Scarpe-csatorna",
                 "ro": "Canalul Scarpe",
-                "en": "Scarpe Canal"
+                "en": "Scarpe Canal",
+                "fr": "Canal de la Scarpe"
               },
               "tip_5lang": {
                 "de": "Die Abenddämmerung am Kanal ist wunderschön; fahren Sie vorsichtig, da sich auf Brücken oft früher Reif oder Glätte bildet.",
                 "hu": "Az alkonyat a csatornánál gyönyörű; tekerjen óvatosan, mert a hidakon gyakran korábban alakul ki zúzmara vagy jegesedés.",
                 "ro": "Amurgul pe canal este superb; pedalați cu atenție, deoarece pe poduri se formează adesea polei mai devreme decât pe drum.",
-                "en": "Dusk by the canal is beautiful; cycle carefully, as frost or ice often forms earlier on bridges than on the main ground."
+                "en": "Dusk by the canal is beautiful; cycle carefully, as frost or ice often forms earlier on bridges than on the main ground.",
+                "fr": "Le crépuscule au bord du canal est magnifique ; roulez prudemment, car le givre ou la glace se forme souvent plus tôt sur les ponts que sur le sol."
               }
             }
           ]
@@ -658,7 +730,8 @@
             "de": "Église Saint-Géry",
             "hu": "Saint-Géry templom",
             "ro": "Biserica Saint-Géry",
-            "en": "Église Saint-Géry"
+            "en": "Église Saint-Géry",
+            "fr": "Église Saint-Géry"
           },
           "coords": [
             3.100562,
@@ -673,7 +746,8 @@
             "de": "Entdecken Sie die historischen Details dieser wunderschönen alten Kirche, deren ruhiges Inneres zum Verweilen einlädt, und betrachten Sie die feinen handwerklichen Holzarbeiten.",
             "hu": "Fedezze fel ennek a gyönyörű régi templomnak a történelmi részleteit, amelynek nyugodt belseje maradásra csábít, és vegye szemügyre a finom kézműves famunkákat is.",
             "ro": "Descoperiți detaliile istorice ale acestei frumoase biserici vechi, al cărei interior liniștit vă invită să zăboviți, și priviți cu atenție detaliile fine din lemn sculptat.",
-            "en": "Discover the historical details of this beautiful old church, whose serene interior invites you to linger, and take a close look at the fine artisanal woodwork on display."
+            "en": "Discover the historical details of this beautiful old church, whose serene interior invites you to linger, and take a close look at the fine artisanal woodwork on display.",
+            "fr": "Découvrez les détails historiques de cette belle vieille église, dont l'intérieur serein invite à la flânerie, et regardez de près la belle menuiserie artisanale exposée."
           }
         },
         {
@@ -681,7 +755,8 @@
             "de": "Château de Bernicourt",
             "hu": "Château de Bernicourt",
             "ro": "Château de Bernicourt",
-            "en": "Château de Bernicourt"
+            "en": "Château de Bernicourt",
+            "fr": "Château de Bernicourt"
           },
           "coords": [
             3.103573,
@@ -696,7 +771,8 @@
             "de": "Entdecken Sie die eleganten Räume dieses restaurierten Schlosses aus dem 18. Jahrhundert, das die lokale Adelsgeschichte lebendig macht, und besuchen Sie die obere Etage für tolle Ausblicke.",
             "hu": "Fedezze fel e felújított 18. századi kastély elegáns termeit, amely megeleveníti a helyi nemesi történelmet, és menjen fel az emeletre a csodálatos kilátásért.",
             "ro": "Explorați camerele elegante ale acestui castel restaurat din secolul al XVIII-lea, care aduce la viață istoria nobilimii locale, și urcați la etaj pentru o priveliște minunată.",
-            "en": "Explore the elegant rooms of this beautifully restored 18th-century castle that brings local noble history to life, and head to the upper floor for wonderful scenic views."
+            "en": "Explore the elegant rooms of this beautifully restored 18th-century castle that brings local noble history to life, and head to the upper floor for wonderful scenic views.",
+            "fr": "Explorez les pièces élégantes de ce château du XVIIIe siècle magnifiquement restauré qui fait revivre l'histoire locale de la noblesse, et rendez-vous à l'étage supérieur pour de magnifiques vues panoramiques."
           }
         },
         {
@@ -704,7 +780,8 @@
             "de": "Saint-Martin Church",
             "hu": "Saint-Martin templom",
             "ro": "Biserica Saint-Martin",
-            "en": "Saint-Martin Church"
+            "en": "Saint-Martin Church",
+            "fr": "Église Saint-Martin"
           },
           "coords": [
             3.103562,
@@ -719,7 +796,8 @@
             "de": "Bewundern Sie die schlichte, aber beeindruckende Architektur dieser charmanten Gemeindekirche, die das historische Herz der Stadt bildet, und achten Sie auf die schönen Buntglasfenster.",
             "hu": "Csodálja meg e bájos plébániatemplom egyszerű, de lenyűgöző építészetét, amely a város történelmi szívét alkotja, és figyeljen a gyönyörű ólomüveg ablakokra.",
             "ro": "Admirați arhitectura simplă, dar impresionantă a acestei biserici parohiale fermecătoare, care formează inima istorică a orașului, și observați vitraliile frumoase.",
-            "en": "Admire the simple yet impressive architecture of this charming parish church that forms the historical heart of the town, and pay attention to the beautiful stained glass windows."
+            "en": "Admire the simple yet impressive architecture of this charming parish church that forms the historical heart of the town, and pay attention to the beautiful stained glass windows.",
+            "fr": "Admirez l'architecture simple mais impressionnante de cette charmante église paroissiale qui forme le cœur historique de la ville, et prêtez attention aux beaux vitraux."
           }
         },
         {
@@ -727,7 +805,8 @@
             "de": "Mairie de Râches",
             "hu": "Mairie de Râches",
             "ro": "Mairie de Râches",
-            "en": "Mairie de Râches"
+            "en": "Mairie de Râches",
+            "fr": "Mairie de Râches"
           },
           "coords": [
             3.136796,
@@ -742,7 +821,8 @@
             "de": "Betrachten Sie die klassische französische Architektur dieses charmanten Rathauses, das als repräsentativer Mittelpunkt dient, und fotografieren Sie die symmetrische Hauptfassade.",
             "hu": "Tekintse meg e bájos városháza klasszikus francia építészetét, amely reprezentatív központként szolgál, és fényképezze le a tökéletesen szimmetrikus és elegáns főhomlokzatot.",
             "ro": "Priviți arhitectura clasică franceză a acestei primării fermecătoare, care servește drept punct central reprezentativ, și fotografiați fațada principală perfect simetrică.",
-            "en": "View the classic French architecture of this charming town hall, which serves as a representative center, and take a great photograph of the perfectly symmetrical main facade."
+            "en": "View the classic French architecture of this charming town hall, which serves as a representative center, and take a great photograph of the perfectly symmetrical main facade.",
+            "fr": "Admirez l'architecture classique française de cette charmante mairie, qui sert de centre représentatif, et prenez une belle photo de la façade principale parfaitement symétrique."
           }
         },
         {
@@ -750,7 +830,8 @@
             "de": "Église Saint-Léonard",
             "hu": "Saint-Léonard templom",
             "ro": "Biserica Saint-Léonard",
-            "en": "Église Saint-Léonard"
+            "en": "Église Saint-Léonard",
+            "fr": "Église Saint-Léonard"
           },
           "coords": [
             3.135108,
@@ -765,7 +846,8 @@
             "de": "Erleben Sie die friedliche Ausstrahlung dieser kleinen, aber architektonisch reizvollen Kirche, die tief mit der lokalen Identität verwurzelt ist, und besuchen Sie den ruhigen Vorhof.",
             "hu": "Élje át e kis, de építészetileg vonzó templom békés kisugárzását, amely mélyen gyökerezik a helyi identitásban, és tegyen egy rövid sétát a csendes és rendezett előudvaron.",
             "ro": "Experimentați aura pașnică a acestei biserici mici, dar atractive din punct de vedere arhitectural, înrădăcinată în identitatea locală, și vizitați curtea din față liniștită.",
-            "en": "Experience the peaceful aura of this small yet architecturally attractive church rooted deeply in local identity, and take a short, relaxing walk through the quiet front courtyard."
+            "en": "Experience the peaceful aura of this small yet architecturally attractive church rooted deeply in local identity, and take a short, relaxing walk through the quiet front courtyard.",
+            "fr": "Ressentez l'aura paisible de cette petite église architecturale profondément ancrée dans l'identité locale, et faites une courte et relaxante promenade dans la cour d'entrée tranquille."
           }
         },
         {
@@ -773,7 +855,8 @@
             "de": "Arkéos",
             "hu": "Arkéos",
             "ro": "Arkéos",
-            "en": "Arkéos"
+            "en": "Arkéos",
+            "fr": "Arkéos"
           },
           "coords": [
             3.128331,
@@ -788,7 +871,8 @@
             "de": "Tauchen Sie in diesem archäologischen Museum tief in die spannende mittelalterliche Geschichte der Region ein und nehmen Sie an einer der faszinierenden interaktiven Führungen teil.",
             "hu": "Merüljön el a régió izgalmas középkori történelmében ebben a modern régészeti múzeumban, és vegyen részt az egyik lenyűgöző, interaktív és informatív tárlatvezetésen.",
             "ro": "Pătrundeți adânc în istoria medievală fascinantă a regiunii în acest muzeu arheologic modern și asigurați-vă că participați la unul dintre tururile interactive captivante.",
-            "en": "Delve deep into the region's fascinating medieval history at this modern archaeological museum, and make sure to participate in one of the highly engaging interactive guided tours."
+            "en": "Delve deep into the region's fascinating medieval history at this modern archaeological museum, and make sure to participate in one of the highly engaging interactive guided tours.",
+            "fr": "Plongez au cœur de la fascinante histoire médiévale de la région dans ce musée archéologique moderne, et assurez-vous de participer à l'une des visites guidées interactives très engageantes."
           }
         },
         {
@@ -796,7 +880,8 @@
             "de": "Bernicourt Castle Park",
             "hu": "Bernicourt kastélypark",
             "ro": "Parcul Castelului Bernicourt",
-            "en": "Bernicourt Castle Park"
+            "en": "Bernicourt Castle Park",
+            "fr": "Parc du Château de Bernicourt"
           },
           "coords": [
             3.110042,
@@ -811,7 +896,8 @@
             "de": "Entspannen Sie sich in den weiten, gepflegten Grünanlagen dieses herrlichen Schlossparks, der perfekt für Familien ist, und packen Sie einen Picknickkorb für das Mittagessen ein.",
             "hu": "Pihenjen meg e csodálatos kastélypark tágas, gondozott zöldterületein, amely tökéletes családok számára, és csomagoljon egy finom piknikkosarat a kényelmes délutáni ebédhez.",
             "ro": "Relaxați-vă în spațiile verzi vaste și îngrijite ale acestui parc magnific de castel, perfect pentru familii, și pregătiți un coș de picnic plin cu bunătăți pentru un prânz delicios.",
-            "en": "Relax in the vast, well-maintained green spaces of this magnificent castle park, which is absolutely perfect for families, and pack a delicious picnic basket for a leisurely lunch."
+            "en": "Relax in the vast, well-maintained green spaces of this magnificent castle park, which is absolutely perfect for families, and pack a delicious picnic basket for a leisurely lunch.",
+            "fr": "Détendez-vous dans les vastes espaces verts bien entretenus de ce magnifique parc du château, idéal pour les familles ; prévoyez un panier pique-nique savoureux pour un déjeuner paisible."
           }
         }
       ],
@@ -819,7 +905,8 @@
         "de": "Fahren Sie morgens bequem von der Église Saint-Géry zum Château de Bernicourt und genießen Sie die adelige Architektur.\nAm Mittag erreichen Sie schnell die Saint-Martin Church sowie das charmante Rathaus von Râches für kurze Erkundungen.\nDer Nachmittag ist für einen tiefen Einblick im modernen Arkéos-Museum und der nahen Église Saint-Léonard reserviert.\nLassen Sie den Tag im weitläufigen Bernicourt Castle Park bei einem ruhigen und erholsamen Spaziergang im Grünen ausklingen.",
         "hu": "Autózzon reggel kényelmesen az Église Saint-Géry-től a Château de Bernicourt-hoz, és élvezze a nemesi építészetet.\nDélben gyorsan elérheti a Saint-Martin templomot és Râches bájos városházát néhány rövid, de tartalmas felfedezésre.\nA délután a modern Arkéos múzeum interaktív kiállításának és a közeli Église Saint-Léonard nyugalmának van fenntartva.\nZárja a napot a tágas Bernicourt kastélyparkban egy békés és pihentető, természetközeli esti sétával a fák alatt.",
         "ro": "Conduceți confortabil dimineața de la Église Saint-Géry la Château de Bernicourt și bucurați-vă de arhitectura nobilă.\nLa prânz, ajungeți rapid la biserica Saint-Martin și la fermecătoarea primărie din Râches pentru o scurtă explorare.\nDupă-amiaza este rezervată pentru o perspectivă profundă la muzeul modern Arkéos și la apropiata Église Saint-Léonard.\nÎncheiați ziua în vastul parc al castelului Bernicourt cu o plimbare liniștită și extrem de relaxantă prin verdeața luxuriantă.",
-        "en": "Drive comfortably in the morning from Église Saint-Géry to the Château de Bernicourt and fully enjoy the noble architecture.\nAt midday, you quickly reach the Saint-Martin Church and the charming town hall of Râches for some very short explorations.\nThe afternoon is entirely reserved for a deep insight at the modern Arkéos museum and the nearby Église Saint-Léonard.\nEnd the day in the vast Bernicourt Castle Park with a quiet, refreshing, and deeply relaxing evening walk through the greenery."
+        "en": "Drive comfortably in the morning from Église Saint-Géry to the Château de Bernicourt and fully enjoy the noble architecture.\nAt midday, you quickly reach the Saint-Martin Church and the charming town hall of Râches for some very short explorations.\nThe afternoon is entirely reserved for a deep insight at the modern Arkéos museum and the nearby Église Saint-Léonard.\nEnd the day in the vast Bernicourt Castle Park with a quiet, refreshing, and deeply relaxing evening walk through the greenery.",
+        "fr": "Conduisez confortablement le matin depuis l'Église Saint-Géry jusqu'au Château de Bernicourt et profitez pleinement de l'architecture noble.\nÀ midi, vous atteignez rapidement l'Église Saint-Martin et la charmante mairie de Râches pour de courtes explorations.\nL'après-midi est entièrement réservé à une immersion au musée moderne Arkéos et à la proche Église Saint-Léonard.\nTerminez la journée dans le vaste Parc du Château de Bernicourt par une promenade reposante et rafraîchissante à travers la verdure."
       },
       "variants": {
         "rainy": {
@@ -827,7 +914,8 @@
             "de": "Genießen Sie Roost-Warendin bequem vom Auto aus, während der Regen gegen die Scheiben prasselt. Vormittags besuchen wir das prächtige Schloss Bernicourt und die Kirche Saint-Géry. Mittags erkunden wir Râches und seine Sehenswürdigkeiten. Der Nachmittag gehört dem modernen Arkéos Museum, bevor wir den Tag mit einem Blick auf den Castle Park beenden, ohne nass zu werden.",
             "hu": "Élvezze Roost-Warendint kényelmesen az autóból, miközben az eső kopog a szélvédőn. Délelőtt a pompás Bernicourt kastélyt és a Saint-Géry templomot látogatjuk meg. Délben Râches nevezetességeit fedezzük fel. A délután a modern Arkéos múzeumé, a napot pedig a kastélypark látványával zárjuk, anélkül, hogy bőrig áznánk a zuhéban.",
             "ro": "Bucurați-vă de Roost-Warendin confortabil din mașină, în timp ce ploaia bate în parbriz. Dimineața vizităm Castelul Bernicourt și Biserica Saint-Géry. La prânz explorăm obiectivele din Râches. După-amiaza este dedicată muzeului modern Arkéos, iar ziua se încheie cu o vedere spre parcul castelului, fără a ne uda prea tare.",
-            "en": "Enjoy Roost-Warendin comfortably from your car while the rain drums against the windows. In the morning, visit the grand Bernicourt Castle and Saint-Géry Church. At noon, explore the landmarks of Râches. The afternoon is dedicated to the modern Arkéos museum, and we end the day with a view of the Castle Park without getting soaked."
+            "en": "Enjoy Roost-Warendin comfortably from your car while the rain drums against the windows. In the morning, visit the grand Bernicourt Castle and Saint-Géry Church. At noon, explore the landmarks of Râches. The afternoon is dedicated to the modern Arkéos museum, and we end the day with a view of the Castle Park without getting soaked.",
+            "fr": "Appréciez Roost-Warendin confortablement depuis votre voiture tandis que la pluie tambourine contre les vitres. Le matin, visitez le grand Château de Bernicourt et l'Église Saint-Géry. À midi, explorez les monuments de Râches. L'après-midi est dédiée au musée moderne Arkéos, et nous terminons la journée par une vue sur le parc du château sans être trempé."
           },
           "stops": [
             {
@@ -835,13 +923,15 @@
                 "de": "Église Saint-Géry",
                 "hu": "Saint-Géry templom",
                 "ro": "Biserica Saint-Géry",
-                "en": "Église Saint-Géry"
+                "en": "Église Saint-Géry",
+                "fr": "Église Saint-Géry"
               },
               "tip_5lang": {
                 "de": "Ein schöner Zwischenstopp im Trockenen; direkt vor der Kirche gibt es Parkplätze, sodass Sie nur wenige Meter durch den Regen gehen müssen.",
                 "hu": "Szép megálló fedett helyen; közvetlenül a templom előtt vannak parkolóhelyek, így csak pár métert kell megtennie az esőben.",
                 "ro": "O oprire frumoasă la adăpost; există locuri de parcare chiar în fața bisericii, deci veți merge doar câțiva metri prin ploaie.",
-                "en": "A lovely dry stop; there are parking spaces right in front of the church, so you only have to walk a few meters through the rain."
+                "en": "A lovely dry stop; there are parking spaces right in front of the church, so you only have to walk a few meters through the rain.",
+                "fr": "Un bel arrêt sec ; il y a des places de stationnement juste devant l'église, vous n'avez donc que quelques mètres à parcourir sous la pluie."
               }
             },
             {
@@ -849,13 +939,15 @@
                 "de": "Château de Bernicourt",
                 "hu": "Château de Bernicourt",
                 "ro": "Château de Bernicourt",
-                "en": "Château de Bernicourt"
+                "en": "Château de Bernicourt",
+                "fr": "Château de Bernicourt"
               },
               "tip_5lang": {
                 "de": "Die Innenbesichtigung ist ideal bei Regen; parken Sie am Rand des Geländes und nutzen Sie den asphaltierten Weg zum Schloss.",
                 "hu": "A belső látogatás ideális esőben; parkoljon a terület szélén, és használja az aszfaltozott utat a kastély bejáratáig.",
                 "ro": "Vizita interioară este ideală pe ploaie; parcați la marginea domeniului și folosiți drumul asfaltat până la intrarea în castel.",
-                "en": "The indoor tour is ideal for rainy weather; park at the edge of the grounds and use the paved path to reach the castle entrance."
+                "en": "The indoor tour is ideal for rainy weather; park at the edge of the grounds and use the paved path to reach the castle entrance.",
+                "fr": "La visite intérieure est idéale par temps de pluie ; garez-vous au bord du domaine et empruntez le chemin pavé pour atteindre l'entrée du château."
               }
             },
             {
@@ -863,13 +955,15 @@
                 "de": "Saint-Martin Church",
                 "hu": "Saint-Martin templom",
                 "ro": "Biserica Saint-Martin",
-                "en": "Saint-Martin Church"
+                "en": "Saint-Martin Church",
+                "fr": "Église Saint-Martin"
               },
               "tip_5lang": {
                 "de": "Bewundern Sie die Glasfenster, während es draußen stürmt; achten Sie beim Aussteigen auf tiefere Pfützen am Straßenrand.",
                 "hu": "Csodálja meg az üvegablakokat, miközben odakint tombol a vihar; kiszálláskor ügyeljen az útmenti mélyebb tócsákra.",
                 "ro": "Admirați vitraliile în timp ce afară plouă torențial; aveți grijă la bălțile de la marginea drumului când coborâți din mașină.",
-                "en": "Admire the stained glass windows while it storms outside; watch out for deep puddles at the curb when getting out of the car."
+                "en": "Admire the stained glass windows while it storms outside; watch out for deep puddles at the curb when getting out of the car.",
+                "fr": "Admirez les vitraux tandis que l'orage gronde dehors ; attention aux flaques profondes au bord du trottoir en sortant de la voiture."
               }
             },
             {
@@ -877,13 +971,15 @@
                 "de": "Mairie de Râches",
                 "hu": "Mairie de Râches",
                 "ro": "Mairie de Râches",
-                "en": "Mairie de Râches"
+                "en": "Mairie de Râches",
+                "fr": "Mairie de Râches"
               },
               "tip_5lang": {
                 "de": "Ein kurzer Blick auf die Architektur vom Fahrersitz aus genügt; die beleuchtete Fassade sieht bei Regen besonders glänzend aus.",
                 "hu": "Egy rövid pillantás az épületre a vezetőülésből is elég; a megvilágított homlokzat esőben különösen fényesnek és elegánsnak tűnik.",
                 "ro": "O privire scurtă asupra arhitecturii de la volan este suficientă; fațada iluminată arată deosebit de strălucitoare pe ploaie.",
-                "en": "A quick look at the architecture from the driver's seat is enough; the lit facade looks especially shiny and elegant in the rain."
+                "en": "A quick look at the architecture from the driver's seat is enough; the lit facade looks especially shiny and elegant in the rain.",
+                "fr": "Un rapide coup d'œil à l'architecture depuis le siège du conducteur suffit ; la façade éclairée paraît particulièrement brillante et élégante sous la pluie."
               }
             },
             {
@@ -891,13 +987,15 @@
                 "de": "Église Saint-Léonard",
                 "hu": "Saint-Léonard templom",
                 "ro": "Biserica Saint-Léonard",
-                "en": "Église Saint-Léonard"
+                "en": "Église Saint-Léonard",
+                "fr": "Église Saint-Léonard"
               },
               "tip_5lang": {
                 "de": "Ein ruhiger Ort für eine Pause; schalten Sie das Abblendlicht ein, da die Sicht in den engen Gassen von Râches eingeschränkt sein kann.",
                 "hu": "Csendes hely egy rövid pihenőre; kapcsolja be a tompított fényszórót, mert Râches szűk utcáin esőben korlátozott lehet a látótávolság.",
                 "ro": "Un loc liniștit pentru o pauză; aprindeți faza scurtă, deoarece vizibilitatea pe străzile înguste din Râches poate fi redusă.",
-                "en": "A quiet place for a break; keep your low beams on as visibility in the narrow streets of Râches can be limited during heavy rain."
+                "en": "A quiet place for a break; keep your low beams on as visibility in the narrow streets of Râches can be limited during heavy rain.",
+                "fr": "Un endroit calme pour une pause ; gardez vos feux de croisement allumés car la visibilité dans les rues étroites de Râches peut être limitée lors de fortes pluies."
               }
             },
             {
@@ -905,13 +1003,15 @@
                 "de": "Arkéos",
                 "hu": "Arkéos",
                 "ro": "Arkéos",
-                "en": "Arkéos"
+                "en": "Arkéos",
+                "fr": "Arkéos"
               },
               "tip_5lang": {
                 "de": "Das Museum hat einen großen, befestigten Parkplatz; verbringen Sie hier die regenreichste Zeit des Nachmittags im Trockenen.",
                 "hu": "A múzeumnak nagy, burkolt parkolója van; töltse itt a délután legesősebb részét, biztonságban és teljesen szárazon.",
                 "ro": "Muzeul are o parcare mare și pavată; petreceți aici cea mai ploioasă parte a după-amiezii, la adăpost și în siguranță.",
-                "en": "The museum has a large, paved parking lot; spend the rainiest part of the afternoon here, staying completely warm and dry."
+                "en": "The museum has a large, paved parking lot; spend the rainiest part of the afternoon here, staying completely warm and dry.",
+                "fr": "Le musée dispose d’un grand parking pavé ; passez la partie la plus pluvieuse de l’après‑midi ici pour rester bien au chaud et au sec."
               }
             },
             {
@@ -919,13 +1019,15 @@
                 "de": "Bernicourt Castle Park",
                 "hu": "Bernicourt kastélypark",
                 "ro": "Parcul Castelului Bernicourt",
-                "en": "Bernicourt Castle Park"
+                "en": "Bernicourt Castle Park",
+                "fr": "Parc du Château de Bernicourt"
               },
               "tip_5lang": {
                 "de": "Beobachten Sie das Regenplätschern auf den Teichen vom Parkplatz aus; ein kurzer Spaziergang unter den Bäumen bietet natürlichen Schutz.",
                 "hu": "Figyelje a tavakon kopogó esőt a parkolóból; egy rövid séta a fák alatt természetes védelmet nyújt a kisebb szemerkélés ellen.",
                 "ro": "Priviți ploaia căzând pe iazuri din parcare; o scurtă plimbare sub copaci oferă protecție naturală împotriva stropilor.",
-                "en": "Watch the rain pattering on the ponds from the parking area; a short walk under the trees provides some natural shelter."
+                "en": "Watch the rain pattering on the ponds from the parking area; a short walk under the trees provides some natural shelter.",
+                "fr": "Regardez la pluie tomber sur les étangs depuis l’aire de stationnement ; une courte promenade sous les arbres offre un abri naturel."
               }
             }
           ]
@@ -935,7 +1037,8 @@
             "de": "Erleben Sie den winterlichen Charme von Roost-Warendin im beheizten Auto. Vormittags besichtigen wir das Schloss Bernicourt, dessen Türme gegen den klaren Winterhimmel ragen. Mittags fahren wir durch die ruhigen Straßen von Râches. Nachmittags bietet das Arkéos Museum eine warme Zuflucht. Da die Dämmerung früh einsetzt, genießen wir das Abendlicht im Castle Park, bevor die Kälte zu stark wird.",
             "hu": "Tapasztalja meg Roost-Warendin téli báját egy fűtött autó kényelméből. Délelőtt a Bernicourt kastélyt nézzük meg, melynek tornyai a tiszta téli égbolt felé nyúlnak. Délben Râches csendes utcáin autózunk. Délután az Arkéos múzeum nyújt meleg menedéket a hideg elől. Mivel korán sötétedik, a kastélypark fényeit még azelőtt élvezzük, hogy túl hideg lenne.",
             "ro": "Experimentați farmecul de iarnă al orașului Roost-Warendin din mașina încălzită. Dimineața vizităm Castelul Bernicourt, ale cărui turnuri se înalță spre cerul senin. La prânz conducem pe străzile liniștite din Râches. După-amiaza, muzeul Arkéos oferă un refugiu cald. Deoarece se întunecă devreme, ne bucurăm de parcul castelului înainte ca frigul să fie prea mare.",
-            "en": "Experience the winter charm of Roost-Warendin from the comfort of a heated car. In the morning, visit Bernicourt Castle, its towers reaching toward the clear winter sky. At noon, drive through the quiet streets of Râches. In the afternoon, the Arkéos museum provides a warm refuge. Since dusk falls early, enjoy the Castle Park lights before the temperature drops too far."
+            "en": "Experience the winter charm of Roost-Warendin from the comfort of a heated car. In the morning, visit Bernicourt Castle, its towers reaching toward the clear winter sky. At noon, drive through the quiet streets of Râches. In the afternoon, the Arkéos museum provides a warm refuge. Since dusk falls early, enjoy the Castle Park lights before the temperature drops too far.",
+            "fr": "Vivez le charme hivernal de Roost‑Warendin depuis le confort d’une voiture chauffée. Le matin, visitez le Château de Bernicourt, ses tours se dressant vers le ciel clair d’hiver. À midi, traversez les rues tranquilles de Râches. L’après‑midi, le musée Arkéos offre un refuge chaleureux. Le crépuscule tombant tôt, profitez des illuminations du Parc du Château avant que la température ne baisse trop."
           },
           "stops": [
             {
@@ -943,13 +1046,15 @@
                 "de": "Église Saint-Géry",
                 "hu": "Saint-Géry templom",
                 "ro": "Biserica Saint-Géry",
-                "en": "Église Saint-Géry"
+                "en": "Église Saint-Géry",
+                "fr": "Église Saint‑Géry"
               },
               "tip_5lang": {
                 "de": "Die Kirche ist ein friedlicher Ort zum Aufwärmen; achten Sie auf den Parkplätzen auf mögliche Eisflächen am frühen Morgen.",
                 "hu": "A templom békés hely a felmelegedéshez; a parkolókban ügyeljen az esetleges jeges foltokra, különösen a kora reggeli órákban.",
                 "ro": "Biserica este un loc liniștit pentru încălzire; aveți grijă la posibilele porțiuni cu gheață din parcare dimineața devreme.",
-                "en": "The church is a peaceful place to warm up; watch out for possible icy patches in the parking area during the early morning hours."
+                "en": "The church is a peaceful place to warm up; watch out for possible icy patches in the parking area during the early morning hours.",
+                "fr": "L’église est un lieu paisible pour se réchauffer ; attention aux plaques de verglas possibles sur le parking en tout début de matinée."
               }
             },
             {
@@ -957,13 +1062,15 @@
                 "de": "Château de Bernicourt",
                 "hu": "Château de Bernicourt",
                 "ro": "Château de Bernicourt",
-                "en": "Château de Bernicourt"
+                "en": "Château de Bernicourt",
+                "fr": "Château de Bernicourt"
               },
               "tip_5lang": {
                 "de": "Besichtigen Sie die prächtige Inneneinrichtung; im Auto können Sie zwischendurch die Heizung nutzen, um die Kälte abzuschütteln.",
                 "hu": "Tekintse meg a pompás belső berendezést; az autóban két látogatás között használja a fűtést, hogy lerázza magáról a kinti hideget.",
                 "ro": "Vizitați interiorul somptuos; în mașină puteți folosi căldura între vizite pentru a scăpa de frigul de afară.",
-                "en": "View the magnificent interior furnishings; use the car heater between stops to shake off the winter chill from outside."
+                "en": "View the magnificent interior furnishings; use the car heater between stops to shake off the winter chill from outside.",
+                "fr": "Admirez les magnifiques aménagements intérieurs ; utilisez le chauffage de la voiture entre les visites pour vous débarrasser du froid hivernal."
               }
             },
             {
@@ -971,13 +1078,15 @@
                 "de": "Saint-Martin Church",
                 "hu": "Saint-Martin templom",
                 "ro": "Biserica Saint-Martin",
-                "en": "Saint-Martin Church"
+                "en": "Saint-Martin Church",
+                "fr": "Église Saint‑Martin"
               },
               "tip_5lang": {
                 "de": "Ein stimmungsvoller Ort im Winter; lassen Sie keine Wertsachen sichtbar im Auto, wenn Sie für die Besichtigung aussteigen.",
                 "hu": "Hangulatos helyszín télen; ne hagyjon értéktárgyat látható helyen az autóban, amíg kiszáll a templom megtekintéséhez.",
                 "ro": "Un loc plin de atmosferă iarna; nu lăsați obiecte de valoare la vedere în mașină când coborâți pentru vizită.",
-                "en": "An atmospheric spot in winter; do not leave valuables visible in the car when you get out to visit the church interior."
+                "en": "An atmospheric spot in winter; do not leave valuables visible in the car when you get out to visit the church interior.",
+                "fr": "Un lieu atmosphérique en hiver ; ne laissez pas d’objets de valeur visibles dans la voiture quand vous sortez pour visiter l’intérieur de l’église."
               }
             },
             {
@@ -985,13 +1094,15 @@
                 "de": "Mairie de Râches",
                 "hu": "Mairie de Râches",
                 "ro": "Mairie de Râches",
-                "en": "Mairie de Râches"
+                "en": "Mairie de Râches",
+                "fr": "Mairie de Râches"
               },
               "tip_5lang": {
                 "de": "Das Rathaus wirkt im klaren Frostlicht besonders imposant; parken Sie kurz davor für ein schnelles Foto ohne zu frieren.",
                 "hu": "A városháza a tiszta, fagyos fényben különösen impozáns; parkoljon le előtte egy gyors fotóra, anélkül, hogy fázna.",
                 "ro": "Primăria arată impunător în lumina clară de îngheț; parcați chiar în față pentru o fotografie rapidă fără a îngheța.",
-                "en": "The town hall looks especially imposing in the clear frost light; park briefly in front for a quick photo without getting cold."
+                "en": "The town hall looks especially imposing in the clear frost light; park briefly in front for a quick photo without getting cold.",
+                "fr": "La mairie paraît particulièrement imposante sous la lumière claire du gel ; garez‑vous brièvement devant pour une photo rapide sans prendre froid."
               }
             },
             {
@@ -999,13 +1110,15 @@
                 "de": "Église Saint-Léonard",
                 "hu": "Saint-Léonard templom",
                 "ro": "Biserica Saint-Léonard",
-                "en": "Église Saint-Léonard"
+                "en": "Église Saint-Léonard",
+                "fr": "Église Saint‑Léonard"
               },
               "tip_5lang": {
                 "de": "Ein Juwel lokaler Architektur; stellen Sie sicher, dass Ihre Scheibenwaschanlage mit Frostschutz gefüllt ist für die winterlichen Straßen.",
                 "hu": "A helyi építészet ékköve; győződjön meg róla, hogy a szélvédőmosó fagyállóval van feltöltve a téli utazáshoz.",
                 "ro": "O bijuterie a arhitecturii locale; asigurați-vă că lichidul de parbriz are antigel pentru drumurile de iarnă.",
-                "en": "A gem of local architecture; ensure your windshield washer fluid is topped up with antifreeze for the winter roads."
+                "en": "A gem of local architecture; ensure your windshield washer fluid is topped up with antifreeze for the winter roads.",
+                "fr": "Un joyau de l’architecture locale ; assurez‑vous que votre lave‑glace contient un antigel adapté aux routes hivernales."
               }
             },
             {
@@ -1013,13 +1126,15 @@
                 "de": "Arkéos",
                 "hu": "Arkéos",
                 "ro": "Arkéos",
-                "en": "Arkéos"
+                "en": "Arkéos",
+                "fr": "Arkéos"
               },
               "tip_5lang": {
                 "de": "Perfekt für einen kalten Winternachmittag; das Gebäude ist gut beheizt und bietet eine interessante Zeitreise in die Vergangenheit.",
                 "hu": "Tökéletes választás egy hideg téli délutánra; az épület jól fűtött, és izgalmas időutazást kínál a múltba.",
                 "ro": "Perfect pentru o după-amiază rece de iarnă; clădirea este bine încălzită și oferă o călătorie interesantă în trecut.",
-                "en": "Perfect for a cold winter afternoon; the building is well-heated and offers an interesting journey back in time."
+                "en": "Perfect for a cold winter afternoon; the building is well-heated and offers an interesting journey back in time.",
+                "fr": "Parfait pour un après‑midi d’hiver froid ; le bâtiment est bien chauffé et propose un voyage intéressant dans le temps."
               }
             },
             {
@@ -1027,13 +1142,15 @@
                 "de": "Bernicourt Castle Park",
                 "hu": "Bernicourt Castle Park",
                 "ro": "Bernicourt Castle Park",
-                "en": "Bernicourt Castle Park"
+                "en": "Bernicourt Castle Park",
+                "fr": "Parc du Château de Bernicourt"
               },
               "tip_5lang": {
                 "de": "Genießen Sie die winterliche Stille des Parks; da es ab 17:00 Uhr dunkel wird, sollten Sie den Parkbesuch rechtzeitig einplanen.",
                 "hu": "Élvezze a park téli csendjét; mivel 17:00 órától sötétedik, a parklátogatást érdemes még világosban, időben elkezdeni.",
                 "ro": "Bucurați-vă de liniștea de iarnă a parcului; deoarece se întunecă de la ora 17:00, planificați vizita din timp.",
-                "en": "Enjoy the winter silence of the park; as it gets dark from 17:00, you should plan your park visit well in advance."
+                "en": "Enjoy the winter silence of the park; as it gets dark from 17:00, you should plan your park visit well in advance.",
+                "fr": "Appréciez le silence hivernal du parc ; comme la nuit tombe dès 17:00, planifiez bien votre visite."
               }
             }
           ]

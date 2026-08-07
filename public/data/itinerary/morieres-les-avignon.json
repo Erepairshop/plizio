@@ -21,7 +21,8 @@
             "de": "Place de la Liberté",
             "hu": "Place de la Liberté",
             "ro": "Place de la Liberté",
-            "en": "Place de la Liberté"
+            "en": "Place de la Liberté",
+            "fr": "Place de la Liberté"
           },
           "coords": [
             4.905876,
@@ -36,7 +37,8 @@
             "de": "Genießen Sie die lokale Atmosphäre auf diesem historischen zentralen Platz, dem wahren Herzen der Stadt, und holen Sie sich einen frischen Kaffee in einem Eckcafé.",
             "hu": "Szívja magába a helyi hangulatot ezen a történelmi központi téren, amely a város igazi szíve, és igyon egy friss kávét a sarki kávézóban a tökéletes reggelhez.",
             "ro": "Bucură-te de atmosfera locală în această piață centrală istorică, adevărata inimă a orașului, și savurează o cafea proaspătă la o cafenea de la colț dimineața.",
-            "en": "Soak in the local atmosphere at this historic central square, the true heart of the town, and grab a fresh coffee at a corner café to start your morning right."
+            "en": "Soak in the local atmosphere at this historic central square, the true heart of the town, and grab a fresh coffee at a corner café to start your morning right.",
+            "fr": "Imprégnez‑vous de l’ambiance locale sur cette place centrale historique, véritable cœur de la ville, et prenez un café frais dans un café du coin pour bien commencer la matinée."
           }
         },
         {
@@ -44,7 +46,8 @@
             "de": "Kirche Saint-André",
             "hu": "Saint-André templom",
             "ro": "Biserica Saint-André",
-            "en": "Saint-André Church"
+            "en": "Saint-André Church",
+            "fr": "Saint‑André Church"
           },
           "coords": [
             4.906258,
@@ -59,7 +62,8 @@
             "de": "Bewundern Sie die wunderschöne Architektur dieser friedlichen religiösen Stätte, aber denken Sie daran, sich bescheiden zu kleiden, bevor Sie das Kirchenschiff betreten.",
             "hu": "Csodálja meg ennek a békés vallási helyszínnek a gyönyörű építészetét, amely a régió történelmét tükrözi, de ne feledjen szerényen öltözni, mielőtt belép.",
             "ro": "Admiră arhitectura frumoasă a acestui sit religios pașnic, care reflectă istoria regională, dar amintește-ți să te îmbraci decent înainte de a intra în nava sa.",
-            "en": "Admire the beautiful architecture of this peaceful religious site, which reflects deep regional history, but remember to dress modestly before entering its quiet nave."
+            "en": "Admire the beautiful architecture of this peaceful religious site, which reflects deep regional history, but remember to dress modestly before entering its quiet nave.",
+            "fr": "Admirez la belle architecture de ce lieu de culte paisible, reflet d’une histoire régionale profonde, mais pensez à vous vêtir modestement avant d’entrer dans la nef tranquille."
           }
         },
         {
@@ -67,7 +71,8 @@
             "de": "Rathaus von Morières-lès-Avignon",
             "hu": "Morières-lès-Avignon Városháza",
             "ro": "Primăria Morières-lès-Avignon",
-            "en": "Town Hall of Morières-lès-Avignon"
+            "en": "Town Hall of Morières-lès-Avignon",
+            "fr": "Town Hall of Morières-lès-Avignon"
           },
           "coords": [
             4.90524,
@@ -82,7 +87,8 @@
             "de": "Betrachten Sie die klassische bürgerliche Architektur dieses lokalen Verwaltungszentrums und machen Sie zur goldenen Stunde ein schnelles Foto der bezaubernden Fassade.",
             "hu": "Figyelje meg a helyi közigazgatási központ klasszikus polgári építészetét, és készítsen egy gyors fotót a bájos homlokzatról a tökéletes fényviszonyok mellett.",
             "ro": "Observă arhitectura civică clasică a centrului administrativ local, simbol al vieții comunitare, și fă o fotografie rapidă a fațadei sale fermecătoare.",
-            "en": "Observe the classic civic architecture of the local administrative hub, symbol of community life, and take a quick photo of its charming façade during golden hour."
+            "en": "Observe the classic civic architecture of the local administrative hub, symbol of community life, and take a quick photo of its charming façade during golden hour.",
+            "fr": "Observez l’architecture civique classique du centre administratif local, symbole de la vie communautaire, et prenez une photo rapide de sa façade charmante pendant l’heure dorée."
           }
         },
         {
@@ -90,7 +96,8 @@
             "de": "Piscine",
             "hu": "Piscine",
             "ro": "Piscine",
-            "en": "Piscine"
+            "en": "Piscine",
+            "fr": "Piscine"
           },
           "coords": [
             4.90158,
@@ -105,7 +112,8 @@
             "de": "Kühlen Sie sich in diesem einladenden Familienbad ab, das hervorragende Einrichtungen für ein kurzes Schwimmen bietet, also packen Sie Ihre Badesachen ein.",
             "hu": "Hűtse le magát ebben a barátságos családi medencekomplexumban, ezért mindenképpen hozzon magával fürdőruhát és törölközőt egy frissítő napközbeni pihenéshez.",
             "ro": "Răcorește-te la acest complex de piscine familial care oferă facilități excelente, așa că ia-ți costumul de baie și un prosop pentru o pauză răcoritoare la prânz.",
-            "en": "Cool off at this welcoming family pool complex that offers excellent facilities for a quick swim, so pack your swimsuit and a towel for a refreshing midday break."
+            "en": "Cool off at this welcoming family pool complex that offers excellent facilities for a quick swim, so pack your swimsuit and a towel for a refreshing midday break.",
+            "fr": "Rafraîchissez‑vous dans ce complexe aquatique familial accueillant qui offre d’excellentes installations pour une brève baignade ; n’oubliez pas votre maillot et une serviette pour une pause revigorante au milieu de la journée."
           }
         },
         {
@@ -113,7 +121,8 @@
             "de": "Laser Game Evolution",
             "hu": "Laser Game Evolution",
             "ro": "Laser Game Evolution",
-            "en": "Laser Game Evolution"
+            "en": "Laser Game Evolution",
+            "fr": "Laser Game Evolution"
           },
           "coords": [
             4.898365,
@@ -128,7 +137,8 @@
             "de": "Fordern Sie Ihre Familie in diesem aufregenden Indoor-Unterhaltungszentrum heraus und buchen Sie Ihre Sitzung im Voraus, um Wartezeiten am Wochenende zu vermeiden.",
             "hu": "Hívja ki barátait ebben az izgalmas beltéri szórakoztatóközpontban, de ne felejtse el előre lefoglalni az időpontot, hogy elkerülje a hétvégi csúcsforgalmat.",
             "ro": "Provoacă-ți prietenii la acest centru captivant de divertisment indoor și asigură-te că îți rezervi sesiunea în avans pentru a evita așteptarea în weekend.",
-            "en": "Challenge your friends or family at this thrilling indoor entertainment center, and be sure to book your session in advance to avoid waiting during peak weekend hours."
+            "en": "Challenge your friends or family at this thrilling indoor entertainment center, and be sure to book your session in advance to avoid waiting during peak weekend hours.",
+            "fr": "Défiez vos amis ou votre famille dans ce centre de divertissement intérieur palpitant, et pensez à réserver votre session à l’avance pour éviter l’attente aux heures de pointe le week‑end."
           }
         }
       ],
@@ -136,7 +146,8 @@
         "de": "Beginnen Sie Ihren Morgen und nehmen Sie die lebendige Atmosphäre an der Place de la Liberté in sich auf. Bewegen Sie sich zur Kirche Saint-André, um die ruhige historische Architektur zu würdigen. Mittags passieren Sie das klassische Rathaus, bevor Sie ein erfrischendes Bad in der örtlichen Piscine nehmen. Beenden Sie Ihren Nachmittag mit freundschaftlichem Wettbewerb im Laser Game.",
         "hu": "Kezdje a reggelt a Place de la Liberté nyüzsgő hangulatának magába szívásával. Sétáljon el a Saint-André templomhoz, hogy megcsodálja annak békés történelmi építészetét. Délben haladjon el a klasszikus Városháza mellett, mielőtt megmártózik a helyi medencében. Zárja a délutánt energiával telve és barátságos versengéssel a Laser Game Evolutionben.",
         "ro": "Începe-ți dimineața absorbind esența plină de viață a orașului la Place de la Liberté. Mergi spre Biserica Saint-André pentru a aprecia arhitectura sa istorică senină. La prânz vei trece pe lângă Primăria clasică înainte de o baie răcoritoare la Piscina locală. Încheie-ți după-amiaza cu multă energie și competiție amicală la Laser Game Evolution.",
-        "en": "Start your morning absorbing the lively essence of Morières-lès-Avignon at Place de la Liberté. Move gracefully to the Saint-André Church to appreciate its serene historical architecture. Midday brings you past the classic Town Hall before a refreshing dip at the local Piscine. End your afternoon with high energy and friendly competition at Laser Game Evolution."
+        "en": "Start your morning absorbing the lively essence of Morières-lès-Avignon at Place de la Liberté. Move gracefully to the Saint-André Church to appreciate its serene historical architecture. Midday brings you past the classic Town Hall before a refreshing dip at the local Piscine. End your afternoon with high energy and friendly competition at Laser Game Evolution.",
+        "fr": "Commencez votre matinée en ressentant l’essence animée de Morières‑lès‑Avignon à la Place de la Liberté. Dirigez‑vous ensuite vers l’église Saint‑André pour apprécier sa sereine architecture historique. À midi, passez devant l’hôtel de ville classique avant une baignade revigorante à la piscine municipale. Terminez votre après‑midi en haute énergie avec une partie de Laser Game Evolution."
       }
     },
     "bike": {
@@ -152,7 +163,8 @@
             "de": "Place de la Liberté",
             "hu": "Place de la Liberté",
             "ro": "Place de la Liberté",
-            "en": "Place de la Liberté"
+            "en": "Place de la Liberté",
+            "fr": "Place de la Liberté"
           },
           "coords": [
             4.905876,
@@ -167,7 +179,8 @@
             "de": "Genießen Sie die lokale Atmosphäre auf diesem historischen zentralen Platz, dem wahren Herzen der Stadt, und holen Sie sich einen frischen Kaffee in einem Eckcafé.",
             "hu": "Szívja magába a helyi hangulatot ezen a történelmi központi téren, amely a város igazi szíve, és igyon egy friss kávét a sarki kávézóban a tökéletes reggelhez.",
             "ro": "Bucură-te de atmosfera locală în această piață centrală istorică, adevărata inimă a orașului, și savurează o cafea proaspătă la o cafenea de la colț dimineața.",
-            "en": "Soak in the local atmosphere at this historic central square, the true heart of the town, and grab a fresh coffee at a corner café to start your morning right."
+            "en": "Soak in the local atmosphere at this historic central square, the true heart of the town, and grab a fresh coffee at a corner café to start your morning right.",
+            "fr": "Imprégnez‑vous de l’ambiance locale sur cette place centrale historique, véritable cœur de la ville, et prenez un café frais dans un café du coin pour bien commencer la matinée."
           }
         },
         {
@@ -175,7 +188,8 @@
             "de": "Kirche Saint-André",
             "hu": "Saint-André templom",
             "ro": "Biserica Saint-André",
-            "en": "Saint-André Church"
+            "en": "Saint-André Church",
+            "fr": "Saint‑André Church"
           },
           "coords": [
             4.906258,
@@ -190,7 +204,8 @@
             "de": "Bewundern Sie die wunderschöne Architektur dieser friedlichen religiösen Stätte, aber denken Sie daran, sich bescheiden zu kleiden, bevor Sie das Kirchenschiff betreten.",
             "hu": "Csodálja meg ennek a békés vallási helyszínnek a gyönyörű építészetét, amely a régió történelmét tükrözi, de ne feledjen szerényen öltözni, mielőtt belép.",
             "ro": "Admiră arhitectura frumoasă a acestui sit religios pașnic, care reflectă istoria regională, dar amintește-ți să te îmbraci decent înainte de a intra în nava sa.",
-            "en": "Admire the beautiful architecture of this peaceful religious site, which reflects deep regional history, but remember to dress modestly before entering its quiet nave."
+            "en": "Admire the beautiful architecture of this peaceful religious site, which reflects deep regional history, but remember to dress modestly before entering its quiet nave.",
+            "fr": "Admirez la belle architecture de ce lieu de culte paisible, reflet d’une histoire régionale profonde, mais pensez à vous vêtir modestement avant d’entrer dans la nef tranquille."
           }
         },
         {
@@ -198,7 +213,8 @@
             "de": "Rathaus von Morières-lès-Avignon",
             "hu": "Morières-lès-Avignon Városháza",
             "ro": "Primăria Morières-lès-Avignon",
-            "en": "Town Hall of Morières-lès-Avignon"
+            "en": "Town Hall of Morières-lès-Avignon",
+            "fr": "Town Hall of Morières-lès-Avignon"
           },
           "coords": [
             4.90524,
@@ -213,7 +229,8 @@
             "de": "Betrachten Sie die klassische bürgerliche Architektur dieses lokalen Verwaltungszentrums und machen Sie zur goldenen Stunde ein schnelles Foto der bezaubernden Fassade.",
             "hu": "Figyelje meg a helyi közigazgatási központ klasszikus polgári építészetét, és készítsen egy gyors fotót a bájos homlokzatról a tökéletes fényviszonyok mellett.",
             "ro": "Observă arhitectura civică clasică a centrului administrativ local, simbol al vieții comunitare, și fă o fotografie rapidă a fațadei sale fermecătoare.",
-            "en": "Observe the classic civic architecture of the local administrative hub, symbol of community life, and take a quick photo of its charming façade during golden hour."
+            "en": "Observe the classic civic architecture of the local administrative hub, symbol of community life, and take a quick photo of its charming façade during golden hour.",
+            "fr": "Observez l’architecture civique classique du centre administratif local, symbole de la vie communautaire, et prenez une photo rapide de sa façade charmante pendant l’heure dorée."
           }
         },
         {
@@ -221,7 +238,8 @@
             "de": "Laser Game Evolution",
             "hu": "Laser Game Evolution",
             "ro": "Laser Game Evolution",
-            "en": "Laser Game Evolution"
+            "en": "Laser Game Evolution",
+            "fr": "Laser Game Evolution"
           },
           "coords": [
             4.898365,
@@ -236,7 +254,8 @@
             "de": "Fordern Sie Ihre Familie in diesem aufregenden Indoor-Unterhaltungszentrum heraus und buchen Sie Ihre Sitzung im Voraus, um Wartezeiten am Wochenende zu vermeiden.",
             "hu": "Hívja ki barátait ebben az izgalmas beltéri szórakoztatóközpontban, de ne felejtse el előre lefoglalni az időpontot, hogy elkerülje a hétvégi csúcsforgalmat.",
             "ro": "Provoacă-ți prietenii la acest centru captivant de divertisment indoor și asigură-te că îți rezervi sesiunea în avans pentru a evita așteptarea în weekend.",
-            "en": "Challenge your friends or family at this thrilling indoor entertainment center, and be sure to book your session in advance to avoid waiting during peak weekend hours."
+            "en": "Challenge your friends or family at this thrilling indoor entertainment center, and be sure to book your session in advance to avoid waiting during peak weekend hours.",
+            "fr": "Défiez vos amis ou votre famille dans ce centre de divertissement intérieur palpitant, et pensez à réserver votre session à l’avance pour éviter l’attente aux heures de pointe le week‑end."
           }
         },
         {
@@ -244,7 +263,8 @@
             "de": "Vaucluse-Kanal",
             "hu": "Vaucluse csatorna",
             "ro": "Canalul Vaucluse",
-            "en": "Vaucluse Canal"
+            "en": "Vaucluse Canal",
+            "fr": "Vaucluse Canal"
           },
           "coords": [
             4.875552,
@@ -259,7 +279,8 @@
             "de": "Spazieren Sie an den ruhigen Gewässern dieses historischen Kanals entlang und bringen Sie ein kleines Picknick mit, um sich an den schattigen Ufern zu entspannen.",
             "hu": "Sétáljon vagy kerékpározzon e történelmi csatorna békés vize mentén, és hozzon magával egy kis pikniket, hogy élvezze a pihenést az árnyékos partokon.",
             "ro": "Plimbă-te de-a lungul apelor liniștite ale acestui canal istoric înconjurat de verdeață și adu un mic picnic pentru a te bucura de odihnă pe malurile sale.",
-            "en": "Stroll or cycle along the serene waters of this historic canal surrounded by lush greenery, and bring a small picnic to enjoy a peaceful rest on its shaded banks."
+            "en": "Stroll or cycle along the serene waters of this historic canal surrounded by lush greenery, and bring a small picnic to enjoy a peaceful rest on its shaded banks.",
+            "fr": "Promenez‑vous ou faites du vélo le long des eaux sereines de ce canal historique entouré de verdure, et apportez un petit pique‑nique pour profiter d’un repos paisible sur ses berges ombragées."
           }
         },
         {
@@ -267,7 +288,8 @@
             "de": "Piscine municipale Jean Clément",
             "hu": "Piscine municipale Jean Clément",
             "ro": "Piscina municipală Jean Clément",
-            "en": "Piscine municipale Jean Clément"
+            "en": "Piscine municipale Jean Clément",
+            "fr": "Piscine municipale Jean Clément"
           },
           "coords": [
             4.878408,
@@ -282,7 +304,8 @@
             "de": "Genießen Sie ein ausgiebiges Schwimmen in dieser geräumigen städtischen Einrichtung, aber vergessen Sie nicht, vor Ihrem Besuch die saisonalen Öffnungszeiten zu prüfen.",
             "hu": "Élvezze a kiadós úszást ebben a tágas önkormányzati létesítményben, de látogatás előtt mindenképpen ellenőrizze a szezonális nyitvatartási időt és a szabályokat.",
             "ro": "Bucură-te de o înotare revigorantă în această facilitate municipală spațioasă, doar amintește-ți să verifici programul sezonier de funcționare înainte de vizită.",
-            "en": "Enjoy a robust swim in this spacious municipal facility, featuring lanes perfect for exercise, just remember to check the seasonal opening hours before your visit."
+            "en": "Enjoy a robust swim in this spacious municipal facility, featuring lanes perfect for exercise, just remember to check the seasonal opening hours before your visit.",
+            "fr": "Profitez d’une bonne séance de natation dans cette vaste installation municipale, avec des couloirs parfaits pour l’exercice ; pensez à vérifier les horaires d’ouverture saisonniers avant votre visite."
           }
         }
       ],
@@ -290,7 +313,8 @@
         "de": "Beginnen Sie Ihre Radtour an der zentralen Place de la Liberté und genießen Sie das morgendliche Treiben. Radeln Sie kurz zur Kirche Saint-André und zum nahe gelegenen Rathaus. Ihre Mittagsfahrt führt Sie zum Laser Game Evolution für ein aufregendes Indoor-Abenteuer. Entspannen Sie sich später am ruhigen Vaucluse-Kanal, bevor Sie mit einem Bad im Jean Clément Pool abschließen.",
         "hu": "Kezdje kerékpáros túráját a központi Place de la Liberté téren, élvezve a reggeli nyüzsgést. Tekerjen el a Saint-André templomhoz és a Városházához a helyi örökség megismeréséért. A déli utazás a Laser Game Evolutionhöz vezet egy izgalmas beltéri kalandra. Később pihenjen meg a Vaucluse csatorna mellett, mielőtt a Jean Clément medencében fejezné be a napot.",
         "ro": "Începe turul cu bicicleta în Place de la Liberté, bucurându-te de forfota dimineții. Pedalează scurt până la Biserica Saint-André și Primăria din apropiere. Plimbarea de prânz te duce la Laser Game Evolution pentru o aventură captivantă. Mai târziu, relaxează-te pe malul liniștit al Canalului Vaucluse înainte de a termina cu o baie relaxantă la piscina Jean Clément.",
-        "en": "Kick off your cycling tour at the central Place de la Liberté, enjoying the morning buzz. Pedal briefly to Saint-André Church and the nearby Town Hall to soak in local heritage. Your midday ride takes you to Laser Game Evolution for an exciting indoor adventure. Later, unwind by the tranquil Vaucluse Canal before finishing with a relaxing swim at the Jean Clément pool."
+        "en": "Kick off your cycling tour at the central Place de la Liberté, enjoying the morning buzz. Pedal briefly to Saint-André Church and the nearby Town Hall to soak in local heritage. Your midday ride takes you to Laser Game Evolution for an exciting indoor adventure. Later, unwind by the tranquil Vaucluse Canal before finishing with a relaxing swim at the Jean Clément pool.",
+        "fr": "Commencez votre circuit à vélo sur la place centrale Place de la Liberté, en profitant de l’animation du matin. Pédalez brièvement jusqu’à l’église Saint‑André et à l’hôtel de ville à proximité pour vous imprégner du patrimoine local. Votre sortie de midi vous mène à Laser Game Evolution pour une aventure intérieure excitante. Ensuite, détendez‑vous le long du paisible canal de Vaucluse avant de finir par une baignade relaxante à la piscine Jean Clément."
       }
     },
     "car": {
@@ -306,7 +330,8 @@
             "de": "Place de la Liberté",
             "hu": "Place de la Liberté",
             "ro": "Place de la Liberté",
-            "en": "Place de la Liberté"
+            "en": "Place de la Liberté",
+            "fr": "Place de la Liberté"
           },
           "coords": [
             4.905876,
@@ -321,7 +346,8 @@
             "de": "Genießen Sie die lokale Atmosphäre auf diesem historischen zentralen Platz, dem wahren Herzen der Stadt, und holen Sie sich einen frischen Kaffee in einem Eckcafé.",
             "hu": "Szívja magába a helyi hangulatot ezen a történelmi központi téren, amely a város igazi szíve, és igyon egy friss kávét a sarki kávézóban a tökéletes reggelhez.",
             "ro": "Bucură-te de atmosfera locală în această piață centrală istorică, adevărata inimă a orașului, și savurează o cafea proaspătă la o cafenea de la colț dimineața.",
-            "en": "Soak in the local atmosphere at this historic central square, the true heart of the town, and grab a fresh coffee at a corner café to start your morning right."
+            "en": "Soak in the local atmosphere at this historic central square, the true heart of the town, and grab a fresh coffee at a corner café to start your morning right.",
+            "fr": "Imprégnez‑vous de l’ambiance locale sur cette place centrale historique, véritable cœur de la ville, et prenez un café frais dans un café du coin pour bien commencer la matinée."
           }
         },
         {
@@ -329,7 +355,8 @@
             "de": "Kirche Saint-André",
             "hu": "Saint-André templom",
             "ro": "Biserica Saint-André",
-            "en": "Saint-André Church"
+            "en": "Saint-André Church",
+            "fr": "Saint‑André Church"
           },
           "coords": [
             4.906258,
@@ -344,7 +371,8 @@
             "de": "Bewundern Sie die wunderschöne Architektur dieser friedlichen religiösen Stätte, aber denken Sie daran, sich bescheiden zu kleiden, bevor Sie das Kirchenschiff betreten.",
             "hu": "Csodálja meg ennek a békés vallási helyszínnek a gyönyörű építészetét, amely a régió történelmét tükrözi, de ne feledjen szerényen öltözni, mielőtt belép.",
             "ro": "Admiră arhitectura frumoasă a acestui sit religios pașnic, care reflectă istoria regională, dar amintește-ți să te îmbraci decent înainte de a intra în nava sa.",
-            "en": "Admire the beautiful architecture of this peaceful religious site, which reflects deep regional history, but remember to dress modestly before entering its quiet nave."
+            "en": "Admire the beautiful architecture of this peaceful religious site, which reflects deep regional history, but remember to dress modestly before entering its quiet nave.",
+            "fr": "Admirez la belle architecture de ce lieu de culte paisible, reflet d’une histoire régionale profonde, mais pensez à vous vêtir modestement avant d’entrer dans la nef tranquille."
           }
         },
         {
@@ -352,7 +380,8 @@
             "de": "Rathaus von Morières-lès-Avignon",
             "hu": "Morières-lès-Avignon Városháza",
             "ro": "Primăria Morières-lès-Avignon",
-            "en": "Town Hall of Morières-lès-Avignon"
+            "en": "Town Hall of Morières-lès-Avignon",
+            "fr": "Town Hall of Morières-lès-Avignon"
           },
           "coords": [
             4.90524,
@@ -367,7 +396,8 @@
             "de": "Betrachten Sie die klassische bürgerliche Architektur dieses lokalen Verwaltungszentrums und machen Sie zur goldenen Stunde ein schnelles Foto der bezaubernden Fassade.",
             "hu": "Figyelje meg a helyi közigazgatási központ klasszikus polgári építészetét, és készítsen egy gyors fotót a bájos homlokzatról a tökéletes fényviszonyok mellett.",
             "ro": "Observă arhitectura civică clasică a centrului administrativ local, simbol al vieții comunitare, și fă o fotografie rapidă a fațadei sale fermecătoare.",
-            "en": "Observe the classic civic architecture of the local administrative hub, symbol of community life, and take a quick photo of its charming façade during golden hour."
+            "en": "Observe the classic civic architecture of the local administrative hub, symbol of community life, and take a quick photo of its charming façade during golden hour.",
+            "fr": "Observez l’architecture civique classique du centre administratif local, symbole de la vie communautaire, et prenez une photo rapide de sa façade charmante pendant l’heure dorée."
           }
         },
         {
@@ -375,7 +405,8 @@
             "de": "Park Clos de la Murette",
             "hu": "Clos de la Murette park",
             "ro": "Parcul Clos de la Murette",
-            "en": "Park Clos de la Murette"
+            "en": "Park Clos de la Murette",
+            "fr": "Park Clos de la Murette"
           },
           "coords": [
             4.839334,
@@ -390,7 +421,8 @@
             "de": "Entspannen Sie sich in dieser weitläufigen Erholungsgrünfläche und lassen Sie die Kinder die Spielplätze erkunden, während Sie sich auf einer gemütlichen Bank ausruhen.",
             "hu": "Pihenjen ebben a hatalmas rekreációs zöldövezetben, amely tökéletes a feltöltődéshez, és hagyja, hogy a gyerekek felfedezzék a játszótereket a fák árnyékában.",
             "ro": "Relaxează-te în acest spațiu verde de recreere, perfect pentru a te deconecta, și lasă copiii să exploreze locurile de joacă în timp ce te odihnești pe o bancă.",
-            "en": "Relax in this expansive recreational green space, perfect for unwinding in nature, and let the kids explore the playgrounds while you rest on a comfortable bench."
+            "en": "Relax in this expansive recreational green space, perfect for unwinding in nature, and let the kids explore the playgrounds while you rest on a comfortable bench.",
+            "fr": "Détendez‑vous dans ce vaste espace vert récréatif, parfait pour se ressourcer en pleine nature, et laissez les enfants explorer les aires de jeux pendant que vous vous reposez sur un banc confortable."
           }
         },
         {
@@ -398,7 +430,8 @@
             "de": "Vaucluse-Kanal",
             "hu": "Vaucluse csatorna",
             "ro": "Canalul Vaucluse",
-            "en": "Vaucluse Canal"
+            "en": "Vaucluse Canal",
+            "fr": "Vaucluse Canal"
           },
           "coords": [
             4.875552,
@@ -413,7 +446,8 @@
             "de": "Spazieren Sie an den ruhigen Gewässern dieses historischen Kanals entlang und bringen Sie ein kleines Picknick mit, um sich an den schattigen Ufern zu entspannen.",
             "hu": "Sétáljon vagy kerékpározzon e történelmi csatorna békés vize mentén, és hozzon magával egy kis pikniket, hogy élvezze a pihenést az árnyékos partokon.",
             "ro": "Plimbă-te de-a lungul apelor liniștite ale acestui canal istoric înconjurat de verdeață și adu un mic picnic pentru a te bucura de odihnă pe malurile sale.",
-            "en": "Stroll or cycle along the serene waters of this historic canal surrounded by lush greenery, and bring a small picnic to enjoy a peaceful rest on its shaded banks."
+            "en": "Stroll or cycle along the serene waters of this historic canal surrounded by lush greenery, and bring a small picnic to enjoy a peaceful rest on its shaded banks.",
+            "fr": "Promenez‑vous ou faites du vélo le long des eaux sereines de ce canal historique entouré de verdure, et apportez un petit pique‑nique pour profiter d’un repos paisible sur ses berges ombragées."
           }
         },
         {
@@ -421,7 +455,8 @@
             "de": "Laser Game Evolution",
             "hu": "Laser Game Evolution",
             "ro": "Laser Game Evolution",
-            "en": "Laser Game Evolution"
+            "en": "Laser Game Evolution",
+            "fr": "Laser Game Evolution"
           },
           "coords": [
             4.898365,
@@ -436,7 +471,8 @@
             "de": "Fordern Sie Ihre Familie in diesem aufregenden Indoor-Unterhaltungszentrum heraus und buchen Sie Ihre Sitzung im Voraus, um Wartezeiten am Wochenende zu vermeiden.",
             "hu": "Hívja ki barátait ebben az izgalmas beltéri szórakoztatóközpontban, de ne felejtse el előre lefoglalni az időpontot, hogy elkerülje a hétvégi csúcsforgalmat.",
             "ro": "Provoacă-ți prietenii la acest centru captivant de divertisment indoor și asigură-te că îți rezervi sesiunea în avans pentru a evita așteptarea în weekend.",
-            "en": "Challenge your friends or family at this thrilling indoor entertainment center, and be sure to book your session in advance to avoid waiting during peak weekend hours."
+            "en": "Challenge your friends or family at this thrilling indoor entertainment center, and be sure to book your session in advance to avoid waiting during peak weekend hours.",
+            "fr": "Défiez vos amis ou votre famille dans ce centre de divertissement intérieur palpitant, et pensez à réserver votre session à l’avance pour éviter l’attente aux heures de pointe le week‑end."
           }
         },
         {
@@ -444,7 +480,8 @@
             "de": "Piscine municipale Jean Clément",
             "hu": "Piscine municipale Jean Clément",
             "ro": "Piscina municipală Jean Clément",
-            "en": "Piscine municipale Jean Clément"
+            "en": "Piscine municipale Jean Clément",
+            "fr": "Piscine municipale Jean Clément"
           },
           "coords": [
             4.878408,
@@ -459,7 +496,8 @@
             "de": "Genießen Sie ein ausgiebiges Schwimmen in dieser geräumigen städtischen Einrichtung, aber vergessen Sie nicht, vor Ihrem Besuch die saisonalen Öffnungszeiten zu prüfen.",
             "hu": "Élvezze a kiadós úszást ebben a tágas önkormányzati létesítményben, de látogatás előtt mindenképpen ellenőrizze a szezonális nyitvatartási időt és a szabályokat.",
             "ro": "Bucură-te de o înotare revigorantă în această facilitate municipală spațioasă, doar amintește-ți să verifici programul sezonier de funcționare înainte de vizită.",
-            "en": "Enjoy a robust swim in this spacious municipal facility, featuring lanes perfect for exercise, just remember to check the seasonal opening hours before your visit."
+            "en": "Enjoy a robust swim in this spacious municipal facility, featuring lanes perfect for exercise, just remember to check the seasonal opening hours before your visit.",
+            "fr": "Profitez d’une bonne séance de natation dans cette vaste installation municipale, avec des couloirs parfaits pour l’exercice ; pensez à vérifier les horaires d’ouverture saisonniers avant votre visite."
           }
         }
       ],
@@ -467,7 +505,8 @@
         "de": "Ihre umfassende Autotour beginnt im Stadtzentrum an der Place de la Liberté und der historischen Kirche. Nach der Bewunderung des Rathauses fahren Sie zum Park Clos de la Murette für einen ruhigen Spaziergang. Verbringen Sie Ihren Nachmittag am malerischen Vaucluse-Kanal, gefolgt von Action im Laser Game Evolution. Beenden Sie Ihren Abend entspannt im städtischen Schwimmbad.",
         "hu": "Átfogó autós túrája a városközpontban kezdődik a Place de la Liberté téren és a történelmi templomnál. A Városháza megcsodálása után vezessen a Park Clos de la Murette felé egy békés sétára. A délutánt a festői Vaucluse csatorna felfedezésével töltse, majd irány a Laser Game Evolution. Zárja az estét a Jean Clément városi medencében lazítva.",
         "ro": "Turul tău cuprinzător cu mașina începe în centrul orașului la Place de la Liberté și Biserica istorică Saint-André. După ce admiri Primăria, condu spre Parcul Clos de la Murette. Petrece-ți după-amiaza explorând pitorescul Canal Vaucluse, urmat de acțiune la Laser Game Evolution. Încheie-ți seara relaxându-te la piscina municipală Jean Clément.",
-        "en": "Your comprehensive driving tour starts in the town center at Place de la Liberté and the historic Saint-André Church. After admiring the Town Hall, drive out to Park Clos de la Murette for a peaceful mid-morning stroll. Spend your afternoon exploring the scenic Vaucluse Canal, followed by action at Laser Game Evolution. Conclude your evening unwinding at the Jean Clément municipal pool."
+        "en": "Your comprehensive driving tour starts in the town center at Place de la Liberté and the historic Saint-André Church. After admiring the Town Hall, drive out to Park Clos de la Murette for a peaceful mid-morning stroll. Spend your afternoon exploring the scenic Vaucluse Canal, followed by action at Laser Game Evolution. Conclude your evening unwinding at the Jean Clément municipal pool.",
+        "fr": "Votre circuit complet en voiture commence au centre‑ville sur la Place de la Liberté et à la historicité église Saint‑André. Après avoir admiré l’hôtel de ville, conduisez jusqu’au Park Clos de la Murette pour une paisible promenade de fin de matinée. Passez l’après‑midi à explorer le pittoresque canal de Vaucluse, suivi d’une séance dynamique à Laser Game Evolution. Concluez votre soirée en vous détendant à la piscine municipale Jean Clément."
       }
     }
   }

@@ -51,7 +51,7 @@
             "hu": "Az emlékmű a híres költő, Francesco Petrarca előtt tiszteleg.",
             "ro": "Monumentul îl onorează pe celebrul poet Francesco Petrarca.",
             "en": "The monument honors the famous poet Francesco Petrarca.",
-            "fr": "Le monument rend hommage au célèbre poète Francesco Petrarca."
+            "fr": "Le monument honore le célèbre poète Francesco Petrarca."
           }
         },
         {
@@ -70,7 +70,7 @@
             "hu": "Nézze meg, hogyan készül a papír középkori módszerekkel.",
             "ro": "Vedeți cum se fabrică hârtia prin metode medievale.",
             "en": "Watch how paper is made using medieval methods.",
-            "fr": "Observez la fabrication du papier selon des méthodes médiévales."
+            "fr": "Regardez comment le papier est fabriqué selon des méthodes médiévales."
           }
         },
         {
@@ -89,7 +89,7 @@
             "hu": "Látogasson el tavasszal a forráshoz a legnagyobb vízhozamért.",
             "ro": "Vizitați izvorul primăvara pentru cel mai mare debit.",
             "en": "Visit the spring in spring for the highest water flow.",
-            "fr": "Visitez la source au printemps pour le débit d'eau le plus élevé."
+            "fr": "Visitez la source au printemps pour le débit le plus fort."
           }
         },
         {
@@ -108,7 +108,7 @@
             "hu": "Ismerje meg a régió ellenállási mozgalmát a háború alatt.",
             "ro": "Aflați despre rezistența din regiune în timpul războiului.",
             "en": "Learn about the region's resistance during the war.",
-            "fr": "Découvrez la résistance de la région pendant la guerre."
+            "fr": "Renseignez-vous sur la résistance de la région pendant la guerre."
           }
         },
         {
@@ -127,7 +127,7 @@
             "hu": "A feljutás után fantasztikus kilátás nyílik a falura.",
             "ro": "Urcarea oferă o vedere fantastică asupra satului.",
             "en": "The climb offers a fantastic view over the village.",
-            "fr": "La montée offre une vue fantastique sur le village."
+            "fr": "L'ascension offre une vue fantastique sur le village."
           }
         },
         {
@@ -155,7 +155,7 @@
         "hu": "Kezdje a napot a román stílusú templomnál, majd sétáljon el a Petrarca-emlékmű mellett. Az út a történelmi papírmalomhoz vezet, ahol megállt az idő. Délben éri el a Sorgue lenyűgöző forrását, a falu smaragdzöld szívét. A délután a történelemé és a titokzatos földalatti világé, a napot pedig a várromhoz való felkapaszkodás zárja a lágy fényekben.",
         "ro": "Începeți ziua la biserica romanică, apoi treceți pe lângă monumentul lui Petrarca. Drumul vă duce la moara de hârtie istorică, unde timpul pare să stea în loc. La prânz veți ajunge la impresionantul izvor al râului Sorgue, inima de smarald a satului. După-amiaza este dedicată istoriei și lumii subterane misterioase, încheind cu urcarea la ruinele castelului în lumina blândă.",
         "en": "Start your day at the Romanesque church, then stroll past the Petrarch monument. The path leads to the historical paper mill, where time seems to stand still. At midday, reach the impressive spring of the Sorgue, the emerald heart of the village. The afternoon is dedicated to history and the mysterious underground world, concluding with a climb to the castle ruins in the soft light.",
-        "fr": "Commencez votre journée à l'église romane, puis passez devant le monument de Pétrarque. Le sentier mène au moulin à papier historique, où le temps semble s'être arrêté. À midi, atteignez l'impressionnante source de la Sorgue, le cœur émeraude du village. L'après-midi est dédié à l'histoire et au monde souterrain mystérieux, se terminant par une montée aux ruines du château dans la lumière douce du soir."
+        "fr": "Commencez la journée à l'église romane, puis passez devant le monument à Pétrarque. Le sentier mène à la papeterie historique, où le temps semble suspendu. À midi, atteignez l'impressionnante source de la Sorgue, le cœur émeraude du village. L'après-midi est consacré à l'histoire et au monde souterrain mystérieux, pour conclure par une montée aux ruines du château à la lumière douce."
       },
       "gastro_picks": {
         "de": [
@@ -349,10 +349,10 @@
           "Parking in the village center is difficult and expensive."
         ],
         "fr": [
-          "Portez des chaussures confortables pour la marche vers le Gouffre.",
+          "Portez des chaussures confortables pour la marche jusqu'au Gouffre.",
           "Visitez le village en semaine pour éviter la foule.",
-          "L'eau est glacée, même en été.",
-          "Le stationnement au centre du village est difficile et coûteux."
+          "L'eau est glacée même en été.",
+          "Le stationnement au centre du village est difficile et cher."
         ]
       }
     },
@@ -379,7 +379,8 @@
             "de": "Ein schöner Stopp am Eingang des Tals.",
             "hu": "Szép megálló a völgy bejáratánál.",
             "ro": "O oprire frumoasă la intrarea în vale.",
-            "en": "A beautiful stop at the entrance of the valley."
+            "en": "A beautiful stop at the entrance of the valley.",
+            "fr": "Une belle halte à l'entrée de la vallée."
           }
         },
         {
@@ -397,7 +398,8 @@
             "de": "Fahrräder sicher vor dem Gebäude abstellen.",
             "hu": "A kerékpárokat biztonságosan az épület előtt hagyhatja.",
             "ro": "Lăsați bicicletele în siguranță în fața clădirii.",
-            "en": "Park bikes safely in front of the building."
+            "en": "Park bikes safely in front of the building.",
+            "fr": "Garez les vélos en sécurité devant le bâtiment."
           }
         },
         {
@@ -415,7 +417,8 @@
             "de": "Der letzte Abschnitt zum Quelltopf muss zu Fuß gehen.",
             "hu": "Az utolsó szakaszt a forráshoz gyalog kell megtenni.",
             "ro": "Ultima porțiune spre izvor trebuie parcursă pe jos.",
-            "en": "The final section to the spring must be done on foot."
+            "en": "The final section to the spring must be done on foot.",
+            "fr": "La dernière portion jusqu'à la source se fait à pied."
           }
         },
         {
@@ -433,7 +436,8 @@
             "de": "Interessante Einblicke in die lokale Geschichte.",
             "hu": "Érdekes betekintés a helyi történelembe.",
             "ro": "Informații interesante despre istoria locală.",
-            "en": "Interesting insights into local history."
+            "en": "Interesting insights into local history.",
+            "fr": "Aperçus intéressants de l'histoire locale."
           }
         },
         {
@@ -451,7 +455,8 @@
             "de": "Kühle Erholung in der alten Kirche.",
             "hu": "Hűvös pihenő a régi templomban.",
             "ro": "Relaxare răcoroasă în vechea biserică.",
-            "en": "Cool respite in the old church."
+            "en": "Cool respite in the old church.",
+            "fr": "Une fraîcheur bienvenue dans l'ancienne église."
           }
         },
         {
@@ -469,7 +474,8 @@
             "de": "Ideal zum Abschluss der Tour.",
             "hu": "Ideális zárása a túrának.",
             "ro": "Ideal pentru încheierea turului.",
-            "en": "Ideal way to end the tour."
+            "en": "Ideal way to end the tour.",
+            "fr": "Façon idéale de terminer la visite."
           }
         }
       ],
@@ -478,7 +484,7 @@
         "hu": "Kerekezzen a festői völgyben az impozáns Galas-vízvezetékig. Ezután az út enyhén emelkedik a falu felé, ahol felfedezheti a papírmalom kézművességét és a titokzatos forrást. Élvezze a kétkeréken nyújtott szabadságot a történelem és a természet között.",
         "ro": "Pedalați prin valea pitorească până la impunătorul apeduct Galas. Apoi drumul urcă ușor spre sat, unde descoperiți măiestria morii de hârtie și izvorul mistic. Bucurați-vă de libertatea pe două roți între istorie și natură.",
         "en": "Cycle through the picturesque valley to the imposing Galas aqueduct. Then the path leads gently uphill to the village, where you discover the craftsmanship of the paper mill and the mystical spring. Enjoy the freedom on two wheels between history and nature.",
-        "fr": "Pédalez à travers la vallée pittoresque jusqu'à l'imposant aqueduc de Galas. Ensuite, le chemin monte doucement vers le village, où vous découvrirez l'artisanat du moulin à papier et la source mystique. Profitez de la liberté sur deux roues entre histoire et nature."
+        "fr": "Parcourez la vallée pittoresque à vélo jusqu'à l'imposant aqueduc de Galas. Ensuite le chemin monte doucement vers le village, où vous découvrez le savoir-faire de la papeterie et la source mystique. Savourez la liberté à deux roues entre histoire et nature."
       },
       "gastro_picks": {
         "de": [
@@ -607,10 +613,10 @@
           "Take plenty of water with you."
         ],
         "fr": [
-          "Louez un vélo électrique pour les montées.",
-          "Faites attention aux randonneurs sur les sentiers étroits.",
+          "Louez un VAE pour les côtes.",
+          "Attention aux randonneurs sur les sentiers étroits.",
           "La route vers Galas est assez étroite.",
-          "Emportez beaucoup d'water avec vous."
+          "Prenez suffisamment d'eau avec vous."
         ]
       }
     },
@@ -637,7 +643,8 @@
             "de": "Parkplatz direkt unter dem Aquädukt.",
             "hu": "Parkoló közvetlenül a vízvezeték alatt.",
             "ro": "Parcare chiar sub apeduct.",
-            "en": "Parking right under the aqueduct."
+            "en": "Parking right under the aqueduct.",
+            "fr": "Parking juste sous l'aqueduc."
           }
         },
         {
@@ -655,7 +662,8 @@
             "de": "Nutzen Sie den großen Parkplatz am Ortseingang.",
             "hu": "Használja a falu bejáratánál lévő nagy parkolót.",
             "ro": "Folosiți parcarea mare de la intrarea în sat.",
-            "en": "Use the large parking lot at the village entrance."
+            "en": "Use the large parking lot at the village entrance.",
+            "fr": "Utilisez le grand parking à l'entrée du village."
           }
         },
         {
@@ -673,7 +681,8 @@
             "de": "Interessante Vorführungen alle 30 Minuten.",
             "hu": "Érdekes bemutatók 30 percenként.",
             "ro": "Demonstrații interesante la fiecare 30 de minute.",
-            "en": "Interesting demonstrations every 30 minutes."
+            "en": "Interesting demonstrations every 30 minutes.",
+            "fr": "Démonstrations intéressantes toutes les 30 minutes."
           }
         },
         {
@@ -691,7 +700,8 @@
             "de": "Klimatisiert, perfekt für die Mittagshitze.",
             "hu": "Légkondicionált, tökéletes a déli hőségben.",
             "ro": "Aer condiționat, perfect pentru căldura amiezii.",
-            "en": "Air-conditioned, perfect for the midday heat."
+            "en": "Air-conditioned, perfect for the midday heat.",
+            "fr": "Climatisé, parfait pour la chaleur de midi."
           }
         },
         {
@@ -709,7 +719,8 @@
             "de": "Das Grab des Heiligen ist in der Krypta.",
             "hu": "A szent sírja a kriptában található.",
             "ro": "Mormântul sfântului se află în criptă.",
-            "en": "The saint's tomb is in the crypt."
+            "en": "The saint's tomb is in the crypt.",
+            "fr": "Le tombeau du saint se trouve dans la crypte."
           }
         },
         {
@@ -727,7 +738,8 @@
             "de": "Letzter Blick vor der Abfahrt.",
             "hu": "Utolsó pillantás a falura indulás előtt.",
             "ro": "Ultima vedere înainte de plecare.",
-            "en": "Final view before departure."
+            "en": "Final view before departure.",
+            "fr": "Dernière vue avant le départ."
           }
         }
       ],
@@ -736,7 +748,7 @@
         "hu": "Autóval könnyedén elérheti a távolabbi látnivalókat is, mint például a Galas-vízvezetéket. A faluba érve hagyja az autót a parkolóban, és fedezze fel gyalogosan a smaragdzöld forrást és a múzeumokat. A kényelem és a felfedezés ideális kombinációja.",
         "ro": "Cu mașina puteți ajunge cu ușurință la obiectivele mai îndepărtate, cum ar fi apeductul Galas. Odată ajunși în sat, lăsați mașina și explorați izvorul de smarald și muzeele pe jos. O combinație ideală între confort și descoperire.",
         "en": "By car, you can easily reach more distant sights like the Galas aqueduct. Once in the village, leave the car and explore the emerald spring and museums on foot. An ideal combination of comfort and discovery.",
-        "fr": "En voiture, vous pouvez facilement atteindre des sites plus éloignés comme l'aqueduc de Galas. Une fois au village, laissez la voiture et explorez la source d'émeraude et les musées à pied. Une combinaison idéale de confort et de découverte."
+        "fr": "En voiture, vous pouvez facilement atteindre des sites plus éloignés comme l'aqueduc de Galas. Une fois au village, laissez la voiture et explorez la source émeraude et les musées à pied. Une combinaison idéale de confort et de découverte."
       },
       "gastro_picks": {
         "de": [
@@ -869,7 +881,7 @@
           "Refuel before the valley."
         ],
         "fr": [
-          "Réservez vos tickets de parking en ligne à l'avance.",
+          "Réservez les billets de parking en ligne à l'avance.",
           "L'accès au village peut être encombré le week-end.",
           "Les routes sont étroites.",
           "Faites le plein avant d'entrer dans la vallée."
@@ -899,7 +911,8 @@
             "de": "Bushaltestelle ist nur 5 Minuten entfernt.",
             "hu": "A buszmegálló mindössze 5 percre van.",
             "ro": "Stația de autobuz este la doar 5 minute distanță.",
-            "en": "Bus stop is only 5 minutes away."
+            "en": "Bus stop is only 5 minutes away.",
+            "fr": "L'arrêt de bus est à seulement 5 minutes."
           }
         },
         {
@@ -917,7 +930,8 @@
             "de": "Ein Muss für jeden Transit-Reisenden.",
             "hu": "Minden tömegközlekedéssel utazónak kötelező látnivaló.",
             "ro": "O necesitate pentru orice călător cu transportul public.",
-            "en": "A must-see for every transit traveler."
+            "en": "A must-see for every transit traveler.",
+            "fr": "Un passage incontournable pour tout voyageur de transit."
           }
         },
         {
@@ -935,7 +949,8 @@
             "de": "Guter Ort für Souvenirs.",
             "hu": "Jó hely szuvenírek vásárlására.",
             "ro": "Loc bun pentru suveniruri.",
-            "en": "Good place for souvenirs."
+            "en": "Good place for souvenirs.",
+            "fr": "Bon endroit pour des souvenirs."
           }
         },
         {
@@ -953,7 +968,8 @@
             "de": "Interessante regionale Geschichte.",
             "hu": "Érdekes regionális történelem.",
             "ro": "Istorie regională interesantă.",
-            "en": "Interesting regional history."
+            "en": "Interesting regional history.",
+            "fr": "Histoire régionale intéressante."
           }
         },
         {
@@ -971,7 +987,8 @@
             "de": "Warten Sie hier entspannt auf den Bus.",
             "hu": "Várja itt kényelmesen a buszt.",
             "ro": "Așteptați autobuzul relaxat aici.",
-            "en": "Wait for the bus here in a relaxed atmosphere."
+            "en": "Wait for the bus here in a relaxed atmosphere.",
+            "fr": "Attendez le bus ici dans une atmosphère détendue."
           }
         }
       ],
@@ -980,7 +997,7 @@
         "hu": "Használja a buszjáratot L'Isle-sur-la-Sorgue-ból vagy Avignonból. A falu elég kicsi ahhoz, hogy a megállóból gyalogosan is felfedezhessünk minden fontos látnivalót. Csendes nap parkolási gondok nélkül.",
         "ro": "Folosiți conexiunea de autobuz din L'Isle-sur-la-Sorgue sau Avignon. Satul este suficient de compact pentru a explora toate punctele importante pe jos de la stație. O zi relaxată fără griji de parcare.",
         "en": "Use the bus connection from L'Isle-sur-la-Sorgue or Avignon. The village is compact enough to explore all major highlights on foot from the stop. A relaxed day without parking worries.",
-        "fr": "Utilisez la liaison par bus depuis L'Isle-sur-la-Sorgue ou Avignon. Le village est assez compact pour explorer tous les points forts à pied depuis l'arrêt. Une journée détendue sans soucis de stationnement."
+        "fr": "Prenez la correspondance de bus depuis L'Isle-sur-la-Sorgue ou Avignon. Le village est assez compact pour visiter tous les principaux sites à pied depuis l'arrêt. Une journée détente sans souci de stationnement."
       },
       "gastro_picks": {
         "de": [
@@ -1109,10 +1126,10 @@
           "Buy tickets from the driver."
         ],
         "fr": [
-          "Vérifiez attentivement les horaires de retour.",
+          "Vérifiez soigneusement l'horaire de retour.",
           "Le bus 921 est la ligne principale.",
-          "Les bus peuvent être complets en haute saison.",
-          "Achetez vos billets auprès du chauffeur."
+          "Les bus peuvent être pleins en haute saison.",
+          "Achetez les billets auprès du conducteur."
         ]
       }
     }

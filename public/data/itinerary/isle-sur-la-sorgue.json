@@ -32,7 +32,7 @@
             "hu": "A vintage tárgyak kedvelőinek paradicsoma.",
             "ro": "Un paradis pentru iubitorii de obiecte vintage.",
             "en": "A paradise for lovers of vintage objects.",
-            "fr": "Un paradis pour les amateurs d'objets vintage."
+            "fr": "Un paradis pour les amateurs d'objets anciens."
           }
         },
         {
@@ -70,7 +70,7 @@
             "hu": "Történelmi torony közvetlenül a Sorgue partján.",
             "ro": "Un turn istoric chiar pe malul râului Sorgue.",
             "en": "A historical tower right on the banks of the Sorgue.",
-            "fr": "Une tour historique située sur les rives de la Sorgue."
+            "fr": "Une tour historique sur les rives de la Sorgue."
           }
         },
         {
@@ -117,7 +117,7 @@
         "hu": "Kezdje a napot a 'Provence Velencéjében' az antikvitások falujának meglátogatásával. Böngésszen a számos kincs között, mielőtt megnézné a pompás társaskáptalani templomot.\n\nDélben sétáljon a csatornák mentén és csodálja meg a történelmi vízikerekeket. Élvezze az ebédet a számos vízparti étterem egyikében.\n\nA délután a művészeté a Campredon Művészeti Központban. Az impozáns épület tökéletes keretet ad a magas színvonalú kiállításoknak.\n\nZárja a napot a Parc Gautier-ben. A Sorgue hűvös levegője és a víz csobogása nyugodt légkört teremt az estéhez.",
         "ro": "Începeți ziua în „Veneția Provence-ului” cu o vizită în satul anticariatelor. Răsfoiți printre numeroasele comori înainte de a vizita magnifica biserică colegială.\n\nLa prânz, plimbați-vă de-a lungul canalelor și admirați roțile hidraulice istorice. Savurați prânzul la unul dintre numeroasele restaurante chiar pe malul apei.\n\nDupă-amiaza este dedicată artei la Centrul de Artă Campredon. Clădirea impunătoare oferă cadrul perfect pentru expoziții de înaltă calitate.\n\nÎncheiați ziua în Parc Gautier. Aerul răcoros al râului Sorgue și susurul apei creează o atmosferă relaxantă pentru seară.",
         "en": "Start your day in the 'Venice of Provence' with a visit to the antique village. Browse through the numerous treasures before visiting the magnificent collegiate church.\n\nAt midday, stroll along the canals and admire the historic waterwheels. Enjoy lunch at one of the many restaurants right on the water.\n\nThe afternoon is dedicated to art at the Campredon Art Center. The stately building provides the perfect setting for high-quality exhibitions.\n\nEnd the day in Parc Gautier. The cool air of the Sorgue and the sound of the water create a relaxed atmosphere for the evening.",
-        "fr": "Commencez votre journée dans la « Venise de Provence » par une visite au village des antiquaires. Parcourez les nombreux trésors avant de visiter la magnifique église collégiale.\n\nÀ la mi-journée, flânez le long des canaux et admirez les roues à aubes historiques. Déjeunez dans l'un des nombreux restaurants au bord de l'eau.\n\nL'après-midi est consacré à l'art au Centre d'Art Campredon. Cet hôtel particulier offre le cadre idéal pour des expositions de haute qualité.\n\nTerminez la journée au Parc Gautier. L'air frais de la Sorgue et le clapotis de l'eau créent une atmosphère relaxante pour la soirée."
+        "fr": "Commencez votre journée dans la « Venise de Provence » par une visite du village d'antiquaires. Parcourez les nombreux trésors avant de visiter la magnifique collégiale.\n\nÀ midi, promenez-vous le long des canaux et admirez les roues hydrauliques historiques. Déjeunez dans l'un des nombreux restaurants au bord de l'eau.\n\nL'après-midi est dédié à l'art au Centre d'art Campredon. Le bâtiment majestueux offre le cadre parfait pour des expositions de grande qualité.\n\nTerminez la journée au Parc Gautier. L'air frais de la Sorgue et le bruit de l'eau créent une ambiance détendue pour la soirée."
       },
       "gastro_picks": {
         "de": [
@@ -284,7 +284,7 @@
         ],
         "fr": [
           "C'est extrêmement fréquenté le dimanche, arrivez tôt.",
-          "Suivez les panneaux verts du « circuit des roues à aubes »."
+          "Cherchez les panneaux verts indiquant la « route des roues »."
         ]
       }
     },
@@ -331,7 +331,7 @@
             "hu": "Itt ágazik ketté a Sorgue folyó.",
             "ro": "Aici râul Sorgue se desparte în două brațe.",
             "en": "Where the Sorgue river divides into two branches.",
-            "fr": "Lieu où la Sorgue se divise en deux bras."
+            "fr": "Là où la rivière Sorgue se divise en deux bras."
           }
         },
         {
@@ -350,7 +350,7 @@
             "hu": "Szobrászművészet egy gyönyörű villában.",
             "ro": "Artă sculpturală într-o vilă superbă.",
             "en": "Sculptural art in a beautiful villa.",
-            "fr": "L'art sculptural dans une belle villa."
+            "fr": "Art sculptural dans une belle villa."
           }
         },
         {
@@ -369,7 +369,7 @@
             "hu": "Kerékpártárolók közvetlenül az előtéren.",
             "ro": "Suporturi de biciclete direct în fața bisericii.",
             "en": "Bike racks available directly at the front square.",
-            "fr": "Arceaux à vélos disponibles directement sur la place avant."
+            "fr": "Arceaux vélo disponibles directement sur la place frontale."
           }
         },
         {
@@ -397,7 +397,7 @@
         "hu": "Kezdje kerékpártúráját a festői csatornák mentén, és fedezze fel a történelmi vízikerekeket, amelyek egykor a város textiliparát hajtották.\n\nDélben tekerjen el a 'Partage des Eaux'-hoz, egy idilli helyhez, ahol a folyó kettéágazik. A sík, vízparti út különösen pihentető.\n\nA délután visszavezeti Önt a központba a Villa Datris Alapítványhoz, ahol modern szobrokat csodálhat meg. Kulturális csúcspont zöld környezetben.\n\nZárja túráját az antikvitások falujában. A kényelmes visszatérés a szűk utcákon át lehetőséget ad a város építészetének új szemszögből való megismerésére.",
         "ro": "Începeți turul cu bicicleta de-a lungul canalelor pitorești și descoperiți roțile hidraulice istorice care alimentau cândva industria textilă a orașului.\n\nLa prânz, pedalați spre „Partage des Eaux”, un loc idilic unde râul se desparte. Traseul plat de pe malul apei este deosebit de relaxant.\n\nDupă-amiaza vă aduce înapoi în centru, la Fundația Villa Datris, unde puteți admira sculpturi moderne. Un punct culminant cultural într-un cadru verde.\n\nÎncheiați turul în satul anticariatelor. Întoarcerea relaxată prin străduțe oferă ocazia de a vedea arhitectura orașului dintr-o altă perspectivă.",
         "en": "Start your bike tour along the picturesque canals and discover the historic waterwheels that once powered the city's textile industry.\n\nAt midday, cycle to the 'Partage des Eaux', an idyllic spot where the river divides. The flat route along the water is particularly relaxing.\n\nThe afternoon leads you back to the center to the Villa Datris Foundation, where you can admire modern sculptures. A cultural highlight in a green setting.\n\nEnd your tour in the antique village. The relaxed ride back through the alleys offers the chance to see the city architecture from a different perspective.",
-        "fr": "Commencez votre balade à vélo le long des canaux pittoresques et découvrez les roues à aubes historiques qui alimentaient autrefois l'industrie textile de la ville.\n\nÀ la mi-journée, pédalez jusqu'au « Partage des Eaux », un lieu idyllique où la rivière se divise. L'itinéraire plat le long de l'eau est particulièrement relaxant.\n\nL'après-midi vous ramène au centre vers la Fondation Villa Datris, où vous pourrez admirer des sculptures modernes. Un moment culturel dans un écrin de verdure.\n\nTerminez votre tour au village des antiquaires. Le retour tranquille à travers les ruelles permet d'observer l'architecture de la ville sous un autre angle."
+        "fr": "Commencez votre circuit à vélo le long des canaux pittoresques et découvrez les roues hydrauliques historiques qui alimentaient autrefois l'industrie textile de la ville.\n\nÀ midi, pédalez jusqu'au « Partage des Eaux », un endroit idyllique où la rivière se divise. L'itinéraire plat le long de l'eau est particulièrement relaxant.\n\nL'après-midi vous ramène au centre vers la Fondation Villa Datris, où vous pourrez admirer des sculptures modernes. Un point culturel majeur dans un écrin de verdure.\n\nTerminez votre tour dans le village d'antiquaires. Le retour tranquille à travers les ruelles offre l'occasion de voir l'architecture de la ville sous un autre angle."
       },
       "gastro_picks": {
         "de": [
@@ -518,7 +518,7 @@
           "Use the bike paths along the Sorgue."
         ],
         "fr": [
-          "De nombreuses ruelles du centre sont piétonnes, merci d'y mettre pied à terre.",
+          "De nombreuses ruelles du centre sont piétonnes, veuillez descendre de vélo.",
           "Utilisez les pistes cyclables le long de la Sorgue."
         ]
       }
@@ -566,7 +566,7 @@
             "hu": "Használja a vasútállomás melletti parkolót.",
             "ro": "Folosiți parcarea de la gară.",
             "en": "Use the parking lot at the train station (Gare).",
-            "fr": "Utilisez le parking de la gare."
+            "fr": "Utilisez le parking de la gare (Gare)."
           }
         },
         {
@@ -604,7 +604,7 @@
             "hu": "Történelmi palota légkondicionálással.",
             "ro": "Palat istoric cu aer condiționat.",
             "en": "Historic palace with air conditioning.",
-            "fr": "Palais historique climatisé."
+            "fr": "Palais historique avec climatisation."
           }
         },
         {
@@ -623,7 +623,7 @@
             "hu": "Tökéletes hely a nap pihentető befejezéséhez.",
             "ro": "Locul perfect pentru a încheia ziua relaxat.",
             "en": "Perfect spot to end the day in a relaxed way.",
-            "fr": "Lieu parfait pour terminer la journée en toute détente."
+            "fr": "Endroit parfait pour terminer la journée en toute détente."
           }
         }
       ],
@@ -632,7 +632,7 @@
         "hu": "Kezdje látogatását a város szélén, a Partage des Eaux-nál, hogy megtapasztalja a Sorgue természetes szépségét. Autóval kényelmesen elérheti ezt az idilli helyet.\n\nDélben parkoljon le a vasútállomás közelében, és fedezze fel a központot gyalog. Az antikvitások faluja és a templom közvetlen közelben vannak egymáshoz.\n\nA délután folyamán élvezze a művészetet a Campredon Művészeti Központban. A palota hűvös belső tere kellemes felüdülés a forró provence-i napokon.\n\nZárja a napot a Parc Gautier-ben. A park tágas és csodálatos kilátást nyújt a folyóra, mielőtt hazaindulna.",
         "ro": "Începeți vizita la marginea orașului, la Partage des Eaux, pentru a experimenta frumusețea naturală a râului Sorgue. Cu mașina puteți ajunge ușor în acest loc idilic.\n\nLa prânz, parcați lângă gară și explorați centrul pe jos. Satul anticariatelor și biserica colegială sunt în imediata apropiere una de cealaltă.\n\nDupă-amiaza bucurați-vă de artă la Centrul de Artă Campredon. Interiorul răcoros al palatului este o schimbare binevenită în zilele toride provensale.\n\nÎncheiați ziua în Parc Gautier. Parcul oferă mult spațiu și o vedere minunată asupra râului înainte de a pleca spre casă.",
         "en": "Start your visit on the outskirts at Partage des Eaux to experience the natural beauty of the Sorgue. You can easily reach this idyllic spot by car.\n\nAt midday, park near the station and explore the center on foot. The antique village and the collegiate church are in close proximity to each other.\n\nIn the afternoon, enjoy art at the Campredon Art Center. The cool interior of the palace is a welcome change on hot Provençal days.\n\nClose the day in Parc Gautier. The park offers plenty of space and a wonderful view of the river before you start your journey home.",
-        "fr": "Commencez votre visite à la périphérie, au Partage des Eaux, pour découvrir la beauté naturelle de la Sorgue. Ce lieu idyllique est facilement accessible en voiture.\n\nÀ la mi-journée, garez-vous près de la gare et explorez le centre à pied. Le village des antiquaires et l'église collégiale sont à proximité immédiate l'un de l'autre.\n\nL'après-midi, profitez de l'art au Centre d'Art Campredon. L'intérieur frais du palais est un changement bienvenu lors des chaudes journées provençales.\n\nClôturez la journée au Parc Gautier. Le parc offre beaucoup d'espace et une vue magnifique sur la rivière avant votre départ."
+        "fr": "Commencez votre visite en périphérie au Partage des Eaux pour découvrir la beauté naturelle de la Sorgue. Vous pouvez facilement rejoindre cet endroit idyllique en voiture.\n\nÀ midi, garez-vous près de la gare et explorez le centre à pied. Le village antique et la collégiale sont tout proches l’un de l’autre.\n\nL’après-midi, profitez de l’art au Centre d’Art Campredon. L’intérieur frais du palais est un agréable changement lors des chaudes journées provençales.\n\nTerminez la journée au Parc Gautier. Le parc offre beaucoup d’espace et une vue merveilleuse sur la rivière avant de reprendre la route."
       },
       "gastro_picks": {
         "de": [
@@ -754,7 +754,7 @@
         ],
         "fr": [
           "Évitez le centre-ville en voiture, garez-vous dans les parkings P+R.",
-          "Le système de rues à sens unique peut être déroutant."
+          "Le système de sens unique peut être déroutant."
         ]
       }
     },
@@ -801,7 +801,7 @@
             "hu": "A város központi tájékozódási pontja.",
             "ro": "Punct central de orientare în oraș.",
             "en": "Central landmark of the city.",
-            "fr": "Monument central de la ville."
+            "fr": "Point de repère central de la ville."
           }
         },
         {
@@ -848,7 +848,7 @@
         "hu": "Érkezzen kényelmesen a TER vonattal Avignon felől. Kalandja közvetlenül a vasútállomásnál kezdődik a híres antikvitások falujában, amely csak pár lépésre található.\n\nDélben fedezze fel a pompás társaskáptalani templomot és a környező utcákat. Minden tökéletesen kiépített a gyalogosok számára.\n\nA délután a Campredon Művészeti Központ magas színvonalú kultúráját kínálja. Kihagyhatatlan minden művészetkedvelő számára, aki a városba látogat.\n\nPihenjen meg a Parc Gautier-ben a visszautazás előtt. Innen percek alatt elérheti a vasútállomást, ami ideális a stresszmentes befejezéshez.",
         "ro": "Călătoriți confortabil cu trenul TER din Avignon. Aventura dvs. începe chiar la gară, în faimosul sat al anticariatelor, situat la doar câțiva pași.\n\nLa prânz, explorați magnifica biserică colegială și străduțele din jur. Totul este perfect amenajat pentru pietoni.\n\nDupă-amiaza, Centrul de Artă Campredon oferă cultură de înaltă calitate. Este un obiectiv obligatoriu pentru orice iubitor de artă care vizitează orașul.\n\nRelaxați-vă în Parc Gautier înainte de călătoria de întoarcere. De aici ajungeți la gară în câteva minute, ideal pentru un final fără stres.",
         "en": "Travel comfortably by TER train from Avignon. Your adventure begins right at the station in the famous antique village, which is just a few steps away.\n\nAt midday, explore the magnificent collegiate church and the surrounding alleys. Everything is perfectly laid out for pedestrians.\n\nThe afternoon offers high-quality culture at the Campredon Art Center. It's a must-see for any art lover visiting the city.\n\nRelax in Parc Gautier before your return journey. From here, you can reach the station in minutes, ideal for a stress-free conclusion.",
-        "fr": "Voyagez confortablement en train TER depuis Avignon. Votre aventure commence dès la gare dans le célèbre village des antiquaires, situé à seulement quelques pas.\n\nÀ la mi-journée, explorez la magnifique église collégiale et les ruelles environnantes. Tout est parfaitement aménagé pour les piétons.\n\nL'après-midi offre une culture de haute qualité au Centre d'Art Campredon. C'est un incontournable pour tout amateur d'art visitant la ville.\n\nDétendez-vous au Parc Gautier avant votre voyage de retour. De là, vous rejoindrez la gare en quelques minutes, idéal pour une fin de journée sans stress."
+        "fr": "Voyagez confortablement en TER depuis Avignon. Votre aventure commence directement à la gare dans le célèbre village antique, qui est à quelques pas.\n\nÀ midi, explorez la magnifique collégiale et les ruelles environnantes. Tout est parfaitement aménagé pour les piétons.\n\nL’après-midi propose une culture de haute qualité au Centre d’Art Campredon. C’est un incontournable pour tout amateur d’art visitant la ville.\n\nDétendez-vous au Parc Gautier avant votre retour. De là, vous pouvez rejoindre la gare en quelques minutes, idéal pour une conclusion sans stress."
       },
       "gastro_picks": {
         "de": [
@@ -969,7 +969,7 @@
           "The train station is accessible for everyone."
         ],
         "fr": [
-          "Utilisez l'application SNCF pour les informations sur les trains en temps réel.",
+          "Utilisez l’application SNCF pour des informations trains en temps réel.",
           "La gare est accessible à tous."
         ]
       }

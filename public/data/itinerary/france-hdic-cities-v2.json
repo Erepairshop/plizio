@@ -21,7 +21,8 @@
             "de": "Port de l’Eglise",
             "hu": "Port de l’Eglise",
             "ro": "Port de l’Eglise",
-            "en": "Port de l’Eglise"
+            "en": "Port de l’Eglise",
+            "fr": "Port de l’Eglise"
           },
           "coords": [
             -2.882984,
@@ -36,7 +37,8 @@
             "de": "Spazieren Sie über die Docks, um die Fischerboote aus der Nähe zu sehen, und tragen Sie bequeme Schuhe für das Kopfsteinpflaster.",
             "hu": "Sétáljon végig a dokkokon a halászhajók megtekintéséhez, és viseljen kényelmes cipőt az egyenetlen macskaköveken.",
             "ro": "Plimbați-vă pe docuri pentru a vedea bărcile de pescuit și purtați încălțăminte comodă pentru pietruitura inegală.",
-            "en": "Stroll the docks to see local fishing boats up close, and don't forget to wear comfortable walking shoes for the uneven cobblestones."
+            "en": "Stroll the docks to see local fishing boats up close, and don't forget to wear comfortable walking shoes for the uneven cobblestones.",
+            "fr": "Promenez-vous sur les quais pour voir les bateaux de pêche locaux de près, et n'oubliez pas des chaussures confortables pour les pavés irréguliers."
           }
         },
         {
@@ -44,7 +46,8 @@
             "de": "Guader",
             "hu": "Guader",
             "ro": "Guader",
-            "en": "Guader"
+            "en": "Guader",
+            "fr": "Guader"
           },
           "coords": [
             -2.880573,
@@ -59,7 +62,8 @@
             "de": "Machen Sie eine kurze Pause, um Küstenvögel zu fotografieren, aber halten Sie bei der Seebrise Ihren Hut fest.",
             "hu": "Tartson egy rövid szünetet a parti madarak fotózásához, de vigyázzon a kalapjára a tengeri szélben.",
             "ro": "Luați o scurtă pauză pentru a fotografia păsările de coastă, dar aveți grijă la pălărie în briza mării.",
-            "en": "Take a short break at this quiet harbor spot to photograph the coastal birds, but hold onto your hat in the sea breeze."
+            "en": "Take a short break at this quiet harbor spot to photograph the coastal birds, but hold onto your hat in the sea breeze.",
+            "fr": "Faites une courte pause dans ce havre tranquille pour photographier les oiseaux côtiers, mais retenez votre chapeau dans la brise marine."
           }
         },
         {
@@ -67,7 +71,8 @@
             "de": "Église Notre-Dame la Blanche",
             "hu": "Église Notre-Dame la Blanche",
             "ro": "Église Notre-Dame la Blanche",
-            "en": "Église Notre-Dame la Blanche"
+            "en": "Église Notre-Dame la Blanche",
+            "fr": "Église Notre-Dame la Blanche"
           },
           "coords": [
             -2.879486,
@@ -82,7 +87,8 @@
             "de": "Treten Sie in die helle Kirche ein, um die maritimen Votivgaben zu bewundern, und sprechen Sie aus Respekt leise.",
             "hu": "Lépjen be a világos templomba, hogy megcsodálja a tengeri fogadalmi ajándékokat, és tiszteletből beszéljen halkan.",
             "ro": "Intrați în această biserică luminoasă pentru a admira ex-voto-urile maritime, amintindu-vă să vorbiți încet din respect.",
-            "en": "Step inside this bright church to admire its beautiful maritime ex-votos, remembering to speak softly out of respect for worshippers."
+            "en": "Step inside this bright church to admire its beautiful maritime ex-votos, remembering to speak softly out of respect for worshippers.",
+            "fr": "Entrez dans cette église lumineuse pour admirer ses magnifiques ex-votos maritimes, en parlant doucement par respect pour les fidèles."
           }
         },
         {
@@ -90,7 +96,8 @@
             "de": "Dolmen de Port Louit",
             "hu": "Dolmen de Port Louit",
             "ro": "Dolmen de Port Louit",
-            "en": "Dolmen de Port Louit"
+            "en": "Dolmen de Port Louit",
+            "fr": "Dolmen de Port Louit"
           },
           "coords": [
             -2.885073,
@@ -105,7 +112,8 @@
             "de": "Untersuchen Sie diese beeindruckende neolithische Grabstätte, aber klettern Sie nicht auf die alten, zerbrechlichen Steine.",
             "hu": "Vizsgálja meg ezt a lenyűgöző neolitikus temetkezési helyet, ügyelve arra, hogy ne másszon fel az ősi kövekre.",
             "ro": "Examinați acest impresionant sit funerar neolitic, având grijă să nu vă urcați pe pietrele antice și fragile.",
-            "en": "Examine this impressive Neolithic burial site left by early islanders, taking care not to climb on the ancient, fragile stones."
+            "en": "Examine this impressive Neolithic burial site left by early islanders, taking care not to climb on the ancient, fragile stones.",
+            "fr": "Examinez ce remarquable site funéraire néolithique laissé par les premiers insulaires, en évitant de grimper sur les pierres anciennes et fragiles."
           }
         },
         {
@@ -113,7 +121,8 @@
             "de": "Port Blanc",
             "hu": "Port Blanc",
             "ro": "Port Blanc",
-            "en": "Port Blanc"
+            "en": "Port Blanc",
+            "fr": "Port Blanc"
           },
           "coords": [
             -2.887494,
@@ -128,7 +137,8 @@
             "de": "Entspannen Sie am hellen Sandstrand von Port Blanc und packen Sie eine Windjacke ein, da das Wetter schnell umschlagen kann.",
             "hu": "Pihenjen a Port Blanc világos homokján, és vigyen magával egy széldzsekit, mert az időjárás gyorsan változhat.",
             "ro": "Relaxați-vă pe nisipul deschis la culoare și luați o jachetă de vânt, deoarece vremea se poate schimba rapid.",
-            "en": "Relax on the pale sands of Port Blanc to soak up the sun, packing a light windbreaker as the weather can shift quickly."
+            "en": "Relax on the pale sands of Port Blanc to soak up the sun, packing a light windbreaker as the weather can shift quickly.",
+            "fr": "Détendez-vous sur les sables clairs de Port Blanc pour profiter du soleil, en emportant une veste coupe-vent car le temps peut changer rapidement."
           }
         },
         {
@@ -136,7 +146,8 @@
             "de": "Kastel a Plouz",
             "hu": "Kastel a Plouz",
             "ro": "Kastel a Plouz",
-            "en": "Kastel a Plouz"
+            "en": "Kastel a Plouz",
+            "fr": "Kastel a Plouz"
           },
           "coords": [
             -2.88799,
@@ -151,7 +162,8 @@
             "de": "Genießen Sie den Panoramablick auf den Ozean und bringen Sie ein Fernglas mit, um vorbeifahrende Schiffe zu beobachten.",
             "hu": "Élvezze az óceánra nyíló panorámát, és hozzon távcsövet, ha távoli hajókat szeretne megfigyelni.",
             "ro": "Bucurați-vă de priveliștea panoramică asupra oceanului, aducând un binoclu pentru a observa navele în depărtare.",
-            "en": "Enjoy panoramic views of the ocean from this elevated viewpoint, bringing binoculars if you want to spot distant passing ships."
+            "en": "Enjoy panoramic views of the ocean from this elevated viewpoint, bringing binoculars if you want to spot distant passing ships.",
+            "fr": "Appréciez la vue panoramique sur l'océan depuis ce point élevé, en emportant des jumelles si vous voulez repérer des navires au loin."
           }
         }
       ],
@@ -159,7 +171,8 @@
         "de": "Beginnen Sie am Port de l’Eglise, um den maritimen Charme zu spüren. Schlendern Sie ins Zentrum, wo sich die kleine Schönheit von Hoedic entfaltet.\n\nMittags entdecken Sie die Kirche Notre-Dame la Blanche, bevor Sie nach Süden zum Dolmen de Port Louit wandern. Atmen Sie die Geschichte ein.\n\nDer Nachmittag führt Sie zum friedlichen Port Blanc. Beobachten Sie die Wellen und genießen Sie die salzige Brise.\n\nBeenden Sie den Rundgang am Kastel a Plouz und lassen Sie einen ruhigen Tag auf dieser bretonischen Insel ausklingen.",
         "hu": "Kezdje a sétát a nyüzsgő Port de l’Eglise kikötőben, hogy magába szívja a sziget tengeri varázsát. Sétáljon a falu központja felé, megcsodálva Hoedic szépségét.\n\nDélben fedezze fel a Notre-Dame la Blanche templomot, mielőtt délre indulna a Port Louit dolmenhez. Élje át a neolitikus múltat.\n\nA délután a csendes Port Blanc felé hív, amely tökéletes hely a hullámok és a sós tengeri levegő élvezetére.\n\nZárja a túrát a Kastel a Plouz közelében, visszaemlékezve egy békés napra ezen a gyönyörű breton szigeten.",
         "ro": "Începeți plimbarea în Port de l’Eglise, absorbind farmecul maritim. Plimbați-vă spre centrul satului, admirând frumusețea la scară mică a insulei Hoedic.\n\nLa amiază, descoperiți Biserica Notre-Dame la Blanche înainte de a merge spre Dolmen de Port Louit. Istoria neolitică vă va fascina.\n\nDupă-amiaza vă invită la Port Blanc, un loc perfect pentru a privi valurile domoale și a respira aerul sărat.\n\nÎncheiați turul la Kastel a Plouz, reflectând la o zi liniștită de mers pe jos pe această minunată insulă bretonă.",
-        "en": "Begin your walk at the bustling Port de l’Eglise, absorbing the island's maritime charm. Stroll towards the village center, taking in the small-scale beauty of Hoedic.\n\nAt midday, discover the Église Notre-Dame la Blanche before heading south to the ancient Dolmen de Port Louit. Let the Neolithic history sink in along the coastal path.\n\nThe afternoon invites you to the serene Port Blanc, a perfect spot to watch the gentle waves and breathe the salty air. Relax on the sandy edges.\n\nConclude your pedestrian tour at Kastel a Plouz, reflecting on a tranquil day traversing this beautifully preserved Breton island on foot."
+        "en": "Begin your walk at the bustling Port de l’Eglise, absorbing the island's maritime charm. Stroll towards the village center, taking in the small-scale beauty of Hoedic.\n\nAt midday, discover the Église Notre-Dame la Blanche before heading south to the ancient Dolmen de Port Louit. Let the Neolithic history sink in along the coastal path.\n\nThe afternoon invites you to the serene Port Blanc, a perfect spot to watch the gentle waves and breathe the salty air. Relax on the sandy edges.\n\nConclude your pedestrian tour at Kastel a Plouz, reflecting on a tranquil day traversing this beautifully preserved Breton island on foot.",
+        "fr": "Commencez votre promenade au animé Port de l’Eglise, en vous imprégnant du charme maritime de l'île. Dirigez-vous vers le centre du village en admirant la beauté à petite échelle de Hoedic.\n\nÀ midi, découvrez l'Église Notre-Dame la Blanche avant de vous diriger vers le sud jusqu'au Dolmen de Port Louit. Laissez l'histoire néolithique vous pénétrer le long du sentier côtier.\n\nL'après-midi vous invite au serein Port Blanc, endroit parfait pour observer les vagues et respirer l'air salé. Détendez-vous sur les bords sablonneux.\n\nConcluez votre circuit pédestre à Kastel a Plouz, en revenant sur une journée tranquille passée à parcourir à pied cette île bretonne magnifiquement préservée."
       },
       "variants": {
         "rainy": {
@@ -167,7 +180,8 @@
             "de": "Der Morgen beginnt grau am Hafen, wo der Regen die Fischerboote einhüllt. Mittags bietet die Kirche Schutz vor den stärksten Schauern. Am Nachmittag trotzen wir dem Wind bei den Dolmen, während der Boden rutschig wird. Abends kehren wir durchnässt, aber zufrieden, in die Wärme des Dorfes zurück, während draußen der Atlantikregen gegen die Fenster peitscht.",
             "hu": "A reggeli eső szürke fátylat borít a kikötőre, a sós levegő megtelik párával. Délben a templom vastag falai között lelünk menedéket a zápor elől. Délután a szél felerősödik a szikláknál, a sárban óvatosan lépkedünk. Estére a falu lámpái mutatnak utat a viharos tengerparton, vízálló lábbeli és kabát ma elengedhetetlen.",
             "ro": "Dimineața începe cu un port învăluit în ceață și ploaie, oferind un peisaj dramatic. La prânz, biserica devine refugiul ideal împotriva stropilor reci. După-amiaza, explorăm dolmenul pe poteci alunecoase, fiind necesară încălțăminte aderentă. Seara, ne retragem în sat în timp ce ploaia bate în ferestre, savurând liniștea insulei.",
-            "en": "Morning begins with a grey mist over the harbor as rain douses the fishing boats. At noon, the church provides a dry sanctuary from the downpour. In the afternoon, we brave the wind at the dolmen site where paths become slippery. By evening, we retreat to the village as the Atlantic rain continues, making waterproof gear absolutely essential."
+            "en": "Morning begins with a grey mist over the harbor as rain douses the fishing boats. At noon, the church provides a dry sanctuary from the downpour. In the afternoon, we brave the wind at the dolmen site where paths become slippery. By evening, we retreat to the village as the Atlantic rain continues, making waterproof gear absolutely essential.",
+            "fr": "La matinée commence avec une brume grise sur le port tandis que la pluie mouille les bateaux de pêche. À midi, l'église offre un refuge sec contre l'averse. L'après-midi, nous affrontons le vent au site du dolmen où les sentiers deviennent glissants. Le soir, nous regagnons le village alors que la pluie atlantique se poursuit, rendant l'équipement imperméable absolument indispensable."
           },
           "stops": [
             {
@@ -175,13 +189,15 @@
                 "de": "Port de l’Eglise",
                 "hu": "Port de l’Eglise",
                 "ro": "Port de l’Eglise",
-                "en": "Port de l’Eglise"
+                "en": "Port de l’Eglise",
+                "fr": "Port de l’Eglise"
               },
               "tip_5lang": {
                 "de": "Beobachten Sie die ankommenden Fischerboote vom überdachten Kai aus; Vorsicht, die nassen Steine am Hafen sind extrem rutschig.",
                 "hu": "Figyelje az érkező halászhajókat a móló fedett részéről; a vizes kövek a kikötőben rendkívül csúszósak, legyen óvatos.",
                 "ro": "Observați bărcile de pescuit care sosesc de sub acoperișul de pe chei; pietrele umede din port sunt extrem de alunecoase.",
-                "en": "Watch the incoming fishing boats from the sheltered part of the quay; the wet stones at the harbor are extremely slippery."
+                "en": "Watch the incoming fishing boats from the sheltered part of the quay; the wet stones at the harbor are extremely slippery.",
+                "fr": "Regardez les bateaux de pêche entrants depuis la partie abritée du quai ; les pierres mouillées du port sont extrêmement glissantes."
               }
             },
             {
@@ -189,13 +205,15 @@
                 "de": "Guader",
                 "hu": "Guader",
                 "ro": "Guader",
-                "en": "Guader"
+                "en": "Guader",
+                "fr": "Guader"
               },
               "tip_5lang": {
                 "de": "Die Felsformationen wirken im Regen dramatisch; suchen Sie bei plötzlichen Schauern Schutz unter den vorspringenden Klippen.",
                 "hu": "A sziklaalakzatok drámai látványt nyújtanak esőben; hirtelen zápor esetén keressen menedéket a kiálló sziklák alatt.",
                 "ro": "Formațiunile stâncoase arată dramatic în ploaie; căutați adăpost sub stâncile proeminente în caz de aversă bruscă.",
-                "en": "The rock formations look dramatic in the rain; seek shelter under protruding cliffs if a sudden downpour hits."
+                "en": "The rock formations look dramatic in the rain; seek shelter under protruding cliffs if a sudden downpour hits.",
+                "fr": "Les formations rocheuses sont dramatiques sous la pluie ; cherchez un abri sous les falaises en surplomb en cas d'averse soudaine."
               }
             },
             {
@@ -203,13 +221,15 @@
                 "de": "Église Notre-Dame la Blanche",
                 "hu": "Église Notre-Dame la Blanche",
                 "ro": "Église Notre-Dame la Blanche",
-                "en": "Église Notre-Dame la Blanche"
+                "en": "Église Notre-Dame la Blanche",
+                "fr": "Église Notre-Dame la Blanche"
               },
               "tip_5lang": {
                 "de": "Dies ist der beste Ort, um trocken zu bleiben; bewundern Sie die Schiffsmodelle, während Sie das Prasseln des Regens hören.",
                 "hu": "Ez a legjobb hely, hogy szárazon maradjon; csodálja meg a hajómodelleket, miközben hallgatja a kinti eső kopogását.",
                 "ro": "Acesta este cel mai bun loc pentru a rămâne uscat; admirați machetele de nave în timp ce ascultați ploaia de afară.",
-                "en": "This is the best place to stay dry; admire the model ships while listening to the patter of rain on the roof."
+                "en": "This is the best place to stay dry; admire the model ships while listening to the patter of rain on the roof.",
+                "fr": "C'est le meilleur endroit pour rester au sec ; admirez les maquettes de bateaux en écoutant le bruit de la pluie sur le toit."
               }
             },
             {
@@ -217,13 +237,15 @@
                 "de": "Dolmen de Port Louit",
                 "hu": "Dolmen de Port Louit",
                 "ro": "Dolmen de Port Louit",
-                "en": "Dolmen de Port Louit"
+                "en": "Dolmen de Port Louit",
+                "fr": "Dolmen de Port Louit"
               },
               "tip_5lang": {
                 "de": "Die antiken Steine glänzen im Regen; halten Sie sich auf den grasbewachsenen Flächen, da die Lehmwege sehr schlammig sind.",
                 "hu": "Az ősi kövek megcsillannak az esőben; maradjon a füves részeken, mert az agyagos ösvények nagyon sárosak lehetnek.",
                 "ro": "Pietrele antice strălucesc în ploaie; stați pe zonele cu iarbă, deoarece potecile argiloase pot fi foarte noroioase.",
-                "en": "The ancient stones glisten in the rain; stay on the grassy areas as the clay paths can become very muddy."
+                "en": "The ancient stones glisten in the rain; stay on the grassy areas as the clay paths can become very muddy.",
+                "fr": "Les pierres anciennes brillent sous la pluie ; restez sur les zones herbeuses car les sentiers d'argile peuvent devenir très boueux."
               }
             },
             {
@@ -231,13 +253,15 @@
                 "de": "Port Blanc",
                 "hu": "Port Blanc",
                 "ro": "Port Blanc",
-                "en": "Port Blanc"
+                "en": "Port Blanc",
+                "fr": "Port Blanc"
               },
               "tip_5lang": {
                 "de": "Ein rauer Blick auf die Brandung bei Regen; tragen Sie eine winddichte Regenjacke, da die Gischt hier hochspritzt.",
                 "hu": "Nyers kilátás a hullámokra esős időben; viseljen szélálló esőkabátot, mert a tenger permete itt magasra csap.",
                 "ro": "O vedere brută asupra valurilor pe ploaie; purtați o jachetă de ploaie rezistentă la vânt, deoarece spray-ul mării sare sus.",
-                "en": "A raw view of the surf in rainy weather; wear a windproof raincoat as the sea spray can fly high here."
+                "en": "A raw view of the surf in rainy weather; wear a windproof raincoat as the sea spray can fly high here.",
+                "fr": "Une vision brute du ressac par temps pluvieux ; portez un imperméable coupe-vent car les embruns peuvent monter haut ici."
               }
             },
             {
@@ -245,13 +269,15 @@
                 "de": "Kastel a Plouz",
                 "hu": "Kastel a Plouz",
                 "ro": "Kastel a Plouz",
-                "en": "Kastel a Plouz"
+                "en": "Kastel a Plouz",
+                "fr": "Kastel a Plouz"
               },
               "tip_5lang": {
                 "de": "Die Vegetation ist hier besonders duftend, wenn sie nass ist; nutzen Sie feste Stiefel für den unebenen, aufgeweichten Boden.",
                 "hu": "A növényzet itt különösen illatos, amikor nedves; használjon bakancsot az egyenetlen, felázott talaj miatt.",
                 "ro": "Vegetația este deosebit de parfumată aici când este umedă; folosiți bocanci pentru terenul denivelat și înmuiat.",
-                "en": "The vegetation here is particularly fragrant when wet; use sturdy boots for the uneven, soaked ground."
+                "en": "The vegetation here is particularly fragrant when wet; use sturdy boots for the uneven, soaked ground.",
+                "fr": "La végétation y est particulièrement odorante lorsqu'elle est mouillée ; utilisez des bottes robustes pour le sol inégal et imbibé."
               }
             }
           ]
@@ -261,7 +287,8 @@
             "de": "Die kühle Winterbrise weht uns am Hafen entgegen, während die tiefstehende Sonne glitzert. Mittags genießen wir die Stille in der Kirche. Der Nachmittag bei den Dolmen ist kurz, da die Dämmerung früh einsetzt. Gegen 17:00 Uhr verschwindet das Licht, und warme Kleidung schützt uns vor dem Frost der klaren Nacht.",
             "hu": "A hideg téli szél köszönt minket a kikötőben, a nap alacsonyan szikrázik a vízen. Délben a templom békéje melengeti a lelket. Délután a part menti séta frissítő, de a sötétedés hamar utolér minket. 17:00 után a sziget csendbe burkolózik, a réteges öltözet és a termosznyi forró tea életmentő.",
             "ro": "Briza rece de iarnă ne întâmpină în port, sub un cer senin, dar tăios. La prânz, liniștea bisericii oferă un moment de reculegere caldă. După-amiaza la dolmen este marcată de lumina aurie a soarelui care apune devreme. La ora 17:00 se lasă întunericul, iar hainele groase sunt indispensabile pentru plimbare.",
-            "en": "A crisp winter breeze greets us at the harbor under a low-hanging sun. At noon, the peaceful church offers a quiet and windless break. The afternoon walk to the dolmen is brief as shadows lengthen quickly. By 17:00, the island falls into darkness, making warm layers and a high-visibility element essential for safety."
+            "en": "A crisp winter breeze greets us at the harbor under a low-hanging sun. At noon, the peaceful church offers a quiet and windless break. The afternoon walk to the dolmen is brief as shadows lengthen quickly. By 17:00, the island falls into darkness, making warm layers and a high-visibility element essential for safety.",
+            "fr": "Une brise hivernale piquante nous accueille au port sous un soleil bas. À midi, l'église paisible offre une pause calme et sans vent. La marche de l'après-midi jusqu'au dolmen est brève car les ombres s'allongent rapidement. À 17:00, l'île tombe dans l'obscurité, rendant essentielles des couches chaudes et un élément haute visibilité pour la sécurité."
           },
           "stops": [
             {
@@ -269,13 +296,15 @@
                 "de": "Port de l’Eglise",
                 "hu": "Port de l’Eglise",
                 "ro": "Port de l’Eglise",
-                "en": "Port de l’Eglise"
+                "en": "Port de l’Eglise",
+                "fr": "Port de l’Eglise"
               },
               "tip_5lang": {
                 "de": "Genießen Sie die klare Winterluft und das blaue Licht; ziehen Sie eine warme Mütze gegen den eisigen Seewind an.",
                 "hu": "Élvezze a tiszta téli levegőt és a kék fényeket; vegyen meleg sapkát a fagyos tengeri szél ellen.",
                 "ro": "Bucurați-vă de aerul curat de iarnă și de lumina albastră; puneți-vă o căciulă groasă împotriva vântului înghețat al mării.",
-                "en": "Enjoy the crisp winter air and the blue light; put on a warm hat against the freezing sea wind."
+                "en": "Enjoy the crisp winter air and the blue light; put on a warm hat against the freezing sea wind.",
+                "fr": "Profitez de l'air vif d'hiver et de la lumière bleutée ; mettez un bonnet chaud contre le vent glacial de mer."
               }
             },
             {
@@ -283,13 +312,15 @@
                 "de": "Guader",
                 "hu": "Guader",
                 "ro": "Guader",
-                "en": "Guader"
+                "en": "Guader",
+                "fr": "Guader"
               },
               "tip_5lang": {
                 "de": "Der Strand ist im Winter menschenleer und friedlich; ein schneller Spaziergang hält den Kreislauf in der Kälte in Schwung.",
                 "hu": "A strand télen néptelen és békés; egy gyors séta mozgásban tartja a vérkeringést a hidegben.",
                 "ro": "Plaja este pustie și liniștită iarna; o plimbare rapidă vă menține circulația activă în frig.",
-                "en": "The beach is deserted and peaceful in winter; a brisk walk keeps your circulation going in the cold."
+                "en": "The beach is deserted and peaceful in winter; a brisk walk keeps your circulation going in the cold.",
+                "fr": "La plage est déserte et paisible en hiver ; une marche tonique entretient la circulation par le froid."
               }
             },
             {
@@ -297,13 +328,15 @@
                 "de": "Église Notre-Dame la Blanche",
                 "hu": "Église Notre-Dame la Blanche",
                 "ro": "Église Notre-Dame la Blanche",
-                "en": "Église Notre-Dame la Blanche"
+                "en": "Église Notre-Dame la Blanche",
+                "fr": "Église Notre-Dame la Blanche"
               },
               "tip_5lang": {
                 "de": "Nutzen Sie die windgeschützte Atmosphäre für eine Pause; die Innentemperatur ist oft milder als die salzige Außenluft.",
                 "hu": "Használja ki a szélvédett belső teret egy pihenőre; a benti hőmérséklet gyakran enyhébb, mint a kinti sós levegő.",
                 "ro": "Profitați de atmosfera ferită de vânt pentru o pauză; temperatura interioară este adesea mai blândă decât aerul sărat de afară.",
-                "en": "Take advantage of the wind-sheltered interior for a break; the indoor temperature is often milder than the salty air outside."
+                "en": "Take advantage of the wind-sheltered interior for a break; the indoor temperature is often milder than the salty air outside.",
+                "fr": "Profitez de l'intérieur abrité du vent pour une pause ; la température intérieure est souvent plus douce que l'air salé extérieur."
               }
             },
             {
@@ -311,13 +344,15 @@
                 "de": "Dolmen de Port Louit",
                 "hu": "Dolmen de Port Louit",
                 "ro": "Dolmen de Port Louit",
-                "en": "Dolmen de Port Louit"
+                "en": "Dolmen de Port Louit",
+                "fr": "Dolmen de Port Louit"
               },
               "tip_5lang": {
                 "de": "Die Steine wirken in der Wintersonne besonders plastisch; kehren Sie vor 16:30 Uhr um, um nicht im Dunkeln zu laufen.",
                 "hu": "A kövek a téli napsütésben különösen plasztikusnak tűnnek; induljon vissza 16:30 előtt, hogy ne sötétben kelljen mennie.",
                 "ro": "Pietrele par deosebit de plastice în soarele de iarnă; întoarceți-vă înainte de 16:30 pentru a nu merge pe întuneric.",
-                "en": "The stones look particularly sculptural in the winter sun; head back before 16:30 to avoid walking in the dark."
+                "en": "The stones look particularly sculptural in the winter sun; head back before 16:30 to avoid walking in the dark.",
+                "fr": "Les pierres paraissent particulièrement sculpturales sous le soleil d'hiver ; revenez avant 16:30 pour éviter de marcher dans l'obscurité."
               }
             },
             {
@@ -325,13 +360,15 @@
                 "de": "Port Blanc",
                 "hu": "Port Blanc",
                 "ro": "Port Blanc",
-                "en": "Port Blanc"
+                "en": "Port Blanc",
+                "fr": "Port Blanc"
               },
               "tip_5lang": {
                 "de": "Der Winterhimmel über dem Meer ist oft spektakulär; tragen Sie Thermokleidung, da der Wind hier ungeschützt angreift.",
                 "hu": "A téli égbolt a tenger felett gyakran látványos; viseljen termoöltözetet, mert a szél itt akadálytalanul fúj.",
                 "ro": "Cerul de iarnă deasupra mării este adesea spectaculos; purtați haine termice, deoarece vântul bate nestingherit aici.",
-                "en": "The winter sky over the sea is often spectacular; wear thermal clothing as the wind attacks without shelter here."
+                "en": "The winter sky over the sea is often spectacular; wear thermal clothing as the wind attacks without shelter here.",
+                "fr": "Le ciel d'hiver au-dessus de la mer est souvent spectaculaire ; portez des vêtements thermiques car le vent attaque sans abri ici."
               }
             },
             {
@@ -339,13 +376,15 @@
                 "de": "Kastel a Plouz",
                 "hu": "Kastel a Plouz",
                 "ro": "Kastel a Plouz",
-                "en": "Kastel a Plouz"
+                "en": "Kastel a Plouz",
+                "fr": "Kastel a Plouz"
               },
               "tip_5lang": {
                 "de": "Beobachten Sie die Wintervögel an der Küste; halten Sie die Wanderung kurz, da die Kälte hier am östlichsten Punkt zunimmt.",
                 "hu": "Figyelje meg a téli madarakat a parton; tartsa röviden a túrát, mert a hideg ezen a legkeletibb ponton fokozódik.",
                 "ro": "Observați păsările de iarnă de pe coastă; mențineți drumeția scurtă, deoarece frigul crește în acest punct estic.",
-                "en": "Observe the winter birds on the coast; keep the hike short as the cold intensifies at this easternmost point."
+                "en": "Observe the winter birds on the coast; keep the hike short as the cold intensifies at this easternmost point.",
+                "fr": "Observezz les oiseaux hivernaux sur la côte ; gardez la randonnée courte car le froid s'intensifie à ce point le plus à l'est."
               }
             }
           ]
@@ -365,7 +404,8 @@
             "de": "Port de l’Eglise",
             "hu": "Port de l’Eglise",
             "ro": "Port de l’Eglise",
-            "en": "Port de l’Eglise"
+            "en": "Port de l’Eglise",
+            "fr": "Port de l’Eglise"
           },
           "coords": [
             -2.882984,
@@ -380,7 +420,8 @@
             "de": "Prüfen Sie den Reifendruck am Hafen, bevor Sie losfahren, und bewundern Sie das maritime Treiben.",
             "hu": "Indulás előtt ellenőrizze a guminyomást a kikötőben, és csodálja meg a tengeri életet.",
             "ro": "Verificați presiunea anvelopelor pe docuri înainte de a pleca, admirând viața maritimă agitată.",
-            "en": "Check your tire pressure on the docks before heading out, admiring the bustling small-scale maritime life of Hoedic."
+            "en": "Check your tire pressure on the docks before heading out, admiring the bustling small-scale maritime life of Hoedic.",
+            "fr": "Contrôlez la pression de vos pneus sur les quais avant de partir, en admirant la vie maritime animée et à petite échelle de Hoedic."
           }
         },
         {
@@ -388,7 +429,8 @@
             "de": "Église Notre-Dame la Blanche",
             "hu": "Église Notre-Dame la Blanche",
             "ro": "Église Notre-Dame la Blanche",
-            "en": "Église Notre-Dame la Blanche"
+            "en": "Église Notre-Dame la Blanche",
+            "fr": "Église Notre-Dame la Blanche"
           },
           "coords": [
             -2.879486,
@@ -403,7 +445,8 @@
             "de": "Parken Sie Ihr Rad draußen, um die Votivgaben der Kirche in respektvoller Stille zu bewundern.",
             "hu": "Parkoljon le a kerékpárral kint, hogy csendben megcsodálja a templom fogadalmi ajándékait.",
             "ro": "Parcați bicicleta afară pentru a admira ex-voto-urile bisericii, păstrând liniștea pentru respect.",
-            "en": "Park your bike outside to admire the church's maritime ex-votos, maintaining silence to respect the peaceful atmosphere."
+            "en": "Park your bike outside to admire the church's maritime ex-votos, maintaining silence to respect the peaceful atmosphere.",
+            "fr": "Garez votre vélo à l'extérieur pour admirer les ex-votos maritimes de l'église, en gardant le silence pour respecter l'atmosphère paisible."
           }
         },
         {
@@ -411,7 +454,8 @@
             "de": "Fort d'Hoedic",
             "hu": "Fort d'Hoedic",
             "ro": "Fort d'Hoedic",
-            "en": "Fort d'Hoedic"
+            "en": "Fort d'Hoedic",
+            "fr": "Fort d'Hoedic"
           },
           "coords": [
             -2.873673,
@@ -426,7 +470,8 @@
             "de": "Erkunden Sie dieses sternförmige Fort aus dem 19. Jahrhundert und bringen Sie Wasser mit, da es kaum Schatten gibt.",
             "hu": "Fedezze fel ezt a 19. századi csillag alakú erődöt, és hozzon vizet, mivel kevés az árnyék.",
             "ro": "Explorați acest fort în formă de stea din secolul XIX și aduceți apă, deoarece este puțină umbră.",
-            "en": "Explore this 19th-century star-shaped fort to learn about local defense, bringing water as there is little shade inside the walls."
+            "en": "Explore this 19th-century star-shaped fort to learn about local defense, bringing water as there is little shade inside the walls.",
+            "fr": "Explorez ce fort étoilé du XIXe siècle pour en apprendre sur la défense locale, en emportant de l'eau car il y a peu d'ombre à l'intérieur des murs."
           }
         },
         {
@@ -434,7 +479,8 @@
             "de": "Plage du Grand Mulon",
             "hu": "Plage du Grand Mulon",
             "ro": "Plage du Grand Mulon",
-            "en": "Plage du Grand Mulon"
+            "en": "Plage du Grand Mulon",
+            "fr": "Plage du Grand Mulon"
           },
           "coords": [
             -2.869646,
@@ -449,7 +495,8 @@
             "de": "Schließen Sie Ihr Rad bei den Dünen ab und laufen Sie zum Strand, aber achten Sie auf versteckte Felsen.",
             "hu": "Zárja le kerékpárját a dűnék közelében, és sétáljon le a strandra, ügyelve a rejtett sziklákra.",
             "ro": "Legați bicicleta lângă dune și coborâți la plajă, având grijă la stâncile ascunse în apă.",
-            "en": "Lock your bike near the dunes and walk down to this lovely beach for a swim, watching out for hidden rocks in the water."
+            "en": "Lock your bike near the dunes and walk down to this lovely beach for a swim, watching out for hidden rocks in the water.",
+            "fr": "Verrouillez votre vélo près des dunes et descendez à pied jusqu'à cette jolie plage pour une baignade, en faisant attention aux rochers dissimulés dans l'eau."
           }
         },
         {
@@ -457,7 +504,8 @@
             "de": "Menhir de la Vierge",
             "hu": "Menhir de la Vierge",
             "ro": "Menhir de la Vierge",
-            "en": "Menhir de la Vierge"
+            "en": "Menhir de la Vierge",
+            "fr": "Menhir de la Vierge"
           },
           "coords": [
             -2.8677,
@@ -472,7 +520,8 @@
             "de": "Fotografieren Sie diesen einsamen Menhir und bleiben Sie auf dem markierten Weg, um die Flora zu schützen.",
             "hu": "Fotózza le ezt a magányos menhirt, és maradjon a kijelölt ösvényen a növényvilág védelme érdekében.",
             "ro": "Fotografiați acest menhir solitar și rămâneți pe poteca marcată pentru a proteja flora.",
-            "en": "Photograph this solitary standing stone that has guarded the coast for millennia, staying on the marked path to protect the flora."
+            "en": "Photograph this solitary standing stone that has guarded the coast for millennia, staying on the marked path to protect the flora.",
+            "fr": "Photographiez ce menhir solitaire qui garde la côte depuis des millénaires, en restant sur le sentier balisé pour protéger la flore."
           }
         },
         {
@@ -480,7 +529,8 @@
             "de": "Le fort Anglais(ruines)",
             "hu": "Le fort Anglais(ruines)",
             "ro": "Le fort Anglais(ruines)",
-            "en": "Le fort Anglais(ruines)"
+            "en": "Le fort Anglais(ruines)",
+            "fr": "Le fort Anglais(ruines)"
           },
           "coords": [
             -2.865541,
@@ -495,7 +545,8 @@
             "de": "Wandern Sie durch die Ruinen und stellen Sie sich historische Seeschlachten vor, wobei Sie vorsichtig auftreten sollten.",
             "hu": "Sétáljon a romok között, elképzelve a történelmi csatákat, és lépkedjen óvatosan az egyenetlen talajon.",
             "ro": "Plimbați-vă printre ruine pentru a vă imagina bătălii navale istorice, pășind cu grijă pe terenul accidentat.",
-            "en": "Wander around these coastal ruins to imagine historical sea battles, stepping carefully over the uneven, unmaintained terrain."
+            "en": "Wander around these coastal ruins to imagine historical sea battles, stepping carefully over the uneven, unmaintained terrain.",
+            "fr": "Flânez autour de ces ruines côtières pour imaginer des batailles maritimes historiques, en faisant attention au terrain inégal et non entretenu."
           }
         },
         {
@@ -503,7 +554,8 @@
             "de": "Amer",
             "hu": "Amer",
             "ro": "Amer",
-            "en": "Amer"
+            "en": "Amer",
+            "fr": "Amer"
           },
           "coords": [
             -2.869308,
@@ -518,7 +570,8 @@
             "de": "Nutzen Sie dieses Seezeichen zur Orientierung, es bietet zudem eine perfekte Kulisse für ein Selfie.",
             "hu": "Használja ezt a tengeri jelzést tájékozódásra; egyben tökéletes hátteret is nyújt egy szelfihez.",
             "ro": "Folosiți acest reper maritim pentru a vă orienta, oferind și un fundal perfect pentru un selfie.",
-            "en": "Use this distinctive navigational marker to orient yourself on the island, a perfect backdrop for a quick afternoon selfie."
+            "en": "Use this distinctive navigational marker to orient yourself on the island, a perfect backdrop for a quick afternoon selfie.",
+            "fr": "Utilisez ce balisage de navigation distinctif pour vous orienter sur l'île, un parfait arrière-plan pour un selfie d'après-midi."
           }
         },
         {
@@ -526,7 +579,8 @@
             "de": "Alignement du Douet",
             "hu": "Alignement du Douet",
             "ro": "Alignement du Douet",
-            "en": "Alignement du Douet"
+            "en": "Alignement du Douet",
+            "fr": "Alignement du Douet"
           },
           "coords": [
             -2.878284,
@@ -541,7 +595,8 @@
             "de": "Fahren Sie bei Sonnenuntergang zu diesen alten Steinreihen und prüfen Sie das Licht für die Rückfahrt.",
             "hu": "Tekerjen ehhez az ősi kősorhoz naplemente idején, és győződjön meg róla, hogy a kerékpárlámpa működik.",
             "ro": "Pedalați spre aceste aliniamente antice la apus și asigurați-vă că farurile bicicletei sunt pregătite.",
-            "en": "Cycle up to these ancient aligned stones at sunset for dramatic shadows, ensuring your bike lights are ready for the ride back."
+            "en": "Cycle up to these ancient aligned stones at sunset for dramatic shadows, ensuring your bike lights are ready for the ride back.",
+            "fr": "Montez à vélo jusqu'à ces pierres alignées au coucher du soleil pour des ombres dramatiques, en vous assurant que vos lumières sont prêtes pour le retour."
           }
         }
       ],
@@ -549,7 +604,8 @@
         "de": "Starten Sie Ihre Radtour am Port de l’Eglise und fahren Sie zügig zur Kirche Notre-Dame la Blanche. Die frische Brise weckt die Sinne.\n\nRadeln Sie zum Fort d'Hoedic für Militärgeschichte des 19. Jahrhunderts und dann hinab zur Plage du Grand Mulon für eine Pause.\n\nDer Nachmittag ist eine Zeitreise zum Menhir de la Vierge und den Ruinen des Fort Anglais, die im rauen Wind stehen.\n\nBeenden Sie die Runde am Amer und dem alten Alignement du Douet im sanften Abendlicht.",
         "hu": "Kezdje a kerékpározást a Port de l’Eglise-nél, majd pedálozzon a Notre-Dame la Blanche templom felé. A szellő tökéletes a tekeréshez.\n\nHaladjon a Fort d'Hoedic erődítményhez a 19. századi történelemért, majd guruljon le a Plage du Grand Mulon tengerpartjára egy pihenőre.\n\nA délután egy időutazás: látogassa meg a Vierge menhirt és a Le fort Anglais erőd romjait a part mentén.\n\nFejezze be a szigeti kört az Amer navigációs jel és az ősi Alignement du Douet megtekintésével az esti fényekben.",
         "ro": "Începeți traseul de bicicletă la Port de l’Eglise, ajungând rapid la biserica Notre-Dame la Blanche. Briza vă va revigora.\n\nPedalați spre Fort d'Hoedic pentru istoria militară a secolului XIX, apoi coborâți la Plage du Grand Mulon pentru o pauză.\n\nDupă-amiaza este o călătorie în timp la Menhir de la Vierge și la ruinele spectaculoase ale Le fort Anglais.\n\nÎncheiați circuitul vizitând reperul maritim Amer și vechiul Alignement du Douet sub lumina blândă a soarelui.",
-        "en": "Kick off your cycling route at Port de l’Eglise, hopping swiftly to the island's spiritual heart at Notre-Dame la Blanche. The breeze is perfect.\n\nPedal towards Fort d'Hoedic to uncover 19th-century military history, then coast down to Plage du Grand Mulon for a refreshing seaside stop.\n\nThe afternoon is a ride through time, visiting the mystical Menhir de la Vierge and the rugged ruins of Le fort Anglais.\n\nFinish your island circuit by checking the Amer navigational landmark and the ancient Alignement du Douet under the late sun."
+        "en": "Kick off your cycling route at Port de l’Eglise, hopping swiftly to the island's spiritual heart at Notre-Dame la Blanche. The breeze is perfect.\n\nPedal towards Fort d'Hoedic to uncover 19th-century military history, then coast down to Plage du Grand Mulon for a refreshing seaside stop.\n\nThe afternoon is a ride through time, visiting the mystical Menhir de la Vierge and the rugged ruins of Le fort Anglais.\n\nFinish your island circuit by checking the Amer navigational landmark and the ancient Alignement du Douet under the late sun.",
+        "fr": "Lancez votre circuit à vélo au Port de l’Eglise, puis rejoignez rapidement le cœur spirituel de l'île à Notre-Dame la Blanche. La brise est idéale.\n\nPédalez vers le Fort d'Hoedic pour découvrir l'histoire militaire du XIXe siècle, puis descendez jusqu'à la Plage du Grand Mulon pour une pause marine vivifiante.\n\nL'après-midi est une balade à travers le temps, visitant le mystique Menhir de la Vierge et les ruines accidentées du fort Anglais.\n\nTerminez votre tour de l'île en vérifiant l'Amer et l'ancien Alignement du Douet sous le soleil couchant."
       },
       "variants": {
         "rainy": {
@@ -557,7 +613,8 @@
             "de": "Radfahren im Regen erfordert Vorsicht auf den schlammigen Wegen der Insel. Am Vormittag erkunden wir den Hafen im Regenschutz. Mittags rasten wir an der Kirche. Der Nachmittag am Fort bietet weite Ausblicke auf die stürmische See. Trotz Nässe bleibt die Fahrt ein echtes Abenteuer in der rauen Natur Hoedics.",
             "hu": "Az esőben való biciklizés óvatosságot igényel a sziget sáros ösvényein. Délelőtt a kikötőt járjuk be vízálló felszerelésben. Délben a templomnál tartunk szünetet. Délután az erőd falai között figyeljük a haragos tengert. A vizes út csúszós, de a látvány kárpótol minket a technikai nehézségekért.",
             "ro": "Mersul pe bicicletă în ploaie necesită atenție sporită pe potecile noroioase ale insulei. Dimineața vizităm portul protejați de pelerine. La prânz facem un popas la biserică. După-amiaza la fort oferă o vedere spectaculoasă asupra mării agitate. Deși drumul este ud, aventura în natură merită efortul.",
-            "en": "Cycling in the rain requires extra care on the island's muddy coastal tracks. In the morning, we explore the port in waterproof gear. At noon, the church provides a dry stop. The afternoon at the fort offers dramatic views of the churning sea. Though paths are slick, the raw natural beauty is worth the ride."
+            "en": "Cycling in the rain requires extra care on the island's muddy coastal tracks. In the morning, we explore the port in waterproof gear. At noon, the church provides a dry stop. The afternoon at the fort offers dramatic views of the churning sea. Though paths are slick, the raw natural beauty is worth the ride.",
+            "fr": "Faire du vélo sous la pluie exige une prudence accrue sur les chemins côtiers boueux de l'île. Le matin, nous explorons le port en tenue imperméable. À midi, l'église offre une halte sèche. L'après-midi au fort offre des vues dramatiques sur la mer houleuse. Bien que les sentiers soient glissants, la beauté naturelle brute mérite le déplacement."
           },
           "stops": [
             {
@@ -565,13 +622,15 @@
                 "de": "Port de l’Eglise",
                 "hu": "Port de l’Eglise",
                 "ro": "Port de l’Eglise",
-                "en": "Port de l’Eglise"
+                "en": "Port de l’Eglise",
+                "fr": "Port de l’Eglise"
               },
               "tip_5lang": {
                 "de": "Prüfen Sie Ihre Bremsen, bevor Sie losfahren; die Hafenrampen sind bei Regen sehr rutschig für Fahrradreifen.",
                 "hu": "Ellenőrizze a fékeit indulás előtt; a kikötői rámpák esőben nagyon csúszósak a kerékpárgumiknak.",
                 "ro": "Verificați frânele înainte de plecare; rampele din port sunt foarte alunecoase pentru anvelopele de bicicletă pe ploaie.",
-                "en": "Check your brakes before setting off; the harbor ramps are very slippery for bike tires in the rain."
+                "en": "Check your brakes before setting off; the harbor ramps are very slippery for bike tires in the rain.",
+                "fr": "Vérifiez vos freins avant de partir ; les rampes du port sont très glissantes pour les pneus de vélo par temps de pluie."
               }
             },
             {
@@ -579,13 +638,15 @@
                 "de": "Église Notre-Dame la Blanche",
                 "hu": "Église Notre-Dame la Blanche",
                 "ro": "Église Notre-Dame la Blanche",
-                "en": "Église Notre-Dame la Blanche"
+                "en": "Église Notre-Dame la Blanche",
+                "fr": "Église Notre-Dame la Blanche"
               },
               "tip_5lang": {
                 "de": "Parken Sie Ihr Rad nah an der Mauer, um die Kette trocken zu halten; die Kirche ist ein idealer Rastplatz bei Gewitter.",
                 "hu": "Parkoljon közel a falhoz, hogy a láncot szárazon tartsa; a templom ideális pihenőhely zivatar esetén.",
                 "ro": "Parcați bicicleta aproape de perete pentru a păstra lanțul uscat; biserica este un loc de popas ideal în caz de furtună.",
-                "en": "Park your bike close to the wall to keep the chain dry; the church is an ideal rest stop during a storm."
+                "en": "Park your bike close to the wall to keep the chain dry; the church is an ideal rest stop during a storm.",
+                "fr": "Garez votre vélo près du mur pour garder la chaîne au sec ; l'église est un excellent arrêt pendant une tempête."
               }
             },
             {
@@ -593,13 +654,15 @@
                 "de": "Fort d'Hoedic",
                 "hu": "Fort d'Hoedic",
                 "ro": "Fort d'Hoedic",
-                "en": "Fort d'Hoedic"
+                "en": "Fort d'Hoedic",
+                "fr": "Fort d'Hoedic"
               },
               "tip_5lang": {
                 "de": "Das Fort bietet im Innenhof etwas Schutz; nutzen Sie die Zeit, um Ihre Regenkleidung zu richten, bevor es weitergeht.",
                 "hu": "Az erőd belső udvara nyújt némi védelmet; használja ki az időt az esőruházat igazítására, mielőtt továbbmenne.",
                 "ro": "Curtea interioară a fortului oferă ceva protecție; profitați de timp pentru a vă aranja hainele de ploaie înainte de a continua.",
-                "en": "The fort's inner courtyard offers some protection; use the time to adjust your rain gear before moving on."
+                "en": "The fort's inner courtyard offers some protection; use the time to adjust your rain gear before moving on.",
+                "fr": "La cour intérieure du fort offre une certaine protection ; profitez-en pour ajuster votre équipement de pluie avant de repartir."
               }
             },
             {
@@ -607,13 +670,15 @@
                 "de": "Plage du Grand Mulon",
                 "hu": "Plage du Grand Mulon",
                 "ro": "Plage du Grand Mulon",
-                "en": "Plage du Grand Mulon"
+                "en": "Plage du Grand Mulon",
+                "fr": "Plage du Grand Mulon"
               },
               "tip_5lang": {
                 "de": "Fahren Sie nicht zu nah an den Sand, da dieser nass sehr schwergängig ist; genießen Sie den Blick auf die graue See.",
                 "hu": "Ne menjen túl közel a homokhoz, mert nedvesen nagyon nehéz rajta tekerni; élvezze a szürke tenger látványát.",
                 "ro": "Nu mergeți prea aproape de nisip, deoarece acesta este foarte greu de parcurs când este ud; bucurați-vă de marea gri.",
-                "en": "Don't ride too close to the sand as it's very hard to pedal when wet; enjoy the view of the grey sea."
+                "en": "Don't ride too close to the sand as it's very hard to pedal when wet; enjoy the view of the grey sea.",
+                "fr": "Ne roulez pas trop près du sable car il est très difficile de pédaler quand il est mouillé ; profitez de la vue sur la mer grise."
               }
             },
             {
@@ -621,13 +686,15 @@
                 "de": "Menhir de la Vierge",
                 "hu": "Menhir de la Vierge",
                 "ro": "Menhir de la Vierge",
-                "en": "Menhir de la Vierge"
+                "en": "Menhir de la Vierge",
+                "fr": "Menhir de la Vierge"
               },
               "tip_5lang": {
                 "de": "Achten Sie auf Pfützen, die tiefe Schlaglöcher verbergen könnten; der Menhir wirkt im Regen besonders mystisch.",
                 "hu": "Ügyeljen a tócsákra, amelyek mély kátyúkat rejthetnek; a menhir esőben különösen misztikus látványt nyújt.",
                 "ro": "Atenție la bălțile care ar putea ascunde gropi adânci; menhirul arată deosebit de mistic în ploaie.",
-                "en": "Watch out for puddles that might hide deep potholes; the menhir looks particularly mystical in the rain."
+                "en": "Watch out for puddles that might hide deep potholes; the menhir looks particularly mystical in the rain.",
+                "fr": "Attention aux flaques qui peuvent cacher des nids-de-poule profonds ; le menhir paraît particulièrement mystique sous la pluie."
               }
             },
             {
@@ -635,13 +702,15 @@
                 "de": "Le fort Anglais(ruines)",
                 "hu": "Le fort Anglais(ruines)",
                 "ro": "Le fort Anglais(ruines)",
-                "en": "Le fort Anglais(ruines)"
+                "en": "Le fort Anglais(ruines)",
+                "fr": "Le fort Anglais(ruines)"
               },
               "tip_5lang": {
                 "de": "Vorsicht auf dem unebenen Pfad zu den Ruinen; der Boden kann durch den Regen aufgeweicht und instabil sein.",
                 "hu": "Vigyázzon a romokhoz vezető egyenetlen ösvényen; a talaj az esőtől felázott és instabil lehet.",
                 "ro": "Atenție pe poteca denivelată spre ruine; solul poate fi înmuiat și instabil din cauza ploii.",
-                "en": "Be careful on the uneven path to the ruins; the ground can be soaked and unstable from the rain."
+                "en": "Be careful on the uneven path to the ruins; the ground can be soaked and unstable from the rain.",
+                "fr": "Soyez prudent sur le chemin irrégulier menant aux ruines ; le sol peut être imbibé et instable après la pluie."
               }
             },
             {
@@ -649,13 +718,15 @@
                 "de": "Amer",
                 "hu": "Amer",
                 "ro": "Amer",
-                "en": "Amer"
+                "en": "Amer",
+                "fr": "Amer"
               },
               "tip_5lang": {
                 "de": "Die Sicht kann eingeschränkt sein; fahren Sie langsam und nutzen Sie Reflektoren an Ihrer Kleidung für bessere Sichtbarkeit.",
                 "hu": "A látási viszonyok korlátozottak lehetnek; hajtson lassan és használjon fényvisszaverőt a jobb láthatóságért.",
                 "ro": "Vizibilitatea poate fi limitată; mergeți încet și folosiți reflectorizante pe haine pentru o mai bună vizibilitate.",
-                "en": "Visibility may be limited; ride slowly and use reflectors on your clothing for better visibility."
+                "en": "Visibility may be limited; ride slowly and use reflectors on your clothing for better visibility.",
+                "fr": "La visibilité peut être limitée ; roulez lentement et portez des réflecteurs sur vos vêtements pour mieux être vu."
               }
             },
             {
@@ -663,13 +734,15 @@
                 "de": "Alignement du Douet",
                 "hu": "Alignement du Douet",
                 "ro": "Alignement du Douet",
-                "en": "Alignement du Douet"
+                "en": "Alignement du Douet",
+                "fr": "Alignement du Douet"
               },
               "tip_5lang": {
                 "de": "Schließen Sie Ihre Tour zügig ab, bevor der Wind zunimmt; reinigen Sie die Fahrradkette nach der Fahrt vom Salzschlamm.",
                 "hu": "Zárja le túráját gyorsan, mielőtt a szél felerősödik; menet után tisztítsa meg a láncot a sós sártól.",
                 "ro": "Încheiați turul rapid înainte ca vântul să crească; curățați lanțul bicicletei de noroiul sărat după cursă.",
-                "en": "Finish your tour quickly before the wind picks up; clean the bike chain from salty mud after the ride."
+                "en": "Finish your tour quickly before the wind picks up; clean the bike chain from salty mud after the ride.",
+                "fr": "Terminez votre tour rapidement avant que le vent ne se lève ; nettoyez la chaîne du vélo de la boue salée après la sortie."
               }
             }
           ]
@@ -679,7 +752,8 @@
             "de": "Ein kühler Vormittag auf dem Rad führt uns entlang der frostigen Küste. Die tiefstehende Sonne blendet auf dem Meer, während wir zur Kirche radeln. Mittags wärmen wir uns kurz auf, bevor wir zum Fort weiterfahren. Da es ab 17:00 Uhr dunkel wird, planen wir eine kompakte Route mit warmer Kleidung und Handschuhen ein.",
             "hu": "A hűvös délelőtt a bringán a deres partvonal mentén vezet. Az alacsonyan járó nap vakítóan csillan a tengeren, miközben a templom felé tekerünk. Délben rövid melegedőt tartunk, majd az erőd felé vesszük az irányt. Mivel 17:00-kor sötétedik, kompakt útvonalat tervezünk meleg ruhában és kesztyűben.",
             "ro": "O dimineață răcoroasă pe bicicletă ne poartă de-a lungul coastei înghețate. Soarele jos strălucește orbitor pe mare în timp ce pedalăm spre biserică. La prânz ne încălzim puțin înainte de a merge spre fort. Deoarece se întunecă la ora 17:00, planificăm o rută compactă cu haine groase și mănuși.",
-            "en": "A cool morning on the bike takes us along the frosty coastline. The low sun glints blindingly off the sea as we cycle toward the church. At noon, we take a short warm-up break before heading to the fort. As it gets dark by 17:00, we plan a compact route with warm clothing and gloves."
+            "en": "A cool morning on the bike takes us along the frosty coastline. The low sun glints blindingly off the sea as we cycle toward the church. At noon, we take a short warm-up break before heading to the fort. As it gets dark by 17:00, we plan a compact route with warm clothing and gloves.",
+            "fr": "Une matinée fraîche à vélo nous mène le long du littoral givré. Le soleil bas renvoie des reflets aveuglants sur la mer tandis que nous roulons vers l’église. À midi, nous faisons une courte pause pour nous réchauffer avant de nous diriger vers le fort. Comme la nuit tombe vers 17:00, nous prévoyons un itinéraire compact avec des vêtements chauds et des gants."
           },
           "stops": [
             {
@@ -687,13 +761,15 @@
                 "de": "Port de l’Eglise",
                 "hu": "Port de l’Eglise",
                 "ro": "Port de l’Eglise",
-                "en": "Port de l’Eglise"
+                "en": "Port de l’Eglise",
+                "fr": "Port de l’Eglise"
               },
               "tip_5lang": {
                 "de": "Tragen Sie dicke Handschuhe; der kalte Fahrtwind am Hafen kann die Finger beim Bremsen schnell taub machen.",
                 "hu": "Viseljen vastag kesztyűt; a hideg menetszél a kikötőnél hamar elzsibbaszthatja az ujjait fékezés közben.",
                 "ro": "Purtați mănuși groase; vântul rece din port vă poate amorți rapid degetele în timp ce frânați.",
-                "en": "Wear thick gloves; the cold wind at the harbor can quickly make your fingers numb while braking."
+                "en": "Wear thick gloves; the cold wind at the harbor can quickly make your fingers numb while braking.",
+                "fr": "Portez des gants épais ; le vent froid au port peut rapidement engourdir vos doigts lors du freinage."
               }
             },
             {
@@ -701,13 +777,15 @@
                 "de": "Église Notre-Dame la Blanche",
                 "hu": "Église Notre-Dame la Blanche",
                 "ro": "Église Notre-Dame la Blanche",
-                "en": "Église Notre-Dame la Blanche"
+                "en": "Église Notre-Dame la Blanche",
+                "fr": "Église Notre-Dame la Blanche"
               },
               "tip_5lang": {
                 "de": "Nutzen Sie die Kirchenmauern als Windschutz für eine kurze Trinkpause; warme Getränke sind jetzt sehr willkommen.",
                 "hu": "Használja a templomfalakat szélvédelemnek egy rövid ivószünethez; a meleg italok most nagyon jólesnek.",
                 "ro": "Folosiți pereții bisericii ca paravan împotriva vântului pentru o scurtă pauză; băuturile calde sunt binevenite acum.",
-                "en": "Use the church walls as a windbreak for a short drink break; warm drinks are very welcome now."
+                "en": "Use the church walls as a windbreak for a short drink break; warm drinks are very welcome now.",
+                "fr": "Utilisez les murs de l’église comme brise-vent pour une courte pause boisson ; les boissons chaudes sont les bienvenues en ce moment."
               }
             },
             {
@@ -715,13 +793,15 @@
                 "de": "Fort d'Hoedic",
                 "hu": "Fort d'Hoedic",
                 "ro": "Fort d'Hoedic",
-                "en": "Fort d'Hoedic"
+                "en": "Fort d'Hoedic",
+                "fr": "Fort d'Hoedic"
               },
               "tip_5lang": {
                 "de": "Das Fort wirkt im Winterlicht sehr markant; parken Sie das Rad sicher, da Windböen es leicht umwerfen können.",
                 "hu": "Az erőd a téli fényben nagyon karakteres; parkolja le biztonságosan a bringát, mert a széllökések könnyen feldönthetik.",
                 "ro": "Fortul arată foarte distinctiv în lumina de iarnă; parcați bicicleta în siguranță, deoarece rafalele de vânt o pot răsturna.",
-                "en": "The fort looks very distinctive in the winter light; park your bike securely as wind gusts can easily blow it over."
+                "en": "The fort looks very distinctive in the winter light; park your bike securely as wind gusts can easily blow it over.",
+                "fr": "Le fort est très caractéristique sous la lumière hivernale ; garez votre vélo solidement car les rafales peuvent facilement le renverser."
               }
             },
             {
@@ -729,13 +809,15 @@
                 "de": "Plage du Grand Mulon",
                 "hu": "Plage du Grand Mulon",
                 "ro": "Plage du Grand Mulon",
-                "en": "Plage du Grand Mulon"
+                "en": "Plage du Grand Mulon",
+                "fr": "Plage du Grand Mulon"
               },
               "tip_5lang": {
                 "de": "Der Strandweg kann gefroren sein; fahren Sie vorsichtig in Kurven, um ein Wegrutschen auf Eisplatten zu vermeiden.",
                 "hu": "A strandhoz vezető út jeges lehet; óvatosan kanyarodjon, hogy elkerülje a megcsúszást a jégfoltokon.",
                 "ro": "Drumul spre plajă poate fi înghețat; virați cu atenție pentru a evita alunecarea pe peticele de gheață.",
-                "en": "The beach path may be frozen; corner carefully to avoid slipping on ice patches."
+                "en": "The beach path may be frozen; corner carefully to avoid slipping on ice patches.",
+                "fr": "Le sentier de la plage peut être gelé ; prenez les virages avec précaution pour éviter de glisser sur des plaques de verglas."
               }
             },
             {
@@ -743,13 +825,15 @@
                 "de": "Menhir de la Vierge",
                 "hu": "Menhir de la Vierge",
                 "ro": "Menhir de la Vierge",
-                "en": "Menhir de la Vierge"
+                "en": "Menhir de la Vierge",
+                "fr": "Menhir de la Vierge"
               },
               "tip_5lang": {
                 "de": "Die Sonne steht tief und kann blenden; eine Sportbrille hilft Ihnen, den Weg zwischen den Menhiren klar zu sehen.",
                 "hu": "A nap alacsonyan jár és vakíthat; egy napszemüveg segít tisztán látni az utat a menhirek között.",
                 "ro": "Soarele este jos și poate fi orbitor; ochelarii de sport vă ajută să vedeți clar drumul printre menhire.",
-                "en": "The sun is low and can be blinding; sports glasses will help you see the path clearly between the menhirs."
+                "en": "The sun is low and can be blinding; sports glasses will help you see the path clearly between the menhirs.",
+                "fr": "Le soleil est bas et peut être éblouissant ; des lunettes de sport vous aideront à voir clairement le chemin entre les menhirs."
               }
             },
             {
@@ -757,13 +841,15 @@
                 "de": "Le fort Anglais(ruines)",
                 "hu": "Le fort Anglais(ruines)",
                 "ro": "Le fort Anglais(ruines)",
-                "en": "Le fort Anglais(ruines)"
+                "en": "Le fort Anglais(ruines)",
+                "fr": "Le fort Anglais(ruines)"
               },
               "tip_5lang": {
                 "de": "Die Ruinen bieten kaum Schutz vor der Kälte; machen Sie nur einen kurzen Stopp, um nicht auszukühlen.",
                 "hu": "A romok alig nyújtanak védelmet a hideg ellen; csak rövid ideig álljon meg, hogy ne hűljön ki a teste.",
                 "ro": "Ruinele oferă puțină protecție împotriva frigului; faceți doar un scurt popas pentru a nu vă răci corpul.",
-                "en": "The ruins offer little protection from the cold; make only a short stop to avoid cooling down too much."
+                "en": "The ruins offer little protection from the cold; make only a short stop to avoid cooling down too much.",
+                "fr": "Les ruines offrent peu de protection contre le froid ; faites seulement un court arrêt pour éviter de trop vous refroidir."
               }
             },
             {
@@ -771,13 +857,15 @@
                 "de": "Amer",
                 "hu": "Amer",
                 "ro": "Amer",
-                "en": "Amer"
+                "en": "Amer",
+                "fr": "Amer"
               },
               "tip_5lang": {
                 "de": "Achten Sie auf die Uhrzeit; das Licht schwindet hier am Kap besonders schnell, schalten Sie Ihr Licht rechtzeitig ein.",
                 "hu": "Ügyeljen az időre; a fény itt a foknál különösen gyorsan fogy, időben kapcsolja be a lámpáit.",
                 "ro": "Fiți atenți la oră; lumina scade rapid aici la cap, aprindeți luminile la timp.",
-                "en": "Pay attention to the time; the light fades especially fast here at the cape, turn on your lights in time."
+                "en": "Pay attention to the time; the light fades especially fast here at the cape, turn on your lights in time.",
+                "fr": "Faites attention à l’heure ; la lumière décline particulièrement vite ici au cap, allumez vos éclairages à temps."
               }
             },
             {
@@ -785,13 +873,15 @@
                 "de": "Alignement du Douet",
                 "hu": "Alignement du Douet",
                 "ro": "Alignement du Douet",
-                "en": "Alignement du Douet"
+                "en": "Alignement du Douet",
+                "fr": "Alignement du Douet"
               },
               "tip_5lang": {
                 "de": "Beeilen Sie sich für das letzte Stück; bei Sonnenuntergang sinkt die Temperatur auf der Insel schlagartig.",
                 "hu": "Siessen az utolsó szakaszon; naplementekor a hőmérséklet a szigeten hirtelen leesik.",
                 "ro": "Grăbiți-vă pe ultima secțiune; la apus, temperatura pe insulă scade brusc.",
-                "en": "Hurry for the last stretch; at sunset, the temperature on the island drops abruptly."
+                "en": "Hurry for the last stretch; at sunset, the temperature on the island drops abruptly.",
+                "fr": "Dépêchez-vous pour la dernière étape ; au coucher du soleil, la température sur l’île chute brusquement."
               }
             }
           ]
@@ -811,7 +901,8 @@
             "de": "Port Neuf",
             "hu": "Port Neuf",
             "ro": "Port Neuf",
-            "en": "Port Neuf"
+            "en": "Port Neuf",
+            "fr": "Port Neuf"
           },
           "coords": [
             -2.888365,
@@ -826,7 +917,8 @@
             "de": "Parken Sie vorsichtig am Port Neuf, um die morgendliche Fähre zu beobachten und einen Kaffee zu trinken.",
             "hu": "Parkoljon óvatosan a Port Neuf közelében, hogy megnézze a reggeli kompot egy kávé mellett.",
             "ro": "Parcați cu grijă la Port Neuf pentru a vedea feribotul de dimineață, bucurându-vă de o cafea.",
-            "en": "Park carefully near Port Neuf to watch the morning ferry arrivals, a great spot to grab a coffee before driving on."
+            "en": "Park carefully near Port Neuf to watch the morning ferry arrivals, a great spot to grab a coffee before driving on.",
+            "fr": "Garez-vous soigneusement près de Port Neuf pour observer les arrivées du ferry du matin, un endroit idéal pour prendre un café avant de reprendre la route."
           }
         },
         {
@@ -834,7 +926,8 @@
             "de": "Dolmen de Port Louit",
             "hu": "Dolmen de Port Louit",
             "ro": "Dolmen de Port Louit",
-            "en": "Dolmen de Port Louit"
+            "en": "Dolmen de Port Louit",
+            "fr": "Dolmen de Port Louit"
           },
           "coords": [
             -2.885073,
@@ -849,7 +942,8 @@
             "de": "Halten Sie sicher an, um diesen neolithischen Dolmen zu bestaunen, und hinterlassen Sie ihn so, wie Sie ihn vorfanden.",
             "hu": "Húzódjon le biztonságosan, hogy megcsodálja ezt a neolitikus dolment, és hagyja érintetlenül a helyszínt.",
             "ro": "Trageți pe dreapta în siguranță pentru a admira acest dolmen neolitic, lăsând locul exact cum l-ați găsit.",
-            "en": "Pull over safely to marvel at this well-preserved Neolithic dolmen, leaving the site exactly as you found it."
+            "en": "Pull over safely to marvel at this well-preserved Neolithic dolmen, leaving the site exactly as you found it.",
+            "fr": "Arrêtez-vous en toute sécurité pour admirer ce dolmen néolithique bien conservé, en laissant le site exactement comme vous l’avez trouvé."
           }
         },
         {
@@ -857,7 +951,8 @@
             "de": "Fort d'Hoedic",
             "hu": "Fort d'Hoedic",
             "ro": "Fort d'Hoedic",
-            "en": "Fort d'Hoedic"
+            "en": "Fort d'Hoedic",
+            "fr": "Fort d'Hoedic"
           },
           "coords": [
             -2.873673,
@@ -872,7 +967,8 @@
             "de": "Erkunden Sie dieses sternförmige Fort aus dem 19. Jahrhundert und bringen Sie Wasser mit, da es kaum Schatten gibt.",
             "hu": "Fedezze fel ezt a 19. századi csillag alakú erődöt, és hozzon vizet, mivel kevés az árnyék.",
             "ro": "Explorați acest fort în formă de stea din secolul XIX și aduceți apă, deoarece este puțină umbră.",
-            "en": "Explore this 19th-century star-shaped fort to learn about local defense, bringing water as there is little shade inside the walls."
+            "en": "Explore this 19th-century star-shaped fort to learn about local defense, bringing water as there is little shade inside the walls.",
+            "fr": "Explorez ce fort étoilé du XIXe siècle pour en apprendre sur la défense locale, emportez de l’eau car il y a peu d’ombre à l’intérieur des murs."
           }
         },
         {
@@ -880,7 +976,8 @@
             "de": "Menhir de la Vierge",
             "hu": "Menhir de la Vierge",
             "ro": "Menhir de la Vierge",
-            "en": "Menhir de la Vierge"
+            "en": "Menhir de la Vierge",
+            "fr": "Menhir de la Vierge"
           },
           "coords": [
             -2.8677,
@@ -895,7 +992,8 @@
             "de": "Fotografieren Sie diesen einsamen Menhir und bleiben Sie auf dem markierten Weg, um die Flora zu schützen.",
             "hu": "Fotózza le ezt a magányos menhirt, és maradjon a kijelölt ösvényen a növényvilág védelme érdekében.",
             "ro": "Fotografiați acest menhir solitar și rămâneți pe poteca marcată pentru a proteja flora.",
-            "en": "Photograph this solitary standing stone that has guarded the coast for millennia, staying on the marked path to protect the flora."
+            "en": "Photograph this solitary standing stone that has guarded the coast for millennia, staying on the marked path to protect the flora.",
+            "fr": "Photographiez cette pierre dressée solitaire qui garde la côte depuis des millénaires, en restant sur le sentier balisé pour protéger la flore."
           }
         },
         {
@@ -903,7 +1001,8 @@
             "de": "La Plage bleue",
             "hu": "La Plage bleue",
             "ro": "La Plage bleue",
-            "en": "La Plage bleue"
+            "en": "La Plage bleue",
+            "fr": "La Plage bleue"
           },
           "coords": [
             -2.862121,
@@ -918,7 +1017,8 @@
             "de": "Lassen Sie das Auto stehen und schlendern Sie zu dieser blauen Bucht; packen Sie ein Handtuch ein.",
             "hu": "Hagyja hátra az autót, és sétáljon le ehhez a kék öbölhöz, vigyen magával egy törölközőt is.",
             "ro": "Lăsați mașina la punctul de acces și plimbați-vă spre acest golf albastru, luând un prosop cu voi.",
-            "en": "Leave the car at the access point and stroll down to this vivid blue bay, packing a towel if you plan to dip your toes."
+            "en": "Leave the car at the access point and stroll down to this vivid blue bay, packing a towel if you plan to dip your toes.",
+            "fr": "Laissez la voiture au point d’accès et descendez à pied jusqu’à cette baie d’un bleu vif, prenez une serviette si vous comptez tremper les orteils."
           }
         },
         {
@@ -926,7 +1026,8 @@
             "de": "Le fort Anglais(ruines)",
             "hu": "Le fort Anglais(ruines)",
             "ro": "Le fort Anglais(ruines)",
-            "en": "Le fort Anglais(ruines)"
+            "en": "Le fort Anglais(ruines)",
+            "fr": "Le fort Anglais(ruines)"
           },
           "coords": [
             -2.865541,
@@ -941,7 +1042,8 @@
             "de": "Wandern Sie durch die Ruinen und stellen Sie sich historische Seeschlachten vor, wobei Sie vorsichtig auftreten sollten.",
             "hu": "Sétáljon a romok között, elképzelve a történelmi csatákat, és lépkedjen óvatosan az egyenetlen talajon.",
             "ro": "Plimbați-vă printre ruine pentru a vă imagina bătălii navale istorice, pășind cu grijă pe terenul accidentat.",
-            "en": "Wander around these coastal ruins to imagine historical sea battles, stepping carefully over the uneven, unmaintained terrain."
+            "en": "Wander around these coastal ruins to imagine historical sea battles, stepping carefully over the uneven, unmaintained terrain.",
+            "fr": "Promenez-vous autour de ces ruines côtières pour imaginer des batailles navales historiques, en franchissant prudemment le terrain inégal et non entretenu."
           }
         },
         {
@@ -949,7 +1051,8 @@
             "de": "Alignement du Douet",
             "hu": "Alignement du Douet",
             "ro": "Alignement du Douet",
-            "en": "Alignement du Douet"
+            "en": "Alignement du Douet",
+            "fr": "Alignement du Douet"
           },
           "coords": [
             -2.878284,
@@ -964,7 +1067,8 @@
             "de": "Besuchen Sie diese alten Steinreihen bei Sonnenuntergang und blockieren Sie beim Parken nicht die schmalen Wege.",
             "hu": "Látogassa meg a kősorokat naplementekor, ügyelve arra, hogy parkolásával ne akadályozza a keskeny utakat.",
             "ro": "Vizitați aceste aliniamente antice la apus, asigurându-vă că nu blocați drumurile înguste la parcare.",
-            "en": "Visit these ancient aligned stones at sunset for dramatic shadows, ensuring you park without blocking the narrow island tracks."
+            "en": "Visit these ancient aligned stones at sunset for dramatic shadows, ensuring you park without blocking the narrow island tracks.",
+            "fr": "Visitez ces pierres alignées anciennes au coucher du soleil pour des ombres dramatiques, en veillant à vous garer sans bloquer les étroites pistes de l’île."
           }
         }
       ],
@@ -972,7 +1076,8 @@
         "de": "Beginnen Sie am Port Neuf, einem idealen Ausgangspunkt, bevor Sie zu den prähistorischen Stätten der Insel aufbrechen.\n\nFahren Sie nach Süden zum Dolmen de Port Louit und besuchen Sie das imposante Fort d'Hoedic, wo Geschichte lebendig wird.\n\nDen Nachmittag verbringen Sie zwischen dem Menhir de la Vierge und dem goldenen Sand der Plage bleue zum Entspannen.\n\nBeenden Sie die motorisierte Tour bei den nördlichen Ruinen des Fort Anglais und den Steinreihen von Douet.",
         "hu": "Kezdje az utat Port Neuf-ben, majd induljon el a sziget őskori helyszínei felé egy kényelmes autózás keretében.\n\nVezessen délre a Port Louit dolmenhez, majd látogasson el az impozáns Fort d'Hoedic erődbe, ahol a történelem megelevenedik.\n\nA délutánt a Vierge menhir és a La Plage bleue aranyhomokos partja között töltheti egy gyors feltöltődésre.\n\nZárja az autós túrát a Le fort Anglais északi romjainak és a Douet kősorainak felfedezésével.",
         "ro": "Începeți traseul la Port Neuf, un punct ideal de pornire înainte de a vă îndrepta spre siturile preistorice ale insulei.\n\nConduceți spre sud la Dolmen de Port Louit, urmat de o vizită la impunătorul Fort d'Hoedic, unde istoria prinde viață.\n\nPetreceți după-amiaza între Menhir de la Vierge și nisipurile fine de la La Plage bleue pentru a vă relaxa.\n\nÎncheiați turul auto explorând ruinele nordice de la Le fort Anglais și aliniamentele de piatră de la Douet.",
-        "en": "Begin your drive at Port Neuf, an ideal starting point to get your bearings before heading towards the island's prehistoric sites.\n\nDrive south to the Dolmen de Port Louit, followed by a visit to the imposing Fort d'Hoedic where island defense history comes alive.\n\nSpend the afternoon hopping between the Menhir de la Vierge and the golden sands of La Plage bleue for a quick recharge.\n\nConclude your motorized tour exploring the northern ruins of Le fort Anglais and the stone alignments of Douet as dusk approaches."
+        "en": "Begin your drive at Port Neuf, an ideal starting point to get your bearings before heading towards the island's prehistoric sites.\n\nDrive south to the Dolmen de Port Louit, followed by a visit to the imposing Fort d'Hoedic where island defense history comes alive.\n\nSpend the afternoon hopping between the Menhir de la Vierge and the golden sands of La Plage bleue for a quick recharge.\n\nConclude your motorized tour exploring the northern ruins of Le fort Anglais and the stone alignments of Douet as dusk approaches.",
+        "fr": "Commencez votre trajet à Port Neuf, point de départ idéal pour vous orienter avant de vous diriger vers les sites préhistoriques de l’île.\n\nRoulez vers le sud jusqu’au Dolmen de Port Louit, puis visitez l’imposant Fort d’Hoedic où l’histoire de la défense insulaire prend vie.\n\nPassez l’après-midi à faire des haltes entre le Menhir de la Vierge et les sables dorés de La Plage bleue pour une courte recharge.\n\nConcluez votre circuit motorisé en explorant les ruines nordiques du Fort Anglais et les alignements de pierres du Douet à l’approche du crépuscule."
       },
       "variants": {
         "rainy": {
@@ -980,7 +1085,8 @@
             "de": "Eine Fahrt durch den Regen zeigt Hoedic von seiner rauesten Seite. Vormittags steuern wir den Port Neuf an, während die Scheibenwischer unermüdlich arbeiten. Mittags erkunden wir das Fort, das einen soliden Rückzugsort bietet. Der Nachmittag führt uns zu den prähistorischen Stätten, wobei wir die Bequemlichkeit des Fahrzeugs zwischen den Regengüssen schätzen.",
             "hu": "Az esős autózás (vagy elektromos kocsikázás) Hoedic legnyersebb arcát mutatja. Délelőtt a Port Neuf felé vesszük az irányt, miközben az ablaktörlők serényen dolgoznak. Délben az erődöt fedezzük fel, amely szilárd menedéket nyújt. Délután az őskori emlékeket keressük fel, élvezve a jármű kényelmét a záporok között.",
             "ro": "O plimbare prin ploaie arată Hoedic în cea mai aspră formă a sa. Dimineața ne îndreptăm spre Port Neuf, în timp ce ștergătoarele lucrează neîncetat. La prânz explorăm fortul, care oferă un refugiu solid. După-amiaza ne poartă spre siturile preistorice, apreciind confortul vehiculului între averse.",
-            "en": "Driving through the rain shows Hoedic at its rawest. In the morning, we head to Port Neuf while the wipers work tirelessly. At noon, we explore the fort, which offers a solid retreat. The afternoon takes us to prehistoric sites, appreciating the vehicle's comfort between downpours."
+            "en": "Driving through the rain shows Hoedic at its rawest. In the morning, we head to Port Neuf while the wipers work tirelessly. At noon, we explore the fort, which offers a solid retreat. The afternoon takes us to prehistoric sites, appreciating the vehicle's comfort between downpours.",
+            "fr": "Conduire sous la pluie montre Hoedic dans son expression la plus brute. Le matin, nous nous rendons à Port Neuf tandis que les essuie-glaces travaillent sans relâche. À midi, nous explorons le fort, qui offre un refuge solide. L’après-midi nous mène vers les sites préhistoriques, appréciant le confort du véhicule entre les averses."
           },
           "stops": [
             {
@@ -988,13 +1094,15 @@
                 "de": "Port Neuf",
                 "hu": "Port Neuf",
                 "ro": "Port Neuf",
-                "en": "Port Neuf"
+                "en": "Port Neuf",
+                "fr": "Port Neuf"
               },
               "tip_5lang": {
                 "de": "Parken Sie auf festem Untergrund; der Boden am Hafen kann bei Dauerregen sehr schlammig und weich werden.",
                 "hu": "Parkoljon szilárd talajon; a kikötő melletti talaj tartós esőben nagyon sáros és puha lehet.",
                 "ro": "Parcați pe teren solid; solul de lângă port poate deveni foarte noroios și moale în ploaie persistentă.",
-                "en": "Park on solid ground; the soil near the harbor can become very muddy and soft during persistent rain."
+                "en": "Park on solid ground; the soil near the harbor can become very muddy and soft during persistent rain.",
+                "fr": "Garez-vous sur un sol ferme ; la terre près du port peut devenir très boueuse et molle pendant les pluies persistantes."
               }
             },
             {
@@ -1002,13 +1110,15 @@
                 "de": "Dolmen de Port Louit",
                 "hu": "Dolmen de Port Louit",
                 "ro": "Dolmen de Port Louit",
-                "en": "Dolmen de Port Louit"
+                "en": "Dolmen de Port Louit",
+                "fr": "Dolmen de Port Louit"
               },
               "tip_5lang": {
                 "de": "Nutzen Sie das Fahrzeug für kurze Sprints zu den Steinen; die Wege sind ungeschützt und der Wind weht den Regen waagerecht.",
                 "hu": "Használja a járművet a kövekhez való gyors kijutáshoz; az utak védtelenek, és a szél vízszintesen hordja az esőt.",
                 "ro": "Folosiți vehiculul pentru sprinturi scurte spre pietre; drumurile sunt neprotejate și vântul suflă ploaia orizontal.",
-                "en": "Use the vehicle for quick sprints to the stones; the paths are unsheltered and the wind blows the rain horizontally."
+                "en": "Use the vehicle for quick sprints to the stones; the paths are unsheltered and the wind blows the rain horizontally.",
+                "fr": "Utilisez le véhicule pour de rapides pointes jusqu’aux pierres ; les chemins sont exposés et le vent fait pleuvoir la pluie horizontalement."
               }
             },
             {
@@ -1016,13 +1126,15 @@
                 "de": "Fort d'Hoedic",
                 "hu": "Fort d'Hoedic",
                 "ro": "Fort d'Hoedic",
-                "en": "Fort d'Hoedic"
+                "en": "Fort d'Hoedic",
+                "fr": "Fort d'Hoedic"
               },
               "tip_5lang": {
                 "de": "Das massive Mauerwerk hält den Regen draußen; ideal für eine längere Pause, um die stürmische Küste sicher zu beobachten.",
                 "hu": "A masszív falak kint tartják az esőt; ideális egy hosszabb szünetre, hogy biztonságból figyelje a viharos partot.",
                 "ro": "Zidăria masivă ține ploaia afară; ideal pentru o pauză mai lungă pentru a observa coasta furtunoasă în siguranță.",
-                "en": "The massive masonry keeps the rain out; ideal for a longer break to safely observe the stormy coast."
+                "en": "The massive masonry keeps the rain out; ideal for a longer break to safely observe the stormy coast.",
+                "fr": "La maçonnerie massive protège de la pluie ; lieu idéal pour une pause prolongée afin d’observer la côte agitée en toute sécurité."
               }
             },
             {
@@ -1030,13 +1142,15 @@
                 "de": "Menhir de la Vierge",
                 "hu": "Menhir de la Vierge",
                 "ro": "Menhir de la Vierge",
-                "en": "Menhir de la Vierge"
+                "en": "Menhir de la Vierge",
+                "fr": "Menhir de la Vierge"
               },
               "tip_5lang": {
                 "de": "Vermeiden Sie das Fahren auf unbefestigten Graswegen; das Fahrzeug könnte im aufgeweichten Boden stecken bleiben.",
                 "hu": "Kerülje a vezetés a burkolatlan füves utakon; a jármű könnyen elakadhat a felázott talajban.",
                 "ro": "Evitați condusul pe drumuri de iarbă neasfaltate; vehiculul s-ar putea bloca în solul înmuiat.",
-                "en": "Avoid driving on unpaved grass paths; the vehicle could get stuck in the soaked ground."
+                "en": "Avoid driving on unpaved grass paths; the vehicle could get stuck in the soaked ground.",
+                "fr": "Évitez de rouler sur les chemins herbeux non revêtus ; le véhicule pourrait s’embourber dans le sol détrempé."
               }
             },
             {
@@ -1044,13 +1158,15 @@
                 "de": "La Plage bleue",
                 "hu": "La Plage bleue",
                 "ro": "La Plage bleue",
-                "en": "La Plage bleue"
+                "en": "La Plage bleue",
+                "fr": "La Plage bleue"
               },
               "tip_5lang": {
                 "de": "Genießen Sie den Blick aus dem trockenen Innenraum; die Gischt der Wellen ist bei Regen besonders beeindruckend.",
                 "hu": "Élvezze a kilátást a száraz utastérből; a hullámok tajtéka esőben különösen lenyűgöző.",
                 "ro": "Bucurați-vă de priveliște din interiorul uscat; spuma valurilor este deosebit de impresionantă în ploaie.",
-                "en": "Enjoy the view from the dry interior; the spray of the waves is particularly impressive in the rain."
+                "en": "Enjoy the view from the dry interior; the spray of the waves is particularly impressive in the rain.",
+                "fr": "Profitez de la vue depuis l’intérieur sec ; la pulvérisation des vagues est particulièrement impressionnante sous la pluie."
               }
             },
             {
@@ -1058,13 +1174,15 @@
                 "de": "Le fort Anglais(ruines)",
                 "hu": "Le fort Anglais(ruines)",
                 "ro": "Le fort Anglais(ruines)",
-                "en": "Le fort Anglais(ruines)"
+                "en": "Le fort Anglais(ruines)",
+                "fr": "Le fort Anglais(ruines)"
               },
               "tip_5lang": {
                 "de": "Der Weg zu den Ruinen ist schmal und nass; fahren Sie äußerst vorsichtig, da die Ränder abbrechen könnten.",
                 "hu": "A romokhoz vezető út szűk és nedves; vezessen rendkívül óvatosan, mert a szélek beomolhatnak.",
                 "ro": "Drumul spre ruine este îngust și umed; conduceți cu mare atenție, deoarece marginile s-ar putea surpa.",
-                "en": "The path to the ruins is narrow and wet; drive extremely carefully as the edges could crumble."
+                "en": "The path to the ruins is narrow and wet; drive extremely carefully as the edges could crumble.",
+                "fr": "Le chemin vers les ruines est étroit et mouillé ; conduisez extrêmement prudemment car les bords peuvent s’effondrer."
               }
             },
             {
@@ -1072,13 +1190,15 @@
                 "de": "Alignement du Douet",
                 "hu": "Alignement du Douet",
                 "ro": "Alignement du Douet",
-                "en": "Alignement du Douet"
+                "en": "Alignement du Douet",
+                "fr": "Alignement du Douet"
               },
               "tip_5lang": {
                 "de": "Nutzen Sie das Fahrzeuglicht, um die Steine im trüben Wetter besser zu erkennen; halten Sie die Heizung/Lüftung gegen Beschlag an.",
                 "hu": "Használja a fényszórókat, hogy jobban lássa a köveket a borús időben; kapcsolja be a szellőzést a párásodás ellen.",
                 "ro": "Folosiți luminile vehiculului pentru a vedea mai bine pietrele pe vreme mohorâtă; porniți ventilația împotriva aburirii.",
-                "en": "Use the vehicle lights to see the stones better in the gloomy weather; keep the ventilation on to prevent fogging."
+                "en": "Use the vehicle lights to see the stones better in the gloomy weather; keep the ventilation on to prevent fogging.",
+                "fr": "Utilisez les phares du véhicule pour mieux voir les pierres par temps sombre ; maintenez la ventilation allumée pour éviter la buée."
               }
             }
           ]
@@ -1088,7 +1208,8 @@
             "de": "Eine winterliche Tour über die Insel bietet klare Sichtweiten und Ruhe. Vormittags besuchen wir den Hafen, wo die kalte Luft den Motor fordert. Mittags bietet das Fort Schutz vor dem beißenden Wind. Da die Sonne bereits gegen 17:00 Uhr untergeht, nutzen wir die hellen Stunden intensiv für die prähistorischen Fundorte im Osten.",
             "hu": "A téli szigettúra tiszta látási viszonyokat és nyugalmat kínál. Délelőtt a kikötőt látogatjuk meg, ahol a hideg levegő próbára teszi a motort. Délben az erőd nyújt védelmet a metsző szél ellen. Mivel a nap már 17:00 körül lemegy, az intenzív világos órákat a keleti őskori lelőhelyek felfedezésére fordítjuk.",
             "ro": "Un tur de iarnă pe insulă oferă vizibilitate clară și liniște. Dimineața vizităm portul, unde aerul rece solicită motorul. La prânz, fortul oferă protecție împotriva vântului tăios. Deoarece soarele apune deja în jurul orei 17:00, folosim intens orele de lumină pentru siturile preistorice din est.",
-            "en": "A winter tour of the island offers clear views and tranquility. In the morning, we visit the harbor where the cold air tests the engine. At noon, the fort provides shelter from the biting wind. Since the sun sets around 17:00, we make intense use of the daylight hours for the prehistoric sites in the east."
+            "en": "A winter tour of the island offers clear views and tranquility. In the morning, we visit the harbor where the cold air tests the engine. At noon, the fort provides shelter from the biting wind. Since the sun sets around 17:00, we make intense use of the daylight hours for the prehistoric sites in the east.",
+            "fr": "Une visite hivernale de l’île offre des vues dégagées et de la tranquillité. Le matin, nous visitons le port où l’air froid met le moteur à l’épreuve. À midi, le fort procure un abri contre le vent piquant. Comme le soleil se couche vers 17:00, nous exploitons intensément les heures de jour pour les sites préhistoriques à l’est."
           },
           "stops": [
             {
@@ -1096,13 +1217,15 @@
                 "de": "Port Neuf",
                 "hu": "Port Neuf",
                 "ro": "Port Neuf",
-                "en": "Port Neuf"
+                "en": "Port Neuf",
+                "fr": "Port Neuf"
               },
               "tip_5lang": {
                 "de": "Achten Sie auf gefrorene Pfützen auf den Parkflächen; der Kaltstart erfordert etwas Geduld bei winterlichen Temperaturen.",
                 "hu": "Ügyeljen a fagyott tócsákra a parkolóhelyeken; a hidegindítás türelmet igényel a téli hőmérsékletben.",
                 "ro": "Atenție la bălțile înghețate din zonele de parcare; pornirea la rece necesită răbdare la temperaturi de iarnă.",
-                "en": "Watch out for frozen puddles in the parking areas; cold starting requires patience in winter temperatures."
+                "en": "Watch out for frozen puddles in the parking areas; cold starting requires patience in winter temperatures.",
+                "fr": "Attention aux flaques gelées dans les zones de stationnement ; un démarrage à froid nécessite de la patience par basses températures."
               }
             },
             {
@@ -1110,13 +1233,15 @@
                 "de": "Dolmen de Port Louit",
                 "hu": "Dolmen de Port Louit",
                 "ro": "Dolmen de Port Louit",
-                "en": "Dolmen de Port Louit"
+                "en": "Dolmen de Port Louit",
+                "fr": "Dolmen de Port Louit"
               },
               "tip_5lang": {
                 "de": "Die Steine sind bei Frost sehr glatt; treten Sie vorsichtig auf, wenn Sie das Fahrzeug für ein Foto verlassen.",
                 "hu": "A kövek fagyban nagyon csúszósak; lépjen óvatosan, amikor kiszáll a járműből egy fotó kedvéért.",
                 "ro": "Pietrele sunt foarte alunecoase în caz de îngheț; pășiți cu grijă când coborâți din vehicul pentru o fotografie.",
-                "en": "The stones are very slippery in frost; step carefully when getting out of the vehicle for a photo."
+                "en": "The stones are very slippery in frost; step carefully when getting out of the vehicle for a photo.",
+                "fr": "Les pierres sont très glissantes au gel ; descendez du véhicule avec précaution pour une photo."
               }
             },
             {
@@ -1124,13 +1249,15 @@
                 "de": "Fort d'Hoedic",
                 "hu": "Fort d'Hoedic",
                 "ro": "Fort d'Hoedic",
-                "en": "Fort d'Hoedic"
+                "en": "Fort d'Hoedic",
+                "fr": "Fort d'Hoedic"
               },
               "tip_5lang": {
                 "de": "Das Fort ist ein guter Ort, um den Windchill zu umgehen; genießen Sie die historische Atmosphäre in relativer Wärme.",
                 "hu": "Az erőd jó hely a szélhűtés elkerülésére; élvezze a történelmi atmoszférát viszonylagos melegben.",
                 "ro": "Fortul este un loc bun pentru a evita vântul rece; bucurați-vă de atmosfera istorică în căldură relativă.",
-                "en": "The fort is a good place to escape the wind chill; enjoy the historical atmosphere in relative warmth."
+                "en": "The fort is a good place to escape the wind chill; enjoy the historical atmosphere in relative warmth.",
+                "fr": "Le fort est un bon endroit pour échapper au froid ; profitez de l’atmosphère historique dans une relative chaleur."
               }
             },
             {
@@ -1138,13 +1265,15 @@
                 "de": "Menhir de la Vierge",
                 "hu": "Menhir de la Vierge",
                 "ro": "Menhir de la Vierge",
-                "en": "Menhir de la Vierge"
+                "en": "Menhir de la Vierge",
+                "fr": "Menhir de la Vierge"
               },
               "tip_5lang": {
                 "de": "Die tiefstehende Wintersonne wirft lange Schatten auf die Felder; nutzen Sie das goldene Licht für beeindruckende Aufnahmen.",
                 "hu": "Az alacsony téli nap hosszú árnyékokat vet a mezőkre; használja ki az aranyfényt a lenyűgöző felvételekhez.",
                 "ro": "Soarele jos de iarnă aruncă umbre lungi pe câmpuri; profitați de lumina aurie pentru fotografii impresionante.",
-                "en": "The low winter sun casts long shadows across the fields; use the golden light for impressive shots."
+                "en": "The low winter sun casts long shadows across the fields; use the golden light for impressive shots.",
+                "fr": "Le faible soleil d’hiver projette de longues ombres à travers les champs ; utilisez la lumière dorée pour des photos impressionnantes."
               }
             },
             {
@@ -1152,13 +1281,15 @@
                 "de": "La Plage bleue",
                 "hu": "La Plage bleue",
                 "ro": "La Plage bleue",
-                "en": "La Plage bleue"
+                "en": "La Plage bleue",
+                "fr": "La Plage bleue"
               },
               "tip_5lang": {
                 "de": "Die Luft ist extrem klar, man kann oft bis zum Festland sehen; bleiben Sie im Fahrzeug, wenn der Wind zu stark bläst.",
                 "hu": "A levegő rendkívül tiszta, gyakran látni a szárazföldig; maradjon a járműben, ha a szél túl erősen fúj.",
                 "ro": "Aerul este extrem de clar, adesea se vede până la continent; rămâneți în vehicul dacă vântul bate prea tare.",
-                "en": "The air is extremely clear, often allowing views to the mainland; stay in the vehicle if the wind blows too hard."
+                "en": "The air is extremely clear, often allowing views to the mainland; stay in the vehicle if the wind blows too hard.",
+                "fr": "L’air est extrêmement clair, permettant souvent des vues jusqu’au continent ; restez dans le véhicule si le vent souffle trop fort."
               }
             },
             {
@@ -1166,13 +1297,15 @@
                 "de": "Le fort Anglais(ruines)",
                 "hu": "Le fort Anglais(ruines)",
                 "ro": "Le fort Anglais(ruines)",
-                "en": "Le fort Anglais(ruines)"
+                "en": "Le fort Anglais(ruines)",
+                "fr": "Le fort Anglais(ruines)"
               },
               "tip_5lang": {
                 "de": "Achten Sie auf den Batteriestand (bei Elektrokarren); die Kälte verringert die Reichweite Ihres Fahrzeugs deutlich.",
                 "hu": "Ügyeljen az akkumulátor töltöttségére; a hideg jelentősen csökkenti a jármű hatótávolságát.",
                 "ro": "Fiți atenți la nivelul bateriei; frigul reduce semnificativ autonomia vehiculului dumneavoastră.",
-                "en": "Pay attention to the battery level; the cold significantly reduces your vehicle's range."
+                "en": "Pay attention to the battery level; the cold significantly reduces your vehicle's range.",
+                "fr": "Surveillez le niveau de batterie ; le froid réduit significativement l’autonomie de votre véhicule."
               }
             },
             {
@@ -1180,13 +1313,15 @@
                 "de": "Alignement du Douet",
                 "hu": "Alignement du Douet",
                 "ro": "Alignement du Douet",
-                "en": "Alignement du Douet"
+                "en": "Alignement du Douet",
+                "fr": "Alignement du Douet"
               },
               "tip_5lang": {
                 "de": "Beenden Sie die Fahrt vor 17:00 Uhr; die unbeleuchteten Wege der Insel sind bei Dunkelheit schwer befahrbar.",
                 "hu": "Fejezze be az utat 17:00 előtt; a sziget kivilágítatlan útjai sötétben nehezen járhatók autóval.",
                 "ro": "Încheiați călătoria înainte de ora 17:00; drumurile neiluminate ale insulei sunt greu de parcurs pe întuneric.",
-                "en": "Finish the trip before 17:00; the island's unlit roads are difficult to navigate in the dark."
+                "en": "Finish the trip before 17:00; the island's unlit roads are difficult to navigate in the dark.",
+                "fr": "Terminez la sortie avant 17:00 ; les routes non éclairées de l’île sont difficiles à parcourir dans l’obscurité."
               }
             }
           ]

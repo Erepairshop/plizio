@@ -21,7 +21,8 @@
             "de": "Tour du Jacquemard",
             "hu": "Tour du Jacquemard",
             "ro": "Tour du Jacquemard",
-            "en": "Tour du Jacquemard"
+            "en": "Tour du Jacquemard",
+            "fr": "Tour du Jacquemard"
           },
           "coords": [
             5.261794,
@@ -36,7 +37,8 @@
             "de": "Bewundern Sie die mechanische Uhr auf diesem historischen Turm, einem wahren Symbol der Stadt, und kommen Sie pünktlich zum Mittagessen, um die Glocken zu hören.",
             "hu": "Csodálja meg a történelmi torony mechanikus óráját, amely a város szimbóluma, és érkezzen pontosan délben, hogy hallhassa a hagyományos harangjátékot.",
             "ro": "Admirați ceasul mecanic de pe acest turn istoric, un adevărat simbol al orașului, și veniți exact la prânz pentru a asculta sunetul clopotelor.",
-            "en": "Admire the mechanical clock on this historic tower, a true symbol of the town, and visit exactly at noon to hear the traditional chimes echo."
+            "en": "Admire the mechanical clock on this historic tower, a true symbol of the town, and visit exactly at noon to hear the traditional chimes echo.",
+            "fr": "Admirez l’horloge mécanique de cette tour historique, véritable symbole de la ville, et visitez exactement à midi pour entendre les cloches traditionnelles résonner."
           }
         },
         {
@@ -44,7 +46,8 @@
             "de": "Kirche Notre-Dame-de-l'Assomption",
             "hu": "Notre-Dame-de-l'Assomption templom",
             "ro": "Biserica Notre-Dame-de-l'Assomption",
-            "en": "Church of Notre-Dame-de-l'Assomption"
+            "en": "Church of Notre-Dame-de-l'Assomption",
+            "fr": "Église Notre-Dame-de-l’Assomption"
           },
           "coords": [
             5.261312,
@@ -59,7 +62,8 @@
             "de": "Entdecken Sie die barocke Architektur und die detaillierten Fresken in dieser Kirche, und bewegen Sie sich leise, um die Gläubigen nicht zu stören.",
             "hu": "Fedezze fel a templom lenyűgöző barokk építészetét és részletes freskóit, ügyelve arra, hogy csendesen közlekedjen a helyi hívők tiszteletben tartása végett.",
             "ro": "Descoperiți arhitectura barocă și frescele detaliate din interiorul acestei biserici, având grijă să păstrați liniștea pentru a respecta credincioșii locali.",
-            "en": "Discover the magnificent baroque architecture and detailed frescoes inside this church, ensuring you walk quietly to respect the local worshippers."
+            "en": "Discover the magnificent baroque architecture and detailed frescoes inside this church, ensuring you walk quietly to respect the local worshippers.",
+            "fr": "Découvrez la magnifique architecture baroque et les fresques détaillées à l’intérieur de cette église, en marchant doucement pour respecter les fidèles locaux."
           }
         },
         {
@@ -67,7 +71,8 @@
             "de": "Chapelle Saint-Michel",
             "hu": "Chapelle Saint-Michel",
             "ro": "Chapelle Saint-Michel",
-            "en": "Chapelle Saint-Michel"
+            "en": "Chapelle Saint-Michel",
+            "fr": "Chapelle Saint-Michel"
           },
           "coords": [
             5.261465,
@@ -82,7 +87,8 @@
             "de": "Betreten Sie diese alte Kapelle, um gut erhaltene religiöse Artefakte zu sehen, und denken Sie daran, dass das Licht schwach ist, weshalb eine Taschenlampe hilft.",
             "hu": "Lépjen be ebbe az ősi kápolnába a jó állapotban fennmaradt ereklyékért, de tartsa szem előtt, hogy a gyenge világítás miatt jól jöhet a telefonja zseblámpája.",
             "ro": "Pășiți în această capelă veche pentru a vedea artefacte religioase bine conservate, având în vedere că lumina este slabă, așa că lanterna telefonului este utilă.",
-            "en": "Step inside this ancient chapel to see well-preserved religious artifacts, keeping in mind that lighting is dim so your phone flashlight might help."
+            "en": "Step inside this ancient chapel to see well-preserved religious artifacts, keeping in mind that lighting is dim so your phone flashlight might help.",
+            "fr": "Entrez dans cette ancienne chapelle pour voir des objets religieux bien préservés, en gardant à l’esprit que l’éclairage est faible et qu’une lampe de téléphone peut aider."
           }
         },
         {
@@ -90,7 +96,8 @@
             "de": "Chapelle des Pénitents blancs",
             "hu": "Chapelle des Pénitents blancs",
             "ro": "Chapelle des Pénitents blancs",
-            "en": "Chapelle des Pénitents blancs"
+            "en": "Chapelle des Pénitents blancs",
+            "fr": "Chapelle des Pénitents blancs"
           },
           "coords": [
             5.260528,
@@ -105,7 +112,8 @@
             "de": "Betrachten Sie das makellose weiße Äußere dieser historischen Büßerkapelle und suchen Sie nach der kleinen Informationstafel in der Nähe des Eingangs.",
             "hu": "Figyelje meg ennek a történelmi kápolnának a hófehér külsejét, és keresse a bejárat melletti kis információs táblát a mélyebb történelmi kontextusért.",
             "ro": "Observați exteriorul alb impecabil al acestei capele istorice și căutați mica placă informativă de lângă intrare pentru un context istoric detaliat.",
-            "en": "Observe the pristine white exterior of this historic penitent chapel, and look for the small informational plaque near the entrance for deep historical context."
+            "en": "Observe the pristine white exterior of this historic penitent chapel, and look for the small informational plaque near the entrance for deep historical context.",
+            "fr": "Observez l’extérieur d’un blanc immaculé de cette chapelle des pénitents historique, et cherchez la petite plaque d’information près de l’entrée pour un contexte historique approfondi."
           }
         },
         {
@@ -113,7 +121,8 @@
             "de": "Altes Museum Lambesc",
             "hu": "Régi Lambesc Múzeum",
             "ro": "Vechiul Muzeu Lambesc",
-            "en": "Old Lambesc Museum"
+            "en": "Old Lambesc Museum",
+            "fr": "Vieux musée de Lambesc"
           },
           "coords": [
             5.261751,
@@ -128,7 +137,8 @@
             "de": "Entdecken Sie faszinierende lokale Ausstellungen von der Römerzeit bis zur Moderne und beginnen Sie im Erdgeschoss für ein chronologisches Erlebnis.",
             "hu": "Fedezze fel a római kortól a modern időkig terjedő helyi történelmi kiállításokat, és kezdje a földszinten a kronologikus élmény érdekében.",
             "ro": "Explorați expoziții fascinante de istorie locală, din perioada romană până în era modernă, și începeți de la parter pentru o experiență cronologică.",
-            "en": "Explore fascinating local history exhibits ranging from Roman times to the modern era, and start at the ground floor for a chronological experience."
+            "en": "Explore fascinating local history exhibits ranging from Roman times to the modern era, and start at the ground floor for a chronological experience.",
+            "fr": "Explorez des expositions locales fascinantes allant de l’époque romaine à l’ère moderne, et commencez au rez-de-chaussée pour une expérience chronologique."
           }
         }
       ],
@@ -136,7 +146,8 @@
         "de": "Beginnen Sie Ihren Morgen im historischen Herzen von Lambesc, bewundern Sie den ikonischen Uhrturm und spüren Sie den Puls dieser provenzalischen Stadt. Tauchen Sie mittags in das spirituelle Erbe ein, besuchen Sie die große Kirche und alte Kapellen. Erkunden Sie am Nachmittag das lokale Museum oder die malerischen Weingüter. Beenden Sie den Tag und genießen Sie die friedliche Landschaft.",
         "hu": "Kezdje a reggelt Lambesc történelmi szívében, csodálja meg az ikonikus óratornyot, és érezze a provence-i város ritmusát. Délben merüljön el a spirituális örökségben a nagy templom és az ősi kápolnák felfedezésével. Délután látogasson el a helyi múzeumba, vagy tegyen egy kirándulást a festői borbirtokokra. Zárja a napot a békés vidéki táj lenyűgöző látványával.",
         "ro": "Începeți dimineața explorând inima istorică a orașului Lambesc, admirând turnul cu ceas și simțind pulsul orașului provensal. La amiază, pătrundeți în moștenirea sa spirituală, vizitând marea biserică și capelele vechi. După-amiaza, explorați muzeul local sau mergeți la domeniile viticole pitorești. Încheiați-vă ziua bucurându-vă de priveliștile pașnice ale peisajului rural.",
-        "en": "Start your morning exploring the historic heart of Lambesc, admiring the iconic clock tower and feeling the pulse of this provençal town. By midday, delve into its spiritual heritage, visiting the grand church and ancient chapels tucked in narrow streets. In the afternoon, explore the local museum or head out to the scenic wine estates. End your day soaking in the peaceful countryside views."
+        "en": "Start your morning exploring the historic heart of Lambesc, admiring the iconic clock tower and feeling the pulse of this provençal town. By midday, delve into its spiritual heritage, visiting the grand church and ancient chapels tucked in narrow streets. In the afternoon, explore the local museum or head out to the scenic wine estates. End your day soaking in the peaceful countryside views.",
+        "fr": "Commencez la matinée en explorant le cœur historique de Lambesc, en admirant la tour-horloge emblématique et en ressentant le pouls de cette ville provençale. À midi, plongez dans son patrimoine spirituel en visitant la grande église et les anciennes chapelles nichées dans les ruelles. L’après-midi, explorez le musée local ou partez découvrir les domaines viticoles pittoresques. Terminez la journée en vous imprégnant des paisibles vues de la campagne."
       },
       "variants": {
         "rainy": {
@@ -144,7 +155,8 @@
             "de": "Beginnen Sie Ihren Regentag unter dem Schirm am Turm, bevor Sie Schutz suchen. Mittags bietet die große Kirche eine trockene Zuflucht. Erkunden Sie nachmittags die Kapellen zwischen den Schauern und achten Sie auf rutschiges Kopfsteinpflaster. Beenden Sie den Tag im warmen, trockenen Heimatmuseum, um dem provenzalischen Regen zu entkommen.",
             "hu": "Kezdje az esős napot esernyővel a toronynál, mielőtt menedéket keresne. Délben a lenyűgöző templom száraz és békés menedéket nyújt. Délután fedezze fel a kápolnákat a záporok között, vigyázva a csúszós macskakövekre. A napot a helyi múzeum meleg, száraz termeiben zárhatja, tökéletes menedékként a provence-i eső elől.",
             "ro": "Începeți ziua ploioasă sub umbrelă, admirând turnul înainte de a căuta adăpost. La prânz, biserica grandioasă oferă un refugiu uscat. După-amiaza, explorați capelele între averse, având grijă la piatra cubică alunecoasă. Încheiați ziua rătăcind prin sălile calde ale muzeului local, scăpând perfect de ploaia provensală.",
-            "en": "Start your rainy day under an umbrella, admiring the historic tower before seeking shelter. By noon, the grand church offers a dry, peaceful refuge. In the afternoon, explore the chapels between showers, watching your step on wet cobblestones. End the day wandering the warm, dry halls of the local museum, perfectly escaping the Provencal rain."
+            "en": "Start your rainy day under an umbrella, admiring the historic tower before seeking shelter. By noon, the grand church offers a dry, peaceful refuge. In the afternoon, explore the chapels between showers, watching your step on wet cobblestones. End the day wandering the warm, dry halls of the local museum, perfectly escaping the Provencal rain.",
+            "fr": "Commencez la journée pluvieuse sous un parapluie en admirant la tour historique avant de chercher un abri. À midi, la grande église offre un refuge sec et paisible. L’après-midi, explorez les chapelles entre les averses en faisant attention aux pavés mouillés. Terminez la journée en déambulant dans les salles chaudes et sèches du musée local, parfaites pour échapper à la pluie provençale."
           },
           "stops": [
             {
@@ -152,13 +164,15 @@
                 "de": "Tour du Jacquemard",
                 "hu": "Tour du Jacquemard",
                 "ro": "Tour du Jacquemard",
-                "en": "Tour du Jacquemard"
+                "en": "Tour du Jacquemard",
+                "fr": "Tour du Jacquemard"
               },
               "tip_5lang": {
                 "de": "Bewundern Sie den historischen Uhrturm von unten, aber bringen Sie einen Regenschirm mit, da es keinen Schutz gibt.",
                 "hu": "Csodálja meg a történelmi óratornyot lentről, de hozzon strapabíró esernyőt, mivel nincs fedélzet a megfigyeléshez.",
                 "ro": "Admirați turnul istoric cu ceas de jos, dar aduceți o umbrelă robustă, deoarece nu există acoperiș deasupra.",
-                "en": "Admire the historic clock tower from below, but bring a sturdy umbrella as there is no cover while observing it."
+                "en": "Admire the historic clock tower from below, but bring a sturdy umbrella as there is no cover while observing it.",
+                "fr": "Admirez la tour-horloge historique depuis le bas, mais prenez un parapluie solide car il n’y a pas d’abri pour l’observer."
               }
             },
             {
@@ -166,13 +180,15 @@
                 "de": "Kirche Notre-Dame-de-l'Assomption",
                 "hu": "Notre-Dame-de-l'Assomption templom",
                 "ro": "Biserica Notre-Dame-de-l'Assomption",
-                "en": "Church of Notre-Dame-de-l'Assomption"
+                "en": "Church of Notre-Dame-de-l'Assomption",
+                "fr": "Église Notre-Dame-de-l’Assomption"
               },
               "tip_5lang": {
                 "de": "Treten Sie in diese Kirche ein, um ihre Architektur zu bewundern und bei starken Regenschauern eine trockene Oase zu finden.",
                 "hu": "Lépjen be a lenyűgöző templomba az építészet megcsodálásához, és találjon száraz, békés menedéket a heves záporok idején.",
                 "ro": "Pășiți în această biserică pentru a admira arhitectura sa și pentru a găsi un refugiu uscat în timpul ploilor torențiale.",
-                "en": "Step inside this stunning church to admire its classic architecture and find a dry, peaceful haven during heavy showers."
+                "en": "Step inside this stunning church to admire its classic architecture and find a dry, peaceful haven during heavy showers.",
+                "fr": "Entrez dans cette magnifique église pour admirer son architecture classique et trouver un havre sec et paisible lors de fortes averses."
               }
             },
             {
@@ -180,13 +196,15 @@
                 "de": "Chapelle Saint-Michel",
                 "hu": "Chapelle Saint-Michel",
                 "ro": "Chapelle Saint-Michel",
-                "en": "Chapelle Saint-Michel"
+                "en": "Chapelle Saint-Michel",
+                "fr": "Chapelle Saint-Michel"
               },
               "tip_5lang": {
                 "de": "Erkunden Sie die Geschichte dieser kleinen Kapelle, aber achten Sie bei nassem Wetter auf rutschige Stufen am Eingang.",
                 "hu": "Fedezze fel a bájos kis kápolna történelmét, de nedves időben vigyázzon a bejárathoz vezető csúszós lépcsőkre.",
                 "ro": "Explorați această mică capelă fermecătoare, dar aveți grijă la treptele alunecoase care duc la intrare pe vreme umedă.",
-                "en": "Explore this charming small chapel for its history, but beware of slippery steps leading to the entrance in wet weather."
+                "en": "Explore this charming small chapel for its history, but beware of slippery steps leading to the entrance in wet weather.",
+                "fr": "Explorez cette charmante petite chapelle pour son histoire, mais méfiez-vous des marches glissantes menant à l’entrée par temps humide."
               }
             },
             {
@@ -194,13 +212,15 @@
                 "de": "Chapelle des Pénitents blancs",
                 "hu": "Chapelle des Pénitents blancs",
                 "ro": "Chapelle des Pénitents blancs",
-                "en": "Chapelle des Pénitents blancs"
+                "en": "Chapelle des Pénitents blancs",
+                "fr": "Chapelle des Pénitents blancs"
               },
               "tip_5lang": {
                 "de": "Entdecken Sie das faszinierende Innere dieser Kapelle, die einen tollen kulturellen Halt abseits des Dauerregens bietet.",
                 "hu": "Fedezze fel e bűnbánó kápolna lenyűgöző belsejét, amely fantasztikus beltéri megállót biztosít a kitartó eső elől.",
                 "ro": "Descoperiți interiorul fascinant al acestei capele, oferind o oprire culturală fantastică în interior, departe de ploaie.",
-                "en": "Discover the fascinating interior of this chapel, providing a fantastic indoor cultural stop away from the persistent rain."
+                "en": "Discover the fascinating interior of this chapel, providing a fantastic indoor cultural stop away from the persistent rain.",
+                "fr": "Découvrez l’intérieur fascinant de cette chapelle, un excellent arrêt culturel en intérieur loin de la pluie persistante."
               }
             },
             {
@@ -208,13 +228,15 @@
                 "de": "Altes Museum Lambesc",
                 "hu": "Régi Lambesc Múzeum",
                 "ro": "Vechiul Muzeu Lambesc",
-                "en": "Old Lambesc Museum"
+                "en": "Old Lambesc Museum",
+                "fr": "Vieux musée de Lambesc"
               },
               "tip_5lang": {
                 "de": "Tauchen Sie in den Galerien des Museums in die lokale Geschichte ein – der perfekte Rückzugsort an einem Regentag.",
                 "hu": "Merüljön el a helyi történelemben a múzeum galériáiban, amely tökéletes, meleg menedékként szolgál az esős nap végén.",
                 "ro": "Pătrundeți în istoria locală în galeriile muzeului, servind drept refugiul cald perfect pentru a încheia ziua ploioasă.",
-                "en": "Dive into local history within the museum's fascinating galleries, serving as the perfect, warm retreat to end a rainy day."
+                "en": "Dive into local history within the museum's fascinating galleries, serving as the perfect, warm retreat to end a rainy day.",
+                "fr": "Plongez dans l’histoire locale dans les galeries captivantes du musée, un parfait refuge chaud pour terminer une journée pluvieuse."
               }
             }
           ]
@@ -224,7 +246,8 @@
             "de": "Packen Sie sich warm ein, um den winterlichen Morgen am ikonischen Turm zu beginnen. Mittags erreichen Sie die Kirche, die Schutz vor dem beißenden Wind bietet. Erkunden Sie nachmittags Kapellen, während die tiefstehende Sonne lange Schatten wirft. Beenden Sie die Tour im Heimatmuseum vor dem frühen Sonnenuntergang gegen 17 Uhr im Warmen.",
             "hu": "Öltözzön melegen a téli reggelen, hogy a csípős levegőn csodálja meg a tornyot. Délben a templom vastag kőfalai nyújtanak menedéket a szél elől. Délután fedezze fel a történelmi kápolnákat az alacsonyan járó nap fényében. Zárja a napot a helyi múzeumban a korai, 17 órai naplemente előtt, kellemes, meleg környezetben.",
             "ro": "Îmbrăcați-vă călduros pentru a începe dimineața de iarnă admirând turnul. La prânz, biserica oferă adăpost de vântul tăios prin zidurile sale de piatră. Continuați după-amiaza explorând capelele istorice. Terminați la muzeul local chiar înainte de apusul timpuriu de la ora 17:00, într-un spațiu complet încălzit.",
-            "en": "Wrap up warmly to start your winter morning admiring the iconic tower in the crisp air. Midday brings you to the grand church, where thick stone walls offer shelter from the biting wind. Continue your afternoon exploring historic chapels. Finish at the local museum before the early 5 PM sunset, soaking in history in a heated space."
+            "en": "Wrap up warmly to start your winter morning admiring the iconic tower in the crisp air. Midday brings you to the grand church, where thick stone walls offer shelter from the biting wind. Continue your afternoon exploring historic chapels. Finish at the local museum before the early 5 PM sunset, soaking in history in a heated space.",
+            "fr": "Habillez-vous chaudement pour commencer la matinée hivernale en admirant la tour emblématique dans l’air vif. À midi, la grande église aux murs épais offre un abri contre le vent mordant. Poursuivez l’après-midi en explorant les chapelles historiques. Terminez au musée local avant le coucher du soleil précoce vers 17h, en profitant d’un espace chauffé chargé d’histoire."
           },
           "stops": [
             {
@@ -232,13 +255,15 @@
                 "de": "Tour du Jacquemard",
                 "hu": "Tour du Jacquemard",
                 "ro": "Tour du Jacquemard",
-                "en": "Tour du Jacquemard"
+                "en": "Tour du Jacquemard",
+                "fr": "Tour du Jacquemard"
               },
               "tip_5lang": {
                 "de": "Betrachten Sie die historischen Figuren am Turm, aber tragen Sie Schal und Handschuhe, da der Wind recht frisch sein kann.",
                 "hu": "Nézze meg a torony alakjait, de viseljen vastag sálat és kesztyűt, mivel a reggeli szél a téren meglehetősen csípős lehet.",
                 "ro": "Priviți figurile istorice de pe turn, dar purtați fular și mănuși, deoarece vântul de dimineață poate fi destul de rece.",
-                "en": "Look up at the historical figures on the tower, but wear a thick scarf and gloves as the morning wind can be quite brisk."
+                "en": "Look up at the historical figures on the tower, but wear a thick scarf and gloves as the morning wind can be quite brisk.",
+                "fr": "Levez les yeux vers les personnages historiques de la tour, mais portez une grosse écharpe et des gants car le vent matinal peut être très froid."
               }
             },
             {
@@ -246,13 +271,15 @@
                 "de": "Kirche Notre-Dame-de-l'Assomption",
                 "hu": "Notre-Dame-de-l'Assomption templom",
                 "ro": "Biserica Notre-Dame-de-l'Assomption",
-                "en": "Church of Notre-Dame-de-l'Assomption"
+                "en": "Church of Notre-Dame-de-l'Assomption",
+                "fr": "Église Notre-Dame-de-l’Assomption"
               },
               "tip_5lang": {
                 "de": "Treten Sie in das Kirchenschiff ein, um das beeindruckende Altarbild zu bewundern und der winterlichen Kälte zu entkommen.",
                 "hu": "Lépjen be a hajóba, hogy megcsodálja a lenyűgöző oltárképet, és meneküljön az ősi falu utcáin fújó fagyos hideg elől.",
                 "ro": "Pășiți în navă pentru a admira altarul și pentru a scăpa de frigul iernii care bate pe străzile vechiului sat.",
-                "en": "Step into the nave to admire the impressive altarpiece and escape the freezing winter chill blowing through ancient streets."
+                "en": "Step into the nave to admire the impressive altarpiece and escape the freezing winter chill blowing through ancient streets.",
+                "fr": "Entrez dans la nef pour admirer le retable impressionnant et échapper au froid hivernal glacial qui souffle dans les rues anciennes."
               }
             },
             {
@@ -260,13 +287,15 @@
                 "de": "Chapelle Saint-Michel",
                 "hu": "Chapelle Saint-Michel",
                 "ro": "Chapelle Saint-Michel",
-                "en": "Chapelle Saint-Michel"
+                "en": "Chapelle Saint-Michel",
+                "fr": "Chapelle Saint-Michel"
               },
               "tip_5lang": {
                 "de": "Sehen Sie sich die Details an und denken Sie daran, sich warm anzuziehen, da dieses historische Gebäude unbeheizt ist.",
                 "hu": "Tekintse meg a kápolna építészeti részleteit, és ne feledjen melegen öltözni, mivel ez az épület többnyire fűtetlen.",
                 "ro": "Observați detaliile arhitecturale ale capelei, amintindu-vă să vă îmbrăcați gros, deoarece clădirea istorică e neîncălzită.",
-                "en": "Check out the fine architectural details of this chapel, remembering to dress warmly as this historic building is unheated."
+                "en": "Check out the fine architectural details of this chapel, remembering to dress warmly as this historic building is unheated.",
+                "fr": "Découvrez les fins détails architecturaux de cette chapelle, en pensant à vous couvrir chaudement car ce bâtiment historique n'est pas chauffé."
               }
             },
             {
@@ -274,13 +303,15 @@
                 "de": "Chapelle des Pénitents blancs",
                 "hu": "Chapelle des Pénitents blancs",
                 "ro": "Chapelle des Pénitents blancs",
-                "en": "Chapelle des Pénitents blancs"
+                "en": "Chapelle des Pénitents blancs",
+                "fr": "Chapelle des Pénitents blancs"
               },
               "tip_5lang": {
                 "de": "Bewundern Sie die barocken Elemente dieser ruhigen Kapelle, die einen geschützten Halt bietet, wenn der Tag abkühlt.",
                 "hu": "Csodálja meg e békés kápolna barokk elemeit, amely mérsékelten védett megállót biztosít a hűlő téli délutánban.",
                 "ro": "Admirați elementele baroce ale acestei capele, care oferă o oprire liniștită, adăpostită, pe măsură ce ziua se răcește.",
-                "en": "Admire the baroque elements of this serene chapel, which provides a quiet, moderately sheltered stop as the day cools down."
+                "en": "Admire the baroque elements of this serene chapel, which provides a quiet, moderately sheltered stop as the day cools down.",
+                "fr": "Admirez les éléments baroques de cette chapelle sereine, qui offre une halte calme et modérément abritée au refroidissement de la journée."
               }
             },
             {
@@ -288,13 +319,15 @@
                 "de": "Altes Museum Lambesc",
                 "hu": "Régi Lambesc Múzeum",
                 "ro": "Vechiul Muzeu Lambesc",
-                "en": "Old Lambesc Museum"
+                "en": "Old Lambesc Museum",
+                "fr": "Musée d'Old Lambesc"
               },
               "tip_5lang": {
                 "de": "Beenden Sie Ihren Tag in den beheizten Museumsräumen, ideal geplant, bevor gegen 17 Uhr die frühe Dämmerung einsetzt.",
                 "hu": "Zárja a napot a kényelmesen fűtött múzeumi termekben, ideálisan időzítve a 17 óra körüli korai sötétedés beállta előtt.",
                 "ro": "Încheiați ziua în sălile de muzeu confortabil încălzite, programate ideal înainte ca întunericul să se lase pe la 17:00.",
-                "en": "Wrap up your day exploring local heritage in the heated museum rooms, ideally timed before the early dusk sets in around 5 PM."
+                "en": "Wrap up your day exploring local heritage in the heated museum rooms, ideally timed before the early dusk sets in around 5 PM.",
+                "fr": "Terminez votre journée en explorant le patrimoine local dans les salles chauffées du musée, idéalement avant que la nuit tombe tôt vers 17h."
               }
             }
           ]
@@ -314,7 +347,8 @@
             "de": "Jacquemart-Turm",
             "hu": "Jacquemart Torony",
             "ro": "Turnul Jacquemart",
-            "en": "Jacquemart Tower"
+            "en": "Jacquemart Tower",
+            "fr": "Tour du Jacquemart"
           },
           "coords": [
             5.263578,
@@ -329,7 +363,8 @@
             "de": "Genießen Sie einen genauen Blick auf diesen ikonischen Uhrturm, der das Dorfleben regelte, und machen Sie Fotos vom kleinen Platz gegenüber für den besten Winkel.",
             "hu": "Nézze meg közelről ezt az ikonikus óratornyot, amely a falusi életet szabályozta, és fotózzon a szemközti kis térről a legjobb szögből.",
             "ro": "Bucurați-vă de o privire de aproape asupra acestui turn cu ceas care regla viața satului și faceți fotografii din mica piață opusă pentru cel mai bun unghi.",
-            "en": "Enjoy a close-up look at this iconic clockwork structure that regulated village life, and take photos from the small square opposite for the best angle."
+            "en": "Enjoy a close-up look at this iconic clockwork structure that regulated village life, and take photos from the small square opposite for the best angle.",
+            "fr": "Profitez d'un regard rapproché sur cette structure horlogère emblématique qui régulait la vie du village, et prenez des photos depuis la petite place en face pour le meilleur angle."
           }
         },
         {
@@ -337,7 +372,8 @@
             "de": "Kirche Notre-Dame-de-l'Assomption",
             "hu": "Notre-Dame-de-l'Assomption templom",
             "ro": "Biserica Notre-Dame-de-l'Assomption",
-            "en": "Church of Notre-Dame-de-l'Assomption"
+            "en": "Church of Notre-Dame-de-l'Assomption",
+            "fr": "Église Notre-Dame-de-l'Assomption"
           },
           "coords": [
             5.261312,
@@ -352,7 +388,8 @@
             "de": "Entdecken Sie die barocke Architektur und die detaillierten Fresken in dieser Kirche, und bewegen Sie sich leise, um die Gläubigen nicht zu stören.",
             "hu": "Fedezze fel a templom lenyűgöző barokk építészetét és részletes freskóit, ügyelve arra, hogy csendesen közlekedjen a helyi hívők tiszteletben tartása végett.",
             "ro": "Descoperiți arhitectura barocă și frescele detaliate din interiorul acestei biserici, având grijă să păstrați liniștea pentru a respecta credincioșii locali.",
-            "en": "Discover the magnificent baroque architecture and detailed frescoes inside this church, ensuring you walk quietly to respect the local worshippers."
+            "en": "Discover the magnificent baroque architecture and detailed frescoes inside this church, ensuring you walk quietly to respect the local worshippers.",
+            "fr": "Découvrez la magnifique architecture baroque et les fresques détaillées à l'intérieur de cette église, en veillant à marcher doucement pour respecter les fidèles locaux."
           }
         },
         {
@@ -360,7 +397,8 @@
             "de": "Altes Museum Lambesc",
             "hu": "Régi Lambesc Múzeum",
             "ro": "Vechiul Muzeu Lambesc",
-            "en": "Old Lambesc Museum"
+            "en": "Old Lambesc Museum",
+            "fr": "Musée d'Old Lambesc"
           },
           "coords": [
             5.261751,
@@ -375,7 +413,8 @@
             "de": "Entdecken Sie faszinierende lokale Ausstellungen von der Römerzeit bis zur Moderne und beginnen Sie im Erdgeschoss für ein chronologisches Erlebnis.",
             "hu": "Fedezze fel a római kortól a modern időkig terjedő helyi történelmi kiállításokat, és kezdje a földszinten a kronologikus élmény érdekében.",
             "ro": "Explorați expoziții fascinante de istorie locală, din perioada romană până în era modernă, și începeți de la parter pentru o experiență cronologică.",
-            "en": "Explore fascinating local history exhibits ranging from Roman times to the modern era, and start at the ground floor for a chronological experience."
+            "en": "Explore fascinating local history exhibits ranging from Roman times to the modern era, and start at the ground floor for a chronological experience.",
+            "fr": "Explorez des expositions passionnantes sur l'histoire locale, de l'époque romaine à l'ère moderne, et commencez au rez-de-chaussée pour une expérience chronologique."
           }
         },
         {
@@ -383,7 +422,8 @@
             "de": "Domaine d'Aiguebelle",
             "hu": "Domaine d'Aiguebelle",
             "ro": "Domeniul Aiguebelle",
-            "en": "Domaine d'Aiguebelle"
+            "en": "Domaine d'Aiguebelle",
+            "fr": "Domaine d'Aiguebelle"
           },
           "coords": [
             5.281548,
@@ -398,7 +438,8 @@
             "de": "Wandern Sie über das beeindruckende Gelände dieses großen Anwesens und nehmen Sie sich Zeit für einen Spaziergang durch die Weinberge.",
             "hu": "Sétáljon végig a birtok lenyűgöző területein, és szánjon időt a környező szőlőültetvényekre is, amelyek ősszel a legszebbek.",
             "ro": "Plimbați-vă pe domeniul impresionant al acestei mari moșii și faceți-vă timp pentru o plimbare prin podgoriile din jur, care sunt superbe toamna.",
-            "en": "Wander around the impressive grounds of this grand estate, and take time to stroll through the surrounding vineyards which are beautiful in autumn."
+            "en": "Wander around the impressive grounds of this grand estate, and take time to stroll through the surrounding vineyards which are beautiful in autumn.",
+            "fr": "Promenez-vous autour des impressionnants espaces de ce grand domaine, et prenez le temps de flâner dans les vignobles environnants qui sont magnifiques en automne."
           }
         },
         {
@@ -406,7 +447,8 @@
             "de": "Kapelle der Heiligen Anna",
             "hu": "Szent Anna Kápolna",
             "ro": "Capela Sfânta Ana",
-            "en": "Saint Anne Chapel"
+            "en": "Saint Anne Chapel",
+            "fr": "Chapelle Sainte-Anne"
           },
           "coords": [
             5.276781,
@@ -421,7 +463,8 @@
             "de": "Erreichen Sie diese abgelegene Kapelle für atemberaubende Panoramablicke auf die Landschaft und bringen Sie eine Flasche Wasser mit, da es keine Geschäfte gibt.",
             "hu": "Érje el ezt a távoli, békés dombtetőn lévő kápolnát a lenyűgöző panorámáért, és hozzon magával vizet, mivel nincsenek boltok a közelben.",
             "ro": "Ajungeți la această capelă izolată de pe deal pentru vederi panoramice uimitoare și aduceți o sticlă de apă, deoarece nu există magazine în apropiere.",
-            "en": "Reach this remote and peaceful hilltop chapel for stunning panoramic views of the countryside, and bring a bottle of water as there are no shops nearby."
+            "en": "Reach this remote and peaceful hilltop chapel for stunning panoramic views of the countryside, and bring a bottle of water as there are no shops nearby.",
+            "fr": "Rejoignez cette chapelle isolée et paisible au sommet de la colline pour des vues panoramiques époustouflantes de la campagne, et apportez une bouteille d'eau car il n'y a pas de commerces à proximité."
           }
         }
       ],
@@ -429,7 +472,8 @@
         "de": "Beginnen Sie Ihren Morgen im historischen Herzen von Lambesc, bewundern Sie den ikonischen Uhrturm und spüren Sie den Puls dieser provenzalischen Stadt. Tauchen Sie mittags in das spirituelle Erbe ein, besuchen Sie die große Kirche und alte Kapellen. Erkunden Sie am Nachmittag das lokale Museum oder die malerischen Weingüter. Beenden Sie den Tag und genießen Sie die friedliche Landschaft.",
         "hu": "Kezdje a reggelt Lambesc történelmi szívében, csodálja meg az ikonikus óratornyot, és érezze a provence-i város ritmusát. Délben merüljön el a spirituális örökségben a nagy templom és az ősi kápolnák felfedezésével. Délután látogasson el a helyi múzeumba, vagy tegyen egy kirándulást a festői borbirtokokra. Zárja a napot a békés vidéki táj lenyűgöző látványával.",
         "ro": "Începeți dimineața explorând inima istorică a orașului Lambesc, admirând turnul cu ceas și simțind pulsul orașului provensal. La amiază, pătrundeți în moștenirea sa spirituală, vizitând marea biserică și capelele vechi. După-amiaza, explorați muzeul local sau mergeți la domeniile viticole pitorești. Încheiați-vă ziua bucurându-vă de priveliștile pașnice ale peisajului rural.",
-        "en": "Start your morning exploring the historic heart of Lambesc, admiring the iconic clock tower and feeling the pulse of this provençal town. By midday, delve into its spiritual heritage, visiting the grand church and ancient chapels tucked in narrow streets. In the afternoon, explore the local museum or head out to the scenic wine estates. End your day soaking in the peaceful countryside views."
+        "en": "Start your morning exploring the historic heart of Lambesc, admiring the iconic clock tower and feeling the pulse of this provençal town. By midday, delve into its spiritual heritage, visiting the grand church and ancient chapels tucked in narrow streets. In the afternoon, explore the local museum or head out to the scenic wine estates. End your day soaking in the peaceful countryside views.",
+        "fr": "Commencez la matinée en explorant le cœur historique de Lambesc, en admirant l'emblématique tour de l'horloge et en ressentant le pouls de cette ville provençale. À midi, plongez dans son patrimoine spirituel en visitant la grande église et les anciennes chapelles nichées dans les ruelles étroites. L'après-midi, visitez le musée local ou partez vers les domaines viticoles pittoresques. Terminez la journée en profitant des vues paisibles de la campagne."
       },
       "variants": {
         "rainy": {
@@ -437,7 +481,8 @@
             "de": "Beginnen Sie Ihre nasse Radtour in gut sichtbarer Regenkleidung am Turm. Mittags erreichen Sie das trockene Heiligtum der großen Kirche. Suchen Sie Zuflucht im Heimatmuseum, bevor Sie dem Nieselregen zum Weingut trotzen. Beenden Sie Ihre Fahrt vorsichtig auf rutschigen Landstraßen zur Kapelle.",
             "hu": "Kezdje nedves kerékpártúráját jól látható esőruhában a történelmi toronynál. Délben a templom nyújt száraz menedéket. A helyi múzeumban tett látogatás után dacoljon a szitáló esővel a borbirtokig. Az utat óvatosan, csúszós vidéki utakon fejezze be az utolsó távoli kápolnánál.",
             "ro": "Începeți plimbarea pe bicicletă în pelerine de ploaie vizibile, la turn. La prânz, biserica maiestuoasă oferă un sanctuar uscat. După refugiul de la muzeu, înfruntați burnița până la podgorie. Încheiați cursa cu prudență pe drumurile de țară alunecoase spre ultima capelă.",
-            "en": "Start your wet cycling journey wrapped in high-visibility rain gear, pausing briefly at the historic tower. Midday brings you to the dry sanctuary of the majestic church. After seeking refuge in the museum, brave the drizzle to reach the wine estate. End your ride safely on slippery roads."
+            "en": "Start your wet cycling journey wrapped in high-visibility rain gear, pausing briefly at the historic tower. Midday brings you to the dry sanctuary of the majestic church. After seeking refuge in the museum, brave the drizzle to reach the wine estate. End your ride safely on slippery roads.",
+            "fr": "Commencez votre parcours cycliste sous la pluie en vêtement de pluie haute visibilité, en faisant une courte pause à la tour historique. À midi, trouvez le sanctuaire sec de la majestueuse église. Après vous être réfugié au musée, bravez la bruine pour atteindre le domaine viticole. Terminez votre balade en toute sécurité sur des routes glissantes."
           },
           "stops": [
             {
@@ -445,13 +490,15 @@
                 "de": "Jacquemart-Turm",
                 "hu": "Jacquemart Torony",
                 "ro": "Turnul Jacquemart",
-                "en": "Jacquemart Tower"
+                "en": "Jacquemart Tower",
+                "fr": "Tour du Jacquemart"
               },
               "tip_5lang": {
                 "de": "Bewundern Sie den Uhrmechanismus des Turms kurz vom Sattel aus und prüfen Sie Ihre Bremsen für das nasse Kopfsteinpflaster.",
                 "hu": "Csodálja meg a torony óraművét röviden a nyeregből, biztosítva, hogy a fékek készen álljanak a vizes macskakövekre.",
                 "ro": "Admirați mecanismul ceasului din șa, asigurându-vă că frânele sunt pregătite pentru piatra cubică umedă din piață.",
-                "en": "Admire the tower's clock mechanism briefly from the saddle, ensuring your brakes are ready for wet cobblestones."
+                "en": "Admire the tower's clock mechanism briefly from the saddle, ensuring your brakes are ready for wet cobblestones.",
+                "fr": "Admirez brièvement le mécanisme d'horloge de la tour depuis la selle, en vous assurant que vos freins sont prêts pour les pavés mouillés."
               }
             },
             {
@@ -459,13 +506,15 @@
                 "de": "Kirche Notre-Dame-de-l'Assomption",
                 "hu": "Notre-Dame-de-l'Assomption templom",
                 "ro": "Biserica Notre-Dame-de-l'Assomption",
-                "en": "Church of Notre-Dame-de-l'Assomption"
+                "en": "Church of Notre-Dame-de-l'Assomption",
+                "fr": "Église Notre-Dame-de-l'Assomption"
               },
               "tip_5lang": {
                 "de": "Parken Sie Ihr Fahrrad und staunen Sie über das klassische Interieur, eine willkommene Pause vom anhaltenden Regen draußen.",
                 "hu": "Parkolja le a kerékpárt, és lépjen be, hogy megcsodálja a klasszikus belsőt, jól megérdemelt pihenőt tartva az eső elől.",
                 "ro": "Parcați bicicleta și intrați pentru a vă minuna de interior, luând o pauză binevenită de la ploaia persistentă de afară.",
-                "en": "Park your bike and step inside to marvel at the classic interior, taking a welcome break from the persistent rain outside."
+                "en": "Park your bike and step inside to marvel at the classic interior, taking a welcome break from the persistent rain outside.",
+                "fr": "Garez votre vélo et entrez pour admirer l'intérieur classique, prenant une pause bienvenue loin de la pluie persistante dehors."
               }
             },
             {
@@ -473,13 +522,15 @@
                 "de": "Altes Museum Lambesc",
                 "hu": "Régi Lambesc Múzeum",
                 "ro": "Vechiul Muzeu Lambesc",
-                "en": "Old Lambesc Museum"
+                "en": "Old Lambesc Museum",
+                "fr": "Musée d'Old Lambesc"
               },
               "tip_5lang": {
                 "de": "Lassen Sie Ihre nasse Ausrüstung am Eingang und erkunden Sie die Geschichte von Lambesc in dieser völlig trockenen Attraktion.",
                 "hu": "Hagyja nedves felszerelését a bejáratnál, és fedezze fel Lambesc gazdag történelmét ezen a száraz beltéri látványosságon.",
                 "ro": "Lăsați echipamentul ud la intrare și explorați istoria bogată a orașului în această atracție interioară complet uscată.",
-                "en": "Leave your wet gear at the entrance and explore the rich history of Lambesc inside this completely dry indoor attraction."
+                "en": "Leave your wet gear at the entrance and explore the rich history of Lambesc inside this completely dry indoor attraction.",
+                "fr": "Laissez votre équipement humide à l'entrée et explorez la riche histoire de Lambesc à l'intérieur de cette attraction entièrement sèche."
               }
             },
             {
@@ -487,13 +538,15 @@
                 "de": "Domaine d'Aiguebelle",
                 "hu": "Domaine d'Aiguebelle",
                 "ro": "Domeniul Aiguebelle",
-                "en": "Domaine d'Aiguebelle"
+                "en": "Domaine d'Aiguebelle",
+                "fr": "Domaine d'Aiguebelle"
               },
               "tip_5lang": {
                 "de": "Radeln Sie vorsichtig auf nassem Kies zu diesem Weingut und machen Sie eine Weinprobe, während Sie drinnen warten.",
                 "hu": "Kerékpározzon óvatosan a nedves kavicson a birtokig, és tartson borkóstoló szünetet a beltérben, amíg az eső alábbhagy.",
                 "ro": "Pedalați cu grijă pe pietrișul ud spre acest domeniu și faceți o pauză de degustare, lăsând ploaia să treacă în interior.",
-                "en": "Cycle carefully on wet gravel to this estate and take a wine tasting break, letting the rain pass while enjoying indoors."
+                "en": "Cycle carefully on wet gravel to this estate and take a wine tasting break, letting the rain pass while enjoying indoors.",
+                "fr": "Roulez prudemment sur le gravier mouillé jusqu'au domaine et faites une pause dégustation de vin, en laissant la pluie passer tout en profitant des intérieurs."
               }
             },
             {
@@ -501,13 +554,15 @@
                 "de": "Kapelle der Heiligen Anna",
                 "hu": "Szent Anna Kápolna",
                 "ro": "Capela Sfânta Ana",
-                "en": "Saint Anne Chapel"
+                "en": "Saint Anne Chapel",
+                "fr": "Chapelle Sainte-Anne"
               },
               "tip_5lang": {
                 "de": "Trotzen Sie der rutschigen Landstraße zu dieser Friedenskapelle und bringen Sie eine wasserdichte Hülle für den Sitz mit.",
                 "hu": "Dacoljon a csúszós, emelkedő vidéki úttal e békés kápolna felé, és hozzon vízálló huzatot a kerékpár nyergére.",
                 "ro": "Înfruntați drumul rural alunecos în urcare spre capelă, aducând o husă impermeabilă pentru șaua bicicletei.",
-                "en": "Brave the slippery uphill rural road to view this peaceful countryside chapel, bringing a waterproof cover for your bike seat."
+                "en": "Brave the slippery uphill rural road to view this peaceful countryside chapel, bringing a waterproof cover for your bike seat.",
+                "fr": "Bravez la route rurale glissante et montante pour voir cette chapelle paisible de campagne, en apportant une housse imperméable pour la selle de votre vélo."
               }
             }
           ]
@@ -517,7 +572,8 @@
             "de": "Ziehen Sie winddichte Kleidung für eine morgendliche Fahrt zum historischen Uhrturm an. Die Mittagssonne wärmt Sie leicht bei der großen Kirche und dem Museum. Nachmittags erwartet Sie eine kühle Fahrt zum Weingut. Beenden Sie die Route an der fernen Kapelle, bevor der Sonnenuntergang gegen 17 Uhr die Straßen in Kälte hüllt.",
             "hu": "Öltözzön szélálló rétegekbe a téli reggeli kerékpározáshoz a toronyhoz. A déli nap felmelegíti, miközben a templomot és a múzeumot látogatja. A délután csípős, de gyönyörű utat hoz a vidéki borbirtokhoz. Fejezze be útját a kápolnánál a 17 órai naplemente előtt, mielőtt az utak fagyos sötétségbe borulnak.",
             "ro": "Îmbrăcați-vă cu straturi rezistente la vânt pentru o plimbare matinală până la turn. Soarele amiezii vă încălzește ușor la biserică și la muzeu. După-amiaza aduce o plimbare rece spre podgorie. Finalizați traseul la capelă înainte de apusul de la ora 17:00, care cufundă drumurile în întuneric rece.",
-            "en": "Dress in windproof layers for a brisk winter morning ride to the historic tower. Midday sun warms you slightly at the grand church and local museum. The afternoon brings a chilly but beautiful ride to the wine estate. Complete your route at the distant chapel before the 5 PM sunset brings freezing darkness."
+            "en": "Dress in windproof layers for a brisk winter morning ride to the historic tower. Midday sun warms you slightly at the grand church and local museum. The afternoon brings a chilly but beautiful ride to the wine estate. Complete your route at the distant chapel before the 5 PM sunset brings freezing darkness.",
+            "fr": "Habillez-vous en couches coupe-vent pour une balade matinale vive jusqu'à la tour historique. Le soleil de midi vous réchauffe légèrement à la grande église et au musée local. L'après-midi apporte une belle mais fraîche balade jusqu'au domaine viticole. Terminez votre parcours à la chapelle éloignée avant que le coucher du soleil à 17h n'apporte une obscurité glaciale."
           },
           "stops": [
             {
@@ -525,13 +581,15 @@
                 "de": "Jacquemart-Turm",
                 "hu": "Jacquemart Torony",
                 "ro": "Turnul Jacquemart",
-                "en": "Jacquemart Tower"
+                "en": "Jacquemart Tower",
+                "fr": "Tour du Jacquemart"
               },
               "tip_5lang": {
                 "de": "Halten Sie an, um den Mechanismus zu sehen, aber behalten Sie die Handschuhe an, da der Morgenfrost den Lenker eisig macht.",
                 "hu": "Álljon meg megnézni az egyedi óraszerkezetet, de tartsa magán a kerékpáros kesztyűt, mivel a fagy miatt a kormány hideg lehet.",
                 "ro": "Opriți-vă pentru a vedea mecanismul unic, dar păstrați mănușile, deoarece gerul dimineții face ghidonul extrem de înghețat.",
-                "en": "Pause to view the unique jacquemart mechanism, but keep your cycling gloves on as the morning frost can freeze the handlebars."
+                "en": "Pause to view the unique jacquemart mechanism, but keep your cycling gloves on as the morning frost can freeze the handlebars.",
+                "fr": "Faites une pause pour observer le mécanisme jacquemart unique, mais gardez vos gants de cyclisme car le givre matinal peut congeler le guidon."
               }
             },
             {
@@ -539,13 +597,15 @@
                 "de": "Kirche Notre-Dame-de-l'Assomption",
                 "hu": "Notre-Dame-de-l'Assomption templom",
                 "ro": "Biserica Notre-Dame-de-l'Assomption",
-                "en": "Church of Notre-Dame-de-l'Assomption"
+                "en": "Church of Notre-Dame-de-l'Assomption",
+                "fr": "Église Notre-Dame-de-l'Assomption"
               },
               "tip_5lang": {
                 "de": "Wärmen Sie sich in dieser wunderschönen Kirche auf und finden Sie Schutz vor den kalten Winterwinden der engen Gassen.",
                 "hu": "Melegedjen fel a gyönyörű kupolás templomban, menedéket találva a város szűk utcáin végigsöprő csípős téli szelek elől.",
                 "ro": "Încălziți-vă în interiorul acestei biserici, găsind adăpost de vânturile aspre de iarnă care străbat străzile înguste.",
-                "en": "Warm up inside this beautifully domed church, finding shelter from the biting winter winds sweeping through the narrow streets."
+                "en": "Warm up inside this beautifully domed church, finding shelter from the biting winter winds sweeping through the narrow streets.",
+                "fr": "Réchauffez-vous à l'intérieur de cette église magnifiquement voûtée, trouvant un abri contre les vents d'hiver mordants qui traversent les rues étroites."
               }
             },
             {
@@ -553,13 +613,15 @@
                 "de": "Altes Museum Lambesc",
                 "hu": "Régi Lambesc Múzeum",
                 "ro": "Vechiul Muzeu Lambesc",
-                "en": "Old Lambesc Museum"
+                "en": "Old Lambesc Museum",
+                "fr": "Musée d'Old Lambesc"
               },
               "tip_5lang": {
                 "de": "Nehmen Sie sich Zeit für dieses gut beheizte Museum, um Ihre Finger richtig aufzutauen, bevor Sie wieder weiterradeln.",
                 "hu": "Szánjon időt a kiállítások felfedezésére ebben a jól fűtött múzeumban, hogy ujjai kiolvadjanak, mielőtt újra nyeregbe pattan.",
                 "ro": "Acordați-vă timp explorând acest muzeu bine încălzit pentru a vă dezgheța degetele înainte de a vă întoarce pe bicicletă.",
-                "en": "Take your time exploring the artifacts in this well-heated museum to properly thaw your fingers before getting back on your bike."
+                "en": "Take your time exploring the artifacts in this well-heated museum to properly thaw your fingers before getting back on your bike.",
+                "fr": "Prenez votre temps pour explorer les artefacts dans ce musée bien chauffé afin de dégeler correctement vos doigts avant de remonter sur votre vélo."
               }
             },
             {
@@ -567,13 +629,15 @@
                 "de": "Domaine d'Aiguebelle",
                 "hu": "Domaine d'Aiguebelle",
                 "ro": "Domeniul Aiguebelle",
-                "en": "Domaine d'Aiguebelle"
+                "en": "Domaine d'Aiguebelle",
+                "fr": "Domaine d'Aiguebelle"
               },
               "tip_5lang": {
                 "de": "Radeln Sie vorsichtig auf kalten Wegen zum Weingut, wo eine herzhafte Verkostung im Warmen Körper und Seele wärmt.",
                 "hu": "Kerékpározzon óvatosan a hideg utakon a birtokig, ahol egy beltéri kóstoló felmelegíti testét és lelkét a fagyos időben.",
                 "ro": "Pedalați cu grijă pe cărările reci pentru a ajunge la domeniu, unde o degustare în interior vă va încălzi corpul și sufletul.",
-                "en": "Cycle carefully on the cold country paths to reach the estate, where a hearty indoor tasting will warm your body and soul."
+                "en": "Cycle carefully on the cold country paths to reach the estate, where a hearty indoor tasting will warm your body and soul.",
+                "fr": "Roulez prudemment sur les chemins de campagne froids pour atteindre le domaine, où une dégustation copieuse en intérieur réchauffera votre corps et votre âme."
               }
             },
             {
@@ -581,13 +645,15 @@
                 "de": "Kapelle der Heiligen Anna",
                 "hu": "Szent Anna Kápolna",
                 "ro": "Capela Sfânta Ana",
-                "en": "Saint Anne Chapel"
+                "en": "Saint Anne Chapel",
+                "fr": "Chapelle Sainte-Anne"
               },
               "tip_5lang": {
                 "de": "Genießen Sie die winterliche Schönheit dieser Kapelle und fahren Sie vor dem Sonnenuntergang um 17 Uhr schnell zurück.",
                 "hu": "Élvezze a félreeső kápolna zord, téli szépségét, ügyelve arra, hogy a 17 órai naplemente előtt időben induljon vissza a melegbe.",
                 "ro": "Bucurați-vă de frumusețea de iarnă a acestei capele, asigurându-vă că vă întoarceți înainte de apusul de la ora 17:00.",
-                "en": "Enjoy the stark, wintry beauty of this secluded chapel, ensuring you head back before the early 5 PM sunset lowers temperatures."
+                "en": "Enjoy the stark, wintry beauty of this secluded chapel, ensuring you head back before the early 5 PM sunset lowers temperatures.",
+                "fr": "Appréciez la beauté austère et hivernale de cette chapelle isolée, en veillant à revenir avant le coucher du soleil précoce à 17h qui fait chuter les températures."
               }
             }
           ]
@@ -607,7 +673,8 @@
             "de": "Altes Museum Lambesc",
             "hu": "Régi Lambesc Múzeum",
             "ro": "Vechiul Muzeu Lambesc",
-            "en": "Old Lambesc Museum"
+            "en": "Old Lambesc Museum",
+            "fr": "Musée d'Old Lambesc"
           },
           "coords": [
             5.261751,
@@ -622,7 +689,8 @@
             "de": "Entdecken Sie faszinierende lokale Ausstellungen von der Römerzeit bis zur Moderne und beginnen Sie im Erdgeschoss für ein chronologisches Erlebnis.",
             "hu": "Fedezze fel a római kortól a modern időkig terjedő helyi történelmi kiállításokat, és kezdje a földszinten a kronologikus élmény érdekében.",
             "ro": "Explorați expoziții fascinante de istorie locală, din perioada romană până în era modernă, și începeți de la parter pentru o experiență cronologică.",
-            "en": "Explore fascinating local history exhibits ranging from Roman times to the modern era, and start at the ground floor for a chronological experience."
+            "en": "Explore fascinating local history exhibits ranging from Roman times to the modern era, and start at the ground floor for a chronological experience.",
+            "fr": "Explorez des expositions fascinantes sur l'histoire locale, de l'époque romaine à l'ère moderne, et commencez au rez-de-chaussée pour une expérience chronologique."
           }
         },
         {
@@ -630,7 +698,8 @@
             "de": "Tour du Jacquemard",
             "hu": "Tour du Jacquemard",
             "ro": "Tour du Jacquemard",
-            "en": "Tour du Jacquemard"
+            "en": "Tour du Jacquemard",
+            "fr": "Tour du Jacquemard"
           },
           "coords": [
             5.261794,
@@ -645,7 +714,8 @@
             "de": "Bewundern Sie die mechanische Uhr auf diesem historischen Turm, einem wahren Symbol der Stadt, und kommen Sie pünktlich zum Mittagessen, um die Glocken zu hören.",
             "hu": "Csodálja meg a történelmi torony mechanikus óráját, amely a város szimbóluma, és érkezzen pontosan délben, hogy hallhassa a hagyományos harangjátékot.",
             "ro": "Admirați ceasul mecanic de pe acest turn istoric, un adevărat simbol al orașului, și veniți exact la prânz pentru a asculta sunetul clopotelor.",
-            "en": "Admire the mechanical clock on this historic tower, a true symbol of the town, and visit exactly at noon to hear the traditional chimes echo."
+            "en": "Admire the mechanical clock on this historic tower, a true symbol of the town, and visit exactly at noon to hear the traditional chimes echo.",
+            "fr": "Admirez l'horloge mécanique de cette tour historique, véritable symbole de la ville, et visitez exactement à midi pour entendre les carillons traditionnels résonner."
           }
         },
         {
@@ -653,7 +723,8 @@
             "de": "Kirche Notre-Dame-de-l'Assomption",
             "hu": "Notre-Dame-de-l'Assomption templom",
             "ro": "Biserica Notre-Dame-de-l'Assomption",
-            "en": "Church of Notre-Dame-de-l'Assomption"
+            "en": "Church of Notre-Dame-de-l'Assomption",
+            "fr": "Église Notre-Dame-de-l'Assomption"
           },
           "coords": [
             5.261312,
@@ -668,7 +739,8 @@
             "de": "Entdecken Sie die barocke Architektur und die detaillierten Fresken in dieser Kirche, und bewegen Sie sich leise, um die Gläubigen nicht zu stören.",
             "hu": "Fedezze fel a templom lenyűgöző barokk építészetét és részletes freskóit, ügyelve arra, hogy csendesen közlekedjen a helyi hívők tiszteletben tartása végett.",
             "ro": "Descoperiți arhitectura barocă și frescele detaliate din interiorul acestei biserici, având grijă să păstrați liniștea pentru a respecta credincioșii locali.",
-            "en": "Discover the magnificent baroque architecture and detailed frescoes inside this church, ensuring you walk quietly to respect the local worshippers."
+            "en": "Discover the magnificent baroque architecture and detailed frescoes inside this church, ensuring you walk quietly to respect the local worshippers.",
+            "fr": "Découvrez la magnifique architecture baroque et les fresques détaillées à l'intérieur de cette église, en veillant à marcher doucement pour respecter les fidèles locaux."
           }
         },
         {
@@ -676,7 +748,8 @@
             "de": "Domaine d'Aiguebelle",
             "hu": "Domaine d'Aiguebelle",
             "ro": "Domeniul Aiguebelle",
-            "en": "Domaine d'Aiguebelle"
+            "en": "Domaine d'Aiguebelle",
+            "fr": "Domaine d'Aiguebelle"
           },
           "coords": [
             5.281548,
@@ -691,7 +764,8 @@
             "de": "Wandern Sie über das beeindruckende Gelände dieses großen Anwesens und nehmen Sie sich Zeit für einen Spaziergang durch die Weinberge.",
             "hu": "Sétáljon végig a birtok lenyűgöző területein, és szánjon időt a környező szőlőültetvényekre is, amelyek ősszel a legszebbek.",
             "ro": "Plimbați-vă pe domeniul impresionant al acestei mari moșii și faceți-vă timp pentru o plimbare prin podgoriile din jur, care sunt superbe toamna.",
-            "en": "Wander around the impressive grounds of this grand estate, and take time to stroll through the surrounding vineyards which are beautiful in autumn."
+            "en": "Wander around the impressive grounds of this grand estate, and take time to stroll through the surrounding vineyards which are beautiful in autumn.",
+            "fr": "Promenez-vous autour des impressionnants espaces de ce grand domaine, et prenez le temps de flâner dans les vignobles environnants qui sont magnifiques en automne."
           }
         },
         {
@@ -699,7 +773,8 @@
             "de": "Kapelle der Heiligen Anna",
             "hu": "Szent Anna Kápolna",
             "ro": "Capela Sfânta Ana",
-            "en": "Saint Anne Chapel"
+            "en": "Saint Anne Chapel",
+            "fr": "Chapelle Sainte-Anne"
           },
           "coords": [
             5.276781,
@@ -714,7 +789,8 @@
             "de": "Erreichen Sie diese abgelegene Kapelle für atemberaubende Panoramablicke auf die Landschaft und bringen Sie eine Flasche Wasser mit, da es keine Geschäfte gibt.",
             "hu": "Érje el ezt a távoli, békés dombtetőn lévő kápolnát a lenyűgöző panorámáért, és hozzon magával vizet, mivel nincsenek boltok a közelben.",
             "ro": "Ajungeți la această capelă izolată de pe deal pentru vederi panoramice uimitoare și aduceți o sticlă de apă, deoarece nu există magazine în apropiere.",
-            "en": "Reach this remote and peaceful hilltop chapel for stunning panoramic views of the countryside, and bring a bottle of water as there are no shops nearby."
+            "en": "Reach this remote and peaceful hilltop chapel for stunning panoramic views of the countryside, and bring a bottle of water as there are no shops nearby.",
+            "fr": "Rejoignez cette chapelle isolée et paisible au sommet de la colline pour des vues panoramiques époustouflantes de la campagne, et apportez une bouteille d'eau car il n'y a pas de commerces à proximité."
           }
         }
       ],
@@ -722,7 +798,8 @@
         "de": "Beginnen Sie Ihren Morgen im historischen Herzen von Lambesc, bewundern Sie den ikonischen Uhrturm und spüren Sie den Puls dieser provenzalischen Stadt. Tauchen Sie mittags in das spirituelle Erbe ein, besuchen Sie die große Kirche und alte Kapellen. Erkunden Sie am Nachmittag das lokale Museum oder die malerischen Weingüter. Beenden Sie den Tag und genießen Sie die friedliche Landschaft.",
         "hu": "Kezdje a reggelt Lambesc történelmi szívében, csodálja meg az ikonikus óratornyot, és érezze a provence-i város ritmusát. Délben merüljön el a spirituális örökségben a nagy templom és az ősi kápolnák felfedezésével. Délután látogasson el a helyi múzeumba, vagy tegyen egy kirándulást a festői borbirtokokra. Zárja a napot a békés vidéki táj lenyűgöző látványával.",
         "ro": "Începeți dimineața explorând inima istorică a orașului Lambesc, admirând turnul cu ceas și simțind pulsul orașului provensal. La amiază, pătrundeți în moștenirea sa spirituală, vizitând marea biserică și capelele vechi. După-amiaza, explorați muzeul local sau mergeți la domeniile viticole pitorești. Încheiați-vă ziua bucurându-vă de priveliștile pașnice ale peisajului rural.",
-        "en": "Start your morning exploring the historic heart of Lambesc, admiring the iconic clock tower and feeling the pulse of this provençal town. By midday, delve into its spiritual heritage, visiting the grand church and ancient chapels tucked in narrow streets. In the afternoon, explore the local museum or head out to the scenic wine estates. End your day soaking in the peaceful countryside views."
+        "en": "Start your morning exploring the historic heart of Lambesc, admiring the iconic clock tower and feeling the pulse of this provençal town. By midday, delve into its spiritual heritage, visiting the grand church and ancient chapels tucked in narrow streets. In the afternoon, explore the local museum or head out to the scenic wine estates. End your day soaking in the peaceful countryside views.",
+        "fr": "Commencez la matinée en explorant le cœur historique de Lambesc, en admirant l'emblématique tour de l'horloge et en ressentant le pouls de cette ville provençale. À midi, plongez dans son patrimoine spirituel en visitant la grande église et les anciennes chapelles nichées dans les ruelles étroites. L'après-midi, visitez le musée local ou partez vers les domaines viticoles pittoresques. Terminez la journée en profitant des vues paisibles de la campagne."
       },
       "variants": {
         "rainy": {
@@ -730,7 +807,8 @@
             "de": "Starten Sie entspannt in den regnerischen Morgen und beginnen Sie im trockenen Museum. Mittags können Sie kurz den Turm besichtigen, bevor Sie sich in die Kirche flüchten. Fahren Sie nachmittags gemütlich über nasse Straßen zum Weingut für eine überdachte Verkostung. Beenden Sie die Fahrt sicher an der Kapelle.",
             "hu": "Vezessen kényelmesen az esős reggelen, a száraz múzeumban kezdve. A déli záporok alatt rövid kitérőt tehet a toronyhoz, mielőtt a hatalmas templomba menekülne. Délután biztonságosan navigáljon a nedves utakon a borbirtokhoz egy fedett kóstolóra. Zárja útját a távoli kápolnánál, hallgatva az esőt az autó tetőjén.",
             "ro": "Conduceți lin în dimineața ploioasă, începând la muzeul local uscat. Aversele de prânz nu vă vor opri pentru a vedea scurt turnul înainte de a intra în biserică. După-amiaza, navigați pe drumurile ude spre podgorie pentru o degustare. Încheiați la capela îndepărtată, ascultând ploaia pe mașină.",
-            "en": "Drive smoothly into your rainy morning, beginning at the dry, sheltered local museum. Midday showers won't stop you as you dash briefly to see the historical tower before ducking into the grand church. By afternoon, comfortably navigate wet country roads to the wine estate for a covered tasting. End at the remote chapel."
+            "en": "Drive smoothly into your rainy morning, beginning at the dry, sheltered local museum. Midday showers won't stop you as you dash briefly to see the historical tower before ducking into the grand church. By afternoon, comfortably navigate wet country roads to the wine estate for a covered tasting. End at the remote chapel.",
+            "fr": "Entrez doucement dans votre matinée pluvieuse en voiture, en commençant par le musée local sec et abrité. Les averses de midi ne vous arrêteront pas alors que vous filez voir brièvement la tour historique avant de vous réfugier dans la grande église. L'après-midi, naviguez confortablement sur des routes de campagne mouillées jusqu'au domaine viticole pour une dégustation à l'abri. Terminez à la chapelle isolée."
           },
           "stops": [
             {
@@ -738,13 +816,15 @@
                 "de": "Altes Museum Lambesc",
                 "hu": "Régi Lambesc Múzeum",
                 "ro": "Vechiul Muzeu Lambesc",
-                "en": "Old Lambesc Museum"
+                "en": "Old Lambesc Museum",
+                "fr": "Musée d'Old Lambesc"
               },
               "tip_5lang": {
                 "de": "Parken Sie in der Nähe des Eingangs und entdecken Sie das lokale Erbe – ein fantastischer, trockener Start in den Tag.",
                 "hu": "Parkoljon közel a bejárathoz, és menjen be felfedezni a helyi örökséget, ami fantasztikus, száraz kezdést kínál esőben.",
                 "ro": "Parcați aproape de intrare și descoperiți patrimoniul local, oferind un început uscat fantastic pentru o zi ploioasă.",
-                "en": "Park close to the entrance and head inside to discover local heritage, offering a fantastic dry start to a rainy day."
+                "en": "Park close to the entrance and head inside to discover local heritage, offering a fantastic dry start to a rainy day.",
+                "fr": "Garez-vous près de l'entrée et entrez pour découvrir le patrimoine local, offrant un excellent départ au sec pour une journée pluvieuse."
               }
             },
             {
@@ -752,13 +832,15 @@
                 "de": "Tour du Jacquemard",
                 "hu": "Tour du Jacquemard",
                 "ro": "Tour du Jacquemard",
-                "en": "Tour du Jacquemard"
+                "en": "Tour du Jacquemard",
+                "fr": "Tour du Jacquemard"
               },
               "tip_5lang": {
                 "de": "Holen Sie Ihren Regenschirm aus dem Kofferraum, um diesen ikonischen Turm kurz zu besichtigen, da es keinen Unterstand gibt.",
                 "hu": "Vegye elő esernyőjét a csomagtartóból a torony megnézéséhez, mivel nincs menedék a közvetlen sétálóutcájában.",
                 "ro": "Luați umbrela din portbagaj pentru a vedea scurt acest turn, deoarece nu există adăposturi în jurul pieței pietonale.",
-                "en": "Grab your umbrella from the trunk to view this iconic tower briefly, as there are no shelters around its pedestrian plaza."
+                "en": "Grab your umbrella from the trunk to view this iconic tower briefly, as there are no shelters around its pedestrian plaza.",
+                "fr": "Prenez votre parapluie dans le coffre pour voir brièvement cette tour emblématique, car il n'y a pas d'abris autour de sa place piétonne."
               }
             },
             {
@@ -766,13 +848,15 @@
                 "de": "Kirche Notre-Dame-de-l'Assomption",
                 "hu": "Notre-Dame-de-l'Assomption templom",
                 "ro": "Biserica Notre-Dame-de-l'Assomption",
-                "en": "Church of Notre-Dame-de-l'Assomption"
+                "en": "Church of Notre-Dame-de-l'Assomption",
+                "fr": "Église Notre-Dame-de-l'Assomption"
               },
               "tip_5lang": {
                 "de": "Beeilen Sie sich vom Auto in diese Kirche, um sich abzutrocknen und die schönen Altarbilder abseits des Regens zu bewundern.",
                 "hu": "Siessen a parkoló autóból a csodálatos templomba, hogy megszáradjon, és a felhőszakadás elől megcsodálja az oltárképeket.",
                 "ro": "Grăbiți-vă de la mașina parcată în biserică pentru a vă usca și a admira altarele departe de ploaia torențială.",
-                "en": "Hurry from your parked car into this magnificent church to dry off and admire the beautiful altarpieces out of the downpour."
+                "en": "Hurry from your parked car into this magnificent church to dry off and admire the beautiful altarpieces out of the downpour.",
+                "fr": "Hâtez-vous depuis votre voiture garée pour entrer dans cette magnifique église, vous sécher et admirer les beaux retables à l'abri de l'averse."
               }
             },
             {
@@ -780,13 +864,15 @@
                 "de": "Domaine d'Aiguebelle",
                 "hu": "Domaine d'Aiguebelle",
                 "ro": "Domeniul Aiguebelle",
-                "en": "Domaine d'Aiguebelle"
+                "en": "Domaine d'Aiguebelle",
+                "fr": "Domaine d'Aiguebelle"
               },
               "tip_5lang": {
                 "de": "Fahren Sie vorsichtig auf den rutschigen Zufahrtsstraßen und genießen Sie eine elegante Weinprobe, geschützt vor dem Wetter.",
                 "hu": "Vezessen óvatosan a csúszós bekötőutakon, és élvezze az elegáns borkóstolót, teljesen védve a kinti komor időjárástól.",
                 "ro": "Conduceți cu grijă pe drumurile alunecoase de acces și bucurați-vă de o degustare, la adăpost de vremea posomorâtă.",
-                "en": "Drive carefully on the slick vineyard access roads and enjoy an elegant wine tasting entirely sheltered from the gloomy weather."
+                "en": "Drive carefully on the slick vineyard access roads and enjoy an elegant wine tasting entirely sheltered from the gloomy weather.",
+                "fr": "Conduisez prudemment sur les routes d'accès glissantes du vignoble et profitez d'une dégustation de vin élégante entièrement protégée du temps maussade."
               }
             },
             {
@@ -794,13 +880,15 @@
                 "de": "Kapelle der Heiligen Anna",
                 "hu": "Szent Anna Kápolna",
                 "ro": "Capela Sfânta Ana",
-                "en": "Saint Anne Chapel"
+                "en": "Saint Anne Chapel",
+                "fr": "Chapelle Sainte-Anne"
               },
               "tip_5lang": {
                 "de": "Halten Sie in der Nähe an, um diese Kapelle aus der Wärme Ihres Autos zu bewundern, oder treten Sie kurz in den Regen.",
                 "hu": "Álljon meg a közelben, hogy járműve melegéből csodálja meg ezt az elszigetelt kápolnát, vagy lépjen ki röviden az esőbe.",
                 "ro": "Opriți mașina în apropiere pentru a admira capela izolată din căldura vehiculului sau ieșiți scurt în ploaie.",
-                "en": "Stop the car nearby to admire this isolated chapel from the warmth of your vehicle, or briefly step out into the rain."
+                "en": "Stop the car nearby to admire this isolated chapel from the warmth of your vehicle, or briefly step out into the rain.",
+                "fr": "Arrêtez la voiture à proximité pour admirer cette chapelle isolée depuis la chaleur du véhicule, ou sortez brièvement sous la pluie."
               }
             }
           ]
@@ -810,7 +898,8 @@
             "de": "Lassen Sie die Autoheizung an, während Sie den winterlichen Morgen im Museum beginnen. Mittags gibt es frostige Spaziergänge zum Uhrturm und zur Kirche. Verbringen Sie den kühlen Nachmittag mit einer Fahrt durch malerische Weinberge zum Weingut. Beenden Sie die Tour an der rustikalen Kapelle, perfekt getimt vor 17 Uhr.",
             "hu": "Fűtse fel az autót, ahogy a csípős téli reggelt a múzeumban kezdi. A dél rövid, fagyos sétákat tartogat a toronyhoz és a templomhoz. A hűvös délutánt azzal töltheti, hogy a kopár szőlőültetvényeken keresztül a borbirtokhoz vezet. Zárja túráját a rusztikus kápolnánál a 17 órai fagyos naplemente előtt.",
             "ro": "Lăsați căldura mașinii pornită în timp ce începeți dimineața de iarnă la muzeu. Prânzul aduce plimbări scurte la turn și biserică. Petreceți după-amiaza rece conducând prin podgoriile pitorești spre domeniul viticol. Încheiați turul la capela rustică, programat perfect înainte de apusul de la ora 17:00.",
-            "en": "Keep the car heater on as you start your crisp winter morning at the local museum. Midday brings short, frosty walks to the grand clock tower and vast stone church. Spend your chilly afternoon driving through bare vineyards to the wine estate. Conclude your tour at the rustic chapel, timed before the freezing 5 PM sunset."
+            "en": "Keep the car heater on as you start your crisp winter morning at the local museum. Midday brings short, frosty walks to the grand clock tower and vast stone church. Spend your chilly afternoon driving through bare vineyards to the wine estate. Conclude your tour at the rustic chapel, timed before the freezing 5 PM sunset.",
+            "fr": "Gardez le chauffage de la voiture allumé en commençant votre matinée hivernale fraîche au musée local. À midi, de courtes promenades givrées mènent à la grande tour de l'horloge et à la vaste église de pierre. Passez votre après-midi froid à traverser en voiture des vignobles dépouillés jusqu'au domaine viticole. Concluez votre visite à la chapelle rustique, en veillant à finir avant le coucher du soleil glacé à 17h."
           },
           "stops": [
             {
@@ -818,13 +907,15 @@
                 "de": "Altes Museum Lambesc",
                 "hu": "Régi Lambesc Múzeum",
                 "ro": "Vechiul Muzeu Lambesc",
-                "en": "Old Lambesc Museum"
+                "en": "Old Lambesc Museum",
+                "fr": "Musée d'Old Lambesc"
               },
               "tip_5lang": {
                 "de": "Beginnen Sie den Tag in den beheizten Räumen dieses Museums und lernen Sie Kultur kennen, bevor Sie der Kälte trotzen.",
                 "hu": "Kezdje a napot a múzeum jól fűtött termeiben, megismerve a helyi kultúrát, mielőtt nekivágna a kinti csípős levegőnek.",
                 "ro": "Începeți ziua în sălile bine încălzite ale acestui muzeu, învățând despre cultura locală înainte de a înfrunta aerul rece.",
-                "en": "Begin your day in the well-heated rooms of this museum, learning about local culture before braving the crisp winter air outside."
+                "en": "Begin your day in the well-heated rooms of this museum, learning about local culture before braving the crisp winter air outside.",
+                "fr": "Commencez votre journée dans les salles bien chauffées de ce musée, en apprenant la culture locale avant d'affronter l'air hivernal vif dehors."
               }
             },
             {
@@ -832,13 +923,15 @@
                 "de": "Tour du Jacquemard",
                 "hu": "Tour du Jacquemard",
                 "ro": "Tour du Jacquemard",
-                "en": "Tour du Jacquemard"
+                "en": "Tour du Jacquemard",
+                "fr": "Tour du Jacquemard"
               },
               "tip_5lang": {
                 "de": "Parken Sie in der Nähe und gehen Sie zügig. Wickeln Sie sich einen Schal um, da die Plätze im Winter windig sind.",
                 "hu": "Parkoljon a közelben, és sétáljon tempósan az emlékműhöz, szorosan megkötve sálját, mivel a terek télen nagyon szelesek.",
                 "ro": "Parcați în apropiere și mergeți rapid, înfășurându-vă un fular cald, deoarece piețele devin destul de vântoase iarna.",
-                "en": "Park nearby and walk briskly to see this fantastic monument, wrapping a warm scarf tightly as the squares get quite windy."
+                "en": "Park nearby and walk briskly to see this fantastic monument, wrapping a warm scarf tightly as the squares get quite windy.",
+                "fr": "Garez-vous à proximité et marchez d'un pas alerte pour voir ce monument fantastique, en serrant bien votre écharpe chaude car les places peuvent être venteuses."
               }
             },
             {
@@ -846,13 +939,15 @@
                 "de": "Kirche Notre-Dame-de-l'Assomption",
                 "hu": "Notre-Dame-de-l'Assomption templom",
                 "ro": "Biserica Notre-Dame-de-l'Assomption",
-                "en": "Church of Notre-Dame-de-l'Assomption"
+                "en": "Church of Notre-Dame-de-l'Assomption",
+                "fr": "Église Notre-Dame-de-l'Assomption"
               },
               "tip_5lang": {
                 "de": "Betreten Sie das Kirchenschiff, um die Architektur zu bewundern und Zuflucht vor den eisigen Temperaturen zu finden.",
                 "hu": "Lépjen be a hajóba, hogy megcsodálja a lenyűgöző építészetet, és menedéket találjon a középkori utcák fagyos hidege elől.",
                 "ro": "Pășiți în navă pentru a admira arhitectura și a găsi un refugiu de la temperaturile de îngheț care persistă afară.",
-                "en": "Step into the nave to admire the impressive architecture and find refuge from the freezing temperatures lingering outside."
+                "en": "Step into the nave to admire the impressive architecture and find refuge from the freezing temperatures lingering outside.",
+                "fr": "Entrez dans la nef pour admirer l'architecture impressionnante et trouver refuge contre les températures glaciales qui règnent dehors."
               }
             },
             {
@@ -860,13 +955,15 @@
                 "de": "Domaine d'Aiguebelle",
                 "hu": "Domaine d'Aiguebelle",
                 "ro": "Domeniul Aiguebelle",
-                "en": "Domaine d'Aiguebelle"
+                "en": "Domaine d'Aiguebelle",
+                "fr": "Domaine d'Aiguebelle"
               },
               "tip_5lang": {
                 "de": "Genießen Sie eine Winterfahrt zum Weingut, wo eine Weinprobe im Warmen einen perfekten Rückzugsort bietet.",
                 "hu": "Élvezze a festői téli autózást e birtokhoz, ahol egy hangulatos beltéri borkóstoló tökéletes menedéket nyújt a hideg elől.",
                 "ro": "Bucurați-vă de o plimbare de iarnă până la domeniu, unde o degustare de vinuri în interior oferă o retragere perfectă.",
-                "en": "Enjoy a scenic winter drive to this beautiful estate, where a cozy indoor wine tasting offers a perfect retreat from the cold."
+                "en": "Enjoy a scenic winter drive to this beautiful estate, where a cozy indoor wine tasting offers a perfect retreat from the cold.",
+                "fr": "Profitez d'une belle route d'hiver jusqu'à ce magnifique domaine, où une dégustation de vin conviviale en intérieur offre un parfait refuge contre le froid."
               }
             },
             {
@@ -874,13 +971,15 @@
                 "de": "Kapelle der Heiligen Anna",
                 "hu": "Szent Anna Kápolna",
                 "ro": "Capela Sfânta Ana",
-                "en": "Saint Anne Chapel"
+                "en": "Saint Anne Chapel",
+                "fr": "Chapelle Sainte-Anne"
               },
               "tip_5lang": {
                 "de": "Erleben Sie die strenge Schönheit der Kapelle im Frost und beenden Sie Ihren Besuch, bevor es gegen 17 Uhr dunkel wird.",
                 "hu": "Legyen tanúja e kápolna zord szépségének a fagyban, törekedve arra, hogy 17 óra körül, a sötétedés beállta előtt végezzen.",
                 "ro": "Fiți martor la frumusețea aspră a acestei capele înconjurate de ger, urmărind să terminați vizita chiar înainte de lăsarea întunericului.",
-                "en": "Witness the severe beauty of this chapel surrounded by frost, aiming to finish your visit just before the dark settles around 5 PM."
+                "en": "Witness the severe beauty of this chapel surrounded by frost, aiming to finish your visit just before the dark settles around 5 PM.",
+                "fr": "Admirez la beauté sévère de cette chapelle entourée de givre, en visant à terminer votre visite juste avant que l'obscurité ne s'installe autour de 17h."
               }
             }
           ]

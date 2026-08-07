@@ -21,7 +21,8 @@
             "de": "Abtei von Saint-Pierre-sur-Dives",
             "hu": "Saint-Pierre-sur-Dives apátsága",
             "ro": "Abația Saint-Pierre-sur-Dives",
-            "en": "Abbey of Saint-Pierre-sur-Dives"
+            "en": "Abbey of Saint-Pierre-sur-Dives",
+            "fr": "Abbaye de Saint-Pierre-sur-Dives"
           },
           "coords": [
             -0.032778,
@@ -36,7 +37,8 @@
             "de": "Bewundern Sie die beeindruckende normannische Architektur dieser historischen Abtei und achten Sie besonders auf die kunstvollen mittelalterlichen Bodenfliesen, die Sie bei einer Führung entdecken können.",
             "hu": "Csodálja meg e történelmi apátság lenyűgöző normann építészetét, és figyelje meg a díszes középkori padlólapokat, amelyeket érdemes egy vezetett túra során felfedezni.",
             "ro": "Admirați arhitectura normandă impresionantă a acestei abații istorice și acordați o atenție deosebită plăcilor medievale ornate, cel mai bine explorate în timpul unui tur ghidat.",
-            "en": "Admire the impressive Norman architecture of this historic abbey and pay special attention to the ornate medieval floor tiles, which are best explored during a guided tour."
+            "en": "Admire the impressive Norman architecture of this historic abbey and pay special attention to the ornate medieval floor tiles, which are best explored during a guided tour.",
+            "fr": "Admirez l'impressionnante architecture normande de cette abbaye historique et prêtez une attention particulière aux ornements des pavés médiévaux, mieux découverts lors d'une visite guidée."
           }
         },
         {
@@ -44,7 +46,8 @@
             "de": "Wintergarten",
             "hu": "Télikert",
             "ro": "Grădina cu seră",
-            "en": "Conservatory Garden"
+            "en": "Conservatory Garden",
+            "fr": "Jardin du Conservatoire"
           },
           "coords": [
             -0.033354,
@@ -59,7 +62,8 @@
             "de": "Entspannen Sie sich in den ruhigen Grünanlagen dieses gepflegten Gartens und bringen Sie ein Buch mit, um die friedliche Atmosphäre auf einer der schattigen Bänke zu genießen.",
             "hu": "Pihenjen meg a gondozott kert nyugodt zöldterületein, és hozzon magával egy könyvet, hogy az árnyékos padok egyikén élvezhesse a békés és csendes atmoszférát.",
             "ro": "Relaxați-vă în spațiile verzi liniștite ale acestei grădini îngrijite și aduceți o carte pentru a vă bucura de atmosfera pașnică pe una dintre băncile umbrite.",
-            "en": "Relax in the tranquil green spaces of this manicured garden and bring a good book to fully enjoy the peaceful atmosphere on one of the comfortable shaded benches."
+            "en": "Relax in the tranquil green spaces of this manicured garden and bring a good book to fully enjoy the peaceful atmosphere on one of the comfortable shaded benches.",
+            "fr": "Détendez-vous dans les espaces verts apaisants de ce jardin soigné et apportez un bon livre pour profiter pleinement de l'atmosphère paisible sur l'un des bancs ombragés confortables."
           }
         },
         {
@@ -67,7 +71,8 @@
             "de": "Städtisches Schwimmbad",
             "hu": "Városi Uszoda",
             "ro": "Piscina Municipală",
-            "en": "Piscine Municipale"
+            "en": "Piscine Municipale",
+            "fr": "Piscine Municipale"
           },
           "coords": [
             -0.029688,
@@ -82,7 +87,8 @@
             "de": "Gönnen Sie sich eine erfrischende Pause in den sauberen Becken dieses städtischen Schwimmbads und vergessen Sie nicht, Ihre eigene Badekappe mitzubringen, da diese hier Pflicht ist.",
             "hu": "Tartson egy frissítő szünetet a városi uszoda tiszta medencéiben, és ne felejtsen el saját úszósapkát hozni, mivel annak viselése kötelező a vízbe lépéshez.",
             "ro": "Faceți o pauză răcoritoare în piscinele curate ale acestui ștrand municipal și nu uitați să vă aduceți propria cască de înot, deoarece purtarea acesteia este obligatorie.",
-            "en": "Take a refreshing break in the clean pools of this municipal swimming facility and remember to bring your own swimming cap, as wearing one is mandatory for entry."
+            "en": "Take a refreshing break in the clean pools of this municipal swimming facility and remember to bring your own swimming cap, as wearing one is mandatory for entry.",
+            "fr": "Faites une pause rafraîchissante dans les bassins propres de cet établissement municipal et pensez à apporter votre propre bonnet de bain, car il est obligatoire pour l'accès."
           }
         },
         {
@@ -90,7 +96,8 @@
             "de": "Château de Carel",
             "hu": "Château de Carel",
             "ro": "Château de Carel",
-            "en": "Château de Carel"
+            "en": "Château de Carel",
+            "fr": "Château de Carel"
           },
           "coords": [
             -0.045487,
@@ -105,7 +112,8 @@
             "de": "Betrachten Sie dieses elegante Schloss auf seiner Insel, um die klassische französische Architektur zu bewundern, wobei Sie die besten Fotos vom umliegenden Graben aus machen.",
             "hu": "Tekintse meg ezt az elegáns, szigeten épült kastélyt a klasszikus francia építészetért, és készítse el a legjobb fotókat a környező várárok mentén sétálva.",
             "ro": "Priviți acest castel elegant situat pe o insulă pentru a admira arhitectura clasică franceză și surprindeți cele mai bune fotografii plimbându-vă de-a lungul șanțului pitoresc.",
-            "en": "View this elegant island-bound castle to admire classic French architecture, and capture the best photographs by walking along the edge of the picturesque surrounding moat."
+            "en": "View this elegant island-bound castle to admire classic French architecture, and capture the best photographs by walking along the edge of the picturesque surrounding moat.",
+            "fr": "Contemplez ce château élégant lié à l'île pour admirer l'architecture française classique, et capturez les meilleures photos en longeant le bord du pittoresque fossé qui l'entoure."
           }
         },
         {
@@ -113,7 +121,8 @@
             "de": "Rathaus Hiéville",
             "hu": "Hiéville Városháza",
             "ro": "Primăria Hiéville",
-            "en": "Town Hall Hiéville"
+            "en": "Town Hall Hiéville",
+            "fr": "Mairie de Hiéville"
           },
           "coords": [
             -0.010597,
@@ -128,7 +137,8 @@
             "de": "Entdecken Sie die charmante Fassade dieses kleinen Gemeindehauses in der Normandie und verbinden Sie Ihren Besuch mit einer kurzen Rast auf Ihrem Weg durch die Landschaft.",
             "hu": "Fedezze fel ennek a kis normandiai közösségi háznak a bájos homlokzatát, és kösse össze látogatását egy rövid pihenővel a vidéken átívelő utazása során.",
             "ro": "Descoperiți fațada fermecătoare a acestei mici clădiri comunitare normande și combinați vizita dumneavoastră cu o scurtă pauză în timpul călătoriei prin mediul rural.",
-            "en": "Discover the charming facade of this small Norman community building and combine your visit with a short rest during your journey through the picturesque local countryside."
+            "en": "Discover the charming facade of this small Norman community building and combine your visit with a short rest during your journey through the picturesque local countryside.",
+            "fr": "Découvrez la façade charmante de ce petit bâtiment communautaire normand et combinez votre visite avec un court repos lors de votre traversée de la campagne pittoresque."
           }
         }
       ],
@@ -136,7 +146,8 @@
         "de": "Beginnen Sie den Tag in der majestätischen Abtei, bevor Sie in den umliegenden Gärten entspannen.\n\nAm Mittag können Sie sich im städtischen Schwimmbad erfrischen und neue Energie tanken.\n\nDer Nachmittag führt Sie zum malerischen Château de Carel, wo Sie Geschichte pur erleben.\n\nBeenden Sie den Tag an der Mairie de Hiéville und genießen Sie die ländliche Abendstimmung.",
         "hu": "Kezdje a napot a fenséges apátságban, majd pihenjen a környező kertekben.\n\nDélben frissüljön fel a városi uszodában, és gyűjtsön új energiát a délutánra.\n\nA délután a festői Château de Carel-hez vezeti, ahol igazi történelmi élmény várja.\n\nZárja a napot a Hiéville-i városházánál, és élvezze a vidéki esti hangulatot.",
         "ro": "Începeți ziua la majestuoasa abație înainte de a vă relaxa în grădinile din jur.\n\nLa prânz, răcoriți-vă la piscina municipală și reîncărcați-vă cu energie.\n\nDupă-amiaza vă duce la pitorescul Château de Carel, unde veți experimenta istoria pură.\n\nÎncheiați ziua la Mairie de Hiéville și bucurați-vă de atmosfera rurală de seară.",
-        "en": "Start your day at the majestic abbey before taking time to relax in the surrounding gardens.\n\nAt midday, cool off and recharge your energy with a refreshing break at the municipal pool.\n\nThe afternoon leads you to the picturesque Château de Carel, where you will experience pure history.\n\nConclude the day at the Mairie de Hiéville and enjoy the peaceful rural evening atmosphere."
+        "en": "Start your day at the majestic abbey before taking time to relax in the surrounding gardens.\n\nAt midday, cool off and recharge your energy with a refreshing break at the municipal pool.\n\nThe afternoon leads you to the picturesque Château de Carel, where you will experience pure history.\n\nConclude the day at the Mairie de Hiéville and enjoy the peaceful rural evening atmosphere.",
+        "fr": "Commencez la journée à la majestueuse abbaye avant de prendre le temps de vous détendre dans les jardins environnants.\n\nÀ midi, rafraîchissez-vous et rechargez vos batteries avec une pause revigorante à la piscine municipale.\n\nL'après-midi vous mène au pittoresque Château de Carel, où vous ferez l'expérience de l'histoire pure.\n\nConcluez la journée à la Mairie de Hiéville et profitez de l'atmosphère rurale paisible du soir."
       },
       "variants": {
         "rainy": {
@@ -144,7 +155,8 @@
             "de": "Beginnen Sie Ihren regnerischen Spaziergang in der Abtei, deren großer Innenraum perfekten Schutz bietet. Mittags bewundern Sie den nassen Wintergarten unter dem Schirm, bevor Sie sich im städtischen Hallenbad aufwärmen. Nachmittags betrachten Sie das Château de Carel; wasserfeste Schuhe sind ratsam. Beenden Sie den Tag am Rathaus von Hiéville sicher unter Ihrem großen Regenschirm.",
             "hu": "Esős sétánkat a lenyűgöző apátságban kezdjük, ahol a hatalmas belső tér remek menedék. Délben a télikert nedves zöldjét csodáljuk esernyő alól, majd a fedett városi uszodában melegszünk fel. Délután a Château de Carel kastélyt nézzük meg, ide vízálló cipő ajánlott a sár miatt. A túrát a hangulatos hiéville-i városházánál zárjuk, élvezve a nyugodt, esős hangulatot.",
             "ro": "Începeți plimbarea ploioasă la marea abație, al cărei interior oferă un adăpost excelent. La prânz, admirați grădina de iarnă sub stropi, apoi încălziți-vă la piscina municipală acoperită. După-amiază, vedeți Château de Carel; purtați neapărat încălțăminte impermeabilă din cauza noroiului. Încheiați la primăria din Hiéville sub protecția umbrelei dumneavoastră.",
-            "en": "Start your rainy walk at the impressive abbey, where the grand interior offers excellent shelter. Midday, brave the light drizzle to see the conservatory garden before heading to the indoor municipal pool to warm up. In the afternoon, view the Château de Carel from the path, wearing good waterproofs as the grounds might be muddy. End your walk at the quaint Hiéville town hall under an umbrella."
+            "en": "Start your rainy walk at the impressive abbey, where the grand interior offers excellent shelter. Midday, brave the light drizzle to see the conservatory garden before heading to the indoor municipal pool to warm up. In the afternoon, view the Château de Carel from the path, wearing good waterproofs as the grounds might be muddy. End your walk at the quaint Hiéville town hall under an umbrella.",
+            "fr": "Commencez votre balade pluvieuse à l'abbaye impressionnante, dont le grand intérieur offre un excellent abri. À midi, bravez la bruine pour voir le jardin du conservatoire avant de vous diriger vers la piscine municipale couverte pour vous réchauffer. L'après-midi, observez le Château de Carel depuis le sentier, en portant de bonnes imperméables car les terrains peuvent être boueux. Terminez votre promenade sous un parapluie à la charmante mairie de Hiéville."
           },
           "stops": [
             {
@@ -152,13 +164,15 @@
                 "de": "Abtei von Saint-Pierre-sur-Dives",
                 "hu": "Saint-Pierre-sur-Dives apátsága",
                 "ro": "Abația Saint-Pierre-sur-Dives",
-                "en": "Abbey of Saint-Pierre-sur-Dives"
+                "en": "Abbey of Saint-Pierre-sur-Dives",
+                "fr": "Abbaye de Saint-Pierre-sur-Dives"
               },
               "tip_5lang": {
                 "de": "Erkunden Sie das riesige Kirchenschiff der Abtei in Ihrem eigenen Tempo und bewundern Sie die Architektur, während Sie vor dem Morgenregen völlig trocken bleiben.",
                 "hu": "Fedezze fel az apátság hatalmas, visszhangzó hajóját a saját tempójában, csodálja meg a történelmi építészetet, miközben teljesen szárazon marad az eső elől menekülve.",
                 "ro": "Explorați naosul vast al abației în propriul ritm, admirând arhitectura istorică uimitoare, rămânând în același timp complet uscat și protejat de ploaia dimineții.",
-                "en": "Explore the vast, echoing nave of the abbey at your own pace, taking your time to admire the stunning historic architecture while staying completely dry from the morning rain."
+                "en": "Explore the vast, echoing nave of the abbey at your own pace, taking your time to admire the stunning historic architecture while staying completely dry from the morning rain.",
+                "fr": "Explorez la vaste et résonnante nef de l'abbaye à votre rythme, en prenant le temps d'admirer la magnifique architecture historique tout en restant complètement à l'abri de la pluie matinale."
               }
             },
             {
@@ -166,13 +180,15 @@
                 "de": "Wintergarten",
                 "hu": "Télikert",
                 "ro": "Grădina cu seră",
-                "en": "Conservatory Garden"
+                "en": "Conservatory Garden",
+                "fr": "Jardin du Conservatoire"
               },
               "tip_5lang": {
                 "de": "Das nasse Laub lässt die Farben des Wintergartens aufleuchten, aber bleiben Sie unbedingt auf den gepflasterten Wegen, um nicht auf dem Gras auszurutschen.",
                 "hu": "A nedves lombozat gyönyörűen kiemeli a télikert színeit, de mindenképpen maradjon a burkolt utakon, nehogy megcsússzon a saras fűben a séta során.",
                 "ro": "Frunzișul umed face ca nuanțele grădinii să iasă în evidență, dar rămâneți pe cărările pavate pentru a evita alunecarea periculoasă pe iarba noroioasă.",
-                "en": "The wet foliage makes the conservatory garden colors beautifully pop, but remember to stick to the paved pathways to avoid slipping on the muddy grass."
+                "en": "The wet foliage makes the conservatory garden colors beautifully pop, but remember to stick to the paved pathways to avoid slipping on the muddy grass.",
+                "fr": "Le feuillage humide fait ressortir magnifiquement les couleurs du jardin du conservatoire, mais souvenez-vous de rester sur les allées pavées pour éviter de glisser sur l'herbe boueuse."
               }
             },
             {
@@ -180,13 +196,15 @@
                 "de": "Städtisches Schwimmbad",
                 "hu": "Városi Uszoda",
                 "ro": "Piscina Municipală",
-                "en": "Piscine Municipale"
+                "en": "Piscine Municipale",
+                "fr": "Piscine Municipale"
               },
               "tip_5lang": {
                 "de": "Entfliehen Sie dem mittäglichen Regenguss vollständig, indem Sie ein entspannendes Bad im beheizten städtischen Hallenbad genießen, dem perfekten Zufluchtsort.",
                 "hu": "Meneküljön el teljesen a déli felhőszakadás elől, és élvezze a pihentető úszást a fűtött fedett városi uszodában, ami tökéletes menedék a borús időben.",
                 "ro": "Scăpați complet de ploaia de la amiază bucurându-vă de o baie relaxantă în piscina municipală interioară încălzită, un refugiu perfect pe vreme rea.",
-                "en": "Escape the midday downpour entirely by enjoying a relaxing swim in the indoor heated municipal pool, which serves as a perfectly warm and active rainy weather refuge."
+                "en": "Escape the midday downpour entirely by enjoying a relaxing swim in the indoor heated municipal pool, which serves as a perfectly warm and active rainy weather refuge.",
+                "fr": "Échappez complètement à l'averse de midi en profitant d'une baignade relaxante dans la piscine municipale intérieure chauffée, refuge parfait et actif par temps pluvieux."
               }
             },
             {
@@ -194,13 +212,15 @@
                 "de": "Château de Carel",
                 "hu": "Château de Carel",
                 "ro": "Château de Carel",
-                "en": "Château de Carel"
+                "en": "Château de Carel",
+                "fr": "Château de Carel"
               },
               "tip_5lang": {
                 "de": "Die eleganten Linien des Château de Carel wirken unter dem grauen Himmel dramatisch; stellen Sie nur sicher, dass Sie einen stabilen Regenschirm und gute Stiefel haben.",
                 "hu": "A Château de Carel elegáns vonalai drámaian mutatnak a szürke égbolt alatt, csak győződjön meg róla, hogy erős esernyővel és vízálló csizmával érkezett.",
                 "ro": "Liniile elegante ale Château de Carel arată dramatic sub cerul gri, asigurați-vă doar că aveți o umbrelă robustă și cizme impermeabile adecvate.",
-                "en": "The elegant lines of Château de Carel look incredibly dramatic under the moody grey skies, just make sure you have a sturdy umbrella and solid waterproof boots."
+                "en": "The elegant lines of Château de Carel look incredibly dramatic under the moody grey skies, just make sure you have a sturdy umbrella and solid waterproof boots.",
+                "fr": "Les lignes élégantes du Château de Carel paraissent incroyablement dramatiques sous le ciel gris et menaçant ; assurez-vous simplement d'avoir un parapluie solide et des bottes imperméables robustes."
               }
             },
             {
@@ -208,13 +228,15 @@
                 "de": "Rathaus Hiéville",
                 "hu": "Hiéville Városháza",
                 "ro": "Primăria Hiéville",
-                "en": "Town Hall Hiéville"
+                "en": "Town Hall Hiéville",
+                "fr": "Mairie de Hiéville"
               },
               "tip_5lang": {
                 "de": "Bewundern Sie die charmante Architektur des historischen Rathauses aus der Sicherheit eines nahegelegenen Vordachs oder unter einem großen, windfesten Regenschirm.",
                 "hu": "Csodálja meg a történelmi városháza bájos építészetét egy közeli, fedett tornác biztonságából, vagy egy nagyméretű, szélálló esernyő védelme alatt.",
                 "ro": "Admirați arhitectura fermecătoare a primăriei istorice din siguranța unui pridvor acoperit din apropiere sau de sub o umbrelă mare și rezistentă la vânt.",
-                "en": "Admire the charming traditional architecture of the town hall from the safety of a covered porch nearby or while standing safely beneath a large, sturdy umbrella."
+                "en": "Admire the charming traditional architecture of the town hall from the safety of a covered porch nearby or while standing safely beneath a large, sturdy umbrella.",
+                "fr": "Admirez l'architecture traditionnelle et charmante de la mairie depuis la sécurité d'un porche couvert à proximité ou en restant bien à l'abri sous un grand parapluie solide."
               }
             }
           ]
@@ -224,7 +246,8 @@
             "de": "Klare Wintermorgen sind perfekt, um die ruhige Abtei und den frostigen Wintergarten zu erkunden. Mittags wärmt Sie ein flotter Spaziergang auf, bevor Sie das städtische Hallenbad genießen. Das Nachmittagslicht wirft lange Schatten auf das Château de Carel – ein Traum für Fotografen. Packen Sie sich warm ein, wenn Sie Ihren kühlen Spaziergang am Rathaus beenden, da die Sonne früh untergeht.",
             "hu": "A csípős téli reggel tökéletes a csendes apátság és a dérlepte télikert felfedezésére. Délben a tempós séta felmelegít, mielőtt a fedett uszodában pihennénk. A délutáni fény hosszú árnyékokat vet a Château de Carel falaira, ami fotósoknak igazi álom. Öltözzön melegen, mert a séta végén, a hiéville-i városházánál már korán, 17:00 körül elkezd sötétedni.",
             "ro": "Diminețile geroase sunt perfecte pentru a explora abația liniștită și grădina de iarnă acoperită de brumă. La prânz, o plimbare rapidă vă încălzește înainte de piscina acoperită. Lumina după-amiezii aruncă umbre lungi peste Château de Carel. Îmbrăcați-vă călduros la finalul plimbării la primăria din Hiéville, deoarece soarele apune devreme, în jur de ora 17:00.",
-            "en": "Crisp winter mornings are perfect for exploring the quiet abbey and the frost-covered conservatory garden. By midday, a brisk walk keeps you warm before enjoying the indoor municipal pool. The afternoon light casts long shadows over Château de Carel, making it a photographer's dream. Wrap up warmly as you finish your chilly walk at the Hiéville town hall before the early sunset around 5 PM."
+            "en": "Crisp winter mornings are perfect for exploring the quiet abbey and the frost-covered conservatory garden. By midday, a brisk walk keeps you warm before enjoying the indoor municipal pool. The afternoon light casts long shadows over Château de Carel, making it a photographer's dream. Wrap up warmly as you finish your chilly walk at the Hiéville town hall before the early sunset around 5 PM.",
+            "fr": "Les matins hivernaux frais sont parfaits pour explorer l'abbaye tranquille et le jardin du conservatoire couvert de gel. À midi, une marche vive vous réchauffe avant de profiter de la piscine municipale intérieure. La lumière de l'après-midi projette de longues ombres sur le Château de Carel, en faisant le rêve d'un photographe. Habillez-vous chaudement pour terminer votre balade fraîche à la mairie de Hiéville avant le coucher du soleil précoce vers 17:00."
           },
           "stops": [
             {
@@ -232,13 +255,15 @@
                 "de": "Abtei von Saint-Pierre-sur-Dives",
                 "hu": "Saint-Pierre-sur-Dives apátsága",
                 "ro": "Abația Saint-Pierre-sur-Dives",
-                "en": "Abbey of Saint-Pierre-sur-Dives"
+                "en": "Abbey of Saint-Pierre-sur-Dives",
+                "fr": "Abbaye de Saint-Pierre-sur-Dives"
               },
               "tip_5lang": {
                 "de": "Die Steinböden der majestätischen Abtei können im Winter sehr kalt sein; tragen Sie dicke Socken und warme Schichten, während Sie das historische Kirchenschiff erkunden.",
                 "hu": "A fenséges apátság kőpadlója a téli hónapokban rendkívül hideg lehet, ezért viseljen vastag gyapjúzoknit és meleg rétegeket a hatalmas hajó felfedezése közben.",
                 "ro": "Podelele din piatră ale abației pot fi înghețate iarna, așa că purtați șosete groase și haine călduroase în timp ce explorați marele naos istoric.",
-                "en": "The stone floors of the majestic abbey can be quite freezing in the winter months, so make sure to wear thick woolen socks and warm layers while exploring the grand nave."
+                "en": "The stone floors of the majestic abbey can be quite freezing in the winter months, so make sure to wear thick woolen socks and warm layers while exploring the grand nave.",
+                "fr": "Les sols en pierre de la majestueuse abbaye peuvent être très froids en hiver ; pensez à porter des chaussettes de laine épaisses et des couches chaudes en explorant la grande nef."
               }
             },
             {
@@ -246,13 +271,15 @@
                 "de": "Wintergarten",
                 "hu": "Télikert",
                 "ro": "Grădina cu seră",
-                "en": "Conservatory Garden"
+                "en": "Conservatory Garden",
+                "fr": "Jardin du Conservatoire"
               },
               "tip_5lang": {
                 "de": "Die frostgeküßten Pflanzen bieten eine magische Winteratmosphäre, aber seien Sie vorsichtig, da die gepflasterten Wege am frühen Morgen durch Eis recht rutschig sein können.",
                 "hu": "A dérlepte növények varázslatos téli hangulatot árasztanak, de legyen nagyon óvatos, mert a kövezett utak a kora reggeli jégtől meglehetősen csúszósak lehetnek.",
                 "ro": "Plantele atinse de brumă oferă o atmosferă magică, dar aveți grijă, deoarece aleile pavate pot fi destul de alunecoase din cauza gheții de dimineață.",
-                "en": "The frost-kissed plants offer a magical winter atmosphere, but be very careful as the paved pathways can be quite slippery with early morning ice patches."
+                "en": "The frost-kissed plants offer a magical winter atmosphere, but be very careful as the paved pathways can be quite slippery with early morning ice patches.",
+                "fr": "Les plantes couvertes de givre offrent une atmosphère hivernale magique, mais soyez très prudent car les allées pavées peuvent être glissantes à cause de plaques de glace matinales."
               }
             },
             {
@@ -260,13 +287,15 @@
                 "de": "Städtisches Schwimmbad",
                 "hu": "Városi Uszoda",
                 "ro": "Piscina Municipală",
-                "en": "Piscine Municipale"
+                "en": "Piscine Municipale",
+                "fr": "Piscine Municipale"
               },
               "tip_5lang": {
                 "de": "Eine fantastische Möglichkeit, der winterlichen Kälte zu trotzen, ist es, eine entspannte Stunde im herrlich beheizten Wasser des städtischen Hallenbads zu verbringen.",
                 "hu": "Fantasztikus módja a téli hideg elűzésének, ha eltölt egy pihentető órát a városi fedett uszoda kellemesen fűtött vizében úszkálva és melegedve.",
                 "ro": "O modalitate fantastică de a învinge frigul iernii este să petreceți o oră relaxantă înotând în apa încălzită a piscinei municipale interioare.",
-                "en": "A truly fantastic way to beat the harsh winter chill is to spend a relaxing hour swimming in the beautifully heated water of the indoor municipal pool."
+                "en": "A truly fantastic way to beat the harsh winter chill is to spend a relaxing hour swimming in the beautifully heated water of the indoor municipal pool.",
+                "fr": "Une excellente façon de combattre le froid hivernal est de passer une heure relaxante à nager dans l'eau parfaitement chauffée de la piscine municipale intérieure."
               }
             },
             {
@@ -274,13 +303,15 @@
                 "de": "Château de Carel",
                 "hu": "Château de Carel",
                 "ro": "Château de Carel",
-                "en": "Château de Carel"
+                "en": "Château de Carel",
+                "fr": "Château de Carel"
               },
               "tip_5lang": {
                 "de": "Kommen Sie an, solange die Sonne noch scheint, um das schöne Winterlicht auf den Burgmauern zu sehen, und tragen Sie wegen der offenen Winde einen dicken Mantel.",
                 "hu": "Érkezzen, amíg még süt a nap, hogy láthassa a kastély falait megvilágító gyönyörű téli fényt, és viseljen vastag kabátot a nyílt területen fújó szél miatt.",
                 "ro": "Ajungeți cât soarele este încă sus pentru a vedea lumina frumoasă a iernii pe zidurile castelului și purtați o haină groasă pentru vântul tăios.",
-                "en": "Arrive while the sun is still up to see the beautiful low winter light hitting the castle walls, and wear a heavy winter coat to block the brisk winds."
+                "en": "Arrive while the sun is still up to see the beautiful low winter light hitting the castle walls, and wear a heavy winter coat to block the brisk winds.",
+                "fr": "Arrivez pendant que le soleil est encore levé pour voir la belle lumière hivernale basse frapper les murs du château, et portez un manteau d'hiver épais pour bloquer les vents vifs."
               }
             },
             {
@@ -288,13 +319,15 @@
                 "de": "Rathaus Hiéville",
                 "hu": "Hiéville Városháza",
                 "ro": "Primăria Hiéville",
-                "en": "Town Hall Hiéville"
+                "en": "Town Hall Hiéville",
+                "fr": "Mairie de Hiéville"
               },
               "tip_5lang": {
                 "de": "Machen Sie ein schnelles Foto des historischen Rathauses, bevor der frühe Sonnenuntergang um 17 Uhr die malerischen Straßen in eine kalte Winterdämmerung taucht.",
                 "hu": "Készítsen egy gyors fotót a történelmi városházáról, mielőtt a délután 5 órai korai naplemente hideg téli szürkületbe borítja a festői utcákat.",
                 "ro": "Faceți o fotografie rapidă a primăriei istorice înainte ca apusul de la ora 17:00 să cufunde străzile pitorești într-un amurg de iarnă foarte rece.",
-                "en": "Take a quick, beautiful photo of the historic town hall before the 5 PM sunset plunges the quaint village streets into a very chilly winter twilight."
+                "en": "Take a quick, beautiful photo of the historic town hall before the 5 PM sunset plunges the quaint village streets into a very chilly winter twilight.",
+                "fr": "Prenez une belle photo rapide de la mairie historique avant que le coucher du soleil à 17:00 plonge les rues du village dans un crépuscule hivernal très froid."
               }
             }
           ]
@@ -314,7 +347,8 @@
             "de": "Abtei von Saint-Pierre-sur-Dives",
             "hu": "Saint-Pierre-sur-Dives apátsága",
             "ro": "Abația Saint-Pierre-sur-Dives",
-            "en": "Abbey of Saint-Pierre-sur-Dives"
+            "en": "Abbey of Saint-Pierre-sur-Dives",
+            "fr": "Abbaye de Saint-Pierre-sur-Dives"
           },
           "coords": [
             -0.032778,
@@ -329,7 +363,8 @@
             "de": "Bewundern Sie die beeindruckende normannische Architektur dieser historischen Abtei und achten Sie besonders auf die kunstvollen mittelalterlichen Bodenfliesen, die Sie bei einer Führung entdecken können.",
             "hu": "Csodálja meg e történelmi apátság lenyűgöző normann építészetét, és figyelje meg a díszes középkori padlólapokat, amelyeket érdemes egy vezetett túra során felfedezni.",
             "ro": "Admirați arhitectura normandă impresionantă a acestei abații istorice și acordați o atenție deosebită plăcilor medievale ornate, cel mai bine explorate în timpul unui tur ghidat.",
-            "en": "Admire the impressive Norman architecture of this historic abbey and pay special attention to the ornate medieval floor tiles, which are best explored during a guided tour."
+            "en": "Admire the impressive Norman architecture of this historic abbey and pay special attention to the ornate medieval floor tiles, which are best explored during a guided tour.",
+            "fr": "Admirez l'impressionnante architecture normande de cette abbaye historique et prêtez une attention particulière aux ornements des pavés médiévaux, qui se découvrent le mieux lors d'une visite guidée."
           }
         },
         {
@@ -337,7 +372,8 @@
             "de": "Wintergarten",
             "hu": "Télikert",
             "ro": "Grădina cu seră",
-            "en": "Conservatory Garden"
+            "en": "Conservatory Garden",
+            "fr": "Jardin du Conservatoire"
           },
           "coords": [
             -0.033354,
@@ -352,7 +388,8 @@
             "de": "Entspannen Sie sich in den ruhigen Grünanlagen dieses gepflegten Gartens und bringen Sie ein Buch mit, um die friedliche Atmosphäre auf einer der schattigen Bänke zu genießen.",
             "hu": "Pihenjen meg a gondozott kert nyugodt zöldterületein, és hozzon magával egy könyvet, hogy az árnyékos padok egyikén élvezhesse a békés és csendes atmoszférát.",
             "ro": "Relaxați-vă în spațiile verzi liniștite ale acestei grădini îngrijite și aduceți o carte pentru a vă bucura de atmosfera pașnică pe una dintre băncile umbrite.",
-            "en": "Relax in the tranquil green spaces of this manicured garden and bring a good book to fully enjoy the peaceful atmosphere on one of the comfortable shaded benches."
+            "en": "Relax in the tranquil green spaces of this manicured garden and bring a good book to fully enjoy the peaceful atmosphere on one of the comfortable shaded benches.",
+            "fr": "Détendez-vous dans les espaces verts apaisants de ce jardin soigné et apportez un bon livre pour profiter pleinement de l'atmosphère paisible sur l'un des bancs ombragés confortables."
           }
         },
         {
@@ -360,7 +397,8 @@
             "de": "Château de Carel",
             "hu": "Château de Carel",
             "ro": "Château de Carel",
-            "en": "Château de Carel"
+            "en": "Château de Carel",
+            "fr": "Château de Carel"
           },
           "coords": [
             -0.045487,
@@ -375,7 +413,8 @@
             "de": "Betrachten Sie dieses elegante Schloss auf seiner Insel, um die klassische französische Architektur zu bewundern, wobei Sie die besten Fotos vom umliegenden Graben aus machen.",
             "hu": "Tekintse meg ezt az elegáns, szigeten épült kastélyt a klasszikus francia építészetért, és készítse el a legjobb fotókat a környező várárok mentén sétálva.",
             "ro": "Priviți acest castel elegant situat pe o insulă pentru a admira arhitectura clasică franceză și surprindeți cele mai bune fotografii plimbându-vă de-a lungul șanțului pitoresc.",
-            "en": "View this elegant island-bound castle to admire classic French architecture, and capture the best photographs by walking along the edge of the picturesque surrounding moat."
+            "en": "View this elegant island-bound castle to admire classic French architecture, and capture the best photographs by walking along the edge of the picturesque surrounding moat.",
+            "fr": "Contemplez ce château élégant lié à l'île pour admirer l'architecture française classique, et capturez les meilleures photographies en longeant le bord du pittoresque fossé qui l'entoure."
           }
         },
         {
@@ -383,7 +422,8 @@
             "de": "Château de Grisy",
             "hu": "Château de Grisy",
             "ro": "Château de Grisy",
-            "en": "Château de Grisy"
+            "en": "Château de Grisy",
+            "fr": "Château de Grisy"
           },
           "coords": [
             -0.05316,
@@ -398,7 +438,8 @@
             "de": "Erkunden Sie die reiche Geschichte dieses beeindruckenden Schlosses in der Landschaft und überprüfen Sie vorab die Öffnungszeiten, da der Zugang zu den Innenräumen oft eingeschränkt ist.",
             "hu": "Fedezze fel e lenyűgöző vidéki kastély gazdag történelmét, de előzetesen ellenőrizze a nyitvatartást, mivel a belső terek látogatása gyakran korlátozott a nagyközönség számára.",
             "ro": "Explorați istoria bogată a acestui castel rural impresionant și verificați programul în prealabil, deoarece accesul la spațiile interioare este adesea restricționat pentru public.",
-            "en": "Explore the rich history of this impressive rural castle, but make sure to check the opening hours beforehand as access to the interiors is often restricted to the public."
+            "en": "Explore the rich history of this impressive rural castle, but make sure to check the opening hours beforehand as access to the interiors is often restricted to the public.",
+            "fr": "Explorez la riche histoire de cet imposant château rural, mais vérifiez les horaires d'ouverture au préalable car l'accès aux intérieurs est souvent restreint au public."
           }
         },
         {
@@ -406,7 +447,8 @@
             "de": "Manoir la Commanderie",
             "hu": "Manoir la Commanderie",
             "ro": "Manoir la Commanderie",
-            "en": "Manoir la Commanderie"
+            "en": "Manoir la Commanderie",
+            "fr": "Manoir la Commanderie"
           },
           "coords": [
             -0.025993,
@@ -421,7 +463,8 @@
             "de": "Tauchen Sie in das ritterliche Erbe dieses faszinierenden Herrenhauses ein und nehmen Sie sich Zeit für einen gemütlichen Spaziergang durch die historische Umgebung des Anwesens.",
             "hu": "Merüljön el e lenyűgöző udvarház lovagi örökségében, és szánjon időt egy kényelmes sétára a birtok történelmi környezetében, hogy átérezze a hely varázsát.",
             "ro": "Scufundați-vă în moștenirea cavalerească a acestui conac fascinant și faceți-vă timp pentru o plimbare pe îndelete prin împrejurimile istorice frumoase ale proprietății.",
-            "en": "Immerse yourself in the chivalric heritage of this fascinating manor, and take the time for a leisurely walk through the beautiful and historic surroundings of the estate."
+            "en": "Immerse yourself in the chivalric heritage of this fascinating manor, and take the time for a leisurely walk through the beautiful and historic surroundings of the estate.",
+            "fr": "Imprégnez-vous de l'héritage chevaleresque de ce fascinant manoir et prenez le temps d'une promenade tranquille dans les beaux et historiques abords du domaine."
           }
         },
         {
@@ -429,7 +472,8 @@
             "de": "Rathaus Bretteville-sur-Dives",
             "hu": "Bretteville-sur-Dives Városháza",
             "ro": "Primăria Bretteville-sur-Dives",
-            "en": "Town Hall Bretteville-sur-Dives"
+            "en": "Town Hall Bretteville-sur-Dives",
+            "fr": "Mairie de Bretteville-sur-Dives"
           },
           "coords": [
             -0.02001,
@@ -444,7 +488,8 @@
             "de": "Betrachten Sie dieses malerische Rathausgebäude als Symbol der lokalen Verwaltung und nutzen Sie die Gelegenheit, um die ruhige dörfliche Atmosphäre der Umgebung zu genießen.",
             "hu": "Tekintse meg ezt a festői városházát a helyi közigazgatás jelképeként, és használja ki az alkalmat a környező falu csendes és békés atmoszférájának élvezetére.",
             "ro": "Priviți această clădire pitorească a primăriei ca un simbol al administrației locale și profitați de ocazie pentru a vă bucura de atmosfera liniștită a satului înconjurător.",
-            "en": "View this picturesque town hall building as a symbol of local administration and take the opportunity to enjoy the quiet and peaceful village atmosphere of the surroundings."
+            "en": "View this picturesque town hall building as a symbol of local administration and take the opportunity to enjoy the quiet and peaceful village atmosphere of the surroundings.",
+            "fr": "Admirez cet édifice de mairie pittoresque comme symbole de l'administration locale et profitez-en pour savourer le calme et l'atmosphère paisible du village alentour."
           }
         }
       ],
@@ -452,7 +497,8 @@
         "de": "Ein sportlicher Start an der Abtei führt Sie schnell in die grünen Gärten der Stadt.\n\nRadeln Sie zum Château de Carel und weiter zum Château de Grisy für historische Entdeckungen.\n\nAm Nachmittag durchqueren Sie die Landschaft zum beeindruckenden Manoir la Commanderie.\n\nDie Tour endet entspannt an der Mairie in Bretteville-sur-Dives in der Abenddämmerung.",
         "hu": "Egy sportos kezdés az apátságnál gyorsan a város zöld kertjeibe vezet.\n\nKerékpározzon a Château de Carel és a Château de Grisy felé történelmi felfedezésekért.\n\nDélután szelje át a vidéket a lenyűgöző Manoir la Commanderie irányába.\n\nA túra nyugodtan ér véget a Bretteville-sur-Dives-i városházánál az alkonyatban.",
         "ro": "Un început sportiv la abație vă duce rapid către grădinile verzi ale orașului.\n\nBicicliți spre Château de Carel și Château de Grisy pentru descoperiri istorice fascinante.\n\nDupă-amiaza traversați peisajul rural către impresionantul Manoir la Commanderie.\n\nTurul se încheie relaxant la primăria din Bretteville-sur-Dives în amurgul liniștit.",
-        "en": "A sporty start at the abbey quickly leads you to the city's lush and green conservatory gardens.\n\nCycle towards Château de Carel and onwards to Château de Grisy for fascinating historical discoveries.\n\nIn the afternoon, ride through the scenic countryside to reach the impressive Manoir la Commanderie.\n\nThe tour concludes peacefully at the town hall in Bretteville-sur-Dives as dusk begins to fall."
+        "en": "A sporty start at the abbey quickly leads you to the city's lush and green conservatory gardens.\n\nCycle towards Château de Carel and onwards to Château de Grisy for fascinating historical discoveries.\n\nIn the afternoon, ride through the scenic countryside to reach the impressive Manoir la Commanderie.\n\nThe tour concludes peacefully at the town hall in Bretteville-sur-Dives as dusk begins to fall.",
+        "fr": "Un départ sportif à l'abbaye vous mène rapidement aux jardins du conservatoire luxuriants de la ville.\n\nPédalez vers le Château de Carel puis poursuivez jusqu'au Château de Grisy pour des découvertes historiques fascinantes.\n\nL'après‑midi, roulez à travers la campagne pittoresque pour atteindre l'imposant Manoir la Commanderie.\n\nLa visite se conclut paisiblement à la mairie de Bretteville-sur-Dives alors que le crépuscule commence à tomber."
       },
       "variants": {
         "rainy": {
@@ -460,7 +506,8 @@
             "de": "Radfahren im Regen erfordert gute Ausrüstung, beginnt aber schön in der trockenen Abtei. Fahren Sie vorsichtig zum nassen Wintergarten und Château de Carel und achten Sie auf rutschiges Laub. Mittags führt die Fahrt zum Château de Grisy; nutzen Sie Schutzbleche und bremsen Sie früh. Nachmittags tauchen das Manoir la Commanderie und das Rathaus aus dem Nebel auf. Schalten Sie Ihr Licht ein.",
             "hu": "Az esőben való kerékpározás jó felszerelést igényel, de a száraz apátságban csodásan indul. Óvatosan tekerjen a nedves télikerthez és a Château de Carel-hez, ügyelve a csúszós falevelekre. Délben a Château de Grisy felé vesszük az irányt; használjon sárvédőt és fékezzen korán. Délután a Manoir la Commanderie és a városháza bukkan elő a ködből. A biztonság érdekében kapcsolja be a lámpákat.",
             "ro": "Ciclismul pe ploaie necesită echipament bun, dar începe frumos la abația uscată. Mergeți cu grijă la grădina de iarnă și Château de Carel, atenție la frunzele alunecoase. La amiază, mergeți spre Château de Grisy; folosiți apărători de noroi și frânați devreme. După-amiaza, Manoir la Commanderie și primăria Bretteville apar din ceață. Mențineți luminile aprinse pentru vizibilitate.",
-            "en": "Cycling in the rain requires good gear, but starts beautifully at the dry abbey. Ride carefully to the wet conservatory garden and Château de Carel, watching out for slippery leaves. Midday cycling takes you to Château de Grisy; use mudguards and brake early. In the afternoon, the Manoir la Commanderie and Bretteville town hall emerge wonderfully from the mist. Keep your bike lights on."
+            "en": "Cycling in the rain requires good gear, but starts beautifully at the dry abbey. Ride carefully to the wet conservatory garden and Château de Carel, watching out for slippery leaves. Midday cycling takes you to Château de Grisy; use mudguards and brake early. In the afternoon, the Manoir la Commanderie and Bretteville town hall emerge wonderfully from the mist. Keep your bike lights on.",
+            "fr": "Le vélo sous la pluie demande un bon équipement, mais commence magnifiquement à l'abbaye sèche. Roulez prudemment jusqu'au jardin du conservatoire et au Château de Carel, en faisant attention aux feuilles glissantes. À midi, direction le Château de Grisy ; utilisez des garde‑boue et freinez tôt. L'après‑midi, le Manoir la Commanderie et la mairie de Bretteville émergent agréablement de la brume. Gardez vos éclairages allumés."
           },
           "stops": [
             {
@@ -468,13 +515,15 @@
                 "de": "Abtei von Saint-Pierre-sur-Dives",
                 "hu": "Saint-Pierre-sur-Dives apátsága",
                 "ro": "Abația Saint-Pierre-sur-Dives",
-                "en": "Abbey of Saint-Pierre-sur-Dives"
+                "en": "Abbey of Saint-Pierre-sur-Dives",
+                "fr": "Abbaye de Saint-Pierre-sur-Dives"
               },
               "tip_5lang": {
                 "de": "Lassen Sie Ihr Fahrrad sicher draußen stehen und schlendern Sie durch das weite Kirchenschiff, um die Architektur zu bewundern, während Sie dem Morgenregen entfliehen.",
                 "hu": "Hagyja biztonságban a kerékpárját odakint, és sétáljon végig a tágas hajón, hogy megcsodálja az építészetet, miközben teljesen száraz marad a reggeli esőben.",
                 "ro": "Lăsați-vă bicicleta afară în siguranță și plimbați-vă prin naosul spațios pentru a admira arhitectura, scăpând complet de ploaia rece de dimineață.",
-                "en": "Leave your bike safely locked outside and stroll through the spacious nave to admire the historic architecture while completely escaping the morning rain showers."
+                "en": "Leave your bike safely locked outside and stroll through the spacious nave to admire the historic architecture while completely escaping the morning rain showers.",
+                "fr": "Laissez votre vélo bien verrouillé à l'extérieur et promenez-vous dans la vaste nef pour admirer l'architecture historique tout en échappant complètement aux pluies matinales."
               }
             },
             {
@@ -482,13 +531,15 @@
                 "de": "Wintergarten",
                 "hu": "Télikert",
                 "ro": "Grădina cu seră",
-                "en": "Conservatory Garden"
+                "en": "Conservatory Garden",
+                "fr": "Jardin du Conservatoire"
               },
               "tip_5lang": {
                 "de": "Schieben Sie Ihr Fahrrad auf den gepflasterten Wegen, um das nasse Laub zu genießen, und vermeiden Sie es, auf dem sehr schlammigen Gras der Gärten auszurutschen.",
                 "hu": "Tolja a kerékpárját a burkolt utakon, hogy élvezze a nedves lombozat látványát, és elkerülje a rendkívül saras és csúszós füves területeket a kertben.",
                 "ro": "Împingeți bicicleta pe cărările pavate pentru a vă bucura de frunzișul umed și evitați zonele cu iarbă foarte noroioasă din grădină pentru a nu aluneca.",
-                "en": "Walk your bike along the nicely paved pathways to enjoy the vibrant wet foliage, and strictly avoid slipping on the very muddy grass areas of the gardens."
+                "en": "Walk your bike along the nicely paved pathways to enjoy the vibrant wet foliage, and strictly avoid slipping on the very muddy grass areas of the gardens.",
+                "fr": "Marchez à côté de votre vélo le long des allées bien pavées pour profiter du feuillage humide et vif, et évitez absolument de glisser sur les pelouses très boueuses du jardin."
               }
             },
             {
@@ -496,13 +547,15 @@
                 "de": "Château de Carel",
                 "hu": "Château de Carel",
                 "ro": "Château de Carel",
-                "en": "Château de Carel"
+                "en": "Château de Carel",
+                "fr": "Château de Carel"
               },
               "tip_5lang": {
                 "de": "Seien Sie beim Bremsen auf den nassen Zufahrtsstraßen vorsichtig und tragen Sie einen hochwertigen Regenponcho, während Sie das vom Regen umhüllte Schloss fotografieren.",
                 "hu": "Legyen óvatos a nedves bekötőutakon való fékezéskor, és viseljen minőségi esőponcsót, miközben lefotózza az esőbe burkolózó fenséges kastélyt.",
                 "ro": "Fiți atenți când frânați pe drumurile de acces umede și purtați un poncho de ploaie de calitate în timp ce fotografiați castelul învăluit în ceață.",
-                "en": "Be cautious when braking on the wet approach roads and wear a high-quality cycling rain poncho while stopping to photograph the beautiful, rain-draped castle."
+                "en": "Be cautious when braking on the wet approach roads and wear a high-quality cycling rain poncho while stopping to photograph the beautiful, rain-draped castle.",
+                "fr": "Soyez prudent en freinant sur les routes d'approche mouillées et portez un poncho de pluie cycliste de bonne qualité lorsque vous vous arrêtez pour photographier le beau château drapé de pluie."
               }
             },
             {
@@ -510,13 +563,15 @@
                 "de": "Château de Grisy",
                 "hu": "Château de Grisy",
                 "ro": "Château de Grisy",
-                "en": "Château de Grisy"
+                "en": "Château de Grisy",
+                "fr": "Château de Grisy"
               },
               "tip_5lang": {
                 "de": "Stellen Sie sicher, dass Ihr Fahrrad über gute Schutzbleche für diese ländliche Etappe verfügt, da die Straßen rund um das Château de Grisy bei Regen sehr schlammig werden.",
                 "hu": "Gondoskodjon róla, hogy kerékpárja jó sárvédőkkel rendelkezzen erre a vidéki szakaszra, mivel a Château de Grisy körüli utak esőben nagyon sárosak lehetnek.",
                 "ro": "Asigurați-vă că bicicleta are apărători bune pentru noroi pe acest tronson rural, deoarece drumurile din jurul Château de Grisy devin foarte murdare pe ploaie.",
-                "en": "Ensure your bike has good mudguards for this rural stretch, as the agricultural roads around Château de Grisy can become extremely muddy during heavy rainfall."
+                "en": "Ensure your bike has good mudguards for this rural stretch, as the agricultural roads around Château de Grisy can become extremely muddy during heavy rainfall.",
+                "fr": "Assurez-vous que votre vélo dispose de bons garde‑boue pour ce tronçon rural, car les chemins agricoles autour du Château de Grisy peuvent devenir extrêmement boueux en cas de fortes pluies."
               }
             },
             {
@@ -524,13 +579,15 @@
                 "de": "Manoir la Commanderie",
                 "hu": "Manoir la Commanderie",
                 "ro": "Manoir la Commanderie",
-                "en": "Manoir la Commanderie"
+                "en": "Manoir la Commanderie",
+                "fr": "Manoir la Commanderie"
               },
               "tip_5lang": {
                 "de": "Das alte Herrenhaus wirkt durch den Nebel sehr mystisch; halten Sie Ihre Fahrradlichter blinkend, um auf den grauen, regnerischen Landstraßen gut sichtbar zu bleiben.",
                 "hu": "Az ősi kúria nagyon misztikusnak tűnik a ködben; tartsa bekapcsolva a villogó kerékpárlámpákat, hogy jól látható maradjon a szürke, esős vidéki utakon.",
                 "ro": "Vechiul conac pare foarte mistic prin ceață; mențineți luminile bicicletei intermitente pentru a rămâne extrem de vizibil pe drumurile de țară gri și ploioase.",
-                "en": "The ancient manor looks deeply mystical through the mist; keep your bicycle lights flashing to remain highly visible on the grey, rainy country lanes."
+                "en": "The ancient manor looks deeply mystical through the mist; keep your bicycle lights flashing to remain highly visible on the grey, rainy country lanes.",
+                "fr": "Le vieux manoir semble profondément mystique dans la brume ; gardez vos feux de vélo clignotants pour rester très visible sur les petites routes de campagne grises et pluvieuses."
               }
             },
             {
@@ -538,13 +595,15 @@
                 "de": "Rathaus Bretteville-sur-Dives",
                 "hu": "Bretteville-sur-Dives Városháza",
                 "ro": "Primăria Bretteville-sur-Dives",
-                "en": "Town Hall Bretteville-sur-Dives"
+                "en": "Town Hall Bretteville-sur-Dives",
+                "fr": "Mairie de Bretteville-sur-Dives"
               },
               "tip_5lang": {
                 "de": "Machen Sie eine kurze Pause unter dem Vordach des Rathauses, um sich abzutrocknen und Ihre nasse Ausrüstung zu ordnen, bevor Sie den regnerischen Radtag beenden.",
                 "hu": "Tartson egy rövid pihenőt a városháza eresze alatt, hogy megtörölközzön és rendbe szedje nedves felszerelését, mielőtt befejezné az esős kerékpáros napot.",
                 "ro": "Luați o scurtă pauză sub streașina primăriei pentru a vă șterge și a vă aranja echipamentul umed înainte de a încheia această zi ploioasă de ciclism.",
-                "en": "Take a quick resting pause beneath the town hall's protective eaves to dry off and adjust your wet rain gear before fully concluding your rainy cycling day."
+                "en": "Take a quick resting pause beneath the town hall's protective eaves to dry off and adjust your wet rain gear before fully concluding your rainy cycling day.",
+                "fr": "Faites une courte pause sous les auvents protecteurs de la mairie pour vous sécher et ajuster vos vêtements de pluie avant de conclure pleinement votre journée cycliste pluvieuse."
               }
             }
           ]
@@ -554,7 +613,8 @@
             "de": "Packen Sie sich für eine eisige Winterfahrt ein, beginnend an der majestätischen Abtei und dem frostigen Wintergarten. Der kalte Wind beißt, wenn Sie in Richtung Château de Carel und Grisy radeln, tragen Sie also winddichte Schichten. Mittags scheint die blasse Wintersonne über dem Manoir la Commanderie. Beenden Sie die Tour vor 17:00 Uhr und prüfen Sie Ihr Licht für die frühe Dämmerung.",
             "hu": "Öltözzön be melegen a fagyos téli túrához, amely a fenséges apátságtól és a deres télikerttől indul. A hideg szél arcba vág a Château de Carel és Grisy felé tekerve, ezért viseljen szélálló rétegeket. Délben sápadt téli napfény világítja meg a Manoir la Commanderie-t. Fejezze be a túrát 17:00 előtt, és ellenőrizze a lámpákat a korai szürkület miatt.",
             "ro": "Îmbrăcați-vă bine pentru o plimbare de iarnă geroasă, începând de la marea abație și grădina înghețată. Vântul rece este tăios spre Château de Carel și Grisy, așa că purtați haine rezistente la vânt. La amiază, soarele palid de iarnă luminează Manoir la Commanderie. Terminați la primărie înainte de ora 17:00, asigurându-vă că farurile funcționează perfect.",
-            "en": "Bundle up for a crisp winter ride, starting at the majestic abbey and frosty conservatory garden. The cold wind bites as you pedal towards Château de Carel and Grisy, so wear heavy windproof layers. Midday brings pale winter sun over Manoir la Commanderie. Finish at Bretteville town hall before 17:00, ensuring your bike lights are bright for the early twilight."
+            "en": "Bundle up for a crisp winter ride, starting at the majestic abbey and frosty conservatory garden. The cold wind bites as you pedal towards Château de Carel and Grisy, so wear heavy windproof layers. Midday brings pale winter sun over Manoir la Commanderie. Finish at Bretteville town hall before 17:00, ensuring your bike lights are bright for the early twilight.",
+            "fr": "Couvrez-vous pour une randonnée glaciale en hiver, en partant de la majestueuse abbaye et du jardin-conservatoire givré. Le vent froid mordille pendant que vous pédalez vers le Château de Carel et Grisy, alors portez des couches coupe-vent épaisses. En milieu de journée, le pâle soleil d’hiver illumine le Manoir la Commanderie. Terminez à la mairie de Bretteville avant 17:00 en vous assurant que vos éclairages de vélo sont puissants pour le crépuscule précoce."
           },
           "stops": [
             {
@@ -562,13 +622,15 @@
                 "de": "Abtei von Saint-Pierre-sur-Dives",
                 "hu": "Saint-Pierre-sur-Dives apátsága",
                 "ro": "Abația Saint-Pierre-sur-Dives",
-                "en": "Abbey of Saint-Pierre-sur-Dives"
+                "en": "Abbey of Saint-Pierre-sur-Dives",
+                "fr": "Abbaye de Saint-Pierre-sur-Dives"
               },
               "tip_5lang": {
                 "de": "Nutzen Sie den windstillen Innenraum der Abtei, um sich vor dem Radfahren aufzuwärmen; die dicken Steinmauern halten den frostigen Wintermorgenwind wunderbar ab.",
                 "hu": "Használja ki az apátság szélcsendes belső terét a kerékpározás előtti bemelegítésre; a vastag kőfalak csodálatosan távol tartják a fagyos téli reggeli szeleket.",
                 "ro": "Folosiți interiorul ferit de vânt al abației pentru a vă încălzi înainte de a pedala; pereții groși de piatră blochează minunat vântul geros al dimineților de iarnă.",
-                "en": "Use the windless interior of the abbey to warm up before cycling; the thick historical stone walls beautifully block out the freezing winter morning breezes."
+                "en": "Use the windless interior of the abbey to warm up before cycling; the thick historical stone walls beautifully block out the freezing winter morning breezes.",
+                "fr": "Utilisez l’intérieur abrité de l’abbaye pour vous réchauffer avant de reprendre le vélo ; les épaisses murailles de pierre historiques bloquent admirablement les courants froids du matin d’hiver."
               }
             },
             {
@@ -576,13 +638,15 @@
                 "de": "Wintergarten",
                 "hu": "Télikert",
                 "ro": "Grădina cu seră",
-                "en": "Conservatory Garden"
+                "en": "Conservatory Garden",
+                "fr": "Jardin-conservatoire"
               },
               "tip_5lang": {
                 "de": "Die mit Raureif bedeckten Pflanzen sehen umwerfend aus, aber seien Sie beim Fahren auf den Wegen äußerst vorsichtig, da unsichtbares Glatteis zu Stürzen führen kann.",
                 "hu": "A zúzmarával borított növények lenyűgözően néznek ki, de legyen rendkívül óvatos az utakon való kerékpározáskor, mivel a láthatatlan tükörjég esésekhez vezethet.",
                 "ro": "Plantele acoperite de brumă arată uimitor, dar fiți extrem de precauți când pedalați pe alei, deoarece gheața neagră invizibilă poate duce cu ușurință la căzături.",
-                "en": "The hoarfrost-covered plants look absolutely stunning, but be extremely cautious when riding on the pathways as invisible black ice can easily lead to a bad fall."
+                "en": "The hoarfrost-covered plants look absolutely stunning, but be extremely cautious when riding on the pathways as invisible black ice can easily lead to a bad fall.",
+                "fr": "Les plantes couvertes de givre sont absolument splendides, mais soyez extrêmement prudent en circulant sur les allées car la glace noire invisible peut facilement provoquer une mauvaise chute."
               }
             },
             {
@@ -590,13 +654,15 @@
                 "de": "Château de Carel",
                 "hu": "Château de Carel",
                 "ro": "Château de Carel",
-                "en": "Château de Carel"
+                "en": "Château de Carel",
+                "fr": "Château de Carel"
               },
               "tip_5lang": {
                 "de": "Auf der ungeschützten Straße zum Schloss pfeift oft ein eisiger Winterwind; stellen Sie sicher, dass Sie dicke Thermo-Handschuhe und ein Stirnband unter dem Helm tragen.",
                 "hu": "A kastélyhoz vezető védtelen úton gyakran süvít a jeges téli szél; ügyeljen arra, hogy vastag termo kesztyűt és a sisak alatt meleg fejpántot viseljen a védelemért.",
                 "ro": "Pe drumul expus către castel suflă adesea un vânt de iarnă înghețat; asigurați-vă că purtați mănuși groase termice și o bentiță călduroasă pe sub casca de ciclism.",
-                "en": "The exposed road leading to the castle often features a biting winter headwind; make sure you wear thick thermal gloves and a warm headband under your cycling helmet."
+                "en": "The exposed road leading to the castle often features a biting winter headwind; make sure you wear thick thermal gloves and a warm headband under your cycling helmet.",
+                "fr": "La route exposée menant au château est souvent sujette à un vent d’hiver mordant ; veillez à porter des gants thermiques épais et un bandeau chaud sous votre casque de vélo."
               }
             },
             {
@@ -604,13 +670,15 @@
                 "de": "Château de Grisy",
                 "hu": "Château de Grisy",
                 "ro": "Château de Grisy",
-                "en": "Château de Grisy"
+                "en": "Château de Grisy",
+                "fr": "Château de Grisy"
               },
               "tip_5lang": {
                 "de": "Die offenen Ebenen um das Château de Grisy bieten wenig Schutz vor Kälte; eine gut sichtbare, winddichte Radjacke ist hier absolut unerlässlich für Ihre Sicherheit.",
                 "hu": "A Château de Grisy körüli nyílt síkságok kevés védelmet nyújtanak a hideg ellen; egy jól látható, szélálló kerékpáros dzseki itt elengedhetetlen a biztonságához.",
                 "ro": "Câmpiile deschise din jurul Château de Grisy oferă puțin adăpost împotriva frigului; o jachetă de ciclism rezistentă la vânt și foarte vizibilă este esențială aici.",
-                "en": "The vast open plains around Château de Grisy offer very little shelter from the cold; a highly visible, windproof cycling jacket is absolutely essential right here."
+                "en": "The vast open plains around Château de Grisy offer very little shelter from the cold; a highly visible, windproof cycling jacket is absolutely essential right here.",
+                "fr": "Les vastes plaines ouvertes autour du Château de Grisy offrent très peu d’abri contre le froid ; une veste de cyclisme coupe-vent très visible est absolument indispensable ici."
               }
             },
             {
@@ -618,13 +686,15 @@
                 "de": "Manoir la Commanderie",
                 "hu": "Manoir la Commanderie",
                 "ro": "Manoir la Commanderie",
-                "en": "Manoir la Commanderie"
+                "en": "Manoir la Commanderie",
+                "fr": "Manoir la Commanderie"
               },
               "tip_5lang": {
                 "de": "Bewundern Sie das alte Mauerwerk, das von der tiefstehenden Nachmittagssonne beleuchtet wird, aber kühlen Sie bei der Fotopause nicht zu sehr aus; treten Sie schnell weiter.",
                 "hu": "Csodálja meg az alacsonyan járó délutáni nap által megvilágított régi falakat, de vigyázzon, nehogy túlságosan lehűljön a fotószünet alatt; tekerjen tovább tempósan.",
                 "ro": "Admirați zidăria veche luminată de soarele coborât de după-amiază, dar nu vă răciți prea mult în timpul pauzei foto; continuați să pedalați viguros după aceea.",
-                "en": "Admire the ancient stonework illuminated by the very low afternoon sun, but do not let yourself cool down too much during your photo pause; keep pedaling vigorously."
+                "en": "Admire the ancient stonework illuminated by the very low afternoon sun, but do not let yourself cool down too much during your photo pause; keep pedaling vigorously.",
+                "fr": "Admirez la pierre ancienne illuminée par le très bas soleil de l’après-midi, mais ne vous laissez pas refroidir trop longtemps pendant votre pause photo ; continuez à pédaler énergiquement."
               }
             },
             {
@@ -632,13 +702,15 @@
                 "de": "Rathaus Bretteville-sur-Dives",
                 "hu": "Bretteville-sur-Dives Városháza",
                 "ro": "Primăria Bretteville-sur-Dives",
-                "en": "Town Hall Bretteville-sur-Dives"
+                "en": "Town Hall Bretteville-sur-Dives",
+                "fr": "Mairie de Bretteville-sur-Dives"
               },
               "tip_5lang": {
                 "de": "Erreichen Sie diesen letzten Halt rechtzeitig vor 17 Uhr, da die Temperaturen bei Dämmerung drastisch fallen und Sie funktionierende Lichter für den Heimweg benötigen.",
                 "hu": "Érjen el ehhez az utolsó állomáshoz jóval 17 óra előtt, mivel szürkületkor a hőmérséklet drasztikusan lecsökken, és működő lámpákra lesz szüksége a hazavezető úton.",
                 "ro": "Ajungeți la această ultimă oprire cu mult înainte de ora 17:00, deoarece temperaturile scad drastic la amurg și aveți nevoie de lumini puternice pentru drumul de întoarcere.",
-                "en": "Arrive at this final stop well before 5 PM, as temperatures drop drastically at early twilight and you will definitely need strong, working lights for the ride back."
+                "en": "Arrive at this final stop well before 5 PM, as temperatures drop drastically at early twilight and you will definitely need strong, working lights for the ride back.",
+                "fr": "Arrivez à cet ultime arrêt bien avant 17:00, car les températures chutent drastiquement au crépuscule précoce et vous aurez impérativement besoin de fortes lampes fonctionnelles pour le retour."
               }
             }
           ]
@@ -658,7 +730,8 @@
             "de": "Abtei von Saint-Pierre-sur-Dives",
             "hu": "Saint-Pierre-sur-Dives apátsága",
             "ro": "Abația Saint-Pierre-sur-Dives",
-            "en": "Abbey of Saint-Pierre-sur-Dives"
+            "en": "Abbey of Saint-Pierre-sur-Dives",
+            "fr": "Abbaye de Saint-Pierre-sur-Dives"
           },
           "coords": [
             -0.032778,
@@ -673,7 +746,8 @@
             "de": "Bewundern Sie die beeindruckende normannische Architektur dieser historischen Abtei und achten Sie besonders auf die kunstvollen mittelalterlichen Bodenfliesen, die Sie bei einer Führung entdecken können.",
             "hu": "Csodálja meg e történelmi apátság lenyűgöző normann építészetét, és figyelje meg a díszes középkori padlólapokat, amelyeket érdemes egy vezetett túra során felfedezni.",
             "ro": "Admirați arhitectura normandă impresionantă a acestei abații istorice și acordați o atenție deosebită plăcilor medievale ornate, cel mai bine explorate în timpul unui tur ghidat.",
-            "en": "Admire the impressive Norman architecture of this historic abbey and pay special attention to the ornate medieval floor tiles, which are best explored during a guided tour."
+            "en": "Admire the impressive Norman architecture of this historic abbey and pay special attention to the ornate medieval floor tiles, which are best explored during a guided tour.",
+            "fr": "Admirez l’imposante architecture normande de cette abbaye historique et prêtez une attention particulière aux carreaux de sol médiévaux ornés, mieux explorés lors d’une visite guidée."
           }
         },
         {
@@ -681,7 +755,8 @@
             "de": "Château de Carel",
             "hu": "Château de Carel",
             "ro": "Château de Carel",
-            "en": "Château de Carel"
+            "en": "Château de Carel",
+            "fr": "Château de Carel"
           },
           "coords": [
             -0.045487,
@@ -696,7 +771,8 @@
             "de": "Betrachten Sie dieses elegante Schloss auf seiner Insel, um die klassische französische Architektur zu bewundern, wobei Sie die besten Fotos vom umliegenden Graben aus machen.",
             "hu": "Tekintse meg ezt az elegáns, szigeten épült kastélyt a klasszikus francia építészetért, és készítse el a legjobb fotókat a környező várárok mentén sétálva.",
             "ro": "Priviți acest castel elegant situat pe o insulă pentru a admira arhitectura clasică franceză și surprindeți cele mai bune fotografii plimbându-vă de-a lungul șanțului pitoresc.",
-            "en": "View this elegant island-bound castle to admire classic French architecture, and capture the best photographs by walking along the edge of the picturesque surrounding moat."
+            "en": "View this elegant island-bound castle to admire classic French architecture, and capture the best photographs by walking along the edge of the picturesque surrounding moat.",
+            "fr": "Contemplez cet élégant château insulaire pour apprécier l’architecture française classique, et réalisez les meilleures photos en marchant le long du bord du fossé pittoresque entourant le domaine."
           }
         },
         {
@@ -704,7 +780,8 @@
             "de": "Château de Grisy",
             "hu": "Château de Grisy",
             "ro": "Château de Grisy",
-            "en": "Château de Grisy"
+            "en": "Château de Grisy",
+            "fr": "Château de Grisy"
           },
           "coords": [
             -0.05316,
@@ -719,7 +796,8 @@
             "de": "Erkunden Sie die reiche Geschichte dieses beeindruckenden Schlosses in der Landschaft und überprüfen Sie vorab die Öffnungszeiten, da der Zugang zu den Innenräumen oft eingeschränkt ist.",
             "hu": "Fedezze fel e lenyűgöző vidéki kastély gazdag történelmét, de előzetesen ellenőrizze a nyitvatartást, mivel a belső terek látogatása gyakran korlátozott a nagyközönség számára.",
             "ro": "Explorați istoria bogată a acestui castel rural impresionant și verificați programul în prealabil, deoarece accesul la spațiile interioare este adesea restricționat pentru public.",
-            "en": "Explore the rich history of this impressive rural castle, but make sure to check the opening hours beforehand as access to the interiors is often restricted to the public."
+            "en": "Explore the rich history of this impressive rural castle, but make sure to check the opening hours beforehand as access to the interiors is often restricted to the public.",
+            "fr": "Explorez la riche histoire de ce remarquable château rural, mais veillez à vérifier les horaires d’ouverture au préalable car l’accès aux intérieurs est souvent restreint au public."
           }
         },
         {
@@ -727,7 +805,8 @@
             "de": "Rathaus Hiéville",
             "hu": "Hiéville Városháza",
             "ro": "Primăria Hiéville",
-            "en": "Town Hall Hiéville"
+            "en": "Town Hall Hiéville",
+            "fr": "Mairie de Hiéville"
           },
           "coords": [
             -0.010597,
@@ -742,7 +821,8 @@
             "de": "Entdecken Sie die charmante Fassade dieses kleinen Gemeindehauses in der Normandie und verbinden Sie Ihren Besuch mit einer kurzen Rast auf Ihrem Weg durch die Landschaft.",
             "hu": "Fedezze fel ennek a kis normandiai közösségi háznak a bájos homlokzatát, és kösse össze látogatását egy rövid pihenővel a vidéken átívelő utazása során.",
             "ro": "Descoperiți fațada fermecătoare a acestei mici clădiri comunitare normande și combinați vizita dumneavoastră cu o scurtă pauză în timpul călătoriei prin mediul rural.",
-            "en": "Discover the charming facade of this small Norman community building and combine your visit with a short rest during your journey through the picturesque local countryside."
+            "en": "Discover the charming facade of this small Norman community building and combine your visit with a short rest during your journey through the picturesque local countryside.",
+            "fr": "Découvrez la charmante façade de ce petit bâtiment communautaire normand et combinez votre visite avec une courte pause pendant votre parcours à travers la campagne locale pittoresque."
           }
         },
         {
@@ -750,7 +830,8 @@
             "de": "Rathaus Bretteville-sur-Dives",
             "hu": "Bretteville-sur-Dives Városháza",
             "ro": "Primăria Bretteville-sur-Dives",
-            "en": "Town Hall Bretteville-sur-Dives"
+            "en": "Town Hall Bretteville-sur-Dives",
+            "fr": "Mairie de Bretteville-sur-Dives"
           },
           "coords": [
             -0.02001,
@@ -765,7 +846,8 @@
             "de": "Betrachten Sie dieses malerische Rathausgebäude als Symbol der lokalen Verwaltung und nutzen Sie die Gelegenheit, um die ruhige dörfliche Atmosphäre der Umgebung zu genießen.",
             "hu": "Tekintse meg ezt a festői városházát a helyi közigazgatás jelképeként, és használja ki az alkalmat a környező falu csendes és békés atmoszférájának élvezetére.",
             "ro": "Priviți această clădire pitorească a primăriei ca un simbol al administrației locale și profitați de ocazie pentru a vă bucura de atmosfera liniștită a satului înconjurător.",
-            "en": "View this picturesque town hall building as a symbol of local administration and take the opportunity to enjoy the quiet and peaceful village atmosphere of the surroundings."
+            "en": "View this picturesque town hall building as a symbol of local administration and take the opportunity to enjoy the quiet and peaceful village atmosphere of the surroundings.",
+            "fr": "Contemplez cette mairie pittoresque comme symbole de l’administration locale et profitez-en pour savourer le calme et l’atmosphère paisible du village environnant."
           }
         },
         {
@@ -773,7 +855,8 @@
             "de": "Manoir la Commanderie",
             "hu": "Manoir la Commanderie",
             "ro": "Manoir la Commanderie",
-            "en": "Manoir la Commanderie"
+            "en": "Manoir la Commanderie",
+            "fr": "Manoir la Commanderie"
           },
           "coords": [
             -0.025993,
@@ -788,7 +871,8 @@
             "de": "Tauchen Sie in das ritterliche Erbe dieses faszinierenden Herrenhauses ein und nehmen Sie sich Zeit für einen gemütlichen Spaziergang durch die historische Umgebung des Anwesens.",
             "hu": "Merüljön el e lenyűgöző udvarház lovagi örökségében, és szánjon időt egy kényelmes sétára a birtok történelmi környezetében, hogy átérezze a hely varázsát.",
             "ro": "Scufundați-vă în moștenirea cavalerească a acestui conac fascinant și faceți-vă timp pentru o plimbare pe îndelete prin împrejurimile istorice frumoase ale proprietății.",
-            "en": "Immerse yourself in the chivalric heritage of this fascinating manor, and take the time for a leisurely walk through the beautiful and historic surroundings of the estate."
+            "en": "Immerse yourself in the chivalric heritage of this fascinating manor, and take the time for a leisurely walk through the beautiful and historic surroundings of the estate.",
+            "fr": "Plongez-vous dans l’héritage chevaleresque de ce manoir fascinant et prenez le temps d’une promenade tranquille à travers le magnifique et historique domaine."
           }
         }
       ],
@@ -796,7 +880,8 @@
         "de": "Ihre Autofahrt beginnt an der prächtigen Abtei, gefolgt von einer Fahrt zum Château de Carel.\n\nDie Route führt Sie weiter zum Château de Grisy und zu den kleinen Gemeinden der Umgebung.\n\nNach einem Halt in Hiéville erreichen Sie die idyllische Mairie von Bretteville-sur-Dives.\n\nDas Highlight des Abends ist das majestätische Manoir la Commanderie im goldenen Licht.",
         "hu": "Autós útja a pompás apátságnál kezdődik, majd a Château de Carel felé veszi az irányt.\n\nAz útvonal a Château de Grisy-hez és a környék kis közösségeihez vezet tovább.\n\nEgy Hiéville-i megálló után eléri Bretteville-sur-Dives idillikus városházáját.\n\nAz este fénypontja a fenséges Manoir la Commanderie a lenyugvó nap arany fényében.",
         "ro": "Călătoria cu mașina începe la abația splendidă, urmată de o vizită la Château de Carel.\n\nTraseul vă duce mai departe către Château de Grisy și micile comunități din jur.\n\nDupă o oprire în Hiéville, ajungeți la primăria idilică din Bretteville-sur-Dives.\n\nPunctul culminant al serii este maiestuosul Manoir la Commanderie în lumina aurie.",
-        "en": "Your drive starts at the magnificent abbey, followed by a quick journey to Château de Carel.\n\nThe route takes you further to Château de Grisy and the charming small communities nearby.\n\nAfter a stop in Hiéville, you arrive at the idyllic town hall of Bretteville-sur-Dives.\n\nThe highlight of the evening is the majestic Manoir la Commanderie glowing in the golden twilight."
+        "en": "Your drive starts at the magnificent abbey, followed by a quick journey to Château de Carel.\n\nThe route takes you further to Château de Grisy and the charming small communities nearby.\n\nAfter a stop in Hiéville, you arrive at the idyllic town hall of Bretteville-sur-Dives.\n\nThe highlight of the evening is the majestic Manoir la Commanderie glowing in the golden twilight.",
+        "fr": "Votre trajet en voiture commence à la magnifique abbaye, suivi d’un court parcours jusqu’au Château de Carel.\n\nL’itinéraire vous mène ensuite au Château de Grisy et aux charmantes petites communes à proximité.\n\nAprès une halte à Hiéville, vous arrivez à la bucolique mairie de Bretteville-sur-Dives.\n\nLe clou de la soirée est le majestueux Manoir la Commanderie, illuminé par le crépuscule doré."
       },
       "variants": {
         "rainy": {
@@ -804,7 +889,8 @@
             "de": "Ein Auto ist ideal für einen Regentag. Beginnen Sie an der Abtei und eilen Sie vom Parkplatz ins Trockene. Fahren Sie gemütlich zum Château de Carel und Grisy und bewundern Sie die nebligen Anwesen aus Ihrem warmen Auto. Mittags steigen Sie an den Rathäusern von Hiéville und Bretteville kurz mit Schirm aus. Verbringen Sie den verregneten Nachmittag am Manoir la Commanderie in wasserfester Kleidung.",
             "hu": "Az autó ideális választás esős napra. Kezdjen az apátságnál, gyorsan befutva a parkolóból a száraz épületbe. Vezessen kényelmesen a Château de Carel és Grisy felé, a ködös birtokokat a fűtött kocsiból csodálva. Délben a hiéville-i és bretteville-i városházáknál csak röviden szálljon ki esernyővel. Az esős délutánt a Manoir la Commanderie-nél töltse, vízálló ruházatban felfedezve azt.",
             "ro": "Mașina este ideală pentru o zi ploioasă. Începeți la abație, fugind din parcare în interiorul uscat. Conduceți confortabil către Château de Carel și Grisy, admirând moșiile cețoase din vehiculul cald. La prânz, coborâți scurt cu o umbrelă la primăriile Hiéville și Bretteville. Petreceți după-amiaza ploioasă explorând Manoir la Commanderie în echipament impermeabil bun.",
-            "en": "A car is perfectly ideal for a rainy day. Start at the abbey, running from the parking lot to the dry interior. Drive comfortably to Château de Carel and Grisy, admiring the beautiful misty estates from your warm vehicle. Midday, briefly step out with a sturdy umbrella at the Hiéville and Bretteville town halls. Spend the rainy afternoon fully exploring the Manoir la Commanderie in waterproof gear."
+            "en": "A car is perfectly ideal for a rainy day. Start at the abbey, running from the parking lot to the dry interior. Drive comfortably to Château de Carel and Grisy, admiring the beautiful misty estates from your warm vehicle. Midday, briefly step out with a sturdy umbrella at the Hiéville and Bretteville town halls. Spend the rainy afternoon fully exploring the Manoir la Commanderie in waterproof gear.",
+            "fr": "La voiture est parfaitement adaptée pour une journée pluvieuse. Commencez à l’abbaye, en courant du parking vers l’intérieur sec. Conduisez confortablement jusqu’aux Châteaux de Carel et Grisy, en admirant les beaux domaines embrumés depuis votre véhicule chauffé. À midi, descendez brièvement avec un parapluie solide aux mairies de Hiéville et Bretteville. Passez l’après-midi pluvieux à explorer entièrement le Manoir la Commanderie en tenue imperméable."
           },
           "stops": [
             {
@@ -812,13 +898,15 @@
                 "de": "Abtei von Saint-Pierre-sur-Dives",
                 "hu": "Saint-Pierre-sur-Dives apátsága",
                 "ro": "Abația Saint-Pierre-sur-Dives",
-                "en": "Abbey of Saint-Pierre-sur-Dives"
+                "en": "Abbey of Saint-Pierre-sur-Dives",
+                "fr": "Abbaye de Saint-Pierre-sur-Dives"
               },
               "tip_5lang": {
                 "de": "Parken Sie nah am Eingang, um schnell in den riesigen, trockenen Innenraum der Abtei zu gelangen, wo Sie dem Dauerregen beim Betrachten der Details entkommen können.",
                 "hu": "Parkoljon közel a bejárathoz, hogy gyorsan bejuthasson az apátság száraz belső terébe, ahol a lenyűgöző részleteket vizsgálva teljesen megmenekülhet a tartós esőtől.",
                 "ro": "Parcați aproape de intrare pentru a ajunge rapid în interiorul uscat al abației, unde puteți scăpa de ploaia constantă analizând detaliile istorice minunate.",
-                "en": "Park close to the main entrance to quickly dash into the massive, perfectly dry interior of the abbey, where you can escape the persistent rain while exploring details."
+                "en": "Park close to the main entrance to quickly dash into the massive, perfectly dry interior of the abbey, where you can escape the persistent rain while exploring details.",
+                "fr": "Garez-vous près de l’entrée principale pour vous précipiter rapidement dans l’intérieur massif et parfaitement sec de l’abbaye, où vous pouvez échapper à la pluie persistante tout en explorant les détails."
               }
             },
             {
@@ -826,13 +914,15 @@
                 "de": "Château de Carel",
                 "hu": "Château de Carel",
                 "ro": "Château de Carel",
-                "en": "Château de Carel"
+                "en": "Château de Carel",
+                "fr": "Château de Carel"
               },
               "tip_5lang": {
                 "de": "Parken Sie vorsichtig auf dem nassen Parkplatz, um die eleganten Linien durch den Regen zu bewundern; halten Sie einen großen Regenschirm für den Ausstieg bereit.",
                 "hu": "Óvatosan parkoljon le a nedves területen, hogy az esőn keresztül is megcsodálhassa a kastély elegáns vonalait; tartson kéznél egy nagy esernyőt a rövid kiszálláshoz.",
                 "ro": "Parcați cu grijă în zona umedă pentru a admira liniile elegante ale castelului prin ploaie; țineți la îndemână o umbrelă mare pentru o scurtă ieșire afară.",
-                "en": "Pull up very carefully in the wet parking area to admire the elegant lines of the estate through the rain; keep a large umbrella handy for a quick dash outside."
+                "en": "Pull up very carefully in the wet parking area to admire the elegant lines of the estate through the rain; keep a large umbrella handy for a quick dash outside.",
+                "fr": "Garez-vous très prudemment sur l’aire humide pour admirer les lignes élégantes du domaine à travers la pluie ; gardez un grand parapluie à portée de main pour une courte sortie."
               }
             },
             {
@@ -840,13 +930,15 @@
                 "de": "Château de Grisy",
                 "hu": "Château de Grisy",
                 "ro": "Château de Grisy",
-                "en": "Château de Grisy"
+                "en": "Château de Grisy",
+                "fr": "Château de Grisy"
               },
               "tip_5lang": {
                 "de": "Bleiben Sie bei starkem Regen bequem in Ihrem beheizten Auto sitzen und lassen Sie die mystische, nebelverhangene Atmosphäre dieses alten Anwesens auf sich wirken.",
                 "hu": "Szakadó esőben maradjon kényelmesen a fűtött autójában, és engedje, hogy ennek a régi, ködbe burkolózó birtoknak a misztikus hangulata teljesen magával ragadja.",
                 "ro": "Dacă plouă torențial, rămâneți confortabil în mașina încălzită și lăsați atmosfera mistică, învăluită în ceață, a acestei vechi moșii să vă impresioneze de la distanță.",
-                "en": "If it is raining heavily, stay comfortably in your heated car and let the wonderfully mystical, fog-draped atmosphere of this old estate impress you from a distance."
+                "en": "If it is raining heavily, stay comfortably in your heated car and let the wonderfully mystical, fog-draped atmosphere of this old estate impress you from a distance.",
+                "fr": "S’il pleut fortement, restez confortablement dans votre voiture chauffée et laissez l’atmosphère merveilleusement mystique, drapée de brouillard, de ce vieux domaine vous impressionner à distance."
               }
             },
             {
@@ -854,13 +946,15 @@
                 "de": "Rathaus Hiéville",
                 "hu": "Hiéville Városháza",
                 "ro": "Primăria Hiéville",
-                "en": "Town Hall Hiéville"
+                "en": "Town Hall Hiéville",
+                "fr": "Mairie de Hiéville"
               },
               "tip_5lang": {
                 "de": "Kurbeln Sie einfach das Beifahrerfenster einen Spalt herunter, um ein tolles Foto dieses charmanten Gebäudes zu machen, ohne vom strömenden Regen nass zu werden.",
                 "hu": "Egyszerűen csak tekerje le egy kicsit az utasoldali ablakot, hogy remek fotót készíthessen erről a bájos épületről anélkül, hogy bőrig ázna a szakadó esőben.",
                 "ro": "Pur și simplu deschideți puțin geamul pasagerului pentru a face o fotografie grozavă a acestei clădiri fermecătoare, fără a vă uda absolut deloc în ploaia torențială.",
-                "en": "Simply roll down the passenger window just a tiny crack to snap a great, clear photo of this charming local building without getting soaked by the pouring rain outside."
+                "en": "Simply roll down the passenger window just a tiny crack to snap a great, clear photo of this charming local building without getting soaked by the pouring rain outside.",
+                "fr": "Baissez simplement un tout petit peu la vitre passager pour prendre une belle photo nette de ce charmant bâtiment local sans vous faire tremper par la pluie battante."
               }
             },
             {
@@ -868,13 +962,15 @@
                 "de": "Rathaus Bretteville-sur-Dives",
                 "hu": "Bretteville-sur-Dives Városháza",
                 "ro": "Primăria Bretteville-sur-Dives",
-                "en": "Town Hall Bretteville-sur-Dives"
+                "en": "Town Hall Bretteville-sur-Dives",
+                "fr": "Mairie de Bretteville-sur-Dives"
               },
               "tip_5lang": {
                 "de": "Auch hier reicht ein kurzer Stopp aus dem warmen Auto völlig aus; achten Sie beim erneuten Anfahren auf die durch Regen und Schlamm sehr rutschigen Pflastersteine.",
                 "hu": "Itt is tökéletesen elegendő egy rövid megálló a meleg autóból; az indulásnál nagyon ügyeljen az eső és a sár miatt rendkívül csúszóssá vált régi macskakövekre.",
                 "ro": "O scurtă oprire din mașina caldă este suficientă și aici; când porniți din nou, aveți mare grijă la pietrele de pavaj care devin foarte alunecoase din cauza ploii.",
-                "en": "A quick, brief stop viewed right from the warm car is perfectly sufficient here; when driving off again, be very careful of the old paving stones made slick by rain."
+                "en": "A quick, brief stop viewed right from the warm car is perfectly sufficient here; when driving off again, be very careful of the old paving stones made slick by rain.",
+                "fr": "Un arrêt rapide, vu depuis la voiture chaude, est parfaitement suffisant ici ; en repartant, soyez très vigilant avec les anciennes dalles de pavage rendues glissantes par la pluie."
               }
             },
             {
@@ -882,13 +978,15 @@
                 "de": "Manoir la Commanderie",
                 "hu": "Manoir la Commanderie",
                 "ro": "Manoir la Commanderie",
-                "en": "Manoir la Commanderie"
+                "en": "Manoir la Commanderie",
+                "fr": "Manoir la Commanderie"
               },
               "tip_5lang": {
                 "de": "Ziehen Sie Ihre komplette, gute Regenausrüstung für diesen letzten, langen Halt an, da der regennasse Boden rund um das alte Herrenhaus sehr schlammig sein wird.",
                 "hu": "Vegye fel a teljes, jó minőségű esőfelszerelését erre az utolsó, hosszú megállóra, mivel a régi kúria körüli, esőtől áztatott talaj rendkívül saras és mély lesz.",
                 "ro": "Îmbrăcați echipamentul complet de ploaie pentru această ultimă oprire lungă, deoarece terenul îmbibat cu apă din jurul vechiului conac va fi incredibil de noroios.",
-                "en": "Put on your complete, heavy-duty rain gear for this final, extended stop, as the deeply rain-soaked ground all around the historic ancient manor will be quite muddy."
+                "en": "Put on your complete, heavy-duty rain gear for this final, extended stop, as the deeply rain-soaked ground all around the historic ancient manor will be quite muddy.",
+                "fr": "Enfilez votre tenue de pluie complète et robuste pour cet ultime arrêt prolongé, car le sol profondément trempé autour de l’ancien manoir historique sera très boueux."
               }
             }
           ]
@@ -898,7 +996,8 @@
             "de": "Genießen Sie den beheizten Komfort Ihres Autos, wenn Sie morgens die eiskalte Abtei besuchen. Die Wintersonne beleuchtet Château de Carel und Grisy perfekt für kurze Fotostopps. Mittags fahren Sie zu den Rathäusern von Hiéville und Bretteville, während der Motor warm bleibt. Beenden Sie den Tag am Manoir la Commanderie und fangen Sie das goldene Licht vor dem Sonnenuntergang um 17:00 Uhr ein.",
             "hu": "Élvezze autója fűtött kényelmét, miközben reggel meglátogatja a jéghideg, de gyönyörű apátságot. A téli napfény tökéletesen megvilágítja a Château de Carel-t és Grisy-t a fotószünetekhez. Délben vezessen a hiéville-i és bretteville-i városházákhoz, melegen tartva a motort. Zárja a napot a Manoir la Commanderie-nél, elcsípve az aranyórát a 17:00 órai naplemente előtt.",
             "ro": "Bucurați-vă de confortul mașinii încălzite în timp ce vizitați abația înghețată dimineața. Soarele de iarnă luminează Château de Carel și Grisy, perfect pentru scurte opriri foto. La prânz, conduceți la primăriile din Hiéville și Bretteville, păstrând motorul cald. Încheiați ziua la Manoir la Commanderie, prinzând lumina aurie înainte de apusul de la ora 17:00.",
-            "en": "Enjoy the wonderfully heated comfort of your car as you visit the freezing but beautiful abbey in the crisp morning. The winter sun illuminates Château de Carel and Grisy perfectly for quick photo stops. Midday, comfortably drive to the Hiéville and Bretteville town halls, keeping the engine warm. End the day at Manoir la Commanderie, catching the golden hour light before the 17:00 sunset."
+            "en": "Enjoy the wonderfully heated comfort of your car as you visit the freezing but beautiful abbey in the crisp morning. The winter sun illuminates Château de Carel and Grisy perfectly for quick photo stops. Midday, comfortably drive to the Hiéville and Bretteville town halls, keeping the engine warm. End the day at Manoir la Commanderie, catching the golden hour light before the 17:00 sunset.",
+            "fr": "Profitez du confort chauffé de votre voiture en visitant l’abbaye glaciale mais belle au matin frais. Le soleil d’hiver éclaire parfaitement les Châteaux de Carel et Grisy pour de rapides arrêts photo. À midi, conduisez confortablement vers les mairies de Hiéville et Bretteville en gardant le moteur chaud. Terminez la journée au Manoir la Commanderie pour capter la lumière de l’heure dorée avant le coucher du soleil à 17:00."
           },
           "stops": [
             {
@@ -906,13 +1005,15 @@
                 "de": "Abtei von Saint-Pierre-sur-Dives",
                 "hu": "Saint-Pierre-sur-Dives apátsága",
                 "ro": "Abația Saint-Pierre-sur-Dives",
-                "en": "Abbey of Saint-Pierre-sur-Dives"
+                "en": "Abbey of Saint-Pierre-sur-Dives",
+                "fr": "Abbaye de Saint-Pierre-sur-Dives"
               },
               "tip_5lang": {
                 "de": "Da das Innere der Abtei im Winter extrem kalt ist, sollten Sie die Autoheizung vor der Weiterfahrt voll aufdrehen, um sich danach wieder richtig aufwärmen zu können.",
                 "hu": "Mivel az apátság belseje télen rendkívül hideg, a továbbindulás előtt érdemes maximálisra tekerni a fűtést a kocsiban, hogy utána kellemesen át tudjon melegedni.",
                 "ro": "Deoarece interiorul abației este extrem de rece iarna, asigurați-vă că porniți căldura în mașină la maxim la întoarcere pentru a vă încălzi rapid și confortabil.",
-                "en": "Because the interior of the grand abbey is extremely cold in winter, make sure to crank up the car heater before driving on so you can properly warm up your core again."
+                "en": "Because the interior of the grand abbey is extremely cold in winter, make sure to crank up the car heater before driving on so you can properly warm up your core again.",
+                "fr": "Comme l’intérieur de la grande abbaye est extrêmement froid en hiver, assurez-vous de monter le chauffage de la voiture avant de repartir afin de réchauffer correctement votre corps."
               }
             },
             {
@@ -920,13 +1021,15 @@
                 "de": "Château de Carel",
                 "hu": "Château de Carel",
                 "ro": "Château de Carel",
-                "en": "Château de Carel"
+                "en": "Château de Carel",
+                "fr": "Château de Carel"
               },
               "tip_5lang": {
                 "de": "Die winterliche Morgensonne wirft wunderschöne, lange Schatten auf die Burgmauern; steigen Sie nur kurz für ein perfektes Foto aus der warmen Kabine des Autos aus.",
                 "hu": "A téli reggeli napfény gyönyörű, hosszú árnyékokat vet a kastély falaira; csak egy rövid, tökéletes fotó erejéig szálljon ki az autó kellemesen meleg utasteréből.",
                 "ro": "Soarele dimineții de iarnă aruncă umbre lungi și frumoase pe zidurile castelului; coborâți doar pentru o scurtă fotografie perfectă din cabina caldă a mașinii.",
-                "en": "The sharp winter morning sun casts beautifully long shadows onto the castle walls; step out of your warm car cabin just briefly to snap a truly perfect, crisp photograph."
+                "en": "The sharp winter morning sun casts beautifully long shadows onto the castle walls; step out of your warm car cabin just briefly to snap a truly perfect, crisp photograph.",
+                "fr": "Le soleil hivernal matinal rasant projette de longues ombres magnifiques sur les murs du château ; sortez brièvement de votre cabine chauffée pour prendre une photo parfaitement nette et cristalline."
               }
             },
             {
@@ -934,13 +1037,15 @@
                 "de": "Château de Grisy",
                 "hu": "Château de Grisy",
                 "ro": "Château de Grisy",
-                "en": "Château de Grisy"
+                "en": "Château de Grisy",
+                "fr": "Château de Grisy"
               },
               "tip_5lang": {
                 "de": "Achten Sie bei der Anfahrt auf den Landstraßen auf verstecktes Glatteis und bewundern Sie die schneebedeckten Dächer oder die frostige Landschaft bequem von drinnen.",
                 "hu": "A vidéki utakon való megközelítéskor nagyon ügyeljen a rejtett tükörjégre, és csodálja meg a fagyos tájat vagy a havas tetőket kényelmesen, az autóból kinézve.",
                 "ro": "Atenție la gheața neagră ascunsă de pe drumurile de țară la sosire și admirați peisajul înghețat sau acoperișurile cu zăpadă confortabil din interiorul mașinii.",
-                "en": "Watch carefully for hidden black ice on the rural approach roads, and admire the beautifully frosted landscape or snow-dusted roofs comfortably from inside the vehicle."
+                "en": "Watch carefully for hidden black ice on the rural approach roads, and admire the beautifully frosted landscape or snow-dusted roofs comfortably from inside the vehicle.",
+                "fr": "Surveillez attentivement la glace noire cachée sur les routes d’approche rurales, et admirez le paysage joliment givré ou les toits poudrés de neige confortablement depuis l’intérieur du véhicule."
               }
             },
             {
@@ -948,13 +1053,15 @@
                 "de": "Rathaus Hiéville",
                 "hu": "Hiéville Városháza",
                 "ro": "Primăria Hiéville",
-                "en": "Town Hall Hiéville"
+                "en": "Town Hall Hiéville",
+                "fr": "Mairie de Hiéville"
               },
               "tip_5lang": {
                 "de": "Ein sehr schneller Halt; lassen Sie den Motor ruhig laufen, um die Kälte draußen zu halten, während Sie das hübsche kleine Gebäude in der Winterluft betrachten.",
                 "hu": "Egy nagyon gyors megálló; nyugodtan hagyja járni a motort, hogy kint tartsa a csontig hatoló hideget, miközben szemügyre veszi a bájos kis épületet a téli levegőn.",
                 "ro": "O oprire foarte rapidă; lăsați motorul să meargă liniștit pentru a ține frigul afară, în timp ce priviți clădirea fermecătoare prin aerul extrem de rece al iernii.",
-                "en": "A very quick stop; leave the engine safely idling to keep the biting cold out while you briefly view the charming little municipal building in the crisp winter air."
+                "en": "A very quick stop; leave the engine safely idling to keep the biting cold out while you briefly view the charming little municipal building in the crisp winter air.",
+                "fr": "Un arrêt très rapide ; laissez le moteur tourner en marche pour garder la morsure du froid à l’écart pendant que vous jetez un coup d’œil bref au charmant petit bâtiment municipal dans l’air vif d’hiver."
               }
             },
             {
@@ -962,13 +1069,15 @@
                 "de": "Rathaus Bretteville-sur-Dives",
                 "hu": "Bretteville-sur-Dives Városháza",
                 "ro": "Primăria Bretteville-sur-Dives",
-                "en": "Town Hall Bretteville-sur-Dives"
+                "en": "Town Hall Bretteville-sur-Dives",
+                "fr": "Mairie de Bretteville-sur-Dives"
               },
               "tip_5lang": {
                 "de": "Das Thermometer fällt hier am frühen Nachmittag bereits; rollen Sie nur das Fenster für einen kurzen Blick herunter, bevor Sie in Richtung der letzten Station fahren.",
                 "hu": "A hőmérő higanyszála itt kora délután már zuhanni kezd; csak húzza le az ablakot egy gyors pillantásra, mielőtt elindulna az utolsó, fenséges történelmi állomás felé.",
                 "ro": "Termometrul scade deja aici la începutul după-amiezii; doar coborâți geamul pentru o privire rapidă înainte de a vă îndrepta spre ultima oprire importantă a zilei.",
-                "en": "The thermometer starts dropping steadily here by early afternoon; simply roll down the car window for a quick glance before heading toward your final, extended stop."
+                "en": "The thermometer starts dropping steadily here by early afternoon; simply roll down the car window for a quick glance before heading toward your final, extended stop.",
+                "fr": "Le thermomètre continue de baisser ici dès le début d’après-midi ; baissez simplement la vitre pour un coup d’œil rapide avant de vous diriger vers votre dernier arrêt prolongé."
               }
             },
             {
@@ -976,13 +1085,15 @@
                 "de": "Manoir la Commanderie",
                 "hu": "Manoir la Commanderie",
                 "ro": "Manoir la Commanderie",
-                "en": "Manoir la Commanderie"
+                "en": "Manoir la Commanderie",
+                "fr": "Manoir la Commanderie"
               },
               "tip_5lang": {
                 "de": "Planen Sie so, dass Sie rechtzeitig zum atemberaubenden, aber sehr frühen Wintersonnenuntergang hier eintreffen, wenn das alte Gestein in goldenes Licht getaucht wird.",
                 "hu": "Tervezze úgy az érkezését, hogy éppen elcsípje a lélegzetelállító, de nagyon korai téli naplementét, amikor a régi falakat varázslatos, meleg aranyfény árasztja el.",
                 "ro": "Planificați să ajungeți aici la timp pentru apusul uluitor, dar foarte timpuriu de iarnă, când piatra antică a conacului este scăldată într-o lumină aurie spectaculoasă.",
-                "en": "Time your arrival perfectly to catch the breathtaking but very early winter sunset, right when the ancient stonework of the manor is bathed in stunning golden hour light."
+                "en": "Time your arrival perfectly to catch the breathtaking but very early winter sunset, right when the ancient stonework of the manor is bathed in stunning golden hour light.",
+                "fr": "Calculez parfaitement votre arrivée pour attraper le spectaculaire mais très précoce coucher du soleil d’hiver, quand la pierre ancienne du manoir est baignée d’une lumière d’heure dorée saisissante."
               }
             }
           ]

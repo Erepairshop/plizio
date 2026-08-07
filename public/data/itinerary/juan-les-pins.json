@@ -21,7 +21,8 @@
             "de": "Parc de la Pinède",
             "hu": "Parc de la Pinède",
             "ro": "Parc de la Pinède",
-            "en": "Parc de la Pinède"
+            "en": "Parc de la Pinède",
+            "fr": "Parc de la Pinède"
           },
           "coords": [
             7.1082,
@@ -45,7 +46,8 @@
             "de": "Église Jeanne d'Arc",
             "hu": "Szent Johanna templom",
             "ro": "Biserica Sfânta Ioana d'Arc",
-            "en": "Jeanne d'Arc Church"
+            "en": "Jeanne d'Arc Church",
+            "fr": "Église Jeanne d'Arc"
           },
           "coords": [
             7.1075,
@@ -69,7 +71,8 @@
             "de": "Pinède Gould",
             "hu": "Pinède Gould",
             "ro": "Pinède Gould",
-            "en": "Pinède Gould"
+            "en": "Pinède Gould",
+            "fr": "Pinède Gould"
           },
           "coords": [
             7.112,
@@ -93,7 +96,8 @@
             "de": "Promenade du Soleil",
             "hu": "Promenade du Soleil",
             "ro": "Promenade du Soleil",
-            "en": "Promenade du Soleil"
+            "en": "Promenade du Soleil",
+            "fr": "Promenade du Soleil"
           },
           "coords": [
             7.109,
@@ -117,7 +121,8 @@
             "de": "Plage de Juan-les-Pins",
             "hu": "Juan-les-Pins strand",
             "ro": "Plaja Juan-les-Pins",
-            "en": "Juan-les-Pins Beach"
+            "en": "Juan-les-Pins Beach",
+            "fr": "Plage de Juan-les-Pins"
           },
           "coords": [
             7.105,
@@ -133,7 +138,7 @@
             "hu": "Finom homok és tiszta víz.",
             "ro": "Nisip fin și apă limpede.",
             "en": "Fine sand and clear water.",
-            "fr": "Sable fin et eau cristalline."
+            "fr": "Sable fin et eau claire."
           }
         },
         {
@@ -141,7 +146,8 @@
             "de": "Casino de Juan-les-Pins",
             "hu": "Juan-les-Pins Kaszinó",
             "ro": "Cazinoul Juan-les-Pins",
-            "en": "Casino de Juan-les-Pins"
+            "en": "Casino de Juan-les-Pins",
+            "fr": "Casino de Juan-les-Pins"
           },
           "coords": [
             7.1065,
@@ -166,7 +172,7 @@
         "hu": "Kezdje a napot az árnyas Parc de la Pinède-ben, majd látogasson el a Szent Johanna templom modern épületéhez. Délben sétáljon végig a Pinède Gould területén, amely a híres jazzfesztivál otthona. A délutánt töltse a Promenade du Soleil sétányon és a város finomhomokos strandján pihenve. A napot stílusosan a kaszinóban vagy egy tengerparti koktél mellett zárhatja.",
         "ro": "Începeți ziua în umbrosul Parc de la Pinède, înainte de a vizita arhitectura modernă a Bisericii Sfânta Ioana d'Arc. La prânz, plimbați-vă prin Pinède Gould, locul legendar al festivalului de jazz. După-amiaza este dedicată Promenadei du Soleil și relaxării pe plaja cu nisip fin. Încheiați ziua cu stil la cazinou sau cu un cocktail în fața mării, admirând apusul.",
         "en": "Start your day in the shady Parc de la Pinède before visiting the striking modern architecture of the Jeanne d'Arc Church. At midday, stroll through Pinède Gould, the legendary venue for the jazz festival. The afternoon is dedicated to the Promenade du Soleil and relaxing on the fine sandy beach. End your day with a touch of glamour at the casino or with a cocktail overlooking the sea.",
-        "fr": "Commencez votre journée à l'ombre du Parc de la Pinède avant de visiter l'architecture moderne saisissante de l'église Jeanne d'Arc. À midi, flânez dans la Pinède Gould, lieu légendaire du festival de jazz. L'après-midi est consacré à la Promenade du Soleil et à la détente sur la plage de sable fin. Terminez votre journée avec une touche de glamour au casino ou avec un cocktail face à la mer."
+        "fr": "Commencez votre journée dans l'ombragé Parc de la Pinède avant de visiter la remarquable architecture moderne de l'église Jeanne d'Arc. À midi, flânez dans la Pinède Gould, le lieu légendaire du festival de jazz. L'après-midi est dédiée à la Promenade du Soleil et à la détente sur la plage de sable fin. Terminez votre journée par une touche de glamour au casino ou avec un cocktail face à la mer."
       },
       "gastro_picks": {
         "de": [
@@ -305,7 +311,8 @@
             "de": "Promenade du Soleil",
             "hu": "Promenade du Soleil",
             "ro": "Promenade du Soleil",
-            "en": "Promenade du Soleil"
+            "en": "Promenade du Soleil",
+            "fr": "Promenade du Soleil"
           },
           "coords": [
             7.109,
@@ -321,7 +328,7 @@
             "hu": "Kerékpározás a part mentén.",
             "ro": "Plimbare cu bicicleta pe faleză.",
             "en": "Cycling along the coast.",
-            "fr": "Vélo le long de la côte."
+            "fr": "Balade à vélo le long de la côte."
           }
         },
         {
@@ -329,7 +336,8 @@
             "de": "Port Gallice",
             "hu": "Port Gallice",
             "ro": "Port Gallice",
-            "en": "Port Gallice"
+            "en": "Port Gallice",
+            "fr": "Port Gallice"
           },
           "coords": [
             7.115,
@@ -353,7 +361,8 @@
             "de": "Hôtel Belles Rives",
             "hu": "Hôtel Belles Rives",
             "ro": "Hôtel Belles Rives",
-            "en": "Hôtel Belles Rives"
+            "en": "Hôtel Belles Rives",
+            "fr": "Hôtel Belles Rives"
           },
           "coords": [
             7.118,
@@ -369,7 +378,7 @@
             "hu": "Legendás Art Déco szálloda.",
             "ro": "Hotel Art Déco legendar.",
             "en": "Legendary Art Deco hotel.",
-            "fr": "Hôtel Art Déco légendaire."
+            "fr": "Hôtel Art déco légendaire."
           }
         },
         {
@@ -377,7 +386,8 @@
             "de": "Pinède Gould",
             "hu": "Pinède Gould",
             "ro": "Pinède Gould",
-            "en": "Pinède Gould"
+            "en": "Pinède Gould",
+            "fr": "Pinède Gould"
           },
           "coords": [
             7.112,
@@ -401,7 +411,8 @@
             "de": "Parc de la Pinède",
             "hu": "Parc de la Pinède",
             "ro": "Parc de la Pinède",
-            "en": "Parc de la Pinède"
+            "en": "Parc de la Pinède",
+            "fr": "Parc de la Pinède"
           },
           "coords": [
             7.1082,
@@ -426,7 +437,7 @@
         "hu": "Fedezze fel Juan-les-Pins-t kerékpárral. Kezdje a Promenade du Soleil sétányon, majd tekerjen el az elegáns Port Gallice kikötőbe. Csodálja meg a történelmi Hôtel Belles Rives épületét, mielőtt átkerekezne a Pinède Gould parkon. A délutánt töltse pihenéssel a Parc de la Pinède fái alatt.",
         "ro": "Explorați Juan-les-Pins cu bicicleta. Începeți pe Promenade du Soleil și pedalați până la elegantul Port Gallice. Admirați istoricul Hotel Belles Rives înainte de a trece prin Pinède Gould. Petreceți după-amiaza relaxându-vă în Parc de la Pinède, bucurându-vă de atmosferă.",
         "en": "Explore Juan-les-Pins by bike. Start on the Promenade du Soleil and cycle to the elegant Port Gallice. Admire the historic Hôtel Belles Rives before riding through Pinède Gould. Spend the afternoon relaxing in the Parc de la Pinède, enjoying the atmosphere under the trees.",
-        "fr": "Explorez Juan-les-Pins à vélo. Commencez sur la Promenade du Soleil et pédalez jusqu'à l'élégant Port Gallice. Admirez l'historique Hôtel Belles Rives avant de traverser la Pinède Gould. Passez l'après-midi à vous détendre dans le Parc de la Pinède, en profitant de l'atmosphère sous les arbres."
+        "fr": "Explorez Juan-les-Pins à vélo. Commencez sur la Promenade du Soleil et pédalez jusqu'à l'élégant Port Gallice. Admirez l'historique Hôtel Belles Rives avant de traverser la Pinède Gould. Passez l'après-midi à vous détendre dans le Parc de la Pinède, en profitant de l'ambiance sous les arbres."
       },
       "gastro_picks": {
         "de": [
@@ -548,7 +559,7 @@
         ],
         "fr": [
           "Utilisez les pistes cyclables.",
-          "Attachez solidement votre vélo."
+          "Verrouillez bien votre vélo."
         ]
       }
     },
@@ -565,7 +576,8 @@
             "de": "Juan-les-Pins Zentrum",
             "hu": "Juan-les-Pins központ",
             "ro": "Centrul Juan-les-Pins",
-            "en": "Juan-les-Pins Center"
+            "en": "Juan-les-Pins Center",
+            "fr": "Centre de Juan-les-Pins"
           },
           "coords": [
             7.106,
@@ -589,7 +601,8 @@
             "de": "Port Gallice",
             "hu": "Port Gallice",
             "ro": "Port Gallice",
-            "en": "Port Gallice"
+            "en": "Port Gallice",
+            "fr": "Port Gallice"
           },
           "coords": [
             7.115,
@@ -605,7 +618,7 @@
             "hu": "Parkolóhelyek elérhetőek.",
             "ro": "Locuri de parcare disponibile.",
             "en": "Parking spaces available.",
-            "fr": "Places de parking disponibles."
+            "fr": "Places de stationnement disponibles."
           }
         },
         {
@@ -613,7 +626,8 @@
             "de": "Cap d'Antibes",
             "hu": "Cap d'Antibes",
             "ro": "Cap d'Antibes",
-            "en": "Cap d'Antibes"
+            "en": "Cap d'Antibes",
+            "fr": "Cap d'Antibes"
           },
           "coords": [
             7.13,
@@ -629,7 +643,7 @@
             "hu": "Szép part menti út.",
             "ro": "Șosea de coastă frumoasă.",
             "en": "Beautiful coastal road.",
-            "fr": "Magnifique route côtière."
+            "fr": "Belle route côtière."
           }
         },
         {
@@ -637,7 +651,8 @@
             "de": "Hôtel Belles Rives",
             "hu": "Hôtel Belles Rives",
             "ro": "Hôtel Belles Rives",
-            "en": "Hôtel Belles Rives"
+            "en": "Hôtel Belles Rives",
+            "fr": "Hôtel Belles Rives"
           },
           "coords": [
             7.118,
@@ -661,7 +676,8 @@
             "de": "Plage de Juan-les-Pins",
             "hu": "Juan-les-Pins strand",
             "ro": "Plaja Juan-les-Pins",
-            "en": "Juan-les-Pins Beach"
+            "en": "Juan-les-Pins Beach",
+            "fr": "Plage de Juan-les-Pins"
           },
           "coords": [
             7.105,
@@ -686,7 +702,7 @@
         "hu": "Fedezze fel Juan-les-Pins-t és a Cap d'Antibes-t autóval. Látogasson el a Port Gallice-hoz, és élvezze a panorámás utat a fok körül. Egy ebédszünet a Hôtel Belles Rives-nél igazi csillogást kínál. A délutánt töltse pihenéssel a főstrandon.",
         "ro": "Descoperiți Juan-les-Pins și Cap d'Antibes cu mașina. Vizitați Port Gallice și bucurați-vă de drumul panoramic în jurul capului. O oprire pentru prânz la Hotel Belles Rives oferă strălucire. Petreceți după-amiaza relaxându-vă pe plaja principală.",
         "en": "Discover Juan-les-Pins and Cap d'Antibes by car. Visit Port Gallice and enjoy the scenic drive around the cape. A lunch stop at Hôtel Belles Rives offers glamour. Spend the afternoon relaxing on the main beach before concluding your day in town.",
-        "fr": "Découvrez Juan-les-Pins et le Cap d'Antibes en voiture. Visitez Port Gallice et profitez de la route panoramique autour du cap. Une pause déjeuner à l'Hôtel Belles Rives offre une touche de glamour. Passez l'après-midi à vous détendre sur la plage principale avant de conclure votre journée en ville."
+        "fr": "Découvrez Juan-les-Pins et le Cap d'Antibes en voiture. Visitez Port Gallice et profitez de la route panoramique autour du cap. Une pause déjeuner à l'Hôtel Belles Rives apporte du glamour. Passez l'après-midi à vous détendre sur la plage principale avant de conclure votre journée en ville."
       },
       "gastro_picks": {
         "de": [
@@ -825,7 +841,8 @@
             "de": "Casino de Juan-les-Pins",
             "hu": "Juan-les-Pins Kaszinó",
             "ro": "Cazinoul Juan-les-Pins",
-            "en": "Casino de Juan-les-Pins"
+            "en": "Casino de Juan-les-Pins",
+            "fr": "Casino de Juan-les-Pins"
           },
           "coords": [
             7.1065,
@@ -841,7 +858,7 @@
             "hu": "Központi csomópont.",
             "ro": "Nod central.",
             "en": "Central hub.",
-            "fr": "Plaque tournante centrale."
+            "fr": "Pôle central."
           }
         },
         {
@@ -849,7 +866,8 @@
             "de": "Pinède Gould",
             "hu": "Pinède Gould",
             "ro": "Pinède Gould",
-            "en": "Pinède Gould"
+            "en": "Pinède Gould",
+            "fr": "Pinède Gould"
           },
           "coords": [
             7.112,
@@ -865,7 +883,7 @@
             "hu": "Megálló a parknál.",
             "ro": "Oprire lângă parc.",
             "en": "Stop by the park.",
-            "fr": "Arrêt près du parc."
+            "fr": "Faites un arrêt au parc."
           }
         },
         {
@@ -873,7 +891,8 @@
             "de": "Port Gallice",
             "hu": "Port Gallice",
             "ro": "Port Gallice",
-            "en": "Port Gallice"
+            "en": "Port Gallice",
+            "fr": "Port Gallice"
           },
           "coords": [
             7.115,
@@ -889,7 +908,7 @@
             "hu": "Használja a 2-es vonalat.",
             "ro": "Utilizați linia 2.",
             "en": "Use line 2.",
-            "fr": "Utilisez la ligne 2."
+            "fr": "Prenez la ligne 2."
           }
         },
         {
@@ -897,7 +916,8 @@
             "de": "Parc de la Pinède",
             "hu": "Parc de la Pinède",
             "ro": "Parc de la Pinède",
-            "en": "Parc de la Pinède"
+            "en": "Parc de la Pinède",
+            "fr": "Parc de la Pinède"
           },
           "coords": [
             7.1082,
@@ -921,7 +941,8 @@
             "de": "Promenade du Soleil",
             "hu": "Promenade du Soleil",
             "ro": "Promenade du Soleil",
-            "en": "Promenade du Soleil"
+            "en": "Promenade du Soleil",
+            "fr": "Promenade du Soleil"
           },
           "coords": [
             7.109,
@@ -946,7 +967,7 @@
         "hu": "Használja a buszokat a város stresszmentes felfedezéséhez. Induljon a kaszinótól a Pinède Gould-hoz. A busz elviszi a Port Gallice kikötőbe, majd hűsöljön a Parc de la Pinède árnyas fái alatt, és zárja a napot a Promenade du Soleil sétányon.",
         "ro": "Utilizați autobuzele pentru a explora orașul fără stres. Începeți la cazinou spre Pinède Gould. Autobuzul vă duce la Port Gallice, apoi relaxați-vă în umbrosul Parc de la Pinède și încheiați ziua pe Promenade du Soleil.",
         "en": "Use buses to explore the city stress-free. Start at the casino and head to Pinède Gould. The bus takes you to Port Gallice, then relax in the shady Parc de la Pinède and end your day on the Promenade du Soleil.",
-        "fr": "Utilisez les bus pour explorer la ville sans stress. Commencez au casino et dirigez-vous vers la Pinède Gould. Le bus vous emmène à Port Gallice, puis détendez-vous dans le Parc de la Pinède ombragé et terminez votre journée sur la Promenade du Soleil."
+        "fr": "Prenez le bus pour explorer la ville sans stress. Commencez au casino puis dirigez-vous vers la Pinède Gould. Le bus vous emmène jusqu'à Port Gallice, détendez-vous ensuite dans le Parc de la Pinède ombragé et terminez votre journée sur la Promenade du Soleil."
       },
       "gastro_picks": {
         "de": [
@@ -1067,7 +1088,7 @@
           "Check the schedule."
         ],
         "fr": [
-          "Achetez un ticket à la journée.",
+          "Achetez un ticket journée.",
           "Vérifiez les horaires."
         ]
       }

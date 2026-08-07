@@ -21,7 +21,8 @@
             "de": "Saint-Nicolas",
             "hu": "Saint-Nicolas",
             "ro": "Saint-Nicolas",
-            "en": "Saint-Nicolas"
+            "en": "Saint-Nicolas",
+            "fr": "Saint-Nicolas"
           },
           "coords": [
             -1.438055,
@@ -36,7 +37,8 @@
             "de": "Bewundern Sie die charmante Architektur dieser zentralen Kirche, ein ruhiger spiritueller Ort, wo frühe Besuche schönes Licht für Fotos bieten.",
             "hu": "Csodálja meg a központi templom bájos építészetét, amely egy csendes spirituális menedék, ahol a kora reggeli látogatások gyönyörű fényeket kínálnak.",
             "ro": "Admirați arhitectura fermecătoare a acestei biserici centrale, un refugiu spiritual liniștit unde vizitele matinale oferă o lumină minunată.",
-            "en": "Admire the charming architecture of this central church, a quiet spiritual haven where early morning visits offer beautiful light for photography."
+            "en": "Admire the charming architecture of this central church, a quiet spiritual haven where early morning visits offer beautiful light for photography.",
+            "fr": "Admirez l'architecture charmante de cette église centrale, un havre spirituel calme où les visites matinales offrent une belle lumière pour la photographie."
           }
         },
         {
@@ -44,7 +46,8 @@
             "de": "Pôle Culturel Les Floralies",
             "hu": "Pôle Culturel Les Floralies",
             "ro": "Pôle Culturel Les Floralies",
-            "en": "Pôle Culturel Les Floralies"
+            "en": "Pôle Culturel Les Floralies",
+            "fr": "Pôle Culturel Les Floralies"
           },
           "coords": [
             -1.44898,
@@ -59,7 +62,8 @@
             "de": "Erkunden Sie lokale Kulturveranstaltungen und Ausstellungen an diesem lebendigen Treffpunkt, und prüfen Sie vorab das Programm für besondere Aufführungen.",
             "hu": "Fedezze fel a helyi kulturális eseményeket és kiállításokat ebben a nyüzsgő közösségi térben, de előtte mindenképp ellenőrizze az előadások menetrendjét.",
             "ro": "Explorați evenimentele culturale și expozițiile locale la acest centru comunitar vibrant, asigurându-vă că verificați programul pentru spectacole speciale.",
-            "en": "Explore local cultural events and exhibitions at this vibrant community hub, making sure to check their schedule beforehand for special performances."
+            "en": "Explore local cultural events and exhibitions at this vibrant community hub, making sure to check their schedule beforehand for special performances.",
+            "fr": "Découvrez les événements et expositions culturelles locales dans ce lieu communautaire dynamique, en vérifiant leur programme à l'avance pour les spectacles spéciaux."
           }
         },
         {
@@ -67,7 +71,8 @@
             "de": "Les Génerelles",
             "hu": "Les Génerelles",
             "ro": "Les Génerelles",
-            "en": "Les Génerelles"
+            "en": "Les Génerelles",
+            "fr": "Les Génerelles"
           },
           "coords": [
             -1.442638,
@@ -82,7 +87,8 @@
             "de": "Machen Sie einen erfrischenden Spaziergang entlang dieses unberührten Küstenabschnitts und bringen Sie eine leichte Jacke mit, da die Meeresbrise frisch sein kann.",
             "hu": "Tegyen egy frissítő sétát ezen az érintetlen partvidéken, és hozzon magával egy könnyű kabátot, mivel az óceáni szellő meglepően hűvös lehet.",
             "ro": "Faceți o plimbare revigorantă de-a lungul acestei coaste imaculate de agrement, aducând o jachetă ușoară, deoarece briza oceanului poate fi răcoroasă.",
-            "en": "Take a refreshing walk along this pristine recreational stretch of coast, bringing a light jacket as the ocean breeze can be surprisingly brisk."
+            "en": "Take a refreshing walk along this pristine recreational stretch of coast, bringing a light jacket as the ocean breeze can be surprisingly brisk.",
+            "fr": "Faites une promenade rafraîchissante le long de ce littoral de loisirs préservé, en emportant une veste légère car la brise marine peut être étonnamment vive."
           }
         },
         {
@@ -90,7 +96,8 @@
             "de": "Grande Plage",
             "hu": "Grande Plage",
             "ro": "Grande Plage",
-            "en": "Grande Plage"
+            "en": "Grande Plage",
+            "fr": "Grande Plage"
           },
           "coords": [
             -1.433751,
@@ -105,7 +112,8 @@
             "de": "Entspannen Sie am goldenen Sand des Hauptstrandes der Stadt und kommen Sie früh, um einen guten Platz zu sichern, bevor die Menschenmengen eintreffen.",
             "hu": "Pihenjen a város fő strandjának aranyhomokján, és érkezzen korán, hogy jó helyet biztosítson magának, mielőtt a déli napfény előcsalogatja a tömeget.",
             "ro": "Relaxați-vă pe nisipul auriu al plajei principale, sosind devreme pentru a vă asigura un loc bun înainte ca soarele amiezii să aducă mulțimile.",
-            "en": "Relax on the golden sands of the town's main beach, arriving early to secure a good spot before the mid-day sun brings the lively crowds."
+            "en": "Relax on the golden sands of the town's main beach, arriving early to secure a good spot before the mid-day sun brings the lively crowds.",
+            "fr": "Détendez-vous sur le sable doré de la plage principale de la ville, arrivez tôt pour sécuriser une bonne place avant que le soleil de midi n'attire la foule animée."
           }
         },
         {
@@ -113,7 +121,8 @@
             "de": "Plage de la Grière",
             "hu": "Plage de la Grière",
             "ro": "Plage de la Grière",
-            "en": "Plage de la Grière"
+            "en": "Plage de la Grière",
+            "fr": "Plage de la Grière"
           },
           "coords": [
             -1.422012,
@@ -128,7 +137,8 @@
             "de": "Beenden Sie Ihren Tag an diesem weitläufigen Oststrand, wo das ruhigere Wasser perfekt für ein spätes Nachmittagsschwimmen und den Sonnenuntergang ist.",
             "hu": "Zárja a napot ezen a tágas keleti strandon, ahol a nyugodtabb vizek tökéletesek egy késő délutáni úszáshoz és a gyönyörű naplemente megfigyeléséhez.",
             "ro": "Încheiați-vă ziua pe această plajă estică întinsă, unde apele mai calme sunt perfecte pentru o baie de după-amiază și pentru a observa apusul.",
-            "en": "Conclude your day at this expansive eastern beach where the calmer waters are perfect for a late afternoon swim and observing the beautiful sunset."
+            "en": "Conclude your day at this expansive eastern beach where the calmer waters are perfect for a late afternoon swim and observing the beautiful sunset.",
+            "fr": "Concluez votre journée sur cette vaste plage orientale où les eaux plus calmes sont parfaites pour une baignade en fin d'après-midi et pour observer le joli coucher de soleil."
           }
         }
       ],
@@ -136,7 +146,8 @@
         "de": "Beginnen Sie Ihren Morgen in der ruhigen Atmosphäre der Kirche Saint-Nicolas direkt im Zentrum. Wenn das Dorf erwacht, können Sie die klassische französische Küstenatmosphäre in sich aufnehmen.\n\nGehen Sie zum Pôle Culturel Les Floralies, um in Kunst und Kultur einzutauchen. Danach zieht es Sie näher ans Wasser bei Les Génerelles, um die erfrischende Meeresbrise zu genießen.\n\nVerbringen Sie einen herrlichen Nachmittag an dem weiten Sandstrand von Grande Plage. Das rhythmische Rauschen der Wellen bildet die perfekte Kulisse für Ihre Entspannung.\n\nBeenden Sie Ihren Rundgang am Plage de la Grière, wenn das Nachmittagslicht weicher wird. Genießen Sie eine friedliche Abenddämmerung und blicken Sie auf einen wunderschönen Tag zurück.",
         "hu": "Kezdje a reggelt a Saint-Nicolas templom csendes spirituális hangulatával a központban. Ahogy a falu felébred, szívja magába a klasszikus francia tengerparti városok egyedi atmoszféráját.\n\nSétáljon át a Pôle Culturel Les Floralies felé, hogy elmerüljön a helyi kultúrában. Ezután menjen közelebb a vízhez a Les Génerelles-nél, hogy élvezze a frissítő óceáni szellőt.\n\nTöltsön el egy csodálatos délutánt a Grande Plage hatalmas homokos partszakaszán. A hullámok ritmikus hangja tökéletes hátteret biztosít a teljes kikapcsolódáshoz és pihenéshez.\n\nZárja gyalogos túráját a Plage de la Grière-en, miközben a délutáni fények lágyabbá válnak. Élvezze a békés tengerparti szürkületet, visszagondolva a csodás napra.",
         "ro": "Începeți dimineața cu ambianța spirituală liniștită a bisericii Saint-Nicolas din centru. Pe măsură ce satul se trezește, savurați atmosfera clasică a unui oraș de coastă francez.\n\nÎndreptați-vă spre Pôle Culturel Les Floralies pentru a vă scufunda în arta locală. Apoi, mergeți mai aproape de apă la Les Génerelles pentru a prinde briza revigorantă a oceanului.\n\nPetreceți o după-amiază glorioasă la soare pe plaja vastă de nisip Grande Plage. Sunetul ritmic al valurilor creează un fundal perfect pentru o relaxare completă.\n\nÎncheiați turul la Plage de la Grière pe măsură ce lumina se înmoaie. Bucurați-vă de un amurg pașnic la malul mării, reflectând la o zi frumoasă petrecută pe coasta Vendée.",
-        "en": "Start your morning with the quiet spiritual ambiance of Saint-Nicolas church right in the center. As the village awakens, take your time absorbing the classic French coastal town atmosphere.\n\nTransition towards the Pôle Culturel Les Floralies to immerse yourself in local arts and culture. Afterwards, head closer to the water at Les Génerelles to catch the refreshing ocean breeze.\n\nSpend a glorious afternoon soaking up the sun on the vast sandy expanse of Grande Plage. The rhythmic sound of the waves creates a perfect backdrop for ultimate relaxation.\n\nConclude your walking tour at Plage de la Grière as the late afternoon light softens. Enjoy a peaceful seaside twilight, reflecting on a beautiful day spent on the Vendée coast."
+        "en": "Start your morning with the quiet spiritual ambiance of Saint-Nicolas church right in the center. As the village awakens, take your time absorbing the classic French coastal town atmosphere.\n\nTransition towards the Pôle Culturel Les Floralies to immerse yourself in local arts and culture. Afterwards, head closer to the water at Les Génerelles to catch the refreshing ocean breeze.\n\nSpend a glorious afternoon soaking up the sun on the vast sandy expanse of Grande Plage. The rhythmic sound of the waves creates a perfect backdrop for ultimate relaxation.\n\nConclude your walking tour at Plage de la Grière as the late afternoon light softens. Enjoy a peaceful seaside twilight, reflecting on a beautiful day spent on the Vendée coast.",
+        "fr": "Commencez votre matinée par l'ambiance spirituelle et tranquille de l'église Saint-Nicolas au centre. Au réveil du village, prenez le temps d'absorber l'atmosphère classique d'une ville côtière française.\n\nDirigez-vous ensuite vers le Pôle Culturel Les Floralies pour vous immerger dans les arts et la culture locaux. Puis rapprochez-vous de l'eau aux Génerelles pour sentir la brise marine rafraîchissante.\n\nPassez un après-midi glorieux à profiter du soleil sur l'immense étendue sableuse de la Grande Plage. Le bruit rythmique des vagues offre un cadre parfait pour la détente.\n\nTerminez votre visite à pied à la Plage de la Grière alors que la lumière de fin d'après-midi s'adoucit. Profitez d'un crépuscule paisible au bord de la mer, en repensant à cette belle journée passée sur la côte vendéenne."
       },
       "variants": {
         "rainy": {
@@ -144,7 +155,8 @@
             "de": "Morgens suchen wir Schutz in der Kirche Saint-Nicolas, während der Regen gegen die Fenster trommelt. Mittags bietet das Kulturzentrum Pôle Culturel Les Floralies ein ideales trockenes Refugium mit lokalen Ausstellungen. Am Nachmittag trotzen wir dem Wetter an den Stränden, wo die stürmische See eine dramatische Kulisse bildet. Abends ziehen wir uns aus den nassen Straßen in die Gemütlichkeit zurück.",
             "hu": "Reggel a Saint-Nicolas templom csendjében kezdünk, miközben kint elered az eső. Délben a Pôle Culturel Les Floralies kulturális központ nyújt tökéletes menedéket és fedett látnivalókat. Délután az esernyők alatt sétálva csodáljuk meg a felkorbácsolt Atlanti-óceán erejét a parton. Este a víztől csillogó utcákról hamar behúzódunk egy meleg helyre, élvezve a tengerparti eső nyugalmát.",
             "ro": "Dimineața începe cu o vizită la biserica Saint-Nicolas, oferind un adăpost liniștit împotriva ploii. La prânz, centrul cultural Les Floralies este refugiul perfect pentru a explora arta locală la adăpost. După-amiaza, plimbarea pe plajă sub umbrelă oferă o perspectivă spectaculoasă asupra mării agitate. Seara, ne retragem de pe străzile umede, admirând reflexiile luminilor în bălți.",
-            "en": "In the morning, we find peace inside Saint-Nicolas as the rain starts to fall. At noon, the Pôle Culturel Les Floralies provides a perfect indoor escape with its cultural exhibits. During the afternoon, a walk along the coast reveals the dramatic beauty of the stormy Atlantic under our umbrellas. By evening, we retreat from the wet streets to enjoy the cozy atmosphere of the town."
+            "en": "In the morning, we find peace inside Saint-Nicolas as the rain starts to fall. At noon, the Pôle Culturel Les Floralies provides a perfect indoor escape with its cultural exhibits. During the afternoon, a walk along the coast reveals the dramatic beauty of the stormy Atlantic under our umbrellas. By evening, we retreat from the wet streets to enjoy the cozy atmosphere of the town.",
+            "fr": "Le matin, nous trouvons la paix à l'intérieur de Saint-Nicolas alors que la pluie commence. À midi, le Pôle Culturel Les Floralies offre une parfaite échappée intérieure avec ses expositions. L'après-midi, une promenade le long du littoral révèle la beauté dramatique de l'Atlantique orageux sous nos parapluies. Le soir, nous nous retirons des rues mouillées pour profiter de l'atmosphère chaleureuse de la ville."
           },
           "stops": [
             {
@@ -152,13 +164,15 @@
                 "de": "Saint-Nicolas",
                 "hu": "Saint-Nicolas",
                 "ro": "Saint-Nicolas",
-                "en": "Saint-Nicolas"
+                "en": "Saint-Nicolas",
+                "fr": "Saint-Nicolas"
               },
               "tip_5lang": {
                 "de": "Bewundern Sie die schlichte Architektur im Trockenen; achten Sie beim Eintreten auf die durch den Regen rutschigen Steinstufen am Portal.",
                 "hu": "Csodálja meg a belső teret, miközben védve van az esőtől; vigyázzon a bejáratnál, mert a kőpadló ilyenkor rendkívül csúszóssá válhat.",
                 "ro": "Admirați arhitectura interioară în timp ce rămâneți la adăpost; aveți grijă la intrare, deoarece treptele de piatră pot fi alunecoase din cauza ploii.",
-                "en": "Admire the simple interior while staying dry; be careful when entering as the stone steps can become quite slippery in the rainy weather."
+                "en": "Admire the simple interior while staying dry; be careful when entering as the stone steps can become quite slippery in the rainy weather.",
+                "fr": "Admirez l'intérieur simple tout en restant au sec ; faites attention en entrant car les marches en pierre peuvent devenir très glissantes par temps de pluie."
               }
             },
             {
@@ -166,13 +180,15 @@
                 "de": "Pôle Culturel Les Floralies",
                 "hu": "Pôle Culturel Les Floralies",
                 "ro": "Pôle Culturel Les Floralies",
-                "en": "Pôle Culturel Les Floralies"
+                "en": "Pôle Culturel Les Floralies",
+                "fr": "Pôle Culturel Les Floralies"
               },
               "tip_5lang": {
                 "de": "Dies ist der ideale Ort für einen längeren Aufenthalt bei starkem Regen, um die lokalen Kunstgalerien ohne Eile zu erkunden.",
                 "hu": "Ez a tökéletes helyszín egy hosszabb pihenőre szakadó esőben, ahol sietség nélkül fedezheti fel a helyi művészeti kiállításokat.",
                 "ro": "Acesta este locul ideal pentru o oprire prelungită în caz de ploaie torențială, permițându-vă să explorați galeriile de artă fără grabă.",
-                "en": "This is the ideal spot for an extended break during heavy rain, allowing you to explore local art galleries at a leisurely pace."
+                "en": "This is the ideal spot for an extended break during heavy rain, allowing you to explore local art galleries at a leisurely pace.",
+                "fr": "C'est l'endroit idéal pour une longue pause lors d'une forte pluie, vous permettant d'explorer les galeries d'art locales à un rythme tranquille."
               }
             },
             {
@@ -180,13 +196,15 @@
                 "de": "Les Génerelles",
                 "hu": "Les Génerelles",
                 "ro": "Les Génerelles",
-                "en": "Les Génerelles"
+                "en": "Les Génerelles",
+                "fr": "Les Génerelles"
               },
               "tip_5lang": {
                 "de": "Die Pinien bieten einen gewissen Schutz vor leichtem Regen, aber tragen Sie wasserfeste Schuhe für die potenziell schlammigen Waldwege.",
                 "hu": "A fenyőfák némi védelmet nyújtanak a szemerkélő eső ellen, de viseljen vízálló cipőt a sárra hajlamos erdei ösvények miatt.",
                 "ro": "Pinii oferă o oarecare protecție împotriva ploii ușoare, dar purtați încălțăminte impermeabilă pentru potecile de pădure care pot fi noroioase.",
-                "en": "The pine trees offer some shelter from light rain, but wear waterproof shoes for the forest paths that can become quite muddy."
+                "en": "The pine trees offer some shelter from light rain, but wear waterproof shoes for the forest paths that can become quite muddy.",
+                "fr": "Les pins offrent un certain abri contre une pluie légère, mais portez des chaussures imperméables pour les sentiers forestiers qui peuvent devenir très boueux."
               }
             },
             {
@@ -194,13 +212,15 @@
                 "de": "Grande Plage",
                 "hu": "Grande Plage",
                 "ro": "Grande Plage",
-                "en": "Grande Plage"
+                "en": "Grande Plage",
+                "fr": "Grande Plage"
               },
               "tip_5lang": {
                 "de": "Beobachten Sie das faszinierende Grau des Ozeans von der Promenade aus; ein windfester Regenschirm ist bei den Küstenböen unverzichtbar.",
                 "hu": "Figyelje meg az óceán lenyűgöző szürke árnyalatait a sétányról; a parti szélben egy viharálló esernyő elengedhetetlen kellék lesz.",
                 "ro": "Observați nuanțele fascinante de gri ale oceanului de pe promenadă; o umbrelă rezistentă la vânt este esențială din cauza rafalelelor de coastă.",
-                "en": "Observe the fascinating grey shades of the ocean from the promenade; a windproof umbrella is essential due to the coastal gusts."
+                "en": "Observe the fascinating grey shades of the ocean from the promenade; a windproof umbrella is essential due to the coastal gusts.",
+                "fr": "Observez les fascinantes nuances grises de l'océan depuis la promenade ; un parapluie coupe-vent est essentiel à cause des rafales côtières."
               }
             },
             {
@@ -208,13 +228,15 @@
                 "de": "Plage de la Grière",
                 "hu": "Plage de la Grière",
                 "ro": "Plage de la Grière",
-                "en": "Plage de la Grière"
+                "en": "Plage de la Grière",
+                "fr": "Plage de la Grière"
               },
               "tip_5lang": {
                 "de": "Genießen Sie die frische, salzige Luft nach dem Schauer, aber halten Sie Abstand zur Brandung, da der Wind das Wasser unberechenbar macht.",
                 "hu": "Élvezze a friss, sós levegőt az eső után, de tartson távolságot a hullámoktól, mert a szél kiszámíthatatlanná teheti a vízszintet.",
                 "ro": "Bucurați-vă de aerul proaspăt și sărat după ploaie, dar păstrați distanța față de valuri, deoarece vântul poate face apa imprevizibilă.",
-                "en": "Enjoy the fresh, salty air after the shower, but keep your distance from the waves as the wind can make the water unpredictable."
+                "en": "Enjoy the fresh, salty air after the shower, but keep your distance from the waves as the wind can make the water unpredictable.",
+                "fr": "Profitez de l'air salin frais après l'averse, mais gardez vos distances avec les vagues car le vent peut rendre la mer imprévisible."
               }
             }
           ]
@@ -224,7 +246,8 @@
             "de": "Der Wintermorgen beginnt frisch und klar in der Stille der Kirche Saint-Nicolas. Mittags suchen wir die Wärme im Kulturzentrum, während die tiefstehende Sonne die Dünen beleuchtet. Am Nachmittag erleben wir die raue Schönheit der einsamen Strände im goldenen Winterlicht. Da die Sonne bereits gegen 17:00 Uhr untergeht, genießen wir den frühen Abend in den beleuchteten Gassen.",
             "hu": "A téli reggel frissen és tisztán indul a Saint-Nicolas templom csendjében. Napközben a kulturális központban melegszünk fel, miközben az alacsonyan járó nap megvilágítja a dűnéket. Délután az üres strandok vad szépségét élvezzük az aranyló téli fényekben. Mivel a nap 17:00 körül lebukik, a korai estét már a kivilágított falusi utcák hangulatában töltjük.",
             "ro": "Dimineața de iarnă începe proaspătă și senină în liniștea bisericii Saint-Nicolas. La prânz, căutăm căldura în centrul cultural, în timp ce soarele jos luminează dunele. După-amiaza, admirăm frumusețea sălbatică a plajelor pustii în lumina aurie de iarnă. Deoarece soarele apune în jur de ora 17:00, ne bucurăm de seara devreme pe străzile luminate.",
-            "en": "The winter morning starts fresh and clear in the silence of Saint-Nicolas. At noon, we warm up at the cultural center while the low sun illuminates the dunes. In the afternoon, we experience the raw beauty of the empty beaches in the golden winter light. As the sun sets around 5 PM, we enjoy the early evening atmosphere in the illuminated village streets."
+            "en": "The winter morning starts fresh and clear in the silence of Saint-Nicolas. At noon, we warm up at the cultural center while the low sun illuminates the dunes. In the afternoon, we experience the raw beauty of the empty beaches in the golden winter light. As the sun sets around 5 PM, we enjoy the early evening atmosphere in the illuminated village streets.",
+            "fr": "La matinée hivernale commence fraîche et claire dans le silence de Saint-Nicolas. À midi, nous nous réchauffons au centre culturel tandis que le soleil bas illumine les dunes. L'après-midi, nous vivons la beauté brute des plages désertes sous la lumière dorée d'hiver. Le soleil se couche vers 17:00, et nous profitons de l'atmosphère du début de soirée dans les rues illuminées du village."
           },
           "stops": [
             {
@@ -232,13 +255,15 @@
                 "de": "Saint-Nicolas",
                 "hu": "Saint-Nicolas",
                 "ro": "Saint-Nicolas",
-                "en": "Saint-Nicolas"
+                "en": "Saint-Nicolas",
+                "fr": "Saint-Nicolas"
               },
               "tip_5lang": {
                 "de": "Die dicken Mauern der Kirche bieten einen friedlichen Rückzugsort vor dem kalten Seewind; ideal für einen Moment der inneren Einkehr.",
                 "hu": "A templom vastag falai békés menedéket nyújtanak a jeges tengeri szél elől; ideális hely egy rövid belső elcsendesedéshez a hidegben.",
                 "ro": "Zidurile groase ale bisericii oferă un refugiu liniștit împotriva vântului rece de mare; ideal pentru un moment de liniște interioară.",
-                "en": "The thick walls of the church provide a peaceful refuge from the cold sea wind; ideal for a moment of quiet reflection in the chill."
+                "en": "The thick walls of the church provide a peaceful refuge from the cold sea wind; ideal for a moment of quiet reflection in the chill.",
+                "fr": "Les murs épais de l’église offrent un refuge paisible contre le vent froid de mer ; idéal pour un moment de calme et de réflexion dans la fraîcheur."
               }
             },
             {
@@ -246,13 +271,15 @@
                 "de": "Pôle Culturel Les Floralies",
                 "hu": "Pôle Culturel Les Floralies",
                 "ro": "Pôle Culturel Les Floralies",
-                "en": "Pôle Culturel Les Floralies"
+                "en": "Pôle Culturel Les Floralies",
+                "fr": "Pôle Culturel Les Floralies"
               },
               "tip_5lang": {
                 "de": "Nutzen Sie diesen beheizten Ort, um sich zwischen den Strandspaziergängen aufzuwärmen und die winterlichen Ausstellungen zu besuchen.",
                 "hu": "Használja ki ezt a fűtött helyszínt a strandolások közötti felmelegedésre, és tekintse meg a szezonális téli kiállításokat is.",
                 "ro": "Folosiți acest spațiu încălzit pentru a vă încălzi între plimbările pe plajă și pentru a vizita expozițiile de iarnă.",
-                "en": "Take advantage of this heated venue to warm up between beach walks and visit the seasonal winter exhibitions."
+                "en": "Take advantage of this heated venue to warm up between beach walks and visit the seasonal winter exhibitions.",
+                "fr": "Profitez de ce lieu chauffé pour vous réchauffer entre les promenades sur la plage et visiter les expositions hivernales saisonnières."
               }
             },
             {
@@ -260,13 +287,15 @@
                 "de": "Les Génerelles",
                 "hu": "Les Génerelles",
                 "ro": "Les Génerelles",
-                "en": "Les Génerelles"
+                "en": "Les Génerelles",
+                "fr": "Les Génerelles"
               },
               "tip_5lang": {
                 "de": "Die Wintersonne bricht wunderschön durch die kahlen Zweige; tragen Sie mehrere Schichten Kleidung, da es im Schatten der Bäume kühl ist.",
                 "hu": "A téli napfény csodásan szűrődik át a fenyők között; öltözzön rétegesen, mert az erdei árnyékban sokkal hűvösebbnek érezheti a levegőt.",
                 "ro": "Soarele de iarnă pătrunde frumos printre crengile pinilor; purtați mai multe straturi, deoarece la umbra copacilor este destul de răcoare.",
-                "en": "The winter sun breaks beautifully through the pine branches; wear multiple layers as it feels much cooler in the shade of the trees."
+                "en": "The winter sun breaks beautifully through the pine branches; wear multiple layers as it feels much cooler in the shade of the trees.",
+                "fr": "Le soleil d’hiver filtre magnifiquement à travers les branches de pin ; portez plusieurs couches car il fait beaucoup plus frais à l’ombre des arbres."
               }
             },
             {
@@ -274,13 +303,15 @@
                 "de": "Grande Plage",
                 "hu": "Grande Plage",
                 "ro": "Grande Plage",
-                "en": "Grande Plage"
+                "en": "Grande Plage",
+                "fr": "Grande Plage"
               },
               "tip_5lang": {
                 "de": "Genießen Sie die weite Leere des Strandes für einen klärenden Spaziergang; achten Sie auf die Zeit, um vor der Dunkelheit um 17 Uhr zurück zu sein.",
                 "hu": "Élvezze a hatalmas, üres strandot egy frissítő sétához; ügyeljen az időre, hogy az 5 órai sötétedés előtt visszaérjen a központba.",
                 "ro": "Bucurați-vă de imensitatea plajei pustii pentru o plimbare revigorantă; aveți grijă la timp pentru a vă întoarce înainte de întuneric la ora 17.",
-                "en": "Enjoy the vast, empty beach for a refreshing walk; mind the time so you can return to the center before the 5 PM darkness sets in."
+                "en": "Enjoy the vast, empty beach for a refreshing walk; mind the time so you can return to the center before the 5 PM darkness sets in.",
+                "fr": "Profitez de l’immense plage déserte pour une balade revigorante ; surveillez l’heure afin de pouvoir revenir au centre avant l’obscurité de 17 h."
               }
             },
             {
@@ -288,13 +319,15 @@
                 "de": "Plage de la Grière",
                 "hu": "Plage de la Grière",
                 "ro": "Plage de la Grière",
-                "en": "Plage de la Grière"
+                "en": "Plage de la Grière",
+                "fr": "Plage de la Grière"
               },
               "tip_5lang": {
                 "de": "Der Sonnenuntergang ist im Winter besonders farbenfroh; bringen Sie eine Thermoskanne mit Tee mit, um die Aussicht warm zu genießen.",
                 "hu": "A naplemente télen különösen színpompás; hozzon magával egy termosz meleg teát, hogy átfázás nélkül élvezhesse a látványt.",
                 "ro": "Apusul este deosebit de colorat iarna; aduceți un termos cu ceai cald pentru a vă bucura de priveliște fără a îngheța.",
-                "en": "The sunset is especially colorful in winter; bring a thermos of hot tea to enjoy the view without getting too cold."
+                "en": "The sunset is especially colorful in winter; bring a thermos of hot tea to enjoy the view without getting too cold.",
+                "fr": "Le coucher de soleil est particulièrement coloré en hiver ; apportez une thermos de thé chaud pour profiter de la vue sans avoir trop froid."
               }
             }
           ]
@@ -314,7 +347,8 @@
             "de": "Phare du Grouin du Cou",
             "hu": "Phare du Grouin du Cou",
             "ro": "Phare du Grouin du Cou",
-            "en": "Phare du Grouin du Cou"
+            "en": "Phare du Grouin du Cou",
+            "fr": "Phare du Grouin du Cou"
           },
           "coords": [
             -1.463628,
@@ -329,7 +363,8 @@
             "de": "Genießen Sie atemberaubende Panoramablicke vom Fuß dieses historischen Leuchtturms, den Sie idealerweise bei Ebbe besuchen, um die Felsen zu erkunden.",
             "hu": "Örökítse meg a lenyűgöző panorámát a történelmi világítótorony lábától, amelyet ideális apálykor meglátogatni, hogy felfedezze a környező sziklákat.",
             "ro": "Surprindeți vederi panoramice uimitoare de la baza acestui far istoric, vizitând ideal la mareea joasă pentru a explora stâncile înconjurătoare.",
-            "en": "Capture stunning panoramic ocean views from the base of this historic lighthouse, ideally visiting when the tide is low to explore the surrounding rocks."
+            "en": "Capture stunning panoramic ocean views from the base of this historic lighthouse, ideally visiting when the tide is low to explore the surrounding rocks.",
+            "fr": "Capturez de superbes vues panoramiques sur l’océan depuis la base de ce phare historique, en privilégiant une visite à marée basse pour explorer les rochers environnants."
           }
         },
         {
@@ -337,7 +372,8 @@
             "de": "Le Phare",
             "hu": "Le Phare",
             "ro": "Le Phare",
-            "en": "Le Phare"
+            "en": "Le Phare",
+            "fr": "Le Phare"
           },
           "coords": [
             -1.46526,
@@ -352,7 +388,8 @@
             "de": "Genießen Sie die malerischen Freizeitflächen rund um den Leuchtturm und packen Sie ein kleines Picknick ein, um die maritime Atmosphäre zu kosten.",
             "hu": "Élvezze a világítótornyot körülvevő festői rekreációs területet, és vigyen magával egy kis pikniket, hogy kiélvezze a sós levegőt és a tengeri hangulatot.",
             "ro": "Bucurați-vă de zonele de agrement pitorești din jurul farului, pregătind un mic picnic pentru a savura aerul sărat și atmosfera maritimă dramatică.",
-            "en": "Enjoy the scenic recreational grounds surrounding the lighthouse, packing a small picnic to savor the salty air and dramatic maritime atmosphere."
+            "en": "Enjoy the scenic recreational grounds surrounding the lighthouse, packing a small picnic to savor the salty air and dramatic maritime atmosphere.",
+            "fr": "Profitez des espaces récréatifs autour du phare en emportant un petit pique-nique pour savourer l’air salé et l’atmosphère maritime dramatique."
           }
         },
         {
@@ -360,7 +397,8 @@
             "de": "Saint-Nicolas",
             "hu": "Saint-Nicolas",
             "ro": "Saint-Nicolas",
-            "en": "Saint-Nicolas"
+            "en": "Saint-Nicolas",
+            "fr": "Saint-Nicolas"
           },
           "coords": [
             -1.438055,
@@ -375,7 +413,8 @@
             "de": "Bewundern Sie die charmante Architektur dieser zentralen Kirche, ein ruhiger spiritueller Ort, wo frühe Besuche schönes Licht für Fotos bieten.",
             "hu": "Csodálja meg a központi templom bájos építészetét, amely egy csendes spirituális menedék, ahol a kora reggeli látogatások gyönyörű fényeket kínálnak.",
             "ro": "Admirați arhitectura fermecătoare a acestei biserici centrale, un refugiu spiritual liniștit unde vizitele matinale oferă o lumină minunată.",
-            "en": "Admire the charming architecture of this central church, a quiet spiritual haven where early morning visits offer beautiful light for photography."
+            "en": "Admire the charming architecture of this central church, a quiet spiritual haven where early morning visits offer beautiful light for photography.",
+            "fr": "Admirez l’architecture charmante de cette église centrale, un havre spirituel tranquille où les visites tôt le matin offrent une belle lumière pour la photographie."
           }
         },
         {
@@ -383,7 +422,8 @@
             "de": "Grande Plage",
             "hu": "Grande Plage",
             "ro": "Grande Plage",
-            "en": "Grande Plage"
+            "en": "Grande Plage",
+            "fr": "Grande Plage"
           },
           "coords": [
             -1.433751,
@@ -398,7 +438,8 @@
             "de": "Entspannen Sie am goldenen Sand des Hauptstrandes der Stadt und kommen Sie früh, um einen guten Platz zu sichern, bevor die Menschenmengen eintreffen.",
             "hu": "Pihenjen a város fő strandjának aranyhomokján, és érkezzen korán, hogy jó helyet biztosítson magának, mielőtt a déli napfény előcsalogatja a tömeget.",
             "ro": "Relaxați-vă pe nisipul auriu al plajei principale, sosind devreme pentru a vă asigura un loc bun înainte ca soarele amiezii să aducă mulțimile.",
-            "en": "Relax on the golden sands of the town's main beach, arriving early to secure a good spot before the mid-day sun brings the lively crowds."
+            "en": "Relax on the golden sands of the town's main beach, arriving early to secure a good spot before the mid-day sun brings the lively crowds.",
+            "fr": "Détendez-vous sur les sables dorés de la plage principale de la ville, arrivez tôt pour vous assurer une bonne place avant que le soleil de midi n’attire la foule animée."
           }
         },
         {
@@ -406,7 +447,8 @@
             "de": "Chapelle de la Grière-Plage",
             "hu": "Chapelle de la Grière-Plage",
             "ro": "Chapelle de la Grière-Plage",
-            "en": "Chapelle de la Grière-Plage"
+            "en": "Chapelle de la Grière-Plage",
+            "fr": "Chapelle de la Grière-Plage"
           },
           "coords": [
             -1.409476,
@@ -421,7 +463,8 @@
             "de": "Halten Sie für einen Moment der Besinnung an dieser bescheidenen Strandkapelle, einem versteckten Juwel, das sich zwischen den Pinienbäumen verbirgt.",
             "hu": "Tartson egy pillanatnyi elmélkedést ezen a szerény tengerparti kápolnánál, amely egy fenyőfák között megbúvó, jellegzetes regionális bájt sugárzó rejtett gyöngyszem.",
             "ro": "Faceți o pauză de reflecție la această capelă modestă de la malul mării, o bijuterie ascunsă fermecătoare, cuibărită printre pini.",
-            "en": "Pause for a moment of reflection at this modest seaside chapel, a charming hidden gem nestled amongst the pine trees with distinct regional charm."
+            "en": "Pause for a moment of reflection at this modest seaside chapel, a charming hidden gem nestled amongst the pine trees with distinct regional charm.",
+            "fr": "Faites une pause pour réfléchir dans cette modeste chapelle en bord de mer, un charmant trésor caché niché parmi les pins avec son caractère régional distinct."
           }
         },
         {
@@ -429,7 +472,8 @@
             "de": "Plage de l'Atlantique",
             "hu": "Plage de l'Atlantique",
             "ro": "Plage de l'Atlantique",
-            "en": "Plage de l'Atlantique"
+            "en": "Plage de l'Atlantique",
+            "fr": "Plage de l'Atlantique"
           },
           "coords": [
             -1.410354,
@@ -444,7 +488,8 @@
             "de": "Erleben Sie die rohe Kraft des Atlantiks an diesem dynamischen Küstenabschnitt, perfekt für einen belebenden Nachmittagsspaziergang an den Wellen.",
             "hu": "Tapasztalja meg az Atlanti-óceán nyers erejét ezen a dinamikus partvidéken, amely tökéletes egy frissítő késő délutáni sétához a hullámok mentén.",
             "ro": "Experimentați puterea brută a Atlanticului pe această coastă dinamică, perfectă pentru o plimbare revigorantă de după-amiază târziu de-a lungul valurilor.",
-            "en": "Experience the raw power of the Atlantic at this dynamic stretch of coastline, perfect for an invigorating late-afternoon stroll along the crashing waves."
+            "en": "Experience the raw power of the Atlantic at this dynamic stretch of coastline, perfect for an invigorating late-afternoon stroll along the crashing waves.",
+            "fr": "Ressentez la force brute de l’Atlantique sur cette côte dynamique, parfaite pour une promenade vivifiante en fin d’après‑midi le long des vagues déferlantes."
           }
         }
       ],
@@ -452,7 +497,8 @@
         "de": "Radeln Sie an den westlichen Rand zum Wahrzeichen Phare du Grouin du Cou. Die frische Meeresluft rund um den Leuchtturm sorgt für einen belebenden Start in Ihre Tour.\n\nFahren Sie zurück ins Zentrum, um die Kirche Saint-Nicolas zu bewundern, und radeln Sie dann hinunter zur Grande Plage für eine wohlverdiente Pause an der lebhaften Küste.\n\nFolgen Sie den Küstenwegen nach Osten zur bezaubernden Chapelle de la Grière-Plage, einem wunderbaren Ort zwischen Pinien, der sich für eine ruhige Pause anbietet.\n\nBeenden Sie Ihr Fahrradabenteuer am Plage de l'Atlantique. Die brechenden Wellen und die weite Aussicht bieten eine spektakuläre Kulisse, während der Tag sich dem Ende neigt.",
         "hu": "Tekerjen ki a nyugati peremre, hogy megnézze az ikonikus Phare du Grouin du Cou világítótornyot. A friss óceáni levegő élénkítő alaphangot ad a kerékpártúrának.\n\nKerékpározzon vissza a város szívébe, csodálja meg a Saint-Nicolas templomot, majd guruljon le a Grande Plage-ra egy megérdemelt pihenőre a nyüzsgő főparton.\n\nNavigáljon a part menti utakon kelet felé a bájos Chapelle de la Grière-Plage-hoz. Ez a fenyők között megbúvó csodás hely tökéletes egy kis békés kikapcsolódáshoz.\n\nFejezze be kerékpáros kalandját a Plage de l'Atlantique-on. A becsapódó hullámok és a tágas kilátás látványos, drámai hátteret biztosít a nap lezárásához.",
         "ro": "Pedalați până la marginea vestică pentru a vedea faimosul Phare du Grouin du Cou. Aerul proaspăt al oceanului din jurul farului oferă un ton revigorant pentru plimbare.\n\nÎntoarceți-vă în inima orașului pentru a admira biserica Saint-Nicolas, apoi coborâți la Grande Plage pentru o pauză bine meritată de-a lungul coastei principale.\n\nNavigați pe potecile de coastă spre est până la fermecătoarea Chapelle de la Grière-Plage, un loc minunat, cuibărit lângă pini, unde vă puteți bucura de liniște.\n\nTerminați aventura cu bicicleta la Plage de l'Atlantique. Valurile care se sparg și vederile expansive oferă un decor spectaculos pe măsură ce ziua se apropie de sfârșit.",
-        "en": "Pedal out to the western edge to see the iconic Phare du Grouin du Cou. The fresh ocean air around the lighthouse area sets a brisk and invigorating tone for your ride.\n\nCycle back into the heart of town to admire Saint-Nicolas church, then ride down to Grande Plage for a well-deserved break along the vibrant main shoreline.\n\nNavigate the coastal paths eastward towards the charming Chapelle de la Grière-Plage, a wonderful spot nestled near the pines where you can enjoy some peaceful downtime.\n\nFinish your cycling adventure at Plage de l'Atlantique. The crashing waves and expansive views provide a spectacular and dramatic setting as your day winds to a close."
+        "en": "Pedal out to the western edge to see the iconic Phare du Grouin du Cou. The fresh ocean air around the lighthouse area sets a brisk and invigorating tone for your ride.\n\nCycle back into the heart of town to admire Saint-Nicolas church, then ride down to Grande Plage for a well-deserved break along the vibrant main shoreline.\n\nNavigate the coastal paths eastward towards the charming Chapelle de la Grière-Plage, a wonderful spot nestled near the pines where you can enjoy some peaceful downtime.\n\nFinish your cycling adventure at Plage de l'Atlantique. The crashing waves and expansive views provide a spectacular and dramatic setting as your day winds to a close.",
+        "fr": "Pédalez jusqu’au bord occidental pour voir l’emblématique Phare du Grouin du Cou. L’air frais de l’océan autour du phare donne un ton vif et stimulant à votre sortie.\n\nRetournez à vélo au cœur de la ville pour admirer l’église Saint‑Nicolas, puis descendez jusqu’à la Grande Plage pour une pause bien méritée le long du rivage principal animé.\n\nSuivez les chemins côtiers vers l’est en direction de la charmante Chapelle de la Grière‑Plage, un endroit merveilleux niché près des pins où vous pourrez profiter d’un moment de tranquillité.\n\nTerminez votre aventure à vélo à la Plage de l’Atlantique. Les vagues déferlantes et les vues vastes offrent un décor spectaculaire et dramatique pour clore la journée."
       },
       "variants": {
         "rainy": {
@@ -460,7 +506,8 @@
             "de": "Der Tag beginnt am Leuchtturm Grouin du Cou, wo der Regen das Meer peitscht. Mittags radeln wir vorsichtig auf nassen Wegen zur Saint-Nicolas-Kirche für eine trockene Pause. Am Nachmittag führt die Route entlang der Küste, während wir den Schutz unserer Regenbekleidung schätzen. Abends beenden wir die Tour an der Chapelle de la Grière-Plage, bevor die Dämmerung im Regen versinkt.",
             "hu": "A nap a Grouin du Cou világítótoronynál indul, ahol az eső mossa a sziklákat. Délben óvatosan tekerünk a vizes utakon a Saint-Nicolas templomig egy száraz pihenőre. Délután a part mentén haladunk, értékelve a jó esőkabát védelmét a szélben. Este a Chapelle de la Grière-Plage-nél fejezzük be a túrát, mielőtt az esős szürkület teljesen leszállna a városra.",
             "ro": "Ziua începe la farul Grouin du Cou, unde ploaia biciuiește marea. La prânz, pedalăm cu grijă pe drumurile ude spre biserica Saint-Nicolas pentru o pauză uscată. După-amiaza, traseul continuă de-a lungul coastei, apreciind protecția hainelor de ploaie. Seara, încheiem turul la Chapelle de la Grière-Plage, înainte ca amurgul ploios să se lase peste oraș.",
-            "en": "The day starts at the Grouin du Cou lighthouse, where rain lashes against the rocks. At noon, we cycle carefully on wet paths to Saint-Nicolas church for a dry break. In the afternoon, the route continues along the coast, appreciating the protection of our rain gear. By evening, we finish the tour at Chapelle de la Grière-Plage before the rainy twilight sets in."
+            "en": "The day starts at the Grouin du Cou lighthouse, where rain lashes against the rocks. At noon, we cycle carefully on wet paths to Saint-Nicolas church for a dry break. In the afternoon, the route continues along the coast, appreciating the protection of our rain gear. By evening, we finish the tour at Chapelle de la Grière-Plage before the rainy twilight sets in.",
+            "fr": "La journée commence au phare du Grouin du Cou, où la pluie frappe les rochers. À midi, nous roulons prudemment sur des sentiers mouillés jusqu’à l’église Saint‑Nicolas pour une pause au sec. L’après‑midi, l’itinéraire longe la côte, appréciant la protection de nos vêtements de pluie. Le soir, nous terminons la visite à la Chapelle de la Grière‑Plage avant que le crépuscule pluvieux ne s’installe."
           },
           "stops": [
             {
@@ -468,13 +515,15 @@
                 "de": "Phare du Grouin du Cou",
                 "hu": "Phare du Grouin du Cou",
                 "ro": "Phare du Grouin du Cou",
-                "en": "Phare du Grouin du Cou"
+                "en": "Phare du Grouin du Cou",
+                "fr": "Phare du Grouin du Cou"
               },
               "tip_5lang": {
                 "de": "Der Wind am Leuchtturm kann bei Regen stark sein; stellen Sie sicher, dass Ihr Fahrrad sicher steht, damit es nicht vom Wind umgeweht wird.",
                 "hu": "A világítótoronynál erős lehet a szél esőben; ügyeljen rá, hogy a biciklit stabilan támassza le, nehogy a szél felborítsa a vizes talajon.",
                 "ro": "Vântul la far poate fi puternic în timpul ploii; asigurați-vă că bicicleta este parcată stabil pentru a nu fi răsturnată de rafale.",
-                "en": "The wind at the lighthouse can be strong in the rain; make sure your bike is parked securely so it doesn't get blown over."
+                "en": "The wind at the lighthouse can be strong in the rain; make sure your bike is parked securely so it doesn't get blown over.",
+                "fr": "Le vent au phare peut être fort sous la pluie ; assurez‑vous que votre vélo est bien garé pour qu’il ne se renverse pas."
               }
             },
             {
@@ -482,13 +531,15 @@
                 "de": "Le Phare",
                 "hu": "Le Phare",
                 "ro": "Le Phare",
-                "en": "Le Phare"
+                "en": "Le Phare",
+                "fr": "Le Phare"
               },
               "tip_5lang": {
                 "de": "Die Radwege hier können bei Nässe mit Kiefernnadeln bedeckt und rutschig sein; fahren Sie in den Kurven besonders vorsichtig und langsam.",
                 "hu": "A kerékpárutakat ilyenkor csúszós fenyőtűk boríthatják; a kanyarokban haladjon különösen óvatosan és lassabban a balesetek elkerülésére.",
                 "ro": "Pistele de biciclete pot fi acoperite cu ace de pin umede și alunecoase; conduceți cu prudență sporită și viteză redusă în curbe.",
-                "en": "The bike paths here can be covered with wet pine needles and become slippery; ride extra carefully and slowly through the curves."
+                "en": "The bike paths here can be covered with wet pine needles and become slippery; ride extra carefully and slowly through the curves.",
+                "fr": "Les pistes cyclables peuvent être couvertes d’aiguilles de pin mouillées et devenir glissantes ; roulez avec encore plus de prudence et lentement dans les virages."
               }
             },
             {
@@ -496,13 +547,15 @@
                 "de": "Saint-Nicolas",
                 "hu": "Saint-Nicolas",
                 "ro": "Saint-Nicolas",
-                "en": "Saint-Nicolas"
+                "en": "Saint-Nicolas",
+                "fr": "Saint-Nicolas"
               },
               "tip_5lang": {
                 "de": "Nutzen Sie den überdachten Eingangsbereich, um Ihre Regenkleidung kurz zu richten, bevor Sie die spirituelle Ruhe im Inneren genießen.",
                 "hu": "Használja ki a fedett bejárati részt az esőruházat megigazítására, mielőtt belépne élvezni a belső tér spirituális nyugalmát.",
                 "ro": "Folosiți zona de intrare acoperită pentru a vă ajusta hainele de ploaie înainte de a vă bucura de liniștea spirituală din interior.",
-                "en": "Use the covered entrance area to adjust your rain gear briefly before entering to enjoy the spiritual peace inside."
+                "en": "Use the covered entrance area to adjust your rain gear briefly before entering to enjoy the spiritual peace inside.",
+                "fr": "Utilisez l’abri à l’entrée pour ajuster brièvement votre équipement de pluie avant d’entrer et profiter de la paix spirituelle à l’intérieur."
               }
             },
             {
@@ -510,13 +563,15 @@
                 "de": "Grande Plage",
                 "hu": "Grande Plage",
                 "ro": "Grande Plage",
-                "en": "Grande Plage"
+                "en": "Grande Plage",
+                "fr": "Grande Plage"
               },
               "tip_5lang": {
                 "de": "Die Sicht auf das Meer ist bei Regen besonders atmosphärisch; halten Sie kurz an der Promenade an, aber meiden Sie sandige, nasse Flächen.",
                 "hu": "A kilátás az óceánra esőben különösen hangulatos; álljon meg egy pillanatra a sétánynál, de kerülje a homokos, vizes felületeket.",
                 "ro": "Vederea spre mare este foarte atmosferică pe ploaie; opriți-vă scurt pe promenadă, dar evitați suprafețele nisipoase și ude.",
-                "en": "The view of the sea is very atmospheric in the rain; stop briefly on the promenade, but avoid sandy and wet surfaces."
+                "en": "The view of the sea is very atmospheric in the rain; stop briefly on the promenade, but avoid sandy and wet surfaces.",
+                "fr": "La vue sur la mer est très atmosphérique sous la pluie ; arrêtez‑vous brièvement sur la promenade, mais évitez les surfaces sableuses et mouillées."
               }
             },
             {
@@ -524,13 +579,15 @@
                 "de": "Chapelle de la Grière-Plage",
                 "hu": "Chapelle de la Grière-Plage",
                 "ro": "Chapelle de la Grière-Plage",
-                "en": "Chapelle de la Grière-Plage"
+                "en": "Chapelle de la Grière-Plage",
+                "fr": "Chapelle de la Grière-Plage"
               },
               "tip_5lang": {
                 "de": "Diese kleine Kapelle ist ein perfekter letzter Halt, um im Trockenen zu verweilen, während draußen der Regen die Küste in Nebel hüllt.",
                 "hu": "Ez a kis kápolna tökéletes utolsó megálló, hogy szárazon pihenjen meg, miközben kint az eső ködbe burkolja a partvonalat.",
                 "ro": "Această mică capelă este un ultim popas perfect pentru a sta la uscat, în timp ce afară ploaia învăluie coasta în ceață.",
-                "en": "This small chapel is a perfect final stop to stay dry while outside the rain blankets the coastline in a misty haze."
+                "en": "This small chapel is a perfect final stop to stay dry while outside the rain blankets the coastline in a misty haze.",
+                "fr": "Cette petite chapelle est un arrêt final parfait pour rester au sec pendant que la pluie enveloppe la côte d’un léger brouillard."
               }
             },
             {
@@ -538,13 +595,15 @@
                 "de": "Plage de l'Atlantique",
                 "hu": "Plage de l'Atlantique",
                 "ro": "Plage de l'Atlantique",
-                "en": "Plage de l'Atlantique"
+                "en": "Plage de l'Atlantique",
+                "fr": "Plage de l'Atlantique"
               },
               "tip_5lang": {
                 "de": "Der Strand wirkt bei Regen fast mystisch; prüfen Sie vor der Rückfahrt Ihre Bremsen, da nasse Felgen einen längeren Bremsweg haben.",
                 "hu": "A strand esőben szinte misztikus látvány; indulás előtt ellenőrizze a fékeket, mert a vizes felniken hosszabb a féktávolság.",
                 "ro": "Plaja pare aproape mistică pe ploaie; verificați frânele înainte de plecare, deoarece jantele ude măresc distanța de frânare.",
-                "en": "The beach looks almost mystical in the rain; check your brakes before heading back, as wet rims require a longer braking distance."
+                "en": "The beach looks almost mystical in the rain; check your brakes before heading back, as wet rims require a longer braking distance.",
+                "fr": "La plage paraît presque mystique sous la pluie ; vérifiez vos freins avant le retour, car les jantes humides allongent la distance de freinage."
               }
             }
           ]
@@ -554,7 +613,8 @@
             "de": "Ein klarer Wintermorgen am Leuchtturm erfordert warme Handschuhe auf dem Fahrrad. Mittags genießen wir die ruhige Fahrt durch den Ort zur Saint-Nicolas-Kirche. Am Nachmittag radeln wir an den weiten Stränden entlang, während die tiefstehende Sonne lange Schatten wirft. Da es um 17:00 Uhr dunkel wird, planen wir unsere Rückkehr rechtzeitig, um die Kälte des Abends zu vermeiden.",
             "hu": "A tiszta téli reggel a világítótoronynál meleg kesztyűt követel a biciklin. Napközben élvezzük a csendes tekerést a falun keresztül a Saint-Nicolas templomig. Délután a tágas strandok mentén haladunk, miközben az alacsony nap hosszú árnyékokat vet. Mivel 17:00-kor sötétedik, időben tervezzük a visszautat a hűvös este elől.",
             "ro": "O dimineață senină de iarnă la far necesită mănuși groase pe bicicletă. La prânz, ne bucurăm de o plimbare liniștită prin sat spre biserica Saint-Nicolas. După-amiaza, pedalăm de-a lungul plajelor vaste, în timp ce soarele jos lasă umbre lungi. Deoarece se întunecă la ora 17:00, planificăm revenirea din timp pentru a evita frigul serii.",
-            "en": "A clear winter morning at the lighthouse requires warm gloves on the bike. At noon, we enjoy a quiet ride through the village to Saint-Nicolas church. In the afternoon, we cycle along the vast beaches as the low sun casts long shadows. Since it gets dark at 5 PM, we plan our return in time to avoid the evening chill."
+            "en": "A clear winter morning at the lighthouse requires warm gloves on the bike. At noon, we enjoy a quiet ride through the village to Saint-Nicolas church. In the afternoon, we cycle along the vast beaches as the low sun casts long shadows. Since it gets dark at 5 PM, we plan our return in time to avoid the evening chill.",
+            "fr": "Un matin d’hiver clair au phare nécessite des gants chauds pour le vélo. À midi, nous profitons d’une balade tranquille dans le village jusqu’à l’église Saint‑Nicolas. L’après‑midi, nous roulons le long des vastes plages alors que le soleil bas projette de longues ombres. Comme il fait nuit à 17 h, nous prévoyons notre retour à temps pour éviter la fraîcheur du soir."
           },
           "stops": [
             {
@@ -562,13 +622,15 @@
                 "de": "Phare du Grouin du Cou",
                 "hu": "Phare du Grouin du Cou",
                 "ro": "Phare du Grouin du Cou",
-                "en": "Phare du Grouin du Cou"
+                "en": "Phare du Grouin du Cou",
+                "fr": "Phare du Grouin du Cou"
               },
               "tip_5lang": {
                 "de": "Die Meeresbrise ist im Winter sehr beißend; tragen Sie einen winddichten Schal, um Hals und Gesicht während der Fahrt zu schützen.",
                 "hu": "A tengeri szellő télen nagyon metsző lehet; viseljen szélálló sálat, hogy védje az arcát és a nyakát a kerékpározás közben.",
                 "ro": "Briza mării este foarte tăioasă iarna; purtați un fular rezistent la vânt pentru a vă proteja gâtul și fața în timpul mersului.",
-                "en": "The sea breeze is very biting in winter; wear a windproof scarf to protect your neck and face while cycling near the shore."
+                "en": "The sea breeze is very biting in winter; wear a windproof scarf to protect your neck and face while cycling near the shore.",
+                "fr": "La brise marine est très mordante en hiver ; portez un tour de cou coupe‑vent pour protéger votre nuque et votre visage pendant que vous roulez près du rivage."
               }
             },
             {
@@ -576,13 +638,15 @@
                 "de": "Le Phare",
                 "hu": "Le Phare",
                 "ro": "Le Phare",
-                "en": "Le Phare"
+                "en": "Le Phare",
+                "fr": "Le Phare"
               },
               "tip_5lang": {
                 "de": "Die Wege sind im Winter herrlich leer; nutzen Sie die Ruhe für ein entspanntes Tempo, um nicht durch den kalten Fahrtwind zu sehr auszukühlen.",
                 "hu": "Az utak télen csodálatosan üresek; használja ki a nyugalmat egy kényelmes tempóhoz, hogy a menetszél ne hűtse le túlságosan a testét.",
                 "ro": "Drumurile sunt minunat de goale iarna; profitați de liniște pentru un ritm relaxat, astfel încât curentul de aer rece să nu vă răcească prea tare.",
-                "en": "The paths are wonderfully empty in winter; use the peace for a relaxed pace so the cold wind doesn't chill you down too much."
+                "en": "The paths are wonderfully empty in winter; use the peace for a relaxed pace so the cold wind doesn't chill you down too much.",
+                "fr": "Les chemins sont merveilleusement déserts en hiver ; profitez du calme pour adopter un rythme détendu afin que le vent froid ne vous transperce pas trop."
               }
             },
             {
@@ -590,13 +654,15 @@
                 "de": "Saint-Nicolas",
                 "hu": "Saint-Nicolas",
                 "ro": "Saint-Nicolas",
-                "en": "Saint-Nicolas"
+                "en": "Saint-Nicolas",
+                "fr": "Saint-Nicolas"
               },
               "tip_5lang": {
                 "de": "Ein kurzer Stopp in der Kirche hilft, die Hände aufzuwärmen; die Stille hier spiegelt die friedliche Winteratmosphäre des Ortes wider.",
                 "hu": "Egy rövid megálló a templomban segít felmelegíteni a kezeket; az itteni csend tökéletesen tükrözi a falu békés téli hangulatát.",
                 "ro": "O scurtă oprire în biserică ajută la încălzirea mâinilor; liniștea de aici reflectă atmosfera pașnică de iarnă a localității.",
-                "en": "A short stop in the church helps warm up your hands; the silence here perfectly reflects the peaceful winter atmosphere of the village."
+                "en": "A short stop in the church helps warm up your hands; the silence here perfectly reflects the peaceful winter atmosphere of the village.",
+                "fr": "Un court arrêt dans l’église aide à réchauffer vos mains ; le silence reflète parfaitement l’atmosphère paisible de l’hiver au village."
               }
             },
             {
@@ -604,13 +670,15 @@
                 "de": "Grande Plage",
                 "hu": "Grande Plage",
                 "ro": "Grande Plage",
-                "en": "Grande Plage"
+                "en": "Grande Plage",
+                "fr": "Grande Plage"
               },
               "tip_5lang": {
                 "de": "Das Licht auf dem Wasser ist im Winter magisch; machen Sie Ihre Fotos schnell, bevor die Finger bei der Kälte steif werden.",
                 "hu": "A vízen megcsillanó fény télen varázslatos; készítse el gyorsan a fotókat, mielőtt az ujjai elgémberednének a csípős hidegben.",
                 "ro": "Lumina pe apă este magică iarna; faceți fotografiile rapid înainte ca degetele să vă înghețe în aerul tăios de coastă.",
-                "en": "The light on the water is magical in winter; take your photos quickly before your fingers get stiff in the biting coastal cold."
+                "en": "The light on the water is magical in winter; take your photos quickly before your fingers get stiff in the biting coastal cold.",
+                "fr": "La lumière sur l’eau est magique en hiver ; prenez vos photos rapidement avant que vos doigts ne s’engourdissent dans le froid piquant de la côte."
               }
             },
             {
@@ -618,13 +686,15 @@
                 "de": "Chapelle de la Grière-Plage",
                 "hu": "Chapelle de la Grière-Plage",
                 "ro": "Chapelle de la Grière-Plage",
-                "en": "Chapelle de la Grière-Plage"
+                "en": "Chapelle de la Grière-Plage",
+                "fr": "Chapelle de la Grière-Plage"
               },
               "tip_5lang": {
                 "de": "Die Kapelle bietet eine gemütliche Pause; stellen Sie sicher, dass Ihre Fahrradbeleuchtung für den frühen Sonnenuntergang um 17 Uhr bereit ist.",
                 "hu": "A kápolna meghitt pihenőt nyújt; ellenőrizze, hogy a kerékpár lámpái működnek-e a korai, 5 órai naplemente előtt.",
                 "ro": "Capela oferă o pauză primitoare; asigurați-vă că luminile bicicletei sunt gata pentru apusul devreme de la ora 17.",
-                "en": "The chapel offers a cozy break; make sure your bike lights are ready for the early sunset at 5 PM."
+                "en": "The chapel offers a cozy break; make sure your bike lights are ready for the early sunset at 5 PM.",
+                "fr": "La chapelle offre une pause chaleureuse ; assurez‑vous que vos lumières de vélo sont prêtes pour le coucher du soleil précoce à 17 h."
               }
             },
             {
@@ -632,13 +702,15 @@
                 "de": "Plage de l'Atlantique",
                 "hu": "Plage de l'Atlantique",
                 "ro": "Plage de l'Atlantique",
-                "en": "Plage de l'Atlantique"
+                "en": "Plage de l'Atlantique",
+                "fr": "Plage de l'Atlantique"
               },
               "tip_5lang": {
                 "de": "Beenden Sie Ihren Besuch hier rechtzeitig; sobald die Sonne sinkt, fällt die Temperatur an der Küste sehr schnell ab.",
                 "hu": "Időben fejezze be az itteni látogatást; amint a nap lebukik a horizonton, a hőmérséklet nagyon gyorsan visszaesik a parton.",
                 "ro": "Încheiați vizita aici la timp; imediat ce soarele apune, temperatura pe coastă scade foarte rapid.",
-                "en": "Finish your visit here in time; as soon as the sun goes down, the temperature on the coast drops very rapidly."
+                "en": "Finish your visit here in time; as soon as the sun goes down, the temperature on the coast drops very rapidly.",
+                "fr": "Terminez votre visite ici à temps ; dès que le soleil se couche, la température sur la côte baisse très rapidement."
               }
             }
           ]
@@ -658,7 +730,8 @@
             "de": "Chapelle de la Terrière",
             "hu": "Chapelle de la Terrière",
             "ro": "Chapelle de la Terrière",
-            "en": "Chapelle de la Terrière"
+            "en": "Chapelle de la Terrière",
+            "fr": "Chapelle de la Terrière"
           },
           "coords": [
             -1.455735,
@@ -673,7 +746,8 @@
             "de": "Beginnen Sie Ihre Reise an dieser historischen Nordkapelle, beachten Sie die traditionelle Architektur und genießen Sie das friedliche ländliche Ambiente.",
             "hu": "Kezdje utazását ennél az északi kápolnánál, figyelje meg hagyományos építészetét, és élvezze a békés vidéki hangulatot, mielőtt a partra indulna.",
             "ro": "Începeți călătoria la această capelă istorică nordică, observând arhitectura sa tradițională și bucurându-vă de ambianța rurală pașnică.",
-            "en": "Start your journey at this historic northern chapel, noting its traditional architecture and enjoying the peaceful rural ambiance before heading to the coast."
+            "en": "Start your journey at this historic northern chapel, noting its traditional architecture and enjoying the peaceful rural ambiance before heading to the coast.",
+            "fr": "Commencez votre parcours à cette chapelle historique du nord, en notant son architecture traditionnelle et en profitant de l’ambiance rurale paisible avant de vous diriger vers la côte."
           }
         },
         {
@@ -681,7 +755,8 @@
             "de": "Phare du Grouin du Cou",
             "hu": "Phare du Grouin du Cou",
             "ro": "Phare du Grouin du Cou",
-            "en": "Phare du Grouin du Cou"
+            "en": "Phare du Grouin du Cou",
+            "fr": "Phare du Grouin du Cou"
           },
           "coords": [
             -1.463628,
@@ -696,7 +771,8 @@
             "de": "Genießen Sie atemberaubende Panoramablicke vom Fuß dieses historischen Leuchtturms, den Sie idealerweise bei Ebbe besuchen, um die Felsen zu erkunden.",
             "hu": "Örökítse meg a lenyűgöző panorámát a történelmi világítótorony lábától, amelyet ideális apálykor meglátogatni, hogy felfedezze a környező sziklákat.",
             "ro": "Surprindeți vederi panoramice uimitoare de la baza acestui far istoric, vizitând ideal la mareea joasă pentru a explora stâncile înconjurătoare.",
-            "en": "Capture stunning panoramic ocean views from the base of this historic lighthouse, ideally visiting when the tide is low to explore the surrounding rocks."
+            "en": "Capture stunning panoramic ocean views from the base of this historic lighthouse, ideally visiting when the tide is low to explore the surrounding rocks.",
+            "fr": "Capturez de superbes vues panoramiques sur l’océan depuis la base de ce phare historique, en privilégiant une visite à marée basse pour explorer les rochers environnants."
           }
         },
         {
@@ -704,7 +780,8 @@
             "de": "Pôle Culturel Les Floralies",
             "hu": "Pôle Culturel Les Floralies",
             "ro": "Pôle Culturel Les Floralies",
-            "en": "Pôle Culturel Les Floralies"
+            "en": "Pôle Culturel Les Floralies",
+            "fr": "Pôle Culturel Les Floralies"
           },
           "coords": [
             -1.44898,
@@ -719,7 +796,8 @@
             "de": "Erkunden Sie lokale Kulturveranstaltungen und Ausstellungen an diesem lebendigen Treffpunkt, und prüfen Sie vorab das Programm für besondere Aufführungen.",
             "hu": "Fedezze fel a helyi kulturális eseményeket és kiállításokat ebben a nyüzsgő közösségi térben, de előtte mindenképp ellenőrizze az előadások menetrendjét.",
             "ro": "Explorați evenimentele culturale și expozițiile locale la acest centru comunitar vibrant, asigurându-vă că verificați programul pentru spectacole speciale.",
-            "en": "Explore local cultural events and exhibitions at this vibrant community hub, making sure to check their schedule beforehand for special performances."
+            "en": "Explore local cultural events and exhibitions at this vibrant community hub, making sure to check their schedule beforehand for special performances.",
+            "fr": "Explorez les événements culturels locaux et les expositions dans ce pôle communautaire dynamique, en vérifiant au préalable leur programme pour les représentations spéciales."
           }
         },
         {
@@ -727,7 +805,8 @@
             "de": "Saint-Nicolas",
             "hu": "Saint-Nicolas",
             "ro": "Saint-Nicolas",
-            "en": "Saint-Nicolas"
+            "en": "Saint-Nicolas",
+            "fr": "Saint-Nicolas"
           },
           "coords": [
             -1.438055,
@@ -742,7 +821,8 @@
             "de": "Bewundern Sie die charmante Architektur dieser zentralen Kirche, ein ruhiger spiritueller Ort, wo frühe Besuche schönes Licht für Fotos bieten.",
             "hu": "Csodálja meg a központi templom bájos építészetét, amely egy csendes spirituális menedék, ahol a kora reggeli látogatások gyönyörű fényeket kínálnak.",
             "ro": "Admirați arhitectura fermecătoare a acestei biserici centrale, un refugiu spiritual liniștit unde vizitele matinale oferă o lumină minunată.",
-            "en": "Admire the charming architecture of this central church, a quiet spiritual haven where early morning visits offer beautiful light for photography."
+            "en": "Admire the charming architecture of this central church, a quiet spiritual haven where early morning visits offer beautiful light for photography.",
+            "fr": "Admirez l’architecture charmante de cette église centrale, un havre spirituel tranquille où les visites tôt le matin offrent une belle lumière pour la photographie."
           }
         },
         {
@@ -750,7 +830,8 @@
             "de": "Chapelle de la Grière-Plage",
             "hu": "Chapelle de la Grière-Plage",
             "ro": "Chapelle de la Grière-Plage",
-            "en": "Chapelle de la Grière-Plage"
+            "en": "Chapelle de la Grière-Plage",
+            "fr": "Chapelle de la Grière-Plage"
           },
           "coords": [
             -1.409476,
@@ -765,7 +846,8 @@
             "de": "Halten Sie für einen Moment der Besinnung an dieser bescheidenen Strandkapelle, einem versteckten Juwel, das sich zwischen den Pinienbäumen verbirgt.",
             "hu": "Tartson egy pillanatnyi elmélkedést ezen a szerény tengerparti kápolnánál, amely egy fenyőfák között megbúvó, jellegzetes regionális bájt sugárzó rejtett gyöngyszem.",
             "ro": "Faceți o pauză de reflecție la această capelă modestă de la malul mării, o bijuterie ascunsă fermecătoare, cuibărită printre pini.",
-            "en": "Pause for a moment of reflection at this modest seaside chapel, a charming hidden gem nestled amongst the pine trees with distinct regional charm."
+            "en": "Pause for a moment of reflection at this modest seaside chapel, a charming hidden gem nestled amongst the pine trees with distinct regional charm.",
+            "fr": "Faites une pause pour réfléchir dans cette modeste chapelle en bord de mer, un charmant trésor caché niché parmi les pins avec son caractère régional distinct."
           }
         },
         {
@@ -773,7 +855,8 @@
             "de": "Plage Clémenceau",
             "hu": "Plage Clémenceau",
             "ro": "Plage Clémenceau",
-            "en": "Plage Clémenceau"
+            "en": "Plage Clémenceau",
+            "fr": "Plage Clémenceau"
           },
           "coords": [
             -1.412703,
@@ -788,7 +871,8 @@
             "de": "Entspannen Sie sich an diesem unberührten und etwas ruhigeren Strand, einer ausgezeichneten Wahl für einen friedlichen Nachmittag oder zum Sandburgenbauen.",
             "hu": "Kapcsolódjon ki ezen az érintetlen és kissé csendesebb strandon, amely kiváló választás egy békés délutáni olvasáshoz vagy homokvár építéshez.",
             "ro": "Relaxați-vă pe această plajă imaculată și mai liniștită, o alegere excelentă pentru o după-amiază pașnică de lectură sau pentru a construi castele de nisip.",
-            "en": "Unwind at this pristine and slightly quieter beach, an excellent choice for a peaceful afternoon reading session or building sandcastles with family."
+            "en": "Unwind at this pristine and slightly quieter beach, an excellent choice for a peaceful afternoon reading session or building sandcastles with family.",
+            "fr": "Détendez‑vous sur cette plage immaculée et un peu plus calme, un excellent choix pour un après‑midi paisible de lecture ou pour construire des châteaux de sable en famille."
           }
         }
       ],
@@ -796,7 +880,8 @@
         "de": "Fahren Sie nach Norden zur traditionellen Chapelle de la Terrière. Danach geht es zum westlichsten Punkt der Stadt, um den beeindruckenden Phare du Grouin du Cou zu betrachten.\n\nParken Sie im Zentrum, um Kunst im Pôle Culturel Les Floralies zu erleben. Ein kurzer Stopp an der zentralen Kirche Saint-Nicolas bietet einen schönen architektonischen Kontrast.\n\nFahren Sie ostwärts zur ruhigen Chapelle de la Grière-Plage. Mit dem Auto können Sie bequem zwischen diesen kulturellen und religiösen Sehenswürdigkeiten wechseln.\n\nBeenden Sie Ihre malerische Fahrt an der Plage Clémenceau. Dieser ruhigere Strandabschnitt ist der perfekte Ort, um abzuschalten und den Abendhimmel über dem Wasser zu beobachten.",
         "hu": "Vezessen kissé északra, hogy meglátogassa a hagyományos Chapelle de la Terrière-t. Ezután irány a város legnyugatibb pontja, hogy megcsodálja a Phare du Grouin du Cou-t.\n\nParkoljon le a központban, és ismerkedjen a helyi művészetekkel a Pôle Culturel Les Floralies-ben. A központi Saint-Nicolas templomnál tett rövid megálló szép kontrasztot nyújt.\n\nVezessen kelet felé a csendes Chapelle de la Grière-Plage-hoz. Az autó kényelme lehetővé teszi, hogy könnyedén ugráljon a kulturális és vallási nevezetességek között.\n\nZárja a festői parti autózást a Plage Clémenceau-nál. Ez a csendesebb homokos rész tökéletes hely a parkolásra, a lazításra és az esti égbolt átalakulásának megfigyelésére.",
         "ro": "Conduceți ușor spre nord pentru a vizita tradiționala Chapelle de la Terrière. Apoi, mergeți la punctul extrem vestic al orașului pentru a privi impresionantul Phare du Grouin du Cou.\n\nParcați în centru pentru a interacționa cu artele locale la Pôle Culturel Les Floralies. O scurtă oprire la biserica centrală Saint-Nicolas oferă un frumos contrast arhitectural.\n\nConduceți spre est până la liniștita Chapelle de la Grière-Plage. Comoditatea unei mașini vă permite să treceți ușor între aceste repere culturale și religioase distincte.\n\nÎncheiați-vă plimbarea la Plage Clémenceau. Această porțiune mai liniștită de nisip este locul perfect pentru a vă relaxa și a privi cerul serii transformându-se deasupra apei.",
-        "en": "Drive slightly north to visit the traditional Chapelle de la Terrière. Afterwards, head to the extreme western point of the town to gaze upon the striking Phare du Grouin du Cou.\n\nPark near the center to engage with local arts at Pôle Culturel Les Floralies. A brief stop at the central Saint-Nicolas church offers a beautiful contrast of local architecture.\n\nDrive eastward to the tranquil Chapelle de la Grière-Plage. The convenience of a car allows you to easily hop between these distinct cultural and religious landmarks.\n\nEnd your scenic coastal drive at Plage Clémenceau. This quieter stretch of sand is the perfect place to park, unwind, and watch the evening sky transform over the water."
+        "en": "Drive slightly north to visit the traditional Chapelle de la Terrière. Afterwards, head to the extreme western point of the town to gaze upon the striking Phare du Grouin du Cou.\n\nPark near the center to engage with local arts at Pôle Culturel Les Floralies. A brief stop at the central Saint-Nicolas church offers a beautiful contrast of local architecture.\n\nDrive eastward to the tranquil Chapelle de la Grière-Plage. The convenience of a car allows you to easily hop between these distinct cultural and religious landmarks.\n\nEnd your scenic coastal drive at Plage Clémenceau. This quieter stretch of sand is the perfect place to park, unwind, and watch the evening sky transform over the water.",
+        "fr": "Conduisez légèrement vers le nord pour visiter la traditionnelle Chapelle de la Terrière. Ensuite, dirigez‑vous vers le point extrême ouest de la ville pour contempler le saisissant Phare du Grouin du Cou.\n\nGarez‑vous près du centre pour profiter des arts locaux au Pôle Culturel Les Floralies. Un arrêt bref à l’église centrale Saint‑Nicolas offre un beau contraste architectural.\n\nConduisez vers l’est jusqu’à la tranquille Chapelle de la Grière‑Plage. La commodité de la voiture vous permet de passer facilement d’un site culturel et religieux à l’autre.\n\nTerminez votre promenade côtière au volant à la Plage Clémenceau. Cette portion de sable plus calme est l’endroit parfait pour se garer, se détendre et regarder le ciel du soir se transformer au‑dessus de l’eau."
       },
       "variants": {
         "rainy": {
@@ -804,7 +889,8 @@
             "de": "Wir beginnen den Tag entspannt an der Chapelle de la Terrière, während der Regen gegen das Autodach trommelt. Mittags besuchen wir das Pôle Culturel Les Floralies, das trockene Unterhaltung und Kultur bietet. Am Nachmittag führt die Fahrt zu verschiedenen Kirchen und Kapellen, die sichere Zufluchtsorte vor den Schauern sind. Abends beobachten wir das Wetterspiel am Plage Clémenceau aus dem Komfort unseres Fahrzeugs.",
             "hu": "A napot a Chapelle de la Terrière-nél kezdjük, miközben az eső kopog az autó tetőjén. Délben a Pôle Culturel Les Floralies kulturális központ felé vesszük az irányt, ahol szárazon élvezhetjük a kiállításokat. Délután a környék kápolnáit látogatjuk végig, amelyek biztos menedéket nyújtanak a záporok elől. Este a Plage Clémenceau-nál az autó kényelméből nézzük a viharos óceán látványát.",
             "ro": "Începem ziua relaxați la Chapelle de la Terrière, în timp ce ploaia bate în plafonul mașinii. La prânz, vizităm Pôle Culturel Les Floralies, care oferă divertisment și cultură la adăpost. După-amiaza, drumul ne poartă spre diverse biserici și capele, refugii sigure împotriva averselor. Seara, observăm spectacolul vremii la Plage Clémenceau din confortul vehiculului nostru.",
-            "en": "We start the day relaxed at Chapelle de la Terrière as rain drums against the car roof. At noon, we head to Pôle Culturel Les Floralies for some dry cultural entertainment. In the afternoon, the drive takes us to various churches and chapels, providing safe havens from the showers. By evening, we watch the stormy ocean at Plage Clémenceau from the comfort of our vehicle."
+            "en": "We start the day relaxed at Chapelle de la Terrière as rain drums against the car roof. At noon, we head to Pôle Culturel Les Floralies for some dry cultural entertainment. In the afternoon, the drive takes us to various churches and chapels, providing safe havens from the showers. By evening, we watch the stormy ocean at Plage Clémenceau from the comfort of our vehicle.",
+            "fr": "Nous commençons la journée détendus à la Chapelle de la Terrière tandis que la pluie tambourine sur le toit de la voiture. À midi, nous nous rendons au Pôle Culturel Les Floralies pour un divertissement culturel à l’abri. L’après‑midi, la balade nous emmène vers différentes églises et chapelles, offrant des refuges sûrs contre les averses. Le soir, nous regardons l’océan orageux depuis la Plage Clémenceau, confortablement installés dans le véhicule."
           },
           "stops": [
             {
@@ -812,13 +898,15 @@
                 "de": "Chapelle de la Terrière",
                 "hu": "Chapelle de la Terrière",
                 "ro": "Chapelle de la Terrière",
-                "en": "Chapelle de la Terrière"
+                "en": "Chapelle de la Terrière",
+                "fr": "Chapelle de la Terrière"
               },
               "tip_5lang": {
                 "de": "Parken Sie so nah wie möglich am Eingang, um nicht nass zu werden; die Kapelle bietet eine wunderbar ruhige Atmosphäre bei Regen.",
                 "hu": "Parkoljon minél közelebb a bejárathoz, hogy elkerülje az elázást; a kápolna csodálatosan nyugodt hangulatot áraszt esős időben.",
                 "ro": "Parcați cât mai aproape de intrare pentru a evita ploaia; capela oferă o atmosferă minunat de liniștită pe timp de ploaie.",
-                "en": "Park as close to the entrance as possible to avoid getting wet; the chapel offers a wonderfully calm atmosphere during the rain."
+                "en": "Park as close to the entrance as possible to avoid getting wet; the chapel offers a wonderfully calm atmosphere during the rain.",
+                "fr": "Garez‑vous le plus près possible de l’entrée pour éviter de vous mouiller ; la chapelle offre une atmosphère merveilleusement calme pendant la pluie."
               }
             },
             {
@@ -826,13 +914,15 @@
                 "de": "Phare du Grouin du Cou",
                 "hu": "Phare du Grouin du Cou",
                 "ro": "Phare du Grouin du Cou",
-                "en": "Phare du Grouin du Cou"
+                "en": "Phare du Grouin du Cou",
+                "fr": "Phare du Grouin du Cou"
               },
               "tip_5lang": {
                 "de": "Genießen Sie den Blick auf den Leuchtturm vom Parkplatz aus, falls der Regen zu stark für einen kurzen Spaziergang zum Aussichtspunkt ist.",
                 "hu": "Élvezze a kilátást a világítótoronyra a parkolóból, ha az eső túl erős lenne egy rövid sétához a kilátópontig.",
                 "ro": "Bucurați-vă de vederea spre far din parcare, în cazul în care ploaia este prea puternică pentru o scurtă plimbare până la punctul de observație.",
-                "en": "Enjoy the view of the lighthouse from the parking lot if the rain is too heavy for a short walk to the viewpoint."
+                "en": "Enjoy the view of the lighthouse from the parking lot if the rain is too heavy for a short walk to the viewpoint.",
+                "fr": "Profitez de la vue sur le phare depuis le parking si la pluie est trop forte pour une courte promenade jusqu’au point de vue."
               }
             },
             {
@@ -840,13 +930,15 @@
                 "de": "Pôle Culturel Les Floralies",
                 "hu": "Pôle Culturel Les Floralies",
                 "ro": "Pôle Culturel Les Floralies",
-                "en": "Pôle Culturel Les Floralies"
+                "en": "Pôle Culturel Les Floralies",
+                "fr": "Pôle Culturel Les Floralies"
               },
               "tip_5lang": {
                 "de": "Nutzen Sie die Parkmöglichkeiten direkt am Zentrum; dies ist der perfekte Ort, um einen regnerischen Vormittag kulturell zu verbringen.",
                 "hu": "Használja a központ melletti parkolót; ez a tökéletes helyszín egy esős délelőtt kulturális eltöltésére, teljesen fedett helyen.",
                 "ro": "Folosiți locurile de parcare de lângă centru; acesta este locul perfect pentru a petrece o dimineață ploioasă într-un mod cultural.",
-                "en": "Use the parking facilities right by the center; this is the perfect place to spend a rainy morning culturally in a fully indoor setting."
+                "en": "Use the parking facilities right by the center; this is the perfect place to spend a rainy morning culturally in a fully indoor setting.",
+                "fr": "Utilisez le parking juste à côté du centre ; c’est l’endroit parfait pour passer une matinée pluvieuse entièrement à l’intérieur."
               }
             },
             {
@@ -854,13 +946,15 @@
                 "de": "Saint-Nicolas",
                 "hu": "Saint-Nicolas",
                 "ro": "Saint-Nicolas",
-                "en": "Saint-Nicolas"
+                "en": "Saint-Nicolas",
+                "fr": "Saint-Nicolas"
               },
               "tip_5lang": {
                 "de": "Die Straßen im Zentrum können bei Regen eng und rutschig sein; fahren Sie vorsichtig und achten Sie auf Fußgänger mit Regenschirmen.",
                 "hu": "A központ utcái esőben szűkek és csúszósak lehetnek; vezessen óvatosan, és figyeljen az úttesten átkelő, esernyős gyalogosokra.",
                 "ro": "Străzile din centru pot fi înguste și alunecoase pe ploaie; conduceți cu atenție și fiți atenți la pietonii cu umbrele.",
-                "en": "The streets in the center can be narrow and slippery in the rain; drive carefully and watch out for pedestrians with umbrellas."
+                "en": "The streets in the center can be narrow and slippery in the rain; drive carefully and watch out for pedestrians with umbrellas.",
+                "fr": "Les rues du centre peuvent être étroites et glissantes sous la pluie ; conduisez prudemment et faites attention aux piétons avec des parapluies."
               }
             },
             {
@@ -868,13 +962,15 @@
                 "de": "Chapelle de la Grière-Plage",
                 "hu": "Chapelle de la Grière-Plage",
                 "ro": "Chapelle de la Grière-Plage",
-                "en": "Chapelle de la Grière-Plage"
+                "en": "Chapelle de la Grière-Plage",
+                "fr": "Chapelle de la Grière-Plage"
               },
               "tip_5lang": {
                 "de": "Ein kurzer Sprint vom Auto zur Kapelle lohnt sich für die friedliche Stille im Inneren, während draußen der Sturm tobt.",
                 "hu": "Egy rövid sprint az autótól a kápolnáig megéri a benti békés csendért, miközben kint éppen tombol a tengerparti vihar.",
                 "ro": "Un scurt sprint de la mașină la capelă merită pentru liniștea din interior, în timp ce afară furtuna se dezlănțuie.",
-                "en": "A short sprint from the car to the chapel is worth it for the peaceful silence inside while the storm rages outside."
+                "en": "A short sprint from the car to the chapel is worth it for the peaceful silence inside while the storm rages outside.",
+                "fr": "Un court sprint depuis la voiture jusqu’à la chapelle en vaut la peine pour le silence paisible à l’intérieur pendant que la tempête gronde dehors."
               }
             },
             {
@@ -882,13 +978,15 @@
                 "de": "Plage Clémenceau",
                 "hu": "Plage Clémenceau",
                 "ro": "Plage Clémenceau",
-                "en": "Plage Clémenceau"
+                "en": "Plage Clémenceau",
+                "fr": "Plage Clémenceau"
               },
               "tip_5lang": {
                 "de": "Parken Sie mit Blick auf das Meer; Sie können das Spektakel der brechenden Wellen trocken und warm aus dem Auto heraus bewundern.",
                 "hu": "Parkoljon közvetlenül az óceánra néző helyen; így szárazon és melegben csodálhatja meg a megtörő hullámok látványos játékát.",
                 "ro": "Parcați cu fața spre ocean; puteți admira spectacolul valurilor care se sparg stând la căldură și uscat în interiorul mașinii.",
-                "en": "Park facing the ocean; you can admire the spectacle of the breaking waves while staying dry and warm inside your car."
+                "en": "Park facing the ocean; you can admire the spectacle of the breaking waves while staying dry and warm inside your car.",
+                "fr": "Garez‑vous face à l’océan ; vous pouvez admirer le spectacle des vagues déferlantes tout en restant au sec et au chaud dans votre voiture."
               }
             }
           ]
@@ -898,7 +996,8 @@
             "de": "Der Wintermorgen beginnt mit einer kurzen Fahrt zur Chapelle de la Terrière in der kühlen Seeluft. Mittags bietet das Pôle Culturel Les Floralies einen angenehm beheizten Zwischenstopp. Am Nachmittag erkunden wir die Küstenkapellen und genießen die weite Sicht über die einsamen Winterstrände. Da die Dunkelheit gegen 17:00 Uhr einsetzt, beenden wir unsere Tour am Plage Clémenceau mit dem frühen Sonnenuntergang.",
             "hu": "A téli reggel egy rövid autózással indul a Chapelle de la Terrière-hez a friss tengeri levegőben. Délben a Pôle Culturel Les Floralies kellemesen fűtött épülete nyújt pihenőt. Délután a part menti kápolnákat keressük fel, és élvezzük a kilátást az üres téli strandokra. Mivel 17:00 körül besötétedik, túránkat a Plage Clémenceau-nál zárjuk a korai naplemente fényeiben.",
             "ro": "Dimineața de iarnă începe cu o scurtă plimbare cu mașina spre Chapelle de la Terrière în aerul răcoros de mare. La prânz, Pôle Culturel Les Floralies oferă o oprire plăcut încălzită. După-amiaza, explorăm capelele de coastă și admirăm vederea spre plajele pustii de iarnă. Deoarece întunericul se lasă în jur de ora 17:00, încheiem turul la Plage Clémenceau cu apusul devreme.",
-            "en": "The winter morning begins with a short drive to Chapelle de la Terrière in the cool sea air. At noon, Pôle Culturel Les Floralies offers a pleasantly heated stopover. In the afternoon, we explore the coastal chapels and enjoy views over the empty winter beaches. As darkness sets in around 5 PM, we finish our tour at Plage Clémenceau with the early sunset."
+            "en": "The winter morning begins with a short drive to Chapelle de la Terrière in the cool sea air. At noon, Pôle Culturel Les Floralies offers a pleasantly heated stopover. In the afternoon, we explore the coastal chapels and enjoy views over the empty winter beaches. As darkness sets in around 5 PM, we finish our tour at Plage Clémenceau with the early sunset.",
+            "fr": "La matinée d’hiver commence par un court trajet jusqu’à la Chapelle de la Terrière dans l’air frais de mer. À midi, le Pôle Culturel Les Floralies offre une halte agréablement chauffée. L’après‑midi, nous explorons les chapelles côtières et profitons des vues sur les plages vides de l’hiver. Alors que l’obscurité tombe vers 17 h, nous terminons notre circuit à la Plage Clémenceau avec le coucher de soleil précoce."
           },
           "stops": [
             {
@@ -906,13 +1005,15 @@
                 "de": "Chapelle de la Terrière",
                 "hu": "Chapelle de la Terrière",
                 "ro": "Chapelle de la Terrière",
-                "en": "Chapelle de la Terrière"
+                "en": "Chapelle de la Terrière",
+                "fr": "Chapelle de la Terrière"
               },
               "tip_5lang": {
                 "de": "Das Innere der Kapelle ist im Winter oft kühler als erwartet; behalten Sie Ihren Mantel an, während Sie die historische Stille genießen.",
                 "hu": "A kápolna belseje télen gyakran hűvösebb a vártnál; hagyja magán a kabátját, miközben a történelmi falak közötti csendet élvezi.",
                 "ro": "Interiorul capelei este adesea mai răcoros decât vă așteptați iarna; păstrați haina pe dvs. în timp ce vă bucurați de liniștea istorică.",
-                "en": "The interior of the chapel is often cooler than expected in winter; keep your coat on while enjoying the historic silence."
+                "en": "The interior of the chapel is often cooler than expected in winter; keep your coat on while enjoying the historic silence.",
+                "fr": "L’intérieur de la chapelle est souvent plus frais qu’on ne l’imagine en hiver ; gardez votre manteau pour profiter du silence historique."
               }
             },
             {
@@ -920,13 +1021,15 @@
                 "de": "Phare du Grouin du Cou",
                 "hu": "Phare du Grouin du Cou",
                 "ro": "Phare du Grouin du Cou",
-                "en": "Phare du Grouin du Cou"
+                "en": "Phare du Grouin du Cou",
+                "fr": "Phare du Grouin du Cou"
               },
               "tip_5lang": {
                 "de": "Die Fernsicht ist an klaren Wintertagen hervorragend; nutzen Sie die Heizung im Auto, um sich nach einem kurzen Fotostopp am Wind schnell aufzuwärmen.",
                 "hu": "A látótávolság kiváló a tiszta téli napokon; használja az autó fűtését a gyors felmelegedéshez a szeles fotómegálló után.",
                 "ro": "Vizibilitatea la distanță este excelentă în zilele senine de iarnă; folosiți căldura din mașină pentru a vă încălzi rapid după oprirea foto.",
-                "en": "The long-distance visibility is excellent on clear winter days; use the car heater to warm up quickly after a windy photo stop."
+                "en": "The long-distance visibility is excellent on clear winter days; use the car heater to warm up quickly after a windy photo stop.",
+                "fr": "La visibilité à longue distance est excellente les jours d’hiver clairs ; utilisez le chauffage de la voiture pour vous réchauffer rapidement après une pause photo venteuse."
               }
             },
             {
@@ -934,13 +1037,15 @@
                 "de": "Pôle Culturel Les Floralies",
                 "hu": "Pôle Culturel Les Floralies",
                 "ro": "Pôle Culturel Les Floralies",
-                "en": "Pôle Culturel Les Floralies"
+                "en": "Pôle Culturel Les Floralies",
+                "fr": "Pôle Culturel Les Floralies"
               },
               "tip_5lang": {
                 "de": "Ein perfekter Ort, um der Kälte für eine Stunde zu entfliehen; das beheizte Foyer lädt zum Verweilen und Lesen über die lokale Geschichte ein.",
                 "hu": "Tökéletes hely, hogy egy órára elmeneküljön a hideg elől; a fűtött előtér hívogató hely a helyi történelemről szóló olvasgatáshoz.",
                 "ro": "Un loc perfect pentru a scăpa de frig pentru o oră; foierul încălzit vă invită să zăboviți și să citiți despre istoria locală.",
-                "en": "A perfect place to escape the cold for an hour; the heated foyer is an inviting spot to linger and read about local history."
+                "en": "A perfect place to escape the cold for an hour; the heated foyer is an inviting spot to linger and read about local history.",
+                "fr": "Un endroit parfait pour échapper au froid pendant une heure ; le foyer chauffé invite à rester et à lire sur l’histoire locale."
               }
             },
             {
@@ -948,13 +1053,15 @@
                 "de": "Saint-Nicolas",
                 "hu": "Saint-Nicolas",
                 "ro": "Saint-Nicolas",
-                "en": "Saint-Nicolas"
+                "en": "Saint-Nicolas",
+                "fr": "Saint-Nicolas"
               },
               "tip_5lang": {
                 "de": "Parken Sie im Winter bequem in der Nähe des Zentrums; die tiefstehende Sonne sorgt für ein wunderschönes Lichtspiel auf der Kirchenfassade.",
                 "hu": "Télen kényelmesen parkolhat a központ közelében; az alacsonyan járó nap gyönyörű fényjátékot vet a templom homlokzatára.",
                 "ro": "Parcați confortabil lângă centru iarna; soarele jos creează un joc de lumini superb pe fațada bisericii.",
-                "en": "Park easily near the center in winter; the low sun creates a beautiful play of light on the church's facade."
+                "en": "Park easily near the center in winter; the low sun creates a beautiful play of light on the church's facade.",
+                "fr": "Garez‑vous facilement près du centre en hiver ; le soleil bas crée un beau jeu de lumière sur la façade de l’église."
               }
             },
             {
@@ -962,13 +1069,15 @@
                 "de": "Chapelle de la Grière-Plage",
                 "hu": "Chapelle de la Grière-Plage",
                 "ro": "Chapelle de la Grière-Plage",
-                "en": "Chapelle de la Grière-Plage"
+                "en": "Chapelle de la Grière-Plage",
+                "fr": "Chapelle de la Grière-Plage"
               },
               "tip_5lang": {
                 "de": "Die Kapelle wirkt in der winterlichen Einsamkeit besonders andächtig; genießen Sie die Ruhe, bevor die frühe Dämmerung um 17 Uhr einsetzt.",
                 "hu": "A kápolna a téli magányban különösen áhítatos hangulatot áraszt; élvezze a csendet az 5 órakor kezdődő korai szürkület előtt.",
                 "ro": "Capela pare deosebit de pioasă în singurătatea iernii; bucurați-vă de liniște înainte de amurgul devreme de la ora 17.",
-                "en": "The chapel feels especially solemn in the winter solitude; enjoy the peace before the early twilight begins at 5 PM."
+                "en": "The chapel feels especially solemn in the winter solitude; enjoy the peace before the early twilight begins at 5 PM.",
+                "fr": "La chapelle paraît particulièrement solennelle dans la solitude hivernale ; profitez du calme avant que le crépuscule précoce ne commence à 17 h."
               }
             },
             {
@@ -976,13 +1085,15 @@
                 "de": "Plage Clémenceau",
                 "hu": "Plage Clémenceau",
                 "ro": "Plage Clémenceau",
-                "en": "Plage Clémenceau"
+                "en": "Plage Clémenceau",
+                "fr": "Plage Clémenceau"
               },
               "tip_5lang": {
                 "de": "Beenden Sie den Tag hier mit dem Blick auf den winterlichen Sonnenuntergang; das Auto bietet Schutz vor dem nun stark abkühlenden Wind.",
                 "hu": "Zárja itt a napot a téli naplemente látványával; az autó védelmet nyújt az ilyenkor már erősen lehűlő tengerparti szél ellen.",
                 "ro": "Încheiați ziua aici cu vederea apusului de iarnă; mașina oferă protecție împotriva vântului care se răcește puternic acum.",
-                "en": "End the day here with a view of the winter sunset; the car provides shelter from the wind which cools down significantly now."
+                "en": "End the day here with a view of the winter sunset; the car provides shelter from the wind which cools down significantly now.",
+                "fr": "Terminez la journée ici avec la vue sur le coucher de soleil hivernal ; la voiture abrite du vent qui se refroidit fortement maintenant."
               }
             }
           ]
